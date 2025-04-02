@@ -1,4 +1,4 @@
-name = "CleanSlate"
+name = "CleanSlate Russian Version"
 path = "mod/CleanSlate"
 picture = "cleanslate.jpg"
 
@@ -67,6 +67,10 @@ replace_path = "dlc_metadata/dlc_characters"
 replace_path = "dlc_metadata/dlc_recommendations"
 replace_path = "dlc_metadata/suggested_characters"
 replace_path = "events"
+
+replace_path = "gfx/eurfonts"
+replace_path = "gfx/fonts"
+replace_path = "gfx/polishfonts"
 
 #replace_path = "interface" # Do not uncomment this line. Overriding the base interface folder breaks portraits
 #replace_path = "interface/portraits" # Portraits are being left alone due to DLC issues.
