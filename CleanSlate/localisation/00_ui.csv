@@ -2057,8 +2057,6 @@ FORT_LEVEL;Fort Level;;;;;;;;;;;;;x
 FORT_PROV;Fort of $PROV$;;;;;;;;;;;;;x
 FORTS_INTERFACE_LABEL;§YForts§!;;;;;;;;;;;;;x
 FOUND_SETTLEMENT;Create Holding;;;;;;;;;;;;;x
-FRENCH;French;;;;;;;;;;;;;x
-FRENCH_SUPPORTED;Yes;;;;;;;;;;;;;x
 Friday;Friday;;;;;;;;;;;;;x
 FRIENDLY_TAKE_PROVINCE_ALLY_ORDER_BUTTON;§RCan not order allies to siege this county§!;;;;;;;;;;;;;x
 FRIENDS;Friends;;;;;;;;;;;;;x
@@ -2116,8 +2114,6 @@ GENERAL_CLOSE_KIN_UNION;Since §Y[ActorExtra.GetFirstName]§! is §Y[RecipientEx
 GENERAL_LEADER_DESC;Leading troops in §Y$LOCATION$§!;;;;;;;;;;;;;x
 GENERATING_COAS;Generating Coats of Arms;;;;;;;;;;;;;x
 GENERIC_DISCONTENT_REASON;Made a decision that the Council had voted no for;;;;;;;;;;;;;x
-GERMAN;German;;;;;;;;;;;;;x
-GERMAN_SUPPORTED;Yes;;;;;;;;;;;;;x
 GETISVALIDDESC;[GetIsValidDesc];;;;;;;;;;;;;x
 GIRL;girl;;;;;;;;;;;;;x
 GIVE_BARONIES_TITLE_TOOLTIP;Hand out baronies to local nobles;;;;;;;;;;;;;x
@@ -5161,8 +5157,6 @@ SOCIETY_SHOW_INTEREST_COOLDOWN;§R$NAME$ cannot Show Interest in a Society until
 SOCIETY_TRAIT_GAIN;$TRAIT$: $GAIN|=1+$;;;;;;;;;;;;;x
 SOCIETY_VALUE_PERCENT;$VAL|%0$;;;;;;;;;;;;;x
 SON;son;;;;;;;;;;;;;x
-SPANISH;Spanish;;;;;;;;;;;;;x
-SPANISH_SUPPORTED;Yes;;;;;;;;;;;;;x
 SPECIAL_EVENTOPTION_0;This option is available due to your high §YDiplomacy§! skill;;;;;;;;;;;;;x
 SPECIAL_EVENTOPTION_1;This option is available due to your high §YMartial§! skill;;;;;;;;;;;;;x
 SPECIAL_EVENTOPTION_2;This option is available due to your high §YStewardship§! skill;;;;;;;;;;;;;x
