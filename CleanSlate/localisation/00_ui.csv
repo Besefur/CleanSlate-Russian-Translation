@@ -1708,8 +1708,8 @@ ENFORCEABLE_CBS;$ACTOR|Y$ must have claims that $LIEGE|Y$ can press;;;;;;;;;;;Ó
 ENFORCEPEACE_LETTER;\nWith the support of my Council I decree that there shall be Peace in all my realm. You have three months to end your conflicts.;;;;;;;;;;;\nÏðè ïîääåðæêå ìîåãî ñîâåòà ÿ îáúÿâëÿþ, ÷òî îòíûíå â ïðåäåëàõ ýòîé ñòðàíû äåéñòâóåò çàêîí î ïðèíóäèòåëüíîì ìèðå. Ó Âàñ åñòü òðè ìåñÿöà, ÷òîáû çàêîí÷èòü âñå ñâîè âíóòðèãîñóäàðñòâåííûå êîíôëèêòû.;;x
 ENFORCEPEACE_LOG;$LIEGE|Y$ has notified his vassal $VASSAL|Y$ about the decision to enforce peace.;;;;;;;;;;;$LIEGE|Y$ óâåäîìèë[From.GetEndA] ñâîåãî âàññàëà, èçâåñòíîãî êàê $VASSAL|Y$, î ñâî¸ì ðåøåíèè óòâåðäèòü ïðèíóäèòåëüíûé ìèð âíóòðè ñòðàíû.;;x
 ENFORCEPEACE_SETUP;Realm Peace;;;;;;;;;;;Ìèð âíóòðè ñòðàíû;;x
-ENGLISH;English;;;;;;;;;;;Ðóññêèé;;x
-ENGLISH_SUPPORTED;Yes;;;;;;;;;;;Äà;;x
+RUSSIAN;Russian;;;;;;;;;;;Ðóññêèé;;x
+RUSSIAN_SUPPORTED;Yes;;;;;;;;;;;Äà;;x
 ENTER_COUNTRY;Enter Country;;;;;;;;;;;Âûáåðèòå ñòðàíó;;x
 ENTER_LANGUAGE;Enter Language;;;;;;;;;;;ßçûê;;x
 EPIDEMICS_TOOLTIP_DELAYED_OTHERS;Other epidemics in the world:;;;;;;;;;;;Ïðî÷èå ýïèäåìèè â ìèðå:;;x
