@@ -1166,7 +1166,7 @@ defined_text = {
 defined_text = {
 	name = GetCharacterInsultDesc
 
-#Insult Character Desc
+# Insult Character Desc
 	#																							X <-- Don't go beyond here
 	# Is it any surprise you would pick a game where you are the center of attention?			(proud/groomed)
 	# Try not to choke between turns, [From.GetFirstName], we have a long game ahead.			(gluttonous)
@@ -2262,7 +2262,7 @@ defined_text = {
 	}
 }
 
-#U sed to refer to a type of "warrior", initial cap...
+# Used to refer to a type of "warrior", initial cap...
 defined_text = {
 	name = GetTeachingMomentTool
 	use_first_valid = yes

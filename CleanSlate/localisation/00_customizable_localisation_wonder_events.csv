@@ -1,100 +1,87 @@
 # GetBookTheme
-String_Drama;play;;;;;;;;;;;;;x
-String_Poetry;poem book;;;;;;;;;;;;;x
-String_Architecture;architecture book;;;;;;;;;;;;;x
-String_Philosophy;philosophy book;;;;;;;;;;;;;x
-String_History;history book;;;;;;;;;;;;;x
-String_Astronomy;astronomy book;;;;;;;;;;;;;x
-String_Medical;anatomy book;;;;;;;;;;;;;x
-
+String_Drama;play;;;;;;;;;;;ïüåñà;;x
+String_Poetry;poem book;;;;;;;;;;;ïîýìà;;x
+String_Architecture;architecture book;;;;;;;;;;;òðàêòàò ïî àðõèòåêòóðå;;x
+String_Philosophy;philosophy book;;;;;;;;;;;ôèëîñîôñêèé òðàêòàò;;x
+String_History;history book;;;;;;;;;;;ñî÷èíåíèÿ ïî èñòîðèè;;x
+String_Astronomy;astronomy book;;;;;;;;;;;òðàêòàò ïî àñòðîíîìèè;;x
+String_Medical;anatomy book;;;;;;;;;;;òðàêòàò ïî àíàòîìèè;;x
 # GetBookThemeWithArticle
-String_aDrama;a play;;;;;;;;;;;;;x
-String_aPoetry;a poem book;;;;;;;;;;;;;x
-String_anArchitecture;an architecture book;;;;;;;;;;;;;x
-String_aPhilosophy;a philosophy book;;;;;;;;;;;;;x
-String_aHistory;a history book;;;;;;;;;;;;;x
-String_anAstronomy;an astronomy book;;;;;;;;;;;;;x
-String_aMedical;an anatomy book;;;;;;;;;;;;;x
-
+String_aDrama;a play;;;;;;;;;;;ïüåñà;;x
+String_aPoetry;a poem book;;;;;;;;;;;ïîýìà;;x
+String_anArchitecture;an architecture book;;;;;;;;;;;òðàêòàò ïî àðõèòåêòóðå;;x
+String_aPhilosophy;a philosophy book;;;;;;;;;;;ôèëîñîôñêèé òðàêòàò;;x
+String_aHistory;a history book;;;;;;;;;;;ñî÷èíåíèÿ ïî èñòîðèè;;x
+String_anAstronomy;an astronomy book;;;;;;;;;;;òðàêòàò ïî àñòðîíîìèè;;x
+String_aMedical;an anatomy book;;;;;;;;;;;òðàêòàò ïî àíàòîìèè;;x
 # GetBookThemeCap
-String_ADrama;A play;;;;;;;;;;;;;x
-String_APoetry;A poem book;;;;;;;;;;;;;x
-String_AnArchitecture;Architecture book;;;;;;;;;;;;;x
-String_APhilosophy;Philosophy book;;;;;;;;;;;;;x
-String_AHistory;History book;;;;;;;;;;;;;x
-String_AnAstronomy;Astronomy book;;;;;;;;;;;;;x
-String_AMedical;Anatomy book;;;;;;;;;;;;;x
-
+String_ADrama;A play;;;;;;;;;;;Ïüåñà;;x
+String_APoetry;A poem book;;;;;;;;;;;Ïîýìà;;x
+String_AnArchitecture;Architecture book;;;;;;;;;;;Òðàêòàò ïî àðõèòåêòóðå;;x
+String_APhilosophy;Philosophy book;;;;;;;;;;;Ôèëîñîôñêèé òðàêòàò;;x
+String_AHistory;History book;;;;;;;;;;;Ñî÷èíåíèÿ ïî èñòîðèè;;x
+String_AnAstronomy;Astronomy book;;;;;;;;;;;Òðàêòàò ïî àñòðîíîìèè;;x
+String_AMedical;Anatomy book;;;;;;;;;;;Òðàêòàò ïî àíàòîìèè;;x
 # GetAuthorTitle
-String_Writer;writer;;;;;;;;;;;;;x
-String_Poet;poet;;;;;;;;;;;;;x
-String_Architect;architect;;;;;;;;;;;;;x
-String_Philosopher;philosopher;;;;;;;;;;;;;x
-String_Historian;historian;;;;;;;;;;;;;x
-String_Astronomer;astronomer and philosopher;;;;;;;;;;;;;x
-String_Medic;physician;;;;;;;;;;;;;x
-
+String_Writer;writer;;;;;;;;;;;ïèñàòåëü;;x
+String_Poet;poet;;;;;;;;;;;ïîýò;;x
+String_Architect;architect;;;;;;;;;;;àðõèòåêòîð;;x
+String_Philosopher;philosopher;;;;;;;;;;;ôèëîñîô;;x
+String_Historian;historian;;;;;;;;;;;èñòîðèê;;x
+String_Astronomer;astronomer and philosopher;;;;;;;;;;;àñòðîíîì;;x
+String_Medic;physician;;;;;;;;;;;âðà÷;;x
 # GetAuthorNationAdj
-String_greek;Greek;;;;;;;;;;;;;x
-String_roman;Roman;;;;;;;;;;;;;x
-
+String_greek;Greek;;;;;;;;;;;ãðå÷å;;x
+String_roman;Roman;;;;;;;;;;;ðèì;;x
 # GetAuthorName
-String_Euripedes;Euripedes;;;;;;;;;;;;;x
-String_Sophocles;Sophocles;;;;;;;;;;;;;x
-String_Aristophanes;Aristophanes;;;;;;;;;;;;;x
-String_Philemon;Philemon;;;;;;;;;;;;;x
-String_Aeschylus;Aeschylus;;;;;;;;;;;;;x
-String_Archilochus;Archilochus;;;;;;;;;;;;;x
-String_Alcman_of_Sparta;Alcman of Sparta;;;;;;;;;;;;;x
-String_Theocritus;Theocritus;;;;;;;;;;;;;x
-String_Sappho;Sappho;;;;;;;;;;;;;x
-String_Asclepiades_of_Samos;Asclepiades of Samos;;;;;;;;;;;;;x
-String_Hermodorus_of_Salamis;Hermodorus of Salamis;;;;;;;;;;;;;x
-String_Vitruvius;Vitruvius;;;;;;;;;;;;;x
-String_Rabirius;Rabirius;;;;;;;;;;;;;x
-String_Cocceius_Auctus;Cocceius Auctus;;;;;;;;;;;;;x
-String_Plato;Plato;;;;;;;;;;;;;x
-String_Aristotle;Aristotle;;;;;;;;;;;;;x
-String_Pythagoras;Pythagoras;;;;;;;;;;;;;x
-String_Thales_of_Mileto;Thales of Mileto;;;;;;;;;;;;;x
-String_Zeno_of_Elea;Zeno of Elea;;;;;;;;;;;;;x
-String_Herodotus;Herodotus;;;;;;;;;;;;;x
-String_Thucydides;Thucydides;;;;;;;;;;;;;x
-String_Polybius;Polybius;;;;;;;;;;;;;x
-String_Strabo;Strabo;;;;;;;;;;;;;x
-String_Hypatia_of_Alexandria;Hypatia of Alexandria;;;;;;;;;;;;;x
-String_Ptolemy;Ptolemy;;;;;;;;;;;;;x
-String_Aristarchus_of_Samos;Aristarchus of Samos;;;;;;;;;;;;;x
-String_Hippocrates_of_Kos;Hippocrates of Kos;;;;;;;;;;;;;x
-String_Virgil;Virgil;;;;;;;;;;;;;x
-
+String_Euripedes;Euripedes;;;;;;;;;;;Ýâðèïèä;;x
+String_Sophocles;Sophocles;;;;;;;;;;;Ñîôîêë;;x
+String_Aristophanes;Aristophanes;;;;;;;;;;;Àðèñòîôàí;;x
+String_Philemon;Philemon;;;;;;;;;;;Ôèëåìîí;;x
+String_Aeschylus;Aeschylus;;;;;;;;;;;Ýñõèë;;x
+String_Archilochus;Archilochus;;;;;;;;;;;Àðõèëîõ;;x
+String_Alcman_of_Sparta;Alcman of Sparta;;;;;;;;;;;Àëêìàí Ñïàðòàíñêèé;;x
+String_Theocritus;Theocritus;;;;;;;;;;;Ôåîêðèò;;x
+String_Sappho;Sappho;;;;;;;;;;;Ñàôî;;x
+String_Asclepiades_of_Samos;Asclepiades of Samos;;;;;;;;;;;Àñêëåïèàä Ñàìîññêèé;;x
+String_Hermodorus_of_Salamis;Hermodorus of Salamis;;;;;;;;;;;Ãåðìîäîð Ñàëàìèíñêèé;;x
+String_Vitruvius;Vitruvius;;;;;;;;;;;Âèòðóâèé;;x
+String_Rabirius;Rabirius;;;;;;;;;;;Ðàáèðèé;;x
+String_Cocceius_Auctus;Cocceius Auctus;;;;;;;;;;;Êîêöåé Àâêò;;x
+String_Plato;Plato;;;;;;;;;;;Ïëàòîí;;x
+String_Aristotle;Aristotle;;;;;;;;;;;Àðèñòîòåëü;;x
+String_Pythagoras;Pythagoras;;;;;;;;;;;Ïèôàãîð;;x
+String_Thales_of_Mileto;Thales of Mileto;;;;;;;;;;;Ôàëåñ Ìèëåòñêèé;;x
+String_Zeno_of_Elea;Zeno of Elea;;;;;;;;;;;Çåíîí Ýëåéñêèé;;x
+String_Herodotus;Herodotus;;;;;;;;;;;Ãåðîäîò;;x
+String_Thucydides;Thucydides;;;;;;;;;;;Ôóêèäèä;;x
+String_Polybius;Polybius;;;;;;;;;;;Ïîëèáèé;;x
+String_Strabo;Strabo;;;;;;;;;;;Ñòðàáîí;;x
+String_Hypatia_of_Alexandria;Hypatia of Alexandria;;;;;;;;;;;Ãèïàòèÿ Àëåêñàíäðèéñêàÿ;;x
+String_Ptolemy;Ptolemy;;;;;;;;;;;Ïòîëåìåé;;x
+String_Aristarchus_of_Samos;Aristarchus of Samos;;;;;;;;;;;Àðèñòàðõ Ñàìîññêèé;;x
+String_Hippocrates_of_Kos;Hippocrates of Kos;;;;;;;;;;;Ãèïïîêðàò Êîññêèé;;x
+String_Virgil;Virgil;;;;;;;;;;;Âåðãèëèé;;x
 # GetZweihanderSwordName
-String_ZweihanderSword;Zweihander Sword;;;;;;;;;;;;;x
-String_TwoHandedSword;Two-Handed Sword;;;;;;;;;;;;;x
-
+String_ZweihanderSword;Zweihander Sword;;;;;;;;;;;Öâàéõåíäåð;;x
+String_TwoHandedSword;Two-Handed Sword;;;;;;;;;;;Äâóðó÷íûé ìå÷;;x
 # GetAlcoholContainerType
-String_bottle;bottle;;;;;;;;;;;;;x
-String_case;case;;;;;;;;;;;;;x
-String_cask;cask;;;;;;;;;;;;;x
-String_barrel;barrel;;;;;;;;;;;;;x
-
+String_bottle;bottle;;;;;;;;;;;áóòûëêó;;x
+String_case;case;;;;;;;;;;;áóðäþê;;x
+String_cask;cask;;;;;;;;;;;áî÷îíîê;;x
+String_barrel;barrel;;;;;;;;;;;áî÷êó;;x
 # GetAlcoholContainerTypeCap
-String_Bottle;Bottle;;;;;;;;;;;;;x
-String_Case;Case;;;;;;;;;;;;;x
-String_Cask;Cask;;;;;;;;;;;;;x
-String_Barrel;Barrel;;;;;;;;;;;;;x
-
+String_Bottle;Bottle;;;;;;;;;;;Áóòûëêà;;x
+String_Case;Case;;;;;;;;;;;Áóðäþê;;x
+String_Cask;Cask;;;;;;;;;;;Áî÷îíîê;;x
+String_Barrel;Barrel;;;;;;;;;;;Áî÷êà;;x
 # GetScaryCD
-string_scary_cd; - you can try to intimidate a character again on: §Y[This.used_scary_upgrade_cd.GetExpiryDate]§!;;;;;;;;;;;;;x
-
+string_scary_cd; - you can try to intimidate a character again on: §Y[This.used_scary_upgrade_cd.GetExpiryDate]§!;;;;;;;;;;; - Âû ìîæåòå ïîïûòàòüñÿ ñíîâà íå ðàíüøå, ÷åì §Y[This.used_scary_upgrade_cd.GetExpiryDate]§!;;x
 # GetSingularS
-String_s;s;;;;;;;;;;;;;x
-
+String_s;s;;;;;;;;;;;s;;x
 # GetPoliteRefuse
-String_politely;politely;;;;;;;;;;;;;x
-
+String_politely;politely;;;;;;;;;;;âåæëèâî;;x
 # GetBigBurialHaterSentence
-big_burial_hater_Sentence;Those who hated [target_dead_ruler.GetHerHim] might not be pleased.;;;;;;;;;;;;;x
-
+big_burial_hater_Sentence;Those who hated [target_dead_ruler.GetHerHim] might not be pleased.;;;;;;;;;;;Òå, êòî íåíàâèäèò [target_dead_ruler.GetHersHis] áóäóò íåäîâîëüíû.;;x
 # GetUnfinished
-String_unfinished;unfinished ;;;;;;;;;;;;;x
+String_unfinished;unfinished ;;;;;;;;;;;íåçàêîí÷åíí[This.GetWonderAyaYyYeOe] ;;x

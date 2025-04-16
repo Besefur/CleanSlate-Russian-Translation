@@ -1,269 +1,269 @@
-china_physician_cd;§YSent a Physician§!;;;;;;;;;;;;;x
-china_physician_cd_desc;You have already sent a Physician to China, you will not be able to send another one.;;;;;;;;;;;;;x
-chinese_grace_become_tributary_effect_TT;In exchange for §R50% income§!, §R30% troop reinforcement rate§! and §R[GetChineseOffmapTributaryPrestigeCost]§!, receive §G2 Grace per month§! and §Ga Chinese regiment to raise as the defender in a war§!.\nThese effects last until the end of the Empire's §Yruling dynasty§!, or until §Yyou declare independence§! (through war, or decision in the Intrigue screen).\n;;;;;;;;;;;;;x
-hostages_random_imprisonment_tt;You will imprison a random §YClose Relative§! of the target.;;;;;;;;;;;;;x
-is_not_maimed_or_infirm_tt;Is NOT §YMaimed§! or §YInfirm§!\n;;;;;;;;;;;;;x
-is_not_one_eyed_handed_legged_disfigured_or_mangled_tt;Is NOT §YOne-Eyed§!, §YOne-Handed§!, §YOne-Legged§!, §YDisfigured§!, or §YMangled§!\n;;;;;;;;;;;;;x
-is_not_wounded_severely_injured_tt;Is NOT §YWounded§! or §YSeverely Injured§!\n;;;;;;;;;;;;;x
-you_will_game_over_tt;§RThis will cause a GAME OVER, as you are not allowed to play this Religion!§!\n;;;;;;;;;;;;;x
-ALTAIC_BUT_NOT_JURCHEN_TT;An [altaic.GetGroupName] Culture besides [jurchen.GetName];;;;;;;;;;;;;x
-angered_china_tt;[Root.GetTitledFirstName] gets 'Angered China' for 50 years, decreasing Monthly Prestige by §R-0.50§! and Monthly Grace by §R-2§!.;;;;;;;;;;;;;x
-adopt_chinese_imperialism_gov_tt;Under Chinese Imperialism you:\n§Y*§! Can hold cities\n§Y*§! Do not care if others do not follow your religion nor can you demand their conversion\n§Y*§! Do not get opinion penalties with vassals of other government types\n§Y*§! Can not create or usurp Empires\n§Y*§! Follow the special Temple Name convention of naming rulers\n§Y*§! Are limited to non-elective succession laws;;;;;;;;;;;;;x
-adopt_chinese_imperialism_temple_name_tt;You will take on a new Temple Name.;;;;;;;;;;;;;x
-adopt_chinese_imperialism_tt;You will found a new Empire in the West, inspired by the splendor of the [offmap_china.GetFullName].\n;;;;;;;;;;;;;x
-adult_or_close_relative_of_12_years_tt;Is an adult, OR a close relative who is at least 12 years old;;;;;;;;;;;;;x
-already_at_war_tt;Is NOT already fighting a §YForce Open§! war;;;;;;;;;;;;;x
-already_raised_TT;Must NOT already have raised a Chinese Regiment;;;;;;;;;;;;;x
-artifact_added_tt;An artifact is added to your inventory.;;;;;;;;;;;;;x
-artifact_raid_tt;A Chinese artifact is added to your inventory.;;;;;;;;;;;;;x
-available_because_is_dumb_tt;This option is available because you have one or more of the traits §YDull§!, §YSlow§!, or §YImbecile§!\n;;;;;;;;;;;;;x
-available_because_trait_erudite_tt;This option is available because you have the trait §YErudite§!\n;;;;;;;;;;;;;x
-available_because_trait_lunatic_tt;This option is available because you have the trait §YLunatic§!\n;;;;;;;;;;;;;x
-available_because_trait_mastermind_theologian_tt;This option is available because you have the trait §YMastermind Theologian§!\n;;;;;;;;;;;;;x
-available_because_trait_scholar_tt;This option is available because you have the trait §YScholar§!\n;;;;;;;;;;;;;x
-available_due_to_prestige_tt;This option is available due to your high §YPrestige§!\n;;;;;;;;;;;;;x
-bema_celebrations;Holding Bema festival;;;;;;;;;;;;;x
-bon_sympathy_eastern;Has a §YCounty§!, §YVassal§! or §YLiege§! of an §YEastern Religion§!;;;;;;;;;;;;;x
-can_marry_chinese_royal_tt;Is eligible for marriage;;;;;;;;;;;;;x
-cat_corridor;Follow §YMittens§!;;;;;;;;;;;;;x
-cat_kitchen;Share some milk with §YMittens§!;;;;;;;;;;;;;x
-cat_start;The council continues;;;;;;;;;;;;;x
-cb_opportunity_liberate;Gain one use of the §YLiberate Religion§! Casus Belli, to be used on any valid target of your choosing.;;;;;;;;;;;;;x
-cb_opportunity_liberate_deny;You decide that your time is better spent elsewhere. You will not be presented with this opportunity again.;;;;;;;;;;;;;x
-china_boon_available_tt;§Y[Root.Offmap.Ruler.GetMediumChineseEmperorName]§! has NOT granted you a boon within the last year;;;;;;;;;;;;;x
-china_boon_cd;§YRecently Asked for Boon§!;;;;;;;;;;;;;x
-china_boon_cd_desc;You have recently asked China for a Boon, you will be able to ask for another one on: §Y[Root.jd_china_boon_cd.GetExpiryDate]§!;;;;;;;;;;;;;x
-china_commander_cd;§YRecently Sent Commander§!;;;;;;;;;;;;;x
-china_commander_cd_desc;You have recently sent a Commander to China, if China is still in turmoil you will be able to send another one on: §Y[Root.chinese_grace_send_commander_timer.GetExpiryDate]§!;;;;;;;;;;;;;x
-china_concubine_cd;§YRecently Sent a Concubine§!;;;;;;;;;;;;;x
-china_concubine_cd_desc;You have recently sent a Concubine to China, you will be able to send another one on: §Y[Root.chinese_grace_send_concubine_timer.GetExpiryDate]§!;;;;;;;;;;;;;x
-china_eunuch_cd;§YRecently Sent a Eunuch§!;;;;;;;;;;;;;x
-china_eunuch_cd_desc;You have recently sent a Eunuch to China, you will be able to send another one on: §Y[Root.chinese_grace_send_eunuch_timer.GetExpiryDate]§!;;;;;;;;;;;;;x
-china_famine_cd;§YRecently Sent Relief!§!;;;;;;;;;;;;;x
-china_famine_cd_desc;You have recently sent Famine Relief to China, if China is still suffering from a Famine you will be able to send another expedition on: §Y[Root.china_send_relief.GetExpiryDate]§!;;;;;;;;;;;;;x
-china_forced_open_tt;Will NOT be able to change to the Isolationist Policy for §Y50§! years;;;;;;;;;;;;;x
-china_gift_cd;§YRecently Sent Gift§!;;;;;;;;;;;;;x
-china_gift_cd_desc;You have recently sent a Gift to China, you will be able to send another one on: §Y[Root.chinese_grace_send_gift_timer.GetExpiryDate]§!;;;;;;;;;;;;;x
-china_invade_dragon_throne_eastern_edge_tt;Borders the Eastern Edge of the map;;;;;;;;;;;;;x
-china_invade_dragon_throne_failed_tt;Has NOT failed an invasion of China;;;;;;;;;;;;;x
-china_invade_dragon_throne_levies_tt;Has NOT raised any vassal levies;;;;;;;;;;;;;x
-china_invade_dragon_throne_modifiers_tt;All of your current §Y[offmap_china.GetCurrency]§! and §Ymodifiers§! from §Y[offmap_china.GetShortName]§! will be §Rremoved§!.;;;;;;;;;;;;;x
-china_invade_dragon_throne_war_tt;Is NOT currently being invaded;;;;;;;;;;;;;x
-china_offmap_boon_decisions_enabled_trigger_cd_tt;Has NOT requested a boon from §Y[Root.Offmap.Ruler.GetShortChineseEmperorName]§! within the last year\n;;;;;;;;;;;;;x
-china_offmap_boon_decisions_enabled_trigger_raiding_tt;Has NOT raided the §Y[Root.Offmap.GetFullName]§! in the last 5 years[From.GetRaidCD];;;;;;;;;;;;;x
-china_offmap_decisions_enabled_trigger_war_tt;Is at peace with §Y[From.GetTitledFirstName]§!;;;;;;;;;;;;;x
-china_offmap_decisions_failed_invasion_tt;Has NOT failed an invasion of the §Y[offmap_china.GetFullName]§!;;;;;;;;;;;;;x
-china_offmap_decisions_pretender_emperor_tt;Is §RNOT§! the ruler of a pretender Chinese Empire;;;;;;;;;;;;;x
-china_offmap_tribute_decisions_enabled_trigger_cd_tt;Has NOT sent tribute to §Y[Root.Offmap.Ruler.GetShortChineseEmperorName]§! within the last year\n;;;;;;;;;;;;;x
-china_raid_cd;§YRecently Raided China!§!;;;;;;;;;;;;;x
-china_raid_cd_desc;You have recently stopped Raiding China, you will be able to resume raiding on: §Y[Root.china_raid_grace_cd.GetExpiryDate]§!;;;;;;;;;;;;;x
-china_tributary_cd;§YRecently Broke Free§!;;;;;;;;;;;;;x
-china_tributary_cd_desc;You have recently broken free from being a Tributary of China. You will be able to ask to become one again on: §Y[Root.chinese_grace_tributary_timer.GetExpiryDate]§!;;;;;;;;;;;;;x
-china_tribute_available_tt;Paying tribute to §Y[Root.Offmap.Ruler.GetMediumChineseEmperorName]§! is currently available.;;;;;;;;;;;;;x
-china_tribute_send_artifact_cooldown_tt;Has NOT sent an artifact in 10 years;;;;;;;;;;;;;x
-china_tribute_send_commander_cooldown_tt;Has NOT sent a commander in 20 years;;;;;;;;;;;;;x
-china_tribute_send_concubine_cooldown_tt;Has NOT sent a concubine in 20 years;;;;;;;;;;;;;x
-china_tribute_send_concubine_preference_tt;Is desired by the §Y[offmap_china.Ruler.GetEmperorEmpress]§!;;;;;;;;;;;;;x
-china_tribute_send_eunuch_congenital_tt;Has a §Ypositive§! congenital trait;;;;;;;;;;;;;x
-china_tribute_send_eunuch_cooldown_tt;Has NOT sent a eunuch in 20 years;;;;;;;;;;;;;x
-china_tribute_send_eunuch_gift_tt;Is a eunuch that was gifted to you;;;;;;;;;;;;;x
-china_tribute_send_eunuch_non_inherit_congenital_tt;Has a §Ypositive§! non-inheritable congenital trait;;;;;;;;;;;;;x
-china_tribute_send_eunuch_stats_tt;Has an attribute greater than or equal to §Y20§!;;;;;;;;;;;;;x
-china_tribute_send_physician_tt;Has NOT sent a physician already;;;;;;;;;;;;;x
-chinese_administrator_allow_tt;Does NOT have a Scholar-Bureaucrat;;;;;;;;;;;;;x
-chinese_administrator_effect_tt;A scholar-bureaucrat will arrive at your court.\n;;;;;;;;;;;;;x
-chinese_artifact_effect_tt;You will receive a §YChinese Artifact§!!;;;;;;;;;;;;;x
-chinese_artifact_has_all_tt;Does NOT already have all Chinese artifacts ranging from quality §Y1§! to §Y3§!;;;;;;;;;;;;;x
-chinese_emperor_dislikes_THIS_tt;(The Emperor §RDislikes [offmap_china.GetDislike]§!);;;;;;;;;;;;;x
-chinese_emperor_has_ambiguous_feelings_of_THIS_tt;(The Emperor §GLikes [offmap_china.GetLike]§! but §RDislikes [offmap_china.GetDislike]§!);;;;;;;;;;;;;x
-chinese_emperor_likes_THIS_tt;(The Emperor §GLikes [offmap_china.GetLike]§!);;;;;;;;;;;;;x
-chinese_grace_become_tributary_allow_chinese_influence_tt;Has a realm county in the Chinese Region of Influence\n;;;;;;;;;;;;;x
-chinese_grace_become_tributary_allow_eastern_border_tt;Has a realm county bordering the Eastern edge of the map\n;;;;;;;;;;;;;x
-chinese_grace_become_tributary_allow_governor_neighbor_tt;Has a realm county bordering the [Root.PrimaryTitle.GetFullName]\n;;;;;;;;;;;;;x
-chinese_grace_become_tributary_allow_india_tt;Has a coastal realm county in India\n;;;;;;;;;;;;;x
-chinese_grace_become_tributary_allow_suzerain_tt;Does NOT already have a suzerain\n;;;;;;;;;;;;;x
-chinese_grace_become_tributary_allow_tributary_neighbor_tt;Has a realm county bordering a nation which is a tributary of the [Root.Offmap.GetFullName]\n;;;;;;;;;;;;;x
-chinese_grace_doctor_allow_tt;Does NOT have a Court Physician;;;;;;;;;;;;;x
-chinese_grace_peace_deal_allow_tt;Does NOT have a non-aggression pact or peace deal with the §Y[Root.Offmap.GetFullName]§! and its §Y[Root.Offmap.Governor.GetTitle]§!\n;;;;;;;;;;;;;x
-chinese_grace_peace_deal_effect_tt;\nDuring the peace deal, the §Y[Root.Offmap.GetFullName]§! and its §Y[Root.Offmap.Governor.GetTitle]§! will not declare war on you. It will last for §Y50§! years or until the dynasty of the [Root.Offmap.Ruler.GetTitle], [Root.Offmap.Ruler.GetOnlyDynastyName], ends.;;;;;;;;;;;;;x
-chinese_grace_send_gift_allow_tt;Has NOT gifted money to the §Y[Root.Offmap.Ruler.GetShortChineseEmperorName]§! within the last 15 years;;;;;;;;;;;;;x
-chinese_grace_supply_horses_not_already_supplying_tt;Is NOT already supplying horses;;;;;;;;;;;;;x
-chinese_grace_supply_horses_stopped_supplying_tt;Has NOT previously chosen to stop supplying horses;;;;;;;;;;;;;x
-chinese_imperial_marriage_peace_deal_effect_tt;This marriage will secure a peace deal during which the §Y[offmap_china.GetFullName]§! and its §Y[offmap_china.Governor.GetTitle]§! will not declare war on you. It will last for §Y50§! years or until the dynasty of the [offmap_china.Ruler.GetTitle], [offmap_china.Ruler.GetOnlyDynastyName], ends.;;;;;;;;;;;;;x
-chinese_imperial_marriage_peace_deal_tt;You will enter into a peace deal with the §Y[offmap_china.GetFullName]§!.;;;;;;;;;;;;;x
-chinese_imperial_marriage_prince_effect_tt;An imperial prince of the §Y[Root.Offmap.GetFullName]§! arrives to marry §Y[FromFrom.GetTitledFirstName]§!.;;;;;;;;;;;;;x
-chinese_imperial_marriage_princess_effect_tt;An imperial princess of the §Y[Root.Offmap.GetFullName]§! arrives to marry §Y[FromFrom.GetTitledFirstName]§!.;;;;;;;;;;;;;x
-chinese_master_engineer_allow_tt;Does NOT have a Master Engineer;;;;;;;;;;;;;x
-chinese_master_engineer_effect_tt;A master engineer will join your court. While employed, they will build constructions and machines throughout your demesne, adding various bonuses to your economy, military, and technology.;;;;;;;;;;;;;x
-chinese_request_invasion_defeated_china_tt;Has NOT defeated China in a war;;;;;;;;;;;;;x
-chinese_request_invasion_rel_head_tt;Does NOT hold a religious head title that is higher tier than §YDuke§!;;;;;;;;;;;;;x
-chinese_siege_engineers_effect_tt;Three Siege Engineers join your court. These characters are exceptional in the art of undermining fortifications using explosives and constructing siege towers to scale walls.\n;;;;;;;;;;;;;x
-chinese_silk_road_favored_status_modifier_tt;All trade post provinces in the realm of §Y[From.PrimaryTitle.GetName]§! gains §G100%§! increased trade income for 25 years.;;;;;;;;;;;;;x
-chinese_strategist_effect_tt;A strategist joins your court. From time to time, they will attempt to teach other soldiers about Chinese strategies.\n;;;;;;;;;;;;;x
-chinese_strategist_effect_2_tt;A strategist joins your court.;;;;;;;;;;;;;x
-chinese_tribute_become_tributary_cooldown_tt;Has NOT broken free from being a tributary in 30 years;;;;;;;;;;;;;x
-choose_a_topic_tt;Choose a topic worthy of discussing.;;;;;;;;;;;;;x
-choose_school_taoist;Choose Taoist School;;;;;;;;;;;;;x
-confess_faith_already_has_secret_rel_tt;[Root.GetTitledName] continues to secretly practice the [Root.SecretReligion.GetName] religion.;;;;;;;;;;;;;x
-confess_faith_courtiers_decision_tooltip;Any non-zealous courtiers of your religion will have a chance of joining you in falsely confessing their faith.;;;;;;;;;;;;;x
-courtier_from_china_trigger_tt;Is a courtier from China;;;;;;;;;;;;;x
-create_ashokas_chosen_tooltip;The Holy Order §YChosen of Ashoka§! is established.;;;;;;;;;;;;;x
-create_bulls_rishabha_tooltip;The Holy Order §YBulls of Rishabha§! is established.;;;;;;;;;;;;;x
-create_followers_arjuna_tooltip;The Holy Order §YFollowers of Arjuna§! is established.;;;;;;;;;;;;;x
-custom_opinion_hit_tooltip;The opinion of all §YLanded Characters§! of your §YReligious Group§! in your §YRealm§! and the realm of §Y[From.GetTitledFirstName]§! changes by §R-15§! for §Y10§! years. §Y(Declared Unjust War)§!;;;;;;;;;;;;;x
-custom_opinion_hit_tooltip_enemy;The opinion of all §YLanded Characters§! of the §Y[From.Religion.GetName]§! religion in your §YRealm§! and the realm of §Y[From.GetTitledFirstName]§! changes by §R-15§! for §Y10§! years. §Y(Declared Unjust War)§!;;;;;;;;;;;;;x
-custom_tooltip_choose_patron_diety;Choose a Patron Diety;;;;;;;;;;;;;x
-dangerous_negotiations_tt;§Y[Root.GetFullName]§! will present an offer - if you choose to decline this offer there is nothing stopping [Root.GetHerHim] from continuing to raid your lands.;;;;;;;;;;;;;x
-defeated_decadence_revolt;Defeated Decadence Invasion;;;;;;;;;;;;;x
-defeated_decadence_revolt_desc;This character has defeated a decadence invasion - for as long as they rule the largest realm among all of their Dynasty, they will not be considered decadent.;;;;;;;;;;;;;x
-dislikes_tt;(§RDislikes [This.GetDislike]§!);;;;;;;;;;;;;x
-dismantle_pretender_china_success_tt;[This.GetTitledName] will have [This.GetHerHis] Empire dismantled by [offmap_china.Ruler.GetMediumChineseEmperorName], the true Son of Heaven.;;;;;;;;;;;;;x
-earmarked_regiments_tt;Has NOT already raised the Honor Guard;;;;;;;;;;;;;x
-emperor_dislikes_THIS_tt;(§RThe Emperor Dislikes [This.GetDislike]§!);;;;;;;;;;;;;x
-emperor_has_ambiguous_feelings_of_THIS_tt;(The Emperor §GLikes [This.GetLike]§! but §RDislikes [This.GetDislike]§!);;;;;;;;;;;;;x
-emperor_likes_THIS_tt;(The Emperor §GLikes [This.GetLike]§!);;;;;;;;;;;;;x
-employ_a_smith_armor_search_tt;You will send out word that you are in need of an §Yarmorsmith§!.;;;;;;;;;;;;;x
-employ_a_smith_cooldown_tt;Has NOT attempted to employ a smith in the past 2 years[Root.GetSmithCD];;;;;;;;;;;;;x
-employ_a_smith_gold_search_tt;You will send out word that you are in need of a §Ygoldsmith§!.;;;;;;;;;;;;;x
-employ_a_smith_master_smith_tt;This option is available as [From.GetMasterMistressCap] [From.GetFirstName] is a smith of extremely high skill.;;;;;;;;;;;;;x
-employ_a_smith_no_armor_tt;Does NOT own any armor forged by an armorsmith;;;;;;;;;;;;;x
-employ_a_smith_no_crowns_tt;Does NOT own any jewels forged by a goldsmith;;;;;;;;;;;;;x
-employ_a_smith_no_weapons_tt;Does NOT own any weapons forged by a weaponsmith;;;;;;;;;;;;;x
-employ_a_smith_stewardship_tt;The §Ytraits§! and §Ystewardship§! of the smith will impact the outcome of your request. At extremely high levels they can be asked to forge you a true unique masterpiece.;;;;;;;;;;;;;x
-employ_a_smith_tt;Decide what type of smith you wish to employ.\nThe §Yfull cost§! of the item you commission will be dependent on its §Ytype§! and §Ytier§!.;;;;;;;;;;;;;x
-employ_a_smith_weapon_search_tt;You will send out word that you are in need of a §Yweaponsmith§!.;;;;;;;;;;;;;x
-employ_smith_cd_reset_tt;You will be able to employ a smith at another time of your choosing.;;;;;;;;;;;;;x
-fire_commander_tt;Fire an existing commander to make room for the Siege Engineer.;;;;;;;;;;;;;x
-force_china_open_cb_outcome_tt;If you are victorious then the §Y[offmap_china.GetFullName]§! will Open its borders and you will be §Gfavored in trade along the Silk Road§!. However, if you are defeated it will cost you §Rmonthly prestige and grace§!.;;;;;;;;;;;;;x
-force_china_open_cooldown_tt;Has NOT attempted to force the §Y[offmap_china.GetFullName]§! open in the past §Y15§! years;;;;;;;;;;;;;x
-force_china_open_in_progress_tt;No other ruler is currently attempting to force §Y[offmap_china.GetShortName]§! open;;;;;;;;;;;;;x
-force_open_china_negotiate_tt;You will negotiate a deal with §Y[offmap_china.GetFullName]§! to open up trade along the Silk Road.;;;;;;;;;;;;;x
-force_open_china_silk_road_conditions_tt;This option is available as you control a §Ystarting point§! of the Silk Road and §Y25% of the wealth§! along it.;;;;;;;;;;;;;x
-force_open_china_silk_road_tt;You will force open trade along the Silk Road much to the anger of §Y[offmap_china.GetFullName]§!.;;;;;;;;;;;;;x
-force_open_china_start_tt;You will choose a method to open the §Y[offmap_china.GetFullName]§!: Defeating them in §Ywar§!, controlling a §Ystarting point§! of the Silk Road and §Y25%§! of its wealth or by §Ynegotiating§! a treaty.;;;;;;;;;;;;;x
-forced_elective_tt;Is NOT forced by laws to have Elective Succession;;;;;;;;;;;;;x
-has_an_education_or_related_attribute_above_ten_tt;Has an Education trait, OR a related attribute above §Y10§!;;;;;;;;;;;;;x
-has_courtier_eligible_for_marriage_tt;Has a relative eligible for marriage;;;;;;;;;;;;;x
-has_diplomacy_education_tt;Has a §YDiplomacy§! education;;;;;;;;;;;;;x
-has_intrigue_education_tt;Has a §YIntrigue§! education;;;;;;;;;;;;;x
-has_learning_education_tt;Has a §YLearning§! education;;;;;;;;;;;;;x
-has_marshal_tt;Has employed a Marshal;;;;;;;;;;;;;x
-has_martial_education_tt;Has a §YMartial§! education;;;;;;;;;;;;;x
-has_not_explored_all_topics_tt;Has NOT explored all topics available to you;;;;;;;;;;;;;x
-has_silk_road_trade_post_demesne_tt;Has a Demesne County with a §YSilk Road Trade Post§!;;;;;;;;;;;;;x
-has_stewardship_education_tt;Has a §YStewardship§! education;;;;;;;;;;;;;x
-has_the_right_eunuch_traits_tt;Has one of these traits: §YArchitect§!, §YAdministrator§!, §YStrategist§!, §YScholar§!, or §YFaqih§!;;;;;;;;;;;;;x
-has_valid_province_tt;Has a title §Y[Root.GetFullName]§! is interested in;;;;;;;;;;;;;x
-higher_quality_of_book_TT;This has a chance of §Graising§! the quality of your work.\n;;;;;;;;;;;;;x
-invasion_of_china_cb_fail_tt;You will NOT be able to interact with the §Y[offmap_china.GetFullName]§!;;;;;;;;;;;;;x
-invasion_of_china_success_tt;Your [invasion_of_china_claimant.GetRootRelation], §Y[invasion_of_china_claimant.GetBestName]§!, will become the new §Y[invasion_of_china_claimant.GetEmperorEmpress] of China§!. Any of their immediate family, who are not landed or the primary heir to a title, will join them in the Middle Kingdom.\nAny land held by the Western Protectorate will be transfered to you.;;;;;;;;;;;;;x
-is_adult_under_45_tt;Is an adult under the age of §Y45§!;;;;;;;;;;;;;x
-is_ascetic_tooltip;Has an §YAscetic§! trait;;;;;;;;;;;;;x
-is_close_relative_or_same_dynasty_tt;Is a close relative of yours, OR of your dynasty;;;;;;;;;;;;;x
-is_close_relative_tt;Is a close relative of yours;;;;;;;;;;;;;x
-is_landless_male_tt;Is a landless male;;;;;;;;;;;;;x
-is_not_ascetic_or_celibate_tt;Does NOT have an §YAscetic§! or §YCelibate§! trait;;;;;;;;;;;;;x
-is_not_from_china_tt;Is NOT from China;;;;;;;;;;;;;x
-is_not_incapable_inbred_or_imbecile_tt;Is NOT §YIncapable§!, §YInbred§!, or an §YImbecile§!;;;;;;;;;;;;;x
-JD_60002_concubine_tt;This option is available because you have a courtier to send as a §Yconcubine§!.;;;;;;;;;;;;;x
-JD_60002_dislikes_tt;This will §Rdecrease§! the chance of receiving a better artifact from the envoy, as the [offmap_china.Ruler.GetTitle] §Rdislikes [offmap_china.GetDislike]§!;;;;;;;;;;;;;x
-JD_60002_eunuch_tt;This option is available because you have a courtier to send as a §Yeunuch§!.;;;;;;;;;;;;;x
-JD_60002_likes_but_dislikes_tt;This will not change the chance of receiving a better artifact as the [offmap_china.Ruler.GetTitle] §Glikes [offmap_china.GetLike]§! but §Rdislikes [offmap_china.GetDislike]§!;;;;;;;;;;;;;x
-JD_60002_likes_tt;This will §Gincrease§! the chance of receiving a better artifact from the envoy, as the [offmap_china.Ruler.GetTitle] §Glikes [offmap_china.GetLike]§!;;;;;;;;;;;;;x
-jd_china_tribute_cd_tt;Has NOT received a tribute from you in a year\n;;;;;;;;;;;;;x
-kitten_spymaster;The kitten §YMittens§! is now Spymaster;;;;;;;;;;;;;x
-kow_tow_tooltip_already_went;Has NOT already shown their subservience towards the [offmap_china.Ruler.GetEmperorEmpress];;;;;;;;;;;;;x
-likes_africans;[GetChinaAfrican] Cultures;;;;;;;;;;;;;x
-likes_altaics;[altaic.GetGroupName] Cultures;;;;;;;;;;;;;x
-likes_arabs;[arabic.GetGroupName] Cultures;;;;;;;;;;;;;x
-likes_balto_slavics;[GetChinaBaltoSlavic] Cultures;;;;;;;;;;;;;x
-likes_bon;[bon_pagan.GetName] Religion;;;;;;;;;;;;;x
-likes_buddhists;[buddhist.GetName]s;;;;;;;;;;;;;x
-likes_byzantines;[byzantine.GetGroupName] Cultures;;;;;;;;;;;;;x
-likes_celts;[celtic.GetGroupName] Cultures;;;;;;;;;;;;;x
-likes_christians;[christian.GetGroupName]s;;;;;;;;;;;;;x
-likes_dravidians;[dravidian_group.GetGroupName] Cultures;;;;;;;;;;;;;x
-likes_finno_ugrics;[GetChinaFinnoMagyar] Cultures;;;;;;;;;;;;;x
-likes_germanics;[GetChinaGermanic] Cultures;;;;;;;;;;;;;x
-likes_hindus;[hindu.GetName]s;;;;;;;;;;;;;x
-likes_indians;[indo_aryan_group.GetGroupName] Cultures;;;;;;;;;;;;;x
-likes_iranians;[iranian.GetGroupName] Cultures;;;;;;;;;;;;;x
-likes_jains;[jain.GetName]s;;;;;;;;;;;;;x
-likes_jews;[GetChinaJews]s;;;;;;;;;;;;;x
-likes_khurmaztans;[khurmazta.GetName]ns;;;;;;;;;;;;;x
-likes_latino_iberians;[latin.GetGroupName]-[iberian.GetGroupName] Cultures;;;;;;;;;;;;;x
-likes_manichaeans;[manichaean.GetName]s;;;;;;;;;;;;;x
-likes_mazdakis;[mazdaki.GetName]s;;;;;;;;;;;;;x
-likes_mazdans;[zoroastrian_group.GetGroupName] Religions;;;;;;;;;;;;;x
-likes_mesoamericans;[mesoamerican.GetGroupName] Cultures;;;;;;;;;;;;;x
-likes_muslims;[muslim.GetGroupName]s;;;;;;;;;;;;;x
-likes_tengris;[tengri_pagan_reformed.GetName]s;;;;;;;;;;;;;x
-likes_tibetans;[tibetan_group.GetGroupName] Cultures;;;;;;;;;;;;;x
-likes_zoroastrians;[zoroastrian.GetName]s;;;;;;;;;;;;;x
-likes_zunists;[GetChinaZunist];;;;;;;;;;;;;x
-likes_but_dislikes_tt;(§GLikes [This.GetLike]§! but §RDislikes [This.GetDislike]§!);;;;;;;;;;;;;x
-likes_concubines;Concubines;;;;;;;;;;;;;x
-likes_eunuchs;Eunuchs;;;;;;;;;;;;;x
-likes_tributaries;Tributaries;;;;;;;;;;;;;x
-likes_tt;(§GLikes [This.GetLike]§!);;;;;;;;;;;;;x
-likes_wealth;Wealth;;;;;;;;;;;;;x
-lower_quality_of_book_TT;This has a risk of §Rlowering§! the quality of your work.\n;;;;;;;;;;;;;x
-might_affect_mental_health_tt;This will likely affect their mental health...\n;;;;;;;;;;;;;x
-monastic_order_education_power_tt;Power: §YWisdom of [From.GetMOSaint]§!\nYour wards have a chance to gain increased attribute points during their education and upon reaching adulthood have a chance to lose wicked traits and gain pious ones.;;;;;;;;;;;;;x
-multilingual_option_available_tt;This option is available to you because you have the modifier §YMultilingual§!.\n\n;;;;;;;;;;;;;x
-multilingual_tt;§Y[Root.GetTitledFirstName]§! gets '§YMultilingual§!', giving §G+1§! Learning and §G+1§! Diplomacy.;;;;;;;;;;;;;x
-new_book_added_tt;§Y[new_book.GetName]§! has been added to your Treasury.\n;;;;;;;;;;;;;x
-not_awaiting_your_spouse_tt;Is NOT currently awaiting your spouse from the [offmap_china.GetFullName]\n;;;;;;;;;;;;;x
-not_currently_working_on_a_book_tt;Has NOT already put all available scribes to work;;;;;;;;;;;;;x
-not_forced_tt;Has NOT been forced to change Succession Law by Liege;;;;;;;;;;;;;x
-not_married_or_getting_married_tt;Is NOT married or promised to be married;;;;;;;;;;;;;x
-not_negotiated_recently_tt;Has NOT negotiated with an Adventurer in the last year[From.GetNegotiateCD];;;;;;;;;;;;;x
-not_swapping_tt;Is NOT swapping Councillors;;;;;;;;;;;;;x
-outcome_will_depend_on_froms_skill_tt;The outcome of the search will depend on the §YSkills§! and §YTraits§! of your §Y[From.GetJobTitle] [From.GetFirstName]§!.\n;;;;;;;;;;;;;x
-outcome_will_depend_on_roots_skill_tt;The outcome of the search will depend on the §YSkills§! and §YTraits§! of your §Y[Root.GetJobTitle] [Root.GetTitledFirstName]§!.\n;;;;;;;;;;;;;x
-prepare_sadah_feast;Preparations get under way...;;;;;;;;;;;;;x
-primary_defender_or_attacker_tt;Must be the §YPrimary Attacker§! or §YPrimary Defender§! in a war;;;;;;;;;;;;;x
-primary_defender_TT;Must be the Primary Defender in a war;;;;;;;;;;;;;x
-raiding_adventurer_war_declaration_tooltip;§Y[From.GetTitledFirstName]§! declares [From.GetHerHis] intentions of trying to seize land from your realm by force with [From.GetHerHis] band of thieves and robbers.;;;;;;;;;;;;;x
-raise_chinese_honor_guard_TT;Has NOT raised the Honor Guard in the past year;;;;;;;;;;;;;x
-raise_chinese_regiment_TT;Must NOT have raised a Chinese Regiment in the last year;;;;;;;;;;;;;x
-rebel_general_will_invade_tt;[From.GetTitledName] will invade in the coming days.;;;;;;;;;;;;;x
-recently_made_tributary_tt;Was NOT made a Tributary State within the last §Y15 years§!, or original Suzerain has died;;;;;;;;;;;;;x
-religious_cb_succ_muslim_tip;§Y[Root.GetTitledFirstName]§! vassalizes lords in the §Y[Prev.GetFullBaseName]§!.\n;;;;;;;;;;;;;x
-revoke_court_physician_being_treated_tt;[Root.GetTitledFirstName] is not currently treating you;;;;;;;;;;;;;x
-school_tao_1_a;Zhengyi, to strengthen myself with spells and magic!;;;;;;;;;;;;;x
-school_tao_1_b;Quanzhen, to pursue perfection through discipline!;;;;;;;;;;;;;x
-school_tao_1_c;Shangqing, to infuse my spirit with wisdom!;;;;;;;;;;;;;x
-school_tao_1_desc;The Shangqing School of Supreme Clarity, the Quanzhen School of Complete Perfection and Zhengyi Dao the Way of Orthodox Unity are all very prominent schools, which should I follow to become a better [Root.GetManWoman]?;;;;;;;;;;;;;x
-send_artifact_potential_tt;Is a high quality artifact (that is NOT cursed or from China);;;;;;;;;;;;;x
-send_commander_potential_tt;§YCommander Requirements§!:\nMust be a valid Commander with at least 12 martial\nMust not hold any land\nMust NOT be betrothed or married\nMust NOT stand to inherit any titles\nMust NOT have any of the traits: §YIncapable§!, §YInbred§!, or §YImbecile§!;;;;;;;;;;;;;x
-send_concubine_potential_tt;§YConcubine Requirements§!:\nMust be a close relative of yours\nMust be adult\nMust be younger than 45 year old\nMust NOT be married or betrothed\nMust NOT have any of the traits: §YIncapable§!, §YInbred§!, §YImbecile§!;;;;;;;;;;;;;x
-send_eunuch_potential_tt;§YEunuch Requirements§!:\nMust be an adult male of great skill, OR a close relative of yours at least 12 years old\nMust not hold any land\nMust NOT have any of the traits: §YIncapable§!, §YInbred§!, or §YImbecile§!;;;;;;;;;;;;;x
-send_physician_potential_tt;§YPhysician Requirements§!:\nMust be your currently assigned Court Physician or a character with either the Renowned Physician, Scholar or Mystic traits\nMust not hold any land\nMust NOT be betrothed or married\nMust NOT stand to inherit any titles\nMust NOT have any of the traits: §YIncapable§!, §YInbred§!, or §YImbecile§!;;;;;;;;;;;;;x
-silk_road_province_desc;Can only build §YSilk Road Trade Posts§! in certain Counties along the §YSilk Road§!\n   Open the §YTrade Zones Mapmode§! to see valid Counties;;;;;;;;;;;;;x
-smith_improves_quality_tt;§Y[smith.GetMasterMistressCap] [smith.GetFirstName]§! focuses on [smith.GetHerHis] task and produces a superior piece of work.;;;;;;;;;;;;;x
-smith_lover_elopes_tt;§Y[smith_event_target.GetTitledFirstName]§! elopes with §Y[smith.GetMasterMistressCap] [smith.GetFirstName]§!.;;;;;;;;;;;;;x
-student_of_language_tt;§Y[Root.GetTitledFirstName]§! gets '§YStudent of Language§!', giving §G+1§! Learning.;;;;;;;;;;;;;x
-surrender_tributary_event_tt;Send a letter offering a peaceful resolution to this conflict by agreeing to become the tributary of §Y[tribute_war_suzerain.GetTitledName]§!.;;;;;;;;;;;;;x
-surrender_tributary_tt;§Y[This.GetTitledFirstName]§! will have the opportunity offer a peaceful resolution by agreeing to become the tributary of §Y[Root.GetTitledName]§!.;;;;;;;;;;;;;x
-this_may_take_some_time_tt;This will take time...\n;;;;;;;;;;;;;x
-title_administrator_modifier_tt;Has earned an academic degree by passing the imperial examinations in China;;;;;;;;;;;;;x
-title_master_engineer_modifier_tt;Is a Chinese master engineer;;;;;;;;;;;;;x
-title_strategist_modifier_tt;Has a thorough education in Chinese strategy of war;;;;;;;;;;;;;x
-tooltip_obj_strengthen_religion;To complete the ambition you need to perform §Y3§! of the following tasks:\n §Y*§! Win a Holy War\n §Y*§! Successfully defend against a Holy War\n §Y*§! Construct a Temple\n §Y*§! Convert a Province to [This.Religion.GetName]\n §Y*§! Complete a Special Opportunity\nNote that you can complete the same task multiple times.\n\nTasks currently completed: §G[This.strengthen_religion.GetValue]§!;;;;;;;;;;;;;x
-tooltip_silk_road_required;Must have a realm province located on the Silk Road;;;;;;;;;;;;;x
-trade_competition_build_city_TT;To win the competition you must be the first to construct a new city holding in a Silk Road province before five years have passed.;;;;;;;;;;;;;x
-trade_competition_prestige_halftime_loser_TT;Obtain a higher prestige than the other contestants to win the competition.;;;;;;;;;;;;;x
-trade_competition_prestige_halftime_winner_TT;Continue having the highest prestige of all contestants to win the competition.;;;;;;;;;;;;;x
-trade_competition_prestige_TT;To win the competition you must have the highest §YPrestige§! among all competitors after five years have passed.;;;;;;;;;;;;;x
-tributary_independence_china_tt;You will NOT be able to become a tributary of China for the next 30 years or until the ruling dynasty of China has changed.;;;;;;;;;;;;;x
-tribute_interaction_level3_education_tt;Has a good education;;;;;;;;;;;;;x
-tribute_interaction_level4_education_tt;Has an excellent education;;;;;;;;;;;;;x
-war_with_other_tributary_tt;You are NOT defending against another tributary of [offmap_china.GetShortName];;;;;;;;;;;;;x
-will_leave_for_china_tt;§Y[This.GetTitledName]§! will leave [This.GetHerHis] current life behind and make a new one for [This.GetHerselfHimself] in the distant East.\n;;;;;;;;;;;;;x
-will_receive_a_letter;You make a stop for the evening. Your [person_missed.GetRootRelation] will receive a letter with your thoughts and well-wishes.\n;;;;;;;;;;;;;x
-will_return_to_china_tt;§Y[This.GetTitledName]§! will leave [This.GetHerHis] life at court and return home to the distant [offmap_china.GetFullName].;;;;;;;;;;;;;x
-you_dont_get_away_tt;you getting away, but becoming injured!\n;;;;;;;;;;;;;x
-you_get_a_cold_of_some_sort_tt;You develop a cold of some sort, from being out in the cold all night.\n;;;;;;;;;;;;;x
-you_get_away_tt;you making it out alive and carry on with your journey.\n;;;;;;;;;;;;;x
-you_will_be_killed_in_a_duel_tt;being slain in personal combat with §Y[From.GetTitledFirstName]§!!\n;;;;;;;;;;;;;x
+china_physician_cd;§YSent a Physician§!;;;;;;;;;;;§YÎòïðàâëåí ëåêàðü§!;;x
+china_physician_cd_desc;You have already sent a Physician to China, you will not be able to send another one.;;;;;;;;;;;Âû óæå ïîñëàëè ëåêàðÿ â Êèòàé, è íå ìîæåòå îòïðàâèòü òóäà åù¸ îäíîãî.;;x
+chinese_grace_become_tributary_effect_TT;In exchange for §R50% income§!, §R30% troop reinforcement rate§! and §R[GetChineseOffmapTributaryPrestigeCost]§!, receive §G2 Grace per month§! and §Ga Chinese regiment to raise as the defender in a war§!.\nThese effects last until the end of the Empire's §Yruling dynasty§!, or until §Yyou declare independence§! (through war, or decision in the Intrigue screen).\n;;;;;;;;;;;Â îáìåí íà §R50% äîõîäà§!, §R30% Âàøèõ ðåêðóòîâ§! è §R[GetChineseOffmapTributaryPrestigeCost]§!, Âû ïîëó÷èòå §G2 î÷êà ìèëîñòè â ìåñÿö§! è §Gêèòàéñêèå âîéñêà, êîòîðûå ìîæíî ïðèçâàòü â ñëó÷àå îáîðîíèòåëüíîé âîéíû§!.\nÝòè ýôôåêòû ïðîäëÿòñÿ äî ïàäåíèÿ §Yïðàâÿùåé èìïåðàòîðñêîé äèíàñòèè§! ëèáî ïîêà Âû íå §Yîáúÿâèòå î ñâîåé íåçàâèñèìîñòè§! (âîåííûì ïóò¸ì èëè ìèðíûì - ÷åðåç ìåíþ èíòðèã).\n;;x
+hostages_random_imprisonment_tt;You will imprison a random §YClose Relative§! of the target.;;;;;;;;;;;Ñëó÷àéíûé §Yáëèçêèé ðîäñòâåííèê§! öåëè îêàæåòñÿ ó Âàñ â ïëåíó.;;x
+is_not_maimed_or_infirm_tt;Is NOT §YMaimed§! or §YInfirm§!\n;;;;;;;;;;;Íåò ÷åðò §Yèçóâå÷åííûé§! èëè §Yíåìîùíûé§!\n;;x
+is_not_one_eyed_handed_legged_disfigured_or_mangled_tt;Is NOT §YOne-Eyed§!, §YOne-Handed§!, §YOne-Legged§!, §YDisfigured§!, or §YMangled§!\n;;;;;;;;;;;Íåò ÷åðò §Yîäíîãëàçûé§!, §Yîäíîðóêèé§!, §Yîäíîíîãèé§!, §Yèçóðîäîâàííûé§! èëè §Yèñêðîìñàííûé§!\n;;x
+is_not_wounded_severely_injured_tt;Is NOT §YWounded§! or §YSeverely Injured§!\n;;;;;;;;;;;Íåò ÷åðò §Yðàíåíûé§! èëè §Yñåðü¸çíî ðàíåíûé§!\n;;x
+you_will_game_over_tt;§RThis will cause a GAME OVER, as you are not allowed to play this Religion!§!\n;;;;;;;;;;;§RÝòî âûçîâåò ÊÎÍÅÖ ÈÃÐÛ, èáî Âàì íåëüçÿ èãðàòü çà ýòó ðåëèãèþ!§!\n;;x
+ALTAIC_BUT_NOT_JURCHEN_TT;An [altaic.GetGroupName] Culture besides [jurchen.GetName];;;;;;;;;;;Ïðèíàäëåæíîñòü ê ëþáîé §Y[_àëòàé]ñêîé§! êóëüòóðå, êðîìå §Y[_÷æóð÷æýíü]ñêîé§!;;x
+angered_china_tt;[Root.GetTitledFirstName] gets 'Angered China' for 50 years, decreasing Monthly Prestige by §R-0.50§! and Monthly Grace by §R-2§!.;;;;;;;;;;;[Root.GetTitledFirstName] ïîëó÷èò ìîäèôèêàòîð §YÊèòàé â ÿðîñòè§! íà ñëåäóþùèå 50 ëåò, ÷òî ñíèçèò ìåñÿ÷íûé ïðèðîñò ïðåñòèæà íà §R-0.50§! è ìåñÿ÷íûé ïðèðîñò ìèëîñòè íà §R-2§!.;;x
+adopt_chinese_imperialism_gov_tt;Under Chinese Imperialism you:\n§Y*§! Can hold cities\n§Y*§! Do not care if others do not follow your religion nor can you demand their conversion\n§Y*§! Do not get opinion penalties with vassals of other government types\n§Y*§! Can not create or usurp Empires\n§Y*§! Follow the special Temple Name convention of naming rulers\n§Y*§! Are limited to non-elective succession laws;;;;;;;;;;;Êèòàéñêèé èìïåðèàëèçì ïîäðàçóìåâàåò:\n§Y*§! Âëàäåíèå ãîðîäàìè\n§Y*§! Ñâîáîäó âåðîèñïîâåäàíèÿ è îòñóòñòâèå ïðàâà òðåáîâàòü åãî ñìåíû îò äðóãèõ\n§Y*§! Îòñóòñòâèå øòðàôîâ ê ìíåíèþ äëÿ âàññàëîâ ñ äðóãèìè ïîëèòè÷åñêèìè ñèñòåìàìè\n§Y*§! Çàïðåò íà ñîçäàíèå è óçóðïàöèþ èìïåðèé\n§Y*§! Õðàìîâûå èìåíà äëÿ ïðàâèòåëÿ\n§Y*§! Çàïðåò íà âûáîðíîå íàñëåäîâàíèå;;x
+adopt_chinese_imperialism_temple_name_tt;You will take on a new Temple Name.;;;;;;;;;;;Âû ïîëó÷èòå íîâîå §Yõðàìîâîå èìÿ§!.;;x
+adopt_chinese_imperialism_tt;You will found a new Empire in the West, inspired by the splendor of the [offmap_china.GetFullName].\n;;;;;;;;;;;Âû ñîçäàäèòå íîâóþ çàïàäíóþ èìïåðèþ, î÷åíü ïîõîæóþ íà §Yèìïåðèþ [offmap_china.GetShortName]§!\n;;x
+adult_or_close_relative_of_12_years_tt;Is an adult, OR a close relative who is at least 12 years old;;;;;;;;;;;Âçðîñë[This.GetAyaYy] èëè áëèçê[This.GetAyaIy] ðîäñòâåííè[This.GetTsaK], íå ìîëîæå 12 ëåò;;x
+already_at_war_tt;Is NOT already fighting a §YForce Open§! war;;;;;;;;;;;Óáåäèòåñü, ÷òî â íàñòîÿùèé ìîìåíò óæå ÍÅ èä¸ò âîéíà çà §Yñíÿòèå áëîêàäû§!;;x
+already_raised_TT;Must NOT already have raised a Chinese Regiment;;;;;;;;;;;Óáåäèòåñü, ÷òî óæå ÍÅ ïðèçâàëè êèòàéñêóþ àðìèþ;;x
+artifact_added_tt;An artifact is added to your inventory.;;;;;;;;;;;Àðòåôàêò áóäåò äîáàâëåí â Âàøó ñîêðîâèùíèöó.;;x
+artifact_raid_tt;A Chinese artifact is added to your inventory.;;;;;;;;;;;Êèòàéñêèé àðòåôàêò áóäåò äîáàâëåí â ñîêðîâèùíèöó.;;x
+available_because_is_dumb_tt;This option is available because you have one or more of the traits §YDull§!, §YSlow§!, or §YImbecile§!\n;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì áëàãîäàðÿ ÷åðòå §Yòóï[This.GetAyaOy]§!, §Yãëóï[This.GetAyaYy]§! èëè §Yñëàáîóìí[This.GetAyaYy]§!\n;;x
+available_because_trait_erudite_tt;This option is available because you have the trait §YErudite§!\n;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì áëàãîäàðÿ ÷åðòå §YÝðóäèò§!\n;;x
+available_because_trait_lunatic_tt;This option is available because you have the trait §YLunatic§!\n;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì áëàãîäàðÿ ÷åðòå §Yñóìàñøåäø[This.GetAyaIy]§!\n;;x
+available_because_trait_mastermind_theologian_tt;This option is available because you have the trait §YMastermind Theologian§!\n;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì áëàãîäàðÿ ÷åðòå §YÂûäàþùèéñÿ áîãîñëîâ§!\n;;x
+available_because_trait_scholar_tt;This option is available because you have the trait §YScholar§!\n;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì áëàãîäàðÿ ÷åðòå §YÓ÷¸í[This.GetAyaYy]§!\n;;x
+available_due_to_prestige_tt;This option is available due to your high §YPrestige§!\n;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì áëàãîäàðÿ âûñîêîìó §Yïðåñòèæó§!\n;;x
+bema_celebrations;Holding Bema festival;;;;;;;;;;;Ïðîâîäèò ïðàçäíèê Áåìà;;x
+bon_sympathy_eastern;Has a §YCounty§!, §YVassal§! or §YLiege§! of an §YEastern Religion§!;;;;;;;;;;;Íóæíî èìåòü §Yîêðóã§!, §Yâàññàëà§! èëè §Yñþçåðåíà§!, èñïîâåäóþùåãî õîòÿ áû îäíó èç §Yâîñòî÷íûõ ðåëèãèé§!;;x
+can_marry_chinese_royal_tt;Is eligible for marriage;;;;;;;;;;;Ïîäõîäèò äëÿ áðàêà;;x
+cat_corridor;Follow §YMittens§!;;;;;;;;;;;Ïîñìîòðåòü, ÷òî áóäåò äåëàòü §Y[Root.GetPetCatName]§!;;x
+cat_kitchen;Share some milk with §YMittens§!;;;;;;;;;;;Óãîñòèòü êîò¸íêà ìîëîêîì;;x
+cat_start;The council continues;;;;;;;;;;;Ñîâåò ïðîäîëæèò ðàáîòó;;x
+cb_opportunity_liberate;Gain one use of the §YLiberate Religion§! Casus Belli, to be used on any valid target of your choosing.;;;;;;;;;;;Âîñïîëüçîâàòüñÿ âîçìîæíîñòüþ Casus Belli §YÐåëèãèîçíîå îñâîáîæäåíèå§! ïðîòèâ ëþáîé ïîäõîäÿùåé äëÿ ýòîãî öåëè.;;x
+cb_opportunity_liberate_deny;You decide that your time is better spent elsewhere. You will not be presented with this opportunity again.;;;;;;;;;;;Îòêàçàòüñÿ îò âîçìîæíîñòè ðàçâÿçàòü âîéíó. Ó Âàñ íå áóäåò òàêîé âîçìîæíîñòè ñíîâà.;;x
+china_boon_available_tt;§Y[Root.Offmap.Ruler.GetMediumChineseEmperorName]§! has NOT granted you a boon within the last year;;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[Root.Offmap.Ruler.GetMediumChineseEmperorName]§! ÍÅ ïîñûëàë[Root.Offmap.Ruler.GetEndA] Âàì äàðû â òå÷åíèå ïîñëåäíåãî ãîäà;;x
+china_boon_cd;§YRecently Asked for Boon§!;;;;;;;;;;;§YÍåäàâíÿÿ ïðîñüáà î äàðàõ§!;;x
+china_boon_cd_desc;You have recently asked China for a Boon, you will be able to ask for another one on: §Y[Root.jd_china_boon_cd.GetExpiryDate]§!;;;;;;;;;;;Âû íåäàâíî ïðîñèëè Êèòàé î äàðàõ, è ñìîæåòå ñäåëàòü ýòî ñíîâà íå ðàíüøå ÷åì §Y[Root.jd_china_boon_cd.GetExpiryDate]§!;;x
+china_commander_cd;§YRecently Sent Commander§!;;;;;;;;;;;§YÎòïðàâëåí ïîëêîâîäåö§!;;x
+china_commander_cd_desc;You have recently sent a Commander to China, if China is still in turmoil you will be able to send another one on: §Y[Root.chinese_grace_send_commander_timer.GetExpiryDate]§!;;;;;;;;;;;Âû íåäàâíî îòïðàâëÿëè ñâîåãî ïîëêîâîäöà â Êèòàé äëÿ ñëóæáû ïðè èìïåðàòîðñêîì äâîðå, è åñëè íàïðÿæ¸ííîñòü â Ïîäíåáåñíîé ñîõðàíèòñÿ, Âû ñìîæåòå ñäåëàòü ýòî åù¸ ðàç íå ðàíüøå ÷åì §Y[Root.chinese_grace_send_commander_timer.GetExpiryDate]§!;;x
+china_concubine_cd;§YRecently Sent a Concubine§!;;;;;;;;;;;§YÎòïðàâëåí[offmap_china.Ruler.GetEndAOpp] íàëîæíè[offmap_china.Ruler.GetTsaKOpp]§!;;x
+china_concubine_cd_desc;You have recently sent a Concubine to China, you will be able to send another one on: §Y[Root.chinese_grace_send_concubine_timer.GetExpiryDate]§!;;;;;;;;;;;Âû íåäàâíî îòïðàâèëè íàëîæíè[offmap_china.Ruler.GetTsuKaOpp] â Êèòàé. Ñäåëàòü ýòî ñíîâà Âû ñìîæåòå íå ðàíüøå ÷åì §Y[Root.chinese_grace_send_concubine_timer.GetExpiryDate]§!;;x
+china_eunuch_cd;§YRecently Sent a Eunuch§!;;;;;;;;;;;§YÎòïðàâëåí åâíóõ§!;;x
+china_eunuch_cd_desc;You have recently sent a Eunuch to China, you will be able to send another one on: §Y[Root.chinese_grace_send_eunuch_timer.GetExpiryDate]§!;;;;;;;;;;;Âû íåäàâíî îòïðàâèëè åâíóõà â Êèòàé. Ñäåëàòü ýòî ñíîâà Âû ñìîæåòå íå ðàíüøå ÷åì §Y[Root.chinese_grace_send_eunuch_timer.GetExpiryDate]§!;;x
+china_famine_cd;§YRecently Sent Relief!§!;;;;;;;;;;;§YÍåäàâíÿÿ îòïðàâêà ïðîäîâîëüñòâèÿ!§!;;x
+china_famine_cd_desc;You have recently sent Famine Relief to China, if China is still suffering from a Famine you will be able to send another expedition on: §Y[Root.china_send_relief.GetExpiryDate]§!;;;;;;;;;;;Âû íåäàâíî îòïðàâèëè îáîçû ñ ïðîäîâîëüñòâèåì â Êèòàé, ÷òîáû ïîìî÷ü åìó â áîðüáå ñ ãîëîäîì. Åñëè Êèòàé âñ¸ åù¸ áóäåò ñòðàäàòü îò ãîëîäà, Âû ñìîæåòå ïîñëàòü íîâóþ ýêñïåäèöèþ íå ðàíüøå ÷åì §Y[Root.china_send_relief.GetExpiryDate]§!;;x
+china_forced_open_tt;Will NOT be able to change to the Isolationist Policy for §Y50§! years;;;;;;;;;;;Ïîëèòèêà §Yèçîëÿöèè§! áóäåò ïîä çàïðåòîì äëÿ [offmap_china.GetShortGenericNameGEN] â òå÷åíèå §Y50§! ëåò;;x
+china_gift_cd;§YRecently Sent Gift§!;;;;;;;;;;;§YÍåäàâíåå ïîäíîøåíèå§!;;x
+china_gift_cd_desc;You have recently sent a Gift to China, you will be able to send another one on: §Y[Root.chinese_grace_send_gift_timer.GetExpiryDate]§!;;;;;;;;;;;Âû íåäàâíî îòïðàâèëè ïîäàðîê â Êèòàé â êà÷åñòâå ïîäíîøåíèÿ. Ñäåëàòü ýòî ñíîâà Âû ñìîæåòå íå ðàíüøå ÷åì §Y[Root.chinese_grace_send_gift_timer.GetExpiryDate]§!;;x
+china_invade_dragon_throne_eastern_edge_tt;Borders the Eastern Edge of the map;;;;;;;;;;;Ñîñåäñòâî ñ Âîñòî÷íîé ãðàíèöåé êàðòû;;x
+china_invade_dragon_throne_failed_tt;Has NOT failed an invasion of China;;;;;;;;;;;ÍÅ áûëî ïðîâàëüíûõ ïîïûòîê âòîðæåíèÿ â Êèòàé;;x
+china_invade_dragon_throne_levies_tt;Has NOT raised any vassal levies;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ ïîäíÿëè îïîë÷åíèå;;x
+china_invade_dragon_throne_modifiers_tt;All of your current §Y[offmap_china.GetCurrency]§! and §Ymodifiers§! from §Y[offmap_china.GetShortName]§! will be §Rremoved§!.;;;;;;;;;;;Âû ïîëíîñòüþ ëèøèòåñü §Y[offmap_china.GetChinaCurrencyGEN]§! ïðàâÿùåé äèíàñòèè, à §Yìîäèôèêàòîðû§! îò §Yèìïåðèè [offmap_china.GetShortName]§! áóäóò §Róäàëåíû§!.;;x
+china_invade_dragon_throne_war_tt;Is NOT currently being invaded;;;;;;;;;;;Óáåäèòåñü, ÷òî Èìïåðèÿ ÍÅ ïåðåæèâàåò ÷ü¸-òî âòîðæåíèå;;x
+china_offmap_boon_decisions_enabled_trigger_cd_tt;Has NOT requested a boon from §Y[Root.Offmap.Ruler.GetShortChineseEmperorName]§! within the last year\n;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ ïðîñèëè äàðû ó §Y[Root.Offmap.Ruler.GetShortChineseEmperorNameGEN]§! â ïîñëåäíèé ãîä\n;;x
+china_offmap_boon_decisions_enabled_trigger_raiding_tt;Has NOT raided the §Y[Root.Offmap.GetFullName]§! in the last 5 years[From.GetRaidCD];;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ ñîâåðøàëè íàáåãè íà §Yèìïåðèþ [Root.Offmap.GetShortName]§! â ïîñëåäíèå 5 ëåò[From.GetRaidCD];;x
+china_offmap_decisions_enabled_trigger_war_tt;Is at peace with §Y[From.GetTitledFirstName]§!;;;;;;;;;;;Íàõîäèòñÿ â ìèðå ñ ïðàâèòåëåì, èçâåñòíûì êàê §Y[From.GetTitledFirstName]§!;;x
+china_offmap_decisions_failed_invasion_tt;Has NOT failed an invasion of the §Y[offmap_china.GetFullName]§!;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ áûëî ïðîâàëüíûõ âòîðæåíèé â §Yèìïåðèþ [offmap_china.GetShortName]§!;;x
+china_offmap_decisions_pretender_emperor_tt;Is §RNOT§! the ruler of a pretender Chinese Empire;;;;;;;;;;;§RÍåëüçÿ§! áûòü ïðàâèòåëåì ñàìîçâàííîé Êèòàéñêîé èìïåðèè;;x
+china_offmap_tribute_decisions_enabled_trigger_cd_tt;Has NOT sent tribute to §Y[Root.Offmap.Ruler.GetShortChineseEmperorName]§! within the last year\n;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ ïëàòèëè äàíü §Y[Root.Offmap.Ruler.GetShortChineseEmperorNameDAT]§! â ïîñëåäíèé ãîä\n;;x
+china_raid_cd;§YRecently Raided China!§!;;;;;;;;;;;§YÍåäàâíèé íàáåã íà Êèòàé!§!;;x
+china_raid_cd_desc;You have recently stopped Raiding China, you will be able to resume raiding on: §Y[Root.china_raid_grace_cd.GetExpiryDate]§!;;;;;;;;;;;Âû íåäàâíî ïðåêðàòèëè íàáåãè íà Êèòàé, è ñìîæåòå èõ âîçîáíîâèòü íå ðàíüøå ÷åì §Y[Root.china_raid_grace_cd.GetExpiryDate]§!;;x
+china_tributary_cd;§YRecently Broke Free§!;;;;;;;;;;;§YÍåäàâíåå îñâîáîæäåíèå îò äàíè§!;;x
+china_tributary_cd_desc;You have recently broken free from being a Tributary of China. You will be able to ask to become one again on: §Y[Root.chinese_grace_tributary_timer.GetExpiryDate]§!;;;;;;;;;;;Âû íåäàâíî îñâîáîäèëèñü èç ñòàòóñà ñàòåëëèòà (äàííèêà) Êèòàÿ. Ïîïðîñèòü ñòàòü èì ñíîâà Âû ñìîæåòå íå ðàíüøå ÷åì §Y[Root.chinese_grace_tributary_timer.GetExpiryDate]§!;;x
+china_tribute_available_tt;Paying tribute to §Y[Root.Offmap.Ruler.GetMediumChineseEmperorName]§! is currently available.;;;;;;;;;;;Óáåäèòåñü, ÷òî âûïëàòà äàíè §Y[Root.Offmap.Ruler.GetShortChineseEmperorNameDAT]§! â íàñòîÿùèé ìîìåíò äîñòóïíà.;;x
+china_tribute_send_artifact_cooldown_tt;Has NOT sent an artifact in 10 years;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ äåëàëè ïîäíîøåíèå â âèäå àðòåôàêòà â ïîñëåäíèå 10 ëåò;;x
+china_tribute_send_commander_cooldown_tt;Has NOT sent a commander in 20 years;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ îòïðàâëÿëè ïîëêîâîäöà â ïîñëåäíèå 20 ëåò;;x
+china_tribute_send_concubine_cooldown_tt;Has NOT sent a concubine in 20 years;;;;;;;;;;;Óáåäèòåñü. ÷òî ÍÅ ïîñûëàëè íàëîæíè[offmap_china.Ruler.GetTsKovOpp] â ïîñëåäíèå 20 ëåò;;x
+china_tribute_send_concubine_preference_tt;Is desired by the §Y[offmap_china.Ruler.GetEmperorEmpress]§!;;;;;;;;;;;Íðàâèòñÿ §Y[offmap_china.Ruler.GetEmpressEmperorCapDAT]§!;;x
+china_tribute_send_eunuch_congenital_tt;Has a §Ypositive§! congenital trait;;;;;;;;;;;Äîëæíà èìåòüñÿ õîòü îäíà §Yïîëîæèòåëüíàÿ§! íàñëåäñòâåííàÿ ÷åðòà;;x
+china_tribute_send_eunuch_cooldown_tt;Has NOT sent a eunuch in 20 years;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ ïîñûëàëè åâíóõà â ïîñëåäíèå 20 ëåò;;x
+china_tribute_send_eunuch_gift_tt;Is a eunuch that was gifted to you;;;;;;;;;;;Ýòî åâíóõ, êîòîðîãî Âàì ïîäàðèëè;;x
+china_tribute_send_eunuch_non_inherit_congenital_tt;Has a §Ypositive§! non-inheritable congenital trait;;;;;;;;;;;Äîëæíà èìåòüñÿ õîòü îäíà §Yïîëîæèòåëüíàÿ§! íåíàñëåäóåìàÿ ÷åðòà;;x
+china_tribute_send_eunuch_stats_tt;Has an attribute greater than or equal to §Y20§!;;;;;;;;;;;Õîòÿ áû îäíà èç ñïîñîáíîñòåé äîëæíà áûòü íå ìåíüøå ÷åì §Y20§!;;x
+china_tribute_send_physician_tt;Has NOT sent a physician already;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ îòïðàâëÿëè ëåêàðÿ;;x
+chinese_administrator_allow_tt;Does NOT have a Scholar-Bureaucrat;;;;;;;;;;;Óáåäèòåñü, ÷òî óæå ÍÅ íàíÿëè ó÷¸íîãî-áþðîêðàòà;;x
+chinese_administrator_effect_tt;A scholar-bureaucrat will arrive at your court.\n;;;;;;;;;;;Ó÷¸íûé-áþðîêðàò ïðèáóäåò ê Âàøåìó äâîðó.\n;;x
+chinese_artifact_effect_tt;You will receive a §YChinese Artifact§!!;;;;;;;;;;;Âû ïîëó÷èòå §Yêèòàéñêèé àðòåôàêò§!!;;x
+chinese_artifact_has_all_tt;Does NOT already have all Chinese artifacts ranging from quality §Y1§! to §Y3§!;;;;;;;;;;;Óáåäèòåñü, ÷òî ó Âàñ ÍÅÒ âñåõ êèòàéñêèõ àðòåôàêòîâ ñ êà÷åñòâîì îò §Y1§! äî §Y3§!;;x
+chinese_emperor_dislikes_THIS_tt;(The Emperor §RDislikes [offmap_china.GetDislike]§!);;;;;;;;;;;(Èìïåðàòîð §Ríå áëàãîâîëèò ê [offmap_china.GetDislike]§!);;x
+chinese_emperor_has_ambiguous_feelings_of_THIS_tt;(The Emperor §GLikes [offmap_china.GetLike]§! but §RDislikes [offmap_china.GetDislike]§!);;;;;;;;;;;(Èìïåðàòîð §Gáëàãîâîëèò ê [offmap_china.GetLike]§! íî §Ríå áëàãîâîëèò ê [offmap_china.GetDislike]§!);;x
+chinese_emperor_likes_THIS_tt;(The Emperor §GLikes [offmap_china.GetLike]§!);;;;;;;;;;;(Èìïåðàòîð §Gáëàãîâîëèò ê [offmap_china.GetLike]§!);;x
+chinese_grace_become_tributary_allow_chinese_influence_tt;Has a realm county in the Chinese Region of Influence\n;;;;;;;;;;;Íåîáõîäèìî èìåòü îêðóã â çîíå êèòàéñêîãî âëèÿíèÿ\n;;x
+chinese_grace_become_tributary_allow_eastern_border_tt;Has a realm county bordering the Eastern edge of the map\n;;;;;;;;;;;Ëþáîé èç îêðóãîâ Âàøåé ñòðàíû ñîñåäñòâóåò ñ Âîñòî÷íîé ãðàíèöåé êàðòû\n;;x
+chinese_grace_become_tributary_allow_governor_neighbor_tt;Has a realm county bordering the [Root.PrimaryTitle.GetFullName]\n;;;;;;;;;;;[Root.PrimaryTitle.GetFullName] ãðàíè÷èò ñ ëþáûì èç îêðóãîâ Âàøåé ñòðàíû\n;;x
+chinese_grace_become_tributary_allow_india_tt;Has a coastal realm county in India\n;;;;;;;;;;;Ëþáîé èç îêðóãîâ íàõîäèòñÿ íà áåðåãó Èíäèè\n;;x
+chinese_grace_become_tributary_allow_suzerain_tt;Does NOT already have a suzerain\n;;;;;;;;;;;Óáåäèòåñü, ÷òî óæå ÍÅ ÿâëÿåòåñü äàííèêîì êîãî-òî äðóãîãî\n;;x
+chinese_grace_become_tributary_allow_tributary_neighbor_tt;Has a realm county bordering a nation which is a tributary of the [Root.Offmap.GetFullName]\n;;;;;;;;;;;Ëþáîé èç îêðóãîâ Âàøåé ñòðàíû ãðàíè÷èò ñ ãîñóäàðñòâîì, çàâèñèìûì îò èìïåðèè [Root.Offmap.GetShortName]\n;;x
+chinese_grace_doctor_allow_tt;Does NOT have a Court Physician;;;;;;;;;;;Óáåäèòåñü, ÷òî óæå ÍÅ íàíÿëè ïðèäâîðíîãî ëåêàðÿ;;x
+chinese_grace_peace_deal_allow_tt;Does NOT have a non-aggression pact or peace deal with the §Y[Root.Offmap.GetFullName]§! and its §Y[Root.Offmap.Governor.GetTitle]§!\n;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ çàêëþ÷àëè ïàêò î íåíàïàäåíèè ñ §Yèìïåðèåé [Root.Offmap.GetShortName]§! è å¸ §Yíàìåñòíè[Root.Offmap.Governor.GetTseyKom]§!\n;;x
+chinese_grace_peace_deal_effect_tt;\nDuring the peace deal, the §Y[Root.Offmap.GetFullName]§! and its §Y[Root.Offmap.Governor.GetTitle]§! will not declare war on you. It will last for §Y50§! years or until the dynasty of the [Root.Offmap.Ruler.GetTitle], [Root.Offmap.Ruler.GetOnlyDynastyName], ends.;;;;;;;;;;;\nÏîêà äåéñòâóåò ìèðíîå ñîãëàøåíèå, §Y[Root.Offmap.GetFullName]§! è §Y[Root.Offmap.GovernorTitle.GetName]§! íå áóäóò îáúÿâëÿòü Âàì âîéíó. Ýòî ïðîäëèòñÿ §Y50§! ëåò èëè äî òåõ ïîð, ïîêà äèíàñòèÿ [Root.Offmap.Ruler.GetOnlyDynastyName] íå ïàä¸ò.;;x
+chinese_grace_send_gift_allow_tt;Has NOT gifted money to the §Y[Root.Offmap.Ruler.GetShortChineseEmperorName]§! within the last 15 years;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ ïîñûëàëè ïîäàðîê §Y[Root.Offmap.Ruler.GetShortChineseEmperorNameDAT]§! â ïîñëåäíèå 15 ëåò;;x
+chinese_grace_supply_horses_not_already_supplying_tt;Is NOT already supplying horses;;;;;;;;;;;Óáåäèòåñü, ÷òî óæå ÍÅ ïîñòàâëÿåòå ëîøàäåé;;x
+chinese_grace_supply_horses_stopped_supplying_tt;Has NOT previously chosen to stop supplying horses;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ ïðåðûâàëè ïîñòàâêè ëîøàäåé ðàíüøå;;x
+chinese_imperial_marriage_peace_deal_effect_tt;This marriage will secure a peace deal during which the §Y[offmap_china.GetFullName]§! and its §Y[offmap_china.Governor.GetTitle]§! will not declare war on you. It will last for §Y50§! years or until the dynasty of the [offmap_china.Ruler.GetTitle], [offmap_china.Ruler.GetOnlyDynastyName], ends.;;;;;;;;;;;Ýòîò áðàê ïîäðàçóìåâàåò çàêëþ÷åíèå ìèðíîãî äîãîâîðà, ïðè êîòîðîì §Y[offmap_china.GetFullName]§! è §Y[offmap_china.GovernorTitle.GetName]§! íå ñìîãóò îáúÿâëÿòü Âàì âîéíó. Ýòî ïðîäëèòñÿ §Y50§! ëåò èëè ïîêà íå ïàä¸ò äèíàñòèÿ [offmap_china.Ruler.GetOnlyDynastyName].;;x
+chinese_imperial_marriage_peace_deal_tt;You will enter into a peace deal with the §Y[offmap_china.GetFullName]§!.;;;;;;;;;;;§Y[offmap_china.GetFullName]§!: ìèðíîå ñîãëàøåíèå;;x
+chinese_imperial_marriage_prince_effect_tt;An imperial prince of the §Y[Root.Offmap.GetFullName]§! arrives to marry §Y[FromFrom.GetTitledFirstName]§!.;;;;;;;;;;;§Y[FromFrom.GetTitledFirstName]§! âûéäåò çàìóæ çà ïðèíöà §Yèìïåðèè [Root.Offmap.GetShortName]§!;;x
+chinese_imperial_marriage_princess_effect_tt;An imperial princess of the §Y[Root.Offmap.GetFullName]§! arrives to marry §Y[FromFrom.GetTitledFirstName]§!.;;;;;;;;;;;§Y[FromFrom.GetTitledFirstName]§! æåíèòñÿ íà ïðèíöåññå §Yèìïåðèè [Root.Offmap.GetShortName]§!;;x
+chinese_master_engineer_allow_tt;Does NOT have a Master Engineer;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ íàíèìàëè ãëàâíîãî èíæåíåðà;;x
+chinese_master_engineer_effect_tt;A master engineer will join your court. While employed, they will build constructions and machines throughout your demesne, adding various bonuses to your economy, military, and technology.;;;;;;;;;;;Ãëàâíûé èíæåíåð ïðèáóäåò ê Âàøåìó äâîðó. Êîãäà îí ïðèáóäåò, íà÷í¸ò ñòðîèòåëüñòâî ñîîðóæåíèé è ìåõàíèçìîâ â Âàøèõ ëè÷íûõ çåìëÿõ, êîòîðûå äàþò áîíóñ ê ýêîíîìèêå, âîåííîé ñôåðå è òåõíîëîãèÿì.;;x
+chinese_request_invasion_defeated_china_tt;Has NOT defeated China in a war;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ ïîáåæäàëè Êèòàé â âîéíå;;x
+chinese_request_invasion_rel_head_tt;Does NOT hold a religious head title that is higher tier than §YDuke§!;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ âëàäååòå òèòóëîì ðåëèãèîçíîãî ãëàâû ñ ðàíãîì âûøå §Yãåðöîãñêîãî§!;;x
+chinese_siege_engineers_effect_tt;Three Siege Engineers join your court. These characters are exceptional in the art of undermining fortifications using explosives and constructing siege towers to scale walls.\n;;;;;;;;;;;Òðè îñàäíûõ èíæåíåðà ïðèáóäóò ê Âàøåìó äâîðó. Îíè - ïðåêðàñíûå ñïåöèàëèñòû â ïîäðûâå âðàæåñêèõ óêðåïëåíèé è ñòðîèòåëüñòâå ñîîðóæåíèé äëÿ îñàäû âûñîêèõ ñòåí.\n;;x
+chinese_silk_road_favored_status_modifier_tt;All trade post provinces in the realm of §Y[From.PrimaryTitle.GetName]§! gains §G100%§! increased trade income for 25 years.;;;;;;;;;;;Âñå §Y[From.PrimaryTitle.GetAdjective]ñêèå§! îêðóãà ñ òîðãîâûìè ïîñòàìè ïîâûñÿò ñâîé äîõîä íà §G100%§! íà ñëåäóþùèå 25 ëåò.;;x
+chinese_strategist_effect_tt;A strategist joins your court. From time to time, they will attempt to teach other soldiers about Chinese strategies.\n;;;;;;;;;;;Ñòðàòåã ïðèáóäåò ê Âàøåìó äâîðó. Âðåìÿ îò âðåìåíè, îí áóäåò îáó÷àòü ñîëäàò êèòàéñêîé âîåííîé ñòðàòåãèè.\n;;x
+chinese_strategist_effect_2_tt;A strategist joins your court.;;;;;;;;;;;Ñòðàòåã ïðèáóäåò ê Âàøåìó äâîðó.;;x
+chinese_tribute_become_tributary_cooldown_tt;Has NOT broken free from being a tributary in 30 years;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ áûëî îñâîáîæäåíèÿ îò äàíè çà ïîñëåäíèå 30 ëåò;;x
+choose_a_topic_tt;Choose a topic worthy of discussing.;;;;;;;;;;;Âûáðàòü òåìó, äîñòîéíóþ ðàññìîòðåíèÿ.;;x
+choose_school_taoist;Choose Taoist School;;;;;;;;;;;Âûáðàòü äàîññêóþ øêîëó;;x
+confess_faith_already_has_secret_rel_tt;[Root.GetTitledName] continues to secretly practice the [Root.SecretReligion.GetName] religion.;;;;;;;;;;;[Root.GetTitledFirstName] ïðîäîëæèò òàéíî èñïîâåäîâàòü [Root.GetSecretReligionFullName].;;x
+confess_faith_courtiers_decision_tooltip;Any non-zealous courtiers of your religion will have a chance of joining you in falsely confessing their faith.;;;;;;;;;;;Êàæäûé ïðèäâîðíûé Âàøåé âåðû, íå îòëè÷àþùèéñÿ íàáîæíîñòüþ, ïîëó÷èò øàíñ ñîâåðøèòü ïðèòâîðíîå ïðèçíàíèå âìåñòå ñ Âàìè â ñâî¸ì íåíàñòîÿùåì âåðîèñïîâåäàíèè.;;x
+courtier_from_china_trigger_tt;Is a courtier from China;;;;;;;;;;;Ýòî ïðèäâîðíûé èç Êèòàÿ;;x
+create_ashokas_chosen_tooltip;The Holy Order §YChosen of Ashoka§! is established.;;;;;;;;;;;Áóäåò îñíîâàí äóõîâíûé îðäåí §YÈçáðàííûå Àøîêîé§!.;;x
+create_bulls_rishabha_tooltip;The Holy Order §YBulls of Rishabha§! is established.;;;;;;;;;;;Áóäåò îñíîâàí äóõîâíûé îðäåí §YÂåðíûå áûêè Ðèøàáõè§!.;;x
+create_followers_arjuna_tooltip;The Holy Order §YFollowers of Arjuna§! is established.;;;;;;;;;;;Áóäåò îñíîâàí äóõîâíûé îðäåí §YÏîñëåäîâàòåëè Àðäæóíû§!.;;x
+custom_opinion_hit_tooltip;The opinion of all §YLanded Characters§! of your §YReligious Group§! in your §YRealm§! and the realm of §Y[From.GetTitledFirstName]§! changes by §R-15§! for §Y10§! years. §Y(Declared Unjust War)§!;;;;;;;;;;;Ìíåíèå âñåõ §Yîáëàäàþùèõ çåìëÿìè§!, ïðèíàäëåæàùèõ ê Âàøåé §Yðåëèãèîçíîé ãðóïïå§! â ïðåäåëàõ Âàøåé §Yñòðàíû§! è ñòðàíû, ê êîòîðîé ïðèíàäëåæèò §Y[From.GetTitledFirstName]§!, î Âàñ óõóäøèòñÿ íà §R-15§!, ýôôåêò ïðîäëèòñÿ §Y10§! ëåò. §Y(Íåçàêîííàÿ âîéíà)§!;;x
+custom_opinion_hit_tooltip_enemy;The opinion of all §YLanded Characters§! of the §Y[From.Religion.GetName]§! religion in your §YRealm§! and the realm of §Y[From.GetTitledFirstName]§! changes by §R-15§! for §Y10§! years. §Y(Declared Unjust War)§!;;;;;;;;;;;Ìíåíèå âñåõ §Yîáëàäàþùèõ çåìëÿìè§!, èñïîâåäóþùèõ §Y[From.GetReligionFullName]§! â ïðåäåëàõ Âàøåé §Yñòðàíû§! è ñòðàíû, ê êîòîðîé ïðèíàäëåæèò §Y[From.GetTitledFirstName]§!, î Âàñ óõóäøèòñÿ íà §R-15§!, ýôôåêò ïðîäëèòñÿ §Y10§! ëåò. §Y(Íåçàêîííàÿ âîéíà)§!;;x
+custom_tooltip_choose_patron_diety;Choose a Patron Diety;;;;;;;;;;;Âûáðàòü áîæåñòâî-ïîêðîâèòåëÿ;;x
+dangerous_negotiations_tt;§Y[Root.GetFullName]§! will present an offer - if you choose to decline this offer there is nothing stopping [Root.GetHerHim] from continuing to raid your lands.;;;;;;;;;;;§Y[Root.GetFullName]§! îçâó÷èò ñâî¸ ïðåäëîæåíèå. Åñëè Âû îòâåðãíåòå åãî, íè÷òî íå ïîìåøàåò [Root.GetHerHim] ïðîäîëæèòü íàáåãè íà Âàøè çåìëè.;;x
+defeated_decadence_revolt;Defeated Decadence Invasion;;;;;;;;;;;Ïîáåäà íàä âòîðæåíèåì ïðîòèâ óïàäêà;;x
+defeated_decadence_revolt_desc;This character has defeated a decadence invasion - for as long as they rule the largest realm among all of their Dynasty, they will not be considered decadent.;;;;;;;;;;;Ýò[GetEtaEtot] [GetAgedPerson] óñïåøíî îòáèë[GetEndA] âòîðæåíèå ïðîòèâ óïàäêà, êîòîðîå íà÷àëè [GetHersHis] âðàãè. Äî òåõ ïîð, ïîêà [GetSheHe] ïðàâèò êðóïíåéøèì ãîñóäàðñòâîì ñðåäè ÷ëåíîâ [GetHersHis] äèíàñòèè, [GetHersHis] íèêòî íå ïîñìååò íàçâàòü äåêàäåíò[GetKoyOm].;;x
+dislikes_tt;(§RDislikes [This.GetDislike]§!);;;;;;;;;;;(§RÏðåçèðàåò [This.GetDislikeACC]§!);;x
+dismantle_pretender_china_success_tt;[This.GetTitledName] will have [This.GetHerHis] Empire dismantled by [offmap_china.Ruler.GetMediumChineseEmperorName], the true Son of Heaven.;;;;;;;;;;;[This.GetTitledName] ëèøèòñÿ ñâîåé èìïåðèè, ïîòîìó ÷òî [offmap_china.Ruler.GetEmpressEmperorCap] [offmap_china.Ruler.GetFirstName], èñòèíí[offmap_china.Ruler.GetAyaYy] [offmap_china.Ruler.GetDaughterSonCap] Íåáåñ, ñîêðóøèò [This.GetHersHis].;;x
+earmarked_regiments_tt;Has NOT already raised the Honor Guard;;;;;;;;;;;Óáåäèòåñü, ÷òî óæå ÍÅ ïðèçûâàëè èìïåðàòîðñêóþ ãâàðäèþ;;x
+emperor_dislikes_THIS_tt;(§RThe Emperor Dislikes [This.GetDislike]§!);;;;;;;;;;;(§R[offmap_china.Ruler.GetEmpressEmperorCap] ïðåçèðàåò [This.GetDislikeACC]§!);;x
+emperor_has_ambiguous_feelings_of_THIS_tt;(The Emperor §GLikes [This.GetLike]§! but §RDislikes [This.GetDislike]§!);;;;;;;;;;;(§G[offmap_china.Ruler.GetEmpressEmperorCap] ëþáèò [This.GetLikeACC]§!, íî §Rïðåçèðàåò [This.GetDislikeACC]§!);;x
+emperor_likes_THIS_tt;(The Emperor §GLikes [This.GetLike]§!);;;;;;;;;;;(§G[offmap_china.Ruler.GetEmpressEmperorCap] ëþáèò [This.GetLikeACC]§!);;x
+employ_a_smith_armor_search_tt;You will send out word that you are in need of an §Yarmorsmith§!.;;;;;;;;;;;Âû ñîîáùèòå, ÷òî èùåòå §Yìàñòåðà-áðîííèêà§!.;;x
+employ_a_smith_cooldown_tt;Has NOT attempted to employ a smith in the past 2 years[Root.GetSmithCD];;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ áûëî ïîïûòîê íàíÿòü ðåìåñëåííèêà çà ïîñëåäíèå 2 ãîäà[Root.GetSmithCD];;x
+employ_a_smith_gold_search_tt;You will send out word that you are in need of a §Ygoldsmith§!.;;;;;;;;;;;Ðàçîñëàòü âåñòè î òîì, ÷òî Âû èùåòå §Yìàñòåðà-þâåëèðà§!.;;x
+employ_a_smith_master_smith_tt;This option is available as [From.GetMasterMistressCap] [From.GetFirstName] is a smith of extremely high skill.;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì, ïîòîìó ÷òî [From.GetSmithMalePrefix][From.GetFirstName][From.GetSmithFemalePostfix] îáëàäàåò íåîáû÷àéíî âûñîêèìè íàâûêàìè.;;x
+employ_a_smith_no_armor_tt;Does NOT own any armor forged by an armorsmith;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ âëàäååò äîñïåõàìè, èçãîòîâëåííûìè áðîííèêîì;;x
+employ_a_smith_no_crowns_tt;Does NOT own any jewels forged by a goldsmith;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ âëàäååòå äðàãîöåííîñòÿìè, èçãîòîâëåííûìè þâåëèðîì;;x
+employ_a_smith_no_weapons_tt;Does NOT own any weapons forged by a weaponsmith;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ âëàäååòå îðóæèåì, èçãîòîâëåííûì îðóæåéíèêîì;;x
+employ_a_smith_stewardship_tt;The §Ytraits§! and §Ystewardship§! of the smith will impact the outcome of your request. At extremely high levels they can be asked to forge you a true unique masterpiece.;;;;;;;;;;;§Y×åðòû õàðàêòåðà§! è íàâûêè §Yóïðàâëåíèÿ§! ìàñòåðà áóäóò âëèÿòü íà ðåçóëüòàò ðàáîòû íàä Âàøèì çàêàçîì. Åñëè îíè äîñòàòî÷íî õîðîøè, ìîæåò ïîëó÷èòñÿ íàñòîÿùèé øåäåâð.;;x
+employ_a_smith_tt;Decide what type of smith you wish to employ.\nThe §Yfull cost§! of the item you commission will be dependent on its §Ytype§! and §Ytier§!.;;;;;;;;;;;Âûáåðèòå âèä èçäåëèÿ, êîòîðîå õîòèòå çàêàçàòü äëÿ èçãîòîâëåíèÿ.\n§Yïîëíàÿ ñòîèìîñòü§! ïðåäìåòà áóäåò çàâèñåòü îò åãî §Yòèïà§! è §Yóðîâíÿ§! êà÷åñòâà.;;x
+employ_a_smith_weapon_search_tt;You will send out word that you are in need of a §Yweaponsmith§!.;;;;;;;;;;;Âû áóäåòå èñêàòü §Yìàñòåðà-îðóæåéíèêà§! è îáúÿâèòå îá ýòîì âñåì.;;x
+employ_smith_cd_reset_tt;You will be able to employ a smith at another time of your choosing.;;;;;;;;;;;Âû ñìîæåòå íàíÿòü ðåìåñëåííèêà â äðóãîå âðåìÿ.;;x
+fire_commander_tt;Fire an existing commander to make room for the Siege Engineer.;;;;;;;;;;;Óâîëèòü ïîëêîâîäöà, ÷òîáû îñâîáîäèòü ìåñòî äëÿ îñàäíîãî èíæåíåðà.;;x
+force_china_open_cb_outcome_tt;If you are victorious then the §Y[offmap_china.GetFullName]§! will Open its borders and you will be §Gfavored in trade along the Silk Road§!. However, if you are defeated it will cost you §Rmonthly prestige and grace§!.;;;;;;;;;;;Åñëè Âû ïîáåäèòå, §Y[offmap_china.GetFullName]§! îòêðîåò ãðàíèöû è Âû §Gïîëó÷èòå ïðåèìóùåñòâî â òîðãîâëå ïî Ø¸ëêîâîìó ïóòè§!. Òåì íå ìåíåå, åñëè Âû ïîòåðïèòå ïîðàæåíèå, ýòî îòðàçèòüñÿ íà Âàøåì §Rìåñÿ÷íîì ïðèðîñòå ïðåñòèæà è ìèëîñòè§!.;;x
+force_china_open_cooldown_tt;Has NOT attempted to force the §Y[offmap_china.GetFullName]§! open in the past §Y15§! years;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ áûëî ïîïûòîê çàñòàâèòü §Yèìïåðèþ [offmap_china.GetShortName]§! ñíÿòü áëîêàäó çà ïîñëåäíèå §Y15§! ëåò;;x
+force_china_open_in_progress_tt;No other ruler is currently attempting to force §Y[offmap_china.GetShortName]§! open;;;;;;;;;;;Óáåäèòåñü, ÷òî íèêòî èç äðóãèõ ïðàâèòåëåé â íàñòîÿùèé ìîìåíò íå ïûòàåòñÿ çàñòàâèòü §Yèìïåðèþ [offmap_china.GetShortName]§! ñíÿòü áëîêàäó;;x
+force_open_china_negotiate_tt;You will negotiate a deal with §Y[offmap_china.GetFullName]§! to open up trade along the Silk Road.;;;;;;;;;;;Âû ïîïðîáóåòå äîãîâîðèòüñÿ ñ [offmap_china.Ruler.GetEmpressEmperorCapINS], ÷òîáû [offmap_china.Ruler.GetSheHe] îòêðûë[offmap_china.Ruler.GetEndA] Ø¸ëêîâûé ïóòü.;;x
+force_open_china_silk_road_conditions_tt;This option is available as you control a §Ystarting point§! of the Silk Road and §Y25% of the wealth§! along it.;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì áëàãîäàðÿ êîíòðîëþ íàä §Yíà÷àëüíîé òî÷êîé§! Ø¸ëêîâîãî ïóòè è §Y÷åòâåðòüþ åãî äîõîäîâ§!.;;x
+force_open_china_silk_road_tt;You will force open trade along the Silk Road much to the anger of §Y[offmap_china.GetFullName]§!.;;;;;;;;;;;Âû îòêðîåòå òîðãîâëþ ïî Ø¸ëêîâîìó ïóòè ñàìîñòîÿòåëüíî, ÷òî ñèëüíî èñïîðòèò îòíîøåíèÿ ñ §Yèìïåðèåé [offmap_china.GetShortName]§!.;;x
+force_open_china_start_tt;You will choose a method to open the §Y[offmap_china.GetFullName]§!: Defeating them in §Ywar§!, controlling a §Ystarting point§! of the Silk Road and §Y25%§! of its wealth or by §Ynegotiating§! a treaty.;;;;;;;;;;;Âàì ïðåäñòîèò âûáðàòü ñïîñîá óáåäèòü §Yèìïåðèþ [offmap_china.GetShortName]§! ñíÿòü áëîêàäó: ïîáåäèòü å¸ â §Yâîéíå§!, çàõâàòèòü §Yíà÷àëüíóþ òî÷êó§! Ø¸ëêîâîãî ïóòè è §Y÷åòâåðòü åãî äîõîäîâ§!, èëè ïðîâåñòè óñïåøíûå §Yïåðåãîâîðû§! î ìèðíîì ñîãëàøåíèè.;;x
+forced_elective_tt;Is NOT forced by laws to have Elective Succession;;;;;;;;;;;Óáåäèòåñü, ÷òî çàêîíû ÍÅ âûíóæäàþò èìåòü âûáîðíîå íàñëåäîâàíèå;;x
+has_an_education_or_related_attribute_above_ten_tt;Has an Education trait, OR a related attribute above §Y10§!;;;;;;;;;;;Óáåäèòåñü, ÷òî èìååòñÿ îáðàçîâàíèå èëè ïîäõîäÿùèé íàâûê âûøå §Y10§!;;x
+has_courtier_eligible_for_marriage_tt;Has a relative eligible for marriage;;;;;;;;;;;Åñòü ðîäñòâåííèê, ïîäõîäÿùèé äëÿ áðàêà;;x
+has_diplomacy_education_tt;Has a §YDiplomacy§! education;;;;;;;;;;;Åñòü §Yäèïëîìàòè÷åñêîå§! îáðàçîâàíèå;;x
+has_intrigue_education_tt;Has a §YIntrigue§! education;;;;;;;;;;;Åñòü §Yøïèîíñêîå§! îáðàçîâàíèå;;x
+has_learning_education_tt;Has a §YLearning§! education;;;;;;;;;;;Åñòü §Yäóõîâíîå§! îáðàçîâàíèå;;x
+has_marshal_tt;Has employed a Marshal;;;;;;;;;;;Óáåäèòåñü, ÷òî íàíÿëè ìàðøàëà;;x
+has_martial_education_tt;Has a §YMartial§! education;;;;;;;;;;;Åñòü §Yâîåííîå§! îáðàçîâàíèå;;x
+has_not_explored_all_topics_tt;Has NOT explored all topics available to you;;;;;;;;;;;Óáåäèòåñü, ÷òî óæå ÍÅ èçó÷èëè âñå âîçìîæíûå òåìû;;x
+has_silk_road_trade_post_demesne_tt;Has a Demesne County with a §YSilk Road Trade Post§!;;;;;;;;;;;Âëàäåíèå îêðóãîì, ñîäåðæàùèì §Yòîðãîâûé ïîñò Ø¸ëêîâîãî ïóòè§!;;x
+has_stewardship_education_tt;Has a §YStewardship§! education;;;;;;;;;;;Åñòü §Yýêîíîìè÷åñêîå§! îáðàçîâàíèå;;x
+has_the_right_eunuch_traits_tt;Has one of these traits: §YArchitect§!, §YAdministrator§!, §YStrategist§!, §YScholar§!, or §YFaqih§!;;;;;;;;;;;Îáëàäàåò îäíîé èç ÷åðò: §Yàðõèòåêòîð§!, §Yàäìèíèñòðàòîð§!, §Yñòðàòåã§!, §Yó÷¸íûé§! èëè §Yôàêèõ§!;;x
+has_valid_province_tt;Has a title §Y[Root.GetFullName]§! is interested in;;;;;;;;;;;Óáåäèòåñü, ÷òî âëàäååòå òèòóëîì, â êîòîðîì §Y[Root.GetFullName]§! çàèíòåðåñîâàí[Root.GetEndA];;x
+higher_quality_of_book_TT;This has a chance of §Graising§! the quality of your work.\n;;;;;;;;;;;Ýòî ìîæåò §Góëó÷øèòü§! êà÷åñòâî Âàøåé êíèãè.\n;;x
+invasion_of_china_cb_fail_tt;You will NOT be able to interact with the §Y[offmap_china.GetFullName]§!;;;;;;;;;;;Âû áîëüøå ÍÅ ñìîæåòå âçàèìîäåéñòâîâàòü ñ §Yèìïåðèåé [offmap_china.GetShortName]§!;;x
+invasion_of_china_success_tt;Your [invasion_of_china_claimant.GetRootRelation], §Y[invasion_of_china_claimant.GetBestName]§!, will become the new §Y[invasion_of_china_claimant.GetEmperorEmpress] of China§!. Any of their immediate family, who are not landed or the primary heir to a title, will join them in the Middle Kingdom.\nAny land held by the Western Protectorate will be transfered to you.;;;;;;;;;;;Âàø[invasion_of_china_claimant.GetEndA] [invasion_of_china_claimant.GetRootRelation] §Y[invasion_of_china_claimant.GetBestName]§! ñòàíåò íîâ[invasion_of_china_claimant.GetOyYm] §Y[invasion_of_china_claimant.GetEmpressEmperorCapINS] Êèòàÿ§!. Âñå [invasion_of_china_claimant.GetHersHis] áåççåìåëüíûå ðîäñòâåííèêè, íå ÿâëÿþùèåñÿ íàñëåäíèêàìè òèòóëîâ, ïðèñîåäèíÿòñÿ ê í[invasion_of_china_claimant.GetHerHim] â Ñðåäèííîì Öàðñòâå.\nÂñå çåìëè, ïðèíàäëåæàùèå Ïðîòåêòîðàòó Çàïàäíîãî Êðàÿ (Ñèþé), ïåðåéäóò ê Âàì.;;x
+is_adult_under_45_tt;Is an adult under the age of §Y45§!;;;;;;;;;;;Âçðîñë[This.GetAyaYy], ìëàäøå §Y45§! ëåò;;x
+is_ascetic_tooltip;Has an §YAscetic§! trait;;;;;;;;;;;Îáëàäàåò §Yàñêåòè÷åñêîé§! ÷åðòîé;;x
+is_close_relative_or_same_dynasty_tt;Is a close relative of yours, OR of your dynasty;;;;;;;;;;;Áëèçê[This.GetAyaIy] ðîäñòâåííè[This.GetTsaK] èëè ïðèíàäëåæèò Âàøåé äèíàñòèè;;x
+is_close_relative_tt;Is a close relative of yours;;;;;;;;;;;Áëèçê[This.GetAyaIy] ðîäñòâåííè[This.GetTsaK];;x
+is_landless_male_tt;Is a landless male;;;;;;;;;;;Áåççåìåëüíûé ìóæ÷èíà;;x
+is_not_ascetic_or_celibate_tt;Does NOT have an §YAscetic§! or §YCelibate§! trait;;;;;;;;;;;ÍÅ ïðèíÿë[This.GetEndA] §Yàñêåçó§! èëè §Yöåëèáàò§!;;x
+is_not_from_china_tt;Is NOT from China;;;;;;;;;;;ÍÅ èç Êèòàÿ;;x
+is_not_incapable_inbred_or_imbecile_tt;Is NOT §YIncapable§!, §YInbred§!, or an §YImbecile§!;;;;;;;;;;;ÍÅÒ ÷åðò §Yíåäååñïîñîáíûé§!, §Yâûðîäîê§! è §Yñëàáîóìíûé§!;;x
+JD_60002_concubine_tt;This option is available because you have a courtier to send as a §Yconcubine§!.;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì, ïîòîìó ÷òî ó Âàñ åñòü ïðèäâîðí[chinese_envoy_concubine_target.GetAyaYy], êîòîð[chinese_envoy_concubine_target.GetUyuOgo] ìîæíî ïîñëàòü êàê §Yíàëîæíè[chinese_envoy_concubine_target.GetTsuKa]§!.;;x
+JD_60002_dislikes_tt;This will §Rdecrease§! the chance of receiving a better artifact from the envoy, as the [offmap_china.Ruler.GetTitle] §Rdislikes [offmap_china.GetDislike]§!;;;;;;;;;;;Ýòî §Rïîíèçèò§! øàíñ ïîëó÷èòü ëó÷øèé àðòåôàêò îò ïîñëà, èáî [offmap_china.Ruler.GetEmpressEmperorCap] §Rïðåçèðàåò [This.GetDislikeACC]§!;;x
+JD_60002_eunuch_tt;This option is available because you have a courtier to send as a §Yeunuch§!.;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì, ïîòîìó ÷òî ó Âàñ åñòü ïðèäâîðí[chinese_envoy_eunuch_target.GetAyaYy], êîòîð[chinese_envoy_eunuch_target.GetUyuOgo] ìîæíî ïîñëàòü êàê §Yåâíóõà§!.;;x
+JD_60002_likes_but_dislikes_tt;This will not change the chance of receiving a better artifact as the [offmap_china.Ruler.GetTitle] §Glikes [offmap_china.GetLike]§! but §Rdislikes [offmap_china.GetDislike]§!;;;;;;;;;;;Ýòî íèêàê íå ïîâëèÿåò íà øàíñû ïîëó÷èòü ëó÷øèé àðòåôàêò, èáî [offmap_china.Ruler.GetEmpressEmperorCap] §Gëþáèò [This.GetLikeACC]§!, íî §Rïðåçèðàåò [This.GetDislikeACC]§!;;x
+JD_60002_likes_tt;This will §Gincrease§! the chance of receiving a better artifact from the envoy, as the [offmap_china.Ruler.GetTitle] §Glikes [offmap_china.GetLike]§!;;;;;;;;;;;Ýòî §Gïîâûñèò§! øàíñ ïîëó÷èòü ëó÷øèé àðòåôàêò îò ïîñëà, èáî [offmap_china.Ruler.GetEmpressEmperorCap] §Gëþáèò [This.GetLikeACC]§!;;x
+jd_china_tribute_cd_tt;Has NOT received a tribute from you in a year\n;;;;;;;;;;;Óáåäèòåñü, ÷òî Âû íè ðàçó ÍÅ äåëàëè ïîäíîøåíèå çà ïîñëåäíèé ãîä\n;;x
+kitten_spymaster;The kitten §YMittens§! is now Spymaster;;;;;;;;;;;§Y[Root.GetPetCatName]§! òåïåðü ìîé òàéíûé ñîâåòíèê;;x
+kow_tow_tooltip_already_went;Has NOT already shown their subservience towards the [offmap_china.Ruler.GetEmperorEmpress];;;;;;;;;;;Óáåäèòåñü, ÷òî óæå ÍÅ ïîêàçûâàëè ñâîþ ïîêîðíîñòü [offmap_china.Ruler.GetEmpressEmperorCapDAT];;x
+likes_africans;[GetChinaAfrican] Cultures;;;;;;;;;;;[This.GetHFChinaLikeAfricans];;x
+likes_altaics;[altaic.GetGroupName] Cultures;;;;;;;;;;;[This.GetHFChinaLikeAltaics];;x
+likes_arabs;[arabic.GetGroupName] Cultures;;;;;;;;;;;[This.GetHFChinaLikeArabs];;x
+likes_balto_slavics;[GetChinaBaltoSlavic] Cultures;;;;;;;;;;;[This.GetHFChinaLikeBaltoSlavics];;x
+likes_bon;[bon_pagan.GetName] Religion;;;;;;;;;;;[This.GetHFChinaLikeBon];;x
+likes_buddhists;[buddhist.GetName]s;;;;;;;;;;;[This.GetHFChinaLikeBuddhists];;x
+likes_byzantines;[byzantine.GetGroupName] Cultures;;;;;;;;;;;[This.GetHFChinaLikeByzantines];;x
+likes_celts;[celtic.GetGroupName] Cultures;;;;;;;;;;;[This.GetHFChinaLikeCelts];;x
+likes_christians;[christian.GetGroupName]s;;;;;;;;;;;[This.GetHFChinaLikeChristians];;x
+likes_dravidians;[dravidian_group.GetGroupName] Cultures;;;;;;;;;;;[This.GetHFChinaLikeDravidians];;x
+likes_finno_ugrics;[GetChinaFinnoMagyar] Cultures;;;;;;;;;;;[This.GetHFChinaLikeFinnoUgrics];;x
+likes_germanics;[GetChinaGermanic] Cultures;;;;;;;;;;;[This.GetHFChinaLikeGermanics];;x
+likes_hindus;[hindu.GetName]s;;;;;;;;;;;[This.GetHFChinaLikeHindus];;x
+likes_indians;[indo_aryan_group.GetGroupName] Cultures;;;;;;;;;;;[This.GetHFChinaLikeIndians];;x
+likes_iranians;[iranian.GetGroupName] Cultures;;;;;;;;;;;[This.GetHFChinaLikeIranians];;x
+likes_jains;[jain.GetName]s;;;;;;;;;;;[This.GetHFChinaLikeJains];;x
+likes_jews;[GetChinaJews]s;;;;;;;;;;;[This.GetHFChinaLikeJews];;x
+likes_khurmaztans;[khurmazta.GetName]ns;;;;;;;;;;;[This.GetHFChinaLikeKhurmaztans];;x
+likes_latino_iberians;[latin.GetGroupName]-[iberian.GetGroupName] Cultures;;;;;;;;;;;[This.GetHFChinaLikeLatinoIberians];;x
+likes_manichaeans;[manichaean.GetName]s;;;;;;;;;;;[This.GetHFChinaLikeManichaeans];;x
+likes_mazdakis;[mazdaki.GetName]s;;;;;;;;;;;[This.GetHFChinaLikeMazdakis];;x
+likes_mazdans;[zoroastrian_group.GetGroupName] Religions;;;;;;;;;;;[This.GetHFChinaLikeMazdans];;x
+likes_mesoamericans;[mesoamerican.GetGroupName] Cultures;;;;;;;;;;;[This.GetHFChinaLikeMesoamericans];;x
+likes_muslims;[muslim.GetGroupName]s;;;;;;;;;;;[This.GetHFChinaLikeMuslims];;x
+likes_tengris;[tengri_pagan_reformed.GetName]s;;;;;;;;;;;[This.GetHFChinaLikeTengris];;x
+likes_tibetans;[tibetan_group.GetGroupName] Cultures;;;;;;;;;;;[This.GetHFChinaLikeTibetans];;x
+likes_zoroastrians;[zoroastrian.GetName]s;;;;;;;;;;;[This.GetHFChinaLikeZoroastrians];;x
+likes_zunists;[GetChinaZunist];;;;;;;;;;;[This.GetHFChinaLikeZunists];;x
+likes_but_dislikes_tt;(§GLikes [This.GetLike]§! but §RDislikes [This.GetDislike]§!);;;;;;;;;;;(§GËþáèò [This.GetLikeACC]§!, íî §Rïðåçèðàåò [This.GetDislikeACC]§!);;x
+likes_concubines;Concubines;;;;;;;;;;;íàëîæíè[This.Ruler.GetTsKovOpp];;x
+likes_eunuchs;Eunuchs;;;;;;;;;;;åâíóõîâ;;x
+likes_tributaries;Tributaries;;;;;;;;;;;ñàòåëëèòîâ Èìïåðèè;;x
+likes_tt;(§GLikes [This.GetLike]§!);;;;;;;;;;;(§GËþáèò [This.GetLikeACC]§!);;x
+likes_wealth;Wealth;;;;;;;;;;;áîãàòñòâà;;x
+lower_quality_of_book_TT;This has a risk of §Rlowering§! the quality of your work.\n;;;;;;;;;;;Ýòî ìîæåò §Róõóäøèòü§! êà÷åñòâî Âàøåé êíèãè.\n;;x
+might_affect_mental_health_tt;This will likely affect their mental health...\n;;;;;;;;;;;Ýòî ñêîðåå âñåãî îòðàçèòñÿ íà ïñèõèêå...\n;;x
+monastic_order_education_power_tt;Power: §YWisdom of [From.GetMOSaint]§!\nYour wards have a chance to gain increased attribute points during their education and upon reaching adulthood have a chance to lose wicked traits and gain pious ones.;;;;;;;;;;;Ñïîñîáíîñòü: §YÌóäðîñòü [From.GetMOSaintGEN]§!\nÂàøè âîñïèòàííèêè ñ íåêîòîðûì øàíñîì ìîãóò óëó÷øèòü ñâîè íàâûêè âî âðåìÿ îáó÷åíèÿ, à ê ìîìåíòó âçðîñëåíèÿ èìåþò øàíñ èçáàâèòüñÿ îò ïëîõèõ ÷åðò õàðàêòåðà èëè ïðèîáðåñòè õîðîøèå.;;x
+multilingual_option_available_tt;This option is available to you because you have the modifier §YMultilingual§!.\n\n;;;;;;;;;;;Ýòîò âàðèàíò îòâåòà äîñòóïåí èç-çà ìîäèôèêàòîðà §YÏîëèãëîò§!.\n\n;;x
+multilingual_tt;§Y[Root.GetTitledFirstName]§! gets '§YMultilingual§!', giving §G+1§! Learning and §G+1§! Diplomacy.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! ïîëó÷èò ìîäèôèêàòîð §YÏîëèãëîò§!, êîòîðûé äà¸ò §G+1§! ê îáðàçîâàííîñòè è §G+1§! ê äèïëîìàòèè.;;x
+new_book_added_tt;§Y[new_book.GetName]§! has been added to your Treasury.\n;;;;;;;;;;;§Y[new_book.GetName]§! äîáàâèòñÿ â Âàøó Ñîêðîâèùíèöó.\n;;x
+not_awaiting_your_spouse_tt;Is NOT currently awaiting your spouse from the [offmap_china.GetFullName]\n;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ æä¸òå ïðèáûòèÿ íåâåñòû èëè æåíèõà èç §Yèìïåðèè [offmap_china.GetShortName]§!\n;;x
+not_currently_working_on_a_book_tt;Has NOT already put all available scribes to work;;;;;;;;;;;Óáåäèòåñü, ÷òî óæå ÍÅ çàäåéñòâîâàëè âñåõ ïèñöîâ äëÿ ðàáîòû;;x
+not_forced_tt;Has NOT been forced to change Succession Law by Liege;;;;;;;;;;;Óáåäèòåñü, ÷òî ñþçåðåí ÍÅ ïðèíóæäàë ñìåíèòü çàêîí î íàñëåäîâàíèè;;x
+not_married_or_getting_married_tt;Is NOT married or promised to be married;;;;;;;;;;;ÍÅ ñîñòîèò â áðàêå èëè ïîìîëâêå;;x
+not_negotiated_recently_tt;Has NOT negotiated with an Adventurer in the last year[From.GetNegotiateCD];;;;;;;;;;;Óáåäèòåñü, ÷òî íè ðàçó ÍÅ âåëè ïåðåãîâîðû ñ àâàíòþðèñòîì çà ïîñëåäíèé ãîä[From.GetNegotiateCD];;x
+not_swapping_tt;Is NOT swapping Councillors;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ èä¸ò ñìåíà ñîâåòíèêîâ;;x
+outcome_will_depend_on_froms_skill_tt;The outcome of the search will depend on the §YSkills§! and §YTraits§! of your §Y[From.GetJobTitle] [From.GetFirstName]§!.\n;;;;;;;;;;;Ðåçóëüòàòû ïîèñêîâ áóäóò çàâèñåòü îò §Yíàâûêîâ§! è §Y÷åðò§! õàðàêòåðà, êîòîðûìè îáëàäàåò §Y[From.GetJobTitle] [From.GetFirstName]§!.\n;;x
+outcome_will_depend_on_roots_skill_tt;The outcome of the search will depend on the §YSkills§! and §YTraits§! of your §Y[Root.GetJobTitle] [Root.GetTitledFirstName]§!.\n;;;;;;;;;;;Ðåçóëüòàòû ïîèñêîâ áóäóò çàâèñåòü îò §Yíàâûêîâ§! è §Y÷åðò§! õàðàêòåðà, êîòîðûìè îáëàäàåò §Y[Root.GetJobTitle] [Root.GetFirstName]§!.\n;;x
+prepare_sadah_feast;Preparations get under way...;;;;;;;;;;;Ïðèãîòîâëåíèÿ íà÷èíàþòñÿ...;;x
+primary_defender_or_attacker_tt;Must be the §YPrimary Attacker§! or §YPrimary Defender§! in a war;;;;;;;;;;;Íóæíî áûòü ïåðâè÷íûì §Yàãðåññîðîì§! èëè §Yçàùèùàþùåéñÿ ñòîðîíîé§! â âîéíå;;x
+primary_defender_TT;Must be the Primary Defender in a war;;;;;;;;;;;Óáåäèòåñü, ÷òî Âû - ãëàâíûé ó÷àñòíèê âîéíû íà ñòîðîíû îáîðîíû;;x
+raiding_adventurer_war_declaration_tooltip;§Y[From.GetTitledFirstName]§! declares [From.GetHerHis] intentions of trying to seize land from your realm by force with [From.GetHerHis] band of thieves and robbers.;;;;;;;;;;;§Y[From.GetTitledFirstName]§! çàÿâèò î ñâîèõ íàìåðåíèÿõ îñàäèòü çåìëè Âàøåé ñòðàíû ñî ñâîåé áàíäîé âîðîâ è ðàçáîéíèêîâ.;;x
+raise_chinese_honor_guard_TT;Has NOT raised the Honor Guard in the past year;;;;;;;;;;;Óáåäèòåñü, ÷òî íè ðàçó ÍÅ ïðèçûâàëè èìïåðàòîðñêóþ ãâàðäèþ çà ïîñëåäíèé ãîä;;x
+raise_chinese_regiment_TT;Must NOT have raised a Chinese Regiment in the last year;;;;;;;;;;;Óáåäèòåñü, ÷òî íè ðàçó ÍÅ ïðèçûâàëè êèòàéñêóþ àðìèþ çà ïîñëåäíèé ãîä;;x
+rebel_general_will_invade_tt;[From.GetTitledName] will invade in the coming days.;;;;;;;;;;;[rebel_general.GetTitledName] âòîðãíåòñÿ â áëèæàéøèå äíè.;;x
+recently_made_tributary_tt;Was NOT made a Tributary State within the last §Y15 years§!, or original Suzerain has died;;;;;;;;;;;ÍÅ óñòàíàâëèâàë ãåãåìîíèþ â ïîñëåäíèå §Y15 ëåò§!, åñëè òîëüêî ïðåäûäóùèé ãåãåìîí íå óìåð;;x
+religious_cb_succ_muslim_tip;§Y[Root.GetTitledFirstName]§! vassalizes lords in the §Y[Prev.GetFullBaseName]§!.\n;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! âàññàëèçèðóåò âñåõ ëîðäîâ â ïðåäåëàõ îáëàñòè §Y[This.GetFullBaseName]§!.\n;;x
+revoke_court_physician_being_treated_tt;[Root.GetTitledFirstName] is not currently treating you;;;;;;;;;;;Óáåäèòåñü, ÷òî [Root.GetTitledFirstName] ÍÅ ëå÷èò Âàñ îò êàêîãî-òî íåäóãà â íàñòîÿùèé ìîìåíò;;x
+school_tao_1_a;Zhengyi, to strengthen myself with spells and magic!;;;;;;;;;;;×æýíúè äàñò ìíå ñèëó ìàãèè!;;x
+school_tao_1_b;Quanzhen, to pursue perfection through discipline!;;;;;;;;;;;Öþàíü÷æýíü, ÷òîáû ñòàòü ñîâåðøåíí[Root.GetOyYm]!;;x
+school_tao_1_c;Shangqing, to infuse my spirit with wisdom!;;;;;;;;;;;Øàíöèí íàäåëèò ìîé äóõ ìóäðîñòüþ!;;x
+school_tao_1_desc;The Shangqing School of Supreme Clarity, the Quanzhen School of Complete Perfection and Zhengyi Dao the Way of Orthodox Unity are all very prominent schools, which should I follow to become a better [Root.GetManWoman]?;;;;;;;;;;;Øàíöèí - Øêîëà Âûñøåé ×èñòîòû, Öþàíü÷æýíü - Øêîëà Ñîâåðøåííîé Èñòèíû, ×æýíúè Äàî - Øêîëà Èñòèííîãî Åäèíñòâà. Âñå îíè âåñüìà èçâåñòíû, íî êàêîé ìíå ëó÷øå ñëåäîâàòü, ÷òîáû ñòàòü ëó÷øå?;;x
+send_artifact_potential_tt;Is a high quality artifact (that is NOT cursed or from China);;;;;;;;;;;Àðòåôàêò äîëæåí áûòü öåííûì (ÍÅ ïðîêëÿòûì è ÍÅ êèòàéñêèì);;x
+send_commander_potential_tt;§YCommander Requirements§!:\nMust be a valid Commander with at least 12 martial\nMust not hold any land\nMust NOT be betrothed or married\nMust NOT stand to inherit any titles\nMust NOT have any of the traits: §YIncapable§!, §YInbred§!, or §YImbecile§!;;;;;;;;;;;§YÒðåáîâàíèÿ ê ïîëêîâîäöó§!:\nÈìååò ïðàâî êîìàíäîâàòü âîéñêàìè è âîåííûé íàâûê óðîâíÿ íå íèæå 12\nÍÅ âëàäååò çåìëÿìè\nÍÅ ñîñòîèò â áðàêå èëè ïîìîëâêå\nÍÅ ÿâëÿåòñÿ íàñëåäíèêîì êàêèõ-ëèáî òèòóëîâ\nÍÅ îáëàäàåò ÷åðòîé §Yíåäååñïîñîáíûé§!, §Yâûðîäîê§! èëè §Yñëàáîóìíûé§!;;x
+send_concubine_potential_tt;§YConcubine Requirements§!:\nMust be a close relative of yours\nMust be adult\nMust be younger than 45 year old\nMust NOT be married or betrothed\nMust NOT have any of the traits: §YIncapable§!, §YInbred§!, §YImbecile§!;;;;;;;;;;;§YÒðåáîâàíèÿ ê íàëîæíè[offmap_china.Ruler.GetTseKuOpp]§!:\nÄîëæ[offmap_china.Ruler.GetNaEnOpp] áûòü Âàø[offmap_china.Ruler.GetEyImOpp] áëèçê[offmap_china.Ruler.GetOyImOpp] ðîäñòâåííè[offmap_china.Ruler.GetTseyKomOpp]\nÄîëæ[offmap_china.Ruler.GetNaEnOpp] áûòü âçðîñë[offmap_china.Ruler.GetOyYmOpp]\nÄîëæ[offmap_china.Ruler.GetNaEnOpp] áûòü ìîëîæå 45 ëåò\nÍÅ [offmap_china.Ruler.GetMarriedOpp] è ÍÅ ïîìîëâëåí[offmap_china.Ruler.GetEndNaOpp]\nÍÅ îáëàäàåò ÷åðòîé §Yíåäååñïîñîáí[offmap_china.Ruler.GetAyaYyOpp]§!, §Yâûðîäîê§! èëè §Yñëàáîóìí[offmap_china.Ruler.GetAyaYyOpp]§!;;x
+send_eunuch_potential_tt;§YEunuch Requirements§!:\nMust be an adult male of great skill, OR a close relative of yours at least 12 years old\nMust not hold any land\nMust NOT have any of the traits: §YIncapable§!, §YInbred§!, or §YImbecile§!;;;;;;;;;;;§YÒðåáîâàíèÿ ê åâíóõó§!:\nÂçðîñëûé ìóæ÷èíà ñ õîðîøèìè íàâûêàìè èëè Âàø áëèçêèé ðîäñòâåííèê íå ìîëîæå 12 ëåò\nÍå âëàäååò çåìëÿìè\nÍÅ îáëàäàåò ÷åðòîé §Yíåäååñïîñîáíûé§!, §Yâûðîäîê§! èëè §Yñëàáîóìíûé§!;;x
+send_physician_potential_tt;§YPhysician Requirements§!:\nMust be your currently assigned Court Physician or a character with either the Renowned Physician, Scholar or Mystic traits\nMust not hold any land\nMust NOT be betrothed or married\nMust NOT stand to inherit any titles\nMust NOT have any of the traits: §YIncapable§!, §YInbred§!, or §YImbecile§!;;;;;;;;;;;§YÒðåáîâàíèÿ ê ëåêàðþ§!:\nÑëóæèò Âàøèì Ïðèäâîðíûì ëåêàðåì ëèáî ÿâëÿåòñÿ çíàìåíèòûì ëåêàðåì, ó÷¸íûì èëè ìèñòèêîì\nÍÅ âëàäååò çåìëÿìè\nÍÅ ñîñòîèò â áðàêå èëè ïîìîëâêå\nÍÅ ÿâëÿåòñÿ íàñëåäíèêîì êàêèõ-ëèáî òèòóëîâ\nÍÅ îáëàäàåò ÷åðòîé §Yíåäååñïîñîáíûé§!, §Yâûðîäîê§! èëè §Yñëàáîóìíûé§!;;x
+silk_road_province_desc;Can only build §YSilk Road Trade Posts§! in certain Counties along the §YSilk Road§!\n   Open the §YTrade Zones Mapmode§! to see valid Counties;;;;;;;;;;;Òîðãîâûå ïîñòû §YÂåëèêîãî ø¸ëêîâîãî ïóòè§! ìîæíî ñòðîèòü òîëüêî â íåêîòîðûõ îêðóãàõ\n   ×òîáû óâèäåòü, â êàêèõ ìîæíî, îòêðîéòå ðåæèì êàðòû §YÒîðãîâûå çîíû§!;;x
+smith_improves_quality_tt;§Y[smith.GetMasterMistressCap] [smith.GetFirstName]§! focuses on [smith.GetHerHis] task and produces a superior piece of work.;;;;;;;;;;;Òåïåðü [From.GetSmithMalePrefix][From.GetFirstName][From.GetSmithFemalePostfix] ñîñðåäîòî÷èòñÿ íà ñâîåé çàäà÷å, ÷òîáû ñäåëàòü ðàáîòó íàèëó÷øèì îáðàçîì.;;x
+smith_lover_elopes_tt;§Y[smith_event_target.GetTitledFirstName]§! elopes with §Y[smith.GetMasterMistressCap] [smith.GetFirstName]§!.;;;;;;;;;;;[smith_event_target.GetTitledFirstName] ñáåæèò âìåñòå ñ í[From.GetEyIm].;;x
+student_of_language_tt;§Y[Root.GetTitledFirstName]§! gets '§YStudent of Language§!', giving §G+1§! Learning.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! ïîëó÷èò ìîäèôèêàòîð §YÈçó÷àåò ÿçûê§!, êîòîðûé äà¸ò §G+1§! ê îáðàçîââàííîñòè.;;x
+surrender_tributary_event_tt;Send a letter offering a peaceful resolution to this conflict by agreeing to become the tributary of §Y[tribute_war_suzerain.GetTitledName]§!.;;;;;;;;;;;Îòïðàâèòü ïèñüìî ñ ïðåäëîæåíèåì ìèðíîãî ðàçðåøåíèÿ êîíôëèêòà, ñîãëàñèâøèñü ñòàòü äàííèêîì (ñàòåëëèòîì) ãîñóäàðñòâà, êîòîðûì ïðàâèò §Y[tribute_war_suzerain.GetTitledFirstName]§!.;;x
+surrender_tributary_tt;§Y[This.GetTitledFirstName]§! will have the opportunity offer a peaceful resolution by agreeing to become the tributary of §Y[Root.GetTitledName]§!.;;;;;;;;;;;§Y[This.GetTitledFirstName]§! ïðè æåëàíèè ñìîæåò ïðåäëîæèòü ìèðíîå ðàçðåøåíèå êîíôëèêòà, ñîãëàñèâøèñü ñòàòü äàííèêîì (ñàòåëëèòîì) ãîñóäàðñòâà, êîòîðûì ïðàâèò §Y[Root.GetTitledFirstName]§!.;;x
+this_may_take_some_time_tt;This will take time...\n;;;;;;;;;;;Ýòî çàéì¸ò íåêîòîðîå âðåìÿ...\n;;x
+title_administrator_modifier_tt;Has earned an academic degree by passing the imperial examinations in China;;;;;;;;;;;Äîëæåí áûòü ïðîéäåò èìïåðàòîðñêèé ýêçàìåí â Êèòàå íà ïîëó÷åíèå àêàäåìè÷åñêîé ñòåïåíè;;x
+title_master_engineer_modifier_tt;Is a Chinese master engineer;;;;;;;;;;;Íóæíî áûòü êèòàéñêèì ãëàâíûì èíæåíåðîì;;x
+title_strategist_modifier_tt;Has a thorough education in Chinese strategy of war;;;;;;;;;;;Îáëàäàåò ãëóáîêèìè çíàíèÿìè â îáëàñòè êèòàéñêîé âîåííîé ñòðàòåãèè;;x
+tooltip_obj_strengthen_religion;To complete the ambition you need to perform §Y3§! of the following tasks:\n §Y*§! Win a Holy War\n §Y*§! Successfully defend against a Holy War\n §Y*§! Construct a Temple\n §Y*§! Convert a Province to [This.Religion.GetName]\n §Y*§! Complete a Special Opportunity\nNote that you can complete the same task multiple times.\n\nTasks currently completed: §G[This.strengthen_religion.GetValue]§!;;;;;;;;;;;×òîáû óäîâëåòâîðèòü àìáèöèþ, Âàì íóæíî âûïîëíèòü ëþáûå §Y3§! èç ñëåäóþùèõ çàäà÷:\n §Y*§! Ïîáåäèòü â ñâÿùåííîé âîéíå\n §Y*§! Óñïåøíî çàùèòèòüñÿ â ñâÿùåííîé âîéíå\n §Y*§! Ïîñòðîèòü Õðàì\n §Y*§! Îáðàòèòü îêðóã â [This.GetReligionFullName]\n §Y*§! Âîñïîëüçîâàòüñÿ îñîáîé âîçìîæíîñòüþ\nÂû ìîæåòå âûïîëíèòü îäíî è òî æå çàäàíèå íåñêîëüêî ðàç.\nÂ íàñòîÿùèé ìîìåíò âûïîëíåíî: §G[This.strengthen_religion.GetValue]§!;;x
+tooltip_silk_road_required;Must have a realm province located on the Silk Road;;;;;;;;;;;Íóæíî, ÷òîáû õîòÿ áû îäèí îêðóã ñòðàíû áûë ðàñïîëîæåí íà Ø¸ëêîâîì ïóòè;;x
+trade_competition_build_city_TT;To win the competition you must be the first to construct a new city holding in a Silk Road province before five years have passed.;;;;;;;;;;;×òîáû âûèãðàòü ñîñòÿçàíèå, Âàì íóæíî ïîñòðîèòü íîâû ãîðîä â îäíîì èç îêðóãîâ Ø¸ëêîâîãî ïóòè ðàíüøå äðóãèõ äî èñòå÷åíèÿ ïÿòèëåòíåãî ñðîêà.;;x
+trade_competition_prestige_halftime_loser_TT;Obtain a higher prestige than the other contestants to win the competition.;;;;;;;;;;;Åù¸ íå ïîçäíî óëó÷øèòü ñâîé ïîêàçàòåëü ïðåñòèæà. Îáîéäèòå äðóãèõ ó÷àñòíèêîâ ñîñòîÿçàíèÿ, ÷òîáû ïîáåäèòü.;;x
+trade_competition_prestige_halftime_winner_TT;Continue having the highest prestige of all contestants to win the competition.;;;;;;;;;;;Âàø ïîêàçàòåëü ïðåñòèæà âûøå ÷åì ó äðóãèõ ó÷àñòíèêîâ ñîñòÿçàíèÿ. Ïðîäîëæàéòå â òîì æå äóõå è ïîáåäèòå.;;x
+trade_competition_prestige_TT;To win the competition you must have the highest §YPrestige§! among all competitors after five years have passed.;;;;;;;;;;;×òîáû âûèãðàòü ñîñòÿçàíèå, Âû äîëæíû èìåòü ñàìûé âûñîêèé ïîêàçàòåëü §Yïðåñòèæà§! ñðåäè åãî ó÷àñòíèêîâ ê ìîìåíòó îêîí÷àíèÿ ïÿòèëåòíåãî ñðîêà.;;x
+tributary_independence_china_tt;You will NOT be able to become a tributary of China for the next 30 years or until the ruling dynasty of China has changed.;;;;;;;;;;;Âû ÍÅ ñìîæåòå ñòàòü äàííèêîì (ñàòåëëèòîì) Êèòàÿ â ñëåäóþùèå 30 ëåò, ëèáî äî òåõ ïîð, ïîêà íå ñìåíèòñÿ åãî ïðàâÿùàÿ äèíàñòèÿ.;;x
+tribute_interaction_level3_education_tt;Has a good education;;;;;;;;;;;Õîðîøåå îáðàçîâàíèå;;x
+tribute_interaction_level4_education_tt;Has an excellent education;;;;;;;;;;;Ïðåâîñõîäíîå îáðàçîâàíèå;;x
+war_with_other_tributary_tt;You are NOT defending against another tributary of [offmap_china.GetShortName];;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ âåä¸òå îáîðîíèòåëüíóþ âîéíó ïðîòèâ äðóãîãî ñàòòåëèòà (äàííèêà) Èìïåðèè [offmap_china.GetShortName];;x
+will_leave_for_china_tt;§Y[This.GetTitledName]§! will leave [This.GetHerHis] current life behind and make a new one for [This.GetHerselfHimself] in the distant East.\n;;;;;;;;;;;§Y[This.GetTitledName]§! îñòàâèò ñâîþ íûíåøíþþ æèçíü ïîçàäè, ÷òîáû íà÷àòü íîâóþ íà äàë¸êîì Âîñòîêå.\n;;x
+will_receive_a_letter;You make a stop for the evening. Your [person_missed.GetRootRelation] will receive a letter with your thoughts and well-wishes.\n;;;;;;;;;;;Ñäåëàòü îñòàíîâêó, ÷òîáû íàïèñàòü ïèñüìî ñâî[person_missed.GetHerHim] [person_missed.GetRootRelationDAT].\n;;x
+will_return_to_china_tt;§Y[This.GetTitledName]§! will leave [This.GetHerHis] life at court and return home to the distant [offmap_china.GetFullName].;;;;;;;;;;;§Y[This.GetTitledName]§! îñòàâèò ñâîþ ïðèâû÷íóþ æèçíü ïðè äâîðå è âåðí¸òñÿ äîìîé â §Yèìïåðèþ [offmap_china.GetShortName]§!.;;x
+you_dont_get_away_tt;you getting away, but becoming injured!\n;;;;;;;;;;;Âû ñáåæèòå, íî áóäåòå ðàíåíû!\n;;x
+you_get_a_cold_of_some_sort_tt;You develop a cold of some sort, from being out in the cold all night.\n;;;;;;;;;;;Âû ïðîñòóäèòåñü èç-çà òîãî, ÷òî âñþ íî÷ü ïðîâåëè íà õîëîäå.\n;;x
+you_get_away_tt;you making it out alive and carry on with your journey.\n;;;;;;;;;;;Âû îñòàíåòåñü æèâû è ïðîäîëæèòå ñâî¸ ïóòåøåñòâèå.\n;;x
+you_will_be_killed_in_a_duel_tt;being slain in personal combat with §Y[From.GetTitledFirstName]§!!\n;;;;;;;;;;;§Y[From.GetTitledFirstName]§! óáü¸ò Âàñ â ïîåäèíêå!\n;;x

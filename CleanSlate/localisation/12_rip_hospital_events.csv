@@ -1,35 +1,31 @@
-EVTDESC_RIP_4501;Pilgrims pass through the hospital in [pilgrim_physician_hospital.GetName] all the time. But word has reached you that one of them has stayed at the hospital for several days. Tending to the sick and wounded and assisting anyone who is in need of help. They say that [pilgrim_physician.GetSheHe] is a very skilled physician and might be of good use.;;;;;;;;;;;;;x
-EVTDESC_RIP_4504;The hospital in [hospital_location.GetName] has seen an increase in the amount of people looking for food and shelter lately. It can barely provide the food required as it is. Perhaps this could be a good opportunity to make an impression?;;;;;;;;;;;;;x
-EVTDESC_RIP_4505;Alms and other supplies have been brought to the hospital. It will make the life much easier for those in need. The question now is how to present this extraordinary gift?;;;;;;;;;;;;;x
-EVTDESC_RIP_4512;The [religious_head_fee.PrimaryTitle.GetRulerTitle] has sent an emissary with a peculiar request. The emissary explains that the clergy has been very involved with the hospital in [hospital_location.GetName] as of late. As such, a fair compensation is expected to be payed.;;;;;;;;;;;;;x
-EVTDESC_RIP_4514;A leper named [homeless_leper.GetFirstName] arrived at court today. With the leper colony in [hospital_location.GetName] being crowded already, [homeless_leper.GetSheHe] has nowhere to go and now begs for your aid.;;;;;;;;;;;;;x
-EVTDESC_RIP_4520;The soup kitchen in [kitchen_hospital.GetName] burned down quite recently in an accident. Without it, many of the poor might starve.;;;;;;;;;;;;;x
-EVTDESC_RIP_4530;Your physician [learning_physician.GetFirstName] has been asking for permission to travel to the hospital in [hospital_location.GetName] to study there for a time. [learning_physician.GetSheHeCap] will need some financing to cover the costs for the journey and for staying at the hospital.;;;;;;;;;;;;;x
-EVTDESC_RIP_4532;Your physician [learning_physician.GetFirstName] came back from [learning_physician.GetHerHis] stay at the hospital today. [learning_physician.GetSheHeCap] explained in great detail about various conditions and ailments and the remedies which to use for them. You did not understand half of it. But in short, [learning_physician.GetSheHe] seems to have learned a great deal.;;;;;;;;;;;;;x
-EVTDESC_RIP_4533;Having stayed at the hospital in [hospital_location.GetName], your physician [learning_physician.GetFirstName] arrived back at court today. The visit was not as productive as [learning_physician.GetSheHe] would have wished, but was still able to learn a new thing or two.;;;;;;;;;;;;;x
-EVTDESC_RIP_4534;You have received word that your physician [learning_physician.GetFirstName] came back earlier this morning. It would seem that [learning_physician.GetSheHe] spent much of the time outside the hospital. And as such, haven't learned anything [learning_physician.GetSheHe] didn't know already.;;;;;;;;;;;;;x
-
-EVTOPTA_RIP_4501;Bring this [pilgrim_physician.GetManWoman] before me.;;;;;;;;;;;;;x
-EVTOPTA_RIP_4504;I shall make preparations at once.;;;;;;;;;;;;;x
-EVTOPTA_RIP_4504_tooltip;Prepare food and supplies to be handed out as charity\n;;;;;;;;;;;;;x
-EVTOPTA_RIP_4505;It is a gift from their [Root.PrimaryTitle.GetRulerTitle]!;;;;;;;;;;;;;x
-EVTOPTA_RIP_4512;If it is the will of [Root.Religion.GetRandomGodName].;;;;;;;;;;;;;x
-EVTOPTA_RIP_4514;You can stay here for now.;;;;;;;;;;;;;x
-EVTOPTA_RIP_4520;I will pay for the repairs.;;;;;;;;;;;;;x
-EVTOPTA_RIP_4530;Excellent suggestion!;;;;;;;;;;;;;x
-
-EVTOPTB_RIP_4501_A;I have no need of [pilgrim_physician.GetHerHis] service.;;;;;;;;;;;;;x
-EVTOPTB_RIP_4501_B;I have a physician already.;;;;;;;;;;;;;x
-EVTOPTB_RIP_4504;My money is better spent elsewhere.;;;;;;;;;;;;;x
-EVTOPTB_RIP_4505;[Root.Religion.GetHighGodNameCap] made it possible!;;;;;;;;;;;;;x
-EVTOPTB_RIP_4512;I think not!;;;;;;;;;;;;;x
-EVTOPTB_RIP_4514;Get out before you infect someone!;;;;;;;;;;;;;x
-EVTOPTB_RIP_4514_tooltip;You send [homeless_leper.GetFirstName] away;;;;;;;;;;;;;x
-EVTOPTB_RIP_4520;They shall receive both money and food!;;;;;;;;;;;;;x
-EVTOPTB_RIP_4530;No. I have more need of you here.;;;;;;;;;;;;;x
-
-EVTOPTC_RIP_4505;The realm provided this offering!;;;;;;;;;;;;;x
-EVTOPTC_RIP_4520;Pay only for the base materials.;;;;;;;;;;;;;x
-
-EVTOPTD_RIP_4505;I am doing it for the people!;;;;;;;;;;;;;x
-EVTOPTD_RIP_4520;Who cares about the poor anyway?;;;;;;;;;;;;;x
+EVTDESC_RIP_4501;Pilgrims pass through the hospital in [pilgrim_physician_hospital.GetName] all the time. But word has reached you that one of them has stayed at the hospital for several days. Tending to the sick and wounded and assisting anyone who is in need of help. They say that [pilgrim_physician.GetSheHe] is a very skilled physician and might be of good use.;;;;;;;;;;;Èçâåñòíî, ÷òî ïàëîìíèêè íà ñâî¸ì ïóòè âñåãäà ïðîõîäÿò ìèìî [pilgrim_physician_hospital.County.GetAdjective]ñêîãî ãîñïèòàëÿ, íî äî Âàñ äîøëè ñëóõè, ÷òî êòî-òî èç íèõ îñòàëñÿ â í¸ì íà íåñêîëüêî äíåé, ÷òîáû ïîìîãàòü ðàíåíûì è áîëüíûì. Ãîâîðÿò, ýò[pilgrim_physician.GetEtaEtot] [pilgrim_physician.GetAgedPerson] - âåñüìà óìåëûé ëåêàðü è ìîæåò áûòü ïîëåç[pilgrim_physician.GetNaEn].;;x
+EVTDESC_RIP_4504;The hospital in [hospital_location.GetName] has seen an increase in the amount of people looking for food and shelter lately. It can barely provide the food required as it is. Perhaps this could be a good opportunity to make an impression?;;;;;;;;;;;[hospital_location.County.GetAdjective]ñêèé ãîñïèòàëü â ïîñëåäíåå âðåìÿ ïðèþòèë ìíîæåñòâî ëþäåé, èùóùèõ ïèùó è êðîâ. Îí åäâà ñïîñîáåí ïðîêîðìèòü èõ âñåõ. Âîçìîæíî, åñòü ñìûñë ïðîâåñòè áëàãîòâîðèòåëüíóþ àêöèþ?;;x
+EVTDESC_RIP_4505;Alms and other supplies have been brought to the hospital. It will make the life much easier for those in need. The question now is how to present this extraordinary gift?;;;;;;;;;;;Âñå íåîáõîäèìûå ïðèïàñû äëÿ áëàãîòâîðèòåëüíîé àêöèè áûëè äîñòàâëåíû â ãîñïèòàëü. Ýòî î÷åíü ïîìîãëî íóæäàþùèìñÿ. Âîïðîñ òîëüêî â òîì, êàê ïðåïîäíåñòè ýòîò íåîæèäàííûé ïîäàðîê.;;x
+EVTDESC_RIP_4512;The [religious_head_fee.PrimaryTitle.GetRulerTitle] has sent an emissary with a peculiar request. The emissary explains that the clergy has been very involved with the hospital in [hospital_location.GetName] as of late. As such, a fair compensation is expected to be payed.;;;;;;;;;;;"[religious_head_fee.PrimaryTitle.GetRulerTitle] ïðèñëàë[religious_head_fee.GetEndA] ýìèññàðà ñ íåîáû÷íûì çàïðîñîì. Â ñâÿçè ñ òåì, ÷òî äóõîâåíñòâî â ïîñëåäíåå âðåìÿ ïðèíèìàëî àêòèâíîå ó÷àñòèå â ðàáîòå [hospital_location.County.GetAdjective]ñêîãî ãîñïèòàëÿ, îíè õîòÿò îò íàñ ""äîñòîéíóþ êîìïåíñàöèþ"" â äåíåæíîì âûðàæåíèè.";;x
+EVTDESC_RIP_4514;A leper named [homeless_leper.GetFirstName] arrived at court today. With the leper colony in [hospital_location.GetName] being crowded already, [homeless_leper.GetSheHe] has nowhere to go and now begs for your aid.;;;;;;;;;;;Ïðîêàæ¸íí[homeless_leper.GetAyaYy] ïî èìåíè [homeless_leper.GetFirstName] ïðèáûë[homeless_leper.GetEndA] ñåãîäíÿ êî äâîðó. [hospital_location.County.GetAdjective]ñêèé ëåïðîçîðèé ïåðåïîëíåí, [homeless_leper.GetHerHim] íåêóäà ïîäàòüñÿ, è [homeless_leper.GetSheHe] ñìèðåííî ïðîñèò Âàñ î ïîìîùè.;;x
+EVTDESC_RIP_4520;The soup kitchen in [kitchen_hospital.GetName] burned down quite recently in an accident. Without it, many of the poor might starve.;;;;;;;;;;;Ïîõîäíàÿ êóõíÿ [kitchen_hospital.County.GetAdjective]ñêîãî ãîñïèòàëÿ íåäàâíî ñãîðåëà â ðåçóëüòàòå íåñ÷àñòíîãî ñëó÷àÿ. Áåç íå¸ ìíîãèå áóäóò ãîëîäàòü.;;x
+EVTDESC_RIP_4530;Your physician [learning_physician.GetFirstName] has been asking for permission to travel to the hospital in [hospital_location.GetName] to study there for a time. [learning_physician.GetSheHeCap] will need some financing to cover the costs for the journey and for staying at the hospital.;;;;;;;;;;;Âàø ïðèäâîðíûé ëåêàðü [learning_physician.GetFirstName] ïðîñèò ó Âàñ ðàçðåøåíèÿ îòïðàâèòüñÿ â [hospital_location.County.GetAdjective]ñêèé ãîñïèòàëü äëÿ îáó÷åíèÿ. Êîíå÷íî, âñ¸ íå òàê ïðîñòî, ïðèä¸òñÿ îïëàòèòü ðàñõîäû íà ïîåçäêó è ïðåáûâàíèå òàì, ïîêà [learning_physician.GetSheHe] áóäåò ó÷èòüñÿ.;;x
+EVTDESC_RIP_4532;Your physician [learning_physician.GetFirstName] came back from [learning_physician.GetHerHis] stay at the hospital today. [learning_physician.GetSheHeCap] explained in great detail about various conditions and ailments and the remedies which to use for them. You did not understand half of it. But in short, [learning_physician.GetSheHe] seems to have learned a great deal.;;;;;;;;;;;Âàø ïðèäâîðíûé ëåêàðü [learning_physician.GetFirstName] ñåãîäíÿ âåðíó[learning_physician.GetLasLsya] èç ñâîåé ïîåçäêè â ãîñïèòàëü. [learning_physician.GetHersHisCap] ðå÷ü áûëà ïåðåïîëíåíà íåïîíÿòíûìè òåðìèíàìè, äåòàëüíûìè îïèñàíèÿìè ðàçíûõ íåäóãîâ è ñïîñîáîâ èõ ëå÷åíèÿ. ßñíî òîëüêî îäíî - [learning_physician.GetSheHe] ìíîãîìó òàì íàó÷è[learning_physician.GetLasLsya].;;x
+EVTDESC_RIP_4533;Having stayed at the hospital in [hospital_location.GetName], your physician [learning_physician.GetFirstName] arrived back at court today. The visit was not as productive as [learning_physician.GetSheHe] would have wished, but was still able to learn a new thing or two.;;;;;;;;;;;Íåêîòîðîå âðåìÿ ïðåáûâàÿ â [hospital_location.County.GetAdjective]ñêîì ãîñïèòàëå, ïðèäâîðíûé ëåêàðü [learning_physician.GetFirstName] ñåãîäíÿ âåðíó[learning_physician.GetLasLsya] ê Âàøåìó äâîðó. Ê ñîæàëåíèþ [learning_physician.GetHersHis] âèçèò íå áûë ñòîëü ýôôåêòèâåí, êàê [learning_physician.GetSheHe] ðàññ÷èòûâàë[learning_physician.GetEndA], [learning_physician.GetHerHim] óäàëîñü íàó÷èòüñÿ ÷åìó-òî íîâîìó.;;x
+EVTDESC_RIP_4534;You have received word that your physician [learning_physician.GetFirstName] came back earlier this morning. It would seem that [learning_physician.GetSheHe] spent much of the time outside the hospital. And as such, haven't learned anything [learning_physician.GetSheHe] didn't know already.;;;;;;;;;;;Êîãäà Âàì ñîîáùèëè, ÷òî ïðèäâîðíûé ëåêàðü [learning_physician.GetFirstName] âåðíó[learning_physician.GetLasLsya] ñåãîäíÿ óòðîì, Âû ñïðîñèëè ïî÷åìó [learning_physician.GetSheHe] èçáåãàåò Âàñ. Îêàçûâàåòñÿ, ïî÷òè âñ¸ âðåìÿ [learning_physician.GetSheHe] âûíóæäåí[learning_physician.GetEndA] áûë[learning_physician.GetEndA] ïðîâîäèòü çà ñòåíàìè ãîñïèòàëÿ, íå èìåÿ äîñòóïà ê ïðàêòèêå, è íå ñìîã[learning_physician.GetNoneE] íè÷åìó íàó÷èòüñÿ.;;x
+EVTOPTA_RIP_4501;Bring this [pilgrim_physician.GetManWoman] before me.;;;;;;;;;;;Ïðèâåäèòå [pilgrim_physician.GetHersHis] êî äâîðó.;;x
+EVTOPTA_RIP_4504;I shall make preparations at once.;;;;;;;;;;;Õîðîøî, íà÷í¸ì ïðèãîòîâëåíèÿ.;;x
+EVTOPTA_RIP_4504_tooltip;Prepare food and supplies to be handed out as charity\n;;;;;;;;;;;Ïðèãîòîâèòü åäó è ïðèïàñû äëÿ áëàãîòâîðèòåëüíîé àêöèè\n;;x
+EVTOPTA_RIP_4505;It is a gift from their [Root.PrimaryTitle.GetRulerTitle]!;;;;;;;;;;;Èõ [Root.PrimaryTitle.GetRulerTitle] ïîìíèò î íèõ!;;x
+EVTOPTA_RIP_4512;If it is the will of [Root.Religion.GetRandomGodName].;;;;;;;;;;;Òàêîâà âîëÿ [Root.GetReligionHighGodGEN].;;x
+EVTOPTA_RIP_4514;You can stay here for now.;;;;;;;;;;;Òàê è áûòü, îñòàâàéòåñü ïîêà ó íàñ.;;x
+EVTOPTA_RIP_4520;I will pay for the repairs.;;;;;;;;;;;ß êîìïåíñèðóþ âñå ðàñõîäû íà ðåìîíò.;;x
+EVTOPTA_RIP_4530;Excellent suggestion!;;;;;;;;;;;Ïðåêðàñíàÿ èäåÿ!;;x
+EVTOPTB_RIP_4501_A;I have no need of [pilgrim_physician.GetHerHis] service.;;;;;;;;;;;ß íå íóæäàþñü â [pilgrim_physician.GetHersHis] óñëóãàõ.;;x
+EVTOPTB_RIP_4501_B;I have a physician already.;;;;;;;;;;;Ó ìåíÿ óæå åñòü ëåêàðü.;;x
+EVTOPTB_RIP_4504;My money is better spent elsewhere.;;;;;;;;;;;Äåíüãè ïðèãîäÿòñÿ ìíå â äðóãèõ ñôåðàõ äåÿòåëüíîñòè.;;x
+EVTOPTB_RIP_4505;[Root.Religion.GetHighGodNameCap] made it possible!;;;;;;;;;;;Ïóñòü áëàãîäàðÿò [Root.GetReligionHighGodACC]!;;x
+EVTOPTB_RIP_4512;I think not!;;;;;;;;;;;Îáîéäóòñÿ! Íèêòî èõ íå çàñòàâëÿë ïîìîãàòü.;;x
+EVTOPTB_RIP_4514;Get out before you infect someone!;;;;;;;;;;;Ïðîâàëèâàé îòñþäà, ïîêà êîãî-íèáóäü íå çàðàçèë[homeless_leper.GetEndA]!;;x
+EVTOPTB_RIP_4514_tooltip;You send [homeless_leper.GetFirstName] away;;;;;;;;;;;Ïóñòü [homeless_leper.GetFirstName] óáèðàåòñÿ ïðî÷ü;;x
+EVTOPTB_RIP_4520;They shall receive both money and food!;;;;;;;;;;;Îòïðàâüòå òóäà åäó è ìàòåðèàëû, ÿ îïëà÷ó ðåìîíò.;;x
+EVTOPTB_RIP_4530;No. I have more need of you here.;;;;;;;;;;;Íåò. [learning_physician.GetSheHeCap] íóæ[learning_physician.GetNaEn] ìíå çäåñü.;;x
+EVTOPTC_RIP_4505;The realm provided this offering!;;;;;;;;;;;Ñòðàíà çàáîòèòñÿ î íèõ!;;x
+EVTOPTC_RIP_4520;Pay only for the base materials.;;;;;;;;;;;Îòïðàâüòå òîëüêî ìàòåðèàëû íà ðåìîíò.;;x
+EVTOPTD_RIP_4505;I am doing it for the people!;;;;;;;;;;;ß ëþáëþ ñâîé íàðîä!;;x
+EVTOPTD_RIP_4520;Who cares about the poor anyway?;;;;;;;;;;;Íó ÷òî ïîäåëàòü? Áûâàåò.;;x

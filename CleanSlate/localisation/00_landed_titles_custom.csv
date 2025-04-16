@@ -1,103 +1,99 @@
 # Used in title history and script to rename various historical titles
-DUCHY_CHAMAVIA;Chamavia;;;;;;;;;;;;;x
-DUCHY_CHAMAVIA_ADJ;Chamavian;;;;;;;;;;;;;x
-EAST_FRANCIA;East Francia;;;;;;;;;;;;;x
-EAST_FRANCIA_ADJ;East Francian;;;;;;;;;;;;;x
-ALEMANNIA;Alemannia;;;;;;;;;;;;;x
-ALEMANNIA_ADJ;Alemannian;;;;;;;;;;;;;x
-AVAR_KHAGANATE;Avaria;;;;;;;;;;;;;x
-AVAR_KHAGANATE_ADJ;Avarian;;;;;;;;;;;;;x
-DUCHY_IVREA;Ivrea;;;;;;;;;;;;;x
-DUCHY_IVREA_ADJ;Ivrean;;;;;;;;;;;;;x
-KINGDOM_PANNONIA;Pannonia;;;;;;;;;;;;;x
-KINGDOM_PANNONIA_ADJ;Pannonian;;;;;;;;;;;;;x
-LOMBARD_KINGDOM;Lombardy;;;;;;;;;;;;;x
-LOMBARD_KINGDOM_ADJ;Lombard;;;;;;;;;;;;;x
-LOTHARINGIA;Lotharingia;;;;;;;;;;;;;x
-LOTHARINGIA_ADJ;Lotharingian;;;;;;;;;;;;;x
-MARCH_FRIULI;Friuli;;;;;;;;;;;;;x
-MARCH_FRIULI_ADJ;Friulian;;;;;;;;;;;;;x
-BERNICIA;Bernicia;;;;;;;;;;;;;x
-BERNICIA_ADJ;Bernician;;;;;;;;;;;;;x
-FUSTAT_ADJ;Fustatian;;;;;;;;;;;;;x
-GLYWYSING;Glywysing;;;;;;;;;;;;;x
-GLYWYSING_ADJ;Glywysingian;;;;;;;;;;;;;x
-KIEVAN_RUS;Kievan Rus;;;;;;;;;;;;;x
-KIEVAN_RUS_ADJ;Kievan Rus;;;;;;;;;;;;;x
-LOCHA_LEIN;Locha Léin;;;;;;;;;;;;;x
-LOCHA_LEIN_ADJ;Locha Léin;;;;;;;;;;;;;x
-MORGANNWG;Morgannwg;;;;;;;;;;;;;x
-MORGANNWG_ADJ;Morgannwgian;;;;;;;;;;;;;x
-RHOS;Rhos;;;;;;;;;;;;;x
-RHOS_ADJ;Rhosian;;;;;;;;;;;;;x
-SEISYLLWG;Seisyllwg;;;;;;;;;;;;;x
-SEISYLLWG_ADJ;Seisyllwgian;;;;;;;;;;;;;x
-GUGE;Guge;;;;;;;;;;;;;x
-GUGE_ADJ;Guge;;;;;;;;;;;;;x
-PHAGMODRUPA;Phagmodrupa;;;;;;;;;;;;;x
-PHAGMODRUPA_ADJ;Phagmodrupan;;;;;;;;;;;;;x
-ZHANGZHUNG;Zhangzhung;;;;;;;;;;;;;x
-ZHANGZHUNG_ADJ;Zhangzhung;;;;;;;;;;;;;x
-ARLES;Arles;;;;;;;;;;;;;x
-ARLES_ADJ;Arletian;;;;;;;;;;;;;x
-HAMALAND;Hamaland;;;;;;;;;;;;;x
-HAMALAND_ADJ;Hamalander;;;;;;;;;;;;;x
-HATTUARIA;Hattuaria;;;;;;;;;;;;;x
-HATTUARIA_ADJ;Hattuarian;;;;;;;;;;;;;x
-KENNEMERLAND;Kennemerland;;;;;;;;;;;;;x
-KENNEMERLAND_ADJ;Kennemerlander;;;;;;;;;;;;;x
-TEISTERBANT;Teisterbant;;;;;;;;;;;;;x
-TEISTERBANT_ADJ;Teisterbanter;;;;;;;;;;;;;x
-TOXANDRIA;Toxandria;;;;;;;;;;;;;x
-TOXANDRIA_ADJ;Toxandrian;;;;;;;;;;;;;x
-WEST_FRISIA;West-Frisia;;;;;;;;;;;;;x
-WEST_FRISIA_ADJ;West-Frisian;;;;;;;;;;;;;x
-AUSTRASIA;Austrasia;;;;;;;;;;;;;x
-AUSTRASIA_ADJ;Austrasian;;;;;;;;;;;;;x
-WEST_FRANCIA;West Francia;;;;;;;;;;;;;x
-WEST_FRANCIA_ADJ;West Francian;;;;;;;;;;;;;x
-KAISERSWERTH;Kaiserswerth;;;;;;;;;;;;;x
-
+DUCHY_CHAMAVIA;Chamavia;;;;;;;;;;;Õàìàâèÿ;;x
+DUCHY_CHAMAVIA_ADJ;Chamavian;;;;;;;;;;;Õàìàâ;;x
+EAST_FRANCIA;East Francia;;;;;;;;;;;Âîñòî÷íàÿ Ôðàíêèÿ;;x
+EAST_FRANCIA_ADJ;East Francian;;;;;;;;;;;Âîñòî÷íî-Ôðàíê;;x
+ALEMANNIA;Alemannia;;;;;;;;;;;Àëåìàíèÿ;;x
+ALEMANNIA_ADJ;Alemannian;;;;;;;;;;;Àëåìàíí;;x
+AVAR_KHAGANATE;Avaria;;;;;;;;;;;Àâàðèÿ;;x
+AVAR_KHAGANATE_ADJ;Avarian;;;;;;;;;;;Àâàð;;x
+DUCHY_IVREA;Ivrea;;;;;;;;;;;Èâðåÿ;;x
+DUCHY_IVREA_ADJ;Ivrean;;;;;;;;;;;Èâðåé;;x
+KINGDOM_PANNONIA;Pannonia;;;;;;;;;;;Ïàííîíèÿ;;x
+KINGDOM_PANNONIA_ADJ;Pannonian;;;;;;;;;;;Ïàííîí;;x
+LOMBARD_KINGDOM;Lombardy;;;;;;;;;;;Ëîìáàðäèÿ;;x
+LOMBARD_KINGDOM_ADJ;Lombard;;;;;;;;;;;Ëîìáàðä;;x
+LOTHARINGIA;Lotharingia;;;;;;;;;;;Ëîòàðèíãèÿ;;x
+LOTHARINGIA_ADJ;Lotharingian;;;;;;;;;;;Ëîòàðèíã;;x
+MARCH_FRIULI;Friuli;;;;;;;;;;;Ôðèóëè;;x
+MARCH_FRIULI_ADJ;Friulian;;;;;;;;;;;Ôðèóëü;;x
+BERNICIA;Bernicia;;;;;;;;;;;Áåðíèöèÿ;;x
+BERNICIA_ADJ;Bernician;;;;;;;;;;;Áåðíèöèàí;;x
+FUSTAT_ADJ;Fustatian;;;;;;;;;;;Ôóñòàò;;x
+GLYWYSING;Glywysing;;;;;;;;;;;Ãëèâèñèíã;;x
+GLYWYSING_ADJ;Glywysingian;;;;;;;;;;;Ãëèâèñèíã;;x
+KIEVAN_RUS;Kievan Rus;;;;;;;;;;;Êèåâñêàÿ Ðóñü;;x
+KIEVAN_RUS_ADJ;Kievan Rus;;;;;;;;;;;Ðóñ;;x
+LOCHA_LEIN;Locha Léin;;;;;;;;;;;Ëîõà Ëåéí;;x
+LOCHA_LEIN_ADJ;Locha Léin;;;;;;;;;;;Ëîõëåéí;;x
+MORGANNWG;Morgannwg;;;;;;;;;;;Ìîðãàííóã;;x
+MORGANNWG_ADJ;Morgannwgian;;;;;;;;;;;Ìîðãàííóã;;x
+RHOS;Rhos;;;;;;;;;;;Ðîñ;;x
+RHOS_ADJ;Rhosian;;;;;;;;;;;Ðîñèàí;;x
+SEISYLLWG;Seisyllwg;;;;;;;;;;;Ñåéñèëëóã;;x
+SEISYLLWG_ADJ;Seisyllwgian;;;;;;;;;;;Ñåéñèëëóã;;x
+GUGE;Guge;;;;;;;;;;;Ãóãå;;x
+GUGE_ADJ;Guge;;;;;;;;;;;Ãóãåé;;x
+PHAGMODRUPA;Phagmodrupa;;;;;;;;;;;Ïõàãìîäðóïà;;x
+PHAGMODRUPA_ADJ;Phagmodrupan;;;;;;;;;;;Ïõàãìîäðóïàí;;x
+ZHANGZHUNG;Zhangzhung;;;;;;;;;;;Øàíãøóíã;;x
+ZHANGZHUNG_ADJ;Zhangzhung;;;;;;;;;;;Øàíãøóíã;;x
+ARLES;Arles;;;;;;;;;;;Àðëü;;x
+ARLES_ADJ;Arletian;;;;;;;;;;;Àðëåçèàí;;x
+HAMALAND;Hamaland;;;;;;;;;;;Õàìàëàíä;;x
+HAMALAND_ADJ;Hamalander;;;;;;;;;;;Õàìàëàíä;;x
+HATTUARIA;Hattuaria;;;;;;;;;;;Õàòòóàðèÿ;;x
+HATTUARIA_ADJ;Hattuarian;;;;;;;;;;;Õàòòóàð;;x
+KENNEMERLAND;Kennemerland;;;;;;;;;;;Êåííåìåðëàíä;;x
+KENNEMERLAND_ADJ;Kennemerlander;;;;;;;;;;;Êåííåìåðëàíä;;x
+TEISTERBANT;Teisterbant;;;;;;;;;;;Òåéñòåðáàíò;;x
+TEISTERBANT_ADJ;Teisterbanter;;;;;;;;;;;Òåéñòåðáàíò;;x
+TOXANDRIA;Toxandria;;;;;;;;;;;Òîêñàíäðèÿ;;x
+TOXANDRIA_ADJ;Toxandrian;;;;;;;;;;;Òîêñàíäðèé;;x
+WEST_FRISIA;West-Frisia;;;;;;;;;;;Çàïàäíàÿ Ôðèçèÿ;;x
+WEST_FRISIA_ADJ;West-Frisian;;;;;;;;;;;Çàïàäíîôðèç;;x
+AUSTRASIA;Austrasia;;;;;;;;;;;Àâñòðàçèÿ;;x
+AUSTRASIA_ADJ;Austrasian;;;;;;;;;;;Àâñòðàçèé;;x
+WEST_FRANCIA;West Francia;;;;;;;;;;;Çàïàäíàÿ Ôðàíêèÿ;;x
+WEST_FRANCIA_ADJ;West Francian;;;;;;;;;;;Çàïàäíî-Ôðàíê;;x
+KAISERSWERTH;Kaiserswerth;;;;;;;;;;;Êàéçåðñâåðò;;x
 # Used in script to create various titles
-CHILDRENS_CRUSADE_TEMPORARY;the Children's Crusade;;;;;;;;;;;;;x
-CLAIMANT_ADVENTURE;[Root.GetTitledFirstName]'s Host;;;;;;;;;;;;;x
-crusade_state_duchy_adjective;[current_crusade_beneficiary.Culture.GetName];;;;;;;;;;;;;x
-crusade_state_duchy_name;[Root.GetRandomCrusaderStateName];;;;;;;;;;;;;x
-DECADENCE_REVOLT;[Root.PrimaryTitle.GetAdjective] Decadence Revolt;;;;;;;;;;;;;x
-DESTINY_KINGDOM;[target_name.GetFirstName]ia;;;;;;;;;;;;;x
-DISOBEDIENT_DAUGHTER_MERC_BAND;Hounds of [This.GetFirstName];;;;;;;;;;;;;x
-DYNAMIC_MERCENARY_COMPANY;[Root.GetFirstName]'s [Root.Culture.GetName] Band;;;;;;;;;;;;;x
-DYNAMIC_MERCENARY_COMPANY_FEUDAL;[Prev.Capital.County.GetAdjective] Band;;;;;;;;;;;;;x
-EoD_UPRISING;[Root.Religion.GetName] Reckoning;;;;;;;;;;;;;x
-fourth_crusade_greek_empire_name;[From.Capital.GetName];;;;;;;;;;;;;x
-fourth_crusade_greek_kingdom_name;[This.GetName];;;;;;;;;;;;;x
-GENERIC_REPUBLIC_NAME;[target_merchant_republic.GetFirstName]'s Republic;;;;;;;;;;;;;x
-HERETIC_REVOLT;[Root.Religion.GetName] Uprising;;;;;;;;;;;;;x
-INDIAN_MUSLIM_KINGDOM;[Root.GetFirstName] [Prev.GetName];;;;;;;;;;;;;x
-kingdom_of_bavaria_name;Bavaria;;;;;;;;;;;;;x
-kingdom_of_carinthia_name;Carinthia;;;;;;;;;;;;;x
-kingdom_of_styria_name;Styria;;;;;;;;;;;;;x
-KINGDOM_OF_THE_SHEPHERDS;[shepherds_kingdom.GetBaseName];;;;;;;;;;;;;x
-knights_hospitaller_island_rename;Knights of [potential_title.GetBaseName];;;;;;;;;;;;;x
-LIBERATED_KINGDOM;[new_ruler.GetLastWordInDynastyName] [Prev.GetName];;;;;;;;;;;;;x
-MINOR_CLAN_REVOLT;[Root.County.GetAdjective] Minor Clan Rising;;;;;;;;;;;;;x
-NATIONALIST_REVOLT;[Root.Kingdom.GetAdjective] Liberation Revolt;;;;;;;;;;;;;x
-PEASANT_REVOLT;[Root.County.GetAdjective] Peasant Revolt;;;;;;;;;;;;;x
-REBEL_GENERAL;[offmap_china.GetShortName] Rebellion;;;;;;;;;;;;;x
-RECONQUISTA_ADVENTURE_TITLE_NAME;The Reconquista;;;;;;;;;;;;;x
-reconquista_duchy_name;[Root.GetOnlyDynastyName] [This.GetBaseName];;;;;;;;;;;;;x
-ROMAN_CHRISTIAN_REVOLT;Roman Peasant Uprising;;;;;;;;;;;;;x
-SHIA_CALIPHATE_REVOLT;Pretender Shi'a Caliphate;;;;;;;;;;;;;x
-SHIA_CUSTOM_FALLBACK;[Root.Capital.County.GetName];;;;;;;;;;;;;x
-THE_SHEPHERDS_CRUSADE;Shepherds' Crusade;;;;;;;;;;;;;x
-TRIBAL_CUSTOM;[This.GetOnlyDynastyName]-[This.Capital.County.GetName];;;;;;;;;;;;;x
-WIDUKIND_ARMY;Saxon Rebellion;;;;;;;;;;;;;x
-
+CHILDRENS_CRUSADE_TEMPORARY;the Children's Crusade;;;;;;;;;;;Äåòñêèé êðåñòîâûé ïîõîä;;x
+CLAIMANT_ADVENTURE;[Root.GetTitledFirstName]'s Host;;;;;;;;;;;[Root.GetTitledFirstName] - àâàíòþðèñò[Root.GetEndKa];;x
+crusade_state_duchy_adjective;[current_crusade_beneficiary.Culture.GetName];;;;;;;;;;;[current_crusade_beneficiary.GetCultureShortAdj];;x
+crusade_state_duchy_name;[Root.GetRandomCrusaderStateName];;;;;;;;;;;[Root.GetRandomCrusaderStateName];;x
+DECADENCE_REVOLT;[Root.PrimaryTitle.GetAdjective] Decadence Revolt;;;;;;;;;;;[Root.PrimaryTitle.GetAdjective]ñêîå âîññòàíèå ïðîòèâ óïàäêà;;x
+DESTINY_KINGDOM;[target_name.GetFirstName]ia;;;;;;;;;;;[target_name.GetFirstName]íèÿ;;x
+DISOBEDIENT_DAUGHTER_MERC_BAND;Hounds of [This.GetFirstName];;;;;;;;;;;[Prev.Capital.County.GetAdjective]ñêàÿ ñâîðà;;x
+DYNAMIC_MERCENARY_COMPANY;[Root.GetFirstName]'s [Root.Culture.GetName] Band;;;;;;;;;;;[Root.GetCultureAdj]àÿ áàíäà (îñíîâàòåëü - [Root.GetFirstName]);;x
+DYNAMIC_MERCENARY_COMPANY_FEUDAL;[Prev.Capital.County.GetAdjective] Band;;;;;;;;;;;[PrevPrev.Capital.County.GetAdjective]ñêàÿ áàíäà;;x
+EoD_UPRISING;[Root.Religion.GetName] Reckoning;;;;;;;;;;;[Root.GetRelAdj]ñêîå âîçìåçäèå;;x
+fourth_crusade_greek_empire_name;[From.Capital.GetName];;;;;;;;;;;[From.Capital.GetName];;x
+fourth_crusade_greek_kingdom_name;[This.GetName];;;;;;;;;;;[This.GetBaseName];;x
+GENERIC_REPUBLIC_NAME;[target_merchant_republic.GetFirstName]'s Republic;;;;;;;;;;;[target_merchant_republic.GetFirstName]èäñêàÿ ðåñïóáëèêà;;x
+HERETIC_REVOLT;[Root.Religion.GetName] Uprising;;;;;;;;;;;[Root.GetRelAdjCap]ñêîå âîññòàíèå;;x
+INDIAN_MUSLIM_KINGDOM;[Root.GetFirstName] [Prev.GetName];;;;;;;;;;;[PrevPrev.GetName] [Root.GetFirstName];;x
+kingdom_of_bavaria_name;Bavaria;;;;;;;;;;;Áàâàðèÿ;;x
+kingdom_of_carinthia_name;Carinthia;;;;;;;;;;;Êàðèíòèÿ;;x
+kingdom_of_styria_name;Styria;;;;;;;;;;;Øòèðèÿ;;x
+KINGDOM_OF_THE_SHEPHERDS;[shepherds_kingdom.GetBaseName];;;;;;;;;;;[shepherds_kingdom.GetBaseName];;x
+knights_hospitaller_island_rename;Knights of [potential_title.GetBaseName];;;;;;;;;;;[potential_title.GetAdjective]ñêèå Ðûöàðè;;x
+LIBERATED_KINGDOM;[new_ruler.GetLastWordInDynastyName] [Prev.GetName];;;;;;;;;;;[PrevPrev.GetName] [new_ruler.GetLastWordInDynastyName];;x
+MINOR_CLAN_REVOLT;[Root.County.GetAdjective] Minor Clan Rising;;;;;;;;;;;[Root.County.GetAdjective]ñêîå êëàíîâîå Âîññòàíèå;;x
+NATIONALIST_REVOLT;[Root.Kingdom.GetAdjective] Liberation Revolt;;;;;;;;;;;[Root.Kingdom.GetAdjective]ñêîå âîññòàíèå çà ñâîáîäó;;x
+PEASANT_REVOLT;[Root.County.GetAdjective] Peasant Revolt;;;;;;;;;;;[Root.County.GetAdjective]ñêîå êðåñòüÿíñêîå âîññòàíèå;;x
+REBEL_GENERAL;[offmap_china.GetShortName] Rebellion;;;;;;;;;;;Âîññòàíèå ïðîòèâ èìïåðèè [offmap_china.GetShortName];;x
+RECONQUISTA_ADVENTURE_TITLE_NAME;The Reconquista;;;;;;;;;;;Ðåêîíêèñòà;;x
+reconquista_duchy_name;[Root.GetOnlyDynastyName] [This.GetBaseName];;;;;;;;;;;[Root.GetOnlyDynastyName] [This.GetBaseName];;x
+ROMAN_CHRISTIAN_REVOLT;Roman Peasant Uprising;;;;;;;;;;;Ðèìñêîå êðåñòüÿíñêîå âîññòàíèå;;x
+SHIA_CALIPHATE_REVOLT;Pretender Shi'a Caliphate;;;;;;;;;;;Ïðåòåíäåíò íà Øèèòñêèé õàëèôàò;;x
+SHIA_CUSTOM_FALLBACK;[Root.Capital.County.GetName];;;;;;;;;;;[Root.Capital.County.GetName];;x
+THE_SHEPHERDS_CRUSADE;Shepherds' Crusade;;;;;;;;;;;Êðåñòîâûé ïîõîä Ïàñòóøêîâ;;x
+TRIBAL_CUSTOM;[This.GetOnlyDynastyName]-[This.Capital.County.GetName];;;;;;;;;;;[title_name_target.Capital.County.GetName] [title_name_target.GetOnlyDynastyName];;x
+WIDUKIND_ARMY;Saxon Rebellion;;;;;;;;;;;Ñàêñîíñêîå Âîññòàíèå;;x
 # Used in hardcode for CBs with 'major_revolt = yes' to create temporary title for attacker
-REBEL_TITLE;[Recipient.PrimaryTitle.GetAdjective] Revolt;;;;;;;;;;;;;x
-
+REBEL_TITLE;[Recipient.PrimaryTitle.GetAdjective] Revolt;;;;;;;;;;;[Recipient.PrimaryTitle.GetAdjective]ñêîå âîññòàíèå;;x
 # Unused? - Horse Lords
-CLAN_REVOLT;[Root.County.GetAdjective] Clan Revolt;;;;;;;;;;;;;x
-
+CLAN_REVOLT;[Root.County.GetAdjective] Clan Revolt;;;;;;;;;;;[Root.County.GetAdjective]ñêîå êëàíîâîå Âîññòàíèå;;x
 # Old Shepherd's Crusade, replaced with Holy Fury's version
-SHEPHERDS_CRUSADE;The Shepherds' Crusade;;;;;;;;;;;;;x
+SHEPHERDS_CRUSADE;The Shepherds' Crusade;;;;;;;;;;;Kðåñòîâûé ïîõîä ïàñòóøêîâ;;x

@@ -1,13 +1,10 @@
-EVTDESC_ZE_11001;Your mercenary band captain [From.GetTitledName] has shown much interest in your [chosen_child.GetSonDaughter] [chosen_child.GetFirstName]. Now [From.GetSheHe] approaches you with a marriage proposal. Any children in such a marriage would be of [From.GetTitledName]'s dynasty.;;;;;;;;;;;;;x
-EVTDESC_ZE_11011;[From.GetFullName] proposes that we send more troops making them a bigger, better mercenary band. [From.GetSheHeCap] insists that with the experience [From.GetSheHe] has gained, trusting [From.GetHerHim] with a greater force is a natural way of showing mutual respect and trust.;;;;;;;;;;;;;x
-EVTDESC_ZE_11021;[From.GetFullName] was not happy with your decision to dissolve '[From.GetHerHis]' mercenary band. [From.GetSheHeCap] is reported to have taken your soldiers as [From.GetHerHis] own and disappeared.;;;;;;;;;;;;;x
-
-EVTOPTA_ZE_11001;Not a bad idea.;;;;;;;;;;;;;x
-EVTOPTA_ZE_11011;Accept proposal.;;;;;;;;;;;;;x
-EVTOPTA_ZE_11021;When I find [From.GetHerHim]...;;;;;;;;;;;;;x
-EVTOPTA_ZE_11021_TOOLTIP;Who knows what they will be up to.;;;;;;;;;;;;;x
-
-EVTOPTB_ZE_11001;Outrageous!;;;;;;;;;;;;;x
-EVTOPTB_ZE_11011;Respectfully disagree.;;;;;;;;;;;;;x
-
-EVTTOOLTIP_ZE_11011;Send more supporting troops to increase the size of [From.GetFirstName]'s band.;;;;;;;;;;;;;x
+EVTDESC_ZE_11001;Your mercenary band captain [From.GetTitledName] has shown much interest in your [chosen_child.GetSonDaughter] [chosen_child.GetFirstName]. Now [From.GetSheHe] approaches you with a marriage proposal. Any children in such a marriage would be of [From.GetTitledName]'s dynasty.;;;;;;;;;;;Êàïèòàí Âàøåé âîåííîé êàìïàíè [From.GetTitledName] óæå äàâíî íå ïûòàåòñÿ ñêðûâàòü òîò ôàêò, ÷òî [From.GetHersHis] èíòåðåñóåò Âàø[chosen_child.GetEndA] [chosen_child.GetSonDaughter] [chosen_child.GetFirstName]. À òåïåðü [From.GetSheHe] çàÿâèë[From.GetEndA] î íàìåðåíèè [From.GetToMarry] [From.GetMarryHimHer]. Ðàçóìååòñÿ, èõ äåòè áóäóò ïðèíàäëåæàòü äèíàñòèè [From.GetOnlyDinastyName].;;x
+EVTDESC_ZE_11011;[From.GetFullName] proposes that we send more troops making them a bigger, better mercenary band. [From.GetSheHeCap] insists that with the experience [From.GetSheHe] has gained, trusting [From.GetHerHim] with a greater force is a natural way of showing mutual respect and trust.;;;;;;;;;;;[From.GetFullName] ïðåäëàãàåò ïîñëàòü áîëüøå ñîëäàò, ÷òîáû óêðåïèòü âîåííóþ ìîùü Âàøåé êîìïàíèè. [From.GetSheHeCap] óòâåðæäàåò, ÷òî ñ ó÷¸òîì ïðèîáðåò¸ííîãî [From.GetEyuIm] îïûòà, äîâåðèòü [From.GetHerHim] áîëåå êðóïíóþ àðìèþ - ñîâåðøåííî åñòåñòâåííûé ñïîñîá îêàçàòü äîâåðèå.;;x
+EVTDESC_ZE_11021;[From.GetFullName] was not happy with your decision to dissolve '[From.GetHerHis]' mercenary band. [From.GetSheHeCap] is reported to have taken your soldiers as [From.GetHerHis] own and disappeared.;;;;;;;;;;;"[From.GetFullName] áûë[From.GetEndA] âåñüìà ðàçî÷àðîâàí[From.GetEndA] Âàøèì ðåøåíèåì ðàñïóñòèòü ""[From.GetHersHis]"" âîåííóþ êîìïàíèþ. Óâåäÿ âîéñêî çà ñîáîé, [From.GetSheHe] âûðàçèë[From.GetEndA] ñâî¸ íåãîäîâàíèå è èñ÷åç[From.GetNoneE].";;x
+EVTOPTA_ZE_11001;Not a bad idea.;;;;;;;;;;;Íåïëîõàÿ èäåÿ.;;x
+EVTOPTA_ZE_11011;Accept proposal.;;;;;;;;;;;Ñîãëàñ[Root.GetNaEn].;;x
+EVTOPTA_ZE_11021;When I find [From.GetHerHim]...;;;;;;;;;;;Êîãäà ÿ íàéäó ýòó ïîäëóþ êðûñó...;;x
+EVTOPTA_ZE_11021_TOOLTIP;Who knows what they will be up to.;;;;;;;;;;;Êòî çíàåò, ÷òî îíè âûêèíóò.;;x
+EVTOPTB_ZE_11001;Outrageous!;;;;;;;;;;;Ýòî âîçìóòèòåëüíî!;;x
+EVTOPTB_ZE_11011;Respectfully disagree.;;;;;;;;;;;ß òàê íå äóìàþ.;;x
+EVTTOOLTIP_ZE_11011;Send more supporting troops to increase the size of [From.GetFirstName]'s band.;;;;;;;;;;;Ïóñòü [From.GetFirstName] ïîïîëíèò ðÿäû ñâîåé áàíäû. Îòïðàâèòü [From.GetHerHim] áîëüøå âîéñê.;;x

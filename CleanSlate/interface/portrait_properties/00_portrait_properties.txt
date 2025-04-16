@@ -6039,7 +6039,8 @@
 #p32 French Culture Overlayer - Female
 32 = {
 	0 = { # Blank
-	factor = 100
+		factor = 100
+
 		trigger = {
 			OR = {
 				has_game_started = no

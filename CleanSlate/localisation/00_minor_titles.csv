@@ -1,213 +1,212 @@
-emperor_title_queen_mother_female;Empress Dowager;;;;;;;;;;;;;x
-emperor_title_queen_mother_female_german;Kaiserin;;;;;;;;;;;;;x
-
-title_administrator;Scholar-Bureaucrat;;;;;;;;;;;;;x
-title_administrator_desc;A scholar-bureaucrat is an educated member of the Chinese gentry, who has earned academic degrees by passing the imperial examinations. They will aid you with the administration of your realm by organizing the local building projects.;;;;;;;;;;;;;x
-title_anthypatos;Anthypatos;;;;;;;;;;;;;x
-title_anthypatos_desc;Anthypatos is Greek for Proconsul. However, the office no longer denotes a provincial governor but is purely honorary.;;;;;;;;;;;;;x
-title_appointed_regent;Designated Regent;;;;;;;;;;;;;x
-title_appointed_regent_desc;This character will become the Regent if one is needed.;;;;;;;;;;;;;x
-title_augusta;Augusta;;;;;;;;;;;;;x
-title_augusta_desc;Most Pious Augusta: Unlike the male counterpart the Augusta continues to be the most important woman of the empire. Wielding great power and authority, she is second only to the Basileus.;;;;;;;;;;;;;x
-title_baghatur;Baghatur;;;;;;;;;;;;;x
-title_baghatur_desc;This honorific, which means hero or valiant warrior, is the rough equivalent of European knighthood. It is usually granted only to those who have truly distinguished themselves in battle.;;;;;;;;;;;;;x
-title_behi;Behi;;;;;;;;;;;;;x
-title_behi_desc;This title was given to women in the families within the Mongolian nobility.;;;;;;;;;;;;;x
-title_caesar;Caesar;;;;;;;;;;;;;x
-title_caesar_desc;Originally the highest honor in the Roman Empire, the title of Caesar can now be awarded to anyone.;;;;;;;;;;;;;x
-title_canjun;Canjun;;;;;;;;;;;;;x
-title_canjun_desc;The Staff Officer of an army, the position of Canjun is granted to trustworthy deputies in a military body or sometimes a political arm, and is a prestigious title to hold.;;;;;;;;;;;;;x
-title_cardinal;Cardinal;;;;;;;;;;;;;x
-title_castellan;Castellan;;;;;;;;;;;;;x
-title_castellan_desc;This honorific is awarded to a vassal that is held in high regard by their liege. As Castellan they are responsible for the maintenance and daily ongoings of the Fortress.;;;;;;;;;;;;;x
-title_champion;Champion;;;;;;;;;;;;;x
-title_champion_desc;The person that this title is bestowed upon is considered to be the Champion of the Realm. There is surely no greater honor for mortal men to aspire to.;;;;;;;;;;;;;x
-title_cherbi;Cherbi;;;;;;;;;;;;;x
-title_cherbi_desc;The Cherbi is the leader of the Kheshig, the imperial guard of the Mongol Empire. They are charged with the protection of the empire's most important nobility, and the position as their commander is a very prestigious one.;;;;;;;;;;;;;x
-title_chief_architect;Chief Architect;;;;;;;;;;;;;x
-title_chief_architect_desc;The Chief Architect is responsible for designing and overseeing the construction of palaces, mosques and grand monuments.;;;;;;;;;;;;;x
-title_chief_qadi;Chief Qadi;;;;;;;;;;;;;x
-title_chief_qadi_desc;The Chief Qadi is the supreme judge and authority of the Law (Sharia) in the realm. The most prestigious of all Muslim honorary titles, it is only open to characters with a proper religious education.;;;;;;;;;;;;;x
-title_china_emperor;Emperor;;;;;;;;;;;;;x
-title_china_emperor_female;Empress;;;;;;;;;;;;;x
-title_commander;Commander;;;;;;;;;;;;;x
-title_commander_desc;§YCommanders§! are the only ones after the §YMarshal§! and the ruler who are allowed to command armies.;;;;;;;;;;;;;x
-title_councilmember_emperor;Advisor;;;;;;;;;;;;;x
-title_councilmember_emperor_desc;The Advisor is a respected member of the realm's council and is responsible for giving sound advice on any matters that the ruler has to deal with.;;;;;;;;;;;;;x
-title_councilmember_king;Advisor;;;;;;;;;;;;;x
-title_councilmember_king_desc;The Advisor is a respected member of the realm's council and is responsible for giving sound advice on any matters that the ruler has to deal with.;;;;;;;;;;;;;x
-title_court_architect;Court Architect;;;;;;;;;;;;;x
-title_court_architect_desc;As 'the Grand Axe of Craftsmanship', the position of Court Architect holds much prestige.;;;;;;;;;;;;;x
-title_court_calligrapher;Court Calligrapher;;;;;;;;;;;;;x
-title_court_calligrapher_desc;Islamic suspicion of figurative art makes skilled calligraphers highly respected.;;;;;;;;;;;;;x
-title_court_dwarf;Court Dwarf;;;;;;;;;;;;;x
-title_court_dwarf_desc;Dwarves are objects of fascination and curiosity. Having one at court is a matter of prestige.;;;;;;;;;;;;;x
-title_court_eunuch;Court Eunuch;;;;;;;;;;;;;x
-title_court_eunuch_desc;Eunuchs perform many valued court functions and can be trusted in the presence of women.;;;;;;;;;;;;;x
-title_court_jester;Court Jester;;;;;;;;;;;;;x
-title_court_jester_desc;The court Jester is kept around to provide general entertainment to the court. Also known as a fool it is generally not considered to be the most prestigious office at court.;;;;;;;;;;;;;x
-title_court_musician;Court Musician;;;;;;;;;;;;;x
-title_court_musician_desc;The Court Musician is always ready to entertain with soothing or stirring music.;;;;;;;;;;;;;x
-title_court_physician;Court Physician;;;;;;;;;;;;;x
-title_court_physician_desc;Responsible for the well-being of your courtiers, the Court Physician will attempt to diagnose and cure any ailments which affect your court. Court Physicians are typically learned individuals with education in medicinal arts.;;;;;;;;;;;;;x
-title_court_poet;Court Poet;;;;;;;;;;;;;x
-title_court_poet_desc;Islamic poets enjoy a great deal of respect and prestige, often religious, but sometimes pushing the limits of what is acceptable under Islam.;;;;;;;;;;;;;x
-title_court_poet_india;Court Poet;;;;;;;;;;;;;x
-title_court_poet_india_desc;Poetry is an art much respected in Indian culture, and thus the Court Poet has always been a position of prestige.;;;;;;;;;;;;;x
-title_court_skald;Court Skald;;;;;;;;;;;;;x
-title_court_skald_desc;Skaldic poetry is a greatly respected art, and the Court Skald is regarded as the realm's foremost expert on verse and prose. The Skald is ultimately responsible for chronicling the ruler's deeds for posterity.;;;;;;;;;;;;;x
-title_courtesan;Concubine;;;;;;;;;;;;;x
-title_cupbearer;Cupbearer;;;;;;;;;;;;;x
-title_cupbearer_desc;Poison is always a danger, so being entrusted with serving drinks is a great honor.;;;;;;;;;;;;;x
-title_custodian_of_the_mosque;Custodian of the Mosque;;;;;;;;;;;;;x
-title_custodian_of_the_mosque_desc;This honorific is awarded to a person who has shown exceptional devotion to [Root.Religion.GetHighGodNameCap].;;;;;;;;;;;;;x
-title_custodian_of_the_temple;Custodian of the Temple;;;;;;;;;;;;;x
-title_custodian_of_the_temple_desc;This honorific is awarded to a person who has shown exceptional devotion to [Root.Religion.GetHighGodNameCap].;;;;;;;;;;;;;x
-title_darkhan;Darkhan;;;;;;;;;;;;;x
-title_darkhan_desc;Darkhan is a prestigious Mongolian title bestowed by the Khan upon those who have served him exceptionally well. Genghis Khan awarded this title to those allies who aided him during his rise to power.;;;;;;;;;;;;;x
-title_designated_heir;Designated Heir;;;;;;;;;;;;;x
-title_designated_heir_desc;Designate this Character as Your Heir;;;;;;;;;;;;;x
-title_despot;Despot;;;;;;;;;;;;;x
-title_despot_desc;Despot is the highest honorary title in the Byzantine Empire, second only to the Emperor. It can only be granted to close relatives, traditionally the oldest son.;;;;;;;;;;;;;x
-title_drottseti;Dróttseti;;;;;;;;;;;;;x
-title_drottseti_desc;The Dróttseti serves as a steward of the realm in a function similar to a seneschal, and it is considered to be a very prestigious post.;;;;;;;;;;;;;x
-title_eran_ambaragbed;Eran Ambaragbed;;;;;;;;;;;;;x
-title_eran_ambaragbed_desc;As the minister of the magazines, it is the responsibility of the Eran Ambaragbed to see to the arms and armaments of the realm's warriors.;;;;;;;;;;;;;x
-title_food_taster;Food Taster;;;;;;;;;;;;;x
-title_food_taster_desc;Food tasters have the dubious pleasure of trying all dishes before their master has a bite...;;;;;;;;;;;;;x
-title_fraticelli_cardinal;Cardinal;;;;;;;;;;;;;x
-title_grand_butler;Grand Butler;;;;;;;;;;;;;x
-title_grand_butler_desc;Although most of the household duties were passed over to servants, the butler had the right to pour the liege's wine when at his table. With the ability to grab the liege's ear at the same time, the butler was an important man.;;;;;;;;;;;;;x
-title_guardian_of_knowledge;Guardian of Knowledge;;;;;;;;;;;;;x
-title_guardian_of_knowledge_desc;This honorific is awarded to a person who has shown their wisdom and courage.;;;;;;;;;;;;;x
-title_guardian_of_the_deep;Guardian of the Deep;;;;;;;;;;;;;x
-title_guardian_of_the_deep_desc;This honorific is awarded to a person who has shown exceptional vigilance and steadfastness.;;;;;;;;;;;;;x
-title_guru;Court Guru;;;;;;;;;;;;;x
-title_guru_desc;A guru is a wise master or teacher, one who imparts wisdom, usually by giving oral instruction and advice. Having a respected guru residing at your court can be useful, giving you access to sage advice.;;;;;;;;;;;;;x
-title_hermetics_apprentice;Apprentice;;;;;;;;;;;;;x
-title_hermetics_apprentice_desc;Hermetic scholars may chose an apprentice. In exchange for tutoring, the apprentice will take care of one's laboratory and assist during experiments.;;;;;;;;;;;;;x
-title_high_admiral;High Admiral;;;;;;;;;;;;;x
-title_high_admiral_desc;The High Admiral is formally the chief of the Admiralty and in charge of the Republic's Navy, though he often relies on a competent staff.;;;;;;;;;;;;;x
-title_high_almoner;High Almoner;;;;;;;;;;;;;x
-title_high_almoner_desc;The handing out of alms was an integral part of rulership and religious observance. The one responsible for this task is a very important personage.;;;;;;;;;;;;;x
-title_high_judge;High Judge;;;;;;;;;;;;;x
-title_high_judge_desc;The High Judge is the supreme justice of the Republic, who answers only to the Council in most legal matters.;;;;;;;;;;;;;x
-title_hirdman;Hirdman;;;;;;;;;;;;;x
-title_hirdman_desc;The Hirdmen are seen as the ruler's trusted companions in arms, and the holders of this title command a great deal of respect.;;;;;;;;;;;;;x
-title_historiographer;Historiographer;;;;;;;;;;;;;x
-title_historiographer_desc;As the official recorder of history, Historiographer is a title which can be granted to a learned person – their responsibility is to keep a record of important events, for the sake of future generations. However, some might also argue that it is to ensure that a ruler feels worthy of being chronicled.;;;;;;;;;;;;;x
-title_hypatos;Hypatos;;;;;;;;;;;;;x
-title_hypatos_desc;Consul: Though only honorary now, it denotes the wearer as an important servant of the Empire.;;;;;;;;;;;;;x
-title_hypatos_female;Hypatissa;;;;;;;;;;;;;x
-title_imperial_eunuch;Parakoimomenos;;;;;;;;;;;;;x
-title_imperial_eunuch_desc;The Parakoimomenos, "the one who sleeps beside the Emperor's chamber," is a prestigious office at the Imperial Court reserved for eunuchs, who are valued for their perceived loyalty and discretion.;;;;;;;;;;;;;x
-title_ishad;Ishad;;;;;;;;;;;;;x
-title_ishad_desc;Ishad is the title given to the highest ranking generals, and as such, it may be regarded as a mark of honor.;;;;;;;;;;;;;x
-title_kardarigan;Kardarigan;;;;;;;;;;;;;x
-title_kardarigan_desc;This honorific means black hawk and was granted to several gifted Sassanid generals for their achievements on the field of battle. It can only be bestowed upon those with exceptional martial ability.;;;;;;;;;;;;;x
-title_keeper_of_swans;Keeper of the Swans;;;;;;;;;;;;;x
-title_keeper_of_swans_desc;With Swan meat being without doubt the finest meat available from either beast or fowl, the need to ensure a steady supply of Swans is important. The post of Master of Swans carries a certain amount of prestige.;;;;;;;;;;;;;x
-title_keeper_of_the_dead;Keeper of the Dead;;;;;;;;;;;;;x
-title_keeper_of_the_dead_desc;The Keeper of the Dead is responsible for the final rest of everyone placed in the §YMausoleum§!.;;;;;;;;;;;;;x
-title_keeper_of_tomes;Keeper of the Tomes;;;;;;;;;;;;;x
-title_keeper_of_tomes_desc;This honorific is awarded to a person who has shown great aptitude for learning and all related skills.;;;;;;;;;;;;;x
-title_kouropalates;Kouropalates;;;;;;;;;;;;;x
-title_kouropalates_desc;Kouropalates - 'the One in Charge of the Palace' - is a very prestigious title in the Byzantine Empire.;;;;;;;;;;;;;x
-title_kundur;Kündür;;;;;;;;;;;;;x
-title_kundur_desc;The Kündur is traditionally a high ranking official in the Khan's court, and bestowing it on someone is a sign of approval.;;;;;;;;;;;;;x
-title_lawspeaker;Lawspeaker;;;;;;;;;;;;;x
-title_lawspeaker_desc;The Lawspeaker memorizes the law of the realm and serves as its highest judicator. Needless to say, this comes with a great amount of prestige and responsibility.;;;;;;;;;;;;;x
-title_lighthouse_custodian;Lighthouse Custodian;;;;;;;;;;;;;x
-title_lighthouse_custodian_desc;This honorific is awarded to a person who has shown themselves responsible and can be entrusted with the care of your lighthouse – keeping it both lit and functioning.;;;;;;;;;;;;;x
-title_male_consort;Consort;;;;;;;;;;;;;x
-title_marksman;Merkismaðr;;;;;;;;;;;;;x
-title_marksman_desc;Literally meaning Marksman, the Merkismaðr has the honor of serving as the standard-bearer.;;;;;;;;;;;;;x
-title_master_engineer;Master Engineer;;;;;;;;;;;;;x
-title_master_engineer_desc;The master engineer will construct wonders of Chinese ingenuity throughout your demesne, such as dry docks and blast furnaces.;;;;;;;;;;;;;x
-title_master_of_games;Master of the Games;;;;;;;;;;;;;x
-title_master_of_games_desc;This honorific is awarded to a person with a strong personality and presence, capable of bending a whole crowd to their will.;;;;;;;;;;;;;x
-title_master_of_the_blade;Master of the Blade;;;;;;;;;;;;;x
-title_master_of_the_blade_desc;The Master of the Blade is a prestigious honorific usually granted to those with demonstrated ability in swordsmanship.;;;;;;;;;;;;;x
-title_master_of_the_bow;Master of the Bow;;;;;;;;;;;;;x
-title_master_of_the_bow_desc;The Master of the Bow is a prestigious honorific usually granted to those with demonstrated ability in bowmanship.;;;;;;;;;;;;;x
-title_master_of_the_eagle;Master of the Eagle;;;;;;;;;;;;;x
-title_master_of_the_eagle_desc;The Mongolian warriors used eagles to aid them while hunting. Being responsible for the training of these companions was a great honor.;;;;;;;;;;;;;x
-title_master_of_the_horse;Master of the Horse;;;;;;;;;;;;;x
-title_master_of_the_horse_desc;This office dates all the way back the Roman Republic, and, in this era where a horse is a symbol of power, it is still very important. Although the Master of the Horse delegates the actual day to day running of the actual stables, much of the prestige of this office comes from the responsibility for the stud.;;;;;;;;;;;;;x
-title_master_of_the_hounds;Master of the Hounds;;;;;;;;;;;;;x
-title_master_of_the_hounds_desc;With hunting considered the main pastime of the higher nobility, the hounds employed for the some of the hunts are thus important.;;;;;;;;;;;;;x
-title_master_of_the_hunt;Master of the Hunt;;;;;;;;;;;;;x
-title_master_of_the_hunt_desc;In an era when hunting was an opportunity to demonstrate horsemanship and martial prowess, the hunt was serious business. The master of the hunt was a position of importance.;;;;;;;;;;;;;x
-title_master_of_the_royal_elephants;Master of the Royal Elephants;;;;;;;;;;;;;x
-title_master_of_the_royal_elephants_desc;Great monarchs often employ units of war elephants in their army to great effect. But aside from that, the elephant also has great value as a symbol of stability, strength and perserverance. All this makes it very important to keep the ruler's elephants in good health, and the position of Master of the Royal Elephants is a correspondingly prestigious one.;;;;;;;;;;;;;x
-title_master_of_tides;Master of the Tides;;;;;;;;;;;;;x
-title_master_of_tides_desc;This honorific is awarded to a person who has shown aptitude for all things marine, and the overarching responsibility of the §YHarbor§! rests on their shoulders.;;;;;;;;;;;;;x
-title_noyan;Noyan;;;;;;;;;;;;;x
-title_noyan_desc;This title was originally granted to Mongolian battlefield commanders, but as they were awarded conquered land to administrate, it came to represent a form of higher nobility.;;;;;;;;;;;;;x
-title_overseer_of_rites;Overseer of the Rites;;;;;;;;;;;;;x
-title_overseer_of_rites_desc;The Overseer of Rites is responsible for all rites and rituals related to the §YPyramid§!.;;;;;;;;;;;;;x
-title_paramount_knight;Paramount Knight;;;;;;;;;;;;;x
-title_paramount_knight_desc;This paragon of chivalric virtue is the envy of the realm - every man wants to be like him and sees his friends as their friends;;;;;;;;;;;;;x
-title_patrician_heir;Designated Heir;;;;;;;;;;;;;x
-title_patrician_heir_desc;This character has been chosen to succeed a Patrician in running the family business.;;;;;;;;;;;;;x
-title_patrikios;Patrikios;;;;;;;;;;;;;x
-title_patrikios_desc;Patrician: Recognizes the wearer as an elite member of Roman Society and is reserved for only the most influential servants of the Empire.;;;;;;;;;;;;;x
-title_patrikios_female;Patrikia;;;;;;;;;;;;;x
-title_prince;Prince;;;;;;;;;;;;;x
-title_prince_c_indian;Rajkumar;;;;;;;;;;;;;x
-title_prince_female;Princess;;;;;;;;;;;;;x
-title_prince_female_c_indian;Rajkumari;;;;;;;;;;;;;x
-title_prince_female_indo_aryan_group;Rajkumari;;;;;;;;;;;;;x
-title_prince_female_iranian;Shahdokht;;;;;;;;;;;;;x
-title_prince_female_roman;Caesarina;;;;;;;;;;;;;x
-title_prince_indo_aryan_group;Rajkumar;;;;;;;;;;;;;x
-title_prince_iranian;Shahzada;;;;;;;;;;;;;x
-title_prince_roman;Caesar;;;;;;;;;;;;;x
-title_pushtigban_salar;Pushtigban-salar;;;;;;;;;;;;;x
-title_pushtigban_salar_desc;The Pushtigban-salar is the appointed commander of the royal guard, and as such, commands a significant amount of respect.;;;;;;;;;;;;;x
-title_queen_mother;Queen Mother;;;;;;;;;;;;;x
-title_regent;Regent;;;;;;;;;;;;;x
-title_royal_builder;Royal Builder;;;;;;;;;;;;;x
-title_royal_builder_desc;Powerful rulers will always be expanding their palaces and building new ones. The position of Royal Builder holds much prestige, though the holder need not actually have any architectural or engineering skills. It's usually someone else doing the real work.;;;;;;;;;;;;;x
-title_royal_custodian;Royal Custodian;;;;;;;;;;;;;x
-title_royal_custodian_desc;This honorific is awarded to a person who has proven themselves dependable, and they are responsible for the upkeep and maintenance of the §YRoyal Palace§!.;;;;;;;;;;;;;x
-title_sebastokrator;Sebastokrator;;;;;;;;;;;;;x
-title_sebastokrator_desc;The title of Sebastokrator was created as an even higher honor than that of 'Caesar'. It can only be granted to close relatives of the Emperor.;;;;;;;;;;;;;x
-title_sebastos;Sebastos;;;;;;;;;;;;;x
-title_sebastos_desc;Venerable one: Only important members of the imperial family and those related to them by marriage or blood may bear this venerable title.;;;;;;;;;;;;;x
-title_sebastos_female;Sebaste;;;;;;;;;;;;;x
-title_seneschal;Seneschal;;;;;;;;;;;;;x
-title_seneschal_desc;Originally responsible for the organization of feasts and domestic entertainment. Although left mainly in the hands of deputies, the key role at such major occasions makes the post prestigious.;;;;;;;;;;;;;x
-title_shahin;Shahin;;;;;;;;;;;;;x
-title_shahin_desc;This honorific means falcon and was granted to several gifted Sassanid generals for their achievements on the field of battle. It can only be bestowed upon those with exceptional martial ability.;;;;;;;;;;;;;x
-title_shahrwaraz;Shahrwarãz;;;;;;;;;;;;;x
-title_shahrwaraz_desc;The Shahrwarãz, the Boar of the Empire, is a prestigious honorary title dating back to the Sassanids. In Zoroastrianism, the boar is closely associated with the Izad Vahram, the epitome of victory. This honorific can only be bestowed upon those with exceptional martial ability.;;;;;;;;;;;;;x
-title_spahbod;Spahbod;;;;;;;;;;;;;x
-title_spahbod_desc;This title, roughly meaning army chief, can be traced all the way back to the Achaemenid Empire, and during the Sassanid reign there were four Spahbods assigned to each corner of the Persian realm. It remains a prestigious military office.;;;;;;;;;;;;;x
-title_state_inquisitor;State Inquisitor;;;;;;;;;;;;;x
-title_state_inquisitor_desc;The three State Inquisitors are charged with ensuring the security of the Republic against threats both internal and external.;;;;;;;;;;;;;x
-title_stone_custodian;Custodian of the Stone;;;;;;;;;;;;;x
-title_stone_custodian_desc;This honorific is awarded to a person who has shown themselves steadfast in their loyalty and discipline.;;;;;;;;;;;;;x
-title_strategist;Strategist;;;;;;;;;;;;;x
-title_strategist_desc;The Chinese Strategist will attempt to teach other soldiers about Chinese strategies.;;;;;;;;;;;;;x
-title_tanist;Tanist;;;;;;;;;;;;;x
-title_teacher;Court Tutor;;;;;;;;;;;;;x
-title_teacher_desc;The Court Tutor will serve as the default Educator for all children at court who don't have an assigned Guardian.;;;;;;;;;;;;;x
-title_venerable_elder;Venerable Elder;;;;;;;;;;;;;x
-title_venerable_elder_desc;This honorific can only be granted to those who have reached the age of fifty. Their wisdom and the sorely needed guidance they offer the younger generations is deserving of great respect.;;;;;;;;;;;;;x
-title_volva;Court Völva;;;;;;;;;;;;;x
-title_volva_desc;A völva is regarded as a powerful seeress that practises sejdr, a form of sorcery. Among other things, she deals with curses, premonitions and omens of things to come.;;;;;;;;;;;;;x
-title_wall_walker;Walker of the Wall;;;;;;;;;;;;;x
-title_wall_walker_desc;This honorific is awarded to a person who has shown diligence and can spend the majority of their day on their feet, inspecting and maintaining the wall.;;;;;;;;;;;;;x
-title_watcher_of_giants;Watcher of Giants;;;;;;;;;;;;;x
-title_watcher_of_giants_desc;This honorific is awarded to a person who has shown exceptional vigilance and skills of observation, and they are ultimately responsible for the maintenance and upkeep of the great statue.;;;;;;;;;;;;;x
-title_yabgu;Yabgu;;;;;;;;;;;;;x
-title_yabgu_desc;By tradition, the title of Yagbu is bestowed upon the second highest member of a ruling clan, often a brother of the Khan. It carries a great deal of respect.;;;;;;;;;;;;;x
-title_yuhou;Yuhou;;;;;;;;;;;;;x
-title_yuhou_desc;In the annals of ancient history, Yuhou are explained as the Watchers of Mountains and Lakes. While the title can imply a considerable amount of power, it is in itself a grand gesture to be deemed worthy of the title.;;;;;;;;;;;;;x
-title_zhangshi;Zhangshi;;;;;;;;;;;;;x
-title_zhangshi_desc;Also known as 'the other carriage' due to the Zhangshi rarely sharing a carriage with their superior. Nominally the Chief Secretary of a governor, the exact duty of Zhangshi, and the power this position holds, varies greatly.;;;;;;;;;;;;;x
-tribal_title_prince_c_indian;Rajkumar;;;;;;;;;;;;;x
-tribal_title_prince_female_c_indian;Rajkumari;;;;;;;;;;;;;x
-tribal_title_prince_female_indo_aryan_group;Rajkumari;;;;;;;;;;;;;x
-tribal_title_prince_indo_aryan_group;Rajkumar;;;;;;;;;;;;;x
+emperor_title_queen_mother_female;Empress Dowager;;;;;;;;;;;Âäîâñòâóþùàÿ èìïåðàòðèöà;;x
+emperor_title_queen_mother_female_german;Kaiserin;;;;;;;;;;;Âäîâñòâóþùàÿ èìïåðàòðèöà;;x
+title_administrator;Scholar-Bureaucrat;;;;;;;;;;;Ó÷¸íûé-áþðîêðàò;;x
+title_administrator_desc;A scholar-bureaucrat is an educated member of the Chinese gentry, who has earned academic degrees by passing the imperial examinations. They will aid you with the administration of your realm by organizing the local building projects.;;;;;;;;;;;Ó÷¸íûå-áþðîêðàòû - âûñîêîîáðàçîâàííûå ïðåäñòàâèòåëè ñëóæèëîãî êèòàéñêîãî ñîñëîâèÿ, êîòîðûå ïîëó÷èëè àêàäåìè÷åñêóþ ñòåïåíü, ñäàâ ãîñóäàðñòâåííûé ýêçàìåí. Îíè ïîìîãóò Âàì â óïðàâëåíèè ñòðàíîé è îðãàíèçàöèè ñòðîèòåëüíûõ ïðîåêòîâ.;;x
+title_anthypatos;Anthypatos;;;;;;;;;;;Àíôèïàò;;x
+title_anthypatos_desc;Anthypatos is Greek for Proconsul. However, the office no longer denotes a provincial governor but is purely honorary.;;;;;;;;;;;Àíôèïàò - ýòî ãðå÷åñêèé âàðèàíò Ïðîêîíñóëà. Êàê áû òî íè áûëî, ýòîò òèòóë ÿâëÿåòñÿ èñêëþ÷èòåëüíî ïî÷¸òíûì, è íå äà¸ò êàêîé-ëèáî âëàñòè îáëàäàòåëþ.;;x
+title_appointed_regent;Designated Regent;;;;;;;;;;;Íàçíà÷åííûé ðåãåíò;;x
+title_appointed_regent_desc;This character will become the Regent if one is needed.;;;;;;;;;;;Îáëàäàòåëü ýòîãî ïî÷¸òíîãî òèòóëà ñòàíåò ðåãåíòîì, åñëè ïîòðåáóåòñÿ.;;x
+title_augusta;Augusta;;;;;;;;;;;Àâãóñòà;;x
+title_augusta_desc;Most Pious Augusta: Unlike the male counterpart the Augusta continues to be the most important woman of the empire. Wielding great power and authority, she is second only to the Basileus.;;;;;;;;;;;Â îòëè÷èå îò ìóæ÷èíû, àâãóñòà ïðîäîëæàåò îñòàâàòüñÿ ñàìîé âàæíîé æåíùèíîé èìïåðèè. Îáëàäàÿ âåëèêîé ñèëîé è àâòîðèòåòîì, îíà óñòóïàåò òîëüêî Áàçèëåâñó.;;x
+title_baghatur;Baghatur;;;;;;;;;;;Áàãàòóð;;x
+title_baghatur_desc;This honorific, which means hero or valiant warrior, is the rough equivalent of European knighthood. It is usually granted only to those who have truly distinguished themselves in battle.;;;;;;;;;;;Ýòîò ïî÷¸òíûé òèòóë îçíà÷àåò, ÷òî åãî îáëàäàòåëü ãåðîé èëè äîáëåñòíûé âîèí, òèòóë ÿâëÿåòñÿ ãðóáûì ýêâèâàëåíòîì åâðîïåéñêîãî ðûöàðñòâà è ïðåäîñòàâëÿëñÿ, êàê ïðàâèëî, òîëüêî òåì, êòî äåéñòâèòåëüíî îòëè÷èëñÿ â áîÿõ.;;x
+title_behi;Behi;;;;;;;;;;;Áåõè;;x
+title_behi_desc;This title was given to women in the families within the Mongolian nobility.;;;;;;;;;;;Ýòîò òèòóë äà¸òñÿ æåíùèíàì áëàãîðîäíûõ ìîíãîëüñêèõ ñåìåé.;;x
+title_caesar;Caesar;;;;;;;;;;;Öåçàðü;;x
+title_caesar_desc;Originally the highest honor in the Roman Empire, the title of Caesar can now be awarded to anyone.;;;;;;;;;;;Ïåðâîíà÷àëüíî âûñøèé òèòóë â Ðèìñêîé èìïåðèè, íûíå ìîæåò áûòü äàðîâàí ëþáîìó.;;x
+title_canjun;Canjun;;;;;;;;;;;Öàíüöçóíü;;x
+title_canjun_desc;The Staff Officer of an army, the position of Canjun is granted to trustworthy deputies in a military body or sometimes a political arm, and is a prestigious title to hold.;;;;;;;;;;;Øòàáíîé îôèöåð àðìèè. Äîëæíîñòü Öàíüöçþíü ïðåäîñòàâëÿåòñÿ äîâåðåííûì çàìåñòèòåëÿì èç âîåííûõ îðãàíèçàöèé èëè èíîãäà èç ïîëèòè÷åñêîé ãðóïïû. Ýòî ïðåñòèæíûé òèòóë.;;x
+title_cardinal;Cardinal;;;;;;;;;;;Êàðäèíàë;;x
+title_castellan;Castellan;;;;;;;;;;;Êàñòåëÿí;;x
+title_castellan_desc;This honorific is awarded to a vassal that is held in high regard by their liege. As Castellan they are responsible for the maintenance and daily ongoings of the Fortress.;;;;;;;;;;;Ýòîò ïî÷¸òíûé òèòóë äàðóåòñÿ âàññàëó, ñíèñêàâøåìó îñîáîå óâàæåíèå ñâîåãî ñþçåðåíà. Êàñòåëÿí íåñ¸ò îòâåòñòâåííîñòü çà ïîääåðæàíèå è åæåäíåâíîå ñòðîèòåëüñòâî êðåïîñòè.;;x
+title_champion;Champion;;;;;;;;;;;×åìïèîí;;x
+title_champion_desc;The person that this title is bestowed upon is considered to be the Champion of the Realm. There is surely no greater honor for mortal men to aspire to.;;;;;;;;;;;×åëîâåê, óäîñòîèâøèéñÿ ýòîãî òèòóëà, ñ÷èòàåòñÿ ëó÷øèì â ãîñóäàðñòâå. Äëÿ ñìåðòíîãî ìóæà íå ñóùåñòâóåò ÷åñòè áîëüøåé, ÷åì îáëàäàíèå òèòóëîì ×åìïèîíà.;;x
+title_cherbi;Cherbi;;;;;;;;;;;×åðáè;;x
+title_cherbi_desc;The Cherbi is the leader of the Kheshig, the imperial guard of the Mongol Empire. They are charged with the protection of the empire's most important nobility, and the position as their commander is a very prestigious one.;;;;;;;;;;;×åðáè ÿâëÿåòñÿ ëèäåðîì êåøèêòåíîâ, èìïåðàòîðñêîé ãâàðäèè Ìîíãîëüñêîé èìïåðèè. Îíè çàùèùàþò íàèáîëåå âàæíûõ ïðåäñòàâèòåëåé çíàòè èìïåðèè, è ïîñò èõ êîìàíäèðà ÿâëÿåòñÿ î÷åíü ïðåñòèæíûì.;;x
+title_chief_architect;Chief Architect;;;;;;;;;;;Ãëàâíûé àðõèòåêòîð;;x
+title_chief_architect_desc;The Chief Architect is responsible for designing and overseeing the construction of palaces, mosques and grand monuments.;;;;;;;;;;;Ãëàâíûé àðõèòåêòîð îòâåòñòâåíåí çà ïðîåêòèðîâàíèå è íàáëþäåíèå çà ñòðîèòåëüñòâîì äâîðöîâ, ìå÷åòåé è âåëèêèõ ïàìÿòíèêîâ.;;x
+title_chief_qadi;Chief Qadi;;;;;;;;;;;Âåðõîâíûé êàäèé;;x
+title_chief_qadi_desc;The Chief Qadi is the supreme judge and authority of the Law (Sharia) in the realm. The most prestigious of all Muslim honorary titles, it is only open to characters with a proper religious education.;;;;;;;;;;;Âåðõîâíûé êàäèé - âûñøèé ñóäüÿ è àâòîðèòåò â çàêîíàõ Øàðèàòà. Ñàìîå ïðåñòèæíîå èç âñåõ ìóñóëüìàíñêèõ ïî÷¸òíûõ çâàíèé, äîñòóïíîå òîëüêî ëþäÿì ñ îòëè÷íûì ðåëèãèîçíûì îáðàçîâàíèåì.;;x
+title_china_emperor;Emperor;;;;;;;;;;;Èìïåðàòîð;;x
+title_china_emperor_female;Empress;;;;;;;;;;;Èìïåðàòðèöà;;x
+title_commander;Commander;;;;;;;;;;;Ïîëêîâîäåö;;x
+title_commander_desc;§YCommanders§! are the only ones after the §YMarshal§! and the ruler who are allowed to command armies.;;;;;;;;;;;§YÏîëêîâîäöàìè§! ìîãóò áûòü òîëüêî òå, êîìó ïðàâèòåëü äàðóåò ýòîò òèòóë, à òàêæå åãî §Yñîâåòíèêè§! ïî âîåííûì äåëàì.;;x
+title_councilmember_emperor;Advisor;;;;;;;;;;;Ñîâåòíèê;;x
+title_councilmember_emperor_desc;The Advisor is a respected member of the realm's council and is responsible for giving sound advice on any matters that the ruler has to deal with.;;;;;;;;;;;Ñîâåòíèê - óâàæàåìàÿ äîëæíîñòü â ãîñóäàðñòâåííîì ñîâåòå. Íà í¸ì ëåæèò îòâåòñòâåííîñòü çà ðåøåíèÿ, ïî êîòîðûì ïðàâèòåëü ïîëó÷àåò îò íåãî ðåêîìåíäàöèè.;;x
+title_councilmember_king;Advisor;;;;;;;;;;;Ñîâåòíèê;;x
+title_councilmember_king_desc;The Advisor is a respected member of the realm's council and is responsible for giving sound advice on any matters that the ruler has to deal with.;;;;;;;;;;;Ñîâåòíèê - óâàæàåìàÿ äîëæíîñòü â ãîñóäàðñòâåííîì ñîâåòå. Íà í¸ì ëåæèò îòâåòñòâåííîñòü çà ðåøåíèÿ, ïî êîòîðûì ïðàâèòåëü ïîëó÷àåò îò íåãî ðåêîìåíäàöèè.;;x
+title_court_architect;Court Architect;;;;;;;;;;;Ïðèäâîðíûé àðõèòåêòîð;;x
+title_court_architect_desc;As 'the Grand Axe of Craftsmanship', the position of Court Architect holds much prestige.;;;;;;;;;;;"Òàêæå èçâåñòåí, êàê ""Ãëàâíûé òîïîð ðåìåñëà"" - âåñüìà ïðåñòèæíàÿ äîëæíîñòü.";;x
+title_court_calligrapher;Court Calligrapher;;;;;;;;;;;Ïðèäâîðíûé êàëëèãðàô;;x
+title_court_calligrapher_desc;Islamic suspicion of figurative art makes skilled calligraphers highly respected.;;;;;;;;;;;Ñïîñîáíîñòü ðàñïîçíàâàòü ïîääåëêó ïî÷åðêà äåëàåò ñóäåé-êàëëèãðàôîâ î÷åíü óâàæàåìûìè â èñëàìñêîì ìèðå.;;x
+title_court_dwarf;Court Dwarf;;;;;;;;;;;Ïðèäâîðíûé êàðëèê;;x
+title_court_dwarf_desc;Dwarves are objects of fascination and curiosity. Having one at court is a matter of prestige.;;;;;;;;;;;Êàðëèêè - îáúåêòû âîñõèùåíèÿ è ëþáîïûòñòâà. Èìåòü îäíîãî ïðè äâîðå äåëî ïðåñòèæà.;;x
+title_court_eunuch;Court Eunuch;;;;;;;;;;;Ïðèäâîðíûé åâíóõ;;x
+title_court_eunuch_desc;Eunuchs perform many valued court functions and can be trusted in the presence of women.;;;;;;;;;;;Åâíóõè âûïîëíÿëè ìíîæåñòâî ôóíêöèé ïðè äâîðå è èì ìîæíî áûëî äîâåðÿòü â ïðèñóòñòâèè æåíùèí.;;x
+title_court_jester;Court Jester;;;;;;;;;;;Ïðèäâîðíûé øóò;;x
+title_court_jester_desc;The court Jester is kept around to provide general entertainment to the court. Also known as a fool it is generally not considered to be the most prestigious office at court.;;;;;;;;;;;Ïðèäâîðíûé øóò îòâå÷àåò çà ðàçâëå÷åíèÿ. Îí èìååò ñëàâó äóðàêà, è ïîòîìó åãî äîëæíîñòü ñ÷èòàåòñÿ äàëåêî íå ñàìîé ïðåñòèæíîé ïðè äâîðå.;;x
+title_court_musician;Court Musician;;;;;;;;;;;Ïðèäâîðíûé ìóçûêàíò;;x
+title_court_musician_desc;The Court Musician is always ready to entertain with soothing or stirring music.;;;;;;;;;;;Ìóçûêàíòû âñåãäà ãîòîâû ðàçâëå÷ü ñïîêîéíîé èëè âåñ¸ëîé ìóçûêîé.;;x
+title_court_physician;Court Physician;;;;;;;;;;;Ïðèäâîðíûé ëåêàðü;;x
+title_court_physician_desc;Responsible for the well-being of your courtiers, the Court Physician will attempt to diagnose and cure any ailments which affect your court. Court Physicians are typically learned individuals with education in medicinal arts.;;;;;;;;;;;Ïðèäâîðíûé ëåêàðü, îòâåòñòâåííûé çà çäîðîâüå Âàøèõ ïðèäâîðíûõ, áóäåò ïûòàòüñÿ äèàãíîñòèðîâàòü è ëå÷èòü ëþáûå íåäóãè, êîòîðûå èõ ïîñòèãíóò. Ëåêàðè îáû÷íî çíàþò ñâî¸ äåëî è îáëàäàþò íåîáõîäèìûì îáðàçîâàíèåì.;;x
+title_court_poet;Court Poet;;;;;;;;;;;Ïðèäâîðíûé ïîýò;;x
+title_court_poet_desc;Islamic poets enjoy a great deal of respect and prestige, often religious, but sometimes pushing the limits of what is acceptable under Islam.;;;;;;;;;;;Èñëàìñêèå ïîýòû ïîëüçóþòñÿ áîëüøèì ïî÷¸òîì è óâàæåíèåì, çà÷àñòóþ è â ðåëèãèîçíûõ âîïðîñàõ, íî èíîãäà îíè âûõîäÿò çà ðàìêè äîçâîëåííîãî.;;x
+title_court_poet_india;Court Poet;;;;;;;;;;;Ïðèäâîðíûé ïîýò;;x
+title_court_poet_india_desc;Poetry is an art much respected in Indian culture, and thus the Court Poet has always been a position of prestige.;;;;;;;;;;;Ïîýçèÿ ÿâëÿåòñÿ ïðèçíàííûì èñêóññòâîì â èíäèéñêîé êóëüòóðå, ïîýòîìó äîëæíîñòü ïðèäâîðíîãî ïîýòà âñåãäà áûëà ïðåñòèæíîé ïîçèöèåé.;;x
+title_court_skald;Court Skald;;;;;;;;;;;Ïðèäâîðíûé Ñêàëüä;;x
+title_court_skald_desc;Skaldic poetry is a greatly respected art, and the Court Skald is regarded as the realm's foremost expert on verse and prose. The Skald is ultimately responsible for chronicling the ruler's deeds for posterity.;;;;;;;;;;;Ïîýçèÿ Ñêàëüäîâ - î÷åíü óâàæàåìîå èñêóññòâî, è Ïðèäâîðíûé Ñêàëüä ñ÷èòàåòñÿ ãëàâíûì ñïåöèàëèñòîì ïî ñòèõàì è ïðîçå. Ñêàëüä îòâå÷àåò çà âåäåíèå ëåòîïèñè äåÿíèé ñâîåãî õîçÿèíà äëÿ ïîòîìêîâ.;;x
+title_courtesan;Concubine;;;;;;;;;;;Íàëîæíèöà;;x
+title_cupbearer;Cupbearer;;;;;;;;;;;Ïîä÷àøèé;;x
+title_cupbearer_desc;Poison is always a danger, so being entrusted with serving drinks is a great honor.;;;;;;;;;;;Â íàïèòêè ìîãóò ïîäñûïàòü ÿä, ïîýòîìó ïîïðîáîâàòü èõ ëè÷íî, ïðåæäå ÷åì ïîäàâàòü ïðàâèòåëþ - âåëèêàÿ ÷åñòü.;;x
+title_custodian_of_the_mosque;Custodian of the Mosque;;;;;;;;;;;Ñìîòðèòåëü ìå÷åòè;;x
+title_custodian_of_the_mosque_desc;This honorific is awarded to a person who has shown exceptional devotion to [Root.Religion.GetHighGodNameCap].;;;;;;;;;;;Ýòîò ïî÷¸òíûé òèòóë äàðóåòñÿ ëèøü òîìó, êòî ïðîÿâèë èñêëþ÷èòåëüíóþ ïðåäàííîñòü [Root.GetReligionHighGodDAT].;;x
+title_custodian_of_the_temple;Custodian of the Temple;;;;;;;;;;;Ñìîòðèòåëü õðàìà;;x
+title_custodian_of_the_temple_desc;This honorific is awarded to a person who has shown exceptional devotion to [Root.Religion.GetHighGodNameCap].;;;;;;;;;;;Ýòîò ïî÷¸òíûé òèòóë äàðóåòñÿ ëèøü òîìó, êòî ïðîÿâèë èñêëþ÷èòåëüíóþ ïðåäàííîñòü [Root.GetReligionHighGodDAT].;;x
+title_darkhan;Darkhan;;;;;;;;;;;Äàðõàí;;x
+title_darkhan_desc;Darkhan is a prestigious Mongolian title bestowed by the Khan upon those who have served him exceptionally well. Genghis Khan awarded this title to those allies who aided him during his rise to power.;;;;;;;;;;;Äàðõàí - ïðåñòèæíûé òèòóë, êîòîðûé äàðîâàë õàí òåì, êòî ñëóæèë åìó èñêëþ÷èòåëüíî õîðîøî. ×èíãèñõàí óäîñòîèë ýòîãî çâàíèÿ òåõ ñîþçíèêîâ, êîòîðûå ïîìîãàëè åìó ïðèäòè ê âëàñòè.;;x
+title_designated_heir;Designated Heir;;;;;;;;;;;Íàçíà÷åííûé íàñëåäíèê;;x
+title_designated_heir_desc;Designate this Character as Your Heir;;;;;;;;;;;Íàçíà÷èòü ýòîãî ïåðñîíàæà Âàøèì íàñëåäíèêîì;;x
+title_despot;Despot;;;;;;;;;;;Äåñïîò;;x
+title_despot_desc;Despot is the highest honorary title in the Byzantine Empire, second only to the Emperor. It can only be granted to close relatives, traditionally the oldest son.;;;;;;;;;;;Äåñïîò ÿâëÿåòñÿ âûñøèì ïî÷¸òíûì çâàíèåì â Âèçàíòèéñêîé èìïåðèè, óñòóïàÿ òîëüêî èìïåðàòîðó. Îíî ìîæåò áûòü ïåðåäàíî èñêëþ÷èòåëüíî áëèçêèì ðîäñòâåííèêàì, îáû÷íî ñòàðøåìó ñûíó.;;x
+title_drottseti;Dróttseti;;;;;;;;;;;Äðîòñåò;;x
+title_drottseti_desc;The Dróttseti serves as a steward of the realm in a function similar to a seneschal, and it is considered to be a very prestigious post.;;;;;;;;;;;Äðîòñåò ñëóæèò ñòþàðäîì ãîñóäàðñòâà: îáÿçàííîñòè åãî ñõîæè ñ ñåíåøàëÿìè, è ïîñò åãî ñ÷èòàåòñÿ âåñüìà ïðåñòèæíûì.;;x
+title_eran_ambaragbed;Eran Ambaragbed;;;;;;;;;;;Ýðàíñêèé Àìáàðàãáåä;;x
+title_eran_ambaragbed_desc;As the minister of the magazines, it is the responsibility of the Eran Ambaragbed to see to the arms and armaments of the realm's warriors.;;;;;;;;;;;Áóäó÷è ñìîòðèòåëåì íàä àðìåéñêèìè ñêëàäàìè, Ýðàíñêèé Àìáàðàãáåä îòâå÷àåò çà âîîðóæåíèå âîèíîâ ãîñóäàðñòâà.;;x
+title_food_taster;Food Taster;;;;;;;;;;;Äåãóñòàòîð;;x
+title_food_taster_desc;Food tasters have the dubious pleasure of trying all dishes before their master has a bite...;;;;;;;;;;;Ó äåãóñòàòîðà ñîìíèòåëüíîå óäîâîëüñòâèå ïðîáîâàòü âñþ åäó, ïðåæäå ÷åì å¸ ïåðåäàäóò ïîâåëèòåëþ;;x
+title_fraticelli_cardinal;Cardinal;;;;;;;;;;;Êàðäèíàë;;x
+title_grand_butler;Grand Butler;;;;;;;;;;;Äâîðåöêèé;;x
+title_grand_butler_desc;Although most of the household duties were passed over to servants, the butler had the right to pour the liege's wine when at his table. With the ability to grab the liege's ear at the same time, the butler was an important man.;;;;;;;;;;;Êîíå÷íî, áîëüøàÿ ÷àñòü áûòîâûõ õëîïîò ëåæèò íà ïëå÷àõ ñëóã. Íî ïî÷¸òíûå îáÿçàííîñòè, òàêèå êàê ïîäà÷à âèíà ê ñòîëó ïðàâèòåëÿ, äîñòîèí èñïîëíÿòü òîëüêî äâîðåöêèé.;;x
+title_guardian_of_knowledge;Guardian of Knowledge;;;;;;;;;;;Õðàíèòåëü çíàíèé;;x
+title_guardian_of_knowledge_desc;This honorific is awarded to a person who has shown their wisdom and courage.;;;;;;;;;;;Ýòîò ïî÷¸òíûé òèòóë äàðóåòñÿ òîìó, êòî ïðîÿâèë ìóäðîñòü è ìóæåñòâî.;;x
+title_guardian_of_the_deep;Guardian of the Deep;;;;;;;;;;;Õðàíèòåëü ãëóáèí;;x
+title_guardian_of_the_deep_desc;This honorific is awarded to a person who has shown exceptional vigilance and steadfastness.;;;;;;;;;;;Ýòîò ïî÷åòíûé òèòóë ïðèñóæäàåòñÿ ïðîÿâèâøåìó èñêëþ÷èòåëüíóþ áäèòåëüíîñòü è ñòîéêîñòü.;;x
+title_guru;Court Guru;;;;;;;;;;;Ïðèäâîðíûé Ãóðó;;x
+title_guru_desc;A guru is a wise master or teacher, one who imparts wisdom, usually by giving oral instruction and advice. Having a respected guru residing at your court can be useful, giving you access to sage advice.;;;;;;;;;;;Ãóðó ìóäðûé íàñòàâíèê è ó÷èòåëü, äà¸ò çíàíèÿ, îáû÷íî ñîâåòóÿ èëè äàâàÿ óêàçàíèÿ. Èìåòü óâàæàåìîãî ãóðó ó ñåáÿ ïðè äâîðå ìîæåò áûòü ïîëåçíûì, ýòî äîñòóï ê ìóäðûì ñîâåòàì.;;x
+title_hermetics_apprentice;Apprentice;;;;;;;;;;;Ó÷åíèê;;x
+title_hermetics_apprentice_desc;Hermetic scholars may chose an apprentice. In exchange for tutoring, the apprentice will take care of one's laboratory and assist during experiments.;;;;;;;;;;;Ãåðìåòèñò ìîæåò âûáðàòü ñåáå ó÷åíèêà, êîòîðûé â îáìåí íà îáó÷åíèå áóäåò çàáîòèòüñÿ î ëàáîðàòîðèè è àññèñòèðîâàòü âî âðåìÿ ýêñïåðèìåíòîâ.;;x
+title_high_admiral;High Admiral;;;;;;;;;;;Âåðõîâíûé àäìèðàë;;x
+title_high_admiral_desc;The High Admiral is formally the chief of the Admiralty and in charge of the Republic's Navy, though he often relies on a competent staff.;;;;;;;;;;;Âåðõîâíûé àäìèðàë - ôîðìàëüíûé ëèäåð àäìèðàëòåéñòâà, îòâå÷àþùåãî çà ôëîò ðåñïóáëèêè.;;x
+title_high_almoner;High Almoner;;;;;;;;;;;Ýëåìîçèíàðèé;;x
+title_high_almoner_desc;The handing out of alms was an integral part of rulership and religious observance. The one responsible for this task is a very important personage.;;;;;;;;;;;Ðàçäà÷à ìèëîñòûíè ÿâëÿåòñÿ íåîòúåìëåìîé ÷àñòüþ ïðàâëåíèÿ è ðåëèãèîçíûõ îáðÿäîâ. Îòâåòñòâåííûé çà ýòî ÷åëîâåê î÷åíü âàæåí.;;x
+title_high_judge;High Judge;;;;;;;;;;;Âåðõîâíûé ñóäüÿ;;x
+title_high_judge_desc;The High Judge is the supreme justice of the Republic, who answers only to the Council in most legal matters.;;;;;;;;;;;Âåðõîâíûé ñóäüÿ - âûñøèé îðãàí þñòèöèè ðåñïóáëèêè â áîëüøèíñòâå ïðàâîâûõ âîïðîñîâ, êîòîðûé îòâå÷àåò òîëüêî ïåðåä ñîâåòîì.;;x
+title_hirdman;Hirdman;;;;;;;;;;;Õèðäìàí;;x
+title_hirdman_desc;The Hirdmen are seen as the ruler's trusted companions in arms, and the holders of this title command a great deal of respect.;;;;;;;;;;;Õèðäìàíû ÿâëÿþòñÿ íàèáîëåå ïðîâåðåííûìè òîâàðèùàìè ïî îðóæèþ ñâîåãî ãîñïîäèíà, è îáëàäàòåëè ýòîãî òèòóëà âñåãäà î÷åíü óâàæàåìû.;;x
+title_historiographer;Historiographer;;;;;;;;;;;Èñòîðèîãðàô;;x
+title_historiographer_desc;As the official recorder of history, Historiographer is a title which can be granted to a learned person – their responsibility is to keep a record of important events, for the sake of future generations. However, some might also argue that it is to ensure that a ruler feels worthy of being chronicled.;;;;;;;;;;;ßâëÿÿñü îôèöèàëüíûì ëåòîïèñöåì, Èñòîðèîãðàô - ýòî òèòóë, êîòîðûé ìîæåò áûòü äàí îáðàçîâàííîìó ÷åëîâåêó, — èõ îáÿçàííîñòü ñîñòîèò â òîì, ÷òîáû âåñòè ó÷åò âàæíûõ ñîáûòèé â èíòåðåñàõ áóäóùèõ ïîêîëåíèé. Îäíàêî, íåêîòîðûå ìîãóò óòâåðæäàòü, ÷òî ïðàâèòåëü äîëæåí ÿâëÿòüñÿ äîñòîéíûì õðîíèêè.;;x
+title_hypatos;Hypatos;;;;;;;;;;;Èïàò;;x
+title_hypatos_desc;Consul: Though only honorary now, it denotes the wearer as an important servant of the Empire.;;;;;;;;;;;Èïàò - ýòî ãðå÷åñêèé âàðèàíò êîíñóëà. Êàê áû òî íè áûëî, ýòîò òèòóë ÿâëÿåòñÿ èñêëþ÷èòåëüíî ïî÷¸òíûì, è íå äàåò êàêîé-ëèáî âëàñòè îáëàäàòåëþ.;;x
+title_hypatos_female;Hypatissa;;;;;;;;;;;Èïàòèñà;;x
+title_imperial_eunuch;Parakoimomenos;;;;;;;;;;;Ïàðàêèìîìåí;;x
+title_imperial_eunuch_desc;"The Parakoimomenos, ""the one who sleeps beside the Emperor's chamber,"" is a prestigious office at the Imperial Court reserved for eunuchs, who are valued for their perceived loyalty and discretion.";;;;;;;;;;;"Ïàðàêèìîìåí, ""êîòîðûé ñïèò ó âõîäà â èìïåðàòîðñêèå ïîêîè"" - ïðåñòèæíàÿ äîëæíîñòü ïðè äâîðå Áàñèëåâñà, ïðåäíàçíà÷åííàÿ äëÿ åâíóõîâ, êîòîðûõ öåíèëè çà èõ âåðíîñòü è îñòîðîæíîñòü.";;x
+title_ishad;Ishad;;;;;;;;;;;Èøàä;;x
+title_ishad_desc;Ishad is the title given to the highest ranking generals, and as such, it may be regarded as a mark of honor.;;;;;;;;;;;Òèòóë Èøàäà äàðîâàëñÿ ñàìûì ëó÷øèì ãåíåðàëàì, è â êîíå÷íîì èòîãå åãî ìîæíî áûëî ðàññìàòðèâàòü, êàê ñèìâîë ÷åñòè.;;x
+title_kardarigan;Kardarigan;;;;;;;;;;;Êàðäàðèãàí;;x
+title_kardarigan_desc;This honorific means black hawk and was granted to several gifted Sassanid generals for their achievements on the field of battle. It can only be bestowed upon those with exceptional martial ability.;;;;;;;;;;;"Ýòî ïî÷¸òíîå çâàíèå îçíà÷àåò ""×¸ðíûé îð¸ë"" è äàðóåòñÿ òîëüêî íåêîòîðûì íàèáîëåå îäàð¸ííûì ïîëêîâîäöàì Ñàñàíèäîâ çà èõ ïîäâèãè íà ïîëå áîÿ. Äëÿ ïîëó÷åíèÿ ýòîãî çâàíèÿ íåîáõîäèìî îáëàäàòü âûäàþùèìèñÿ âîèíñêèìè òàëàíòàìè.";;x
+title_keeper_of_swans;Keeper of the Swans;;;;;;;;;;;Ñìîòðèòåëü ëåáåäåé;;x
+title_keeper_of_swans_desc;With Swan meat being without doubt the finest meat available from either beast or fowl, the need to ensure a steady supply of Swans is important. The post of Master of Swans carries a certain amount of prestige.;;;;;;;;;;;Ñàìûì èçûñêàííûì âèäîì ìÿñà ñ÷èòàåòñÿ ëåáåäèíîå, ïîòîìó òàê âàæíî ñëåäèòü çà åãî ðåãóëÿðíûìè ïîñòàâêàìè ê ñòîëó ïðàâèòåëÿ. Äîëæíîñòü Ñìîòðèòåëÿ ëåáåäåé ïðèíåñ¸ò îïðåäåë¸ííîå êîëè÷åñòâî ïðåñòèæà.;;x
+title_keeper_of_the_dead;Keeper of the Dead;;;;;;;;;;;Õðàíèòåëü ì¸ðòâûõ;;x
+title_keeper_of_the_dead_desc;The Keeper of the Dead is responsible for the final rest of everyone placed in the §YMausoleum§!.;;;;;;;;;;;Õðàíèòåëü ì¸ðòâûõ îòâå÷àåò çà ïîêîé âñåõ òåõ, êòî íàõîäèòñÿ â §Yìàâçîëåé§!.;;x
+title_keeper_of_tomes;Keeper of the Tomes;;;;;;;;;;;Õðàíèòåëü êíèã;;x
+title_keeper_of_tomes_desc;This honorific is awarded to a person who has shown great aptitude for learning and all related skills.;;;;;;;;;;;Ýòîò ïî÷¸òíûé òèòóë äàðóåòñÿ òîìó, êòî ïðîÿâèë áîëüøèå ñïîñîáíîñòè ê îáó÷åíèþ è âñå ñîïóòñòâóþùèå íàâûêè.;;x
+title_kouropalates;Kouropalates;;;;;;;;;;;Êóðîïàëàò;;x
+title_kouropalates_desc;Kouropalates - 'the One in Charge of the Palace' - is a very prestigious title in the Byzantine Empire.;;;;;;;;;;;Êóðîïàëàò - î÷åíü ïðåñòèæíûé òèòóë â Âèçàíòèéñêîé èìïåðèè.;;x
+title_kundur;Kündür;;;;;;;;;;;Êóíäóð;;x
+title_kundur_desc;The Kündur is traditionally a high ranking official in the Khan's court, and bestowing it on someone is a sign of approval.;;;;;;;;;;;Êóíäóð îáû÷íî áûë âûñøèì ÷èíîâíèêîì â ñóäå Õàíà, è äàðîâàëñÿ â çíàê îäîáðåíèÿ.;;x
+title_lawspeaker;Lawspeaker;;;;;;;;;;;Çàêîííèê;;x
+title_lawspeaker_desc;The Lawspeaker memorizes the law of the realm and serves as its highest judicator. Needless to say, this comes with a great amount of prestige and responsibility.;;;;;;;;;;;Çàêîííèê èçó÷àåò çàêîíû ãîñóäàðñòâà è èñòîëêîâûâàåò èõ. Èçëèøíå ãîâîðèòü, ÷òî áîëüøîé àâòîðèòåò è îòâåòñòâåííîñòü ñîïóòñòâóþò åìó.;;x
+title_lighthouse_custodian;Lighthouse Custodian;;;;;;;;;;;Õðàíèòåëü Ìàÿêà;;x
+title_lighthouse_custodian_desc;This honorific is awarded to a person who has shown themselves responsible and can be entrusted with the care of your lighthouse – keeping it both lit and functioning.;;;;;;;;;;;Ýòîò ïî÷¸òíûé òèòóë ïðèñóæäàåòñÿ ÷åëîâåêó, êîòîðûé ïðîÿâèë ñåáÿ îòâåòñòâåííûì, è åìó ìîæíî ïîðó÷èòü çàáîòó î Âàøåì ìàÿêå, ïîääåðæèâàòü åãî îãîíü.;;x
+title_male_consort;Consort;;;;;;;;;;;Íàëîæíèê;;x
+title_marksman;Merkismaðr;;;;;;;;;;;Ìåðêèñìàä;;x
+title_marksman_desc;Literally meaning Marksman, the Merkismaðr has the honor of serving as the standard-bearer.;;;;;;;;;;;"Ìåðêèñìàä (äîñëîâíî ïåðåâîäèòñÿ êàê ""Ìåòêèé ñòðåëîê"" èëè ñíàéïåð) èìååò ÷åñòü ñëóæèòü çíàìåíîñöåì.";;x
+title_master_engineer;Master Engineer;;;;;;;;;;;Ãëàâíûé èíæåíåð;;x
+title_master_engineer_desc;The master engineer will construct wonders of Chinese ingenuity throughout your demesne, such as dry docks and blast furnaces.;;;;;;;;;;;Ìàñòåð-èíæåíåð ïîñòðîèò ÷óäåñà êèòàéñêîé èçîáðåòàòåëüíîñòè âî âñåõ Âàøèõ ëè÷íûõ âëàäåíèÿõ, òàêèå êàê ñóõèå äîêè è äîìåííûå ïå÷è.;;x
+title_master_of_games;Master of the Games;;;;;;;;;;;Ìàñòåð èãð;;x
+title_master_of_games_desc;This honorific is awarded to a person with a strong personality and presence, capable of bending a whole crowd to their will.;;;;;;;;;;;Ýòîò ïî÷¸òíûé òèòóë äàðóåòñÿ ëèøü ñèëüíîìó äóõîì, êîòîðûé ñâîåé õàðèçìîé ñïîñîáåí ìåíÿòü íàñòðîåíèå öåëîé òîëïû.;;x
+title_master_of_the_blade;Master of the Blade;;;;;;;;;;;Ìàñòåð Êëèíêà;;x
+title_master_of_the_blade_desc;The Master of the Blade is a prestigious honorific usually granted to those with demonstrated ability in swordsmanship.;;;;;;;;;;;Óâàæàåìûé è ïî÷¸òíûé òèòóë Ìàñòåðà Êëèíêà îáû÷íî äàåòñÿ òîìó, êòî ïðîÿâèò ñåáÿ âî âëàäåíèè ìå÷îì.;;x
+title_master_of_the_bow;Master of the Bow;;;;;;;;;;;Ìàñòåð Ëóêà;;x
+title_master_of_the_bow_desc;The Master of the Bow is a prestigious honorific usually granted to those with demonstrated ability in bowmanship.;;;;;;;;;;;Óâàæàåìûé è ïî÷¸òíûé òèòóë Ìàñòåðà Ëóêà îáû÷íî äàåòñÿ òîìó, êòî ïðîÿâèò ñåáÿ âî âëàäåíèè ëóêîì.;;x
+title_master_of_the_eagle;Master of the Eagle;;;;;;;;;;;Ìàñòåð íàä îðëîì;;x
+title_master_of_the_eagle_desc;The Mongolian warriors used eagles to aid them while hunting. Being responsible for the training of these companions was a great honor.;;;;;;;;;;;Ìîíãîëüñêèå âîèíû èñïîëüçóþò îðëîâ äëÿ îõîòû. Áûòü îòâåòñòâåííûì çà îáó÷åíèå ýòèõ áëàãîðîäíûõ ïòèö - âåëèêàÿ ÷åñòü.;;x
+title_master_of_the_horse;Master of the Horse;;;;;;;;;;;Êîíþøèé;;x
+title_master_of_the_horse_desc;This office dates all the way back the Roman Republic, and, in this era where a horse is a symbol of power, it is still very important. Although the Master of the Horse delegates the actual day to day running of the actual stables, much of the prestige of this office comes from the responsibility for the stud.;;;;;;;;;;;Ýòà äîëæíîñòü óõîäèò êîðíÿìè âî âðåìåíà Ðèìñêîé ðåñïóáëèêè, â òó ýïîõó, êîãäà ëîøàäü ÿâëÿåòñÿ ñèìâîëîì âëàñòè. Áîëüøóþ ÷àñòü âðåìåíè Êîíþøèé ïðîâîäèò ñðåäè ëîøàäåé, à íà åãî ïëå÷è ëîæèòñÿ îòâåòñòâåííîñòü çà ñîäåðæàíèå êîíþøåí ïðàâèòåëÿ â íàäëåæàùåì âèäå.;;x
+title_master_of_the_hounds;Master of the Hounds;;;;;;;;;;;Ïñàðü;;x
+title_master_of_the_hounds_desc;With hunting considered the main pastime of the higher nobility, the hounds employed for the some of the hunts are thus important.;;;;;;;;;;;Íà ëþáîé îõîòå ýòîò ÷åëîâåê íåçàìåíèì. Ïñàðü îòâå÷àåò çà ñîáàê ïðàâèòåëÿ, à çíà÷èò îò íåãî çàâèñèò óñïåõ âñåãî ìåðîïðèÿòèÿ. Ïîòîìó äîëæíîñòü ýòà ïðåñòèæíà è ïî÷¸òíà.;;x
+title_master_of_the_hunt;Master of the Hunt;;;;;;;;;;;Ëîâ÷èé;;x
+title_master_of_the_hunt_desc;In an era when hunting was an opportunity to demonstrate horsemanship and martial prowess, the hunt was serious business. The master of the hunt was a position of importance.;;;;;;;;;;;Â íàøå âðåìÿ îõîòà - åäèíñòâåííàÿ âîçìîæíîñòü â ìèðíîé æèçíè ïðîäåìîíñòðèðîâàòü èñêóññòâî âåðõîâîé åçäû è áîåâîå ìàñòåðñòâî, ïîýòîìó äîëæíîñòü Ëîâ÷åãî î÷åíü ïðåñòèæíà.;;x
+title_master_of_the_royal_elephants;Master of the Royal Elephants;;;;;;;;;;;Õîçÿèí êîðîëåâñêèõ ñëîíîâ;;x
+title_master_of_the_royal_elephants_desc;Great monarchs often employ units of war elephants in their army to great effect. But aside from that, the elephant also has great value as a symbol of stability, strength and perserverance. All this makes it very important to keep the ruler's elephants in good health, and the position of Master of the Royal Elephants is a correspondingly prestigious one.;;;;;;;;;;;Âåëèêèå ìîíàðõè íàáèðàþò áîåâûõ ñëîíîâ â àðìèþ äëÿ áîëüøåãî ýôôåêòà. Íî êðîìå ýòîãî, ñëîíû ÿâëÿþòñÿ ñèìâîëîì ñòàáèëüíîñòè, ñèëû è óñòîé÷èâîñòè. Ïîýòîìó î÷åíü âàæíî, ÷òîáû ñëîíû õîðîøî ñîäåðæàëèñü. Ê òîìó æå, äîëæíîñòü ìàñòåðà êîðîëåâñêèõ ñëîíîâ î÷åíü ïðåñòèæíà.;;x
+title_master_of_tides;Master of the Tides;;;;;;;;;;;Õîçÿèí ïðèëèâîâ;;x
+title_master_of_tides_desc;This honorific is awarded to a person who has shown aptitude for all things marine, and the overarching responsibility of the §YHarbor§! rests on their shoulders.;;;;;;;;;;;Ýòîò ïî÷¸òíûé òèòóë äàðóåòñÿ òîìó, êòî ïðîÿâèë ñïîñîáíîñòè â ìîðñêîì äåëå, çàáîòà î §Yãàâàíè§! ëîæèòñÿ íà åãî ïëå÷è.;;x
+title_noyan;Noyan;;;;;;;;;;;Íîÿí;;x
+title_noyan_desc;This title was originally granted to Mongolian battlefield commanders, but as they were awarded conquered land to administrate, it came to represent a form of higher nobility.;;;;;;;;;;;Ýòî çâàíèå ïåðâîíà÷àëüíî ïðåäîñòàâëÿëîñü ìîíãîëüñêèì áîåâûì êîìàíäèðàìè, íî òàê êàê îíè áûëè íàãðàæäåíû çàâî¸âàííûìè çåìëÿìè, îíî ñòàëî ïðåäñòàâëÿòü ôîðìó âûñøåé çíàòè.;;x
+title_overseer_of_rites;Overseer of the Rites;;;;;;;;;;;Ìàñòåð îáðÿäîâ;;x
+title_overseer_of_rites_desc;The Overseer of Rites is responsible for all rites and rituals related to the §YPyramid§!.;;;;;;;;;;;Õðàíèòåëü îáðÿäîâ îòâå÷àåò çà âñå ðèòóàëû, ñâÿçàííûå ñ §Yïèðàìèäîé§!.;;x
+title_paramount_knight;Paramount Knight;;;;;;;;;;;Âåðõîâíûé ðûöàðü;;x
+title_paramount_knight_desc;This paragon of chivalric virtue is the envy of the realm - every man wants to be like him and sees his friends as their friends;;;;;;;;;;;Îáðàçåö ðûöàðñêîé äîáëåñòè, ÿâëÿþùèéñÿ ïðåäìåòîì çàâèñòè äëÿ æèòåëåé îêðóãà. Êàæäûé õî÷åò áûòü òàêèì, êàê îí, è èìåòü äðóçåé, ïîõîæèõ íà åãî äðóçåé.;;x
+title_patrician_heir;Designated Heir;;;;;;;;;;;Íàñëåäíèê ñåìüè;;x
+title_patrician_heir_desc;This character has been chosen to succeed a Patrician in running the family business.;;;;;;;;;;;Ýòîò ÷åëîâåê âûáðàí íàñëåäíèêîì ñåìåéíîãî äåëà.;;x
+title_patrikios;Patrikios;;;;;;;;;;;Ïàòðèêèé;;x
+title_patrikios_desc;Patrician: Recognizes the wearer as an elite member of Roman Society and is reserved for only the most influential servants of the Empire.;;;;;;;;;;;Ïàòðèêèé - ýòî ãðå÷åñêèé âàðèàíò ïàòðèöèÿ, âàæíîãî ïðåäñòàâèòåëÿ ðèìñêîãî îáùåñòâà. Ýòîò ïî÷¸òíûé òèòóë ïðåäíàçíà÷åí òîëüêî äëÿ ñàìûõ âëèÿòåëüíûõ ñëóã Èìïåðèè.;;x
+title_patrikios_female;Patrikia;;;;;;;;;;;Ïàòðèêèÿ;;x
+title_prince;Prince;;;;;;;;;;;Ïðèíö;;x
+title_prince_c_indian;Rajkumar;;;;;;;;;;;Ðàäæêóìàð;;x
+title_prince_female;Princess;;;;;;;;;;;Ïðèíöåññà;;x
+title_prince_female_c_indian;Rajkumari;;;;;;;;;;;Ðàäæêóìàðè;;x
+title_prince_female_indo_aryan_group;Rajkumari;;;;;;;;;;;Ðàäæêóìàðè;;x
+title_prince_female_iranian;Shahdokht;;;;;;;;;;;Øàõäóõò;;x
+title_prince_female_roman;Caesarina;;;;;;;;;;;Êåñàðèíà;;x
+title_prince_indo_aryan_group;Rajkumar;;;;;;;;;;;Ðàäæêóìàð;;x
+title_prince_iranian;Shahzada;;;;;;;;;;;Øàõçàäå;;x
+title_prince_roman;Caesar;;;;;;;;;;;Êåñàðü;;x
+title_pushtigban_salar;Pushtigban-salar;;;;;;;;;;;Ïóøòèêáàí Ñàëàð;;x
+title_pushtigban_salar_desc;The Pushtigban-salar is the appointed commander of the royal guard, and as such, commands a significant amount of respect.;;;;;;;;;;;Ïóøòèêáàí Ñàëàð - íàçíà÷àåìûé êîìàíäèð ãâàðäèè, îáëàäàþùèé áëàãîäàðÿ ýòîìó çíà÷èòåëüíûì óâàæåíèåì.;;x
+title_queen_mother;Queen Mother;;;;;;;;;;;Êîðîëåâà-ìàòü;;x
+title_regent;Regent;;;;;;;;;;;Ðåãåíò;;x
+title_royal_builder;Royal Builder;;;;;;;;;;;Êîðîëåâñêèé àðõèòåêòîð;;x
+title_royal_builder_desc;Powerful rulers will always be expanding their palaces and building new ones. The position of Royal Builder holds much prestige, though the holder need not actually have any architectural or engineering skills. It's usually someone else doing the real work.;;;;;;;;;;;Ìîãóùåñòâåííûå ïðàâèòåëè âñåãäà áóäóò ñòðåìèòüñÿ ðàñøèðèòü ñâîè äâîðöû è ïîñòðîèòü íîâûå. Ïîçèöèÿ êîðîëåâñêîãî àðõèòåêòîðà ÿâëÿåòñÿ î÷åíü ïðåñòèæíîé, õîòÿ îáëàäàòåëü íå îáÿçàòåëüíî âëàäååò íåîáõîäèìûìè íàâûêàìè. Îáû÷íî êòî-òî äðóãîé âûïîëíÿåò íàñòîÿùóþ ðàáîòó.;;x
+title_royal_custodian;Royal Custodian;;;;;;;;;;;Õðàíèòåëü äâîðöà;;x
+title_royal_custodian_desc;This honorific is awarded to a person who has proven themselves dependable, and they are responsible for the upkeep and maintenance of the §YRoyal Palace§!.;;;;;;;;;;;Ýòîò ïî÷¸òíûé òèòóë äàðóåòñÿ òîìó, êòî äîêàçàë ñâîþ íàä¸æíîñòü, è ãîòîâ íåñòè îòâåòñòâåííîñòü çà ñîäåðæàíèå §Yâåëèêîãî äâîðöà§!.;;x
+title_sebastokrator;Sebastokrator;;;;;;;;;;;Ñåâàñòîêðàòîð;;x
+title_sebastokrator_desc;The title of Sebastokrator was created as an even higher honor than that of 'Caesar'. It can only be granted to close relatives of the Emperor.;;;;;;;;;;;Òèòóë Ñåâàñòîêðàòîðà åù¸ áîëåå ïî÷¸òíûé, ÷åì ó Öåçàðÿ. Îí ìîæåò áûòü ïðåäîñòàâëåí òîëüêî áëèæàéøèì ðîäñòâåííèêàì èìïåðàòîðà.;;x
+title_sebastos;Sebastos;;;;;;;;;;;Ñåâàñò;;x
+title_sebastos_desc;Venerable one: Only important members of the imperial family and those related to them by marriage or blood may bear this venerable title.;;;;;;;;;;;"Îçíà÷àåò ""ïî÷òåííûé"". Òîëüêî âàæíûå ÷ëåíû èìïåðàòîðñêîé ñåìüè è òå, êòî ñâÿçàí ñ íèìè ïî áðàêó èëè êðîâè, ìîãóò íîñèòü ýòîò ïî÷¸òíûé òèòóë.";;x
+title_sebastos_female;Sebaste;;;;;;;;;;;Ñåâàñòà;;x
+title_seneschal;Seneschal;;;;;;;;;;;Ñåíåøàëü;;x
+title_seneschal_desc;Originally responsible for the organization of feasts and domestic entertainment. Although left mainly in the hands of deputies, the key role at such major occasions makes the post prestigious.;;;;;;;;;;;Èçíà÷àëüíî áûë îòâåòñòâåííûì çà îðãàíèçàöèþ ïðàçäíèêîâ è ïèðøåñòâ. Òåïåðü áîëüøàÿ ÷àñòü îáÿçàííîñòåé ïåðåäàíà â ðóêè åãî ïîä÷èíåííûõ, íî êëþ÷åâàÿ ðîëü, äåëàþùàÿ äîëæíîñòü ïðåñòèæíîé, ñîõðàíèëàñü çà Ñåíåøàëåì.;;x
+title_shahin;Shahin;;;;;;;;;;;Øàõèí;;x
+title_shahin_desc;This honorific means falcon and was granted to several gifted Sassanid generals for their achievements on the field of battle. It can only be bestowed upon those with exceptional martial ability.;;;;;;;;;;;"Ýòî ïî÷¸òíîå çâàíèå îçíà÷àåò ""Ñàïñàí"" è äàðóåòñÿ òîëüêî íåêîòîðûì íàèáîëåå îäàðåííûì ïîëêîâîäöàì Ñàñàíèäîâ çà èõ ïîäâèãè íà ïîëå áîÿ. Äëÿ ïîëó÷åíèÿ ýòîãî çâàíèÿ íåîáõîäèìî îáëàäàòü âûäàþùèìèñÿ âîèíñêèìè òàëàíòàìè.";;x
+title_shahrwaraz;Shahrwarãz;;;;;;;;;;;Øàõðâàðàç;;x
+title_shahrwaraz_desc;The Shahrwarãz, the Boar of the Empire, is a prestigious honorary title dating back to the Sassanids. In Zoroastrianism, the boar is closely associated with the Izad Vahram, the epitome of victory. This honorific can only be bestowed upon those with exceptional martial ability.;;;;;;;;;;;Øàõðâàðàç, èëè Âåïðü Ãîñóäàðñòâà - ïî÷¸òíåéøèé òèòóë, âîñõîäÿùèé èç âðåìåí Ñàñàíèäîâ. Â çîðîàñòðèçìå, âåïðü òåñíî ñâÿçàí ñ Èçàä Âàõðàìîì, îëèöåòâîðÿþùèì ïîáåäó. Ýòî ïî÷¸òíîå çâàíèå ìîæåò áûòü äàðîâàíî òîëüêî ëþäÿì ñ âûäàþùèìèñÿ âîèíñêèìè òàëàíòàìè.;;x
+title_spahbod;Spahbod;;;;;;;;;;;Ñïàõáåä;;x
+title_spahbod_desc;This title, roughly meaning army chief, can be traced all the way back to the Achaemenid Empire, and during the Sassanid reign there were four Spahbods assigned to each corner of the Persian realm. It remains a prestigious military office.;;;;;;;;;;;Ýòîò òèòóë, ïðèáëèçèòåëüíî ñîîòâåñòâóþùèé ãëàâå àðìèè, ïðèø¸ë èç ãëóáèí èìïåðèè Àõàìåíèäîâ. Âî âðåìåíà ïðàâëåíèÿ Ñàñàíèäîâ ñóùåñòâîâàëî ÷åòûðå Ñïàõáåäà, ïðèêðåïë¸ííûõ ê êàæäîé ÷àñòè Ïåðñèäñêîãî ãîñóäàðñòâà. Ýòî ïî-ïðåæíåìó àâòîðèòåòíîå âîèíñêîå çâàíèå.;;x
+title_state_inquisitor;State Inquisitor;;;;;;;;;;;Ñóäåáíûé ñëåäîâàòåëü;;x
+title_state_inquisitor_desc;The three State Inquisitors are charged with ensuring the security of the Republic against threats both internal and external.;;;;;;;;;;;Òðè ñóäåáíûõ ñëåäîâàòåëÿ íàçíà÷åíû äëÿ çàùèòû ðåñïóáëèêè îò âíåøíèõ è âíóòðåííèõ óãðîç.;;x
+title_stone_custodian;Custodian of the Stone;;;;;;;;;;;Õðàíèòåëü Êàìíÿ;;x
+title_stone_custodian_desc;This honorific is awarded to a person who has shown themselves steadfast in their loyalty and discipline.;;;;;;;;;;;Ýòîò ïî÷¸òíûé òèòóë ïðèñóæäàåòñÿ ÷åëîâåêó, êîòîðûé ïðîÿâèë òâåðäîñòü â ñâîåé ëîÿëüíîñòè è äèñöèïëèíå.;;x
+title_strategist;Strategist;;;;;;;;;;;Ñòðàòåã;;x
+title_strategist_desc;The Chinese Strategist will attempt to teach other soldiers about Chinese strategies.;;;;;;;;;;;Êèòàéñêèé ñòðàòåã ïîïûòàåòñÿ îáó÷èòü äðóãèõ ñîëäàò êèòàéñêèì ñòðàòåãèÿì.;;x
+title_tanist;Tanist;;;;;;;;;;;Òàíèñò;;x
+title_teacher;Court Tutor;;;;;;;;;;;Ïðèäâîðíûé ó÷èòåëü;;x
+title_teacher_desc;The Court Tutor will serve as the default Educator for all children at court who don't have an assigned Guardian.;;;;;;;;;;;Ïðèäâîðíûé ó÷èòåëü ÿâëÿåòñÿ âîñïèòàòåëåì äëÿ âñåõ äåòåé ïðè äâîðå, êîòîðûå íå èìåþò íàñòàâíèêà.;;x
+title_venerable_elder;Venerable Elder;;;;;;;;;;;Óâàæàåìûé Ñòàðåö;;x
+title_venerable_elder_desc;This honorific can only be granted to those who have reached the age of fifty. Their wisdom and the sorely needed guidance they offer the younger generations is deserving of great respect.;;;;;;;;;;;Ýòîò ïî÷¸òíûé òèòóë ìîæåò äîñòàòüñÿ ëèøü òåì, êòî äîñòèã ïÿòèäåñÿòè ëåò. Èõ ìóäðîñòü è äîáûòûé ñ âåëèêèì òðóäîì æèçíåíûé îïûò, êîòîðûé îíè ïåðåäàþò ìîëîäîìó ïîêîëåíèþ, çàñëóæèâàþò âåëèêîãî óâàæåíèÿ.;;x
+title_volva;Court Völva;;;;;;;;;;;Â¸ëüâà;;x
+title_volva_desc;A völva is regarded as a powerful seeress that practises sejdr, a form of sorcery. Among other things, she deals with curses, premonitions and omens of things to come.;;;;;;;;;;;Â¸ëüâà - ìîãóùåñòâåííàÿ ïðîðèöàòåëüíèöà, èñïîëüçóþùàÿ ðàçëè÷íûå ôîðìû êîëäîâñòâà. Îíà ïðîêëèíàåò è ïðåäñêàçûâàåò áóäóùåå.;;x
+title_wall_walker;Walker of the Wall;;;;;;;;;;;Ãóëÿþùèé ìåæäó ñòåíàìè;;x
+title_wall_walker_desc;This honorific is awarded to a person who has shown diligence and can spend the majority of their day on their feet, inspecting and maintaining the wall.;;;;;;;;;;;Ýòîò ïî÷¸òíûé òèòóë äàðóåòñÿ òîìó, êòî ïðîÿâèë óñåðäèå è ìîæåò ïðîâåñòè áîëüøóþ ÷àñòü ñâîåãî äíÿ íà íîãàõ, îñìàòðèâàÿ è ïîääåðæèâàÿ ñòåíû â õîðîøåì ñîñòîÿíèè.;;x
+title_watcher_of_giants;Watcher of Giants;;;;;;;;;;;Ñòðàæ ãèãàíòîâ;;x
+title_watcher_of_giants_desc;This honorific is awarded to a person who has shown exceptional vigilance and skills of observation, and they are ultimately responsible for the maintenance and upkeep of the great statue.;;;;;;;;;;;Ýòîò ïî÷¸òíûé òèòóë äà¸òñÿ òîìó, êòî ïðîÿâèë èñêëþ÷èòåëüíóþ áäèòåëüíîñòü è íàáëþäàòåëüíîñòü, èìåííî îí íåñ¸ò îòâåòñòâåííîñòü çà ñîäåðæàíèå âåëèêîé ñòàòóè.;;x
+title_yabgu;Yabgu;;;;;;;;;;;ßáãó;;x
+title_yabgu_desc;By tradition, the title of Yagbu is bestowed upon the second highest member of a ruling clan, often a brother of the Khan. It carries a great deal of respect.;;;;;;;;;;;Òðàäèöèîííî, òèòóë ßáãó äàðîâàëñÿ âòîðîìó ïî âëèÿíèþ ÷ëåíó êëàíà, ÷àùå âñåãî áðàòó Õàíà. Áîëüøàÿ ÷åñòü íîñèòü ýòîò òèòóë.;;x
+title_yuhou;Yuhou;;;;;;;;;;;Þéõîó;;x
+title_yuhou_desc;In the annals of ancient history, Yuhou are explained as the Watchers of Mountains and Lakes. While the title can imply a considerable amount of power, it is in itself a grand gesture to be deemed worthy of the title.;;;;;;;;;;;Â àííàëàõ äðåâíåé èñòîðèè Þéõîó íàçûâàþò äîçîðíûìè ãîð è ðåê. Íàçâàíèå ñàìî ïî ñåáå îòðàæàåò âåëèêóþ ñèëó, ÷òî äåëàåò òèòóë âåñüìà ïðåñòèæíûì.;;x
+title_zhangshi;Zhangshi;;;;;;;;;;;×æàíøè;;x
+title_zhangshi_desc;Also known as 'the other carriage' due to the Zhangshi rarely sharing a carriage with their superior. Nominally the Chief Secretary of a governor, the exact duty of Zhangshi, and the power this position holds, varies greatly.;;;;;;;;;;;"Òàêæå èçâåñòíà, êàê ""äðóãàÿ ïîâîçêà"", â âèäó òîãî, ÷òî ×æàíøè ðåäêî äåëÿò ïîâîçêó ñî ñâîèì íà÷àëüñòâîì. Íîìèíàëüíî ýòî Ãëàâíûé ñåêðåòàðü ãóáåðíàòîðà. Ïðÿìûå îáÿçàííîñòè ÷æàíøè è ïîëîæåíèå, êîòîðîå îí çàíèìàåò, ñèëüíî ðàçíÿòñÿ.";;x
+tribal_title_prince_c_indian;Rajkumar;;;;;;;;;;;Ðàäæêóìàð;;x
+tribal_title_prince_female_c_indian;Rajkumari;;;;;;;;;;;Ðàäæêóìàðè;;x
+tribal_title_prince_female_indo_aryan_group;Rajkumari;;;;;;;;;;;Ðàäæêóìàðè;;x
+tribal_title_prince_indo_aryan_group;Rajkumar;;;;;;;;;;;Ðàäæêóìàð;;x

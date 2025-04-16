@@ -1,9 +1,7 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC45000;Our righteous cause has attracted many supporters from all over the realm! [From.GetTitledFirstName] beware...;;;;;;;;;;;;;x
-EVTDESC45001;Large bands of rebels and opportunists are flocking to the banner of the faithless traitor [From.GetTitledFirstName] in [From.Capital.GetName]!;;;;;;;;;;;;;x
-EVTDESC45002;The ongoing civil war has caused both loyal veterans and various adventurers to make their way to [Root.Capital.GetName] for the muster!;;;;;;;;;;;;;x
-EVTDESC45003;Mobs of opportunists and loyal veterans have flocked to the banner of [From.GetTitledName] in [From.Capital.GetName] to fight against us!;;;;;;;;;;;;;x
-
-EVTOPTA45001;Carrion for the vultures!;;;;;;;;;;;;;x
-EVTOPTA45003;What next? Women and children?;;;;;;;;;;;;;x
+EVTDESC45000;Our righteous cause has attracted many supporters from all over the realm! [From.GetTitledFirstName] beware...;;;;;;;;;;;Íàøå ïðàâîå äåëî ïðèâëåêëî ìíîãî ñòîðîííèêîâ ñî âñåé îáëàñòè! [From.GetTitledFirstName] îñòåðåãàéòåñü...;;x
+EVTDESC45001;Large bands of rebels and opportunists are flocking to the banner of the faithless traitor [From.GetTitledFirstName] in [From.Capital.GetName]!;;;;;;;;;;;Áîëüøèå ãðóïïû ïîâñòàíöåâ è íàøèõ ïðîòèâíèêîâ ñòåêàþòñÿ ïîä çíàì¸íà ïðåäàòåëÿ ([From.GetTitledFirstName]) â ãîðîäå [From.Capital.GetName]!;;x
+EVTDESC45002;The ongoing civil war has caused both loyal veterans and various adventurers to make their way to [Root.Capital.GetName] for the muster!;;;;;;;;;;;Â ãîðîäå [Root.Capital.GetName] ñòÿãèâàþòñÿ ëîÿëüíûå âåòåðàíû è àâàíòþðèñòû, êîòîðûõ ïðèâëåêàåò ïðîäîëæàþùàÿñÿ ãðàæäàíñêàÿ âîéíà.;;x
+EVTDESC45003;Mobs of opportunists and loyal veterans have flocked to the banner of [From.GetTitledName] in [From.Capital.GetName] to fight against us!;;;;;;;;;;;Íàøè ïðîòèâíèêè âñåõ ìàñòåé ñòåêàþòñÿ ïîä çíàì¸íà ïðàâèòåëÿ, èçâåñòíîãî êàê [From.GetTitledName] â ãîðîä [From.Capital.GetName], ÷òîáû âîåâàòü ïðîòèâ íàñ!;;x
+EVTOPTA45001;Carrion for the vultures!;;;;;;;;;;;Ïàäàëü äëÿ ñòåðâÿòíèêîâ!;;x
+EVTOPTA45003;What next? Women and children?;;;;;;;;;;;×òî äàëüøå? Æåíùèíû è äåòè?;;x

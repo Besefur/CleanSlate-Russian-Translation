@@ -1,64 +1,61 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC8300;Our armies now stand poised to take part in the [Root.Religion.GetCrusadeName] for the [Root.Location.Kingdom.GetFullBaseName].;;;;;;;;;;;;;x
-EVTDESC8305;I finally stand before the destination of the crusade. With sword in hand I am ready to storm the walls of [Root.Location.GetName]!;;;;;;;;;;;;;x
-EVTDESC8310;Fighting the infidels has brought out the warrior in me!;;;;;;;;;;;;;x
-EVTDESC8320;How can God let the infidels defeat us...?;;;;;;;;;;;;;x
-EVTDESC8330;The target of our crusade, the [From.County.GetFullName], has finally fallen to our mighty arms and the wrath of God!;;;;;;;;;;;;;x
-EVTDESC8331;Good news! My brave knights have captured the target of the crusade, [From.Location.GetName]!\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC8340;Pillaging through the ruins of a temple in Jerusalem I stumbled across the pieces of a very old lance...;;;;;;;;;;;;;x
-EVTDESC8342;Prying open a tomb in Caesarea that had been sealed for centuries, I found a very old wooden chalice...;;;;;;;;;;;;;x
-EVTDESC8345;Jerusalem is finally ours after a horrific siege. Entering the city we rode in the blood of the infidels up to the knees of our horses.;;;;;;;;;;;;;x
-EVTDESC8350;I have lost the siege of [From.GetName] and let the infidels take back the very target of our crusade.;;;;;;;;;;;;;x
-EVTDESC8351;I regret to inform you that we have lost the target of the crusade, [From.Location.GetName]...\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC8400;My call for a crusade against the infidels has apparently fallen on deaf ears, and a number of prominent Christian rulers have still not put on the cross.;;;;;;;;;;;;;x
-EVTDESC8405;To the Noble [Root.GetTitledFirstName],\nI am concerned that you have not yet heeded my call to arms against the infidels. I hope that this is a mere oversight on your behalf and expect that you will put on the cross in the near future.\n\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC8410;My reminder about their absence from the ongoing crusade has apparently fallen on deaf ears. I am very disappointed.;;;;;;;;;;;;;x
-EVTDESC8415;I am bitterly disappointed to see that you still choose to ignore my call for a crusade.;;;;;;;;;;;;;x
-EVTDESC8420;I am shocked to see that my liege, [Root.Liege.GetTitledName] has not yet answered the Pope's call for a crusade.;;;;;;;;;;;;;x
-EVTDESC8425;My liege,\nI am concerned that you have not yet heeded the Pope's call to arms against the infidels. I pray that you plan to put on the cross in the near future.\n\nYour loyal subject, \n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC8430;It seems my liege, [Root.Liege.GetTitledName] has decided not to join the crusade despite his promise to do so. I am very disappointed.;;;;;;;;;;;;;x
-EVTDESC8435;My liege,\nI am most disappointed to see that you have decided not to participate in the ongoing crusade.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC8440;The Pope has finally called a crusade against the infidels and many of us are eager to fight. But my liege, [Root.Liege.GetTitledName] has not put on the cross yet.;;;;;;;;;;;;;x
-EVTDESC8445;My liege,\nMany of us are eager to join the crusade and fight for the glory of God. So it is with concern I notice that you have yet to answer the Pope's call to arms. I assume that you plan to put on the cross in the near future.\n\nYour loyal subject, \n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC8450;It seems my liege, [Root.Liege.GetTitledName] has decided not to join the crusade despite his promise to do so. I am very disappointed.;;;;;;;;;;;;;x
-EVTDESC8455;My liege,\nI am most disappointed to see that you have decided not to participate in the ongoing crusade.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC8460;I should offer to lift excommunication for anyone who joins the crusade.;;;;;;;;;;;;;x
-EVTDESC8465;I am willing to lift the excommunication of you and accept your repentance, should you put on the cross and join the ongoing crusade.;;;;;;;;;;;;;x
-EVTDESC8466;Several excommunicated men have chosen to take up the sword against the infidels and joined the crusade.;;;;;;;;;;;;;x
-EVTDESC8467;I have accepted your decision to join the crusade as repentance and will hereby lift the excommunication.;;;;;;;;;;;;;x
-
-EVTOPTA8300;Deus Vult!;;;;;;;;;;;;;x
-EVTOPTA8301;Masha'Allah!;;;;;;;;;;;;;x
-EVTOPTA8305;May the enemies of God tremble!;;;;;;;;;;;;;x
-EVTOPTA8320;I feel my faith dwindling...;;;;;;;;;;;;;x
-EVTOPTA8330;Victory is ours!;;;;;;;;;;;;;x
-EVTOPTA8340;I must have found the Holy Lance!;;;;;;;;;;;;;x
-EVTOPTA8342;Could it be... the Holy Grail!;;;;;;;;;;;;;x
-EVTOPTA8345;Let us pray...;;;;;;;;;;;;;x
-EVTOPTA8350;How will I live with the shame...;;;;;;;;;;;;;x
-EVTOPTA8351;Curse the infidels!;;;;;;;;;;;;;x
-EVTOPTA8400;Send a reminder immediately;;;;;;;;;;;;;x
-EVTOPTA8405;Crusades does not concern me;;;;;;;;;;;;;x
-EVTOPTA8410;Let it be know to them;;;;;;;;;;;;;x
-EVTOPTA8415;Then so be it;;;;;;;;;;;;;x
-EVTOPTA8420;Send [Root.Liege.GetHerHim] a reminder immediately;;;;;;;;;;;;;x
-EVTOPTA8425;I will not be told what to do by a vassal!;;;;;;;;;;;;;x
-EVTOPTA8430;Let it be know to [Root.Liege.GetHerHim];;;;;;;;;;;;;x
-EVTOPTA8435;How dare [From.GetSheHe] question my decision?;;;;;;;;;;;;;x
-EVTOPTA8440;Send [Root.Liege.GetHerHim] a reminder immediately;;;;;;;;;;;;;x
-EVTOPTA8445;I will not be told what to do by a vassal!;;;;;;;;;;;;;x
-EVTOPTA8450;Let it be know to [Root.Liege.GetHerHim];;;;;;;;;;;;;x
-EVTOPTA8455;How dare [From.GetSheHe] question my decision?;;;;;;;;;;;;;x
-EVTOPTA8460;I will send out a proclamation.;;;;;;;;;;;;;x
-EVTOPTA8465;I will accept this offer;;;;;;;;;;;;;x
-EVTOPTA8466;Lift the excommunication;;;;;;;;;;;;;x
-EVTOPTA8468;Odin, hear my call!;;;;;;;;;;;;;x
-8469.a;[Root.Religion.GetHighGodNameCap] be praised!;;;;;;;;;;;;;x
-
-EVTOPTB8405;I will join the cause.;;;;;;;;;;;;;x
-EVTOPTB8420;There is nothing I can do about it;;;;;;;;;;;;;x
-EVTOPTB8425;I promise that I shall be on my way within a month;;;;;;;;;;;;;x
-EVTOPTB8440;I trust [Root.Liege.GetHerHis] decision;;;;;;;;;;;;;x
-EVTOPTB8445;I promise that I shall be on my way within a month;;;;;;;;;;;;;x
-EVTOPTB8465;Never!;;;;;;;;;;;;;x
+EVTDESC8300;Our armies now stand poised to take part in the [Root.Religion.GetCrusadeName] for the [Root.Location.Kingdom.GetFullBaseName].;;;;;;;;;;;"[Root.Religion.GetCrusadeName] íà çåìëþ ""[Root.Location.Kingdom.GetShortBaseName]"" íà÷èíàåòñÿ, è ìû ãîòîâû ïðèíÿòü ó÷àñòèå â áèòâå.";;x
+EVTDESC8305;I finally stand before the destination of the crusade. With sword in hand I am ready to storm the walls of [Root.Location.GetName]!;;;;;;;;;;;Â êîíöå êîíöîâ ÿ ñòîþ ïåðåä öåëüþ êðåñòîâîãî ïîõîäà. Ñ ìå÷îì â ðóêå ÿ ãîòîâ øòóðìîâàòü ñòåíû ãîðîäà. Ñåé÷àñ [Root.Location.GetName] ïàä¸ò!;;x
+EVTDESC8310;Fighting the infidels has brought out the warrior in me!;;;;;;;;;;;Áîðüáà ñ íåâåðíûìè âûñâîáîäèëà âîèíà âî ìíå!;;x
+EVTDESC8320;How can God let the infidels defeat us...?;;;;;;;;;;;Êàê Áîã ìîæåò äàòü íåâåðíûì ïîáåäèòü íàñ...?;;x
+EVTDESC8330;The target of our crusade, the [From.County.GetFullName], has finally fallen to our mighty arms and the wrath of God!;;;;;;;;;;;Öåëü êðåñòîâîãî ïîõîäà, [From.County.GetFullName], îêîí÷àòåëüíî ïàëà ïîä íàòèñêîì íàøèõ ìîãó÷èõ ðóê è ãíåâà Áîæüåãî!;;x
+EVTDESC8331;Good news! My brave knights have captured the target of the crusade, [From.Location.GetName]!\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;Õîðîøèå íîâîñòè! Ìîè áðàâûå ðûöàðè çàõâàòèëè öåëü êðåñòîâîãî ïîõîäà - [From.Location.GetName]!\nÏîäïèñü:\n [From.GetTitledName];;x
+EVTDESC8340;Pillaging through the ruins of a temple in Jerusalem I stumbled across the pieces of a very old lance...;;;;;;;;;;;Áåñïðåïÿòñòâåííî ìàðîä¸ðñòâóÿ â ðóèíàõ Èåðóñàëèìñêîãî õðàìà, ìíîþ áûëè íàéäåíû ÷àñòè î÷åíü äðåâíåãî êîïüÿ.;;x
+EVTDESC8342;Prying open a tomb in Caesarea that had been sealed for centuries, I found a very old wooden chalice...;;;;;;;;;;;Ëþáîïûòíî, îòêðûâ ãðîáíèöó â Êåñàðèè, êîòîðàÿ áûëà çàïå÷àòàíà â òå÷åíèè ñòîëåòèé, ìíîþ áûëè íàéäåíû î÷åíü ñòàðûå äåðåâÿííûå ÷àøè…;;x
+EVTDESC8345;Jerusalem is finally ours after a horrific siege. Entering the city we rode in the blood of the infidels up to the knees of our horses.;;;;;;;;;;;Èåðóñàëèì íàêîíåö ïàë ïîñëå äîëãîé è óæàñíîé îñàäû. Âîéäÿ â ãîðîä, ìû åõàëè, óòîïàÿ â êðîâè íåâåðíûõ äî êîëåí íàøèõ ëîøàäåé.;;x
+EVTDESC8350;I have lost the siege of [From.GetName] and let the infidels take back the very target of our crusade.;;;;;;;;;;;Îñàäà áûëà ïðîâàëåíà ìíîþ è íåâåðíûå âåðíóëè ñåáå öåëü íàøåãî êðåñòîâîãî ïîõîäà.;;x
+EVTDESC8351;I regret to inform you that we have lost the target of the crusade, [From.Location.GetName]...\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;ß ñ ñîæàëåíèåì âûíóæäåí ñîîáùèòü Âàì, ÷òî ìû ïîòåðÿëè öåëü êðåñòîâîãî ïîõîäà - [From.Location.GetName]!\nÏîäïèñü:\n [From.GetTitledName];;x
+EVTDESC8400;My call for a crusade against the infidels has apparently fallen on deaf ears, and a number of prominent Christian rulers have still not put on the cross.;;;;;;;;;;;Ìîé ïðèçûâ ê êðåñòîâîìó ïîõîäó ïðîòèâ íåâåðíûõ, ïî-âèäèìîìó, íå áûë óñëûøàí. Íåêîòîðûå õðèñòèàíñêèå ïðàâèòåëè äî ñèõ ïîð íå íàøèëè êðåñò íà ñâîþ îäåæäó.;;x
+EVTDESC8405;To the Noble [Root.GetTitledFirstName],\nI am concerned that you have not yet heeded my call to arms against the infidels. I hope that this is a mere oversight on your behalf and expect that you will put on the cross in the near future.\n\n[From.GetTitledName];;;;;;;;;;;[Root.GetTitledFirstName],\nÿ îáåñïîêîåí[From.GetEndA] òåì, ÷òî Âû âñ¸ åù¸ íå âíÿëè ìîåìó ïðèçûâó ê âîéíå ïðîòèâ íåâåðíûõ. Íàäåþñü, ÷òî ýòî ïðîñòàÿ îïëîøíîñòü. Îæèäàþ, ÷òî óæå â áëèæàéøåå âðåìÿ Âû ïðèñîåäèíèòåñü ê êðåñòîâîìó ïîõîäó.\n\n[From.GetTitledName];;x
+EVTDESC8410;My reminder about their absence from the ongoing crusade has apparently fallen on deaf ears. I am very disappointed.;;;;;;;;;;;Îíè íå óñëûøàëè ìîé ïîâòîðíûé ïðèçûâ ê ó÷àñòèþ â êðåñòîâîì ïîõîäå. ß î÷åíü ðàçî÷àðîâàí[Root.GetEndA].;;x
+EVTDESC8415;I am bitterly disappointed to see that you still choose to ignore my call for a crusade.;;;;;;;;;;;ß ãëóáîêî ðàçî÷àðîâàí òåì, ÷òî Âû ïî-ïðåæíåìó èãíîðèðóåòå ìîè ïðèçûâû ê êðåñòîâîìó ïîõîäó.;;x
+EVTDESC8420;I am shocked to see that my liege, [Root.Liege.GetTitledName] has not yet answered the Pope's call for a crusade.;;;;;;;;;;;Ìåíÿ ïîâåðãëî â øîê òî, ÷òî ìîé ñþçåðåí [Root.Liege.GetTitledName] âñ¸ åù¸ íå îòâåòèë íà ïðèçûâ Ïàïû ê êðåñòîâîìó ïîõîäó.;;x
+EVTDESC8425;My liege,\nI am concerned that you have not yet heeded the Pope's call to arms against the infidels. I pray that you plan to put on the cross in the near future.\n\nYour loyal subject, \n[From.GetTitledName];;;;;;;;;;;Ìîé ñþçåðåí,\nìåíÿ âåñüìà áåñïîêîèò òî, ÷òî Âû âñ¸ åù¸ íå âíÿëè ïðèçûâó Ïàïû ïðèñîåäèíèòüñÿ ê êðåñòîâîìó ïîõîäó ïðîòèâ íåâåðíûõ. Ìîëþ Áîãà è íàäåþñü, ÷òî óæå â áëèæàéøåå âðåìÿ Âû ïëàíèðóåòå âûñòóïèòü â ïîõîä.\n\nÑî âñåì ïî÷òåíèåì,\n[From.GetTitledName];;x
+EVTDESC8430;It seems my liege, [Root.Liege.GetTitledName] has decided not to join the crusade despite his promise to do so. I am very disappointed.;;;;;;;;;;;Êàæåòñÿ, ìîé ñþçåðåí [Root.Liege.GetTitledName], íåñìîòðÿ íà ñâî¸ îáåùàíèå, íå ñîáèðàåòñÿ ó÷àñòâîâàòü â êðåñòîâîì ïîõîäå. Ýòî ñèëüíî îãîð÷àåò ìåíÿ.;;x
+EVTDESC8435;My liege,\nI am most disappointed to see that you have decided not to participate in the ongoing crusade.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nÿ î÷åíü ðàçî÷àðîâàí òåì, ÷òî Âû ðåøèëè íå ó÷àñòâîâàòü â ïðîâîäèìîì êðåñòîâîì ïîõîäå.\n\nÑ óâàæåíèåì\n[From.GetTitledName];;x
+EVTDESC8440;The Pope has finally called a crusade against the infidels and many of us are eager to fight. But my liege, [Root.Liege.GetTitledName] has not put on the cross yet.;;;;;;;;;;;Ïàïà Ðèìñêèé íàêîíåö îáúÿâèë êðåñòîâûé ïîõîä ïðîòèâ íåâåðíûõ è ìíîãèå èç íàñ ïîëíû ñòðàñòíîãî æåëàíèÿ áîðîòüñÿ ñ åðåñüþ. Îäíàêî, ìîé ñþçåðåí, [Root.Liege.GetTitledName] íå ñïåøèò âçÿòü â ðóêè îðóæèå.;;x
+EVTDESC8445;My liege,\nMany of us are eager to join the crusade and fight for the glory of God. So it is with concern I notice that you have yet to answer the Pope's call to arms. I assume that you plan to put on the cross in the near future.\n\nYour loyal subject, \n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nìíîãèå èç íàñ ãîðÿò æåëàíèåì ïðèñîåäèíèòüñÿ ê êðåñòîâîìó ïîõîäó è áîðüáå âî ñëàâó Ãîñïîäà íàøåãî. Ìåæäó òåì, ñ îçàáî÷åííîñòüþ ÿ çàìå÷àþ, ÷òî Âû äî ñèõ ïîð íå îòâåòèëè íà ïðèçûâ Ïàïû Ðèìñêîãî ê îðóæèþ. ß ïðåäïîëàãàþ, ÷òî Âû ïëàíèðóåòå íàøèòü êðåñò íà ñâîé ïëàù â ñàìîì áëèæàéøåì áóäóùåì?\n\nÂàø âåðíîïîääàííûé, \n[From.GetTitledName];;x
+EVTDESC8450;It seems my liege, [Root.Liege.GetTitledName] has decided not to join the crusade despite his promise to do so. I am very disappointed.;;;;;;;;;;;Êàæåòñÿ, ìîé ñþçåðåí, [Root.Liege.GetTitledName] ðåøèë íå ïðèñîåäèíÿòüñÿ ê êðåñòîâîìó ïîõîäó, íåñìîòðÿ íà ñâî¸ îáåùàíèå ñäåëàòü ýòî. Êàêîå ðàçî÷àðîâàíèå.;;x
+EVTDESC8455;My liege,\nI am most disappointed to see that you have decided not to participate in the ongoing crusade.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nî÷åíü æàëü, ÷òî Âû ðåøèëè íå ó÷àñòâîâàòü â òåêóùåì êðåñòîâîì ïîõîäå.\n\nÑî âñåì ïî÷òåíèåì\n[From.GetTitledName];;x
+EVTDESC8460;I should offer to lift excommunication for anyone who joins the crusade.;;;;;;;;;;;Ìíå ñëåäóåò ïðåäëîæèòü ñíèìàòü îòëó÷åíèå îò öåðêâè ñ òåõ, êòî ïðèñîåäèíÿåòñÿ ê êðåñòîâîìó ïîõîäó.;;x
+EVTDESC8465;I am willing to lift the excommunication of you and accept your repentance, should you put on the cross and join the ongoing crusade.;;;;;;;;;;;ß ãîòîâ ñíÿòü îòëó÷åíèå ñ Âàñ è ïðèíÿòü Âàøå ïîêàÿíèå, Âû äîëæíû ïðèíåñòè êëÿòâó íà êðåñòå è ïðèñîåäèíèòüñÿ ê òåêóùåìó êðåñòîâîìó ïîõîäó.;;x
+EVTDESC8466;Several excommunicated men have chosen to take up the sword against the infidels and joined the crusade.;;;;;;;;;;;Íåñêîëüêî îòëó÷¸ííûõ ïðèíÿëè ðåøåíèå ïîäíÿòü ìå÷ ïðîòèâ íåâåðíûõ è ïðèñîåäèíèëèñü ê êðåñòîâîìó ïîõîäó.;;x
+EVTDESC8467;I have accepted your decision to join the crusade as repentance and will hereby lift the excommunication.;;;;;;;;;;;ß ïðèíÿë Âàøå ðåøåíèå ïðèñîåäèíèòüñÿ ê êðåñòîâîìó ïîõîäó â êà÷åñòâå ïîêàÿíèÿ è áóäó îæèäàòü ñíÿòèÿ îòëó÷åíèÿ îò öåðêâè.;;x
+EVTOPTA8300;Deus Vult!;;;;;;;;;;;Deus Vult!;;x
+EVTOPTA8301;Masha'Allah!;;;;;;;;;;;Ìàøà'Àëëàõ!;;x
+EVTOPTA8305;May the enemies of God tremble!;;;;;;;;;;;Ïóñòü âðàãè Áîæüè òðåïåùóò â ñòðàõå!;;x
+EVTOPTA8320;I feel my faith dwindling...;;;;;;;;;;;ß ÷óâñòâóþ, ÷òî ìîÿ âåðà ñëàáååò…;;x
+EVTOPTA8330;Victory is ours!;;;;;;;;;;;Ïîáåäà çà íàìè!;;x
+EVTOPTA8340;I must have found the Holy Lance!;;;;;;;;;;;Äîëæíî áûòü, ýòî Ñâÿòîå Êîïü¸!;;x
+EVTOPTA8342;Could it be... the Holy Grail!;;;;;;;;;;;Ìîæåò áûòü, ýòî... Ñâÿòîé Ãðààëü!;;x
+EVTOPTA8345;Let us pray...;;;;;;;;;;;Ïîìîëèìñÿ…;;x
+EVTOPTA8350;How will I live with the shame...;;;;;;;;;;;Êàê ìíå òåïåðü æèòü ñ ýòèì ïîçîðîì?;;x
+EVTOPTA8351;Curse the infidels!;;;;;;;;;;;Ïðîêëÿòûå íåâåðíûå!;;x
+EVTOPTA8400;Send a reminder immediately;;;;;;;;;;;Íåìåäëÿ îòïðàâèòü åù¸ îäèí ïðèçûâ;;x
+EVTOPTA8405;Crusades does not concern me;;;;;;;;;;;Êðåñòîâûå ïîõîäû ìåíÿ íå êàñàþòñÿ;;x
+EVTOPTA8410;Let it be know to them;;;;;;;;;;;Ïóñòü îíè óçíàþò îá ýòîì;;x
+EVTOPTA8415;Then so be it;;;;;;;;;;;Òàê òîìó è áûòü;;x
+EVTOPTA8420;Send [Root.Liege.GetHerHim] a reminder immediately;;;;;;;;;;;Íåìåäëåííî ïîñëàòü íàïîìèíàíèå î êðåñòîâîì ïîõîäå;;x
+EVTOPTA8425;I will not be told what to do by a vassal!;;;;;;;;;;;ß è áåç âàññàëà ðàçáåðóñü, ÷òî ìíå äåëàòü!;;x
+EVTOPTA8430;Let it be know to [Root.Liege.GetHerHim];;;;;;;;;;;Íåîáõîäèìî èçâåñòèòü ñþçåðåíà îá ýòîì;;x
+EVTOPTA8435;How dare [From.GetSheHe] question my decision?;;;;;;;;;;;Êàê ñìååò [From.GetSheHe] ïîäâåðãàòü ñîìíåíèþ ìî¸ ðåøåíèå?;;x
+EVTOPTA8440;Send [Root.Liege.GetHerHim] a reminder immediately;;;;;;;;;;;Íåìåäëåííî ïîñëàòü ê íåìó ãîíöà.;;x
+EVTOPTA8445;I will not be told what to do by a vassal!;;;;;;;;;;;Âàññàëû íå áóäóò óêàçûâàòü ìíå!;;x
+EVTOPTA8450;Let it be know to [Root.Liege.GetHerHim];;;;;;;;;;;ß äàë ïîíÿòü åìó ýòî.;;x
+EVTOPTA8455;How dare [From.GetSheHe] question my decision?;;;;;;;;;;;Êàê [From.GetSheHe] ñìååò ïîäâåðãàòü ñîìíåíèþ ìî¸ ðåøåíèå?;;x
+EVTOPTA8460;I will send out a proclamation.;;;;;;;;;;;ß îòîøëþ âîççâàíèå.;;x
+EVTOPTA8465;I will accept this offer;;;;;;;;;;;ß ïðèìó ýòî ïðåäëîæåíèå.;;x
+EVTOPTA8466;Lift the excommunication;;;;;;;;;;;Ñíÿòü îòëó÷åíèå îò Öåðêâè.;;x
+EVTOPTA8468;Odin, hear my call!;;;;;;;;;;;Îäèí, óñëûøü ìîé çîâ!;;x
+8469.a;[Root.Religion.GetHighGodNameCap] be praised!;;;;;;;;;;;Õâàëà Íåáåñàì!;;x
+EVTOPTB8405;I will join the cause.;;;;;;;;;;;ß ïðèñîåäèíþñü.;;x
+EVTOPTB8420;There is nothing I can do about it;;;;;;;;;;;ß íè÷åãî íå ìîãó ñ ýòèì ïîäåëàòü;;x
+EVTOPTB8425;I promise that I shall be on my way within a month;;;;;;;;;;;Îáåùàþ, ÷òî, íå ïðîéä¸ò è ìåñÿöà, è ÿ âûñòóïëþ â ïîõîä;;x
+EVTOPTB8440;I trust [Root.Liege.GetHerHis] decision;;;;;;;;;;;ß ñ ïîíèìàíèåì îòíîøóñü ê åãî ðåøåíèþ.;;x
+EVTOPTB8445;I promise that I shall be on my way within a month;;;;;;;;;;;ß îáåùàþ âñòàòü ïîä çíàìÿ Õðèñòà â òå÷åíèå ìåñÿöà.;;x
+EVTOPTB8465;Never!;;;;;;;;;;;Íèêîãäà!;;x

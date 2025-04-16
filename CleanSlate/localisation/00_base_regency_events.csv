@@ -1,252 +1,247 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC61000;My position as regent to [This.Liege.GetTitledFirstName] means that I have access to the treasury. I think I deserve a raise...;;;;;;;;;;;;;x
-EVTDESC61001;Money has been disappearing from the treasury. I suspect my regent, [From.GetTitledFirstName]...;;;;;;;;;;;;;x
-EVTDESC61002;Money has been disappearing from the coffers of my liege, [This.Liege.GetTitledFirstName]. I suspect the regent, [From.GetTitledFirstName]...;;;;;;;;;;;;;x
-EVTDESC61003;I have indisputable proof that my regent, [From.GetTitledFirstName] is embezzling money from the treasury!;;;;;;;;;;;;;x
-EVTDESC61004;My investigations have unearthed proof that the regent of [This.Liege.PrimaryTitle.GetName], [From.GetTitledFirstName], has been embezzling money!;;;;;;;;;;;;;x
-EVTDESC61100;As the regent of [Root.Liege.GetTitledFirstName], my duty is to safeguard the realm. I feel that one of [Root.Liege.GetHerHis] holdings would flourish much more under my direct supervision.;;;;;;;;;;;;;x
-EVTDESC61101;[Root.Regent.GetTitledName], your regent, has decided in [Root.Regent.GetHerHis] infinite wisdom that one of your titles would benefit the realm more if it was awarded directly to [Root.Regent.GetHerHim].;;;;;;;;;;;;;x
-EVTDESC61105;The poor of the realm have suffered terribly under the rule of [Root.Liege.GetTitledFirstName]. As [Root.Liege.GetHerHis] regent, I am in a position to give something back to the people.;;;;;;;;;;;;;x
-EVTDESC61106;[Root.Regent.GetTitledName], your regent, seems to have given in to [Root.Regent.GetHerHis] charitable nature and has been donating alms to the poor from your coffers. Worst of all, [Root.Regent.GetSheHe] has been doing it in your name!;;;;;;;;;;;;;x
-EVTDESC61110;The administration of your realm has improved significantly since [Root.Regent.GetTitledFirstName] became your regent. If only you had [Root.Regent.GetHerHis] skills!;;;;;;;;;;;;;x
-EVTDESC61120;[Root.Liege.GetTitledFirstName] is a decrepit fool and a pathetic shell of a [Root.Liege.GetManWoman]. As [Root.Liege.GetHerHis] appointed regent, I think the court needs a new jester...;;;;;;;;;;;;;x
-EVTDESC61121;As you sit powerless on your throne, your regent, [Root.Regent.GetTitledName], has made a regular habit of mocking you in front of the rest of the court - [Root.Regent.GetSheHe] hangs [Root.Regent.GetHerHis] coat on your head, [Root.Regent.GetSheHe] writes crude sentiments on your forehead with charcoal and one time [Root.Regent.GetSheHe] even cracked open a walnut using your teeth. The indignity!;;;;;;;;;;;;;x
-EVTDESC61122;[Root.Liege.Regent.GetTitledName], the regent of [Root.Liege.GetTitledFirstName], has been physically humiliating [Root.Liege.GetHerHim] in public. Due to the [Root.Liege.GetTitle]'s infirm nature, [Root.Liege.GetSheHe] is powerless to resist. Honor demands that you put an end to this disgrace!;;;;;;;;;;;;;x
-EVTDESC61123;The way your regent has been treating you has not gone unnoticed. [From.GetTitledName] approaches you alone one evening to express [From.GetHerHis] disgust at the vile indignities you have been made to suffer. Eyes tearful with anger, [From.GetSheHe] promises to take action against your regent... if only you would give your approval.;;;;;;;;;;;;;x
-EVTDESC61124;Though [Root.Liege.GetSheHe] is not quite [Root.Liege.GetHerselfHimself] these days, you feel that your liege has given [Root.Liege.GetHerHis] blessing to take decisive action against [Root.Liege.Regent.GetTitledName]. Rally some dependable men! The realm needs a new regent!;;;;;;;;;;;;;x
-EVTDESC61125;We have trapped [Root.Liege.Regent.GetFirstName] in one of the castle towers like a cornered rat! Those few guards at court that supported [Root.Liege.Regent.GetHerHim] have fled or been cut down.;;;;;;;;;;;;;x
-EVTDESC61127;[Root.Liege.Regent.GetFirstName] had more support at court than expected. We fought bravely in defense of the realm, but most of the guards rallied to the side of [Root.Liege.Regent.GetFirstName]. All is lost!;;;;;;;;;;;;;x
-EVTDESC61128;[From.GetTitledName], the fool, has decided to end your regency out of misguided sympathy for [Root.Liege.GetTitledFirstName]. Fortunately enough guards rallied to your side to thwart [From.GetHerHis] little scheme.;;;;;;;;;;;;;x
-EVTDESC61129;[From.GetTitledName], the fool, has decided to end your regency out of misguided sympathy for [Root.Liege.GetTitledFirstName]. The treacherous guards seem to have left you to your fate!;;;;;;;;;;;;;x
-EVTDESC61130;[From.GetTitledFirstName] failed to replace your regent and is now languishing in your castle dungeons. It seems your suffering at the hands of [Root.Regent.GetTitledFirstName] will end only in the blissful embrace of death...;;;;;;;;;;;;;x
-EVTDESC61131;From where you were propped up on your throne, you could hear shouting and the distinct sound of steel striking steel inside the castle. The men loyal to [From.GetTitledFirstName] prevailed against [Root.Regent.GetTitledFirstName]! No longer will [Root.Regent.GetHerHis] vile presence be felt at court, and a new regent is to be appointed forthwith.;;;;;;;;;;;;;x
-EVTDESC61135;As you ride through the empty corridors of your castle on your trusty wooden stick horse, you come across your regent, [Root.Regent.GetTitledName], getting some fresh air on a balcony... with [Root.Regent.GetHerHis] back turned against you.;;;;;;;;;;;;;x
-EVTDESC61140;It suddenly dawns on you - when [Root.Liege.GetTitledFirstName] comes of age, your title as regent of the realm is forfeit. Perhaps something could be done to extend your enlightened stewardship of the throne... for the good of the realm, of course.;;;;;;;;;;;;;x
-EVTDESC61141;It is becoming increasingly obvious that [Root.Liege.GetTitledFirstName] is a very... special child. You can no longer explain away [Root.Liege.GetHerHis] growing madness as the mere eccentricities of youth.;;;;;;;;;;;;;x
-EVTDESC61142;The mad [Root.Liege.GetTitledFirstName] has been imprisoned in one of the castle towers, and your regency will continue until the child is declared sound of mind, regardless of [Root.Liege.GetHerHis] age.;;;;;;;;;;;;;x
-EVTDESC61145;Through skillful conniving, you have managed to see [Root.Liege.GetTitledFirstName] declared insane. Until [Root.Liege.GetHerHis] mental state improves, the child will remain locked up in one of the castle towers while your illustrious regency continues.;;;;;;;;;;;;;x
-EVTDESC61146;All of your attempts to have [Root.Liege.GetTitledFirstName] declared insane have failed. Before long the [Root.Liege.GetLadLass] will be a [Root.Liege.GetManWoman], and you may have made yourself a powerful enemy...;;;;;;;;;;;;;x
-EVTDESC61150;Your regent, [Root.Regent.GetTitledName], seems to have been conspiring to have you declared insane in a futile attempt to extend [Root.Regent.GetHerHis] regency. Unfortunately for [Root.Regent.GetHerHim], it is obvious to all that you are sound of mind.;;;;;;;;;;;;;x
-EVTDESC61151;Your scheming snake of a regent, [Root.Regent.GetFirstName], has managed to convince the court that you are insane! The decision has been made to lock you up in one of the castle towers until you are deemed mentally fit to rule, regardless of your age.;;;;;;;;;;;;;x
-EVTDESC61152;Your wretch of a former regent that saw you imprisoned on charges of insanity no longer wields any influence at court. The new regent has released you.;;;;;;;;;;;;;x
-EVTDESC61155;For fifteen years [Root.Liege.GetTitledFirstName] has been locked up under guard while you have served as [Root.Liege.GetHerHis] regent. You are the true ruler of the realm in all but name. Perhaps the time has come to end this charade.;;;;;;;;;;;;;x
-EVTDESC61156;At long last, the throne is yours. The degrading charade you have been forced to endure all these years has come to an end. You are [Root.Liege.GetTitle] now, both in title and practise. Long live the [Root.Liege.GetTitle]!;;;;;;;;;;;;;x
-EVTDESC61157;The ingrates at court have refused to embrace you as their true liege! For your audacity in pursuing this claim, they have stripped you of your title as regent and released [Root.Liege.GetTitledFirstName] from [Root.Liege.GetHerHis] imprisonment.;;;;;;;;;;;;;x
-EVTDESC61160;Your treacherous regent seems to have finally bitten off more than [Root.Regent.GetSheHe] could chew. An attempt to completely usurp your throne has backfired, and [Root.Regent.GetTitledName] has been stripped of [Root.Regent.GetHerHis] title as regent. You have been released, and can now assume your rightful position as [Root.GetLordLady] of this realm.;;;;;;;;;;;;;x
-EVTDESC61161;While you were locked up, your regent has been busily gathering enough support at court to finally steal away your title. The despicable theft of your birthright is now complete.;;;;;;;;;;;;;x
-EVTDESC61165;You cunningly trick one of the guards into leaving the door to your tower unlocked. After escaping into the castle, you kick open the door to the main chamber where your jackal regent [Root.Regent.GetFirstName] sits bewildered on your throne. As the confused courtiers whisper to each other, you bellow at the top of your lungs:;;;;;;;;;;;;;x
-EVTDESC61166;The guards escort you back to your tower and nail the door shut from the outside...;;;;;;;;;;;;;x
-EVTDESC61170;Disaster! Somehow [Root.Liege.GetTitledFirstName] has managed to escape from his tower and rally enough support to oust you from your position as regent! The guards turn on you and throw you into the dungeon.;;;;;;;;;;;;;x
-EVTDESC61190;The throne shan't be yours so long as [Root.Liege.GetTitledFirstName] draws breath. If an accident was to befall the whelp... they happen so easily, after all. As [Root.Liege.GetHerHis] regent, perhaps you should appoint some simple chores to the [Root.Liege.GetLadLass]. The castle roof has long needed to be scrubbed clean of bird-droppings...;;;;;;;;;;;;;x
-EVTDESC61191;At times you can't shake the feeling that your regent, [Root.Regent.GetTitledName], does not always have your best in mind. Claiming it will build character, [Root.Regent.GetSheHe] has given you the dangerous task of scrubbing away bird-droppings from the castle roof. If you lose your balance even once...;;;;;;;;;;;;;x
-EVTDESC61192;You had a few close calls, but the roof is now shining clean and you made it down in one piece. If the confounded birds return, you will have a chance to hone your skills at archery.;;;;;;;;;;;;;x
-EVTDESC61195;So the child has a good sense of balance. No matter. Perhaps a trip to the countryside would do [Root.Liege.GetTitledFirstName] some good. There are some dense woods not far from here, infested with wolves and bandits. One could easily get lost in them...;;;;;;;;;;;;;x
-EVTDESC61196;[Root.Regent.GetFirstName], your regent, has arranged for you to tour the nearby countryside and visit your subjects living there. As you enter a dense forest, your escort mysteriously melts away into the brush and you are left to fend for yourself.;;;;;;;;;;;;;x
-EVTDESC61197;The guards at the castle gates nearly turn you away as peasant rabble when you finally make it back. Your face is caked with dirt, your fancy clothes are torn, but your signet ring proves your identity. Blind luck alone helped you conceal it from the bandits you met on the way.;;;;;;;;;;;;;x
-EVTDESC61200;Unbelievable... the runt made it back alive! Well, this time I have arranged for a special carriage to take [Root.Liege.GetTitledFirstName] to meet with a foreign dignitary. The driver has been instructed to lose control of the carriage at a certain point on the journey, sending the whole thing careening down a ravine...;;;;;;;;;;;;;x
-EVTDESC61201;Your old bore of a regent, [Root.Regent.GetFirstName], wants you to meet with some foreign dignitary in the middle of nowhere. As your carriage travels alongside a deep ravine, the driver suddenly seems to lose control of the horses...;;;;;;;;;;;;;x
-EVTDESC61202;You throw yourself to safety only moments before the carriage loses one of its wheels, tips over and plummets down the ravine. The driver, who jumped off at the first sign of trouble, looks at you with a frown that almost seems disappointed.;;;;;;;;;;;;;x
-EVTDESC61205;You take a moment up on the castle ramparts to contemplate your bad luck in dealing with [Root.Liege.GetTitledFirstName], only to see the carefree little scamp strut past below. Next to you is an especially corpulent guard leaning half-asleep against his halberd. A gentle push could send him falling down on [Root.Liege.GetFirstName]...;;;;;;;;;;;;;x
-EVTDESC61206;You walk through the castle courtyard minding your own business when a dark shadow suddenly forms around you. There is just enough time to look up and see the screaming, grossly overweight guard tumbling down at you from the upper ramparts.;;;;;;;;;;;;;x
-EVTDESC61207;As if by divine intervention, the guard narrowly misses you and impacts the ground just ahead with a heavy, bone-shattering thud. Above, on the rampart from which he fell, stands your regent, [Root.Regent.GetFirstName]. With a trembling voice [Root.Regent.GetSheHe] asks if you are all right.;;;;;;;;;;;;;x
-EVTDESC61210;Enough games. If you want the [Root.Liege.GetLadLass] dead, you will clearly have to take more direct action! Blinded by rage and with your best dagger in hand, you rush towards [Root.Liege.GetHerHis] bedchamber...;;;;;;;;;;;;;x
-EVTDESC61211;You retreat to your bedchamber to consider the unlikely series of accidents you have suffered recently. Suddenly the door flies ajar with a bang. Your regent, [Root.Regent.GetTitledName], stands before you, [Root.Regent.GetHerHis] eyes burning with hatred. A sharp dagger is clutched in [Root.Regent.GetHerHis] hand and without a word, [Root.Regent.GetSheHe] lunges at you...;;;;;;;;;;;;;x
-EVTDESC61212;[Root.Regent.GetFirstName] stabs wildly in the air with [Root.Regent.GetHerHis] dagger, missing you by a hair's breadth as you leap away in panic. Guards rush inside and pull your regent away as [Root.Regent.GetSheHe] screams, "Why won't you die?!";;;;;;;;;;;;;x
-EVTDESC61213;Before you can plunge your blade into the wretched little monster's heart, [Root.Liege.GetHerHis] guards intervene and you are dragged away kicking and screaming to the dungeons. Can't they see that [Root.Liege.GetSheHe] HAS to die?;;;;;;;;;;;;;x
-EVTDESC61215;Somehow [Root.Liege.Regent.GetTitledName] has managed to worm [Root.Liege.Regent.GetHerHis] way into being titled regent of poor [Root.Liege.GetTitledFirstName]. This grave error could cost the realm dearly - clearly there is no one better qualified than you for this position.;;;;;;;;;;;;;x
-EVTDESC61216;Doubts have been expressed at court whether you truly have the skill and ability required to serve as the [Root.Liege.GetTitle]'s regent. [From.GetTitledName] has accused you of incompetence and is arguing that the realm would benefit much more if [From.GetSheHe] was regent.;;;;;;;;;;;;;x
-EVTDESC61217;You have successfully made your case at court, and been appointed as the new regent of [Root.Liege.GetTitledFirstName]. The realm is now safely delivered from the incompetent hands of [Root.Liege.Regent.GetTitledName].;;;;;;;;;;;;;x
-EVTDESC61218;It seems [Root.Liege.Regent.GetTitledName] had too many friends at court. Your attempts to replace [Root.Liege.Regent.GetHerHim] as regent have met with failure, and [Root.Liege.Regent.GetSheHe] is none too pleased...;;;;;;;;;;;;;x
-EVTDESC61219;You have successfully thwarted your opponent's designs on your regency, and can continue to serve at the pleasure of [Root.Liege.GetTitledFirstName].;;;;;;;;;;;;;x
-EVTDESC61220;[From.GetTitledName] has somehow managed to convince the sycophants at court to appoint [From.GetHerHim] as the new regent of [Root.Liege.GetTitledFirstName].;;;;;;;;;;;;;x
-EVTDESC61221;[From.GetTitledName] has accused you of cowardice and incompetence! He claims you are not fit to serve as the regent of [Root.Liege.GetTitledFirstName], and has challenged you to single combat for the title.;;;;;;;;;;;;;x
-EVTDESC61222;That madman [Root.Liege.Regent.GetTitledName] has challenged you to a duel in what can only be a desperate bid to preserve his regency. What say you?;;;;;;;;;;;;;x
-EVTDESC61223;[Root.Liege.Regent.GetTitledName] has accepted your terms. As dawn breaks, you meet on a field just outside [Root.Location.GetName]. The mist still lies thick on the ground and the brilliance of the early morning sun is reflected in the shining steel of your weapons and armor. It is a good day to die.;;;;;;;;;;;;;x
-EVTDESC61224;[From.GetTitledName] has accepted your terms. As dawn breaks, you meet on a field just outside [Root.Location.GetName]. The mist still lies thick on the ground and the brilliance of the early morning sun is reflected in the shining steel of your weapons and armor. It is a good day to die.;;;;;;;;;;;;;x
-EVTDESC61225;The blood of your opponent seeps into the ground as you lean on your sword to catch your breath. It was a brief and violent struggle, but the poor fool lies dead at your feet.;;;;;;;;;;;;;x
-EVTDESC61226;The blood of your opponent seeps into the ground as you lean on your sword to catch your breath. It was a brief and violent struggle, but the poor fool lies maimed at your feet, clinging pitifully to life. The day is yours.;;;;;;;;;;;;;x
-EVTDESC61226_HF;With [From.GetFirstName] defeated, nobody is left to contest my claim to the regency [Root.Liege.PrimaryTitle.GetName]. It is blatant to everybody at court that only my lead can ensure the prosperity and stability of the realm during these dangerous times.;;;;;;;;;;;;;x
-EVTDESC61227;As the blackness recedes and your sight returns, you find yourself lying on your back in the tall grass. You feel the warm, sticky sensation of blood gushing from a deep wound somewhere beneath your mail. Your foe leans over you in silence, ready to deal the finishing blow, but to your shame elects to spare your wretched life.;;;;;;;;;;;;;x
-EVTDESC61230;As the blackness recedes and your sight returns, you find yourself lying on your back in the tall grass. You feel the warm, sticky sensation of blood gushing from a deep wound somewhere under your mail. Your foe leans over you in silence, ready to deal the finishing blow, but to your shame elects to spare your wretched life.;;;;;;;;;;;;;x
-EVTDESC61231;You arrive at the agreed upon location of the duel, only to find that [From.GetTitledName] is nowhere to be found. The coward dares not face you after all!;;;;;;;;;;;;;x
-EVTDESC61232;Your opponent plunges his sword deep into your flank, and it takes you a few confused moments to realize all that blood is coming from you. You fall to your knees as life fades away...;;;;;;;;;;;;;x
-EVTDESC61235;Your former regent has been bested in single combat. The duel's victor, [Root.Liege.Regent.GetTitledName], has taken his place.;;;;;;;;;;;;;x
-EVTDESC61236;Due to court intrigue well beyond your present ability to comprehend, your current serving regent has been replaced with another.;;;;;;;;;;;;;x
-EVTDESC61237;I should be the one to rule in my husband's stead, not [Root.Liege.Regent.GetTitledName]. It is only proper.;;;;;;;;;;;;;x
-EVTDESC61238;As Queen Mother, I have decided to take over the responsibilities and duties of [Root.Liege.GetTitledFirstName]'s regency.;;;;;;;;;;;;;x
-EVTDESC61239;Your loving wife has decided that she would do a better job serving as your regent. After all, who but her could rule the realm in accordance with your own desires?;;;;;;;;;;;;;x
-EVTDESC61240;The Queen Mother has used her considerable influence to step in as your regent. May the realm benefit from her wisdom and experience.;;;;;;;;;;;;;x
-EVTDESC61245;Like the spineless coward [From.GetSheHe] is, [From.GetTitledFirstName] has refused to rise to your challenge!;;;;;;;;;;;;;x
-EVTDESC61246;In a desperate effort to save [From.GetHerHis] skin, [From.GetTitledFirstName] has decided to abdicate the position of regent to you.;;;;;;;;;;;;;x
-EVTDESC61300;My position as regent to [Root.Liege.GetTitledName] would allow me to lower the Crown Authority in the [Root.PrimaryTitle.Kingdom.GetName]...;;;;;;;;;;;;;x
-EVTDESC61301;My regent, [From.GetTitledName], has managed to push through a law lowering the Crown Authority in the [Root.PrimaryTitle.Kingdom.GetName]!;;;;;;;;;;;;;x
-EVTDESC61302;My position as regent to [Root.Liege.GetTitledName] would allow me to lower the Crown Authority in the [Root.PrimaryTitle.Empire.GetName]...;;;;;;;;;;;;;x
-EVTDESC61303;My regent, [From.GetTitledName], has managed to push through a law lowering the Crown Authority in the [Root.PrimaryTitle.Empire.GetName]!;;;;;;;;;;;;;x
-
-EVTOPTA61000;Aah, sweet, filthy lucre!;;;;;;;;;;;;;x
-EVTOPTA61001;But there is no proof!;;;;;;;;;;;;;x
-EVTOPTA61003;The Traitor!;;;;;;;;;;;;;x
-EVTOPTA61100;[Root.Liege.GetTitledFirstName] wills it!;;;;;;;;;;;;;x
-EVTOPTA61101;*drool*;;;;;;;;;;;;;x
-EVTOPTA61105;Here you are... courtesy of [Root.Liege.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTOPTA61106;Ggghnnn..n-n-nooooo...!;;;;;;;;;;;;;x
-EVTOPTA61110;*emit grunt of approval*;;;;;;;;;;;;;x
-EVTOPTA61120;Humiliate [Root.Liege.GetHerHim] in front of the court.;;;;;;;;;;;;;x
-EVTOPTA61121;*suffer series of involuntary spasms*;;;;;;;;;;;;;x
-EVTOPTA61122;Approach [Root.Liege.GetTitledFirstName] and seek [Root.Liege.GetHerHis] blessing to act.;;;;;;;;;;;;;x
-EVTOPTA61123;*nod head almost imperceptibly*;;;;;;;;;;;;;x
-EVTOPTA61124;It is only fair that I serve as regent of [Root.Liege.GetTitledFirstName].;;;;;;;;;;;;;x
-EVTOPTA61125;Off to the dungeons with [Root.Liege.Regent.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTA61127;Unhand me in the name of [Root.Liege.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTOPTA61128;Let [From.GetHerHim] rot in the dungeons.;;;;;;;;;;;;;x
-EVTOPTA61129;Have you no sense of humor?;;;;;;;;;;;;;x
-EVTOPTA61130;*blink away single tear*;;;;;;;;;;;;;x
-EVTOPTA61131;*contort face in grimace vaguely resembling smile*;;;;;;;;;;;;;x
-EVTOPTA61135;Charge!;;;;;;;;;;;;;x
-EVTOPTA61140;The whelp is not fit to rule - not now, not ever!;;;;;;;;;;;;;x
-EVTOPTA61141;This is not a decision I take lightly, but something must be done.;;;;;;;;;;;;;x
-EVTOPTA61142;It is for the good of the realm.;;;;;;;;;;;;;x
-EVTOPTA61145;Ha! That day will never come.;;;;;;;;;;;;;x
-EVTOPTA61146;Well, [Root.Liege.GetSheHe] looked insane to me...;;;;;;;;;;;;;x
-EVTOPTA61150;Some day [Root.Regent.GetSheHe] will regret this treachery.;;;;;;;;;;;;;x
-EVTOPTA61151;I'm not insane! I'm not!;;;;;;;;;;;;;x
-EVTOPTA61152;Not a moment too soon.;;;;;;;;;;;;;x
-EVTOPTA61155;Seize the throne!;;;;;;;;;;;;;x
-EVTOPTA61156;I earned this.;;;;;;;;;;;;;x
-EVTOPTA61157;Fools! The realm will suffer now.;;;;;;;;;;;;;x
-EVTOPTA61160;Is... is that the sun?;;;;;;;;;;;;;x
-EVTOPTA61161;This is not happening...;;;;;;;;;;;;;x
-EVTOPTA61165;Hear me! I am the rightful [Root.GetLordLady] of this land!;;;;;;;;;;;;;x
-EVTOPTA61166;If this is to be my kingdom, then so be it.;;;;;;;;;;;;;x
-EVTOPTA61170;It was not to be.;;;;;;;;;;;;;x
-EVTOPTA61190;It builds character.;;;;;;;;;;;;;x
-EVTOPTA61191;Isn't this what servants are for?;;;;;;;;;;;;;x
-EVTOPTA61192;An honest day's work.;;;;;;;;;;;;;x
-EVTOPTA61195;Come, [Root.Liege.GetFirstName]. You are going on a little trip.;;;;;;;;;;;;;x
-EVTOPTA61196;H-hello? Anyone?;;;;;;;;;;;;;x
-EVTOPTA61197;My feet hurt.;;;;;;;;;;;;;x
-EVTOPTA61200;You leave at dawn, [Root.Liege.GetFirstName].;;;;;;;;;;;;;x
-EVTOPTA61201;*scream like a girl*;;;;;;;;;;;;;x
-EVTOPTA61202;The clumsy oaf should hang for this.;;;;;;;;;;;;;x
-EVTOPTA61205;*tackle the guard with all your might*;;;;;;;;;;;;;x
-EVTOPTA61206;Oh dear.;;;;;;;;;;;;;x
-EVTOPTA61207;Better than the guard.;;;;;;;;;;;;;x
-EVTOPTA61210;DIE!!!;;;;;;;;;;;;;x
-EVTOPTA61211;Help! Guards!;;;;;;;;;;;;;x
-EVTOPTA61212;Did... did I miss something?;;;;;;;;;;;;;x
-EVTOPTA61212_B_TT; is thrown into a dark cell.;;;;;;;;;;;;;x
-EVTOPTA61212_TT; becomes the new §YRegent§! of [Root.PrimaryTitle.GetName].;;;;;;;;;;;;;x
-EVTOPTA61213;Let me kill [Root.Liege.GetHerHim]. Just a little bit.;;;;;;;;;;;;;x
-EVTOPTA61215;Challenge the coward to single combat!;;;;;;;;;;;;;x
-EVTOPTA61216;Challenge the coward to single combat!;;;;;;;;;;;;;x
-EVTOPTA61217;[Root.Liege.GetTitledFirstName] should be pleased.;;;;;;;;;;;;;x
-EVTOPTA61218;I did it for [Root.Liege.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTOPTA61219;Those who doubted me will be sorry.;;;;;;;;;;;;;x
-EVTOPTA61220;Fools!;;;;;;;;;;;;;x
-EVTOPTA61221;At last, someone who understands politics!;;;;;;;;;;;;;x
-EVTOPTA61222;Ha! I would have it no other way!;;;;;;;;;;;;;x
-EVTOPTA61223;Have at thee!;;;;;;;;;;;;;x
-EVTOPTA61224;Come then. Let us settle this.;;;;;;;;;;;;;x
-EVTOPTA61225;The matter is settled.;;;;;;;;;;;;;x
-EVTOPTA61226;Learn from this. Do not oppose me again.;;;;;;;;;;;;;x
-EVTOPTA61227;I have been robbed of a glorious death.;;;;;;;;;;;;;x
-EVTOPTA61228;There was never any doubt how this would end.;;;;;;;;;;;;;x
-EVTOPTA61229;Be gone from my sight. Ye are not fit to serve the [Root.Liege.GetTitle].;;;;;;;;;;;;;x
-EVTOPTA61230;I have been robbed of a glorious death.;;;;;;;;;;;;;x
-EVTOPTA61231;That worm.;;;;;;;;;;;;;x
-EVTOPTA61232;It wasn't supposed to end like this...;;;;;;;;;;;;;x
-EVTOPTA61237;Make it so!;;;;;;;;;;;;;x
-EVTOPTA61238;[Root.Liege.Regent.GetTitledName], you are dismissed.;;;;;;;;;;;;;x
-EVTOPTA61239;No one.;;;;;;;;;;;;;x
-EVTOPTA61240;So be it!;;;;;;;;;;;;;x
-EVTOPTA61245;Milksop! Worm!;;;;;;;;;;;;;x
-EVTOPTA61246;Well, that was easy.;;;;;;;;;;;;;x
-EVTOPTA61300;Make it so!;;;;;;;;;;;;;x
-EVTOPTA61301;I shall remember this...;;;;;;;;;;;;;x
-
-EVTOPTB61000;Perish the thought!;;;;;;;;;;;;;x
-EVTOPTB61100;Nay, I must remember the limits of my station.;;;;;;;;;;;;;x
-EVTOPTB61101;*stare vacantly ahead*;;;;;;;;;;;;;x
-EVTOPTB61105;Tempting, but the gold isn't mine to spend.;;;;;;;;;;;;;x
-EVTOPTB61120;Perhaps I had better not.;;;;;;;;;;;;;x
-EVTOPTB61121;*bob head in reckless, unpredictable manner*;;;;;;;;;;;;;x
-EVTOPTB61122;Ah, the fool deserves no less.;;;;;;;;;;;;;x
-EVTOPTB61123;*sag head and lapse into deep slumber*;;;;;;;;;;;;;x
-EVTOPTB61124;Anyone is better than [Root.Liege.Regent.GetFirstName].;;;;;;;;;;;;;x
-EVTOPTB61130;*utter incomprehensible oath*;;;;;;;;;;;;;x
-EVTOPTB61131;*flail arms about in wild celebration*;;;;;;;;;;;;;x
-EVTOPTB61135;No, I'm a good [Root.GetLadLass].;;;;;;;;;;;;;x
-EVTOPTB61140;For better or worse, I will step down when the [Root.Liege.GetLadLass] is ready.;;;;;;;;;;;;;x
-EVTOPTB61141;Perhaps the madness will disappear with age and maturity...;;;;;;;;;;;;;x
-EVTOPTB61146;[Root.Religion.GetRandomGodNameCap] help us when that [Root.Liege.GetLadLass] sits on the throne...;;;;;;;;;;;;;x
-EVTOPTB61150;I'm not mad. Tell them, Mr. Flibble.;;;;;;;;;;;;;x
-EVTOPTB61151;I shall plead with the King of the Turnip People for my freedom.;;;;;;;;;;;;;x
-EVTOPTB61152;Watch out, world! Here I come!;;;;;;;;;;;;;x
-EVTOPTB61155;No, appearances must be kept.;;;;;;;;;;;;;x
-EVTOPTB61165;GOBBLEDYGOOK!;;;;;;;;;;;;;x
-EVTOPTB61190;No, that would not be worthy of a [Root.Liege.GetTitle].;;;;;;;;;;;;;x
-EVTOPTB61195;The risk is too great.;;;;;;;;;;;;;x
-EVTOPTB61200;It will never work.;;;;;;;;;;;;;x
-EVTOPTB61205;No, fortune clearly favors this [Root.Liege.GetLadLass].;;;;;;;;;;;;;x
-EVTOPTB61210;I must keep my wits about. I could lose everything...;;;;;;;;;;;;;x
-EVTOPTB61215;Make your case at court.;;;;;;;;;;;;;x
-EVTOPTB61216;Rally support at court.;;;;;;;;;;;;;x
-EVTOPTB61221;I need not prove my martial prowess.;;;;;;;;;;;;;x
-EVTOPTB61222;Surely you jest... a duel? He can keep the bloody regency.;;;;;;;;;;;;;x
-EVTOPTB61223;By [Root.Religion.GetRandomGodName], what have I gotten myself into? I will have no part in this madness.;;;;;;;;;;;;;x
-EVTOPTB61224;He actually came? I... I am needed elsewhere.;;;;;;;;;;;;;x
-EVTOPTB61226;By [Root.Religion.GetRandomGodName], ye shan't leave this field alive.;;;;;;;;;;;;;x
-EVTOPTB61229;Only one of us can leave this field alive, friend. I am sorry.;;;;;;;;;;;;;x
-EVTOPTB61239;I have a wife?;;;;;;;;;;;;;x
-EVTOPTB61300;No, the Crown comes first!;;;;;;;;;;;;;x
-
-EVTOPTC61155;I have had enough. Release the [Root.Liege.GetLadLass].;;;;;;;;;;;;;x
-EVTOPTC61215;It is not worth the effort.;;;;;;;;;;;;;x
-EVTOPTC61216;Abdicate your position.;;;;;;;;;;;;;x
-EVTOPTC61221;If he wants the title so badly, he can have it.;;;;;;;;;;;;;x
-EVTOPTC61239;That hag!;;;;;;;;;;;;;x
-
-EVTTOOLTIP61001;My liege suspects my corruption;;;;;;;;;;;;;x
-EVTTOOLTIP61002;The Steward suspects my corruption;;;;;;;;;;;;;x
-EVTTOOLTIP61003;My liege has proof of my corruption;;;;;;;;;;;;;x
-EVTTOOLTIP61004;The Steward has proof of my corruption;;;;;;;;;;;;;x
-EVTTOOLTIP61101;You usurp a title from [Root.Liege.GetTitledFirstName].;;;;;;;;;;;;;x
-EVTTOOLTIP61106;You give alms to the poor in the name of [Root.Liege.GetTitledFirstName].;;;;;;;;;;;;;x
-EVTTOOLTIP61121;Those in court with low opinion of [Root.Liege.GetHerHim] approve.;;;;;;;;;;;;;x
-EVTTOOLTIP61123;You speak with the [Root.Liege.GetTitle].;;;;;;;;;;;;;x
-EVTTOOLTIP61124;You give [From.GetTitledName] your blessing.;;;;;;;;;;;;;x
-EVTTOOLTIP61125;you becoming the next regent.;;;;;;;;;;;;;x
-EVTTOOLTIP61126;the court appointing a new regent.;;;;;;;;;;;;;x
-EVTTOOLTIP61127;you being thrown in the dungeons.;;;;;;;;;;;;;x
-EVTTOOLTIP61129;[Root.Liege.Regent.GetFirstName] is thrown in the dungeons.;;;;;;;;;;;;;x
-EVTTOOLTIP61145;having [Root.Liege.GetTitledFirstName] declared insane.;;;;;;;;;;;;;x
-EVTTOOLTIP61146;failing to do so.;;;;;;;;;;;;;x
-EVTTOOLTIP61156;stealing the throne.;;;;;;;;;;;;;x
-EVTTOOLTIP61157;failing miserably.;;;;;;;;;;;;;x
-EVTTOOLTIP61160;The [Root.Liege.GetTitle] is set free!;;;;;;;;;;;;;x
-EVTTOOLTIP61161;A new [Root.Liege.GetTitle].;;;;;;;;;;;;;x
-EVTTOOLTIP61166;Well, you gave it your best shot...;;;;;;;;;;;;;x
-EVTTOOLTIP61170;Your regent is arrested.;;;;;;;;;;;;;x
-EVTTOOLTIP61191;May perish in an unfortunate accident.;;;;;;;;;;;;;x
-EVTTOOLTIP61192;a roof free of bird excrements.;;;;;;;;;;;;;x
-EVTTOOLTIP61197;safely returning to civilization (such as it is).;;;;;;;;;;;;;x
-EVTTOOLTIP61202;surviving a tragic carriage accident.;;;;;;;;;;;;;x
-EVTTOOLTIP61207;not cushioning the guard's fall at your own expense.;;;;;;;;;;;;;x
-EVTTOOLTIP61211;May perish in an unfortunate stabbing spree.;;;;;;;;;;;;;x
-EVTTOOLTIP61212;bravely evading the dagger.;;;;;;;;;;;;;x
-EVTTOOLTIP61213;Thrown into a dark cell.;;;;;;;;;;;;;x
-EVTTOOLTIP61216;Regency put into question.;;;;;;;;;;;;;x
-EVTTOOLTIP61217;Becomes new regent.;;;;;;;;;;;;;x
-EVTTOOLTIP61219;successfully defending your regency.;;;;;;;;;;;;;x
-EVTTOOLTIP61220;losing your regency to [From.GetTitledName].;;;;;;;;;;;;;x
-EVTTOOLTIP61221;The challenge is issued!;;;;;;;;;;;;;x
-EVTTOOLTIP61223;Challenge accepted!;;;;;;;;;;;;;x
-EVTTOOLTIP61225;delivering a killing blow.;;;;;;;;;;;;;x
-EVTTOOLTIP61226;inflicting a serious wound.;;;;;;;;;;;;;x
-EVTTOOLTIP61227;The regent loses, is maimed.;;;;;;;;;;;;;x
-EVTTOOLTIP61228;delivering a killing blow.;;;;;;;;;;;;;x
-EVTTOOLTIP61229;inflicting a serious wound.;;;;;;;;;;;;;x
-EVTTOOLTIP61230;spared from death.;;;;;;;;;;;;;x
-EVTTOOLTIP61231;Informed of your shameful cowardice.;;;;;;;;;;;;;x
-EVTTOOLTIP61232;is put out of his misery.;;;;;;;;;;;;;x
+EVTDESC61000;My position as regent to [This.Liege.GetTitledFirstName] means that I have access to the treasury. I think I deserve a raise...;;;;;;;;;;;Ìîé ïîñò ðåãåíòà ïðè ïðàâèòåëå [This.Liege.GetTitledFirstName] îçíà÷àåò, ÷òî ó ìåíÿ åñòü äîñòóï ê ñîêðîâèùíèöå. Âîçìîæíî, ÿ çàñëóæèë[Root.GetEndA] íåáîëüøîé ïîäàðîê...;;x
+EVTDESC61001;Money has been disappearing from the treasury. I suspect my regent, [From.GetTitledFirstName]...;;;;;;;;;;;Çîëîòî èñ÷åçëî èç ñîêðîâèùíèöû. ß ïîäîçðåâàþ, ÷òî ê ýòîìó èìååò îòíîøåíèå ìîé ðåãåíò, [From.GetTitledFirstName]...;;x
+EVTDESC61002;Money has been disappearing from the coffers of my liege, [This.Liege.GetTitledFirstName]. I suspect the regent, [From.GetTitledFirstName]...;;;;;;;;;;;Çîëîòî èñ÷åçëî èç ñîêðîâèùíèöû ìîåãî ñþçåðåíà. ß ïîäîçðåâàþ, ÷òî â ýòîì ïîâèíåí ðåãåíò, [From.GetTitledFirstName]...;;x
+EVTDESC61003;I have indisputable proof that my regent, [From.GetTitledFirstName] is embezzling money from the treasury!;;;;;;;;;;;Ó ìåíÿ åñòü íåîïðîâåðæèìûå äîêàçàòåëüñòâà òîãî, ÷òî ìîé ðåãåíò, [From.GetTitledFirstName] êðàä¸ò çîëîòî èç êàçíû!;;x
+EVTDESC61004;My investigations have unearthed proof that the regent of [This.Liege.PrimaryTitle.GetName], [From.GetTitledFirstName], has been embezzling money!;;;;;;;;;;;Ìî¸ ðàññëåäîâàíèå âûÿâèëî íåîïðîâåðæèìûå äîêàçàòåëüñòâà òîãî, ÷òî ðåãåíò, [From.GetTitledFirstName], ÿâëÿåòñÿ êàçíîêðàäîì!;;x
+EVTDESC61100;As the regent of [Root.Liege.GetTitledFirstName], my duty is to safeguard the realm. I feel that one of [Root.Liege.GetHerHis] holdings would flourish much more under my direct supervision.;;;;;;;;;;;[Root.Liege.GetTitledFirstName] íóæäàåòñÿ â äîëæíîé çàáîòå î ñâîåé ñòðàíå, è ìîé äîëã êàê [Root.Liege.GetHersHis] ðåãåíòà - ýòó çàáîòó îáåñïå÷èòü. Äóìàþ, îäíî èç [Root.Liege.GetHersHis] âëàäåíèé ïîä ìîèì íåïîñðåäñòâåííûì ðóêîâîäñòâîì äîáü¸òñÿ áîëüøåãî óñïåõà è ïðîöâåòàíèÿ.;;x
+EVTDESC61101;[Root.Regent.GetTitledName], your regent, has decided in [Root.Regent.GetHerHis] infinite wisdom that one of your titles would benefit the realm more if it was awarded directly to [Root.Regent.GetHerHim].;;;;;;;;;;;[Root.Regent.GetTitledName], Âàø ðåãåíò, ïðèíÿë[Root.Regent.GetEndA] ðåøåíèå â ñâîåé áåñêîíå÷íîé ìóäðîñòè, ÷òî îäèí èç Âàøèõ òèòóëîâ ïåðåéäÿ ê í[Root.Regent.GetHerHim], ïðèíåñ¸ò íàìíîãî áîëüøå ïîëüçû ýòèì çåìëÿì.;;x
+EVTDESC61105;The poor of the realm have suffered terribly under the rule of [Root.Liege.GetTitledFirstName]. As [Root.Liege.GetHerHis] regent, I am in a position to give something back to the people.;;;;;;;;;;;Áåäíîòà ñòðàäàåò â íàøèõ çåìëÿõ, íî [Root.Liege.GetTitledFirstName] íå â ñîñòîÿíèè çàáîòèòüñÿ î ëþäÿõ. Êàê [Root.Liege.GetHersHis] ðåãåíò, ÿ ìîãó ñäåëàòü ÷òî-òî è äëÿ ïðîñòîãî íàðîäà.;;x
+EVTDESC61106;[Root.Regent.GetTitledName], your regent, seems to have given in to [Root.Regent.GetHerHis] charitable nature and has been donating alms to the poor from your coffers. Worst of all, [Root.Regent.GetSheHe] has been doing it in your name!;;;;;;;;;;;Ïîõîæå, ÷òî [Root.Regent.GetTitledName], Âàø ðåãåíò, â ñâîåé áåñêîíå÷íîé ùåäðîñòè ðàçäà¸ò ìèëîñòûíþ áåäíÿêàì çà ñ÷¸ò Âàøåé êàçíû. Õóæå âñåãî òî, ÷òî [Root.Regent.GetSheHe] äåëàåò ýòî îò Âàøåãî èìåíè!;;x
+EVTDESC61110;The administration of your realm has improved significantly since [Root.Regent.GetTitledFirstName] became your regent. If only you had [Root.Regent.GetHerHis] skills!;;;;;;;;;;;Óïðàâëåíèå â Âàøåé ñòðàíå çíà÷èòåëüíî óëó÷øèëîñü áëàãîäàðÿ òîìó, ÷òî [Root.Regent.GetTitledFirstName] - Âàø ðåãåíò. Âîò åñëè áû Âû âëàäåëè [Root.Regent.GetHersHis] íàâûêàìè!;;x
+EVTDESC61120;[Root.Liege.GetTitledFirstName] is a decrepit fool and a pathetic shell of a [Root.Liege.GetManWoman]. As [Root.Liege.GetHerHis] appointed regent, I think the court needs a new jester...;;;;;;;;;;;[Root.Liege.GetTitledFirstName] - æàëêèé îáðàçåö ãëóïîñòè. Êàê [Root.Liege.GetHersHis] ðåãåíò, ÿ äóìàþ ó íàñ ïðè äâîðå ïðèãîäèëñÿ áû íîâûé øóò...;;x
+EVTDESC61121;As you sit powerless on your throne, your regent, [Root.Regent.GetTitledName], has made a regular habit of mocking you in front of the rest of the court - [Root.Regent.GetSheHe] hangs [Root.Regent.GetHerHis] coat on your head, [Root.Regent.GetSheHe] writes crude sentiments on your forehead with charcoal and one time [Root.Regent.GetSheHe] even cracked open a walnut using your teeth. The indignity!;;;;;;;;;;;Ïîëüçóÿñü Âàøåé íåìîùüþ, Âàø ðåãåíò, [Root.Regent.GetTitledName], äåëàåò ñâîåé ïðèâû÷êîé ïóáëè÷íî íàñìåõàòüñÿ íàä Âàìè ïåðåä âñåìè. Èíîãäà [Root.Regent.GetSheHe] øâûðÿåò ñâîþ íàêèäêó íà Âàøó ãîëîâó ñëîâíî íà âåøàëêó, âðåìÿ îò âðåìåíè ïèøåò óãë¸ì îáèäíûå âåùè ó Âàñ íà ëáó. Èíîãäà [Root.Regent.GetSheHe] äàæå êîëåò îðåõè Âàøèì ðòîì. Óæàñíîå óíèæåíèå!;;x
+EVTDESC61122;[Root.Liege.Regent.GetTitledName], the regent of [Root.Liege.GetTitledFirstName], has been physically humiliating [Root.Liege.GetHerHim] in public. Due to the [Root.Liege.GetTitle]'s infirm nature, [Root.Liege.GetSheHe] is powerless to resist. Honor demands that you put an end to this disgrace!;;;;;;;;;;;[Root.Liege.Regent.GetTitledName], ðåãåíò ïðàâèòåëÿ, èçâåñòíîãî êàê [Root.Liege.GetTitledFirstName], ïîñòîÿííî óíèæàåò [Root.Liege.GetHersHis] íà ëþäÿõ. Èç-çà ñâîåé íåìîùè [Root.Liege.GetTitle] íå ìîæåò [Root.Liege.Regent.GetHerHim] íè÷åãî ïðîòèâîïîñòàâèòü. ×åñòü òðåáóåò, ÷òîáû Âû ïîëîæèëè êîíåö ýòîìó áåçîáðàçèþ!;;x
+EVTDESC61123;The way your regent has been treating you has not gone unnoticed. [From.GetTitledName] approaches you alone one evening to express [From.GetHerHis] disgust at the vile indignities you have been made to suffer. Eyes tearful with anger, [From.GetSheHe] promises to take action against your regent... if only you would give your approval.;;;;;;;;;;;Âûõîäêè Âàøåãî ðåãåíòà íå îñòàëèñü áåç âíèìàíèÿ. [From.GetTitledName] ïðèáëèæàåòñÿ ê Âàì, ÷òîáû íàåäèíå âûðàçèòü ñâî¸ îòâðàùåíèå ê ïîäëûì âûõîäêàì ðåãåíòà, êîòîðûå Âàì ïðèõîäèòñÿ òåðïåòü. Ñ ãëàçàìè ïîëíûìè ãíåâà, [From.GetSheHe] îáåùàåò ïðåäïðèíÿòü âñå âîçìîæíûå ìåðû ïðîòèâ Âàøåãî îáèä÷èêà... åñëè òîëüêî Âû äàäèòå ñâî¸ ñîãëàñèå.;;x
+EVTDESC61124;Though [Root.Liege.GetSheHe] is not quite [Root.Liege.GetHerselfHimself] these days, you feel that your liege has given [Root.Liege.GetHerHis] blessing to take decisive action against [Root.Liege.Regent.GetTitledName]. Rally some dependable men! The realm needs a new regent!;;;;;;;;;;;Õîòÿ [Root.Liege.GetTitledFirstName] íå â ñåáå ïîñëåäíåå âðåìÿ, Âû ïîíèìàåòå, ÷òî Âàì äàíî [Root.Liege.GetHersHis] áëàãîñëîâåíèå ïðèíÿòü ìåðû - [Root.Liege.Regent.GetTitledName] íåñîìíåííî ïîëó÷èò ñâî¸! Ñîáèðàéòå âåðíûõ ëþäåé! Ñòðàíå íóæåí íîâûé ðåãåíò!;;x
+EVTDESC61125;We have trapped [Root.Liege.Regent.GetFirstName] in one of the castle towers like a cornered rat! Those few guards at court that supported [Root.Liege.Regent.GetHerHim] have fled or been cut down.;;;;;;;;;;;Íàì óäàëîñü! [Root.Liege.Regent.GetFirstName] ñêðûâàåòñÿ â îäíîé èç áàøåí, ñëîâíî êðûñà çàãíàííàÿ â óãîë! Òå íå ìíîãèå ñòðàæíèêè, êîòîðûå áûëè âåðíû [Root.Liege.Regent.GetHerHim] áåæàëè èëè áûëè óáèòû.;;x
+EVTDESC61127;[Root.Liege.Regent.GetFirstName] had more support at court than expected. We fought bravely in defense of the realm, but most of the guards rallied to the side of [Root.Liege.Regent.GetFirstName]. All is lost!;;;;;;;;;;;[Root.Liege.Regent.GetFirstName] èìååò áîëüøå ïîääåðæêè ó ïðèäâîðíûõ, ÷åì íàì êàçàëîñü. Ìû äîáëåñòíî ñðàæàëèñü çà íàøó ñòðàíó, íî áîëüøèíñòâî ñòðàæíèêîâ âñòàëî íà [Root.Liege.Regent.GetHersHis] ñòîðîíó. Âñ¸ ïðîïàëî!;;x
+EVTDESC61128;[From.GetTitledName], the fool, has decided to end your regency out of misguided sympathy for [Root.Liege.GetTitledFirstName]. Fortunately enough guards rallied to your side to thwart [From.GetHerHis] little scheme.;;;;;;;;;;;[From.GetTitledName] îñïàðèâàåò ìîè ïðàâà ðåãåíòà... [Root.Liege.GetTitledFirstName] âûçûâàåò ó í[From.GetHersHis] ñî÷óâñòâèå. Ãëóïî è íåäàëüíîâèäíî, âåäü ñòðàæà íà ìîåé ñòîðîíå è [From.GetHersHis] æàëêàÿ ïîïûòêà ïåðåâîðîòà îáðå÷åíà.;;x
+EVTDESC61129;[From.GetTitledName], the fool, has decided to end your regency out of misguided sympathy for [Root.Liege.GetTitledFirstName]. The treacherous guards seem to have left you to your fate!;;;;;;;;;;;[From.GetTitledName] îñïàðèâàåò Âàøè ïðàâà ðåãåíòà, òàê êàê [Root.Liege.GetTitledFirstName] âûçûâàåò ó í[From.GetHersHis] ñî÷óâñòâèå. Ê íåñ÷àñòüþ ñòðàæà ïðåäàëà Âàñ!;;x
+EVTDESC61130;[From.GetTitledFirstName] failed to replace your regent and is now languishing in your castle dungeons. It seems your suffering at the hands of [Root.Regent.GetTitledFirstName] will end only in the blissful embrace of death...;;;;;;;;;;;[From.GetTitledFirstName] ïðîâàëèâ ïîïûòêó ñâåðãíóòü Âàøåãî ðåãåíòà, ñåé÷àñ òîìèòñÿ â òåìíèöå. Ïîõîæå, ÷òî óíèæåíèÿ è ñòðàäàíèÿ îêîí÷àòñÿ òîëüêî ñ Âàøåé ñìåðòüþ...;;x
+EVTDESC61131;From where you were propped up on your throne, you could hear shouting and the distinct sound of steel striking steel inside the castle. The men loyal to [From.GetTitledFirstName] prevailed against [Root.Regent.GetTitledFirstName]! No longer will [Root.Regent.GetHerHis] vile presence be felt at court, and a new regent is to be appointed forthwith.;;;;;;;;;;;Â ñâ[Root.GetMyChamberPREP] Âû ñëûøèòå êðèêè è çâîí ìå÷åé. [From.GetTitledFirstName] è âåðíûå [From.GetHerHim] ëþäè îäîëåëè ðåãåíòà - [Root.Regent.GetTitledFirstName] è [Root.Regent.GetHersHis] ïðèñïåøíèêè ïîòåðÿëè âëàñòü! Áîëüøå íèêàêèõ ïîäëûõ âûõîäîê ïðè äâîðå, íîâûé ðåãåíò äîëæåí áûòü íàçíà÷åí íåçàìåäëèòåëüíî.;;x
+EVTDESC61135;As you ride through the empty corridors of your castle on your trusty wooden stick horse, you come across your regent, [Root.Regent.GetTitledName], getting some fresh air on a balcony... with [Root.Regent.GetHerHis] back turned against you.;;;;;;;;;;;Ñêà÷à íà ñâîåé äåðåâÿííîé ëîøàäêå ïî ïóñòûì êîðèäîðàì [Root.GetCapitalBuildingGEN], Âû çàìå÷àåòå, êàê Âàø ðåãåíò [Root.Regent.GetTitledName] âûõîäèò íà áàëêîí ïîäûøàòü ñâåæèì âîçäóõîì. [Root.Regent.GetSheHeCap] ñòîèò ñïèíîé ê Âàì.;;x
+EVTDESC61140;It suddenly dawns on you - when [Root.Liege.GetTitledFirstName] comes of age, your title as regent of the realm is forfeit. Perhaps something could be done to extend your enlightened stewardship of the throne... for the good of the realm, of course.;;;;;;;;;;;Âàñ òîëüêî-÷òî îñåíèëî, ÷òî êîãäà [Root.Liege.GetTitledFirstName] äîñòèãíåò ñîâåðøåííîëåòèÿ, Âû ëèøèòåñü òèòóëà Ðåãåíòà. Âîçìîæíî, íóæíî ÷òî-òî ñäåëàòü äëÿ ðàñøèðåíèÿ ñâîåé âëàñòè... âî ñëàâó ñòðàíû, êîíå÷íî.;;x
+EVTDESC61141;It is becoming increasingly obvious that [Root.Liege.GetTitledFirstName] is a very... special child. You can no longer explain away [Root.Liege.GetHerHis] growing madness as the mere eccentricities of youth.;;;;;;;;;;;Ñòàíîâèòñÿ âñ¸ î÷åâèäíåå, ÷òî [Root.Liege.GetTitledFirstName] - î÷åíü... íåîáû÷íûé ðåá¸íîê. Âû áîëüøå íå ìîæåòå îáúÿñíèòü [Root.Liege.GetHersHis] ðàñòóùåå áåçóìèå ïåðåõîäíûì âîçðàñòîì.;;x
+EVTDESC61142;The mad [Root.Liege.GetTitledFirstName] has been imprisoned in one of the castle towers, and your regency will continue until the child is declared sound of mind, regardless of [Root.Liege.GetHerHis] age.;;;;;;;;;;;[Root.Liege.GetTitledFirstName] òåðÿåò ðàññóäîê, [Root.Liege.GetHersHis] ñëåäóåò çàêëþ÷èòü â îäíó èç áàøåí. Âàøå ðåãåíòñòâî ïðîäîëæèòñÿ, ïîêà [Root.Liege.GetSheHe] íå óñëûøèò ãîëîñ ðàçóìà, íåçàâèñèìî îò ñâîåãî âîçðàñòà.;;x
+EVTDESC61145;Through skillful conniving, you have managed to see [Root.Liege.GetTitledFirstName] declared insane. Until [Root.Liege.GetHerHis] mental state improves, the child will remain locked up in one of the castle towers while your illustrious regency continues.;;;;;;;;;;;Áëàãîäàðÿ Âàøèì èñêóñíûì èíòðèãàì, [Root.Liege.GetTitledFirstName] çàïèðàåòñÿ â áàøíþ ïî ïðè÷èíå ñâîåãî áåçóìèÿ. Âàøå ðåãåíòñòâî ïðîäîëæèòñÿ, ïîêà [Root.Liege.GetHersHis] ïñèõè÷åñêîå ñîñòîÿíèå íå óëó÷øèòñÿ.;;x
+EVTDESC61146;All of your attempts to have [Root.Liege.GetTitledFirstName] declared insane have failed. Before long the [Root.Liege.GetLadLass] will be a [Root.Liege.GetManWoman], and you may have made yourself a powerful enemy...;;;;;;;;;;;Âñå Âàøè ïîïûòêè îáúÿâèòü, ÷òî [Root.Liege.GetTitledFirstName] ïåðåæèâàåò áåçóìèå, ïðîâàëèëèñü. Âñêîðå [Root.Liege.GetLadLass] âûðàñòåò, è Âû ïîëó÷èòå ñèëüíîãî âðàãà...;;x
+EVTDESC61150;Your regent, [Root.Regent.GetTitledName], seems to have been conspiring to have you declared insane in a futile attempt to extend [Root.Regent.GetHerHis] regency. Unfortunately for [Root.Regent.GetHerHim], it is obvious to all that you are sound of mind.;;;;;;;;;;;Âàø Ðåãåíò, [Root.Regent.GetTitledName], òàéíî çàìûøëÿåò îáúÿâèòü, ÷òî Âû áåçóìíû, â ñâîåé áåñïëîäíîé ïîïûòêå ðàñøèðèòü ñâî¸ ðåãåíòñòâî. Ê ñîæàëåíèþ äëÿ í[Root.Regent.GetHersHis], âñåì èçâåñòíî, ÷òî Âû â ëàäàõ ñî ñâîèì ðàçóìîì.;;x
+EVTDESC61151;Your scheming snake of a regent, [Root.Regent.GetFirstName], has managed to convince the court that you are insane! The decision has been made to lock you up in one of the castle towers until you are deemed mentally fit to rule, regardless of your age.;;;;;;;;;;;[Root.Regent.GetFirstName] - ýòà ãàäèíà Ðåãåíò, îáâèíÿåò Âàñ â áåçóìèè! [Root.Regent.GetHersHis] ýòî óäàëîñü, è òåïåðü ïðèíÿòî ðåøåíèå çàïåðåòü Âàñ â áàøíå, ïîêà Âû íå ïðèä¸òå â ñåáÿ.;;x
+EVTDESC61152;Your wretch of a former regent that saw you imprisoned on charges of insanity no longer wields any influence at court. The new regent has released you.;;;;;;;;;;;Âàø áûâøèé ðåãåíò, êîòîðûé ïîñàäèë Âàñ â òþðüìó ïî îáâèíåíèþ â áåçóìèè, áîëüøå íå èìååò âëèÿíèÿ íà äâîð. Íîâûé ðåãåíò âûïóñòèë Âàñ èç òþðüìû.;;x
+EVTDESC61155;For fifteen years [Root.Liege.GetTitledFirstName] has been locked up under guard while you have served as [Root.Liege.GetHerHis] regent. You are the true ruler of the realm in all but name. Perhaps the time has come to end this charade.;;;;;;;;;;;[Root.Liege.GetTitledFirstName] íàõîäèòñÿ ïîä ñòðàæåé óæå 15 ëåò, ïîêà Âû - [Root.Liege.GetHersHis] ðåãåíò. Çà èñêëþ÷åíèåì òèòóëà, Âû ÿâëÿåòåñü èñòèííûì ïðàâèòåëåì ñòðàíû. Âîçìîæíî, ïðèøëî âðåìÿ çàêîí÷èòü ýòîò ôàðñ.;;x
+EVTDESC61156;At long last, the throne is yours. The degrading charade you have been forced to endure all these years has come to an end. You are [Root.Liege.GetTitle] now, both in title and practise. Long live the [Root.Liege.GetTitle]!;;;;;;;;;;;Â êîíöå-êîíöîâ òðîí Âàø. Óíèçèòåëüíàÿ ëîæü, â êîòîðóþ Âû èãðàëè âñå ýòè ãîäû íàêîíåö çàêîí÷èëàñü. Òåïåðü Âû - [Root.Liege.GetTitle] íå òîëüêî ôàêòè÷åñêè, íî è þðèäè÷åñêè. Äà çäðàâñòâóåò [Root.Liege.GetTitle]!;;x
+EVTDESC61157;The ingrates at court have refused to embrace you as their true liege! For your audacity in pursuing this claim, they have stripped you of your title as regent and released [Root.Liege.GetTitledFirstName] from [Root.Liege.GetHerHis] imprisonment.;;;;;;;;;;;Íåáëàãîäàðíûé äâîð îòêàçàëñÿ ïðèçíàòü â Âàñ èñòèííîãî ïðàâèòåëÿ! Çà Âàøó íàãëîñòü îíè ëèøèëè Âàñ òèòóëà ðåãåíòà, è òåïåðü [Root.Liege.GetTitledFirstName] îñâîáîæäàåòñÿ èç çàêëþ÷åíèÿ.;;x
+EVTDESC61160;Your treacherous regent seems to have finally bitten off more than [Root.Regent.GetSheHe] could chew. An attempt to completely usurp your throne has backfired, and [Root.Regent.GetTitledName] has been stripped of [Root.Regent.GetHerHis] title as regent. You have been released, and can now assume your rightful position as [Root.GetLordLady] of this realm.;;;;;;;;;;;Âàø ïîäëûé ðåãåíò [Root.Regent.GetTitledName] ñîâñåì ïîòåðÿë[Root.Regent.GetEndA] ñîâåñòü, ïûòàÿñü óçóðïèðîâàòü Âàø òðîí. Òåïåðü [Root.Regent.GetHersHis] ïîïûòêà ïðîâàëèëàñü è [Root.Regent.GetSheHe] ëèøàåòñÿ ðåãåíòñêîãî òèòóëà. Âû îñâîáîæäåíû, è ìîæåòå ïðàâèòü ýòîé ñòðàíîé.;;x
+EVTDESC61161;While you were locked up, your regent has been busily gathering enough support at court to finally steal away your title. The despicable theft of your birthright is now complete.;;;;;;;;;;;Ïîêà Âû áûëè âçàïåðòè, Âàø ðåãåíò, íàéäÿ ïîääåðæêó ïðè äâîðå, óñïåøíî çàõâàòûâàåò Âàø òðîí.;;x
+EVTDESC61165;You cunningly trick one of the guards into leaving the door to your tower unlocked. After escaping into the castle, you kick open the door to the main chamber where your jackal regent [Root.Regent.GetFirstName] sits bewildered on your throne. As the confused courtiers whisper to each other, you bellow at the top of your lungs:;;;;;;;;;;;Âû ëîâêî îáìàíûâàåòå îõðàííèêîâ, è îíè îòõîäÿò îò íåçàïåðòîé äâåðè áàøíè. Ïîñëå ïîáåãà èç áàøíè, óäàðîì íîãè Âû îòêðûâàåòå äâåðü â ãëàâíûé çàë, ãäå íà Âàøåì òðîíå ñèäèò ðåãåíò - [Root.Regent.GetFirstName]. Ïîñêîëüêó ïðèäâîðíûå ëèøü óäèâë¸ííî øåï÷óòñÿ, Âû âûêðèêèâàåòå âî âåñü ãîëîñ:;;x
+EVTDESC61166;The guards escort you back to your tower and nail the door shut from the outside...;;;;;;;;;;;Îõðàííèêè ïðèâîäÿò Âàñ â êîìíàòó è çàêîëà÷èâàþò å¸ ñíàðóæè...;;x
+EVTDESC61170;Disaster! Somehow [Root.Liege.GetTitledFirstName] has managed to escape from his tower and rally enough support to oust you from your position as regent! The guards turn on you and throw you into the dungeon.;;;;;;;;;;;Áåäà! [Root.Liege.GetTitledFirstName] óñïåøíî ñáåãàåò èç ñâîåé áàøíè è íàõîäèò äîñòàòî÷íóþ ïîääåðæêó, ÷òîáû ñìåñòèòü Âàñ ñ ïîñòà ðåãåíòà! Ñòðàæíèêè áðîñàþò Âàñ â òåìíèöó.;;x
+EVTDESC61190;The throne shan't be yours so long as [Root.Liege.GetTitledFirstName] draws breath. If an accident was to befall the whelp... they happen so easily, after all. As [Root.Liege.GetHerHis] regent, perhaps you should appoint some simple chores to the [Root.Liege.GetLadLass]. The castle roof has long needed to be scrubbed clean of bird-droppings...;;;;;;;;;;;Òðîí íå áóäåò Âàøèì, ïîêà [Root.Liege.GetTitledFirstName] äûøèò. Åñëè ñ íèì ñëó÷èòñÿ íåñ÷àñòüå, íèêòî íå óäèâèòñÿ. Âû [Root.Liege.GetHersHis] ðåãåíò, âîçìîæíî Âàì ñëåäóåò äàòü [Root.Liege.GetHerHim] ïðîñòóþ ðàáîòó ïî äîìó. Êðûøà äàâíî íå ÷èñòèëàñü îò ïîì¸òà ïòèö...;;x
+EVTDESC61191;At times you can't shake the feeling that your regent, [Root.Regent.GetTitledName], does not always have your best in mind. Claiming it will build character, [Root.Regent.GetSheHe] has given you the dangerous task of scrubbing away bird-droppings from the castle roof. If you lose your balance even once...;;;;;;;;;;;Âðåìÿ îò âðåìåíè Âàì êàæåòñÿ, ÷òî Âàø ðåãåíò [Root.Regent.GetTitledName], íå âñåãäà æåëàåò Âàì äîáðà, íî âûïîëíåíèå ýòîãî çàäàíèÿ óêðåïèò Âàø õàðàêòåð. [Root.Regent.GetSheHeCap] äà¸ò Âàì îïàñíîå çàäàíèå ïî ÷èñòêå êðûøè. Åñëè Âû õîòü íà ñåêóíäó ïîòåðÿåòå áàëàíñ...;;x
+EVTDESC61192;You had a few close calls, but the roof is now shining clean and you made it down in one piece. If the confounded birds return, you will have a chance to hone your skills at archery.;;;;;;;;;;;Íåñêîëüêî ðàç Âû áûëè íà âîëîñîê îò ñìåðòè, íî òåïåðü êðûøà ñâåðêàåò è Âû ñäåëàëè ýòî â îäèí çàõîä. Åñëè ïðîêëÿòûå ïòèöû âåðíóòñÿ, òî ó Âàñ áóäåò øàíñ ïîòðåíèðîâàòüñÿ â ñòðåëüáå.;;x
+EVTDESC61195;So the child has a good sense of balance. No matter. Perhaps a trip to the countryside would do [Root.Liege.GetTitledFirstName] some good. There are some dense woods not far from here, infested with wolves and bandits. One could easily get lost in them...;;;;;;;;;;;Ó ðåáåíêà õîðîøèé áàëàíñ. Ýòî óæå íå âàæíî. Âîçìîæíî, ïîåçäêà â ñåëüñêóþ ìåñòíîñòü ïðèíåñ¸ò ïîëüçó. Íåïîäàë¸êó åñòü íåïðîõîäèìûé ëåñ, íàïîëíåííûé âîëêàìè è áàíäèòàìè. Â íåì ëåãêî ìîæíî çàáëóäèòüñÿ...;;x
+EVTDESC61196;[Root.Regent.GetFirstName], your regent, has arranged for you to tour the nearby countryside and visit your subjects living there. As you enter a dense forest, your escort mysteriously melts away into the brush and you are left to fend for yourself.;;;;;;;;;;;Âàø Ðåãåíò [Root.Regent.GetFirstName], óñòðàèâàåò Âàì íåáîëüøóþ ïîåçäêó ïî îêðåñòíîñòÿì [Root.GetCapitalHoldingGEN] ñ ïîñåùåíèåì äåðåâåíü. Âû âúåçæàåòå â ò¸ìíûé ëåñ, è ýñêîðò òàåò íà ãëàçàõ. Âñêîðå Âû îñòà¸òåñü â ïîëíîì îäèíî÷åñòâå.;;x
+EVTDESC61197;The guards at the castle gates nearly turn you away as peasant rabble when you finally make it back. Your face is caked with dirt, your fancy clothes are torn, but your signet ring proves your identity. Blind luck alone helped you conceal it from the bandits you met on the way.;;;;;;;;;;;Ñòðàæíèêè íà âîðîòàõ [Root.GetCapitalHoldingGEN] ÷óòü íå âûãíàëè Âàñ, êàê ïðîñòîëþäèíà. Âàøå ëèöî îáëåïëåíî ãðÿçüþ, Âàøà îäåæäà ïîðâàíà, íî ïåðñòåíü ïîäòâåðæäàåò Âàøó ëè÷íîñòü. Òîëüêî ñëåïàÿ óäà÷à âûâåëà Âàñ èç ëåñà.;;x
+EVTDESC61200;Unbelievable... the runt made it back alive! Well, this time I have arranged for a special carriage to take [Root.Liege.GetTitledFirstName] to meet with a foreign dignitary. The driver has been instructed to lose control of the carriage at a certain point on the journey, sending the whole thing careening down a ravine...;;;;;;;;;;;Íåâåðîÿòíî... êîðîòûøêà æèâ! Õîðîøî, ÿ ïîäãîòîâëþ êàðåòó, ñêàæó, ÷òî [Root.Liege.GetTitledFirstName] âñòðåòèòñÿ ñ èíîñòðàííûì ñàíîâíèêîì. Èçâîç÷èê ïîëó÷èë óêàçàíèÿ ïîòåðÿòü óïðàâëåíèå êàðåòîé ïðÿìî ïåðåä îâðàãîì.;;x
+EVTDESC61201;Your old bore of a regent, [Root.Regent.GetFirstName], wants you to meet with some foreign dignitary in the middle of nowhere. As your carriage travels alongside a deep ravine, the driver suddenly seems to lose control of the horses...;;;;;;;;;;;Âàø ñòàðûé è ñêó÷íûé ðåãåíò [Root.Regent.GetFirstName], õî÷åò ÷òîáû Âû ñúåçäèëè íà âñòðå÷ó ñ èíîñòðàííûì ñàíîâíèêîì â êàêîì-òî ìåñòå. Âàøà êàðåòà ïðîõîäèò âîçëå óùåëüÿ, è êàæåòñÿ èçâîç÷èê ïîòåðÿë óïðàâëåíèå íàä ëîøàäüìè...;;x
+EVTDESC61202;You throw yourself to safety only moments before the carriage loses one of its wheels, tips over and plummets down the ravine. The driver, who jumped off at the first sign of trouble, looks at you with a frown that almost seems disappointed.;;;;;;;;;;;Âû áðîñàåòåñü ê âûõîäó, çà ìãíîâåíüå äî òîãî, êàê ó êàðåòû îòâàëèëîñü êîëåñî è îíà óïàëà â óùåëüå. Èçâîç÷èê, ñïðûãíóâøèé ïðè ïåðâîì æå ïðèçíàêå îïàñíîñòè íà çåìëþ, ñìîòðèò íà Âàñ õìóðûì, ïî÷òè ðàçî÷àðîâàííûì âçãëÿäîì.;;x
+EVTDESC61205;You take a moment up on the castle ramparts to contemplate your bad luck in dealing with [Root.Liege.GetTitledFirstName], only to see the carefree little scamp strut past below. Next to you is an especially corpulent guard leaning half-asleep against his halberd. A gentle push could send him falling down on [Root.Liege.GetFirstName]...;;;;;;;;;;;Âû ïîäíÿëèñü íà ñòåíû [Root.GetCapitalHoldingGEN], ëèøü äëÿ òîãî, ÷òîáû óâèäåòü, êàê [Root.Liege.GetTitledFirstName] ïðîõîäèò ÷åðåç âîðîòà, êàê â íè â ÷¸ì íå áûâàëî. Ðÿäîì ñ Âàìè ñòîèò ïîëóñîííûé ñòðàæíèê ñ àëåáàðäîé. Âû ìîãëè áû òîëêíóòü åãî...;;x
+EVTDESC61206;You walk through the castle courtyard minding your own business when a dark shadow suddenly forms around you. There is just enough time to look up and see the screaming, grossly overweight guard tumbling down at you from the upper ramparts.;;;;;;;;;;;Ïðîõîäÿ ÷åðåç âîðîòà, Âû çàìå÷àåòå áûñòðî ðàñòóùóþ òåíü. Ïîäíÿâ ãîëîâó ââåðõ, Âû âèäèòå ïàäàþùåãî íà Âàñ ñòðàæíèêà.;;x
+EVTDESC61207;As if by divine intervention, the guard narrowly misses you and impacts the ground just ahead with a heavy, bone-shattering thud. Above, on the rampart from which he fell, stands your regent, [Root.Regent.GetFirstName]. With a trembling voice [Root.Regent.GetSheHe] asks if you are all right.;;;;;;;;;;;Ñòðàæíèê, ñî çâóêîì ëîìàþùèõñÿ êîñòåé, óïàë ñáîêó îò Âàñ. Ðÿäîì ñòîèò Âàø ðåãåíò [Root.Regent.GetFirstName]. Ñ äðîæàùèì ãîëîñîì [Root.Regent.GetSheHe] ñïðàøèâàåò, â ïîðÿäêå ëè Âû.;;x
+EVTDESC61210;Enough games. If you want the [Root.Liege.GetLadLass] dead, you will clearly have to take more direct action! Blinded by rage and with your best dagger in hand, you rush towards [Root.Liege.GetHerHis] bedchamber...;;;;;;;;;;;Äîâîëüíî èãð. Åñëè Âû õîòèòå, ÷òîáû ðåá¸íîê óìåð, Âû äîëæíû äåéñòâîâàòü ïðÿìî! Ïåðåïîëíÿÿñü ÿðîñòüþ ñ êèíæàëîì â ðóêå, Âû îòïðàâëÿåòåñü â [Root.Liege.GetHersHis] ñïàëüíþ...;;x
+EVTDESC61211;You retreat to your bedchamber to consider the unlikely series of accidents you have suffered recently. Suddenly the door flies ajar with a bang. Your regent, [Root.Regent.GetTitledName], stands before you, [Root.Regent.GetHerHis] eyes burning with hatred. A sharp dagger is clutched in [Root.Regent.GetHerHis] hand and without a word, [Root.Regent.GetSheHe] lunges at you...;;;;;;;;;;;Âû íàïðàâëÿëèñü â ñâîþ ñïàëüíþ, ÷òîáû îáäóìàòü âñ¸, ÷òî ñ Âàìè ïðîèñõîäèëî â ïîñëåäíåå âðåìÿ. Âíåçàïíî, óäàð íîãè âûáèâàåò äâåðü. Ðåãåíò [Root.Regent.GetTitledName] ñòîèò ïåðåä Âàìè ñ ãëàçàìè ïîëíûìè íåíàâèñòè. Îòòî÷åííûé êëèíîê ñæàò â [Root.Regent.GetHersHis] ðóêå. Íå âûìîëâèë íè ñëîâà, [Root.Regent.GetSheHe] íàïàäàåò íà Âàñ.;;x
+EVTDESC61212;"[Root.Regent.GetFirstName] stabs wildly in the air with [Root.Regent.GetHerHis] dagger, missing you by a hair's breadth as you leap away in panic. Guards rush inside and pull your regent away as [Root.Regent.GetSheHe] screams, ""Why won't you die?!""";;;;;;;;;;;"[Root.Regent.GetFirstName] äèêî ðàññåê[Root.Regent.GetNoneE] âîçäóõ ñâîèì êèíæàëîì, ïðîìàõíóâøèñü âñåãî íà âîëîñîê, è Âû áðîñèëèñü ïðî÷ü â ïàíèêå. Êîãäà æå ñòðàæíèêè ñõâàòèëè ðåãåíòà, Âû óñëûøàëè êðèê: ""Ïî÷åìó?! Ïî÷åìó òû íèêàê íå ñäîõíåøü?!"".";;x
+EVTDESC61213;Before you can plunge your blade into the wretched little monster's heart, [Root.Liege.GetHerHis] guards intervene and you are dragged away kicking and screaming to the dungeons. Can't they see that [Root.Liege.GetSheHe] HAS to die?;;;;;;;;;;;Çà ìãíîâåíüå äî óäàðà â ñåðäöå ìàëåíüêîãî ìîíñòðà, ñòðàæíèêè õâàòàþò Âàñ è èçáèâ, êèäàþò â òåìíèöó. Êàê îíè íå ìîãóò ïîíÿòü, ÷òî ýòîò ðåá¸íîê äîëæåí óìåðåòü?!;;x
+EVTDESC61215;Somehow [Root.Liege.Regent.GetTitledName] has managed to worm [Root.Liege.Regent.GetHerHis] way into being titled regent of poor [Root.Liege.GetTitledFirstName]. This grave error could cost the realm dearly - clearly there is no one better qualified than you for this position.;;;;;;;;;;;[Root.Liege.Regent.GetTitledName] - òåïåðü ðåãåíò, íî [Root.Liege.GetTitledFirstName] êàê çàêîííûé ïðàâèòåëü ýòîãî ãîñóäàðñòâà, çàñëóæèâàåò ëó÷øåãî. Ïîäîáíàÿ îøèáêà ìîæåò äîðîãî ñòîèòü, âåäü ÿñíî, ÷òî íåò íèêîãî áîëåå ïîäõîäÿùåãî äëÿ ðåãåíòñòâà ÷åì Âû.;;x
+EVTDESC61216;Doubts have been expressed at court whether you truly have the skill and ability required to serve as the [Root.Liege.GetTitle]'s regent. [From.GetTitledName] has accused you of incompetence and is arguing that the realm would benefit much more if [From.GetSheHe] was regent.;;;;;;;;;;;Ïðè äâîðå âûðàçèëè ñîìíåíèÿ â òîì, ÷òî Âû ìîæåòå ñëóæèòü ðåãåíòîì. [From.GetTitledFirstName] îáâèíÿåò Âàñ â íåêîìïåòåíòíîñòè è ñ÷èòàåò, ÷òî ñòðàíå áóäåò ëó÷øå, åñëè ðåãåíòîì ñòàíåò [From.GetSheHe].;;x
+EVTDESC61217;You have successfully made your case at court, and been appointed as the new regent of [Root.Liege.GetTitledFirstName]. The realm is now safely delivered from the incompetent hands of [Root.Liege.Regent.GetTitledName].;;;;;;;;;;;Âû îòñòîÿëè ñâî¸ ïðàâî â ñóäå è áûëè íàçíà÷åíû íîâûì ðåãåíòîì ïðàâèòåëÿ, èçâåñòíîãî êàê [Root.Liege.GetTitledFirstName]. Íà äàííûé ìîìåíò âñå äåëà, êîòîðûå âåä¸ò [Root.Liege.Regent.GetTitledName], ïîñòåïåííî ïåðåõîäÿò â Âàøè ðóêè.;;x
+EVTDESC61218;It seems [Root.Liege.Regent.GetTitledName] had too many friends at court. Your attempts to replace [Root.Liege.Regent.GetHerHim] as regent have met with failure, and [Root.Liege.Regent.GetSheHe] is none too pleased...;;;;;;;;;;;Êàæåòñÿ, [Root.Liege.Regent.GetTitledName] èìååò ñëèøêîì ìíîãî äðóçåé ïðè äâîðå. Âàøè ïîïûòêè çàìåíèòü [Root.Liege.Regent.GetHersHis] íà ïîñòó ðåãåíòà ïîòåðïåëè íåóäà÷ó, è, êàæåòñÿ, óçíàâ îá ýòîì [Root.Liege.Regent.GetSheHe] áóäåò î÷åíü íåäîâîëåí.;;x
+EVTDESC61219;You have successfully thwarted your opponent's designs on your regency, and can continue to serve at the pleasure of [Root.Liege.GetTitledFirstName].;;;;;;;;;;;Âû óñïåøíî ñîðâàëè ïëàíû ïðîòèâíèêà îòíîñèòåëüíî ðåãåíòñòâà. [Root.Liege.GetTitledFirstName], ê ñâîåìó óäîâîëüñòâèþ, îñòà¸òñÿ ïîä Âàøåé ñëóæáîé.;;x
+EVTDESC61220;[From.GetTitledName] has somehow managed to convince the sycophants at court to appoint [From.GetHerHim] as the new regent of [Root.Liege.GetTitledFirstName].;;;;;;;;;;;[FromFrom.GetTitledFirstName] êàêèì-òî îáðàçîì ñìîã[FromFrom.GetNoneE] óáåäèòü äâîð, ÷òî ñòàíåò ëó÷øèì ðåãåíòîì ÷åì Âû.;;x
+EVTDESC61221;[From.GetTitledName] has accused you of cowardice and incompetence! He claims you are not fit to serve as the regent of [Root.Liege.GetTitledFirstName], and has challenged you to single combat for the title.;;;;;;;;;;;[From.GetTitledFirstName] îáâèíÿåò Âàñ â òðóñîñòè è íåêîìïåòåíòíîñòè! [From.GetSheHeCap] óòâåðæäàåò, ÷òî Âû íå ñìîæåòå áûòü õîðîøèì ðåãåíòîì äëÿ òàêîãî ïðàâèòåëÿ, êàê [Root.Liege.GetTitledFirstName], è âûçûâàåò Âàñ íà ïîåäèíîê.;;x
+EVTDESC61222;That madman [Root.Liege.Regent.GetTitledName] has challenged you to a duel in what can only be a desperate bid to preserve his regency. What say you?;;;;;;;;;;;[Root.Liege.Regent.GetTitledName], âûçûâàåò Âàñ íà ïîåäèíîê, çà ïðàâî îáëàäàòü òèòóëîì ðåãåíòà. ×òî Âû ïðåäïðèìåòå?;;x
+EVTDESC61223;[Root.Liege.Regent.GetTitledName] has accepted your terms. As dawn breaks, you meet on a field just outside [Root.Location.GetName]. The mist still lies thick on the ground and the brilliance of the early morning sun is reflected in the shining steel of your weapons and armor. It is a good day to die.;;;;;;;;;;;[Root.Liege.Regent.GetTitledName] ïðèíÿë[Root.Liege.Regent.GetEndA] Âàøè óñëîâèÿ. Íà ðàññâåòå Âû âñòðåòèòåñü íà [Root.Location.County.GetAdjective]ñêîì ïîëå. Çàâòðà áóäåò ñîëíå÷íàÿ ïîãîäà... õîðîøèé äåíü, ÷òîáû óìåðåòü.;;x
+EVTDESC61224;[From.GetTitledName] has accepted your terms. As dawn breaks, you meet on a field just outside [Root.Location.GetName]. The mist still lies thick on the ground and the brilliance of the early morning sun is reflected in the shining steel of your weapons and armor. It is a good day to die.;;;;;;;;;;;[From.GetTitledName] ïðèíÿë[Root.Liege.Regent.GetEndA] Âàøè óñëîâèÿ. Íà ðàññâåòå Âû âñòðåòèòåñü íà [Root.Location.County.GetAdjective]ñêîì ïîëå. Çàâòðà áóäåò ñîëíå÷íàÿ ïîãîäà... õîðîøèé äåíü, ÷òîáû óìåðåòü.;;x
+EVTDESC61225;The blood of your opponent seeps into the ground as you lean on your sword to catch your breath. It was a brief and violent struggle, but the poor fool lies dead at your feet.;;;;;;;;;;;Êðîâü Âàøåãî ïðîòèâíèêà êàïàåò íà çåìëþ ñ ìå÷à, íà êîòîðûé Âû îïåðëèñü ïåðåâåñòè äûõàíèå. Áîé áûë êîðîòêèì è æåñòîêèì, áåäíûé ãëóïåö ëåæèò ì¸ðòâûì ó Âàøèõ íîã.;;x
+EVTDESC61226;The blood of your opponent seeps into the ground as you lean on your sword to catch your breath. It was a brief and violent struggle, but the poor fool lies maimed at your feet, clinging pitifully to life. The day is yours.;;;;;;;;;;;Êðîâü Âàøåãî ïðîòèâíèêà êàïàåò íà çåìëþ ñ ìå÷à, íà êîòîðûé Âû îïåðëèñü ïåðåâåñòè äûõàíèå. Áîé áûë êîðîòêèì è æåñòîêèì, áåäíûé ãëóïåö ëåæèò ðàíåíûì ó Âàøèõ íîã, æàëêî öåïëÿÿñü çà æèçíü. Ïîáåäà çà Âàìè.;;x
+EVTDESC61226_HF;With [From.GetFirstName] defeated, nobody is left to contest my claim to the regency [Root.Liege.PrimaryTitle.GetName]. It is blatant to everybody at court that only my lead can ensure the prosperity and stability of the realm during these dangerous times.;;;;;;;;;;;[From.GetFirstName] ïîáåæäåí[From.GetEndA], è òåïåðü íèêòî íå ñòàíåò îñïàðèâàòü ìî¸ ðåãåíñòâî, [Root.Liege.PrimaryTitle.GetBaseName] â íàä¸æíûõ ðóêàõ. Ïðè äâîðå ëþáîìó ÿñíî, ÷òî òîëüêî ÿ ìîãó îáåñïå÷èòü ïðîöâåòàíèå ñòðàíû â ýòî òðóäíîå âðåìÿ.;;x
+EVTDESC61227;As the blackness recedes and your sight returns, you find yourself lying on your back in the tall grass. You feel the warm, sticky sensation of blood gushing from a deep wound somewhere beneath your mail. Your foe leans over you in silence, ready to deal the finishing blow, but to your shame elects to spare your wretched life.;;;;;;;;;;;Êîãäà òüìà îòñòóïàåò, Âû âíîâü ìîæåòå âèäåòü. Âû íà÷èíàåòå ðàçëè÷àòü ëèöî Âàøåãî âðàãà, ñêëîíèâøåãîñÿ íàä Âàìè. Êàæåòñÿ, îí äóìàåò, êàê ñ Âàìè ïîñòóïèòü. Ê Âàøåìó âåëèêîìó ñòûäó, îí ðåøàåò ñîõðàíèòü Âàì æèçíü.;;x
+EVTDESC61230;As the blackness recedes and your sight returns, you find yourself lying on your back in the tall grass. You feel the warm, sticky sensation of blood gushing from a deep wound somewhere under your mail. Your foe leans over you in silence, ready to deal the finishing blow, but to your shame elects to spare your wretched life.;;;;;;;;;;;Êîãäà òüìà îòñòóïàåò, Âû âíîâü ìîæåòå âèäåòü. Âû íà÷èíàåòå ðàçëè÷àòü ëèöî Âàøåãî âðàãà, ñêëîíèâøåãîñÿ íàä Âàìè. Êàæåòñÿ, îí äóìàåò, êàê ñ Âàìè ïîñòóïèòü. Ê Âàøåìó âåëèêîìó ñòûäó, îí ðåøàåò ñîõðàíèòü Âàì æèçíü.;;x
+EVTDESC61231;You arrive at the agreed upon location of the duel, only to find that [From.GetTitledName] is nowhere to be found. The coward dares not face you after all!;;;;;;;;;;;Âû ïðèøëè â îãîâîðåííîå ìåñòî è ïðîæäàëè âñ¸ óòðî òîëüêî, ÷òîáû óçíàòü, ÷òî [From.GetTitledName] - òðóñëèâàÿ òâàðü!;;x
+EVTDESC61232;Your opponent plunges his sword deep into your flank, and it takes you a few confused moments to realize all that blood is coming from you. You fall to your knees as life fades away...;;;;;;;;;;;Âàø ïðîòèâíèê äåëàåò êîðîòêèé è áûñòðûé âûïàä, êëèíîê ïîãðóæàåòñÿ â ïëîòü... åù¸ íåñêîëüêî ìãíîâåíèé ó Âàñ óõîäèò íà òî, ÷òîáû îñîçíàòü, ÷òî ýòî ñìåðòåëüíûé óäàð! À çàòåì â ãëàçàõ íà÷èíàåò òåìíåòü, Âû îïóñêàåòåñü íà êîëåíè è òåðÿåòå ñîçíàíèå.;;x
+EVTDESC61235;Your former regent has been bested in single combat. The duel's victor, [Root.Liege.Regent.GetTitledName], has taken his place.;;;;;;;;;;;[Root.Liege.Regent.GetTitledName] ïîáåæäàåò â ïîåäèíêå. Òèòóë ðåãåíòà ïðèíàäëåæèò [Root.Liege.Regent.GetHerHim] ïî ïðàâó.;;x
+EVTDESC61236;Due to court intrigue well beyond your present ability to comprehend, your current serving regent has been replaced with another.;;;;;;;;;;;Â ðåçóëüòàòå äâîðöîâûõ èíòðèã Âàø ïðåæíèé ðåãåíò áûë çàìåí¸í äðóãèì, óãîäíûì äâîðó.;;x
+EVTDESC61237;I should be the one to rule in my husband's stead, not [Root.Liege.Regent.GetTitledName]. It is only proper.;;;;;;;;;;;Îò èìåíè ìîåãî ìóæà äîëæíà ïðàâèòü ÿ, à íå [Root.Liege.Regent.GetTitledName]!;;x
+EVTDESC61238;As Queen Mother, I have decided to take over the responsibilities and duties of [Root.Liege.GetTitledFirstName]'s regency.;;;;;;;;;;;Êàê êîðîëåâà-ìàòü ÿ ðåøèëà âçÿòü íà ñåáÿ çàáîòû ðåãåíòñòâà. [Root.Liege.GetTitledFirstName] íå ðàçî÷àðóåòñÿ â ìîåé ïîìîùè.;;x
+EVTDESC61239;Your loving wife has decided that she would do a better job serving as your regent. After all, who but her could rule the realm in accordance with your own desires?;;;;;;;;;;;Âàøà æåíà ðåøèëà, ÷òî ñìîæåò èñïîëíÿòü îáÿçàííîñòè ðåãåíòà ëó÷øå, ÷åì òîò, êòî íîñèò ñåé÷àñ ýòîò òèòóë. Âåäü êòî åù¸ ñìîæåò îòðàçèòü Âàøè èíòåðåñû ëó÷øå íå¸?;;x
+EVTDESC61240;The Queen Mother has used her considerable influence to step in as your regent. May the realm benefit from her wisdom and experience.;;;;;;;;;;;Êîðîëåâà-ìàòü èñïîëüçîâàëà ñâî¸ âëèÿíèå, ÷òîáû ñòàòü Âàøèì ðåãåíòîì. Å¸ ìóäðîñòü è îïûò, ñìîãóò ïðèíåñòè ïîëüçó ñòðàíå.;;x
+EVTDESC61245;Like the spineless coward [From.GetSheHe] is, [From.GetTitledFirstName] has refused to rise to your challenge!;;;;;;;;;;;[From.GetTitledFirstName], ñëîâíî áåñõðåáåòíûé òðóñ, îòêàçûâàåòñÿ ïðèíÿòü Âàø âûçîâ.;;x
+EVTDESC61246;In a desperate effort to save [From.GetHerHis] skin, [From.GetTitledFirstName] has decided to abdicate the position of regent to you.;;;;;;;;;;;Â îò÷àÿííîé ïîïûòêå ñïàñòè ñâîþ øêóðó [From.GetTitledFirstName] ðåøàåò îòðå÷üñÿ îò ðåãåíòñòâà íàä Âàìè.;;x
+EVTDESC61300;My position as regent to [Root.Liege.GetTitledName] would allow me to lower the Crown Authority in the [Root.PrimaryTitle.Kingdom.GetName]...;;;;;;;;;;;[Root.Liege.GetTitledName] ïîçâîëÿåò ìíå êàê [Root.Liege.GetHersHis] ðåãåíòó ïîíèçèòü àâòîðèòåò [Root.PrimaryTitle.Kingdom.GetAdjective]ñêîé Êîðîíû...;;x
+EVTDESC61301;My regent, [From.GetTitledName], has managed to push through a law lowering the Crown Authority in the [Root.PrimaryTitle.Kingdom.GetName]!;;;;;;;;;;;Ìîé ðåãåíò, [From.GetTitledName], ñìîã[From.GetNoneE] ïðîäâèíóòü çàêîí, ñíèæàþùèé àâòîðèòåò [Root.PrimaryTitle.Kingdom.GetAdjective]ñêîé Êîðîíû!;;x
+EVTDESC61302;My position as regent to [Root.Liege.GetTitledName] would allow me to lower the Crown Authority in the [Root.PrimaryTitle.Empire.GetName]...;;;;;;;;;;;[Root.Liege.GetTitledName] ïîçâîëÿåò ìíå êàê [Root.Liege.GetHersHis] ðåãåíòó ïîíèçèòü àâòîðèòåò [Root.PrimaryTitle.Empire.GetAdjective]ñêîé Êîðîíû ãîñóäàðñòâà [Root.PrimaryTitle.Empire.GetName]...;;x
+EVTDESC61303;My regent, [From.GetTitledName], has managed to push through a law lowering the Crown Authority in the [Root.PrimaryTitle.Empire.GetName]!;;;;;;;;;;;Ìîé ðåãåíò, [From.GetTitledName], ñìîã[From.GetNoneE] ïðîäâèíóòü çàêîí, ñíèæàþùèé àâòîðèòåò [Root.PrimaryTitle.Empire.GetAdjective]ñêîé Êîðîíû!;;x
+EVTOPTA61000;Aah, sweet, filthy lucre!;;;;;;;;;;;Íàñêîëüêî ïðèÿòíû ãðÿçíûå äåíüãè!;;x
+EVTOPTA61001;But there is no proof!;;;;;;;;;;;Íî ó íàñ íåò äîêàçàòåëüñòâ!;;x
+EVTOPTA61003;The Traitor!;;;;;;;;;;;Ïðåñòóïíèê!;;x
+EVTOPTA61100;[Root.Liege.GetTitledFirstName] wills it!;;;;;;;;;;;[Root.Liege.GetTitledFirstName] íå ñòàíåò âîçðàæàòü!;;x
+EVTOPTA61101;*drool*;;;;;;;;;;;*ðàñïóñòèòü ñëþíè*;;x
+EVTOPTA61105;Here you are... courtesy of [Root.Liege.GetTitledFirstName]!;;;;;;;;;;;Âçãëÿíèòå! [Root.Liege.GetTitledFirstName] - ñàìà ùåäðîñòü!;;x
+EVTOPTA61106;Ggghnnn..n-n-nooooo...!;;;;;;;;;;;Ãõððð... í-í-åååååò!;;x
+EVTOPTA61110;*emit grunt of approval*;;;;;;;;;;;*óòâåðäèòåëüíî ïðîâîð÷àòü*;;x
+EVTOPTA61120;Humiliate [Root.Liege.GetHerHim] in front of the court.;;;;;;;;;;;Ïóáëè÷íî óíèçèòü [Root.Liege.GetHersHis] ïåðåä ïðèäâîðíûìè.;;x
+EVTOPTA61121;*suffer series of involuntary spasms*;;;;;;;;;;;*ìó÷èòåëüíàÿ ñåðèÿ íåïðîèçâîëüíûõ ñïàçìîâ*;;x
+EVTOPTA61122;Approach [Root.Liege.GetTitledFirstName] and seek [Root.Liege.GetHerHis] blessing to act.;;;;;;;;;;;[Root.Liege.GetTitledFirstName] äàñò ìíå ñîãëàñèå ïðèíÿòü ìåðû.;;x
+EVTOPTA61123;*nod head almost imperceptibly*;;;;;;;;;;;*ïî÷òè íåçàìåòíî êèâíóòü ãîëîâîé*;;x
+EVTOPTA61124;It is only fair that I serve as regent of [Root.Liege.GetTitledFirstName].;;;;;;;;;;;Òîëüêî ÿ ïî ïðàâó ìîãó áûòü ðåãåíòîì.;;x
+EVTOPTA61125;Off to the dungeons with [Root.Liege.Regent.GetHerHim]!;;;;;;;;;;;Â òåìíèöó [Root.Liege.Regent.GetHersHis]!;;x
+EVTOPTA61127;Unhand me in the name of [Root.Liege.GetTitledFirstName]!;;;;;;;;;;;Îòïóñòèòå! Âî èìÿ [Root.Liege.GetTitledFirstName]!;;x
+EVTOPTA61128;Let [From.GetHerHim] rot in the dungeons.;;;;;;;;;;;Ïóñòü ãíè¸ò â òþðüìå.;;x
+EVTOPTA61129;Have you no sense of humor?;;;;;;;;;;;Äà ëàäíî Âàì? Ó Âàñ ÷òî íåò ÷óâñòâà þìîðà?;;x
+EVTOPTA61130;*blink away single tear*;;;;;;;;;;;*ñëåçà ñêîëüçíóëà ïî ùåêå*;;x
+EVTOPTA61131;*contort face in grimace vaguely resembling smile*;;;;;;;;;;;*ñêîð÷èòü ãðèìàñó, íàïîìèíàþùóþ óëûáêó *;;x
+EVTOPTA61135;Charge!;;;;;;;;;;;Ñòîëêíóòü!;;x
+EVTOPTA61140;The whelp is not fit to rule - not now, not ever!;;;;;;;;;;;Ýòî îòðîäüå íå áóäåò ïðàâèòü. Íèêîãäà!;;x
+EVTOPTA61141;This is not a decision I take lightly, but something must be done.;;;;;;;;;;;Ýòî ðåøåíèå äàëîñü ìíå íå ëåãêî, íî îíî äîëæíî áûòü ñäåëàíî.;;x
+EVTOPTA61142;It is for the good of the realm.;;;;;;;;;;;Ýòî äëÿ ïîëüçû ñòðàíû.;;x
+EVTOPTA61145;Ha! That day will never come.;;;;;;;;;;;Õà! Ýòîò äåíü íèêîãäà íå íàñòóïèò.;;x
+EVTOPTA61146;Well, [Root.Liege.GetSheHe] looked insane to me...;;;;;;;;;;;Íó ìíå êàçàëîñü, ÷òî [Root.Liege.GetSheHe] òî÷íî íå â ñâî¸ì óìå.;;x
+EVTOPTA61150;Some day [Root.Regent.GetSheHe] will regret this treachery.;;;;;;;;;;;Êîãäà-íèáóäü [Root.Regent.GetSheHe] ïîæàëååò îá ýòîì.;;x
+EVTOPTA61151;I'm not insane! I'm not!;;;;;;;;;;;ß â ñâî¸ì óìå!;;x
+EVTOPTA61152;Not a moment too soon.;;;;;;;;;;;Åù¸ ñëèøêîì ðàíî.;;x
+EVTOPTA61155;Seize the throne!;;;;;;;;;;;Çàõâàòèòü òðîí!;;x
+EVTOPTA61156;I earned this.;;;;;;;;;;;ß çàñëóæèâàþ ýòî.;;x
+EVTOPTA61157;Fools! The realm will suffer now.;;;;;;;;;;;Ãëóïöû! Ñòðàíà áóäåò ñòðàäàòü.;;x
+EVTOPTA61160;Is... is that the sun?;;;;;;;;;;;Ýòî... ýòî ñîëíöå?;;x
+EVTOPTA61161;This is not happening...;;;;;;;;;;;Ýòî íåâîçìîæíî...;;x
+EVTOPTA61165;Hear me! I am the rightful [Root.GetLordLady] of this land!;;;;;;;;;;;Óñëûøüòå ìåíÿ! ß - çàêîííûé ïðàâèòåëü ýòîé çåìëè!;;x
+EVTOPTA61166;If this is to be my kingdom, then so be it.;;;;;;;;;;;Òåïåðü ìîÿ ñòðàíà - ýòî ìåñòî... ÷òî æ, òàê òîìó è áûòü!;;x
+EVTOPTA61170;It was not to be.;;;;;;;;;;;Ýòîãî íå äîëæíî áûëî ïðîèçîéòè.;;x
+EVTOPTA61190;It builds character.;;;;;;;;;;;Ýòî çàêàëÿåò õàðàêòåð.;;x
+EVTOPTA61191;Isn't this what servants are for?;;;;;;;;;;;Ðàçâå íå äëÿ ýòîãî íóæíû ñëóãè?;;x
+EVTOPTA61192;An honest day's work.;;;;;;;;;;;×åñòíî îòðàáîòàííûé äåíü.;;x
+EVTOPTA61195;Come, [Root.Liege.GetFirstName]. You are going on a little trip.;;;;;;;;;;;[Root.Liege.PrimaryTitle.GetFOA], Âû îòïðàâëÿåòåñü â ïóòåøåñòâèå.;;x
+EVTOPTA61196;H-hello? Anyone?;;;;;;;;;;;Ý-ýé? Êòî-íèáóäü?;;x
+EVTOPTA61197;My feet hurt.;;;;;;;;;;;Íîãè áîëÿò.;;x
+EVTOPTA61200;You leave at dawn, [Root.Liege.GetFirstName].;;;;;;;;;;;[Root.Liege.PrimaryTitle.GetFOA], ïîðà åõàòü.;;x
+EVTOPTA61201;*scream like a girl*;;;;;;;;;;;*æóòêèé âèçã*;;x
+EVTOPTA61202;The clumsy oaf should hang for this.;;;;;;;;;;;Íåóêëþæèé ÷óðáàí, òåáÿ ñëåäóåò ïîâåñèòü çà ýòî!;;x
+EVTOPTA61205;*tackle the guard with all your might*;;;;;;;;;;;*òîëêíóòü ñòðàæíèêà ñî âñåé ñèëû*;;x
+EVTOPTA61206;Oh dear.;;;;;;;;;;;ÀÀÀÀ!;;x
+EVTOPTA61207;Better than the guard.;;;;;;;;;;;Ëó÷øå ÷åì ñòðàæíèê.;;x
+EVTOPTA61210;DIE!!!;;;;;;;;;;;ÓÌÐÈ!!!;;x
+EVTOPTA61211;Help! Guards!;;;;;;;;;;;Ïîìîãèòå! Ñòðàæà! ;;x
+EVTOPTA61212;Did... did I miss something?;;;;;;;;;;;Âîçìîæíî... ß ÷òî-òî óïóñêàþ?;;x
+EVTOPTA61212_B_TT; is thrown into a dark cell.;;;;;;;;;;; îòïðàâèòñÿ â òåìíèöó.;;x
+EVTOPTA61212_TT; becomes the new §YRegent§! of [Root.PrimaryTitle.GetName].;;;;;;;;;;; ñòàíåò íîâûì §YÐåãåíòîì§! ãîñóäàðñòâà [Root.PrimaryTitle.GetName].;;x
+EVTOPTA61213;Let me kill [Root.Liege.GetHerHim]. Just a little bit.;;;;;;;;;;;Ïîçâîëüòå ìíå óáèòü [Root.Liege.GetHersHis]. ß òîëüêî íåìíîæêî.;;x
+EVTOPTA61215;Challenge the coward to single combat!;;;;;;;;;;;Áðîñèòü âûçîâ òðóñó íà ïîåäèíêå!;;x
+EVTOPTA61216;Challenge the coward to single combat!;;;;;;;;;;;Áðîñüòå âûçîâ òðóñó â ïîåäèíêå!;;x
+EVTOPTA61217;[Root.Liege.GetTitledFirstName] should be pleased.;;;;;;;;;;;[Root.Liege.GetTitledFirstName] íå ðàçî÷àðóåòñÿ.;;x
+EVTOPTA61218;I did it for [Root.Liege.GetTitledFirstName]!;;;;;;;;;;;[Root.Liege.GetTitledFirstName] - âñ¸ ýòî ðàäè í[Root.Liege.GetHersHis]!;;x
+EVTOPTA61219;Those who doubted me will be sorry.;;;;;;;;;;;Ñîìíåâàþùèåñÿ â ýòîì ñèëüíî ïîæàëåþò.;;x
+EVTOPTA61220;Fools!;;;;;;;;;;;Ãëóïöû!;;x
+EVTOPTA61221;At last, someone who understands politics!;;;;;;;;;;;Íàêîíåö-òî, õîòü êòî-òî ðàçáèðàåòñÿ â ïîëèòèêå!;;x
+EVTOPTA61222;Ha! I would have it no other way!;;;;;;;;;;;Õà! Ó í[Root.Liege.Regent.GetHersHis] íåò øàíñîâ!;;x
+EVTOPTA61223;Have at thee!;;;;;;;;;;;Ïî÷òó çà ÷åñòü!;;x
+EVTOPTA61224;Come then. Let us settle this.;;;;;;;;;;;Ïî÷òó çà ÷åñòü!;;x
+EVTOPTA61225;The matter is settled.;;;;;;;;;;;Äåëî ðåøåíî.;;x
+EVTOPTA61226;Learn from this. Do not oppose me again.;;;;;;;;;;;Ýòî ïîñëóæèò óðîêîì - íå ïåðåõîäèòü ìíå äîðîãó.;;x
+EVTOPTA61227;I have been robbed of a glorious death.;;;;;;;;;;;Ìåíÿ ëèøèëè ñëàâíîé ñìåðòè...;;x
+EVTOPTA61228;There was never any doubt how this would end.;;;;;;;;;;;Âñ¸ ñëó÷èëîñü èìåííî òàê, êàê è äîëæíî áûëî.;;x
+EVTOPTA61229;Be gone from my sight. Ye are not fit to serve the [Root.Liege.GetTitle].;;;;;;;;;;;Ñãèíüòå ñ ãëàç ìîèõ! [Root.Liege.GetTitle] íå çàñëóæèâàåò ñëóæáû òàêîãî ÷åëîâåêà, êàê Âû.;;x
+EVTOPTA61230;I have been robbed of a glorious death.;;;;;;;;;;;Ìåíÿ ëèøèëè ñëàâíîé ñìåðòè...;;x
+EVTOPTA61231;That worm.;;;;;;;;;;;Ñëèçíÿê!;;x
+EVTOPTA61232;It wasn't supposed to end like this...;;;;;;;;;;;Ýòî... íåïðàâèëüíûé êîíåö.;;x
+EVTOPTA61237;Make it so!;;;;;;;;;;;Ïóñòü áóäåò òàê!;;x
+EVTOPTA61238;[Root.Liege.Regent.GetTitledName], you are dismissed.;;;;;;;;;;;[Root.Liege.Regent.GetTitledName], Âû óâîëåíû!;;x
+EVTOPTA61239;No one.;;;;;;;;;;;Íèêòî.;;x
+EVTOPTA61240;So be it!;;;;;;;;;;;Äà áóäåò òàê!;;x
+EVTOPTA61245;Milksop! Worm!;;;;;;;;;;;Ñîïëÿê! ×åðâü!;;x
+EVTOPTA61246;Well, that was easy.;;;;;;;;;;;Ýòî áûëî ïðîñòî.;;x
+EVTOPTA61300;Make it so!;;;;;;;;;;;Äà áóäåò òàê!;;x
+EVTOPTA61301;I shall remember this...;;;;;;;;;;;ß ýòî çàïîìíþ...;;x
+EVTOPTB61000;Perish the thought!;;;;;;;;;;;Äà êàê òîëüêî î òàêîì ìîæíî ïîäóìàòü!;;x
+EVTOPTB61100;Nay, I must remember the limits of my station.;;;;;;;;;;;Íåò. Ìíå ñëåäóåò ïîìíèòü ñâî¸ ìåñòî.;;x
+EVTOPTB61101;*stare vacantly ahead*;;;;;;;;;;;*áåçó÷àñòíî ñìîòðåòü âïåð¸ä*;;x
+EVTOPTB61105;Tempting, but the gold isn't mine to spend.;;;;;;;;;;;Çàìàí÷èâî, íî ÿ íå âïðàâå ðàñïîðÿæàòüñÿ ýòèìè äåíüãàìè.;;x
+EVTOPTB61120;Perhaps I had better not.;;;;;;;;;;;Âîçìîæíî, íå ñòîèò òàê ïîñòóïàòü.;;x
+EVTOPTB61121;*bob head in reckless, unpredictable manner*;;;;;;;;;;;*Íåïðåäñêàçóåìî ìîòàòü ãîëîâîé èç ñòîðîíû â ñòîðîíó*;;x
+EVTOPTB61122;Ah, the fool deserves no less.;;;;;;;;;;;Ýõ... [Root.Liege.GetSheHe] çàñëóæèâàåò ýòî.;;x
+EVTOPTB61123;*sag head and lapse into deep slumber*;;;;;;;;;;;*îïóñòèòü ãîëîâó è óñíóòü*;;x
+EVTOPTB61124;Anyone is better than [Root.Liege.Regent.GetFirstName].;;;;;;;;;;;Äà êòî óãîäíî ëó÷øå, ÷åì [Root.Liege.Regent.GetFirstName]!;;x
+EVTOPTB61130;*utter incomprehensible oath*;;;;;;;;;;;*íåðàçáîð÷èâîå ðóãàòåëüñòâî*;;x
+EVTOPTB61131;*flail arms about in wild celebration*;;;;;;;;;;;*ðàçìàõèâàòü ðóêàìè â äèêîì òîðæåñòâå*;;x
+EVTOPTB61135;No, I'm a good [Root.GetLadLass].;;;;;;;;;;;Íåò, íåëüçÿ òàê äåëàòü.;;x
+EVTOPTB61140;For better or worse, I will step down when the [Root.Liege.GetLadLass] is ready.;;;;;;;;;;;Ìîé äîëã - óéòè, êîãäà [Root.Liege.GetLadLass] ñìîæåò ïðàâèòü.;;x
+EVTOPTB61141;Perhaps the madness will disappear with age and maturity...;;;;;;;;;;;Âîçìîæíî, ñ âîçðàñòîì ýòî ïðîéä¸ò...;;x
+EVTOPTB61146;[Root.Religion.GetRandomGodNameCap] help us when that [Root.Liege.GetLadLass] sits on the throne...;;;;;;;;;;;Äà ïîìîæåò íàì [Root.Religion.GetRandomGodNameCap], êîãäà [Root.Liege.GetLadLass] ïîëó÷èò òðîí...;;x
+EVTOPTB61150;I'm not mad. Tell them, Mr. Flibble.;;;;;;;;;;;ß â ñâî¸ì óìå. Ñêàæè èì, Ôëèááëè-Äàááëè-Äó.;;x
+EVTOPTB61151;I shall plead with the King of the Turnip People for my freedom.;;;;;;;;;;;ß áóäó õîäàòàéñòâîâàòü Êîðîëþ Ðåïêå î ñâîåé âìåíÿåìîñòè!;;x
+EVTOPTB61152;Watch out, world! Here I come!;;;;;;;;;;;Áåðåãèñü, ìèð! ß èäó!;;x
+EVTOPTB61155;No, appearances must be kept.;;;;;;;;;;;Íåò, ìû äîëæíû ñîáëþäàòü òðàäèöèè.;;x
+EVTOPTB61165;GOBBLEDYGOOK!;;;;;;;;;;;ÑÈÌÑÀËÀÁÈÌ!;;x
+EVTOPTB61190;No, that would not be worthy of a [Root.Liege.GetTitle].;;;;;;;;;;;Íåò, [Root.Liege.GetTitle] íå çàñëóæèâàåò òàêîãî îáðàùåíèÿ.;;x
+EVTOPTB61195;The risk is too great.;;;;;;;;;;;Ðèñê ñëèøêîì âåëèê.;;x
+EVTOPTB61200;It will never work.;;;;;;;;;;;Ýòî íå ñðàáîòàåò.;;x
+EVTOPTB61205;No, fortune clearly favors this [Root.Liege.GetLadLass].;;;;;;;;;;;Íåò, â ýòîì ñëó÷àå íåëüçÿ ïîëàãàòüñÿ íà óäà÷ó.;;x
+EVTOPTB61210;I must keep my wits about. I could lose everything...;;;;;;;;;;;Íóæíî óñïîêîèòüñÿ. ß ìîãó ïîòåðÿòü âñ¸...;;x
+EVTOPTB61215;Make your case at court.;;;;;;;;;;;Ðàññìîòðåòü äåëî â ñóäå.;;x
+EVTOPTB61216;Rally support at court.;;;;;;;;;;;Îòñòàèâàòü ñâîþ ïîçèöèþ.;;x
+EVTOPTB61221;I need not prove my martial prowess.;;;;;;;;;;;Ìíå íå íóæíî äîêàçûâàòü ñâî¸ ìàñòåðñòâî.;;x
+EVTOPTB61222;Surely you jest... a duel? He can keep the bloody regency.;;;;;;;;;;;Âû... øóòèòå?! Äóýëü? Ïóñòü çàáèðàåò ñâî¸ ðåãåíòñòâî!;;x
+EVTOPTB61223;By [Root.Religion.GetRandomGodName], what have I gotten myself into? I will have no part in this madness.;;;;;;;;;;;Ýòî áåññìûñëåííî… ß íå ñòàíó ó÷àñòâîâàòü â ýòîì áåçóìèè!;;x
+EVTOPTB61224;He actually came? I... I am needed elsewhere.;;;;;;;;;;;Ýýý... [From.GetSheHe] è ïðàâäà ïðèä¸ò? ß... íå õî÷ó.;;x
+EVTOPTB61226;By [Root.Religion.GetRandomGodName], ye shan't leave this field alive.;;;;;;;;;;;Òàêîé ÷åëîâåê íå äîëæåí îñòàòüñÿ â æèâûõ!;;x
+EVTOPTB61229;Only one of us can leave this field alive, friend. I am sorry.;;;;;;;;;;;Òîëüêî îäèí èç íàñ ìîæåò ïîêèíóòü ýòî ïîëå æèâûì. Ìíå î÷åíü æàëü.;;x
+EVTOPTB61239;I have a wife?;;;;;;;;;;;Ó ìåíÿ åñòü æåíà?;;x
+EVTOPTB61300;No, the Crown comes first!;;;;;;;;;;;Íåò, ñíà÷àëà Êîðîíà!;;x
+EVTOPTC61155;I have had enough. Release the [Root.Liege.GetLadLass].;;;;;;;;;;;Ñ ìåíÿ äîñòàòî÷íî. Îñâîáîäèòü [Root.Liege.GetHersHis].;;x
+EVTOPTC61215;It is not worth the effort.;;;;;;;;;;;Ýòî íå ñòîèò óñèëèé.;;x
+EVTOPTC61216;Abdicate your position.;;;;;;;;;;;Îòñòóïèòü.;;x
+EVTOPTC61221;If he wants the title so badly, he can have it.;;;;;;;;;;;Åñëè [From.GetSheHe] òàê õî÷åò áûòü ðåãåíòîì, ïóñòü èì áóäåò!;;x
+EVTOPTC61239;That hag!;;;;;;;;;;;Âîò âåäüìà!;;x
+EVTTOOLTIP61001;My liege suspects my corruption;;;;;;;;;;;[This.GetLordLadyCap] çàïîäîçðèò ìåíÿ â êàçíîêðàäñòâå;;x
+EVTTOOLTIP61002;The Steward suspects my corruption;;;;;;;;;;;[This.GetMyTreasurerName] çàïîäîçðèò ìåíÿ â êàçíîêðàäñòâå;;x
+EVTTOOLTIP61003;My liege has proof of my corruption;;;;;;;;;;;[This.GetLordLadyCap] íàéä¸ò äîêàçàòåëüñòâà, òîãî, ÷òî ÿ êàçíîêðàä[Root.GetEndKa];;x
+EVTTOOLTIP61004;The Steward has proof of my corruption;;;;;;;;;;;[This.GetMyTreasurerName] íàéä¸ò äîêàçàòåëüñòâà, òîãî, ÷òî ÿ êàçíîêðàä[Root.GetEndKa];;x
+EVTTOOLTIP61101;You usurp a title from [Root.Liege.GetTitledFirstName].;;;;;;;;;;;Âû óçóðïèðîâàëè òèòóë ó ïåðñîíàæà [Root.Liege.GetTitledFirstName].;;x
+EVTTOOLTIP61106;You give alms to the poor in the name of [Root.Liege.GetTitledFirstName].;;;;;;;;;;;Âû ðàçäà¸òå ìèëîñòûíþ áåäíûì îò èìåíè ïåðñîíàæà [Root.Liege.GetTitledFirstName].;;x
+EVTTOOLTIP61121;Those in court with low opinion of [Root.Liege.GetHerHim] approve.;;;;;;;;;;;Ïåðñîíàæè, ïëîõîãî ìíåíèÿ î ñþçåðåíå ([Root.Liege.GetTitledFirstName]), ïîääåðæèâàþò ýòó èäåþ.;;x
+EVTTOOLTIP61123;You speak with the [Root.Liege.GetTitle].;;;;;;;;;;;[Root.Liege.GetTitle] ïîáåñåäóåò ñ Âàìè.;;x
+EVTTOOLTIP61124;You give [From.GetTitledName] your blessing.;;;;;;;;;;;Âû äàëè ïåðñîíàæó [From.GetTitledName] ñâî¸ áëàãîñëîâåíèå.;;x
+EVTTOOLTIP61125;you becoming the next regent.;;;;;;;;;;;Âû ñòàíåòå ñëåäóþùèì ðåãåíòîì.;;x
+EVTTOOLTIP61126;the court appointing a new regent.;;;;;;;;;;;Ïðèäâîðíûå ñàìè âûáåðóò ðåãåíòà.;;x
+EVTTOOLTIP61127;you being thrown in the dungeons.;;;;;;;;;;;Âàñ áðîñèëè â òþðüìó.;;x
+EVTTOOLTIP61129;[Root.Liege.Regent.GetFirstName] is thrown in the dungeons.;;;;;;;;;;;[Root.Liege.Regent.GetFirstName] îòïðàâèòñÿ â òåìíèöó.;;x
+EVTTOOLTIP61145;having [Root.Liege.GetTitledFirstName] declared insane.;;;;;;;;;;;Íàñòîÿùèì óêàçîì - ïåðñîíàæ [Root.Liege.GetTitledFirstName] îáúÿâëåí áåçóìíûì.;;x
+EVTTOOLTIP61146;failing to do so.;;;;;;;;;;;Âû íå â ñîñòîÿíèè ñäåëàòü ýòî.;;x
+EVTTOOLTIP61156;stealing the throne.;;;;;;;;;;;Óçóðïàöèÿ òðîíà.;;x
+EVTTOOLTIP61157;failing miserably.;;;;;;;;;;;Óæàñíûé ïðîâàë.;;x
+EVTTOOLTIP61160;The [Root.Liege.GetTitle] is set free!;;;;;;;;;;;[Root.Liege.GetTitle] îñâîáîæäàåòñÿ!;;x
+EVTTOOLTIP61161;A new [Root.Liege.GetTitle].;;;;;;;;;;;Äà çäðàâñòâóåò [Root.Liege.GetTitle]!;;x
+EVTTOOLTIP61166;Well, you gave it your best shot...;;;;;;;;;;;×òî æ, Âû ñäåëàëè ñâîþ ëó÷øóþ ïîïûòêó...;;x
+EVTTOOLTIP61170;Your regent is arrested.;;;;;;;;;;;Âàø ðåãåíò àðåñòîâàí.;;x
+EVTTOOLTIP61191;May perish in an unfortunate accident.;;;;;;;;;;;Â ñëó÷àå íåóäà÷è ìîæíî ïîãèáíóòü.;;x
+EVTTOOLTIP61192;a roof free of bird excrements.;;;;;;;;;;;Êðûøà ñâîáîäíà îò ïîìåòà.;;x
+EVTTOOLTIP61197;safely returning to civilization (such as it is).;;;;;;;;;;;Âîçâðàùåíèå ê öèâèëèçàöèè.;;x
+EVTTOOLTIP61202;surviving a tragic carriage accident.;;;;;;;;;;;Âûæèâøèé â òðàãè÷åñêîé àâàðèè.;;x
+EVTTOOLTIP61207;not cushioning the guard's fall at your own expense.;;;;;;;;;;;Âû íå ñòàëè ïîäóøêîé äëÿ ñòðàæíèêà.;;x
+EVTTOOLTIP61211;May perish in an unfortunate stabbing spree.;;;;;;;;;;;Åñòü øàíñ ïîãèáíóòü ïðè óäàðå.;;x
+EVTTOOLTIP61212;bravely evading the dagger.;;;;;;;;;;;Ñìåëîå óêëîíåíèå îò óäàðà;;x
+EVTTOOLTIP61213;Thrown into a dark cell.;;;;;;;;;;;Áðîøåí â òåìíèöó.;;x
+EVTTOOLTIP61216;Regency put into question.;;;;;;;;;;;Ðåãåíòñòâî ïîñòàâëåíî ïîä âîïðîñ.;;x
+EVTTOOLTIP61217;Becomes new regent.;;;;;;;;;;;Âû ñòàëè íîâûì ðåãåíòîì.;;x
+EVTTOOLTIP61219;successfully defending your regency.;;;;;;;;;;;Âû çàùèòèëè ñâî¸ ïðàâî íà ðåãåíòñòâî.;;x
+EVTTOOLTIP61220;losing your regency to [From.GetTitledName].;;;;;;;;;;;Âû ïðîèãðàëè ðåãåíòñòâî êîíêóðåíòó. [FromFrom.GetTitledFirstName] çàíÿë[FromFrom.GetEndA] Âàøå ìåñòî.;;x
+EVTTOOLTIP61221;The challenge is issued!;;;;;;;;;;;Âûçîâ ïðèíÿò!;;x
+EVTTOOLTIP61223;Challenge accepted!;;;;;;;;;;;Âûçîâ ïðèíÿò!;;x
+EVTTOOLTIP61225;delivering a killing blow.;;;;;;;;;;;Íàíåñ¸í ñìåðòåëüíûé óäàð.;;x
+EVTTOOLTIP61226;inflicting a serious wound.;;;;;;;;;;;Íàíåñåíà ñåðü¸çíàÿ ðàíà.;;x
+EVTTOOLTIP61227;The regent loses, is maimed.;;;;;;;;;;;Âû áîëüøå íå ðåãåíò.;;x
+EVTTOOLTIP61228;delivering a killing blow.;;;;;;;;;;;Íàíåñ¸í ñìåðòåëüíûé óäàð.;;x
+EVTTOOLTIP61229;inflicting a serious wound.;;;;;;;;;;;Íàíåñåíà ñåðü¸çíàÿ ðàíà.;;x
+EVTTOOLTIP61230;spared from death.;;;;;;;;;;;Ñïàñåíèå îò ñìåðòè.;;x
+EVTTOOLTIP61231;Informed of your shameful cowardice.;;;;;;;;;;;Çíàåò î Âàøåé òðóñîñòè.;;x
+EVTTOOLTIP61232;is put out of his misery.;;;;;;;;;;;Êîíåö ìó÷åíèÿì ïîëîæåí.;;x

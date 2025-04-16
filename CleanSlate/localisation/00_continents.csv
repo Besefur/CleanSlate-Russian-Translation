@@ -1,15 +1,14 @@
 # Continents - for 'continent'-trigger
-
-region_balkans;the Balkans;;;;;;;;;;;;;x
-region_baltic;Baltic Trade Region;;;;;;;;;;;;;x
-region_british_isles;British Isles;;;;;;;;;;;;;x
-region_east_med;East Mediterranean Trade Region;;;;;;;;;;;;;x
-region_eastern_europe;Eastern Europe;;;;;;;;;;;;;x
-region_france;France;;;;;;;;;;;;;x
-region_iberia;Iberia;;;;;;;;;;;;;x
-region_italy;Italy;;;;;;;;;;;;;x
-region_levant;the Levant;;;;;;;;;;;;;x
-region_north_africa;North Africa;;;;;;;;;;;;;x
-region_north_atlantic;North Atlantic Trade Region;;;;;;;;;;;;;x
-region_scandinavia;Scandinavia;;;;;;;;;;;;;x
-region_west_med;West Mediterranean Trade Region;;;;;;;;;;;;;x
+region_balkans;the Balkans;;;;;;;;;;;Áàëêàíû;;x
+region_baltic;Baltic Trade Region;;;;;;;;;;;Áàëòèéñêèé òîðãîâûé ðåãèîí;;x
+region_british_isles;British Isles;;;;;;;;;;;Áðèòàíñêèå îñòðîâà;;x
+region_east_med;East Mediterranean Trade Region;;;;;;;;;;;Âîñòî÷íî-Ñðåäèçåìíîìîðñêèé òîðãîâûé ðåãèîí;;x
+region_eastern_europe;Eastern Europe;;;;;;;;;;;Âîñòî÷íàÿ Åâðîïà;;x
+region_france;France;;;;;;;;;;;Ôðàíöèÿ;;x
+region_iberia;Iberia;;;;;;;;;;;Èáåðèÿ;;x
+region_italy;Italy;;;;;;;;;;;Èòàëèÿ;;x
+region_levant;the Levant;;;;;;;;;;;Ëåâàíò;;x
+region_north_africa;North Africa;;;;;;;;;;;Ñåâåðíàÿ Àôðèêà;;x
+region_north_atlantic;North Atlantic Trade Region;;;;;;;;;;;Ñåâåðî-Àòëàíòè÷åñêèé òîðãîâûé ðåãèîí;;x
+region_scandinavia;Scandinavia;;;;;;;;;;;Ñêàíäèíàâèÿ;;x
+region_west_med;West Mediterranean Trade Region;;;;;;;;;;;Çàïàäíî-Ñðåäèçåìíîìîðñêèé òîðãîâûé ðåãèîí;;x

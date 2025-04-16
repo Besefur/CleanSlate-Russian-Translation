@@ -1,79 +1,70 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC37000;I should ask [Root.Liege.GetTitledFirstName] to grant me a title.;;;;;;;;;;;;;x
-EVTDESC37001;Today, my [GetFromRelation] [From.GetFirstName] asked me for a fief of [From.GetPossPronoun] own to govern...;;;;;;;;;;;;;x
-EVTDESC37002;[From.GetTitledFirstName] promised me a title!;;;;;;;;;;;;;x
-EVTDESC37003;[From.GetTitledFirstName] refused to grant me a title!;;;;;;;;;;;;;x
-EVTDESC37004;'You are not ready yet...' was [From.GetTitledFirstName] excuse to refuse grant me a title!;;;;;;;;;;;;;x
-EVTDESC37005;[Root.Liege.GetTitledFirstName] must have forgotten [Root.Liege.GetSheHe] promised [Root.Liege.GetSheHe] would grant me a title.;;;;;;;;;;;;;x
-EVTDESC37006;My [GetFromRelation] [From.GetFirstName] is reminding me of my promise to grant [From.GetObjectPronoun] a fiefdom again...;;;;;;;;;;;;;x
-EVTDESC37007;I asked [From.GetTitledFirstName] once again for a fiefdom but [From.GetTitledFirstName] refused to give me a title!;;;;;;;;;;;;;x
-EVTDESC37011;[From.GetBestName] - a disgruntled noble from the court of [From.Liege.GetTitledName] - has appeared in my realm, furious that [From.GetPossPronoun] [FromScope.GetLiegeRelation] would deny [From.GetObjectPronoun] a title of [From.GetPossPronoun] own. [From.GetTitledFirstName] intends to raise an army and take the [From.Liege.PrimaryTitle.GetFullName] by force!;;;;;;;;;;;;;x
-EVTDESC37012;[FromFrom.GetTitledFirstName] is so furious over my refusal to grant [FromFrom.GetObjectPronoun] a title that [FromFrom.GetSubjectPronoun] has left the realm for the court of [From.GetTitledName], letting it be known that [FromFrom.GetSubjectPronoun] is hiring troops to take what is 'rightfully' [FromFrom.GetPossPronoun] by force of arms!;;;;;;;;;;;;;x
-EVTDESC37050;It is time for me to get married, or at least betrothed to a suitable match!;;;;;;;;;;;;;x
-EVTDESC37051;My beloved [target_relative.GetRootRelation] [target_relative.GetFirstName] is concerned that [target_relative.GetSubjectPronoun] is still not married.;;;;;;;;;;;;;x
-EVTDESC37052;My [GetFromRelation] has promised to arrange a marriage for me!;;;;;;;;;;;;;x
-EVTDESC37053;[From.GetTitledFirstName] had forgotten [From.GetHerHis] promise, and told me [From.GetSheHe] would not help me find a suitable spouse!;;;;;;;;;;;;;x
-EVTDESC37054;I am still not married nor betrothed! Surely [Root.Liege.GetTitledFirstName] has not forgotten about [Root.Liege.GetHerHis] promise to find me a suitable spouse?;;;;;;;;;;;;;x
-EVTDESC37055;[From.GetFirstName], my dear [GetFromRelation], clearly upset, is reminding me of my promise to get [From.GetObjectPronoun] married.;;;;;;;;;;;;;x
-EVTDESC37056;An arranged marriage has been denied me, I will find me a wife without help!;;;;;;;;;;;;;x
-EVTDESC37056_B;An arranged marriage has been denied me, I will find me a husband without help!;;;;;;;;;;;;;x
-EVTDESC37057;My hopeless [GetFromRelation] has betrayed me and secretly gotten married to a lady-in-waiting.;;;;;;;;;;;;;x
-EVTDESC37057_B;My hopeless [GetFromRelation] has betrayed me and secretly gotten married to a servant.;;;;;;;;;;;;;x
-
-EVTOPTA37000;Please?;;;;;;;;;;;;;x
-EVTOPTA37001;I promised to arrange it;;;;;;;;;;;;;x
-EVTOPTA37002;It had better not be hollow words...;;;;;;;;;;;;;x
-EVTOPTA37003;This will not stand!;;;;;;;;;;;;;x
-EVTOPTA37004;I'll ask again later...;;;;;;;;;;;;;x
-EVTOPTA37005;Ask [Root.Liege.GetTitledFirstName] again;;;;;;;;;;;;;x
-EVTOPTA37006;Oh, very well!;;;;;;;;;;;;;x
-EVTOPTA37007;This is an outrage!;;;;;;;;;;;;;x
-EVTOPTA37011;I guess I can allow that...;;;;;;;;;;;;;x
-EVTOPTA37012;The traitorous git!;;;;;;;;;;;;;x
-EVTOPTA37050;I shall ask [Root.Liege.GetTitledFirstName] for a suitable spouse!;;;;;;;;;;;;;x
-EVTOPTA37051;I will find [target_relative.GetObjectPronoun] someone nice!;;;;;;;;;;;;;x
-EVTOPTA37054;I must remind [Root.Liege.GetTitledFirstName] about [Root.GetHerHis] promise!;;;;;;;;;;;;;x
-EVTOPTA37056;I'm getting married right now!;;;;;;;;;;;;;x
-EVTOPTA37055;I have just the person in mind!;;;;;;;;;;;;;x
-EVTOPTA37057;Ah well, I wish them luck!;;;;;;;;;;;;;x
-
-EVTOPTB37001;I told [From.GetObjectPronoun] [From.GetSubjectPronoun] is not ready;;;;;;;;;;;;;x
-EVTOPTB37004;Not again!;;;;;;;;;;;;;x
-EVTOPTB37006;I've had it with [From.GetPossPronoun] whining!;;;;;;;;;;;;;x
-EVTOPTB37007;I WILL have what is mine!;;;;;;;;;;;;;x
-EVTOPTB37051;And here I was hoping [target_relative.GetSubjectPronoun]'d take the vows...;;;;;;;;;;;;;x
-EVTOPTB37055;That's it, you're off to the monastery!;;;;;;;;;;;;;x
-EVTOPTB37057;The insolence! I will not forget this...;;;;;;;;;;;;;x
-
-EVTOPTC37001;I mentioned a Church career...;;;;;;;;;;;;;x
-EVTOPTC37055;I still have not found anyone suitable...;;;;;;;;;;;;;x
-EVTOPTC37057;Long life to them... in the oubliette!;;;;;;;;;;;;;x
-
-EVTOPTD37001;Diplomatically refuse;;;;;;;;;;;;;x
-EVTOPTD37055;You are already married, remember? To [From.Spouse.GetTitledFirstName]?;;;;;;;;;;;;;x
-
-EVTTOOLTIP37001;[Root.GetTitledFirstName] asks [This.GetTitledFirstName] for a title;;;;;;;;;;;;;x
-EVTTOOLTIP37002;[This.GetFirstName] will expect a title soon;;;;;;;;;;;;;x
-EVTTOOLTIP37003;[This.GetFirstName] is angry with me;;;;;;;;;;;;;x
-EVTTOOLTIP37004;[This.GetFirstName] is disappointed;;;;;;;;;;;;;x
-EVTTOOLTIP37006;[This.GetTitledFirstName] is asked once again to grant [Root.GetTitledFirstName] a title.;;;;;;;;;;;;;x
-EVTTOOLTIP37007;[This.GetFirstName] won't like this...;;;;;;;;;;;;;x
-EVTTOOLTIP37051;[This.GetTitledFirstName] is asked to find a spouse for [Root.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP37052;[This.GetSubjectPronounCap] is delighted with my promise!;;;;;;;;;;;;;x
-EVTTOOLTIP37053;[This.GetSubjectPronounCap] storms out of the room.;;;;;;;;;;;;;x
-EVTTOOLTIP37055;[This.GetTitledFirstName] is reminded about [This.GetHerHis] promise about finding a suitable spouse for [Root.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP37057;[Root.GetTitledFirstName] gets married without [This.GetTitledFirstName]'s consent;;;;;;;;;;;;;x
-
-EVTDESC_37252;You are bent low over your [Root.GetEducationTool], struggling to stay focused and to keep your eyes open, when your [target_spouse.GetHusbandWife] [target_spouse.GetTitledFirstName] enters. [target_spouse.GetSheHeCap] crosses the room and inspects the [Root.GetEducationTool] over your shoulder. "Perhaps a fresh pair of eyes might prove helpful, dear [Root.GetHusbandWife]?";;;;;;;;;;;;;x
-EVTDESC_37253;Your [target_spouse.GetHusbandWife] has received an education in [target_spouse.GetEducationSubject], like yourself, so [target_spouse.GetSheHe] quickly grasps the nuances of the problem as you explain it. The two of you set to work, discussing and comparing [Root.GetEducationalTopicPlural]. [target_spouse.GetFirstName] is a most competent [target_spouse.GetEducationRole]! Within the hour, you have laid the groundwork for a promising solution.;;;;;;;;;;;;;x
-
-EVTOPTA_37252;Perhaps you are right, [target_spouse.GetFirstName].;;;;;;;;;;;;;x
-EVTOPTA_37252_TOOLTIP;Accept §Y[target_spouse.GetTitledFirstName]§!'s offer to help.\n;;;;;;;;;;;;;x
-EVTOPTA_37253;A brilliant idea, [target_spouse.GetFirstName]! Have you any additional suggestions?;;;;;;;;;;;;;x
-EVTOPTA_37253_TOOLTIP;Finish your work with the help of §Y[target_spouse.GetTitledFirstName]§!.\n;;;;;;;;;;;;;x
-
-EVTOPTB_37252;You don't think I can handle this on my own?;;;;;;;;;;;;;x
-EVTOPTB_37252_TOOLTIP;Refuse §Y[target_spouse.GetTitledFirstName]§!'s offer to help.\n;;;;;;;;;;;;;x
-EVTOPTB_37253;Let us retire to the bedchamber, my dear...;;;;;;;;;;;;;x
-EVTOPTB_37253_TOOLTIP;Leave your work for now and spend some quality time with §Y[target_spouse.GetTitledFirstName]§!...\n;;;;;;;;;;;;;x
+EVTDESC37000;I should ask [Root.Liege.GetTitledFirstName] to grant me a title.;;;;;;;;;;;Íóæíî ñïðîñèòü, äàðóåò ëè [Root.Liege.GetTitledFirstName] ìíå òèòóë.;;x
+EVTDESC37001;Today, my [GetFromRelation] [From.GetFirstName] asked me for a fief of [From.GetPossPronoun] own to govern...;;;;;;;;;;;Ñåãîäíÿ ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] ïîïðîñèë[From.GetEndA] ó ìåíÿ âëàäåíèå äëÿ ñàìîñòîÿòåëüíî óïðàâëåíèÿ...;;x
+EVTDESC37002;[From.GetTitledFirstName] promised me a title!;;;;;;;;;;;[From.GetTitledFirstName] îáåùàåò ìíå òèòóë!;;x
+EVTDESC37003;[From.GetTitledFirstName] refused to grant me a title!;;;;;;;;;;;[From.GetTitledFirstName] îòêàçûâàåòñÿ äàðîâàòü ìíå òèòóë!;;x
+EVTDESC37004;'You are not ready yet...' was [From.GetTitledFirstName] excuse to refuse grant me a title!;;;;;;;;;;;" ""Âû åù¸ íå ãîòîâû..."" - âîò ïðåäëîã, ïîä êîòîðûì [From.GetTitledFirstName] îòêàçûâàåò ìíå â òèòóëå!";;x
+EVTDESC37005;[Root.Liege.GetTitledFirstName] must have forgotten [Root.Liege.GetSheHe] promised [Root.Liege.GetSheHe] would grant me a title.;;;;;;;;;;;[Root.Liege.GetTitledFirstName] äîëæíî áûòü íå ïîìíèò, ÷òî [Root.Liege.GetHersHis] Ìèëîñòü îáåùàëè äàðîâàòü ìíå òèòóë.;;x
+EVTDESC37006;My [GetFromRelation] [From.GetFirstName] is reminding me of my promise to grant [From.GetObjectPronoun] a fiefdom again...;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] íàïîìèíàåò î ìî¸ì îáåùàíèè ïðåäîñòàâèòü [From.GetHerHim] âëàäåíèå.;;x
+EVTDESC37007;I asked [From.GetTitledFirstName] once again for a fiefdom but [From.GetTitledFirstName] refused to give me a title!;;;;;;;;;;;ß ïîïðîñèë åù¸ ðàç î âîò÷èíå, íî [From.GetTitledFirstName] îïÿòü îòêàçàë ìíå â òèòóëå!;;x
+EVTDESC37011;[From.GetBestName] - a disgruntled noble from the court of [From.Liege.GetTitledName] - has appeared in my realm, furious that [From.GetPossPronoun] [FromScope.GetLiegeRelation] would deny [From.GetObjectPronoun] a title of [From.GetPossPronoun] own. [From.GetTitledFirstName] intends to raise an army and take the [From.Liege.PrimaryTitle.GetFullName] by force!;;;;;;;;;;;[From.GetBestName] ïðè äâîðå ïðàâèòåëÿ, èçâåñòíîãî êàê [From.Liege.GetTitledName] ÿâè[From.GetLasLsya] êî ìíå, íå ñêðûâàÿ ñâîåãî íåäîâîëüñòâà ïî ïîâîäó òîãî, ÷òî [From.GetAbsPossPronoun] [From.Liege.GetFromVsRelation] ìîæåò îòêàçàòü [From.GetHerHim] â òèòóëå çåìëè [From.Liege.PrimaryTitle.GetFullName]. [From.GetTitledFirstName] õî÷åò ñîáðàòü àðìèþ è âçÿòü ýòîò òèòóë ñèëîé!;;x
+EVTDESC37012;[FromFrom.GetTitledFirstName] is so furious over my refusal to grant [FromFrom.GetObjectPronoun] a title that [FromFrom.GetSubjectPronoun] has left the realm for the court of [From.GetTitledName], letting it be known that [FromFrom.GetSubjectPronoun] is hiring troops to take what is 'rightfully' [FromFrom.GetPossPronoun] by force of arms!;;;;;;;;;;;[FromFrom.GetTitledFirstName] ðàçîçëè[FromFrom.GetLasLsya] èç-çà ìîåãî îòêàçà ïðåäîñòàâèòü [FromFrom.GetHerHim] òèòóë, è òåïåðü ïîêèíóë[From.GetEndA] ãîñóäàðñòâî, ÷òîáû ïðèñîåäèíèòüñÿ ê ïðàâèòåëþ ïî èìåíè [From.GetTitledName], ÷òîáû ñîáðàòü âîéñêà è çàáðàòü òî, ÷òî ïî ïðàâó [FromFrom.GetHersHis]!;;x
+EVTDESC37050;It is time for me to get married, or at least betrothed to a suitable match!;;;;;;;;;;;Ìíå ïðèøëî âðåìÿ âñòóïèòü â áðàê, èëè ïî êðàéíåé ìåðå äîãîâîðèòüñÿ î ïîìîëâêå ñ ïîäõîäÿùèì ÷åëîâåêîì.;;x
+EVTDESC37051;My beloved [target_relative.GetRootRelation] [target_relative.GetFirstName] is concerned that [target_relative.GetSubjectPronoun] is still not married.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] âîëíóåòñÿ, ÷òî äî ñèõ ïîð íå â áðàêå.;;x
+EVTDESC37052;My [GetFromRelation] has promised to arrange a marriage for me!;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] ïîîáåùàë[From.GetEndA] óñòðîèòü ìîé áðàê!;;x
+EVTDESC37053;[From.GetTitledFirstName] had forgotten [From.GetHerHis] promise, and told me [From.GetSheHe] would not help me find a suitable spouse!;;;;;;;;;;;[From.GetTitledFirstName] íå ïîìíèò î ñâî¸ì îáåùàíèè, ìíå ñêàçàëè, ÷òî [From.GetSheHe] íå ïîìîæåò ìíå íàéòè ïîäõîäÿùóþ ïàðó!;;x
+EVTDESC37054;I am still not married nor betrothed! Surely [Root.Liege.GetTitledFirstName] has not forgotten about [Root.Liege.GetHerHis] promise to find me a suitable spouse?;;;;;;;;;;;ß äî ñèõ ïîð íå â áðàêå èëè ïîìîëâêå! [Root.Liege.GetTitledFirstName] êîíå÷íî æå ïîìíèò î ñâî¸ì îáåùàíèè íàéòè ìíå ïîäõîäÿùóþ ïàðó?;;x
+EVTDESC37055;[From.GetFirstName], my dear [GetFromRelation], clearly upset, is reminding me of my promise to get [From.GetObjectPronoun] married.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName], â ÿâíîì ðàññòðîéñòâå, íàïîìèíàåò ìíå î ìî¸ì îáåùàíèè ïîäûñêàòü ïîäõîäÿùóþ ïàðó.;;x
+EVTDESC37056;An arranged marriage has been denied me, I will find me a wife without help!;;;;;;;;;;;Ìíå îòêàçàëè â îáåùàííîì áðàêå, ÿ íàéäó ñåáå [Root.GetHusbandWifeOppACC] áåç ïîñòîðîííåé ïîìîùè!;;x
+EVTDESC37056_B;An arranged marriage has been denied me, I will find me a husband without help!;;;;;;;;;;;Ìíå îòêàçàëè â îáåùàííîì áðàêå, ÿ íàéäó ñåáå [Root.GetHusbandWifeOppACC] áåç ïîñòîðîííåé ïîìîùè!;;x
+EVTDESC37057;My hopeless [GetFromRelation] has betrayed me and secretly gotten married to a lady-in-waiting.;;;;;;;;;;;Ìîé áåçíàäåæíûé [From.GetRootRelation] ïðåäàë ìåíÿ, è òàéíî æåíèëñÿ íà ôðåéëèíå.;;x
+EVTDESC37057_B;My hopeless [GetFromRelation] has betrayed me and secretly gotten married to a servant.;;;;;;;;;;;Ì[Root.GetOyaOy] [From.GetRootRelation] ïðåäàë[From.GetEndA] ìî¸ äîâåðèå è [From.GetHasMarried] [From.GetMarryZaNa] [From.GetServantSuffixOppMarry].;;x
+EVTOPTA37000;Please?;;;;;;;;;;;Ïîæàëóéñòà!;;x
+EVTOPTA37001;I promised to arrange it;;;;;;;;;;;Ïîîáåùàþ óñòðîèòü;;x
+EVTOPTA37002;It had better not be hollow words...;;;;;;;;;;;Ëó÷øå áû ýòî áûëè íå ïóñòûå ñëîâà...;;x
+EVTOPTA37003;This will not stand!;;;;;;;;;;;ß ýòîãî òàê íå îñòàâëþ!;;x
+EVTOPTA37004;I'll ask again later...;;;;;;;;;;;ß ïîïðîøó ñíîâà ïîçæå...;;x
+EVTOPTA37005;Ask [Root.Liege.GetTitledFirstName] again;;;;;;;;;;;ß ïîïðîøó [Root.Liege.GetHersHis] ñíîâà;;x
+EVTOPTA37006;Oh, very well!;;;;;;;;;;;Íó, õîðîøî!;;x
+EVTOPTA37007;This is an outrage!;;;;;;;;;;;Ýòî áåçîáðàçèå!;;x
+EVTOPTA37011;I guess I can allow that...;;;;;;;;;;;Ïîëàãàþ, ÿ ìîãó ïîçâîëèòü ýòî...;;x
+EVTOPTA37012;The traitorous git!;;;;;;;;;;;Ìåðçê[FromFrom.GetAyaIy] ïðåäàòåëü[FromFrom.GetEndNitsa]!;;x
+EVTOPTA37050;I shall ask [Root.Liege.GetTitledFirstName] for a suitable spouse!;;;;;;;;;;;[Root.Liege.GetTitledFirstName] ñìîæåò íàéòè ìíå ïîäõîäÿùåãî ñóïðóãà!;;x
+EVTOPTA37051;I will find [target_relative.GetObjectPronoun] someone nice!;;;;;;;;;;;Îáåùàþ ïîäûñêàòü õîðîøóþ ïàðó!;;x
+EVTOPTA37054;I must remind [Root.Liege.GetTitledFirstName] about [Root.GetHerHis] promise!;;;;;;;;;;;[Root.Liege.GetTitledFirstName]... Ìíå ñëåäóåò íàïîìíèòü î [Root.GetHersHis] îáåùàíèè!;;x
+EVTOPTA37056;I'm getting married right now!;;;;;;;;;;;ß [Root.GetWillMarry] ïðÿìî ñåé÷àñ!;;x
+EVTOPTA37055;I have just the person in mind!;;;;;;;;;;;Åñòü ó ìåíÿ êîå-êòî íà ïðèìåòå!;;x
+EVTOPTA37057;Ah well, I wish them luck!;;;;;;;;;;;Íó ÷òî æ, ÿ æåëàþ èì óäà÷è!;;x
+EVTOPTB37001;I told [From.GetObjectPronoun] [From.GetSubjectPronoun] is not ready;;;;;;;;;;;ß ñêàæó, ÷òî îí[From.GetEndA] åù¸ íå ãîòîâ[From.GetEndA].;;x
+EVTOPTB37004;Not again!;;;;;;;;;;;Òîëüêî íå ýòî!;;x
+EVTOPTB37006;I've had it with [From.GetPossPronoun] whining!;;;;;;;;;;;Ìíå íàäîåëî åãî íûòüå!;;x
+EVTOPTB37007;I WILL have what is mine!;;;;;;;;;;;ß ÏÎËÓ×Ó òî, ÷òî ïî ïðàâó ÌÎ¨!;;x
+EVTOPTB37051;And here I was hoping [target_relative.GetSubjectPronoun]'d take the vows...;;;;;;;;;;;ß äóìàë, òû â ìîíàñòûðü óéä¸øü...;;x
+EVTOPTB37055;That's it, you're off to the monastery!;;;;;;;;;;;Òàê, âñå! Â ìîíàñòûðü òåáÿ!;;x
+EVTOPTB37057;The insolence! I will not forget this...;;;;;;;;;;;Êàêàÿ íàãëîñòü! ß íå çàáóäó ýòîãî...;;x
+EVTOPTC37001;I mentioned a Church career...;;;;;;;;;;;ß óïîìÿíó öåðêîâíóþ êàðüåðó...;;x
+EVTOPTC37055;I still have not found anyone suitable...;;;;;;;;;;;ß äî ñèõ ïîð íå ìîãó íàéòè ïîäõîäÿùåãî ÷åëîâåêà...;;x
+EVTOPTC37057;Long life to them... in the oubliette!;;;;;;;;;;;Äîëãîé èì æèçíè... â òåìíèöå!;;x
+EVTOPTD37001;Diplomatically refuse;;;;;;;;;;;Äèïëîìàòè÷íî îòêàçàòüñÿ;;x
+EVTOPTD37055;You are already married, remember? To [From.Spouse.GetTitledFirstName]?;;;;;;;;;;;[From.Spouse.GetFirstName] åù¸ Âàø[From.Spouse.GetEndA] [From.Spouse.GetHusbandWife], ïîìíèòå?;;x
+EVTTOOLTIP37001;[Root.GetTitledFirstName] asks [This.GetTitledFirstName] for a title;;;;;;;;;;;[Root.GetTitledFirstName] ïðîñèò ïåðñîíàæà [This.GetTitledFirstName] î òèòóëå;;x
+EVTTOOLTIP37002;[This.GetFirstName] will expect a title soon;;;;;;;;;;;[This.GetFirstName] áóäåò îæèäàòü ñêîðåéøåãî òèòóëîâàíèÿ;;x
+EVTTOOLTIP37003;[This.GetFirstName] is angry with me;;;;;;;;;;;[This.GetFirstName] ñåðäèòñÿ íà ìåíÿ;;x
+EVTTOOLTIP37004;[This.GetFirstName] is disappointed;;;;;;;;;;;[This.GetFirstName] ðàçî÷àðóåòñÿ;;x
+EVTTOOLTIP37006;[This.GetTitledFirstName] is asked once again to grant [Root.GetTitledFirstName] a title.;;;;;;;;;;;ñíîâà ïîïðîñèò, ÷òîáû ïåðñîíàæ [Root.GetTitledFirstName] ïîëó÷èë òèòóë.;;x
+EVTTOOLTIP37007;[This.GetFirstName] won't like this...;;;;;;;;;;;[This.GetFirstName] ðàññòðîèòñÿ...;;x
+EVTTOOLTIP37051;[This.GetTitledFirstName] is asked to find a spouse for [Root.GetTitledFirstName];;;;;;;;;;;ïîïðîñèëè íàéòè ïàðó äëÿ [Root.GetTitledFirstName];;x
+EVTTOOLTIP37052;[This.GetSubjectPronounCap] is delighted with my promise!;;;;;;;;;;;[This.GetSubjectPronounCap] â âîñòîðãå îò ìîåãî îáåùàíèÿ!;;x
+EVTTOOLTIP37053;[This.GetSubjectPronounCap] storms out of the room.;;;;;;;;;;;[This.GetSubjectPronounCap] âûáåãàåò èç êîìíàòû.;;x
+EVTTOOLTIP37055;[This.GetTitledFirstName] is reminded about [This.GetHerHis] promise about finding a suitable spouse for [Root.GetTitledFirstName];;;;;;;;;;;íàïîìèíàþò î [This.GetHersHis] îáåùàíèè î ïîèñêå ïîäõîäÿùåé ïàðû äëÿ ïåðñîíàæà [Root.GetTitledFirstName];;x
+EVTTOOLTIP37057;[Root.GetTitledFirstName] gets married without [This.GetTitledFirstName]'s consent;;;;;;;;;;;[Root.GetTitledFirstName] âñòóïèò â áðàê âîïðåêè òîìó, ÷òî [This.GetTitledFirstName] ïðîòèâ.;;x
+EVTDESC_37252;"You are bent low over your [Root.GetEducationTool], struggling to stay focused and to keep your eyes open, when your [target_spouse.GetHusbandWife] [target_spouse.GetTitledFirstName] enters. [target_spouse.GetSheHeCap] crosses the room and inspects the [Root.GetEducationTool] over your shoulder. ""Perhaps a fresh pair of eyes might prove helpful, dear [Root.GetHusbandWife]?""";;;;;;;;;;;"Êàæåòñÿ, ìíå óäàëîñü ïîãðóçèòüñÿ â ñâîè äåëà, è [Root.GetEducationTool] - åäèíñòâåííîå, íà ÷¸ì ñîñðåäîòî÷åíî ìî¸ âíèìàíèå, íî óòîìëåíèå óæå ïîäñòóïàåò è ñòàíîâèòñÿ âñ¸ òðóäíåå äåðæàòü ãëàçà îòêðûòûìè. Îïîìíèâøèñü, ÿ çàìåòèë[Root.GetEndA], ÷òî ì[From.GetOyaOy] [From.GetHusbandWife] [From.GetFirstName] ñòîèò ðÿäîì è ñ èíòåðåñîì ñìîòðèò íà òî, ÷åì ÿ çàíèìàþñü.\n""[Root.GetFirstName], äóìàþ, òåáå íå ïîìåøàåò ñâåæèé âçãëÿä. Ìîãó ÿ ÷åì-íèáóäü ïîìî÷ü?"" — ñêàçàë[From.GetEndA] [From.GetSheHe].";;x
+EVTDESC_37253;Your [target_spouse.GetHusbandWife] has received an education in [target_spouse.GetEducationSubject], like yourself, so [target_spouse.GetSheHe] quickly grasps the nuances of the problem as you explain it. The two of you set to work, discussing and comparing [Root.GetEducationalTopicPlural]. [target_spouse.GetFirstName] is a most competent [target_spouse.GetEducationRole]! Within the hour, you have laid the groundwork for a promising solution.;;;;;;;;;;;"Ì[From.GetOyaOy] [From.GetHusbandWife] â îñíîâíîì çíàåò òî æå, ÷òî è ÿ. Ìû ïîëó÷èëè îäèíàêîâîå îáðàçîâàíèå, è [From.GetEducationSubject] - íàøà îáùàÿ ñïåöèàëüíîñòü. ß îáúÿñíèë[Root.GetEndA] ñóòü ïðîáëåìû, è [From.GetSheHe] ñðàçó âíèê[From.GetNoneE] â íüþàíñû. ""Èòàê, ïåðâîå, íà ÷òî íóæíî îáðàòèòü âíèìàíèå - ýòî [Root.GetEducationalTopicPlural]..."" — óâåðåííî çàÿâèë[From.GetEndA] [From.GetSheHe]. Âñ¸-òàêè [From.GetFirstName] - ïðåêðàñí[From.GetEducationRoleWithPrefix]! Íå ïðîøëî è ÷àñà, à ìû óæå ïî÷òè íàøëè ðåøåíèå.";;x
+EVTOPTA_37252;Perhaps you are right, [target_spouse.GetFirstName].;;;;;;;;;;;Ñïàñèáî. Áûëî áû çäîðîâî.;;x
+EVTOPTA_37252_TOOLTIP;Accept §Y[target_spouse.GetTitledFirstName]§!'s offer to help.\n;;;;;;;;;;;Ïóñòü §Y[From.GetTitledFirstName]§! ïîìîæåò ìíå.\n;;x
+EVTOPTA_37253;A brilliant idea, [target_spouse.GetFirstName]! Have you any additional suggestions?;;;;;;;;;;;Áëåñòÿùàÿ èäåÿ! Õî÷åøü äîáàâèòü ÷òî-òî åù¸?;;x
+EVTOPTA_37253_TOOLTIP;Finish your work with the help of §Y[target_spouse.GetTitledFirstName]§!.\n;;;;;;;;;;;§Y[From.GetTitledFirstName]§! ïîìîæåò ìíå çàêîí÷èòü ðàáîòó.\n;;x
+EVTOPTB_37252;You don't think I can handle this on my own?;;;;;;;;;;;Äóìàåøü, ÿ [Root.GetHerselfHimself] íå ñïðàâëþñü?;;x
+EVTOPTB_37252_TOOLTIP;Refuse §Y[target_spouse.GetTitledFirstName]§!'s offer to help.\n;;;;;;;;;;;Îòêàçàòüñÿ îò ïîìîùè.\n;;x
+EVTOPTB_37253;Let us retire to the bedchamber, my dear...;;;;;;;;;;;ß õî÷ó òåáÿ ïðÿìî ñåé÷àñ!;;x
+EVTOPTB_37253_TOOLTIP;Leave your work for now and spend some quality time with §Y[target_spouse.GetTitledFirstName]§!...\n;;;;;;;;;;;Îñòàâèòü ðàáîòó è ïðèÿòíî ïðîâåñòè âðåìÿ âìåñòå.\n;;x

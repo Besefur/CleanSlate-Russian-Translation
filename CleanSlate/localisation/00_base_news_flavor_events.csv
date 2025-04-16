@@ -1,10 +1,7 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTNAME89500;The Travels of Marco Polo;;;;;;;;;;;;;x
-EVTNAME89501;The Voyages of Zheng He;;;;;;;;;;;;;x
-
-EVTDESC89500;The Venetian merchant Marco Polo has finally returned to Europe after many years of travel in the Far East with his father and uncle. An account of their journey has been published as "The Travels of Marco Polo," describing, among other things, the distant lands of Cathay and Manji. Readers are provided a rare glimpse of the world beyond Europe, but there are those who discount the entire chronicle as a fabrication...;;;;;;;;;;;;;x
-EVTDESC89501;A great fleet from the distant lands of China has appeared in the Arabian Sea. Commanded by the eunuch explorer Zheng He, or Hajji Mahmud Shamsuddin as he is known in Arabic, the fleet's colossal treasure ships are of a size never before seen in these waters. Despite its formidable strength, the expedition does not seem bent on conquest and will soon depart to explore other lands.;;;;;;;;;;;;;x
-
-EVTOPTA89500;A stunning tale, nonetheless!;;;;;;;;;;;;;x
-EVTOPTA89501;Safe journey.;;;;;;;;;;;;;x
+EVTNAME89500;The Travels of Marco Polo;;;;;;;;;;;Màðêî Ïîëî;;x
+EVTNAME89501;The Voyages of Zheng He;;;;;;;;;;;Còðàíñòâèÿ ×æýí Õý;;x
+EVTDESC89500;"The Venetian merchant Marco Polo has finally returned to Europe after many years of travel in the Far East with his father and uncle. An account of their journey has been published as ""The Travels of Marco Polo,"" describing, among other things, the distant lands of Cathay and Manji. Readers are provided a rare glimpse of the world beyond Europe, but there are those who discount the entire chronicle as a fabrication...";;;;;;;;;;;"Âåíåöèàíñêèé êóïåö Ìàðêî Ïîëî íàêîíåö âåðíóëñÿ â Åâðîïó ïîñëå ìíîãèõ ëåò ñòðàíñòâèé ïî Äàëüíåìó Âîñòîêó ñî ñâîèì îòöîì è äÿäåé. Îïèñàíèå èõ ïóòåøåñòâèé áûëî îïóáëèêîâàíî â òðóäå ""Ïóòåøåñòâèÿ Ìàðêî Ïîëî"", îïèñûâàþùåì, ñðåäè ïðî÷åãî, äàë¸êèå çåìëè Êèòàÿ. ×èòàòåëÿì ïðåäîñòàâëÿåòñÿ ðåäêèé îáçîð ìèðà çà ïðåäåëàìè Åâðîïû, ïðàâäà åñòü òå, êòî ñ÷èòàåò ýòè õðîíèêè ïîääåëêîé.";;x
+EVTDESC89501;A great fleet from the distant lands of China has appeared in the Arabian Sea. Commanded by the eunuch explorer Zheng He, or Hajji Mahmud Shamsuddin as he is known in Arabic, the fleet's colossal treasure ships are of a size never before seen in these waters. Despite its formidable strength, the expedition does not seem bent on conquest and will soon depart to explore other lands.;;;;;;;;;;;Áîëüøîé ôëîò èç äàë¸êîé ñòðàíû Êèòàé ïîÿâèëñÿ â Àðàâèéñêîì ìîðå. Ôëîò ïîä êîìàíäîâàíèåì åâíóõà, èññëåäîâàòåëÿ ×æýí Õý, èëè, êàê íàçûâàþò åãî àðàáû, Õàäæè Ìàõìóä Øàìñóääèíà, ñîñòîèò èç êîðàáëåé êîëîññàëüíûõ ðàçìåðîâ, íèêîãäà ðàíåå íå âèäàííûõ â ýòèõ âîäàõ. Íåñìîòðÿ íà ñâîþ ãðîçíóþ ñèëó, ýêñïåäèöèÿ, êàæåòñÿ, íå íîñèò çàõâàòíè÷åñêèé õàðàêòåð è ñêîðî îòïðàâèòñÿ èññëåäîâàòü äðóãèå çåìëè.;;x
+EVTOPTA89500;A stunning tale, nonetheless!;;;;;;;;;;;Óäèâèòåëüíàÿ ñêàçêà, íå áîëåå!;;x
+EVTOPTA89501;Safe journey.;;;;;;;;;;;Ñ÷àñòëèâîãî ïóòè!;;x

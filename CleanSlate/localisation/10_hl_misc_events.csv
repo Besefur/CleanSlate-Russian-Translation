@@ -1,15 +1,14 @@
-EVTDESCHL1;[FromFrom.GetTitledName] has decided to abandon nomadic life and settle down in [FromFrom.PrimaryTitle.GetName] with [FromFrom.GetHerHis] followers, making it a new homeland for the [FromFrom.Culture.GetName] people.;;;;;;;;;;;;;x
-EVTDESCHL2;The King of the [FromFrom.Culture.GetName]s, [FromFrom.GetBestName], has decided to settle down in [FromFrom.PrimaryTitle.GetName], making it [FromFrom.GetHerHis] new tribal homeland.;;;;;;;;;;;;;x
-EVTDESCHL6;[From.GetBestName] and his people have hunted on our lands, stolen our sheep and kidnapped our women. This even though they know very well the boundaries between our clans! They truly are despicable and would betray us instantly if given the chance.;;;;;;;;;;;;;x
-EVTDESCHL9;[FromFrom.GetBestName], leader of the [FromFrom.Clan.GetName] Clan, has adopted the faith of [From.GetFirstName] and become [From.Religion.GetName].;;;;;;;;;;;;;x
-EVTDESCHL10;With the death of [From.GetBestName] our blood oath with his family and our obligation to his people vanishes together with his life.;;;;;;;;;;;;;x
-EVTDESCHL11;[FromFrom.GetBestName], leader of the [FromFrom.Clan.GetName] Clan, has adopted our religion.;;;;;;;;;;;;;x
-EVTNAMEHL1;A New Realm;;;;;;;;;;;;;x
-EVTNAMEHL2;Nomads Settled;;;;;;;;;;;;;x
-EVTNAMEHL6;The [From.Clan.GetName] Feud;;;;;;;;;;;;;x
-EVTNAMEHL9;Clan Adopted another Faith;;;;;;;;;;;;;x
-EVTNAMEHL10;Death of a brother;;;;;;;;;;;;;x
-EVTNAMEHL11;Clan Adopted your Faith;;;;;;;;;;;;;x
-
-EVTOPTAHL6;Beware the [From.Clan.GetName]. They are without honor.;;;;;;;;;;;;;x
-EVTOPTAHL10;A sad day for the [Root.Clan.GetName]...;;;;;;;;;;;;;x
+EVTDESCHL1;[FromFrom.GetTitledName] has decided to abandon nomadic life and settle down in [FromFrom.PrimaryTitle.GetName] with [FromFrom.GetHerHis] followers, making it a new homeland for the [FromFrom.Culture.GetName] people.;;;;;;;;;;;[FromFrom.GetTitledName] ïðèíÿë[FromFrom.GetEndA] ñóäüáîíîñíîå ðåøåíèå - ïîêîí÷èòü ñ êî÷åâîé æèçíüþ è îñåñòü íà çåìëå, èçâåñòíîé êàê [FromFrom.PrimaryTitle.GetShortBaseName], êîòîðàÿ ñòàíåò íîâîé ðîäèíîé äëÿ âñåãî [FromFrom.GetCultureAdj]îãî íàðîäà.;;x
+EVTDESCHL2;The King of the [FromFrom.Culture.GetName]s, [FromFrom.GetBestName], has decided to settle down in [FromFrom.PrimaryTitle.GetName], making it [FromFrom.GetHerHis] new tribal homeland.;;;;;;;;;;;Ëèäåð [FromFrom.GetCultureAdj]îãî íàðîäà, [FromFrom.GetBestName], ïðèíÿë[FromFrom.GetEndA] ñóäüáîíîñíîå ðåøåíèå - îñåñòü íà çåìëå, èçâåñòíîé êàê [FromFrom.PrimaryTitle.GetShortBaseName], è ñäåëàòü å¸ íîâûì äîìîì äëÿ ïëåìåííîé îáùèíû.;;x
+EVTDESCHL6;[From.GetBestName] and his people have hunted on our lands, stolen our sheep and kidnapped our women. This even though they know very well the boundaries between our clans! They truly are despicable and would betray us instantly if given the chance.;;;;;;;;;;;[From.GetBestName] è [From.GetHersHis] ëþäè îõîòÿòñÿ íà íàøèõ çåìëÿõ, êðàäóò íàø ñêîò è æåíùèí, çíàÿ, ÷òî íàðóøàþò ãðàíèöû êëàíîâ! Ýòè ïðåçðåííûå ñîáàêè ïðåäàäóò íàñ ïðè ïåðâîé âîçìîæíîñòè.;;x
+EVTDESCHL9;[FromFrom.GetBestName], leader of the [FromFrom.Clan.GetName] Clan, has adopted the faith of [From.GetFirstName] and become [From.Religion.GetName].;;;;;;;;;;;[FromFrom.GetBestName], âîæäü êëàíà [FromFrom.Clan.GetName], ïðèíÿë[FromFrom.GetEndA] [From.GetReligionFullName], âåðó, êîòîðóþ èñïîâåäóåò [From.GetFirstName].;;x
+EVTDESCHL10;With the death of [From.GetBestName] our blood oath with his family and our obligation to his people vanishes together with his life.;;;;;;;;;;;[From.GetBestName] íàâñåãäà ïîêèíóë[From.GetEndA] íàñ. Ñ [From.GetHersHis] ñìåðòüþ íàøà êðîâíàÿ êëÿòâà ïîòåðÿëà ñèëó, è ìû áîëüøå íè÷åì íå îáÿçàíû, íè [From.GetHersHis] ñåìüå, íè [From.GetHersHis] íàðîäó.;;x
+EVTDESCHL11;[FromFrom.GetBestName], leader of the [FromFrom.Clan.GetName] Clan, has adopted our religion.;;;;;;;;;;;[FromFrom.GetBestName], âîæäü êëàíà [FromFrom.Clan.GetName], ïðèíÿë[FromFrom.GetEndA] Íàøó âåðó.;;x
+EVTNAMEHL1;A New Realm;;;;;;;;;;;Hîâîå ãîñóäàðñòâî;;x
+EVTNAMEHL2;Nomads Settled;;;;;;;;;;;Kî÷åâíèêè îñåëè;;x
+EVTNAMEHL6;The [From.Clan.GetName] Feud;;;;;;;;;;;Këàíîâàÿ âðàæäà;;x
+EVTNAMEHL9;Clan Adopted another Faith;;;;;;;;;;;Këàí ïðèíÿë ÷óæóþ âåðó;;x
+EVTNAMEHL10;Death of a brother;;;;;;;;;;;Cìåðòü áðàòà;;x
+EVTNAMEHL11;Clan Adopted your Faith;;;;;;;;;;;Këàí ïðèíÿë íàøó âåðó;;x
+EVTOPTAHL6;Beware the [From.Clan.GetName]. They are without honor.;;;;;;;;;;;Ïðîêëÿòûå [From.Clan.GetName]! Ó íèõ íåò ÷åñòè.;;x
+EVTOPTAHL10;A sad day for the [Root.Clan.GetName]...;;;;;;;;;;;Ïå÷àëüíûé äåíü äëÿ âñåõ íàñ...;;x

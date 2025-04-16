@@ -1,64 +1,58 @@
-EVTDESC_WoL_6000;You have begun construction of an observatory. It will take some time to collect all the necessary materials and get everything in order.;;;;;;;;;;;;;x
-EVTDESC_WoL_6010;Your observatory is finally ready. It is with great anticipation that you prepare to make your first observations.;;;;;;;;;;;;;x
-EVTDESC_WoL_6020;You have spent many nights looking at the stars in your observatory. It is truly fascinating, there are so many questions to ask...;;;;;;;;;;;;;x
-EVTDESC_WoL_6100;Observing the movements of the stars at night, you have begun to see some regular patterns. These observations, however, have raised many new questions. You are starting to wonder, for example, if the Earth is really at the center of it all.;;;;;;;;;;;;;x
-EVTDESC_WoL_6110;The research you conduct in your observatory at night is proving deeply fascinating. You could push your studies further, but you'd need to purchase more equipment for it to be meaningful.;;;;;;;;;;;;;x
-EVTDESC_WoL_6122;One morning, your [worried_courtier.GetRootRelation] [worried_courtier.GetTitledFirstName] comes to see you. [worried_courtier.GetSheHeCap] says: 'I am worried. I have heard that you are spending late nights studying the sky and entertaining heretical notions about the cosmos. I would ask that you stop, for your own sake.';;;;;;;;;;;;;x
-EVTDESC_WoL_6130;You nightly studies of the movements of the celestial bodies are increasing your knowledge of a great many things. You feel that you are getting closer to understanding the universe.;;;;;;;;;;;;;x
-EVTDESC_WoL_6140;Working in your observatory, lately you are often frustrated by broken equipment, weeks on end of cloudy weather and frequent interruptions by curious intruders and even animals. It's very hard to maintain concentration and get anything done.;;;;;;;;;;;;;x
-EVTDESC_WoL_6152;Dear [Root.GetTitledName],\nI have been told that you are pursuing studies in fields that deny the truths of [Root.Religion.GetRandomGodName]. I am certain that such rumors are only slander and that you would never do such a thing. If it were true, however, I would be most disappointed.\n\nIn the name of [Root.Religion.GetRandomGodName],\n[religious_head.GetTitledName];;;;;;;;;;;;;x
-EVTDESC_WoL_6160;You studies of the celestial spheres are progressing well. You see movements and relationships that you had never dared guess at. It seems clear to you now that the laws that guide the movements of the stars must also be reflected on Earth in some way..;;;;;;;;;;;;;x
-EVTDESC_WoL_6170;You are sure you have made a breakthrough in your studies. Yes, it cannot be otherwise. The Earth is round, and it revolves around the Sun. How little we know of the Universe!;;;;;;;;;;;;;x
-EVTDESC_WoL_6300;Observing the stars at night, you have begun to sense some irregular movements. You also notice that some stars seem to appear and disappear at odd times. You need to study this more...;;;;;;;;;;;;;x
-EVTDESC_WoL_6322;One morning, your [worried_courtier.GetRootRelation] [worried_courtier.GetTitledFirstName] comes to see you. [worried_courtier.GetSheHeCap] says: 'I am worried. I have heard that you are spending late nights staring at the sky, speaking in odd riddles and entertaining heretical notions about the cosmos. I would ask that you stop, for your own sake.';;;;;;;;;;;;;x
-EVTDESC_WoL_6330;The studies you have conducted in your observatory have convinced you that there are many strange things beyond the known cosmos. There are few sources and no one to share knowledge with you, however. But you have heard of a strange old scholar in the Arabian Desert who is rumored to possess vast knowledge of the weird.;;;;;;;;;;;;;x
-EVTDESC_WoL_6331;You arrive at the abode of the strange old scholar Ibrahim. After some persuasion, he invites you in. You speak at length, and he tells of you of the scholar Abdul the Mad, who knew many things of the strange spheres beyond and of talking beings that are not human. You find out that Abdul the Mad wrote a book called the Necronomicon, in which he recorded many strange and unholy truths. Ibrahim says that as he is impressed by your sincerity and desire for knowledge, he can sell you a copy of the book. He tells you to beware, however, as too much intense study of the Necronomicon is said to drive the reader insane...;;;;;;;;;;;;;x
-EVTDESC_WoL_6336;Shortly after the death of your [GetFromRelation] [From.GetTitledFirstNameWithNick], you are brought a strange piece of news. It seems that [From.GetHerHis] library was raided, the only item stolen being a strange old book of Arabian origin. Two servants who were in the library at the time were found dead, though witnesses refused to describe the state of the bodies.;;;;;;;;;;;;;x
-EVTDESC_WoL_6340;Working in your observatory, you are often disturbed by strange noises, uncannily large insects carrying away smaller pieces of equipment and odd human-like figures spying on you and then disappearing into the night before you can confront them. You really struggle to maintain concentration and get anything done.;;;;;;;;;;;;;x
-EVTDESC_WoL_6350;The book you bought from the strange desert scholar has proven quite useful for gaining new ideas and insights in your studies of the stars and what lies beyond. It does, however, contain some quite disturbing texts and images, things that lead towards a level of understanding that might make one... mad.;;;;;;;;;;;;;x
-EVTDESC_WoL_6360;Great wisdom comes to those who study the world and learn from it. Your studies of the stars and other things beyond this world have taken you on very strange paths, and your learning has increased immeasurably since you started.;;;;;;;;;;;;;x
-EVTDESC_WoL_6370;You are finally certain, absolutely certain. There are things you understand now that lie beyond the ken of normal [Root.GetMenWomen]. If they knew, oh if they knew! But it is the task of scholars such as you to keep and preserve such things in secret, lest all humanity go insane with the knowledge of its own insignificance.;;;;;;;;;;;;;x
-
-EVTOPTA_WoL_6000;I can't wait!;;;;;;;;;;;;;x
-EVTOPTA_WoL_6010;I wonder what strange things I will discover.;;;;;;;;;;;;;x
-EVTOPTA_WoL_6020;How do the stars move?;;;;;;;;;;;;;x
-EVTOPTA_WoL_6110;I must move forward!;;;;;;;;;;;;;x
-EVTOPTA_WoL_6122;Don't worry, I'm fine...;;;;;;;;;;;;;x
-EVTOPTA_WoL_6130;I sense a harmony out there...;;;;;;;;;;;;;x
-EVTOPTA_WoL_6140;I must persist, the truth is out there.;;;;;;;;;;;;;x
-EVTOPTA_WoL_6152;The [religious_head.GetTitle] should stay out of my business!;;;;;;;;;;;;;x
-EVTOPTA_WoL_6160;And what is Earth?;;;;;;;;;;;;;x
-EVTOPTA_WoL_6170;I must publish my findings!;;;;;;;;;;;;;x
-EVTOPTA_WoL_6300;That star there disappears when I look directly at it.;;;;;;;;;;;;;x
-EVTOPTA_WoL_6322;I am only admiring the beauty of the stars.;;;;;;;;;;;;;x
-EVTOPTA_WoL_6330;I will go and see him.;;;;;;;;;;;;;x
-EVTOPTA_WoL_6331;Yes, I must have it!;;;;;;;;;;;;;x
-EVTOPTA_WoL_6336;Strange...;;;;;;;;;;;;;x
-EVTOPTA_WoL_6340;I must focus!;;;;;;;;;;;;;x
-EVTOPTA_WoL_6350;I should leave it on the shelf for now.;;;;;;;;;;;;;x
-EVTOPTA_WoL_6360;The stars are right!;;;;;;;;;;;;;x
-EVTOPTA_WoL_6370;I shall be a devoted keeper of elder secrets.;;;;;;;;;;;;;x
-
-EVTOPTB_WoL_6020;Is there something... strange out there?;;;;;;;;;;;;;x
-EVTOPTB_WoL_6110;No, this is proving too expensive.;;;;;;;;;;;;;x
-EVTOPTB_WoL_6122;Stay out of my business!;;;;;;;;;;;;;x
-EVTOPTB_WoL_6140;It's no use!;;;;;;;;;;;;;x
-EVTOPTB_WoL_6152;The best answer to this is silence.;;;;;;;;;;;;;x
-EVTOPTB_WoL_6170;I will continue my studies in secret.;;;;;;;;;;;;;x
-EVTOPTB_WoL_6322;There are strange things out there and I need to see them!;;;;;;;;;;;;;x
-EVTOPTB_WoL_6330;No, this frightens me. I should stop.;;;;;;;;;;;;;x
-EVTOPTB_WoL_6331;No, thanks.;;;;;;;;;;;;;x
-EVTOPTB_WoL_6340;It's no use, I should give this up.;;;;;;;;;;;;;x
-EVTOPTB_WoL_6350;I must delve deeper!;;;;;;;;;;;;;x
-EVTOPTB_WoL_6370;I will hide this and dedicate myself to other things.;;;;;;;;;;;;;x
-
-EVTOPTC_WoL_6122;It is not what you think, I am only... writing poetry.;;;;;;;;;;;;;x
-EVTOPTC_WoL_6152;I must not challenge conventional wisdom.;;;;;;;;;;;;;x
-EVTOPTC_WoL_6170;I will stop with this achievement.;;;;;;;;;;;;;x
-EVTOPTC_WoL_6322;What you heard are lies.;;;;;;;;;;;;;x
-
-EVTOPTD_WoL_6170;No! This is [Root.Religion.GetRandomEvilGodName] speaking!;;;;;;;;;;;;;x
-
-EVTTITLE_WoL_6331;The Necronomicon;;;;;;;;;;;;;x
-
-WOL_6170_OPINION_EFFECT;All priests and zealous characters in your realm will have their opinion of you changed by §R-25§! for §Y5§! years §Y(Heretic)§!;;;;;;;;;;;;;x
+EVTDESC_WoL_6000;You have begun construction of an observatory. It will take some time to collect all the necessary materials and get everything in order.;;;;;;;;;;;Âû ïðèñòóïèëè ê ñòðîèòåëüñòâó îáñåðâàòîðèè. Ñáîð íåîáõîäèìûõ ìàòåðèàëîâ è ïîäãîòîâêà ê ðàáîòàì çàéì¸ò íåêîòîðîå âðåìÿ.;;x
+EVTDESC_WoL_6010;Your observatory is finally ready. It is with great anticipation that you prepare to make your first observations.;;;;;;;;;;;Âàøà îáñåðâàòîðèÿ íàêîíåö-òî ãîòîâà. Âû óæå ïðåäâêóøàåòå ñâîè ïåðâûå íàáëþäåíèÿ.;;x
+EVTDESC_WoL_6020;You have spent many nights looking at the stars in your observatory. It is truly fascinating, there are so many questions to ask...;;;;;;;;;;;Âû ïðîâåëè ìíîãî íî÷åé, íàáëþäàÿ çà çâ¸çäàìè â ñâîåé îáñåðâàòîðèèþ. Ýòî âîèñòèíó óâëåêàòåëüíî, ñòîëüêî íîâûõ âîïðîñîâ...;;x
+EVTDESC_WoL_6100;Observing the movements of the stars at night, you have begun to see some regular patterns. These observations, however, have raised many new questions. You are starting to wonder, for example, if the Earth is really at the center of it all.;;;;;;;;;;;Íàáëþäàÿ çà äâèæåíèåì çâ¸çä, Âû íà÷èíàåòå çàìå÷àòü çàêîíîìåðíîñòè. Òåì íå ìåíåå, ïîäîáíûå èçûñêàíèÿ ïîðîæäàþò ìàññó âîïðîñîâ. Íàïðèìåð, êàê òàêîå âîçìîæíî, åñëè Çåìëÿ íàõîäèòñÿ â öåíòðå?;;x
+EVTDESC_WoL_6110;The research you conduct in your observatory at night is proving deeply fascinating. You could push your studies further, but you'd need to purchase more equipment for it to be meaningful.;;;;;;;;;;;Âàøè èññëåäîâàíèÿ â îáñåðâàòîðèè ýòîé íî÷üþ áûëè ïðîñòî ïîñòðÿñàþùè. Âû ìîæåòå ïðîäîëæèòü ñâîè ïîèñêè, íî äëÿ ýòîãî ïîíàäîáèòñÿ ìàññà íîâîãî îáîðóäîâàíèÿ.;;x
+EVTDESC_WoL_6122;One morning, your [worried_courtier.GetRootRelation] [worried_courtier.GetTitledFirstName] comes to see you. [worried_courtier.GetSheHeCap] says: 'I am worried. I have heard that you are spending late nights studying the sky and entertaining heretical notions about the cosmos. I would ask that you stop, for your own sake.';;;;;;;;;;;"Ïîçäíèé çàâòðàê è óñòàëûé âèä íå îñòàëèñü áåç âíèìàíèÿ - ì[From.GetOyaOy] [From.GetRootRelation] [From.GetTitledFirstName], ïûòàÿñü ñêðûòü ñâî¸ îñóæäåíèå, ãîâîðèò ìíå: ""[Root.GetFirstName], ìåíÿ áåñïîêîèò òâî¸ íîâîå óâëå÷åíèå. Ãîâîðÿò, òû ïðîâîäèøü íî÷è, íå îòðûâàÿ ãëàç îò çâ¸çäíîãî íåáà è óïèâàåøüñÿ åðåòè÷åñêèìè èäåÿìè îá óñòðîéñòâå ìèðà. Ðàäè âñåãî ñâÿòîãî, ïðåêðàòè ýòî.""";;x
+EVTDESC_WoL_6130;You nightly studies of the movements of the celestial bodies are increasing your knowledge of a great many things. You feel that you are getting closer to understanding the universe.;;;;;;;;;;;Âàøè íî÷íûå èçûñêàíèÿ ïðèíîñÿò ñâîè ïëîäû - Âû ìíîãîå óçíàëè î äâèæåíèè íåáåñíûõ òåë è ïðèáëèçèëèñü ê ïîíèìàíèþ óñòðîéñòâà Âñåëåííîé.;;x
+EVTDESC_WoL_6140;Working in your observatory, lately you are often frustrated by broken equipment, weeks on end of cloudy weather and frequent interruptions by curious intruders and even animals. It's very hard to maintain concentration and get anything done.;;;;;;;;;;;Ðàáîòàÿ â îáñåðâàòîðèè, â ïîñëåäíåå âðåìÿ Âû ñòàëêèâàåòåñü ñ ìàññîé ïðîáëåì - ïîëîìêà îáîðóäîâàíèÿ, îáëà÷íàÿ ïîãîäà, âèçèòû ïîñòîðîííèõ è äàæå æèâîòíûå. Êàê æå òðóäíî ñîõðàíÿòü êîíöåíòðàöèþ, ÷òîáû äîáèòüñÿ ñâîåé öåëè.;;x
+EVTDESC_WoL_6152;Dear [Root.GetTitledName],\nI have been told that you are pursuing studies in fields that deny the truths of [Root.Religion.GetRandomGodName]. I am certain that such rumors are only slander and that you would never do such a thing. If it were true, however, I would be most disappointed.\n\nIn the name of [Root.Religion.GetRandomGodName],\n[religious_head.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nÍàì ðàññêàçàëè, ÷òî Âû çàíèìàåòåñü èññëåäîâàíèÿìè, îòâåðãàþùèìè èñòèíó, êîòîðóþ äàðóåò [Root.Religion.GetHighGodName]. Ìû óâåðåíû, ÷òî ýòî âñåãî ëèøü ñëóõè è Âû íå ñòàíåòå çàíèìàòüñÿ ïîäîáíûìè âåùàìè. Îäíàêî, åñëè ýòî ïðàâäà, Ìû áóäåì âåñüìà ðàçî÷àðîâàíû.\nÏóñòü [Root.Religion.GetRandomGodName] çàùèòèò Âàñ,\n [From.GetTitledFirstName];;x
+EVTDESC_WoL_6160;You studies of the celestial spheres are progressing well. You see movements and relationships that you had never dared guess at. It seems clear to you now that the laws that guide the movements of the stars must also be reflected on Earth in some way..;;;;;;;;;;;Âàøè íàáëþäåíèÿ çà äâèæåíèåì íåáåñíûõ òåë èäóò óñïåøíî. Âû íà÷èíàåòå îòêðûâàòü çàêîíîìåðíîñòè, î êîòîðûõ ïðåæäå íå ìîãëè è ïîìûñëèòü. Òåïåðü ÿñíî, ÷òî äâèæåíèå êàê-òî ñâÿçàíî ñ Çåìë¸é.;;x
+EVTDESC_WoL_6170;You are sure you have made a breakthrough in your studies. Yes, it cannot be otherwise. The Earth is round, and it revolves around the Sun. How little we know of the Universe!;;;;;;;;;;;Âû óâåðåíû, ÷òî ñîâåðøèëè ïðîðûâ â èññëåäîâàíèÿõ. Äà, èíà÷å è áûòü íå ìîæåò. Ñîëíöå â öåíòðå, à Çåìëÿ... îíà... âðàùàåòñÿ!;;x
+EVTDESC_WoL_6300;Observing the stars at night, you have begun to sense some irregular movements. You also notice that some stars seem to appear and disappear at odd times. You need to study this more...;;;;;;;;;;;Íàáëþäàÿ çà íî÷íûì íåáîì, Âû íà÷èíàåòå çàìå÷àòü ñòðàííûå äâèæåíèÿ. Íåêîòîðûå çâ¸çäû òî ïîÿâëÿþòñÿ, òî èñ÷åçàþò âðåìÿ îò âðåìåíè. Âàì íóæíî áîëüøå âðåìåíè, ÷òîáû èçó÷èòü ýòî...;;x
+EVTDESC_WoL_6322;One morning, your [worried_courtier.GetRootRelation] [worried_courtier.GetTitledFirstName] comes to see you. [worried_courtier.GetSheHeCap] says: 'I am worried. I have heard that you are spending late nights staring at the sky, speaking in odd riddles and entertaining heretical notions about the cosmos. I would ask that you stop, for your own sake.';;;;;;;;;;;"Ïîçäíèé çàâòðàê è óñòàëûé âèä íå îñòàëèñü áåç âíèìàíèÿ - ì[From.GetOyaOy] [From.GetRootRelation] [From.GetTitledFirstName], ïûòàÿñü ñêðûòü ñâî¸ îñóæäåíèå, ãîâîðèò ìíå: ""[Root.GetFirstName], ìåíÿ áåñïîêîèò òâî¸ íîâîå óâëå÷åíèå. Ãîâîðÿò, òû íî÷àìè ñìîòðèøü â çâ¸çäíîå íåáî, ãîâîðèøü çàãàäêàìè è íåñ¸øü êàêóþ-òî àõèíåþ. Ðàäè òâîåãî æå áëàãà ïðîøó - ïðåêðàòè ýòî.""";;x
+EVTDESC_WoL_6330;The studies you have conducted in your observatory have convinced you that there are many strange things beyond the known cosmos. There are few sources and no one to share knowledge with you, however. But you have heard of a strange old scholar in the Arabian Desert who is rumored to possess vast knowledge of the weird.;;;;;;;;;;;Âàøè èññëåäîâàíèÿ â îáñåðâàòîðèè ïîêàçàëè, êàê ìíîãî íåâîîáðàçèìîãî è ñòðàííîãî ëåæèò çà ïðåäåëàìè èçâåñòíîé íàì Âñåëåííîé. Òå íåìíîãèå, êîìó äîâåëîñü èçó÷àòü íå÷òî ïîäîáíîå, íàîòðåç îòêàçàëèñü ïîäåëèòüñÿ ñâîèìè çíàíèÿìè ñ Âàìè. Îäíàêî, ïî ñëóõàì, â Àðàâèéñêîé ïóñòûíå åñòü ìóäðåö, êîòîðûé ìîæåò ïðîëèòü ñâåò íà ýòó ïðîáëåìó.;;x
+EVTDESC_WoL_6331;You arrive at the abode of the strange old scholar Ibrahim. After some persuasion, he invites you in. You speak at length, and he tells of you of the scholar Abdul the Mad, who knew many things of the strange spheres beyond and of talking beings that are not human. You find out that Abdul the Mad wrote a book called the Necronomicon, in which he recorded many strange and unholy truths. Ibrahim says that as he is impressed by your sincerity and desire for knowledge, he can sell you a copy of the book. He tells you to beware, however, as too much intense study of the Necronomicon is said to drive the reader insane...;;;;;;;;;;;Âû ïðèáûëè ê îáèòåëè òàèíñòâåííîãî ñòàðöà ïî èìåíè Èáðàãèì, êîòîðûé óáåäèâøèñü â Âàøèõ íàìåðåíèÿõ, ïðèãëàñèë Âàñ âîéòè. Âû äîëãî áåñåäîâàëè, ïîñëå ÷åãî îí ñêàçàë, ÷òî íåêòî Àáäóë Áåçóìíûé, ñâåäóùèé âî ìíîãèõ îêêóëüòíûõ ïðàêòèêàõ, ïîòóñòîðîííèõ ìèðàõ è ñóùåñòâàõ, íàïèñàë êíèãó, èçâåñòíóþ êàê Íåêðîíîìèêîí, êîòîðàÿ ñîäåðæèò ìàññó ñòðàííûõ íå÷åñòèâûõ çíàíèé. Èáðàãèì ñêàçàë, ÷òî åãî íàñòîëüêî âïå÷àòëèëà Âàøà èñêðåííÿÿ æàæäà çíàíèé, ÷òî îí ìîæåò ïðîäàòü Âàì êîïèþ êíèãè, íî âåëåë áûòü îñòîðîæíåå - èçó÷åíèå ýòîé êíèãè ìîæåò äîâåñòè äî áåçóìèÿ...;;x
+EVTDESC_WoL_6336;Shortly after the death of your [GetFromRelation] [From.GetTitledFirstNameWithNick], you are brought a strange piece of news. It seems that [From.GetHerHis] library was raided, the only item stolen being a strange old book of Arabian origin. Two servants who were in the library at the time were found dead, though witnesses refused to describe the state of the bodies.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetTitledFirstNameWithNick] íå ïåðåñòà¸ò óäèâëÿòü ìåíÿ äàæå ïîñëå ñâîåé ñìåðòè. Ñåãîäíÿ çëîóìûøëåííèêè ïðîíèêëè â [From.GetHersHis] áèáëèîòåêó è óêðàëè òîëüêî îäíó âåùü - çàãàäî÷íóþ äðåâíþþ êíèãó àðàáñêîãî ïðîèñõîæäåíèÿ. Äâîå ñëóã íàéäåíû òàì ì¸ðòâûìè, à ñâèäåòåëè îòêàçûâàþòñÿ ãîâîðèòü î ñîñòîÿíèè èõ òåë.;;x
+EVTDESC_WoL_6340;Working in your observatory, you are often disturbed by strange noises, uncannily large insects carrying away smaller pieces of equipment and odd human-like figures spying on you and then disappearing into the night before you can confront them. You really struggle to maintain concentration and get anything done.;;;;;;;;;;;Ðàáîòàÿ â îáñåðâàòîðèè, â ïîñëåäíåå âðåìÿ Âû ñòàëêèâàåòåñü ñ ìàññîé ïðîáëåì - ñòðàííûé øóì, ïóãàþùå êðóïíûå íàñåêîìûå, óíîñÿùèå ìåëêèå äåòàëè îáîðóäîâàíèÿ, çëîâåùèå ôèãóðû, íàáëþäàþùèå çà Âàìè, íî èñ÷åçàþùèå ïðè ëþáûõ ïîïûòêàõ èõ ðàçãëÿäåòü. Êàê æå òðóäíî ñîõðàíÿòü êîíöåíòðàöèþ, ÷òîáû äîáèòüñÿ ñâîåé öåëè.;;x
+EVTDESC_WoL_6350;The book you bought from the strange desert scholar has proven quite useful for gaining new ideas and insights in your studies of the stars and what lies beyond. It does, however, contain some quite disturbing texts and images, things that lead towards a level of understanding that might make one... mad.;;;;;;;;;;;Êíèãà, ïðèîáðåò¸ííàÿ ó ñòàðöà â ïóñòûíå, îêàçàëàñü âåñüìà ïîëåçíîé â ïëàíå èäåé è îáúÿñíåíèé òîãî, ÷åì Âû çàíèìàåòåñü, èçó÷àÿ çâ¸çäíîå íåáî. Îäíàêî, ïîìèìî ïðî÷åãî, îíà ñîäåðæèò íå÷òî ìðà÷íîå è òðåâîæíîå, íå÷òî, âåäóùåå ê óðîâíþ ïîíèìàíèÿ, êîòîðûé ìîæåò ñâåñòè ñ óìà.;;x
+EVTDESC_WoL_6360;Great wisdom comes to those who study the world and learn from it. Your studies of the stars and other things beyond this world have taken you on very strange paths, and your learning has increased immeasurably since you started.;;;;;;;;;;;Âåëèêóþ ìóäðîñòü îáðåòàåò òîò, êòî èçó÷àåò ìèð è èçâëåêàåò èç ýòîãî óðîêè. Âàøè èññëåäîâàíèÿ çâ¸çäíîãî íåáà çàâåëè Âàñ â äåáðè ñòðàííîãî è íåâåäîìîãî. Âàøè çíàíèÿ íåèçìåðèìî âûðîñëè ñ òåõ ïîð, êàê Âû íà÷àëè ñâîè èçûñêàíèÿ.;;x
+EVTDESC_WoL_6370;You are finally certain, absolutely certain. There are things you understand now that lie beyond the ken of normal [Root.GetMenWomen]. If they knew, oh if they knew! But it is the task of scholars such as you to keep and preserve such things in secret, lest all humanity go insane with the knowledge of its own insignificance.;;;;;;;;;;;Íàêîíåö-òî Âû óâåðåíû, àáñîëþòíî óâåðåíû - åñòü âåùè, êîòîðûå ëåæàò äàëåêî çà ïðåäåëàìè èçâåñòíîãî íàì, òàêèå î êîòîðûõ îáû÷íûå ëþäè äàæå íå ïîäîçðåâàþò. Î, åñëè áû îíè çíàëè! Íî òåïåðü Âàøà çàäà÷à - ñîõðàíèòü ýòî âñ¸ â òàéíå, èíà÷å ÷åëîâå÷åñòâî ñîéä¸ò ñ óìà îò îñîçíàíèÿ ñîáñòâåííîé íè÷òîæíîñòè.;;x
+EVTOPTA_WoL_6000;I can't wait!;;;;;;;;;;;Íå ìîãó äîæäàòüñÿ!;;x
+EVTOPTA_WoL_6010;I wonder what strange things I will discover.;;;;;;;;;;;Âñåëåííàÿ ïîëíà òàéí.;;x
+EVTOPTA_WoL_6020;How do the stars move?;;;;;;;;;;;Êàê çâ¸çäû äâèæóòñÿ?;;x
+EVTOPTA_WoL_6110;I must move forward!;;;;;;;;;;;Íóæíî äâèãàòüñÿ äàëüøå!;;x
+EVTOPTA_WoL_6122;Don't worry, I'm fine...;;;;;;;;;;;Íå âîëíóéñÿ, ÿ â ïîðÿäêå...;;x
+EVTOPTA_WoL_6130;I sense a harmony out there...;;;;;;;;;;;Âî âñ¸ì åñòü ãàðìîíèÿ... Îíà ïîâñþäó.;;x
+EVTOPTA_WoL_6140;I must persist, the truth is out there.;;;;;;;;;;;Òåðïåíèå è òðóä...;;x
+EVTOPTA_WoL_6152;The [religious_head.GetTitle] should stay out of my business!;;;;;;;;;;;[From.PrimaryTitle.GetFOA] ñó¸ò íîñ íå â ñâî¸ äåëî!;;x
+EVTOPTA_WoL_6160;And what is Earth?;;;;;;;;;;;À ÷òî åñëè Çåìëÿ...;;x
+EVTOPTA_WoL_6170;I must publish my findings!;;;;;;;;;;;Ìîé äîëã - ðàññêàçòü ýòî âñåì!;;x
+EVTOPTA_WoL_6300;That star there disappears when I look directly at it.;;;;;;;;;;;Îíà æå òîëüêî ÷òî áûëà çäåñü!;;x
+EVTOPTA_WoL_6322;I am only admiring the beauty of the stars.;;;;;;;;;;;ß ëèøü íàñëàæäàþñü êðàñîòîé çâ¸çä.;;x
+EVTOPTA_WoL_6330;I will go and see him.;;;;;;;;;;;ß íàéäó åãî.;;x
+EVTOPTA_WoL_6331;Yes, I must have it!;;;;;;;;;;;Ìíå íóæíà ýòà êíèãà!;;x
+EVTOPTA_WoL_6336;Strange...;;;;;;;;;;;×åðòîâùèíà êàêàÿ-òî...;;x
+EVTOPTA_WoL_6340;I must focus!;;;;;;;;;;;Íóæíî ñîáðàòüñÿ!;;x
+EVTOPTA_WoL_6350;I should leave it on the shelf for now.;;;;;;;;;;;×óâñòâóþ, ìíå íå ñòîèò ýòî ÷èòàòü.;;x
+EVTOPTA_WoL_6360;The stars are right!;;;;;;;;;;;Çâ¸çäû ïðàâû!;;x
+EVTOPTA_WoL_6370;I shall be a devoted keeper of elder secrets.;;;;;;;;;;;ß ñòàíó ïðåäàííûì õðàíèòåëåì äðåâíèõ çíàíèé.;;x
+EVTOPTB_WoL_6020;Is there something... strange out there?;;;;;;;;;;;Òàì ÷òî-òî åñòü! ×òî-òî ñòðàííîå...;;x
+EVTOPTB_WoL_6110;No, this is proving too expensive.;;;;;;;;;;;Ýòî ñëèøêîì äîðîãî.;;x
+EVTOPTB_WoL_6122;Stay out of my business!;;;;;;;;;;;Íå ëåçü íå â ñâî¸ äåëî!;;x
+EVTOPTB_WoL_6140;It's no use!;;;;;;;;;;;Âñ¸, ñ ìåíÿ õâàòèò!;;x
+EVTOPTB_WoL_6152;The best answer to this is silence.;;;;;;;;;;;Ëó÷øèì îòâåòîì áóäåò... îòñóòñòâèå îòâåòà.;;x
+EVTOPTB_WoL_6170;I will continue my studies in secret.;;;;;;;;;;;Ëó÷øå äåðæàòü ýòî â òàéíå.;;x
+EVTOPTB_WoL_6322;There are strange things out there and I need to see them!;;;;;;;;;;;Ïðîèñõîäèò ÷òî-òî ñòðàííîå, è ÿ õî÷ó çíàòü ÷òî!;;x
+EVTOPTB_WoL_6330;No, this frightens me. I should stop.;;;;;;;;;;;Ýòî çàøëî ñëèøêîì äàëåêî. Ïîðà îñòàíîâèòüñÿ.;;x
+EVTOPTB_WoL_6331;No, thanks.;;;;;;;;;;;Íåò, ñïàñèáî.;;x
+EVTOPTB_WoL_6340;It's no use, I should give this up.;;;;;;;;;;;Âñ¸, õâàòèò, íàäîåëî...;;x
+EVTOPTB_WoL_6350;I must delve deeper!;;;;;;;;;;;Åù¸ íåìíîãî è ÿ óõâà÷ó ñóòü!;;x
+EVTOPTB_WoL_6370;I will hide this and dedicate myself to other things.;;;;;;;;;;;Ïîðà ñïðÿòàòü âñ¸ ýòî è çàíÿòüñÿ äðóãèìè äåëàìè.;;x
+EVTOPTC_WoL_6122;It is not what you think, I am only... writing poetry.;;;;;;;;;;;Ýòî íå òî, ÷òî òû äóìàåøü, ÿ... ñî÷èíÿþ ñòèõè.;;x
+EVTOPTC_WoL_6152;I must not challenge conventional wisdom.;;;;;;;;;;;Êòî ÿ, ÷òîáû îñïàðèâàòü òðàäèöèîííûå öåííîñòè?;;x
+EVTOPTC_WoL_6170;I will stop with this achievement.;;;;;;;;;;;Ìîÿ ðàáîòà íà ýòîì çàêîí÷åíà.;;x
+EVTOPTC_WoL_6322;What you heard are lies.;;;;;;;;;;;Îíè âñå âðóò.;;x
+EVTOPTD_WoL_6170;No! This is [Root.Religion.GetRandomEvilGodName] speaking!;;;;;;;;;;;Íåò! Âî ìíå ãîâîðèò [Root.Religion.GetRandomEvilGodName]!;;x
+EVTTITLE_WoL_6331;The Necronomicon;;;;;;;;;;;Håêðîíîìèêîí;;x
+WOL_6170_OPINION_EFFECT;All priests and zealous characters in your realm will have their opinion of you changed by §R-25§! for §Y5§! years §Y(Heretic)§!;;;;;;;;;;;Âñå ñâÿùåííèêè è íàáîæíûå ëþäè Âàøåé ñòðàíû èçìåíÿò ìíåíèå î Âàñ íà §R-25§! íà §Y5§! ëåò §Y(Åðåòèê)§!;;x

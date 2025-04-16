@@ -1,65 +1,64 @@
-advance_tactic;Advance Tactic;;;;;;;;;;;;;x
-awesome_advance_tactic;Awesome Advance Tactic;;;;;;;;;;;;;x
-awesome_charge_tactic;Powerful Charge Tactic;;;;;;;;;;;;;x
-awesomer_charge_tactic;Overwhelming Charge Tactic;;;;;;;;;;;;;x
-barrage_tactic;Barrage Tactic;;;;;;;;;;;;;x
-berserker_charge_tactic;Berserker Charge;;;;;;;;;;;;;x
-charge_of_opportunity_tactic;Charge of Opportunity;;;;;;;;;;;;;x
-charge_on_undefended_tactic;Charge on Undefended Flank;;;;;;;;;;;;;x
-charge_tactic;Charge Tactic;;;;;;;;;;;;;x
-charging_own_skirmishers_tactic;Charging Through Own Skirmishers;;;;;;;;;;;;;x
-clever_ambush_tactic;Clever Ambush Tactic;;;;;;;;;;;;;x
-confused_orders_tactic;Confused Orders;;;;;;;;;;;;;x
-couched_lance_charge_tactic;Couched Lance Charge;;;;;;;;;;;;;x
-crushing_charge_tactic;Crushing Charge;;;;;;;;;;;;;x
-default_siege_defense_tactic;Default Tactic;;;;;;;;;;;;;x
-default_siege_offense_tactic;Default Tactic;;;;;;;;;;;;;x
-desert_ambush_tactic;Desert Ambush;;;;;;;;;;;;;x
-disorganised_harass_tactic;Disorganised Harass Tactic;;;;;;;;;;;;;x
-disorganised_swarm_tactic;Disorganised Swarm Tactic;;;;;;;;;;;;;x
-elephant_trample_tactic;Elephant Trample Tactic;;;;;;;;;;;;;x
-embolon_charge_formation_tactic;Embolon Charge Formation;;;;;;;;;;;;;x
-feint_tactic;Feint Tactic;;;;;;;;;;;;;x
-force_back_tactic;Force Back;;;;;;;;;;;;;x
-generic_skirmish_tactic;Generic Skirmish Tactic;;;;;;;;;;;;;x
-glorious_baltic_tactic;Baltic Last Stand Tactic;;;;;;;;;;;;;x
-glorious_bon_tactic;Balanced Charge Tactic;;;;;;;;;;;;;x
-glorious_countercharge_tactic;Glorious Counter-Charge Tactic;;;;;;;;;;;;;x
-glorious_finnish_tactic;Elk's Lament Tactic;;;;;;;;;;;;;x
-glorious_hellenic_tactic;Quincunx Tactic;;;;;;;;;;;;;x
-glorious_norse_tactic;Winter's Maw Tactic;;;;;;;;;;;;;x
-glorious_slavic_tactic;Slavic Last Stand Tactic;;;;;;;;;;;;;x
-glorious_tengri_tactic;Wolf's Howling Tactic;;;;;;;;;;;;;x
-glorious_west_african_tactic;Bull Horns Tactic;;;;;;;;;;;;;x
-glorious_zun_tactic;Lightburst Tactic;;;;;;;;;;;;;x
-gray_wall_tactic;Gray Wall;;;;;;;;;;;;;x
-harass_tactic;Harass Tactic;;;;;;;;;;;;;x
-harras_swarm_tactic;Harass Swarm Tactic;;;;;;;;;;;;;x
-heroic_countercharge_tactic;Heroic Counter-Charge Tactic;;;;;;;;;;;;;x
-hesitant_commander_tactic;Hesitant Commander;;;;;;;;;;;;;x
-inspired_defense_tactic;Inspired Defense Tactic;;;;;;;;;;;;;x
-massive_longbow_volley_tactic;Massive Longbow Volley Tactic;;;;;;;;;;;;;x
-mountain_ambush_tactic;Mountain Ambush Tactic;;;;;;;;;;;;;x
-no_siege_defense_tactic;No Tactic;;;;;;;;;;;;;x
-no_siege_offense_tactic;No Tactic;;;;;;;;;;;;;x
-no_tactic;No Tactic;;;;;;;;;;;;;x
-pike_column_advance_tactic;Pike Column Advance;;;;;;;;;;;;;x
-prepare_tactic;Prepare Tactic;;;;;;;;;;;;;x
-pursue_tactic;Pursue Tactic;;;;;;;;;;;;;x
-raid_tactic;Raid Tactic;;;;;;;;;;;;;x
-reckless_charge_tactic;Reckless Charge Tactic;;;;;;;;;;;;;x
-religious_fervour_tactic;Gripped by Religious Fervour;;;;;;;;;;;;;x
-retreat_and_ambush_tactic;Retreat and Ambush Tactic;;;;;;;;;;;;;x
-schiltron_formation_tactic;Schiltron Formation;;;;;;;;;;;;;x
-shieldwall_tactic;Shieldwall Tactic;;;;;;;;;;;;;x
-slow_advance_tactic;Slow Advance;;;;;;;;;;;;;x
-stand_fast_tactic;Stand Fast Tactic;;;;;;;;;;;;;x
-swarm_tactic;Swarm Tactic;;;;;;;;;;;;;x
-swarm_volley_tactic;Swarm Volley Tactic;;;;;;;;;;;;;x
-timid_advance_tactic;Timid Advance Tactic;;;;;;;;;;;;;x
-volley_tactic;Volley Tactic;;;;;;;;;;;;;x
-volly_harass_tactic;Volley Harass Tactic;;;;;;;;;;;;;x
-wait_tactic;Wait Tactic;;;;;;;;;;;;;x
-
-flank_pursue_odds;Flank pursue odds;;;;;;;;;;;;;x
-flank_retreat_odds;Flank retreat odds;;;;;;;;;;;;;x
+advance_tactic;Advance Tactic;;;;;;;;;;;Íàñòóïëåíèå;;x
+awesome_advance_tactic;Awesome Advance Tactic;;;;;;;;;;;Óñòðàøàþùåå íàñòóïëåíèå;;x
+awesome_charge_tactic;Powerful Charge Tactic;;;;;;;;;;;Ðûâîê óñòðàøåíèÿ;;x
+awesomer_charge_tactic;Overwhelming Charge Tactic;;;;;;;;;;;Óæàñàþùèé ðûâîê;;x
+barrage_tactic;Barrage Tactic;;;;;;;;;;;Çàãðàæäåíèå;;x
+berserker_charge_tactic;Berserker Charge;;;;;;;;;;;Íàòèñê Áåðñåðêîâ;;x
+charge_of_opportunity_tactic;Charge of Opportunity;;;;;;;;;;;Àòàêà ïî âîçìîæíîñòè;;x
+charge_on_undefended_tactic;Charge on Undefended Flank;;;;;;;;;;;Óäàð ïî ñëàáîìó ôëàíãó.;;x
+charge_tactic;Charge Tactic;;;;;;;;;;;Íàòèñê;;x
+charging_own_skirmishers_tactic;Charging Through Own Skirmishers;;;;;;;;;;;Àòàêà ÷åðåç ðÿäû ñâîèõ ëó÷íèêîâ;;x
+clever_ambush_tactic;Clever Ambush Tactic;;;;;;;;;;;Ìàñòåðñêèå çàñàäû;;x
+confused_orders_tactic;Confused Orders;;;;;;;;;;;Ïóòàííûå ïðèêàçû;;x
+couched_lance_charge_tactic;Couched Lance Charge;;;;;;;;;;;Àòàêà êîïåéùèêàìè;;x
+crushing_charge_tactic;Crushing Charge;;;;;;;;;;;Ñîêðóøèòåëüíàÿ àòàêà;;x
+default_siege_defense_tactic;Default Tactic;;;;;;;;;;;Òàêòèêà ïî-óìîë÷àíèþ;;x
+default_siege_offense_tactic;Default Tactic;;;;;;;;;;;Òàêòèêà ïî-óìîë÷àíèþ;;x
+desert_ambush_tactic;Desert Ambush;;;;;;;;;;;Ïóñòûííàÿ çàñàäà;;x
+disorganised_harass_tactic;Disorganised Harass Tactic;;;;;;;;;;;Ñòèõèéíîå ïðåñëåäîâàíèå;;x
+disorganised_swarm_tactic;Disorganised Swarm Tactic;;;;;;;;;;;Ñòèõèéíûé ðîé;;x
+elephant_trample_tactic;Elephant Trample Tactic;;;;;;;;;;;Ñëîíîãîí;;x
+embolon_charge_formation_tactic;Embolon Charge Formation;;;;;;;;;;;Ïîñòðîåíèå êëèíîì;;x
+feint_tactic;Feint Tactic;;;;;;;;;;;Îñòîðîæíàÿ òàêòèêà;;x
+force_back_tactic;Force Back;;;;;;;;;;;Îòïîð;;x
+generic_skirmish_tactic;Generic Skirmish Tactic;;;;;;;;;;;Ïåðåñòðåëêà;;x
+glorious_baltic_tactic;Baltic Last Stand Tactic;;;;;;;;;;;Áàëòèéñêèé ïîñëåäíèé ðóáåæ;;x
+glorious_bon_tactic;Balanced Charge Tactic;;;;;;;;;;;Øòóðì ðàâíîâåñèÿ;;x
+glorious_countercharge_tactic;Glorious Counter-Charge Tactic;;;;;;;;;;;Âåëèêîå êîíòðíàñòóïëåíèå;;x
+glorious_finnish_tactic;Elk's Lament Tactic;;;;;;;;;;;Ð¸â ëîñÿ;;x
+glorious_hellenic_tactic;Quincunx Tactic;;;;;;;;;;;Êåíêîíñ;;x
+glorious_norse_tactic;Winter's Maw Tactic;;;;;;;;;;;Ïàñòü çèìû;;x
+glorious_slavic_tactic;Slavic Last Stand Tactic;;;;;;;;;;;Ñëàâÿíñêèé ïîñëåäíèé ðóáåæ;;x
+glorious_tengri_tactic;Wolf's Howling Tactic;;;;;;;;;;;Âîë÷èé âîé;;x
+glorious_west_african_tactic;Bull Horns Tactic;;;;;;;;;;;Áû÷üè ðîãà;;x
+glorious_zun_tactic;Lightburst Tactic;;;;;;;;;;;Âñïûøêà ñâåòà;;x
+gray_wall_tactic;Gray Wall;;;;;;;;;;;Ñåðàÿ ñòåíà;;x
+harass_tactic;Harass Tactic;;;;;;;;;;;Òàêòèêà èçíóðåíèÿ;;x
+harras_swarm_tactic;Harass Swarm Tactic;;;;;;;;;;;Ìàññèðîâàííîå íàñòóïëåíèå;;x
+heroic_countercharge_tactic;Heroic Counter-Charge Tactic;;;;;;;;;;;Ãåðîè÷åñêàÿ êîíòðàòàêà;;x
+hesitant_commander_tactic;Hesitant Commander;;;;;;;;;;;Íåóâåðåííîå êîìàíäîâàíèå;;x
+inspired_defense_tactic;Inspired Defense Tactic;;;;;;;;;;;Ñàìîîòâåðæåííàÿ çàùèòà;;x
+massive_longbow_volley_tactic;Massive Longbow Volley Tactic;;;;;;;;;;;Ìàññèðîâàííûé îáñòðåë èç äëèííûõ ëóêîâ;;x
+mountain_ambush_tactic;Mountain Ambush Tactic;;;;;;;;;;;Ãîðíûå çàñàäû;;x
+no_siege_defense_tactic;No Tactic;;;;;;;;;;;Íåò òàêòèêè;;x
+no_siege_offense_tactic;No Tactic;;;;;;;;;;;Íåò òàêòèêè;;x
+no_tactic;No Tactic;;;;;;;;;;;Íåò òàêòèêè;;x
+pike_column_advance_tactic;Pike Column Advance;;;;;;;;;;;Íàñòóïëåíèå êîëîííîé ïèê;;x
+prepare_tactic;Prepare Tactic;;;;;;;;;;;Ïîäãîòîâêà;;x
+pursue_tactic;Pursue Tactic;;;;;;;;;;;Ïðåñëåäîâàíèå;;x
+raid_tactic;Raid Tactic;;;;;;;;;;;Òàêòèêà íàë¸òîâ;;x
+reckless_charge_tactic;Reckless Charge Tactic;;;;;;;;;;;Áåçðàññóäíàÿ àòàêà;;x
+religious_fervour_tactic;Gripped by Religious Fervour;;;;;;;;;;;Ðåëèãèîçíûé ïûë;;x
+retreat_and_ambush_tactic;Retreat and Ambush Tactic;;;;;;;;;;;Îòñòóïëåíèå è çàñàäû;;x
+schiltron_formation_tactic;Schiltron Formation;;;;;;;;;;;Ïîñòðîåíèå Øèëòðîí;;x
+shieldwall_tactic;Shieldwall Tactic;;;;;;;;;;;Ñòåíà ùèòîâ;;x
+slow_advance_tactic;Slow Advance;;;;;;;;;;;Ìåäëåííîå íàñòóïëåíèå;;x
+stand_fast_tactic;Stand Fast Tactic;;;;;;;;;;;Óäåðæàíèå ïîçèöèé;;x
+swarm_tactic;Swarm Tactic;;;;;;;;;;;Ðîé;;x
+swarm_volley_tactic;Swarm Volley Tactic;;;;;;;;;;;Âñòðå÷íûé îãîíü;;x
+timid_advance_tactic;Timid Advance Tactic;;;;;;;;;;;Îñòîðîæíîå íàñòóïëåíèå;;x
+volley_tactic;Volley Tactic;;;;;;;;;;;Çàëïîâàÿ ñòðåëüáà;;x
+volly_harass_tactic;Volley Harass Tactic;;;;;;;;;;;Çàãðàäèòåëüíûé îãîíü;;x
+wait_tactic;Wait Tactic;;;;;;;;;;;Âûæèäàíèå;;x
+flank_pursue_odds;Flank pursue odds;;;;;;;;;;;Øàíñû íà ïðåñëåäîâàíèå;;x
+flank_retreat_odds;Flank retreat odds;;;;;;;;;;;Øàíñû íà îòñòóïëåíèå;;x

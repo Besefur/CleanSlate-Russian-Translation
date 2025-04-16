@@ -1,31 +1,27 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC80000;The peasant army ravaging the county of [Root.GetName] is burning down buildings!;;;;;;;;;;;;;x
-EVTDESC80001;The peasant army ravaging the county of [From.GetName] is burning down my buildings!;;;;;;;;;;;;;x
-EVTDESC80005;I have been attacked by the peasants rebels in [Root.Location.GetName]!;;;;;;;;;;;;;x
-EVTDESC80050;[From.GetTitledName] has been captured and killed by peasant rebels!;;;;;;;;;;;;;x
-EVTDESC80051;My liege,\nI was ambushed by a mob of peasant rebels and barely got away with my life. The attack has left me maimed and I fear for the life of me and those around me in [From.Location.GetName]. These rebels must be stopped.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC80052;My liege,\nAlthough I escaped with my life, the mob of peasant rebels that attacked me managed to wound me. I fear these attacks will only increase until the revolt in [From.Location.GetName] is put down.\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC80053;Tired of their old ruler [From.GetTitledName], the peasant rebels of [Root.GetName] have defected and sworn allegiance to me!;;;;;;;;;;;;;x
-EVTDESC80054;The peasant rebels of [From.GetName] have defected and sworn allegiance to [From.County.Holder.GetTitledName]!;;;;;;;;;;;;;x
-EVTDESC80055;The people in [From.GetName] will no longer let themselves be ruled by someone of another religion! The peasant rebels controlling the county have defected and sworn allegiance to [From.County.Holder.GetTitledName]!;;;;;;;;;;;;;x
-EVTDESC80056;Feeling estranged due to cultural differences in [FromFrom.Holder.Liege.PrimaryTitle.GetName], the peasant rebels of [FromFrom.GetName] have defected and sworn allegiance to [From.County.Holder.GetTitledName]!;;;;;;;;;;;;;x
-EVTDESC80057;Feeling little loyalty to their previous far off ruler, the peasant rebels of [FromFrom.GetName] have defected and sworn allegiance to [From.County.Holder.GetTitledName]!;;;;;;;;;;;;;x
-EVTDESC80058;Tired of their old ruler, the peasant rebels of [Root.GetName] have defected and sworn allegiance to me!;;;;;;;;;;;;;x
-EVTDESC80060;The people in [Root.GetName] will no longer let themselves be ruled by someone of another religion! The peasant rebels controlling the county have defected and sworn allegiance to another ruler!;;;;;;;;;;;;;x
-EVTDESC80061;Feeling estranged due to cultural differences in [Root.Holder.Liege.PrimaryTitle.GetName], the peasant rebels of [Root.GetName] have defected and sworn allegiance to another ruler!;;;;;;;;;;;;;x
-EVTDESC80062;Feeling little loyalty to their previous far off ruler, the peasant rebels of [Root.GetName] have defected and sworn allegiance to another ruler!;;;;;;;;;;;;;x
-
-EVTOPTA80000;Is there anything they won't destroy?;;;;;;;;;;;;;x
-EVTOPTA80005;They killed me?!;;;;;;;;;;;;;x
-EVTOPTA80050;How dare they execute a subject of mine!;;;;;;;;;;;;;x
-EVTOPTA80051;They sure do...;;;;;;;;;;;;;x
-EVTOPTA80052;This peasant rabble must be stopped!;;;;;;;;;;;;;x
-EVTOPTA80053;Excellent! Or is it...?;;;;;;;;;;;;;x
-EVTOPTA80054;Damn these peasants!;;;;;;;;;;;;;x
-EVTOPTA80058;Excellent! Or is it...?;;;;;;;;;;;;;x
-
-EVTOPTB80000;Bad news, but I am glad it didn't happen to my holdings...;;;;;;;;;;;;;x
-EVTOPTB80005;Damn these rebels!;;;;;;;;;;;;;x
-
-EVTOPTC80005;I am lucky to be alive...;;;;;;;;;;;;;x
+EVTDESC80000;The peasant army ravaging the county of [Root.GetName] is burning down buildings!;;;;;;;;;;;Êðåñòüÿíñêàÿ àðìèÿ îïóñòîøàåò çåìëè îêðóãà [Root.GetName], âûæèãàÿ ïîñòðîéêè äî òëà!;;x
+EVTDESC80001;The peasant army ravaging the county of [From.GetName] is burning down my buildings!;;;;;;;;;;;Êðåñòüÿíñêàÿ àðìèÿ îïóñòîøàåò çåìëè îêðóãà [Root.GetName], âûæèãàÿ ìîè ïîñòðîéêè äî òëà!;;x
+EVTDESC80005;I have been attacked by the peasants rebels in [Root.Location.GetName]!;;;;;;;;;;;Ìÿòåæíûå êðåñòüÿíå àòàêîâàëè ìåíÿ â îêðóãå [Root.Location.GetName]!;;x
+EVTDESC80050;[From.GetTitledName] has been captured and killed by peasant rebels!;;;;;;;;;;;[From.GetTitledName] áûë çàõâà÷åí è óáèò ìÿòåæíûìè êðåñòüÿíàìè!;;x
+EVTDESC80051;My liege,\nI was ambushed by a mob of peasant rebels and barely got away with my life. The attack has left me maimed and I fear for the life of me and those around me in [From.Location.GetName]. These rebels must be stopped.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nß áûë àòàêîâàí òîëïîé ìÿòåæíûõ êðåñòüÿí è ÷óäîì îñòàëñÿ æèâ. Íàïàäåíèå îñòàâèëî íà ìíå óâå÷üÿ è ÿ îïàñàþñü çà ñâîþ æèçíü. Âïðî÷åì, êàê è âñå, êòî âîêðóã ìåíÿ â îêðóãå [From.Location.GetName]. Ýòè ìÿòåæíèêè äîëæíû áûòü îñòàíîâëåíû.\n\nÏîäïèñàíî ëè÷íî,\n[From.GetTitledName];;x
+EVTDESC80052;My liege,\nAlthough I escaped with my life, the mob of peasant rebels that attacked me managed to wound me. I fear these attacks will only increase until the revolt in [From.Location.GetName] is put down.\nSigned,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nÕîòÿ ÿ ñïàñ ñâîþ æèçíü, òîëïå ìÿòåæíûõ êðåñòüÿí, êîòîðûå íàïàëè íà ìåíÿ, óäàëîñü íàíåñòè ìíå ðàíåíèå. ß áîþñü, ÷òî êîëè÷åñòâî íàïàäåíèé áóäåò òîëüêî óâåëè÷èâàòüñÿ, ïîêà âîññòàíèå â îêðóãå [From.Location.GetName] ïðîäîëæàåòñÿ.\nÑ óâàæåíèåì,\n[From.GetTitledName];;x
+EVTDESC80053;Tired of their old ruler [From.GetTitledName], the peasant rebels of [Root.GetName] have defected and sworn allegiance to me!;;;;;;;;;;;Óñòàâ îò ñâîåãî óæàñíîãî ïðàâèòåëÿ ïî èìåíè [From.GetTitledName], [Root.County.GetAdjective]ñêèå êðåñòüÿíå âîññòàëè, è ïðèñÿãíóëè íà âåðíîñòü ìíå!;;x
+EVTDESC80054;The peasant rebels of [From.GetName] have defected and sworn allegiance to [From.County.Holder.GetTitledName]!;;;;;;;;;;;[From.County.GetAdjective]ñêèå êðåñòüÿíå ðåøèëè ïðåäàòü ìåíÿ, ïîñ÷èòàâ ÷òî [From.County.Holder.GetTitledName] äîñòîéíåå äëÿ èõ âåðíîñòè!;;x
+EVTDESC80055;The people in [From.GetName] will no longer let themselves be ruled by someone of another religion! The peasant rebels controlling the county have defected and sworn allegiance to [From.County.Holder.GetTitledName]!;;;;;;;;;;;[From.County.GetAdjective]ñêèé íàðîä íå ìîæåò áîëüøå òåðïåòü âëàñòü ñþçåðåíà-èíîâåðöà! Áóíòîâùèêè, çàõâàòèâøèå êîíòðîëü íàä îêðóãîì, ïðåäàëè ìåíÿ, ðåøèâ, ÷òî [From.County.Holder.GetTitledName] äîñòîéíåå äëÿ èõ âåðíîñòè!;;x
+EVTDESC80056;Feeling estranged due to cultural differences in [FromFrom.Holder.Liege.PrimaryTitle.GetName], the peasant rebels of [FromFrom.GetName] have defected and sworn allegiance to [From.County.Holder.GetTitledName]!;;;;;;;;;;;Áóäó÷è íîñèòåëÿìè èíîé êóëüòóðû, âîññòàâøèå êðåñòüÿíå îêðóãà [FromFrom.GetName] ïðåäàëè ìåí, ðåøèâ, ÷òî [From.County.Holder.GetTitledName] äîñòîéíåå äëÿ èõ âåðíîñòè!;;x
+EVTDESC80057;Feeling little loyalty to their previous far off ruler, the peasant rebels of [FromFrom.GetName] have defected and sworn allegiance to [From.County.Holder.GetTitledName]!;;;;;;;;;;;Âîññòàâøèå æèòåëè îêðóãà [FromFrom.GetName] ïðèñÿãíóëè íîâîìó ñþçåðåíó. [From.County.Holder.GetTitledName] áóäåò îòíûíå çàáîòèòüñÿ î íèõ;;x
+EVTDESC80058;Tired of their old ruler, the peasant rebels of [Root.GetName] have defected and sworn allegiance to me!;;;;;;;;;;;Óñòàâøèå îò ñâîåãî ñòàðîãî ñþçåðåíà, âîññòàâøèå êðåñòüÿíå îêðóãà [Root.GetName] ðåøèëè ïðèñÿãíóòü íà âåðíîñòü ìíå!;;x
+EVTDESC80060;The people in [Root.GetName] will no longer let themselves be ruled by someone of another religion! The peasant rebels controlling the county have defected and sworn allegiance to another ruler!;;;;;;;;;;;[From.County.GetAdjective]ñêèé íàðîä íå ìîæåò áîëüøå òåðïåòü âëàñòü ñþçåðåíà-èíîâåðöà! Áóíòîâùèêè, çàõâàòèâøèå êîíòðîëü íàä îêðóãîì, ïðåäàëè ìåíÿ è ïðèñÿãíóëè äðóãîìó ïðàâèòåëþ!;;x
+EVTDESC80061;Feeling estranged due to cultural differences in [Root.Holder.Liege.PrimaryTitle.GetName], the peasant rebels of [Root.GetName] have defected and sworn allegiance to another ruler!;;;;;;;;;;;Áóäó÷è íîñèòåëÿìè èíîé êóëüòóðû, âîññòàâøèå êðåñòüÿíå îêðóãà [FromFrom.GetName] ïðåäàëè ìåíÿ è ïðèñÿãíóëè äðóãîìó ïðàâèòåëþ!;;x
+EVTDESC80062;Feeling little loyalty to their previous far off ruler, the peasant rebels of [Root.GetName] have defected and sworn allegiance to another ruler!;;;;;;;;;;;Âîññòàâøèå æèòåëè îêðóãà [Root.GetName] ïðèñÿãíóëè íîâîìó ñþçåðåíó.;;x
+EVTOPTA80000;Is there anything they won't destroy?;;;;;;;;;;;Îñòàíåòñÿ ëè õîòü ÷òî-íèáóäü, ÷òî îíè íå ðàçðóøàò?;;x
+EVTOPTA80005;They killed me?!;;;;;;;;;;;Îíè óáèëè ìåíÿ?!;;x
+EVTOPTA80050;How dare they execute a subject of mine!;;;;;;;;;;;Êàê ñìåþò îíè êàçíèòü îäíîãî èç ìîèõ ïîääàííûõ?!;;x
+EVTOPTA80051;They sure do...;;;;;;;;;;;Â ñàìîì äåëå...;;x
+EVTOPTA80052;This peasant rabble must be stopped!;;;;;;;;;;;Ýòà êðåñòüÿíñêàÿ ÷åðíü äîëæíà áûòü îñòàíîâëåíà!;;x
+EVTOPTA80053;Excellent! Or is it...?;;;;;;;;;;;Îòëè÷íî! Èëè...?;;x
+EVTOPTA80054;Damn these peasants!;;;;;;;;;;;Ïðîêëÿòûå êðåñòüÿíå!;;x
+EVTOPTA80058;Excellent! Or is it...?;;;;;;;;;;;Ïðåâîñõîäíî! Èëè...?;;x
+EVTOPTB80000;Bad news, but I am glad it didn't happen to my holdings...;;;;;;;;;;;Ïëîõèå íîâîñòè, íî ÿ ðàä, ÷òî ýòî íå ñëó÷èëîñü ñ ìîèìè âëàäåíèÿìè...;;x
+EVTOPTB80005;Damn these rebels!;;;;;;;;;;;×¸ðò ïîáåðè ýòèõ ìÿòåæíèêîâ!;;x
+EVTOPTC80005;I am lucky to be alive...;;;;;;;;;;;Ìíå ïîâåçëî, ÷òî îñòàëñÿ æèâ...;;x

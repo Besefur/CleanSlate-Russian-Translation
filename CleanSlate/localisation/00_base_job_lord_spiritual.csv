@@ -1,268 +1,199 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
 # job_lord_spiritual.txt
-
 #########################
 #
 #	Lord spiritual events
 #
 #########################
-
 # The Lord Spiritual converts a province!
-evt_lordspiritual_001_title;County Religion Converted;;;;;;;;;;;;;x
-evt_lordspiritual_001_desc_a;The people in [Root.Location.GetName], or, at least, most of them, have embraced the [Root.Religion.GetName] faith!;;;;;;;;;;;;;x
-evt_lordspiritual_001_option_a;My hard work has paid off!;;;;;;;;;;;;;x
-evt_lordspiritual_001_option_a_tooltip;Send a letter to my liege!;;;;;;;;;;;;;x
-
+evt_lordspiritual_001_title;County Religion Converted;;;;;;;;;;;Cìåíà ðåëèãèè îêðóãà;;x
+evt_lordspiritual_001_desc_a;The people in [Root.Location.GetName], or, at least, most of them, have embraced the [Root.Religion.GetName] faith!;;;;;;;;;;;Æèòåëè îêðóãà [Root.Location.GetName], ïî êðàéíåé ìåðå, áîëüøèíñòâî èç íèõ, ïðèíÿëè [Root.GetReligionFullName].;;x
+evt_lordspiritual_001_option_a;My hard work has paid off!;;;;;;;;;;;Íàøè òÿæêèå òðóäû âåðíóëèñü ñòîðèöåé!;;x
+evt_lordspiritual_001_option_a_tooltip;Send a letter to my liege!;;;;;;;;;;;Îòïðàâèòü ïèñüìî cþçåðåíó;;x
 # The Lord Spiritual informs his liege of the conversion
-evt_lordspiritual_002_desc_a;My liege, I am pleased to report the success of my mission to [From.Location.GetName]. The majority of the population have been converted to the [From.Religion.GetName] faith!\nYour humble [From.GetLordSpiritualName]\n[From.GetTitledName];;;;;;;;;;;;;x
-
+evt_lordspiritual_002_desc_a;My liege, I am pleased to report the success of my mission to [From.Location.GetName]. The majority of the population have been converted to the [From.Religion.GetName] faith!\nYour humble [From.GetLordSpiritualName]\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ñ ðàäîñòüþ ñîîáùàþ, ÷òî ìîÿ ìèññèÿ â îêðóãå [From.Location.GetName] óâåí÷àëàñü óñïåõîì. Áîëüøèíñòâî æèòåëåé òåïåðü èñïîâåäóþò [From.GetReligionFullName]!\n[Root.GetMyLordSpiritualName] [From.GetFirstName];;x
 # Informs top liege
-evt_lordspiritual_003_desc_a;The County of §Y[From.Location.GetName]§! has been converted to the §Y[From.Religion.GetName]§! faith.;;;;;;;;;;;;;x
-
-
+evt_lordspiritual_003_desc_a;The County of §Y[From.Location.GetName]§! has been converted to the §Y[From.Religion.GetName]§! faith.;;;;;;;;;;;Îêðóã §Y[From.Location.GetName]§! ïðèíÿë §Y[From.GetReligionFullName]§!.;;x
 # The Lord Spiritual converts a subject character
-evt_lordspiritual_101_title;Subject Religion Converted;;;;;;;;;;;;;x
-evt_lordspiritual_101_desc_a;Due to my tireless efforts, a humble subject in [Root.Location.GetName] has embraced the [Root.Religion.GetName] faith!;;;;;;;;;;;;;x
-evt_lordspiritual_101_option_a;No one can resist the true faith!;;;;;;;;;;;;;x
-evt_lordspiritual_101_option_a_tooltip;[This.GetTitledName] embraces the [Root.Religion.GetName] faith;;;;;;;;;;;;;x
-
+evt_lordspiritual_101_title;Subject Religion Converted;;;;;;;;;;;Påëèãèîçíûå ïðåîáðàçîâàíèÿ;;x
+evt_lordspiritual_101_desc_a;Due to my tireless efforts, a humble subject in [Root.Location.GetName] has embraced the [Root.Religion.GetName] faith!;;;;;;;;;;;Â îêðóãå [Root.Location.GetName], áëàãîäàðÿ ìîèì íåóñòàííûì óñèëèÿì, òåïåðü èñïîâåäóþò [Root.GetReligionFullName]!;;x
+evt_lordspiritual_101_option_a;No one can resist the true faith!;;;;;;;;;;;Íè÷òî è íèêòî íå ìîæåò ïðîòèâîñòîÿòü èñòèííîé âåðå!;;x
+evt_lordspiritual_101_option_a_tooltip;[This.GetTitledName] embraces the [Root.Religion.GetName] faith;;;;;;;;;;;[This.GetTitledName] ïðèìåò [Root.GetReligionFullName];;x
 # Inform the target character about this
-evt_lordspiritual_102_desc_a;The [From.GetJobTitle] of [From.Host.PrimaryTitle.GetName], [From.GetTitledName], has strongly influenced me and I have decided to convert to the [From.Religion.GetName] faith!;;;;;;;;;;;;;x
-evt_lordspiritual_102_option_a;I will truly embrace [From.Religion.GetName];;;;;;;;;;;;;x
-
+evt_lordspiritual_102_desc_a;The [From.GetJobTitle] of [From.Host.PrimaryTitle.GetName], [From.GetTitledName], has strongly influenced me and I have decided to convert to the [From.Religion.GetName] faith!;;;;;;;;;;;[From.GetTitledName], [From.GetJobTitle] ïðè [From.Host.PrimaryTitle.GetAdjective]ñêîì äâîðå, ñèëüíî ïîâëèÿë[From.GetEndA] íà ìåíÿ, è ÿ ðåøèë[Root.GetEndA] ïðèíÿòü [From.GetReligionFullName]!;;x
+evt_lordspiritual_102_option_a;I will truly embrace [From.Religion.GetName];;;;;;;;;;;Òåïåðü ÿ [From.GetReligiousPerson];;x
 # Inform Lord Spiritual's Liege about this
-evt_lordspiritual_103_desc_a;My liege, I am pleased to report that your errant subject, [From.GetTitledName], has converted to the [From.Religion.GetName] faith. Praise [From.Religion.GetRandomGodName]!\n\nYour humble [Root.GetLordSpiritualName],\n[Root.job_spiritual.GetTitledName];;;;;;;;;;;;;x
-
+evt_lordspiritual_103_desc_a;My liege, I am pleased to report that your errant subject, [From.GetTitledName], has converted to the [From.Religion.GetName] faith. Praise [From.Religion.GetRandomGodName]!\n\nYour humble [Root.GetLordSpiritualName],\n[Root.job_spiritual.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ñ ðàäîñòüþ ñîîáùàþ, ÷òî Âàø[From.GetEndA] çàáëóäø[From.GetAyaIy] ïîääàíí[From.GetAyaYy], [From.GetTitledName], òåïåðü èñïîâåäóåò [From.GetReligionFullName].\n[Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName];;x
 # Inform character's Liege about this
-evt_lordspiritual_104_desc_a;My liege, after being convinced by the [From.GetLordSpiritualName] from another county, I have decided to convert to the [From.Religion.GetName] faith!\n\nYour humble servant,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_lordspiritual_104_option_b;Who dares lead my subjects astray like this!;;;;;;;;;;;;;x
-
-
+evt_lordspiritual_104_desc_a;My liege, after being convinced by the [From.GetLordSpiritualName] from another county, I have decided to convert to the [From.Religion.GetName] faith!\n\nYour humble servant,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ïîñëå òîãî, êàê ÿ è [From.GetLordSpiritualName] ïîãîâîðèëè, ÿ ðåøèë[From.GetEndA] ïðèíÿòü [From.GetReligionFullName]!\nÑ ãëóáî÷àéøèì óâàæåíèåì,\n[From.GetTitledFirstName];;x
+evt_lordspiritual_104_option_b;Who dares lead my subjects astray like this!;;;;;;;;;;;Êòî îñìåëèëñÿ ââîäèòü â çàáëóæäåíèå ìîèõ ïîääàííûõ?!;;x
 # The Lord Spiritual is attacked by heathens
-evt_lordspiritual_201_title;Heathens Attack the [Root.Liege.GetLordSpiritualName];;;;;;;;;;;;;x
-evt_lordspiritual_201_desc_a;Heathens, aggravated by my preachings in [Root.Location.GetName], are breaking into my room, screaming ungodly curses!;;;;;;;;;;;;;x
-evt_lordspiritual_201_option_a;Will I escape with my life?;;;;;;;;;;;;;x
-evt_lordspiritual_201_option_a_tooltip_1;[Root.GetTitledName] gets away;;;;;;;;;;;;;x
-evt_lordspiritual_201_option_a_tooltip_2;[Root.GetTitledName] gets wounded;;;;;;;;;;;;;x
-
+evt_lordspiritual_201_title;Heathens Attack the [Root.Liege.GetLordSpiritualName];;;;;;;;;;;Håñ÷àñòí[Root.GetAyaYy] [Root.Liege.GetLordSpiritualName] àòàêîâàí[Root.GetEndA] íåâåðíûìè;;x
+evt_lordspiritual_201_desc_a;Heathens, aggravated by my preachings in [Root.Location.GetName], are breaking into my room, screaming ungodly curses!;;;;;;;;;;;ßçû÷íèêè, çàêëåéìåííûå ìîåé ÿðêîé ïðîïîâåäüþ â [Root.Location.GetName], âëîìèëèñü êî ìíå è îñûïàëè ìåíÿ íå÷åñòèâûìè ñëîâàìè è ïðîêëÿòèÿìè. Âîçìóòèòåëüíî!;;x
+evt_lordspiritual_201_option_a;Will I escape with my life?;;;;;;;;;;;Ñìîãó ëè ÿ âûáðàòüñÿ æèâ[Root.GetOyYm]?;;x
+evt_lordspiritual_201_option_a_tooltip_1;[Root.GetTitledName] gets away;;;;;;;;;;;[Root.GetTitledName] ñáåãàåò!;;x
+evt_lordspiritual_201_option_a_tooltip_2;[Root.GetTitledName] gets wounded;;;;;;;;;;;[Root.GetTitledName] ïîëó÷àåò ðàíåíèå.;;x
 # Lord Spiritual gets away
-evt_lordspiritual_202_desc_a;I managed to flee the heathen savages by escaping through the backdoor.;;;;;;;;;;;;;x
-evt_lordspiritual_202_option_a;My prestige however did not go unscathed by the incident...;;;;;;;;;;;;;x
-
+evt_lordspiritual_202_desc_a;I managed to flee the heathen savages by escaping through the backdoor.;;;;;;;;;;;Ìíå óäàëîñü óäðàòü îò ÿçû÷åñêèõ äèêàðåé îêîëüíûìè ïóòÿìè.;;x
+evt_lordspiritual_202_option_a;My prestige however did not go unscathed by the incident...;;;;;;;;;;;Ìîé ïðåñòèæ, îäíàêî, áóäåò ïîäîðâàí ïîñëå ýòîãî èíöèäåíòà...;;x
 # Lord Spiritual gets wounded
-evt_lordspiritual_203_desc_a;I did manage to survive the heathens attacking me, but the incident has left me severely wounded.;;;;;;;;;;;;;x
-evt_lordspiritual_203_option_a;I thank the Lord for saving me;;;;;;;;;;;;;x
-evt_lordspiritual_203_option_b;These savages must be converted or put to the sword!;;;;;;;;;;;;;x
-evt_lordspiritual_203_option_c;I thank Allah for saving me;;;;;;;;;;;;;x
-evt_lordspiritual_203_option_a_tooltip;I must send a letter to inform my liege;;;;;;;;;;;;;x
-
+evt_lordspiritual_203_desc_a;I did manage to survive the heathens attacking me, but the incident has left me severely wounded.;;;;;;;;;;;Ìíå óäàëîñü âûæèòü ïîñëå íàïàäåíèÿ êðåñòüÿí, íî ýòîò èíöèäåíò îñòàâèò ìåíÿ êàëåêîé.;;x
+evt_lordspiritual_203_option_a;I thank the Lord for saving me;;;;;;;;;;;ß áëàãîäàðþ Ãîñïîäà çà ìîå ñïàñåíèå;;x
+evt_lordspiritual_203_option_b;These savages must be converted or put to the sword!;;;;;;;;;;;Ýòèõ äèêàðåé íåîáõîäèìî êðåñòèòü èëè ïðåäàòü ìå÷ó!;;x
+evt_lordspiritual_203_option_c;I thank Allah for saving me;;;;;;;;;;;ß áëàãîäàðåí Àëëàõó çà ñâî¸ ñïàñåíèå;;x
+evt_lordspiritual_203_option_a_tooltip;I must send a letter to inform my liege;;;;;;;;;;;ß äîëæåí îòïðàâèòü ïèñüìî ìîåìó ñþçåðåíó;;x
 # Inform the Liege about wounding
-evt_lordspiritual_204_desc_a;Your [Root.GetMyLordSpiritualName], §Y[From.GetTitledFirstNameNoRegnal]§!, was attacked by heathens in §Y[wounded_location.GetName]§! while trying to spread the faith.;;;;;;;;;;;;;x
-evt_lordspiritual_204_option_a;How dare they!;;;;;;;;;;;;;x
-
+evt_lordspiritual_204_desc_a;Your [Root.GetMyLordSpiritualName], §Y[From.GetTitledFirstNameNoRegnal]§!, was attacked by heathens in §Y[wounded_location.GetName]§! while trying to spread the faith.;;;;;;;;;;;[Root.GetMyLordSpiritualName] §Y[From.GetFirstName]§! áûë[From.GetEndA] àòàêîâàí[From.GetEndA] èíîâåðöàìè, ïûòàÿñü ðàñïðîñòðàíèòü ñâÿòóþ âåðó â îêðóãå §Y[wounded_location.GetName]§!.;;x
+evt_lordspiritual_204_option_a;How dare they!;;;;;;;;;;;Êàê îíè ïîñìåëè?!;;x
 # Inform the Liege about death
-evt_lordspiritual_205_desc_a;[Root.GetTitledName], your [Root.GetLordSpiritualName] [From.GetTitledName] was killed by heathens when trying to spread the Holy Faith in [From.Location.GetName].;;;;;;;;;;;;;x
-evt_lordspiritual_205_option_a;Horrible!;;;;;;;;;;;;;x
-
-
+evt_lordspiritual_205_desc_a;[Root.GetTitledName], your [Root.GetLordSpiritualName] [From.GetTitledName] was killed by heathens when trying to spread the Holy Faith in [From.Location.GetName].;;;;;;;;;;;[Root.GetTitledName], [Root.GetLordSpiritualName] [From.GetFirstName] óáèò[From.GetEndA] èíîâåðöàìè ïðè ïîïûòêàõ ðàñïðîñòðàíèòü ñâÿòóþ âåðó â îêðóãå [From.Location.GetName].;;x
+evt_lordspiritual_205_option_a;Horrible!;;;;;;;;;;;Óæàñíî!;;x
 # The Lord Spiritual suspects a subject character of heresy
-evt_lordspiritual_301_title;Heretic Noble;;;;;;;;;;;;;x
-evt_lordspiritual_301_desc_a;I have found a heretic among the nobles in [Root.Location.GetName]!;;;;;;;;;;;;;x
-evt_lordspiritual_301_option_a;This heresy must be stopped!;;;;;;;;;;;;;x
-evt_lordspiritual_301_option_a_tooltip;Send a letter to my liege informing [Root.Liege.GetHerHim] of the heretic!;;;;;;;;;;;;;x
+evt_lordspiritual_301_title;Heretic Noble;;;;;;;;;;;Eðåòèê ñðåäè çíàòè;;x
+evt_lordspiritual_301_desc_a;I have found a heretic among the nobles in [Root.Location.GetName]!;;;;;;;;;;;ß íàø¸ë åðåòèêà ñðåäè çíàòè â îáëàñòè [Root.Location.GetName]!;;x
+evt_lordspiritual_301_option_a;This heresy must be stopped!;;;;;;;;;;;Åðåñü äîëæíà áûòü ïðåêðàùåíà!;;x
+evt_lordspiritual_301_option_a_tooltip;Send a letter to my liege informing [Root.Liege.GetHerHim] of the heretic!;;;;;;;;;;;ß äîëæåí óâåäîìèòü ñþçåðåíà î åðåòèêå!;;x
 # No longer used
-EVTOPTB903;I better let this particular one off...;;;;;;;;;;;;;x
-
+EVTOPTB903;I better let this particular one off...;;;;;;;;;;;ß ïðåäïî÷èòàþ ïîçâîëèòü ñåáå èñêëþ÷åíèå èç ïðàâèë...;;x
 # Noble reacts to the accusations
-evt_lordspiritual_302_desc_a;The [From.GetJobTitle] of [From.Host.PrimaryTitle.GetName], [From.GetTitledName], accuses me of heresy and have declared me a heretic!;;;;;;;;;;;;;x
-evt_lordspiritual_302_option_a;I'm a God-fearing [Root.GetManWoman], I won't put up with this!;;;;;;;;;;;;;x
-evt_lordspiritual_302_option_a_tooltip;Send a letter to [From.Host.GetTitledName] explaining [From.Host.GetHerHis] [From.GetLordSpiritualName]'s mistake;;;;;;;;;;;;;x
-evt_lordspiritual_302_option_b;I am a faithful Muslim, I won't put up with this!;;;;;;;;;;;;;x
-evt_lordspiritual_302_option_b_tooltip;An apologetic letter is sent to [This.GetTitledName];;;;;;;;;;;;;x
-
+evt_lordspiritual_302_desc_a;The [From.GetJobTitle] of [From.Host.PrimaryTitle.GetName], [From.GetTitledName], accuses me of heresy and have declared me a heretic!;;;;;;;;;;;[From.GetTitledFirstName], [From.GetJobTitle] [From.Host.PrimaryTitle.GetAdjective]ñêîãî äâîðà, îáâèíèë[From.GetEndA] ìåíÿ â åðåñè!;;x
+evt_lordspiritual_302_option_a;I'm a God-fearing [Root.GetManWoman], I won't put up with this!;;;;;;;;;;;ß íå ñîáèðàþñü ìèðèòüñÿ ñ ýòèì!;;x
+evt_lordspiritual_302_option_a_tooltip;Send a letter to [From.Host.GetTitledName] explaining [From.Host.GetHerHis] [From.GetLordSpiritualName]'s mistake;;;;;;;;;;;Ïîñëàòü ïèñüìî ïåðñîíàæó [From.Host.GetTitledName], ñ îáúÿñíåíèÿìè òîãî, â ÷¸ì îøèáñÿ åãî [From.GetLordSpiritualName].;;x
+evt_lordspiritual_302_option_b;I am a faithful Muslim, I won't put up with this!;;;;;;;;;;;ß âåðóþùèé ìóñóëüìàíèí, ÿ íå áóäó ñ ýòèì ìèðèòüñÿ!;;x
+evt_lordspiritual_302_option_b_tooltip;An apologetic letter is sent to [This.GetTitledName];;;;;;;;;;;Îòïðàâèòü ïèñüìî ñ èçâèíåíèÿìè, êîòîðîå ïîëó÷èò [This.GetTitledName];;x
 # Liege: The noble complains
-evt_lordspiritual_303_desc_a;My [Root.GetTitle], word has reached me that your [Root.GetMyLordSpiritualName] has accused me of heresy! I implore you, as a devout [Root.Religion.GetName] to another devout [Root.Religion.GetName] to believe me when I tell you I am not a heretic!\n\nYour humble [From.GetTitle],\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_lordspiritual_303_option_a;I am sure [From.GetTitledFirstName] is not a heretic;;;;;;;;;;;;;x
-evt_lordspiritual_303_option_a_tooltip_1;An apologetic letter is sent to [This.GetTitledName];;;;;;;;;;;;;x
-evt_lordspiritual_303_option_a_tooltip_2;A chastising letter is sent to the [Root.GetLordSpiritualName];;;;;;;;;;;;;x
-evt_lordspiritual_303_option_b;Of course [From.GetSheHe] is a heretic!;;;;;;;;;;;;;x
-evt_lordspiritual_303_option_b_tooltip_1;[This.GetTitledName] gets branded heretic;;;;;;;;;;;;;x
-evt_lordspiritual_303_option_b_tooltip_2;A complimentary letter is sent to the [Root.GetLordSpiritualName];;;;;;;;;;;;;x
-
+evt_lordspiritual_303_desc_a;My [Root.GetTitle], word has reached me that your [Root.GetMyLordSpiritualName] has accused me of heresy! I implore you, as a devout [Root.Religion.GetName] to another devout [Root.Religion.GetName] to believe me when I tell you I am not a heretic!\n\nYour humble [From.GetTitle],\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], äî ìåíÿ äîøëè ñëóõè, ÷òî Âàø [Root.GetMyLordSpiritualName] îáâèíèë[Root.job_spiritual.GetEndA] ìåíÿ â åðåñè! ß ïðîøó Âàñ ïîâåðèòü ìíå, êàê îäèí áëàãî÷åñòèâûé ïðèâåðæåíåö [Root.GetReligionNameGEN] äðóãîìó, ÷òî ÿ - íå åðåòèê!\nÑî ñìèðåíèåì è óâàæåíèåì,\n [From.GetTitledName];;x
+evt_lordspiritual_303_option_a;I am sure [From.GetTitledFirstName] is not a heretic;;;;;;;;;;;[From.GetSheHeCap] - áëàãî÷åñòèâ[From.GetAyaYy] [Root.GetReligiousPerson]!;;x
+evt_lordspiritual_303_option_a_tooltip_1;An apologetic letter is sent to [This.GetTitledName];;;;;;;;;;;Îòïðàâèòü ïèñüìî ñ èçâèíåíèÿìè, êîòîðîå ïîëó÷èò [This.GetTitledName];;x
+evt_lordspiritual_303_option_a_tooltip_2;A chastising letter is sent to the [Root.GetLordSpiritualName];;;;;;;;;;;Ïîðèöàòåëüíîå ïèñüìî îòïðàâëåíî ïåðñîíàæó [Root.GetLordSpiritualName];;x
+evt_lordspiritual_303_option_b;Of course [From.GetSheHe] is a heretic!;;;;;;;;;;;Êîíå÷íî [From.GetSheHe] — åðåòè[From.GetChkaK]!;;x
+evt_lordspiritual_303_option_b_tooltip_1;[This.GetTitledName] gets branded heretic;;;;;;;;;;;[This.GetTitledName] ïîëó÷èò êëåéìî åðåòèêà.;;x
+evt_lordspiritual_303_option_b_tooltip_2;A complimentary letter is sent to the [Root.GetLordSpiritualName];;;;;;;;;;;Õâàëåáíîå ïèñüìî îòïðàâëåíî ïåðñîíàæó [Root.GetLordSpiritualName];;x
 # Noble: Noble isn't heretic
-evt_lordspiritual_304_desc_a;My [Root.GetTitle], I ask for your forgiveness as a pious [From.Religion.GetName]! My [Root.GetLordSpiritualName]'s precipitous conclusion will no longer cause you any more grievance as I personally will make sure your [Player.Religion.GetPietyName] will be known as a fact and not a question.\nYour humble [From.GetTitle],\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_lordspiritual_304_option_a;Thank God;;;;;;;;;;;;;x
-evt_lordspiritual_304_option_b;Allah be praised!;;;;;;;;;;;;;x
-
+evt_lordspiritual_304_desc_a;My [Root.GetTitle], I ask for your forgiveness as a pious [From.Religion.GetName]! My [Root.GetLordSpiritualName]'s precipitous conclusion will no longer cause you any more grievance as I personally will make sure your [Player.Religion.GetPietyName] will be known as a fact and not a question.\nYour humble [From.GetTitle],\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ÿ ïðîøó Âàøåãî ïðîùåíèÿ, êàê èñïîâåäóþù[From.GetAyaIy] [From.GetReligionFullName] [From.GetAgedPerson]! Ìîè ïîñïåøíûå âûâîäû áîëåå íå áóäóò ïîâîäîì äëÿ Âàøåãî áåñïîêîéñòâà. Ê òîìó æå, ÿ ëè÷íî ïðîñëåæó, ÷òîáû Âàøå áëàãî÷åñòèå íè ó êîãî íå âûçûâàëî âîïðîñîâ.\n[From.GetTitledFirstName];;x
+evt_lordspiritual_304_option_a;Thank God;;;;;;;;;;;Ñëàâà Áîãó!;;x
+evt_lordspiritual_304_option_b;Allah be praised!;;;;;;;;;;;Ñëàâà Àëëàõó!;;x
 # Lord Spiritual: Noble isn't heretic
-evt_lordspiritual_305_desc_a;My [Root.GetLordSpiritualName], after investigating the heretic further I can assure you that [FromFrom.GetTitledFirstName] is a devout [FromFrom.Religion.GetName]. If this mistake recur I will not be as understanding. Make sure the heretic really is a heretic before you falsely accuse anyone.\n\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_lordspiritual_305_option_a;As you wish...;;;;;;;;;;;;;x
-
+evt_lordspiritual_305_desc_a;My [Root.GetLordSpiritualName], after investigating the heretic further I can assure you that [FromFrom.GetTitledFirstName] is a devout [FromFrom.Religion.GetName]. If this mistake recur I will not be as understanding. Make sure the heretic really is a heretic before you falsely accuse anyone.\n\n[From.GetTitledName];;;;;;;;;;;Ìîé [Root.GetLordSpiritualName], ïîñëå ïðîâåä¸ííîãî ðàññëåäîâàíèÿ ïî îáâèíåíèþ â åðåñè, ÿ ìîãó çàâåðèòü Âàñ, ÷òî [FromFrom.GetTitledFirstName] - áëàãî÷åñòèâûé ïðèâåðæåíåö [FromFrom.GetReligionNameGEN]. Åñëè ýòà îøèáêà ïîâòîðèòñÿ, ÿ íå áóäó ñòîëü æå ïîíèìàþùèì. Óáåäèòåñü, ÷òî åðåòèê äåéñòâèòåëüíî åðåòèê äî òîãî, êàê âûäâèãàòü ëîæíûå îáâèíåíèÿ.\n[From.GetTitledName];;x
+evt_lordspiritual_305_option_a;As you wish...;;;;;;;;;;;Êàê ïîæåëàåòå.;;x
 # Noble: Noble is heretic
-evt_lordspiritual_306_desc_a;[Root.GetTitledName], the evidence against you is abundant and your heresy show no limits! You should embrace the [From.Religion.GetName] faith and ask for your sins to be forgiven.\n\nYour Pious [From.GetTitle],\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_lordspiritual_306_option_a;What?!;;;;;;;;;;;;;x
-
+evt_lordspiritual_306_desc_a;[Root.GetTitledName], the evidence against you is abundant and your heresy show no limits! You should embrace the [From.Religion.GetName] faith and ask for your sins to be forgiven.\n\nYour Pious [From.GetTitle],\n[From.GetTitledName];;;;;;;;;;;[Root.GetTitledName], äîêàçàòåëüñòâ Âàøåãî ãðåõà â èçîáèëèè, è ãðåõ Âàø âåëèê! Âû äîëæíû âíîâü íà÷àòü èñïîâåäîâàòü [From.GetReligionFullName] è ïðîñèòü îòïóùåíèÿ Âàøèõ ãðåõîâ.\n\nÂàø íàáîæíûé [From.GetTitle],\n[From.GetTitledName];;x
+evt_lordspiritual_306_option_a;What?!;;;;;;;;;;;×òî?!;;x
 # Lord Spiritual: Noble is heretic
-evt_lordspiritual_307_desc_a;My [Root.GetLordSpiritualName], the evidence you presented against the noble is convincing and robust enough, there is no doubt in my mind that you have found a real heretic. A work well done!\n\nYour humble [From.GetTitle],\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_lordspiritual_307_option_a;Kind words...;;;;;;;;;;;;;x
-
-
+evt_lordspiritual_307_desc_a;My [Root.GetLordSpiritualName], the evidence you presented against the noble is convincing and robust enough, there is no doubt in my mind that you have found a real heretic. A work well done!\n\nYour humble [From.GetTitle],\n[From.GetTitledName];;;;;;;;;;;[Root.GetLordSpiritualName], äîêàçàòåëüñòâà, êîòîðûå Âû ïðåäîñòàâèëè ïðîòèâ çíàòíîãî ÷åëîâåêà äîñòàòî÷íî óáåäèòåëüíû è íàäåæíû. Íà ìîé âçãëÿä, íåò íèêàêèõ ñîìíåíèé, ÷òî Âû âû÷èñëèëè íàñòîÿùåãî åðåòèêà. Õîðîøàÿ ðàáîòà!\n[From.GetTitledFirstName];;x
+evt_lordspiritual_307_option_a;Kind words...;;;;;;;;;;;Äîáðûå ñëîâà…;;x
 # Increased revolt risk
-evt_lordspiritual_401_desc_a;My efforts to root out heresy and convert the population of [Root.Location.GetName] have met with resistance, and the peasants are arming themselves. I fear we might have a revolt on our hands here soon.;;;;;;;;;;;;;x
-evt_lordspiritual_401_option_a;My liege will not like this...;;;;;;;;;;;;;x
-
-evt_lordspiritual_402_desc_a;News of unrest in [From.Location.GetName]! The [Root.GetLordSpiritualName] of [From.Liege.PrimaryTitle.GetName] has been trying to root out heresy and convert the population, but the peasants have been resisting and are now arming themselves.;;;;;;;;;;;;;x
-evt_lordspiritual_402_option_a;Most worrisome...;;;;;;;;;;;;;x
-
-evt_lordspiritual_403_desc_a;My liege, I write to you with bad news from [From.Location.GetName]. My efforts to root out heresy and convert the population have met with resistance, and the peasants are arming themselves. I fear we might have a revolt on our hands here soon.\n\nYour humble [Root.GetLordSpiritualName],\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_lordspiritual_403_option_a;These troublesome peasants...;;;;;;;;;;;;;x
-
-
+evt_lordspiritual_401_desc_a;My efforts to root out heresy and convert the population of [Root.Location.GetName] have met with resistance, and the peasants are arming themselves. I fear we might have a revolt on our hands here soon.;;;;;;;;;;;Ìîè óñèëèÿ ïî èñêîðåíåíèþ åðåñè ñðåäè [Root.Location.County.GetAdjective]ñêîãî íàñåëåíèÿ âñòðåòèëè ñîïðîòèâëåíèå, è êðåñòüÿíå ïîâñåìåñòíî âîîðóæàþòñÿ. ß áîþñü, ÷òî â áëèæàéøåì âðåìåíè çäåñü âñïûõíåò âîññòàíèå.;;x
+evt_lordspiritual_401_option_a;My liege will not like this...;;;;;;;;;;;Ìîåìó ñþçåðåíó ýòî íå ïîíðàâèòñÿ...;;x
+evt_lordspiritual_402_desc_a;News of unrest in [From.Location.GetName]! The [Root.GetLordSpiritualName] of [From.Liege.PrimaryTitle.GetName] has been trying to root out heresy and convert the population, but the peasants have been resisting and are now arming themselves.;;;;;;;;;;;Íîâîñòè î âîëíåíèÿõ â îêðóãå [From.Location.GetName]! [From.Liege.PrimaryTitle.GetAdjective]ñêèé [Root.GetLordSpiritualName], ïûòàÿñü èñêîðåíèòü åðåñü è îáðàòèòü íàñåëåíèå â èñòèííóþ âåðó, äîâîäèò ìåñòíîå íàñåëåíèå äî áóíòà è òåïåðü îíè âîîðóæàþòñÿ.;;x
+evt_lordspiritual_402_option_a;Most worrisome...;;;;;;;;;;;Î÷åíü òðåâîæíî...;;x
+evt_lordspiritual_403_desc_a;My liege, I write to you with bad news from [From.Location.GetName]. My efforts to root out heresy and convert the population have met with resistance, and the peasants are arming themselves. I fear we might have a revolt on our hands here soon.\n\nYour humble [Root.GetLordSpiritualName],\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], âûíóæäåí[From.GetEndA] îãîð÷èòü Âàñ ïëîõèìè íîâîñòÿìè ïî ïîâîäó îêðóãà [From.Location.GetName]. Ìîè ïîïûòêè èñêîðåíèòü åðåñü è îáðàòèòü íàñåëåíèå â èñòèííóþ âåðó âñòðåòèëè ñîïðîòèâëåíèå. Òåïåðü êðåñòüÿíå âîîðóæàþòñÿ. ß áîþñü, ÷òî èç-çà íàøèõ äåéñòâèé çäåñü ñêîðî íà÷í¸òñÿ âîññòàíèå.\n[Root.GetLordSpiritualName] [From.GetFirstName];;x
+evt_lordspiritual_403_option_a;These troublesome peasants...;;;;;;;;;;;Ýòî ïðîáëåìû êðåñòüÿí...;;x
 # Start event chains continuing in religious_events.txt
-EVTDESC39650;You have arrived at [Root.Location.GetName] to convert the local populace to the true faith.;;;;;;;;;;;;;x
-EVTOPTA39650;Embrace [Root.Religion.GetRandomGodName] before it is too late, heathens!;;;;;;;;;;;;;x
-
-EVTDESC39651;You have seen the local pagan lord paying special attention to your sermons lately. Could a conversion be at hand?;;;;;;;;;;;;;x
-EVTOPTA39651;Let us pray it is so...;;;;;;;;;;;;;x
-
-EVTDESC39652;Through your efforts, you have managed to convert one of the local pagan lord's courtiers to the true faith. Surely this is an important stepping stone on the way to salvation for all of [Root.Location.GetName]!;;;;;;;;;;;;;x
-EVTOPTA39652;Praised be [Root.Religion.GetRandomGodName]!;;;;;;;;;;;;;x
-
-EVTDESC39653;You come to blows with another cleric who has also come to [Root.Location.GetName] to convert the people to his own faith!;;;;;;;;;;;;;x
-EVTOPTA39653;Not in the face!;;;;;;;;;;;;;x
-
+EVTDESC39650;You have arrived at [Root.Location.GetName] to convert the local populace to the true faith.;;;;;;;;;;;Âû ïðèáûëè â îêðóã [Root.Location.GetName] äàáû îáðàòèòü ìåñòíîå íàñåëåíèå â èñòèííóþ âåðó.;;x
+EVTOPTA39650;Embrace [Root.Religion.GetRandomGodName] before it is too late, heathens!;;;;;;;;;;;Ïðèìèòå [Root.GetReligionFullName] ïîêà íå ïîçäíî, íåâåæäû!;;x
+EVTDESC39651;You have seen the local pagan lord paying special attention to your sermons lately. Could a conversion be at hand?;;;;;;;;;;;Âû îáðàòèëè âíèìàíèå, ÷òî ìåñòíûé ëîðä-ÿçû÷íèê â ïîñëåäíåå âðåìÿ ïðèñëóøèâàåòñÿ ê Âàøèì ïðîïîâåäÿì. Áëèçèòñÿ ëè îáðàùåíèå?;;x
+EVTOPTA39651;Let us pray it is so...;;;;;;;;;;;Ïîìîëèìñÿ, ÷òîáû ýòî áûëî òàê...;;x
+EVTDESC39652;Through your efforts, you have managed to convert one of the local pagan lord's courtiers to the true faith. Surely this is an important stepping stone on the way to salvation for all of [Root.Location.GetName]!;;;;;;;;;;;Âàøèìè óñèëèÿìè îäèí èç ïðèäâîðíûõ ìåñòíîãî ëîðäà-ÿçû÷íèêà îáðàòèëñÿ â èñòèííóþ âåðó. Íåñîìíåííî, ýòî âàæíûé øàã íà ïóòè ñïàñåíèÿ âñåõ â îêðóãå [Root.Location.GetName]!;;x
+EVTOPTA39652;Praised be [Root.Religion.GetRandomGodName]!;;;;;;;;;;;Ñëàâüñÿ [Root.Religion.GetRandomGodName]!;;x
+EVTDESC39653;You come to blows with another cleric who has also come to [Root.Location.GetName] to convert the people to his own faith!;;;;;;;;;;;Âû ñõâàòèëèñü ñ äðóãèì ñâÿùåííèêîì, òàêæå ïðèáûâøèì â îêðóã [Root.Location.GetName] äëÿ îáðàùåíèÿ ëþäåé â ñâîþ âåðó!;;x
+EVTOPTA39653;Not in the face!;;;;;;;;;;;Íå ïî ëèöó!;;x
 # The Lord Spiritual improves relations between the liege and a bishop
-evt_lordspiritual_501_title;Improved Relations with [Root.Religion.GetPriestTitle];;;;;;;;;;;;;x
-evt_lordspiritual_501_desc_a;During my stay at the court of a local bishop in [Root.Location.GetName] I have done my utmost to present my liege in a more favourable light and have him recognized as the benevolent ruler and pious [Root.Liege.Religion.GetName] [Root.Liege.GetSheHe] is.;;;;;;;;;;;;;x
-evt_lordspiritual_501_option_a;It seems as I have succeeded!;;;;;;;;;;;;;x
-
+evt_lordspiritual_501_title;Improved Relations with [Root.Religion.GetPriestTitle];;;;;;;;;;;Cîäåéñòâîâàòü óëó÷øåíèþ îòíîøåíèé;;x
+evt_lordspiritual_501_desc_a;During my stay at the court of a local bishop in [Root.Location.GetName] I have done my utmost to present my liege in a more favourable light and have him recognized as the benevolent ruler and pious [Root.Liege.Religion.GetName] [Root.Liege.GetSheHe] is.;;;;;;;;;;;Âî âðåìÿ ìîåãî ïðåáûâàíèÿ ïðè äâîðå [Root.Location.County.GetAdjective]ñêîãî åïèñêîïà, ÿ ñäåëàë âñ¸ âîçìîæíîå, ÷òîáû ïðåäñòàâèòü ìîåãî ñþçåðåíà â áîëåå âûãîäíîì ñâåòå, è ïóñòü [Root.Liege.GetSheHe] ïðèçíàþò äîáðîæåëàòåëüíûì è áëàãî÷åñòèâûì ïðàâèòåëåì [Root.Liege.GetReligionFullName].;;x
+evt_lordspiritual_501_option_a;It seems as I have succeeded!;;;;;;;;;;;Êàæåòñÿ, ìíå óäàëîñü!;;x
 # Inform the bishop
-evt_lordspiritual_502_desc_a;During [From.GetHerHis] visit to my court, the [From.GetJobTitle] of [From.Host.PrimaryTitle.GetName], [From.GetTitledName], has really convinced me of what a benevolent and pious ruler [From.GetHerHis] liege [From.Host.GetTitledName] is.;;;;;;;;;;;;;x
-evt_lordspiritual_502_option_a;I feel a new appreciation for [From.Host.GetTitledName]!;;;;;;;;;;;;;x
-
+evt_lordspiritual_502_desc_a;During [From.GetHerHis] visit to my court, the [From.GetJobTitle] of [From.Host.PrimaryTitle.GetName], [From.GetTitledName], has really convinced me of what a benevolent and pious ruler [From.GetHerHis] liege [From.Host.GetTitledName] is.;;;;;;;;;;;Âî âðåìÿ ïîñåùåíèÿ ìîåãî äâîðà [From.GetTitledFirstName], [From.GetJobTitle] [From.Host.PrimaryTitle.GetAdjective]ñêîãî ãîñóäàðñòâà, óáåäèë[From.GetEndA] ìåíÿ, ÷òî [From.Host.GetTitledFirstName] - äîáðîæåëàòåëüíûé è áëàãî÷åñòèâûé ïðàâèòåëü.;;x
+evt_lordspiritual_502_option_a;I feel a new appreciation for [From.Host.GetTitledName]!;;;;;;;;;;;Òåïåðü ÿ ýòî ïîíèìàþ.;;x
 # The liege is informed of the success
-evt_lordspiritual_503_desc_a;My liege, my mission to [FromFrom.Location.GetName] has so far been a success! During my visit to the court of [From.GetBestName], I seem to have managed to make [From.GetHerHim] understand what a benevolent and pious ruler you really are and [From.GetSheHe] sends [From.GetHerHis] regards.\n\nYour humble [Root.GetLordSpiritualName],\n[Root.job_spiritual.GetTitledName];;;;;;;;;;;;;x
-
-
+evt_lordspiritual_503_desc_a;My liege, my mission to [FromFrom.Location.GetName] has so far been a success! During my visit to the court of [From.GetBestName], I seem to have managed to make [From.GetHerHim] understand what a benevolent and pious ruler you really are and [From.GetSheHe] sends [From.GetHerHis] regards.\n\nYour humble [Root.GetLordSpiritualName],\n[Root.job_spiritual.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ìîÿ ìèññèÿ â îêðóãå [FromFrom.Location.GetName] äî ñèõ ïîð óñïåøíà! Âî âðåìÿ ïîñåùåíèÿ äâîðà, êîòîðûé ñîäåðæèò [From.GetBestName], ìíå, êàæåòñÿ, óäàëîñü çàñòàâèòü [From.GetHersHis] ïîíÿòü, êàêèì äîáðîæåëàòåëüí[Root.GetOyYm] è áëàãî÷åñòèâ[Root.GetOyYm] ïðàâèòåë[Root.GetSoftNitseyEm] Âû ÿâëÿåòåñü íà ñàìîì äåëå, [From.GetSheHe] øë¸ò Âàì ñâîé ïîêëîí.\n[Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName];;x
 # The Lord Spiritual attempts to sabotage the relations of a subject priest towards the official head of the religion
-evt_lordspiritual_601_title;Decreased Relation Between [Root.Religion.GetPriestTitle] and Spiritual Leader;;;;;;;;;;;;;x
-evt_lordspiritual_601_desc_a;Filling his ears with poisonous slander and evil rumors about his [Root.Religion.GetName] leader, I did my best to sabotage the relationship between the bishop and his spiritual leader.;;;;;;;;;;;;;x
-evt_lordspiritual_601_option_a;This should please my liege!;;;;;;;;;;;;;x
-
+evt_lordspiritual_601_title;Decreased Relation Between [Root.Religion.GetPriestTitle] and Spiritual Leader;;;;;;;;;;;Cîêðàùåíèå ñâÿçè ìåæäó ñâÿùåííèêîì è äóõîâíûì ãëàâîé.;;x
+evt_lordspiritual_601_desc_a;Filling his ears with poisonous slander and evil rumors about his [Root.Religion.GetName] leader, I did my best to sabotage the relationship between the bishop and his spiritual leader.;;;;;;;;;;;Çàïîëíèâ åãî óøè ÿäîâèòîé êëåâåòîé è çëûìè ñëóõàìè î åãî ðåëèãèîçíîì ëèäåðå, ÿ ñäåëàë[Root.GetEndA] âñ¸ âîçìîæíîå, ÷òîáû ñàáîòèðîâàòü îòíîøåíèÿ ìåæäó åïèñêîïîì è åãî äóõîâíûì ãëàâîé.;;x
+evt_lordspiritual_601_option_a;This should please my liege!;;;;;;;;;;;Ýòî ïîðàäóåò ìîåãî ñþçåðåíà!;;x
 # Inform the bishop
-evt_lordspiritual_602_desc_a;During [From.GetHerHis] visit to my court, the [From.GetJobTitle] of [From.Host.PrimaryTitle.GetName], [From.GetTitledName], has told me many disturbing news about our religious leader. I feel like a veil has been lifted from my eyes;;;;;;;;;;;;;x
-evt_lordspiritual_602_option_a;How can I trust him again?;;;;;;;;;;;;;x
-
+evt_lordspiritual_602_desc_a;During [From.GetHerHis] visit to my court, the [From.GetJobTitle] of [From.Host.PrimaryTitle.GetName], [From.GetTitledName], has told me many disturbing news about our religious leader. I feel like a veil has been lifted from my eyes;;;;;;;;;;;Âî âðåìÿ ïîñåùåíèÿ ìîåãî äâîðà [From.GetTitledFirstName], [From.GetJobTitle] [From.Host.PrimaryTitle.GetAdjective]ñêîãî ãîñóäàðñòâà, ðàññêàçàë[From.GetEndA] ìíå ìíîãî íåïðèÿòíûõ íîâîñòåé î íàøèõ ðåëèãèîçíûõ ëèäåðàõ. ß ÷óâñòâóþ, áóäòî ïåëåíà ñïàëà ñ ìîèõ ãëàç.;;x
+evt_lordspiritual_602_option_a;How can I trust him again?;;;;;;;;;;;ß áîëüøå íå ìîãó èì äîâåðÿòü.;;x
 # The liege is informed of the success
-evt_lordspiritual_603_desc_a;My liege, I have good news from my mission to [From.Location.GetName]! During my visit to the court of [From.GetBestName], I have filled [From.GetHerHis] ears with poisonous slander and evil rumors about [From.GetHerHis] spiritual leader. Their relation has been thoroughly sabotaged and I foresee that it is going to be anything but good from now on.\n\nYour humble [Root.GetLordSpiritualName],\n[Root.job_spiritual.GetTitledName];;;;;;;;;;;;;x
-
-
+evt_lordspiritual_603_desc_a;My liege, I have good news from my mission to [From.Location.GetName]! During my visit to the court of [From.GetBestName], I have filled [From.GetHerHis] ears with poisonous slander and evil rumors about [From.GetHerHis] spiritual leader. Their relation has been thoroughly sabotaged and I foresee that it is going to be anything but good from now on.\n\nYour humble [Root.GetLordSpiritualName],\n[Root.job_spiritual.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ó ìåíÿ õîðîøèå íîâîñòè î ìî¸ì çàäàíèè â îêðóãå [From.Location.GetName]. Âî âðåìÿ ïîñåùåíèÿ äâîðà, êîòîðûé ñîäåðæèò [From.GetBestName], ÿ íàïîëíèë[Root.job_spiritual.GetEndA] [From.GetHersHis] óøè îòâðàòèòåëüíîé êëåâåòîé è óæàñíûìè ñëóõàìè î äóõîâíîì ëèäåðå. Èõ îòíîøåíèÿ áûëè îñíîâàòåëüíî ïîäïîð÷åíû è ÿ ïðåäâèæó, ÷òî òåïåðü äëÿ íàñ âñ¸ äîëæíî ñëîæèòüñÿ çàìå÷àòåëüíî.\n[Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName];;x
 # A Great Inventor offers his help: Random Culture Tech increases
-evt_lordspiritual_701_title;A Great Philosopher;;;;;;;;;;;;;x
-evt_lordspiritual_701_desc_a;My work to enhance cultural study in [Root.Location.GetName] had not been going as well as I had hoped, but then I happened to meet a great philosopher who seems to be able to greatly help me in my work.;;;;;;;;;;;;;x
-evt_lordspiritual_701_option_a;Maybe my liege could be persuaded to hire him?;;;;;;;;;;;;;x
-evt_lordspiritual_701_option_a_tooltip;Send a letter to inform my liege;;;;;;;;;;;;;x
-
+evt_lordspiritual_701_title;A Great Philosopher;;;;;;;;;;;Båëèêèé ôèëîñîô;;x
+evt_lordspiritual_701_desc_a;My work to enhance cultural study in [Root.Location.GetName] had not been going as well as I had hoped, but then I happened to meet a great philosopher who seems to be able to greatly help me in my work.;;;;;;;;;;;Ìîÿ ðàáîòà ïî ïîâûøåíèþ êóëüòóðíîãî óðîâíÿ îêðóãà [Root.Location.GetName] øëà íå òàê, êàê ÿ íàäåÿëñÿ, íî ïîòîì ÿ ñëó÷àéíî ïîçíàêîìèëñÿ ñ âåëèêèì ôèëîñîôîì, êîòîðûé, êàê ìíå êàæåòñÿ, ñìîæåò îêàçàòü çíà÷èòåëüíóþ ïîìîùü â ìîåé ðàáîòå.;;x
+evt_lordspiritual_701_option_a;Maybe my liege could be persuaded to hire him?;;;;;;;;;;;Ìîæåò áûòü, ìîåãî ñþçåðåíà ìîæíî óáåäèòü âçÿòü åãî íà ñëóæáó?;;x
+evt_lordspiritual_701_option_a_tooltip;Send a letter to inform my liege;;;;;;;;;;;Îòïðàâèòü ïèñüìî, ÷òîáû ïðîèíôîðìèðîâàòü ìîåãî ñþçåðåíà.;;x
 # The liege is informed of the success
-evt_lordspiritual_702_desc_a;My liege, during my stay in [From.Location.GetName] I have found a great philosopher who has agreed to help me with my studies to enhance culture in the county. With your permission I would suggest that we employ him.\n\nYour humble [Root.GetLordSpiritualName],\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_lordspiritual_702_option_a;Of course!;;;;;;;;;;;;;x
-evt_lordspiritual_702_option_b;No, that's outrageously expensive!;;;;;;;;;;;;;x
-
-
+evt_lordspiritual_702_desc_a;My liege, during my stay in [From.Location.GetName] I have found a great philosopher who has agreed to help me with my studies to enhance culture in the county. With your permission I would suggest that we employ him.\n\nYour humble [Root.GetLordSpiritualName],\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], âî âðåìÿ ìîåãî ïðåáûâàíèÿ â îêðóãå [From.Location.GetName] ìíå äîâåëîñü âñòðåòèòü âåëèêîãî ôèëîñîôà, ñîãëàñèâøåãîñÿ ïîìî÷ü ìíå ñ ìîèìè èññëåäîâàíèÿìè, êîòîðûå äîëæíû ïîâûñèòü êóëüòóðó ýòèõ çåìåëü. Ñ Âàøåãî ïîçâîëåíèÿ ÿ îñìåëèâàþñü ïðåäëîæèòü íàíÿòü åãî.\n[Root.GetLordSpiritualName] [From.GetFirstName];;x
+evt_lordspiritual_702_option_a;Of course!;;;;;;;;;;;Êîíå÷íî!;;x
+evt_lordspiritual_702_option_b;No, that's outrageously expensive!;;;;;;;;;;;Íåò, ýòî âîçìóòèòåëüíî äîðîãî!;;x
 # Lord Spiritual = heretic
-evt_lordspiritual_801_title;A Heretic Find;;;;;;;;;;;;;x
-evt_lordspiritual_801_desc_a;In the dusty archives of [Root.Location.GetName] I found several old and battered tomes containing sacred books of a religion considered heretic. The knowledge found inside these texts have severely shaken my belief in the [Root.Religion.GetName] faith.;;;;;;;;;;;;;x
-evt_lordspiritual_801_option_a;I will embrace this heretic but sage religion;;;;;;;;;;;;;x
-evt_lordspiritual_801_option_b;I better hide my doubts;;;;;;;;;;;;;x
-
+evt_lordspiritual_801_title;A Heretic Find;;;;;;;;;;;Hàéäåíà åðåñü;;x
+evt_lordspiritual_801_desc_a;In the dusty archives of [Root.Location.GetName] I found several old and battered tomes containing sacred books of a religion considered heretic. The knowledge found inside these texts have severely shaken my belief in the [Root.Religion.GetName] faith.;;;;;;;;;;;Â ïûëüíûõ [Root.Location.County.GetAdjective]ñêèõ àðõèâàõ ìíå ïîïàëîñü íåñêîëüêî ñòàðûõ è ïîòðåïàííûõ òîìîâ ñâÿùåííûõ êíèã, ñîäåðæàùèõ åðåòè÷åñêèå âåðîâàíèÿ. Çíàíèÿ, êîòîðûå ñîäåðæàòñÿ â ýòèõ òåêñòàõ, ñåðü¸çíî ïîøàòíóëè ìîþ âåðó â [Root.GetReligionFullName].;;x
+evt_lordspiritual_801_option_a;I will embrace this heretic but sage religion;;;;;;;;;;;ß ïðèìó ýòó åðåòè÷åñêóþ, íî ìóäðóþ ðåëèãèþ;;x
+evt_lordspiritual_801_option_b;I better hide my doubts;;;;;;;;;;;ß ëó÷øå ñêðîþ ñâîè ñîìíåíèÿ;;x
 # Liege gets a letter
-evt_lordspiritual_802_desc_a;My [Root.GetTitle], the more I study the [From.Religion.GetName] religion the more I feel compelled to embrace it and to show you the wisdom that lies in these texts. I have sent you excerpts from the most interesting parts... ...I urge you to follow my example and embrace the [From.Religion.GetName] religion.\n\nYour [Root.GetLordSpiritualName],\n[From.GetTitledFirstName];;;;;;;;;;;;;x
-evt_lordspiritual_802_option_a;[From.GetSheHeCap] is mad! Arrest [From.GetHerHim]!;;;;;;;;;;;;;x
-evt_lordspiritual_802_option_b;I will NEVER embrace your vile heresy... publicly.;;;;;;;;;;;;;x
-evt_lordspiritual_802_option_c;[From.GetSheHeCap] has convinced me to follow in [From.GetHerHis] footsteps.;;;;;;;;;;;;;x
-
+evt_lordspiritual_802_desc_a;My [Root.GetTitle], the more I study the [From.Religion.GetName] religion the more I feel compelled to embrace it and to show you the wisdom that lies in these texts. I have sent you excerpts from the most interesting parts... ...I urge you to follow my example and embrace the [From.Religion.GetName] religion.\n\nYour [Root.GetLordSpiritualName],\n[From.GetTitledFirstName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ÿ äîëãî èçó÷àë[From.GetEndA] [From.GetRelAdj]ñêóþ åðåñü è ïîíÿë[From.GetEndA], ÷òî ìóäðîñòü, çàêëþ÷¸ííàÿ â ýòèõ ïèñüìåíàõ çàñëóæèâàåò Âàøåãî âíèìàíèÿ. ß ïîäãîòîâèë[From.GetEndA] Âàì âûäåðæêè èç íàèáîëåå âàæíûõ ÷àñòåé è ïðèçûâàþ Âàñ ïîñëåäîâàâ ìîåìó ïðèìåðó, ïðèíÿòü [From.GetReligionFullName].\n[Root.GetLordSpiritualName] [From.GetFirstName];;x
+evt_lordspiritual_802_option_a;[From.GetSheHeCap] is mad! Arrest [From.GetHerHim]!;;;;;;;;;;;[From.GetSheHeCap] ñóìàñøåäøèé! Àðåñòîâàòü!;;x
+evt_lordspiritual_802_option_b;I will NEVER embrace your vile heresy... publicly.;;;;;;;;;;;ß ÍÈÊÎÃÄÀ íå ïðèìó ýòó åðåñü... ïóáëè÷íî.;;x
+evt_lordspiritual_802_option_c;[From.GetSheHeCap] has convinced me to follow in [From.GetHerHis] footsteps.;;;;;;;;;;;[From.GetSheHeCap] óáåäèë ìåíÿ ñëåäîâàòü ïî [From.GetHersHis] ñòîïàì.;;x
 # Lord Spiritual responds
-evt_lordspiritual_803_desc_a;To [Root.GetTitledFirstName],\nYour findings have proven to be most fascinating and I am now convinced to follow in your footsteps and immediately convert to the [Root.Religion.GetName] faith. However, I have chosen to keep this hidden to avoid prying eyes. I urge you to do the same!\n\nYour liege, [From.GetTitledFirstName];;;;;;;;;;;;;x
-evt_lordspiritual_803_option_a;A wise decision.;;;;;;;;;;;;;x
-evt_lordspiritual_803_option_b;To hide who I am? Never!;;;;;;;;;;;;;x
-
+evt_lordspiritual_803_desc_a;To [Root.GetTitledFirstName],\nYour findings have proven to be most fascinating and I am now convinced to follow in your footsteps and immediately convert to the [Root.Religion.GetName] faith. However, I have chosen to keep this hidden to avoid prying eyes. I urge you to do the same!\n\nYour liege, [From.GetTitledFirstName];;;;;;;;;;;Óâàæàåì[Root.GetAyaYy] [Root.GetTitledFirstName],\nÂàøè èçûñêàíèÿ ïîêàçàëèñü ìíå âåñüìà óáåäèòåëüíûìè, ÿ ïîñëåäóþ Âàøåìó ñîâåòó è ïðèìó [Root.GetReligionFullName]. Òåì íå ìåíåå, êóäà ðàçóìíåå, ñêðûòü ýòîò ôàêò îò ïîñòîðîííèõ ãëàç. Âàì ñîâåòóþ ïîñòóïèòü òàêæå.\nÂàø ñþçåðåí,\n [From.GetTitledFirstName];;x
+evt_lordspiritual_803_option_a;A wise decision.;;;;;;;;;;;Ìóäðîå ðåøåíèå.;;x
+evt_lordspiritual_803_option_b;To hide who I am? Never!;;;;;;;;;;;Ñêðûâàòü ñâîè âçãëÿäû? Íè çà ÷òî!;;x
 # Liege responds
-evt_lordspiritual_804_desc_a;To [Root.GetTitledFirstName],\n\nYou are most wise, I shall henceforth continue my [From.SecretReligion.GetName] practices in secret.\n\nYour fellow servant of [From.SecretReligion.GetHighGodName],\n[From.GetTitledFirstName];;;;;;;;;;;;;x
-evt_lordspiritual_804_option_a;I knew [From.GetSheHe] would see reason!;;;;;;;;;;;;;x
-
+evt_lordspiritual_804_desc_a;To [Root.GetTitledFirstName],\n\nYou are most wise, I shall henceforth continue my [From.SecretReligion.GetName] practices in secret.\n\nYour fellow servant of [From.SecretReligion.GetHighGodName],\n[From.GetTitledFirstName];;;;;;;;;;;Óâàæàåì[Root.GetAyaYy] [Root.GetTitledFirstName],\nÂû òàê ìóäðû! Îòíûíå ÿ áóäó èñïîâåäîâàòü [From.GetSecretReligionFullName] òàéíî.\nÂåðí[From.GetAyaYy] ñëóãà [From.GetSecretReligionHighGodGEN],\n [From.GetTitledFirstName];;x
+evt_lordspiritual_804_option_a;I knew [From.GetSheHe] would see reason!;;;;;;;;;;;ß çíàë[Root.GetEndA], ÷òî [From.GetSheHe] ïîéì¸ò.;;x
 # Liege responds
-evt_lordspiritual_805_desc_a;To [Root.GetTitledFirstName],\n\nI will not cower and hide in fear! I shall practice my [From.Religion.GetName] beliefs for all the world to see and people with stronger wills than you will join me in the open.\n\nYour fellow servant of [From.SecretReligion.GetHighGodName],\n[From.GetTitledFirstName];;;;;;;;;;;;;x
-evt_lordspiritual_805_option_a;What a fool! [From.GetSheHeCap] will be the death of me!;;;;;;;;;;;;;x
-
-
+evt_lordspiritual_805_desc_a;To [Root.GetTitledFirstName],\n\nI will not cower and hide in fear! I shall practice my [From.Religion.GetName] beliefs for all the world to see and people with stronger wills than you will join me in the open.\n\nYour fellow servant of [From.SecretReligion.GetHighGodName],\n[From.GetTitledFirstName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nß íå ñîáèðàþñü òðóñëèâî ïðÿòàòüñÿ è ñêðûâàòü ñâîþ èñòèííóþ âåðó! ß áóäó èñïîâåäîâàòü [From.GetReligionFullName] îòêðûòî, è ïóñòü ëþäè, êîòîðûå ñìåëåå Âàñ, ïîñëåäóþò ìîåìó ñîâåòó.\nÂåðí[From.GetAyaYy] ñëóãà [From.GetSecretReligionHighGodGEN],\n [From.GetTitledFirstName];;x
+evt_lordspiritual_805_option_a;What a fool! [From.GetSheHeCap] will be the death of me!;;;;;;;;;;;Íó ÷òî çà èäèîò[From.GetEndKa]! [From.GetSheHeCap] æå ìåíÿ ïîäñòàâëÿåò!;;x
 # The Mufti improves relations between the liege and a vassal
-evt_lordspiritual_901_title;Vassal Impressed;;;;;;;;;;;;;x
-evt_lordspiritual_901_desc_a;Due to your recent charity work on behalf of [Root.Liege.GetTitledFirstName], one of [Root.Liege.GetHerHis] vassals has become impressed with [Root.Liege.GetHerHis] great generosity.;;;;;;;;;;;;;x
-
+evt_lordspiritual_901_title;Vassal Impressed;;;;;;;;;;;Bàññàë âïå÷àòë¸í;;x
+evt_lordspiritual_901_desc_a;Due to your recent charity work on behalf of [Root.Liege.GetTitledFirstName], one of [Root.Liege.GetHerHis] vassals has become impressed with [Root.Liege.GetHerHis] great generosity.;;;;;;;;;;;Áëàãîäàðÿ Âàøåé íåäàâíåé áëàãîòâîðèòåëüíîé ðàáîòå îò ëèöà [Root.Liege.GetTitledFirstName], îäèí èç [Root.Liege.GetHersHis] âàññàëîâ áûë âïå÷àòë¸í [Root.Liege.GetHersHis] âåëèêîé ùåäðîñòüþ.;;x
 # Inform the vassal
-evt_lordspiritual_902_desc_a;The [From.GetJobTitle] of [From.Host.PrimaryTitle.GetName] has been performing charity in [From.Location.GetName], donating alms and food to those in need. The local peasants have benefitted greatly from the [From.Host.GetTitle]'s generosity.;;;;;;;;;;;;;x
-evt_lordspiritual_902_option_a;Perhaps there is still some good in this world.;;;;;;;;;;;;;x
-
+evt_lordspiritual_902_desc_a;The [From.GetJobTitle] of [From.Host.PrimaryTitle.GetName] has been performing charity in [From.Location.GetName], donating alms and food to those in need. The local peasants have benefitted greatly from the [From.Host.GetTitle]'s generosity.;;;;;;;;;;;[From.GetJobTitle] [From.Host.PrimaryTitle.GetAdjective]ñêîãî äâîðà çàíèìàåòñÿ áëàãîòâîðèòåëüíîñòüþ â ìåñòå÷êå [From.Location.GetName], ðàçäàâàÿ ìèëîñòûíþ è åäó íóæäàþùèìñÿ. Ìåñòíûå êðåñòüÿíå çíà÷èòåëüíî âûèãðàëè îò [Root.Host.GetHersHis] ùåäðîñòè.;;x
+evt_lordspiritual_902_option_a;Perhaps there is still some good in this world.;;;;;;;;;;;Âîçìîæíî, â ìèðå åù¸ îñòàëîñü ÷òî-òî õîðîøåå.;;x
 # The liege is informed of the success
-evt_lordspiritual_903_desc_a;Your [FromFrom.GetJobTitle], [FromFrom.GetTitledName], reports that [From.GetTitledName] has been humbled by your endless generosity to the poor in [From.Location.GetName]. The peasants are singing your name!;;;;;;;;;;;;;x
-evt_lordspiritual_903_option_a;A job well done!;;;;;;;;;;;;;x
-
-
+evt_lordspiritual_903_desc_a;Your [FromFrom.GetJobTitle], [FromFrom.GetTitledName], reports that [From.GetTitledName] has been humbled by your endless generosity to the poor in [From.Location.GetName]. The peasants are singing your name!;;;;;;;;;;;[FromFrom.GetJobTitle] [FromFrom.GetFirstName] ñîîáùàåò, ÷òî [From.GetTitledFirstName] äèâèòñÿ Âàøåé áåñêîíå÷íîé ùåäðîñòè ê áåäíÿêàì â ìåñòå÷êå [From.Location.GetName]. Êðåñòüÿíå âîñïåâàþò Âàøå èìÿ!;;x
+evt_lordspiritual_903_option_a;A job well done!;;;;;;;;;;;Îòëè÷íàÿ ðàáîòà!;;x
 # The Mufti is trampled by a peasant mob (Gets away, Is wounded, Is killed)
-evt_lordspiritual_1001_title;[Root.Liege.GetLordSpiritualName] is Trampled by Mob;;;;;;;;;;;;;x
-evt_lordspiritual_1001_desc_a;It seems your selfless charity work in [Root.Location.GetName] has attracted a little too much attention. Before you know it, you are surrounded by a huge crowd of hungry and desperate beggars who claw at your robes, pleading for food.;;;;;;;;;;;;;x
-evt_lordspiritual_1001_option_a;By the Prophet, let me through!;;;;;;;;;;;;;x
-
+evt_lordspiritual_1001_title;[Root.Liege.GetLordSpiritualName] is Trampled by Mob;;;;;;;;;;;Håñ÷àñòí[Root.GetAyaYy] [Root.Liege.GetLordSpiritualName] ðàñòåðçàí[Root.GetEndA] òîëïîé;;x
+evt_lordspiritual_1001_desc_a;It seems your selfless charity work in [Root.Location.GetName] has attracted a little too much attention. Before you know it, you are surrounded by a huge crowd of hungry and desperate beggars who claw at your robes, pleading for food.;;;;;;;;;;;Ïîõîæå, Âàøà áåñêîðûñòíàÿ áëàãîòâîðèòåëüíàÿ äåÿòåëüíîñòü â îêðóãå [Root.Location.GetName] ïðèâëåêëà ê ñåáå ñëèøêîì ìíîãî âíèìàíèÿ. Ïðåæäå, ÷åì Âû ýòî îñîçíàëè, Âàñ îêðóæèëà îãðîìíàÿ òîëïà ãîëîäíûõ è îò÷àÿâøèõñÿ áåäíÿêîâ, öåïëÿþùèõñÿ çà Âàøó îäåæäó è ìîëÿùèõ î åäå.;;x
+evt_lordspiritual_1001_option_a;By the Prophet, let me through!;;;;;;;;;;;Âî èìÿ Ïðîðîêà, äàéòå ìíå ïðîéòè!;;x
 # Mufti gets away
-evt_lordspiritual_1002_desc_a;Before the beggars have a chance to completely envelop you, you cut a swath through the crowd by madly swinging your staff around. You manage to land several solid blows on an old woman with your staff, knocking her few remaining teeth out, and an expertly aimed kick at a malnourished farmer leaves him with a broken nose. The crowd scatters.;;;;;;;;;;;;;x
-evt_lordspiritual_1002_option_a;Well, I was told to give generously to the people...;;;;;;;;;;;;;x
-
+evt_lordspiritual_1002_desc_a;Before the beggars have a chance to completely envelop you, you cut a swath through the crowd by madly swinging your staff around. You manage to land several solid blows on an old woman with your staff, knocking her few remaining teeth out, and an expertly aimed kick at a malnourished farmer leaves him with a broken nose. The crowd scatters.;;;;;;;;;;;Äî òîãî, êàê ó íèùèõ ïîÿâèëàñü âîçìîæíîñòü ïîëíîñòüþ îêðóæèòü Âàñ, Âû ïðîáèâàåòå ïóòü â òîëïå, ðàçìàõèâàÿ ñâîèì ïîñîõîì áóäòî áåçóìí[Root.GetAyaYy]. Âàì óäàëîñü íàíåñòè ïàðó âåñêèõ óäàðîâ ïîñîõîì ñòàðóõå, âûáèâ åé íåñêîëüêî îñòàâøèõñÿ çóáîâ, è ìåòêèì ïèíêîì îñòàâèòü ãîëîäàþùåãî ôåðìåðà ñ ðàçáèòûì íîñîì. Òîëïà ðàññåèâàåòñÿ.;;x
+evt_lordspiritual_1002_option_a;Well, I was told to give generously to the people...;;;;;;;;;;;Íó, ìíå ãîâîðèëè ïðîÿâëÿòü ùåäðîñòü ê ëþäÿì...;;x
 # Mufti gets wounded
-evt_lordspiritual_1003_desc_a;When you finally emerge into daylight again after pushing your way through the desperate crowd, you do so covered in bruises and with your robe in tatters.;;;;;;;;;;;;;x
-evt_lordspiritual_1003_option_a;They could have killed me!;;;;;;;;;;;;;x
-
+evt_lordspiritual_1003_desc_a;When you finally emerge into daylight again after pushing your way through the desperate crowd, you do so covered in bruises and with your robe in tatters.;;;;;;;;;;;Êîãäà Âû íàêîíåö ïðîáèâàåòåñü ÷åðåç îò÷àÿâøóþñÿ òîëïó, Âû âèäèòå, ÷òî âñ¸ Âàøå òåëî â ñèíÿêàõ, à îäåæäà ðàçîðâàíà â êëî÷üÿ.;;x
+evt_lordspiritual_1003_option_a;They could have killed me!;;;;;;;;;;;Îíè ìîãëè ìåíÿ óáèòü!;;x
 # Inform the Liege about wounding
-evt_lordspiritual_1004_desc_a;Your [From.GetJobTitle], [From.GetTitledName], was cornered by a desperate crowd of beggars in [From.Location.GetName] and has been seriously wounded while giving alms to the poor in your name. Charity can be dangerous work.;;;;;;;;;;;;;x
-evt_lordspiritual_1004_option_a;So it would seem.;;;;;;;;;;;;;x
-
+evt_lordspiritual_1004_desc_a;Your [From.GetJobTitle], [From.GetTitledName], was cornered by a desperate crowd of beggars in [From.Location.GetName] and has been seriously wounded while giving alms to the poor in your name. Charity can be dangerous work.;;;;;;;;;;;[From.GetJobTitle] [From.GetFirstName] áûë[From.GetEndA] îêðóæåí[From.GetEndA] îò÷àÿííîé òîëïîé íèùèõ â îêðóãå [From.Location.GetName] è ñåðü¸çíî ðàíåí[From.GetEndA], ðàçäàâàÿ ìèëîñòûíþ áåäíûì îò Âàøåãî èìåíè. Áëàãîòâîðèòåëüíîñòü ìîæåò áûòü îïàñíûì çàíÿòèåì.;;x
+evt_lordspiritual_1004_option_a;So it would seem.;;;;;;;;;;;Äà, ïîõîæå íà òî.;;x
 # Inform the Liege about death
-evt_lordspiritual_1005_desc_a;Your [From.GetJobTitle], [From.GetTitledName], who was performing charity work in your name, made the ultimate sacrifice when [From.GetSheHe] was cornered by a desperate crowd of beggars in [From.Location.GetName] and trampled to death.;;;;;;;;;;;;;x
-evt_lordspiritual_1005_option_a;Ingrates!;;;;;;;;;;;;;x
-
-
+evt_lordspiritual_1005_desc_a;Your [From.GetJobTitle], [From.GetTitledName], who was performing charity work in your name, made the ultimate sacrifice when [From.GetSheHe] was cornered by a desperate crowd of beggars in [From.Location.GetName] and trampled to death.;;;;;;;;;;;[From.GetJobTitle] [From.GetFirstName], çàíèìàþù[From.GetAyaIy]ñÿ áëàãîòâîðèòåëüíîñòüþ îò Âàøåãî èìåíè, ñäåëàë ñâî¸ ïîñëåäíåå ïîæåðòâîâàíèå, êîãäà áûë[From.GetEndA] çàãíàí[From.GetEndA] â óãîë îò÷àÿâøåéñÿ òîëïîé íèùèõ â îêðóãå [From.Location.GetName] è çàòîïòàí[From.GetEndA] íàñìåðòü.;;x
+evt_lordspiritual_1005_option_a;Ingrates!;;;;;;;;;;;Íåáëàãîäàðíûå!;;x
 # The Mufti pockets money meant for the poor
-evt_lordspiritual_1101_title;[Root.Liege.GetLordSpiritualName] Pockets Charity Money;;;;;;;;;;;;;x
-evt_lordspiritual_1101_desc_a;So much of your master's wealth has been squandered on ungrateful and undeserving beggars, but what of you? Have you not toiled enough to improve the lot of thieves and the depraved? Perhaps it would be best if some of that wealth found its way into your own pockets...;;;;;;;;;;;;;x
-evt_lordspiritual_1101_option_a;Yes, it would only be right.;;;;;;;;;;;;;x
-evt_lordspiritual_1101_option_b;No, I must not forget my duties.;;;;;;;;;;;;;x
-
+evt_lordspiritual_1101_title;[Root.Liege.GetLordSpiritualName] Pockets Charity Money;;;;;;;;;;;Mèëîñòûíÿ è [Root.Liege.GetLordSpiritualName];;x
+evt_lordspiritual_1101_desc_a;So much of your master's wealth has been squandered on ungrateful and undeserving beggars, but what of you? Have you not toiled enough to improve the lot of thieves and the depraved? Perhaps it would be best if some of that wealth found its way into your own pockets...;;;;;;;;;;;Òàê ìíîãî áîãàòñòâ Âàøåãî ñþçåðåíà áåçðàññóäíî ïîòðà÷åíû íà íåáëàãîäàðíûõ è íåäîñòîéíûõ íèùèõ, íî ÷òî íàñ÷¸ò Âàñ? Íåóæåëè Âû íåäîñòàòî÷íî òðóäèëèñü, ïîìîãàÿ êó÷êå âîðîâ è ïîïðîøàåê? Âîçìîæíî, áûëî áû ëó÷øå, åñëè áû ÷àñòü èç ýòèõ áîãàòñòâ íàøëà ïóòü â Âàøè êàðìàíû...;;x
+evt_lordspiritual_1101_option_a;Yes, it would only be right.;;;;;;;;;;;Äà, ýòî áûëî áû òîëüêî ñïðàâåäëèâî.;;x
+evt_lordspiritual_1101_option_b;No, I must not forget my duties.;;;;;;;;;;;Íåò, íåëüçÿ çàáûâàòü î ñâîèõ îáÿçàííîñòÿõ.;;x
 # Liege informed about Mufti's theft
-evt_lordspiritual_1102_desc_a;Word has reached you that your [From.GetJobTitle], [From.GetTitledName], has given in to weakness and helped [From.GetHerselfHimself] to the alms [From.GetSheHe] was meant to distribute amongst the poor.;;;;;;;;;;;;;x
-evt_lordspiritual_1102_option_a;Return the gold and all may be forgiven.;;;;;;;;;;;;;x
-evt_lordspiritual_1102_option_b;Off to the dungeons with [From.GetHerHim]!;;;;;;;;;;;;;x
-
-
+evt_lordspiritual_1102_desc_a;Word has reached you that your [From.GetJobTitle], [From.GetTitledName], has given in to weakness and helped [From.GetHerselfHimself] to the alms [From.GetSheHe] was meant to distribute amongst the poor.;;;;;;;;;;;Äî Âàñ äîøëè ñëóõè, ÷òî [From.GetJobTitle] [From.GetFirstName] ïîääà[From.GetLasLsya] ñëàáîñòè è ïðèñâîèë[From.GetEndA] ñåáå äåíüãè, ïðåäíàçíà÷àâøèåñÿ áåäíÿêàì.;;x
+evt_lordspiritual_1102_option_a;Return the gold and all may be forgiven.;;;;;;;;;;;Ïóñòü âåðí¸ò çîëîòî è âñ¸ áóäåò ïðîùåíî.;;x
+evt_lordspiritual_1102_option_b;Off to the dungeons with [From.GetHerHim]!;;;;;;;;;;;Áðîñèòü [From.GetHersHis] â ïîäçåìåëüå!;;x
 # Mullah gains piety for the liege
-evt_lordspiritual_1201_title;Piety Gained;;;;;;;;;;;;;x
-evt_lordspiritual_1201_desc_a;Your charity work in [Root.Location.GetName] goes well. The Prophet (may Allah honor him and grant him peace) would approve of your Master's actions. Perhaps you should send word.;;;;;;;;;;;;;x
-evt_lordspiritual_1201_option_a;Make it so!;;;;;;;;;;;;;x
-evt_lordspiritual_1201_option_a_tooltip;The [Root.Liege.GetTitle] is informed.;;;;;;;;;;;;;x
-
+evt_lordspiritual_1201_title;Piety Gained;;;;;;;;;;;Oáðåòåíî áëàãî÷åñòèå;;x
+evt_lordspiritual_1201_desc_a;Your charity work in [Root.Location.GetName] goes well. The Prophet (may Allah honor him and grant him peace) would approve of your Master's actions. Perhaps you should send word.;;;;;;;;;;;Âàøà áëàãîòâîðèòåëüíàÿ ðàáîòà â ðåãèîíå [Root.Location.GetName] èä¸ò õîðîøî. Ïðîðîê (äà áëàãîñëîâèò åãî Àëëàõ è ïðèâåòñòâóåò) îäîáðèë áû äåéñòâèÿ Âàøåãî ñþçåðåíà. Âîçìîæíî, Âàì ñëåäóåò íàïèñàòü åìó.;;x
+evt_lordspiritual_1201_option_a;Make it so!;;;;;;;;;;;Òàê è ñäåëàþ!;;x
+evt_lordspiritual_1201_option_a_tooltip;The [Root.Liege.GetTitle] is informed.;;;;;;;;;;;[Root.Liege.GetTitle] ïðîèíôîðìèðîâàí.;;x
 # Liege gains piety
-evt_lordspiritual_1202_desc_a;Your [GetMyLordSpiritualName] reports from [From.Location.GetName] that [From.GetHerHis] charity work on your behalf is proceeding well. The poor have been fed and your pious standing has improved.;;;;;;;;;;;;;x
-evt_lordspiritual_1202_option_a;We can still do much good, Insha'Allah.;;;;;;;;;;;;;x
-
-
+evt_lordspiritual_1202_desc_a;Your [GetMyLordSpiritualName] reports from [From.Location.GetName] that [From.GetHerHis] charity work on your behalf is proceeding well. The poor have been fed and your pious standing has improved.;;;;;;;;;;;Âàø âàññàë [GetMyLordSpiritualName] äîêëàäûâàåò èç îêðóãà [From.Location.GetName], ÷òî åãî áëàãîòâîðèòåëüíàÿ ðàáîòà îò Âàøåãî èìåíè ïðîäâèãàåòñÿ óñïåøíî. Áåäíÿêè íàêîðìëåíû, à Âàøà ðåïóòàöèÿ áëàãî÷åñòèâîãî ÷åëîâåêà âîçðîñëà.;;x
+evt_lordspiritual_1202_option_a;We can still do much good, Insha'Allah.;;;;;;;;;;;Ìû åù¸ ìîæåì ñäåëàòü ìíîãî õîðîøåãî, áóäü íà òî âîëÿ Àëëàõà.;;x
 # The Court Priest has managed to raise an eager force of holy warriors
-evt_lordspiritual_1301_title;Zealots Raised;;;;;;;;;;;;;x
-evt_lordspiritual_1301_desc_a;I have managed to whip up the religious fervor in [Root.Location.GetName] to a frenzy. Zealous warriors have gathered in the name of [Root.Liege.Religion.GetRandomGodName] to bring ruin to the infidels!;;;;;;;;;;;;;x
-evt_lordspiritual_1301_option_a;My [Root.Liege.PrimaryTitle.GetRulerTitle] will be pleased!;;;;;;;;;;;;;x
-
+evt_lordspiritual_1301_title;Zealots Raised;;;;;;;;;;;Câÿòûå âîèíû;;x
+evt_lordspiritual_1301_desc_a;I have managed to whip up the religious fervor in [Root.Location.GetName] to a frenzy. Zealous warriors have gathered in the name of [Root.Liege.Religion.GetRandomGodName] to bring ruin to the infidels!;;;;;;;;;;;Ìíå óäàëîñü ïîäñòåãíóòü ðåëèãèîçíûé ïûë â [Root.Location.County.GetAdjective]ñêèõ çåìëÿõ, ãäå òåïåðü ôàíàòè÷íî íàñòðîåííûå âîèíû ñîáðàëèñü, ÷òîáû ñðàæàòüñÿ ñ èíîâåðöàìè. Ñ íàìè [Root.Liege.Religion.GetHighGodName]!;;x
+evt_lordspiritual_1301_option_a;My [Root.Liege.PrimaryTitle.GetRulerTitle] will be pleased!;;;;;;;;;;;Ïðåâîñõîäíî!;;x
 # The liege is informed
-evt_lordspiritual_1302_desc_a;My [Root.GetMyLordSpiritualName], [From.GetTitledFirstName], tells me that [From.GetPossPronoun] efforts at increasing religious fervor among the people have met with great success! A small army of zealots have converged at [Root.Capital.Capital.GetName] ready to serve me. Now I simply need to attack some suitable infidel before my new recruits wander off in disgust.;;;;;;;;;;;;;x
-evt_lordspiritual_1302_option_a;Praise [Root.Religion.GetRandomGodName]!;;;;;;;;;;;;;x
-
+evt_lordspiritual_1302_desc_a;My [Root.GetMyLordSpiritualName], [From.GetTitledFirstName], tells me that [From.GetPossPronoun] efforts at increasing religious fervor among the people have met with great success! A small army of zealots have converged at [Root.Capital.Capital.GetName] ready to serve me. Now I simply need to attack some suitable infidel before my new recruits wander off in disgust.;;;;;;;;;;;[Root.GetMyLordSpiritualName] [From.GetTitledFirstName], ñîîáùèë[From.GetEndA] ìíå, ÷òî [From.GetAbsPossPronoun] óñèëèÿ ïî ðàçæèãàíèþ ðåëèãèîçíîãî ôàíàòèçìà óâåí÷àëèñü óñïåõîì! Íåáîëüøàÿ àðìèÿ èçóâåðîâ, ãîòîâàÿ ñëóæèòü ìíå âåðîé è ïðàâäîé, ñîáðàëàñü â îêðåñòíîñòÿõ ãîðîäà [Root.Capital.Capital.GetShortBaseName]. Íóæíî òîëüêî íàéòè ïîäõîäÿùåãî âðàãà-èíîâåðöà, ïîêà ìîè íîâûå ðåêðóòû íå ðàçáåæàëèñü.;;x
+evt_lordspiritual_1302_option_a;Praise [Root.Religion.GetRandomGodName]!;;;;;;;;;;;Ñ íàìè [Root.Religion.GetHighGodName]!;;x
 # The men are displeased and disband
-evt_lordspiritual_1303_desc_a;The holy warriors my [Root.GetMyLordSpiritualName] attracted to fight for [Root.Religion.GetRandomGodName] have become disillusioned by my ungodly refusal to fight a Holy War and wandered off, damaging my Piety greatly.;;;;;;;;;;;;;x
-evt_lordspiritual_1303_option_a;Whatever happened to Patience!?;;;;;;;;;;;;;x
+evt_lordspiritual_1303_desc_a;The holy warriors my [Root.GetMyLordSpiritualName] attracted to fight for [Root.Religion.GetRandomGodName] have become disillusioned by my ungodly refusal to fight a Holy War and wandered off, damaging my Piety greatly.;;;;;;;;;;;Ñâÿòûå âîèíû, ðàíåå ïðèçâàííûå, ÷òîáû ñðàæàòüñÿ ñ èíîâåðöàìè, ðàçî÷àðîâàëèñü âî ìíå. Îáâèíèâ ìåíÿ â áåçäóõîâíîñòè è íåæåëàíèè ñðàæàòüñÿ çà íàøó âåðó, îíè ñ ïðåçðåíèåì ðàçáðåëèñü ïî äîìàì. Èíöèäåíò ñåðü¸çíî ñêàçàëñÿ íà ìî¸ì áëàãî÷åñòèè.;;x
+evt_lordspiritual_1303_option_a;Whatever happened to Patience!?;;;;;;;;;;;Íó è ãäå æå âàøå ñìèðåíèå?!;;x

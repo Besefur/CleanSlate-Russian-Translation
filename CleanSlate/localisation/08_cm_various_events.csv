@@ -1,34 +1,30 @@
-EVTDESC_CM_2000;My [Root.GetLordLady], there is a noble warrior at the gate. He says he is a veteran of many battles and desires to become a champion of your house. He praises your wisdom and honor and pledges to always defend you and your household if you will accept him in your retinue.;;;;;;;;;;;;;x
-EVTDESC_CM_2022;The influence of [target_child.Guardian.GetTitledFirstNameWithNick] on your [target_child.GetSonDaughter] [target_child.GetFirstName] has been extraordinary. Through the good example of [target_child.GetHerHis] guardian, [target_child.GetSheHe] is developing into a brave young [target_child.GetManWoman].;;;;;;;;;;;;;x
-EVTDESC_CM_2024;The influence of [target_child.Guardian.GetTitledFirstNameWithNick] on your [target_child.GetSonDaughter] [target_child.GetFirstName] has been extraordinary. Through constant practice with horse and blade, [target_child.GetSheHe] is developing into a strong young [target_child.GetManWoman].;;;;;;;;;;;;;x
-EVTDESC_CM_2026;The influence of [target_child.Guardian.GetTitledFirstNameWithNick] on your [target_child.GetSonDaughter] [target_child.GetFirstName] is great. [target_child.GetSheHe] is developing quite a taste for swordplay.;;;;;;;;;;;;;x
-EVTDESC_CM_2028;The influence of [target_child.Guardian.GetTitledFirstNameWithNick] on your [target_child.GetSonDaughter] [target_child.GetFirstName] is great. Through the good example of [target_child.GetHerHis] guardian, [target_child.GetSheHe] is learning the ethos of a just ruler.;;;;;;;;;;;;;x
-EVTDESC_CM_2030;My [Root.GetLordLady], your [target_child.GetSonDaughter] [target_child.GetFirstName] has fallen most violently fallen off [target_child.GetHerHis] horse during practice at sword and lance with [target_child.Guardian.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTDESC_CM_5000;You have, since a while, taken to wearing a pair of heavy, shaggy breeches for protection while practising your combat skills. Because of this, your kinsmen and friends have started to call you 'Ragnarr Lodbrok'.;;;;;;;;;;;;;x
-EVTDESC_CM_5001;Lately, you son Ragnarr has taken to wearing a pair of heavy, shaggy breeches for protection while practising his combat skills. Because of this, your kinsmen and friends have started calling him '[From.GetFirstName] Loðbrok'.;;;;;;;;;;;;;x
-EVTOPTA_CM_2000;Welcome!;;;;;;;;;;;;;x
-EVTOPTA_CM_2026;This could be good, or bad...;;;;;;;;;;;;;x
-EVTOPTA_CM_2028;[target_child.GetSheHe] makes me proud!;;;;;;;;;;;;;x
-EVTOPTA_CM_2030;I hope [target_child.GetSheHe] will come around!;;;;;;;;;;;;;x
-EVTOPTA_CM_5000;I guess there is nothing I can do about it.;;;;;;;;;;;;;x
-EVTOPTA_CM_5001;I like it!;;;;;;;;;;;;;x
-EVTOPTB_CM_2000;No... there's no room.;;;;;;;;;;;;;x
-EVTOPTB_CM_2022;[target_child.GetSheHe] should be careful...;;;;;;;;;;;;;x
-EVTOPTB_CM_2026;That's my boy!;;;;;;;;;;;;;x
-EVTOPTB_CM_2028;Such notions are for fools!;;;;;;;;;;;;;x
-EVTOPTB_CM_2030;This is a most grievous wound!;;;;;;;;;;;;;x
-EVTOPTC_CM_2026;That's my girl!;;;;;;;;;;;;;x
-
-
-
-
+EVTDESC_CM_2000;My [Root.GetLordLady], there is a noble warrior at the gate. He says he is a veteran of many battles and desires to become a champion of your house. He praises your wisdom and honor and pledges to always defend you and your household if you will accept him in your retinue.;;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ó âîðîò ñòîèò áëàãîðîäíûé âîèí. Îí ãîâîðèò, ÷òî ïîâèäàë ìíîãî áèòâ è æåëàåò ñëóæèòü Âàì. Âîñõâàëÿÿ Âàøó ìóäðîñòü, îí îáåùàåò âñåãäà çàùèùàòü Âàñ è Âàøó ñåìüþ, åñëè ïðèìèòå åãî.;;x
+EVTDESC_CM_2022;The influence of [target_child.Guardian.GetTitledFirstNameWithNick] on your [target_child.GetSonDaughter] [target_child.GetFirstName] has been extraordinary. Through the good example of [target_child.GetHerHis] guardian, [target_child.GetSheHe] is developing into a brave young [target_child.GetManWoman].;;;;;;;;;;;[From.Guardian.GetTitledFirstNameWithNick] - õîðîøèé âîñïèòàòåëü, áëàãîäàðÿ [From.Guardian.GetHersHis] âëèÿíèþ ì[From.GetOyaOy] [From.GetSonDaughter] [From.GetFirstName] ñòàë[From.GetEndA] îòâàæíåå.;;x
+EVTDESC_CM_2024;The influence of [target_child.Guardian.GetTitledFirstNameWithNick] on your [target_child.GetSonDaughter] [target_child.GetFirstName] has been extraordinary. Through constant practice with horse and blade, [target_child.GetSheHe] is developing into a strong young [target_child.GetManWoman].;;;;;;;;;;;[From.Guardian.GetTitledFirstNameWithNick] - õîðîøèé âîñïèòàòåëü, áëàãîäàðÿ [From.Guardian.GetHersHis] âëèÿíèþ, ïîñòîÿííîé ïðàêòèêå ñ ìå÷îì è åçäå âåðõîì, ì[From.GetOyaOy] [From.GetSonDaughter] [From.GetFirstName] ñòàë[From.GetEndA] ñèëüíåå.;;x
+EVTDESC_CM_2026;The influence of [target_child.Guardian.GetTitledFirstNameWithNick] on your [target_child.GetSonDaughter] [target_child.GetFirstName] is great. [target_child.GetSheHe] is developing quite a taste for swordplay.;;;;;;;;;;;[From.Guardian.GetTitledFirstNameWithNick] - õîðîøèé âîñïèòàòåëü, áëàãîäàðÿ [From.Guardian.GetHersHis] âëèÿíèþ ì[From.GetOyaOy] [From.GetSonDaughter] [From.GetFirstName] ðàçâèë[From.GetEndA] âêóñ ê ôåõòîâàíèþ.;;x
+EVTDESC_CM_2028;The influence of [target_child.Guardian.GetTitledFirstNameWithNick] on your [target_child.GetSonDaughter] [target_child.GetFirstName] is great. Through the good example of [target_child.GetHerHis] guardian, [target_child.GetSheHe] is learning the ethos of a just ruler.;;;;;;;;;;;[From.Guardian.GetTitledFirstNameWithNick] - õîðîøèé âîñïèòàòåëü, áëàãîäàðÿ [From.Guardian.GetHersHis] âëèÿíèþ è õîðîøåìó ïðèìåðó ì[From.GetOyaOy] [From.GetSonDaughter] [From.GetFirstName] íàó÷è[From.GetLasLsya] ýòèêå è ñïðàâåäëèâîñòè.;;x
+EVTDESC_CM_2030;My [Root.GetLordLady], your [target_child.GetSonDaughter] [target_child.GetFirstName] has fallen most violently fallen off [target_child.GetHerHis] horse during practice at sword and lance with [target_child.Guardian.GetTitledFirstName]!;;;;;;;;;;;[Root.PrimaryTitle.GetFOA] óæå çíàåò, ÷òî [From.Guardian.GetTitledFirstName] îáó÷àåò Âàøåãî ðåá¸íêà îáðàùåíèþ ñ êîïü¸ì è ìå÷îì. Íà ýòîò ðàç çàíÿòèå, ê ñîæàëåíèþ, çàêîí÷èëîñü ïàäåíèåì ñ ëîøàäè è... òÿæ¸ëûì ðàíåíèåì.;;x
+EVTDESC_CM_5000;You have, since a while, taken to wearing a pair of heavy, shaggy breeches for protection while practising your combat skills. Because of this, your kinsmen and friends have started to call you 'Ragnarr Lodbrok'.;;;;;;;;;;;"Âî âðåìÿ òðåíèðîâîê è ïîõîäîâ Âû ïîñòîÿííî íîñèòå òÿæ¸ëûå ìåõîâûå øòàíû. Èç-çà ýòîãî, Âàøè ðîäñòâåííèêè è äðóçüÿ òåïåðü çîâóò Âàñ ""Ëîäáðîê"" (ëîõìàòûå íîãè).";;x
+EVTDESC_CM_5001;Lately, you son Ragnarr has taken to wearing a pair of heavy, shaggy breeches for protection while practising his combat skills. Because of this, your kinsmen and friends have started calling him '[From.GetFirstName] Loðbrok'.;;;;;;;;;;;"Â ïîñëåäíåå âðåìÿ, Âàø ñûí Ðàãíàð, â ñâîèõ ïîõîäàõ è òðåíèðîâêàõ, âçÿë â ïðèâû÷êó íîñèòü òÿæ¸ëûå ìåõîâûå øòàíû. Èç-çà ýòîãî, Âàøè ðîäñòâåííèêè è äðóçüÿ ñòàëè çâàòü åãî ""Ëîäáðîê"" (ëîõìàòûå íîãè).";;x
+EVTOPTA_CM_2000;Welcome!;;;;;;;;;;;Äîáðî ïîæàëîâàòü!;;x
+EVTOPTA_CM_2026;This could be good, or bad...;;;;;;;;;;;Ýòî ìîæåò áûòü ïîëåçíî... èëè âðåäíî.;;x
+EVTOPTA_CM_2028;[target_child.GetSheHe] makes me proud!;;;;;;;;;;;Ìîÿ ãîðäîñòü!;;x
+EVTOPTA_CM_2030;I hope [target_child.GetSheHe] will come around!;;;;;;;;;;;[From.GetSheHeCap] ïîïðàâèòñÿ, ì[From.GetOyaOy] [From.GetSonDaughter] ñèëüíåå ÷åì êàæåòñÿ.;;x
+EVTOPTA_CM_5000;I guess there is nothing I can do about it.;;;;;;;;;;;ß íè÷åãî íå ìîãó ñ ýòè ïîäåëàòü.;;x
+EVTOPTA_CM_5001;I like it!;;;;;;;;;;;À ÷òî? Ìíå íðàâèòñÿ!;;x
+EVTOPTB_CM_2000;No... there's no room.;;;;;;;;;;;Íåò...åìó íåò ìåñòà â ìî¸ì äîìå;;x
+EVTOPTB_CM_2022;[target_child.GetSheHe] should be careful...;;;;;;;;;;;[From.GetHerHimCap] íóæíî áûòü îñòîðîæíåå...;;x
+EVTOPTB_CM_2026;That's my boy!;;;;;;;;;;;Âîò! Ìîé ìàëü÷èê!;;x
+EVTOPTB_CM_2028;Such notions are for fools!;;;;;;;;;;;Òàêîå çàáîòèò òîëüêî ãëóïöîâ!;;x
+EVTOPTB_CM_2030;This is a most grievous wound!;;;;;;;;;;;[From.GetFirstName], [From.GetLadLass] ì[From.GetOyaOy]! Êàêîå æóòêîå óâå÷üå!;;x
+EVTOPTC_CM_2026;That's my girl!;;;;;;;;;;;Âîò! Ìîÿ äåâî÷êà!;;x
 # Unused
-EVTDESC_CM_2012;You are riding through your domains in the company of your household guard, when you come upon a bridge crossing a rapid river. On the bridge stands a dark-clad warrior in heavy armor with his sword drawn. When challenged, he refuses to get out of the way, speaking only the words: 'None shall pass'.;;;;;;;;;;;;;x
-EVTDESC_CM_2102;You grow weary of spending so much time in your castle, performing tedious duties of government and diplomacy. Meanwhile, [From.GetTitledFirstName] keeps telling you of all the interesting adventures he experiences in your service. But perhaps you could join him next time he rides out...;;;;;;;;;;;;;x
-EVTDESC_CM_2104;You ride out one fine morning in the company of [From.GetTitledFirstNameWithNick], taking no escort and wearing practical rather than regal attire. This will be a good break from the monotony of your court. You catch [From.GetTitledFirstName] giving you a sceptical look, but you are sure this will be a fine journey.;;;;;;;;;;;;;x
-EVTOPTA_CM_2012;[From.GetFirstName], take care of this!;;;;;;;;;;;;;x
-EVTOPTA_CM_2102;Yes, I think I will!;;;;;;;;;;;;;x
-EVTOPTA_CM_2104;What could possibly go wrong?;;;;;;;;;;;;;x
-EVTOPTB_CM_2012;What a strange man. I will kill him myself.;;;;;;;;;;;;;x
-EVTOPTB_CM_2102;No, I must tend to my duties as [Root.GetTitle].;;;;;;;;;;;;;x
-EVTOPTC_CM_2012;Hmm, let's take another road.;;;;;;;;;;;;;x
+EVTDESC_CM_2012;You are riding through your domains in the company of your household guard, when you come upon a bridge crossing a rapid river. On the bridge stands a dark-clad warrior in heavy armor with his sword drawn. When challenged, he refuses to get out of the way, speaking only the words: 'None shall pass'.;;;;;;;;;;;"Âû ïóòåøåñòâóåòå ÷åðåç âëàäåíèÿ â êîìïàíèè ñâîåé ëè÷íîé ñòðàæè. Ïîäúåçæàÿ ê ìîñòó ÷åðåç ðåêó, Âû çàìå÷àåòå âîèíà â ò¸ìíîé îäåæäå è òÿæåëîé áðîíå, îáíàæèâøåãî ñâîé ìå÷. Îí îòêàçûâàåòñÿ óõîäèòü ñ ïóòè, ïîâòîðÿÿ: ""Òû íå ïðîéä¸øü!"".";;x
+EVTDESC_CM_2102;You grow weary of spending so much time in your castle, performing tedious duties of government and diplomacy. Meanwhile, [From.GetTitledFirstName] keeps telling you of all the interesting adventures he experiences in your service. But perhaps you could join him next time he rides out...;;;;;;;;;;;Âàì íàäîåëî ïîñòîÿííî ïðîâîäèòü âðåìÿ â [Root.GetCapitalBuildingPREP], âûïîëíÿÿ ñâîè îáÿçàíîñòè ïî óïðàâëåíèþ è äèïëîìàòèè. Òåì âðåìåíåì, [From.GetTitledFirstName] ïðîäîëæàåò ðàññêàçûâàòü Âàì îá óâëåêàòåëüíûõ ïðèêëþ÷åíèÿõ, êîòîðûå îí ïåðåæèâàåò, áóäó÷è ó Âàñ íà ñëóæáå. Áûòü ìîæåò, ñòîèò ïðèñîåäèíèòüñÿ ê íåìó â ñëåäóþùèé ðàç...;;x
+EVTDESC_CM_2104;You ride out one fine morning in the company of [From.GetTitledFirstNameWithNick], taking no escort and wearing practical rather than regal attire. This will be a good break from the monotony of your court. You catch [From.GetTitledFirstName] giving you a sceptical look, but you are sure this will be a fine journey.;;;;;;;;;;;Óòðîì Âû è [From.GetTitledFirstNameWithNick] âûåõàëè èç [Root.GetCapitalBuildingGEN] áåç êàêîãî-ëèáî ñîïðîâîæäåíèÿ è ýêèïèðîâêè. Ýòî áóäåò õîðîøåé ïåðåäûøêîé îò ìîíîòîííîé ïîâñåäíåâíîñòè ãîñóäàðñòâåííûõ äåë. Âû çàìåòèëè, ÷òî [From.GetTitledFirstName] ñìîòðèò íà Âàñ ñêåïòè÷åñêè, íî óâåðåíû, âàì ïðåäñòîèò óâëåêàòåëüíîå ïóòåøåñòâèå.;;x
+EVTOPTA_CM_2012;[From.GetFirstName], take care of this!;;;;;;;;;;;[From.GetFirstName], ïîçàáîòüñÿ î í¸ì!;;x
+EVTOPTA_CM_2102;Yes, I think I will!;;;;;;;;;;;Äà! Áóäåò çäîðîâî!;;x
+EVTOPTA_CM_2104;What could possibly go wrong?;;;;;;;;;;;À ÷òî ìîæåò ïîéòè íå òàê?;;x
+EVTOPTB_CM_2012;What a strange man. I will kill him myself.;;;;;;;;;;;×òî çà ÷óäèê? ß óáüþ åãî.;;x
+EVTOPTB_CM_2102;No, I must tend to my duties as [Root.GetTitle].;;;;;;;;;;;Íåò, ÿ - [Root.GetTitle] è ó ìåíÿ åñòü îáÿçàííîñòè.;;x
+EVTOPTC_CM_2012;Hmm, let's take another road.;;;;;;;;;;;Õìì, ïîåäåì äðóãîé äîðîãîé.;;x

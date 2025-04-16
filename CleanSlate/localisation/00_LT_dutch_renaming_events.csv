@@ -1,35 +1,29 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC_LT_41000;The name 'West-Frisia' is a relic of times past, when the Frisians had presence in these lands. With them driven out and replaced by mighty Dutch, people have begun calling our realm 'Holland' instead, after the forested lands that form the center of the duchy. Perhaps it is time for us to embrace the change and use the new name in our records?;;;;;;;;;;;;;x
-EVTDESC_LT_41001;The lands north of the Rhine delta were once ruled by a mighty Frisian kingdom, but with their presence a distant memory, 'Holland' has become the accepted term for their duchy. [From.GetBestName] has encouraged the transition, and will be using it in [From.GetHerHis] official records from this moment forward.;;;;;;;;;;;;;x
-EVTDESC_LT_41002;After the failed revolt of [From.GetBestName] has finally been put down, [geldern_holder.GetTitledName] has brought forward a petition to your court to be installed as the ruler of Hamaland in the traitor's stead. [geldern_holder.GetSheHeCap], a claimant to Hamaland, seems a skilled and trustworthy fellow, and would no doubt be an asset to the realm.;;;;;;;;;;;;;x
-EVTDESC_LT_41003;After the failed rebellion of [FromFrom.GetBestName], a baron from Geldern has won the favor of [From.GetBestName], and [geldern_holder.GetSheHe] has been elevated to higher nobility. [geldern_holder.GetSheHeCap] now rules in the land formerly known as Chamavia.;;;;;;;;;;;;;x
-EVTDESC_LT_41004;A representative of the newly expanded city of Breda is making demands of you. They want their status as the main population center of the county of Toxandria to be recognized. The Toxandri were a tribe as mighty as any other, but the people have been extinct for centuries. Perhaps it is time to do away with this relic of a name, and honor Breda instead?;;;;;;;;;;;;;x
-EVTDESC_LT_41005;[From.GetBestName] has elected to refer to [From.GetHerHis] county of Toxandria by the name of its most populous city, Breda, from this moment onwards. The burghers are much pleased by the recognition and have held a feast in the honor of [From.GetTitledFirstName].;;;;;;;;;;;;;x
-EVTDESC_LT_41006;A representative of the newly expanded city of Kleve is making demands of you. They want their status as the main population center of the county of Hattuaria to be recognized. The Chattuarii were a tribe as mighty as any other, but the people have been extinct for centuries. Perhaps it is time to do away with this relic of a name, and honor Kleve instead?;;;;;;;;;;;;;x
-EVTDESC_LT_41007;[From.GetBestName] has elected to refer to [From.GetHerHis] county of Hattuaria by the name of its most populous city, Kleve, from this moment onwards. The burghers are much pleased by the recognition and have held a feast in the honor of [From.GetTitledFirstName].;;;;;;;;;;;;;x
-
-EVTOPTA_LT_41000;Yes, progress is progress!;;;;;;;;;;;;;x
-EVTOPTA_LT_41001;How we have fallen...;;;;;;;;;;;;;x
-EVTOPTA_LT_41002;Welcome to my court, [geldern_holder.GetFirstName]!;;;;;;;;;;;;;x
-EVTOPTA_LT_41003;[FromFrom.GetTitledFirstName] brought this upon [FromFrom.GetHerselfHimself].;;;;;;;;;;;;;x
-EVTOPTA_LT_41004;If it will appease the city, it could bring diplomatic benefits.;;;;;;;;;;;;;x
-EVTOPTA_LT_41005;Good for them!;;;;;;;;;;;;;x
-EVTOPTA_LT_41006;If it will appease the city, it could bring diplomatic benefits.;;;;;;;;;;;;;x
-EVTOPTA_LT_41007;Good for them!;;;;;;;;;;;;;x
-
-EVTOPTB_LT_41000;No, we must honor our legacy.;;;;;;;;;;;;;x
-EVTOPTB_LT_41001;A newer, mightier culture rules Holland now!;;;;;;;;;;;;;x
-EVTOPTB_LT_41002;For that low baron? I think not.;;;;;;;;;;;;;x
-EVTOPTB_LT_41003;How short-sighted of [From.GetTitledFirstName].;;;;;;;;;;;;;x
-EVTOPTB_LT_41004;No, we must honor our legacy.;;;;;;;;;;;;;x
-EVTOPTB_LT_41005;A weed by any other name...;;;;;;;;;;;;;x
-EVTOPTB_LT_41006;No, we must honor our legacy.;;;;;;;;;;;;;x
-EVTOPTB_LT_41007;A weed by any other name...;;;;;;;;;;;;;x
-
-EVTOPTC_LT_41001;Good for them!;;;;;;;;;;;;;x
-EVTOPTC_LT_41003;That traitor! Those are my lands!;;;;;;;;;;;;;x
-
-EVTOPTD_LT_41001;A weed by any other name...;;;;;;;;;;;;;x
-
-EVTTITLE_LT_41001;A Land Renamed;;;;;;;;;;;;;x
+EVTDESC_LT_41000;The name 'West-Frisia' is a relic of times past, when the Frisians had presence in these lands. With them driven out and replaced by mighty Dutch, people have begun calling our realm 'Holland' instead, after the forested lands that form the center of the duchy. Perhaps it is time for us to embrace the change and use the new name in our records?;;;;;;;;;;;Ìû óæå äàâíî âûòåñíèëè ôðèçîâ ñ çàïàäíî-ôðèñëàíäñêèõ çåìåëü, è òåïåðü ëþäè âñ¸ ÷àùå íàçûâàþò ýòî ìåñòî Ãîëëàíäèåé (äðåâåñíîé ñòðàíîé) â ÷åñòü ëåñèñòîé îáëàñòè â ñàìîì åãî öåíòðå. Âîçìîæíî, ïîðà îáíîâèòü íàçâàíèå, ÷òîáû èñïîëüçîâàòü åãî â îôèöèàëüíûõ äîêóìåíòàõ.;;x
+EVTDESC_LT_41001;The lands north of the Rhine delta were once ruled by a mighty Frisian kingdom, but with their presence a distant memory, 'Holland' has become the accepted term for their duchy. [From.GetBestName] has encouraged the transition, and will be using it in [From.GetHerHis] official records from this moment forward.;;;;;;;;;;;Çåìëè ê ñåâåðó îò äåëüòû Ðåéíà êîãäà-òî íàõîäèëèñü ïîä âëàñòüþ ìîãóùåñòâåííîãî ôðèçñêîãî êîðîëåâñòâà, íî òå âðåìåíà ïðîøëè, òåïåðü èõ íàçûâàþò Ãîëëàíäèåé. [From.GetTitledFirstName] îäîáðèë[From.GetEndA] ïåðåèìåíîâàíèå ñâîåãî òèòóëà, è ñ ýòîãî ìîìåíòà íàçâàíèå Ãîëëàíäèÿ áóäåò óïîòðåáëÿòüñÿ âî âñåõ îôèöèàëüíûõ äîêóìåíòàõ.;;x
+EVTDESC_LT_41002;After the failed revolt of [From.GetBestName] has finally been put down, [geldern_holder.GetTitledName] has brought forward a petition to your court to be installed as the ruler of Hamaland in the traitor's stead. [geldern_holder.GetSheHeCap], a claimant to Hamaland, seems a skilled and trustworthy fellow, and would no doubt be an asset to the realm.;;;;;;;;;;;Âîññòàíèå, êîòîðîå âåë[From.GetEndA] [From.GetTitledFirstName], áûëî îêîí÷àòåëüíî ïîäàâëåíî, è òåïåðü [geldern_holder.GetTitledFirstName], ïðåòåíäåíò[geldern_holder.GetEndKa] íà [c_gelre.GetAdjective]ñêèå çåìëè, ïðîñèò Âàñ îòíÿòü èõ ó ýòî[From.GetYGo] ïðåäàòåë[From.GetSoftNitsyYa] è ïåðåäàòü [geldern_holder.GetHerHim]. [geldern_holder.GetTitledFirstName] êàæåòñÿ âïîëíå äîñòîéí[geldern_holder.GetOyYm] êàíäèäàò[geldern_holder.GetKoyOm], çàñëóæèâàþù[geldern_holder.GetEyIm] äîâåðèÿ. Âîçìîæíî, [geldern_holder.GetSheHe] ñòàíåò ïîëåçíûì âàññàëîì.;;x
+EVTDESC_LT_41003;After the failed rebellion of [FromFrom.GetBestName], a baron from Geldern has won the favor of [From.GetBestName], and [geldern_holder.GetSheHe] has been elevated to higher nobility. [geldern_holder.GetSheHeCap] now rules in the land formerly known as Chamavia.;;;;;;;;;;;Ïîñëå òîãî, êàê  [From.GetTitledFirstName] óñïåøíî ïîäàâèë[From.GetEndA] âîññòàíèå, [From.GetSheHe] ðåøèë[From.GetEndA] óäîâëåòâîðèòü ïðîñüáó ïðàâèòåë[geldern_holder.GetSoftNitsyYa] áàðîíñòâà [b_geldern.GetBaseName] è ïåðåäàòü [geldern_holder.GetHerHim] õàìàâñêèå çåìëè, êîòîðûìè ïðàâèë[FromFrom.GetEndA] ìÿòåæí[FromFrom.GetAyaYy] [FromFrom.GetTitledFirstName]. Òåïåðü [geldern_holder.GetFirstName] -  [geldern_holder.GetTitle] [geldern_holder.PrimaryTitle.GetBaseName]à.;;x
+EVTDESC_LT_41004;A representative of the newly expanded city of Breda is making demands of you. They want their status as the main population center of the county of Toxandria to be recognized. The Toxandri were a tribe as mighty as any other, but the people have been extinct for centuries. Perhaps it is time to do away with this relic of a name, and honor Breda instead?;;;;;;;;;;;Ñåãîäíÿ ê âàì ïðèáûëà äåëåãàöèÿ èç ãîðîäà [b_breda.GetBaseName]. Îíè ñ÷èòàþò, ÷òî [b_breda.GetBaseName] áûñòðî ðàçâèâàåòñÿ è óæå ìîæåò ïî ïðàâó íàçûâàòüñÿ öåíòðîì îêðóãà [c_breda.GetBaseName], íûíåøíåå íàçâàíèå êîòîðîãî ïî èõ ìíåíèþ äàâíî óñòàðåëî è íå îòðàæàåò ñîâðåìåííûõ ðåàëèé. Îíè ïðåäëàãàþò íàçâàòü îêðóã Áðåäà, â ÷åñòü ñâîåãî ãîðîäà.;;x
+EVTDESC_LT_41005;[From.GetBestName] has elected to refer to [From.GetHerHis] county of Toxandria by the name of its most populous city, Breda, from this moment onwards. The burghers are much pleased by the recognition and have held a feast in the honor of [From.GetTitledFirstName].;;;;;;;;;;;[From.GetTitledFirstName] ðåøèë[From.GetEndA] ïîéòè íà óñòóïêè æèòåëÿì Áðåäû, íàçâàâ ñâîé îêðóã, ïðåæäå èçâåñòíûé êàê Òîêñàíäðèÿ, â ÷åñòü ýòîãî ãîðîäà. Ãîðîæàíå áûëè î÷åíü ðàäû ýòîìó ñîáûòèþ è óñòðîèëè áîëüøîé ïðàçäíèê â [From.GetHersHis] ÷åñòü.;;x
+EVTDESC_LT_41006;A representative of the newly expanded city of Kleve is making demands of you. They want their status as the main population center of the county of Hattuaria to be recognized. The Chattuarii were a tribe as mighty as any other, but the people have been extinct for centuries. Perhaps it is time to do away with this relic of a name, and honor Kleve instead?;;;;;;;;;;;Ñåãîäíÿ ê âàì ïðèáûëà äåëåãàöèÿ èç ãîðîäà [b_kleve.GetBaseName]. Îíè ñ÷èòàþò, ÷òî [b_kleve.GetBaseName] áûñòðî ðàçâèâàåòñÿ è óæå ìîæåò ïî ïðàâó íàçûâàòüñÿ öåíòðîì îêðóãà [c_kleve.GetBaseName], íûíåøíåå íàçâàíèå êîòîðîãî ïî èõ ìíåíèþ äàâíî óñòàðåëî è íå îòðàæàåò ñîâðåìåííûõ ðåàëèé. Îíè ïðåäëàãàþò íàçâàòü îêðóã Êëåâå, â ÷åñòü ñâîåãî ãîðîäà.;;x
+EVTDESC_LT_41007;[From.GetBestName] has elected to refer to [From.GetHerHis] county of Hattuaria by the name of its most populous city, Kleve, from this moment onwards. The burghers are much pleased by the recognition and have held a feast in the honor of [From.GetTitledFirstName].;;;;;;;;;;;[From.GetTitledFirstName] ðåøèë[From.GetEndA] ïîéòè íà óñòóïêè æèòåëÿì Êëåâå, íàçâàâ ñâîé îêðóã, ïðåæäå èçâåñòíûé êàê Õàòòóàðèÿ, â ÷åñòü ýòîãî ãîðîäà. Ãîðîæàíå áûëè î÷åíü ðàäû ýòîìó ñîáûòèþ è óñòðîèëè áîëüøîé ïðàçäíèê â [From.GetHersHis] ÷åñòü.;;x
+EVTOPTA_LT_41000;Yes, progress is progress!;;;;;;;;;;;Íó ðàçóìååòñÿ!;;x
+EVTOPTA_LT_41001;How we have fallen...;;;;;;;;;;;Êàê æå íèçêî ìû ïàëè...;;x
+EVTOPTA_LT_41002;Welcome to my court, [geldern_holder.GetFirstName]!;;;;;;;;;;;À ïî÷åìó áû íåò? ß ñîãëàñ[Root.GetNaEn]!;;x
+EVTOPTA_LT_41003;[FromFrom.GetTitledFirstName] brought this upon [FromFrom.GetHerselfHimself].;;;;;;;;;;;[FromFrom.GetTitledFirstName] ñàì[FromFrom.GetEndA] â ýòîì âèíîâàò[FromFrom.GetEndA].;;x
+EVTOPTA_LT_41004;If it will appease the city, it could bring diplomatic benefits.;;;;;;;;;;;Õîðîøî, áóäü ïî-âàøåìó.;;x
+EVTOPTA_LT_41005;Good for them!;;;;;;;;;;;×òî æ, ÿ ðàä[Root.GetEndA] çà íèõ.;;x
+EVTOPTA_LT_41006;If it will appease the city, it could bring diplomatic benefits.;;;;;;;;;;;Õîðîøî, áóäü ïî-âàøåìó.;;x
+EVTOPTA_LT_41007;Good for them!;;;;;;;;;;;×òî æ, ÿ ðàä[Root.GetEndA] çà íèõ.;;x
+EVTOPTB_LT_41000;No, we must honor our legacy.;;;;;;;;;;;Âîçìîæíî è ïîðà, íî ÿ íå õî÷ó.;;x
+EVTOPTB_LT_41001;A newer, mightier culture rules Holland now!;;;;;;;;;;;Äàâíî ïîðà!;;x
+EVTOPTB_LT_41002;For that low baron? I think not.;;;;;;;;;;;[geldern_holder.GetSheHeCap] âñåãî ëèøü [geldern_holder.GetTitle]. Èøü ÷åãî çàõîòåë[geldern_holder.GetEndA]!;;x
+EVTOPTB_LT_41003;How short-sighted of [From.GetTitledFirstName].;;;;;;;;;;;Âåñüìà íåäàëüíîâèäíîå ðåøåíèå.;;x
+EVTOPTB_LT_41004;No, we must honor our legacy.;;;;;;;;;;;Íàçâàíèå [c_breda.GetBaseName] ìíå íðàâèòñÿ áîëüøå.;;x
+EVTOPTB_LT_41005;A weed by any other name...;;;;;;;;;;;Íîâîå íàçâàíèå õîðîøî îòðàæàåò áåñïîëåçíîñòü ýòîé çàòåè.;;x
+EVTOPTB_LT_41006;No, we must honor our legacy.;;;;;;;;;;;Íàçâàíèå [c_kleve.GetBaseName] ìíå íðàâèòñÿ áîëüøå.;;x
+EVTOPTB_LT_41007;A weed by any other name...;;;;;;;;;;;È ÷òî ýòî èçìåíèò?;;x
+EVTOPTC_LT_41001;Good for them!;;;;;;;;;;;Ðàä[Root.GetEndA] çà íèõ.;;x
+EVTOPTC_LT_41003;That traitor! Those are my lands!;;;;;;;;;;;Àõ òû [geldern_holder.GetBitchBastard]! Ýòî ìîè çåìëè!;;x
+EVTOPTD_LT_41001;A weed by any other name...;;;;;;;;;;;È ÷òî ñ òîãî?;;x
+EVTTITLE_LT_41001;A Land Renamed;;;;;;;;;;;Hîâîå íàçâàíèå;;x

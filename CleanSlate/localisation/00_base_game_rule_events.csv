@@ -1,13 +1,11 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC_GR_1;As you hold no De Jure land within the [title_to_destroy.GetTier] of [title_to_destroy.GetName] you can no longer rightfully claim to be its ruler. You are now regarded as a mere claimant to a throne outside your reach.;;;;;;;;;;;;;x
-EVTDESC_GR_11;The tumultuous death of [From.GetFullName] presents an excellent opportunity for us to declare our independence. Of course, [nomadic_heir.GetFullName] might strike at us with vengeance for defying [nomadic_heir.GetHerHis] rule...;;;;;;;;;;;;;x
-EVTDESC_GR_12;My former subject, [From.GetFirstName], has chosen independence from my rule.;;;;;;;;;;;;;x
-EVTDESC_GR_19;§Y[text_target.GetBestName]§! has become independent from your realm as the land [text_target.GetSheHe] rules is too far from your capital.;;;;;;;;;;;;;x
-EVTDESC_GR_20;As the County of §Y[text_target.Capital.GetName]§! was too far from your capital, an uppity peasant named §Y[text_target.GetBestName]§! was able to seize the land unopposed!;;;;;;;;;;;;;x
-EVTDESC_GR_21;As the Barony of §Y[text_target_barony.GetName]§! was too far from your capital, an uppity peasant named §Y[text_target.GetBestName]§! was able to seize it unopposed!;;;;;;;;;;;;;x
-EVTDESC_GR_22;As your lands were too far from the capital of §Y[Root.TopLiege.GetBestName]§!, you have lost contact with [Root.TopLiege.GetHerHim] and become independent.;;;;;;;;;;;;;x
-
-EVTOPTA_GR_1;But [title_to_destroy.GetName] was to be mine!;;;;;;;;;;;;;x
-EVTOPTA_GR_11;No, we shall stay loyal.;;;;;;;;;;;;;x
-EVTOPTA_GR_12;I shall have their heads!;;;;;;;;;;;;;x
+EVTDESC_GR_1;As you hold no De Jure land within the [title_to_destroy.GetTier] of [title_to_destroy.GetName] you can no longer rightfully claim to be its ruler. You are now regarded as a mere claimant to a throne outside your reach.;;;;;;;;;;;[title_to_destroy.GetTier] [title_to_destroy.GetName] äå-þðå Âàì íå ïðèíàäëåæèò, èáî çåìëÿìè, îòíîñÿùèìèÿ ê òèòóëó, Âû íå îáëàäàåòå. Ïîýòîìó òåïåðü Âû íå ìîæåòå ïðàâèòü ýòèì ãîñóäàðñòâîì. Îòíûíå Âû ðàññìàòðèâàåòåñü êàê îáû÷íûé ïðåòåíäåíò íà òèòóë âíå ïðåäåëîâ äîñÿãàåìîñòè.;;x
+EVTDESC_GR_11;The tumultuous death of [From.GetFullName] presents an excellent opportunity for us to declare our independence. Of course, [nomadic_heir.GetFullName] might strike at us with vengeance for defying [nomadic_heir.GetHerHis] rule...;;;;;;;;;;;Òåïåðü [From.GetFullName] ìåðòâ[From.GetEndA], è ýòî ïðåêðàñíàÿ âîçìîæíîñòü äëÿ íàñ îáúÿâèòü íåçàâèñèìîñòü. Êîíå÷íî, [nomadic_heir.GetFullName] ìîæåò ïîïûòàòüñÿ îòîìñòèòü çà îòêàç ïðèçíàòü [nomadic_heir.GetHersHis] ïðàâî êàê ëèäåðà...;;x
+EVTDESC_GR_12;My former subject, [From.GetFirstName], has chosen independence from my rule.;;;;;;;;;;;[From.GetFirstName] ðåøèë[From.GetEndA] îáúÿâèòü íåçàâèñèìîñòü îò ìîåãî ïðàâëåíèÿ.;;x
+EVTDESC_GR_19;§Y[text_target.GetBestName]§! has become independent from your realm as the land [text_target.GetSheHe] rules is too far from your capital.;;;;;;;;;;;§Y[text_target.GetTitledFirstNameWithNick]§! îáð¸ë[text_target.GetEndA] íåçàâèñèìîñòü îò Âàøåãî ãîñóäàðñòâà, èáî [text_target.GetHersHis] çåìëè ñëèøêîì äàëåêî îò Âàøåé ñòîëèöû.;;x
+EVTDESC_GR_20;As the County of §Y[text_target.Capital.GetName]§! was too far from your capital, an uppity peasant named §Y[text_target.GetBestName]§! was able to seize the land unopposed!;;;;;;;;;;;Îêðóã §Y[text_target.Capital.GetName]§! íàõîäèòñÿ ñëèøêîì äàëåêî îò Âàøåé ñòîëèöû, è òåïåðü êàê[text_target.GetAyaOy]-òî íàãë[text_target.GetAyaYy] äåðåâåíùèíà ïî èìåíè §Y[text_target.GetTitledFirstNameWithNick]§!, çàõâàòèë ýòè çåìëè áåç áîÿ!;;x
+EVTDESC_GR_21;As the Barony of §Y[text_target_barony.GetName]§! was too far from your capital, an uppity peasant named §Y[text_target.GetBestName]§! was able to seize it unopposed!;;;;;;;;;;;Ïîñåëåíèå §Y[text_target_barony.GetName]§! íàõîäèòñÿ ñëèøêîì äàëåêî îò Âàøåé ñòîëèöû, è òåïåðü êàê[text_target.GetAyaOy]-òî íàãë[text_target.GetAyaYy] äåðåâåíùèíà ïî èìåíè §Y[text_target.GetTitledFirstNameWithNick]§!, çàõâàòèë ýòó çåìëþ áåç áîÿ!;;x
+EVTDESC_GR_22;As your lands were too far from the capital of §Y[Root.TopLiege.GetBestName]§!, you have lost contact with [Root.TopLiege.GetHerHim] and become independent.;;;;;;;;;;;Âàøè çåìëè ñëèøêîì äàëåêî îò ñòîëèöû Âàøåãî ñþçåðåíà, è òåïåðü Âû ïîòåðÿëè ñ íèìè êîíòàêò, ñòàâ äå-ôàêòî íåçàâèñèì[Root.GetOyYm].;;x
+EVTOPTA_GR_1;But [title_to_destroy.GetName] was to be mine!;;;;;;;;;;;Íî ýòî ìîé òèòóë!;;x
+EVTOPTA_GR_11;No, we shall stay loyal.;;;;;;;;;;;[nomadic_heir.GetSheHeCap] íå óñîìíèòñÿ â íàøåé âåðíîñòè.;;x
+EVTOPTA_GR_12;I shall have their heads!;;;;;;;;;;;ß íàñàæó èõ ãîëîâû íà ïèêè!;;x

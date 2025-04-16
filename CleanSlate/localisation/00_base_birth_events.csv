@@ -1,146 +1,122 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC21001;I have thought it over, and I cannot be the father of my [GetFromFromRelation] [FromFrom.GetFirstName]'s baby. As it grows in her belly, I have trouble sleeping. I must put this matter to rest!;;;;;;;;;;;;;x
-EVTDESC21003;The maid I paid to spy on my [GetFromRelation] has confirmed my suspicions - [From.FatherOfUnborn.GetTitledName] is [From.GetFirstName]'s lover and the real father of the child!;;;;;;;;;;;;;x
-EVTDESC21003_CONF;When asked outright, my [GetFromRelation] [From.GetFirstName] broke down and tearfully admitted to having an affair with [From.FatherOfUnborn.GetTitledName], blubbering about mercy and forgiveness!;;;;;;;;;;;;;x
-EVTDESC21003_CONF_CR;When asked outright, my [GetFromRelation] [From.GetFirstName] broke down and tearfully admitted to having an affair with [From.FatherOfUnborn.GetTitledName] - her own [GetFromVsFatherOfUnbornRelation]!;;;;;;;;;;;;;x
-EVTDESC21003_CR;The woman I hired to spy on my [GetFromRelation] [From.GetFirstName] has found out the shocking truth about her pregnancy. I was right, I am not the father... [From.FatherOfUnborn.GetTitledFirstName] is, her own [GetFromVsFatherOfUnbornRelation]!;;;;;;;;;;;;;x
-EVTDESC21003_TRAP;I planted a note in my [GetFromRelation]'s bedroom, instructing her to meet her lover behind the smithy. I stood there waiting, hoping she wouldn't come... but she did. She confessed to an affair with [From.FatherOfUnborn.GetTitledName]!;;;;;;;;;;;;;x
-EVTDESC21003_TRAP_CR;I planted a note in my [GetFromRelation]'s bedroom, instructing her to meet her lover behind the smithy. She came alright, and brokenly confessed to an affair with [From.FatherOfUnborn.GetTitledName] - her own [GetFromVsFatherOfUnbornRelation]!;;;;;;;;;;;;;x
-EVTDESC21005;My [GetFromRelation] just stormed in, roaring and smashing chairs. He knows about my affair with [Root.FatherOfUnborn.GetTitledFirstName]. He knows the child I carry is not his...;;;;;;;;;;;;;x
-EVTDESC21006;[From.GetTitledName] knows about my affair with [FromFrom.GetTitledFirstName]. He knows the child she carries is actually mine...;;;;;;;;;;;;;x
-EVTDESC21010;The maid I hired to gain my [GetFromRelation] [From.GetFirstName]'s confidence has not found anything at all suspicious about her pregnancy.;;;;;;;;;;;;;x
-EVTDESC21011;The spies I hired at great expense to discover anything suspicious about my [GetFromRelation] [From.GetFirstName] and her pregnancy have failed to turn up anything at all.;;;;;;;;;;;;;x
-EVTDESC21012;My dear [GetFromRelation] [From.GetFirstName] is suspicious of my pregnancy. He is here right now asking me if the child is really his!;;;;;;;;;;;;;x
-EVTDESC21013;[From.GetFirstName] started crying when I asked her if she's being unfaithful. She profusely ensures me of her undying love, virtue and steadfastness...;;;;;;;;;;;;;x
-EVTDESC21015;[From.GetFirstName] got angry when I confronted her about the pregnancy, saying she lives in a prison and that I am denying her even the most basic freedoms...;;;;;;;;;;;;;x
-EVTDESC21016;I found a note from my beloved [Root.FatherOfUnborn.GetTitledFirstName] to meet him behind the smithy today, but it was my [GetFromRelation] [From.GetFirstName] who waited for me there!;;;;;;;;;;;;;x
-
-EVTOPTA21001;Hire someone to find out;;;;;;;;;;;;;x
-EVTOPTA21003;By [Root.Religion.GetRandomGodName], I had better keep this quiet!;;;;;;;;;;;;;x
-EVTOPTA21005;The flesh is weak...;;;;;;;;;;;;;x
-EVTOPTA21006;This could spell my doom!;;;;;;;;;;;;;x
-EVTOPTA21010;That's a relief!;;;;;;;;;;;;;x
-EVTOPTA21011;I guess the child must be mine then..?;;;;;;;;;;;;;x
-EVTOPTA21012;Assure him of my faithfulness!;;;;;;;;;;;;;x
-EVTOPTA21013;I'll never be entirely sure...;;;;;;;;;;;;;x
-EVTOPTA21015;Now I feel guilty...;;;;;;;;;;;;;x
-EVTOPTA21016;Darling, I can explain!;;;;;;;;;;;;;x
-
-EVTOPTB21001;No, I trust her word!;;;;;;;;;;;;;x
-EVTOPTB21003;Unholy! Expose the traitors!;;;;;;;;;;;;;x
-EVTOPTB21006;How embarrassing!;;;;;;;;;;;;;x
-EVTOPTB21010;I must KNOW. I will confront her directly!;;;;;;;;;;;;;x
-EVTOPTB21012;Tearfully admit my affair with [Root.FatherOfUnborn.GetTitledFirstName];;;;;;;;;;;;;x
-
-EVTOPTC21003;Holy... but treasonous. Expose them!;;;;;;;;;;;;;x
-EVTOPTC21010;Hire more spies!;;;;;;;;;;;;;x
-EVTOPTC21012;He's such a baby. Wrap him around my finger.;;;;;;;;;;;;;x
-
-EVTOPTD21003;This is High Treason!;;;;;;;;;;;;;x
-EVTOPTD21010;Lay a trap for her;;;;;;;;;;;;;x
-
-EVTTOOLTIP21003_TRAP;[This.GetFirstName] flies into a rage!;;;;;;;;;;;;;x
-
-evt_304_desc_a;[FromFrom.Mother.GetFirstName] has borne the child of another man! I cannot believe this betrayal!;;;;;;;;;;;;;x
-evt_CK2_304_desc_b;The fruit of [FromFrom.Mother.GetFirstName]'s shameful infidelity has finally been born. I still cannot believe [FromFrom.Mother.GetSheHe] would betray me so brazenly.;;;;;;;;;;;;;x
-
-evt_400_desc_a;I am surely with child... my husband will be pleased.;;;;;;;;;;;;;x
-evt_CK2_400_desc_b;I am surely with child... I wonder what my late husband would think of this.;;;;;;;;;;;;;x
-evt_CK2_400_desc_c;I am surely with child... my consort will be pleased.;;;;;;;;;;;;;x
-evt_CK2_400_DESC_D;I am surely with child. I wonder which one of my consorts is the lucky father...;;;;;;;;;;;;;x
-
-EVTDESC300;I am a bastard!;;;;;;;;;;;;;x
-EVTDESC301;It seems my amorous adventures have resulted in a child - little [From.GetFirstName] is my spitting image.;;;;;;;;;;;;;x
-EVTDESC302;I am [From.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTDESC303;[From.GetTitledFirstName] has declared our baby trueborn!;;;;;;;;;;;;;x
-EVTDESC305;[Root.Spouse.GetFirstName] has not only cheated on me, but has legitimized his accursed spawn!;;;;;;;;;;;;;x
-EVTDESC306;I am [From.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTDESC307;[From.GetTitledFirstName] has acknowledged our child.;;;;;;;;;;;;;x
-EVTDESC308;My sweet [Root.Spouse.GetFirstName] has acknowledged the bastard child he had with some slut.;;;;;;;;;;;;;x
-EVTDESC309;I remain [From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC310;[From.GetTitledFirstName] refuses to acknowledge our baby as his.;;;;;;;;;;;;;x
-EVTDESC311;The baby, [From.GetTitledFirstName], is surely my husband's bastard, though darling [Root.Spouse.GetFirstName] denies it.;;;;;;;;;;;;;x
-EVTDESC315;My labor was difficult and I fear that something is wrong with me. The midwives look worried, and I feel so terribly weak...;;;;;;;;;;;;;x
-EVTDESC319;It seems my dalliance with [From.Mother.GetTitledFirstName] has resulted in a child. Fortunately, [From.Father.GetTitledFirstName] thinks little [From.GetFirstName] is his!;;;;;;;;;;;;;x
-
-EVTOPTA301;Legitimize [From.GetHerHim];;;;;;;;;;;;;x
-EVTOPTA301_DESC;§Y[From.GetFirstName]§! is declared a legitimate [From.GetSonDaughter] with full inheritance rights.\n;;;;;;;;;;;;;x
-EVTOPTA301_legchildren_TOOLTIP;All of §Y[Root.GetTitledFirstName]'s§! other children's opinion of [Root.GetHerHim] changes by §R-40§! for §Y12§! months. §Y(Legitimized Bastard)§!;;;;;;;;;;;;;x
-EVTOPTA303;He must still love me...;;;;;;;;;;;;;x
-EVTOPTA304;Woe is me!;;;;;;;;;;;;;x
-EVTOPTA305;This means war!;;;;;;;;;;;;;x
-EVTOPTA307;How gracious;;;;;;;;;;;;;x
-EVTOPTA308;Well, it could be worse;;;;;;;;;;;;;x
-EVTOPTA310;He's the true bastard!;;;;;;;;;;;;;x
-EVTOPTA311;He's but a man;;;;;;;;;;;;;x
-EVTOPTA315;I must pray to [Root.Religion.GetRandomGodName];;;;;;;;;;;;;x
-EVTOPTA319;Oops;;;;;;;;;;;;;x
-
-EVTOPTB301;Acknowledge [From.GetHerHim] as mine;;;;;;;;;;;;;x
-EVTOPTB301_DESC;§Y[From.GetFirstName]§! remains illegitimate, but is sanctioned as my [From.GetSonDaughter] and can be married off to form alliances. If [From.GetSubjectPronoun] ever has children, a new dynasty will be created for that line.\n;;;;;;;;;;;;;x
-
-EVTOPTC301;Denounce the child;;;;;;;;;;;;;x
-EVTOPTC301_DESC;§Y[From.GetFirstName]§! is denounced as a bastard with an unknown father, having no official connection to me at all.\n;;;;;;;;;;;;;x
-
-EVTOPTD301;Not my problem. [From.GetHerHisCap] mother will deal with this.;;;;;;;;;;;;;x
-
-EVTTOOLTIP302;[This.GetFirstName] becomes a member of House [This.Father.GetOnlyDynastyName];;;;;;;;;;;;;x
-EVTTOOLTIP303;Lady [This.GetFirstName], the mother, is most pleased;;;;;;;;;;;;;x
-EVTTOOLTIP304;[This.GetTitledFirstName], the mother's husband, is most displeased...;;;;;;;;;;;;;x
-EVTTOOLTIP305;[Root.Father.GetTitledFirstName]'s wife [Root.Father.Spouse.GetTitledFirstName] is enraged;;;;;;;;;;;;;x
-EVTTOOLTIP306;[This.GetFirstName] will be regarded as your [This.GetSonDaughter] and can be legitimized later;;;;;;;;;;;;;x
-EVTTOOLTIP307;Lady [This.GetFirstName], the mother, is pleased;;;;;;;;;;;;;x
-EVTTOOLTIP308;[Root.Father.GetFirstName]'s wife [Root.Father.Spouse.GetFirstName] is angered;;;;;;;;;;;;;x
-EVTTOOLTIP309;The child remains [This.GetDynName];;;;;;;;;;;;;x
-EVTTOOLTIP310;Lady [This.GetFirstName], the mother, is humiliated;;;;;;;;;;;;;x
-
-EVTDESC401;Unmarried and pregnant... The fates have cursed me!;;;;;;;;;;;;;x
-EVTDESC402;Oh dear, I must be with child. Will my husband believe it is his?;;;;;;;;;;;;;x
-EVTDESC403;Fate smiles upon me, my wife [From.GetFirstName] is pregnant!;;;;;;;;;;;;;x
-EVTDESC404;My [GetFromRelation] is pregnant, but I was away, wasn't I?;;;;;;;;;;;;;x
-EVTDESC404_2;My [GetFromRelation] [From.GetFirstName] tells me she is pregnant, but that can't be right, can it?;;;;;;;;;;;;;x
-EVTDESC404_KF;My [GetFromRelation] [From.GetFirstName] is pregnant and I can't possibly be the father! The realm is already astir with gossip - everyone knows [From.FatherOfUnborn.GetTitledName] is the real father.;;;;;;;;;;;;;x
-EVTDESC410;I am surely with child... my lord will be pleased.;;;;;;;;;;;;;x
-EVTDESC412;Oh dear, I must be with child. Will my lord believe it is his?;;;;;;;;;;;;;x
-EVTDESC413;Fate smiles upon me, my concubine [From.GetFirstName] is pregnant!;;;;;;;;;;;;;x
-
-EVTOPTA402;Good news darling!;;;;;;;;;;;;;x
-EVTOPTA404;Doubt besets me!;;;;;;;;;;;;;x
-EVTOPTA412;Good news darling!;;;;;;;;;;;;;x
-
-EVTOPTB404;Denounce them both as traitors!;;;;;;;;;;;;;x
-
-EVTTOOLTIP403;You tell §Y[Root.FatherOfUnborn.GetFirstName]§! he will be a father.;;;;;;;;;;;;;x
-EVTTOOLTIP404;You tell a white lie to §Y[Root.Spouse.GetFirstName]§!.;;;;;;;;;;;;;x
-EVTTOOLTIP413;Tell §Y[Root.FatherOfUnborn.GetFirstName]§! he will be a father;;;;;;;;;;;;;x
-
-EVTDESC450;I've caught [Root.Liege.GetTitle] [Root.Liege.GetFirstName] eyeing me...;;;;;;;;;;;;;x
-EVTDESC451;I am starting to think [From.GetTitledFirstName] might fancy me...;;;;;;;;;;;;;x
-EVTDESC452;I awaken to the sound of my door creaking open... It's [Root.Liege.GetTitle] [Root.Liege.GetFirstName]!;;;;;;;;;;;;;x
-EVTDESC453;I went to [From.GetFirstName]'s chamber and gave [From.GetHerHim] a good tumble!;;;;;;;;;;;;;x
-EVTDESC454;[From.GetLordLady] [From.GetFirstName] has spurned my subtle advances.;;;;;;;;;;;;;x
-EVTDESC455;Lady [From.GetFirstName] screamed and made a fuss in front of my own guards!;;;;;;;;;;;;;x
-
-EVTOPTA450;Encourage [Root.Liege.GetHerHim];;;;;;;;;;;;;x
-EVTOPTA451;Make a move.;;;;;;;;;;;;;x
-EVTOPTA452;What took [From.GetObjectPronoun] so long?;;;;;;;;;;;;;x
-EVTOPTA453;It's good to be the [This.GetTitle];;;;;;;;;;;;;x
-EVTOPTA454;How could [From.GetSheHe] resist my charms?;;;;;;;;;;;;;x
-EVTOPTA455;Women!;;;;;;;;;;;;;x
-
-EVTOPTB450;Avoid him;;;;;;;;;;;;;x
-EVTOPTB451;It's not appropriate!;;;;;;;;;;;;;x
-EVTOPTB452;Dissuade [From.GetObjectPronoun];;;;;;;;;;;;;x
-
-EVTOPTC451;[From.GetSheHeCap]'s not my type;;;;;;;;;;;;;x
-EVTOPTC452;Scream for help!;;;;;;;;;;;;;x
-
-EVTTOOLTIP451;The [Root.Liege.GetTitle] responds to my advances;;;;;;;;;;;;;x
-EVTTOOLTIP452;You will go to [This.GetHerHis] chamber...\n;;;;;;;;;;;;;x
-EVTTOOLTIP453;[This.GetTitledFirstName] becomes my lover;;;;;;;;;;;;;x
-EVTTOOLTIP454;[This.GetTitledFirstName] becomes disappointed;;;;;;;;;;;;;x
-EVTTOOLTIP455;[This.GetTitledFirstName] becomes embarrassed and resentful;;;;;;;;;;;;;x
-
-EVTDESCA316; Despite my physicians' assurances to the contrary, giving birth only worsened my condition. The midwives look worried, and I feel so terribly weak... I am bound to my bedroom, in a state halfway between nightmares and reality, struggling, on the brink of death.;;;;;;;;;;;;;x
-EVTDESCB316;My labor worsened the already precarious condition I was in. The midwives look worried, and I feel so terribly weak... I am bound to my bedroom, in a state halfway between nightmares and reality, struggling, on the brink of death.;;;;;;;;;;;;;x
+EVTDESC21001;I have thought it over, and I cannot be the father of my [GetFromFromRelation] [FromFrom.GetFirstName]'s baby. As it grows in her belly, I have trouble sleeping. I must put this matter to rest!;;;;;;;;;;;Êàçàëîñü, âñ¸ óæå ÿñíî, ÿ íå ìîãó áûòü îòöîì ðåá¸íêà ìîåé æåíû. Íî å¸ æèâîò âñ¸ ðàñò¸ò, à ÿ íå ìîãó ñïàòü ïî íî÷àì. Íóæíî ðåøèòü ýòîò âîïðîñ!;;x
+EVTDESC21003;The maid I paid to spy on my [GetFromRelation] has confirmed my suspicions - [From.FatherOfUnborn.GetTitledName] is [From.GetFirstName]'s lover and the real father of the child!;;;;;;;;;;;Ñëóæàíêà, êîòîðóþ ÿ íàíÿë, ÷òîáû ñëåäèòü çà ìîåé æåíîé, ïîäòâåðäèëà ìîè ïîäîçðåíèÿ, [From.FatherOfUnborn.GetTitledName] - [From.GetHersHis] ëþáîâíèê è íàñòîÿùèé îòåö ðåá¸íêà!;;x
+EVTDESC21003_CONF;When asked outright, my [GetFromRelation] [From.GetFirstName] broke down and tearfully admitted to having an affair with [From.FatherOfUnborn.GetTitledName], blubbering about mercy and forgiveness!;;;;;;;;;;;Êîãäà ÿ ñïðîñèë íàïðÿìóþ, ìîÿ [From.GetRootRelation] [From.GetFirstName] áðîñèëàñü ê ìîèì íîãàì â ñëåçàõ è ïðèçíàëàñü, ÷òî íå áûëà âåðíà ìíå, âñõëèïûâàÿ è óìîëÿÿ î ïðîùåíèè - [From.FatherOfUnborn.GetTitledName] áûë å¸ ëþáîâíèêîì!;;x
+EVTDESC21003_CONF_CR;When asked outright, my [GetFromRelation] [From.GetFirstName] broke down and tearfully admitted to having an affair with [From.FatherOfUnborn.GetTitledName] - her own [GetFromVsFatherOfUnbornRelation]!;;;;;;;;;;;Êîãäà ÿ ñïðîñèë íàïðÿìóþ, ìîÿ [From.GetRootRelation] [From.GetFirstName] áðîñèëàñü ê ìîèì íîãàì â ñëåçàõ è ïðèçíàëàñü â ëþáîâíîé ñâÿçè íà ñòîðîíå. [From.FatherOfUnborn.GetTitledName], å¸ ñîáñòâåííûé [From.FatherOfUnborn.GetFromVsRelation] áûë å¸ ëþáîâíèêîì!;;x
+EVTDESC21003_CR;The woman I hired to spy on my [GetFromRelation] [From.GetFirstName] has found out the shocking truth about her pregnancy. I was right, I am not the father... [From.FatherOfUnborn.GetTitledFirstName] is, her own [GetFromVsFatherOfUnbornRelation]!;;;;;;;;;;;Æåíùèíà, êîòîðóþ ÿ íàíÿë øïèîíèòü çà ìîåé æåíîé, îáíàðóæèëà øîêèðóþùóþ ïðàâäó î å¸ áåðåìåííîñòè. ß áûë ïðàâ, îòåö - íå ÿ, à... [From.FatherOfUnborn.GetTitledFirstName], å¸ [From.FatherOfUnborn.GetFromVsRelation]!;;x
+EVTDESC21003_TRAP;I planted a note in my [GetFromRelation]'s bedroom, instructing her to meet her lover behind the smithy. I stood there waiting, hoping she wouldn't come... but she did. She confessed to an affair with [From.FatherOfUnborn.GetTitledName]!;;;;;;;;;;;ß ïîëîæèë çàïèñêó â ñïàëüíå ñâîåé æåíû ñ ïðåäëîæåíèåì âñòðåòèòü å¸ ïðåäïîëàãàåìîãî ëþáîâíèêà çà êóçíèöåé. ß ñòîÿë òàì, â íàäåæäå, ÷òî îíà íå ïðèä¸ò... íî îíà ïðèøëà. Îíà ïðèçíàëàñü, ÷òî [From.FatherOfUnborn.GetTitledName] - å¸ ëþáîâíèê!;;x
+EVTDESC21003_TRAP_CR;I planted a note in my [GetFromRelation]'s bedroom, instructing her to meet her lover behind the smithy. She came alright, and brokenly confessed to an affair with [From.FatherOfUnborn.GetTitledName] - her own [GetFromVsFatherOfUnbornRelation]!;;;;;;;;;;;ß ïîëîæèë çàïèñêó â ñïàëüíå ñâîåé æåíû ñ ïðåäëîæåíèåì âñòðåòèòü å¸ ïðåäïîëàãàåìîãî ëþáîâíèêà çà êóçíèöåé. Îíà ïðèøëà òóäà è ïðèçíàëàñü, ÷òî ó íå¸ åñòü ëþáîâíèê, ýòî [From.FatherOfUnborn.GetTitledName], å¸ ñîáñòâåííûé [From.FatherOfUnborn.GetFromVsRelation]!;;x
+EVTDESC21005;My [GetFromRelation] just stormed in, roaring and smashing chairs. He knows about my affair with [Root.FatherOfUnborn.GetTitledFirstName]. He knows the child I carry is not his...;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] âëîìè[From.GetLasLsya] â ì[Root.GetMyChamberACC], ñ êðèêîì øâûðÿÿ ñòóëüÿ. [From.GetSheHeCap] óçíàë[From.GetEndA] î ìîåé ïðåñòóïíîé ñâÿçè è îáâèíèë[From.GetEndA] ìåíÿ â òîì, ÷òî îòåö ðåá¸íêà - íå îí, à [Root.FatherOfUnborn.GetTitledFirstName]...;;x
+EVTDESC21006;[From.GetTitledName] knows about my affair with [FromFrom.GetTitledFirstName]. He knows the child she carries is actually mine...;;;;;;;;;;;[From.GetTitledName] óçíàë[From.GetEndA] î ìîåé ñâÿçè ñ [From.GetHersHis] æåíîé. Îí çíàåò, ÷òî ðåá¸íîê, êîòîðîãî îíà íîñèò, íà ñàìîì äåëå ìîé...;;x
+EVTDESC21010;The maid I hired to gain my [GetFromRelation] [From.GetFirstName]'s confidence has not found anything at all suspicious about her pregnancy.;;;;;;;;;;;Ñëóæàíêà, êîòîðóþ ÿ íàíÿë, ÷òîáû ñëåäèòü çà ìîåé æåíîé, íå îáíàðóæèëà íè÷åãî ïîäîçðèòåëüíîãî, ÷òî áû êàñàëîñü å¸ áåðåìåííîñòè.;;x
+EVTDESC21011;The spies I hired at great expense to discover anything suspicious about my [GetFromRelation] [From.GetFirstName] and her pregnancy have failed to turn up anything at all.;;;;;;;;;;;Øïèîíû, êîòîðûõ ÿ íàíÿë, ÷òîáû íàéòè ÷òî-íèáóäü ïîäîçðèòåëüíîå î ìîåé æåíå è å¸ áåðåìåííîñòè, íå ñìîãëè íè÷åãî íàéòè.;;x
+EVTDESC21012;My dear [GetFromRelation] [From.GetFirstName] is suspicious of my pregnancy. He is here right now asking me if the child is really his!;;;;;;;;;;;Ìîé äîðîãîé [From.GetRootRelation] [From.GetFirstName] ÷òî-òî ïîäîçðåâàåò â ñâÿçè ñ ìîåé áåðåìåííîñòüþ. Ïðÿìî ñåé÷àñ îí ñïðàøèâàåò ìåíÿ, äåéñòâèòåëüíî ëè ðåá¸íîê åãî.;;x
+EVTDESC21013;[From.GetFirstName] started crying when I asked her if she's being unfaithful. She profusely ensures me of her undying love, virtue and steadfastness...;;;;;;;;;;;[From.GetFirstName] ñòàëà ðûäàòü, êàê òîëüêî ÿ âûñêàçàëñÿ î å¸ âîçìîæíîé íåâåðíîñòè. Îíà êëÿíåòñÿ â ñâîåé íåóãàñàþùåé ëþáâè, äîáðîäåòåëè è ñìèðåíèè...;;x
+EVTDESC21015;[From.GetFirstName] got angry when I confronted her about the pregnancy, saying she lives in a prison and that I am denying her even the most basic freedoms...;;;;;;;;;;;[From.GetFirstName] ðàçîçëèëàñü íà ìåíÿ, êîãäà ÿ ïðÿìî ñïðîñèë î å¸ áåðåìåííîñòè. Îíà ñêàçàëà, ÷òî æèâ¸ò âçàïåðòè, êàê ïëåííèöà, ëèø¸ííàÿ äàæå ñàìûõ ïðîñòûõ ñâîáîä...;;x
+EVTDESC21016;I found a note from my beloved [Root.FatherOfUnborn.GetTitledFirstName] to meet him behind the smithy today, but it was my [GetFromRelation] [From.GetFirstName] who waited for me there!;;;;;;;;;;;ß ïîëó÷èëà çàïèñêó: ìîé âîçëþáëåííûé [Root.FatherOfUnborn.GetTitledFirstName] ïðåäëàãàåò âñòðåòèòüñÿ çà êóçíèöåé ñåãîäíÿ. Êîíå÷íî æå, ÿ íàïðàâèëàñü òóäà, íî ê ñâîåìó óæàñó îáíàðóæèëà, ÷òî ìîé [From.GetRootRelation] [From.GetFirstName] æäàë ìåíÿ òàì!;;x
+EVTOPTA21001;Hire someone to find out;;;;;;;;;;;Íàéìó êîãî-íèáóäü, ÷òîáû íàéòè îòâåòû.;;x
+EVTOPTA21003;By [Root.Religion.GetRandomGodName], I had better keep this quiet!;;;;;;;;;;;Ðàäè âñåãî ñâÿòîãî, ëó÷øå äåðæàòü ýòî â òàéíå!;;x
+EVTOPTA21005;The flesh is weak...;;;;;;;;;;;Ïëîòü ñëàáà...;;x
+EVTOPTA21006;This could spell my doom!;;;;;;;;;;;Ìíå êîíåö!;;x
+EVTOPTA21010;That's a relief!;;;;;;;;;;;Êàêîå îáëåã÷åíèå!;;x
+EVTOPTA21011;I guess the child must be mine then..?;;;;;;;;;;;À ìîæåò ðåá¸íîê è ïðàâäà ìîé?;;x
+EVTOPTA21012;Assure him of my faithfulness!;;;;;;;;;;;Ïîïðîáóþ óáåäèòü åãî â ìîåé âåðíîñòè.;;x
+EVTOPTA21013;I'll never be entirely sure...;;;;;;;;;;;ß íèêîãäà íå áóäó äî êîíöà óâåðåí...;;x
+EVTOPTA21015;Now I feel guilty...;;;;;;;;;;;Òåïåðü âèíó ÷óâñòâóþ ÿ...;;x
+EVTOPTA21016;Darling, I can explain!;;;;;;;;;;;Äîðîãîé, ÿ âñ¸ îáúÿñíþ!;;x
+EVTOPTB21001;No, I trust her word!;;;;;;;;;;;Íåò, ÿ åé äîâåðÿþ!;;x
+EVTOPTB21003;Unholy! Expose the traitors!;;;;;;;;;;;Íå÷åñòèâöû! Ðàçîáëà÷èòü èçìåííèêîâ!;;x
+EVTOPTB21006;How embarrassing!;;;;;;;;;;;Ïðîêëÿòüå...;;x
+EVTOPTB21010;I must KNOW. I will confront her directly!;;;;;;;;;;;ß äîëæåí ÇÍÀÒÜ. Ñïðîøó ó íå¸ ñàì.;;x
+EVTOPTB21012;Tearfully admit my affair with [Root.FatherOfUnborn.GetTitledFirstName];;;;;;;;;;;Ïðèçíàþñü, ÷òî [Root.FatherOfUnborn.GetTitledFirstName] - ìîé ëþáîâíèê.;;x
+EVTOPTC21003;Holy... but treasonous. Expose them!;;;;;;;;;;;Áîæåñòâåííî... íî ýòî èçìåíà. Ðàçîáëà÷èòü èõ!;;x
+EVTOPTC21010;Hire more spies!;;;;;;;;;;;Íàéìó áîëüøå øïèîíîâ.;;x
+EVTOPTC21012;He's such a baby. Wrap him around my finger.;;;;;;;;;;;Îí íàèâåí, êàê äèòÿ. Îáâåäó åãî âîêðóã ïàëüöà.;;x
+EVTOPTD21003;This is High Treason!;;;;;;;;;;;Ýòî ãîñóäàðñòâåííàÿ èçìåíà!;;x
+EVTOPTD21010;Lay a trap for her;;;;;;;;;;;Ïðèãîòîâëþ åé ëîâóøêó.;;x
+EVTTOOLTIP21003_TRAP;[This.GetFirstName] flies into a rage!;;;;;;;;;;;[This.GetFirstName] ïðèõîäèò â ÿðîñòü!;;x
+evt_304_desc_a;[FromFrom.Mother.GetFirstName] has borne the child of another man! I cannot believe this betrayal!;;;;;;;;;;;[FromFrom.Mother.GetFirstName] ðîäèë[FromFrom.GetEndA] ðåá¸íêà îò äðóãîãî ìóæ÷èíû! ß íå ìîãó ïîâåðèòü â òàêîå ïðåäàòåëüñòâî!;;x
+evt_CK2_304_desc_b;The fruit of [FromFrom.Mother.GetFirstName]'s shameful infidelity has finally been born. I still cannot believe [FromFrom.Mother.GetSheHe] would betray me so brazenly.;;;;;;;;;;;[FromFrom.Mother.GetFirstName] â÷åðà ðîäèë[FromFrom.GetEndA]. Äèòÿ ïîðîêà íàêîíåö ïîÿâèëîñü íà ñâåò. Äî ñèõ ïîð íå ìîãó ïîâåðèòü, ÷òî [FromFrom.Mother.GetSheHe] ìîã[FromFrom.GetNoneE] òàê æåñòîêî ïðåäàòü ìåíÿ.;;x
+evt_400_desc_a;I am surely with child... my husband will be pleased.;;;;;;;;;;;ß óâåðåíà, ÷òî áåðåìåííà... Ìîé ìóæ áóäåò äîâîëåí.;;x
+evt_CK2_400_desc_b;I am surely with child... I wonder what my late husband would think of this.;;;;;;;;;;;ß óâåðåíà, ÷òî áåðåìåííà... Æàëü ìîé ïîêîéíûé ìóæ íå çàñòàë ýòîò ìîìåíò.;;x
+evt_CK2_400_desc_c;I am surely with child... my consort will be pleased.;;;;;;;;;;;ß óâåðåíà, ÷òî áåðåìåííà... ìîé íàëîæíèê áóäåò äîâîëåí.;;x
+evt_CK2_400_DESC_D;I am surely with child. I wonder which one of my consorts is the lucky father...;;;;;;;;;;;ß óâåðåíà, ÷òî áåðåìåííà. Èíòåðåñíî, êòî æå èç ìîèõ íàëîæíèîâ - ñ÷àñòëèâûé îòåö?;;x
+EVTDESC300;I am a bastard!;;;;;;;;;;;ß - áàñòàðä!;;x
+EVTDESC301;It seems my amorous adventures have resulted in a child - little [From.GetFirstName] is my spitting image.;;;;;;;;;;;Êàæåòñÿ, ìîè ëþáîâíûå ïðèêëþ÷åíèÿ ïðèâåëè ê ïîÿâëåíèþ ðåá¸íêà - ìàëÿâêà [From.GetFirstName] - ìîÿ òî÷íàÿ êîïèÿ.;;x
+EVTDESC302;I am [From.GetTitledFirstName]!;;;;;;;;;;;ß - [From.GetTitledFirstName]!;;x
+EVTDESC303;[From.GetTitledFirstName] has declared our baby trueborn!;;;;;;;;;;;[From.GetTitledFirstName] îáúÿâèë[From.GetEndA] íàøåãî ðåá¸íêà çàêîííîðîæä¸ííûì!;;x
+EVTDESC305;[Root.Spouse.GetFirstName] has not only cheated on me, but has legitimized his accursed spawn!;;;;;;;;;;;[Root.Spouse.GetFirstName] íå òîëüêî èçìåíèë[From.GetEndA] ìíå, íî è ïðèçíàë[From.GetEndA] ñâî¸ ïðîêëÿòîå îòðîäüå!;;x
+EVTDESC306;I am [From.GetTitledFirstName]!;;;;;;;;;;;ß - [From.GetTitledFirstName]!;;x
+EVTDESC307;[From.GetTitledFirstName] has acknowledged our child.;;;;;;;;;;;[From.GetTitledFirstName] ïðèçíàë[From.GetEndA] íàøåãî ðåá¸íêà.;;x
+EVTDESC308;My sweet [Root.Spouse.GetFirstName] has acknowledged the bastard child he had with some slut.;;;;;;;;;;;Ìîé ìèëûé [Root.Spouse.GetFirstName] ïðèçíàë[Root.Spouse.GetEndA] âíåáðà÷íîãî ðåá¸íêà, êîòîðîãî [Root.Spouse.GetSheHe] çàäåëàë ñ êàêîé-òî øëþõîé.;;x
+EVTDESC309;I remain [From.GetTitledFirstName];;;;;;;;;;;Ìî¸ èìÿ ïî-ïðåæíåìó [From.GetTitledFirstName].;;x
+EVTDESC310;[From.GetTitledFirstName] refuses to acknowledge our baby as his.;;;;;;;;;;;[From.GetTitledFirstName] îòêàçà[From.GetLasLsya] ïðèçíàòü íàøåãî ðåá¸íêà, êàê ñâîåãî.;;x
+EVTDESC311;The baby, [From.GetTitledFirstName], is surely my husband's bastard, though darling [Root.Spouse.GetFirstName] denies it.;;;;;;;;;;;Ðåá¸íîê, [From.GetTitledFirstName], áåçóñëîâíî, áàñòàðä ìîåãî ìóæà, õîòÿ äîðîãîé [Root.Spouse.GetFirstName] ýòî è îòðèöàåò.;;x
+EVTDESC315;My labor was difficult and I fear that something is wrong with me. The midwives look worried, and I feel so terribly weak...;;;;;;;;;;;Ðîäû ïðîøëè òÿæåëî è áîþñü, ÷òî-òî ñî ìíîé íå òàê. Ïîâèòóõè âûãëÿäÿò îáåñïîêîåííûìè, à ÿ ÷óâñòâóþ æóòêóþ ñëàáîñòü...;;x
+EVTDESC319;It seems my dalliance with [From.Mother.GetTitledFirstName] has resulted in a child. Fortunately, [From.Father.GetTitledFirstName] thinks little [From.GetFirstName] is his!;;;;;;;;;;;Âèäèìî, ìîè ïîõîæäåíèÿ ïðèâåëè ê òîìó, ÷òî [From.GetTitledFirstName] ðîäèëà ðåá¸íêà. Ê ñ÷àñòüþ, [FromFrom.Father.GetTitledFirstName] äóìàåò, ÷òî [FromFrom.GetFirstName] - åãî ðåá¸íîê!;;x
+EVTOPTA301;Legitimize [From.GetHerHim];;;;;;;;;;;Ëåãèòèìèðîâàòü [From.GetHersHis];;x
+EVTOPTA301_DESC;§Y[From.GetFirstName]§! is declared a legitimate [From.GetSonDaughter] with full inheritance rights.\n;;;;;;;;;;;§Y[From.GetFirstName]§! îáúÿâëåí[From.GetEndA] êàê ì[From.GetOyaOy] çàêîíí[From.GetAyaYy] [From.GetSonDaughter] è â ïîëíîé ìåðå îáðåë[From.GetEndA] ïðàâà íàñëåäîâàíèÿ.\n;;x
+EVTOPTA301_legchildren_TOOLTIP;All of §Y[Root.GetTitledFirstName]'s§! other children's opinion of [Root.GetHerHim] changes by §R-40§! for §Y12§! months. §Y(Legitimized Bastard)§!;;;;;;;;;;;Âñå ïðî÷èå Âàøè äåòè èçìåíÿò ñâî¸ îòíîøåíèå ê Âàì íà §R-40§! íà ñëåäóþùèå §Y12§! ìåñÿöåâ. §Y(Óçàêîíèë[This.GetEndA] áàñòàðäà)§!;;x
+EVTOPTA303;He must still love me...;;;;;;;;;;;Íàâåðíîå, îí âñ¸ åù¸ ëþáèò ìåíÿ...;;x
+EVTOPTA304;Woe is me!;;;;;;;;;;;Ãîðå ìíå!;;x
+EVTOPTA305;This means war!;;;;;;;;;;;Çíà÷èò âîéíà!;;x
+EVTOPTA307;How gracious;;;;;;;;;;;Êàê ëþáåçíî!;;x
+EVTOPTA308;Well, it could be worse;;;;;;;;;;;Íó, ìîãëî áûòü è õóæå;;x
+EVTOPTA310;He's the true bastard!;;;;;;;;;;;Ìåðçàâåö!;;x
+EVTOPTA311;He's but a man;;;;;;;;;;;Áóäü ìóæ÷èíîé - ïðèçíàé ïðàâäó.;;x
+EVTOPTA315;I must pray to [Root.Religion.GetRandomGodName];;;;;;;;;;;ß áóäó ìîëèòüñÿ.;;x
+EVTOPTA319;Oops;;;;;;;;;;;Óïñ;;x
+EVTOPTB301;Acknowledge [From.GetHerHim] as mine;;;;;;;;;;;Ïðèçíàòü [From.GetHersHis], êàê ñâîåãî ðåá¸íêà.;;x
+EVTOPTB301_DESC;§Y[From.GetFirstName]§! remains illegitimate, but is sanctioned as my [From.GetSonDaughter] and can be married off to form alliances. If [From.GetSubjectPronoun] ever has children, a new dynasty will be created for that line.\n;;;;;;;;;;;§Y[From.GetFirstName]§! îñòà[From.GetLasLsya] âíå çàêîíà, íî îòíûíå ïðèçíàí[From.GetEndA] êàê ì[From.GetOyaOy] [From.GetSonDaughter] è ìîæåò âñòóïàòü â áðàê äëÿ ôîðìèðîâàíèÿ ñîþçîâ. [From.GetHersHisCap] äåòè áóäóò ïðèíàäëåæàòü íîâîé äèíàñòèè.\n;;x
+EVTOPTC301;Denounce the child;;;;;;;;;;;Îòêàçàòüñÿ îò ðåá¸íêà;;x
+EVTOPTC301_DESC;§Y[From.GetFirstName]§! is denounced as a bastard with an unknown father, having no official connection to me at all.\n;;;;;;;;;;;§Y[From.GetFirstName]§! îòâåðãíóò[From.GetEndA] è îñòà[From.GetLasLsya] áàñòàðäîì íåèçâåñòíîãî îòöà, íå èìåÿ íèêàêîé îôèöèàëüíîé ñâÿçè ñî ìíîé.\n;;x
+EVTOPTD301;Not my problem. [From.GetHerHisCap] mother will deal with this.;;;;;;;;;;;Íå ìîÿ ïðîáëåìà. Ïóñòü [From.GetHersHis] ìàòü ñ ýòèì ðàçáèðàåòñÿ.;;x
+EVTTOOLTIP302;[This.GetFirstName] becomes a member of House [This.Father.GetOnlyDynastyName];;;;;;;;;;;[This.GetFirstName] áóäåò ïðèíàäëåæàòü ê äèíàñòèè [This.Father.GetOnlyDynastyName];;x
+EVTTOOLTIP303;Lady [This.GetFirstName], the mother, is most pleased;;;;;;;;;;;[This.GetFirstName], ìàòü ðåá¸íêà, áóäåò î÷åíü ðàäà;;x
+EVTTOOLTIP304;[This.GetTitledFirstName], the mother's husband, is most displeased...;;;;;;;;;;;[This.GetTitledFirstName], ìóæ ìàòåðè ðåá¸íêà, áóäåò íåäîâîëåí...;;x
+EVTTOOLTIP305;[Root.Father.GetTitledFirstName]'s wife [Root.Father.Spouse.GetTitledFirstName] is enraged;;;;;;;;;;;Æåíà îòöà ðåá¸íêà, [Root.Father.Spouse.GetFirstName], áóäåò â ÿðîñòè;;x
+EVTTOOLTIP306;[This.GetFirstName] will be regarded as your [This.GetSonDaughter] and can be legitimized later;;;;;;;;;;;[This.GetFirstName] îòíûíå áóäåò ïðèçíàí[This.GetEndA] êàê Âàø[This.GetEndA] [This.GetSonDaughter]. Ïîçäíåå ìîæíî áóäåò ïðèçíàòü çàêîííûìè [This.GetHersHis] ïðàâà íà íàñëåäîâàíèå.;;x
+EVTTOOLTIP307;Lady [This.GetFirstName], the mother, is pleased;;;;;;;;;;;[This.GetFirstName], ìàòü ðåá¸íêà, áóäåò ðàäà;;x
+EVTTOOLTIP308;[Root.Father.GetFirstName]'s wife [Root.Father.Spouse.GetFirstName] is angered;;;;;;;;;;;Æåíà îòöà ðåá¸íêà, [Root.Father.Spouse.GetFirstName], áóäåò âîçìóùåíà.;;x
+EVTTOOLTIP309;The child remains [This.GetDynName];;;;;;;;;;;Ðåá¸íîê áóäåò ïðèíàäëåæàòü ê äèíàñòèè [This.GetOnlyDynastyName];;x
+EVTTOOLTIP310;Lady [This.GetFirstName], the mother, is humiliated;;;;;;;;;;;Ìàòü, [This.GetFirstName], óíèæåíà;;x
+EVTDESC401;Unmarried and pregnant... The fates have cursed me!;;;;;;;;;;;Íå çàìóæåì è áåðåìåííà... Ñóäüáà ïðîêëÿëà ìåíÿ!;;x
+EVTDESC402;Oh dear, I must be with child. Will my husband believe it is his?;;;;;;;;;;;Àõ, áîæå ìîé, ÿ äîëæíî áûòü áåðåìåííà. Ïîâåðèò ëè ìîé ìóæ, ÷òî ýòî îò íåãî?;;x
+EVTDESC403;Fate smiles upon me, my wife [From.GetFirstName] is pregnant!;;;;;;;;;;;Ñóäüáà óëûáàåòñÿ ìíå: ìîÿ æåíà [From.GetFirstName] áåðåìåííà!;;x
+EVTDESC404;My [GetFromRelation] is pregnant, but I was away, wasn't I?;;;;;;;;;;;Ìîÿ [From.GetRootRelation] áåðåìåííà, íî ìåíÿ äàâíî íå áûëî äîìà. Ñòðàííî...;;x
+EVTDESC404_2;My [GetFromRelation] [From.GetFirstName] tells me she is pregnant, but that can't be right, can it?;;;;;;;;;;;Ìîÿ [From.GetRootRelation] [From.GetFirstName] ãîâîðèò, ÷òî îíà áåðåìåííà, íî âåäü ýòîãî íå ìîæåò áûòü... èëè ìîæåò?;;x
+EVTDESC404_KF;My [GetFromRelation] [From.GetFirstName] is pregnant and I can't possibly be the father! The realm is already astir with gossip - everyone knows [From.FatherOfUnborn.GetTitledName] is the real father.;;;;;;;;;;;Ìîÿ [From.GetRootRelation] [From.GetFirstName] áåðåìåííà, íî ÿ íèêàê íå ìîãó áûòü îòöîì å¸ áóäóùåãî ðåá¸íêà! Ñòðàíà óæå ïîëíà ñëóõàìè - êàæäûé çíàåò, ÷òî [From.FatherOfUnborn.GetTitledName] - íàñòîÿùèé îòåö.;;x
+EVTDESC410;I am surely with child... my lord will be pleased.;;;;;;;;;;;Ïîõîæå, ÿ áåðåìåííà... ìîé õîçÿèí áóäåò ðàä.;;x
+EVTDESC412;Oh dear, I must be with child. Will my lord believe it is his?;;;;;;;;;;;Î Áîæå, ÿ áåðåìåííà. Ïîâåðèò ëè õîçÿèí, ÷òî ýòî åãî ðåá¸íîê?;;x
+EVTDESC413;Fate smiles upon me, my concubine [From.GetFirstName] is pregnant!;;;;;;;;;;;Ñóäüáà óëûáàåòñÿ ìíå, ìîÿ íàëîæíèöà [From.GetFirstName] áåðåìåííà!;;x
+EVTOPTA402;Good news darling!;;;;;;;;;;;Õîðîøàÿ íîâîñòü, äîðîãîé!;;x
+EVTOPTA404;Doubt besets me!;;;;;;;;;;;Ñîìíåíèå ãëîæåò ìåíÿ!;;x
+EVTOPTA412;Good news darling!;;;;;;;;;;;Õîðîøèå íîâîñòè, äîðîãîé!;;x
+EVTOPTB404;Denounce them both as traitors!;;;;;;;;;;;Îñóäèòü îáîèõ çà èçìåíó!;;x
+EVTTOOLTIP403;You tell §Y[Root.FatherOfUnborn.GetFirstName]§! he will be a father.;;;;;;;;;;;§Y[Root.FatherOfUnborn.GetFirstName]§! äîëæ[Root.FatherOfUnborn.GetNaEn] çíàòü, ÷òî îí ñòàíåò îòöîì;;x
+EVTTOOLTIP404;You tell a white lie to §Y[Root.Spouse.GetFirstName]§!.;;;;;;;;;;;Íàâðó ñ òðè êîðîáà. §Y[Root.Spouse.GetFirstName]§! âñ¸ ðàâíî íå äîãàäàåòñÿ.;;x
+EVTTOOLTIP413;Tell §Y[Root.FatherOfUnborn.GetFirstName]§! he will be a father;;;;;;;;;;;Ðàññêàçàòü, ÷òî §Y[Root.FatherOfUnborn.GetFirstName]§! ñòàíåò îòöîì;;x
+EVTDESC450;I've caught [Root.Liege.GetTitle] [Root.Liege.GetFirstName] eyeing me...;;;;;;;;;;;Î÷åâèäíî, ÷òî [Root.Liege.GetTitle] [Root.Liege.GetFirstName] íå ìîæåò îòîðâàòü îò ìåíÿ âçãëÿä.;;x
+EVTDESC451;I am starting to think [From.GetTitledFirstName] might fancy me...;;;;;;;;;;;Òðóäíî íå çàìåòèòü, ñ êàêèì âîæäåëåíèåì [From.GetTitledFirstName] ñìîòðèò íà ìåíÿ, êàê è [From.GetHersHis] íåïðèñòîéíûå íàì¸êè. [From.GetSheHeCap] ÿâíî ìåíÿ õî÷åò.;;x
+EVTDESC452;I awaken to the sound of my door creaking open... It's [Root.Liege.GetTitle] [Root.Liege.GetFirstName]!;;;;;;;;;;;ß ïðîñíó[Root.GetLasLsya] îò êàêîãî-òî øîðîõà, îêàçûâûàåòñÿ â ì[Root.GetMyChamberACC] âîø[Root.Liege.GetLaYol] ñàì[Root.Liege.GetEndA] [Root.Liege.GetTitle] [Root.Liege.GetFirstName]!;;x
+EVTDESC453;I went to [From.GetFirstName]'s chamber and gave [From.GetHerHim] a good tumble!;;;;;;;;;;;[From.GetFirstName] ïðèíÿë[From.GetEndA] ìåíÿ â ñâ[From.GetMyChamberPREP], è ìû íåïëîõî ïîðåçâèëèñü!;;x
+EVTDESC454;[From.GetLordLady] [From.GetFirstName] has spurned my subtle advances.;;;;;;;;;;;[From.GetFirstName] îòâåðã[From.GetNoneE] ìîè òîíêèå íàì¸êè.;;x
+EVTDESC455;Lady [From.GetFirstName] screamed and made a fuss in front of my own guards!;;;;;;;;;;;[From.GetFirstName] çàêðè÷àë[From.GetEndA] è óñòðîèë[From.GetEndA] ñóìàòîõó ïðÿìî ïåðåä ìîèìè ñòðàæíèêàìè!;;x
+EVTOPTA450;Encourage [Root.Liege.GetHerHim];;;;;;;;;;;Ïîääåðæàòü [Root.Liege.GetHersHis];;x
+EVTOPTA451;Make a move.;;;;;;;;;;;Ïîðà ñäåëàòü âñòðå÷íûé øàã.;;x
+EVTOPTA452;What took [From.GetObjectPronoun] so long?;;;;;;;;;;;×òî æå [From.GetSheHe] òàê äîëãî?;;x
+EVTOPTA453;It's good to be the [This.GetTitle];;;;;;;;;;;Õîðîøî, êîãäà òû [This.GetTitle];;x
+EVTOPTA454;How could [From.GetSheHe] resist my charms?;;;;;;;;;;;Êàê [From.GetSheHe] ìîæåò óñòîÿòü ïåðåä ìîèìè ÷àðàìè?;;x
+EVTOPTA455;Women!;;;;;;;;;;;Ýõ, [From.GetMenWomen]!;;x
+EVTOPTB450;Avoid him;;;;;;;;;;;Èçáåãàòü [Root.Liege.GetHersHis];;x
+EVTOPTB451;It's not appropriate!;;;;;;;;;;;Íåò, ýòî íåïðàâèëüíî!;;x
+EVTOPTB452;Dissuade [From.GetObjectPronoun];;;;;;;;;;;Îòãîâîðèòü [From.GetHersHis].;;x
+EVTOPTC451;[From.GetSheHeCap]'s not my type;;;;;;;;;;;[From.GetSheHeCap] - íå ìîé òèï.;;x
+EVTOPTC452;Scream for help!;;;;;;;;;;;Çàêðè÷àòü î ïîìîùè!;;x
+EVTTOOLTIP451;The [Root.Liege.GetTitle] responds to my advances;;;;;;;;;;;[Root.Liege.GetTitle] ïîëîæèòåëüíî îòðåàãèðóåò íà ìîè íàì¸êè;;x
+EVTTOOLTIP452;You will go to [This.GetHerHis] chamber...\n;;;;;;;;;;;ß ïîéäó â [This.GetHersHis] [This.GetLocChamberACC]\n;;x
+EVTTOOLTIP453;[This.GetTitledFirstName] becomes my lover;;;;;;;;;;;ß è [This.GetTitledFirstName] ñòàíåì ëþáîâíèêàìè;;x
+EVTTOOLTIP454;[This.GetTitledFirstName] becomes disappointed;;;;;;;;;;;[This.GetTitledFirstName] ðàçî÷àðóåòñÿ;;x
+EVTTOOLTIP455;[This.GetTitledFirstName] becomes embarrassed and resentful;;;;;;;;;;;[This.GetTitledFirstName] ÷óâñòâóåò ñìóùåíèå è îáèäó;;x
+EVTDESCA316; Despite my physicians' assurances to the contrary, giving birth only worsened my condition. The midwives look worried, and I feel so terribly weak... I am bound to my bedroom, in a state halfway between nightmares and reality, struggling, on the brink of death.;;;;;;;;;;;Íåñìîòðÿ íà çàâåðåíèÿ ëåêàðåé, ðîäû åù¸ áîëüøå óõóäøèëè ìî¸ ñîñòîÿíèå. Ïîâèòóõè âûãëÿäÿò âñòðåâîæåííûìè, à ÿ ÷óâñòâóþ ñåáÿ óæàñíî... Æóòêàÿ ñëàáîñòü ïðèêîâàëà ìåíÿ ê ïîñòåëè, íî÷íûå êîøìàðû ñìåøàëèñü ñ ðåàëüíîñòüþ. Êàæåòñÿ, ÿ óìèðàþ.;;x
+EVTDESCB316;My labor worsened the already precarious condition I was in. The midwives look worried, and I feel so terribly weak... I am bound to my bedroom, in a state halfway between nightmares and reality, struggling, on the brink of death.;;;;;;;;;;;Ðîäû óõóäøèëè è áåç òîãî òÿæ¸ëîå ñîñòîÿíèå, â êîòîðîì ÿ ïðåáûâàë[Root.GetEndA] â ïîñëåäíèå ìåñÿöû. Ïîâèòóõè âûãëÿäÿò âñòðåâîæåííûìè, à ÿ ÷óâñòâóþ ñåáÿ óæàñíî... Æóòêàÿ ñëàáîñòü ïðèêîâàëà ìåíÿ ê ïîñòåëè, íî÷íûå êîøìàðû ñìåøàëèñü ñ ðåàëüíîñòüþ. Êàæåòñÿ, ÿ óìèðàþ.;;x

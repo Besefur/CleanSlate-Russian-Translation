@@ -1,19 +1,14 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC88750;Your master, [Root.Liege.GetTitledName], has come forward in private with a suggestion that you, as [Root.Liege.GetHerHis] [Root.Liege.GetLordSpiritualName], issue a fatwa against [From.GetTitledName]. No doubt the [Root.Liege.GetTitle] has [Root.Liege.GetHerHis] own motives for this, but it cannot be denied that [From.GetFirstName] leads a decadent lifestyle with little room for piety.;;;;;;;;;;;;;x
-EVTDESC88751;Esteemed [Root.GetTitle], I have taken your suggestion into consideration, and after much thought I have arrived at the same conclusion as you. A fatwa will be issued.\n\nYour faithful servant,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC88752;Your decadent ways and lack of devotion to Allah (glorified and exalted be He) can no longer be tolerated. After consulting with my master, [From.Liege.GetTitledFirstName], I have reached the conclusion that a fatwa must be issued against you. May you return to the path of righteousness before it is too late.\n\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC88753;My [Root.GetTitle], I must object to this shameful attempt on your part to invoke the will of Allah (glorified and exalted be He) in your petty feud. There will be no fatwa that you can take advantage of to further your own ambitions.\n\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC88754;You put forward the name of [From.GetTitledName] to your [Root.GetMyLordSpiritualName], with the not so subtle suggestion that [From.GetSheHe] may be deserving of a fatwa.;;;;;;;;;;;;;x
-
-EVTOPTA88750;Very well, the fatwa shall be issued.;;;;;;;;;;;;;x
-EVTOPTA88752;This is an outrage!;;;;;;;;;;;;;x
-EVTOPTA88753;You will come to regret this.;;;;;;;;;;;;;x
-EVTOPTA88754;For the sake of our children, if nothing else.;;;;;;;;;;;;;x
-
-EVTOPTB88750;No, their squabbling does not concern me.;;;;;;;;;;;;;x
-
-EVTTOOLTIP88750;You suggest someone deserving of a fatwa to your [From.GetMyLordSpiritualName].;;;;;;;;;;;;;x
-EVTTOOLTIP88751;Informed about fatwa.;;;;;;;;;;;;;x
-EVTTOOLTIP88753;Informed fatwa will not be issued.;;;;;;;;;;;;;x
-
+EVTDESC88750;Your master, [Root.Liege.GetTitledName], has come forward in private with a suggestion that you, as [Root.Liege.GetHerHis] [Root.Liege.GetLordSpiritualName], issue a fatwa against [From.GetTitledName]. No doubt the [Root.Liege.GetTitle] has [Root.Liege.GetHerHis] own motives for this, but it cannot be denied that [From.GetFirstName] leads a decadent lifestyle with little room for piety.;;;;;;;;;;;Âàø ñþçåðåí [Root.Liege.GetTitledName] âûñòóïèë[Root.Liege.GetEndA] ñ ÷àñòíûì ïðåäëîæåíèåì, ÷òîáû Âû, êàê [Root.Liege.GetHersHis] [Root.Liege.GetLordSpiritualName] èçäàëè ôåòâó ïðîòèâ [From.GetAgedPersonGEN], èçâåñòí[From.GetOyOgo] êàê [From.GetTitledFirstName]. Íåò ñîìíåíèé, ÷òî [Root.Liege.GetTitle] çàèíòåðåñîâàí[Root.Liege.GetEndA] â âûíåñåíèè ïîäîáíîãî ðåøåíèÿ, íî îí íå ìîæåò îòðèöàòü òîãî, ÷òî [From.GetFirstName] â ñâî¸ì óïàäíè÷åñêîì îáðàçå æèçíè íå îòâîäèò äîëæíîå ìåñòî áëàãî÷åñòèþ.;;x
+EVTDESC88751;Esteemed [Root.GetTitle], I have taken your suggestion into consideration, and after much thought I have arrived at the same conclusion as you. A fatwa will be issued.\n\nYour faithful servant,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ÿ âíèìàòåëüíî ðàññìîòðåë[From.GetEndA] Âàøå ïðåäëîæåíèå, è, ïîñëå äîëãèõ ðàçìûøëåíèé, ïðèø[From.GetLaYol] ê òàêîìó æå âûâîäó, ÷òî è Âû. Ôåòâà áóäåò âûíåñåíà.\n [From.GetTitledName];;x
+EVTDESC88752;Your decadent ways and lack of devotion to Allah (glorified and exalted be He) can no longer be tolerated. After consulting with my master, [From.Liege.GetTitledFirstName], I have reached the conclusion that a fatwa must be issued against you. May you return to the path of righteousness before it is too late.\n\n[From.GetTitledName];;;;;;;;;;;Âû âñòàëè íà ïóòü óïàäêà è îòñóòñòâèÿ ïðåäàííîñòè Àëëàõó (äà áóäåò ñëàâåí Îí è âîçâûøåí!). Íåò íèêàêîé âîçìîæíîñòè áîëåå òåðïåòü ïîäîáíîå. Ïîñëå êîíñóëüòàöèè ñ ìîèì ñþçåðåíîì, [From.Liege.GetTitledFirstName], ÿ ïðèø¸ë ê âûâîäó î íåîáõîäèìîñòè âûíåñåíèè ïðîòèâ Âàñ ôåòâû. Æåëàþ Âàì âåðíóòüñÿ íà ïóòü ïðàâåäíîñòè, ïîêà íå ñòàëî ñëèøêîì ïîçäíî.\n\n[From.GetTitledName];;x
+EVTDESC88753;My [Root.GetTitle], I must object to this shameful attempt on your part to invoke the will of Allah (glorified and exalted be He) in your petty feud. There will be no fatwa that you can take advantage of to further your own ambitions.\n\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ÿ ñ÷èòàþ ñâîè äîëãîì âîçðàçèòü íà Âàøó ïîçîðíóþ ïîïûòêó ñîñëàòüñÿ íà âîëþ Àëëàõà (äà áóäåò ñëàâåí Îí è âîçâûøåí!) â Âàøåé ìåëêîé ññîðå. Ôåòâû, êîòîðîé Âû ñìîãëè áû âîñïîëüçîâàòüñÿ â ëè÷íûõ öåëÿõ, íå áóäåò.\n\n[From.GetTitledName];;x
+EVTDESC88754;You put forward the name of [From.GetTitledName] to your [Root.GetMyLordSpiritualName], with the not so subtle suggestion that [From.GetSheHe] may be deserving of a fatwa.;;;;;;;;;;;[Root.GetMyLordSpiritualName] ïîëó÷èë[Root.job_spiritual.GetEndA] ïèñüìî ñ ÿâíûì íàì¸êîì, ÷òî [From.GetTitledFirstName] çàñëóæèâàåò âûíåñåíèÿ ôåòâû.;;x
+EVTOPTA88750;Very well, the fatwa shall be issued.;;;;;;;;;;;Õîðîøî, ôåòâà áóäåò âûíåñåíà.;;x
+EVTOPTA88752;This is an outrage!;;;;;;;;;;;Ýòî áåçîáðàçèå!;;x
+EVTOPTA88753;You will come to regret this.;;;;;;;;;;;Òû åù¸ ïîæàëååøü îá ýòîì.;;x
+EVTOPTA88754;For the sake of our children, if nothing else.;;;;;;;;;;;Ðàäè íàøèõ äåòåé, åñëè íå ñûùåòñÿ íè÷åãî èíîãî;;x
+EVTOPTB88750;No, their squabbling does not concern me.;;;;;;;;;;;Íåò, Âàøè ñêëîêè ìåíÿ íå êàñàþòñÿ.;;x
+EVTTOOLTIP88750;You suggest someone deserving of a fatwa to your [From.GetMyLordSpiritualName].;;;;;;;;;;;Âû íàìåêíóëè ñâîåìó äóõîâíèêó, ÷òî êîå-êòî çàñëóæèâàåò ôåòâû.;;x
+EVTTOOLTIP88751;Informed about fatwa.;;;;;;;;;;;Óçíàåò î âûíåñåíèè ôåòâû.;;x
+EVTTOOLTIP88753;Informed fatwa will not be issued.;;;;;;;;;;;Óçíàåò, ÷òî ôåòâà âûíåñåíà íå áóäåò.;;x

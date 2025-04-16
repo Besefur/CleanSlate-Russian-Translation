@@ -1,236 +1,229 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTNAME6301;The Turnip Act;;;;;;;;;;;;;x
-EVTNAME6302;The Pants Act;;;;;;;;;;;;;x
-EVTNAME6303;The Hole in the Wall Act;;;;;;;;;;;;;x
-EVTNAME6304;The Cessation of Violence Act;;;;;;;;;;;;;x
-
-EVTDESC6000;A strange, reddish-pink rash appeared on my palms and soles not long ago along with a fever and headache. Some parts of the rash has developed abscesses and is both ugly and itchy.;;;;;;;;;;;;;x
-EVTDESC6001;The rash disappeared and took the headache and fever with it.;;;;;;;;;;;;;x
-EVTDESC6010;First I lost my eyebrows and eyelashes, then my nose deformed. People fear me and I must hide my face as to not cause hysteria among others.;;;;;;;;;;;;;x
-EVTDESC6011;A man approached me and I tried to duck away from him, not let him see my disfigurement. He told me he had a cure and sold me a potion for only 25 gold coins.;;;;;;;;;;;;;x
-EVTDESC6020;The voices in my head are telling me to do horrible things!;;;;;;;;;;;;;x
-EVTDESC6020_COMA;I awoke from my unending nightmare screaming. I have been in the abyss, an indescribable darkness. How long have I been asleep? Weeks, years?!;;;;;;;;;;;;;x
-EVTDESC6020_FEVER;The fever has broken - perhaps only temporarily - but I can still see the shadowy figures lurking in the corners. Are they real?;;;;;;;;;;;;;x
-EVTDESC6020_PARA;They are all watching me, conspiring... even my closest friends. Dark eyes, cold eyes... evil eyes.;;;;;;;;;;;;;x
-EVTDESC6020_PRISON;There are things in the walls. Things... Not rats, oh no! Not vermin at all... but scratching, watching, trying to drive me insane!;;;;;;;;;;;;;x
-EVTDESC6020_ZEAL;The dark stain of heresy has infected everyone around me. [Root.Religion.GetRandomEvilGodNameCap] is winning the war for humanity's souls. No one is pure... except me.;;;;;;;;;;;;;x
-EVTDESC6021;I was later told that my strange behavior and fear of the moon was caused by the voices in my head. The [Root.Religion.GetPriestTitle] managed to clear my head of voices and now I have total silence.;;;;;;;;;;;;;x
-EVTDESC6030;I am speaking in tongues, screaming obscenities at random times, most often when the [Root.Religion.GetPriestTitle] preaches and am sometimes lying on the ground writhing in apparent pain. I seldom remember these things and people believe me to be possessed.;;;;;;;;;;;;;x
-EVTDESC6030_MUS;I am speaking in tongues, screaming obscenities at random times, most often when the imam is talking and am sometimes lying on the ground writhing in apparent pain. I seldom remember these things and people believe me to be possessed.;;;;;;;;;;;;;x
-EVTDESC6031;Vade retro satana!'\n\nThe priest's exorcism worked beautifully, I haven't spoken in tongues or screamed obscenities for several days!;;;;;;;;;;;;;x
-EVTDESC6031_ALL;As the [Root.Religion.GetPriestTitle] slowly pulled me out of the holy spring, the water started boiling and frothing, paint running off the arcane runes smeared on my naked body. Filled with wonder, I realized that the gibbering voices in my head had finally fallen silent!;;;;;;;;;;;;;x
-EVTDESC6031_MUS;By reciting The Throne Verse from the Qur'an and invoking Allah's help the imam managed to repair the damage in me caused by sihr or witchcraft. To be on the safe side, we also recited together the three last suras from the Qur'an: Surat al-Ikhlas (The Fidelity), Surat al-Falaq (The Dawn) and Surat al-Nas (Mankind).;;;;;;;;;;;;;x
-EVTDESC6040;My moodiness and tendency to lash out at people is getting worse. I sleep too little and can't seem to stop worrying.;;;;;;;;;;;;;x
-EVTDESC6041;The world will not weigh me down anymore, I have a new spring in my step, joy in my heart and a smile on my face.;;;;;;;;;;;;;x
-EVTDESC6050;I find myself lying in bed all day, the act of getting up almost as difficult as that of ruling. Food tastes bland, and my time spent with friends doesn't bring the joy it once did. I don't really understand why, but I hate my life.;;;;;;;;;;;;;x
-EVTDESC6051;After a couple of days just spending some time doing things I love, hunting, reading and visiting friends, life does not seem as grey as it did before.;;;;;;;;;;;;;x
-EVTDESC6060;I don't feel too well, something is wrong with me. I am burning up with fever, my nose is running and my head feels as if someone is banging something hard against it.;;;;;;;;;;;;;x
-EVTDESC6061;I woke this morning feeling much better. It seems that my illness has passed.;;;;;;;;;;;;;x
-EVTDESC6062;Nana says I am not sick anymore.;;;;;;;;;;;;;x
-EVTDESC6070;This cough is killing me! It started as chest pain and shortness of breath, then I started coughing up phlegm and now blood!;;;;;;;;;;;;;x
-EVTDESC6071;The cough disappeared, thank [Root.Religion.GetRandomGodName]! I still feel a bit weak but the coughing, the chest pain and the shortness of breath are gone.;;;;;;;;;;;;;x
-EVTDESC6080;When the hot cautery touched the open wound, I couldn't hold the scream back. I cursed the doctor who only laughed, told me to take it easy and not pick on the wound.;;;;;;;;;;;;;x
-EVTDESC6081;The old wound has finally healed, leaving a pretty grotesque scar behind.;;;;;;;;;;;;;x
-EVTDESC6082;An old wound is aggravating and painful;;;;;;;;;;;;;x
-EVTDESC6100;My body may be sapless and infirm, but my mind is as healthy as ever!;;;;;;;;;;;;;x
-EVTDESC6110;Where am I? Who are these people? Oh, pretty colors...;;;;;;;;;;;;;x
-EVTDESC6111;I haven't coughed for days and the pain is gone. Fate has granted me reprieve.;;;;;;;;;;;;;x
-EVTDESC6112;I feel weak as a babe, but the cursed fever has finally broken!;;;;;;;;;;;;;x
-EVTDESC6113;The spots are receding and the fever has broken. Am I really cured?;;;;;;;;;;;;;x
-EVTDESC6114;I am alive... I AM ALIVE!;;;;;;;;;;;;;x
-EVTDESC6115;It takes more to kill me than measly measles!;;;;;;;;;;;;;x
-EVTDESC6116;I think I made it through this cursed disease.;;;;;;;;;;;;;x
-EVTDESC6200;This voice calling to me, telling me I was a bad person, telling me how evil I was. I realized that this was no ordinary voice, this was Jesus Christ, our Lord and saviour himself. I knew that I would have to live a better life.;;;;;;;;;;;;;x
-EVTDESC6201;Jesus Christ our Lord has commanded me to give more to the poor. I cannot ignore his calling.;;;;;;;;;;;;;x
-EVTDESC6202;My sin is too great so I must show repentance. I care not what others think Heaven is only for the truly repentant. I will don the cilice to show the depth of my repentance.;;;;;;;;;;;;;x
-EVTDESC6203;I saw a hairy star in the sky, I swear it to be true. 'Twas the color of blood I tell thee. It was if the Lord God himself was bleeding.;;;;;;;;;;;;;x
-EVTDESC6204;For too long I have pandered to my lustful yearning, Jesus tells me it is a mortal sin, I must stop it now. ;;;;;;;;;;;;;x
-EVTDESC6205;The life of virtuous is not easy, but Jesus commands me to resist the carnal urges.;;;;;;;;;;;;;x
-EVTDESC6206;I hear him admonish me, I should not be eating for the sole motive of sensual gratification. I must stop.;;;;;;;;;;;;;x
-EVTDESC6207;The road to heaven is hard and demanding. Jesus tells me I must be self controlled and disciplined.;;;;;;;;;;;;;x
-EVTDESC6208;I try to justify it to him, but I know I lie not just to him, but to myself. I condemned things eternal for the sake of temporal things.;;;;;;;;;;;;;x
-EVTDESC6209;I feel the love of God infuse my soul. Jesus tells me it is only way to truly glorify God.;;;;;;;;;;;;;x
-EVTDESC6210;There was a Lion without, I though I would be slain in the Streets, but then the Lion said unto me let go your slothful ways and I realized who the Lion was.;;;;;;;;;;;;;x
-EVTDESC6211;I hear him whispering to me, that it is for me to glory God, not to leave it unto others. I shall do thus and be more diligent in my tasks.;;;;;;;;;;;;;x
-EVTDESC6212;My neighbor has quite probably the finest ass around, but then Jesus whispered to me that this was wrong.;;;;;;;;;;;;;x
-EVTDESC6213;For too long I have felt incomplete, that my spirit was somehow lacking. Then the voice reminded me that the true fruit of the spirit was kindness. ;;;;;;;;;;;;;x
-EVTDESC6214;For too long I have directed my anger towards those who dimply do not deserve it. Jesus whispered to me and reminded me that I should direct it those who had sinned.;;;;;;;;;;;;;x
-EVTDESC6215;I have been so quick to judge, I realize it now. The voice reminds me that I should seek what is good for all.;;;;;;;;;;;;;x
-EVTDESC6216;I am proud and I thought myself noble for I rejected all that was weak and insipid. Then the voice reminded me that I was rejecting God when I worshipped myself thus?;;;;;;;;;;;;;x
-EVTDESC6217;For too long I believed that it was the Greeks who would inherit the earth. Then Jesus whispered that is was simply a typo in my Bible and that in reality it was the meek.;;;;;;;;;;;;;x
-EVTDESC6218;Jesus whispers have become more frantic of late. He is worried that Satan has corrupted his words through his agents at the various ecumenical councils. He has asked me to seek out the good news that Philip brought so that I can understand the true role of Mary.;;;;;;;;;;;;;x
-EVTDESC6219;For too long I have felt powerless as our enemies advance, but lately Jesus has been promising me victories if only I can get command.;;;;;;;;;;;;;x
-EVTDESC6220;Lately Jesus has fallen silent over military matters. I feel somehow lessened because without the Lord who am I?;;;;;;;;;;;;;x
-EVTDESC6221;I felt the holy spirit fill me and just like the Apostles of yore I could speak in the tongues of many peoples, as the holy spirit gave me the power to express myself.;;;;;;;;;;;;;x
-EVTDESC6222;The holy spirit left me and I felt lessened. Some cynics commented that I was finally sober, but they did not understand what the true love of the Lord felt like.;;;;;;;;;;;;;x
-EVTDESC6223;I had been hearing a voice for some time now but I couldn't quite place it. Then I felt its presence fill me and it did not feel divine.;;;;;;;;;;;;;x
-EVTDESC6224;I wasn't sure what to do, when [Root.Religion.GetRandomEvilGodName] himself whispered to me. I should talk to one of the denizens of my dungeon.  As I listened to the prisoner's appeal for mercy Satan whispered to me once more that they weren't very sincere. Perchance a little time on the rack would help him.;;;;;;;;;;;;;x
-EVTDESC6225;He came to me while I slept, it seemed almost as if it was a dream. He had three heads, the body of a man, the legs of a cock and the tail of a serpent. He taught me something about myself that I had always known but denied.;;;;;;;;;;;;;x
-EVTDESC6226;As I sat and looked at the fish course, the fish spoke to me and reminded me that my neighbor's titles were rich and should be mine.;;;;;;;;;;;;;x
-EVTDESC6227;Asmodeus asked me why I was denying myself sensual pleasures. I told him it was sin and he reminded me that the Lord God himself had commanded that we should go forth and multiply.;;;;;;;;;;;;;x
-EVTDESC6228;I told Asmodeus that lust is a sin against God, and he whispered quietly that I am made in God's image. If I have these urges then it is only because God does too.;;;;;;;;;;;;;x
-EVTDESC6229;I was patient and listened to the knight as he explained to me why the world was shaped like a banana. I knew it was Satan's voice who said why do you listen to this fool, your eyes prove the world is flat.;;;;;;;;;;;;;x
-EVTDESC6230;The servant dropped the meat and the dogs immediately drove upon it. The waste angered me but I held my temper, then the voice whispered to me as it has so often before: 'Why do you accept this foolishness?';;;;;;;;;;;;;x
-EVTDESC6231;At the sermon the father reminded the congregation of my humbleness. Then a voice whispered in my ear, I know it is the morning star, and he told me that the father was making a fool out of me. The so called priest was a wealthy man who ate well while the poor starved.;;;;;;;;;;;;;x
-EVTDESC6232;I sat in contemplation of my life and wondered why it was that I wasn't getting my due. Then a voice whispered to me, I know it to be Lucifer, who told me it was my right to have a throne higher than the clouds and over the earth.;;;;;;;;;;;;;x
-EVTDESC6233;I always tried to avoid eating too much, as I felt it a sin. The Lord of the flies whispered softly in my ear, that I should enjoy all the fruits of God's creation.;;;;;;;;;;;;;x
-EVTDESC6234;I looked upon  the table and my mouth salivated at the rich odours. I felt the urge to fill my plate as much as I could and the Beelzebub whispered why not?;;;;;;;;;;;;;x
-EVTDESC6235;As I watched the Almoner hand out coins I wondered is it really so good that those who are clearly going to squander the money should receive it. Mammon came to me later and pointed out the logic in my thoughts, we should try to save first those who can be saved.;;;;;;;;;;;;;x
-EVTDESC6236;It was hard to sleep, while Mammon softly whispered in my ear. He was telling me about all the things that should be mine but  others had The more he whispered the more it made sense.;;;;;;;;;;;;;x
-EVTDESC6237;It was the Leviathan who told me that I was merely being weak. I should stop it and show my strength.;;;;;;;;;;;;;x
-EVTDESC6238;The Leviathan whispered to me and reminded me that there were those who had that did not deserve it and then there were those like me who deserved so much more.;;;;;;;;;;;;;x
-EVTDESC6239;Belphegor was wondering why I was always so busy. I am top of the tree, compared to the serfs, so why should I not take the time to enjoy it?;;;;;;;;;;;;;x
-EVTDESC6240;I often wondered why I bother about such trivial things. Belphegor keeps urging me to save my energy for when it really matters.;;;;;;;;;;;;;x
-EVTDESC6300;You have decided to introduce a new law to the good people of the realm, as is your right as their ruler. Now you just have to decide on its contents...;;;;;;;;;;;;;x
-EVTDESC6301;Your slightly eccentric liege has proclaimed a new law that is to be upheld throughout the realm. It reads:\n\n"Whereas the turnip represents the very best qualities to be found in society, and: whereas it is of fine texture, particularly when boiled, and has been proven to remedy all ailments known to Man when consumed:\n\nTherefore I, [From.GetTitledName], decree that the turnip shall henceforth be used as currency throughout the realm, taking the place of gold, silver or any other precious metal. These shall instead be turned over to the Crown for immediate disposal.";;;;;;;;;;;;;x
-EVTDESC6302;Your slightly eccentric liege has proclaimed a new law that is to be upheld throughout the realm. It reads:\n\n"Whereas pants constrict not only the lower limbs and reproductive organs, but also the human soul, and: whereas pants are known to be an affront to all forms of life but Man:\n\nTherefore I, [From.GetTitledName], command that the use of pants be outlawed throughout the realm under penalty of death. All existing variants of this garment are to be immediately burned, and the ashes distributed evenly over the graves of our forefathers.";;;;;;;;;;;;;x
-EVTDESC6303;Your slightly eccentric liege has proclaimed a new law that is to be upheld throughout the realm. It reads:\n\n"Whereas the positive effects of fresh air is known to all, and: whereas the movement of the wind must not be obstructed by man-made structures:\n\nTherefore I, [From.GetTitledName], decree that all homesteads throughout the realm are to have two holes, each no smaller than a grown peasant standing with arms outstretched, in opposite walls facing each other to allow free passage of the wind. These holes are not to be covered by planks, windows, doors or cattle. If any member of the household is known to exhibit severe flatulence, the holes shall number three and no less.";;;;;;;;;;;;;x
-EVTDESC6304;Your slightly eccentric liege has proclaimed a new law that is to be upheld throughout the realm. It reads:\n\n"Whereas the children of the realm have become desensitised to violence, and: whereas the general populace seems to have lost all regard for the sanctity of human life:\n\nTherefore I, [From.GetTitledName], decree that all forms of violence directed at other human beings be outlawed, including both capital and corporal punishment as well as the torture of criminals, heathens and foreigners. These vulnerable social groups are instead to be rehabilitated and eventually released back into society as productive citizens.";;;;;;;;;;;;;x
-EVTDESC6305;The new law has been written and couriers are even now distributing it to all of your vassals. You admire your handiwork:\n\n"Whereas the turnip represents the very best qualities to be found in society, and: whereas it is of fine texture, particularly when boiled, and has been proven to remedy all ailments known to Man when consumed:\n\nTherefore I, [Root.GetTitledName], decree that the turnip shall henceforth be used as currency throughout the realm, taking the place of gold, silver or any other precious metal. These shall instead be turned over to the Crown for immediate disposal.";;;;;;;;;;;;;x
-EVTDESC6306;The new law has been written and couriers are even now distributing it to all of your vassals. You admire your handiwork:\n\n"Whereas pants constrict not only the lower limbs and reproductive organs, but also the human soul, and: whereas pants are known to be an affront to all forms of life but Man:\n\nTherefore I, [From.GetTitledName], command that the use of pants be outlawed throughout the realm under penalty of death. All existing variants of this garment are to be immediately burned, and the ashes distributed evenly over the graves of our forefathers.";;;;;;;;;;;;;x
-EVTDESC6307;The new law has been written and couriers are even now distributing it to all of your vassals. You admire your handiwork:\n\n"Whereas the positive effects of fresh air is known to all, and: whereas the movement of the wind must not be obstructed by man-made structures:\n\nTherefore I, [From.GetTitledName], decree that all homesteads throughout the realm are to have two holes, each no smaller than a grown peasant standing with arms outstretched, in opposite walls facing each other to allow free passage of the wind. These holes are not to be covered by planks, windows, doors or cattle. If any member of the household is known to exhibit severe flatulence, the holes shall number three and no less.";;;;;;;;;;;;;x
-EVTDESC6308;The new law has been written and couriers are even now distributing it to all of your vassals. You admire your handiwork:\n\n"Whereas the children of the realm have become desensitised to violence, and: whereas the general populace seems to have lost all regard for the sanctity of human life:\n\nTherefore I, [From.GetTitledName], decree that all forms of violence directed at other human beings be outlawed, including both capital and corporal punishment as well as the torture of criminals, heathens and foreigners. These vulnerable social groups are instead to be rehabilitated and eventually released back into society as productive citizens.";;;;;;;;;;;;;x
-EVTDESC6315;You are sitting on the floor of your bedchamber, wearing one of your shoes as a hat, when suddenly a man-sized gopher enters the room. It is dressed as a maid and when you shout in alarm, the rodent squeaks and skitters away in panic. You chase it down the hall but find only a terrified maid cowering on the floor.;;;;;;;;;;;;;x
-EVTDESC6316;You are hosting a dinner for some local dignitaries when the full moon comes into view in one of the windows. Trembling, you excuse yourself and hurry up the stairs to your bedchamber while stripping off your clothes. You are completely naked when the guards find you crouched on your balcony, howling at the moon.;;;;;;;;;;;;;x
-EVTDESC6317;Your horse has always struck you as being of a dependable sort, a quality you feel is sorely lacking in your councillors. Time to shake things up a bit. You will appoint him as your new [Root.GetChancellorName].;;;;;;;;;;;;;x
-EVTDESC6318;Your mad [Root.Liege.GetTitle] has decided, in [Root.Liege.GetHerHis] infinite wisdom, to relieve you of your post as [Root.Liege.GetChancellorName]. Glitterhoof, [Root.Liege.GetHerHis] beloved horse, will be taking your place.;;;;;;;;;;;;;x
-EVTDESC6350;As I was lying in my bed at night I was suddenly woken by the hissing and growling of my favorite cat. The bedchamber was alive with scratching, scurrying noises, coming from the very walls themselves. I sprang from the bed, but the noises suddenly disappeared and a subsquent investigation of the chamber revealed nothing but patched stone walls.;;;;;;;;;;;;;x
-EVTDESC6351;The servant I had sent to fetch water never returned and when I went to investigate I noticed a strange light emanating from the well. I peered inside and saw a color like no color I had ever seen before. It was like smoke, cold and wet but burning my skin where it touched.;;;;;;;;;;;;;x
-EVTDESC6352;I had repeatedly questioned my servant about the locked mausoleum beneath the castle but it wasn't until today that I found the key, hidden inside a rotting chest in the oldest castle tower. Inside the tomb's dusty passageways I found an empty stone coffin which bore the inscription '[Root.GetFirstName] [Root.GetOnlyDynastyName]'.;;;;;;;;;;;;;x
-EVTDESC6353;An old cottar and his wife who were known for their cruelty to cats were found dead in their home this morning, their bones picked clean of meat. My steward tells me that the local townspeople had their cats go missing the day before, but all the missing cats returned today looking fat and happy...;;;;;;;;;;;;;x
-EVTDESC6354;Since the incident some weeks ago I have felt uneasy. I took a walk along the coast to clear my mind and found a small village where the people claimed to worship the 'Old Ones', Gods older than even those of the [Root.Religion.GetName] faith. They invited me to join in their rituals and showed me a dusty old grimoire written by a mad Saracen.;;;;;;;;;;;;;x
-EVTDESC6355;Intense study of the grimoire has gained me much knowledge. I have devised a ritual to awaken the most powerful of the Old Ones where he sleeps, dead but dreaming, in his watery tomb beneath the ocean. The cult has prepared the ritual attire and is gathering the necessary sacrifices.;;;;;;;;;;;;;x
-EVTDESC6356;The cult has gathered for the ritual on the shore of a black and stormy sea. The chanting begins, Ph'nglui mglw'nafh..., and in the depths of the dark waters something stirs...;;;;;;;;;;;;;x
-EVTDESC6357;I steered the longboat through the raging waters towards the monstrous creature. It stood as tall as a castle tower, with the body of a man and the head of a great tentacled beast. I knew that I had awoken it from where it slept beneath the waves and that it was here to end the age of man. There was only one thing I could do...;;;;;;;;;;;;;x
-EVTDESC6358;I awoke in my own bed weak and sweating. The servants told me that they had found me on the shore, naked and half-drowned. I asked them about the creature and the ship but they just looked at me with worried eyes and shook their heads. It seems I am the only living witness to these events.;;;;;;;;;;;;;x
-EVTDESC6360;A loud sneeze interrupts [Root.GetMyMarshalName] [Root.job_marshal.GetTitledFirstName]'s speech on the importance of camp hygiene. 'I am sorry, my [Root.GetLordLady],' mutters [Root.job_spymaster.GetTitledFirstName], the [Root.GetSpymasterName], casting a quick glance at the cat on my lap. 'If you could only leave the creature out of our meetings, this would not happen again, I swear.';;;;;;;;;;;;;x
-EVTDESC6361;I am awoken by a soft pat on my cheek. 'Oh, Mittens. Are you having trouble falling asleep?' She jumps down from my bed and starts pawing at the door. 'Let's go to the kitchen and get you some warm milk.' But as I close my bedroom door behind me, Mittens heads in the opposite direction.;;;;;;;;;;;;;x
-EVTDESC6362;As I round a corner, I spot Mittens' fluffy tail as she squeezes through the chamber door of my [Root.GetSpymasterName], [Root.job_spymaster.GetFullName]! I enter, finding Mittens curled up on [Root.job_spymaster.GetHerHis] chest, licking [Root.job_spymaster.GetHerHis] face, but [Root.job_spymaster.GetFirstName] does not react. The [Root.job_spymaster.GetManWoman] before me is completely still, not even breathing, and [Root.job_spymaster.GetHerHis] face is strangely swollen...;;;;;;;;;;;;;x
-EVTDESC6363;Apparently, it was not bad enough when that stupid animal glared at us from the saftey of [FromFrom.GetTitledFirstName]'s lap. Now it has its own chair, and a seat on the council, to boot! The [FromFrom.GetTitle] has informed us that the former [FromFrom.GetSpymasterName] was poisoned, but a servant who helped move the body insist that the [FromFrom.GetSpymasterName] was suffocated...;;;;;;;;;;;;;x
-EVTDESC6365;[From.GetSheHeCap] is so cute and fluffy, what would life even be like if I were to lose [From.GetHerHim]? I am not sure I could go on... I must do something about this and protect my beloved cat [From.GetBestName].;;;;;;;;;;;;;x
-
-EVTOPTA6000;What is wrong with me?;;;;;;;;;;;;;x
-EVTOPTA6001;I feel much better;;;;;;;;;;;;;x
-EVTOPTA6010;My face! My pretty face!;;;;;;;;;;;;;x
-EVTOPTA6011;The potion worked!;;;;;;;;;;;;;x
-EVTOPTA6020;I can't defy them;;;;;;;;;;;;;x
-EVTOPTA6020_COMA;The darkness... it's still here!;;;;;;;;;;;;;x
-EVTOPTA6020_FEVER;Who are they?!;;;;;;;;;;;;;x
-EVTOPTA6020_PARA;What do they want?!;;;;;;;;;;;;;x
-EVTOPTA6020_PRISON;I must get out of this hellhole!;;;;;;;;;;;;;x
-EVTOPTA6020_ZEAL;They must all be cleansed!;;;;;;;;;;;;;x
-EVTOPTA6021;IT'S TOO QUIET!;;;;;;;;;;;;;x
-EVTOPTA6030;Begone, foul demon!;;;;;;;;;;;;;x
-EVTOPTA6030_MUS;Begone, foul djinn!;;;;;;;;;;;;;x
-EVTOPTA6031;Vade retro satana!;;;;;;;;;;;;;x
-EVTOPTA6031_ALL;Once again, to be on the safe side...;;;;;;;;;;;;;x
-EVTOPTA6040;This is a lot of pressure...;;;;;;;;;;;;;x
-EVTOPTA6041;Life isn't too bad;;;;;;;;;;;;;x
-EVTOPTA6050;I really do.;;;;;;;;;;;;;x
-EVTOPTA6051;I feel better now;;;;;;;;;;;;;x
-EVTOPTA6060;Please kill me!;;;;;;;;;;;;;x
-EVTOPTA6061;Alive!;;;;;;;;;;;;;x
-EVTOPTA6062;I can run!;;;;;;;;;;;;;x
-EVTOPTA6070;Something is very wrong with me;;;;;;;;;;;;;x
-EVTOPTA6071;Finally!;;;;;;;;;;;;;x
-EVTOPTA6080;Why I oughta...;;;;;;;;;;;;;x
-EVTOPTA6081;Ewww...;;;;;;;;;;;;;x
-EVTOPTA6082;May [Root.Religion.GetRandomGodName] have mercy on us!;;;;;;;;;;;;;x
-EVTOPTA6100;Who are you? Oh, of course.;;;;;;;;;;;;;x
-EVTOPTA6110;So tired... zzz;;;;;;;;;;;;;x
-EVTOPTA6111;O Fortuna;;;;;;;;;;;;;x
-EVTOPTA6112;I could eat a horse!;;;;;;;;;;;;;x
-EVTOPTA6113;The fates are kind;;;;;;;;;;;;;x
-EVTOPTA6114;HAHA!;;;;;;;;;;;;;x
-EVTOPTA6115;Time to get up;;;;;;;;;;;;;x
-EVTOPTA6116;Poxy no more!;;;;;;;;;;;;;x
-EVTOPTA6200;Jesus calls to me;;;;;;;;;;;;;x
-EVTOPTA6201;The Lord wills it;;;;;;;;;;;;;x
-EVTOPTA6202;For my soul;;;;;;;;;;;;;x
-EVTOPTA6203;It's an omen;;;;;;;;;;;;;x
-EVTOPTA6204;I will control my vices;;;;;;;;;;;;;x
-EVTOPTA6205;And so I shall;;;;;;;;;;;;;x
-EVTOPTA6206;I will stop;;;;;;;;;;;;;x
-EVTOPTA6207;I will be ;;;;;;;;;;;;;x
-EVTOPTA6208;God forgive me;;;;;;;;;;;;;x
-EVTOPTA6209;Praise to God;;;;;;;;;;;;;x
-EVTOPTA6210;I will do as I was commanded;;;;;;;;;;;;;x
-EVTOPTA6212;Jesus is right, this is wrong;;;;;;;;;;;;;x
-EVTOPTA6213;I will be more kind;;;;;;;;;;;;;x
-EVTOPTA6214;I will be a true soldier of God;;;;;;;;;;;;;x
-EVTOPTA6215;I will do so;;;;;;;;;;;;;x
-EVTOPTA6216;Then I realized how wrong I was.;;;;;;;;;;;;;x
-EVTOPTA6217;Then I will be more meek;;;;;;;;;;;;;x
-EVTOPTA6218;I will do as our Lord Commands;;;;;;;;;;;;;x
-EVTOPTA6219;As Jesus Wills;;;;;;;;;;;;;x
-EVTOPTA6220;It must be a punishment for my sins;;;;;;;;;;;;;x
-EVTOPTA6221;The only problem is no one else can;;;;;;;;;;;;;x
-EVTOPTA6222;I am saddened. ;;;;;;;;;;;;;x
-EVTOPTA6223;Redrum;;;;;;;;;;;;;x
-EVTOPTA6224;I heard him scream and [Root.Religion.GetRandomEvilGodName] laughed with delight.;;;;;;;;;;;;;x
-EVTOPTA6225;It is wrong, but feels right.;;;;;;;;;;;;;x
-EVTOPTA6226;A messenger from my Lord the Leviathan;;;;;;;;;;;;;x
-EVTOPTA6227;It was the word of God?;;;;;;;;;;;;;x
-EVTOPTA6228;God must want me to do this.;;;;;;;;;;;;;x
-EVTOPTA6229;He's right you know;;;;;;;;;;;;;x
-EVTOPTA6230;Yes I will not be weak.;;;;;;;;;;;;;x
-EVTOPTA6231;My eyes are open;;;;;;;;;;;;;x
-EVTOPTA6232;He is right.;;;;;;;;;;;;;x
-EVTOPTA6233;He tells it true.;;;;;;;;;;;;;x
-EVTOPTA6234;Indeed;;;;;;;;;;;;;x
-EVTOPTA6235;It is right;;;;;;;;;;;;;x
-EVTOPTA6236;They will be mine;;;;;;;;;;;;;x
-EVTOPTA6237;I will be strong;;;;;;;;;;;;;x
-EVTOPTA6238;I never thought of it that way.;;;;;;;;;;;;;x
-EVTOPTA6239;You know he has a point;;;;;;;;;;;;;x
-EVTOPTA6240;He is right too.;;;;;;;;;;;;;x
-EVTOPTA6300;The Turnip Act.;;;;;;;;;;;;;x
-EVTOPTA6301;What the...;;;;;;;;;;;;;x
-EVTOPTA6302;They will have to pry them from my cold, dead legs...;;;;;;;;;;;;;x
-EVTOPTA6303;What?;;;;;;;;;;;;;x
-EVTOPTA6304;Rehabi...? What insanity is this?;;;;;;;;;;;;;x
-EVTOPTA6305;This law will bring salvation to the realm.;;;;;;;;;;;;;x
-EVTOPTA6315;Where did the gopher go? Did you see?;;;;;;;;;;;;;x
-EVTOPTA6316;AAAAAAAAOOOOOOO!!!!!!;;;;;;;;;;;;;x
-EVTOPTA6317;Glitterhoof, I appoint thee as the [Root.GetChancellorName] of the realm.;;;;;;;;;;;;;x
-EVTOPTA6318;This time that maniac has gone too far...;;;;;;;;;;;;;x
-EVTOPTA6350;Could there be rats in the walls?;;;;;;;;;;;;;x
-EVTOPTA6351;That color is not from this earth!;;;;;;;;;;;;;x
-EVTOPTA6352;This coffin looks comfortable to sleep in;;;;;;;;;;;;;x
-EVTOPTA6353;Pass a law banning the killing of cats;;;;;;;;;;;;;x
-EVTOPTA6354;I must study this grimoire;;;;;;;;;;;;;x
-EVTOPTA6355;Tonight, he will wake!;;;;;;;;;;;;;x
-EVTOPTA6356;He comes! HE COMES!;;;;;;;;;;;;;x
-EVTOPTA6357;Ramming speed!;;;;;;;;;;;;;x
-EVTOPTA6358;I must put them to print;;;;;;;;;;;;;x
-EVTOPTA6360;How dare you blame little innocent Mittens?!;;;;;;;;;;;;;x
-EVTOPTA6361;Follow Mittens down the dark corridor.;;;;;;;;;;;;;x
-EVTOPTA6362;You have discovered a murder, Mittens! Clever kitty!;;;;;;;;;;;;;x
-EVTOPTA6363;Is anyone on the council safe? This is a catastrophe!;;;;;;;;;;;;;x
-EVTOPTA6365;[From.GetSheHeCap] must lap up some of my immortal blood for protection.;;;;;;;;;;;;;x
-
-EVTOPTB6300;The Pants Act.;;;;;;;;;;;;;x
-EVTOPTB6350;Just a dream, nothing more;;;;;;;;;;;;;x
-EVTOPTB6351;The well must have gone bad;;;;;;;;;;;;;x
-EVTOPTB6352;Well, that was morbid... seal the tomb!;;;;;;;;;;;;;x
-EVTOPTB6353;A coincidence, nothing more;;;;;;;;;;;;;x
-EVTOPTB6356;What have I done?! I must stop this!;;;;;;;;;;;;;x
-EVTOPTB6358;Fools! I saved you all!;;;;;;;;;;;;;x
-EVTOPTB6360;Perhaps you are right, [Root.job_spymaster.GetFirstName]. The council is no place for a cat.;;;;;;;;;;;;;x
-EVTOPTB6361;Go to the kitchen, she is sure to follow.;;;;;;;;;;;;;x
-EVTOPTB6365;Only I shall have this great power!;;;;;;;;;;;;;x
-
-EVTOPTC6300;The Hole in the Wall Act.;;;;;;;;;;;;;x
-
-EVTOPTD6300;The Cessation of Violence Act.;;;;;;;;;;;;;x
-
-EVTTOOLTIP6305;You give the order to implement the Turnip Act.;;;;;;;;;;;;;x
-EVTTOOLTIP6306;You give the order to implement the Pants Act.;;;;;;;;;;;;;x
-EVTTOOLTIP6307;You give the order to implement the Hole in the Wall Act.;;;;;;;;;;;;;x
-EVTTOOLTIP6308;You give the order to implement the Cessation of Violence Act.;;;;;;;;;;;;;x
-EVTTOOLTIP6354;Somewhere, a dreamer stirs...;;;;;;;;;;;;;x
-EVTTOOLTIP6355;[Root.GetBestName] learns the forbidden secrets;;;;;;;;;;;;;x
-EVTTOOLTIP6356;[Root.GetBestName] puts on a black robe and wizened old hat;;;;;;;;;;;;;x
-EVTTOOLTIP6357;[Root.GetBestName] commandeers a longboat;;;;;;;;;;;;;x
-EVTTOOLTIP6358;A fateful collision...;;;;;;;;;;;;;x
+EVTNAME6301;The Turnip Act;;;;;;;;;;;Båëèêèé Çàêîí Ðåïû.;;x
+EVTNAME6302;The Pants Act;;;;;;;;;;;Båëèêèé Çàêîí Áðþê.;;x
+EVTNAME6303;The Hole in the Wall Act;;;;;;;;;;;Båëèêèé Çàêîí î Äûðàõ è Ñòåíàõ.;;x
+EVTNAME6304;The Cessation of Violence Act;;;;;;;;;;;Båëèêèé çàêîí î Çàïðåòå Íàñèëèÿ.;;x
+EVTDESC6000;A strange, reddish-pink rash appeared on my palms and soles not long ago along with a fever and headache. Some parts of the rash has developed abscesses and is both ugly and itchy.;;;;;;;;;;;Íå òàê äàâíî ó ìåíÿ ïîÿâèëàñü êðàñíî-ðîçîâàÿ ñûïü íà ëàäîíÿõ è ïîäîøâàõ. Ïîäíÿëàñü òåìïåðàòóðà è íà÷àëàñü ìèãðåíü. Íà íåêîòîðûõ ÷àñòÿõ òåëà ïîÿâèëèñü óæàñíî çóäÿùèå ãíîéíèêè.;;x
+EVTDESC6001;The rash disappeared and took the headache and fever with it.;;;;;;;;;;;Ñûïü èñ÷åçëà, ãîëîâíàÿ áîëü è ëèõîðàäêà òîæå.;;x
+EVTDESC6010;First I lost my eyebrows and eyelashes, then my nose deformed. People fear me and I must hide my face as to not cause hysteria among others.;;;;;;;;;;;Ñíà÷àëà ó ìåíÿ âûïàëè áðîâè è ðåñíèöû, ïîòîì ìîé íîñ äåôîðìèðîâàëñÿ. Ëþäè ñòàëè áîÿòüñÿ ìåíÿ, è ìíå òåïåðü ïðèõîäèòñÿ íîñèòü ìàñêó, ÷òîáû íå âûçûâàòü îòâðàùåíèå ó äðóãèõ.;;x
+EVTDESC6011;A man approached me and I tried to duck away from him, not let him see my disfigurement. He told me he had a cure and sold me a potion for only 25 gold coins.;;;;;;;;;;;Êî ìíå ïîäîø¸ë ÷åëîâåê, ÿ ïîïûòà[Root.GetLasLsya] îòâåðíóòüñÿ îò íåãî, ÷òîáû îí íå âèäåë ìîè óâå÷üÿ. Îí ñêàçàë, ÷òî çíàåò, êàê èçëå÷èòü ìîé íåäóã, è ïðîäàë ìíå çåëüå âñåãî çà 25 çîëîòûõ.;;x
+EVTDESC6020;The voices in my head are telling me to do horrible things!;;;;;;;;;;;Ãîëîñà â ìîåé ãîëîâå ïðèêàçûâàþò ìíå ñäåëàòü óæàñíûå âåùè!;;x
+EVTDESC6020_COMA;I awoke from my unending nightmare screaming. I have been in the abyss, an indescribable darkness. How long have I been asleep? Weeks, years?!;;;;;;;;;;;Ñ êðèêîì Âû ïðîñíóëèñü èç êàêîãî-òî íåñêîí÷àåìîãî êîøìàðíîãî ñíà. Ýòî áûëà áåçäíà, íåâåäîìàÿ íåâîîáðàçèìàÿ òüìà. Êàê äîëãî Âû ñïàëè? Íåäåëè? Ãîäû?!;;x
+EVTDESC6020_FEVER;The fever has broken - perhaps only temporarily - but I can still see the shadowy figures lurking in the corners. Are they real?;;;;;;;;;;;Ëèõîðàäêà îòñòóïèëà, âîçìîæíî íåíàäîëãî, íî ýòè ìðà÷íûå òåíè... îíè âñ¸ åù¸ çäåñü... ïðÿ÷óòñÿ îò âçãëÿäà ïî ò¸ìíûì óãëàì.;;x
+EVTDESC6020_PARA;They are all watching me, conspiring... even my closest friends. Dark eyes, cold eyes... evil eyes.;;;;;;;;;;;Îíè âñå ñòðàííî íà ìåíÿ ñìîòðÿò.... äàæå áëèçêèå äðóçüÿ. Ýòîò ò¸ìíûé õîëîäíûé âçãëÿä... çëîé âçãëÿä.;;x
+EVTDESC6020_PRISON;There are things in the walls. Things... Not rats, oh no! Not vermin at all... but scratching, watching, trying to drive me insane!;;;;;;;;;;;Òàì â ñòåíàõ... ÷òî-òî åñòü. Íå êðûñû, î íåò, ýòî íå êðûñû! È äàæå íå òàðàêàíû... îíî ñðåáåòñÿ, êîïîøèòñÿ.... è íàáëþäàåò çà ìíîé!;;x
+EVTDESC6020_ZEAL;The dark stain of heresy has infected everyone around me. [Root.Religion.GetRandomEvilGodNameCap] is winning the war for humanity's souls. No one is pure... except me.;;;;;;;;;;;Ò¸ìíàÿ ñêâåðíà åðåñè çàðàæàåò âñåõ âîêðóã. [Root.Religion.GetRandomEvilGodNameCap] âñ¸ ñèëüíåå, íèêòî íå ÷èñò... êðîìå ìåíÿ.;;x
+EVTDESC6021;I was later told that my strange behavior and fear of the moon was caused by the voices in my head. The [Root.Religion.GetPriestTitle] managed to clear my head of voices and now I have total silence.;;;;;;;;;;;Ïîòîì ìíå ðàññêàçàëè, ÷òî ìî¸ ñòðàííîå ïîâåäåíèå è ñòðàõ ïåðåä ëóíîé áûëè âûçâàíû ãîëîñàìè â ìîåé ãîëîâå. [Root.Religion.GetPriestTitle] ñóìåë ïîìî÷ü ìíå ðàçîáðàòüñÿ â ìûñëÿõ, è ãîëîñà ïðîïàëè.;;x
+EVTDESC6030;I am speaking in tongues, screaming obscenities at random times, most often when the [Root.Religion.GetPriestTitle] preaches and am sometimes lying on the ground writhing in apparent pain. I seldom remember these things and people believe me to be possessed.;;;;;;;;;;;ß ãîâîðþ íà íåïîíÿòíûõ ÿçûêàõ è êðè÷ó íåïðèñòîéíîñòè. Êîãäà [Root.Religion.GetPriestTitle] ñêëîíÿåòñÿ íàäî ìíîé è íà÷èíàåò ÷èòàòü ìîëèòâó, ÿ èçâèâàþñü îò áîëè. ß ïëîõî âñ¸ ïîìíþ, íî ëþäè ãîâîðÿò î ìîåé îäåðæèìîñòè.;;x
+EVTDESC6030_MUS;I am speaking in tongues, screaming obscenities at random times, most often when the imam is talking and am sometimes lying on the ground writhing in apparent pain. I seldom remember these things and people believe me to be possessed.;;;;;;;;;;;ß ãîâîðþ íà íåâåäîìûõ ÿçûêàõ, âûêðèêèâàþ íåïðèëè÷íûå ñëîâà â ñëó÷àéíûå ìîìåíòû âðåìåíè, ÷àùå âñåãî, êîãäà ãîâîðèò èìàì, èíîãäà ëåæó íà çåìëå êîð÷àñü îò áîëè. ß ðåäêî ïîìíþ ýòî è ëþäè ñ÷èòàþò ìåíÿ îäåðæèìûì.;;x
+EVTDESC6031;Vade retro satana!'\n\nThe priest's exorcism worked beautifully, I haven't spoken in tongues or screamed obscenities for several days!;;;;;;;;;;;Vade retro satana!\n\nÑâÿùåííèê ïðåêðàñíî ïîðàáîòàë. Óæå íåñêîëüêî äíåé ìîè ìûñëè ÿñíû.;;x
+EVTDESC6031_ALL;As the [Root.Religion.GetPriestTitle] slowly pulled me out of the holy spring, the water started boiling and frothing, paint running off the arcane runes smeared on my naked body. Filled with wonder, I realized that the gibbering voices in my head had finally fallen silent!;;;;;;;;;;;Êîãäà [Root.Religion.GetPriestTitle] ìåäëåííî âûíóë ìåíÿ èç ñâÿòîãî èñòî÷íèêà, âîäà íà÷àëà êèïåòü è ïåíèòüñÿ, êðàñêà ñòàëà ñìûâàòüñÿ ñ ðóí, íà÷åðòàííûõ íà ìî¸ì òåëå. È òåïåðü â ïîëíîì èçóìëåíèè ÿ íà÷èíàþ îñîçíàâàòü, ÷òî íåâíÿòíûå ãîëîñà â ìîåé ãîëîâå íàêîíåö-òî çàìîë÷àëè.;;x
+EVTDESC6031_MUS;By reciting The Throne Verse from the Qur'an and invoking Allah's help the imam managed to repair the damage in me caused by sihr or witchcraft. To be on the safe side, we also recited together the three last suras from the Qur'an: Surat al-Ikhlas (The Fidelity), Surat al-Falaq (The Dawn) and Surat al-Nas (Mankind).;;;;;;;;;;;Öèòèðóÿ àÿò Ïðåñòîëà èç Êîðàíà è ìîëÿ Àëëàõà î ïîìîùè, èìàìó óäàëîñü óñòðàíèòü âðåä, ïðè÷èí¸ííûé ìíå êîëäîâñòâîì èëè ÷¸ðíîé ìàãèåé. Äëÿ ïóùåé áåçîïàñíîñòè, ìû âìåñòå òàêæå ïðî÷ëè òðè ïîñëåäíèå ñóðû èç Êîðàíà: ñóðó àëü-Èõëàñ (Î÷èùåíèå âåðû), ñóðó àëü-Ôàëÿê (Ðàññâåò) è ñóðó àí-Íàñ (Ëþäè).;;x
+EVTDESC6040;My moodiness and tendency to lash out at people is getting worse. I sleep too little and can't seem to stop worrying.;;;;;;;;;;;Ìîÿ êàïðèçíîñòü è ïåðåìåí÷èâîñòü íàñòðîåíèÿ óñèëèâàþòñÿ. ß ìàëî ñïëþ, è íå ìîãó ïåðåñòàòü áåñïîêîèòüñÿ.;;x
+EVTDESC6041;The world will not weigh me down anymore, I have a new spring in my step, joy in my heart and a smile on my face.;;;;;;;;;;;Ýòîò ìèð áîëüøå ìåíÿ íå òÿãîòèò, äëÿ ìåíÿ íàñòàëà íîâàÿ âåñíà, â ìî¸ì ñåðäöå ïîÿâèëàñü ðàäîñòü, à íà ëèöå óëûáêà.;;x
+EVTDESC6050;I find myself lying in bed all day, the act of getting up almost as difficult as that of ruling. Food tastes bland, and my time spent with friends doesn't bring the joy it once did. I don't really understand why, but I hate my life.;;;;;;;;;;;Ïî÷òè âåñü äåíü ÿ íå âûëåçàþ èç ïîñòåëè. Âñòàâàòü ïî÷òè òàê æå ñëîæíî, êàê è óïðàâëÿòü. Åäà ïîòåðÿëà ïðåæíèé âêóñ, à âðåìÿ, ïðîâåä¸ííîå ñ äðóçüÿìè, íå ïðèíîñèò òîé ðàäîñòè, êîòîðàÿ áûëà êîãäà-òî. Íå ïîíèìàþ ïî÷åìó, íî ÿ íåíàâèæó ñâîþ æèçíü...;;x
+EVTDESC6051;After a couple of days just spending some time doing things I love, hunting, reading and visiting friends, life does not seem as grey as it did before.;;;;;;;;;;;×åðåç íåñêîëüêî äíåé ïîñëå òîãî êàê ÿ íà÷àë äåëàòü òî, ÷òî ìíå íðàâèòñÿ - îõîòèòüñÿ, ÷èòàòü è ïðîâîäèòü âðåìÿ ñ äðóçüÿìè, æèçíü íà÷àëà êàçàòüñÿ ìíå íå òàêîé ñåðîé êàê ðàíüøå.;;x
+EVTDESC6060;I don't feel too well, something is wrong with me. I am burning up with fever, my nose is running and my head feels as if someone is banging something hard against it.;;;;;;;;;;;ß ñåáÿ íå î÷åíü õîðîøî ÷óâñòâóþ. Ñãîðàþ îò æàðà, èç íîñà òå÷¸ò, à ãîëîâà áîëèò òàê, êàê áóäòî ïî íåé óäàðèëè ÷åì-òî òÿæ¸ëûì.;;x
+EVTDESC6061;I woke this morning feeling much better. It seems that my illness has passed.;;;;;;;;;;;Ïðîñíóâøèñü ñåãîäíÿ óòðîì, ÿ çàìå÷àþ, ÷òî ÷óâñòâóþ ñåáÿ íàìíîãî ëó÷øå. Õâîðü îòñòóïèëà!;;x
+EVTDESC6062;Nana says I am not sick anymore.;;;;;;;;;;;Íÿíÿ ñêàçàëà, ÷òî ÿ áîëüøå íå áîëåþ.;;x
+EVTDESC6070;This cough is killing me! It started as chest pain and shortness of breath, then I started coughing up phlegm and now blood!;;;;;;;;;;;Ýòîò êàøåëü ìåíÿ óáèâàåò! Ñíà÷àëà ÿ ÷óâñòâîâàë áîëü â ãðóäè è çàòðóäíåííîå äûõàíèå, çàòåì ÿ íà÷àë[Root.GetEndA] êàøëÿòü ìîêðîòîé, à òåïåðü êðîâüþ!;;x
+EVTDESC6071;The cough disappeared, thank [Root.Religion.GetRandomGodName]! I still feel a bit weak but the coughing, the chest pain and the shortness of breath are gone.;;;;;;;;;;;Î, [Root.Religion.GetRandomGodName], íàêîíåö-òî êàøåëü èñ÷åç! ß âñ¸ åù¸ ÷óâñòâóþ ñëàáîñòü, íî áîëü â ãðóäè è îäûøêà èñ÷åçëè.;;x
+EVTDESC6080;When the hot cautery touched the open wound, I couldn't hold the scream back. I cursed the doctor who only laughed, told me to take it easy and not pick on the wound.;;;;;;;;;;;Êîãäà ãîðÿ÷åå æåëåçî êîñíóëîñü îòêðûòîé ðàíû, ÿ íå ñìîã[Root.GetNoneE] óäåðæàòüñÿ îò êðèêà. ß ïðîêëèíàë[Root.GetEndA] âðà÷à, êîòîðûé òîëüêî ðàññìåÿëñÿ, ñêàçàë ìíå óñïîêîèòüñÿ è íå òðîãàòü ðàíó.;;x
+EVTDESC6081;The old wound has finally healed, leaving a pretty grotesque scar behind.;;;;;;;;;;;Ñòàðàÿ ðàíà îêîí÷àòåëüíî çàæèëà, îñòàâëÿÿ äîâîëüíî ãðîòåñêíûé øðàì.;;x
+EVTDESC6082;An old wound is aggravating and painful;;;;;;;;;;;Íîþò ñòàðûå ðàíû.;;x
+EVTDESC6100;My body may be sapless and infirm, but my mind is as healthy as ever!;;;;;;;;;;;Ìî¸ òåëî ìîæåò áûòü ñóõîå è íåìîùíîå, íî ìîé óì çäîðîâ, êàê íèêîãäà!;;x
+EVTDESC6110;Where am I? Who are these people? Oh, pretty colors...;;;;;;;;;;;Ãäå ÿ? Êòî ýòè ëþäè? Îõ, êàêèå öâåòà...;;x
+EVTDESC6111;I haven't coughed for days and the pain is gone. Fate has granted me reprieve.;;;;;;;;;;;ß íå êàøëÿë â òå÷åíèå íåñêîëüêèõ äíåé, è áîëü óøëà. Ñóäüáà ïðåäîñòàâèëà ìíå ïåðåäûøêó.;;x
+EVTDESC6112;I feel weak as a babe, but the cursed fever has finally broken!;;;;;;;;;;;ß ÷óâñòâóþ ñëàáîñòü êàê ó ðåá¸íêà, íî ïðîêëÿòàÿ ëèõîðàäêà íàêîíåö-òî ïðîøëà!;;x
+EVTDESC6113;The spots are receding and the fever has broken. Am I really cured?;;;;;;;;;;;Ïÿòíà èñ÷åçàþò, è ëèõîðàäêà ïðîõîäèò. ß äåéñòâèòåëüíî èçëå÷è[Root.GetLasLsya]?;;x
+EVTDESC6114;I am alive... I AM ALIVE!;;;;;;;;;;;ß æèâ[Root.GetEndA]... ß æèâ[Root.GetEndA]!;;x
+EVTDESC6115;It takes more to kill me than measly measles!;;;;;;;;;;;Êàêàÿ-òî íè÷òîæíàÿ êîðü íå ñìîæåò óáèòü ìåíÿ!;;x
+EVTDESC6116;I think I made it through this cursed disease.;;;;;;;;;;;ß äóìàþ, ýòà ïðîêëÿòàÿ áîëåçíü óæå ïðîøëà.;;x
+EVTDESC6200;This voice calling to me, telling me I was a bad person, telling me how evil I was. I realized that this was no ordinary voice, this was Jesus Christ, our Lord and saviour himself. I knew that I would have to live a better life.;;;;;;;;;;;Ãîëîñ çîâ¸ò ìåíÿ, ãîëîñ ãîâîðèò ìíå, ÷òî ÿ ãðåøíè[Root.GetTsaK], Ãîëîñ ãîâîðèò, êàê íèçêî ÿ ïàë[Root.GetEndA]. Ýòî íå îáû÷íûé ãîëîñ, ýòî ãîëîñ Ãîñïîäà íàøåãî, Èèñóñà Õðèñòà. ß çíàë[Root.GetEndA], ÷òî äëÿ ìåíÿ íàñòàíóò ëó÷øèå âðåìåíà.;;x
+EVTDESC6201;Jesus Christ our Lord has commanded me to give more to the poor. I cannot ignore his calling.;;;;;;;;;;;Èèñóñ Õðèñòîñ ïðèêàçàë ìíå æåðòâîâàòü áåäíÿêàì. ß íå ñìåþ îñëóøàòüñÿ.;;x
+EVTDESC6202;My sin is too great so I must show repentance. I care not what others think Heaven is only for the truly repentant. I will don the cilice to show the depth of my repentance.;;;;;;;;;;;Ìîé ãðåõ îãðîìåí - íàäî ïîêàÿòüñÿ. ß çàáî÷óñü íå î òîì, ÷òî ïîäóìàþò îñòàëüíûå. Âåäü Ðàé òîëüêî äëÿ èñòèííî ðàñêàÿâøèõñÿ.;;x
+EVTDESC6203;I saw a hairy star in the sky, I swear it to be true. 'Twas the color of blood I tell thee. It was if the Lord God himself was bleeding.;;;;;;;;;;;ß âèäåë[Root.GetEndA] óæàñíóþ çâåçäó â íåáå, ÿ êëÿíóñü, ýòî ïðàâäà. Îíà áûëà öâåòà êðîâè. Ýòî ìîãëî ïðîèçîéòè, òîëüêî åñëè Ãîñïîäü èñòåêàåò êðîâüþ.;;x
+EVTDESC6204;For too long I have pandered to my lustful yearning, Jesus tells me it is a mortal sin, I must stop it now. ;;;;;;;;;;;Ñëèøêîì äîëãî ìíîþ âëàäåëà æàæäà ïîõîòè. Èèñóñ ãîâîðèò ìíå, ÷òî ýòî - ñìåðòíûé ãðåõ. Ìíå íóæíî îñòàíîâèòü ýòî íåìåäëåííî!;;x
+EVTDESC6205;The life of virtuous is not easy, but Jesus commands me to resist the carnal urges.;;;;;;;;;;;Äîáðîäåòåëüíàÿ æèçíü íå ëåãêà, íî Èèñóñ ïîâåëåâàåò ìíå ñîïðîòèâëÿòüñÿ ïëîòñêèì æåëàíèÿì.;;x
+EVTDESC6206;I hear him admonish me, I should not be eating for the sole motive of sensual gratification. I must stop.;;;;;;;;;;;ß ñëûøó, êàê îí ãîâîðèò ñî ìíîé. Ìíå íå ñòîèò ñòîëüêî åñòü ñ åäèíñòâåííîé öåëüþ ïîëó÷åíèÿ ïëîòñêèõ óäîâîëüñòâèé. ß äîëæ[Root.GetNaEn] îñòàíîâèòüñÿ.;;x
+EVTDESC6207;The road to heaven is hard and demanding. Jesus tells me I must be self controlled and disciplined.;;;;;;;;;;;Äîðîãà â ðàé òÿæåëà è òðóäíà. Èèñóñ ãîâîðèò ìíå êîíòðîëèðîâàòü ñåáÿ è ñòàòü äèñöèïëèíèðîâàííûì ÷åëîâåêîì.;;x
+EVTDESC6208;I try to justify it to him, but I know I lie not just to him, but to myself. I condemned things eternal for the sake of temporal things.;;;;;;;;;;;ß ñòàðàþñü îïðàâäàòü ýòî ïåðåä íèì, íî ÿ çíàþ, ÷òî ÿ ëãó íå òîëüêî åìó, íî è ñåáå. ß îáð¸ê âå÷íûå èñòèííû ðàäè âðåìåííûõ çàáàâ.;;x
+EVTDESC6209;I feel the love of God infuse my soul. Jesus tells me it is only way to truly glorify God.;;;;;;;;;;;ß ÷óâñòâóþ, ÷òî ëþáîâü ê Áîãó íàïîëíèëà ìîþ äóøó. Èèñóñ ãîâîðèò ìíå, ÷òî ýòî åäèíñòâåííûé ñïîñîá ïî-íàñòîÿùåìó ïðîñëàâèòü Áîãà.;;x
+EVTDESC6210;There was a Lion without, I though I would be slain in the Streets, but then the Lion said unto me let go your slothful ways and I realized who the Lion was.;;;;;;;;;;;"Ëåíèâåö ãîâîðèò: ""Ëåâ íà óëèöå! Ïîñðåäè ïëîùàäè óáüþò ìåíÿ!"". Íî ïîñëå Ëåâ ñêàçàë ìíå: îñòàâü ñâîþ ïðàçäíîñòü! È ÿ ïîíÿë[Root.GetEndA], êòî áûë òåì Ëüâîì.";;x
+EVTDESC6211;I hear him whispering to me, that it is for me to glory God, not to leave it unto others. I shall do thus and be more diligent in my tasks.;;;;;;;;;;;ß ñëûøó êàê îí øåï÷åò ìíå, ÷òî óñåðäíûé òðóä - ýòî âñåãäà ïðîñëàâëåíèå Áîãà. ß òàê è ñäåëàþ è áóäó áîëåå óñåðäí[Root.GetOyYm] â ñâîèõ òðóäàõ.;;x
+EVTDESC6212;My neighbor has quite probably the finest ass around, but then Jesus whispered to me that this was wrong.;;;;;;;;;;;Âïîëíå âîçìîæíî, ÷òî ó ìîåãî ñîñåäà ñàìûå ëó÷øèå îñëû â îêðóãå, íî Èèñóñ øåïíóë ìíå, ÷òî ýòî íå ïðàâèëüíî.;;x
+EVTDESC6213;For too long I have felt incomplete, that my spirit was somehow lacking. Then the voice reminded me that the true fruit of the spirit was kindness. ;;;;;;;;;;;Ñëèøêîì äîëãî ìíå êàçàëîñü, ÷òî ÿ íå âñ¸ äåëàþ ïðàâèëüíî, ÷òî ìîåìó äóõó ÷åãî-òî íå õâàòàåò. Çàòåì âíóòðåííèé ãîëîñ íàïîìíèë ìíå, ÷òî íàñòîÿùåå ñîêðîâèùå äóõà - äîáðîòà.;;x
+EVTDESC6214;For too long I have directed my anger towards those who dimply do not deserve it. Jesus whispered to me and reminded me that I should direct it those who had sinned.;;;;;;;;;;;Ñëèøêîì äîëãî ìîé ãíåâ íàïðàâëÿëñÿ íà òåõ, êòî ýòîãî íå çàñëóæèâàë. Èèñóñ îáðàòèëñÿ êî ìíå è íàïîìíèë, ÷òî ïðàâåäíûé ãíåâ íàïðàâëÿåòñÿ íà ãðåøíèêîâ.;;x
+EVTDESC6215;I have been so quick to judge, I realize it now. The voice reminds me that I should seek what is good for all.;;;;;;;;;;;Òîëüêî ñåé÷àñ ìíå óäàëîñü îñîçíàòü, íàñêîëüêî íåâåðíûìè áûëè ìîè ñóæäåíèÿ. Ìîé âíóòðåííèé ãîëîñ íàïîìèíàåò ìíå, ÷òî íóæíî èñêàòü ðåøåíèå, êîòîðîå óñòðîèò âñåõ.;;x
+EVTDESC6216;I am proud and I thought myself noble for I rejected all that was weak and insipid. Then the voice reminded me that I was rejecting God when I worshipped myself thus?;;;;;;;;;;;Ìîÿ ãîðäîñòü èçäàâíà ïîäïèòûâàëàñü ìûñëüþ î ñîáñòâåííîì áëàãîðîäñòâå è ïðåçðåíèè êî âñåìó ñëàáîìó è íèê÷¸ìíîìó. Íî âíóòðåííèé ãîëîñ íàïîìíèë ìíå, ÷òî, îòâåðãàÿ Áîãà, ÿ ïîêëîíÿþñü ñàìîìó ñåáå.;;x
+EVTDESC6217;For too long I believed that it was the Greeks who would inherit the earth. Then Jesus whispered that is was simply a typo in my Bible and that in reality it was the meek.;;;;;;;;;;;"Ìíå âñåãäà êàçàëîñü, ÷òî ãðåêè áóäóò òåìè, êòî ïîêîðèò Çåìëþ. Çàòåì Èèñóñ øåïíóë ìíå, ÷òî â ìîåé áèáëèè ïðîñòî îïå÷àòêà, â äåéñòâèòåëüíîñòè ýòî ""êðîòêèå"".";;x
+EVTDESC6218;Jesus whispers have become more frantic of late. He is worried that Satan has corrupted his words through his agents at the various ecumenical councils. He has asked me to seek out the good news that Philip brought so that I can understand the true role of Mary.;;;;;;;;;;;Ø¸ïîò Èèñóñà ñòàë íàñòîé÷èâåå â ïîñëåäíåå âðåìÿ. Îí îáåñïîêîåí òåì, ÷òî Ñàòàíà èñêàçèë Åãî ñëîâà ÷åðåç ñâîèõ ïðèñïåøíèêîâ â ðàçíûõ êîíöàõ ìèðà. Îí ïîïðîñèë ìåíÿ ðàçûñêàòü õîðîøèå íîâîñòè, êîòîðûå ïðèí¸ñ Ôèëèï, ÷òîáû ìíå óäàëîñü îáðåñòè ïîíèìàíèå èñòèííîé ðîëè Ìàðèè.;;x
+EVTDESC6219;For too long I have felt powerless as our enemies advance, but lately Jesus has been promising me victories if only I can get command.;;;;;;;;;;;Äîëãèå ãîäû áåñïîìîùíîñòü äàâëåëà íàäî ìíîé, â òî âðåìÿ, êàê âðàãè ïðîäâèãàëèñü âïåð¸ä. Íî òåïåðü Èèñóñ ïîîáåùàë ìíå ïîáåäó, åñëè ÿ ñìîãó îáúåäèíèòü ëþäåé âîêðóã ñåáÿ.;;x
+EVTDESC6220;Lately Jesus has fallen silent over military matters. I feel somehow lessened because without the Lord who am I?;;;;;;;;;;;Êîãäà íàñòàëî âðåìÿ âîåííûõ ñîâåòîâ, Èèñóñ çàìîë÷àë. ß ÷óâñòâóþ áåççàùèòíîñòü è îäèíî÷åñòâî. Êòî ÿ áåç Ãîñïîäà?;;x
+EVTDESC6221;I felt the holy spirit fill me and just like the Apostles of yore I could speak in the tongues of many peoples, as the holy spirit gave me the power to express myself.;;;;;;;;;;;ß ÷óâñòâóþ, êàê Ñâÿòîé Äóõ íàïîëíÿåò ìåíÿ, è, êàê àïîñòîëû ïðîøëîãî, ÿ ìîãó ãîâîðèòü íà ìíîãèõ ÿçûêàõ. Ñâÿòîé Äóõ äàë ìíå ñèëû âûðàçèòü ñåáÿ.;;x
+EVTDESC6222;The holy spirit left me and I felt lessened. Some cynics commented that I was finally sober, but they did not understand what the true love of the Lord felt like.;;;;;;;;;;;Ñâÿòîé äóõ ïîêèíóë ìåíÿ è ÿ ÷óâñòâóþ îïóñòîø¸ííîñòü. Íåêîòîðûå öèíèêè ñêàçàëè, ÷òî ýòî òðåçâîñòü, íî îíè ïðîñòî íå ïîíèìàþò, ÷òî çíà÷èò èñïûòûâàòü íàñòîÿùóþ ëþáîâü Ãîñïîäà.;;x
+EVTDESC6223;I had been hearing a voice for some time now but I couldn't quite place it. Then I felt its presence fill me and it did not feel divine.;;;;;;;;;;;ß ñëûøó ãîëîñ âíóòðè ñåáÿ íåêîòîðîå âðåìÿ, íî íå óçíàþ åãî. ß ÷óâñòâóþ, ÷òî åãî ïðèñóòñòâèå çàïîëíÿåò ìåíÿ, è ïîíèìàþ, ÷òî íå îùóùàþ íè÷åãî áîæåñòâåííîãî.;;x
+EVTDESC6224;I wasn't sure what to do, when [Root.Religion.GetRandomEvilGodName] himself whispered to me. I should talk to one of the denizens of my dungeon.  As I listened to the prisoner's appeal for mercy Satan whispered to me once more that they weren't very sincere. Perchance a little time on the rack would help him.;;;;;;;;;;;ß íå çíàþ, ÷òî äåëàòü, êîãäà ñàì [Root.Religion.GetRandomEvilGodName] øåï÷åò ìíå. Íóæíî ïîãîâîðèòü ñ îäíèì èç îáèòàòåëåé ìîåãî ïîäçåìåëüÿ. ß ñëûøó ìîëüáû ïëåííèêà î ìèëîñåðäèè, à Ñàòàíà øåï÷åò ìíå âíîâü, ÷òî ìîëüáû íå î÷åíü òî è èñêðåííè. Ìîæåò áûòü, íåìíîãî âðåìåíè íà äûáå ìîãëè áû ïîìî÷ü åìó.;;x
+EVTDESC6225;He came to me while I slept, it seemed almost as if it was a dream. He had three heads, the body of a man, the legs of a cock and the tail of a serpent. He taught me something about myself that I had always known but denied.;;;;;;;;;;;Ñàòàíà ïðèø¸ë êî ìíå âî ñíå, è îêàçàëñÿ ïî÷òè òàêèì, êàêèì ÿ åãî ïðåäñòàâëÿë[Root.GetEndA] - òðè ãîëîâû, òåëî ÷åëîâåêà, íîãè ïåòóõà è õâîñò çìåè. Îí ïîâåäàë êîå-÷òî îáî ìíå, ÷òî ÿ, êîíå÷íî, è òàê âñåãäà çíàë[Root.getEndA], íî îòêàçûâà[Root.GetLasLsya] ïîâåðèòü.;;x
+EVTDESC6226;As I sat and looked at the fish course, the fish spoke to me and reminded me that my neighbor's titles were rich and should be mine.;;;;;;;;;;;ß ñèæó è ñìîòðþ íà ðûáó... È âîò ðûáà çàãîâîðèëà ñî ìíîé è íàïîìíèëà ìíå, ÷òî ó áëèæíåãî ìîåãî åñòü áîãàòûå òèòóëû è îíè äîëæíû áûòü ìîèìè.;;x
+EVTDESC6227;Asmodeus asked me why I was denying myself sensual pleasures. I told him it was sin and he reminded me that the Lord God himself had commanded that we should go forth and multiply.;;;;;;;;;;;Àñìîäåé ñïðîñèë ìåíÿ, ïî÷åìó ÿ îòêàçûâàþ ñåáå â ÷óâñòâåííûõ óäîâîëüñòâèÿõ. ß ãîâîðþ åìó, ÷òî ýòî ãðåõ, è îí íàïîìíèë ìíå, ÷òî ñàì Ãîñïîäü Áîã âåëåë íàì, ÷òîáû ìû ïëîäèëèñü è ðàçìíîæàëèñü.;;x
+EVTDESC6228;I told Asmodeus that lust is a sin against God, and he whispered quietly that I am made in God's image. If I have these urges then it is only because God does too.;;;;;;;;;;;ß ãîâîðþ Àñìîäåþ, ÷òî ïîõîòü - ãðåõ, ïðîòèâíûé Áîãó, è îí ïðîøåïòàë ñïîêîéíî, ÷òî ÿ - òâîðåíèå, ñîçäàííîå ïî ïîäîáèþ Áîæüåìó. Åñëè ó ìåíÿ åñòü ïîäîáíûå æåëàíèÿ, òî òîëüêî ïîòîìó, ÷òî Áîã èìååò òàêèå æå.;;x
+EVTDESC6229;I was patient and listened to the knight as he explained to me why the world was shaped like a banana. I knew it was Satan's voice who said why do you listen to this fool, your eyes prove the world is flat.;;;;;;;;;;;ß òåðïåëèâî ñëóøàþ ðûöàðÿ... Îí îáúÿñíÿåò ìíå, ïî÷åìó ìèð áûë ñîçäàí â âèäå áàíàíà. È òóò ÿ ñëûøó ãîëîñ Ñàòàíû, êîòîðûé ãîâîðèò, ÷òî íå ñòîèò ñëóøàòü ýòîãî äóðàêà, âåäü ìîè ãëàçà äîêàçûâàþò, ÷òî ìèð ïëîñêèé.;;x
+EVTDESC6230;The servant dropped the meat and the dogs immediately drove upon it. The waste angered me but I held my temper, then the voice whispered to me as it has so often before: 'Why do you accept this foolishness?';;;;;;;;;;;"Ñëóãà âûáðîñèë ìÿñî, è ñîáàêè ñðàçó æå íàáðîñèëèñü íà íåãî. Òàêîå ðàñòî÷èòåëüñòâî ðàçîçëèëî ìåíÿ, îäíàêî ÿ ñäåðæà[Root.GetLasLsya] è íå ïîçâîëèë[Root.GetEndA] ñåáå âñïûëèòü, íî ãîëîñ âíóòðè ìåíÿ øåïíóë, êàê áûâàëî è ðàíüøå: ""Ïî÷åìó òû òåðïèøü ýòó ãëóïîñòü?"".";;x
+EVTDESC6231;At the sermon the father reminded the congregation of my humbleness. Then a voice whispered in my ear, I know it is the morning star, and he told me that the father was making a fool out of me. The so called priest was a wealthy man who ate well while the poor starved.;;;;;;;;;;;Â ñâîåé ïðîïîâåäè ñâÿòîé îòåö íàïîìíèë ïàñòâå î ìî¸ì ñìèðåíèè. Çàòåì ÷åé-òî ãîëîñ øåïíóë ìíå íà óõî, ÿ äóìàþ, ýòî áûë ãîëîñ óòðåííåé çâåçäû, ÷òî ñâÿòîé îòåö äåëàåò èç ìåíÿ äóðàêà. Òàê íàçûâàåìûé ñâÿùåííèê - áîãàòûé ÷åëîâåê, êîòîðûé õîðîøî åñò, â òî âðåìÿ êàê áåäíûå ãîëîäàþò.;;x
+EVTDESC6232;I sat in contemplation of my life and wondered why it was that I wasn't getting my due. Then a voice whispered to me, I know it to be Lucifer, who told me it was my right to have a throne higher than the clouds and over the earth.;;;;;;;;;;;ß ñèäåë[Root.GetEndA] è äóìàë[Root.GetEndA] î ñâîåé æèçíè, çàäàâàÿñü âîïðîñîì î òîì, ïî÷åìó ñëó÷àëîñü òàê, ÷òî ÿ, áûâàëî, íå ïîëó÷àë[Root.GetEndA] òîãî, ÷òî äîëæíî. Òîãäà ãîëîñ çàøåïòàë ìíå, ÿ äóìàþ, ÷òî ýòî áûë ãîëîñ Ëþöèôåðà, ÷òî ó ìåíÿ åñòü ïðàâî íà òðîí áîëåå âûñîêîå, ÷åì ó îáëàêîâ íàä çåìë¸é.;;x
+EVTDESC6233;I always tried to avoid eating too much, as I felt it a sin. The Lord of the flies whispered softly in my ear, that I should enjoy all the fruits of God's creation.;;;;;;;;;;;ß âñåãäà ïûòà[Root.GetLasLsya] èçáåæàòü ÷ðåâîóãîäèÿ, ïîñêîëüêó ÷óâñòâîâàë[Root.GetEndA], ÷òî ýòî ãðåõ. Ïîâåëèòåëü æå ìóõ øåïíóë ìíå â óõî, ÷òî íóæíî íàñëàæäàòüñÿ âñåìè ïëîäàìè, ÷òî ñîçäàë Ãîñïîäü.;;x
+EVTDESC6234;I looked upon  the table and my mouth salivated at the rich odours. I felt the urge to fill my plate as much as I could and the Beelzebub whispered why not?;;;;;;;;;;;"ß ðàññìàòðèâàþ áîãàòûé ñòîë, à ìîé ðîò íàïîëíÿåòñÿ ñëþíîé îò îáèëèÿ ñîáëàçíèòåëüíûõ àðîìàòîâ. ß ÷óâñòâóþ íåîáû÷àéíóþ òÿãó ñúåñòü ñòîëüêî ñêîëüêî ñìîãó, è Âåëüçåâóë øåïíóë - ""À ïî÷åìó íåò?"".";;x
+EVTDESC6235;As I watched the Almoner hand out coins I wondered is it really so good that those who are clearly going to squander the money should receive it. Mammon came to me later and pointed out the logic in my thoughts, we should try to save first those who can be saved.;;;;;;;;;;;ß íàáëþäàþ çà ðàçäà÷åé ìîíåò íóæäàþùèìñÿ, è çàäàþñü âîïðîñîì - äåéñòâèòåëüíî ëè ýòî òàê õîðîøî, ÷òî òå, êòî ÿâíî ñîáèðàåòñÿ ðàçáàçàðèòü äåíüãè, äîëæíû ïîëó÷àòü èõ, íå ïðèëàãàÿ óñèëèé. Ãîëîñ øåï÷åò ìíå è óêàçûâàåò íà ëîãèêó â ìîèõ ìûñëÿõ - ìû äîëæíû ïîïûòàòüñÿ ñïàñòè ñíà÷àëà òåõ, êòî óìååò ýêîíîìèòü.;;x
+EVTDESC6236;It was hard to sleep, while Mammon softly whispered in my ear. He was telling me about all the things that should be mine but  others had The more he whispered the more it made sense.;;;;;;;;;;;Áûëî òðóäíî óñíóòü, òàê êàê íåêèé Ãîëîñ ìÿãêî øåïòàë â ìî¸ì óõå. Îí ãîâîðèë ìíå îáî âñåõ òåõ âåùàõ, êîòîðûå äîëæíû áûòü ìîèìè, íî ïî÷åìó-òî äðóãèå âëàäåþò èìè. ×åì áîëüøå îí ãîâîðèë, òåì áîëüøå ýòî èìåëî ñìûñë.;;x
+EVTDESC6237;It was the Leviathan who told me that I was merely being weak. I should stop it and show my strength.;;;;;;;;;;;Ëåâèàôàí ñêàçàë ìíå, ÷òî ÿ ïðîñòî âî âñ¸ì è âñåãäà áûë[Root.GetEndA] ñëàá[Root.GetEndA]. È íóæíî ïðåêðàòèòü ïðîÿâëÿòü ñëàáîñòü, ïîêàçàâ âñåì ñâîþ ñèëó.;;x
+EVTDESC6238;The Leviathan whispered to me and reminded me that there were those who had that did not deserve it and then there were those like me who deserved so much more.;;;;;;;;;;;Ëåâèàôàí øåïíóë ìíå è íàïîìíèë, ÷òî âñåãäà áûëè òå, êòî èìåë ÷òî-ëèáî, ÷òî íå çàñëóæèë, è âñåãäà áûëè òàêèå êàê ÿ. Òî åñòü òå, êòî çàñëóæèë èìåòü íå òîëüêî òî, ÷òî ïåðâûå, íî äàæå è áîëüøå.;;x
+EVTDESC6239;Belphegor was wondering why I was always so busy. I am top of the tree, compared to the serfs, so why should I not take the time to enjoy it?;;;;;;;;;;;Áåëüôåãîð ïîèíòåðåñîâàëñÿ, ïî÷åìó ÿ âñåãäà òàê çàíÿò[Root.GetEndA]. ß íà âåðõóøêå äåðåâà, ïî ñðàâíåíèþ ñ êðåñòüÿíàìè, òàê ïî÷åìó áû ìíå íå âûäåëèòü âðåìÿ, ÷òîáû íàñëàäèòüñÿ ýòèì ïîëîæåíèåì?;;x
+EVTDESC6240;I often wondered why I bother about such trivial things. Belphegor keeps urging me to save my energy for when it really matters.;;;;;;;;;;;ß ÷àñòî çàäàþñü âîïðîñîì, ïî÷åìó ÿ áåñïîêîþñü î âñÿêèõ òðèâèàëüíûõ âåùàõ. Áåëüôåãîð ïðîäîëæàåò óáåæäàòü ìåíÿ ñîõðàíÿòü ñâîþ ýíåðãèþ äëÿ òîãî, ÷òî äåéñòâèòåëüíî èìååò çíà÷åíèå.;;x
+EVTDESC6300;You have decided to introduce a new law to the good people of the realm, as is your right as their ruler. Now you just have to decide on its contents...;;;;;;;;;;;Âû ðåøèëè ïðåäñòàâèòü íîâûé çàêîí ëþäÿì ãîñóäàðñòâà, ïîñêîëüêó ýòî Âàøå ïðàâî, êàê èõ ïðàâèòåëÿ. Òåïåðü îñòà¸òñÿ òîëüêî ïðèíÿòü ðåøåíèå î åãî ñîäåðæàíèè...;;x
+EVTDESC6301;"Your slightly eccentric liege has proclaimed a new law that is to be upheld throughout the realm. It reads:\n\n""Whereas the turnip represents the very best qualities to be found in society, and: whereas it is of fine texture, particularly when boiled, and has been proven to remedy all ailments known to Man when consumed:\n\nTherefore I, [From.GetTitledName], decree that the turnip shall henceforth be used as currency throughout the realm, taking the place of gold, silver or any other precious metal. These shall instead be turned over to the Crown for immediate disposal.""";;;;;;;;;;;"Âàø ýêñöåíòðè÷íûé ñþçåðåí ïðîâîçãëàøàåò íîâûé çàêîí, êîòîðûé äîëæåí áûòü ïðèíÿò ïî âñåé ñòðàíå. Â í¸ì ãîâîðèòñÿ:\n""Ðåïà èìååò ñàìûå ëó÷øèå êà÷åñòâà, êîòîðûå ìîæåò íàéòè îáùåñòâî, à òàêæå ÿâëÿåòñÿ ïðåêðàñíîé åäîé, åñëè å¸ ñâàðèòü, è äîêàçàíî - óñòðàíÿåò âñå áîëåçíè èçâåñòíûå ÷åëîâåêó.\nÏîñåìó ÿ, [From.GetTitledFirstName], îáúÿâëÿþ î òîì, ÷òî ðåïà îòíûíå áóäåò èñïîëüçîâàòüñÿ â êà÷åñòâå âàëþòû â ãîñóäàðñòâå, çàíÿâ ìåñòî çîëîòà, ñåðåáðà èëè äðóãîãî äðàãîöåííîãî ìåòàëëà. Äðàãîöåííûå ìåòàëëû áóäóò ïåðåäàíû Êîðîíå äëÿ íåìåäëåííîãî ðàñïîðÿæåíèÿ.""";;x
+EVTDESC6302;"Your slightly eccentric liege has proclaimed a new law that is to be upheld throughout the realm. It reads:\n\n""Whereas pants constrict not only the lower limbs and reproductive organs, but also the human soul, and: whereas pants are known to be an affront to all forms of life but Man:\n\nTherefore I, [From.GetTitledName], command that the use of pants be outlawed throughout the realm under penalty of death. All existing variants of this garment are to be immediately burned, and the ashes distributed evenly over the graves of our forefathers.""";;;;;;;;;;;"Âàø ýêñöåíòðè÷íûé ñþçåðåí ïðîâîçãëàøàåò íîâûé çàêîí, êîòîðûé äîëæåí áûòü ïðèíÿò ïî âñåé ñòðàíå. Â í¸ì ãîâîðèòñÿ:\n""Áðþêè ñóæàþò íå òîëüêî íîãè è ïîëîâûå îðãàíû, íî è ÷åëîâå÷åñêóþ äóøó. Îíè, êàê èçâåñòíî, ÿâëÿþòñÿ îñêîðáëåíèåì äëÿ âñåõ ëþäåé.\nÏîñåìó ÿ, [From.GetTitledFirstName], îáúÿâëÿþ, ÷òî èñïîëüçîâàíèå áðþê âíå çàêîíà ïî âñåé ñòðàíå ïîä ñòðàõîì ñìåðòíîé êàçíè. Âñå ñóùåñòâóþùèå âàðèàíòû ýòîé îäåæäû äîëæíû áûòü íåìåäëåííî ñîææåíû, à ïåïåë ðàâíîìåðíî ðàçâåÿí íàä ìîãèëàìè íàøèõ ïðåäêîâ.""";;x
+EVTDESC6303;"Your slightly eccentric liege has proclaimed a new law that is to be upheld throughout the realm. It reads:\n\n""Whereas the positive effects of fresh air is known to all, and: whereas the movement of the wind must not be obstructed by man-made structures:\n\nTherefore I, [From.GetTitledName], decree that all homesteads throughout the realm are to have two holes, each no smaller than a grown peasant standing with arms outstretched, in opposite walls facing each other to allow free passage of the wind. These holes are not to be covered by planks, windows, doors or cattle. If any member of the household is known to exhibit severe flatulence, the holes shall number three and no less.""";;;;;;;;;;;"Âàø ýêñöåíòðè÷íûé ñþçåðåí ïðîâîçãëàøàåò íîâûé çàêîí, êîòîðûé äîëæåí áûòü ïðèíÿò ïî âñåé ñòðàíå. Â í¸ì ãîâîðèòñÿ:\n""Ïðèíèìàÿ âî âíèìàíèå èçâåñòíûé âñåì ïîëîæèòåëüíûé ýôôåêò ñâåæåãî âîçäóõà, äâèæåíèå âåòðà íå äîëæíî ïðåðûâàòüñÿ èñêóññòâåííûìè ñîîðóæåíèÿìè.\nÏîñåìó ÿ, [From.GetTitledFirstName], îáúÿâëÿþ, ÷òî âî âñåõ äâîðàõ ñòðàíû äîëæíû áûòü äâà îòâåðñòèÿ, êàæäîå íå ìåíüøå, ÷åì âçðîñëûé êðåñòüÿíèí ñòîÿùèé ñ âûòÿíóòûìè ðóêàìè îò îäíîé ïðîòèâîïîëîæíîé ñòåíû ê äðóãîé, ÷òîáû äàòü âîçäóõó ñâîáîäíûé ïðîõîä. Ýòè îòâåðñòèÿ íå äîëæíû áûòü ïðèêðûòû äîñêàìè, îêíàìè, äâåðÿìè èëè êðóïíûì ðîãàòûì ñêîòîì. Åñëè ÷ëåí ñåìüè, ñòðàäàåò ìåòåîðèçìîì, îòâåðñòèé äîëæíî áûòü íå ìåíåå òð¸õ.""";;x
+EVTDESC6304;"Your slightly eccentric liege has proclaimed a new law that is to be upheld throughout the realm. It reads:\n\n""Whereas the children of the realm have become desensitised to violence, and: whereas the general populace seems to have lost all regard for the sanctity of human life:\n\nTherefore I, [From.GetTitledName], decree that all forms of violence directed at other human beings be outlawed, including both capital and corporal punishment as well as the torture of criminals, heathens and foreigners. These vulnerable social groups are instead to be rehabilitated and eventually released back into society as productive citizens.""";;;;;;;;;;;"Âàø ýêñöåíòðè÷íûé ñþçåðåí ïðîâîçãëàøàåò íîâûé çàêîí, êîòîðûé äîëæåí áûòü ïðèíÿò ïî âñåé ñòðàíå. Â í¸ì ãîâîðèòñÿ:\n""Äåòè ñòàëè ñêëîííû ê íàñèëèþ, à íàñåëåíèå ïîòåðÿëî âñ¸ óâàæåíèå ê ñâÿòîñòè ÷åëîâå÷åñêîé æèçíè.\nÏîñåìó ÿ, [From.GetTitledFirstName], îáúÿâëÿþ çàêîí î òîì, ÷òî âñå ôîðìû íàñèëèÿ, íàïðàâëåííûå íà äðóãèõ ëþäåé îáúÿâëåíû âíå çàêîíà, â òîì ÷èñëå è ìàðîä¸ðñòâî, òåëåñíûå íàêàçàíèÿ, à òàêæå ïûòêè ïðåñòóïíèêîâ, ÿçû÷íèêîâ è èíîñòðàíöåâ. Ýòè óÿçâèìûå ñîöèàëüíûå ãðóïïû äîëæíû áûòü ðåàáèëèòèðîâàíû, îñâîáîæäåíû è èíòåãðèðîâàíû â îáùåñòâî, êàê äîáðîïîðÿäî÷íûå ãðàæäàíå.""";;x
+EVTDESC6305;"The new law has been written and couriers are even now distributing it to all of your vassals. You admire your handiwork:\n\n""Whereas the turnip represents the very best qualities to be found in society, and: whereas it is of fine texture, particularly when boiled, and has been proven to remedy all ailments known to Man when consumed:\n\nTherefore I, [Root.GetTitledName], decree that the turnip shall henceforth be used as currency throughout the realm, taking the place of gold, silver or any other precious metal. These shall instead be turned over to the Crown for immediate disposal.""";;;;;;;;;;;"Íîâûé çàêîí íàïèñàí, è ãîíöû ñîîáùàþò î í¸ì âñåì Âàøèì âàññàëàì. Âû ëþáóåòåñü ñâîåé ðàáîòîé:\n""Ðåïà èìååò ñàìûå ëó÷øèå êà÷åñòâà, êîòîðûå ìîæåò íàéòè îáùåñòâî, à òàêæå ÿâëÿåòñÿ ïðåêðàñíîé åäîé, åñëè å¸ ñâàðèòü, è äîêàçàíî - óñòðàíÿåò âñå áîëåçíè èçâåñòíûå ÷åëîâåêó.\nÏîñåìó ÿ, [From.GetTitledFirstName], îáúÿâëÿþ î òîì, ÷òî ðåïà îòíûíå áóäåò èñïîëüçîâàòüñÿ â êà÷åñòâå âàëþòû â ãîñóäàðñòâå, çàíÿâ ìåñòî çîëîòà, ñåðåáðà èëè äðóãîãî äðàãîöåííîãî ìåòàëëà. Äðàãîöåííûå ìåòàëëû áóäóò ïåðåäàíû Êîðîíå äëÿ íåìåäëåííîãî ðàñïîðÿæåíèÿ.""";;x
+EVTDESC6306;"The new law has been written and couriers are even now distributing it to all of your vassals. You admire your handiwork:\n\n""Whereas pants constrict not only the lower limbs and reproductive organs, but also the human soul, and: whereas pants are known to be an affront to all forms of life but Man:\n\nTherefore I, [From.GetTitledName], command that the use of pants be outlawed throughout the realm under penalty of death. All existing variants of this garment are to be immediately burned, and the ashes distributed evenly over the graves of our forefathers.""";;;;;;;;;;;"Íîâûé çàêîí íàïèñàí è ãîíöû ñîîáùàþò î í¸ì âñåì Âàøèì âàññàëàì. Âû ëþáóåòåñü ñâîåé ðàáîòîé:\n""Áðþêè ñóæàþò íå òîëüêî íîãè è ïîëîâûå îðãàíû, íî è ÷åëîâå÷åñêóþ äóøó. Îíè, êàê èçâåñòíî, ÿâëÿþòñÿ îñêîðáëåíèåì äëÿ âñåõ ëþäåé.\nÏîñåìó ÿ, [From.GetTitledFirstName], îáúÿâëÿþ, ÷òî èñïîëüçîâàíèå áðþê âíå çàêîíà ïî âñåé ñòðàíå ïîä ñòðàõîì ñìåðòíîé êàçíè. Âñå ñóùåñòâóþùèå âàðèàíòû ýòîé îäåæäû äîëæíû áûòü íåìåäëåííî ñîææåíû, à ïåïåë ðàâíîìåðíî ðàçâåÿí íàä ìîãèëàìè íàøèõ ïðåäêîâ.""";;x
+EVTDESC6307;"The new law has been written and couriers are even now distributing it to all of your vassals. You admire your handiwork:\n\n""Whereas the positive effects of fresh air is known to all, and: whereas the movement of the wind must not be obstructed by man-made structures:\n\nTherefore I, [From.GetTitledName], decree that all homesteads throughout the realm are to have two holes, each no smaller than a grown peasant standing with arms outstretched, in opposite walls facing each other to allow free passage of the wind. These holes are not to be covered by planks, windows, doors or cattle. If any member of the household is known to exhibit severe flatulence, the holes shall number three and no less.""";;;;;;;;;;;"Íîâûé çàêîí íàïèñàí è ãîíöû ñîîáùàþò î í¸ì âñåì Âàøèì âàññàëàì. Âû ëþáóåòåñü ñâîåé ðàáîòîé:\n""Ïðèíèìàÿ âî âíèìàíèå èçâåñòíûé âñåì ïîëîæèòåëüíûé ýôôåêò ñâåæåãî âîçäóõà, äâèæåíèå âåòðà íå äîëæíî ïðåðûâàòüñÿ èñêóññòâåííûìè ñîîðóæåíèÿìè.\nÏîñåìó ÿ, [From.GetTitledFirstName], îáúÿâëÿþ, ÷òî âî âñåõ äâîðàõ ñòðàíû äîëæíû áûòü äâà îòâåðñòèÿ, êàæäîå íå ìåíüøå, ÷åì âçðîñëûé êðåñòüÿíèí ñòîÿùèé ñ âûòÿíóòûìè ðóêàìè îò îäíîé ïðîòèâîïîëîæíîé ñòåíû ê äðóãîé, ÷òîáû äàòü âîçäóõó ñâîáîäíûé ïðîõîä. Ýòè îòâåðñòèÿ íå äîëæíû áûòü ïðèêðûòû äîñêàìè, îêíàìè, äâåðÿìè èëè êðóïíûì ðîãàòûì ñêîòîì. Åñëè ÷ëåí ñåìüè, ñòðàäàåò ìåòåîðèçìîì, îòâåðñòèé äîëæíî áûòü íå ìåíåå òð¸õ.""";;x
+EVTDESC6308;"The new law has been written and couriers are even now distributing it to all of your vassals. You admire your handiwork:\n\n""Whereas the children of the realm have become desensitised to violence, and: whereas the general populace seems to have lost all regard for the sanctity of human life:\n\nTherefore I, [From.GetTitledName], decree that all forms of violence directed at other human beings be outlawed, including both capital and corporal punishment as well as the torture of criminals, heathens and foreigners. These vulnerable social groups are instead to be rehabilitated and eventually released back into society as productive citizens.""";;;;;;;;;;;"Íîâûé çàêîí íàïèñàí è ãîíöû ñîîáùàþò î í¸ì âñåì Âàøèì âàññàëàì. Âû ëþáóåòåñü ñâîåé ðàáîòîé:\n""Äåòè ñòàëè ñêëîííû ê íàñèëèþ, à íàñåëåíèå ïîòåðÿëî âñ¸ óâàæåíèå ê ñâÿòîñòè ÷åëîâå÷åñêîé æèçíè.\nÏîñåìó ÿ, [From.GetTitledFirstName], îáúÿâëÿþ çàêîí î òîì, ÷òî âñå ôîðìû íàñèëèÿ, íàïðàâëåííûå íà äðóãèõ ëþäåé îáúÿâëåíû âíå çàêîíà, â òîì ÷èñëå è ìàðîä¸ðñòâî, òåëåñíûå íàêàçàíèÿ, à òàêæå ïûòêè ïðåñòóïíèêîâ, ÿçû÷íèêîâ è èíîñòðàíöåâ. Ýòè óÿçâèìûå ñîöèàëüíûå ãðóïïû äîëæíû áûòü ðåàáèëèòèðîâàíû, îñâîáîæäåíû è èíòåãðèðîâàíû â îáùåñòâî, êàê äîáðîïîðÿäî÷íûå ãðàæäàíå.""";;x
+EVTDESC6315;You are sitting on the floor of your bedchamber, wearing one of your shoes as a hat, when suddenly a man-sized gopher enters the room. It is dressed as a maid and when you shout in alarm, the rodent squeaks and skitters away in panic. You chase it down the hall but find only a terrified maid cowering on the floor.;;;;;;;;;;;Âû ñèäèòå íà ïîëó â ñâîåé êîìíàòå, íàäåâ íà ãîëîâó îáóâü, êàê âäðóã ïåðåä Âàìè ïîÿâëÿåòñÿ ñóñëèê ÷åëîâå÷åñêîãî ðîñòà. Ñóñëèê îäåò â êîñòþì ãîðíè÷íîé. Âû êðè÷èòå â óæàñå, îò ÷åãî ãðûçóí ïèùèò è óáåãàåò ïðî÷ü. Âû ïîãíàëèñü çà íèì, íî íàøëè òîëüêî èñïóãàííóþ ãîðíè÷íóþ íà ïîëó.;;x
+EVTDESC6316;You are hosting a dinner for some local dignitaries when the full moon comes into view in one of the windows. Trembling, you excuse yourself and hurry up the stairs to your bedchamber while stripping off your clothes. You are completely naked when the guards find you crouched on your balcony, howling at the moon.;;;;;;;;;;;Âû ïðîâîäèòå ó ñåáÿ îáåä ñ ìåñòíîé çíàòüþ, êàê âäðóã â îêíå ïîêàçûâàåòñÿ ïîëíàÿ ëóíà. Äðîæà, Âû ïðîñèòå ïðîùåíèÿ è óáåãàåòå ââåðõ ïî ëåñòíèöå ê Âàøåé êîìíàòå, ñêèäûâàÿ íà õîäó îäåæäó. Âàø îõðàííèê âèäèò, êàê ïîëíîñòüþ îãîëèâøèñü Âû âîåòå íà ëóíó.;;x
+EVTDESC6317;Your horse has always struck you as being of a dependable sort, a quality you feel is sorely lacking in your councillors. Time to shake things up a bit. You will appoint him as your new [Root.GetChancellorName].;;;;;;;;;;;Âàø êîíü âñåãäà ïîðàæàë ñâîåé íàä¸æíîñòüþ, ÷åãî íå ñêàæåøü î Âàøèõ ñîâåòíèêàõ. Íå ïîðà ëè íàçíà÷èòü åãî â ñâîé ñîâåò?;;x
+EVTDESC6318;Your mad [Root.Liege.GetTitle] has decided, in [Root.Liege.GetHerHis] infinite wisdom, to relieve you of your post as [Root.Liege.GetChancellorName]. Glitterhoof, [Root.Liege.GetHerHis] beloved horse, will be taking your place.;;;;;;;;;;;"[Root.Liege.GetTitle] â ñâî¸ì áåçóìèè è áåñêîíå÷íîé ìóäðîñòè ðåøàåò ëèøèòü Âàñ äîëæíîñòè ""[Root.Liege.GetChancellorName]"". Ãëèòòåðãîô, [Root.Liege.GetHersHis] ëþáèìûé êîíü, çàéì¸ò Âàøå ìåñòî.";;x
+EVTDESC6350;As I was lying in my bed at night I was suddenly woken by the hissing and growling of my favorite cat. The bedchamber was alive with scratching, scurrying noises, coming from the very walls themselves. I sprang from the bed, but the noises suddenly disappeared and a subsquent investigation of the chamber revealed nothing but patched stone walls.;;;;;;;;;;;Ïðîñíóâøèñü ñðåäè íî÷è îò øèïåíèÿ è ðû÷àíèÿ ìîå[Root.GetPetCatYGo] ëþáèìî[Root.GetPetCatYGo] [Root.GetPetCatGEN], ìíå ïîñëûøàëîñü, êàê ñïàëüíþ íàïîëíÿëè ñêðåæåò è øîðîõ, èñõîäÿùèå îò ñòåí. Ñòîèëî ìíå âñêî÷èòü ñ ïîñòåëè, è øóì âíåçàïíî ïðåêðàòèëñÿ, à ïîñëåäóþùèé îñìîòð íå âûÿâèë íè÷åãî, êðîìå êàìåííûõ ñòåí.;;x
+EVTDESC6351;The servant I had sent to fetch water never returned and when I went to investigate I noticed a strange light emanating from the well. I peered inside and saw a color like no color I had ever seen before. It was like smoke, cold and wet but burning my skin where it touched.;;;;;;;;;;;Ïîñëàííûé çà âîäîé ñëóãà íå âåðíóëñÿ. Ïðîãóëêà ðàäè ïðîâåðêè ïðèâåëà ìåíÿ ê ñòðàííîìó ñâåòó, èñõîäÿùåìó èç êîëîäöà. Òàì áûëî íå÷òî íåâèäàííîãî ìíîé öâåòà. Îíî áûëî ïîõîæå íà äûì, õîëîäíûé è âëàæíûé, íî æãëî ìîþ êîæó ïðè ñîïðèêîñíîâåíèè.;;x
+EVTDESC6352;I had repeatedly questioned my servant about the locked mausoleum beneath the castle but it wasn't until today that I found the key, hidden inside a rotting chest in the oldest castle tower. Inside the tomb's dusty passageways I found an empty stone coffin which bore the inscription '[Root.GetFirstName] [Root.GetOnlyDynastyName]'.;;;;;;;;;;;"ß ÷àñòî ðàññïðàøèâàþ ìîåãî ñëóãó î çàêðûòîì ñêëåïå. Íî ñåãîäíÿ ìíå ïîïàëñÿ êëþ÷, ñïðÿòàííûé â ñãíèâøåì ÿùèêå â ñàìîé ñòàðîé áàøíå. Â ïûëüíûõ êîðèäîðàìè îêàçàëñÿ ïóñòîé êàìåííûé ãðîá ñ íàäïèñüþ ""[Root.GetFirstName] [Root.GetOnlyDynastyName]"".";;x
+EVTDESC6353;An old cottar and his wife who were known for their cruelty to cats were found dead in their home this morning, their bones picked clean of meat. My steward tells me that the local townspeople had their cats go missing the day before, but all the missing cats returned today looking fat and happy...;;;;;;;;;;;Ñòàðûé êðåñòüÿíèí è åãî æåíà, èçâåñòíûå ñâîåé æåñòîêîñòüþ ê êîøêàì, áûëè íàéäåíû ñåãîäíÿ â ñâî¸ì äîìå ì¸ðòâûìè, à ìåñòàìè îáãëîäàííûìè äî êîñòåé. Ìîé [Root.GetTreasurerName] ãîâîðèò, ÷òî âñå êîøêè íàøåãî ãîðîäà íàêàíóíå èñ÷åçëè, à ñåãîäíÿ âåðíóëèñü ñûòûå è äîâîëüíûå;;x
+EVTDESC6354;Since the incident some weeks ago I have felt uneasy. I took a walk along the coast to clear my mind and found a small village where the people claimed to worship the 'Old Ones', Gods older than even those of the [Root.Religion.GetName] faith. They invited me to join in their rituals and showed me a dusty old grimoire written by a mad Saracen.;;;;;;;;;;;"Ïîñëå ïðîèçîøåäøåãî ñî ìíîé, ÿ îòïðàâè[Root.GetLasLsya] íà ïðîãóëêó âäîëü ïîáåðåæüÿ, î÷èñòèòü ñâîé ðàçóì. È îáíàðóæèë[Root.GetEndA] íåáîëüøóþ äåðåâíþ, å¸ æèòåëè ïîêëîíÿþòñÿ êàêèì-òî ""äðåâíèì"" áîãàì. Îíè ïðåäëîæèëè ó÷àñòèå â èõ ðèòóàëàõ è ïîêàçàëè ìíå ïûëüíûé ãðèìóàð, íàïèñàííûé áåçóìíûì ñàðàöèíîì.";;x
+EVTDESC6355;Intense study of the grimoire has gained me much knowledge. I have devised a ritual to awaken the most powerful of the Old Ones where he sleeps, dead but dreaming, in his watery tomb beneath the ocean. The cult has prepared the ritual attire and is gathering the necessary sacrifices.;;;;;;;;;;;"Èíòåíñèâíîå èçó÷åíèå ãðèìóàðà äàëî ìíå ìíîãî çíàíèé, â òîì ÷èñëå è äëÿ ïðîáóæäåíèÿ ñàìîãî ñèëüíîãî èç ""äðåâíèõ"", êîòîðûé ñïèò, ì¸ðòâûé, íî âèäÿùèé ñíû, â ñâîåé âîäÿíîé ãðîáíèöå ïîä îêåàíîì. Êóëüòèñòû ïîäãîòîâèëè ðèòóàëüíûå îäåæäû è ñîáèðàþò íåîáõîäèìîå äëÿ æåðòâîïðèíîøåíèÿ.";;x
+EVTDESC6356;The cult has gathered for the ritual on the shore of a black and stormy sea. The chanting begins, Ph'nglui mglw'nafh..., and in the depths of the dark waters something stirs...;;;;;;;;;;;Êóëüòèñòû ñîáðàëèñü íà ðèòóàë íà áåðåãó ÷¸ðíîãî îò øòîðìà ìîðÿ. Íà÷èíàåòñÿ ïåíèå: Ô'íãëóè ìãëâ'íàôõ... è â ãëóáèíå ò¸ìíûõ âîä ÷òî-òî âîðî÷àåòñÿ...;;x
+EVTDESC6357;I steered the longboat through the raging waters towards the monstrous creature. It stood as tall as a castle tower, with the body of a man and the head of a great tentacled beast. I knew that I had awoken it from where it slept beneath the waves and that it was here to end the age of man. There was only one thing I could do...;;;;;;;;;;;ß ïðàâëþ áàðêàñ ÷åðåç áóøóþùèå âîäû ê ÷óäîâèùó. Îíî ñòîèò âûñîêîå, êàê áàøíÿ, òåëî ÷åëîâåêà è ãîëîâà ñ îãðîìíûìè ùóïàëüöàìè. ß çíàþ, ÷òî îíî î÷íóëîñü îòî ñíà ïîä âîëíàìè è ýòî îçíà÷àåò êîíåö ýïîõè ëþäåé. Åñòü òîëüêî îäíî, ÷òî ÿ ìîãó ñäåëàòü...;;x
+EVTDESC6358;I awoke in my own bed weak and sweating. The servants told me that they had found me on the shore, naked and half-drowned. I asked them about the creature and the ship but they just looked at me with worried eyes and shook their heads. It seems I am the only living witness to these events.;;;;;;;;;;;Ïðîñíóâøèñü â ñâîåé ïîñòåëè â õîëîäíîì ïîòó, ÿ ÷óâñòâóþ ñëàáîñòü. Ñëóãè ñêàçàëè ìíå, ÷òî íàøëè ìåíÿ íà áåðåãó áåç îäåæäû. Ïîñëå ðàñïðîñîâ î ÷óäîâèùå è áàðêàñå, îíè ïîñìîòðåëè íà ìåíÿ ñ îçàáî÷åííûìè ãëàçàìè è ïîêà÷àëè ãîëîâàìè. Êàæåòñÿ, ÿ - åäèíñòâåííûé æèâîé ñâèäåòåëü ýòèõ ñîáûòèé.;;x
+EVTDESC6360;A loud sneeze interrupts [Root.GetMyMarshalName] [Root.job_marshal.GetTitledFirstName]'s speech on the importance of camp hygiene. 'I am sorry, my [Root.GetLordLady],' mutters [Root.job_spymaster.GetTitledFirstName], the [Root.GetSpymasterName], casting a quick glance at the cat on my lap. 'If you could only leave the creature out of our meetings, this would not happen again, I swear.';;;;;;;;;;;"[Root.GetMyMarshalName] [Root.job_marshal.GetTitledFirstName] ãîâîðèë[Root.job_marshal.GetEndA] î âàæíîñòè ãèãèåíû â ëàãåðå, íî ãðîìêîå ÷èõàíèå ïðåâðàëî [Root.job_marshal.GetHersHis] ðå÷ü. ""Ïðîøó ïðîùåíèÿ, [Root.PrimaryTitle.GetFOA], — ïðîáîðìîòàë[Root.job_spymaster.GetEndA] [Root.job_spymaster.GetTitledFirstName], Âàø [Root.GetSpymasterName], áðîñèâ áûñòðûé âçãëÿä íà [Root.GetPetCatACC] ó ìåíÿ íà êîëåíÿõ. — Íå ìîãëè áû Âû óáðàòü ýòî ñóùåñòâî, ïîêà ó íàñ ñîâåùàíèå, è òîãäà ýòî íå ïîâòîðèòñÿ, êëÿíóñü"".";;x
+EVTDESC6361;I am awoken by a soft pat on my cheek. 'Oh, Mittens. Are you having trouble falling asleep?' She jumps down from my bed and starts pawing at the door. 'Let's go to the kitchen and get you some warm milk.' But as I close my bedroom door behind me, Mittens heads in the opposite direction.;;;;;;;;;;;"Ïðèêîñíîâåíèå ÷åãî-òî ìÿãêîãî, ðàçáóäèëî ìåíÿ ñðåäè íî÷è. ""×òî òàêîå, [Root.GetPetCatName]? Íå ìîæåøü çàñíóòü? — ïðîáîðìîòàë[Root.GetEndA] ÿ ñïðîñîíüÿ. — Äàâàé ñõîäèì íà êóõíþ, ÿ äàì òåáå ò¸ïëîãî ìîëî÷êà"". Íî ñòîèëî ìíå îòîéòè îò ïîñòåëè, [Root.GetPetCatName] ïîâåðíóëñÿ â äðóãóþ ñòîðîíó.";;x
+EVTDESC6362;As I round a corner, I spot Mittens' fluffy tail as she squeezes through the chamber door of my [Root.GetSpymasterName], [Root.job_spymaster.GetFullName]! I enter, finding Mittens curled up on [Root.job_spymaster.GetHerHis] chest, licking [Root.job_spymaster.GetHerHis] face, but [Root.job_spymaster.GetFirstName] does not react. The [Root.job_spymaster.GetManWoman] before me is completely still, not even breathing, and [Root.job_spymaster.GetHerHis] face is strangely swollen...;;;;;;;;;;;"Ïîâåðíóâ çà óãîë, ÿ çàìåòèë[Root.GetEndA] ïóøèñòûé õâîñò, òîð÷àùèé èç [Root.GetChamberGEN] ìîåãî Òàéíîãî ñîâåòíèêà! Âîéäÿ òóäà, ÿ óâèäåë[Root.GetEndA], êàê [Root.job_spymaster.GetFullName] ëåæàë[Root.job_spymaster.GetEndA] íåïîäâèæíî â ïîñòåëè, à [Root.GetPetCatName] âûëèçûâàë[Root.GetPetCatEndA] [Root.job_spymaster.GetHersHis] ëèöî, ïîäîçðèòåëüíî áëåäíîå è îïóõøåå... ""Äà [Root.job_spymaster.GetSheHe] íå äûøèò!"" — íàêîíåö ïîíÿë[Root.GetEndA] ÿ.";;x
+EVTDESC6363;Apparently, it was not bad enough when that stupid animal glared at us from the saftey of [FromFrom.GetTitledFirstName]'s lap. Now it has its own chair, and a seat on the council, to boot! The [FromFrom.GetTitle] has informed us that the former [FromFrom.GetSpymasterName] was poisoned, but a servant who helped move the body insist that the [FromFrom.GetSpymasterName] was suffocated...;;;;;;;;;;;Îêàçûâàåòñÿ, êîãäà ýòî òóïîå æèâîòíîå ïÿëèëîñü íà íàñ, ëåæà íà êîëåíÿõ íàøå[FromFrom.GetYGo] [FromFrom.GetLordLadyGEN], âñ¸ áûëî íå òàê óæ è ïëîõî. Òåïåðü îíî ïîëó÷èëî äîëæíîñòü â ñîâåòå! [FromFrom.GetTitledFirstName] ñêàçàë[FromFrom.GetEndA], ÷òî ïðîøëîãî Òàéíîãî ñîâåòíèêà îòðàâèëè, íî ñëóãà, ïîìîãàâøèé âûíåñòè òåëî, óòâåðæäàåò, ÷òî ýòî óäóøåíèå.;;x
+EVTDESC6365;[From.GetSheHeCap] is so cute and fluffy, what would life even be like if I were to lose [From.GetHerHim]? I am not sure I could go on... I must do something about this and protect my beloved cat [From.GetBestName].;;;;;;;;;;;[From.GetTitledFirstNameWithNick] òàê[From.GetAyaOy] ìèë[From.GetAyaOy] è ïóøèñò[From.GetAyaYy]. Äàæå íå ìîãó ïðåäñòàâèòü, ÷òî áóäó äåëàòü, åñëè ïîòåðÿþ [From.GetHersHis]. ß íå óâåðåí[Root.GetEndA], ÷òî ñìîãó ïðîäîëæàòü æèòü... ß äîëæ[Root.GetNaEn] ÷òî-òî ñäåëàòü, êàê-òî çàùèòèòü ìî[From.GetYuEgo] ëþáèì[From.GetUyuOgo] [From.GetAgedPersonACC].;;x
+EVTOPTA6000;What is wrong with me?;;;;;;;;;;;×òî ñî ìíîé íå òàê?;;x
+EVTOPTA6001;I feel much better;;;;;;;;;;;ß ÷óâñòâóþ ñåáÿ íàìíîãî ëó÷øå;;x
+EVTOPTA6010;My face! My pretty face!;;;;;;;;;;;Ìî¸ ëèöî! Ìî¸ ïðåêðàñíîå ëèöî!;;x
+EVTOPTA6011;The potion worked!;;;;;;;;;;;Ñíàäîáüå ðàáîòàåò!;;x
+EVTOPTA6020;I can't defy them;;;;;;;;;;;ß íå ìîãó èãíîðèðîâàòü èõ;;x
+EVTOPTA6020_COMA;The darkness... it's still here!;;;;;;;;;;;Òüìà... Îíà íèêóäà íå èñ÷åçëà. Îíà âñ¸ åù¸ çäåñü!;;x
+EVTOPTA6020_FEVER;Who are they?!;;;;;;;;;;;×òî îíè òàêîå?!;;x
+EVTOPTA6020_PARA;What do they want?!;;;;;;;;;;;×òî îíè çàäóìàëè?!;;x
+EVTOPTA6020_PRISON;I must get out of this hellhole!;;;;;;;;;;;Íóæíî âûáðàòüñÿ èç ýòîé ïðîêëÿòîé äûðû!;;x
+EVTOPTA6020_ZEAL;They must all be cleansed!;;;;;;;;;;;Íóæíî î÷èñòèòü ìèð!;;x
+EVTOPTA6021;IT'S TOO QUIET!;;;;;;;;;;;ÒÅÏÅÐÜ ÑËÈØÊÎÌ ÒÈÕÎ!;;x
+EVTOPTA6030;Begone, foul demon!;;;;;;;;;;;Èçûäè, áåñ!;;x
+EVTOPTA6030_MUS;Begone, foul djinn!;;;;;;;;;;;Ïðî÷ü, íå÷åñòèâûé äæèíí!;;x
+EVTOPTA6031;Vade retro satana!;;;;;;;;;;;Vade retro satana!;;x
+EVTOPTA6031_ALL;Once again, to be on the safe side...;;;;;;;;;;;Åù¸ ðàç, íà âñÿêèé ñëó÷àé...;;x
+EVTOPTA6040;This is a lot of pressure...;;;;;;;;;;;Ýòî òàêîé ñòðåññ, òàêîé ñòðåññ...;;x
+EVTOPTA6041;Life isn't too bad;;;;;;;;;;;Æèçíü íå òàê ïëîõà;;x
+EVTOPTA6050;I really do.;;;;;;;;;;;Äà áóäåò òàê;;x
+EVTOPTA6051;I feel better now;;;;;;;;;;;Òåïåðü ÿ ÷óâñòâóþ ñåáÿ ëó÷øå;;x
+EVTOPTA6060;Please kill me!;;;;;;;;;;;Ïîæàëóéñòà, óáåéòå ìåíÿ!;;x
+EVTOPTA6061;Alive!;;;;;;;;;;;Óðà!;;x
+EVTOPTA6062;I can run!;;;;;;;;;;;Óðà, ìîæíî áåãàòü!;;x
+EVTOPTA6070;Something is very wrong with me;;;;;;;;;;;Ñî ìíîé ïðîèñõîäèò ÷òî-òî íåõîðîøåå;;x
+EVTOPTA6071;Finally!;;;;;;;;;;;Íàêîíåö-òî!;;x
+EVTOPTA6080;Why I oughta...;;;;;;;;;;;Çà ÷òî ìíå ýòî...;;x
+EVTOPTA6081;Ewww...;;;;;;;;;;;Ôóõ...;;x
+EVTOPTA6082;May [Root.Religion.GetRandomGodName] have mercy on us!;;;;;;;;;;;Ïîìèëóé íàñ, [Root.Religion.GetRandomGodName]!;;x
+EVTOPTA6100;Who are you? Oh, of course.;;;;;;;;;;;Êàê Âàñ ïî áàòþøêå? Àõ äà, êîíå÷íî...;;x
+EVTOPTA6110;So tired... zzz;;;;;;;;;;;×òî-òî ÿ óñòàë[Root.GetEndA]... Õðððð.....;;x
+EVTOPTA6111;O Fortuna;;;;;;;;;;;Ñëàâà Áîãó;;x
+EVTOPTA6112;I could eat a horse!;;;;;;;;;;;ß áû ñåé÷àñ ñëîíà ñúåë[Root.GetEndA]!;;x
+EVTOPTA6113;The fates are kind;;;;;;;;;;;Ñóäüáà óëûáàåòñÿ ìíå;;x
+EVTOPTA6114;HAHA!;;;;;;;;;;;ÕÀ-ÕÀ!;;x
+EVTOPTA6115;Time to get up;;;;;;;;;;;Ïîðà âñòàâàòü;;x
+EVTOPTA6116;Poxy no more!;;;;;;;;;;;Äîâîëüíî ñûïè íà êîæå!;;x
+EVTOPTA6200;Jesus calls to me;;;;;;;;;;;Èèñóñ Õðèñòîñ ïðèçâàë ìåíÿ;;x
+EVTOPTA6201;The Lord wills it;;;;;;;;;;;Äà áóäåò âîëÿ Ãîñïîäà;;x
+EVTOPTA6202;For my soul;;;;;;;;;;;ß áóäó áîðîòüñÿ çà ñâîþ äóøó;;x
+EVTOPTA6203;It's an omen;;;;;;;;;;;Ýòî çíàê;;x
+EVTOPTA6204;I will control my vices;;;;;;;;;;;Òåïåðü ÿ áóäó óïðàâëÿòü ñâîèìè ïîðîêàìè;;x
+EVTOPTA6205;And so I shall;;;;;;;;;;;Òàê ÿ è ñäåëàþ;;x
+EVTOPTA6206;I will stop;;;;;;;;;;;ß îñòàíîâëþñü;;x
+EVTOPTA6207;I will be ;;;;;;;;;;;È ÿ ñòàíó;;x
+EVTOPTA6208;God forgive me;;;;;;;;;;;Î Ãîñïîäè, ïðîñòè ìåíÿ!;;x
+EVTOPTA6209;Praise to God;;;;;;;;;;;Ñëàâà Áîãó;;x
+EVTOPTA6210;I will do as I was commanded;;;;;;;;;;;ß ñäåëàþ òàê, êàê áûëî ïîâåëåíî ìíå;;x
+EVTOPTA6212;Jesus is right, this is wrong;;;;;;;;;;;Èèñóñ ïðàâ, òàê íå ïîéä¸ò.;;x
+EVTOPTA6213;I will be more kind;;;;;;;;;;;ß áóäó ñíèñõîäèòåëüíåå.;;x
+EVTOPTA6214;I will be a true soldier of God;;;;;;;;;;;ß áóäó íàñòîÿùèì âîèíîì Ãîñïîäà!;;x
+EVTOPTA6215;I will do so;;;;;;;;;;;Òàê è ñäåëàþ.;;x
+EVTOPTA6216;Then I realized how wrong I was.;;;;;;;;;;;Òåïåðü ÿ âèæó ñâîþ îøèáêó.;;x
+EVTOPTA6217;Then I will be more meek;;;;;;;;;;;Òîãäà è ÿ áóäó ñêðîìíåå.;;x
+EVTOPTA6218;I will do as our Lord Commands;;;;;;;;;;;ß ñäåëàþ òàê, êàê ïðèêàæåò Ãîñïîäü.;;x
+EVTOPTA6219;As Jesus Wills;;;;;;;;;;;Êàê òîãî æåëàåò Èèñóñ.;;x
+EVTOPTA6220;It must be a punishment for my sins;;;;;;;;;;;Äîëæíî áûòü, ýòî íàêàçàíèå çà ìîè ãðåõè.;;x
+EVTOPTA6221;The only problem is no one else can;;;;;;;;;;;Åäèíñòâåííàÿ ïðîáëåìà â òîì, ÷òî íèêòî áîëüøå íå ìîæåò.;;x
+EVTOPTA6222;I am saddened. ;;;;;;;;;;;ß â ïå÷àëè.;;x
+EVTOPTA6223;Redrum;;;;;;;;;;;Ñàòàíèíñêîå íàâàæäåíèå...;;x
+EVTOPTA6224;I heard him scream and [Root.Religion.GetRandomEvilGodName] laughed with delight.;;;;;;;;;;;ß ñëûøó åãî êðèêè, à [Root.Religion.GetRandomEvilGodName] õîõî÷åò.;;x
+EVTOPTA6225;It is wrong, but feels right.;;;;;;;;;;;Ýòî êîíå÷íî íåïðàâèëüíî, íî ÿ ÷óâñòâóþ ñåáÿ õîðîøî.;;x
+EVTOPTA6226;A messenger from my Lord the Leviathan;;;;;;;;;;;Ýòî ïîñëàííèê ãîñïîäèíà ìîåãî Ëåâèàôàíà.;;x
+EVTOPTA6227;It was the word of God?;;;;;;;;;;;Áîã òàê è ñêàçàë?;;x
+EVTOPTA6228;God must want me to do this.;;;;;;;;;;;Áîã õî÷åò, äîëæíî áûòü, ÷òîáû ÿ ñäåëàë[Root.GetEndA] ýòî.;;x
+EVTOPTA6229;He's right you know;;;;;;;;;;;Çíàåòå, à îí ïðàâ.;;x
+EVTOPTA6230;Yes I will not be weak.;;;;;;;;;;;Äà, ÿ áû õîòåë áûòü òâ¸ðæå.;;x
+EVTOPTA6231;My eyes are open;;;;;;;;;;;Ýòî ðàñêðûëî ìíå ãëàçà.;;x
+EVTOPTA6232;He is right.;;;;;;;;;;;Äà, ýòî òàê.;;x
+EVTOPTA6233;He tells it true.;;;;;;;;;;;Âåðíî ãîâîðèò.;;x
+EVTOPTA6234;Indeed;;;;;;;;;;;Äåéñòâèòåëüíî.;;x
+EVTOPTA6235;It is right;;;;;;;;;;;Ýòî âåðíî.;;x
+EVTOPTA6236;They will be mine;;;;;;;;;;;Îíè áóäóò ìîèìè.;;x
+EVTOPTA6237;I will be strong;;;;;;;;;;;ß áóäó ñèëüí[Root.GetOyYm].;;x
+EVTOPTA6238;I never thought of it that way.;;;;;;;;;;;ß íèêîãäà íå äóìàë[Root.GetEndA] îá ýòîì â òàêîì êëþ÷å.;;x
+EVTOPTA6239;You know he has a point;;;;;;;;;;;Âû çíàåòå, ó ýòîãî åñòü ñìûñë.;;x
+EVTOPTA6240;He is right too.;;;;;;;;;;;Îí îïÿòü ïðàâ.;;x
+EVTOPTA6300;The Turnip Act.;;;;;;;;;;;Çàêîí Ðåïû.;;x
+EVTOPTA6301;What the...;;;;;;;;;;;×òî çà...;;x
+EVTOPTA6302;They will have to pry them from my cold, dead legs...;;;;;;;;;;;Ó íèõ áóäåò, ÷òî ñíÿòü ñ ìîèõ õîëîäíûõ ì¸ðòâûõ íîã...;;x
+EVTOPTA6303;What?;;;;;;;;;;;×òî?;;x
+EVTOPTA6304;Rehabi...? What insanity is this?;;;;;;;;;;;Îíè áóäóò èíòåãðèðîâàíû? Áåçóìèå!;;x
+EVTOPTA6305;This law will bring salvation to the realm.;;;;;;;;;;;Ýòîò çàêîí ïðèíåñåò ñïàñåíèå ãîñóäàðñòâó.;;x
+EVTOPTA6315;Where did the gopher go? Did you see?;;;;;;;;;;;Êóäà äåëñÿ ñóñëèê? Âû åãî âèäåëè?;;x
+EVTOPTA6316;AAAAAAAAOOOOOOO!!!!!!;;;;;;;;;;;ÀÓÓÓÓÓÓÓÓ!!!;;x
+EVTOPTA6317;Glitterhoof, I appoint thee as the [Root.GetChancellorName] of the realm.;;;;;;;;;;;Ãëèòòåðãîô, òåïåðü òû - [Root.GetChancellorName]!;;x
+EVTOPTA6318;This time that maniac has gone too far...;;;;;;;;;;;Íà ýòîò ðàç áåçóìèå çàøëî ñëèøêîì äàëåêî...;;x
+EVTOPTA6350;Could there be rats in the walls?;;;;;;;;;;;Ìîæåò ýòî áûëè êðûñû â ñòåíå?;;x
+EVTOPTA6351;That color is not from this earth!;;;;;;;;;;;Óâèäåííûé öâåò íå îò ýòîãî ìèðà!;;x
+EVTOPTA6352;This coffin looks comfortable to sleep in;;;;;;;;;;;Ýòîò ãðîá, âèäèìî, óäîáåí äëÿ ñíà;;x
+EVTOPTA6353;Pass a law banning the killing of cats;;;;;;;;;;;Èçäàòü çàêîí, çàïðåùàþùèé óáèéñòâî êîøåê;;x
+EVTOPTA6354;I must study this grimoire;;;;;;;;;;;Íóæíî èçó÷èòü ýòîò ãðèìóàð;;x
+EVTOPTA6355;Tonight, he will wake!;;;;;;;;;;;Ñåãîäíÿ îí ïðîñí¸òñÿ!;;x
+EVTOPTA6356;He comes! HE COMES!;;;;;;;;;;;Îí èä¸ò! ÎÍ ÈÄ¨Ò!;;x
+EVTOPTA6357;Ramming speed!;;;;;;;;;;;Ïðèáàâèòü ñêîðîñòü!;;x
+EVTOPTA6358;I must put them to print;;;;;;;;;;;Íóæíî çàïèñàòü ýòè ñîáûòèÿ;;x
+EVTOPTA6360;How dare you blame little innocent Mittens?!;;;;;;;;;;;Äà êàê òû ñìååøü îáâèíÿòü ýòî ìèëîå ñîçäàíèå?!;;x
+EVTOPTA6361;Follow Mittens down the dark corridor.;;;;;;;;;;;×òî æ, ïîñìîòðèì, êóäà òû òàê ñîáðà[Root.GetPetCatLasLsya].;;x
+EVTOPTA6362;You have discovered a murder, Mittens! Clever kitty!;;;;;;;;;;;Ìîëîäåö, [Root.GetPetCatName]! Òû ðàñêðûë[Root.GetPetCatEndA] óáèéñòâî!;;x
+EVTOPTA6363;Is anyone on the council safe? This is a catastrophe!;;;;;;;;;;;Íåóæåëè ìû âñå â îïàñíîñòè? Ýòî êàòàñòðîôà!;;x
+EVTOPTA6365;[From.GetSheHeCap] must lap up some of my immortal blood for protection.;;;;;;;;;;;[From.GetSheHeCap] äîëæ[From.GetNaEn] âûïèòü íåìíîãî ìîåé áåññìåðòíîé êðîâè äëÿ çàùèòû.;;x
+EVTOPTB6300;The Pants Act.;;;;;;;;;;;Çàêîí Áðþê.;;x
+EVTOPTB6350;Just a dream, nothing more;;;;;;;;;;;Ýòî áûë ñîí, íè÷åãî áîëüøå;;x
+EVTOPTB6351;The well must have gone bad;;;;;;;;;;;Êîëîäåö ïðîãíèë;;x
+EVTOPTB6352;Well, that was morbid... seal the tomb!;;;;;;;;;;;Ýòî ñóìàñøåñòâèå... çàïå÷àòàéòå ãðîáíèöó!;;x
+EVTOPTB6353;A coincidence, nothing more;;;;;;;;;;;Ñîâïàäåíèå, íè÷åãî áîëåå;;x
+EVTOPTB6356;What have I done?! I must stop this!;;;;;;;;;;;×òî ÿ äåëàþ?! Íàäî ïðåêðàòèòü ýòî!;;x
+EVTOPTB6358;Fools! I saved you all!;;;;;;;;;;;Äóðàêè! Âû âñå æèâû áëàãîäàðÿ ìíå!;;x
+EVTOPTB6360;Perhaps you are right, [Root.job_spymaster.GetFirstName]. The council is no place for a cat.;;;;;;;;;;;Ïîæàëóé, Âû ïðàâû. Ñîâåò - íå ìåñòî äëÿ êîøåê.;;x
+EVTOPTB6361;Go to the kitchen, she is sure to follow.;;;;;;;;;;;Ëàäíî, ÿ íà êóõíþ, çàõî÷åøü - ïðèä¸øü.;;x
+EVTOPTB6365;Only I shall have this great power!;;;;;;;;;;;Òîëüêî ÿ äîñòî[Root.GetYnaIn] ýòîé ñèëû!;;x
+EVTOPTC6300;The Hole in the Wall Act.;;;;;;;;;;;Çàêîí î Äûðàõ è Ñòåíàõ.;;x
+EVTOPTD6300;The Cessation of Violence Act.;;;;;;;;;;;Çàêîí î Çàïðåòå Íàñèëèÿ.;;x
+EVTTOOLTIP6305;You give the order to implement the Turnip Act.;;;;;;;;;;;Îòäàòü ïðèêàç ââåñòè Çàêîí Ðåïû.;;x
+EVTTOOLTIP6306;You give the order to implement the Pants Act.;;;;;;;;;;;Îòäàòü ïðèêàç ââåñòè Çàêîí Áðþê.;;x
+EVTTOOLTIP6307;You give the order to implement the Hole in the Wall Act.;;;;;;;;;;;Îòäàòü ïðèêàç ââåñòè Çàêîí î Äûðàõ è Ñòåíàõ.;;x
+EVTTOOLTIP6308;You give the order to implement the Cessation of Violence Act.;;;;;;;;;;;Îòäàòü ïðèêàç ââåñòè Çàêîí î Çàïðåòå Íàñèëèÿ.;;x
+EVTTOOLTIP6354;Somewhere, a dreamer stirs...;;;;;;;;;;;Ãäå-òî ñïÿùèé çàøåâåëèëñÿ...;;x
+EVTTOOLTIP6355;[Root.GetBestName] learns the forbidden secrets;;;;;;;;;;;[Root.GetBestName] èçó÷èò çàïðåòíûå ñåêðåòû;;x
+EVTTOOLTIP6356;[Root.GetBestName] puts on a black robe and wizened old hat;;;;;;;;;;;[Root.GetBestName] îäåâàåò ÷¸ðíóþ ìàíòèþ è ñòàðóþ ìÿòóþ øëÿïó;;x
+EVTTOOLTIP6357;[Root.GetBestName] commandeers a longboat;;;;;;;;;;;[Root.GetBestName] êîíôèñêóåò áàðêàñ;;x
+EVTTOOLTIP6358;A fateful collision...;;;;;;;;;;;Ðîêîâîå ñòîëêíîâåíèå...;;x

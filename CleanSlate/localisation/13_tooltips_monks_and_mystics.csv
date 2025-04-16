@@ -1,183 +1,181 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-accuse_rival_tooltip;Take this opportunity to get back at your rival and accuse [rival_target.GetHerHim] of apostasy. §Y[rival_target.GetBestName]§! might not be guilty - but your liege will be none the wiser either way...;;;;;;;;;;;;;x
-apostate_found_tooltip;You bring §Y[accused_apostate.GetBestName]§! to the court of §Y[Root.Liege.GetTitle] [Root.Liege.GetFirstName]§!, [Root.Liege.GetSheHe] will decide the fate of the apostate!;;;;;;;;;;;;;x
-assassins_recruit_block_tooltip;Has not been approached by the Assassins previously.;;;;;;;;;;;;;x
-destroy_all_ingredients_tt;All §YIngredients§! are destroyed and will be removed from the Treasury.\n;;;;;;;;;;;;;x
-destroy_selected_ingredient_1_and_2_tt;§Y[GetSelectedIngredient_1]§! and §Y[GetSelectedIngredient_2]§! will be removed from the Treasury.\n;;;;;;;;;;;;;x
-destroy_selected_ingredient_1_plus_random_other_ingredient_tt;§Y[GetSelectedIngredient_1]§! and one random ingredient will be removed from the Treasury.\n;;;;;;;;;;;;;x
-destroy_selected_ingredient_1_tt;§Y[GetSelectedIngredient_1]§! will be removed from the Treasury.\n;;;;;;;;;;;;;x
-destroy_selected_ingredient_2_tt;§Y[GetSelectedIngredient_2]§! will be removed from the Treasury.\n;;;;;;;;;;;;;x
-ingredient_option_available_tt;This option is available to you because you have an §YIngredient§! in your Treasury.\n \n;;;;;;;;;;;;;x
-ingredients_are_sent_tt;Some §YIngredients§! will be removed from the Treasury and sent to §Y[From.GetTitledFirstName]§!, in preparation for the ritual.\nThere is a chance this will enhance your experience.\n;;;;;;;;;;;;;x
-multiple_ingredient_option_available_tt;This option is available to you because you have multiple §YIngredients§! in your Treasury.\n \n;;;;;;;;;;;;;x
-must_have_ingredients_tt;Has at least two §YIngredients§!;;;;;;;;;;;;;x
-must_not_already_be_preparing_potion_tt;NOT already preparing a potion;;;;;;;;;;;;;x
-random_ingredients_are_destroyed_tt;Some §YIngredients§! are destroyed and will be removed from the Treasury.\n;;;;;;;;;;;;;x
-religion_openly_aztec_or_reformed_tooltip;Publicly follows the §Y[aztec_pagan_reformed.GetName]§! religion;;;;;;;;;;;;;x
-religion_openly_baltic_or_reformed_tooltip;Publicly follows the §Y[baltic_pagan_reformed.GetName]§! religion;;;;;;;;;;;;;x
-religion_openly_finnish_or_reformed_tooltip;Publicly follows the §Y[finnish_pagan_reformed.GetName]§! religion;;;;;;;;;;;;;x
-religion_openly_norse_or_reformed_tooltip;Publicly follows the §Y[norse_pagan_reformed.GetName]§! religion;;;;;;;;;;;;;x
-religion_openly_slavic_or_reformed_tooltip;Publicly follows the §Y[slavic_pagan_reformed.GetName]§! religion;;;;;;;;;;;;;x
-religion_openly_tengri_or_reformed_tooltip;Publicly follows the §Y[tengri_pagan_reformed.GetName]§! religion;;;;;;;;;;;;;x
-religion_openly_west_african_or_reformed_tooltip;Publicly follows the §Y[west_african_pagan_reformed.GetName]§! religion;;;;;;;;;;;;;x
-religion_openly_zun_or_reformed_tooltip;Publicly follows the §Y[zun_pagan_reformed.GetName]§! religion;;;;;;;;;;;;;x
-religion_openly_bon_or_reformed_tooltip;Publicly follows the §Y[bon_pagan_reformed.GetName]§! religion;;;;;;;;;;;;;x
-religion_openly_hellenic_or_reformed_tooltip;Publicly follows the §Y[hellenic_pagan_reformed.GetName]§! religion;;;;;;;;;;;;;x
-spiritual_guidance_tooltip;Has a sin that §Y[From.GetTitledFirstName]§! does NOT have;;;;;;;;;;;;;x
-teach_virtue_tooltip;Does NOT have all the virtues that §Y[From.GetTitledFirstName]§! has;;;;;;;;;;;;;x
-they_accept_your_offer_TT;them accepting your offer, leaving you alone for now\n;;;;;;;;;;;;;x
-they_drag_you_off_to_burn;them laughing at your offer, before dragging you off to be burnt at the stake\n;;;;;;;;;;;;;x
-they_escape_TT;them being defeated, leaving you alone for now\n;;;;;;;;;;;;;x
-they_impale_you;the woman rolling her eyes at you, before killing you\n;;;;;;;;;;;;;x
-they_saw_you_in_half;the demon hunter ignoring your offer, before killing you slowly\n;;;;;;;;;;;;;x
-you_are_killed_in_personal_combat_TT;you getting killed in personal combat\n;;;;;;;;;;;;;x
-you_are_seriously_injured_TT;you getting badly injured\n;;;;;;;;;;;;;x
-accessible_lab_tooltip;The plans for your laboratory will only be dictated by what is most efficient but your secrets will not be as well guarded.;;;;;;;;;;;;;x
-accomodate_gossipers_tooltip;[Root.GetFullName] will make changes to [Root.GetHerHis] laboratory to placate the frightened locals rather than to increase efficiency.;;;;;;;;;;;;;x
-acquire_ingredients_decision_apprentice_requirement;Has a vassal with the apprentice minor title;;;;;;;;;;;;;x
-acquire_ingredients_decision_cooldown_timer_tt;Has NOT recently ventured to acquired ingredients;;;;;;;;;;;;;x
-acquire_ingredients_decision_too_many_ingredients;Does NOT have a full stockpile of ingredients;;;;;;;;;;;;;x
-acquire_ingredients_effect_tooltip;You call upon your apprentice to accompany you in a venture to gather ingredients with alchemical properties.\n;;;;;;;;;;;;;x
-assassins_borrow_money_effect_tooltip;The Grand Master will get in contact with §Y[Root.GetTitledFirstName]§! about the loan.\n;;;;;;;;;;;;;x
-assassins_borrow_money_tooltip;The Grand Master has sufficient funds.;;;;;;;;;;;;;x
-assassins_clear_marked_for_death_target_allow_tooltip;§Y[Root.GetTitledFirstName]§! is marked for death.;;;;;;;;;;;;;x
-assassins_clear_marked_for_death_target_effect_tooltip;The mark of death is cleared from §Y[Root.GetTitledFirstName]§!.;;;;;;;;;;;;;x
-assassins_drug_decision_tt;[Custom.GetAssassinsDrugsTooltip]\n;;;;;;;;;;;;;x
-assassins_mark_for_death_allow_tooltip;§Y[From.GetTitledFirstName]§! does not already have a target marked for death.;;;;;;;;;;;;;x
-assassins_mark_for_death_effect_tooltip;§Y[Root.GetTitledFirstName]§! is marked for death.;;;;;;;;;;;;;x
-assassins_pay_debt_tooltip;Has §Y[Root.assassins_debt.GetValue]§! gold.;;;;;;;;;;;;;x
-assassins_scare_ruler_fail;failing to scare §Y[Root.GetTitledFirstName]§!\n;;;;;;;;;;;;;x
-AVAILABLE_DUE_TO_OBSERVATORY;This option is available due to you owning an observatory\n;;;;;;;;;;;;;x
-AVAILABLE_DUE_TO_OBSERVATORY_EQUIPMENT;This option is available due to you owning observatory equipment\n;;;;;;;;;;;;;x
-because_member_of_society_tt;This option is available due to you being a member of §Y[This.Society.GetName]§!.\n;;;;;;;;;;;;;x
-becomes_zunist_effect;§Y[This.GetTitledFirstName]§! becomes Zunist.\n;;;;;;;;;;;;;x
-benedictine_power_diligent_tt;Power: §YBenedictine Diligence§!\nUpon reaching rank 4, you will be approached by a fellow member of the Benedictine Order who will help you to become more diligent.;;;;;;;;;;;;;x
-blend_in_modifier_tooltip;Character is in the same society as you are.;;;;;;;;;;;;;x
-brew_happiness_potion_effect_other;§Y[From.GetTitledFirstName]§! brews a potion for §Y[Root.GetTitledFirstName]§!.\n;;;;;;;;;;;;;x
-brew_happiness_potion_effect_self;§Y[From.GetTitledFirstName]§! brews [From.GetHerselfHimself] a potion.\n;;;;;;;;;;;;;x
-cheap_laboratory_setup;[Root.GetFullName] will aim for a small but functional laboratory.;;;;;;;;;;;;;x
-choose_hermetic_art_allow_tooltip;Is allowed to choose a Hermetic Art at this time\n;;;;;;;;;;;;;x
-confess_faith_decision_tooltip;Convert to your liege's faith;;;;;;;;;;;;;x
-corrupt_priest_effect_TOOLTIP;Attempt to negatively influence §Y[Root.GetTitledFirstName]§!'s personality, increasing [Root.GetHerHis] opinion of you by §G50§! upon success. Failure might tarnish your reputation, though...\n;;;;;;;;;;;;;x
-corrupt_priest_has_quest;Has the quest §YCorrupt [Root.GetTitledFirstName]§!\n;;;;;;;;;;;;;x
-corrupt_priest_not_recently_attempted;Has not attempted to corrupt §Y[Root.GetTitledFirstName]§! the past §Y10§! years\n;;;;;;;;;;;;;x
-council_power_increased;The power of the Council increases!;;;;;;;;;;;;;x
-decline_quest_tooltip;You decline the mission and will not be offered another for some time.;;;;;;;;;;;;;x
-decrease_prosperity_custom_tooltip;The §YProsperity§! of §Y[This.GetName]§! decreases slightly\n;;;;;;;;;;;;;x
-devil_worshiper_desecrate_temple_decision_tt;§Y[From.GetTitledFirstName]§! and [From.GetHerHis] accomplices sets out for §Y[Root.GetName]§!.;;;;;;;;;;;;;x
-devil_worshipers_dark_healing_tooltip;Need to be wounded, maimed, have a disease or severe medical condition.;;;;;;;;;;;;;x
-devil_worshipers_invite_disciple_of_devil_tt;A disciple of [Root.GetDWDevil] will soon appear at the court of §Y[Root.GetTitledFirstName]§!.\n;;;;;;;;;;;;;x
-devil_worshipers_summon_familiar_cd_tooltip;§Y[Root.GetTitledFirstName]§! has not selected a familiar in the past 5 years\n;;;;;;;;;;;;;x
-did_not_betray_society;Did not betray society\n;;;;;;;;;;;;;x
-efficient_laboratory_setup;[Root.GetFullName] will aim to build a laboratory that can handle somewhat more complicated procedures.;;;;;;;;;;;;;x
-efforts_to_improve_lab_security_tooltip;[Root.GetFullName] will spend funds to improve security and increase the efficiency of [Root.GetHerHis] Laboratory.;;;;;;;;;;;;;x
-evoke_sympathy_of_tt;Has the quest §YEvoke the Sympathy of [Root.GetTitledFirstName]§!\n;;;;;;;;;;;;;x
-extravagant_laboratory_setup;[Root.GetFullName] will build an experimental setup with as many furnaces, basins, and other contraptions as can reasonably be fitted.;;;;;;;;;;;;;x
-fancy_laboratory_books_tooltip;[Root.GetFullName] will ensure the success of [Root.GetHerHis] future experiments by assembling a reference library for all occasions.;;;;;;;;;;;;;x
-fancy_laboratory_crucibles_tooltip;[Root.GetFullName] will now only tolerate the best of imported pottery from master potters.;;;;;;;;;;;;;x
-fancy_laboratory_glass_tooltip;[Root.GetFullName] will from now on spend more to ensure all glass that enter the laboratory is as durable and clear as possible.;;;;;;;;;;;;;x
-fancy_laboratory_tools_tooltip;[Root.GetFullName] will import alchemical tools from the master smiths that are best skilled to make them.;;;;;;;;;;;;;x
-fina_horoscope_outcome_for_parent_opt;Maybe it's because [horoscope_child.GetSheHe] is born under the [horoscope_child.GetWesternZodiacSign]?;;;;;;;;;;;;;x
-final_horoscope_outcome_for_parent_desc_1;I am not sure what my [horoscope_child.GetDaughterSon] [horoscope_child.GetFirstName] has been up to lately, but [horoscope_child.GetSheHe] certainly isn't proving to become the great [horoscope_child.GetHermeticsDestinedRole] I once predicted in [horoscope_child.GetHerHis] horoscope.;;;;;;;;;;;;;x
-final_horoscope_outcome_for_parent_desc_2;My [horoscope_child.GetDaughterSon] [horoscope_child.GetFirstName] has truly found [horoscope_child.GetHerselfHimself] in the destiny my horoscope predicted, so long ago. [horoscope_child.GetSheHeCap] will makes a fine [horoscope_child.GetHermeticsDestinedRole].;;;;;;;;;;;;;x
-gain_zodiac_trait_effect_tt;You will gain a trait appropriate for your zodiac sign!\n;;;;;;;;;;;;;x
-GRAND_DEBATE_COOLDOWN_TOOLTIP;A Grand Debate has NOT been held in the past 10 years\n;;;;;;;;;;;;;x
-GRAND_DEBATE_HOLDING_TOOLTIP;A Grand Debate is NOT currently in progress\n;;;;;;;;;;;;;x
-GRAND_DEBATE_INVITE_TOOLTIP;Send an invitation to all members of [Root.Society.GetName].;;;;;;;;;;;;;x
-GRAND_DEBATE_PARTICIPANT_OPINION_TOOLTIP;Participating members will gain an increased opinion of §G5§! towards you for five years\n;;;;;;;;;;;;;x
-has_not_recently_performed_stargazing;Has NOT invited to stargazing in the past three years\n;;;;;;;;;;;;;x
-hermetics_horoscope_cooldown_tooltip;Has NOT already had their horoscope examined\n;;;;;;;;;;;;;x
-hermetics_scrying_cooldown_tooltip;NOT already carrying a premonition of things to come\n;;;;;;;;;;;;;x
-hermetics_wrote_magnum_opus_cd_tooltip;§Y[Root.GetTitledFirstName]§! has not already written a Magnum Opus\n;;;;;;;;;;;;;x
-hermetics_wrote_magnum_opus_duplicate;Does NOT already own Magnum Opuses on all topics.\n;;;;;;;;;;;;;x
-hermetics_wrote_magnum_opus_duplicate_contemplative_theurgy_tooltip;Does NOT already own a Magnum Opus on contemplative Theurgy\n;;;;;;;;;;;;;x
-hermetics_wrote_magnum_opus_duplicate_panacea_alchemy_tooltip;Does NOT already own a Magnum Opus on alchemical Universal Panacea\n;;;;;;;;;;;;;x
-hermetics_wrote_magnum_opus_duplicate_planetary_astrology_tooltip;Does NOT already own a Magnum Opus on planetary Astrology\n;;;;;;;;;;;;;x
-hermetics_wrote_magnum_opus_duplicate_ritual_theurgy_tooltip;Does NOT already own a Magnum Opus on ritualistic Theurgy\n;;;;;;;;;;;;;x
-hermetics_wrote_magnum_opus_duplicate_stellar_astrology_tooltip;Does NOT already own a Magnum Opus on stellar Astrology\n;;;;;;;;;;;;;x
-hermetics_wrote_magnum_opus_duplicate_transmutation_alchemy_tooltip;Does NOT already own a Magnum Opus on transmutative Alchemy\n;;;;;;;;;;;;;x
-hidden_lab_tooltip;The plans for your laboratory will have to fit into your existing castle.;;;;;;;;;;;;;x
-ignore_ill_relatives_tooltip;[Root.GetTitledFirstName] won't receive any more notifications about sick relatives.;;;;;;;;;;;;;x
-increase_astronomical_insight_tt;Your knowledge of stellar phenomena increases.\n;;;;;;;;;;;;;x
-is_accessible;Can access §Y[Root.GetTitledFirstName]§!\n;;;;;;;;;;;;;x
-is_germanic_pagan_custom_tooltip;Have religion §YGermanic§!\n;;;;;;;;;;;;;x
-is_visible_to_self_trigger_tooltip;The viewing Character is the holder of this Character Modifier\n;;;;;;;;;;;;;x
-large_laboratory_setup;[Root.GetFullName] will aim to build an advanced laboratory, capable of handling a number of complicated procedures.;;;;;;;;;;;;;x
-loc_is_revealed_antichrist;Antichrist: $GAIN|=10+$;;;;;;;;;;;;;x
-major_soul_corruption_effect_tooltip;This may have repercussions upon my soul!;;;;;;;;;;;;;x
-minor_soul_corruption_effect_tooltip;This might have repercussions upon my soul!;;;;;;;;;;;;;x
-monastic_may_become_friends;If §Y[monastic_friend.GetTitledFirstName]§! enjoys this activity, this might lead to a friendship. Perhaps if it related to [monastic_friend.GetHerHis] education...?\n;;;;;;;;;;;;;x
-monastic_may_lead_to_more;What is the harm? It is not as if we are doing anything... Unnatural.\n;;;;;;;;;;;;;x
-monastic_order_meditation_allow_tt;§Y[Root.GetTitledFirstName]§! has not secluded [Root.GetHerselfHimself] to meditate recently.\n;;;;;;;;;;;;;x
-monastic_order_penance_allow_tt;§Y[Root.GetTitledFirstName]§! has not secluded [Root.GetHerselfHimself] to do penance recently.\n;;;;;;;;;;;;;x
-monastic_orders_invite_ascetic_tt;A holy ascetic will soon appear at the court of §Y[Root.GetTitledFirstName]§!.\n;;;;;;;;;;;;;x
-monastic_orders_temple_construction_tooltip;To complete this mission, build a temple holding in a county in your realm.;;;;;;;;;;;;;x
-must_be_a_sinner_tooltip;Must be a sinner\n;;;;;;;;;;;;;x
-must_be_allowed_to_rank_up_tooltip;Must have been at the §Y[Root.GetSocietyRank]§! rank for at least three years\n;;;;;;;;;;;;;x
-must_have_grandmaster_tooltip;Must not be the leader of §Y[Root.Society.GetNameCap]§!\n;;;;;;;;;;;;;x
-must_have_multiple_rank_4;§Y[Root.Society.GetNameCap]§! must allow multiple characters to hold the next rank\n;;;;;;;;;;;;;x
-must_not_have_sent_request_already_tooltip;Must NOT already be awaiting word for this request\n;;;;;;;;;;;;;x
-non_fancy_laboratory_books_tooltip;[Root.GetFullName] will avoid spending money frivolously on books that tell [Root.GetHerHis] what he already knows.;;;;;;;;;;;;;x
-non_fancy_laboratory_crucibles_tooltip;[Root.GetFullName] will keep the laboratory supplied using the pottery from local potters to avoid the high price of imported crucibles.;;;;;;;;;;;;;x
-non_fancy_laboratory_glass_tooltip;[Root.GetFullName] will keep buying glass of inferior quality but helpers will be instructed to handle it with extreme care from now on.;;;;;;;;;;;;;x
-non_fancy_laboratory_tools_tooltip;[Root.GetFullName] will cut costs by relying on local smiths to produce the tools and other ironwork required for [Root.GetHerHis] alchemical experiments.;;;;;;;;;;;;;x
-obedience_tooltip;Lower ranking members are very likely to agree to your diplomatic requests.;;;;;;;;;;;;;x
-openly_adopt_faith_currency_tooltip;Has [Root.Society.GetCurrencyName] greater or equal to §Y300§!;;;;;;;;;;;;;x
-openly_adopt_faith_effect_tooltip;All sympathizers of the true faith will be encouraged to openly express their beliefs\nAfter this [Root.Society.GetName] will be no more, and you will no longer be able to recruit secret sympathizers;;;;;;;;;;;;;x
-openly_adopt_faith_trigger_tooltip;There are others in the realm sympathetic to the struggles of [Root.Society.GetName];;;;;;;;;;;;;x
-platypus_herder;Platypus Herder;;;;;;;;;;;;;x
-plot_assassins_collect_debt_allow_tt;§Y[From.GetTitledFirstName]§! has a mission to collect §Y[Root.GetTitledFirstName]'s§! debt.;;;;;;;;;;;;;x
-plot_assassins_collect_debt_success;§Y[From.GetTitledFirstName]§! infiltrates the residence of §Y[Root.GetTitledFirstName]§! and threatens [Root.GetHerHim] to pay [Root.GetHerHis] debt.;;;;;;;;;;;;;x
-possess_courtier_already_done;Possession of §Y[Root.GetTitledFirstName]§! has not already been attempted\n;;;;;;;;;;;;;x
-prepare_grounds_allow_tooltip;NOT currently developing a community in this province;;;;;;;;;;;;;x
-PREPARE_STARGAZING;Make the needed preparations for the coming night.;;;;;;;;;;;;;x
-quest_secret_religions_conduct_secret_ceremony_allow_tt;Has NOT recently attempted this;;;;;;;;;;;;;x
-quest_secret_religions_societies_blend_in_allow_tt;Has not recently attempted this mission;;;;;;;;;;;;;x
-reason_tooltip_1;Apprentice Assassin;;;;;;;;;;;;;x
-recruit_delay_timer_tooltip;Has waited three months since previous recruitment\n;;;;;;;;;;;;;x
-request_to_rank_up_within_society_currency_tt;Has §Y[Root.Society.GetCurrency]§! greater or equal to [Root.GetSocietyRankUpTooltip1]\n;;;;;;;;;;;;;x
-request_to_rank_up_within_society_cynical_tt;[Root.GetSocietyRankUpTooltip2];;;;;;;;;;;;;x
-request_to_rank_up_within_society_no_vices;Must have no vice traits\n;;;;;;;;;;;;;x
-request_to_rank_up_within_society_vices_tt;[Root.GetSocietyRankUpTooltip2];;;;;;;;;;;;;x
-request_to_rank_up_within_society_virtues_tt;[Root.GetSocietyRankUpTooltip4];;;;;;;;;;;;;x
-search_for_artifact_allow_tt;§Y[Root.GetTitledFirstName]§! is a councilor of §Y[From.GetTitledFirstName]§!.\n;;;;;;;;;;;;;x
-search_for_artifact_effect_progress_tt;Some of the previously made progress is lost.\n;;;;;;;;;;;;;x
-search_for_artifact_effect_replace_tt;The previous artifact hunter is replaced.\n;;;;;;;;;;;;;x
-search_for_artifact_effect_tt;§Y[Root.GetTitledFirstName]§! arranges a search for the rumored artifact.\n;;;;;;;;;;;;;x
-secret_religion_recruit_allow_tt;Is also a secret follower of the [From.TrueReligion.GetName] faith.;;;;;;;;;;;;;x
-secret_religions_evoke_sympathy_cd_tt;Has not been approached to be made sympathetic to people of other religions recently, or is the target of §Y[From.GetTitledFirstName]§!'s mission\n;;;;;;;;;;;;;x
-secret_religions_evoke_sympathy_tt;§Y[From.GetTitledFirstName]§! attempts to find a way to approach §Y[Root.GetTitledFirstName]§! and talk about [From.GetTrueReligionGroupPersons]. If successful, [Root.GetSheHe] may help to convert the realm.\n;;;;;;;;;;;;;x
-secret_religions_induct_character_cd_tt;Has not been approached to be inducted into another faith recently\n;;;;;;;;;;;;;x
-secret_religions_induct_character_effect_tt;§Y[From.GetTitledFirstName]§! attempts to find a way to make §Y[Root.GetTitledFirstName]§! contemplate the [From.TrueReligion.GetName] Faith.\n;;;;;;;;;;;;;x
-secret_religions_induct_child_allow_tt;Is not a secret believer in the [From.TrueReligion.GetName] faith\n;;;;;;;;;;;;;x
-secret_religions_induct_child_effect;§Y[From.GetTitledFirstName]§! will approach §Y[Root.GetTitledFirstName]§! and attempt to teach [Root.GetHerHim] about the [From.TrueReligion.GetName] faith.;;;;;;;;;;;;;x
-secret_religions_prepare_grounds_effect_tooltip;A loyal servant is sent to found a community of the true faith in [Root.GetName];;;;;;;;;;;;;x
-secret_religions_recruit_allow_tt;Shares the same true faith as §Y[From.GetFirstName]§!\n;;;;;;;;;;;;;x
-secret_religions_recruit_cd_tt;Has not been invited to join §Y[From.Society.GetName]§! recently;;;;;;;;;;;;;x
-secret_religions_recruit_effect_tt;§Y[From.GetTitledFirstName]§! approaches §Y[Root.GetTitledFirstName]§! with the intent of inviting [Root.GetHerHim] to join §Y[From.Society.GetName]§!.;;;;;;;;;;;;;x
-society_pleased_with_celebration;The society's members are pleased with your celebration!\n;;;;;;;;;;;;;x
-start_constructing_laboratory_tooltip;[Root.GetFullName] starts the construction of a Laboratory.;;;;;;;;;;;;;x
-stop_abduct_decision_tt;Abduction efforts stop;;;;;;;;;;;;;x
-stop_artifact_search_effect_tt;The search for the artifact is ended. A new councilor can be appointed to lead the search as long as the rumor is still viable.;;;;;;;;;;;;;x
-successful_induction_tooltip;Your induction attempt is successful! [Root.GetDWDevil] welcomes §Y[From.GetTitledName]§! into the coven.\n;;;;;;;;;;;;;x
-the_devil_worshipers_tainted_touch_allow_2_tt;§Y[Root.GetTitledFirstName]§! has not been cursed in the last 10 years;;;;;;;;;;;;;x
-the_devil_worshipers_tainted_touch_allow_tt;§Y[Root.GetTitledFirstName]§! is not already sick.;;;;;;;;;;;;;x
-the_devil_worshipers_tainted_touch_tooltip;§Y[Root.GetTitledFirstName]§! mysteriously contracts a disease\n;;;;;;;;;;;;;x
-tooltip_info_omen_tt;This option is available due to you having the §Y[This.GetOmenModifierName]§! modifier.\n[This.GetOmenResultReaction].\n;;;;;;;;;;;;;x
-very_hidden_lab_tooltip;Though isolated your laboratory can be as big as it needs to be.;;;;;;;;;;;;;x
-vodouns_recruit_block_tooltip;Has not been approached by the Soul Eaters before.;;;;;;;;;;;;;x
-write_theory_paper_decision_cooldown_timer_tt;Has NOT recently written a theorem paper\n;;;;;;;;;;;;;x
-write_theory_paper_decision_effect_tt;Begin writing a theorem paper.;;;;;;;;;;;;;x
-NO_HIGHER_QUALITY_VERSION_ACTIVE;Does NOT have an active higher quality Magnum Opus on the same topic.\n;;;;;;;;;;;;;x
-
+accuse_rival_tooltip;Take this opportunity to get back at your rival and accuse [rival_target.GetHerHim] of apostasy. §Y[rival_target.GetBestName]§! might not be guilty - but your liege will be none the wiser either way...;;;;;;;;;;;Âîñïîëüçîâàòüñÿ âîçìîæíîñòüþ îáâèíèòü ñâîåãî âðàãà â âåðîîòñòóïíè÷åñòâå. Ìîæåò áûòü, §Y[rival_target.GetBestName]§! è íåâèíîâ[rival_target.GetNaEn], íî Âàø ñþçåðåí îò ýòîãî íå ñòàíåò ìóäðåå...;;x
+apostate_found_tooltip;You bring §Y[accused_apostate.GetBestName]§! to the court of §Y[Root.Liege.GetTitle] [Root.Liege.GetFirstName]§!, [Root.Liege.GetSheHe] will decide the fate of the apostate!;;;;;;;;;;;§Y[accused_apostate.GetBestName]§! áóäåò ïðèâåäåí[accused_apostate.GetEndA] Âàìè êî äâîðó ñþçåðåíà, ïóñòü  §Y[Root.Liege.GetTitle] [Root.Liege.GetFirstName]§! ðåøèò ñóäüáó ýò[accused_apostate.GetOyOgo] âåðîîòñòóïíè[accused_apostate.GetTsyKa]!;;x
+assassins_recruit_block_tooltip;Has not been approached by the Assassins previously.;;;;;;;;;;;Óáåäèòåñü, ÷òî ýò[Root.GetEtaEtot] [Root.GetAgedPerson] ÍÅ ïðèâëåêà[Root.GetLasLsya] ðàíåå ê âñòóïëåíèþ â ðÿäû àññàñèíîâ.;;x
+destroy_all_ingredients_tt;All §YIngredients§! are destroyed and will be removed from the Treasury.\n;;;;;;;;;;;Âñå §Yèíãðåäèåíòû§! áóäóò óíè÷òîæåíû è óäàëåíû èç §Yñîêðîâèùíèöû§!\n;;x
+destroy_selected_ingredient_1_and_2_tt;§Y[GetSelectedIngredient_1]§! and §Y[GetSelectedIngredient_2]§! will be removed from the Treasury.\n;;;;;;;;;;;§Y[GetSelectedIngredient_1]§! è §Y[GetSelectedIngredient_2]§! áóäóò óäàëåíû èç §Yñîêðîâèùíèöû§!\n;;x
+destroy_selected_ingredient_1_plus_random_other_ingredient_tt;§Y[GetSelectedIngredient_1]§! and one random ingredient will be removed from the Treasury.\n;;;;;;;;;;;§Y[GetSelectedIngredient_1]§!, à òàêæå îäèí èç ïðîèçâîëüíûõ èíãðåäèåíòîâ áóäóò óäàëåíû èç §Yñîêðîâèùíèöû§!\n;;x
+destroy_selected_ingredient_1_tt;§Y[GetSelectedIngredient_1]§! will be removed from the Treasury.\n;;;;;;;;;;;Èíãðåäèåíò §Y[GetSelectedIngredient_1]§! áóäåò óäàë¸í èç §Yñîêðîâèùíèöû§!\n;;x
+destroy_selected_ingredient_2_tt;§Y[GetSelectedIngredient_2]§! will be removed from the Treasury.\n;;;;;;;;;;;Èíãðåäèåíò §Y[GetSelectedIngredient_2]§! áóäåò óäàë¸í èç §Yñîêðîâèùíèöû§!\n;;x
+ingredient_option_available_tt;This option is available to you because you have an §YIngredient§! in your Treasury.\n \n;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì, ïîñêîëüêó Âû èìååòå íóæíûé §Yèíãðåäèåíò§! â ñâîåé §Yñîêðîâèùíèöå§!\n \n;;x
+ingredients_are_sent_tt;Some §YIngredients§! will be removed from the Treasury and sent to §Y[From.GetTitledFirstName]§!, in preparation for the ritual.\nThere is a chance this will enhance your experience.\n;;;;;;;;;;;Íåêîòîðûå §Yèíãðåäèåíòû§! áóäóò óäàëåíû èç §Yñîêðîâèùíèöû§! - èõ ïîëó÷èò §Y[From.GetTitledFirstName]§! äëÿ ïðèãîòîâëåíèé ê ðèòóàëó.\nÅñòü øàíñû íà ïîâûøåíèå Âàøåãî îïûòà.\n;;x
+multiple_ingredient_option_available_tt;This option is available to you because you have multiple §YIngredients§! in your Treasury.\n \n;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì, ïîñêîëüêó Âû èìååòå íåñêîëüêî §Yèíãðåäèåíòîâ§! â Âàøåé §Yñîêðîâèùíèöå§!\n \n;;x
+must_have_ingredients_tt;Has at least two §YIngredients§!;;;;;;;;;;;Åñòü õîòÿ áû äâà §Yèíãðåäèåíòà§!;;x
+must_not_already_be_preparing_potion_tt;NOT already preparing a potion;;;;;;;;;;;Óáåäèòåñü, ÷òî ïðèãîòîâëåíèå çåëüÿ ÍÅ íà÷àòî.;;x
+random_ingredients_are_destroyed_tt;Some §YIngredients§! are destroyed and will be removed from the Treasury.\n;;;;;;;;;;;Íåêîòîðûå §Yèíãðåäèåíòû§! áóäóò óíè÷òîæåíû è óäàëåíû èç §Yñîêðîâèùíèöû§!\n;;x
+religion_openly_aztec_or_reformed_tooltip;Publicly follows the §Y[aztec_pagan_reformed.GetName]§! religion;;;;;;;;;;;Îòêðûòî èñïîâåäóåò §Y[àöòåêñêîåÿçû÷åñòâî]§!;;x
+religion_openly_baltic_or_reformed_tooltip;Publicly follows the §Y[baltic_pagan_reformed.GetName]§! religion;;;;;;;;;;;Îòêðûòî èñïîâåäóåò §Y[áàëòèéñêîåÿçû÷åñòâî]§!;;x
+religion_openly_finnish_or_reformed_tooltip;Publicly follows the §Y[finnish_pagan_reformed.GetName]§! religion;;;;;;;;;;;Îòêðûòî èñïîâåäóåò §Y[ôèíñêîåÿçû÷åñòâî]§!;;x
+religion_openly_norse_or_reformed_tooltip;Publicly follows the §Y[norse_pagan_reformed.GetName]§! religion;;;;;;;;;;;Îòêðûòî èñïîâåäóåò §Y[ãåðìàíñêîåÿçû÷åñòâî]§!;;x
+religion_openly_slavic_or_reformed_tooltip;Publicly follows the §Y[slavic_pagan_reformed.GetName]§! religion;;;;;;;;;;;Îòêðûòî èñïîâåäóåò §Y[ñëàâÿíñêîåÿçû÷åñòâî]§!;;x
+religion_openly_tengri_or_reformed_tooltip;Publicly follows the §Y[tengri_pagan_reformed.GetName]§! religion;;;;;;;;;;;Îòêðûòî èñïîâåäóåò §Y[òåíãðèàíñêîåÿçû÷åñòâî]§!;;x
+religion_openly_west_african_or_reformed_tooltip;Publicly follows the §Y[west_african_pagan_reformed.GetName]§! religion;;;;;;;;;;;Îòêðûòî èñïîâåäóåò §Y[ñàõåëèàíñêîåÿçû÷åñòâî]§!;;x
+religion_openly_zun_or_reformed_tooltip;Publicly follows the §Y[zun_pagan_reformed.GetName]§! religion;;;;;;;;;;;Îòêðûòî èñïîâåäóåò §Y[çóíñêîåÿçû÷åñòâî]§!;;x
+religion_openly_bon_or_reformed_tooltip;Publicly follows the §Y[bon_pagan_reformed.GetName]§! religion;;;;;;;;;;;Îòêðûòî èñïîâåäóåò §Y[bon_reformed.GetFullName][__]§!;;x
+religion_openly_hellenic_or_reformed_tooltip;Publicly follows the §Y[hellenic_pagan_reformed.GetName]§! religion;;;;;;;;;;;Îòêðûòî èñïîâåäóåò §Y[hellenic_pagan_reformed.GetFullName][__]§!;;x
+spiritual_guidance_tooltip;Has a sin that §Y[From.GetTitledFirstName]§! does NOT have;;;;;;;;;;;Äîëæ[Root.GetNaEn] îáëàäàòü ïîðîêîì, êîòîðûì §Y[From.GetTitledFirstName]§! ÍÅ îáëàäàåò;;x
+teach_virtue_tooltip;Does NOT have all the virtues that §Y[From.GetTitledFirstName]§! has;;;;;;;;;;;Óáåäèòåñü, ÷òî ó í[Root.GetHersHis] ÍÅÒ âñåõ òåõ æå äîáðîäåòåëåé, êîòîðûìè îáëàäàåò §Y[From.GetTitledFirstName]§!;;x
+they_accept_your_offer_TT;them accepting your offer, leaving you alone for now\n;;;;;;;;;;;îíè ïðèíÿëè Âàøå ïðåäëîæåíèå, îñòàâèâ Âàñ â ïîêîå\n;;x
+they_drag_you_off_to_burn;them laughing at your offer, before dragging you off to be burnt at the stake\n;;;;;;;;;;;îíè ñìåþòñÿ íàä Âàøèì ïðåäëîæåíèåì, ïðåæäå ÷åì ñæå÷ü íà êîñòðå\n;;x
+they_escape_TT;them being defeated, leaving you alone for now\n;;;;;;;;;;;áóäó÷è ïîáåæä¸ííûìè, îíè îñòàâèëè Âàñ â ïîêîå\n;;x
+they_impale_you;the woman rolling her eyes at you, before killing you\n;;;;;;;;;;;æåíùèíà çàêàòûâàåò ãëàçà, ïðåæäå ÷åì óáèòü Âàñ\n;;x
+they_saw_you_in_half;the demon hunter ignoring your offer, before killing you slowly\n;;;;;;;;;;;îõîòíèê íà äåìîíîâ èãíîðèðóåò Âàøå ïðåäëîæåíèå, à çàòåì ìåäëåííî óáèâàåò Âàñ\n;;x
+you_are_killed_in_personal_combat_TT;you getting killed in personal combat\n;;;;;;;;;;;Âàñ óáüþò â ïîåäèíêå\n;;x
+you_are_seriously_injured_TT;you getting badly injured\n;;;;;;;;;;;Âû áóäåòå ñåðü¸çíî ðàíåíû\n;;x
+accessible_lab_tooltip;The plans for your laboratory will only be dictated by what is most efficient but your secrets will not be as well guarded.;;;;;;;;;;;Ãëàâíîå, ÷òîáû ëàáîðàòîðèÿ áûëà äîñòóïíà è ýôôåêòèâíà, ñåêðåòíîñòü íå òàê âàæíà.;;x
+accomodate_gossipers_tooltip;[Root.GetFullName] will make changes to [Root.GetHerHis] laboratory to placate the frightened locals rather than to increase efficiency.;;;;;;;;;;;[Root.GetFullName] ïðîèçâåäåò èçìåíåíèÿ â ñâîåé ëàáîðàòîðèè, ñêîðåå ÷òîáû óñïîêîèòü ìåñòíûõ. Ýòî ïîíèçèò å¸ ýôôåêòèâíîñòü.;;x
+acquire_ingredients_decision_apprentice_requirement;Has a vassal with the apprentice minor title;;;;;;;;;;;Èìååò âàññàëà ñ ðàíãîì ó÷åíèêà;;x
+acquire_ingredients_decision_cooldown_timer_tt;Has NOT recently ventured to acquired ingredients;;;;;;;;;;;ÍÅ çàíèìàëñÿ ïðèîáðåòåíèåì èíãðåäèåíòîâ â ïîñëåäíåå âðåìÿ;;x
+acquire_ingredients_decision_too_many_ingredients;Does NOT have a full stockpile of ingredients;;;;;;;;;;;Õðàíèëèùå ÍÅ çàïîëíåíî èíãðåäèåíòàìè;;x
+acquire_ingredients_effect_tooltip;You call upon your apprentice to accompany you in a venture to gather ingredients with alchemical properties.\n;;;;;;;;;;;Âû ñêàæåòå ó÷åíèêó, ÷òîáû ñîñòàâèë Âàì êîìïàíèþ â ïîèñêå öåííûõ àëõèìè÷åñêèõ èíãðåäèåíòîâ.\n;;x
+assassins_borrow_money_effect_tooltip;The Grand Master will get in contact with §Y[Root.GetTitledFirstName]§! about the loan.\n;;;;;;;;;;;Âåëèêèé ìàñòåð ïîãîâîðèò ñ [Root.GetAgedPersonINS], èçâåñòí[Recipient.GetOyYm] êàê §Y[Root.GetTitledFirstName]§!, ïî ïîâîäó çàéìà.\n;;x
+assassins_borrow_money_tooltip;The Grand Master has sufficient funds.;;;;;;;;;;;Âåëèêèé ìàñòåð äîëæåí îáëàäàòü ïîäõîäÿùåé ñóììîé.;;x
+assassins_clear_marked_for_death_target_allow_tooltip;§Y[Root.GetTitledFirstName]§! is marked for death.;;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[Root.GetTitledFirstName]§! îáëàäàåò ìåòêîé ñìåðòè.;;x
+assassins_clear_marked_for_death_target_effect_tooltip;The mark of death is cleared from §Y[Root.GetTitledFirstName]§!.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! îñâîáîäèòñÿ îò ìåòêè ñìåðòè.;;x
+assassins_drug_decision_tt;[Custom.GetAssassinsDrugsTooltip]\n;;;;;;;;;;;[This.GetAssassinsDrugsTooltip]\n;;x
+assassins_mark_for_death_allow_tooltip;§Y[From.GetTitledFirstName]§! does not already have a target marked for death.;;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[From.GetTitledFirstName]§! íå ïîìå÷àë[From.GetEndA] íà ñìåðòü íèêîãî äðóãîãî.;;x
+assassins_mark_for_death_effect_tooltip;§Y[Root.GetTitledFirstName]§! is marked for death.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! ïîëó÷èò ìåòêó ñìåðòè.;;x
+assassins_pay_debt_tooltip;Has §Y[Root.assassins_debt.GetValue]§! gold.;;;;;;;;;;;Èìååò §Y[Root.assassins_debt.GetValue]§! çîëîòûõ.;;x
+assassins_scare_ruler_fail;failing to scare §Y[Root.GetTitledFirstName]§!\n;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! íå èñïóãàåòñÿ\n;;x
+AVAILABLE_DUE_TO_OBSERVATORY;This option is available due to you owning an observatory\n;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì, ïîòîìó ÷òî ó Âàñ åñòü îáñåðâàòîðèÿ\n;;x
+AVAILABLE_DUE_TO_OBSERVATORY_EQUIPMENT;This option is available due to you owning observatory equipment\n;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì, ïîòîìó ÷òî ó Âàñ åñòü ïîäõîäÿùåå îáîðóäîâàíèå\n;;x
+because_member_of_society_tt;This option is available due to you being a member of §Y[This.Society.GetName]§!.\n;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì, ïîòîìó ÷òî Âû ñîñòîèòå â îáùåñòâå §Y[This.GetSocietyNameGEN]§!.\n;;x
+becomes_zunist_effect;§Y[This.GetTitledFirstName]§! becomes Zunist.\n;;;;;;;;;;;§Y[This.GetTitledFirstName]§! ñòàíåò èñïîâåäîâàòü §Yçóíñêîå ÿçû÷åñòâî§!.\n;;x
+benedictine_power_diligent_tt;Power: §YBenedictine Diligence§!\nUpon reaching rank 4, you will be approached by a fellow member of the Benedictine Order who will help you to become more diligent.;;;;;;;;;;;Ñïîñîáíîñòü: §YÁåíåäèêòèíñêîå óñåðäèå§!\nÄîñòèãàÿ ÷åòâ¸ðòîãî ðàíãà, Âû ìîæåòå âñòðåòèòü ñîðàòíèêà ïî îðäåíó, êîòîðûé ïîìîæåò Âàì ñòàòü áîëåå óñåðäíûì.;;x
+blend_in_modifier_tooltip;Character is in the same society as you are.;;;;;;;;;;;Â òîì æå îáùåñòâå, ÷òî è Âû.;;x
+brew_happiness_potion_effect_other;§Y[From.GetTitledFirstName]§! brews a potion for §Y[Root.GetTitledFirstName]§!.\n;;;;;;;;;;;§Y[From.GetTitledFirstName]§! ñâàðèò çåëüå äëÿ ÷åëîâåêà ïî èìåíè §Y[Root.GetTitledFirstName]§!.\n;;x
+brew_happiness_potion_effect_self;§Y[From.GetTitledFirstName]§! brews [From.GetHerselfHimself] a potion.\n;;;;;;;;;;;§Y[From.GetTitledFirstName]§! ñâàðèò çåëüå äëÿ ñåáÿ.\n;;x
+cheap_laboratory_setup;[Root.GetFullName] will aim for a small but functional laboratory.;;;;;;;;;;;[Root.GetFullName] ïîñòàðàåòñÿ ñîçäàòü ìàëåíüêóþ, íî ôóíêöèîíàëüíóþ ëàáîðàòîðèþ.;;x
+choose_hermetic_art_allow_tooltip;Is allowed to choose a Hermetic Art at this time\n;;;;;;;;;;;Óáåäèòåñü, ÷òî [GetHerHim] ïîçâîëåíî âûáðàòü ãåðìåòè÷åñêîå èñêóññòâî â íàñòîÿùèé ìîìåíò\n;;x
+confess_faith_decision_tooltip;Convert to your liege's faith;;;;;;;;;;;Ïðèíÿòü âåðó Âàøåãî ñþçåðåíà;;x
+corrupt_priest_effect_TOOLTIP;Attempt to negatively influence §Y[Root.GetTitledFirstName]§!'s personality, increasing [Root.GetHerHis] opinion of you by §G50§! upon success. Failure might tarnish your reputation, though...\n;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! ïîäâåðãíåòñÿ Âàøåìó íåãàòèâíîìó âëèÿíèþ íà ñâîþ ëè÷íîñòü, è â ñëó÷àå óñïåõà [Root.GetHersHis] ìíåíèå î Âàñ óëó÷øèòñÿ íà §G50§!. Íåóäà÷à æå ñóùåñòâåííî èñïîðòèò Âàøó ðåïóòàöèþ...\n;;x
+corrupt_priest_has_quest;Has the quest §YCorrupt [Root.GetTitledFirstName]§!\n;;;;;;;;;;;Óáåäèòåñü, ÷òî ïîëó÷èëè çàäàíèå §YÐàçâðàòèòü ñâÿùåííèêà§!, öåëüþ êîòîðîãî ñòàë[Root.GetEndA] §Y[Root.GetTitledFirstName]§!\n;;x
+corrupt_priest_not_recently_attempted;Has not attempted to corrupt §Y[Root.GetTitledFirstName]§! the past §Y10§! years\n;;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[Root.GetTitledFirstName]§! ÍÅ ïîäâåðãà[Root.GetLasLsya] ðàçâðàùåíèþ â ïîñëåäíèå §Y10§! ëåò\n;;x
+council_power_increased;The power of the Council increases!;;;;;;;;;;;Ïîëíîìî÷èÿ §Yñîâåòà§! âîçðàñòóò!;;x
+decline_quest_tooltip;You decline the mission and will not be offered another for some time.;;;;;;;;;;;Îòêàçàòüñÿ îò çàäàíèÿ. Ýòî ëèøèò Âàñ âîçìîæíîñòè ïîëó÷èòü äðóãîå íà êàêîå-òî âðåìÿ.;;x
+decrease_prosperity_custom_tooltip;The §YProsperity§! of §Y[This.GetName]§! decreases slightly\n;;;;;;;;;;;§YÏðîöâåòàíèå§! îêðóãà ìåíåå äîñòèæèìî, ÷åì ïðåæäå\n;;x
+devil_worshiper_desecrate_temple_decision_tt;§Y[From.GetTitledFirstName]§! and [From.GetHerHis] accomplices sets out for §Y[Root.GetName]§!.;;;;;;;;;;;§Y[From.GetTitledFirstName]§! è [From.GetHersHis] ïîñîáíèêè ïðèñòóïÿò çàéìóòñÿ ìåñòîì, èçâåñòíûì êàê §Y[Root.GetName]§!.;;x
+devil_worshipers_dark_healing_tooltip;Need to be wounded, maimed, have a disease or severe medical condition.;;;;;;;;;;;Íåîáõîäèìî èìåòü ðàíåíèå, óâå÷üå èëè ñåðü¸çíîå çàáîëåâàíèå.;;x
+devil_worshipers_invite_disciple_of_devil_tt;A disciple of [Root.GetDWDevil] will soon appear at the court of §Y[Root.GetTitledFirstName]§!.\n;;;;;;;;;;;Ñëóãà [Root.GetDWDevilGEN] âñêîðå ïîÿâèòñÿ ïðè äâîðå ïðàâèòåëÿ, èçâåñòíîãî êàê §Y[Root.GetTitledFirstName]§!.\n;;x
+devil_worshipers_summon_familiar_cd_tooltip;§Y[Root.GetTitledFirstName]§! has not selected a familiar in the past 5 years\n;;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[Root.GetTitledFirstName]§! íå âûáèðàë[Root.GetEndA] ñåáå ôàìèëüÿðà â ïîñëåäíèå 5 ëåò\n;;x
+did_not_betray_society;Did not betray society\n;;;;;;;;;;;Íå ïðåäàâàë[GetEndA] ýòî îáùåñòâî\n;;x
+efficient_laboratory_setup;[Root.GetFullName] will aim to build a laboratory that can handle somewhat more complicated procedures.;;;;;;;;;;;[Root.GetFullName] ïîñòàðàåòñÿ ïîñòðîèòü ëàáîðàòîðèþ, ïðèãîäíóþ äàæå äëÿ ñëîæíûõ îïûòîâ.;;x
+efforts_to_improve_lab_security_tooltip;[Root.GetFullName] will spend funds to improve security and increase the efficiency of [Root.GetHerHis] Laboratory.;;;;;;;;;;;[Root.GetFullName] ïîòðàòèò íåêîòîðûå ñðåäñòâà, ÷òîáû óëó÷øèòü áåçîïàñíîñòü è ïîâûñèòü ýôôåêòèâíîñòü ñâîåé ëàáîðàòîðèè.;;x
+evoke_sympathy_of_tt;Has the quest §YEvoke the Sympathy of [Root.GetTitledFirstName]§!\n;;;;;;;;;;;Óáåäèòåñü, ÷òî âçÿòî çàäàíèå §YÏóñòü [Root.GetTitledFirstName] ñèìïàòèçèðóåò íàì§!\n;;x
+extravagant_laboratory_setup;[Root.GetFullName] will build an experimental setup with as many furnaces, basins, and other contraptions as can reasonably be fitted.;;;;;;;;;;;[Root.GetFullName] ïðèñòóïèò ê ñòðîèòåëüñòâó ýêñïåðèìåíòàëüíîãî êîìïëåêñà ñ ìíîæåñòâîì ïå÷åé, áàññåéíîâ è äðóãèõ ïðèñïîñîáëåíèé, êîòîðûå ìîãóò ïîìåñòèòüñÿ â ëàáîðàòîðèè.;;x
+fancy_laboratory_books_tooltip;[Root.GetFullName] will ensure the success of [Root.GetHerHis] future experiments by assembling a reference library for all occasions.;;;;;;;;;;;[Root.GetFullName] ñîáåð¸ò áîãàòóþ áèáëèîòåêó íà âñå ñëó÷àè è ñèòóàöèè, êîòîðûå ìîãóò âîçíèêíóòü â áóäóùèõ ýêñïåðèìåíòàõ.;;x
+fancy_laboratory_crucibles_tooltip;[Root.GetFullName] will now only tolerate the best of imported pottery from master potters.;;;;;;;;;;;[Root.GetFullName] âïðåäü áóäåò èñïîëüçîâàòü äîðîãóþ èìïîðòíóþ êåðàìèêó.;;x
+fancy_laboratory_glass_tooltip;[Root.GetFullName] will from now on spend more to ensure all glass that enter the laboratory is as durable and clear as possible.;;;;;;;;;;;[Root.GetFullName] âïðåäü áóäåò èñïîëüçîâàòü ñòåêëî ïîâûøåííîé ïðî÷íîñòè.;;x
+fancy_laboratory_tools_tooltip;[Root.GetFullName] will import alchemical tools from the master smiths that are best skilled to make them.;;;;;;;;;;;[Root.GetFullName] çàêóïèò èìïîðòíûå èíñòðóìåíòû, èçãîòîâëåííûå ëó÷øèìè ìàñòåðàìè.;;x
+fina_horoscope_outcome_for_parent_opt;Maybe it's because [horoscope_child.GetSheHe] is born under the [horoscope_child.GetWesternZodiacSign]?;;;;;;;;;;;Âîçìîæíî, ýòî ïîòîìó ÷òî [horoscope_child.GetSheHe] ðîäè[horoscope_child.GetLasLsya] ïîä çíàêîì [horoscope_child.GetWesternZodiacSignGEN]?;;x
+final_horoscope_outcome_for_parent_desc_1;I am not sure what my [horoscope_child.GetDaughterSon] [horoscope_child.GetFirstName] has been up to lately, but [horoscope_child.GetSheHe] certainly isn't proving to become the great [horoscope_child.GetHermeticsDestinedRole] I once predicted in [horoscope_child.GetHerHis] horoscope.;;;;;;;;;;;Óæ íå çíàþ, ê ÷åìó íà ñàìîì äåëå ñòðåìèòñÿ ì[horoscope_child.GetOyaOy] [horoscope_child.GetDaughterSon] [horoscope_child.GetFirstName], íî [horoscope_child.GetSheHe] îïðåäåë¸ííî íå ïðîÿâëÿåò ïðèçíàêè òîãî, ÷òî ñòàíåò [horoscope_child.GetHermeticsDestinedRoleWithAdjINS], êàê ïîêàçàë [horoscope_child.GetHersHis] ãîðîñêîï.;;x
+final_horoscope_outcome_for_parent_desc_2;My [horoscope_child.GetDaughterSon] [horoscope_child.GetFirstName] has truly found [horoscope_child.GetHerselfHimself] in the destiny my horoscope predicted, so long ago. [horoscope_child.GetSheHeCap] will makes a fine [horoscope_child.GetHermeticsDestinedRole].;;;;;;;;;;;Ì[horoscope_child.GetOyaOy] [horoscope_child.GetDaughterSon] [horoscope_child.GetFirstName] äåéñòâèòåëüíî íàø[horoscope_child.GetLaYol] ñâîþ ñóäüáó, êàê îíî äàâíî áûëî ïðåäñêàçàíî ãîðîñêîïîì. [horoscope_child.GetSheHeCap] ñòàíåò [horoscope_child.GetHermeticsDestinedRoleWithAdjINS].;;x
+gain_zodiac_trait_effect_tt;You will gain a trait appropriate for your zodiac sign!\n;;;;;;;;;;;Âû ïîëó÷èòå ÷åðòó, ñîîòâåòñòâóþùóþ Âàøåìó çíàêó Çîäèàêà!\n;;x
+GRAND_DEBATE_COOLDOWN_TOOLTIP;A Grand Debate has NOT been held in the past 10 years\n;;;;;;;;;;;Óáåäèòåñü, ÷òî âåëèêèå äåáàòû ÍÅ ïðîâîäèëèñü â ïîñëåäíèå 10 ëåò\n;;x
+GRAND_DEBATE_HOLDING_TOOLTIP;A Grand Debate is NOT currently in progress\n;;;;;;;;;;;Óáåäèòåñü, ÷òî âåëèêèå äåáàòû óæå ÍÅ íà÷àòû\n;;x
+GRAND_DEBATE_INVITE_TOOLTIP;Send an invitation to all members of [Root.Society.GetName].;;;;;;;;;;;Âñå [Root.GetSocietyName] ïîëó÷àò ïðèãëàøåíèÿ.;;x
+GRAND_DEBATE_PARTICIPANT_OPINION_TOOLTIP;Participating members will gain an increased opinion of §G5§! towards you for five years\n;;;;;;;;;;;Ó÷àñòíèêè äåáàòîâ ïîëó÷àò ïðèáàâêó ê ìíåíèþ î Âàñ â ðàçìåðå §G5§! íà ñëåäóþùèå ïÿòü ëåò\n;;x
+has_not_recently_performed_stargazing;Has NOT invited to stargazing in the past three years\n;;;;;;;;;;;Óáåäèòåñü, ÷òî [GetSheHe] ÍÅ ïðèãëàøà[GetLasLsya] íàáëþäàòü çâ¸çäû â ïîñëåäíèå òðè ãîäà.\n;;x
+hermetics_horoscope_cooldown_tooltip;Has NOT already had their horoscope examined\n;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ ñîñòàâëÿëè ãîðîñêîï ðàíüøå\n;;x
+hermetics_scrying_cooldown_tooltip;NOT already carrying a premonition of things to come\n;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ íåñ¸òå óæå ïðåä÷óâñòâèå ïðåäñòîÿùèõ ñîáûòèé\n;;x
+hermetics_wrote_magnum_opus_cd_tooltip;§Y[Root.GetTitledFirstName]§! has not already written a Magnum Opus\n;;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[Root.GetTitledFirstName]§! íå ïèñàë[Root.GetEndA] Magnum Opus ðàíüøå\n;;x
+hermetics_wrote_magnum_opus_duplicate;Does NOT already own Magnum Opuses on all topics.\n;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ âëàäååòå Magnum Opus íè ïî îäíîé èç òåì.\n;;x
+hermetics_wrote_magnum_opus_duplicate_contemplative_theurgy_tooltip;Does NOT already own a Magnum Opus on contemplative Theurgy\n;;;;;;;;;;;Óáåäèòåñü, ÷òî Magnum Opus ïî ñîçåðöàòåëüíîé òåóðãèè ÍÅ èìååòñÿ â íàëè÷èè\n;;x
+hermetics_wrote_magnum_opus_duplicate_panacea_alchemy_tooltip;Does NOT already own a Magnum Opus on alchemical Universal Panacea\n;;;;;;;;;;;Óáåäèòåñü, ÷òî Magnum Opus ïî óíèâåðñàëüíîé ïàíàöåå ÍÅ èìååòñÿ â íàëè÷èè\n;;x
+hermetics_wrote_magnum_opus_duplicate_planetary_astrology_tooltip;Does NOT already own a Magnum Opus on planetary Astrology\n;;;;;;;;;;;Óáåäèòåñü, ÷òî Magnum Opus ïî ïëàíåòàðíîé àñòðîëîãèè ÍÅ èìååòñÿ â íàëè÷èè\n;;x
+hermetics_wrote_magnum_opus_duplicate_ritual_theurgy_tooltip;Does NOT already own a Magnum Opus on ritualistic Theurgy\n;;;;;;;;;;;Óáåäèòåñü, ÷òî Magnum Opus ïî ðèòóàëüíîé òåóðãèè ÍÅ èìååòñÿ â íàëè÷èè\n;;x
+hermetics_wrote_magnum_opus_duplicate_stellar_astrology_tooltip;Does NOT already own a Magnum Opus on stellar Astrology\n;;;;;;;;;;;Óáåäèòåñü, ÷òî Magnum Opus ïî àñòðîëîãèè ÍÅ èìååòñÿ â íàëè÷èè\n;;x
+hermetics_wrote_magnum_opus_duplicate_transmutation_alchemy_tooltip;Does NOT already own a Magnum Opus on transmutative Alchemy\n;;;;;;;;;;;Óáåäèòåñü, ÷òî Magnum Opus ïî òðàíñìóòàòèâíîé àëõèìèè ÍÅ èìååòñÿ â íàëè÷èè\n;;x
+hidden_lab_tooltip;The plans for your laboratory will have to fit into your existing castle.;;;;;;;;;;;Âàøà ëàáîðàòîðèÿ áóäåò íàõîäèòüñÿ ïðÿìî â Âàøåé ðåçèäåíöèè.;;x
+ignore_ill_relatives_tooltip;[Root.GetTitledFirstName] won't receive any more notifications about sick relatives.;;;;;;;;;;;[Root.GetTitledFirstName] áîëüøå íå áóäåò ïîëó÷àòü óâåäîìëåíèÿ î áîëüíûõ ðîäñòâåííèêàõ.;;x
+increase_astronomical_insight_tt;Your knowledge of stellar phenomena increases.\n;;;;;;;;;;;Âàøè çíàíèÿ î çâ¸çäàõ ðàñòóò.\n;;x
+is_accessible;Can access §Y[Root.GetTitledFirstName]§!\n;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! äîñòóï[Root.GetNaEn] äëÿ âçàèìîäåéñòâèé\n;;x
+is_germanic_pagan_custom_tooltip;Have religion §YGermanic§!\n;;;;;;;;;;;Èñïîâåäóåò §YÃåðìàíñêîå§! ÿçû÷åñòâî\n;;x
+is_visible_to_self_trigger_tooltip;The viewing Character is the holder of this Character Modifier\n;;;;;;;;;;;Ðàññìàòðèâàåìûé ïåðñîíàæ îáëàäàåò ýòèì ìîäèôèêàòîðîì\n;;x
+large_laboratory_setup;[Root.GetFullName] will aim to build an advanced laboratory, capable of handling a number of complicated procedures.;;;;;;;;;;;[Root.GetFullName] ïîñòàðàåòñÿ ñäåëàòü òàêóþ ëàáîðàòîðèþ, êîòîðàÿ ïîçâîëèò ïðîâîäèòü ìíîæåñòâî ñëîæíûõ îïûòîâ.;;x
+loc_is_revealed_antichrist;Antichrist: $GAIN|=10+$;;;;;;;;;;;Àíòèõðèñò: $GAIN|=10+$;;x
+major_soul_corruption_effect_tooltip;This may have repercussions upon my soul!;;;;;;;;;;;Ýòî ìîæåò ïëîõî ïîâëèÿòü íà ìîþ äóøó.;;x
+minor_soul_corruption_effect_tooltip;This might have repercussions upon my soul!;;;;;;;;;;;Ýòî ìîæåò ïëîõî ïîâëèÿòü íà ìîþ äóøó.;;x
+monastic_may_become_friends;If §Y[monastic_friend.GetTitledFirstName]§! enjoys this activity, this might lead to a friendship. Perhaps if it related to [monastic_friend.GetHerHis] education...?\n;;;;;;;;;;;Åñëè §Y[monastic_friend.GetTitledFirstName]§! ëþáèò ýòî çàíÿòèå, ýòî ìîæåò ñòàòü íà÷àëîì õîðîøåé äðóæáû. Âîçìîæíî, åñëè ýòî êàê-òî ñâÿçàíî ñ [monastic_friend.GetHersHis] îáðàçîâàíèåì...\n;;x
+monastic_may_lead_to_more;What is the harm? It is not as if we are doing anything... Unnatural.\n;;;;;;;;;;;À ÷òî â ýòîì òàêîãî? Åñëè ìû íå ñîâåðøàåì ÷òî-òî... íååñòåñòâåííîå.\n;;x
+monastic_order_meditation_allow_tt;§Y[Root.GetTitledFirstName]§! has not secluded [Root.GetHerselfHimself] to meditate recently.\n;;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[Root.GetTitledFirstName]§! íå ìåäèòèðîâàë[Root.GetEndA] â ïîñëåäíåå âðåìÿ.\n;;x
+monastic_order_penance_allow_tt;§Y[Root.GetTitledFirstName]§! has not secluded [Root.GetHerselfHimself] to do penance recently.\n;;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[Root.GetTitledFirstName]§! íå êàÿ[Root.GetLasLsya] â ïîñëåäíåå âðåìÿ.\n;;x
+monastic_orders_invite_ascetic_tt;A holy ascetic will soon appear at the court of §Y[Root.GetTitledFirstName]§!.\n;;;;;;;;;;;Ñâÿòîé àñêåò ïîÿâèòñÿ ïðè äâîðå ÷åëîâåêà, èçâåñòíîãî êàê §Y[Root.GetTitledFirstName]§!.\n;;x
+monastic_orders_temple_construction_tooltip;To complete this mission, build a temple holding in a county in your realm.;;;;;;;;;;;×òîáû âûïîëíèòü ýòî çàäàíèå, íóæíî îñíîâàòü õðàìîâîå ïîñëåíèå â ëþáîì îêðóãå ñâîåé ñòðàíû.;;x
+must_be_a_sinner_tooltip;Must be a sinner\n;;;;;;;;;;;Ãðåøíè[GetTsaK]\n;;x
+must_be_allowed_to_rank_up_tooltip;Must have been at the §Y[Root.GetSocietyRank]§! rank for at least three years\n;;;;;;;;;;;Íóæíî îáëàäàòü ðàíãîì §Y[Root.GetSocietyRank]§! ìèíèìóì 3 ãîäà\n;;x
+must_have_grandmaster_tooltip;Must not be the leader of §Y[Root.Society.GetNameCap]§!\n;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ ÿâëÿåòåñü ëèäåðîì §Y[Root.GetSocietyNameGEN]§!\n;;x
+must_have_multiple_rank_4;§Y[Root.Society.GetNameCap]§! must allow multiple characters to hold the next rank\n;;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[Root.GetSocietyName]§! ïîçâîëÿþò, ÷òîáû íåñêîëüêî ÷åëîâåê îäíîâðåìåííî ìîãëè çàíèìàòü ñëåäóþùèé ðàíã\n;;x
+must_not_have_sent_request_already_tooltip;Must NOT already be awaiting word for this request\n;;;;;;;;;;;Óáåäèòåñü, ÷òî ïèñüìî ñ ïðîøåíèåì ÍÅ îòïðàâëåíî\n;;x
+non_fancy_laboratory_books_tooltip;[Root.GetFullName] will avoid spending money frivolously on books that tell [Root.GetHerHis] what he already knows.;;;;;;;;;;;[Root.GetFullName] áóäåò èçáåãàòü ðàñõîäîâ íà ïîêóïêó íîâûõ êíèã.;;x
+non_fancy_laboratory_crucibles_tooltip;[Root.GetFullName] will keep the laboratory supplied using the pottery from local potters to avoid the high price of imported crucibles.;;;;;;;;;;;[Root.GetFullName] ïðîäîëæèò èñïîëüçîâàòü ïîñóäó, ïðèîáðåòàåìóþ ó ìåñòíûõ ïîñòàâùèêîâ, ÷òîáû ñýêîíîìèòü.;;x
+non_fancy_laboratory_glass_tooltip;[Root.GetFullName] will keep buying glass of inferior quality but helpers will be instructed to handle it with extreme care from now on.;;;;;;;;;;;[Root.GetFullName] áóäåò ïðîäîëæàòü èñïîëüçîâàòü õðóïêîå ñòåêëî, íî çàïðåòèò ñâîèì àññèñòåíòàì ê íåìó ïðèáëèæàòüñÿ.;;x
+non_fancy_laboratory_tools_tooltip;[Root.GetFullName] will cut costs by relying on local smiths to produce the tools and other ironwork required for [Root.GetHerHis] alchemical experiments.;;;;;;;;;;;[Root.GetFullName] ñýêîíîìèò, ïîëüçóÿñü àëõèìè÷åñêèìè èíñòðóìåíòàìè, ïîëó÷åííûìè îò ìåñòíûõ ðåìåñëåííèêîâ è êóçíåöîâ.;;x
+obedience_tooltip;Lower ranking members are very likely to agree to your diplomatic requests.;;;;;;;;;;;Ñîðàòíèêè íèçêîãî ðàíãà íàìíîãî âåðîÿòíåå ñîãëàñÿòñÿ ñ Âàøèìè äèïëîìàòè÷åñêèìè çàïðîñàìè.;;x
+openly_adopt_faith_currency_tooltip;Has [Root.Society.GetCurrencyName] greater or equal to §Y300§!;;;;;;;;;;;Óáåäèòåñü, ÷òî [Root.Society.GetCurrencyName] ÍÅ ìåíüøå ÷åì §Y300§!;;x
+openly_adopt_faith_effect_tooltip;All sympathizers of the true faith will be encouraged to openly express their beliefs\nAfter this [Root.Society.GetName] will be no more, and you will no longer be able to recruit secret sympathizers;;;;;;;;;;;Âñå òå, êòî ñèìïàòèçèðóþò èñòèííîé âåðå, âäîõíîâÿòñÿ è îòêðîþò ñâîè âçãëÿäû øèðîêîé ïóáëèêå.\nÏîñëå ýòîãî [Root.GetSocietyName] ðàñôîðìèðóþòñÿ, è ó Âàñ áîëüøå íå áóäåò âîçìîæíîñòè âåðáîâàòü òàéíûõ ïîñëåäîâàòåëåé.;;x
+openly_adopt_faith_trigger_tooltip;There are others in the realm sympathetic to the struggles of [Root.Society.GetName];;;;;;;;;;;Óáåäèòåñü, ÷òî åñòü è äðóãèå, êòî ñèìïàòèçèðóþò òîìó, çà ÷òî áîðÿòñÿ [Root.GetSocietyName].;;x
+platypus_herder;Platypus Herder;;;;;;;;;;;Çàâîä÷èê óòêîíîñîâ;;x
+plot_assassins_collect_debt_allow_tt;§Y[From.GetTitledFirstName]§! has a mission to collect §Y[Root.GetTitledFirstName]'s§! debt.;;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[From.GetTitledFirstName]§! ïîëó÷èë[From.GetEndA] çàäàíèå âçûñêàòü äîëã ñ [Root.GetAgedPersonGEN], èçâåñòí[Root.GetOyOgo] êàê §Y[Root.GetTitledFirstName]§!.;;x
+plot_assassins_collect_debt_success;§Y[From.GetTitledFirstName]§! infiltrates the residence of §Y[Root.GetTitledFirstName]§! and threatens [Root.GetHerHim] to pay [Root.GetHerHis] debt.;;;;;;;;;;;§Y[From.GetTitledFirstName]§! ïðîíèêíåò â ðåçèäåíöèþ [Root.GetAgedPersonGEN], èçâåñòí[Root.GetOyOgo] êàê §Y[Root.GetTitledFirstName]§!, è óãðîçàìè äîáü¸òñÿ âîçâðàòà äîëãà.;;x
+possess_courtier_already_done;Possession of §Y[Root.GetTitledFirstName]§! has not already been attempted\n;;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[Root.GetTitledFirstName]§! ÍÅ ïîäâåðãà[Root.GetLasLsya] ïîïûòêàì îäåðæèìîñòè äåìîíàìè\n;;x
+prepare_grounds_allow_tooltip;NOT currently developing a community in this province;;;;;;;;;;;Óáåäèòåñü, ÷òî â ýòîì îêðóãå åù¸ ÍÅ ñîçäàíà îáùèíà;;x
+PREPARE_STARGAZING;Make the needed preparations for the coming night.;;;;;;;;;;;Íàì íóæíî ãîòîâèòüñÿ ê ïðåäñòîÿùåé íî÷è.;;x
+quest_secret_religions_conduct_secret_ceremony_allow_tt;Has NOT recently attempted this;;;;;;;;;;;ÍÅ áûëî ïîäîáíûõ ïîïûòîê â ïîñëåäíåå âðåìÿ;;x
+quest_secret_religions_societies_blend_in_allow_tt;Has not recently attempted this mission;;;;;;;;;;;Óáåäèòåñü, ÷òî íå áðàëè ýòî çàäàíèå â ïîñëåäíåå âðåìÿ;;x
+reason_tooltip_1;Apprentice Assassin;;;;;;;;;;;Ó÷åíèê àññàñèíîâ;;x
+recruit_delay_timer_tooltip;Has waited three months since previous recruitment\n;;;;;;;;;;;Óáåäèòåñü, ÷òî ïðîøëî òðè ìåñÿöà ñ ïðåäûäóùåé âåðáîâêè\n;;x
+request_to_rank_up_within_society_currency_tt;Has §Y[Root.Society.GetCurrency]§! greater or equal to [Root.GetSocietyRankUpTooltip1]\n;;;;;;;;;;;§Y[Root.Society.GetCurrency]§! íå ìåíüøå ÷åì [Root.GetSocietyRankUpTooltip1]\n;;x
+request_to_rank_up_within_society_cynical_tt;[Root.GetSocietyRankUpTooltip2];;;;;;;;;;;[Root.GetSocietyRankUpTooltip2];;x
+request_to_rank_up_within_society_no_vices;Must have no vice traits\n;;;;;;;;;;;Íåëüçÿ èìåòü ãðåøíûå ÷åðòû õàðàêòåðà\n;;x
+request_to_rank_up_within_society_vices_tt;[Root.GetSocietyRankUpTooltip2];;;;;;;;;;;[Root.GetSocietyRankUpTooltip3];;x
+request_to_rank_up_within_society_virtues_tt;[Root.GetSocietyRankUpTooltip4];;;;;;;;;;;[Root.GetSocietyRankUpTooltip4];;x
+search_for_artifact_allow_tt;§Y[Root.GetTitledFirstName]§! is a councilor of §Y[From.GetTitledFirstName]§!.\n;;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[Root.GetTitledFirstName]§! ÿâëÿåòñÿ ñîâåòíèêîì ïðàâèòåëÿ, èçâåñòíîãî êàê §Y[From.GetTitledFirstName]§!.\n;;x
+search_for_artifact_effect_progress_tt;Some of the previously made progress is lost.\n;;;;;;;;;;;Íåêîòîðûå ïðîøëûå óñïåõè â ïîèñêàõ áóäóò ïîòåðÿíû.\n;;x
+search_for_artifact_effect_replace_tt;The previous artifact hunter is replaced.\n;;;;;;;;;;;Ïðåäûäóùèé îõîòíèê çà àðòåôàêòîì áóäåò îòñòðàí¸í îò ïîèñêîâ.\n;;x
+search_for_artifact_effect_tt;§Y[Root.GetTitledFirstName]§! arranges a search for the rumored artifact.\n;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! îðãàíèçóåò ïîèñêè àðòåôàêòà.\n;;x
+secret_religion_recruit_allow_tt;Is also a secret follower of the [From.TrueReligion.GetName] faith.;;;;;;;;;;;Òîæå òàéíî èñïîâåäóåò [From.GetTrueReligionAdjective]ñêóþ âåðó.;;x
+secret_religions_evoke_sympathy_cd_tt;Has not been approached to be made sympathetic to people of other religions recently, or is the target of §Y[From.GetTitledFirstName]§!'s mission\n;;;;;;;;;;;Óáåäèòåñü, ÷òî â ïîñëåäíåå âðåìÿ íå áûëî ïîïûòîê ïîâëèÿòü íà ÷åëîâåêà, èçâåñòíîãî êàê §Y[From.GetTitledFirstName]§! ñ öåëüþ ïðîáóäèòü ñèìïàòèþ ê äðóãèì ðåëèãèÿì.\n;;x
+secret_religions_evoke_sympathy_tt;§Y[From.GetTitledFirstName]§! attempts to find a way to approach §Y[Root.GetTitledFirstName]§! and talk about [From.GetTrueReligionGroupPersons]. If successful, [Root.GetSheHe] may help to convert the realm.\n;;;;;;;;;;;§Y[From.GetTitledFirstName]§! ïîïûòàåòñÿ íàéòè ïîäõîä, ñîãëàñíî êîòîðîãîìó §Y[Root.GetTitledFirstName]§! óçíàåò áîëüøå î [From.GetTrueReligionGroupPersonsPREP]. Åñëè âñ¸ ïîëó÷èòñÿ, [Root.GetSheHe] äàæå ìîæåò ïîìî÷ü îáðàùåíèþ æèòåëåé ñòðàíû â íîâóþ âåðó.\n;;x
+secret_religions_induct_character_cd_tt;Has not been approached to be inducted into another faith recently\n;;;;;;;;;;;Óáåäèòåñü, ÷òî íåäàâíî íå áûëî ïîïûòîê òàéíî îáðàòèòü ñ äðóãóþ âåðó\n;;x
+secret_religions_induct_character_effect_tt;§Y[From.GetTitledFirstName]§! attempts to find a way to make §Y[Root.GetTitledFirstName]§! contemplate the [From.TrueReligion.GetName] Faith.\n;;;;;;;;;;;§Y[From.GetTitledFirstName]§! ïîïûòàåòñÿ, ÷òîáû §Y[Root.GetTitledFirstName]§! ïðèíÿë[Root.GetEndA] [From.GetTrueReligionFullName].\n;;x
+secret_religions_induct_child_allow_tt;Is not a secret believer in the [From.TrueReligion.GetName] faith\n;;;;;;;;;;;Óáåäèòåñü, ÷òî [Root.GetSheHe] óæå ÍÅ èñïîâåäóåò òàéíî [From.GetTrueReligionAdjective]ñêóþ âåðó\n;;x
+secret_religions_induct_child_effect;§Y[From.GetTitledFirstName]§! will approach §Y[Root.GetTitledFirstName]§! and attempt to teach [Root.GetHerHim] about the [From.TrueReligion.GetName] faith.;;;;;;;;;;;§Y[From.GetTitledFirstName]§! ïðèëîæèò óñèëèÿ, ÷òîáû §Y[Root.GetTitledFirstName]§! ïðèíÿë[Root.GetEndA] [From.GetTrueReligionAdjective]ñêóþ âåðó, îáó÷àÿ [Root.GetHersHis].;;x
+secret_religions_prepare_grounds_effect_tooltip;A loyal servant is sent to found a community of the true faith in [Root.GetName];;;;;;;;;;;Âàø ÷åëîâåê áóäåò îòïðàâëåí, ÷òîáû îñíîâàòü îáùèíó èñòèííîé âåðû â îêðóãå [Root.GetName].;;x
+secret_religions_recruit_allow_tt;Shares the same true faith as §Y[From.GetFirstName]§!\n;;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[From.GetFirstName]§! òàéíî èñïîâåäóåò òó æå âåðó, ÷òî è Âû.\n;;x
+secret_religions_recruit_cd_tt;Has not been invited to join §Y[From.Society.GetName]§! recently;;;;;;;;;;;Óáåäèòåñü, ÷òî [Root.GetSheHe] íå ïðèãëàøà[Root.GetLasLsya] â îáùåñòâî §Y[From.GetSocietyNameGEN]§! â ïîñëåäíåå âðåìÿ;;x
+secret_religions_recruit_effect_tt;§Y[From.GetTitledFirstName]§! approaches §Y[Root.GetTitledFirstName]§! with the intent of inviting [Root.GetHerHim] to join §Y[From.Society.GetName]§!.;;;;;;;;;;;§Y[From.GetTitledFirstName]§! ïîãîâîðèò î òîì, ÷òîáû §Y[Root.GetTitledFirstName]§! âñòóïèë[Root.GetEndA] â îáùåñòâî §Y[From.GetSocietyNameGEN]§!.;;x
+society_pleased_with_celebration;The society's members are pleased with your celebration!\n;;;;;;;;;;;Ñîðàòíèêè äîâîëüíû ïðàçäíîâàíèåì è Âàøåé ðîëüþ â í¸ì!\n;;x
+start_constructing_laboratory_tooltip;[Root.GetFullName] starts the construction of a Laboratory.;;;;;;;;;;;[Root.GetFullName] ïðèñòóïèò ê ñòðîèòåëüñòâó ëàáîðàòîðèè.;;x
+stop_abduct_decision_tt;Abduction efforts stop;;;;;;;;;;;Ïîõèùåíèå íå ñîñòîèòñÿ â ëþáîì ñëó÷àå;;x
+stop_artifact_search_effect_tt;The search for the artifact is ended. A new councilor can be appointed to lead the search as long as the rumor is still viable.;;;;;;;;;;;Ïîèñêè àðòåôàêòà çàâåðøàòñÿ. Íîâûé ñîâåòíèê ìîæåò áûòü íàçíà÷åí âîçãëàâèòü ïîèñêîâóþ ìèññèþ äî òåõ ïîð, ïîêà ñëóõè áóäóò åù¸ àêòóàëüíû.;;x
+successful_induction_tooltip;Your induction attempt is successful! [Root.GetDWDevil] welcomes §Y[From.GetTitledName]§! into the coven.\n;;;;;;;;;;;Âàøà ïîïûòêà âíåäðåíèÿ óâåí÷àåòñÿ óñïåõîì! [Root.GetDWDevil] ïðèìåò [From.GetAgedPersonACC], èçâåñòí[From.GetUyuOgo] êàê §Y[From.GetTitledFirstName]§!, â êðóã ñâîèõ ïîñëåäîâàòåëåé.\n;;x
+the_devil_worshipers_tainted_touch_allow_2_tt;§Y[Root.GetTitledFirstName]§! has not been cursed in the last 10 years;;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[Root.GetTitledFirstName]§! ÍÅ áûë[Root.GetEndA] ïðîêëÿò[Root.GetEndA] â ïîñëåäíèå 10 ëåò;;x
+the_devil_worshipers_tainted_touch_allow_tt;§Y[Root.GetTitledFirstName]§! is not already sick.;;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[Root.GetTitledFirstName]§! ÍÅ áîë[Root.GetSoftNaEn].;;x
+the_devil_worshipers_tainted_touch_tooltip;§Y[Root.GetTitledFirstName]§! mysteriously contracts a disease\n;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! òàèíñòâåííûì îáðàçîì çàáîëååò\n;;x
+tooltip_info_omen_tt;This option is available due to you having the §Y[This.GetOmenModifierName]§! modifier.\n[This.GetOmenResultReaction].\n;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì áëàãîäàðÿ òîìó, ÷òî Âû îáëàäàåòå §Y[This.GetOmenModifierName]§!.\n[This.GetOmenResultReaction].\n;;x
+very_hidden_lab_tooltip;Though isolated your laboratory can be as big as it needs to be.;;;;;;;;;;;Ëó÷øå ïîìåñòèòü ëàáîðàòîðèþ â îòäåëüíîå ìåñòî, ê òîìó æå òàê îíà ìîæåò áûòü ñêîëü óãîäíî áîëüøîé.;;x
+vodouns_recruit_block_tooltip;Has not been approached by the Soul Eaters before.;;;;;;;;;;;Óáåäèòåñü, ÷òî ýò[Root.GetEtaEtot] [Root.GetAgedPerson] ÍÅ ïðèâëåêà[Root.GetLasLsya] ðàíåå â ðÿäû ïîæèðàòåëåé äóø.;;x
+write_theory_paper_decision_cooldown_timer_tt;Has NOT recently written a theorem paper\n;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ ïèñàëè òðàêòàò â ïîñëåäíåå âðåìÿ\n;;x
+write_theory_paper_decision_effect_tt;Begin writing a theorem paper.;;;;;;;;;;;Ïðèñòóïèò ê íàïèñàíèþ òðàêòàòà.;;x
+NO_HIGHER_QUALITY_VERSION_ACTIVE;Does NOT have an active higher quality Magnum Opus on the same topic.\n;;;;;;;;;;;Óáåäèòåñü, ÷òî Magnum Opus ëó÷øåãî êà÷åñòâà ïî òîé æå òåìå ÍÅ èìååòñÿ â íàëè÷èè.\n;;x
 # CleanSlate
-devil_worshiper_recruit_block_tooltip;[GetDevilWorshiperRecruitBlockDesc];;;;;;;;;;;;;x
-
+devil_worshiper_recruit_block_tooltip;[GetDevilWorshiperRecruitBlockDesc];;;;;;;;;;;[GetDevilWorshiperRecruitBlockDesc];;x
 # Unused ?
-hunt_platypus;Find a platypus;;;;;;;;;;;;;x
-hunt_platypus_DESC;$HOLDER|Y$ must find the most noble and awesome of all animals;;;;;;;;;;;;;x
-hunt_platypus_TOOLTIP;To complete the mission, $HOLDER|Y$ must scour the earth and find the legendary animal known as a "platypus";;;;;;;;;;;;;x
-hunter_killer_order_desc;Hunting enemies;;;;;;;;;;;;;x
-unlockable_DW_powers_at_rank_2;Next rank will unlock: §YSummon Familiar§!, §YTainted Touch§!, and §YDemonic Possession§!;;;;;;;;;;;;;x
-unlockable_DW_powers_at_rank_3;Next rank will unlock: §YDark Divorce§! and §YDark Healing§!;;;;;;;;;;;;;x
-unlockable_DW_powers_at_rank_4;Next rank will unlock: §YInvite Disciple§! and §YAbsorb Lifeforce§!;;;;;;;;;;;;;x
+hunt_platypus;Find a platypus;;;;;;;;;;;Ïîéìàòü óòêîíîñà;;x
+hunt_platypus_DESC;$HOLDER|Y$ must find the most noble and awesome of all animals;;;;;;;;;;;$HOLDER|Y$ ïîïûòàåòñÿ íàéòè ñàìîå áëàãîðîäíîå è óäèâèòåëüíîå æèâîòíîå èç âñåõ;;x
+hunt_platypus_TOOLTIP;"To complete the mission, $HOLDER|Y$ must scour the earth and find the legendary animal known as a ""platypus""";;;;;;;;;;;"Çàäàíèå áóäåò óñïåøíî âûïîëíåíî, åñëè $HOLDER|Y$ ðàçûùåò ëåãåíäàðíîå æèâîòíîå, èçâåñòíîå êàê ""óòêîíîñ""";;x
+hunter_killer_order_desc;Hunting enemies;;;;;;;;;;;Ïðåñëåäîâàòü âðàãà;;x
+unlockable_DW_powers_at_rank_2;Next rank will unlock: §YSummon Familiar§!, §YTainted Touch§!, and §YDemonic Possession§!;;;;;;;;;;;Ñëåäóþùèé ðàíã ïîçâîëèò: §Yïðèçâàòü ôàìèëüÿðà§!, §Yíàâåñòè ïîð÷ó§! è §Yïîäñåëèòü äåìîíà§!;;x
+unlockable_DW_powers_at_rank_3;Next rank will unlock: §YDark Divorce§! and §YDark Healing§!;;;;;;;;;;;Ñëåäóþùèé ðàíã ïîçâîëèò: §Yò¸ìíûé ðàçâîä§! è §Yò¸ìíîå èñöåëåíèå§!;;x
+unlockable_DW_powers_at_rank_4;Next rank will unlock: §YInvite Disciple§! and §YAbsorb Lifeforce§!;;;;;;;;;;;Ñëåäóþùèé ðàíã ïîçâîëèò: §Yïðèãëàñèòü ñëóãó Äüÿâîëà§! è §Yïîãëîòèòü æèçíåííóþ ñèëó§!;;x

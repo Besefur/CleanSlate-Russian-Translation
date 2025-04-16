@@ -1,327 +1,313 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC105000;It is a dire decision, to ask the Chief Qadi to grant me divorce from my husband [Root.Spouse.GetTitledFirstName]. I must be certain this is what I want before I make this decision...;;;;;;;;;;;;;x
-EVTDESC105001;[From.GetTitledFirstName] came to me to ask to be granted a divorce from her husband [From.Spouse.GetTitledFirstName]. I reminded [From.GetTitledFirstName] about the iddah period, the month she would have to wait before the divorce came through, and asked if her husband [From.Spouse.GetTitledFirstName] would demand compensation and the return of the mahr, the wedding gift her husband gave her when they married.;;;;;;;;;;;;;x
-EVTDESC105002;The Chief Qadi [From.GetTitledFirstName] asked me what if my husband [Root.Spouse.GetTitledFirstName] demanded compensation and the return of my mahr, the gift he gave me at the wedding and told me what would happen to any child of our union. [From.GetSheHeCap] also told me I must wait a month, the iddah period, before I could be divorced or, if I was pregnant, until the child was born.;;;;;;;;;;;;;x
-EVTDESC105003;The Chief Qadi [From.GetTitledFirstName] did not grant me a divorce and told me that from what I told [From.GetHerHim] [From.GetSheHe] saw no reason to grant me a divorce from [Root.Spouse.GetTitledFirstName].;;;;;;;;;;;;;x
-EVTDESC105004;The iddah period has gone and if I am truly certain I want a divorce from [Root.Spouse.GetTitledFirstName] I will have it.;;;;;;;;;;;;;x
-EVTDESC105005;My wife [Root.Spouse.GetTitledFirstName] has gone to Chief Qadi [From.GetTitledFirstName] and asked for a divorce! If she still wants it after the iddah period, a month, then our marriage will be no more...;;;;;;;;;;;;;x
-EVTDESC105006;I was on my way home, thinking of ways to tell my husband [From.GetTitledFirstName] that I had asked the Chief Qadi for a divorce, when [From.GetTitledFirstName] caught up with me and asked me why I wanted a divorce! I told [From.GetTitledFirstName] my reasons and [From.GetSheHe] pleaded that I should reconsider, told me he did not want me to divorce [From.GetHerHim]...;;;;;;;;;;;;;x
-EVTDESC105007;I pleaded with [From.GetTitledFirstName], promised her all she would want if only she wouldn't leave me! She told me about her reasons and I told her I would change, that I would do anything, anything!;;;;;;;;;;;;;x
-EVTDESC105010;I grow more worried for every day no Chief Qadi has been selected. It is as if [Root.Liege.GetTitledFirstName] does not care if just judgement is brought to those who deserve it!;;;;;;;;;;;;;x
-EVTDESC105011;[From.GetTitledFirstName] worries that the people of my realm lacks just judgement when I still haven't chosen a Chief Qadi to take care of all legal matters. To ease [From.GetHerHis] worry, [From.GetTitledFirstName] came to me and suggested someone who [From.GetSheHe] believe would make an excellent Chief Qadi.;;;;;;;;;;;;;x
-EVTDESC105012;I had no idea [FromFrom.GetTitledFirstName] would suggest me as [From.GetTitledFirstName]'s new Chief Qadi! The letter congratulating me to my new position and the order to appear before [From.GetTitledFirstName] as soon as possible was bewildering, I almost did not believe it at first.;;;;;;;;;;;;;x
-EVTDESC105013;I suggested that [target_suggested_qadi.GetTitledFirstName] would be [Root.Liege.GetTitledFirstName]'s new Chief Qadi and waited with bated breath as [Root.Liege.GetTitledFirstName] pondered this.;;;;;;;;;;;;;x
-EVTDESC105014;It felt preposterous, almost insulting, to suggest myself as the new Chief Qadi for [From.GetTitledFirstName] but there were no better candidate I could have thought of than myself.;;;;;;;;;;;;;x
-EVTDESC105020;[Root.Liege.GetTitledFirstName]'s choice for the Chief Qadi position is disastrous! The [old_qadi.GetManWoman]'s judgement is severely distorted and there will be no justice as long as [old_qadi.GetSheHe] holds the post!;;;;;;;;;;;;;x
-EVTDESC105021;Fuming with anger at what [From.GetTitledFirstName] called 'another disastrous judgement of your Chief Qadi!', [From.GetTitledFirstName] suggested I would choose another person for the very important position as Chief Qadi.;;;;;;;;;;;;;x
-EVTDESC105023;The current Chief Qadi is such a disastrous choice, with [old_qadi.GetHerHis] arbitrary judgements and insufficient knowledge of the laws, that I had to suggest a new candidate for this position. [From.GetTitledFirstName] would make a much better Chief Qadi and so I told [Root.Liege.GetTitledFirstName] and waited with bated breath as [Root.Liege.GetTitledFirstName] pondered this.;;;;;;;;;;;;;x
-EVTDESC105024;I inadvertently insulted the old Chief Qadi when I suggested that I would make better judgements than [old_qadi.GetHerHim] and knew the laws much better than [old_qadi.GetHerHim], but I saw no other way to get rid of [old_qadi.GetHerHim]. After all, it was [From.GetTitledFirstName] who would judge if I was a better person for the position than the hopefully soon former Chief Qadi.;;;;;;;;;;;;;x
-EVTDESC105025;May [FromFrom.GetTitledFirstName] be hit with sixty shoes! That son of a dog coaxed [From.GetTitledFirstName] into revoking my title as Chief Qadi!;;;;;;;;;;;;;x
-EVTDESC105030;The Qur'an says: 'O you who believe! Intoxicants and games of chance and sacrificing to stones set up and dividing by arrows are only an uncleanness, the Shaitan's work, shun it therefore that you may be successful.' It is said that those who indulge in wine and other intoxicants will be punished by eighty lashes so they may know the wrongness of their path.;;;;;;;;;;;;;x
-EVTDESC105031;I stumbled drunkenly into Chief Qadi [From.GetTitledFirstName] who smelled the wine I had drunk on my breath and ordered my arrest. The next day I got my punishment: eighty lashes!;;;;;;;;;;;;;x
-EVTDESC105032;The wine was aplenty and when I left my company I was more than unsteady on my feet. I must have drunk enough to become unconscious, for when I woke up it was in Chief Qadi [From.GetTitledFirstName]'s room, who told me that if I donated a small sum of money to charity and promised to never drink again [From.GetSheHe] would let me go without punishment.;;;;;;;;;;;;;x
-EVTDESC105035;There have been rumors circling the court that a vassal of [Root.Liege.GetTitledFirstName] is sleeping with a woman other than his wives. The man cannot be a true Muslim if he has committed zina!;;;;;;;;;;;;;x
-EVTDESC105036;To accuse someone of committing zina, having sexual intercourse with another man or woman other than your spouse, is something no one should take lightly. [From.GetTitledFirstName] told me of the rumors circling the court of [From.GetHerHis] liege [From.Liege.GetTitledFirstName] about a vassal being more than friendly with a woman...;;;;;;;;;;;;;x
-EVTDESC105037;The days with my lover have been the most joyful days of my life but [From.GetTitledFirstName] threatening to bring the whole affair to the Chief Qadi made those few days feel petty and the joy I had felt bedraggled. Committing zina is a sin but I couldn't resist her...;;;;;;;;;;;;;x
-EVTDESC105038;Chief Qadi [From.GetTitledFirstName] lectured me on the sin of committing zina, but all I could think of was my dear love, waiting for me in our own little hideout.;;;;;;;;;;;;;x
-EVTDESC105039;The silence following my accusations, that a vassal of [Root.Liege.GetTitledFirstName] was committing zina, was deafening. Chief Qadi [From.GetTitledFirstName] asked me several questions about the accusations, the rumors I've heard and what I thought about the matter, which was rather flattering.;;;;;;;;;;;;;x
-EVTDESC105040;I hadn't really expected [From.GetTitledFirstName] to react to my accusations about [From.GetHerHim] committing zina and me threatening to go to the Chief Qadi with the matter in exactly that way...;;;;;;;;;;;;;x
-EVTDESC105041;I confronted [From.GetTitledFirstName] with [FromFrom.GetTitledFirstName]'s accusations about [From.GetHerHim] committing zina and the rumors [FromFrom.GetTitledFirstName] based this upon. [From.GetTitledFirstName] denied everything and assured me [From.GetSheHe] is a pious Muslim who would never do anything to affront Allah.;;;;;;;;;;;;;x
-EVTDESC105042;[FromFrom.GetTitledFirstName]'s accusations of [From.GetTitledFirstName] committing zina is not something to take lightly, so when I confronted [From.GetTitledFirstName] and [From.GetSheHe] confessed and confessed four times, then promised to never see [From.GetHerHis] lover ever again I stood at a loss. Should I punish [From.GetTitledFirstName] for committing zina or should I be merciful if [From.GetSheHe] stood by [From.GetHerHis] word?;;;;;;;;;;;;;x
-EVTDESC105043;I had thought [From.GetTitledFirstName] would've shown some embarrassment, some remorse for committing zina, a crime declared punishable by stoning or a hundred lashes by the Qur'an and the Prophet himself! Instead, [From.GetTitledFirstName] did not deny anything and told me the love [From.GetSheHe] felt for [From.GetHerHis] lover was sacred!;;;;;;;;;;;;;x
-EVTDESC105044;Committing zina is a crime according to the Qur'an and the Prophet, may peace be upon him, and the punishment is stoning or a hundred lashes. Regardless of what I told Chief Qadi [From.GetTitledFirstName], I still felt afraid as [From.GetSheHe] pondered my case.;;;;;;;;;;;;;x
-EVTDESC105050;I wish to decorate the new mosque with abstract arabesque motifs such as quotes from the Qur'an and intricate calligraphy is something my liege's new Court Calligrapher should be more than able to do.;;;;;;;;;;;;;x
-EVTDESC105051;A message from [From.GetTitledFirstName] has arrived, with a most respectful tone to it and a humble request for calligraphy of Quranic verses for the decoration of a newly erected mosque.;;;;;;;;;;;;;x
-EVTDESC105052;I received samples of what the Court Calligrapher [From.GetTitledFirstName] had envisioned for the decoration of the mosque, taken special care to the few Quranic verses I had felt most important to adorn the roof and walls of the mosque.;;;;;;;;;;;;;x
-EVTDESC105053;I had thought it to be a great honor, designing the decorations of my mosque and I had even sent [From.GetTitledFirstName] some Quranic verses to give [From.GetHerHim] some ideas of what I wanted together with a most humble letter praising [From.GetTitledFirstName]'s calligraphic skill. The short answer was humiliating in its simplicity:;;;;;;;;;;;;;x
-EVTDESC105054;I sent [From.GetTitledFirstName] some short samples of my previous works and the design of the Quranic verses [From.GetSheHe] had specifically asked for. The messenger arrived with a letter from [From.GetTitledFirstName] and I tore it open to reveal what [From.GetTitledFirstName] had written in response to my designs...;;;;;;;;;;;;;x
-EVTDESC105055;I saw the design of the Quranic verses my Court Calligrapher [FromFrom.GetTitledFirstName] had created for [From.GetTitledFirstName]'s new mosque and I couldn't believe anyone would be dissatisfied with it, [FromFrom.GetTitledFirstName] is a master with the qalam!;;;;;;;;;;;;;x
-EVTDESC105060;The hilya I have worked on for so long is a piece of art, the description of the Prophet Mohammad's appearance and character written in gold with as much care taken to every line and curve as to every dot as I could possibly do. The brilliant colors and exquisite details is a joy to behold!;;;;;;;;;;;;;x
-EVTDESC105061;[From.GetTitledFirstName] sent me a hilya [From.GetSheHe] had made [From.GetHerselfHimself], a description of the Prophet Mohammad's appearance and character written in gold on pergament with hopes of it protecting me from trouble in this world and the next.;;;;;;;;;;;;;x
-EVTDESC105065;With the promise of creating a golden Qur'an, with ornaments of gold and cover of solid gold, something only the most skilled and experienced calligraphers would ever be able to create, I might be able to lure my liege [Root.Liege.GetTitledFirstName] for some money!;;;;;;;;;;;;;x
-EVTDESC105066;The idea of a golden Qur'an might be absurd, the cost for the gold alone incredible but I listened patiently as the Court Calligrapher [From.GetTitledFirstName] told me about [From.GetHerHis] plans and ideas, the approximately cost of the materials needed including the gold and [From.GetHerHis] time estimate. It started to sound promising, then [From.GetTitledFirstName] asked me...;;;;;;;;;;;;;x
-EVTDESC105067;With a rough estimate of what the materials for the Golden Qur'an would cost and a time estimate of about six months I managed to make [From.GetTitledFirstName] more than interested in my 'dream' of making a Golden Qur'an...;;;;;;;;;;;;;x
-EVTDESC105068;It has been six months since I agreed to help my Court Calligrapher [From.GetTitledFirstName] with [From.GetHerHis] dream of creating a Golden Qur'an and I am starting to become suspicious. I have heard no word of progress, nor seen any sign of the Golden Qur'an or its design and I am starting to believe my Court Calligrapher might have deceived me for money!;;;;;;;;;;;;;x
-EVTDESC105069;The Golden Qur'an I promised [From.GetTitledFirstName] I would create for the money [From.GetSheHe] gave me to pay for the materials is of course a figment of imagination, a scheme to lure my liege of some money. Somehow [From.GetTitledFirstName] have found out about my scheme and I am being punished by...;;;;;;;;;;;;;x
-EVTDESC105075;The ghazal's poetic expression of both the pain of separation and the beauty of love in spite of that pain is the perfect poetic form for my next song!;;;;;;;;;;;;;x
-EVTDESC105076;My husband's Court Musician [From.GetTitledFirstName] has a wonderful voice and I could barely keep from blushing as I heard [From.GetHerHim] sing [From.GetHerHis] ghazal song about the pain of separation and the beauty of love in spite of that pain...;;;;;;;;;;;;;x
-EVTDESC105077;The Court Musician's words and [court_musician.GetHerHis] singing brought justice to the poetic form ghazal, a poetic expression of both the pain of separation and the beauty of love in spite of that pain.;;;;;;;;;;;;;x
-EVTDESC105078;As I sang my song, I started to feel true pain of separation from my love and still see the beauty of love. The ghazal was my masterpiece and as I let the last few notes die away I felt tears streaming down my face...;;;;;;;;;;;;;x
-EVTDESC105100;'Through my veins both love and blood flows\nMy beloved fills me as love empties me of myself...'\nAs I struggle with my poem I searched through the garden for an inspiration of some sort...;;;;;;;;;;;;;x
-EVTDESC105101;My husband's garden is an easy place to find inspiration within, and I was slowly walking through it when the Court Poet [From.GetTitledFirstName] startled me. [From.GetSheHeCap] asked my forgiveness and recited a poem [From.GetTitledFirstName] claimed to have gotten inspiration to when [From.GetSheHe] saw me walking.;;;;;;;;;;;;;x
-EVTDESC105102;The poem did not rhyme, why did it not rhyme? Shouldn't every poem rhyme? I was assured by the Court Poet that not all poetry rhymed and I did like the two first sentences:\n\n'Through my veins both love and blood flows\nMy beloved fills me as love empties me of myself...';;;;;;;;;;;;;x
-EVTDESC105103;My new poem was clearly appreciated, people were asking me to make copies of it or just hear me recite it for them. I tried to do this as inconspicuously as possible, I did not want any jealous wife or husbands try to harm me just for a sweet poems sake...;;;;;;;;;;;;;x
-EVTDESC105150;As the Cupbearer I shall serve drinks at the table, guard against poison in my [Root.Liege.GetTitle]'s cup and sometimes test the wine by tasting it to make sure no one has poisoned it. Too bad I do not like my liege and might accidentally serve bad wine...;;;;;;;;;;;;;x
-EVTDESC105151;My trustworthy Cupbearer [From.GetTitledFirstName] served the wine as always and even though it did taste a bit strange I did not reflect upon it until it was too late! The wine must have been poisoned, why else would I feel this way?;;;;;;;;;;;;;x
-EVTDESC105152;It seems my treason reached the wrong ears! The poison in the wine, why did I trust it to kill [From.GetTitledFirstName]? I should have done it with my own two hands!;;;;;;;;;;;;;x
-EVTDESC105200;I took a look at some of the architecture plans for the buildings being built in [Root.Liege.GetTitledFirstName]'s realm and what I saw chilled my blood. There were so many things that could be improved, so many small faults that could be solved if only [Root.Liege.GetTitledFirstName] would listen to me and provide the money necessary for these changes.;;;;;;;;;;;;;x
-EVTDESC105201;'You see, this small change might mean five years more without repairs, and this is just absurd, what were they thinking? Let me have the money needed to do these changes and I promise you...'\nThe Chief Architect pointed out several flaws and faults with the building plans and asked for money to prevent them.;;;;;;;;;;;;;x
-EVTDESC105202;I saw before me how the buildings would stand tall and beautiful, without the flaws I had found in the building plans. Before me stood the [From.GetManWoman] who held this in [From.GetHerHis] hand and I waited for [From.GetTitledFirstName] decision, eager to get out there and make the buildings flawless.;;;;;;;;;;;;;x
-EVTDESC105203;Another building collapsed today! I thought my Chief Architect [From.GetTitledFirstName] had found and corrected these flaws but it seems like [From.GetSheHe] squandered the money away. What should the punishment for this be?;;;;;;;;;;;;;x
-EVTDESC105204;I should have used the money for improvements! Another building collapsed today and [From.GetTitledFirstName] holds me responsible for it. I tremble at the mere thought of whatever punishment [From.GetTitledFirstName] see fit for my failure...;;;;;;;;;;;;;x
-EVTDESC105250;Being the Food Taster for [Root.Liege.GetTitledFirstName] can be a dangerous job. I am supposed to taste the food and drink to be served to [Root.Liege.GetHerHim] to make sure it is safe to eat, not poisonous or tastes strange. Lately, I have been secretly trying to become immune to different poisons for I am under the grip of the fear of death.;;;;;;;;;;;;;x
-EVTDESC105251;The food tasted a bit strange, something was hidden beneath the seasoning but I trusted Food Taster [From.GetTitledFirstName] would never serve me anything that might be poisoned. Oh, how I regretted that trust later that evening, when the stomach pains erupted...;;;;;;;;;;;;;x
-EVTDESC105253;My plan to become immune to poisons did not turn out so good, I missed the poisoned food intended for [From.GetTitledFirstName] and that is how I ended up in [From.GetTitledFirstName]'s dungeon...;;;;;;;;;;;;;x
-
-EVTOPTA105000;I have decided!;;;;;;;;;;;;;x
-EVTOPTA105001;If you have no regrets after a month, you may be divorced;;;;;;;;;;;;;x
-EVTOPTA105002;A month I must wait, then;;;;;;;;;;;;;x
-EVTOPTA105003;I must accept this marriage then;;;;;;;;;;;;;x
-EVTOPTA105004;Yes! I am no longer married to [Root.Spouse.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTOPTA105005;If that's what she wants...;;;;;;;;;;;;;x
-EVTOPTA105006;No, I don't want to be married to you, I want that divorce!;;;;;;;;;;;;;x
-EVTOPTA105007;But [From.GetTitledFirstName] did not change her mind;;;;;;;;;;;;;x
-EVTOPTA105010;I should suggest one of my courtiers!;;;;;;;;;;;;;x
-EVTOPTA105011;Yes, that courtier would be perfect;;;;;;;;;;;;;x
-EVTOPTA105012;Thank you, [FromFrom.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTOPTA105013;[Root.Liege.GetSheHeCap] accepted my candidate as Chief Qadi!;;;;;;;;;;;;;x
-EVTOPTA105014;I am the new Chief Qadi! Fear my justice!;;;;;;;;;;;;;x
-EVTOPTA105020;Even this courtier would be better as Chief Qadi!;;;;;;;;;;;;;x
-EVTOPTA105021;You are right, your courtier would be a better choice;;;;;;;;;;;;;x
-EVTOPTA105023;[From.GetTitledFirstName] is the new Chief Qadi! Praise Allah!;;;;;;;;;;;;;x
-EVTOPTA105025;May Allah destroy [FromFrom.GetTitledFirstName]'s house!;;;;;;;;;;;;;x
-EVTOPTA105030;Eighty lashes for that drunkard!;;;;;;;;;;;;;x
-EVTOPTA105031;The lashes made me cry out in pain...;;;;;;;;;;;;;x
-EVTOPTA105032;I promised but all I could think of was a can of wine to cure my headache;;;;;;;;;;;;;x
-EVTOPTA105035;The Chief Qadi would know what to do!;;;;;;;;;;;;;x
-EVTOPTA105036;Confront the accused one;;;;;;;;;;;;;x
-EVTOPTA105037;Try to bribe [From.GetTitledFirstName] to keep quiet;;;;;;;;;;;;;x
-EVTOPTA105038;You have no witnesses, only rumors and they are false!;;;;;;;;;;;;;x
-EVTOPTA105039;But then [From.GetTitledFirstName] told me [From.GetSheHe] wouldn't do something about it!;;;;;;;;;;;;;x
-EVTOPTA105041;I believe [From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTOPTA105042;I do not believe you but there's nothing I can do;;;;;;;;;;;;;x
-EVTOPTA105043;I... I don't know what to do...;;;;;;;;;;;;;x
-EVTOPTA105044;The hundred lashes only wounded me, not my soul nor my love!;;;;;;;;;;;;;x
-EVTOPTA105050;With the Court Calligrapher's help, the mosque should look wonderful!;;;;;;;;;;;;;x
-EVTOPTA105051;I would be more than honored to create designs for the decoration;;;;;;;;;;;;;x
-EVTOPTA105052;[From.GetSheHeCap] has outdone [From.GetHerselfHimself]! Bravo, [From.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTOPTA105053;'No' was the answer I got!;;;;;;;;;;;;;x
-EVTOPTA105054;[From.GetSheHeCap] loved it! Time to start working seriously on this!;;;;;;;;;;;;;x
-EVTOPTA105055;[From.GetTitledFirstName] was most pleased with the designs;;;;;;;;;;;;;x
-EVTOPTA105060;I should send the hilya to the [Root.Religion.GetName] Caliph!;;;;;;;;;;;;;x
-EVTOPTA105061;Beautiful! Many thanks to you, [From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTOPTA105065;Ask [Root.Liege.GetTitledFirstName] to pay for the 'whole book';;;;;;;;;;;;;x
-EVTOPTA105066;To pay for all the materials? Yes, of course!;;;;;;;;;;;;;x
-EVTOPTA105067;[From.GetTitledFirstName] agreed to pay for whatever I might need!;;;;;;;;;;;;;x
-EVTOPTA105068;Imprison Court Calligrapher [From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTOPTA105069;...being thrown into [From.GetHerHis] dungeons!;;;;;;;;;;;;;x
-EVTOPTA105075;I will dedicate this to [Root.Liege.Spouse.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTOPTA105076;Wonderful! Our court would be less beautiful without your voice;;;;;;;;;;;;;x
-EVTOPTA105077;Here, a small token of mine and [From.GetTitledFirstName]'s appreciation...;;;;;;;;;;;;;x
-EVTOPTA105078;[From.GetTitledFirstName] was as touched by the song as I were;;;;;;;;;;;;;x
-EVTOPTA105100;I find inspiration in [Root.Liege.GetTitledFirstName] and read her the poem;;;;;;;;;;;;;x
-EVTOPTA105101;Not exactly appropriate, but very sweet;;;;;;;;;;;;;x
-EVTOPTA105102;Good work my dear poet, good work!;;;;;;;;;;;;;x
-EVTOPTA105103;Seems as [From.GetTitledFirstName] liked it...;;;;;;;;;;;;;x
-EVTOPTA105150;Poison the wine [Root.Liege.GetTitledFirstName] will drink;;;;;;;;;;;;;x
-EVTOPTA105151;Imprison that [From.GetManWoman]! Obey my voice!;;;;;;;;;;;;;x
-EVTOPTA105152;At least the bastard is sick as a dog!;;;;;;;;;;;;;x
-EVTOPTA105200;[Root.Liege.GetTitledFirstName] must approve these changes!;;;;;;;;;;;;;x
-EVTOPTA105201;Whatever you need, just make these buildings sturdy!;;;;;;;;;;;;;x
-EVTOPTA105202;'No money for improvements', [From.GetTitledFirstName] said;;;;;;;;;;;;;x
-EVTOPTA105203;Imprison Chief Architect [From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTOPTA105204;Imprisonment!;;;;;;;;;;;;;x
-EVTOPTA105250;If [Root.Liege.GetTitledFirstName] would die because I am immune, even better!;;;;;;;;;;;;;x
-EVTOPTA105253;[From.GetTitledFirstName] became gravely ill by the poisoned food;;;;;;;;;;;;;x
-
-EVTOPTB105000;I cannot make this decision now...;;;;;;;;;;;;;x
-EVTOPTB105001;No, I cannot justify granting you a divorce;;;;;;;;;;;;;x
-EVTOPTB105002;Until this child is born, then;;;;;;;;;;;;;x
-EVTOPTB105004;During the iddah period I have changed my mind, I don't want a divorce;;;;;;;;;;;;;x
-EVTOPTB105005;NO! I won't allow it!;;;;;;;;;;;;;x
-EVTOPTB105006;Fine, but then things are going to have to change!;;;;;;;;;;;;;x
-EVTOPTB105007;[From.GetTitledFirstName] promised not to leave me!;;;;;;;;;;;;;x
-EVTOPTB105010;I would be the best candidate!;;;;;;;;;;;;;x
-EVTOPTB105011;No, he won't do;;;;;;;;;;;;;x
-EVTOPTB105013;[Root.Liege.GetTitledFirstName] dismissed my suggestion...;;;;;;;;;;;;;x
-EVTOPTB105014;[From.GetTitledFirstName] did not want me as Chief Qadi;;;;;;;;;;;;;x
-EVTOPTB105020;Why, even I would make a better Chief Qadi!;;;;;;;;;;;;;x
-EVTOPTB105021;I see no reason to dismiss the current Chief Qadi;;;;;;;;;;;;;x
-EVTOPTB105023;I was dismissed and told not to interfere in this matter again;;;;;;;;;;;;;x
-EVTOPTB105030;Show mercy and the drunkard may repent;;;;;;;;;;;;;x
-EVTOPTB105031;I will never drink again, may Allah be my witness!;;;;;;;;;;;;;x
-EVTOPTB105032;May Allah be my witness, I promise to never drink again!;;;;;;;;;;;;;x
-EVTOPTB105035;I should confront him myself, make him repent to Allah!;;;;;;;;;;;;;x
-EVTOPTB105036;If you care so much about this, why don't you confront him yourself?;;;;;;;;;;;;;x
-EVTOPTB105037;I promise I will never see her again!;;;;;;;;;;;;;x
-EVTOPTB105038;Promise to break it up with lover;;;;;;;;;;;;;x
-EVTOPTB105039;I am free to confront the accused, but without [From.GetTitledFirstName]'s assistance!;;;;;;;;;;;;;x
-EVTOPTB105041;I doubt [From.GetTitledFirstName] is sincere, but I can't do anything;;;;;;;;;;;;;x
-EVTOPTB105042;Your words are false, the punishment will be brought upon you;;;;;;;;;;;;;x
-EVTOPTB105043;Your punishment will be a hundred lashes!;;;;;;;;;;;;;x
-EVTOPTB105044;The merciful Chief Qadi [From.GetTitledFirstName] decided to spare me the punishment!;;;;;;;;;;;;;x
-EVTOPTB105050;I should not disturb the Court Calligrapher with such a petty task;;;;;;;;;;;;;x
-EVTOPTB105051;My work would only be spoiled in a mosque of such petty calibre;;;;;;;;;;;;;x
-EVTOPTB105052;The design looks as if a three-year-old has smeared ink over the pergament!;;;;;;;;;;;;;x
-EVTOPTB105054;[From.GetSheHeCap] thought the designs was terrible!;;;;;;;;;;;;;x
-EVTOPTB105055;[From.GetTitledFirstName] did not share my opinion...;;;;;;;;;;;;;x
-EVTOPTB105060;I should honor my liege [Root.Liege.GetTitledFirstName] and send [Root.Liege.GetHerHim] the hilya;;;;;;;;;;;;;x
-EVTOPTB105061;Accept this small token of my appreciation for the hilya;;;;;;;;;;;;;x
-EVTOPTB105065;Ask [Root.Liege.GetTitledFirstName] to pay for part of it;;;;;;;;;;;;;x
-EVTOPTB105066;To help pay for some of the materials? As long as that is all you need...;;;;;;;;;;;;;x
-EVTOPTB105067;My plan worked, [From.GetTitledFirstName] agreed to pay for some of the 'materials'!;;;;;;;;;;;;;x
-EVTOPTB105068;Banish Court Calligrapher [From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTOPTB105069;...banished from [From.GetHerHis] court!;;;;;;;;;;;;;x
-EVTOPTB105075;[Root.Liege.GetTitledFirstName] will be the first to hear it!;;;;;;;;;;;;;x
-EVTOPTB105076;It is not proper for a [court_musician.GetManWoman] to court a married woman!;;;;;;;;;;;;;x
-EVTOPTB105077;How dare you court my wife with this song!?;;;;;;;;;;;;;x
-EVTOPTB105078;Both [From.GetTitledFirstName] and [From.Spouse.GetTitledFirstName] appreciated my song;;;;;;;;;;;;;x
-EVTOPTB105100;The garden inspired me, present the poem to [Root.Liege.GetTitledFirstName];;;;;;;;;;;;;x
-EVTOPTB105101;Go away! What will my husband say?!;;;;;;;;;;;;;x
-EVTOPTB105102;Did you try to seduce my wife with this!? Imprison him!;;;;;;;;;;;;;x
-EVTOPTB105103;[From.GetTitledFirstName] even paid me for a copy!;;;;;;;;;;;;;x
-EVTOPTB105150;I dare not risk my position at [Root.Liege.GetTitledFirstName]'s court;;;;;;;;;;;;;x
-EVTOPTB105151;A night of stomach cramps convinced me of [From.GetTitledFirstName] guilt!;;;;;;;;;;;;;x
-EVTOPTB105152;[From.GetTitledFirstName] did not even get sick!;;;;;;;;;;;;;x
-EVTOPTB105200;I need more time, there's probably more flaws I can find...;;;;;;;;;;;;;x
-EVTOPTB105201;No, I don't want to waste money on this!;;;;;;;;;;;;;x
-EVTOPTB105202;I got the money but now I want to keep it!;;;;;;;;;;;;;x
-EVTOPTB105203;Banish Chief Architect [From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTOPTB105204;Banishment!;;;;;;;;;;;;;x
-EVTOPTB105250;It is my job to keep my liege safe, I shouldn't try to become immune to poisons!;;;;;;;;;;;;;x
-EVTOPTB105253;The poison did not even make [From.GetTitledFirstName] sick!;;;;;;;;;;;;;x
-
-EVTOPTC105002;I have changed my mind, I don't want the divorce!;;;;;;;;;;;;;x
-EVTOPTC105010;One of [Root.Liege.GetTitledFirstName]'s vassals would be most suitable;;;;;;;;;;;;;x
-EVTOPTC105011;Yes, [From.GetTitledFirstName], you would be a perfect Chief Qadi!;;;;;;;;;;;;;x
-EVTOPTC105020;I know a vassal of [Root.Liege.GetTitledFirstName] who would be better;;;;;;;;;;;;;x
-EVTOPTC105021;I agree, [target_suggested_qadi.GetFirstName] would make a better Chief Qadi;;;;;;;;;;;;;x
-EVTOPTC105030;Do nothing, the drunkard may drink himself to death;;;;;;;;;;;;;x
-EVTOPTC105031;The wine will take the pain away...;;;;;;;;;;;;;x
-EVTOPTC105035;It is not for me to judge others;;;;;;;;;;;;;x
-EVTOPTC105036;Don't come to me with rumors only!;;;;;;;;;;;;;x
-EVTOPTC105037;Our love is sacred, no matter what the Qur'an says!;;;;;;;;;;;;;x
-EVTOPTC105038;I don't deny it and I refuse to do anything about it!;;;;;;;;;;;;;x
-EVTOPTC105039;Chief Qadi [From.GetTitledFirstName] assured me the sinner would be punished;;;;;;;;;;;;;x
-EVTOPTC105041;I need no witnesses nor confessions, [From.GetTitledFirstName] will be punished!;;;;;;;;;;;;;x
-EVTOPTC105042;If you break your promise you will be doubly punished. Two hundred lashes!;;;;;;;;;;;;;x
-EVTOPTC105044;I will never see my lover again, but Chief Qadi [From.GetTitledFirstName] decided not to punish me!;;;;;;;;;;;;;x
-EVTOPTC105052;The designs are good, but [From.GetTitledFirstName] can do better;;;;;;;;;;;;;x
-EVTOPTC105054;[From.GetSheHeCap] chided me for not taking this seriously!;;;;;;;;;;;;;x
-EVTOPTC105055;[From.GetTitledFirstName] pointed out several flaws in the design, deeming it unworthy;;;;;;;;;;;;;x
-EVTOPTC105060;I shall sell this hilya and make a new one with the money;;;;;;;;;;;;;x
-EVTOPTC105061;Did I ask for this? I have hilyas much more intricate and beautiful than this!;;;;;;;;;;;;;x
-EVTOPTC105065;My dream will remain a dream...;;;;;;;;;;;;;x
-EVTOPTC105066;No, I won't help you. 'Golden Qur'an', absurd!;;;;;;;;;;;;;x
-EVTOPTC105067;[From.GetTitledFirstName] refused to pay for 'something so foolish!';;;;;;;;;;;;;x
-EVTOPTC105068;Make Court Calligrapher [From.GetTitledFirstName] pay;;;;;;;;;;;;;x
-EVTOPTC105069;...my wealth is taken from me!;;;;;;;;;;;;;x
-EVTOPTC105075;I need more time before I can master this form;;;;;;;;;;;;;x
-EVTOPTC105077;Play it just one more time, please?;;;;;;;;;;;;;x
-EVTOPTC105078;[From.GetTitledFirstName] did not appreciate me singing this song to his wife!;;;;;;;;;;;;;x
-EVTOPTC105100;No inspiration is to be had, the poem will remain unfinished...;;;;;;;;;;;;;x
-EVTOPTC105102;This is the most beautiful poem I ever heard!;;;;;;;;;;;;;x
-EVTOPTC105103;[From.GetTitledFirstName] did not appreciate me getting inspiration from [From.GetHerHis] wife...;;;;;;;;;;;;;x
-EVTOPTC105151;I am merciful when I imprison you, [From.GetTitledFirstName]! You should be dead!;;;;;;;;;;;;;x
-EVTOPTC105152;The poison made [From.GetHerHim] insane at least...;;;;;;;;;;;;;x
-EVTOPTC105202;I can do so much, save so many buildings from imperfections!;;;;;;;;;;;;;x
-EVTOPTC105203;Make Chief Architect [From.GetTitledFirstName] pay;;;;;;;;;;;;;x
-EVTOPTC105204;My wealth... forfeited!;;;;;;;;;;;;;x
-EVTOPTC105253;I fear the poison made [From.GetTitledFirstName] mad;;;;;;;;;;;;;x
-
-EVTOPTD105010;Surely [Root.Liege.GetTitledFirstName] already knows the best person for Chief Qadi;;;;;;;;;;;;;x
-EVTOPTD105011;No, I will not grant you the title of Chief Qadi;;;;;;;;;;;;;x
-EVTOPTD105020;Quench my anger and do nothing;;;;;;;;;;;;;x
-EVTOPTD105031;Wine will never again touch my tongue!;;;;;;;;;;;;;x
-EVTOPTD105044;The wounds from the hundred lashes healed more quickly than I could fathom;;;;;;;;;;;;;x
-EVTOPTD105052;The designs are awful, but I cannot tell [From.GetTitledFirstName] that!;;;;;;;;;;;;;x
-EVTOPTD105054;[From.GetSheHeCap] was happy with the designs;;;;;;;;;;;;;x
-EVTOPTD105055;[From.GetTitledFirstName] agreed with me and praised [FromFrom.GetTitledFirstName];;;;;;;;;;;;;x
-EVTOPTD105068;Forgive Court Calligrapher [From.GetTitledFirstName], it's only money!;;;;;;;;;;;;;x
-EVTOPTD105103;[From.GetTitledFirstName] was moved to tears by my poem;;;;;;;;;;;;;x
-EVTOPTD105151;For Cupbearer is death! I mean, kill [From.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTD105203;I'm sure [From.GetTitledFirstName] did [From.GetHerHis] best to stop it from happening;;;;;;;;;;;;;x
-EVTOPTD105251;For Foodtaster is death! I mean, kill [From.GetHerHim]!;;;;;;;;;;;;;x
-
-EVTOPTE105011;I agree, he would make an excellent Chief Qadi;;;;;;;;;;;;;x
-EVTOPTE105021;This vassal of mine would make a better Chief Qadi;;;;;;;;;;;;;x
-EVTOPTE105151;For your treason you will die!;;;;;;;;;;;;;x
-
-EVTOPTF105011;No, he will not become Chief Qadi;;;;;;;;;;;;;x
-EVTOPTF105151;I would kill you myself if I had the strength!;;;;;;;;;;;;;x
-
-EVTTOOLTIP105001;[Root.GetTitledFirstName] asks the Chief Qadi [This.GetTitledFirstName] for a divorce;;;;;;;;;;;;;x
-EVTTOOLTIP105002;[Root.GetTitledFirstName] grants [This.GetTitledFirstName] her desired divorce;;;;;;;;;;;;;x
-EVTTOOLTIP105003;[Root.GetTitledFirstName] denies [This.GetTitledFirstName] the divorce;;;;;;;;;;;;;x
-EVTTOOLTIP105006;[Root.GetTitledFirstName] tries to stop [This.GetTitledFirstName] from getting the divorce;;;;;;;;;;;;;x
-EVTTOOLTIP105011;[Root.GetTitledFirstName] suggests a suitable person for the post of Chief Qadi;;;;;;;;;;;;;x
-EVTTOOLTIP105012;[Root.GetTitledFirstName] accepts [This.GetTitledFirstName] as [Root.GetHerHis] new Chief Qadi;;;;;;;;;;;;;x
-EVTTOOLTIP105021;[Root.GetTitledFirstName] suggests a more suitable person for the post of Chief Qadi;;;;;;;;;;;;;x
-EVTTOOLTIP105022;The new Chief Qadi is [This.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP105023;[This.GetTitledFirstName] is disappointed [Root.GetTitledFirstName] did not follow [This.GetHerHis] recommendation for Chief Qadi;;;;;;;;;;;;;x
-EVTTOOLTIP105025;The former Chief Qadi, [This.GetTitledFirstName], is dismissed from the position;;;;;;;;;;;;;x
-EVTTOOLTIP105031;[This.GetTitledFirstName] is lashed eighty times by Chief Qadi [Root.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP105032;The drunkard [This.GetTitledFirstName] is saved from the eighty lashes by [Root.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP105036;The Chief Qadi [This.GetTitledFirstName] hears about the man having a lover and committing zina;;;;;;;;;;;;;x
-EVTTOOLTIP105037;[Root.GetTitledFirstName] confronts [This.GetTitledFirstName] about sinning and committing zina;;;;;;;;;;;;;x
-EVTTOOLTIP105038;[This.GetTitledFirstName] is accused of committing zina and confronted by Chief Qadi [Root.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP105039;Chief Qadi [Root.GetTitledFirstName] dismisses [This.GetTitledFirstName] accusations;;;;;;;;;;;;;x
-EVTTOOLTIP105042;[This.GetTitledFirstName] believes that when [This.GetSheHe] sees that it is true;;;;;;;;;;;;;x
-EVTTOOLTIP105043;[This.GetTitledFirstName] will find a proper punishment for [Root.GetTitledFirstName]'s sins;;;;;;;;;;;;;x
-EVTTOOLTIP105051;Court Calligrapher [This.GetTitledFirstName] is asked to create designs for the decoration of the new Mosque;;;;;;;;;;;;;x
-EVTTOOLTIP105076;Court Musician [Root.GetTitledFirstName]'s new song is dedicated to [Root.GetHerHis] liege's wife [Root.Liege.Spouse.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP105077;[Root.GetTitledFirstName]'s husband [This.GetTitledFirstName] hears about the Court Musician courting [Root.GetHerHis] wife;;;;;;;;;;;;;x
-EVTTOOLTIP105078;[Root.GetTitledFirstName]'s appreciation of [This.GetTitledFirstName]'s song gladdens [This.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP105079;Court Musician [This.GetTitledFirstName]'s song is appreciated by [Root.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP105101;Court Musician [Root.GetTitledFirstName] inspiration is awakened by [This.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP105103;[Root.GetTitledFirstName] has nothing but kind words for Court Poet [This.GetTitledFirstName]'s poetry;;;;;;;;;;;;;x
-EVTTOOLTIP105151;The poison was discovered before any damage was done;;;;;;;;;;;;;x
-EVTTOOLTIP105201;Chief Architect [Root.GetTitledFirstName]'s suggests several changes in the building plans for [This.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP105251;[Root.GetTitledFirstName] finds out about ;;;;;;;;;;;;;x
-
-EVTTOOLTIPA105007;[Root.GetTitledFirstName] will not change her mind about the divorce;;;;;;;;;;;;;x
-EVTTOOLTIPA105013;[Root.GetTitledFirstName] dismisses [This.GetTitledFirstName]'s candidate;;;;;;;;;;;;;x
-EVTTOOLTIPA105014;[This.GetTitledFirstName] is granted the title of Chief Qadi;;;;;;;;;;;;;x
-EVTTOOLTIPA105040;The money from [Root.GetTitledFirstName] quiets [This.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIPA105041;[This.GetTitledFirstName] is convinced of [Root.GetTitledFirstName] innocence;;;;;;;;;;;;;x
-EVTTOOLTIPA105044;[Root.GetTitledFirstName]'s belief that [This.GetTitledFirstName] is innocent gladdens [This.GetHerHis] heart;;;;;;;;;;;;;x
-EVTTOOLTIPA105052;The calligraphy Quranic verses is much appreciated by [This.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIPA105054;The work of Court Calligrapher [This.GetTitledFirstName] is praised by [Root.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIPA105055;The excellence of the Court Calligrapher reaches [This.GetTitledFirstName] ears;;;;;;;;;;;;;x
-EVTTOOLTIPA105061;The Caliph [This.GetTitledFirstName] is most pleased with the hilya;;;;;;;;;;;;;x
-EVTTOOLTIPA105066;The materials for the 'Golden Qur'an' might be paid for by [This.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIPA105067;[Root.GetTitledFirstName] will help [This.GetTitledFirstName] by paying for materials for the Golden Qur'an;;;;;;;;;;;;;x
-EVTTOOLTIPA105077;Court Musician [Root.GetTitledFirstName] sings [Root.GetHerHis] new song for [This.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIPA105102;Court Musician [Root.GetTitledFirstName] inspiration is awakened by [Root.GetHerHis] liege [This.GetTitledFirstName]'s garden;;;;;;;;;;;;;x
-EVTTOOLTIPA105152;Cupbearer [This.GetTitledFirstName] is imprisoned by the lunatic [Root.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIPA105202;Chief Architect [This.GetTitledFirstName] is given the money needed to correct flaws in the buildings;;;;;;;;;;;;;x
-EVTTOOLTIPA105253;Food Taster [This.GetTitledFirstName] is imprisoned by the lunatic [Root.GetTitledFirstName];;;;;;;;;;;;;x
-
-EVTTOOLTIPB105007;[Root.GetTitledFirstName] decides to stay with [This.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIPB105013;The new Chief Qadi, [Root.GetTitledFirstName], thanks [This.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIPB105014;[Root.GetTitledFirstName] refuses to make [This.GetTitledFirstName] Chief Qadi;;;;;;;;;;;;;x
-EVTTOOLTIPB105040;[Root.GetTitledFirstName]'s promise convinces [This.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIPB105041;[Root.GetTitledFirstName] denying the rumors being true only strengthens the Chief Qadi [This.GetTitledFirstName] suspicions;;;;;;;;;;;;;x
-EVTTOOLTIPB105044;Chief Qadi [Root.GetTitledFirstName] doubts [This.GetTitledFirstName] innocence but can do nothing;;;;;;;;;;;;;x
-EVTTOOLTIPB105052;Despite [Root.GetTitledFirstName] hard work with the calligraphy Quranic verses, the designs and effort is not appreciated by [This.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIPB105053;The Court Calligrapher [Root.GetTitledFirstName]'s refusal is most disappointing to [This.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIPB105054;[Root.GetTitledFirstName] tells the Court Calligrapher [This.GetTitledFirstName] how terrible the designs are;;;;;;;;;;;;;x
-EVTTOOLTIPB105055;The pitiful designs has even reached the eyes of [This.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIPB105061;[Root.GetTitledFirstName]'s liege [Root.Liege.GetTitledFirstName] is most pleased;;;;;;;;;;;;;x
-EVTTOOLTIPB105066;[Root.GetTitledFirstName] ask [This.GetTitledFirstName] to help pay for the materials for the 'Golden Qur'an';;;;;;;;;;;;;x
-EVTTOOLTIPB105067;[Root.GetTitledFirstName] refusal to help pay for the Golden Qur'an disappoints [This.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIPB105078;[Root.GetTitledFirstName] and [Root.Spouse.GetTitledFirstName] both appreciated Court Musician [This.GetTitledFirstName]'s song;;;;;;;;;;;;;x
-EVTTOOLTIPB105102;[Root.GetTitledFirstName] is mortified and tells [Root.GetHerHis] husband [This.GetTitledFirstName] about the Court Poet's poetry;;;;;;;;;;;;;x
-EVTTOOLTIPB105103;[Root.GetTitledFirstName] appreciated the poem, although it did not rhyme;;;;;;;;;;;;;x
-EVTTOOLTIPB105152;The poison caused nothing more than stomach cramps, Cupbearer [This.GetTitledFirstName] is imprisoned;;;;;;;;;;;;;x
-EVTTOOLTIPB105202;[Root.GetTitledFirstName] has no desire to waste money on the buildings;;;;;;;;;;;;;x
-EVTTOOLTIPB105253;The poison caused nothing more than stomach cramps, Food Taster [This.GetTitledFirstName] is imprisoned;;;;;;;;;;;;;x
-
-EVTTOOLTIPC105040;[This.GetTitledFirstName] might go to the Chief Qadi with the matter;;;;;;;;;;;;;x
-EVTTOOLTIPC105044;The punishment for committing zina is stoning, but the Chief Qadi is satisfied with one hundred lashes;;;;;;;;;;;;;x
-EVTTOOLTIPC105078;Court Musician [This.GetTitledFirstName] is imprisoned for courting [Root.Spouse.GetTitledFirstName] with a song;;;;;;;;;;;;;x
-EVTTOOLTIPC105103;[Root.GetTitledFirstName] imprisons Court Poet [This.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIPC105152;[Root.GetTitledFirstName]'s imprisons Cupbearer [This.GetTitledFirstName] but would rather see [This.GetHerHim] dead;;;;;;;;;;;;;x
-EVTTOOLTIPC105253;[Root.GetTitledFirstName]'s imprisons Food Taster [This.GetTitledFirstName] but would rather see [This.GetHerHim] dead;;;;;;;;;;;;;x
-
-EVTTOOLTIPD105044;The merciful Chief Qadi [Root.GetTitledFirstName] decides to trust [This.GetTitledFirstName]'s word;;;;;;;;;;;;;x
-
-EVTTOOLTIPE105044;The Chief Qadi does not know what to do, [This.GetTitledFirstName] escapes punishment;;;;;;;;;;;;;x
-
-EVTOPTA105040;My greed got the better of me and I promised to say nothing to no one;;;;;;;;;;;;;x
-EVTOPTB105040;I will tell Chief Qadi about this!;;;;;;;;;;;;;x
-EVTOPTC105040;[From.GetTitledFirstName] ignored my threat! I will tell the Chief Qadi!;;;;;;;;;;;;;x
-EVTOPTD105040;The Chief Qadi would not believe me anyway;;;;;;;;;;;;;x
-EVTOPTE105040;[From.GetTitledFirstName] promised to never see the woman again, but I will still tell the Chief Qadi;;;;;;;;;;;;;x
-EVTOPTF105040;[From.GetTitledFirstName] promise to never see the woman again is enough for me;;;;;;;;;;;;;x
+EVTDESC105000;It is a dire decision, to ask the Chief Qadi to grant me divorce from my husband [Root.Spouse.GetTitledFirstName]. I must be certain this is what I want before I make this decision...;;;;;;;;;;;Ýòî òÿæ¸ëîå ðåøåíèå, ïðîñèòü ãëàâíîãî Êàäèÿ äàòü ìíå ðàçâîä ñ ìîèì ìóæåì [Root.Spouse.GetTitledFirstName]. Ìíå íóæíî óáåäèòüñÿ, ÷òî ÿ äåéñòâèòåëüíî ýòîãî õî÷ó, ïðåæäå ÷åì ïðèíÿòü ðåøåíèå...;;x
+EVTDESC105001;[From.GetTitledFirstName] came to me to ask to be granted a divorce from her husband [From.Spouse.GetTitledFirstName]. I reminded [From.GetTitledFirstName] about the iddah period, the month she would have to wait before the divorce came through, and asked if her husband [From.Spouse.GetTitledFirstName] would demand compensation and the return of the mahr, the wedding gift her husband gave her when they married.;;;;;;;;;;;[From.GetTitledFirstName] ïðèøëà êî ìíå ñ ïðîñüáîé î ðàçâîäå. ß íàïîìíèë åé ïðî ïåðèîä Èääû è ïðî ìåñÿö, êîòîðûé äîëæåí ïðîéòè, ÷òîáû ðàçâîä ïîäòâåðäèëñÿ. Òàêæå ïðèøëîñü óòî÷íèòü, íå ïðîñèò ëè å¸ ìóæ êîìïåíñàöèþ è âîçâðàùåíèå ìàõðà, ñâàäåáíîãî ïîäàðêà æåíèõà íåâåñòå.;;x
+EVTDESC105002;The Chief Qadi [From.GetTitledFirstName] asked me what if my husband [Root.Spouse.GetTitledFirstName] demanded compensation and the return of my mahr, the gift he gave me at the wedding and told me what would happen to any child of our union. [From.GetSheHeCap] also told me I must wait a month, the iddah period, before I could be divorced or, if I was pregnant, until the child was born.;;;;;;;;;;;Ãëàâíûé Êàäèé [From.GetTitledFirstName] ñïðîñèë ìåíÿ, ÷òî áóäåò, åñëè ìîé ìóæ [Root.Spouse.GetTitledFirstName] ïîòðåáóåò êîìïåíñàöèþ è âîçâðàùåíèå ìîåãî ìàõðà, ïîäàðêà îò íåãî ìíå íà ñâàäüáó, åù¸ îí ðàññêàçàë, ÷òî ñëó÷èòüñÿ ñî âñåìè äåòüìè îò íàøåãî ñîþçà. Îí òàêæå ñêàçàë, ÷òî ÿ äîëæíà æäàòü ìåñÿö, ïåðèîä Èääû, ïðåæäå ÷åì ÿ ñìîãó ðàçâåñòèñü, èëè, åñëè ÿ áåðåìåííà, òî ïîêà ðåá¸íîê íå ðîäèòñÿ.;;x
+EVTDESC105003;The Chief Qadi [From.GetTitledFirstName] did not grant me a divorce and told me that from what I told [From.GetHerHim] [From.GetSheHe] saw no reason to grant me a divorce from [Root.Spouse.GetTitledFirstName].;;;;;;;;;;;Ãëàâíûé Êàäèé [From.GetTitledFirstName] íå äàðîâàë ìíå ðàçâîä è ñêàçàë, ÷òî íå âèäèò ïîâîäîâ äëÿ ìîåãî ðàçâîäà ñ ìóæåì ([Root.Spouse.GetTitledFirstName]) èç òîãî, ÷òî ÿ ñêàçàëà.;;x
+EVTDESC105004;The iddah period has gone and if I am truly certain I want a divorce from [Root.Spouse.GetTitledFirstName] I will have it.;;;;;;;;;;;Ïåðèîä Èääû ïðîø¸ë è, åñëè ìíå äåéñòâèòåëüíî õî÷åòñÿ ðàçâåñòèñü ñ ìóæåì ([Root.Spouse.GetTitledFirstName]), òî ÿ ñäåëàþ ýòî.;;x
+EVTDESC105005;My wife [Root.Spouse.GetTitledFirstName] has gone to Chief Qadi [From.GetTitledFirstName] and asked for a divorce! If she still wants it after the iddah period, a month, then our marriage will be no more...;;;;;;;;;;;Ìîÿ æåíà [Root.Spouse.GetTitledFirstName] ïîøëà ê Ãëàâíîìó Êàäèþ ([From.GetTitledFirstName]) è ïîïðîñèëà î ðàçâîäå! Åñëè îíà âñ¸ åù¸ áóäåò õîòåòü ýòîãî ïîñëå ïåðèîäà Èääû, êîòîðûé äëèòñÿ ìåñÿö, òî íàøåãî áðàêà áîëüøå íå áóäåò...;;x
+EVTDESC105006;I was on my way home, thinking of ways to tell my husband [From.GetTitledFirstName] that I had asked the Chief Qadi for a divorce, when [From.GetTitledFirstName] caught up with me and asked me why I wanted a divorce! I told [From.GetTitledFirstName] my reasons and [From.GetSheHe] pleaded that I should reconsider, told me he did not want me to divorce [From.GetHerHim]...;;;;;;;;;;;ß áûëà íà ïóòè äîìîé, äóìàÿ î òîì, êàê ñîîáùèòü ìîåìó ìóæó î òîì, ÷òî ÿ ïîïðîñèëà ðàçâîä ó Ãëàâíîãî Êàäèÿ, êîãäà [From.GetTitledFirstName] äîãíàë ìåíÿ è ñïðîñèë, ïî÷åìó ÿ çàõîòåëà ðàçâîäà! ß âûñêàçàëà åìó ñâîè ïðè÷èíû è îí çàÿâèë, ÷òî ÿ äîëæíà ïåðåäóìàòü, ñêàçàë ìíå, ÷òî íå õî÷åò, ÷òîáû ÿ ñ íèì ðàçâîäèëàñü...;;x
+EVTDESC105007;I pleaded with [From.GetTitledFirstName], promised her all she would want if only she wouldn't leave me! She told me about her reasons and I told her I would change, that I would do anything, anything!;;;;;;;;;;;[From.GetTitledFirstName] è ÿ ïîãîâîðèëè, ÿ îáåùàë åé âñ¸ ÷òî óãîäíî, åñëè îíà íå îñòàâèò ìåíÿ! Îíà ðàññêàçàëà ìíå î ñâîèõ ìîòèâàõ, à ÿ ñêàçàë åé, ÷òî âñ¸ èçìåíþ è ñäåëàþ âñ¸, ÷òî òðåáóåòñÿ!;;x
+EVTDESC105010;I grow more worried for every day no Chief Qadi has been selected. It is as if [Root.Liege.GetTitledFirstName] does not care if just judgement is brought to those who deserve it!;;;;;;;;;;;Ñ êàæäûì äí¸ì ÿ âñ¸ áîëüøå âîëíóþñü, ÷òî Ãëàâíûé Êàäèé íå âûáðàí. [Root.Liege.GetTitledFirstName] áóäòî íå çàáîòèòüñÿ î òîì, íàñòèãíåò ëè ïðàâîñóäèå òåõ, êòî ýòîãî çàñëóæèâàåò!;;x
+EVTDESC105011;[From.GetTitledFirstName] worries that the people of my realm lacks just judgement when I still haven't chosen a Chief Qadi to take care of all legal matters. To ease [From.GetHerHis] worry, [From.GetTitledFirstName] came to me and suggested someone who [From.GetSheHe] believe would make an excellent Chief Qadi.;;;;;;;;;;;[From.GetTitledFirstName] âîëíóåòñÿ î òîì, ÷òî ëþäè â ìî¸ì ãîñóäàðñòâå íóæäàþòñÿ â ïðàâîñóäèè, òîãäà êàê ÿ åù¸ íå âûáðàë[Root.GetEndA] Ãëàâíîãî Êàäèÿ äëÿ çàáîòû î âñåõ ïðàâîâûõ âîïðîñàõ. Äëÿ òîãî, ÷òîáû îáëåã÷èòü [From.GetHersHis] áåñïîêîéñòâî, [From.GetTitledFirstName] ïîäîø[From.GetLaYol] êî ìíå è ïðåäëîæèë[From.GetEndA] òîãî, êòî ìîã áû ñòàòü ïðåâîñõîäíûì Ãëàâíûì Êàäèåì.;;x
+EVTDESC105012;I had no idea [FromFrom.GetTitledFirstName] would suggest me as [From.GetTitledFirstName]'s new Chief Qadi! The letter congratulating me to my new position and the order to appear before [From.GetTitledFirstName] as soon as possible was bewildering, I almost did not believe it at first.;;;;;;;;;;;ß ïîíÿòèÿ íå èìåë, ÷òî [FromFrom.GetTitledFirstName] ïðåäëîæèë ìåíÿ íà ïîñò íîâîãî Ãëàâíîãî Êàäèÿ ïðè äâîðå ïðàâèòåëÿ ([From.GetTitledFirstName])! Ïèñüìî, ïîçäðàâëÿþùåå ìåíÿ ñ ìîåé íîâîé äîëæíîñòüþ, è ïðèêàç ÿâèòñÿ êî äâîðó êàê ìîæíî áûñòðåå áûëè âíåçàïíûìè, ñíà÷àëà ÿ ïî÷òè íå âåðèë â ýòî.;;x
+EVTDESC105013;I suggested that [target_suggested_qadi.GetTitledFirstName] would be [Root.Liege.GetTitledFirstName]'s new Chief Qadi and waited with bated breath as [Root.Liege.GetTitledFirstName] pondered this.;;;;;;;;;;;ß ïðåäëîæèë[Root.GetEndA], ÷òîáû [target_suggested_qadi.GetTitledFirstName] ñòàë íîâûì Ãëàâíûì Êàäèåì è çàòàèâ äûõàíèå æäàë[Root.GetEndA], ïîêà [Root.Liege.GetTitledFirstName] îáäóìûâàë ýòî.;;x
+EVTDESC105014;It felt preposterous, almost insulting, to suggest myself as the new Chief Qadi for [From.GetTitledFirstName] but there were no better candidate I could have thought of than myself.;;;;;;;;;;;Ýòî áûëî àáñóðäíî, ïî÷òè îñêîðáèòåëüíî, ïðåäëîæèòü ñåáÿ â êà÷åñòâå íîâîãî Ãëàâíîãî Êàäèÿ ïðè äâîðå ïðàâèòåëÿ ([From.GetTitledFirstName]), íî ÿ íå ìîã[Root.GetNoneE] ïðèäóìàòü ëó÷øåé êàíäèäàòóðû, ÷åì ÿ ñàì[Root.GetEndA].;;x
+EVTDESC105020;[Root.Liege.GetTitledFirstName]'s choice for the Chief Qadi position is disastrous! The [old_qadi.GetManWoman]'s judgement is severely distorted and there will be no justice as long as [old_qadi.GetSheHe] holds the post!;;;;;;;;;;;[Root.Liege.GetTitledFirstName] âûáèðàåò íà ïîñò Ãëàâíîãî Êàäèÿ êðàéíå íåóäà÷íîãî êàíäèäàòà! Ïðåäñòàâëåíèÿ î ïðàâîñóäèè ó ýòîãî ÷åëîâåêà ñåðü¸çíî èñêàæåíû, íå áóäåò íèêàêîé ñïðàâåäëèâîñòè, ïîêà îí çàíèìàåò ýòîò ïîñò!;;x
+EVTDESC105021;Fuming with anger at what [From.GetTitledFirstName] called 'another disastrous judgement of your Chief Qadi!', [From.GetTitledFirstName] suggested I would choose another person for the very important position as Chief Qadi.;;;;;;;;;;;"ß âíå ñåáÿ îò ãíåâà íà òî, ÷òî [From.GetTitledFirstName] íàçûâàåò ""åù¸ îäèí ãóáèòåëüíûé ïðèìåð ïðàâîñóäèÿ Âàøåãî Ãëàâíîãî Êàäèÿ!"". [From.GetTitledFirstName] ïðåäëàãàåò, ÷òîáû íà î÷åíü âàæíûé ïîñò Ãëàâíîãî Êàäèÿ áûë íàçíà÷åí äðóãîé ÷åëîâåê.";;x
+EVTDESC105023;The current Chief Qadi is such a disastrous choice, with [old_qadi.GetHerHis] arbitrary judgements and insufficient knowledge of the laws, that I had to suggest a new candidate for this position. [From.GetTitledFirstName] would make a much better Chief Qadi and so I told [Root.Liege.GetTitledFirstName] and waited with bated breath as [Root.Liege.GetTitledFirstName] pondered this.;;;;;;;;;;;Íûíåøíèé Ãëàâíûé Êàäèé - óæàñíûé âûáîð íà ýòîò ïîñò, åãî äåñïîòè÷íîå ïðàâîñóäèå è íåäîñòàòî÷íîå çíàíèå çàêîíîâ âûíóæäàþò ìåíÿ ïðåäëîæèòü íîâîãî êàíäèäàòà íà ýòó äîëæíîñòü. [From.GetTitledFirstName] áûë áû íàìíîãî ëó÷øèì Ãëàâíûì Êàäèåì. [Root.Liege.GetTitledFirstName] è ÿ îáñóäèëè ýòî, òåïåðü ÿ æäó, çàòàèâ äûõàíèå, ïîêà [Root.Liege.GetTitledFirstName] îáäóìûâàåò ýòî.;;x
+EVTDESC105024;I inadvertently insulted the old Chief Qadi when I suggested that I would make better judgements than [old_qadi.GetHerHim] and knew the laws much better than [old_qadi.GetHerHim], but I saw no other way to get rid of [old_qadi.GetHerHim]. After all, it was [From.GetTitledFirstName] who would judge if I was a better person for the position than the hopefully soon former Chief Qadi.;;;;;;;;;;;ß íå÷àÿííî îñêîðáèë ñòàðîãî Ãëàâíîãî Êàäèÿ, êîãäà ïðåäïîëîæèë, ÷òî ìîè ñóäåáíûå ðåøåíèÿ áûëè áû ëó÷øèìè, ÷åì åãî è ÷òî ÿ çíàþ çàêîíû ëó÷øå íåãî, íî ÿ íå âèäåë äðóãîãî ñïîñîáà èçáàâèòüñÿ îò íåãî. Â êîíöå êîíöîâ, [From.GetTitledFirstName] áóäåò ðåøàòü, ïîäõîæó ëè ÿ ëó÷øå íà ýòó äîëæíîñòü ÷åì, ÿ íàäåþñü, âñêîðå óæå áûâøèé Ãëàâíûé Êàäèé.;;x
+EVTDESC105025;May [FromFrom.GetTitledFirstName] be hit with sixty shoes! That son of a dog coaxed [From.GetTitledFirstName] into revoking my title as Chief Qadi!;;;;;;;;;;;Áóäü òû ïðîêëÿò, [FromFrom.GetTitledFirstName]! [From.GetTitledFirstName] îòîçâàë ìîé òèòóë Ãëàâíîãî Êàäèÿ ïî íàóùåíèþ ýòîãî ï¸ñüåãî ñûíà! ;;x
+EVTDESC105030;The Qur'an says: 'O you who believe! Intoxicants and games of chance and sacrificing to stones set up and dividing by arrows are only an uncleanness, the Shaitan's work, shun it therefore that you may be successful.' It is said that those who indulge in wine and other intoxicants will be punished by eighty lashes so they may know the wrongness of their path.;;;;;;;;;;;"Êîðàí ãîâîðèò: ""Î òå, êîòîðûå óâåðîâàëè! Âîèñòèíó, îïüÿíÿþùèå íàïèòêè, àçàðòíûå èãðû, èäîëû è ãàäàëüíûå ñòðåëû ÿâëÿþòñÿ ñêâåðíîé èç äåÿíèé ñàòàíû. Ñòîðîíèòåñü æå å¸, – áûòü ìîæåò, âû ïðåóñïååòå."" Ýòî çíà÷èò, ÷òî òå êòî ïðåäà¸òñÿ ïüÿíñòâó èëè äðóãèì ãðåõàì áóäóò íàêàçàíû âîñåìüþäåñÿòüþ óäàðàìè ïëåòåé, äàáû îíè ïîçíàëè îøèáî÷íîñòü ñâîåãî ïóòè.";;x
+EVTDESC105031;I stumbled drunkenly into Chief Qadi [From.GetTitledFirstName] who smelled the wine I had drunk on my breath and ordered my arrest. The next day I got my punishment: eighty lashes!;;;;;;;;;;;Ãëàâíûé Êàäèé [From.GetTitledFirstName] ó÷óÿë çàïàõ âûïèòîãî âèíà â ìî¸ì äûõàíèè è ïðèêàçàë àðåñòîâàòü ìåíÿ, êîãäà ÿ ñëó÷àéíî íàòêíóëñÿ íà íåãî ïüÿíûì. Íà ñëåäóþùèé äåíü ÿ ïîëó÷èë ñâî¸ íàêàçàíèå: âîñåìüäåñÿò ïëåòåé!;;x
+EVTDESC105032;The wine was aplenty and when I left my company I was more than unsteady on my feet. I must have drunk enough to become unconscious, for when I woke up it was in Chief Qadi [From.GetTitledFirstName]'s room, who told me that if I donated a small sum of money to charity and promised to never drink again [From.GetSheHe] would let me go without punishment.;;;;;;;;;;;Âèíà áûëî â èçáûòêå è, êîãäà ÿ ïîêèíóë êîìïàíèþ, òî óæå ñòîÿë íà íîãàõ áîëåå ÷åì íåóâåðåííî. ß äîëæíî áûòü âûïèë äîñòàòî÷íî, ÷òîáû ïîòåðÿòü êîíòðîëü, ïîòîìó ÷òî êîãäà î÷íóëñÿ, òî Ãëàâíûé Êàäèé [From.GetTitledFirstName] ñòîÿë ðÿäîì è ãîâîðèë ìíå, ÷òî åñëè ÿ ïîæåðòâóþ íåáîëüøóþ ñóììó äåíåã íà áëàãîòâîðèòåëüíîñòü è äàì ñëîâî áîëüøå íèêîãäà íå ïèòü, òî [From.GetSheHe] îòïóñòèò ìåíÿ áåç íàêàçàíèÿ.;;x
+EVTDESC105035;There have been rumors circling the court that a vassal of [Root.Liege.GetTitledFirstName] is sleeping with a woman other than his wives. The man cannot be a true Muslim if he has committed zina!;;;;;;;;;;;Ïðè äâîðå êðóæàò ñëóõè, ÷òî âàññàë [Root.Liege.GetTitledFirstName] ñïèò ñ æåíùèíîé, íå ÿâëÿþùåéñÿ íè îäíîé èç åãî æ¸í. ×åëîâåê, ñîâåðøèâøèé çèíà, íå ìîæåò ñ÷èòàòüñÿ èñòèííûì ìóñóëüìàíèíîì!;;x
+EVTDESC105036;To accuse someone of committing zina, having sexual intercourse with another man or woman other than your spouse, is something no one should take lightly. [From.GetTitledFirstName] told me of the rumors circling the court of [From.GetHerHis] liege [From.Liege.GetTitledFirstName] about a vassal being more than friendly with a woman...;;;;;;;;;;;Îáâèíåíèå êîãî-ëèáî â ñîâåðøåíèè çèíà, ïëîòñêîé ñâÿçè ñ ìóæ÷èíîé èëè æåíùèíîé âíå áðàêà, äîëæíî âîñïðèíèìàòüñÿ âñåðü¸ç. [From.GetTitledFirstName] ðàññêàçàë ìíå î ñëóõàõ, êðóæàùèõñÿ ïðè äâîðå [From.GetHersHis] âàññàëà. [From.Liege.GetTitledFirstName] èìååò áîëåå ÷åì äðóæåñêèå îòíîøåíèÿ ñ æåíùèíîé...;;x
+EVTDESC105037;The days with my lover have been the most joyful days of my life but [From.GetTitledFirstName] threatening to bring the whole affair to the Chief Qadi made those few days feel petty and the joy I had felt bedraggled. Committing zina is a sin but I couldn't resist her...;;;;;;;;;;;Äíè ïðîâåä¸ííûå ñ ëþáîâíèöåé áûëè ñàìûìè ñ÷àñòëèâûìè â ìîåé æèçíè, íî [From.GetTitledFirstName] óãðîæàåò ðàññêàçàòü îáî âñ¸ì Ãëàâíîìó Êàäèþ. Âñ¸ ýòî îìðà÷àåò ìîþ ðàäîñòü è îòîäâèãàåò òå ñ÷àñòëèâûå äíè íà âòîðîé ïëàí. Ñîâåðøåíèå çèíà - ýòî ãðåõ, íî ÿ íå ñìîã óñòîÿòü...;;x
+EVTDESC105038;Chief Qadi [From.GetTitledFirstName] lectured me on the sin of committing zina, but all I could think of was my dear love, waiting for me in our own little hideout.;;;;;;;;;;;Ãëàâíûé Êàäèé [From.GetTitledFirstName] îò÷èòàë ìåíÿ çà ãðåõ ñîâåðøåíèÿ çèíà, íî ÿ ìîã äóìàòü òîëüêî î ñâîåé âîçëþáëåííîé, æäóùåé ìåíÿ â íàøåì ìàëåíüêîì óáåæèùå.;;x
+EVTDESC105039;The silence following my accusations, that a vassal of [Root.Liege.GetTitledFirstName] was committing zina, was deafening. Chief Qadi [From.GetTitledFirstName] asked me several questions about the accusations, the rumors I've heard and what I thought about the matter, which was rather flattering.;;;;;;;;;;;Òèøèíà, ïîñëåäîâàâøàÿ çà ìîèìè îáâèíåíèÿìè â òîì, ÷òî îäèí èç âàññàëîâ ìîåãî ñþçåðåíà ñîâåðøèë çèíà, áûëà îãëóøèòåëüíîé. Ãëàâíûé Êàäèé, [From.GetTitledFirstName], çàäàë ìíå íåñêîëüêî âîïðîñîâ îá îáâèíåíèè, ñëûøàííûõ ìíîþ ñëóõàõ è î òîì, ÷òî ÿ äóìàþ îá ýòîì. Âñ¸ ýòî áûëî äîâîëüíî ëåñòíî.;;x
+EVTDESC105040;I hadn't really expected [From.GetTitledFirstName] to react to my accusations about [From.GetHerHim] committing zina and me threatening to go to the Chief Qadi with the matter in exactly that way...;;;;;;;;;;;ß äåéñòâèòåëüíî íå îæèäàë, ÷òî [From.GetTitledFirstName] îòðåàãèðóåò íà ìîè óãðîçû îáðàòèòüñÿ ê Ãëàâíîìó Êàäèþ ïî ïîâîäó çèíà èìåííî òàêèì îáðàçîì...;;x
+EVTDESC105041;I confronted [From.GetTitledFirstName] with [FromFrom.GetTitledFirstName]'s accusations about [From.GetHerHim] committing zina and the rumors [FromFrom.GetTitledFirstName] based this upon. [From.GetTitledFirstName] denied everything and assured me [From.GetSheHe] is a pious Muslim who would never do anything to affront Allah.;;;;;;;;;;;ß äîïðàøèâàþ [From.GetTitledFirstName] â ñâÿçè ñ îáâèíåíèåì â ñîâåðøåíèè çèíà, êîòîðîå âûäâèãàåò [FromFrom.GetTitledFirstName], è îñíîâàííûìè íà ýòîì ñëóõàìè. [From.GetTitledFirstName] âñ¸ îòðèöàåò è óâåðÿåò ìåíÿ, ÷òî [From.GetSheHe] ÿâëÿåòñÿ áëàãî÷åñòèâûì ìóñóëüìàíèíîì, êîòîðûé íèêîãäà íå ñäåëàåò íè÷åãî, ÷òî îñêîðáèëî áû Àëëàõà.;;x
+EVTDESC105042;[FromFrom.GetTitledFirstName]'s accusations of [From.GetTitledFirstName] committing zina is not something to take lightly, so when I confronted [From.GetTitledFirstName] and [From.GetSheHe] confessed and confessed four times, then promised to never see [From.GetHerHis] lover ever again I stood at a loss. Should I punish [From.GetTitledFirstName] for committing zina or should I be merciful if [From.GetSheHe] stood by [From.GetHerHis] word?;;;;;;;;;;;[FromFrom.GetTitledFirstName] âûäâèãàåò îáâèíåíèå â òîì, ÷òî [From.GetTitledFirstName] ñîâåðøèë çèíà, ïîýòîìó, êîãäà ÿ äîïðàøèâàþ [From.GetHersHis] è [From.GetSheHe] êëÿí¸òñÿ ìíå èìåíåì Àëëàõà ÷åòûðå ðàçà î òîì, ÷òî [From.GetSheHe] íèêîãäà áîëüøå íå óâèäèòñÿ ñ [From.GetHersHis] ëþáîâíèöåé, ÿ îñòàþñü â ðàñòåðÿííîñòè. Äîëæåí ëè [From.GetTitledFirstName] ïîíåñòè íàêàçàíèå çà ñîâåðøåíèå çèíà èëè ìíå íóæíî ïîñòóïèòü ìèëîñåðäíî, åñëè [From.GetSheHe] äà¸ò ñëîâî?;;x
+EVTDESC105043;I had thought [From.GetTitledFirstName] would've shown some embarrassment, some remorse for committing zina, a crime declared punishable by stoning or a hundred lashes by the Qur'an and the Prophet himself! Instead, [From.GetTitledFirstName] did not deny anything and told me the love [From.GetSheHe] felt for [From.GetHerHis] lover was sacred!;;;;;;;;;;;ß äóìàë î òîì, ÷òî [From.GetTitledFirstName] äîëæåí óçíàòü îá óãðûçåíèÿõ ñîâåñòè çà ñîâåðøåíèå çèíà, ïðåñòóïëåíèå êàðàåòñÿ çàáðàñûâàíèåì êàìíÿìè èëè ñòà óäàðàìè ïëåòüþ, òàê çàÿâèë Êîðàí è ñàì Ïðîðîê! Âìåñòî ýòîãî, [From.GetTitledFirstName] íå îòðèöàåò íè÷åãî, è ãîâîðèò ìíå, ÷òî ëþáîâü, êîòîðóþ [From.GetSheHe] èñïûòûâàåò ê ëþáîâíèêó, ñâÿòàÿ!;;x
+EVTDESC105044;Committing zina is a crime according to the Qur'an and the Prophet, may peace be upon him, and the punishment is stoning or a hundred lashes. Regardless of what I told Chief Qadi [From.GetTitledFirstName], I still felt afraid as [From.GetSheHe] pondered my case.;;;;;;;;;;;Ñîâåðøåíèå çèíà ÿâëÿåòñÿ ïðåñòóïëåíèåì â ñîîòâåòñòâèè ñ Êîðàíîì è Ïðîðîêîì, äà áëàãîñëîâèò åãî Àëëàõ, è ïîñëåäóåò ñïðàâåäëèâîå íàêàçàíèå â âèäå çàáðàñûâàíèÿ êàìíÿìè èëè ñòî óäàðîâ ïëåòüþ. Íåçàâèñèìî îò òîãî, ÷òî ÿ ñêàçàë, âåðõîâíûé êàäè [From.GetTitledFirstName] âñå çíàåò, è ÿ âñå åù¸ áîÿëñÿ, êàê [From.GetSheHe] îöåíèò ìîé ïîñòóïîê.;;x
+EVTDESC105050;I wish to decorate the new mosque with abstract arabesque motifs such as quotes from the Qur'an and intricate calligraphy is something my liege's new Court Calligrapher should be more than able to do.;;;;;;;;;;;ß õî÷ó óêðàñèòü íîâóþ ìå÷åòü ìîòèâàìè èç àáñòðàêòíîé àðàáåñêè, òàêèìè êàê öèòàòû èç Êîðàíà, à ñëîæíàÿ êàëëèãðàôèÿ ýòî òî, ñ ÷åì íîâûé Ïðèäâîðíûé Êàëëèãðàô ìîåãî ñþçåðåíà áîëåå ÷åì â ñîñòîÿíèè ñïðàâèòüñÿ.;;x
+EVTDESC105051;A message from [From.GetTitledFirstName] has arrived, with a most respectful tone to it and a humble request for calligraphy of Quranic verses for the decoration of a newly erected mosque.;;;;;;;;;;;Ïðèøëî ïèñüìî, àâòîðîì êîòîðîãî ÿâëÿåòñÿ [From.GetTitledFirstName], ãäå ñàìûì ïî÷òèòåëüíûì òîíîì âûðàæàåòñÿ ñêðîìíàÿ ïðîñüáà çàíÿòüñÿ êàëëèãðàôèåé êîðàíè÷åñêèõ ñòèõîâ äëÿ îôîðìëåíèÿ íåäàâíî ïîñòðîåííîé ìå÷åòè.;;x
+EVTDESC105052;I received samples of what the Court Calligrapher [From.GetTitledFirstName] had envisioned for the decoration of the mosque, taken special care to the few Quranic verses I had felt most important to adorn the roof and walls of the mosque.;;;;;;;;;;;Ìíîé áûëè ïîëó÷åíû îáðàçöû òîãî, êàê Ïðèäâîðíûé Êàëëèãðàô [From.GetTitledFirstName] ïðåäñòàâëÿåò ñåáå ðîñïèñü ìå÷åòè, ñ óäåëåíèåì îñîáîãî âíèìàíèÿ íåñêîëüêèì êîðàíè÷åñêèì ñòèõàì, êîòîðûå ÿ ñ÷èòàþ íàèáîëåå âàæíûìè äëÿ óêðàøåíèÿ êðûøè è ñòåí ìå÷åòè.;;x
+EVTDESC105053;I had thought it to be a great honor, designing the decorations of my mosque and I had even sent [From.GetTitledFirstName] some Quranic verses to give [From.GetHerHim] some ideas of what I wanted together with a most humble letter praising [From.GetTitledFirstName]'s calligraphic skill. The short answer was humiliating in its simplicity:;;;;;;;;;;;Ìíå êàçàëîñü, ðîñïèñü ìîåé ìå÷åòè — ýòî áîëüøàÿ ÷åñòü, è [From.GetTitledFirstName] äàæå ïîëó÷èë ìî¸ ïèñüìî ñ íåêîòîðûìè êîðàíè÷åñêèìè ñòèõàìè, ÷òîáû äàòü [From.GetHerHim] íåêîòîðûå èäåè î òîì, ÷åãî ÿ õî÷ó, âìåñòå ñ ñàìûì ñêðîìíûì ïèñüìîì, ãäå âîñõâàëÿåòñÿ ìàñòåðñòâî êàëëèãðàôèè, êîòîðûì îáëàäàåò [From.GetTitledFirstName]. Êîðîòêèé îòâåò áûë óíèçèòåëüíûì â ñâîåé ïðîñòîòå:;;x
+EVTDESC105054;I sent [From.GetTitledFirstName] some short samples of my previous works and the design of the Quranic verses [From.GetSheHe] had specifically asked for. The messenger arrived with a letter from [From.GetTitledFirstName] and I tore it open to reveal what [From.GetTitledFirstName] had written in response to my designs...;;;;;;;;;;;Ìíîé áûëè ïîñëàíû íåáîëüøèå îáðàçöû ìîèõ ïðåäûäóùèõ ðàáîò è ðîñïèñü êîðàíè÷åñêèìè ñòèõàìè, î êîòîðûõ [From.GetTitledFirstName] îñîáî ïðîñèë. Ïîñëàííèê ïðèì÷àëñÿ ñ îòâåòíûì ïèñüìîì, è, ðàçîðâàâ êîíâåðò, ÿ îáíàðóæèâàþ, ÷òî [From.GetTitledFirstName] îòâå÷àåò íà ìîè ðîñïèñè...;;x
+EVTDESC105055;I saw the design of the Quranic verses my Court Calligrapher [FromFrom.GetTitledFirstName] had created for [From.GetTitledFirstName]'s new mosque and I couldn't believe anyone would be dissatisfied with it, [FromFrom.GetTitledFirstName] is a master with the qalam!;;;;;;;;;;;Óâèäåâ ðîñïèñü êîðàíè÷åñêèìè ñòèõàìè, ÷òî ìîé Ïðèäâîðíûé Êàëëèãðàô [FromFrom.GetTitledFirstName] ñîçäàë äëÿ ìå÷åòè, êîòîðóþ íåäàâíî ïîñòðîèë [From.GetTitledFirstName], ÿ íå â ñèëàõ ïîâåðèòü, ÷òî êòî-òî ìîæåò áûòü íåäîâîëåí åé. [FromFrom.GetTitledFirstName] — ìàñòåð ðîñïèñè!;;x
+EVTDESC105060;The hilya I have worked on for so long is a piece of art, the description of the Prophet Mohammad's appearance and character written in gold with as much care taken to every line and curve as to every dot as I could possibly do. The brilliant colors and exquisite details is a joy to behold!;;;;;;;;;;;Õèëüÿ, íàä êîòîðîé ÿ òàê äîëãî ðàáîòàë — ýòî ïðîèçâåäåíèå èñêóññòâà: îïèñàíèå âíåøíîñòè è õàðàêòåðà ïðîðîêà Ìóõàììàäà, âûãðàâèðîâàííûå çîëîòîì, ñ òàêèì âíèìàíèåì ê êàæäûì ëèíèè è èçãèáó, ðàâíî êàê è ê êàæäîé òî÷êå, êàêîå ÿ òîëüêî ìîã óäåëèòü. ßðêèå öâåòà è èçûñêàííûå äåòàëè — ýòî ïðîñòî çàãëÿäåíüå!;;x
+EVTDESC105061;[From.GetTitledFirstName] sent me a hilya [From.GetSheHe] had made [From.GetHerselfHimself], a description of the Prophet Mohammad's appearance and character written in gold on pergament with hopes of it protecting me from trouble in this world and the next.;;;;;;;;;;;[From.GetTitledFirstName] ïîñëàë ìíå õèëüÿ, àâòîðîì êîòîðîé [From.GetSheHe] ÿâëÿåòñÿ: îïèñàíèå âíåøíîñòè è õàðàêòåðà ïðîðîêà Ìóõàììàäà íàïèñàíû çîëîòîì íà ïåðãàìåíòå, ñ íàäåæäîé, ÷òî îíà çàùèùàåò ìåíÿ îò íåïðèÿòíîñòåé â ýòîì ìèðå è â ñëåäóþùåì.;;x
+EVTDESC105065;With the promise of creating a golden Qur'an, with ornaments of gold and cover of solid gold, something only the most skilled and experienced calligraphers would ever be able to create, I might be able to lure my liege [Root.Liege.GetTitledFirstName] for some money!;;;;;;;;;;;Îáåùàÿ ñîçäàòü Çîëîòîé Êîðàí, ñ îðíàìåíòàìè èç çîëîòà è îáëîæêîé èç ÷èñòîãî çîëîòà, ñ ÷åì ìîãëè áû ñïðàâèòüñÿ òîëüêî ñàìûå êâàëèôèöèðîâàííûå è îïûòíûå êàëëèãðàôû âñåõ âðåì¸í, ìîæíî áûëî áû ïîïûòàòüñÿ âûìàíèòü íåìíîãî äåíåã, êîòîðûìè îáëàäàåò ìîé ñþçåðåí [Root.Liege.GetTitledFirstName]!;;x
+EVTDESC105066;The idea of a golden Qur'an might be absurd, the cost for the gold alone incredible but I listened patiently as the Court Calligrapher [From.GetTitledFirstName] told me about [From.GetHerHis] plans and ideas, the approximately cost of the materials needed including the gold and [From.GetHerHis] time estimate. It started to sound promising, then [From.GetTitledFirstName] asked me...;;;;;;;;;;;Èäåÿ Çîëîòîãî Êîðàíà ìîæåò áûòü àáñóðäíîé: ñòîèìîñòü îäíîãî òîëüêî çîëîòà — íåâåðîÿòíà, íî ÿ òåðïåëèâî âûñëóøèâàþ, êàê Ïðèäâîðíûé Êàëëèãðàô [From.GetTitledFirstName] ðàññêàçûâàåò ìíå î [From.GetHersHis] ïëàíàõ è èäåÿõ, ïðèìåðíîé ñòîèìîñòè íåîáõîäèìûõ ìàòåðèàëîâ, â òîì ÷èñëå çîëîòà, è [From.GetHersHis] îöåíêó íåîáõîäèìîãî âðåìåíè. Ýòî íà÷èíàåò êàçàòüñÿ ïåðñïåêòèâíûì, à çàòåì [From.GetTitledFirstName] âûñêàçûâàåò ïðîñüáó...;;x
+EVTDESC105067;With a rough estimate of what the materials for the Golden Qur'an would cost and a time estimate of about six months I managed to make [From.GetTitledFirstName] more than interested in my 'dream' of making a Golden Qur'an...;;;;;;;;;;;"Ïðè ãðóáîé îöåíêå òîãî, âî ÷òî îáîéäóòñÿ ìàòåðèàëû äëÿ Çîëîòîãî Êîðàíà, è ïðè ðàñ÷¸òå, ÷òî íà åãî ñîçäàíèå óéä¸ò îêîëî ïîëóãîäà, ìíå óäàëîñü ñäåëàòü òàê, ÷òî [From.GetTitledFirstName] òåïåðü âûðàæàåò çàèíòåðåñîâàííîñòü ïîìî÷ü îñóùåñòâèòü ìîþ ""ìå÷òó"" — ñîçäàòü Çîëîòîé Êîðàí...";;x
+EVTDESC105068;It has been six months since I agreed to help my Court Calligrapher [From.GetTitledFirstName] with [From.GetHerHis] dream of creating a Golden Qur'an and I am starting to become suspicious. I have heard no word of progress, nor seen any sign of the Golden Qur'an or its design and I am starting to believe my Court Calligrapher might have deceived me for money!;;;;;;;;;;;Ïðîøëî øåñòü ìåñÿöåâ ñ òîãî ìîìåíòà ìîåãî ñîãëàñèÿ ïîìî÷ü â âîïëîùåíèè ìå÷òû, êîòîðóþ ëåëååò ìîé Ïðèäâîðíûé Êàëëèãðàô [From.GetTitledFirstName] — ñîçäàòü Çîëîòîé Êîðàí, è ÿ íà÷èíàþ ÷òî-òî ïîäîçðåâàòü. ß íå ïîìíþ íè ñëîâà î ïðîãðåññå, íè êàêèõ-ëèáî ïðèçíàêîâ ñàìîãî ñóùåñòâîâàíèÿ Çîëîòîãî Êîðàíà è åãî ðîñïèñè, òàê ÷òî ÿ íà÷èíàþ äóìàòü, ÷òî ìîé Ïðèäâîðíûé Êàëëèãðàô ìîã îáìàíîì çàâëàäåòü ìîèìè äåíüãàìè!;;x
+EVTDESC105069;The Golden Qur'an I promised [From.GetTitledFirstName] I would create for the money [From.GetSheHe] gave me to pay for the materials is of course a figment of imagination, a scheme to lure my liege of some money. Somehow [From.GetTitledFirstName] have found out about my scheme and I am being punished by...;;;;;;;;;;;Çîëîòîé Êîðàí, êîòîðûé, êàê âåðèò [From.GetTitledFirstName], ÿ ñäåëàþ çà äåíüãè, âûäàííûå [From.GetHerHim] ìíå äëÿ ïîêóïêè ìàòåðèàëîâ, êîíå÷íî, ÿâëÿåòñÿ òîëüêî ïëîäîì âîîáðàæåíèÿ, ñõåìîé, ÷òîáû õèòðîñòüþ çàâëàäåòü ÷àñòüþ äåíåã ìîåãî ñþçåðåíà. Êàêèì-òî îáðàçîì [From.GetTitledFirstName] òåïåðü çíàåò î ìî¸ì ïëàíå, è â âèäå íàêàçàíèÿ ÿ...;;x
+EVTDESC105075;The ghazal's poetic expression of both the pain of separation and the beauty of love in spite of that pain is the perfect poetic form for my next song!;;;;;;;;;;;Ñòðîôà ãàçåëü âûðàæàåò è áîëü ðàçëóêè, è êðàñîòó ëþáâè, íåñìîòðÿ íà ýòó áîëü, ÷òî ÿâëÿåòñÿ èäåàëüíîé ïîýòè÷åñêîé ôîðìîé äëÿ ìîåé ñëåäóþùåé ïåñíè!;;x
+EVTDESC105076;My husband's Court Musician [From.GetTitledFirstName] has a wonderful voice and I could barely keep from blushing as I heard [From.GetHerHim] sing [From.GetHerHis] ghazal song about the pain of separation and the beauty of love in spite of that pain...;;;;;;;;;;;[From.GetTitledFirstName], ïðèäâîðíûé ìóçûêàíò ìîe[This.Spouse.GetYGo] [This.Spouse.GetHusbandWifeGEN], èìååò ïðåêðàñíûé ãîëîñ è ÿ åäâà ñäåðæèâàþ ðóìÿíåö íà ùåêàõ êîãäà ñëóøàþ [From.GetHersHis] ãàçåëè î áîëè ðàçëóêè è êðàñîòå ëþáâè...;;x
+EVTDESC105077;The Court Musician's words and [court_musician.GetHerHis] singing brought justice to the poetic form ghazal, a poetic expression of both the pain of separation and the beauty of love in spite of that pain.;;;;;;;;;;;"Ïåíèå ïðèäâîðíîãî ìóçûêàíòà è åãî ñëîâà âíåñëè ïîðÿäîê â ïîýòè÷åñêóþ ôîðìó ""ãàçåëü"", âûðàæåíèå ÷åðåç ïîýçèþ áîëè îò ðàçëóêè è êðàñîòû ëþáâè íåñìîòðÿ íà ýòó áîëü.";;x
+EVTDESC105078;As I sang my song, I started to feel true pain of separation from my love and still see the beauty of love. The ghazal was my masterpiece and as I let the last few notes die away I felt tears streaming down my face...;;;;;;;;;;;Êîãäà ÿ ïåë ñâîþ ïåñíþ, ÿ ïî÷óâñòâîâàë íàñòîÿùóþ áîëü îò ðàçëóêè ñî ñâîåé ëþáîâüþ è ÿ ïðîäîëæàþ âèäåòü êðàñîòó ëþáâè. Ãàçåëü áûëà ìîèì øåäåâðîì è êàê òîëüêî ñòèõëè ïîñëåäíèå íîòû, ÿ ïî÷óâñòâîâàë ñë¸çû, òåêóùèå ïî ìîåìó ëèöó...;;x
+EVTDESC105100;'Through my veins both love and blood flows\nMy beloved fills me as love empties me of myself...'\nAs I struggle with my poem I searched through the garden for an inspiration of some sort...;;;;;;;;;;;" ""Ïî ìîèì âåíàì òå÷¸ò ëþáîâü è êðîâü\nÌîÿ âîçëþáëåííàÿ íàïîëíÿåò ìåíÿ, â òî âðåìÿ êàê ëþáîâü îñâîáîæäàåò ìåíÿ îò ñàìîãî ñåáÿ...""\nÂ òî âðåìÿ êàê ÿ òðóäèëñÿ íàä ñâîåé ïîýìîé, â ñàäó ÿ íàø¸ë â íåêîòîðîì ðîäå âäîõíîâåíèå...";;x
+EVTDESC105101;My husband's garden is an easy place to find inspiration within, and I was slowly walking through it when the Court Poet [From.GetTitledFirstName] startled me. [From.GetSheHeCap] asked my forgiveness and recited a poem [From.GetTitledFirstName] claimed to have gotten inspiration to when [From.GetSheHe] saw me walking.;;;;;;;;;;;Ñàä ìîåãî ìóæà - õîðîøåå ìåñòî ÷òîáû èñêàòü â í¸ì âäîõíîâåíèå, ÿ ìåäëåííî øëà ÷åðåç ñàä, êîãäà ïðèäâîðíûé ïîýò [From.GetTitledFirstName] íàïóãàë ìåíÿ. [From.GetSheHeCap] ïîïðîñèë ó ìåíÿ ïðîùåíèÿ è ïðî÷¸ë ìíå ïîýìó, [From.GetTitledFirstName] çàÿâèë ÷òî ïîëó÷èë âäîõíîâåíèå, êîãäà [From.GetSheHe] óâèäåë ìåíÿ èäóùåé ïî ñàäó.;;x
+EVTDESC105102;The poem did not rhyme, why did it not rhyme? Shouldn't every poem rhyme? I was assured by the Court Poet that not all poetry rhymed and I did like the two first sentences:\n\n'Through my veins both love and blood flows\nMy beloved fills me as love empties me of myself...';;;;;;;;;;;"Ïîýìà íå ðèôìîâàíà, ïî÷åìó òàê? Ðàçâå íå âñÿ ïîýçèÿ äîëæíà áûòü ðèôìîâàííîé? Ïðèäâîðíûé ïîýò çàâåðèë ìåíÿ, ÷òî íå âñÿ ïîýçèÿ ðèôìóåòñÿ, ìíå ïîíðàâèëèñü ïåðâûå äâå ñòðîêè:\n\n""Ïî ìîèì âåíàì òå÷¸ò ëþáîâü è êðîâü\nÌîÿ âîçëþáëåííàÿ íàïîëíÿåò ìåíÿ, â òî âðåìÿ êàê ëþáîâü îñâîáîæäàåò ìåíÿ îò ñàìîãî ñåáÿ...""";;x
+EVTDESC105103;My new poem was clearly appreciated, people were asking me to make copies of it or just hear me recite it for them. I tried to do this as inconspicuously as possible, I did not want any jealous wife or husbands try to harm me just for a sweet poems sake...;;;;;;;;;;;Ìîþ íîâóþ ïîýìó ÿâíî îöåíèëè, ëþäè ïðîñèëè ìåíÿ ñäåëàòü êîïèþ è ïðîñòî ïðî÷èòàòü èì å¸. ß ñòàðàëñÿ äåëàòü ýòî ïî-âîçìîæíîñòè íå ïðèâëåêàÿ ê ñåáå ëèøíåãî âíèìàíèÿ, ÿ íå õî÷ó ÷òîáû êàêîé-íèáóäü ðåâíèâûé ìóæ èëè æåíà õîòåëè íàâðåäèòü ìíå âñåãî ëèøü çà ìèëóþ ïîýìó...;;x
+EVTDESC105150;As the Cupbearer I shall serve drinks at the table, guard against poison in my [Root.Liege.GetTitle]'s cup and sometimes test the wine by tasting it to make sure no one has poisoned it. Too bad I do not like my liege and might accidentally serve bad wine...;;;;;;;;;;;"Êàê Âèíî÷åðïèé ÿ äîëæåí ïîäàâàòü íàïèòêè íà ñòîë, ñëåäèòü ÷òîáû â ÷àøå íå áûëî ÿäà è èíîãäà ïðîáîâàòü âèíî íà âêóñ, ÷òîáû óáåäèòüñÿ ÷òî îíî íå îòðàâëåíî. Î÷åíü æàëü, ÷òî [Root.Liege.GetTitle] íå ìîé ëþáèìûé ïðàâèòåëü è ÿ ""ñëó÷àéíî"" ìîãó ïîäàòü ïëîõîå âèíî...";;x
+EVTDESC105151;My trustworthy Cupbearer [From.GetTitledFirstName] served the wine as always and even though it did taste a bit strange I did not reflect upon it until it was too late! The wine must have been poisoned, why else would I feel this way?;;;;;;;;;;;Ìîé íàä¸æíûé âèíî÷åðïèé [From.GetTitledFirstName] ïîäàë ìíå âèíî, êàê îáû÷íî, è õîòÿ åãî âêóñ áûë íåìíîãî ñòðàííîâàò, ÿ íå äóìàë îá ýòîì ïîêà íå ñòàëî ñëèøêîì ïîçäíî! Âèíî äîëæíî áûòü áûëî îòðàâëåíî, èíà÷å ïî÷åìó ÿ ÷óâñòâóþ ñåáÿ òàê?;;x
+EVTDESC105152;It seems my treason reached the wrong ears! The poison in the wine, why did I trust it to kill [From.GetTitledFirstName]? I should have done it with my own two hands!;;;;;;;;;;;Ïîõîæå, ÷òî ñëóõè î ìî¸ì ïðåäàòåëüñòâå äîñòèãëè íå òåõ óøåé! Ïî÷åìó ÿ äîâåðèë ÿäó óáèòü [From.GetTitledFirstName]? ß äîëæåí áûë ñäåëàòü ýòî ñâîèìè ñîáñòâåííûìè ðóêàìè!;;x
+EVTDESC105200;I took a look at some of the architecture plans for the buildings being built in [Root.Liege.GetTitledFirstName]'s realm and what I saw chilled my blood. There were so many things that could be improved, so many small faults that could be solved if only [Root.Liege.GetTitledFirstName] would listen to me and provide the money necessary for these changes.;;;;;;;;;;;ß óâèäåë àðõèòåêòóðíûå ïëàíû çäàíèé, ïîñòðîåííûõ â ãîñóäàðñòâå [Root.Liege.GetTitledFirstName], òî, ÷òî ÿ óâèäåë, çàñòàâèëî êðîâü çàñòûòü â ìîèõ æèëàõ. Òàì áûëî ñòîëüêî ìåëêèõ íåäîñòàòêîâ, êîòîðûå ìîæíî áû áûëî èñïðàâèòü åñëè áû [Root.Liege.GetTitledFirstName] âûñëóøàë ìåíÿ è âûäåëèë íåîáõîäèìûå äëÿ èçìåíåíèé ñðåäñòâà.;;x
+EVTDESC105201;'You see, this small change might mean five years more without repairs, and this is just absurd, what were they thinking? Let me have the money needed to do these changes and I promise you...'\nThe Chief Architect pointed out several flaws and faults with the building plans and asked for money to prevent them.;;;;;;;;;;;" ""Âèäèòå, ýòè ìåëêèå èçìåíåíèÿ ìîãóò îçíà÷àòü áîëåå ïÿòè ëåò áåç ðåìîíòà, ýòî ïðîñòî àáñóðä, î ÷¸ì îíè äóìàëè?! Äàéòå ìíå äåíüãè íåîáõîäèìûå äëÿ íåîáõîäèìûõ èçìåíåíèé è ÿ îáåùàþ Âàì...""\nÃëàâíûé Àðõèòåêòîð óêàçàë íà ðÿä íåäîñòàòêîâ è äåôåêòîâ â ÷åðòåæàõ çäàíèé è ïîïðîñèë äåíåã äëÿ èõ óñòðàíåíèÿ.";;x
+EVTDESC105202;I saw before me how the buildings would stand tall and beautiful, without the flaws I had found in the building plans. Before me stood the [From.GetManWoman] who held this in [From.GetHerHis] hand and I waited for [From.GetTitledFirstName] decision, eager to get out there and make the buildings flawless.;;;;;;;;;;;ß âèäåë ïåðåä ñîáîé, êàê çäàíèÿ áóäóò ñòîÿòü âûñîêèå è ïðåêðàñíûå, áåç òåõ îøèáîê, ÷òî ÿ íàø¸ë â ÷åðòåæàõ. Ïåðåäî ìíîé ñòîÿë ÷åëîâåê îò êîòîðîãî âñ¸ çàâèñåëî, ÿ æäàë åãî ðåøåíèÿ, ñòðàñòíî æåëàÿ ïîëó÷èòü äåíüãè è ñäåëàòü çäàíèÿ áåçóêîðèçíåííûìè.;;x
+EVTDESC105203;Another building collapsed today! I thought my Chief Architect [From.GetTitledFirstName] had found and corrected these flaws but it seems like [From.GetSheHe] squandered the money away. What should the punishment for this be?;;;;;;;;;;;Åù¸ îäíî çäàíèå îáâàëèëîñü ñåãîäíÿ! ß äóìàë ÷òî ìîé Ãëàâíûé Àðõèòåêòîð [From.GetTitledFirstName] íàø¸ë è èñïðàâèë ýòè íåäîñòàòêè, íî êàæåòñÿ, ÷òî [From.GetSheHe] ïðîñòî ðàñòðàòèë äåíüãè. Êàêîå íàêàçàíèå äîëæíî áûòü çà ýòî?;;x
+EVTDESC105204;I should have used the money for improvements! Another building collapsed today and [From.GetTitledFirstName] holds me responsible for it. I tremble at the mere thought of whatever punishment [From.GetTitledFirstName] see fit for my failure...;;;;;;;;;;;ß äîëæåí áûë ïîòðàòèòü äåíüãè íà óëó÷øåíèÿ! Åù¸ îäíî çäàíèå îáâàëèëîñü ñåãîäíÿ è [From.GetTitledFirstName] âîçëîæèë íà ìåíÿ âñþ îòâåòñòâåííîñòü çà ýòî. ß äðîæó ïðè îäíîé ìûñëè î íàêàçàíèè, êîòîðîå íàçíà÷èò [From.GetTitledFirstName] çà ìîé ïðîâàë...;;x
+EVTDESC105250;Being the Food Taster for [Root.Liege.GetTitledFirstName] can be a dangerous job. I am supposed to taste the food and drink to be served to [Root.Liege.GetHerHim] to make sure it is safe to eat, not poisonous or tastes strange. Lately, I have been secretly trying to become immune to different poisons for I am under the grip of the fear of death.;;;;;;;;;;;Áûòü äåãóñòàòîðîì äëÿ [Root.Liege.GetTitledFirstName] ìîæåò áûòü îïàñíî. ß äîëæåí ïðîáîâàòü åäó è íàïèòêè, êîòîðûå åìó ïðèíîñÿò, ÷òîáû óáåäèòüñÿ, ÷òî îíè áåçîïàñíû, íå ÿäîâèòû è ó íèõ íåò ñòðàííîãî ïðèâêóñà. Â ïîñëåäíåå âðåìÿ ÿ òàéíî ïûòàþñü ñòàòü íåâîñïðèèì÷èâûì ê ðàçëè÷íûì ÿäàì, òàê êàê îïàñàþñü ñìåðòè.;;x
+EVTDESC105251;The food tasted a bit strange, something was hidden beneath the seasoning but I trusted Food Taster [From.GetTitledFirstName] would never serve me anything that might be poisoned. Oh, how I regretted that trust later that evening, when the stomach pains erupted...;;;;;;;;;;;Íà âêóñ åäà áûëà íåìíîãî ñòðàííîé, ÷òî-òî áûëî äîáàâëåíî â ïðèïðàâû, íî ÿ äîâåðÿë äåãóñòàòîðó [From.GetTitledFirstName], îí íèêîãäà íå ïðåïîäí¸ñ áû ìíå òîãî, ÷òî ìîæåò áûòü îòðàâëåíî. Îõ, êàê æå ÿ ïîæàëåë î ñâî¸ì äîâåðèè òåì æå âå÷åðîì, êîãäà â æåëóäêå âñïûõíóëà áîëü...;;x
+EVTDESC105253;My plan to become immune to poisons did not turn out so good, I missed the poisoned food intended for [From.GetTitledFirstName] and that is how I ended up in [From.GetTitledFirstName]'s dungeon...;;;;;;;;;;;Ìîè ïëàíû ñòàòü íåâîñïðèèì÷èâûì ê ÿäàì îêàçàëèñü íå ñëèøêîì õîðîøè. ß ïðîïóñòèë îòðàâëåííóþ åäó, êîòîðóþ äîëæåí áûë ñúåñòü [From.GetTitledFirstName], è ïîýòîìó ïîïàë â òåìíèöó…;;x
+EVTOPTA105000;I have decided!;;;;;;;;;;;Ðåøåíèå ïðèíÿòî!;;x
+EVTOPTA105001;If you have no regrets after a month, you may be divorced;;;;;;;;;;;Åñëè Âû íå ïîæàëååòå îá ýòîì ÷åðåç ìåñÿö, ñìîæåòå ðàçâåñòèñü.;;x
+EVTOPTA105002;A month I must wait, then;;;;;;;;;;;Òîãäà ÿ äîëæíà ïîäîæäàòü ìåñÿö;;x
+EVTOPTA105003;I must accept this marriage then;;;;;;;;;;;Òîãäà ìíå ïðèä¸òñÿ ïðèíÿòü ýòîò áðàê;;x
+EVTOPTA105004;Yes! I am no longer married to [Root.Spouse.GetTitledFirstName]!;;;;;;;;;;;Óðà! [Root.Spouse.GetTitledFirstName] áîëüøå íå ìîé ñóïðóã!;;x
+EVTOPTA105005;If that's what she wants...;;;;;;;;;;;Åñëè ýòî òî, ÷åãî îíà õî÷åò...;;x
+EVTOPTA105006;No, I don't want to be married to you, I want that divorce!;;;;;;;;;;;Íåò, ÿ íå õî÷ó áûòü Âàøåé æåíîé, ÿ õî÷ó ðàçâåñòèñü!;;x
+EVTOPTA105007;But [From.GetTitledFirstName] did not change her mind;;;;;;;;;;;[From.GetTitledFirstName] âñ¸ æå íå èçìåíèëà ñâîåãî ðåøåíèÿ;;x
+EVTOPTA105010;I should suggest one of my courtiers!;;;;;;;;;;;Ìíå ñëåäóåò ïðåäëîæèòü îäíîãî èç ìîèõ ïðèäâîðíûõ!;;x
+EVTOPTA105011;Yes, that courtier would be perfect;;;;;;;;;;;Äà, ýòîò ïðèäâîðíûé ïîäîø¸ë áû èäåàëüíî;;x
+EVTOPTA105012;Thank you, [FromFrom.GetTitledFirstName]!;;;;;;;;;;;[FromFrom.GetTitledFirstName], ñïàñèáî Âàì!;;x
+EVTOPTA105013;[Root.Liege.GetSheHeCap] accepted my candidate as Chief Qadi!;;;;;;;;;;;[Root.Liege.GetSheHeCap] ïðèíÿë[Root.Liege.GetEndA] ìîåãî êàíäèäàòà íà äîëæíîñòü Ãëàâíîãî Êàäèÿ!;;x
+EVTOPTA105014;I am the new Chief Qadi! Fear my justice!;;;;;;;;;;;ß íîâûé Ãëàâíûé Êàäèé! Áîéòåñü ìîåãî ïðàâîñóäèÿ!;;x
+EVTOPTA105020;Even this courtier would be better as Chief Qadi!;;;;;;;;;;;Äàæå ýòîò ïðèäâîðíûé áûë áû ëó÷øèì Ãëàâíûì Êàäèåì!;;x
+EVTOPTA105021;You are right, your courtier would be a better choice;;;;;;;;;;;Âû ïðàâû, Âàø ïðèäâîðíûé ñòàë áû áîëåå óäà÷íûì âûáîðîì;;x
+EVTOPTA105023;[From.GetTitledFirstName] is the new Chief Qadi! Praise Allah!;;;;;;;;;;;[From.GetTitledFirstName] òåïåðü íîâûé Ãëàâíûé Êàäèé! Ñëàâà Àëëàõó!;;x
+EVTOPTA105025;May Allah destroy [FromFrom.GetTitledFirstName]'s house!;;;;;;;;;;;[FromFrom.GetTitledFirstName], äà óíè÷òîæèò Àëëàõ òâîé äîì!;;x
+EVTOPTA105030;Eighty lashes for that drunkard!;;;;;;;;;;;Âîñåìüäåñÿò ïëåòåé ýòîìó ïüÿíèöå!;;x
+EVTOPTA105031;The lashes made me cry out in pain...;;;;;;;;;;;Ïëåòè çàñòàâèëè ìåíÿ êðè÷àòü îò áîëè...;;x
+EVTOPTA105032;I promised but all I could think of was a can of wine to cure my headache;;;;;;;;;;;ß ïîîáåùàë, íî ìîã äóìàòü òîëüêî î âèíå, ÷òîáû óíÿòü ãîëîâíóþ áîëü.;;x
+EVTOPTA105035;The Chief Qadi would know what to do!;;;;;;;;;;;Ãëàâíûé Êàäèé äîëæåí çíàòü ÷òî äåëàòü!;;x
+EVTOPTA105036;Confront the accused one;;;;;;;;;;;Äîïðîñèòü îáâèíÿåìîãî.;;x
+EVTOPTA105037;Try to bribe [From.GetTitledFirstName] to keep quiet;;;;;;;;;;;Âîçìîæíî [From.GetSheHe] ñîãëàñèòñÿ íà âçÿòêó â îáìåí íà ìîë÷àíèå.;;x
+EVTOPTA105038;You have no witnesses, only rumors and they are false!;;;;;;;;;;;Ó Âàñ íåò ñâèäåòåëåé, òîëüêî ëîæíûå ñëóõè!;;x
+EVTOPTA105039;But then [From.GetTitledFirstName] told me [From.GetSheHe] wouldn't do something about it!;;;;;;;;;;;Íî çàòåì [From.GetTitledFirstName] ñêàçàë ìíå, ÷òî [From.GetSheHe] íè÷åãî íå áóäåò ñ ýòèì äåëàòü!;;x
+EVTOPTA105041;I believe [From.GetTitledFirstName];;;;;;;;;;;[From.GetTitledFirstName] - õîðîøèé ÷åëîâåê, ÿ âåðþ åìó.;;x
+EVTOPTA105042;I do not believe you but there's nothing I can do;;;;;;;;;;;ß íå âåðþ Âàì, íî ÿ íè÷åãî íå ìîãó ñäåëàòü.;;x
+EVTOPTA105043;I... I don't know what to do...;;;;;;;;;;;ß... ß íå çíàþ ÷òî äåëàòü...;;x
+EVTOPTA105044;The hundred lashes only wounded me, not my soul nor my love!;;;;;;;;;;;Ñòî óäàðîâ ïëåòüþ òîëüêî ðàíèëè ìî¸ òåëî, íî íå çàäåëè, íè ìîþ äóøó, íè ìîþ ëþáîâü!;;x
+EVTOPTA105050;With the Court Calligrapher's help, the mosque should look wonderful!;;;;;;;;;;;Áëàãîäàðÿ ïîìîùè Ïðèäâîðíîãî Êàëëèãðàôà, ìå÷åòü áóäåò âûãëÿäåòü ÷óäåñíî!;;x
+EVTOPTA105051;I would be more than honored to create designs for the decoration;;;;;;;;;;;Äëÿ ìåíÿ áóäåò áîëüøîé ÷åñòüþ ðàñïèñàòü ìå÷åòü.;;x
+EVTOPTA105052;[From.GetSheHeCap] has outdone [From.GetHerselfHimself]! Bravo, [From.GetTitledFirstName]!;;;;;;;;;;;[From.GetSheHeCap] ïðåâçîø¸ë [From.GetHerselfHimself]! Áðàâî, [From.GetTitledFirstName]!;;x
+EVTOPTA105053;'No' was the answer I got!;;;;;;;;;;;"Îòâåò áûë ""Íåò""!";;x
+EVTOPTA105054;[From.GetSheHeCap] loved it! Time to start working seriously on this!;;;;;;;;;;;[From.GetSheHeCap] â âîñõèùåíèè! Âðåìÿ ñåðü¸çíî áðàòüñÿ çà ðàáîòó!;;x
+EVTOPTA105055;[From.GetTitledFirstName] was most pleased with the designs;;;;;;;;;;;[From.GetTitledFirstName] î÷åíü âûñîêî îöåíèâàåò ðîñïèñè.;;x
+EVTOPTA105060;I should send the hilya to the [Root.Religion.GetName] Caliph!;;;;;;;;;;;Ìíå íóæíî îòïðàâèòü õèëüÿ [Root.GetRelAdj]ñêîìó õàëèôó!;;x
+EVTOPTA105061;Beautiful! Many thanks to you, [From.GetTitledFirstName];;;;;;;;;;;Êðàñèâàÿ! Áîëüøîå ñïàñèáî Âàì, [From.GetTitledFirstName];;x
+EVTOPTA105065;Ask [Root.Liege.GetTitledFirstName] to pay for the 'whole book';;;;;;;;;;;"Âîçìîæíî [Root.Liege.GetTitledFirstName] çàïëàòèò çà ""öåëóþ êíèãó"".";;x
+EVTOPTA105066;To pay for all the materials? Yes, of course!;;;;;;;;;;;Çàïëàòèòü çà âñå ìàòåðèàëû? Äà, êîíå÷íî!;;x
+EVTOPTA105067;[From.GetTitledFirstName] agreed to pay for whatever I might need!;;;;;;;;;;;[From.GetTitledFirstName] áóäåò ïëàòèòü çà âñ¸, ÷òî ìíå ìîæåò ïîíàäîáèòüñÿ!;;x
+EVTOPTA105068;Imprison Court Calligrapher [From.GetTitledFirstName];;;;;;;;;;;Ïðèäâîðíûé Êàëëèãðàô [From.GetTitledFirstName] ñÿäåò â òþðüìó.;;x
+EVTOPTA105069;...being thrown into [From.GetHerHis] dungeons!;;;;;;;;;;;...áðîøåí â [From.GetHersHis] ïîäçåìåëüÿ!;;x
+EVTOPTA105075;I will dedicate this to [Root.Liege.Spouse.GetTitledFirstName]!;;;;;;;;;;;[Root.Liege.Spouse.GetTitledFirstName] - âîò êîìó ÿ å¸ ïîñâÿùó!;;x
+EVTOPTA105076;Wonderful! Our court would be less beautiful without your voice;;;;;;;;;;;Ïðåêðàñíî! Íàø äâîð áûë áû íå òàê êðàñèâ áåç Âàøåãî ãîëîñà.;;x
+EVTOPTA105077;Here, a small token of mine and [From.GetTitledFirstName]'s appreciation...;;;;;;;;;;;ß è [From.GetTitledFirstName] äàðóåì Âàì ýòî â êà÷åñòâå ñèìâîëà íàøåé ïðèçíàòåëüíîñòè...;;x
+EVTOPTA105078;[From.GetTitledFirstName] was as touched by the song as I were;;;;;;;;;;;[From.GetTitledFirstName] ðàçäåëÿåò ìîè ÷óâñòâà;;x
+EVTOPTA105100;I find inspiration in [Root.Liege.GetTitledFirstName] and read her the poem;;;;;;;;;;;[Root.Liege.GetTitledFirstName] äàðóåò ìíå âäîõíîâåíèå, ÿ ïðî÷¸ë åé ïîýìó;;x
+EVTOPTA105101;Not exactly appropriate, but very sweet;;;;;;;;;;;Íå ñîâñåì ïîäõîäÿùå, íî î÷åíü ìèëî...;;x
+EVTOPTA105102;Good work my dear poet, good work!;;;;;;;;;;;Õîðîøàÿ ðàáîòà, ìîé äîðîãîé ïîýò, õîðîøàÿ ðàáîòà!;;x
+EVTOPTA105103;Seems as [From.GetTitledFirstName] liked it...;;;;;;;;;;;[From.GetTitledFirstName] êàæåòñÿ îöåíèë å¸...;;x
+EVTOPTA105150;Poison the wine [Root.Liege.GetTitledFirstName] will drink;;;;;;;;;;;Îòðàâèòü âèíî, êîòîðîå [Root.Liege.GetTitledFirstName] áóäåò ïèòü;;x
+EVTOPTA105151;Imprison that [From.GetManWoman]! Obey my voice!;;;;;;;;;;;Çàêëþ÷èòå [From.GetManWoman]ó â òþðüìó! Ïîâèíóéòåñü ìîåìó ñëîâó!;;x
+EVTOPTA105152;At least the bastard is sick as a dog!;;;;;;;;;;;Ïî êðàéíåé ìåðå ýòîò óáëþäîê òåïåðü áîëåí êàê ñîáàêà!;;x
+EVTOPTA105200;[Root.Liege.GetTitledFirstName] must approve these changes!;;;;;;;;;;;[Root.Liege.GetTitledFirstName] äîëæåí îäîáðèòü ýòè èçìåíåíèÿ!;;x
+EVTOPTA105201;Whatever you need, just make these buildings sturdy!;;;;;;;;;;;Âñ¸ ÷òî óãîäíî, òîëüêî ñäåëàéòå ýòè çäàíèÿ ïðî÷íûìè!;;x
+EVTOPTA105202;'No money for improvements', [From.GetTitledFirstName] said;;;;;;;;;;;"[From.GetTitledFirstName] ñêàçàë: ""Íèêàêèõ äåíåã äëÿ óëó÷øåíèé""";;x
+EVTOPTA105203;Imprison Chief Architect [From.GetTitledFirstName];;;;;;;;;;;Ãëàâíûé Àðõèòåêòîð [From.GetTitledFirstName] áóäåò çàêëþ÷¸í â òþðüìó;;x
+EVTOPTA105204;Imprisonment!;;;;;;;;;;;Ëèøåíèå ñâîáîäû!;;x
+EVTOPTA105250;If [Root.Liege.GetTitledFirstName] would die because I am immune, even better!;;;;;;;;;;;Åñëè [Root.Liege.GetTitledFirstName] ïîìð¸ò, ïîòîìó ÷òî ÿ íåâîñïðèèì÷èâ, áóäåò äàæå ëó÷øå!;;x
+EVTOPTA105253;[From.GetTitledFirstName] became gravely ill by the poisoned food;;;;;;;;;;;[From.GetTitledFirstName] òÿæåëî çàáîëåë èç-çà îòðàâëåíèÿ ;;x
+EVTOPTB105000;I cannot make this decision now...;;;;;;;;;;;ß íå ìîãó ðåøèòü ñåé÷àñ...;;x
+EVTOPTB105001;No, I cannot justify granting you a divorce;;;;;;;;;;;Íåò, ÿ íå ìîãó îïðàâäàòü ïðåäîñòàâëåíèå Âàì ðàçâîäà;;x
+EVTOPTB105002;Until this child is born, then;;;;;;;;;;;Òîãäà ïîêà ðåá¸íîê íå ðîäèòñÿ;;x
+EVTOPTB105004;During the iddah period I have changed my mind, I don't want a divorce;;;;;;;;;;;ß èçìåíèëà ñâî¸ ðåøåíèå âî âðåìÿ ïåðèîäà Èääû, ÿ íå õî÷ó ðàçâîäà;;x
+EVTOPTB105005;NO! I won't allow it!;;;;;;;;;;;Íåò! ß ýòîãî íå äîïóùó!;;x
+EVTOPTB105006;Fine, but then things are going to have to change!;;;;;;;;;;;Õîðîøî, íî òîãäà âñ¸ äîëæíî èçìåíèòüñÿ!;;x
+EVTOPTB105007;[From.GetTitledFirstName] promised not to leave me!;;;;;;;;;;;[From.GetTitledFirstName] îáåùàëà íå ïîêèäàòü ìåíÿ!;;x
+EVTOPTB105010;I would be the best candidate!;;;;;;;;;;;ß áûë áû ëó÷øèì êàíäèäàòîì!;;x
+EVTOPTB105011;No, he won't do;;;;;;;;;;;Íåò, ýòîãî íå áóäåò;;x
+EVTOPTB105013;[Root.Liege.GetTitledFirstName] dismissed my suggestion...;;;;;;;;;;;[Root.Liege.GetTitledFirstName] îòâåðã[Root.Liege.GetNoneE] ìî¸ ïðåäëîæåíèå...;;x
+EVTOPTB105014;[From.GetTitledFirstName] did not want me as Chief Qadi;;;;;;;;;;;[From.GetTitledFirstName] íå õî÷åò, ÷òîáû ÿ ñòàë[Root.GetEndA] íîâûì Ãëàâíûì Êàäèåì;;x
+EVTOPTB105020;Why, even I would make a better Chief Qadi!;;;;;;;;;;;Ïîæàëóé, äàæå ÿ áûë áû ëó÷øèì Ãëàâíûì Êàäèåì!;;x
+EVTOPTB105021;I see no reason to dismiss the current Chief Qadi;;;;;;;;;;;ß íå âèæó íèêàêèõ ïðè÷èí äëÿ óâîëüíåíèÿ íûíåøíåãî Ãëàâíîãî Êàäèÿ;;x
+EVTOPTB105023;I was dismissed and told not to interfere in this matter again;;;;;;;;;;;Ìíå îòêàçàëè è ñêàçàëè áîëüøå íå âìåøèâàòüñÿ â ýòî äåëî;;x
+EVTOPTB105030;Show mercy and the drunkard may repent;;;;;;;;;;;Ïðîÿâèòå ìèëîñåðäèå, è ïüÿíèöà âîçìîæíî ðàñêàåòñÿ;;x
+EVTOPTB105031;I will never drink again, may Allah be my witness!;;;;;;;;;;;ß íèêîãäà áîëüøå íå áóäó ïèòü, Àëëàõ ìíå ñâèäåòåëü!;;x
+EVTOPTB105032;May Allah be my witness, I promise to never drink again!;;;;;;;;;;;Àëëàõ ìíå ñâèäåòåëü, ÿ íèêîãäà áîëüøå íå áóäó ïèòü!;;x
+EVTOPTB105035;I should confront him myself, make him repent to Allah!;;;;;;;;;;;ß äîëæåí ïîãîâîðèòü ñ íèì íàåäèíå, çàñòàâèòü ïîêàÿòüñÿ ïåðåä Àëëàõîì;;x
+EVTOPTB105036;If you care so much about this, why don't you confront him yourself?;;;;;;;;;;;Åñëè Âàñ ýòî òàê âîëíóåò, ïî÷åìó áû ñàìîìó íå îáâèíèòü åãî?;;x
+EVTOPTB105037;I promise I will never see her again!;;;;;;;;;;;ß îáåùàþ, ÷òî íèêîãäà áîëüøå íå óâèæó å¸!;;x
+EVTOPTB105038;Promise to break it up with lover;;;;;;;;;;;Îáåùàòü ïîðâàòü ñ ëþáîâíèöåé;;x
+EVTOPTB105039;I am free to confront the accused, but without [From.GetTitledFirstName]'s assistance!;;;;;;;;;;;ß âîëåí ïðîòèâîñòîÿòü îáâèíåíèÿì, íî [From.GetTitledFirstName] ìíå íå ïîìîæåò!;;x
+EVTOPTB105041;I doubt [From.GetTitledFirstName] is sincere, but I can't do anything;;;;;;;;;;;ß ñîìíåâàþñü, ÷òî [From.GetTitledFirstName] ãîâîðèò èñêðåííå, íî ÿ íè÷åãî íå ìîãó ñäåëàòü.;;x
+EVTOPTB105042;Your words are false, the punishment will be brought upon you;;;;;;;;;;;Âû ëæ¸òå, íàêàçàíèå ïîñòèãíåò Âàñ.;;x
+EVTOPTB105043;Your punishment will be a hundred lashes!;;;;;;;;;;;Âû áóäåòå íàêàçàíû ñòà óäàðàìè ïëåòüþ!;;x
+EVTOPTB105044;The merciful Chief Qadi [From.GetTitledFirstName] decided to spare me the punishment!;;;;;;;;;;;Ìèëîñåðäíûé âåðõîâíûé êàäè [From.GetTitledFirstName] ðåøèë èçáàâèòü ìåíÿ îò íàêàçàíèÿ! Óðà!;;x
+EVTOPTB105050;I should not disturb the Court Calligrapher with such a petty task;;;;;;;;;;;ß íå äîëæåí áåñïîêîèòü Ïðèäâîðíîãî Êàëëèãðàôà òàêèìè ìåëî÷àìè.;;x
+EVTOPTB105051;My work would only be spoiled in a mosque of such petty calibre;;;;;;;;;;;Ìîÿ ðàáîòà áóäåò ëèøü èñïîð÷åíà ìå÷åòüþ òàêîé ìàëîé çíà÷èìîñòè.;;x
+EVTOPTB105052;The design looks as if a three-year-old has smeared ink over the pergament!;;;;;;;;;;;Ðîñïèñü âûãëÿäèò ïîäîáíî ÷åðíèëàì, ðàçìàçàííûì ïî ïåðãàìåíòó òð¸õëåòíèì ðåá¸íêîì.;;x
+EVTOPTB105054;[From.GetSheHeCap] thought the designs was terrible!;;;;;;;;;;;[From.GetSheHeCap] ñ÷èòàåò, ÷òî ðîñïèñè áûëè îòâðàòèòåëüíû!;;x
+EVTOPTB105055;[From.GetTitledFirstName] did not share my opinion...;;;;;;;;;;;[From.GetTitledFirstName] íå ðàçäåëÿåò ìî¸ ìíåíèå...;;x
+EVTOPTB105060;I should honor my liege [Root.Liege.GetTitledFirstName] and send [Root.Liege.GetHerHim] the hilya;;;;;;;;;;;Ýòó õèëüÿ ïîëó÷èò ìîé ñþçåðåí [Root.Liege.GetTitledFirstName] â çíàê ìîåãî ïî÷òåíèÿ.;;x
+EVTOPTB105061;Accept this small token of my appreciation for the hilya;;;;;;;;;;;Ïðèìèòå ýòîò ìàëåíüêèé çíàê ìîåé ïðèçíàòåëüíîñòè çà õèëüÿ;;x
+EVTOPTB105065;Ask [Root.Liege.GetTitledFirstName] to pay for part of it;;;;;;;;;;;Âîçìîæíî [Root.Liege.GetTitledFirstName] çàïëàòèò çà ÷àñòü.;;x
+EVTOPTB105066;To help pay for some of the materials? As long as that is all you need...;;;;;;;;;;;Ïîìî÷ü çàïëàòèòü çà ÷àñòü ìàòåðèàëîâ? Ïîêà ýòî âñå, ÷òî Âàì íóæíî...;;x
+EVTOPTB105067;My plan worked, [From.GetTitledFirstName] agreed to pay for some of the 'materials'!;;;;;;;;;;;"Ìîé ïëàí ñðàáîòàë, [From.GetTitledFirstName] áóäåò îïëà÷èâàòü ÷àñòü ""ìàòåðèàëîâ""!";;x
+EVTOPTB105068;Banish Court Calligrapher [From.GetTitledFirstName];;;;;;;;;;;Ïðèäâîðíûé Êàëëèãðàô [From.GetTitledFirstName] áóäåò èçãíàí.;;x
+EVTOPTB105069;...banished from [From.GetHerHis] court!;;;;;;;;;;;...èçãíàí èç [From.GetHersHis] çåìåëü!;;x
+EVTOPTB105075;[Root.Liege.GetTitledFirstName] will be the first to hear it!;;;;;;;;;;;[Root.Liege.GetTitledFirstName] óñëûøèò å¸ ðàíüøå âñåõ!;;x
+EVTOPTB105076;It is not proper for a [court_musician.GetManWoman] to court a married woman!;;;;;;;;;;;Ñîáëàçíÿòü çàìóæíþþ æåíùèíó íåïðèñòîéíî äëÿ ìóæ÷èíû!;;x
+EVTOPTB105077;How dare you court my wife with this song!?;;;;;;;;;;;Êàê òû ñìååøü ñîáëàçíÿòü ìîþ æåíó ýòèìè ïåñíÿìè?!;;x
+EVTOPTB105078;Both [From.GetTitledFirstName] and [From.Spouse.GetTitledFirstName] appreciated my song;;;;;;;;;;;Îáà, [From.GetTitledFirstName] è [From.Spouse.GetTitledFirstName] îöåíèëè ìîè ïåñíè;;x
+EVTOPTB105100;The garden inspired me, present the poem to [Root.Liege.GetTitledFirstName];;;;;;;;;;;Ñàä âäîõíîâèë ìåíÿ, [Root.Liege.GetTitledFirstName] óñëûøèò ìîþ ïîýìó;;x
+EVTOPTB105101;Go away! What will my husband say?!;;;;;;;;;;;Óõîäèòå! ×òî ñêàæåò ìîé ìóæ?!;;x
+EVTOPTB105102;Did you try to seduce my wife with this!? Imprison him!;;;;;;;;;;;Òû ïûòàëñÿ ñîáëàçíèòü ìîþ æåíó ýòèì?! Â òåìíèöó åãî!;;x
+EVTOPTB105103;[From.GetTitledFirstName] even paid me for a copy!;;;;;;;;;;;[From.GetTitledFirstName] äàæå çàïëàòèë ìíå çà êîïèþ!;;x
+EVTOPTB105150;I dare not risk my position at [Root.Liege.GetTitledFirstName]'s court;;;;;;;;;;;ß íå îñìåëþñü ðèñêîâàòü ñâîèìè ïîçèöèÿìè ïðè äâîðå [Root.Liege.GetTitledFirstName];;x
+EVTOPTB105151;A night of stomach cramps convinced me of [From.GetTitledFirstName] guilt!;;;;;;;;;;;Íî÷ü ñïàçìîâ æåëóäêà óáåäèëà ìåíÿ â òîì, ÷òî [From.GetTitledFirstName] âèíîâåí!;;x
+EVTOPTB105152;[From.GetTitledFirstName] did not even get sick!;;;;;;;;;;;[From.GetTitledFirstName] äàæå íå çàáîëåë!;;x
+EVTOPTB105200;I need more time, there's probably more flaws I can find...;;;;;;;;;;;Ìíå íóæíî áîëüøå âðåìåíè, âîçìîæíî ÿ ñìîãó âûÿâèòü áîëüøå íåäîñòàòêîâ...;;x
+EVTOPTB105201;No, I don't want to waste money on this!;;;;;;;;;;;Íåò, ÿ íå ñòàíó òðàòèòü íà ýòî äåíüãè!;;x
+EVTOPTB105202;I got the money but now I want to keep it!;;;;;;;;;;;ß ïîëó÷èë äåíüãè, íî òåïåðü õî÷ó èõ îñòàâèòü!;;x
+EVTOPTB105203;Banish Chief Architect [From.GetTitledFirstName];;;;;;;;;;;Ãëàâíûé Àðõèòåêòîð [From.GetTitledFirstName] äîëæåí áûòü èçãíàí;;x
+EVTOPTB105204;Banishment!;;;;;;;;;;;Èçãíàíèå!;;x
+EVTOPTB105250;It is my job to keep my liege safe, I shouldn't try to become immune to poisons!;;;;;;;;;;;Áåçîïàñíîñòü ìîåãî ñþçåðåíà - ìîÿ ðàáîòà, ÿ íå äîëæåí ïûòàòüñÿ ñòàòü íåâîñïðèèì÷èâûì ê ÿäàì!;;x
+EVTOPTB105253;The poison did not even make [From.GetTitledFirstName] sick!;;;;;;;;;;;ßä íå ïðè÷èíèë [From.GetTitledFirstName]ó íèêàêîãî âðåäà!;;x
+EVTOPTC105002;I have changed my mind, I don't want the divorce!;;;;;;;;;;;ß ïåðåäóìàëà, ÿ íå õî÷ó ðàçâîäà!;;x
+EVTOPTC105010;One of [Root.Liege.GetTitledFirstName]'s vassals would be most suitable;;;;;;;;;;;Îäèí èç âàññàëîâ [Root.Liege.GetTitledFirstName] ïîäîéä¸ò ëó÷øå âñåãî;;x
+EVTOPTC105011;Yes, [From.GetTitledFirstName], you would be a perfect Chief Qadi!;;;;;;;;;;;Äà, [From.GetTitledFirstName], Âû áûëè áû ïðåêðàñíûì Ãëàâíûì Êàäèåì!;;x
+EVTOPTC105020;I know a vassal of [Root.Liege.GetTitledFirstName] who would be better;;;;;;;;;;;ß çíàþ îäíîãî èç âàññàëîâ ïðàâèòåëÿ [Root.Liege.GetTitledFirstName], êîòîðûé ïîäîø¸ë áû ëó÷øå;;x
+EVTOPTC105021;I agree, [target_suggested_qadi.GetFirstName] would make a better Chief Qadi;;;;;;;;;;;[target_suggested_qadi.GetFirstName] áóäåò ëó÷øèì Ãëàâíûì Êàäèåì;;x
+EVTOPTC105030;Do nothing, the drunkard may drink himself to death;;;;;;;;;;;Íè÷åãî íå äåëàòü. Ïóñòü ïüÿíèöà ñîïü¸òñÿ äî ñìåðòè;;x
+EVTOPTC105031;The wine will take the pain away...;;;;;;;;;;;Âèíî óòèõîìèðèò áîëü...;;x
+EVTOPTC105035;It is not for me to judge others;;;;;;;;;;;Îñóæäàòü äðóãèõ - ýòî íå äëÿ ìåíÿ;;x
+EVTOPTC105036;Don't come to me with rumors only!;;;;;;;;;;;Íå áåñïîêîéòå ìåíÿ èç-çà ïðîñòûõ ñëóõîâ!;;x
+EVTOPTC105037;Our love is sacred, no matter what the Qur'an says!;;;;;;;;;;;Íàøà ëþáîâü ñâÿùåííà, íåâàæíî, ÷òî íàïèñàíî â Êîðàíå!;;x
+EVTOPTC105038;I don't deny it and I refuse to do anything about it!;;;;;;;;;;;ß íå îòðèöàþ ýòîãî è íå áóäó íè÷åãî ñ ýòèì äåëàòü!;;x
+EVTOPTC105039;Chief Qadi [From.GetTitledFirstName] assured me the sinner would be punished;;;;;;;;;;;Ãëàâíûé Êàäèé, [From.GetTitledFirstName], óâåðÿåò ìåíÿ, ÷òî ãðåøíèê áóäåò íàêàçàí;;x
+EVTOPTC105041;I need no witnesses nor confessions, [From.GetTitledFirstName] will be punished!;;;;;;;;;;;Ìíå íå íóæíû íè ñâèäåòåëè, íè ïðèçíàíèå, [From.GetTitledFirstName] ïîëó÷èò íàêàçàíèå!;;x
+EVTOPTC105042;If you break your promise you will be doubly punished. Two hundred lashes!;;;;;;;;;;;Íàðóøèòå îáåùàíèå è áóäåòå íàêàçàíû âäâîéíå, 200 óäàðîâ ïëåòüìè!;;x
+EVTOPTC105044;I will never see my lover again, but Chief Qadi [From.GetTitledFirstName] decided not to punish me!;;;;;;;;;;;ß íèêîãäà íå óâèæó ìîåãî ëþáîâíèêà ñíîâà, íî âåðõîâíûé êàäè [From.GetTitledFirstName] ðåøèë íå íàêàçûâàòü ìåíÿ!;;x
+EVTOPTC105052;The designs are good, but [From.GetTitledFirstName] can do better;;;;;;;;;;;Ðîñïèñü õîðîøà, íî [From.GetTitledFirstName] ñóìåë áû ñäåëàòü ëó÷øå.;;x
+EVTOPTC105054;[From.GetSheHeCap] chided me for not taking this seriously!;;;;;;;;;;;[From.GetSheHeCap] óïðåêàåò ìåíÿ â íåñåðü¸çíîì îòíîøåíèè ê ðàáîòå!;;x
+EVTOPTC105055;[From.GetTitledFirstName] pointed out several flaws in the design, deeming it unworthy;;;;;;;;;;;[From.GetTitledFirstName] óêàçûâàåò ìíå íà ðÿä íåäîñòàòêîâ â ðîñïèñè, ñ÷èòàÿ å¸ íåäîñòîéíîé.;;x
+EVTOPTC105060;I shall sell this hilya and make a new one with the money;;;;;;;;;;;ß ïðîäàì ýòó õèëüÿ è ñäåëàþ íîâóþ íà âûðó÷åííûå äåíüãè.;;x
+EVTOPTC105061;Did I ask for this? I have hilyas much more intricate and beautiful than this!;;;;;;;;;;;Ðàçâå ÿ ïðîñèë îá ýòîì? Ó ìåíÿ åñòü õèëåè ãîðàçäî áîëåå ñëîæíûå è êðàñèâûå, ÷åì ýòà!;;x
+EVTOPTC105065;My dream will remain a dream...;;;;;;;;;;;Ìîÿ ìå÷òà îñòàíåòñÿ ìå÷òîé...;;x
+EVTOPTC105066;No, I won't help you. 'Golden Qur'an', absurd!;;;;;;;;;;;"Íåò, ÿ íå áóäó ïîìîãàòü Âàì. ""Çîëîòîé Êîðàí"", àáñóðä!";;x
+EVTOPTC105067;[From.GetTitledFirstName] refused to pay for 'something so foolish!';;;;;;;;;;;"[From.GetTitledFirstName] îòêàçûâàåòñÿ ïëàòèòü çà ""íå÷òî íàñòîëüêî ãëóïîå!""";;x
+EVTOPTC105068;Make Court Calligrapher [From.GetTitledFirstName] pay;;;;;;;;;;;Ïóñòü Ïðèäâîðíûé Êàëëèãðàô [From.GetTitledFirstName] çàïëàòèò.;;x
+EVTOPTC105069;...my wealth is taken from me!;;;;;;;;;;;...ëèø¸í ñâîåãî áîãàòñòâà!;;x
+EVTOPTC105075;I need more time before I can master this form;;;;;;;;;;;Ìíå ïîíàäîáèòñÿ áîëüøå âðåìåíè, ÷òîáû îâëàäåòü ìàñòåðñòâîì.;;x
+EVTOPTC105077;Play it just one more time, please?;;;;;;;;;;;Ñûãðàéòå åù¸ ðàç, ïîæàëóéñòà?;;x
+EVTOPTC105078;[From.GetTitledFirstName] did not appreciate me singing this song to his wife!;;;;;;;;;;;[From.GetTitledFirstName] íå îäîáðèë, ÷òî ÿ ïîþ ýòó ïåñíþ åãî æåíå!;;x
+EVTOPTC105100;No inspiration is to be had, the poem will remain unfinished...;;;;;;;;;;;ß íå ìîãó íàéòè âäîõíîâåíèå, ïîýìà îñòàíåòñÿ íåäîïèñàííîé...;;x
+EVTOPTC105102;This is the most beautiful poem I ever heard!;;;;;;;;;;;Ýòî ñàìàÿ ïðåêðàñíàÿ ïîýìà èç òåõ, ÷òî ÿ êîãäà-ëèáî ñëûøàë!;;x
+EVTOPTC105103;[From.GetTitledFirstName] did not appreciate me getting inspiration from [From.GetHerHis] wife...;;;;;;;;;;;[From.GetTitledFirstName] íå îöåíèë, ÷òî ÿ íàø¸ë âäîõíîâåíèå â åãî æåíå...;;x
+EVTOPTC105151;I am merciful when I imprison you, [From.GetTitledFirstName]! You should be dead!;;;;;;;;;;;[From.GetTitledFirstName], ÿ áûë ìèëîñåðäåí, êîãäà çàêëþ÷èë Âàñ â òþðüìó! Âû äîëæíû óìåðåòü!;;x
+EVTOPTC105152;The poison made [From.GetHerHim] insane at least...;;;;;;;;;;;Ïî êðàéíåé ìåðå ÿä ñäåëàë [From.GetHersHis] áåçóìöåì...;;x
+EVTOPTC105202;I can do so much, save so many buildings from imperfections!;;;;;;;;;;;ß ìîãó ñòîëüêî ñäåëàòü, ñïàñòè ñòîëüêî çäàíèé îò íåñîâåðøåíñòâà!;;x
+EVTOPTC105203;Make Chief Architect [From.GetTitledFirstName] pay;;;;;;;;;;;Ãëàâíûé Àðõèòåêòîð [From.GetTitledFirstName] äîëæåí çàïëàòèòü;;x
+EVTOPTC105204;My wealth... forfeited!;;;;;;;;;;;Ìîè áîãàòñòâà... êîíôèñêîâàíû!;;x
+EVTOPTC105253;I fear the poison made [From.GetTitledFirstName] mad;;;;;;;;;;;ß áîþñü, ÷òî ïîñëå îòðàâëåíèÿ [From.GetTitledFirstName] ñòàë áåçóìíûì;;x
+EVTOPTD105010;Surely [Root.Liege.GetTitledFirstName] already knows the best person for Chief Qadi;;;;;;;;;;;[Root.Liege.GetTitledFirstName] êîíå÷íî óæå çíàåò ëó÷øåãî êàíäèäàòà íà ïîñò Ãëàâíîãî Êàäèÿ;;x
+EVTOPTD105011;No, I will not grant you the title of Chief Qadi;;;;;;;;;;;Íåò, ÿ íå äàì Âàì äîëæíîñòü Ãëàâíîãî Êàäèÿ;;x
+EVTOPTD105020;Quench my anger and do nothing;;;;;;;;;;;Ñäåðæàòü ñâîé ãíåâ è íè÷åãî íå äåëàòü;;x
+EVTOPTD105031;Wine will never again touch my tongue!;;;;;;;;;;;Âèíî íèêîãäà áîëüøå íå êîñí¸òñÿ ìîèõ ãóá!;;x
+EVTOPTD105044;The wounds from the hundred lashes healed more quickly than I could fathom;;;;;;;;;;;Ðàíû îò ñòà óäàðîâ ïëåòüþ çàæèâàëè áûñòðåå, ÷åì ÿ ìîã ñåáå ïðåäñòàâèòü.;;x
+EVTOPTD105052;The designs are awful, but I cannot tell [From.GetTitledFirstName] that!;;;;;;;;;;;Ðîñïèñü ïðîñòî óæàñíà, íî ÿ íå õî÷ó, ÷òîáû [From.GetTitledFirstName] óñëûøàë ýòî!;;x
+EVTOPTD105054;[From.GetSheHeCap] was happy with the designs;;;;;;;;;;;[From.GetSheHeCap] îäîáðÿåò ðîñïèñè.;;x
+EVTOPTD105055;[From.GetTitledFirstName] agreed with me and praised [FromFrom.GetTitledFirstName];;;;;;;;;;;[From.GetTitledFirstName] ñîãëàøàåòñÿ ñî ìíîé è âîñõâàëÿåò [FromFrom.GetTitledFirstName].;;x
+EVTOPTD105068;Forgive Court Calligrapher [From.GetTitledFirstName], it's only money!;;;;;;;;;;;Ïðèäâîðíûé Êàëëèãðàô [From.GetTitledFirstName] ïðîù¸í, ýòî âñåãî ëèøü äåíüãè!;;x
+EVTOPTD105103;[From.GetTitledFirstName] was moved to tears by my poem;;;;;;;;;;;[From.GetTitledFirstName] áûë òðîíóò äî ñë¸ç ìîåé ïîýìîé;;x
+EVTOPTD105151;For Cupbearer is death! I mean, kill [From.GetHerHim]!;;;;;;;;;;;Âèíî÷åðïèé äîëæåí óìåðåòü! Â ñìûñëå, óáåéòå [From.GetHersHis]!;;x
+EVTOPTD105203;I'm sure [From.GetTitledFirstName] did [From.GetHerHis] best to stop it from happening;;;;;;;;;;;[From.GetTitledFirstName] ñäåëàë âñ¸ âîçìîæíîå, ÷òîáû ýòî ïðåäîòâðàòèòü;;x
+EVTOPTD105251;For Foodtaster is death! I mean, kill [From.GetHerHim]!;;;;;;;;;;;Ñìåðòü äåãóñòàòîðó! Òî åñòü, óáåéòå [From.GetHersHis]!;;x
+EVTOPTE105011;I agree, he would make an excellent Chief Qadi;;;;;;;;;;;ß ñîãëàñ[Root.GetNaEn], îí ñòàíåò Ãëàâíûì Êàäèåì;;x
+EVTOPTE105021;This vassal of mine would make a better Chief Qadi;;;;;;;;;;;Ìîé âàññàë áûë áû ëó÷øèì Ãëàâíûì Êàäèåì;;x
+EVTOPTE105151;For your treason you will die!;;;;;;;;;;;Òû óìð¸øü çà ñâî¸ ïðåäàòåëüñòâî!;;x
+EVTOPTF105011;No, he will not become Chief Qadi;;;;;;;;;;;Íåò, îí íå ñòàíåò Ãëàâíûì Êàäèåì;;x
+EVTOPTF105151;I would kill you myself if I had the strength!;;;;;;;;;;;ß áû óáèë òåáÿ ñàì, åñëè áû ó ìåíÿ áûëè ñèëû!;;x
+EVTTOOLTIP105001;[Root.GetTitledFirstName] asks the Chief Qadi [This.GetTitledFirstName] for a divorce;;;;;;;;;;;[Root.GetTitledFirstName] ïðîñèò Ãëàâíîãî Êàäèÿ [This.GetTitledFirstName] î ðàçâîäå;;x
+EVTTOOLTIP105002;[Root.GetTitledFirstName] grants [This.GetTitledFirstName] her desired divorce;;;;;;;;;;;[Root.GetTitledFirstName] ïðåäîñòàâëÿåò æåíå ñ èìåíåì [This.GetFirstName] å¸ æåëàííûé ðàçâîä;;x
+EVTTOOLTIP105003;[Root.GetTitledFirstName] denies [This.GetTitledFirstName] the divorce;;;;;;;;;;;[Root.GetTitledFirstName] îòêàçûâàåò æåíå ñ èìåíåì [This.GetFirstName] â ðàçâîäå;;x
+EVTTOOLTIP105006;[Root.GetTitledFirstName] tries to stop [This.GetTitledFirstName] from getting the divorce;;;;;;;;;;;[Root.GetTitledFirstName] ïûòàåòñÿ óäåðæàòü ñóïðóãó ([This.GetTitledFirstName]) îò ïîëó÷åíèÿ ðàçâîäà;;x
+EVTTOOLTIP105011;[Root.GetTitledFirstName] suggests a suitable person for the post of Chief Qadi;;;;;;;;;;;[Root.GetTitledFirstName] ïðåäëàãàåò ïîäõîäÿùåãî ÷åëîâåêà íà ïîñò Ãëàâíîãî Êàäèÿ;;x
+EVTTOOLTIP105012;[Root.GetTitledFirstName] accepts [This.GetTitledFirstName] as [Root.GetHerHis] new Chief Qadi;;;;;;;;;;;[Root.GetTitledFirstName] ñ÷èòàåò, ÷òî [This.GetTitledFirstName] ñòàíåò íîâûì Ãëàâíûì Êàäèåì;;x
+EVTTOOLTIP105021;[Root.GetTitledFirstName] suggests a more suitable person for the post of Chief Qadi;;;;;;;;;;;[Root.GetTitledFirstName] ïðåäëàãàåò áîëåå ïîäõîäÿùåãî ÷åëîâåêà íà ïîñò Ãëàâíîãî Êàäèÿ;;x
+EVTTOOLTIP105022;The new Chief Qadi is [This.GetTitledFirstName];;;;;;;;;;;[This.GetTitledFirstName] ñòàíåò íîâûì Ãëàâíûì Êàäèåì;;x
+EVTTOOLTIP105023;[This.GetTitledFirstName] is disappointed [Root.GetTitledFirstName] did not follow [This.GetHerHis] recommendation for Chief Qadi;;;;;;;;;;;â ðàçî÷àðîâàíèè îò òîãî, ÷òî [Root.GetTitledFirstName] íå ñëåäóåò [This.GetHersHis] ðåêîìåíäàöèÿì îòíîñèòåëüíî Ãëàâíîãî Êàäèÿ;;x
+EVTTOOLTIP105025;The former Chief Qadi, [This.GetTitledFirstName], is dismissed from the position;;;;;;;;;;;[This.GetTitledFirstName], áûâøèé Ãëàâíûé Êàäèé, îòñòðàí¸í îò äîëæíîñòè;;x
+EVTTOOLTIP105031;[This.GetTitledFirstName] is lashed eighty times by Chief Qadi [Root.GetTitledFirstName];;;;;;;;;;;áûë ïðèãîâîð¸í ê âîñüìèäåñÿòè óäàðàì ïëåòåé Ãëàâíûì Êàäèåì;;x
+EVTTOOLTIP105032;The drunkard [This.GetTitledFirstName] is saved from the eighty lashes by [Root.GetTitledFirstName];;;;;;;;;;;[Root.GetTitledFirstName] ñïàñ îò ïîðêè ïüÿíèöó [This.GetTitledFirstName];;x
+EVTTOOLTIP105036;The Chief Qadi [This.GetTitledFirstName] hears about the man having a lover and committing zina;;;;;;;;;;;Ãëàâíûé Êàäèé [This.GetTitledFirstName] óñëûøàë î ÷åëîâåêå, èìåþùåì ëþáîâíèöó è ñîâåðøèâøåì çèíà;;x
+EVTTOOLTIP105037;[Root.GetTitledFirstName] confronts [This.GetTitledFirstName] about sinning and committing zina;;;;;;;;;;;[Root.GetTitledFirstName] è [This.GetTitledFirstName] áåñåäóþò äðóã ñ äðóãîì ïî ïîâîäó ïðåãðåøåíèé è ñîâåðøåíèÿ çèíà;;x
+EVTTOOLTIP105038;[This.GetTitledFirstName] is accused of committing zina and confronted by Chief Qadi [Root.GetTitledFirstName];;;;;;;;;;;îáâèíÿåòñÿ â ñîâåðøåíèè çèíà è äîïðàøèâàåòñÿ Ãëàâíûì Êàäèåì;;x
+EVTTOOLTIP105039;Chief Qadi [Root.GetTitledFirstName] dismisses [This.GetTitledFirstName] accusations;;;;;;;;;;;Ãëàâíûé Êàäèé [Root.GetTitledFirstName] ðåøàåò, ÷òî [This.GetTitledFirstName] íåâèíîâåí;;x
+EVTTOOLTIP105042;[This.GetTitledFirstName] believes that when [This.GetSheHe] sees that it is true;;;;;;;;;;;ïîâåðèò â ýòî, êîãäà [This.GetSheHe] óâèäèò, ÷òî ýòî ïðàâäà;;x
+EVTTOOLTIP105043;[This.GetTitledFirstName] will find a proper punishment for [Root.GetTitledFirstName]'s sins;;;;;;;;;;;íàéä¸ò ïîäõîäÿùåå íàêàçàíèå çà ãðåõè, êîòîðûå ñîâåðøèë [Root.GetTitledFirstName];;x
+EVTTOOLTIP105051;Court Calligrapher [This.GetTitledFirstName] is asked to create designs for the decoration of the new Mosque;;;;;;;;;;;Ïðèäâîðíûé Êàëëèãðàô [This.GetTitledFirstName] ïîëó÷èò ïðîñüáó ðàñïèñàòü íîâóþ Ìå÷åòü.;;x
+EVTTOOLTIP105076;Court Musician [Root.GetTitledFirstName]'s new song is dedicated to [Root.GetHerHis] liege's wife [Root.Liege.Spouse.GetTitledFirstName];;;;;;;;;;;Ïðèäâîðíûé Ìóçûêàíò [Root.GetTitledFirstName] ïîñâÿòèò íîâóþ ïåñíþ [Root.Liege.Spouse.GetHusbandWifeDAT] [Root.Liege.GetHersHis] [Root.Liege.GetLordLadyGEN] è íàçîâ¸ò å¸ [Root.Liege.Spouse.GetFirstName], â ÷åñòü í[Root.Liege.Spouse.GetHersHis].;;x
+EVTTOOLTIP105077;[Root.GetTitledFirstName]'s husband [This.GetTitledFirstName] hears about the Court Musician courting [Root.GetHerHis] wife;;;;;;;;;;;[This.GetTitledFirstName], ìóæ ïåðñîíàæà [Root.GetTitledFirstName], óñëûøàë îá óõàæèâàíèÿõ ïðèäâîðíîãî ìóçûêàíòà çà åãî æåíîé;;x
+EVTTOOLTIP105078;[Root.GetTitledFirstName]'s appreciation of [This.GetTitledFirstName]'s song gladdens [This.GetTitledFirstName];;;;;;;;;;;[This.GetTitledFirstName] ðàä[This.GetEndA], ÷òî [Root.GetTitledFirstName] öåíèò [This.GetHersHis] ïåñíè;;x
+EVTTOOLTIP105079;Court Musician [This.GetTitledFirstName]'s song is appreciated by [Root.GetTitledFirstName];;;;;;;;;;;[Root.GetTitledFirstName] öåíèò ïåñíè ïðèäâîðíîãî ìóçûêàíòà [This.GetTitledFirstName];;x
+EVTTOOLTIP105101;Court Musician [Root.GetTitledFirstName] inspiration is awakened by [This.GetTitledFirstName];;;;;;;;;;;Ïðèäâîðíûé ìóçûêàíò [Root.GetTitledFirstName] íàø¸ë ñâî¸ âäîõíîâåíèå â [This.GetTitledFirstName];;x
+EVTTOOLTIP105103;[Root.GetTitledFirstName] has nothing but kind words for Court Poet [This.GetTitledFirstName]'s poetry;;;;;;;;;;;[Root.GetTitledFirstName] ìîæåò ñêàçàòü òîëüêî õîðîøåå î ïðîèçâåäåíèÿõ ïðèäâîðíîãî ïîýòà [This.GetTitledFirstName];;x
+EVTTOOLTIP105151;The poison was discovered before any damage was done;;;;;;;;;;;ßä îáíàðóæèëè äî òîãî, êàê îí ñìîã ïðè÷èíèòü êàêîé-ëèáî âðåä;;x
+EVTTOOLTIP105201;Chief Architect [Root.GetTitledFirstName]'s suggests several changes in the building plans for [This.GetTitledFirstName];;;;;;;;;;;Ãëàâíûé Àðõèòåêòîð [Root.GetTitledFirstName] ïðåäëàãàåò íåñêîëüêî èçìåíåíèé â ïëàíû ïîñòðîåê äëÿ [This.GetTitledFirstName];;x
+EVTTOOLTIP105251;[Root.GetTitledFirstName] finds out about ;;;;;;;;;;;[Root.GetTitledFirstName] óçíàåò îá ýòîì;;x
+EVTTOOLTIPA105007;[Root.GetTitledFirstName] will not change her mind about the divorce;;;;;;;;;;;[Root.GetTitledFirstName] íå èçìåíèò ñâîåãî ðåøåíèÿ î ðàçâîäå;;x
+EVTTOOLTIPA105013;[Root.GetTitledFirstName] dismisses [This.GetTitledFirstName]'s candidate;;;;;;;;;;;[Root.GetTitledFirstName] îòâåðãíåò êàíäèäàòóðó, êîòîðóþ ïðåäëîæèë[This.GetEndA] [This.GetTitledFirstName];;x
+EVTTOOLTIPA105014;[This.GetTitledFirstName] is granted the title of Chief Qadi;;;;;;;;;;;ïîëó÷èò äîëæíîñòü Ãëàâíîãî Êàäèÿ;;x
+EVTTOOLTIPA105040;The money from [Root.GetTitledFirstName] quiets [This.GetTitledFirstName];;;;;;;;;;;[This.GetTitledFirstName] çàìîëêàåò, ïîëó÷èâ äåíüãè îò ïåðñîíàæà [Root.GetTitledFirstName];;x
+EVTTOOLTIPA105041;[This.GetTitledFirstName] is convinced of [Root.GetTitledFirstName] innocence;;;;;;;;;;;óáåæä¸í, ÷òî [Root.GetTitledFirstName] íåâèíîâåí;;x
+EVTTOOLTIPA105044;[Root.GetTitledFirstName]'s belief that [This.GetTitledFirstName] is innocent gladdens [This.GetHerHis] heart;;;;;;;;;;;[Root.GetTitledFirstName] âåðèò, ÷òî [This.GetTitledFirstName] íåâèíîâåí, ýòî ðàäóåò [This.GetHersHis] ñåðäöå;;x
+EVTTOOLTIPA105052;The calligraphy Quranic verses is much appreciated by [This.GetTitledFirstName];;;;;;;;;;;[This.GetTitledFirstName] âûñîêî îöåíèâàåò êàëëèãðàôèþ êîðàíè÷åñêèõ ñòèõîâ.;;x
+EVTTOOLTIPA105054;The work of Court Calligrapher [This.GetTitledFirstName] is praised by [Root.GetTitledFirstName];;;;;;;;;;;[Root.GetTitledFirstName] âîñõâàëÿåò ðàáîòó, êîòîðóþ ñîâåðøèë Ïðèäâîðíûé Êàëëèãðàô [This.GetTitledFirstName].;;x
+EVTTOOLTIPA105055;The excellence of the Court Calligrapher reaches [This.GetTitledFirstName] ears;;;;;;;;;;; [This.GetTitledFirstName] ñëûøèò î òîì, êàê âûñîêî îöåíèâàþò [From.GetHersHis] ìàñòåðñòâî.;;x
+EVTTOOLTIPA105061;The Caliph [This.GetTitledFirstName] is most pleased with the hilya;;;;;;;;;;;[This.GetTitledFirstName] âûðàæàåò âîñõèùåíèå õèëüÿ.;;x
+EVTTOOLTIPA105066;The materials for the 'Golden Qur'an' might be paid for by [This.GetTitledFirstName];;;;;;;;;;;Ìàòåðèàëû äëÿ Çîëîòîãî Êîðàíà ìîæåò îïëàòèòü [This.GetTitledFirstName];;x
+EVTTOOLTIPA105067;[Root.GetTitledFirstName] will help [This.GetTitledFirstName] by paying for materials for the Golden Qur'an;;;;;;;;;;;[Root.GetTitledFirstName] îêàæåò ïîìîùü, êîòîðóþ ïðîñèò [This.GetTitledFirstName], çàïëàòèâ çà ìàòåðèàëû Çîëîòîãî Êîðàíà.;;x
+EVTTOOLTIPA105077;Court Musician [Root.GetTitledFirstName] sings [Root.GetHerHis] new song for [This.GetTitledFirstName];;;;;;;;;;;Ïðèäâîðíûé Ìóçûêàíò [Root.GetTitledFirstName] ñïî¸ò íîâóþ ïåñíþ äëÿ ñâîe[This.GetYGo] [This.GetLordLadyGEN].;;x
+EVTTOOLTIPA105102;Court Musician [Root.GetTitledFirstName] inspiration is awakened by [Root.GetHerHis] liege [This.GetTitledFirstName]'s garden;;;;;;;;;;;Ïðèäâîðíûé ìóçûêàíò [Root.GetTitledFirstName] íàø¸ë ñâî¸ âäîõíîâåíèå â ñàäó [From.GetHersHis] åãî ñþçåðåíà;;x
+EVTTOOLTIPA105152;Cupbearer [This.GetTitledFirstName] is imprisoned by the lunatic [Root.GetTitledFirstName];;;;;;;;;;;Âèíî÷åðïèé [This.GetTitledFirstName] çàêëþ÷¸í â òþðüìó íåâìåíÿåìûì [Root.GetTitledFirstName];;x
+EVTTOOLTIPA105202;Chief Architect [This.GetTitledFirstName] is given the money needed to correct flaws in the buildings;;;;;;;;;;;Ãëàâíûé Àðõèòåêòîð [This.GetTitledFirstName] ïîëó÷àåò äåíüãè, íåîáõîäèìûå äëÿ óñòðàíåíèÿ íåäîñòàòêîâ â çäàíèÿõ;;x
+EVTTOOLTIPA105253;Food Taster [This.GetTitledFirstName] is imprisoned by the lunatic [Root.GetTitledFirstName];;;;;;;;;;;Äåãóñòàòîð [This.GetTitledFirstName] áðîøåí â òþðüìó áåçóìíîãî [Root.GetTitledFirstName];;x
+EVTTOOLTIPB105007;[Root.GetTitledFirstName] decides to stay with [This.GetTitledFirstName];;;;;;;;;;;[Root.GetTitledFirstName] ðåøàåò îñòàòüñÿ ñ ìóæåì ([This.GetTitledFirstName]);;x
+EVTTOOLTIPB105013;The new Chief Qadi, [Root.GetTitledFirstName], thanks [This.GetTitledFirstName];;;;;;;;;;;Íîâûé Ãëàâíûé Êàäèé, [Root.GetTitledFirstName], áëàãîäàðèò [This.GetTitledFirstName];;x
+EVTTOOLTIPB105014;[Root.GetTitledFirstName] refuses to make [This.GetTitledFirstName] Chief Qadi;;;;;;;;;;;[Root.GetTitledFirstName] îòêàæåò ïðåòåíäåíòó [This.GetTitledFirstName] â äîëæíîñòè Ãëàâíîãî Êàäèÿ;;x
+EVTTOOLTIPB105040;[Root.GetTitledFirstName]'s promise convinces [This.GetTitledFirstName];;;;;;;;;;;[Root.GetTitledFirstName] äà¸ò ñëîâî è [This.GetTitledFirstName] óñïîêàèâàåòñÿ;;x
+EVTTOOLTIPB105041;[Root.GetTitledFirstName] denying the rumors being true only strengthens the Chief Qadi [This.GetTitledFirstName] suspicions;;;;;;;;;;;[Root.GetTitledFirstName] îòðèöàÿ ñëóõè, ëèøü óñèëèâàåò ïîäîçðåíèÿ Ãëàâíîãî Êàäèÿ;;x
+EVTTOOLTIPB105044;Chief Qadi [Root.GetTitledFirstName] doubts [This.GetTitledFirstName] innocence but can do nothing;;;;;;;;;;;Âåðõîâíûé êàäè [Root.GetTitledFirstName] ñîìíåâàåòñÿ, ÷òî [This.GetTitledFirstName] íåâèíîâåí, íî íè÷åãî íå ìîæåò ñäåëàòü;;x
+EVTTOOLTIPB105052;Despite [Root.GetTitledFirstName] hard work with the calligraphy Quranic verses, the designs and effort is not appreciated by [This.GetTitledFirstName];;;;;;;;;;;Íåñìîòðÿ íà òî, ÷òî [Root.GetTitledFirstName] òÿæåëî ðàáîòàë íàä êàëëèãðàôèåé êîðàíè÷åñêèõ ñòèõîâ, [This.GetTitledFirstName] íå îöåíèâàåò ðîñïèñü è ïðèëîæåííûå óñèëèÿ ïî äîñòîèíñòâó.;;x
+EVTTOOLTIPB105053;The Court Calligrapher [Root.GetTitledFirstName]'s refusal is most disappointing to [This.GetTitledFirstName];;;;;;;;;;;Îòêàç, êîòîðûì îòâå÷àåò Ïðèäâîðíûé Êàëëèãðàô [Root.GetTitledFirstName] — íàèáîëüøåå ðàçî÷àðîâàíèå, êîòîðîå èñïûòûâàåò [This.GetTitledFirstName].;;x
+EVTTOOLTIPB105054;[Root.GetTitledFirstName] tells the Court Calligrapher [This.GetTitledFirstName] how terrible the designs are;;;;;;;;;;;[Root.GetTitledFirstName] ãîâîðèò Ïðèäâîðíîìó Êàëëèãðàôó [This.GetTitledFirstName] íàñêîëüêî ðîñïèñü óæàñíà.;;x
+EVTTOOLTIPB105055;The pitiful designs has even reached the eyes of [This.GetTitledFirstName];;;;;;;;;;;Íè÷òîæíîñòü ðîñïèñè çàìå÷àåò äàæå [This.GetTitledFirstName].;;x
+EVTTOOLTIPB105061;[Root.GetTitledFirstName]'s liege [Root.Liege.GetTitledFirstName] is most pleased;;;;;;;;;;;[Root.Liege.GetTitledFirstName], ÷üèì âàññàëîì ÿâëÿåòñÿ [Root.GetTitledFirstName], âûñêàçûâàåò ðàäîñòü.;;x
+EVTTOOLTIPB105066;[Root.GetTitledFirstName] ask [This.GetTitledFirstName] to help pay for the materials for the 'Golden Qur'an';;;;;;;;;;;"[Root.GetTitledFirstName] ïðîñèò [This.GetTitledFirstName], ïîìî÷ü îïëàòèòü ìàòåðèàëû äëÿ ""Çîëîòîãî Êîðàíà"".";;x
+EVTTOOLTIPB105067;[Root.GetTitledFirstName] refusal to help pay for the Golden Qur'an disappoints [This.GetTitledFirstName];;;;;;;;;;;[This.GetTitledFirstName] ðàçî÷àðîâûâàåòñÿ òåì, ÷òî [Root.GetTitledFirstName] îòêàçûâàåòñÿ ïîìî÷ü îïëàòèòü Çîëîòîé Êîðàí.;;x
+EVTTOOLTIPB105078;[Root.GetTitledFirstName] and [Root.Spouse.GetTitledFirstName] both appreciated Court Musician [This.GetTitledFirstName]'s song;;;;;;;;;;;[Root.GetTitledFirstName] è [Root.Spouse.GetTitledFirstName] îáà îöåíèëè ïåñíè, êîòîðûå èñïîëíÿë ïðèäâîðíûé ìóçûêàíò [This.GetTitledFirstName];;x
+EVTTOOLTIPB105102;[Root.GetTitledFirstName] is mortified and tells [Root.GetHerHis] husband [This.GetTitledFirstName] about the Court Poet's poetry;;;;;;;;;;;[Root.GetTitledFirstName] îáèæåíà è ðàññêàçûâàåò ñâîåìó ìóæó î ñòèõàõ ïðèäâîðíîãî ïîýòà;;x
+EVTTOOLTIPB105103;[Root.GetTitledFirstName] appreciated the poem, although it did not rhyme;;;;;;;;;;;[Root.GetTitledFirstName] îöåíèë ïîýìó, õîòÿ îíà è íå ðèôìîâàíà;;x
+EVTTOOLTIPB105152;The poison caused nothing more than stomach cramps, Cupbearer [This.GetTitledFirstName] is imprisoned;;;;;;;;;;;ßä ñòàë ïðè÷èíîé ëèøü ñïàçìîâ æåëóäêà, âèíî÷åðïèé [This.GetTitledFirstName] áðîøåí â òþðüìó;;x
+EVTTOOLTIPB105202;[Root.GetTitledFirstName] has no desire to waste money on the buildings;;;;;;;;;;;[Root.GetTitledFirstName] íå èìååò íå ìàëåéøåãî æåëàíèÿ òðàòèòü äåíüãè íà çäàíèÿ;;x
+EVTTOOLTIPB105253;The poison caused nothing more than stomach cramps, Food Taster [This.GetTitledFirstName] is imprisoned;;;;;;;;;;;ßä âûçâàë òîëüêî æåëóäî÷íûå êîëèêè, äåãóñòàòîð [This.GetTitledFirstName] áðîøåí â òþðüìó;;x
+EVTTOOLTIPC105040;[This.GetTitledFirstName] might go to the Chief Qadi with the matter;;;;;;;;;;;ìîæåò ïîéòè ñ äåëîì ê Ãëàâíîìó Êàäèþ;;x
+EVTTOOLTIPC105044;The punishment for committing zina is stoning, but the Chief Qadi is satisfied with one hundred lashes;;;;;;;;;;;Ñîâåðøèâøèé çèíà íàêàçûâàåòñÿ çàáðàñûâàíèåì êàìíÿìè, íî âåðõîâíûé êàäè áóäåò óäîâëåòâîð¸í è ñòà óäàðàìè ïëåòüþ;;x
+EVTTOOLTIPC105078;Court Musician [This.GetTitledFirstName] is imprisoned for courting [Root.Spouse.GetTitledFirstName] with a song;;;;;;;;;;;Ïðèäâîðíûé ìóçûêàíò [This.GetTitledFirstName] çàêëþ÷¸í â òþðüìó çà óõàæèâàíèÿ çà [Root.Spouse.GetTitledFirstName];;x
+EVTTOOLTIPC105103;[Root.GetTitledFirstName] imprisons Court Poet [This.GetTitledFirstName];;;;;;;;;;;[Root.GetTitledFirstName] çàêëþ÷èë â òþðüìó ïðèäâîðíîãî ïîýòà [This.GetTitledFirstName];;x
+EVTTOOLTIPC105152;[Root.GetTitledFirstName]'s imprisons Cupbearer [This.GetTitledFirstName] but would rather see [This.GetHerHim] dead;;;;;;;;;;;[Root.GetTitledFirstName] õîòü è çàêëþ÷èë âèíî÷åðïèÿ ([This.GetTitledFirstName]) â òþðüìó, íî õîòåë áû âèäåòü [This.GetHersHis] ì¸ðòâûì;;x
+EVTTOOLTIPC105253;[Root.GetTitledFirstName]'s imprisons Food Taster [This.GetTitledFirstName] but would rather see [This.GetHerHim] dead;;;;;;;;;;;[Root.GetTitledFirstName] áðîñàåò äåãóñòàòîðà [This.GetTitledFirstName] â òþðüìó, íî ïðåäïî÷åë áû óâèäåòü [This.GetHerHim] ñìåðòü;;x
+EVTTOOLTIPD105044;The merciful Chief Qadi [Root.GetTitledFirstName] decides to trust [This.GetTitledFirstName]'s word;;;;;;;;;;;Ìèëîñåðäíûé âåðõîâíûé Êàäè [Root.GetTitledFirstName] ðåøàåò äîâåðèòüñÿ òîìó, ÷òî ãîâîðèò [This.GetTitledFirstName];;x
+EVTTOOLTIPE105044;The Chief Qadi does not know what to do, [This.GetTitledFirstName] escapes punishment;;;;;;;;;;;Âåðõîâíûé êàäè íå çíàåò, ÷òî äåëàòü, [This.GetTitledFirstName] èçáåãàåò íàêàçàíèÿ;;x
+EVTOPTA105040;My greed got the better of me and I promised to say nothing to no one;;;;;;;;;;;Ìîÿ æàäíîñòü âçÿëà ââåðõ íàäî ìíîé è ÿ áóäó õðàíèòü ìîë÷àíèå;;x
+EVTOPTB105040;I will tell Chief Qadi about this!;;;;;;;;;;;ß ðàññêàæó îá ýòîì Ãëàâíîìó Êàäèþ!;;x
+EVTOPTC105040;[From.GetTitledFirstName] ignored my threat! I will tell the Chief Qadi!;;;;;;;;;;;[From.GetTitledFirstName] ïðîèãíîðèðîâàë ìîè óãðîçû! ß ñêàæó âåðõîâíîìó êàäèþ!;;x
+EVTOPTD105040;The Chief Qadi would not believe me anyway;;;;;;;;;;;Âåðõîâíûé êàäè âñ¸ ðàâíî íå ïîâåðèò ìíå.;;x
+EVTOPTE105040;[From.GetTitledFirstName] promised to never see the woman again, but I will still tell the Chief Qadi;;;;;;;;;;;[From.GetTitledFirstName] îáåùàë, ÷òî áîëüøå íèêîãäà íå óâèäèò ýòó æåíùèíó, íî ÿ âñ¸ ðàâíî ñêàæó âåðõîâíîìó êàäèþ;;x
+EVTOPTF105040;[From.GetTitledFirstName] promise to never see the woman again is enough for me;;;;;;;;;;;[From.GetTitledFirstName] îáåùàë, ÷òî îí áîëüøå íèêîãäà íå óâèäèò ýòó æåíùèíó, ýòîãî âïîëíå äîñòàòî÷íî äëÿ ìåíÿ;;x

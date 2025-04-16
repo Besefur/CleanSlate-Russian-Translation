@@ -1,80 +1,75 @@
-EVTDESCA_ZE_14100;I have finished my education in diplomacy. I found the lessons rather tedious.;;;;;;;;;;;;;x
-EVTDESCA_ZE_14110;Young [From.GetFirstName] has finished [From.GetHerHis] education in diplomacy. It turned out less well than expected.;;;;;;;;;;;;;x
-EVTDESCA_ZE_14200;I have finished my education in the ways of war. I found the lessons rather tedious.;;;;;;;;;;;;;x
-EVTDESCA_ZE_14210;Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of war. It turned out less well than expected.;;;;;;;;;;;;;x
-EVTDESCA_ZE_14300;I have finished my education in stewardship. I found the lessons rather tedious.;;;;;;;;;;;;;x
-EVTDESCA_ZE_14310;Young [From.GetFirstName] has finished [From.GetHerHis] education in stewardship. It turned out less well than expected.;;;;;;;;;;;;;x
-EVTDESCA_ZE_14400;I have finished my education in the ways of intrigue. I found the lessons rather tedious.;;;;;;;;;;;;;x
-EVTDESCA_ZE_14410;Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of intrigue. It turned out less well than expected.;;;;;;;;;;;;;x
-EVTDESCA_ZE_14500;I have finished my education in the ways of faith and learning. I found the lessons rather tedious.;;;;;;;;;;;;;x
-EVTDESCA_ZE_14510;Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of faith and learning. It turned out less well than expected.;;;;;;;;;;;;;x
-EVTDESCA_ZE_14700;I have finished my education but without any clear purpose. I found some joy in studying diplomacy but without guidance I didn't do very well.;;;;;;;;;;;;;x
-EVTDESCA_ZE_14710;Young [From.GetFirstName] has finished [From.GetHerHis] education. With a complete lack of guidance [From.GetSheHe] still tried [From.GetHerHis] best to study diplomacy, unfortunately to no avail.;;;;;;;;;;;;;x
-
-EVTDESCB_ZE_14100;I have finished my education in diplomacy. It is a fascinating subject.;;;;;;;;;;;;;x
-EVTDESCB_ZE_14110;Young [From.GetFirstName] has finished [From.GetHerHis] education in diplomacy. It seems [From.GetSheHe] has learned all the basic skills required.;;;;;;;;;;;;;x
-EVTDESCB_ZE_14200;I have finished my education in the ways of war. It is a fascinating subject.;;;;;;;;;;;;;x
-EVTDESCB_ZE_14210;Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of war. It seems [From.GetSheHe] has learned all the basic skills required.;;;;;;;;;;;;;x
-EVTDESCB_ZE_14300;I have finished my education in stewardship. It is a fascinating subject.;;;;;;;;;;;;;x
-EVTDESCB_ZE_14310;Young [From.GetFirstName] has finished [From.GetHerHis] education in stewardship. It seems [From.GetSheHe] has learned all the basic skills required.;;;;;;;;;;;;;x
-EVTDESCB_ZE_14400;I have finished my education in the ways of intrigue. It is a fascinating subject.;;;;;;;;;;;;;x
-EVTDESCB_ZE_14410;Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of intrigue. It seems [From.GetSheHe] has learned all the basic skills required.;;;;;;;;;;;;;x
-EVTDESCB_ZE_14500;I have finished my education in the ways of faith and learning. It is a fascinating subject.;;;;;;;;;;;;;x
-EVTDESCB_ZE_14510;Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of faith and learning. It seems [From.GetSheHe] has learned all the basic skills required.;;;;;;;;;;;;;x
-EVTDESCB_ZE_14700;I have finished my education but without any clear purpose. I found some joy in studying military arts but without guidance I didn't do very well.;;;;;;;;;;;;;x
-EVTDESCB_ZE_14710;Young [From.GetFirstName] has finished [From.GetHerHis] education. With a complete lack of guidance [From.GetSheHe] still tried [From.GetHerHis] best to study military arts, unfortunately to no avail.;;;;;;;;;;;;;x
-EVTDESCC_ZE_14100;I have finished my education in diplomacy. I find that I have some talent for it.;;;;;;;;;;;;;x
-EVTDESCC_ZE_14110;Young [From.GetFirstName] has finished [From.GetHerHis] education in diplomacy. It is evident that [From.GetSheHe] has excelled in [From.GetHerHis] studies.;;;;;;;;;;;;;x
-EVTDESCC_ZE_14200;I have finished my education in the ways of war. I find that I have some talent for it.;;;;;;;;;;;;;x
-EVTDESCC_ZE_14210;Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of war. It is evident that [From.GetSheHe] has excelled in [From.GetHerHis] studies.;;;;;;;;;;;;;x
-EVTDESCC_ZE_14300;I have finished my education in stewardship. I find that I have some talent for it.;;;;;;;;;;;;;x
-EVTDESCC_ZE_14310;Young [From.GetFirstName] has finished [From.GetHerHis] education in stewardship. It is evident that [From.GetSheHe] has excelled in [From.GetHerHis] studies.;;;;;;;;;;;;;x
-EVTDESCC_ZE_14400;I have finished my education in the ways of intrigue. I find that I have some talent for it.;;;;;;;;;;;;;x
-EVTDESCC_ZE_14410;Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of intrigue. It is evident that [From.GetSheHe] has excelled in [From.GetHerHis] studies.;;;;;;;;;;;;;x
-EVTDESCC_ZE_14500;I have finished my education in the ways of faith and learning. I find that I have some talent for it.;;;;;;;;;;;;;x
-EVTDESCC_ZE_14510;Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of faith and learning. It is evident that [From.GetSheHe] has excelled in [From.GetHerHis] studies.;;;;;;;;;;;;;x
-EVTDESCC_ZE_14700;I have finished my education but without any clear purpose. I found some joy in studying stewardship but without guidance I didn't do very well.;;;;;;;;;;;;;x
-EVTDESCC_ZE_14710;Young [From.GetFirstName] has finished [From.GetHerHis] education. With a complete lack of guidance [From.GetSheHe] still tried [From.GetHerHis] best to study stewardship, unfortunately to no avail.;;;;;;;;;;;;;x
-EVTDESCD_ZE_14100;I have finished my education in diplomacy. I feel that I have truly found my calling.;;;;;;;;;;;;;x
-EVTDESCD_ZE_14110;Young [From.GetFirstName] has finished [From.GetHerHis] education in diplomacy. I notice with pride that [From.GetSheHe] has attained nothing less than a masterful level of knowledge.;;;;;;;;;;;;;x
-EVTDESCD_ZE_14200;I have finished my education in the ways of war. I feel that I have truly found my calling.;;;;;;;;;;;;;x
-EVTDESCD_ZE_14210;Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of war. I notice with pride that [From.GetSheHe] has attained nothing less than a masterful level of knowledge.;;;;;;;;;;;;;x
-EVTDESCD_ZE_14300;I have finished my education in stewardship. I feel that I have truly found my calling.;;;;;;;;;;;;;x
-EVTDESCD_ZE_14310;Young [From.GetFirstName] has finished [From.GetHerHis] education in stewardship. I notice with pride that [From.GetSheHe] has attained nothing less than a masterful level of knowledge.;;;;;;;;;;;;;x
-EVTDESCD_ZE_14400;I have finished my education in the ways of intrigue. I feel that I have truly found my calling.;;;;;;;;;;;;;x
-EVTDESCD_ZE_14410;Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of intrigue. I notice with pride that [From.GetSheHe] has attained nothing less than a masterful level of knowledge.;;;;;;;;;;;;;x
-EVTDESCD_ZE_14500;I have finished my education in the ways of faith and learning. I feel that I have truly found my calling.;;;;;;;;;;;;;x
-EVTDESCD_ZE_14510;Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of faith and learning. I notice with pride that [From.GetSheHe] has attained nothing less than a masterful level of knowledge.;;;;;;;;;;;;;x
-EVTDESCD_ZE_14700;I have finished my education but without any clear purpose. I found some joy in studying intrigue but without guidance I didn't do very well.;;;;;;;;;;;;;x
-EVTDESCD_ZE_14710;Young [From.GetFirstName] has finished [From.GetHerHis] education. With a complete lack of guidance [From.GetSheHe] still tried [From.GetHerHis] best to study intrigue, unfortunately to no avail.;;;;;;;;;;;;;x
-EVTDESCE_ZE_14700;I have finished my education but without any clear purpose. I found some joy in studying learning but without guidance I didn't do very well.;;;;;;;;;;;;;x
-EVTDESCE_ZE_14710;Young [From.GetFirstName] has finished [From.GetHerHis] education. With a complete lack of guidance [From.GetSheHe] still tried [From.GetHerHis] best to study learning, unfortunately to no avail.;;;;;;;;;;;;;x
-
-EVTOPTA_ZE_14100;Speak frankly and all will love you.;;;;;;;;;;;;;x
-EVTOPTA_ZE_14110;Oh well.;;;;;;;;;;;;;x
-EVTOPTA_ZE_14200;Courage is all a soldier needs.;;;;;;;;;;;;;x
-EVTOPTA_ZE_14300;How hard can it be?;;;;;;;;;;;;;x
-EVTOPTA_ZE_14400;Intrigue must be conducted with honor.;;;;;;;;;;;;;x
-EVTOPTA_ZE_14500;Learning is dull but important.;;;;;;;;;;;;;x
-EVTOPTA_ZE_14700;No one told me it was important.;;;;;;;;;;;;;x
-EVTOPTA_ZE_14710;I have failed [From.GetHerHim].;;;;;;;;;;;;;x
-
-EVTOPTB_ZE_14100;Never hate your enemies. It affects your judgment.;;;;;;;;;;;;;x
-EVTOPTB_ZE_14110;Very good.;;;;;;;;;;;;;x
-EVTOPTB_ZE_14200;Know your enemy.;;;;;;;;;;;;;x
-EVTOPTB_ZE_14300;A coin saved is a coin earned.;;;;;;;;;;;;;x
-EVTOPTB_ZE_14400;Never interrupt your enemy when [Root.GetSheHe] is making a mistake.;;;;;;;;;;;;;x
-EVTOPTB_ZE_14500;The world is a book.;;;;;;;;;;;;;x
-
-EVTOPTC_ZE_14100;Speak softly and carry a big stick.;;;;;;;;;;;;;x
-EVTOPTC_ZE_14110;This pleases me.;;;;;;;;;;;;;x
-EVTOPTC_ZE_14200;It is wise to attack the enemy's strategy.;;;;;;;;;;;;;x
-EVTOPTC_ZE_14300;Accumulate! Accumulate!;;;;;;;;;;;;;x
-EVTOPTC_ZE_14400;To subdue the enemy without fighting is supreme.;;;;;;;;;;;;;x
-EVTOPTC_ZE_14500;Learning never exhausts the mind.;;;;;;;;;;;;;x
-
-EVTOPTD_ZE_14100;The best way to keep one's word is to not give it.;;;;;;;;;;;;;x
-EVTOPTD_ZE_14200;War is a continuation of politics.;;;;;;;;;;;;;x
-EVTOPTD_ZE_14300;Wealth is the slave of a wise man, and the master of a fool.;;;;;;;;;;;;;x
-EVTOPTD_ZE_14400;Events which can not be prevented must be directed.;;;;;;;;;;;;;x
-EVTOPTD_ZE_14500;A room without books is like a body without a soul.;;;;;;;;;;;;;x
+EVTDESCA_ZE_14100;I have finished my education in diplomacy. I found the lessons rather tedious.;;;;;;;;;;;ß òîëüêî ÷òî çàêîí÷èë[Root.GetEndA] ñâî¸ äèïëîìàòè÷åñêîå îáðàçîâàíèå. Îòìå÷ó, ÷òî çàíÿòèÿ áûëè âåñüìà óòîìèòåëüíû.;;x
+EVTDESCA_ZE_14110;Young [From.GetFirstName] has finished [From.GetHerHis] education in diplomacy. It turned out less well than expected.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] òîëüêî ÷òî ïîëó÷èë[From.GetEndA] äèïëîìàòè÷åñêîå îáðàçîâàíèå. Íî [From.GetHersHis] óñïåõè áûëè íå ñëèøêîì âïå÷àòëÿþùèìè.;;x
+EVTDESCA_ZE_14200;I have finished my education in the ways of war. I found the lessons rather tedious.;;;;;;;;;;;ß òîëüêî ÷òî çàêîí÷èë[Root.GetEndA] ñâî¸ âîåííîå îáðàçîâàíèå. Îòìå÷ó, ÷òî çàíÿòèÿ áûëè âåñüìà óòîìèòåëüíû.;;x
+EVTDESCA_ZE_14210;Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of war. It turned out less well than expected.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] òîëüêî ÷òî ïîëó÷èë[From.GetEndA] âîåííîå îáðàçîâàíèå. Íî [From.GetHersHis] óñïåõè áûëè íå ñëèøêîì âïå÷àòëÿþùèìè.;;x
+EVTDESCA_ZE_14300;I have finished my education in stewardship. I found the lessons rather tedious.;;;;;;;;;;;ß òîëüêî ÷òî çàêîí÷èë[Root.GetEndA] ñâî¸ ýêîíîìè÷åñêîå îáðàçîâàíèå. Îòìå÷ó, ÷òî çàíÿòèÿ áûëè âåñüìà óòîìèòåëüíû.;;x
+EVTDESCA_ZE_14310;Young [From.GetFirstName] has finished [From.GetHerHis] education in stewardship. It turned out less well than expected.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] òîëüêî ÷òî ïîëó÷èë[From.GetEndA] ýêîíîìè÷åñêîå îáðàçîâàíèå. Íî [From.GetHersHis] óñïåõè áûëè íå ñëèøêîì âïå÷àòëÿþùèìè.;;x
+EVTDESCA_ZE_14400;I have finished my education in the ways of intrigue. I found the lessons rather tedious.;;;;;;;;;;;ß òîëüêî ÷òî çàêîí÷èë[Root.GetEndA] ñâî¸ øïèîíñêîå îáðàçîâàíèå. Îòìå÷ó, ÷òî çàíÿòèÿ áûëè âåñüìà óòîìèòåëüíû.;;x
+EVTDESCA_ZE_14410;Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of intrigue. It turned out less well than expected.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] òîëüêî ÷òî ïîëó÷èë[From.GetEndA] øïèîíñêîå îáðàçîâàíèå. Íî [From.GetHersHis] óñïåõè áûëè íå ñëèøêîì âïå÷àòëÿþùèìè.;;x
+EVTDESCA_ZE_14500;I have finished my education in the ways of faith and learning. I found the lessons rather tedious.;;;;;;;;;;;ß òîëüêî ÷òî çàêîí÷èë[Root.GetEndA] ñâî¸ ðåëèãèîçíîå îáðàçîâàíèå. Îòìå÷ó, ÷òî çàíÿòèÿ áûëè âåñüìà óòîìèòåëüíû.;;x
+EVTDESCA_ZE_14510;Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of faith and learning. It turned out less well than expected.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] òîëüêî ÷òî ïîëó÷èë[From.GetEndA] ðåëèãèîçíîå îáðàçîâàíèå. Íî [From.GetHersHis] óñïåõè áûëè íå ñëèøêîì âïå÷àòëÿþùèìè.;;x
+EVTDESCA_ZE_14700;I have finished my education but without any clear purpose. I found some joy in studying diplomacy but without guidance I didn't do very well.;;;;;;;;;;;ß çàâåðøèë[Root.GetEndA] ñâî¸ îáó÷åíèå áåç êàêîé-ëèáî ÷¸òêîé öåëè. Ìíå ïîíðàâèëîñü èçó÷àòü äèïëîìàòèþ, íî íå èìåÿ êîíêðåòíîãî ó÷åáíîãî ïëàíà, ÿ íå äîáè[Root.GetLasLsya] áîëüøîãî óñïåõà.;;x
+EVTDESCA_ZE_14710;Young [From.GetFirstName] has finished [From.GetHerHis] education. With a complete lack of guidance [From.GetSheHe] still tried [From.GetHerHis] best to study diplomacy, unfortunately to no avail.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] çàâåðøèë[From.GetEndA] ñâî¸ îáó÷åíèå. Íå èìåÿ ÷¸òêîãî íàïðàâëåíèÿ è ó÷åáíîãî ïëàíà, [From.GetSheHe] ïðèëîæèë[From.GetEndA] íåìàëî óñèëèé â èçó÷åíèè äèïëîìàòèè, íî, ê ñîæàëåíèþ, áåç îñîáîãî óñïåõà.;;x
+EVTDESCB_ZE_14100;I have finished my education in diplomacy. It is a fascinating subject.;;;;;;;;;;;ß òîëüêî ÷òî çàêîí÷èë[Root.GetEndA] ñâî¸ äèïëîìàòè÷åñêîå îáðàçîâàíèå. Ýòî áûëî òàê èíòåðåñíî!;;x
+EVTDESCB_ZE_14110;Young [From.GetFirstName] has finished [From.GetHerHis] education in diplomacy. It seems [From.GetSheHe] has learned all the basic skills required.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] òîëüêî ÷òî ïîëó÷èë[From.GetEndA] äèïëîìàòè÷åñêîå îáðàçîâàíèå. Ïîõîæå, [From.GetSheHe] ïðèîáðåë[From.GetEndA] âñå íåîáõîäèìûå íàâûêè.;;x
+EVTDESCB_ZE_14200;I have finished my education in the ways of war. It is a fascinating subject.;;;;;;;;;;;ß òîëüêî ÷òî çàêîí÷èë[Root.GetEndA] ñâî¸ âîåííîå îáðàçîâàíèå. Ýòî áûëî òàê èíòåðåñíî!;;x
+EVTDESCB_ZE_14210;Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of war. It seems [From.GetSheHe] has learned all the basic skills required.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] òîëüêî ÷òî ïîëó÷èë[From.GetEndA] âîåííîå îáðàçîâàíèå. Ïîõîæå, [From.GetSheHe] ïðèîáðåë[From.GetEndA] âñå íåîáõîäèìûå íàâûêè.;;x
+EVTDESCB_ZE_14300;I have finished my education in stewardship. It is a fascinating subject.;;;;;;;;;;;ß òîëüêî ÷òî çàêîí÷èë[Root.GetEndA] ñâî¸ ýêîíîìè÷åñêîå îáðàçîâàíèå. Ýòî áûëî òàê èíòåðåñíî!;;x
+EVTDESCB_ZE_14310;Young [From.GetFirstName] has finished [From.GetHerHis] education in stewardship. It seems [From.GetSheHe] has learned all the basic skills required.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] òîëüêî ÷òî ïîëó÷èë[From.GetEndA] ýêîíîìè÷åñêîå îáðàçîâàíèå. Ïîõîæå, [From.GetSheHe] ïðèîáðåë[From.GetEndA] âñå íåîáõîäèìûå íàâûêè.;;x
+EVTDESCB_ZE_14400;I have finished my education in the ways of intrigue. It is a fascinating subject.;;;;;;;;;;;ß òîëüêî ÷òî çàêîí÷èë[Root.GetEndA] ñâî¸ øïèîíñêîå îáðàçîâàíèå. Ýòî áûëî òàê èíòåðåñíî!;;x
+EVTDESCB_ZE_14410;Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of intrigue. It seems [From.GetSheHe] has learned all the basic skills required.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] òîëüêî ÷òî ïîëó÷èë[From.GetEndA] øïèîíñêîå îáðàçîâàíèå. Ïîõîæå, [From.GetSheHe] ïðèîáðåë[From.GetEndA] âñå íåîáõîäèìûå íàâûêè.;;x
+EVTDESCB_ZE_14500;I have finished my education in the ways of faith and learning. It is a fascinating subject.;;;;;;;;;;;ß òîëüêî ÷òî çàêîí÷èë[Root.GetEndA] ñâî¸ ðåëèãèîçíîå îáðàçîâàíèå. Ýòî áûëî òàê èíòåðåñíî!;;x
+EVTDESCB_ZE_14510;Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of faith and learning. It seems [From.GetSheHe] has learned all the basic skills required.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] òîëüêî ÷òî ïîëó÷èë[From.GetEndA] ðåëèãèîçíîå îáðàçîâàíèå. Ïîõîæå, [From.GetSheHe] ïðèîáðåë[From.GetEndA] âñå íåîáõîäèìûå íàâûêè.;;x
+EVTDESCB_ZE_14700;I have finished my education but without any clear purpose. I found some joy in studying military arts but without guidance I didn't do very well.;;;;;;;;;;;ß çàâåðøèë[Root.GetEndA] ñâî¸ îáó÷åíèå áåç êàêîé-ëèáî ÷¸òêîé öåëè. Ìíå ïîíðàâèëîñü èçó÷àòü âîåííîå äåëî, íî íå èìåÿ êîíêðåòíîãî ó÷åáíîãî ïëàíà, ÿ íå äîáè[Root.GetLasLsya] áîëüøîãî óñïåõà.;;x
+EVTDESCB_ZE_14710;Young [From.GetFirstName] has finished [From.GetHerHis] education. With a complete lack of guidance [From.GetSheHe] still tried [From.GetHerHis] best to study military arts, unfortunately to no avail.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] çàâåðøèë[From.GetEndA] ñâî¸ îáó÷åíèå. Íå èìåÿ ÷¸òêîãî íàïðàâëåíèÿ è ó÷åáíîãî ïëàíà, [From.GetSheHe] ïðèëîæèë[From.GetEndA] íåìàëî óñèëèé â èçó÷åíèè âîåííîãî äåëà, íî, ê ñîæàëåíèþ, áåç îñîáîãî óñïåõà.;;x
+EVTDESCC_ZE_14100;I have finished my education in diplomacy. I find that I have some talent for it.;;;;;;;;;;;ß òîëüêî ÷òî çàêîí÷èë[Root.GetEndA] ñâî¸ äèïëîìàòè÷åñêîå îáðàçîâàíèå. Ó ìåíÿ ÿâíî òàëàíò ê ýòîìó.;;x
+EVTDESCC_ZE_14110;Young [From.GetFirstName] has finished [From.GetHerHis] education in diplomacy. It is evident that [From.GetSheHe] has excelled in [From.GetHerHis] studies.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] òîëüêî ÷òî ïîëó÷èë[From.GetEndA] äèïëîìàòè÷åñêîå îáðàçîâàíèå. Î÷åâèäíî, [From.GetSheHe] âåñüìà ïðåóñïåë[From.GetEndA] â ýòîé îáëàñòè.;;x
+EVTDESCC_ZE_14200;I have finished my education in the ways of war. I find that I have some talent for it.;;;;;;;;;;;ß òîëüêî ÷òî çàêîí÷èë[Root.GetEndA] ñâî¸ âîåííîå îáðàçîâàíèå. Ó ìåíÿ ÿâíî òàëàíò ê ýòîìó.;;x
+EVTDESCC_ZE_14210;Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of war. It is evident that [From.GetSheHe] has excelled in [From.GetHerHis] studies.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] òîëüêî ÷òî ïîëó÷èë[From.GetEndA] âîåííîå îáðàçîâàíèå. Î÷åâèäíî, [From.GetSheHe] âåñüìà ïðåóñïåë[From.GetEndA] â ýòîé îáëàñòè.;;x
+EVTDESCC_ZE_14300;I have finished my education in stewardship. I find that I have some talent for it.;;;;;;;;;;;ß òîëüêî ÷òî çàêîí÷èë[Root.GetEndA] ñâî¸ ýêîíîìè÷åñêîå îáðàçîâàíèå. Ó ìåíÿ ÿâíî òàëàíò ê ýòîìó.;;x
+EVTDESCC_ZE_14310;Young [From.GetFirstName] has finished [From.GetHerHis] education in stewardship. It is evident that [From.GetSheHe] has excelled in [From.GetHerHis] studies.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] òîëüêî ÷òî ïîëó÷èë[From.GetEndA] ýêîíîìè÷åñêîå îáðàçîâàíèå. Î÷åâèäíî, [From.GetSheHe] âåñüìà ïðåóñïåë[From.GetEndA] â ýòîé îáëàñòè.;;x
+EVTDESCC_ZE_14400;I have finished my education in the ways of intrigue. I find that I have some talent for it.;;;;;;;;;;;ß òîëüêî ÷òî çàêîí÷èë[Root.GetEndA] ñâî¸ øïèîíñêîå îáðàçîâàíèå. Ó ìåíÿ ÿâíî òàëàíò ê ýòîìó.;;x
+EVTDESCC_ZE_14410;Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of intrigue. It is evident that [From.GetSheHe] has excelled in [From.GetHerHis] studies.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] òîëüêî ÷òî ïîëó÷èë[From.GetEndA] øïèîíñêîå îáðàçîâàíèå. Î÷åâèäíî, [From.GetSheHe] âåñüìà ïðåóñïåë[From.GetEndA] â ýòîé îáëàñòè.;;x
+EVTDESCC_ZE_14500;I have finished my education in the ways of faith and learning. I find that I have some talent for it.;;;;;;;;;;;ß òîëüêî ÷òî çàêîí÷èë[Root.GetEndA] ñâî¸ ðåëèãèîçíîå îáðàçîâàíèå. Ó ìåíÿ ÿâíî òàëàíò ê ýòîìó.;;x
+EVTDESCC_ZE_14510;Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of faith and learning. It is evident that [From.GetSheHe] has excelled in [From.GetHerHis] studies.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] òîëüêî ÷òî ïîëó÷èë[From.GetEndA] ðåëèãèîçíîå îáðàçîâàíèå. Î÷åâèäíî, [From.GetSheHe] âåñüìà ïðåóñïåë[From.GetEndA] â ýòîé îáëàñòè.;;x
+EVTDESCC_ZE_14700;I have finished my education but without any clear purpose. I found some joy in studying stewardship but without guidance I didn't do very well.;;;;;;;;;;;ß çàâåðøèë[Root.GetEndA] ñâî¸ îáó÷åíèå áåç êàêîé-ëèáî ÷¸òêîé öåëè. Ìíå ïîíðàâèëîñü èçó÷àòü ýêîíîìèêó, íî íå èìåÿ êîíêðåòíîãî ó÷åáíîãî ïëàíà, ÿ íå äîáè[Root.GetLasLsya] áîëüøîãî óñïåõà.;;x
+EVTDESCC_ZE_14710;Young [From.GetFirstName] has finished [From.GetHerHis] education. With a complete lack of guidance [From.GetSheHe] still tried [From.GetHerHis] best to study stewardship, unfortunately to no avail.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] çàâåðøèë[From.GetEndA] ñâî¸ îáó÷åíèå. Íå èìåÿ ÷¸òêîãî íàïðàâëåíèÿ è ó÷åáíîãî ïëàíà, [From.GetSheHe] ïðèëîæèë[From.GetEndA] íåìàëî óñèëèé â èçó÷åíèè ýêîíîìèêè, íî, ê ñîæàëåíèþ, áåç îñîáîãî óñïåõà.;;x
+EVTDESCD_ZE_14100;I have finished my education in diplomacy. I feel that I have truly found my calling.;;;;;;;;;;;ß òîëüêî ÷òî çàêîí÷èë[Root.GetEndA] ñâî¸ äèïëîìàòè÷åñêîå îáðàçîâàíèå, è ÷óâñòâóþ, ÷òî íàø[Root.GetLaYol] ñâî¸ ïðèçâàíèå.;;x
+EVTDESCD_ZE_14110;Young [From.GetFirstName] has finished [From.GetHerHis] education in diplomacy. I notice with pride that [From.GetSheHe] has attained nothing less than a masterful level of knowledge.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] òîëüêî ÷òî ïîëó÷èë[From.GetEndA] äèïëîìàòè÷åñêîå îáðàçîâàíèå. È ÿ ìîãó ñ ãîðäîñòüþ çàÿâèòü, ÷òî [From.GetSheHe] äîñòèã[From.GetNoneE] âûñøåãî óðîâíÿ â ýòîé ñïåöèàëüíîñòè.;;x
+EVTDESCD_ZE_14200;I have finished my education in the ways of war. I feel that I have truly found my calling.;;;;;;;;;;;ß òîëüêî ÷òî çàêîí÷èë[Root.GetEndA] ñâî¸ âîåííîå îáðàçîâàíèå. È ÷óâñòâóþ, ÷òî íàø[Root.GetLaYol] ñâî¸ ïðèçâàíèå.;;x
+EVTDESCD_ZE_14210;Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of war. I notice with pride that [From.GetSheHe] has attained nothing less than a masterful level of knowledge.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] òîëüêî ÷òî ïîëó÷èë[From.GetEndA] âîåííîå îáðàçîâàíèå. È ÿ ìîãó ñ ãîðäîñòüþ çàÿâèòü, ÷òî [From.GetSheHe] äîñòèã[From.GetNoneE] âûñøåãî óðîâíÿ â ýòîé ñïåöèàëüíîñòè.;;x
+EVTDESCD_ZE_14300;I have finished my education in stewardship. I feel that I have truly found my calling.;;;;;;;;;;;ß òîëüêî ÷òî çàêîí÷èë[Root.GetEndA] ñâî¸ ýêîíîìè÷åñêîå îáðàçîâàíèå, è ÷óâñòâóþ, ÷òî íàø[Root.GetLaYol] ñâî¸ ïðèçâàíèå.;;x
+EVTDESCD_ZE_14310;Young [From.GetFirstName] has finished [From.GetHerHis] education in stewardship. I notice with pride that [From.GetSheHe] has attained nothing less than a masterful level of knowledge.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] òîëüêî ÷òî ïîëó÷èë[From.GetEndA] ýêîíîìè÷åñêîå îáðàçîâàíèå. È ÿ ìîãó ñ ãîðäîñòüþ çàÿâèòü, ÷òî [From.GetSheHe] äîñòèã[From.GetNoneE] âûñøåãî óðîâíÿ â ýòîé ñïåöèàëüíîñòè.;;x
+EVTDESCD_ZE_14400;I have finished my education in the ways of intrigue. I feel that I have truly found my calling.;;;;;;;;;;;ß òîëüêî ÷òî çàêîí÷èë[Root.GetEndA] ñâî¸ øïèîíñêîå îáðàçîâàíèå, è ÷óâñòâóþ, ÷òî íàø[Root.GetLaYol] ñâî¸ ïðèçâàíèå.;;x
+EVTDESCD_ZE_14410;Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of intrigue. I notice with pride that [From.GetSheHe] has attained nothing less than a masterful level of knowledge.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] òîëüêî ÷òî ïîëó÷èë[From.GetEndA] øïèîíñêîå îáðàçîâàíèå. È ÿ ìîãó ñ ãîðäîñòüþ çàÿâèòü, ÷òî [From.GetSheHe] äîñòèã[From.GetNoneE] âûñøåãî óðîâíÿ â ýòîé ñïåöèàëüíîñòè.;;x
+EVTDESCD_ZE_14500;I have finished my education in the ways of faith and learning. I feel that I have truly found my calling.;;;;;;;;;;;ß òîëüêî ÷òî çàêîí÷èë[Root.GetEndA] ñâî¸ ðåëèãèîçíîå îáðàçîâàíèå, è ÷óâñòâóþ, ÷òî íàø[Root.GetLaYol] ñâî¸ ïðèçâàíèå.;;x
+EVTDESCD_ZE_14510;Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of faith and learning. I notice with pride that [From.GetSheHe] has attained nothing less than a masterful level of knowledge.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] òîëüêî ÷òî ïîëó÷èë[From.GetEndA] ðåëèãèîçíîå îáðàçîâàíèå. È ÿ ìîãó ñ ãîðäîñòüþ çàÿâèòü, ÷òî [From.GetSheHe] äîñòèã[From.GetNoneE] âûñøåãî óðîâíÿ â ýòîé ñïåöèàëüíîñòè.;;x
+EVTDESCD_ZE_14700;I have finished my education but without any clear purpose. I found some joy in studying intrigue but without guidance I didn't do very well.;;;;;;;;;;;ß çàâåðøèë[Root.GetEndA] ñâî¸ îáó÷åíèå áåç êàêîé-ëèáî ÷¸òêîé öåëè. Ìíå ïîíðàâèëîñü èçó÷àòü ïðè¸ìû øïèîíàæà, íî íå èìåÿ êîíêðåòíîãî ó÷åáíîãî ïëàíà, ÿ íå äîáè[Root.GetLasLsya] áîëüøîãî óñïåõà.;;x
+EVTDESCD_ZE_14710;Young [From.GetFirstName] has finished [From.GetHerHis] education. With a complete lack of guidance [From.GetSheHe] still tried [From.GetHerHis] best to study intrigue, unfortunately to no avail.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] çàâåðøèë[From.GetEndA] ñâî¸ îáó÷åíèå. Íå èìåÿ ÷¸òêîãî íàïðàâëåíèÿ è ó÷åáíîãî ïëàíà, [From.GetSheHe] ïðèëîæèë[From.GetEndA] íåìàëî óñèëèé â èçó÷åíèè ïðè¸ìîâ øïèîíàæà, íî, ê ñîæàëåíèþ, áåç îñîáîãî óñïåõà.;;x
+EVTDESCE_ZE_14700;I have finished my education but without any clear purpose. I found some joy in studying learning but without guidance I didn't do very well.;;;;;;;;;;;ß çàâåðøèë[Root.GetEndA] ñâî¸ îáó÷åíèå áåç êàêîé-ëèáî ÷¸òêîé öåëè. Ìíå ïîíðàâèëîñü èçó÷àòü ñâÿùåííûå òåêñòû, íî íå èìåÿ êîíêðåòíîãî ó÷åáíîãî ïëàíà, ÿ íå äîáè[Root.GetLasLsya] áîëüøîãî óñïåõà.;;x
+EVTDESCE_ZE_14710;Young [From.GetFirstName] has finished [From.GetHerHis] education. With a complete lack of guidance [From.GetSheHe] still tried [From.GetHerHis] best to study learning, unfortunately to no avail.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] çàâåðøèë[From.GetEndA] ñâî¸ îáó÷åíèå. Íå èìåÿ ÷¸òêîãî íàïðàâëåíèÿ è ó÷åáíîãî ïëàíà, [From.GetSheHe] ïðèëîæèë[From.GetEndA] íåìàëî óñèëèé â èçó÷åíèè ñâÿùåííûõ òåêñòîâ, íî, ê ñîæàëåíèþ, áåç îñîáîãî óñïåõà.;;x
+EVTOPTA_ZE_14100;Speak frankly and all will love you.;;;;;;;;;;;Ãîâîðèòå îòêðîâåííî, è âàñ ïîëþáÿò.;;x
+EVTOPTA_ZE_14110;Oh well.;;;;;;;;;;;Íó ýòî íå òàê óæ ïëîõî.;;x
+EVTOPTA_ZE_14200;Courage is all a soldier needs.;;;;;;;;;;;Ñìåëîñòü - âñ¸, ÷òî íóæíî âîèíó.;;x
+EVTOPTA_ZE_14300;How hard can it be?;;;;;;;;;;;Ýòî íåâåðîÿòíî ñëîæíî.;;x
+EVTOPTA_ZE_14400;Intrigue must be conducted with honor.;;;;;;;;;;;Êîâàðñòâî ïðèêðûâàåòñÿ ÷åñòüþ.;;x
+EVTOPTA_ZE_14500;Learning is dull but important.;;;;;;;;;;;Ó÷åíèå - ýòî áîðüáà ñî ñêóêîé.;;x
+EVTOPTA_ZE_14700;No one told me it was important.;;;;;;;;;;;Íèêòî íå ãîâîðèë ìíå, íàñêîëüêî ýòî âàæíî.;;x
+EVTOPTA_ZE_14710;I have failed [From.GetHerHim].;;;;;;;;;;;ß ïîäâåë[Root.GetEndA] [From.GetHersHis].;;x
+EVTOPTB_ZE_14100;Never hate your enemies. It affects your judgment.;;;;;;;;;;;Íåíàâèäåòü âðàãîâ îïàñíî, ýòî âëèÿåò íà ñóæäåíèÿ.;;x
+EVTOPTB_ZE_14110;Very good.;;;;;;;;;;;Î÷åíü õîðîøî.;;x
+EVTOPTB_ZE_14200;Know your enemy.;;;;;;;;;;;Çíàé ñâîåãî âðàãà.;;x
+EVTOPTB_ZE_14300;A coin saved is a coin earned.;;;;;;;;;;;Ñíèæàòü ðàñõîäû ýôôåêòèâíåå ÷åì ïîâûøàòü äîõîäû.;;x
+EVTOPTB_ZE_14400;Never interrupt your enemy when [Root.GetSheHe] is making a mistake.;;;;;;;;;;;Íèêîãäà íå ìåøàé âðàãó ñîâåðøàòü îøèáêè.;;x
+EVTOPTB_ZE_14500;The world is a book.;;;;;;;;;;;Ìèð - ýòî îòêðûòàÿ êíèãà.;;x
+EVTOPTC_ZE_14100;Speak softly and carry a big stick.;;;;;;;;;;;Ãîâîðèòå ìÿãêî, íî ñ óâåñèñòîé äóáèíîé â ðóêàõ.;;x
+EVTOPTC_ZE_14110;This pleases me.;;;;;;;;;;;Ýòî ïðåêðàñíî!;;x
+EVTOPTC_ZE_14200;It is wise to attack the enemy's strategy.;;;;;;;;;;;Óìíåå èñïîëüçîâàòü ñèëó ïðîòèâíèêà ïðîòèâ íåãî.;;x
+EVTOPTC_ZE_14300;Accumulate! Accumulate!;;;;;;;;;;;Íàêîïëåíèå óâåëè÷èâàåò ïîòåíöèàë ïðèáûëè.;;x
+EVTOPTC_ZE_14400;To subdue the enemy without fighting is supreme.;;;;;;;;;;;Ïîêîðèòü âðàãà áåç áîÿ - âîò èñòèííîå èñêóññòâî.;;x
+EVTOPTC_ZE_14500;Learning never exhausts the mind.;;;;;;;;;;;Ó÷åíèå íèêîãäà íå èñòîùàåò ðàçóì.;;x
+EVTOPTD_ZE_14100;The best way to keep one's word is to not give it.;;;;;;;;;;;Ëó÷øèé ñïîñîá ñäåðæàòü ñëîâî - íå äàâàòü åãî.;;x
+EVTOPTD_ZE_14200;War is a continuation of politics.;;;;;;;;;;;Âîéíà - ëèøü ïðîäîëæåíèå ïîëèòèêè.;;x
+EVTOPTD_ZE_14300;Wealth is the slave of a wise man, and the master of a fool.;;;;;;;;;;;Áîãàòñòâî ñëóæèò ìóäðîìó è ïîìûêàåò ãëóïöîì.;;x
+EVTOPTD_ZE_14400;Events which can not be prevented must be directed.;;;;;;;;;;;Òî, ÷òî íåëüçÿ ïðåäîòâðàòèòü, ìîæíî èñïîëüçîâàòü.;;x
+EVTOPTD_ZE_14500;A room without books is like a body without a soul.;;;;;;;;;;;Êîìíàòà áåç êíèãè, êàê òåëî áåç äóøè.;;x

@@ -1,17 +1,12 @@
-
-usurp_title_interaction_LONG_DESC;Usurp this title.;;;;;;;;;;;;;x
-usurp_title_interaction_TITLE;Usurp Title;;;;;;;;;;;;;x
-
-create_title_interaction_LONG_DESC;Create this title.;;;;;;;;;;;;;x
-create_title_interaction_TITLE;Create Title;;;;;;;;;;;;;x
-
-destroy_title_interaction_LONG_DESC;Destroy this title.;;;;;;;;;;;;;x
-destroy_title_interaction_TITLE;Destroy;;;;;;;;;;;;;x
-
-make_capital_settlement_interaction_DESC;I can make this my capital.;;;;;;;;;;;;;x
-make_capital_settlement_interaction_LONG_DESC;Make this Holding your capital.;;;;;;;;;;;;;x
-make_capital_settlement_interaction_TITLE;Make Capital;;;;;;;;;;;;;x
-
-make_primary_title_interaction_DESC;I can declare this my primary title.;;;;;;;;;;;;;x
-make_primary_title_interaction_LONG_DESC;Make this your primary title.;;;;;;;;;;;;;x
-make_primary_title_interaction_TITLE;Make Primary Title;;;;;;;;;;;;;x
+usurp_title_interaction_LONG_DESC;Usurp this title.;;;;;;;;;;;Óçóðïèðîâàòü ýòîò òèòóë.;;x
+usurp_title_interaction_TITLE;Usurp Title;;;;;;;;;;;Óçóðïèðîâàòü òèòóë;;x
+create_title_interaction_LONG_DESC;Create this title.;;;;;;;;;;;Ñîçäàòü ýòîò òèòóë.;;x
+create_title_interaction_TITLE;Create Title;;;;;;;;;;;Ñîçäàòü òèòóë;;x
+destroy_title_interaction_LONG_DESC;Destroy this title.;;;;;;;;;;;Óíè÷òîæèòü ýòîò òèòóë.;;x
+destroy_title_interaction_TITLE;Destroy;;;;;;;;;;;Óíè÷òîæèòü;;x
+make_capital_settlement_interaction_DESC;I can make this my capital.;;;;;;;;;;;ß ìîãó ñäåëàòü ýòî ïîñåëåíèå ñâîåé ñòîëèöåé.;;x
+make_capital_settlement_interaction_LONG_DESC;Make this Holding your capital.;;;;;;;;;;;Ñäåëàòü ýòî ïîñåëåíèå ñâîåé ñòîëèöåé.;;x
+make_capital_settlement_interaction_TITLE;Make Capital;;;;;;;;;;;Ñäåëàòü ñòîëèöåé;;x
+make_primary_title_interaction_DESC;I can declare this my primary title.;;;;;;;;;;;ß ìîãó ñäåëàòü ýòîò òèòóë ñâîèì îñíîâíûì.;;x
+make_primary_title_interaction_LONG_DESC;Make this your primary title.;;;;;;;;;;;Ñäåëàòü ýòîò òèòóë ñâîèì îñíîâíûì.;;x
+make_primary_title_interaction_TITLE;Make Primary Title;;;;;;;;;;;Ñäåëàòü îñíîâíûì;;x

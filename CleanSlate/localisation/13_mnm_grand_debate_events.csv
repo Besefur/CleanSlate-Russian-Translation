@@ -1,144 +1,132 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC_MNM_1980;As I expect many members of [Root.Society.GetName] to appear for the Grand Debate, it is of the utmost importance that everything is to be as flawless as possible. In this spirit the preparations are well underway – my staff has seen to the lodgings and the chef has stocked up the larders. All that is left now is to send out the invitations.;;;;;;;;;;;;;x
-EVTDESC_MNM_1981;A courier just arrived carrying a letter from [FromFrom.GetSocietyRank] [FromFrom.GetFirstName]. Reading the letter, I see that it is an invitation bidding all members of [FromFrom.Society.GetName] to attend the Grand Debate.;;;;;;;;;;;;;x
-EVTDESC_MNM_1983;The guest are arriving in this very moment. It is time for the grand debate to begin and spend the next few days to have each and every one display their knowledge to decide who the best of us is.;;;;;;;;;;;;;x
-EVTDESC_MNM_1989;I have been declared the winner of the grand debate! Showing all that no one is as knowledgeable as me, or has the ability to put forth arguments quite like me.;;;;;;;;;;;;;x
-EVTDESC_MNM_1990;Many distinguished themselves during the debates. None however, performed as well as [From.GetTitledFirstName], who has been declared the winner of the grand debate!;;;;;;;;;;;;;x
-EVTDESC_MNM_1993;After several days of long discussions and much debating, the grand debate is over for now. There might have been a few heated arguments, but I think most attenders would agree that it was a learning experience.;;;;;;;;;;;;;x
-EVTDESC_MNM_1994;I may not have won the grand debate itself, but I have had plenty of success nonetheless. The debates allowed me to learn new ways of putting my education to good use and even how to improve upon it!;;;;;;;;;;;;;x
-EVTDESC_MNM_1994_HOST;The final guests just left, leaving peace and quiet behind. As I sit here and reflect upon my own contribution to the debate, I realize that I have learned new ways of putting my education to good use.;;;;;;;;;;;;;x
-EVTDESC_MNM_1995;The grand debate ends and I was not able to win. I did however, show some skillful debating during a few arguments that got applauded by the others.;;;;;;;;;;;;;x
-EVTDESC_MNM_1995_HOST;The final guests just left, leaving peace and quiet behind. As I sit here and reflect upon my own contribution to the debate, I think that I was able to show some skillful debating during a few arguments that got applauded by the others.;;;;;;;;;;;;;x
-EVTDESC_MNM_1996;The grand debate ends and although I was unable to win, I learned a few things by observing the other participants.;;;;;;;;;;;;;x
-EVTDESC_MNM_1996_HOST;The final guests just left, leaving peace and quiet behind. As I sit here and reflect upon my own contribution to the debate, I did learn a few things by observing the other participants.;;;;;;;;;;;;;x
-EVTDESC_MNM_1997;The grand debate ends and I was unable to win. I cannot say that I learned anything during the discussions either. Study and preparation will be key for the next debate.;;;;;;;;;;;;;x
-EVTDESC_MNM_1997_HOST;The final guests just left, leaving peace and quiet behind. As I sit here and reflect upon my own contribution to the debate, I realize that I have much to learn. I will have to prepare myself better for the next debate.;;;;;;;;;;;;;x
-EVTDESC_MNM_1998;The grand debate ends and I did not achieve anything at all. I got ridiculed for my meager efforts as I was easily outsmarted by my opponents.;;;;;;;;;;;;;x
-EVTDESC_MNM_1998_HOST;The final guests just left, leaving peace and quiet behind. As I sit here and reflect upon my own contribution to the debate, I realize that I did not achieve anything. I got ridiculed for my meager efforts as I was easily outsmarted by my opponents.;;;;;;;;;;;;;x
-EVTDESC_MNM_5100;Being at the debate is a draining process. I have not had a good night's sleep since I got here. Either I cannot fall asleep due to a searing pain in the back or I get woken up by loud arguments outside about yesterday's debate topics. Days like these I just long for a warm and cozy bed.;;;;;;;;;;;;;x
-EVTDESC_MNM_5101;An opportunity has presented itself for me to level the playing field of the debate. [sabotage_target.GetSocietyRank] [sabotage_target.GetFirstName] a great debater under normal circumstances, [sabotage_target.GetSheHe] is very dependent on [sabotage_target.GetHerHis] meticulous notes.;;;;;;;;;;;;;x
-EVTDESC_MNM_5103;While I am sitting and preparing for the debate, studying my notes carefully, [From.GetSocietyRank] [From.GetFirstName] stumbles and drops everything in [From.GetHerHis] hands. Parchments and quills are strewn everywhere and my notes are now soaked in ink!;;;;;;;;;;;;;x
-EVTDESC_MNM_5104;I was successful in "accidentally" dropping ink on the notes of [From.GetSocietyRank] [From.GetFirstName], ruining them beyond readability. [From.GetFirstName] was however less than happy with my clumsy behavior...;;;;;;;;;;;;;x
-EVTDESC_MNM_5115_other;[potion_target.GetTitledFirstName] will likely accept my brew, regardless of the quality. However, sifting through my recipes, I can't quite decide on which ingredients to use... While the [GetSelectedIngredient_1] [GetSelectedIngredient_1_property], I wonder what my [potion_target.GetRootRelation] would think.;;;;;;;;;;;;;x
-EVTDESC_MNM_5115_self;In this state, I almost do not care about the quality of my potion. Still, while rummaging through my drawers, I can't quite decide on which ingredients to use... The [GetSelectedIngredient_1] [GetSelectedIngredient_1_property], I suppose.;;;;;;;;;;;;;x
-EVTDESC_MNM_5201;During a late conversation with a fellow member of [This.Society.GetName], I find myself discussing the power of one's phrasing. When I jokingly suggest that I should attempt to deliver my arguments in verse, [fellow_debater_target.GetTitledFirstName], to my surprise, nods appreciatively. "Do not underestimate the power of a good rhyme", [fellow_debater_target.GetSheHe] says.;;;;;;;;;;;;;x
-EVTDESC_MNM_5202;During today's debate, I'm unsettled to find my rival [rival_debater_target.GetTitledFirstName] observing me. Turning back to the rest of the audience, I take a deep breath, before continuing my reasoning. Once I'm finished, I am startled to see that [rival_debater_target.GetFirstName] has stood up, smiling – with a quirked eyebrow [rival_debater_target.GetSheHe] offers me a nod of respect.;;;;;;;;;;;;;x
-EVTDESC_MNM_5203_A;After some time spent listening to the debates between scholars of varying intellect, I admit to occasionally drifting off into my own thoughts... Yet there is one person that keeps bringing my attention back to the present – [striking_debater_target.GetTitledName] has wits and a way with words, unlike any I have seen.;;;;;;;;;;;;;x
-EVTDESC_MNM_5203_B;After some time spent listening to the debates between scholars of varying intellect, I admit to occasionally drifting off into my own thoughts... I suppose I shouldn't be surprised that there is one person that keeps bringing my attention back to the present – [striking_debater_target.GetTitledFirstName] has always had a way with words, as well as an alluring presence.;;;;;;;;;;;;;x
-EVTDESC_MNM_5204;While debating [Custom.GetHermeticDebateSubject], I have the sudden impulse that a comedic story, once told to me by a stable-hand, would underline my point perfectly. Even if it doesn't, laughter might win me just as many allies.;;;;;;;;;;;;;x
-EVTDESC_MNM_5205;'...and if those words, even uttered by a simpleton, does not illustrate my point, nothing ever will.'\nI am unsure if anyone heard my decisive conclusion over the roars of laughter, but it mattered little. The crowd was completely won over by my story.;;;;;;;;;;;;;x
-EVTDESC_MNM_5206;I stand before the room in complete silence for a minute before asking again. 'Get it?'\nSomeone accidentally drops the pin they used to illustrate the Theory of Dancing Angels to the floor. The light ding is as loud as a bell in my ears.;;;;;;;;;;;;;x
-EVTDESC_MNM_5207;I hear the voice of [fellow_member_1.GetTitledFirstName] before I even enter the room. "[fellow_member_2.GetTitledFirstName], you clearly know nothing of [fellow_member_1.GetHermeticDebateSubject]! Why are we even having this conversation?!";;;;;;;;;;;;;x
-EVTDESC_MNM_5208;There is something annoyingly pompous in the speech of [fellow_member_target.GetTitledFirstName] – when did [fellow_member_target.GetSheHe] become an expert on [Root.GetHermeticDebateSubject]?\nSighing, I close my hand around the vial in my pocket.;;;;;;;;;;;;;x
-EVTDESC_MNM_5209;These past few days, I've felt an energy rising within me, urging to be used for creativity. "I could build a new laboratory! Wait, no... I should prepare my notes for tomorrow", I mumble. Glancing at a stack of parchments, it occurs to me that I could compose a letter to my dear [inspired_letter_target.GetTitledFirstName].;;;;;;;;;;;;;x
-EVTDESC_MNM_5210;I have received a long and heartfelt letter from [From.GetTitledFirstName]. It contains beautiful metaphors about how important I am to [From.GetHerHim], expressed with an eager earnestness I have seldom seen in my [From.GetRootRelation] before. I wonder what prompted this...;;;;;;;;;;;;;x
-EVTDESC_MNM_5211;Many of my fellow debaters often stay up late, honing their arguments well into the night. I'm starting to feel the lack of sleep getting to me... My mind often drifts, leaving me staring into thin air, and while I sift through my notes, looking for points not yet brought up by my peers, my hands show signs of tremors.;;;;;;;;;;;;;x
-
-EVTDESCA_MNM_5102;After a tough day full of debates I find myself alone in the corridor. Curiously, I spot some notes forgotten on the floor. The notes speak of [Root.GetHermeticDebateSubject]! This is great, I could use these notes to prepare for my next debate.;;;;;;;;;;;;;x
-EVTDESCA_MNM_5105;I performed splendidly in today's debate, much thanks to the brilliant research I found in the hallway. My competitors were left without any good arguments to counter my impeccable logic.;;;;;;;;;;;;;x
-EVTDESCA_MNM_5106;[From.GetSocietyRank] [From.GetFirstName] made a fool of [From.GetHerselfHimself] today at the debate, by citing parts of the forged notes I planted some days ago for [From.GetHerHim] to find. At certain moments [From.GetSheHe] had the whole room veritably bursting to tears laughing!;;;;;;;;;;;;;x
-
-EVTDESCB_MNM_5102;After a tough day full of debates I find myself alone in the corridor. Curiously, I spot some notes forgotten on the floor. The notes speak of [Root.GetSillyDebateSubject]! This is great, I could use these notes to prepare for my next debate.;;;;;;;;;;;;;x
-EVTDESCB_MNM_5105;Reciting the notes I found the other day proved to be an unfortunate mistake... The crowd was loud and vigorous, not because they were struck by my burgeoning intellect, but because they were laughing. Someone must have crafted those notes as a joke!;;;;;;;;;;;;;x
-EVTDESCB_MNM_5106;Despite my best effort [From.GetSocietyRank] [From.GetBestName] has ignored the notes that I deliberately left in plain sight of [From.GetHerHim].;;;;;;;;;;;;;x
-
-EVTDESCC_MNM_5105;During today's debate I recited the notes I found the other day far too literally... After a short while someone in the audience started shouting and called me out on being a fraud for stealing their work.;;;;;;;;;;;;;x
-
-EVTOPTA_MNM_1980;Bring me my most trusted courier!;;;;;;;;;;;;;x
-EVTOPTA_MNM_1981;A most excellent opportunity to display my knowledge!;;;;;;;;;;;;;x
-EVTOPTA_MNM_1983;Let the debate commence!;;;;;;;;;;;;;x
-EVTOPTA_MNM_1989;The sweetest of all sounds is praise.;;;;;;;;;;;;;x
-EVTOPTA_MNM_1990;Well done!;;;;;;;;;;;;;x
-EVTOPTA_MNM_1991;Congratulations are in order.;;;;;;;;;;;;;x
-EVTOPTA_MNM_1993;A most successful event!;;;;;;;;;;;;;x
-EVTOPTA_MNM_1994;A triumph in my eyes.;;;;;;;;;;;;;x
-EVTOPTA_MNM_1995;A noteworthy success.;;;;;;;;;;;;;x
-EVTOPTA_MNM_1996;A worthwhile effort.;;;;;;;;;;;;;x
-EVTOPTA_MNM_1997;It was still time well spent.;;;;;;;;;;;;;x
-EVTOPTA_MNM_1998;A shameful display...;;;;;;;;;;;;;x
-EVTOPTA_MNM_5100;These accommodations are the worst...;;;;;;;;;;;;;x
-EVTOPTA_MNM_5101;Perhaps [sabotage_target.GetSheHe] could find some of mine...;;;;;;;;;;;;;x
-EVTOPTA_MNM_5102;Even someone else's knowledge is the path to success.;;;;;;;;;;;;;x
-EVTOPTA_MNM_5103;An unfortunate accident.;;;;;;;;;;;;;x
-EVTOPTA_MNM_5104;You can't make an omelete without breaking a few eggs.;;;;;;;;;;;;;x
-EVTOPTA_MNM_5105;With a little bit of fortune anything is possible.;;;;;;;;;;;;;x
-EVTOPTA_MNM_5106;[From.GetSheHeCap] sure is gullible...;;;;;;;;;;;;;x
-EVTOPTA_MNM_5115_animal_part;Some coarsely ground [GetSelectedIngredient_1] feels about right.;;;;;;;;;;;;;x
-EVTOPTA_MNM_5115_herb;Some crushed [GetSelectedIngredient_1] feels about right.;;;;;;;;;;;;;x
-EVTOPTA_MNM_5115_liquid;A little [GetSelectedIngredient_1] feels about right.;;;;;;;;;;;;;x
-EVTOPTA_MNM_5115_powder;A few flakes of [GetSelectedIngredient_1] feels about right.;;;;;;;;;;;;;x
-EVTOPTA_MNM_5201;Perhaps it is exactly what my theme needs!;;;;;;;;;;;;;x
-EVTOPTA_MNM_5201_TT;The rest of your evening is spent discussing the finer points of poetry.\n;;;;;;;;;;;;;x
-EVTOPTA_MNM_5202;I am glad we can see beyond our differences during occasions like these.;;;;;;;;;;;;;x
-EVTOPTA_MNM_5203;I... I am not sure what these feelings are!;;;;;;;;;;;;;x
-EVTOPTA_MNM_5204;"Once upon a time, a servant of mine was shoveling horse dung...";;;;;;;;;;;;;x
-EVTOPTA_MNM_5204_TT;There is a chance the joke doesn't land, but if you do well you might charm everyone's beards off!;;;;;;;;;;;;;x
-EVTOPTA_MNM_5205;Just as funny as I am thoughtful!;;;;;;;;;;;;;x
-EVTOPTA_MNM_5206;I can't ever show my face to those people again!;;;;;;;;;;;;;x
-EVTOPTA_MNM_5207;[fellow_member_1.GetFirstName], there you are! Keep your voice down, would you?;;;;;;;;;;;;;x
-EVTOPTA_MNM_5208;It would be worth it.;;;;;;;;;;;;;x
-EVTOPTA_MNM_5208_TT;You sabotage the chances of §Y[fellow_member_target.GetTitledName]§! making a good impression during the Grand Debate.\n;;;;;;;;;;;;;x
-EVTOPTA_MNM_5209_friendly_target;Inspired words, to show my appreciation for [inspired_letter_target.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTA_MNM_5209_hostile_target;I'll make it difficult for [inspired_letter_target.GetHerHim] not to like me.;;;;;;;;;;;;;x
-EVTOPTA_MNM_5209_love_target;Words cannot truly express my love for [inspired_letter_target.GetHerHim], but I'll try.;;;;;;;;;;;;;x
-EVTOPTA_MNM_5209_TT;"My dear [inspired_letter_target.GetRootRelation]... I would not be who I am without you in my life."\nIn the end you toss papers around you, and spend all night perfecting the letter.\n;;;;;;;;;;;;;x
-EVTOPTA_MNM_5210;[From.GetFirstName] must really care about me.;;;;;;;;;;;;;x
-EVTOPTA_MNM_5211;This is too important to stop now.;;;;;;;;;;;;;x
-EVTOPTA_MNM_5211_TT;You increase your chances of winning the debate.\n;;;;;;;;;;;;;x
-
-EVTOPTB_MNM_1981;A foolish endeavor.;;;;;;;;;;;;;x
-EVTOPTB_MNM_5100;I can't take this anymore. I want to go home!;;;;;;;;;;;;;x
-EVTOPTB_MNM_5101;It would be a shame if anything happened to those notes.;;;;;;;;;;;;;x
-EVTOPTB_MNM_5102;I have more confidence in my own work.;;;;;;;;;;;;;x
-EVTOPTB_MNM_5103;[From.GetFirstName] clearly did that on purpose!;;;;;;;;;;;;;x
-EVTOPTB_MNM_5105;I was a fool to believe in those notes!;;;;;;;;;;;;;x
-EVTOPTB_MNM_5106;I'll fool [From.GetHerHim] next time!;;;;;;;;;;;;;x
-EVTOPTB_MNM_5115_animal_part;Some dried [GetSelectedIngredient_2] leaves a potent after-taste.;;;;;;;;;;;;;x
-EVTOPTB_MNM_5115_herb;A bit of crushed [GetSelectedIngredient_2] gives that particular scent.;;;;;;;;;;;;;x
-EVTOPTB_MNM_5115_liquid;A few drops of [GetSelectedIngredient_2] is perhaps the best option.;;;;;;;;;;;;;x
-EVTOPTB_MNM_5115_powder;Some sprinkles of [GetSelectedIngredient_2] should do the trick!;;;;;;;;;;;;;x
-EVTOPTB_MNM_5201;Nonsense! I will focus on facts, not embellishments.;;;;;;;;;;;;;x
-EVTOPTB_MNM_5201_TT;You spend the rest of your evening preparing for your next debate, increasing your chances of winning.\n;;;;;;;;;;;;;x
-EVTOPTB_MNM_5204;This is not the time for foolish tales.;;;;;;;;;;;;;x
-EVTOPTB_MNM_5204_TT;You sit back down.;;;;;;;;;;;;;x
-EVTOPTB_MNM_5207;[fellow_member_2.GetFirstName], what is [fellow_member_1.GetSheHe] on about?;;;;;;;;;;;;;x
-EVTOPTB_MNM_5208;This is foolish, I respect my fellow scholars.;;;;;;;;;;;;;x
-EVTOPTB_MNM_5208_TT;No matter how pompous.\n;;;;;;;;;;;;;x
-EVTOPTB_MNM_5209_friendly_target;A small poem, to illustrate my appreciation for [inspired_letter_target.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTB_MNM_5209_hostile_target;Even [inspired_letter_target.GetSheHe] cannot resist a good poem.;;;;;;;;;;;;;x
-EVTOPTB_MNM_5209_love_target;I've been meaning to put my feelings into words for a long time.;;;;;;;;;;;;;x
-EVTOPTB_MNM_5209_TT;"I would not be who I am today, were it not for you. You are my sun and moon, my Alpha and Omega".\nIn the end you toss papers around you, and spend all night perfecting the letter.\n;;;;;;;;;;;;;x
-EVTOPTB_MNM_5211;I just want to get some rest, I don't care who wins the debate.;;;;;;;;;;;;;x
-EVTOPTB_MNM_5211_TT;You decrease your chances of winning the debate.\n;;;;;;;;;;;;;x
-
-EVTOPTC_MNM_5100;I should use this time for something productive.;;;;;;;;;;;;;x
-EVTOPTC_MNM_5101;I will not resort to cheap tricks.;;;;;;;;;;;;;x
-EVTOPTC_MNM_5102;This is clearly some made-up nonsense!;;;;;;;;;;;;;x
-EVTOPTC_MNM_5105;This is embarrassing...;;;;;;;;;;;;;x
-EVTOPTC_MNM_5115_animal_part;A moderate amount of ground [GetSelectedIngredient_2] should suffice.;;;;;;;;;;;;;x
-EVTOPTC_MNM_5115_herb;A single dose of crushed [GetSelectedIngredient_2] should be adequate.;;;;;;;;;;;;;x
-EVTOPTC_MNM_5115_liquid;A splash of [GetSelectedIngredient_2] is perhaps the best option.;;;;;;;;;;;;;x
-EVTOPTC_MNM_5115_powder;Some sprinkles of [GetSelectedIngredient_2] is just what I need.;;;;;;;;;;;;;x
-EVTOPTC_MNM_5207;I am sure this is just a misunderstanding.;;;;;;;;;;;;;x
-EVTOPTC_MNM_5209;Focus! This is an opportune time for my work on the Prima materia.;;;;;;;;;;;;;x
-EVTOPTC_MNM_5209_TT;You spend the rest of your evening researching, increasing your chances of winning the debate.\n;;;;;;;;;;;;;x
-EVTOPTC_MNM_5211;I should concoct something to relax me, or help me focus even!;;;;;;;;;;;;;x
-
-EVTOPTD_MNM_5105;"Clearly this must be a mistake, let's calm down for a moment!";;;;;;;;;;;;;x
-EVTOPTD_MNM_5115;I might just combine the two!;;;;;;;;;;;;;x
-EVTOPTD_MNM_5115_duplicate;I could also use twice as much...!;;;;;;;;;;;;;x
-EVTOPTD_MNM_5207;I should just pretend I wasn't here...;;;;;;;;;;;;;x
-
-EVTOPTE_MNM_5115;Actually, I'll just empty the cabinet. Throw it all in there!;;;;;;;;;;;;;x
-EVTOPTE_MNM_5115_tt;Desperate times call for desperate measures.\n;;;;;;;;;;;;;x
-
-EVTTOOLTIP_MNM_5102;You will recite your new-found knowledge in an upcoming debate, as if it were your own.\n;;;;;;;;;;;;;x
-EVTTOOLTIP_MNM_5103;Your preparation notes for today are ruined, decreasing your chances of winning the debate.\n;;;;;;;;;;;;;x
-
-EVTTOOLTIPA_MNM_5101;Plant some forged notes about a ground-breaking discovery in a convenient place.\n;;;;;;;;;;;;;x
-EVTTOOLTIPA_MNM_5105;Your performance greatly impressed everyone present, increasing your chances of winning the debate.\n;;;;;;;;;;;;;x
-EVTTOOLTIPB_MNM_5101;Attempt to make the notes unusable.\n;;;;;;;;;;;;;x
-EVTTOOLTIPB_MNM_5105;This embarrassing situation will not soon be forgotten, and decreases your chances of winning the debate.\n;;;;;;;;;;;;;x
-
-GRAND_DEBATE_TITLE;The Grand Debate;;;;;;;;;;;;;x
+EVTDESC_MNM_1980;As I expect many members of [Root.Society.GetName] to appear for the Grand Debate, it is of the utmost importance that everything is to be as flawless as possible. In this spirit the preparations are well underway – my staff has seen to the lodgings and the chef has stocked up the larders. All that is left now is to send out the invitations.;;;;;;;;;;;Ìíîãèå ìîè êîëëåãè-[Root.GetSocietyName] áóäóò ó÷àñòâîâàòü â âåëèêèõ äåáàòàõ, ïîýòîìó âàæíî, ÷òîáû âñ¸ ïðîøëî áåçóïðå÷íî. Ïîäãîòîâêà èä¸ò ïîëíûì õîäîì: ñëóãè îñìàòðèâàþò êîìíàòû, à ïîâàð ïåðåáèðàåò çàïàñû â êëàäîâûõ. Îñòàëîñü òîëüêî ðàçîñëàòü ïðèãëàøåíèÿ.;;x
+EVTDESC_MNM_1981;A courier just arrived carrying a letter from [FromFrom.GetSocietyRank] [FromFrom.GetFirstName]. Reading the letter, I see that it is an invitation bidding all members of [FromFrom.Society.GetName] to attend the Grand Debate.;;;;;;;;;;;Ãîíåö òîëüêî ÷òî ïðèáûë êî ìíå ñ ïèñüìîì. [FromFrom.GetSocietyRank] [FromFrom.GetFirstName] ïðèãëàøàåò ìåíÿ, êàê è âñåõ [FromFrom.GetSocietyNameGEN] íà âåëèêèå äåáàòû.;;x
+EVTDESC_MNM_1983;The guest are arriving in this very moment. It is time for the grand debate to begin and spend the next few days to have each and every one display their knowledge to decide who the best of us is.;;;;;;;;;;;Ãîñòè òîëüêî ÷òî ïðèáûëè. Ïîðà îáúÿâèòü íà÷àëî âåëèêèõ äåáàòîâ, è ïóñòü â ñëåäóþùèå íåñêîëüêî äíåé êàæäûé èç íàñ ïðîäåìîíñòðèðóåò ñâîè çíàíèÿ, ÷òîáû âûáðàòü ëó÷øåãî.;;x
+EVTDESC_MNM_1989;I have been declared the winner of the grand debate! Showing all that no one is as knowledgeable as me, or has the ability to put forth arguments quite like me.;;;;;;;;;;;Ìåíÿ îáúÿâèëè ïîáåäèòåë[Root.GetSoftNitseyEm] âåëèêèõ äåáàòîâ! ß ïîêàçàë[Root.GetEndA] âñåì, ÷òî íèêòî íå îáëàäàåò ñòîëü îáøèðíûìè çíàíèÿìè, êàê ÿ, à åñëè è îáëàäàåò, òî óæ òî÷íî íå ìîæåò èçëîæèòü ñâîè àðãóìåíòû òàê æå èçÿùíî è äîñòóïíî äëÿ ïîíèìàíèÿ ïðèñóòñòâóþùèõ.;;x
+EVTDESC_MNM_1990;Many distinguished themselves during the debates. None however, performed as well as [From.GetTitledFirstName], who has been declared the winner of the grand debate!;;;;;;;;;;;Ìíîãèå îòëè÷èëèñü âî âðåìÿ äåáàòîâ. Îäíàêî, íèêòî íå ïîêàçàë ñåáÿ òàê õîðîøî, êàê [From.GetTitledFirstName], [From.GetHersHis] îáúÿâèëè ïîáåäèòåë[From.GetSoftNitseyEm]!;;x
+EVTDESC_MNM_1993;After several days of long discussions and much debating, the grand debate is over for now. There might have been a few heated arguments, but I think most attenders would agree that it was a learning experience.;;;;;;;;;;;Ñïóñòÿ íåñêîëüêî äíåé ïðîäîëæèòåëüíûõ äèñêóññèé è æàðêèõ ñïîðîâ, âåëèêèå äåáàòû ïîäîøëè ê êîíöó. Íåëüçÿ ñêàçàòü, ÷òî âñ¸ ïðîøëî ãëàäêî, íî äóìàþ, áîëüøèíñòâî ó÷àñòíèêîâ ñîãëàñÿòñÿ - ýòî áûë îïûò, êîòîðûé ìíîãîìó íàñ íàó÷èë.;;x
+EVTDESC_MNM_1994;I may not have won the grand debate itself, but I have had plenty of success nonetheless. The debates allowed me to learn new ways of putting my education to good use and even how to improve upon it!;;;;;;;;;;;Íåñìîòðÿ íà òî, ÷òî ìíå íå óäàëîñü çàâîåâàòü ïîáåäó íà âåëèêèõ äåáàòàõ, ÿ èìåë[Root.GetEndA] áîëüøîé óñïåõ. Ýòî ìåðîïðèÿòèå íå òîëüêî íàó÷èëî ìåíÿ ýôôåêòèâíåå èñïîëüçîâàòü àêàäåìè÷åñêèå çíàíèÿ, íî è óëó÷øèòü èõ!;;x
+EVTDESC_MNM_1994_HOST;The final guests just left, leaving peace and quiet behind. As I sit here and reflect upon my own contribution to the debate, I realize that I have learned new ways of putting my education to good use.;;;;;;;;;;;Ãîñòè òîëüêî ÷òî óøëè, îñòàâèâ ïîñëå ñåáÿ òèøèíó è ïîêîé. Ñèäÿ çäåñü è ðàçìûøëÿÿ î ñâî¸ì ëè÷íîì âêëàäå â ïðîøåäøèå äåáàòû, ÿ ïîíèìàþ, ÷òî ýòî ìåðîïðèÿòèå íå òîëüêî íàó÷èëî ìåíÿ ýôôåêòèâíåå èñïîëüçîâàòü àêàäåìè÷åñêèå çíàíèÿ, íî è óëó÷øèòü èõ!;;x
+EVTDESC_MNM_1995;The grand debate ends and I was not able to win. I did however, show some skillful debating during a few arguments that got applauded by the others.;;;;;;;;;;;Âåëèêèå äåáàòû òîëüêî ÷òî çàêîí÷èëèñü, è ÿ íå ñìîã[Root.GetNoneE] ïîáåäèòü. Îäíàêî ìíå óäàëîñü äîíåñòè äî ïóáëèêè ñâîè àðãóìåíòû. Íåêîòîðûì èç íèõ îíè äàæå àïëëîäèðîâàëè.;;x
+EVTDESC_MNM_1995_HOST;The final guests just left, leaving peace and quiet behind. As I sit here and reflect upon my own contribution to the debate, I think that I was able to show some skillful debating during a few arguments that got applauded by the others.;;;;;;;;;;;Ãîñòè òîëüêî ÷òî óøëè, îñòàâèâ ïîñëå ñåáÿ òèøèíó è ïîêîé. Ñèäÿ çäåñü è ðàçìûøëÿÿ î ñâî¸ì ëè÷íîì âêëàäå â ïðîøåäøèå äåáàòû, ÿ ïîíèìàþ, ÷òî ìíå óäàëîñü äîíåñòè äî ïóáëèêè ñâîè àðãóìåíòû. Íåêîòîðûì èç íèõ îíè äàæå àïëëîäèðîâàëè.;;x
+EVTDESC_MNM_1996;The grand debate ends and although I was unable to win, I learned a few things by observing the other participants.;;;;;;;;;;;Âåëèêèå äåáàòû òîëüêî ÷òî çàêîí÷èëèñü, è õîòÿ ìíå íå óäàëîñü çàâîåâàòü íà íèõ ïîáåäó, ÿ óçíàë[Root.GetEndA] ìíîãî íîâîãî, íàáëþäàÿ çà äðóãèìè ó÷àñòíèêàìè.;;x
+EVTDESC_MNM_1996_HOST;The final guests just left, leaving peace and quiet behind. As I sit here and reflect upon my own contribution to the debate, I did learn a few things by observing the other participants.;;;;;;;;;;;Ãîñòè òîëüêî ÷òî óøëè, îñòàâèâ ïîñëå ñåáÿ òèøèíó è ïîêîé. Ñèäÿ çäåñü è ðàçìûøëÿÿ î ñâî¸ì ëè÷íîì âêëàäå â ïðîøåäøèå äåáàòû, ÿ ïîíèìàþ, ÷òî óçíàë[Root.GetEndA] ìíîãî íîâîãî, íàáëþäàÿ çà äðóãèìè ó÷àñòíèêàìè.;;x
+EVTDESC_MNM_1997;The grand debate ends and I was unable to win. I cannot say that I learned anything during the discussions either. Study and preparation will be key for the next debate.;;;;;;;;;;;Âåëèêèå äåáàòû òîëüêî ÷òî çàêîí÷èëèñü. ß íå ñìîã[Root.GetNoneE] ïîáåäèòü, è äàæå íå ìîãó ñêàçàòü, ÷òî óçíàë[Root.GetEndA] ÷òî-òî íîâîå. ßñíî îäíî - ìíå åù¸ ìíîãîìó ïðåäñòîèò íàó÷èòüñÿ, ÷òîáû ïîêàçàòü ñåáÿ ëó÷øå íà ñëåäóþùèõ äåáàòàõ.;;x
+EVTDESC_MNM_1997_HOST;The final guests just left, leaving peace and quiet behind. As I sit here and reflect upon my own contribution to the debate, I realize that I have much to learn. I will have to prepare myself better for the next debate.;;;;;;;;;;;Ãîñòè òîëüêî ÷òî óøëè, îñòàâèâ ïîñëå ñåáÿ òèøèíó è ïîêîé. Ñèäÿ çäåñü è ðàçìûøëÿÿ î ñâî¸ì ëè÷íîì âêëàäå â ïðîøåäøèå äåáàòû, ÿ ïîíèìàþ, ÷òî ìíå åù¸ ìíîãîìó ïðåäñòîèò íàó÷èòüñÿ, ÷òîáû ïîêàçàòü ñåáÿ ëó÷øå íà ñëåäóþùèõ äåáàòàõ.;;x
+EVTDESC_MNM_1998;The grand debate ends and I did not achieve anything at all. I got ridiculed for my meager efforts as I was easily outsmarted by my opponents.;;;;;;;;;;;Âåëèêèå äåáàòû òîëüêî ÷òî çàêîí÷èëèñü, íî ÿ íè÷åãî íå äîáè[Root.GetLasLsya]. Îïïîíåíòû îñìåÿëè ìåíÿ. Íè îäèí èç ìîèõ àðãóìåíòîâ íå âûäåðæàë êðèòèêè.;;x
+EVTDESC_MNM_1998_HOST;The final guests just left, leaving peace and quiet behind. As I sit here and reflect upon my own contribution to the debate, I realize that I did not achieve anything. I got ridiculed for my meager efforts as I was easily outsmarted by my opponents.;;;;;;;;;;;Ãîñòè òîëüêî ÷òî óøëè, îñòàâèâ ïîñëå ñåáÿ òèøèíó è ïîêîé. Ñèäÿ çäåñü è ðàçìûøëÿÿ î ñâî¸ì ëè÷íîì âêëàäå â ïðîøåäøèå äåáàòû, ÿ ïîíèìàþ, ÷òî íè÷åãî íå äîáè[Root.GetLasLsya]. Îïïîíåíòû îñìåÿëè ìåíÿ. Íè îäèí èç ìîèõ àðãóìåíòîâ íå âûäåðæàë êðèòèêè.;;x
+EVTDESC_MNM_5100;Being at the debate is a draining process. I have not had a good night's sleep since I got here. Either I cannot fall asleep due to a searing pain in the back or I get woken up by loud arguments outside about yesterday's debate topics. Days like these I just long for a warm and cozy bed.;;;;;;;;;;;Äåáàòû òàê èçìàòûâàþò. Ñ òåõ ïîð, êàê ÿ çäåñü, ìíå íå óäàëîñü íè ðàçó íîðìàëüíî ïîñïàòü. Ïðè÷èíû ñàìûå ðàçíûå: òî áîëü â ñïèíå, òî ãðîìêèå íî÷íûå ñïîðû ïî ïîâîäó ïðîøëûõ çàñåäàíèé. Â òàêèå äíè ÿ õî÷ó ïðîñòî ïîñëàòü âñ¸ ê ÷¸ðòó è îòïðàâèòüñÿ äîìîé â ñâîþ óþòíóþ ïîñòåëü.;;x
+EVTDESC_MNM_5101;An opportunity has presented itself for me to level the playing field of the debate. [sabotage_target.GetSocietyRank] [sabotage_target.GetFirstName] a great debater under normal circumstances, [sabotage_target.GetSheHe] is very dependent on [sabotage_target.GetHerHis] meticulous notes.;;;;;;;;;;;Ìíå ïðåäñòàâèëàñü âîçìîæíîñòü óðàâíÿòü øàíñû íà äåáàòàõ. Â íîðìàëüíûõ óñëîâèÿõ [sabotage_target.GetSocietyRank] [sabotage_target.GetFirstName] - îòëè÷í[sabotage_target.GetAyaYy] ñïîðùè[sabotage_target.GetTsaK], îäíàêî áåç ñâîèõ ïîäðîáíûõ çàìåòîê [sabotage_target.GetHerHim] âðÿä ëè óäàñòñÿ ñåáÿ ïðîÿâèòü.;;x
+EVTDESC_MNM_5103;While I am sitting and preparing for the debate, studying my notes carefully, [From.GetSocietyRank] [From.GetFirstName] stumbles and drops everything in [From.GetHerHis] hands. Parchments and quills are strewn everywhere and my notes are now soaked in ink!;;;;;;;;;;;Ïîêà ÿ ñèäåë[Root.GetEndA] è ãîòîâè[Root.GetLasLsya] ê äåáàòàì, òùàòåëüíî èçó÷àÿ òåêñò ïðåäñòîÿùåé ðå÷è, [From.GetSocietyRank] [From.GetFirstName] ñïîòêíó[From.GetLasLsya] è óðîíèë[From.GetEndA] âñ¸, ÷òî áûëî â [From.GetHersHis] ðóêàõ, ðàçáðîñàâ ïîâñþäó ñâîè ïåðãàìåíòû è çàëèâ ÷åðíèëàìè ìîè çàìåòêè!;;x
+EVTDESC_MNM_5104;"I was successful in ""accidentally"" dropping ink on the notes of [From.GetSocietyRank] [From.GetFirstName], ruining them beyond readability. [From.GetFirstName] was however less than happy with my clumsy behavior...";;;;;;;;;;;"[From.GetSocietyRank] [From.GetFirstName] ñèëüíî ðàçîçëè[From.GetLasLsya], êîãäà ÿ ""ñëó÷àéíî"" ñïîòêíó[Root.GetLasLsya] è îáëèë[Root.GetEndA] ÷åðíèëàìè [From.GetHersHis] çàìåòêè. [From.GetSheHeCap] ñðàçó ïîíÿë[From.GetEndA] ÷òî ê ÷åìó è áðîñè[From.GetLasLsya] íà ìåíÿ ñ îáâèíåíèÿìè.";;x
+EVTDESC_MNM_5115_other;[potion_target.GetTitledFirstName] will likely accept my brew, regardless of the quality. However, sifting through my recipes, I can't quite decide on which ingredients to use... While the [GetSelectedIngredient_1] [GetSelectedIngredient_1_property], I wonder what my [potion_target.GetRootRelation] would think.;;;;;;;;;;;[potion_target.GetTitledFirstName] ñêîðåå âñåãî ïðèìåò ìî¸ çåëüå, íåçàâèñèìî îò åãî êà÷åñòâà. Îäíàêî, êîïàÿñü â ñâîèõ ðåöåïòàõ, ÿ íèêàê íå ìîãó îïðåäåëèòüñÿ ñ èíãðåäèåíòàìè... [GetSelectedIngredient_1][GetSelectedIngredient_1_property]. Äàæå íå çíàþ, êàê ì[potion_target.GetOyaOy] [potion_target.GetRootRelation] ýòî âîñïðèìåò.;;x
+EVTDESC_MNM_5115_self;In this state, I almost do not care about the quality of my potion. Still, while rummaging through my drawers, I can't quite decide on which ingredients to use... The [GetSelectedIngredient_1] [GetSelectedIngredient_1_property], I suppose.;;;;;;;;;;;Â òàêîì ñîñòîÿíèè ìåíÿ ïî÷òè íå çàáîòèò êà÷åñòâî ìîåãî çåëüÿ. Òåì íå ìåíåå, îñìàòðèâàÿ ñâîè ïîëêè, ÿ íèêàê íå ìîãó ðåøèòü, êàêîé èç èíãðåäèåíòîâ ëó÷øå èñïîëüçîâàòü... [GetSelectedIngredient_1][GetSelectedIngredient_1_property].;;x
+EVTDESC_MNM_5201;"During a late conversation with a fellow member of [This.Society.GetName], I find myself discussing the power of one's phrasing. When I jokingly suggest that I should attempt to deliver my arguments in verse, [fellow_debater_target.GetTitledFirstName], to my surprise, nods appreciatively. ""Do not underestimate the power of a good rhyme"", [fellow_debater_target.GetSheHe] says.";;;;;;;;;;;Âî âðåìÿ ðàçãîâîðà ñî ñâî[fellow_debater_target.GetEyIm] êîëëåãîé ÿ ïîñòåïåííî ïåðåø[Root.GetLaYol] ê îöåíêå ñîáñòâåííîãî êðàñíîðå÷èÿ, à êîãäà èðîíè÷íî ïîøóòèë[Root.GetEndA], ïðåäïîëîæèâ, ÷òî ìíå ñëåäîâàëî áû âûðàçèòü ñâîè àðãóìåíòû â ñòèõàõ, [fellow_debater_target.GetTitledFirstName] ê ìîåìó óäèâëåíèþ, îäîáðèòåëüíî êèâíóë[fellow_debater_target.GetEndA].\n— Íå ñòîèò íåäîîöåíèâàòü ñèëó ñëîãà, — ñêàçàë[fellow_debater_target.GetEndA] [fellow_debater_target.GetSheHe].;;x
+EVTDESC_MNM_5202;During today's debate, I'm unsettled to find my rival [rival_debater_target.GetTitledFirstName] observing me. Turning back to the rest of the audience, I take a deep breath, before continuing my reasoning. Once I'm finished, I am startled to see that [rival_debater_target.GetFirstName] has stood up, smiling – with a quirked eyebrow [rival_debater_target.GetSheHe] offers me a nod of respect.;;;;;;;;;;;Âî âðåìÿ ñåãîäíÿøíèõ äåáàòîâ ÿ íå ìîã[Root.GetNoneE] íå çàìåòèòü, êàê ì[rival_debater_target.GetOyaOy] îïïîíåíò[rival_debater_target.GetEndKa] [rival_debater_target.GetTitledFirstName] ïðèñòàëüíî íàáëþäàë[rival_debater_target.GetEndA] çà ìíîé. Ïîâåðíóâøèñü ê îñòàëüíîé àóäèòîðèè, ÿ ãëóáîêî âçäîõíóë[Root.GetEndA] è ïðîäîëæèë[Root.GetEndA] îáúÿñíåíèÿ. Çàêîí÷èâ ñâîþ ðå÷ü, ÿ óäèâè[Root.GetLasLsya] [rival_debater_target.GetHersHis] ðåàêöèè - [rival_debater_target.GetSheHe] âñòàë[rival_debater_target.GetEndA] è óëûáíóâøèñü êèâíóë[rival_debater_target.GetEndA] ìíå â çíàê óâàæåíèÿ.;;x
+EVTDESC_MNM_5203_A;After some time spent listening to the debates between scholars of varying intellect, I admit to occasionally drifting off into my own thoughts... Yet there is one person that keeps bringing my attention back to the present – [striking_debater_target.GetTitledName] has wits and a way with words, unlike any I have seen.;;;;;;;;;;;Âûñëóøèâàÿ íåñêîí÷àåìóþ äèñêóññèþ ó÷¸íûõ ìåæäó ñîáîé, ìíå ñ òðóäîì óäà¸òñÿ ñîõðàíÿòü êîíöåíòðàöèþ, âðåìÿ îò âðåìåíè ïîãðóæàþñü â ñâîè ìûñëè... Íî åñòü îäèí ÷åëîâåê, êîòîðîãî ÿ ñëóøàþ ñ áîëüøèì èíòåðåñîì - ýòî [striking_debater_target.GetTitledFirstName]. [striking_debater_target.GetHersHisCap] óìíûå êîììåíòàðèè è ÷¸òêèå ôîðìóëèðîâêè ïðèÿòíî âûäåëÿþòñÿ íå îáùåì ôîíå.;;x
+EVTDESC_MNM_5203_B;After some time spent listening to the debates between scholars of varying intellect, I admit to occasionally drifting off into my own thoughts... I suppose I shouldn't be surprised that there is one person that keeps bringing my attention back to the present – [striking_debater_target.GetTitledFirstName] has always had a way with words, as well as an alluring presence.;;;;;;;;;;;Âûñëóøèâàÿ íåñêîí÷àåìóþ äèñêóññèþ ó÷¸íûõ ìåæäó ñîáîé, ìíå ñ òðóäîì óäà¸òñÿ ñîõðàíÿòü êîíöåíòðàöèþ, âðåìÿ îò âðåìåíè ïîãðóæàþñü â ñâîè ìûñëè... [striking_debater_target.GetTitledFirstName] - ïðèÿòíîå èñêëþ÷åíèå, [striking_debater_target.GetSheHe] óìååò óáåæäàòü. ß ìîãó ñëóøàòü [striking_debater_target.GetHersHis] âåñü äåíü.;;x
+EVTDESC_MNM_5204;While debating [Custom.GetHermeticDebateSubject], I have the sudden impulse that a comedic story, once told to me by a stable-hand, would underline my point perfectly. Even if it doesn't, laughter might win me just as many allies.;;;;;;;;;;;Îáñóæäàÿ [Root.GetHermeticDebateSubject] ñ êîëëåãàìè íà äåáàòàõ, ìíå âäðóã çàõîòåëü ðàññêàçàòü ñìåøíóþ èñòîðèþ, êîòîðóþ ÿ îäíàæäû óñëûøàë[Root.GetEndA] îò êîíþõà, ýòî ìîãëî áû íåìíîãî ðàçðÿäèòü îáñòàíîâêó. Â êîíöå êîíöîâ, õîðîøèé ñìåõ åù¸ íèêîìó íå ïîìåøàë, ýòî ìîæåò äàòü ìíå íîâûõ ñîþçíèêîâ.;;x
+EVTDESC_MNM_5205;'...and if those words, even uttered by a simpleton, does not illustrate my point, nothing ever will.'\nI am unsure if anyone heard my decisive conclusion over the roars of laughter, but it mattered little. The crowd was completely won over by my story.;;;;;;;;;;;" ""... è åñëè ýòè ñëîâà, ïóñòü äàæå ïðîèçíåñ¸ííûå ïðîñòàêîì, íå èëëþñòðèðóþò ìîþ òî÷êó çðåíèÿ, å¸ óæå íè÷òî íå ïðîèëëþñòðèðóåò"", — çàêîí÷èë[Root.GetEndA] ÿ.\nÍå óâåðåí[Root.GetEndA], ÷òî êòî-òî óñëûøàë ìîé îêîí÷àëüíûé âûâîä ñêâîçü âçðûâû ñìåõà, íî ýòî óæå íå âàæíî. Òîëïà áûëà ïîëíîñòüþ çàõâà÷åíà ìîåé èñòîðèåé.";;x
+EVTDESC_MNM_5206;I stand before the room in complete silence for a minute before asking again. 'Get it?'\nSomeone accidentally drops the pin they used to illustrate the Theory of Dancing Angels to the floor. The light ding is as loud as a bell in my ears.;;;;;;;;;;;"Â òå÷åíèå ìèíóòû ÿ ñòîÿë[Root.GetEndA] ïîñðåäè êîìíàòû â ïîëíîé òèøèíå, à ïîòîì äîáàâèë[Root.GetEndA]: ""Ïîíÿëè? Øóòêà èëëþñòðèðóåò ìîþ òåîðèþ."". Êòî-òî ñëó÷àéíî óðîíèë íà ïîë áóëàâêó.\n—Ïîëàãàþ, ïîëó òîëüêî ÷òî ïðîèëëþñòðèðîâàëè òåîðèþ ""Àíãåëîâ íà êîíöå èãëû"", — åõèäíî îòìåòèë îäèí èç êîëëåã, è âñå çàñìåÿëèñü.";;x
+EVTDESC_MNM_5207;"I hear the voice of [fellow_member_1.GetTitledFirstName] before I even enter the room. ""[fellow_member_2.GetTitledFirstName], you clearly know nothing of [fellow_member_1.GetHermeticDebateSubject]! Why are we even having this conversation?!""";;;;;;;;;;;"Ïðåæäå ÷åì âîéòè â êîìíàòó, ÿ óñëûøàë[Root.GetEndA] ãîëîñ, ýòî áûë[fellow_member_1.GetEndA] [fellow_member_1.GetTitledFirstName]. [fellow_member_1.GetSheHeCap] áåñöåðåìåííî çàÿâèë[fellow_member_1.GetEndA]: ""[fellow_member_2.GetTitledFirstName], î÷åâèäíî, Âû íè÷åãî íå ñìûñëèòå [fellow_member_1.GetHermeticDebateSubjectPREPV]! Çà÷åì ìû âîîáùå ýòî îáñóæäàåì?!"".";;x
+EVTDESC_MNM_5208;There is something annoyingly pompous in the speech of [fellow_member_target.GetTitledFirstName] – when did [fellow_member_target.GetSheHe] become an expert on [Root.GetHermeticDebateSubject]?\nSighing, I close my hand around the vial in my pocket.;;;;;;;;;;;" ""[fellow_member_target.GetTitledFirstName]... [fellow_member_target.GetHersHisCap] ðå÷ü òàê íàïûùåííà, àæ ïðîòèâíî, è ñ êàêèõ ïîð [fellow_member_target.GetSheHe] ñòàë[fellow_member_target.GetEndA] ýêñïåðòîì [Root.GetHermeticDebateSubjectPREPV]?"" — âçäîõíóâ ïîäóìàë[Root.GetEndA] ÿ, íàùóïûâàÿ ôëàêîí â êàðìàíå.";;x
+EVTDESC_MNM_5209;"These past few days, I've felt an energy rising within me, urging to be used for creativity. ""I could build a new laboratory! Wait, no... I should prepare my notes for tomorrow"", I mumble. Glancing at a stack of parchments, it occurs to me that I could compose a letter to my dear [inspired_letter_target.GetTitledFirstName].";;;;;;;;;;;"Â ïîñëåäíèå äíè ÿ ÷óâñòâóþ ïðèëèâ ñèë äëÿ íîâûõ ñâåðøåíèé. ""Íàäî ïîñòðîèòü íîâóþ ëàáîðàòîðèþ! Ñòîï, íåò... Ìíå æå íóæíî ïîäãîòîâèòü ñâîè çàïèñè íà çàâòðà"", — ïðîáîðìîòàë[Root.GetEndA] ÿ ñåáå ïîä íîñ è âçãëÿíóë[Root.GetEndA] íà ñòîïêó ïåðãàìåíòîâ - ìíå ïðèøëà â ãîëîâó î÷åðåäíàÿ èäåÿ: èíòåðåñíî, êàê òàì [insp_letter_target.GetTitledFirstName], íàïèøó-êà ÿ [insp_letter_target.GetHerHim] ïèñüìî!";;x
+EVTDESC_MNM_5210;I have received a long and heartfelt letter from [From.GetTitledFirstName]. It contains beautiful metaphors about how important I am to [From.GetHerHim], expressed with an eager earnestness I have seldom seen in my [From.GetRootRelation] before. I wonder what prompted this...;;;;;;;;;;;[From.GetTitledFirstName] ïðèñëàë[From.GetEndA] ìíå äëèííîå è î÷åíü òðîãàòåëüíîå ïèñüìî. Îíî èçîáèëóåò ìåòàôîðàìè î òîì, íàñêîëüêî ÿ âàæ[Root.GetNaEn] äëÿ í[From.GetHerHis]. Ïðåæäå ì[From.GetOyaOy] [From.GetRootRelation] ðåäêî ïðîÿâëÿë[From.GetEndA] ïîäîáíûå ÷óâñòâà. Èíòåðåñíî, ÷òî [From.GetHersHis] âäîõíîâèëî...;;x
+EVTDESC_MNM_5211;Many of my fellow debaters often stay up late, honing their arguments well into the night. I'm starting to feel the lack of sleep getting to me... My mind often drifts, leaving me staring into thin air, and while I sift through my notes, looking for points not yet brought up by my peers, my hands show signs of tremors.;;;;;;;;;;;Ìíîãèå èç ìîèõ êîëëåã ïî äåáàòàì ÷àñòî çàäåðæèâàþòñÿ äî ïîçäíà, òùàòåëüíî îòòà÷èâàÿ ñâîè àðãóìåíòû, è ìíå êàæåòñÿ, ÿ íà÷èíàþ îùóùàòü íåäîñòàòîê ñíà. Ìîè ìûñëè áåñöåëüíî áëóæäàþò, à ðóêè äðîæàò, ïîêà ÿ ñíîâà è ñíîâà ïûòàþñü ïîäîáðàòü íóæíûå ñëîâà èç ñâîèõ çàìåòîê, íî áåçóñïåøíî.;;x
+EVTDESCA_MNM_5102;After a tough day full of debates I find myself alone in the corridor. Curiously, I spot some notes forgotten on the floor. The notes speak of [Root.GetHermeticDebateSubject]! This is great, I could use these notes to prepare for my next debate.;;;;;;;;;;;Ïîñëå òðóäíîãî äíÿ ñïîðîâ è îáñóæäåíèé ÿ óæå âîçâðàùà[Root.GetLasLsya] â ñâ[Root.GetMyChamberACC], íî âäðóã îáíàðóæèë[Root.GetEndA] êàêèå-òî çàïèñè íà ïîëó â êîðèäîðå. Îíè îïèñûâàëè [Root.GetHermeticDebateSubject]! Ïðåêðàñíî, ýòî ïðèãîäèòñÿ ìíå íà ñëåäóþùèõ äåáàòàõ.;;x
+EVTDESCA_MNM_5105;I performed splendidly in today's debate, much thanks to the brilliant research I found in the hallway. My competitors were left without any good arguments to counter my impeccable logic.;;;;;;;;;;;ß îòëè÷íî âûñòóïèë[Root.GetEndA] íà ñåãîäíÿøíèõ äåáàòàõ, âî ìíîãîì áëàãîäàðÿ áëåñòÿùåìó èññëåäîâàíèþ, êîòîðîå êòî-òî îáðîíèë â êîðèäîðå. Äîâîäû ìîèõ îïïîíåíòîâ íå ñìîãëè ïðîòèâîñòîÿòü áåçóïðå÷íîé ëîãèêå óòâåðæäåíèé, ñîäåðæàùèõñÿ â ýòèõ çàìåòêàõ.;;x
+EVTDESCA_MNM_5106;[From.GetSocietyRank] [From.GetFirstName] made a fool of [From.GetHerselfHimself] today at the debate, by citing parts of the forged notes I planted some days ago for [From.GetHerHim] to find. At certain moments [From.GetSheHe] had the whole room veritably bursting to tears laughing!;;;;;;;;;;;[From.GetSocietyRank] [From.GetFirstName] ñòàë[From.GetEndA] ïîñìåøèùåì íà ñåãîäíÿøíèõ äåáàòàõ, ñîñëàâøèñü íà ÷àñòü ïîääåëüíûõ çàìåòîê, êîòîðûå ÿ ïîäáðîñèë[Root.GetEndA] [From.GetHerHim] íåñêîëüêî äíåé íàçàä. Âçðûâû áåçóäåðæíîãî ñìåõà áûëî ñëûøíî äàëåêî çà ïðåäåëàìè àóäèòîðèè!;;x
+EVTDESCB_MNM_5102;After a tough day full of debates I find myself alone in the corridor. Curiously, I spot some notes forgotten on the floor. The notes speak of [Root.GetSillyDebateSubject]! This is great, I could use these notes to prepare for my next debate.;;;;;;;;;;;Ïîñëå òðóäíîãî äíÿ ñïîðîâ è îáñóæäåíèé ÿ óæå âîçâðàùà[Root.GetLasLsya] â ñâ[Root.GetMyChamberACC], íî âäðóã îáíàðóæèë[Root.GetEndA] êàêèå-òî çàïèñè íà ïîëó â êîðèäîðå. Â íèõ ãîâîðèëîñü î òîì, [Root.GetSillyDebateSubject]. ß ìîãó èñïîëüçîâàòü ýòî íà ñëåäóþùèõ äåáàòàõ.;;x
+EVTDESCB_MNM_5105;Reciting the notes I found the other day proved to be an unfortunate mistake... The crowd was loud and vigorous, not because they were struck by my burgeoning intellect, but because they were laughing. Someone must have crafted those notes as a joke!;;;;;;;;;;;Ñëåäîâàíèå òåêñòó çàìåòîê, êîòîðûå ÿ íàø[Root.GetLaYol] íà äíÿõ, îêàçàëîñü äîñàäíîé îøèáêîé... Òîëïà îòðåàãèðîâàëà âåñüìà áóðíî, íî ýòî áûëî íå âîñõèùåíèå ìîèìè äîâîäàìè, à áåçóäåðæíûé ñìåõ. Î÷åâèäíî, êòî-òî ïîäøóòèë íàäî ìíîé, ïîäáðîñèâ ýòó ÷åïóõó!;;x
+EVTDESCB_MNM_5106;Despite my best effort [From.GetSocietyRank] [From.GetBestName] has ignored the notes that I deliberately left in plain sight of [From.GetHerHim].;;;;;;;;;;;Íåñìîòðÿ íà âñå ìîè óñèëèÿ, [From.GetSocietyRank] [From.GetBestName] ïðîèãíîðèðîâàë[From.GetEndA] çàïèñè, êîòîðûå ÿ ïîäáðîñèë[Root.GetEndA] [From.GetHerHim] íåñêîëüêî äíåé íàçàä.;;x
+EVTDESCC_MNM_5105;During today's debate I recited the notes I found the other day far too literally... After a short while someone in the audience started shouting and called me out on being a fraud for stealing their work.;;;;;;;;;;;Â õîäå ñåãîäíÿøíèõ äåáàòîâ ÿ îïåðèðîâàë[Root.GetEndA] çàïèñÿìè êîòîðûå êòî-òî îáðîíèë â êîðèäîðå. Íåêîòîðîå âðåìÿ ñïóñòÿ îäèí èç ïðèñóòñòâóþùèõ ãðîìêî ïðåðâàë ìåíÿ, îáâèíèâ â ïëàãèàòå.;;x
+EVTOPTA_MNM_1980;Bring me my most trusted courier!;;;;;;;;;;;Ïîçîâèòå ìîåãî ñàìîãî äîâåðåííîãî ãîíöà!;;x
+EVTOPTA_MNM_1981;A most excellent opportunity to display my knowledge!;;;;;;;;;;;Ïðåêðàñíàÿ âîçìîæíîñòü ïðîäåìîíñòðèðîâàòü ñâîè çíàíèÿ!;;x
+EVTOPTA_MNM_1983;Let the debate commence!;;;;;;;;;;;Äà íà÷íóòñÿ äåáàòû!;;x
+EVTOPTA_MNM_1989;The sweetest of all sounds is praise.;;;;;;;;;;;Êàê æå ýòî ïðèÿòíî.;;x
+EVTOPTA_MNM_1990;Well done!;;;;;;;;;;;Ïîçäðàâëÿþ, êîëëåãà! Òàê äåðæàòü!;;x
+EVTOPTA_MNM_1991;Congratulations are in order.;;;;;;;;;;;Ïîçäðàâëÿþ, êîëëåãà!;;x
+EVTOPTA_MNM_1993;A most successful event!;;;;;;;;;;;Ñïàñèáî âñåì çà ó÷àñòèå!;;x
+EVTOPTA_MNM_1994;A triumph in my eyes.;;;;;;;;;;;Ýòî äàæå ëó÷øå, ÷åì ïîõâàëà êîëëåã.;;x
+EVTOPTA_MNM_1995;A noteworthy success.;;;;;;;;;;;Ìîæíî ñêàçàòü, ÷òî ýòî óñïåõ.;;x
+EVTOPTA_MNM_1996;A worthwhile effort.;;;;;;;;;;;Ýòî ñòîèëî òîãî.;;x
+EVTOPTA_MNM_1997;It was still time well spent.;;;;;;;;;;;×òî æ, ìíå åñòü ê ÷åìó ñòðåìèòüñÿ.;;x
+EVTOPTA_MNM_1998;A shameful display...;;;;;;;;;;;Ïî ïðàâäå ãîâîðÿ, ìî¸ âûñòóïëåíèå áûëî ïîçîðíûì...;;x
+EVTOPTA_MNM_5100;These accommodations are the worst...;;;;;;;;;;;È êòî òîëüêî ïðîåêòèðîâàë ýòè êîìíàòû...;;x
+EVTOPTA_MNM_5101;Perhaps [sabotage_target.GetSheHe] could find some of mine...;;;;;;;;;;;Ïîäìåíþ [sabotage_target.GetHersHis] çàìåòêè ñâîèìè.;;x
+EVTOPTA_MNM_5102;Even someone else's knowledge is the path to success.;;;;;;;;;;;Äàæå ÷óæèå çíàíèÿ ìîãóò ñòàòü ïóò¸ì ê óñïåõó.;;x
+EVTOPTA_MNM_5103;An unfortunate accident.;;;;;;;;;;;Íå ïîâåçëî...;;x
+EVTOPTA_MNM_5104;You can't make an omelete without breaking a few eggs.;;;;;;;;;;;Íåëüçÿ ïðèãîòîâèòü îìëåò, íå ðàçáèâ ïàðó ÿèö.;;x
+EVTOPTA_MNM_5105;With a little bit of fortune anything is possible.;;;;;;;;;;;Íåìíîãî âåçåíèÿ, è âîò îí óñïåõ.;;x
+EVTOPTA_MNM_5106;[From.GetSheHeCap] sure is gullible...;;;;;;;;;;;[From.GetSheHeCap] òàê[From.GetAyaOy] ëåãêîâåðí[From.GetAyaYy]...;;x
+EVTOPTA_MNM_5115_animal_part;Some coarsely ground [GetSelectedIngredient_1] feels about right.;;;;;;;;;;;[GetSelectedIngredient_1]... À ïî÷åìó áû è íåò?;;x
+EVTOPTA_MNM_5115_herb;Some crushed [GetSelectedIngredient_1] feels about right.;;;;;;;;;;;Õîðîøî, äîáàâëþ [GetSelectedIngredient_1].;;x
+EVTOPTA_MNM_5115_liquid;A little [GetSelectedIngredient_1] feels about right.;;;;;;;;;;;Êàïëÿ [GetSelectedIngredient_1GEN] äàñò íóæíûé ýôôåêò.;;x
+EVTOPTA_MNM_5115_powder;A few flakes of [GetSelectedIngredient_1] feels about right.;;;;;;;;;;;Ïàðà ùåïîòîê [GetSelectedIngredient_1GEN], äà, òî, ÷òî íóæíî.;;x
+EVTOPTA_MNM_5201;Perhaps it is exactly what my theme needs!;;;;;;;;;;;Âîçìîæíî, ýòî èìåííî òî, ÷òî ìíå íóæíî!;;x
+EVTOPTA_MNM_5201_TT;The rest of your evening is spent discussing the finer points of poetry.\n;;;;;;;;;;;Ïîñâÿòèòü âå÷åð ïîýçèè.\n;;x
+EVTOPTA_MNM_5202;I am glad we can see beyond our differences during occasions like these.;;;;;;;;;;;ß ðàä[Root.GetEndA], ÷òî â òàêèå ìîìåíòû ìû ìîæåì çàáûòü î ðàçíîãëàñèÿõ.;;x
+EVTOPTA_MNM_5203;I... I am not sure what these feelings are!;;;;;;;;;;;ß ðàä[Root.GetEndA], ÷òî [striking_debater_target.GetSheHe] çäåñü, íà ýòèõ äåáàòàõ.;;x
+EVTOPTA_MNM_5204;Once upon a time, a servant of mine was shoveling horse dung...;;;;;;;;;;;Äàâíûì-äàâíî, ìîé ñëóãà êîïàë êîíñêèé íàâîç...;;x
+EVTOPTA_MNM_5204_TT;There is a chance the joke doesn't land, but if you do well you might charm everyone's beards off!;;;;;;;;;;;"Åñòü øàíñ, ÷òî øóòêà ""íå çàéä¸ò"", íî åñëè âñ¸ ïîëó÷èòñÿ, Âû î÷àðóåòå ïóáëèêó.";;x
+EVTOPTA_MNM_5205;Just as funny as I am thoughtful!;;;;;;;;;;;Ðàä[Root.GetEndA], ÷òî Âàì ïîíðàâèëîñü.;;x
+EVTOPTA_MNM_5206;I can't ever show my face to those people again!;;;;;;;;;;;ß îïîçîðè[Root.GetLasLsya]...;;x
+EVTOPTA_MNM_5207;[fellow_member_1.GetFirstName], there you are! Keep your voice down, would you?;;;;;;;;;;;[fellow_member_1.GetFirstName], íåëüçÿ ëè ïîòèøå?;;x
+EVTOPTA_MNM_5208;It would be worth it.;;;;;;;;;;;Îíî òîãî ñòîèò.;;x
+EVTOPTA_MNM_5208_TT;You sabotage the chances of §Y[fellow_member_target.GetTitledName]§! making a good impression during the Grand Debate.\n;;;;;;;;;;;§Y[fellow_member_target.GetTitledFirstName]§! òàê ðàçäðàæàåò Âàñ, ÷òî Âû ïîïûòàåòåñü ïîìåøàòü [fellow_member_target.GetHersHis] âûñòóïëåíèþ íà äåáàòàõ.\n;;x
+EVTOPTA_MNM_5209_friendly_target;Inspired words, to show my appreciation for [inspired_letter_target.GetHerHim].;;;;;;;;;;;ß õî÷ó âûðàçèòü [inspired_letter_target.GetHerHim] ñâîþ áëàãîäàðíîñòü.;;x
+EVTOPTA_MNM_5209_hostile_target;I'll make it difficult for [inspired_letter_target.GetHerHim] not to like me.;;;;;;;;;;;ß ïîñòàðàþñü ïîìèðèòüñÿ ñ í[inspired_letter_target.GetEyIm].;;x
+EVTOPTA_MNM_5209_love_target;Words cannot truly express my love for [inspired_letter_target.GetHerHim], but I'll try.;;;;;;;;;;;Ñëîâàìè íå âûðàçèòü âñåé ìîåé ëþáâè ê í[inspired_letter_target.GetHerHim], íî ÿ ïîñòàðàþñü.;;x
+EVTOPTA_MNM_5209_TT;My dear [inspired_letter_target.GetRootRelation]... I would not be who I am without you in my life.\nIn the end you toss papers around you, and spend all night perfecting the letter.\n;;;;;;;;;;;Ì[inspired_letter_target.GetOyaOy] äîðîã[inspired_letter_target.GetAyaOy] [inspired_letter_target.GetRootRelation]... Áåç Âàñ ÿ íå ñòàë[Root.GetEndA] áû ò[Root.GetOyEm], êòî ÿ åñòü.\nÁðîñèâ î÷åðåäíîé êëî÷îê áóìàãè, Âû ïèøåòå íîâûé óëó÷øåííûé âàðèàíò ïèñüìà.\n;;x
+EVTOPTA_MNM_5210;[From.GetFirstName] must really care about me.;;;;;;;;;;;Äîëæíî áûòü, [From.GetSheHe] ïðàâäà áåñïîêîèòñÿ îáî ìíå.;;x
+EVTOPTA_MNM_5211;This is too important to stop now.;;;;;;;;;;;Íåëüçÿ îòñòóïàòü, ýòî ñëèøêîì âàæíî.;;x
+EVTOPTA_MNM_5211_TT;You increase your chances of winning the debate.\n;;;;;;;;;;;Âû óâåëè÷èòå ñâîè øàíñû íà ïîáåäó â äåáàòàõ.\n;;x
+EVTOPTB_MNM_1981;A foolish endeavor.;;;;;;;;;;;Ãëóïàÿ çàòåÿ.;;x
+EVTOPTB_MNM_5100;I can't take this anymore. I want to go home!;;;;;;;;;;;Ñ ìåíÿ õâàòèò, ÿ óåçæàþ, ñåãîäíÿ æå!;;x
+EVTOPTB_MNM_5101;It would be a shame if anything happened to those notes.;;;;;;;;;;;Èñïîð÷ó èõ.;;x
+EVTOPTB_MNM_5102;I have more confidence in my own work.;;;;;;;;;;;ß ïðåäïî÷èòàþ ïîëàãàòüñÿ íà ñâîè òðóäû.;;x
+EVTOPTB_MNM_5103;[From.GetFirstName] clearly did that on purpose!;;;;;;;;;;;[From.GetSheHeCap] ñäåëàë[From.GetEndA] ýòî ñïåöèàëüíî!;;x
+EVTOPTB_MNM_5105;I was a fool to believe in those notes!;;;;;;;;;;;Ãëóïî áûëî íàäåÿòüñÿ íà ýòè çàìåòêè.;;x
+EVTOPTB_MNM_5106;I'll fool [From.GetHerHim] next time!;;;;;;;;;;;Íó íè÷åãî. Îäóðà÷ó [From.GetHersHis] â ñëåäóþùèé ðàç!;;x
+EVTOPTB_MNM_5115_animal_part;Some dried [GetSelectedIngredient_2] leaves a potent after-taste.;;;;;;;;;;;Íåò, ëó÷øå [GetSelectedIngredient_2].;;x
+EVTOPTB_MNM_5115_herb;A bit of crushed [GetSelectedIngredient_2] gives that particular scent.;;;;;;;;;;;Íåìíîãî [GetSelectedIngredient_2GEN] - âîò, ÷òî íóæíî.;;x
+EVTOPTB_MNM_5115_liquid;A few drops of [GetSelectedIngredient_2] is perhaps the best option.;;;;;;;;;;;Çäåñü íóæíî íå÷òî èíîå - [GetSelectedIngredient_2].;;x
+EVTOPTB_MNM_5115_powder;Some sprinkles of [GetSelectedIngredient_2] should do the trick!;;;;;;;;;;;Ëó÷øå... [GetSelectedIngredient_2]!;;x
+EVTOPTB_MNM_5201;Nonsense! I will focus on facts, not embellishments.;;;;;;;;;;;×åïóõà! ß ñîñðåäîòî÷óñü íà ôàêòàõ, à íå êðàñîòå èõ îïèñàíèÿ.;;x
+EVTOPTB_MNM_5201_TT;You spend the rest of your evening preparing for your next debate, increasing your chances of winning.\n;;;;;;;;;;;Ïîñâÿòèòü âå÷åð ïîäãîòîâêå ê äåáàòàì, ÷òîáû óâåëè÷èòü øàíñû íà ïîáåäó.\n;;x
+EVTOPTB_MNM_5204;This is not the time for foolish tales.;;;;;;;;;;;Ñåé÷àñ íå âðåìÿ äëÿ ãëóïûõ èñòîðèé.;;x
+EVTOPTB_MNM_5204_TT;You sit back down.;;;;;;;;;;;Ñåñòü íà ìåñòî.;;x
+EVTOPTB_MNM_5207;[fellow_member_2.GetFirstName], what is [fellow_member_1.GetSheHe] on about?;;;;;;;;;;;[fellow_member_2.GetFirstName], î ÷¸ì ýòî [fellow_member_1.GetSheHe]?;;x
+EVTOPTB_MNM_5208;This is foolish, I respect my fellow scholars.;;;;;;;;;;;Ýòî ãëóïî. Ìóäðûå ëþäè çàñëóæèâàþò óâàæåíèÿ.;;x
+EVTOPTB_MNM_5208_TT;No matter how pompous.\n;;;;;;;;;;;Íå âàæíî, êàê ýòî âûãëÿäèò, ÿ íå ñòàíó ìåøàòü.\n;;x
+EVTOPTB_MNM_5209_friendly_target;A small poem, to illustrate my appreciation for [inspired_letter_target.GetHerHim].;;;;;;;;;;;Íåáîëüøàÿ ïîýìà ïðîèëëþñòðèðóåò [inspired_letter_target.GetHerHim] ìîþ áëàãîäàðíîñòü.;;x
+EVTOPTB_MNM_5209_hostile_target;Even [inspired_letter_target.GetSheHe] cannot resist a good poem.;;;;;;;;;;;Ïîýçèÿ ïîìîæåò ñãëàäèòü îñòðûå óãëû â íàøèõ îòíîøåíèÿõ.;;x
+EVTOPTB_MNM_5209_love_target;I've been meaning to put my feelings into words for a long time.;;;;;;;;;;;ß äàâíî õîòåë[Root.GetEndA] âûðàçèòü ñâîè ÷óâñòâà â ñëîâàõ.;;x
+EVTOPTB_MNM_5209_TT;I would not be who I am today, were it not for you. You are my sun and moon, my Alpha and Omega.\nIn the end you toss papers around you, and spend all night perfecting the letter.\n;;;;;;;;;;;Áåç Âàñ ÿ íå ñòàë[Root.GetEndA] áû ò[Root.GetOyEm], êòî ÿ åñòü. Âû - ìîè ñîëíöå è ëóíà, Àëüôà è Îìåãà.\nÁðîñèâ î÷åðåäíîé êëî÷îê áóìàãè, Âû ïèøåòå íîâûé óëó÷øåííûé âàðèàíò ïèñüìà.\n;;x
+EVTOPTB_MNM_5211;I just want to get some rest, I don't care who wins the debate.;;;;;;;;;;;Ãëàâíîå - ýòî çäîðîâüå, ìíå íóæåí îòäûõ.;;x
+EVTOPTB_MNM_5211_TT;You decrease your chances of winning the debate.\n;;;;;;;;;;;Âû ïîíèçèòå øàíñû íà ïîáåäó â äåáàòàõ.\n;;x
+EVTOPTC_MNM_5100;I should use this time for something productive.;;;;;;;;;;;Åñëè óæ âñ¸ ðàâíî íå çàñíóòü, ìîæíî çàíÿòüñÿ ÷åì-òî åù¸...;;x
+EVTOPTC_MNM_5101;I will not resort to cheap tricks.;;;;;;;;;;;ß íå ñòàíó ïðèáåãàòü ê äåø¸âûì òðþêàì.;;x
+EVTOPTC_MNM_5102;This is clearly some made-up nonsense!;;;;;;;;;;;Êòî-òî ÿâíî õî÷åò èñïîðòèòü ìíå âûñòóïëåíèå!;;x
+EVTOPTC_MNM_5105;This is embarrassing...;;;;;;;;;;;Ýòî òàê íåëîâêî...;;x
+EVTOPTC_MNM_5115_animal_part;A moderate amount of ground [GetSelectedIngredient_2] should suffice.;;;;;;;;;;;Íåò, ëó÷øå [GetSelectedIngredient_2].;;x
+EVTOPTC_MNM_5115_herb;A single dose of crushed [GetSelectedIngredient_2] should be adequate.;;;;;;;;;;;Îäíîé äîçû [GetSelectedIngredient_2GEN] áóäåò äîñòàòî÷íî.;;x
+EVTOPTC_MNM_5115_liquid;A splash of [GetSelectedIngredient_2] is perhaps the best option.;;;;;;;;;;;Çäåñü íóæíî íå÷òî èíîå - [GetSelectedIngredient_2].;;x
+EVTOPTC_MNM_5115_powder;Some sprinkles of [GetSelectedIngredient_2] is just what I need.;;;;;;;;;;;Ëó÷øå... [GetSelectedIngredient_2]!;;x
+EVTOPTC_MNM_5207;I am sure this is just a misunderstanding.;;;;;;;;;;;Óâåðåí[Root.GetEndA], âû ïðîñòî íå ïîíÿëè äðóã äðóãà.;;x
+EVTOPTC_MNM_5209;Focus! This is an opportune time for my work on the Prima materia.;;;;;;;;;;;Ìíå íàäî ñîñðåäîòî÷èòüñÿ íà Prima materia! Çàâòðà äåáàòû!;;x
+EVTOPTC_MNM_5209_TT;You spend the rest of your evening researching, increasing your chances of winning the debate.\n;;;;;;;;;;;Ïîñâÿòèòü âå÷åð èññëåäîâàíèÿì, ïîâûøàÿ øàíñû íà ïîáåäó â äåáàòàõ.\n;;x
+EVTOPTC_MNM_5211;I should concoct something to relax me, or help me focus even!;;;;;;;;;;;Õîðîøåå ñíàäîáüå ïîìîæåò ìíå ñêîíöåíòðèðîâàòüñÿ.;;x
+EVTOPTD_MNM_5105;Clearly this must be a mistake, let's calm down for a moment!;;;;;;;;;;;— Äàâàéòå ðàçáåðåìñÿ, óâåðåí[Root.GetEndA], ýòî êàêàÿ-òî îøèáêà.;;x
+EVTOPTD_MNM_5115;I might just combine the two!;;;;;;;;;;;Íàäî ñîâìåñòèòü äâà èíãðåäèåíòà!;;x
+EVTOPTD_MNM_5115_duplicate;I could also use twice as much...!;;;;;;;;;;;Õìì... äâîéíàÿ äîçà... ìîæåò ñðàáîòàòü!;;x
+EVTOPTD_MNM_5207;I should just pretend I wasn't here...;;;;;;;;;;;Ïðèòâîðèòüñÿ, ÷òî ìåíÿ òóò íåò...;;x
+EVTOPTE_MNM_5115;Actually, I'll just empty the cabinet. Throw it all in there!;;;;;;;;;;;À ïîøëî îíî! Ïîðà âûêèíóòü ýòè ñêëÿíêè íà ïîìîéêó!;;x
+EVTOPTE_MNM_5115_tt;Desperate times call for desperate measures.\n;;;;;;;;;;;Îò÷àÿííûå âðåìåíà òðåáóþò îò÷àÿííûõ ìåð.\n;;x
+EVTTOOLTIP_MNM_5102;You will recite your new-found knowledge in an upcoming debate, as if it were your own.\n;;;;;;;;;;;Âûäàòü íàéäåííûå Âàìè èäåè çà ñâîè ñîáñòâåííûå íà ïðåäñòîÿùèõ äåáàòàõ.\n;;x
+EVTTOOLTIP_MNM_5103;Your preparation notes for today are ruined, decreasing your chances of winning the debate.\n;;;;;;;;;;;Âàøè çàìåòêè íà ñåãîäíÿ áåçíàäåæíî èñïîð÷åíû, ÷òî ñíèæàåò øàíñû íà óñïåõ â ïðåäñòîÿùèõ äåáàòàõ.\n;;x
+EVTTOOLTIPA_MNM_5101;Plant some forged notes about a ground-breaking discovery in a convenient place.\n;;;;;;;;;;;Ïîäëîæèòü ôàëüøèâûå çàìåòêè î íåâåðîÿòíîì îòêðûòèè â ïîäõîäÿùåå ìåñòî.\n;;x
+EVTTOOLTIPA_MNM_5105;Your performance greatly impressed everyone present, increasing your chances of winning the debate.\n;;;;;;;;;;;Âàøå âûñòóïëåíèå âïå÷àòëèëî âñåõ ïðèñóòñòâóþùèõ, ïîâûñèâ øàíñû íà ïîáåäó â äåáàòàõ.\n;;x
+EVTTOOLTIPB_MNM_5101;Attempt to make the notes unusable.\n;;;;;;;;;;;Ïîïûòàòüñÿ ñäåëàòü çàìåòêè áåñïîëåçíûìè.\n;;x
+EVTTOOLTIPB_MNM_5105;This embarrassing situation will not soon be forgotten, and decreases your chances of winning the debate.\n;;;;;;;;;;;Ïîäîáíàÿ ñèòóàöèÿ íåñêîðî áóäåò çàáûòà, ýòî ñíèçèò Âàøè øàíñû íà ïîáåäó â äåáàòàõ.\n;;x
+GRAND_DEBATE_TITLE;The Grand Debate;;;;;;;;;;;Båëèêèå äåáàòû;;x

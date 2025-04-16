@@ -1,482 +1,481 @@
-nick_bloodaxe;Bloodaxe;;;;;;;;;;;;;x
-nick_bluetooth;Bluetooth;;;;;;;;;;;;;x
-nick_butter_teeth;Butterteeth;;;;;;;;;;;;;x
-nick_darc;d'Arc;;;;;;;;;;;;;x
-nick_fairhair;Fairhair;;;;;;;;;;;;;x
-nick_gods_cannibal;the Eater of [saint_person.Religion.GetHighGodName];;;;;;;;;;;;;x
-nick_gods_drunkard;Drunken Friend of [saint_person.Religion.GetHighGodName];;;;;;;;;;;;;x
-nick_gods_hedonist;the Hedonist of [saint_person.Religion.GetHighGodName];;;;;;;;;;;;;x
-nick_gods_seducer;the Lover of [saint_person.Religion.GetHighGodName];;;;;;;;;;;;;x
-nick_gods_torturer;the Impaler of [saint_person.Religion.GetHighGodName];;;;;;;;;;;;;x
-nick_haardraade;Hårdråde;;;;;;;;;;;;;x
-nick_half_hand;Half-Hand;;;;;;;;;;;;;x
-nick_hardeknud;Hardeknud;;;;;;;;;;;;;x
-nick_hildetand;Wartooth;;;;;;;;;;;;;x
-nick_iron_fist;Iron Fist;;;;;;;;;;;;;x
-nick_iron_hand;Iron Hand;;;;;;;;;;;;;x
-nick_lodbrok;Loðbrok;;;;;;;;;;;;;x
-nick_longsword;Longsword;;;;;;;;;;;;;x
-nick_lord_lady_ground;[Root.GetLordLady] [battlefield_location.GetGroundDescCap];;;;;;;;;;;;;x
-nick_lord_lady_of_the_terrain;[Root.GetLordLady] of the [battlefield_location.GetTerrainCap];;;;;;;;;;;;;x
-nick_of_a_thousand_faces;of a Thousand Faces;;;;;;;;;;;;;x
-nick_of_the_empty_pockets;of the Empty Pockets;;;;;;;;;;;;;x
-nick_of_the_nine_hostages;of the Nine Hostages;;;;;;;;;;;;;x
-nick_of_the_wilds;of the Wilds;;;;;;;;;;;;;x
-nick_one_eye;One-Eye;;;;;;;;;;;;;x
-nick_one_hand;One-Hand;;;;;;;;;;;;;x
-nick_one_leg;the Legless;;;;;;;;;;;;;x
-nick_papal_lover;the Papal Lover;;;;;;;;;;;;;x
-nick_peg_leg;Peg Leg;;;;;;;;;;;;;x
-nick_priest_hater;Priest-Hater;;;;;;;;;;;;;x
-nick_ring;Ring;;;;;;;;;;;;;x
-nick_snake_in_the_eye;Snake-in-the-eye;;;;;;;;;;;;;x
-nick_son_of_evilgod;[This.GetSonDaughterCap] of [This.Religion.GetRandomEvilGodName];;;;;;;;;;;;;x
-nick_stone_fist;Stone Fist;;;;;;;;;;;;;x
-nick_the_able;the Able;;;;;;;;;;;;;x
-nick_the_abomination;the Abomination;;;;;;;;;;;;;x
-nick_the_absolved;the Absolved;;;;;;;;;;;;;x
-nick_the_accursed;the Accursed;;;;;;;;;;;;;x
-nick_the_adjudicator;the Adjudicator;;;;;;;;;;;;;x
-nick_the_affable;the Affable;;;;;;;;;;;;;x
-nick_the_alchemist;the Alchemist;;;;;;;;;;;;;x
-nick_the_ambitious;the Ambitious;;;;;;;;;;;;;x
-nick_the_angel;the Angel;;;;;;;;;;;;;x
-nick_the_angel_of_location;the Angel of Jerusalem;;;;;;;;;;;;;x
-nick_the_apostate;the Apostate;;;;;;;;;;;;;x
-nick_the_apostle;the Apostle;;;;;;;;;;;;;x
-nick_the_architect;the Architect;;;;;;;;;;;;;x
-nick_the_armorsmith;the Armorsmith;;;;;;;;;;;;;x
-nick_the_artist_ruler;the Artist-[Root.GetTitle];;;;;;;;;;;;;x
-nick_the_astrologer;the Astrologer;;;;;;;;;;;;;x
-nick_the_avenger;the Avenger;;;;;;;;;;;;;x
-nick_the_awoken;the Awoken;;;;;;;;;;;;;x
-nick_the_bald;the Bald;;;;;;;;;;;;;x
-nick_the_bane_of_realmname;the Bane of [nickname_target.PrimaryTitle.GetName];;;;;;;;;;;;;x
-nick_the_bard;the Bard;;;;;;;;;;;;;x
-nick_the_bastard;the Bastard;;;;;;;;;;;;;x
-nick_the_bastion_of_capital;the Bastion of [Root.Capital.GetName];;;;;;;;;;;;;x
-nick_the_beanstalk;the Beanstalk;;;;;;;;;;;;;x
-nick_the_bear;the Bear;;;;;;;;;;;;;x
-nick_the_beef_thrasher;the Beef-Thrasher;;;;;;;;;;;;;x
-nick_the_beguiling;the Beguiling;;;;;;;;;;;;;x
-nick_the_beheader;the Beheader;;;;;;;;;;;;;x
-nick_the_belligerent;the Belligerent;;;;;;;;;;;;;x
-nick_the_bellower;the Bellower;;;;;;;;;;;;;x
-nick_the_benevolent;the Benevolent;;;;;;;;;;;;;x
-nick_the_betrayer;the Betrayer;;;;;;;;;;;;;x
-nick_the_bewitched;the Bewitched;;;;;;;;;;;;;x
-nick_the_black;the Black;;;;;;;;;;;;;x
-nick_the_black_boar;the Black Boar;;;;;;;;;;;;;x
-nick_the_black_skull;the Black Skull;;;;;;;;;;;;;x
-nick_the_black_widow;the Black Widow;;;;;;;;;;;;;x
-nick_the_bleeder;the Bleeder;;;;;;;;;;;;;x
-nick_the_bleeding_eyes;Bleeding-Eyes;;;;;;;;;;;;;x
-nick_the_blessed;the Blessed;;;;;;;;;;;;;x
-nick_the_blind;the Blind;;;;;;;;;;;;;x
-nick_the_blood_monger;the Bloodmonger;;;;;;;;;;;;;x
-nick_the_bloodhound;the Bloodhound;;;;;;;;;;;;;x
-nick_the_bloodlime;Bloodlime;;;;;;;;;;;;;x
-nick_the_bloody;the Bloody;;;;;;;;;;;;;x
-nick_the_blushing;the Blushing;;;;;;;;;;;;;x
-nick_the_boar;the Boar;;;;;;;;;;;;;x
-nick_the_bold;the Bold;;;;;;;;;;;;;x
-nick_the_bone_gnasher;the Bonegnasher;;;;;;;;;;;;;x
-nick_the_bone_squeezer;the Bone-Squeezer;;;;;;;;;;;;;x
-nick_the_boneless;the Boneless;;;;;;;;;;;;;x
-nick_the_bottomless;the Bottomless;;;;;;;;;;;;;x
-nick_the_brave;the Brave;;;;;;;;;;;;;x
-nick_the_broken_lute;Broken Lute;;;;;;;;;;;;;x
-nick_the_broken_nail;Broken-Nail;;;;;;;;;;;;;x
-nick_the_brute;the Brute;;;;;;;;;;;;;x
-nick_the_builder;the Builder;;;;;;;;;;;;;x
-nick_the_bull;the Bull;;;;;;;;;;;;;x
-nick_the_bulwark;the Bulwark;;;;;;;;;;;;;x
-nick_the_burden;the Burden;;;;;;;;;;;;;x
-nick_the_butch;the Butch;;;;;;;;;;;;;x
-nick_the_butcher;the Butcher;;;;;;;;;;;;;x
-nick_the_cannibal;the Cannibal;;;;;;;;;;;;;x
-nick_the_careless;the Careless;;;;;;;;;;;;;x
-nick_the_carpenter;the Carpenter;;;;;;;;;;;;;x
-nick_the_castellan;the Castellan;;;;;;;;;;;;;x
-nick_the_celestial;the Celestial;;;;;;;;;;;;;x
-nick_the_champion_of_province;the Champion of [Root.Location.GetName];;;;;;;;;;;;;x
-nick_the_chaste;the Chaste;;;;;;;;;;;;;x
-nick_the_cheater;the Cheater;;;;;;;;;;;;;x
-nick_the_chest_buster;the Chestbuster;;;;;;;;;;;;;x
-nick_the_chosen_of_gabriel;the Chosen of Gabriel;;;;;;;;;;;;;x
-nick_the_civilized;the Civilized;;;;;;;;;;;;;x
-nick_the_cleansing_flame;the Cleansing Flame;;;;;;;;;;;;;x
-nick_the_clueless;the Clueless;;;;;;;;;;;;;x
-nick_the_clumsy;the Clumsy;;;;;;;;;;;;;x
-nick_the_compassionate;the Compassionate;;;;;;;;;;;;;x
-nick_the_confessor;the Confessor;;;;;;;;;;;;;x
-nick_the_conqueror;the Conqueror;;;;;;;;;;;;;x
-nick_the_cowardly;the Cowardly;;;;;;;;;;;;;x
-nick_the_crimson_flurry;the Crimson Flurry;;;;;;;;;;;;;x
-nick_the_crimson_gorgon;the Crimson Gorgon;;;;;;;;;;;;;x
-nick_the_crimson_reaper;the Crimson Reaper;;;;;;;;;;;;;x
-nick_the_cruel;the Cruel;;;;;;;;;;;;;x
-nick_the_crusader;the Crusader;;;;;;;;;;;;;x
-nick_the_culture;the [Root.Culture.GetName];;;;;;;;;;;;;x
-nick_the_culture_marauder;the [nickname_receiver.Culture.GetName] Marauder;;;;;;;;;;;;;x
-nick_the_cyclops;the Cyclops;;;;;;;;;;;;;x
-nick_the_dane;the Dane;;;;;;;;;;;;;x
-nick_the_deaths_child;the Reaper's Child;;;;;;;;;;;;;x
-nick_the_decadent;the Decadent;;;;;;;;;;;;;x
-nick_the_defender;the Defender;;;;;;;;;;;;;x
-nick_the_deliverer;the Deliverer;;;;;;;;;;;;;x
-nick_the_depraved;the Depraved;;;;;;;;;;;;;x
-nick_the_despoiler;the Despoiler;;;;;;;;;;;;;x
-nick_the_destroyer;the Destroyer;;;;;;;;;;;;;x
-nick_the_devil;the Devil;;;;;;;;;;;;;x
-nick_the_diplomat;the Diplomat;;;;;;;;;;;;;x
-nick_the_dove;the Dove;;;;;;;;;;;;;x
-nick_the_dragon;the Dragon;;;;;;;;;;;;;x
-nick_the_dragoness;the Dragoness;;;;;;;;;;;;;x
-nick_the_dreaded;the Dreaded;;;;;;;;;;;;;x
-nick_the_drunkard;the Drunkard;;;;;;;;;;;;;x
-nick_the_dry_throat;Dry-Throat;;;;;;;;;;;;;x
-nick_the_dust_biter;Dust-Biter;;;;;;;;;;;;;x
-nick_the_eastern_wind;the Eastern Wind;;;;;;;;;;;;;x
-nick_the_educator;the Educator;;;;;;;;;;;;;x
-nick_the_eerie;the Eerie;;;;;;;;;;;;;x
-nick_the_effeminate;the Effeminate;;;;;;;;;;;;;x
-nick_the_elder;Elder;;;;;;;;;;;;;x
-nick_the_enlightened;the Enlightened;;;;;;;;;;;;;x
-nick_the_evil;the Evil;;;;;;;;;;;;;x
-nick_the_exalted;the Exalted;;;;;;;;;;;;;x
-nick_the_exalted_chosen_of_province;the Exalted Chosen of [Root.Location.GetName];;;;;;;;;;;;;x
-nick_the_executioner;the Executioner;;;;;;;;;;;;;x
-nick_the_explorer;the Explorer;;;;;;;;;;;;;x
-nick_the_faceless;the Faceless;;;;;;;;;;;;;x
-nick_the_fair;the Fair;;;;;;;;;;;;;x
-nick_the_fairest_of_location;the Fairest of [Root.Location.GetName];;;;;;;;;;;;;x
-nick_the_fat;the Fat;;;;;;;;;;;;;x
-nick_the_fearless;the Fearless;;;;;;;;;;;;;x
-nick_the_feeble;the Feeble;;;;;;;;;;;;;x
-nick_the_ferrante;Ferrante;;;;;;;;;;;;;x
-nick_the_festive;the Festive;;;;;;;;;;;;;x
-nick_the_flail_of;the Flail of [Root.Liege.PrimaryTitle.GetName];;;;;;;;;;;;;x
-nick_the_flat_chested;the Flat-Chested;;;;;;;;;;;;;x
-nick_the_flayer;the Flayer;;;;;;;;;;;;;x
-nick_the_floor_kisser;the Floor-Kisser;;;;;;;;;;;;;x
-nick_the_flower;the Flower;;;;;;;;;;;;;x
-nick_the_fool_for_christ;the Fool-for-[GetJesus];;;;;;;;;;;;;x
-nick_the_forgetful;the Forgetful;;;;;;;;;;;;;x
-nick_the_former_shieldmaiden;the Former Shieldmaiden;;;;;;;;;;;;;x
-nick_the_founder;the Founder;;;;;;;;;;;;;x
-nick_the_fowler;the Fowler;;;;;;;;;;;;;x
-nick_the_fox;the Fox;;;;;;;;;;;;;x
-nick_the_frail;the Frail;;;;;;;;;;;;;x
-nick_the_frantic;the Frantic;;;;;;;;;;;;;x
-nick_the_frog;the Frog;;;;;;;;;;;;;x
-nick_the_fury;the Fury;;;;;;;;;;;;;x
-nick_the_generous;the Generous;;;;;;;;;;;;;x
-nick_the_gentle;the Gentle;;;;;;;;;;;;;x
-nick_the_german;the German;;;;;;;;;;;;;x
-nick_the_giant;the Giant;;;;;;;;;;;;;x
-nick_the_girls_arm;Girl-Arm;;;;;;;;;;;;;x
-nick_the_glorious;the Glorious;;;;;;;;;;;;;x
-nick_the_gnat;the Gnat;;;;;;;;;;;;;x
-nick_the_god_bearing;the Godbearing;;;;;;;;;;;;;x
-nick_the_gods_arm;the Arm of [Root.Religion.GetRandomGodName];;;;;;;;;;;;;x
-nick_the_gods_champion;the Gods' Champion;;;;;;;;;;;;;x
-nick_the_goldsmith;the Goldsmith;;;;;;;;;;;;;x
-nick_the_goliath;the Goliath;;;;;;;;;;;;;x
-nick_the_good;the Good;;;;;;;;;;;;;x
-nick_the_gouty;the Gouty;;;;;;;;;;;;;x
-nick_the_gracious;the Gracious;;;;;;;;;;;;;x
-nick_the_grand_matriarch;the Grand Matriarch;;;;;;;;;;;;;x
-nick_the_grand_patriarch;the Grand Patriarch;;;;;;;;;;;;;x
-nick_the_grandiose;the Grandiose;;;;;;;;;;;;;x
-nick_the_great;the Great;;;;;;;;;;;;;x
-nick_the_great_beast;the Great [Root.GetRegionalBigAnimalCap];;;;;;;;;;;;;x
-nick_the_great_eagle;the Great Eagle;;;;;;;;;;;;;x
-nick_the_green_faced;the Green-Faced;;;;;;;;;;;;;x
-nick_the_green_warrior;the Green Warrior;;;;;;;;;;;;;x
-nick_the_griffin;the Griffin;;;;;;;;;;;;;x
-nick_the_grim_mistress;the Grim Mistress;;;;;;;;;;;;;x
-nick_the_grinner;the Grinner;;;;;;;;;;;;;x
-nick_the_ground_warrior;the [battlefield_location.GetGroundDescCap]-Warrior;;;;;;;;;;;;;x
-nick_the_guardian;the Guardian;;;;;;;;;;;;;x
-nick_the_guide;the Guide;;;;;;;;;;;;;x
-nick_the_hammer;the Hammer;;;;;;;;;;;;;x
-nick_the_handsome;the Handsome;;;;;;;;;;;;;x
-nick_the_harth_of_location;the Hart of [Root.Location.GetName];;;;;;;;;;;;;x
-nick_the_hawk_of_quarysh;the Hawk of Quarysh;;;;;;;;;;;;;x
-nick_the_headless;the Headless;;;;;;;;;;;;;x
-nick_the_healer;the Healer;;;;;;;;;;;;;x
-nick_the_heart_eater;the Heart-eater;;;;;;;;;;;;;x
-nick_the_heathen;the Heathen;;;;;;;;;;;;;x
-nick_the_heavenly;the Heavenly;;;;;;;;;;;;;x
-nick_the_hermit;the Hermit;;;;;;;;;;;;;x
-nick_the_hideous;the Hideous;;;;;;;;;;;;;x
-nick_the_hollow;the Hollow;;;;;;;;;;;;;x
-nick_the_holy;the Holy;;;;;;;;;;;;;x
-nick_the_holy_mason;the Holy Mason;;;;;;;;;;;;;x
-nick_the_horse_gelder;the Horse-Gelder;;;;;;;;;;;;;x
-nick_the_horse_shepherd;the Horse Shepherd;;;;;;;;;;;;;x
-nick_the_hunchback;the Hunchback;;;;;;;;;;;;;x
-nick_the_hundred_flagons;Hundred-Flagons;;;;;;;;;;;;;x
-nick_the_hunter;the Hunter;;;;;;;;;;;;;x
-nick_the_hyena;the Hyena;;;;;;;;;;;;;x
-nick_the_ill_ruler;the Ill-Ruler;;;;;;;;;;;;;x
-nick_the_ill_tempered;the Ill-tempered;;;;;;;;;;;;;x
-nick_the_illuminated;the Illuminated;;;;;;;;;;;;;x
-nick_the_impaler;the Impaler;;;;;;;;;;;;;x
-nick_the_innocent;the Innocent;;;;;;;;;;;;;x
-nick_the_inquisitor;the Inquisitor;;;;;;;;;;;;;x
-nick_the_iron_grip;Irongrip;;;;;;;;;;;;;x
-nick_the_iron_heart;Ironheart;;;;;;;;;;;;;x
-nick_the_ironside;Ironside;;;;;;;;;;;;;x
-nick_the_jackal;the Jackal;;;;;;;;;;;;;x
-nick_the_jittery;the Jittery;;;;;;;;;;;;;x
-nick_the_jolly;the Jolly;;;;;;;;;;;;;x
-nick_the_jovial;the Jovial;;;;;;;;;;;;;x
-nick_the_just;the Just;;;;;;;;;;;;;x
-nick_the_kind;the Kind;;;;;;;;;;;;;x
-nick_the_kind_hearted;the Kind-Hearted;;;;;;;;;;;;;x
-nick_the_kingslayer;the [Root.GetTitle]slayer;;;;;;;;;;;;;x
-nick_the_knight_of_turnips;the Knight of Turnips;;;;;;;;;;;;;x
-nick_the_knuckle_slammer;Knuckle-Slammer;;;;;;;;;;;;;x
-nick_the_lackland;Lackland;;;;;;;;;;;;;x
-nick_the_ladder_legs;Ladder Legs;;;;;;;;;;;;;x
-nick_the_lame;the Lame;;;;;;;;;;;;;x
-nick_the_lawgiver;the Lawgiver;;;;;;;;;;;;;x
-nick_the_lecher;the Lecher;;;;;;;;;;;;;x
-nick_the_leechlord;the [This.GetLeechRank];;;;;;;;;;;;;x
-nick_the_legendary;the Legendary;;;;;;;;;;;;;x
-nick_the_leper;the Leper;;;;;;;;;;;;;x
-nick_the_lewd;the Lewd;;;;;;;;;;;;;x
-nick_the_liar;the Liar;;;;;;;;;;;;;x
-nick_the_liberator;the Liberator;;;;;;;;;;;;;x
-nick_the_lion;the Lion;;;;;;;;;;;;;x
-nick_the_lioness;the Lioness;;;;;;;;;;;;;x
-nick_the_lionheart;the Lionheart;;;;;;;;;;;;;x
-nick_the_lisp_and_lame;the Lisp and Lame;;;;;;;;;;;;;x
-nick_the_little_crow;the Little Crow;;;;;;;;;;;;;x
-nick_the_little_nightmare;the Little Nightmare;;;;;;;;;;;;;x
-nick_the_little_spider;the Little Spider;;;;;;;;;;;;;x
-nick_the_lord_of_realm;the [Root.GetLordLady] of [Root.PrimaryTitle.GetName];;;;;;;;;;;;;x
-nick_the_loyal;the Loyal;;;;;;;;;;;;;x
-nick_the_lucky;the Lucky;;;;;;;;;;;;;x
-nick_the_mad;the Mad;;;;;;;;;;;;;x
-nick_the_magnanimous;the Magnanimous;;;;;;;;;;;;;x
-nick_the_magnificent;the Magnificent;;;;;;;;;;;;;x
-nick_the_maid;the Maid;;;;;;;;;;;;;x
-nick_the_maid_of_virgin;the Virgin's Maid;;;;;;;;;;;;;x
-nick_the_martyr;the Martyr;;;;;;;;;;;;;x
-nick_the_master_of_hungary;the Master of Hungary;;;;;;;;;;;;;x
-nick_the_mead_master;the Mead Master;;;;;;;;;;;;;x
-nick_the_merciful;the Merciful;;;;;;;;;;;;;x
-nick_the_merciless;the Merciless;;;;;;;;;;;;;x
-nick_the_merry;the Merry;;;;;;;;;;;;;x
-nick_the_messenger_of_christ;the Messenger of Christ;;;;;;;;;;;;;x
-nick_the_messy;the Messy;;;;;;;;;;;;;x
-nick_the_milkdrinker;the Milkdrinker;;;;;;;;;;;;;x
-nick_the_miracle_worker;the Miracle-Worker;;;;;;;;;;;;;x
-nick_the_missionary;the Missionary;;;;;;;;;;;;;x
-nick_the_moaner;the Moaner;;;;;;;;;;;;;x
-nick_the_monk;the Monk;;;;;;;;;;;;;x
-nick_the_monster;the Monster;;;;;;;;;;;;;x
-nick_the_mule;the Mule;;;;;;;;;;;;;x
-nick_the_munificent;the Munificent;;;;;;;;;;;;;x
-nick_the_mutilator;the Mutilator;;;;;;;;;;;;;x
-nick_the_myrrh_streaming;the Myrrh-Streaming;;;;;;;;;;;;;x
-nick_the_mythological_creature;the [GetRandomMythologicalCreature];;;;;;;;;;;;;x
-nick_the_noble;the Noble;;;;;;;;;;;;;x
-nick_the_nun;the Nun;;;;;;;;;;;;;x
-nick_the_oakskin;Oakskin;;;;;;;;;;;;;x
-nick_the_old;the Old;;;;;;;;;;;;;x
-nick_the_oppressor;the Oppressor;;;;;;;;;;;;;x
-nick_the_page_of_lord;the Page of Our Lord;;;;;;;;;;;;;x
-nick_the_pale_prince;the Pale Prince;;;;;;;;;;;;;x
-nick_the_pale_spider;the Pale Spider;;;;;;;;;;;;;x
-nick_the_patron_of_arts;the Patron of Arts;;;;;;;;;;;;;x
-nick_the_peace_maker;the Peace-Maker;;;;;;;;;;;;;x
-nick_the_peaceable;the Peaceable;;;;;;;;;;;;;x
-nick_the_peacock;the Peacock;;;;;;;;;;;;;x
-nick_the_persevering;the Persevering;;;;;;;;;;;;;x
-nick_the_pest;the Pest;;;;;;;;;;;;;x
-nick_the_philosopher;the Philosopher;;;;;;;;;;;;;x
-nick_the_piglet;the Piglet;;;;;;;;;;;;;x
-nick_the_pilgrim;the Pilgrim;;;;;;;;;;;;;x
-nick_the_pious;the Pious;;;;;;;;;;;;;x
-nick_the_plaguebearer;the Plaguebearer;;;;;;;;;;;;;x
-nick_the_poison_tooth;Poison-Tooth;;;;;;;;;;;;;x
-nick_the_prophet;the Prophet;;;;;;;;;;;;;x
-nick_the_proselytizer;the Proselytizer;;;;;;;;;;;;;x
-nick_the_protector;the Protector;;;;;;;;;;;;;x
-nick_the_proud;the Proud;;;;;;;;;;;;;x
-nick_the_prudent;the Prudent;;;;;;;;;;;;;x
-nick_the_pups_gut;the Pups' Gut;;;;;;;;;;;;;x
-nick_the_pure;the Pure;;;;;;;;;;;;;x
-nick_the_purified;the Purified;;;;;;;;;;;;;x
-nick_the_purifier;the Purifier;;;;;;;;;;;;;x
-nick_the_quarreller;the Quarreller;;;;;;;;;;;;;x
-nick_the_quick_fingers;Quick-Fingers;;;;;;;;;;;;;x
-nick_the_quick_foot;Quickfoot;;;;;;;;;;;;;x
-nick_the_radiant;the Radiant;;;;;;;;;;;;;x
-nick_the_rash;the Rash;;;;;;;;;;;;;x
-nick_the_recluse;the Recluse;;;;;;;;;;;;;x
-nick_the_red;the Red;;;;;;;;;;;;;x
-nick_the_red_cheeks;Red-cheeks;;;;;;;;;;;;;x
-nick_the_red_gladiator;the Red Gladiator;;;;;;;;;;;;;x
-nick_the_red_gladiatrix;the Red Gladiatrix;;;;;;;;;;;;;x
-nick_the_red_storm;the Red Storm;;;;;;;;;;;;;x
-nick_the_rel_group;the [Root.Religion.GetGroupName];;;;;;;;;;;;;x
-nick_the_repulsive;the Repulsive;;;;;;;;;;;;;x
-nick_the_resilient;the Resilient;;;;;;;;;;;;;x
-nick_the_restorer;the Restorer;;;;;;;;;;;;;x
-nick_the_right_believing;the Right-Believing;;;;;;;;;;;;;x
-nick_the_righteous;the Righteous;;;;;;;;;;;;;x
-nick_the_ripper;the Reaper;;;;;;;;;;;;;x
-nick_the_roaring_flame;the Roaring Flame;;;;;;;;;;;;;x
-nick_the_rough_hair;Roughhair;;;;;;;;;;;;;x
-nick_the_ruthless;the Ruthless;;;;;;;;;;;;;x
-nick_the_saint;the Saint;;;;;;;;;;;;;x
-nick_the_salt_snake;the Salt-Snake;;;;;;;;;;;;;x
-nick_the_salt_viper;the Salt-Viper;;;;;;;;;;;;;x
-nick_the_saoshyant;the Saoshyant;;;;;;;;;;;;;x
-nick_the_scarlet_eagle;the Scarlet Eagle;;;;;;;;;;;;;x
-nick_the_scarlet_hands;Scarlet-Hands;;;;;;;;;;;;;x
-nick_the_scarlet_painter;the Scarlet Painter;;;;;;;;;;;;;x
-nick_the_scholar;the Scholar;;;;;;;;;;;;;x
-nick_the_scourge;the Scourge;;;;;;;;;;;;;x
-nick_the_scourge_of;the Scourge of [Root.Liege.PrimaryTitle.GetName];;;;;;;;;;;;;x
-nick_the_scourge_of_god;the Scourge of [nickname_target.Religion.GetHighGodName];;;;;;;;;;;;;x
-nick_the_sea_devil;the Sea-Devil;;;;;;;;;;;;;x
-nick_the_seducer;the Seducer;;;;;;;;;;;;;x
-nick_the_shadow;the Shadow;;;;;;;;;;;;;x
-nick_the_sharp_teeth;Sharp-teeth;;;;;;;;;;;;;x
-nick_the_sharp_tongue;Sharp Tongue;;;;;;;;;;;;;x
-nick_the_shield_of_capital;Shield of [nick_target_the_shield_of_capital.Capital.GetName];;;;;;;;;;;;;x
-nick_the_shieldmaiden;the Shieldmaiden;;;;;;;;;;;;;x
-nick_the_short_tempered;the Short-tempered;;;;;;;;;;;;;x
-nick_the_shrewd;the Shrewd;;;;;;;;;;;;;x
-nick_the_shrinking_violet;the Shrinking Violet;;;;;;;;;;;;;x
-nick_the_silent;the Silent;;;;;;;;;;;;;x
-nick_the_silver_tongue;Silvertongue;;;;;;;;;;;;;x
-nick_the_simple;the Simple;;;;;;;;;;;;;x
-nick_the_singing_crow;the Singing Crow;;;;;;;;;;;;;x
-nick_the_siren;the Siren;;;;;;;;;;;;;x
-nick_the_skull_crusher;the Skull-Crusher;;;;;;;;;;;;;x
-nick_the_sky_rider;the Sky Rider;;;;;;;;;;;;;x
-nick_the_slaughterer;the Slaughterer;;;;;;;;;;;;;x
-nick_the_slayer_of_culture;Slayer of the [nickname_target.Culture.GetName];;;;;;;;;;;;;x
-nick_the_sleepy;the Sleepy;;;;;;;;;;;;;x
-nick_the_snake;the Snake;;;;;;;;;;;;;x
-nick_the_snakeling;the Snakeling;;;;;;;;;;;;;x
-nick_the_soul_flayer;the Soulflayer;;;;;;;;;;;;;x
-nick_the_spare;the Spare;;;;;;;;;;;;;x
-nick_the_spark_of_god;the Spark of [Root.Religion.GetHighGodName];;;;;;;;;;;;;x
-nick_the_spider;the Spider;;;;;;;;;;;;;x
-nick_the_spirit_stalker;the Spirit-stalker;;;;;;;;;;;;;x
-nick_the_splinter;the Splinter;;;;;;;;;;;;;x
-nick_the_squealer;the Squealer;;;;;;;;;;;;;x
-nick_the_squirmy;the Squirmy;;;;;;;;;;;;;x
-nick_the_stallion;the Stallion;;;;;;;;;;;;;x
-nick_the_stammerer;the Stammerer;;;;;;;;;;;;;x
-nick_the_star_weaver;the Starweaver;;;;;;;;;;;;;x
-nick_the_stormforged;the Stormforged;;;;;;;;;;;;;x
-nick_the_strange;the Strange;;;;;;;;;;;;;x
-nick_the_stranger;the Stranger;;;;;;;;;;;;;x
-nick_the_strong;the Strong;;;;;;;;;;;;;x
-nick_the_strongarm;Strongarm;;;;;;;;;;;;;x
-nick_the_strongest_of_location;the Strongest of [Root.Location.GetName];;;;;;;;;;;;;x
-nick_the_submissive;the Submissive;;;;;;;;;;;;;x
-nick_the_survivor;the Survivor;;;;;;;;;;;;;x
-nick_the_sword_of_god;the Sword of [Root.Religion.GetRandomGodName];;;;;;;;;;;;;x
-nick_the_tamer;the Tamer;;;;;;;;;;;;;x
-nick_the_tempest_of_capital;the Tempest of [Root.Capital.GetName];;;;;;;;;;;;;x
-nick_the_temptress;the Temptress;;;;;;;;;;;;;x
-nick_the_tenacious;the Tenacious;;;;;;;;;;;;;x
-nick_the_terrain_commander;the [battlefield_location.GetTerrainCap] Commander;;;;;;;;;;;;;x
-nick_the_terrible;the Terrible;;;;;;;;;;;;;x
-nick_the_terror_of_provincename;the Terror of [nickname_target.GetName];;;;;;;;;;;;;x
-nick_the_theologian;the Theologian;;;;;;;;;;;;;x
-nick_the_thigh_biter;the Thighbiter;;;;;;;;;;;;;x
-nick_the_thin_minded;the Thin-Minded;;;;;;;;;;;;;x
-nick_the_tiger;the Tiger;;;;;;;;;;;;;x
-nick_the_toothless;the Toothless;;;;;;;;;;;;;x
-nick_the_toothless_wolf;the Toothless Wolf;;;;;;;;;;;;;x
-nick_the_tormentor;the Tormentor;;;;;;;;;;;;;x
-nick_the_tower;the Tower;;;;;;;;;;;;;x
-nick_the_trader;the Trader;;;;;;;;;;;;;x
-nick_the_traitor;the Traitor;;;;;;;;;;;;;x
-nick_the_trickster;the Trickster;;;;;;;;;;;;;x
-nick_the_troubadour;the Troubadour;;;;;;;;;;;;;x
-nick_the_twitchy;the Twitchy;;;;;;;;;;;;;x
-nick_the_tyrant;the Tyrant;;;;;;;;;;;;;x
-nick_the_unchaste;the Unchaste;;;;;;;;;;;;;x
-nick_the_undefeated;the Undefeated;;;;;;;;;;;;;x
-nick_the_underdog;the Underdog;;;;;;;;;;;;;x
-nick_the_understanding;the Understanding;;;;;;;;;;;;;x
-nick_the_undying;the Undying;;;;;;;;;;;;;x
-nick_the_unfaithful;the Unfaithful;;;;;;;;;;;;;x
-nick_the_unlucky;the Unlucky;;;;;;;;;;;;;x
-nick_the_unmercenary_healer;the Unmercenary Healer;;;;;;;;;;;;;x
-nick_the_unready;the Unready;;;;;;;;;;;;;x
-nick_the_unwilling;the Unwilling;;;;;;;;;;;;;x
-nick_the_usurper;the Usurper;;;;;;;;;;;;;x
-nick_the_vain;the Vain;;;;;;;;;;;;;x
-nick_the_valkyrie;the Valkyrie;;;;;;;;;;;;;x
-nick_the_vatican_prince;the Vatican Prince;;;;;;;;;;;;;x
-nick_the_vatican_princess;the Vatican Princess;;;;;;;;;;;;;x
-nick_the_venerable;the Venerable;;;;;;;;;;;;;x
-nick_the_vengeful;the Vengeful;;;;;;;;;;;;;x
-nick_the_victorious;the Victorious;;;;;;;;;;;;;x
-nick_the_viking;the Viking;;;;;;;;;;;;;x
-nick_the_virago;the Virago;;;;;;;;;;;;;x
-nick_the_vixen;the Vixen;;;;;;;;;;;;;x
-nick_the_waking_teacher;the Waking-Teacher;;;;;;;;;;;;;x
-nick_the_wall_of_title;the Wall of [Root.PrimaryTitle.GetName];;;;;;;;;;;;;x
-nick_the_warlike;the Warlike;;;;;;;;;;;;;x
-nick_the_warrior_child;the Warrior Child;;;;;;;;;;;;;x
-nick_the_warrior_philosopher;the Warrior Philosopher;;;;;;;;;;;;;x
-nick_the_weak;the Weak;;;;;;;;;;;;;x
-nick_the_wealthy;the Wealthy;;;;;;;;;;;;;x
-nick_the_weaponsmith;the Weaponsmith;;;;;;;;;;;;;x
-nick_the_whiner;the Whiner;;;;;;;;;;;;;x
-nick_the_whirling_spell;Whirling-Spell;;;;;;;;;;;;;x
-nick_the_whisperer;the Whisperer;;;;;;;;;;;;;x
-nick_the_white_knight;the White Knight;;;;;;;;;;;;;x
-nick_the_white_raven;the White Raven;;;;;;;;;;;;;x
-nick_the_wicked;the Wicked;;;;;;;;;;;;;x
-nick_the_wily;the Wily;;;;;;;;;;;;;x
-nick_the_wise;the Wise;;;;;;;;;;;;;x
-nick_the_witch;the [Root.GetWarlockWitch];;;;;;;;;;;;;x
-nick_the_witch_hunter;the Witch Hunter;;;;;;;;;;;;;x
-nick_the_wolf;the Wolf;;;;;;;;;;;;;x
-nick_the_word_master;the Word Master;;;;;;;;;;;;;x
-nick_the_word_slayer;the Word-Slayer;;;;;;;;;;;;;x
-nick_the_word_thief;the Word-Thief;;;;;;;;;;;;;x
-nick_the_world_burner;the World Burner;;;;;;;;;;;;;x
-nick_the_wyrm;the Wyrm;;;;;;;;;;;;;x
-nick_the_young;the Young;;;;;;;;;;;;;x
-nick_the_young_conqueror;the Young Conqueror;;;;;;;;;;;;;x
-nick_the_young_eagle;the Young Eagle;;;;;;;;;;;;;x
-nick_the_younger;the Younger;;;;;;;;;;;;;x
-nick_the_youthful;the Youthful;;;;;;;;;;;;;x
-nick_the_zealot;the Zealot;;;;;;;;;;;;;x
-nick_tiny;Tiny;;;;;;;;;;;;;x
-nick_twistedbeard;Twistedbeard;;;;;;;;;;;;;x
-nick_warrior_lodge_spirit;[GetWarriorBattleNick];;;;;;;;;;;;;x
-nick_whiteshirt;Whiteshirt;;;;;;;;;;;;;x
-
+nick_bloodaxe;Bloodaxe;;;;;;;;;;;Êðîâàâàÿ Ñåêèðà;;x
+nick_bluetooth;Bluetooth;;;;;;;;;;;Ñèíåçóá[This.GetAyaYy];;x
+nick_butter_teeth;Butterteeth;;;;;;;;;;;Íàáèòûé Ðîò;;x
+nick_darc;d'Arc;;;;;;;;;;;ä'Àðê;;x
+nick_fairhair;Fairhair;;;;;;;;;;;Ïðåêðàñíîâîëîñ[This.GetAyaYy];;x
+nick_gods_cannibal;the Eater of [saint_person.Religion.GetHighGodName];;;;;;;;;;;Ïîåäàòåëü[saint_person.GetEndNitsa] [saint_person.GetReligionHighGodGEN];;x
+nick_gods_drunkard;Drunken Friend of [saint_person.Religion.GetHighGodName];;;;;;;;;;;Ñîáóòûëüíè[saint_person.GetTsaK] [saint_person.GetReligionHighGodGEN];;x
+nick_gods_hedonist;the Hedonist of [saint_person.Religion.GetHighGodName];;;;;;;;;;;Ãåäîíèñò[saint_person.GetEndKa] [saint_person.GetReligionHighGodGEN];;x
+nick_gods_seducer;the Lover of [saint_person.Religion.GetHighGodName];;;;;;;;;;;Ëþáîâíè[saint_person.GetTsaK] [saint_person.GetReligionHighGodGEN];;x
+nick_gods_torturer;the Impaler of [saint_person.Religion.GetHighGodName];;;;;;;;;;;Êîëîñàæàòåëü[saint_person.GetEndNitsa] [saint_person.GetReligionHighGodGEN];;x
+nick_haardraade;Hårdråde;;;;;;;;;;;Ñóðîâ[This.GetAyaYy];;x
+nick_half_hand;Half-Hand;;;;;;;;;;;Áåçðóê[This.GetAyaIy];;x
+nick_hardeknud;Hardeknud;;;;;;;;;;;Õàðäåêíóä;;x
+nick_hildetand;Wartooth;;;;;;;;;;;Áîåçóá[This.GetEndKa];;x
+nick_iron_fist;Iron Fist;;;;;;;;;;;Æåëåçíûé Êóëàê;;x
+nick_iron_hand;Iron Hand;;;;;;;;;;;Æåëåçíàÿ ðóêà;;x
+nick_lodbrok;Loðbrok;;;;;;;;;;;Ëîäáðîê;;x
+nick_longsword;Longsword;;;;;;;;;;;Äëèííûé Ìå÷;;x
+nick_lord_lady_ground;[Root.GetLordLady] [battlefield_location.GetGroundDescCap];;;;;;;;;;;[battlefield_location.GetGroundDescCap][This.GetAyaYy] [This.GetLordLadyCap];;x
+nick_lord_lady_of_the_terrain;[Root.GetLordLady] of the [battlefield_location.GetTerrainCap];;;;;;;;;;;[Thus.GetMasterMistressCap] [battlefield_location.GetTerrainCapGEN];;x
+nick_of_a_thousand_faces;of a Thousand Faces;;;;;;;;;;;Äâóëè÷í[This.GetAyaYy];;x
+nick_of_the_empty_pockets;of the Empty Pockets;;;;;;;;;;;Áåññåðåáðåííè[This.GetTsaK];;x
+nick_of_the_nine_hostages;of the Nine Hostages;;;;;;;;;;;Äåâÿòü Çàëîæíèêîâ;;x
+nick_of_the_wilds;of the Wilds;;;;;;;;;;;èç Äåáðåé;;x
+nick_one_eye;One-Eye;;;;;;;;;;;Îäíîãëàç[This.GetAyaYy];;x
+nick_one_hand;One-Hand;;;;;;;;;;;Îäíîðóê[This.GetAyaIy];;x
+nick_one_leg;the Legless;;;;;;;;;;;Îäíîíîã[This.GetAyaIy];;x
+nick_papal_lover;the Papal Lover;;;;;;;;;;;Ëþáîâíè[saint_person.GetTsaK] Ïàïû;;x
+nick_peg_leg;Peg Leg;;;;;;;;;;;Äåðåâÿííàÿ íîãà;;x
+nick_priest_hater;Priest-Hater;;;;;;;;;;;Áåçáîæíè[This.GetTsaK];;x
+nick_ring;Ring;;;;;;;;;;;Êîëüöî;;x
+nick_snake_in_the_eye;Snake-in-the-eye;;;;;;;;;;;Çìååãëàç[This.GetAyaYy];;x
+nick_son_of_evilgod;[This.GetSonDaughterCap] of [This.Religion.GetRandomEvilGodName];;;;;;;;;;;[This.GetDaughterSonCap] Äüÿâîëà;;x
+nick_stone_fist;Stone Fist;;;;;;;;;;;Êàìåííûé Êóëàê;;x
+nick_the_able;the Able;;;;;;;;;;;Òàëàíòëèâ[This.GetAyaYy];;x
+nick_the_abomination;the Abomination;;;;;;;;;;;Ìåðçîñòü;;x
+nick_the_absolved;the Absolved;;;;;;;;;;;Ïðîù¸íí[This.GetAyaYy];;x
+nick_the_accursed;the Accursed;;;;;;;;;;;Ïðîêëÿò[This.GetAyaYy];;x
+nick_the_adjudicator;the Adjudicator;;;;;;;;;;;Ñóäüÿ;;x
+nick_the_affable;the Affable;;;;;;;;;;;Ëþáåçí[This.GetAyaYy];;x
+nick_the_alchemist;the Alchemist;;;;;;;;;;;Àëõèìèê;;x
+nick_the_ambitious;the Ambitious;;;;;;;;;;;Àìáèöèîçí[This.GetAyaYy];;x
+nick_the_angel;the Angel;;;;;;;;;;;Àíãåë;;x
+nick_the_angel_of_location;the Angel of Jerusalem;;;;;;;;;;;Àíãåë Èåðóñàëèìà;;x
+nick_the_apostate;the Apostate;;;;;;;;;;;Îòñòóïíè[This.GetTsaK];;x
+nick_the_apostle;the Apostle;;;;;;;;;;;Àïîñòîë;;x
+nick_the_architect;the Architect;;;;;;;;;;;Àðõèòåêòîð;;x
+nick_the_armorsmith;the Armorsmith;;;;;;;;;;;Áðîííè[This.GetTsaK];;x
+nick_the_artist_ruler;the Artist-[Root.GetTitle];;;;;;;;;;;Èñêóñíè[This.GetTsaK];;x
+nick_the_astrologer;the Astrologer;;;;;;;;;;;Àñòðîëîã;;x
+nick_the_avenger;the Avenger;;;;;;;;;;;Ìñòèòåëü[This.GetEndNitsa];;x
+nick_the_awoken;the Awoken;;;;;;;;;;;Ïðîáóæä¸íí[This.GetAyaYy];;x
+nick_the_bald;the Bald;;;;;;;;;;;Ëûñ[This.GetAyaYy];;x
+nick_the_bane_of_realmname;the Bane of [nickname_target.PrimaryTitle.GetName];;;;;;;;;;;[This.GetNickBaneOfRealm] [nickname_target.PrimaryTitle.GetAdjective]ñêîé çåìëè;;x
+nick_the_bard;the Bard;;;;;;;;;;;Áàðä;;x
+nick_the_bastard;the Bastard;;;;;;;;;;;Áàñòàðä;;x
+nick_the_bastion_of_capital;the Bastion of [Root.Capital.GetName];;;;;;;;;;;[This.Capital.County.GetAdjective]ñê[This.GetAyaIy] [This.GetNickBulwark];;x
+nick_the_beanstalk;the Beanstalk;;;;;;;;;;;Áîáîâûé Ñòåáåëü;;x
+nick_the_bear;the Bear;;;;;;;;;;;Ìåäâåäü;;x
+nick_the_beef_thrasher;the Beef-Thrasher;;;;;;;;;;;Ïîòðîøèòåëü[This.GetEndNitsa] Ãîâÿäèíû;;x
+nick_the_beguiling;the Beguiling;;;;;;;;;;;Îáîëüñòèòåëü[This.GetEndNitsa];;x
+nick_the_beheader;the Beheader;;;;;;;;;;;Ãîëîâîðåç;;x
+nick_the_belligerent;the Belligerent;;;;;;;;;;;Âîèíñòâåíí[This.GetAyaYy];;x
+nick_the_bellower;the Bellower;;;;;;;;;;;Êðèêóí[This.GetEndSoftYa];;x
+nick_the_benevolent;the Benevolent;;;;;;;;;;;Áëàãîæåëàòåëüí[This.GetAyaYy];;x
+nick_the_betrayer;the Betrayer;;;;;;;;;;;Èçìåííè[This.GetTsaK];;x
+nick_the_bewitched;the Bewitched;;;;;;;;;;;Çàêîëäîâàíí[This.GetAyaYy];;x
+nick_the_black;the Black;;;;;;;;;;;×¸ðí[This.GetAyaYy];;x
+nick_the_black_boar;the Black Boar;;;;;;;;;;;×¸ðí[This.GetAyaYy] Âåïð[This.GetSoftItsa];;x
+nick_the_black_skull;the Black Skull;;;;;;;;;;;×¸ðíûé ×åðåï;;x
+nick_the_black_widow;the Black Widow;;;;;;;;;;;×¸ðíàÿ Âäîâà;;x
+nick_the_bleeder;the Bleeder;;;;;;;;;;;Êðîâîïóñêàòåëü[This.GetEndNitsa];;x
+nick_the_bleeding_eyes;Bleeding-Eyes;;;;;;;;;;;Êðîâàâûå Ñë¸çû;;x
+nick_the_blessed;the Blessed;;;;;;;;;;;Áëàãîñëîâåíí[This.GetAyaYy];;x
+nick_the_blind;the Blind;;;;;;;;;;;Ñëåï[This.GetAyaOy];;x
+nick_the_blood_monger;the Bloodmonger;;;;;;;;;;;Òîðãóþù[This.GetAyaIy] Êðîâüþ;;x
+nick_the_bloodhound;the Bloodhound;;;;;;;;;;;Öåïíîé Ï¸ñ;;x
+nick_the_bloodlime;Bloodlime;;;;;;;;;;;Êðîâàâàÿ Èçâåñòü;;x
+nick_the_bloody;the Bloody;;;;;;;;;;;Êðîâàâ[This.GetAyaYy];;x
+nick_the_blushing;the Blushing;;;;;;;;;;;Êðàñíåþù[This.GetAyaIy] îò Ñòûäà;;x
+nick_the_boar;the Boar;;;;;;;;;;;[This.GetNickBoar];;x
+nick_the_bold;the Bold;;;;;;;;;;;[This.GetNickBold];;x
+nick_the_bone_gnasher;the Bonegnasher;;;;;;;;;;;Ñêðåæåò Êîñòåé;;x
+nick_the_bone_squeezer;the Bone-Squeezer;;;;;;;;;;;Êîñòîëîì;;x
+nick_the_boneless;the Boneless;;;;;;;;;;;Áåñêîñòí[This.GetAyaYy];;x
+nick_the_bottomless;the Bottomless;;;;;;;;;;;Áåçäîíí[This.GetAyaYy];;x
+nick_the_brave;the Brave;;;;;;;;;;;Õðàáð[This.GetAyaYy];;x
+nick_the_broken_lute;Broken Lute;;;;;;;;;;;Ñëîìàííàÿ Ëþòíÿ;;x
+nick_the_broken_nail;Broken-Nail;;;;;;;;;;;Ñëîìàííûé Íîãîòü;;x
+nick_the_brute;the Brute;;;;;;;;;;;Ãðîìèëà;;x
+nick_the_builder;the Builder;;;;;;;;;;;Ñòðîèòåëü[This.GetEndNitsa];;x
+nick_the_bull;the Bull;;;;;;;;;;;Áûê;;x
+nick_the_bulwark;the Bulwark;;;;;;;;;;;[This.GetNickBulwark];;x
+nick_the_burden;the Burden;;;;;;;;;;;Îòÿãîù¸íí[This.GetAyaYy];;x
+nick_the_butch;the Butch;;;;;;;;;;;Áîé-Áàáà;;x
+nick_the_butcher;the Butcher;;;;;;;;;;;[This.GetNickButcher];;x
+nick_the_cannibal;the Cannibal;;;;;;;;;;;Ëþäîåä[This.GetEndKa];;x
+nick_the_careless;the Careless;;;;;;;;;;;Áåñïå÷í[This.GetAyaYy];;x
+nick_the_carpenter;the Carpenter;;;;;;;;;;;Ïëîòíèê;;x
+nick_the_castellan;the Castellan;;;;;;;;;;;Êàñòåëÿí;;x
+nick_the_celestial;the Celestial;;;;;;;;;;;Íåáåñí[This.GetAyaYy];;x
+nick_the_champion_of_province;the Champion of [Root.Location.GetName];;;;;;;;;;;[This.Location.County.GetAdjective]ñê[This.GetAyaIy] ×åìïèîí[This.GetEndKa];;x
+nick_the_chaste;the Chaste;;;;;;;;;;;Öåëîìóäðåíí[This.GetAyaYy];;x
+nick_the_cheater;the Cheater;;;;;;;;;;;Ìîøåííè[This.GetTsaK];;x
+nick_the_chest_buster;the Chestbuster;;;;;;;;;;;Âñêðûâàòåëü[This.GetEndNitsa];;x
+nick_the_chosen_of_gabriel;the Chosen of Gabriel;;;;;;;;;;;Èçáðàííè[This.GetTsaK] Ãàâðèèëà;;x
+nick_the_civilized;the Civilized;;;;;;;;;;;Öèâèëèçîâàíí[This.GetAyaYy];;x
+nick_the_cleansing_flame;the Cleansing Flame;;;;;;;;;;;Î÷èùàþùåå Ïëàìÿ;;x
+nick_the_clueless;the Clueless;;;;;;;;;;;Áåñòîëêîâ[This.GetAyaYy];;x
+nick_the_clumsy;the Clumsy;;;;;;;;;;;Íåóêëþæ[This.GetAyaIy];;x
+nick_the_compassionate;the Compassionate;;;;;;;;;;;Ñî÷óâñòâóþù[This.GetAyaIy];;x
+nick_the_confessor;the Confessor;;;;;;;;;;;Èñïîâåäíè[This.GetTsaK];;x
+nick_the_conqueror;the Conqueror;;;;;;;;;;;Çàâîåâàòåëü[This.GetEndNitsa];;x
+nick_the_cowardly;the Cowardly;;;;;;;;;;;Ïóãëèâ[This.GetAyaYy];;x
+nick_the_crimson_flurry;the Crimson Flurry;;;;;;;;;;;Êðîâàâîå Îáëàêî;;x
+nick_the_crimson_gorgon;the Crimson Gorgon;;;;;;;;;;;Êðàñíàÿ Ãîðãîíà;;x
+nick_the_crimson_reaper;the Crimson Reaper;;;;;;;;;;;[This.GetNickCrimsonReaper];;x
+nick_the_cruel;the Cruel;;;;;;;;;;;Æåñòîê[This.GetAyaIy];;x
+nick_the_crusader;the Crusader;;;;;;;;;;;Êðåñòîíîñåö;;x
+nick_the_culture;the [Root.Culture.GetName];;;;;;;;;;;[This.GetCultureAdj][GetAyaIy];;x
+nick_the_culture_marauder;the [nickname_receiver.Culture.GetName] Marauder;;;;;;;;;;;[nickname_receiver.GetCultureAdj][nickname_receiver.GetAyaIy] ðàçáîéíè[nickname_receiver.GetTsaK];;x
+nick_the_cyclops;the Cyclops;;;;;;;;;;;Öèêëîï;;x
+nick_the_dane;the Dane;;;;;;;;;;;Äàò÷àíèí;;x
+nick_the_deaths_child;the Reaper's Child;;;;;;;;;;;Äèòÿ Æíåöà;;x
+nick_the_decadent;the Decadent;;;;;;;;;;;Äåêàäåíò[This.GetEndKa];;x
+nick_the_defender;the Defender;;;;;;;;;;;Ñòðàæ[This.GetEndNitsa];;x
+nick_the_deliverer;the Deliverer;;;;;;;;;;;Èçáàâèòåëü[This.GetEndNitsa];;x
+nick_the_depraved;the Depraved;;;;;;;;;;;Íå÷åñòèâ[This.GetAyaYy];;x
+nick_the_despoiler;the Despoiler;;;;;;;;;;;Ðàñõèòèòåëü[This.GetEndNitsa];;x
+nick_the_destroyer;the Destroyer;;;;;;;;;;;Ðàçðóøèòåëü[This.GetEndNitsa];;x
+nick_the_devil;the Devil;;;;;;;;;;;Äüÿâîë[This.GetEndItsa];;x
+nick_the_diplomat;the Diplomat;;;;;;;;;;;Äèïëîìàò;;x
+nick_the_dove;the Dove;;;;;;;;;;;Ãîëóá[This.GetEndKaSoft];;x
+nick_the_dragon;the Dragon;;;;;;;;;;;Äðàêîí;;x
+nick_the_dragoness;the Dragoness;;;;;;;;;;;Äðàêîí;;x
+nick_the_dreaded;the Dreaded;;;;;;;;;;;Óæàñàþù[This.GetAyaIy];;x
+nick_the_drunkard;the Drunkard;;;;;;;;;;;Ïüÿíèöà;;x
+nick_the_dry_throat;Dry-Throat;;;;;;;;;;;Ñóõîå Ãîðëî;;x
+nick_the_dust_biter;Dust-Biter;;;;;;;;;;;Ãëîòàòåëü[This.GetEndNitsa] Ïûëè;;x
+nick_the_eastern_wind;the Eastern Wind;;;;;;;;;;;Âîñòî÷íûé âåòåð;;x
+nick_the_educator;the Educator;;;;;;;;;;;Ó÷èòåëü[This.GetEndNitsa];;x
+nick_the_eerie;the Eerie;;;;;;;;;;;Æóòê[This.GetAyaIy];;x
+nick_the_effeminate;the Effeminate;;;;;;;;;;;Æåíîïîäîáíûé;;x
+nick_the_elder;Elder;;;;;;;;;;;Ñòàð[This.GetItsaEts];;x
+nick_the_enlightened;the Enlightened;;;;;;;;;;;Ïðîñâåòë¸íí[This.GetAyaYy];;x
+nick_the_evil;the Evil;;;;;;;;;;;Çë[This.GetAyaOy];;x
+nick_the_exalted;the Exalted;;;;;;;;;;;Âîçâûøåíí[This.GetAyaYy];;x
+nick_the_exalted_chosen_of_province;the Exalted Chosen of [Root.Location.GetName];;;;;;;;;;;[This.Location.County.GetAdjective]ñê[This.GetAyaIy] Èçáðàíí[This.GetAyaYy];;x
+nick_the_executioner;the Executioner;;;;;;;;;;;Ïàëà÷;;x
+nick_the_explorer;the Explorer;;;;;;;;;;;Ïóòåøåñòâåííè[This.GetTsaK];;x
+nick_the_faceless;the Faceless;;;;;;;;;;;Áåçëèê[This.GetAyaIy];;x
+nick_the_fair;the Fair;;;;;;;;;;;[This.GetNickFair];;x
+nick_the_fairest_of_location;the Fairest of [Root.Location.GetName];;;;;;;;;;;[This.Location.County.GetAdjective]ñê[This.GetAyaIy] Êðàñàâ[This.GetItsaEts];;x
+nick_the_fat;the Fat;;;;;;;;;;;Òîëñò[This.GetAyaYy];;x
+nick_the_fearless;the Fearless;;;;;;;;;;;Áåññòðàøí[This.GetAyaYy];;x
+nick_the_feeble;the Feeble;;;;;;;;;;;Õëèïê[This.GetAyaIy];;x
+nick_the_ferrante;Ferrante;;;;;;;;;;;Ôåððàíòå;;x
+nick_the_festive;the Festive;;;;;;;;;;;Òîðæåñòâåíí[This.GetAyaYy];;x
+nick_the_flail_of;the Flail of [Root.Liege.PrimaryTitle.GetName];;;;;;;;;;;[This.Liege.PrimaryTitle.GetAdjective]ñêàÿ Ãàäþêà;;x
+nick_the_flat_chested;the Flat-Chested;;;;;;;;;;;Ïëîñêîãðóä[This.GetAyaYy];;x
+nick_the_flayer;the Flayer;;;;;;;;;;;Æèâîä¸ð[This.GetEndKa];;x
+nick_the_floor_kisser;the Floor-Kisser;;;;;;;;;;;Öåëîâàòåëü[This.GetEndNitsa] Ïîëà;;x
+nick_the_flower;the Flower;;;;;;;;;;;Íåæíûé Öâåòîê;;x
+nick_the_fool_for_christ;the Fool-for-[GetJesus];;;;;;;;;;;Áëàæåíí[This.GetAyaYy];;x
+nick_the_forgetful;the Forgetful;;;;;;;;;;;Çàáûâ÷èâ[This.GetAyaYy];;x
+nick_the_former_shieldmaiden;the Former Shieldmaiden;;;;;;;;;;;Îòäàâøàÿ ùèò;;x
+nick_the_founder;the Founder;;;;;;;;;;;Îñíîâàòåëü[This.GetEndNitsa];;x
+nick_the_fowler;the Fowler;;;;;;;;;;;Ïòèöåëîâ[This.GetEndKa];;x
+nick_the_fox;the Fox;;;;;;;;;;;Ëèñ[This.GetEndA];;x
+nick_the_frail;the Frail;;;;;;;;;;;Óòë[This.GetAyaYy];;x
+nick_the_frantic;the Frantic;;;;;;;;;;;Áóéíîïîìåøàíí[This.GetAyaYy];;x
+nick_the_frog;the Frog;;;;;;;;;;;Æàáà;;x
+nick_the_fury;the Fury;;;;;;;;;;;Ôóðèÿ;;x
+nick_the_generous;the Generous;;;;;;;;;;;Ùåäð[This.GetAyaYy];;x
+nick_the_gentle;the Gentle;;;;;;;;;;;Êðîòê[This.GetAyaIy];;x
+nick_the_german;the German;;;;;;;;;;;Íåìåöê[This.GetAyaIy];;x
+nick_the_giant;the Giant;;;;;;;;;;;Âåëèêàí[This.GetEndSha];;x
+nick_the_girls_arm;Girl-Arm;;;;;;;;;;;Äåâè÷üÿ Ðóêà;;x
+nick_the_glorious;the Glorious;;;;;;;;;;;Äîñòîñëàâí[This.GetAyaYy];;x
+nick_the_gnat;the Gnat;;;;;;;;;;;[This.GetNickGnat];;x
+nick_the_god_bearing;the Godbearing;;;;;;;;;;;Áîãîíîñ[This.GetItsaEts];;x
+nick_the_gods_arm;the Arm of [Root.Religion.GetRandomGodName];;;;;;;;;;;Ðóêà [This.GetReligionHighGodGEN];;x
+nick_the_gods_champion;the Gods' Champion;;;;;;;;;;;Ëþáèì[This.GetItsaEts] Áîãîâ;;x
+nick_the_goldsmith;the Goldsmith;;;;;;;;;;;Þâåëèð;;x
+nick_the_goliath;the Goliath;;;;;;;;;;;Ãîëèàô;;x
+nick_the_good;the Good;;;;;;;;;;;Äîáð[This.GetAyaYy];;x
+nick_the_gouty;the Gouty;;;;;;;;;;;Ïîäàãðèê;;x
+nick_the_gracious;the Gracious;;;;;;;;;;;Èçÿùí[This.GetAyaYy];;x
+nick_the_grand_matriarch;the Grand Matriarch;;;;;;;;;;;Ìàòðèàðõ;;x
+nick_the_grand_patriarch;the Grand Patriarch;;;;;;;;;;;Ïàòðèàðõ;;x
+nick_the_grandiose;the Grandiose;;;;;;;;;;;Ãðàíäèîçí[This.GetAyaYy];;x
+nick_the_great;the Great;;;;;;;;;;;Âåëèê[This.GetAyaIy];;x
+nick_the_great_beast;the Great [Root.GetRegionalBigAnimalCap];;;;;;;;;;;Âåëèê[This.GetAyaIy] [This.GetNickRegionalBigAnimal];;x
+nick_the_great_eagle;the Great Eagle;;;;;;;;;;;Âåëèê[This.GetAyaIy] [This.GetEagleCap];;x
+nick_the_green_faced;the Green-Faced;;;;;;;;;;;Çåë¸íàÿ Ðîæà;;x
+nick_the_green_warrior;the Green Warrior;;;;;;;;;;;Çåë¸íûé Âîèí;;x
+nick_the_griffin;the Griffin;;;;;;;;;;;Ãðèôîí;;x
+nick_the_grim_mistress;the Grim Mistress;;;;;;;;;;;Ìðà÷íàÿ Ãîñïîæà;;x
+nick_the_grinner;the Grinner;;;;;;;;;;;Åäê[This.GetAyaIy];;x
+nick_the_ground_warrior;the [battlefield_location.GetGroundDescCap]-Warrior;;;;;;;;;;;[battlefield_location.GetGroundDescCap]ûé Âîèí;;x
+nick_the_guardian;the Guardian;;;;;;;;;;;Ñòðàæ;;x
+nick_the_guide;the Guide;;;;;;;;;;;Ïðîâîäíè[This.GetTsaK];;x
+nick_the_hammer;the Hammer;;;;;;;;;;;[This.GetNickHammer];;x
+nick_the_handsome;the Handsome;;;;;;;;;;;Êðàñèâ[This.GetAyaYy];;x
+nick_the_harth_of_location;the Hart of [Root.Location.GetName];;;;;;;;;;;[This.Location.County.GetAdjective]ñêàÿ Ïðåëåñòü;;x
+nick_the_hawk_of_quarysh;the Hawk of Quarysh;;;;;;;;;;;ßñòðåá Êóðàéøèòîâ;;x
+nick_the_headless;the Headless;;;;;;;;;;;Îáåçãëàâëåíí[This.GetAyaYy];;x
+nick_the_healer;the Healer;;;;;;;;;;;Öåëèòåëü[This.GetEndNitsa];;x
+nick_the_heart_eater;the Heart-eater;;;;;;;;;;;Ïîæèðàòåëü[This.GetEndNitsa] Ñåðäåö;;x
+nick_the_heathen;the Heathen;;;;;;;;;;;ßçû÷íè[This.GetTsaK];;x
+nick_the_heavenly;the Heavenly;;;;;;;;;;;Áîæåñòâåíí[This.GetAyaYy];;x
+nick_the_hermit;the Hermit;;;;;;;;;;;Îòøåëüíè[This.GetTsaK];;x
+nick_the_hideous;the Hideous;;;;;;;;;;;Îòâðàòèòåëüí[This.GetAyaYy];;x
+nick_the_hollow;the Hollow;;;;;;;;;;;Òîù[This.GetAyaIy];;x
+nick_the_holy;the Holy;;;;;;;;;;;Ïðàâåäíè[This.GetTsaK];;x
+nick_the_holy_mason;the Holy Mason;;;;;;;;;;;Áîæèé Êàìåíùèê;;x
+nick_the_horse_gelder;the Horse-Gelder;;;;;;;;;;;Êîíåâîä;;x
+nick_the_horse_shepherd;the Horse Shepherd;;;;;;;;;;;Ïîãîíùè[This.GetTsaK];;x
+nick_the_hunchback;the Hunchback;;;;;;;;;;;Ãîðáàò[This.GetAyaYy];;x
+nick_the_hundred_flagons;Hundred-Flagons;;;;;;;;;;;Ñòî Áóòûëîê;;x
+nick_the_hunter;the Hunter;;;;;;;;;;;Îõîòíè[This.GetTsaK];;x
+nick_the_hyena;the Hyena;;;;;;;;;;;Ãèåíà;;x
+nick_the_ill_ruler;the Ill-Ruler;;;;;;;;;;;Êîâàðí[This.GetAyaYy];;x
+nick_the_ill_tempered;the Ill-tempered;;;;;;;;;;;Áðþçãëèâ[This.GetAyaYy];;x
+nick_the_illuminated;the Illuminated;;;;;;;;;;;Îñâÿù¸íí[This.GetAyaYy];;x
+nick_the_impaler;the Impaler;;;;;;;;;;;Êîëîñàæàòåëü[This.GetEndNitsa];;x
+nick_the_innocent;the Innocent;;;;;;;;;;;Íåâèíí[This.GetAyaYy];;x
+nick_the_inquisitor;the Inquisitor;;;;;;;;;;;Èíêâèçèòîð[This.GetEndSha];;x
+nick_the_iron_grip;Irongrip;;;;;;;;;;;Æåëåçíàÿ Ðóêîÿòü;;x
+nick_the_iron_heart;Ironheart;;;;;;;;;;;Æåëåçíîå Ñåðäöå;;x
+nick_the_ironside;Ironside;;;;;;;;;;;Æåëåçíîáîê[This.GetAyaIy];;x
+nick_the_jackal;the Jackal;;;;;;;;;;;[This.GetNickJackal];;x
+nick_the_jittery;the Jittery;;;;;;;;;;;Íåðâí[This.GetAyaYy];;x
+nick_the_jolly;the Jolly;;;;;;;;;;;Èãðèâ[This.GetAyaYy];;x
+nick_the_jovial;the Jovial;;;;;;;;;;;Æèçíåðàäîñòí[This.GetAyaYy];;x
+nick_the_just;the Just;;;;;;;;;;;Ñïðàâåäëèâ[This.GetAyaYy];;x
+nick_the_kind;the Kind;;;;;;;;;;;Ëþáåçí[This.GetAyaYy];;x
+nick_the_kind_hearted;the Kind-Hearted;;;;;;;;;;;Äîáðîñåðäå÷í[This.GetAyaYy];;x
+nick_the_kingslayer;the [Root.GetTitle]slayer;;;;;;;;;;;Öàðåóáèéöà;;x
+nick_the_knight_of_turnips;the Knight of Turnips;;;;;;;;;;;Ðûöàðü Ðåïû;;x
+nick_the_knuckle_slammer;Knuckle-Slammer;;;;;;;;;;;Ñáèòûå Êóëàêè;;x
+nick_the_lackland;Lackland;;;;;;;;;;;Áåççåìåëüí[This.GetAyaYy];;x
+nick_the_ladder_legs;Ladder Legs;;;;;;;;;;;Äëèííîíîã[This.GetAyaIy];;x
+nick_the_lame;the Lame;;;;;;;;;;;Õðîì[This.GetAyaOy];;x
+nick_the_lawgiver;the Lawgiver;;;;;;;;;;;Çàêîíîäàòåëü[This.GetEndNitsa];;x
+nick_the_lecher;the Lecher;;;;;;;;;;;Ðàçâðàòíè[This.GetTsaK];;x
+nick_the_leechlord;the [This.GetLeechRank];;;;;;;;;;;[This.GetLeechRank];;x
+nick_the_legendary;the Legendary;;;;;;;;;;;Ëåãåíäàðí[This.GetAyaYy];;x
+nick_the_leper;the Leper;;;;;;;;;;;Ïðîêàæ¸íí[This.GetAyaYy];;x
+nick_the_lewd;the Lewd;;;;;;;;;;;Ïîõîòëèâ[This.GetAyaYy];;x
+nick_the_liar;the Liar;;;;;;;;;;;[This.GetNickLiar];;x
+nick_the_liberator;the Liberator;;;;;;;;;;;Îñâîáîäèòåëü[This.GetEndNitsa];;x
+nick_the_lion;the Lion;;;;;;;;;;;[This.GetLionessLionCap];;x
+nick_the_lioness;the Lioness;;;;;;;;;;;Ñâèðåï[This.GetAyaYy];;x
+nick_the_lionheart;the Lionheart;;;;;;;;;;;Ëüâèíîå Ñåðäöå;;x
+nick_the_lisp_and_lame;the Lisp and Lame;;;;;;;;;;;Øåïåëÿâ[This.GetAyaYy] è õðîì[This.GetAyaOy];;x
+nick_the_little_crow;the Little Crow;;;;;;;;;;;Ñîðîêà;;x
+nick_the_little_nightmare;the Little Nightmare;;;;;;;;;;;Ìàëåíüêèé Êîøìàð;;x
+nick_the_little_spider;the Little Spider;;;;;;;;;;;Ìåëêèé Êðîâîñîñ;;x
+nick_the_lord_of_realm;the [Root.GetLordLady] of [Root.PrimaryTitle.GetName];;;;;;;;;;;[This.GetNickLordOfRealm] çåìëè [This.PrimaryTitle.GetAdjective]ñêîé;;x
+nick_the_loyal;the Loyal;;;;;;;;;;;Ïðåäàíí[This.GetAyaYy];;x
+nick_the_lucky;the Lucky;;;;;;;;;;;Óäàòí[This.GetAyaYy];;x
+nick_the_mad;the Mad;;;;;;;;;;;Áåçóìí[This.GetAyaYy];;x
+nick_the_magnanimous;the Magnanimous;;;;;;;;;;;Âåëèêîäóøí[This.GetAyaYy];;x
+nick_the_magnificent;the Magnificent;;;;;;;;;;;Âåëèêîëåïí[This.GetAyaYy];;x
+nick_the_maid;the Maid;;;;;;;;;;;Äåâà;;x
+nick_the_maid_of_virgin;the Virgin's Maid;;;;;;;;;;;Ñëóæàíêà Áîãîðîäèöû;;x
+nick_the_martyr;the Martyr;;;;;;;;;;;Ìó÷åíè[This.GetTsaK];;x
+nick_the_master_of_hungary;the Master of Hungary;;;;;;;;;;;Ìàãèñòð Âåíãðèè;;x
+nick_the_mead_master;the Mead Master;;;;;;;;;;;Ìàñòåð Ì¸äà;;x
+nick_the_merciful;the Merciful;;;;;;;;;;;Ìèëîñåðäí[This.GetAyaYy];;x
+nick_the_merciless;the Merciless;;;;;;;;;;;Áåñïîùàäí[This.GetAyaYy];;x
+nick_the_merry;the Merry;;;;;;;;;;;Âåñ¸ë[This.GetAyaYy];;x
+nick_the_messenger_of_christ;the Messenger of Christ;;;;;;;;;;;Âåñòíè[This.GetTsaK] Õðèñòà;;x
+nick_the_messy;the Messy;;;;;;;;;;;Íåáðåæí[This.GetAyaYy];;x
+nick_the_milkdrinker;the Milkdrinker;;;;;;;;;;;Ìîëîêîñîñ[This.GetEndKa];;x
+nick_the_miracle_worker;the Miracle-Worker;;;;;;;;;;;×óäîòâîð[This.GetItsaEts];;x
+nick_the_missionary;the Missionary;;;;;;;;;;;Ìèññèîíåð[This.GetEndKa];;x
+nick_the_moaner;the Moaner;;;;;;;;;;;[This.GetNickMoaner];;x
+nick_the_monk;the Monk;;;;;;;;;;;Ìîíàõ;;x
+nick_the_monster;the Monster;;;;;;;;;;;×óäîâèùå;;x
+nick_the_mule;the Mule;;;;;;;;;;;[This.GetDonkeyCap];;x
+nick_the_munificent;the Munificent;;;;;;;;;;;Áëàãîäàòí[This.GetAyaYy];;x
+nick_the_mutilator;the Mutilator;;;;;;;;;;;Ðàñ÷ëåíèòåëü[This.GetEndNitsa];;x
+nick_the_myrrh_streaming;the Myrrh-Streaming;;;;;;;;;;;Ìèðîòî÷èâ[This.GetAyaYy];;x
+nick_the_mythological_creature;the [GetRandomMythologicalCreature];;;;;;;;;;;[This.GetMFRandomMythologicalCreature];;x
+nick_the_noble;the Noble;;;;;;;;;;;Áëàãîðîäí[This.GetAyaYy];;x
+nick_the_nun;the Nun;;;;;;;;;;;Ìîíàõèíÿ;;x
+nick_the_oakskin;Oakskin;;;;;;;;;;;Ìîðùèíèñò[This.GetAyaYy];;x
+nick_the_old;the Old;;;;;;;;;;;Ñòàð[This.GetAyaYy];;x
+nick_the_oppressor;the Oppressor;;;;;;;;;;;Óãíåòàòåëü[This.GetEndNitsa];;x
+nick_the_page_of_lord;the Page of Our Lord;;;;;;;;;;;Ñëóãà Ãîñïîäà;;x
+nick_the_pale_prince;the Pale Prince;;;;;;;;;;;Áëåäí[This.GetAyaYy] [This.GetPrincessPrince];;x
+nick_the_pale_spider;the Pale Spider;;;;;;;;;;;Áëåäíûé Ïàóê;;x
+nick_the_patron_of_arts;the Patron of Arts;;;;;;;;;;;Ïîêðîâèòåëü[This.GetEndNitsa] Èñêóññòâ;;x
+nick_the_peace_maker;the Peace-Maker;;;;;;;;;;;Ìèðîòâîð[This.GetItsaEts];;x
+nick_the_peaceable;the Peaceable;;;;;;;;;;;Ìèðîëþáèâ[This.GetAyaYy];;x
+nick_the_peacock;the Peacock;;;;;;;;;;;Ïàâëèí;;x
+nick_the_persevering;the Persevering;;;;;;;;;;;Íåóãîìîíí[This.GetAyaYy];;x
+nick_the_pest;the Pest;;;;;;;;;;;Ìåëê[This.GetAyaIy] Ïàðàçèò[This.GetEndKa];;x
+nick_the_philosopher;the Philosopher;;;;;;;;;;;Ôèëîñîô;;x
+nick_the_piglet;the Piglet;;;;;;;;;;;Ïîðîñ¸íîê;;x
+nick_the_pilgrim;the Pilgrim;;;;;;;;;;;Ïàëîìíè[This.GetTsaK];;x
+nick_the_pious;the Pious;;;;;;;;;;;Áëàãî÷åñòèâ[This.GetAyaYy];;x
+nick_the_plaguebearer;the Plaguebearer;;;;;;;;;;;×óìí[This.GetAyaOy];;x
+nick_the_poison_tooth;Poison-Tooth;;;;;;;;;;;Æåë÷í[This.GetAyaYy];;x
+nick_the_prophet;the Prophet;;;;;;;;;;;Ïðîðîê;;x
+nick_the_proselytizer;the Proselytizer;;;;;;;;;;;Ïðîïîâåäíè[This.GetTsaK];;x
+nick_the_protector;the Protector;;;;;;;;;;;Çàùèòíè[This.GetTsaK];;x
+nick_the_proud;the Proud;;;;;;;;;;;Ãîðä[This.GetAyaYy];;x
+nick_the_prudent;the Prudent;;;;;;;;;;;Áëàãîðàçóìí[This.GetAyaYy];;x
+nick_the_pups_gut;the Pups' Gut;;;;;;;;;;;Êèøêà Òîíêà;;x
+nick_the_pure;the Pure;;;;;;;;;;;×èñò[This.GetAyaYy];;x
+nick_the_purified;the Purified;;;;;;;;;;;Î÷èùåíí[This.GetAyaYy];;x
+nick_the_purifier;the Purifier;;;;;;;;;;;Î÷èñòèòåëü[This.GetEndNitsa];;x
+nick_the_quarreller;the Quarreller;;;;;;;;;;;Ñâàðëèâ[This.GetAyaYy];;x
+nick_the_quick_fingers;Quick-Fingers;;;;;;;;;;;Ëîâêèå Ïàëüöû;;x
+nick_the_quick_foot;Quickfoot;;;;;;;;;;;Áûñòðîíîã[This.GetAyaIy];;x
+nick_the_radiant;the Radiant;;;;;;;;;;;Ëó÷åçàðí[This.GetAyaYy];;x
+nick_the_rash;the Rash;;;;;;;;;;;Áåçðàññóäí[This.GetAyaYy];;x
+nick_the_recluse;the Recluse;;;;;;;;;;;Çàòâîðíè[This.GetTsaK];;x
+nick_the_red;the Red;;;;;;;;;;;Ðûæ[This.GetAyaIy];;x
+nick_the_red_cheeks;Red-cheeks;;;;;;;;;;;Íåæåíêà;;x
+nick_the_red_gladiator;the Red Gladiator;;;;;;;;;;;Êðàñíûé Ãëàäèàòîð;;x
+nick_the_red_gladiatrix;the Red Gladiatrix;;;;;;;;;;;Êðàñíàÿ Ãëàäèàòîðøà;;x
+nick_the_red_storm;the Red Storm;;;;;;;;;;;Êðîâàâûé Äîæäü;;x
+nick_the_rel_group;the [Root.Religion.GetGroupName];;;;;;;;;;;[This.GetRelGroupNickCap];;x
+nick_the_repulsive;the Repulsive;;;;;;;;;;;Ìåðçê[This.GetAyaIy];;x
+nick_the_resilient;the Resilient;;;;;;;;;;;Æèâó÷[This.GetAyaIy];;x
+nick_the_restorer;the Restorer;;;;;;;;;;;[This.GetNickRestorer];;x
+nick_the_right_believing;the Right-Believing;;;;;;;;;;;Ïðàâîâåðí[This.GetAyaYy];;x
+nick_the_righteous;the Righteous;;;;;;;;;;;Ïðàâåäí[This.GetAyaYy];;x
+nick_the_ripper;the Reaper;;;;;;;;;;;Æíåö;;x
+nick_the_roaring_flame;the Roaring Flame;;;;;;;;;;;Ð¸â Ïëàìåíè;;x
+nick_the_rough_hair;Roughhair;;;;;;;;;;;Íå÷¸ñàíí[This.GetAyaYy];;x
+nick_the_ruthless;the Ruthless;;;;;;;;;;;Áåçæàëîñòí[This.GetAyaYy];;x
+nick_the_saint;the Saint;;;;;;;;;;;Ñâÿò[This.GetAyaOy];;x
+nick_the_salt_snake;the Salt-Snake;;;;;;;;;;;Ñîëÿíîé Çìåé;;x
+nick_the_salt_viper;the Salt-Viper;;;;;;;;;;;Ñîëÿíàÿ Ãàäþêà;;x
+nick_the_saoshyant;the Saoshyant;;;;;;;;;;;Ñàîøèàíò;;x
+nick_the_scarlet_eagle;the Scarlet Eagle;;;;;;;;;;;Àëûé Îð¸ë;;x
+nick_the_scarlet_hands;Scarlet-Hands;;;;;;;;;;;Êðàñíîðóê[This.GetAyaIy];;x
+nick_the_scarlet_painter;the Scarlet Painter;;;;;;;;;;;Êðàñíûé Ìàëÿð;;x
+nick_the_scholar;the Scholar;;;;;;;;;;;Ó÷¸í[This.GetAyaYy];;x
+nick_the_scourge;the Scourge;;;;;;;;;;;[This.GetNickScourge];;x
+nick_the_scourge_of;the Scourge of [Root.Liege.PrimaryTitle.GetName];;;;;;;;;;;[This.GetNickBaneOfRealm] [This.Liege.PrimaryTitle.GetAdjective]ñêèõ çåìåëü;;x
+nick_the_scourge_of_god;the Scourge of [nickname_target.Religion.GetHighGodName];;;;;;;;;;;[This.GetNickScourgeOfGod];;x
+nick_the_sea_devil;the Sea-Devil;;;;;;;;;;;Ìîðñê[This.GetAyaOy] äüÿâîë[This.GetEndItsa];;x
+nick_the_seducer;the Seducer;;;;;;;;;;;Ñîáëàçíèòåëü[This.GetEndNitsa];;x
+nick_the_shadow;the Shadow;;;;;;;;;;;Òåíü;;x
+nick_the_sharp_teeth;Sharp-teeth;;;;;;;;;;;Îñòðîçóá[This.GetAyaYy];;x
+nick_the_sharp_tongue;Sharp Tongue;;;;;;;;;;;Îñòðûé ßçûê;;x
+nick_the_shield_of_capital;Shield of [nick_target_the_shield_of_capital.Capital.GetName];;;;;;;;;;;[nick_target_the_shield_of_capital.Capital.County.GetAdjective]ñêèé Ùèò;;x
+nick_the_shieldmaiden;the Shieldmaiden;;;;;;;;;;;Ùèòîíîñèöà;;x
+nick_the_short_tempered;the Short-tempered;;;;;;;;;;;Íåòåðïåëèâ[This.GetAyaYy];;x
+nick_the_shrewd;the Shrewd;;;;;;;;;;;Ïðîçîðëèâ[This.GetAyaYy];;x
+nick_the_shrinking_violet;the Shrinking Violet;;;;;;;;;;;Îïîçîðåíí[This.GetAyaYy];;x
+nick_the_silent;the Silent;;;;;;;;;;;Ìîë÷àëèâ[This.GetAyaYy];;x
+nick_the_silver_tongue;Silvertongue;;;;;;;;;;;Êðàñíîðå÷èâ[This.GetAyaYy];;x
+nick_the_simple;the Simple;;;;;;;;;;;Ïðîñòîâàò[This.GetAyaYy];;x
+nick_the_singing_crow;the Singing Crow;;;;;;;;;;;Ïîþùàÿ Âîðîíà;;x
+nick_the_siren;the Siren;;;;;;;;;;;Ñèðåíà;;x
+nick_the_skull_crusher;the Skull-Crusher;;;;;;;;;;;×åðåïîêîë;;x
+nick_the_sky_rider;the Sky Rider;;;;;;;;;;;Âñàäíè[This.GetTsaK] Íåáà;;x
+nick_the_slaughterer;the Slaughterer;;;;;;;;;;;Ïîòðîøèòåëü[This.GetEndNitsa];;x
+nick_the_slayer_of_culture;Slayer of the [nickname_target.Culture.GetName];;;;;;;;;;;Ãóáèòåëü[This.GetEndNitsa] [nickname_target.GetCultureAdj]îãî íàðîäà;;x
+nick_the_sleepy;the Sleepy;;;;;;;;;;;Çàñîíÿ;;x
+nick_the_snake;the Snake;;;;;;;;;;;Âåðîëîìí[This.GetAyaYy];;x
+nick_the_snakeling;the Snakeling;;;;;;;;;;;Çìå¸íûø;;x
+nick_the_soul_flayer;the Soulflayer;;;;;;;;;;;Âûðûâàòåëü[This.GetEndNitsa] Äóø;;x
+nick_the_spare;the Spare;;;;;;;;;;;Âòîðîñîðòí[This.GetAyaYy];;x
+nick_the_spark_of_god;the Spark of [Root.Religion.GetHighGodName];;;;;;;;;;;Èñêðà [This.GetReligionHighGodGEN];;x
+nick_the_spider;the Spider;;;;;;;;;;;Êóêëîâîä[This.GetEndKa];;x
+nick_the_spirit_stalker;the Spirit-stalker;;;;;;;;;;;Îõîòíè[This.GetTsaK] çà Äóøàìè;;x
+nick_the_splinter;the Splinter;;;;;;;;;;;Çàíîçà;;x
+nick_the_squealer;the Squealer;;;;;;;;;;;Âèçãóí[This.GetEndSoftYa];;x
+nick_the_squirmy;the Squirmy;;;;;;;;;;;Âåðòëÿâ[This.GetAyaYy];;x
+nick_the_stallion;the Stallion;;;;;;;;;;;Æåðåáåö;;x
+nick_the_stammerer;the Stammerer;;;;;;;;;;;Çàèêà;;x
+nick_the_star_weaver;the Starweaver;;;;;;;;;;;Çâ¸çäí[This.GetAyaYy] Ïðÿäèëüùè[This.GetTsaK];;x
+nick_the_stormforged;the Stormforged;;;;;;;;;;;Æåëåçíûé Øòîðì;;x
+nick_the_strange;the Strange;;;;;;;;;;;×óäí[This.GetAyaOy];;x
+nick_the_stranger;the Stranger;;;;;;;;;;;Àñêîëüä;;x
+nick_the_strong;the Strong;;;;;;;;;;;Ñèëüí[This.GetAyaYy];;x
+nick_the_strongarm;Strongarm;;;;;;;;;;;Ñèëüíàÿ Ðóêà;;x
+nick_the_strongest_of_location;the Strongest of [Root.Location.GetName];;;;;;;;;;;[This.Location.County.GetAdjective]ñêèé Áîãàòûðü;;x
+nick_the_submissive;the Submissive;;;;;;;;;;;Ïîêîðí[This.GetAyaYy];;x
+nick_the_survivor;the Survivor;;;;;;;;;;;Âûæèâø[This.GetAyaIy];;x
+nick_the_sword_of_god;the Sword of [Root.Religion.GetRandomGodName];;;;;;;;;;;Êëèíîê [This.GetReligionHighGodGEN];;x
+nick_the_tamer;the Tamer;;;;;;;;;;;Óêðîòèòåëü[This.GetEndNitsa];;x
+nick_the_tempest_of_capital;the Tempest of [Root.Capital.GetName];;;;;;;;;;;[This.Capital.County.GetAdjective]ñêàÿ Áóðÿ;;x
+nick_the_temptress;the Temptress;;;;;;;;;;;Èñêóñèòåëü[This.GetEndNitsa];;x
+nick_the_tenacious;the Tenacious;;;;;;;;;;;Òâåðäîëîá[This.GetAyaYy];;x
+nick_the_terrain_commander;the [battlefield_location.GetTerrainCap] Commander;;;;;;;;;;;[battlefield_location.GetTerrainCap] Âîèí;;x
+nick_the_terrible;the Terrible;;;;;;;;;;;Óæàñí[This.GetAyaYy];;x
+nick_the_terror_of_provincename;the Terror of [nickname_target.GetName];;;;;;;;;;;Óæàñ [nickname_target.County.GetAdjective]ñêîé çåìëè;;x
+nick_the_theologian;the Theologian;;;;;;;;;;;Áîãîñëîâ;;x
+nick_the_thigh_biter;the Thighbiter;;;;;;;;;;;Êóñàù[This.GetAyaIy] çà Á¸äðà;;x
+nick_the_thin_minded;the Thin-Minded;;;;;;;;;;;Óçêîëîá[This.GetAyaYy];;x
+nick_the_tiger;the Tiger;;;;;;;;;;;Òèãð[This.GetEndItsa];;x
+nick_the_toothless;the Toothless;;;;;;;;;;;Áåççóá[This.GetAyaYy];;x
+nick_the_toothless_wolf;the Toothless Wolf;;;;;;;;;;;Áåççóá[This.GetAyaYy] [This.GetWolfCap];;x
+nick_the_tormentor;the Tormentor;;;;;;;;;;;Ìó÷èòåëü[This.GetEndNitsa];;x
+nick_the_tower;the Tower;;;;;;;;;;;Áàøíÿ;;x
+nick_the_trader;the Trader;;;;;;;;;;;Òîðãîâ[This.GetKaEts];;x
+nick_the_traitor;the Traitor;;;;;;;;;;;Ïðåäàòåëü[This.GetEndNitsa];;x
+nick_the_trickster;the Trickster;;;;;;;;;;;Îáìàíùè[This.GetTsaK];;x
+nick_the_troubadour;the Troubadour;;;;;;;;;;;Òðóáàäóð;;x
+nick_the_twitchy;the Twitchy;;;;;;;;;;;Íåðâí[This.GetAyaYy];;x
+nick_the_tyrant;the Tyrant;;;;;;;;;;;Òèðàí[This.GetEndKa];;x
+nick_the_unchaste;the Unchaste;;;;;;;;;;;Íåïðèñòîéí[This.GetAyaYy];;x
+nick_the_undefeated;the Undefeated;;;;;;;;;;;Íåïîáåäèì[This.GetAyaYy];;x
+nick_the_underdog;the Underdog;;;;;;;;;;;Íåóäà÷íè[This.GetTsaK];;x
+nick_the_understanding;the Understanding;;;;;;;;;;;×óòê[This.GetAyaIy];;x
+nick_the_undying;the Undying;;;;;;;;;;;Áåññìåðòí[This.GetAyaYy];;x
+nick_the_unfaithful;the Unfaithful;;;;;;;;;;;Íåâåðí[This.GetAyaYy];;x
+nick_the_unlucky;the Unlucky;;;;;;;;;;;Íåâåçó÷[This.GetAyaIy];;x
+nick_the_unmercenary_healer;the Unmercenary Healer;;;;;;;;;;;Áåñêîðûñòí[This.GetAyaYy] Öåëèòåëü[This.GetEndNitsa];;x
+nick_the_unready;the Unready;;;;;;;;;;;Íåðàçóìí[This.GetAyaYy];;x
+nick_the_unwilling;the Unwilling;;;;;;;;;;;Íåñêëîíí[This.GetAyaYy];;x
+nick_the_usurper;the Usurper;;;;;;;;;;;Óçóðïàòîð[This.GetEndSha];;x
+nick_the_vain;the Vain;;;;;;;;;;;Ïîç¸ð[This.GetEndSha];;x
+nick_the_valkyrie;the Valkyrie;;;;;;;;;;;Âàëüêèðèÿ;;x
+nick_the_vatican_prince;the Vatican Prince;;;;;;;;;;;Ïðèíö Âàòèêàíà;;x
+nick_the_vatican_princess;the Vatican Princess;;;;;;;;;;;Ïðèíöåññà Âàòèêàíà;;x
+nick_the_venerable;the Venerable;;;;;;;;;;;Ïðåïîäîáí[This.GetAyaYy];;x
+nick_the_vengeful;the Vengeful;;;;;;;;;;;Ìñòèòåëüí[This.GetAyaYy];;x
+nick_the_victorious;the Victorious;;;;;;;;;;;Ïîáåäîíîñ[This.GetNayaEts];;x
+nick_the_viking;the Viking;;;;;;;;;;;Âèêèíã;;x
+nick_the_virago;the Virago;;;;;;;;;;;Âèðàãî;;x
+nick_the_vixen;the Vixen;;;;;;;;;;;Ñòåðâà;;x
+nick_the_waking_teacher;the Waking-Teacher;;;;;;;;;;;Ïðîáóæäàþ[This.GetAyaIy];;x
+nick_the_wall_of_title;the Wall of [Root.PrimaryTitle.GetName];;;;;;;;;;;[This.PrimaryTitle.GetAdjective]ñêàÿ Ñòåíà;;x
+nick_the_warlike;the Warlike;;;;;;;;;;;Âîèòåëü[This.GetEndNitsa];;x
+nick_the_warrior_child;the Warrior Child;;;;;;;;;;;Äèòÿ Âîéíû;;x
+nick_the_warrior_philosopher;the Warrior Philosopher;;;;;;;;;;;Âîèí-Ôèëîñîô;;x
+nick_the_weak;the Weak;;;;;;;;;;;Ñëàá[This.GetAyaYy];;x
+nick_the_wealthy;the Wealthy;;;;;;;;;;;Áîãàò[This.GetAyaYy];;x
+nick_the_weaponsmith;the Weaponsmith;;;;;;;;;;;Îðóæåéíè[This.GetTsaK];;x
+nick_the_whiner;the Whiner;;;;;;;;;;;Íþíÿ;;x
+nick_the_whirling_spell;Whirling-Spell;;;;;;;;;;;Ãîâîðÿùèé Âèõðü;;x
+nick_the_whisperer;the Whisperer;;;;;;;;;;;Ñïëåòíè[This.GetTsaK];;x
+nick_the_white_knight;the White Knight;;;;;;;;;;;Áåëûé Ðûöàðü;;x
+nick_the_white_raven;the White Raven;;;;;;;;;;;[This.GetNickWhiteRaven];;x
+nick_the_wicked;the Wicked;;;;;;;;;;;Ïîðî÷í[This.GetAyaYy];;x
+nick_the_wily;the Wily;;;;;;;;;;;Ëóêàâ[This.GetAyaYy];;x
+nick_the_wise;the Wise;;;;;;;;;;;[This.GetNickWise];;x
+nick_the_witch;the [Root.GetWarlockWitch];;;;;;;;;;;[This.GetWarlockWitchCap];;x
+nick_the_witch_hunter;the Witch Hunter;;;;;;;;;;;Îõîòíè[This.GetTsaK] íà âåäüì;;x
+nick_the_wolf;the Wolf;;;;;;;;;;;[This.GetWolfCap];;x
+nick_the_word_master;the Word Master;;;;;;;;;;;Ìàñòåð Ñëîâà;;x
+nick_the_word_slayer;the Word-Slayer;;;;;;;;;;;Óáèâàþù[This.GetAyaIy] Ñëîâîì;;x
+nick_the_word_thief;the Word-Thief;;;;;;;;;;;Ïëàãèàòîð[This.GetEndSha];;x
+nick_the_world_burner;the World Burner;;;;;;;;;;;Èñïåïåëèòåëü[This.GetEndNitsa];;x
+nick_the_wyrm;the Wyrm;;;;;;;;;;;Âèðì;;x
+nick_the_young;the Young;;;;;;;;;;;Ìîëîä[This.GetAyaOy];;x
+nick_the_young_conqueror;the Young Conqueror;;;;;;;;;;;Þí[This.GetAyaYy] Çàâîåâàòåëü[This.GetEndNitsa];;x
+nick_the_young_eagle;the Young Eagle;;;;;;;;;;;Îðë¸íîê;;x
+nick_the_younger;the Younger;;;;;;;;;;;Ìîëîä[This.GetAyaOy];;x
+nick_the_youthful;the Youthful;;;;;;;;;;;Âå÷íîìîëîä[This.GetAyaOy];;x
+nick_the_zealot;the Zealot;;;;;;;;;;;Çèëîò;;x
+nick_tiny;Tiny;;;;;;;;;;;Ìåëê[This.GetAyaIy];;x
+nick_twistedbeard;Twistedbeard;;;;;;;;;;;Êðèâàÿ Áîðîäà;;x
+nick_warrior_lodge_spirit;[GetWarriorBattleNick];;;;;;;;;;;[GetWarriorBattleNick];;x
+nick_whiteshirt;Whiteshirt;;;;;;;;;;;Õâèòñåðê;;x
 # Chinese nicknames
-beautiful_beard;Beautiful Beard;;;;;;;;;;;;;x
-the_big_halberd;the Big Halberd;;;;;;;;;;;;;x
-the_black_whirlwind;the Black Whirlwind;;;;;;;;;;;;;x
-the_ferocious_giant;the Ferocious Giant;;;;;;;;;;;;;x
-the_jade_unicorn;the Jade Unicorn;;;;;;;;;;;;;x
-the_panther_head;the Panther Head;;;;;;;;;;;;;x
-the_prodigy;the Prodigy;;;;;;;;;;;;;x
-the_tattooed_monk;the Tattooed Monk;;;;;;;;;;;;;x
-the_thunderbolt;the Thunderbolt;;;;;;;;;;;;;x
-the_timely_rain;the Timely Rain;;;;;;;;;;;;;x
-the_turbulent_river_dragon;the Turbulent River Dragon;;;;;;;;;;;;;x
-the_unrestrained;the Unrestrained;;;;;;;;;;;;;x
-the_whirlwind;the Whirlwind;;;;;;;;;;;;;x
-the_winged_tiger;the Winged Tiger;;;;;;;;;;;;;x
-the_wizard;the Wizard;;;;;;;;;;;;;x
+beautiful_beard;Beautiful Beard;;;;;;;;;;;Áîðîäà÷[This.GetEndKa];;x
+the_big_halberd;the Big Halberd;;;;;;;;;;;Áîëüøàÿ àëåáàðäà;;x
+the_black_whirlwind;the Black Whirlwind;;;;;;;;;;;[This.GetNickBlackWhirlwind];;x
+the_ferocious_giant;the Ferocious Giant;;;;;;;;;;;Ñâèðåï[This.GetAyaYy] âåëèêàí[This.GetEndSha];;x
+the_jade_unicorn;the Jade Unicorn;;;;;;;;;;;Íåôðèòîâûé åäèíîðîã;;x
+the_panther_head;the Panther Head;;;;;;;;;;;Áàðñîãîëîâ[This.GetAyaYy];;x
+the_prodigy;the Prodigy;;;;;;;;;;;Îäàð¸íí[This.GetAyaYy];;x
+the_tattooed_monk;the Tattooed Monk;;;;;;;;;;;Òàòóèðîâàíí[This.GetAyaYy] ìîíà[This.GetShkaH];;x
+the_thunderbolt;the Thunderbolt;;;;;;;;;;;[This.GetNickThunderbolt];;x
+the_timely_rain;the Timely Rain;;;;;;;;;;;Ñâîåâðåìåííûé äîæäü;;x
+the_turbulent_river_dragon;the Turbulent River Dragon;;;;;;;;;;;Äðàêîí, áóäîðàæàùèé ðåêè;;x
+the_unrestrained;the Unrestrained;;;;;;;;;;;Íå çíàþù[This.GetAyaIy] ïðåãðàä;;x
+the_whirlwind;the Whirlwind;;;;;;;;;;;[This.GetNickWhirlwind];;x
+the_winged_tiger;the Winged Tiger;;;;;;;;;;;Êðûëàò[This.GetAyaYy] òèãð[This.GetEndItsa];;x
+the_wizard;the Wizard;;;;;;;;;;;Âîëøåáíè[This.GetTsaK];;x

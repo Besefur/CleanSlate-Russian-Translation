@@ -1,116 +1,113 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC38150;[FromFrom.GetFirstName] has become Trusting. This may not be the most beneficial for [FromFrom.GetHerHim] in the long run.;;;;;;;;;;;;;x
-EVTDESC38151;It seems that [FromFrom.GetFirstName] has become Slothful.;;;;;;;;;;;;;x
-EVTDESC38152;Sadly, [FromFrom.GetFirstName] has become Greedy. I guess I have to keep checking my purse everyday now.;;;;;;;;;;;;;x
-EVTDESC38153;[FromFrom.GetFirstName] has started to stutter. This may turn out slightly embarrassing for [FromFrom.GetHerHim] in the future.;;;;;;;;;;;;;x
-EVTDESC38154;[FromFrom.GetFirstName] is exhibiting a severe anger constantly. [FromFrom.GetSheHeCap] has gained the Wroth trait.;;;;;;;;;;;;;x
-EVTDESC38155;I do not seem to be able to trust [FromFrom.GetFirstName] anymore. [FromFrom.GetSheHeCap] has gained the Deceitful trait.;;;;;;;;;;;;;x
-EVTDESC38156;[FromFrom.GetFirstName] seems to work so hard when [FromFrom.GetSheHe] needs something done. [FromFrom.GetSheHeCap] has gained the Diligent trait.;;;;;;;;;;;;;x
-EVTDESC38157;[FromFrom.GetFirstName] seems almost afraid of [FromFrom.GetHerHis] shadow. [FromFrom.GetSheHeCap] has gained the Craven trait.;;;;;;;;;;;;;x
-EVTDESC38158;[FromFrom.GetFirstName] seems to not believe anything anyone says. [FromFrom.GetSheHeCap] has gained the Cynical trait.;;;;;;;;;;;;;x
-EVTDESC38159;[FromFrom.GetFirstName] seems to enjoy watching others in pain. [FromFrom.GetSheHeCap] has gained the Cruel trait.;;;;;;;;;;;;;x
-EVTDESC38160;[FromFrom.GetFirstName] seems so modest and polite. [FromFrom.GetSheHeCap] has gained the Humble trait.;;;;;;;;;;;;;x
-EVTDESC38161;[FromFrom.GetFirstName] is definitely sure of [FromFrom.GetHerselfHimself]. [FromFrom.GetSheHeCap] has gained the Proud trait.;;;;;;;;;;;;;x
-EVTDESC38162;[FromFrom.GetFirstName] speaks the truth whenever possible, and never seems to lie. [FromFrom.GetSheHeCap] has gained the Honest trait.;;;;;;;;;;;;;x
-EVTDESC38163;[FromFrom.GetFirstName] seems to be quiet and not asserting [FromFrom.GetHerselfHimself]. [FromFrom.GetSheHeCap] has gained the Shy trait.;;;;;;;;;;;;;x
-EVTDESC38164;[FromFrom.GetFirstName] seems to be taking [FromFrom.GetHerHis] time when taking decisions. [FromFrom.GetSheHeCap] has gained the Patient trait.;;;;;;;;;;;;;x
-EVTDESC38165;[FromFrom.GetFirstName] seems to be getting along with everyone. [FromFrom.GetSheHeCap] has gained the Gregarious trait.;;;;;;;;;;;;;x
-EVTDESC38166;[FromFrom.GetFirstName] doesn't really understand the concept of rules and laws. [FromFrom.GetSheHeCap] has gained the Arbitrary trait.;;;;;;;;;;;;;x
-EVTDESC38167;[FromFrom.GetFirstName] seems to take a great interest in fair rules and true justice. [FromFrom.GetSheHeCap] has gained the Just trait.;;;;;;;;;;;;;x
-EVTDESC38168;[FromFrom.GetFirstName] seems to treat everyone nicely. [FromFrom.GetSheHeCap] has gained the Kind trait.;;;;;;;;;;;;;x
-EVTDESC38169;[FromFrom.GetFirstName] has become a true believer and want to follow the faith. [FromFrom.GetSheHeCap] has gained the Zealous trait.;;;;;;;;;;;;;x
-EVTDESC38170;[FromFrom.GetFirstName] seems to have no fears at all. [FromFrom.GetSheHeCap] has gained the Brave trait.;;;;;;;;;;;;;x
-EVTDESC38171;[FromFrom.GetFirstName] always seems to covet what others have. [FromFrom.GetSheHeCap] has gained the Envious trait.;;;;;;;;;;;;;x
-EVTDESC38172;[FromFrom.GetFirstName] seems to constantly spend time with the opposite sex. [FromFrom.GetSheHeCap] has gained the Lustful trait.;;;;;;;;;;;;;x
-EVTDESC38173;[FromFrom.GetFirstName] always gives freely to everyone that has a need or want. [FromFrom.GetSheHeCap] has gained the Charitable trait.;;;;;;;;;;;;;x
-EVTDESC38174;[FromFrom.GetFirstName] does not seem to like physical contact with other people. [FromFrom.GetSheHeCap] has gained the Chaste trait.;;;;;;;;;;;;;x
-EVTDESC38175;[FromFrom.GetFirstName] does not seem to trust ANYONE! [FromFrom.GetSheHeCap] has gained the Paranoid trait.;;;;;;;;;;;;;x
-EVTDESC38176;[FromFrom.GetFirstName] seems to always be moderate, and never does anything to excess. [FromFrom.GetSheHeCap] has gained the Temperate trait.;;;;;;;;;;;;;x
-EVTDESC38177;[FromFrom.GetFirstName] seems to never be satisfied, and just gorges [FromFrom.GetHerselfHimself] on food and drink. [FromFrom.GetSheHeCap] has gained the Gluttonous trait.;;;;;;;;;;;;;x
-EVTDESC38178;[FromFrom.GetFirstName] sets great goals for [FromFrom.GetHerselfHimself], and works hard at reaching them. [FromFrom.GetSheHeCap] has gained the Ambitious trait.;;;;;;;;;;;;;x
-EVTDESC38179;[FromFrom.GetFirstName] seems satisfied with what [FromFrom.GetSheHe] has. [FromFrom.GetSheHeCap] has gained the Content trait.;;;;;;;;;;;;;x
-EVTDESC38180;[FromFrom.GetFirstName] has been severely injured. [FromFrom.GetSheHeCap] has gained the Wounded trait.;;;;;;;;;;;;;x
-EVTDESC38181;[FromFrom.GetFirstName] has been crippled for life. [FromFrom.GetSheHeCap] has gained the Maimed trait.;;;;;;;;;;;;;x
-EVTDESC38182;[FromFrom.GetFirstName] worries too much over things [FromFrom.GetSheHe] cannot influence. [FromFrom.GetSheHeCap] has gained the Stressed trait.;;;;;;;;;;;;;x
-EVTDESC38183;[FromFrom.GetFirstName] has been cured from [FromFrom.GetHerHis] illness! [FromFrom.GetSheHeCap] has lost the Ill trait.;;;;;;;;;;;;;x
-EVTDESC38188;[FromFrom.GetTitledFirstName] has lost the joy of life. [FromFrom.GetSheHeCap] has gained the Depressed trait.;;;;;;;;;;;;;x
-EVTDESC38190;[FromFrom.GetTitledFirstName] is feverish and has a headache. [FromFrom.GetSheHeCap] has gained the Ill trait.;;;;;;;;;;;;;x
-
-EVTDESC38250;It is clear that all other people are friendly and want my best. I've gained the §YTrusting§! trait.;;;;;;;;;;;;;x
-EVTDESC38251;Everything seems so hard to do, not really worth the effort. I've gained the §YSlothful§! trait.;;;;;;;;;;;;;x
-EVTDESC38252;I want it all, and I want it now! I've gained the §YGreedy§! trait.;;;;;;;;;;;;;x
-EVTDESC38253;I can't speak properly, I've gained the §YStutter§! trait.;;;;;;;;;;;;;x
-EVTDESC38254;Everything frustrates me! I've gained the §YWroth§! trait.;;;;;;;;;;;;;x
-EVTDESC38255;People are such gullible fools! I've gained the §YDeceitful§! trait.;;;;;;;;;;;;;x
-EVTDESC38256;Hard work is always needed to achieve something in life. I've gained the §YDiligent§! trait.;;;;;;;;;;;;;x
-EVTDESC38257;The world is such a scary place. I've gained the §YCraven§! trait.;;;;;;;;;;;;;x
-EVTDESC38258;The world is such a big lie. I've gained the §YCynical§! trait.;;;;;;;;;;;;;x
-EVTDESC38259;I like seeing other people cry. I've gained the §YCruel§! trait.;;;;;;;;;;;;;x
-EVTDESC38260;Everyone deserves respect, and I will give it to them. I've gained the §YHumble§! trait.;;;;;;;;;;;;;x
-EVTDESC38261;I know that I am great and deserve respect. I've gained the §YProud§! trait.;;;;;;;;;;;;;x
-EVTDESC38262;Telling lies just seems so wrong. I have gained the §YHonest§! trait.;;;;;;;;;;;;;x
-EVTDESC38263;I'm always awkward talking to the people.. I have gained the §YShy§! trait.;;;;;;;;;;;;;x
-EVTDESC38264;Rushing into action seems foolish. I have gained the §YPatient§! trait.;;;;;;;;;;;;;x
-EVTDESC38265;Talking to people, and getting to know them is something I really like. I have gained the §YGregarious§! trait.;;;;;;;;;;;;;x
-EVTDESC38266;Do I have to abide by laws and rules? My whim sounds more interesting. I have gained the §YArbitrary§! trait.;;;;;;;;;;;;;x
-EVTDESC38267;Treating people fairly and providing justice is my duty. I have gained the §YJust§! trait.;;;;;;;;;;;;;x
-EVTDESC38268;Treating people nicely feels good. I have gained the §YKind§! trait.;;;;;;;;;;;;;x
-EVTDESC38269;Following [Root.Religion.GetRandomGodName]'s will is more important than anything else. I have gained the Zealous trait.;;;;;;;;;;;;;x
-EVTDESC38270;There is nothing to fear, but fear itself. I've gained the §YBrave§! trait.;;;;;;;;;;;;;x
-EVTDESC38271;Others have things that I should have been given. I've gained the §YEnvious§! trait.;;;;;;;;;;;;;x
-EVTDESC38272;Life spent in the arms of another, is a life spent well. I've gained the §YLustful§! trait.;;;;;;;;;;;;;x
-EVTDESC38273;I have lots of things, and giving my surplus to others is a good deed. I've gained the §YCharitable§! trait.;;;;;;;;;;;;;x
-EVTDESC38274;I don't feel comfortable touching other human beings. I've gained the §YChaste§! trait.;;;;;;;;;;;;;x
-EVTDESC38275;They are out to get me! I've gained the §YParanoid§! trait.;;;;;;;;;;;;;x
-EVTDESC38276;Moderation is the key! I've gained the §YTemperate§! trait.;;;;;;;;;;;;;x
-EVTDESC38277;There is nothing better than just eating and drinking! I've gained the §YGluttonous§! trait.;;;;;;;;;;;;;x
-EVTDESC38278;I deserve good things, and I will work to get them! I've gained the §YAmbitious§! trait.;;;;;;;;;;;;;x
-EVTDESC38279;I am perfectly happy with the way things are. I've gained the §YContent§! trait.;;;;;;;;;;;;;x
-EVTDESC38280;I have been injured badly. I've gained the §YWounded§! trait.;;;;;;;;;;;;;x
-EVTDESC38281;I have been crippled for life. I've gained the §YMaimed§! trait.;;;;;;;;;;;;;x
-EVTDESC38282;There are too many things to do, too many things that worries me. I have gained the §YStressed§! trait.;;;;;;;;;;;;;x
-EVTDESC38283;I have been cured from my illness! I have lost the §YIll§! trait.;;;;;;;;;;;;;x
-EVTDESC38284;My body is sapless and feeble. I have gained the §YInfirm§! trait.;;;;;;;;;;;;;x
-EVTDESC38285;The temptations and desires of the body no longer holds me down. I have gained the Celibate trait.;;;;;;;;;;;;;x
-EVTDESC38286;I drink to forget and remember my trouble no more. I have gained the Drunkard trait.;;;;;;;;;;;;;x
-EVTDESC38288;I have lost the joy of life. I have gained the §YDepressed§! trait.;;;;;;;;;;;;;x
-EVTDESC38289;My lovely garden does not bring me as much joy as it used to do. I have lost the Gardener trait.;;;;;;;;;;;;;x
-EVTDESC38290;I don't feel so good. I have gained the §YIll§! trait.;;;;;;;;;;;;;x
-EVTDESC38291;I am no longer able to torture another human being, no matter the reason. I have lost the §YImpaler§! trait.;;;;;;;;;;;;;x
-EVTDESC38292;I used to love the clang of a sword's blade against another and the satisfaction I felt after defeating my opponent. Not anymore. I have lost the Duelist trait;;;;;;;;;;;;;x
-EVTDESC38293;The animals in the forest will from now on be safe from my bloodlust. I have lost the Hunter trait.;;;;;;;;;;;;;x
-EVTDESC38294;I cannot get the words to flow as they used to and the idea to write my thoughts in poetry has ceased to be a necessity. I have lost the Poet trait.;;;;;;;;;;;;;x
-EVTDESC38295;I no longer find it hard or awkward to talk to people. I have lost the §YShy§! trait.;;;;;;;;;;;;;x
-EVTDESC38296;I no longer fear the world, I embrace it and feel safe. I have lost the §YCraven§! trait.;;;;;;;;;;;;;x
-EVTDESC38297;People no longer interests me as much as they used to do and I never voluntarily start a conversation with anyone anymore. I have lost the §YGregarious§! trait;;;;;;;;;;;;;x
-EVTDESC38298;It can be fun digging into work and see how your effort makes a difference. I have lost the §YSlothful§! trait.;;;;;;;;;;;;;x
-EVTDESC38299;I am not happy with the way things are. I have lost the §YContent§! trait.;;;;;;;;;;;;;x
-EVTDESC38300;There are people in the world that deserves my respect. I have lost the §YProud§! trait.;;;;;;;;;;;;;x
-EVTDESC38301;My skin is glowing, my hair is always perfect and the opposite sex yearn for me to take notice of them. I have gained the §YFair§! trait.;;;;;;;;;;;;;x
-EVTDESC38302;It must be a miracle, I no longer have problem pronouncing S or any other letter! I have lost the §YLisp§! trait.;;;;;;;;;;;;;x
-EVTDESC38303;I have gone so long without craving the touch of another human, but now I have grown wiser. I have lost the §YChaste§! trait.;;;;;;;;;;;;;x
-EVTDESC38304;The voices are whispering to me, telling me what to do... horrible, horrible things they want me to do... I have gained the §YLunatic§! trait.;;;;;;;;;;;;;x
-EVTDESC38305;I have grown more trusting, accepting whatever fate has in store for me. I have lost the Paranoid trait.;;;;;;;;;;;;;x
-EVTDESC38306;I have become aware of people's duplicity. I have lost the Trusting trait.;;;;;;;;;;;;;x
-EVTDESC38307;I have suffered enough pain and betrayal. Why help those who hurt me back? I have lost the Kind trait.;;;;;;;;;;;;;x
-EVTDESC38308;The wounds have marked me for life. I have gained the Scarred trait.;;;;;;;;;;;;;x
-EVTDESC38309;The fog in my mind has lifted. I realize now that I used to be a Lunatic!;;;;;;;;;;;;;x
-EVTDESC38310;I have lost my absolute convictions and try to keep an open mind. I have lost the Zealous trait.;;;;;;;;;;;;;x
-EVTDESC38311;My frank bluntness won't get me into trouble anymore - I have lost the Honest trait.;;;;;;;;;;;;;x
-EVTDESC38312;I have learned to take pride in my actions and in my great family. I have lost the Humble trait.;;;;;;;;;;;;;x
-EVTDESC38313;The pressures of life no longer seem so overwhelming. I am not §YStressed§! anymore!;;;;;;;;;;;;;x
-EVTDESC38314;I woke up this morning with a big smile on my face. I am no longer Depressed!;;;;;;;;;;;;;x
-EVTDESC38315;I am speaking in tongues and screaming obscenities at random times, people believe me to be possessed.;;;;;;;;;;;;;x
-EVTDESC38316;I've come to realize that world is a full of mystery and wonder. I am no longer Cynical.;;;;;;;;;;;;;x
-EVTDESC38317;The concepts of fairness and rules have lost their luster to me. I have lost the Just trait.;;;;;;;;;;;;;x
-EVTDESC38318;Why would all these delicious foods and drinks exist if we were not meant to taste them? I've lost the Temperate trait.;;;;;;;;;;;;;x
-EVTDESC38319;Not everything in life needs hard work to achieve. I've lost the Diligent trait.;;;;;;;;;;;;;x
-EVTDESC38320;Caution is often the wisest choice. I've lost the Brave trait.;;;;;;;;;;;;;x
-EVTDESC38321;Giving to others what I may need in the future is not always the best choice. I've lost the §YCharitable§! trait.;;;;;;;;;;;;;x
-EVTDESC38322;Sometimes sharing what I have with others feels good. I've lost the §YGreedy§! trait.;;;;;;;;;;;;;x
-
-EVTDESCD38287;My actions have killed a member of my family. I have gained the Tribal Kinslayer trait.;;;;;;;;;;;;;x
-EVTDESCA38287;My actions have killed a close relative of mine! I have gained the Kinslayer trait.;;;;;;;;;;;;;x
-EVTDESCB38287;My actions have killed a member of my extended family! I have gained the Familial Kinslayer trait.;;;;;;;;;;;;;x
-EVTDESCC38287;My actions have killed a member of my dynasty! I have gained the Dynastic Kinslayer trait.;;;;;;;;;;;;;x
+EVTDESC38150;[FromFrom.GetFirstName] has become Trusting. This may not be the most beneficial for [FromFrom.GetHerHim] in the long run.;;;;;;;;;;;[FromFrom.GetFirstName] ñòàë[FromFrom.GetEndA] ñëèøêîì äîâåð÷èâ[FromFrom.GetOyYm]. Ýòî íå ñàìàÿ ëó÷øàÿ ÷åðòà õàðàêòåðà äëÿ äàëüíåéøèõ ïåðñïåêòèâ.;;x
+EVTDESC38151;It seems that [FromFrom.GetFirstName] has become Slothful.;;;;;;;;;;;Êàæåòñÿ, [FromFrom.GetFirstName] ñòàíîâèòñÿ ëåíèâûì ÷åëîâåêîì.;;x
+EVTDESC38152;Sadly, [FromFrom.GetFirstName] has become Greedy. I guess I have to keep checking my purse everyday now.;;;;;;;;;;;Ãðóñòíî, [FromFrom.GetFirstName] ñòàíîâèòñÿ æàäíûì ÷åëîâåêîì. Äóìàþ, ñòîèò ïðîâåðÿòü ñâîé êîøåë¸ê êàæäûé äåíü.;;x
+EVTDESC38153;[FromFrom.GetFirstName] has started to stutter. This may turn out slightly embarrassing for [FromFrom.GetHerHim] in the future.;;;;;;;;;;;[FromFrom.GetFirstName] òåïåðü çàèêàåòñÿ. Ýòî ìîæåò ïðèâåñòè ê íåëîâêèì ñèòóàöèÿì â áóäóùåì.;;x
+EVTDESC38154;[FromFrom.GetFirstName] is exhibiting a severe anger constantly. [FromFrom.GetSheHeCap] has gained the Wroth trait.;;;;;;;;;;;[FromFrom.GetFirstName] ïîñòîÿííî ïðîÿâëÿåò ñèëüíûé ãíåâ. [FromFrom.GetSheHeCap] òåïåðü ãíåâí[FromFrom.GetAyaYy].;;x
+EVTDESC38155;I do not seem to be able to trust [FromFrom.GetFirstName] anymore. [FromFrom.GetSheHeCap] has gained the Deceitful trait.;;;;;;;;;;;[FromFrom.GetFirstName] áîëüøå íå çàñëóæèâàåò äîâåðèÿ. [FromFrom.GetSheHeCap] òåïåðü êîâàðí[FromFrom.GetAyaYy].;;x
+EVTDESC38156;[FromFrom.GetFirstName] seems to work so hard when [FromFrom.GetSheHe] needs something done. [FromFrom.GetSheHeCap] has gained the Diligent trait.;;;;;;;;;;;[FromFrom.GetFirstName] ðàáîòàåò ñ áîëüøèì ðâåíèåì êîãäà [FromFrom.GetHerHim] òðåáóåòñÿ ÷òî-òî çàêîí÷èòü. [FromFrom.GetSheHeCap] òåïåðü óñåðäí[FromFrom.GetAyaYy].;;x
+EVTDESC38157;[FromFrom.GetFirstName] seems almost afraid of [FromFrom.GetHerHis] shadow. [FromFrom.GetSheHeCap] has gained the Craven trait.;;;;;;;;;;;[FromFrom.GetFirstName] âûãëÿäèò òàê, áóäòî áîèòñÿ ñîáñòâåííîé òåíè. [FromFrom.GetSheHeCap] òåïåðü òðóñëèâ[FromFrom.GetAyaYy].;;x
+EVTDESC38158;[FromFrom.GetFirstName] seems to not believe anything anyone says. [FromFrom.GetSheHeCap] has gained the Cynical trait.;;;;;;;;;;;[FromFrom.GetFirstName], êàæåòñÿ, íå âåðèò íè÷åìó, ÷òî ãîâîðÿò äðóãèå. [FromFrom.GetSheHeCap] òåïåðü öèíè÷í[FromFrom.GetAyaYy].;;x
+EVTDESC38159;[FromFrom.GetFirstName] seems to enjoy watching others in pain. [FromFrom.GetSheHeCap] has gained the Cruel trait.;;;;;;;;;;;[FromFrom.GetFirstName], êàæåòñÿ, íàñëàæäàåòñÿ ÷óæèìè ñòðàäàíèÿìè. [FromFrom.GetSheHeCap] òåïåðü æåñòîê[FromFrom.GetAyaIy].;;x
+EVTDESC38160;[FromFrom.GetFirstName] seems so modest and polite. [FromFrom.GetSheHeCap] has gained the Humble trait.;;;;;;;;;;;[FromFrom.GetFirstName] êàæåòñÿ ñêðîìíûì è âåæëèâûì ÷åëîâåêîì. [FromFrom.GetSheHeCap] òåïåðü ñêðîìí[FromFrom.GetAyaYy].;;x
+EVTDESC38161;[FromFrom.GetFirstName] is definitely sure of [FromFrom.GetHerselfHimself]. [FromFrom.GetSheHeCap] has gained the Proud trait.;;;;;;;;;;;[FromFrom.GetFirstName] áåçóñëîâíî óâåðåííûé â ñåáå ÷åëîâåê. [FromFrom.GetSheHeCap] òåïåðü âûñîêîìåðí[FromFrom.GetAyaYy].;;x
+EVTDESC38162;[FromFrom.GetFirstName] speaks the truth whenever possible, and never seems to lie. [FromFrom.GetSheHeCap] has gained the Honest trait.;;;;;;;;;;;[FromFrom.GetFirstName] âñåãäà ãîâîðèò ïðàâäó è, êàæåòñÿ, íèêîãäà íå âðåò. [FromFrom.GetSheHeCap] òåïåðü ÷åñòí[FromFrom.GetAyaYy].;;x
+EVTDESC38163;[FromFrom.GetFirstName] seems to be quiet and not asserting [FromFrom.GetHerselfHimself]. [FromFrom.GetSheHeCap] has gained the Shy trait.;;;;;;;;;;;[FromFrom.GetFirstName] êàæåòñÿ òàêèì òèõèì è ðîáêèì ÷åëîâåêîì. [FromFrom.GetSheHeCap] òåïåðü çàñòåí÷èâ[FromFrom.GetAyaYy].;;x
+EVTDESC38164;[FromFrom.GetFirstName] seems to be taking [FromFrom.GetHerHis] time when taking decisions. [FromFrom.GetSheHeCap] has gained the Patient trait.;;;;;;;;;;;[FromFrom.GetFirstName], êàæåòñÿ, îâëàäåâàåò ñàìèì âðåìåíåì ïðè ïðèíÿòèè ðåøåíèé. [FromFrom.GetSheHeCap] òåïåðü òåðïåëèâ[FromFrom.GetAyaYy].;;x
+EVTDESC38165;[FromFrom.GetFirstName] seems to be getting along with everyone. [FromFrom.GetSheHeCap] has gained the Gregarious trait.;;;;;;;;;;;[FromFrom.GetFirstName] êàæåòñÿ ëþáèò íàõîäèòüñÿ âìåñòå ñî âñåìè. [FromFrom.GetSheHeCap] òåïåðü îáùèòåëüí[FromFrom.GetAyaYy].;;x
+EVTDESC38166;[FromFrom.GetFirstName] doesn't really understand the concept of rules and laws. [FromFrom.GetSheHeCap] has gained the Arbitrary trait.;;;;;;;;;;;[FromFrom.GetFirstName] íå ïîíèìàåò ðåàëüíîé êîíöåïöèè çàêîíîâ è ïðàâèë. [FromFrom.GetSheHeCap] òåïåðü ñàìîäóð.;;x
+EVTDESC38167;[FromFrom.GetFirstName] seems to take a great interest in fair rules and true justice. [FromFrom.GetSheHeCap] has gained the Just trait.;;;;;;;;;;;[FromFrom.GetFirstName] êàæåòñÿ óâëåêàåòñÿ ñïðàâåäëèâîñòüþ ïðàâèë è èñòèííîé ñïðàâåäëèâîñòüþ. [FromFrom.GetSheHeCap] òåïåðü ñïðàâåäëèâ[FromFrom.GetAyaYy].;;x
+EVTDESC38168;[FromFrom.GetFirstName] seems to treat everyone nicely. [FromFrom.GetSheHeCap] has gained the Kind trait.;;;;;;;;;;;[FromFrom.GetFirstName] êàæåòñÿ îòíîñèòüñÿ êî âñåì õîðîøî. [FromFrom.GetSheHeCap] òåïåðü äîáð[FromFrom.GetAyaYy].;;x
+EVTDESC38169;[FromFrom.GetFirstName] has become a true believer and want to follow the faith. [FromFrom.GetSheHeCap] has gained the Zealous trait.;;;;;;;;;;;[FromFrom.GetFirstName] ñòàíîâèòñÿ èñòèííî âåðóþùèì ÷åëîâåêîì è õî÷åò ñëåäîâàòü âåðå. [FromFrom.GetSheHeCap] òåïåðü íàáîæí[FromFrom.GetAyaYy].;;x
+EVTDESC38170;[FromFrom.GetFirstName] seems to have no fears at all. [FromFrom.GetSheHeCap] has gained the Brave trait.;;;;;;;;;;;[FromFrom.GetFirstName], êàæåòñÿ, íè÷åãî íå áîèòñÿ. [FromFrom.GetSheHeCap] òåïåðü õðàáð[FromFrom.GetAyaYy].;;x
+EVTDESC38171;[FromFrom.GetFirstName] always seems to covet what others have. [FromFrom.GetSheHeCap] has gained the Envious trait.;;;;;;;;;;;[FromFrom.GetFirstName] êàæåòñÿ âñåãäà æàæäåò çàâëàäåòü èìóùåñòâîì äðóãèõ. [FromFrom.GetSheHeCap] òåïåðü çàâèñòëèâ[FromFrom.GetAyaYy].;;x
+EVTDESC38172;[FromFrom.GetFirstName] seems to constantly spend time with the opposite sex. [FromFrom.GetSheHeCap] has gained the Lustful trait.;;;;;;;;;;;[FromFrom.GetFirstName], êàæåòñÿ, ïðîâîäèò âñ¸ ñâî¸ âðåìÿ ñ ïðîòèâîïîëîæíûì ïîëîì. [FromFrom.GetSheHeCap] òåïåðü ïîõîòëèâ[FromFrom.GetAyaYy].;;x
+EVTDESC38173;[FromFrom.GetFirstName] always gives freely to everyone that has a need or want. [FromFrom.GetSheHeCap] has gained the Charitable trait.;;;;;;;;;;;[FromFrom.GetFirstName] âñåãäà âåä¸ò ñåáÿ ùåäðî âî âñåì, â ÷åì åñòü íåîáõîäèìîñòü. [FromFrom.GetSheHeCap] òåïåðü ùåäð[FromFrom.GetAyaYy].;;x
+EVTDESC38174;[FromFrom.GetFirstName] does not seem to like physical contact with other people. [FromFrom.GetSheHeCap] has gained the Chaste trait.;;;;;;;;;;;[FromFrom.GetFirstName], êàæåòñÿ, íå ëþáèò ôèçè÷åñêèå êîíòàêòû ñ ëþäüìè. [FromFrom.GetSheHeCap] òåïåðü öåëîìóäðåíí[FromFrom.GetAyaYy].;;x
+EVTDESC38175;[FromFrom.GetFirstName] does not seem to trust ANYONE! [FromFrom.GetSheHeCap] has gained the Paranoid trait.;;;;;;;;;;;[FromFrom.GetFirstName], êàæåòñÿ, íèêîìó íå äîâåðÿåò! [FromFrom.GetSheHeCap] òåïåðü ïàðàíîèê.;;x
+EVTDESC38176;[FromFrom.GetFirstName] seems to always be moderate, and never does anything to excess. [FromFrom.GetSheHeCap] has gained the Temperate trait.;;;;;;;;;;;[FromFrom.GetFirstName], êàæåòñÿ, âñåãäà âåä¸ò ñåáÿ ñäåðæàííî è íå äåëàåò íèêîãäà íè÷åãî ëèøíåãî. [FromFrom.GetSheHeCap] òåïåðü óìåðåíí[FromFrom.GetAyaYy].;;x
+EVTDESC38177;[FromFrom.GetFirstName] seems to never be satisfied, and just gorges [FromFrom.GetHerselfHimself] on food and drink. [FromFrom.GetSheHeCap] has gained the Gluttonous trait.;;;;;;;;;;;[FromFrom.GetFirstName], êàæåòñÿ, íèêîãäà íå ñìîæåò óäîâëåòâîðèòüñÿ â åäå è íàïèòêàõ. [FromFrom.GetSheHeCap] òåïåðü îáæîðà.;;x
+EVTDESC38178;[FromFrom.GetFirstName] sets great goals for [FromFrom.GetHerselfHimself], and works hard at reaching them. [FromFrom.GetSheHeCap] has gained the Ambitious trait.;;;;;;;;;;;[FromFrom.GetFirstName] èìååò ïðèâû÷êó ñòàâèòü ñåáå öåëè, à ïîòîì óñåðäíî ðàáîòàòü äëÿ èõ äîñòèæåíèÿ. [FromFrom.GetSheHeCap] òåïåðü àìáèöèîçí[FromFrom.GetAyaYy].;;x
+EVTDESC38179;[FromFrom.GetFirstName] seems satisfied with what [FromFrom.GetSheHe] has. [FromFrom.GetSheHeCap] has gained the Content trait.;;;;;;;;;;;[FromFrom.GetFirstName] íå ìîæåò íè íà ÷òî æàëîâàòüñÿ. Äåëà èäóò îòëè÷íî. [FromFrom.GetSheHeCap] òåïåðü óäîâëåòâîðåíí[FromFrom.GetAyaYy].;;x
+EVTDESC38180;[FromFrom.GetFirstName] has been severely injured. [FromFrom.GetSheHeCap] has gained the Wounded trait.;;;;;;;;;;;[FromFrom.GetFirstName] ïîëó÷èë[Root.GetEndA] òÿæåëóþ òðàâìó. [FromFrom.GetSheHeCap] òåïåðü ðàíåí[FromFrom.GetAyaYy].;;x
+EVTDESC38181;[FromFrom.GetFirstName] has been crippled for life. [FromFrom.GetSheHeCap] has gained the Maimed trait.;;;;;;;;;;;[FromFrom.GetFirstName] òåïåðü èñêàëå÷åíí[FromFrom.GetAyaYy] íà âñþ æèçíü.;;x
+EVTDESC38182;[FromFrom.GetFirstName] worries too much over things [FromFrom.GetSheHe] cannot influence. [FromFrom.GetSheHeCap] has gained the Stressed trait.;;;;;;;;;;;[FromFrom.GetFirstName] ñëèøêîì ìíîãî âîëíóåòñÿ î âåùàõ, íà êîòîðûå íå ìîæåò ïîâëèÿòü. [FromFrom.GetSheHeCap] òåïåðü â ñòðåññå.;;x
+EVTDESC38183;[FromFrom.GetFirstName] has been cured from [FromFrom.GetHerHis] illness! [FromFrom.GetSheHeCap] has lost the Ill trait.;;;;;;;;;;;[FromFrom.GetFirstName] áîëüøå íå ñòðàäàåò îò ñâîåé áîëåçíè. [FromFrom.GetSheHeCap] áîëüøå íå §Yáîëüí[FromFrom.GetAyaOy]§!.;;x
+EVTDESC38188;[FromFrom.GetTitledFirstName] has lost the joy of life. [FromFrom.GetSheHeCap] has gained the Depressed trait.;;;;;;;;;;;[FromFrom.GetTitledFirstName] íå íàõîäèò ñ÷àñòüå â æèçíè. Ïîõîæå, [FromFrom.GetSheHe] òåïåðü â äåïðåññèè.;;x
+EVTDESC38190;[FromFrom.GetTitledFirstName] is feverish and has a headache. [FromFrom.GetSheHeCap] has gained the Ill trait.;;;;;;;;;;;[FromFrom.GetTitledFirstName] ñòðàäàåò îò ãîëîâíîé áîëè è æàðà. Ïîõîæå, [FromFrom.GetSheHe] áîë[FromFrom.GetSoftNaEn].;;x
+EVTDESC38250;It is clear that all other people are friendly and want my best. I've gained the §YTrusting§! trait.;;;;;;;;;;;Âñå ëþäè êî ìíå äðóæåñòâåííû è æåëàþò ìíå òîëüêî ëó÷øåãî. ß òåïåðü §Yäîâåð÷èâ[Root.GetAyaYy]§!.;;x
+EVTDESC38251;Everything seems so hard to do, not really worth the effort. I've gained the §YSlothful§! trait.;;;;;;;;;;;Êàæåòñÿ, ÷òî âñ¸ òàê òðóäíî äåëàòü. Âîçìîæíî íå ñòîèò ïðèêëàäûâàòü óñèëèÿ. ß òåïåðü §Yëåíèâ[Root.GetAyaYy]§!.;;x
+EVTDESC38252;I want it all, and I want it now! I've gained the §YGreedy§! trait.;;;;;;;;;;;ß õî÷ó âñå ýòî, è ÿ õî÷ó ýòî ñåé÷àñ! ß òåïåðü §Yæàäí[Root.GetAyaYy]§!.;;x
+EVTDESC38253;I can't speak properly, I've gained the §YStutter§! trait.;;;;;;;;;;;ß íå ìîãó ãîâîðèòü ïðàâèëüíî. ß ò-òåïåðü §Yçç-çàèêà§!.;;x
+EVTDESC38254;Everything frustrates me! I've gained the §YWroth§! trait.;;;;;;;;;;;Âñå ðàçäðàæàåò ìåíÿ! ß íà âñåõ ñåðæóñü. ß òåïåðü §Yãíåâí[Root.GetAyaYy]§!.;;x
+EVTDESC38255;People are such gullible fools! I've gained the §YDeceitful§! trait.;;;;;;;;;;;Ëþäè - òàêèå äîâåð÷èâûå äóðàêè! ß òåïåðü §Yêîâàðí[Root.GetAyaYy]§!.;;x
+EVTDESC38256;Hard work is always needed to achieve something in life. I've gained the §YDiligent§! trait.;;;;;;;;;;;Â æèçíè, ÷òîá äîñòè÷ü êàêèõ-òî äîñòèæåíèé, íóæíî òÿæåëî ðàáîòàòü. ß òåïåðü §Yóñåðäí[Root.GetAyaYy]§!.;;x
+EVTDESC38257;The world is such a scary place. I've gained the §YCraven§! trait.;;;;;;;;;;;Ìèð òàêîå ñòðàøíîå ìåñòî. ß òåïåðü §Yòðóñëèâ[Root.GetAyaYy]§!.;;x
+EVTDESC38258;The world is such a big lie. I've gained the §YCynical§! trait.;;;;;;;;;;;Ìèð ïîëîí ëæè. ß òåïåðü §Yöèíè÷í[Root.GetAyaYy]§!.;;x
+EVTDESC38259;I like seeing other people cry. I've gained the §YCruel§! trait.;;;;;;;;;;;ß ëþáëþ ñìîòðåòü, êàê äðóãèå ëþäè ïëà÷óò. ß òåïåðü §Yæåñòîê[Root.GetAyaIy]§!.;;x
+EVTDESC38260;Everyone deserves respect, and I will give it to them. I've gained the §YHumble§! trait.;;;;;;;;;;;Êàæäûé ÷åëîâåê çàñëóæèâàåò óâàæåíèÿ, è ÿ äàì åãî. ß òåïåðü §Yñêðîìí[Root.GetAyaYy]§!.;;x
+EVTDESC38261;I know that I am great and deserve respect. I've gained the §YProud§! trait.;;;;;;;;;;;ß çíàþ, ÷òî ÿ âåëèê[Root.GetAyaIy] è çàñëóæèâàþ óâàæåíèÿ. ß òåïåðü §Yâûñîêîìåðí[Root.GetAyaYy]§!.;;x
+EVTDESC38262;Telling lies just seems so wrong. I have gained the §YHonest§! trait.;;;;;;;;;;;Ãîâîðèòü íåïðàâäó êàæåòñÿ òàê íåïðàâèëüíî. ß òåïåðü §Y÷åñòí[Root.GetAyaYy]§!.;;x
+EVTDESC38263;I'm always awkward talking to the people.. I have gained the §YShy§! trait.;;;;;;;;;;;Ìíå âñåãäà íåëîâêî ãîâîðèòü ñ ëþäüìè. ß òåïåðü §Yçàñòåí÷èâ[Root.GetAyaYy]§!.;;x
+EVTDESC38264;Rushing into action seems foolish. I have gained the §YPatient§! trait.;;;;;;;;;;;Ïîñïåøíîñòü â äåéñòâèÿõ âûãëÿäèò ãëóïî. ß òåïåðü §Yòåðïåëèâ[Root.GetAyaYy]§!.;;x
+EVTDESC38265;Talking to people, and getting to know them is something I really like. I have gained the §YGregarious§! trait.;;;;;;;;;;;Ðàçãîâîðû ñ ëþäüìè è çíàêîìñòâà - òî, ÷òî ÿ äåéñòâèòåëüíî ëþáëþ. ß òåïåðü §Yîáùèòåëüí[Root.GetAyaYy]§!.;;x
+EVTDESC38266;Do I have to abide by laws and rules? My whim sounds more interesting. I have gained the §YArbitrary§! trait.;;;;;;;;;;;Íóæíî ëè ñîáëþäàòü çàêîíû è ïðàâèëà? Ìîÿ ïðèõîòü êàæåòñÿ ìíå áîëåå èíòåðåñíîé. ß òåïåðü §Yñàìîäóð§!.;;x
+EVTDESC38267;Treating people fairly and providing justice is my duty. I have gained the §YJust§! trait.;;;;;;;;;;;Ñóäèòü ëþäåé ÷åñòíî è îáåñïå÷èâàòü ñïðàâåäëèâîñòü-âîò ìîé äîëã. ß òåïåðü §Yñïðàâåäëèâ[Root.GetAyaYy]§!.;;x
+EVTDESC38268;Treating people nicely feels good. I have gained the §YKind§! trait.;;;;;;;;;;;Õîðîøåå îòíîøåíèå ê ëþäÿì - ýòî ïðåêðàñíî. ß òåïåðü §Yäîáð[Root.GetAyaYy]§!.;;x
+EVTDESC38269;Following [Root.Religion.GetRandomGodName]'s will is more important than anything else. I have gained the Zealous trait.;;;;;;;;;;;"Ñëóæåíèå òåáå, [Root.Religion.GetRandomGodName], áóäåò âàæíåå ÷åãî áû òî íè áûëî. Ó ìåíÿ ïîÿâèëàñü òàêîå êà÷åñòâî, êàê ""íàáîæíîñòü"".";;x
+EVTDESC38270;There is nothing to fear, but fear itself. I've gained the §YBrave§! trait.;;;;;;;;;;;Íå ñóùåñòâóåò íè÷åãî ñòðàøíîãî, êðîìå ñàìîãî ñòðàõà. ß òåïåðü §Yõðàáð[Root.GetAyaYy]§!.;;x
+EVTDESC38271;Others have things that I should have been given. I've gained the §YEnvious§! trait.;;;;;;;;;;;Äðóãèå âëàäåþò âåùàìè, êîòîðûå ÿ õî÷ó. ß òåïåðü §Yçàâèñòëèâ[Root.GetAyaYy]§!.;;x
+EVTDESC38272;Life spent in the arms of another, is a life spent well. I've gained the §YLustful§! trait.;;;;;;;;;;;Æèçíü, ïðîâåäåííàÿ â îáúÿòèÿõ äðóãîãî - ïðåêðàñíà. ß òåïåðü §Yïîõîòëèâ[Root.GetAyaYy]§!.;;x
+EVTDESC38273;I have lots of things, and giving my surplus to others is a good deed. I've gained the §YCharitable§! trait.;;;;;;;;;;;Ó ìåíÿ åñòü ìíîãî âåùåé è îòäàòü èõ èçáûòîê äðóãèì-ýòî äîáðîå äåëî. ß òåïåðü §Yùåäð[Root.GetAyaYy]§!.;;x
+EVTDESC38274;I don't feel comfortable touching other human beings. I've gained the §YChaste§! trait.;;;;;;;;;;;ß íå ÷óâñòâóþ ñåáÿ êîìôîðòíî êàñàÿñü äðóãèõ ëþäåé. ß òåïåðü §Yöåëîìóäðåíí[Root.GetAyaYy]§!.;;x
+EVTDESC38275;They are out to get me! I've gained the §YParanoid§! trait.;;;;;;;;;;;Îíè âñå õîòÿò çàâëàäåòü ìîèìè âëàäåíèÿìè! ß òåïåðü §Yïàðàíîèê§!.;;x
+EVTDESC38276;Moderation is the key! I've gained the §YTemperate§! trait.;;;;;;;;;;;Ñäåðæàííîñòü â æåëàíèÿõ - ýòî êëþ÷ êî âñåìó! ß òåïåðü §Yóìåðåíí[Root.GetAyaYy]§!.;;x
+EVTDESC38277;There is nothing better than just eating and drinking! I've gained the §YGluttonous§! trait.;;;;;;;;;;;Íåò íè÷åãî ëó÷øå ÷åì åäà è íàïèòêè! ß òåïåðü §Yîáæîðà§!.;;x
+EVTDESC38278;I deserve good things, and I will work to get them! I've gained the §YAmbitious§! trait.;;;;;;;;;;;ß çàñëóæèâàþ ëó÷øåãî è áóäó ðàáîòàòü, ÷òîáû äîñòè÷ü ýòîãî! Òåïåðü ÿ §Yàìáèöèîçí[Root.GetAyaYy]§!.;;x
+EVTDESC38279;I am perfectly happy with the way things are. I've gained the §YContent§! trait.;;;;;;;;;;;Ìíå íå íà ÷òî æàëîâàòüñÿ, ìîè äåëà èäóò îòëè÷íî. ß òåïåðü §Yóäîâëåòâîð¸íí[Root.GetAyaYy]§!.;;x
+EVTDESC38280;I have been injured badly. I've gained the §YWounded§! trait.;;;;;;;;;;;Ìåíÿ òÿæåëî ðàíèëè. ß òåïåðü §Yðàíåí[Root.GetAyaYy]§!.;;x
+EVTDESC38281;I have been crippled for life. I've gained the §YMaimed§! trait.;;;;;;;;;;;Òåïåðü ÿ §YÈñêàëå÷åíí[Root.GetAyaYy]§! íà âñþ æèçíü.;;x
+EVTDESC38282;There are too many things to do, too many things that worries me. I have gained the §YStressed§! trait.;;;;;;;;;;;Ìíå íóæíî ñäåëàòü ñëèøêîì ìíîãî âåùåé, è åù¸ åñòü ñëèøêîì ìíîãèå âåùè, êîòîðûå ìåíÿ áåñïîêîÿò. Òåïåðü ÿ §Yâ ñòðåññå§!.;;x
+EVTDESC38283;I have been cured from my illness! I have lost the §YIll§! trait.;;;;;;;;;;;ß òåïåðü çäîðîâûé ÷åëîâåê! ß áîëüøå íå §Yáîëüí[Root.GetAyaOy]§!.;;x
+EVTDESC38284;My body is sapless and feeble. I have gained the §YInfirm§! trait.;;;;;;;;;;;Ìî¸ òåëî âÿëîå è ñëàáîå. Òåïåðü ÿ §Yíåìîùí[Root.GetAyaYy]§!.;;x
+EVTDESC38285;The temptations and desires of the body no longer holds me down. I have gained the Celibate trait.;;;;;;;;;;;Èñêóøåíèÿ è æåëàíèÿ ïëîòñêèõ óòåõ áîëüøå íå âëàäåþò ìíîé. ß ïðèíèìàþ §Yöåëèáàò§!.;;x
+EVTDESC38286;I drink to forget and remember my trouble no more. I have gained the Drunkard trait.;;;;;;;;;;;ß ïüþ, ÷òîáû çàáûòü î ñâî¸ì ãîðå. Òåïåðü ÿ - ïüÿíèöà.;;x
+EVTDESC38288;I have lost the joy of life. I have gained the §YDepressed§! trait.;;;;;;;;;;;ß íå çíàþ ðàäè ÷åãî æèòü. Òåïåðü ÿ §Yâ äåïðåññèè§!.;;x
+EVTDESC38289;My lovely garden does not bring me as much joy as it used to do. I have lost the Gardener trait.;;;;;;;;;;;Ðàíüøå âî âðåìÿ ïðîãóëîê ïî ñàäó, ìîÿ äóøà íàïîëíÿëàñü ðàäîñòüþ è ñïîêîéñòâèåì. Òåïåðü óæå ÷òî-òî íå òàê, è ìîé ñàä íå òàê õîðîø. Ïîõîæå ÿ áîëüøå íå ìîãó íàçûâàòüñÿ ñàäîâîäîì.;;x
+EVTDESC38290;I don't feel so good. I have gained the §YIll§! trait.;;;;;;;;;;;×òî-òî ìíå íå õîðîøî. Êàæåòñÿ, ÿ §YÁîë[Root.GetSoftNaEn]§!.;;x
+EVTDESC38291;I am no longer able to torture another human being, no matter the reason. I have lost the §YImpaler§! trait.;;;;;;;;;;;ß áîëüøå íèêîãäà íå áóäó èñòÿçàòü äðóãîãî ÷åëîâåêà. ß áîëüøå íå §YÊîëîñàæàòåëü[Root.GetEndNitsa]§!;;x
+EVTDESC38292;I used to love the clang of a sword's blade against another and the satisfaction I felt after defeating my opponent. Not anymore. I have lost the Duelist trait;;;;;;;;;;;Ëÿçã ìå÷åé çàñòàâëÿë ìîå ñåðäöå áèòüñÿ áûñòðåå è íå áûëî áîëüøåãî áëàæåíñòâà, ÷åì ïîáåäà íàä ïðîòèâíèêîì. Òåïåðü âñ¸ ýòî ïîçàäè. ß ïîòåðÿë[Root.GetEndA] ñòðàñòü ê äóýëÿì.;;x
+EVTDESC38293;The animals in the forest will from now on be safe from my bloodlust. I have lost the Hunter trait.;;;;;;;;;;;Òåïåðü ëåñíûå æèâîòíûå ìîãóò íå áîÿòüñÿ ìîåé êðîâîæàäíîñòè. ß áîëüøå íå §Yîõîòíèê§!.;;x
+EVTDESC38294;I cannot get the words to flow as they used to and the idea to write my thoughts in poetry has ceased to be a necessity. I have lost the Poet trait.;;;;;;;;;;;ß óæå íå ìîãó ïîäáèðàòü ñëîâà òàê, êàê ðàíüøå, äà è ïîñòîÿííî çàïèñûâàòü ñâîè ìûñëè â ñòèõàõ óæå íåò íåîáõîäèìîñòè. Âî ìíå óìåð ïîýò.;;x
+EVTDESC38295;I no longer find it hard or awkward to talk to people. I have lost the §YShy§! trait.;;;;;;;;;;;Òåïåðü ìíå íå òðóäíî ðàçãîâàðèâàòü ñ ëþäüìè. ß áîëüøå íå §Yçàñòåí÷èâ[Root.GetAyaYy]§!.;;x
+EVTDESC38296;I no longer fear the world, I embrace it and feel safe. I have lost the §YCraven§! trait.;;;;;;;;;;;Ìåíÿ áîëüøå íå ïóãàåò áîëüøîé Ìèð, ÿ ïðèíèìàþ åãî è ÷óâñòâóþ ñåáÿ â áåçîïàñíîñòè. Òåïåðü ÿ íå §Yòðóñ§!.;;x
+EVTDESC38297;People no longer interests me as much as they used to do and I never voluntarily start a conversation with anyone anymore. I have lost the §YGregarious§! trait;;;;;;;;;;;Ëþäè áîëüøå íå èíòåðåñóþò ìåíÿ òàê, êàê ðàíüøå, è ÿ íèêîãäà è íè ñ êåì íå áåñåäóþ ïî ñîáñòâåííîìó æåëàíèþ. ß áîëüøå íå §Yîáùèòåëüí[Root.GetAyaYy]§!.;;x
+EVTDESC38298;It can be fun digging into work and see how your effort makes a difference. I have lost the §YSlothful§! trait.;;;;;;;;;;;Äîëæíî áûòü çàáàâíî óõîäèòü â ðàáîòó è íàáëþäàòü, êàê òâîè óñèëèÿ ïðèíîñÿò ïëîäû. ß áîëüøå íå §Yëåíèâ[Root.GetAyaYy]§!.;;x
+EVTDESC38299;I am not happy with the way things are. I have lost the §YContent§! trait.;;;;;;;;;;;Òàêîé õîä âåùåé ìåíÿ íå óñòðàèâàåò. ß áîëüøå íå §Yóäîâëåòâîð¸íí[Root.GetAyaYy]§!.;;x
+EVTDESC38300;There are people in the world that deserves my respect. I have lost the §YProud§! trait.;;;;;;;;;;;Â ìèðå åñòü ëþäè, çàñëóæèâàþùèå ìîåãî óâàæåíèÿ. ß áîëüøå íå §Yâûñîêîìåðí[Root.GetAyaYy]§!.;;x
+EVTDESC38301;My skin is glowing, my hair is always perfect and the opposite sex yearn for me to take notice of them. I have gained the §YFair§! trait.;;;;;;;;;;;Ìîÿ êîæà ñèÿåò, ìîè âîëîñû èäåàëüíû, à ïðîòèâîïîëîæíûé ïîë æàæäåò ìîåãî âíèìàíèÿ. Òåïåðü ÿ §YÏðèâëåêàòåë[Root.GetSoftNaEn]§!.;;x
+EVTDESC38302;It must be a miracle, I no longer have problem pronouncing S or any other letter! I have lost the §YLisp§! trait.;;;;;;;;;;;Ýòî äîëæíî áûòü ÷óäî! Ó ìåíÿ áîëüøå íåò ïðîáëåì ñ ïðîèçíîøåíèåì! §YØåïåëÿâîñòü§! ïðîøëà.;;x
+EVTDESC38303;I have gone so long without craving the touch of another human, but now I have grown wiser. I have lost the §YChaste§! trait.;;;;;;;;;;;Ñêîëüêî ìîæíî âîçäåðæèâàòüñÿ... ß áîëüøå íå ìîãó òàê. §YÖåëîìóäðèå§!? Ïîðà çàáûòü ýòî ñëîâî.;;x
+EVTDESC38304;The voices are whispering to me, telling me what to do... horrible, horrible things they want me to do... I have gained the §YLunatic§! trait.;;;;;;;;;;;Ãîëîñà ïåðåø¸ïòûâàþòñÿ â ìîåé ãîëîâå, ãîâîðÿ, ÷òî ìíå äåëàòü... óæàñíûå, óæàñíûå âåùè... ß òåïåðü §YÑóìàñøåäø[Root.GetAyaIy]§!.;;x
+EVTDESC38305;I have grown more trusting, accepting whatever fate has in store for me. I have lost the Paranoid trait.;;;;;;;;;;;Òåïåðü ÿ ÷àùå äîâåðÿþ ëþäÿì è ïðèíèìàþ âñ¸, ÷òî óãîòîâèëà ìíå ñóäüáà. ß áîëüøå íå ïàðàíîèê.;;x
+EVTDESC38306;I have become aware of people's duplicity. I have lost the Trusting trait.;;;;;;;;;;;Îêàçûâàåòñÿ ëþäè - äâóëè÷íûå òâàðè. Äîâåð÷èâîñòü - ýòî óæå íå ïðî ìåíÿ.;;x
+EVTDESC38307;I have suffered enough pain and betrayal. Why help those who hurt me back? I have lost the Kind trait.;;;;;;;;;;;Ñ ìåíÿ óæå õâàòèò áîëè è ïðåäàòåëüñòâ. Çà÷åì ïîìîãàòü äðóãèì ïðè÷èíÿòü ìíå âðåä? ß òåðÿþ ñâîþ äîáðîòó.;;x
+EVTDESC38308;The wounds have marked me for life. I have gained the Scarred trait.;;;;;;;;;;;Ñòàðûå ðàíû îñòàâèëè íà ìíå ñëåä. Øðàìû áóäóò îá ýòîì íàïîìèíàòü.;;x
+EVTDESC38309;The fog in my mind has lifted. I realize now that I used to be a Lunatic!;;;;;;;;;;;Òóìàí âîñïðèÿòèÿ ðàññåèëñÿ è âäðóã êî ìíå ïðèøëî îñîçíàíèå î ñîáñòâåííîì ñóìàñøåñòâèè!;;x
+EVTDESC38310;I have lost my absolute convictions and try to keep an open mind. I have lost the Zealous trait.;;;;;;;;;;;Ìîÿ ïðîñòàÿ è íåèçìåííàÿ êàðòèíà ìèðà òåïåðü ïîøàòíóëàñü - ïðåæíÿÿ íàáîæíîñòü ñìåíèëàñü îòêðûòîñòüþ íîâûì èäåÿì.;;x
+EVTDESC38311;My frank bluntness won't get me into trouble anymore - I have lost the Honest trait.;;;;;;;;;;;Ìîÿ îòêðîåííàÿ ïðÿìîòà áîëüøå íå ñîçäàñò ìíå ïðîáëåì - ÿ òåðÿþ ñâîþ ÷åñòíîñòü.;;x
+EVTDESC38312;I have learned to take pride in my actions and in my great family. I have lost the Humble trait.;;;;;;;;;;;ß âñ¸ áîëüøå è áîëüøå ãîðæóñü ñâîèìè ñâåðøåíèÿìè, ñâîåé âåëèêîé ñåìü¸é. Ïîõîæå, ÷òî ñêðîìíîñòü - ýòî óæå íå ïðî ìåíÿ.;;x
+EVTDESC38313;The pressures of life no longer seem so overwhelming. I am not §YStressed§! anymore!;;;;;;;;;;;Òðóäíîñòè æèçíè áîëüøå íå êàæóòñÿ ñòîëü òÿæåëûìè. ß áîëüøå íå §Yâ ñòðåññå§!!;;x
+EVTDESC38314;I woke up this morning with a big smile on my face. I am no longer Depressed!;;;;;;;;;;;Êîãäà ïðîñûïàåøüñÿ óòðîì ñ óëûáêîé íà ëèöå, ïîíèìàåøü - äåïðåññèÿ ïðîøëà!;;x
+EVTDESC38315;I am speaking in tongues and screaming obscenities at random times, people believe me to be possessed.;;;;;;;;;;;Ëþäè ñ÷èòàþò ìåíÿ îäåðæèì[Root.GetOyYm]. Äóìàþ, ýòî âñ¸ èç-çà òîãî, ÷òî èíîãäà ÿ ãîâîðþ íà íåïîíÿòíûõ ÿçûêàõ, à áûâàåò, ÷òî âûêðèêèâàþ íåïðèñòîéíîñòè â íåïîäõîäÿùèé ìîìåíò.;;x
+EVTDESC38316;I've come to realize that world is a full of mystery and wonder. I am no longer Cynical.;;;;;;;;;;;ß îñîçíàë[Root.GetEndA], ÷òî ìèð ïîëîí ÷óäåñ è íåïîñòèæèìûõ òàéí. ß áîëüøå íå öèíè÷[Root.GetNaEn], êàê ïðåæäå.;;x
+EVTDESC38317;The concepts of fairness and rules have lost their luster to me. I have lost the Just trait.;;;;;;;;;;;ß ñ÷èòàþ, ïîíÿòèÿ î ÷åñòè âî ìíîãîì ïåðåîöåíèâàþò, ìåíÿ óæå íåëüçÿ íàçâàòü §Yñïðàâåäëèâ[Root.GetOyYm]§!.;;x
+EVTDESC38318;Why would all these delicious foods and drinks exist if we were not meant to taste them? I've lost the Temperate trait.;;;;;;;;;;;Ê ÷åìó îãðàíè÷èâàòü ñåáÿ â ÷¸ì-òî, âåäü æèçíü òîëüêî îäíà? §Yóìåðåííîñòü§! áîëüøå íå äëÿ ìåíÿ.;;x
+EVTDESC38319;Not everything in life needs hard work to achieve. I've lost the Diligent trait.;;;;;;;;;;;Íåêîòîðûõ âåùåé â æèçíè íåëüçÿ äîáèòüñÿ îäíèì ëèøü §Yóñåðäèåì§!, ýòà ÷åðòà õàðàêòåðà áîëüøå ìíå íå ñâîéñòâåííà.;;x
+EVTDESC38320;Caution is often the wisest choice. I've lost the Brave trait.;;;;;;;;;;;Îñòîðîæíîñòü ïîëåçíåå íåîáäóìàííîãî ðèñêà. Ãîâîðÿò, ÿ ðàñòåðÿë[Root.GetEndA] âñþ ñâîþ §Yõðàáðîñòü§!.;;x
+EVTDESC38321;Giving to others what I may need in the future is not always the best choice. I've lost the §YCharitable§! trait.;;;;;;;;;;;Ðàçäàâàòü òî, ÷òî ìîæåò ïðèãîäèòüñÿ â áóäóùåì - íå ñàìîå ëó÷øåå ðåøåíèå. ß áîëüøå íå §Yùåäð[This.GetAyaYy]§!.;;x
+EVTDESC38322;Sometimes sharing what I have with others feels good. I've lost the §YGreedy§! trait.;;;;;;;;;;;Èíîãäà ïîëåçíî íå òîëüêî áðàòü, íî è äàâàòü. ß áîëüøå íå §Yæàäí[This.GetAyaYy]§!.;;x
+EVTDESCD38287;My actions have killed a member of my family. I have gained the Tribal Kinslayer trait.;;;;;;;;;;;Ìîè äåéñòâèÿ ïðèâåëè ê ñìåðòè ÷ëåíà ìîåé ñåìüè. Òåïåðü ÿ - óáèéöà ðîäè÷åé.;;x
+EVTDESCA38287;My actions have killed a close relative of mine! I have gained the Kinslayer trait.;;;;;;;;;;;Ìîè äåéñòâèÿ ïðèâåëè ê ñìåðòè îäíîãî èç áëèçêèõ ðîäñòâåííèêîâ! Òåïåðü ìíå íå îòìûòüñÿ îò ýòîãî êëåéìà. ß - óáèéöà ðîäè÷åé.;;x
+EVTDESCB38287;My actions have killed a member of my extended family! I have gained the Familial Kinslayer trait.;;;;;;;;;;;Ìîè äåéñòâèÿ ïðèâåëè ê ñìåðòè îäíîãî èç ðîäñòâåííèêîâ! Òåïåðü ìíå íå îòìûòüñÿ îò ýòîãî êëåéìà. ß - ãóáèòåëü[Root.GetEndNitsa] ðîäíè.;;x
+EVTDESCC38287;My actions have killed a member of my dynasty! I have gained the Dynastic Kinslayer trait.;;;;;;;;;;;Ìîè äåéñòâèÿ ïðèâåëè ê ñìåðòè îäíîãî èç ÷ëåíîâ ìîåé äèíàñòèè! Òåïåðü ìíå íå îòìûòüñÿ îò ýòîãî êëåéìà. ß - ãóáèòåëü[Root.GetEndNitsa] äèíàñòèè.;;x

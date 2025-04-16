@@ -1,6 +1,6 @@
-offmap_likes_me;Likes [offmap_china.GetLike];;;;;;;;;;;;;x
-offmap_likes_tributaries;Likes Tributaries;;;;;;;;;;;;;x
-offmap_same_culture_and_religion;Has both the same Culture and Religion as the [offmap_china.Ruler.GetEmperorEmpress];;;;;;;;;;;;;x
-offmap_same_dynasty;Same Dynasty;;;;;;;;;;;;;x
-offmap_war_with_me;At War;;;;;;;;;;;;;x
-vassal_of_WP;Is a vassal of the Western Protectorate;;;;;;;;;;;;;x
+offmap_likes_me;Likes [offmap_china.GetLike];;;;;;;;;;;Ëþáèò [offmap_china.GetLikeACC];;x
+offmap_likes_tributaries;Likes Tributaries;;;;;;;;;;;Ëþáèò ñâîèõ ñàòåëëèòîâ;;x
+offmap_same_culture_and_religion;Has both the same Culture and Religion as the [offmap_china.Ruler.GetEmperorEmpress];;;;;;;;;;;Ðåëèãèÿ è êóëüòóðà - òå æå, ÷òî è ó [offmap_china.Ruler.GetEmpressEmperorCapGEN];;x
+offmap_same_dynasty;Same Dynasty;;;;;;;;;;;Òà æå äèíàñòèÿ;;x
+offmap_war_with_me;At War;;;;;;;;;;;Âîþåò ñî ìíîé;;x
+vassal_of_WP;Is a vassal of the Western Protectorate;;;;;;;;;;;Âàññàë Ïðîòåêòîðàòà Ñèþé (Çàïàäíîãî Êðàÿ);;x

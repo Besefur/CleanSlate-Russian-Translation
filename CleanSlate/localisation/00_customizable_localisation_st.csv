@@ -1,48 +1,48 @@
 # GetStActivity
-string_rp_bloodline;Forging a bloodline as ;;;;;;;;;;;;;x
-string_rp_bloodthirsty_gods_1;Sacrificing people as ;;;;;;;;;;;;;x
-string_rp_bloodthirsty_gods_2;Sacrificing a lot of people as ;;;;;;;;;;;;;x
-string_rp_bloodthirsty_gods_3;Sacrificing everyone as ;;;;;;;;;;;;;x
-string_rp_book;Writing a book as ;;;;;;;;;;;;;x
-string_rp_cannibal;Having friends for dinner as ;;;;;;;;;;;;;x
-string_rp_content;Enjoying life as ;;;;;;;;;;;;;x
-string_rp_craven;Feeling terrified as ;;;;;;;;;;;;;x
-string_rp_crazy_cannibal;Eating friends for dinner as ;;;;;;;;;;;;;x
-string_rp_crusading;On a Crusade as ;;;;;;;;;;;;;x
-string_rp_drinking;Getting drunk as ;;;;;;;;;;;;;x
-string_rp_friends;Making friends as ;;;;;;;;;;;;;x
-string_rp_gardener;Tending a garden as ;;;;;;;;;;;;;x
-string_rp_ghw;On a Great Holy War as ;;;;;;;;;;;;;x
-string_rp_gluttonous;Eating a lot as ;;;;;;;;;;;;;x
-string_rp_greedy;Counting coins as ;;;;;;;;;;;;;x
-string_rp_hoarding_gold;Hoarding gold as ;;;;;;;;;;;;;x
-string_rp_horse;Horsing around as ;;;;;;;;;;;;;x
-string_rp_immortal;Ruling Forever as ;;;;;;;;;;;;;x
-string_rp_impaler;Oiling up the racks as ;;;;;;;;;;;;;x
-string_rp_kinslayer;Culling their Family as ;;;;;;;;;;;;;x
-string_rp_kow_tow;Kowtowing to the Emperor as ;;;;;;;;;;;;;x
-string_rp_lodge;Fighting in a Warrior Lodge as ;;;;;;;;;;;;;x
-string_rp_metalhand;Ruling with an iron fist as ;;;;;;;;;;;;;x
-string_rp_paranoid;Trusting no one as ;;;;;;;;;;;;;x
-string_rp_pilgrimage;On a pilgrimage as ;;;;;;;;;;;;;x
-string_rp_plague;Dying of the plague as ;;;;;;;;;;;;;x
-string_rp_poet;Writing poetry as ;;;;;;;;;;;;;x
-string_rp_prison;Rotting in prison as ;;;;;;;;;;;;;x
-string_rp_random_world;Exploring a Random World as ;;;;;;;;;;;;;x
-string_rp_religion_head;Ruling the [Root.Religion.GetName] faith as ;;;;;;;;;;;;;x
-string_rp_rivals;Making enemies as ;;;;;;;;;;;;;x
-string_rp_rome;Restoring the Glory of Rome as ;;;;;;;;;;;;;x
-string_rp_ruling_poorly;Ruling poorly as ;;;;;;;;;;;;;x
-string_rp_sacred_xwedodah;Practicing sacred Xwedodah as ;;;;;;;;;;;;;x
-string_rp_seduction;Seducing people as ;;;;;;;;;;;;;x
-string_rp_shattered_world;Uniting a Shattered World as ;;;;;;;;;;;;;x
-string_rp_stressed;Stressing out as ;;;;;;;;;;;;;x
-string_hunting_with_their_dog;Hunting with their dog as ;;;;;;;;;;;;;x
-string_taking_advice_from_their_cat;Taking advice from their cat as ;;;;;;;;;;;;;x
-string_taming_an_eagle;Taming an eagle as ;;;;;;;;;;;;;x
-string_riding_a_horse;Riding a horse as ;;;;;;;;;;;;;x
-string_keeping_a_pet_owl;Keeping a pet owl as ;;;;;;;;;;;;;x
-string_refusing_to_die;Refusing to die as ;;;;;;;;;;;;;x
-string_dueling_for_their_life;Dueling for their life as ;;;;;;;;;;;;;x
-string_provoking_enemies;Provoking their enemy as ;;;;;;;;;;;;;x
-string_ruling;Ruling as ;;;;;;;;;;;;;x
+string_rp_bloodline;Forging a bloodline as ;;;;;;;;;;;Ñîçäàâàÿ ðîäîñëîâíóþ êàê ;;x
+string_rp_bloodthirsty_gods_1;Sacrificing people as ;;;;;;;;;;;Æåðòâóÿ ëþäüìè êàê ;;x
+string_rp_bloodthirsty_gods_2;Sacrificing a lot of people as ;;;;;;;;;;;Æåðòâóÿ ìíîãèìè ëþäüìè, êàê ;;x
+string_rp_bloodthirsty_gods_3;Sacrificing everyone as ;;;;;;;;;;;Æåðòâóÿ âñåìè, êàê ;;x
+string_rp_book;Writing a book as ;;;;;;;;;;;Íàïèñàâ êíèãó êàê ;;x
+string_rp_cannibal;Having friends for dinner as ;;;;;;;;;;;Ïðèãëàøàÿ äðóçåé íà óæèí, êàê ;;x
+string_rp_content;Enjoying life as ;;;;;;;;;;;Íàñëàæäàÿñü æèçíüþ, êàê ;;x
+string_rp_craven;Feeling terrified as ;;;;;;;;;;;Èñïûòûâàÿ ñòðàõ, êàê ;;x
+string_rp_crazy_cannibal;Eating friends for dinner as ;;;;;;;;;;;Ïîåäàÿ äðóçåé íà óæèí êàê ;;x
+string_rp_crusading;On a Crusade as ;;;;;;;;;;;Â Êðåñòîâîì ïîõîäå êàê ;;x
+string_rp_drinking;Getting drunk as ;;;;;;;;;;;Íàïèâøèñü, êàê ;;x
+string_rp_friends;Making friends as ;;;;;;;;;;;Çàâîäÿ äðóçåé êàê ;;x
+string_rp_gardener;Tending a garden as ;;;;;;;;;;;Óõàæèâàåò çà ñàäîì êàê ;;x
+string_rp_ghw;On a Great Holy War as ;;;;;;;;;;;Íà Âåëèêîé Ñâÿùåííîé âîéíå êàê ;;x
+string_rp_gluttonous;Eating a lot as ;;;;;;;;;;;Ìíîãî åñòü, êàê ;;x
+string_rp_greedy;Counting coins as ;;;;;;;;;;;Ñ÷èòàÿ ìîíåòû êàê ;;x
+string_rp_hoarding_gold;Hoarding gold as ;;;;;;;;;;;Íàêàïëèâàÿ çîëîòî êàê ;;x
+string_rp_horse;Horsing around as ;;;;;;;;;;;Âàëÿÿ äóðàêà, êàê ;;x
+string_rp_immortal;Ruling Forever as ;;;;;;;;;;;Ïðàâÿ Âå÷íî êàê ;;x
+string_rp_impaler;Oiling up the racks as ;;;;;;;;;;;Ïðîìàñëèâàÿ äûáó êàê ;;x
+string_rp_kinslayer;Culling their Family as ;;;;;;;;;;;Âûðàùèâàÿ ñâîþ ñåìüþ êàê ;;x
+string_rp_kow_tow;Kowtowing to the Emperor as ;;;;;;;;;;;Íèçêî êëàíÿÿñü Èìïåðàòîðó êàê ;;x
+string_rp_lodge;Fighting in a Warrior Lodge as ;;;;;;;;;;;Ñðàæàÿñü â Âîèíñêîé Ëîæå êàê ;;x
+string_rp_metalhand;Ruling with an iron fist as ;;;;;;;;;;;Ïðàâÿ æåëåçíûì êóëàêîì, êàê ;;x
+string_rp_paranoid;Trusting no one as ;;;;;;;;;;;Íå äîâåðÿÿ íèêîìó, êàê ;;x
+string_rp_pilgrimage;On a pilgrimage as ;;;;;;;;;;;Â ïàëîìíè÷åñòâå êàê ;;x
+string_rp_plague;Dying of the plague as ;;;;;;;;;;;Óìèðàÿ îò ÷óìû, êàê ;;x
+string_rp_poet;Writing poetry as ;;;;;;;;;;;Íàïèñàâ ñòèõè êàê ;;x
+string_rp_prison;Rotting in prison as ;;;;;;;;;;;Çàãíèâàÿ â òþðüìå êàê ;;x
+string_rp_random_world;Exploring a Random World as ;;;;;;;;;;;Èññëåäóÿ Ñëó÷àéíûé Ìèð êàê ;;x
+string_rp_religion_head;Ruling the [Root.Religion.GetName] faith as ;;;;;;;;;;;Ïðàâÿ âåðîé [Root.Religion.GetName] êàê ;;x
+string_rp_rivals;Making enemies as ;;;;;;;;;;;Íàæèâàÿ âðàãîâ êàê ;;x
+string_rp_rome;Restoring the Glory of Rome as ;;;;;;;;;;;Âîññòàíàâëèâàÿ Ñëàâó Ðèìà êàê ;;x
+string_rp_ruling_poorly;Ruling poorly as ;;;;;;;;;;;Ïðàâÿ ïëîõî, êàê ;;x
+string_rp_sacred_xwedodah;Practicing sacred Xwedodah as ;;;;;;;;;;;Ïðàêòèêóÿ ñâÿùåííóþ Xâåäîäó êàê ;;x
+string_rp_seduction;Seducing people as ;;;;;;;;;;;Ñîáëàçíÿÿ ëþäåé êàê ;;x
+string_rp_shattered_world;Uniting a Shattered World as ;;;;;;;;;;;Îáúåäèíÿÿ Ðàñêîëîòûé Ìèð êàê ;;x
+string_rp_stressed;Stressing out as ;;;;;;;;;;;Íàïðÿãàÿñü, êàê ;;x
+string_hunting_with_their_dog;Hunting with their dog as ;;;;;;;;;;;Îõîòèòñÿ ñî ñâîåé ñîáàêîé êàê ;;x
+string_taking_advice_from_their_cat;Taking advice from their cat as ;;;;;;;;;;;Ñîâåòóåòñÿ ñî ñâîåé êîøêîé êàê ;;x
+string_taming_an_eagle;Taming an eagle as ;;;;;;;;;;;Ïðèðó÷àåò îðëà êàê ;;x
+string_riding_a_horse;Riding a horse as ;;;;;;;;;;;Ñêà÷åò âåðõîì íà ñâî¸ì êîíå êàê ;;x
+string_keeping_a_pet_owl;Keeping a pet owl as ;;;;;;;;;;;Çàáîòèòñÿ î ðó÷íîé ñîâå êàê ;;x
+string_refusing_to_die;Refusing to die as ;;;;;;;;;;;Îòêàçûâàåòñÿ óìèðàòü êàê ;;x
+string_dueling_for_their_life;Dueling for their life as ;;;;;;;;;;;Ñðàæàåòñÿ çà ñâîþ æèçíü êàê ;;x
+string_provoking_enemies;Provoking their enemy as ;;;;;;;;;;;Ïðîâîöèðóåò ñâîåãî âðàãà êàê ;;x
+string_ruling;Ruling as ;;;;;;;;;;;Ïðàâëåíèå êàê ;;x

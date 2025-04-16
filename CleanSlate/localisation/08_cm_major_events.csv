@@ -1,26 +1,21 @@
-EVTDESC_CM_501;The Avar Khaganate was established in Europe in 567 after the Avars had migrated into the Carpathian basin from the east. They crushed the Gepids and allied with the Lombards to form a strong realm in the area. For long periods they alternated between conflict and truce with the Eastern Roman Empire and had close dealings with the Lombard kings. Now, however, this once proud realm has fallen - the area is no longer ruled by an Avar dynasty and shall once again be known by the ancient name of Pannonia.;;;;;;;;;;;;;x
-EVTDESC_CM_502;The ancient Lombard Kingdom was established in Italy after a long history of migration originating in Northern Europe. Along the way, the Lombards themselves have changed, both influencing and becoming influenced by the regions they have settled. Now it has finally come to pass that the Lombard lands in Italy no longer have a Lombard ruler and this effectively spells the end of the name of the Kingdom of the Lombards. We shall henceforth speak of the Kingdom of Italy, but the Lombard heritage shall live on...;;;;;;;;;;;;;x
-EVTDESC_CM_503;The centralization of power in Scandinavia, along with a rapid population expansion, has begun to drive its denizens to look beyond the home shores in earnest. New developments in shipbuilding, an adventurous spirit and a fearless belief in the Gods are now taking Norse seafarers across the seas towards distant lands. They arrive as traders, raiders and conquerors, and they call themselves 'Vikings'...;;;;;;;;;;;;;x
-EVTDESC_CM_510;Since the fall of The Western Roman Empire in 476, the Emperor of Byzantium has been the sole claimant to the heritage of the Caesars. There has always been a rift between the Greek and Latin worlds, not least in matters of the Church. The Popes in Rome have for a long time made their own policies, refusing to accept Byzantine supremacy and denying that the Emperor in Constantinople would hold a legitimate claim to authority over Christendom.\n\n[From.GetDynName] has now been crowned Holy Roman Emperor by [From.RelHead.GetBestName], invoking the translatio imperii and restoring the Western Roman Empire. This perhaps signifies a new era in the history of Europe, and is definitely a confirmation of the longstanding rift between East and West.;;;;;;;;;;;;;x
-
-EVTOPTA_CM_501;Hail to the [Root.GetTitle]!;;;;;;;;;;;;;x
-EVTOPTA_CM_502;Hail to the [Root.GetTitle]!;;;;;;;;;;;;;x
-EVTOPTA_CM_503;From the fury of the Northmen deliver us!;;;;;;;;;;;;;x
-EVTOPTA_CM_510;Glory!;;;;;;;;;;;;;x
-
-EVTOPTB_CM_501;Woe!;;;;;;;;;;;;;x
-EVTOPTB_CM_502;Yes, it shall live on!;;;;;;;;;;;;;x
-EVTOPTB_CM_503;To new shores!;;;;;;;;;;;;;x
-EVTOPTB_CM_510;A powerful empire indeed.;;;;;;;;;;;;;x
-
-EVTOPTC_CM_501;Sic transit gloria mundi.;;;;;;;;;;;;;x
-EVTOPTC_CM_502;Sic transit gloria mundi.;;;;;;;;;;;;;x
-EVTOPTC_CM_503;I do not see how this concerns us.;;;;;;;;;;;;;x
-EVTOPTC_CM_510;Strange tidings...;;;;;;;;;;;;;x
-
-EVTOPTD_CM_510;I laugh at this toy emperor.;;;;;;;;;;;;;x
-
-EVTTITLE_CM_501;Fall of the Avars;;;;;;;;;;;;;x
-EVTTITLE_CM_502;The Kingdom of Italy;;;;;;;;;;;;;x
-EVTTITLE_CM_503;Start of the Viking Age;;;;;;;;;;;;;x
-EVTTITLE_CM_510;The Holy Roman Empire;;;;;;;;;;;;;x
+EVTDESC_CM_501;The Avar Khaganate was established in Europe in 567 after the Avars had migrated into the Carpathian basin from the east. They crushed the Gepids and allied with the Lombards to form a strong realm in the area. For long periods they alternated between conflict and truce with the Eastern Roman Empire and had close dealings with the Lombard kings. Now, however, this once proud realm has fallen - the area is no longer ruled by an Avar dynasty and shall once again be known by the ancient name of Pannonia.;;;;;;;;;;;"Àâàðñêèé êàãàíàò áûë ñîçäàí â Åâðîïå â 567 ãîäó, ïîñëå òîãî êàê àâàðû ïåðåñåëèëèñü â Êàðïàòñêèé áàññåéí ñ âîñòîêà. Â ñîþçå ñ ãåïèäàìè, îíè ðàçãðîìèëè ëàíãîáàðäîâ è ñôîðìèðîâàëè ñèëüíîå ãîñóäàðñòâî â ýòîì ðàéîíå. Äëèòåëüíîå âðåìÿ îíè ÷åðåäîâàëè âîéíû è ïåðåìèðèÿ ñ Âîñòî÷íîé Ðèìñêîé èìïåðèåé è èìåëè òåñíûå îòíîøåíèÿ ñ ëîìáàðäñêèìè êîðîëÿìè. Òåïåðü êàãàíàò ïàë - ýòè çåìëè áîëüøå íå êîíòðîëèðóþòñÿ àâàðñêîé äèíàñòèåé è ñíîâà íàçûâàþòñÿ äðåâíèì èìåíåì ""Ïàííîíèÿ"".";;x
+EVTDESC_CM_502;The ancient Lombard Kingdom was established in Italy after a long history of migration originating in Northern Europe. Along the way, the Lombards themselves have changed, both influencing and becoming influenced by the regions they have settled. Now it has finally come to pass that the Lombard lands in Italy no longer have a Lombard ruler and this effectively spells the end of the name of the Kingdom of the Lombards. We shall henceforth speak of the Kingdom of Italy, but the Lombard heritage shall live on...;;;;;;;;;;;Äðåâíåå ëîìáàðäñêîå êîðîëåâñòâî áûëî ñîçäàíî â Èòàëèè ïîñëå äîëãîé èñòîðèè ïåðåñåëåíèé, ïðîèñõîäÿùèõ â Ñåâåðíîé Åâðîïå. Ïî ïóòè, ñàìè ëàíãîáàðäû èçìåíèëèñü, è ïîïàëè ïîä âëèÿíèå ðåãèîíà. Íàêîíåö, ñâåðøèëîñü, Ëîìáàðäèè áîëüøå íåò, à ýòî çíà÷èò, ÷òî â äàëüíåéøåì ìû áóäåì ãîâîðèòü î êîðîëåâñòâå Èòàëèÿ, íî ëîìáàðñêîå íàñëåäèå íå äîëæíî áûòü çàáûòî...;;x
+EVTDESC_CM_503;The centralization of power in Scandinavia, along with a rapid population expansion, has begun to drive its denizens to look beyond the home shores in earnest. New developments in shipbuilding, an adventurous spirit and a fearless belief in the Gods are now taking Norse seafarers across the seas towards distant lands. They arrive as traders, raiders and conquerors, and they call themselves 'Vikings'...;;;;;;;;;;;"Öåíòðàëèçàöèÿ âëàñòè â Ñêàíäèíàâèè, íàðÿäó ñ áûñòðûì ðîñòîì íàñåëåíèÿ, çàñòàâèëà å¸ îáèòàòåëåé ñìîòðåòü äàëüøå ðîäíûõ áåðåãîâ. Íîâûå ðàçðàáîòêè â îáëàñòè ñóäîñòðîåíèÿ, àâàíòþðíûé äóõ è áåññòðàøèå âåðû ïîäòàëêèâàþò ñêàíäèíàâñêèõ ìîðÿêîâ îòïðàâèòüñÿ ïî ìîðÿì çà òðèäåâÿòü çåìåëü. Îíè ïðèïëûâàþò â êà÷åñòâå òîðãîâöåâ, ãðàáèòåëåé è çàâîåâàòåëåé è íàçûâàþò ñåáÿ ""Âèêèíãè""...";;x
+EVTDESC_CM_510;Since the fall of The Western Roman Empire in 476, the Emperor of Byzantium has been the sole claimant to the heritage of the Caesars. There has always been a rift between the Greek and Latin worlds, not least in matters of the Church. The Popes in Rome have for a long time made their own policies, refusing to accept Byzantine supremacy and denying that the Emperor in Constantinople would hold a legitimate claim to authority over Christendom.\n\n[From.GetDynName] has now been crowned Holy Roman Emperor by [From.RelHead.GetBestName], invoking the translatio imperii and restoring the Western Roman Empire. This perhaps signifies a new era in the history of Europe, and is definitely a confirmation of the longstanding rift between East and West.;;;;;;;;;;;Ïîñëå ïàäåíèÿ Çàïàäíîé Ðèìñêîé èìïåðèè â 476ã, âèçàíòèéñêèé èìïåðàòîð áûë åäèíñòâåííûì ïðåòåíäåíòîì íà íàñëåäèå öåçàðåé. Ìåæäó ëàòèíñêèì è ãðå÷åñêèì ìèðàìè âñåãäà áûë ðàçðûâ è íå â ïîñëåäíþþ î÷åðåäü â âîïðîñàõ öåðêâè. Ðèìñêèå Ïàïû äîëãîå âðåìÿ âåëè ñâîþ ñîáñòâåííóþ ïîëèòèêó, îòêàçûâàÿñü ïðèíèìàòü ïðåâîñõîäñòâî Êîíñòàíòèíîïîëÿ è îòðèöàÿ çàêîííîå ïðàâî èìïåðàòîðà Âèçàíòèè áûòü ëèäåðîì âñåõ õðèñòèàí.\n\nÒåïåðü æå [From.RelHead.GetBestName] êîðîíóåò ïðàâèòåëÿ íîâîãî ãîñóäàðñòâà, [From.GetDynName] ñòàë[From.GetEndA] [From.GetEmpressEmperorINS] Ñâÿùåííîé Ðèìñêîé èìïåðèè, ññûëàÿñü íà Translatio imperii è òåì ñàìûì âîññòàíîâèë[From.GetEndA] Çàïàäíóþ Ðèìñêóþ èìïåðèþ. Âîçìîæíî, ýòî îçíàìåíóåò íîâóþ ýðó â èñòîðèè Åâðîïû è ïîä÷åðêí¸ò äàâíèé ðàñêîë ìåæäó Âîñòîêîì è Çàïàäîì.;;x
+EVTOPTA_CM_501;Hail to the [Root.GetTitle]!;;;;;;;;;;;Äà çäðàâñòâóåò [Root.GetTitle]!;;x
+EVTOPTA_CM_502;Hail to the [Root.GetTitle]!;;;;;;;;;;;Äà çäðàâñòâóåò [Root.GetTitle]!;;x
+EVTOPTA_CM_503;From the fury of the Northmen deliver us!;;;;;;;;;;;Íàäåþñü ÿðîñòü ñåâåðÿí íå êîñí¸òñÿ íàñ.;;x
+EVTOPTA_CM_510;Glory!;;;;;;;;;;;Ñëàâà [From.GetEmpressEmperorDAT]!;;x
+EVTOPTB_CM_501;Woe!;;;;;;;;;;;Ãîðå!;;x
+EVTOPTB_CM_502;Yes, it shall live on!;;;;;;;;;;;Îíî íå áóäåò çàáûòî!;;x
+EVTOPTB_CM_503;To new shores!;;;;;;;;;;;Ê íîâûì áåðåãàì!;;x
+EVTOPTB_CM_510;A powerful empire indeed.;;;;;;;;;;;Âî èñòèíó ìîãóùåñòâåííàÿ èìïåðèÿ.;;x
+EVTOPTC_CM_501;Sic transit gloria mundi.;;;;;;;;;;;Sic transit gloria mundi.;;x
+EVTOPTC_CM_502;Sic transit gloria mundi.;;;;;;;;;;;Sic transit gloria mundi.;;x
+EVTOPTC_CM_503;I do not see how this concerns us.;;;;;;;;;;;Íå ïîíèìàþ, à ìû-òî çäåñü ïðè ÷¸ì?;;x
+EVTOPTC_CM_510;Strange tidings...;;;;;;;;;;;Ñòðàííûå âåñòè...;;x
+EVTOPTD_CM_510;I laugh at this toy emperor.;;;;;;;;;;;[From.GetOptD_CM_510];;x
+EVTTITLE_CM_501;Fall of the Avars;;;;;;;;;;;Kîíåö àâàðîâ;;x
+EVTTITLE_CM_502;The Kingdom of Italy;;;;;;;;;;;Èòàëüÿíñêîå êîðîëåâñòâî;;x
+EVTTITLE_CM_503;Start of the Viking Age;;;;;;;;;;;Hà÷àëàñü Ýïîõà Âèêèíãîâ;;x
+EVTTITLE_CM_510;The Holy Roman Empire;;;;;;;;;;;Câÿùåííàÿ Ðèìñêàÿ èìïåðèÿ;;x

@@ -1,128 +1,127 @@
-desc_job_chancellor;The §Y$JOB$§! is your advisor on matters of diplomacy. The position is traditionally considered the highest on the council.;;;;;;;;;;;;;x
-desc_job_marshal;The §Y$JOB$§! is the councillor in charge of the military. When the ruler cannot or will not command armies, the §Y$JOB$§! will do it.;;;;;;;;;;;;;x
-desc_job_spiritual;The §Y$JOB$§! is your personal advisor on matters of the faith, but does not necessarily have to belong to the clergy.;;;;;;;;;;;;;x
-desc_job_spymaster;§Y$JOB$§! is an unofficial position on the council. The office holder is responsible for all matters of intrigue and skullduggery.;;;;;;;;;;;;;x
-desc_job_treasurer;The §Y$JOB$§! helps you collect taxes and administer your demesne.;;;;;;;;;;;;;x
-city_job_chancellor_arabic;Grand Vizier;;;;;;;;;;;;;x
-city_job_chancellor_aztec;Cihuacoatl;;;;;;;;;;;;;x
-city_job_chancellor_greek;Magistros;;;;;;;;;;;;;x
-city_job_chancellor_iranian;Grand Vizier;;;;;;;;;;;;;x
-city_job_chancellor_turkish;Grand Vizier;;;;;;;;;;;;;x
-city_job_chancellor_west_african;Grand Vizier;;;;;;;;;;;;;x
-city_job_chancellor_zoroastrian_group;Astabadh;;;;;;;;;;;;;x
-city_job_marshal_aztec;Tlacateccatl;;;;;;;;;;;;;x
-city_job_marshal_greek;Protostrator;;;;;;;;;;;;;x
-city_job_marshal_zoroastrian_group;Eran Spahbod;;;;;;;;;;;;;x
-city_job_spiritual_aztec;Sahagun;;;;;;;;;;;;;x
-city_job_spiritual_baltic_pagan;Diviner;;;;;;;;;;;;;x
-city_job_spiritual_baltic_pagan_reformed;Diviner;;;;;;;;;;;;;x
-city_job_spiritual_christian;Court Chaplain;;;;;;;;;;;;;x
-city_job_spiritual_female_norse_pagan;Seeress;;;;;;;;;;;;;x
-city_job_spiritual_female_norse_pagan_reformed;Seeress;;;;;;;;;;;;;x
-city_job_spiritual_finnish_pagan;Diviner;;;;;;;;;;;;;x
-city_job_spiritual_finnish_pagan_reformed;Diviner;;;;;;;;;;;;;x
-city_job_spiritual_muslim;Court Imam;;;;;;;;;;;;;x
-city_job_spiritual_norse_pagan;Seer;;;;;;;;;;;;;x
-city_job_spiritual_norse_pagan_reformed;Seer;;;;;;;;;;;;;x
-city_job_spiritual_orthodox;Ecclesiarch;;;;;;;;;;;;;x
-city_job_spiritual_pagan;Diviner;;;;;;;;;;;;;x
-city_job_spiritual_pagan_group;Chief Diviner;;;;;;;;;;;;;x
-city_job_spiritual_shiite;Court Mullah;;;;;;;;;;;;;x
-city_job_spiritual_slavic_pagan;Diviner;;;;;;;;;;;;;x
-city_job_spiritual_slavic_pagan_reformed;Diviner;;;;;;;;;;;;;x
-city_job_spiritual_tengri_pagan;Diviner;;;;;;;;;;;;;x
-city_job_spiritual_tengri_pagan_reformed;Diviner;;;;;;;;;;;;;x
-city_job_spiritual_zoroastrian;Mobad;;;;;;;;;;;;;x
-city_job_spiritual_zoroastrian_group;Mobad;;;;;;;;;;;;;x
-city_job_spymaster_aztec;Tillancalqui;;;;;;;;;;;;;x
-city_job_spymaster_greek;Mystikos;;;;;;;;;;;;;x
-city_job_treasurer_aztec;Petlacalcatl;;;;;;;;;;;;;x
-city_job_treasurer_greek;Sakellarios;;;;;;;;;;;;;x
-city_job_treasurer_zoroastrian_group;Darik-Pat;;;;;;;;;;;;;x
-job_chancellor;Chancellor;;;;;;;;;;;;;x
-job_chancellor_arabic;Grand Vizier;;;;;;;;;;;;;x
-job_chancellor_aztec;Cihuacoatl;;;;;;;;;;;;;x
-job_chancellor_bodpa;Lönchen;;;;;;;;;;;;;x
-job_chancellor_female_bodpa;Lönchen;;;;;;;;;;;;;x
-job_chancellor_female_tangut;Lönchen;;;;;;;;;;;;;x
-job_chancellor_greek;Magistros;;;;;;;;;;;;;x
-job_chancellor_han;Chief Minister;;;;;;;;;;;;;x
-job_chancellor_iranian;Grand Vizier;;;;;;;;;;;;;x
-job_chancellor_jurchen;Chief Minister;;;;;;;;;;;;;x
-job_chancellor_tangut;Lönchen;;;;;;;;;;;;;x
-job_chancellor_taoist;Chief Minister;;;;;;;;;;;;;x
-job_chancellor_turkish;Grand Vizier;;;;;;;;;;;;;x
-job_chancellor_west_african;Grand Vizier;;;;;;;;;;;;;x
-job_chancellor_zoroastrian_group;Astabadh;;;;;;;;;;;;;x
-job_commander;Commander;;;;;;;;;;;;;x
-job_marshal;Marshal;;;;;;;;;;;;;x
-job_marshal_aztec;Tlacateccatl;;;;;;;;;;;;;x
-job_marshal_greek;Protostrator;;;;;;;;;;;;;x
-job_marshal_han;Xingjun Sima;;;;;;;;;;;;;x
-job_marshal_jurchen;Marshal;;;;;;;;;;;;;x
-job_marshal_taoist;Xingjun Sima;;;;;;;;;;;;;x
-job_marshal_zoroastrian_group;Eran Spahbod;;;;;;;;;;;;;x
-job_spiritual;Court Chaplain;;;;;;;;;;;;;x
-job_spiritual_aztec;Sahagun;;;;;;;;;;;;;x
-job_spiritual_baltic_pagan;Diviner;;;;;;;;;;;;;x
-job_spiritual_baltic_pagan_reformed;Diviner;;;;;;;;;;;;;x
-job_spiritual_bodpa;Banchenpo;;;;;;;;;;;;;x
-job_spiritual_christian;Court Chaplain;;;;;;;;;;;;;x
-job_spiritual_female_bodpa;Banchenmo;;;;;;;;;;;;;x
-job_spiritual_female_hellenic_pagan;Seeress;;;;;;;;;;;;;x
-job_spiritual_female_hellenic_pagan_reformed;Seeress;;;;;;;;;;;;;x
-job_spiritual_female_indian_group;Upadhyayani;;;;;;;;;;;;;x
-job_spiritual_female_norse_pagan;Seeress;;;;;;;;;;;;;x
-job_spiritual_female_norse_pagan_reformed;Seeress;;;;;;;;;;;;;x
-job_spiritual_female_tangut;Banchenmo;;;;;;;;;;;;;x
-job_spiritual_finnish_pagan;Diviner;;;;;;;;;;;;;x
-job_spiritual_finnish_pagan_reformed;Diviner;;;;;;;;;;;;;x
-job_spiritual_han;Libationer;;;;;;;;;;;;;x
-job_spiritual_hellenic_pagan;Augur;;;;;;;;;;;;;x
-job_spiritual_hellenic_pagan_reformed;Augur;;;;;;;;;;;;;x
-job_spiritual_indian_group;Upadhyaya;;;;;;;;;;;;;x
-job_spiritual_jewish_group;Court Rabbi;;;;;;;;;;;;;x
-job_spiritual_jurchen;Libationer;;;;;;;;;;;;;x
-job_spiritual_khurmazta;Moypat;;;;;;;;;;;;;x
-job_spiritual_manichaean;Didaskalos;;;;;;;;;;;;;x
-job_spiritual_muslim;Court Imam;;;;;;;;;;;;;x
-job_spiritual_norse_pagan;Seer;;;;;;;;;;;;;x
-job_spiritual_norse_pagan_reformed;Seer;;;;;;;;;;;;;x
-job_spiritual_orthodox;Ecclesiarch;;;;;;;;;;;;;x
-job_spiritual_pagan;Diviner;;;;;;;;;;;;;x
-job_spiritual_pagan_group;Chief Diviner;;;;;;;;;;;;;x
-job_spiritual_shiite;Court Mullah;;;;;;;;;;;;;x
-job_spiritual_slavic_pagan;Diviner;;;;;;;;;;;;;x
-job_spiritual_slavic_pagan_reformed;Diviner;;;;;;;;;;;;;x
-job_spiritual_tangut;Banchenpo;;;;;;;;;;;;;x
-job_spiritual_taoist;Libationer;;;;;;;;;;;;;x
-job_spiritual_tengri_pagan;Diviner;;;;;;;;;;;;;x
-job_spiritual_tengri_pagan_reformed;Diviner;;;;;;;;;;;;;x
-job_spiritual_zoroastrian;Mobad;;;;;;;;;;;;;x
-job_spiritual_zoroastrian_group;Mobad;;;;;;;;;;;;;x
-job_spiritual_zun_pagan;Diviner;;;;;;;;;;;;;x
-job_spiritual_zun_pagan_reformed;Diviner;;;;;;;;;;;;;x
-job_spymaster;Spymaster;;;;;;;;;;;;;x
-job_spymaster_aztec;Tillancalqui;;;;;;;;;;;;;x
-job_spymaster_greek;Mystikos;;;;;;;;;;;;;x
-job_spymaster_han;Spymaster;;;;;;;;;;;;;x
-job_spymaster_jurchen;Spymaster;;;;;;;;;;;;;x
-job_spymaster_taoist;Spymaster;;;;;;;;;;;;;x
-job_treasurer;Steward;;;;;;;;;;;;;x
-job_treasurer_aztec;Petlacalcatl;;;;;;;;;;;;;x
-job_treasurer_bodpa;Gnyer;;;;;;;;;;;;;x
-job_treasurer_female_bodpa;Gnyer;;;;;;;;;;;;;x
-job_treasurer_female_tangut;Gnyer;;;;;;;;;;;;;x
-job_treasurer_greek;Sakellarios;;;;;;;;;;;;;x
-job_treasurer_han;Treasurer;;;;;;;;;;;;;x
-job_treasurer_jurchen;Treasurer;;;;;;;;;;;;;x
-job_treasurer_tangut;Gnyer;;;;;;;;;;;;;x
-job_treasurer_taoist;Treasurer;;;;;;;;;;;;;x
-job_treasurer_zoroastrian_group;Darik-Pat;;;;;;;;;;;;;x
-
+desc_job_chancellor;The §Y$JOB$§! is your advisor on matters of diplomacy. The position is traditionally considered the highest on the council.;;;;;;;;;;;§Y$JOB$§! ðåøàåò âñå äèïëîìàòè÷åñêèå âîïðîñû. Ýòà äîëæíîñòü ñ÷èòàåòñÿ ãëàâíåéøåé â ñîâåòå;;x
+desc_job_marshal;The §Y$JOB$§! is the councillor in charge of the military. When the ruler cannot or will not command armies, the §Y$JOB$§! will do it.;;;;;;;;;;;§Y$JOB$§! - ñîâåòíèê ïî âîåííûì äåëàì. Åñëè ïðàâèòåëü íå ìîæåò èëè íå æåëàåò êîìàíäîâàòü àðìèåé, §Y$JOB$§! çàìåíÿåò åãî;;x
+desc_job_spiritual;The §Y$JOB$§! is your personal advisor on matters of the faith, but does not necessarily have to belong to the clergy.;;;;;;;;;;; §Y$JOB$§! - ýòî Âàø ëè÷íûé ñîâåòíèê ïî âîïðîñàì âåðû. Ïîñâÿùåíèå â Öåðêîâíûé ñàí íå îáÿçàòåëüíî;;x
+desc_job_spymaster;§Y$JOB$§! is an unofficial position on the council. The office holder is responsible for all matters of intrigue and skullduggery.;;;;;;;;;;; §Y$JOB$§! - íåîôèöèàëüíàÿ äîëæíîñòü â ñîâåòå. Ýòîò ÷åëîâåê îòâå÷àåò çà äâîðöîâûå èíòðèãè è çàãîâîðû;;x
+desc_job_treasurer;The §Y$JOB$§! helps you collect taxes and administer your demesne.;;;;;;;;;;; §Y$JOB$§! ïîìîãàåò ñîáèðàòü íàëîãè è óïðàâëÿòü Âàøèìè âëàäåíèÿìè;;x
+city_job_chancellor_arabic;Grand Vizier;;;;;;;;;;;Âåëèêèé âèçèðü;;x
+city_job_chancellor_aztec;Cihuacoatl;;;;;;;;;;;Ñèóàêîàòëü;;x
+city_job_chancellor_greek;Magistros;;;;;;;;;;;Ìàãèñòð;;x
+city_job_chancellor_iranian;Grand Vizier;;;;;;;;;;;Âåëèêèé âèçèðü;;x
+city_job_chancellor_turkish;Grand Vizier;;;;;;;;;;;Âåëèêèé âèçèðü;;x
+city_job_chancellor_west_african;Grand Vizier;;;;;;;;;;;Âåëèêèé âèçèðü;;x
+city_job_chancellor_zoroastrian_group;Astabadh;;;;;;;;;;;Àñòàáàäõ;;x
+city_job_marshal_aztec;Tlacateccatl;;;;;;;;;;;Òëàêàòåêêàòëü;;x
+city_job_marshal_greek;Protostrator;;;;;;;;;;;Ïðîòîñòðàòîð;;x
+city_job_marshal_zoroastrian_group;Eran Spahbod;;;;;;;;;;;Ýðàíñêèé ñïàõáåä;;x
+city_job_spiritual_aztec;Sahagun;;;;;;;;;;;Ìåøèêàòëü òåîóàöèí;;x
+city_job_spiritual_baltic_pagan;Diviner;;;;;;;;;;;Ïðîðèöàòåëü;;x
+city_job_spiritual_baltic_pagan_reformed;Diviner;;;;;;;;;;;Ïðîðèöàòåëü;;x
+city_job_spiritual_christian;Court Chaplain;;;;;;;;;;;Êàïåëëàí;;x
+city_job_spiritual_female_norse_pagan;Seeress;;;;;;;;;;;Ïðîâèäèöà;;x
+city_job_spiritual_female_norse_pagan_reformed;Seeress;;;;;;;;;;;Ïðîâèäèöà;;x
+city_job_spiritual_finnish_pagan;Diviner;;;;;;;;;;;Ïðîðèöàòåëü;;x
+city_job_spiritual_finnish_pagan_reformed;Diviner;;;;;;;;;;;Ïðîðèöàòåëü;;x
+city_job_spiritual_muslim;Court Imam;;;;;;;;;;;Ìóôòèé;;x
+city_job_spiritual_norse_pagan;Seer;;;;;;;;;;;Ïðîâèäåö;;x
+city_job_spiritual_norse_pagan_reformed;Seer;;;;;;;;;;;Ïðîâèäåö;;x
+city_job_spiritual_orthodox;Ecclesiarch;;;;;;;;;;;Ýêêëåçèàðõ;;x
+city_job_spiritual_pagan;Diviner;;;;;;;;;;;Ïðîðèöàòåëü;;x
+city_job_spiritual_pagan_group;Chief Diviner;;;;;;;;;;;Ãëàâíûé ïðîðèöàòåëü;;x
+city_job_spiritual_shiite;Court Mullah;;;;;;;;;;;Ìóôòèé;;x
+city_job_spiritual_slavic_pagan;Diviner;;;;;;;;;;;Âîëõâ;;x
+city_job_spiritual_slavic_pagan_reformed;Diviner;;;;;;;;;;;Âîëõâ;;x
+city_job_spiritual_tengri_pagan;Diviner;;;;;;;;;;;Ïðîðèöàòåëü;;x
+city_job_spiritual_tengri_pagan_reformed;Diviner;;;;;;;;;;;Ïðîðèöàòåëü;;x
+city_job_spiritual_zoroastrian;Mobad;;;;;;;;;;;Ìîáåä;;x
+city_job_spiritual_zoroastrian_group;Mobad;;;;;;;;;;;Ìîáåä;;x
+city_job_spymaster_aztec;Tillancalqui;;;;;;;;;;;Òèëëàíêàëêè;;x
+city_job_spymaster_greek;Mystikos;;;;;;;;;;;Ìèñòèê;;x
+city_job_treasurer_aztec;Petlacalcatl;;;;;;;;;;;Ïåòëàêàëüêàòëü;;x
+city_job_treasurer_greek;Sakellarios;;;;;;;;;;;Ñàêåëëàðèé;;x
+city_job_treasurer_zoroastrian_group;Darik-Pat;;;;;;;;;;;Äàðèê-Ïàò;;x
+job_chancellor;Chancellor;;;;;;;;;;;Êàíöëåð;;x
+job_chancellor_arabic;Grand Vizier;;;;;;;;;;;Âåëèêèé âèçèðü;;x
+job_chancellor_aztec;Cihuacoatl;;;;;;;;;;;Ñèóàêîàòëü;;x
+job_chancellor_bodpa;Lönchen;;;;;;;;;;;Ëîí÷åí;;x
+job_chancellor_female_bodpa;Lönchen;;;;;;;;;;;Ëîí÷åí;;x
+job_chancellor_female_tangut;Lönchen;;;;;;;;;;;Ëîí÷åí;;x
+job_chancellor_greek;Magistros;;;;;;;;;;;Ìàãèñòð;;x
+job_chancellor_han;Chief Minister;;;;;;;;;;;Ãëàâíûé ìèíèñòð;;x
+job_chancellor_iranian;Grand Vizier;;;;;;;;;;;Âåëèêèé âèçèðü;;x
+job_chancellor_jurchen;Chief Minister;;;;;;;;;;;Ãëàâíûé ìèíèñòð;;x
+job_chancellor_tangut;Lönchen;;;;;;;;;;;Ëîí÷åí;;x
+job_chancellor_taoist;Chief Minister;;;;;;;;;;;Ãëàâíûé ìèíèñòð;;x
+job_chancellor_turkish;Grand Vizier;;;;;;;;;;;Âåëèêèé âèçèðü;;x
+job_chancellor_west_african;Grand Vizier;;;;;;;;;;;Âåëèêèé âèçèðü;;x
+job_chancellor_zoroastrian_group;Astabadh;;;;;;;;;;;Àñòàáàäõ;;x
+job_commander;Commander;;;;;;;;;;;Ïîëêîâîäåö;;x
+job_marshal;Marshal;;;;;;;;;;;Ìàðøàë;;x
+job_marshal_aztec;Tlacateccatl;;;;;;;;;;;Òëàêàòýêêàòëü;;x
+job_marshal_greek;Protostrator;;;;;;;;;;;Ïðîòîñòðàòîð;;x
+job_marshal_han;Xingjun Sima;;;;;;;;;;;Ñèíöçþíü Ñûìà;;x
+job_marshal_jurchen;Marshal;;;;;;;;;;;Ìàðøàë;;x
+job_marshal_taoist;Xingjun Sima;;;;;;;;;;;Ñèíöçþíü Ñûìà;;x
+job_marshal_zoroastrian_group;Eran Spahbod;;;;;;;;;;;Ýðàíñêèé ñïàõáåä;;x
+job_spiritual;Court Chaplain;;;;;;;;;;;Äóõîâíèê;;x
+job_spiritual_aztec;Sahagun;;;;;;;;;;;Ìåøèêàòëü òåîóàöèí;;x
+job_spiritual_baltic_pagan;Diviner;;;;;;;;;;;Ïðîðèöàòåëü;;x
+job_spiritual_baltic_pagan_reformed;Diviner;;;;;;;;;;;Ïðîðèöàòåëü;;x
+job_spiritual_bodpa;Banchenpo;;;;;;;;;;;Áàí÷åíïî;;x
+job_spiritual_christian;Court Chaplain;;;;;;;;;;;Êàïåëëàí;;x
+job_spiritual_female_bodpa;Banchenmo;;;;;;;;;;;Áàí÷åíìî;;x
+job_spiritual_female_hellenic_pagan;Seeress;;;;;;;;;;;Ïðîâèäèöà;;x
+job_spiritual_female_hellenic_pagan_reformed;Seeress;;;;;;;;;;;Ïðîâèäèöà;;x
+job_spiritual_female_indian_group;Upadhyayani;;;;;;;;;;;Óïàäõüÿÿíè;;x
+job_spiritual_female_norse_pagan;Seeress;;;;;;;;;;;Ïðîâèäèöà;;x
+job_spiritual_female_norse_pagan_reformed;Seeress;;;;;;;;;;;Ïðîâèäèöà;;x
+job_spiritual_female_tangut;Banchenmo;;;;;;;;;;;Áàí÷åíìî;;x
+job_spiritual_finnish_pagan;Diviner;;;;;;;;;;;Ïðîðèöàòåëü;;x
+job_spiritual_finnish_pagan_reformed;Diviner;;;;;;;;;;;Ïðîðèöàòåëü;;x
+job_spiritual_han;Libationer;;;;;;;;;;;Âîçëèÿòåëü;;x
+job_spiritual_hellenic_pagan;Augur;;;;;;;;;;;Àâãóð;;x
+job_spiritual_hellenic_pagan_reformed;Augur;;;;;;;;;;;Àâãóð;;x
+job_spiritual_indian_group;Upadhyaya;;;;;;;;;;;Óïàäõàéÿ;;x
+job_spiritual_jewish_group;Court Rabbi;;;;;;;;;;;Ïðèäâîðíûé ðàââèí;;x
+job_spiritual_jurchen;Libationer;;;;;;;;;;;Âîçëèÿòåëü;;x
+job_spiritual_khurmazta;Moypat;;;;;;;;;;;Ìîéïàò;;x
+job_spiritual_manichaean;Didaskalos;;;;;;;;;;;Äèäàñêàëîñ;;x
+job_spiritual_muslim;Court Imam;;;;;;;;;;;Ìóôòèé;;x
+job_spiritual_norse_pagan;Seer;;;;;;;;;;;Ïðîâèäåö;;x
+job_spiritual_norse_pagan_reformed;Seer;;;;;;;;;;;Ïðîâèäåö;;x
+job_spiritual_orthodox;Ecclesiarch;;;;;;;;;;;Ýêêëåçèàðõ;;x
+job_spiritual_pagan;Diviner;;;;;;;;;;;Ïðîðèöàòåëü;;x
+job_spiritual_pagan_group;Chief Diviner;;;;;;;;;;;Ãëàâíûé ïðîðèöàòåëü;;x
+job_spiritual_shiite;Court Mullah;;;;;;;;;;;Ìóôòèé;;x
+job_spiritual_slavic_pagan;Diviner;;;;;;;;;;;Âîëõâ;;x
+job_spiritual_slavic_pagan_reformed;Diviner;;;;;;;;;;;Âîëõâ;;x
+job_spiritual_tangut;Banchenpo;;;;;;;;;;;Áàí÷åíïî;;x
+job_spiritual_taoist;Libationer;;;;;;;;;;;Âîçëèÿòåëü;;x
+job_spiritual_tengri_pagan;Diviner;;;;;;;;;;;Ïðîðèöàòåëü;;x
+job_spiritual_tengri_pagan_reformed;Diviner;;;;;;;;;;;Ïðîðèöàòåëü;;x
+job_spiritual_zoroastrian;Mobad;;;;;;;;;;;Ìîáåä;;x
+job_spiritual_zoroastrian_group;Mobad;;;;;;;;;;;Ìîáåä;;x
+job_spiritual_zun_pagan;Diviner;;;;;;;;;;;Ïðîðèöàòåëü;;x
+job_spiritual_zun_pagan_reformed;Diviner;;;;;;;;;;;Ïðîðèöàòåëü;;x
+job_spymaster;Spymaster;;;;;;;;;;;Òàéíûé ñîâåòíèê;;x
+job_spymaster_aztec;Tillancalqui;;;;;;;;;;;Òèëëàíêàëüêè;;x
+job_spymaster_greek;Mystikos;;;;;;;;;;;Ìèñòèê;;x
+job_spymaster_han;Spymaster;;;;;;;;;;;Òàéíûé ñîâåòíèê;;x
+job_spymaster_jurchen;Spymaster;;;;;;;;;;;Òàéíûé ñîâåòíèê;;x
+job_spymaster_taoist;Spymaster;;;;;;;;;;;Òàéíûé ñîâåòíèê;;x
+job_treasurer;Steward;;;;;;;;;;;Óïðàâëÿþùèé;;x
+job_treasurer_aztec;Petlacalcatl;;;;;;;;;;;Ïåòëàêàëüêàòëü;;x
+job_treasurer_bodpa;Gnyer;;;;;;;;;;;Ãíüåð;;x
+job_treasurer_female_bodpa;Gnyer;;;;;;;;;;;Ãíüåð;;x
+job_treasurer_female_tangut;Gnyer;;;;;;;;;;;Ãíüåð;;x
+job_treasurer_greek;Sakellarios;;;;;;;;;;;Ñàêåëëàðèé;;x
+job_treasurer_han;Treasurer;;;;;;;;;;;Êàçíà÷åé;;x
+job_treasurer_jurchen;Treasurer;;;;;;;;;;;Êàçíà÷åé;;x
+job_treasurer_tangut;Gnyer;;;;;;;;;;;Ãíüåð;;x
+job_treasurer_taoist;Treasurer;;;;;;;;;;;Êàçíà÷åé;;x
+job_treasurer_zoroastrian_group;Darik-Pat;;;;;;;;;;;Äàðèê-Ïàò;;x
 # Unused (?), Conclave feature
-council_altaic;Kurultai;;;;;;;;;;;;;x
-council_greek;Consistorium;;;;;;;;;;;;;x
-council_jewish_group;Sanhedrin;;;;;;;;;;;;;x
-council_muslim;Majlis;;;;;;;;;;;;;x
-council_shiite;Council;;;;;;;;;;;;;x
+council_altaic;Kurultai;;;;;;;;;;;Êóðóëòàé;;x
+council_greek;Consistorium;;;;;;;;;;;Êîíñîðöèóì;;x
+council_jewish_group;Sanhedrin;;;;;;;;;;;Ñàíõåäðèí;;x
+council_muslim;Majlis;;;;;;;;;;;Ìåäæëèñ;;x
+council_shiite;Council;;;;;;;;;;;Ñîâåò;;x

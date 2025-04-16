@@ -1,222 +1,213 @@
-
-
-EVTDESC4000;A farmer told me how his boar had managed to break into his neighbor's hoggery and the result was seven small piglets. Now his neighbor demanded compensation he can't afford and they need me to tell them what to do.;;;;;;;;;;;;;x
-EVTDESC4005;The thief was apprehended not long after he had robbed me and as he was caught in the county of [Root.Host.GetTitledFirstName] he was set to trial at [Root.Host.GetHerHis] court.;;;;;;;;;;;;;x
-EVTDESC4006;Mercy, cried the thief when [From.GetTitledFirstName] confronted and accused him of being the robber.;;;;;;;;;;;;;x
-EVTDESC4007;I cannot wait until I hear what the thief's punishment is!;;;;;;;;;;;;;x
-EVTDESC4008;[From.GetTitledFirstName] thinks that I was just and gave the thief a suitable punishment.;;;;;;;;;;;;;x
-EVTDESC4009;[From.GetTitledFirstName] thought the punishment to be too harsh, I should have been more merciful.;;;;;;;;;;;;;x
-EVTDESC4010;A group of robbers calling themselves the Band O'Brothers have been brought before me. The long list of all their crimes does not put them in good light.;;;;;;;;;;;;;x
-EVTDESC4015;My spouse [Root.Spouse.GetTitledFirstName] is unfaithful! I'm certain about this!;;;;;;;;;;;;;x
-EVTDESC4016;[From.GetTitledFirstName] has dragged [From.GetHerHis] unfaithful spouse [From.Spouse.GetTitledFirstName] before me and insists I should punish [From.Spouse.GetHerHim].;;;;;;;;;;;;;x
-EVTDESC4017;[From.GetTitledFirstName] decided not to punish [Root.Spouse.GetTitledFirstName] for [Root.Spouse.GetHerHis] infidelity!;;;;;;;;;;;;;x
-EVTDESC4018;[Root.Spouse.GetTitledFirstName] is being punished for [Root.Spouse.GetHerHis] infidelity!;;;;;;;;;;;;;x
-EVTDESC4019;I am being punished for being unfaithful to [Root.Spouse.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTDESC4020;Poachers have been seen in [Root.Location.GetName] so I should probably send my spymaster [Root.job_spymaster.GetTitledFirstName] and my marshal [Root.job_marshal.GetTitledFirstName] to investigate the matter.;;;;;;;;;;;;;x
-EVTDESC4021;I took two poachers in the act! Two young boys, who looked as if they never eaten a decent meal in their lives, had two dead rabbits and a live one in a snare.;;;;;;;;;;;;;x
-EVTDESC4022;[From.GetTitledFirstName] caught two young poachers in my forest with a couple of dead rabbits at their belts and a live one in a snare.;;;;;;;;;;;;;x
-EVTDESC4023;I wonder what kind of punishment the poachers will get...;;;;;;;;;;;;;x
-EVTDESC4024;[From.GetTitledFirstName] approves of my just treatment of the poachers.;;;;;;;;;;;;;x
-EVTDESC4025;[From.GetTitledFirstName] tried to protest against the poacher's punishment, but it was too late. [From.GetSheHe] thought I should have been more merciful.;;;;;;;;;;;;;x
-EVTDESC4035;Cattle has mysteriously disappeared from herds all throughout my land. Luckily, my bailiff found the rustlers.;;;;;;;;;;;;;x
-EVTDESC4036;I managed to stop the enraged villagers before they did anything hasty to the young, beautiful woman they accused of witchery.;;;;;;;;;;;;;x
-EVTDESC4040;The priest accuses a couple of villagers of blasphemy after he heard them take the Lord's name in vain. The blacksmith did it when he hit his thumb with the hammer, the stablemaster when a horse kicked him and the cook when a rat fell into the stew.;;;;;;;;;;;;;x
-EVTDESC4041;The imam accused a couple of villagers of blasphemy after he heard them take Allah's name in vain. The blacksmith did it when he hit his thumb with the hammer, the stablemaster when a horse kicked him and the cook when a rat fell into the stew.;;;;;;;;;;;;;x
-EVTDESC4045;It all happened so quickly I barely registered the events. A noble had been attacked and was dragged away from us by the kidnappers!;;;;;;;;;;;;;x
-EVTDESC4046;The kidnappers overpowered me and made sure I could not call for help by stuffing a filthy rag into my mouth! Luckily, they did not get far away with me, [From.GetTitledFirstName] and the guards managed to free me and capture them.;;;;;;;;;;;;;x
-EVTDESC4047;[From.GetTitledFirstName] was subject to an attempted kidnapping today and [From.GetSheHe] is clearly shocked by the experience.;;;;;;;;;;;;;x
-EVTDESC4050;A rumor about a spy sneaking around in my own castle was confirmed this morning when I caught him red-handed.;;;;;;;;;;;;;x
-EVTDESC4055;The peasants told the whole castle about a 'dragon' they saw in the forest and now the eager young men keep nagging me about a true dragon hunt.;;;;;;;;;;;;;x
-EVTDESC4060;The falconer is expecting me as a new hunting bird has arrived and awaits my inspection.;;;;;;;;;;;;;x
-EVTDESC4085;The wolves' territory has crept closer to the castle and more sheep, pigs and chickens vanish each day.;;;;;;;;;;;;;x
-EVTDESC4110;While pondering over the guest list for the banquet, I wondered if I should invite one of my friends.;;;;;;;;;;;;;x
-EVTDESC4111;My friend [From.GetFirstName] has invited me to a grand banquet.;;;;;;;;;;;;;x
-EVTDESC4112;It wasn't until several weeks after the banquet I heard about it and wondered why I was not invited. Aren't [From.GetTitledFirstName] and I friends?;;;;;;;;;;;;;x
-EVTDESC4113;[From.GetTitledFirstName] confronted me about me not inviting [From.GetHerHim] to the banquet.;;;;;;;;;;;;;x
-EVTDESC4114;I rushed around trying to get everyone to work harder, not smarter to get everything ready for the banquette when the guests started to arrive. I waited impatiently for [From.GetTitledFirstName] but still did my best to make sure every guest felt welcome and found its designated place at my table.;;;;;;;;;;;;;x
-EVTDESC4115;Peddlers selling all sorts of food, clothing, exotic spices and luxuries such as glass and jewels filled the town square with their wares and shouts.;;;;;;;;;;;;;x
-EVTDESC4120;The coldblooded destrier and the warmblooded charger ambled towards each other, their riders preparing to crush their lances against each other. I watched the destrier crash to the ground with its rider crushed beneath him.;;;;;;;;;;;;;x
-EVTDESC4125;The week before the tournament was a stressful one. Stands for the spectators had to be erected, the knights who arrived needed housing and my armor had to be refitted.;;;;;;;;;;;;;x
-EVTDESC4130;Jesters, minstrels, acrobats and dancers, all have gathered to perform at the festival. Inviting noises, tempting scents and alluring sights tries to lure people to various stands, performers and tents.;;;;;;;;;;;;;x
-EVTDESC4135;I saw a vassal with his stunning young wife by his side at the feast. I decided to make a toast to the lovely couple...;;;;;;;;;;;;;x
-EVTDESC4145;A travelling poet who calls himself a 'bard' arrived today.;;;;;;;;;;;;;x
-EVTDESC4146;I introduced a bard to [From.GetTitledFirstName] today and I do hope [From.GetSheHe] liked his poetry and songs.;;;;;;;;;;;;;x
-EVTDESC4147;[From.GetTitledFirstName], who had introduced the bard to the court, was not pleased with me promising to break the bard's bones. I tried to explain that I would only break the bones if the bard tried to do something unpleasant, but [From.GetTitledFirstName] did not accept that explanation.;;;;;;;;;;;;;x
-EVTDESC4148;I found out that [From.GetTitledFirstName] had introduced the bard to the court and I told [From.GetHerHim] how much I appreciated that. Finally someone who can sing!;;;;;;;;;;;;;x
-EVTDESC4150;A man claiming to be a lord who disappeared seven years ago has found his way to my castle. He sings of the fair queen of Elfland and some say his songs are prophetic...;;;;;;;;;;;;;x
-EVTDESC4155;A troubadour and his wife the trobairitz have arrived from Occitania. Their performances range from vulgar satires to political sirventes and everything in between, including songs and poems of courtly love.;;;;;;;;;;;;;x
-EVTDESC4175;We had a jolly great time dressed up as wild men, dancing chained together and appearing shaggy and hairy from head to foot. Too bad the fun was interrupted when a careless person set us on fire!;;;;;;;;;;;;;x
-
-EVTOPTA4000;He should pay his neighbor;;;;;;;;;;;;;x
-EVTOPTA4005;The thief will get what he deserves!;;;;;;;;;;;;;x
-EVTOPTA4006;He's just a petty thief;;;;;;;;;;;;;x
-EVTOPTA4007;Oh no, he was hanged!;;;;;;;;;;;;;x
-EVTOPTA4009;Is this the thanks I get?;;;;;;;;;;;;;x
-EVTOPTA4010;Why would I care about some petty thieves?;;;;;;;;;;;;;x
-EVTOPTA4015;What should I do?;;;;;;;;;;;;;x
-EVTOPTA4016;This is a waste of my time;;;;;;;;;;;;;x
-EVTOPTA4017;Ok;;;;;;;;;;;;;x
-EVTOPTA4019;Why?;;;;;;;;;;;;;x
-EVTOPTA4020;They have more important things to do;;;;;;;;;;;;;x
-EVTOPTA4021;I should let them go;;;;;;;;;;;;;x
-EVTOPTA4022;Deal with them yourself;;;;;;;;;;;;;x
-EVTOPTA4023;Good. They will be hanged;;;;;;;;;;;;;x
-EVTOPTA4025;I did my best!;;;;;;;;;;;;;x
-EVTOPTA4035;The cattle has been returned, no sanction needed;;;;;;;;;;;;;x
-EVTOPTA4036;She hasn't done anything wrong, release her!;;;;;;;;;;;;;x
-EVTOPTA4040;So what?;;;;;;;;;;;;;x
-EVTOPTA4045;I'll save you!;;;;;;;;;;;;;x
-EVTOPTA4046;Make sure they are severely punished!;;;;;;;;;;;;;x
-EVTOPTA4047;[From.GetSheHeCap] will learn something from it.;;;;;;;;;;;;;x
-EVTOPTA4050;I am not concerned;;;;;;;;;;;;;x
-EVTOPTA4055;Some gold might shut them up;;;;;;;;;;;;;x
-EVTOPTA4060;Just tell him I am busy;;;;;;;;;;;;;x
-EVTOPTA4085;The wolves are not to blame;;;;;;;;;;;;;x
-EVTOPTA4110;Of course!;;;;;;;;;;;;;x
-EVTOPTA4111;Why bother?;;;;;;;;;;;;;x
-EVTOPTA4112;Maybe [From.GetSheHe] forgot?;;;;;;;;;;;;;x
-EVTOPTA4113;I did not want you there!;;;;;;;;;;;;;x
-EVTOPTA4114;[From.GetSheHeCap] never showed up!;;;;;;;;;;;;;x
-EVTOPTA4115;There are a couple of things I need...;;;;;;;;;;;;;x
-EVTOPTA4120;Good fight;;;;;;;;;;;;;x
-EVTOPTA4125;Of course, I won't win anything;;;;;;;;;;;;;x
-EVTOPTA4130;The dancers are actually pretty good;;;;;;;;;;;;;x
-EVTOPTA4135;I hope you will live long and happy lives together...;;;;;;;;;;;;;x
-EVTOPTA4145;A good-for-nothing nobody, hmm?;;;;;;;;;;;;;x
-EVTOPTA4146;[From.GetTitledFirstName] threatened to break the poet's bones!;;;;;;;;;;;;;x
-EVTOPTA4147;I just wanted to protect everybody...;;;;;;;;;;;;;x
-EVTOPTA4148;Thank you!;;;;;;;;;;;;;x
-EVTOPTA4150;Long lost but home again;;;;;;;;;;;;;x
-EVTOPTA4155;Courtly love', pah!;;;;;;;;;;;;;x
-EVTOPTA4175;The pain... but it was worth it;;;;;;;;;;;;;x
-
-EVTOPTB4000;Give the neighbor four of the piglets;;;;;;;;;;;;;x
-EVTOPTB4006;Throw him into the deepest dungeon and let him rot!;;;;;;;;;;;;;x
-EVTOPTB4007;His hands was cut off! How horrible!;;;;;;;;;;;;;x
-EVTOPTB4010;They will pay amercement;;;;;;;;;;;;;x
-EVTOPTB4015;I better ignore it...;;;;;;;;;;;;;x
-EVTOPTB4016;A couple of days in the dungeon will do [From.Spouse.GetHerHim] good;;;;;;;;;;;;;x
-EVTOPTB4020;Poachers will be eliminated!;;;;;;;;;;;;;x
-EVTOPTB4021;Let [From.GetTitledFirstName] deal with them;;;;;;;;;;;;;x
-EVTOPTB4022;The law demands their death by hanging;;;;;;;;;;;;;x
-EVTOPTB4023;They are to be hanged? That is too harsh!;;;;;;;;;;;;;x
-EVTOPTB4035;Thievery is punished by cutting off the hands...;;;;;;;;;;;;;x
-EVTOPTB4036;She should be put to the ordeal by water;;;;;;;;;;;;;x
-EVTOPTB4040;A couple of days in the dungeons should be fine;;;;;;;;;;;;;x
-EVTOPTB4047;The offenders will be dealt with according to the law.;;;;;;;;;;;;;x
-EVTOPTB4050;Behead him!;;;;;;;;;;;;;x
-EVTOPTB4055;Fearsome dragon, thou doth not scare me;;;;;;;;;;;;;x
-EVTOPTB4060;I need to go hunting right now!;;;;;;;;;;;;;x
-EVTOPTB4085;Every village will fight them together!;;;;;;;;;;;;;x
-EVTOPTB4110;Not this time;;;;;;;;;;;;;x
-EVTOPTB4111;I will reluctantly attend;;;;;;;;;;;;;x
-EVTOPTB4112;Not anymore!;;;;;;;;;;;;;x
-EVTOPTB4113;I'm sorry about that...;;;;;;;;;;;;;x
-EVTOPTB4114;[From.GetSheHeCap] was the last to arrive;;;;;;;;;;;;;x
-EVTOPTB4115;Wasting their money on knickknacks...;;;;;;;;;;;;;x
-EVTOPTB4120;Are they deliberately trying to kill themselves?;;;;;;;;;;;;;x
-EVTOPTB4125;This is what I have been waiting for!;;;;;;;;;;;;;x
-EVTOPTB4130;Oh no, not again...;;;;;;;;;;;;;x
-EVTOPTB4135;I thought the groom would drop dead when you consummated the wedding\n;;;;;;;;;;;;;x
-EVTOPTB4145;If he does anything wrong I will break every bone in his body;;;;;;;;;;;;;x
-EVTOPTB4146;[From.GetTitledFirstName] asked the bard for help with [From.GetHerHis] poetry!;;;;;;;;;;;;;x
-EVTOPTB4150;Why should I believe him?;;;;;;;;;;;;;x
-EVTOPTB4155;I hope they do not dare write any satires about me!;;;;;;;;;;;;;x
-EVTOPTB4160;They use snake oil to do that;;;;;;;;;;;;;x
-EVTOPTB4165;Dance only leads to... well, you know;;;;;;;;;;;;;x
-EVTOPTB4175;I was saved from any greater harm by a courtier;;;;;;;;;;;;;x
-
-EVTOPTC4000;Keep one piglet each, the rest belongs to me;;;;;;;;;;;;;x
-EVTOPTC4006;Hang him, that ought to teach him a lesson;;;;;;;;;;;;;x
-EVTOPTC4007;He deserved to be hanged;;;;;;;;;;;;;x
-EVTOPTC4010;Off with their heads!;;;;;;;;;;;;;x
-EVTOPTC4016;Is infidelity a crime?;;;;;;;;;;;;;x
-EVTOPTC4022;They must be starving! Release them;;;;;;;;;;;;;x
-EVTOPTC4023;Hope the loss of their ears learnt them a lesson;;;;;;;;;;;;;x
-EVTOPTC4035;Another day, I would have spared their lives. Not today.;;;;;;;;;;;;;x
-EVTOPTC4036;She will confess her sins after some time in the torture chamber;;;;;;;;;;;;;x
-EVTOPTC4040;Only the cook should be punished, I could have been poisoned!;;;;;;;;;;;;;x
-EVTOPTC4047;Put the offenders in the darkest dungeon, never to be released;;;;;;;;;;;;;x
-EVTOPTC4050;Should I throw him into the dungeon?;;;;;;;;;;;;;x
-EVTOPTC4055;Dragons do not exist! ...right?;;;;;;;;;;;;;x
-EVTOPTC4060;Is it bigger than a chicken?;;;;;;;;;;;;;x
-EVTOPTC4085;Give me my sword, I'll deal with them;;;;;;;;;;;;;x
-EVTOPTC4111;Lots o'people and lots o'food... Good!;;;;;;;;;;;;;x
-EVTOPTC4112;We need to talk, [From.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTOPTC4114;[From.GetSheHeCap] told me how glad my invitation had made [From.GetHerHim];;;;;;;;;;;;;x
-EVTOPTC4120;Ha! I could have done it better;;;;;;;;;;;;;x
-EVTOPTC4125;Let the tournament begin!;;;;;;;;;;;;;x
-EVTOPTC4130;A festival? Nobody told me!;;;;;;;;;;;;;x
-EVTOPTC4135;Your wedding was nice, but I dare say this feast is better!;;;;;;;;;;;;;x
-EVTOPTC4145;As long as he stays away from me...;;;;;;;;;;;;;x
-EVTOPTC4150;Just an old drunk. Throw him out!;;;;;;;;;;;;;x
-EVTOPTC4155;The sirventes sure is interesting!;;;;;;;;;;;;;x
-EVTOPTC4160;Keep an eye on them, I do not trust them;;;;;;;;;;;;;x
-EVTOPTC4165;I thought I wouldn't have to dance!;;;;;;;;;;;;;x
-EVTOPTC4175;Some fool poured spirits over me!;;;;;;;;;;;;;x
-
-EVTOPTD4006;Cut off his hands!;;;;;;;;;;;;;x
-EVTOPTD4007;Without hands he will never steal again!;;;;;;;;;;;;;x
-EVTOPTD4010;Make them suffer before they die!;;;;;;;;;;;;;x
-EVTOPTD4016;[From.Spouse.GetSheHeCap] will be locked in the stock;;;;;;;;;;;;;x
-EVTOPTD4022;Kill them and mount their tarred heads above the gates!;;;;;;;;;;;;;x
-EVTOPTD4023;Cutting their ears off? That's barbaric!;;;;;;;;;;;;;x
-EVTOPTD4035;The coldest, darkest cell is reserved for scum like this!;;;;;;;;;;;;;x
-EVTOPTD4036;Someone so beautiful must be a witch!;;;;;;;;;;;;;x
-EVTOPTD4040;This is a disgrace! They should be hanged!;;;;;;;;;;;;;x
-EVTOPTD4047;[From.GetSheHeCap] deserved it;;;;;;;;;;;;;x
-EVTOPTD4050;I will kill him with my bare hands;;;;;;;;;;;;;x
-EVTOPTD4055;I will kill it and hang its head over the hearth;;;;;;;;;;;;;x
-EVTOPTD4085;Wolf hunting tomorrow everybody!;;;;;;;;;;;;;x
-EVTOPTD4115;I don't like the merchants, but their wares are fine;;;;;;;;;;;;;x
-EVTOPTD4120;Let me have at it!;;;;;;;;;;;;;x
-EVTOPTD4125;A great event!;;;;;;;;;;;;;x
-EVTOPTD4130;I must invite that minstrel to sing for me!;;;;;;;;;;;;;x
-EVTOPTD4145;He can stay for as long as he likes;;;;;;;;;;;;;x
-EVTOPTD4150;I have no reason to believe him;;;;;;;;;;;;;x
-EVTOPTD4155;I hope they know 'Falkenlied'!;;;;;;;;;;;;;x
-EVTOPTD4165;[Root.Spouse.GetTitledFirstName] wants to dance, but I think I will keep on drinking;;;;;;;;;;;;;x
-
-EVTOPTE4007;Poor thing! Thrown into that ghastly prison...;;;;;;;;;;;;;x
-EVTOPTE4010;Such crimes will not go unpunished!;;;;;;;;;;;;;x
-EVTOPTE4022;Cut off their ears;;;;;;;;;;;;;x
-EVTOPTE4023;The only good poacher is a dead poacher;;;;;;;;;;;;;x
-EVTOPTE4050;Carve out his eyes!;;;;;;;;;;;;;x
-EVTOPTE4115;Fairs are fun for all!;;;;;;;;;;;;;x
-EVTOPTE4120;A horse! A horse! My kingdom for a horse!;;;;;;;;;;;;;x
-EVTOPTE4125;The wine will flow afterwards!;;;;;;;;;;;;;x
-EVTOPTE4145;Maybe he can help me with my poetry...;;;;;;;;;;;;;x
-EVTOPTE4150;He's finally found his way home then!;;;;;;;;;;;;;x
-EVTOPTE4155;I remember those two, they came here last year!;;;;;;;;;;;;;x
-EVTOPTE4160;Hope he didn't dislocate his shoulder;;;;;;;;;;;;;x
-EVTOPTE4165;They do look like they are having fun;;;;;;;;;;;;;x
-
-EVTOPTF4007;He will rot in prison!;;;;;;;;;;;;;x
-EVTOPTF4023;Killed? For some rabbits sake?!;;;;;;;;;;;;;x
-EVTOPTF4115;I think fairs should be banned;;;;;;;;;;;;;x
-EVTOPTF4120;Let my doctor take a look at him;;;;;;;;;;;;;x
-EVTOPTF4150;I'd love to hear him sing!;;;;;;;;;;;;;x
-EVTOPTF4155;They will be paid well, I assure you;;;;;;;;;;;;;x
-EVTOPTF4165;I'd love to dance!;;;;;;;;;;;;;x
-
-EVTTOOLTIP4006;I hope [Root.Liege.GetTitledFirstName] will be just!;;;;;;;;;;;;;x
-EVTTOOLTIP4007;[This.GetTitledFirstName] reacts to the thief's punishment;;;;;;;;;;;;;x
-EVTTOOLTIP4008;Thank you, [This.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTTOOLTIP4009;That was too harsh, [This.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTTOOLTIP4016;I should ask [Root.Host.GetTitledFirstName] to help me!;;;;;;;;;;;;;x
-EVTTOOLTIP4017;The issue is ignored;;;;;;;;;;;;;x
-EVTTOOLTIP4018;The issue is taken care of;;;;;;;;;;;;;x
-EVTTOOLTIP4019;[This.GetTitledFirstName] is not happy about the punishment;;;;;;;;;;;;;x
-EVTTOOLTIP4021;Spymaster [Root.job_spymaster.GetTitledFirstName] and Marshal [Root.job_marshal.GetTitledFirstName] will search for poachers;;;;;;;;;;;;;x
-EVTTOOLTIP4022;The poachers are dragged before [This.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP4023;[This.GetTitledFirstName] is informed about the poacher's punishments;;;;;;;;;;;;;x
-EVTTOOLTIP4024;That is an acceptable punishment;;;;;;;;;;;;;x
-EVTTOOLTIP4025;I hope I can change [This.GetTitledFirstName]'s mind!;;;;;;;;;;;;;x
-EVTTOOLTIP4046;[This.GetTitledFirstName] is kidnapped!;;;;;;;;;;;;;x
-EVTTOOLTIP4047;I owe my thanks to [This.GetTitledFirstName] and my guards;;;;;;;;;;;;;x
-EVTTOOLTIP4111;[This.GetTitledFirstName] is invited to the banquet;;;;;;;;;;;;;x
-EVTTOOLTIP4112;[This.GetTitledFirstName] realizes that [This.GetSheHe] is not invited to [Root.GetTitledFirstName]'s banquette;;;;;;;;;;;;;x
-EVTTOOLTIP4113;Best Friends Forever?;;;;;;;;;;;;;x
-EVTTOOLTIP4146;[This.GetTitledFirstName] reacts to [Root.GetTitledFirstName]'s feelings towards the bard;;;;;;;;;;;;;x
-EVTTOOLTIP4147;[This.GetTitledFirstName] distasteful behavior disgusts me!;;;;;;;;;;;;;x
-EVTTOOLTIP4148;I will thank [This.GetTitledFirstName] for [This.GetHerHis] great behavior!;;;;;;;;;;;;;x
+EVTDESC4000;A farmer told me how his boar had managed to break into his neighbor's hoggery and the result was seven small piglets. Now his neighbor demanded compensation he can't afford and they need me to tell them what to do.;;;;;;;;;;;Ôåðìåð ñêàçàë ìíå, ÷òî åãî õðÿêó óäàëîñü âîðâàòüñÿ â çàãîí ñîñåäà, è ðåçóëüòàòîì ñòàëè ñåìü ìàëåíüêèõ ïîðîñÿò. Òåïåðü åãî ñîñåä òðåáóåò êîìïåíñàöèþ, êîòîðóþ îí íå ìîæåò ñåáå ïîçâîëèòü. Ôåðìåð íóæäàåòñÿ â ìî¸ì ñîâåòå.;;x
+EVTDESC4005;The thief was apprehended not long after he had robbed me and as he was caught in the county of [Root.Host.GetTitledFirstName] he was set to trial at [Root.Host.GetHerHis] court.;;;;;;;;;;;Âîðà ïîéìàëè âñêîðå ïîñëå òîãî, êàê îí îãðàáèë ìåíÿ, à ïîñêîëüêó îí áûë ïîéìàí â îáëàñòè, êîòîðîé âëàäååò [Root.Host.GetTitledFirstName], òî áûë ïðèâëå÷¸í ê ñóäó èìåííî òàì.;;x
+EVTDESC4006;Mercy, cried the thief when [From.GetTitledFirstName] confronted and accused him of being the robber.;;;;;;;;;;;Ìèëîñåðäèÿ! — êðè÷àë âîð, êîãäà [From.GetTitledFirstName] îáâèíèë[From.GetEndA] åãî â ãðàáåæå.;;x
+EVTDESC4007;I cannot wait until I hear what the thief's punishment is!;;;;;;;;;;;ß óñïîêîþñü, ïîêà íå óñëûøó, ÷òî âîð íàêàçàí!;;x
+EVTDESC4008;[From.GetTitledFirstName] thinks that I was just and gave the thief a suitable punishment.;;;;;;;;;;;[From.GetTitledFirstName] äóìàåò, ÷òî ÿ áûë[Root.GetEndA] ñïðàâåäëèâ[Root.GetEndA] è äàë[From.GetEndA] âîðó çàñëóæåííîå íàêàçàíèå.;;x
+EVTDESC4009;[From.GetTitledFirstName] thought the punishment to be too harsh, I should have been more merciful.;;;;;;;;;;;[From.GetTitledFirstName] ðåøèë[From.GetEndA], ÷òî íàêàçàíèå áûëî èçëèøíå ñóðîâûì, è ÷òî ìíå ñëåäîâàëî áû ïðîÿâèòü ìèëîñåðäèå.;;x
+EVTDESC4010;A group of robbers calling themselves the Band O'Brothers have been brought before me. The long list of all their crimes does not put them in good light.;;;;;;;;;;;"Ãðóïïà ãðàáèòåëåé, íàçûâàþùèõ ñåáÿ ""Áàíäîé Áðàòüåâ"", ïðåäñòàëà ïåðåäî ìíîé. Äëèííûé ñïèñîê âñåõ èõ ïðåñòóïëåíèé âûñòàâëÿåò èõ íå â ëó÷øåì ñâåòå.";;x
+EVTDESC4015;My spouse [Root.Spouse.GetTitledFirstName] is unfaithful! I'm certain about this!;;;;;;;;;;;Ì[Root.Spouse.GetOyaOy] [Root.Spouse.GetHusbandWife], [Root.Spouse.GetTitledFirstName], èçìåíÿåò ìíå! Íåò ñîìíåíèé â ýòîì!;;x
+EVTDESC4016;[From.GetTitledFirstName] has dragged [From.GetHerHis] unfaithful spouse [From.Spouse.GetTitledFirstName] before me and insists I should punish [From.Spouse.GetHerHim].;;;;;;;;;;;[From.GetTitledFirstName] íåãîäóåò èç-çà íåâåðíîñòè ñâîå[From.GetYGoOpp] [From.GetHusbandWifeOppGEN], êîòîð[From.GetAyaYyOpp], ïî [From.GetHersHis] ìíåíèþ, çàñëóæèâàåò íàêàçàíèÿ è [From.GetSheHe] íàñòàèâàåò, ÷òîáû èìåííî ÿ ïðèäóìàë[Root.GetEndA] åãî.;;x
+EVTDESC4017;[From.GetTitledFirstName] decided not to punish [Root.Spouse.GetTitledFirstName] for [Root.Spouse.GetHerHis] infidelity!;;;;;;;;;;;[From.GetTitledFirstName] ðåøèë[From.GetEndA], ÷òî [Root.Spouse.GetTitledFirstName] íå çàñëóæèâàåò íàêàçàíèÿ çà íåâåðíîñòü!;;x
+EVTDESC4018;[Root.Spouse.GetTitledFirstName] is being punished for [Root.Spouse.GetHerHis] infidelity!;;;;;;;;;;;[Root.Spouse.GetTitledFirstName] ïîäâåðã[Root.GetLasLsya] íàêàçàíèþ çà ñâîþ íåâåðíîñòü!;;x
+EVTDESC4019;I am being punished for being unfaithful to [Root.Spouse.GetTitledFirstName]!;;;;;;;;;;;Ìíå ïðèä¸òñÿ ïîíåñòè íàêàçàíèå çà ñâîþ íåâåðíîñòü! [Root.Spouse.GetTitledFirstName] òîðæåñòâóåò.;;x
+EVTDESC4020;Poachers have been seen in [Root.Location.GetName] so I should probably send my spymaster [Root.job_spymaster.GetTitledFirstName] and my marshal [Root.job_marshal.GetTitledFirstName] to investigate the matter.;;;;;;;;;;;Áðàêîíüåðû áûëè çàìå÷åíû â [Root.Location.County.GetAdjective]ñêèõ ëåñàõ. ß ñ÷èòàþ, ÷òî [Root.GetSpymasterName] [Root.job_spymaster.GetTitledFirstName] è [Root.GetMarshalName] [Root.job_marshal.GetFirstName] äîëæíû îòïðàâèòüñÿ òóäà, ÷òîáû ðàçîáðàòüñÿ ñ ýòîé ïðîáëåìîé.;;x
+EVTDESC4021;I took two poachers in the act! Two young boys, who looked as if they never eaten a decent meal in their lives, had two dead rabbits and a live one in a snare.;;;;;;;;;;;ß âçÿë[Root.GetEndA] äâóõ áðàêîíüåðîâ ñ ïîëè÷íûì! Ó äâóõ ïàöàíîâ, âûãëÿäåâøèõ òàê, êàê áóäòî îíè íèêîãäà â ñâîåé æèçíè íå åëè ïðèëè÷íîé åäû, áûëè îáíàðóæåíû äâà äîõëûõ êðîëèêà è îäèí æèâîé â ëîâóøêå.;;x
+EVTDESC4022;[From.GetTitledFirstName] caught two young poachers in my forest with a couple of dead rabbits at their belts and a live one in a snare.;;;;;;;;;;;[From.GetTitledFirstName] ïîéìàë[From.GetEndA] äâóõ ìîëîäûõ áðàêîíüåðîâ â ìî¸ì ëåñó ñ íåñêîëüêèìè òóøêàìè êðîëèêîâ è ñ îäíèì æèâûì â ëîâóøêå.;;x
+EVTDESC4023;I wonder what kind of punishment the poachers will get...;;;;;;;;;;;Èíòåðåñíî, êàêîå íàêàçàíèå ïîëó÷àò áðàêîíüåðû...;;x
+EVTDESC4024;[From.GetTitledFirstName] approves of my just treatment of the poachers.;;;;;;;;;;;[From.GetTitledFirstName] îäîáðÿåò òî, êàê ñïðàâåäëèâî ÿ ðàçîáðà[Root.GetLasLsya] ñ áðàêîíüåðàìè.;;x
+EVTDESC4025;[From.GetTitledFirstName] tried to protest against the poacher's punishment, but it was too late. [From.GetSheHe] thought I should have been more merciful.;;;;;;;;;;;[From.GetTitledFirstName] ïîïûòà[From.GetLasLsya] âîçðàçèòü ïðîòèâ íàêàçàíèÿ áðàêîíüåðîâ, íî áûëî ñëèøêîì ïîçäíî. [From.GetSheHeCap] ñ÷èòàåò, ÷òî íàäî áûëî ïðîÿâèòü ìèëîñåðäèå.;;x
+EVTDESC4035;Cattle has mysteriously disappeared from herds all throughout my land. Luckily, my bailiff found the rustlers.;;;;;;;;;;;Ñêîò çàãàäî÷íî èñ÷åçàë èç ñòàä âñþäó ïî ìîåé çåìëå. Ê ñ÷àñòüþ, ïîìîùíèê øåðèôà íàø¸ë ïîõèòèòåëåé.;;x
+EVTDESC4036;I managed to stop the enraged villagers before they did anything hasty to the young, beautiful woman they accused of witchery.;;;;;;;;;;;Ìíå óäàëîñü îñòàíîâèòü âçáåø¸ííûõ êðåñòüÿí ïðåæäå, ÷åì îíè ñäåëàëè ÷òî-ëèáî íåïîïðàâèìîå ñ ìîëîäîé êðàñàâèöåé, êîòîðóþ îáâèíÿëè â êîëäîâñòâå.;;x
+EVTDESC4040;The priest accuses a couple of villagers of blasphemy after he heard them take the Lord's name in vain. The blacksmith did it when he hit his thumb with the hammer, the stablemaster when a horse kicked him and the cook when a rat fell into the stew.;;;;;;;;;;;Ñâÿùåííèê îáâèíèë íåñêîëüêèõ êðåñòüÿí â áîãîõóëüñòâå ïîñëå òîãî, êàê óñëûøàë, ÷òî îíè óïîìÿíóëè èìÿ Áîãà âñóå. Êóçíåö ñäåëàë ýòî, êîãäà óäàðèë ñåáÿ ïî ïàëüöó ìîëîòêîì, êîíþõ - êîãäà ëîøàäü ëÿãíóëà åãî, à ïîâàð - êîãäà íàø¸ë êðûñó â òóø¸íîì ìÿñå!;;x
+EVTDESC4041;The imam accused a couple of villagers of blasphemy after he heard them take Allah's name in vain. The blacksmith did it when he hit his thumb with the hammer, the stablemaster when a horse kicked him and the cook when a rat fell into the stew.;;;;;;;;;;;Èìàì îáâèíèë íåñêîëüêî êðåñòüÿí â áîãîõóëüñòâå, óñëûøàâ, ÷òî îíè ïðîèçíîñèëè èìÿ Àëëàõà âñóå. Êóçíåö ñäåëàë ýòî, óäàðèâ ñåáÿ ìîëîòîì ïî ïàëüöó, êîíþõ - êîãäà åãî ëÿãíóëà ëîøàäü, à ïîâàð - ïîñëå òîãî, êàê êðûñà óïàëà â ðàãó.;;x
+EVTDESC4045;It all happened so quickly I barely registered the events. A noble had been attacked and was dragged away from us by the kidnappers!;;;;;;;;;;;Âñå ýòî ïðîèçîøëî òàê áûñòðî, ÷òî ÿ ëèøü êîíñòàòèðóþ ïîñëåäñòâèÿ. Äâîðÿíèí ïîäâåðãñÿ íàïàäåíèþ è áûë ïîõèùåí!;;x
+EVTDESC4046;The kidnappers overpowered me and made sure I could not call for help by stuffing a filthy rag into my mouth! Luckily, they did not get far away with me, [From.GetTitledFirstName] and the guards managed to free me and capture them.;;;;;;;;;;;Ïîõèòèòåëè ñêðóòèëè ìåíÿ è çàòîëêàëè â ðîò ãðÿçíóþ òðÿïêó, ÷òîá íå áûëî âîçìîæíîñòè ïîçâàòü íà ïîìîùü! Ê ñ÷àñòüþ, èì íå óäàëîñü óéòè äàëåêî, [From.GetTitledFirstName] è ñòðàæíèêè ñõâàòèëè èõ. Ìåíÿ îñâîáîäèëè.;;x
+EVTDESC4047;[From.GetTitledFirstName] was subject to an attempted kidnapping today and [From.GetSheHe] is clearly shocked by the experience.;;;;;;;;;;;[From.GetTitledFirstName] â øîêå îò ïåðåæèòîãî èíöèäåíòà - [From.GetHersHis] ñåãîäíÿ ïûòàëèñü ïîõèòèòü!;;x
+EVTDESC4050;A rumor about a spy sneaking around in my own castle was confirmed this morning when I caught him red-handed.;;;;;;;;;;;Ñëóõè î øïèîíå, âûíþõèâàþùåì â ìî¸ì ñîáñòâåííîì [Root.GetCapitalBuildingPREP], ïîäòâåðäèëèñü ýòèì óòðîì, êîãäà ÿ ïîéìàë[Root.GetEndA] åãî ñ ïîëè÷íûì.;;x
+EVTDESC4055;The peasants told the whole castle about a 'dragon' they saw in the forest and now the eager young men keep nagging me about a true dragon hunt.;;;;;;;;;;;"Êðåñòüÿíå òðåïëþòñÿ ïî âñåìó çàìêó î ""äðàêîíå"", êîòîðîãî îíè âèäåëè â ëåñó, è òåïåðü íåòåðïåëèâàÿ ìîëîä¸æü òâåðäèò ìíå îá îõîòå íà íàñòîÿùåãî äðàêîíà.";;x
+EVTDESC4060;The falconer is expecting me as a new hunting bird has arrived and awaits my inspection.;;;;;;;;;;;Ñîêîëüíè÷èé îæèäàåò ìåíÿ, òàê êàê íîâûé ñîêîë æä¸ò ìîåãî îñìîòðà.;;x
+EVTDESC4085;The wolves' territory has crept closer to the castle and more sheep, pigs and chickens vanish each day.;;;;;;;;;;;Âîë÷üè âëàäåíèÿ âñå áëèæå ê çàìêó, è âñå áîëüøå îâåö, ñâèíåé è öûïëÿò èñ÷åçàåò êàæäûé äåíü.;;x
+EVTDESC4110;While pondering over the guest list for the banquet, I wondered if I should invite one of my friends.;;;;;;;;;;;Âî âðåìÿ ðàçìûøëåíèé íàä ñïèñêîì ãîñòåé áàíêåòà âîçíèê âîïðîñ, ñòîèò ëè ìíå ïðèãëàñèòü îäíîãî èç äðóçåé.;;x
+EVTDESC4111;My friend [From.GetFirstName] has invited me to a grand banquet.;;;;;;;;;;;Ìîé äðóã [From.GetFirstName] ïðèãëàøàåò ìåíÿ íà ãðàíäèîçíûé áàíêåò.;;x
+EVTDESC4112;It wasn't until several weeks after the banquet I heard about it and wondered why I was not invited. Aren't [From.GetTitledFirstName] and I friends?;;;;;;;;;;;Ëèøü ñïóñòÿ íåñêîëüêî íåäåëü ïîñëå áàíêåòà ìíå ñòàëî î í¸ì èçâåñòíî. Èíòåðåñíî, ïî÷åìó [From.GetTitledFirstName] ìåíÿ íå ïðèãëàñèë[From.GetEndA]? Ðàçâå ìû íå äðóçüÿ?;;x
+EVTDESC4113;[From.GetTitledFirstName] confronted me about me not inviting [From.GetHerHim] to the banquet.;;;;;;;;;;;[From.GetTitledFirstName] â îáèäå íà ìåíÿ çà òî, ÷òî ÿ íå ïðèãëàñèë[Root.GetEndA] [From.GetHersHis] íà áàíêåò.;;x
+EVTDESC4114;I rushed around trying to get everyone to work harder, not smarter to get everything ready for the banquette when the guests started to arrive. I waited impatiently for [From.GetTitledFirstName] but still did my best to make sure every guest felt welcome and found its designated place at my table.;;;;;;;;;;;ß ñóå÷óñü âîêðóã, ïûòàÿñü çàñòàâèòü âñåõ ðàáîòàòü óñåðäíåå, ÷òîáû âñ¸ áûëî ãîòîâî, êîãäà ïîÿâÿòñÿ ïåðâûå ãîñòè. ß ñ íåòåðïåíèåì æäó, êîãäà ïðèáóäåò [From.GetTitledFirstName], íî âñ¸ ðàâíî äåëàþ âñ¸ âîçìîæíîå, ÷òîáû óáåäèòüñÿ, ÷òî êàæäûé ãîñòü ÷óâñòâóåò ñåáÿ, êàê äîìà è íàéä¸ò îòâåä¸ííîå äëÿ íåãî ìåñòî çà ìîèì ñòîëîì.;;x
+EVTDESC4115;Peddlers selling all sorts of food, clothing, exotic spices and luxuries such as glass and jewels filled the town square with their wares and shouts.;;;;;;;;;;;Êîðîáåéíèêè, ïðîäàþùèå ðàçíîîáðàçíóþ åäó, îäåæäó, ýêçîòè÷åñêèå ñïåöèè è ïðåäìåòû ðîñêîøè, òàêèå êàê ïîñóäó è äðàãîöåííîñòè, çàïîëîíèëè ãîðîäñêóþ ïëîùàäü ñâîèì òîâàðàìè è êðèêàìè.;;x
+EVTDESC4120;The coldblooded destrier and the warmblooded charger ambled towards each other, their riders preparing to crush their lances against each other. I watched the destrier crash to the ground with its rider crushed beneath him.;;;;;;;;;;;Êðóïíûé òÿæåëîâîç è ïîðîäèñòûé áîåâîé êîíü ðèíóëèñü äðóã íà äðóãà, èõ ñåäîêè ïðèãîòîâèëèñü ïîðàçèòü äðóã äðóãà êîïüÿìè. Ìíå áûëî âèäíî, êàê òÿæåëîâîç ðóõíóë íà çåìëþ, ïîäìèíàÿ ïîïàâøåãî ïîä íåãî âñàäíèêà.;;x
+EVTDESC4125;The week before the tournament was a stressful one. Stands for the spectators had to be erected, the knights who arrived needed housing and my armor had to be refitted.;;;;;;;;;;;Íåäåëÿ ïåðåä òóðíèðîì áûëà íàïðÿæ¸ííîé. Íóæíî áûëî óñòàíîâèòü òðèáóíû äëÿ çðèòåëåé, ïðèáûâàþùèõ ðûöàðåé îáåñïå÷èòü æèëü¸ì, è ìîè äîñïåõè îòðåìîíòèðîâàòü.;;x
+EVTDESC4130;Jesters, minstrels, acrobats and dancers, all have gathered to perform at the festival. Inviting noises, tempting scents and alluring sights tries to lure people to various stands, performers and tents.;;;;;;;;;;;Øóòû, ìåíåñòðåëè, àêðîáàòû è òàíöîðû ñîáðàëèñü, ÷òîáû âûñòóïèòü íà ïðàçäíèêå. Ïðèâëåêàòåëüíûå çâóêè, ñîáëàçíèòåëüíûå àðîìàòû è î÷àðîâàòåëüíûå äèêîâèíêè ïûòàþòñÿ çàâëå÷ü ëþäåé â ðàçíîîáðàçíûå ëàâêè, ïàëàòêè è øàòðû.;;x
+EVTDESC4135;I saw a vassal with his stunning young wife by his side at the feast. I decided to make a toast to the lovely couple...;;;;;;;;;;;Íà ïðàçäíèêå ïåðåäî ìíîé ïðåäñòàë îäèí èç âàññàëîâ âìåñòå ñ ïîòðÿñàþùåé ìîëîäîé æåíîé. Ïðåêðàñíàÿ ïàðà çàñëóæèëà òîñò.;;x
+EVTDESC4145;A travelling poet who calls himself a 'bard' arrived today.;;;;;;;;;;;"Ñåãîäíÿ ïðèáûë ñòðàíñòâóþùèé ïîýò, èìåíóþùèé ñåáÿ ""áàðäîì"".";;x
+EVTDESC4146;I introduced a bard to [From.GetTitledFirstName] today and I do hope [From.GetSheHe] liked his poetry and songs.;;;;;;;;;;;ß ïðåäñòàâèë áàðäà [From.GetTitledFirstName] è, íàäåþñü, [From.GetSheHe] ïîíðàâèòñÿ åãî ñòèõè è ïåñíè.;;x
+EVTDESC4147;[From.GetTitledFirstName], who had introduced the bard to the court, was not pleased with me promising to break the bard's bones. I tried to explain that I would only break the bones if the bard tried to do something unpleasant, but [From.GetTitledFirstName] did not accept that explanation.;;;;;;;;;;;[From.GetTitledFirstName], êîòîðûé ïðåäñòàâèë áàðäà äâîðó, áûë îãîð÷¸í ìîèì îáåùàíèåì ïåðåëîìàòü òîìó áàðäó êîñòè. ß ïûòàëñÿ îáúÿñíèòü, ÷òî âûïîëíèë áû ñâîþ óãðîçó òîëüêî åñëè áàðä ñäåëàë áû ÷òî-òî íåïîäîáàþùåå, íî [From.GetTitledFirstName] íå ïðèíÿë ìî¸ îáúÿñíåíèå.;;x
+EVTDESC4148;I found out that [From.GetTitledFirstName] had introduced the bard to the court and I told [From.GetHerHim] how much I appreciated that. Finally someone who can sing!;;;;;;;;;;;ß óâèäåë[Root.GetEndA], ÷òî [From.GetTitledFirstName] ïðåäñòàâèë[From.GetEndA] áàðäà äâîðó è ñêàçàë[Root.GetEndA] [From.GetHerHim], íàñêîëüêî ÿ öåíþ ýòî. Íàêîíåö-òî ïðè äâîðå ïîÿâèòñÿ êòî-òî, êîìó ìåäâåäü íà óõî íå íàñòóïèë.;;x
+EVTDESC4150;A man claiming to be a lord who disappeared seven years ago has found his way to my castle. He sings of the fair queen of Elfland and some say his songs are prophetic...;;;;;;;;;;;Ïîÿâèëñÿ ÷åëîâåê, âûäàþùèé ñåáÿ çà ëîðäà, ïðîïàâøåãî ñåìü ëåò íàçàä. Äîëãèå ñòðàíñòâèÿ ïðèâåëè åãî ê ìîåìó çàìêó. Îí ïî¸ò î ïðåêðàñíîé êîðîëåâå Ñòðàíû Ýëüôîâ è ìíîãèå ñ÷èòàþò åãî ïåñíè ïðîðî÷åñêèìè...;;x
+EVTDESC4155;A troubadour and his wife the trobairitz have arrived from Occitania. Their performances range from vulgar satires to political sirventes and everything in between, including songs and poems of courtly love.;;;;;;;;;;;Òðóáàäóð ñî ñâîåé æåíîé ïðèáûëè ê íàì èç Àêâèòàíèè. Ðåïåðòóàð ýòîãî äóýòà âåñüìà ðàçíîîáðàçåí: îò âóëüãàðíîé ïîëèòè÷åñêîé ñàòèðû äî ïåñåí è ñòèõîâ î êóðòóàçíîé ëþáâè.;;x
+EVTDESC4175;We had a jolly great time dressed up as wild men, dancing chained together and appearing shaggy and hairy from head to foot. Too bad the fun was interrupted when a careless person set us on fire!;;;;;;;;;;;Ìû âåñåëî ïðîâîäèëè âðåìÿ, îäåòûå êàê äèêèå ëþäè, òàíöóþùèå âìåñòå, âîëîñàòûå ñ ãîëîâû äî ïÿò. Ê íåñ÷àñòüþ, âåñåëüå áûëî ïðåðâàíî, êîãäà íåîñòîðîæíàÿ ïåðñîíà òîëêíóëà íàñ â îãîíü.;;x
+EVTOPTA4000;He should pay his neighbor;;;;;;;;;;;Îí äîëæåí çàïëàòèòü ñîñåäó;;x
+EVTOPTA4005;The thief will get what he deserves!;;;;;;;;;;;Âîð ïîëó÷èò òî, ÷åãî îí çàñëóæèâàåò!;;x
+EVTOPTA4006;He's just a petty thief;;;;;;;;;;;Îí âñåãî ëèøü ìåëêèé âîðèøêà;;x
+EVTOPTA4007;Oh no, he was hanged!;;;;;;;;;;;Îõ, íåò! Îí áûë ïîâåøåí!;;x
+EVTOPTA4009;Is this the thanks I get?;;;;;;;;;;;È ýòî âìåñòî áëàãîäàðíîñòè?;;x
+EVTOPTA4010;Why would I care about some petty thieves?;;;;;;;;;;;Ñ ÷åãî áû ýòî ìíå çàáîòèòüñÿ î âñÿêèõ ìåëêèõ âîðèøêàõ?;;x
+EVTOPTA4015;What should I do?;;;;;;;;;;;×òî ìíå äåëàòü?;;x
+EVTOPTA4016;This is a waste of my time;;;;;;;;;;;Ýòî - ïóñòàÿ òðàòà ìîåãî âðåìåíè;;x
+EVTOPTA4017;Ok;;;;;;;;;;;Íó ëàäíî;;x
+EVTOPTA4019;Why?;;;;;;;;;;;Çà ÷òî?;;x
+EVTOPTA4020;They have more important things to do;;;;;;;;;;;Åñòü áîëåå âàæíûå âåùè, êîòîðûìè èì ñëåäóåò çàíÿòüñÿ.;;x
+EVTOPTA4021;I should let them go;;;;;;;;;;;ß îòïóùó èõ.;;x
+EVTOPTA4022;Deal with them yourself;;;;;;;;;;;Ñàìî[Root.GetYMu] ïîãîâîðèòü ñ íèìè.;;x
+EVTOPTA4023;Good. They will be hanged;;;;;;;;;;;Õîðîøî. Îíè áóäóò ïîâåøåíû.;;x
+EVTOPTA4025;I did my best!;;;;;;;;;;;ß ïðèëîæèë[Root.GetEndA] âñå óñèëèÿ!;;x
+EVTOPTA4035;The cattle has been returned, no sanction needed;;;;;;;;;;;Ñêîò áûë âîçâðàù¸í, â äîïîëíèòåëüíûõ ñàíêöèÿõ íåò íóæäû.;;x
+EVTOPTA4036;She hasn't done anything wrong, release her!;;;;;;;;;;;Îíà íå ñäåëàëà íè÷åãî ïëîõîãî, îñâîáîäèòå å¸!;;x
+EVTOPTA4040;So what?;;;;;;;;;;;Íó è ÷òî?;;x
+EVTOPTA4045;I'll save you!;;;;;;;;;;;ß ñïàñó Âàñ!;;x
+EVTOPTA4046;Make sure they are severely punished!;;;;;;;;;;;Óäîñòîâåðüòåñü, ÷òî îíè ñòðîãî íàêàçàíû!;;x
+EVTOPTA4047;[From.GetSheHeCap] will learn something from it.;;;;;;;;;;;[From.GetSheHeCap] ïî÷åðïíåò ÷òî-íèáóäü èç ýòîãî.;;x
+EVTOPTA4050;I am not concerned;;;;;;;;;;;Ìåíÿ ýòî íå âîëíóåò;;x
+EVTOPTA4055;Some gold might shut them up;;;;;;;;;;;Íåìíîãî çîëîòà ìîãëî áû çàòêíóòü èõ;;x
+EVTOPTA4060;Just tell him I am busy;;;;;;;;;;;Ïåðåäàéòå åìó, ÷òî ìíå íåêîãäà;;x
+EVTOPTA4085;The wolves are not to blame;;;;;;;;;;;Âîëêè íå âèíîâàòû;;x
+EVTOPTA4110;Of course!;;;;;;;;;;;Êîíå÷íî!;;x
+EVTOPTA4111;Why bother?;;;;;;;;;;;Çà÷åì áåñïîêîèòüñÿ?;;x
+EVTOPTA4112;Maybe [From.GetSheHe] forgot?;;;;;;;;;;;Ìîæåò áûòü ó í[From.GetHersHis] ïðîñòî âûëåòåëî èç ãîëîâû?;;x
+EVTOPTA4113;I did not want you there!;;;;;;;;;;;Ìíå íå õîòåëîñü òåáÿ òàì âèäåòü!;;x
+EVTOPTA4114;[From.GetSheHeCap] never showed up!;;;;;;;;;;;[From.GetSheHeCap] íå ïðèõîäèò!;;x
+EVTOPTA4115;There are a couple of things I need...;;;;;;;;;;;Åñòü íåñêîëüêî âåùåé, â êîòîðûõ ÿ íóæäàþñü...;;x
+EVTOPTA4120;Good fight;;;;;;;;;;;Õîðîøèé áîé;;x
+EVTOPTA4125;Of course, I won't win anything;;;;;;;;;;;Êîíå÷íî, ÿ íè÷åãî íå âûèãðàþ;;x
+EVTOPTA4130;The dancers are actually pretty good;;;;;;;;;;;Òàíöîðû íà ñàìîì äåëå äîâîëüíî õîðîøè;;x
+EVTOPTA4135;I hope you will live long and happy lives together...;;;;;;;;;;;ß íàäåþñü, ÷òî Âû áóäåòå æèòü äîëãî è ñ÷àñòëèâî...;;x
+EVTOPTA4145;A good-for-nothing nobody, hmm?;;;;;;;;;;;Äðÿíü-÷åëîâå÷èøêà, íåáîñü.;;x
+EVTOPTA4146;[From.GetTitledFirstName] threatened to break the poet's bones!;;;;;;;;;;;[From.GetTitledFirstName] óãðîæàë ïåðåëîìàòü áàðäó êîñòè;;x
+EVTOPTA4147;I just wanted to protect everybody...;;;;;;;;;;;ß-òî òîëüêî õîòåë âñåõ çàùèòèòü...;;x
+EVTOPTA4148;Thank you!;;;;;;;;;;;Ñïàñèáî!;;x
+EVTOPTA4150;Long lost but home again;;;;;;;;;;;Áëóäíûé ëîðä âåðíóëñÿ;;x
+EVTOPTA4155;Courtly love', pah!;;;;;;;;;;;Ëþáîâíûå ñòèõè! Îõ!;;x
+EVTOPTA4175;The pain... but it was worth it;;;;;;;;;;;Áîëü... Íî îíî òîãî ñòîèëî;;x
+EVTOPTB4000;Give the neighbor four of the piglets;;;;;;;;;;;Äàéòå ñîñåäó ÷åòûð¸õ ïîðîñÿò;;x
+EVTOPTB4006;Throw him into the deepest dungeon and let him rot!;;;;;;;;;;;Áðîñüòå åãî â ñàìóþ ãëóáîêóþ òåìíèöó è ïóñòü ñãíè¸ò òàì!;;x
+EVTOPTB4007;His hands was cut off! How horrible!;;;;;;;;;;;Åìó îòðóáèëè ðóêè! Êàêîé óæàñ!;;x
+EVTOPTB4010;They will pay amercement;;;;;;;;;;;Îíè ïîíåñóò íàêàçàíèå;;x
+EVTOPTB4015;I better ignore it...;;;;;;;;;;;Ëó÷øå áóäåò çàêðûòü íà ýòî ãëàçà...;;x
+EVTOPTB4016;A couple of days in the dungeon will do [From.Spouse.GetHerHim] good;;;;;;;;;;;Íåñêîëüêî äíåé â òåìíèöå ðåøàò ïðîáëåìó.;;x
+EVTOPTB4020;Poachers will be eliminated!;;;;;;;;;;;Áðàêîíüåðû áóäóò óíè÷òîæåíû!;;x
+EVTOPTB4021;Let [From.GetTitledFirstName] deal with them;;;;;;;;;;;Ïóñòü [From.GetTitledFirstName] çàéì¸òñÿ èìè.;;x
+EVTOPTB4022;The law demands their death by hanging;;;;;;;;;;;Çàêîí òðåáóåò äëÿ íèõ ñìåðòè ÷åðåç ïîâåøåíèå.;;x
+EVTOPTB4023;They are to be hanged? That is too harsh!;;;;;;;;;;;Îíè äîëæíû áûòü ïîâåøåíû? Ýòî ñëèøêîì ñóðîâî!;;x
+EVTOPTB4035;Thievery is punished by cutting off the hands...;;;;;;;;;;;Âîðîâñòâî áóäåò íàêàçàíî îòðóáàíèåì ðóê...;;x
+EVTOPTB4036;She should be put to the ordeal by water;;;;;;;;;;;Îíà äîëæíà ïðîéòè èñïûòàíèå âîäîé.;;x
+EVTOPTB4040;A couple of days in the dungeons should be fine;;;;;;;;;;;Íåñêîëüêî äíåé â òåìíèöå — â ñàìûé ðàç.;;x
+EVTOPTB4047;The offenders will be dealt with according to the law.;;;;;;;;;;;Ñ ïðåñòóïíèêàìè ïîñòóïÿò ñîãëàñíî çàêîíó.;;x
+EVTOPTB4050;Behead him!;;;;;;;;;;;Êàçíèòå åãî!;;x
+EVTOPTB4055;Fearsome dragon, thou doth not scare me;;;;;;;;;;;Óæàñíûé äðàêîí, òû íå èñïóãàåøü ìåíÿ!;;x
+EVTOPTB4060;I need to go hunting right now!;;;;;;;;;;;Ìíå ñëåäóåò îòïðàâèòüñÿ íà îõîòó íåìåäëåííî!;;x
+EVTOPTB4085;Every village will fight them together!;;;;;;;;;;;Âñå äåðåâíè áóäóò áîðîòüñÿ ñ íèìè ñîîáùà;;x
+EVTOPTB4110;Not this time;;;;;;;;;;;Íå íà ñåé ðàç;;x
+EVTOPTB4111;I will reluctantly attend;;;;;;;;;;;Ñêðåïÿ ñåðäöå, ÿ âñå æå áóäó òàì;;x
+EVTOPTB4112;Not anymore!;;;;;;;;;;;Áîëüøå íåò!;;x
+EVTOPTB4113;I'm sorry about that...;;;;;;;;;;;ß ñîæàëåþ...;;x
+EVTOPTB4114;[From.GetSheHeCap] was the last to arrive;;;;;;;;;;;[From.GetSheHeCap] ïðèáûâàåò â ÷èñëå ïîñëåäíèõ.;;x
+EVTOPTB4115;Wasting their money on knickknacks...;;;;;;;;;;;Òðàòèòü äåíüãè íà áåçäåëóøêè...;;x
+EVTOPTB4120;Are they deliberately trying to kill themselves?;;;;;;;;;;;Îíè èùóò ñìåðòè?;;x
+EVTOPTB4125;This is what I have been waiting for!;;;;;;;;;;;Ýòî - òî, ÷åãî ìíå õîòåëîñü!;;x
+EVTOPTB4130;Oh no, not again...;;;;;;;;;;;Î íåò, òîëüêî íå îïÿòü...;;x
+EVTOPTB4135;I thought the groom would drop dead when you consummated the wedding\n;;;;;;;;;;;ß íå ïðîòèâ ïðèñÿãíóòü, ÷òî æåíèõ óïàäåò çàìåðòâî, êîãäà ñâàäüáà çàêîí÷èòñÿ;;x
+EVTOPTB4145;If he does anything wrong I will break every bone in his body;;;;;;;;;;;Åñëè îí ÷òî-òî ñäåëàåò íå òàê, ÿ ïåðåëîìàþ åìó âñå êîñòè;;x
+EVTOPTB4146;[From.GetTitledFirstName] asked the bard for help with [From.GetHerHis] poetry!;;;;;;;;;;;[From.GetTitledFirstName] ïîïðîñèë áàðäà ïîìî÷ü ñ åãî ñîáñòâåííûìè ñòèõàìè.;;x
+EVTOPTB4150;Why should I believe him?;;;;;;;;;;;Ñòîèò ëè åìó âåðèòü?;;x
+EVTOPTB4155;I hope they do not dare write any satires about me!;;;;;;;;;;;Íàäåþñü, îíè íå îñìåëÿòñÿ ïèñàòü ïðî ìåíÿ.;;x
+EVTOPTB4160;They use snake oil to do that;;;;;;;;;;;Ýòî îíè çìåèíûì ìàñëîì ìàæóòñÿ, âîò òàêèå øòóêè è äåëàþò!;;x
+EVTOPTB4165;Dance only leads to... well, you know;;;;;;;;;;;Òàíöû ïðèâîäÿò ëèøü ê... Íó, Âû çíàåòå;;x
+EVTOPTB4175;I was saved from any greater harm by a courtier;;;;;;;;;;;ß áûë[Root.GetEndA] ñïàñåí[Root.GetEndA] ìîèì ïðèäâîðíûì.;;x
+EVTOPTC4000;Keep one piglet each, the rest belongs to me;;;;;;;;;;;Îñòàâüòå îáà ñåáå ïî îäíîìó ïîðîñ¸íêó, îñòàëüíûå ïðèíàäëåæàò ìíå;;x
+EVTOPTC4006;Hang him, that ought to teach him a lesson;;;;;;;;;;;Ïîâåñüòå åãî, ýòî îòó÷èò åãî âîðîâàòü!;;x
+EVTOPTC4007;He deserved to be hanged;;;;;;;;;;;Îí çàñëóæèë ïîâåøåíèå;;x
+EVTOPTC4010;Off with their heads!;;;;;;;;;;;Äîëîé èõ ãîëîâû!;;x
+EVTOPTC4016;Is infidelity a crime?;;;;;;;;;;;Äåéñòâèòåëüíî ëè èçìåíà - ïðåñòóïëåíèå?;;x
+EVTOPTC4022;They must be starving! Release them;;;;;;;;;;;Äà îíè æå ÷óòü íå ïîìåðëè ñ ãîëîäó! Îñâîáîäèòå èõ.;;x
+EVTOPTC4023;Hope the loss of their ears learnt them a lesson;;;;;;;;;;;Íàäåþñü, ÷òî ïîòåðÿ óøåé áóäåò èì óðîêîì.;;x
+EVTOPTC4035;Another day, I would have spared their lives. Not today.;;;;;;;;;;;Â èíîé äåíü ÿ, áûòü ìîæåò, ïîäàðèë[Root.GetEndA] áû èì èõ æèçíè. Íî íå â ýòîò.;;x
+EVTOPTC4036;She will confess her sins after some time in the torture chamber;;;;;;;;;;;Îíà ïðèçíàåòñÿ â ñâîèõ ãðåõàõ. ×óòü ïîçæå. Ïîñëå âñòðå÷è ñ çàïëå÷íûõ äåë ìàñòåðîì.;;x
+EVTOPTC4040;Only the cook should be punished, I could have been poisoned!;;;;;;;;;;;Íàêàçàí äîëæåí áûòü ëèøü ïîâàð, îí ìîã îòðàâèòü ìåíÿ!;;x
+EVTOPTC4047;Put the offenders in the darkest dungeon, never to be released;;;;;;;;;;;Áðîñüòå èõ â òàêóþ òåìíèöó, ÷òîáû îíè íèêîãäà îòòóäà íå âûøëè.;;x
+EVTOPTC4050;Should I throw him into the dungeon?;;;;;;;;;;;Ìíå íóæíî áðîñèòü åãî â òåìíèöó?;;x
+EVTOPTC4055;Dragons do not exist! ...right?;;;;;;;;;;;Äðàêîíû íå ñóùåñòâóþò!... ïðàâäà?;;x
+EVTOPTC4060;Is it bigger than a chicken?;;;;;;;;;;;Ýòîò ñîêîë õîòü áîëüøå êóðèöû-òî?;;x
+EVTOPTC4085;Give me my sword, I'll deal with them;;;;;;;;;;;Ïîäàéòå ìíå ìîé ìå÷, îíè áóäóò èìåòü äåëî ñî ìíîé;;x
+EVTOPTC4111;Lots o'people and lots o'food... Good!;;;;;;;;;;;Ìíîãî íàðîäó è ãîðû åäû... Õîðîøî!;;x
+EVTOPTC4112;We need to talk, [From.GetTitledFirstName]!;;;;;;;;;;;[From.GetTitledFirstName], íàì íóæíî ïîãîâîðèòü!;;x
+EVTOPTC4114;[From.GetSheHeCap] told me how glad my invitation had made [From.GetHerHim];;;;;;;;;;;[From.GetSheHeCap] áëàãîäàðèò ìåíÿ çà ïðèãëàøåíèå.;;x
+EVTOPTC4120;Ha! I could have done it better;;;;;;;;;;;Õà! Ó ìåíÿ áû ýòî ïîëó÷èëîñü ëó÷øå;;x
+EVTOPTC4125;Let the tournament begin!;;;;;;;;;;;Ðàçðåøàþ íà÷àòü òóðíèð!;;x
+EVTOPTC4130;A festival? Nobody told me!;;;;;;;;;;;Ïðàçäíèê? Íèêòî íå ñêàçàë ìíå!;;x
+EVTOPTC4135;Your wedding was nice, but I dare say this feast is better!;;;;;;;;;;;Âàøà ñâàäüáà áûëà õîðîøàÿ, íî, îñìåëþñü ñêàçàòü, ýòîò ïðàçäíèê ëó÷øå!;;x
+EVTOPTC4145;As long as he stays away from me...;;;;;;;;;;;Äî òåõ ïîð, ïîêà îí äåðæèòñÿ îò ìåíÿ ïîäàëüøå...;;x
+EVTOPTC4150;Just an old drunk. Throw him out!;;;;;;;;;;;Êàêîé-òî ñòàðûé ïüÿíèöà. Óáåðèòå åãî ñ ãëàç äîëîé!;;x
+EVTOPTC4155;The sirventes sure is interesting!;;;;;;;;;;;Áóäåò âåñüìà èíòåðåñíî ïîñëóøàòü èõ ñàòèðè÷åñêèå ðàññêàçû;;x
+EVTOPTC4160;Keep an eye on them, I do not trust them;;;;;;;;;;;Ïðèãëÿäèòå çà íèìè, ÿ èì íå äîâåðÿþ;;x
+EVTOPTC4165;I thought I wouldn't have to dance!;;;;;;;;;;;ß äóìàë, ìíå íå ïðèä¸òñÿ òàíöåâàòü!;;x
+EVTOPTC4175;Some fool poured spirits over me!;;;;;;;;;;;Íà ìåíÿ êòî-òî ñïèðòíîå ïðîëèë!;;x
+EVTOPTD4006;Cut off his hands!;;;;;;;;;;;Îòðóáèòå åìó ðóêè!;;x
+EVTOPTD4007;Without hands he will never steal again!;;;;;;;;;;;Áåç ðóê îí íèêîãäà íå ñîâåðøèò êðàæè âíîâü!;;x
+EVTOPTD4010;Make them suffer before they die!;;;;;;;;;;;Çàñòàâüòå èõ ìó÷èòüñÿ ïåðåä ñìåðòüþ!;;x
+EVTOPTD4016;[From.Spouse.GetSheHeCap] will be locked in the stock;;;;;;;;;;;Â òåìíèöó [From.GetHersHisOpp].;;x
+EVTOPTD4022;Kill them and mount their tarred heads above the gates!;;;;;;;;;;;Óáåéòå èõ è âûâåñèòå èõ ïðîñìîëåííûå ãîëîâû íàä âîðîòàìè!;;x
+EVTOPTD4023;Cutting their ears off? That's barbaric!;;;;;;;;;;;Óêîðîòèòü èì óøè? Ýòî æå âàðâàðñòâî!;;x
+EVTOPTD4035;The coldest, darkest cell is reserved for scum like this!;;;;;;;;;;;Ñàìàÿ õîëîäíàÿ, ñàìàÿ ò¸ìíàÿ êàìåðà æä¸ò êàê ðàç òàêîãî ñëó÷àÿ!;;x
+EVTOPTD4036;Someone so beautiful must be a witch!;;;;;;;;;;;Òàêàÿ êðàñàâèöà ïðîñòî îáÿçàíà áûòü âåäüìîé!;;x
+EVTOPTD4040;This is a disgrace! They should be hanged!;;;;;;;;;;;Ýòî - ïîçîð! Îíè äîëæíû áûòü ïîâåøåíû!;;x
+EVTOPTD4047;[From.GetSheHeCap] deserved it;;;;;;;;;;;[From.GetSheHeCap] çàñëóæèâàåò ýòî;;x
+EVTOPTD4050;I will kill him with my bare hands;;;;;;;;;;;ß óáüþ åãî ãîëûìè ðóêàìè;;x
+EVTOPTD4055;I will kill it and hang its head over the hearth;;;;;;;;;;;ß ïðèêîí÷ó åãî, à ãîëîâó ïðèêîëî÷ó íàä î÷àãîì;;x
+EVTOPTD4085;Wolf hunting tomorrow everybody!;;;;;;;;;;;Çàâòðà - îõîòà íà âîëêîâ!;;x
+EVTOPTD4115;I don't like the merchants, but their wares are fine;;;;;;;;;;;Ìíå íå íðàâÿòñÿ òîðãîâöû, íî èõ òîâàðû ïðåêðàñíû;;x
+EVTOPTD4120;Let me have at it!;;;;;;;;;;;Ïîçâîëüòå ìíå ó÷àñòâîâàòü â ýòîì!;;x
+EVTOPTD4125;A great event!;;;;;;;;;;;Âåëèêîå ñîáûòèå!;;x
+EVTOPTD4130;I must invite that minstrel to sing for me!;;;;;;;;;;;Íóæíî ïðèãëàñèòü ýòîãî ìåíåñòðåëÿ âûñòóïèòü äëÿ ìåíÿ!;;x
+EVTOPTD4145;He can stay for as long as he likes;;;;;;;;;;;Îí ìîæåò îñòàâàòüñÿ ñòîëüêî, ñêîëüêî åìó íðàâèòñÿ;;x
+EVTOPTD4150;I have no reason to believe him;;;;;;;;;;;Ó ìåíÿ íåò îñíîâàíèé âåðèòü åìó;;x
+EVTOPTD4155;I hope they know 'Falkenlied'!;;;;;;;;;;;Íàäåþñü, èì èçâåñòíà «Ïåñíü î ñîêîëå»;;x
+EVTOPTD4165;[Root.Spouse.GetTitledFirstName] wants to dance, but I think I will keep on drinking;;;;;;;;;;;[Root.Spouse.GetTitledFirstName] õî÷åò òàíöåâàòü, íî ÿ ëó÷øå áóäó ïèòü;;x
+EVTOPTE4007;Poor thing! Thrown into that ghastly prison...;;;;;;;;;;;Áåäíÿæêà! Áðîøåí â ýòó óæàñíóþ òþðüìó...;;x
+EVTOPTE4010;Such crimes will not go unpunished!;;;;;;;;;;;Òàêèå ïðåñòóïëåíèÿ íå ìîãóò îñòàâàòüñÿ áåçíàêàçàííûìè!;;x
+EVTOPTE4022;Cut off their ears;;;;;;;;;;;Óêîðîòèòå èì óøè!;;x
+EVTOPTE4023;The only good poacher is a dead poacher;;;;;;;;;;;Õîðîøèé áðàêîíüåð - ì¸ðòâûé áðàêîíüåð. Òîëüêî òàê!;;x
+EVTOPTE4050;Carve out his eyes!;;;;;;;;;;;Âûðåæüòå åìó ãëàçà!;;x
+EVTOPTE4115;Fairs are fun for all!;;;;;;;;;;;ßðìàðêè íðàâÿòñÿ âñåì!;;x
+EVTOPTE4120;A horse! A horse! My kingdom for a horse!;;;;;;;;;;;Êîíÿ! Êîíÿ! Ïîëöàðñòâà çà êîíÿ!;;x
+EVTOPTE4125;The wine will flow afterwards!;;;;;;;;;;;Âèíî ïîòå÷¸ò... ïîçæå!;;x
+EVTOPTE4145;Maybe he can help me with my poetry...;;;;;;;;;;;Âîçìîæíî, îí ñóìååò ïîìî÷ü ñ ìîèìè ñòèõàìè...;;x
+EVTOPTE4150;He's finally found his way home then!;;;;;;;;;;;Îí íàêîíåö íàø¸ë äîðîãó äîìîé!;;x
+EVTOPTE4155;I remember those two, they came here last year!;;;;;;;;;;;ß ïîìíþ ýòèõ äâóõ. Îíè óæå áûëè çäåñü â ïðîøëîì ãîäó;;x
+EVTOPTE4160;Hope he didn't dislocate his shoulder;;;;;;;;;;;Íàäåþñü, îí íå âûâèõíóë ñåáå ïëå÷î;;x
+EVTOPTE4165;They do look like they are having fun;;;;;;;;;;;Èì, ïîõîæå, âåñåëî;;x
+EVTOPTF4007;He will rot in prison!;;;;;;;;;;;Îí áóäåò ãíèòü â òþðüìå!;;x
+EVTOPTF4023;Killed? For some rabbits sake?!;;;;;;;;;;;Êàçíåíû? Çà ïàðó êðîëèêîâ?!;;x
+EVTOPTF4115;I think fairs should be banned;;;;;;;;;;;Ïîëàãàþ, ÿðìàðêè äîëæíû áûòü çàïðåùåíû;;x
+EVTOPTF4120;Let my doctor take a look at him;;;;;;;;;;;Ïîçâîëüòå ìîåìó äîêòîðó îñìîòðåòü åãî;;x
+EVTOPTF4150;I'd love to hear him sing!;;;;;;;;;;;ß õîòåë[Root.GetEndA] áû óñëûøàòü, êàê îí ïî¸ò!;;x
+EVTOPTF4155;They will be paid well, I assure you;;;;;;;;;;;Îíè áóäóò ùåäðî âîçíàãðàæäåíû;;x
+EVTOPTF4165;I'd love to dance!;;;;;;;;;;;ß ëþáëþ òàíöåâàòü!;;x
+EVTTOOLTIP4006;I hope [Root.Liege.GetTitledFirstName] will be just!;;;;;;;;;;;ß íàäåþñü, ÷òî [Root.Liege.GetTitledFirstName] áóäåò ñïðàâåäëèâ!;;x
+EVTTOOLTIP4007;[This.GetTitledFirstName] reacts to the thief's punishment;;;;;;;;;;;[This.GetTitledFirstName] ðåàãèðóåò íà íàêàçàíèå âîðà.;;x
+EVTTOOLTIP4008;Thank you, [This.GetTitledFirstName]!;;;;;;;;;;;Áëàãîäàðþ Âàñ, [This.GetTitledFirstName]!;;x
+EVTTOOLTIP4009;That was too harsh, [This.GetTitledFirstName]!;;;;;;;;;;;Ýòî áûëî ñëèøêîì, [This.GetTitledFirstName]!;;x
+EVTTOOLTIP4016;I should ask [Root.Host.GetTitledFirstName] to help me!;;;;;;;;;;;Íàäî ïîïðîñèòü ïîìîùè ó [Root.Host.GetTitledFirstName]!;;x
+EVTTOOLTIP4017;The issue is ignored;;;;;;;;;;;Ïðîáëåìà ïðîèãíîðèðîâàíà;;x
+EVTTOOLTIP4018;The issue is taken care of;;;;;;;;;;;Ïðîáëåìà ðåøåíà;;x
+EVTTOOLTIP4019;[This.GetTitledFirstName] is not happy about the punishment;;;;;;;;;;;[This.GetTitledFirstName] íå äîâîë[This.GetSoftNaEn] íàêàçàíèåì.;;x
+EVTTOOLTIP4021;Spymaster [Root.job_spymaster.GetTitledFirstName] and Marshal [Root.job_marshal.GetTitledFirstName] will search for poachers;;;;;;;;;;;[Root.GetSpymasterName] [Root.job_spymaster.GetTitledFirstName] è [Root.GetMarshalName] [Root.job_marshal.GetFirstName] áóäóò èñêàòü áðàêîíüåðîâ.;;x
+EVTTOOLTIP4022;The poachers are dragged before [This.GetTitledFirstName];;;;;;;;;;;[This.GetTitledFirstName] ïîëó÷èë æåëàåìîå, áðàêîíüåðû ïðåäñòàëè ïåðåä íèì.;;x
+EVTTOOLTIP4023;[This.GetTitledFirstName] is informed about the poacher's punishments;;;;;;;;;;;[This.GetTitledFirstName] óâåäîìëåí[This.GetEndA] î íàêàçàíèè áðàêîíüåðîâ.;;x
+EVTTOOLTIP4024;That is an acceptable punishment;;;;;;;;;;;Ýòî - ïðèåìëåìîå íàêàçàíèå.;;x
+EVTTOOLTIP4025;I hope I can change [This.GetTitledFirstName]'s mind!;;;;;;;;;;;ß íàäåþñü, ÷òî ñìîãó èçìåíèòü òî, ÷òî çàäóìàë[This.GetEndA] [This.GetTitledFirstName]!;;x
+EVTTOOLTIP4046;[This.GetTitledFirstName] is kidnapped!;;;;;;;;;;;[This.GetTitledFirstName] â ðóêàõ ïîõèòèòåëåé!;;x
+EVTTOOLTIP4047;I owe my thanks to [This.GetTitledFirstName] and my guards;;;;;;;;;;;ß áëàãîäàðþ Âàñ, [This.GetTitledFirstName], è ìîþ îõðàíó.;;x
+EVTTOOLTIP4111;[This.GetTitledFirstName] is invited to the banquet;;;;;;;;;;;[This.GetTitledFirstName] ïðèãëàøåí[This.GetEndA] íà áàíêåò;;x
+EVTTOOLTIP4112;[This.GetTitledFirstName] realizes that [This.GetSheHe] is not invited to [Root.GetTitledFirstName]'s banquette;;;;;;;;;;;[This.GetTitledFirstName] ïîíèìàåò, ÷òî íå ïðèãëàøåí[This.GetEndA] íà áàíêåò, êîòîðûé óñòðàèâàåò [Root.GetTitledFirstName];;x
+EVTTOOLTIP4113;Best Friends Forever?;;;;;;;;;;;Ëó÷øèå äðóçüÿ íàâñåãäà?;;x
+EVTTOOLTIP4146;[This.GetTitledFirstName] reacts to [Root.GetTitledFirstName]'s feelings towards the bard;;;;;;;;;;;[This.GetTitledFirstName] îáðàùàåò âíèìàíèå íà ÷óâñòâà [Root.GetTitledFirstName] ê áàðäó;;x
+EVTTOOLTIP4147;[This.GetTitledFirstName] distasteful behavior disgusts me!;;;;;;;;;;;Êîøìàðíîå ïîâåäåíèå [This.GetTitledFirstName] ìíå ïðîòèâíî!;;x
+EVTTOOLTIP4148;I will thank [This.GetTitledFirstName] for [This.GetHerHis] great behavior!;;;;;;;;;;;ß ïîáëàãîäàðþ [This.GetTitledFirstName] çà òî, êàê ðàäóøíî ïðèíÿëè áàðäà.;;x

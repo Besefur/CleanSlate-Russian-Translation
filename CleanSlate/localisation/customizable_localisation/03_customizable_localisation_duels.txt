@@ -1952,7 +1952,7 @@ defined_text = {
 	}
 }
 
-#Fetches the name of your warhorse (set in old HL-event)
+# Fetches the name of your warhorse (set in old HL-event)
 defined_text = {
 	name = GetWarhorseName
 	use_first_valid = yes

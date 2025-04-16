@@ -1,262 +1,253 @@
 # Special unit types
-camel_cavalry;Camel Cavalry;;;;;;;;;;;;;x
-camel_cavalry_defensive;Camel Cavalry Defense;;;;;;;;;;;;;x
-camel_cavalry_morale;Camel Cavalry Morale;;;;;;;;;;;;;x
-camel_cavalry_offensive;Camel Cavalry Attack;;;;;;;;;;;;;x
-horse_archers;Horse Archers;;;;;;;;;;;;;x
-horse_archers_defensive;Horse Archers Defense;;;;;;;;;;;;;x
-horse_archers_morale;Horse Archers Morale;;;;;;;;;;;;;x
-horse_archers_offensive;Horse Archers Attack;;;;;;;;;;;;;x
-war_elephants;War Elephants;;;;;;;;;;;;;x
-war_elephants_defensive;War Elephants Defense;;;;;;;;;;;;;x
-war_elephants_morale;War Elephants Morale;;;;;;;;;;;;;x
-war_elephants_offensive;War Elephants Attack;;;;;;;;;;;;;x
-
+camel_cavalry;Camel Cavalry;;;;;;;;;;;Âåðáëþæüè âñàäíèêè;;x
+camel_cavalry_defensive;Camel Cavalry Defense;;;;;;;;;;;Çàùèòà âåðáëþæüèõ âñàäíèêîâ;;x
+camel_cavalry_morale;Camel Cavalry Morale;;;;;;;;;;;Áîåâîé äóõ âåðáëþæüèõ âñàäíèêîâ;;x
+camel_cavalry_offensive;Camel Cavalry Attack;;;;;;;;;;;Àòàêà âåðáëþæüèõ âñàäíèêîâ;;x
+horse_archers;Horse Archers;;;;;;;;;;;Êîííûå ëó÷íèêè;;x
+horse_archers_defensive;Horse Archers Defense;;;;;;;;;;;Çàùèòà êîííûõ ëó÷íèêîâ;;x
+horse_archers_morale;Horse Archers Morale;;;;;;;;;;;Áîåâîé äóõ êîí. ëó÷íèêîâ;;x
+horse_archers_offensive;Horse Archers Attack;;;;;;;;;;;Àòàêà êîííûõ ëó÷íèêîâ;;x
+war_elephants;War Elephants;;;;;;;;;;;Áîåâûå Ñëîíû;;x
+war_elephants_defensive;War Elephants Defense;;;;;;;;;;;Çàùèòà áîåâûõ ñëîíîâ;;x
+war_elephants_morale;War Elephants Morale;;;;;;;;;;;Áîåâîé äóõ áîåâûõ ñëîíîâ;;x
+war_elephants_offensive;War Elephants Attack;;;;;;;;;;;Àòàêà áîåâûõ ñëîíîâ;;x
 # Generic
-monthly_grace;Monthly Grace;;;;;;;;;;;;;x
-religion_head_opinion;Religious Head Opinion;;;;;;;;;;;;;x
-
+monthly_grace;Monthly Grace;;;;;;;;;;;Ìèëîñòü â ìåñÿö;;x
+religion_head_opinion;Religious Head Opinion;;;;;;;;;;;Îòíîøåíèå ãëàâû öåðêâè;;x
 # Softcoded religion (group) modifiers
-aztec_pagan_opinion;[aztec_pagan_reformed.GetName] Opinion;;;;;;;;;;;;;x
-buddhist_opinion;[buddhist.GetName] Opinion;;;;;;;;;;;;;x
-catholic_opinion;[catholic.GetName] Opinion;;;;;;;;;;;;;x
-christian_opinion;[christian.GetGroupName] Opinion;;;;;;;;;;;;;x
-hellenic_pagan_opinion;[hellenic_pagan.GetName] Opinion;;;;;;;;;;;;;x
-hellenic_pagan_reformed_opinion;Reformed [hellenic_pagan_reformed.GetName] Opinion;;;;;;;;;;;;;x
-hindu_opinion;[hindu.GetName] Opinion;;;;;;;;;;;;;x
-indian_group_opinion;[indian_group.GetGroupName] Opinion;;;;;;;;;;;;;x
-jain_opinion;[jain.GetName] Opinion;;;;;;;;;;;;;x
-jewish_group_opinion;[jewish_group.GetGroupName] Opinion;;;;;;;;;;;;;x
-miaphysite_opinion;[miaphysite.GetName] Opinion;;;;;;;;;;;;;x
-muslim_opinion;[muslim.GetGroupName] Opinion;;;;;;;;;;;;;x
-norse_pagan_opinion;[norse_pagan.GetName] Opinion;;;;;;;;;;;;;x
-norse_pagan_reformed_opinion;Reformed [norse_pagan_reformed.GetName] Opinion;;;;;;;;;;;;;x
-orthodox_opinion;[orthodox.GetName] Opinion;;;;;;;;;;;;;x
-pagan_group_opinion;[pagan_group.GetGroupName] Opinion;;;;;;;;;;;;;x
-qarmatian_opinion;[qarmatian.GetName] Opinion;;;;;;;;;;;;;x
-shiite_opinion;[shiite.GetName] Opinion;;;;;;;;;;;;;x
-slavic_pagan_opinion;[slavic_pagan.GetName] Opinion;;;;;;;;;;;;;x
-slavic_pagan_reformed_opinion;Reformed [slavic_pagan_reformed.GetName] Opinion;;;;;;;;;;;;;x
-taoist_opinion;Taoist Opinion;;;;;;;;;;;;;x
-tengri_pagan_opinion;[tengri_pagan.GetName] Opinion;;;;;;;;;;;;;x
-tengri_pagan_reformed_opinion;Reformed [tengri_pagan_reformed.GetName] Opinion;;;;;;;;;;;;;x
-zoroastrian_group_opinion;[zoroastrian_group.GetName] Opinion;;;;;;;;;;;;;x
-zoroastrian_opinion;[zoroastrian_group.GetGroupName] Opinion;;;;;;;;;;;;;x
-zun_pagan_opinion;Zunist Opinion;;;;;;;;;;;;;x
-zun_pagan_reformed_opinion;Reformed Zunist Opinion;;;;;;;;;;;;;x
-
+aztec_pagan_opinion;[aztec_pagan_reformed.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [àöòåê]îâ;;x
+buddhist_opinion;[buddhist.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_áóääèñò]îâ;;x
+catholic_opinion;[catholic.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_êàòîëèê]îâ;;x
+christian_opinion;[christian.GetGroupName] Opinion;;;;;;;;;;;Îòíîøåíèå [_õðèñòèàí];;x
+hellenic_pagan_opinion;[hellenic_pagan.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [ýëëèí]îâ;;x
+hellenic_pagan_reformed_opinion;Reformed [hellenic_pagan_reformed.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå íîâûõ [ýëëèí]îâ;;x
+hindu_opinion;[hindu.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_èíäóèñò]îâ;;x
+indian_group_opinion;[indian_group.GetGroupName] Opinion;;;;;;;;;;;Îòíîøåíèå [_âîñòî÷íûõ] ðåëèãèé;;x
+jain_opinion;[jain.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_äæàéí]îâ;;x
+jewish_group_opinion;[jewish_group.GetGroupName] Opinion;;;;;;;;;;;Îòíîøåíèå [_èóäååâ];;x
+miaphysite_opinion;[miaphysite.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [ìèàôèçèò]îâ;;x
+muslim_opinion;[muslim.GetGroupName] Opinion;;;;;;;;;;;Îòíîøåíèå [_ìóñóëüìàí];;x
+norse_pagan_opinion;[norse_pagan.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_àñàòðó];;x
+norse_pagan_reformed_opinion;Reformed [norse_pagan_reformed.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå íîâûõ [__àñàòðó];;x
+orthodox_opinion;[orthodox.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_ïðàâîñëàâíûõ];;x
+pagan_group_opinion;[pagan_group.GetGroupName] Opinion;;;;;;;;;;;Îòíîøåíèå [_ÿçû÷íèê]îâ;;x
+qarmatian_opinion;[qarmatian.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_êàðìàò]îâ;;x
+shiite_opinion;[shiite.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [øèèò]îâ;;x
+slavic_pagan_opinion;[slavic_pagan.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_ðîäîâåð]îâ;;x
+slavic_pagan_reformed_opinion;Reformed [slavic_pagan_reformed.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå íîâûõ [_ðîäîâåð]îâ;;x
+taoist_opinion;Taoist Opinion;;;;;;;;;;;Ìíåíèå äàîñîâ;;x
+tengri_pagan_opinion;[tengri_pagan.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_òåíãðèàí];;x
+tengri_pagan_reformed_opinion;Reformed [tengri_pagan_reformed.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå íîâûõ [_òåíãðèàí];;x
+zoroastrian_group_opinion;[zoroastrian_group.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_ìàçäåèñòîâ];;x
+zoroastrian_opinion;[zoroastrian_group.GetGroupName] Opinion;;;;;;;;;;;Îòíîøåíèå [_çîðîàñòðèéöåâ];;x
+zun_pagan_opinion;Zunist Opinion;;;;;;;;;;;Îòíîøåíèå [çóí]ñêèõ ÿçû÷íèêîâ;;x
+zun_pagan_reformed_opinion;Reformed Zunist Opinion;;;;;;;;;;;Îòíîøåíèå íîâûõ [çóí]ñêèõ ÿçû÷íèêîâ;;x
 # Softcoded religion clergy opinion
-christian_church_opinion;[christian.GetGroupName] Church Opinion;;;;;;;;;;;;;x
-indian_group_church_opinion;[indian_group.GetGroupName] Church Opinion;;;;;;;;;;;;;x
-jewish_group_church_opinion;[jewish_group.GetGroupName] Church Opinion;;;;;;;;;;;;;x
-muslim_church_opinion;[muslim.GetGroupName] Church Opinion;;;;;;;;;;;;;x
-pagan_group_church_opinion;[pagan_group.GetGroupName] Church Opinion;;;;;;;;;;;;;x
-zoroastrian_group_church_opinion;[zoroastrian_group.GetGroupName] Church Opinion;;;;;;;;;;;;;x
-
+christian_church_opinion;[christian.GetGroupName] Church Opinion;;;;;;;;;;;Îòíîøåíèå [GetChristianGroupAdj]ñêîé öåðêâè;;x
+indian_group_church_opinion;[indian_group.GetGroupName] Church Opinion;;;;;;;;;;;Îòíîøåíèå [_âîñòî÷íûõ] ñâÿùåííîñëóæèòåëåé;;x
+jewish_group_church_opinion;[jewish_group.GetGroupName] Church Opinion;;;;;;;;;;;Îòíîøåíèå [_èóäåé]ñêèõ ñâÿùåííèêîâ;;x
+muslim_church_opinion;[muslim.GetGroupName] Church Opinion;;;;;;;;;;;Îòíîøåíèå [GetMuslimGroupAdj]ñêîãî äóõîâåíñòâà;;x
+pagan_group_church_opinion;[pagan_group.GetGroupName] Church Opinion;;;;;;;;;;;Îòíîøåíèå [_ÿçû÷å]ñêèõ æðåöîâ;;x
+zoroastrian_group_church_opinion;[zoroastrian_group.GetGroupName] Church Opinion;;;;;;;;;;;Îòíîøåíèå [_ìàçäåèñò]ñêèõ æðåöîâ;;x
 # Softcoded culture (group) modifiers
-afghan_opinion;[afghan.GetName] Opinion;;;;;;;;;;;;;x
-altaic_opinion;[altaic.GetGroupName] Opinion;;;;;;;;;;;;;x
-andalusian_opinion;[andalusian.GetName] Opinion;;;;;;;;;;;;;x
-armenian_opinion;[armenian.GetName] Opinion;;;;;;;;;;;;;x
-basque_opinion;[basque.GetName] Opinion;;;;;;;;;;;;;x
-bedouin_opinion;[bedouin.GetName] Opinion;;;;;;;;;;;;;x
-bodpa_opinion;[bodpa.GetName] Opinion;;;;;;;;;;;;;x
-bohemian_opinion;[bohemian.GetName] Opinion;;;;;;;;;;;;;x
-bolghar_opinion;[bolghar.GetName] Opinion;;;;;;;;;;;;;x
-bulgarian_opinion;[bulgarian.GetName] Opinion;;;;;;;;;;;;;x
-byzantine_opinion;[byzantine.GetGroupName] Opinion;;;;;;;;;;;;;x
-castilian_opinion;[castilian.GetName] Opinion;;;;;;;;;;;;;x
-catalan_opinion;[catalan.GetName] Opinion;;;;;;;;;;;;;x
-celtic_opinion;[celtic.GetGroupName] Opinion;;;;;;;;;;;;;x
-central_germanic_opinion;[central_germanic.GetGroupName] Opinion;;;;;;;;;;;;;x
-croatian_opinion;[croatian.GetName] Opinion;;;;;;;;;;;;;x
-dravidian_group_opinion;[dravidian_group.GetGroupName] Opinion;;;;;;;;;;;;;x
-east_african_opinion;[east_african.GetGroupName] Opinion;;;;;;;;;;;;;x
-east_slavic_opinion;[east_slavic.GetGroupName] Opinion;;;;;;;;;;;;;x
-egyptian_opinion;[egyptian.GetName] Opinion;;;;;;;;;;;;;x
-english_opinion;[english.GetName] Opinion;;;;;;;;;;;;;x
-french_opinion;[french.GetName] Opinion;;;;;;;;;;;;;x
-georgian_opinion;[georgian.GetName] Opinion;;;;;;;;;;;;;x
-german_opinion;[german.GetName] Opinion;;;;;;;;;;;;;x
-greek_opinion;[greek.GetName] Opinion;;;;;;;;;;;;;x
-hausa_opinion;[hausa.GetName] Opinion;;;;;;;;;;;;;x
-horse_opinion;Horse Opinion;;;;;;;;;;;;;x
-hungarian_opinion;[hungarian.GetName] Opinion;;;;;;;;;;;;;x
-iberian_opinion;[iberian.GetGroupName] Opinion;;;;;;;;;;;;;x
-indo_aryan_group_opinion;[indo_aryan_group.GetGroupName] Opinion;;;;;;;;;;;;;x
-iranian_opinion;[iranian.GetGroupName] Opinion;;;;;;;;;;;;;x
-irish_opinion;[irish.GetName] Opinion;;;;;;;;;;;;;x
-italian_opinion;Italian Opinion;;;;;;;;;;;;;x
-khazar_opinion;[khazar.GetName] Opinion;;;;;;;;;;;;;x
-latin_opinion;[latin.GetGroupName] Opinion;;;;;;;;;;;;;x
-berber_opinion;[berber.GetName] Opinion;;;;;;;;;;;;;x
-mande_opinion;[mande.GetName] Opinion;;;;;;;;;;;;;x
-mongol_opinion;[mongol.GetName] Opinion;;;;;;;;;;;;;x
-norman_opinion;[norman.GetName] Opinion;;;;;;;;;;;;;x
-norse_opinion;[norse.GetName] Opinion;;;;;;;;;;;;;x
-norwegian_opinion;[norwegian.GetName] Opinion;;;;;;;;;;;;;x
-occitan_opinion;[occitan.GetName] Opinion;;;;;;;;;;;;;x
-frankish_opinion;[frankish.GetName] Opinion;;;;;;;;;;;;;x
-persian_opinion;[persian.GetName] Opinion;;;;;;;;;;;;;x
-polish_opinion;[polish.GetName] Opinion;;;;;;;;;;;;;x
-portuguese_opinion;[portuguese.GetName] Opinion;;;;;;;;;;;;;x
-roman_opinion;[roman.GetName] Opinion;;;;;;;;;;;;;x
-russian_opinion;[russian.GetName] Opinion;;;;;;;;;;;;;x
-anglo_saxon_opinion;[anglo_saxon.GetName] Opinion;;;;;;;;;;;;;x
-scottish_opinion;[scottish.GetName] Opinion;;;;;;;;;;;;;x
-south_slavic_opinion;[south_slavic.GetGroupName] Opinion;;;;;;;;;;;;;x
-tibetan_group_opinion;[tibetan_group.GetGroupName] Opinion;;;;;;;;;;;;;x
-turkish_opinion;[turkish.GetName] Opinion;;;;;;;;;;;;;x
-welsh_opinion;[welsh.GetName] Opinion;;;;;;;;;;;;;x
-west_germanic_opinion;[west_germanic.GetGroupName] Opinion;;;;;;;;;;;;;x
-west_slavic_opinion;[west_slavic.GetGroupName] Opinion;;;;;;;;;;;;;x
-
+afghan_opinion;[afghan.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_àôãàíöåâ];;x
+altaic_opinion;[altaic.GetGroupName] Opinion;;;;;;;;;;;Îòíîøåíèå [_àëòàéöåâ];;x
+andalusian_opinion;[andalusian.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_àíäàëóçîâ];;x
+armenian_opinion;[armenian.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_àðìÿí];;x
+basque_opinion;[basque.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_áàñêîâ];;x
+bedouin_opinion;[bedouin.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_áåäóèíîâ];;x
+bodpa_opinion;[bodpa.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_òèáåòöåâ];;x
+bohemian_opinion;[bohemian.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_÷åõîâ];;x
+bolghar_opinion;[bolghar.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_áóëãàð];;x
+bulgarian_opinion;[bulgarian.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_áîëãàð];;x
+byzantine_opinion;[byzantine.GetGroupName] Opinion;;;;;;;;;;;Îòíîøåíèå [_âèçàíòèéöåâ];;x
+castilian_opinion;[castilian.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_êàñòèëüöåâ];;x
+catalan_opinion;[catalan.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_êàòàëîíöåâ];;x
+celtic_opinion;[celtic.GetGroupName] Opinion;;;;;;;;;;;Îòíîøåíèå [_êåëüòîâ];;x
+central_germanic_opinion;[central_germanic.GetGroupName] Opinion;;;;;;;;;;;Îòíîøåíèå [_öåíòðàëüíûõãåðìàíöåâ];;x
+croatian_opinion;[croatian.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_õîðâàòîâ];;x
+dravidian_group_opinion;[dravidian_group.GetGroupName] Opinion;;;;;;;;;;;Îòíîøåíèå [_äðàâèäèéöåâ];;x
+east_african_opinion;[east_african.GetGroupName] Opinion;;;;;;;;;;;Îòíîøåíèå [_âîñòî÷íûõàôðèêàíöåâ];;x
+east_slavic_opinion;[east_slavic.GetGroupName] Opinion;;;;;;;;;;;Îòíîøåíèå [_âîñòî÷íûõñëàâÿí];;x
+egyptian_opinion;[egyptian.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_åãèïòÿí];;x
+english_opinion;[english.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_àíãëè÷àí];;x
+french_opinion;[french.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_ôðàíöóçîâ];;x
+georgian_opinion;[georgian.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_ãðóçèí];;x
+german_opinion;[german.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_ãåðìàíöåâ];;x
+greek_opinion;[greek.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_ãðåêîâ];;x
+hausa_opinion;[hausa.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_õàóñà];;x
+horse_opinion;Horse Opinion;;;;;;;;;;;Ìíåíèå ëîøàäåé;;x
+hungarian_opinion;[hungarian.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_ìàäüÿð];;x
+iberian_opinion;[iberian.GetGroupName] Opinion;;;;;;;;;;;Îòíîøåíèå [_èáåðèéöåâ];;x
+indo_aryan_group_opinion;[indo_aryan_group.GetGroupName] Opinion;;;;;;;;;;;Îòíîøåíèå [_èíäîàðèéöåâ];;x
+iranian_opinion;[iranian.GetGroupName] Opinion;;;;;;;;;;;Îòíîøåíèå [_èðàíöåâ];;x
+irish_opinion;[irish.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_èðëàíäöåâ];;x
+italian_opinion;Italian Opinion;;;;;;;;;;;Îòíîøåíèå [_èòàëüÿíöåâ];;x
+khazar_opinion;[khazar.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_õàçàð];;x
+latin_opinion;[latin.GetGroupName] Opinion;;;;;;;;;;;Îòíîøåíèå [_ëàòèíÿí];;x
+berber_opinion;[berber.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_áåðáåðîâ];;x
+mande_opinion;[mande.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_ìàíäåíîâ];;x
+mongol_opinion;[mongol.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_ìîíãîëîâ];;x
+norman_opinion;[norman.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_íîðìàííîâ];;x
+norse_opinion;[norse.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_ñêàíäèíàâîâ];;x
+norwegian_opinion;[norwegian.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_íîðâåæöåâ];;x
+occitan_opinion;[occitan.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_îêñèòàíöåâ];;x
+frankish_opinion;[frankish.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_ôðàíêîâ];;x
+persian_opinion;[persian.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_ïåðñîâ];;x
+polish_opinion;[polish.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_ïîëÿêîâ];;x
+portuguese_opinion;[portuguese.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_ïîðòóãàëüöåâ];;x
+roman_opinion;[roman.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_ðèìëÿí];;x
+russian_opinion;[russian.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_ðóñîâ];;x
+anglo_saxon_opinion;[anglo_saxon.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_àíãëîñàêñîâ];;x
+scottish_opinion;[scottish.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_øîòëàíäöåâ];;x
+south_slavic_opinion;[south_slavic.GetGroupName] Opinion;;;;;;;;;;;Îòíîøåíèå [_þæíûõñëàâÿí];;x
+tibetan_group_opinion;[tibetan_group.GetGroupName] Opinion;;;;;;;;;;;Îòíîøåíèå [_òèáåòî-áèðìàíöåâ];;x
+turkish_opinion;[turkish.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_òþðêîâ];;x
+welsh_opinion;[welsh.GetName] Opinion;;;;;;;;;;;Îòíîøåíèå [_âàëëèéöåâ];;x
+west_germanic_opinion;[west_germanic.GetGroupName] Opinion;;;;;;;;;;;Îòíîøåíèå [_çàïàäíûõãåðìàíöåâ];;x
+west_slavic_opinion;[west_slavic.GetGroupName] Opinion;;;;;;;;;;;Îòíîøåíèå [_çàïàäíûõñëàâÿí];;x
 # Traits
-ambitious_opinion;Ambitious Opinion;;;;;;;;;;;;;x
-ambitious_opinion_EXPLANATION; (effect on Ambitious);;;;;;;;;;;;;x
-attractive_opinion;Attractive Opinion;;;;;;;;;;;;;x
-attractive_opinion_EXPLANATION; (effect on Attractive);;;;;;;;;;;;;x
-bastard_opinion;Bastard Opinion;;;;;;;;;;;;;x
-bastard_opinion_EXPLANATION; (effect on Bastard);;;;;;;;;;;;;x
-bloodthirsty_gods_1_opinion;Haemophiliac Opinion;;;;;;;;;;;;;x
-bloodthirsty_gods_1_opinion_EXPLANATION; (effect on Haemophiliac);;;;;;;;;;;;;x
-bloodthirsty_gods_2_opinion;Haemophant Opinion;;;;;;;;;;;;;x
-bloodthirsty_gods_2_opinion_EXPLANATION; (effect on Haemophant);;;;;;;;;;;;;x
-bloodthirsty_gods_3_opinion;Haemoarch Opinion;;;;;;;;;;;;;x
-bloodthirsty_gods_3_opinion_EXPLANATION; (effect on Haemoarch);;;;;;;;;;;;;x
-brave_opinion;Brave Opinion;;;;;;;;;;;;;x
-brave_opinion_EXPLANATION; (effect on Brave);;;;;;;;;;;;;x
-charitable_opinion;Charitable Opinion;;;;;;;;;;;;;x
-clubfooted_opinion;Clubfooted Opinion;;;;;;;;;;;;;x
-clubfooted_opinion_EXPLANATION; (effect on Clubfooted);;;;;;;;;;;;;x
-cruel_opinion;Cruel Opinion;;;;;;;;;;;;;x
-deceitful_opinion;Deceitful Opinion;;;;;;;;;;;;;x
-diligent_opinion;Diligent Opinion;;;;;;;;;;;;;x
-drunkard_opinion;Drunkard Opinion;;;;;;;;;;;;;x
-duelist_opinion;Duelist Opinion;;;;;;;;;;;;;x
-duelist_opinion_EXPLANATION; (effect on Duelist);;;;;;;;;;;;;x
-falconer_opinion;Falconer Opinion;;;;;;;;;;;;;x
-gardener_opinion;Gardener Opinion;;;;;;;;;;;;;x
-greedy_opinion;Greedy Opinion;;;;;;;;;;;;;x
-humble_opinion;Humble Opinion;;;;;;;;;;;;;x
-humble_opinion_EXPLANATION; (effect on Humble);;;;;;;;;;;;;x
-hunter_opinion;Hunter Opinion;;;;;;;;;;;;;x
-hunter_opinion_EXPLANATION; (effect on Hunter);;;;;;;;;;;;;x
-just_opinion;Just Opinion;;;;;;;;;;;;;x
-kind_opinion;Kind Opinion;;;;;;;;;;;;;x
-legit_bastard_opinion;Legitimized Bastard Opinion;;;;;;;;;;;;;x
-legit_bastard_opinion_EXPLANATION; (effect on Legitimized Bastard);;;;;;;;;;;;;x
-lustful_opinion;Lustful character opinion;;;;;;;;;;;;;x
-lustful_opinion_EXPLANATION; (effect on Lustful);;;;;;;;;;;;;x
-opinion_of_humble_EXPLANATION; (opinion of Humble);;;;;;;;;;;;;x
-opinion_of_lustful;Opinion of Lustful;;;;;;;;;;;;;x
-opinion_of_lustful_EXPLANATION; (opinion of Lustful);;;;;;;;;;;;;x
-opinion_of_patient_EXPLANATION; (opinion of Patient);;;;;;;;;;;;;x
-opinion_of_proud_EXPLANATION; (opinion of Proud);;;;;;;;;;;;;x
-patient_opinion;Patient Opinion;;;;;;;;;;;;;x
-patient_opinion_EXPLANATION; (effect on Patient);;;;;;;;;;;;;x
-pirate_opinion;Pirate Opinion;;;;;;;;;;;;;x
-pirate_opinion_EXPLANATION; (effect on Pirate);;;;;;;;;;;;;x
-poet_opinion;Poet Opinion;;;;;;;;;;;;;x
-proud_opinion;Proud Opinion;;;;;;;;;;;;;x
-proud_opinion_EXPLANATION; (effect on Proud);;;;;;;;;;;;;x
-ravager_opinion;Ravager Opinion;;;;;;;;;;;;;x
-ravager_opinion_EXPLANATION; (effect on Ravager);;;;;;;;;;;;;x
-scholar_opinion;Scholar Opinion;;;;;;;;;;;;;x
-sea_king_opinion;Sea King Opinion;;;;;;;;;;;;;x
-sea_king_opinion_EXPLANATION; (effect on Sea King);;;;;;;;;;;;;x
-sea_queen_opinion;Sea Queen Opinion;;;;;;;;;;;;;x
-sea_queen_opinion_EXPLANATION; (effect on Sea Queen);;;;;;;;;;;;;x
-strategist_opinion;Strategist Opinion;;;;;;;;;;;;;x
-strategist_opinion_EXPLANATION; (effect on Strategist);;;;;;;;;;;;;x
-viking_opinion;Viking Opinion;;;;;;;;;;;;;x
-viking_opinion_EXPLANATION; (effect on Viking);;;;;;;;;;;;;x
-wroth_opinion;Wroth Opinion;;;;;;;;;;;;;x
-zealous_opinion;Zealous Opinion;;;;;;;;;;;;;x
-zealous_opinion_EXPLANATION; (effect on Zealous);;;;;;;;;;;;;x
-
+ambitious_opinion;Ambitious Opinion;;;;;;;;;;;Îòíîøåíèå àìáèöèîçíûõ;;x
+ambitious_opinion_EXPLANATION; (effect on Ambitious);;;;;;;;;;; (îòíîøåíèå àìáèöèîçíûõ);;x
+attractive_opinion;Attractive Opinion;;;;;;;;;;;Îòíîøåíèå ïðèâëåêàòåëüíûõ;;x
+attractive_opinion_EXPLANATION; (effect on Attractive);;;;;;;;;;; (îòíîøåíèå ïðèâëåêàòåëüíûõ);;x
+bastard_opinion;Bastard Opinion;;;;;;;;;;;Îòíîøåíèå áàñòàðäîâ;;x
+bastard_opinion_EXPLANATION; (effect on Bastard);;;;;;;;;;; (îòíîøåíèå áàñòàðäîâ);;x
+bloodthirsty_gods_1_opinion;Haemophiliac Opinion;;;;;;;;;;;Îòíîøåíèå ãåìîôèëîâ;;x
+bloodthirsty_gods_1_opinion_EXPLANATION; (effect on Haemophiliac);;;;;;;;;;; (îòíîøåíèå ãåìîôèëîâ);;x
+bloodthirsty_gods_2_opinion;Haemophant Opinion;;;;;;;;;;;Îòíîøåíèå ãåìîôàíòîâ;;x
+bloodthirsty_gods_2_opinion_EXPLANATION; (effect on Haemophant);;;;;;;;;;; (îòíîøåíèå ãåìîôàíòîâ);;x
+bloodthirsty_gods_3_opinion;Haemoarch Opinion;;;;;;;;;;;Îòíîøåíèå ãåìàðõîâ;;x
+bloodthirsty_gods_3_opinion_EXPLANATION; (effect on Haemoarch);;;;;;;;;;; (îòíîøåíèå ãåìàðõîâ);;x
+brave_opinion;Brave Opinion;;;;;;;;;;;Îòíîøåíèå õðàáðûõ;;x
+brave_opinion_EXPLANATION; (effect on Brave);;;;;;;;;;; (îòíîøåíèå õðàáðûõ);;x
+charitable_opinion;Charitable Opinion;;;;;;;;;;;Îòíîøåíèå ùåäðûõ;;x
+clubfooted_opinion;Clubfooted Opinion;;;;;;;;;;;Îòíîøåíèå êîñîëàïûõ;;x
+clubfooted_opinion_EXPLANATION; (effect on Clubfooted);;;;;;;;;;; (îòíîøåíèå êîñîëàïûõ);;x
+cruel_opinion;Cruel Opinion;;;;;;;;;;;Îòíîøåíèå æåñòîêèõ;;x
+deceitful_opinion;Deceitful Opinion;;;;;;;;;;;Îòíîøåíèå êîâàðíûõ;;x
+diligent_opinion;Diligent Opinion;;;;;;;;;;;Îòíîøåíèå óñåðäíûõ;;x
+drunkard_opinion;Drunkard Opinion;;;;;;;;;;;Îòíîøåíèå ïüÿíèö;;x
+duelist_opinion;Duelist Opinion;;;;;;;;;;;Îòíîøåíèå äóýëÿíòîâ;;x
+duelist_opinion_EXPLANATION; (effect on Duelist);;;;;;;;;;; (îòíîøåíèå äóýëÿíòîâ);;x
+falconer_opinion;Falconer Opinion;;;;;;;;;;;Îòíîøåíèå ñîêîëüíè÷èõ;;x
+gardener_opinion;Gardener Opinion;;;;;;;;;;;Îòíîøåíèå ñàäîâîäîâ;;x
+greedy_opinion;Greedy Opinion;;;;;;;;;;;Îòíîøåíèå æàäíûõ;;x
+humble_opinion;Humble Opinion;;;;;;;;;;;Îòíîøåíèå ñêðîìíûõ;;x
+humble_opinion_EXPLANATION; (effect on Humble);;;;;;;;;;; (îòíîøåíèå ñêðîìíûõ);;x
+hunter_opinion;Hunter Opinion;;;;;;;;;;;Îòíîøåíèå îõîòíèêîâ;;x
+hunter_opinion_EXPLANATION; (effect on Hunter);;;;;;;;;;; (îòíîøåíèå îõîòíèêîâ);;x
+just_opinion;Just Opinion;;;;;;;;;;;Îòíîøåíèå ñïðàâåäëèâûõ;;x
+kind_opinion;Kind Opinion;;;;;;;;;;;Îòíîøåíèå äîáðûõ;;x
+legit_bastard_opinion;Legitimized Bastard Opinion;;;;;;;;;;;Îòíîøåíèå óçàêîíåííûõ áàñòàðäîâ;;x
+legit_bastard_opinion_EXPLANATION; (effect on Legitimized Bastard);;;;;;;;;;; (îòíîøåíèå óçàêîíåííûõ áàñòàðäîâ);;x
+lustful_opinion;Lustful character opinion;;;;;;;;;;;Îòíîøåíèå ïîõîòëèâûõ;;x
+lustful_opinion_EXPLANATION; (effect on Lustful);;;;;;;;;;; (îòíîøåíèå ïîõîòëèâûõ);;x
+opinion_of_humble_EXPLANATION; (opinion of Humble);;;;;;;;;;; (ìíåíèå î ñêðîìíûõ);;x
+opinion_of_lustful;Opinion of Lustful;;;;;;;;;;;Îòíîøåíèå ê ïîõîòëèâûì;;x
+opinion_of_lustful_EXPLANATION; (opinion of Lustful);;;;;;;;;;; (îòíîøåíèå ê ïîõîòëèâûì);;x
+opinion_of_patient_EXPLANATION; (opinion of Patient);;;;;;;;;;; (ìíåíèå î òåðïåëèâûõ);;x
+opinion_of_proud_EXPLANATION; (opinion of Proud);;;;;;;;;;; (ìíåíèå î âûñîêîìåðíûõ);;x
+patient_opinion;Patient Opinion;;;;;;;;;;;Îòíîøåíèå òåðïåëèâûõ;;x
+patient_opinion_EXPLANATION; (effect on Patient);;;;;;;;;;; (îòíîøåíèå òåðïåëèâûõ);;x
+pirate_opinion;Pirate Opinion;;;;;;;;;;;Ìíåíèå ïèðàòîâ;;x
+pirate_opinion_EXPLANATION; (effect on Pirate);;;;;;;;;;; (ýôôåêò îò ïèðàòà);;x
+poet_opinion;Poet Opinion;;;;;;;;;;;Îòíîøåíèå ïîýòîâ;;x
+proud_opinion;Proud Opinion;;;;;;;;;;;Îòíîøåíèå âûñîêîìåðíûõ;;x
+proud_opinion_EXPLANATION; (effect on Proud);;;;;;;;;;; (îòíîøåíèå âûñîêîìåðíûõ);;x
+ravager_opinion;Ravager Opinion;;;;;;;;;;;Îòíîøåíèå ðàçîðèòåëåé;;x
+ravager_opinion_EXPLANATION; (effect on Ravager);;;;;;;;;;; (îòíîøåíèå ðàçîðèòåëåé);;x
+scholar_opinion;Scholar Opinion;;;;;;;;;;;Îòíîøåíèå ó÷¸íûõ;;x
+sea_king_opinion;Sea King Opinion;;;;;;;;;;;Îòíîøåíèå ïîâåëèòåëåé ìîðåé;;x
+sea_king_opinion_EXPLANATION; (effect on Sea King);;;;;;;;;;; (îòíîøåíèå ïîâåëèòåëåé ìîðåé);;x
+sea_queen_opinion;Sea Queen Opinion;;;;;;;;;;;Îòíîøåíèå âëàäû÷èö ìîðåé;;x
+sea_queen_opinion_EXPLANATION; (effect on Sea Queen);;;;;;;;;;; (îòíîøåíèå âëàäû÷èö ìîðåé);;x
+strategist_opinion;Strategist Opinion;;;;;;;;;;;Îòíîøåíèå ñòðàòåãîâ;;x
+strategist_opinion_EXPLANATION; (effect on Strategist);;;;;;;;;;; (îòíîøåíèå ñòðàòåãîâ);;x
+viking_opinion;Viking Opinion;;;;;;;;;;;Îòíîøåíèå âèêèíãîâ;;x
+viking_opinion_EXPLANATION; (effect on Viking);;;;;;;;;;; (îòíîøåíèå âèêèíãîâ);;x
+wroth_opinion;Wroth Opinion;;;;;;;;;;;Îòíîøåíèå ãíåâíûõ;;x
+zealous_opinion;Zealous Opinion;;;;;;;;;;;Îòíîøåíèå íàáîæíûõ;;x
+zealous_opinion_EXPLANATION; (effect on Zealous);;;;;;;;;;; (îòíîøåíèå íàáîæíûõ);;x
 # Bloodlines
-saintly_benedictine_bloodline;Benedictine Diligence\nA small chance of getting the aid of the Benedictines;;;;;;;;;;;;;x
-saintly_bishops_bloodline;Princes and Bishops\nAn easier time handling all kinds of bishops;;;;;;;;;;;;;x
-saintly_crusader_bloodline;Crusader Family\nAn easier time gaining participation bonuses in Crusades;;;;;;;;;;;;;x
-saintly_cultural_bloodline;§GConvert Counties§! to your §GCulture§! faster;;;;;;;;;;;;;x
-saintly_defender_bloodline;§GZealots§! periodically join wars against Heathens;;;;;;;;;;;;;x
-saintly_hermetic_bloodline;Papal Alchemists\nThe Pope approves of your hermetic work;;;;;;;;;;;;;x
-saintly_inquisitional_bloodline;§GConvert Counties§! to your §GReligion§! faster;;;;;;;;;;;;;x
-saintly_jewish_bloodline;Friendly relations with the Jews;;;;;;;;;;;;;x
-saintly_monastic_bloodline;Gain more §GDevotion§! in §GMonastic Societies§!;;;;;;;;;;;;;x
-saintly_protector_bloodline;Protectors of the Faith\nThe Pope will more often support your work against the heathens;;;;;;;;;;;;;x
-saintly_theologians_bloodline;Periodically attracts the servitude of §GGreat Theologians§!;;;;;;;;;;;;;x
-
+saintly_benedictine_bloodline;Benedictine Diligence\nA small chance of getting the aid of the Benedictines;;;;;;;;;;;Áåíåäèêòèíñêîå óñåðäèå\nÍåáîëüøîé øàíñ ïîëó÷èòü ïîìîùü îò áåíåäèêòèíöåâ;;x
+saintly_bishops_bloodline;Princes and Bishops\nAn easier time handling all kinds of bishops;;;;;;;;;;;Êíÿçüÿ è åïèñêîïû\nËåã÷å óïðàâëÿòü åïèñêîïàìè;;x
+saintly_crusader_bloodline;Crusader Family\nAn easier time gaining participation bonuses in Crusades;;;;;;;;;;;Ñåìüÿ êðåñòîíîñöåâ\nËåã÷å ïîëó÷àòü áîíóñû îò ó÷àñòèÿ â êðåñòîâûõ ïîõîäàõ;;x
+saintly_cultural_bloodline;§GConvert Counties§! to your §GCulture§! faster;;;;;;;;;;;§GÎáðàùåíèå§! íàñåëåíèÿ îêðóãîâ â Âàøó §Gêóëüòóðó§! èä¸ò áûñòðåå;;x
+saintly_defender_bloodline;§GZealots§! periodically join wars against Heathens;;;;;;;;;;;§GÈçóâåðû§! ïåðèîäè÷åñêè âñòóïàþò â âîéíû ïðîòèâ èíîâåðöåâ;;x
+saintly_hermetic_bloodline;Papal Alchemists\nThe Pope approves of your hermetic work;;;;;;;;;;;Ïàïñêèå àëõèìèêè\nÏàïà îäîáðÿåò Âàøè ãåðìåòè÷åñêèå èçûñêàíèÿ;;x
+saintly_inquisitional_bloodline;§GConvert Counties§! to your §GReligion§! faster;;;;;;;;;;;§GÎáðàùåíèå§! íàñåëåíèÿ îêðóãîâ â Âàøó §Gðåëèãèþ§! èä¸ò áûñòðåå;;x
+saintly_jewish_bloodline;Friendly relations with the Jews;;;;;;;;;;;Äðóæåñêèå îòíîøåíèÿ ñ èóäåÿìè;;x
+saintly_monastic_bloodline;Gain more §GDevotion§! in §GMonastic Societies§!;;;;;;;;;;;Äà¸ò áîëüøå §Gïðàâåäíîñòè§! â §Gìîíàøåñêèõ îðäåíàõ§!;;x
+saintly_protector_bloodline;Protectors of the Faith\nThe Pope will more often support your work against the heathens;;;;;;;;;;;Çàùèòíèêè âåðû\nÏàïà áóäåò ÷àùå ïîääåðæèâàòü Âàøó áîðüáó ïðîòèâ èíîâåðöåâ;;x
+saintly_theologians_bloodline;Periodically attracts the servitude of §GGreat Theologians§!;;;;;;;;;;;Ïåðèîäè÷åñêè ïðèâëåêàåò íà ñëóæáó §Gâåëèêèõ áîãîñëîâîâ§!;;x
 # Bloodline effects
-bloodline_effect_always_viking;Raiding can give the §GViking Traits§!;;;;;;;;;;;;;x
-bloodline_effect_ambition;Characters tend to become §GAmbitious§!;;;;;;;;;;;;;x
-bloodline_effect_architect;Has access to special §YCity§! buildings;;;;;;;;;;;;;x
-bloodline_effect_artisan_craftsmen;Characters have §YSmiths§! strive to please them.;;;;;;;;;;;;;x
-bloodline_effect_battle_bards;Unlocks special actions on the battlefield.;;;;;;;;;;;;;x
-bloodline_effect_battle_survivor;§GResilient§! to §YBattle Injuries§!;;;;;;;;;;;;;x
-bloodline_effect_better_inquisition;§YCourt Chaplains§! convert §YCounties§! faster;;;;;;;;;;;;;x
-bloodline_effect_blinding;Can §YBlind§! others;;;;;;;;;;;;;x
-bloodline_effect_blood_building;Has access to special §YCastle§! buildings;;;;;;;;;;;;;x
-bloodline_effect_bloodline_mercenary_traditions;Children can prove themselves as §GMercenaries§!;;;;;;;;;;;;;x
-bloodline_effect_brazen_bull;Can use the §YBrazen Bull§! to execute prisoners.;;;;;;;;;;;;;x
-bloodline_effect_castellan;Has access to special §YCastle§! buildings;;;;;;;;;;;;;x
-bloodline_effect_castration;Can §YCastrate§! others;;;;;;;;;;;;;x
-bloodline_effect_cheap_reconquista;Can §YPrepare a Reconquest War§! §GCheaper§!;;;;;;;;;;;;;x
-bloodline_effect_convert_zhangzhung_and_sumpa;Increased Culture Conversion speed to §G[bodpa.GetName]§! from §Y[zhangzhung.GetName]§! and §Y[sumpa.GetName]§!;;;;;;;;;;;;;x
-bloodline_effect_crusade_lord;§GCheaper§! §YCrusader States§!;;;;;;;;;;;;;x
-bloodline_effect_dismantle_factions;Can temporarily §YDissolve Factions§!;;;;;;;;;;;;;x
-bloodline_effect_drill;Can use decision to §YDrill§! troops;;;;;;;;;;;;;x
-bloodline_effect_duel;Enables §GDueling§!;;;;;;;;;;;;;x
-bloodline_effect_dynastic_meddling;Can influence younger\n §YClose Relatives§!;;;;;;;;;;;;;x
-bloodline_effect_easy_vows;Easier to Order relatives to take Vows;;;;;;;;;;;;;x
-bloodline_effect_enatic_cognatic;Enables §GEnatic-Cognatic Succession§!;;;;;;;;;;;;;x
-bloodline_effect_endearing;Rulers can §YEndear§! neighbors and subjects;;;;;;;;;;;;;x
-bloodline_effect_faster_claims;Can §YFabricate Claims§! faster;;;;;;;;;;;;;x
-bloodline_effect_faster_dissent;Can §YSow Dissent§! faster;;;;;;;;;;;;;x
-bloodline_effect_faster_hindu;§GConvert Counties§! to §GHindu§! faster;;;;;;;;;;;;;x
-bloodline_effect_fearsome;Increases the chance of capturing enemy Commanders.;;;;;;;;;;;;;x
-bloodline_effect_free_legitimize;Legitimizing Bastards is §GFree§!;;;;;;;;;;;;;x
-bloodline_effect_grand_crusader;Get a larger share of §GCrusade War Chest§!;;;;;;;;;;;;;x
-bloodline_effect_great_heroes_appear;Periodically attracts the servitude of §GGreat Warriors§! (if §Y[From.Founder.Religion.GetName]§!);;;;;;;;;;;;;x
-bloodline_effect_indomitable;Does not suffer §YLethal Injuries§! in battles;;;;;;;;;;;;;x
-bloodline_effect_inquisitional;§GConvert Counties§! to your §YReligion§! faster;;;;;;;;;;;;;x
-bloodline_effect_inspire_commanders;The §YPromote Commander§! decision attracts better commanders.;;;;;;;;;;;;;x
-bloodline_effect_israel_loans;Can borrow from the §GBanks of Israel§!;;;;;;;;;;;;;x
-bloodline_effect_joining_warrior_lodge;Characters have an easier time joining §GWarrior Lodges§!;;;;;;;;;;;;;x
-bloodline_effect_knights;Attracts wandering §YKnights§!, §YBards§! and §YDamsels§!;;;;;;;;;;;;;x
-bloodline_effect_less_factions;Vassals are less likely to join §YFactions§!.;;;;;;;;;;;;;x
-bloodline_effect_loyal_councilors;Characters tend to have their Councilors be §YLoyal§!.;;;;;;;;;;;;;x
-bloodline_effect_macabre_banquet;Can add executed prisoners to the §YMacabre Banquet§!.;;;;;;;;;;;;;x
-bloodline_effect_monumental;Has access to special §YTemple§! buildings;;;;;;;;;;;;;x
-bloodline_effect_more_philosophers;§YResearch Cultural Tech§! is more effective;;;;;;;;;;;;;x
-bloodline_effect_more_raiders;§GOrganizing Raids§! is faster and more fruitful;;;;;;;;;;;;;x
-bloodline_effect_murder_burn;Can burn prisoners;;;;;;;;;;;;;x
-bloodline_effect_murder_child;Wards are more hazardous;;;;;;;;;;;;;x
-bloodline_effect_murder_deflection;Can restore reputation through §YObfuscation§!.;;;;;;;;;;;;;x
-bloodline_effect_murder_stalk;Can personally pursue §Ymurder plots§!;;;;;;;;;;;;;x
-bloodline_effect_one_invasion;Can use §YInvasion§! once per lifetime;;;;;;;;;;;;;x
-bloodline_effect_peace_prosperity;Faster at gaining §YProsperity§!;;;;;;;;;;;;;x
-bloodline_effect_pet_dog;Characters tend to keep hunting dogs.;;;;;;;;;;;;;x
-bloodline_effect_pet_eagle;Characters tend to keep hunting birds.;;;;;;;;;;;;;x
-bloodline_effect_prestige_sacrifice;§GSacrificing Prisoners§! yields an additional §GPrestige§! reward;;;;;;;;;;;;;x
-bloodline_effect_princely_elective_boon;§YPrincely Elective§! §GBoon§!;;;;;;;;;;;;;x
-bloodline_effect_qarmatian_leader;§Y[qarmatian.GetName] Leadership§!;;;;;;;;;;;;;x
-bloodline_effect_reaver;Increases the chance of looting §YArtifacts§!, after sieging enemy Holdings.;;;;;;;;;;;;;x
-bloodline_effect_religious_liberation;Can call §YReligious Liberation§! wars;;;;;;;;;;;;;x
-bloodline_effect_revocation_plot;Easier to §YPlot§! to §YRevoke Vassal Titles§!;;;;;;;;;;;;;x
-bloodline_effect_roman_culture;§GConvert Counties§! to §GRoman§! Culture faster;;;;;;;;;;;;;x
-bloodline_effect_shiite_leader;§Y[shiite.GetName] Leadership§!;;;;;;;;;;;;;x
-bloodline_effect_sky_burial;Enables §GSky Burials§!;;;;;;;;;;;;;x
-bloodline_effect_tanistry;Enables §GTanistry Succession§!;;;;;;;;;;;;;x
-bloodline_effect_teuta_ships;Will attract §YShips§! during times of war.;;;;;;;;;;;;;x
-bloodline_effect_teutonic_guards;Can hire a §YTeutonic Honor Guard§!;;;;;;;;;;;;;x
-bloodline_effect_teutonic_vassals;Can §GVassalize§! the §YTeutonic Knights§!;;;;;;;;;;;;;x
-bloodline_effect_wandering_artists;Periodically attracts the servitude of §GFamous Artists§!;;;;;;;;;;;;;x
-
+bloodline_effect_always_viking;Raiding can give the §GViking Traits§!;;;;;;;;;;;Íàë¸òû äàþò §G÷åðòû âèêèíãîâ§!;;x
+bloodline_effect_ambition;Characters tend to become §GAmbitious§!;;;;;;;;;;;Òåíäåíöèÿ ê §Gàìáèöèîçíîñòè§!;;x
+bloodline_effect_architect;Has access to special §YCity§! buildings;;;;;;;;;;;Îñîáûå §Yãîðîäñêèå§! ñîîðóæåíèÿ;;x
+bloodline_effect_artisan_craftsmen;Characters have §YSmiths§! strive to please them.;;;;;;;;;;;Ëó÷øèå §Yðåìåñëåííèêè§!.;;x
+bloodline_effect_battle_bards;Unlocks special actions on the battlefield.;;;;;;;;;;;Ðàçáëîêèðóåò îñîáûå äåéñòâèÿ íà ïîëå áîÿ.;;x
+bloodline_effect_battle_survivor;§GResilient§! to §YBattle Injuries§!;;;;;;;;;;;§GÓñòîé÷èâîñòü§! ê §Yáîåâûì ðàíåíèÿì§!;;x
+bloodline_effect_better_inquisition;§YCourt Chaplains§! convert §YCounties§! faster;;;;;;;;;;;Áûñòðîå îáðàùåíèå â ñâîþ âåðó §Yîêðóãîâ§!;;x
+bloodline_effect_blinding;Can §YBlind§! others;;;;;;;;;;;Ìîæíî §Yîñëåïëÿòü§! óçíèêîâ;;x
+bloodline_effect_blood_building;Has access to special §YCastle§! buildings;;;;;;;;;;;Îñîáûå §Yêðåïîñòíûå§! ñîîðóæåíèÿ;;x
+bloodline_effect_bloodline_mercenary_traditions;Children can prove themselves as §GMercenaries§!;;;;;;;;;;;Äåòè ìîãóò ñòàòü §Gíà¸ìíèêàìè§!;;x
+bloodline_effect_brazen_bull;Can use the §YBrazen Bull§! to execute prisoners.;;;;;;;;;;;Ìîæíî èñïîëüçîâàòü §Yìåäíîãî áûêà§! äëÿ êàçíè óçíèêîâ.;;x
+bloodline_effect_castellan;Has access to special §YCastle§! buildings;;;;;;;;;;;Îñîáûå §Yêðåïîñòíûå§! ñîîðóæåíèÿ;;x
+bloodline_effect_castration;Can §YCastrate§! others;;;;;;;;;;;Ìîæíî §Yîñêîïëÿòü§! óçíèêîâ;;x
+bloodline_effect_cheap_reconquista;Can §YPrepare a Reconquest War§! §GCheaper§!;;;;;;;;;;;§YÏîäãîòîâêà ê ðåêîíêèñòå§! îáõîäèòñÿ §Gäåøåâëå§!;;x
+bloodline_effect_convert_zhangzhung_and_sumpa;Increased Culture Conversion speed to §G[bodpa.GetName]§! from §Y[zhangzhung.GetName]§! and §Y[sumpa.GetName]§!;;;;;;;;;;;Óâåëè÷èâàåò ñêîðîñòü ïðèíÿòèÿ §G[_òèáåò]§Gñêîé§! êóëüòóðû äëÿ §Y[_øàíãøóíãöåâ]§! è §Y[_ñóïè]§!;;x
+bloodline_effect_crusade_lord;§GCheaper§! §YCrusader States§!;;;;;;;;;;;§YÃîñóäàðñòâà êðåñòîíîñöåâ§! îáõîäÿòñÿ §Gäåøåâëå§!;;x
+bloodline_effect_dismantle_factions;Can temporarily §YDissolve Factions§!;;;;;;;;;;;Âðåìåííî §Yèçáàâëÿåò îò ôðàêöèé§!;;x
+bloodline_effect_drill;Can use decision to §YDrill§! troops;;;;;;;;;;;Ïîçâîëÿåò §Yèíòåíñèâíûå òðåíèðîâêè§! âîéñê;;x
+bloodline_effect_duel;Enables §GDueling§!;;;;;;;;;;;Ïîçâîëÿåò §Gäóýëè§!;;x
+bloodline_effect_dynastic_meddling;Can influence younger\n §YClose Relatives§!;;;;;;;;;;;Ìîæíî âëèÿòü íà þíûõ\n §Yáëèçêèõ ðîäñòâåííèêîâ§!;;x
+bloodline_effect_easy_vows;Easier to Order relatives to take Vows;;;;;;;;;;;Ëåã÷å âûíóäèòü ðîäñòâåííèêîâ óéòè â ìîíàñòûðü;;x
+bloodline_effect_enatic_cognatic;Enables §GEnatic-Cognatic Succession§!;;;;;;;;;;;Äåëàåò äîñòóïíûì §Gýíàòè÷åñêî-êîãíàòè÷åñêîå§! íàñëåäîâàíèå;;x
+bloodline_effect_endearing;Rulers can §YEndear§! neighbors and subjects;;;;;;;;;;;Ìîæíî §Yðàñïîëîæèòü ê ñåáå§! ïîääàííûõ è ñîñåäåé;;x
+bloodline_effect_faster_claims;Can §YFabricate Claims§! faster;;;;;;;;;;;Áûñòðåå §Yôàáðèêóþòñÿ ïðåòåíçèè§!;;x
+bloodline_effect_faster_dissent;Can §YSow Dissent§! faster;;;;;;;;;;;Áûñòðåå §Yñååòñÿ ðàçäîð§!;;x
+bloodline_effect_faster_hindu;§GConvert Counties§! to §GHindu§! faster;;;;;;;;;;;Áûñòðîå §Gîáðàùåíèå îêðóãîâ§! â §Gèíäóèçì§!;;x
+bloodline_effect_fearsome;Increases the chance of capturing enemy Commanders.;;;;;;;;;;;Âûøå øàíñ íà çàõâàò â ïëåí ïîëêîâîäöåâ.;;x
+bloodline_effect_free_legitimize;Legitimizing Bastards is §GFree§!;;;;;;;;;;;§GÁåñïëàòíîå§! óçàêîíèâàíèå áàñòàðäîâ;;x
+bloodline_effect_grand_crusader;Get a larger share of §GCrusade War Chest§!;;;;;;;;;;;Áîëåå êðóïíàÿ äîëÿ â §Gáþäæåòå êðåñòîãî ïîõîäà§!;;x
+bloodline_effect_great_heroes_appear;Periodically attracts the servitude of §GGreat Warriors§! (if §Y[From.Founder.Religion.GetName]§!);;;;;;;;;;;Âðåìÿ îò âðåìåíè ïðèâëåêàåò íà ñëóæáó §Gâåëèêèõ âîèíîâ§! (äëÿ èñïîâåäóþùåãî §Y[From.Founder.GetReligionFullName]§!);;x
+bloodline_effect_indomitable;Does not suffer §YLethal Injuries§! in battles;;;;;;;;;;;Ðàíåíèÿ â áîþ íå áûâàþò §Yëåòàëüíûìè§!;;x
+bloodline_effect_inquisitional;§GConvert Counties§! to your §YReligion§! faster;;;;;;;;;;;§GÎáðàùåíèå îêðóãîâ§! â ñâîþ §Yâåðó§! ïðîèñõîäèò áûñòðåå;;x
+bloodline_effect_inspire_commanders;The §YPromote Commander§! decision attracts better commanders.;;;;;;;;;;;Ðåøåíèå §Yïðèçâàòü ïîëêîâîäöà§! áîëåå ýôôåêòèâíî.;;x
+bloodline_effect_israel_loans;Can borrow from the §GBanks of Israel§!;;;;;;;;;;;Ìîæíî çàíÿòü äåíüãè â §Gáàíêàõ Èçðàèëÿ§!;;x
+bloodline_effect_joining_warrior_lodge;Characters have an easier time joining §GWarrior Lodges§!;;;;;;;;;;;Îáëåã÷àåò âñòóïëåíèå â §Gâîèíñêèå ëîæè§!;;x
+bloodline_effect_knights;Attracts wandering §YKnights§!, §YBards§! and §YDamsels§!;;;;;;;;;;;Ïðèâëå÷åíèå §Yðûöàðåé§!, §Yáàðäîâ§! è §Yäåâèö§!;;x
+bloodline_effect_less_factions;Vassals are less likely to join §YFactions§!.;;;;;;;;;;;Âàññàëû ðåæå âñòóïàþò âî §Yôðàêöèè§!.;;x
+bloodline_effect_loyal_councilors;Characters tend to have their Councilors be §YLoyal§!.;;;;;;;;;;;Ñîâåòíèêè áîëåå §Yëîÿëüíû§!.;;x
+bloodline_effect_macabre_banquet;Can add executed prisoners to the §YMacabre Banquet§!.;;;;;;;;;;;Ìîæíî êàçíèòü óçíèêîâ íà §Yêðîâàâîì áàíêåòå§!.;;x
+bloodline_effect_monumental;Has access to special §YTemple§! buildings;;;;;;;;;;;Îñîáûå §Yõðàìîâûå§! ñîîðóæåíèÿ;;x
+bloodline_effect_more_philosophers;§YResearch Cultural Tech§! is more effective;;;;;;;;;;;§YÊóëüòóðíûå òåõíîëîãèè§! áîëåå ýôôåêòèâíû;;x
+bloodline_effect_more_raiders;§GOrganizing Raids§! is faster and more fruitful;;;;;;;;;;;§GÎðãàíèçîâàòü íàáåã§! íàìíîãî ïðîùå, à äîáû÷à ñ íåãî áîãà÷å.;;x
+bloodline_effect_murder_burn;Can burn prisoners;;;;;;;;;;;Ìîæíî §Yèñïåïåëÿòü§! óçíèêîâ;;x
+bloodline_effect_murder_child;Wards are more hazardous;;;;;;;;;;;Ïîäîïå÷íûå áîëåå îïàñíû;;x
+bloodline_effect_murder_deflection;Can restore reputation through §YObfuscation§!.;;;;;;;;;;;Âîññòàíîâëåíèå ðåïóòàöèè §Yñîêðûòèåì ñëåäîâ§!.;;x
+bloodline_effect_murder_stalk;Can personally pursue §Ymurder plots§!;;;;;;;;;;;Ëè÷íîå èñïîëíåíèå §Yóáèéñòâ§!;;x
+bloodline_effect_one_invasion;Can use §YInvasion§! once per lifetime;;;;;;;;;;;Ðàç â æèçíè äîñòóïíî §Yâòîðæåíèå§!;;x
+bloodline_effect_peace_prosperity;Faster at gaining §YProsperity§!;;;;;;;;;;;Áûñòðåå ðàñò¸ò §Yïðîöâåòàíèå§!;;x
+bloodline_effect_pet_dog;Characters tend to keep hunting dogs.;;;;;;;;;;;Ïðåäðàñïîëîæåííîñòü ê îõîòíè÷üèì ñîáàêàì.;;x
+bloodline_effect_pet_eagle;Characters tend to keep hunting birds.;;;;;;;;;;;Ïðåäðàñïîëîæåííîñòü ê îõîòíè÷üèì ïòèöàì.;;x
+bloodline_effect_prestige_sacrifice;§GSacrificing Prisoners§! yields an additional §GPrestige§! reward;;;;;;;;;;;§GÆåðòâîïðèíîøåíèå óçíèêîâ§! äà¸ò §Gïðåñòèæ§!;;x
+bloodline_effect_princely_elective_boon;§YPrincely Elective§! §GBoon§!;;;;;;;;;;;Ïðåèìóùåñòâî ïðè §Yêíÿæåñêèõ âûáîðàõ§!;;x
+bloodline_effect_qarmatian_leader;§Y[qarmatian.GetName] Leadership§!;;;;;;;;;;;§Y[_Êàðìàò]ñêîå ëèäåðñòâî§!;;x
+bloodline_effect_reaver;Increases the chance of looting §YArtifacts§!, after sieging enemy Holdings.;;;;;;;;;;;Âûøå øàíñ íà êðàæó §Yàðòåôàêòîâ§! ïîñëå îñàäû.;;x
+bloodline_effect_religious_liberation;Can call §YReligious Liberation§! wars;;;;;;;;;;;Äîñòóïíà âîéíà §Yðåëèãèîçíîå îñâîáîæäåíèå§!;;x
+bloodline_effect_revocation_plot;Easier to §YPlot§! to §YRevoke Vassal Titles§!;;;;;;;;;;;Ëåã÷å äàþòñÿ §Yçàãîâîðû§! íà §Yîòçûâ òèòóëîâ§!;;x
+bloodline_effect_roman_culture;§GConvert Counties§! to §GRoman§! Culture faster;;;;;;;;;;;§GÎáðàùåíèå íàñåëåíèÿ îêðóãîâ§! â §G[_ðèì]ñêóþ§! êóëüòóðó ïðîèñõîäèò áûñòðåå;;x
+bloodline_effect_shiite_leader;§Y[shiite.GetName] Leadership§!;;;;;;;;;;;§Y[Øèèò]ñêîå ëèäåðñòâî§!;;x
+bloodline_effect_sky_burial;Enables §GSky Burials§!;;;;;;;;;;;Äåëàåò äîñòóïíûì §Gíåáåñíîå ïîãðåáåíèå§!;;x
+bloodline_effect_tanistry;Enables §GTanistry Succession§!;;;;;;;;;;;Äåëàåò äîñòóïíûì íàñëåäîâàíèå §Gòàíèñòðè§!;;x
+bloodline_effect_teuta_ships;Will attract §YShips§! during times of war.;;;;;;;;;;;Ïðèçûâ §Yêîðàáëåé§! âî âðåìÿ âîéíû.;;x
+bloodline_effect_teutonic_guards;Can hire a §YTeutonic Honor Guard§!;;;;;;;;;;;Ìîæíî íàíèìàòü §Yòåâòîíñêóþ ãâàðäèþ§!;;x
+bloodline_effect_teutonic_vassals;Can §GVassalize§! the §YTeutonic Knights§!;;;;;;;;;;;Ìîæíî §Gâàññàëèçèðîâàòü§! §Yòåâòîíñêèé îðäåí§!;;x
+bloodline_effect_wandering_artists;Periodically attracts the servitude of §GFamous Artists§!;;;;;;;;;;;Ïðèâëå÷åíèå ñòðàíñòâóþùèõ §Gàðòèñòîâ§!;;x
 # Other
-terrain_no_special_effects;No Special Effects;;;;;;;;;;;;;x
-trait_effect_capture_commanders;§GIncreased chance of capturing enemy commanders§!;;;;;;;;;;;;;x
-
+terrain_no_special_effects;No Special Effects;;;;;;;;;;;Íåò ñïåöèàëüíûõ ýôôåêòîâ;;x
+trait_effect_capture_commanders;§GIncreased chance of capturing enemy commanders§!;;;;;;;;;;;§GÏîâûøàåò øàíñ íà ïëåíåíèå âðàæåñêèõ êîìàíäèðîâ§!;;x
 # Unused, meant for bloodlines with 'monastic_saintly_bloodline'-flag?
-monastic_saintly_bloodline_currency_gain;Monastic Saintly Bloodline;;;;;;;;;;;;;x
+monastic_saintly_bloodline_currency_gain;Monastic Saintly Bloodline;;;;;;;;;;;Ìîíàøåñêàÿ ñâÿòàÿ ðîäîñëîâíàÿ;;x

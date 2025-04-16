@@ -1,30 +1,28 @@
-EVTDESC_TOG_1000;The peasants have risen up in [Root.GetName], led by a disgruntled former soldier. The rebels have the nerve to demand independence!;;;;;;;;;;;;;x
-EVTDESC_TOG_1001;The peasants have risen up in [From.GetName], led by a disgruntled former soldier. The rebels have the nerve to demand independence!;;;;;;;;;;;;;x
-EVTDESC_TOG_1010;Even more peasants have risen up in [Root.GetName], reinforcing the ongoing revolt!;;;;;;;;;;;;;x
-EVTDESC_TOG_1011;Even more peasants have risen up in [From.GetName], reinforcing the ongoing revolt!;;;;;;;;;;;;;x
-EVTDESC_TOG_1020;[Root.Religion.GetName] heretics have risen up in [Root.GetName], led by a militant fanatic. If not swiftly crushed, this revolt could spread like wildfire!;;;;;;;;;;;;;x
-EVTDESC_TOG_1021;[From.Religion.GetName] heretics have risen up in [From.GetName], led by a militant fanatic. If not swiftly crushed, this revolt could spread like wildfire!;;;;;;;;;;;;;x
-EVTDESC_TOG_1030;Another mob of raving heretics have risen up in [Root.GetName], reinforcing the ongoing uprising!;;;;;;;;;;;;;x
-EVTDESC_TOG_1031;Another mob of raving heretics have risen up in [From.GetName], reinforcing the ongoing uprising!;;;;;;;;;;;;;x
-EVTDESC_TOG_1040;A dangerous revolt has broken out in [Root.GetName]. Many prominent [Root.Culture.GetName] landholders have raised an army of peasants, trained and led by a core of proper soldiers. They seek to restore the [Root.Kingdom.GetFullBaseName]!;;;;;;;;;;;;;x
-EVTDESC_TOG_1041;A dangerous revolt has broken out in [From.GetName]. Many prominent [From.Culture.GetName] landholders have raised an army of peasants, trained and led by a core of proper soldiers. They seek to restore the [From.Kingdom.GetFullBaseName]!;;;;;;;;;;;;;x
-EVTDESC_TOG_1050;More [Root.Culture.GetName] rebels have taken up arms in [Root.GetName], joining the struggle to restore the [Root.Kingdom.GetFullBaseName]!;;;;;;;;;;;;;x
-EVTDESC_TOG_1051;More [From.Culture.GetName] rebels have taken up arms in [From.GetName], joining the struggle to restore the [From.Kingdom.GetFullBaseName]!;;;;;;;;;;;;;x
-EVTDESC_TOG_1060;[Root.Religion.GetName] rebels have risen up in [Root.GetName], led by a militant [Root.Religion.GetPriestTitle]. If not swiftly crushed, this revolt could spread like wildfire!;;;;;;;;;;;;;x
-EVTDESC_TOG_1061;[From.Religion.GetName] rebels have risen up in [From.GetName], led by a militant [From.Religion.GetPriestTitle]. If not swiftly crushed, this revolt could spread like wildfire!;;;;;;;;;;;;;x
-EVTDESC_TOG_1070;Another raving mob of [Root.Religion.GetName] infidels have risen up in [Root.GetName], reinforcing the ongoing uprising!;;;;;;;;;;;;;x
-EVTDESC_TOG_1071;Another raving mob of [From.Religion.GetName] infidels have risen up in [From.GetName], reinforcing the ongoing uprising!;;;;;;;;;;;;;x
-EVTDESC_TOG_1190;A rebel mob breaks down my door and streams into the room. It's no use pleading for my life, I will go out fighting!;;;;;;;;;;;;;x
-EVTDESC_TOG_1191;Rebels killed §Y[From.GetTitledName]§! after taking §Y[FromFrom.GetName]§! in §Y[FromFrom.County.GetName]§!.;;;;;;;;;;;;;x
-
-EVTOPTA_TOG_1000;Blasted traitors!;;;;;;;;;;;;;x
-EVTOPTA_TOG_1010;Treacherous rabble!;;;;;;;;;;;;;x
-EVTOPTA_TOG_1020;Accursed Renegades!;;;;;;;;;;;;;x
-EVTOPTA_TOG_1030;Beware the Heretic!;;;;;;;;;;;;;x
-EVTOPTA_TOG_1040;Worrisome...;;;;;;;;;;;;;x
-EVTOPTA_TOG_1060;Curses!;;;;;;;;;;;;;x
-EVTOPTA_TOG_1070;Infidel Scum!;;;;;;;;;;;;;x
-EVTOPTA_TOG_1190;Die you bastards! Arrgh...;;;;;;;;;;;;;x
-EVTOPTA_TOG_1191;They will all hang for this!;;;;;;;;;;;;;x
-
-EVTOPTB_TOG_1060;Accursed Infidels!;;;;;;;;;;;;;x
+EVTDESC_TOG_1000;The peasants have risen up in [Root.GetName], led by a disgruntled former soldier. The rebels have the nerve to demand independence!;;;;;;;;;;;[Root.County.GetAdjective]ñêèå êðåñòüÿíå âîññòàëè, âåäîìûå íåäîâîëüíûì áûâøèì ñîëäàòîì. Ìÿòåæíèêè èìåþò íàãëîñòü òðåáîâàòü íåçàâèñèìîñòè!;;x
+EVTDESC_TOG_1001;The peasants have risen up in [From.GetName], led by a disgruntled former soldier. The rebels have the nerve to demand independence!;;;;;;;;;;;[From.County.GetAdjective]ñêèå êðåñòüÿíå âîññòàëè, âåäîìûå íåäîâîëüíûì áûâøèì ñîëäàòîì. Ìÿòåæíèêè èìåþò íàãëîñòü òðåáîâàòü íåçàâèñèìîñòè!;;x
+EVTDESC_TOG_1010;Even more peasants have risen up in [Root.GetName], reinforcing the ongoing revolt!;;;;;;;;;;;Åù¸ áîëüøå êðåñòüÿí âîññòàëî â îêðóãå [Root.GetName], óñèëèâàÿ íà÷àâøèéñÿ ìÿòåæ!;;x
+EVTDESC_TOG_1011;Even more peasants have risen up in [From.GetName], reinforcing the ongoing revolt!;;;;;;;;;;;Åù¸ áîëüøå êðåñòüÿí âîññòàëî â îêðóãå [From.GetName], óñèëèâàÿ íà÷àâøèéñÿ ìÿòåæ!;;x
+EVTDESC_TOG_1020;[Root.Religion.GetName] heretics have risen up in [Root.GetName], led by a militant fanatic. If not swiftly crushed, this revolt could spread like wildfire!;;;;;;;;;;;[Root.GetReligionFullName] ïîäíèìàåò âîññòàíèå â îêðóãå [Root.GetName], âî ãëàâå ñ âîèíñòâóþùèì ôàíàòèêîì. Åñëè îíî íå áóäåò áûñòðî ïîäàâëåíî, ýòà åðåñü ìîæåò ðàñïðîñòðàíÿòüñÿ êàê ëåñíîé ïîæàð!;;x
+EVTDESC_TOG_1021;[From.Religion.GetName] heretics have risen up in [From.GetName], led by a militant fanatic. If not swiftly crushed, this revolt could spread like wildfire!;;;;;;;;;;;[From.GetReligionFullName] ïîäíèìàåò âîññòàíèå â îêðóãå [From.GetName], âî ãëàâå ñ âîèíñòâóþùèì ôàíàòèêîì. Åñëè îíî íå áóäåò áûñòðî ïîäàâëåíî, ýòà åðåñü ìîæåò ðàñïðîñòðàíÿòüñÿ êàê ëåñíîé ïîæàð!;;x
+EVTDESC_TOG_1030;Another mob of raving heretics have risen up in [Root.GetName], reinforcing the ongoing uprising!;;;;;;;;;;;Íîâàÿ òîëïà áðåäÿùèõ åðåòèêîâ âîññòàëà â îêðóãå [Root.GetName], ïîïîëíÿÿ òåêóùåå âîññòàíèå!;;x
+EVTDESC_TOG_1031;Another mob of raving heretics have risen up in [From.GetName], reinforcing the ongoing uprising!;;;;;;;;;;;Íîâàÿ òîëïà áðåäÿùèõ åðåòèêîâ âîññòàëà â îêðóãå [From.GetName], ïîïîëíÿÿ òåêóùåå âîññòàíèå!;;x
+EVTDESC_TOG_1040;A dangerous revolt has broken out in [Root.GetName]. Many prominent [Root.Culture.GetName] landholders have raised an army of peasants, trained and led by a core of proper soldiers. They seek to restore the [Root.Kingdom.GetFullBaseName]!;;;;;;;;;;;Îïàñíûå âîññòàíèÿ âñïûõíóëè â îêðóãå [Root.GetName]. Ìíîãèå âèäíûå [Root.GetCultureAdj]èå çåìëåâëàäåëüöû ïîäíÿëè àðìèþ êðåñòüÿí ñ ÿäðîì èç íàñòîÿùèõ ñîëäàò. Îíè ñòðåìÿòñÿ âîññòàíîâèòü ãîñóäàðñòâî [Root.Kingdom.GetFullBaseName]!;;x
+EVTDESC_TOG_1041;A dangerous revolt has broken out in [From.GetName]. Many prominent [From.Culture.GetName] landholders have raised an army of peasants, trained and led by a core of proper soldiers. They seek to restore the [From.Kingdom.GetFullBaseName]!;;;;;;;;;;;Îïàñíûå âîññòàíèÿ âñïûõíóëè â îêðóãå [From.GetName]. Ìíîãèå âèäíûå [From.GetCultureAdj]èå çåìëåâëàäåëüöû ïîäíÿëè àðìèþ êðåñòüÿí ñ ÿäðîì èç íàñòîÿùèõ ñîëäàò. Îíè ñòðåìÿòñÿ âîññòàíîâèòü ãîñóäàðñòâî [From.Kingdom.GetFullBaseName]!;;x
+EVTDESC_TOG_1050;More [Root.Culture.GetName] rebels have taken up arms in [Root.GetName], joining the struggle to restore the [Root.Kingdom.GetFullBaseName]!;;;;;;;;;;;Åù¸ áîëüøå [Root.GetCultureAdj]èõ ìÿòåæíèêîâ âçÿëè â ðóêè îðóæèå â îêðóãå [Root.GetName], âñòóïèâ â áîðüáó çà âîññòàíîâëåíèå ãîñóäàðñòâà [Root.Kingdom.GetFullBaseName]!;;x
+EVTDESC_TOG_1051;More [From.Culture.GetName] rebels have taken up arms in [From.GetName], joining the struggle to restore the [From.Kingdom.GetFullBaseName]!;;;;;;;;;;;Åù¸ áîëüøå [From.GetCultureAdj]èõ ìÿòåæíèêîâ âçÿëè â ðóêè îðóæèå â îêðóãå [From.GetName], âñòóïèâ â áîðüáó çà âîññòàíîâëåíèå ãîñóäàðñòâà [From.Kingdom.GetFullBaseName]!;;x
+EVTDESC_TOG_1060;[Root.Religion.GetName] rebels have risen up in [Root.GetName], led by a militant [Root.Religion.GetPriestTitle]. If not swiftly crushed, this revolt could spread like wildfire!;;;;;;;;;;;Ìÿòåæíèêè, èñïîâåäóþùèå [Root.GetReligionFullName], âîññòàëè â îêðóãå [Root.GetName]. Èõ âîèíñòâóþùèé ëèäåð - [Root.Religion.GetPriestTitle]. Åñëè áóíò íå îñòàíîâèòü, îí ìîæåò ðàñïðîñòðàíèòüñÿ, êàê ïîæàð!;;x
+EVTDESC_TOG_1061;[From.Religion.GetName] rebels have risen up in [From.GetName], led by a militant [From.Religion.GetPriestTitle]. If not swiftly crushed, this revolt could spread like wildfire!;;;;;;;;;;;Ìÿòåæíèêè, èñïîâåäóþùèå [From.GetReligionFullName], âîññòàëè â îêðóãå [From.GetName]. Èõ âîèíñòâóþùèé ëèäåð - [From.Religion.GetPriestTitle]. Åñëè áóíò íå îñòàíîâèòü, îí ìîæåò ðàñïðîñòðàíèòüñÿ, êàê ïîæàð!;;x
+EVTDESC_TOG_1070;Another raving mob of [Root.Religion.GetName] infidels have risen up in [Root.GetName], reinforcing the ongoing uprising!;;;;;;;;;;;Î÷åðåäíàÿ òîëïà èíîâåðöåâ, èñïîâåäóþùèõ [Root.GetReligionFullName], ïîäíÿëà áóíò â îêðóãå [Root.GetName], ïîääåðæàâ òåêóùåå âîññòàíèå!;;x
+EVTDESC_TOG_1071;Another raving mob of [From.Religion.GetName] infidels have risen up in [From.GetName], reinforcing the ongoing uprising!;;;;;;;;;;;Î÷åðåäíàÿ òîëïà èíîâåðöåâ, èñïîâåäóþùèõ [From.GetReligionFullName], ïîäíÿëà áóíò â îêðóãå [From.GetName], ïîääåðæàâ òåêóùåå âîññòàíèå!;;x
+EVTDESC_TOG_1190;A rebel mob breaks down my door and streams into the room. It's no use pleading for my life, I will go out fighting!;;;;;;;;;;;Òîëïà ìÿòåæíèêîâ âûëîìàëà äâåðü è âîðâàëàñü â êîìíàòó. Áåñïîëåçíî ìîëèòü î ïîùàäå, ÿ áóäó ñðàæàòüñÿ!;;x
+EVTDESC_TOG_1191;Rebels killed §Y[From.GetTitledName]§! after taking §Y[FromFrom.GetName]§! in §Y[FromFrom.County.GetName]§!.;;;;;;;;;;;§Y[From.GetTitledName]§! ïîãèá[From.GetNoneE] îò ðóê ìÿòåæíèêîâ, çàõâàòèâøèõ ïîñåëåíèå §Y[FromFrom.GetName]§! â îêðóãå §Y[FromFrom.County.GetName]§!.;;x
+EVTOPTA_TOG_1000;Blasted traitors!;;;;;;;;;;;Ïðîêëÿòûå èçìåííèêè!;;x
+EVTOPTA_TOG_1010;Treacherous rabble!;;;;;;;;;;;Ïðåäàòåëüñêèé ñáðîä!;;x
+EVTOPTA_TOG_1020;Accursed Renegades!;;;;;;;;;;;Ïðîêëÿòûå ðåíåãàòû!;;x
+EVTOPTA_TOG_1030;Beware the Heretic!;;;;;;;;;;;Îñòîðîæíî! Çëîé åðåòèê!;;x
+EVTOPTA_TOG_1040;Worrisome...;;;;;;;;;;;Òðåâîæíî…;;x
+EVTOPTA_TOG_1060;Curses!;;;;;;;;;;;Ïðîêëÿòüå!;;x
+EVTOPTA_TOG_1070;Infidel Scum!;;;;;;;;;;;Ìåðçàâöû!;;x
+EVTOPTA_TOG_1190;Die you bastards! Arrgh...;;;;;;;;;;;Óìðèòå, óáëþäêè!;;x
+EVTOPTA_TOG_1191;They will all hang for this!;;;;;;;;;;;Îíè âñå áóäóò ïîâåøåíû!;;x
+EVTOPTB_TOG_1060;Accursed Infidels!;;;;;;;;;;;Ïðîêëÿòûå èíîâåðöû!;;x

@@ -1,79 +1,73 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC76000;Being male, unmarried and almost handsome in a court filled with young women who all seek your attention is not half bad. A particularly young wench, almost irresistible, desires the pleasure of my company...;;;;;;;;;;;;;x
-EVTDESC76005;My unwed daughter has been... indiscreet. She has been hiding her pregnancy from me and now presents me with her child.;;;;;;;;;;;;;x
-EVTDESC76006;There are several ways to deal with this unfortunate situation,' Spymaster [Root.job_spymaster.GetTitledFirstName] told me when I asked [Root.job_spymaster.GetHerHim] for advice on how to deal with my daughter's bastard child...;;;;;;;;;;;;;x
-EVTDESC76007;My liege [From.GetTitledFirstName] came to me, dragging [From.GetHerHis] daughter with [From.GetHerHim] with a newborn child in her arms.\n'I trust you to deal with my daughter's bastard child discreetly', [From.GetTitledFirstName] told me coldly and left [From.GetHerHis] daughter and her bastard child with me.;;;;;;;;;;;;;x
-EVTDESC76008;I trusted Spymaster [From.GetTitledFirstName] to deal with my daughter and her bastard child in a discreet manner but [From.GetSheHe] failed miserably!;;;;;;;;;;;;;x
-EVTDESC76009;Despite my clear instructions on how to deal with my daughter and her bastard child, Spymaster [From.GetTitledFirstName] let them live!;;;;;;;;;;;;;x
-EVTDESC76010;'A bastard can cause a lot of trouble', insisted [Root.GetSpymasterName] [Root.job_spymaster.GetTitledFirstName] and advised me of a possible opportunity to get rid of the bastard in the court.;;;;;;;;;;;;;x
-EVTDESC76015;A bastard son of mine petitioned me to recognize him as a legitimate heir.;;;;;;;;;;;;;x
-EVTDESC76020;Am I not all that any child could be? I should ask my father to be included in the succession!;;;;;;;;;;;;;x
-EVTDESC76021;My illegitimate [GetFromRelation] [From.GetTitledFirstName] asked me to acknowledge [From.GetHerHim] as my [GetFromRelation] and thus include [From.GetHerHim] in the succession.;;;;;;;;;;;;;x
-EVTDESC76022;I waited silently and patiently for my father [From.GetTitledFirstName] to answer my request to acknowledge me and include me in the succession. Finally, [From.GetTitledFirstName] answered...;;;;;;;;;;;;;x
-EVTDESC76025;Raising a child on your own is hard, but raising a bastard child is even harder. We are an embarrassment to our family and very few of them are willing to help us.;;;;;;;;;;;;;x
-EVTDESC76026;The embarrassment and black stain on our dynasty that is my daughter [From.GetTitledFirstName] and her bastard child asked me today to help her. I refuse to do this, blaming  the embarrassment that has been brought upon the family on...;;;;;;;;;;;;;x
-EVTDESC76027;[From.GetTitledFirstName] blames me for the difficult situation [From.GetHerHis] daughter is in, what with me being the father of her bastard child...;;;;;;;;;;;;;x
-EVTDESC76028;[From.GetTitledFirstName] blames me for the hopeless situation [From.GetHerHis] daughter is in, what with my son being the father of her bastard child...;;;;;;;;;;;;;x
-EVTDESC76030;A dream is born and a sword sharpened...;;;;;;;;;;;;;x
-EVTDESC76035;The other children at court tease me relentlessly because I don't have a real father. I'm a bastard and they know it!;;;;;;;;;;;;;x
-EVTDESC76040;People keep telling me I am a bastard but no one explains what it is! Maybe [Root.Guardian.GetTitledFirstName] knows?;;;;;;;;;;;;;x
-EVTDESC76041;[From.GetTitledFirstName] asked me while looking seriously at me with [From.GetHerHis] big, innocent eyes what being a 'bastard' actually means.;;;;;;;;;;;;;x
-
-EVTOPTA76000;Surely one night's passion won't tarnish my soul?;;;;;;;;;;;;;x
-EVTOPTA76005;Pay heavily to deal with it quietly;;;;;;;;;;;;;x
-EVTOPTA76006;Keep her hidden, then dispose of the child';;;;;;;;;;;;;x
-EVTOPTA76007;This is just part of my job;;;;;;;;;;;;;x
-EVTOPTA76008;Accuse Spymaster [From.GetTitledFirstName] of treason and imprison [From.GetHerHim];;;;;;;;;;;;;x
-EVTOPTA76009;As long as I don't get involved, again...;;;;;;;;;;;;;x
-EVTOPTA76010;Go ahead, see if your plan works;;;;;;;;;;;;;x
-EVTOPTA76015;Not a chance;;;;;;;;;;;;;x
-EVTOPTA76020;I'll ask him right now;;;;;;;;;;;;;x
-EVTOPTA76021;Unthinkable!;;;;;;;;;;;;;x
-EVTOPTA76022;...that it was unthinkable!;;;;;;;;;;;;;x
-EVTOPTA76025;My father might be able to help us;;;;;;;;;;;;;x
-EVTOPTA76026;...my daughter [From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTOPTA76027;I am guilty;;;;;;;;;;;;;x
-EVTOPTA76028;I will take care of it;;;;;;;;;;;;;x
-EVTOPTA76030;The seed is planted;;;;;;;;;;;;;x
-EVTOPTA76035;Fight them back!;;;;;;;;;;;;;x
-EVTOPTA76040;What does 'bastard' means?;;;;;;;;;;;;;x
-EVTOPTA76041;You are an abomination in the eyes of God;;;;;;;;;;;;;x
-
-EVTOPTB76000;I won't soil my soul with a night of passion!;;;;;;;;;;;;;x
-EVTOPTB76005;The child is of my blood and I will take care of both of them;;;;;;;;;;;;;x
-EVTOPTB76006;Slay the father and take the child away';;;;;;;;;;;;;x
-EVTOPTB76007;What an interesting opportunity...;;;;;;;;;;;;;x
-EVTOPTB76008;I confess my part of this blunder;;;;;;;;;;;;;x
-EVTOPTB76010;I doubt the bastard child will cause any trouble;;;;;;;;;;;;;x
-EVTOPTB76015;I'm not sure you're worthy;;;;;;;;;;;;;x
-EVTOPTB76020;Why bother?;;;;;;;;;;;;;x
-EVTOPTB76021;I agree. You are a worthy heir;;;;;;;;;;;;;x
-EVTOPTB76022;...that [From.GetSheHe] agreed and would legitimise me as [From.GetHerHis] child;;;;;;;;;;;;;x
-EVTOPTB76025;I keep quiet and toil hard;;;;;;;;;;;;;x
-EVTOPTB76026;...my daughter's bastard child;;;;;;;;;;;;;x
-EVTOPTB76027;That has nothing to do with me!;;;;;;;;;;;;;x
-EVTOPTB76028;That has nothing to do with me, or my son!;;;;;;;;;;;;;x
-EVTOPTB76035;Hide from them;;;;;;;;;;;;;x
-EVTOPTB76041;You will not inherit anything;;;;;;;;;;;;;x
-
-EVTOPTC76005;Punish her harshly and give away the child!;;;;;;;;;;;;;x
-EVTOPTC76006;I don't want to know, just deal with it...;;;;;;;;;;;;;x
-EVTOPTC76008;I pardon everyone;;;;;;;;;;;;;x
-EVTOPTC76015;I welcome you with open arms!;;;;;;;;;;;;;x
-EVTOPTC76026;...the father of my daughter's bastard child;;;;;;;;;;;;;x
-EVTOPTC76035;Try to become friendly with them;;;;;;;;;;;;;x
-EVTOPTC76041;You will make your own way in the world!;;;;;;;;;;;;;x
-
-EVTOPTD76035;Try to do bad things to them when they can't notice it's you;;;;;;;;;;;;;x
-EVTOPTD76041;Your father sinned when he fathered you;;;;;;;;;;;;;x
-
-EVTTOOLTIP76006;Spymaster [Root.job_spymaster.GetTitledFirstName] advises you on how to deal with your daughter's bastard child;;;;;;;;;;;;;x
-EVTTOOLTIP76007;Spymaster [This.GetTitledFirstName] takes care of the situation with your daughter's bastard child;;;;;;;;;;;;;x
-EVTTOOLTIP76008;[Root.GetTitledFirstName] failed to cover up [This.GetTitledFirstName]'s daughter's unwanted pregnancy.;;;;;;;;;;;;;x
-EVTTOOLTIP76009;[Root.GetTitledFirstName] saved [This.GetTitledFirstName]'s daughter and her bastard child;;;;;;;;;;;;;x
-EVTTOOLTIP76021;[Root.GetTitledFirstName] asks [Root.GetHerHis] father [This.GetTitledFirstName] to legitimise [Root.GetHerHim];;;;;;;;;;;;;x
-EVTTOOLTIP76026;[Root.GetTitledFirstName]'s asks her father [This.GetTitledFirstName] to help her;;;;;;;;;;;;;x
-EVTTOOLTIP76027;The father, [This.GetTitledFirstName], is blamed;;;;;;;;;;;;;x
-EVTTOOLTIP76028;The Grandfather, [This.GetTitledFirstName], is blamed for not raising his son properly;;;;;;;;;;;;;x
-EVTTOOLTIP76041;[Root.GetTitledFirstName] asks [Root.GetHerHis] guardian [This.GetTitledFirstName] what being a bastard means;;;;;;;;;;;;;x
+EVTDESC76000;Being male, unmarried and almost handsome in a court filled with young women who all seek your attention is not half bad. A particularly young wench, almost irresistible, desires the pleasure of my company...;;;;;;;;;;;Íå òàê óæ ïëîõî áûòü íåæåíàòûì ìóæ÷èíîé ïðè äâîðå, ãäå ïîëíî ìîëîäûõ äåâóøåê, èùóùèõ âíèìàíèÿ. Îäíà èç íèõ, ïðîñòî íåîòðàçèìà è æàæäåò ìîåé êîìïàíèè...;;x
+EVTDESC76005;My unwed daughter has been... indiscreet. She has been hiding her pregnancy from me and now presents me with her child.;;;;;;;;;;;Ìîÿ íåçàìóæíÿÿ äî÷ü áûëà... íåñêðîìíîé. Îíà ñêðûâàëà îò ìåíÿ ñâîþ áåðåìåííîñòü, è òåïåðü ïðåäñòàëà ïåðåäî ìíîé ñ ðåá¸íêîì.;;x
+EVTDESC76006;There are several ways to deal with this unfortunate situation,' Spymaster [Root.job_spymaster.GetTitledFirstName] told me when I asked [Root.job_spymaster.GetHerHim] for advice on how to deal with my daughter's bastard child...;;;;;;;;;;;" ""Åñòü íåñêîëüêî ñïîñîáîâ ñïðàâèòüñÿ ñ ýòîé íåïðèÿòíîñòüþ"", — ãîâîðèò ìíå [Root.GetSpymasterName] [Root.job_spymaster.GetTitledFirstName], êîãäà ÿ îáðàùàþñü ê íåìó.";;x
+EVTDESC76007;My liege [From.GetTitledFirstName] came to me, dragging [From.GetHerHis] daughter with [From.GetHerHim] with a newborn child in her arms.\n'I trust you to deal with my daughter's bastard child discreetly', [From.GetTitledFirstName] told me coldly and left [From.GetHerHis] daughter and her bastard child with me.;;;;;;;;;;;"Ìîé ñþçåðåí [From.GetTitledFirstName] ÿâëÿåòñÿ êî ìíå, âîëî÷à çà ñîáîé ñâîþ äî÷ü ñ íîâîðîæä¸ííûì ìëàäåíöåì.\n""Ïðèäóìàé ÷òî-íèáóäü, ÷òîáû áåç øóìà è ïûëè ðàçîáðàòüñÿ ñ âíåáðà÷íûì ðåá¸íêîì ìîåé äî÷åðè"", — çàÿâëÿåò ìíå õîëîäíî [From.GetTitledFirstName], çàòåì óõîäèò, îñòàâèâ èõ ñî ìíîé.";;x
+EVTDESC76008;I trusted Spymaster [From.GetTitledFirstName] to deal with my daughter and her bastard child in a discreet manner but [From.GetSheHe] failed miserably!;;;;;;;;;;;[From.GetTitledFirstName], ìîé [Root.GetSpymasterName], íå ìîæåò ñïðàâèòüñÿ ñ ìîèì ïðîñòûì ïîðó÷åíèåì - àêêóðàòíî ðàçîáðàòüñÿ ñ ìîåé äî÷åðüþ è å¸ áàñòàðäîì.;;x
+EVTDESC76009;Despite my clear instructions on how to deal with my daughter and her bastard child, Spymaster [From.GetTitledFirstName] let them live!;;;;;;;;;;;Íåñìîòðÿ íà ìî¸ ðàñïîðÿæåíèå ðàñïðàâèòüñÿ ñ ìîåé äî÷åðüþ è áàñòàðäîì, [Root.GetSpymasterName] [From.GetTitledFirstName] ðåøàåò ñîõðàíèòü èì æèçíü!;;x
+EVTDESC76010;'A bastard can cause a lot of trouble', insisted [Root.GetSpymasterName] [Root.job_spymaster.GetTitledFirstName] and advised me of a possible opportunity to get rid of the bastard in the court.;;;;;;;;;;;[Root.GetSpymasterName] [Root.job_spymaster.GetTitledFirstName] íàñòàèâàåò íà òîì, ÷òî áàñòàðä ìîæåò â áóäóùåì ïðèíåñòè ìíîãî ïðîáëåì, è ñîâåòóåò ìíå ïðè ñëó÷àå îò íåãî èçáàâèòüñÿ.;;x
+EVTDESC76015;A bastard son of mine petitioned me to recognize him as a legitimate heir.;;;;;;;;;;;Áàñòàðä îáðàùàåòñÿ êî ìíå ñ ïðîñüáîé ïðèçíàòü åãî çàêîííûì íàñëåäíèêîì!;;x
+EVTDESC76020;Am I not all that any child could be? I should ask my father to be included in the succession!;;;;;;;;;;;Ðàçâå îí íå îòåö ìíå? Íàäî ïîïðîñèòü åãî âêëþ÷èòü ìåíÿ â ñïèñîê íàñëåäíèêîâ.;;x
+EVTDESC76021;My illegitimate [GetFromRelation] [From.GetTitledFirstName] asked me to acknowledge [From.GetHerHim] as my [GetFromRelation] and thus include [From.GetHerHim] in the succession.;;;;;;;;;;;Ìîé íåçàêîííîðîæä¸ííûé ðåá¸íîê, [From.GetTitledFirstName], ïðîñèò ìåíÿ ïðèçíàòü [From.GetHersHis] è, òåì ñàìûì, âêëþ÷èòü â ñïèñîê íàñëåäíèêîâ.;;x
+EVTDESC76022;I waited silently and patiently for my father [From.GetTitledFirstName] to answer my request to acknowledge me and include me in the succession. Finally, [From.GetTitledFirstName] answered...;;;;;;;;;;;ß ìîë÷à è òåðïåëèâî æäó îòâåò îòöà íà ìîþ ïðîñüáó î ëåãèòèìèçàöèè. Íàêîíåö, [From.GetTitledFirstName] îòâåòèë...;;x
+EVTDESC76025;Raising a child on your own is hard, but raising a bastard child is even harder. We are an embarrassment to our family and very few of them are willing to help us.;;;;;;;;;;;Âîñïèòàíèå äåòåé - òÿæ¸ëûé òðóä, à óæ âîñïèòàíèå áàñòàðäà òÿæåëî âäâîéíå. Ìû - ïîçîð äëÿ ñåìüè, è ìàëî êòî èç ðîäñòâåííèêîâ çàõî÷åò ïîìî÷ü.;;x
+EVTDESC76026;The embarrassment and black stain on our dynasty that is my daughter [From.GetTitledFirstName] and her bastard child asked me today to help her. I refuse to do this, blaming  the embarrassment that has been brought upon the family on...;;;;;;;;;;;Ïîçîð íàøåé äèíàñòèè, ìîÿ äî÷ü [From.GetTitledFirstName] è å¸ âíåáðà÷íûé ðåá¸íîê ñåãîäíÿ ïîïðîñèëè ìåíÿ î ïîìîùè. ß îòêàçûâàþñü ýòî ñäåëàòü, îáâèíÿÿ âî âñ¸ì...;;x
+EVTDESC76027;[From.GetTitledFirstName] blames me for the difficult situation [From.GetHerHis] daughter is in, what with me being the father of her bastard child...;;;;;;;;;;;[From.GetTitledFirstName] îáâèíÿåò ìåíÿ â ñòðàäàíèÿõ ñâîåé äî÷åðè, âåäü ÿ - îòåö å¸ áàñòàðäà.;;x
+EVTDESC76028;[From.GetTitledFirstName] blames me for the hopeless situation [From.GetHerHis] daughter is in, what with my son being the father of her bastard child...;;;;;;;;;;;[From.GetTitledFirstName] îáâèíÿåò ìåíÿ â ñòðàäàíèÿõ ñâîåé äî÷åðè, âåäü ìîé ñûí - îòåö å¸ áàñòàðäà.;;x
+EVTDESC76030;A dream is born and a sword sharpened...;;;;;;;;;;;Ìå÷òà ðîäèëàñü è çàòî÷åí ìîé ìå÷...;;x
+EVTDESC76035;The other children at court tease me relentlessly because I don't have a real father. I'm a bastard and they know it!;;;;;;;;;;;Äðóãèå äåòè ïðè äâîðå äðàçíÿò ìåíÿ èç-çà òîãî, ÷òî ó ìåíÿ íåò îòöà. ß - âíåáðà÷íûé ðåá¸íîê è îíè ýòî çíàþò!;;x
+EVTDESC76040;People keep telling me I am a bastard but no one explains what it is! Maybe [Root.Guardian.GetTitledFirstName] knows?;;;;;;;;;;;Ëþäè ïîñòîÿííî ãîâîðÿò ìíå, ÷òî ÿ áàñòàðä, íî íèêòî íå îáúÿñíÿåò, ÷òî ýòî òàêîå! Ìîæåò áûòü, [Root.Guardian.GetTitledFirstName] çíàåò?;;x
+EVTDESC76041;[From.GetTitledFirstName] asked me while looking seriously at me with [From.GetHerHis] big, innocent eyes what being a 'bastard' actually means.;;;;;;;;;;;"[From.GetTitledFirstName] ñïðàøèâàåò, ãëÿäÿ íà ìåíÿ íåâèííûìè ãëàçàìè, ÷òî òàêîå ""áàñòàðä"".";;x
+EVTOPTA76000;Surely one night's passion won't tarnish my soul?;;;;;;;;;;;Ðàçâå íî÷ü ñòðàñòè ìîæåò ïîâðåäèòü ìîåé äóøå?;;x
+EVTOPTA76005;Pay heavily to deal with it quietly;;;;;;;;;;;Ñîõðàíåíèå ýòîãî â òàéíå äîðîãî ìíå îáîéä¸òñÿ...;;x
+EVTOPTA76006;Keep her hidden, then dispose of the child';;;;;;;;;;;Ñêðûòü äî÷ü îò ïîñòîðîííèõ ãëàç è èçáàâèòüñÿ îò áàñòàðäà.;;x
+EVTOPTA76007;This is just part of my job;;;;;;;;;;;×òî æ, ýòî ÷àñòü ìîåé ðàáîòû...;;x
+EVTOPTA76008;Accuse Spymaster [From.GetTitledFirstName] of treason and imprison [From.GetHerHim];;;;;;;;;;;Îáâèíèòü òàéíîãî ñîâåòíèêà â èçìåíå è áðîñèòü â òþðüìó.;;x
+EVTOPTA76009;As long as I don't get involved, again...;;;;;;;;;;;Ëàäíî, îñòàâèì ýòó ïðîáëåìó íà áóäóùåå...;;x
+EVTOPTA76010;Go ahead, see if your plan works;;;;;;;;;;;Äåéñòâóé, êàê ñ÷èòàåøü íóæíûì.;;x
+EVTOPTA76015;Not a chance;;;;;;;;;;;Íè çà ÷òî!;;x
+EVTOPTA76020;I'll ask him right now;;;;;;;;;;;Ñäåëàþ ýòî ñåé÷àñ!;;x
+EVTOPTA76021;Unthinkable!;;;;;;;;;;;Íåìûñëèìî!;;x
+EVTOPTA76022;...that it was unthinkable!;;;;;;;;;;;... ÷òî ýòî íåìûñëèìî!;;x
+EVTOPTA76025;My father might be able to help us;;;;;;;;;;;Ìîé îòåö ìîã áû ïîìî÷ü...;;x
+EVTOPTA76026;...my daughter [From.GetTitledFirstName];;;;;;;;;;;... äî÷ü.;;x
+EVTOPTA76027;I am guilty;;;;;;;;;;;ß è ïðàâäà âèíîâàò â ýòîì.;;x
+EVTOPTA76028;I will take care of it;;;;;;;;;;;ß ïîçàáî÷óñü î íèõ.;;x
+EVTOPTA76030;The seed is planted;;;;;;;;;;;Ñåìÿ ïîñåÿíî.;;x
+EVTOPTA76035;Fight them back!;;;;;;;;;;;Ïîäðàòüñÿ ñ íèìè;;x
+EVTOPTA76040;What does 'bastard' means?;;;;;;;;;;;"×òî òàêîå ""áàñòàðä""?";;x
+EVTOPTA76041;You are an abomination in the eyes of God;;;;;;;;;;;Ìåðçîñòü â ãëàçàõ Ãîñïîäà.;;x
+EVTOPTB76000;I won't soil my soul with a night of passion!;;;;;;;;;;;ß íå îñêâåðíþ ñâîþ äóøó ðàäè ìèìîë¸òíîé ïîõîòè!;;x
+EVTOPTB76005;The child is of my blood and I will take care of both of them;;;;;;;;;;;Ìû îäíîé êðîâè. ß ïîìîãó è åé, è ðåá¸íêó.;;x
+EVTOPTB76006;Slay the father and take the child away';;;;;;;;;;;Óáèòü îòöà è óâåçòè ðåá¸íêà ïîäàëüøå.;;x
+EVTOPTB76007;What an interesting opportunity...;;;;;;;;;;;Êàêàÿ ïðåêðàñíàÿ âîçìîæíîñòü...;;x
+EVTOPTB76008;I confess my part of this blunder;;;;;;;;;;;Îò÷àñòè ýòî è ìîÿ âèíà.;;x
+EVTOPTB76010;I doubt the bastard child will cause any trouble;;;;;;;;;;;Ñîìíåâàþñü, ÷òî îò íåãî áóäóò ïðîáëåìû.;;x
+EVTOPTB76015;I'm not sure you're worthy;;;;;;;;;;;Ó ìåíÿ íåò óâåðåííîñòè, ÷òî òû ýòîãî äîñòîèí.;;x
+EVTOPTB76020;Why bother?;;;;;;;;;;;Äà êàêîé â ýòîì ñìûñë?;;x
+EVTOPTB76021;I agree. You are a worthy heir;;;;;;;;;;;ß ñîãëàøóñü. [From.GetSheHe] - äîñòîéíûé íàñëåäíèê!;;x
+EVTOPTB76022;...that [From.GetSheHe] agreed and would legitimise me as [From.GetHerHis] child;;;;;;;;;;;... ÷òî [From.GetSheHe] ñîãëàñåí!;;x
+EVTOPTB76025;I keep quiet and toil hard;;;;;;;;;;;ß ñïðàâëþñü ñàìà.;;x
+EVTOPTB76026;...my daughter's bastard child;;;;;;;;;;;... áàñòàðäà.;;x
+EVTOPTB76027;That has nothing to do with me!;;;;;;;;;;;ß òóò íè ïðè ÷¸ì!;;x
+EVTOPTB76028;That has nothing to do with me, or my son!;;;;;;;;;;;Íè ÿ, íè ìîé ñûí òóò íè ïðè ÷¸ì.;;x
+EVTOPTB76035;Hide from them;;;;;;;;;;;Ñïðÿòàòüñÿ îò íèõ;;x
+EVTOPTB76041;You will not inherit anything;;;;;;;;;;;Òîò, êòî íå ìîæåò íè÷åãî óíàñëåäîâàòü.;;x
+EVTOPTC76005;Punish her harshly and give away the child!;;;;;;;;;;;Æåñòîêî íàêàçàòü äî÷ü è óáðàòü ðåá¸íêà ñ ãëàç äîëîé!;;x
+EVTOPTC76006;I don't want to know, just deal with it...;;;;;;;;;;;ß íå õî÷ó íè÷åãî çíàòü, ïðîñòî ðàçáåðèòåñü ñ ýòèì.;;x
+EVTOPTC76008;I pardon everyone;;;;;;;;;;;Âñåõ ïðîùàþ.;;x
+EVTOPTC76015;I welcome you with open arms!;;;;;;;;;;;Äîáðî ïîæàëîâàòü, ñûíîê!;;x
+EVTOPTC76026;...the father of my daughter's bastard child;;;;;;;;;;;... îòöà áàñòàðäà.;;x
+EVTOPTC76035;Try to become friendly with them;;;;;;;;;;;Ïðîÿâèòü äðóæåëþáèå;;x
+EVTOPTC76041;You will make your own way in the world!;;;;;;;;;;;Òîò, êîìó ïðèõîäèòñÿ ñàìîìó èñêàòü ñâî¸ ìåñòî â ìèðå.;;x
+EVTOPTD76035;Try to do bad things to them when they can't notice it's you;;;;;;;;;;;Äåëàòü èì ãàäîñòè èñïîäòèøêà;;x
+EVTOPTD76041;Your father sinned when he fathered you;;;;;;;;;;;Âàø îòåö ñîãðåøèë, êîãäà çà÷àë Âàñ;;x
+EVTTOOLTIP76006;Spymaster [Root.job_spymaster.GetTitledFirstName] advises you on how to deal with your daughter's bastard child;;;;;;;;;;;[Root.GetSpymasterName] [Root.job_spymaster.GetTitledFirstName], ïîìîãàåò Âàì ñ áàñòàðäîì.;;x
+EVTTOOLTIP76007;Spymaster [This.GetTitledFirstName] takes care of the situation with your daughter's bastard child;;;;;;;;;;;[Root.GetSpymasterName] [This.GetTitledFirstName] ðåøàåò ïðîáëåìó ñ áàñòàðäîì;;x
+EVTTOOLTIP76008;[Root.GetTitledFirstName] failed to cover up [This.GetTitledFirstName]'s daughter's unwanted pregnancy.;;;;;;;;;;;[Root.GetTitledFirstName] íå ìîæåò ñêðûòü íåæåëàòåëüíóþ áåðåìåííîñòü äî÷åðè ïåðñîíàæà [This.GetTitledFirstName];;x
+EVTTOOLTIP76009;[Root.GetTitledFirstName] saved [This.GetTitledFirstName]'s daughter and her bastard child;;;;;;;;;;;[Root.GetTitledFirstName] ñïàñàåò äî÷ü ïåðñîíàæà [This.GetTitledFirstName] è å¸ ðåá¸íêà;;x
+EVTTOOLTIP76021;[Root.GetTitledFirstName] asks [Root.GetHerHis] father [This.GetTitledFirstName] to legitimise [Root.GetHerHim];;;;;;;;;;;[Root.GetTitledFirstName] ïðîñèò ñâîåãî îòöà ([This.GetTitledFirstName]) ëåãèòèìèðîâàòü [Root.GetHersHis];;x
+EVTTOOLTIP76026;[Root.GetTitledFirstName]'s asks her father [This.GetTitledFirstName] to help her;;;;;;;;;;;[Root.GetTitledFirstName] ïðîñèò ñâîåãî îòöà ([This.GetTitledFirstName]) ïîìî÷ü åé;;x
+EVTTOOLTIP76027;The father, [This.GetTitledFirstName], is blamed;;;;;;;;;;;Ïîâèíåí îòåö ([This.GetTitledFirstName]);;x
+EVTTOOLTIP76028;The Grandfather, [This.GetTitledFirstName], is blamed for not raising his son properly;;;;;;;;;;;Äåä ([This.GetTitledFirstName]) ïîâèíåí â òîì, ÷òî íå ïîääåðæàë ðåá¸íêà.;;x
+EVTTOOLTIP76041;[Root.GetTitledFirstName] asks [Root.GetHerHis] guardian [This.GetTitledFirstName] what being a bastard means;;;;;;;;;;;"[Root.GetTitledFirstName] ñïðàøèâàåò ñâîåãî íàñòàâíèêà ([This.GetTitledFirstName]) ÷òî òàêîå ""áàñòàðä""";;x

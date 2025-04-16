@@ -1,15 +1,15 @@
-gain_friend;[Root.GetTitledName] gains a new friend.;;;;;;;;;;;;;x
-health_travel_condition;Is healthy enough to travel\n;;;;;;;;;;;;;x
-insulted_realm_christians;Christians in your Realm will be gravely insulted.;;;;;;;;;;;;;x
-insulted_realm_infidels;Infidels in your realm are insulted.;;;;;;;;;;;;;x
-jeanne_arrives_message;[jeanne_darc.GetFirstName] the Maid of [home_of_jeanne_darc.GetName] has arrived at the court of [Root.GetTitledName].;;;;;;;;;;;;;x
-most_clergy_angry;Many members of the realm's clergy will be angry with [Root.GetTitledFirstName].;;;;;;;;;;;;;x
-most_lords_angry;Many of the lords in the realm will be angry with [Root.GetTitledFirstName].;;;;;;;;;;;;;x
-noahs_ark_cats_dogs;It had better not rain any more.;;;;;;;;;;;;;x
-passover_accepted;You accept the invitation.;;;;;;;;;;;;;x
-passover_celebrations;The preparations for this year's Passover festival begin.\n;;;;;;;;;;;;;x
-passover_declined;You decline the invitation.;;;;;;;;;;;;;x
-passover_invitations_sent;You send out invitations to your Jewish vassals for the traditional Passover Seder dinner.;;;;;;;;;;;;;x
-third_temple_construction;Construction on the Third Temple has begun.;;;;;;;;;;;;;x
-joan_darc;Jehanne Darc;;;;;;;;;;;;;x
-heretic_joan_darc;Jehanne Darc;;;;;;;;;;;;;x
+gain_friend;[Root.GetTitledName] gains a new friend.;;;;;;;;;;;[Root.GetTitledName] íàõîäèò íîâîãî äðóãà.;;x
+health_travel_condition;Is healthy enough to travel\n;;;;;;;;;;;Çäîðîâüå ïîçâîëÿåò ïóòåøåñòâîâàòü\n;;x
+insulted_realm_christians;Christians in your Realm will be gravely insulted.;;;;;;;;;;;Õðèñòèàíå Âàøåé ñòðàíû áóäóò ãëóáîêî îñêîðáëåíû;;x
+insulted_realm_infidels;Infidels in your realm are insulted.;;;;;;;;;;;Íåâåðíûå Âàøåé ñòðàíû îñêîðáëåíû.;;x
+jeanne_arrives_message;[jeanne_darc.GetFirstName] the Maid of [home_of_jeanne_darc.GetName] has arrived at the court of [Root.GetTitledName].;;;;;;;;;;;[FromFrom.GetFirstName], [From.County.GetAdjective]ñêàÿ Äåâà, ïðèáûâàåò êî äâîðó ïðàâèòåëÿ, èçâåñòíîãî êàê [Root.GetTitledName].;;x
+most_clergy_angry;Many members of the realm's clergy will be angry with [Root.GetTitledFirstName].;;;;;;;;;;;[Root.GetTitledFirstName] íàñòðîèò ïðîòèâ ñåáÿ çíà÷èòåëüíóþ ÷àñòü äóõîâåíñòâà.;;x
+most_lords_angry;Many of the lords in the realm will be angry with [Root.GetTitledFirstName].;;;;;;;;;;;[Root.GetTitledFirstName] íàñòðîèò ïðîòèâ ñåáÿ ìíîãèõ ôåîäàëîâ.;;x
+noahs_ark_cats_dogs;It had better not rain any more.;;;;;;;;;;;Íàäåþñü, áîëüøå äîæäÿ íå áóäåò.;;x
+passover_accepted;You accept the invitation.;;;;;;;;;;;Âû ïðèíÿëè ïðèíÿëè ïðèãëàøåíèå.;;x
+passover_celebrations;The preparations for this year's Passover festival begin.\n;;;;;;;;;;;Ïðèãîòîâëåíèÿ äëÿ ïðàçäíîâàíèÿ Ïåñàõà íà÷àëèñü.\n;;x
+passover_declined;You decline the invitation.;;;;;;;;;;;Âû îòâåðãëè ïðèãëàøåíèå.;;x
+passover_invitations_sent;You send out invitations to your Jewish vassals for the traditional Passover Seder dinner.;;;;;;;;;;;Âû ðàçîñëàëè ïðèãëàøåíèÿ íà òðàäèöèîííûé ïàñõàëüíûé Ñåäåð ñâîèì âàññàëàì-èóäåÿì.;;x
+third_temple_construction;Construction on the Third Temple has begun.;;;;;;;;;;;Ñòðîèòåëüñòâî Òðåòüåãî Õðàìà íà÷àëîñü.;;x
+joan_darc;Jehanne Darc;;;;;;;;;;;Æàííà ä’Àðê;;x
+heretic_joan_darc;Jehanne Darc;;;;;;;;;;;Æàííà ä’Àðê;;x

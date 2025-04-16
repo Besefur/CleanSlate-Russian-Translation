@@ -1,43 +1,37 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC67000;There are rulers in the world who are sadly neglecting the laws that Jesus himself gave to the Holy Church.;;;;;;;;;;;;;x
-EVTDESC67001;The Pope is upset with our law of Free Investiture. The Holy Father is asking us to change it to comply with Church Doctrine.;;;;;;;;;;;;;x
-EVTDESC67002;[From.GetTitledFirstName] has accepted God's will, and is now allowing Papal appointments of Bishops.;;;;;;;;;;;;;x
-EVTDESC67003;The Devil is acting through [From.GetTitledFirstName]. That can be the only reason for [From.GetHerHis] stubborn refusal of God's will.;;;;;;;;;;;;;x
-EVTDESC67004;[From.GetTitledFirstName] has sent donations to the Church. This will be needed for the holy work.;;;;;;;;;;;;;x
-EVTDESC67005;[From.GetTitledFirstName] has argued convincingly, on theological grounds, why [From.GetHerHis] realm should be exempt from Papal Law.;;;;;;;;;;;;;x
-EVTDESC67010;The Kings and Emperors refuse to follow the Law of God. It is up to the servants of Christ to rectify this.;;;;;;;;;;;;;x
-EVTDESC67011;An emissary is visiting us from the Papacy, giving us gifts and demanding our allegiance to the Throne of St. Peter;;;;;;;;;;;;;x
-EVTDESC67012;[From.GetTitledFirstName] has been approached by the Pope, and is clearly disregarding our lawful rights.;;;;;;;;;;;;;x
-EVTDESC67020;The Kings and Emperors refuse to follow the Law of God. However, any nobleman anointed by God's servants can become a rightful King.;;;;;;;;;;;;;x
-EVTDESC67021;The Holy Father is asking us to replace our liege, and is giving us the divine right to do so.;;;;;;;;;;;;;x
-EVTDESC67022;[From.GetTitledFirstName] is a rebel and a traitor. The false sweet words of the false pope has swayed [From.GetHerHim].;;;;;;;;;;;;;x
-
-EVTOPTA67000;Invite them to follow the true doctrines;;;;;;;;;;;;;x
-EVTOPTA67001;We always follow the divine will.;;;;;;;;;;;;;x
-EVTOPTA67003;There will be other ways.;;;;;;;;;;;;;x
-EVTOPTA67004;We can wait for [From.GetHerHim] to change the laws.;;;;;;;;;;;;;x
-EVTOPTA67005;God moves in mysterious ways.;;;;;;;;;;;;;x
-EVTOPTA67010;Demand allegiance to the Throne of St. Peter;;;;;;;;;;;;;x
-EVTOPTA67011;God is great!;;;;;;;;;;;;;x
-EVTOPTA67012;Will no one rid me of this turbulent priest?;;;;;;;;;;;;;x
-EVTOPTA67020;Grant the vassal a legal claim to the title.;;;;;;;;;;;;;x
-EVTOPTA67021;God save the Pope!;;;;;;;;;;;;;x
-EVTOPTA67022;[From.GetSheHeCap] will pay for this!;;;;;;;;;;;;;x
-
-EVTOPTB67000;God will punish them later...;;;;;;;;;;;;;x
-EVTOPTB67001;I rule in MY realm!;;;;;;;;;;;;;x
-EVTOPTB67010;Let it slide;;;;;;;;;;;;;x
-EVTOPTB67011;My liege is my sovereign;;;;;;;;;;;;;x
-EVTOPTB67020;That is a bad idea...;;;;;;;;;;;;;x
-EVTOPTB67021;I am loyal to my liege!;;;;;;;;;;;;;x
-
-EVTOPTC67001;Some gold to the church will silence them.;;;;;;;;;;;;;x
-
-EVTOPTD67001;Decline on Theological Grounds;;;;;;;;;;;;;x
-
-EVTTOOLTIP67001;[This.GetTitledFirstName] will read the papal letter.;;;;;;;;;;;;;x
-EVTTOOLTIP67011;[This.GetTitledFirstName] will listen to the demands of The Holy Father;;;;;;;;;;;;;x
-EVTTOOLTIP67012;Our mortal liege will hear of this.;;;;;;;;;;;;;x
-EVTTOOLTIP67021;[This.GetTitledFirstName] will evaluate our proposal;;;;;;;;;;;;;x
-EVTTOOLTIP67022;Our Liege will hear of this.;;;;;;;;;;;;;x
+EVTDESC67000;There are rulers in the world who are sadly neglecting the laws that Jesus himself gave to the Holy Church.;;;;;;;;;;;Ñóùåñòâóþò ïðàâèòåëè, êîòîðûå, ê ñîæàëåíèþ, ïðåíåáðåãàþò çàêîíàìè, êîòîðûå ñàì Èèñóñ äàë Ñâÿòîé Öåðêâè!;;x
+EVTDESC67001;The Pope is upset with our law of Free Investiture. The Holy Father is asking us to change it to comply with Church Doctrine.;;;;;;;;;;;Ïàïà ðàññòðîåí íàøèì çàêîíîì î ñâîáîäíîé èíâåñòèòóðå. Ñâÿòåéøèé Îòåö ïðîñèò íàñ èçìåíèòü åãî ñîãëàñíî äîêòðèíàì Öåðêâè.;;x
+EVTDESC67002;[From.GetTitledFirstName] has accepted God's will, and is now allowing Papal appointments of Bishops.;;;;;;;;;;;[From.GetTitledFirstName] óçðåë Áîæåñòâåííóþ âîëþ è ïîçâîëèë Ïàïå íàçíà÷àòü åïèñêîïîâ.;;x
+EVTDESC67003;The Devil is acting through [From.GetTitledFirstName]. That can be the only reason for [From.GetHerHis] stubborn refusal of God's will.;;;;;;;;;;;Äüÿâîë âñåëèëñÿ â [From.GetTitledFirstName]. Òîëüêî ýòî ìîæåò îáúÿñíèòü, ïî÷åìó [From.GetHersHis] óïîðíî íå æåëàåò ñëåäîâàòü Áîæåñòâåííîé âîëå.;;x
+EVTDESC67004;[From.GetTitledFirstName] has sent donations to the Church. This will be needed for the holy work.;;;;;;;;;;;[From.GetTitledFirstName] îòïðàâèë[From.GetEndA] ïîæåðòâîâàíèÿ Ñâÿòîé öåðêâè. Ýòî ïðîñòî íåîáõîäèìî äëÿ áëàãèõ äåë!;;x
+EVTDESC67005;[From.GetTitledFirstName] has argued convincingly, on theological grounds, why [From.GetHerHis] realm should be exempt from Papal Law.;;;;;;;;;;;[From.GetTitledFirstName] óáåäèòåëüíî íà îñíîâå òåîëîãè÷åñêèõ ñóæäåíèé îáîñíîâûâàåò, ïî÷åìó èõ ãîñóäàðñòâî äîëæíî îòðèíóòü Ïàïñêèå çàêîíû.;;x
+EVTDESC67010;The Kings and Emperors refuse to follow the Law of God. It is up to the servants of Christ to rectify this.;;;;;;;;;;;Êîðîëè è èìïåðàòîðû îòêàçûâàþòñÿ ñëåäîâàòü Çàêîíó Áîæüåìó. Òîëüêî èñòûå ïîñëåäîâàòåëÿ Õðèñòà ìîãóò èñïðàâèòü ýòî!;;x
+EVTDESC67011;An emissary is visiting us from the Papacy, giving us gifts and demanding our allegiance to the Throne of St. Peter;;;;;;;;;;;Ïàïñêèé ëåãàò ïðèáûë ê íàì. Îí ïðèí¸ñ äàðû, íî ïîòðåáîâàë âåðíîñòü òðîíó Ñâÿòîãî Ïåòðà.;;x
+EVTDESC67012;[From.GetTitledFirstName] has been approached by the Pope, and is clearly disregarding our lawful rights.;;;;;;;;;;;[From.GetTitledFirstName] îáðàòè[From.GetLasLsya] ê Ïàïå, ÿâíî èãíîðèðóÿ íàøè çàêîííûå ïðàâà.;;x
+EVTDESC67020;The Kings and Emperors refuse to follow the Law of God. However, any nobleman anointed by God's servants can become a rightful King.;;;;;;;;;;;Êîðîëè è èìïåðàòîðû îòêàçûâàþòñÿ ñëåäîâàòü Çàêîíó Áîæüåìó. Ñëåäóåò îòìåòèòü, ÷òî ëþáîé äâîðÿíèí, ïîìàçàííûé ñëóãîé Áîæüèì, ìîæåò ñòàòü çàêîííûì êîðîë¸ì.;;x
+EVTDESC67021;The Holy Father is asking us to replace our liege, and is giving us the divine right to do so.;;;;;;;;;;;Ñâÿòåéøèé îòåö ïðîñèò íàñ ñìåíèòü ñâîåãî ñþçåðåíà è äà¸ò íàì áîæåñòâåííîå ïðàâî ýòî ñäåëàòü.;;x
+EVTDESC67022;[From.GetTitledFirstName] is a rebel and a traitor. The false sweet words of the false pope has swayed [From.GetHerHim].;;;;;;;;;;;[From.GetTitledFirstName] ìÿòåæíèê è ïðåäàòåëü. Ñëàäêèå ëîæíûå ñëîâà ëîæíîãî Ïàïû ïîøàòíóëè åãî âåðíîñòü íàì.;;x
+EVTOPTA67000;Invite them to follow the true doctrines;;;;;;;;;;;Ïðåäëîæèòå èì ñëåäîâàòü äîêòðèíàì Èñòèííîé âåðû;;x
+EVTOPTA67001;We always follow the divine will.;;;;;;;;;;;Ìû âñåãäà ñëåäóåì Áîæåñòâåííîé âîëå;;x
+EVTOPTA67003;There will be other ways.;;;;;;;;;;;Âñåãäà ñóùåñòâóþò èíûå ïóòè;;x
+EVTOPTA67004;We can wait for [From.GetHerHim] to change the laws.;;;;;;;;;;;Ìû ìîæåì è ïîäîæäàòü ñ èçìåíåíèÿìè çàêîíîâ;;x
+EVTOPTA67005;God moves in mysterious ways.;;;;;;;;;;;Ïóòè Ãîñïîäíè íåèñïîâåäèìû!;;x
+EVTOPTA67010;Demand allegiance to the Throne of St. Peter;;;;;;;;;;;Òðåáîâàòü âåðíîñòè òðîíó Ñâÿòîãî Ïåòðà;;x
+EVTOPTA67011;God is great!;;;;;;;;;;;Ãîñïîäü Âñåìîãóù!;;x
+EVTOPTA67012;Will no one rid me of this turbulent priest?;;;;;;;;;;;Íåóæåëè íèêòî íå èçáàâèò ìåíÿ îò ýòîãî íàäîåäëèâîãî ñâÿùåííèêà?;;x
+EVTOPTA67020;Grant the vassal a legal claim to the title.;;;;;;;;;;;Ïðåäîñòàâüòå âàññàëó çàêîííûå ïðåòåíçèè íà òèòóë;;x
+EVTOPTA67021;God save the Pope!;;;;;;;;;;;Áîæå, õðàíè Ïàïó!;;x
+EVTOPTA67022;[From.GetSheHeCap] will pay for this!;;;;;;;;;;;[From.GetSheHeCap] çàïëàòèò çà ýòî!;;x
+EVTOPTB67000;God will punish them later...;;;;;;;;;;;Ãîñïîäü íàêàæåò èõ...;;x
+EVTOPTB67001;I rule in MY realm!;;;;;;;;;;;Â ìî¸ì ãîñóäàðñòâå ïðàâëþ ß!;;x
+EVTOPTB67010;Let it slide;;;;;;;;;;;Ïóñòü;;x
+EVTOPTB67011;My liege is my sovereign;;;;;;;;;;;Ìîé ñþçåðåí - ìîé ãîñïîäèí!;;x
+EVTOPTB67020;That is a bad idea...;;;;;;;;;;;Ýòî ïëîõàÿ èäåÿ...;;x
+EVTOPTB67021;I am loyal to my liege!;;;;;;;;;;;ß âåðåí ìîåìó ñþçåðåíó!;;x
+EVTOPTC67001;Some gold to the church will silence them.;;;;;;;;;;;Íåìíîãî çîëîòà, ïîæàëîâàííîãî öåðêâè, çàñòàâèò åãî çàìîë÷àòü;;x
+EVTOPTD67001;Decline on Theological Grounds;;;;;;;;;;;Îòêàç îò òåîëîãè÷åñêèõ îñíîâ;;x
+EVTTOOLTIP67001;[This.GetTitledFirstName] will read the papal letter.;;;;;;;;;;;Ïðî÷èòàòü ïèñüìî Ïàïû;;x
+EVTTOOLTIP67011;[This.GetTitledFirstName] will listen to the demands of The Holy Father;;;;;;;;;;;Ïðèñëóøàåòñÿ ê òðåáîâàíèÿì Ñâÿòîãî Îòöà;;x
+EVTTOOLTIP67012;Our mortal liege will hear of this.;;;;;;;;;;;Íàø ñìåðòíûé ñþçåðåí óñëûøèò îá ýòîì;;x
+EVTTOOLTIP67021;[This.GetTitledFirstName] will evaluate our proposal;;;;;;;;;;;Ìû ðàññìîòðèì Âàøå ïðåäëîæåíèå;;x
+EVTTOOLTIP67022;Our Liege will hear of this.;;;;;;;;;;;Íàø ñþçåðåí óñëûøèò ýòî!;;x

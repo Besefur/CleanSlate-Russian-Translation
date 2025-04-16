@@ -1,29 +1,27 @@
-EVTDESC_ZE_8100;Upon the conclusion of a long council meeting you decide to make a toast. Of course, one toast eventually becomes many and time seems to slip away... Later, as you leave the council chamber, you stumble and fall on your face. You can feel the taste of blood in your mouth and dizzyness is setting in.;;;;;;;;;;;;;x
-EVTDESC_ZE_8101;[From.GetTitledName] just left the council meeting but now you can hear a faint call for help. As you go outside you notice [From.GetTitledName] laying flat on [From.GetHerHis] face and all bloodied up. [From.GetSheHeCap] asks you for aid, and to be discreet.;;;;;;;;;;;;;x
-EVTDESC_ZE_8102;You hear the voice of [From.GetTitledFirstName] just before you pass out. As you wake up the next morning, it feels as if your head is about to explode. But at least you are safe.;;;;;;;;;;;;;x
-EVTDESC_ZE_8103;You notice [From.GetTitledName] standing next to you, [From.GetSheHe] seems to contemplate helping but is not responding to your pleads. Just before you pass out you see [From.GetHerHim] bringing the rest of the councillors out, and they look at you in pity before they help you.;;;;;;;;;;;;;x
-EVTDESC_ZE_8110;Your vassal [target_vassal.GetTitledName] is arguing with [target_vassal.GetHerHis] [target_vassal.GetHusbandWifeOpp]. [target_vassal.GetSheHeCapOpp] seems quite upset and they are almost screaming at each other. They don't even notice that you are watching them.;;;;;;;;;;;;;x
-EVTDESC_ZE_8111;As you approach the couple, you look at them both and explain that [target_vassal.GetFirstName] must have been under a lot of stress lately with all the responsibilities the council put on [target_vassal.GetHerHim]. Now there will be less to do and [target_vassal.GetSheHe] will have time to show [target_vassal.GetHerHis] [target_vassal.GetHusbandWifeOpp] some appreciation.;;;;;;;;;;;;;x
-EVTDESC_ZE_8112;Me and my [Root.GetHusbandWifeOpp] were arguing violently about insignificant matters but [From.GetTitledName] came to my rescue and my marriage may be saved because of that.;;;;;;;;;;;;;x
-EVTDESC_ZE_8113;[From.GetTitledName] seemed very grateful for my help, and promised to return the favor whenever possible.;;;;;;;;;;;;;x
-EVTDESC_ZE_8114;[From.GetTitledName] was upset that I interrupted a private discussion, [From.GetSheHe] wanted me to stay out of their business in the future.;;;;;;;;;;;;;x
-EVTDESC_ZE_8120;The crooked [pardon_target.GetBestName] has called in the Favor you owe [pardon_target.GetHerHim] in order to force you to pardon [pardon_target.GetHerHis] devious crimes! You will no longer be able to take hostile actions against [pardon_target.GetHerHim] without looking like a tyrant in the eyes of the realm.;;;;;;;;;;;;;x
-
-EVTOPTA_ZE_8100;Help!;;;;;;;;;;;;;x
-EVTOPTA_ZE_8100_TOOLTIP;Hopefully someone will hear you.;;;;;;;;;;;;;x
-EVTOPTA_ZE_8101;Help [From.GetHerHim] discreetly.;;;;;;;;;;;;;x
-EVTOPTA_ZE_8101_TOOLTIP;You do the honorable thing.;;;;;;;;;;;;;x
-EVTOPTA_ZE_8102;I am in debt to [From.GetTitledFirstName].;;;;;;;;;;;;;x
-EVTOPTA_ZE_8103;I'll remember this.;;;;;;;;;;;;;x
-EVTOPTA_ZE_8110;I should intervene.;;;;;;;;;;;;;x
-EVTOPTA_ZE_8111;Leave.;;;;;;;;;;;;;x
-EVTOPTA_ZE_8112;I owe [From.GetHerHim] a favor.;;;;;;;;;;;;;x
-EVTOPTA_ZE_8113;I'm glad it worked out for them.;;;;;;;;;;;;;x
-EVTOPTA_ZE_8114;[From.GetTitledName] should be grateful for my help!;;;;;;;;;;;;;x
-EVTOPTA_ZE_8120;Forgive and forget.;;;;;;;;;;;;;x
-
-EVTOPTB_ZE_8100;No need to draw attention to myself right now, I think.;;;;;;;;;;;;;x
-EVTOPTB_ZE_8100_TOOLTIP;Survival of the fittest.;;;;;;;;;;;;;x
-EVTOPTB_ZE_8101;Call the others out and mock [From.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTB_ZE_8110;It's none of my business.;;;;;;;;;;;;;x
-EVTOPTB_ZE_8112;[From.GetFirstName] should stay out of my business.;;;;;;;;;;;;;x
+EVTDESC_ZE_8100;Upon the conclusion of a long council meeting you decide to make a toast. Of course, one toast eventually becomes many and time seems to slip away... Later, as you leave the council chamber, you stumble and fall on your face. You can feel the taste of blood in your mouth and dizzyness is setting in.;;;;;;;;;;;Çàñåäàíèå Ñîâåòà îêàçàëîñü äîëãèì, è Âû ðåøèëè ñêðàñèòü åãî, ïðåäëîæèâ òîñò. Êàê ýòî îáû÷íî áûâàåò, òîñò çàòÿíóëñÿ, è Âû íå çàìåòèëè, êàê ïðîëåòåëî âðåìÿ... Ïîçæå, â ëè÷íûõ [Root.GetChamberPREP] ó Âàñ çàêðóæèëàñü ãîëîâà è Âû ïî÷óâñòâîâàëè ïðèâêóñ êðîâè âî ðòó.;;x
+EVTDESC_ZE_8101;[From.GetTitledName] just left the council meeting but now you can hear a faint call for help. As you go outside you notice [From.GetTitledName] laying flat on [From.GetHerHis] face and all bloodied up. [From.GetSheHeCap] asks you for aid, and to be discreet.;;;;;;;;;;;[From.GetTitledName] òîëüêî ÷òî ïîêèíóë[From.GetEndA] çàñåäàíèå ñîâåòà, è ñåé÷àñ Âû ñëûøèòå ñäàâëåííûé êðèê î ïîìîùè - ýòî íå ìîæåò áûòü ñîâïàäåíèåì. Ïîñïåøèâ íà âûðó÷êó, Âû îáíàðóæèëè [From.GetHersHis] ëåæàù[From.GetEyIm] íà ïîëó â êðîâè. [From.GetSheHeCap] ïîïðîñèë[From.GetEndA] Âàñ äåðæàòü ýòî â òàéíå.;;x
+EVTDESC_ZE_8102;You hear the voice of [From.GetTitledFirstName] just before you pass out. As you wake up the next morning, it feels as if your head is about to explode. But at least you are safe.;;;;;;;;;;;Âû ïîìíèòå, ÷òî ñëûøàëè ÷åé-òî ãîëîñ, à ïîòîì ïîòåðÿëè ñîçíàíèå. Äà, ýòî áûë[From.GetEndA] [From.GetTitledFirstName]. Ñåé÷àñ, êîãäà Âû ïðèøëè â ñåáÿ, Âàøà ãîëîâà ãîòîâà âçîðâàòüñÿ, íî, ê ñ÷àñòüþ, Âû æèâû.;;x
+EVTDESC_ZE_8103;You notice [From.GetTitledName] standing next to you, [From.GetSheHe] seems to contemplate helping but is not responding to your pleads. Just before you pass out you see [From.GetHerHim] bringing the rest of the councillors out, and they look at you in pity before they help you.;;;;;;;;;;;[From.GetTitledName] ñòîÿë[From.GetEndA] ðÿäîì ñ Âàìè. Ïîõîæå, [From.GetSheHe] âíÿë[From.GetEndA] Âàøèì ìîëüáàì è ïîçâàë[From.GetEndA] íà ïîìîùü. Ïðåæäå ÷åì ïîòåðÿòü ñîçíàíèå, Âû óâèäåëè, êàê ñîâåòíèêè îêðóæàþò Âàñ è ïåðåíîñÿò íà êóøåòêó, ïðåçðèòåëüíî ïåðåø¸ïòûâàÿñü.;;x
+EVTDESC_ZE_8110;Your vassal [target_vassal.GetTitledName] is arguing with [target_vassal.GetHerHis] [target_vassal.GetHusbandWifeOpp]. [target_vassal.GetSheHeCapOpp] seems quite upset and they are almost screaming at each other. They don't even notice that you are watching them.;;;;;;;;;;;Âàø âàññàë [target_vassal.GetTitledName] ðóãàåòñÿ ñî ñâî[target_vassal.GetEyImOpp] [target_vassal.GetHusbandWifeOppINS]. Ïîõîæå [target_vassal.GetSheHeOpp] ÷åì-òî ñèëüíî ðàññòðîåí[target_vassal.GetEndAOpp], îíè ïðàêòè÷åñêè êðè÷àò äðóã íà äðóãà è ñîâåðøåííî íå çàìå÷àþò, ÷òî Âû çà íèìè íàáëþäàåòå.;;x
+EVTDESC_ZE_8111;As you approach the couple, you look at them both and explain that [target_vassal.GetFirstName] must have been under a lot of stress lately with all the responsibilities the council put on [target_vassal.GetHerHim]. Now there will be less to do and [target_vassal.GetSheHe] will have time to show [target_vassal.GetHerHis] [target_vassal.GetHusbandWifeOpp] some appreciation.;;;;;;;;;;;Ïîäîéäÿ ê ýòîé ïàðî÷êå, Âû ïîïûòàëèñü îáúÿñíèòü, ÷òî [target_vassal.GetFirstName] â ïîñëåäíåå âðåìÿ ïåðåæèâàåò ñèëüíûé ñòðåññ â ñâÿçè ñ îòâåòñòâåííîé ðàáîòîé â ñîâåòå, íî òåïåðü òÿæ¸ëûé ïåðèîä çàêîí÷èëñÿ è ó í[target_vassal.GetHersHis] áóäåò áîëüøå âðåìåíè ñåìüå.;;x
+EVTDESC_ZE_8112;Me and my [Root.GetHusbandWifeOpp] were arguing violently about insignificant matters but [From.GetTitledName] came to my rescue and my marriage may be saved because of that.;;;;;;;;;;;Ìû ñ [Root.GetHusbandWifeOppINS] îïÿòü ðóãàëèñü èç-çà êàêîé-òî åðóíäû, íî âäðóã ê íàì ïîäîø[From.GetLaYol] [From.GetTitledName]. Óäèâèòåëüíî, íî [From.GetSheHe] ïðèø[From.GetLaYol] ìíå íà ïîìîùü, ÷òîáû ïîãîâîðèòü ñ íàìè è ñïàñòè ìîé áðàê.;;x
+EVTDESC_ZE_8113;[From.GetTitledName] seemed very grateful for my help, and promised to return the favor whenever possible.;;;;;;;;;;;Ïîõîæå, [From.GetTitledName] âåñüìà ïðèçíàòåë[From.GetSoftNaEn] ìíå çà ïîìîùü è îáåùàåò âåðíóòü äîëã â ëþáîå âðåìÿ.;;x
+EVTDESC_ZE_8114;[From.GetTitledName] was upset that I interrupted a private discussion, [From.GetSheHe] wanted me to stay out of their business in the future.;;;;;;;;;;;"[From.GetTitledName] âîçìóù[From.GetNaEn] òåì, êàê áåñöåðåìîííî ÿ âìåøà[Root.GetLasLsya] â èõ ñ [From.GetHusbandWifeOppINS] ëè÷íóþ áåñåäó. [From.GetSheHeCap] ïîïðîñèë[From.GetEndA] ìåíÿ âïðåäü ""äåðæàòüñÿ ïîäàëüøå"" îò [From.GetHersHis] ëè÷íîé æèçíè.";;x
+EVTDESC_ZE_8120;The crooked [pardon_target.GetBestName] has called in the Favor you owe [pardon_target.GetHerHim] in order to force you to pardon [pardon_target.GetHerHis] devious crimes! You will no longer be able to take hostile actions against [pardon_target.GetHerHim] without looking like a tyrant in the eyes of the realm.;;;;;;;;;;;[pardon_target.GetBestName] íàïîìèíàåò, ÷òî Âû ó í[pardon_target.GetHersHis] â äîëãó è ïðåäëàãàåò â êà÷åñòâå ðàñïëàòû çàáûòü î [pardon_target.GetHersHis] ãíóñíûõ ïðåñòóïëåíèÿõ. Âû áîëüøå íå ñìîæåòå ïðåäïðèíÿòü âðàæäåáíûå äåéñòâèÿ ïðîòèâ í[pardon_target.GetHersHis] áåç ðèñêà ðàçîáëà÷èòü ñåáÿ.;;x
+EVTOPTA_ZE_8100;Help!;;;;;;;;;;;Ïîìîãèòå!;;x
+EVTOPTA_ZE_8100_TOOLTIP;Hopefully someone will hear you.;;;;;;;;;;;Åñëè ïîâåçåò, êòî-íèáóäü óñëûøèò Âàñ.;;x
+EVTOPTA_ZE_8101;Help [From.GetHerHim] discreetly.;;;;;;;;;;;Âûïîëíèòü [From.GetHersHis] ïðîñüáó.;;x
+EVTOPTA_ZE_8101_TOOLTIP;You do the honorable thing.;;;;;;;;;;;Âû ïîñòóïàåòå äîñòîéíî.;;x
+EVTOPTA_ZE_8102;I am in debt to [From.GetTitledFirstName].;;;;;;;;;;;Ñïàñèáî, [From.GetFirstName], ÿ ó òåáÿ â äîëãó.;;x
+EVTOPTA_ZE_8103;I'll remember this.;;;;;;;;;;;"ß íå çàáóäó î òâîåé ""äîáðîòå"", [From.GetFirstName].";;x
+EVTOPTA_ZE_8110;I should intervene.;;;;;;;;;;;ß äîëæ[Root.GetNaEn] âìåøàòüñÿ.;;x
+EVTOPTA_ZE_8111;Leave.;;;;;;;;;;;Òåïåðü ïîðà îñòàâèòü èõ íàåäèíå.;;x
+EVTOPTA_ZE_8112;I owe [From.GetHerHim] a favor.;;;;;;;;;;;ß ïåðåä í[From.GetEyIm] â äîëãó.;;x
+EVTOPTA_ZE_8113;I'm glad it worked out for them.;;;;;;;;;;;Ðàä[Root.GetEndA], ÷òî ýòî èì ïîìîãëî.;;x
+EVTOPTA_ZE_8114;[From.GetTitledName] should be grateful for my help!;;;;;;;;;;;Íåáëàãîäàðí[From.GetAyaYy]!;;x
+EVTOPTA_ZE_8120;Forgive and forget.;;;;;;;;;;;Ïîíÿòü è ïðîñòèòü.;;x
+EVTOPTB_ZE_8100;No need to draw attention to myself right now, I think.;;;;;;;;;;;Íåëüçÿ ïðèâëåêàòü âíèìàíèå...;;x
+EVTOPTB_ZE_8100_TOOLTIP;Survival of the fittest.;;;;;;;;;;;Åñòåñòâåííûé îòáîð.;;x
+EVTOPTB_ZE_8101;Call the others out and mock [From.GetHerHim].;;;;;;;;;;;Ïîçâàòü îñòàëüíûõ.;;x
+EVTOPTB_ZE_8110;It's none of my business.;;;;;;;;;;;Ýòî íå ìî¸ äåëî.;;x
+EVTOPTB_ZE_8112;[From.GetFirstName] should stay out of my business.;;;;;;;;;;;Ýòî [From.GetHersHis] íå êàñàåòñÿ.;;x

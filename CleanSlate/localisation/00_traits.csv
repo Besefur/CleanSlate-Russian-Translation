@@ -1,723 +1,723 @@
-abdominal_pain;Abdominal Pain;;;;;;;;;;;;;x
-abdominal_pain_death;clutching at [GetHerHis] gut;;;;;;;;;;;;;x
-abdominal_pain_desc;This [GetGirlWomanBoyMan] experiences abdominal pains - perhaps due to eating something bad, what else could it be?;;;;;;;;;;;;;x
-administrator;Administrator;;;;;;;;;;;;;x
-administrator_desc;This [GetGirlWomanBoyMan] is a devoted administrator who loves order and efficiency above all things.;;;;;;;;;;;;;x
-adventurer;Adventurer;;;;;;;;;;;;;x
-adventurer_desc;This [GetGirlWomanBoyMan] has a background as an adventurer, which means that [GetSheHe] might be somewhat more ambitious than others.;;;;;;;;;;;;;x
-affectionate;Affectionate;;;;;;;;;;;;;x
-affectionate_desc;This [GetBoyGirl] is kind and is quick to show love and affection. Can develop into: §YKind§!, §YContent§! or §YTrusting§!.;;;;;;;;;;;;;x
-aggressive_leader;Aggressive Leader;;;;;;;;;;;;;x
-aggressive_leader_desc;This [GetGirlWomanBoyMan] does not shy away from battle, and will show no mercy to opponents who attempt to quit the field.;;;;;;;;;;;;;x
-amateurish_plotter;Amateurish Plotter;;;;;;;;;;;;;x
-amateurish_plotter_desc;The Amateurish Plotter has received an education emphasizing intrigue skills. Unfortunately, it didn't stick.;;;;;;;;;;;;;x
-ambitious;Ambitious;;;;;;;;;;;;;x
-ambitious_desc;Ambitious characters work harder, making [GetHerHim] better at everything. However, [GetHerHis] drive to reach the top means that they tend to make poor vassals...;;;;;;;;;;;;;x
-arbitrary;Arbitrary;;;;;;;;;;;;;x
-arbitrary_desc;This [GetGirlWomanBoyMan] could not care less about justice - a [GetGirlWomanBoyMan] flaw that is not appreciated by vassals and courtiers.;;;;;;;;;;;;;x
-architect;Architect;;;;;;;;;;;;;x
-architect_desc;This [GetGirlWomanBoyMan] loves buildings, architecture and machinery, particularly anything related to siege warfare.;;;;;;;;;;;;;x
-ares_own;Ares' Own;;;;;;;;;;;;;x
-ares_own_desc;Ares' Own are overwhelming, insatiable in battle, destructive, and man-slaughtering. They fight for the Hellenic faith.;;;;;;;;;;;;;x
-aryika;Aryika;;;;;;;;;;;;;x
-aryika_desc;This woman has taken the Mahavrata vows and lives a life of asceticism, thus making her unable to marry or inherit.;;;;;;;;;;;;;x
-ashari;Ash'ari;;;;;;;;;;;;;x
-ashari_desc;This [GetGirlWomanBoyMan] is an adherent of the Sunni Ash'ari school of theology, placing emphasis on tradition, revelation and occasionalism.;;;;;;;;;;;;;x
-attractive;Attractive;;;;;;;;;;;;;x
-attractive_desc;This [GetGirlWomanBoyMan] has a most pleasing physique, most attractive to the opposite sex.;;;;;;;;;;;;;x
-augustus;Augustus;;;;;;;;;;;;;x
-augustus_desc;[GetAltAugustusName];;;;;;;;;;;;;x
-aztec_disease;Syphilitic;;;;;;;;;;;;;x
-aztec_disease_death;of Syphilis;;;;;;;;;;;;;x
-aztec_disease_desc;This [GetGirlWomanBoyMan] suffers from Syphilis, a virulent strain of Great Pox brought from across the sea by the Aztec conquerors.;;;;;;;;;;;;;x
-bad_priest_aztec;Unworthy Priest;;;;;;;;;;;;;x
-bad_priest_aztec_desc;The personality and habits of this priest are very inappropriate for [GetHerHis] position. And what's worse, [GetSheHe] has been unable to hide them from public view.;;;;;;;;;;;;;x
-bad_priest_christian;Wicked Priest;;;;;;;;;;;;;x
-bad_priest_christian_desc;The personality and habits of this priest are very inappropriate for [GetHerHis] position. And what's worse, [GetSheHe] has been unable to hide them from public view.;;;;;;;;;;;;;x
-bad_priest_muslim;Wicked Caliph;;;;;;;;;;;;;x
-bad_priest_muslim_desc;This Caliph's personality and habits are very inappropriate for [GetHerHis] position. And what's worse, [GetSheHe] has been unable to hide them from public view.;;;;;;;;;;;;;x
-bad_priest_norse;Unworthy Priest;;;;;;;;;;;;;x
-bad_priest_norse_desc;The personality and habits of this priest are very inappropriate for [GetHerHis] position. And what's worse, [GetSheHe] has been unable to hide them from public view.;;;;;;;;;;;;;x
-bad_priest_tengri;Unworthy Priest;;;;;;;;;;;;;x
-bad_priest_tengri_desc;The personality and habits of this priest are very inappropriate for [GetHerHis] position. And what's worse, [GetSheHe] has been unable to hide them from public view.;;;;;;;;;;;;;x
-bad_priest_zoroastrian;Immoral Priest;;;;;;;;;;;;;x
-bad_priest_zoroastrian_desc;The personality and habits of this priest are very inappropriate for [GetHerHis] position. And what's worse, [GetSheHe] has been unable to hide them from public view.;;;;;;;;;;;;;x
-baltic_leader;Forest Ambusher;;;;;;;;;;;;;x
-baltic_leader_desc;This [GetGirlWomanBoyMan] is used to defending ancient and sacred woodlands.;;;;;;;;;;;;;x
-baptized_by_bishop;Baptized by [GetBaptizedByName];;;;;;;;;;;;;x
-baptized_by_bishop_desc;This [GetGirlWomanBoyMan] was baptized by a notable member of the [Religion.GetName] clergy, a clear show of [GetHerHis] illustrious birth and of the good relationship between [GetHerHis] dynasty and the Church.;;;;;;;;;;;;;x
-baptized_by_patriarch;Baptized by [GetBaptizedByName];;;;;;;;;;;;;x
-baptized_by_patriarch_desc;This [GetGirlWomanBoyMan] was baptized by the Ecumenical Patriarch himself of the [Religion.GetName] Church with great pomp and circumstance, during a magnificent ceremony that will not soon be forgotten.;;;;;;;;;;;;;x
-baptized_by_pope;Baptized by [GetBaptizedByName];;;;;;;;;;;;;x
-baptized_by_pope_desc;This [GetGirlWomanBoyMan] was baptized by the Pope himself with great pomp and circumstance, during a magnificent ceremony that will not soon be forgotten.;;;;;;;;;;;;;x
-baptized_by_satan;Baptized by [baptizing_satanist_per.GetTitledFirstName];;;;;;;;;;;;;x
-baptized_by_satan_desc;This [GetBoyGirl] was baptized in the blood of the innocent during a grotesque satanic ritual that bound [GetHerHim] forever to the Prince of Darkness.;;;;;;;;;;;;;x
-bastard;Bastard;;;;;;;;;;;;;x
-bastard_desc;This [GetGirlWomanBoyMan] was born out of wedlock and has not been legitimized - and is thus disqualified from the line of succession.;;;;;;;;;;;;;x
-battlefield_terrain_master;Battlefield Terrain Master;;;;;;;;;;;;;x
-battlefield_terrain_master_desc;This [GetGirlWomanBoyMan] has mastered the craft of finding the perfect terrain for defensive battles.;;;;;;;;;;;;;x
-beatified;Beatified;;;;;;;;;;;;;x
-beatified_desc;This [GetGirlWomanBoyMan] has been beatified by the Church as a pious exemplar of the faith.;;;;;;;;;;;;;x
-berserker;Berserker;;;;;;;;;;;;;x
-berserker_desc;This [GetGirlWomanBoyMan] works himself into a mad frenzy during battle, charging fearlessly at the enemy.;;;;;;;;;;;;;x
-bhikkhu;Bhikkhu;;;;;;;;;;;;;x
-bhikkhu_desc;This man lives a life of asceticism in accordance with the Patimokkha rules, thus making him unable to marry or inherit.;;;;;;;;;;;;;x
-bhikkhuni;Bhikkuni;;;;;;;;;;;;;x
-bhikkhuni_desc;This woman lives a life of asceticism in accordance with the Patimokkha rules, thus making her unable to marry or inherit.;;;;;;;;;;;;;x
-blessed_ancestor;Blessed Ancestor;;;;;;;;;;;;;x
-blessed_ancestor_desc;A blessed ancestor of old, venerated by [GetHerHis] descendants.;;;;;;;;;;;;;x
-blinded;Blinded;;;;;;;;;;;;;x
-blinded_death;from complications of being blinded;;;;;;;;;;;;;x
-blinded_desc;This [GetGirlWomanBoyMan] has been permanently blinded and cannot see.;;;;;;;;;;;;;x
-bloodthirsty_gods_1;Haemophiliac;;;;;;;;;;;;;x
-bloodthirsty_gods_1_desc;This [GetManWoman] has performed a notable amount of human sacrifices.;;;;;;;;;;;;;x
-bloodthirsty_gods_2;Haemophant;;;;;;;;;;;;;x
-bloodthirsty_gods_2_desc;This [GetManWoman] is renowned as a bloodthirsty fanatic, always looking for the next victim to sacrifice to [GetHerHis] cruel gods.;;;;;;;;;;;;;x
-bloodthirsty_gods_3;Haemoarch;;;;;;;;;;;;;x
-bloodthirsty_gods_3_desc;This [GetManWoman] has filled rivers with the blood of [GetHerHis] victims and built mountains out of their skulls in [GetHerHis] psychotic desire to please the cruel gods [GetSheHe] worships.;;;;;;;;;;;;;x
-bon_leader;Mountain Guardian;;;;;;;;;;;;;x
-bon_leader_desc;This [GetGirlWomanBoyMan] can move hastily through the hills and plateaus of any mountain range. Especially when leading troops of light infantry.;;;;;;;;;;;;;x
-born_in_the_purple;Born in the Purple;;;;;;;;;;;;;x
-born_in_the_purple_desc;[GetBornInPurpleDesc];;;;;;;;;;;;;x
-brahmin;Brahmin;;;;;;;;;;;;;x
-brahmin_desc;[GetBrahminDesc];;;;;;;;;;;;;x
-brave;Brave;;;;;;;;;;;;;x
-brave_desc;This [GetGirlWomanBoyMan] never shies from personal danger, enjoying the respect of vassals but the envy of cravens.;;;;;;;;;;;;;x
-brawny;Brawny;;;;;;;;;;;;;x
-brawny_desc;This [GetGirlWomanBoyMan] is physically brawny.;;;;;;;;;;;;;x
-brilliant_strategist;Brilliant Strategist;;;;;;;;;;;;;x
-brilliant_strategist_desc;The Brilliant Strategist has an almost preternatural understanding of all things martial, having the perfect makings for a Marshal or a military tutor.;;;;;;;;;;;;;x
-brooding;Brooding;;;;;;;;;;;;;x
-brooding_desc;This [GetBoyGirl] is a quiet thinker, often sitting inside in deep ponderings as others play outside in the sun. Can develop into: §YJust§!, §YWroth§! or §YEnvious§!.;;;;;;;;;;;;;x
-bubonic_plague;The Plague;;;;;;;;;;;;;x
-bubonic_plague_death;of the dreaded Plague;;;;;;;;;;;;;x
-bubonic_plague_desc;This [GetGirlWomanBoyMan] has the dreaded Bubonic Plague.;;;;;;;;;;;;;x
-camp_fever;Camp Fever;;;;;;;;;;;;;x
-camp_fever_death;of Camp Fever;;;;;;;;;;;;;x
-camp_fever_desc;This [GetGirlWomanBoyMan] is inflicted with the plague known as Camp Fever (Epidemic Typhus).;;;;;;;;;;;;;x
-cancer;Cancer;;;;;;;;;;;;;x
-cancer_desc;This [GetGirlWomanBoyMan] has cancer – tumors spreading through [GetHerHis] body, draining the life out of [GetHerHim].;;;;;;;;;;;;;x
-cancer_death;of Cancer;;;;;;;;;;;;;x
-cannibal;Cannibal;;;;;;;;;;;;;x
-cannibal_desc;This [GetGirlWomanBoyMan] seeks to serve man.;;;;;;;;;;;;;x
-cat_desc;This is a cat...;;;;;;;;;;;;;x
-cavalry_leader;Cavalry Leader;;;;;;;;;;;;;x
-cavalry_leader_desc;This [GetGirlWomanBoyMan] excels at leading men to war on horseback.;;;;;;;;;;;;;x
-celibate;Celibate;;;;;;;;;;;;;x
-celibate_desc;This [GetGirlWomanBoyMan] has chosen a life of celibacy.;;;;;;;;;;;;;x
-charismatic_negotiator;Charismatic Negotiator;;;;;;;;;;;;;x
-charismatic_negotiator_desc;The Charismatic Negotiator is an excellent diplomat, impressing dignitaries with elegant dress and persuasive rhetoric.;;;;;;;;;;;;;x
-charitable;Charitable;;;;;;;;;;;;;x
-charitable_desc;This [GetGirlWomanBoyMan] is famously charitable. 'Caritas' is the third of the seven virtues and a most chivalrous trait.;;;;;;;;;;;;;x
-chaste;Chaste;;;;;;;;;;;;;x
-chaste_desc;Chastity, or 'Castitas' is the first of the seven virtues. Chaste characters are admired for their virtue and are unlikely to have extramarital affairs.;;;;;;;;;;;;;x
-chest_pain;Chest Pains;;;;;;;;;;;;;x
-chest_pain_death;clutching at [GetHerHis] heart;;;;;;;;;;;;;x
-chest_pain_desc;This [GetGirlWomanBoyMan] is experiencing chest pains - whether the reason is stress, eating too much, or something else, [GetSheHe] may be dead before anyone knows for sure.;;;;;;;;;;;;;x
-child_of_consort;Child of Concubine;;;;;;;;;;;;;x
-child_of_consort_desc;This [GetGirlWomanBoyMan] was born to the concubine of a ruler. Children of concubines can inherit but are somewhat poorly regarded by others.;;;;;;;;;;;;;x
-child_of_consort_male;Child of Consort;;;;;;;;;;;;;x
-child_of_consort_male_desc;This [GetGirlWomanBoyMan] was born to the consort of a ruler. Children of consorts can inherit but are somewhat poorly regarded by others.;;;;;;;;;;;;;x
-clubfooted;Clubfooted;;;;;;;;;;;;;x
-clubfooted_desc;This [GetGirlWomanBoyMan] was born with a clubfoot - an unattractive disability.;;;;;;;;;;;;;x
-conscientious;Conscientious;;;;;;;;;;;;;x
-conscientious_desc;This [GetBoyGirl] is unusually scrupulous and responsible, taking delight in completing any chores and tasks to perfection. Can develop into: §YDiligent§! or §YTemperate§!.;;;;;;;;;;;;;x
-consumption;Consumption;;;;;;;;;;;;;x
-consumption_death;of Consumption;;;;;;;;;;;;;x
-consumption_desc;This [GetGirlWomanBoyMan] is wracked with the bloody cough known as consumption (i.e. Tuberculosis).;;;;;;;;;;;;;x
-content;Content;;;;;;;;;;;;;x
-content_desc;Content characters are satisfied with their lot in life. They make loyal vassals but are unsuited to intrigue.;;;;;;;;;;;;;x
-cough;Cough;;;;;;;;;;;;;x
-cough_death;coughing [GetHerHis] lungs up;;;;;;;;;;;;;x
-cough_desc;This [GetGirlWomanBoyMan] is suffering from a bad cough - an annoying and sometimes painful ailment.;;;;;;;;;;;;;x
-cramps;Cramps;;;;;;;;;;;;;x
-cramps_death;convulsing in a cramp;;;;;;;;;;;;;x
-cramps_desc;This [GetGirlWomanBoyMan] is having cramps periodically - a very unpleasant experience and a dangerous ailment when occurring at the wrong place at the wrong time.;;;;;;;;;;;;;x
-craven;Craven;;;;;;;;;;;;;x
-craven_desc;This [GetGirlWomanBoyMan] is a craven and a coward.;;;;;;;;;;;;;x
-crowned_by_bishop;Crowned by [GetCrownedByName];;;;;;;;;;;;;x
-crowned_by_bishop_desc;This ruler was anointed by [Root.GetCrownedByDesc].\nA formal coronation is considered by many a fundamental step in the legitimization of any proper [christian.GetGroupName] [Root.GetTitle].;;;;;;;;;;;;;x
-crowned_by_bishop_rd;Crowned by a Prince-Bishop;;;;;;;;;;;;;x
-crowned_by_bishop_rd_desc;This ruler was anointed by a notable member of the clergy.\nA formal coronation is considered by many a fundamental step in the legitimization of any proper [christian.GetGroupName] ruler.;;;;;;;;;;;;;x
-crowned_by_myself;Self-Crowned;;;;;;;;;;;;;x
-crowned_by_myself_desc;Going against all Christian traditions, this ruler has spurned the Pope and crowned [GetHerHim]self. Such a blasphemous act is a certain sign of a mind gone mad with power.;;;;;;;;;;;;;x
-crowned_by_pope;Crowned by [GetCrownedByName];;;;;;;;;;;;;x
-crowned_by_pope_desc;This ruler was anointed by the Vicar of [GetChristName] himself.\nThis is incontrovertible proof of [GetHerHis] divine right to rule.;;;;;;;;;;;;;x
-crowned_by_pope_rd;Crowned by the Pope;;;;;;;;;;;;;x
-crowned_by_pope_rd_desc;This ruler was anointed by the Vicar of [GetChristName] himself.\nThis is incontrovertible proof of [GetHerHis] divine right to rule.;;;;;;;;;;;;;x
-crowned_by_priest;Crowned by a Bishop;;;;;;;;;;;;;x
-crowned_by_priest_desc;This ruler was crowned by a minor prelate.\nA formal coronation is considered by many a fundamental step in the legitimization of any proper [christian.GetGroupName] [GetTitle].;;;;;;;;;;;;;x
-crowned_by_priest_rd;Crowned by a Bishop;;;;;;;;;;;;;x
-crowned_by_priest_rd_desc;This ruler was crowned by a minor prelate.\nA formal coronation is considered by many a fundamental step in the legitimization of any proper [christian.GetGroupName] ruler.;;;;;;;;;;;;;x
-cruel;Cruel;;;;;;;;;;;;;x
-cruel_desc;This [GetGirlWomanBoyMan] is an evil sadist, taking pleasure in the suffering of others.;;;;;;;;;;;;;x
-crusader;Crusader;;;;;;;;;;;;;x
-crusader_desc;This [GetGirlWomanBoyMan] is a veteran Crusader.;;;;;;;;;;;;;x
-crusader_king;Crusader King;;;;;;;;;;;;;x
-crusader_king_desc;A great warrior King who has shaped his own kingdom out of the lands of the infidels.;;;;;;;;;;;;;x
-crusader_queen;Crusader Queen;;;;;;;;;;;;;x
-crusader_queen_desc;A great warrior Queen who has shaped her own kingdom out of the lands of the infidels.;;;;;;;;;;;;;x
-curious;Curious;;;;;;;;;;;;;x
-curious_desc;This [GetBoyGirl] has an inquisitive nature and is constantly asking questions and poking around looking for new and interesting things. Can develop into: §YShrewd§!, §YCynical§! or §Ysympathies for other religions§!.;;;;;;;;;;;;;x
-cynical;Cynical;;;;;;;;;;;;;x
-cynical_desc;This [GetGirlWomanBoyMan] is a cynical unbeliever, disliked by the clergy but good at intrigue.;;;;;;;;;;;;;x
-dancing_plague;Dancing Plague;;;;;;;;;;;;;x
-dancing_plague_death;dancing into oblivion;;;;;;;;;;;;;x
-dancing_plague_desc;This [GetGirlWomanBoyMan] is suffering from the Dancing Plague and is unable to stop moving. A very exhausting condition.;;;;;;;;;;;;;x
-decadent;Decadent;;;;;;;;;;;;;x
-decadent_desc;Soft living and flagrant debauchery has turned this [GetGirlWomanBoyMan] decadent, a living offense to all righteous Muslims. Decadent characters will slowly increase the decadence value of their entire dynasty, which can eventually lead to massive tribal uprisings.;;;;;;;;;;;;;x
-deceitful;Deceitful;;;;;;;;;;;;;x
-deceitful_desc;This [GetGirlWomanBoyMan] has a manipulative and dishonest nature - an excellent trait for spymasters... as long as [GetSheHe] remains loyal.;;;;;;;;;;;;;x
-defensive_leader;Defensive Leader;;;;;;;;;;;;;x
-defensive_leader_desc;This [GetGirlWomanBoyMan] has a reputation as a stalwart defender, standing like a stone wall alongside the men no matter what force hurls itself against [GetHerHim].;;;;;;;;;;;;;x
-depressed;Depressed;;;;;;;;;;;;;x
-depressed_death;of depression;;;;;;;;;;;;;x
-depressed_desc;Life has lost its luster to this [GetGirlWomanBoyMan].;;;;;;;;;;;;;x
-desert_expert;Desert Expert;;;;;;;;;;;;;x
-desert_expert_desc;This [GetGirlWomanBoyMan] is an expert at leading troops in deserts.;;;;;;;;;;;;;x
-detached_priest;Detached Priest;;;;;;;;;;;;;x
-detached_priest_desc;The Detached Priest received a clerical education but displays no talent beyond basic literacy.;;;;;;;;;;;;;x
-diarrhea;Diarrhea;;;;;;;;;;;;;x
-diarrhea_death;of dehydration from Diarrhea;;;;;;;;;;;;;x
-diarrhea_desc;This [GetGirlWomanBoyMan] has diarrhea - causing dehydration which can often be fatal.;;;;;;;;;;;;;x
-digambara_jain;Digambara [jain.GetName];;;;;;;;;;;;;x
-digambara_jain_desc;This [GetGirlWomanBoyMan] follows the Digambara branch of [jain.GetName]ism.;;;;;;;;;;;;;x
-diligent;Diligent;;;;;;;;;;;;;x
-diligent_desc;This [GetGirlWomanBoyMan] is dutiful and diligent, the fourth of the seven virtues - 'Industria'.;;;;;;;;;;;;;x
-direct_leader;Direct Leader;;;;;;;;;;;;;x
-direct_leader_desc;This [GetGirlWomanBoyMan] favors a direct approach and prefers leaving advanced manoeuvres to others.;;;;;;;;;;;;;x
-disfigured;Disfigured;;;;;;;;;;;;;x
-disfigured_desc;This [GetGirlWomanBoyMan] is disfigured - a face few could love.;;;;;;;;;;;;;x
-drunkard;Drunkard;;;;;;;;;;;;;x
-drunkard_desc;This [GetGirlWomanBoyMan] is a drunken sot.;;;;;;;;;;;;;x
-duelist;Duelist;;;;;;;;;;;;;x
-duelist_desc;This [GetGirlWomanBoyMan] is a masterful fencer and duelist - a dangerous lifestyle to be sure.;;;;;;;;;;;;;x
-dull;Dull;;;;;;;;;;;;;x
-dull_desc;This [GetGirlWomanBoyMan] isn't the sharpest knife in the drawer.;;;;;;;;;;;;;x
-dutiful_cleric;Dutiful Cleric;;;;;;;;;;;;;x
-dutiful_cleric_desc;The Dutiful Cleric is learned and possessed of beautiful penmanship, but lacks particular interest in theology.;;;;;;;;;;;;;x
-dwarf;Dwarf;;;;;;;;;;;;;x
-dwarf_desc;This unfortunate [GetGirlWomanBoyMan] was born a dwarf.;;;;;;;;;;;;;x
-dynastic_kinslayer;Dynastic Kinslayer;;;;;;;;;;;;;x
-dynastic_kinslayer_desc;This [GetGirlWomanBoyMan] is known to have slain a member of [GetHerHis] dynasty - [GetHerHis] own family now look at [GetHerHim] with fear and contempt.;;;;;;;;;;;;;x
-dysentery;Dysentery;;;;;;;;;;;;;x
-dysentery_death;attending to 'chamber business';;;;;;;;;;;;;x
-dysentery_desc;This [GetGirlWomanBoyMan] has dysentery - a bad case of bloody diarrhea caused by inflamed bowels.;;;;;;;;;;;;;x
-eagle_knight;Eagle Knight;;;;;;;;;;;;;x
-eagle_knight_desc;The life of Aztec warriors is one of constant battle, and the Eagle Knights are the bravest and most fearsome. Their primary purpose is to capture prisoners to be sacrificed to their Gods.;;;;;;;;;;;;;x
-elusive_shadow;Elusive Shadow;;;;;;;;;;;;;x
-elusive_shadow_desc;The Elusive Shadow has mastered the art of Intrigue and should make a perfect Spymaster - as well as an ideal mentor for prospective schemers.;;;;;;;;;;;;;x
-envious;Envious;;;;;;;;;;;;;x
-envious_desc;This [GetGirlWomanBoyMan] is envious, the sixth deadly sin - 'Invidia'.;;;;;;;;;;;;;x
-erudite;Erudite;;;;;;;;;;;;;x
-erudite_desc;This [GetGirlWomanBoyMan] has a scholarly and bookish disposition.;;;;;;;;;;;;;x
-eunuch;Eunuch;;;;;;;;;;;;;x
-eunuch_desc;This [GetGirlWomanBoyMan] has been castrated and is a eunuch.;;;;;;;;;;;;;x
-excommunicated;Excommunicated;;;;;;;;;;;;;x
-excommunicated_desc;This [GetGirlWomanBoyMan] has been excommunicated - excluded from the Church - a terrible stain on honor and respectability.;;;;;;;;;;;;;x
-falconer;Falconer;;;;;;;;;;;;;x
-falconer_desc;This [GetGirlWomanBoyMan] is an avid falconer - a well respected pastime.;;;;;;;;;;;;;x
-familial_kinslayer;Familial Kinslayer;;;;;;;;;;;;;x
-familial_kinslayer_desc;This [GetGirlWomanBoyMan] is known to have slain a member of [GetHerHis] extended family - [GetSheHe] is surely cursed for [GetHerHis] disgraceful actions.;;;;;;;;;;;;;x
-faqih;Faqih;;;;;;;;;;;;;x
-faqih_desc;This [GetGirlWomanBoyMan] is formally schooled in Islamic jurisprudence.;;;;;;;;;;;;;x
-fat;Fat;;;;;;;;;;;;;x
-fat_desc;This [GetGirlWomanBoyMan] is extremely overweight.;;;;;;;;;;;;;x
-fatigue;Fatigue;;;;;;;;;;;;;x
-fatigue_death;exhausted, unable to do anything;;;;;;;;;;;;;x
-fatigue_desc;This [GetGirlWomanBoyMan] is fatigued - every little effort just makes [GetHerHim] exhausted.;;;;;;;;;;;;;x
-fever;Fever;;;;;;;;;;;;;x
-fever_death;feverish and sweating;;;;;;;;;;;;;x
-fever_desc;This [GetGirlWomanBoyMan] has a fever - a very serious condition if ignored.;;;;;;;;;;;;;x
-finnish_leader;Shield of the Tundra;;;;;;;;;;;;;x
-finnish_leader_desc;This [GetGirlWomanBoyMan] is used to a harsh environment and blistering winters.;;;;;;;;;;;;;x
-flamboyant_schemer;Flamboyant Schemer;;;;;;;;;;;;;x
-flamboyant_schemer_desc;Flamboyant Schemers thrive on court intrigue and fancy themselves masters of the trade. However, their lack of secrecy tends to endanger even their best efforts.;;;;;;;;;;;;;x
-flanker;Flanker;;;;;;;;;;;;;x
-flanker_desc;This [GetGirlWomanBoyMan] fights best when positioned on the flank of an army, striking deeply at the chinks in the enemy's armor.;;;;;;;;;;;;;x
-flat_terrain_expert;Flat Terrain Expert;;;;;;;;;;;;;x
-flat_terrain_expert_desc;This [GetGirlWomanBoyMan] is an expert at leading troops on flat terrain.;;;;;;;;;;;;;x
-flu;Flu;;;;;;;;;;;;;x
-flu_death;from a bad case of the Flu;;;;;;;;;;;;;x
-flu_desc;This [GetGirlWomanBoyMan] has the flu - fever, headaches and chills.;;;;;;;;;;;;;x
-food_poisoning;Food Poisoning;;;;;;;;;;;;;x
-food_poisoning_death;after a disagreement with a meal;;;;;;;;;;;;;x
-food_poisoning_desc;This [GetGirlWomanBoyMan] suffers from food poisoning - intense vomiting and diarrhea, a very bad condition but usually not very long lasting.;;;;;;;;;;;;;x
-fortune_builder;Fortune Builder;;;;;;;;;;;;;x
-fortune_builder_desc;The Fortune Builder came out of adolescence armed with a well honed business sense, determined to live a life of luxury.;;;;;;;;;;;;;x
-frail;Frail;;;;;;;;;;;;;x
-frail_death;of poor physique;;;;;;;;;;;;;x
-frail_desc;This [GetGirlWomanBoyMan] is physically frail.;;;;;;;;;;;;;x
-freckles;Freckles;;;;;;;;;;;;;x
-freckles_2;Freckles;;;;;;;;;;;;;x
-freckles_2_desc;This [GetGirlWomanBoyMan] has freckles.;;;;;;;;;;;;;x
-freckles_3;Freckles;;;;;;;;;;;;;x
-freckles_3_desc;This [GetGirlWomanBoyMan] has freckles.;;;;;;;;;;;;;x
-freckles_4;Freckles;;;;;;;;;;;;;x
-freckles_4_desc;This [GetGirlWomanBoyMan] has freckles.;;;;;;;;;;;;;x
-freckles_5;Freckles;;;;;;;;;;;;;x
-freckles_5_desc;This [GetGirlWomanBoyMan] has freckles.;;;;;;;;;;;;;x
-freckles_desc;This [GetGirlWomanBoyMan] has freckles.;;;;;;;;;;;;;x
-fussy;Fussy;;;;;;;;;;;;;x
-fussy_desc;This [GetBoyGirl] is very particular about details which seem trivial to others, sometimes to the point of causing anxiety and frustration. Can develop into: §YPatient§!, §YGreedy§! or §YParanoid§!.;;;;;;;;;;;;;x
-game_master;Game Master;;;;;;;;;;;;;x
-game_master_desc;This [GetGirlWomanBoyMan] is renowned as an avid and masterful game player - anything from chess to tabula, to exotic pachisi.;;;;;;;;;;;;;x
-gardener;Gardener;;;;;;;;;;;;;x
-gardener_desc;This [GetGirlWomanBoyMan] likes nothing better than to putter away in the garden, growing herbs and exotic fruit trees.;;;;;;;;;;;;;x
-genius;Genius;;;;;;;;;;;;;x
-genius_desc;This [GetGirlWomanBoyMan] is blessed with a towering intellect.;;;;;;;;;;;;;x
-giant;Giant;;;;;;;;;;;;;x
-giant_death;unable to carry [GetHerHis] own massive frame;;;;;;;;;;;;;x
-giant_desc;This [GetGirlWomanBoyMan] was born a giant. While imposing, this [GetGirlWomanBoyMan] suffers from significant health problems and is likely to die young.;;;;;;;;;;;;;x
-gladiator;Gladiator;;;;;;;;;;;;;x
-gladiator_desc;This [GetGirlWomanBoyMan] trained as a Gladiator in the arena.;;;;;;;;;;;;;x
-gluttonous;Gluttonous;;;;;;;;;;;;;x
-gluttonous_desc;Gluttony, or 'Gula', is the second deadly sin and lacks positive effects. The Church despises gluttons, and so do members of the opposite sex.;;;;;;;;;;;;;x
-gondi_shahansha;Gond-i Shahanshah;;;;;;;;;;;;;x
-gondi_shahansha_desc;Taking their name from the elite 'Army of the Shahanshah', members of the Gond-i Shahanshah are the foremost fighters of the Zoroastrian faith.;;;;;;;;;;;;;x
-gout;Gout;;;;;;;;;;;;;x
-gout_death;of complications related to Gout;;;;;;;;;;;;;x
-gout_desc;This [GetGirlWomanBoyMan] has gout - swelling and joint pain accompanied by fever and fatigue.;;;;;;;;;;;;;x
-great_pox;Has Great Pox;;;;;;;;;;;;;x
-great_pox_death;of Great Pox;;;;;;;;;;;;;x
-great_pox_desc;This [GetGirlWomanBoyMan] suffers from 'Great Pox,' the venereal plague, later known as Syphilis.;;;;;;;;;;;;;x
-greedy;Greedy;;;;;;;;;;;;;x
-greedy_desc;The [GetGirlWomanBoyMan] is infamously greedy. 'Avaritia', the third deadly sin, while not respected, does help squeeze out some extra tax income.;;;;;;;;;;;;;x
-gregarious;Gregarious;;;;;;;;;;;;;x
-gregarious_desc;This [GetGirlWomanBoyMan] is gregarious and socially competent.;;;;;;;;;;;;;x
-grey_eminence;Grey Eminence;;;;;;;;;;;;;x
-grey_eminence_desc;The Grey Eminence is the epitome of statesmanship having fully mastered the art of diplomacy.;;;;;;;;;;;;;x
-groomed;Groomed;;;;;;;;;;;;;x
-groomed_desc;This [GetGirlWomanBoyMan] takes care to always look at [GetHerHis] best.;;;;;;;;;;;;;x
-hafiz;Hafiz;;;;;;;;;;;;;x
-hafiz_desc;This [GetGirlWomanBoyMan] has completely memorized the Qur'an.;;;;;;;;;;;;;x
-hajjaj;Hajajj;;;;;;;;;;;;;x
-hajjaj_desc;This [GetGirlWomanBoyMan] has made the Hajj - the pilgrimage to Mecca.;;;;;;;;;;;;;x
-hard_pregnancy;Difficult Pregnancy;;;;;;;;;;;;;x
-hard_pregnancy_death;died during labor.;;;;;;;;;;;;;x
-hard_pregnancy_desc;This woman is going through a particularly hard pregnancy. Actions that would normally be simple are now beyond her abilities.;;;;;;;;;;;;;x
-harelip;Harelip;;;;;;;;;;;;;x
-harelip_desc;This [GetGirlWomanBoyMan] was born with a harelip - a less than charming trait.;;;;;;;;;;;;;x
-haughty;Haughty;;;;;;;;;;;;;x
-haughty_desc;This [GetBoyGirl] is proud and vain, convinced of [GetHerHis] own superiority. Can develop into: §YProud§!, §YArbitrary§! or §YCruel§!.;;;;;;;;;;;;;x
-headache;Headache;;;;;;;;;;;;;x
-headache_death;bleeding from the eyes and ears;;;;;;;;;;;;;x
-headache_desc;This [GetGirlWomanBoyMan] has a persistent headache - a sharp pain in the head, probably nothing...;;;;;;;;;;;;;x
-heavy_infantry_leader;Heavy Infantry Leader;;;;;;;;;;;;;x
-heavy_infantry_leader_desc;This [GetGirlWomanBoyMan] is skilled at leading heavily armored infantry into battle.;;;;;;;;;;;;;x
-hedonist;Hedonist;;;;;;;;;;;;;x
-hedonist_desc;This [GetGirlWomanBoyMan] has chosen to lead a life of debauchery and sin. The Church is unlikely to approve...;;;;;;;;;;;;;x
-hellenic_leader;Aeneator;;;;;;;;;;;;;x
-hellenic_leader_desc;This [GetGirlWomanBoyMan] is a source of morale for [GetHerHis] troops, bringing them singing into battle.;;;;;;;;;;;;;x
-heresiarch;Heresiarch;;;;;;;;;;;;;x
-heresiarch_desc;This [GetGirlWomanBoyMan] is the leader of a fanatic and militant heretic sect.;;;;;;;;;;;;;x
-holy_warrior;Holy Warrior;;;;;;;;;;;;;x
-holy_warrior_desc;This [GetGirlWomanBoyMan] fights best against heathens and infidels, but hesitates in battle against those of the same faith.;;;;;;;;;;;;;x
-homosexual;Homosexual;;;;;;;;;;;;;x
-homosexual_desc;This [GetGirlWomanBoyMan] is a bit queer...;;;;;;;;;;;;;x
-honest;Honest;;;;;;;;;;;;;x
-honest_desc;Lies do not come easily to this [GetGirlWomanBoyMan], who values truth above all else. It is not a good trait for spymasters and plotters, but is respected among diplomats.;;;;;;;;;;;;;x
-horse_death;horsing around;;;;;;;;;;;;;x
-horse_desc;This is a horse...;;;;;;;;;;;;;x
-hound_of_dievas;Hound of Dievas;;;;;;;;;;;;;x
-hound_of_dievas_desc;This [GetGirlWomanBoyMan] has fought to defend the Holy Forest.;;;;;;;;;;;;;x
-humble;Humble;;;;;;;;;;;;;x
-humble_desc;Humility, or 'Humilitas', is the seventh virtue and the opposite of Pride. Humble characters gain [Player.Religion.GetPietyName] where the proud gain Prestige. Humble characters tend to dislike prideful ones.;;;;;;;;;;;;;x
-hunchback;Hunchback;;;;;;;;;;;;;x
-hunchback_desc;This [GetGirlWomanBoyMan] is cursed with a humpback, which is despised by vassals and ugly in the eyes of the opposite sex.;;;;;;;;;;;;;x
-hunter;Hunter;;;;;;;;;;;;;x
-hunter_desc;This [GetGirlWomanBoyMan] only feels truly alive when killing God's little creatures.;;;;;;;;;;;;;x
-idolizer;Idolizer;;;;;;;;;;;;;x
-idolizer_desc;This [GetBoyGirl] is easily impressed and also has a fervent desire to seek for ultimate truths. Can develop into: §YZealous§!, §YErudite§! or §YFrail§!.;;;;;;;;;;;;;x
-ill;Ill;;;;;;;;;;;;;x
-ill_death;after a period of illness;;;;;;;;;;;;;x
-ill_desc;Illness plagues this [GetGirlWomanBoyMan]. It could be serious... or just a nasty cold.;;;;;;;;;;;;;x
-imbecile;Imbecile;;;;;;;;;;;;;x
-imbecile_desc;This [GetGirlWomanBoyMan] is a drooling imbecile.;;;;;;;;;;;;;x
-immortal;Immortal;;;;;;;;;;;;;x
-immortal_desc;This [GetGirlWomanBoyMan] has achieved eternal life and will never succumb to the ravages of old age. The [GetGirlWomanBoyMan] is not invincible though, physical injury will still hurt [GetHerHim].;;;;;;;;;;;;;x
-impaler;Impaler;;;;;;;;;;;;;x
-impaler_desc;This depraved [GetGirlWomanBoyMan] likes to spend the nights in the dungeon, inventing new ways of torturing unfortunate victims.;;;;;;;;;;;;;x
-in_hiding;In Hiding;;;;;;;;;;;;;x
-in_hiding_desc;This [GetGirlWomanBoyMan] has gone into hiding to avoid plots against [GetHerHis] life. It makes [GetHerHim] harder to assassinate, but life in hiding has its costs...;;;;;;;;;;;;;x
-inbred;Inbred;;;;;;;;;;;;;x
-inbred_death;an inbred freak;;;;;;;;;;;;;x
-inbred_desc;This poor [GetGirlWomanBoyMan] suffers from the effects of inbreeding, leading to disfigurement, mental retardation and probable sterility.;;;;;;;;;;;;;x
-incapable;Incapable;;;;;;;;;;;;;x
-incapable_death;comatose in bed;;;;;;;;;;;;;x
-incapable_desc;Due to advanced age, head injury or other mental disabilities, this [GetGirlWomanBoyMan] is not fit for any kind of work. Incapable rulers must employ a regent.;;;;;;;;;;;;;x
-indian_pilgrim;Pilgrim;;;;;;;;;;;;;x
-indian_pilgrim_desc;The [GetGirlWomanBoyMan] has completed a great pilgrimage.;;;;;;;;;;;;;x
-indolent;Indolent;;;;;;;;;;;;;x
-indolent_desc;This [GetBoyGirl] is very averse to any kind of exertion, be it mental or physical. Can develop into: §YCharitable§!, §YSlothful§! or §YGluttonous§!.;;;;;;;;;;;;;x
-indulgent_wastrel;Indulgent Wastrel;;;;;;;;;;;;;x
-indulgent_wastrel_desc;The Indulgent Wastrel was groomed to become good with money, and if good means spending it quickly, the Indulgent Wastrel certainly is.;;;;;;;;;;;;;x
-infection;Infection;;;;;;;;;;;;;x
-infection_death;of an infected wound;;;;;;;;;;;;;x
-infection_desc;This [GetGirlWomanBoyMan] has an infection - it looks and smells bad, but it feels even worse.;;;;;;;;;;;;;x
-infirm;Infirm;;;;;;;;;;;;;x
-infirm_death;bedridden and infirm;;;;;;;;;;;;;x
-infirm_desc;This [GetGirlWomanBoyMan] is infirm and suffers from a sickly disposition.;;;;;;;;;;;;;x
-inspiring_leader;Inspiring Leader;;;;;;;;;;;;;x
-inspiring_leader_desc;This [GetGirlWomanBoyMan] has a way of reaching directly into the hearts and minds of the soldiers on the battlefield, and not just with a sword.;;;;;;;;;;;;;x
-intricate_webweaver;Intricate Webweaver;;;;;;;;;;;;;x
-intricate_webweaver_desc;The Intricate Webweaver is a master manipulator, well suited to a life of intrigue.;;;;;;;;;;;;;x
-jungle_expert;Jungle Expert;;;;;;;;;;;;;x
-jungle_expert_desc;This [GetGirlWomanBoyMan] is an expert at leading troops in the jungle.;;;;;;;;;;;;;x
-just;Just;;;;;;;;;;;;;x
-just_desc;The [GetGirlWomanBoyMan] has a well developed sense of justice - a trait much respected by vassals and courtiers.;;;;;;;;;;;;;x
-kailash_guardian;Kailash Guardian;;;;;;;;;;;;;x
-kailash_guardian_desc;A Guardian of Kailash is steadfast in [GetHerHis] defense of the holy mountain of Kailash. [GetSheHeCap] fights for the Bön faith.;;;;;;;;;;;;;x
-kanai;Kanai;;;;;;;;;;;;;x
-kanai_desc;Kanai is a term for a zealot or fanatic. They fight for the Jewish faith.;;;;;;;;;;;;;x
-kind;Kind;;;;;;;;;;;;;x
-kind_desc;This [GetGirlWomanBoyMan] is kind and full of empathy. The sixth virtue, 'Humanitas', is popular with vassals, but makes for a rather poor Spymaster.;;;;;;;;;;;;;x
-kinslayer;Kinslayer;;;;;;;;;;;;;x
-kinslayer_desc;This [GetGirlWomanBoyMan] is known to have slain a close relative - an unforgivable crime in the eyes of gods and men alike.;;;;;;;;;;;;;x
-kow_tow_completed_tier_1;Kowtow;;;;;;;;;;;;;x
-kow_tow_completed_tier_1_desc;This [GetGirlWomanBoyMan] has completed a journey to China to show [GetHerHis] subordination to the [offmap_china.Ruler.GetEmperorEmpress] - the [offmap_china.Ruler.GetEmperorEmpress] was not impressed...;;;;;;;;;;;;;x
-kow_tow_completed_tier_2;Kowtow;;;;;;;;;;;;;x
-kow_tow_completed_tier_2_desc;This [GetGirlWomanBoyMan] has completed a journey to China to show [GetHerHis] subordination to the [offmap_china.Ruler.GetEmperorEmpress] - the [offmap_china.Ruler.GetEmperorEmpress] was very pleased.;;;;;;;;;;;;;x
-kow_tow_completed_tier_3;Kowtow;;;;;;;;;;;;;x
-kow_tow_completed_tier_3_desc;This [GetGirlWomanBoyMan] has completed a journey to China to show [GetHerHis] subordination to the [offmap_china.Ruler.GetEmperorEmpress] - the [offmap_china.Ruler.GetEmperorEmpress] was greatly impressed!;;;;;;;;;;;;;x
-kow_tow_travels;On Kowtow;;;;;;;;;;;;;x
-kow_tow_travels_death;during a journey to the Chinese Empire;;;;;;;;;;;;;x
-kow_tow_travels_desc;This [GetGirlWomanBoyMan] is currently traveling to China.;;;;;;;;;;;;;x
-kshatriya;Kshatriya;;;;;;;;;;;;;x
-kshatriya_desc;[GetKshatriyaDesc];;;;;;;;;;;;;x
-lefthanded;Left-Handed;;;;;;;;;;;;;x
-lefthanded_desc;This [GetGirlWomanBoyMan] is left-handed. While seen with suspicion by the clergy, left-handed people tend to have a considerable advantage in combat.;;;;;;;;;;;;;x
-legit_bastard;Legitimized Bastard;;;;;;;;;;;;;x
-legit_bastard_desc;This [GetGirlWomanBoyMan] was born a bastard but has been legitimized. Legitimized bastards can inherit, though the stain of bastardy can never be entirely cleansed.;;;;;;;;;;;;;x
-leper;Leper;;;;;;;;;;;;;x
-leper_death;of terminal stage Leprosy;;;;;;;;;;;;;x
-leper_desc;Afflicted with the horror that is leprosy, this [GetGirlWomanBoyMan] is experiencing Purgatory on Earth. Hideous and sterile, procreation is most unlikely.;;;;;;;;;;;;;x
-levy_coordinator;Way of the Tiger;;;;;;;;;;;;;x
-levy_coordinator_desc;This [GetGirlWomanBoyMan] is well-versed in the Way of the Tiger, focusing on speed, maneuvrability, misdirection, and when and how best to commit troops of various types in a decisive engagement to defeat the enemy.;;;;;;;;;;;;;x
-light_foot_leader;Light Foot Leader;;;;;;;;;;;;;x
-light_foot_leader_desc;This [GetGirlWomanBoyMan] has proven to be a capable commander when leading light infantry into battle.;;;;;;;;;;;;;x
-lisp;Lisp;;;;;;;;;;;;;x
-lisp_desc;The lisp of this [GetGirlWomanBoyMan] sometimes causes [GetHerHim] to mispronounce words.;;;;;;;;;;;;;x
-logistics_expert;Way of the Dog;;;;;;;;;;;;;x
-logistics_expert_desc;This [GetGirlWomanBoyMan] is well-versed in the Way of the Dog, focusing on the training, supply, and management of forces made up of various types, and how to use them in a determined, concentrated attack when the enemy is weakest.;;;;;;;;;;;;;x
-lovers_pox;Lover's Pox;;;;;;;;;;;;;x
-lovers_pox_desc;This [GetGirlWomanBoyMan] periodically suffers from embarrassing and unsightly blisters.;;;;;;;;;;;;;x
-lunatic;Lunatic;;;;;;;;;;;;;x
-lunatic_desc;This [GetGirlWomanBoyMan] is stark raving mad.;;;;;;;;;;;;;x
-lustful;Lustful;;;;;;;;;;;;;x
-lustful_desc;Lust, or 'Luxuria', the first deadly sin, enflames this [GetGirlWomanBoyMan]. These carnal desires are not appreciated by the Church, and might also cause problems out of the marital bed...;;;;;;;;;;;;;x
-mahayana_buddhist;Mahayana [buddhist.GetName];;;;;;;;;;;;;x
-mahayana_buddhist_desc;This [GetGirlWomanBoyMan] follows the Mahayana branch of the [buddhist.GetName] faith.;;;;;;;;;;;;;x
-maimed;Maimed;;;;;;;;;;;;;x
-maimed_death;a maimed cripple;;;;;;;;;;;;;x
-maimed_desc;This [GetGirlWomanBoyMan] has been maimed. It would take a true miracle to heal such an injury.;;;;;;;;;;;;;x
-malaise;Malaise;;;;;;;;;;;;;x
-malaise_death;not knowing quite what was wrong with [GetHerHim];;;;;;;;;;;;;x
-malaise_desc;This [GetGirlWomanBoyMan] experiences malaise - hard to say what is wrong, [GetSheHe] just don't feel well.;;;;;;;;;;;;;x
-malnourished;Malnourished;;;;;;;;;;;;;x
-malnourished_desc;This [GetGirlWomanBoyMan] has a very fragile health.;;;;;;;;;;;;;x
-mangled;Mangled;;;;;;;;;;;;;x
-mangled_death;a mangled mess;;;;;;;;;;;;;x
-mangled_desc;This [GetGirlWomanBoyMan] has been horribly wounded and now lives with a mangled body.;;;;;;;;;;;;;x
-master_of_flame;Way of the Dragon;;;;;;;;;;;;;x
-master_of_flame_desc;This [GetGirlWomanBoyMan] is well-versed in the Way of the Dragon, focusing on perfecting [GetHerHis] authority over the troops, as well as embodying the centralized, decisive command over a battlefield, unfettered by overbearing advisors or delegation of command to others.;;;;;;;;;;;;;x
-master_seducer;Master Seducer;;;;;;;;;;;;;x
-master_seducer_desc;This man is a notorious rake and debaucher who leaves a trail of broken hearts - and bastards - in his wake.;;;;;;;;;;;;;x
-master_seductress;Master Seductress;;;;;;;;;;;;;x
-master_seductress_desc;This woman is an infamous siren and temptress whose virtue is certainly in doubt...;;;;;;;;;;;;;x
-master_schemer;Master Schemer;;;;;;;;;;;;;x
-master_schemer_desc;This [GetGirlWomanBoyMan] leads a life of intrigue and manipulation.;;;;;;;;;;;;;x
-mastermind_theologian;Mastermind Theologian;;;;;;;;;;;;;x
-mastermind_theologian_desc;The Mastermind Theologian is recognized as one of the top scholars of the Faith.;;;;;;;;;;;;;x
-measles;Measles;;;;;;;;;;;;;x
-measles_death;of the Measles;;;;;;;;;;;;;x
-measles_desc;This [GetGirlWomanBoyMan] has contracted the Measles, a fairly dangerous type of pox.;;;;;;;;;;;;;x
-midas_touched;Midas Touched;;;;;;;;;;;;;x
-midas_touched_desc;This [GetGirlWomanBoyMan] is truly Midas Touched, never seeming to run out of funds - an excellent choice for Steward and mentor to children destined to become administrators.;;;;;;;;;;;;;x
-mirza;Mirza;;;;;;;;;;;;;x
-mirza_desc;The mother of this [GetGirlWomanBoyMan] is a Sayyida (patrilineally descended from the Prophet Muhammad).;;;;;;;;;;;;;x
-misguided_warrior;Misguided Warrior;;;;;;;;;;;;;x
-misguided_warrior_desc;The Misguided Warrior was trained in warfare and the martial arts, but sadly lacks all talent for it.;;;;;;;;;;;;;x
-monk;Monk;;;;;;;;;;;;;x
-monk_desc;This man is living out his days in a monastery, disqualified from normal inheritance.;;;;;;;;;;;;;x
-mountain_expert;Mountain Expert;;;;;;;;;;;;;x
-mountain_expert_desc;This [GetGirlWomanBoyMan] is an expert at leading troops in mountainous terrain.;;;;;;;;;;;;;x
-mujahid;Mujahid;;;;;;;;;;;;;x
-mujahid_desc;This [GetGirlWomanBoyMan] is a veteran of a Jihad.;;;;;;;;;;;;;x
-muni;Muni;;;;;;;;;;;;;x
-muni_desc;This man has taken the Mahavrata vows and lives a life of asceticism, thus making him unable to marry or inherit.;;;;;;;;;;;;;x
-mutazilite;Mu'tazilite;;;;;;;;;;;;;x
-mutazilite_desc;This [GetGirlWomanBoyMan] is an adherent of the Sunni Mu'tazila school of theology, placing emphasis on rationality, reason and free will.;;;;;;;;;;;;;x
-mystic;Mystic;;;;;;;;;;;;;x
-mystic_desc;This [GetGirlWomanBoyMan] has delved into the mysteries of the occult, treading a fine line between heresy and orthodox approval.;;;;;;;;;;;;;x
-naive_appeaser;Naive Appeaser;;;;;;;;;;;;;x
-naive_appeaser_desc;Naive Appeasers want to be well liked and fancy themselves diplomats. Unfortunately, everyone else just tends to bully them.;;;;;;;;;;;;;x
-norse_leader;Fearsome;;;;;;;;;;;;;x
-norse_leader_desc;This [GetGirlWomanBoyMan] has a scary reputation, attracting the mightiest of warriors to [GetHerHis] side.;;;;;;;;;;;;;x
-nun;Nun;;;;;;;;;;;;;x
-nun_desc;This woman is living out her days in a monastery, disqualified from normal inheritance.;;;;;;;;;;;;;x
-nyames_shield;Nyame's Shield;;;;;;;;;;;;;x
-nyames_shield_desc;This [GetGirlWomanBoyMan] is one of the chosen warriors who fight for the African faith.;;;;;;;;;;;;;x
-on_hajj;On Hajj;;;;;;;;;;;;;x
-on_hajj_desc;This [GetGirlWomanBoyMan] is on a pilgrimage to Mecca.;;;;;;;;;;;;;x
-on_indian_pilgrimage;On pilgrimage;;;;;;;;;;;;;x
-on_indian_pilgrimage_desc;The [GetGirlWomanBoyMan] is currently away on a great pilgrimage.;;;;;;;;;;;;;x
-on_pilgrimage;On pilgrimage;;;;;;;;;;;;;x
-on_pilgrimage_desc;The [GetGirlWomanBoyMan] is currently away on a great pilgrimage.;;;;;;;;;;;;;x
-one_eyed;One-Eyed;;;;;;;;;;;;;x
-one_eyed_desc;This [GetGirlWomanBoyMan] is missing an eye - not something you see every day.;;;;;;;;;;;;;x
-one_handed;One-Handed;;;;;;;;;;;;;x
-one_handed_desc;This [GetGirlWomanBoyMan] is missing a hand - having only one hand causes problems in combat but makes it easier to escape chores.;;;;;;;;;;;;;x
-one_legged;One-Legged;;;;;;;;;;;;;x
-one_legged_desc;This [GetGirlWomanBoyMan] is missing a leg - a real disability when it comes to the battlefield or chasing youngsters.;;;;;;;;;;;;;x
-organizer;Organizer;;;;;;;;;;;;;x
-organizer_desc;This [GetGirlWomanBoyMan] is a skillful organizer in matters of logistics and in overcoming the challenges of moving a large body of men from one point to another.;;;;;;;;;;;;;x
-pagan_branch_1;Syncretist;;;;;;;;;;;;;x
-pagan_branch_1_desc;This [GetGirlWomanBoyMan] believes in adapting some of the features of the newer religions to [GetHerHis] own worship of the old gods.;;;;;;;;;;;;;x
-pagan_branch_2;Spiritualist;;;;;;;;;;;;;x
-pagan_branch_2_desc;This [GetGirlWomanBoyMan] believes in detaching [GetHerselfHimself] from worldly affairs in the pursuit for true enlightenment.;;;;;;;;;;;;;x
-pagan_branch_3;Militant;;;;;;;;;;;;;x
-pagan_branch_3_desc;This [GetGirlWomanBoyMan] has interpreted [GetHerHis] scriptures as a call to action against all the infidels threatening the survival of [GetHerHis] faith.;;;;;;;;;;;;;x
-pagan_branch_4;Tribalist;;;;;;;;;;;;;x
-pagan_branch_4_desc;This [GetGirlWomanBoyMan] believes that the true worship of the old gods is still best exemplified by the care that a [GetManWoman] has for [GetHerHis] own family.;;;;;;;;;;;;;x
-paranoid;Paranoid;;;;;;;;;;;;;x
-paranoid_desc;This [GetGirlWomanBoyMan] sees enemies in every shadow, unable to trust anyone.;;;;;;;;;;;;;x
-patient;Patient;;;;;;;;;;;;;x
-patient_desc;Patience, or 'Patientia', is the fifth of the seven virtues and the opposite of Wrath. Patient characters are just a little bit better at almost everything.;;;;;;;;;;;;;x
-peasant_leader;Peasant Leader;;;;;;;;;;;;;x
-peasant_leader_desc;This [GetGirlWomanBoyMan] is a jumped up peasant who revolted against [GetHerHis] betters.;;;;;;;;;;;;;x
-peruns_chosen;Perun's Chosen;;;;;;;;;;;;;x
-peruns_chosen_desc;The axes of Perun's Chosen hew the enemies of the Slavic faith with the power of His lightning.;;;;;;;;;;;;;x
-physician;Renowned Physician;;;;;;;;;;;;;x
-physician_desc;This [GetGirlWomanBoyMan] is a renowned practitioner of medicine and a sought after physician - [GetSheHe] would be a welcome addition to the court of any ruler.;;;;;;;;;;;;;x
-pilgrim;Pilgrim;;;;;;;;;;;;;x
-pilgrim_desc;The [GetGirlWomanBoyMan] has completed a great pilgrimage.;;;;;;;;;;;;;x
-pirate;Pirate;;;;;;;;;;;;;x
-pirate_desc;This [GetGirlWomanBoyMan] has earned a reputation as a fearsome raider.;;;;;;;;;;;;;x
-playful;Playful;;;;;;;;;;;;;x
-playful_desc;This [GetBoyGirl] loves to engage in fun and games, almost always turning any activity into an excuse to play. Can develop into: §YGregarious§!, §YDeceitful§! or (rarely) §YLunatic§!.;;;;;;;;;;;;;x
-pneumonic;Pneumonic;;;;;;;;;;;;;x
-pneumonic_death;of Pneumonia;;;;;;;;;;;;;x
-pneumonic_desc;This [GetGirlWomanBoyMan] suffers from pneumonia - a life threatening condition in medieval times.;;;;;;;;;;;;;x
-poet;Poet;;;;;;;;;;;;;x
-poet_desc;This [GetGirlWomanBoyMan] likes to write and declaim poetry.;;;;;;;;;;;;;x
-possessed;Possessed;;;;;;;;;;;;;x
-possessed_desc;This [GetGirlWomanBoyMan] experiences frequent violent episodes, speaking in tongues, spitting and assaulting those nearby, as if possessed by evil spirits.;;;;;;;;;;;;;x
-pregnancy_finishing;Final Months;;;;;;;;;;;;;x
-pregnancy_finishing_desc;This woman has entered the last phase of her pregnancy. Her condition is preventing her from taking part of her public life, at least until the time her labor comes to term.;;;;;;;;;;;;;x
-pregnant;Pregnant;;;;;;;;;;;;;x
-pregnant_desc;This woman is with child.;;;;;;;;;;;;;x
-proud;Proud;;;;;;;;;;;;;x
-proud_desc;Pride, 'Superbia' is the seventh deadly sin according to the Church. However, proud characters tend to be ambitious and work hard to increase their Prestige.;;;;;;;;;;;;;x
-quick;Quick;;;;;;;;;;;;;x
-quick_desc;This [GetGirlWomanBoyMan] is brighter than most.;;;;;;;;;;;;;x
-rabies;Rabies;;;;;;;;;;;;;x
-rabies_death;frothing at the mouth;;;;;;;;;;;;;x
-rabies_desc;This [GetGirlWomanBoyMan] has rabies - swelling and inflammation of the brain causes very strange and aggressive behavior.;;;;;;;;;;;;;x
-rash;Rash;;;;;;;;;;;;;x
-rash_death;scratching [GetHerHis] skin bloody;;;;;;;;;;;;;x
-rash_desc;This [GetGirlWomanBoyMan] has a rash - itching and causing pain, a rash is usually considered very unattractive and could be the sign of something worse.;;;;;;;;;;;;;x
-ravager;Ravager;;;;;;;;;;;;;x
-ravager_desc;This [GetGirlWomanBoyMan] is widely known as a fearsome Ravager, a [GetCulturalPirate] few have fought and lived.;;;;;;;;;;;;;x
-reincarnation;Reincarnation of [Reincarnation.GetBestName];;;;;;;;;;;;;x
-reincarnation_desc;This [GetGirlWomanBoyMan] is widely believed to be a reincarnation of [Reincarnation.GetBestName].;;;;;;;;;;;;;x
-rough_terrain_expert;Rough Terrain Expert;;;;;;;;;;;;;x
-rough_terrain_expert_desc;This [GetGirlWomanBoyMan] is an expert at leading troops in rough terrain.;;;;;;;;;;;;;x
-rowdy;Rowdy;;;;;;;;;;;;;x
-rowdy_desc;This [GetBoyGirl] is loud and lively and usually prefers rough physical activity over calmer pursuits. Can develop into: §YBrawny§!, §YHonest§!, §YDull§! or §YUncouth§!.;;;;;;;;;;;;;x
-saint;Saint;;;;;;;;;;;;;x
-saint_desc;This [GetGirlWomanBoyMan] has been canonized as a true [saint_person.Religion.GetGroupName].;;;;;;;;;;;;;x
-sanyasi;Sanyasi;;;;;;;;;;;;;x
-sanyasi_desc;This man has chosen a life of simplicity and celibacy, thus making him unable to marry or inherit.;;;;;;;;;;;;;x
-sanyasini;Sanyasini;;;;;;;;;;;;;x
-sanyasini_desc;This woman has chosen a life of simplicity and celibacy, thus making her unable to marry or inherit.;;;;;;;;;;;;;x
-saoshyant;Saoshyant;;;;;;;;;;;;;x
-saoshyant_desc;This [GetGirlWomanBoyMan] is the Saoshyant, the promised savior of the world and a holy icon according to the Zoroastrian belief.;;;;;;;;;;;;;x
-saoshyant_descendant;Saoshyant Descendant;;;;;;;;;;;;;x
-saoshyant_descendant_desc;This [GetGirlWomanBoyMan] is a descendant of the Saoshyant, who was the savior of the world according to the Zoroastrian belief.;;;;;;;;;;;;;x
-sapper;Way of the Leopard;;;;;;;;;;;;;x
-sapper_desc;This [GetGirlWomanBoyMan] is well-versed in the Way of the Leopard, focusing on how best to use the terrain to one's advantage, and how to use novel siege weapons to defeat a fortified enemy.;;;;;;;;;;;;;x
-sayyid;Sayyid;;;;;;;;;;;;;x
-sayyid_desc;This [GetGirlWomanBoyMan] is patrilineally descended from the Prophet Muhammad's uncles al-Abbas and Abu Talib, or from the sons of his daughter Fatimah - Hasan ibn Ali and Husain ibn Ali.;;;;;;;;;;;;;x
-scarred;Scarred;;;;;;;;;;;;;x
-scarred_desc;Old wounds have left this [GetGirlWomanBoyMan] visibly scarred.;;;;;;;;;;;;;x
-scarred_high;Horrifically Scarred;;;;;;;;;;;;;x
-scarred_high_desc;This [GetGirlWomanBoyMan] has seen [GetHerHis] share of fights, as [GetHerHis] face can attest.;;;;;;;;;;;;;x
-scarred_mid;Grievously Scarred;;;;;;;;;;;;;x
-scarred_mid_desc;Old wounds have left this [GetGirlWomanBoyMan] visibly scarred.;;;;;;;;;;;;;x
-scholar;Scholar;;;;;;;;;;;;;x
-scholar_desc;This [GetGirlWomanBoyMan] leads the life of a scholar, poring over books and corresponding with the finest minds in the known world.;;;;;;;;;;;;;x
-scholarly_theologian;Scholarly Theologian;;;;;;;;;;;;;x
-scholarly_theologian_desc;The Scholarly Theologian is wise and well read, with a deep understanding of philosophy and theology.;;;;;;;;;;;;;x
-scurvy;Scurvy;;;;;;;;;;;;;x
-scurvy_death;of Scurvy;;;;;;;;;;;;;x
-scurvy_desc;This [GetGirlWomanBoyMan] has scurvy - fatigue, bleeding, spots on the skin, and if left untreated may cause loss of teeth, fever and eventually death.;;;;;;;;;;;;;x
-sea_queen;Sea Queen;;;;;;;;;;;;;x
-sea_queen_desc;This [GetGirlWomanBoyMan] is known and feared far and wide. Wherever salt water can be found, there is terror of the Sea Queen.;;;;;;;;;;;;;x
-sea_king;Sea King;;;;;;;;;;;;;x
-sea_king_desc;This [GetGirlWomanBoyMan] is known and feared far and wide. Wherever salt water can be found, there is terror of the Sea King.;;;;;;;;;;;;;x
-severely_injured;Severely Injured;;;;;;;;;;;;;x
-severely_injured_death;succumbing to severe injuries;;;;;;;;;;;;;x
-severely_injured_desc;This [GetGirlWomanBoyMan] was recently maimed resulting in serious injury, a life threatening condition. Once the wound heals [GetHerHis] health will recover, but the damage dealt will never fully heal.;;;;;;;;;;;;;x
-shaivist_hindu;Shaivist;;;;;;;;;;;;;x
-shaivist_hindu_desc;This [GetGirlWomanBoyMan] follows the Shaivist branch of the [hindu.GetName] faith.;;;;;;;;;;;;;x
-shaktist_hindu;Shaktist;;;;;;;;;;;;;x
-shaktist_hindu_desc;This [GetGirlWomanBoyMan] follows the Shaktist branch of [hindu.GetName]ism.;;;;;;;;;;;;;x
-shieldmaiden;Shieldmaiden;;;;;;;;;;;;;x
-shieldmaiden_desc;This [GetGirlWomanBoyMan] is a Shieldmaiden, recognized for her remarkable bravery and spirit. She may also be made a Commander.;;;;;;;;;;;;;x
-shrewd;Shrewd;;;;;;;;;;;;;x
-shrewd_desc;This [GetGirlWomanBoyMan] has developed a sharp and astute mind.;;;;;;;;;;;;;x
-shy;Shy;;;;;;;;;;;;;x
-shy_desc;This [GetGirlWomanBoyMan] is shy and reclusive, suffering a penalty to diplomacy.;;;;;;;;;;;;;x
-sickly;Sickly;;;;;;;;;;;;;x
-sickly_death;a sickly infant;;;;;;;;;;;;;x
-sickly_desc;This [GetBoyGirl] was born sickly and might not survive infancy.;;;;;;;;;;;;;x
-siege_leader;Siege Leader;;;;;;;;;;;;;x
-siege_leader_desc;This [GetGirlWomanBoyMan] is skilled at leading sieges.;;;;;;;;;;;;;x
-skilled_tactician;Skilled Tactician;;;;;;;;;;;;;x
-skilled_tactician_desc;The Skilled Tactician is an adept in the art of war - a valiant warrior and reliable commander.;;;;;;;;;;;;;x
-skylord;Skylord;;;;;;;;;;;;;x
-skylord_desc;The epitome of a Steppe Warrior, this [GetGirlWomanBoyMan] has fought for the glory of Tengrism.;;;;;;;;;;;;;x
-slavic_leader;Pillar of the Plains;;;;;;;;;;;;;x
-slavic_leader_desc;This [GetGirlWomanBoyMan] stands firmly on flat terrain, an inspiring figure for [GetHerHis] troops.;;;;;;;;;;;;;x
-slothful;Slothful;;;;;;;;;;;;;x
-slothful_desc;This [GetGirlWomanBoyMan] is shockingly lazy. 'Acedia', the fourth deadly sin, is an altogether negative trait.;;;;;;;;;;;;;x
-slow;Slow;;;;;;;;;;;;;x
-slow_desc;This [GetGirlWomanBoyMan] is not exactly blessed with a towering intellect.;;;;;;;;;;;;;x
-slow_fever;Slow Fever;;;;;;;;;;;;;x
-slow_fever_death;of the Slow Fever;;;;;;;;;;;;;x
-slow_fever_desc;This [GetGirlWomanBoyMan] suffers from the terrible disease known as the Slow Fever (Typhoid Fever).;;;;;;;;;;;;;x
-smallpox;Smallpox;;;;;;;;;;;;;x
-smallpox_death;of Smallpox;;;;;;;;;;;;;x
-smallpox_desc;This [GetGirlWomanBoyMan] has the dreaded Smallpox, which kills almost half of those infected.;;;;;;;;;;;;;x
-smartist_hindu;Smartist;;;;;;;;;;;;;x
-smartist_hindu_desc;This [GetGirlWomanBoyMan] follows the Smartist branch of [hindu.GetName]ism.;;;;;;;;;;;;;x
-socializer;Socializer;;;;;;;;;;;;;x
-socializer_desc;This [GetGirlWomanBoyMan] is committed to being well liked, and spends most spare time in the company of others.;;;;;;;;;;;;;x
-strategist;Strategist;;;;;;;;;;;;;x
-strategist_desc;This [GetGirlWomanBoyMan] loves planning campaigns and analyzing the current state of affairs.;;;;;;;;;;;;;x
-stressed;Stressed;;;;;;;;;;;;;x
-stressed_death;of severe stress;;;;;;;;;;;;;x
-stressed_desc;This [GetGirlWomanBoyMan] finds the burdens of work and life almost too much to handle.;;;;;;;;;;;;;x
-strong;Strong;;;;;;;;;;;;;x
-strong_desc;This [GetGirlWomanBoyMan] is blessed with a powerful physique.;;;;;;;;;;;;;x
-stubborn;Stubborn;;;;;;;;;;;;;x
-stubborn_desc;This [GetGirlWomanBoyMan] is stubborn as a mule.;;;;;;;;;;;;;x
-sturdy;Sturdy;;;;;;;;;;;;;x
-sturdy_desc;This [GetGirlWomanBoyMan] is physically sturdy.;;;;;;;;;;;;;x
-stutter;Stutter;;;;;;;;;;;;;x
-stutter_desc;This [GetGirlWomanBoyMan] is a stutterer. It hampers [GetHerHis] ability to communicate effectively with others.;;;;;;;;;;;;;x
-sun_warrior;Warrior of the Sun;;;;;;;;;;;;;x
-sun_warrior_desc;The Warriors of the Sun strike with all the fiery power of Zun Himself.;;;;;;;;;;;;;x
-svetambara_jain;Svetambara [jain.GetName];;;;;;;;;;;;;x
-svetambara_jain_desc;This [GetGirlWomanBoyMan] follows the Svetambara branch of [jain.GetName]ism.;;;;;;;;;;;;;x
-sympathy_christendom;Sympathy for [christian.GetGroupName] religions;;;;;;;;;;;;;x
-sympathy_christendom_desc;This [GetGirlWomanBoyMan], though not a [christian.GetGroupName], has a special sympathy and understanding for the [christian.GetGroupName] faith and its practitioners.;;;;;;;;;;;;;x
-sympathy_indian;Sympathy for [indian_group.GetGroupName] religions;;;;;;;;;;;;;x
-sympathy_indian_desc;This [GetGirlWomanBoyMan], though neither [hindu.GetName], [buddhist.GetName], [jain.GetName] or [taoist.GetName], has a special sympathy and understanding for the [indian_group.GetGroupName] faiths and their practitioners.;;;;;;;;;;;;;x
-sympathy_islam;Sympathy for [muslim.GetGroupName] religions;;;;;;;;;;;;;x
-sympathy_islam_desc;This [GetGirlWomanBoyMan], though not a [muslim.GetGroupName], has a special sympathy and understanding for the [muslim.GetGroupName] faith and its practitioners.;;;;;;;;;;;;;x
-sympathy_judaism;Sympathy for [jewish.GetName] religions;;;;;;;;;;;;;x
-sympathy_judaism_desc;This [GetGirlWomanBoyMan], though not [jewish.GetName], has a special sympathy and understanding for the [jewish.GetName] faith and its practitioners.;;;;;;;;;;;;;x
-sympathy_pagans;Sympathy for [pagan_group.GetGroupName] religions;;;;;;;;;;;;;x
-sympathy_pagans_desc;This [GetGirlWomanBoyMan], though not a [pagan_group.GetGroupName], has a special sympathy and understanding for the [pagan_group.GetGroupName] faiths and their practitioners.;;;;;;;;;;;;;x
-sympathy_zoroastrianism;Sympathy for [zoroastrian_group.GetGroupName] religions;;;;;;;;;;;;;x
-sympathy_zoroastrianism_desc;This [GetGirlWomanBoyMan], though not a [zoroastrian.GetName], has a special sympathy and understanding for the [zoroastrian_group.GetGroupName] faith and its practitioners.;;;;;;;;;;;;;x
-temperate;Temperate;;;;;;;;;;;;;x
-temperate_desc;This [GetGirlWomanBoyMan] believes in the virtue of 'Temperantia', moderation - a valuable trait in rulers and Stewards.;;;;;;;;;;;;;x
-tengri_leader;Marauder;;;;;;;;;;;;;x
-tengri_leader_desc;This [GetGirlWomanBoyMan] possesses great ability as a rider, thundering across the steppes.;;;;;;;;;;;;;x
-theologian;Theologian;;;;;;;;;;;;;x
-theologian_desc;This [GetGirlWomanBoyMan] is dedicating [GetHerHis] life to religious studies.;;;;;;;;;;;;;x
-theravada_buddhist;Theravada [buddhist.GetName];;;;;;;;;;;;;x
-theravada_buddhist_desc;This [GetGirlWomanBoyMan] follows the Theravada branch of the [buddhist.GetName] faith.;;;;;;;;;;;;;x
-thrifty_clerk;Thrifty Clerk;;;;;;;;;;;;;x
-thrifty_clerk_desc;The Thrifty Clerk is a dutiful, if not particularly skilled, administrator.;;;;;;;;;;;;;x
-timid;Timid;;;;;;;;;;;;;x
-timid_desc;This [GetBoyGirl] is shy and quiet and usually avoids open conflicts. Can develop into: §YHumble§!, §YShy§! or §YCraven§!.;;;;;;;;;;;;;x
-tough_soldier;Tough Soldier;;;;;;;;;;;;;x
-tough_soldier_desc;The Tough Soldier is fearsome on the battlefield, but only a mediocre commander.;;;;;;;;;;;;;x
-travelling;On a Journey;;;;;;;;;;;;;x
-travelling_desc;This [GetGirlWomanBoyMan] is traveling far away from court.;;;;;;;;;;;;;x
-tribal_kinslayer;Tribal Kinslayer;;;;;;;;;;;;;x
-tribal_kinslayer_desc;This [GetGirlWomanBoyMan] is known to have slain a member of [GetHerHis] family – people around [This.GetHerHim] both admire and fear [This.GetHerHim] for it.;;;;;;;;;;;;;x
-trickster;Trickster;;;;;;;;;;;;;x
-trickster_desc;This [GetGirlWomanBoyMan] is known to be an unpredictable element on the battlefield. The enemy won't see it coming, and neither will you!;;;;;;;;;;;;;x
-troubled_pregnancy;Troubled Pregnancy;;;;;;;;;;;;;x
-troubled_pregnancy_death;died during labor.;;;;;;;;;;;;;x
-troubled_pregnancy_desc;This woman is going through or has recently gone through a particularly troubled pregnancy, leaving her weakened and feverish in her bed and unable to do much.;;;;;;;;;;;;;x
-trusting;Trusting;;;;;;;;;;;;;x
-trusting_desc;Trusting characters make poor spymasters, but good friends.;;;;;;;;;;;;;x
-twin;Twin;;;;;;;;;;;;;x
-twin_desc;This [GetGirlWomanBoyMan] had the fortune of being born with a twin. Twins like each other better.;;;;;;;;;;;;;x
-ugly;Ugly;;;;;;;;;;;;;x
-ugly_desc;This [GetGirlWomanBoyMan] has a face that brings a tear to the eye...;;;;;;;;;;;;;x
-ukkos_hammer;Ukko's Hammer;;;;;;;;;;;;;x
-ukkos_hammer_desc;Striking like the lightning of Ukko, this [GetGirlWomanBoyMan] has fought for the Suomenusko faith.;;;;;;;;;;;;;x
-uncouth;Uncouth;;;;;;;;;;;;;x
-uncouth_desc;Grooming and personal care are not exactly priorities for this [GetGirlWomanBoyMan].;;;;;;;;;;;;;x
-uncrowned;Uncrowned;;;;;;;;;;;;;x
-uncrowned_desc;This ruler died before [GetSheHe] could even receive [GetHerHis] crown, a most shameful display.;;;;;;;;;;;;;x
-underhanded_rogue;Underhanded Rogue;;;;;;;;;;;;;x
-underhanded_rogue_desc;The Underhanded Rogue is a rough but decently effective diplomat.;;;;;;;;;;;;;x
-unyielding_leader;Unyielding Leader;;;;;;;;;;;;;x
-unyielding_leader_desc;This [GetGirlWomanBoyMan] will stubbornly fight to his last breath, compelling his men to do the same while refusing to yield an inch.;;;;;;;;;;;;;x
-vaishnavist_hindu;Vaishnavist;;;;;;;;;;;;;x
-vaishnavist_hindu_desc;This [GetGirlWomanBoyMan] follows the Vaishnavist branch of [hindu.GetName]ism.;;;;;;;;;;;;;x
-vaishya;Vaishya;;;;;;;;;;;;;x
-vaishya_desc;[GetVaishyaDesc];;;;;;;;;;;;;x
-vajrayana_buddhist;Vajrayana [buddhist.GetName];;;;;;;;;;;;;x
-vajrayana_buddhist_desc;This [GetGirlWomanBoyMan] follows the Vajrayana branch of the [buddhist.GetName] faith.;;;;;;;;;;;;;x
-valhalla_bound;Valhalla Bound;;;;;;;;;;;;;x
-valhalla_bound_desc;By winning great victories for the Norse faith this [GetGirlWomanBoyMan] is assured a place at Odin's table in Valhalla!;;;;;;;;;;;;;x
-varangian;Varangian;;;;;;;;;;;;;x
-varangian_desc;This [GetGirlWomanBoyMan] is a veteran of the Varangian Guard.;;;;;;;;;;;;;x
-viking;Viking;;;;;;;;;;;;;x
-viking_desc;This [GetGirlWomanBoyMan] has earned a reputation as a fearsome Viking raider.;;;;;;;;;;;;;x
-vomiting;Vomiting;;;;;;;;;;;;;x
-vomiting_death;explosively vomiting;;;;;;;;;;;;;x
-vomiting_desc;This [GetGirlWomanBoyMan] is vomiting periodically - inability to keep food and drink down will drain [GetHerHis] energy.;;;;;;;;;;;;;x
-war_elephant_leader;War Elephant Leader;;;;;;;;;;;;;x
-war_elephant_leader_desc;This [GetGirlWomanBoyMan] has mastered the tactical use of war elephants in battle.;;;;;;;;;;;;;x
-weak;Weak;;;;;;;;;;;;;x
-weak_death;of poor physique;;;;;;;;;;;;;x
-weak_desc;This [GetGirlWomanBoyMan] has been cursed with a weak physique.;;;;;;;;;;;;;x
-west_african_leader;Spirit Warrior;;;;;;;;;;;;;x
-west_african_leader_desc;This [GetGirlWomanBoyMan] is accustomed to fighting in the desert and traveling light.;;;;;;;;;;;;;x
-willful;Willful;;;;;;;;;;;;;x
-willful_desc;This [GetBoyGirl] is stubborn and strong-willed, and doesn't obey or give way easily. Can develop into: §YAmbitious§!, §YBrave§! or §YStubborn§!.;;;;;;;;;;;;;x
-winter_soldier;Winter Soldier;;;;;;;;;;;;;x
-winter_soldier_desc;This [GetGirlWomanBoyMan] has mastered the art of fighting during winter and knows how to turn the fierce elements into an advantage.;;;;;;;;;;;;;x
-wounded;Wounded;;;;;;;;;;;;;x
-wounded_death;of an infected wound;;;;;;;;;;;;;x
-wounded_desc;This [GetGirlWomanBoyMan] has been seriously injured, but the damage should heal, given time.;;;;;;;;;;;;;x
-wroth;Wroth;;;;;;;;;;;;;x
-wroth_desc;The fifth deadly sin is Wrath, 'Ira', and this [GetGirlWomanBoyMan] certainly has a hot temper.;;;;;;;;;;;;;x
-zealous;Zealous;;;;;;;;;;;;;x
-zealous_desc;This [GetGirlWomanBoyMan] burns with religious fervor and cannot tolerate heretics, infidels, or heathens.;;;;;;;;;;;;;x
-zodiac_aquarius;Aquarius;;;;;;;;;;;;;x
-zodiac_aquarius_desc;This [GetGirlWomanBoyMan] was born under the sign of Aquarius, which is commonly associated with introversion and eccentricity.\nOriginally developed by the Babylonians, Astrology was later adopted by the Greeks and Romans of ancient times. While a fairly well-established science, its popularity always tended to wane and rise periodically.;;;;;;;;;;;;;x
-zodiac_aries;Aries;;;;;;;;;;;;;x
-zodiac_aries_desc;This [GetGirlWomanBoyMan] was born under the sign of Aries, which is commonly associated with fierceness and honesty.\nOriginally developed by the Babylonians, Astrology was later adopted by the Greeks and Romans of ancient times. While a fairly well-established science, its popularity always tended to wane and rise periodically.;;;;;;;;;;;;;x
-zodiac_cancer;Cancer;;;;;;;;;;;;;x
-zodiac_cancer_desc;This [GetGirlWomanBoyMan] was born under the sign of Cancer, which is commonly associated with tenacity and introspection.\nOriginally developed by the Babylonians, Astrology was later adopted by the Greeks and Romans of ancient times. While a fairly well-established science, its popularity always tended to wane and rise periodically.;;;;;;;;;;;;;x
-zodiac_capricorn;Capricorn;;;;;;;;;;;;;x
-zodiac_capricorn_desc;This [GetGirlWomanBoyMan] was born under the sign of Capricorn, which is commonly associated with curiosity and steadiness.\nOriginally developed by the Babylonians, Astrology was later adopted by the Greeks and Romans of ancient times. While a fairly well-established science, its popularity always tended to wane and rise periodically.;;;;;;;;;;;;;x
-zodiac_gemini;Gemini;;;;;;;;;;;;;x
-zodiac_gemini_desc;This [GetGirlWomanBoyMan] was born under the sign of Gemini, which is commonly associated with versatility and fickleness.\nOriginally developed by the Babylonians, Astrology was later adopted by the Greeks and Romans of ancient times. While a fairly well-established science, its popularity always tended to wane and rise periodically.;;;;;;;;;;;;;x
-zodiac_leo;Leo;;;;;;;;;;;;;x
-zodiac_leo_desc;This [GetGirlWomanBoyMan] was born under the sign of Leo, which is commonly associated with fervor and pride.\nOriginally developed by the Babylonians, Astrology was later adopted by the Greeks and Romans of ancient times. While a fairly well-established science, its popularity always tended to wane and rise periodically.;;;;;;;;;;;;;x
-zodiac_libra;Libra;;;;;;;;;;;;;x
-zodiac_libra_desc;This [GetGirlWomanBoyMan] was born under the sign of Libra, which is commonly associated with fairness and moderation.\nOriginally developed by the Babylonians, Astrology was later adopted by the Greeks and Romans of ancient times. While a fairly well-established science, its popularity always tended to wane and rise periodically.;;;;;;;;;;;;;x
-zodiac_pisces;Pisces;;;;;;;;;;;;;x
-zodiac_pisces_desc;This [GetGirlWomanBoyMan] was born under the sign of Pisces, which is commonly associated with introversion and compassion.\nOriginally developed by the Babylonians, Astrology was later adopted by the Greeks and Romans of ancient times. While a fairly well-established science, its popularity always tended to wane and rise periodically.;;;;;;;;;;;;;x
-zodiac_sagittarius;Sagittarius;;;;;;;;;;;;;x
-zodiac_sagittarius_desc;This [GetGirlWomanBoyMan] was born under the sign of Sagittarius, which is commonly associated with dynamism and charisma.\nOriginally developed by the Babylonians, Astrology was later adopted by the Greeks and Romans of ancient times. While a fairly well-established science, its popularity always tended to wane and rise periodically.;;;;;;;;;;;;;x
-zodiac_scorpio;Scorpio;;;;;;;;;;;;;x
-zodiac_scorpio_desc;This [GetGirlWomanBoyMan] was born under the sign of Scorpio, which is commonly associated with secretiveness and stubbornness.\nOriginally developed by the Babylonians, Astrology was later adopted by the Greeks and Romans of ancient times. While a fairly well-established science, its popularity always tended to wane and rise periodically.;;;;;;;;;;;;;x
-zodiac_taurus;Taurus;;;;;;;;;;;;;x
-zodiac_taurus_desc;This [GetGirlWomanBoyMan] was born under the sign of Taurus, which is commonly associated with perseverance and determination.\nOriginally developed by the Babylonians, Astrology was later adopted by the Greeks and Romans of ancient times. While a fairly well-established science, its popularity always tended to wane and rise periodically.;;;;;;;;;;;;;x
-zodiac_virgo;Virgo;;;;;;;;;;;;;x
-zodiac_virgo_desc;This [GetGirlWomanBoyMan] was born under the sign of Virgo, which is commonly associated with diligence and humility.\nOriginally developed by the Babylonians, Astrology was later adopted by the Greeks and Romans of ancient times. While a fairly well-established science, its popularity always tended to wane and rise periodically.;;;;;;;;;;;;;x
-zun_leader;Scorcher;;;;;;;;;;;;;x
-zun_leader_desc;This [GetGirlWomanBoyMan] works well with siege weapons and is fast on [GetHerHis] feet, easily traversing both mountain and desert.;;;;;;;;;;;;;x
+abdominal_pain;Abdominal Pain;;;;;;;;;;;Ñòðàäåò îò áîëè â æèâîòå;;x
+abdominal_pain_death;clutching at [GetHerHis] gut;;;;;;;;;;;ñõâàòèâøèñü çà æèâîò;;x
+abdominal_pain_desc;This [GetGirlWomanBoyMan] experiences abdominal pains - perhaps due to eating something bad, what else could it be?;;;;;;;;;;;Ýò[_îãî] [___ïåðñîíàæà] ìó÷àåò áîëü â æèâîòå - âîçìîæíî, îí[_] ñúåë[_] ÷òî-òî íå òî, íó à ÷òî åù¸ ýòî ìîæåò áûòü?;;x
+administrator;Administrator;;;;;;;;;;;Àäìèíèñòðàòîð;;x
+administrator_desc;This [GetGirlWomanBoyMan] is a devoted administrator who loves order and efficiency above all things.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] - èñêóñíûé àäìèíèñòðàòîð, êîòîðûé ëþáèò ïîðÿäîê è ýôôåêòèâíîñòü áîëüøå âñåãî íà ñâåòå.;;x
+adventurer;Adventurer;;;;;;;;;;;Àâàíòþðèñò[__];;x
+adventurer_desc;This [GetGirlWomanBoyMan] has a background as an adventurer, which means that [GetSheHe] might be somewhat more ambitious than others.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] - îïûòí[_ûé] àâàíòþðèñò[__], ÷òî äåëàåò [_åãî] àìáèöèîçíåå äðóãèõ.;;x
+affectionate;Affectionate;;;;;;;;;;;Ëàñêîâ[_ûé];;x
+affectionate_desc;This [GetBoyGirl] is kind and is quick to show love and affection. Can develop into: §YKind§!, §YContent§! or §YTrusting§!.;;;;;;;;;;;Ýò[_îò] [__ðåá¸íîê] îõîòíî ïðîÿâëÿåò ëþáîâü è ëàñêó. Ìîæåò âûðàñòè: §Yäîáð[_ûì]§!, §Yóäîâëåòâîð¸íí[_ûì]§! èëè §Yäîâåð÷èâ[_ûì]§!.;;x
+aggressive_leader;Aggressive Leader;;;;;;;;;;;Àãðåññèâíûé êîìàíäèð;;x
+aggressive_leader_desc;This [GetGirlWomanBoyMan] does not shy away from battle, and will show no mercy to opponents who attempt to quit the field.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] íå èçáåãàåò áèòâû, è íå ïðîÿâèò ìèëîñåðäèå ê âðàãàì, êîòîðûå ïûòàþòñÿ îòñòóïèòü ñ ïîëÿ áîÿ.;;x
+amateurish_plotter;Amateurish Plotter;;;;;;;;;;;Çàãîâîðùè[_ê]-äèëåòàíò[__];;x
+amateurish_plotter_desc;The Amateurish Plotter has received an education emphasizing intrigue skills. Unfortunately, it didn't stick.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ïîëó÷èë[_] îáðàçîâàíèå, äåëàÿ óïîð íà ðàçâèòèå òàéíîãî ìàñòåðñòâà. Ê ñîæàëåíèþ, ýòî íå ïðèæèëîñü.;;x
+ambitious;Ambitious;;;;;;;;;;;Àìáèöèîçí[_ûé];;x
+ambitious_desc;Ambitious characters work harder, making [GetHerHim] better at everything. However, [GetHerHis] drive to reach the top means that they tend to make poor vassals...;;;;;;;;;;;Àìáèöèîçíûå ëþäè ìíîãî ðàáîòàþò, ÷òîáû áûòü ëó÷øèìè âî âñåì. Òåì íå ìåíåå, â èõ ñòðåìëåíèè äîñòè÷ü âåðøèí îíè äåëàþò ñâîèõ âàññàëîâ íåñ÷àñòíûìè…;;x
+arbitrary;Arbitrary;;;;;;;;;;;Ñàìîäóð;;x
+arbitrary_desc;This [GetGirlWomanBoyMan] could not care less about justice - a [GetGirlWomanBoyMan] flaw that is not appreciated by vassals and courtiers.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] íå áåñïîêîèòñÿ î ñïðàâåäëèâîñòè, êîòîðóþ òàê öåíÿò âàññàëû è ïðèäâîðíûå.;;x
+architect;Architect;;;;;;;;;;;Àðõèòåêòîð;;x
+architect_desc;This [GetGirlWomanBoyMan] loves buildings, architecture and machinery, particularly anything related to siege warfare.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ëþáèò àðõèòåêòóðó è ìàøèíû, â ÷àñòíîñòè òå, êîòîðûå èñïîëüçóþòñÿ ïðè îñàäå.;;x
+ares_own;Ares' Own;;;;;;;;;;;Âîèí Àðåñà;;x
+ares_own_desc;Ares' Own are overwhelming, insatiable in battle, destructive, and man-slaughtering. They fight for the Hellenic faith.;;;;;;;;;;;Âîèíû Àðåñà ïðåèñïîëíåíû íåèññÿêàåìîé æàæäîé êðîâè è ðàçðóøåíèé. Îíè ñðàæàþòñÿ çà ýëëèíñêóþ âåðó.;;x
+aryika;Aryika;;;;;;;;;;;Àðèéêà;;x
+aryika_desc;This woman has taken the Mahavrata vows and lives a life of asceticism, thus making her unable to marry or inherit.;;;;;;;;;;;Ýòà æåíùèíà ïðèíÿëà Ìàõàâðàòó - êëÿòâó, âûíóæäàþùóþ âåñòè àñêåòè÷íûé îáðàç æèçíè, ÷òî ëèøàåò å¸ ïðàâà âûéòè çàìóæ èëè ïîëó÷èòü íàñëåäñòâî.;;x
+ashari;Ash'ari;;;;;;;;;;;Àøàðèò[__];;x
+ashari_desc;This [GetGirlWomanBoyMan] is an adherent of the Sunni Ash'ari school of theology, placing emphasis on tradition, revelation and occasionalism.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] - ïðèâåðæåí[_åö] ñóííèòñêîé áîãîñëîâñêîé øêîëû àøàðèòîâ, óäåëÿþùåé îñîáîå âíèìàíèå òðàäèöèÿì, îòêðîâåíèÿì è îêêàçèîíàëèçìó.;;x
+attractive;Attractive;;;;;;;;;;;Ïðèâëåêàòåëüí[_ûé];;x
+attractive_desc;This [GetGirlWomanBoyMan] has a most pleasing physique, most attractive to the opposite sex.;;;;;;;;;;;Ó ýò[__îãî] [__ïåðñîíàæà] êðàñèâàÿ âíåøíîñòü, ïðèâëåêàòåëüíàÿ äëÿ ïðîòèâîïîëîæíîãî ïîëà.;;x
+augustus;Augustus;;;;;;;;;;;Àâãóñò[_];;x
+augustus_desc;[GetAltAugustusName];;;;;;;;;;;[GetAltAugustusName];;x
+aztec_disease;Syphilitic;;;;;;;;;;;Áîëååò ñèôèëèñîì;;x
+aztec_disease_death;of Syphilis;;;;;;;;;;;îò ñèôèëèñà;;x
+aztec_disease_desc;This [GetGirlWomanBoyMan] suffers from Syphilis, a virulent strain of Great Pox brought from across the sea by the Aztec conquerors.;;;;;;;;;;;Ýò[This.GetEtaEtot] [This.GetAgedPerson] ñòðàäàåò îò ñìåðòåëüíîé ôîðìû ñèôèëèñà, ïðèâåç¸ííîãî àöòåêñêèìè çàõâàò÷èêàìè.;;x
+bad_priest_aztec;Unworthy Priest;;;;;;;;;;;Íåäîñòîéí[_ûé] æð[___åö];;x
+bad_priest_aztec_desc;The personality and habits of this priest are very inappropriate for [GetHerHis] position. And what's worse, [GetSheHe] has been unable to hide them from public view.;;;;;;;;;;;Ëè÷íîñòü è ïðèâû÷êè ýò[__îãî] æð[___åöà] íèêàê íå ñîîòâåòñòâóþò çàíèìàåìîé äîëæíîñòè. È ÷òî åù¸ õóæå - å[_ìó] íå óäà¸òñÿ ñêðûâàòü ýòî îò îáùåñòâåííîñòè.;;x
+bad_priest_christian;Wicked Priest;;;;;;;;;;;Íå÷åñòèâûé ñâÿùåííèê;;x
+bad_priest_christian_desc;The personality and habits of this priest are very inappropriate for [GetHerHis] position. And what's worse, [GetSheHe] has been unable to hide them from public view.;;;;;;;;;;;Ëè÷íîñòü è ïðèâû÷êè ýòîãî ñâÿùåííèêà íèêàê íå ñîîòâåòñòâóþò çàíèìàåìîé äîëæíîñòè. È ÷òî åù¸ õóæå - å[_ìó] íå óäà¸òñÿ ñêðûâàòü ýòî îò îáùåñòâåííîñòè.;;x
+bad_priest_muslim;Wicked Caliph;;;;;;;;;;;Íå÷åñòèâ[_ûé] õàëèô[_];;x
+bad_priest_muslim_desc;This Caliph's personality and habits are very inappropriate for [GetHerHis] position. And what's worse, [GetSheHe] has been unable to hide them from public view.;;;;;;;;;;;Ëè÷íîñòü è ïðèâû÷êè ýòî[__îãî] õàëèô[__à] íèêàê íå ñîîòâåòñòâóþò çàíèìàåìîé äîëæíîñòè. È ÷òî åù¸ õóæå - å[_ìó] íå óäà¸òñÿ ñêðûâàòü ýòî îò îáùåñòâåííîñòè.;;x
+bad_priest_norse;Unworthy Priest;;;;;;;;;;;Íåäîñòîéí[_ûé] æð[___åö];;x
+bad_priest_norse_desc;The personality and habits of this priest are very inappropriate for [GetHerHis] position. And what's worse, [GetSheHe] has been unable to hide them from public view.;;;;;;;;;;;Ëè÷íîñòü è ïðèâû÷êè ýò[__îãî] æð[___åöà] íèêàê íå ñîîòâåòñòâóþò çàíèìàåìîé äîëæíîñòè. È ÷òî åù¸ õóæå - å[_ìó] íå óäà¸òñÿ ñêðûâàòü ýòî îò îáùåñòâåííîñòè.;;x
+bad_priest_tengri;Unworthy Priest;;;;;;;;;;;Íåäîñòîéí[_ûé] æð[___åö];;x
+bad_priest_tengri_desc;The personality and habits of this priest are very inappropriate for [GetHerHis] position. And what's worse, [GetSheHe] has been unable to hide them from public view.;;;;;;;;;;;Ëè÷íîñòü è ïðèâû÷êè ýò[__îãî] æð[___åöà] íèêàê íå ñîîòâåòñòâóþò çàíèìàåìîé äîëæíîñòè. È ÷òî åù¸ õóæå - å[_ìó] íå óäà¸òñÿ ñêðûâàòü ýòî îò îáùåñòâåííîñòè.;;x
+bad_priest_zoroastrian;Immoral Priest;;;;;;;;;;;Àìîðàëüí[_ûé] æð[___åö];;x
+bad_priest_zoroastrian_desc;The personality and habits of this priest are very inappropriate for [GetHerHis] position. And what's worse, [GetSheHe] has been unable to hide them from public view.;;;;;;;;;;;Ëè÷íîñòü è ïðèâû÷êè ýò[__îãî] æð[___åöà] íèêàê íå ñîîòâåòñòâóþò çàíèìàåìîé äîëæíîñòè. È ÷òî åù¸ õóæå - å[_ìó] íå óäà¸òñÿ ñêðûâàòü ýòî îò îáùåñòâåííîñòè.;;x
+baltic_leader;Forest Ambusher;;;;;;;;;;;Ëåñí[__îé] ëàçóò÷è[_ê];;x
+baltic_leader_desc;This [GetGirlWomanBoyMan] is used to defending ancient and sacred woodlands.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] çàùèùàåò äðåâíèé ñâÿùåííûé ëåñ.;;x
+baptized_by_bishop;Baptized by [GetBaptizedByName];;;;;;;;;;;[Root.GetBaptizedByName];;x
+baptized_by_bishop_desc;This [GetGirlWomanBoyMan] was baptized by a notable member of the [Religion.GetName] clergy, a clear show of [GetHerHis] illustrious birth and of the good relationship between [GetHerHis] dynasty and the Church.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] áûë[_] êðåùåí[_] óâàæàåìûì ïðåäñòàâèòåëåì [GetRelAdj]ñêîãî äóõîâåíñòâà. ßðêèé ïðèçíàê õîðîøèõ îòíîøåíèé [_åãî] äèíàñòèè ñ öåðêîâüþ;;x
+baptized_by_patriarch;Baptized by [GetBaptizedByName];;;;;;;;;;;[Root.GetBaptizedByName];;x
+baptized_by_patriarch_desc;This [GetGirlWomanBoyMan] was baptized by the Ecumenical Patriarch himself of the [Religion.GetName] Church with great pomp and circumstance, during a magnificent ceremony that will not soon be forgotten.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] áûë[_] êðåùåí[_] Âñåëåíñêèì Ïàòðèàðõîì [GetRelAdj]ñêîé öåðêâè. Öåðåìîíèÿ áûëà ïîèñòèíå ãðàíäèîçíîé. Òàêîå íå ñêîðî ñìîãóò çàáûòü.;;x
+baptized_by_pope;Baptized by [GetBaptizedByName];;;;;;;;;;;[Root.GetBaptizedByName];;x
+baptized_by_pope_desc;This [GetGirlWomanBoyMan] was baptized by the Pope himself with great pomp and circumstance, during a magnificent ceremony that will not soon be forgotten.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] áûë[_] êðåùåí[_] ñàìèì Ïàïîé. Öåðåìîíèÿ áûëà ïîèñòèíå ãðàíäèîçíîé. Òàêîå íå ñêîðî ñìîãóò çàáûòü.;;x
+baptized_by_satan;Baptized by [baptizing_satanist_per.GetTitledFirstName];;;;;;;;;;;[This.GetHersHisCap]êðåñòèë[baptizing_satanist_per.GetEndA] [baptizing_satanist_per.GetTitledFirstName];;x
+baptized_by_satan_desc;This [GetBoyGirl] was baptized in the blood of the innocent during a grotesque satanic ritual that bound [GetHerHim] forever to the Prince of Darkness.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] áûë[_] êðåùåí[_] êðîâüþ íåâèííûõ âî âðåìÿ ãðîòåñêíîãî ñàòàíèíñêîãî ðèòóàëà, íàâñåãäà ñâÿçûâàþùåãî [_åãî] ñ Êíÿçåì Òüìû.;;x
+bastard;Bastard;;;;;;;;;;;Áàñòàðä;;x
+bastard_desc;This [GetGirlWomanBoyMan] was born out of wedlock and has not been legitimized - and is thus disqualified from the line of succession.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] áûë[_] ðîæäåí[_] âíå áðàêà è íå óçàêîíåí[_], ÷òî èñêëþ÷àåò [_åãî] èç ëèíèè íàñëåäîâàíèÿ.;;x
+battlefield_terrain_master;Battlefield Terrain Master;;;;;;;;;;;Ìàñòåð îáîðîííîé ìåñòíîñòè;;x
+battlefield_terrain_master_desc;This [GetGirlWomanBoyMan] has mastered the craft of finding the perfect terrain for defensive battles.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] îâëàäåë[_] ìàñòåðñòâîì ïîèñêà èäåàëüíîé ìåñòíîñòè äëÿ îáîðîíû.;;x
+beatified;Beatified;;;;;;;;;;;Áëàæåíí[_ûé];;x
+beatified_desc;This [GetGirlWomanBoyMan] has been beatified by the Church as a pious exemplar of the faith.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] áûë[_] áëàãîñëîâëåí[_] öåðêîâüþ êàê ïðèìåð ïðàâåäíîñòè è áëàãî÷åñòèÿ.;;x
+berserker;Berserker;;;;;;;;;;;Áåðñåðê;;x
+berserker_desc;This [GetGirlWomanBoyMan] works himself into a mad frenzy during battle, charging fearlessly at the enemy.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] âïàäàåò â áåçóìèå íà ïîëå áîÿ, êðóøà âðàãîâ áåç ìàëåéøåãî ñòðàõà.;;x
+bhikkhu;Bhikkhu;;;;;;;;;;;Áõèêêó;;x
+bhikkhu_desc;This man lives a life of asceticism in accordance with the Patimokkha rules, thus making him unable to marry or inherit.;;;;;;;;;;;Ýòîò ìóæ÷èíà âåä¸ò àñêåòè÷íûé îáðàç æèçíè, êàê òîãî òðåáóåò Ïàòèìîêêà, ÷òî ëèøàåò åãî ïðàâà æåíèòüñÿ èëè ïîëó÷èòü íàñëåäñòâî.;;x
+bhikkhuni;Bhikkuni;;;;;;;;;;;Áõèêêóíè;;x
+bhikkhuni_desc;This woman lives a life of asceticism in accordance with the Patimokkha rules, thus making her unable to marry or inherit.;;;;;;;;;;;Ýòà æåíùèíà âåä¸ò àñêåòè÷íûé îáðàç æèçíè, êàê òîãî òðåáóåò Ïàòèìîêêà, ÷òî ëèøàåò å¸ ïðàâà âûéòè çàìóæ èëè ïîëó÷èòü íàñëåäñòâî.;;x
+blessed_ancestor;Blessed Ancestor;;;;;;;;;;;Ïî÷èòàåìûé ïðåäîê;;x
+blessed_ancestor_desc;A blessed ancestor of old, venerated by [GetHerHis] descendants.;;;;;;;;;;;Ïî÷èòàåìûé ïðåäîê âûñîêî öåíèòñÿ ñðåäè ñâîèõ ïîòîìêîâ.;;x
+blinded;Blinded;;;;;;;;;;;Îñëåïë¸íí[_ûé];;x
+blinded_death;from complications of being blinded;;;;;;;;;;;îò îñëîæíåíèé, áóäó÷è îñëåïë¸ííûì;;x
+blinded_desc;This [GetGirlWomanBoyMan] has been permanently blinded and cannot see.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] áûë[_] îñëåïëåí[_] è íå ìîæåò âèäåòü.;;x
+bloodthirsty_gods_1;Haemophiliac;;;;;;;;;;;Ãåìîôèë[__];;x
+bloodthirsty_gods_1_desc;This [GetManWoman] has performed a notable amount of human sacrifices.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñîâåðøèë[_] ìíîæåñòâî ÷åëîâå÷åñêèõ æåðòâîïðèíîøåíèé.;;x
+bloodthirsty_gods_2;Haemophant;;;;;;;;;;;Ãåìîôàíò;;x
+bloodthirsty_gods_2_desc;This [GetManWoman] is renowned as a bloodthirsty fanatic, always looking for the next victim to sacrifice to [GetHerHis] cruel gods.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] èçâåñò[_åí] êàê êðîâàâûé ôàíàòèê, èùóùèé íîâûå ÷åëîâå÷åñêèå æåðòâû äëÿ æåñòîêèõ áîãîâ.;;x
+bloodthirsty_gods_3;Haemoarch;;;;;;;;;;;Ãåìàðõ;;x
+bloodthirsty_gods_3_desc;This [GetManWoman] has filled rivers with the blood of [GetHerHis] victims and built mountains out of their skulls in [GetHerHis] psychotic desire to please the cruel gods [GetSheHe] worships.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] íàïîëíèë[_] ðåêè êðîâè èç ñâîèõ æåðòâ è âîçâåë[_] ãîðû èç èõ ÷åðåïîâ â ñâî¸ì ïñèõîòè÷åñêîì æåëàíèè óáëàæèòü æåñòîêèõ áîãîâ.;;x
+bon_leader;Mountain Guardian;;;;;;;;;;;Ñòðàæ[____] Ãîð;;x
+bon_leader_desc;This [GetGirlWomanBoyMan] can move hastily through the hills and plateaus of any mountain range. Especially when leading troops of light infantry.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ìîæåò áûñòðî ïåðåìåùàòüñÿ ïî õîëìàì è ãîðíûì ïëàòî. Êðîìå òîãî, îí[_] - ïðåêðàñíûé êîìàíäèð ë¸ãêîé ïåõîòû.;;x
+born_in_the_purple;Born in the Purple;;;;;;;;;;;Áàãðÿíîðîäí[_ûé];;x
+born_in_the_purple_desc;[GetBornInPurpleDesc];;;;;;;;;;;[This.GetBornInPurpleDesc];;x
+brahmin;Brahmin;;;;;;;;;;;Áðàõìàí;;x
+brahmin_desc;[GetBrahminDesc];;;;;;;;;;;[GetBrahminDesc];;x
+brave;Brave;;;;;;;;;;;Õðàáð[_ûé];;x
+brave_desc;This [GetGirlWomanBoyMan] never shies from personal danger, enjoying the respect of vassals but the envy of cravens.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] íå áîèòñÿ îïàñíîñòè, ïîëüçóåòñÿ óâàæåíèåì ó âàññàëîâ è çàâèñòüþ ó òðóñîâ.;;x
+brawny;Brawny;;;;;;;;;;;Ìóñêóëèñò[_ûé];;x
+brawny_desc;This [GetGirlWomanBoyMan] is physically brawny.;;;;;;;;;;;Ó ýò[__îãî] [__ïåðñîíàæà] êðåïêèå ìóñêóëû.;;x
+brilliant_strategist;Brilliant Strategist;;;;;;;;;;;Áëåñòÿùèé ñòðàòåã;;x
+brilliant_strategist_desc;The Brilliant Strategist has an almost preternatural understanding of all things martial, having the perfect makings for a Marshal or a military tutor.;;;;;;;;;;;Áëåñòÿùèé ñòðàòåã îáëàäàåò ïî÷òè ñâåðõúåñòåñòâåííûì ïîíèìàíèåì âîåííîãî äåëà. Ýòî èäåàëüíàÿ êàíäèäàòóðà íà äîëæíîñòü ìàðøàëà èëè áîåâîãî íàñòàâíèêà.;;x
+brooding;Brooding;;;;;;;;;;;Âäóì÷èâ[_ûé];;x
+brooding_desc;This [GetBoyGirl] is a quiet thinker, often sitting inside in deep ponderings as others play outside in the sun. Can develop into: §YJust§!, §YWroth§! or §YEnvious§!.;;;;;;;;;;;Èãðàì íà ñâåæåì âîçäóõå ýò[_îò] [__ðåá¸íîê] ïðåäïî÷èòàåò òèõèå óåäèí¸ííûå ðàçìûøëåíèÿ. Ìîæåò âûðàñòè: §Yñïðàâåäëèâ[_ûì]§!, §Yãíåâí[_ûì]§! èëè §Yçàâèñòëèâ[_ûì]§!.;;x
+bubonic_plague;The Plague;;;;;;;;;;;Çàðàæåí[_] ÷óìîé!;;x
+bubonic_plague_death;of the dreaded Plague;;;;;;;;;;;îò ÷óìû;;x
+bubonic_plague_desc;This [GetGirlWomanBoyMan] has the dreaded Bubonic Plague.;;;;;;;;;;;Ñïàñàéòåñü, ó ýò[__îãî] [__ïåðñîíàæà] áóáîííàÿ ÷óìà!;;x
+camp_fever;Camp Fever;;;;;;;;;;;Áîëååò òèôîì;;x
+camp_fever_death;of Camp Fever;;;;;;;;;;;îò ñûïíîãî òèôà;;x
+camp_fever_desc;This [GetGirlWomanBoyMan] is inflicted with the plague known as Camp Fever (Epidemic Typhus).;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] áîëååò îïàñíîé áîëåçíüþ, èçâåñòíîé êàê ñûïíîé òèô.;;x
+cancer;Cancer;;;;;;;;;;;Ñòðàäàåò îò ðàêà;;x
+cancer_desc;This [GetGirlWomanBoyMan] has cancer – tumors spreading through [GetHerHis] body, draining the life out of [GetHerHim].;;;;;;;;;;;Ó ýò[__îãî] [__ïåðñîíàæà] ðàê - îïóõîëü ðàñïðîñòðàíÿåòñÿ ïî âñåìó òåëó, âûòÿãèâàÿ æèçíü.;;x
+cancer_death;of Cancer;;;;;;;;;;;îò ðàêà;;x
+cannibal;Cannibal;;;;;;;;;;;Ëþäîåä[__];;x
+cannibal_desc;This [GetGirlWomanBoyMan] seeks to serve man.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] åñò ëþäåé.;;x
+cat_desc;This is a cat...;;;;;;;;;;;Ýòî ñóùåñòâî - ñàì[GetAyaYy] íàñòîÿù[GetAyaIy] [GetPussyCat].;;x
+cavalry_leader;Cavalry Leader;;;;;;;;;;;Êîìàíäèð êîííèöû;;x
+cavalry_leader_desc;This [GetGirlWomanBoyMan] excels at leading men to war on horseback.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ïðåâîñõîäíî âåä¸ò âîèíîâ â áîé âåðõîì íà êîíå.;;x
+celibate;Celibate;;;;;;;;;;;Ïðèíÿë[_] öåëèáàò;;x
+celibate_desc;This [GetGirlWomanBoyMan] has chosen a life of celibacy.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] äàë[_] îáåò áåçáðà÷èÿ.;;x
+charismatic_negotiator;Charismatic Negotiator;;;;;;;;;;;Áëåñòÿù[_èé] ïåðåãîâîðùè[_ê];;x
+charismatic_negotiator_desc;The Charismatic Negotiator is an excellent diplomat, impressing dignitaries with elegant dress and persuasive rhetoric.;;;;;;;;;;;Ïðåêðàñí[_ûé] äèïëîìàò[__], âïå÷àòëÿþù[_èé] âåëüìîæ ñâîèì ýëåãàíòíûì ïëàòüåì è óáåäèòåëüíîé ðèòîðèêîé.;;x
+charitable;Charitable;;;;;;;;;;;Ùåäð[_ûé];;x
+charitable_desc;This [GetGirlWomanBoyMan] is famously charitable. 'Caritas' is the third of the seven virtues and a most chivalrous trait.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] èçâåñò[_åí] ñâîåé ùåäðîñòüþ - òðåòüåé èç ñåìè äîáðîäåòåëåé. Ýòî, ïîæàëóé, ñàìàÿ ðûöàðñêàÿ ÷åðòà.;;x
+chaste;Chaste;;;;;;;;;;;Öåëîìóäðåíí[_ûé];;x
+chaste_desc;Chastity, or 'Castitas' is the first of the seven virtues. Chaste characters are admired for their virtue and are unlikely to have extramarital affairs.;;;;;;;;;;;Öåëîìóäðèå - ïåðâàÿ èç ñåìè äîáðîäåòåëåé. Öåëîìóäðåííûìè ëþäüìè âîñõèùàëèñü âî âñå âðåìåíà. Îíè âðÿä ëè áóäóò èìåòü âíåáðà÷íûå ñâÿçè.;;x
+chest_pain;Chest Pains;;;;;;;;;;;Ñòðàäàåò îò áîëè â ãðóäè;;x
+chest_pain_death;clutching at [GetHerHis] heart;;;;;;;;;;;ñõâàòèâøèñü çà ñåðäöå;;x
+chest_pain_desc;This [GetGirlWomanBoyMan] is experiencing chest pains - whether the reason is stress, eating too much, or something else, [GetSheHe] may be dead before anyone knows for sure.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñòðàäàåò îò áîëè â ãðóäè. Êàêîâà áû íå áûëà ïðè÷èíà ýòîãî ñèìïòîìà - ñòðåññ, ïåðååäàíèå èëè ÷òî-òî áîëåå ñåðü¸çíîå, ñìåðòü ìîæåò íàñòóïèòü âíåçàïíî, è íèêòî íå ïîéì¸ò ïî÷åìó.;;x
+child_of_consort;Child of Concubine;;;;;;;;;;;[_Ðåá¸íîê] íàëîæíèöû;;x
+child_of_consort_desc;This [GetGirlWomanBoyMan] was born to the concubine of a ruler. Children of concubines can inherit but are somewhat poorly regarded by others.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] áûë[_] ðîæäåí[_] îò íàëîæíèöû ïðàâèòåëÿ. Äåòè íàëîæíèö ìîãóò íàñëåäîâàòü, íî ê íèì ïëîõî îòíîñèòñÿ îáùåñòâî.;;x
+child_of_consort_male;Child of Consort;;;;;;;;;;;[_Ðåá¸íîê] îò íàëîæíèêà;;x
+child_of_consort_male_desc;This [GetGirlWomanBoyMan] was born to the consort of a ruler. Children of consorts can inherit but are somewhat poorly regarded by others.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] áûë[_] ðîæäåí[_] îò íàëîæíèêà ïðàâèòåëüíèöû. Äåòè íàëîæíèêîâ ìîãóò íàñëåäîâàòü, íî ê íèì ïëîõî îòíîñèòñÿ îáùåñòâî.;;x
+clubfooted;Clubfooted;;;;;;;;;;;Êîñîëàï[_ûé];;x
+clubfooted_desc;This [GetGirlWomanBoyMan] was born with a clubfoot - an unattractive disability.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] áûë[_] ðîæäåí[_] êîñîëàï[_ûì] - íåïðèâëåêàòåëüíàÿ ÷åðòà.;;x
+conscientious;Conscientious;;;;;;;;;;;Äîáðîñîâåñòí[_ûé];;x
+conscientious_desc;This [GetBoyGirl] is unusually scrupulous and responsible, taking delight in completing any chores and tasks to perfection. Can develop into: §YDiligent§! or §YTemperate§!.;;;;;;;;;;;Ýò[_îò] [__ðåá¸íîê] íåîáû÷àéíî îòâåòñòâåí[_åí] è ñêóðïóë¸çíî âûïîëíÿåò ëþáûå çàäà÷è, äîâîäÿ èõ äî ñîâåðøåíñòâà. Ìîæåò âûðàñòè: §Yóñåðäí[_ûì]§! èëè §Yóìåðåíí[_ûì]§!.;;x
+consumption;Consumption;;;;;;;;;;;Ñòðàäàåò îò ÷àõîòêè;;x
+consumption_death;of Consumption;;;;;;;;;;;îò ÷àõîòêè;;x
+consumption_desc;This [GetGirlWomanBoyMan] is wracked with the bloody cough known as consumption (i.e. Tuberculosis).;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] êàøëÿåò êðîâüþ, ÷òî ÿâëÿåòñÿ ñèìïòîìîì ÷àõîòêè èëè òóáåðêóëåçà.;;x
+content;Content;;;;;;;;;;;Óäîâëåòâîðåíí[_ûé];;x
+content_desc;Content characters are satisfied with their lot in life. They make loyal vassals but are unsuited to intrigue.;;;;;;;;;;;Óäîâëåòâîðåííûå ëþäè äîâîëüíû ñâîåé æèçíåííîé ñóäüáîé. Îíè - âåðíûå âàññàëû è ñîâåðøåííî íå ïîäõîäÿò äëÿ èíòðèã.;;x
+cough;Cough;;;;;;;;;;;Ñòðàäàåò îò êàøëÿ;;x
+cough_death;coughing [GetHerHis] lungs up;;;;;;;;;;;âûêàøëèâ ñâîè ë¸ãêèå;;x
+cough_desc;This [GetGirlWomanBoyMan] is suffering from a bad cough - an annoying and sometimes painful ailment.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñòðàäàåò îò ñèëüíîãî êàøëÿ - âåñüìà íàäîåäëèâîãî, à èíîãäà è áîëåçíåííîãî ñèìïòîìà.;;x
+cramps;Cramps;;;;;;;;;;;Ñòðàäàåò îò ñóäîðîã;;x
+cramps_death;convulsing in a cramp;;;;;;;;;;;îò ñóäîðîæíîãî ïðèïàäêà;;x
+cramps_desc;This [GetGirlWomanBoyMan] is having cramps periodically - a very unpleasant experience and a dangerous ailment when occurring at the wrong place at the wrong time.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñòðàäàåò îò îñòðûõ âíåçàïíûõ ñïàçìîâ, ÷òî íå òîëüêî íåïðèÿòíî, íî è îïàñíî, îñîáåííî êîãäà ñëó÷àåòñÿ íå â òîì ìåñòå, íå â òî âðåìÿ.;;x
+craven;Craven;;;;;;;;;;;Òðóñëèâ[_ûé];;x
+craven_desc;This [GetGirlWomanBoyMan] is a craven and a coward.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] òðóñëèâ[_].;;x
+crowned_by_bishop;Crowned by [GetCrownedByName];;;;;;;;;;;[Root.GetCrownedByName];;x
+crowned_by_bishop_desc;This ruler was anointed by [Root.GetCrownedByDesc].\nA formal coronation is considered by many a fundamental step in the legitimization of any proper [christian.GetGroupName] [Root.GetTitle].;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] áûë[_] êîðîíîâàí[_] [Root.GetCrownedByDesc].\nÎôèöèàëüíàÿ êîðîíàöèÿ - âàæíûé øàã íà ïóòè ëåãèòèìàöèè ëþáîãî [õðèñòèàí]ñêîãî ïðàâèòåëÿ.;;x
+crowned_by_bishop_rd;Crowned by a Prince-Bishop;;;;;;;;;;;Êîðîíîâàí êíÿçåì-åïèñêîïîì;;x
+crowned_by_bishop_rd_desc;This ruler was anointed by a notable member of the clergy.\nA formal coronation is considered by many a fundamental step in the legitimization of any proper [christian.GetGroupName] ruler.;;;;;;;;;;;Ýòîò ïðàâèòåëü áûë êîðîíîâàí âàæíûì ïðåäñòàâèòåëåì äóõîâåíñòâà.\nÎôèöèàëüíàÿ êîðîíàöèÿ - âàæíûé øàã íà ïóòè ëåãèòèìàöèè ëþáîãî [õðèñòèàí]ñêîãî ïðàâèòåëÿ.;;x
+crowned_by_myself;Self-Crowned;;;;;;;;;;;Ñàìîêîðîíîâàí[_];;x
+crowned_by_myself_desc;Going against all Christian traditions, this ruler has spurned the Pope and crowned [GetHerHim]self. Such a blasphemous act is a certain sign of a mind gone mad with power.;;;;;;;;;;;Âîïðåêè âñåì [õðèñòèàí]ñêèì òðàäèöèÿì, ýò[_îò] [__ïåðñîíàæ] íàïëåâàë[_] íà âîëþ Ïàïû è êîðîíîâàë[_] ñåáÿ ñàì[_]. Ñòîëü êîùóíñòâåííûé ïîñòóïîê - ÿâíûé ïðèçíàê òîãî, ÷òî âëàñòü ïîìóòèëà [_åãî] ðàññóäîê.;;x
+crowned_by_pope;Crowned by [GetCrownedByName];;;;;;;;;;;[Root.GetCrownedByName];;x
+crowned_by_pope_desc;This ruler was anointed by the Vicar of [GetChristName] himself.\nThis is incontrovertible proof of [GetHerHis] divine right to rule.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] áûë[_] ïîìàçàí[_] âèêàðèåì [GetChristNameGEN].\nÝòî íåîïðîâåðæèìîå äîêàçàòåëüñòâî çàêîííîñòè [_åãî] ïðàâëåíèÿ.;;x
+crowned_by_pope_rd;Crowned by the Pope;;;;;;;;;;;Êîðîíîâàí Ïàïîé;;x
+crowned_by_pope_rd_desc;This ruler was anointed by the Vicar of [GetChristName] himself.\nThis is incontrovertible proof of [GetHerHis] divine right to rule.;;;;;;;;;;;Ýòîò ïðàâèòåëü áûë ïîìàçàí âèêàðèåì [GetChristNameGEN].\nÝòî íåîïðîâåðæèìîå äîêàçàòåëüñòâî çàêîííîñòè åãî ïðàâëåíèÿ.;;x
+crowned_by_priest;Crowned by a Bishop;;;;;;;;;;;[Root.GetCrownedByName];;x
+crowned_by_priest_desc;This ruler was crowned by a minor prelate.\nA formal coronation is considered by many a fundamental step in the legitimization of any proper [christian.GetGroupName] [GetTitle].;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] áûë[_] êîðîíîâàí[_] ðÿäîâûì ïðåäñòàâèòåëåì äóõîâåíñòâà.\nÎôèöèàëüíàÿ êîðîíàöèÿ - âàæíûé øàã íà ïóòè ëåãèòèìàöèè ëþáîãî [õðèñòèàí]ñêîãî ïðàâèòåëÿ.;;x
+crowned_by_priest_rd;Crowned by a Bishop;;;;;;;;;;;Êîðîíîâàí åïèñêîïîì;;x
+crowned_by_priest_rd_desc;This ruler was crowned by a minor prelate.\nA formal coronation is considered by many a fundamental step in the legitimization of any proper [christian.GetGroupName] ruler.;;;;;;;;;;;Ýòîò ïðàâèòåëü áûë êîðîíîâàí ðÿäîâûì ïðåäñòàâèòåëåì äóõîâåíñòâà.\nÎôèöèàëüíàÿ êîðîíàöèÿ - âàæíûé øàã íà ïóòè ëåãèòèìàöèè ëþáîãî [õðèñòèàí]ñêîãî ïðàâèòåëÿ.;;x
+cruel;Cruel;;;;;;;;;;;Æåñòîê[_èé];;x
+cruel_desc;This [GetGirlWomanBoyMan] is an evil sadist, taking pleasure in the suffering of others.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] - æåñòîê[_èé] ñàäèñò[__], ïîëó÷àþù[_èé] óäîâîëüñòâèå îò ñòðàäàíèé äðóãèõ ëþäåé.;;x
+crusader;Crusader;;;;;;;;;;;Êðåñòîíîñåö;;x
+crusader_desc;This [GetGirlWomanBoyMan] is a veteran Crusader.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ó÷àñòâîâàë â êðåñòîâîì ïîõîäå.;;x
+crusader_king;Crusader King;;;;;;;;;;;Êîðîëü-êðåñòîíîñåö;;x
+crusader_king_desc;A great warrior King who has shaped his own kingdom out of the lands of the infidels.;;;;;;;;;;;Âåëèêèé êîðîëü-âîèí, êîòîðûé îñíîâàë ñâî¸ êîðîëåâñòâî íà çåìëÿõ èíîâåðöåâ.;;x
+crusader_queen;Crusader Queen;;;;;;;;;;;Êîðîëåâà-êðåñòîíîñåö;;x
+crusader_queen_desc;A great warrior Queen who has shaped her own kingdom out of the lands of the infidels.;;;;;;;;;;;Âåëèêàÿ êîðîëåâà-âîèí, êîòîðàÿ îñíîâàëà ñâî¸ êîðîëåâñòâî íà çåìëÿõ èíîâåðöåâ.;;x
+curious;Curious;;;;;;;;;;;Ëþáîïûòí[_ûé];;x
+curious_desc;This [GetBoyGirl] has an inquisitive nature and is constantly asking questions and poking around looking for new and interesting things. Can develop into: §YShrewd§!, §YCynical§! or §Ysympathies for other religions§!.;;;;;;;;;;;Ýò[_îò] [__ðåá¸íîê] î÷åíü ëþáîçíàòåë[__åí], ïîâñþäó ñó¸ò ñâîé íîñ, çàäà¸ò âîïðîñû, èùåò âñ¸ íîâîå è íåîáû÷íîå. Ìîæåò âûðàñòè: §Yïðîíèöàòåëüí[_ûì]§!, §Yöèíè÷í[_ûì]§! èëè §Yñèìïàòèçèðóþù[__èì] äðóãèì ðåëèãèÿì§!.;;x
+cynical;Cynical;;;;;;;;;;;Öèíè÷í[_ûé];;x
+cynical_desc;This [GetGirlWomanBoyMan] is a cynical unbeliever, disliked by the clergy but good at intrigue.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] - öèíè÷íûé ñêåïòèê. Òàêèõ íå ëþáèò äóõîâåíñòâî, çàòî ýòà ÷åðòà ïîìîãàåò ïëåñòè èíòðèãè.;;x
+dancing_plague;Dancing Plague;;;;;;;;;;;Ïëÿøóùàÿ ÷óìà;;x
+dancing_plague_death;dancing into oblivion;;;;;;;;;;;íå â ñèëàõ ïåðåñòàòü òàíöåâàòü;;x
+dancing_plague_desc;This [GetGirlWomanBoyMan] is suffering from the Dancing Plague and is unable to stop moving. A very exhausting condition.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñòðàäàåò îò íåäóãà, êîòîðûé âûíóæäàåò ïîñòîÿííî äâèãàòüñÿ è íå äà¸ò îñòàíîâèòüñÿ. Âåñüìà èçìàòûâàþùå.;;x
+decadent;Decadent;;;;;;;;;;;Äåêàäåíò[__];;x
+decadent_desc;Soft living and flagrant debauchery has turned this [GetGirlWomanBoyMan] decadent, a living offense to all righteous Muslims. Decadent characters will slowly increase the decadence value of their entire dynasty, which can eventually lead to massive tribal uprisings.;;;;;;;;;;;"Ë¸ãêàÿ æèçíü, ðàñïóùåííîñòü è ÷ðåçìåðíàÿ ñêàíäàëüíîñòü ïðåâðàòèëè ýò[_îãî] [___ïåðñîíàæà] â äåêàäåíò[__à], îòðèíóò[__îãî_] âñåìè [muslim.GetGroupName]ñêèìè òå÷åíèÿìè, ÷òî ïîñòåïåííî áóäåò óâåëè÷èâàòü ìîäèôèêàòîð ""óïàäêà"" âñåé äèíàñòèè è, â êîíå÷íîì ñ÷¸òå, ïðèâåä¸ò ê ìàññîâûì âîëíåíèÿì âíóòðè ñåìüè èëè äàæå ê âîîðóæ¸ííûì âîññòàíèÿì.";;x
+deceitful;Deceitful;;;;;;;;;;;Êîâàðí[_ûé];;x
+deceitful_desc;This [GetGirlWomanBoyMan] has a manipulative and dishonest nature - an excellent trait for spymasters... as long as [GetSheHe] remains loyal.;;;;;;;;;;;Ýò[_îò] áåñ÷åñòí[_ûé] [__ïåðñîíàæ] ëåãêî ìàíèïóëèðóåò äðóãèìè ëþäüìè. Âåñüìà ïîëåçíàÿ ÷åðòà äëÿ òàéíîãî ñîâåòíèêà... äî òåõ ïîð, ïîêà îí îñòà¸òñÿ ëîÿëüíûì.;;x
+defensive_leader;Defensive Leader;;;;;;;;;;;Êîìàíäèð îáîðîíû;;x
+defensive_leader_desc;This [GetGirlWomanBoyMan] has a reputation as a stalwart defender, standing like a stone wall alongside the men no matter what force hurls itself against [GetHerHim].;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] èìååò ðåïóòàöèþ íåïðåêëîííîãî çàùèòíèêà, ñòîÿùåãî, êàê êàìåííàÿ ñòåíà, áîê î áîê ñ âîèíàìè, íåçàâèñèìî îò òîãî, êàêèå ñèëû áðîñàåò íà íèõ ïðîòèâíèê.;;x
+depressed;Depressed;;;;;;;;;;;Â äåïðåññèè;;x
+depressed_death;of depression;;;;;;;;;;;îò òîñêè;;x
+depressed_desc;Life has lost its luster to this [GetGirlWomanBoyMan].;;;;;;;;;;;Æèçíü ïîòåðÿëà ñìûñë äëÿ ýò[__îãî] [__ïåðñîíàæà].;;x
+desert_expert;Desert Expert;;;;;;;;;;;Ýêñïåðò ïî ïóñòûíå;;x
+desert_expert_desc;This [GetGirlWomanBoyMan] is an expert at leading troops in deserts.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ÿâëÿåòñÿ ýêñïåðòîì ïî óïðàâëåíèþ âîéñêîì â ïóñòûíå.;;x
+detached_priest;Detached Priest;;;;;;;;;;;Ðàâíîäóøí[_ûé] ñëóæèòåëü[____];;x
+detached_priest_desc;The Detached Priest received a clerical education but displays no talent beyond basic literacy.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ïîëó÷èë[_] äóõîâíîå îáðàçîâàíèå, íî íå îáëàäàåò êàêîé-ëèáî îäàð¸ííîñòüþ, êðîìå áàçîâîé ãðàìîòíîñòè.;;x
+diarrhea;Diarrhea;;;;;;;;;;;Ñòðàäàåò îò äèàðåè;;x
+diarrhea_death;of dehydration from Diarrhea;;;;;;;;;;;îò îáåçâîæèâàíèÿ, âûçâàííîãî ïîíîñîì;;x
+diarrhea_desc;This [GetGirlWomanBoyMan] has diarrhea - causing dehydration which can often be fatal.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñòðàäàåò îò äèàðåè, ÷òî âûçûâàåò îáåçâîæèâàíèå è ìîæåò áûòü ôàòàëüíûì.;;x
+digambara_jain;Digambara [jain.GetName];;;;;;;;;;;Äèãàìáàðñê[_èé] [_äæàéíèñò][__];;x
+digambara_jain_desc;This [GetGirlWomanBoyMan] follows the Digambara branch of [jain.GetName]ism.;;;;;;;;;;;Èñïîâåäóåò äèãàìáàðñêóþ âåòâü [GetJainismName]à;;x
+diligent;Diligent;;;;;;;;;;;Óñåðäí[_ûé];;x
+diligent_desc;This [GetGirlWomanBoyMan] is dutiful and diligent, the fourth of the seven virtues - 'Industria'.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ïðèëåæ[_åí] è èñïîëíèòåë[__åí]. Áîã íàãðàäèë [_åãî] ÷åòâ¸ðòîé èç ñåìè äîáðîäåòåëåé - óñåðäèåì.;;x
+direct_leader;Direct Leader;;;;;;;;;;;Öåíòðîâ[__îé];;x
+direct_leader_desc;This [GetGirlWomanBoyMan] favors a direct approach and prefers leaving advanced manoeuvres to others.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] â áîþ ïðåäïî÷èòàåò äåéñòâîâàòü íàïðîëîì, îñòàâëÿÿ ðàñ÷¸ò õèòðûõ îáõîäíûõ ìàí¸âðîâ äðóãèì.;;x
+disfigured;Disfigured;;;;;;;;;;;Èçóðîäîâàíí[_ûé];;x
+disfigured_desc;This [GetGirlWomanBoyMan] is disfigured - a face few could love.;;;;;;;;;;;Âíåøíîñòü ýò[__îãî] [__ïåðñîíàæà] ìàëî êîãî íå èñïóãàåò.;;x
+drunkard;Drunkard;;;;;;;;;;;Ïüÿíèöà;;x
+drunkard_desc;This [GetGirlWomanBoyMan] is a drunken sot.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] íå â ñèëàõ ñïðàâèòüñÿ ñî ñâîåé ñòðàñòüþ ê ñïèðòíûì íàïèòêàì.;;x
+duelist;Duelist;;;;;;;;;;;Äóýëÿíò[__];;x
+duelist_desc;This [GetGirlWomanBoyMan] is a masterful fencer and duelist - a dangerous lifestyle to be sure.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] - óïðÿì[_ûé] ñïîðùè[_ê] è ëþáèòåëü[____] ðåøàòü ïðîáëåìû äðàêîé, îí[_] âåä¸ò îïàñíûé îáðàç æèçíè, áóäüòå óâåðåíû.;;x
+dull;Dull;;;;;;;;;;;Òóï[__îé];;x
+dull_desc;This [GetGirlWomanBoyMan] isn't the sharpest knife in the drawer.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ÿâíî íå áëåùåò èíòåëëåêòîì.;;x
+dutiful_cleric;Dutiful Cleric;;;;;;;;;;;Ïîêîðí[_ûé] ñëóæèòåëü[____];;x
+dutiful_cleric_desc;The Dutiful Cleric is learned and possessed of beautiful penmanship, but lacks particular interest in theology.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] îáðàçîâàí[_] è îáëàäàåò êðàñèâûì ïî÷åðêîì, íî íå ïðîÿâëÿåò îñîáîãî èíòåðåñà ê òåîëîãèè.;;x
+dwarf;Dwarf;;;;;;;;;;;Êàðëè[_ê];;x
+dwarf_desc;This unfortunate [GetGirlWomanBoyMan] was born a dwarf.;;;;;;;;;;;Ýò[_îò] íåñ÷àñòí[_ûé] [__ïåðñîíàæ] áûë[_] ðîæäåí[_] êàðëè[_êîì_].;;x
+dynastic_kinslayer;Dynastic Kinslayer;;;;;;;;;;;Ãóáèòåëü[____] äèíàñòèè;;x
+dynastic_kinslayer_desc;This [GetGirlWomanBoyMan] is known to have slain a member of [GetHerHis] dynasty - [GetHerHis] own family now look at [GetHerHim] with fear and contempt.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] èçâåñò[_åí] òåì, ÷òî óáèë[_] ÷ëåíà ñâîåé äèíàñòèè, è òåïåðü [_åãî] ñîáñòâåííàÿ ñåìüÿ ñìîòðèò íà í[_åãî] ñî ñòðàõîì è ïðåçðåíèåì.;;x
+dysentery;Dysentery;;;;;;;;;;;Áîëååò äèçåíòåðèåé;;x
+dysentery_death;attending to 'chamber business';;;;;;;;;;;îò êðîâàâîãî ïîíîñà;;x
+dysentery_desc;This [GetGirlWomanBoyMan] has dysentery - a bad case of bloody diarrhea caused by inflamed bowels.;;;;;;;;;;;Ó ýò[__îãî] [__ïåðñîíàæà] äèçåíòåðèÿ - êðîâàâûé ïîíîñ, âûçâàííûé âîñïàëåíèåì êèøå÷íèêà.;;x
+eagle_knight;Eagle Knight;;;;;;;;;;;Îðëèíûé âîèí;;x
+eagle_knight_desc;The life of Aztec warriors is one of constant battle, and the Eagle Knights are the bravest and most fearsome. Their primary purpose is to capture prisoners to be sacrificed to their Gods.;;;;;;;;;;;Æèçíü âîèíîâ-àöòåêîâ - ýòî ïîñòîÿííàÿ áèòâà, è îðëèíûå âîèíû - ñàìûå õðàáðûå èç íèõ. Èõ ãëàâíàÿ öåëü - çàõâàòèòü ïëåííèêîâ è ïðèíåñòè â æåðòâó áîãàì.;;x
+elusive_shadow;Elusive Shadow;;;;;;;;;;;Íåóëîâèìàÿ òåíü;;x
+elusive_shadow_desc;The Elusive Shadow has mastered the art of Intrigue and should make a perfect Spymaster - as well as an ideal mentor for prospective schemers.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] îñâîèë[_] èñêóññòâî èíòðèãè è ìîæåò ñòàòü èäåàëüíûì òàéíûì ñîâåòíèêîì, à òàêæå ïðåêðàñí[_ûì] íàñòàâíè[_êîì_] äëÿ ïîòåíöèàëüíûõ ìàõèíàòîðîâ.;;x
+envious;Envious;;;;;;;;;;;Çàâèñòëèâ[_ûé];;x
+envious_desc;This [GetGirlWomanBoyMan] is envious, the sixth deadly sin - 'Invidia'.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] çàâèñòëèâ[_]. Çàâèñòü - øåñòîé ñìåðòíûé ãðåõ. ;;x
+erudite;Erudite;;;;;;;;;;;Ýðóäèò;;x
+erudite_desc;This [GetGirlWomanBoyMan] has a scholarly and bookish disposition.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñêëîí[_åí] ê àêàäåìè÷åñêèì è êíèæíûì çíàíèÿì.;;x
+eunuch;Eunuch;;;;;;;;;;;Åâíóõ;;x
+eunuch_desc;This [GetGirlWomanBoyMan] has been castrated and is a eunuch.;;;;;;;;;;;Ýòîò ìóæ÷èíà áûë îñêîïë¸í è ÿâëÿåòñÿ åâíóõîì.;;x
+excommunicated;Excommunicated;;;;;;;;;;;Îòëó÷åí[_] îò Öåðêâè;;x
+excommunicated_desc;This [GetGirlWomanBoyMan] has been excommunicated - excluded from the Church - a terrible stain on honor and respectability.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] áûë[_] îòëó÷åí[_] îò Öåðêâè - ñòðàøíîå ïÿòíî íà [_åãî] ÷åñòè è ðåïóòàöèè.;;x
+falconer;Falconer;;;;;;;;;;;Ñîêîëüíè÷èé;;x
+falconer_desc;This [GetGirlWomanBoyMan] is an avid falconer - a well respected pastime.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] îáîæàåò ñîêîëèíóþ îõîòó - î÷åíü óâàæàåìîå âðåìÿïðåïðîâîæäåíèå.;;x
+familial_kinslayer;Familial Kinslayer;;;;;;;;;;;Ãóáèòåëü[____] ðîäíè;;x
+familial_kinslayer_desc;This [GetGirlWomanBoyMan] is known to have slain a member of [GetHerHis] extended family - [GetSheHe] is surely cursed for [GetHerHis] disgraceful actions.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] èçâåñò[_åí] òåì, ÷òî óáèë[_] ñâîåãî ðîäñòâåííèêà - íåïðîñòèòåëüíîå ïðåñòóïëåíèå â ãëàçàõ [_åãî] ñåìüè.;;x
+faqih;Faqih;;;;;;;;;;;Ôàêèõ;;x
+faqih_desc;This [GetGirlWomanBoyMan] is formally schooled in Islamic jurisprudence.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] îáó÷à[_ëñÿ_] èñëàìñêîìó ïðàâó.;;x
+fat;Fat;;;;;;;;;;;Æèðí[_ûé];;x
+fat_desc;This [GetGirlWomanBoyMan] is extremely overweight.;;;;;;;;;;;Ó ýò[__îãî] [__ïåðñîíàæà] èçáûòî÷íûé âåñ, ÷òî ïëîõî ñêàçûâàåòñÿ íà [_åãî] çäîðîâüå è âíåøíåì âèäå.;;x
+fatigue;Fatigue;;;;;;;;;;;Ñòðàäàåò îò ñëàáîñòè;;x
+fatigue_death;exhausted, unable to do anything;;;;;;;;;;;îò èñòîùåíèÿ;;x
+fatigue_desc;This [GetGirlWomanBoyMan] is fatigued - every little effort just makes [GetHerHim] exhausted.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ïîñòîÿííî óòîìëåí[_] - ëþáîå óñèëèå èçíóðÿåò [_åãî].;;x
+fever;Fever;;;;;;;;;;;Ñòðàäàåò îò ëèõîðàäêè;;x
+fever_death;feverish and sweating;;;;;;;;;;;îò ëèõîðàäêè;;x
+fever_desc;This [GetGirlWomanBoyMan] has a fever - a very serious condition if ignored.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñòðàäàåò îò ëèõîðàäêè. Âåñüìà ñåðü¸çíûé ñèìïòîì, êîòîðûé íåëüçÿ èãíîðèðîâàòü.;;x
+finnish_leader;Shield of the Tundra;;;;;;;;;;;Ùèò Òóíäðû;;x
+finnish_leader_desc;This [GetGirlWomanBoyMan] is used to a harsh environment and blistering winters.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñìåëî ïðèíèìàåò âûçîâû äèêîé ïðèðîäû è ñòîéêî ïåðåíîñèò ñóðîâóþ çèìó.;;x
+flamboyant_schemer;Flamboyant Schemer;;;;;;;;;;;Áåñõèòðîñòíûé êóêëîâîä;;x
+flamboyant_schemer_desc;Flamboyant Schemers thrive on court intrigue and fancy themselves masters of the trade. However, their lack of secrecy tends to endanger even their best efforts.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] óñåðäíî ïëåòåò äâîðöîâûå èíòðèãè è ñ÷èòàåò ñåáÿ ìàñòåðîì ñâîåãî äåëà. Îäíàêî, íåäîñòàòîê ñåêðåòíîñòè ñêîðåå ñòàâèò ïîä óãðîçó [_åãî] ñàì[_îãî].;;x
+flanker;Flanker;;;;;;;;;;;Èçâîðîòëèâûé êîìàíäèð;;x
+flanker_desc;This [GetGirlWomanBoyMan] fights best when positioned on the flank of an army, striking deeply at the chinks in the enemy's armor.;;;;;;;;;;;Ýòî[_ìó] [__ïåðñîíàæó] óäàþòñÿ àòàêè ñ ôëàíãîâ, êîãäà îí[_] íàíîñèò óäàð â íàèáîëåå óÿçâèìûå ìåñòà âðàæåñêîãî âîéñêà.;;x
+flat_terrain_expert;Flat Terrain Expert;;;;;;;;;;;Ýêñïåðò ïî ðàâíèíå;;x
+flat_terrain_expert_desc;This [GetGirlWomanBoyMan] is an expert at leading troops on flat terrain.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ÿâëÿåòñÿ ýêñïåðòîì ïî óïðàâëåíèþ âîéñêîì íà ðàâíèííîé ìåñòíîñòè.;;x
+flu;Flu;;;;;;;;;;;Áîëååò ãðèïïîì;;x
+flu_death;from a bad case of the Flu;;;;;;;;;;;îò ãðèïïà;;x
+flu_desc;This [GetGirlWomanBoyMan] has the flu - fever, headaches and chills.;;;;;;;;;;;Ó ýò[__îãî] [__ïåðñîíàæà] ãðèïï - ëèõîðàäêà, ãîëîâíûå áîëè è âñ¸ òàêîå.;;x
+food_poisoning;Food Poisoning;;;;;;;;;;;Ñòðàäàåò îò ïèùåâîãî îòðàâëåíèÿ;;x
+food_poisoning_death;after a disagreement with a meal;;;;;;;;;;;îò ïèùåâîãî îòðàâëåíèÿ;;x
+food_poisoning_desc;This [GetGirlWomanBoyMan] suffers from food poisoning - intense vomiting and diarrhea, a very bad condition but usually not very long lasting.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñòðàäàåò îò ïèùåâîãî îòðàâëåíèÿ - ñèëüíàÿ ðâîòà, ïîíîñ. Äîâîëüíî îïàñíîå, íî íåäîëãîå ñîñòîÿíèå.;;x
+fortune_builder;Fortune Builder;;;;;;;;;;;Òâîðåö ñâîåé ñóäüáû;;x
+fortune_builder_desc;The Fortune Builder came out of adolescence armed with a well honed business sense, determined to live a life of luxury.;;;;;;;;;;;Òâîðåö ñâîåé ñóäüáû âîø¸ë âî âçðîñëóþ æèçíü ñ îòëè÷íûì äåëîâûì ÷óòüåì, ðåøèâ íàñëàæäàòüñÿ ðîñêîøüþ.;;x
+frail;Frail;;;;;;;;;;;Õèë[_ûé];;x
+frail_death;of poor physique;;;;;;;;;;;îò ñëàáîñòè;;x
+frail_desc;This [GetGirlWomanBoyMan] is physically frail.;;;;;;;;;;;Ó ýò[__îãî] [__ïåðñîíàæà] ðûõëîå ñëàáîå òåëî.;;x
+freckles;Freckles;;;;;;;;;;;Ñ âåñíóøêàìè;;x
+freckles_2;Freckles;;;;;;;;;;;Ñ âåñíóøêàìè;;x
+freckles_2_desc;This [GetGirlWomanBoyMan] has freckles.;;;;;;;;;;;Ó ýò[__îãî] [__ïåðñîíàæà] âåñíóøêè.;;x
+freckles_3;Freckles;;;;;;;;;;;Ñ âåñíóøêàìè;;x
+freckles_3_desc;This [GetGirlWomanBoyMan] has freckles.;;;;;;;;;;;Ó ýò[__îãî] [__ïåðñîíàæà] âåñíóøêè.;;x
+freckles_4;Freckles;;;;;;;;;;;Ñ âåñíóøêàìè;;x
+freckles_4_desc;This [GetGirlWomanBoyMan] has freckles.;;;;;;;;;;;Ó ýò[__îãî] [__ïåðñîíàæà] âåñíóøêè.;;x
+freckles_5;Freckles;;;;;;;;;;;Ñ âåñíóøêàìè;;x
+freckles_5_desc;This [GetGirlWomanBoyMan] has freckles.;;;;;;;;;;;Ó ýò[__îãî] [__ïåðñîíàæà] âåñíóøêè.;;x
+freckles_desc;This [GetGirlWomanBoyMan] has freckles.;;;;;;;;;;;Ó ýò[__îãî] [__ïåðñîíàæà] âåñíóøêè.;;x
+fussy;Fussy;;;;;;;;;;;Ïðèâåðåäëèâ[_ûé];;x
+fussy_desc;This [GetBoyGirl] is very particular about details which seem trivial to others, sometimes to the point of causing anxiety and frustration. Can develop into: §YPatient§!, §YGreedy§! or §YParanoid§!.;;;;;;;;;;;Ýò[_îò] [__ðåá¸íîê] íåîáû÷àéíî ïðèäèð÷èâ[_] ê äåòàëÿì, êîòîðûå âûãëÿäÿò ñîâåðøåííî íåçíà÷èòåëüíûìè äëÿ äðóãèõ. Ìîæåò âûðàñòè: §Yòåðïåëèâ[_ûì]§!, §Yæàäí[_ûì]§! èëè §Yïàðàíîèêîì§!.;;x
+game_master;Game Master;;;;;;;;;;;Ìàñòåð èãðû;;x
+game_master_desc;This [GetGirlWomanBoyMan] is renowned as an avid and masterful game player - anything from chess to tabula, to exotic pachisi.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] èçâåñò[_åí] êàê çàÿäëûé è èñêóñíûé èãðîê âî âñ¸ì, íà÷èíàÿ ñ øàõìàò è çàêàí÷èâàÿ ýêçîòè÷åñêèìè ïà÷èñè.;;x
+gardener;Gardener;;;;;;;;;;;Ñàäîâîä;;x
+gardener_desc;This [GetGirlWomanBoyMan] likes nothing better than to putter away in the garden, growing herbs and exotic fruit trees.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] íå ìîæåò æèòü áåç ñâîåãî ñàäà, â êîòîðîì îí[_] âûðàùèâàåò òðàâû è ýêçîòè÷åñêèå ôðóêòû.;;x
+genius;Genius;;;;;;;;;;;Ãåíèàëüí[_ûé];;x
+genius_desc;This [GetGirlWomanBoyMan] is blessed with a towering intellect.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] îäàðåí[_] áëåñòÿùèì óìîì.;;x
+giant;Giant;;;;;;;;;;;Âåëèêàí[__];;x
+giant_death;unable to carry [GetHerHis] own massive frame;;;;;;;;;;;íå âûäåðæàâ ãðóç ñâîåãî òåëà;;x
+giant_desc;This [GetGirlWomanBoyMan] was born a giant. While imposing, this [GetGirlWomanBoyMan] suffers from significant health problems and is likely to die young.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] èìååò ñëèøêîì áîëüøîå òåëî, ÷òî âûçûâàåò ïðîáëåìû ñî çäîðîâüåì è ÷àñòî ïðèâîäèò ê ñìåðòè â þíîì âîçðàñòå.;;x
+gladiator;Gladiator;;;;;;;;;;;Ãëàäèàòîð;;x
+gladiator_desc;This [GetGirlWomanBoyMan] trained as a Gladiator in the arena.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] - ãëàäèàòîð, òðåíèðîâàííûé, ÷òîáû ñðàæàòüñÿ íà àðåíå.;;x
+gluttonous;Gluttonous;;;;;;;;;;;Îáæîðà;;x
+gluttonous_desc;Gluttony, or 'Gula', is the second deadly sin and lacks positive effects. The Church despises gluttons, and so do members of the opposite sex.;;;;;;;;;;;×ðåâîóãîäèå - âòîðîé ñìåðòíûé ãðåõ, ó êîòîðîãî íåò ïîëîæèòåëüíûõ êà÷åñòâ. Öåðêîâü ïðåçèðàåò ÷ðåâîóãîäíèêîâ, ðàâíî êàê è ïðîòèâîïîëîæíûé ïîë.;;x
+gondi_shahansha;Gond-i Shahanshah;;;;;;;;;;;Ãîíä-è Øàõàíøàõ;;x
+gondi_shahansha_desc;Taking their name from the elite 'Army of the Shahanshah', members of the Gond-i Shahanshah are the foremost fighters of the Zoroastrian faith.;;;;;;;;;;;"Ïîçàèìñòâîâàâ èìÿ ó ýëèòíîé ""àðìèè øàõàíøàõà"", ÷ëåíû Ãîíä-è Øàõàíøàõ ÿâëÿþòñÿ ïåðåäîâûìè áîéöàìè çîðîàñòðèéñêîé âåðû.";;x
+gout;Gout;;;;;;;;;;;Ñòðàäàåò îò ïîäàãðû;;x
+gout_death;of complications related to Gout;;;;;;;;;;;îò ïîäàãðû;;x
+gout_desc;This [GetGirlWomanBoyMan] has gout - swelling and joint pain accompanied by fever and fatigue.;;;;;;;;;;;Ó ýò[__îãî] [__ïåðñîíàæà] ïîäàãðà - îò¸êè è áîëè â ñóñòàâàõ, èíîãäà ñîïðîâîæäàþùèåñÿ ëèõîðàäêîé è ñëàáîñòüþ.;;x
+great_pox;Has Great Pox;;;;;;;;;;;Áîëååò ñèôèëèñîì;;x
+great_pox_death;of Great Pox;;;;;;;;;;;îò ñèôèëèñà;;x
+great_pox_desc;This [GetGirlWomanBoyMan] suffers from 'Great Pox,' the venereal plague, later known as Syphilis.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñòðàäàåò îò âåíåðè÷åñêîé ÷óìû, ïîçæå èçâåñòíîé êàê ñèôèëèñ.;;x
+greedy;Greedy;;;;;;;;;;;Æàäí[_ûé];;x
+greedy_desc;The [GetGirlWomanBoyMan] is infamously greedy. 'Avaritia', the third deadly sin, while not respected, does help squeeze out some extra tax income.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] èçâåñò[_åí] ñâîåé æàäíîñòüþ. Àë÷íîñòü - òðåòèé ñìåðòíûé ãðåõ, êîòîðûé, õîòÿ è íå ïîîùðÿåòñÿ, íî ïîçâîëÿåò âûæàòü äîïîëíèòåëüíûå íàëîãîâûå äîõîäû.;;x
+gregarious;Gregarious;;;;;;;;;;;Îáùèòåëüí[_ûé];;x
+gregarious_desc;This [GetGirlWomanBoyMan] is gregarious and socially competent.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] î÷åíü îáùèòåë[__åí] è èçâåñò[_åí] â îáùåñòâå.;;x
+grey_eminence;Grey Eminence;;;;;;;;;;;Ñåðûé Êàðäèíàë;;x
+grey_eminence_desc;The Grey Eminence is the epitome of statesmanship having fully mastered the art of diplomacy.;;;;;;;;;;;Ñåðûé Êàðäèíàë ïîëíîñòüþ îâëàäåë èñêóññòâîì äèïëîìàòèè è ÿâëÿåòñÿ âîïëîùåíèåì èñêóñíîãî óïðàâëåíèÿ ãîñóäàðñòâîì.;;x
+groomed;Groomed;;;;;;;;;;;Îïðÿòí[_ûé];;x
+groomed_desc;This [GetGirlWomanBoyMan] takes care to always look at [GetHerHis] best.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñëåäèò çà ñâîèì âíåøíèì âèäîì, è ñòàðàåòñÿ âûãëÿäåòü íàèëó÷øèì îáðàçîì.;;x
+hafiz;Hafiz;;;;;;;;;;;Õàôèç;;x
+hafiz_desc;This [GetGirlWomanBoyMan] has completely memorized the Qur'an.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] âûó÷èë[_] Êîðàí íàèçóñòü.;;x
+hajjaj;Hajajj;;;;;;;;;;;Õàäæè;;x
+hajjaj_desc;This [GetGirlWomanBoyMan] has made the Hajj - the pilgrimage to Mecca.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñîâåðøèë[_] õàäæ - ïàëîìíè÷åñòâî â Ìåêêó.;;x
+hard_pregnancy;Difficult Pregnancy;;;;;;;;;;;Ïåðåæèâàåò òðóäíîñòè ïðè áåðåìåííîñòè;;x
+hard_pregnancy_death;died during labor.;;;;;;;;;;;[This.GetSheHe] óìåð[This.GetNoneE] ïðè ðîäàõ.;;x
+hard_pregnancy_desc;This woman is going through a particularly hard pregnancy. Actions that would normally be simple are now beyond her abilities.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ïðîõîäèò ÷åðåç ñëîæíûé ýòàï áåðåìåííîñòè. Äåéñòâèÿ, êîòîðûå îáû÷íî íå ñîñòàâëÿþò òðóäà, â äàííûé ìîìåíò âûøå [_åãî] ñèë.;;x
+harelip;Harelip;;;;;;;;;;;Ñ çàÿ÷üåé ãóáîé;;x
+harelip_desc;This [GetGirlWomanBoyMan] was born with a harelip - a less than charming trait.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] áûë[_] ðîæäåí[_] ñ çàÿ÷üåé ãóáîé. Ìàëîïðèâëåêàòåëüíàÿ ÷åðòà.;;x
+haughty;Haughty;;;;;;;;;;;Íàäìåíí[_ûé];;x
+haughty_desc;This [GetBoyGirl] is proud and vain, convinced of [GetHerHis] own superiority. Can develop into: §YProud§!, §YArbitrary§! or §YCruel§!.;;;;;;;;;;;Ýò[_îò] íàäìåíí[_ûé] [__ðåá¸íîê] óáåæäåí[_] â ñîáñòâåííîì ïðåâîñõîäñòâå. Ìîæåò âûðàñòè: §Yâûñîêîìåðí[_ûì]§!, §Yñàìîäóðîì§! èëè §Yæåñòîê[_èì]§!.;;x
+headache;Headache;;;;;;;;;;;Ñòðàäàåò îò ìèãðåíè;;x
+headache_death;bleeding from the eyes and ears;;;;;;;;;;;îò êðîâîòå÷åíèÿ èç ãëàç è óøåé;;x
+headache_desc;This [GetGirlWomanBoyMan] has a persistent headache - a sharp pain in the head, probably nothing...;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñòðàäàåò îò ïîñòîÿííîé ãîëîâíîé áîëè, ñèìïòîìà, êîòîðûé ìîæåò îçíà÷àòü ÷òî óãîäíî...;;x
+heavy_infantry_leader;Heavy Infantry Leader;;;;;;;;;;;Êîìàíäèð òÿæ¸ëîé ïåõîòû;;x
+heavy_infantry_leader_desc;This [GetGirlWomanBoyMan] is skilled at leading heavily armored infantry into battle.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] èìååò íàâûêè â êîìàíäîâàíèè òÿæ¸ëîé ïåõîòîé.;;x
+hedonist;Hedonist;;;;;;;;;;;Ãåäîíèñò[__];;x
+hedonist_desc;This [GetGirlWomanBoyMan] has chosen to lead a life of debauchery and sin. The Church is unlikely to approve...;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ðåøèë[_] ïðîâåñòè æèçíü â ãðåõå è ðàñïóòñòâå. Öåðêîâü òàêîå âðÿä ëè îäîáðèò.;;x
+hellenic_leader;Aeneator;;;;;;;;;;;Ýíåàòîð;;x
+hellenic_leader_desc;This [GetGirlWomanBoyMan] is a source of morale for [GetHerHis] troops, bringing them singing into battle.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ïîäíèìàåò áîåâîé äóõ ñâîèõ âîéñê ïðè ïîìîùè ìóçûêè.;;x
+heresiarch;Heresiarch;;;;;;;;;;;Åðåñèàðõ;;x
+heresiarch_desc;This [GetGirlWomanBoyMan] is the leader of a fanatic and militant heretic sect.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] - ëèäåð ôàíàòè÷íîé è âîèíñòâóþùåé ñåêòû åðåòèêîâ.;;x
+holy_warrior;Holy Warrior;;;;;;;;;;;Ñâÿòîé Âîèí;;x
+holy_warrior_desc;This [GetGirlWomanBoyMan] fights best against heathens and infidels, but hesitates in battle against those of the same faith.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] õîðîøî ñðàæàåòñÿ ñ íåâåðíûìè è åðåòèêàìè, íî êîëåáëåòñÿ â áèòâå ñ åäèíîâåðöàìè.;;x
+homosexual;Homosexual;;;;;;;;;;;Ãîìîñåêñóàë[__];;x
+homosexual_desc;This [GetGirlWomanBoyMan] is a bit queer...;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] íåðàâíîäóø[_åí] ê ëþäÿì ñâîåãî ïîëà.;;x
+honest;Honest;;;;;;;;;;;×åñòí[_ûé];;x
+honest_desc;Lies do not come easily to this [GetGirlWomanBoyMan], who values truth above all else. It is not a good trait for spymasters and plotters, but is respected among diplomats.;;;;;;;;;;;Ëîæü íåëåãêî äà¸òñÿ òåì ëþäÿì, êîòîðûå öåíÿò èñòèíó ïðåâûøå âñåãî. Ýòî ïëîõàÿ ÷åðòà äëÿ øïèîíîâ è çàãîâîðùèêîâ, íî óâàæàåìàÿ â ñðåäå äèïëîìàòîâ.;;x
+horse_death;horsing around;;;;;;;;;;;, îòêèíóâ êîïûòà;;x
+horse_desc;This is a horse...;;;;;;;;;;;Ýòî ñóùåñòâî - ñàì[GetAyaYy] íàñòîÿù[GetAyaIy] [GetMareSteed].;;x
+hound_of_dievas;Hound of Dievas;;;;;;;;;;;Ëîâ÷[_èé] Äèåâàñà;;x
+hound_of_dievas_desc;This [GetGirlWomanBoyMan] has fought to defend the Holy Forest.;;;;;;;;;;;Ýòîò âîèí ñðàæàåòñÿ çà ñâÿùåííûé ëåñ.;;x
+humble;Humble;;;;;;;;;;;Ñêðîìí[_ûé];;x
+humble_desc;Humility, or 'Humilitas', is the seventh virtue and the opposite of Pride. Humble characters gain [Player.Religion.GetPietyName] where the proud gain Prestige. Humble characters tend to dislike prideful ones.;;;;;;;;;;;Ñìèðåíèå - ñåäüìàÿ äîáðîäåòåëü, ïðîòèâîïîëîæíàÿ ãîðäûíå è âûñîêîìåðèþ. Ñêðîìíûå ëþäè áëàãî÷åñòèâû òàì, ãäå ãîðäåöû èçâëåêàþò ëè÷íóþ âûãîäó. Ñêðîìíûì ëþäÿì, êàê ïðàâèëî, ãîðäåöû íå íðàâÿòñÿ.;;x
+hunchback;Hunchback;;;;;;;;;;;Ãîðáàò[_ûé];;x
+hunchback_desc;This [GetGirlWomanBoyMan] is cursed with a humpback, which is despised by vassals and ugly in the eyes of the opposite sex.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ãîðáàò[_]. Ïðîòèâîïîëîæíûé ïîë íàõîäèò [_åãî] îòâðàòèòåëüí[_ûì], à âàññàëû - ïðåçèðàþò.;;x
+hunter;Hunter;;;;;;;;;;;Îõîòíè[_ê];;x
+hunter_desc;This [GetGirlWomanBoyMan] only feels truly alive when killing God's little creatures.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ÷óâñòâóåò ñåáÿ ïî-íàñòîÿùåìó æèâ[_ûì] òîëüêî òîãäà, êîãäà âîçâðàùàåòñÿ äîìîé ñ òóøåé äèêîãî çâåðÿ.;;x
+idolizer;Idolizer;;;;;;;;;;;Âïå÷àòëèòåëüí[_ûé];;x
+idolizer_desc;This [GetBoyGirl] is easily impressed and also has a fervent desire to seek for ultimate truths. Can develop into: §YZealous§!, §YErudite§! or §YFrail§!.;;;;;;;;;;;Ýò[_îãî] [___ðåá¸íêà] î÷åíü ëåãêî óäèâèòü, [_åãî] çàíèìàþò âñåëåíñêèå èñòèíû è ñóäüáû ìèðà. Ìîæåò âûðàñòè: §Yíàáîæí[_ûì]§!, §Yýðóäèòîì§! èëè §Yõèë[_ûì]§!.;;x
+ill;Ill;;;;;;;;;;;Áîëüí[__îé];;x
+ill_death;after a period of illness;;;;;;;;;;;îò çàáîëåâàíèÿ;;x
+ill_desc;Illness plagues this [GetGirlWomanBoyMan]. It could be serious... or just a nasty cold.;;;;;;;;;;;Áîëåçíü ìó÷àåò ýò[_îãî] [___ïåðñîíàæà]. Ýòî ìîæåò áûòü ñåðü¸çíî èëè ïðîñòî íåïðèÿòíàÿ ïðîñòóäà.;;x
+imbecile;Imbecile;;;;;;;;;;;Ñëàáîóìí[_ûé];;x
+imbecile_desc;This [GetGirlWomanBoyMan] is a drooling imbecile.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] - ñëþíÿâ[_ûé] èäèîò[__].;;x
+immortal;Immortal;;;;;;;;;;;Áåññìåðòí[_ûé];;x
+immortal_desc;This [GetGirlWomanBoyMan] has achieved eternal life and will never succumb to the ravages of old age. The [GetGirlWomanBoyMan] is not invincible though, physical injury will still hurt [GetHerHim].;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ïîñòèã[__] òàéíó âå÷íîé æèçíè è íèêîãäà íå ïîäâåðãíåòñÿ âëèÿíèþ ñòàðîñòè. Òåì íå ìåíåå, ôèçè÷åñêèå òðàâìû ïî-ïðåæíåìó óãðîæàþò å[_ìó].;;x
+impaler;Impaler;;;;;;;;;;;Êîëîñàæàòåëü[____];;x
+impaler_desc;This depraved [GetGirlWomanBoyMan] likes to spend the nights in the dungeon, inventing new ways of torturing unfortunate victims.;;;;;;;;;;;Ýò[_îò] ðàçâðàùåíí[_ûé] [__ïåðñîíàæ] ëþáèò ïðîâîäèòü íî÷è â ïîäçåìåëüÿõ, èçîáðåòàÿ íîâûå ñïîñîáû ïûòîê äëÿ ñâîèõ íåñ÷àñòíûõ æåðòâ.;;x
+in_hiding;In Hiding;;;;;;;;;;;Ñêðûâàåòñÿ;;x
+in_hiding_desc;This [GetGirlWomanBoyMan] has gone into hiding to avoid plots against [GetHerHis] life. It makes [GetHerHim] harder to assassinate, but life in hiding has its costs...;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñêðûâàåòñÿ îò óáèéö, ïðåñëåäîâàòåëåé è ïðî÷èõ ïîòåíöèàëüíûõ óãðîç, íî òàêîé îáðàç æèçíè èìååò ñâîþ öåíó...;;x
+inbred;Inbred;;;;;;;;;;;Âûðîäîê;;x
+inbred_death;an inbred freak;;;;;;;;;;;â ñâÿçè ñ âðîæä¸ííûì óðîäñòâîì;;x
+inbred_desc;This poor [GetGirlWomanBoyMan] suffers from the effects of inbreeding, leading to disfigurement, mental retardation and probable sterility.;;;;;;;;;;;Ýò[_îò] áåäí[_ûé] [__ïåðñîíàæ] ñòðàäàåò îò ïîñëåäñòâèé êðîâîñìåøåíèÿ, ÷òî ìîæåò ïðèâåñòè ê óâå÷üÿì, óìñòâåííîé îòñòàëîñòè, à èíîãäà è áåñïëîäèþ.;;x
+incapable;Incapable;;;;;;;;;;;Íåäååñïîñîáí[_ûé];;x
+incapable_death;comatose in bed;;;;;;;;;;;íå âûõîäÿ èç êîìû;;x
+incapable_desc;Due to advanced age, head injury or other mental disabilities, this [GetGirlWomanBoyMan] is not fit for any kind of work. Incapable rulers must employ a regent.;;;;;;;;;;;Â ñâÿçè ñ ïðåêëîííûì âîçðàñòîì, ÷åðåïíî-ìîçãîâîé òðàâìîé èëè èíûìè ïñèõè÷åñêèìè ðàññòðîéñòâàìè, ýò[_îò] [__ïåðñîíàæ] íå ïîäõîäèò äëÿ ëþáîãî âèäà äåÿòåëüíîñòè. Íåäååñïîñîáíûå ïðàâèòåëè äîëæíû èìåòü ðåãåíòà.;;x
+indian_pilgrim;Pilgrim;;;;;;;;;;;Ïàëîìíè[_ê];;x
+indian_pilgrim_desc;The [GetGirlWomanBoyMan] has completed a great pilgrimage.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñîâåðøèë[_] âåëèêîå ïàëîìíè÷åñòâî.;;x
+indolent;Indolent;;;;;;;;;;;Ïðàçäí[_ûé];;x
+indolent_desc;This [GetBoyGirl] is very averse to any kind of exertion, be it mental or physical. Can develop into: §YCharitable§!, §YSlothful§! or §YGluttonous§!.;;;;;;;;;;;Ýò[_îò] [__ðåá¸íîê] íå ëþáèò íàïðÿãàòüñÿ è èçáåãàåò ëþáûõ íàãðóçîê. Ìîæåò âûðàñòè: §Yùåäð[_ûì]§!, §Yëåíèâ[_ûì]§! èëè §Yîáæîðîé§!.;;x
+indulgent_wastrel;Indulgent Wastrel;;;;;;;;;;;Òðàíæèðà;;x
+indulgent_wastrel_desc;The Indulgent Wastrel was groomed to become good with money, and if good means spending it quickly, the Indulgent Wastrel certainly is.;;;;;;;;;;;"Òðàíæèðà ëþáèò âñ¸ õîðîøåå, à åñëè ýòî ""õîðîøåå"" äîðîãî ñòîèò - ÷òî æ, òàê òîìó è áûòü.";;x
+infection;Infection;;;;;;;;;;;Ñòðàäàåò îò èíôåêöèè;;x
+infection_death;of an infected wound;;;;;;;;;;;îò çàðàæåíèÿ ðàíû;;x
+infection_desc;This [GetGirlWomanBoyMan] has an infection - it looks and smells bad, but it feels even worse.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ÷åì-òî çàðàæåí[_], âûãëÿäèò è ïàõíåò ïëîõî, à ÷óâñòâóåò ñåáÿ åù¸ õóæå.;;x
+infirm;Infirm;;;;;;;;;;;Íåìîùí[_ûé];;x
+infirm_death;bedridden and infirm;;;;;;;;;;;â íåìîùè;;x
+infirm_desc;This [GetGirlWomanBoyMan] is infirm and suffers from a sickly disposition.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] íåìîù[_åí] è ñòðàäàåò îò ïðåäðàñïîëîæåííîñòè ê áîëåçíÿì.;;x
+inspiring_leader;Inspiring Leader;;;;;;;;;;;Âäîõíîâëÿþù[_èé] íà ïîáåäó;;x
+inspiring_leader_desc;This [GetGirlWomanBoyMan] has a way of reaching directly into the hearts and minds of the soldiers on the battlefield, and not just with a sword.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] çíàåò, êàê ïðîíèêíóòü ïðÿìî â ñåðäöà è óìû âîèíîâ íà ïîëå áîÿ, è íå òîëüêî ìå÷îì.;;x
+intricate_webweaver;Intricate Webweaver;;;;;;;;;;;Èñêóñí[_ûé] ìàõèíàòîð[__];;x
+intricate_webweaver_desc;The Intricate Webweaver is a master manipulator, well suited to a life of intrigue.;;;;;;;;;;;Èñêóñíûå ìàõèíàòîðû ÿâëÿþòñÿ ìàñòåðàìè ìàíèïóëÿöèé, èäåàëüíî ïîäõîäÿò äëÿ æèçíè, ïîëíîé èíòðèã.;;x
+jungle_expert;Jungle Expert;;;;;;;;;;;Ýêñïåðò ïî äæóíãÿì;;x
+jungle_expert_desc;This [GetGirlWomanBoyMan] is an expert at leading troops in the jungle.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] - ýêñïåðò â óïðàâëåíèè âîéñêàìè â äæóíãëÿõ.;;x
+just;Just;;;;;;;;;;;Ñïðàâåäëèâ[_ûé];;x
+just_desc;The [GetGirlWomanBoyMan] has a well developed sense of justice - a trait much respected by vassals and courtiers.;;;;;;;;;;;Ó ýò[__îãî] [__ïåðñîíàæà] ñèëüíî ðàçâèòî ÷óâñòâî ñïðàâåäëèâîñòè - î÷åíü óâàæàåìàÿ ÷åðòà ñðåäè âàññàëîâ è ïðèäâîðíûõ.;;x
+kailash_guardian;Kailash Guardian;;;;;;;;;;;Õðàíèòåëü[____] Êàéëàñà;;x
+kailash_guardian_desc;A Guardian of Kailash is steadfast in [GetHerHis] defense of the holy mountain of Kailash. [GetSheHeCap] fights for the Bön faith.;;;;;;;;;;;Õðàíèòåëü Êàéëàñà ñòîèò íà çàùèòå ñâÿùåííîé ãîðû Êàéëàñ è ñðàæàåòñÿ çà âåðó áîí.;;x
+kanai;Kanai;;;;;;;;;;;Êàíàé;;x
+kanai_desc;Kanai is a term for a zealot or fanatic. They fight for the Jewish faith.;;;;;;;;;;;Êàíàé - ýòî çåëîò èëè ôàíàòèê, êîòîðûé ñðàæàåòñÿ çà èóäåéñêóþ âåðó.;;x
+kind;Kind;;;;;;;;;;;Äîáð[_ûé];;x
+kind_desc;This [GetGirlWomanBoyMan] is kind and full of empathy. The sixth virtue, 'Humanitas', is popular with vassals, but makes for a rather poor Spymaster.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ïîë[_îí] äîáðà è ñî÷óâñòâèÿ ê îêðóæàþùèì. Ýòî íðàâèòñÿ âàññàëàì, íî íåäîïóñòèìî äëÿ òàéíûõ ñîâåòíèêîâ.;;x
+kinslayer;Kinslayer;;;;;;;;;;;Óáèéöà ðîäè÷åé;;x
+kinslayer_desc;This [GetGirlWomanBoyMan] is known to have slain a close relative - an unforgivable crime in the eyes of gods and men alike.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] óáèë[_] áëèçêîãî ðîäñòâåííèêà - íåïðîñòèòåëüíîå ïðåñòóïëåíèå â ãëàçàõ [_åãî] ñåìüè è âñåãî ÷åëîâå÷åñòâà.;;x
+kow_tow_completed_tier_1;Kowtow;;;;;;;;;;;Ñîâåðøèë[_] êîóòîó;;x
+kow_tow_completed_tier_1_desc;This [GetGirlWomanBoyMan] has completed a journey to China to show [GetHerHis] subordination to the [offmap_china.Ruler.GetEmperorEmpress] - the [offmap_china.Ruler.GetEmperorEmpress] was not impressed...;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñîâåðøèë[_] ïóòåøåñòâèå â Êèòàé, îäíàêî [offmap_china.Ruler.GetEmpressEmperorCapGEN] íå âïå÷àòëèë [_åãî] âèçèò...;;x
+kow_tow_completed_tier_2;Kowtow;;;;;;;;;;;Ñîâåðøèë[_] êîóòîó;;x
+kow_tow_completed_tier_2_desc;This [GetGirlWomanBoyMan] has completed a journey to China to show [GetHerHis] subordination to the [offmap_china.Ruler.GetEmperorEmpress] - the [offmap_china.Ruler.GetEmperorEmpress] was very pleased.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñîâåðøèë[_] ïóòåøåñòâèå â Êèòàé è ïðåäñòàë[_] ïåðåä [offmap_china.Ruler.GetEmpressEmperorCapINS], êîòîð[offmap_china.Ruler.GetAyaYy] îñòà[offmap_china.Ruler.GetLasLsya] äîâîë[offmap_china.Ruler.GetSoftNaEn] [_åãî] âèçèòîì.;;x
+kow_tow_completed_tier_3;Kowtow;;;;;;;;;;;Ñîâåðøèë[_] êîóòîó;;x
+kow_tow_completed_tier_3_desc;This [GetGirlWomanBoyMan] has completed a journey to China to show [GetHerHis] subordination to the [offmap_china.Ruler.GetEmperorEmpress] - the [offmap_china.Ruler.GetEmperorEmpress] was greatly impressed!;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñîâåðøèë[_] ïóòåøåñòâèå â Êèòàé è ïðåäñòàë[_] ïåðåä [offmap_china.Ruler.GetEmpressEmperorCapINS], êîòîð[offmap_china.Ruler.GetUyuOgo] î÷åíü âïå÷àòëèë [_åãî] âèçèò!;;x
+kow_tow_travels;On Kowtow;;;;;;;;;;;Ñîâåðøàåò êîóòîó;;x
+kow_tow_travels_death;during a journey to the Chinese Empire;;;;;;;;;;;âî âðåìÿ ïóòåøåñòâèÿ â Êèòàé;;x
+kow_tow_travels_desc;This [GetGirlWomanBoyMan] is currently traveling to China.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] îòïðàâè[_ëñÿ_] â Êèòàé, ÷òîáû ïðåäñòàòü ïåðåä [offmap_china.Ruler.GetEmpressEmperorCapINS].;;x
+kshatriya;Kshatriya;;;;;;;;;;;Êøàòðèÿ;;x
+kshatriya_desc;[GetKshatriyaDesc];;;;;;;;;;;[GetKshatriyaDesc];;x
+lefthanded;Left-Handed;;;;;;;;;;;Ëåâøà;;x
+lefthanded_desc;This [GetGirlWomanBoyMan] is left-handed. While seen with suspicion by the clergy, left-handed people tend to have a considerable advantage in combat.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ïðåäïî÷èòàåò ïîëüçîâàòüñÿ ëåâîé ðóêîé. Õîòÿ äóõîâåíñòâî è íå îäîáðÿåò ýòó ÷åðòó, îíà ÿâëÿåòñÿ õîðîøèì ïîäñïîðüåì â ïîåäèíêàõ è íà ïîëå áîÿ.;;x
+legit_bastard;Legitimized Bastard;;;;;;;;;;;Óçàêîíåííûé áàñòàðä;;x
+legit_bastard_desc;This [GetGirlWomanBoyMan] was born a bastard but has been legitimized. Legitimized bastards can inherit, though the stain of bastardy can never be entirely cleansed.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] áûë[_] ðîæäåí[_] âíå áðàêà, íî óçàêîíåí[_]. Óçàêîíåííûå áàñòàðäû ìîãóò íàñëåäîâàòü, õîòÿ ïÿòíî îò ðîæäåíèÿ âíå áðàêà íèêîãäà íå ñìîæåò áûòü ïîëíîñòüþ ñìûòî.;;x
+leper;Leper;;;;;;;;;;;Ïðîêàæåíí[_ûé];;x
+leper_death;of terminal stage Leprosy;;;;;;;;;;;îò ïðîêàçû;;x
+leper_desc;Afflicted with the horror that is leprosy, this [GetGirlWomanBoyMan] is experiencing Purgatory on Earth. Hideous and sterile, procreation is most unlikely.;;;;;;;;;;;Còðàäàÿ îò ïðîêàçû, ýò[_îò] [__ïåðñîíàæ] ïðåáûâàåò â ×èñòèëèùå íà Çåìëå. Îòâðàòèòåëüí[_ûé] è áåñïëîäí[_ûé], îò í[_åãî] âðÿä ëè ñòîèò æäàòü ïîòîìêîâ.;;x
+levy_coordinator;Way of the Tiger;;;;;;;;;;;Èä¸ò ïóò¸ì Òèãðà;;x
+levy_coordinator_desc;This [GetGirlWomanBoyMan] is well-versed in the Way of the Tiger, focusing on speed, maneuvrability, misdirection, and when and how best to commit troops of various types in a decisive engagement to defeat the enemy.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñîñðåäîòî÷åí[_] íà ñêîðîñòè, ìàí¸âðåíîíñòè, ñèëüíûõ è ñëàáûõ ñòîðîíàõ òîãî èëè èíîãî âèäà âîéñê â ðåøåíèè çàäà÷ íà ïîëå áîÿ.;;x
+light_foot_leader;Light Foot Leader;;;;;;;;;;;Êîìàíäèð ïåõîòû;;x
+light_foot_leader_desc;This [GetGirlWomanBoyMan] has proven to be a capable commander when leading light infantry into battle.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] îêàçà[_ëñÿ_] ñïîñîáíûì êîìàíäèðîì ïåõîòû.;;x
+lisp;Lisp;;;;;;;;;;;Øåïåëÿâ[_ûé];;x
+lisp_desc;The lisp of this [GetGirlWomanBoyMan] sometimes causes [GetHerHim] to mispronounce words.;;;;;;;;;;;Øåïåëÿâîñòü ýò[__îãî] [__ïåðñîíàæà] ïîíèæàåò [_åãî] àâòîðèòåò è âåñåëèò îêðóæàþùèõ.;;x
+logistics_expert;Way of the Dog;;;;;;;;;;;Èä¸ò ïóò¸ì Ñîáàêè;;x
+logistics_expert_desc;This [GetGirlWomanBoyMan] is well-versed in the Way of the Dog, focusing on the training, supply, and management of forces made up of various types, and how to use them in a determined, concentrated attack when the enemy is weakest.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñîñðåäîòî÷åí[_] íà òðåíèðîâêàõ, ñíàáæåíèè è óïðàâëåíèè âîåííûìè ñèëàìè, ñîñòàâëåííûìè èç ðàçíûõ âèäîâ âîéñê, ÷òîáû èñïîëüçîâàòü èõ ñëàæåííî è ñêîíöåíòðèðîâàòü äëÿ àòàêè â ñàìûé ïîäõîäÿùèé ìîìåíò.;;x
+lovers_pox;Lover's Pox;;;;;;;;;;;Ñòðàäàåò îò âåíåðè÷åñêîãî çàáîëåâàíèÿ;;x
+lovers_pox_desc;This [GetGirlWomanBoyMan] periodically suffers from embarrassing and unsightly blisters.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] âðåìÿ îò âðåìåíè ñòðàäàåò îò ñìóùàþùèõ íåïðèãëÿäíûõ âîëäûðåé.;;x
+lunatic;Lunatic;;;;;;;;;;;Ñóìàñøåäø[_èé];;x
+lunatic_desc;This [GetGirlWomanBoyMan] is stark raving mad.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] îêîí÷àòåëüíî ñîø[_åë_] ñ óìà.;;x
+lustful;Lustful;;;;;;;;;;;Ïîõîòëèâ[_ûé];;x
+lustful_desc;Lust, or 'Luxuria', the first deadly sin, enflames this [GetGirlWomanBoyMan]. These carnal desires are not appreciated by the Church, and might also cause problems out of the marital bed...;;;;;;;;;;;Ïîõîòü - ïåðâûé ñìåðòíûé ãðåõ, ñíåäàåò ýò[_îãî] [___ïåðñîíàæà]. Ïëîòñêèå óòåõè íå îäîáðÿþòñÿ Öåðêîâüþ è ñîçäàþò ïðîáëåìû â ñåìåéíîé æèçíè.;;x
+mahayana_buddhist;Mahayana [buddhist.GetName];;;;;;;;;;;Ìàõàÿíñê[_èé] [_áóääèñò][__];;x
+mahayana_buddhist_desc;This [GetGirlWomanBoyMan] follows the Mahayana branch of the [buddhist.GetName] faith.;;;;;;;;;;;Èñïîâåäóåò ìàõàÿíñêóþ âåòâü [GetBuddhismName]à.;;x
+maimed;Maimed;;;;;;;;;;;Èçóâå÷åíí[_ûé];;x
+maimed_death;a maimed cripple;;;;;;;;;;;îò ïîëó÷åííûõ óâå÷èé;;x
+maimed_desc;This [GetGirlWomanBoyMan] has been maimed. It would take a true miracle to heal such an injury.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] áûë[_] èñêàëå÷åí[_]. Äîëæíî ïðîèçîéòè èñòèííîå ÷óäî, ÷òîáû èñöåëèòü òàêèå òðàâìû.;;x
+malaise;Malaise;;;;;;;;;;;Ñòðàäåò îò íåäîìîãàíèÿ;;x
+malaise_death;not knowing quite what was wrong with [GetHerHim];;;;;;;;;;;îò íåïîíÿòíîãî íåäîìîãàíèÿ;;x
+malaise_desc;This [GetGirlWomanBoyMan] experiences malaise - hard to say what is wrong, [GetSheHe] just don't feel well.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] íå ìîæåò ñêàçàòü, ÷òî êîíêðåòíî ñ í[__èì] íå òàê, íî ÷óâñòâóåò ñåáÿ ïëîõî.;;x
+malnourished;Malnourished;;;;;;;;;;;Òîù[_èé];;x
+malnourished_desc;This [GetGirlWomanBoyMan] has a very fragile health.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] íåäîåäàåò, ÷òî ïëîõî ñêàçûâàåòñÿ íà [_åãî] çäîðîâüå è âíåøíåì âèäå.;;x
+mangled;Mangled;;;;;;;;;;;Èñêðîìñàíí[_ûé];;x
+mangled_death;a mangled mess;;;;;;;;;;;ïðåâðàòèâøèñü â êðîâàâîå ìåñèâî;;x
+mangled_desc;This [GetGirlWomanBoyMan] has been horribly wounded and now lives with a mangled body.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ïîëó÷èë[_] óæàñíûå óâå÷üÿ è òåïåðü âûíóæäåí[_] æèòü ñ èñêàëå÷åííûì òåëîì.;;x
+master_of_flame;Way of the Dragon;;;;;;;;;;;Èä¸ò ïóò¸ì Äðàêîíà;;x
+master_of_flame_desc;This [GetGirlWomanBoyMan] is well-versed in the Way of the Dragon, focusing on perfecting [GetHerHis] authority over the troops, as well as embodying the centralized, decisive command over a battlefield, unfettered by overbearing advisors or delegation of command to others.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñîñðåäîòî÷åí[_] íà ñîâåðøåíñòâîâàíèè ñâîåãî óïðàâëåíèÿ âîéñêàìè, öåíòðàëèçîâàííîãî êîìàíäîâàíèÿ íà ïîëå áîÿ, íå çàâèñÿùåãî îò íàâûêîâ ñîâåòíèêîâ èëè ðàïðåäåëåíèÿ ïîëíîìî÷èé ñðåäè òðåòüèõ ëèö.;;x
+master_seducer;Master Seducer;;;;;;;;;;;Ìàñòåð-ñîáëàçíèòåëü;;x
+master_seducer_desc;This man is a notorious rake and debaucher who leaves a trail of broken hearts - and bastards - in his wake.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ_] - óìåëûé îáîëüñòèòåëü è ðàñïóòíèê, îñòàâëÿþùèé çà ñîáîé ðàçáèòûå ñåðäöà è âíåáðà÷íûõ äåòåé.;;x
+master_seductress;Master Seductress;;;;;;;;;;;Óìåëàÿ ñîáëàçíèòåëüíèöà;;x
+master_seductress_desc;This woman is an infamous siren and temptress whose virtue is certainly in doubt...;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ_] - ïå÷àëüíî èçâåñòíàÿ îáîëüñòèòåëüíèöà, ÷üÿ äîáðîäåòåëüíîñòü, êîíå÷íî æå, ïîä ñîìíåíèåì...;;x
+master_schemer;Master Schemer;;;;;;;;;;;Èíòðèãàí[__];;x
+master_schemer_desc;This [GetGirlWomanBoyMan] leads a life of intrigue and manipulation.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] - êîâàðí[_ûé] èíòðèãàí[__] è ìàíèïóëÿòîð.;;x
+mastermind_theologian;Mastermind Theologian;;;;;;;;;;;Âûäàþùèéñÿ áîãîñëîâ;;x
+mastermind_theologian_desc;The Mastermind Theologian is recognized as one of the top scholars of the Faith.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] âûäàþùåãîñÿ óìà, ïðèçíàí[_] îäí[_èì] èç âåäóùèõ çíàòîêîâ âåðû.;;x
+measles;Measles;;;;;;;;;;;Áîëååò êîðüþ;;x
+measles_death;of the Measles;;;;;;;;;;;îò êîðè;;x
+measles_desc;This [GetGirlWomanBoyMan] has contracted the Measles, a fairly dangerous type of pox.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ïîäõâàòèë[_] êîðü, äîâîëüíî îïàñíûé âèä êîæíîé áîëåçíè.;;x
+midas_touched;Midas Touched;;;;;;;;;;;Ñ äàðîì Ìèäàñà;;x
+midas_touched_desc;This [GetGirlWomanBoyMan] is truly Midas Touched, never seeming to run out of funds - an excellent choice for Steward and mentor to children destined to become administrators.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ìîæåò ïðåâðàòèòü â çîëîòî âñ¸, ê ÷åìó ïðèêàñàåòñÿ - äåíüãè ó í[_åãî] íèêîãäà íå êîí÷àþòñÿ. Îòëè÷íûé âûáîð â êà÷åñòâå óïðàâëÿþùåãî èëè íàñòàâíèêà äëÿ äåòåé, êîòîðûì ñóæäåíî ñòàòü àäìèíèñòðàòîðàìè.;;x
+mirza;Mirza;;;;;;;;;;;Ìèðçà;;x
+mirza_desc;The mother of this [GetGirlWomanBoyMan] is a Sayyida (patrilineally descended from the Prophet Muhammad).;;;;;;;;;;;Ìàòü ýò[__îãî] [__ïåðñîíàæà] - Ñýéèä (ïàòðèëèíåéíûì îáðàçîì ïðîèçîøëà îò Ïðîðîêà Ìóõàììàäà èëè äðóãîãî ïðåäñòàâèòåëÿ ìîíàðøåé êðîâè);;x
+misguided_warrior;Misguided Warrior;;;;;;;;;;;Íåóäàâøèéñÿ ïîëêîâîäåö;;x
+misguided_warrior_desc;The Misguided Warrior was trained in warfare and the martial arts, but sadly lacks all talent for it.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] îáó÷à[_ëñÿ_] âîåííîìó äåëó è îáðàùåíèþ ñ îðóæèåì, íî, ê ñîæàëåíèþ, å[_ìó] íå õâàòàåò òàëàíòà.;;x
+monk;Monk;;;;;;;;;;;Ìîíàõ;;x
+monk_desc;This man is living out his days in a monastery, disqualified from normal inheritance.;;;;;;;;;;;Ýòîò ìóæ÷èíà äîæèâàåò ñâîè äíè â ìîíàñòûðå, èñêëþ÷¸ííûé èç íîðìàëüíîãî íàñëåäîâàíèÿ.;;x
+mountain_expert;Mountain Expert;;;;;;;;;;;Ýêñïåðò ïî âûñîêîãîðüþ;;x
+mountain_expert_desc;This [GetGirlWomanBoyMan] is an expert at leading troops in mountainous terrain.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ÿâëÿåòñÿ ýêñïåðòîì ïî óïðàâëåíèþ âîéñêîì íà âûñîêîãîðüå.;;x
+mujahid;Mujahid;;;;;;;;;;;Ìîäæàõåä[__];;x
+mujahid_desc;This [GetGirlWomanBoyMan] is a veteran of a Jihad.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] - âåòåðàí[__] äæèõàäà.;;x
+muni;Muni;;;;;;;;;;;Ìóíè;;x
+muni_desc;This man has taken the Mahavrata vows and lives a life of asceticism, thus making him unable to marry or inherit.;;;;;;;;;;;Ýòîò ìóæ÷èíà ïðèíÿë Ìàõàâðàòó - êëÿòâó, âûíóæäàþùóþ âåñòè àñêåòè÷íûé îáðàç æèçíè, ÷òî ëèøàåò åãî ïðàâà æåíèòüñÿ èëè ïîëó÷èòü íàñëåäñòâî.;;x
+mutazilite;Mu'tazilite;;;;;;;;;;;Ìóòàçèëèò[__];;x
+mutazilite_desc;This [GetGirlWomanBoyMan] is an adherent of the Sunni Mu'tazila school of theology, placing emphasis on rationality, reason and free will.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] - ïðèâåðæåí[_åö] ñóííèòñêîé áîãîñëîâñêîé øêîëû ìóòàçèëèòîâ, êîòîðàÿ äåëàåò óïîð íà ðàöèîíàëüíîñòü è ñâîáîäó âîëè.;;x
+mystic;Mystic;;;;;;;;;;;Ìèñòèê;;x
+mystic_desc;This [GetGirlWomanBoyMan] has delved into the mysteries of the occult, treading a fine line between heresy and orthodox approval.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] èçó÷àåò òàéíû îêêóëüòèçìà, áàëàíñèðóÿ íà ãðàíè ìåæäó åðåñüþ è öåðêîâíûìè äîãìàòàìè.;;x
+naive_appeaser;Naive Appeaser;;;;;;;;;;;Íàèâí[_ûé] ìèðîòâîð[___åö];;x
+naive_appeaser_desc;Naive Appeasers want to be well liked and fancy themselves diplomats. Unfortunately, everyone else just tends to bully them.;;;;;;;;;;;Íàèâíûå ìèðîòâîðöû õîòÿò áûòü ëþáèìûìè è ñ÷èòàþò ñåáÿ äèïëîìàòàìè. Ê ñîæàëåíèþ, îñòàëüíûå ëþäè íåâûñîêîãî ìíåíèÿ î íèõ.;;x
+norse_leader;Fearsome;;;;;;;;;;;Áåññòðàøí[_ûé];;x
+norse_leader_desc;This [GetGirlWomanBoyMan] has a scary reputation, attracting the mightiest of warriors to [GetHerHis] side.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] èìååò ðåïóòàöèþ õðàáðîãî áîéöà, ÷åì ïðèâëåêàåò ìîãó÷èõ âîèíîâ íà ñâîþ ñòîðîíó.;;x
+nun;Nun;;;;;;;;;;;Ìîíàõèíÿ;;x
+nun_desc;This woman is living out her days in a monastery, disqualified from normal inheritance.;;;;;;;;;;;Ýòà æåíùèíà äîæèâàåò ñâîè äíè â ìîíàñòûðå, èñêëþ÷¸ííàÿ èç íîðìàëüíîãî íàñëåäîâàíèÿ.;;x
+nyames_shield;Nyame's Shield;;;;;;;;;;;Ùèò Íüÿìå;;x
+nyames_shield_desc;This [GetGirlWomanBoyMan] is one of the chosen warriors who fight for the African faith.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] - îä[__èí] èç èçáðàííûõ âîèíîâ, êîòîðûå ñðàæàþòñÿ íà ñòîðîíå çàïàäíî-àôðèêàíñêîé âåðû.;;x
+on_hajj;On Hajj;;;;;;;;;;;Íà õàäæå;;x
+on_hajj_desc;This [GetGirlWomanBoyMan] is on a pilgrimage to Mecca.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñîâåðøàåò ïàëîìíè÷åñòâî â Ìåêêó.;;x
+on_indian_pilgrimage;On pilgrimage;;;;;;;;;;;Ïàëîìíè[_ê];;x
+on_indian_pilgrimage_desc;The [GetGirlWomanBoyMan] is currently away on a great pilgrimage.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñåé÷àñ âäàëè îò äîìà, ñîâåðøàÿ âåëèêîå ïàëîìíè÷åñòâî.;;x
+on_pilgrimage;On pilgrimage;;;;;;;;;;;Ïàëîìíè[_ê];;x
+on_pilgrimage_desc;The [GetGirlWomanBoyMan] is currently away on a great pilgrimage.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] â íàñòîÿùèé ìîìåíò ñîâåðøàåò ïàëîìíè÷åñòâî.;;x
+one_eyed;One-Eyed;;;;;;;;;;;Îäíîãëàç[_ûé];;x
+one_eyed_desc;This [GetGirlWomanBoyMan] is missing an eye - not something you see every day.;;;;;;;;;;;Ó ýò[__îãî] [__ïåðñîíàæà] òîëüêî îäèí ãëàç - òàêîå íå êàæäûé äåíü óâèäèøü.;;x
+one_handed;One-Handed;;;;;;;;;;;Îäíîðóê[_èé];;x
+one_handed_desc;This [GetGirlWomanBoyMan] is missing a hand - having only one hand causes problems in combat but makes it easier to escape chores.;;;;;;;;;;;Ýòî[_ìó] [__ïåðñîíàæó] íå õâàòàåò ðóêè - ñåðü¸çíûé íåäîñòàòîê â áîþ, çàòî õîðîøàÿ îòìàçêà îò äîìàøíèõ äåë.;;x
+one_legged;One-Legged;;;;;;;;;;;Îäíîíîã[_èé];;x
+one_legged_desc;This [GetGirlWomanBoyMan] is missing a leg - a real disability when it comes to the battlefield or chasing youngsters.;;;;;;;;;;;Ýòî[_ìó] [__ïåðñîíàæó] íå õâàòàåò íîãè - ðåàëüíàÿ ïðîáëåìà íà ïîëå áîÿ è ïðè èãðå â äîãîíÿëêè.;;x
+organizer;Organizer;;;;;;;;;;;Îðãàíèçàòîð;;x
+organizer_desc;This [GetGirlWomanBoyMan] is a skillful organizer in matters of logistics and in overcoming the challenges of moving a large body of men from one point to another.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ÿâëÿåòñÿ óìåëûì îðãàíèçàòîðîì â âîïðîñàõ ëîãèñòèêè è ðåøåíèÿ ïðîáëåì ïåðåìåùåíèÿ áîëüøîãî êîëè÷åñòâà ëþäåé èç îäíîé òî÷êè â äðóãóþ.;;x
+pagan_branch_1;Syncretist;;;;;;;;;;;Ñèíêðåòèñò[__];;x
+pagan_branch_1_desc;This [GetGirlWomanBoyMan] believes in adapting some of the features of the newer religions to [GetHerHis] own worship of the old gods.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] âåðèò, ÷òî ïåðåíèìàÿ ëó÷øåå èç äðóãèõ ðåëèãèé, ìîæíî ïîñòè÷ü èñòèííîå ó÷åíèå.;;x
+pagan_branch_2;Spiritualist;;;;;;;;;;;Ñïèðèòóàëèñò[__];;x
+pagan_branch_2_desc;This [GetGirlWomanBoyMan] believes in detaching [GetHerselfHimself] from worldly affairs in the pursuit for true enlightenment.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] îòðåøè[_ëñÿ_] îò ìèðñêèõ çàáîò è ïîñâÿòèë ñåáÿ ïîèñêàì èñòèííîãî ïðîñâåòëåíèÿ.;;x
+pagan_branch_3;Militant;;;;;;;;;;;Ìèëèòàðèñò[__];;x
+pagan_branch_3_desc;This [GetGirlWomanBoyMan] has interpreted [GetHerHis] scriptures as a call to action against all the infidels threatening the survival of [GetHerHis] faith.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñêëîí[_åí] èíòåðïðåòèðîâàòü ó÷åíèå êàê ïðèçûâ ê àãðåññèè ïðîòèâ èíîâåðöåâ. Îí[_] ñ÷èòàåò, ÷òî òîëüêî òàê ìîæíî çàùèòèòü ñâîþ âåðó.;;x
+pagan_branch_4;Tribalist;;;;;;;;;;;Òðèáàëèñò[__];;x
+pagan_branch_4_desc;This [GetGirlWomanBoyMan] believes that the true worship of the old gods is still best exemplified by the care that a [GetManWoman] has for [GetHerHis] own family.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] âåðèò, ÷òî â îñíîâå èñòèííîãî ïî÷èòàíèÿ áîãîâ ëåæèò ñåìüÿ è ðîäíàÿ êðîâü.;;x
+paranoid;Paranoid;;;;;;;;;;;Ïàðàíîèê;;x
+paranoid_desc;This [GetGirlWomanBoyMan] sees enemies in every shadow, unable to trust anyone.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] êðàéíå ïîäîçðèòåë[__åí], â êàæäîé òåíè å[_ìó] ÷óäÿòñÿ âðàãè, îí[_] íèêîìó íå ìîæåò äîâåðÿòü.;;x
+patient;Patient;;;;;;;;;;;Òåðïåëèâ[_ûé];;x
+patient_desc;Patience, or 'Patientia', is the fifth of the seven virtues and the opposite of Wrath. Patient characters are just a little bit better at almost everything.;;;;;;;;;;;Òåðïåíèå ÿâëÿåòñÿ ïÿòîé èç ñåìè äîáðîäåòåëåé, ïðîòèâîïîëîæíîé ãíåâó. Òåðïåëèâûå ëþäè íåìíîãî ëó÷øå îñòàëüíûõ âî âñ¸ì.;;x
+peasant_leader;Peasant Leader;;;;;;;;;;;Ëèäåð êðåñòüÿí;;x
+peasant_leader_desc;This [GetGirlWomanBoyMan] is a jumped up peasant who revolted against [GetHerHis] betters.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] - êðåñòüÿí[_èí], êîòîð[_ûé] âîññòàë[_] ïðîòèâ ñâîèõ ãîñïîä.;;x
+peruns_chosen;Perun's Chosen;;;;;;;;;;;Èçáðàííè[_ê] Ïåðóíà;;x
+peruns_chosen_desc;The axes of Perun's Chosen hew the enemies of the Slavic faith with the power of His lightning.;;;;;;;;;;;Òîïîðû èçáðàííèêîâ Ïåðóíà ðàçÿò âðàãîâ ñëàâÿíñêîé âåðû ñ òåì æå íåèñòîâñòâîì, êàê è åãî ìîëíèè.;;x
+physician;Renowned Physician;;;;;;;;;;;Çíàìåíèòûé ëåêàðü;;x
+physician_desc;This [GetGirlWomanBoyMan] is a renowned practitioner of medicine and a sought after physician - [GetSheHe] would be a welcome addition to the court of any ruler.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] - èçâåñòíûé çíàòîê ìåäèöèíû è âåñüìà óìåëûé ëåêàðü. Îí[_] âîñòðåáîâàí[_] ïðè äâîðå ëþáîãî ïðàâèòåëÿ.;;x
+pilgrim;Pilgrim;;;;;;;;;;;Ïàëîìíè[_ê];;x
+pilgrim_desc;The [GetGirlWomanBoyMan] has completed a great pilgrimage.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñîâåðøèë[_] áîëüøîå ïàëîìíè÷åñòâî;;x
+pirate;Pirate;;;;;;;;;;;Ïèðàò[__];;x
+pirate_desc;This [GetGirlWomanBoyMan] has earned a reputation as a fearsome raider.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñíèñêàë[_] ðåïóòàöèþ áåññòðàøíîãî ìîðñêîãî ðàçáîéíèêà.;;x
+playful;Playful;;;;;;;;;;;Èãðèâ[_ûé];;x
+playful_desc;This [GetBoyGirl] loves to engage in fun and games, almost always turning any activity into an excuse to play. Can develop into: §YGregarious§!, §YDeceitful§! or (rarely) §YLunatic§!.;;;;;;;;;;;Ýò[_îò] [__ðåá¸íîê] ëþáèò èãðû è ðàçâëå÷åíèÿ, íåðåäêî ïðåâðàùàÿ ëþáîå óäîáíîå çàíÿòèå â çàáàâó. Ìîæåò âûðàñòè: §Yîáùèòåëüí[_ûì]§!, §Yêîâàðí[_ûì]§! èëè (ðåäêî) §Yñóìàñøåäø[__èì]§!.;;x
+pneumonic;Pneumonic;;;;;;;;;;;Ñòðàäàåò ïíåâìîíèåé;;x
+pneumonic_death;of Pneumonia;;;;;;;;;;;îò ïíåâìîíèè;;x
+pneumonic_desc;This [GetGirlWomanBoyMan] suffers from pneumonia - a life threatening condition in medieval times.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñòðàäàåò îò âîñïàëåíèÿ ë¸ãêèõ - î÷åíü îïàñíîé áîëåçíè â Ñðåäíåâåêîâüå.;;x
+poet;Poet;;;;;;;;;;;Ïîýò;;x
+poet_desc;This [GetGirlWomanBoyMan] likes to write and declaim poetry.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ëþáèò ñî÷èíÿòü è äåêëàìèðîâàòü ñòèõè.;;x
+possessed;Possessed;;;;;;;;;;;Îäåðæèì[_ûé];;x
+possessed_desc;This [GetGirlWomanBoyMan] experiences frequent violent episodes, speaking in tongues, spitting and assaulting those nearby, as if possessed by evil spirits.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] áóäòî îäåðæèì[_] çëûìè äóõàìè: ÷òî-òî íåâíÿòíî áîðìî÷åò, ïëþåòñÿ è íàáðàñûâàåòñÿ íà òåõ, êòî ðÿäîì, ÷àñòî èñïûòûâàåò ïðèñòóïû íåêîíòðîëèðóåìîé ÿðîñòè.;;x
+pregnancy_finishing;Final Months;;;;;;;;;;;Íà ïîñëåäíèõ ìåñÿöàõ;;x
+pregnancy_finishing_desc;This woman has entered the last phase of her pregnancy. Her condition is preventing her from taking part of her public life, at least until the time her labor comes to term.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] íàõîäèòñÿ íà ïîñëåäíåé ñòàäèè áåðåìåííîñòè. Â ýòîì ñîñòîÿíèè îí[_] íå ìîæåò ïðèíèìàòü ó÷àñòèå â îáùåñòâåííîé æèçíè, ïî êðàéíåé ìåðå, ïîêà íå ïðîéäóò ðîäû.;;x
+pregnant;Pregnant;;;;;;;;;;;Áåðåìåííà;;x
+pregnant_desc;This woman is with child.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] æä¸ò ðåá¸íêà.;;x
+proud;Proud;;;;;;;;;;;Âûñîêîìåðí[_ûé];;x
+proud_desc;Pride, 'Superbia' is the seventh deadly sin according to the Church. However, proud characters tend to be ambitious and work hard to increase their Prestige.;;;;;;;;;;;Ãîðäûíÿ - ñåäüìîé ñìåðòíûé ãðåõ. Îäíàêî, âûñîêîìåðíûå ëþäè, êàê ïðàâèëî, ÷åñòîëþáèâû è óïîðíî òðóäÿòñÿ, ÷òîáû ïîäíÿòü ñâîé ïðåñòèæ.;;x
+quick;Quick;;;;;;;;;;;Ñìûøë¸í[_ûé];;x
+quick_desc;This [GetGirlWomanBoyMan] is brighter than most.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] óìíåå áîëüøèíñòâà äðóãèõ ëþäåé.;;x
+rabies;Rabies;;;;;;;;;;;Áîëååò áåøåíñòâîì;;x
+rabies_death;frothing at the mouth;;;;;;;;;;;ñ ïåíîé èçî ðòà;;x
+rabies_desc;This [GetGirlWomanBoyMan] has rabies - swelling and inflammation of the brain causes very strange and aggressive behavior.;;;;;;;;;;;Ó ýò[__îãî] [__ïåðñîíàæà] áåøåíñòâî - îò¸ê è âîñïàëåíèå ìîçãà, êîòîðîå ñòðàííî âëèÿåò íà ïîâåäåíèå.;;x
+rash;Rash;;;;;;;;;;;Ñòðàäàåò îò ñûïè;;x
+rash_death;scratching [GetHerHis] skin bloody;;;;;;;;;;;ðàçäèðàÿ äî êðîâè ñâîþ êîæó;;x
+rash_desc;This [GetGirlWomanBoyMan] has a rash - itching and causing pain, a rash is usually considered very unattractive and could be the sign of something worse.;;;;;;;;;;;Ó ýò[__îãî] [__ïåðñîíàæà] ñûïü. Îíà áîëèò è ÷åøåòñÿ, ýòî íå òîëüêî íåêðàñèâî, íî è ìîæåò áûòü î÷åíü îïàñíûì ïðèçíàêîì ÷åãî-òî åù¸.;;x
+ravager;Ravager;;;;;;;;;;;Ðàçîðèòåëü[____];;x
+ravager_desc;This [GetGirlWomanBoyMan] is widely known as a fearsome Ravager, a [GetCulturalPirate] few have fought and lived.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] èçâåñò[_åí] êàê ãðîçí[_ûé] ðàçîðèòåëü[____], ìàëî êòî èç ìîðñêèõ ðàçáîéíèêîâ ìîæåò ïîõâàñòàòüñÿ òàêîé ñëàâîé.;;x
+reincarnation;Reincarnation of [Reincarnation.GetBestName];;;;;;;;;;;Ïåðåâîïëîù¸íí[Reincarnation._ûé] [Reincarnation.GetBestName];;x
+reincarnation_desc;This [GetGirlWomanBoyMan] is widely believed to be a reincarnation of [Reincarnation.GetBestName].;;;;;;;;;;;Âñ¸ óêàçûâàåò íà òî, ÷òî ýò[_îò] [__ïåðñîíàæ] ÿâëÿåòñÿ ðåèíêàðíàöèåé [Reincarnation.GetManWoman]û, èçâåñòí[Reincarnation.GetOyOgo] êàê [Reincarnation.GetBestName].;;x
+rough_terrain_expert;Rough Terrain Expert;;;;;;;;;;;Ýêñïåðò ïî ïåðåñå÷¸ííîé ìåñòíîñòè;;x
+rough_terrain_expert_desc;This [GetGirlWomanBoyMan] is an expert at leading troops in rough terrain.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ÿâëÿåòñÿ ýêñïåðòîì ïî óïðàâëåíèþ âîéñêîì íà ïåðåñå÷¸ííîé ìåñòíîñòè.;;x
+rowdy;Rowdy;;;;;;;;;;;Áóéí[_ûé];;x
+rowdy_desc;This [GetBoyGirl] is loud and lively and usually prefers rough physical activity over calmer pursuits. Can develop into: §YBrawny§!, §YHonest§!, §YDull§! or §YUncouth§!.;;;;;;;;;;;Ýò[_îò] íåóãîìîíí[_ûé] [_çàáèÿêà] ðåäêî ñïîñîá[_åí] óñèäåòü íà ìåñòå. Ìîæåò âûðàñòè: §Yìóñêóëèñò[_ûì]§!, §Y÷åñòí[_ûì]§!, §Yòóï[_ûì]§! èëè §Yíåðÿøëèâ[_ûì]§!.;;x
+saint;Saint;;;;;;;;;;;Ñâÿò[__îé];;x
+saint_desc;This [GetGirlWomanBoyMan] has been canonized as a true [saint_person.Religion.GetGroupName].;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] áûë[_] êàíîíèçèðîâàí[_].;;x
+sanyasi;Sanyasi;;;;;;;;;;;Ñàíüÿñè;;x
+sanyasi_desc;This man has chosen a life of simplicity and celibacy, thus making him unable to marry or inherit.;;;;;;;;;;;Ýòîò ìóæ÷èíà èçáðàë ïóòü ïðîñòîòû è öåëîìóäðèÿ, ÷òî ëèøàåò åãî ïðàâà æåíèòüñÿ èëè ïîëó÷èòü íàñëåäñòâî.;;x
+sanyasini;Sanyasini;;;;;;;;;;;Ñàíüÿñèíè;;x
+sanyasini_desc;This woman has chosen a life of simplicity and celibacy, thus making her unable to marry or inherit.;;;;;;;;;;;Ýòà æåíùèíà èçáðàëà ïóòü ïðîñòîòû è öåëîìóäðèÿ, ÷òî ëèøàåò å¸ ïðàâà âûéòè çàìóæ èëè ïîëó÷èòü íàñëåäñòâî.;;x
+saoshyant;Saoshyant;;;;;;;;;;;Ñàîøèàíò;;x
+saoshyant_desc;This [GetGirlWomanBoyMan] is the Saoshyant, the promised savior of the world and a holy icon according to the Zoroastrian belief.;;;;;;;;;;;Ýòîò ãåðîé - Ñàîøèàíò, ïðåäñêàçàííûé Ñïàñèòåëü ìèðà è ñâÿòîé â çîðîàñòðèéñêîé âåðå.;;x
+saoshyant_descendant;Saoshyant Descendant;;;;;;;;;;;Ïîòîìîê Ñàîøèàíòà;;x
+saoshyant_descendant_desc;This [GetGirlWomanBoyMan] is a descendant of the Saoshyant, who was the savior of the world according to the Zoroastrian belief.;;;;;;;;;;;Ýòîò ãåðîé - ïîòîìîê Ñàîøèàíòà, Ñïàñèòåëÿ ìèðà â çîðîàñòðèéñêîé âåðå.;;x
+sapper;Way of the Leopard;;;;;;;;;;;Èä¸ò ïóò¸ì Ëåîïàðäà;;x
+sapper_desc;This [GetGirlWomanBoyMan] is well-versed in the Way of the Leopard, focusing on how best to use the terrain to one's advantage, and how to use novel siege weapons to defeat a fortified enemy.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñîñðåäîòî÷åí[_] íà òîì, êàê ëó÷øå èñïîëüçîâàòü ëàíäøàôò äëÿ ïîëó÷åíèÿ âîåííîãî ïðåèìóùåñòâà, à òàêæå íà ïðèìåíåíèè îñàäíûõ îðóäèé.;;x
+sayyid;Sayyid;;;;;;;;;;;Ñýéèä;;x
+sayyid_desc;This [GetGirlWomanBoyMan] is patrilineally descended from the Prophet Muhammad's uncles al-Abbas and Abu Talib, or from the sons of his daughter Fatimah - Hasan ibn Ali and Husain ibn Ali.;;;;;;;;;;;Òàêîé ïî÷¸òíûé òèòóë ìîãëè èìåòü ëþäè èç ñòàðåéøèõ àðèñòîêðàòè÷åñêèõ ðîäîâ, ïðîäîëæèòåëüíî âëàñòâîâàâøèõ è ñîõðàíÿâøèõ çíà÷èìîñòü, îñîáåííî ñðåäè ïðåäñòàâèòåëåé ïîòîìêîâ ïðîðîêà Ìóõàììàäà è åãî âíóêîâ Õàñàíà è Õóñàéíà.;;x
+scarred;Scarred;;;;;;;;;;;Ñî øðàìàìè;;x
+scarred_desc;Old wounds have left this [GetGirlWomanBoyMan] visibly scarred.;;;;;;;;;;;Ñòàðûå ðàíû îñòàâèëè íà ýò[__îì] [__ïåðñîíàæå] ìíîæåñòâî øðàìîâ;;x
+scarred_high;Horrifically Scarred;;;;;;;;;;;Ñ ÷óäîâèùíûìè øðàìàìè;;x
+scarred_high_desc;This [GetGirlWomanBoyMan] has seen [GetHerHis] share of fights, as [GetHerHis] face can attest.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ó÷àñòâîâàë[_] âî ìíîæåòñâå áèòâ, ÷òî çàìåòíî ïî [_åãî] ëèöó.;;x
+scarred_mid;Grievously Scarred;;;;;;;;;;;Ñ óæàñíûìè øðàìàìè;;x
+scarred_mid_desc;Old wounds have left this [GetGirlWomanBoyMan] visibly scarred.;;;;;;;;;;;Ñòàðûå ðàíû îñòàâèëè íà ýò[__îì] [__ïåðñîíàæå] ìíîæåñòâî øðàìîâ;;x
+scholar;Scholar;;;;;;;;;;;Ó÷¸í[_ûé];;x
+scholar_desc;This [GetGirlWomanBoyMan] leads the life of a scholar, poring over books and corresponding with the finest minds in the known world.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] æèâ¸ò æèçíüþ ó÷¸íîãî, èçó÷àåò êíèãè è ïåðåïèñûâàåòñÿ ñ ëó÷øèìè óìàìè ìèðà.;;x
+scholarly_theologian;Scholarly Theologian;;;;;;;;;;;Ó÷¸íûé áîãîñëîâ;;x
+scholarly_theologian_desc;The Scholarly Theologian is wise and well read, with a deep understanding of philosophy and theology.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] îòëè÷àåòñÿ ìóäðîñòüþ è õîðîøèì ÷òåíèåì, ñ ãëóáîêèì ïîíèìàíèåì ôèëîñîôèè è òåîëîãèè.;;x
+scurvy;Scurvy;;;;;;;;;;;Áîëååò öèíãîé;;x
+scurvy_death;of Scurvy;;;;;;;;;;;îò öèíãè;;x
+scurvy_desc;This [GetGirlWomanBoyMan] has scurvy - fatigue, bleeding, spots on the skin, and if left untreated may cause loss of teeth, fever and eventually death.;;;;;;;;;;;Ó ýò[__îãî] [__ïåðñîíàæà] öèíãà, êîòîðàÿ âûçûâàåò ñëàáîñòü, êðîâîòå÷åíèÿ è ïÿòíà íà êîæå. Åñëè å¸ íå ëå÷èòü, ýòî ìîæåò ïðèâåñòè ê ïîòåðå çóáîâ, ëèõîðàäêå è äàæå ñìåðòè.;;x
+sea_queen;Sea Queen;;;;;;;;;;;Âëàäû÷èöà ìîðåé;;x
+sea_queen_desc;This [GetGirlWomanBoyMan] is known and feared far and wide. Wherever salt water can be found, there is terror of the Sea Queen.;;;;;;;;;;;Ýòà æåíùèíà âíóøàåò ñòðàõ äàæå â ñàìûõ äàë¸êèõ çåìëÿõ. Ëþáîé, êòî çíàåò ìîðå, çíàåò è î åãî ãðîçíîé õîçÿéêå.;;x
+sea_king;Sea King;;;;;;;;;;;[_Ïîâåëèòåëü] ìîðåé;;x
+sea_king_desc;This [GetGirlWomanBoyMan] is known and feared far and wide. Wherever salt water can be found, there is terror of the Sea King.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] âíóøàåò ñòðàõ äàæå â ñàìûõ äàë¸êèõ çåìëÿõ. Ëþáîé, êòî çíàåò ìîðå, çíàåò è î åãî ãðîçíîì õîçÿèíå.;;x
+severely_injured;Severely Injured;;;;;;;;;;;Ñåðü¸çíî ðàíåí[_];;x
+severely_injured_death;succumbing to severe injuries;;;;;;;;;;;îò ïîòåðè êðîâè, âûçâàííîé ñåðü¸çíûì ðàíåíèåì;;x
+severely_injured_desc;This [GetGirlWomanBoyMan] was recently maimed resulting in serious injury, a life threatening condition. Once the wound heals [GetHerHis] health will recover, but the damage dealt will never fully heal.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] íåäàâíî ïîëó÷èë[_] óâå÷üÿ è ñåðü¸çíî ðàíåí[_], ÷òî óãðîæàåò [_åãî] æèçíè. Ðàíû ìîãóò çàæèòü, íî óùåðá çäîðîâüþ îñòàíåòñÿ ñ í[__èì] íàâñåãäà.;;x
+shaivist_hindu;Shaivist;;;;;;;;;;;Øèâàèñò[__];;x
+shaivist_hindu_desc;This [GetGirlWomanBoyMan] follows the Shaivist branch of the [hindu.GetName] faith.;;;;;;;;;;;Èñïîâåäóåò øèâàèñòñêóþ âåòâü [GetHinduismName]à.;;x
+shaktist_hindu;Shaktist;;;;;;;;;;;Øàêòèñò[__];;x
+shaktist_hindu_desc;This [GetGirlWomanBoyMan] follows the Shaktist branch of [hindu.GetName]ism.;;;;;;;;;;;Èñïîâåäóåò øàêòèñòñêóþ âåòâü [GetHinduismName]à.;;x
+shieldmaiden;Shieldmaiden;;;;;;;;;;;Ùèòîíîñèöà;;x
+shieldmaiden_desc;This [GetGirlWomanBoyMan] is a Shieldmaiden, recognized for her remarkable bravery and spirit. She may also be made a Commander.;;;;;;;;;;;"Ùèòîíîñèöà (skjaldmaer èëè ""ùèò-äåâà"") èçâåñòíà ñâîåé õðàáðîñòüþ è ñèëîé äóõà. Îíà ìîæåò âîçãëàâëÿòü âîéñêà, åñëè ïîëó÷èò äîëæíîñòü ïîëêîâîäöà.";;x
+shrewd;Shrewd;;;;;;;;;;;Ïðîíèöàòåëüí[_ûé];;x
+shrewd_desc;This [GetGirlWomanBoyMan] has developed a sharp and astute mind.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ðàçâèë[_] îñòðûé èçîùð¸ííûé óì.;;x
+shy;Shy;;;;;;;;;;;Çàñòåí÷èâ[_ûé];;x
+shy_desc;This [GetGirlWomanBoyMan] is shy and reclusive, suffering a penalty to diplomacy.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ðîáê[_èé] è ñòåñíèòåëüí[_ûé], ÷òî ñêàçûâàåòñÿ íà äèïëîìàòè÷åñêîì óìåíèè.;;x
+sickly;Sickly;;;;;;;;;;;Áîëåçíåíí[_ûé];;x
+sickly_death;a sickly infant;;;;;;;;;;;îò âðîæä¸ííîãî çàáîëåâàíèÿ;;x
+sickly_desc;This [GetBoyGirl] was born sickly and might not survive infancy.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ðîäè[_ëñÿ_] áîëüí[_ûì] è ìîæåò íå ïåðåæèòü äåòñòâî.;;x
+siege_leader;Siege Leader;;;;;;;;;;;Ëèäåð îñàäû;;x
+siege_leader_desc;This [GetGirlWomanBoyMan] is skilled at leading sieges.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] óìååò âåñòè îñàäó.;;x
+skilled_tactician;Skilled Tactician;;;;;;;;;;;Óìåëûé òàêòèê;;x
+skilled_tactician_desc;The Skilled Tactician is an adept in the art of war - a valiant warrior and reliable commander.;;;;;;;;;;;Óìåëûé òàêòèê ñâåäóù â âîåííîì äåëå - ýòî äîáëåñòíûé âîèí è õîðîøèé êîìàíäèð.;;x
+skylord;Skylord;;;;;;;;;;;Íåáåñí[_ûé] âñàäíè[_ê];;x
+skylord_desc;The epitome of a Steppe Warrior, this [GetGirlWomanBoyMan] has fought for the glory of Tengrism.;;;;;;;;;;;Ýòîò ñòåïíîé âîèí ñðàæàåòñÿ âî ñëàâó Òåíãðè.;;x
+slavic_leader;Pillar of the Plains;;;;;;;;;;;Ñòîëï Ðàâíèí;;x
+slavic_leader_desc;This [GetGirlWomanBoyMan] stands firmly on flat terrain, an inspiring figure for [GetHerHis] troops.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ïðî÷íî ñòîèò íà çåìëå, âäîõíîâëÿÿ ñâîèõ ñîëäàò.;;x
+slothful;Slothful;;;;;;;;;;;Ëåíèâ[_ûé];;x
+slothful_desc;This [GetGirlWomanBoyMan] is shockingly lazy. 'Acedia', the fourth deadly sin, is an altogether negative trait.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ïîðàçèòåëüíî ëåíèâ[_]. Ëåíü - ÷åòâ¸ðòûé ñìåðòíûé ãðåõ. Ëåíèâûõ ëþäåé íèêòî íå ëþáèò.;;x
+slow;Slow;;;;;;;;;;;Ãëóï[_ûé];;x
+slow_desc;This [GetGirlWomanBoyMan] is not exactly blessed with a towering intellect.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] òóï[__îé] îò ðîæäåíèÿ.;;x
+slow_fever;Slow Fever;;;;;;;;;;;Áîëååò áðþøíûì òèôîì;;x
+slow_fever_death;of the Slow Fever;;;;;;;;;;;îò ïåðåìåæàþùåéñÿ ëèõîðàäêè;;x
+slow_fever_desc;This [GetGirlWomanBoyMan] suffers from the terrible disease known as the Slow Fever (Typhoid Fever).;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñòðàäàåò îò ñòðàøíîé áîëåçíè, èçâåñòíîé êàê áðþøíîé òèô èëè ñðåäèçåìíîìîðñêàÿ ëèõîðàäêà.;;x
+smallpox;Smallpox;;;;;;;;;;;Áîëååò îñïîé;;x
+smallpox_death;of Smallpox;;;;;;;;;;;îò îñïû;;x
+smallpox_desc;This [GetGirlWomanBoyMan] has the dreaded Smallpox, which kills almost half of those infected.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] áîëååò îñïîé - ñòðàøíîé áîëåçíüþ, îò êîòîðîé óìèðàåò áîëåå ïîëîâèíû çàðàçèâøèõñÿ.;;x
+smartist_hindu;Smartist;;;;;;;;;;;Ñìàðòèñò[__];;x
+smartist_hindu_desc;This [GetGirlWomanBoyMan] follows the Smartist branch of [hindu.GetName]ism.;;;;;;;;;;;Èñïîâåäóåò ñìàðòèñòñêóþ âåòâü [GetHinduismName]à.;;x
+socializer;Socializer;;;;;;;;;;;Îáùåñòâåííè[_ê];;x
+socializer_desc;This [GetGirlWomanBoyMan] is committed to being well liked, and spends most spare time in the company of others.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñòðåìèòñÿ íðàâèòüñÿ äðóãèì è ïðîâîäèò áîëüøóþ ÷àñòü âðåìåíè â êîìïàíèè ëþäåé.;;x
+strategist;Strategist;;;;;;;;;;;Ñòðàòåã;;x
+strategist_desc;This [GetGirlWomanBoyMan] loves planning campaigns and analyzing the current state of affairs.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ëþáèò ïëàíèðîâàòü êàìïàíèè è àíàëèçèðîâàòü òåêóùåå ïîëîæåíèå äåë.;;x
+stressed;Stressed;;;;;;;;;;;Â ñòðåññå;;x
+stressed_death;of severe stress;;;;;;;;;;;îò ñèëüíîãî ñòðåññà;;x
+stressed_desc;This [GetGirlWomanBoyMan] finds the burdens of work and life almost too much to handle.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñ÷èòàåò áðåìÿ ñâîèõ ïðîáëåì è äàæå æèçíè ïî÷òè íåâûíîñèìûì.;;x
+strong;Strong;;;;;;;;;;;Ñèëüí[_ûé];;x
+strong_desc;This [GetGirlWomanBoyMan] is blessed with a powerful physique.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] íàäåëåí[_] ìîùíûì òåëîñëîæåíèåì.;;x
+stubborn;Stubborn;;;;;;;;;;;Óïðÿì[_ûé];;x
+stubborn_desc;This [GetGirlWomanBoyMan] is stubborn as a mule.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] óïðÿì[_], êàê îñ¸ë.;;x
+sturdy;Sturdy;;;;;;;;;;;Óïèòàíí[_ûé];;x
+sturdy_desc;This [GetGirlWomanBoyMan] is physically sturdy.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ÿâíî íå èñïûòûâàåò íåäîñòàòêà â åäå.;;x
+stutter;Stutter;;;;;;;;;;;Çàèêà;;x
+stutter_desc;This [GetGirlWomanBoyMan] is a stutterer. It hampers [GetHerHis] ability to communicate effectively with others.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] - çàèêàåòñÿ, ÷òî ìåøàåò [_åãî] ñïîñîáíîñòè ê ýôôåêòèâíîìó îáùåíèþ.;;x
+sun_warrior;Warrior of the Sun;;;;;;;;;;;Âîèí Ñîëíöà;;x
+sun_warrior_desc;The Warriors of the Sun strike with all the fiery power of Zun Himself.;;;;;;;;;;;Âîèíû Ñîëíöà ñðàæàþòñÿ ñ íåèñòîâîé ñèëîé ñàìîãî Çóíà.;;x
+svetambara_jain;Svetambara [jain.GetName];;;;;;;;;;;Ñâåòàìáàðñê[_èé] [_äæàéíèñò][__];;x
+svetambara_jain_desc;This [GetGirlWomanBoyMan] follows the Svetambara branch of [jain.GetName]ism.;;;;;;;;;;;Èñïîâåäóåò ñâåòàìáàðñêóþ âåòâü [GetJainismName]à.;;x
+sympathy_christendom;Sympathy for [christian.GetGroupName] religions;;;;;;;;;;;Ñèìïàòèçèðóåò [_õðèñòèàíñòâó];;x
+sympathy_christendom_desc;This [GetGirlWomanBoyMan], though not a [christian.GetGroupName], has a special sympathy and understanding for the [christian.GetGroupName] faith and its practitioners.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] - íå [GetChristianGroupAdj][__èí], íî ïèòàåò îñîáóþ ñèìïàòèþ ê [_õðèñòèàíñòâó] è òåì, êòî åãî èñïîâåäóåò.;;x
+sympathy_indian;Sympathy for [indian_group.GetGroupName] religions;;;;;;;;;;;Ñèìïàòèçèðóåò [_âîñòî÷íûì] ðåëèãèÿì;;x
+sympathy_indian_desc;This [GetGirlWomanBoyMan], though neither [hindu.GetName], [buddhist.GetName], [jain.GetName] or [taoist.GetName], has a special sympathy and understanding for the [indian_group.GetGroupName] faiths and their practitioners.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ëþáèò è ïîíèìàåò öåííîñòè [_áóääèñò]îâ, [_èíäóèñò]îâ, [_äæàéí]îâ è [_äàîñ]îâ.;;x
+sympathy_islam;Sympathy for [muslim.GetGroupName] religions;;;;;;;;;;;Ñèìïàòèçèðóåò [_èñëàìó];;x
+sympathy_islam_desc;This [GetGirlWomanBoyMan], though not a [muslim.GetGroupName], has a special sympathy and understanding for the [muslim.GetGroupName] faith and its practitioners.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] - íå [GetMuslimGroupAdj][__èí], íî ïèòàåò îñîáóþ ñèìïàòèþ ê [_èñëàìó] è òåì, êòî åãî èñïîâåäóåò.;;x
+sympathy_judaism;Sympathy for [jewish.GetName] religions;;;;;;;;;;;Ñèìïàòèçèðóåò [_èóäàèçìó];;x
+sympathy_judaism_desc;This [GetGirlWomanBoyMan], though not [jewish.GetName], has a special sympathy and understanding for the [jewish.GetName] faith and its practitioners.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] - íå [_èóäåé][GetEndKa], íî ïèòàåò îñîáóþ ñèìïàòèþ ê [_èóäàèçìó] è òåì, êòî åãî èñïîâåäóåò.;;x
+sympathy_pagans;Sympathy for [pagan_group.GetGroupName] religions;;;;;;;;;;;Ñèìïàòèçèðóåò [_ÿçû÷åñòâó];;x
+sympathy_pagans_desc;This [GetGirlWomanBoyMan], though not a [pagan_group.GetGroupName], has a special sympathy and understanding for the [pagan_group.GetGroupName] faiths and their practitioners.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] - íå [_ÿçû÷íè][__ê], íî ïèòàåò îñîáóþ ñèìïàòèþ ê [_ÿçû÷åñòâó] è òåì, êòî åãî èñïîâåäóåò.;;x
+sympathy_zoroastrianism;Sympathy for [zoroastrian_group.GetGroupName] religions;;;;;;;;;;;Ñèìïàòèçèðóåò [_ìàçäåèçìó];;x
+sympathy_zoroastrianism_desc;This [GetGirlWomanBoyMan], though not a [zoroastrian.GetName], has a special sympathy and understanding for the [zoroastrian_group.GetGroupName] faith and its practitioners.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] - íå [_îãíåïîêëîííè][__ê], íî ïèòàåò îñîáóþ ñèìïàòèþ ê [_çîðîàñòðèçìó] è ðîäñòâåííûì åìó ðåëèãèÿì, à òàêæå ê òåì êòî èõ èñïîâåäóåò.;;x
+temperate;Temperate;;;;;;;;;;;Óìåðåíí[_ûé];;x
+temperate_desc;This [GetGirlWomanBoyMan] believes in the virtue of 'Temperantia', moderation - a valuable trait in rulers and Stewards.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] âåðèò â äîáðîäåòåëü óìåðåííîñòè. Ýòî öåííàÿ ÷åðòà äëÿ ïðàâèòåëåé è óïðàâëÿþùèõ.;;x
+tengri_leader;Marauder;;;;;;;;;;;Ñòåïí[__îé] íàë¸ò÷è[_ê];;x
+tengri_leader_desc;This [GetGirlWomanBoyMan] possesses great ability as a rider, thundering across the steppes.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] - ïðåâîñõîäí[_ûé] âñàäíè[_ê], ðàññåêàþù[_èé] ïðîñòîðû ñòåïè.;;x
+theologian;Theologian;;;;;;;;;;;Òåîëîã;;x
+theologian_desc;This [GetGirlWomanBoyMan] is dedicating [GetHerHis] life to religious studies.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ïîñâÿòèë[_] ñâîþ æèçíü ðåëèãèîçíûì èçûñêàíèÿì.;;x
+theravada_buddhist;Theravada [buddhist.GetName];;;;;;;;;;;Òõåðàâàäñê[_èé] [_áóääèñò][__];;x
+theravada_buddhist_desc;This [GetGirlWomanBoyMan] follows the Theravada branch of the [buddhist.GetName] faith.;;;;;;;;;;;Èñïîâåäóåò òõåðàâàäñêóþ âåòâü [GetBuddhismName]à;;x
+thrifty_clerk;Thrifty Clerk;;;;;;;;;;;Áåðåæëèâ[_ûé] ÷èíîâíè[_ê];;x
+thrifty_clerk_desc;The Thrifty Clerk is a dutiful, if not particularly skilled, administrator.;;;;;;;;;;;Èñïîëíèòåë[__åí], íî íå îñîáî òàëàíòëèâ[_] â óïðàâëåíèè.;;x
+timid;Timid;;;;;;;;;;;Ðîáê[_èé];;x
+timid_desc;This [GetBoyGirl] is shy and quiet and usually avoids open conflicts. Can develop into: §YHumble§!, §YShy§! or §YCraven§!.;;;;;;;;;;;Ýò[_îò] òèõ[_èé] è ñêðîìí[_ûé] [__ðåá¸íîê] îáû÷íî èçáåãàåò îòêðûòûõ êîíôëèêòîâ. Ìîæåò âûðàñòè: §Yñêðîìí[_ûì]§!, §Yçàñòåí÷èâ[_ûì]§! èëè §Yòðóñîì§!.;;x
+tough_soldier;Tough Soldier;;;;;;;;;;;Çàêàë¸íí[_ûé] âîÿêà;;x
+tough_soldier_desc;The Tough Soldier is fearsome on the battlefield, but only a mediocre commander.;;;;;;;;;;;Çàêàë¸íí[_ûé] âîÿêà ñòðàø[_åí] íà ïîëå áîÿ, íî ïîñðåäñòâåí[_åí] â ðîëè êîìàíäèðà.;;x
+travelling;On a Journey;;;;;;;;;;;Ïóòåøåñòâóåò;;x
+travelling_desc;This [GetGirlWomanBoyMan] is traveling far away from court.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ïóòåøåñòâóåò è ñåé÷àñ âäàëè îò ñâîåãî äîìà.;;x
+tribal_kinslayer;Tribal Kinslayer;;;;;;;;;;;Óáèéöà ñîïëåìåííèêîâ;;x
+tribal_kinslayer_desc;This [GetGirlWomanBoyMan] is known to have slain a member of [GetHerHis] family – people around [This.GetHerHim] both admire and fear [This.GetHerHim] for it.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] óáèë[_] ÷ëåíà ñâîåé ñåìüè. Îêðóæàþùèå âîñõèùàþòñÿ [__èì] è áîÿòñÿ [_åãî].;;x
+trickster;Trickster;;;;;;;;;;;Íåïðåäñêàçóåìûé êîìàíäèð;;x
+trickster_desc;This [GetGirlWomanBoyMan] is known to be an unpredictable element on the battlefield. The enemy won't see it coming, and neither will you!;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] óìååò ââîäèòü âðàãà â çàáëóæäåíèå, è ÷àñòî ïðîâîäèò îòâëåêàþùóþ àòàêó ñ îäíîé ñòîðîíû òîëüêî äëÿ òîãî, ÷òîáû âíåçàïíî àòàêîâàòü ñ äðóãîé. Íà ïîëå áîÿ îí[_] ïîëíîñòüþ íåïðåäñêàçóåì[_].;;x
+troubled_pregnancy;Troubled Pregnancy;;;;;;;;;;;Ñòðàäàåò îò îñëîæíåíèé ïðè áåðåìåííîñòè;;x
+troubled_pregnancy_death;died during labor.;;;;;;;;;;;ïðè ðîäàõ.;;x
+troubled_pregnancy_desc;This woman is going through or has recently gone through a particularly troubled pregnancy, leaving her weakened and feverish in her bed and unable to do much.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñòàë[_] æåðòâîé îñëîæíåíèé ïðè òÿæ¸ëîé áåðåìåííîñòè, ÷òî âûðàæàåòñÿ â îáùåé ñëàáîñòè è âûíóæäåííîì ïîñòåëüíîì ðåæèìå.;;x
+trusting;Trusting;;;;;;;;;;;Äîâåð÷èâ[_ûé];;x
+trusting_desc;Trusting characters make poor spymasters, but good friends.;;;;;;;;;;;Èç äîâåð÷èâûõ ëþäåé âûõîäÿò ïëîõèå èíòðèãàíû, íî õîðîøèå äðóçüÿ.;;x
+twin;Twin;;;;;;;;;;;Áëèçíåö;;x
+twin_desc;This [GetGirlWomanBoyMan] had the fortune of being born with a twin. Twins like each other better.;;;;;;;;;;;Ýòîìó ïåðñîíàæó ïîâåçëî, âåäü îí èìååò áëèçíåöà. Áëèçíåöû îòíîñÿòñÿ äðóã ê äðóãó ëó÷øå.;;x
+ugly;Ugly;;;;;;;;;;;Óðîäëèâ[_ûé];;x
+ugly_desc;This [GetGirlWomanBoyMan] has a face that brings a tear to the eye...;;;;;;;;;;;Ó ýò[__îãî] [__ïåðñîíàæà] òàêîå îòâðàòèòåëüíîå ëèöî, ÷òî íåâîçìîæíî ñìîòðåòü íà í[_åãî] áåç ñë¸ç.;;x
+ukkos_hammer;Ukko's Hammer;;;;;;;;;;;Ìîëîò Óêêî;;x
+ukkos_hammer_desc;Striking like the lightning of Ukko, this [GetGirlWomanBoyMan] has fought for the Suomenusko faith.;;;;;;;;;;;Ñòðåìèòåëüíî, ïîäîáíî ìîëíèè Óêêî, ýòîò âîèí ñðàæàåòñÿ çà ôèíñêóþ âåðó.;;x
+uncouth;Uncouth;;;;;;;;;;;Íåðÿõà;;x
+uncouth_desc;Grooming and personal care are not exactly priorities for this [GetGirlWomanBoyMan].;;;;;;;;;;;Çàáîòà î âíåøíåì âèäå è ëè÷íàÿ ãèãèåíà íå ÿâëÿþòñÿ ïðèîðèòåòàìè äëÿ ýò[__îãî] [__ïåðñîíàæà].;;x
+uncrowned;Uncrowned;;;;;;;;;;;Íåêîðîíîâàí[_];;x
+uncrowned_desc;This ruler died before [GetSheHe] could even receive [GetHerHis] crown, a most shameful display.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] óìåð[__] òàê è íå áóäó÷è êîðîíîâàíí[_ûì]. Êàêàÿ æàëîñòü...;;x
+underhanded_rogue;Underhanded Rogue;;;;;;;;;;;Çàêóëèñí[_ûé] íåãîäÿé[__];;x
+underhanded_rogue_desc;The Underhanded Rogue is a rough but decently effective diplomat.;;;;;;;;;;;Çàêóëèñíûå íåãîäÿè, êîíå÷íî, ïîäëåöû, íî äîñòàòî÷íî õîðîøèå äèïëîìàòû.;;x
+unyielding_leader;Unyielding Leader;;;;;;;;;;;Óïîðí[_ûé];;x
+unyielding_leader_desc;This [GetGirlWomanBoyMan] will stubbornly fight to his last breath, compelling his men to do the same while refusing to yield an inch.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] áóäåò óïîðíî ñðàæàòüñÿ äî ïîñëåäíåé êàïëè êðîâè, âäîõíîâëÿÿ ñâîèõ ëþäåé ïîñòóïàòü òàêæå, îòêàçûâàÿñü îòäàòü âðàãó õîòÿ áû ïÿäü çåìëè.;;x
+vaishnavist_hindu;Vaishnavist;;;;;;;;;;;Âèøíóèñò[__];;x
+vaishnavist_hindu_desc;This [GetGirlWomanBoyMan] follows the Vaishnavist branch of [hindu.GetName]ism.;;;;;;;;;;;Èñïîâåäóåò âèøíóèñòñêóþ âåòâü [GetHinduismName]à.;;x
+vaishya;Vaishya;;;;;;;;;;;Âàéøüÿ;;x
+vaishya_desc;[GetVaishyaDesc];;;;;;;;;;;[GetVaishyaDesc];;x
+vajrayana_buddhist;Vajrayana [buddhist.GetName];;;;;;;;;;;Âàäæðàÿíñê[_èé] [_áóääèñò][__];;x
+vajrayana_buddhist_desc;This [GetGirlWomanBoyMan] follows the Vajrayana branch of the [buddhist.GetName] faith.;;;;;;;;;;;Èñïîâåäóåò âàäæðàÿíñêóþ âåòâü [GetBuddhismName]à;;x
+valhalla_bound;Valhalla Bound;;;;;;;;;;;Áóäåò â Âàëüõàëëå;;x
+valhalla_bound_desc;By winning great victories for the Norse faith this [GetGirlWomanBoyMan] is assured a place at Odin's table in Valhalla!;;;;;;;;;;;Ìíîæåñòâî âåëèêèõ ïîáåä ýò[__îãî] [__ïåðñîíàæà] âî ñëàâó Îäèíà îòêðûâàþò å[_ìó] ïóòü â Âàëüõàëëó!;;x
+varangian;Varangian;;;;;;;;;;;Âàðÿã;;x
+varangian_desc;This [GetGirlWomanBoyMan] is a veteran of the Varangian Guard.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] - âåòåðàí Âàðÿæñêîé ãâàðäèè.;;x
+viking;Viking;;;;;;;;;;;Âèêèíã;;x
+viking_desc;This [GetGirlWomanBoyMan] has earned a reputation as a fearsome Viking raider.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] çàðàáîòàë[_] ðåïóòàöèþ óæàñíîãî Âèêèíãà-ðàçîðèòåëÿ;;x
+vomiting;Vomiting;;;;;;;;;;;Ñòðàäàåò îò ðâîòû;;x
+vomiting_death;explosively vomiting;;;;;;;;;;;îò êðîâàâîé ðâîòû;;x
+vomiting_desc;This [GetGirlWomanBoyMan] is vomiting periodically - inability to keep food and drink down will drain [GetHerHis] energy.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñòðàäàåò îò ïåðèîäè÷åñêîé ðâîòû, ÷òî ïðåïÿòñòâóåò óñâîåíèþ ïèùè è âîäû, îñëàáëÿÿ îðãàíèçì.;;x
+war_elephant_leader;War Elephant Leader;;;;;;;;;;;Ìàñòåð áîåâûõ ñëîíîâ;;x
+war_elephant_leader_desc;This [GetGirlWomanBoyMan] has mastered the tactical use of war elephants in battle.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] îâëàäåë[_] òàêòèêîé èñïîëüçîâàíèÿ áîåâûõ ñëîíîâ.;;x
+weak;Weak;;;;;;;;;;;Ñëàá[_ûé];;x
+weak_death;of poor physique;;;;;;;;;;;îò íåìîùè;;x
+weak_desc;This [GetGirlWomanBoyMan] has been cursed with a weak physique.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ñëàá[_] îò ðîæäåíèÿ.;;x
+west_african_leader;Spirit Warrior;;;;;;;;;;;Äóõîâíûé âîèí;;x
+west_african_leader_desc;This [GetGirlWomanBoyMan] is accustomed to fighting in the desert and traveling light.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ïðèâûê[__] ñðàæàòüñÿ â ïóñòûíå è ïóòåøåñòâîâàòü íàëåãêå.;;x
+willful;Willful;;;;;;;;;;;Âîëåâ[__îé];;x
+willful_desc;This [GetBoyGirl] is stubborn and strong-willed, and doesn't obey or give way easily. Can develop into: §YAmbitious§!, §YBrave§! or §YStubborn§!.;;;;;;;;;;;Ó ýò[__îãî] [__ðåá¸íêà] ñèëüíûé õàðàêòåð, [_åãî] íåëåãêî ïîä÷èíèòü èëè ñáèòü ñ ïóòè. Ìîæåò âûðàñòè: §Yàìáèöèîçí[_ûì]§!, §Yõðàáð[_ûì]§! èëè §Yóïðÿì[_ûì]§!.;;x
+winter_soldier;Winter Soldier;;;;;;;;;;;Çèìíèé âîèí;;x
+winter_soldier_desc;This [GetGirlWomanBoyMan] has mastered the art of fighting during winter and knows how to turn the fierce elements into an advantage.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] îâëàäåë[_] èñêóññòâîì âåäåíèÿ áîÿ â óñëîâèÿõ çèìû è çíàåò, êàê ïðèìåíèòü å¸ ñóðîâûå ÷åðòû ñ ïîëüçîé;;x
+wounded;Wounded;;;;;;;;;;;Ðàíåí[_ûé];;x
+wounded_death;of an infected wound;;;;;;;;;;;îò çàðàæåíèÿ ðàíû;;x
+wounded_desc;This [GetGirlWomanBoyMan] has been seriously injured, but the damage should heal, given time.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] áûë[_] ñåðü¸çíî ðàíåí[_], íî ñî âðåìåíåì ïîïðàâèòñÿ.;;x
+wroth;Wroth;;;;;;;;;;;Ãíåâí[_ûé];;x
+wroth_desc;The fifth deadly sin is Wrath, 'Ira', and this [GetGirlWomanBoyMan] certainly has a hot temper.;;;;;;;;;;;Ãíåâ - ïÿòûé ñìåðòíûé ãðåõ, à ýò[_îò] [__ïåðñîíàæ], áåçóñëîâíî, îáëàäàåò î÷åíü âñïûëü÷èâûì õàðàêòåðîì.;;x
+zealous;Zealous;;;;;;;;;;;Íàáîæí[_ûé];;x
+zealous_desc;This [GetGirlWomanBoyMan] burns with religious fervor and cannot tolerate heretics, infidels, or heathens.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] âåñüìà ðåëèãèîç[_åí] è òåðïåòü íå ìîæåò åðåòèêîâ, íåâåðíûõ è ÿçû÷íèêîâ.;;x
+zodiac_aquarius;Aquarius;;;;;;;;;;;Âîäîëåé;;x
+zodiac_aquarius_desc;This [GetGirlWomanBoyMan] was born under the sign of Aquarius, which is commonly associated with introversion and eccentricity.\nOriginally developed by the Babylonians, Astrology was later adopted by the Greeks and Romans of ancient times. While a fairly well-established science, its popularity always tended to wane and rise periodically.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ðîæäåí[_] ïîä çíàêîì Âîäîëåÿ, ÷òî îáû÷íî îòîæäåñòâëÿþò ñ ýêñòðàâåðñèåé è ýêñöåíòðè÷íîñòüþ.\nÑ÷èòàåòñÿ, ÷òî àñòðîëîãèÿ ïîÿâèëàñü â äðåâíåì Âàâèëîíå, à ïîòîì áûëà ðàçâèòà ãðåêàìè è ðèìëÿíàìè. Êàê íàóêà îíà âðåìÿ îò âðåìåíè îáðåòàåò ïîïóëÿðíîñòü ñðåäè øèðîêèõ ìàññ íàñåëåíèÿ.;;x
+zodiac_aries;Aries;;;;;;;;;;;Îâåí;;x
+zodiac_aries_desc;This [GetGirlWomanBoyMan] was born under the sign of Aries, which is commonly associated with fierceness and honesty.\nOriginally developed by the Babylonians, Astrology was later adopted by the Greeks and Romans of ancient times. While a fairly well-established science, its popularity always tended to wane and rise periodically.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ðîæäåí[_] ïîä çíàêîì Îâíà, ÷òî îáû÷íî îòîæäåñòâëÿþò ñ áóéíûì íðàâîì è ÷åñòíîñòüþ.\nÑ÷èòàåòñÿ, ÷òî àñòðîëîãèÿ ïîÿâèëàñü â äðåâíåì Âàâèëîíå, à ïîòîì áûëà ðàçâèòà ãðåêàìè è ðèìëÿíàìè. Êàê íàóêà îíà âðåìÿ îò âðåìåíè îáðåòàåò ïîïóëÿðíîñòü ñðåäè øèðîêèõ ìàññ íàñåëåíèÿ.;;x
+zodiac_cancer;Cancer;;;;;;;;;;;Ðàê;;x
+zodiac_cancer_desc;This [GetGirlWomanBoyMan] was born under the sign of Cancer, which is commonly associated with tenacity and introspection.\nOriginally developed by the Babylonians, Astrology was later adopted by the Greeks and Romans of ancient times. While a fairly well-established science, its popularity always tended to wane and rise periodically.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ðîæäåí[_] ïîä çíàêîì Ðàêà, ÷òî îáû÷íî îòîæäåñòâëÿþò ñ èíòðîñïåêöèåé è óïîðñòâîì.\nÑ÷èòàåòñÿ, ÷òî àñòðîëîãèÿ ïîÿâèëàñü â äðåâíåì Âàâèëîíå, à ïîòîì áûëà ðàçâèòà ãðåêàìè è ðèìëÿíàìè. Êàê íàóêà îíà âðåìÿ îò âðåìåíè îáðåòàåò ïîïóëÿðíîñòü ñðåäè øèðîêèõ ìàññ íàñåëåíèÿ.;;x
+zodiac_capricorn;Capricorn;;;;;;;;;;;Êîçåðîã;;x
+zodiac_capricorn_desc;This [GetGirlWomanBoyMan] was born under the sign of Capricorn, which is commonly associated with curiosity and steadiness.\nOriginally developed by the Babylonians, Astrology was later adopted by the Greeks and Romans of ancient times. While a fairly well-established science, its popularity always tended to wane and rise periodically.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ðîæäåí[_] ïîä çíàêîì Êîçåðîãà, ÷òî îáû÷íî îòîæäåñòâëÿþò ñ ëþáîïûòñòâîì è íåïðåêëîííîñòüþ.\nÑ÷èòàåòñÿ, ÷òî àñòðîëîãèÿ ïîÿâèëàñü â äðåâíåì Âàâèëîíå, à ïîòîì áûëà ðàçâèòà ãðåêàìè è ðèìëÿíàìè. Êàê íàóêà îíà âðåìÿ îò âðåìåíè îáðåòàåò ïîïóëÿðíîñòü ñðåäè øèðîêèõ ìàññ íàñåëåíèÿ.;;x
+zodiac_gemini;Gemini;;;;;;;;;;;Áëèçíåöû;;x
+zodiac_gemini_desc;This [GetGirlWomanBoyMan] was born under the sign of Gemini, which is commonly associated with versatility and fickleness.\nOriginally developed by the Babylonians, Astrology was later adopted by the Greeks and Romans of ancient times. While a fairly well-established science, its popularity always tended to wane and rise periodically.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ðîæäåí[_] ïîä çíàêîì Áëèçíåöîâ, ÷òî îáû÷íî îòîæäåñòâëÿþò ñ ãèáêîñòüþ è íåïîñòîÿíñòâîì.\nÑ÷èòàåòñÿ, ÷òî àñòðîëîãèÿ ïîÿâèëàñü â äðåâíåì Âàâèëîíå, à ïîòîì áûëà ðàçâèòà ãðåêàìè è ðèìëÿíàìè. Êàê íàóêà îíà âðåìÿ îò âðåìåíè îáðåòàåò ïîïóëÿðíîñòü ñðåäè øèðîêèõ ìàññ íàñåëåíèÿ.;;x
+zodiac_leo;Leo;;;;;;;;;;;Ëåâ;;x
+zodiac_leo_desc;This [GetGirlWomanBoyMan] was born under the sign of Leo, which is commonly associated with fervor and pride.\nOriginally developed by the Babylonians, Astrology was later adopted by the Greeks and Romans of ancient times. While a fairly well-established science, its popularity always tended to wane and rise periodically.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ðîæäåí[_] ïîä çíàêîì Ëüâà, ÷òî îáû÷íî îòîæäåñòâëÿþò ñ ïûëêèì íðàâîì è ãîðäîñòüþ.\nÑ÷èòàåòñÿ, ÷òî àñòðîëîãèÿ ïîÿâèëàñü â äðåâíåì Âàâèëîíå, à ïîòîì áûëà ðàçâèòà ãðåêàìè è ðèìëÿíàìè. Êàê íàóêà îíà âðåìÿ îò âðåìåíè îáðåòàåò ïîïóëÿðíîñòü ñðåäè øèðîêèõ ìàññ íàñåëåíèÿ.;;x
+zodiac_libra;Libra;;;;;;;;;;;Âåñû;;x
+zodiac_libra_desc;This [GetGirlWomanBoyMan] was born under the sign of Libra, which is commonly associated with fairness and moderation.\nOriginally developed by the Babylonians, Astrology was later adopted by the Greeks and Romans of ancient times. While a fairly well-established science, its popularity always tended to wane and rise periodically.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ðîæäåí[_] ïîä çíàêîì Âåñîâ, ÷òî îáû÷íî îòîæäåñòâëÿþò ñ óìåðåííîñòüþ è ñïðàâåäëèâîñòüþ.\nÑ÷èòàåòñÿ, ÷òî àñòðîëîãèÿ ïîÿâèëàñü â äðåâíåì Âàâèëîíå, à ïîòîì áûëà ðàçâèòà ãðåêàìè è ðèìëÿíàìè. Êàê íàóêà îíà âðåìÿ îò âðåìåíè îáðåòàåò ïîïóëÿðíîñòü ñðåäè øèðîêèõ ìàññ íàñåëåíèÿ.;;x
+zodiac_pisces;Pisces;;;;;;;;;;;Ðûáû;;x
+zodiac_pisces_desc;This [GetGirlWomanBoyMan] was born under the sign of Pisces, which is commonly associated with introversion and compassion.\nOriginally developed by the Babylonians, Astrology was later adopted by the Greeks and Romans of ancient times. While a fairly well-established science, its popularity always tended to wane and rise periodically.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ðîæäåí[_] ïîä çíàêîì Ðûá, ÷òî îáû÷íî îòîæäåñòâëÿþò ñ èíòðîâåðñèåé è ñî÷óâñòâèåì.\nÑ÷èòàåòñÿ, ÷òî àñòðîëîãèÿ ïîÿâèëàñü â äðåâíåì Âàâèëîíå, à ïîòîì áûëà ðàçâèòà ãðåêàìè è ðèìëÿíàìè. Êàê íàóêà îíà âðåìÿ îò âðåìåíè îáðåòàåò ïîïóëÿðíîñòü ñðåäè øèðîêèõ ìàññ íàñåëåíèÿ.;;x
+zodiac_sagittarius;Sagittarius;;;;;;;;;;;Ñòðåëåö;;x
+zodiac_sagittarius_desc;This [GetGirlWomanBoyMan] was born under the sign of Sagittarius, which is commonly associated with dynamism and charisma.\nOriginally developed by the Babylonians, Astrology was later adopted by the Greeks and Romans of ancient times. While a fairly well-established science, its popularity always tended to wane and rise periodically.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ðîæäåí[_] ïîä çíàêîì Ñòðåëüöà, ÷òî îáû÷íî îòîæäåñòâëÿþò ñ ïîäâèæíîñòüþ è õàðèçìîé.\nÑ÷èòàåòñÿ, ÷òî àñòðîëîãèÿ ïîÿâèëàñü â äðåâíåì Âàâèëîíå, à ïîòîì áûëà ðàçâèòà ãðåêàìè è ðèìëÿíàìè. Êàê íàóêà îíà âðåìÿ îò âðåìåíè îáðåòàåò ïîïóëÿðíîñòü ñðåäè øèðîêèõ ìàññ íàñåëåíèÿ.;;x
+zodiac_scorpio;Scorpio;;;;;;;;;;;Ñêîðïèîí;;x
+zodiac_scorpio_desc;This [GetGirlWomanBoyMan] was born under the sign of Scorpio, which is commonly associated with secretiveness and stubbornness.\nOriginally developed by the Babylonians, Astrology was later adopted by the Greeks and Romans of ancient times. While a fairly well-established science, its popularity always tended to wane and rise periodically.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ðîæäåí[_] ïîä çíàêîì Ñêîðïèîíà, ÷òî îáû÷íî îòîæäåñòâëÿþò ñ óïðÿìñòâîì è ñêðûòíîñòüþ.\nÑ÷èòàåòñÿ, ÷òî àñòðîëîãèÿ ïîÿâèëàñü â äðåâíåì Âàâèëîíå, à ïîòîì áûëà ðàçâèòà ãðåêàìè è ðèìëÿíàìè. Êàê íàóêà îíà âðåìÿ îò âðåìåíè îáðåòàåò ïîïóëÿðíîñòü ñðåäè øèðîêèõ ìàññ íàñåëåíèÿ.;;x
+zodiac_taurus;Taurus;;;;;;;;;;;Òåëåö;;x
+zodiac_taurus_desc;This [GetGirlWomanBoyMan] was born under the sign of Taurus, which is commonly associated with perseverance and determination.\nOriginally developed by the Babylonians, Astrology was later adopted by the Greeks and Romans of ancient times. While a fairly well-established science, its popularity always tended to wane and rise periodically.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ðîæäåí[_] ïîä çíàêîì Òåëüöà, ÷òî îáû÷íî îòîæäåñòâëÿþò ñ íàñòîé÷èâîñòüþ è ðåøèòåëüíîñòüþ.\nÑ÷èòàåòñÿ, ÷òî àñòðîëîãèÿ ïîÿâèëàñü â äðåâíåì Âàâèëîíå, à ïîòîì áûëà ðàçâèòà ãðåêàìè è ðèìëÿíàìè. Êàê íàóêà îíà âðåìÿ îò âðåìåíè îáðåòàåò ïîïóëÿðíîñòü ñðåäè øèðîêèõ ìàññ íàñåëåíèÿ.;;x
+zodiac_virgo;Virgo;;;;;;;;;;;Äåâà;;x
+zodiac_virgo_desc;This [GetGirlWomanBoyMan] was born under the sign of Virgo, which is commonly associated with diligence and humility.\nOriginally developed by the Babylonians, Astrology was later adopted by the Greeks and Romans of ancient times. While a fairly well-established science, its popularity always tended to wane and rise periodically.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ðîæäåí[_] ïîä çíàêîì Äåâû, ÷òî îáû÷íî îòîæäåñòâëÿþò ñ ïðèëåæíîñòüþ è ñêðîìíîñòüþ.\nÑ÷èòàåòñÿ, ÷òî àñòðîëîãèÿ ïîÿâèëàñü â äðåâíåì Âàâèëîíå, à ïîòîì áûëà ðàçâèòà ãðåêàìè è ðèìëÿíàìè. Êàê íàóêà îíà âðåìÿ îò âðåìåíè îáðåòàåò ïîïóëÿðíîñòü ñðåäè øèðîêèõ ìàññ íàñåëåíèÿ.;;x
+zun_leader;Scorcher;;;;;;;;;;;Âûæèãàòåëü[____];;x
+zun_leader_desc;This [GetGirlWomanBoyMan] works well with siege weapons and is fast on [GetHerHis] feet, easily traversing both mountain and desert.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] óìååò îáðàùàòüñÿ ñ îñàäíûìè îðóäèÿìè è ñïîñîá[_åí] áûñòðî ïåðåìåùàòüñÿ ÷åðåç ãîðû èëè ïî ïóñòûíå.;;x

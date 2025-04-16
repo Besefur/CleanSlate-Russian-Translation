@@ -1,99 +1,98 @@
-wonder_amphitheater;Grand Amphitheater;;;;;;;;;;;;;x
-wonder_amphitheater_colosseum;Colosseum;;;;;;;;;;;;;x
-wonder_amphitheater_colosseum_desc;The amphitheater has seen many uses throughout the centuries, including gladiatorial and animal fights, and later even serving as market stalls for city merchants.;;;;;;;;;;;;;x
-wonder_amphitheater_construction_desc;An epitome of popular culture, it serves to entertain with great spectacles, lowering the revolt risk. It can also allow for the recruitment of specially trained individuals.;;;;;;;;;;;;;x
-wonder_amphitheater_desc;The epitome of high culture, the amphitheater is a unique attraction in the realm.;;;;;;;;;;;;;x
-wonder_apostolic_palace;Apostolic Palace;;;;;;;;;;;;;x
-wonder_apostolic_palace_desc;The palace of the Pope himself, sitting at the heart of Rome.;;;;;;;;;;;;;x
-wonder_aztec_pyramid;Aztec Pyramid;;;;;;;;;;;;;x
-wonder_aztec_pyramid_construction_desc;A testament to your §YPiety§! and §YPrestige§!, it can help  improve opinion of you, help protect your treasures, and can even be used for sacrifices to the Gods.;;;;;;;;;;;;;x
-wonder_aztec_pyramid_desc;The house of the Gods, an Aztec Pyramid is the holy place where messengers can be sent to the Them, by decapitating the victims' heads.;;;;;;;;;;;;;x
-wonder_cathedral;Grand Cathedral;;;;;;;;;;;;;x
-wonder_cathedral_construction_desc;A testament to the §YPiety§! and §YPrestige§! of its builder, it can be used to store relics, and in times of trouble its bells can even warn the people of danger.;;;;;;;;;;;;;x
-wonder_cathedral_desc;A testament to the piety of its builder, the church stretches to the sky.;;;;;;;;;;;;;x
-wonder_cathedral_hagia_sophia;Hagia Sophia;;;;;;;;;;;;;x
-wonder_cathedral_hagia_sophia_desc;This great church, the Shrine of the Holy Wisdom of God, is one of the world's largest buildings. It was finished in 562 AD[FromFrom.GetHagiaSophiaUse].;;;;;;;;;;;;;x
-wonder_cathedral_notre_dame;Notre Dame;;;;;;;;;;;;;x
-wonder_cathedral_notre_dame_desc;By many deemed integral to the silhouette of Paris, this grand Cathedral reminds the proud metropolitans of their heritage and accomplishments, while also inspiring hope for future endeavors.;;;;;;;;;;;;;x
-wonder_fortress;Grand Fortress;;;;;;;;;;;;;x
-wonder_fortress_construction_desc;An imposing construction, it will make the province much harder to conquer. Added Facilities can improve considerably the military capabilities of its owner.;;;;;;;;;;;;;x
-wonder_fortress_desc;The fortress is a safe-haven, a home away from home for many warriors.;;;;;;;;;;;;;x
-wonder_garden;Magnificent Garden;;;;;;;;;;;;;x
-wonder_garden_construction_desc;The garden will be a marvel of both science and beauty, and can help you with matters related to §YHealth§!, love life, or even intrigue.;;;;;;;;;;;;;x
-wonder_garden_desc;The garden is a marvel of both science and beauty.;;;;;;;;;;;;;x
-wonder_harbor;Great Harbor;;;;;;;;;;;;;x
-wonder_harbor_construction_desc;A Great Harbor with storehouses will dominate trade in the area, thus bringing revenues. It can also increase our maritime military capabilities, including in sieges.;;;;;;;;;;;;;x
-wonder_harbor_desc;Heavily trafficked, the magnificent Harbor is bringing both trade and tourism to the area.;;;;;;;;;;;;;x
-wonder_house_of_wisdom;House of Wisdom;;;;;;;;;;;;;x
-wonder_house_of_wisdom_desc;A grand library, housing much of the world's knowledge.;;;;;;;;;;;;;x
-wonder_library;Great Library;;;;;;;;;;;;;x
-wonder_library_construction_desc;A place to collect, store and reproduce the great written works, it will allow you to find and use many books.;;;;;;;;;;;;;x
-wonder_library_desc;Books are precious, as the knowledge of things past and new are written in their pages. This beacon of knowledge will have capacity to store thousands of books, and will have reading facilities.;;;;;;;;;;;;;x
-wonder_lighthouse;Great Lighthouse;;;;;;;;;;;;;x
-wonder_lighthouse_alexandria;Lighthouse of Alexandria;;;;;;;;;;;;;x
-wonder_lighthouse_alexandria_desc;For a long time the tallest building in the world, the lighthouse is an impressive construction visible from far away, while also serving its purpose, guiding ships into port.;;;;;;;;;;;;;x
-wonder_lighthouse_construction_desc;Illuminating the darkness and guiding ships to the safety of your port, the Lighthouse can increase trade and tax revenues. It can even be used as a place for you to rest.;;;;;;;;;;;;;x
-wonder_lighthouse_desc;A tall and visible landmark, the building lends a helping hand to sailors, guiding their ships into port at night.;;;;;;;;;;;;;x
-wonder_mausoleum;Grand Mausoleum;;;;;;;;;;;;;x
-wonder_mausoleum_construction_desc;A testament to the §YPrestige§! of its builder and their successors, it is a place to honor the dead. It can also be used to intimidate friends and foes alike.;;;;;;;;;;;;;x
-wonder_mausoleum_desc;A simple tomb is not enough for some rulers.;;;;;;;;;;;;;x
-wonder_mausoleum_halicarnassus;Mausoleum at Halicarnassus;;;;;;;;;;;;;x
-wonder_mausoleum_halicarnassus_desc;A giant above-ground tomb, constructed by Mausolus, a satrap in the Persian Empire, for himself and Artemisia II of Caria.;;;;;;;;;;;;;x
-wonder_mosque;Great Mosque;;;;;;;;;;;;;x
-wonder_mosque_construction_desc;A testament to the §YPiety§! and §YPrestige§! of its builder, it can help convert the infidels to the true faith, improve opinion, or even help protect the population from diseases.;;;;;;;;;;;;;x
-wonder_mosque_desc;This building is a testament to the piousness of its builder.;;;;;;;;;;;;;x
-wonder_pagan_stones;Great Stone Circle;;;;;;;;;;;;;x
-wonder_pagan_stones_construction_desc;A testament to your §YPiety§! and §YPrestige§!, it can also help  improve your subjects's opinion of you.;;;;;;;;;;;;;x
-wonder_pagan_stones_desc;Huge standing rocks are placed in a grand circle, with an opening towards the east, where the sun rises.;;;;;;;;;;;;;x
-wonder_pagan_stones_stonehenge;Stonehenge;;;;;;;;;;;;;x
-wonder_pagan_stones_stonehenge_desc;Some think the rocks were placed by gods. Others say it's pagan superstition, but refuse to go near them.;;;;;;;;;;;;;x
-wonder_palace;Royal Palace;;;;;;;;;;;;;x
-wonder_palace_construction_desc;A regal symbol of the Prestigious lineage of its builder, it can also be equipped with a number of facilities that help the builder with their love life or court intrigue.;;;;;;;;;;;;;x
-wonder_palace_desc;A regal symbol of the prestigious lineage of its builder, this palace is one of its kind.;;;;;;;;;;;;;x
-wonder_pyramid;Great Pyramid;;;;;;;;;;;;;x
-wonder_pyramid_construction_desc;A testament to your §YPiety§! and §YPrestige§!, it can help improve opinion of you and even help protect your treasures.;;;;;;;;;;;;;x
-wonder_pyramid_desc;"Build it taller!", was apparently the last words of its architect.;;;;;;;;;;;;;x
-wonder_pyramid_giza;Great Pyramid of Khufu;;;;;;;;;;;;;x
-wonder_pyramid_giza_desc;The strangely shaped pyramids have always been there.;;;;;;;;;;;;;x
-wonder_statue_horse;Statue of a Horse;;;;;;;;;;;;;x
-wonder_statue_horse_construction_desc;Immortalizing a horse in a grand statue is a testament to the §YPrestige§! of its builder and their successors, and can improve the opinion from horse loving vassals.;;;;;;;;;;;;;x
-wonder_statue_horse_desc;A grand statue of a majestic stallion!;;;;;;;;;;;;;x
-wonder_statue_ruler;Ruler Statue;;;;;;;;;;;;;x
-wonder_statue_ruler_construction_desc;Immortalizing a ruler in a grand statue is a testament to the §YPrestige§! of its builder and their successors, and can improve the opinion from your family and vassals.;;;;;;;;;;;;;x
-wonder_statue_ruler_desc;A ruler is immortalized in this grand statue.;;;;;;;;;;;;;x
-wonder_synagogue;Great Synagogue;;;;;;;;;;;;;x
-wonder_synagogue_construction_desc;A testament to the §YPiety§! and §YPrestige§! of its builder, it can also help improve opinion of you, the morale of the military forces, and reduce revolt risk.;;;;;;;;;;;;;x
-wonder_synagogue_desc;Anyone setting foot in the building will be reminded of the value of a religious community.;;;;;;;;;;;;;x
-wonder_temple_buddhist;Temple;;;;;;;;;;;;;x
-wonder_temple_buddhist_construction_desc;A testament to the §YKarma§! of its builder, it can be used to store relics, and in times of trouble its walls can protect the people from danger.;;;;;;;;;;;;;x
-wonder_temple_buddhist_desc;The temple is a holy building, a place of devotion and reflection.;;;;;;;;;;;;;x
-wonder_temple_hindu;Hindu Temple;;;;;;;;;;;;;x
-wonder_temple_hindu_construction_desc;A temple that symbolizes the house, seat and body of a God. It is a sign of its builder §YKarma§! and §YPrestige§!, and can also influence the opinion of some of your subjects.;;;;;;;;;;;;;x
-wonder_temple_hindu_desc;A temple that symbolizes the house, seat and body of a God.;;;;;;;;;;;;;x
-wonder_temple_hindu_konark;Konark Sun Temple;;;;;;;;;;;;;x
-wonder_temple_hindu_konark_desc;This temple was built in the form of a giant ornamented chariot dedicated to the Sun God, Surya.;;;;;;;;;;;;;x
-wonder_temple_pagan;Great Temple;;;;;;;;;;;;;x
-wonder_temple_pagan_construction_desc;A testament to the §YPrestige§! of its builder, the temple can improve your subjects' opinion of you, and lower revolt risk.;;;;;;;;;;;;;x
-wonder_temple_pagan_desc;The site of the temple is rumored to be the holiest ground in the realm.;;;;;;;;;;;;;x
-wonder_temple_solomon;Temple of Solomon;;;;;;;;;;;;;x
-wonder_temple_solomon_desc;A hill, deeply sacred to Jewish worshipers, as it is said to be the location of the ancient Temple of Solomon.;;;;;;;;;;;;;x
-wonder_underground_city;Great Underground City;;;;;;;;;;;;;x
-wonder_underground_city_construction_desc;Building an underground city can increase your intrigue capabilities and you can even find a precious metal deposit.;;;;;;;;;;;;;x
-wonder_underground_city_desc;Partially carved from the very rock it sits on, only its owner knows exactly how far these tunnels sprawl.;;;;;;;;;;;;;x
-wonder_underground_city_petra;Petra;;;;;;;;;;;;;x
-wonder_underground_city_petra_desc;The great desert city of Petra has existed for hundreds of years;;;;;;;;;;;;;x
-wonder_university;Grand University;;;;;;;;;;;;;x
-wonder_university_construction_desc;A great place of learning will help with §YCultural§! and other technological advances. The presence of so many learned persons can even increase your personal §YSkills§!.;;;;;;;;;;;;;x
-wonder_university_desc;A high seat of learning, famous throughout the realm.;;;;;;;;;;;;;x
-wonder_wall;Great Walls;;;;;;;;;;;;;x
-wonder_wall_construction_desc;The construction of massive city walls and other defensive structures will surely protect the province against besieging enemy armies.;;;;;;;;;;;;;x
-wonder_wall_desc;A mega-project, this is a construction of massive city walls.;;;;;;;;;;;;;x
-
+wonder_amphitheater;Grand Amphitheater;;;;;;;;;;;Âåëèêèé àìôèòåàòð;;x
+wonder_amphitheater_colosseum;Colosseum;;;;;;;;;;;Êîëèçåé;;x
+wonder_amphitheater_colosseum_desc;The amphitheater has seen many uses throughout the centuries, including gladiatorial and animal fights, and later even serving as market stalls for city merchants.;;;;;;;;;;;Íà ïðîòÿæåíèè âåêîâ àìôèòåàòð èìåë ìíîæåñòâî ïðèìåíåíèé, â òîì ÷èñëå ãëàäèàòîðñêèå áîè è ïðåäñòàâëåíèÿ ñ æèâîòíûìè, à ïîçæå äàæå ñëóæèë ðûíî÷íûìè êèîñêàìè äëÿ ãîðîäñêèõ òîðãîâöåâ.;;x
+wonder_amphitheater_construction_desc;An epitome of popular culture, it serves to entertain with great spectacles, lowering the revolt risk. It can also allow for the recruitment of specially trained individuals.;;;;;;;;;;;Àìôèòåàòð, ÿâëÿþùèéñÿ âîïëîùåíèåì ìàññîâîé êóëüòóðû, ñëóæèò äëÿ ïðîâåäåíèÿ âñåâîçìîæíûõ çðåëèù. Åãî ñòðîèòåëüñòâî ïðèíåñ¸ò âàì §Yïðåñòèæ§! è ñíèçèò ðèñê âîññòàíèé. Êðîìå òîãî, Âû ñìîæåòå íàíÿòü õîðîøî îáó÷åííûõ âîèíîâ.;;x
+wonder_amphitheater_desc;The epitome of high culture, the amphitheater is a unique attraction in the realm.;;;;;;;;;;;Ýòîò àìôèòåàòð ÿâëÿåòñÿ âîïëîùåíèåì âûñîêîé êóëüòóðû ñòðàíû.;;x
+wonder_apostolic_palace;Apostolic Palace;;;;;;;;;;;Àïîñòîëüñêèé äâîðåö;;x
+wonder_apostolic_palace_desc;The palace of the Pope himself, sitting at the heart of Rome.;;;;;;;;;;;Äâîðåö Ïàïû Ðèìñêîãî, ðàñïîëîæåííûé â ñàìîì ñåðäöå Ðèìà.;;x
+wonder_aztec_pyramid;Aztec Pyramid;;;;;;;;;;;Ïèðàìèäà àöòåêîâ;;x
+wonder_aztec_pyramid_construction_desc;A testament to your §YPiety§! and §YPrestige§!, it can help  improve opinion of you, help protect your treasures, and can even be used for sacrifices to the Gods.;;;;;;;;;;;ßâëÿÿñü âîïëîùåíèåì §Yáëàãî÷åñòèÿ§! è §Yïðåñòèæà§!, ýòî âåëèêîå ñîîðóæåíèå ìîæåò óëó÷øèòü îòíîøåíèå ê âàì, çàùèòèòü Âàøè ñîêðîâèùà, à òàêæå ïîñëóæèò ãëàâíûì ìåñòîì æåðòâîïðèíîøåíèé.;;x
+wonder_aztec_pyramid_desc;The house of the Gods, an Aztec Pyramid is the holy place where messengers can be sent to the Them, by decapitating the victims' heads.;;;;;;;;;;;Ýòà [àöòåê]ñêàÿ ïèðàìèäà - ñâÿòîå ìåñòî, äîì áîãîâ, â êîòîðîì ìîæíî îòïðàâèòü èì ïîñëàíèå, îáåçãëàâèâ æåðòâó.;;x
+wonder_cathedral;Grand Cathedral;;;;;;;;;;;Âåëèêèé ñîáîð;;x
+wonder_cathedral_construction_desc;A testament to the §YPiety§! and §YPrestige§! of its builder, it can be used to store relics, and in times of trouble its bells can even warn the people of danger.;;;;;;;;;;;Âîïëîùàÿ §Yáëàãî÷åñòèå§! è §Yïðåñòèæ§! ñâîåãî ñîçäàòåëÿ, ýòîò ñîáîð áóäåò õðàíèòü ñâÿùåííûå ðåëèêâèè, à â òðóäíûå âðåìåíà åãî êîëîêîëà ïðåäóïðåäÿò íàðîä îá îïàñíîñòè.;;x
+wonder_cathedral_desc;A testament to the piety of its builder, the church stretches to the sky.;;;;;;;;;;;Äàáû ïðîäåìîíòðèðîâàòü âñåì âåëè÷èå [_õðèñòèàíñòâà], áëàãî÷åñòèâ[FromFrom.OriginalOwner.GetAyaYy] [FromFrom.OriginalOwner.GetTitledFirstNameWithNick] ïîñòðîèë ýòîò ñîáîð âûñîòîþ äî íåáåñ.;;x
+wonder_cathedral_hagia_sophia;Hagia Sophia;;;;;;;;;;;Àéÿ-Ñîôèÿ;;x
+wonder_cathedral_hagia_sophia_desc;This great church, the Shrine of the Holy Wisdom of God, is one of the world's largest buildings. It was finished in 562 AD[FromFrom.GetHagiaSophiaUse].;;;;;;;;;;;Ýòîò âåëèêèé ñîáîð, Õðàì Ñâÿòîé Ìóäðîñòè Áîãà - îäíî èç êðóïíåéøèõ çäàíèé â ìèðå. Îíî áûëî çàêîí÷åíî â 562 ã. í.ý.[FromFrom.GetHagiaSophiaUse].;;x
+wonder_cathedral_notre_dame;Notre Dame;;;;;;;;;;;Ñîáîð Ïàðèæñêîé Áîãîìàòåðè;;x
+wonder_cathedral_notre_dame_desc;By many deemed integral to the silhouette of Paris, this grand Cathedral reminds the proud metropolitans of their heritage and accomplishments, while also inspiring hope for future endeavors.;;;;;;;;;;;Ìíîãèå ñ÷èòàþò ýòîò âåëè÷åñòâåííûé ñîáîð íåîòúåìëåìîé ÷àñòüþ îáëèêà Ïàðèæà. Îí íàïîìèíàåò ãîðäûì æèòåëÿì ñòîëèöû îá èõ äîñòèæåíèÿõ, íàñëåäèè, è âñåëÿåò â íèõ íàäåæäó íà ñâåòëîå áóäóùåå.;;x
+wonder_fortress;Grand Fortress;;;;;;;;;;;Âåëèêàÿ êðåïîñòü;;x
+wonder_fortress_construction_desc;An imposing construction, it will make the province much harder to conquer. Added Facilities can improve considerably the military capabilities of its owner.;;;;;;;;;;;Ýòî âíóøèòåëüíîå ñîîðóæåíèå âûçîâåò ñòðàõ â ñåðäöå ëþáîãî ïîòåíöèàëüíîãî âðàãà, ÷òî çíà÷èòåëüíî çàòðóäíèò çàâîåâàíèå ýòîãî îêðóãà. Äîïîëíèòåëüíûå êîíñòðóêöèè ìîãóò çíà÷èòåëüíî óëó÷øèòü âîåííûå âîçìîæíîñòè åãî îáëàäàòåëÿ.;;x
+wonder_fortress_desc;The fortress is a safe-haven, a home away from home for many warriors.;;;;;;;;;;;Ýòà êðåïîñòü ïîäíèìàåòñÿ èç ïîä çåìëè è ñëóæèò áàñòèîíîì áåçîïàñíîñòè.;;x
+wonder_garden;Magnificent Garden;;;;;;;;;;;Âåëèêîëåïíûé ñàä;;x
+wonder_garden_construction_desc;The garden will be a marvel of both science and beauty, and can help you with matters related to §YHealth§!, love life, or even intrigue.;;;;;;;;;;;Ñàä ñòàíåò ÷óäîì íàóêè è êðàñîòû. Îí ìîæåò ïîìî÷ü âàì ñ âîïðîñàìè, ñâÿçàííûìè ñ çäîðîâüåì, ëþáîâíîé æèçíüþ èëè äàæå èíòðèãàìè.;;x
+wonder_garden_desc;The garden is a marvel of both science and beauty.;;;;;;;;;;;Òîò, êòî ñîçäàë ýòîò ïðåêðàñíûé ñàä, õîòåë ïîêàçàòü âñåìó ìèðó ñâîþ ëþáîâü ê ïðèðîäå.;;x
+wonder_harbor;Great Harbor;;;;;;;;;;;Âåëèêàÿ ãàâàíü;;x
+wonder_harbor_construction_desc;A Great Harbor with storehouses will dominate trade in the area, thus bringing revenues. It can also increase our maritime military capabilities, including in sieges.;;;;;;;;;;;Áîëüøàÿ ãàâàíü ñî ñêëàäàìè îáåñïå÷èò äîìèíèðîâàíèå â òîðãîâëå ýòîãî ðåãèîíà, ïðèíîñÿ òåì ñàìûì áîëüøèé äîõîä. Îíà òàêæå ìîæåò ðàñøèðèòü íàøè âîåííûå âîçìîæíîñòè íà ìîðå, â òîì ÷èñëå è ïðè îñàäàõ.;;x
+wonder_harbor_desc;Heavily trafficked, the magnificent Harbor is bringing both trade and tourism to the area.;;;;;;;;;;;Ýòà âåëèêîëåïíàÿ ãàâàíü ñëóæèò ïðèñòàíèùåì äëÿ êóïöîâ è òóðèñòîâ ñî âñåãî ìèðà.;;x
+wonder_house_of_wisdom;House of Wisdom;;;;;;;;;;;Äîì Ìóäðîñòè;;x
+wonder_house_of_wisdom_desc;A grand library, housing much of the world's knowledge.;;;;;;;;;;;Âåëèêèé óíèâåðñèòåò, ñîäåðæàùèé â ñåáå áîëüøóþ ÷àñòü ìèðîâûõ çíàíèé.;;x
+wonder_library;Great Library;;;;;;;;;;;Âåëèêàÿ áèáëèîòåêà;;x
+wonder_library_construction_desc;A place to collect, store and reproduce the great written works, it will allow you to find and use many books.;;;;;;;;;;;Ìåñòî, ãäå ìîæíî ñîáèðàòü, õðàíèòü è âîñïðîèçâîäèòü âåëèêèå ïèñüìåííûå ïðîèçâåäåíèÿ. Îíî ïîçâîëèò âàì íàéòè è èñïîëüçîâàòü ìíîæåñòâî êíèã.;;x
+wonder_library_desc;Books are precious, as the knowledge of things past and new are written in their pages. This beacon of knowledge will have capacity to store thousands of books, and will have reading facilities.;;;;;;;;;;;Êíèãè ðåäêè è äîðîãè, êàæäûé ýêçåìïëÿð äåëàåòñÿ âðó÷íóþ, íî îíè òàêæå è äðàãîöåííû, âåäü èõ ñòðàíèöû ñîäåðæàò çíàíèÿ î ïðîøëîì è íàñòîÿùåì. Ýòîò ìàÿê çíàíèé ìîæåò õðàíèòü òûñÿ÷è êíèã è ìíîæåñòâî óþòíûõ êîìíàò äëÿ èõ ïðî÷òåíèÿ.;;x
+wonder_lighthouse;Great Lighthouse;;;;;;;;;;;Âåëèêèé ìàÿê;;x
+wonder_lighthouse_alexandria;Lighthouse of Alexandria;;;;;;;;;;;Àëåêñàíäðèéñêèé ìàÿê;;x
+wonder_lighthouse_alexandria_desc;For a long time the tallest building in the world, the lighthouse is an impressive construction visible from far away, while also serving its purpose, guiding ships into port.;;;;;;;;;;;Äîëãîå âðåìÿ ýòîò ìàÿê áûë ñàìûì âûñîêèì çäàíèåì â ìèðå. Âíóøèòåëüíàÿ êîíñòðóêöèÿ, âèäèìàÿ èçäàëåêà, à òàêæå óêàçûâàþùàÿ êîðàáëÿì äîðîãó ê ïîðòó.;;x
+wonder_lighthouse_construction_desc;Illuminating the darkness and guiding ships to the safety of your port, the Lighthouse can increase trade and tax revenues. It can even be used as a place for you to rest.;;;;;;;;;;;Îñâåùàÿ òåìíîòó è íàïðàâëÿÿ êîðàáëè ê áåçîïàñíîñòè Âàøåãî ïîðòà, âåëèêèé ìàÿê ìîæåò óâåëè÷èòü òîðãîâûå è íàëîãîâûå ïîñòóïëåíèÿ. Òàêæå åãî ìîæíî èñïîëüçîâàòü êàê ìåñòî äëÿ îòäûõà.;;x
+wonder_lighthouse_desc;A tall and visible landmark, the building lends a helping hand to sailors, guiding their ships into port at night.;;;;;;;;;;;Ýòî âûñîêîå è çàìåòíîå èçäàëåêà ñîîðóæåíèå ïðîòÿãèâàåò ðóêó ïîìîùè ìîðÿêàì, âåäÿ èõ êîðàáëè íî÷üþ â ïîðò.;;x
+wonder_mausoleum;Grand Mausoleum;;;;;;;;;;;Âåëèêèé ìàâçîëåé;;x
+wonder_mausoleum_construction_desc;A testament to the §YPrestige§! of its builder and their successors, it is a place to honor the dead. It can also be used to intimidate friends and foes alike.;;;;;;;;;;;ßâëÿÿñü âîïëîùåíèåì §Yïðåñòèæà§! òîãî, êòî åãî ïîñòðîèë è èõ ïîòîìêîâ, ýòî ñîîðóæåíèå ñëóæèò ìåñòîì ïî÷èòàíèÿ ïàìÿòè óñîïøèõ. Åãî òàêæå ìîæíî èñïîëüçîâàòü äëÿ çàïóãèâàíèÿ äðóçåé è âðàãîâ.;;x
+wonder_mausoleum_desc;A simple tomb is not enough for some rulers.;;;;;;;;;;;Íåêîòîðûì ïðàâèòåëÿì îáû÷íîé ãðîáíèöû ÿâíî íåäîñòàòî÷íî.;;x
+wonder_mausoleum_halicarnassus;Mausoleum at Halicarnassus;;;;;;;;;;;Ãàëèêàðíàññêèé ìàâçîëåé;;x
+wonder_mausoleum_halicarnassus_desc;A giant above-ground tomb, constructed by Mausolus, a satrap in the Persian Empire, for himself and Artemisia II of Caria.;;;;;;;;;;;Ãèãàíòñêàÿ íàçåìíàÿ ãðîáíèöà, ïîñòðîåííàÿ Ìàâçîëîì, ñàòðàïîì â Ïåðñèäñêîé èìïåðèè, äëÿ ñåáÿ è Àðòåìèñèè II èç Êàðèè.;;x
+wonder_mosque;Great Mosque;;;;;;;;;;;Âåëèêàÿ ìå÷åòü;;x
+wonder_mosque_construction_desc;A testament to the §YPiety§! and §YPrestige§! of its builder, it can help convert the infidels to the true faith, improve opinion, or even help protect the population from diseases.;;;;;;;;;;;Âîïëîùàÿ §Yáëàãî÷åñòèå§! è §Yïðåñòèæ§! ñâîåãî ñîçäàòåëÿ, ýòà ìå÷åòü ïîìîæåò îáðàòèòü íåâåðíûõ â èñòèííóþ âåðó, ïðèíÿòü íàøó êóëüòóðó, óëó÷øèòü îòíîøåíèå ê ïðàâèòåëþ è äàæå çàùèòèòü íàñåëåíèå îò ýïèäåìèè.;;x
+wonder_mosque_desc;This building is a testament to the piousness of its builder.;;;;;;;;;;;Êóïîë ýòîé ìå÷åòè ñëóæèò å¸ ïðèõîæàíàì âòîðûì íåáîì. Áëàãî÷åñòèâ[FromFrom.OriginalOwner.GetAyaYy] [FromFrom.OriginalOwner.GetTitledFirstNameWithNick] ïîñòðîèë[FromFrom.OriginalOwner.GetEndA] å¸, äàáû ïðîäåìîíòðèðîâàòü âñåì âåëè÷èå [_èñëàìà].;;x
+wonder_pagan_stones;Great Stone Circle;;;;;;;;;;;Âåëèêèé êàìåííûé êðóã;;x
+wonder_pagan_stones_construction_desc;A testament to your §YPiety§! and §YPrestige§!, it can also help  improve your subjects's opinion of you.;;;;;;;;;;;ßâëÿÿñü âîïëîùåíèåì §Yáëàãî÷åñòèÿ§! è §Yïðåñòèæà§!, ýòî âåëèêîå ñîîðóæåíèå ìîæåò óëó÷øèòü îòíîøåíèå ê âàì Âàøèõ ïîääàííûõ.;;x
+wonder_pagan_stones_desc;Huge standing rocks are placed in a grand circle, with an opening towards the east, where the sun rises.;;;;;;;;;;;Îãðîìíûå ñòîÿùèå êàìíè, ðàñïîëîæåííûå ïî êðóãó, îòêðûòûì ìåñòîì îáðàùåíû íà âîñòîê, ãäå âîñõîäèò ñîëíöå.;;x
+wonder_pagan_stones_stonehenge;Stonehenge;;;;;;;;;;;Ñòîóíõåíäæ;;x
+wonder_pagan_stones_stonehenge_desc;Some think the rocks were placed by gods. Others say it's pagan superstition, but refuse to go near them.;;;;;;;;;;;Íåêîòîðûå ñ÷èòàþò, ÷òî ýòè êàìíè áûëè çàëîæåíû áîãàìè. Äðóãèå ãîâîðÿò, ÷òî ýòî ÿçû÷åñêîå ñóåâåðèå, íî îòêàçûâàþòñÿ ïðèáëèæàòüñÿ ê íèì.;;x
+wonder_palace;Royal Palace;;;;;;;;;;;Ðîñêîøíûé äâîðåö;;x
+wonder_palace_construction_desc;A regal symbol of the Prestigious lineage of its builder, it can also be equipped with a number of facilities that help the builder with their love life or court intrigue.;;;;;;;;;;;ßâëÿÿñü ñèìâîëîâ âåëè÷èÿ äèíàñòèè òîãî, êòî åãî ïîñòðîèò, ýòîò äâîðåö îáåñïå÷èò Âàñ âñåâîçìîæíûìè óäîáñòâàìè, êîòîðûå ïîìîãóò â ëè÷íîé æèçíè èëè èíòðèãàõ ïðè äâîðå.;;x
+wonder_palace_desc;A regal symbol of the prestigious lineage of its builder, this palace is one of its kind.;;;;;;;;;;;Ýòîò äâîðåö ëó÷øå ÷åì ÷òî áû òî íè áûëî îòðàæàåò ïðåñòèæ ïðàâÿùåé äèíàñòèè [FromFrom.OriginalOwner.GetOnlyDynastyName].;;x
+wonder_pyramid;Great Pyramid;;;;;;;;;;;Âåëèêàÿ ïèðàìèäà;;x
+wonder_pyramid_construction_desc;A testament to your §YPiety§! and §YPrestige§!, it can help improve opinion of you and even help protect your treasures.;;;;;;;;;;;ßâëÿÿñü âîïëîùåíèåì §Yáëàãî÷åñòèÿ§! è §Yïðåñòèæà§!, ýòî âåëèêîå ñîîðóæåíèå ìîæåò óëó÷øèòü îòíîøåíèå ê âàì è çàùèòèòü Âàøè ñîêðîâèùà.;;x
+wonder_pyramid_desc;Build it taller!, was apparently the last words of its architect.;;;;;;;;;;;Âûøå! Ïîñòðîéòå å¸ âûøå! — ñêàçàë[FromFrom.OriginalOwner.GetEndA] [FromFrom.OriginalOwner.GetTitledFirstNameWithNick]. Ýòî áûëè [FromFrom.OriginalOwner.GetHersHis] ïîñëåäíèå ñëîâà.;;x
+wonder_pyramid_giza;Great Pyramid of Khufu;;;;;;;;;;;Âåëèêàÿ ïèðàìèäà Õóôó;;x
+wonder_pyramid_giza_desc;The strangely shaped pyramids have always been there.;;;;;;;;;;;Ïèðàìèäû ñòðàííîé ôîðìû âñåãäà áûëè çäåñü.;;x
+wonder_statue_horse;Statue of a Horse;;;;;;;;;;;Ñòàòóÿ Êîíÿ;;x
+wonder_statue_horse_construction_desc;Immortalizing a horse in a grand statue is a testament to the §YPrestige§! of its builder and their successors, and can improve the opinion from horse loving vassals.;;;;;;;;;;;Ïîñòðîèâ âåëèêóþ ñòàòóþ êîíÿ, ïðàâèòåëü íå òîëüêî óâåêîâå÷èò ïàìÿòü î í¸ì, íî è çàðàáîòàåò §Yïðåñòèæ§! äëÿ ñåáÿ è ñâîèõ ïîòîìêîâ, à òàêæå óëó÷øèò îòíîøåíèå ê íåìó äðóãèõ ÷ëåíîâ äèíàñòèè è âàññàëîâ, åñëè îíè ëþáÿò ëîøàäåé.;;x
+wonder_statue_horse_desc;A grand statue of a majestic stallion!;;;;;;;;;;;Ïðåêðàñíàÿ ñòàòóÿ âåëèêîëåïíîãî æåðåáöà!;;x
+wonder_statue_ruler;Ruler Statue;;;;;;;;;;;Ñòàòóÿ - [This.GetOrigWOwnerOrRootTitledFirstName];;x
+wonder_statue_ruler_construction_desc;Immortalizing a ruler in a grand statue is a testament to the §YPrestige§! of its builder and their successors, and can improve the opinion from your family and vassals.;;;;;;;;;;;Ïîñòðîèâ âåëèêóþ ñòàòóþ ñàìîãî ñåáÿ, ïðàâèòåëü íå òîëüêî óâåêîâå÷èò ïàìÿòü î ñåáå, íî è çàðàáîòàåò §Yïðåñòèæ§! äëÿ ñåáÿ è ñâîèõ ïîòîìêîâ, à òàêæå óëó÷øèò îòíîøåíèå ê íåìó äðóãèõ ÷ëåíîâ äèíàñòèè è âàññàëîâ.;;x
+wonder_statue_ruler_desc;A ruler is immortalized in this grand statue.;;;;;;;;;;;[FromFrom.OriginalOwner.GetTitledFirstNameWithNick] óâåêîâå÷èë[FromFrom.OriginalOwner.GetEndA] ñåáÿ ýòîé âåëèêîé ñòàòóåé.;;x
+wonder_synagogue;Great Synagogue;;;;;;;;;;;Âåëèêàÿ ñèíàãîãà;;x
+wonder_synagogue_construction_desc;A testament to the §YPiety§! and §YPrestige§! of its builder, it can also help improve opinion of you, the morale of the military forces, and reduce revolt risk.;;;;;;;;;;;Âîïëîùàÿ §Yáëàãî÷åñòèå§! è §Yïðåñòèæ§! ñâîåãî ñîçäàòåëÿ, ýòîò õðàì ìîæåò óëó÷øèòü îòíîøåíèå ê âåðõîâíîé âëàñòè, ïîäíÿòü áîåâîé äóõ âîéñê è ñíèçèòü ðèñê âîññòàíèé.;;x
+wonder_synagogue_desc;Anyone setting foot in the building will be reminded of the value of a religious community.;;;;;;;;;;;Ëþáîé, êòî ïåðåñ¸ê ïîðîã ýòîãî ïðåêðàñíîãî ñîîðóæåíèÿ, âîî÷èþ óáåäèëñÿ â åãî öåííîñòè äëÿ ðåëèãèîçíîé îáùèíû.;;x
+wonder_temple_buddhist;Temple;;;;;;;;;;;Õðàì;;x
+wonder_temple_buddhist_construction_desc;A testament to the §YKarma§! of its builder, it can be used to store relics, and in times of trouble its walls can protect the people from danger.;;;;;;;;;;;Âîïëîùàÿ §Yïðåñòèæ§! ñâîåãî ñîçäàòåëÿ, ýòîò õðàì áóäåò õðàíèòü ñâÿùåííûå ðåëèêâèè, à â òðóäíûå âðåìåíà åãî ñòåíû óáåðåãóò íàðîä îò îïàñíîñòè.;;x
+wonder_temple_buddhist_desc;The temple is a holy building, a place of devotion and reflection.;;;;;;;;;;;Õðàì - ýòî ñâÿùåííîå ìåñòî, âîïëîùàþùåå ñîáîé ïðåäàííîñòü äåëó è ñàìîîñîçíàíèå.;;x
+wonder_temple_hindu;Hindu Temple;;;;;;;;;;;Õðàì;;x
+wonder_temple_hindu_construction_desc;A temple that symbolizes the house, seat and body of a God. It is a sign of its builder §YKarma§! and §YPrestige§!, and can also influence the opinion of some of your subjects.;;;;;;;;;;;Õðàì ñèìâîëèçèðóåò äîì, ïðåñòîë è òåëî Áîãà. Îí ÿâëÿåòñÿ âîïëîùåíèåì §Yáëàãî÷åñòèÿ§! è §Yïðåñòèæà§! òîãî, êòî åãî ïîñòðîèë, è âëèÿåò íà îòíîøåíèå ê íåìó ïîääàííûõ.;;x
+wonder_temple_hindu_desc;A temple that symbolizes the house, seat and body of a God.;;;;;;;;;;;Õðàì ñèìâîëèçèðóåò äîì, ïðåñòîë è òåëî Áîãà.;;x
+wonder_temple_hindu_konark;Konark Sun Temple;;;;;;;;;;;Êîíàðàêñêèé Ñîëíå÷íûé Õðàì;;x
+wonder_temple_hindu_konark_desc;This temple was built in the form of a giant ornamented chariot dedicated to the Sun God, Surya.;;;;;;;;;;;Ýòîò õðàì áûë ïîñòðîåí â ôîðìå ãèãàíòñêîé êîëåñíèöû áîãà ñîëíöà Ñóðüè.;;x
+wonder_temple_pagan;Great Temple;;;;;;;;;;;Âåëèêèé õðàì;;x
+wonder_temple_pagan_construction_desc;A testament to the §YPrestige§! of its builder, the temple can improve your subjects' opinion of you, and lower revolt risk.;;;;;;;;;;;Âîïëîùàÿ §Yïðåñòèæ§! ñâîåãî ñîçäàòåëÿ, ýòîò õðàì ïîìîæåò óëó÷øèòü îòíîøåíèå ïîääàííûõ, ñíèçèòü ðèñê âîññòàíèé è ïðèíåñòè æåðòâû áîãàì.;;x
+wonder_temple_pagan_desc;The site of the temple is rumored to be the holiest ground in the realm.;;;;;;;;;;;Ýòîò õðàì íàðÿäó ñ åãî îêðåñòíîñòÿìè, èçâåñòåí âî âñåì ìèðå êàê ñàìûé ñâÿòîé èç âñåõ.;;x
+wonder_temple_solomon;Temple of Solomon;;;;;;;;;;;Õðàì Ñîëîìîíà;;x
+wonder_temple_solomon_desc;A hill, deeply sacred to Jewish worshipers, as it is said to be the location of the ancient Temple of Solomon.;;;;;;;;;;;Ýòîò õîëì ñâÿùåíåí äëÿ [_èóäååâ], òàê êàê ñ÷èòàåòñÿ, ÷òî çäåñü íàõîäèòñÿ äðåâíèé Õðàì Ñîëîìîíà.;;x
+wonder_underground_city;Great Underground City;;;;;;;;;;;Âåëèêèé ïîäçåìíûé ãîðîä;;x
+wonder_underground_city_construction_desc;Building an underground city can increase your intrigue capabilities and you can even find a precious metal deposit.;;;;;;;;;;;Ñòðîèòåëüñòâî ïîäçåìíîãî ãîðîäà ìîæåò óâåëè÷èòü Âàøè âîçìîæíîñòè äëÿ èíòðèã, è Âû äàæå ìîæåòå íàéòè ìåñòîðîæäåíèå äðàãîöåííûõ ìåòàëëîâ.;;x
+wonder_underground_city_desc;Partially carved from the very rock it sits on, only its owner knows exactly how far these tunnels sprawl.;;;;;;;;;;;×àñòè÷íî âûðåçàííûé èç ñêàëû, ýòîò ãîðîä ïðîñòèðàåòñÿ ãëóáîêî â å¸ íåäðà, è òîëüêî òîò, êòî åãî ïîñòðîèë, çíàåò íàñêîëüêî.;;x
+wonder_underground_city_petra;Petra;;;;;;;;;;;Ïåòðà;;x
+wonder_underground_city_petra_desc;The great desert city of Petra has existed for hundreds of years;;;;;;;;;;;Âåëèêèé ïóñòûííûé ãîðîä Ïåòðà ñóùåñòâîâàë ñîòíè ëåò.;;x
+wonder_university;Grand University;;;;;;;;;;;Âåëèêèé óíèâåðñèòåò;;x
+wonder_university_construction_desc;A great place of learning will help with §YCultural§! and other technological advances. The presence of so many learned persons can even increase your personal §YSkills§!.;;;;;;;;;;;Ýòî ïðåâîñõîäíîå ìåñòî äëÿ îáó÷åíèÿ ïîìîæåò âàì îáåñïå÷èòü òåõíè÷åñêèé ïðîãðåññ â §Yêóëüòóðå§! è äðóãèõ íàó÷íûõ ñôåðàõ. Ïðèñóòñòâèå ñòîëüêèõ îáðàçîâàííûõ ëþäåé ìîæåò äàæå óëó÷øèòü Âàøè ëè÷íûå §Yíàâûêè§!.;;x
+wonder_university_desc;A high seat of learning, famous throughout the realm.;;;;;;;;;;;Ýòîò óíèâåðñèòåò îáåñïå÷èâàåò âûñîêèé óðîâåíü îáðàçîâàíèÿ, èçâåñòíûé äàëåêî çà ïðåäåëàìè ñòðàíû.;;x
+wonder_wall;Great Walls;;;;;;;;;;;Âåëèêèå ñòåíû;;x
+wonder_wall_construction_desc;The construction of massive city walls and other defensive structures will surely protect the province against besieging enemy armies.;;;;;;;;;;;Ñòðîèòåëüñòâî ìàññèâíûõ ãîðîäñêèõ ñòåí è äðóãèõ îáîðîíèòåëüíûõ ñîîðóæåíèé, íåñîìíåííî, çàùèòèò îêðóã îò àðìèè ïðîòèâíèêà.;;x
+wonder_wall_desc;A mega-project, this is a construction of massive city walls.;;;;;;;;;;;ßâëÿÿñü âîïëîùåíèåì ãðàíäèîçíîãî ïðîåêòà, ýòè ìàññèâíûå ñòåíû çàùèùàþò ìåñòíûõ æèòåëåé è ñëóæàò íàïîìèíàíèåì î ìîãóùåñòâå òîãî, êòî èõ ïîñòðîèë.;;x
 # Strings used to set name/description
-wonder_desc_text_update;[GetWonderDesc];;;;;;;;;;;;;x
-wonder_name_text_update;[GetWonderName];;;;;;;;;;;;;x
-ruins_of_wonder_name;Ruins of [This.GetName];;;;;;;;;;;;;x
-ruined_wonder_type;Ruined [This.GetWonderTypeShortCap];;;;;;;;;;;;;x
-destroyed_wonder_type;Destroyed [This.GetWonderTypeShortCap];;;;;;;;;;;;;x
-ruined_wonder_desc_1;This construction has been severely damaged by pillaging, and would require labor to be restored.;;;;;;;;;;;;;x
-ruined_wonder_desc_2;This construction has been almost completely destroyed, looted for anything of value, and is now but a shadow of its former glory.;;;;;;;;;;;;;x
+wonder_desc_text_update;[GetWonderDesc];;;;;;;;;;;[This.GetWonderDesc];;x
+wonder_name_text_update;[GetWonderName];;;;;;;;;;;[This.GetWonderName];;x
+ruins_of_wonder_name;Ruins of [This.GetName];;;;;;;;;;;Ðàçðóøåíí[This.GetWonderAyaYyYeOe] [This.GetName];;x
+ruined_wonder_type;Ruined [This.GetWonderTypeShortCap];;;;;;;;;;;Ðàçðóøåíí[This.GetWonderAyaYyYeOe] [This.GetWonderTypeShortCap];;x
+destroyed_wonder_type;Destroyed [This.GetWonderTypeShortCap];;;;;;;;;;;Óíè÷òîæåíí[This.GetWonderAyaYyYeOe] [This.GetWonderTypeShortCap];;x
+ruined_wonder_desc_1;This construction has been severely damaged by pillaging, and would require labor to be restored.;;;;;;;;;;;Ýòî ñîîðóæåíèå áûëî ñåðü¸çíî ïîâðåæäåíî âî âðåìÿ ðàçãðàáëåíèÿ è òðåáóåò íåìàëûõ óñèëèé äëÿ âîññòàíîâëåíèÿ.;;x
+ruined_wonder_desc_2;This construction has been almost completely destroyed, looted for anything of value, and is now but a shadow of its former glory.;;;;;;;;;;;Ýòî ñîîðóæåíèå áûëî ïî÷òè ïîëíîñòüþ óíè÷òîæåíî âî âðåìÿ ðàçãðàáëåíèÿ. Âñ¸ öåííîå óíåñëè, è òåïåðü ýòî ëèøü òåíü åãî áûëîãî âåëè÷èÿ.;;x

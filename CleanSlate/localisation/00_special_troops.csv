@@ -1,4 +1,4 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-camel_cavalry_modifier;Combat Modifier boost to Camel Mounted Troops: $PERC$;;;;;;;;;;;;;x
-horse_archers_modifier;Combat Modifier boost to Horse Archer Troops: $PERC$;;;;;;;;;;;;;x
-war_elephants_modifier;Combat Modifier boost to Elephant Mounted Troops: $PERC$;;;;;;;;;;;;;x
+camel_cavalry_modifier;Combat Modifier boost to Camel Mounted Troops: $PERC$;;;;;;;;;;;Áîåâîé ìîäèôèêàòîð äëÿ áîåâûõ âåðáëþäîâ: $PERC$;;x
+horse_archers_modifier;Combat Modifier boost to Horse Archer Troops: $PERC$;;;;;;;;;;;Áîåâîé ìîäèôèêàòîð äëÿ êîííûõ ëó÷íèêîâ: $PERC$;;x
+war_elephants_modifier;Combat Modifier boost to Elephant Mounted Troops: $PERC$;;;;;;;;;;;Áîåâîé ìîäèôèêàòîð äëÿ áîåâûõ ñëîíîâ: $PERC$;;x

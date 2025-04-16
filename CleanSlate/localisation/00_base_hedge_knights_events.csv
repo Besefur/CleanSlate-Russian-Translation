@@ -1,27 +1,23 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC71000;A group of Hedge Knights have come to visit [Root.PrimaryTitle.GetName]. [Root.job_chancellor.GetTitledFirstName] has met with them, and ask for my reply.;;;;;;;;;;;;;x
-EVTDESC71001;The Hedge Knights have participated in a minor tournament together with our knights in [Root.Location.GetName]. Sadly, one of those landless vagabonds has been severly injured.;;;;;;;;;;;;;x
-EVTDESC71002;A young hedge knight has distinguished himself quite nicely in the time he has been at our castle.;;;;;;;;;;;;;x
-EVTDESC71003;A member of our court has taken great offense at the behavior of the rough uncut hedge knights visiting our castle. He almost demands that we should execute the vagrants.;;;;;;;;;;;;;x
-EVTDESC71004;A young woman has been seduced by one of the hedge knights. This seems to have some unforeseen consequences.;;;;;;;;;;;;;x
-EVTDESC71005;The hedge knights are ready to depart our castle and ride forth to another lord's domain.;;;;;;;;;;;;;x
-EVTDESC71006;[Root.job_marshal.GetTitledFirstName] has arrested an armed man with ragged armor and a spotty horse. [Root.job_marshal.GetSheHeCap] says that the man claims to be a hedge knight, but clearly does not believe that statement. ;;;;;;;;;;;;;x
-
-EVTOPTA71000;Welcome them with a lavish feast!;;;;;;;;;;;;;x
-EVTOPTA71001;Pay for some medication, and send them on their way.;;;;;;;;;;;;;x
-EVTOPTA71002;Take him into our service!;;;;;;;;;;;;;x
-EVTOPTA71003;Throw the hedge knights out of the castle!;;;;;;;;;;;;;x
-EVTOPTA71004;Let them both stay at court.;;;;;;;;;;;;;x
-EVTOPTA71005;Give them a farewell feast!;;;;;;;;;;;;;x
-EVTOPTA71006;Order the Hedge Knight released.;;;;;;;;;;;;;x
-
-EVTOPTB71000;Welcome them reluctantly...;;;;;;;;;;;;;x
-EVTOPTB71001;Allow them to stay at the castle while he recovers.;;;;;;;;;;;;;x
-EVTOPTB71002;Lavish him with praise!;;;;;;;;;;;;;x
-EVTOPTB71003;Ignore the complaints...;;;;;;;;;;;;;x
-EVTOPTB71004;The dungeon is a nice place for that 'knight'.;;;;;;;;;;;;;x
-EVTOPTB71005;Let them leave quietly.;;;;;;;;;;;;;x
-EVTOPTB71006;That is clearly a bandit...;;;;;;;;;;;;;x
-
-EVTOPTC71000;Refuse them Access!;;;;;;;;;;;;;x
+EVTDESC71000;A group of Hedge Knights have come to visit [Root.PrimaryTitle.GetName]. [Root.job_chancellor.GetTitledFirstName] has met with them, and ask for my reply.;;;;;;;;;;;Îòðÿä ìåæåâûõ ðûöàðåé ïðèáûë â çåìëþ [Root.PrimaryTitle.GetName]. [Root.job_chancellor.GetTitledFirstName] âñòðåòèëñÿ ñ íèìè è òåïåðü ñïðàøèâàåò ìîé îòâåò.;;x
+EVTDESC71001;The Hedge Knights have participated in a minor tournament together with our knights in [Root.Location.GetName]. Sadly, one of those landless vagabonds has been severly injured.;;;;;;;;;;;Ìåæåâûå Ðûöàðè ó÷àñòâîâàëè â íåáîëüøîì òóðíèðå âìåñòå ñ íàøèìè ðûöàðÿìè â îêðóãå [Root.Location.GetName]. Ê ñîæàëåíèþ, îäèí èç ýòèõ áåççåìåëüíûõ áðîäÿã áûë ñåðü¸çíî ðàíåí.;;x
+EVTDESC71002;A young hedge knight has distinguished himself quite nicely in the time he has been at our castle.;;;;;;;;;;;Ìîëîäîé ìåæåâîé ðûöàðü ïîêàçàë ñåáÿ ñ ñàìîé ëó÷øåé ñòîðîíû, ïîêà îí áûë â íàøåì [Root.GetCapitalBuildingPREP].;;x
+EVTDESC71003;A member of our court has taken great offense at the behavior of the rough uncut hedge knights visiting our castle. He almost demands that we should execute the vagrants.;;;;;;;;;;;Íàø ïðèäâîðíûé ñ÷èòàåò ïðåñòóïíûì ïîâåäåíèå ãðóïïû ìåæåâûõ ðûöàðåé, êîòîðûå ãîñòÿò ó íàñ. Îí ïî÷òè òðåáóåò ÷òîáû ìû êàçíèëè áðîäÿã.;;x
+EVTDESC71004;A young woman has been seduced by one of the hedge knights. This seems to have some unforeseen consequences.;;;;;;;;;;;Ìîëîäàÿ æåíùèíà áûëà ñîáëàçíåíà îäèí èç ìåæåâûõ ðûöàðåé. Êàæåòñÿ, ýòî ïðèâåä¸ò ê íåïðåäâèäåííûì ïîñëåäñòâèÿì.;;x
+EVTDESC71005;The hedge knights are ready to depart our castle and ride forth to another lord's domain.;;;;;;;;;;;Ìåæåâûå ðûöàðè ãîòîâû ïîêèíóòü íàø [Root.GetCapitalBuilding] è îòïðàâèòü äàëåå ê äðóãîìó ñþçåðåíó.;;x
+EVTDESC71006;[Root.job_marshal.GetTitledFirstName] has arrested an armed man with ragged armor and a spotty horse. [Root.job_marshal.GetSheHeCap] says that the man claims to be a hedge knight, but clearly does not believe that statement. ;;;;;;;;;;;[Root.job_marshal.GetTitledFirstName] àðåñòîâàë[Root.job_marshal.GetEndA] âîîðóæ¸ííîãî ÷åëîâåêà íà ïÿòíèñòîé ëîøàäè â ïîêîð¸æåííîé áðîíå. [Root.job_marshal.GetSheHeCap] ãîâîðèò, áóäòî ÷åëîâåê óòâåðæäàåò, ÷òî îí - ìåæåâîé ðûöàðü, îäíàêî ýòîìó íåò äîñòàòî÷íûõ äîêàçàòåëüñòâ.;;x
+EVTOPTA71000;Welcome them with a lavish feast!;;;;;;;;;;;Ïðèãëàñèòå èõ è çàêàòèòå ïûøíûé ïèð!;;x
+EVTOPTA71001;Pay for some medication, and send them on their way.;;;;;;;;;;;Îïëàòèòå äëÿ íåãî ïðèïàðêè è îòïðàâüòå ñâîåé äîðîãîé;;x
+EVTOPTA71002;Take him into our service!;;;;;;;;;;;Âîçüìèòå åãî íà ñëóæáó;;x
+EVTOPTA71003;Throw the hedge knights out of the castle!;;;;;;;;;;;Âûãîíèòå ìåæåâûõ ðûöàðåé îòñþäà!;;x
+EVTOPTA71004;Let them both stay at court.;;;;;;;;;;;Ïóñòü îíè îáà îñòàþòñÿ ïðè äâîðå;;x
+EVTOPTA71005;Give them a farewell feast!;;;;;;;;;;;Óñòðîéòå èì ïðàçäíèê íà ïðîùàíüå!;;x
+EVTOPTA71006;Order the Hedge Knight released.;;;;;;;;;;;Ïðèêàæèòå îñâîáîäèòü ìåæåâîãî ðûöàðÿ!;;x
+EVTOPTB71000;Welcome them reluctantly...;;;;;;;;;;;Òàê è áûòü, ïðèãëàñèòå èõ!;;x
+EVTOPTB71001;Allow them to stay at the castle while he recovers.;;;;;;;;;;;Ïîçâîëüòå åìó îñòàòüñÿ ïîêà ó íàñ.;;x
+EVTOPTB71002;Lavish him with praise!;;;;;;;;;;;×åñòü åìó è õâàëà!;;x
+EVTOPTB71003;Ignore the complaints...;;;;;;;;;;;Èãíîðèðóéòå æàëîáû…;;x
+EVTOPTB71004;The dungeon is a nice place for that 'knight'.;;;;;;;;;;;Ïîäçåìåëüå - ïðåêðàñíîå ìåñòî äëÿ ýòîãî «ðûöàðÿ»;;x
+EVTOPTB71005;Let them leave quietly.;;;;;;;;;;;Ïóñòü îíè îòïðàâëÿþòñÿ áåç øóìà è ïûëè;;x
+EVTOPTB71006;That is clearly a bandit...;;;;;;;;;;;Î÷åâèäíî æå, ÷òî ýòî áàíäèò…;;x
+EVTOPTC71000;Refuse them Access!;;;;;;;;;;;Îòêàçàòü èì!;;x

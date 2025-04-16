@@ -1,302 +1,301 @@
-abrahamic_antihellenic_revolt;Hellenic Civil War;;;;;;;;;;;;;x
-abrahamic_antihellenic_revolt_desc;The decision to reinstate a dead, heathen cult in place of the worship of the Abrahamic god has dragged the newly-reformed Empire into civil war.;;;;;;;;;;;;;x
-bid_for_independence_desc;§Y$CLAIMANT$§! can attempt to declare independence from §Y$TARGET$§!;;;;;;;;;;;;;x
-buddhist_holy_war_desc;§Y$CLAIMANT$§! can use this Casus Belli to seize the §Y$TITLE$§!.;;;;;;;;;;;;;x
-caliphal_subjugation_desc;For §Y200§! Piety, Caliphs are allowed to subjugate all other Muslim rulers of the same denomination once per §Y10§! years.;;;;;;;;;;;;;x
-CB_ANTIHELLENIC_WAR;Hellenic Civil War;;;;;;;;;;;;;x
-cb_decadence_usurption_desc;Muslims can use this Casus Belli to usurp titles from their decadent dynasty members.;;;;;;;;;;;;;x
-cb_faction_independence_desc;The members of the Independence faction, led by §Y$CLAIMANT$§!, can collectively attempt to declare independence from §Y$TARGET$§!;;;;;;;;;;;;;x
-cb_install_khan_desc;The clans can forcefully depose the Khagan and replace him with someone more powerful.;;;;;;;;;;;;;x
-cb_liberate_nomad_duchy_desc;§Y$CLAIMANT$§! can use this Casus Belli to seize all titles held by the savage, §Y$TARGET$§!, within the de jure §Y$TITLE$§!.;;;;;;;;;;;;;x
-cb_minor_clan_revolt_desc;Powerful 'minor' clans can rise up in revolt, demanding a place among the major clans.;;;;;;;;;;;;;x
-CB_NAME_CLAIM;Claim [Title.GetBaseName];;;;;;;;;;;;;x
-CB_NAME_CLAIM_ALL;Press all Claims;;;;;;;;;;;;;x
-CB_NAME_CLAIM_VASSAL;Revoke [Title.GetBaseName];;;;;;;;;;;;;x
-CB_NAME_CLAN_REVOLT;Clan Revolt for [Title.GetBaseName];;;;;;;;;;;;;x
-CB_NAME_COASTAL_COUNTY_REPUBLIC;Seize [Title.GetBaseName];;;;;;;;;;;;;x
-CB_NAME_COASTAL_REPUBLIC;Seize the City of [Title.GetBaseName];;;;;;;;;;;;;x
-CB_NAME_COUNTY_CONQUEST;Conquest of [Title.GetBaseName];;;;;;;;;;;;;x
-CB_NAME_CRUSADE;$HOLY_WAR$ for [Title.GetBaseName];;;;;;;;;;;;;x
-CB_NAME_DECADENCE_USURPTION;Decadence Usurption;;;;;;;;;;;;;x
-CB_NAME_DEJUREBARONYCLAIM;[Title.GetBaseName] Holdings;;;;;;;;;;;;;x
-CB_NAME_DEJURECLAIM;De Jure Claim on [Title.GetBaseName];;;;;;;;;;;;;x
-CB_NAME_DEPOSE_ANTIPOPE;Depose Antipope;;;;;;;;;;;;;x
-CB_NAME_DEPOSE_IMPIOUS_POPE;Depose Impious Pope;;;;;;;;;;;;;x
-CB_NAME_DEPOSE_LIEGE;Depose liege;;;;;;;;;;;;;x
-CB_NAME_DESTABILIZATION_CHINA;Shatter Realm;;;;;;;;;;;;;x
-CB_NAME_DISMANTLE_PRETENDER_CHINA;Dismantle Pretender;;;;;;;;;;;;;x
-CB_NAME_DISPUTE;Dispute [Title.GetBaseName];;;;;;;;;;;;;x
-CB_NAME_DUCALCOUNTYCONQUEST;Ducal Conquest of [Title.GetBaseName];;;;;;;;;;;;;x
-CB_NAME_DUCHY_ADVENTURE;Adventurer Conquest of [Title.GetBaseName];;;;;;;;;;;;;x
-CB_NAME_EMBARGO;Embargo;;;;;;;;;;;;;x
-CB_NAME_EXCOMMUNICATED_RULER;Excommunicated ruler;;;;;;;;;;;;;x
-CB_NAME_FEUDAL_ELECTIVE_SUCCESSION_LAW;Elective Monarchy Succession Law;;;;;;;;;;;;;x
-CB_NAME_FLOWER_WAR;Flower War;;;;;;;;;;;;;x
-CB_NAME_FORCE_OPEN_CHINA;Force Open [offmap_china.GetShortName];;;;;;;;;;;;;x
-CB_NAME_FORCE_VASSALIZATION;Force Vassalization;;;;;;;;;;;;;x
-CB_NAME_FREE_TRIBUTARY;Free Tributary;;;;;;;;;;;;;x
-CB_NAME_GAVELKIND_SUCCESSION_LAW;Gavelkind Succession Law;;;;;;;;;;;;;x
-CB_NAME_GREATREALMCONFLICT;Great Conquest of [Title.GetBaseName];;;;;;;;;;;;;x
-CB_NAME_HERETIC_UPRISING;[Actor.Religion.GetName] Uprising;;;;;;;;;;;;;x
-CB_NAME_HOSTAGES;Free Captives;;;;;;;;;;;;;x
-CB_NAME_HUMILIATE;Humiliate;;;;;;;;;;;;;x
-CB_NAME_IMPERIAL;Imperial Reconquest of [Title.GetBaseName];;;;;;;;;;;;;x
-CB_NAME_INCREASE_COUNCIL_POWER;Increase Council Power;;;;;;;;;;;;;x
-CB_NAME_INDEPENDENCE;Independence;;;;;;;;;;;;;x
-CB_NAME_INSTALL_ANTIKING;Install Antiking;;;;;;;;;;;;;x
-CB_NAME_INSTALLKHAN;Install Khagan;;;;;;;;;;;;;x
-CB_NAME_INVASION;Invasion of [Title.GetBaseName];;;;;;;;;;;;;x
-CB_NAME_INVASION_OF_CHINA;Invasion of [offmap_china.GetShortName];;;;;;;;;;;;;x
-CB_NAME_LIBERATE_NOMAD;Liberate [Title.GetBaseName];;;;;;;;;;;;;x
-CB_NAME_LIBERATE_RELIGION;Religious Liberation of [Title.GetBaseName];;;;;;;;;;;;;x
-CB_NAME_LIBERATION_REVOLT;Liberation of [Title.GetBaseName];;;;;;;;;;;;;x
-CB_NAME_LOWER_CROWN_AUTHORITY_LAW;Lower Crown Authority;;;;;;;;;;;;;x
-CB_NAME_LOWER_TRIBAL_ORGANIZATION_LAW;Lower Tribal Organization;;;;;;;;;;;;;x
-CB_NAME_MATRIARCHAL_DEPOSITION;Matriarchal Deposition War;;;;;;;;;;;;;x
-CB_NAME_MINOR_CLAN_REVOLT;Minor Clan Revolt;;;;;;;;;;;;;x
-CB_NAME_NOMAD_EXPANSION;Subordination of [Title.GetBaseName];;;;;;;;;;;;;x
-CB_NAME_NOMAD_TRIBUTARY;Establish Tributary;;;;;;;;;;;;;x
-CB_NAME_NORTHERN_CRUSADE;Teutonic War for [Title.GetBaseName];;;;;;;;;;;;;x
-CB_NAME_OFFMAP_SUBMISSION;Submission;;;;;;;;;;;;;x
-CB_NAME_OVERTHROWRULER;Overthrow ruler;;;;;;;;;;;;;x
-CB_NAME_OVERTHROWRULER_NC;Overthrow Ruler;;;;;;;;;;;;;x
-CB_NAME_PAGAN_SUBJUGATION;Subjugation;;;;;;;;;;;;;x
-CB_NAME_PAPAL_RELIGIOUS;Papal War for [Title.GetBaseName];;;;;;;;;;;;;x
-CB_NAME_PATRIARCHAL_DEPOSITION;Patriarchal Deposition War;;;;;;;;;;;;;x
-CB_NAME_PEASANT_CONQUEST;Peasant Revolt for [Title.GetBaseName];;;;;;;;;;;;;x
-CB_NAME_PERMANENT_TRIBUTARY;Establish Tributary State;;;;;;;;;;;;;x
-CB_NAME_POWERFUL_VASSAL_TAKEOVER;Oust Ruler;;;;;;;;;;;;;x
-CB_NAME_PRIMOGENITURE_SUCCESSION_LAW;Primogeniture Succession Law;;;;;;;;;;;;;x
-CB_NAME_RECONQUISTA_ARAGON;Reconquest of Aragon;;;;;;;;;;;;;x
-CB_NAME_RECONQUISTA_BALEARIC;Reconquest of the Balearic Islands;;;;;;;;;;;;;x
-CB_NAME_RECONQUISTA_BEJA;Reconquest of Western Coast;;;;;;;;;;;;;x
-CB_NAME_RECONQUISTA_CASTILLE;Reconquest of Castille;;;;;;;;;;;;;x
-CB_NAME_RECONQUISTA_CORDOBA;Reconquest of Central Iberia;;;;;;;;;;;;;x
-CB_NAME_RECONQUISTA_GALICIA;Reconquest of Galicia;;;;;;;;;;;;;x
-CB_NAME_RECONQUISTA_GRANADA;Reconquest of Southern Iberia;;;;;;;;;;;;;x
-CB_NAME_RECONQUISTA_LEON;Reconquest of Leon;;;;;;;;;;;;;x
-CB_NAME_RECONQUISTA_NAVARRA;Reconquest of Navarra;;;;;;;;;;;;;x
-CB_NAME_RECONQUISTA_VALENCIA;Reconquest of the Eastern Coast;;;;;;;;;;;;;x
-CB_NAME_RELIGIOUS;Holy War for [Title.GetBaseName];;;;;;;;;;;;;x
-CB_NAME_RELIGIOUS_MINOR;Minor Holy War for [Title.GetBaseName];;;;;;;;;;;;;x
-CB_NAME_RIVALRY;Rivalry;;;;;;;;;;;;;x
-CB_NAME_SEIZE_TRADE_POST;Seize [Title.GetBaseName] Trade Post;;;;;;;;;;;;;x
-CB_NAME_SENIORITY_SUCCESSION_LAW;Seniority Succession Law;;;;;;;;;;;;;x
-CB_NAME_SHATTERED_COUNTY_CONQUEST;Consolidation of [Title.GetBaseName];;;;;;;;;;;;;x
-CB_NAME_SHEPHERDS_CRUSADE;Shepherds' Crusade for [Title.GetBaseName];;;;;;;;;;;;;x
-CB_NAME_SHIA_CALIPHATE_RISING;Shi'a Caliphate Rising in [Title.GetBaseName];;;;;;;;;;;;;x
-CB_NAME_SUCCESSION;Dispute Succession;;;;;;;;;;;;;x
-CB_NAME_THANKMARS_REBELLION;Thankmar's Rebellion;;;;;;;;;;;;;x
-CB_NAME_TRIBAL_INDEPENDENCE;Pagan Revolt;;;;;;;;;;;;;x
-CB_NAME_TRIBUTARY;Extort Tribute;;;;;;;;;;;;;x
-CB_NAME_ULTIMOGENITURE_SUCCESSION_LAW;Ultmogeniture Succession Law;;;;;;;;;;;;;x
-CB_NAME_UNJUST_COUNTY_CONQUEST;Border Dispute over [Title.GetBaseName];;;;;;;;;;;;;x
-CB_NAME_VIKING_INVASION;Prepared Invasion of [Title.GetBaseName];;;;;;;;;;;;;x
-CB_NAME_WEAKEN_VASSAL;Claim [Title.GetName];;;;;;;;;;;;;x
-change_feudal_elective_succession_law_desc;§Y$CLAIMANT$§! can declare war to change the succession law in the §Y$TITLE$§! to feudal elective!;;;;;;;;;;;;;x
-change_gavelkind_succession_law_desc;§Y$CLAIMANT$§! can declare war to change the succession law in the §Y$TITLE$§! to gavelkind!;;;;;;;;;;;;;x
-change_primogeniture_succession_law_desc;§Y$CLAIMANT$§! can declare war to change the succession law in the §Y$TITLE$§! to primogeniture!;;;;;;;;;;;;;x
-change_seniority_succession_law_desc;§Y$CLAIMANT$§! can declare war to change the succession law in the §Y$TITLE$§! to seniority!;;;;;;;;;;;;;x
-change_ultimogeniture_succession_law_desc;§Y$CLAIMANT$§! can declare war to change the succession law in the §Y$TITLE$§! to ultimogeniture!;;;;;;;;;;;;;x
-childrens_crusade;Children's Crusade;;;;;;;;;;;;;x
-childrens_crusade_desc;A large group of peasants and children, led by a [Root.GetBoyGirl] claiming to hear the voice of Christ, has embarked into a desperate mission to reconquer the Holy Lands from the infidels.;;;;;;;;;;;;;x
-claim_all_desc;§Y$CLAIMANT$§! can declare war on §Y$TARGET$§! with several strong claims (weak claims do not count.);;;;;;;;;;;;;x
-claim_desc;This Casus Belli can be used by §Y$CLAIMANT$§! to press the claim on the §Y$TITLE$§!;;;;;;;;;;;;;x
-claim_on_liege_desc;This Casus Belli can be used by §Y$CLAIMANT$§! to press the claim on the §Y$TITLE$§!;;;;;;;;;;;;;x
-claim_on_vassal_plot_desc;§Y$CLAIMANT$§! is trying to revoke the title of §Y$TITLE$§!, which has resulted in an armed conflict with §Y$TARGET$§!;;;;;;;;;;;;;x
-coastal_county_republic_desc;As a Merchant Republic, §Y$CLAIMANT$§! can declare war to seize control of §Y$TITLE$§! since they already control a city there and the county is within range.;;;;;;;;;;;;;x
-coastal_republic_desc;§Y$CLAIMANT$§! can declare war to seize control of the coastal §Y$TITLE$§! since he or a vassal Patrician has a Trade Post in place, or the target is a rival merchant republic.;;;;;;;;;;;;;x
-crusade_desc;§Y$CLAIMANT$§! can use this Casus Belli to seize all titles held by the infidel, §Y$TARGET$§!, within the de jure §Y$TITLE$§!.;;;;;;;;;;;;;x
-decadence_invasion_desc;We do not need to bother with just causes - might makes right! §Y$CLAIMANT$§! can invade the lands of §Y$TARGET$§!.;;;;;;;;;;;;;x
-dejure_barony_claim_desc;The Holdings in §Y$TITLE$§! are all, de jure, vassals of §Y$CLAIMANT$'s§!, which is cause enough for war.;;;;;;;;;;;;;x
-dejure_county_claim_desc;The §Y$TITLE$§! is, de jure, a vassal of §Y$CLAIMANT$'s§!, which is cause enough for war.;;;;;;;;;;;;;x
-dejure_duchy_claim_desc;The §Y$TITLE$§! is, de jure, a vassal of §Y$CLAIMANT$§!. By spending a significant amount of §YPrestige§!, we can go to war for the entire duchy.;;;;;;;;;;;;;x
-depose_antipope_desc;This Casus Belli can be used to depose an antipope in another realm.;;;;;;;;;;;;;x
-depose_impious_pope_desc;A war over the Holy See, and what is the righteous way forward for the faith.;;;;;;;;;;;;;x
-depose_liege_desc;§Y$CLAIMANT$§! can attempt to depose §Y$TARGET$§! and install §Y$CLAIMANT$§!'s favorite heir;;;;;;;;;;;;;x
-destabilization_china_cb_desc;China can, by way of war, shatter realms they consider too big for their own good.;;;;;;;;;;;;;x
-dismantle_pretender_china_cb_desc;China will stop at nothing to show the pretenders that they are the one and only Empire of China.;;;;;;;;;;;;;x
-ducal_county_conquest_desc;§Y$TARGET$§! holds land in a Duchy you are pretender to. By spending §YPiety§! and §YGold§! you can go to war over any County that is part of a Duchy you hold land in, as long as the Duchy has no holder. This Casus Belli is only available to characters of Count or Duke tier.;;;;;;;;;;;;;x
-duchy_adventure_desc;Ambitious characters of noble descent can go off and attempt to seize duchies in foreign lands with a band of adventurers.;;;;;;;;;;;;;x
-embargo_cb_desc;This Casus Belli allows you to destroy all of §Y$TARGET$§!'s Trade Posts in your entire Realm.;;;;;;;;;;;;;x
-excommunicated_ruler_desc;§Y$TARGET$§! has been excommunicated, a just cause for war if ever there was one!;;;;;;;;;;;;;x
-flower_war_cb;Flower War;;;;;;;;;;;;;x
-flower_war_cb_desc;To prove our eternal devotion to the gods we can wage war not for land, but to conquer worthy offerings for our altars.;;;;;;;;;;;;;x
-force_open_china_cb_desc;[offmap_china.GetShortName] has closed its borders and halted trade on the Silk Road. This is unacceptable - the trade must flow!;;;;;;;;;;;;;x
-force_vassalization_desc;§Y$TARGET$§! is weak and in need of protection, they would be better off in your realm! By spending a significant amount of §YPrestige§! you can go to war to forcibly make them your Vassal, as long as they are of a §Ylower tier§! than you, at or below §Y30 Realm Size§! and where the ruler is either of your §YReligion§! or §YCulture Group§!.;;;;;;;;;;;;;x
-free_tributary_cb_desc;You can declare war to free yourself or one of your vassals from tributary status.;;;;;;;;;;;;;x
-great_realm_conflict_desc;You are very powerful, and so is §Y$TARGET$§! - it is time to show them who is the strongest! By spending a significant amount of §YPrestige§! and §YPiety§! you can go to war for an entire Kingdom, as long as they are as strong as you or stronger.;;;;;;;;;;;;;x
-heretic_revolt_desc;Heretic leaders - heresiarchs - can rise up if the authority of the parent religion is low, spreading their errant beliefs with fire and sword.;;;;;;;;;;;;;x
-hostages_cb_desc;§Y$TARGET$§! holds unlanded characters you care about captive, it is time to free them! If you win this war these characters will be freed. You might also be able to take hostages of our own. Any freed captives will be moved to your court or to the court of their rightful spouse.\n§RBeware, $TARGET$ might execute one or more of the captives if you attack!§!;;;;;;;;;;;;;x
-imperial_reconquest_desc;The lost territory of the Roman Empire must be reclaimed! §Y$CLAIMANT$§! can use this Casus Belli to seize all titles held by §Y$TARGET$§! within the de jure §Y$TITLE$§!.;;;;;;;;;;;;;x
-increase_council_power_war_desc;The power of the council must be increased - and if war is what it takes, then war we will have!;;;;;;;;;;;;;x
-indian_subjugation_desc;Rulers of the Indian religions can subjugate each other for §Y500§! Karma if they are from the same culture group.;;;;;;;;;;;;;x
-invasion_desc;§Y$CLAIMANT$§! has been granted the right to invade the §Y$TITLE$§!. If successful, the titles to all currently occupied holdings will be seized.;;;;;;;;;;;;;x
-invasion_of_china_cb_desc;The [offmap_china.GetFullName] has been a thorn in our side long enough - no more!;;;;;;;;;;;;;x
-kingdom_adventure_desc;Certain extremely ambitious and charismatic characters can gather enough support to go off and attempt to seize kingdoms in foreign lands with a large army of adventurous warriors.;;;;;;;;;;;;;x
-liberate_religion_desc;§Y$TARGET$§! is not of your religion, but has Counties in their realm following the true faith. They must be liberated from their oppressors!;;;;;;;;;;;;;x
-liberation_revolt_desc;The subjects of foreign lords can rise up in revolt and try to restore their old kingdom.;;;;;;;;;;;;;x
-lower_crown_authority_law_desc;§Y$CLAIMANT$§! can declare war to lower Crown Authority in the §Y$TITLE$§!;;;;;;;;;;;;;x
-lower_tribal_organization_law_desc;§Y$CLAIMANT$§! can declare war to lower Tribal Organization in the §Y$TITLE$§!;;;;;;;;;;;;;x
-manifest_destiny_invasion_desc;My manifest destiny allows me to invade §Y$TARGET$§!. If successful, everything §Y$TARGET$§! controls within the §Y$TITLE$§! will be taken or vassalized.;;;;;;;;;;;;;x
-matriarchal_deposition_war;Matriarchal Deposition War;;;;;;;;;;;;;x
-matriarchal_deposition_war_desc;No [Root.GetOppositeManWoman] should be allowed to hold as much authority as $TARGET$ does. We are well within our rights to force this vile tyrant to abdicate his throne, leaving his realm in the capable hands of a [Root.GetManWoman].;;;;;;;;;;;;;x
-muslim_county_conquest_desc;Muslims can conquer single border counties without specific reasons at the cost of §Y50§! Piety.;;;;;;;;;;;;;x
-muslim_invasion_desc;§Y$TARGET$§! is not of the True Faith - which is all the cause §Y$CLAIMANT$§! needs to invade the §Y$TITLE$§!. If successful, everything §Y$TARGET$§! controls within the §Y$TITLE$§! will be taken or vassalized.;;;;;;;;;;;;;x
-nomad_dispute_desc;Feuding clans can declare wars against each other to seize a single county.;;;;;;;;;;;;;x
-nomad_expansion_desc;If we have enough Prestige, we can subdue large foreign areas in a single war.;;;;;;;;;;;;;x
-nomad_humiliate_cb_desc;Humiliate the enemy and steal their people to strengthen your own clan.;;;;;;;;;;;;;x
-nomad_invasion_desc;If our population is getting too large, we may invade another realm to seize their pasture lands! If successful, all occupied territory will be seized and all vassals will become our vassals.;;;;;;;;;;;;;x
-nomad_subjugation_desc;Nomads can subjugate non-Nomadic realms once in their lifetime.;;;;;;;;;;;;;x
-northern_crusade_war_desc;§Y[Root.GetTitledName]§! can use this casus belli to attack §Y$TARGET$§! over §Y$TITLE$§! as part of the Northern Crusade to convert the pagans of the north.;;;;;;;;;;;;;x
-offmap_submission_desc;China can, by way of war, force realms to submit to them.;;;;;;;;;;;;;x
-other_claim_desc;This Casus Belli can be used by §Y$PRESSER$§! to press §Y$CLAIMANT$'s§! claim on the §Y$TITLE$§!.\nIf §Y$PRESSER$§! holds a higher tier title and is of the same dynasty as §Y$CLAIMANT$§!, or if §Y$PRESSER$§! is de jure liege of §Y$TITLE$§!, §Y$CLAIMANT$§! will also become a vassal of §Y$PRESSER$§!.;;;;;;;;;;;;;x
-other_claim_on_liege_desc;This Casus Belli can be used by §Y$PRESSER$§! to press §Y$CLAIMANT$'s§! claim on the §Y$TITLE$§!;;;;;;;;;;;;;x
-other_dejure_barony_claim_desc;The §Y$TITLE$§! is, de jure, a vassal of §Y$CLAIMANT$'s§!, which is cause enough for war.;;;;;;;;;;;;;x
-other_dejure_county_claim_desc;The §Y$TITLE$§! is, de jure, a vassal of §Y$CLAIMANT$'s§!, which is cause enough for war.;;;;;;;;;;;;;x
-overthrow_ruler_desc;§Y$TARGET$§! has tried and failed to imprison §Y$CLAIMANT$§!, which has resulted in an armed conflict;;;;;;;;;;;;;x
-overthrow_ruler_no_calls_desc;§Y$CLAIMANT$§! has risen in revolt after a failed arrest attempt by §Y$TARGET$§!.;;;;;;;;;;;;;x
-pagan_county_conquest_desc;Pagans and Nomads can conquer single border counties without specific reasons. Norse Pagans can also take any coastal county.;;;;;;;;;;;;;x
-pagan_holy_war_desc;Reformed Pagans can use this Casus Belli to seize all titles held by an infidel within a de jure Duchy at the cost of §Y100§! $PIETYNAME$.;;;;;;;;;;;;;x
-pagan_subjugation_desc;Pagans, with succession laws set to Elective Gavelkind, are allowed to subjugate other pagan rulers once in their lifetime. (With the 'Become $KING$' ambition, there is no such time limit against those who control titles within the kingdom.) Free men are always willing to follow the mightiest ruler...;;;;;;;;;;;;;x
-patriarchal_deposition_war;Patriarchal Deposition War;;;;;;;;;;;;;x
-patriarchal_deposition_war_desc;No [Root.GetOppositeManWoman] should be allowed to hold as much authority as $TARGET$ does. We are well within our rights to force this vile tyrant to abdicate her throne, leaving her realm in the capable hands of a [Root.GetManWoman].;;;;;;;;;;;;;x
-peasant_revolt_desc;Peasant leaders sometimes rise up and try to 'liberate' their county from oppression.;;;;;;;;;;;;;x
-pepin_religious;Donation of Pepin;;;;;;;;;;;;;x
-pepin_religious_desc;§Y$CLAIMANT$§! can use this Casus Belli to emulate Pepin the Short by fighting to restore the Papal lands of the §Y$TITLE$§! to its rightful owner. This Casus Belli is valid only against any infidel or impious [christian.GetGroupName] who holds land in Central Italy. The Pope will certainly be thankful of §Y$CLAIMANT$'s§! assistance in returning Papal provinces under the Church's control.;;;;;;;;;;;;;x
-reconquista_aragon_desc;§Y[Root.GetTitledName]§! start a war to oust the infidels from the region of §Y[k_aragon.GetBaseName]§!, and retake all provinces in the §Y[d_aragon.GetFullName]§! and §Y[d_barcelona.GetFullName]§! held by §Y$TARGET$§!.;;;;;;;;;;;;;x
-reconquista_balearic_desc;§Y[Root.GetTitledName]§! start a war to oust the infidels from the §YBalearic Islands§!, and retake all provinces in the §Y[d_mallorca.GetFullName]§! held by §Y$TARGET$§!.;;;;;;;;;;;;;x
-reconquista_beja_desc;§Y[Root.GetTitledName]§! start a war to oust the infidels from the §YWestern Coast of Iberia§!, and retake all provinces in the §Y[d_beja.GetFullName]§! and §Y[d_algarve.GetFullName]§! held by §Y$TARGET$§!.;;;;;;;;;;;;;x
-reconquista_castille_desc;§Y[Root.GetTitledName]§! start a war to oust the infidels from the region of §Y[k_castille.GetBaseName]§!, and retake all provinces in the §Y[d_castilla.GetFullName]§! and §Y[d_toledo.GetFullName]§! held by §Y$TARGET$§!.;;;;;;;;;;;;;x
-reconquista_cordoba_desc;§Y[Root.GetTitledName]§! start a war to oust the infidels from §YCentral Iberia§!, and retake all provinces in the §Y[d_cordoba.GetFullName]§! and §Y[d_badajoz.GetFullName]§! held by §Y$TARGET$§!.;;;;;;;;;;;;;x
-reconquista_galicia_desc;§Y[Root.GetTitledName]§! start a war to oust the infidels from the region of §Y[k_galicia.GetBaseName]§!, and retake all provinces in the §Y[d_galicia.GetFullName]§! and §Y[d_portucale.GetFullName]§! held by §Y$TARGET$§!.;;;;;;;;;;;;;x
-reconquista_granada_desc;§Y[Root.GetTitledName]§! start a war to oust the infidels from §YSouthern Iberia§!, and retake all provinces in the §Y[d_granada.GetFullName]§! and §Y[d_sevilla.GetFullName]§! held by §Y$TARGET$§!.;;;;;;;;;;;;;x
-reconquista_leon_desc;§Y[Root.GetTitledName]§! start a war to oust the infidels from the region of §Y[k_leon.GetBaseName]§!, and retake all provinces in the §Y[d_leon.GetFullName]§! and §Y[d_asturias.GetFullName]§! held by §Y$TARGET$§!.;;;;;;;;;;;;;x
-reconquista_navarra_desc;§Y[Root.GetTitledName]§! start a war to oust the infidels from the region of §YNavarra§!, and retake all provinces in the §Y[d_navarra.GetFullName]§! held by §Y$TARGET$§!.;;;;;;;;;;;;;x
-reconquista_valencia_desc;§Y[Root.GetTitledName]§! start a war to oust the infidels from the §YEastern Coast of Iberia§!, and retake all provinces in the §Y[d_valencia.GetFullName]§! and §Y[d_murcia.GetFullName]§! held by §Y$TARGET$§!.;;;;;;;;;;;;;x
-religious_desc;§Y$CLAIMANT$§! can use this Casus Belli to seize all titles held by the infidel, §Y$TARGET$§!, within the de jure §Y$TITLE$§!. This Casus Belli is valid against neighbors, and also against infidels up to two sea zones away if either the attacker or the defender is a Muslim, or if the era of Great Holy Wars has started for the attacker's religion.;;;;;;;;;;;;;x
-religious_revolt_desc;Peasants of a different religion group can rise up to throw off oppression and spread their faith with fire and sword.;;;;;;;;;;;;;x
-rivalry_cb_desc;§Y$TARGET$§! is your bitter rival and you can't imagine anything better than throwing the blighter into your dungeons.;;;;;;;;;;;;;x
-roman_christian_revolt;Roman Revolt;;;;;;;;;;;;;x
-roman_christian_revolt_desc;The citizens of Rome have risen up after the ruthless destruction brought by their new Emperor upon the Church and their homes.;;;;;;;;;;;;;x
-seize_trade_post_desc;As a Patrician, §Y$CLAIMANT$§! can declare war on §Y$TARGET$§! over the §Y$TITLE$§!. This Casus Belli is not valid against much weaker Patricians within the same Republic.;;;;;;;;;;;;;x
-shattered_invasion;As you are a Great Conqueror, nothing can stand in the way of you claiming your destiny!;;;;;;;;;;;;;x
-shattered_invasion_desc;As you are a Great Conqueror, nothing can stand in the way of you claiming your destiny!;;;;;;;;;;;;;x
-shattered_world_county_conquest_desc;As this is a Shattered World you can choose to outright conquer any Counties that either border your realm or is no more than one sea zone away. [GetShatteredInfo] [GetShatteredJadeInfo];;;;;;;;;;;;;x
-tribal_invasion_desc;We do not need to bother with just causes - might makes right! §Y$CLAIMANT$§! can invade the lands of §Y$TARGET$§!. If successful, the titles to all currently occupied holdings will be seized and all vassals will become our vassals.;;;;;;;;;;;;;x
-tributary_cb_desc;§Y$TARGET$§! is rich and should pay tribute to you!\n\nThrough war you can force any realm that you border to pay you §Y40%§! of their income as tribute.\nThis type of §YTributary§! will §Rbreak free§! upon the death of the §YSuzerain§!.\nThis type of §YTributary§! can be called to war.;;;;;;;;;;;;;x
-tributary_nomad_cb_desc;§Y$TARGET$§!'s realm is weak and no match for me, it is time for them to pay tribute or be crushed underneath the thundering hooves of my horde!\n\nThrough war you can force any realm that you or one of your §YTributaries§! border to pay you §Y50%§! of their income as tribute.\nWill only break free if the §YSuzerain§! has §Rnegative§! §YPrestige§!.\nThis type of §YTributary§! can be called to war.\nThis type of §YTributary§! can call you into their wars, but you are not forced to accept their §YCall to Arms§!.;;;;;;;;;;;;;x
-tributary_offmap_cb_desc;China can, by way of war, force realms to pay them tribute.;;;;;;;;;;;;;x
-tributary_permanent_cb_desc;§Y$TARGET$§! is weak, but if they would just pay you tribute in the form of gold and soldiers you could protect them!\n\nThrough war you can force any realm that you or one of your §YTributary States§! border to pay you §Y20%§! of their income and §Y15%§! of their levy reinforcements as tribute.\nWill only break free if the §YSuzerain§! has §Rnegative§! §YPrestige§!, is §RNOT§! §YIndependent§!, has §Rless§! §YRealm Size§! than the §YTributary State§! or §Rdeclines a defensive§! §YCall to Arms§! from the §YTributary State§!.\nThis type of §YTributary§! can §RNOT§! be called to war.;;;;;;;;;;;;;x
-truebelievers_bid_for_independence;Revolt of the old believers;;;;;;;;;;;;;x
-truebelievers_bid_for_independence_desc;§Y$CLAIMANT$§! can attempt to declare independence from §Y$TARGET$§! for renouncing the old faith!;;;;;;;;;;;;;x
-unjust_conquest_desc;You can choose to dispute any County that borders you. Beware that choosing to wage a conquest not backed by a Claim carries hefty penalties - the penalties are the highest when attacking someone following your religion, fairly high while attacking someone of your religious group and still significant when attacking someone of another religious group.;;;;;;;;;;;;;x
-viking_invasion_desc;Norse Pagans can declare their intention to invade all the territory held by a sufficiently powerful target within a given de jure kingdom. This will swell their ranks with adventurers, but they must attack within two years.;;;;;;;;;;;;;x
-WAR_DUCHY_ADVENTURE;[Actor.GetTitledFirstName]'s Conquest of $OTHER_TITLE$;;;;;;;;;;;;;x
-WAR_NAME_ANTIHELLENIC_WAR;$ORDER$$SECOND_ADJ$ Hellenic Civil War;;;;;;;;;;;;;x
-WAR_NAME_CLAIM;$ORDER$$FIRST_ADJ$ Claim on $OTHER_TITLE$ War;;;;;;;;;;;;;x
-WAR_NAME_CLAIM_ALL;$ORDER$$FIRST_ADJ$ War for the $CLAIMS$;;;;;;;;;;;;;x
-WAR_NAME_CLAIM_LIEGE;$ATTACKER$'s $ORDER$War for $OTHER_TITLE$;;;;;;;;;;;;;x
-WAR_NAME_CLAIM_VASSAL;$ATTACKER$'s $ORDER$War to Revoke $OTHER_TITLE$;;;;;;;;;;;;;x
-WAR_NAME_CLAN_REVOLT;$ORDER$$ATTACKER$ Clan Revolt for $OTHER_TITLE$;;;;;;;;;;;;;x
-WAR_NAME_COASTAL_COUNTY_REPUBLIC;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ War for the Coast of $OTHER_TITLE$;;;;;;;;;;;;;x
-WAR_NAME_COASTAL_REPUBLIC;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ War for the City of $OTHER_TITLE$;;;;;;;;;;;;;x
-WAR_NAME_COUNTY_CONQUEST;$ORDER$$FIRST_ADJ$ Conquest of $OTHER_TITLE$;;;;;;;;;;;;;x
-WAR_NAME_CRUSADE;$ORDER$$RELIGION$ $HOLY_WAR$ for $OTHER_TITLE$;;;;;;;;;;;;;x
-WAR_NAME_DEC_INVASION;$FIRST_ADJ$ Invasion of $SECOND$;;;;;;;;;;;;;x
-WAR_NAME_DECADENCE_USURPTION;$ORDER$$FIRST_ADJ$ Decadence Usurption;;;;;;;;;;;;;x
-WAR_NAME_DEJUREBARONYCLAIM;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ De Jure Holding War over $OTHER_TITLE$;;;;;;;;;;;;;x
-WAR_NAME_DEJURECLAIM;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ De Jure War over $OTHER_TITLE$;;;;;;;;;;;;;x
-WAR_NAME_DEPOSE_ANTIPOPE;$FIRST_ADJ$-$SECOND_ADJ$ Antipapal War;;;;;;;;;;;;;x
-WAR_NAME_DEPOSE_IMPIOUS_POPE;$FIRST_ADJ$ War for the Holy See;;;;;;;;;;;;;x
-WAR_NAME_DEPOSE_LIEGE;$ORDER$$FIRST_ADJ$ War to depose $DEFENDER$;;;;;;;;;;;;;x
-WAR_NAME_DESTABILIZATION_CHINA;$ORDER$$FIRST_ADJ$ War to Shatter the Realm of $DEFENDER$;;;;;;;;;;;;;x
-WAR_NAME_DISMANTLE_PRETENDER_CHINA;The $ORDER$[offmap_china.GetFullName] War to Dismantle the Pretender [Recipient.PrimaryTitle.GetFullName];;;;;;;;;;;;;x
-WAR_NAME_DISPUTE;Dispute of $OTHER_TITLE$;;;;;;;;;;;;;x
-WAR_NAME_DUCALCOUNTYCONQUEST;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Ducal Conquest of $OTHER_TITLE$;;;;;;;;;;;;;x
-WAR_NAME_EMBARGO;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Embargo War;;;;;;;;;;;;;x
-WAR_NAME_EXCOMMUNICATED_RULER;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Excommunication War;;;;;;;;;;;;;x
-WAR_NAME_FACTION_INDEPENDENCE;$ORDER$$FIRST_ADJ$ League Independence War;;;;;;;;;;;;;x
-WAR_NAME_FEUDAL_ELECTIVE_SUCCESSION_LAW;$ORDER$$SECOND_ADJ$ Civil War for Elective Monarchy;;;;;;;;;;;;;x
-WAR_NAME_FLOWER_WAR;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Flower War;;;;;;;;;;;;;x
-WAR_NAME_FORCE_OPEN_CHINA;The $ORDER$$FIRST_ADJ$ War to Force Open the [offmap_china.GetFullName];;;;;;;;;;;;;x
-WAR_NAME_FORCE_VASSALIZATION;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Vassalization War;;;;;;;;;;;;;x
-WAR_NAME_FREE_TRIBUTARY;$ORDER$$FIRST_ADJ$ War to Free $ATTACKER$ from Suzerain;;;;;;;;;;;;;x
-WAR_NAME_GAVELKIND_SUCCESSION_LAW;$ORDER$$SECOND_ADJ$ Civil War for Gavelkind;;;;;;;;;;;;;x
-WAR_NAME_GREATREALMCONFLICT;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Great Conquest of $OTHER_TITLE$;;;;;;;;;;;;;x
-WAR_NAME_HERETIC_UPRISING;$ORDER$$SECOND_ADJ$ [Actor.Religion.GetName] Revolt;;;;;;;;;;;;;x
-WAR_NAME_HOSTAGES;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ War to Free Captives;;;;;;;;;;;;;x
-WAR_NAME_HUMILIATE;$ORDER$$FIRST_ADJ$ War to Humiliate $DEFENDER$;;;;;;;;;;;;;x
-WAR_NAME_IMPERIAL;$ORDER$$FIRST_ADJ$ Imperial Reconquest of $OTHER_TITLE$;;;;;;;;;;;;;x
-WAR_NAME_INCREASE_COUNCIL_POWER;$ORDER$$SECOND_ADJ$ Civil War to increase Council Power;;;;;;;;;;;;;x
-WAR_NAME_INDEPENDENCE;$ORDER$War of $FIRST_ADJ$ Independence;;;;;;;;;;;;;x
-WAR_NAME_INSTALL_ANTIKING;$FIRST_ADJ$-$SECOND_ADJ$ Antiking War;;;;;;;;;;;;;x
-WAR_NAME_INSTALLKHAN;Install $ATTACKER$ as Khan of $SECOND$;;;;;;;;;;;;;x
-WAR_NAME_INVASION;$ORDER$$FIRST_ADJ$ Invasion of $OTHER_TITLE$;;;;;;;;;;;;;x
-WAR_NAME_INVASION_OF_CHINA;$ORDER$$FIRST_ADJ$ Invasion of the [offmap_china.GetFullName];;;;;;;;;;;;;x
-WAR_NAME_LIBERATE_NOMAD;$ORDER$$FIRST_ADJ$ Liberation of $OTHER_TITLE$;;;;;;;;;;;;;x
-WAR_NAME_LIBERATE_RELIGION;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ War to Religiously Liberate [Title.GetBaseName];;;;;;;;;;;;;x
-WAR_NAME_LIBERATION_REVOLT;$ORDER$Liberation of [Title.GetBaseName];;;;;;;;;;;;;x
-WAR_NAME_LOWER_CROWN_AUTHORITY_LAW;$ORDER$$SECOND_ADJ$ Civil War to lower Crown Authority;;;;;;;;;;;;;x
-WAR_NAME_LOWER_TRIBAL_ORGANIZATION_LAW;$ORDER$$SECOND_ADJ$ Civil War to lower Tribal Organization;;;;;;;;;;;;;x
-WAR_NAME_MINOR_CLAN_REVOLT;Minor Clan Rising;;;;;;;;;;;;;x
-WAR_NAME_NOMAD_EXPANSION;$ORDER$$FIRST_ADJ$ War for $OTHER_TITLE$;;;;;;;;;;;;;x
-WAR_NAME_NOMAD_TRIBUTARY;$ORDER$$FIRST_ADJ$ War to Make $DEFENDER$ a Tributary State;;;;;;;;;;;;;x
-WAR_NAME_NORTHERN_CRUSADE;$ORDER$ Teutonic War for $OTHER_TITLE$;;;;;;;;;;;;;x
-WAR_NAME_OFFMAP_SUBMISSION;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Submission War;;;;;;;;;;;;;x
-WAR_NAME_OTHER_CLAIM;$ORDER$$FIRST_ADJ$ War for $CLAIMANT$'s claim on $OTHER_TITLE$;;;;;;;;;;;;;x
-WAR_NAME_OTHER_DEJUREBARONYCLAIM;$ORDER$$FIRST_ADJ$ County War for $CLAIMANT$'s claim on $OTHER_TITLE$;;;;;;;;;;;;;x
-WAR_NAME_OTHER_DEJURECLAIM;$ORDER$$FIRST_ADJ$ Ducal War for $CLAIMANT$'s claim on $OTHER_TITLE$;;;;;;;;;;;;;x
-WAR_NAME_OTHER_SUCCESSION;$ORDER$$FIRST_ADJ$ War to install $CLAIMANT$ in $SECOND$;;;;;;;;;;;;;x
-WAR_NAME_OVERTHROWRULER;$ORDER$War against the Tyranny of $DEFENDER$;;;;;;;;;;;;;x
-WAR_NAME_OVERTHROWRULER_NC;$ORDER$Revolt against the rule of $DEFENDER$;;;;;;;;;;;;;x
-WAR_NAME_PAGAN_SUBJUGATION;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Subjugation War;;;;;;;;;;;;;x
-WAR_NAME_PAPAL_RELIGIOUS;$ORDER$$FIRST_ADJ$ Papal War for $OTHER_TITLE$;;;;;;;;;;;;;x
-WAR_NAME_PEASANT_CONQUEST;Peasant Revolt for $OTHER_TITLE$;;;;;;;;;;;;;x
-WAR_NAME_PERMANENT_TRIBUTARY;$ORDER$$FIRST_ADJ$ War to Make $DEFENDER$ a Tributary State;;;;;;;;;;;;;x
-WAR_NAME_POWERFUL_VASSAL_TAKEOVER;$ORDER$War to Oust $DEFENDER$ from Power;;;;;;;;;;;;;x
-WAR_NAME_PRIOGENITURE_SUCCESSION_LAW;$ORDER$$SECOND_ADJ$ Civil War for Primogeniture;;;;;;;;;;;;;x
-WAR_NAME_RECONQUISTA_ARAGON;$ORDER$Reconquest War for Aragon;;;;;;;;;;;;;x
-WAR_NAME_RECONQUISTA_BALEARIC;$ORDER$Reconquest War for the Balearic Islands;;;;;;;;;;;;;x
-WAR_NAME_RECONQUISTA_BEJA;$ORDER$Reconquest War for Western Coast;;;;;;;;;;;;;x
-WAR_NAME_RECONQUISTA_CASTILLE;$ORDER$Reconquest War for Castille;;;;;;;;;;;;;x
-WAR_NAME_RECONQUISTA_CORDOBA;$ORDER$Reconquest War for Central Iberia;;;;;;;;;;;;;x
-WAR_NAME_RECONQUISTA_GALICIA;$ORDER$Reconquest War for Galicia;;;;;;;;;;;;;x
-WAR_NAME_RECONQUISTA_GRANADA;$ORDER$Reconquest War for Southern Iberia;;;;;;;;;;;;;x
-WAR_NAME_RECONQUISTA_LEON;$ORDER$Reconquest War for Leon;;;;;;;;;;;;;x
-WAR_NAME_RECONQUISTA_NAVARRA;$ORDER$Reconquest War for Navarra;;;;;;;;;;;;;x
-WAR_NAME_RECONQUISTA_VALENCIA;$ORDER$Reconquest War for the Eastern Coast;;;;;;;;;;;;;x
-WAR_NAME_RELIGIOUS;$ORDER$$FIRST_ADJ$ Holy War for $OTHER_TITLE$;;;;;;;;;;;;;x
-WAR_NAME_RIVALRY;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Rivalry War;;;;;;;;;;;;;x
-WAR_NAME_SEIZE_TRADE_POST;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Trade War over $OTHER_TITLE$;;;;;;;;;;;;;x
-WAR_NAME_SENIORITY_SUCCESSION_LAW;$ORDER$$SECOND_ADJ$ Civil War for Seniority;;;;;;;;;;;;;x
-WAR_NAME_SEX_DEPOSITION;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ War to Depose $DEFENDER$;;;;;;;;;;;;;x
-WAR_NAME_SHATTERED_COUNTY_CONQUEST;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Consolidation of $OTHER_TITLE$;;;;;;;;;;;;;x
-WAR_NAME_SHEPHERDS_CRUSADE;$ORDER$ Shepherds' Crusade for [Title.GetBaseName];;;;;;;;;;;;;x
-WAR_NAME_SHIA_CALIPHATE_RISING;$ORDER$Shi'a Caliphate Rising in [Title.GetBaseName];;;;;;;;;;;;;x
-WAR_NAME_SUCCESSION;$ORDER$$SECOND_ADJ$ Succession Crisis;;;;;;;;;;;;;x
-WAR_NAME_THANKMARS_REBELLION;Thankmar's Rebellion;;;;;;;;;;;;;x
-WAR_NAME_TRIBAL_INDEPENDENCE;$ORDER$War against the Great $SECOND_ADJ$ Conversion;;;;;;;;;;;;;x
-WAR_NAME_TRIBUTARY;$ORDER$$FIRST_ADJ$ War to Make $DEFENDER$ Pay Tribute;;;;;;;;;;;;;x
-WAR_NAME_ULTIMOGENITURE_SUCCESSION_LAW;$ORDER$$SECOND_ADJ$ Civil War for Ultimogeniture;;;;;;;;;;;;;x
-WAR_NAME_UNJUST_COUNTY_CONQUEST;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Border Dispute over $OTHER_TITLE$;;;;;;;;;;;;;x
-WAR_NAME_VIKING_INVASION;$ORDER$$FIRST_ADJ$ Prepared Invasion of $OTHER_TITLE$;;;;;;;;;;;;;x
-WAR_NAME_WEAKEN_VASSAL;War for a New Ruler of $OTHER_TITLE$.;;;;;;;;;;;;;x
-
+abrahamic_antihellenic_revolt;Hellenic Civil War;;;;;;;;;;;[Ýëëèí]ñêàÿ ãðàæäàíñêàÿ âîéíà;;x
+abrahamic_antihellenic_revolt_desc;The decision to reinstate a dead, heathen cult in place of the worship of the Abrahamic god has dragged the newly-reformed Empire into civil war.;;;;;;;;;;;Ðåøåíèå âîññòàíîâèòü ì¸ðòâûé ÿçû÷åñêèé êóëüò âìåñòî ïîêëîíåíèÿ àâðààìè÷åñêîìó áîãó âòÿíóëî íåäàâíî ðåôîðìèðîâàííóþ èìïåðèþ â ãðàæäàíñêóþ âîéíó.;;x
+bid_for_independence_desc;§Y$CLAIMANT$§! can attempt to declare independence from §Y$TARGET$§!;;;;;;;;;;;§Y$CLAIMANT$§! ìîæåò ïîïûòàòüñÿ îáúÿâèòü íåçàâèñèìîñòü îò ñþçåðåíà (§Y$TARGET$§!);;x
+buddhist_holy_war_desc;§Y$CLAIMANT$§! can use this Casus Belli to seize the §Y$TITLE$§!.;;;;;;;;;;;§Y$CLAIMANT$§! ìîæåò èñïîëüçîâàòü ýòîò Casus Belli (ïîâîä äëÿ âîéíû), ÷òîáû çàõâàòèòü çåìëþ, èçâåñòíóþ êàê §Y$TITLE$§!.;;x
+caliphal_subjugation_desc;For §Y200§! Piety, Caliphs are allowed to subjugate all other Muslim rulers of the same denomination once per §Y10§! years.;;;;;;;;;;;Õàëèôû ìîãóò çàâî¸âûâàòü äðóãèõ ìóñóëüìàíñêèõ ïðàâèòåëåé îäèí ðàç â §Y10§! ëåò, ïîòðàòèâ §Y200§! áëàãî÷åñòèÿ.;;x
+CB_ANTIHELLENIC_WAR;Hellenic Civil War;;;;;;;;;;;Àíòè[ýëëèí]ñêàÿ âîéíà;;x
+cb_decadence_usurption_desc;Muslims can use this Casus Belli to usurp titles from their decadent dynasty members.;;;;;;;;;;;Ìóñóëüìàíå ìîãóò èñïîëüçîâàòü ýòîò Casus Belli, ÷òîáû óçóðïèðîâàòü òèòóëû ó äåêàäåíòîâ èç èõ äèíàñòèè.;;x
+cb_faction_independence_desc;The members of the Independence faction, led by §Y$CLAIMANT$§!, can collectively attempt to declare independence from §Y$TARGET$§!;;;;;;;;;;;Ñåïàðàòèñòû, êîòîðûõ âîçãëàâëÿåò §Y$CLAIMANT$§!, ìîãóò ïîòðåáîâàòü íåçàâèñèìîñòü îò ãîñóäàðñòâà §Y$TARGET$§!;;x
+cb_install_khan_desc;The clans can forcefully depose the Khagan and replace him with someone more powerful.;;;;;;;;;;;Êëàíû ìîãóò ñâåðãíóòü êàãàíà è ïîñàäèòü íà åãî ìåñòî áîëåå ìîãóùåñòâåííîãî êàíäèäàòà.;;x
+cb_liberate_nomad_duchy_desc;§Y$CLAIMANT$§! can use this Casus Belli to seize all titles held by the savage, §Y$TARGET$§!, within the de jure §Y$TITLE$§!.;;;;;;;;;;;§Y$CLAIMANT$§! ìîæåò èñïîëüçîâàòü ýòîò Casus Belli (ïîâîä äëÿ âîéíû), ÷òîáû çàõâàòèòü âñå òèòóëû, êîòîðûìè îáëàäàåò §Y$TARGET$§! â äå-þðå ïðåäåëàõ îáëàñòè §Y$TITLE$§!.;;x
+cb_minor_clan_revolt_desc;Powerful 'minor' clans can rise up in revolt, demanding a place among the major clans.;;;;;;;;;;;"Ìîãóùåñòâåííûå ""ìàëûå"" êëàíû ìîãóò ïîäíÿòü ìÿòåæ ñ öåëüþ çàíÿòü ìåñòî ñðåäè âåäóùèõ êëàíîâ.";;x
+CB_NAME_CLAIM;Claim [Title.GetBaseName];;;;;;;;;;;Ïîòðåáîâàòü: [Title.GetShortBaseName];;x
+CB_NAME_CLAIM_ALL;Press all Claims;;;;;;;;;;;Íàñòàèâàòü íà ñâîèõ ïðåòåíçèÿõ;;x
+CB_NAME_CLAIM_VASSAL;Revoke [Title.GetBaseName];;;;;;;;;;;"Îòîçâàòü: ""[Title.GetShortBaseName]""";;x
+CB_NAME_CLAN_REVOLT;Clan Revolt for [Title.GetBaseName];;;;;;;;;;;Êëàíîâîå âîññòàíèå: [Title.GetShortBaseName];;x
+CB_NAME_COASTAL_COUNTY_REPUBLIC;Seize [Title.GetBaseName];;;;;;;;;;;[Title.GetShortBaseName]: çàõâàò ïîáåðåæüÿ;;x
+CB_NAME_COASTAL_REPUBLIC;Seize the City of [Title.GetBaseName];;;;;;;;;;;[Title.GetShortBaseName]: çàõâàò ãîðîäà;;x
+CB_NAME_COUNTY_CONQUEST;Conquest of [Title.GetBaseName];;;;;;;;;;;[Title.GetShortBaseName]: çàâîåâàíèå îêðóãà;;x
+CB_NAME_CRUSADE;$HOLY_WAR$ for [Title.GetBaseName];;;;;;;;;;;[Title.GetShortBaseName]: $HOLY_WAR$;;x
+CB_NAME_DECADENCE_USURPTION;Decadence Usurption;;;;;;;;;;;Óçóðïàöèÿ;;x
+CB_NAME_DEJUREBARONYCLAIM;[Title.GetBaseName] Holdings;;;;;;;;;;;[Title.GetShortBaseName] (âëàäåíèÿ);;x
+CB_NAME_DEJURECLAIM;De Jure Claim on [Title.GetBaseName];;;;;;;;;;;[Title.GetShortBaseName]: äå-þðå ïðåòåíçèÿ;;x
+CB_NAME_DEPOSE_ANTIPOPE;Depose Antipope;;;;;;;;;;;Ñâåðãíóòü àíòèïàïó;;x
+CB_NAME_DEPOSE_IMPIOUS_POPE;Depose Impious Pope;;;;;;;;;;;Ñâåðæåíèå ïîðî÷íîãî Ïàïû;;x
+CB_NAME_DEPOSE_LIEGE;Depose liege;;;;;;;;;;;Ñâåðãíóòü ñþçåðåíà;;x
+CB_NAME_DESTABILIZATION_CHINA;Shatter Realm;;;;;;;;;;;Ðàñêîë ñòðàíû;;x
+CB_NAME_DISMANTLE_PRETENDER_CHINA;Dismantle Pretender;;;;;;;;;;;Ñâåðãíóòü ñàìîçâàíöà;;x
+CB_NAME_DISPUTE;Dispute [Title.GetBaseName];;;;;;;;;;;Îñïîðèòü: [Title.GetShortBaseName];;x
+CB_NAME_DUCALCOUNTYCONQUEST;Ducal Conquest of [Title.GetBaseName];;;;;;;;;;;Ãåðöîãñêîå çàâîåâàíèå: [Title.GetBaseName];;x
+CB_NAME_DUCHY_ADVENTURE;Adventurer Conquest of [Title.GetBaseName];;;;;;;;;;;[Title.GetShortBaseName]: àâàíòþðíîå çàâîåâàíèå;;x
+CB_NAME_EMBARGO;Embargo;;;;;;;;;;;Ýìáàðãî;;x
+CB_NAME_EXCOMMUNICATED_RULER;Excommunicated ruler;;;;;;;;;;;Îòëó÷¸ííûé îò öåðêâè ïðàâèòåëü;;x
+CB_NAME_FEUDAL_ELECTIVE_SUCCESSION_LAW;Elective Monarchy Succession Law;;;;;;;;;;;Ââåñòè ôåîäàëüíûå âûáîðû;;x
+CB_NAME_FLOWER_WAR;Flower War;;;;;;;;;;;Âîéíà Öâåòîâ;;x
+CB_NAME_FORCE_OPEN_CHINA;Force Open [offmap_china.GetShortName];;;;;;;;;;;Ñíÿòü áëîêàäó èìïåðèè [offmap_china.GetShortName];;x
+CB_NAME_FORCE_VASSALIZATION;Force Vassalization;;;;;;;;;;;Ïðèíóæäåíèå ê âàññàëèçàöèè;;x
+CB_NAME_FREE_TRIBUTARY;Free Tributary;;;;;;;;;;;Ñâåðãíóòü ãåãåìîíèþ;;x
+CB_NAME_GAVELKIND_SUCCESSION_LAW;Gavelkind Succession Law;;;;;;;;;;;Ââåñòè ðàâíûé ðàçäåë;;x
+CB_NAME_GREATREALMCONFLICT;Great Conquest of [Title.GetBaseName];;;;;;;;;;;Âåëèêîå çàâîåâàíèå: [Title.GetBaseName];;x
+CB_NAME_HERETIC_UPRISING;[Actor.Religion.GetName] Uprising;;;;;;;;;;;[Actor.GetRelAdjCap]ñêîå âîññòàíèå;;x
+CB_NAME_HOSTAGES;Free Captives;;;;;;;;;;;Îñâîáîæäåíèå ïëåííûõ;;x
+CB_NAME_HUMILIATE;Humiliate;;;;;;;;;;;Óíèçèòü;;x
+CB_NAME_IMPERIAL;Imperial Reconquest of [Title.GetBaseName];;;;;;;;;;;[Title.GetShortBaseName]: èìïåðñêîå çàâîåâàíèå;;x
+CB_NAME_INCREASE_COUNCIL_POWER;Increase Council Power;;;;;;;;;;;Óñèëèòü ñîâåò;;x
+CB_NAME_INDEPENDENCE;Independence;;;;;;;;;;;Íåçàâèñèìîñòü;;x
+CB_NAME_INSTALL_ANTIKING;Install Antiking;;;;;;;;;;;Ïîñòàâèòü àíòèêîðîëÿ;;x
+CB_NAME_INSTALLKHAN;Install Khagan;;;;;;;;;;;Ñâåðæåíèå êàãàíà;;x
+CB_NAME_INVASION;Invasion of [Title.GetBaseName];;;;;;;;;;;[Title.GetShortBaseName]: âòîðæåíèå;;x
+CB_NAME_INVASION_OF_CHINA;Invasion of [offmap_china.GetShortName];;;;;;;;;;;Âòîðæåíèå â èìïåðèþ [offmap_china.GetShortName];;x
+CB_NAME_LIBERATE_NOMAD;Liberate [Title.GetBaseName];;;;;;;;;;;[Title.GetShortBaseName] - Îñâîáîæäåíèå;;x
+CB_NAME_LIBERATE_RELIGION;Religious Liberation of [Title.GetBaseName];;;;;;;;;;;Ðåëèãèîçíîå îñâîáîæäåíèå: [Title.GetBaseName];;x
+CB_NAME_LIBERATION_REVOLT;Liberation of [Title.GetBaseName];;;;;;;;;;;§Y[Title.GetShortBaseName]§!: îñâîáîæäåíèå;;x
+CB_NAME_LOWER_CROWN_AUTHORITY_LAW;Lower Crown Authority;;;;;;;;;;;Ïîíèæåíèå àâòîðèòåòà Êîðîíû;;x
+CB_NAME_LOWER_TRIBAL_ORGANIZATION_LAW;Lower Tribal Organization;;;;;;;;;;;Ñíèçèòü îðãàíèçîâàííîñòü;;x
+CB_NAME_MATRIARCHAL_DEPOSITION;Matriarchal Deposition War;;;;;;;;;;;Ìàòðèàðõàëüíàÿ âîéíà çà ñâåðæåíèå;;x
+CB_NAME_MINOR_CLAN_REVOLT;Minor Clan Revolt;;;;;;;;;;;Âîçâûøåíèå ìàëîãî êëàíà;;x
+CB_NAME_NOMAD_EXPANSION;Subordination of [Title.GetBaseName];;;;;;;;;;;Ïîä÷èíåíèå: [Title.GetShortBaseName];;x
+CB_NAME_NOMAD_TRIBUTARY;Establish Tributary;;;;;;;;;;;Ñäåëàòü äàííèêîì îðäû;;x
+CB_NAME_NORTHERN_CRUSADE;Teutonic War for [Title.GetBaseName];;;;;;;;;;;[Title.GetBaseName]: Òåâòîíñêàÿ âîéíà;;x
+CB_NAME_OFFMAP_SUBMISSION;Submission;;;;;;;;;;;Ïîä÷èíåíèå;;x
+CB_NAME_OVERTHROWRULER;Overthrow ruler;;;;;;;;;;;Ñâåðæåíèå ïðàâèòåëÿ;;x
+CB_NAME_OVERTHROWRULER_NC;Overthrow Ruler;;;;;;;;;;;Ñâåðæåíèå ïðàâèòåëÿ;;x
+CB_NAME_PAGAN_SUBJUGATION;Subjugation;;;;;;;;;;;Ïîêîðåíèå;;x
+CB_NAME_PAPAL_RELIGIOUS;Papal War for [Title.GetBaseName];;;;;;;;;;;[Title.GetBaseName]: Ïàïñêàÿ âîéíà;;x
+CB_NAME_PATRIARCHAL_DEPOSITION;Patriarchal Deposition War;;;;;;;;;;;Ïàòðèàðõàëüíàÿ âîéíà çà ñâåðæåíèå;;x
+CB_NAME_PEASANT_CONQUEST;Peasant Revolt for [Title.GetBaseName];;;;;;;;;;;§Y[Title.GetShortBaseName]§!: êðåñòüÿíñêîå âîññòàíèå;;x
+CB_NAME_PERMANENT_TRIBUTARY;Establish Tributary State;;;;;;;;;;;Óñòàíîâëåíèå ãåãåìîíèè;;x
+CB_NAME_POWERFUL_VASSAL_TAKEOVER;Oust Ruler;;;;;;;;;;;Îòñòðàíèòü ïðàâèòåëÿ;;x
+CB_NAME_PRIMOGENITURE_SUCCESSION_LAW;Primogeniture Succession Law;;;;;;;;;;;Ââåñòè ïåðâîðîäñòâî;;x
+CB_NAME_RECONQUISTA_ARAGON;Reconquest of Aragon;;;;;;;;;;;Ðåêîíêèñòà Àðàãîíà;;x
+CB_NAME_RECONQUISTA_BALEARIC;Reconquest of the Balearic Islands;;;;;;;;;;;Ðåêîíêèñòà Áàëåàðñêèõ îñòðîâîâ;;x
+CB_NAME_RECONQUISTA_BEJA;Reconquest of Western Coast;;;;;;;;;;;Ðåêîíêèñòà Çàïàäíîãî ïîáåðåæüÿ;;x
+CB_NAME_RECONQUISTA_CASTILLE;Reconquest of Castille;;;;;;;;;;;Ðåêîíêèñòà Êàñòèëèè;;x
+CB_NAME_RECONQUISTA_CORDOBA;Reconquest of Central Iberia;;;;;;;;;;;Ðåêîíêèñòà Öåíòðàëüíîé Èáåðèè;;x
+CB_NAME_RECONQUISTA_GALICIA;Reconquest of Galicia;;;;;;;;;;;Ðåêîíêèñòà Ãàëèñèè;;x
+CB_NAME_RECONQUISTA_GRANADA;Reconquest of Southern Iberia;;;;;;;;;;;Ðåêîíêèñòà Þæíîé Èáåðèè;;x
+CB_NAME_RECONQUISTA_LEON;Reconquest of Leon;;;;;;;;;;;Ðåêîíêèñòà Ëåîíà;;x
+CB_NAME_RECONQUISTA_NAVARRA;Reconquest of Navarra;;;;;;;;;;;Ðåêîíêèñòà Íàâàððû;;x
+CB_NAME_RECONQUISTA_VALENCIA;Reconquest of the Eastern Coast;;;;;;;;;;;Ðåêîíêèñòà Âîñòî÷íîãî ïîáåðåæüÿ;;x
+CB_NAME_RELIGIOUS;Holy War for [Title.GetBaseName];;;;;;;;;;;[Title.GetShortBaseName]: Ñâÿùåííàÿ âîéíà;;x
+CB_NAME_RELIGIOUS_MINOR;Minor Holy War for [Title.GetBaseName];;;;;;;;;;;[Title.GetBaseName]: ìàëàÿ ñâÿùåííàÿ âîéíà;;x
+CB_NAME_RIVALRY;Rivalry;;;;;;;;;;;Ëè÷íàÿ ìåñòü;;x
+CB_NAME_SEIZE_TRADE_POST;Seize [Title.GetBaseName] Trade Post;;;;;;;;;;;[Title.GetShortBaseName]: çàõâàò ôàêòîðèè;;x
+CB_NAME_SENIORITY_SUCCESSION_LAW;Seniority Succession Law;;;;;;;;;;;Ââåñòè ñåíüîðàò;;x
+CB_NAME_SHATTERED_COUNTY_CONQUEST;Consolidation of [Title.GetBaseName];;;;;;;;;;;Îáúåäèíåíèå: [Title.GetBaseName];;x
+CB_NAME_SHEPHERDS_CRUSADE;Shepherds' Crusade for [Title.GetBaseName];;;;;;;;;;;[Title.GetBaseName]: Êðåñòîâûé ïîõîä Ïàñòóøêîâ;;x
+CB_NAME_SHIA_CALIPHATE_RISING;Shi'a Caliphate Rising in [Title.GetBaseName];;;;;;;;;;;§Y[Title.GetShortBaseName]§!: Øèèòñêèé õàëèôàò;;x
+CB_NAME_SUCCESSION;Dispute Succession;;;;;;;;;;;Ñïîðû î ïðåñòîëîíàñëåäèè;;x
+CB_NAME_THANKMARS_REBELLION;Thankmar's Rebellion;;;;;;;;;;;Òàíêìàðñêîå âîññòàíèå;;x
+CB_NAME_TRIBAL_INDEPENDENCE;Pagan Revolt;;;;;;;;;;;ßçû÷åñêîå âîññòàíèå;;x
+CB_NAME_TRIBUTARY;Extort Tribute;;;;;;;;;;;Âîéíà çà äàíü;;x
+CB_NAME_ULTIMOGENITURE_SUCCESSION_LAW;Ultmogeniture Succession Law;;;;;;;;;;;Ââåñòè ìèíîðàò;;x
+CB_NAME_UNJUST_COUNTY_CONQUEST;Border Dispute over [Title.GetBaseName];;;;;;;;;;;Ñïîð çà îêðóã [Title.GetBaseName];;x
+CB_NAME_VIKING_INVASION;Prepared Invasion of [Title.GetBaseName];;;;;;;;;;;§Y[Title.GetShortBaseName]§!: ïîäãîòîâëåííîå âòîðæåíèå;;x
+CB_NAME_WEAKEN_VASSAL;Claim [Title.GetName];;;;;;;;;;;[Title.GetName]: ïðåòåíçèÿ;;x
+change_feudal_elective_succession_law_desc;§Y$CLAIMANT$§! can declare war to change the succession law in the §Y$TITLE$§! to feudal elective!;;;;;;;;;;;§Y$CLAIMANT$§! ìîæåò îáúÿâèòü âîéíó äëÿ èçìåíåíèÿ íàñëåäñòâåííîãî ïðàâà â ãîñóäàðñòâå §Y$TITLE$§! íà §Yâûáîðíóþ ìîíàðõèþ§!;;x
+change_gavelkind_succession_law_desc;§Y$CLAIMANT$§! can declare war to change the succession law in the §Y$TITLE$§! to gavelkind!;;;;;;;;;;;§Y$CLAIMANT$§! ìîæåò îáúÿâèòü âîéíó äëÿ èçìåíåíèÿ íàñëåäñòâåííîãî ïðàâà â ãîñóäàðñòâå §Y$TITLE$§! íà §Yðàâíûé ðàçäåë§!;;x
+change_primogeniture_succession_law_desc;§Y$CLAIMANT$§! can declare war to change the succession law in the §Y$TITLE$§! to primogeniture!;;;;;;;;;;;§Y$CLAIMANT$§! ìîæåò îáúÿâèòü âîéíó äëÿ èçìåíåíèÿ íàñëåäñòâåííîãî ïðàâà â ãîñóäàðñòâå §Y$TITLE$§! íà §Yïåðâîðîäñòâî§!;;x
+change_seniority_succession_law_desc;§Y$CLAIMANT$§! can declare war to change the succession law in the §Y$TITLE$§! to seniority!;;;;;;;;;;;§Y$CLAIMANT$§! ìîæåò îáúÿâèòü âîéíó äëÿ èçìåíåíèÿ íàñëåäñòâåííîãî ïðàâà â ãîñóäàðñòâå §Y$TITLE$§! íà §Yñåíüîðàò§!;;x
+change_ultimogeniture_succession_law_desc;§Y$CLAIMANT$§! can declare war to change the succession law in the §Y$TITLE$§! to ultimogeniture!;;;;;;;;;;;§Y$CLAIMANT$§! ìîæåò îáúÿâèòü âîéíó äëÿ èçìåíåíèÿ íàñëåäñòâåííîãî ïðàâà â ãîñóäàðñòâå §Y$TITLE$§! íà §Yìèíîðàò§!;;x
+childrens_crusade;Children's Crusade;;;;;;;;;;;Äåòñêèé êðåñòîâûé ïîõîä;;x
+childrens_crusade_desc;A large group of peasants and children, led by a [Root.GetBoyGirl] claiming to hear the voice of Christ, has embarked into a desperate mission to reconquer the Holy Lands from the infidels.;;;;;;;;;;;Áîëüøàÿ ãðóïïà êðåñòüÿí è äåòåé âî ãëàâå ñ ðåá¸íêîì, óòâåðæäàþùèì, ÷òî ñëûøèò ãîëîñ [GetChristNameGEN], ïðèñòóïèëà ê îò÷àÿííîé ìèññèè ïî çàâîåâàíèþ Ñâÿòîé Çåìëè ó íåâåðíûõ.;;x
+claim_all_desc;§Y$CLAIMANT$§! can declare war on §Y$TARGET$§! with several strong claims (weak claims do not count.);;;;;;;;;;;§Y$CLAIMANT$§! èìååò íåñêîëüêî ñèëüíûõ ïðåòåíçèé (ñëàáûå íå ó÷èòûâàþòñÿ) íà òèòóëû, êîòîðûìè âëàäååò §Y$TARGET$§! Ýòî ïîâîä äëÿ âîéíû;;x
+claim_desc;This Casus Belli can be used by §Y$CLAIMANT$§! to press the claim on the §Y$TITLE$§!;;;;;;;;;;;Ýòîò Casus Belli ìîæåò èñïîëüçîâàòü §Y$CLAIMANT$§! äëÿ ïîäòâåðæäåíèÿ ñâîèõ ïðåòåíçèé íà òèòóë §Y$TITLE$§!;;x
+claim_on_liege_desc;This Casus Belli can be used by §Y$CLAIMANT$§! to press the claim on the §Y$TITLE$§!;;;;;;;;;;;Ýòîò Casus Belli ìîæåò èñïîëüçîâàòü §Y$CLAIMANT$§! äëÿ ïîäòâåðæäåíèÿ ïðåòåíçèé íà òèòóë §Y$TITLE$§!;;x
+claim_on_vassal_plot_desc;§Y$CLAIMANT$§! is trying to revoke the title of §Y$TITLE$§!, which has resulted in an armed conflict with §Y$TARGET$§!;;;;;;;;;;;§Y$CLAIMANT$§! ïîïûòàåòñÿ îòîçâàòü çåìåëüíûé òèòóë §Y$TITLE$§!, èç-çà ÷åãî §Y$TARGET$§! ïîéä¸ò íà âîîðóæ¸ííûé êîíôëèêò.;;x
+coastal_county_republic_desc;As a Merchant Republic, §Y$CLAIMANT$§! can declare war to seize control of §Y$TITLE$§! since they already control a city there and the county is within range.;;;;;;;;;;;Êàê òîðãîâàÿ ðåñïóáëèêà, §Y$CLAIMANT$§! ìîæåò îáúÿâèòü âîéíó çà ñîñåäíþþ îáëàñòü §Y$TITLE$§!, ïîñêîëüêó óæå êîíòðîëèðóåò ãîðîä â íåé.;;x
+coastal_republic_desc;§Y$CLAIMANT$§! can declare war to seize control of the coastal §Y$TITLE$§! since he or a vassal Patrician has a Trade Post in place, or the target is a rival merchant republic.;;;;;;;;;;;§Y$CLAIMANT$§! ìîæåò îáúÿâèòü âîéíó çà êîíòðîëü íàä ïðèáðåæíîé îáëàñòüþ §Y$TITLE$§!, ïîñêîëüêó ïðàâèòåëü èëè åãî âàññàë èìåþò â íåé ñâî¸ ïðåäñòàâèòåëüñòâî èëè, ïîòîìó ÷òî öåëüþ ÿâëÿåòñÿ âðàæäåáíàÿ òîðãîâàÿ ðåñïóáëèêà.;;x
+crusade_desc;§Y$CLAIMANT$§! can use this Casus Belli to seize all titles held by the infidel, §Y$TARGET$§!, within the de jure §Y$TITLE$§!.;;;;;;;;;;;§Y$CLAIMANT$§! ìîæåò èñïîëüçîâàòü ýòîò Casus Belli äëÿ çàõâàòà âñåõ òèòóëîâ è çåìåëü, óäåðæèâàåìûõ íåâåðíûì ïðàâèòåëåì (§Y$TARGET$§!), â äå-þðå ïðåäåëàõ ãîñóäàðñòâà §Y$TITLE$§!.;;x
+decadence_invasion_desc;We do not need to bother with just causes - might makes right! §Y$CLAIMANT$§! can invade the lands of §Y$TARGET$§!.;;;;;;;;;;;Âû ìîæåòå íå áåñïîêîèòüñÿ î ïðàâîâûõ âîïðîñàõ - âåðøèòå ïðàâîñóäèå! §Y$CLAIMANT$§! ìîæåò âòîðãàòüñÿ â çåìëè, êîòîðûìè âëàäååò §Y$TARGET$§!.;;x
+dejure_barony_claim_desc;The Holdings in §Y$TITLE$§! are all, de jure, vassals of §Y$CLAIMANT$'s§!, which is cause enough for war.;;;;;;;;;;;Âñå âëàäåíèÿ, êîòîðûå ñîäåðæèò â ñåáå §Y$TITLE$§!, äå-þðå ÿâëÿþòñÿ âàññàëüíûìè ïî îòíîøåíèþ ê ïðåòåíäåíòó (§Y$CLAIMANT$§!), ÷òî ñëóæèò äîñòàòî÷íûì ïîâîäîì äëÿ âîéíû.;;x
+dejure_county_claim_desc;The §Y$TITLE$§! is, de jure, a vassal of §Y$CLAIMANT$'s§!, which is cause enough for war.;;;;;;;;;;;§Y$TITLE$§! - äå-þðå âàññàë ïðàâèòåëÿ §Y$CLAIMANT$§!, ÷òî ÿâëÿåòñÿ äîñòàòî÷íûì ïîâîäîì äëÿ âîéíû.;;x
+dejure_duchy_claim_desc;The §Y$TITLE$§! is, de jure, a vassal of §Y$CLAIMANT$§!. By spending a significant amount of §YPrestige§!, we can go to war for the entire duchy.;;;;;;;;;;;§Y$CLAIMANT$§! óòâåðæäàåò, ÷òî åñëè §Y$TITLE$§! - äå-þðå âàññàë, çíà÷èò è âñ¸ ãåðöîãñòâî òîæå. Ðàçóìååòñÿ, ýòî íå òàê, ïîýòîìó òàêàÿ âîéíà íàíåñ¸ò ñåðü¸çíûé óùåðá §Yïðåñòèæó§!.;;x
+depose_antipope_desc;This Casus Belli can be used to depose an antipope in another realm.;;;;;;;;;;;Ýòîò Casus Belli ìîæåò áûòü èñïîëüçîâàí äëÿ ñâåðæåíèÿ àíòèïàïû â äðóãîé ñòðàíå.;;x
+depose_impious_pope_desc;A war over the Holy See, and what is the righteous way forward for the faith.;;;;;;;;;;;Âîéíà çà Ñâÿòîé Ïðåñòîë - ïðàâåäíûé ñïîñîá çàùèòèòü èñòèííóþ âåðó.;;x
+depose_liege_desc;§Y$CLAIMANT$§! can attempt to depose §Y$TARGET$§! and install §Y$CLAIMANT$§!'s favorite heir;;;;;;;;;;;§Y$CLAIMANT$§! æåëàåò ñâåðãíóòü ïðàâèòåëÿ ïî èìåíè §Y$TARGET$§!, íàçíà÷èâ áîëåå äðóæåëþáíîãî íàñëåäíèêà.;;x
+destabilization_china_cb_desc;China can, by way of war, shatter realms they consider too big for their own good.;;;;;;;;;;;"Êèòàé ìîæåò âîåííûìè ìåòîäàìè ðàñêîëîòü ñòðàíó, êîòîðàÿ êàæåòñÿ åìó ñëèøêîì êðóïíîé, ""ðàäè å¸ æå áëàãà"".";;x
+dismantle_pretender_china_cb_desc;China will stop at nothing to show the pretenders that they are the one and only Empire of China.;;;;;;;;;;;Êèòàé íå îñòàíîâèòñÿ íè ïåðåä ÷åì, ÷òîáû ïîêàçàòü ñàìîçâàíöàì, ÷òî åñòü òîëüêî îäíà íàñòîÿùàÿ Èìïåðèÿ, êîòîðóþ ìîæíî íàçûâàòü Êèòàéñêîé.;;x
+ducal_county_conquest_desc;§Y$TARGET$§! holds land in a Duchy you are pretender to. By spending §YPiety§! and §YGold§! you can go to war over any County that is part of a Duchy you hold land in, as long as the Duchy has no holder. This Casus Belli is only available to characters of Count or Duke tier.;;;;;;;;;;;§Y$TARGET$§! âëàäååò çåìë¸é â ïðåäåëàõ ãåðöîãñòâà, íà êîòîðîå Âû ïðåòåíäóåòå. Âû ìîæåòå îáúÿâèòü âîéíó çà ëþáîé îêðóã, ïðèíàäëåæàùèé ãåðöîãñòâó, â êîòîðîì åñòü Âàøè çåìëè, ïîòåðÿâ §Yáëàãî÷åñòâèå§! è §Yçîëîòî§!, íî òîëüêî åñëè ãåðöîãñêèì òèòóëîì íèêòî íå îáëàäàåò. Ýòîò Casus Belli äîñòóïåí ëèøü ïðàâèòåëÿì îêðóæíîãî è îáëàñòíîãî óðîâíÿ (ãðàôàì è ãåðöîãàì).;;x
+duchy_adventure_desc;Ambitious characters of noble descent can go off and attempt to seize duchies in foreign lands with a band of adventurers.;;;;;;;;;;;Àìáèöèîííûå ïåðñîíàæè áëàãîðîäíîãî ïðîèñõîæäåíèÿ ìîãóò îòïðàâèòñÿ â äàëüíèå çåìëè ñ ãðóïïîé àâàíòþðèñòîâ, æåëàÿ çàõâàòèòü âëàñòü íàä íîâûìè ãåðöîãñòâàìè.;;x
+embargo_cb_desc;This Casus Belli allows you to destroy all of §Y$TARGET$§!'s Trade Posts in your entire Realm.;;;;;;;;;;;Ýòîò Casus Belli (ïîâîä äëÿ âîéíû) ïîçâîëÿåò Âàì óíè÷òîæèòü âñå òîðãîâûå ôàêòîðèè, êîòîðûå ïðåäñòàâëÿåò §Y$TARGET$§! â Âàøåé ñòðàíå.;;x
+excommunicated_ruler_desc;§Y$TARGET$§! has been excommunicated, a just cause for war if ever there was one!;;;;;;;;;;;§Y$TARGET$§! - îòëó÷¸ííûé îò öåðêâè ïðàâèòåëü. Ýòî ñàìûé áëàãî÷åñòèâûé ïîâîä äëÿ âîéíû, êàêîé òîëüêî ìîæåò áûòü!;;x
+flower_war_cb;Flower War;;;;;;;;;;;Âîéíà öâåòîâ;;x
+flower_war_cb_desc;To prove our eternal devotion to the gods we can wage war not for land, but to conquer worthy offerings for our altars.;;;;;;;;;;;×òîáû äîêàçàòü ñâîþ âå÷íóþ ïðåäàííîñòü áîãàì, ìû ìîæåì âåñòè âîéíó íå çà çåìëè, à çà íîâûõ êàíäèäàòîâ íà æåðòâîïðèíîøåíèÿ.;;x
+force_open_china_cb_desc;[offmap_china.GetShortName] has closed its borders and halted trade on the Silk Road. This is unacceptable - the trade must flow!;;;;;;;;;;;Èìïåðèÿ [offmap_china.GetShortName] çàêðûëà ñâîè ãðàíèöû è, òåì ñàìûì, Ø¸ëêîâûé ïóòü. Ýòî íåïðèåìëåìî - òîâàð äîëæåí ïîñòóïàòü!;;x
+force_vassalization_desc;§Y$TARGET$§! is weak and in need of protection, they would be better off in your realm! By spending a significant amount of §YPrestige§! you can go to war to forcibly make them your Vassal, as long as they are of a §Ylower tier§! than you, at or below §Y30 Realm Size§! and where the ruler is either of your §YReligion§! or §YCulture Group§!.;;;;;;;;;;;§Y$TARGET$§! ïðàâèò ñëàáûì ãîñóäàðñòâîì, êîòîðîìó íóæíà çàùèòà. Èì áóäåò ëó÷øå ñ íàìè! Âîåííûìè ìåòîäàìè ìû ìîæåì ýòîãî äîáèòüñÿ, õîòü ýòî è ñóùåñòâåííî ïîäîðîâ¸ò íàø §Yïðåñòèæ§!, íî âûíóäèò èõ ê âàññàëèòåòó. Ýòî âîçìîæíî, êîãäà ïðàâèòåëü èìååò §Yðàíã íèæå§! íàøåãî, §Yðàçìåð ñòðàíû íå áîëüøå ÷åì 30§!, è èñïîâåäóåò òó æå §Yðåëèãèþ§! èëè ïðèíàäëåæèò òîé æå §Yêóëüòóðíîé ãðóïïå§!, ÷òî è Âû.;;x
+free_tributary_cb_desc;You can declare war to free yourself or one of your vassals from tributary status.;;;;;;;;;;;Âû ìîæåòå îáúÿâèòü âîéíó çà îñâîáîæäåíèå ñåáÿ èëè îäíîãî èç ñâîèõ âàññàëîâ îò âûïëàòû äàíè.;;x
+great_realm_conflict_desc;You are very powerful, and so is §Y$TARGET$§! - it is time to show them who is the strongest! By spending a significant amount of §YPrestige§! and §YPiety§! you can go to war for an entire Kingdom, as long as they are as strong as you or stronger.;;;;;;;;;;;Âû î÷åíü ìîãóùåñòâåííû, §Y$TARGET$§! - òîæå. Ïðèøëî âðåìÿ âûÿñíèòü, êòî ñèëüíåå! Ïîòðàòèâ áîëüøîå êîëè÷åñòâî §Yïðåñòèæà§! è §Yáëàãî÷åñòèÿ§!, Âû ìîæåòå îáúÿâèòü âîéíó çà öåëîå êîðîëåâñòâî, íî òîëüêî åñëè ïðîòèâíèê òàêîé æå ñèëüíûé èëè ñèëüíåå Âàñ.;;x
+heretic_revolt_desc;Heretic leaders - heresiarchs - can rise up if the authority of the parent religion is low, spreading their errant beliefs with fire and sword.;;;;;;;;;;;Ëèäåðû åðåòèêîâ - åðåñèàðõè - ìîãóò âçáóíòîâàòüñÿ, åñëè àâòîðèòåò ïîðîæäàþùåé ýòó åðåñü ðåëèãèè ìàë, òåì ñàìûì îíè áóäóò ðàñïîñòðàíÿòü ñâîè èäåè îãí¸ì è ìå÷îì.;;x
+hostages_cb_desc;§Y$TARGET$§! holds unlanded characters you care about captive, it is time to free them! If you win this war these characters will be freed. You might also be able to take hostages of our own. Any freed captives will be moved to your court or to the court of their rightful spouse.\n§RBeware, $TARGET$ might execute one or more of the captives if you attack!§!;;;;;;;;;;;§Y$TARGET$§! äåðæèò â çàòî÷åíèè áåççåìåëüíûõ ïëåííèêîâ, êîòîðûå ïðåäñòàâëÿþò äëÿ Âàñ èíòåðåñ, è åñëè Âû ïîáåäèòå â ýòîé âîéíå, îíè áóäóò îñâîáîæäåíû. Êðîìå òîãî, ó Âàñ ìîæåò áûòü âîçìîæíîñòü òîæå âçÿòü êîãî-òî â ïëåí. Âñå îñâîáîæä¸ííûå ïëåííèêè ïðèáóäóò ê Âàøåìó äâîðó èëè êî äâîðó òîãî, êòî ñîñòîèò ñ Âàìè â áðàêå.\n§RÁóäüòå îñòîðîæíû, $TARGET$ ìîæåò êàçíèòü ïëåííèêîâ â ëþáîé ìîìåíò!§!;;x
+imperial_reconquest_desc;The lost territory of the Roman Empire must be reclaimed! §Y$CLAIMANT$§! can use this Casus Belli to seize all titles held by §Y$TARGET$§! within the de jure §Y$TITLE$§!.;;;;;;;;;;;"Ïîòåðÿííàÿ òåððèòîðèÿ Ðèìñêîé èìïåðèè äîëæíà áûòü îñâîáîæäåíà! §Y$CLAIMANT$§! ìîæíî èñïîëüçîâàòü ýòîò ïîâîä, ÷òîáû çàõâàòèòü âñå òèòóëû, äå-þðå ïðèíàäëåæàùèå ãîñóäàðñòâó ""§Y$TITLE$§!"", êîòîðûìè îáëàäàåò §Y$TARGET$§!.";;x
+increase_council_power_war_desc;The power of the council must be increased - and if war is what it takes, then war we will have!;;;;;;;;;;;Ïîðà äàòü §Yñîâåòó§! áîëüøå ïîëíîìî÷èé è åñëè äëÿ ýòîãî íóæíà âîéíà, òàê òîìó è áûòü!;;x
+indian_subjugation_desc;Rulers of the Indian religions can subjugate each other for §Y500§! Karma if they are from the same culture group.;;;;;;;;;;;Ïðàâèòåëè, èñïîâåäóþùèå èíäèéñêèå ðåëèãèè, ìîãóò ïîêîðÿòü äðóã äðóãà çà §Y500§! î÷êîâ êàðìû, åñëè ñîñòîÿò â òîé æå êóëüòóðíîé ãðóïïå.;;x
+invasion_desc;§Y$CLAIMANT$§! has been granted the right to invade the §Y$TITLE$§!. If successful, the titles to all currently occupied holdings will be seized.;;;;;;;;;;;§Y$CLAIMANT$§! èìååò ïðàâî íà âòîðæåíèå â ãîñóäàðñòâî §Y$TITLE$§!. Â ñëó÷àå óñïåõà áóäóò ïðèîáðåòåíû ïðàâà íà âñå çàíÿòûå â íàñòîÿùåå âðåìÿ âëàäåíèÿ.;;x
+invasion_of_china_cb_desc;The [offmap_china.GetFullName] has been a thorn in our side long enough - no more!;;;;;;;;;;;Ñëèøêîì äîëãî [offmap_china.GetFullName] ñòîÿëà ó íàñ ïîïåð¸ê ãîðëà - ïîðà ïîñòàâèòü èõ íà ìåñòî!;;x
+kingdom_adventure_desc;Certain extremely ambitious and charismatic characters can gather enough support to go off and attempt to seize kingdoms in foreign lands with a large army of adventurous warriors.;;;;;;;;;;;Íåêîòîðûå àâàíòþðèñòû íàñòîëüêî àìáèöèîçíû è õàðèçìàòè÷íû, ÷òî ìîãóò ñîáðàòü îãðîìíóþ àðìèþ è çàÿâèòü î ïðåòåíçèè íà öåëûå êîðîëåâñòâà.;;x
+liberate_religion_desc;§Y$TARGET$§! is not of your religion, but has Counties in their realm following the true faith. They must be liberated from their oppressors!;;;;;;;;;;;§Y$TARGET$§! íå èñïîâåäóåò Âàøó âåðó, íî âëàäååò çåìëÿìè, æèòåëè êîòîðûõ âåðóþò â òî æå, âî ÷òî è Âû. Èõ íóæíî îñâîáîäèòü îò óãíåòàòåëåé!;;x
+liberation_revolt_desc;The subjects of foreign lords can rise up in revolt and try to restore their old kingdom.;;;;;;;;;;;Ïîêîðåííûå ëîðäàìè ÷óæèõ êóëüòóð ïðåäñòàâèòåëè ñî âðåìåíåì ìîãóò âîññòàòü â ïîïûòêå âåðíóòü ñåáå êîíòðîëü íàä ïðåæíèì ãîñóäàðñòâîì.;;x
+lower_crown_authority_law_desc;§Y$CLAIMANT$§! can declare war to lower Crown Authority in the §Y$TITLE$§!;;;;;;;;;;;§Y$CLAIMANT$§! ìîæåò îáúÿâèòü âîéíó äëÿ òîãî, ÷òîáû ïîíèçèòü §Yàâòîðèòåò Êîðîíû§! â ãîñóäàðñòâå §Y$TITLE$§!;;x
+lower_tribal_organization_law_desc;§Y$CLAIMANT$§! can declare war to lower Tribal Organization in the §Y$TITLE$§!;;;;;;;;;;;§Y$CLAIMANT$§! ìîæåò îáúÿâèòü âîéíó, ÷òîáû ñíèçèòü ïëåìåííóþ îðãàíèçîâàííîñòü íà çåìëå, èçâåñòíîé êàê §Y$TITLE$§!;;x
+manifest_destiny_invasion_desc;My manifest destiny allows me to invade §Y$TARGET$§!. If successful, everything §Y$TARGET$§! controls within the §Y$TITLE$§! will be taken or vassalized.;;;;;;;;;;;Ìîè ïðèòÿçàíèÿ ïîçâîëÿþò ìíå âòîðãíóòüñÿ â çåìëè ïðàâèòåëÿ ïî èìåíè §Y$TARGET$§!. Â ñëó÷àå óñïåõà, âñå âëàäåíèÿ, êîòîðûå êîíòðîëèðóåò §Y$TARGET$§! â ïðåäåëàõ çåìëè, èçâåñòíîé êàê §Y$TITLE$§! áóäóò çàõâà÷åíû èëè âàññàëèçèðîâàíû.;;x
+matriarchal_deposition_war;Matriarchal Deposition War;;;;;;;;;;;Ìàòðèàðõàëüíàÿ âîéíà;;x
+matriarchal_deposition_war_desc;No [Root.GetOppositeManWoman] should be allowed to hold as much authority as $TARGET$ does. We are well within our rights to force this vile tyrant to abdicate his throne, leaving his realm in the capable hands of a [Root.GetManWoman].;;;;;;;;;;;Íè îäèí ìóæ÷èíà íå â ïðàâå îáëàäàòü òàêîé âëàñòüþ, êàê $TARGET$. Ìû ìîæåì çàñòàâèòü ýòîãî ìåðçêîãî òèðàíà îòðå÷üñÿ îò ïðåñòîëà è ïåðåäàòü åãî ãîñóäàðñòâî â óìåëûå æåíñêèå ðóêè.;;x
+muslim_county_conquest_desc;Muslims can conquer single border counties without specific reasons at the cost of §Y50§! Piety.;;;;;;;;;;;Ìóñóëüìàíå ìîãóò çàâîåâàòü îäèí ïðèãðàíè÷íûé îêðóã äàæå íå èìåÿ ïðåòåíçèé íà íåãî, íî ïîòðàòèâ §Y50§! áëàãî÷åñòèÿ.;;x
+muslim_invasion_desc;§Y$TARGET$§! is not of the True Faith - which is all the cause §Y$CLAIMANT$§! needs to invade the §Y$TITLE$§!. If successful, everything §Y$TARGET$§! controls within the §Y$TITLE$§! will be taken or vassalized.;;;;;;;;;;;"§Y$TARGET$§! - èíîâåðåö, ïîýòîìó §Y$CLAIMANT$§! èìååò ïîëíîå ïðàâî íàïàñòü íà çåìëþ ""§Y$TITLE$§!"". Ïðè óñïåøíîì çàâåðøåíèè ïîõîäà âñå âëàäåíèÿ ïðàâèòåëÿ §Y$TARGET$§! â ïðåäåëàõ îáëàñòè ""§Y$TITLE$§!"" áóäóò çàõâà÷åíû èëè âàññàëèçèðîâàíû.";;x
+nomad_dispute_desc;Feuding clans can declare wars against each other to seize a single county.;;;;;;;;;;;Êëàíîâàÿ âðàæäà ïîçâîëÿåò îáúÿâëÿòü âîéíû äðóã äðóãó, ñ öåëüþ çàõâàòà îäíîãî îêðóãà.;;x
+nomad_expansion_desc;If we have enough Prestige, we can subdue large foreign areas in a single war.;;;;;;;;;;;Èìåÿ äîñòàòî÷íî î÷êîâ ïðåñòèæà, ìû ìîæåì ïîä÷èíèòü ñåáå êðóïíûå ÷óæåçåìíûå ðåãèîíû, ïîáåäèâ â îäíîé âîéíå.;;x
+nomad_humiliate_cb_desc;Humiliate the enemy and steal their people to strengthen your own clan.;;;;;;;;;;;Óíèçèòü âðàãà è óêðàñòü åãî íàðîä, ÷òîáû óêðåïèòü ñâîé êëàí.;;x
+nomad_invasion_desc;If our population is getting too large, we may invade another realm to seize their pasture lands! If successful, all occupied territory will be seized and all vassals will become our vassals.;;;;;;;;;;;Åñëè íàøåìó íàðîäó ñòàíîâèòñÿ íåãäå æèòü, ìû âñåãäà ìîæåì âòîðãíóòüñÿ â ÷óæèå çåìëè, ÷òîáû çàâëàäåòü íîâûìè ïàñòáèùàìè! Â ñëó÷àå óñïåõà, âñå îêêóïèðîâàííûå íàìè òåððèòîðèè ñòàíóò íàøèìè, à èõ âàññàëû - íàøèìè âàññàëàìè.;;x
+nomad_subjugation_desc;Nomads can subjugate non-Nomadic realms once in their lifetime.;;;;;;;;;;;Êî÷åâíèêè ìîãóò ïîêîðÿòü íåêî÷åâûõ ïðàâèòåëåé îäèí ðàç â æèçíè.;;x
+northern_crusade_war_desc;§Y[Root.GetTitledName]§! can use this casus belli to attack §Y$TARGET$§! over §Y$TITLE$§! as part of the Northern Crusade to convert the pagans of the north.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! ìîæåò èñïîëüçîâàòü ýòîò casus belli, ÷òîáû îáúÿâèòü âîéíó ïðàâèòåëþ, èçâåñòíîìó êàê §Y$TARGET$§!, çà òèòóë §Y$TITLE$§! êàê ÷àñòü Ñåâåðíîãî êðåñòîâîãî ïîõîäà, ïðèçâàííîãî îáðàòèòü [_ÿçû÷íèê]îâ-ñåâåðÿí.;;x
+offmap_submission_desc;China can, by way of war, force realms to submit to them.;;;;;;;;;;;Êèòàé ìîæåò âîåííûì ïóò¸ì ïîä÷èíèòü äðóãèå ñòðàíû.;;x
+other_claim_desc;This Casus Belli can be used by §Y$PRESSER$§! to press §Y$CLAIMANT$'s§! claim on the §Y$TITLE$§!.\nIf §Y$PRESSER$§! holds a higher tier title and is of the same dynasty as §Y$CLAIMANT$§!, or if §Y$PRESSER$§! is de jure liege of §Y$TITLE$§!, §Y$CLAIMANT$§! will also become a vassal of §Y$PRESSER$§!.;;;;;;;;;;;§Y$PRESSER$§!(ïðåäúÿâèòåëü) ìîæåò èñïîëüçîâàòü ýòîò ïîâîä ê âîéíå, ïîñêîëüêó §Y$CLAIMANT$§! ïðåòåíäóåò íà òèòóë è çåìëè îáëàñòè §Y$TITLE$§!.\nÅñëè §Y$PRESSER$§! è §Y$CLAIMANT$§! - ÷ëåíû îäíîé äèíàñòèè, èëè, åñëè §Y$PRESSER$§! - äå-þðå ñþçåðåí òèòóëà §Y$TITLE$§!, òîãäà §Y$CLAIMANT$§! ñòàíåò âàññàëîì ïðåäúÿâèòåëÿ (§Y$PRESSER$§!).;;x
+other_claim_on_liege_desc;This Casus Belli can be used by §Y$PRESSER$§! to press §Y$CLAIMANT$'s§! claim on the §Y$TITLE$§!;;;;;;;;;;;Ýòîò Casus Belli ìîæåò èñïîëüçîâàòü §Y$PRESSER$§! äëÿ ïîäòâåðæäåíèÿ ïðåòåíçèé íà òèòóë §Y$TITLE$§! (ïðåòåíäåíò - §Y$CLAIMANT$§!);;x
+other_dejure_barony_claim_desc;The §Y$TITLE$§! is, de jure, a vassal of §Y$CLAIMANT$'s§!, which is cause enough for war.;;;;;;;;;;;§Y$TITLE$§! Ïî ïðàâó ÿâëÿåòñÿ âàññàëîì §Y$CLAIMANT$§!, ÷òî ÿâëÿåòñÿ äîñòàòî÷íûì ïîâîäîì äëÿ âîéíû;;x
+other_dejure_county_claim_desc;The §Y$TITLE$§! is, de jure, a vassal of §Y$CLAIMANT$'s§!, which is cause enough for war.;;;;;;;;;;;§Y$TITLE$§! Ïî ïðàâó ÿâëÿåòñÿ âàññàëîì §Y$CLAIMANT$§!, ÷òî ÿâëÿåòñÿ äîñòàòî÷íûì ïîâîäîì äëÿ âîéíû;;x
+overthrow_ruler_desc;§Y$TARGET$§! has tried and failed to imprison §Y$CLAIMANT$§!, which has resulted in an armed conflict;;;;;;;;;;;§Y$TARGET$§! ïûòàÿñü ïîñàäèòü ÷åëîâåêà (§Y$CLAIMANT$§!) â òþðüìó, âûçûâàåò âîîðóæ¸ííûé êîíôëèêò.;;x
+overthrow_ruler_no_calls_desc;§Y$CLAIMANT$§! has risen in revolt after a failed arrest attempt by §Y$TARGET$§!.;;;;;;;;;;;§Y$CLAIMANT$§! ïîäíèìàåò âîññòàíèå ïîñëå òîãî, êàê §Y$TARGET$§! ïðîâàëèâàåò ïîïûòêó àðåñòà.;;x
+pagan_county_conquest_desc;Pagans and Nomads can conquer single border counties without specific reasons. Norse Pagans can also take any coastal county.;;;;;;;;;;;ßçû÷íèêè è êî÷åâíèêè ìîãóò çàâîåâàòü îäèí ïðèãðàíè÷íûé îêðóã äàæå íå èìåÿ ïðåòåíçèé íà íåãî. Ãåðìàíñêèå ÿçû÷íèêè (âèêèíãè) ìîãóò çàâîåâàòü ëþáîé ïðèáåðåæíûé îêðóã.;;x
+pagan_holy_war_desc;Reformed Pagans can use this Casus Belli to seize all titles held by an infidel within a de jure Duchy at the cost of §Y100§! $PIETYNAME$.;;;;;;;;;;;Ïðåäñòàâèòåëè ðåôîðìèðîâàííîãî ÿçû÷åñòâà ìîãóò èñïîëüçîâàòü ýòîò ïîâîä äëÿ âîéíû, ÷òîáû çàõâàòèòü âñå çåìëè äàííîãî äå-þðå ãåðöîãñòâà íàõîäÿùèåñÿ â ðóêàõ íåâåðíûõ, ïîòðàòèâ §Y100§! áëàãî÷åñòèÿ.;;x
+pagan_subjugation_desc;Pagans, with succession laws set to Elective Gavelkind, are allowed to subjugate other pagan rulers once in their lifetime. (With the 'Become $KING$' ambition, there is no such time limit against those who control titles within the kingdom.) Free men are always willing to follow the mightiest ruler...;;;;;;;;;;;"ßçû÷íèêè ìîãóò ïîêîðÿòü äðóãèõ ÿçû÷åñêèõ ïðàâèòåëåé îäèí ðàç â æèçíè (ñ àìáèöèåé ""Ïðàâèòü ðîäíîé çåìë¸é"" ýòîò ïðåäåë âðåìåíè íåäåéñòâèòåëåí ïðîòèâ öåëåé âíóòðè ãîñóäàðñòâà). Âîëüíûå ëþäè âñåãäà æåëàþò ñëåäîâàòü çà ñàìûì ìîãóùåñòâåííûìè ïðàâèòåëåì...";;x
+patriarchal_deposition_war;Patriarchal Deposition War;;;;;;;;;;;Ïàòðèàðõàëüíàÿ âîéíà;;x
+patriarchal_deposition_war_desc;No [Root.GetOppositeManWoman] should be allowed to hold as much authority as $TARGET$ does. We are well within our rights to force this vile tyrant to abdicate her throne, leaving her realm in the capable hands of a [Root.GetManWoman].;;;;;;;;;;;Íè îäíà æåíùèíà íå â ïðàâå îáëàäàòü òàêîé âëàñòüþ, êàê $TARGET$. Ìû ìîæåì çàñòàâèòü ýòó ìåðçêóþ òèðàíêó îòðå÷üñÿ îò ïðåñòîëà è ïåðåäàòü å¸ ãîñóäàðñòâî â íàä¸æíûå ìóæñêèå ðóêè.;;x
+peasant_revolt_desc;Peasant leaders sometimes rise up and try to 'liberate' their county from oppression.;;;;;;;;;;;"Êðåñòüÿíñêèå ëèäåðû èíîãäà ïîäíèìàþòñÿ è ïûòàþòñÿ ""îñâîáîäèòü"" èõ îêðóãó îò óãíåòåíèÿ.";;x
+pepin_religious;Donation of Pepin;;;;;;;;;;;Ïèïèíîâ äàð;;x
+pepin_religious_desc;§Y$CLAIMANT$§! can use this Casus Belli to emulate Pepin the Short by fighting to restore the Papal lands of the §Y$TITLE$§! to its rightful owner. This Casus Belli is valid only against any infidel or impious [christian.GetGroupName] who holds land in Central Italy. The Pope will certainly be thankful of §Y$CLAIMANT$'s§! assistance in returning Papal provinces under the Church's control.;;;;;;;;;;;§Y$CLAIMANT$§! ìîæåò èñïîëüçîâàòü ýòîò ïîâîä äëÿ âîéíû, è ïîäðàæàÿ Ïèïèíó Êîðîòêîìó, ñðàæàòüñÿ çà âîññòàíîâëåíèå ïàïñêèõ çåìåëü, ïîêà §Y$TITLE$§! íå îêàæåòñÿ â ðóêàõ çàêîííîãî ïðàâèòåëÿ. Ýòîò casus belli äåéñòâèòåëåí òîëüêî ïðîòèâ èíîâåðöåâ èëè íåáëàãî÷åñòèâûõ [_õðèñòèàí], êîòîðûå çàíÿëè öåíòðàëüíûé ðåãèîí Èòàëèè. Ïàïà áóäåò áëàãîäàðåí çà òî, ÷òî §Y$CLAIMANT$§! ïîìîæåò åìó âåðíóòü çåìëè Ñâÿòîé Öåðêâè.;;x
+reconquista_aragon_desc;§Y[Root.GetTitledName]§! start a war to oust the infidels from the region of §Y[k_aragon.GetBaseName]§!, and retake all provinces in the §Y[d_aragon.GetFullName]§! and §Y[d_barcelona.GetFullName]§! held by §Y$TARGET$§!.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! íà÷í¸ò âîéíó ïðîòèâ íåâåðíûõ, ÷òîáû îñâîáîäèòü òåððèòîðèþ êîðîëåâñòâà §Y[k_aragon.GetName]§!, çàíÿâ âñå §Y[d_aragon.GetAdjective]ñêèå§! è §Y[d_barcelona.GetAdjective]ñêèå§! çåìëè, êîòîðûìè ïðàâèò §Y$TARGET$§!.;;x
+reconquista_balearic_desc;§Y[Root.GetTitledName]§! start a war to oust the infidels from the §YBalearic Islands§!, and retake all provinces in the §Y[d_mallorca.GetFullName]§! held by §Y$TARGET$§!.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! íà÷í¸ò âîéíó ïðîòèâ íåâåðíûõ, ÷òîáû îñâîáîäèòü §YÁàëåàðñêèå îñòðîâà§!, è çàíÿòü âñå §Y[d_mallorca.GetAdjective]ñêèå§! çåìëè, êîòîðûìè ïðàâèò §Y$TARGET$§!.;;x
+reconquista_beja_desc;§Y[Root.GetTitledName]§! start a war to oust the infidels from the §YWestern Coast of Iberia§!, and retake all provinces in the §Y[d_beja.GetFullName]§! and §Y[d_algarve.GetFullName]§! held by §Y$TARGET$§!.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! íà÷í¸ò âîéíó ïðîòèâ íåâåðíûõ, ÷òîáû îñâîáîäèòü §YÇàïàäíîå ïîáåðåæüå Èáåðèè§!, çàíÿâ âñå §Y[d_beja.GetAdjective]ñêèå§! è §Y[d_algarve.GetAdjective]ñêèå§! çåìëè, êîòîðûìè ïðàâèò §Y$TARGET$§!.;;x
+reconquista_castille_desc;§Y[Root.GetTitledName]§! start a war to oust the infidels from the region of §Y[k_castille.GetBaseName]§!, and retake all provinces in the §Y[d_castilla.GetFullName]§! and §Y[d_toledo.GetFullName]§! held by §Y$TARGET$§!.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! íà÷í¸ò âîéíó ïðîòèâ íåâåðíûõ, ÷òîáû îñâîáîäèòü òåððèòîðèþ êîðîëåâñòâà §Y[k_castille.GetName]§!, çàíÿâ âñå §Y[d_castilla.GetAdjective]ñêèå§! è §Y[d_toledo.GetAdjective]ñêèå§! çåìëè, êîòîðûìè ïðàâèò §Y$TARGET$§!.;;x
+reconquista_cordoba_desc;§Y[Root.GetTitledName]§! start a war to oust the infidels from §YCentral Iberia§!, and retake all provinces in the §Y[d_cordoba.GetFullName]§! and §Y[d_badajoz.GetFullName]§! held by §Y$TARGET$§!.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! íà÷í¸ò âîéíó, ÷òîáû âûòåñíèòü íåâåðíûõ ñ §YÖåíòðàëüíîé Èáåðèè§!, çàíÿâ âñå §Y[d_cordoba.GetAdjective]ñêèå§! è §Y[d_badajoz.GetAdjective]ñêèå§! çåìëè, êîòîðûìè ïðàâèò §Y$TARGET$§!.;;x
+reconquista_galicia_desc;§Y[Root.GetTitledName]§! start a war to oust the infidels from the region of §Y[k_galicia.GetBaseName]§!, and retake all provinces in the §Y[d_galicia.GetFullName]§! and §Y[d_portucale.GetFullName]§! held by §Y$TARGET$§!.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! íà÷í¸ò âîéíó ïðîòèâ íåâåðíûõ, ÷òîáû îñâîáîäèòü òåððèòîðèþ êîðîëåâñòâà §Y[k_spanish_galicia.GetName]§!, çàíÿâ âñå §Y[d_galicia.GetAdjective]ñêèå§! è §Y[d_porto.GetAdjective]ñêèå§! çåìëè, êîòîðûìè ïðàâèò §Y$TARGET$§!.;;x
+reconquista_granada_desc;§Y[Root.GetTitledName]§! start a war to oust the infidels from §YSouthern Iberia§!, and retake all provinces in the §Y[d_granada.GetFullName]§! and §Y[d_sevilla.GetFullName]§! held by §Y$TARGET$§!.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! íà÷í¸ò âîéíó, ÷òîáû âûòåñíèòü íåâåðíûõ ñ §YÞæíîé Èáåðèè§!, çàíÿâ âñå §Y[d_granada.GetAdjective]ñêèå§! è §Y[d_sevilla.GetAdjective]ñêèå§! çåìëè, êîòîðûìè ïðàâèò §Y$TARGET$§!.;;x
+reconquista_leon_desc;§Y[Root.GetTitledName]§! start a war to oust the infidels from the region of §Y[k_leon.GetBaseName]§!, and retake all provinces in the §Y[d_leon.GetFullName]§! and §Y[d_asturias.GetFullName]§! held by §Y$TARGET$§!.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! íà÷í¸ò âîéíó ïðîòèâ íåâåðíûõ, ÷òîáû îñâîáîäèòü òåððèòîðèþ êîðîëåâñòâà §Y[k_leon.GetName]§!, çàíÿâ âñå §Y[d_leon.GetAdjective]ñêèå§! è §Y[d_asturias.GetAdjective]ñêèå§!çåìëè, êîòîðûìè ïðàâèò §Y$TARGET$§!.;;x
+reconquista_navarra_desc;§Y[Root.GetTitledName]§! start a war to oust the infidels from the region of §YNavarra§!, and retake all provinces in the §Y[d_navarra.GetFullName]§! held by §Y$TARGET$§!.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! íà÷í¸ò âîéíó ïðîòèâ íåâåðíûõ, ÷òîáû îñâîáîäèòü êîðîëåâñòâî §YÍàâàððà§!, è çàíÿòü âñå §Y[d_navarra.GetAdjective]ñêèå§! çåìëè, êîòîðûìè ïðàâèò §Y$TARGET$§!.;;x
+reconquista_valencia_desc;§Y[Root.GetTitledName]§! start a war to oust the infidels from the §YEastern Coast of Iberia§!, and retake all provinces in the §Y[d_valencia.GetFullName]§! and §Y[d_murcia.GetFullName]§! held by §Y$TARGET$§!.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! íà÷í¸ò âîéíó ïðîòèâ íåâåðíûõ, ÷òîáû îñâîáîäèòü §YÂîñòî÷íîå ïîáåðåæüå Èáåðèè§!, çàíÿâ âñå §Y[d_valencia.GetAdjective]ñêèå§! è §Y[d_murcia.GetAdjective]ñêèå§! çåìëè, êîòîðûìè ïðàâèò §Y$TARGET$§!.;;x
+religious_desc;§Y$CLAIMANT$§! can use this Casus Belli to seize all titles held by the infidel, §Y$TARGET$§!, within the de jure §Y$TITLE$§!. This Casus Belli is valid against neighbors, and also against infidels up to two sea zones away if either the attacker or the defender is a Muslim, or if the era of Great Holy Wars has started for the attacker's religion.;;;;;;;;;;;§Y$CLAIMANT$§! ìîæåò èñïîëüçîâàòü ýòîò Casus Belli (ïîâîä äëÿ âîéíû), ÷òîáû çàõâàòèòü òèòóëû è çåìëè, óäåðæèâàåìûå ïðàâèòåëåì-èíîâåðöåì, èçâåñòíûì êàê §Y$TARGET$§!, â äå-þðå ïðåäåëàõ ãîñóäàðñòâà §Y$TITLE$§!.;;x
+religious_revolt_desc;Peasants of a different religion group can rise up to throw off oppression and spread their faith with fire and sword.;;;;;;;;;;;Êðåñòüÿíå äðóãîé ðåëèãèîçíîé ãðóïïû ìîãóò âîññòàòü ïðîòèâ ãí¸òà è ðàñïðîñòðàíÿòü ñâîþ âåðó îãí¸ì è ìå÷îì.;;x
+rivalry_cb_desc;§Y$TARGET$§! is your bitter rival and you can't imagine anything better than throwing the blighter into your dungeons.;;;;;;;;;;;§Y$TARGET$§! - Âàø çàêëÿòûé âðàã. Âû íå ìîæåòå âîîáðàçèòü íè÷åãî áîëåå ïðèÿòíîãî, ÷åì áðîñèòü ýòó ñâîëî÷ü â ïîäçåìåëüå.;;x
+roman_christian_revolt;Roman Revolt;;;;;;;;;;;Ðèìñêîå âîññòàíèå;;x
+roman_christian_revolt_desc;The citizens of Rome have risen up after the ruthless destruction brought by their new Emperor upon the Church and their homes.;;;;;;;;;;;Ãðàæäàíå Ðèìà âîññòàëè ïîñëå áåçæàëîñòíîãî ðàçðóøåíèÿ, íàíåñåííîãî èõ íîâûì Èìïåðàòîðîì.;;x
+seize_trade_post_desc;As a Patrician, §Y$CLAIMANT$§! can declare war on §Y$TARGET$§! over the §Y$TITLE$§!. This Casus Belli is not valid against much weaker Patricians within the same Republic.;;;;;;;;;;;§Y$CLAIMANT$§! ìîæåò îáúÿâèòü âîéíó ïðàâèòåëþ, èçâåñòíîìó êàê §Y$TARGET$§! çà îáëàñòü §Y$TITLE$§!. Ýòîò ïîâîä íå äåéñòâèòåëåí ïðîòèâ áîëåå ñëàáûõ ñîïåðíèêîâ â ïðåäåëàõ îäíîé ðåñïóáëèêè.;;x
+shattered_invasion;As you are a Great Conqueror, nothing can stand in the way of you claiming your destiny!;;;;;;;;;;;Êàê §Yâåëèêèé çàâîåâàòåëü§!, Âû ìîæåòå çàõâàòûâàòü âñ¸ íà ñâî¸ì ïóòè. Íè÷òî è íèêòî íå ïîìåøàåò Âàì âåðøèòü ñâîþ âåëèêóþ ñóäüáó!;;x
+shattered_invasion_desc;As you are a Great Conqueror, nothing can stand in the way of you claiming your destiny!;;;;;;;;;;;Âû - âåëèêèé çàâîåâàòåëü, ýòî Âàøà ñóäüáà è íè÷òî íå âñòàíåò ó íå¸ íà ïóòè!;;x
+shattered_world_county_conquest_desc;As this is a Shattered World you can choose to outright conquer any Counties that either border your realm or is no more than one sea zone away. [GetShatteredInfo] [GetShatteredJadeInfo];;;;;;;;;;;Â §Yðàñêîëîòîì ìèðå§! Âû ìîæåòå çàõâàòûâàòü áëèæàéøèå îêðóãà, ãðàíè÷àùèå ñ Âàøèìè çåìëÿìè èëè îòñòîÿùèå îò íèõ íå äàëüøå îäíîé ìîðñêîé çîíû. [GetShatteredInfo] [GetShatteredJadeInfo];;x
+tribal_invasion_desc;We do not need to bother with just causes - might makes right! §Y$CLAIMANT$§! can invade the lands of §Y$TARGET$§!. If successful, the titles to all currently occupied holdings will be seized and all vassals will become our vassals.;;;;;;;;;;;Âû ìîæåòå íå áåñïîêîèòüñÿ î ïðàâîâûõ âîïðîñàõ - âåðøèòå ïðàâîñóäèå! §Y$CLAIMANT$§! ìîæåò âòîðãàòüñÿ â çåìëè, êîòîðûìè âëàäååò §Y$TARGET$§!. Â ñëó÷àå óñïåõà âñå òèòóëû áóäóò ïðèñâîåíû, à âàññàëû ïîä÷èíÿòñÿ íàì.;;x
+tributary_cb_desc;§Y$TARGET$§! is rich and should pay tribute to you!\n\nThrough war you can force any realm that you border to pay you §Y40%§! of their income as tribute.\nThis type of §YTributary§! will §Rbreak free§! upon the death of the §YSuzerain§!.\nThis type of §YTributary§! can be called to war.;;;;;;;;;;;§Y$TARGET$§! ïðàâèò äîñòàòî÷íî áîãàòîé ñòðàíîé, ÷òîáû ïîäåëèòüñÿ ñ íàìè!\n\nÂîåííûìè ñðåäñòâàìè ìû ìîæåì ïîòðåáîâàòü âûïëà÷èâàòü íàì §Y40%§! èõ ãîäîâîãî äîõîäà â êà÷åñòâå äàíè.\nÝòîò òèï îòíîøåíèé ïîäðàçóìåâàåò, ÷òî §Yäàííèê§! ìîæåò §Rîñâîáîäèòüñÿ§! â ðåçóëüòàòå ñìåðòè §Yãåãåìîíà§! è áûòü ïðèçâàí ê âîéíå.;;x
+tributary_nomad_cb_desc;§Y$TARGET$§!'s realm is weak and no match for me, it is time for them to pay tribute or be crushed underneath the thundering hooves of my horde!\n\nThrough war you can force any realm that you or one of your §YTributaries§! border to pay you §Y50%§! of their income as tribute.\nWill only break free if the §YSuzerain§! has §Rnegative§! §YPrestige§!.\nThis type of §YTributary§! can be called to war.\nThis type of §YTributary§! can call you into their wars, but you are not forced to accept their §YCall to Arms§!.;;;;;;;;;;;§Y$TARGET$§! ïðàâèò ñëàáîé ñòðàíîé, ïðèøëî âðåìÿ âûáèðàòü - ïëàòèòü íàì äàíü èëè ïîãèáíóòü ïîä êîïûòàìè íàøåé îðäû!\n\nÂîåííûì ïóò¸ì Âû ìîæåòå çàñòàâèòü ëþáîå ãîñóäàðñòâî, ãðàíè÷àùåå ñ Âàøèì èëè ñ ëþáûì èç Âàøèõ §Yäàííèêîâ§!, îòäàâàòü Âàì §Y50%§! ñâîåãî äîõîäà â êà÷åñòâå äàíè.\nÎñâîáîäèòüñÿ ìîæíî òîëüêî, åñëè §Yãåãåìîí§! èìååò §Rîòðèöàòåëüíûé§! ïîêàçàòåëü §Yïðåñòèæà§!.\n§YÄàííèêè îðäû§! ìîãóò áûòü ïðèçâàíû ê âîéíå.\nÊðîìå òîãî, §Yäàííèêè îðäû§! ìîãóò ïðèçâàòü Âàñ ê ñâîèì âîéíàì, íî Âû íå îáÿçàíû îòâå÷àòü íà èõ §Yïðèçûâ ê îðóæèþ§!.;;x
+tributary_offmap_cb_desc;China can, by way of war, force realms to pay them tribute.;;;;;;;;;;;Êèòàé ìîæåò âîåííûì ïóò¸ì çàñòàâèòü äðóãèå ñòðàíû ïëàòèòü åìó äàíü.;;x
+tributary_permanent_cb_desc;§Y$TARGET$§! is weak, but if they would just pay you tribute in the form of gold and soldiers you could protect them!\n\nThrough war you can force any realm that you or one of your §YTributary States§! border to pay you §Y20%§! of their income and §Y15%§! of their levy reinforcements as tribute.\nWill only break free if the §YSuzerain§! has §Rnegative§! §YPrestige§!, is §RNOT§! §YIndependent§!, has §Rless§! §YRealm Size§! than the §YTributary State§! or §Rdeclines a defensive§! §YCall to Arms§! from the §YTributary State§!.\nThis type of §YTributary§! can §RNOT§! be called to war.;;;;;;;;;;;§Y$TARGET$§! ïðàâèò ñëàáûì ãîñóäàðñòâîì, íî åñëè îíî çàïëàòèò íàì çîëîòîì è ñîëäàòàìè, ìû åãî çàùèòèì!\n\nÂîåííûìè ñðåäñòâàìè ìû ìîæåì çàñòàâèòü èõ, êàê è ëþáûå ãîñóäàðñòâà §Yñàòåëëèòû§!, îòäàâàòü íàì §Y20%§! äîõîäà è §Y15%§! ðåêðóòîâ â êà÷åñòâå äàíè.\nÎñâîáîæäåíèå âîçìîæíî òîëüêî, åñëè §Yãåãåìîí (âçèìàòåëü äàíè)§! èìååò §Rîòðèöàòåëüíûé§! §Yïðåñòèæ§!, §RÍÅ§! ÿâëÿåòñÿ §Yíåçàâèñèìûì§!, èìååò §Rìåíüøèé§! §Yðàçìåð ñòðàíû§! ÷åì §Yñàòåëëèò§!, èëè §Rîòêàçûâàåòñÿ çàùèùàòü§! §Yñàòåëëèòà§! â ñëó÷àå åãî §Yïðèçûâà ê îðóæèþ§!.\nÝòîò òèï îòíîøåíèé ïîäðàçóìåâàåò, ÷òî §Yñàòåëëèò (äàííèê)§! ÍÅ ìîæåò áûòü ïðèçâàí ê âîéíå.;;x
+truebelievers_bid_for_independence;Revolt of the old believers;;;;;;;;;;;Âîññòàíèå ñòàðîâåðîâ;;x
+truebelievers_bid_for_independence_desc;§Y$CLAIMANT$§! can attempt to declare independence from §Y$TARGET$§! for renouncing the old faith!;;;;;;;;;;;§Y$CLAIMANT$§! ìîæåò îáúÿâèòü íåçàâèñèìîñòü îò ïðàâèòåëÿ, èçâåñòíîãî êàê §Y$TARGET$§!, ÷òîáû âîçðîäèòü ñòàðóþ âåðó!;;x
+unjust_conquest_desc;You can choose to dispute any County that borders you. Beware that choosing to wage a conquest not backed by a Claim carries hefty penalties - the penalties are the highest when attacking someone following your religion, fairly high while attacking someone of your religious group and still significant when attacking someone of another religious group.;;;;;;;;;;;Âû ìîæåòå îñïîðèòü ïðàâà íà ëþáîé îêðóã, êîòîðîé ãðàíè÷èò ñ Âàøèìè çåìëÿìè. Çàâîåâàíèå áåç ïðåòåíçèè íåçàêîííî, ïîòîìó íåñåò ñ ñîáîé áîëüøèå øòðàôû - øòðàôû ÿâëÿþòñÿ ñàìûìè áîëüøèìè ïðè íàïàäåíèè íà òîãî, êòî èñïîâåäóåò Âàøó âåðó, äîñòàòî÷íî áîëüøèìè, ïðè íàïàäåíèè íà êîãî-òî Âàøåé ðåëèãèîçíîé ãðóïïû è âñ¸ åùå çíà÷èòåëüíûìè, êîãäà Âû íàïàäàåòå íà äðóãóþ ðåëèãèîçíóþ ãðóïïó.;;x
+viking_invasion_desc;Norse Pagans can declare their intention to invade all the territory held by a sufficiently powerful target within a given de jure kingdom. This will swell their ranks with adventurers, but they must attack within two years.;;;;;;;;;;;Ñêàíäèíàâñêèå ÿçû÷íèêè ìîãóòü îáüÿâèòü î âòîðæåíèè, íàìåðåâàÿñü çàõâàòèòü âñþ òåððèòîðèþ  â ïðåäåëàõ  äå-þðå êîðîëåâñòâà. Ýòî áóäåò ñïîñîáñòâîâàòü ïîïîëíåíèþ ñêàíäèíàâñêèõ îòðÿäîâ èñêàòåëÿìè ïðèêëþ÷åíèé â òå÷åíèè äâóõ ëåò .;;x
+WAR_DUCHY_ADVENTURE;[Actor.GetTitledFirstName]'s Conquest of $OTHER_TITLE$;;;;;;;;;;;[Actor.GetTitledFirstName] âåäåò ïîõîä äëÿ çàâîåâàíèÿ çåìëè §Y$OTHER_TITLE$§!;;x
+WAR_NAME_ANTIHELLENIC_WAR;$ORDER$$SECOND_ADJ$ Hellenic Civil War;;;;;;;;;;;$ORDER$$SECOND_ADJ$ñêàÿ Àíòè[ýëëèí]ñêàÿ ãðàæäàíñêàÿ âîéíà;;x
+WAR_NAME_CLAIM;$ORDER$$FIRST_ADJ$ Claim on $OTHER_TITLE$ War;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetAdjective]ñêàÿ âîéíà çà òèòóë è çåìëè îáëàñòè $OTHER_TITLE$;;x
+WAR_NAME_CLAIM_ALL;$ORDER$$FIRST_ADJ$ War for the $CLAIMS$;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetAdjective]ñêàÿ âîéíà çà ïðåòåíçèè íà òèòóëû è çåìëè: $CLAIMS$;;x
+WAR_NAME_CLAIM_LIEGE;$ATTACKER$'s $ORDER$War for $OTHER_TITLE$;;;;;;;;;;;$ORDER$Âîéíà çà òèòóë è çåìëè îáëàñòè $OTHER_TITLE$ (èíèöèàòîð - $ATTACKER$);;x
+WAR_NAME_CLAIM_VASSAL;$ATTACKER$'s $ORDER$War to Revoke $OTHER_TITLE$;;;;;;;;;;;$ORDER$Âîéíà, êîòîðóþ âåä¸ò $ATTACKER$, çà îòçûâ çåìåëüíîãî òèòóëà $OTHER_TITLE$;;x
+WAR_NAME_CLAN_REVOLT;$ORDER$$ATTACKER$ Clan Revolt for $OTHER_TITLE$;;;;;;;;;;;$ORDER$Âîññòàíèå êëàíà $ATTACKER$ íà çåìëå $OTHER_TITLE$;;x
+WAR_NAME_COASTAL_COUNTY_REPUBLIC;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ War for the Coast of $OTHER_TITLE$;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetShortAdjective]î-[Recipient.PrimaryTitle.GetAdjective]ñêàÿ âîéíà çà ïðèáðåæíóþ îáëàñòü $OTHER_TITLE$;;x
+WAR_NAME_COASTAL_REPUBLIC;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ War for the City of $OTHER_TITLE$;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetShortAdjective]î-[Recipient.PrimaryTitle.GetAdjective]ñêàÿ âîéíà çà ãîðîä $OTHER_TITLE$;;x
+WAR_NAME_COUNTY_CONQUEST;$ORDER$$FIRST_ADJ$ Conquest of $OTHER_TITLE$;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetAdjective]ñêàÿ âîéíà çà çàâîåâàíèå îêðóãà $OTHER_TITLE$;;x
+WAR_NAME_CRUSADE;$ORDER$$RELIGION$ $HOLY_WAR$ for $OTHER_TITLE$;;;;;;;;;;;$ORDER$[Actor.GetRelAdjCap]ñêèé $HOLY_WAR$ çà îáëàñòü $OTHER_TITLE$;;x
+WAR_NAME_DEC_INVASION;$FIRST_ADJ$ Invasion of $SECOND$;;;;;;;;;;;[Actor.PrimaryTitle.GetAdjective]ñêîå âòîðæåíèå â çåìëþ $SECOND$;;x
+WAR_NAME_DECADENCE_USURPTION;$ORDER$$FIRST_ADJ$ Decadence Usurption;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetAdjective]ñêàÿ óçóðïàöèÿ;;x
+WAR_NAME_DEJUREBARONYCLAIM;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ De Jure Holding War over $OTHER_TITLE$;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetShortAdjective]î-[Recipient.PrimaryTitle.GetAdjective]ñêàÿ äå-þðå âîéíà çà âëàäåíèÿ, êîòîðûå ñîäåðæèò â ñåáå $OTHER_TITLE$;;x
+WAR_NAME_DEJURECLAIM;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ De Jure War over $OTHER_TITLE$;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetShortAdjective]î-[Recipient.PrimaryTitle.GetAdjective]ñêàÿ äå-þðå âîéíà çà îáëàñòü $OTHER_TITLE$;;x
+WAR_NAME_DEPOSE_ANTIPOPE;$FIRST_ADJ$-$SECOND_ADJ$ Antipapal War;;;;;;;;;;;[Actor.PrimaryTitle.GetShortAdjective]î-[Recipient.PrimaryTitle.GetAdjective]ñêàÿ àíòèïàïñêàÿ âîéíà;;x
+WAR_NAME_DEPOSE_IMPIOUS_POPE;$FIRST_ADJ$ War for the Holy See;;;;;;;;;;;$FIRST_ADJ$ñêàÿ âîéíà çà Ñâÿòîé Ïðåñòîë;;x
+WAR_NAME_DEPOSE_LIEGE;$ORDER$$FIRST_ADJ$ War to depose $DEFENDER$;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetAdjective]ñêàÿ âîéíà çà ñâåðæåíèå ñþçåðåíà ïî èìåíè $DEFENDER$;;x
+WAR_NAME_DESTABILIZATION_CHINA;$ORDER$$FIRST_ADJ$ War to Shatter the Realm of $DEFENDER$;;;;;;;;;;;$ORDER$$FIRST_ADJ$ñêàÿ âîéíà çà ðàñêîë ñòðàíû, êîòîðîé ïðàâèò $DEFENDER$;;x
+WAR_NAME_DISMANTLE_PRETENDER_CHINA;The $ORDER$[offmap_china.GetFullName] War to Dismantle the Pretender [Recipient.PrimaryTitle.GetFullName];;;;;;;;;;;$ORDER$Âîéíà èìïåðèè [offmap_china.GetShortName] çà òî, ÷òîáû ñàìîçâàííîå ãîñóäàðñòâî [Recipient.PrimaryTitle.GetFullName] ïðåêðàòèëî ñóùåñòâîâàíèå;;x
+WAR_NAME_DISPUTE;Dispute of $OTHER_TITLE$;;;;;;;;;;;Îñïàðèâàíèå ïðàâ íà îáëàñòü $OTHER_TITLE$;;x
+WAR_NAME_DUCALCOUNTYCONQUEST;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Ducal Conquest of $OTHER_TITLE$;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetShortAdjective]î-[Recipient.PrimaryTitle.GetAdjective]ñêîå ãåðöîãñêîå çàâîåâàíèå îêðóãà $OTHER_TITLE$;;x
+WAR_NAME_EMBARGO;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Embargo War;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetShortAdjective]î-[Recipient.PrimaryTitle.GetAdjective]ñêàÿ âîéíà çà ââåäåíèå ýìáàðãî;;x
+WAR_NAME_EXCOMMUNICATED_RULER;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Excommunication War;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetShortAdjective]î-[Recipient.PrimaryTitle.GetAdjective]ñêàÿ âîéíà ñ îòëó÷¸ííûì îò öåðêâè ïðàâèòåëåì;;x
+WAR_NAME_FACTION_INDEPENDENCE;$ORDER$$FIRST_ADJ$ League Independence War;;;;;;;;;;;$ORDER$$FIRST$;;x
+WAR_NAME_FEUDAL_ELECTIVE_SUCCESSION_LAW;$ORDER$$SECOND_ADJ$ Civil War for Elective Monarchy;;;;;;;;;;;$ORDER$[Recipient.PrimaryTitle.GetAdjective]ñêàÿ ãðàæäàíñêàÿ âîéíà çà âûáîðíîå íàñëåäîâàíèå;;x
+WAR_NAME_FLOWER_WAR;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Flower War;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetShortAdjective]î-[Recipient.PrimaryTitle.GetAdjective]ñêàÿ âîéíà Öâåòîâ;;x
+WAR_NAME_FORCE_OPEN_CHINA;The $ORDER$$FIRST_ADJ$ War to Force Open the [offmap_china.GetFullName];;;;;;;;;;;$ORDER$$FIRST_ADJ$ñêàÿ âîéíà çà îòêðûòèå ãðàíèö èìïåðèè [offmap_china.GetShortName];;x
+WAR_NAME_FORCE_VASSALIZATION;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Vassalization War;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetShortAdjective]î-[Recipient.PrimaryTitle.GetAdjective]ñêàÿ âîéíà çà âàññàëèòåò;;x
+WAR_NAME_FREE_TRIBUTARY;$ORDER$$FIRST_ADJ$ War to Free $ATTACKER$ from Suzerain;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetAdjective]ñêàÿ âîéíà çà ñâåðæåíèå ãåãåìîíèè, êîòîðóþ âåä¸ò $ATTACKER$;;x
+WAR_NAME_GAVELKIND_SUCCESSION_LAW;$ORDER$$SECOND_ADJ$ Civil War for Gavelkind;;;;;;;;;;;$ORDER$[Recipient.PrimaryTitle.GetAdjective]ñêàÿ ãðàæäàíñêàÿ âîéíà çà ðàâíûé ðàçäåë ïðè íàñëåäîâàíèè;;x
+WAR_NAME_GREATREALMCONFLICT;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Great Conquest of $OTHER_TITLE$;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetShortAdjective]î-[Recipient.PrimaryTitle.GetAdjective]ñêîå âåëèêîå çàâîåâàíèå çåìëè, èçâåñòíîé êàê $OTHER_TITLE$;;x
+WAR_NAME_HERETIC_UPRISING;$ORDER$$SECOND_ADJ$ [Actor.Religion.GetName] Revolt;;;;;;;;;;;$ORDER$[Recipient.PrimaryTitle.GetAdjective]ñêîå [Actor.GetRelAdj]ñêîå âîññòàíèå;;x
+WAR_NAME_HOSTAGES;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ War to Free Captives;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetShortAdjective]î-[Recipient.PrimaryTitle.GetAdjective]ñêàÿ âîéíà çà îñâîáîæäåíèå ïëåííûõ;;x
+WAR_NAME_HUMILIATE;$ORDER$$FIRST_ADJ$ War to Humiliate $DEFENDER$;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetAdjective]ñêàÿ âîéíà çà óíèæåíèå ïðîòèâíèêà, èçâåñòíîãî êàê $DEFENDER$;;x
+WAR_NAME_IMPERIAL;$ORDER$$FIRST_ADJ$ Imperial Reconquest of $OTHER_TITLE$;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetAdjective]ñêîå èìïåðñêîå çàâîåâàíèå çåìëè $OTHER_TITLE$;;x
+WAR_NAME_INCREASE_COUNCIL_POWER;$ORDER$$SECOND_ADJ$ Civil War to increase Council Power;;;;;;;;;;;$ORDER$[Recipient.PrimaryTitle.GetAdjective]ñêàÿ ãðàæäàíñêàÿ âîéíà çà óñèëåíèå ñîâåòà;;x
+WAR_NAME_INDEPENDENCE;$ORDER$War of $FIRST_ADJ$ Independence;;;;;;;;;;;$ORDER$$FIRST_ADJ$ñêàÿ âîéíà çà íåçàâèñèìîñòü;;x
+WAR_NAME_INSTALL_ANTIKING;$FIRST_ADJ$-$SECOND_ADJ$ Antiking War;;;;;;;;;;;[Actor.PrimaryTitle.GetShortAdjective]î-[Recipient.PrimaryTitle.GetAdjective]ñêàÿ àíòèìîíàðõè÷åñêàÿ âîéíà;;x
+WAR_NAME_INSTALLKHAN;Install $ATTACKER$ as Khan of $SECOND$;;;;;;;;;;;Âîéíà çà òî, ÷òîáû $ATTACKER$ ñòàë êàãàíîì [Recipient.PrimaryTitle.GetAdjective]ñêîé çåìëè;;x
+WAR_NAME_INVASION;$ORDER$$FIRST_ADJ$ Invasion of $OTHER_TITLE$;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetAdjective]ñêîå âòîðæåíèå â çåìëþ $OTHER_TITLE$;;x
+WAR_NAME_INVASION_OF_CHINA;$ORDER$$FIRST_ADJ$ Invasion of the [offmap_china.GetFullName];;;;;;;;;;;$ORDER$$FIRST_ADJ$ñêîå âòîðæåíèå â èìïåðèþ [offmap_china.GetShortName];;x
+WAR_NAME_LIBERATE_NOMAD;$ORDER$$FIRST_ADJ$ Liberation of $OTHER_TITLE$;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetAdjective]ñêàÿ âîéíà çà îñâîáîæäåíèå îáëàñòè $OTHER_TITLE$, èíèöèàòîð êîòîðîé - $FIRST$;;x
+WAR_NAME_LIBERATE_RELIGION;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ War to Religiously Liberate [Title.GetBaseName];;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetShortAdjective]î-[Recipient.PrimaryTitle.GetAdjective]ñêàÿ âîéíà çà ðåëèãèîçíîå îñâîáîæäåíèå çåìëè, èçâåñòíîé êàê [Title.GetBaseName];;x
+WAR_NAME_LIBERATION_REVOLT;$ORDER$Liberation of [Title.GetBaseName];;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetName];;x
+WAR_NAME_LOWER_CROWN_AUTHORITY_LAW;$ORDER$$SECOND_ADJ$ Civil War to lower Crown Authority;;;;;;;;;;;$ORDER$[Recipient.PrimaryTitle.GetAdjective]ñêàÿ ãðàæäàíñêàÿ âîéíà çà ïîíèæåíèå àâòîðèòåòà Êîðîíû;;x
+WAR_NAME_LOWER_TRIBAL_ORGANIZATION_LAW;$ORDER$$SECOND_ADJ$ Civil War to lower Tribal Organization;;;;;;;;;;;$ORDER$[Recipient.PrimaryTitle.GetAdjective]ñêàÿ ãðàæäàíñêàÿ âîéíà çà ñíèæåíèå îðãàíèçîâàííîñòè;;x
+WAR_NAME_MINOR_CLAN_REVOLT;Minor Clan Rising;;;;;;;;;;;Âîññòàíèå ìàëîãî êëàíà;;x
+WAR_NAME_NOMAD_EXPANSION;$ORDER$$FIRST_ADJ$ War for $OTHER_TITLE$;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetAdjective]ñêàÿ âîéíà çà ïîä÷èíåíèå çåìëè, èçâåñòíîé êàê $OTHER_TITLE$;;x
+WAR_NAME_NOMAD_TRIBUTARY;$ORDER$$FIRST_ADJ$ War to Make $DEFENDER$ a Tributary State;;;;;;;;;;;$ORDER$$FIRST_ADJ$ñêàÿ âîéíà çà òî, ÷òîáû ãîñóäàðñòâî $DEFENDER$ ïëàòèëî äàíü îðäå;;x
+WAR_NAME_NORTHERN_CRUSADE;$ORDER$ Teutonic War for $OTHER_TITLE$;;;;;;;;;;;$ORDER$Òåâòîíñêàÿ âîéíà çà îáëàñòü $OTHER_TITLE$;;x
+WAR_NAME_OFFMAP_SUBMISSION;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Submission War;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetShortAdjective]î-[Recipient.PrimaryTitle.GetAdjective]ñêàÿ âîéíà çà ïîä÷èíåíèå;;x
+WAR_NAME_OTHER_CLAIM;$ORDER$$FIRST_ADJ$ War for $CLAIMANT$'s claim on $OTHER_TITLE$;;;;;;;;;;;$ORDER$Âîéíà â ïîääåðæêó ïðåòåíäåíòà ïî èìåíè $CLAIMANT$, öåëü êîòîðîé - $OTHER_TITLE$;;x
+WAR_NAME_OTHER_DEJUREBARONYCLAIM;$ORDER$$FIRST_ADJ$ County War for $CLAIMANT$'s claim on $OTHER_TITLE$;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetAdjective]ñêàÿ âîéíà â ïîääåðæêó äå-þðå ïðåòåíäåíòà ïî èìåíè $CLAIMANT$ íà òèòóë îáëàñòè $OTHER_TITLE$;;x
+WAR_NAME_OTHER_DEJURECLAIM;$ORDER$$FIRST_ADJ$ Ducal War for $CLAIMANT$'s claim on $OTHER_TITLE$;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetAdjective]ñêàÿ âîéíà â ïîääåðæêó äå-þðå ïðåòåíäåíòà ïî èìåíè $CLAIMANT$ íà òèòóë îáëàñòè $OTHER_TITLE$;;x
+WAR_NAME_OTHER_SUCCESSION;$ORDER$$FIRST_ADJ$ War to install $CLAIMANT$ in $SECOND$;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetAdjective]ñêàÿ âîéíà ïðåòåíäåíòà ïî èìåíè $CLAIMANT$ íà ïðåñòîë ãîñóäàðñòâà $SECOND$;;x
+WAR_NAME_OVERTHROWRULER;$ORDER$War against the Tyranny of $DEFENDER$;;;;;;;;;;;$ORDER$Âîéíà ïðîòèâ òèðàíèè ïðàâèòåëÿ ($DEFENDER$);;x
+WAR_NAME_OVERTHROWRULER_NC;$ORDER$Revolt against the rule of $DEFENDER$;;;;;;;;;;;$ORDER$Âîññòàíèå ïðîòèâ âëàñòè ïðàâèòåëÿ ïî èìåíè $DEFENDER$;;x
+WAR_NAME_PAGAN_SUBJUGATION;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Subjugation War;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetShortAdjective]î-[Recipient.PrimaryTitle.GetAdjective]ñêàÿ âîéíà çà ïîêîðåíèå;;x
+WAR_NAME_PAPAL_RELIGIOUS;$ORDER$$FIRST_ADJ$ Papal War for $OTHER_TITLE$;;;;;;;;;;;$ORDER$Ïàïñêàÿ âîéíà çà òèòóë $OTHER_TITLE$;;x
+WAR_NAME_PEASANT_CONQUEST;Peasant Revolt for $OTHER_TITLE$;;;;;;;;;;;[Actor.PrimaryTitle.GetName];;x
+WAR_NAME_PERMANENT_TRIBUTARY;$ORDER$$FIRST_ADJ$ War to Make $DEFENDER$ a Tributary State;;;;;;;;;;;$ORDER$$FIRST_ADJ$ñêàÿ âîéíà çà óñòàíîâëåíèå ãåãåìîíèè íàä ãîñóäàðñòâîì, êîòîðûì ïðàâèò $DEFENDER$;;x
+WAR_NAME_POWERFUL_VASSAL_TAKEOVER;$ORDER$War to Oust $DEFENDER$ from Power;;;;;;;;;;;$ORDER$Âîéíà çà îòñòðàíåíèå ïðàâèòåëÿ, èçâåñòíîãî êàê $DEFENDER$, îò âëàñòè;;x
+WAR_NAME_PRIOGENITURE_SUCCESSION_LAW;$ORDER$$SECOND_ADJ$ Civil War for Primogeniture;;;;;;;;;;;$ORDER$[Recipient.PrimaryTitle.GetAdjective]ñêàÿ ãðàæäàíñêàÿ âîéíà çà ïåðâîðîäñòâî ïðè íàñëåäîâàíèè;;x
+WAR_NAME_RECONQUISTA_ARAGON;$ORDER$Reconquest War for Aragon;;;;;;;;;;;$ORDER$Ðåêîíêèñòà Àðàãîíà;;x
+WAR_NAME_RECONQUISTA_BALEARIC;$ORDER$Reconquest War for the Balearic Islands;;;;;;;;;;;$ORDER$Ðåêîíêèñòà Áàëåàðñêèõ îñòðîâîâ;;x
+WAR_NAME_RECONQUISTA_BEJA;$ORDER$Reconquest War for Western Coast;;;;;;;;;;;$ORDER$Ðåêîíêèñòà Çàïàäíîãî ïîáåðåæüÿ;;x
+WAR_NAME_RECONQUISTA_CASTILLE;$ORDER$Reconquest War for Castille;;;;;;;;;;;$ORDER$Ðåêîíêèñòà Êàñòèëèè;;x
+WAR_NAME_RECONQUISTA_CORDOBA;$ORDER$Reconquest War for Central Iberia;;;;;;;;;;;$ORDER$Ðåêîíêèñòà Öåíòðàëüíîé Èáåðèè;;x
+WAR_NAME_RECONQUISTA_GALICIA;$ORDER$Reconquest War for Galicia;;;;;;;;;;;$ORDER$Ðåêîíêèñòà Ãàëèñèè;;x
+WAR_NAME_RECONQUISTA_GRANADA;$ORDER$Reconquest War for Southern Iberia;;;;;;;;;;;$ORDER$Ðåêîíêèñòà Þæíîé Èáåðèè;;x
+WAR_NAME_RECONQUISTA_LEON;$ORDER$Reconquest War for Leon;;;;;;;;;;;$ORDER$Ðåêîíêèñòà Ëåîíà;;x
+WAR_NAME_RECONQUISTA_NAVARRA;$ORDER$Reconquest War for Navarra;;;;;;;;;;;$ORDER$Ðåêîíêèñòà Íàâàððû;;x
+WAR_NAME_RECONQUISTA_VALENCIA;$ORDER$Reconquest War for the Eastern Coast;;;;;;;;;;;$ORDER$Ðåêîíêèñòà Âîñòî÷íîãî ïîáåðåæüÿ;;x
+WAR_NAME_RELIGIOUS;$ORDER$$FIRST_ADJ$ Holy War for $OTHER_TITLE$;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetAdjective]ñêàÿ ñâÿùåííàÿ âîéíà çà îáëàñòü $OTHER_TITLE$;;x
+WAR_NAME_RIVALRY;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Rivalry War;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetShortAdjective]î-[Recipient.PrimaryTitle.GetAdjective]ñêàÿ âîéíà íà ïî÷âå ëè÷íîé íåíàâèñòè;;x
+WAR_NAME_SEIZE_TRADE_POST;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Trade War over $OTHER_TITLE$;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetShortAdjective]î-[Recipient.PrimaryTitle.GetAdjective]ñêàÿ òîðãîâàÿ âîéíà çà îáëàñòü $OTHER_TITLE$;;x
+WAR_NAME_SENIORITY_SUCCESSION_LAW;$ORDER$$SECOND_ADJ$ Civil War for Seniority;;;;;;;;;;;$ORDER$[Recipient.PrimaryTitle.GetAdjective]ñêàÿ ãðàæäàíñêàÿ âîéíà çà ñòàðøèíñòâî ïðè íàñëåäîâàíèè;;x
+WAR_NAME_SEX_DEPOSITION;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ War to Depose $DEFENDER$;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetShortAdjective]î-[Recipient.PrimaryTitle.GetAdjective]ñêàÿ âîéíà çà ñâåðæåíèå ïðàâèòåëÿ, èçâåñòíîãî êàê $DEFENDER$;;x
+WAR_NAME_SHATTERED_COUNTY_CONQUEST;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Consolidation of $OTHER_TITLE$;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetShortAdjective]î-[Recipient.PrimaryTitle.GetAdjective]ñêàÿ îáúåäèíèòåëüíàÿ âîéíà çà òèòóë $OTHER_TITLE$;;x
+WAR_NAME_SHEPHERDS_CRUSADE;$ORDER$ Shepherds' Crusade for [Title.GetBaseName];;;;;;;;;;;$ORDER$Êðåñòîâûé ïîõîä Ïàñòóøêîâ íà çåìëþ [Title.GetBaseName];;x
+WAR_NAME_SHIA_CALIPHATE_RISING;$ORDER$Shi'a Caliphate Rising in [Title.GetBaseName];;;;;;;;;;;$ORDER$Ñòàíîâëåíèå Øèèòñêîãî õàëèôàòà â çåìëå §Y[Title.GetShortBaseName]§!;;x
+WAR_NAME_SUCCESSION;$ORDER$$SECOND_ADJ$ Succession Crisis;;;;;;;;;;;$ORDER$[Recipient.PrimaryTitle.GetAdjective]ñêàÿ âîéíà çà ïðåñòîëîíàñëåäèå;;x
+WAR_NAME_THANKMARS_REBELLION;Thankmar's Rebellion;;;;;;;;;;;Òàíêìàðñêîå âîññòàíèå;;x
+WAR_NAME_TRIBAL_INDEPENDENCE;$ORDER$War against the Great $SECOND_ADJ$ Conversion;;;;;;;;;;;$ORDER$Âîéíà ïðîòèâ Âåëèêîãî $SECOND_ADJ$ñêîãî îáðàùåíèÿ;;x
+WAR_NAME_TRIBUTARY;$ORDER$$FIRST_ADJ$ War to Make $DEFENDER$ Pay Tribute;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetAdjective]ñêàÿ âîéíà çà äàíü, â êîòîðîé çàùèùàåòñÿ $DEFENDER$;;x
+WAR_NAME_ULTIMOGENITURE_SUCCESSION_LAW;$ORDER$$SECOND_ADJ$ Civil War for Ultimogeniture;;;;;;;;;;;$ORDER$[Recipient.PrimaryTitle.GetAdjective]ñêàÿ ãðàæäàíñêàÿ âîéíà çà ìèíîðàò ïðè íàñëåäîâàíèè;;x
+WAR_NAME_UNJUST_COUNTY_CONQUEST;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Border Dispute over $OTHER_TITLE$;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetShortAdjective]î-[Recipient.PrimaryTitle.GetAdjective]ñêàÿ âîéíà çà ïîãðàíè÷íûé îêðóã $OTHER_TITLE$;;x
+WAR_NAME_VIKING_INVASION;$ORDER$$FIRST_ADJ$ Prepared Invasion of $OTHER_TITLE$;;;;;;;;;;;$ORDER$[Actor.PrimaryTitle.GetAdjective]ñêîå ïîäãîòîâëåííîå âòîðæåíèå â çåìëþ, èçâåñòíóþ êàê $OTHER_TITLE$;;x
+WAR_NAME_WEAKEN_VASSAL;War for a New Ruler of $OTHER_TITLE$.;;;;;;;;;;;Âîéíà çà ñìåíó ïðàâèòåëÿ îáëàñòè $OTHER_TITLE$.;;x
 # Tooltips
-depose_impious_pope_cb_lose_TT;§Y[Root.GetTitledName]§! and [Root.GetHerHis] Allies:\n 	Gains the trait '§YExcommunicated§!'\n 	Lose §R100.00§! Piety.;;;;;;;;;;;;;x
-depose_impious_pope_cb_win_TT;§Y[Root.GetTitledName]§! and [Root.GetHerHis] Allies:\n 	§G100.00§! Piety.;;;;;;;;;;;;;x
-destabilization_china_success_tt;All held Kingdoms and Empires are destroyed.;;;;;;;;;;;;;x
-invasion_succ_tip;§Y[Root.GetTitledFirstName]§! takes all occupied territory.\n§Y[Root.GetTitledFirstName]§! becomes the new §Y[This.GetRulerTitle] of [This.GetBaseName]§!.\n;;;;;;;;;;;;;x
-liberate_nomad_cb_succ_tip;§Y[Root.GetTitledFirstName]§! vassalizes non-nomadic lords and takes all other titles in the §Y[This.GetFullBaseName]§!.\n;;;;;;;;;;;;;x
-offmap_submission_tip;§Y[Root.GetTitledFirstName]§! forces §Y[This.GetTitledName]§! to submit and become their subject.\n§Y[Root.GetTitledFirstName]§! will usurp §YCounties§! until [Root.GetHerHis] §YDemesne Limit§! is reached!\n;;;;;;;;;;;;;x
-other_invasion_succ_tip;§Y[Root.GetTitledFirstName]§! takes or vassalizes all titles in the §Y[This.GetFullBaseName]§! belonging to §Y[From.GetTitledFirstName]§!.\n;;;;;;;;;;;;;x
-pagan_subjugation_tip;§Y[Root.GetTitledFirstName]§! takes or vassalizes all titles held by §Y[From.GetTitledFirstName]§! within the §Y[This.GetFullBaseName]§!.\n;;;;;;;;;;;;;x
-pepin_religious_cb_succ_tip;The Papacy will claim all titles under the disputed title that are held by infidels and vassalize all titles that are held by [Root.Religion.GetName] rulers.;;;;;;;;;;;;;x
-religious_cb_succ_tip;§Y[Root.GetTitledFirstName]§! vassalizes lords of [Root.GetPossPronoun] religion and takes all other titles in the §Y[Prev.GetFullBaseName]§!.\n;;;;;;;;;;;;;x
-religious_liberation_cb_succ_tip;The §Y[This.GetFullBaseName]§! will be liberated under a new ruler of the §Y[Root.Religion.GetName]§! religion! This ruler will become your §YTributary§!.;;;;;;;;;;;;;x
-sex_deposition_cb_succ_tip;§Y[From.GetTitledFirstName]§! will relinquish [From.GetHerHis] throne in favor of a more capable [Root.GetManWoman].;;;;;;;;;;;;;x
-sex_deposition_cb_succ_tip_2;The new ruler of §Y[From.PrimaryTitle.GetName]§! will become your §YTributary§!.;;;;;;;;;;;;;x
-tribal_invasion_succ_tip;§Y[Root.GetTitledFirstName]§! takes all occupied territory.\n§Y[Root.GetTitledFirstName]§! takes or vassalizes all titles in the §Y[This.GetFullBaseName]§! belonging to §Y[From.GetTitledFirstName]§!.\n;;;;;;;;;;;;;x
-tribal_subjugation_tip;§Y[Root.GetTitledFirstName]§! subjugates §Y[This.GetTitledName]§!\n;;;;;;;;;;;;;x
-ALT_GHW_STARTED;The Era of Great Holy Wars has Begun\n;;;;;;;;;;;;;x
+depose_impious_pope_cb_lose_TT;§Y[Root.GetTitledName]§! and [Root.GetHerHis] Allies:\n 	Gains the trait '§YExcommunicated§!'\n 	Lose §R100.00§! Piety.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! è [Root.GetHersHis] ñîþçíèêè:\n 	Ïîëó÷àò ÷åðòó §YÎòëó÷¸í îò Öåðêâè§!\n 	§R-100.00§! ê áëàãî÷åñòèþ;;x
+depose_impious_pope_cb_win_TT;§Y[Root.GetTitledName]§! and [Root.GetHerHis] Allies:\n 	§G100.00§! Piety.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! è [Root.GetHersHis] ñîþçíèêè:\n 	§G+100.00§! ê áëàãî÷åñòèþ;;x
+destabilization_china_success_tt;All held Kingdoms and Empires are destroyed.;;;;;;;;;;;Âñå êîðîëåâñòâà è èìïåðèè áóäóò óíè÷òîæåíû.;;x
+invasion_succ_tip;§Y[Root.GetTitledFirstName]§! takes all occupied territory.\n§Y[Root.GetTitledFirstName]§! becomes the new §Y[This.GetRulerTitle] of [This.GetBaseName]§!.\n;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! ïîëó÷èò âñå çàõâà÷åííûå òåððèòîðèè.\n§Y[Root.GetTitledFirstName]§! ïîëó÷èò òèòóë §Y[This.GetBaseName]§!.\n;;x
+liberate_nomad_cb_succ_tip;§Y[Root.GetTitledFirstName]§! vassalizes non-nomadic lords and takes all other titles in the §Y[This.GetFullBaseName]§!.\n;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! âàññàëèçèðóåò íåêî÷åâûõ ïðàâèòåëåé è ïðèñâîèò âñå ïðî÷èå òèòóëû â îáëàñòè §Y[This.GetFullBaseName]§!.\n;;x
+offmap_submission_tip;§Y[Root.GetTitledFirstName]§! forces §Y[This.GetTitledName]§! to submit and become their subject.\n§Y[Root.GetTitledFirstName]§! will usurp §YCounties§! until [Root.GetHerHis] §YDemesne Limit§! is reached!\n;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! ïîòðåáóåò, ÷òîáû §Y[This.GetTitledFirstName]§! ïîä÷èíè[This.GetLasLsya] è ñòàë[This.GetEndA] [Root.GetHersHis] ïîääàíí[This.GetOyYm].\n§Y[Root.GetTitledFirstName]§! óçóðïèðóåò âñå §Yîêðóãà§! ïîä÷èí¸ííîãî ïðîòèâíèêà, ïîêà íå äîñòèãíåò §Yëèìèòà ëè÷íûõ âëàäåíèé§!!\n;;x
+other_invasion_succ_tip;§Y[Root.GetTitledFirstName]§! takes or vassalizes all titles in the §Y[This.GetFullBaseName]§! belonging to §Y[From.GetTitledFirstName]§!.\n;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! ïîëó÷èò èëè ñäåëàåò ñâîèìè âàññàëàìè âñå òèòóëû ãîñóäàðñòâà §Y[This.GetFullBaseName]§!, êîòîðûìè îáëàäàåò §Y[From.GetTitledFirstName]§!.\n;;x
+pagan_subjugation_tip;§Y[Root.GetTitledFirstName]§! takes or vassalizes all titles held by §Y[From.GetTitledFirstName]§! within the §Y[This.GetFullBaseName]§!.\n;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! ïðèñâàèâàåò èëè âàññàëèçèðóåò âñå òèòóëû, êîòîðûìè îáëàäàåò §Y[From.GetTitledFirstName]§! â ïðåäåëàõ ãîñóäàðñòâà §Y[This.GetFullBaseName]§!.\n;;x
+pepin_religious_cb_succ_tip;The Papacy will claim all titles under the disputed title that are held by infidels and vassalize all titles that are held by [Root.Religion.GetName] rulers.;;;;;;;;;;;Ïàïñòâî áóäåò ïðåòåíäîâàòü íà âñå òèòóëû èíîâåðöåâ â ïðåäåëàõ îñïàðèâàåìîãî òèòóëà. [Root.GetRelAdjCap]ñêèå æå ïðàâèòåëè ñòàíóò âàññàëàìè Ïàïû.;;x
+religious_cb_succ_tip;§Y[Root.GetTitledFirstName]§! vassalizes lords of [Root.GetPossPronoun] religion and takes all other titles in the §Y[Prev.GetFullBaseName]§!.\n;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! ñäåëàåò âàññàëàìè ïðàâèòåëåé ñâîåé âåðû è óçóðïèðóåò âñå ïðî÷èå òèòóëû çåìëè §Y[This.GetFullBaseName]§!.\n;;x
+religious_liberation_cb_succ_tip;The §Y[This.GetFullBaseName]§! will be liberated under a new ruler of the §Y[Root.Religion.GetName]§! religion! This ruler will become your §YTributary§!.;;;;;;;;;;;§Y[This.GetFullBaseName]§! îñâîáîäèòñÿ, ïåðåéäÿ ïîä âëàñòü íîâîãî §Yïðàâèòåëÿ-[Root.GetReligionAdherentGEN]§!! Ýòîò ïðàâèòåëü ñòàíåò Âàøèì §Yäàííèêîì§!.;;x
+sex_deposition_cb_succ_tip;§Y[From.GetTitledFirstName]§! will relinquish [From.GetHerHis] throne in favor of a more capable [Root.GetManWoman].;;;;;;;;;;;§Y[From.GetTitledFirstName]§! óñòóïèò ñâîé òðîí â ïîëüçó [Root.GetManWoman]û.;;x
+sex_deposition_cb_succ_tip_2;The new ruler of §Y[From.PrimaryTitle.GetName]§! will become your §YTributary§!.;;;;;;;;;;;§Y[From.PrimaryTitle.GetName]§! ñòàíåò §Yãîñóäàðñòâîì-ñàòåëëèòîì§! (äàííèêîì).;;x
+tribal_invasion_succ_tip;§Y[Root.GetTitledFirstName]§! takes all occupied territory.\n§Y[Root.GetTitledFirstName]§! takes or vassalizes all titles in the §Y[This.GetFullBaseName]§! belonging to §Y[From.GetTitledFirstName]§!.\n;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! ïîëó÷èò âñå çàíÿòûå òåððèòîðèè.\n§Y[Root.GetTitledFirstName]§! çàõâàòèò èëè äåëàåò ñâîèìè âàññàëàìè âñå òèòóëû, êîòîðûìè âëàäååò §Y[From.GetTitledFirstName]§! â ãîñóäàðñòâå §Y[This.GetName]§!.\n;;x
+tribal_subjugation_tip;§Y[Root.GetTitledFirstName]§! subjugates §Y[This.GetTitledName]§!\n;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! ïîêîðèò ïðàâèòåëÿ, èçâåñòíîãî êàê §Y[This.GetTitledName]§!\n;;x
+ALT_GHW_STARTED;The Era of Great Holy Wars has Begun\n;;;;;;;;;;;Íà÷àëàñü ýðà Âåëèêèõ Ñâÿùåííûõ Âîéí\n;;x

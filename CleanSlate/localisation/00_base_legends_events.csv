@@ -1,168 +1,160 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTNAME10000;The Merry Men of [Root.Location.GetName];;;;;;;;;;;;;x
-EVTNAME10001;The harassing of a noblewoman;;;;;;;;;;;;;x
-EVTNAME10002;The harassing of a nobleman;;;;;;;;;;;;;x
-EVTNAME10003;It's a trap!;;;;;;;;;;;;;x
-EVTNAME10010;Archery Contest;;;;;;;;;;;;;x
-EVTNAME10011;The green-clad stranger;;;;;;;;;;;;;x
-EVTNAME10012;The Old Man;;;;;;;;;;;;;x
-EVTNAME10013;That didn't work;;;;;;;;;;;;;x
-EVTNAME10020;Devil in Disguise;;;;;;;;;;;;;x
-EVTNAME10021;Disguise revealed!;;;;;;;;;;;;;x
-EVTNAME10022;Meet the Merry Men;;;;;;;;;;;;;x
-EVTNAME10023;A stranger in green;;;;;;;;;;;;;x
-EVTNAME10024;A stranger defeated;;;;;;;;;;;;;x
-EVTNAME10025;A stranger victorious;;;;;;;;;;;;;x
-EVTNAME10026;A stranger suspicious;;;;;;;;;;;;;x
-EVTNAME10030;Meet the Merry Men;;;;;;;;;;;;;x
-EVTNAME10031;Steal from the rich;;;;;;;;;;;;;x
-EVTNAME10032;Adventure!;;;;;;;;;;;;;x
-EVTNAME10033;Leave the Merry Men;;;;;;;;;;;;;x
-EVTNAME10040;Time to make a decision;;;;;;;;;;;;;x
-EVTNAME10041;Ambush!;;;;;;;;;;;;;x
-EVTNAME10042;The Wedding;;;;;;;;;;;;;x
-EVTNAME10100;The Day the Earth Shook;;;;;;;;;;;;;x
-EVTNAME10101;Gate of Hell;;;;;;;;;;;;;x
-EVTNAME10102;The Tormented Souls of Hell;;;;;;;;;;;;;x
-EVTNAME10103;Close the Gate to Hell;;;;;;;;;;;;;x
-EVTNAME10104;The Exorcism;;;;;;;;;;;;;x
-EVTNAME10105;Feed it Cattle;;;;;;;;;;;;;x
-EVTNAME10106;Rollin' Stones;;;;;;;;;;;;;x
-EVTNAME10107;Sacrifice My Child;;;;;;;;;;;;;x
-EVTNAME10108;It worked!;;;;;;;;;;;;;x
-EVTNAME10109;It didn't work!;;;;;;;;;;;;;x
-
-EVTDESC10000;My sheriff came to me today, looking harried and limping slightly.\n\n'My lord, I fear I have grave news: A band of robbers and poachers calling themselves the Merry Men of [Root.Location.GetName] are on the loose in your forest. I have tried to find them but alas, to no avail. They chased me out of the forest several times, the last time an arrow hit me straight in my buttocks!';;;;;;;;;;;;;x
-EVTDESC10001;An indignant but blushing woman stormed into my great hall. She told me how a band of green-clad men had overpowered her, taken her to their hideout and forced her to yield her jewels and gold to them, everything except a simple locket. They treated her courteously and even escorted her to the edge of the forest when she had handed over her jewelry. Her shining eyes, blushing cheeks and furtive smile told me she enjoyed it.;;;;;;;;;;;;;x
-EVTDESC10002;An indignant and fuming man stormed into my great hall. He told me how a band of green-clad men had overpowered him, manhandled him when he tried to resist and taken him to their hideout where they had forced him to yield every valuable trinket he owned, even his horse! When he had stopped resisting, they treated him courteously and even escorted him to the edge of the forest after they had taken his valuables. He demanded that I would do something about 'those Merry Men in green'.;;;;;;;;;;;;;x
-EVTDESC10003;My sheriff and I discussed what we should do about the outlaws and came up with two ideas. Every man and woman who had been harassed by the bandits, including the sheriff, have been told about the leader's skill with the bow. An archery contest might lure him out of his beloved forest. Another option would be to use a disguise to find the villain and bring them to court.;;;;;;;;;;;;;x
-EVTDESC10010;The day was perfect for an archery contest. The sun hid between clouds, a small breeze cooled the nervous and everyone seemed happy. The targets were set and ready, all that was needed now was my signal.;;;;;;;;;;;;;x
-EVTDESC10011;Over there! Yes, there! That's him alright. What do we do now?' The sheriff pointed at a man clad in green with a great bow in his hands. I watched him as he won effortlessly against every person foolish enough to try and match their skill against his. The man's skill with his great bow amazed me. 'This man is a great archer, too bad he's a lawless poacher living off my venison.';;;;;;;;;;;;;x
-EVTDESC10012;The other contestants and I laughed hard as the old man tried to draw the bow with shaking hands. After several attempts, he finally succeeded. He closed one of his runny eyes and THUD!... It hit the bullseye. Everyone's chin hit the ground as the old man defeated his contestants one by one. The poacher we had set the trap for was nowhere to be seen, so I had to grumpily give the old man his admittedly well-earned prize: a golden arrow.;;;;;;;;;;;;;x
-EVTDESC10013;Frustration swept through my veins as the archery contest proved unsuccessful in luring and trapping the elusive poacher. Perhaps we should try something else?;;;;;;;;;;;;;x
-EVTDESC10020;I removed my beautiful fur-lined cloaks and reluctantly eased myself into a peasant's stinking clothes. A woolen tunic, a small hat and muddy boots completed my disguise. Now, me own ma wouldn't even recognize me.;;;;;;;;;;;;;x
-EVTDESC10021;I had not even taken one step into the great forest before an arrow burrowed itself into the ground just in front of my toes. I froze for a short second before I started struggling to get my sword out of its hiding place. When I had finally freed my sword, a man clad in green stood before me. He held the greatest bow I ever seen with an arrow on its string aimed at me. 'Leave', he said and I obeyed immediately. Behind me, the forest echoed with thunderous laughter.;;;;;;;;;;;;;x
-EVTDESC10022;My stomach growled louder than the wolves howling in the distance. My search for the lawless men had taken me farther into the forest than I had imagined it would. Just a couple of hours had passed since I broke my fast but it felt like days. I kept walking and reached a small brook. As I bent down for a drink, I heard laughter and faint voices of many people coming towards me. Before I could hide, they were upon me. After a thorough interrogation where I pretended to be naïve or downright stupid, they allowed me to follow them to their camp.;;;;;;;;;;;;;x
-EVTDESC10023;My bad mood did not improve when I arrived at a small bridge across a shallow creek and a man large in stature demanded that I pay a toll to cross the bridge. I laughed in his face and he challenged me, even though I bore a sword and he nothing but a wooden staff.;;;;;;;;;;;;;x
-EVTDESC10024;It did not seem fair to fight the man with a sword when he had a wooden staff, so I carved myself a staff before we commenced. After receiving several blows, I dodged his attack and drove the tip of my staff into his left side and as he doubled up, I hit him with all my strength. With a sigh he lost consciousness and fell into the creek. I feared he might drown so I poked at him with my staff. With a roar he exploded out of the river and up on the embankment. He grumpily admitted defeat after some persuasion and with a grimace and a limp he took me to his lawless brothers.;;;;;;;;;;;;;x
-EVTDESC10025;I carved myself a wooden staff as it did not seem fair to use a sword against a man armed only with a staff. We exchanged blows and he was both stronger and faster than I had thought him to be. He did not seem to tire and when I lowered my staff to admit defeat, he delivered a hard blow that sent me over the bridge and into the muddy water. Roaring with laughter, he helped me get up on the bridge and slapped me so hard I coughed up the last mouthful of water I had swallowed. He insisted I would follow him and meet his gang.;;;;;;;;;;;;;x
-EVTDESC10026;In the heat of battle, I somehow revealed to the green-clad man who I was. I tried to parry his fierce blows but I was too slow. I heard rather than felt the staff smash into my skull. When I woke up my sword, purse and opponent were long gone.;;;;;;;;;;;;;x
-EVTDESC10030;As I approached their hideout, songs, laughter and people talking reached my ears. It was more a small village hiding beneath and up in the trees rather than a lawless gang's lair. Women cooked, tended to children and babbled with the men who practiced their skills with bows and swords. A woman clothed in green and as skilled as any man with a bow caught my eye but before I could approach her, I was introduced to their leader who seemed restless and asked me hundreds of questions. In order to gain their trust, I had to prove myself to him and his gang.;;;;;;;;;;;;;x
-EVTDESC10031;Praying he would not recognize me, I stepped out in front of my old friend and demanded he would surrender his purse. The way he looked at me, disgust mixed with fear, could only mean he did not recognize me. I had to threaten to kill him to make him let go of the purse, and I made a silent vow to try and compensate him should I be able to ever return to my castle. His purse was heavy and so was my heart as I returned to the bandit leader.;;;;;;;;;;;;;x
-EVTDESC10032;I insisted that the leader and I would go looking for adventure together, without any of the other Merry Men. They grumbled a bit but was silenced by the leader who thought it to be an excellent idea. As we walked down the road, we saw a man clad in horse-skin leaning against a tree. I wanted to confront the horse-man myself but the stubborn leader did not listen. While he talked to horse-man, I was attacked and tied to a tree by one of my own sheriffs! The leader of the Merry Men returned, saw me tied to the tree and killed my sheriff before he cut my ropes.;;;;;;;;;;;;;x
-EVTDESC10033;I slunk away from the Merry Men after having had adventures, venison and flirted with the green-clad maid. I had great fun together with the outlaws and feel no need to try and change their ways, as long as their shenanigans do not affect me. They seemed rather harmless, content to hide in their forest and occasionally robbing someone who will not suffer from losing a little gold.;;;;;;;;;;;;;x
-EVTDESC10040;What should I do about the green-clad Merry Men and their leader?;;;;;;;;;;;;;x
-EVTDESC10041;When the snores of the Merry Men echoed throughout the forest, I snuck back home and rallied my troops. I led them straight to the band of robbers and thieves. We caught every one of the bandits, the women and children were spared and set free.;;;;;;;;;;;;;x
-EVTDESC10042;The wedding between lady Marion and Robin was held in the forest, venison was served at the wedding feast but I let it slip, for now. The bridal couple had only eyes for each other and when the fat monk started playing a slow, beautiful song about love they joined hands and danced, still gazing into each other eyes. They did not even notice when the song turned faster and the rest of the dancers followed the rhythm, but continued dancing slowly until the stars started sparkling on the clear sky.;;;;;;;;;;;;;x
-EVTDESC10100;The earth shook, the people screamed and buildings cracked. A cloud of foul-smelling air swept over the village, making torches and fires burn bright green for several hours. It took a couple of days repairing the cracked buildings and salvaging items from the few older houses that had collapsed, luckily everyone escaped unharmed. I slowly walked through the city, examining the buildings and noting what remained to be repaired when an excited peasant approached me. Without bothering with formalities, he told me about a giant crack in the ground just outside his farm. He wanted me to come and inspect it, and perhaps determine what to do about it.;;;;;;;;;;;;;x
-EVTDESC10101;The foul smell that had swept over the city the day the earth shook slowly crept up on us and I retched involuntarily. The wound that had burst open in the farmer's field spewed fire and brimstones and we stopped, aghast at the sight. The flames and fiery stones threatened the bare ground around the gap, the farmer was lucky his fields lay fallow.;;;;;;;;;;;;;x
-EVTDESC10102;Wailings, screams and cries for help seemed to emit from the burning gap. The farmer grew pale and refused to take one step further. I walked as close to the hell hole as I dared and tried to peek down. Apart from the occasional fiery stone and eyebrow-licking flame, I could see nothing. The wailings and screams seemed to increase until it felt as if my head would explode. I stumbled backward, felt the ground shifting beneath my feet and would have fallen into the pit if the farmer hadn't grabbed my arm and pulled me away from it.;;;;;;;;;;;;;x
-EVTDESC10103;I gave the wisest men and women of my court three days to come up with a solution on how to close this gap that seemed to open the whole way to hell. Within three days, they all had thought up different solutions to the problem.;;;;;;;;;;;;;x
-EVTDESC10104;The priest walked several times around the gap, sprinkling holy water and chanting the words 'Vade retro satana! Vade retro satana!', avoiding the fiery stones and flames spewing from the gap as best he could. At the end of the third turn, he knelt and began praying, the only words to be heard 'Vade retro satana!'...;;;;;;;;;;;;;x
-EVTDESC10105;The cows balked in front of the gap and refused to take any step further. They had to be pushed into the gap and their miserable mooing mixed with the wailings of the tortured souls trapped in the pit until they hit the bottom.;;;;;;;;;;;;;x
-EVTDESC10106;Cartload after cartload of rocks and gravel were shoveled into the gap while the workers desperately tried to stay clear of the flames and fiery stones that seemed to increase in number. The screams of pain from the bottom of the pit affected the workers and some refused to keep shoveling in the gravel. I had to promise them no one was trapped down there but did not want anyone to descend into whatever madness the pit was.;;;;;;;;;;;;;x
-EVTDESC10107;One of the wise women told me she had a vision during the three days they were supposed to meditate on how to close the gap. She said the peril would be overcome only when I threw into the chasm what I held to be most dear, and I immediately thought of my eldest son. With a heavy heart I agreed to meet the wise woman at the pit together with my oldest son.;;;;;;;;;;;;;x
-EVTDESC10108;The gap finally closed! No more fiery stones and flames, no more wailing voices from the underground!;;;;;;;;;;;;;x
-EVTDESC10109;Despite everything, the gap stubbornly refused to close and spewed even more fiery stones and wailing voices.;;;;;;;;;;;;;x
-
-EVTOPTA10000;Bwahahaha... Sorry, do go on;;;;;;;;;;;;;x
-EVTOPTA10001;Give her some gold and send her away;;;;;;;;;;;;;x
-EVTOPTA10002;Give him some gold and send him away;;;;;;;;;;;;;x
-EVTOPTA10003;Too risky;;;;;;;;;;;;;x
-EVTOPTA10010;Let the contest... BEGIN!;;;;;;;;;;;;;x
-EVTOPTA10011;Arrest and hang him!;;;;;;;;;;;;;x
-EVTOPTA10012;What happened?;;;;;;;;;;;;;x
-EVTOPTA10013;Leave him and his gang alone;;;;;;;;;;;;;x
-EVTOPTA10020;Let's see how this works...;;;;;;;;;;;;;x
-EVTOPTA10021;Blast!;;;;;;;;;;;;;x
-EVTOPTA10022;H-hello...;;;;;;;;;;;;;x
-EVTOPTA10023;Easy as pie!;;;;;;;;;;;;;x
-EVTOPTA10024;As I said, easy as pie!;;;;;;;;;;;;;x
-EVTOPTA10025;I couldn't say no to him;;;;;;;;;;;;;x
-EVTOPTA10026;Now I will never catch him, nor the Merry Men!;;;;;;;;;;;;;x
-EVTOPTA10030;Really?;;;;;;;;;;;;;x
-EVTOPTA10031;This has gone too far!;;;;;;;;;;;;;x
-EVTOPTA10032;This has gone too far!;;;;;;;;;;;;;x
-EVTOPTA10033;Fare thee well!;;;;;;;;;;;;;x
-EVTOPTA10040;I'll hang them!;;;;;;;;;;;;;x
-EVTOPTA10041;Kill them all!;;;;;;;;;;;;;x
-EVTOPTA10042;I wish them good luck with all my heart;;;;;;;;;;;;;x
-EVTOPTA10100;Why do you bother me?;;;;;;;;;;;;;x
-EVTOPTA10101;It's just a hole in the ground;;;;;;;;;;;;;x
-EVTOPTA10102;It's just a hole, right?;;;;;;;;;;;;;x
-EVTOPTA10103;Exorcism!;;;;;;;;;;;;;x
-EVTOPTA10104;I think this will work!;;;;;;;;;;;;;x
-EVTOPTA10105;I really hope this works;;;;;;;;;;;;;x
-EVTOPTA10106;Keep shoveling!;;;;;;;;;;;;;x
-EVTOPTA10107;I hope I won't regret this;;;;;;;;;;;;;x
-EVTOPTA10108;The priest did a fine job exorcising the Gate back to Hell!;;;;;;;;;;;;;x
-EVTOPTA10109;For Heaven's sake... what will I do now?;;;;;;;;;;;;;x
-
-EVTOPTB10000;We need to set a trap for them!;;;;;;;;;;;;;x
-EVTOPTB10001;Something must be done!;;;;;;;;;;;;;x
-EVTOPTB10002;This is outrageous!;;;;;;;;;;;;;x
-EVTOPTB10003;An archery contest, of course!;;;;;;;;;;;;;x
-EVTOPTB10011;Perhaps I could hire him and his Merry Men as gamekeepers;;;;;;;;;;;;;x
-EVTOPTB10013;A smelly peasant should not arouse their suspicion;;;;;;;;;;;;;x
-EVTOPTB10020;Is this really befitting a [Root.GetTitle]?;;;;;;;;;;;;;x
-EVTOPTB10022;I'll run away now, bye!;;;;;;;;;;;;;x
-EVTOPTB10023;If I promise to never return, will you let me go then?;;;;;;;;;;;;;x
-EVTOPTB10030;Let's see what adventure we can find;;;;;;;;;;;;;x
-EVTOPTB10031;Time to leave;;;;;;;;;;;;;x
-EVTOPTB10032;Now what?;;;;;;;;;;;;;x
-EVTOPTB10040;I'll hire them as gamekeepers;;;;;;;;;;;;;x
-EVTOPTB10041;If their leader becomes my gamekeeper I will spare their lives;;;;;;;;;;;;;x
-EVTOPTB10100;Of course! Show the way, peasant!;;;;;;;;;;;;;x
-EVTOPTB10101;I must take a closer look at this;;;;;;;;;;;;;x
-EVTOPTB10102;I need this gap closed. Now!;;;;;;;;;;;;;x
-EVTOPTB10103;Feed it cattle;;;;;;;;;;;;;x
-EVTOPTB10104;This won't work. Try something else;;;;;;;;;;;;;x
-EVTOPTB10105;I don't believe in this idea;;;;;;;;;;;;;x
-EVTOPTB10106;This is an impossible task;;;;;;;;;;;;;x
-EVTOPTB10107;There must be some other way!;;;;;;;;;;;;;x
-EVTOPTB10108;The Gates of Hell closed after we fed it cattle!;;;;;;;;;;;;;x
-
-EVTOPTC10000;Just ignore them;;;;;;;;;;;;;x
-EVTOPTC10003;A clever disguise should work;;;;;;;;;;;;;x
-EVTOPTC10030;This is enough!;;;;;;;;;;;;;x
-EVTOPTC10031;Now I know where to find them;;;;;;;;;;;;;x
-EVTOPTC10032;This was... fun?;;;;;;;;;;;;;x
-EVTOPTC10103;Try filling it with stones;;;;;;;;;;;;;x
-EVTOPTC10108;The Gates of Hell was filled in with stones!;;;;;;;;;;;;;x
-
-EVTOPTD10026;This is as far as I dare take it;;;;;;;;;;;;;x
-EVTOPTD10032;Time to leave and leave them alone;;;;;;;;;;;;;x
-EVTOPTD10103;Sacrifice the most precious thing in the world;;;;;;;;;;;;;x
-EVTOPTD10108;It took a human sacrifice but now the Gates of Hell is closed!;;;;;;;;;;;;;x
-
-EVTTOOLTIP10001;The Merry Men makes a move...;;;;;;;;;;;;;x
-EVTTOOLTIP10010;An archery contest will be held;;;;;;;;;;;;;x
-EVTTOOLTIP10011;Let us see who we capture!;;;;;;;;;;;;;x
-EVTTOOLTIP10012;This might not work;;;;;;;;;;;;;x
-EVTTOOLTIP10013;The archery contest was a success and a failure;;;;;;;;;;;;;x
-EVTTOOLTIP10020;A Devil in Disguise;;;;;;;;;;;;;x
-EVTTOOLTIP10021;Disguise revealed!;;;;;;;;;;;;;x
-EVTTOOLTIP10022;Stumbles upon the Merry Men;;;;;;;;;;;;;x
-EVTTOOLTIP10023;A stranger in green;;;;;;;;;;;;;x
-EVTTOOLTIP10024;You win the fight;;;;;;;;;;;;;x
-EVTTOOLTIP10025;You lose the fight;;;;;;;;;;;;;x
-EVTTOOLTIP10026;Your real identity is revealed;;;;;;;;;;;;;x
-EVTTOOLTIP10030;Meet the Merry Men;;;;;;;;;;;;;x
-EVTTOOLTIP10031;Steal from the rich and give to the poor;;;;;;;;;;;;;x
-EVTTOOLTIP10032;Adventure ahead!;;;;;;;;;;;;;x
-EVTTOOLTIP10033;Leave the Merry Men;;;;;;;;;;;;;x
-EVTTOOLTIP10040;Arrest the leader of the Merry Men;;;;;;;;;;;;;x
-EVTTOOLTIP10041;Betray the Merry Men;;;;;;;;;;;;;x
-EVTTOOLTIP10042;The wedding between lady Marion and Robin;;;;;;;;;;;;;x
-EVTTOOLTIP10101;The Gate of Hell;;;;;;;;;;;;;x
-EVTTOOLTIP10102;The Gate and its Tortured Souls;;;;;;;;;;;;;x
-EVTTOOLTIP10103;There is a way to close the Gap, but how?;;;;;;;;;;;;;x
-EVTTOOLTIP10104;The priest will perform an exorcism;;;;;;;;;;;;;x
-EVTTOOLTIP10105;The demon inhabiting the gap should be satisfied;;;;;;;;;;;;;x
-EVTTOOLTIP10106;The hole cannot be abyssal;;;;;;;;;;;;;x
-EVTTOOLTIP10107;A sacrifice to close the gap;;;;;;;;;;;;;x
-EVTTOOLTIP10108;It might work;;;;;;;;;;;;;x
-EVTTOOLTIP10109;It might not work;;;;;;;;;;;;;x
-
-EVTTOOLTIP68030;Highway Robber Band appears in county;;;;;;;;;;;;;x
+EVTNAME10000;The Merry Men of [Root.Location.GetName];;;;;;;;;;;Båñ¸ëûå Ëþäè [Root.Location.County.GetAdjective]ñêîãî ëåñà;;x
+EVTNAME10001;The harassing of a noblewoman;;;;;;;;;;;Tðåâîæíàÿ äâîðÿíêà;;x
+EVTNAME10002;The harassing of a nobleman;;;;;;;;;;;Tðåâîæíûé äâîðÿíèí;;x
+EVTNAME10003;It's a trap!;;;;;;;;;;;Cêðûòàÿ ëîâóøêà!;;x
+EVTNAME10010;Archery Contest;;;;;;;;;;;Cîñòÿçàíèå â ñòðåëüáå;;x
+EVTNAME10011;The green-clad stranger;;;;;;;;;;;Håçíàêîìåö, îäåòûé â çåë¸íîå;;x
+EVTNAME10012;The Old Man;;;;;;;;;;;Còàðèê;;x
+EVTNAME10013;That didn't work;;;;;;;;;;;Hå ñðàáîòàëî...;;x
+EVTNAME10020;Devil in Disguise;;;;;;;;;;;Màñêèðîâêà;;x
+EVTNAME10021;Disguise revealed!;;;;;;;;;;;Màñêèðîâêà íå ñðàáîòàëà!;;x
+EVTNAME10022;Meet the Merry Men;;;;;;;;;;;Bñòðå÷à ñ Âåñ¸ëûìè Ëþäüìè;;x
+EVTNAME10023;A stranger in green;;;;;;;;;;;Håçíàêîìåö â çåë¸íîì;;x
+EVTNAME10024;A stranger defeated;;;;;;;;;;;Håçíàêîìåö ïîáåæä¸í;;x
+EVTNAME10025;A stranger victorious;;;;;;;;;;;Håçíàêîìåö ïîáåäèë;;x
+EVTNAME10026;A stranger suspicious;;;;;;;;;;;Håçíàêîìåö ÷òî-òî çàïîäîçðèë;;x
+EVTNAME10030;Meet the Merry Men;;;;;;;;;;;Bñòðå÷à ñ Âåñ¸ëûìè Ëþäüìè;;x
+EVTNAME10031;Steal from the rich;;;;;;;;;;;Oòíÿòü ó áîãàòûõ;;x
+EVTNAME10032;Adventure!;;;;;;;;;;;Hàñòîÿùåå ïðèêëþ÷åíèå!;;x
+EVTNAME10033;Leave the Merry Men;;;;;;;;;;;Bðåìÿ ïîêèíóòü Âåñ¸ëûõ Ëþäåé;;x
+EVTNAME10040;Time to make a decision;;;;;;;;;;;Bðåìÿ ðåøàòü;;x
+EVTNAME10041;Ambush!;;;;;;;;;;;Oáìàí;;x
+EVTNAME10042;The Wedding;;;;;;;;;;;Câàäüáà;;x
+EVTNAME10100;The Day the Earth Shook;;;;;;;;;;;Kîãäà çåìëÿ ñîäðîãíóëàñü;;x
+EVTNAME10101;Gate of Hell;;;;;;;;;;;Bðàòà Àäà;;x
+EVTNAME10102;The Tormented Souls of Hell;;;;;;;;;;;Mó÷åíèêè àäà;;x
+EVTNAME10103;Close the Gate to Hell;;;;;;;;;;;Bðàòà Àäà;;x
+EVTNAME10104;The Exorcism;;;;;;;;;;;Câÿùåííûé ýêçîðöèçì;;x
+EVTNAME10105;Feed it Cattle;;;;;;;;;;;Cêîðìèòü äûðå êîðîâ;;x
+EVTNAME10106;Rollin' Stones;;;;;;;;;;;Kàòÿùèåñÿ êàìíè;;x
+EVTNAME10107;Sacrifice My Child;;;;;;;;;;;Mî¸ äèòÿ ïðèíîñèòñÿ â æåðòâó;;x
+EVTNAME10108;It worked!;;;;;;;;;;;Cðàáîòàëî!;;x
+EVTNAME10109;It didn't work!;;;;;;;;;;;Hå ñðàáîòàëî!;;x
+EVTDESC10000;My sheriff came to me today, looking harried and limping slightly.\n\n'My lord, I fear I have grave news: A band of robbers and poachers calling themselves the Merry Men of [Root.Location.GetName] are on the loose in your forest. I have tried to find them but alas, to no avail. They chased me out of the forest several times, the last time an arrow hit me straight in my buttocks!';;;;;;;;;;;"Ìîé øåðèô ñåãîäíÿ ïðèø¸ë êî ìíå èçìîæäåííûé, ñëåãêà ïðèõðàìûâàÿ.\n""[Root.PrimaryTitle.GetFOA], ïëîõèå íîâîñòè: øàéêà ãðàáèòåëåé è áðàêîíüåðîâ, íàçûâàþùèõ ñåáÿ ""Âåñ¸ëûå Ëþäè"", ðàçãóëèâàþò ïî Âàøåìó ëåñó. ß ïûòàëñÿ èõ íàéòè, íî, óâû - áåçðåçóëüòàòíî. Îíè æå, ÿâíî èçäåâàÿñü, äåëàëè âûëàçêè èç ëåñà íåñêîëüêî ðàç, â ïîñëåäíèé ðàç ñòðåëà ïîïàëà ìíå ïðÿìî â... êõì.. ïðÿìî â çàä!""";;x
+EVTDESC10001;An indignant but blushing woman stormed into my great hall. She told me how a band of green-clad men had overpowered her, taken her to their hideout and forced her to yield her jewels and gold to them, everything except a simple locket. They treated her courteously and even escorted her to the edge of the forest when she had handed over her jewelry. Her shining eyes, blushing cheeks and furtive smile told me she enjoyed it.;;;;;;;;;;;"Âîçìóù¸ííàÿ æåíùèíà âîðâàëàñü êî ìíå. Îíà ïîâåäàëà, ÷òî ëþäè â çåë¸íîì íàïàëè íà íå¸, çàòàùèëè â ñâîé ëàãåðü è çàñòàâèëè îòäàòü âñå äåíüãè è äðàãîöåííîñòè, êðîìå ïðîñòîãî ìåäàëüîíà. Îíè îáõîäèëèñü ñ íåé ó÷òèâî è äàæå ïðîâîäèëè äî îïóøêè ëåñà, ïîñëå òîãî êàê èçáàâèëè îò ""èçëèøêîâ óêðàøåíèé"". Å¸ ñèÿþùèå ãëàçà, ðàñêðàñíåâøèåñÿ ù¸êè è ìåëüêàþùàÿ âðåìÿ îò âðåìåíè óëûáêà ñêàçàëè ìíå, ÷òî åé ýòî ïðèêëþ÷åíèå äàæå ïîíðàâèëîñü.";;x
+EVTDESC10002;An indignant and fuming man stormed into my great hall. He told me how a band of green-clad men had overpowered him, manhandled him when he tried to resist and taken him to their hideout where they had forced him to yield every valuable trinket he owned, even his horse! When he had stopped resisting, they treated him courteously and even escorted him to the edge of the forest after they had taken his valuables. He demanded that I would do something about 'those Merry Men in green'.;;;;;;;;;;;"Âîçìóùåííûé ìóæ÷èíà âîðâàëñÿ êî ìíå. Îí ïîâåäàë ìíå î òîì, ÷òî ëþäè â çåë¸íîì íàïàëè íà íåãî, èçáèâ êîãäà îí ïîïûòàëñÿ ñîïðîòèâëÿòüñÿ, è çàòàùèëè â ñâîé ëàãåðü, ãäå çàñòàâèëè îòäàòü âñå öåííîñòè, äàæå ëîøàäü! Êîãäà îí ïåðåñòàë ñîïðîòèâëÿòüñÿ îíè ñòàëè îáðàùàòüñÿ ñ íèì íàìíîãî âåæëèâåé è äàæå ïðîâîäèëè åãî äî êðàÿ ëåñà, ïîñëå òîãî, êàê îãðàáèëè. Îí ïîòðåáîâàë, ñäåëàòü ÷òî-íèáóäü ñ ýòèìè ""Âåñ¸ëûìè Ëþäüìè â çåë¸íîì"".";;x
+EVTDESC10003;My sheriff and I discussed what we should do about the outlaws and came up with two ideas. Every man and woman who had been harassed by the bandits, including the sheriff, have been told about the leader's skill with the bow. An archery contest might lure him out of his beloved forest. Another option would be to use a disguise to find the villain and bring them to court.;;;;;;;;;;;Ìû ñ øåðèôîì ðàññóæäàëè î òîì, ÷òî íàì äåëàòü ñ áàíäèòàìè, è ó íàñ ðîäèëîñü äâå èäåè. Êàæäîìó ìóæ÷èíå è æåíùèíå, êîòîðûõ òðåâîæèëè áàíäèòû, âêëþ÷àÿ ñàìîãî øåðèôà, áàíäèòû ðàññêàçàëè îá óìåíèè ñâîåãî ëèäåðà ñòðåëÿòü èç ëóêà. Ñîñòÿçàíèå â ñòðåëüáå äîëæíî âûìàíèòü åãî èç îáëþáîâàííîãî ëåñà. Äðóãèì âàðèàíòîì ìîæåò áûòü âíåäðåíèå â èõ áàíäó, ÷òîáû íàéòè çëîäåÿ è äîâåñòè åãî äî ñóäà.;;x
+EVTDESC10010;The day was perfect for an archery contest. The sun hid between clouds, a small breeze cooled the nervous and everyone seemed happy. The targets were set and ready, all that was needed now was my signal.;;;;;;;;;;;Äåíü áûë ïðåêðàñåí äëÿ ñîñòÿçàíèÿ â ñòðåëüáå. Ñîëíöå ñïðÿòàëîñü çà îáëàêà, ë¸ãêèé âåòåðîê õîëîäèë íåðâû è âñå áûëè íàâåñåëå. Ìèøåíè óñòàíîâëåíû, è òåïåðü íóæåí ëèøü ìîé ñèãíàë.;;x
+EVTDESC10011;Over there! Yes, there! That's him alright. What do we do now?' The sheriff pointed at a man clad in green with a great bow in his hands. I watched him as he won effortlessly against every person foolish enough to try and match their skill against his. The man's skill with his great bow amazed me. 'This man is a great archer, too bad he's a lawless poacher living off my venison.';;;;;;;;;;;Âîí òàì! Äà-äà, èìåííî òàì! Ýòî òî÷íî îí! ×òî äåëàåì òåïåðü? — Øåðèô óêàçûâàåò íà ìóæ÷èíó â çåë¸íîì ñ áîëüøèì ëóêîì â ðóêàõ. ß íàáëþäàþ çà òåì, êàê îí áåç âñÿêèõ óñèëèé ïîáåæäàåò êàæäîãî, êòî ïûòàåòñÿ ñîñòÿçàòüñÿ ñ íèì. Òî, êàê îí âëàäååò äëèííûì ëóêîì ïîðàçèëî ìåíÿ.;;x
+EVTDESC10012;The other contestants and I laughed hard as the old man tried to draw the bow with shaking hands. After several attempts, he finally succeeded. He closed one of his runny eyes and THUD!... It hit the bullseye. Everyone's chin hit the ground as the old man defeated his contestants one by one. The poacher we had set the trap for was nowhere to be seen, so I had to grumpily give the old man his admittedly well-earned prize: a golden arrow.;;;;;;;;;;;Ìû ïîìèðàëè ñî ñìåõó, íàáëþäàÿ çà ñòàðèêîì, êîòîðûé ïûòàëñÿ íàòÿíóòü òåòèâó ñâîèìè òðÿñóùèìèñÿ ðóêàìè. Ïîñëå íåñêîëüêèõ ïîïûòîê åìó ýòî íàêîíåö óäàëîñü. Îí çàêðûë ãëàç è ÒÓÊ!... Â ÿáëî÷êî. Ó âñåõ îòïàëà ÷åëþñòü, à ñòàðèê â èòîãå ïîáåäèë âñåõ ó÷àñòíèêîâ ïî î÷åðåäè. Ðàçáîéíèêà, íà êîòîðîãî ìû óñòàíîâèëè ëîâóøêó, íèãäå íå áûëî âèäíî, òàê ÷òî ìíå ïðèøëîñü ïðîñòî îòäàòü ñòàðèêó ïî ïðàâó çàñëóæåííûé èì ïðèç - Çîëîòóþ ñòðåëó.;;x
+EVTDESC10013;Frustration swept through my veins as the archery contest proved unsuccessful in luring and trapping the elusive poacher. Perhaps we should try something else?;;;;;;;;;;;Ðàçî÷àðîâàíèå ïåðåïîëíèëî ìåíÿ ïîñëå òîãî, êàê ñîñòÿçàíèå ëó÷íèêîâ ïîêàçàëî áåññìûñëåííîñòü ëîâëè ðàçáîéíèêà. Ìîæåò íàì ñòîèò ïîïðîáîâàòü ÷òî-íèáóäü äðóãîå?;;x
+EVTDESC10020;I removed my beautiful fur-lined cloaks and reluctantly eased myself into a peasant's stinking clothes. A woolen tunic, a small hat and muddy boots completed my disguise. Now, me own ma wouldn't even recognize me.;;;;;;;;;;;Ìíå ïðèøëîñü ñíÿòü ëèñüþ ìàíòèþ è îáëà÷èòüñÿ â çëîâîííîå êðåñòüÿíñêîå ðâàíü¸. Øåðñòÿíàÿ ðîáà, ìàëåíüêàÿ øëÿïà è ãðÿçíûå áîòèíêè ñòàëè ìîåé ìàñêèðîâêîé. Â òàêîì âèäå ìåíÿ äàæå ðîäíàÿ ìàòü íå óçíàåò.;;x
+EVTDESC10021;I had not even taken one step into the great forest before an arrow burrowed itself into the ground just in front of my toes. I froze for a short second before I started struggling to get my sword out of its hiding place. When I had finally freed my sword, a man clad in green stood before me. He held the greatest bow I ever seen with an arrow on its string aimed at me. 'Leave', he said and I obeyed immediately. Behind me, the forest echoed with thunderous laughter.;;;;;;;;;;;"Ìíå äàæå íå óäàëîñü óãëóáèòüñÿ â ëåñ. Ïðÿìî ïåðåä ìîèìè íîãàìè â çåìëþ âîíçèëàñü ñòðåëà. Çàñòûâ íà ìãíîâåíèå, ÿ âûòàñêèâàþ ñâîé ìå÷ èç ëîõìîòüåâ. Íî ÷åëîâåê â çåë¸íîì óæå ñòîèò ïåðåäî ìíîé. Îí äåðæèò ñàìûé áîëüøîé ëóê èç âèäåííûõ ìíîé â æèçíè ñ óæå íàòÿíóòîé òåòèâîé è ñòðåëîé, ñìîòðÿùåé ìíå ìåæäó ãëàç. ""Áðîñàéòå"" — ñêàçàë îí, è ìíå ïðèøëî ïîâèíîâàòüñÿ. Òåì âðåìåíåì çà ñïèíîé, ãäå-òî â ëåñó, ðàçäàëñÿ ãðîìîãëàñíûé ñìåõ.";;x
+EVTDESC10022;My stomach growled louder than the wolves howling in the distance. My search for the lawless men had taken me farther into the forest than I had imagined it would. Just a couple of hours had passed since I broke my fast but it felt like days. I kept walking and reached a small brook. As I bent down for a drink, I heard laughter and faint voices of many people coming towards me. Before I could hide, they were upon me. After a thorough interrogation where I pretended to be naïve or downright stupid, they allowed me to follow them to their camp.;;;;;;;;;;;Ìîé æèâîò âûë ãðîì÷å, ÷åì âîëêè âäàëåêå. Ïîèñêè ïðåñòóïíèêîâ çàâåëè ìåíÿ â ëåñ íàìíîãî äàëüøå, ÷åì ïðåäïîëàãàëîñü. Ñî âðåìåíè îáåäà ïðîøëî âñåãî íåñêîëüêî ÷àñîâ, íî ìíå êàçàëîñü - íåñêîëüêî äíåé. Íà ïóòè ìíå âñòðå÷àåòñÿ íåáîëüøîé ðó÷åé. Íàêëîíÿÿñü óòîëèòü æàæäó, ÿ ñëûøó ñìåõ è ãîëîñà, ïðèáëèæàþùèåñÿ êî ìíå. Ïðåæäå ÷åì ÿ óñïåâàþ ñêðûòüñÿ, îíè îêàçûâàþòñÿ ðÿäîì. Ïîñëå òùàòåëüíîãî äîïðîñà, îíè ïîçâîëèëè ìíå ñîïðîâîæäàòü èõ â ñâîé ëàãåðü.;;x
+EVTDESC10023;My bad mood did not improve when I arrived at a small bridge across a shallow creek and a man large in stature demanded that I pay a toll to cross the bridge. I laughed in his face and he challenged me, even though I bore a sword and he nothing but a wooden staff.;;;;;;;;;;;Êîãäà ìíå óäàëîñü äîáðàòüñÿ äî ìàëåíüêîãî ìîñòà ÷åðåç íåãëóáîêèé ðó÷å¸ê, íàñòðîåíèå íè÷óòü íå óëó÷øèëîñü, è ÷åëîâåê âûñîêîãî ðîñòà ïîòðåáîâàë îò ìåíÿ ïëàòó çà ïðîõîä. Óñëûõàâ â îòâåò ìîé ñìåõ, îí ðåøèë ñðàçèòüñÿ ñî ìíîé, õîòÿ ó ìåíÿ áûë ìå÷, à ó íåãî - íè÷åãî, êðîìå äåðåâÿííîãî ïîñîõà.;;x
+EVTDESC10024;It did not seem fair to fight the man with a sword when he had a wooden staff, so I carved myself a staff before we commenced. After receiving several blows, I dodged his attack and drove the tip of my staff into his left side and as he doubled up, I hit him with all my strength. With a sigh he lost consciousness and fell into the creek. I feared he might drown so I poked at him with my staff. With a roar he exploded out of the river and up on the embankment. He grumpily admitted defeat after some persuasion and with a grimace and a limp he took me to his lawless brothers.;;;;;;;;;;;Íå ñëèøêîì ÷åñòíî ñðàæàòüñÿ ìå÷îì ïðîòèâ ïîñîõà. Âûðåçàâ ñåáå íîâûé, ÿ áåðó ïîñîõ è ìû íà÷èíàåì... Ïðîïóñòèâ íåñêîëüêèõ óäàðîâ, ìíå âñ¸ æå óäàëîñü óâåðíóòüñÿ è óäàðèòü â îòâåò êîíöîì ñâîåãî ïîñîõà â ëåâûé áîê ïðîòèâíèêà, à çàòåì, êîãäà îí ñêðþ÷èëñÿ, óäàðèòü åãî åù¸ ðàç èçî âñåõ ñèë. Ñî ñòîíîì îí ïîòåðÿë ñîçíàíèå è óïàë â ðó÷åé. Ìíå ïðèøëîñü âûòàùèòü åãî íà áåðåã, ÷òîáû îí íå óòîíóë. Ñ ð¸âîì îí âûñêî÷èë èç âîäû è çàïîëç íà íàñûïü. Âîð÷à, íåçíàêîìåö ïðèçíàë ïîðàæåíèå. Ïîñëå íåêîòîðûõ óãîâîðîâ, îí ðåøèëñÿ ïðèíÿòü ìåíÿ â ñâîþ øàéêó.;;x
+EVTDESC10025;I carved myself a wooden staff as it did not seem fair to use a sword against a man armed only with a staff. We exchanged blows and he was both stronger and faster than I had thought him to be. He did not seem to tire and when I lowered my staff to admit defeat, he delivered a hard blow that sent me over the bridge and into the muddy water. Roaring with laughter, he helped me get up on the bridge and slapped me so hard I coughed up the last mouthful of water I had swallowed. He insisted I would follow him and meet his gang.;;;;;;;;;;;Íå ñëèøêîì ÷åñòíî ñðàæàòüñÿ ìå÷îì ïðîòèâ ïîñîõà. Âûðåçàâ ñåáå íîâûé, ÿ áåðó ïîñîõ è íà÷èíàåòñÿ áîé... Ìû îáìåíÿëèñü óäàðàìè, íî îí áûë áûñòðåå è ñèëüíåå. Îí íå âûãëÿäåë óñòàâøèì, è êîãäà ìíå ïðèøëîñü îïóñòèòü ïîñîõ, ïðèçíàâàÿ ñâî¸ ïîðàæåíèå, ñèëüíûì óäàðîì îòïðàâèë ìåíÿ âíèç ñ ìîñòà â ìóòíóþ âîäó. Ñìåÿñü, îí ïîìîã ìíå ïîäíÿòüñÿ íà ìîñò è óäàðèë ìåíÿ ïî ñïèíå, ÷òîáû âûçâàòü êàøåëü. Îí íàñòîÿë íà òîì, ìíå íóæíî ñëåäîâàòü çà íèì è âñòðåòèòüñÿ ñ åãî áàíäîé.;;x
+EVTDESC10026;In the heat of battle, I somehow revealed to the green-clad man who I was. I tried to parry his fierce blows but I was too slow. I heard rather than felt the staff smash into my skull. When I woke up my sword, purse and opponent were long gone.;;;;;;;;;;;Â ðàçãàð áîÿ íåçíàêîìåö â çåë¸íîì êàê-òî äîãàäàëñÿ, ÷òî äåð¸òñÿ íå ñ òåì ÷åëîâåêîì. Ìîè ïîïûòêè ïàðèðîâàòü åãî óäàðû áûëè ñëèøêîì ìåäëèòåëüíû è âñêîðå åãî ïîñîõ óäàðèë ïî ìîåé ãîëîâå. È òåïåðü î÷íóâøèñü, ÿ âèæó, ÷òî ïðîòèâíèê áåññëåäíî èñ÷åç, à ñ íèì ìîé ìå÷ è êîøåë¸ê.;;x
+EVTDESC10030;As I approached their hideout, songs, laughter and people talking reached my ears. It was more a small village hiding beneath and up in the trees rather than a lawless gang's lair. Women cooked, tended to children and babbled with the men who practiced their skills with bows and swords. A woman clothed in green and as skilled as any man with a bow caught my eye but before I could approach her, I was introduced to their leader who seemed restless and asked me hundreds of questions. In order to gain their trust, I had to prove myself to him and his gang.;;;;;;;;;;;Åù¸ íå ïðèáëèçèâøèñü ê ëàãåðþ, ÿ óæå ñëûøó èõ ïåñíè, ðàçãîâîðû è ñìåõ. Ýòî áîëüøå ïîõîæå íà ñåëî ìåæäó äåðåâüåâ, ÷åì íà ëàãåðü øàéêè ãðàáèòåëåé. Æåíùèíû ãîòîâÿò, óõàæèâàþò çà äåòüìè è áîëòàþò ñ ìóæ÷èíàìè, êîòîðûå ïðàêòèêóþòñÿ âî âëàäåíèè ìå÷îì è ëóêîì. Îäíà èç æåíùèí, îáëà÷¸ííàÿ â çåë¸íîå, êàê è âñå, ñ ïîêëîíîì ëîâèò ìîé âçãëÿä, íî, ïðåæäå ÷åì ÿ óñïåâàþ ïîäîéòè ê íåé, âñòðå÷àþ èõ ëèäåðà. Ïîñëåäíèé êàçàëñÿ îáåñïîêîåííûì è çàäàë ìíå ñîòíè âîïðîñîâ. Äëÿ òîãî, ÷òîáû çàâîåâàòü èõ äîâåðèå, íóæíî äîêàçàòü ñâîþ ïîëüçó åìó è åãî áàíäå.;;x
+EVTDESC10031;Praying he would not recognize me, I stepped out in front of my old friend and demanded he would surrender his purse. The way he looked at me, disgust mixed with fear, could only mean he did not recognize me. I had to threaten to kill him to make him let go of the purse, and I made a silent vow to try and compensate him should I be able to ever return to my castle. His purse was heavy and so was my heart as I returned to the bandit leader.;;;;;;;;;;;Ìîëÿñü î òîì, ÷òîáû ñòàðûé äðóã íå óçíàë ìåíÿ, ÿ âñòàþ ïåðåä íèì è òðåáóþ ó íåãî êîøåë¸ê. Åãî âçãëÿä, ïîëíûé îòâðàùåíèÿ è ñòðàõà, îçíà÷àåò, ÷òî îí ìåíÿ íå óçíàë. ß óãðîæàþ åìó óáèéñòâîì, è, êîãäà îí îòäà¸ò êîøåë¸ê, äàþ ñåáå êëÿòâó âîçìåñòèòü åìó óùåðá, åñëè áóäó â ñîñòîÿíèè êîãäà-ëèáî âåðíóòüñÿ. Åãî êîøåëü òÿæ¸ë è òàêæå òÿæåëî ó ìåíÿ íà äóøå, êîãäà ÿ âîçâðàùàþñü â áàíäó.;;x
+EVTDESC10032;I insisted that the leader and I would go looking for adventure together, without any of the other Merry Men. They grumbled a bit but was silenced by the leader who thought it to be an excellent idea. As we walked down the road, we saw a man clad in horse-skin leaning against a tree. I wanted to confront the horse-man myself but the stubborn leader did not listen. While he talked to horse-man, I was attacked and tied to a tree by one of my own sheriffs! The leader of the Merry Men returned, saw me tied to the tree and killed my sheriff before he cut my ropes.;;;;;;;;;;;ß íàñòàèâàþ íà òîì, ÷òîáû ïîéòè ñ ãëàâàð¸ì âäâî¸ì, áåç îñòàëüíûõ. Îíè íåìíîãî ïîâîð÷àëè, íî óñïîêîèëèñü, êîãäà èõ ëèäåð ñêàçàë, ÷òî åìó ïîíðàâèëàñü ìîÿ èäåÿ. Êîãäà ìû øëè ïî äîðîãå, òî óâèäåëè ìóæ÷èíó, êîòîðûé ïðèñëîíèëñÿ ê äåðåâó. Óïðÿìûé ãëàâàðü íå ïîçâîëèë ìíå ïîäîéòè ê ÷åëîâåêó è ïîêà ñàì ñ íèì ðàçãîâàðèâàë, íà ìåíÿ íàïàë è ïðèâÿçàë ê äåðåâó ñîáñòâåííûé øåðèô! Â ýòîò ìîìåíò ãëàâàðü áàíäû âåðíóëñÿ è, îáíàðóæèâ, ÷òî ìåíÿ ñõâàòèëè, óáèë ìîåãî øåðèôà ïðåæäå, ÷åì ïîñëåäíèé äîãàäàëñÿ ìåíÿ îñâîáîäèòü.;;x
+EVTDESC10033;I slunk away from the Merry Men after having had adventures, venison and flirted with the green-clad maid. I had great fun together with the outlaws and feel no need to try and change their ways, as long as their shenanigans do not affect me. They seemed rather harmless, content to hide in their forest and occasionally robbing someone who will not suffer from losing a little gold.;;;;;;;;;;;"Ïîñëå èíòåðåñíûõ ïðèêëþ÷åíèé, âêóñíîé îëåíèíû è ôëèðòà â ëàãåðå ÿ íåçàìåòíî ïîêèäàþ Âåñ¸ëûõ Ëþäåé. Ìíå áûëî î÷åíü âåñåëî ñ áàíäèòàìè, è ÿ íå âèæó íàäîáíîñòè ïðåïÿòñòâîâàòü èì, ïîêà èõ ""øàëîñòè"" íå çàäåâàþò ìåíÿ ëè÷íî. Îíè âûãëÿäÿò äîâîëüíî áåçîáèäíûìè, ïîêà ñêðûâàþòñÿ â ñâî¸ì ëåñó è èçðåäêà ãðàáÿò êîãî-òî èç òåõ, êòî òî÷íî íå áóäåò ñòðàäàòü îò ïîòåðè ÷àñòè ñâîåãî çîëîòà.";;x
+EVTDESC10040;What should I do about the green-clad Merry Men and their leader?;;;;;;;;;;;×òî æå ìíå äåëàòü ñ Âåñ¸ëûìè Ëþäüìè è èõ ëèäåðîì?;;x
+EVTDESC10041;When the snores of the Merry Men echoed throughout the forest, I snuck back home and rallied my troops. I led them straight to the band of robbers and thieves. We caught every one of the bandits, the women and children were spared and set free.;;;;;;;;;;;Ïîêà õðàï Âåñ¸ëûõ Ëþäåé ðàçíîñèòñÿ ïî ëåñó, ÿ âîçâðàùàþñü è ñîáèðàþ ñâîèõ ñîëäàò, ïðîâåäÿ èõ ïðÿìî â ëàãåðü. Ìû ïîéìàëè âñåõ äî åäèíîãî, ëèøü æåíùèí è äåòåé ìû ïîùàäèëè è îòïóñòèëè íà âñå ÷åòûðå ñòîðîíû.;;x
+EVTDESC10042;The wedding between lady Marion and Robin was held in the forest, venison was served at the wedding feast but I let it slip, for now. The bridal couple had only eyes for each other and when the fat monk started playing a slow, beautiful song about love they joined hands and danced, still gazing into each other eyes. They did not even notice when the song turned faster and the rest of the dancers followed the rhythm, but continued dancing slowly until the stars started sparkling on the clear sky.;;;;;;;;;;;Ñâàäüáà ëåäè Ìýðèîí è Ðîáèíà ïðîõîäèëà â ëåñó, áûëà ïîäàíà îëåíèíà, íî â ýòîò ìîìåíò ìåíÿ ýòî íå çàáîòèëî. Ìîëîäîæ¸íû íå ñâîäèëè ãëàç äðóã ñ äðóãà è, êîãäà òîëñòûé ìîíàõ íà÷àë íàèãðûâàòü ìåäëåííóþ êðàñèâóþ ìåëîäèþ î ëþáâè, îíè âçÿëèñü çà ðóêè è íà÷àëè òàíöåâàòü. Îíè äàæå íå çàìåòèëè, êàê ìåëîäèÿ ñòàëà áûñòðåå è, íå ïîñëåäîâàâ çà ðèòìîì, ïðîäîëæàëè ñâîé ìåäëåííûé òàíåö äî òåõ ïîð, ïîêà çâ¸çäû íå çàñèÿëè íà íåáå.;;x
+EVTDESC10100;The earth shook, the people screamed and buildings cracked. A cloud of foul-smelling air swept over the village, making torches and fires burn bright green for several hours. It took a couple of days repairing the cracked buildings and salvaging items from the few older houses that had collapsed, luckily everyone escaped unharmed. I slowly walked through the city, examining the buildings and noting what remained to be repaired when an excited peasant approached me. Without bothering with formalities, he told me about a giant crack in the ground just outside his farm. He wanted me to come and inspect it, and perhaps determine what to do about it.;;;;;;;;;;;Çåìëÿ òðÿñëàñü, ëþäè êðè÷àëè è çäàíèÿ ðóøèëèñü. Îáëàêî çëîâîííîãî âîçäóõà ïðîêàòèëîñü íàä äåðåâíåé, çàñòàâèâ ôàêåëà â òå÷åíèè íåñêîëüêèõ ÷àñîâ ãîðåòü ÿðêî çåë¸íûì ïëàìåíåì. Âîññòàíîâëåíèå ïîâðåæäåííûõ äîìîâ è ñáîð òîãî íåìíîãîãî, ÷òî îñòàëîñü ïîñëå îáðóøåíèÿ íåñêîëüêèõ ñòàðûõ ïîñòðîåê, çàíÿëè íåñêîëüêî äíåé. Ëèøü ïî ñ÷àñòëèâîé ñëó÷àéíîñòè íèêòî íå ïîñòðàäàë. È âîò òåïåðü ÿ ìåäëåííî èäó ïî ãîðîäó, âíèìàòåëüíî îñìàòðèâàÿ çäàíèÿ. Êîãäà ÿ ïîíèìàþ, ÷òî âñ¸, ÷òî ìîæíî áûëî ïî÷èíèòü, óæå âîññòàíîâëåíî, êî ìíå ïðèáëèæàåòñÿ âçâîëíîâàííûé êðåñòüÿíèí. Íå çàäóìûâàÿñü î êàêèõ-ëèáî ôîðìàëüíîñòÿõ, îí ñîîáùàåò ìíå î ãèãàíòñêîé òðåùèíå â çåìëå, êîòîðàÿ îáðàçîâàëàñü ïðÿìî ïåðåä åãî ôåðìîé. Îí ïðîñèò ìåíÿ ïîñìîòðåòü íà ðàçëîì è, âîçìîæíî, îïðåäåëèòü, ÷òî ñ íèì ìîæíî ñäåëàòü.;;x
+EVTDESC10101;The foul smell that had swept over the city the day the earth shook slowly crept up on us and I retched involuntarily. The wound that had burst open in the farmer's field spewed fire and brimstones and we stopped, aghast at the sight. The flames and fiery stones threatened the bare ground around the gap, the farmer was lucky his fields lay fallow.;;;;;;;;;;;Çëîâîííûé çàïàõ ðàñïîëçñÿ íàä ãîðîäîì â äåíü, êîãäà çåìëÿ çàòðÿñëàñü. Îí ìåäëåííî îêóòàë íàñ, è ìíå ñòàëî äóðíî. Ðàçëîì, çèÿþùèé íà ôåðìåðñêîì ïîëå, èñòîðãàë îãîíü è ãîðÿùèå êàìíè. Ìû îñòàíîâèëèñü, óæàñàÿñü óâèäåííîìó. Ïëàìÿ îïóñòîøèëî çåìëè âîêðóã äûðû. Ôåðìåðó ïîâåçëî, ÷òî îí ëèøü âñïàõàë, íî åù¸ íå óñïåë çàñåÿòü ñâîè ïîëÿ. Åù¸ ÷óòü-÷óòü, è âñå äåìîíû àäà ïîïîëçóò îòòóäà...;;x
+EVTDESC10102;Wailings, screams and cries for help seemed to emit from the burning gap. The farmer grew pale and refused to take one step further. I walked as close to the hell hole as I dared and tried to peek down. Apart from the occasional fiery stone and eyebrow-licking flame, I could see nothing. The wailings and screams seemed to increase until it felt as if my head would explode. I stumbled backward, felt the ground shifting beneath my feet and would have fallen into the pit if the farmer hadn't grabbed my arm and pulled me away from it.;;;;;;;;;;;Êàæåòñÿ, êðèêè, âîïëè è ìîëüáû î ïîìîùè ðàçäàþòñÿ ãäå-òî â ãëóáèíå ïûëàþùåãî ðàçëîìà. Ôåðìåð ïîáëåäíåë, îòêàçûâàÿñü ïðèáëèæàòüñÿ õîòÿ áû íà øàã. ß ïîäîø[Root.GetLaYol] ê àäñêîé äûðå íàñòîëüêî áëèçêî, íàñêîëüêî ìíå õâàòèëî ñìåëîñòè, è ïîïûòà[Root.GetLasLsya] çàãëÿíóòü âíóòðü. Êðîìå íåñêîëüêèõ ðàñêàë¸ííûõ êàìíåé è îáæèãàþùåãî ëèöî ïëàìåíè òàì íå âèäíî íè÷åãî. Êðèêè è ñòîíû óñèëèëèñü äî òàêîé ñòåïåíè, ÷òî ìíå êàæåòñÿ, ãîëîâà âîò-âîò âçîðâ¸òñÿ. ß îòîø[Root.GetLaYol] íàçàä, è âäðóã îùóòèë[Root.GetEndA], ÷òî çåìëÿ óõîäèò èç-ïîä íîã. Áëàãîäàðÿ ôåðìåðó ìíå óäàëîñü èçáåæàòü ïàäåíèÿ â ðàñùåëèíó, îí ñõâàòèë ìåíÿ çà ðóêó è îòòàùèë ïîäàëüøå.;;x
+EVTDESC10103;I gave the wisest men and women of my court three days to come up with a solution on how to close this gap that seemed to open the whole way to hell. Within three days, they all had thought up different solutions to the problem.;;;;;;;;;;;ß äàþ ìóäðåéøèì ëþäÿì ñâîåãî äâîðà òðè äíÿ íà òî, ÷òîáû ïðèäóìàòü, êàê çàêðûòü ýòó çèÿþùóþ äûðó, êîòîðàÿ, êàæåòñÿ, îòêðûëà ïðÿìîé ïóòü â àä. Â òå÷åíèè òðåõ äíåé îíè äîëæíû ïðåäëîæèòü ñâîè ñïîñîáû ðåøåíèÿ ïðîáëåìû.;;x
+EVTDESC10104;The priest walked several times around the gap, sprinkling holy water and chanting the words 'Vade retro satana! Vade retro satana!', avoiding the fiery stones and flames spewing from the gap as best he could. At the end of the third turn, he knelt and began praying, the only words to be heard 'Vade retro satana!'...;;;;;;;;;;;"Ñâÿùåííèê íåñêîëüêî ðàç îáîøåë äûðó âîêðóã, ðàçáðûçãèâàÿ ñâÿòóþ âîäó è ïîâòîðÿÿ íà ëàòûíè: ""Vade retro satana! Vade retro satana!"" Îí óâîðà÷èâàëñÿ îò ðàñêàë¸ííûõ êàìíåé è ÿçûêîâ ïëàìåíè, âûðûâàþùèõñÿ èç ðàçëîìà, êàê òîëüêî ìîã. Ïîñëå òðåòüåãî ïðîõîäà îí óïàë íà êîëåíè è ñòàë ìîëèòüñÿ. Åäèíñòâåííûìè ñëîâàìè, êîòîðûå ìîæíî áûëî ðàçîáðàòü, áûëè ""Vade retro satana!""";;x
+EVTDESC10105;The cows balked in front of the gap and refused to take any step further. They had to be pushed into the gap and their miserable mooing mixed with the wailings of the tortured souls trapped in the pit until they hit the bottom.;;;;;;;;;;;Êîðîâû óïåðëèñü ïåðåä ðàçëîìîì, îòêàçàâøèñü èäòè äàëüøå. Ïðèøëîñü ïîäòîëêíóòü èõ. Òîñêëèâîå ìû÷àíèå ñëèâàëîñü ñ âîïëÿìè èçìó÷åííûõ äóø, çàòî÷åííûõ âíóòðè ïðåèñïîäíåé, ïîêà êîðîâû íå äîñòèãëè ñàìîãî äíà.;;x
+EVTDESC10106;Cartload after cartload of rocks and gravel were shoveled into the gap while the workers desperately tried to stay clear of the flames and fiery stones that seemed to increase in number. The screams of pain from the bottom of the pit affected the workers and some refused to keep shoveling in the gravel. I had to promise them no one was trapped down there but did not want anyone to descend into whatever madness the pit was.;;;;;;;;;;;Îãðîìíàÿ ìàññà êàìíåé è ãðàâèÿ ññûïàëàñü â äûðó ðàáî÷èìè, îò÷àÿííî ïûòàâøèìèñÿ íå ïîïàñòü ïîä ðàñêàë¸ííûå âàëóíû è ÿçûêè ïëàìåíè, êîòîðûõ, êàçàëîñü, ñòàíîâèëîñü âñ¸ áîëüøå. Êðèêè ñî äíà ðàñùåëèíû îòâðàòíî äåéñòâîâàëè íà ðàáî÷èõ è òå îòêàçûâàëèñü ïðîäîëæàòü ñâîþ ðàáîòó. Ìíå ïðèøëîñü ïîêëÿñòüñÿ, ÷òî â äûðå íèêîãî íåò, è ïîïðîñèòü âî ÷òî áû òî íè ñòàëî íå îáðàùàòü âíèìàíèÿ íà òî, ÷òî ïðîèñõîäèò âíèçó.;;x
+EVTDESC10107;One of the wise women told me she had a vision during the three days they were supposed to meditate on how to close the gap. She said the peril would be overcome only when I threw into the chasm what I held to be most dear, and I immediately thought of my eldest son. With a heavy heart I agreed to meet the wise woman at the pit together with my oldest son.;;;;;;;;;;;Îäíà èç æåíùèí-ìóäðåöîâ ñêàçàëà ìíå, ÷òî ó íå¸ áûëè âèäåíèÿ â ïîñëåäíèå òðè äíÿ, êîòîðûå áûëè äàíû äëÿ ðàçìûøëåíèÿ î òîì, êàê çàêðûòü äûðó. Îíà ñêàçàëà, ÷òî îïàñíîñòü èñ÷åçíåò, ëèøü êîãäà ÿ áðîøó â ïðîïàñòü ñàìîå äîðîãîå, ÷òî ó ìåíÿ åñòü, è ìíå ñðàçó æå ïðèøëà â ãîëîâó ìûñëü î ñòàðøåì ñûíå. Ñ òÿæ¸ëûì ñåðäöåì ÿ ðåøàþ âñòðåòèòüñÿ ñ æåíùèíîé âîçëå ðàçëîìà âìåñòå ñî ñâîèì ñûíîì.;;x
+EVTDESC10108;The gap finally closed! No more fiery stones and flames, no more wailing voices from the underground!;;;;;;;;;;;Ðàçëîì íàêîíåö-òî çàêðûò! Áîëüøå íåò ðàñêàë¸ííûõ êàìíåé è ÿçûêîâ ïëàìåíè, áîëüøå íåò êðèêîâ èç ïîä çåìëè!;;x
+EVTDESC10109;Despite everything, the gap stubbornly refused to close and spewed even more fiery stones and wailing voices.;;;;;;;;;;;Íåñìîòðÿ íè íà ÷òî, ðàçëîì óïîðíî íå õîòåë çàêðûâàòüñÿ, èçðûãàÿ åù¸ áîëüøå êàìíåé è ðàñïðîñòðàíÿÿ âîêðóã åù¸ áîëüøå ñòîíîâ.;;x
+EVTOPTA10000;Bwahahaha... Sorry, do go on;;;;;;;;;;;Àõàõàõà! Îé, ïðîñòèòå. Ïðîäîëæàéòå ïîèñêè.;;x
+EVTOPTA10001;Give her some gold and send her away;;;;;;;;;;;Äàòü åé çîëîòà è îòîñëàòü.;;x
+EVTOPTA10002;Give him some gold and send him away;;;;;;;;;;;Äàòü åìó çîëîòà è îòîñëàòü.;;x
+EVTOPTA10003;Too risky;;;;;;;;;;;Ñëèøêîì îïàñíî.;;x
+EVTOPTA10010;Let the contest... BEGIN!;;;;;;;;;;;Ñîñòÿçàíèå íà÷èíàåòñÿ!;;x
+EVTOPTA10011;Arrest and hang him!;;;;;;;;;;;Ñõâàòèòü è ïîâåñèòü åãî!;;x
+EVTOPTA10012;What happened?;;;;;;;;;;;×òî ñëó÷èëîñü?;;x
+EVTOPTA10013;Leave him and his gang alone;;;;;;;;;;;Îñòàâèòü åãî è áàíäó â ïîêîå.;;x
+EVTOPTA10020;Let's see how this works...;;;;;;;;;;;Ïîñìîòðèì, ñðàáîòàåò ëè ýòî.;;x
+EVTOPTA10021;Blast!;;;;;;;;;;;Ïðîêëÿòüå!;;x
+EVTOPTA10022;H-hello...;;;;;;;;;;;Ï-ïðèâåò..;;x
+EVTOPTA10023;Easy as pie!;;;;;;;;;;;Ïðîùå ïàðåíîé ðåïû!;;x
+EVTOPTA10024;As I said, easy as pie!;;;;;;;;;;;ß æ ãîâîðþ - ïðîùå ïàðåíîé ðåïû!;;x
+EVTOPTA10025;I couldn't say no to him;;;;;;;;;;;ß íå ìîãó åìó îòêàçàòü.;;x
+EVTOPTA10026;Now I will never catch him, nor the Merry Men!;;;;;;;;;;;Òåïåðü ÿ íèêîãäà íå ïîéìàþ èõ!;;x
+EVTOPTA10030;Really?;;;;;;;;;;;Ïðàâäà?;;x
+EVTOPTA10031;This has gone too far!;;;;;;;;;;;Ýòî çàøëî ñëèøêîì äàëåêî!;;x
+EVTOPTA10032;This has gone too far!;;;;;;;;;;;Ýòî çàøëî ñëèøêîì äàëåêî!;;x
+EVTOPTA10033;Fare thee well!;;;;;;;;;;;Ïóñòü èì ñîïóòñòâóåò óäà÷à!;;x
+EVTOPTA10040;I'll hang them!;;;;;;;;;;;Ïîâåñèòü!;;x
+EVTOPTA10041;Kill them all!;;;;;;;;;;;Óáèòü âñåõ!;;x
+EVTOPTA10042;I wish them good luck with all my heart;;;;;;;;;;;Îò âñåãî ñåðäöà æåëàþ èì ñ÷àñòüÿ.;;x
+EVTOPTA10100;Why do you bother me?;;;;;;;;;;;Çà÷åì òû ìåíÿ áåñïîêîèøü?;;x
+EVTOPTA10101;It's just a hole in the ground;;;;;;;;;;;Ýòî ïðîñòî äûðà â çåìëå.;;x
+EVTOPTA10102;It's just a hole, right?;;;;;;;;;;;Ýòî âåäü ïðîñòî äûðà, íå òàê ëè?;;x
+EVTOPTA10103;Exorcism!;;;;;;;;;;;Ýêçîðöèçì!;;x
+EVTOPTA10104;I think this will work!;;;;;;;;;;;ß äóìàþ, ýòî ñðàáîòàåò!;;x
+EVTOPTA10105;I really hope this works;;;;;;;;;;;ß äåéñòâèòåëüíî íàäåþñü, ÷òî ýòî ñðàáîòàåò.;;x
+EVTOPTA10106;Keep shoveling!;;;;;;;;;;;Ïðîäîëæàéòå êîïàòü!;;x
+EVTOPTA10107;I hope I won't regret this;;;;;;;;;;;Íàäåþñü, ÷òî ÿ îá ýòîì íå ïîæàëåþ.;;x
+EVTOPTA10108;The priest did a fine job exorcising the Gate back to Hell!;;;;;;;;;;;Ñâÿùåííèê ïðîäåëàë õîðîøóþ ðàáîòó, çàêðûâàÿ âðàòà â àä!;;x
+EVTOPTA10109;For Heaven's sake... what will I do now?;;;;;;;;;;;Ðàäè âñåãî ñâÿòîãî... ×òî æå ìíå òåïåðü äåëàòü?;;x
+EVTOPTB10000;We need to set a trap for them!;;;;;;;;;;;Íàì íóæíî çàìàíèòü èõ â ëîâóøêó!;;x
+EVTOPTB10001;Something must be done!;;;;;;;;;;;Íàäî ÷òî-òî äåëàòü!;;x
+EVTOPTB10002;This is outrageous!;;;;;;;;;;;Ýòî âîçìóòèòåëüíî!;;x
+EVTOPTB10003;An archery contest, of course!;;;;;;;;;;;Ñîñòÿçàíèå â ñòðåëüáå. Òî÷íî!;;x
+EVTOPTB10011;Perhaps I could hire him and his Merry Men as gamekeepers;;;;;;;;;;;ß ìîãó íàíÿòü åãî è Âåñ¸ëûõ Ëþäåé â êà÷åñòâå åãåðåé.;;x
+EVTOPTB10013;A smelly peasant should not arouse their suspicion;;;;;;;;;;;Âîíþ÷èé ïðîñòîëþäèí íå âûçîâåò ïîäîçðåíèé.;;x
+EVTOPTB10020;Is this really befitting a [Root.GetTitle]?;;;;;;;;;;;Ìîæåò ëè [Root.GetTitle] íîñèòü òàêîå?;;x
+EVTOPTB10022;I'll run away now, bye!;;;;;;;;;;;ß ñïåøó. Ïðîùàéòå!;;x
+EVTOPTB10023;If I promise to never return, will you let me go then?;;;;;;;;;;;Åñëè ÿ ïîîáåùàþ íèêîãäà íå âîçâðàùàòüñÿ, Âû îòïóñòèòå ìåíÿ?;;x
+EVTOPTB10030;Let's see what adventure we can find;;;;;;;;;;;Ïîñìîòðèì, ÷òî çà ïðèêëþ÷åíèå íàñ æä¸ò.;;x
+EVTOPTB10031;Time to leave;;;;;;;;;;;Ïîðà âàëèòü!;;x
+EVTOPTB10032;Now what?;;;;;;;;;;;È ÷òî òåïåðü?;;x
+EVTOPTB10040;I'll hire them as gamekeepers;;;;;;;;;;;Ñäåëàòü ñâîèìè åãåðÿìè.;;x
+EVTOPTB10041;If their leader becomes my gamekeeper I will spare their lives;;;;;;;;;;;Åñëè ãëàâàðü ñòàíåò ìîèì åãåðåì, ÿ èõ ïîùàæó.;;x
+EVTOPTB10100;Of course! Show the way, peasant!;;;;;;;;;;;Êîíå÷íî. Ïîêàçûâàé äîðîãó.;;x
+EVTOPTB10101;I must take a closer look at this;;;;;;;;;;;Íàäî áû ïîñìîòðåòü ïîáëèæå.;;x
+EVTOPTB10102;I need this gap closed. Now!;;;;;;;;;;;Çàêðîéòå ýòó äûðó. Íåìåäëåííî!;;x
+EVTOPTB10103;Feed it cattle;;;;;;;;;;;Ñêîðìèòü äûðå êðóïíûé ðîãàòûé ñêîò;;x
+EVTOPTB10104;This won't work. Try something else;;;;;;;;;;;Ýòî íå ñðàáîòàåò. Ïîïðîáîâàòü ÷òî-íèáóäü åù¸.;;x
+EVTOPTB10105;I don't believe in this idea;;;;;;;;;;;ß íå âåðþ â ýòó èäåþ.;;x
+EVTOPTB10106;This is an impossible task;;;;;;;;;;;Ýòî íåâûïîëíèìàÿ çàäà÷à.;;x
+EVTOPTB10107;There must be some other way!;;;;;;;;;;;Äîëæåí áûòü äðóãîé ïóòü!;;x
+EVTOPTB10108;The Gates of Hell closed after we fed it cattle!;;;;;;;;;;;Âðàòà àäà çàêðûëèñü ïîñëå òîãî, êàê ìû ñêîðìèëè èì ñêîòèíó!;;x
+EVTOPTC10000;Just ignore them;;;;;;;;;;;Ïðîñòî èãíîðèðóéòå èõ.;;x
+EVTOPTC10003;A clever disguise should work;;;;;;;;;;;Õèòðàÿ ìàñêèðîâêà äîëæíà ñðàáîòàòü.;;x
+EVTOPTC10030;This is enough!;;;;;;;;;;;Äîñòàòî÷íî!;;x
+EVTOPTC10031;Now I know where to find them;;;;;;;;;;;Òåïåðü ÿ çíàþ, ãäå èõ íàéòè.;;x
+EVTOPTC10032;This was... fun?;;;;;;;;;;;Ýòî áûëî...çàáàâíî.;;x
+EVTOPTC10103;Try filling it with stones;;;;;;;;;;;Ïîïðîáîâàòü çàñûïàòü äûðó;;x
+EVTOPTC10108;The Gates of Hell was filled in with stones!;;;;;;;;;;;Âðàòà àäà áûëè çàñûïàíû êàìíÿìè!;;x
+EVTOPTD10026;This is as far as I dare take it;;;;;;;;;;;ß íå ìîãó áîëüøå ðèñêîâàòü.;;x
+EVTOPTD10032;Time to leave and leave them alone;;;;;;;;;;;Ïîêà óéòè è îñòàâèòü èõ.;;x
+EVTOPTD10103;Sacrifice the most precious thing in the world;;;;;;;;;;;Ïðèíåñòè â æåðòâó ñàìîå öåííîå, ÷òî åñòü íà Çåìëå;;x
+EVTOPTD10108;It took a human sacrifice but now the Gates of Hell is closed!;;;;;;;;;;;Ïðèøëîñü ïðèíåñòè ÷åëîâå÷åñêóþ æåðòâó, íî òåïåðü âðàòà àäà çàêðûòû!;;x
+EVTTOOLTIP10001;The Merry Men makes a move...;;;;;;;;;;;Âåñ¸ëûå Ëþäè äåëàþò õîä...;;x
+EVTTOOLTIP10010;An archery contest will be held;;;;;;;;;;;Ñîñòÿçàíèå â ñòðåëüáå ñîñòîèòñÿ.;;x
+EVTTOOLTIP10011;Let us see who we capture!;;;;;;;;;;;Ïîñìîòðèì, êòî ó íàñ òóò!;;x
+EVTTOOLTIP10012;This might not work;;;;;;;;;;;Ýòî ìîæåò è íå ñðàáîòàòü.;;x
+EVTTOOLTIP10013;The archery contest was a success and a failure;;;;;;;;;;;Èäåÿ ïðîâåñòè ñîñòÿçàíèå áûëî è óñïåøíîé è ïðîâàëüíîé îäíîâðåìåííî.;;x
+EVTTOOLTIP10020;A Devil in Disguise;;;;;;;;;;;Çàìàñêèðîâàííûé äüÿâîë.;;x
+EVTTOOLTIP10021;Disguise revealed!;;;;;;;;;;;Ìàñêèðîâêà íå ñðàáîòàëà!;;x
+EVTTOOLTIP10022;Stumbles upon the Merry Men;;;;;;;;;;;Íàòîëêíóëñÿ íà Âåñ¸ëûõ Ëþäåé.;;x
+EVTTOOLTIP10023;A stranger in green;;;;;;;;;;;Íåçíàêîìåö â çåë¸íîì.;;x
+EVTTOOLTIP10024;You win the fight;;;;;;;;;;;Âû ïîáåäèëè â ñõâàòêå.;;x
+EVTTOOLTIP10025;You lose the fight;;;;;;;;;;;Âû ïðîèãðàëè â ñõâàòêå.;;x
+EVTTOOLTIP10026;Your real identity is revealed;;;;;;;;;;;Âàñ ðàññåêðåòèëè.;;x
+EVTTOOLTIP10030;Meet the Merry Men;;;;;;;;;;;Âñòðå÷à ñ Âåñ¸ëûìè Ëþäüìè.;;x
+EVTTOOLTIP10031;Steal from the rich and give to the poor;;;;;;;;;;;Ãðàáèòü áîãàòûõ è îòäàâàòü áåäíûì.;;x
+EVTTOOLTIP10032;Adventure ahead!;;;;;;;;;;;Âïåð¸ä, ê ïðèêëþ÷åíèÿì!;;x
+EVTTOOLTIP10033;Leave the Merry Men;;;;;;;;;;;Ïîêèíóòü Âåñ¸ëûõ Ëþäåé.;;x
+EVTTOOLTIP10040;Arrest the leader of the Merry Men;;;;;;;;;;;Ñõâàòèòü ëèäåðà Âåñ¸ëûõ Ëþäåé.;;x
+EVTTOOLTIP10041;Betray the Merry Men;;;;;;;;;;;Ïðåäàòü Âåñ¸ëûõ Ëþäåé.;;x
+EVTTOOLTIP10042;The wedding between lady Marion and Robin;;;;;;;;;;;Ñâàäüáà ëåäè Ìýðèîí è Ðîáèíà.;;x
+EVTTOOLTIP10101;The Gate of Hell;;;;;;;;;;;Âðàòà Àäà;;x
+EVTTOOLTIP10102;The Gate and its Tortured Souls;;;;;;;;;;;Âðàòà è çàìó÷åííûå äóøè â íèõ;;x
+EVTTOOLTIP10103;There is a way to close the Gap, but how?;;;;;;;;;;;Äîëæåí áûòü âûõîä, êàê çàêðûòü ýòó äûðó, íî êàêîé?;;x
+EVTTOOLTIP10104;The priest will perform an exorcism;;;;;;;;;;;Ñâÿùåííèê ñîâåðøèò ðèòóàë èçãíàíèÿ äåìîíîâ;;x
+EVTTOOLTIP10105;The demon inhabiting the gap should be satisfied;;;;;;;;;;;Äåìîí, æèâóùèé â äûðå, äîëæåí áûòü äîâîëåí;;x
+EVTTOOLTIP10106;The hole cannot be abyssal;;;;;;;;;;;Äûðà íå äîëæíà áûòü ãëóáîêîé;;x
+EVTTOOLTIP10107;A sacrifice to close the gap;;;;;;;;;;;Æåðòâà äëÿ çàêðûòèÿ äûðû;;x
+EVTTOOLTIP10108;It might work;;;;;;;;;;;Ýòî ìîæåò ñðàáîòàòü;;x
+EVTTOOLTIP10109;It might not work;;;;;;;;;;;Ýòî ìîæåò íå ñðàáîòàòü;;x
+EVTTOOLTIP68030;Highway Robber Band appears in county;;;;;;;;;;;Ðàçáîéíèêè ñ áîëüøîé äîðîãè ïîÿâëÿþòñÿ â îêðóãå.;;x

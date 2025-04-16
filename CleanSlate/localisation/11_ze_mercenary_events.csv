@@ -1,17 +1,13 @@
-EVTDESC_ZE_10031;[Root.PrimaryTitle.GetFOA],\nMy men and I have had trouble finding a battlefield where our expertise could be employed for payment in gold, and unfortunately our rations are now running low. I therefore request additional funding to keep the men from starving.\n\nRegards,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC_ZE_10033;[Root.PrimaryTitle.GetFOA],\nThe money you sent was well needed. However we had to spend the whole lot of it on food. We could need some better equipment to have better chances of success once we reach the battlefield. Equipment is rather expensive for our empty purse and I know that you will see the benefit of such an investment.\n\nRegards,\n[From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC_ZE_10071;[Root.PrimaryTitle.GetFOA],\nWar is a harsh business and the soldiers are demanding more money. I have no regrets informing you that this money will come from your cut, since it's the people fighting that are doing all the work and not the people sitting on high chairs.\n\nRegards,\n[From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC_ZE_10076;To the [GetFromRootInsult] [Root.GetTitledFirstName].\n\nMy men and I have put up with your leeching of our abilities for too long now. You failed to treat us with the proper respect on multiple occasions and therefore we will from now on pay no respect or allegiance towards you. It will be my pleasure to aid your enemies to defeat your armies on the battlefield.;;;;;;;;;;;;;x
-
-EVTOPTA_ZE_10031;I'll cover the cost for extra rations.;;;;;;;;;;;;;x
-EVTOPTA_ZE_10033;I'll send a contribution at once.;;;;;;;;;;;;;x
-EVTOPTA_ZE_10071;Of course the men should be rewarded generously.;;;;;;;;;;;;;x
-EVTOPTA_ZE_10076;That ungrateful [GetRootFromInsult]!;;;;;;;;;;;;;x
-
-EVTOPTB_ZE_10031;Starvation might serve as a lesson to [From.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTB_ZE_10033;I can't spare you a single coin.;;;;;;;;;;;;;x
-EVTOPTB_ZE_10071;Let them keep a little of the money.;;;;;;;;;;;;;x
-
-EVTOPTC_ZE_10033;Remind [From.GetFirstName] of [From.GetHerHis] obligations.;;;;;;;;;;;;;x
-EVTOPTC_ZE_10071;I need to remind [From.GetTitledFirstName] that this would be a breach of contract.;;;;;;;;;;;;;x
-
+EVTDESC_ZE_10031;[Root.PrimaryTitle.GetFOA],\nMy men and I have had trouble finding a battlefield where our expertise could be employed for payment in gold, and unfortunately our rations are now running low. I therefore request additional funding to keep the men from starving.\n\nRegards,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nÌîè ëþäè óæå äàâíî ñèäÿò áåç äåëà, íå èìåÿ âîçìîæíîñòè ïðèìåíèòü ñâîè íàâûêè íà ïîëå áîÿ è ïîëó÷èòü çà ýòî äîñòîéíóþ ïëàòó. Ê ñîæàëåíèþ, ó íàñ óæå çàêàí÷èâàþòñÿ ïðèïàñû, è ÿ ïðîøó Âàñ î äîïîëíèòåëüíîì ôèíàíñèðîâàíèè, ïîêà âîéñêà íå ïîðàçèë ãîëîä.\nÑ óâàæåíèåì,\n [From.GetTitledName];;x
+EVTDESC_ZE_10033;[Root.PrimaryTitle.GetFOA],\nThe money you sent was well needed. However we had to spend the whole lot of it on food. We could need some better equipment to have better chances of success once we reach the battlefield. Equipment is rather expensive for our empty purse and I know that you will see the benefit of such an investment.\n\nRegards,\n[From.GetTitledFirstName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nÁëàãîäàðþ Âàñ çà ýêñòðåííîå ôèíàíñèðîâàíèå, íî âñå ýòè äåíüãè áûëè ïîòðà÷åíû íà åäó. Íàì íåîáõîäèìî íîâîå ñíàðÿæåíèå, ÷òîáû óñïåøíî ñðàæàòüñÿ íà ïîëå áîÿ. Êîíå÷íî, îíî äîðîãîå, íî óâåðåí[From.GetEndA], Âû îöåíèòå âñå ïðåèìóùåñòâà ïîäîáíîãî âëîæåíèÿ.\nÑ óâàæåíèåì,\n [From.GetTitledFirstName];;x
+EVTDESC_ZE_10071;[Root.PrimaryTitle.GetFOA],\nWar is a harsh business and the soldiers are demanding more money. I have no regrets informing you that this money will come from your cut, since it's the people fighting that are doing all the work and not the people sitting on high chairs.\n\nRegards,\n[From.GetTitledFirstName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nÂîéíà - æåñòîêîå çàíÿòèå. Ìîè ëþäè òðåáóþò áîëüøå äåíåã, ïîýòîìó âûíóæäåí[From.GetEndA] ïðîèíôîðìèðîâàòü Âàñ, ÷òî ýòè äåíüãè áóäóò âû÷òåíû èç Âàøåé äîëè. Êàê áû òî íè áûëî, ýòè ëþäè ñðàæàþòñÿ íà ïîëå áîÿ, ïîêà ëþäè âðîäå Âàñ îòñèæèâàþòñÿ â ñâîèõ êðåñëàõ.\nÑ óâàæåíèåì,\n [From.GetTitledFirstName];;x
+EVTDESC_ZE_10076;To the [GetFromRootInsult] [Root.GetTitledFirstName].\n\nMy men and I have put up with your leeching of our abilities for too long now. You failed to treat us with the proper respect on multiple occasions and therefore we will from now on pay no respect or allegiance towards you. It will be my pleasure to aid your enemies to defeat your armies on the battlefield.;;;;;;;;;;;[GetFromRootInsult]!\nÌîè ëþäè ñëèøêîì äîëãî ìèðèëèñü ñ Âàøèì ïîäëûì îòíîøåíèåì. Âû ïî÷åìó-òî ðåøèëè, ÷òî ñîëäàòû - ïðîñòî ñêîò, êîòîðûé ìîæíî ãíàòü íà óáîé, íî óâåðÿþ Âàñ, ýòîìó ïðèø¸ë êîíåö. ß ñ ïðåâåëèêèì óäîâîëüñòâèåì ïðèñîåäèíþñü ê Âàøåìó âðàãó íà ïîëå áîÿ.;;x
+EVTOPTA_ZE_10031;I'll cover the cost for extra rations.;;;;;;;;;;;ß ïîêðîþ ðàñõîäû íà ïèòàíèå.;;x
+EVTOPTA_ZE_10033;I'll send a contribution at once.;;;;;;;;;;;Ïîíÿòíî. Âûñûëàþ íåìåäëåííî.;;x
+EVTOPTA_ZE_10071;Of course the men should be rewarded generously.;;;;;;;;;;;Êòî æå ñïîðèò? Îíè ýòî çàñëóæèëè.;;x
+EVTOPTA_ZE_10076;That ungrateful [GetRootFromInsult]!;;;;;;;;;;;Íåáëàãîäàðíàÿ ìðàçü!;;x
+EVTOPTB_ZE_10031;Starvation might serve as a lesson to [From.GetHerHim].;;;;;;;;;;;×òî íå óáèâàåò íàñ, òî äåëàåò ñèëüíåå.;;x
+EVTOPTB_ZE_10033;I can't spare you a single coin.;;;;;;;;;;;Ó ìåíÿ íà ýòî äåíåã.;;x
+EVTOPTB_ZE_10071;Let them keep a little of the money.;;;;;;;;;;;Õîðîøî, ÿ ãîòîâ[Root.GetEndA] óìåíüøèòü ñâîþ äîëþ.;;x
+EVTOPTC_ZE_10033;Remind [From.GetFirstName] of [From.GetHerHis] obligations.;;;;;;;;;;;Íå çàáûâàéòå îá óñëîâèÿõ íàøåãî äîãîâîðà.;;x
+EVTOPTC_ZE_10071;I need to remind [From.GetTitledFirstName] that this would be a breach of contract.;;;;;;;;;;;Âñ¸ áû íè÷åãî, íî ýòèì Âû íàðóøàåòå íàø äîãîâîð.;;x

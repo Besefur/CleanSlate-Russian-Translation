@@ -1,347 +1,321 @@
-EVTDESCHF22003;[antagonize_target.GetTitledFirstName] is well beyond my reach. There is no point in trying to antagonize [antagonize_target.GetHerHim] anymore.;;;;;;;;;;;;;x
-EVTDESCHF22005;With [antagonize_target.GetTitledFirstName] already rotting in a dungeon, there is not much more I can do to harass [antagonize_target.GetHerHim].;;;;;;;;;;;;;x
-EVTDESCHF22008;[antagonize_target.GetTitledFirstName] awaits [antagonize_target.GetHerHis] imminent death lying senseless in [antagonize_target.GetHerHis] bed. I do not think there is anything left that I can do to increase [antagonize_target.GetHerHis] suffering.;;;;;;;;;;;;;x
-EVTDESCHF22009;I cannot stand [From.GetTitledFirstName]. [From.GetSheHeCap] takes every opportunity to insult and berate me. Clearly, this [From.GetManWoman] wishes to be my enemy.;;;;;;;;;;;;;x
-EVTDESCHF22010;[From.GetTitledFirstName] thoroughly hates me by now and likely wishes me dead. The feeling is, of course, mutual.;;;;;;;;;;;;;x
-EVTDESCHF22021;[Root.GetRandomSlanderDesc];;;;;;;;;;;;;x
-EVTDESCHF22022;[GetRandomSlanderReactionDesc];;;;;;;;;;;;;x
-EVTDESCHF22023;It looks like [From.GetTitledFirstName] is exclusively concerned with preventing the rumors I spread about [From.GetHerHim] from in any way jeopardizing [From.GetHerHis] legitimacy. [From.GetSheHeCap] seems to perceive my attack more as an annoyance than the grievous insult I intended...;;;;;;;;;;;;;x
-EVTDESCHF22024;[From.GetTitledFirstName]'s humility outweighs [From.GetHerHis] dignity, apparently. Far from being insulted by the rumors I spread about [From.GetHerHim], [From.GetTitledFirstName] accepted my slander as rightful criticism.;;;;;;;;;;;;;x
-EVTDESCHF22025;[From.GetTitledFirstName]'s kindness outweighs [From.GetHerHis] dignity, apparently. Far from being insulted by the rumors I spread about [From.GetHerHim], [From.GetTitledFirstName] has decided to forgive me for my accusations.;;;;;;;;;;;;;x
-EVTDESCHF22026;[From.GetTitledFirstName] has such a cynical mind that my insults rang hollow to [From.GetHerHis] ears. [From.GetSheHeCap] does not care at all about everybody knowing of [From.GetHerHis] wickedness.;;;;;;;;;;;;;x
-EVTDESCHF22027;Just as expected, [From.GetTitledFirstName] is furious. The rumors I spread about [From.GetHerHim] have really gone under [From.GetHerHis] skin. After all, how could [From.GetSheHe] deny any of them in good faith?;;;;;;;;;;;;;x
-EVTDESCHF22028;It seems my attempt to antagonize [From.GetTitledFirstName] has had some unsavory expect on the mind of my victim - [From.GetFirstName] appears to be a lot more stressed after being subjected to the vile rumors I spread about [From.GetHerHim].;;;;;;;;;;;;;x
-EVTDESCHF22029;It seems my attempt to antagonize [From.GetTitledFirstName] has had some unsavory expect on the mind of my victim - [From.GetFirstName] appears to feel a lot more miserable after being subjected to the vile rumors I spread about [From.GetHerHim].;;;;;;;;;;;;;x
-EVTDESCHF22030;[From.GetTitledFirstName]'s recent accusations were only the last in a long series of insults [From.GetSheHe] has riddled me with. There is little doubt that this [From.GetManWoman] hates me.;;;;;;;;;;;;;x
-EVTDESCHF22031;No point in hiding my intentions any longer - [From.GetTitledFirstName] has openly declared me [From.GetHerHis] sworn enemy.;;;;;;;;;;;;;x
-EVTDESCHF22032;It has recently come to my attention that [FromFrom.GetTitledFirstName] and I share a common enemy in [From.GetTitledFirstName].;;;;;;;;;;;;;x
-EVTDESCHF22033;It appears I am not the alone in despising [FromFrom.GetTitledFirstName]. After my latest squabble with [FromFrom.GetHerHim], I have discovered a true supporter in [From.GetTitledFirstName]. Our common hatred for [FromFrom.GetFirstName] has really brought us together.;;;;;;;;;;;;;x
-EVTDESCHF22034;It appears I am not the alone in despising [FromFrom.GetTitledFirstName]. After my latest squabble with [FromFrom.GetHerHim], [From.GetTitledFirstName] informed me that [From.GetSheHe] fully shares my hatred for [FromFrom.GetFirstName] and completely agrees with my actions.;;;;;;;;;;;;;x
-EVTDESCHF22035;Taunting a powerful [From.GetTitle] like [From.GetFirstName] is something many other rulers would be scared to do. News of my recent actions have earned me quite a bit of prestige.;;;;;;;;;;;;;x
-EVTDESCHF22036;[FromFrom.GetTitledFirstName] has made no secret of [FromFrom.GetHerHis] hatred towards [From.GetTitledFirstName]. [FromFrom.GetSheHeCap] might be the right person to press my rightful claim against the usurper.;;;;;;;;;;;;;x
-EVTDESCHF22037;[From.GetTitledFirstName], a claimant to [FromFrom.GetTitledFirstName]'s throne, has come to my court after my recent show of hostility towards the [FromFrom.GetTitle]. [From.GetSheHeCap] hopes that I will aid [From.GetHerHim] in [From.GetHerHis] struggle against [FromFrom.GetFirstName].;;;;;;;;;;;;;x
-EVTDESCHF22042;It appears that my actions permanently tarnished [From.GetTitledFirstName]'s reputation, diminishing the prestige of [From.GetHerHis] dynasty.;;;;;;;;;;;;;x
-EVTDESCHF22043;[From.GetTitledFirstName]'s slanderous words have irredeemably tarnished my reputation, diminishing the prestige of my noble dynasty.;;;;;;;;;;;;;x
-EVTDESCHF22044;It appears that my actions tarnished permanently [From.GetTitledFirstName]'s reputation as a virtuous [From.GetManWoman].;;;;;;;;;;;;;x
-EVTDESCHF22045;[From.GetTitledFirstName]'s slanderous words have irredeemably tarnished my reputation as a virtuous [Root.GetManWoman].;;;;;;;;;;;;;x
-EVTDESCHF22046;My industry is finally starting to bear fruits. Many in [From.GetTitledFirstName]'s circle of friends and family are starting to understand just how insufferable that [From.GetManWoman] is.;;;;;;;;;;;;;x
-EVTDESCHF22047;[From.GetTitledFirstName]'s malicious slandering has severely affected my reputation at court. Many of my subjects whisper the most outrageous lies about me, fully believing them to be the truth.;;;;;;;;;;;;;x
-EVTDESCHF22048;My actions have pushed [From.GetTitledFirstName]'s already fragile mind to its limits, apparently. The [From.GetManWoman] has gone completely mad.;;;;;;;;;;;;;x
-EVTDESCHF22049;Was my life not miserable enough before [From.GetTitledFirstName] decided to torment me? Why does [From.GetSheHe] relish so much in my pain?;;;;;;;;;;;;;x
-EVTDESCHF22051;Thanks to my connections, I was able to get in contact with a blackguard hiding in [antagonize_target.GetTitledFirstName]'s court. The man assures me that, for a reasonable fee, he will be all too willing to undermine [antagonize_target.GetFirstName]'s authority and sow dissent amongst [antagonize_target.GetHerHis] subjects. I need only but decide what I want him to do.;;;;;;;;;;;;;x
-EVTDESCHF22053;The criminal I hired was successful! He presented me with a believable claim on one of [antagonize_target.GetTitledFirstName]'s lands.;;;;;;;;;;;;;x
-EVTDESCHF22054;I have just received news that, thanks to the help of a notorious criminal, [From.GetTitledFirstName] has been able to forge a claim against some of my lands.;;;;;;;;;;;;;x
-EVTDESCHF22055;While the criminal was not able to fabricate a direct claim on [antagonize_target.GetTitledFirstName]'s lands, he presented me with something even more interesting: a forged document attesting that one of [antagonize_target.GetFirstName]'s ancestors sworn eternal fealty towards one of my ancestors.;;;;;;;;;;;;;x
-EVTDESCHF22056;In a true show of pettiness, [From.GetTitledFirstName] is using a preposterous document to claim that [Root.PrimaryTitle.GetName] should be a vassal of [From.PrimaryTitle.GetName] since time immemorial.;;;;;;;;;;;;;x
-EVTDESCHF22057;The blackguard did his job properly. I have just received news that the peasants in [antagonize_target.Capital.GetName] are on the brink of an open revolt.;;;;;;;;;;;;;x
-EVTDESCHF22058;I am not sure how, but [From.GetTitledFirstName] has managed to turn my own subjects against me! The people of [Root.Capital.GetName] are clamoring to have me deposed!;;;;;;;;;;;;;x
-EVTDESCHF22059;The blackguard did not disappoint. Preying on the resentment of the common people for [antagonize_target.GetTitledFirstName], he was able to establish a cancerous criminal network within [antagonize_target.Capital.GetName]'s very walls.;;;;;;;;;;;;;x
-EVTDESCHF22060;Enlisting the help of a notorious blackguard, [From.GetTitledFirstName] has been able to sow chaos and dissent amongst my own subjects. According to my sources, [From.GetSheHe] is responsible for the intricate criminal guild that has recently taken root in [Root.Capital.GetName].;;;;;;;;;;;;;x
-EVTDESCHF22061;My machinations are starting to bear their fruits. The man I hired has pitted most of [antagonize_target.GetTitledFirstName]'s vassals against their once-beloved liege.;;;;;;;;;;;;;x
-EVTDESCHF22062;[From.GetTitledFirstName]'s machinations have antagonized me with most of my vassals. I am unsure how, but that [From.GetManWoman] has managed to convince a lot of my subjects that I am not deserving of their trust and loyalty.;;;;;;;;;;;;;x
-EVTDESCHF22063;The man I hired did not disappoint me. He managed to sow the seeds of dissent within [antagonize_target.GetTitledFirstName]'s very family. Many of [antagonize_target.GetHerHis] kinsmen despite [antagonize_target.GetHerHim] now.;;;;;;;;;;;;;x
-EVTDESCHF22064;In some way, [From.GetTitledFirstName] has been able to estrange me from my own family. [From.GetHerHisCap] machinations have caused many of my relatives to distance themselves from me out of the misplaced fear that associating with me will stain their reputation.;;;;;;;;;;;;;x
-EVTDESCHF22065;The blackguard was successful. He has managed to pit [antagonize_target.GetTitledFirstName]'s own spouse against [antagonize_target.GetHerHim]. I have received credible reports about a falling out between the two rulers.;;;;;;;;;;;;;x
-EVTDESCHF22066;I don't know how, but [From.GetTitledFirstName] managed to pit my very [Root.Spouse.GetRootRelation] against me! Someone has been feeding [Root.Spouse.GetHerHim] all sorts of malicious rumors about my alleged infidelity.;;;;;;;;;;;;;x
-EVTDESCHF22067;It appears [From.GetTitledFirstName] was trying to sow dissent within my realm using a notorious criminal and forger. Luckily, my network of spies has been able to apprehend the scoundrel and send him to my dungeons, where he belongs. After a short interrogation, the man has confessed the name of his employer.;;;;;;;;;;;;;x
-EVTDESCHF22068;Unfortunately, it appears the blackguard was captured. Put under torture, he revealed the name of his employer to [From.GetTitledFirstName], who has now made the entire plot public.;;;;;;;;;;;;;x
-EVTDESCHF22070;[antagonize_target.GetTitledFirstName] is notorious for being a slave to [antagonize_target.GetHerHis] passion. I am sure I can exploit [antagonize_target.GetHerHis] unsavory lust for flesh to my advantage.;;;;;;;;;;;;;x
-EVTDESCHF22072;It seems my plan did not take into account [From.GetTitledFirstName]'s paranoid disposition. [From.GetSheHeCap] flatly refused my envoy's advances.;;;;;;;;;;;;;x
-EVTDESCHF22074;The plan worked exactly as I hoped. My envoy easily seduced [From.GetTitledFirstName], infecting [From.GetHerHim] with a terrible disease. Perhaps now [From.GetFirstName] will understand the error of [From.GetHerHis] ways.;;;;;;;;;;;;;x
-EVTDESCHF22076;[antagonize_target.GetTitledFirstName] is notorious for being a slave to [antagonize_target.GetHerHis] hunger. I am sure I can exploit [antagonize_target.GetHerHis] gluttony to my advantage.;;;;;;;;;;;;;x
-EVTDESCHF22078;Perhaps I worded my message to [From.GetTitledFirstName] poorly. [From.GetSheHeCap] was angered by my gift for some reason and decided to refuse it.;;;;;;;;;;;;;x
-EVTDESCHF22080;Just as expected, [From.GetTitledFirstName] could not resist gorging upon my gift. According to the latest rumors, [From.GetSheHe] now lays in [From.GetHerHis] bed, stricken by a grievous sickness.;;;;;;;;;;;;;x
-EVTDESCHF22082;[antagonize_target.GetTitledFirstName] is notorious for [antagonize_target.GetHerHis] greed. I am sure I can exploit [antagonize_target.GetHerHis] love for money to my advantage in some way.;;;;;;;;;;;;;x
-EVTDESCHF22084;It would appear [From.GetTitledFirstName]'s humility has gotten in the way of my plan. Word has it that [From.GetFirstName] has locked the forged artifact I gifted [From.GetHerHim] away from sight, claiming that [From.GetSheHe] is unworthy of carrying it.;;;;;;;;;;;;;x
-EVTDESCHF22086;Just as I hoped, [From.GetTitledFirstName] accepted my gift and could not resist flaunting it to [From.GetHerHis] friends and subjects. I have just received news that [From.GetSheHe] put [From.GetHerselfHimself] to shame in front of a foreign envoy a few days ago, when the forgery was revealed accidentally.;;;;;;;;;;;;;x
-EVTDESCHF22088;[antagonize_target.GetTitledFirstName] is notorious for [antagonize_target.GetHerHis] slothful, apathetic attitude. I am sure I can exploit [antagonize_target.GetHerHis] distaste for all laborious tasks to my advantage in some way.;;;;;;;;;;;;;x
-EVTDESCHF22090;It appears that [From.GetTitledFirstName] did not care enough about the legitimacy of [From.GetHerHis] borders in order to fall from my falsified report. [From.GetHerHisCap] inconstant nature must be the cause of this blunder.;;;;;;;;;;;;;x
-EVTDESCHF22092;Just as I hoped, [From.GetTitledFirstName] spent a lot of time and resources only to discover that the report I provided [From.GetHerHim] with was false.;;;;;;;;;;;;;x
-EVTDESCHF22094;[antagonize_target.GetTitledFirstName] is notorious for [antagonize_target.GetHerHis] short temper. I am sure I can exploit [antagonize_target.GetHerHis] lack of patience to my advantage in some way.;;;;;;;;;;;;;x
-EVTDESCHF22096;My attempt to have [From.GetTitledFirstName] humiliate [From.GetHerselfHimself] did not succeed. According to reports, [From.GetSheHe] forgave the people I hired to disrupt [From.GetHerHis] parade without even trying to pursue them after their infraction.;;;;;;;;;;;;;x
-EVTDESCHF22098;Just as I hoped, [From.GetTitledFirstName] made a fool of [From.GetHerselfHimself], running around [From.Capital.GetName] smeared in mud to try and apprehend the people I hired to harass [From.GetHerHim].;;;;;;;;;;;;;x
-EVTDESCHF22100;[antagonize_target.GetTitledFirstName] is notorious for [antagonize_target.GetHerHis] spiteful and opportunist nature. I am sure I can exploit [antagonize_target.GetHerHis] insatiable envy to my advantage in some way.;;;;;;;;;;;;;x
-EVTDESCHF22102;[From.GetTitledFirstName] was not interested in the false claim I provided [From.GetHerHim]. Perhaps [From.GetSheHe] merely lacks the ambition to find my offer palatable.;;;;;;;;;;;;;x
-EVTDESCHF22104;[From.GetTitledFirstName] was just about to start a war over my false claim before [From.GetSheHe] finally realized how useless the document I provided [From.GetHerHim] with was. Now [From.GetSheHe] is boiling in [From.GetHerHis] own bile, all [From.GetHerHis] dreams of a quick conquest squashed.;;;;;;;;;;;;;x
-EVTDESCHF22106;[antagonize_target.GetTitledFirstName] is notorious for [antagonize_target.GetHerHis] pride. I am sure I can exploit [antagonize_target.GetHerHis] vain obsession with [antagonize_target.GetHerselfHimself] to my advantage in some way.;;;;;;;;;;;;;x
-EVTDESCHF22108;Unfortunately, although [From.GetTitledFirstName] accepted my gift, [From.GetHerHis] shy disposition prevented [From.GetHerHim] from putting the portrait on plain sight, where its true meaning would have been apparent.;;;;;;;;;;;;;x
-EVTDESCHF22110;I have just received some hilarious news from [From.GetTitledFirstName]'s court. It appears the painting I gave [From.GetHerHim] has started to rot, both twisting the features of its subject into a ridiculous, grotesque mockery and filling [From.GetFirstName]'s palace with an unbearable stench.;;;;;;;;;;;;;x
-EVTDESCHF22111;[From.GetTitledFirstName]'s response to my attempts to slander [From.GetHerHim] has been extremely polite and reasonable, so much so that it has put me in a difficult position. It would not be appropriate for me to continue harassing [From.GetHerHim] after such a kind and thoughtful response...;;;;;;;;;;;;;x
-EVTDESCHF22112;It appears my call for peace and unity fell on deaf ears. [From.GetTitledFirstName] is too inconstant and arbitrary to care for my words, even when it comes at the expenses of [From.GetHerHis] own reputation.;;;;;;;;;;;;;x
-EVTDESCHF22113;Pestering [From.GetTitledFirstName] has been quite the entertaining activity. Reveling over [From.GetHerHis] misery has allowed me to get over mine.;;;;;;;;;;;;;x
-EVTDESCHF22114;Pestering [From.GetTitledFirstName] has been quite the entertaining activity. Reveling over [From.GetHerHis] misery has given me much needed relief from my other responsibilities.;;;;;;;;;;;;;x
-EVTDESCHF22115;Pestering [From.GetTitledFirstName] has been quite the entertaining activity. As long as I can torment [From.GetHerHim], I can keep some my more unsavory inclinations in check during my everyday duties.;;;;;;;;;;;;;x
-EVTDESCHF22116;As entertaining as tormenting [From.GetTitledFirstName] is, having to spread rumors and weave plots around [From.GetHerHim] has also been an intriguing learning experience for me.;;;;;;;;;;;;;x
-EVTDESCHF22118;Seeing [From.GetTitledFirstName] squirm and yell at my covert efforts to antagonize [From.GetHerHim] has made me realize how much easier it is to ruin the reputation of an impatient [From.GetManWoman].;;;;;;;;;;;;;x
-EVTDESCHF22121;I have decided that it might be profitable to take some time and resources and try to seriously hurt my sworn enemy. \n[antagonize_target.GetTitledFirstName] is an unbearable pestilence upon this world, and I will not rest until I will have made [antagonize_target.GetHerHis] life a living hell.;;;;;;;;;;;;;x
-EVTDESCHF22124;[From.GetTitledFirstName] is at it again, dragging [From.GetHerHis] own name through the mud as long as [From.GetSheHe] is able of besmirching mine in the process. [From.GetSheHeCap] is spreading the most disgusting rumors about me, trying to pit my own subjects against me.;;;;;;;;;;;;;x
-EVTDESCHF22126;[From.GetTitledFirstName] is unbearable. [From.GetSheHeCap] wastes no occasion to mock and berate me, insulting my dynasty and my friends without pause. I do not know how much longer I will be able to endure this relentless barrage of abuse.;;;;;;;;;;;;;x
-EVTDESCHF22128;Following my actions, [From.GetTitledFirstName] has started spreading false reports of [From.GetHerHis] own. It appears that the efficacy of my own network of informants has been compromised, at least for the time being...;;;;;;;;;;;;;x
-EVTDESCHF22129;[From.GetTitledFirstName] has unleashed [From.GetHerHis] spies throughout [Root.PrimaryTitle.GetName]. These thugs have been spreading false news to my own informants, bringing my spy network in disarray. It has become increasingly harder to trust anything these days...;;;;;;;;;;;;;x
-EVTDESCHF22131;[From.GetTitledFirstName] has entirely misunderstood my intent! Rather than being upset by my slanderous allegations, [From.GetSheHe] praised me for my refined vocabulary.;;;;;;;;;;;;;x
-EVTDESCHF22132;[From.GetFirstName] was ecstatic hearing my praise and assured me that [From.GetSheHe] has a lot more interesting names to call me.;;;;;;;;;;;;;x
-EVTDESCHF22133;[From.GetTitledFirstName] has entirely misunderstood my intent! Rather than being upset by my slanderous allegations, [From.GetSheHe] praised me for my honesty, and even decided to knight me!;;;;;;;;;;;;;x
-
-EVTDESCHFP22006_A;[antagonize_target.GetTitledFirstName] has secluded [antagonize_target.GetHerselfHimself] with the rest of the court in [antagonize_target.Location.GetName], presumably biding their time while disease lingers in the countryside of the realm. "It will not be possible to reach [antagonize_target.GetHerHim] for some time", my council informs me.;;;;;;;;;;;;;x
-EVTDESCHFP22006_A_B;As both [antagonize_target.GetTitledFirstName] and I are both currently weathering the disease ravaging the countryside outside, my efforts to antagonize [antagonize_target.GetHerHim] will have to be put on hold...;;;;;;;;;;;;;x
-EVTDESCHFP22006_B;As I have gone into seclusion with my court, my efforts to antagonize [antagonize_target.GetTitledFirstName] will have to be halted.;;;;;;;;;;;;;x
-EVTDESCHFP22012;No need for any convoluted plot - merely attacking [antagonize_target.GetTitledFirstName]'s character should be enough to make it clear how much I despise [antagonize_target.GetHerHim].;;;;;;;;;;;;;x
-EVTDESCHFP23027;The people of the Book are fascinating to many [Root.Religion.GetName] rulers, who have often been ready to embrace some of the customs of their neighbors.;;;;;;;;;;;;;x
-
-EVTDESCAHFP22123;How can I possibly keep harassing a person that I have come to love so much?;;;;;;;;;;;;;x
-EVTDESCCHFP22123;[antagonize_target.GetTitledFirstName] well and truly hates me. There is no point in trying to antagonize [antagonize_target.GetHerHim] any further.;;;;;;;;;;;;;x
-
-EVTDESCBHF22013;I have received news that [From.GetTitledFirstName] has denounced me on several occasions recently, going to great lengths to besmirch my reputation, even at the expenses of [From.GetHerHis] own dignity as [From.GetTitle].;;;;;;;;;;;;;x
-EVTDESCBHF22014;Despite making my dislike for [From.GetTitledFirstName] quite clear, [From.GetSheHe] has completely ignored my taunting. I am unsure if any of it has worked at all.;;;;;;;;;;;;;x
-EVTDESCBHF22018;[From.GetTitledFirstName]'s attitude towards me is becoming unbearable. The [From.GetManWoman] always takes any opportunity to irritate me, even for the smallest thing.;;;;;;;;;;;;;x
-EVTDESCBHF22019;[From.GetTitledFirstName] looks far from pleased by my hostile attitude towards [From.GetHerHim].;;;;;;;;;;;;;x
-
-EVTDESCCHF22013;[From.GetTitledFirstName] never misses a chance to inform me of how much [From.GetSheHe] despises me. The [From.GetManWoman] is truly obsessed with me, to the detriment of both of us.;;;;;;;;;;;;;x
-EVTDESCCHF22014;[From.GetTitledFirstName] has ignored my insults, dismissing them as the posturing of a lesser [Root.GetManWoman].;;;;;;;;;;;;;x
-EVTDESCCHF22018;I am not exactly sure why is [From.GetTitledFirstName] so obsessed with attacking my character at any given occasion. In truth, I could not care less about [From.GetHerHim].;;;;;;;;;;;;;x
-EVTDESCCHF22019;Unfortunately, it appears [From.GetTitledFirstName] has ignored my attempts to antagonize [From.GetHerHim].;;;;;;;;;;;;;x
-
-EVTDESCDHF22018;[From.GetTitledFirstName]'s hopeless attempts at taunting me are truly pathetic. I might have been a bit irritated by them at first, but now I find [From.GetHerHis] meaningless strutting almost amusing.;;;;;;;;;;;;;x
-EVTDESCDHF22019;Not only is [From.GetTitledFirstName] ignored my hostility towards [From.GetHerHim], [From.GetSheHe] looks charmed by it!;;;;;;;;;;;;;x
-
-EVTDESCHFA22071;A young man has caught my eye this evening. Not only is he beautiful, he claims to be an important emissary from a foreign realm, with years of diplomatic experience. After exchanging a few pleasantries, he shared his desire to spend some time alone with me.;;;;;;;;;;;;;x
-EVTDESCHFA22073;I cannot believe it! The man I slept with was a servant of [FromFrom.GetTitledFirstName]'s! When I awoke after our night together he had disappeared, leaving only an ominous message telling me who his real master is. Even worse, I think sleeping with him made me terribly sick.;;;;;;;;;;;;;x
-EVTDESCHFA22077;I have just received the biggest boar I have ever seen from [From.GetTitledFirstName], who sent it to me as a sign of friendship. The beast looks marvelous, and I cannot wait to have it cooked for my next dinner. If only it weren't for the message coming with it mockingly implying I would eat it all by myself...;;;;;;;;;;;;;x
-EVTDESCHFA22079;I probably shouldn't have eaten all the boar by myself. I am feeling horribly sick now, so much so that I can barely stand.;;;;;;;;;;;;;x
-EVTDESCHFA22083;I have just received a golden scepter from [From.GetTitledFirstName]. According to the envoy who brought it to court, it is an old, priceless artifact which belonged to one of my ancestors and that [From.GetFirstName]'s scholars discovered recently at the borders of [From.GetHerHis] realm.;;;;;;;;;;;;;x
-EVTDESCHFA22085;I am beset by shame. The supposedly priceless artifact sent by [FromFrom.GetTitledFirstName] is nothing but a piece of wood painted in gold. What is worse is that the forgery was revealed just as I was explaining the history of the scepter to a foreign dignitary!;;;;;;;;;;;;;x
-EVTDESCHFA22089;I have just received the most disturbing news. It has been brought to my attention that a recent survey of my lands has determined my demesne to be much smaller than I believed. All my Council members agree that I should verify the soundness of this report immediately if I do not wish to see the prestige of my realm be greatly diminished.;;;;;;;;;;;;;x
-EVTDESCHFA22091;All of this work was for nothing! As it turns out, the survey report was a false document planted by [FromFrom.GetTitledFirstName] to undermine my authority as [Root.GetTitle].;;;;;;;;;;;;;x
-EVTDESCHFA22095;The musky odor of mud fills my lungs as I stare in disbelief at my soiled clothes. The two urchins run away laughing, while my parade suddenly halts in the middle of the streets and my servants start surrounding me, asking me if I am hurt and hastily starting to clean me.;;;;;;;;;;;;;x
-EVTDESCHFA22097;I immediately run after the two little criminals, but they have already disappeared. In my rage, I spend hours wandering around [Root.Capital.GetName] in my pitiful state, yelling for the two scoundrels to come out. When I finally return to my [Root.GetHouse], a letter from [FromFrom.GetFirstName] awaits me, implying the [FromFrom.GetTitle]'s involvement in the entire affair.;;;;;;;;;;;;;x
-EVTDESCHFA22101;I have just received a wonderful gift from [From.GetTitledFirstName]. [From.GetHerHisCap] Chancellor has recently discovered an old document legitimizing my claim on one of my neighbors' lands. [From.GetFirstName] has decided to offer it to me in a show of friendship.;;;;;;;;;;;;;x
-EVTDESCHFA22103;Unbelievable! I was just about to press my new claim, when several clear inconsistencies were discovered in [FromFrom.GetTitledFirstName]'s document. The claim [From.GetSheHe] gave me is fabricated, and, more importantly, very poorly fabricated! Hardly anybody will consider it valid if I decide to press it.;;;;;;;;;;;;;x
-EVTDESCHFA22107;An envoy from [From.Capital.GetName] has just delivered sumptuous portrait depicting me, as a gift from [From.GetTitledFirstName]. The proportions and features are a bit off, but the quality of the piece is undeniable.;;;;;;;;;;;;;x
-EVTDESCHFA22109;I cannot believe the pettiness of some people. The painting [FromFrom.GetFirstName] gave me lasted only a few days before starting to melt, twisting my features in a grotesque mockery of reality and filling the main hall with a foul stench. What is worse, many dignitaries saw it before I was informed of the problem and hastily ordered the rotting artwork to be removed.;;;;;;;;;;;;;x
-
-EVTDESCHFB22071;A young woman has caught my eye this evening. Not only is she beautiful, she claims to be an important emissary from a foreign realm, with years of diplomatic experience. After exchanging a few pleasantries, she shared her desire to spend some time alone with me.;;;;;;;;;;;;;x
-EVTDESCHFB22073;I cannot believe it! The woman I slept with was a servant of [FromFrom.GetTitledFirstName]'s! When I awoke after our night together she had disappeared, leaving only an ominous message telling me who her real master is. Even worse, I think that sleeping with him made me terribly sick.;;;;;;;;;;;;;x
-
-EVTOPTAHF22003;Does [antagonize_target.GetSheHe] still think of me, I wonder?;;;;;;;;;;;;;x
-EVTOPTAHF22005;It was good while it lasted.;;;;;;;;;;;;;x
-EVTOPTAHF22008;It was good while it lasted.;;;;;;;;;;;;;x
-EVTOPTAHF22009;I hate [From.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTAHF22010;We shall be enemies to the end!;;;;;;;;;;;;;x
-EVTOPTAHF22013;I will simply ignore [From.GetHerHis] posturing.;;;;;;;;;;;;;x
-EVTOPTAHF22014;Perhaps I should try something more personal...;;;;;;;;;;;;;x
-EVTOPTAHF22015;Outstanding.;;;;;;;;;;;;;x
-EVTOPTAHF22018;I hate [From.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTAHF22021;Best act with subtlety...;;;;;;;;;;;;;x
-EVTOPTAHF22022;I know exactly what [From.GetSheHe] is trying to do.;;;;;;;;;;;;;x
-EVTOPTAHF22023;I should have used a harsher wording.;;;;;;;;;;;;;x
-EVTOPTAHF22024;Has [From.GetSheHe] no self-respect?;;;;;;;;;;;;;x
-EVTOPTAHF22025;Has [From.GetSheHe] no self-respect?;;;;;;;;;;;;;x
-EVTOPTAHF22026;What else can I do?;;;;;;;;;;;;;x
-EVTOPTAHF22028;What a pleasant surprise!;;;;;;;;;;;;;x
-EVTOPTAHF22029;Wouldn't it be a shame if [From.GetSheHe] put [From.GetHerselfHimself] out of [From.GetHerHis] misery...;;;;;;;;;;;;;x
-EVTOPTAHF22030;And I hate [From.GetHerHim] back!;;;;;;;;;;;;;x
-EVTOPTAHF22031;We are rivals from this day forward.;;;;;;;;;;;;;x
-EVTOPTAHF22032;Perhaps we could be friends?;;;;;;;;;;;;;x
-EVTOPTAHF22033;I am glad to have you as my friend.;;;;;;;;;;;;;x
-EVTOPTAHF22034;How very nice of you to say so!;;;;;;;;;;;;;x
-EVTOPTAHF22035;Marvelous.;;;;;;;;;;;;;x
-EVTOPTAHF22036;I will travel to [FromFrom.GetHerHis] court at once!;;;;;;;;;;;;;x
-EVTOPTAHF22037;We shall see...;;;;;;;;;;;;;x
-EVTOPTAHF22042;As [From.GetSheHe] deserves.;;;;;;;;;;;;;x
-EVTOPTAHF22043;Why do people listen to [From.GetHerHim]?;;;;;;;;;;;;;x
-EVTOPTAHF22044;As [From.GetSheHe] deserves.;;;;;;;;;;;;;x
-EVTOPTAHF22045;Why do people listen to [From.GetHerHim]?;;;;;;;;;;;;;x
-EVTOPTAHF22046;Wonderful.;;;;;;;;;;;;;x
-EVTOPTAHF22047;How could this happen?!;;;;;;;;;;;;;x
-EVTOPTAHF22048;How amusing!;;;;;;;;;;;;;x
-EVTOPTAHF22049;I cannot stand this anymore!;;;;;;;;;;;;;x
-EVTOPTAHF22051;I wish to claim [antagonize_target.GetHerHis] lands!;;;;;;;;;;;;;x
-EVTOPTAHF22053;Marvelous!;;;;;;;;;;;;;x
-EVTOPTAHF22054;Does [From.GetSheHe] know no decency?;;;;;;;;;;;;;x
-EVTOPTAHF22055;So [antagonize_target.GetSheHe] should be *my* vassal now!;;;;;;;;;;;;;x
-EVTOPTAHF22056;Over my dead body!;;;;;;;;;;;;;x
-EVTOPTAHF22057;One can only hope...;;;;;;;;;;;;;x
-EVTOPTAHF22058;This is impossible!;;;;;;;;;;;;;x
-EVTOPTAHF22060;Damn [From.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTAHF22062;How could [From.GetSheHe]?;;;;;;;;;;;;;x
-EVTOPTAHF22064;How could [From.GetSheHe]?;;;;;;;;;;;;;x
-EVTOPTAHF22066;Does [From.GetSheHe] hold nothing sacred?;;;;;;;;;;;;;x
-EVTOPTAHF22067;Truly, a dishonorable display.;;;;;;;;;;;;;x
-EVTOPTAHF22068;He should have died before talking!;;;;;;;;;;;;;x
-EVTOPTAHF22070;I know just the person...;;;;;;;;;;;;;x
-EVTOPTAHF22071;No! I don't trust you!;;;;;;;;;;;;;x
-EVTOPTAHF22072;I will try something different next time...;;;;;;;;;;;;;x
-EVTOPTAHF22073;That fiend!;;;;;;;;;;;;;x
-EVTOPTAHF22074;Justice is served.;;;;;;;;;;;;;x
-EVTOPTAHF22076;I know exactly what to do...;;;;;;;;;;;;;x
-EVTOPTAHF22077;If that's the case, I will eat none of it!;;;;;;;;;;;;;x
-EVTOPTAHF22078;I will have to try something else...;;;;;;;;;;;;;x
-EVTOPTAHF22079;This is all [FromFrom.GetTitledFirstName]'s fault!;;;;;;;;;;;;;x
-EVTOPTAHF22080;How predictable.;;;;;;;;;;;;;x
-EVTOPTAHF22082;A good old forgery will teach [antagonize_target.GetHerHim] [antagonize_target.GetHerHis] place.;;;;;;;;;;;;;x
-EVTOPTAHF22083;This is too sacred a relic for me to flaunt it.;;;;;;;;;;;;;x
-EVTOPTAHF22084;Curses. I will have to try something else.;;;;;;;;;;;;;x
-EVTOPTAHF22085;My reputation is ruined!;;;;;;;;;;;;;x
-EVTOPTAHF22086;How amusing.;;;;;;;;;;;;;x
-EVTOPTAHF22088;Did [antagonize_target.GetSheHe] survey [antagonize_target.GetHerHis] borders recently?;;;;;;;;;;;;;x
-EVTOPTAHF22089;Who cares? It is just a piece of scroll.;;;;;;;;;;;;;x
-EVTOPTAHF22090;I will have to try something different.;;;;;;;;;;;;;x
-EVTOPTAHF22091;I am so tired...;;;;;;;;;;;;;x
-EVTOPTAHF22092;At least [From.GetSheHe] did something for a change...;;;;;;;;;;;;;x
-EVTOPTAHF22094;Is there not a parade in [antagonize_target.GetHerHis] honor soon?;;;;;;;;;;;;;x
-EVTOPTAHF22095;It was but children...;;;;;;;;;;;;;x
-EVTOPTAHF22096;[From.GetHerHis] kind nature is to blame...;;;;;;;;;;;;;x
-EVTOPTAHF22097;Why is [FromFrom.GetSheHe] tormenting me?;;;;;;;;;;;;;x
-EVTOPTAHF22100;A fake claim, maybe?;;;;;;;;;;;;;x
-EVTOPTAHF22101;Thank you, but I do not need it.;;;;;;;;;;;;;x
-EVTOPTAHF22102;How unfortunate.;;;;;;;;;;;;;x
-EVTOPTAHF22103;This was all a waste of time!;;;;;;;;;;;;;x
-EVTOPTAHF22104;Pathetic.;;;;;;;;;;;;;x
-EVTOPTAHF22106;Call for the court painter!;;;;;;;;;;;;;x
-EVTOPTAHF22107;The portrait is nice, but...;;;;;;;;;;;;;x
-EVTOPTAHF22108;I will have to try something different...;;;;;;;;;;;;;x
-EVTOPTAHF22109;Curses!;;;;;;;;;;;;;x
-EVTOPTAHF22110;What an unexpected turn of events!;;;;;;;;;;;;;x
-EVTOPTAHF22111;Psh, I don't care!;;;;;;;;;;;;;x
-EVTOPTAHF22113;I feel great!;;;;;;;;;;;;;x
-EVTOPTAHF22114;I feel great!;;;;;;;;;;;;;x
-EVTOPTAHF22115;And everyone loves me for it!;;;;;;;;;;;;;x
-EVTOPTAHF22116;The more I know, the more I can hurt [From.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTAHF22117;Truth is for the foolish.;;;;;;;;;;;;;x
-EVTOPTAHF22118;I must be calm if I do not wish to suffer the same fate.;;;;;;;;;;;;;x
-EVTOPTAHF22121;I will spread false reports to [antagonize_target.GetHerHis] spies.;;;;;;;;;;;;;x
-EVTOPTAHF22129;Two can play this game, [From.GetFirstName]!;;;;;;;;;;;;;x
-EVTOPTAHF22131;Do not worry, [From.GetFirstName], I have much more to say!;;;;;;;;;;;;;x
-EVTOPTAHF22132;Hopefully they will all be as endearing!;;;;;;;;;;;;;x
-EVTOPTAHF22133;You can always count on me to tell the truth, my [From.GetTitle]!;;;;;;;;;;;;;x
-
-EVTOPTAHFP22006;If only we had pigeons...;;;;;;;;;;;;;x
-EVTOPTAHFP22012;Let everybody in [Root.PrimaryTitle.GetName] know!;;;;;;;;;;;;;x
-EVTOPTAHFP22123;Understandable.;;;;;;;;;;;;;x
-
-EVTOPTBHFP22012;I will make my disdain clear!;;;;;;;;;;;;;x
-
-EVTOPTCHFP22012;A private message will be enough.;;;;;;;;;;;;;x
-
-EVTOPTDHFP22012;Better wait for something more concrete...;;;;;;;;;;;;;x
-
-EVTOPTEHF22021;[From.GetSheHeCap] is a most disgraceful [From.GetTitle]!;;;;;;;;;;;;;x
-EVTOPTEHF22022;How dare [From.GetSheHe]!;;;;;;;;;;;;;x
-
-EVTOPTFHF22021;This is beneath me.;;;;;;;;;;;;;x
-
-EVTOPTLUAHF22022;[From.GetSheHeCap] just needs a good beating, that is all!;;;;;;;;;;;;;x
-
-EVTOPTLUBHF22022;Such poetry and wit, [From.GetFirstName]!;;;;;;;;;;;;;x
-
-EVTOPTLUCHF22022;For your admirable honesty, I dub thee Sir [From.GetFirstName] of the Turnip!;;;;;;;;;;;;;x
-
-EVTOPTYHF22022;I will not tolerate this offense!;;;;;;;;;;;;;x
-EVTOPTZHF22022;Surely I can convince [From.GetHerHim] to stop...;;;;;;;;;;;;;x
-
-EVTDESCAHF22013;The entirety of [From.PrimaryTitle.GetName] is laughing at me, thanks to [From.GetTitledFirstName]'s damnable actions. I have received news from many travelers going through [From.GetHerHis] realm that the most absurd rumors about me are being spread by the [From.GetTitle]'s officials themselves.;;;;;;;;;;;;;x
-EVTDESCAHF22014;All of [Root.PrimaryTitle.GetName] is laughing at [From.GetTitledFirstName], yet from what I hear [From.GetSheHe] is completely unmoved by my slandering campaign.;;;;;;;;;;;;;x
-EVTDESCAHF22015;My efforts to smear and antagonize [From.GetTitledFirstName] have been a complete success. I might have lost some of my reputation in the process, but [From.GetTitledFirstName] looks furious.;;;;;;;;;;;;;x
-EVTDESCAHF22018;I truly cannot stand [From.GetTitledFirstName]! [From.GetSheHeCap] seems to revel in every misfortune that befalls upon me and never misses an opportunity to taunt and insult me.;;;;;;;;;;;;;x
-EVTDESCAHF22019;My hostile attitude towards [From.GetTitledFirstName] has not gone unnoticed. [From.GetSheHeCap] hates me more every day.;;;;;;;;;;;;;x
-
-EVTOPTCHF22018;How quaint.;;;;;;;;;;;;;x
-EVTOPTCHF22021;Such excesses are unacceptable for a [From.GetTitle]!;;;;;;;;;;;;;x
-EVTOPTCHF22022;No matter what [From.GetSheHe] said, I forgive [From.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTCHF22051;Sow dissent amongst [antagonize_target.GetHerHis] men.;;;;;;;;;;;;;x
-EVTOPTCHF22121;[antagonize_target.GetSheHeCap] shall never know peace for as long as I live!;;;;;;;;;;;;;x
-EVTOPTCHF22131;Perhaps I should rethink my strategy...;;;;;;;;;;;;;x
-
-EVTOPTDHF22018;Such a pitiful [From.GetManWoman]...;;;;;;;;;;;;;x
-EVTOPTDHF22021;Infidels deserve no compassion!;;;;;;;;;;;;;x
-EVTOPTDHF22022;So what?;;;;;;;;;;;;;x
-EVTOPTDHF22051;This is too underhanded for me.;;;;;;;;;;;;;x
-EVTOPTDHF22121;Better to bide my time for now...;;;;;;;;;;;;;x
-
-EVTOPTBHF22005;[antagonize_target.GetSheHeCap] will get out of there sooner or later...;;;;;;;;;;;;;x
-EVTOPTBHF22010;My work with [antagonize_target.GetHerHim] is done.;;;;;;;;;;;;;x
-EVTOPTBHF22013;When will [From.GetSheHe] stop tormenting me?;;;;;;;;;;;;;x
-EVTOPTBHF22018;I cannot stand that [From.GetManWoman].;;;;;;;;;;;;;x
-EVTOPTBHF22021;Who could love such a freak?;;;;;;;;;;;;;x
-EVTOPTBHF22022;[From.GetSheHeCap] has a point...;;;;;;;;;;;;;x
-EVTOPTBHF22032;[FromFrom.GetTitledFirstName] is a good [FromFrom.GetManWoman].;;;;;;;;;;;;;x
-EVTOPTBHF22051;Cause unrest in [antagonize_target.GetHerHis] realm.;;;;;;;;;;;;;x
-EVTOPTBHF22070;This is beneath me.;;;;;;;;;;;;;x
-EVTOPTBHF22071;But of course!;;;;;;;;;;;;;x
-EVTOPTBHF22076;This is beneath me.;;;;;;;;;;;;;x
-EVTOPTBHF22077;But I *will* eat it all myself!;;;;;;;;;;;;;x
-EVTOPTBHF22082;This is beneath me.;;;;;;;;;;;;;x
-EVTOPTBHF22083;What a marvelous addition to my crown jewels!;;;;;;;;;;;;;x
-EVTOPTBHF22088;This is beneath me.;;;;;;;;;;;;;x
-EVTOPTBHF22089;This is going to be so much work!;;;;;;;;;;;;;x
-EVTOPTBHF22094;This is beneath me.;;;;;;;;;;;;;x
-EVTOPTBHF22095;I will whip those dogs myself!;;;;;;;;;;;;;x
-EVTOPTBHF22100;This is beneath me.;;;;;;;;;;;;;x
-EVTOPTBHF22101;Just what I need!;;;;;;;;;;;;;x
-EVTOPTBHF22106;This is beneath me.;;;;;;;;;;;;;x
-EVTOPTBHF22107;It deserves to remain in plain sight.;;;;;;;;;;;;;x
-EVTOPTBHF22111;Fine, I will leave [From.GetHerHim] be for a while.;;;;;;;;;;;;;x
-EVTOPTBHF22121;I will spread the most vile rumors about [antagonize_target.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTBHF22124;Will [From.GetSheHe] ever stop?;;;;;;;;;;;;;x
-EVTOPTBHF22126;Just leave me in peace!;;;;;;;;;;;;;x
-EVTOPTBHF22129;Troublesome...;;;;;;;;;;;;;x
-EVTOPTBHF22131;I will just have to try harder!;;;;;;;;;;;;;x
-EVTOPTBHF22133;Just a knighthood?!;;;;;;;;;;;;;x
-EVTDESCBHFP22123;[antagonize_target.GetFirstName] has become one of my dearest friends. I should stop antagonizing [antagonize_target.GetHerHim] so much.;;;;;;;;;;;;;x
-
-tooltip_21010_A;Keep §YAntagonizing [antagonize_target.GetTitledFirstName]§!.;;;;;;;;;;;;;x
-tooltip_21010_B;Stop attempting to §YAntagonize [antagonize_target.GetTitledFirstName]§!.;;;;;;;;;;;;;x
-tooltip_22003_A;Stop attempting to §YAntagonize [antagonize_target.GetTitledFirstName]§!.;;;;;;;;;;;;;x
-tooltip_22005_A;Stop attempting to §YAntagonize [antagonize_target.GetTitledFirstName]§!.;;;;;;;;;;;;;x
-tooltip_22005_B;Wait until §Y[antagonize_target.GetTitledFirstName]§! is released before continuing to §YAntagonize§! [antagonize_target.GetHerHim].;;;;;;;;;;;;;x
-tooltip_22008_A;Stop attempting to §YAntagonize [antagonize_target.GetTitledFirstName]§!.;;;;;;;;;;;;;x
-tooltip_22012_A;Instruct all the town criers across your realm to mock and insult §Y[This.GetTitledFirstName]§! on your behalf, besmirching [This.GetHerHis] name and §YAntagonizing§! [This.GetHerHim] in the process.;;;;;;;;;;;;;x
-tooltip_22012_B;Publicly denounce §Y[This.GetTitledFirstName]'s§! recent conduct, besmirching [This.GetHerHis] name and §YAntagonizing§! [This.GetHerHim] in the process.;;;;;;;;;;;;;x
-tooltip_22012_C;Send a private message to §Y[This.GetTitledFirstName]§!, insulting [This.GetHerHim] and §YAntagonizing§! [This.GetHerHim] in the process.;;;;;;;;;;;;;x
-tooltip_22013_A;Ignore §Y[This.GetTitledFirstName]'s§! malicious teasing.;;;;;;;;;;;;;x
-tooltip_22013_B;The rumors spread by §Y[This.GetTitledFirstName]§! about you will affect your reputation.;;;;;;;;;;;;;x
-tooltip_22021_A;Spread ill rumors about §Y[This.GetTitledFirstName]§! without exposing yourself too much, thus avoiding any possible retaliation from the target of your slander.;;;;;;;;;;;;;x
-tooltip_22021_B;Deride §Y[This.GetTitledFirstName]§! for [This.GetHerHis] deformity.;;;;;;;;;;;;;x
-tooltip_22021_C;§YAntagonize [This.GetTitledFirstName]§! by moralizing about [This.GetHerHis] dissolute conduct.;;;;;;;;;;;;;x
-tooltip_22021_D;§YAntagonize [This.GetTitledFirstName]§! by mocking [This.GetHerHis] faith.;;;;;;;;;;;;;x
-tooltip_22021_E;§YAntagonize [This.GetTitledFirstName]§! by mocking [This.GetHerHis] character.;;;;;;;;;;;;;x
-tooltip_22022_A;Pretend to ignore §Y[This.GetTitledFirstName]'s§! slander and focus on avoiding any collateral damage caused by the rumors that [This.GetSheHe] has spread about you.;;;;;;;;;;;;;x
-tooltip_22022_B;Accept §Y[This.GetTitledFirstName]'s§! criticism as valid and just.;;;;;;;;;;;;;x
-tooltip_22022_C;Forgive §Y[This.GetTitledFirstName]§! for [This.GetHerHis] insults.;;;;;;;;;;;;;x
-tooltip_22022_D;Inform §Y[This.GetTitledFirstName]§! that you care little about [This.GetHerHis] moralizing.;;;;;;;;;;;;;x
-tooltip_22022_LUB;Compliment §Y[This.GetTitledFirstName]§! for [This.GetHerHis] vocabulary, preventing [This.GetHerHim] from §YAntagonizing§! you for some time.;;;;;;;;;;;;;x
-tooltip_22022_LUC;Grant §Y[This.GetTitledFirstName]§! a knighthood for [This.GetHerHis] honesty, preventing [This.GetHerHim] from §YAntagonizing§! you for some time.;;;;;;;;;;;;;x
-tooltip_22022_Y;Challenge §Y[From.GetFirstName]§! to a §YDuel§!.;;;;;;;;;;;;;x
-tooltip_22022_Z;Use your diplomatic skills to convince §Y[This.GetTitledFirstName]§! to stop trying to §YAntagonize§! you for some time.;;;;;;;;;;;;;x
-tooltip_22051_A;The blackguard will attempt to fabricate a §YClaim§! on one of §Y[antagonize_target.GetTitledFirstName]'s§! counties..;;;;;;;;;;;;;x
-tooltip_22051_B;The blackguard will attempt to rile up §Y[antagonize_target.GetTitledFirstName]'s§! subjects against [antagonize_target.GetHerHim].;;;;;;;;;;;;;x
-tooltip_22051_C;The blackguard will attempt to put §Y[antagonize_target.GetTitledFirstName]'s§! vassals and family against [antagonize_target.GetHerHim].;;;;;;;;;;;;;x
-tooltip_22123_A;Stop attempting to §YAntagonize [antagonize_target.GetTitledFirstName]§!.;;;;;;;;;;;;;x
-
-tooltip_EVTOPTAHF22111;Ignore §Y[This.GetTitledFirstName]§!'s call for peace.;;;;;;;;;;;;;x
-tooltip_EVTOPTAHF22131;Ignore §Y[This.GetTitledFirstName]§!'s compliments.;;;;;;;;;;;;;x
-tooltip_EVTOPTAHF22133;Continue to §YAntagonize§! §Y[From.GetTitledFirstName]§!;;;;;;;;;;;;;x
-
-tooltip_EVTOPTBHF22111;Stop §YAntagonizing [From.GetTitledFirstName]§! for a few years.;;;;;;;;;;;;;x
-
-tooltip_HF22055_A;Thanks to this document, you will be able to declare a war of §YVassalization§! against §Y[This.GetTitledFirstName]§! without incurring in any §YPrestige§! loss.;;;;;;;;;;;;;x
-tooltip_HF22056_A;§Y[From.GetTitledFirstName]§! has gained a legitimate claim to wage a war of §YVassalization§! against you.;;;;;;;;;;;;;x
-tooltip_HF22070_A;Send a pox-ridden courtesan to §Y[This.GetTitledFirstName]§!, hoping [This.GetSheHe] will take the bait.;;;;;;;;;;;;;x
-tooltip_HF22071_A;Refuse the courtesan's offering.;;;;;;;;;;;;;x
-tooltip_HF22071_B;Spend the night with your new friend.;;;;;;;;;;;;;x
-tooltip_HF22076_A;Prepare a poisoned feast for §Y[This.GetTitledFirstName]§!.;;;;;;;;;;;;;x
-tooltip_HF22077_A;Refuse §Y[This.GetTitledFirstName]'s§! gift.;;;;;;;;;;;;;x
-tooltip_HF22077_B;Eat §Y[This.GetTitledFirstName]'s§! boar.;;;;;;;;;;;;;x
-tooltip_HF22082_A;Gift §Y[This.GetTitledFirstName]§! a forged present, hoping [This.GetSheHe] will inadvertently embarrass [This.GetHerselfHimself] with it.;;;;;;;;;;;;;x
-tooltip_HF22083_A;Make sure that the artifact is kept safe and away from sight.;;;;;;;;;;;;;x
-tooltip_HF22088_A;Send a falsified report on §Y[This.GetTitledFirstName]'s§! demesne to force a new survey of [This.GetHerHis] borders.;;;;;;;;;;;;;x
-tooltip_HF22089_A;Ignore the survey.;;;;;;;;;;;;;x
-tooltip_HF22089_B;Issue another survey of your lands.;;;;;;;;;;;;;x
-tooltip_HF22094_A;Sabotage §Y[This.GetTitledFirstName]'s§! parade to §YAntagonize§! [This.GetHerHim].;;;;;;;;;;;;;x
-tooltip_HF22095_A;Forgive the slight against you and continue with your parade.;;;;;;;;;;;;;x
-tooltip_HF22095_B;Ride in pursuit of the two boys.;;;;;;;;;;;;;x
-tooltip_HF22100_A;Provide a fake claim to one of §Y[This.GetTitledFirstName]'s§! neighboring lands, hoping [This.GetSheHe] will humiliate [This.GetHerselfHimself] by trying to press it.;;;;;;;;;;;;;x
-tooltip_HF22101_A;Refuse §Y[This.GetTitledFirstName]'s§! claim.;;;;;;;;;;;;;x
-tooltip_HF22106_A;Have a very special painting of §Y[This.GetTitledFirstName]§! delivered to [This.GetHerHim] as a gift.;;;;;;;;;;;;;x
-tooltip_HF22107_A;Accept §Y[This.GetTitledFirstName]'s§! gift, but arrange for it to be placed somewhere remote where nobody will ever see it.;;;;;;;;;;;;;x
-tooltip_HF22107_B;Arrange for the portrait to be placed in the main hall of your [Root.GetHouse].;;;;;;;;;;;;;x
+EVTDESCHF22003;[antagonize_target.GetTitledFirstName] is well beyond my reach. There is no point in trying to antagonize [antagonize_target.GetHerHim] anymore.;;;;;;;;;;;[From.GetTitledFirstName] ñåé÷àñ âíå äîñÿãàåìîñòè. Íåò ñìûñëà ïûòàòüñÿ è äàëüøå ïîðòèòü ñ í[From.GetEyIm] îòíîøåíèÿ.;;x
+EVTDESCHF22005;With [antagonize_target.GetTitledFirstName] already rotting in a dungeon, there is not much more I can do to harass [antagonize_target.GetHerHim].;;;;;;;;;;;[From.GetTitledFirstName] ñåé÷àñ â òåìíèöå. Â òàêîé ñèòóàöèè íåò ñìûñëà ïðîäîëæàòü ïîïûòêè èñïîðòèòü ñ í[From.GetEyIm] îòíîøåíèÿ, îò ìåíÿ ìàëî ÷òî çàâèñèò.;;x
+EVTDESCHF22008;[antagonize_target.GetTitledFirstName] awaits [antagonize_target.GetHerHis] imminent death lying senseless in [antagonize_target.GetHerHis] bed. I do not think there is anything left that I can do to increase [antagonize_target.GetHerHis] suffering.;;;;;;;;;;;[From.GetTitledFirstName] ñåé÷àñ ïðèêîâàí[From.GetEndA] ê ïîñòåëè, è âðÿä ëè âîîáùå ïîíèìàåò, ÷òî ñ í[From.GetEyIm] ïðîèñõîäèò. Â òàêîé ñèòóàöèè ÿ ìàëî ÷òî ìîãó ñäåëàòü, ÷òîáû êàê-òî óõóäøèòü íàøè îòíîøåíèÿ.;;x
+EVTDESCHF22009;I cannot stand [From.GetTitledFirstName]. [From.GetSheHeCap] takes every opportunity to insult and berate me. Clearly, this [From.GetManWoman] wishes to be my enemy.;;;;;;;;;;;ß íå âûíîøó [From.GetTitledFirstName]. [From.GetSheHeCap] èñïîëüçóåò ëþáóþ âîçìîæíîñòü, ÷òîáû îñêîðáèòü è îáðóãàòü ìåíÿ. Î÷åâèäíî, ÷òî ýò[From.GetEtaEtot] [From.GetManWoman]à õî÷åò ñòàòü ìîèì âðàãîì.;;x
+EVTDESCHF22010;[From.GetTitledFirstName] thoroughly hates me by now and likely wishes me dead. The feeling is, of course, mutual.;;;;;;;;;;;[From.GetTitledFirstName] óæå äåéñòâèòåëüíî íåíàâèäèò ìåíÿ è, âåðîÿòíî, æåëàåò ìîåé ñìåðòè. Íàøè ÷óâñòâà, êîíå÷íî æå, âçàèìíûå.;;x
+EVTDESCHF22021;[Root.GetRandomSlanderDesc];;;;;;;;;;;[Root.GetRandomSlanderDesc];;x
+EVTDESCHF22022;[GetRandomSlanderReactionDesc];;;;;;;;;;;[GetRandomSlanderReactionDesc];;x
+EVTDESCHF22023;It looks like [From.GetTitledFirstName] is exclusively concerned with preventing the rumors I spread about [From.GetHerHim] from in any way jeopardizing [From.GetHerHis] legitimacy. [From.GetSheHeCap] seems to perceive my attack more as an annoyance than the grievous insult I intended...;;;;;;;;;;;Ïîõîæå, [From.GetTitledFirstName] îçàáî÷åí[From.GetEndA] èñêëþ÷èòåëüíî òåì, ÷òîáû ñëóõè, êîòîðûå ÿ ðàñïðîñòðàíÿþ î í[From.GetEyYom] íå ïîñòàâèëè ïîä óãðîçó [From.GetHersHis] ëåãèòèìíîñòü. Âûãëÿäèò òàê, áóäòî [From.GetSheHe] âîñïðèíèìàåò ìîè íàïàäêè ñêîðåå êàê íàçîéëèâîñòü, à íå òÿæêîå îñêîðáëåíèå.;;x
+EVTDESCHF22024;[From.GetTitledFirstName]'s humility outweighs [From.GetHerHis] dignity, apparently. Far from being insulted by the rumors I spread about [From.GetHerHim], [From.GetTitledFirstName] accepted my slander as rightful criticism.;;;;;;;;;;;Äîëæíî æå áûòü ó [From.GetAgedPersonGEN] õîòü êàêîå-òî ÷óâñòâî ñîáñòâåííîãî äîñòîèíñòâà. [From.GetTitledFirstName] íè÷óòü íå îñêîðáè[From.GetLasLsya] ñëóõàìè, êîòîðûå ÿ ðàñïðîñòðàíÿë[Root.GetEndA] î í[From.GetEyYom]. Áîëåå òîãî, [From.GetSheHe] ïðèíÿë[From.GetEndA] ìîþ êëåâåòó êàê îáîñíîâàííóþ êðèòèêó!;;x
+EVTDESCHF22025;[From.GetTitledFirstName]'s kindness outweighs [From.GetHerHis] dignity, apparently. Far from being insulted by the rumors I spread about [From.GetHerHim], [From.GetTitledFirstName] has decided to forgive me for my accusations.;;;;;;;;;;;Âèäèìî, èíîãäà äîáðîòà ïåðåâåøèâàåò ãîðäîñòü. [From.GetTitledFirstName] íè÷óòü íå îñêîðáè[From.GetLasLsya] ñëóõàìè, êîòîðûå ÿ ðàñïðîñòðàíÿë[Root.GetEndA] î í[From.GetEyYom]. Áîëåå òîãî, [From.GetSheHe] ðåøèë[From.GetEndA] ïðîñòèòü ìåíÿ.;;x
+EVTDESCHF22026;[From.GetTitledFirstName] has such a cynical mind that my insults rang hollow to [From.GetHerHis] ears. [From.GetSheHeCap] does not care at all about everybody knowing of [From.GetHerHis] wickedness.;;;;;;;;;;;[From.GetTitledFirstName] ñòîëü öèíè÷[From.GetNaEn], ÷òî ïîïðîñòó ïðîïóñòèë[From.GetEndA] ìîè îñêîðáëåíèÿ ìèìî óøåé. [From.GetSheHeCap] ñîâåðøåííî íå çàáîòèòñÿ î òîì, ÷òî âñå óçíàþò î [From.GetHersHis] ïîðî÷íîñòè.;;x
+EVTDESCHF22027;Just as expected, [From.GetTitledFirstName] is furious. The rumors I spread about [From.GetHerHim] have really gone under [From.GetHerHis] skin. After all, how could [From.GetSheHe] deny any of them in good faith?;;;;;;;;;;;Êàê è îæèäàëîñü, [From.GetTitledFirstName] â ÿðîñòè. Ðàñïðîñòðàíÿåìûå ìíîé ñëóõè äåéñòâèòåëüíî [From.GetHersHis] çàäåëè. Â êîíöå êîíöîâ, [From.GetSheHe] ïðîñòî íå â ñèëàõ îòðèöàòü êàæäûé èç íèõ.;;x
+EVTDESCHF22028;It seems my attempt to antagonize [From.GetTitledFirstName] has had some unsavory expect on the mind of my victim - [From.GetFirstName] appears to be a lot more stressed after being subjected to the vile rumors I spread about [From.GetHerHim].;;;;;;;;;;;Ñóäÿ ïî âñåìó, [From.GetTitledFirstName] èñïûòàë[From.GetEndA] ãîðàçäî áîëüøèé ñòðåññ ïîñëå òåõ ãíóñíûõ ñëóõîâ, êîòîðûå ÿ ðàñïðîñòðàíÿë[Root.GetEndA] î í[From.GetEyYom]. Ñâîèìè ïîïûòêàìè ðàçîçëèòü [From.GetHersHis] ÿ ïîâðåäèë[Root.GetEndA] [From.GetHersHis] ðàçóì.;;x
+EVTDESCHF22029;It seems my attempt to antagonize [From.GetTitledFirstName] has had some unsavory expect on the mind of my victim - [From.GetFirstName] appears to feel a lot more miserable after being subjected to the vile rumors I spread about [From.GetHerHim].;;;;;;;;;;;Ñóäÿ ïî âñåìó, [From.GetTitledFirstName] î÷åíü ðàññòðîè[From.GetLasLsya] ïîñëå òåõ ãíóñíûõ ñëóõîâ, êîòîðûå ÿ ðàñïðîñòðàíÿë[Root.GetEndA] î í[From.GetEyYom]. Ñâîèìè ïîïûòêàìè ðàçîçëèòü [From.GetHersHis] ÿ âûçâàë[Root.GetEndA] ó í[From.GetHersHis] ïðèñòóï óíûíèÿ.;;x
+EVTDESCHF22030;[From.GetTitledFirstName]'s recent accusations were only the last in a long series of insults [From.GetSheHe] has riddled me with. There is little doubt that this [From.GetManWoman] hates me.;;;;;;;;;;;Íåäàâíèå îáâèíåíèÿ áûëè ëèøü ïîñëåäíèìè â äëèííîé ÷åðåäå îñêîðáëåíèé, êîòîðûìè [From.GetTitledFirstName] îñûïàë[From.GetEndA] ìåíÿ. Íåò ñîìíåíèé â òîì, ÷òî ýò[From.GetEtaEtot] [From.GetAgedPerson] íåíàâèäèò ìåíÿ.;;x
+EVTDESCHF22031;No point in hiding my intentions any longer - [From.GetTitledFirstName] has openly declared me [From.GetHerHis] sworn enemy.;;;;;;;;;;;Íåò áîëüøå ñìûñëà ñêðûâàòü ñâîè íàìåðåíèÿ. [From.GetTitledFirstName] îòêðûòî îáúÿâèë[From.GetEndA] ìåíÿ ñâîèì çàêëÿòûì âðàãîì.;;x
+EVTDESCHF22032;It has recently come to my attention that [FromFrom.GetTitledFirstName] and I share a common enemy in [From.GetTitledFirstName].;;;;;;;;;;;Íåäàâíî äî ìîåãî ñâåäåíèÿ äîøëî, ÷òî [FromFrom.GetTitledFirstName] è ÿ êîå â ÷¸ì ïîõîæè. Ó íàñ åñòü îáùèé âðàã - [From.GetTitledFirstName].;;x
+EVTDESCHF22033;It appears I am not the alone in despising [FromFrom.GetTitledFirstName]. After my latest squabble with [FromFrom.GetHerHim], I have discovered a true supporter in [From.GetTitledFirstName]. Our common hatred for [FromFrom.GetFirstName] has really brought us together.;;;;;;;;;;;Îêàçûâàåòñÿ, [FromFrom.GetTitledFirstName] íàñîëèë[FromFrom.GetEndA] íå òîëüêî ìíå. [From.GetTitledFirstName] òîæå [FromFrom.GetHersHis] íåíàâèäèò, è ýòîò ôàêò ïî-íàñòîÿùåìó ñáëèçèë íàñ.;;x
+EVTDESCHF22034;It appears I am not the alone in despising [FromFrom.GetTitledFirstName]. After my latest squabble with [FromFrom.GetHerHim], [From.GetTitledFirstName] informed me that [From.GetSheHe] fully shares my hatred for [FromFrom.GetFirstName] and completely agrees with my actions.;;;;;;;;;;;Îêàçûâàåòñÿ, [FromFrom.GetTitledFirstName] íàñîëèë[FromFrom.GetEndA] íå òîëüêî ìíå. [From.GetTitledFirstName] íåäàâíî ñîîáùèë[From.GetEndA] ìíå, ÷òî ïîëíîñòüþ ðàçäåëÿåò ìîþ íåíàâèñòü è îäîáðÿåò ìîè äåéñòâèÿ.;;x
+EVTDESCHF22035;Taunting a powerful [From.GetTitle] like [From.GetFirstName] is something many other rulers would be scared to do. News of my recent actions have earned me quite a bit of prestige.;;;;;;;;;;;Ìíîãèå ïîáîÿëèñü áû íàñìåõàòüñÿ íàä ñòîëü ìîãóùåñòâåííûì ïðàâèòåëåì, êàê [From.GetTitledFirstName]. Ìîëâà î ìîèõ íåäàâíèõ äåéñòâèÿõ ïðèíåñëà ìíå íåìàëûé ïðåñòèæ.;;x
+EVTDESCHF22036;[FromFrom.GetTitledFirstName] has made no secret of [FromFrom.GetHerHis] hatred towards [From.GetTitledFirstName]. [FromFrom.GetSheHeCap] might be the right person to press my rightful claim against the usurper.;;;;;;;;;;;[FromFrom.GetTitledFirstName] îòêðûòî çàÿâëÿåò, ÷òî [From.GetTitledFirstName] - [FromFrom.GetHersHis] âðàã. [FromFrom.GetSheHeCap] ìîæåò áûòü ïîäõîäÿù[FromFrom.GetEyIm] êàíäèäàò[FromFrom.GetKoyOm], ÷òîáû íàñòàèâàòü íà çàêîííîñòè ìîèõ ïðåòåíçèé ê óçóðïàòîðó.;;x
+EVTDESCHF22037;[From.GetTitledFirstName], a claimant to [FromFrom.GetTitledFirstName]'s throne, has come to my court after my recent show of hostility towards the [FromFrom.GetTitle]. [From.GetSheHeCap] hopes that I will aid [From.GetHerHim] in [From.GetHerHis] struggle against [FromFrom.GetFirstName].;;;;;;;;;;;[FromFrom.GetTitledFirstName] - ìîé âðàã, è ÿ îòêðûòî ïðîäåìîíñòðèðîâàë[Root.GetEndA] ñâîþ âðàæäåáíîñòü ïî îòíîøåíèþ ê íå[FromFrom.GetYMu]. Òàêîå ðåäêî îñòà¸òñÿ íåçàìå÷åííûì, è ñåãîäíÿ [From.GetTitledFirstName], ïðåòåíäåíò íà [FromFrom.GetHersHis] òðîí, ïðèáûë[From.GetEndA] ê ìîåìó äâîðó. [From.GetSheHeCap] íàäååòñÿ, ÷òî ÿ ïîìîãó [From.GetHerHim] â [From.GetHersHis] áîðüáå.;;x
+EVTDESCHF22042;It appears that my actions permanently tarnished [From.GetTitledFirstName]'s reputation, diminishing the prestige of [From.GetHerHis] dynasty.;;;;;;;;;;;[From.GetTitledFirstName], íàâåðíÿêà, óæå çàìåòèë[From.GetEndA], ÷òî ìîè äåéñòâèÿ íå òîëüêî íàâñåãäà çàïÿòíàëè [From.GetHersHis] ðåïóòàöèþ, íî è ñíèçèëè ïðåñòèæ [From.GetHersHis] äèíàñòèè.;;x
+EVTDESCHF22043;[From.GetTitledFirstName]'s slanderous words have irredeemably tarnished my reputation, diminishing the prestige of my noble dynasty.;;;;;;;;;;;[From.GetTitledFirstName] ñâîåé êëåâåòîé íàâñåãäà çàïÿòíàë[From.GetEndA] ìîþ ðåïóòàöèþ, îò ÷åãî ïîñòðàäàë ïðåñòèæ ìîåé áëàãîðîäíîé äèíàñòèè.;;x
+EVTDESCHF22044;It appears that my actions tarnished permanently [From.GetTitledFirstName]'s reputation as a virtuous [From.GetManWoman].;;;;;;;;;;;[From.GetTitledFirstName] íå ìîã[From.GetNoneE] íå çàìåòèòü, ÷òî ìîè äåéñòâèÿ ñêàçàëèñü íà [From.GetHersHis] ðåïóòàöèè äîáðîäåòåëüí[From.GetOyOgo] [From.GetAgedPersonGEN].;;x
+EVTDESCHF22045;[From.GetTitledFirstName]'s slanderous words have irredeemably tarnished my reputation as a virtuous [Root.GetManWoman].;;;;;;;;;;;[From.GetTitledFirstName] îêëåâåòàë[From.GetEndA] ìåíÿ, ÷òî íå ìîãëî íå ñêàçàòüñÿ íà ìîåé ðåïóòàöèè äîáðîäåòåëüí[Root.GetOyOgo] [Root.GetAgedPersonGEN] .;;x
+EVTDESCHF22046;My industry is finally starting to bear fruits. Many in [From.GetTitledFirstName]'s circle of friends and family are starting to understand just how insufferable that [From.GetManWoman] is.;;;;;;;;;;;Ìîè óñèëèÿ íà÷èíàþò ïðèíîñèòü ïëîäû. [From.GetTitledFirstName], äîëæíî áûòü, óæå îáðàòèë[From.GetEndA] âíèìàíèå, êàê ïëîõî ê íå[From.GetYMu] òåïåðü îòíîñÿòñÿ îêðóæàþùèå.;;x
+EVTDESCHF22047;[From.GetTitledFirstName]'s malicious slandering has severely affected my reputation at court. Many of my subjects whisper the most outrageous lies about me, fully believing them to be the truth.;;;;;;;;;;;[From.GetTitledFirstName] ðàñïóñêàåò óæàñíûå ñëóõè îáî ìíå. Ìíîãèå èç ìîèõ ïîääàííûõ òåïåðü ïîâòîðÿþò ýòó âîçìóòèòåëüíóþ ëîæü, ïîëíîñòüþ ñ÷èòàÿ å¸ ïðàâäîé.;;x
+EVTDESCHF22048;My actions have pushed [From.GetTitledFirstName]'s already fragile mind to its limits, apparently. The [From.GetManWoman] has gone completely mad.;;;;;;;;;;;Ïîõîæå, ìîè äåéñòâèÿ ïðèâåëè ê íåîæèäàííîìó ðåçóëüòàòó. [From.GetTitledFirstName] îêîí÷àòåëüíî ñîø[From.GetLaYol] ñ óìà.;;x
+EVTDESCHF22049;Was my life not miserable enough before [From.GetTitledFirstName] decided to torment me? Why does [From.GetSheHe] relish so much in my pain?;;;;;;;;;;;Ìîÿ æèçíü è áåç òîãî áûëà íåñ÷àñòíîé, íî [From.GetTitledFirstName] ðåøèë[From.GetEndA] ïîèçäåâàòüñÿ íàäî ìíîé, ÷òîáû äîáèòü ìåíÿ. Ïî÷åìó [From.GetSheHe] òàê íàñëàæäàåòñÿ ìîåé áîëüþ?!;;x
+EVTDESCHF22051;Thanks to my connections, I was able to get in contact with a blackguard hiding in [antagonize_target.GetTitledFirstName]'s court. The man assures me that, for a reasonable fee, he will be all too willing to undermine [antagonize_target.GetFirstName]'s authority and sow dissent amongst [antagonize_target.GetHerHis] subjects. I need only but decide what I want him to do.;;;;;;;;;;;[From.GetTitledFirstName] íå îñîáî îñòîðîæ[From.GetNaEn] â âûáîðå ñâîåãî îêðóæåíèÿ. Áëàãîäàðÿ ñâÿçÿì ìíå óäàëîñü íàëàäèòü êîíòàêò ñ íåãîäÿåì, ñêðûâàþùèìñÿ ñðåäè [From.GetHersHis] ïðèäâîðíûõ. Ýòîò ÷åëîâåê óâåðÿåò ìåíÿ, ÷òî çà ðàçóìíóþ ïëàòó ãîòîâ ïîäîðâàòü àâòîðèòåò ñâîå[From.GetYGo] [From.GetLordLadyGEN] è ñåÿòü ðàçäîð ñðåäè [From.GetHersHis] ïîääàííûõ. Ìíå ëèøü íóæíî ðåøèòü, êàêèõ èìåííî äåéñòâèé ÿ îò íåãî õî÷ó.;;x
+EVTDESCHF22053;The criminal I hired was successful! He presented me with a believable claim on one of [antagonize_target.GetTitledFirstName]'s lands.;;;;;;;;;;;Íàíÿòûé ìíîþ øïèîí äîáèëñÿ óñïåõà! Îí ïîêàçàë ìíå ïðàâäîïîäîáíûé äîêóìåíò, ñîãëàñíî êîòîðîìó îäèí èç îêðóãîâ, êîòîðûìè âëàäååò [antagonize_target.GetTitledFirstName], äîëæåí ïðèíàäëåæàòü ìíå.;;x
+EVTDESCHF22054;I have just received news that, thanks to the help of a notorious criminal, [From.GetTitledFirstName] has been able to forge a claim against some of my lands.;;;;;;;;;;;ß òîëüêî ÷òî ïîëó÷èë[Root.GetEndA] èçâåñòèå î òîì, ÷òî áëàãîäàðÿ ïîìîùè èçâåñòíîãî ïðåñòóïíèêà, [From.GetTitledFirstName] ñóìåë[From.GetEndA] ñôàáðèêîâàòü ïðåòåíçèè íà íåêîòîðûå èç ìîèõ çåìåëü.;;x
+EVTDESCHF22055;While the criminal was not able to fabricate a direct claim on [antagonize_target.GetTitledFirstName]'s lands, he presented me with something even more interesting: a forged document attesting that one of [antagonize_target.GetFirstName]'s ancestors sworn eternal fealty towards one of my ancestors.;;;;;;;;;;;Õîòÿ ìîé øïèîí è íå ñìîã ñôàáðèêîâàòü ïðåòåíçèè íà çåìëè, êîòîðûìè âëàäååò [antagonize_target.GetTitledFirstName], îí ïðåäîñòàâèë ìíå íå÷òî áîëåå èíòåðåñíîå: ïîääåëüíûé äîêóìåíò, ñîãëàñíî êîòîðîìó [antagonize_target.GetHersHis] ïðåäîê, äàâ êëÿòâó âåðíîñòè ìîåìó ïðåäêó, ôàêòè÷åñêè óñòàíîâèë âàññàëüíûé äîãîâîð.;;x
+EVTDESCHF22056;In a true show of pettiness, [From.GetTitledFirstName] is using a preposterous document to claim that [Root.PrimaryTitle.GetName] should be a vassal of [From.PrimaryTitle.GetName] since time immemorial.;;;;;;;;;;;Â èñòèííîì ïðîÿâëåíèè íèçîñòè, [From.GetTitledFirstName] ñôàáðèêîâàë[From.GetEndA] íåëåïûé äîêóìåíò, óòâåðæäàþùèé, ÷òî ÿ ÿâëÿþñü [From.GetHersHis] âàññàëîì èç-çà êëÿòâû, ÿêîáû äàííîé îäíèì èç ìîèõ ïðåäêîâ.;;x
+EVTDESCHF22057;The blackguard did his job properly. I have just received news that the peasants in [antagonize_target.Capital.GetName] are on the brink of an open revolt.;;;;;;;;;;;Íåãîäÿé ñäåëàë ñâîþ ðàáîòó êàê ñëåäóåò. ß òîëüêî ÷òî ïîëó÷èë[Root.GetEndA] èçâåñòèå î òîì, ÷òî [antagonize_target.Capital.County.GetAdjective]ñêèå æèòåëè íàõîäÿòñÿ íà ãðàíè îòêðûòîãî âîññòàíèÿ.;;x
+EVTDESCHF22058;I am not sure how, but [From.GetTitledFirstName] has managed to turn my own subjects against me! The people of [Root.Capital.GetName] are clamoring to have me deposed!;;;;;;;;;;;Íå çíàþ, êàê, íî [From.GetTitledFirstName] ñóìåë[From.GetEndA] íàñòðîèòü ìîèõ ïîääàííûõ ïðîòèâ ìåíÿ! [Root.Capital.County.GetAdjective]ñêèå æèòåëè òðåáóþò ìîåãî ñâåðæåíèÿ!;;x
+EVTDESCHF22059;The blackguard did not disappoint. Preying on the resentment of the common people for [antagonize_target.GetTitledFirstName], he was able to establish a cancerous criminal network within [antagonize_target.Capital.GetName]'s very walls.;;;;;;;;;;;Øïèîí ìåíÿ íå ïîäâ¸ë. Ïîëüçóÿñü íåäîâîëüñòâîì ïðîñòûõ ëþäåé, êîòîðûå ñ÷èòàþò, ÷òî âî âñåõ èõ áåäàõ âèíîâàò[antagonize_target.GetEndA] ëè÷íî [antagonize_target.GetTitledFirstName], îí ñìîã ñîçäàòü îïàñíóþ ïðåñòóïíóþ ñåòü â [antagonize_target.Capital.County.GetAdjective]ñêèõ çåìëÿõ.;;x
+EVTDESCHF22060;Enlisting the help of a notorious blackguard, [From.GetTitledFirstName] has been able to sow chaos and dissent amongst my own subjects. According to my sources, [From.GetSheHe] is responsible for the intricate criminal guild that has recently taken root in [Root.Capital.GetName].;;;;;;;;;;;Çàðó÷èâøèñü ïîìîùüþ ïå÷àëüíî èçâåñòíîãî ìåðçàâöà, [From.GetTitledFirstName] ñóìåë[From.GetEndA] ïîñåÿòü õàîñ è ðàçíîãëàñèÿ ñðåäè ìîèõ ïîääàííûõ. Ñîãëàñíî ìîèì èñòî÷íèêàì, [From.GetSheHe] íåñ¸ò îòâåòñòâåííîñòü çà ïðåñòóïíóþ ãèëüäèþ, íåäàâíî ïóñòèâøóþ êîðíè â [Root.Capital.County.GetAdjective]ñêèõ çåìëÿõ.;;x
+EVTDESCHF22061;My machinations are starting to bear their fruits. The man I hired has pitted most of [antagonize_target.GetTitledFirstName]'s vassals against their once-beloved liege.;;;;;;;;;;;Ìîè ìàõèíàöèè íà÷èíàþò ïðèíîñèòü ñâîè ïëîäû. Áëàãîäàðÿ ìîåìó ÷åëîâåêó, [antagonize_target.GetTitledFirstName] áóäåò èìåòü äåëî ñ âðàæäåáíîñòüþ ñâîèõ âàññàëîâ, áîëüøèíñòâî èç êîòîðûõ òåïåðü íàñòðîåíû ïðîòèâ í[antagonize_target.GetHersHis].;;x
+EVTDESCHF22062;[From.GetTitledFirstName]'s machinations have antagonized me with most of my vassals. I am unsure how, but that [From.GetManWoman] has managed to convince a lot of my subjects that I am not deserving of their trust and loyalty.;;;;;;;;;;;[From.GetTitledFirstName] ïîññîðèë[From.GetEndA] ìåíÿ ñ áîëüøèíñòâîì ìîèõ âàññàëîâ. ß íå çíàþ, êàê, íî [From.GetSheHe] ñóìåë[From.GetEndA] óáåäèòü ìíîãèõ èç íèõ, ÷òî ÿ íå çàñëóæèâàþ äîâåðèÿ è ëîÿëüíîñòè.;;x
+EVTDESCHF22063;The man I hired did not disappoint me. He managed to sow the seeds of dissent within [antagonize_target.GetTitledFirstName]'s very family. Many of [antagonize_target.GetHerHis] kinsmen despite [antagonize_target.GetHerHim] now.;;;;;;;;;;;Íåãîäÿé, êîòîðîãî ÿ íàíÿë[Root.GetEndA], íå ðàçî÷àðîâàë ìåíÿ. [antagonize_target.GetTitledFirstName] íå ìîã[antagonize_target.GetNoneE] íå çàìåòèòü, ÷òî ìíîãèå èç [antagonize_target.GetHersHis] ðîäñòâåííèêîâ òåïåðü îòíîñÿòñÿ ê í[antagonize_target.GetHerHim] ñ ïðåçðåíèåì.;;x
+EVTDESCHF22064;In some way, [From.GetTitledFirstName] has been able to estrange me from my own family. [From.GetHerHisCap] machinations have caused many of my relatives to distance themselves from me out of the misplaced fear that associating with me will stain their reputation.;;;;;;;;;;;Êàêèì-òî îáðàçîì, [From.GetTitledFirstName] ñìîã[From.GetNoneE] îòäàëèòü ìåíÿ îò ìîåé æå ñåìüè. [From.GetHersHisCap] ìàõèíàöèè çàñòàâèëè ìíîãèõ èç ìîèõ ðîäñòâåííèêîâ îòäàëèòüñÿ îò ìåíÿ èç-çà íåóìåñòíîãî ñòðàõà, ÷òî îáùåíèå ñî ìíîé çàïÿòíàåò èõ ðåïóòàöèþ.;;x
+EVTDESCHF22065;The blackguard was successful. He has managed to pit [antagonize_target.GetTitledFirstName]'s own spouse against [antagonize_target.GetHerHim]. I have received credible reports about a falling out between the two rulers.;;;;;;;;;;;Øïèîí äîáèëñÿ óñïåõà. [antagonize_target.GetTitledFirstName] ïîññîðè[antagonize_target.GetLasLsya] ñî ñâî[antagonize_target.Spouse.GetEyIm] [antagonize_target.Spouse.GetHusbandWifeINS]. ß òîëüêî ÷òî ïîëó÷èë[Root.GetEndA] äîñòîâåðíûå ñîîáùåíèÿ îá ýòîì.;;x
+EVTDESCHF22066;I don't know how, but [From.GetTitledFirstName] managed to pit my very [Root.Spouse.GetRootRelation] against me! Someone has been feeding [Root.Spouse.GetHerHim] all sorts of malicious rumors about my alleged infidelity.;;;;;;;;;;;Íå çíàþ êàê, íî [From.GetTitledFirstName] ñóìåë[From.GetEndA] íàñòðîèòü ìî[Root.Spouse.GetYuEgo] [Root.Spouse.GetHusbandWifeACC] ïðîòèâ ìåíÿ! Êòî-òî ñêàðìëèâàåò [Root.Spouse.GetHerHim] ãðÿçíûå ñïëåòíè î ìîåé ïðåäïîëàãàåìîé èçìåíå.;;x
+EVTDESCHF22067;It appears [From.GetTitledFirstName] was trying to sow dissent within my realm using a notorious criminal and forger. Luckily, my network of spies has been able to apprehend the scoundrel and send him to my dungeons, where he belongs. After a short interrogation, the man has confessed the name of his employer.;;;;;;;;;;;Ïîõîæå, [From.GetTitledFirstName] ïûòà[From.GetLasLsya] ïîñåÿòü ðàçäîð â ìîèõ âëàäåíèÿõ, ïîëüçóÿñü óñëóãàìè ïå÷àëüíî èçâåñòíîãî íåãîäÿÿ. Ê ñ÷àñòüþ, ìîÿ ñåòü øïèîíîâ ñìîãëà çàäåðæàòü ïðåñòóïíèêà è îòïðàâèòü â òåìíèöó, ãäå åìó è ìåñòî. Ïîñëå íåïðîäîëæèòåëüíîãî äîïðîñà ìóæ÷èíà íàçâàë èìÿ ñâîåãî íàíèìàòåëÿ.;;x
+EVTDESCHF22068;Unfortunately, it appears the blackguard was captured. Put under torture, he revealed the name of his employer to [From.GetTitledFirstName], who has now made the entire plot public.;;;;;;;;;;;Ê ñîæàëåíèþ, ìîé øïèîí áûë ñõâà÷åí. Ïîä ïûòêàìè îí ðàñêðûë ìî¸ èìÿ, ïðåäàâ îãëàñêå âåñü çàãîâîð. Òåïåðü [From.GetTitledFirstName] â êóðñå ìîèõ êîçíåé.;;x
+EVTDESCHF22070;[antagonize_target.GetTitledFirstName] is notorious for being a slave to [antagonize_target.GetHerHis] passion. I am sure I can exploit [antagonize_target.GetHerHis] unsavory lust for flesh to my advantage.;;;;;;;;;;;[From.GetTitledFirstName] ïå÷àëüíî èçâåñò[From.GetNaEn] êàê ðàá[From.GetEndA] ñîáñòâåííûõ ñòðàñòåé. ß óâåðåí[Root.GetEndA], ÷òî ñìîãó èñïîëüçîâàòü [From.GetHersHis] ïîõîòëèâóþ íàòóðó â ñâîèõ èíòåðåñàõ.;;x
+EVTDESCHF22072;It seems my plan did not take into account [From.GetTitledFirstName]'s paranoid disposition. [From.GetSheHeCap] flatly refused my envoy's advances.;;;;;;;;;;;Ïîõîæå, ìîé ïëàí íå ó÷èòûâàë, êàêèì ïàðàíîèêîì [From.GetTitledFirstName] ìîæåò áûòü. [From.GetSheHeCap] êàòåãîðè÷åñêè îòâåðã[From.GetNonE] óõàæèâàíèÿ ìîåãî ïîñëàííèêà.;;x
+EVTDESCHF22074;The plan worked exactly as I hoped. My envoy easily seduced [From.GetTitledFirstName], infecting [From.GetHerHim] with a terrible disease. Perhaps now [From.GetFirstName] will understand the error of [From.GetHerHis] ways.;;;;;;;;;;;Ïëàí ñðàáîòàë èìåííî òàê, êàê ÿ íàäåÿ[Root.GetLasLsya]. [From.GetTitledFirstName] êëþíóë[From.GetEndA] íà ìîþ íàæèâêó è çàðàçè[From.GetLasLsya] ëþáîâíîé áîëåçíüþ. Âîçìîæíî, òåïåðü [From.GetFirstName] ïðèçíàåò ïîðî÷íîñòü ñâîèõ ïðèâû÷åê.;;x
+EVTDESCHF22076;[antagonize_target.GetTitledFirstName] is notorious for being a slave to [antagonize_target.GetHerHis] hunger. I am sure I can exploit [antagonize_target.GetHerHis] gluttony to my advantage.;;;;;;;;;;;[From.GetTitledFirstName] ïå÷àëüíî èçâåñò[From.GetNaEn] ñâîèì îáæîðñòâîì. ß óâåðåí[Root.GetEndA], ÷òî ñìîãó èñïîëüçîâàòü [From.GetHersHis] ñëàáîñòü â ñîáñòâåííûõ èíòåðåñàõ.;;x
+EVTDESCHF22078;Perhaps I worded my message to [From.GetTitledFirstName] poorly. [From.GetSheHeCap] was angered by my gift for some reason and decided to refuse it.;;;;;;;;;;;Âîçìîæíî, ÿ íåìíîãî ïåðåãíóë ïàëêó, êîãäà ôîðìóëèðîâàë[Root.GetEndA] ñâî¸ ïîñëàíèå, ïðèëàãàåìîå ê ïîäàðêó. [From.GetTitledFirstName] áûë[From.GetEndA] âîçìóùåí[From.GetEndA] ìîèì òîíîì è îòêàçà[From.GetLasLsya] ïðèíÿòü óãîùåíèå.;;x
+EVTDESCHF22080;Just as expected, [From.GetTitledFirstName] could not resist gorging upon my gift. According to the latest rumors, [From.GetSheHe] now lays in [From.GetHerHis] bed, stricken by a grievous sickness.;;;;;;;;;;;"Êàê è îæèäàëîñü, [From.GetTitledFirstName] íå ñìîã[From.GetNoneE] óäåðæàòüñÿ îò òîãî, ÷òîáû íå ïîëàêîìèòüñÿ ìîèì ïîäàðêîì. Ñîãëàñíî ïîñëåäíèì ñëóõàì, [From.GetSheHe] ëåæèò â ñâîåé ïîñòåëè, ïîðàæåíí[From.GetAyaYy] ""òÿæ¸ëûì íåäóãîì"".";;x
+EVTDESCHF22082;[antagonize_target.GetTitledFirstName] is notorious for [antagonize_target.GetHerHis] greed. I am sure I can exploit [antagonize_target.GetHerHis] love for money to my advantage in some way.;;;;;;;;;;;[From.GetTitledFirstName] ïå÷àëüíî çíàìåíèò[From.GetEndA] ñâîåé æàäíîñòüþ. ß óâåðåí[Root.GetEndA], ÷òî ñìîãó èñïîëüçîâàòü [From.GetHersHis] ñòðàñòü ê äåíüãàì â ñâîèõ èíòåðåñàõ.;;x
+EVTDESCHF22084;It would appear [From.GetTitledFirstName]'s humility has gotten in the way of my plan. Word has it that [From.GetFirstName] has locked the forged artifact I gifted [From.GetHerHim] away from sight, claiming that [From.GetSheHe] is unworthy of carrying it.;;;;;;;;;;;Õîäÿò ñëóõè, ÷òî [From.GetTitledFirstName] óáðàë[From.GetEndA] ïîääåëüíûé àðòåôàêò, êîòîðûé ÿ ïîäàðèë[Root.GetEndA] [From.GetHerHim], ïîäàëüøå îò ãëàç, óòâåðæäàÿ, ÷òî [From.GetSheHe] íåäîñòîèí[From.GetEndA] íîñèòü åãî. Ïîõîæå, [From.GetHersHis] ñêðîìíîñòü ïîìåøàëà ìîèì ïëàíàì.;;x
+EVTDESCHF22086;Just as I hoped, [From.GetTitledFirstName] accepted my gift and could not resist flaunting it to [From.GetHerHis] friends and subjects. I have just received news that [From.GetSheHe] put [From.GetHerselfHimself] to shame in front of a foreign envoy a few days ago, when the forgery was revealed accidentally.;;;;;;;;;;;Êàê ÿ è íàäåÿ[Root.GetLasLsya], [From.GetTitledFirstName] ïðèíÿë[From.GetEndA] ìîé ïîäàðîê è íå ñìîã[From.GetNoneE] óäåðæàòüñÿ îò òîãî, ÷òîáû âûñòàâèòü åãî íàïîêàç ïåðåä ñâîèìè äðóçüÿìè è ïîääàííûìè. Ìíå òîëüêî ÷òî ñîîáùèëè, ÷òî [From.GetSheHe] îïîçîðèë[From.GetLasLsya] ïåðåä âûñîêîïîñòàâëåííûì èíîñòðàíöåì íåñêîëüêî äíåé íàçàä, êîãäà îáíàðóæèëîñü, ÷òî ýòî ïîääåëêà.;;x
+EVTDESCHF22088;[antagonize_target.GetTitledFirstName] is notorious for [antagonize_target.GetHerHis] slothful, apathetic attitude. I am sure I can exploit [antagonize_target.GetHerHis] distaste for all laborious tasks to my advantage in some way.;;;;;;;;;;;[From.GetTitledFirstName] èçâåñò[From.GetNaEn] ñâîèì ëåíèâûì è àïàòè÷íûì îòíîøåíèåì ê æèçíè. ß óâåðåí[Root.GetEndA], ÷òî ñìîãó èñïîëüçîâàòü [From.GetHersHis] îòâðàùåíèå ê ëþáîìó òðóäó â ñâîèõ èíòåðåñàõ.;;x
+EVTDESCHF22090;It appears that [From.GetTitledFirstName] did not care enough about the legitimacy of [From.GetHerHis] borders in order to fall from my falsified report. [From.GetHerHisCap] inconstant nature must be the cause of this blunder.;;;;;;;;;;;Ïîõîæå, ÷òî [From.GetTitledFirstName] íåäîñòàòî÷íî çàáîòèòñÿ î ëåãèòèìíîñòè ñâîèõ ãðàíèö è ïîýòîìó îòêàçà[From.GetLasLsya] ïðîâåðÿòü äîñòîâåðíîñòü ìîåãî îò÷¸òà. Íåïîñòîÿíñòâî [From.GetHersHis] õàðàêòåðà, äîëæíî áûòü, ñòàëî ïðè÷èíîé ýòîé îøèáêè.;;x
+EVTDESCHF22092;Just as I hoped, [From.GetTitledFirstName] spent a lot of time and resources only to discover that the report I provided [From.GetHerHim] with was false.;;;;;;;;;;;Êàê ÿ è íàäåÿ[Root.GetLasLsya], [From.GetTitledFirstName] ïîòðàòèë[From.GetEndA] ìíîãî âðåìåíè è ðåñóðñîâ òîëüêî äëÿ òîãî, ÷òîáû îáíàðóæèòü, ÷òî îò÷¸ò, êîòîðûé ÿ ïðåäîñòàâèë[Root.GetEndA] [From.GetHerHim], áûë ëîæíûì.;;x
+EVTDESCHF22094;[antagonize_target.GetTitledFirstName] is notorious for [antagonize_target.GetHerHis] short temper. I am sure I can exploit [antagonize_target.GetHerHis] lack of patience to my advantage in some way.;;;;;;;;;;;[From.GetTitledFirstName] èçâåñò[From.GetNaEn] ñâîèì âñïûëü÷èâûì õàðàêòåðîì. ß óâåðåí[Root.GetEndA], ÷òî ìîãó êàêèì-òî îáðàçîì èñïîëüçîâàòü [From.GetHersHis] íåäîñòàòîê òåðïåíèÿ â ñâîèõ èíòåðåñàõ.;;x
+EVTDESCHF22096;My attempt to have [From.GetTitledFirstName] humiliate [From.GetHerselfHimself] did not succeed. According to reports, [From.GetSheHe] forgave the people I hired to disrupt [From.GetHerHis] parade without even trying to pursue them after their infraction.;;;;;;;;;;;Ñîãëàñíî äîíåñåíèÿì, [From.GetTitledFirstName] ïðîñòèë[From.GetEndA] òåõ, êîãî ÿ íàíÿë[Root.GetEndA] äëÿ ñðûâà [From.GetHersHis] ïàðàäà, è äàæå íå ïûòà[From.GetLasLsya] ïðåñëåäîâàòü èõ. Ìîÿ ïîïûòêà çàñòàâèòü [From.GetHersHis] óíèçèòü ñåáÿ íå óâåí÷àëàñü óñïåõîì.;;x
+EVTDESCHF22098;Just as I hoped, [From.GetTitledFirstName] made a fool of [From.GetHerselfHimself], running around [From.Capital.GetName] smeared in mud to try and apprehend the people I hired to harass [From.GetHerHim].;;;;;;;;;;;Êàê ÿ è íàäåÿ[Root.GetLasLsya], [From.GetTitledFirstName] âûñòàâèë[From.GetEndA] ñåáÿ èäèîò[From.GetKoyOm], áåãàÿ ïî [From.Capital.County.GetAdjective]ñêèì óëèöàì, âûìàçàíí[From.GetOyYm] â ãðÿçè, ÷òîáû ïîïûòàòüñÿ ïîéìàòü äåòèøåê, êîòîðûõ ÿ íàíÿë[Root.GetEndA] äëÿ ýòîé àâàíòþðû.;;x
+EVTDESCHF22100;[antagonize_target.GetTitledFirstName] is notorious for [antagonize_target.GetHerHis] spiteful and opportunist nature. I am sure I can exploit [antagonize_target.GetHerHis] insatiable envy to my advantage in some way.;;;;;;;;;;;[From.GetTitledFirstName] ïå÷àëüíî èçâåñò[From.GetNaEn] ñâîåé çëîáíîé è áåñïðèíöèïíîé íàòóðîé. ß äóìàþ, ÷òî ìîãó êàêèì-òî îáðàçîì èñïîëüçîâàòü [From.GetHersHis] íåíàñûòíóþ çàâèñòü â ñâîèõ èíòåðåñàõ.;;x
+EVTDESCHF22102;[From.GetTitledFirstName] was not interested in the false claim I provided [From.GetHerHim]. Perhaps [From.GetSheHe] merely lacks the ambition to find my offer palatable.;;;;;;;;;;;[From.GetTitledFirstName] íå çàèíòåðåñîâàí[From.GetEndA] â ëîæíîé ïðåòåíçèè, êîòîðóþ ÿ [From.GetHerHim] ïðåäîñòàâèë[Root.GetEndA]. Âîçìîæíî, [From.GetHerHim] ïðîñòî íå õâàòàåò àìáèöèîçíîñòè, ÷òîáû íàéòè ìî¸ ïðåäëîæåíèå ïðèåìëåìûì.;;x
+EVTDESCHF22104;[From.GetTitledFirstName] was just about to start a war over my false claim before [From.GetSheHe] finally realized how useless the document I provided [From.GetHerHim] with was. Now [From.GetSheHe] is boiling in [From.GetHerHis] own bile, all [From.GetHerHis] dreams of a quick conquest squashed.;;;;;;;;;;;[From.GetTitledFirstName] óæå ñîáèðà[From.GetLasLsya] íà÷àòü âîéíó èç-çà ìîåãî ëîæíîãî ïðèòÿçàíèÿ, êîãäà íàêîíåö ïîíÿë[From.GetEndA], íàñêîëüêî áåñïîëåçíûì áûë äîêóìåíò, êîòîðûé ÿ [From.GetHerHim] ïðåäîñòàâèë[Root.GetEndA]. [From.GetSheHeCap] âíå ñåáÿ îò çëîñòè, [From.GetHersHis] ìå÷òû î ë¸ãêèõ çàâîåâàíèÿõ îêàçàëèñü ïóñòûøêîé.;;x
+EVTDESCHF22106;[antagonize_target.GetTitledFirstName] is notorious for [antagonize_target.GetHerHis] pride. I am sure I can exploit [antagonize_target.GetHerHis] vain obsession with [antagonize_target.GetHerselfHimself] to my advantage in some way.;;;;;;;;;;;[From.GetTitledFirstName] ïå÷àëüíî èçâåñò[From.GetNaEn] ñâîåé ãîðäûíåé. ß óâåðåí[Root.GetEndA], ÷òî ìîãó êàê-òî èñïîëüçîâàòü [From.GetHersHis] îäåðæèìîñòü ñîáñòâåííûì òùåñëàâèåì â ñâîèõ èíòåðåñàõ.;;x
+EVTDESCHF22108;Unfortunately, although [From.GetTitledFirstName] accepted my gift, [From.GetHerHis] shy disposition prevented [From.GetHerHim] from putting the portrait on plain sight, where its true meaning would have been apparent.;;;;;;;;;;;Ê ñîæàëåíèþ, õîòÿ [From.GetTitledFirstName] è ïðèíÿë[From.GetEndA] ìîé ïîäàðîê, [From.GetHersHis] çàñòåí÷èâûé íðàâ íå ïîçâîëèë [From.GetHerHim] ïîâåñèòü ïîðòðåò íà âèäíîå ìåñòî, ãäå åãî èñòèííîå çíà÷åíèå ñòàëî áû î÷åâèäíûì.;;x
+EVTDESCHF22110;I have just received some hilarious news from [From.GetTitledFirstName]'s court. It appears the painting I gave [From.GetHerHim] has started to rot, both twisting the features of its subject into a ridiculous, grotesque mockery and filling [From.GetFirstName]'s palace with an unbearable stench.;;;;;;;;;;;ß òîëüêî ÷òî ïîëó÷èë[Root.GetEndA] âåñ¸ëûå èçâåñòèÿ. [From.GetTitledFirstName] íå íà øóòêó ðàçîçëè[From.GetLasLsya]. Êàðòèíà, êîòîðóþ ÿ ïîäàðèë[Root.GetEndA] [From.GetHerHim], íà÷àëà ãíèòü, îäíîâðåìåííî èñêàæàÿ ÷åðòû ëèöà, èçîáðàæ¸ííîãî íà íåé â íåëåïóþ, ãðîòåñêíóþ íàñìåøêó è íàïîëíÿÿ [From.GetHersHis] ãëàâíûé çàë íåâûíîñèìûì çëîâîíèåì.;;x
+EVTDESCHF22111;[From.GetTitledFirstName]'s response to my attempts to slander [From.GetHerHim] has been extremely polite and reasonable, so much so that it has put me in a difficult position. It would not be appropriate for me to continue harassing [From.GetHerHim] after such a kind and thoughtful response...;;;;;;;;;;;[From.GetTitledFirstName] îòâåòèë[From.GetEndA] íà ìîè ïîïûòêè îêëåâåòàòü [From.GetHersHis] ÷ðåçâû÷àéíî âåæëèâî è ðàçóìíî, íàñòîëüêî, ÷òî ïîñòàâèë ìåíÿ â çàòðóäíèòåëüíîå ïîëîæåíèå. Âåðîÿòíî, ñ ìîåé ñòîðîíû áûëî áû íåóìåñòíî ïðîäîëæàòü ïðåñëåäîâàòü [From.GetHersHis] ïîñëå òàêîãî äîáðîãî è âäóì÷èâîãî îòâåòà.;;x
+EVTDESCHF22112;It appears my call for peace and unity fell on deaf ears. [From.GetTitledFirstName] is too inconstant and arbitrary to care for my words, even when it comes at the expenses of [From.GetHerHis] own reputation.;;;;;;;;;;;Ïîõîæå, ìîé ïðèçûâ ê ìèðó è åäèíñòâó îñòàëñÿ áåç âíèìàíèÿ. [From.GetTitledFirstName] ñëèøêîì íåïîñòîÿí[From.GetNaEn] è ñâîåâîë[From.GetSoftNaEn], ÷òîáû çàáîòèòüñÿ î ñëîâàõ äàæå â óùåðá ñâîåé ðåïóòàöèè.;;x
+EVTDESCHF22113;Pestering [From.GetTitledFirstName] has been quite the entertaining activity. Reveling over [From.GetHerHis] misery has allowed me to get over mine.;;;;;;;;;;;Äîíèìàòü òàê[From.GetUyuOgo] [From.GetAgedPersonACC], êàê [From.GetTitledFirstName] - äîâîëüíî óâëåêàòåëüíîå çàíÿòèå. Íàñëàæäåíèå [From.GetHersHis] ñòðàäàíèÿìè ïîçâîëèëî ìíå ïðåîäîëåòü ñâîè ñîáñòâåííûå.;;x
+EVTDESCHF22114;Pestering [From.GetTitledFirstName] has been quite the entertaining activity. Reveling over [From.GetHerHis] misery has given me much needed relief from my other responsibilities.;;;;;;;;;;;Äîíèìàòü òàê[From.GetUyuOgo] [From.GetAgedPersonACC], êàê [From.GetTitledFirstName] - äîâîëüíî óâëåêàòåëüíîå çàíÿòèå. Íàñëàæäåíèå [From.GetHersHis] ñòðàäàíèÿìè äàëî ìíå íåîáõîäèìûé îòäûõ îò äðóãèõ îáÿçàííîñòåé.;;x
+EVTDESCHF22115;Pestering [From.GetTitledFirstName] has been quite the entertaining activity. As long as I can torment [From.GetHerHim], I can keep some my more unsavory inclinations in check during my everyday duties.;;;;;;;;;;;Äîíèìàòü òàê[From.GetUyuOgo] [From.GetAgedPersonACC], êàê [From.GetTitledFirstName] - äîâîëüíî óâëåêàòåëüíîå çàíÿòèå. Ïîêà ÿ ìîãó [From.GetHersHis] ìó÷èòü, ìíå óäà¸òñÿ ñäåðæèâàòü íåêîòîðûå ñâîè äóðíûå íàêëîííîñòè ïðè âûïîëíåíèè ïîâñåäíåâíûõ äåë.;;x
+EVTDESCHF22116;As entertaining as tormenting [From.GetTitledFirstName] is, having to spread rumors and weave plots around [From.GetHerHim] has also been an intriguing learning experience for me.;;;;;;;;;;;Êàê áû íè áûëî èíòåðåñíî ìó÷èòü òàê[From.GetUyuOgo] [From.GetAgedPersonACC], êàê [From.GetTitledFirstName], íåîáõîäèìîñòü ðàñïðîñòðàíÿòü ñëóõè è ïëåñòè èíòðèãè âîêðóã í[From.GetHersHis] òàêæå ñòàëà äëÿ ìåíÿ èíòðèãóþùèì îïûòîì.;;x
+EVTDESCHF22118;Seeing [From.GetTitledFirstName] squirm and yell at my covert efforts to antagonize [From.GetHerHim] has made me realize how much easier it is to ruin the reputation of an impatient [From.GetManWoman].;;;;;;;;;;;Íàáëþäàÿ, êàê [From.GetTitledFirstName] êîð÷èòñÿ è êðè÷èò â îòâåò íà ìîè òàéíûå ïîïûòêè [From.GetHersHis] ðàçîçëèòü, ÿ ïîíÿë[Root.GetEndA], íàñêîëüêî ëåãêî èñïîðòèòü ðåïóòàöèþ íåòåðïåëèâîãî [From.GetMalePersonGEN].;;x
+EVTDESCHF22121;I have decided that it might be profitable to take some time and resources and try to seriously hurt my sworn enemy. \n[antagonize_target.GetTitledFirstName] is an unbearable pestilence upon this world, and I will not rest until I will have made [antagonize_target.GetHerHis] life a living hell.;;;;;;;;;;;ß ðåøèë[From.GetEndA], ÷òî áûëî áû âûãîäíî ïîòðàòèòü íåìíîãî âðåìåíè è ðåñóðñîâ è ïîïûòàòüñÿ ñåðü¸çíî íàâðåäèòü ìîåìó çàêëÿòîìó âðàãó. \n[From.GetTitledFirstName] - íåâûíîñèìàÿ ÷óìà äëÿ ýòîãî ìèðà, è ÿ íå óñïîêîþñü, ïîêà íå ïðåâðàùó [From.GetHerHis] æèçíü â ñóùèé àä.;;x
+EVTDESCHF22124;[From.GetTitledFirstName] is at it again, dragging [From.GetHerHis] own name through the mud as long as [From.GetSheHe] is able of besmirching mine in the process. [From.GetSheHeCap] is spreading the most disgusting rumors about me, trying to pit my own subjects against me.;;;;;;;;;;;[From.GetTitledFirstName] ñíîâà âçÿ[From.GetLasLsya] çà ñâî¸, âîëî÷à ñîáñòâåííîå èìÿ â ãðÿçè äî òåõ ïîð, ïîêà [From.GetSheHe] ñïîñîá[From.GetNaEn] çàïÿòíàòü ìî¸ èìÿ â ïðîöåññå ýòîãî. [From.GetSheHeCap] ðàñïðîñòðàíÿåò ñàìûå îòâðàòèòåëüíûå ñëóõè îáî ìíå, ïûòàÿñü íàñòðîèòü ïðîòèâ ìåíÿ ìîèõ æå ñîáñòâåííûõ ïîääàííûõ.;;x
+EVTDESCHF22126;[From.GetTitledFirstName] is unbearable. [From.GetSheHeCap] wastes no occasion to mock and berate me, insulting my dynasty and my friends without pause. I do not know how much longer I will be able to endure this relentless barrage of abuse.;;;;;;;;;;;[From.GetTitledFirstName] íåâûíîñèì[From.GetEndA]. [From.GetSheHeCap] íå óïóñêàåò ñëó÷àÿ ïîèçäåâàòüñÿ è îáðóãàòü ìåíÿ, áåç ïåðåðûâà îñêîðáëÿÿ ìîþ äèíàñòèþ è äðóçåé. ß íå çíàþ, ñêîëüêî åù¸ ñìîãó âûäåðæàòü ýòîò íåïðåêðàùàþùèéñÿ øêâàë îñêîðáëåíèé.;;x
+EVTDESCHF22128;Following my actions, [From.GetTitledFirstName] has started spreading false reports of [From.GetHerHis] own. It appears that the efficacy of my own network of informants has been compromised, at least for the time being...;;;;;;;;;;;Ïîñëå ìîèõ äåéñòâèé [From.GetTitledFirstName] íà÷àë[From.GetEndA] ðàñïðîñòðàíÿòü ëîæíûå ñîîáùåíèÿ î ñåáå æå. Ïîõîæå, ÷òî ýôôåêòèâíîñòü ìîåé ñîáñòâåííîé ñåòè èíôîðìàòîðîâ áûëà ïîäîðâàíà, ïî êðàéíåé ìåðå, íà äàííûé ìîìåíò...;;x
+EVTDESCHF22129;[From.GetTitledFirstName] has unleashed [From.GetHerHis] spies throughout [Root.PrimaryTitle.GetName]. These thugs have been spreading false news to my own informants, bringing my spy network in disarray. It has become increasingly harder to trust anything these days...;;;;;;;;;;;[From.GetTitledFirstName] îòïðàâèë[From.GetEndA] ñâîèõ øïèîíîâ â [Root.PrimaryTitle.GetName]. Ýòè ãîëîâîðåçû ðàñïðîñòðàíÿëè ëîæíûå ñâåäåíèÿ ñðåäè ìîèõ ñîáñòâåííûõ èíôîðìàòîðîâ, âíîñÿ áåñïîðÿäîê â ìîþ øïèîíñêóþ ñåòü. Â íàøè äíè ñòàíîâèòñÿ âñ¸ òðóäíåå äîâåðÿòü ÷åìó-ëèáî...;;x
+EVTDESCHF22131;[From.GetTitledFirstName] has entirely misunderstood my intent! Rather than being upset by my slanderous allegations, [From.GetSheHe] praised me for my refined vocabulary.;;;;;;;;;;;[From.GetTitledFirstName] ñîâåðøåííî íåïðàâèëüíî ïîíÿë[From.GetEndA] ìîè íàìåðåíèÿ! Âìåñòî òîãî, ÷òîáû ðàññòðàèâàòüñÿ èç-çà ìîèõ îáâèíåíèé, [From.GetSheHe] ïîõâàëèë[From.GetEndA] ìåíÿ çà èçûñêàííûé ñëîâàðíûé çàïàñ.;;x
+EVTDESCHF22132;[From.GetFirstName] was ecstatic hearing my praise and assured me that [From.GetSheHe] has a lot more interesting names to call me.;;;;;;;;;;;[From.GetFirstName] áûë[From.GetEndA] â âîñòîðãå, óñëûøàâ ìîþ ïîõâàëó, è çàâåðèë[From.GetEndA], ÷òî ó [From.GetHersHis] äëÿ ìåíÿ åñòü åù¸ ìíîãî èíòåðåñíûõ ïðîçâèù.;;x
+EVTDESCHF22133;[From.GetTitledFirstName] has entirely misunderstood my intent! Rather than being upset by my slanderous allegations, [From.GetSheHe] praised me for my honesty, and even decided to knight me!;;;;;;;;;;;[From.GetTitledFirstName] ñîâåðøåííî íåïðàâèëüíî ïîíÿë[From.GetEndA] ìîè íàìåðåíèÿ! Âìåñòî òîãî, ÷òîáû ðàññòðîèòüñÿ èç-çà ìîèõ îáâèíåíèé, [From.GetSheHe] ïîõâàëèë[From.GetEndA] ìåíÿ çà ÷åñòíîñòü è äàæå ðåøèë[From.GetEndA] ïîñâÿòèòü â ðûöàðè!;;x
+EVTDESCHFP22006_A;"[antagonize_target.GetTitledFirstName] has secluded [antagonize_target.GetHerselfHimself] with the rest of the court in [antagonize_target.Location.GetName], presumably biding their time while disease lingers in the countryside of the realm. ""It will not be possible to reach [antagonize_target.GetHerHim] for some time"", my council informs me.";;;;;;;;;;;[antagonize_target.GetTitledFirstName] èçîëèðîâàë[antagonize_target.GetEndA] ñåáÿ è âåñü ñâîé äâîð â [antagonize_target.Location.County.GetAdjective]ñêîì [antagonize_target.Location.GetBuildingPREP], ïðåäóñìîòðèòåëüíî çàùèòèâøèñü îò ýïèäåìèè, ïîðàçèâøåé ñòðàíó.\n— Ìû íå ñìîæåì ñâÿçàòüñÿ ñ í[antagonize_target.GetEyIm] â áëèæàéøåå âðåìÿ, [Root.PrimaryTitle.GetFOA], — ñîîáùèë ìíå îäèí èç ñîâåòíèêîâ.;;x
+EVTDESCHFP22006_A_B;As both [antagonize_target.GetTitledFirstName] and I are both currently weathering the disease ravaging the countryside outside, my efforts to antagonize [antagonize_target.GetHerHim] will have to be put on hold...;;;;;;;;;;;ß è [antagonize_target.GetTitledFirstName], ìû îá[antagonize_target.GetRootEndEA] â íàñòîÿùåå âðåìÿ ñïàñàåìñÿ îò ýïèäåìèè è èçîëèðîâàëè ñåáÿ îò âíåøíåãî ìèðà, ïîýòîìó ìîè óñèëèÿ ïî óõóäøåíèþ îòíîøåíèé ñ í[antagonize_target.GetEyIm] ëèøåíû ñìûñëà. Âîçìîæíî, ÿ ñìîãó ñäåëàòü ýòî ïîçæå.;;x
+EVTDESCHFP22006_B;As I have gone into seclusion with my court, my efforts to antagonize [antagonize_target.GetTitledFirstName] will have to be halted.;;;;;;;;;;;Èçîëèðîâàâ ñåáÿ âìåñòå ñ ïðèäâîðíûìè, ÿ îòðåçàë[Root.GetEndA] ñåáÿ îò âíåøíåãî ìèðà, òàê ÷òî [antagonize_target.GetTitledFirstName] áóäåò îñòàâàòüñÿ âíå çîíû äîñÿãàåìîñòè êàêîå-òî âðåìÿ.;;x
+EVTDESCHFP22012;No need for any convoluted plot - merely attacking [antagonize_target.GetTitledFirstName]'s character should be enough to make it clear how much I despise [antagonize_target.GetHerHim].;;;;;;;;;;;Íå íóæíî êàêèõ-òî çàìûñëîâàòûõ ñþæåòîâ, ÷òîáû [From.GetTitledFirstName] ïîíÿë[From.GetEndA], êàê ÿ ïðåçèðàþ [From.GetHersHis]. Äîñòàòî÷íî áóäåò ïðÿìûõ îñêîðáëåíèé.;;x
+EVTDESCHFP23027;The people of the Book are fascinating to many [Root.Religion.GetName] rulers, who have often been ready to embrace some of the customs of their neighbors.;;;;;;;;;;;Ëþäè Ïèñàíèÿ î÷àðîâûâàþò ìíîãèõ ïðàâèòåëåé-[Root.GetReligionAdherentsGENACC], êîòîðûå èíîãäà ãîòîâû ïðèíÿòü íåêîòîðûå îáû÷àè ñâîèõ ñîñåäåé.;;x
+EVTDESCAHFP22123;How can I possibly keep harassing a person that I have come to love so much?;;;;;;;;;;;Êàê ÿ ìîãó ïîðòèòü îòíîøåíèÿ ñ ò[From.GetOyEm], êîãî òàê ëþáëþ? Ýòî ïîïðîñòó íåâîçìîæíî.;;x
+EVTDESCCHFP22123;[antagonize_target.GetTitledFirstName] well and truly hates me. There is no point in trying to antagonize [antagonize_target.GetHerHim] any further.;;;;;;;;;;;[From.GetTitledFirstName] íàñòîëüêî íåíàâèäèò ìåíÿ, ÷òî ÿ íå âèæó ñìûñëà è äàëüøå ïûòàòüñÿ ñäåëàòü íàøè îòíîøåíèÿ õóæå, ÷åì îíè óæå åñòü.;;x
+EVTDESCBHF22013;I have received news that [From.GetTitledFirstName] has denounced me on several occasions recently, going to great lengths to besmirch my reputation, even at the expenses of [From.GetHerHis] own dignity as [From.GetTitle].;;;;;;;;;;;Íåäàâíî ÿ óçíàë[Root.GetEndA], ÷òî [From.GetTitledFirstName] íåîäíîêðàòíî îòêðûòî îñóæäàë[From.GetEndA] ìåíÿ, ïûòàÿñü çàïÿòíàòü ìîþ ðåïóòàöèþ, äàæå â óùåðá ñâîåìó ïîëîæåíèþ.;;x
+EVTDESCBHF22014;Despite making my dislike for [From.GetTitledFirstName] quite clear, [From.GetSheHe] has completely ignored my taunting. I am unsure if any of it has worked at all.;;;;;;;;;;;ß ÷¸òêî äàë[Root.GetEndA] ïîíÿòü, ÷òî [From.GetTitledFirstName] ìíå îòâðàòèòåë[From.GetSoftNaEn], íî [From.GetSheHe] ïîïðîñòó ïðîèãíîðèðîâàë[From.GetEndA] ìîè óïð¸êè. Íå óâåðåí[Root.GetEndA], ÷òî ýòî õîòü êàê-òî ïðèáëèçèëî ìåíÿ ê öåëè.;;x
+EVTDESCBHF22018;[From.GetTitledFirstName]'s attitude towards me is becoming unbearable. The [From.GetManWoman] always takes any opportunity to irritate me, even for the smallest thing.;;;;;;;;;;;[From.GetTitledFirstName] ïðîñòî íåâûíîñèì[From.GetEndA]. [From.GetSheHeCap] èñïîëüçóåò ëþáóþ âîçìîæíîñòü, ÷òîáû ðàçîçëèòü ìåíÿ, äàæå ïî ìåëî÷àì.;;x
+EVTDESCBHF22019;[From.GetTitledFirstName] looks far from pleased by my hostile attitude towards [From.GetHerHim].;;;;;;;;;;;[From.GetTitledFirstName], ïîõîæå, âåñüìà íåäîâîë[From.GetSoftNaEn] ìîèì âðàæäåáíûì îòíîøåíèåì ê í[From.GetHerHim].;;x
+EVTDESCCHF22013;[From.GetTitledFirstName] never misses a chance to inform me of how much [From.GetSheHe] despises me. The [From.GetManWoman] is truly obsessed with me, to the detriment of both of us.;;;;;;;;;;;[From.GetTitledFirstName] íèêîãäà íå óïóñêàåò øàíñà ñîîáùèòü ìíå, êàê [From.GetSheHe] ìåíÿ ïðåçèðàåò. Ýò[From.GetEtaEtot] [From.GetAgedPerson] âîèñòèíó îäåðæèì[From.GetEndA] ìíîé, ÷òî ïëîõî äëÿ íàñ îáî[From.GetRootEO]èõ.;;x
+EVTDESCCHF22014;[From.GetTitledFirstName] has ignored my insults, dismissing them as the posturing of a lesser [Root.GetManWoman].;;;;;;;;;;;[From.GetTitledFirstName] ïðîèãíîðèðîâàë[From.GetEndA] ìîè îñêîðáëåíèÿ, íàìåêíóâ, ÷òî ñòîëü íèçêîå ïîâåäåíèå ñ ìîåé ñòîðîíû íå äîñòîéíî [From.GetHersHis] âíèìàíèÿ.;;x
+EVTDESCCHF22018;I am not exactly sure why is [From.GetTitledFirstName] so obsessed with attacking my character at any given occasion. In truth, I could not care less about [From.GetHerHim].;;;;;;;;;;;Íå çíàþ òî÷íî, ïî÷åìó [From.GetTitledFirstName] òàê îäåðæèì[From.GetEndA] íàïàäêàìè â ìîþ ñòîðîíó ïî ëþáîìó ïîâîäó. Íî, åñëè ÷åñòíî, ìíå ïëåâàòü íà í[From.GetHersHis].;;x
+EVTDESCCHF22019;Unfortunately, it appears [From.GetTitledFirstName] has ignored my attempts to antagonize [From.GetHerHim].;;;;;;;;;;;Ê ñîæàëåíèþ, [From.GetTitledFirstName] ïðîèãíîðèðîâàë[From.GetEndA] ìîè ïîïûòêè èñïîðòèòü íàøè ñ í[From.GetEyIm] îòíîøåíèÿ.;;x
+EVTDESCDHF22018;[From.GetTitledFirstName]'s hopeless attempts at taunting me are truly pathetic. I might have been a bit irritated by them at first, but now I find [From.GetHerHis] meaningless strutting almost amusing.;;;;;;;;;;;[From.GetTitledFirstName] ïî-ïðåæíåìó íå îñòàâëÿåò ïîïûòîê íàñìåõàòüñÿ íàäî ìíîþ. Êàê ýòî æàëêî âûãëÿäèò. Åñëè ïîíà÷àëó òàêîå ìåíÿ íåìíîãî ðàçäðàæàëî, òî òåïåðü [From.GetHersHis] áåññìûñëåííûé íàïûùåííûé âèä ìíå äàæå êàæåòñÿ çàáàâíûì.;;x
+EVTDESCDHF22019;Not only is [From.GetTitledFirstName] ignored my hostility towards [From.GetHerHim], [From.GetSheHe] looks charmed by it!;;;;;;;;;;;Ìàëî òîãî, ÷òî [From.GetTitledFirstName] ïðîèãíîðèðîâàë[From.GetEndA] ìîþ âðàæäåáíîñòü ïî îòíîøåíèþ ê í[From.GetHerHim], ïîõîæå, [From.GetHerHim] ýòî ïîíðàâèëîñü!;;x
+EVTDESCHFA22071;A young man has caught my eye this evening. Not only is he beautiful, he claims to be an important emissary from a foreign realm, with years of diplomatic experience. After exchanging a few pleasantries, he shared his desire to spend some time alone with me.;;;;;;;;;;;Ýòèì âå÷åðîì ÿ îáðàòèë[Root.GetEndA] âíèìàíèå íà îäíîãî þíîøó. Îí íå òîëüêî êðàñèâ, íî è óòâåðæäàåò, ÷òî ÿâëÿåòñÿ âàæíûì èíîñòðàííûì ïîñëîì ñ ìíîãîëåòíèì äèïëîìàòè÷åñêèì îïûòîì. Ïîñëå îáìåíà ëþáåçíîñòÿìè, îí ïîäåëèëñÿ ñâîèì æåëàíèåì ïðîâåñòè íåêîòîðîå âðåìÿ íàåäèíå ñî ìíîé.;;x
+EVTDESCHFA22073;I cannot believe it! The man I slept with was a servant of [FromFrom.GetTitledFirstName]'s! When I awoke after our night together he had disappeared, leaving only an ominous message telling me who his real master is. Even worse, I think sleeping with him made me terribly sick.;;;;;;;;;;;Ïîâåðèòü íå ìîãó! Þíîøó, ñ êîòîðûì ÿ ïåðåñïàë[Root.GetEndA], ïîäîñëàë[FromFrom.GetEndA] [FromFrom.GetTitledFirstName]! Êîãäà ÿ ïðîñíó[Root.GetLasLsya], åãî óæå íå áûëî. Îí îñòàâèë ëèøü çëîâåùóþ çàïèñêó î ñâî¸ì íàíèìàòåëå. Õóæå òîãî, ìåíÿ óæàñíî òîøíèò. Ïîõîæå, îí çàðàçèë ìåíÿ.;;x
+EVTDESCHFA22077;I have just received the biggest boar I have ever seen from [From.GetTitledFirstName], who sent it to me as a sign of friendship. The beast looks marvelous, and I cannot wait to have it cooked for my next dinner. If only it weren't for the message coming with it mockingly implying I would eat it all by myself...;;;;;;;;;;;ß òîëüêî ÷òî ïîëó÷èë[Root.GetEndA] ñàìîãî áîëüøîãî âåïðÿ, êîòîðîãî ÿ êîãäà-ëèáî âèäåë[Root.GetEndA]. [From.GetTitledFirstName] ïðèñëàë[From.GetEndA] åãî ìíå â çíàê äðóæáû. Çâåðü âûãëÿäèò ÷óäåñíî, è ÿ íå ìîãó äîæäàòüñÿ, êîãäà åãî ïðèãîòîâÿò ê ñëåäóþùåìó îáåäó. Åñëè áû òîëüêî íå çàïèñêà, èçäåâàòåëüñêè íàìåêàþùàÿ, ÷òî ÿ ñúåì ýòî âñ¸ ñàì[Root.GetEndA]...;;x
+EVTDESCHFA22079;I probably shouldn't have eaten all the boar by myself. I am feeling horribly sick now, so much so that I can barely stand.;;;;;;;;;;;Íàâåðíîå, íå ñòîèëî ñúåäàòü âñåãî êàáàíà ñàìî[Root.GetYMu]. Ñåé÷àñ ìåíÿ óæàñíî òîøíèò, è ÿ åäâà ìîãó ïîøåâåëèòüñÿ.;;x
+EVTDESCHFA22083;I have just received a golden scepter from [From.GetTitledFirstName]. According to the envoy who brought it to court, it is an old, priceless artifact which belonged to one of my ancestors and that [From.GetFirstName]'s scholars discovered recently at the borders of [From.GetHerHis] realm.;;;;;;;;;;;[From.GetTitledFirstName] ïåðåäàë[From.GetEndA] ìíå çîëîòîé ñêèïåòð. Ïî ñëîâàì ïîñëàííèêà, êîòîðûé òîëüêî ÷òî äîñòàâèë åãî êî äâîðó, ýòî äðåâíèé áåñöåííûé àðòåôàêò, ïðèíàäëåæàâøèé îäíîìó èç ìîèõ ïðåäêîâ è êîòîðûé [From.PrimaryTitle.GetAdjective]ñêèå ó÷¸íûå íåäàâíî îáíàðóæèëè íà ãðàíèöàõ [From.GetHersHis] âëàäåíèé.;;x
+EVTDESCHFA22085;I am beset by shame. The supposedly priceless artifact sent by [FromFrom.GetTitledFirstName] is nothing but a piece of wood painted in gold. What is worse is that the forgery was revealed just as I was explaining the history of the scepter to a foreign dignitary!;;;;;;;;;;;Ìåíÿ îäîëåâàåò ñòûä. ßêîáû áåñöåííûé àðòåôàêò, êîòîðûé îòïðàâèë[FromFrom.GetEndA] ìíå [FromFrom.GetTitledFirstName], âñåãî ëèøü êóñîê äåðåâà, îêðàøåííûé â çîëîòîé öâåò. Õóæå âñåãî òî, ÷òî ôàêò ïîääåëêè áûë îáíàðóæåí êàê ðàç â òîò ìîìåíò, êîãäà ÿ îáúÿñíÿë[Root.GetEndA] èñòîðèþ ñêèïåòðà âûñîêîïîñòàâëåííîìó èíîñòðàíöó!;;x
+EVTDESCHFA22089;I have just received the most disturbing news. It has been brought to my attention that a recent survey of my lands has determined my demesne to be much smaller than I believed. All my Council members agree that I should verify the soundness of this report immediately if I do not wish to see the prestige of my realm be greatly diminished.;;;;;;;;;;;ß òîëüêî ÷òî ïîëó÷èë[Root.GetEndA] ñàìûå òðåâîæíûå íîâîñòè. Íåäàâíèé îñìîòð ìîèõ çåìåëü ïîêàçàë, ÷òî ìîè âëàäåíèÿ ãîðàçäî ìåíüøå, ÷åì ÿ ïîëàãàë[Root.GetEndA]. Âñå ÷ëåíû ìîåãî Ñîâåòà ñîãëàñíû, ÷òî ìíå ñëåäóåò íåìåäëåííî îöåíèòü äîñòîâåðíîñòü ýòîãî îò÷¸òà, åñëè ÿ íå õî÷ó, ÷òîáû ìîé ïðåñòèæ ïîñòðàäàë.;;x
+EVTDESCHFA22091;All of this work was for nothing! As it turns out, the survey report was a false document planted by [FromFrom.GetTitledFirstName] to undermine my authority as [Root.GetTitle].;;;;;;;;;;;Âñå òðóäû áûëè íàïðàñíû! Êàê âûÿñíèëîñü, îò÷¸ò îá îñìîòðå áûë ôàëüøèâûì äîêóìåíòîì, êîòîðûé ñôàáðèêîâàë[FromFrom.GetEndA] [FromFrom.GetTitledFirstName], ÷òîáû ïîäîðâàòü ìîé àâòîðèòåò.;;x
+EVTDESCHFA22095;The musky odor of mud fills my lungs as I stare in disbelief at my soiled clothes. The two urchins run away laughing, while my parade suddenly halts in the middle of the streets and my servants start surrounding me, asking me if I am hurt and hastily starting to clean me.;;;;;;;;;;;Ìóñêóñíûé çàïàõ ãðÿçè íàïîëíÿë ìîè ë¸ãêèå, êîãäà ÿ ñ íåäîóìåíèåì ñìîòðåë[Root.GetEndA] íà ñâîþ èñïà÷êàííóþ îäåæäó. Äâîå ìàëü÷èøåê ñî ñìåõîì óáåæàëè, à ìî¸ øåñòâèå âíåçàïíî îñòàíîâèëîñü ïîñðåäè óëèöû. Ñëóãè îêðóæèëè ìåíÿ, ðàñïðàøèâàÿ, íå ðàíåí[Root.GetEndA] ëè ÿ, è òåïåðü ñïåøíî ïûòàþòñÿ î÷èñòèòü ìîþ îäåæäó.;;x
+EVTDESCHFA22097;I immediately run after the two little criminals, but they have already disappeared. In my rage, I spend hours wandering around [Root.Capital.GetName] in my pitiful state, yelling for the two scoundrels to come out. When I finally return to my [Root.GetHouse], a letter from [FromFrom.GetFirstName] awaits me, implying the [FromFrom.GetTitle]'s involvement in the entire affair.;;;;;;;;;;;Â ïîðûâå ãíåâà ÿ ïîãíà[Root.GetLasLsya] çà ýòèìè ìåëêèìè ïàðàçèòàìè, ãîòîâ[Root.GetAyaYy] ðàçîðâàòü èõ íà ÷àñòè, íî îíè óæå ñêðûëèñü èç âèäó. ß ÷àñàìè áðîäèë[Root.GetEndA] ïî [Root.Capital.County.GetAdjective]ñêèì óëèöàì, âûêðèêèâàÿ âñåâîçìîæíûå ðóãàòåëüñòâà è òðåáóÿ âûäàòü ìíå èõ. Êîãäà ÿ íàêîíåö âåðíó[Root.GetLasLsya] äîìîé, ìåíÿ òàì æäàëî ïèñüìî, â êîòîðîì [FromFrom.GetTitledFirstName] ñîîáùèë[FromFrom.GetEndA] î ñâî¸ì ó÷àñòèè â ýòîé çàòåå.;;x
+EVTDESCHFA22101;I have just received a wonderful gift from [From.GetTitledFirstName]. [From.GetHerHisCap] Chancellor has recently discovered an old document legitimizing my claim on one of my neighbors' lands. [From.GetFirstName] has decided to offer it to me in a show of friendship.;;;;;;;;;;;[From.GetTitledFirstName] òîëüêî ÷òî ïðèñëàë[From.GetEndA] ìíå çàìå÷àòåëüíûé ïîäàðîê. [From.GetHersHisCap] êàíöëåð íåäàâíî îáíàðóæèë ñòàðûé äîêóìåíò, óçàêîíèâàþùèé ìîè ïðàâà íà çåìëè îäíîãî èç ìîèõ ñîñåäåé. [From.GetSheHeCap] ðåøèë[From.GetEndA] ïðåäëîæèòü åãî ìíå â çíàê äðóæáû.;;x
+EVTDESCHFA22103;Unbelievable! I was just about to press my new claim, when several clear inconsistencies were discovered in [FromFrom.GetTitledFirstName]'s document. The claim [From.GetSheHe] gave me is fabricated, and, more importantly, very poorly fabricated! Hardly anybody will consider it valid if I decide to press it.;;;;;;;;;;;Íåâåðîÿòíî! ß êàê ðàç ñîáèðà[Root.GetLasLsya] âûäâèíóòü ïðåäúÿâèòü ñâîþ ïðåòåíçèþ, êîãäà â äîêóìåíòå, êîòîðûé ïðèñëàë[FromFrom.GetEndA] ìíå [FromFrom.GetTitledFirstName], áûëî íàéäåíî íåñêîëüêî ÿâíûõ íåñîîòâåòñòâèé. Äîêóìåíò ôàëüøèâûé! Âðÿä ëè êòî-òî ñî÷ò¸ò çàêîííûìè ìîè ïðèòÿçàíèÿ, åñëè ÿ ïîïûòàþñü íàñòàèâàòü íà íèõ.;;x
+EVTDESCHFA22107;An envoy from [From.Capital.GetName] has just delivered sumptuous portrait depicting me, as a gift from [From.GetTitledFirstName]. The proportions and features are a bit off, but the quality of the piece is undeniable.;;;;;;;;;;;Ãîíåö èç [From.Capital.County.GetAdjective]ñêèõ çåìåëü òîëüêî ÷òî äîñòàâèë ðîñêîøíûé ïîðòðåò ñ ìîèì èçîáðàæåíèåì. Îí ñîîáùèë, ÷òî [From.GetTitledFirstName] øë¸ò ìíå ýòî â êà÷åñòâå ïîäàðêà. Ïðîïîðöèè è ÷åðòû ëèöà íåìíîãî íàðóøåíû, íî êà÷åñòâî èçäåëèÿ íåîñïîðèìî.;;x
+EVTDESCHFA22109;I cannot believe the pettiness of some people. The painting [FromFrom.GetFirstName] gave me lasted only a few days before starting to melt, twisting my features in a grotesque mockery of reality and filling the main hall with a foul stench. What is worse, many dignitaries saw it before I was informed of the problem and hastily ordered the rotting artwork to be removed.;;;;;;;;;;;ß íå ìîãó ïîâåðèòü â íèçîñòü íåêîòîðûõ ëþäåé. Êàðòèíà, êîòîðóþ [FromFrom.GetTitledFirstName] ïîäàðèë[FromFrom.GetEndA] ìíå, ïðîäåðæàëàñü âñåãî íåñêîëüêî äíåé, ïðåæäå ÷åì êðàñêà íà÷àëà ïîðòèòüñÿ è òå÷ü, èñêàæàÿ ÷åðòû ìîåãî ëèöà â ãðîòåñêíîé íàñìåøêå íàä ðåàëüíîñòüþ è íàïîëíÿÿ ãëàâíûé çàë çëîâîíèåì. ×òî åù¸ õóæå, ìíîãèå âûñîêîïîñòàâëåííûå ëèöà óâèäåëè ýòî äî òîãî, êàê ìíå ñîîáùèëè î ïðîáëåìå, è ÿ ïîñïåøíî ïðèêàçàë[Root.GetEndA] óáðàòü ýòî ãíèþùåå áåçîáðàçèå.;;x
+EVTDESCHFB22071;A young woman has caught my eye this evening. Not only is she beautiful, she claims to be an important emissary from a foreign realm, with years of diplomatic experience. After exchanging a few pleasantries, she shared her desire to spend some time alone with me.;;;;;;;;;;;Ñåãîäíÿ âå÷åðîì ìî¸ âíèìàíèå ïðèâëåêëà îäíà þíàÿ îñîáà. Îíà íå òîëüêî êðàñèâà, íî è óòâåðæäàåò, ÷òî ÿâëÿåòñÿ âàæíîé ïîñëàííèöåé ñ ìíîãîëåòíèì äèïëîìàòè÷åñêèì îïûòîì. Ïîñëå îáìåíà ëþáåçíîñòÿìè, îíà ïîäåëèëàñü ñâîèì æåëàíèåì ïðîâåñòè íåêîòîðîå âðåìÿ íàåäèíå ñî ìíîé.;;x
+EVTDESCHFB22073;I cannot believe it! The woman I slept with was a servant of [FromFrom.GetTitledFirstName]'s! When I awoke after our night together she had disappeared, leaving only an ominous message telling me who her real master is. Even worse, I think that sleeping with him made me terribly sick.;;;;;;;;;;;Ïîâåðèòü íå ìîãó! Äåâóøêó, ñ êîòîðîé ÿ ïåðåñïàë[Root.GetEndA], ïîäîñëàë[FromFrom.GetEndA] [FromFrom.GetTitledFirstName]! Êîãäà ÿ ïðîñíó[Root.GetLasLsya], îáíàðóæèë[Root.GetEndA] ëèøü çàïèñêó, ðàñêðûâàþùóþ èìÿ å¸ íàíèìàòåëÿ. Õóæå òîãî, ïîõîæå, ýòà øëþõà çàðàçíà, ìåíÿ æóòêî òîøíèò.;;x
+EVTOPTAHF22003;Does [antagonize_target.GetSheHe] still think of me, I wonder?;;;;;;;;;;;À [From.GetSheHe] âîîáùå äóìàåò îáî ìíå, èíòåðåñíî?;;x
+EVTOPTAHF22005;It was good while it lasted.;;;;;;;;;;;Íî, äîëæ[Root.GetNaEn] îòìåòèòü, ýòî áûëî óâëåêàòåëüíî.;;x
+EVTOPTAHF22008;It was good while it lasted.;;;;;;;;;;;Íó ÷òî æ, íè÷åãî íå ïîäåëàòü.;;x
+EVTOPTAHF22009;I hate [From.GetHerHim]!;;;;;;;;;;;ß íåíàâèæó [From.GetHerHim]!;;x
+EVTOPTAHF22010;We shall be enemies to the end!;;;;;;;;;;;Ìû áóäåì âðàãàìè äî êîíöà!;;x
+EVTOPTAHF22013;I will simply ignore [From.GetHerHis] posturing.;;;;;;;;;;;Ïóñòü êóäàõ÷åò, ñêîëüêî óãîäíî. Ìíå ïëåâàòü.;;x
+EVTOPTAHF22014;Perhaps I should try something more personal...;;;;;;;;;;;Âîçìîæíî, ìíå ñòîèò ïîïðîáîâàòü ÷òî-òî áîëåå ëè÷íîå...;;x
+EVTOPTAHF22015;Outstanding.;;;;;;;;;;;Ïðåâîñõîäíî.;;x
+EVTOPTAHF22018;I hate [From.GetHerHim]!;;;;;;;;;;;ß [From.GetHersHis] ïðîñòî íåíàâèæó!;;x
+EVTOPTAHF22021;Best act with subtlety...;;;;;;;;;;;Íàäî äåéñòâîâàòü ðåøèòåëüíî...;;x
+EVTOPTAHF22022;I know exactly what [From.GetSheHe] is trying to do.;;;;;;;;;;;ß çíàþ, ÷åãî [From.GetSheHe] äîáèâàåòñÿ.;;x
+EVTOPTAHF22023;I should have used a harsher wording.;;;;;;;;;;;Ìíå ñòîèëî âûáðàòü áîëåå ãðóáûå ôîðìóëèðîâêè.;;x
+EVTOPTAHF22024;Has [From.GetSheHe] no self-respect?;;;;;;;;;;;[From.GetSheHeCap] ÷òî, ñîâñåì íå óâàæàåò ñåáÿ?;;x
+EVTOPTAHF22025;Has [From.GetSheHe] no self-respect?;;;;;;;;;;;[From.GetSheHeCap] âîîáùå ñåáÿ íå óâàæàåò?;;x
+EVTOPTAHF22026;What else can I do?;;;;;;;;;;;Íó è ÷òî ÿ ìîãó ñ ýòèì ïîäåëàòü?;;x
+EVTOPTAHF22028;What a pleasant surprise!;;;;;;;;;;;Êàêîé ïðèÿòíûé ñþðïðèç!;;x
+EVTOPTAHF22029;Wouldn't it be a shame if [From.GetSheHe] put [From.GetHerselfHimself] out of [From.GetHerHis] misery...;;;;;;;;;;;Áûëî áû îáèäíî, ðåøè [From.GetSheHe] èçáàâèòü ñåáÿ îò ñòðàäàíèé...;;x
+EVTOPTAHF22030;And I hate [From.GetHerHim] back!;;;;;;;;;;;È ÿ íåíàâèæó [From.GetHersHis]!;;x
+EVTOPTAHF22031;We are rivals from this day forward.;;;;;;;;;;;Òàê òîìó è áûòü.;;x
+EVTOPTAHF22032;Perhaps we could be friends?;;;;;;;;;;;Âîçìîæíî, ìû ìîãëè áû ñòàòü äðóçüÿìè?;;x
+EVTOPTAHF22033;I am glad to have you as my friend.;;;;;;;;;;;— Ðàä[Root.GetEndA] âèäåòü Âàñ ñâîèì äðóãîì.;;x
+EVTOPTAHF22034;How very nice of you to say so!;;;;;;;;;;;— Î÷åíü ìèëî ñ âàøåé ñòîðîíû!;;x
+EVTOPTAHF22035;Marvelous.;;;;;;;;;;;×óäåñíî.;;x
+EVTOPTAHF22036;I will travel to [FromFrom.GetHerHis] court at once!;;;;;;;;;;;ß íåìåäëåííî ïðèåäó ê í[FromFrom.GetHerHim]!;;x
+EVTOPTAHF22037;We shall see...;;;;;;;;;;;Ïîñìîòðèì...;;x
+EVTOPTAHF22042;As [From.GetSheHe] deserves.;;;;;;;;;;;[From.GetSheHeCap] ýòî çàñëóæèë[From.GetEndA].;;x
+EVTOPTAHF22043;Why do people listen to [From.GetHerHim]?;;;;;;;;;;;Ïî÷åìó ëþäè ñëóøàþò [From.GetHersHis]?;;x
+EVTOPTAHF22044;As [From.GetSheHe] deserves.;;;;;;;;;;;Òàê [From.GetHerHim] è íàäî.;;x
+EVTOPTAHF22045;Why do people listen to [From.GetHerHim]?;;;;;;;;;;;Êàê îíè âîîáùå ìîãóò âåðèòü [From.GetHersHis] ñëîâàì?;;x
+EVTOPTAHF22046;Wonderful.;;;;;;;;;;;×óäåñíî.;;x
+EVTOPTAHF22047;How could this happen?!;;;;;;;;;;;Êàê òàêîå ìîãëî ïðîèçîéòè?!;;x
+EVTOPTAHF22048;How amusing!;;;;;;;;;;;Êàê çàáàâíî!;;x
+EVTOPTAHF22049;I cannot stand this anymore!;;;;;;;;;;;ß áîëüøå íå ìîãó ýòîãî òåðïåòü!;;x
+EVTOPTAHF22051;I wish to claim [antagonize_target.GetHerHis] lands!;;;;;;;;;;;Ïîòðåáîâàòü [From.GetHersHis] çåìëè!;;x
+EVTOPTAHF22053;Marvelous!;;;;;;;;;;;×óäåñíî!;;x
+EVTOPTAHF22054;Does [From.GetSheHe] know no decency?;;;;;;;;;;;Ó í[From.GetHersHis] âîîáùå åñòü õîòü êàêèå-òî ïîíÿòèÿ î ÷åñòè?;;x
+EVTOPTAHF22055;So [antagonize_target.GetSheHe] should be *my* vassal now!;;;;;;;;;;;[antagonize_target.GetTitledFirstName] - ìîé âàññàë!;;x
+EVTOPTAHF22056;Over my dead body!;;;;;;;;;;;Òîëüêî ÷åðåç ìîé òðóï!;;x
+EVTOPTAHF22057;One can only hope...;;;;;;;;;;;Îñòà¸òñÿ òîëüêî íàäåÿòüñÿ....;;x
+EVTOPTAHF22058;This is impossible!;;;;;;;;;;;Ýòî íåâîçìîæíî!;;x
+EVTOPTAHF22060;Damn [From.GetHerHim]!;;;;;;;;;;;Áóäü [From.GetSheHe] ïðîêëÿò[From.GetEndA]!;;x
+EVTOPTAHF22062;How could [From.GetSheHe]?;;;;;;;;;;;Êàê [From.GetHerHim] ýòî óäàëîñü?;;x
+EVTOPTAHF22064;How could [From.GetSheHe]?;;;;;;;;;;;Êàêàÿ íèçîñòü.;;x
+EVTOPTAHF22066;Does [From.GetSheHe] hold nothing sacred?;;;;;;;;;;;Äëÿ í[From.GetHersHis] ñîâñåì íåò íè÷åãî ñâÿòîãî?;;x
+EVTOPTAHF22067;Truly, a dishonorable display.;;;;;;;;;;;Ïîèñòèíå áåñ÷åñòíûé ïîñòóïîê.;;x
+EVTOPTAHF22068;He should have died before talking!;;;;;;;;;;;Îí äîëæåí áûë ñäîõíóòü, ïðåæäå ÷åì ðàñêðûâàòü ñâîé ïàãàíûé ðîò!;;x
+EVTOPTAHF22070;I know just the person...;;;;;;;;;;;Ó ìåíÿ êàê ðàç åñòü êîå-êòî íà ïðèìåòå...;;x
+EVTOPTAHF22071;No! I don't trust you!;;;;;;;;;;;— Íåò! ß òåáå íå âåðþ!;;x
+EVTOPTAHF22072;I will try something different next time...;;;;;;;;;;;Â ñëåäóþùèé ðàç ïîïðîáóþ ÷òî-íèáóäü äðóãîå...;;x
+EVTOPTAHF22073;That fiend!;;;;;;;;;;;Ìåðçàâåö!;;x
+EVTOPTAHF22074;Justice is served.;;;;;;;;;;;Ñïðàâåäëèâîñòü âîñòîðæåñòâîâàëà!;;x
+EVTOPTAHF22076;I know exactly what to do...;;;;;;;;;;;Âîò, ÷òî ÿ ñäåëàþ...;;x
+EVTOPTAHF22077;If that's the case, I will eat none of it!;;;;;;;;;;;Ðàç òàê, ÿ íå áóäó ýòî åñòü!;;x
+EVTOPTAHF22078;I will have to try something else...;;;;;;;;;;;Ïðèä¸òñÿ ïîïðîáîâàòü ÷òî-íèáóäü äðóãîå...;;x
+EVTOPTAHF22079;This is all [FromFrom.GetTitledFirstName]'s fault!;;;;;;;;;;;[FromFrom.GetTitledFirstName]!;;x
+EVTOPTAHF22080;How predictable.;;;;;;;;;;;Ïðåäñêàçóåìî.;;x
+EVTOPTAHF22082;A good old forgery will teach [antagonize_target.GetHerHim] [antagonize_target.GetHerHis] place.;;;;;;;;;;;Ñòàðàÿ äîáðàÿ ïîääåëêà ïîñòàâèò [From.GetHersHis] íà ìåñòî.;;x
+EVTOPTAHF22083;This is too sacred a relic for me to flaunt it.;;;;;;;;;;;Ýòî ñëèøêîì öåííàÿ ðåëèêâèÿ, ÷òîáû âûñòàâëÿòü å¸ íàïîêàç.;;x
+EVTOPTAHF22084;Curses. I will have to try something else.;;;;;;;;;;;Ïðîêëÿòèå! Ïðèä¸òñÿ ïîïðîáîâàòü ÷òî-òî äðóãîå.;;x
+EVTOPTAHF22085;My reputation is ruined!;;;;;;;;;;;Ìîåé ðåïóòàöèè êîíåö!;;x
+EVTOPTAHF22086;How amusing.;;;;;;;;;;;Êàê ýòî çàáàâíî.;;x
+EVTOPTAHF22088;Did [antagonize_target.GetSheHe] survey [antagonize_target.GetHerHis] borders recently?;;;;;;;;;;;Äàâíî ëè [From.GetSheHe] îñìàòðèâàë[From.GetEndA] ñâîè ãðàíèöû?;;x
+EVTOPTAHF22089;Who cares? It is just a piece of scroll.;;;;;;;;;;;Äà êàêàÿ ðàçíèöà? Ýòî âñåãî ëèøü êóñîê ïåðãàìåíòà.;;x
+EVTOPTAHF22090;I will have to try something different.;;;;;;;;;;;Íàäî ïîïðîáîâàòü ÷òî-òî äðóãîå.;;x
+EVTOPTAHF22091;I am so tired...;;;;;;;;;;;Êàê æå ÿ óñòàë[Root.GetEndA]...;;x
+EVTOPTAHF22092;At least [From.GetSheHe] did something for a change...;;;;;;;;;;;Õîòü ÷òî-òî [From.GetSheHe] ñäåëàë[From.GetEndA], äëÿ ðàçíîîáðàçèÿ...;;x
+EVTOPTAHF22094;Is there not a parade in [antagonize_target.GetHerHis] honor soon?;;;;;;;;;;;À êîãäà ñëåäóþùèé ïàðàä â [From.GetHersHis] ÷åñòü?;;x
+EVTOPTAHF22095;It was but children...;;;;;;;;;;;Ýòî âñåãî ëèøü äåòè....;;x
+EVTOPTAHF22096;[From.GetHerHis] kind nature is to blame...;;;;;;;;;;;[From.GetSheHeCap] ñëèøêîì äîáð[From.GetAyaYy]...;;x
+EVTOPTAHF22097;Why is [FromFrom.GetSheHe] tormenting me?;;;;;;;;;;;[FromFrom.GetSheHeCap] âîîáùå â ñâî¸ì óìå?;;x
+EVTOPTAHF22100;A fake claim, maybe?;;;;;;;;;;;Ìîæåò, ôàëüøèâàÿ ïðåòåíçèÿ?;;x
+EVTOPTAHF22101;Thank you, but I do not need it.;;;;;;;;;;;Ñïàñèáî, íî ìíå ýòî íå íóæíî;;x
+EVTOPTAHF22102;How unfortunate.;;;;;;;;;;;Êàê ïðèñêîðáíî.;;x
+EVTOPTAHF22103;This was all a waste of time!;;;;;;;;;;;Ñòîëüêî âðåìåíè âïóñòóþ!;;x
+EVTOPTAHF22104;Pathetic.;;;;;;;;;;;Âûãëÿäèò æàëêî.;;x
+EVTOPTAHF22106;Call for the court painter!;;;;;;;;;;;Ïîçîâèòå ïðèäâîðíîãî õóäîæíèêà!;;x
+EVTOPTAHF22107;The portrait is nice, but...;;;;;;;;;;;Ïîðòðåò õîðîøèé, íî...;;x
+EVTOPTAHF22108;I will have to try something different...;;;;;;;;;;;Ïðèä¸òñÿ ïðèäóìàòü ÷òî-òî äðóãîå...;;x
+EVTOPTAHF22109;Curses!;;;;;;;;;;;Ïðîêëÿòüå!;;x
+EVTOPTAHF22110;What an unexpected turn of events!;;;;;;;;;;;"Êàêîé ""íåîæèäàííûé"" ïîâîðîò ñîáûòèé!";;x
+EVTOPTAHF22111;Psh, I don't care!;;;;;;;;;;;Íî ìíå âñ¸ ðàâíî!;;x
+EVTOPTAHF22113;I feel great!;;;;;;;;;;;ß ÷óâñòâóþ ñåáÿ ïðåêðàñíî!;;x
+EVTOPTAHF22114;I feel great!;;;;;;;;;;;ß îòëè÷íî ÷óâñòâóþ ñåáÿ!;;x
+EVTOPTAHF22115;And everyone loves me for it!;;;;;;;;;;;È âñå ëþáÿò ìåíÿ çà ýòî!;;x
+EVTOPTAHF22116;The more I know, the more I can hurt [From.GetHerHim].;;;;;;;;;;;×åì áîëüøå ÿ çíàþ, òåì áîëüøå ìîãó íàâðåäèòü [From.GetHerHim].;;x
+EVTOPTAHF22117;Truth is for the foolish.;;;;;;;;;;;Èñòèíà - äëÿ ãëóïöîâ.;;x
+EVTOPTAHF22118;I must be calm if I do not wish to suffer the same fate.;;;;;;;;;;;Õëàäíîêðîâíîñòü ïðèãîäèòñÿ è ìíå, èíà÷å ìåíÿ ïîñòèãíåò òà æå ó÷àñòü.;;x
+EVTOPTAHF22121;I will spread false reports to [antagonize_target.GetHerHis] spies.;;;;;;;;;;;ß áóäó ðàñïðîñòðàíÿòü ëîæíûå ñâåäåíèÿ ñðåäè [From.GetHerHis] øïèîíîâ.;;x
+EVTOPTAHF22129;Two can play this game, [From.GetFirstName]!;;;;;;;;;;;Â ýòó èãðó ìîãóò èãðàòü äâîå, [From.GetFirstName]!;;x
+EVTOPTAHF22131;Do not worry, [From.GetFirstName], I have much more to say!;;;;;;;;;;;— Î, íå âîëíóéòåñü, ìíå åù¸ åñòü, ÷òî ñêàçàòü!;;x
+EVTOPTAHF22132;Hopefully they will all be as endearing!;;;;;;;;;;;— Íàäåþñü, âñå îíè áóäóò òàêèìè æå ìèëûìè!;;x
+EVTOPTAHF22133;You can always count on me to tell the truth, my [From.GetTitle]!;;;;;;;;;;;— Ìîæåòå ðàññ÷èòûâàòü íà ìîþ ÷åñòíîñòü, [From.PrimaryTitle.GetFOA]!;;x
+EVTOPTAHFP22006;If only we had pigeons...;;;;;;;;;;;Ýõ, áûëè áû ó íàñ ãîëóáè...;;x
+EVTOPTAHFP22012;Let everybody in [Root.PrimaryTitle.GetName] know!;;;;;;;;;;;È ïóñòü êàæäûé óçíàåò îá ýòîì!;;x
+EVTOPTAHFP22123;Understandable.;;;;;;;;;;;Ïîðà ýòî ïðåêðàòèòü.;;x
+EVTOPTBHFP22012;I will make my disdain clear!;;;;;;;;;;;ß äîëæ[Root.GetNaEn] âûñêàçàòü èõ ñàì[Root.GetEndA]!;;x
+EVTOPTCHFP22012;A private message will be enough.;;;;;;;;;;;Ïèñüìî - òî, ÷òî ìíå íóæíî.;;x
+EVTOPTDHFP22012;Better wait for something more concrete...;;;;;;;;;;;Ëó÷øå äîæäàòüñÿ ÷åãî-òî áîëåå ñåðü¸çíîãî...;;x
+EVTOPTEHF22021;[From.GetSheHeCap] is a most disgraceful [From.GetTitle]!;;;;;;;;;;;È ýòî [From.GetTitle]?! Êàêîé ïîçîð!;;x
+EVTOPTEHF22022;How dare [From.GetSheHe]!;;;;;;;;;;;Äà êàê [From.GetSheHe] ïîñìåë[From.GetEndA]!;;x
+EVTOPTFHF22021;This is beneath me.;;;;;;;;;;;ß âûøå ýòîãî.;;x
+EVTOPTLUAHF22022;[From.GetSheHeCap] just needs a good beating, that is all!;;;;;;;;;;;— À íó èäè ñþäà, ìàòü òâîþ...;;x
+EVTOPTLUBHF22022;Such poetry and wit, [From.GetFirstName]!;;;;;;;;;;;— Êàê ýòî ïîýòè÷íî è îñòðîóìíî ñ Âàøåé ñòîðîíû!;;x
+EVTOPTLUCHF22022;For your admirable honesty, I dub thee Sir [From.GetFirstName] of the Turnip!;;;;;;;;;;;— Çà Âàøó ÷åñòíîñòü ÿ íàðåêàþ Âàñ ñýðîì Ðåïû!;;x
+EVTOPTYHF22022;I will not tolerate this offense!;;;;;;;;;;;ß íå ïîòåðïëþ òàêèõ îñêîðáëåíèé!;;x
+EVTOPTZHF22022;Surely I can convince [From.GetHerHim] to stop...;;;;;;;;;;;Êîíå÷íî, ÿ ìîãó óáåäèòü [From.GetHersHis] îñòàíîâèòüñÿ...;;x
+EVTDESCAHF22013;The entirety of [From.PrimaryTitle.GetName] is laughing at me, thanks to [From.GetTitledFirstName]'s damnable actions. I have received news from many travelers going through [From.GetHerHis] realm that the most absurd rumors about me are being spread by the [From.GetTitle]'s officials themselves.;;;;;;;;;;;Î÷åâèäíî, æèòåëè [From.PrimaryTitle.GetAdjective]ñêèõ çåìåëü ñìåþòñÿ íàäî ìíîé, è ýòî âñ¸ èç-çà òîãî, ÷òî [From.GetTitledFirstName] ðàñïóñêàåò îáî ìíå ñïëåòíè. Íåäàâíî ÿ óñëûøàë[Root.GetEndA] íåâåðîÿòíûå ãëóïîñòè î ñåáå îò ïóòåøåñòâåííèêîâ, ïðèáûâàþùèõ èç [From.GetHersHis] ñòðàíû, êîòîðûå óòâåðæäàþò, ÷òî ýòî îôèöèàëüíàÿ èíôîðìàöèÿ.;;x
+EVTDESCAHF22014;All of [Root.PrimaryTitle.GetName] is laughing at [From.GetTitledFirstName], yet from what I hear [From.GetSheHe] is completely unmoved by my slandering campaign.;;;;;;;;;;;[From.GetTitledFirstName] ñîâåðøåííî ðàâíîäóø[From.GetNaEn] ê ðàñïðîñòðàíÿåìûì ìíîé ñëóõàì, äàæå íåñìîòðÿ íà òî, ÷òî [Root.PrimaryTitle.GetAdjective]ñêèå æèòåëè ñìåþòñÿ íàä í[From.GetEyIm].;;x
+EVTDESCAHF22015;My efforts to smear and antagonize [From.GetTitledFirstName] have been a complete success. I might have lost some of my reputation in the process, but [From.GetTitledFirstName] looks furious.;;;;;;;;;;;Âîçìîæíî, ìîÿ ðåïóòàöèÿ è ïîñòðàäàëà, íî [From.GetTitledFirstName] òåïåðü âûãëÿäèò ðàçúÿð¸íí[From.GetOyYm]. Ìîè óñèëèÿ î÷åðíèòü è íàñòðîèòü [From.GetHersHis] ïðîòèâ ñåáÿ óâåí÷àëèñü óñïåõîì.;;x
+EVTDESCAHF22018;I truly cannot stand [From.GetTitledFirstName]! [From.GetSheHeCap] seems to revel in every misfortune that befalls upon me and never misses an opportunity to taunt and insult me.;;;;;;;;;;;Ïîõîæå, [From.GetTitledFirstName] íàñëàæäàåòñÿ êàæäîé ìîåé íåóäà÷åé, è íèêîãäà íå óïóñêàåò âîçìîæíîñòè ïîèçäåâàòüñÿ íàäî ìíîþ èëè îñêîðáèòü ìåíÿ. Òåðïåòü [From.GetHersHis] íå ìîãó!;;x
+EVTDESCAHF22019;My hostile attitude towards [From.GetTitledFirstName] has not gone unnoticed. [From.GetSheHeCap] hates me more every day.;;;;;;;;;;;[From.GetTitledFirstName] íåíàâèäèò ìåíÿ âñ¸ áîëüøå. Ìî¸ âðàæäåáíîå îòíîøåíèå ê [From.GetHerHim] íå îñòàëîñü íåçàìå÷åííûì.;;x
+EVTOPTCHF22018;How quaint.;;;;;;;;;;;Êàê ýòî íåîáû÷íî.;;x
+EVTOPTCHF22021;Such excesses are unacceptable for a [From.GetTitle]!;;;;;;;;;;;Òàêîå ïîâåäåíèå íåïðèåìëåìî!;;x
+EVTOPTCHF22022;No matter what [From.GetSheHe] said, I forgive [From.GetHerHim].;;;;;;;;;;;Íåâàæíî, ÷òî [From.GetSheHe] ñêàçàë[From.GetEndA], ÿ [From.GetHersHis] ïðîùàþ.;;x
+EVTOPTCHF22051;Sow dissent amongst [antagonize_target.GetHerHis] men.;;;;;;;;;;;Ïîñåÿòü ðàçäîð ñðåäè [From.GetHersHis] îêðóæåíèÿ.;;x
+EVTOPTCHF22121;[antagonize_target.GetSheHeCap] shall never know peace for as long as I live!;;;;;;;;;;;[From.GetSheHeCap] íèêîãäà íå áóäåò çíàòü ïîêîÿ, ïîêà ÿ æèâ[From.GetEndA]!;;x
+EVTOPTCHF22131;Perhaps I should rethink my strategy...;;;;;;;;;;;Âîçìîæíî, ñòîèò ïåðåñìîòðåòü ìîþ ñòðàòåãèþ...;;x
+EVTOPTDHF22018;Such a pitiful [From.GetManWoman]...;;;;;;;;;;;Áåäíÿãà...;;x
+EVTOPTDHF22021;Infidels deserve no compassion!;;;;;;;;;;;Èíîâåðöû íå çàñëóæèâàþò ñîñòðàäàíèÿ!;;x
+EVTOPTDHF22022;So what?;;;;;;;;;;;Íó è ÷òî?;;x
+EVTOPTDHF22051;This is too underhanded for me.;;;;;;;;;;;ß âûøå ýòîãî.;;x
+EVTOPTDHF22121;Better to bide my time for now...;;;;;;;;;;;Ëó÷øå ïîêà ïîâðåìåíèòü ñ ýòèì...;;x
+EVTOPTBHF22005;[antagonize_target.GetSheHeCap] will get out of there sooner or later...;;;;;;;;;;;Ðàíî èëè ïîçäíî [From.GetSheHe] âûéäåò íà ñâîáîäó...;;x
+EVTOPTBHF22010;My work with [antagonize_target.GetHerHim] is done.;;;;;;;;;;;Ìîÿ ðàáîòà ñ í[From.GetEyIm] çàâåðøåíà.;;x
+EVTOPTBHF22013;When will [From.GetSheHe] stop tormenting me?;;;;;;;;;;;Êîãäà æå [From.GetSheHe] óãîìîíèòñÿ?;;x
+EVTOPTBHF22018;I cannot stand that [From.GetManWoman].;;;;;;;;;;;Êàê æå [From.GetSheHe] ìåíÿ çàäîëáàë[From.GetEndA]...;;x
+EVTOPTBHF22021;Who could love such a freak?;;;;;;;;;;;Êòî ìîæåò ïîëþáèòü ñòîëü óðîäëèâîå ñîçäàíèå?;;x
+EVTOPTBHF22022;[From.GetSheHeCap] has a point...;;;;;;;;;;;[From.GetSheHeCap] â ÷¸ì-òî ïðàâ[From.GetEndA]...;;x
+EVTOPTBHF22032;[FromFrom.GetTitledFirstName] is a good [FromFrom.GetManWoman].;;;;;;;;;;;×òî æ, ó íàñ ñ í[FromFrom.GetEyIm] åñòü íå÷òî îáùåå...;;x
+EVTOPTBHF22051;Cause unrest in [antagonize_target.GetHerHis] realm.;;;;;;;;;;;Âûçâàòü áåñïîðÿäêè â [From.GetHersHis] âëàäåíèÿõ.;;x
+EVTOPTBHF22070;This is beneath me.;;;;;;;;;;;Ýòî íèæå ìîåãî äîñòîèíñòâà.;;x
+EVTOPTBHF22071;But of course!;;;;;;;;;;;— Äà, êîíå÷íî!;;x
+EVTOPTBHF22076;This is beneath me.;;;;;;;;;;;Ýòî íèæå ìîåãî äîñòîèíñòâà.;;x
+EVTOPTBHF22077;But I *will* eat it all myself!;;;;;;;;;;;Òàê è ïîñòóïëþ!;;x
+EVTOPTBHF22082;This is beneath me.;;;;;;;;;;;ß âûøå ýòîãî.;;x
+EVTOPTBHF22083;What a marvelous addition to my crown jewels!;;;;;;;;;;;Êàêîå ÷óäåñíîå äîïîëíåíèå ê ìîèì äðàãîöåííîñòÿì!;;x
+EVTOPTBHF22088;This is beneath me.;;;;;;;;;;;Íåò, ýòî íèçêî.;;x
+EVTOPTBHF22089;This is going to be so much work!;;;;;;;;;;;Âïåðåäè ìíîãî ðàáîòû!;;x
+EVTOPTBHF22094;This is beneath me.;;;;;;;;;;;Ýòî íèæå ìîåãî äîñòîèíñòâà.;;x
+EVTOPTBHF22095;I will whip those dogs myself!;;;;;;;;;;;ß ñàì[Root.GetEndA] âûïîðþ ýòèõ íåäîìåðêîâ!;;x
+EVTOPTBHF22100;This is beneath me.;;;;;;;;;;;Ýòî íèæå ìîåãî äîñòîèíñòâà.;;x
+EVTOPTBHF22101;Just what I need!;;;;;;;;;;;Èìåííî òî, ÷òî ìíå íóæíî!;;x
+EVTOPTBHF22106;This is beneath me.;;;;;;;;;;;Ýòî íèæå ìîåãî äîñòîèíñòâà.;;x
+EVTOPTBHF22107;It deserves to remain in plain sight.;;;;;;;;;;;Îí çàñëóæèâàåò òîãî, ÷òîáû îñòàâàòüñÿ íà âèäó.;;x
+EVTOPTBHF22111;Fine, I will leave [From.GetHerHim] be for a while.;;;;;;;;;;;Õîðîøî, ÿ îñòàâëþ [From.GetHersHis] â ïîêîå íà âðåìÿ.;;x
+EVTOPTBHF22121;I will spread the most vile rumors about [antagonize_target.GetHerHim]!;;;;;;;;;;;ß ðàñïóùó ñàìûå ãíóñíûå ñëóõè î [From.GetTitledFirstName]!;;x
+EVTOPTBHF22124;Will [From.GetSheHe] ever stop?;;;;;;;;;;;Îñòàíîâèòñÿ ëè [From.GetSheHe] êîãäà-íèáóäü?;;x
+EVTOPTBHF22126;Just leave me in peace!;;;;;;;;;;;Ïðîñòî îñòàâü ìåíÿ â ïîêîå!;;x
+EVTOPTBHF22129;Troublesome...;;;;;;;;;;;Íåïðèÿòíîñòè...;;x
+EVTOPTBHF22131;I will just have to try harder!;;;;;;;;;;;Íàäî áîëüøå ñòàðàòüñÿ.;;x
+EVTOPTBHF22133;Just a knighthood?!;;;;;;;;;;;— Îáû÷íûé ðûöàðñêèé òèòóë?!;;x
+EVTDESCBHFP22123;[antagonize_target.GetFirstName] has become one of my dearest friends. I should stop antagonizing [antagonize_target.GetHerHim] so much.;;;;;;;;;;;[From.GetFirstName] ñòàë[From.GetEndA] îäí[From.GetOyIm] èç ìîèõ ëó÷øèõ äðóçåé. ß íå âèæó ñìûñëà â ïîïûòêàõ ïîðòèòü ñ í[From.GetEyIm] îòíîøåíèÿ.;;x
+tooltip_21010_A;Keep §YAntagonizing [antagonize_target.GetTitledFirstName]§!.;;;;;;;;;;;Ïðîäîëæèòü §Yóõóäøåíèå îòíîøåíèé§! ñ [From.GetAgedPersonINS] ïî èìåíè §Y[From.GetTitledFirstName]§!.;;x
+tooltip_21010_B;Stop attempting to §YAntagonize [antagonize_target.GetTitledFirstName]§!.;;;;;;;;;;;Ïðåêðàòèòü §Yóõóäøåíèå îòíîøåíèé§! ñ [From.GetAgedPersonINS] ïî èìåíè §Y[From.GetTitledFirstName]§!.;;x
+tooltip_22003_A;Stop attempting to §YAntagonize [antagonize_target.GetTitledFirstName]§!.;;;;;;;;;;;Ïðåêðàòèòü §Yóõóäøåíèå îòíîøåíèé§! ñ [From.GetAgedPersonINS] ïî èìåíè §Y[From.GetTitledFirstName]§!.;;x
+tooltip_22005_A;Stop attempting to §YAntagonize [antagonize_target.GetTitledFirstName]§!.;;;;;;;;;;;Ïðåêðàòèòü §Yóõóäøåíèå îòíîøåíèé§! ñ [From.GetAgedPersonINS] ïî èìåíè §Y[From.GetTitledFirstName]§!.;;x
+tooltip_22005_B;Wait until §Y[antagonize_target.GetTitledFirstName]§! is released before continuing to §YAntagonize§! [antagonize_target.GetHerHim].;;;;;;;;;;;Äîæäàòüñÿ, ïîêà §Y[From.GetTitledFirstName]§! íå áóäåò îñâîáîæäåí[From.GetEndA], è çàòåì ïðîäîëæèòü §Yóõóäøåíèå îòíîøåíèé§! ñ í[From.GetEyuIm].;;x
+tooltip_22008_A;Stop attempting to §YAntagonize [antagonize_target.GetTitledFirstName]§!.;;;;;;;;;;;Ïðåêðàòèòü §Yóõóäøåíèå îòíîøåíèé§! ñ [From.GetAgedPersonINS] ïî èìåíè §Y[From.GetTitledFirstName]§!.;;x
+tooltip_22012_A;Instruct all the town criers across your realm to mock and insult §Y[This.GetTitledFirstName]§! on your behalf, besmirching [This.GetHerHis] name and §YAntagonizing§! [This.GetHerHim] in the process.;;;;;;;;;;;Íàâåðíÿêà §Y[From.GetTitledFirstName]§! îòðåàãèðóåò, åñëè äàòü óêàçàíèÿ âñåì ãëàøàòàÿì Âàøåé ñòðàíû âûñìåèâàòü è îñêîðáëÿòü [From.GetHersHis] îò Âàøåãî èìåíè. Âåðîÿòíî, ýòî ïîìîæåò §Yóõóäøèòü îòíîøåíèÿ§! ñ í[From.GetEyuIm].;;x
+tooltip_22012_B;Publicly denounce §Y[This.GetTitledFirstName]'s§! recent conduct, besmirching [This.GetHerHis] name and §YAntagonizing§! [This.GetHerHim] in the process.;;;;;;;;;;;§Y[From.GetTitledFirstName]§! âîñïðèìåò îñêîðáëåíèÿ ñåðü¸çíåå, åñëè Âû ñàìè ïóáëè÷íî âûñêàæåòå èõ. Âåðîÿòíî, ýòî ïîìîæåò §Yóõóäøèòü îòíîøåíèÿ§! ñ í[From.GetEyuIm].;;x
+tooltip_22012_C;Send a private message to §Y[This.GetTitledFirstName]§!, insulting [This.GetHerHim] and §YAntagonizing§! [This.GetHerHim] in the process.;;;;;;;;;;;§Y[From.GetTitledFirstName]§! ïîëó÷èò îò Âàñ ïèñüìî ñ îñêîðáëåíèÿìè. Âåðîÿòíî, ýòî ïîìîæåò §Yóõóäøèòü îòíîøåíèÿ§! ñ í[From.GetEyuIm].;;x
+tooltip_22013_A;Ignore §Y[This.GetTitledFirstName]'s§! malicious teasing.;;;;;;;;;;;Èãíîðèðîâàòü [From.GetHersHis].;;x
+tooltip_22013_B;The rumors spread by §Y[This.GetTitledFirstName]§! about you will affect your reputation.;;;;;;;;;;;Ñëóõè, êîòîðûå ðàñïðîñòðàíÿåò §Y[From.GetTitledFirstName]§! î Âàñ, ñêàæóòñÿ íà Âàøåé ðåïóòàöèè.;;x
+tooltip_22021_A;Spread ill rumors about §Y[This.GetTitledFirstName]§! without exposing yourself too much, thus avoiding any possible retaliation from the target of your slander.;;;;;;;;;;;Ïîçàáîòèòüñÿ î òîì, ÷òîáû §Y[From.GetTitledFirstName]§! íå óçíàë[From.GetEndA], ÷òî èìåííî Âû ðàñïðîñòðàíÿåòå ãðÿçíûå ñïëåòíè î í[From.GetEyYom].;;x
+tooltip_22021_B;Deride §Y[This.GetTitledFirstName]§! for [This.GetHerHis] deformity.;;;;;;;;;;;Âûñìåèâàòü [From.GetHersHis] óðîäñòâî.;;x
+tooltip_22021_C;§YAntagonize [This.GetTitledFirstName]§! by moralizing about [This.GetHerHis] dissolute conduct.;;;;;;;;;;;Ïûòàòüñÿ §Yóõóäøèòü îòíîøåíèÿ§! ñ í[From.GetEyuIm], îñóæäàÿ [From.GetHersHis] íåäîñòîéíîå ïîâåäåíèå.;;x
+tooltip_22021_D;§YAntagonize [This.GetTitledFirstName]§! by mocking [This.GetHerHis] faith.;;;;;;;;;;;Ïûòàòüñÿ §Yóõóäøèòü îòíîøåíèÿ§! ñ í[From.GetEyuIm], íàñìåõàÿñü íàä [From.GetHersHis] âåðîé.;;x
+tooltip_22021_E;§YAntagonize [This.GetTitledFirstName]§! by mocking [This.GetHerHis] character.;;;;;;;;;;;Ïûòàòüñÿ §Yóõóäøèòü îòíîøåíèÿ§! ñ í[From.GetEyuIm], âûñìåèâàÿ [From.GetHersHis] õàðàêòåð.;;x
+tooltip_22022_A;Pretend to ignore §Y[This.GetTitledFirstName]'s§! slander and focus on avoiding any collateral damage caused by the rumors that [This.GetSheHe] has spread about you.;;;;;;;;;;;Ïîïûòàòüñÿ èãíîðèðîâàòü [From.GetHersHis] êëåâåòó è ñîñðåäîòî÷èòüñÿ íà ñìÿã÷åíèè ïîñëåäñòâèé îò ãðÿçíûõ ñïëåòåí î Âàñ.;;x
+tooltip_22022_B;Accept §Y[This.GetTitledFirstName]'s§! criticism as valid and just.;;;;;;;;;;;Ïðèçíàòü [From.GetHersHis] êðèòèêó îáîñíîâàííîé è ñïðàâåäëèâîé.;;x
+tooltip_22022_C;Forgive §Y[This.GetTitledFirstName]§! for [This.GetHerHis] insults.;;;;;;;;;;;Ïðîñòèòü [From.GetHersHis] çà îñêîðáëåíèÿ.;;x
+tooltip_22022_D;Inform §Y[This.GetTitledFirstName]§! that you care little about [This.GetHerHis] moralizing.;;;;;;;;;;;Ïóñòü §Y[From.GetTitledFirstName]§! óçíàåò, ÷òî Âàñ ìàëî âîëíóþò [From.GetHersHis] ïîó÷åíèÿ.;;x
+tooltip_22022_LUB;Compliment §Y[This.GetTitledFirstName]§! for [This.GetHerHis] vocabulary, preventing [This.GetHerHim] from §YAntagonizing§! you for some time.;;;;;;;;;;;Âîçìîæíî, §Y[From.GetTitledFirstName]§! íà êàêîå-òî âðåìÿ ïåðåñòàíåò §Yóõóäøàòü îòíîøåíèÿ§! ñ Âàìè, åñëè Âû ïîõâàëèòå [From.GetHersHis] çà áîãàòûé ñëîâàðíûé çàïàñ.;;x
+tooltip_22022_LUC;Grant §Y[This.GetTitledFirstName]§! a knighthood for [This.GetHerHis] honesty, preventing [This.GetHerHim] from §YAntagonizing§! you for some time.;;;;;;;;;;;Âîçìîæíî, §Y[From.GetTitledFirstName]§! íà êàêîå-òî âðåìÿ ïåðåñòàíåò §Yóõóäøàòü îòíîøåíèÿ§! ñ Âàìè, åñëè Âû ïîæàëóåòå [From.GetHerHim] ðûöàðñêèé òèòóë.;;x
+tooltip_22022_Y;Challenge §Y[From.GetFirstName]§! to a §YDuel§!.;;;;;;;;;;;§Y[From.GetFirstName]§! áóäåò âûçâàí[From.GetEndA] Âàìè íà §Yïîåäèíîê§!.;;x
+tooltip_22022_Z;Use your diplomatic skills to convince §Y[This.GetTitledFirstName]§! to stop trying to §YAntagonize§! you for some time.;;;;;;;;;;;Èñïîëüçîâàòü ñâîè äèïëîìàòè÷åñêèå íàâûêè, ÷òîáû §Y[From.GetTitledFirstName]§! ïåðåñòàë[From.GetEndA] §Yóõóäøàòü îòíîøåíèÿ§! ñ Âàìè íà êàêîå-òî âðåìÿ.;;x
+tooltip_22051_A;The blackguard will attempt to fabricate a §YClaim§! on one of §Y[antagonize_target.GetTitledFirstName]'s§! counties..;;;;;;;;;;;Øïèîí ïîïûòàåòñÿ ñôàáðèêîâàòü §Yïðåòåíçèþ§! íà òèòóë îêðóæíîãî ðàíãà, êîòîðûìè îáëàäàåò §Y[From.GetTitledFirstName]§!.;;x
+tooltip_22051_B;The blackguard will attempt to rile up §Y[antagonize_target.GetTitledFirstName]'s§! subjects against [antagonize_target.GetHerHim].;;;;;;;;;;;Øïèîí ïîïûòàåòñÿ íàñòðîèòü ìåñòíîå íàñåëåíèå ïðîòèâ èõ ïðàâèòåëÿ, èçâåñòíîãî êàê §Y[From.GetTitledFirstName]§!.;;x
+tooltip_22051_C;The blackguard will attempt to put §Y[antagonize_target.GetTitledFirstName]'s§! vassals and family against [antagonize_target.GetHerHim].;;;;;;;;;;;Øïèîí ïîïûòàåòñÿ íàñòðîèòü âàññàëîâ è ñåìüþ [From.GetAgedPersonGEN], èçâåñòíî[From.GetYGo] êàê §Y[From.GetTitledFirstName]§!, ïðîòèâ í[From.GetHersHis].;;x
+tooltip_22123_A;Stop attempting to §YAntagonize [antagonize_target.GetTitledFirstName]§!.;;;;;;;;;;;Ïðåêðàòèòü §Yóõóäøåíèå îòíîøåíèé§! ñ [From.GetAgedPersonINS] ïî èìåíè §Y[From.GetTitledFirstName]§!.;;x
+tooltip_EVTOPTAHF22111;Ignore §Y[This.GetTitledFirstName]§!'s call for peace.;;;;;;;;;;;Èãíîðèðîâàòü [From.GetHersHis] ïðèçûâû ê ïðèìèðåíèþ.;;x
+tooltip_EVTOPTAHF22131;Ignore §Y[This.GetTitledFirstName]§!'s compliments.;;;;;;;;;;;Èãíîðèðîâàòü [From.GetHersHis] êîìïëèìåíòû.;;x
+tooltip_EVTOPTAHF22133;Continue to §YAntagonize§! §Y[From.GetTitledFirstName]§!;;;;;;;;;;;Ïðîäîëæèòü §Yóõóäøåíèå îòíîøåíèé§! ñ [From.GetAgedPersonINS] ïî èìåíè §Y[From.GetTitledFirstName]§!;;x
+tooltip_EVTOPTBHF22111;Stop §YAntagonizing [From.GetTitledFirstName]§! for a few years.;;;;;;;;;;;Ïðåêðàòèòü §Yóõóäøåíèå îòíîøåíèé§! ñ í[From.GetEyIm] íà íåñêîëüêî ëåò.;;x
+tooltip_HF22055_A;Thanks to this document, you will be able to declare a war of §YVassalization§! against §Y[This.GetTitledFirstName]§! without incurring in any §YPrestige§! loss.;;;;;;;;;;;Áëàãîäàðÿ ýòîìó äîêóìåíòó, Âû ñìîæåòå îáúÿâèòü âîéíó çà §Yïðèíóæäåíèå ê âàññàëèçàöèè§! [antagonize_target.GetAgedPersonDAT], èçâåñòíî[antagonize_target.GetYMu] êàê §Y[antagonize_target.GetTitledFirstName]§!, áåç ïîòåðè §Yïðåñòèæà§!.;;x
+tooltip_HF22056_A;§Y[From.GetTitledFirstName]§! has gained a legitimate claim to wage a war of §YVassalization§! against you.;;;;;;;;;;;§Y[From.GetTitledFirstName]§! ïîëó÷èë[From.GetEndA] çàêîííîå îñíîâàíèå îáúÿâèòü Âàì âîéíó çà §Yïðèíóæäåíèå ê âàññàëèçàöèè§!.;;x
+tooltip_HF22070_A;Send a pox-ridden courtesan to §Y[This.GetTitledFirstName]§!, hoping [This.GetSheHe] will take the bait.;;;;;;;;;;;Ïîäîñëàòü çàðàçí[From.GetPreferenceUyuOgo] [From.GetPreferenceBoyGirlACC]-ïðîñòèòóòêó â íàäåæäå, ÷òî §Y[From.GetTitledFirstName]§! çàãëîòí¸ò íàæèâêó.;;x
+tooltip_HF22071_A;Refuse the courtesan's offering.;;;;;;;;;;;Îòêàçàòü [Root.GetPreferenceBoyGirlDAT].;;x
+tooltip_HF22071_B;Spend the night with your new friend.;;;;;;;;;;;Ïðîâåñòè íî÷ü ñ í[Root.GetPreferenceEyuIm].;;x
+tooltip_HF22076_A;Prepare a poisoned feast for §Y[This.GetTitledFirstName]§!.;;;;;;;;;;;Îòðàâèòü óãîùåíèå, êîòîðîå ïîëó÷èò §Y[From.GetTitledFirstName]§!.;;x
+tooltip_HF22077_A;Refuse §Y[This.GetTitledFirstName]'s§! gift.;;;;;;;;;;;Îòâåðãíóòü ïîäàðîê, êîòîðûé §Y[From.GetTitledFirstName]§! Âàì ïðèñëàë[From.GetEndA].;;x
+tooltip_HF22077_B;Eat §Y[This.GetTitledFirstName]'s§! boar.;;;;;;;;;;;Åñòü âåïðÿ, êîòîðîãî §Y[From.GetTitledFirstName]§! Âàì ïîäàðèë[From.GetEndA].;;x
+tooltip_HF22082_A;Gift §Y[This.GetTitledFirstName]§! a forged present, hoping [This.GetSheHe] will inadvertently embarrass [This.GetHerselfHimself] with it.;;;;;;;;;;;§Y[From.GetTitledFirstName]§! ïîëó÷èò îò Âàñ ïîääåëêó â êà÷åñòâå ïîäàðêà.;;x
+tooltip_HF22083_A;Make sure that the artifact is kept safe and away from sight.;;;;;;;;;;;Óáåäèòüñÿ, ÷òî àðòåôàêò õðàíèòñÿ â öåëîñòè è ñîõðàííîñòè.;;x
+tooltip_HF22088_A;Send a falsified report on §Y[This.GetTitledFirstName]'s§! demesne to force a new survey of [This.GetHerHis] borders.;;;;;;;;;;;Ïîñëàòü ôàëüøèâûé îò÷¸ò î ñîñòîÿíèè çåìåëü, êîòîðûìè âëàäååò §Y[From.GetTitledFirstName]§!, ÷òîáû ñïðîâîöèðîâàòü íîâûé îñìîòð ãðàíèö.;;x
+tooltip_HF22089_A;Ignore the survey.;;;;;;;;;;;Èãíîðèðîâàòü îò÷¸ò.;;x
+tooltip_HF22089_B;Issue another survey of your lands.;;;;;;;;;;;Íà÷àòü íîâûé îñìîòð çåìåëü.;;x
+tooltip_HF22094_A;Sabotage §Y[This.GetTitledFirstName]'s§! parade to §YAntagonize§! [This.GetHerHim].;;;;;;;;;;;Ñàáîòèðîâàòü ïàðàä, êîòîðûé îãðàíèçóåò §Y[From.GetTitledFirstName]§!, ÷òîáû §Yóõóäøèòü îòíîøåíèÿ§! ñ í[From.GetEyuIm].;;x
+tooltip_HF22095_A;Forgive the slight against you and continue with your parade.;;;;;;;;;;;Ïðîñòèòü èõ è ïðîäîëæèòü ïàðàä.;;x
+tooltip_HF22095_B;Ride in pursuit of the two boys.;;;;;;;;;;;Îòïðàâèòüñÿ â ïîãîíþ çà õóëèãàíàìè.;;x
+tooltip_HF22100_A;Provide a fake claim to one of §Y[This.GetTitledFirstName]'s§! neighboring lands, hoping [This.GetSheHe] will humiliate [This.GetHerselfHimself] by trying to press it.;;;;;;;;;;;§Y[From.GetTitledFirstName]§! ïîëó÷èò îò Âàñ ôàëüøèâûå äîêóìåíòû ñ ïðàâàìè íà ñîñåäíèå çåìëè è, âîçìîæíî, óíèçèò ñåáÿ, ïûòàÿñü çàÿâèòü î ïðåòåíçèÿõ íà íèõ.;;x
+tooltip_HF22101_A;Refuse §Y[This.GetTitledFirstName]'s§! claim.;;;;;;;;;;;Îòêàçàòüñÿ îò ïîäàðêà â âèäå äîêóìåíòîâ, êîòîðûå §Y[From.GetTitledFirstName]§! Âàì ïðåäëîæèë[From.GetEndA].;;x
+tooltip_HF22106_A;Have a very special painting of §Y[This.GetTitledFirstName]§! delivered to [This.GetHerHim] as a gift.;;;;;;;;;;;Íàïèñàòü âåñüìà ñïåöèôè÷åñêèé ïîðòðåò, êîòîðûé ïîëó÷èò îò Âàñ §Y[From.GetTitledFirstName]§! â êà÷åñòâå ïîäàðêà.;;x
+tooltip_HF22107_A;Accept §Y[This.GetTitledFirstName]'s§! gift, but arrange for it to be placed somewhere remote where nobody will ever see it.;;;;;;;;;;;Ïðèíÿòü ïîðòðåò, êîòîðûé §Y[From.GetTitledFirstName]§! Âàì ïîäàðèë[From.GetEndA], íî ïîâåñèòü åãî ïîäàëüøå îò ïîñòîðîííèõ ãëàç.;;x
+tooltip_HF22107_B;Arrange for the portrait to be placed in the main hall of your [Root.GetHouse].;;;;;;;;;;;Ïîâåñèòü ïîðòðåò â ãëàâíîì çàëå.;;x

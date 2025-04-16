@@ -1,119 +1,116 @@
-religion_adventuring;Daring;;;;;;;;;;;;;x
-religion_adventuring_desc;The gods praise bravery and a free spirit. They encourage even the smallest man to reach for the stars.;;;;;;;;;;;;;x
-religion_animistic;Animistic;;;;;;;;;;;;;x
-religion_animistic_desc;Spirits and magic are all around us, hiding inside every tree, under every river, flying above our heads and beneath the very earth we walk on.;;;;;;;;;;;;;x
-religion_animistic_feature;Upon reaching adulthood, characters perform a rite of passage.;;;;;;;;;;;;;x
-religion_astrology;Astrology;;;;;;;;;;;;;x
-religion_astrology_desc;The gods wrote our Fate in the stars. We only need to look up to know what lies within us.;;;;;;;;;;;;;x
-religion_astrology_feature;Characters are born under specific Zodiac signs;;;;;;;;;;;;;x
-religion_autocephaly;Autocephalous;;;;;;;;;;;;;x
-religion_autocephaly_desc;Every realm shall have its High Priest, working alongside its ruler and fulfilling the needs of the gods and their followers.;;;;;;;;;;;;;x
-religion_beatification;Ancestor Veneration;;;;;;;;;;;;;x
-religion_beatification_desc;Our pious ancestors deserve our respect and veneration, it is only right for us to remember them fittingly.;;;;;;;;;;;;;x
-religion_beatification_feature;Can venerate ancestors;;;;;;;;;;;;;x
-religion_cosmopolitan;Cosmopolitan;;;;;;;;;;;;;x
-religion_cosmopolitan_desc;We must acknowledge that every group of people has its own protectors and that more often than not we all worship the same gods, but with different names and in different ways.;;;;;;;;;;;;;x
-religion_defensive;Unyielding;;;;;;;;;;;;;x
-religion_defensive_desc;We might never spread the worship of our gods to all the corners of the worlds, but we are committed to make our ancestral lands impregnable to missionaries and infidels.;;;;;;;;;;;;;x
-religion_dogmatic;Dogmatic;;;;;;;;;;;;;x
-religion_dogmatic_desc;There is only One Word, only one correct interpretation of our scriptures, only one way to please the gods.;;;;;;;;;;;;;x
-religion_equal;Equality;;;;;;;;;;;;;x
-religion_equal_desc;Both gods and goddesses rule the heavens, and so it is only just to allow both men and women to rule the Earth.;;;;;;;;;;;;;x
-religion_equal_feature;Both men and women have equal access to all positions of power;;;;;;;;;;;;;x
-religion_feature_aztec;Invaders;;;;;;;;;;;;;x
-religion_feature_aztec_desc;Our warriors must be ruthless and our armies unyielding if we wish to satiate the gods with the bountiful cattle roaming this New World.;;;;;;;;;;;;;x
-religion_feature_aztec_feature;Rulers follow the Aztec principles of human sacrifices, seafaring and relentlessness;;;;;;;;;;;;;x
-religion_feature_baltic;Defenders of Dievas;;;;;;;;;;;;;x
-religion_feature_baltic_desc;We must stand strong to survive the assaults of the new religions. Only the best among us will survive to preserve the memory of the gods.;;;;;;;;;;;;;x
-religion_feature_baltic_feature;Rulers can designate heirs and are hard to convert;;;;;;;;;;;;;x
-religion_feature_bon;Harmonious;;;;;;;;;;;;;x
-religion_feature_bon_desc;A balance of old and new traditions is the imperative requirement for an enlightened future, blessed by the favor of the gods.;;;;;;;;;;;;;x
-religion_feature_bon_feature;Close-kin marriage is forbidden and Heir Designation is allowed;;;;;;;;;;;;;x
-religion_feature_finnish;Survivors of Ukko;;;;;;;;;;;;;x
-religion_feature_finnish_desc;For too long our tribes have squabbled against each other while our real enemies besieged us from outside. We must stand united or disappear forever!;;;;;;;;;;;;;x
-religion_feature_finnish_feature;Rulers receive no Short Reign penalty and are hard to convert;;;;;;;;;;;;;x
-religion_feature_hellenic;Civilized;;;;;;;;;;;;;x
-religion_feature_hellenic_desc;We must remember that the gods are hardly ever interested in mortal affairs and that we should endeavor to maintain a detached attitude towards faith.;;;;;;;;;;;;;x
-religion_feature_hellenic_feature;Rulers follow the Hellenic principles of syncretism and meritocracy;;;;;;;;;;;;;x
-religion_feature_norse;Sons of Ragnarok;;;;;;;;;;;;;x
-religion_feature_norse_desc;We shall not wane into obscurity without a fight! The end times are near. Our people must prove their worth if they are ever to enter Valhalla!;;;;;;;;;;;;;x
-religion_feature_norse_feature;Rulers follow the Norse principles of adventuring and seafaring;;;;;;;;;;;;;x
-religion_feature_pyramids;Pyramid Creation;;;;;;;;;;;;;x
-religion_feature_pyramids_desc;Pyramids were built many years ago by the ancients, we too should aspire to such lofty heights.;;;;;;;;;;;;;x
-religion_feature_slavic;Children of Perun;;;;;;;;;;;;;x
-religion_feature_slavic_desc;All the children of Perun will come together, sharing a new, harmonious understanding of the gods, so that we can live in peace and prosperity with our neighbors.;;;;;;;;;;;;;x
-religion_feature_slavic_feature;Rulers can move by river and do not suffer Short Reign penalties;;;;;;;;;;;;;x
-religion_feature_tengri;Eternal Riders;;;;;;;;;;;;;x
-religion_feature_tengri_desc;The Endless Blue Sky beckons our armies to ride forward and spread to the four corners of the world, untamed and unstoppable!;;;;;;;;;;;;;x
-religion_feature_tengri_feature;Polygamy is allowed and armies ignore defensive attrition;;;;;;;;;;;;;x
-religion_feature_west_african;Totem-Guardians;;;;;;;;;;;;;x
-religion_feature_west_african_desc;In order for any spirit to get his due we must make sure that our priestly caste is qualified in all the spells and rituals scattered throughout our old traditions.;;;;;;;;;;;;;x
-religion_feature_west_african_feature;Religious Taxes and monastic traditions are enforced;;;;;;;;;;;;;x
-religion_feature_zun;Dawnbreakers;;;;;;;;;;;;;x
-religion_feature_zun_desc;We must acknowledge the undeniable authority of the sun and its favored bloodlines in order to ensure the prosperity of our people.;;;;;;;;;;;;;x
-religion_feature_zun_feature;Polygamy and holy close-kin marriages are allowed;;;;;;;;;;;;;x
-religion_harems;Polygamy;;;;;;;;;;;;;x
-religion_harems_desc;It is time that we acknowledge our concubines as full spouses. The children we have with them are just as legitimate as any other.;;;;;;;;;;;;;x
-religion_haruspicy;Haruspicy;;;;;;;;;;;;;x
-religion_haruspicy_desc;Only through the proper use of divination can we discern the will of the gods and lead our armies to victory.;;;;;;;;;;;;;x
-religion_haruspicy_feature;Army morale is determined by Haruspicy;;;;;;;;;;;;;x
-religion_holy_family;Divine Marriage;;;;;;;;;;;;;x
-religion_holy_family_desc;The gods have chosen certain bloodlines over others. Such dynasties must be maintained pure if we wish to keep the favor of our creators.;;;;;;;;;;;;;x
-religion_holy_family_feature;Allows holy close-kin marriages;;;;;;;;;;;;;x
-religion_jizya;Religious Tax;;;;;;;;;;;;;x
-religion_jizya_desc;We will allow infidels to live in our lands, but only as long as they pay regularly for their blasphemy by giving us offerings of wealth and resources.;;;;;;;;;;;;;x
-religion_leader_unchanged;Unchanged;;;;;;;;;;;;;x
-religion_leader_unchanged_desc;Leadership can only be changed when reforming a Pagan religion.;;;;;;;;;;;;;x
-religion_matriarchal;Enatic Clans;;;;;;;;;;;;;x
-religion_matriarchal_desc;It is only through the strong and wise leadership of women that we will be able to fulfill the great destiny that the gods have in store for us.;;;;;;;;;;;;;x
-religion_matriarchal_feature;Men are entirely excluded from all positions of power;;;;;;;;;;;;;x
-religion_meritocratic;Meritocracy;;;;;;;;;;;;;x
-religion_meritocratic_desc;The gods do not care about the order in which a child is born, they care about the skills and virtues that he shows as a man.;;;;;;;;;;;;;x
-religion_monastic;Monasticism;;;;;;;;;;;;;x
-religion_monastic_desc;The most devout amongst us should be allowed to abandon their earthly affairs and spend their lives in seclusion and worship.;;;;;;;;;;;;;x
-religion_no_leader;Autonomous;;;;;;;;;;;;;x
-religion_no_leader_desc;Every priest will be given the chance to give his proper interpretation of the new holy text, free from any centralized authority.;;;;;;;;;;;;;x
-religion_patriarchal;Agnatic Clans;;;;;;;;;;;;;x
-religion_patriarchal_desc;It is only through the strong and resolute leadership of men that we will be able to fulfill the great destiny that the gods have in store for us.;;;;;;;;;;;;;x
-religion_patriarchal_feature;Women are entirely excluded from all positions of power;;;;;;;;;;;;;x
-religion_peaceful;Peaceful;;;;;;;;;;;;;x
-religion_peaceful_desc;We must endeavor to lead a life of peaceful conduct and harmonious discourse with our opponents, rather than fall to the sins of violence and mad pursuit of power.;;;;;;;;;;;;;x
-religion_proselytizing;Proselytizing;;;;;;;;;;;;;x
-religion_proselytizing_desc;One thing that the heathen missionaries have shown us is that it is not by the strength of weapons that the gods are preserved, but through the power of words.;;;;;;;;;;;;;x
-religion_relentless;Unrelenting;;;;;;;;;;;;;x
-religion_relentless_desc;The gods will only reward the bravest and most fierce amongst the faithful. To die in battle is the greatest of honors a man can aspire to.;;;;;;;;;;;;;x
-religion_relentless_feature;Armies ignore defensive attrition;;;;;;;;;;;;;x
-religion_ritual_sacrifice;Bloodthirsty Gods;;;;;;;;;;;;;x
-religion_ritual_sacrifice_desc;Our heavenly masters are cruel and ever thirsty. If we do not placate their hunger for flesh, blood, and souls they will turn their wrath upon us.;;;;;;;;;;;;;x
-religion_ritual_sacrifice_feature;Rulers can sacrifice infidel prisoners to gain Piety, unlock ritual decisions and the Flower War casus belli;;;;;;;;;;;;;x
-religion_seafaring;Sea-bound;;;;;;;;;;;;;x
-religion_seafaring_desc;The gods have given us knowledge of the tides and of ship-craft so that we could use it to spread their word to all the corners of the world.;;;;;;;;;;;;;x
-religion_seafaring_feature;Naval Maintenance is greatly reduced;;;;;;;;;;;;;x
-religion_stable;Stability;;;;;;;;;;;;;x
-religion_stable_desc;It is blasphemous to doubt the legitimacy of a ruler who has come to power under the favor of the gods. He should be shown immediate loyalty by his subjects.;;;;;;;;;;;;;x
-religion_stable_feature;Rulers do not receive Short Reign penalty;;;;;;;;;;;;;x
-religion_syncretic;Syncretism;;;;;;;;;;;;;x
-religion_syncretic_desc;The wisest amongst us should be allowed to study other faiths and learn more about the people around us.;;;;;;;;;;;;;x
-religion_syncretic_feature;Rulers can gain Sympathy towards another religious group;;;;;;;;;;;;;x
-religion_temporal_head;Temporal;;;;;;;;;;;;;x
-religion_temporal_head_desc;Secular and spiritual powers are inextricably bound. It is pointless to divide them between two offices.;;;;;;;;;;;;;x
-religion_theocratic_head;Hierocratic;;;;;;;;;;;;;x
-religion_theocratic_head_desc;A High Priest should be given complete control over all spiritual matters, so that the gods may be pleased with the proper rituals.;;;;;;;;;;;;;x
-religion_warlike;Warmongering;;;;;;;;;;;;;x
-religion_warlike_desc;Our only way forward is paved with the skulls of our enemies! Only by showing their bravery in battle the faithful can hope to be rewarded in the afterlife!;;;;;;;;;;;;;x
-
-feature_disorganized;Disorganized;;;;;;;;;;;;;x
-feature_primitive;Primitive;;;;;;;;;;;;;x
-feature_shamanic;Shamanic;;;;;;;;;;;;;x
-feature_uncertain;Uncertain;;;;;;;;;;;;;x
-
+religion_adventuring;Daring;;;;;;;;;;;Îòâàãà;;x
+religion_adventuring_desc;The gods praise bravery and a free spirit. They encourage even the smallest man to reach for the stars.;;;;;;;;;;;Áîãè âîñõâàëÿþò õðàáðîñòü è ñâîáîäó äóõà. Îíè äàðÿò íàäåæäó âñåì.;;x
+religion_animistic;Animistic;;;;;;;;;;;Àíèìèçì;;x
+religion_animistic_desc;Spirits and magic are all around us, hiding inside every tree, under every river, flying above our heads and beneath the very earth we walk on.;;;;;;;;;;;Äóõè è ìàãèÿ ïðîíèçûâàþò âñ¸ âîêðóã íàñ. Îíè â êàæäîì äåðåâå, â êàæäîì ðó÷åéêå, âèòàþò â âîçäóõå è ïðîïèòûâàþò çåìëþ, ïî êîòîðîé ìû õîäèì.;;x
+religion_animistic_feature;Upon reaching adulthood, characters perform a rite of passage.;;;;;;;;;;;Ïî äîñòèæåíèè ñîâåðøåííîëåòèÿ íóæíî ïðîéòè îñîáûé îáðÿä.;;x
+religion_astrology;Astrology;;;;;;;;;;;Àñòðîëîãèÿ;;x
+religion_astrology_desc;The gods wrote our Fate in the stars. We only need to look up to know what lies within us.;;;;;;;;;;;Áîãè çàïèñàëè íàøó ñóäüáó â çâ¸çäíîì íåáå. Íàäî ëèøü óñòðåìèòü ñâîé âçîð ê çâ¸çäàì, ÷òîáû óçíàòü ÷òî îíè íàì óãîòîâèëè.;;x
+religion_astrology_feature;Characters are born under specific Zodiac signs;;;;;;;;;;;Çíàêè çîäèàêà ó÷èòûâàþòñÿ ïðè ðîæäåíèè è ÿâëÿþòñÿ ÷åðòàìè õàðàêòåðà;;x
+religion_autocephaly;Autocephalous;;;;;;;;;;;Àâòîêåôàëèÿ;;x
+religion_autocephaly_desc;Every realm shall have its High Priest, working alongside its ruler and fulfilling the needs of the gods and their followers.;;;;;;;;;;;Êàæäàÿ ñòðàíà äîëæíà èìåòü ñâîåãî Ïåðâîñâÿùåííèêà â ïîìîùü ïðàâèòåëþ, äàáû óäîâëåòâîðÿòü ïîòðåáíîñòè áîãîâ è èõ ïîñëåäîâàòåëåé.;;x
+religion_beatification;Ancestor Veneration;;;;;;;;;;;Êóëüò ïðåäêîâ;;x
+religion_beatification_desc;Our pious ancestors deserve our respect and veneration, it is only right for us to remember them fittingly.;;;;;;;;;;;Íàøè ìóäðûå ïðåäêè çàñëóæèâàþò ïî÷èòàíèÿ è óâàæåíèÿ, íàø ñâÿòîé äîëã - ïîìíèòü î íèõ è îòäàâàòü èì ïî÷åñòè ÷åðåç ïðàâåäíûå ðèòóàëû.;;x
+religion_beatification_feature;Can venerate ancestors;;;;;;;;;;;Ìîæíî ÷òèòü ïðåäêîâ;;x
+religion_cosmopolitan;Cosmopolitan;;;;;;;;;;;Êîñìîïîëèòè÷íàÿ;;x
+religion_cosmopolitan_desc;We must acknowledge that every group of people has its own protectors and that more often than not we all worship the same gods, but with different names and in different ways.;;;;;;;;;;;Ìû äîëæíû ïðèçíàòü, ÷òî ó êàæäîãî íàðîäà åñòü ñâîè ïîêðîâèòåëè, è ÷òî âñå ìû ïîêëîíÿåìñÿ îäíèì è òåì æå áîãàì, ïðîñòî çíàåì èõ ïîä ðàçíûìè èìåíàìè.;;x
+religion_defensive;Unyielding;;;;;;;;;;;Íåñãèáàåìàÿ;;x
+religion_defensive_desc;We might never spread the worship of our gods to all the corners of the worlds, but we are committed to make our ancestral lands impregnable to missionaries and infidels.;;;;;;;;;;;Ïóñòü ìû íå ñìîæåì äîíåñòè ãëàñ íàøèõ áîãîâ âî âñå óãîëêè ìèðà, íî è ñëîâà íåâåðíûõ íå êîñíóòñÿ íàøåé çåìëè.;;x
+religion_dogmatic;Dogmatic;;;;;;;;;;;Äîãìàòè÷åñêàÿ;;x
+religion_dogmatic_desc;There is only One Word, only one correct interpretation of our scriptures, only one way to please the gods.;;;;;;;;;;;Åñòü ëèøü îäíî Ñëîâî, ëèøü îäíî èñòèííîå òîëêîâàíèå Ñâÿùåííûõ Ïèñàíèé, ëèøü îäèí ñïîñîá îáðåñòè áîãà.;;x
+religion_equal;Equality;;;;;;;;;;;Ðàâåíñòâî;;x
+religion_equal_desc;Both gods and goddesses rule the heavens, and so it is only just to allow both men and women to rule the Earth.;;;;;;;;;;;Áîãè è áîãèíè óïðàâëÿþò íåáåñàìè, ýòî ëè íå çíàê, ÷òî ìóæ÷èíû è æåíùèíû ðàâíû â ïðàâàõ?;;x
+religion_equal_feature;Both men and women have equal access to all positions of power;;;;;;;;;;;Ìóæ÷èíû è æåíùèíû èìåþò ðàâíûå ïðàâà è ñòàòóñ â ïîëèòèêå;;x
+religion_feature_aztec;Invaders;;;;;;;;;;;Âòîðæåíèå;;x
+religion_feature_aztec_desc;Our warriors must be ruthless and our armies unyielding if we wish to satiate the gods with the bountiful cattle roaming this New World.;;;;;;;;;;;Íàøè âîèíû äîëæíû áûòü áåçæàëîñòíû, à íàøè àðìèè íåïðåêëîííû. Òîëüêî òàê, åñëè ìû õîòèì óìèëîñòèâèòü áîãîâ æåðòâîïðèíîøåíèÿìè.;;x
+religion_feature_aztec_feature;Rulers follow the Aztec principles of human sacrifices, seafaring and relentlessness;;;;;;;;;;;Ïðàâèòåëè ñëåäóþò ïðèíöèïàì ÷åëîâå÷åñêèõ æåðòâîïðèíîøåíèé è ìîðåïëàâàíèÿ;;x
+religion_feature_baltic;Defenders of Dievas;;;;;;;;;;;Çàùèòíèêè Äèåâàñà;;x
+religion_feature_baltic_desc;We must stand strong to survive the assaults of the new religions. Only the best among us will survive to preserve the memory of the gods.;;;;;;;;;;;Ìû äîëæíû âûñòîÿòü, äàáû ïåðåæèòü íîâûå êóëüòû. Îñòàíóòñÿ òîëüêî ëó÷øèå, ñîõðàíèâ ïàìÿòü î íàøèõ áîãàõ.;;x
+religion_feature_baltic_feature;Rulers can designate heirs and are hard to convert;;;;;;;;;;;Ðàçðåøàåò âûáîð íàñëåäíèêà è äà¸ò óñòîé÷èâîñòü ê ïðîïîâåäÿì ñî ñòîðîíû äðóãèõ ðåëèãèé;;x
+religion_feature_bon;Harmonious;;;;;;;;;;;Ãàðìîíèÿ;;x
+religion_feature_bon_desc;A balance of old and new traditions is the imperative requirement for an enlightened future, blessed by the favor of the gods.;;;;;;;;;;;Áàëàíñ ìåæäó ñòàðûì è íîâûì, âàæåí äëÿ ïðîñâåòë¸ííîãî áóäóùåãî è áëàãîñêëîííîñòè áîãîâ.;;x
+religion_feature_bon_feature;Close-kin marriage is forbidden and Heir Designation is allowed;;;;;;;;;;;Çàïðåùàåò áëèçêîðîäñòâåííûå áðàêè, íî ðàçðåøàåò âûáîð íàñëåäíèêà;;x
+religion_feature_finnish;Survivors of Ukko;;;;;;;;;;;Â îáúÿòüÿõ Óêêî;;x
+religion_feature_finnish_desc;For too long our tribes have squabbled against each other while our real enemies besieged us from outside. We must stand united or disappear forever!;;;;;;;;;;;Ñëèøêîì äîëãî íàøè ïëåìåíà ñðàæàëèñü äðóã ïðîòèâ äðóãà, à íàñòîÿùèå âðàãè îñàæäàëè íàñ èçâíå. Ìû äîëæíû ñòàòü åäèíû èëè èñ÷åçíóòü íàâñåãäà!;;x
+religion_feature_finnish_feature;Rulers receive no Short Reign penalty and are hard to convert;;;;;;;;;;;Óáèðàåò øòðàô çà êîðîòêîå ïðàâëåíèå è äà¸ò óñòîé÷èâîñòü ê ïðîïîâåäÿì ñî ñòîðîíû äðóãèõ ðåëèãèé;;x
+religion_feature_hellenic;Civilized;;;;;;;;;;;Öèâèëèçîâàííîñòü;;x
+religion_feature_hellenic_desc;We must remember that the gods are hardly ever interested in mortal affairs and that we should endeavor to maintain a detached attitude towards faith.;;;;;;;;;;;Íóæíî ïîìíèòü, ÷òî áîãè íå èíòåðåñóþòñÿ äåëàìè ñìåðòíûõ, òàê è ìû äîëæíû ñòðåìèòüñÿ ïîääåðæèâàòü îò÷óæä¸ííîå îòíîøåíèå ê âåðå.;;x
+religion_feature_hellenic_feature;Rulers follow the Hellenic principles of syncretism and meritocracy;;;;;;;;;;;Ïðàâèòåëè ñëåäóþò ïðèíöèïàì ñèíêðåòèçìà è ìåðèòîêðàòèè;;x
+religion_feature_norse;Sons of Ragnarok;;;;;;;;;;;Ñûíû Ðàãíàð¸êà;;x
+religion_feature_norse_desc;We shall not wane into obscurity without a fight! The end times are near. Our people must prove their worth if they are ever to enter Valhalla!;;;;;;;;;;;Ìû íå êàíåì â áåçâåñòíîñòü! Êîíåö âðåì¸í áëèçîê. Íàøè èìåíà áóäóò âîñïåâàòü â ëåãåíäàõ, à ìû áóäåì ïèðîâàòü â Âàëüõàëëå!;;x
+religion_feature_norse_feature;Rulers follow the Norse principles of adventuring and seafaring;;;;;;;;;;;Ïðàâèòåëè ñëåäóþò ñêàíäèíàâñêèì ïðèíöèïàì ìîðåïëàâàíèÿ è ïîèñêà ïðèêëþ÷åíèé;;x
+religion_feature_pyramids;Pyramid Creation;;;;;;;;;;;Ñòðîèòåëüñòâî ïèðàìèä;;x
+religion_feature_pyramids_desc;Pyramids were built many years ago by the ancients, we too should aspire to such lofty heights.;;;;;;;;;;;Ïèðàìèäû áûëè ïîñòðîåíû â äðåâíèå âðåìåíà, è ìû òîæå äîëæíû ñòðåìèòüñÿ ê òàêèì âûñîòàì.;;x
+religion_feature_slavic;Children of Perun;;;;;;;;;;;Äåòè Ïåðóíà;;x
+religion_feature_slavic_desc;All the children of Perun will come together, sharing a new, harmonious understanding of the gods, so that we can live in peace and prosperity with our neighbors.;;;;;;;;;;;Âñå äåòè Ïåðóíà ñîáåðóòñÿ âìåñòå, ðàçäåëÿÿ íîâîå, äàáû æèòü â ãàðìîíèè ñ íîâûìè áîãàìè è ñîñåäÿìè.;;x
+religion_feature_slavic_feature;Rulers can move by river and do not suffer Short Reign penalties;;;;;;;;;;;Ïðàâèòåëè ìîãóò ïëàâàòü ïî ðåêàì è íå ñòðàäàþò îò øòðàôîâ çà êîðîòêîå ïðàâëåíèå;;x
+religion_feature_tengri;Eternal Riders;;;;;;;;;;;Âå÷íûå Âñàäíèêè;;x
+religion_feature_tengri_desc;The Endless Blue Sky beckons our armies to ride forward and spread to the four corners of the world, untamed and unstoppable!;;;;;;;;;;;Áåñêîíå÷íàÿ ãîëóáàÿ ãëàäü íåïðåîäîëèìî ìàíèò íàñ, äàáû îðäà ïîêðûëà âñå ñòîðîíû ìèðà!;;x
+religion_feature_tengri_feature;Polygamy is allowed and armies ignore defensive attrition;;;;;;;;;;;"Ðàçðåøàåò ïîëèãàìèþ è èçáàâëÿåò âîéñêà îò ""îáîðîíèòåëüíîãî"" èçìîðà íà òåððèòîðèè âðàãà";;x
+religion_feature_west_african;Totem-Guardians;;;;;;;;;;;Òîòåìû-õðàíèòåëè;;x
+religion_feature_west_african_desc;In order for any spirit to get his due we must make sure that our priestly caste is qualified in all the spells and rituals scattered throughout our old traditions.;;;;;;;;;;;Äàáû êàæäûé äóõ áûë óìèðîòâîð¸í, ìû äîëæíû óáåäèòüñÿ, ÷òî íàøè æðåöû çíàþò âñå ðèòóàëû è çàêëèíàíèÿ ïëåìåíè.;;x
+religion_feature_west_african_feature;Religious Taxes and monastic traditions are enforced;;;;;;;;;;;Ïîîùðÿåò ðåëèãèîçíûå íàëîãè è ìîíàøåñêèå òðàäèöèè;;x
+religion_feature_zun;Dawnbreakers;;;;;;;;;;;Âåñòíèêè Ðàññâåòà;;x
+religion_feature_zun_desc;We must acknowledge the undeniable authority of the sun and its favored bloodlines in order to ensure the prosperity of our people.;;;;;;;;;;;Ìû äîëæíû ïðèçíàòü âëàñòü ñîëíöà è ëþáèìûõ èì ïî êðîâè, âî èìÿ ïðîöâåòàíèÿ íàøåãî íàðîäà.;;x
+religion_feature_zun_feature;Polygamy and holy close-kin marriages are allowed;;;;;;;;;;;Ðàçðåøàåò ïîëèãàìèþ è ñâÿùåííûé áðàê ìåæäó áëèçêèìè ðîäñòâåííèêàìè;;x
+religion_harems;Polygamy;;;;;;;;;;;Ïîëèãàìèÿ;;x
+religion_harems_desc;It is time that we acknowledge our concubines as full spouses. The children we have with them are just as legitimate as any other.;;;;;;;;;;;Ïðèøëî âðåìÿ ïðèçíàòü íàøèõ íàëîæíèö êàê ïîëíîïðàâíûõ ñóïðóãîâ. Îòíûíå èõ äåòè áóäóò èìåòü òå æå ïðàâà, ÷òî è ðîæä¸ííûå â áðàêå.;;x
+religion_haruspicy;Haruspicy;;;;;;;;;;;Ãàäàíèå;;x
+religion_haruspicy_desc;Only through the proper use of divination can we discern the will of the gods and lead our armies to victory.;;;;;;;;;;;Òîëüêî ïðåäñêàçàíèÿ ìîãóò ïîâåäàòü íàì âîëþ áîãîâ è è ïðèâåñòè âîéñêà ê ïîáåäå.;;x
+religion_haruspicy_feature;Army morale is determined by Haruspicy;;;;;;;;;;;Áîåâîé äóõ âîéñê çàâèñèò îò ðåçóëüòàòà ïðîðèöàíèÿ ñî ñòîðîíû ñâÿùåííîñëóæèòåëåé;;x
+religion_holy_family;Divine Marriage;;;;;;;;;;;Áîæåñòâåííûé áðàê;;x
+religion_holy_family_desc;The gods have chosen certain bloodlines over others. Such dynasties must be maintained pure if we wish to keep the favor of our creators.;;;;;;;;;;;Áîãè ïðåäïî÷ëè îäíè ðîäîñëîâíûå äðóãèì. Òàêèå äèíàñòèè äîëæíû ñîõðàíèòü ÷èñòîòó ñâîåé êðîâè, åñëè ìû õîòèì ñíèñêàòü áëàãîñêëîííîñòü íàøèõ ñîçäàòåëåé.;;x
+religion_holy_family_feature;Allows holy close-kin marriages;;;;;;;;;;;Ðàçðåøàåò ñâÿùåííûé áðàê ìåæäó áëèçêèìè ðîäñòâåííèêàìè;;x
+religion_jizya;Religious Tax;;;;;;;;;;;Ðåëèãèîçíàÿ ïîäàòü;;x
+religion_jizya_desc;We will allow infidels to live in our lands, but only as long as they pay regularly for their blasphemy by giving us offerings of wealth and resources.;;;;;;;;;;;Ìû ïîçâîëèì íåâåðíûì æèòü íà íàøèõ çåìëÿõ, íî ëèøü äî òåõ ïîð, ïîêà îíè èñêóïàþò ñâîè ãðåõè, ïëàòÿ ïîäàòè è äåëàÿ ïîæåðòâîâàíèÿ.;;x
+religion_leader_unchanged;Unchanged;;;;;;;;;;;Íåñìåíÿåìîñòü;;x
+religion_leader_unchanged_desc;Leadership can only be changed when reforming a Pagan religion.;;;;;;;;;;;Ãëàâà ðåëèãèè ìîæåò áûòü èçìåí¸í òîëüêî ÷åðåç ðåôîðìàöèþ ÿçû÷åñêîé âåðû.;;x
+religion_matriarchal;Enatic Clans;;;;;;;;;;;Ýíàòè÷åñêèå êëàíû;;x
+religion_matriarchal_desc;It is only through the strong and wise leadership of women that we will be able to fulfill the great destiny that the gods have in store for us.;;;;;;;;;;;Òîëüêî áëàãîäàðÿ ñèëüíîé è ìóäðîé æåíùèíå âî ãëàâå, ìû ñìîæåì âûïîëíèòü âåëèêîå ïðåäíàçíà÷åíèå, ÷òî óãîòîâèëè íàì áîãè.;;x
+religion_matriarchal_feature;Men are entirely excluded from all positions of power;;;;;;;;;;;Çàïðåùàåò ìóæ÷èíàì ó÷àñòâîâàòü â îáùåñòâåííîé æèçíè è ãîñóäàðñòâåííûõ äåëàõ;;x
+religion_meritocratic;Meritocracy;;;;;;;;;;;Ìåðèòîêðàòèÿ;;x
+religion_meritocratic_desc;The gods do not care about the order in which a child is born, they care about the skills and virtues that he shows as a man.;;;;;;;;;;;Áîãîâ íå çàáîòÿò òèòóëû, ñ êîòîðûìè ðîæäàþòñÿ äåòè, îíè âíèìàþò íàâûêàì è äîáðîäåòåëÿì, êîòîðûå ÿâëÿþò ñîáîé ëþäè.;;x
+religion_monastic;Monasticism;;;;;;;;;;;Ìîíàøåñòâî;;x
+religion_monastic_desc;The most devout amongst us should be allowed to abandon their earthly affairs and spend their lives in seclusion and worship.;;;;;;;;;;;Ñàìûì íàáîæíûì ñðåäè íàñ äîëæíî áûòü äîçâîëåíî îòêàçàòüñÿ îò äåë ìèðñêèõ è óéòè â ìîíàñòûðü.;;x
+religion_no_leader;Autonomous;;;;;;;;;;;Àâòîíîìèÿ;;x
+religion_no_leader_desc;Every priest will be given the chance to give his proper interpretation of the new holy text, free from any centralized authority.;;;;;;;;;;;Êàæäûé ñâÿùåííèê èìååò ïðàâî äàòü ïðàâèëüíîå òîëêîâàíèå íîâîãî ñâÿùåííîãî òåêñòà, íåçàâèñèìî îò êàêîé-ëèáî öåíòðàëèçîâàííîé âëàñòè.;;x
+religion_patriarchal;Agnatic Clans;;;;;;;;;;;Àãíàòè÷åñêèå êëàíû;;x
+religion_patriarchal_desc;It is only through the strong and resolute leadership of men that we will be able to fulfill the great destiny that the gods have in store for us.;;;;;;;;;;;Òîëüêî áëàãîäàðÿ ñèëüíîìó è ðåøèòåëüíîìó ëèäåðó, ìû ñìîæåì âûïîëíèòü âåëèêîå ïðåäíàçíà÷åíèå, ÷òî óãîòîâèëè íàì áîãè.;;x
+religion_patriarchal_feature;Women are entirely excluded from all positions of power;;;;;;;;;;;Çàïðåùàåò æåíùèíàì ó÷àñòâîâàòü â îáùåñòâåííîé æèçíè è ãîñóäàðñòâåííûõ äåëàõ;;x
+religion_peaceful;Peaceful;;;;;;;;;;;Ìèðíàÿ;;x
+religion_peaceful_desc;We must endeavor to lead a life of peaceful conduct and harmonious discourse with our opponents, rather than fall to the sins of violence and mad pursuit of power.;;;;;;;;;;;Ìû äîëæíû ñòðåìèòüñÿ ê ìèðíîé æèçíè, äàáû ïðåáûâàòü â ãàðìîíèè ñ îêðóæàþùèì íàñ ìèðîì è ëþäüìè, èçáåãàÿ íàñèëèÿ è ãðåõîïàäåíèÿ;;x
+religion_proselytizing;Proselytizing;;;;;;;;;;;Ïðîçåëèòè÷åñêàÿ;;x
+religion_proselytizing_desc;One thing that the heathen missionaries have shown us is that it is not by the strength of weapons that the gods are preserved, but through the power of words.;;;;;;;;;;;Ïðîïîâåäíèêè-èíîâåðöû íàãëÿäíî ïîêàçàëè, ÷òî ñèëà áîãà íå â îðóæèè, à â ñëîâå.;;x
+religion_relentless;Unrelenting;;;;;;;;;;;Íåóìîëèìîñòü;;x
+religion_relentless_desc;The gods will only reward the bravest and most fierce amongst the faithful. To die in battle is the greatest of honors a man can aspire to.;;;;;;;;;;;Áîãè îäàðÿò òîëüêî ñàìûõ õðàáðûõ è ÿðûõ ïîñëåäîâàòåëåé. Ñìåðòü â áîþ - âåëè÷àéøàÿ ÷åñòü, ê êîòîðîé ìîæíî ñòðåìèòüñÿ.;;x
+religion_relentless_feature;Armies ignore defensive attrition;;;;;;;;;;;"Èçáàâëÿåò âîéñêà îò ""îáîðîíèòåëüíîãî"" èçìîðà íà òåððèòîðèè âðàãà";;x
+religion_ritual_sacrifice;Bloodthirsty Gods;;;;;;;;;;;Êðîâîæàäíûå áîãè;;x
+religion_ritual_sacrifice_desc;Our heavenly masters are cruel and ever thirsty. If we do not placate their hunger for flesh, blood, and souls they will turn their wrath upon us.;;;;;;;;;;;Íàøè áîãè æåñòîêè, è åñëè ìû íå óéì¸ì èõ æàæäó ïëîòè, êðîâè è äóø, îíè îáðóøàò ñâîé ãíåâ íà íàñ.;;x
+religion_ritual_sacrifice_feature;Rulers can sacrifice infidel prisoners to gain Piety, unlock ritual decisions and the Flower War casus belli;;;;;;;;;;;Óçíèêîâ-èíîâåðöåâ ìîæíî ïðèíîñèòü â æåðòâó ðàäè §Yáëàãî÷åñòèÿ§!. Íîâûå ðèòóàëüíûå ðåøåíèÿ è §Yâîéíà öâåòîâ§!.;;x
+religion_seafaring;Sea-bound;;;;;;;;;;;Óçû Ìîðÿ;;x
+religion_seafaring_desc;The gods have given us knowledge of the tides and of ship-craft so that we could use it to spread their word to all the corners of the world.;;;;;;;;;;;Áîãè äàëè íàì çíàíèÿ î ìîðåïëàâàíèè è êîðàáëåñòðîåíèè, äàáû ìû ìîãëè íåñòè èõ ñëîâî âî âñå óãîëêè ìèðà.;;x
+religion_seafaring_feature;Naval Maintenance is greatly reduced;;;;;;;;;;;Ñíèæàåò çàòðàòû íà êîðàáëè â 10 ðàç;;x
+religion_stable;Stability;;;;;;;;;;;Ñòàáèëüíîñòü;;x
+religion_stable_desc;It is blasphemous to doubt the legitimacy of a ruler who has come to power under the favor of the gods. He should be shown immediate loyalty by his subjects.;;;;;;;;;;;Ñîìíåâàòüñÿ â ïðàâèòåëå, êàê íàìåñòíèêå áîãà íà çåìëå, åñòü íå ÷òî èíîå, êàê - ñâÿòîòàòñòâî. Ïîääàíûå äîëæíû áûòü áëàãîñêëîííû ê ïðàâèòåëþ.;;x
+religion_stable_feature;Rulers do not receive Short Reign penalty;;;;;;;;;;;Óáèðàåò øòðàô çà êîðîòêîå ïðàâëåíèå;;x
+religion_syncretic;Syncretism;;;;;;;;;;;Ñèíêðåòèçì;;x
+religion_syncretic_desc;The wisest amongst us should be allowed to study other faiths and learn more about the people around us.;;;;;;;;;;;Ñàìûì ìóäðûì ñðåäè íàñ äîëæíî áûòü äîçâîëåíî èçó÷àòü äðóãèå ðåëèãèè è áîëüøå óçíàâàòü îá îêðóæàþùèõ íàñ ëþäÿõ.;;x
+religion_syncretic_feature;Rulers can gain Sympathy towards another religious group;;;;;;;;;;;Ðàçðåøàåò ïðîÿâëÿòü ñèìïàòèþ ê äðóãèì ðåëèãèîçíûì ãðóïïàì;;x
+religion_temporal_head;Temporal;;;;;;;;;;;Åäèíñòâî;;x
+religion_temporal_head_desc;Secular and spiritual powers are inextricably bound. It is pointless to divide them between two offices.;;;;;;;;;;;Ñâåòñêîå è äóõîâíîå íåäåëèìû. Íåçà÷åì ðàçðûâàòüñÿ ìåæäó íèìè.;;x
+religion_theocratic_head;Hierocratic;;;;;;;;;;;Èåðîêðàòèÿ;;x
+religion_theocratic_head_desc;A High Priest should be given complete control over all spiritual matters, so that the gods may be pleased with the proper rituals.;;;;;;;;;;;Ïåðâîñâÿùåííèêó ñëåäóåò äàòü ïîëíûé êîíòðîëü íàä âñåìè äóõîâíûìè äåëàìè, ÷òîáû áîãè áûëè äîâîëüíû íàäëåæàùèìè ðèòóàëàìè.;;x
+religion_warlike;Warmongering;;;;;;;;;;;Âîèíñòâåííàÿ;;x
+religion_warlike_desc;Our only way forward is paved with the skulls of our enemies! Only by showing their bravery in battle the faithful can hope to be rewarded in the afterlife!;;;;;;;;;;;Íàø åäèíñòâåííûé ïóòü âûìîùåí ÷åðåïàìè âðàãîâ! Òîëüêî ïîêàçàâ ñâîþ îòâàãó â áîþ ïîñëåäîâàòåëè ìîãóò óïîâàòü íà ñëàâó â çàãðîáíîé æèçíè!;;x
+feature_disorganized;Disorganized;;;;;;;;;;;Äåçîðãàíèçîâàííîñòü;;x
+feature_primitive;Primitive;;;;;;;;;;;Ïðîñòîòà;;x
+feature_shamanic;Shamanic;;;;;;;;;;;Øàìàíèçì;;x
+feature_uncertain;Uncertain;;;;;;;;;;;Íåîïðåäåë¸ííîñòü;;x
 # Character modifier tooltips
-MONASTIC_ATTR_RELIGION;Monastic Doctrine;;;;;;;;;;;;;x
-MONASTIC_AUTONOMOUS_ATTR_RELIGION;Monastic Autonomous Religion;;;;;;;;;;;;;x
-
+MONASTIC_ATTR_RELIGION;Monastic Doctrine;;;;;;;;;;;Ìîíàøåñêàÿ äîêòðèíà;;x
+MONASTIC_AUTONOMOUS_ATTR_RELIGION;Monastic Autonomous Religion;;;;;;;;;;;Ìîíàøåñêàÿ àâòîíîìíàÿ ðåëèãèÿ;;x
 # Unit modifier tooltips
-ANIMISTIC_RELIGION;Animistic;;;;;;;;;;;;;x
-AZTEC_RELENTLESS_RELIGION;Invaders;;;;;;;;;;;;;x
-RELENTLESS_RELIGION;Unrelenting Doctrine;;;;;;;;;;;;;x
-TENGRI_RELENTLESS_RELIGION;Eternal Riders;;;;;;;;;;;;;x
-AUTONOMOUS_ATTR_RELIGION;Autonomous Leadership;;;;;;;;;;;;;x
+ANIMISTIC_RELIGION;Animistic;;;;;;;;;;;Àíèìèçì;;x
+AZTEC_RELENTLESS_RELIGION;Invaders;;;;;;;;;;;Âòîðæåíèå;;x
+RELENTLESS_RELIGION;Unrelenting Doctrine;;;;;;;;;;;Íåóìîëèìîñòü;;x
+TENGRI_RELENTLESS_RELIGION;Eternal Riders;;;;;;;;;;;Âå÷íûå âñàäíèêè;;x
+AUTONOMOUS_ATTR_RELIGION;Autonomous Leadership;;;;;;;;;;;Àâòîêåôàëèÿ;;x

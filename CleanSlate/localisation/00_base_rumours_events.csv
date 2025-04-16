@@ -1,246 +1,241 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC69000;The lifestyle of a childless courtier has made me suspect that he fancies other men!;;;;;;;;;;;;;x
-EVTDESC69001;[From.GetTitledFirstName] asked me today if I really fancied men over women!;;;;;;;;;;;;;x
-EVTDESC69002;A note left on my table by an unseen visitor told me that if I did not deliver fifty gold within one hour to [From.GetTitledFirstName], my secret would be a secret no more. A small post scriptum wrote: 'the secret is that you are a sodomite'.;;;;;;;;;;;;;x
-EVTDESC69003;A childless courtier with a strange choice of lifestyle has shown men a bit more attention than the women at court. Might it be that he is a sodomite?;;;;;;;;;;;;;x
-EVTDESC69004;[From.GetTitledFirstName] started questioning my lifestyle, asked why I didn't have any children and made me feel incredibly awkward. My answers did not seem to satisfy [From.GetHerHim] and finally [From.GetSheHe] blurted out [From.GetHerHis] question: was I or was I not a sodomite?;;;;;;;;;;;;;x
-EVTDESC69005;I need to prove to everyone who thinks I prefer men over women that I am not a sodomite!;;;;;;;;;;;;;x
-EVTDESC69006;An unfriendly [Root.Religion.GetPriestTitle] denounced me in front of everyone today because of the silly rumors about me being a sodomite!;;;;;;;;;;;;;x
-EVTDESC69007;I have started to doubt myself, might it be that the rumors are true? Am I a sodomite, attracted to men rather than women?;;;;;;;;;;;;;x
-EVTDESC69010;The affection a courtier shows his sister is unnatural. I have begun to suspect they might be having a incestuous affair!;;;;;;;;;;;;;x
-EVTDESC69011;When [From.GetTitledFirstName] started implying that I and my sister had an incestuous affair I could do nothing but deny, deny and deny. No matter what 'evidence' [From.GetFirstName] think [From.GetSheHe] has, [From.GetSheHe] cannot prove anything!;;;;;;;;;;;;;x
-EVTDESC69012;[From.GetTitledFirstName] asked me what [From.GetHerHis] silence was worth to me, and when I asked [From.GetHerHim] what in the world [From.GetSheHe] was talking about, [From.GetTitledFirstName] told me [From.GetSheHe] knows about my incestuous affair with my sister. If I did not pay [From.GetHerHim], there would be nothing stopping [From.GetHerHim] from telling everybody about our forbidden love.;;;;;;;;;;;;;x
-EVTDESC69013;I did not know [From.GetTitledFirstName] could be so charming, and I had never really noticed how handsome [From.GetSheHe] is...;;;;;;;;;;;;;x
-EVTDESC69015;The rumors about my supposed incestuous love affair with my sister has reached the ears of my confessor.;;;;;;;;;;;;;x
-EVTDESC69016;My sister and I enjoyed a few hours together in the high, abandoned tower of [Root.Location.GetName] when a child's face appeared in one of the windows...;;;;;;;;;;;;;x
-EVTDESC69017;I should have killed the child when I had the chance! The child told everyone about me and my sister in the tower, describing in detail what it had seen...;;;;;;;;;;;;;x
-EVTDESC69020;Everyone knows how deep and passionate the love between one of the courtiers and his wife are, but sadly it has not resulted in any children. I have heard the wife asking the other wives about cures and ways to get with child but to no avail.;;;;;;;;;;;;;x
-EVTDESC69021;The biggest grief in our lives is the absence of children so when [From.GetTitledFirstName] stuck [From.GetHerHis] long nose in our private life the longing and sorrow returned with full force.;;;;;;;;;;;;;x
-EVTDESC69022;I would never have thought anyone would try to profit off our grief, our sorrow that we have failed to conceive a child. The demand for gold or the secret about our trouble conceiving would be out in the open made me furious.;;;;;;;;;;;;;x
-EVTDESC69024;It seems as if the rumor about me being impotent has spread throughout the court. People are laughing behind my back, or so my so-called 'friends' tell me.;;;;;;;;;;;;;x
-EVTDESC69030;The lingering looks, the small, almost inappropriate touches, the secret smiles given to someone other than his wife... A courtier is having an affair!;;;;;;;;;;;;;x
-EVTDESC69031;We hadn't been as discreet as we had hoped, [Root.GetTitledFirstName] confronted me about the adultery I had committed with the beautiful lady at the court.;;;;;;;;;;;;;x
-EVTDESC69032;When [From.GetTitledFirstName] denied that [From.GetSheHe] had committed adultery I was stunned, I had been so sure of what I had seen that it had never occurred to me that I might be wrong. I apologised and [From.GetTitledFirstName] accepted the apology with a frown.;;;;;;;;;;;;;x
-EVTDESC69033;When [From.GetTitledFirstName] told me about my husband [From.GetFirstName]'s little affair with some unknown women I was furious! My rage had subsided a bit when I finally found my cheating husband, but as I saw him admiring the bosom of yet another clueless little strumpet the rage grew once again.;;;;;;;;;;;;;x
-EVTDESC69034;The fury in [From.GetTitledFirstName]'s eyes scared me nearly to death and when [From.GetSheHe] started screaming and cursing at me I wished I was dead.;;;;;;;;;;;;;x
-EVTDESC69035;[From.GetTitledFirstName] forgave me for my little indiscretion but I could see how much it had hurt her. I promised and swore that I would never commit adultery again, ever again.;;;;;;;;;;;;;x
-EVTDESC69036;[From.GetTitledFirstName] was direct: if I did not pay [From.GetHerHim] to keep quiet, [From.GetTitledFirstName] would make sure everyone in the court would know about my little affair with one of the court ladies.;;;;;;;;;;;;;x
-EVTDESC69038;I came home one evening and found that my wife [Root.Spouse.GetTitledFirstName] had told our children about my affair and now they all refuse to speak to me!;;;;;;;;;;;;;x
-EVTDESC69039;The voices could be heard through the walls and I recognized them as belonging to my wife and my mistress. My wife [Root.Spouse.GetTitledFirstName] tried to make my mistress break up with me, but she refused so I decided to step in...;;;;;;;;;;;;;x
-EVTDESC69040;I knocked on the door and heard him swear when something was knocked to the floor and broke, by the sound of it. When he finally called 'Come in!' I opened the door and saw the messy room, filled with weird looking glasses, stuffed exotic animals and the man I was visiting in the middle of the mess with singed eyebrows.;;;;;;;;;;;;;x
-EVTDESC69041;My latest experiment went a bit badly and I was trying to clean up the mess when someone knocked on the door. [From.GetTitledFirstName] entered and saw the mess I was standing in, with my singed eyebrows and the remains of my experiment spread all over the room. It didn't take long before [From.GetSheHe] accused me of dealing with the occult!;;;;;;;;;;;;;x
-EVTDESC69042;I could hardly believe my ears when [From.GetTitledFirstName] tried to pressure me into giving [From.GetHerHim] money to keep quiet about my dealings with the occult!;;;;;;;;;;;;;x
-EVTDESC69044;A child has gone missing and it seems as if everyone suspects me to have something to do with that. Apparently being a suspected occultist everyone believes I might use the entrails of children to read the future. Pah!;;;;;;;;;;;;;x
-EVTDESC69045;The voice woke me up, whispering about spells to awaken the dead, curses to make your enemy go blind and potions to make anyone fall in love with you...;;;;;;;;;;;;;x
-EVTDESC69046;My confessor talked sternly to me, clearly avoiding to bring up the occultist rumor but as I just nodded and accepted all he told me without admitting to anything, he lost his patience with me. He scolded me and told me to repent, to stop fiddling with the occult or else...;;;;;;;;;;;;;x
-EVTDESC69047;I had only managed to remember one of the many spells and invocations the voice had whispered to me in the dark. It was long and complicated with many different ingredients, not all easy to acquire...;;;;;;;;;;;;;x
-EVTDESC69050;The diplomatic skill of [Root.GetMyChancellorName] [Root.job_chancellor.GetTitledFirstName] is deplorable! No matter what task I give [Root.job_chancellor.GetHerHim] [Root.job_chancellor.GetSheHe] always manage to disappoint.;;;;;;;;;;;;;x
-EVTDESC69051;[From.GetTitledFirstName] claims my diplomatic skill is deplorable! No matter how hard I work, [From.GetTitledFirstName] is never satisfied and [From.GetHerHis] demands are preposterous!;;;;;;;;;;;;;x
-EVTDESC69052;I have to trust Marshal [Root.job_marshal.GetTitledFirstName] to train my troops and to be able to suppress revolts but [Root.job_marshal.GetSheHe] has not proved to be adept in those manners. [Root.job_marshal.GetTitledFirstName] have to shape up or I need to find another Marshal.;;;;;;;;;;;;;x
-EVTDESC69053;I know I have failed [From.GetTitledFirstName]'s expectations for what a Marshal should be able to do, but if only [From.GetSheHe] could give me a chance I would show [From.GetHerHim] that I do not lack in martial skill!;;;;;;;;;;;;;x
-EVTDESC69054;I sent Steward [Root.job_treasurer.GetTitledFirstName] to oversee construction in a county - and the building fell apart almost instantly. Then I sent him to collect taxes in one of the richest provinces and [Root.job_treasurer.GetSheHe] returned with much less than I had anticipated. [Root.job_treasurer.GetTitledFirstName] clearly lacks the stewardship skill needed to perform even the simplest of tasks!;;;;;;;;;;;;;x
-EVTDESC69055;It was not my fault the builders had used inferior materials for the building, nor that the locals managed to swindle us on most of the taxes. Still, my liege [From.GetTitledFirstName] aren't too happy with me as a Steward and I do not blame him.;;;;;;;;;;;;;x
-EVTDESC69056;An efficient Spymaster must be able to uncover plots. Spymaster [Root.job_spymaster.GetTitledFirstName] did not even manage to uncover a plot which was being planned right under [Root.job_spymaster.GetHerHis] nose!;;;;;;;;;;;;;x
-EVTDESC69057;I was so ashamed when the plot unfurled in front of my nose when I hadn't even noticed that something was going on. It was right of [From.GetTitledFirstName] to chastise me, but still, it hurt...;;;;;;;;;;;;;x
-EVTDESC69058;It seems to me [Root.job_spiritual.GetTitledFirstName] isn't as pious as [Root.job_spiritual.GetSheHe] claims to be. Instead of improving relations with the [Root.Religion.GetName] Church, [Root.job_spiritual.GetTitledFirstName] managed to make an utter fool out of [Root.job_spiritual.GetHerselfHimself] and, indirectly, me!;;;;;;;;;;;;;x
-EVTDESC69059;[Root.GetTitledFirstName] was a bit too harsh when [Root.GetSheHe] chastised me for ruining the relations with the local clergy! Although, I admit, I should probably have chosen less unconventional ways of assuring their support...;;;;;;;;;;;;;x
-EVTDESC69060;The lack of piety I have observed in one of the courtiers makes me worried. I wouldn't want to accuse anyone of not being a good Christian, but if my suspicions are correct then something needs to be done!;;;;;;;;;;;;;x
-EVTDESC69061;Religion has never been one of my great strengths, I do believe in a God but I have trouble accepting all the rituals and demands the priests of the [Root.Religion.GetName] faith feel necessary. [From.GetTitledFirstName] confronted me about this, I hadn't even realized my lack of piety was so noticeable.;;;;;;;;;;;;;x
-EVTDESC69062;All those rituals and demands the priests of the [Root.Religion.GetName] Church feel necessary to prove one's piety is pure nonsense. Despite my feelings about those unnecessary, empty gestures I have always been careful to not show my lack of piety, but perhaps not careful enough. If I don't pay [From.GetTitledFirstName] fifty gold [From.GetSheHe] will expose my lack of faith to everyone!;;;;;;;;;;;;;x
-EVTDESC69064;Why will you burn in hell?', my child asked me. The rumors of my lack of piety had obviously spread throughout the castle and now even my children have heard about it.;;;;;;;;;;;;;x
-EVTDESC69065;Now even the Pope has heard about my lack of piety! Officially, the Pope sent the legate to make sure the bonds between the Pope and the [Root.Religion.GetName] Church in [Root.Location.GetName] is still strong despite my lack of piety but unofficially, the legate was there to give me a stern speech about my lack of faith.;;;;;;;;;;;;;x
-EVTDESC69066;Now even the Caliph has heard about my lack of piety! The Caliph's messenger was there to give me a stern speech about my lack of faith and to make sure the bonds between the Caliph and the [Root.Religion.GetName] Church in [Root.Location.GetName] is still strong despite my lack of piety.;;;;;;;;;;;;;x
-EVTDESC69070;The man is a coward, that's for certain! He can't fight, shadows and loud noises frighten him and blood makes him faint.;;;;;;;;;;;;;x
-EVTDESC69071;I gave a small shriek when [From.GetTitledFirstName] touched my arm, which didn't really help when I tried to defend myself from [From.GetHerHis] accusations about my cowardice...;;;;;;;;;;;;;x
-EVTDESC69072;'Fifty gold', [From.GetTitledFirstName] told me.\n'Fifty gold or I tell everyone what a coward you are...';;;;;;;;;;;;;x
-EVTDESC69074;The soldiers watched me while I practised with my sword and one of them asked when I had finished why I was taking unnecessary risks when practising with the sword.;;;;;;;;;;;;;x
-EVTDESC69075;Women laugh behind your back', someone told me.\n'Women laugh behind your back because of your reputation of being a coward'.;;;;;;;;;;;;;x
-EVTDESC69076;I have finally proven my bravery!;;;;;;;;;;;;;x
-EVTDESC69080;Everyone at court believes I am a sodomite!;;;;;;;;;;;;;x
-EVTDESC69081;Everyone at court believes that my sister and I has an incestuous affair!;;;;;;;;;;;;;x
-EVTDESC69082;My wife and I have been unable to conceive a child, and now everyone believes I am impotent!;;;;;;;;;;;;;x
-EVTDESC69083;Rumours at the court suggests that I have been unfaithful and committed adultery with one of the ladies.;;;;;;;;;;;;;x
-EVTDESC69084;My harmless experiments and interest in science has led to rumors erupting in court about me being an occultist!;;;;;;;;;;;;;x
-EVTDESC69085;[From.GetTitledFirstName]'s distrust in me as [From.GetHerHis] [Root.GetChancellorName] has made everyone in court dislike me!;;;;;;;;;;;;;x
-EVTDESC69086;[From.GetTitledFirstName]'s distrust in me as [From.GetHerHis] Marshal has made everyone in court dislike me!;;;;;;;;;;;;;x
-EVTDESC69087;[From.GetTitledFirstName]'s distrust in me as [From.GetHerHis] Steward has made everyone in court dislike me!;;;;;;;;;;;;;x
-EVTDESC69088;[From.GetTitledFirstName]'s distrust in me as [From.GetHerHis] Spymaster has made everyone in court dislike me!;;;;;;;;;;;;;x
-EVTDESC69089;[From.GetTitledFirstName]'s distrust in me as [From.GetHerHis] [From.GetLordSpiritualName] has made everyone in court dislike me!;;;;;;;;;;;;;x
-EVTDESC69090;Somehow the rumors at court is all about me lacking piety!;;;;;;;;;;;;;x
-EVTDESC69091;Everybody 'knows' I am a big, fat coward!;;;;;;;;;;;;;x
-EVTDESC69095;It seems to me [Root.job_spiritual.GetTitledFirstName] isn't as pious as [Root.job_spiritual.GetSheHe] claims to be. Instead of improving relations with the imams, [Root.job_spiritual.GetTitledFirstName] managed to make an utter fool out of [Root.job_spiritual.GetHerselfHimself] and, indirectly, me!;;;;;;;;;;;;;x
-EVTDESC69096;[Root.GetTitledFirstName] was a bit too harsh when [Root.GetSheHe] chastised me for ruining the relations with the imams! Although, I admit, I should probably have chosen less unconventional ways of assuring their support...;;;;;;;;;;;;;x
-EVTDESC69100;The lack of piety I have observed in one of the courtiers makes me worried. I wouldn't want to accuse anyone of not being a good Muslim, but if my suspicions are correct then something needs to be done!;;;;;;;;;;;;;x
-EVTDESC69101;Faith has never been one of my great strengths, I do believe in Allah but I have trouble accepting all the rituals and demands the imams feel necessary. [From.GetTitledFirstName] confronted me about this, I hadn't even realized my lack of piety was so noticeable.;;;;;;;;;;;;;x
-EVTDESC69102;All those rituals and demands the imams feel necessary to prove one's piety is pure nonsense. Despite my feelings about those unnecessary, empty gestures I have always been careful to not show my lack of piety, but perhaps not careful enough. If I don't pay [From.GetTitledFirstName] fifty gold [From.GetSheHe] will expose my lack of faith to everyone!;;;;;;;;;;;;;x
-
-EVTOPTA69000;Ask him if he really desires men rather than women;;;;;;;;;;;;;x
-EVTOPTA69001;What nerve! I love women, not men!;;;;;;;;;;;;;x
-EVTOPTA69002;I cannot let anyone believe that!;;;;;;;;;;;;;x
-EVTOPTA69003;I will accuse him of sodomy!;;;;;;;;;;;;;x
-EVTOPTA69004;What!? No! No, I am not a sodomite!;;;;;;;;;;;;;x
-EVTOPTA69005;The brothels it is!;;;;;;;;;;;;;x
-EVTOPTA69006;[Root.Religion.GetPriestTitleCap] or not, nobody denounces me!;;;;;;;;;;;;;x
-EVTOPTA69007;I don't know what to know anymore!;;;;;;;;;;;;;x
-EVTOPTA69010;I should warn him about his incestuous affair;;;;;;;;;;;;;x
-EVTOPTA69011;I love my sister, but not in that way!;;;;;;;;;;;;;x
-EVTOPTA69012;Your silence is very valuable to me;;;;;;;;;;;;;x
-EVTOPTA69013;Well, I wouldn't kick [From.GetHerHim] out of my bed...;;;;;;;;;;;;;x
-EVTOPTA69015;I have sinned, if not in flesh then in mind...;;;;;;;;;;;;;x
-EVTOPTA69016;The things I do for love...;;;;;;;;;;;;;x
-EVTOPTA69017;I fear the Holy Father will not look kindly upon us...;;;;;;;;;;;;;x
-EVTOPTA69020;Might he be impotent? I have to know!;;;;;;;;;;;;;x
-EVTOPTA69021;We have a little trouble conceiving, that is all!;;;;;;;;;;;;;x
-EVTOPTA69022;[Root.Spouse.GetFirstName] would be devastated, I have to pay...;;;;;;;;;;;;;x
-EVTOPTA69024;Let them laugh!;;;;;;;;;;;;;x
-EVTOPTA69030;It is my duty to confront him!;;;;;;;;;;;;;x
-EVTOPTA69031;I did not commit adultery with that woman;;;;;;;;;;;;;x
-EVTOPTA69032;I know what I saw!;;;;;;;;;;;;;x
-EVTOPTA69033;You BASTARD!;;;;;;;;;;;;;x
-EVTOPTA69034;I will never cheat on you again, I promise!;;;;;;;;;;;;;x
-EVTOPTA69035;Trust me on this!;;;;;;;;;;;;;x
-EVTOPTA69036;Take this, I don't want to see you ever again!;;;;;;;;;;;;;x
-EVTOPTA69038;Why did you have to involve them?!;;;;;;;;;;;;;x
-EVTOPTA69039;I reassure my mistress of my deep love for her;;;;;;;;;;;;;x
-EVTOPTA69040;Have you tampered with the occult?;;;;;;;;;;;;;x
-EVTOPTA69041;Are you mad? I would never!;;;;;;;;;;;;;x
-EVTOPTA69042;This is all I have got...;;;;;;;;;;;;;x
-EVTOPTA69044;I ignore the talks;;;;;;;;;;;;;x
-EVTOPTA69045;I hope I can remember all of this!;;;;;;;;;;;;;x
-EVTOPTA69046;I repent, I will never fiddle with the occult again!;;;;;;;;;;;;;x
-EVTOPTA69047;This spell will benefit me;;;;;;;;;;;;;x
-EVTOPTA69050;You are not good enough, you have to shape up!;;;;;;;;;;;;;x
-EVTOPTA69051;[From.GetTitledFirstName] does not appreciate me...;;;;;;;;;;;;;x
-EVTOPTA69052;Shape up or you're out of a job!;;;;;;;;;;;;;x
-EVTOPTA69053;I will make you appreciate me, [From.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTOPTA69054;Not good enough!;;;;;;;;;;;;;x
-EVTOPTA69055;I will shape up!;;;;;;;;;;;;;x
-EVTOPTA69056;You can and must do better!;;;;;;;;;;;;;x
-EVTOPTA69057;I'm sorry, I'll work harder!;;;;;;;;;;;;;x
-EVTOPTA69058;Why does [Root.job_spiritual.GetSheHe] disappoint every time I try to trust [Root.job_spiritual.GetHerHim]?;;;;;;;;;;;;;x
-EVTOPTA69059;Why can't I be appreciated for the things I do right?;;;;;;;;;;;;;x
-EVTOPTA69060;Confront the courtier about the lack of piety;;;;;;;;;;;;;x
-EVTOPTA69061;I will prove my piety by good deeds;;;;;;;;;;;;;x
-EVTOPTA69062;Here, now leave me alone!;;;;;;;;;;;;;x
-EVTOPTA69064;I won't burn in hell! Where have you heard that?;;;;;;;;;;;;;x
-EVTOPTA69065;I will donate to the church just to keep him quiet;;;;;;;;;;;;;x
-EVTOPTA69066;I will prove my piety by doubling, nay, tripling the zakat!;;;;;;;;;;;;;x
-EVTOPTA69070;You are a disgrace and I despise you!;;;;;;;;;;;;;x
-EVTOPTA69071;I will try to prove myself;;;;;;;;;;;;;x
-EVTOPTA69072;Please don't tell anyone!;;;;;;;;;;;;;x
-EVTOPTA69074;I need to;;;;;;;;;;;;;x
-EVTOPTA69075;I admit, I am a coward...;;;;;;;;;;;;;x
-EVTOPTA69076;This is a glorious day!;;;;;;;;;;;;;x
-EVTOPTA69080;Why?;;;;;;;;;;;;;x
-EVTOPTA69081;That is preposterous!;;;;;;;;;;;;;x
-EVTOPTA69082;We only need to try more!;;;;;;;;;;;;;x
-EVTOPTA69083;...and now my wife believes those rumors!;;;;;;;;;;;;;x
-EVTOPTA69084;So what if I am?;;;;;;;;;;;;;x
-EVTOPTA69085;What have I done?;;;;;;;;;;;;;x
-EVTOPTA69086;Totally unjustified, I am sure!;;;;;;;;;;;;;x
-EVTOPTA69087;Well then [From.GetSheHe] should get a new Steward!;;;;;;;;;;;;;x
-EVTOPTA69088;Why I never!;;;;;;;;;;;;;x
-EVTOPTA69089;This is troubling;;;;;;;;;;;;;x
-EVTOPTA69090;How could that happen?;;;;;;;;;;;;;x
-EVTOPTA69091;I strongly reject the notion!;;;;;;;;;;;;;x
-
-EVTOPTB69000;I should tell others about my suspicion!;;;;;;;;;;;;;x
-EVTOPTB69001;You are right. I desire men, not women;;;;;;;;;;;;;x
-EVTOPTB69002;No one will believe that!;;;;;;;;;;;;;x
-EVTOPTB69003;It is my duty to inform everyone about this suspected sodomite!;;;;;;;;;;;;;x
-EVTOPTB69004;Yes, I am a sodomite;;;;;;;;;;;;;x
-EVTOPTB69005;I should talk about it;;;;;;;;;;;;;x
-EVTOPTB69006;Just keep quiet, people will forget this soon;;;;;;;;;;;;;x
-EVTOPTB69010;I have to tell everyone about their incestuous affair!;;;;;;;;;;;;;x
-EVTOPTB69011;I will prove I am not having an affair with my sister!;;;;;;;;;;;;;x
-EVTOPTB69012;You cannot prove anything!;;;;;;;;;;;;;x
-EVTOPTB69013;Charming and handsome won't buy your way to my bed!;;;;;;;;;;;;;x
-EVTOPTB69015;I have nothing to confess, nothing to be forgiven for...;;;;;;;;;;;;;x
-EVTOPTB69016;Ignore the child;;;;;;;;;;;;;x
-EVTOPTB69020;It surprises me no one else knows this, I should tell them...;;;;;;;;;;;;;x
-EVTOPTB69021;It's true, I'm impotent...;;;;;;;;;;;;;x
-EVTOPTB69022;I will never give in to your demands!;;;;;;;;;;;;;x
-EVTOPTB69030;I should tell someone...;;;;;;;;;;;;;x
-EVTOPTB69031;I won't say a word;;;;;;;;;;;;;x
-EVTOPTB69032;Maybe I was wrong...;;;;;;;;;;;;;x
-EVTOPTB69033;I should forgive and forget. I still love him;;;;;;;;;;;;;x
-EVTOPTB69036;As if someone would believe you!;;;;;;;;;;;;;x
-EVTOPTB69039;[Root.Spouse.GetTitledFirstName], you are the one I love!;;;;;;;;;;;;;x
-EVTOPTB69040;I got to get out of here and tell everyone!;;;;;;;;;;;;;x
-EVTOPTB69041;I cackled madly at [From.GetTitledFirstName]'s accusation;;;;;;;;;;;;;x
-EVTOPTB69042;I don't care if everyone knows about this!;;;;;;;;;;;;;x
-EVTOPTB69044;I attempt to clear my name;;;;;;;;;;;;;x
-EVTOPTB69045;I ignore the voice and go back to sleep;;;;;;;;;;;;;x
-EVTOPTB69046;Or what? You haven't got anything but rumors!;;;;;;;;;;;;;x
-EVTOPTB69047;I must recant my acts;;;;;;;;;;;;;x
-EVTOPTB69050;I don't trust [Root.job_chancellor.GetTitledFirstName] to do a good job;;;;;;;;;;;;;x
-EVTOPTB69052;I don't think [Root.job_marshal.GetTitledFirstName] is the right [Root.job_marshal.GetManWoman] for this job;;;;;;;;;;;;;x
-EVTOPTB69054;I can't say I trust [Root.job_treasurer.GetTitledFirstName];;;;;;;;;;;;;x
-EVTOPTB69056;[Root.job_spymaster.GetTitledFirstName] failed me, now I have to do the job myself;;;;;;;;;;;;;x
-EVTOPTB69058;I cannot trust you with anything, can I?;;;;;;;;;;;;;x
-EVTOPTB69060;Expose the courtier as not Christian enough;;;;;;;;;;;;;x
-EVTOPTB69061;I shrug the question off. I feel no need to explain myself;;;;;;;;;;;;;x
-EVTOPTB69062;Find someone else to extort!;;;;;;;;;;;;;x
-EVTOPTB69064;I truly need to repent or I will burn in Hell;;;;;;;;;;;;;x
-EVTOPTB69065;Ignore him;;;;;;;;;;;;;x
-EVTOPTB69070;I will tell the whole castle about his cowardice!;;;;;;;;;;;;;x
-EVTOPTB69071;I'm not craven! Just easily startled...;;;;;;;;;;;;;x
-EVTOPTB69072;Go ahead! I'm n-not afraid...;;;;;;;;;;;;;x
-EVTOPTB69074;I am a coward;;;;;;;;;;;;;x
-EVTOPTB69075;I am NOT a coward!;;;;;;;;;;;;;x
-EVTOPTB69100;Expose the courtier as not a good Muslim;;;;;;;;;;;;;x
-
-EVTOPTC69000;I will accept money in exchange for my silence;;;;;;;;;;;;;x
-EVTOPTC69010;I wonder how much my silence is worth to him...;;;;;;;;;;;;;x
-EVTOPTC69020;This is perhaps a secret he would pay to keep secret...;;;;;;;;;;;;;x
-EVTOPTC69030;I need a bit of persuasion if he wants me to stay silent...;;;;;;;;;;;;;x
-EVTOPTC69040;He might pay for my silence...;;;;;;;;;;;;;x
-EVTOPTC69047;The Church is after me, save me!;;;;;;;;;;;;;x
-EVTOPTC69050;[Root.job_chancellor.GetTitledFirstName] lack of diplomatic skill has cost me dearly!;;;;;;;;;;;;;x
-EVTOPTC69052;I might be persuaded to let you keep your job...;;;;;;;;;;;;;x
-EVTOPTC69054;Do you want to keep your job? Then pay up!;;;;;;;;;;;;;x
-EVTOPTC69056;You don't deserve the salary I pay you!;;;;;;;;;;;;;x
-EVTOPTC69058;You will pay for this fiasco with your own means!;;;;;;;;;;;;;x
-EVTOPTC69060;I could keep quiet, for a price...;;;;;;;;;;;;;x
-EVTOPTC69065;I will repent publicly;;;;;;;;;;;;;x
-EVTOPTC69070;I could squeeze him for some money...;;;;;;;;;;;;;x
-
-EVTTOOLTIP69001;[This.GetTitledFirstName] is confronted by [Root.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP69002;[This.GetTitledFirstName] is blackmailed by [Root.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP69004;[This.GetTitledFirstName] is accused of sodomy by [Root.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP69011;[This.GetTitledFirstName] is confronted and warned;;;;;;;;;;;;;x
-EVTTOOLTIP69012;[This.GetTitledFirstName] is forced to pay for [Root.GetTitledFirstName] silence;;;;;;;;;;;;;x
-EVTTOOLTIP69013;[Root.GetTitledFirstName] tries to seduce [This.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP69017;The child has a too big mouth for its own safety...;;;;;;;;;;;;;x
-EVTTOOLTIP69021;[Root.GetTitledFirstName] ask [This.GetTitledFirstName] about his impotence;;;;;;;;;;;;;x
-EVTTOOLTIP69022;If the secret will remain secret, then [This.GetTitledFirstName] have to pay...;;;;;;;;;;;;;x
-EVTTOOLTIP69031;[This.GetTitledFirstName] is confronted about his adultery by [Root.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP69032;[This.GetTitledFirstName] might decide to tell your wife [Root.Spouse.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP69033;I should tell his wife [From.Spouse.GetTitledFirstName] about his affair;;;;;;;;;;;;;x
-EVTTOOLTIP69034;[Root.GetTitledFirstName] is mad as hell at [Root.Spouse.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP69035;[Root.GetTitledFirstName] forgives [Root.Spouse.GetTitledFirstName] little indiscretion;;;;;;;;;;;;;x
-EVTTOOLTIP69036;[This.GetTitledFirstName] is forced to pay [Root.GetTitledFirstName] for [Root.GetHerHis] silence;;;;;;;;;;;;;x
-EVTTOOLTIP69041;[This.GetTitledFirstName] is confronted about occultism;;;;;;;;;;;;;x
-EVTTOOLTIP69042;[This.GetTitledFirstName] is blackmailed by [Root.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP69051;[Root.job_chancellor.GetTitledFirstName] is chastised about [Root.job_chancellor.GetHerHis] lack of diplomatic skill;;;;;;;;;;;;;x
-EVTTOOLTIP69053;[Root.job_marshal.GetTitledFirstName] is chastised about [Root.job_marshal.GetHerHis] lack of martial skill;;;;;;;;;;;;;x
-EVTTOOLTIP69055;[Root.job_treasurer.GetTitledFirstName] is chastised about [Root.job_treasurer.GetHerHis] lack of stewardship;;;;;;;;;;;;;x
-EVTTOOLTIP69057;[Root.job_spymaster.GetTitledFirstName] is chastised about [Root.job_spymaster.GetHerHis] lack of intrigue;;;;;;;;;;;;;x
-EVTTOOLTIP69059;[Root.job_spiritual.GetTitledFirstName] is chastised about [Root.job_spiritual.GetHerHis] lack of learning and [Player.Religion.GetPietyName];;;;;;;;;;;;;x
-EVTTOOLTIP69061;[This.GetTitledFirstName] is confronted about [This.GetHerHis] seemingly lack of piety by [Root.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP69062;[This.GetTitledFirstName] is blackmailed by [Root.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP69071;[This.GetTitledFirstName]'s cowardice is confronted by [Root.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP69072;[This.GetTitledFirstName]'s cowardise is exploited by [Root.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP69080;All courtiers will suspect §Y[This.GetTitledFirstName]§! of sodomy;;;;;;;;;;;;;x
-EVTTOOLTIP69081;All courtiers will suspect §Y[This.GetTitledFirstName]§! of incest;;;;;;;;;;;;;x
-EVTTOOLTIP69082;All courtiers will suspect §Y[This.GetTitledFirstName]§! of impotence;;;;;;;;;;;;;x
-EVTTOOLTIP69083;All courtiers will suspect §Y[This.GetTitledFirstName]§! of adultery;;;;;;;;;;;;;x
-EVTTOOLTIP69084;All courtiers will suspect §Y[This.GetTitledFirstName]§! of occultism;;;;;;;;;;;;;x
-EVTTOOLTIP69085;All courtiers will know that §Y[Root.GetTitledFirstName]§! does not trust [Root.GetMyChancellorName] §Y[This.GetTitledFirstName]§!;;;;;;;;;;;;;x
-EVTTOOLTIP69086;All courtiers will know that §Y[Root.GetTitledFirstName]§! does not trust Marshal §Y[This.GetTitledFirstName]§!;;;;;;;;;;;;;x
-EVTTOOLTIP69087;All courtiers will know that §Y[Root.GetTitledFirstName]§! does not trust Steward §Y[This.GetTitledFirstName]§!;;;;;;;;;;;;;x
-EVTTOOLTIP69088;All courtiers will know that §Y[Root.GetTitledFirstName]§! does not trust Spymaster §Y[This.GetTitledFirstName]§!;;;;;;;;;;;;;x
-EVTTOOLTIP69089;All courtiers will know that §Y[Root.GetTitledFirstName]§! does not trust [Root.GetLordSpiritualName] [This.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP69090;All courtiers will think §Y[This.GetTitledFirstName]§! lacks piety;;;;;;;;;;;;;x
-EVTTOOLTIP69091;All courtiers will think §Y[This.GetTitledFirstName]§! is a coward;;;;;;;;;;;;;x
+EVTDESC69000;The lifestyle of a childless courtier has made me suspect that he fancies other men!;;;;;;;;;;;Îáðàç æèçíè áåçäåòíîãî ïðèäâîðíîãî çàñòàâèë ìåíÿ ïîäîçðåâàòü, ÷òî îí ôàíòàçèðóåò î äðóãèõ ìóæ÷èíàõ!;;x
+EVTDESC69001;[From.GetTitledFirstName] asked me today if I really fancied men over women!;;;;;;;;;;;[From.GetTitledFirstName] ñïðîñèë[From.GetEndA] ìåíÿ ñåãîäíÿ äåéñòâèòåëüíî ëè ÿ ïðåäïî÷èòàþ ìóæ÷èí, à íå æåíùèí!;;x
+EVTDESC69002;A note left on my table by an unseen visitor told me that if I did not deliver fifty gold within one hour to [From.GetTitledFirstName], my secret would be a secret no more. A small post scriptum wrote: 'the secret is that you are a sodomite'.;;;;;;;;;;;"Â çàïèñêå, îñòàâëåííîé íà ìî¸ì ñòîëå íåèçâåñòíûì, ñêàçàíî, ÷òî åñëè [From.GetTitledFirstName] íå ïîëó÷èò îò ìåíÿ â òå÷åíèå îäíîãî ÷àñà ïÿòüäåñÿò çîëîòûõ, ìîÿ òàéíà ñòàíåò âñåîáùèì äîñòîÿíèåì. Íåáîëüøîé ïîñòñêðèïòóì: ""Ñåêðåò â òîì, ÷òî Âû - ñîäîìèò"".";;x
+EVTDESC69003;A childless courtier with a strange choice of lifestyle has shown men a bit more attention than the women at court. Might it be that he is a sodomite?;;;;;;;;;;;Áåçäåòíûé ïðèäâîðíûé ñî ñòðàííûì âûáîðîì îáðàçà æèçíè óäåëèë ìóæ÷èíå íåìíîãî áîëüøå âíèìàíèÿ, ÷åì ïðèäâîðíîé äàìå. Ìîæåò ëè áûòü, ÷òî îí ñîäîìèò?;;x
+EVTDESC69004;[From.GetTitledFirstName] started questioning my lifestyle, asked why I didn't have any children and made me feel incredibly awkward. My answers did not seem to satisfy [From.GetHerHim] and finally [From.GetSheHe] blurted out [From.GetHerHis] question: was I or was I not a sodomite?;;;;;;;;;;;[From.GetTitledFirstName], íà÷àâ ñîìíåâàòüñÿ â ìî¸ì îáðàçå æèçíè, ñïðîñèë, ïî÷åìó ó ìåíÿ äî ñèõ ïîð íå áûëî äåòåé, ÷òî çàñòàâèëî ìåíÿ ïî÷óâñòâîâàòü ñåáÿ íåâåðîÿòíî íåëîâêî. Ìîè îòâåòû, ïî-âèäèìîìó, áûëè íåóáåäèòåëüíû è, íàêîíåö, îí âûïàëèë ñâîé âîïðîñ: ñîäîìèò ÿ èëè íåò?;;x
+EVTDESC69005;I need to prove to everyone who thinks I prefer men over women that I am not a sodomite!;;;;;;;;;;;Ìíå íóæíî äîêàçàòü âñåì, êòî äóìàåò, ÷òî ÿ ïðåäïî÷èòàþ ìóæ÷èí, ÷òî ÿ íå ñîäîìèò!;;x
+EVTDESC69006;An unfriendly [Root.Religion.GetPriestTitle] denounced me in front of everyone today because of the silly rumors about me being a sodomite!;;;;;;;;;;;Ñâÿùåííèê, ïðîïîâåäóþùèé [Root.GetReligionFullName], ñåãîäíÿ îñóäèë ìåíÿ íà ãëàçàõ âñåé öåðêâè, ïîòîìó ÷òî äî íåãî äîøëè ãëóïûå ñëóõè, ÷òî ÿ - ñîäîìèò!;;x
+EVTDESC69007;I have started to doubt myself, might it be that the rumors are true? Am I a sodomite, attracted to men rather than women?;;;;;;;;;;;ß óæå íà÷àë ñîìíåâàòüñÿ â ñåáå. Ìîæåò ëè áûòü, ÷òî ýòè ñëóõè - ïðàâäà? ß ñîäîìèò, ìåíÿ âëå÷¸ò ê ìóæ÷èíàì âìåñòî æåíùèí?;;x
+EVTDESC69010;The affection a courtier shows his sister is unnatural. I have begun to suspect they might be having a incestuous affair!;;;;;;;;;;;Ïðèâÿçàííîñòü ïðèäâîðíîãî, êîòîðóþ îí âûêàçûâàåò ñåñòðå - íååñòåñòâåííà. ß íà÷èíàþ äóìàòü, ÷òî èõ îòíîøåíèÿ ïîïàõèâàþò èíöåñòîì!;;x
+EVTDESC69011;When [From.GetTitledFirstName] started implying that I and my sister had an incestuous affair I could do nothing but deny, deny and deny. No matter what 'evidence' [From.GetFirstName] think [From.GetSheHe] has, [From.GetSheHe] cannot prove anything!;;;;;;;;;;;"Êîãäà [From.GetTitledFirstName] íà÷àë íàìåêàòü, ÷òî ÿ è ìîÿ ñåñòðà íàõîäÿòñÿ â êðîâîñìåñèòåëüíîé ñâÿçè, ÿ íè÷åãî íå ìîã ñäåëàòü, êðîìå êàê îòðèöàòü, îòðèöàòü è åù¸ ðàç îòðèöàòü. Íåçàâèñèìî îò òîãî, ÷òî äóìàåò [From.GetFirstName] è êàêèå ""äîêàçàòåëüñòâà"" ó íåãî åñòü, îí íå ñìîæåò íè÷åãî äîêàçàòü!";;x
+EVTDESC69012;[From.GetTitledFirstName] asked me what [From.GetHerHis] silence was worth to me, and when I asked [From.GetHerHim] what in the world [From.GetSheHe] was talking about, [From.GetTitledFirstName] told me [From.GetSheHe] knows about my incestuous affair with my sister. If I did not pay [From.GetHerHim], there would be nothing stopping [From.GetHerHim] from telling everybody about our forbidden love.;;;;;;;;;;;[From.GetTitledFirstName] ñïðîñèë ìåíÿ, âî ñêîëüêî ÿ îöåíèâàþ åãî ìîë÷àíèå. ß ñïðîñèë åãî, ÷òî îí èìååò â âèäó è [From.GetTitledFirstName] îòâåòèë ìíå, ÷òî çíàåò î ìîåé êðîâîñìåñèòåëüíîé ñâÿçè ñ ñåñòðîé. Åñëè ÿ íå áóäó ïëàòèòü åìó, íå îñòàíåòñÿ íè÷åãî, ÷òî ìåøàëî áû åìó ðàññêàçàòü âñåì î íàøåé çàïðåòíîé ëþáâè.;;x
+EVTDESC69013;I did not know [From.GetTitledFirstName] could be so charming, and I had never really noticed how handsome [From.GetSheHe] is...;;;;;;;;;;;ß è íå çíàë, ÷òî [From.GetTitledFirstName] îáëàäàåò òàêèì øàðìîì. Íèêîãäà íå çàìå÷àë, ÷òî [From.GetSheHe] áëåùåò íåîáû÷àéíîé ïðèâëåêàòåëüíîñòüþ...;;x
+EVTDESC69015;The rumors about my supposed incestuous love affair with my sister has reached the ears of my confessor.;;;;;;;;;;;Ñëóõè î ìîåé ïðåäïîëàãàåìîé êðîâîñìåñèòåëüíîé ñâÿçè ñ ñåñòðîé äîñòèãëè óøåé ìîåãî äóõîâíèêà.;;x
+EVTDESC69016;My sister and I enjoyed a few hours together in the high, abandoned tower of [Root.Location.GetName] when a child's face appeared in one of the windows...;;;;;;;;;;;ß è ñåñòðà íàñëàæäàëèñü íåñêîëüêî ÷àñîâ îáùåñòâîì äðóã äðóãà â âûñîêîé, çàáðîøåííîé áàøíå îêðóãà [Root.Location.GetName], êîãäà â îäíîì èç îêîí âíåçàïíî ïîÿâèëîñü äåòñêîå ëèöî...;;x
+EVTDESC69017;I should have killed the child when I had the chance! The child told everyone about me and my sister in the tower, describing in detail what it had seen...;;;;;;;;;;;ß äîëæåí áûë óáèòü ðåá¸íêà, êîãäà ó ìåíÿ áûë øàíñ! Ìàëåíüêîå ÷óäîâèùå ðàññêàçàëî âñ¸ îáî ìíå è ìîåé ñåñòðå â áàøíå, ñ ïîäðîáíûì îïèñàíèåì âñåãî, ÷òî âèäåëî...;;x
+EVTDESC69020;Everyone knows how deep and passionate the love between one of the courtiers and his wife are, but sadly it has not resulted in any children. I have heard the wife asking the other wives about cures and ways to get with child but to no avail.;;;;;;;;;;;Êàæäûé çíàåò, íàñêîëüêî ãëóáîêà è ñòðàñòíà ëþáîâü îäíîãî èç ïðèäâîðíûõ è åãî æåíû, íî, ê ñîæàëåíèþ, äåòåé ó íèõ íåò. ß ñëûøàë, ÷òî åãî ñóïðóãà èíòåðåñóåòñÿ ó äðóãèõ æ¸í âàðèàíòàìè ëå÷åíèÿ è ñïîñîáàìè çàáåðåìåíåòü, íî ðåçóëüòàòà íåò.;;x
+EVTDESC69021;The biggest grief in our lives is the absence of children so when [From.GetTitledFirstName] stuck [From.GetHerHis] long nose in our private life the longing and sorrow returned with full force.;;;;;;;;;;;Ñàìîå áîëüøîå ãîðå â íàøåé æèçíè çàêëþ÷àåòñÿ â îòñóòñòâèè äåòåé, ïîýòîìó, êîãäà [From.GetTitledFirstName] ïîñìåë ñóíóòü ñâîé äëèííûé íîñ â íàøó ëè÷íóþ æèçíü, òîñêà è ïå÷àëü âåðíóëèñü ñ íîâîé ñèëîé.;;x
+EVTDESC69022;I would never have thought anyone would try to profit off our grief, our sorrow that we have failed to conceive a child. The demand for gold or the secret about our trouble conceiving would be out in the open made me furious.;;;;;;;;;;;Íèêîãäà áû íå ïîäóìàë, ÷òî êòî-ëèáî áóäåò ïûòàòüñÿ èçâëå÷ü âûãîäó èç íàøåãî ãîðÿ, èç íàøåé ñêîðáè, ÷òî ìû íå ñìîãëè çà÷àòü ðåá¸íêà. Òðåáîâàíèå çîëîòà â îáìåí íà ñîêðûòèå òàéíû î íàøåé áåäå ñ çà÷àòèåì, ïðèâåëî ìåíÿ â ÿðîñòü.;;x
+EVTDESC69024;It seems as if the rumor about me being impotent has spread throughout the court. People are laughing behind my back, or so my so-called 'friends' tell me.;;;;;;;;;;;"Êàæåòñÿ, ñëóõè î òîì, ÷òî ÿ íå ñïîñîáåí èìåòü äåòåé, ðàñïðîñòðàíèëàñü ïî âñåìó äâîðó. Ëþäè ñìåþòñÿ çà ìîåé ñïèíîé. Ïî êðàéíåé ìåðå, ýòî òî, ÷òî ÿ ñëûøó îò ìîèõ òàê íàçûâàåìûõ ""äðóçåé"".";;x
+EVTDESC69030;The lingering looks, the small, almost inappropriate touches, the secret smiles given to someone other than his wife... A courtier is having an affair!;;;;;;;;;;;Çàòÿíóâøèéñÿ âçãëÿä, ë¸ãêèå, ïî÷òè íåçàìåòíûå ïðèêîñíîâåíèÿ, òàéíûå óëûáêè ïðåäíàçíà÷åííûå êîìó-òî, íî íå æåíå... îäèí èç ïðèäâîðíûõ èìååò ëþáîâíóþ ñâÿçü!;;x
+EVTDESC69031;We hadn't been as discreet as we had hoped, [Root.GetTitledFirstName] confronted me about the adultery I had committed with the beautiful lady at the court.;;;;;;;;;;;Ìû áû íå áûëè òàê îñòîðîæíû, êàê õîòåëîñü. [Root.GetTitledFirstName] çíàåò î ñâÿçè ñ êðàñèâîé äàìîé ïðè äâîðå, êîòîðóþ ÿ ñåáå ïîçâîëèë[Root.GetEndA].;;x
+EVTDESC69032;When [From.GetTitledFirstName] denied that [From.GetSheHe] had committed adultery I was stunned, I had been so sure of what I had seen that it had never occurred to me that I might be wrong. I apologised and [From.GetTitledFirstName] accepted the apology with a frown.;;;;;;;;;;;Êîãäà [From.GetTitledFirstName] ñòàë[From.GetEndA] îòðèöàòü òîò ôàêò, ÷òî ñîâåðøèë[From.GetEndA] ïðåëþáîäåÿíèå, ÿ áûë[Root.GetEndA] ïîòðÿñåí[Root.GetEndA]. ß áûë[Root.GetEndA] òàê óâåðåí[Root.GetEndA] â óâèäåííîì, ÷òî ìíå â ãîëîâó íå ìîãëî ïðèäòè, ÷òî ÿ ìîãó áûòü íåïðàâ[Root.GetEndA]. ß èçâèíè[Root.GetLasLsya] è [From.GetTitledFirstName] ïðèíÿë[From.GetEndA] èçâèíåíèÿ, íàõìóðèâøèñü.;;x
+EVTDESC69033;When [From.GetTitledFirstName] told me about my husband [From.GetFirstName]'s little affair with some unknown women I was furious! My rage had subsided a bit when I finally found my cheating husband, but as I saw him admiring the bosom of yet another clueless little strumpet the rage grew once again.;;;;;;;;;;;Êîãäà [From.GetTitledFirstName] ðàññêàçàë[From.GetEndA] ìíå, ÷òî ì[From.GetOyaOy] [From.GetHusbandWife], [From.GetFirstName], çàâåë[From.GetEndA] íåáîëüøóþ èíòðèæêó ñ íåèçâåñòíîé æåíùèíîé, ÿ áûë[Root.GetEndA] â ÿðîñòè! Ìîé ãíåâ íåìíîãî óòèõ, ïîêà ÿ èñêàë[Root.GetEndA] ñâîåãî ëæèâîãî ìóæåíüêà, íî ïîñêîëüêó ÿ óâèäåë[Root.GetEndA] [From.GetHersHis] â òîò ìîìåíò, êîãäà [From.GetSheHe] ëþáîâà[From.GetLasLsya] ãðóäüþ åù¸ îäíîé òóïîé ìàëåíüêîé øëþøêè, ÿðîñòü çàêèïåëà âíîâü.;;x
+EVTDESC69034;The fury in [From.GetTitledFirstName]'s eyes scared me nearly to death and when [From.GetSheHe] started screaming and cursing at me I wished I was dead.;;;;;;;;;;;[From.GetTitledFirstName], òî åñòü - ÿðîñòü â [From.GetHersHis] ãëàçàõ, íàïóãàëà ìåíÿ äî ïîëóñìåðòè, è, êîãäà [From.GetHersHis] íà÷àë[From.GetEndA] êðè÷àòü è ðóãàòü ìåíÿ, ÿ õîòåë[Root.GetEndA] óìåðåòü.;;x
+EVTDESC69035;[From.GetTitledFirstName] forgave me for my little indiscretion but I could see how much it had hurt her. I promised and swore that I would never commit adultery again, ever again.;;;;;;;;;;;[From.GetTitledFirstName] ïðîñòèë[From.GetEndA] ìåíÿ çà ìîþ ìàëåíüêóþ èíòðèæêó, íî ÿ âèäåë, êàê ìíîãî áîëè ïðè÷èíèë [From.GetHersHis]. ß îáåùàë[Root.GetEndA] è êëÿ[Root.GetLasLsya], ÷òî íèêîãäà áîëüøå íå èçìåíþ, íèêîãäà.;;x
+EVTDESC69036;[From.GetTitledFirstName] was direct: if I did not pay [From.GetHerHim] to keep quiet, [From.GetTitledFirstName] would make sure everyone in the court would know about my little affair with one of the court ladies.;;;;;;;;;;;[From.GetTitledFirstName] áûë îòêðîâåí[From.GetNaEn]: åñëè ÿ íå çàïëà÷ó [From.GetHerHim] çà ìîë÷àíèå, [From.GetTitledFirstName] ïîñòàðàåòñÿ, ÷òîáû âñå ïðè äâîðå çíàëè î ìîåé èíòðèæêå ñ îäíîé èç ïðèäâîðíûõ äàì.;;x
+EVTDESC69038;I came home one evening and found that my wife [Root.Spouse.GetTitledFirstName] had told our children about my affair and now they all refuse to speak to me!;;;;;;;;;;;ß ïðèø¸ë äîìîé âå÷åðîì è îáíàðóæèë, ÷òî ìîÿ æåíà, [Root.Spouse.GetTitledFirstName], ðàññêàçàëà íàøèì äåòÿì î ìîåé èçìåíå, è òåïåðü îíè... îòêàçûâàþòñÿ ãîâîðèòü ñî ìíîé!;;x
+EVTDESC69039;The voices could be heard through the walls and I recognized them as belonging to my wife and my mistress. My wife [Root.Spouse.GetTitledFirstName] tried to make my mistress break up with me, but she refused so I decided to step in...;;;;;;;;;;;Ãîëîñà áûëè ñëûøíû ñêâîçü ñòåíó, è ÿ óçíàë â íèõ ãîëîñà ìîåé æåíû è ìîåé ëþáîâíèöû. Ìîÿ æåíà, [Root.Spouse.GetTitledFirstName], ïîïûòàëñÿ óáåäèòü ëþáîâíèöó ïîðâàòü ñî ìíîé, íî òà îòêàçàëàñü. ß óäàëèëñÿ íà öûïî÷êàõ...;;x
+EVTDESC69040;I knocked on the door and heard him swear when something was knocked to the floor and broke, by the sound of it. When he finally called 'Come in!' I opened the door and saw the messy room, filled with weird looking glasses, stuffed exotic animals and the man I was visiting in the middle of the mess with singed eyebrows.;;;;;;;;;;;"ß ïîñòó÷àë[Root.GetEndA] â äâåðü è óñëûøàë[Root.GetEndA] [This.GetHersHis] ðóãàíü, êîãäà ÷òî-òî ïîâàëèëîñü íà ïîë è ðàçáèëîñü, ñóäÿ ïî çâóêó. Êîãäà, íàêîíåö, [This.GetSheHe] ñêàçàë[This.GetEndA] ""Âîéäèòå!"", ÿ îòêðûë[Root.GetEndA] äâåðü è óâèäåë[Root.GetEndA] ãðÿçíóþ êîìíàòó, çàáèòóþ ñòðàííûìè î÷êàìè, ÷ó÷åëàìè ýêçîòè÷åñêèõ æèâîòíûõ, è ÷åëîâåêà ñ îïàë¸ííûìè áðîâÿìè, ê êîòîðîìó ÿ ïðèø[Root.GetLaYol], â öåíòðå âñåãî ýòîãî áåñïîðÿäêà.";;x
+EVTDESC69041;My latest experiment went a bit badly and I was trying to clean up the mess when someone knocked on the door. [From.GetTitledFirstName] entered and saw the mess I was standing in, with my singed eyebrows and the remains of my experiment spread all over the room. It didn't take long before [From.GetSheHe] accused me of dealing with the occult!;;;;;;;;;;;Ìîé ïîñëåäíèé ýêñïåðèìåíò ïðîø¸ë ñîâñåì íå áëåñòÿùå. ß ïûòàëñÿ íàâåñòè ïîðÿäîê, êîãäà êòî-òî ïîñòó÷àë â äâåðü. [From.GetTitledFirstName] âîø¸ë è óâèäåë óæàñíûé áàðäàê, ïîñðåäè êîòîðîãî ñòîÿë ÿ ñ îïàë¸ííûìè áðîâÿìè, à òàêæå óçðåë òî, ÷òî îñòàëîñü îò ìîåãî ýêñïåðèìåíòà, ðàñêèäàííîå ïî âñåé êîìíàòå. Íå ïîíàäîáèëîñü ìíîãî âðåìåíè íà òî, ÷òîáû îí îáâèíèë ìåíÿ â îêêóëüòèçìå!;;x
+EVTDESC69042;I could hardly believe my ears when [From.GetTitledFirstName] tried to pressure me into giving [From.GetHerHim] money to keep quiet about my dealings with the occult!;;;;;;;;;;;ß ñ òðóäîì ïîâåðèë ñâîèì óøàì, êîãäà [From.GetTitledFirstName] ïîïûòàëñÿ îêàçàòü äàâëåíèå íà ìåíÿ, íàìåêàÿ, ÷òî ÿ äîëæåí ïëàòèòü åìó çîëîòîì çà ìîë÷àíèå î ìîèõ çàíÿòèÿõ îêêóëüòèçìîì!;;x
+EVTDESC69044;A child has gone missing and it seems as if everyone suspects me to have something to do with that. Apparently being a suspected occultist everyone believes I might use the entrails of children to read the future. Pah!;;;;;;;;;;;Ïðîïàë ðåá¸íîê è, êàæåòñÿ, âñå ïîäîçðåâàþò, ÷òî îí ó ìåíÿ. Äóìàþò, ÷òî ÿ ðåøèë ÷òî-òî ñäåëàòü ñ íèì. Âèäèìî, êàæäûé èç ïîäîçðåâàþùèõ âî ìíå îêêóëüòèñòà ñ÷èòàåò, ÷òî ÿ âïîëíå ìîãó èñïîëüçîâàòü äåòåé äëÿ ãàäàíèÿ ïî âíóòðåííîñòÿì. Òüôó!;;x
+EVTDESC69045;The voice woke me up, whispering about spells to awaken the dead, curses to make your enemy go blind and potions to make anyone fall in love with you...;;;;;;;;;;;Ãîëîñ ðàçáóäèë ìåíÿ, íàø¸ïòûâàÿ çàêëèíàíèÿ, ïðîáóæäàþùèå ì¸ðòâûõ, ïðîêëÿòèÿ, îñëåïëÿþùèå âðàãîâ, è ðåöåïòû ïðèâîðîòíûõ çåëèé...;;x
+EVTDESC69046;My confessor talked sternly to me, clearly avoiding to bring up the occultist rumor but as I just nodded and accepted all he told me without admitting to anything, he lost his patience with me. He scolded me and told me to repent, to stop fiddling with the occult or else...;;;;;;;;;;;Ìîé èñïîâåäíèê ñåðü¸çíî ãîâîðèë ñî ìíîé, ÿâíî èçáåãàÿ îáñóæäåíèÿ ñëóõîâ î çàíÿòèè ìíîé îêêóëüòèçìîì, îæèäàÿ ïðèçíàíèÿ ñ ìîåé ñòîðîíû, íî, ïîñêîëüêó ÿ òîëüêî êèâíóë è ïðèíÿë âñ¸, ÷òî îí ñêàçàë ìíå, íå ïðèçíàâàÿñü íè â ÷åì, îí ïîòåðÿë ñâî¸ òåðïåíèå. Îí îáðóãàë ìåíÿ, ïðèêàçàâ ðàñêàÿòüñÿ è ïðåêðàòèòü èãðû ñ îêêóëüòèçìîì, èíà÷å...;;x
+EVTDESC69047;I had only managed to remember one of the many spells and invocations the voice had whispered to me in the dark. It was long and complicated with many different ingredients, not all easy to acquire...;;;;;;;;;;;ß ñìîã âñïîìíèòü òîëüêî îäèí èç ìíîãî÷èñëåííûõ îáðÿäîâ è çàêëèíàíèé, î êîòîðûõ ãîëîñ øåïòàë ìíå â òåìíîòå. Îáðÿä äîëîã è òðåáóåò ðàçíûõ èíãðåäèåíòîâ, íå âñå èç êîòîðûõ ëåãêî ïðèîáðåñòè...;;x
+EVTDESC69050;The diplomatic skill of [Root.GetMyChancellorName] [Root.job_chancellor.GetTitledFirstName] is deplorable! No matter what task I give [Root.job_chancellor.GetHerHim] [Root.job_chancellor.GetSheHe] always manage to disappoint.;;;;;;;;;;;[Root.GetMyChancellorName] [Root.job_chancellor.GetTitledFirstName] îáëàäàåò âåñüìà ïîñðåäñòâåííûìè ñïîñîáíîñòÿìè â äèïëîìàòè÷åñêîì èñêóññòâå! Íåçàâèñèìî îò òîãî, êàêóþ çàäà÷ó ÿ ïîñòàâëþ, [Root.job_chancellor.GetSheHe] âñåãäà óìóäðÿåòñÿ ðàçî÷àðîâàòü.;;x
+EVTDESC69051;[From.GetTitledFirstName] claims my diplomatic skill is deplorable! No matter how hard I work, [From.GetTitledFirstName] is never satisfied and [From.GetHerHis] demands are preposterous!;;;;;;;;;;;[From.GetTitledFirstName] ãîâîðèò, ÷òî ìî¸ äèïëîìàòè÷åñêîå ìàñòåðñòâî äîñòîéíî ñîæàëåíèÿ! Íåâàæíî, êàê õîðîøî ÿ ðàáîòàþ, [From.GetTitledFirstName] âñåãäà âûêàçûâàåò íåäîâîëüñòâî, [From.GetHersHis] òðåáîâàíèÿ íåëåïû!;;x
+EVTDESC69052;I have to trust Marshal [Root.job_marshal.GetTitledFirstName] to train my troops and to be able to suppress revolts but [Root.job_marshal.GetSheHe] has not proved to be adept in those manners. [Root.job_marshal.GetTitledFirstName] have to shape up or I need to find another Marshal.;;;;;;;;;;;Íóæíî óáåäèòüñÿ â òîì, ÷òî [Root.GetMarshalName] [Root.job_marshal.GetFirstName] ñìîæåò òðåíèðîâàòü ìî¸ âîéñêî è ïîäàâëÿòü âîññòàíèÿ, íî [Root.job_marshal.GetSheHe] íå êàæåòñÿ ÷åëîâåêîì, ñâåäóùèì â ýòîì. [Root.job_marshal.GetTitledFirstName] äîëæåí ïîðàáîòàòü íàä ñîáîé, èëè ìíå ïðèä¸òñÿ íàéòè äðóãîãî.;;x
+EVTDESC69053;I know I have failed [From.GetTitledFirstName]'s expectations for what a Marshal should be able to do, but if only [From.GetSheHe] could give me a chance I would show [From.GetHerHim] that I do not lack in martial skill!;;;;;;;;;;;ß çíàþ, ìíå íå óäàëîñü îïðàâäàòü íàäåæäû, êîòîðûå ïèòàåò [From.GetTitledFirstName] íà òî, ÷òî ÿ, êàê [From.GetMarshalName], äîëæåí óìåòü äåëàòü. Íî åñëè áû òîëüêî ìíå äàëè øàíñ, ÿ áû ïîêàçàë, ÷òî ÿ íå òàêîé óæ ïðîôàí â âîèíñêîì èñêóññòâå!;;x
+EVTDESC69054;I sent Steward [Root.job_treasurer.GetTitledFirstName] to oversee construction in a county - and the building fell apart almost instantly. Then I sent him to collect taxes in one of the richest provinces and [Root.job_treasurer.GetSheHe] returned with much less than I had anticipated. [Root.job_treasurer.GetTitledFirstName] clearly lacks the stewardship skill needed to perform even the simplest of tasks!;;;;;;;;;;;[Root.GetTreasurerName] [Root.job_treasurer.GetTitledFirstName] ïî ìîåìó óêàçó îòïðàâëåí äëÿ íàáëþäåíèÿ çà ñòðîèòåëüñòâîì â îêðóãå è... çäàíèå ðàçâàëèëîñü ïî÷òè ìãíîâåííî. À îòïðàâèâøèñü ñîáèðàòü íàëîãè â îäíîì èç ñàìûõ áîãàòûõ îêðóãîâ, îïÿòü ðàçî÷àðîâàë - êàçíà ïîïîëíèëàñü íà ãîðàçäî ìåíüøóþ ñóììó ÷åì îæèäàëîñü. [Root.job_treasurer.GetTitledFirstName] î÷åâèäíî íå îáëàäàåò íàâûêàìè, íåîáõîäèìûìè äëÿ âûïîëíåíèÿ äàæå ñàìûõ ïðîñòûõ çàäà÷!;;x
+EVTDESC69055;It was not my fault the builders had used inferior materials for the building, nor that the locals managed to swindle us on most of the taxes. Still, my liege [From.GetTitledFirstName] aren't too happy with me as a Steward and I do not blame him.;;;;;;;;;;;Ìîåé âèíû íåò íè â òîì, ÷òî ñòðîèòåëè èñïîëüçîâàëè õóäøèå ìàòåðèàëû äëÿ âîçâåäåíèÿ çäàíèÿ, íè â òîì, ÷òî ìåñòíûå æèòåëè óìóäðèëèñü óòàèòü îò íàñ áîëüøóþ ÷àñòü íàëîãîâ. Òåì íå ìåíåå, ìîé ñþçåðåí, [From.GetTitledFirstName], íå ñëèøêîì äîâîëåí ìíîé, êàê ñâîèì ñîâåòíèêîì, è ÿ íå âèíþ [From.GetHersHis] çà ýòî.;;x
+EVTDESC69056;An efficient Spymaster must be able to uncover plots. Spymaster [Root.job_spymaster.GetTitledFirstName] did not even manage to uncover a plot which was being planned right under [Root.job_spymaster.GetHerHis] nose!;;;;;;;;;;;[Root.GetSpymasterName] äîëæåí áûòü â ñîñòîÿíèè ðàñêðûâàòü çàãîâîðû. Òàéíûé æå ñîâåòíèê [Root.job_spymaster.GetTitledFirstName], íå ñìîã ðàñêðûòü çàãîâîð äàæå òîãäà, êîãäà îí ïëàíèðîâàëñÿ ïðÿìî ó íåãî ïîä íîñîì!;;x
+EVTDESC69057;I was so ashamed when the plot unfurled in front of my nose when I hadn't even noticed that something was going on. It was right of [From.GetTitledFirstName] to chastise me, but still, it hurt...;;;;;;;;;;;Ìíå áûëî óæàñíî ñòûäíî, êîãäà çàãîâîð ïðîâåðíóëè ïðÿìî ó ìåíÿ ïîä íîñîì, à ÿ äàæå íå çàìåòèë òîãî, ÷òî ïðîèñõîäèò. [From.GetTitledFirstName] â ñâî¸ì ïðàâå, âûñêàçûâàÿ íåäîâîëüñòâî ìíîé, íî âñå ðàâíî, îáèäíî...;;x
+EVTDESC69058;It seems to me [Root.job_spiritual.GetTitledFirstName] isn't as pious as [Root.job_spiritual.GetSheHe] claims to be. Instead of improving relations with the [Root.Religion.GetName] Church, [Root.job_spiritual.GetTitledFirstName] managed to make an utter fool out of [Root.job_spiritual.GetHerselfHimself] and, indirectly, me!;;;;;;;;;;;Ìíå êàæåòñÿ, ÷òî [Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName] íå íàñòîëüêî áëàãî÷åñòèâ[Root.job_spiritual.GetEndA], êàê óòâåðæäàåò. Âìåñòî òîãî, ÷òîáû óëó÷øèòü îòíîøåíèÿ ñ [Root.GetRelAdj]ñêèì äóõîâåíñòâîì, [Root.job_spiritual.GetTitledFirstName] óìóäðè[Root.job_spiritual.GetLasLsya] âûñòàâèòü ñåáÿ è, êîñâåííî, ìåíÿ â äóðíîì ñâåòå!;;x
+EVTDESC69059;[Root.GetTitledFirstName] was a bit too harsh when [Root.GetSheHe] chastised me for ruining the relations with the local clergy! Although, I admit, I should probably have chosen less unconventional ways of assuring their support...;;;;;;;;;;;[Root.GetTitledFirstName] áûë ñëèøêîì ñóðîâ, êîãäà óïðåêàë ìåíÿ çà ïîãóáëåííûå îòíîøåíèÿ ñ ìåñòíûì äóõîâåíñòâîì! Õîòÿ ÿ, ïðèçíàþñü, äîëæåí áûë, íàâåðíîå, âûáðàòü ìåíåå íåòðàäèöèîííûå ñïîñîáû ïîèñêà èõ ïîääåðæêè...;;x
+EVTDESC69060;The lack of piety I have observed in one of the courtiers makes me worried. I wouldn't want to accuse anyone of not being a good Christian, but if my suspicions are correct then something needs to be done!;;;;;;;;;;;Îòñóòñòâèå áëàãî÷åñòèÿ, êîòîðîå ÿ íàáëþäàþ â îäíîì èç ïðèäâîðíûõ, çàñòàâëÿåò ìåíÿ áåñïîêîèòüñÿ. ß íå õî÷ó îáâèíÿòü íèêîãî â òîì, ÷òî òîò íå ÿâëÿåòñÿ äîáðûì Õðèñòèàíèíîì, íî åñëè ìîè ïîäîçðåíèÿ âåðíû, òî íóæíî ÷òî-òî äåëàòü!;;x
+EVTDESC69061;Religion has never been one of my great strengths, I do believe in a God but I have trouble accepting all the rituals and demands the priests of the [Root.Religion.GetName] faith feel necessary. [From.GetTitledFirstName] confronted me about this, I hadn't even realized my lack of piety was so noticeable.;;;;;;;;;;;Ðåëèãèÿ íèêîãäà íå áûëà îäíîé èç ìîèõ ñèëüíûõ ñòîðîí, ÿ âåðþ â Áîãà, íî ó ìåíÿ åñòü ïðîáëåìû ñ ðàñïîçíàâàíèåì âñåõ íåîáõîäèìûõ ðèòóàëîâ è òðåáîâàíèé ñâÿùåííèêîâ, ïðîïîâåäóþùèõ [Root.GetReligionFullName]. ß äàæå íå çíàë[Root.GetEndA], ÷òî íåäîñòàòîê áëàãî÷åñòèÿ ñ ìîåé ñòîðîíû áûë òàê çàìåòåí, ïîêà [From.GetTitledFirstName] íå óïðåêíóë[From.GetEndA] ìåíÿ â ýòîì.;;x
+EVTDESC69062;All those rituals and demands the priests of the [Root.Religion.GetName] Church feel necessary to prove one's piety is pure nonsense. Despite my feelings about those unnecessary, empty gestures I have always been careful to not show my lack of piety, but perhaps not careful enough. If I don't pay [From.GetTitledFirstName] fifty gold [From.GetSheHe] will expose my lack of faith to everyone!;;;;;;;;;;;Âñå ýòè ðèòóàëû è òðåáîâàíèÿ öåðêâè, êîòîðûå ñâÿùåííèêè, ïðîïîâåäóþùèå [Root.GetReligionFullName], ñ÷èòàþò íåîáõîäèìûìè äëÿ äîêàçàòåëüñòâà ñâîåãî áëàãî÷åñòèÿ - ÷èñòàÿ áåññìûñëèöà. Íåñìîòðÿ íà ìî¸ îòíîøåíèå ê ýòèì íåíóæíûì, ïóñòûì æåñòàì, ÿ âñåãäà áûë[Root.GetEndA] îñòîðîæ[Root.GetNaEn], ÷òîáû íå ïîêàçàòü îòñóòñòâèå áëàãî÷åñòèÿ, íî, âîçìîæíî, ïðîÿâèë[Root.GetEndA] ïðè ýòîì íåäîñòàòî÷íîå âíèìàíèå. Åñëè [From.GetTitledFirstName] íå ïîëó÷èò îò ìåíÿ ïÿòüäåñÿò çîëîòûõ, òî [From.GetSheHe] ðàññêàæåò âñåì îá îòñóòñòâèè âåðû ó ìåíÿ!;;x
+EVTDESC69064;Why will you burn in hell?', my child asked me. The rumors of my lack of piety had obviously spread throughout the castle and now even my children have heard about it.;;;;;;;;;;;Ïî÷åìó òû áóäåøü ãîðåòü â àäó? — ñïðîñèë ìåíÿ ìîé ðåá¸íîê. Ñëóõè î òîì, ÷òî ìíå íåäîñòà¸ò âåðû, ïîëó÷èëè ðàñïðîñòðàíåíèå, òåïåðü äàæå ìîè äåòè óñëûøàëè îá ýòîì.;;x
+EVTDESC69065;Now even the Pope has heard about my lack of piety! Officially, the Pope sent the legate to make sure the bonds between the Pope and the [Root.Religion.GetName] Church in [Root.Location.GetName] is still strong despite my lack of piety but unofficially, the legate was there to give me a stern speech about my lack of faith.;;;;;;;;;;;Íó âîò! Òåïåðü äàæå Ïàïà Ðèìñêèé çíàåò î òîì, ÷òî ìíå íåäîñòà¸ò áëàãî÷åñòèÿ! Îôèöèàëüíî, Ïàïà ïîñëàë ëåãàòà ÷òîáû óáåäèòüñÿ, ÷òî [Root.GetReligionFullName] è âëèÿíèå Ðèìà ïî-ïðåæíåìó ñèëüíû â îáëàñòè [Root.Location.GetName], íåñìîòðÿ íà íåõâàòêó áëàãî÷åñòèÿ ñ ìîåé ñòîðîíû. Íåîôèöèàëüíî æå, ëåãàò áûë ïîñëàí ñ öåëüþ íàêîðìèòü ìåíÿ íðàâîó÷åíèÿìè, ïîíîñÿùèìè ìî¸ íåâåðèå.;;x
+EVTDESC69066;Now even the Caliph has heard about my lack of piety! The Caliph's messenger was there to give me a stern speech about my lack of faith and to make sure the bonds between the Caliph and the [Root.Religion.GetName] Church in [Root.Location.GetName] is still strong despite my lack of piety.;;;;;;;;;;;Òåïåðü äàæå õàëèô ïðîñëûøàë î ìî¸ì áåñ÷åñòèè! Ïðèáûë ïîñëàííèê õàëèôà è ñäåëàë ìíå ñòðîãèé âûãîâîð ïî ïîâîäó ìîåãî íåâåðèÿ. Îí òàêæå óáåäèëñÿ, ÷òî ñâÿçü ìåæäó õàëèôîì è èìàìàìè, èñïîâåäóþùèìè [Root.GetReligionFullName], îêðóãà [Root.Location.GetName] âñ¸ åù¸ ñèëüíà, íåñìîòðÿ íà îòñóòñòâèå ó ìåíÿ áëàãî÷åñòèÿ.;;x
+EVTDESC69070;The man is a coward, that's for certain! He can't fight, shadows and loud noises frighten him and blood makes him faint.;;;;;;;;;;;Ýòîò ÷åëîâåê - òðóñ, ýòî òî÷íî! Îí íå óìååò äðàòüñÿ, òåíè è ãðîìêèå çâóêè ïóãàþò åãî, à îò âèäà êðîâè îí ãîòîâ îáìî÷èòüñÿ.;;x
+EVTDESC69071;I gave a small shriek when [From.GetTitledFirstName] touched my arm, which didn't really help when I tried to defend myself from [From.GetHerHis] accusations about my cowardice...;;;;;;;;;;;Ìåíÿ ïåðåäåðíóëî îò íåîæèäàííîãî ïðèêîñíîâåíèÿ ê ïëå÷ó. Òåïåðü [From.GetTitledFirstName] íè çà ÷òî íå ïîâåðèò, ÷òî ñëóõ î ìîåé òðóñëèâîñòè - ïðåóâåëè÷åíèå.;;x
+EVTDESC69072;'Fifty gold', [From.GetTitledFirstName] told me.\n'Fifty gold or I tell everyone what a coward you are...';;;;;;;;;;;"\n""Ïÿòüäåñÿò ìîíåò"", - øåïíóë[From.GetEndA] ìíå [From.GetTitledFirstName].\n""Ïÿòüäåñÿò çîëîòûõ èëè ÿ ðàññêàæó âñåì, ÷òî Âû - òðóñ..."".";;x
+EVTDESC69074;The soldiers watched me while I practised with my sword and one of them asked when I had finished why I was taking unnecessary risks when practising with the sword.;;;;;;;;;;;Ñîëäàòû ñìîòðåëè íà ìåíÿ, ïîêà ÿ çàíèìàëñÿ ñ ìå÷îì, è, êîãäà ÿ çàêîí÷èë, îäèí èç íèõ ñïðîñèë, ïî÷åìó ÿ èäó íà íåíóæíûé ðèñê ïðè óïðàæíåíèè ñ ìå÷îì.;;x
+EVTDESC69075;Women laugh behind your back', someone told me.\n'Women laugh behind your back because of your reputation of being a coward'.;;;;;;;;;;;" ""Æåíùèíû ñìåþòñÿ çà òâîåé ñïèíîé"", — ñêàçàë ìíå êòî-òî.\nÆåíñêèé ñìåõ ðàçäà¸òñÿ çà Âàøåé ñïèíîé ïîòîìó, ÷òî Âû èìååòå ðåïóòàöèþ òðóñà.";;x
+EVTDESC69076;I have finally proven my bravery!;;;;;;;;;;;ß, íàêîíåö, äîêàçàë ñâîþ õðàáðîñòü!;;x
+EVTDESC69080;Everyone at court believes I am a sodomite!;;;;;;;;;;;Âåñü äâîð âåðèò â òî, ÷òî ÿ - ñîäîìèò!;;x
+EVTDESC69081;Everyone at court believes that my sister and I has an incestuous affair!;;;;;;;;;;;Âåñü äâîð âåðèò â òî, ÷òî ìîÿ ñåñòðà è ÿ èìååì êðîâîñìåñèòåëüíóþ ñâÿçü!;;x
+EVTDESC69082;My wife and I have been unable to conceive a child, and now everyone believes I am impotent!;;;;;;;;;;;Ìîÿ æåíà è ÿ íèêàê íå ìîæåì çà÷àòü ðåá¸íêà, è òåïåðü êàæäûé óâåðåí â òîì, ÷òî ÿ íå ñïîñîáåí èìåòü äåòåé!;;x
+EVTDESC69083;Rumours at the court suggests that I have been unfaithful and committed adultery with one of the ladies.;;;;;;;;;;;Ñëóõè ïðè äâîðå ãîâîðÿò, ÷òî ÿ ïðåëþáîäåé, è èìåë ñâÿçü ñ îäíîé èç ïðèäâîðíûõ äàì.;;x
+EVTDESC69084;My harmless experiments and interest in science has led to rumors erupting in court about me being an occultist!;;;;;;;;;;;Ìîè áåçîáèäíûå ýêñïåðèìåíòû è èíòåðåñ ê íàóêå, ïðèâåëè ê ðàçãóëó ïðè äâîðå ñëóõîâ î òîì, ÷òî ÿ - îêêóëüòèñò!;;x
+EVTDESC69085;[From.GetTitledFirstName]'s distrust in me as [From.GetHerHis] [Root.GetChancellorName] has made everyone in court dislike me!;;;;;;;;;;;[From.GetTitledFirstName] íå âåðèò, ÷òî ÿ õîðîøèé [Root.GetMyChancellorName]. Ýòî çàñòàâèëî âåñü äâîð íåäîëþáëèâàòü ìåíÿ!;;x
+EVTDESC69086;[From.GetTitledFirstName]'s distrust in me as [From.GetHerHis] Marshal has made everyone in court dislike me!;;;;;;;;;;;[From.GetTitledFirstName] íå âåðèò, ÷òî ÿ õîðîøèé [From.GetMarshalName]. Ýòî çàñòàâèëî âåñü äâîð íåäîëþáëèâàòü ìåíÿ!;;x
+EVTDESC69087;[From.GetTitledFirstName]'s distrust in me as [From.GetHerHis] Steward has made everyone in court dislike me!;;;;;;;;;;;[From.GetTitledFirstName] íå âåðèò, ÷òî ÿ õîðîøèé [Root.GetTreasurerName]. Ýòî çàñòàâèëî âåñü äâîð íåäîëþáëèâàòü ìåíÿ!;;x
+EVTDESC69088;[From.GetTitledFirstName]'s distrust in me as [From.GetHerHis] Spymaster has made everyone in court dislike me!;;;;;;;;;;;[From.GetTitledFirstName] íå âåðèò, ÷òî ÿ õîðîøèé [Root.GetSpymasterName]. Ýòî çàñòàâèëî âåñü äâîð íåäîëþáëèâàòü ìåíÿ!;;x
+EVTDESC69089;[From.GetTitledFirstName]'s distrust in me as [From.GetHerHis] [From.GetLordSpiritualName] has made everyone in court dislike me!;;;;;;;;;;;"[From.GetTitledFirstName] íå âåðèò, ÷òî äîëæíîñòü ""[From.GetLordSpiritualName]"" ïîäõîäèò ìíå. Ýòî çàñòàâèëî âåñü äâîð íåäîëþáëèâàòü ìåíÿ!";;x
+EVTDESC69090;Somehow the rumors at court is all about me lacking piety!;;;;;;;;;;;Òàê èëè èíà÷å, ñëóõè ïðè äâîðå óòâåðæäàþò, ÷òî ìíå íå õâàòàåò áëàãî÷åñòèÿ!;;x
+EVTDESC69091;Everybody 'knows' I am a big, fat coward!;;;;;;;;;;;"Êàæäûé ""çíàåò"", ÷òî ÿ - áîëüøîé, òîëñòûé òðóñ!";;x
+EVTDESC69095;It seems to me [Root.job_spiritual.GetTitledFirstName] isn't as pious as [Root.job_spiritual.GetSheHe] claims to be. Instead of improving relations with the imams, [Root.job_spiritual.GetTitledFirstName] managed to make an utter fool out of [Root.job_spiritual.GetHerselfHimself] and, indirectly, me!;;;;;;;;;;;Ìíå êàæåòñÿ, ÷òî [Root.job_spiritual.GetTitledFirstName] íå òàê áëàãî÷åñòèâ, êàê [Root.job_spiritual.GetSheHe] óòâåðæäàåò. Âìåñòî óëó÷øåíèÿ âçàèìîîòíîøåíèé ñ èìàìàìè, [Root.job_spiritual.GetTitledFirstName] ëèøü âûñòàâèë ñåáÿ äóðàêîì, à òàêæå, êîñâåííî, è ìåíÿ!;;x
+EVTDESC69096;[Root.GetTitledFirstName] was a bit too harsh when [Root.GetSheHe] chastised me for ruining the relations with the imams! Although, I admit, I should probably have chosen less unconventional ways of assuring their support...;;;;;;;;;;;[Root.GetTitledFirstName] áûë èçëèøíå ðåçîê, ðàñïåêàÿ ìåíÿ çà èñïîð÷åííûå îòíîøåíèÿ ñ èìàìàìè! Õîòÿ, íàäî ïðèçíàòü, âåðîÿòíî, ìíå ñëåäîâàëî áû âûáðàòü íå òàêèå ñîìíèòåëüíûå ñïîñîáû äîáèòüñÿ èõ ïîääåðæêè...;;x
+EVTDESC69100;The lack of piety I have observed in one of the courtiers makes me worried. I wouldn't want to accuse anyone of not being a good Muslim, but if my suspicions are correct then something needs to be done!;;;;;;;;;;;Ìåíÿ áåñïîêîèò íåäîñòàòî÷íàÿ íàáîæíîñòü ó îäíîãî èç ìîèõ ïðèäâîðíûõ. Íå õîòåëîñü áû íèêîãî îáâèíÿòü, ÷òî íå ÿâëÿåòñÿ ïðàâåäíûì ìóñóëüìàíèíîì, íî åñëè ìîè ïîäîçðåíèÿ âåðíû, íóæíî ÷òî-òî äåëàòü!;;x
+EVTDESC69101;Faith has never been one of my great strengths, I do believe in Allah but I have trouble accepting all the rituals and demands the imams feel necessary. [From.GetTitledFirstName] confronted me about this, I hadn't even realized my lack of piety was so noticeable.;;;;;;;;;;;Ðåëèãèÿ íèêîãäà íå áûëà ìîåé ñèëüíîé ñòîðîíîé. ß âåðþ â Àëëàõà, íî ó ìåíÿ åñòü ïðîáëåìû ñ èñïîëíåíèåì âñåõ òåõ ðèòóàëîâ è òðåáîâàíèé, êîòîðûå èìàìû ñ÷èòàþò íåîáõîäèìûìè. ß äàæå íå ïîíèìàë[Root.GetEndA], ÷òî ìîÿ íåäîñòàòî÷íàÿ íàáîæíîñòü ñòîëü çàìåòíà, ïîêà [From.GetTitledFirstName] íå ïîñòàâèë[From.GetEndA] ìåíÿ ïåðåä ôàêòîì.;;x
+EVTDESC69102;All those rituals and demands the imams feel necessary to prove one's piety is pure nonsense. Despite my feelings about those unnecessary, empty gestures I have always been careful to not show my lack of piety, but perhaps not careful enough. If I don't pay [From.GetTitledFirstName] fifty gold [From.GetSheHe] will expose my lack of faith to everyone!;;;;;;;;;;;Âñå ýòè ðèòóàëû, òðåáîâàíèÿ èìàìîâ, íåîáõîäèìîñòü ïîêàçûâàòü ñâî¸ áëàãî÷åñòèå - ÷èñòàÿ áåññìûñëèöà. Íåñìîòðÿ íà ñâîè ÷óâñòâà ïî ïîâîäó âñåõ íåíóæíûõ, ïóñòûõ æåñòîâ, ÿ âñåãäà áûë îñòîðîæåí, è íå ïîêàçûâàë ñâî¸ îòñóòñòâèå áëàãî÷åñòèÿ, íî, ïî-âèäèìîìó, âñ¸ æå áûë íåäîñòàòî÷íî âíèìàòåëåí. Åñëè [From.GetTitledFirstName] íå ïîëó÷èò îò ìåíÿ 50 çîëîòûõ, [From.GetSheHe] âûñòàâèò ìî¸ íåâåðèå íàïîêàç!;;x
+EVTOPTA69000;Ask him if he really desires men rather than women;;;;;;;;;;;Ñïðîñèòü åãî, äåéñòâèòåëüíî ëè îí ïðåäïî÷èòàåò ìóæ÷èí, à íå æåíùèí.;;x
+EVTOPTA69001;What nerve! I love women, not men!;;;;;;;;;;;Êàêàÿ íàãëîñòü! Ìíå íðàâÿòñÿ æåíùèíû, à íå ìóæ÷èíû!;;x
+EVTOPTA69002;I cannot let anyone believe that!;;;;;;;;;;;ß íå ìîãó ïîçâîëèòü êîìó-íèáóäü ïîâåðèòü â ýòî!;;x
+EVTOPTA69003;I will accuse him of sodomy!;;;;;;;;;;;ß îáâèíþ åãî â ãðåõå ìóæåëîæñòâà!;;x
+EVTOPTA69004;What!? No! No, I am not a sodomite!;;;;;;;;;;;×òî!? Íåò! Íåò, ÿ íå ñîäîìèò!;;x
+EVTOPTA69005;The brothels it is!;;;;;;;;;;;Ïî áîðäåëÿì!;;x
+EVTOPTA69006;[Root.Religion.GetPriestTitleCap] or not, nobody denounces me!;;;;;;;;;;;Íèêòî íå ñìååò îñóæäàòü ìåíÿ!;;x
+EVTOPTA69007;I don't know what to know anymore!;;;;;;;;;;;ß íå çíàþ, ÷òî äóìàòü.;;x
+EVTOPTA69010;I should warn him about his incestuous affair;;;;;;;;;;;ß äîëæåí ïðåäóïðåäèòü åãî î åãî êðîâîñìåñèòåëüíîé ñâÿçè.;;x
+EVTOPTA69011;I love my sister, but not in that way!;;;;;;;;;;;ß ëþáëþ ñâîþ ñåñòðó, íî íå òàêèì îáðàçîì!;;x
+EVTOPTA69012;Your silence is very valuable to me;;;;;;;;;;;Âàøå ìîë÷àíèå î÷åíü öåííî äëÿ ìåíÿ.;;x
+EVTOPTA69013;Well, I wouldn't kick [From.GetHerHim] out of my bed...;;;;;;;;;;;Íó... ÿ íå âûêèíó [From.GetHerHim] èç ñâîåé ïîñòåëè...;;x
+EVTOPTA69015;I have sinned, if not in flesh then in mind...;;;;;;;;;;;Ñîãðåøèë ÿ, åñëè íå âî ïëîòè, òî â ìûñëÿõ...;;x
+EVTOPTA69016;The things I do for love...;;;;;;;;;;;×òî ÿ ìîãó ñäåëàòü ðàäè ëþáâè...;;x
+EVTOPTA69017;I fear the Holy Father will not look kindly upon us...;;;;;;;;;;;Áîþñü, Ñâÿòîé Îòåö íå áóäåò áëàãîñêëîíåí ê íàì...;;x
+EVTOPTA69020;Might he be impotent? I have to know!;;;;;;;;;;;Ìîæåò áûòü, îí íå ñïîñîáåí èìåòü äåòåé? Íóæíî âûÿñíèòü!;;x
+EVTOPTA69021;We have a little trouble conceiving, that is all!;;;;;;;;;;;Ó íàñ åñòü íåáîëüøèå ïðîáëåìû ñ çà÷àòèåì, âîò è âñ¸!;;x
+EVTOPTA69022;[Root.Spouse.GetFirstName] would be devastated, I have to pay...;;;;;;;;;;;[Root.Spouse.GetFirstName] íå ïîäâåðãíåòñÿ óíèæåíèþ, ÿ áóäó ïëàòèòü...;;x
+EVTOPTA69024;Let them laugh!;;;;;;;;;;;Ïóñòü ñìåþòñÿ!;;x
+EVTOPTA69030;It is my duty to confront him!;;;;;;;;;;;Ìîé äîëã - ñïðîñèòü [This.GetHersHis] îá ýòîì!;;x
+EVTOPTA69031;I did not commit adultery with that woman;;;;;;;;;;;ß íå ïðåëþáîäåéñòâîâàë[Root.GetEndA] ñ ýòîé æåíùèíîé.;;x
+EVTOPTA69032;I know what I saw!;;;;;;;;;;;Íî ÿ óâåðåí[Root.GetEndA] â òîì, ÷òî âèäåë[Root.GetEndA]!;;x
+EVTOPTA69033;You BASTARD!;;;;;;;;;;;ÓÁËÞÄÎÊ!;;x
+EVTOPTA69034;I will never cheat on you again, I promise!;;;;;;;;;;;ß áîëüøå íèêîãäà íå áóäó ëãàòü, îáåùàþ!;;x
+EVTOPTA69035;Trust me on this!;;;;;;;;;;;Ïîâåðü ìíå!;;x
+EVTOPTA69036;Take this, I don't want to see you ever again!;;;;;;;;;;;Âîçüìèòå ýòî, ÿ íå õî÷ó óâèäåòü Âàñ êîãäà-íèáóäü âíîâü!;;x
+EVTOPTA69038;Why did you have to involve them?!;;;;;;;;;;;Êàêàÿ íóæäà çàñòàâèëà òåáÿ ðàññêàçàòü èì âñ¸?!;;x
+EVTOPTA69039;I reassure my mistress of my deep love for her;;;;;;;;;;;ß óâåðèë ëþáîâíèöó â ñâîåé ãëóáîêîé ëþáâè ê íåé.;;x
+EVTOPTA69040;Have you tampered with the occult?;;;;;;;;;;;Òû çàíèìà[This.GetLasLsya] îêêóëüòèçìîì?;;x
+EVTOPTA69041;Are you mad? I would never!;;;;;;;;;;;Âû ñ óìà ñîøëè? Íè÷åãî ïîäîáíîãî!;;x
+EVTOPTA69042;This is all I have got...;;;;;;;;;;;Ýòî âñ¸, ÷òî ó ìåíÿ åñòü...;;x
+EVTOPTA69044;I ignore the talks;;;;;;;;;;;ß íå îáðàùàþ âíèìàíèÿ íà ðàçãîâîðû.;;x
+EVTOPTA69045;I hope I can remember all of this!;;;;;;;;;;;ß íàäåþñü, ÷òî çàïîìíþ âñå ýòî!;;x
+EVTOPTA69046;I repent, I will never fiddle with the occult again!;;;;;;;;;;;Êàþñü, ÿ íèêîãäà íå áóäó èãðàòü ñ îêêóëüòèçìîì âíîâü!;;x
+EVTOPTA69047;This spell will benefit me;;;;;;;;;;;Ýòî çàêëèíàíèå áóäåò ïîëåçíî ìíå.;;x
+EVTOPTA69050;You are not good enough, you have to shape up!;;;;;;;;;;;Âû íå äîñòàòî÷íî õîðîøè, ÿ æäó ïðîðûâà!;;x
+EVTOPTA69051;[From.GetTitledFirstName] does not appreciate me...;;;;;;;;;;;[From.GetTitledFirstName] íå öåíèò ìåíÿ...;;x
+EVTOPTA69052;Shape up or you're out of a job!;;;;;;;;;;;Çàéìèòåñü ñîáîé èëè ïîòåðÿåòå ðàáîòó!;;x
+EVTOPTA69053;I will make you appreciate me, [From.GetTitledFirstName]!;;;;;;;;;;;ß ñäåëàþ òàê, ÷òî Âû ñòàíåòå öåíèòü ìåíÿ, [From.GetTitledFirstName]!;;x
+EVTOPTA69054;Not good enough!;;;;;;;;;;;Íå ãîäèòñÿ!;;x
+EVTOPTA69055;I will shape up!;;;;;;;;;;;ß áóäó ñòàðàòüñÿ!;;x
+EVTOPTA69056;You can and must do better!;;;;;;;;;;;Âû äîëæíû áûòü ëó÷øå!;;x
+EVTOPTA69057;I'm sorry, I'll work harder!;;;;;;;;;;;Ïðîñòèòå ìåíÿ, ÿ áóäó ðàáîòàòü íà èçíîñ!;;x
+EVTOPTA69058;Why does [Root.job_spiritual.GetSheHe] disappoint every time I try to trust [Root.job_spiritual.GetHerHim]?;;;;;;;;;;;Ïî÷åìó [Root.job_spiritual.GetSheHe] îáìàíûâàåò ìåíÿ, êîãäà ÿ äîâåðÿþ [Root.job_spiritual.GetHerHim]?;;x
+EVTOPTA69059;Why can't I be appreciated for the things I do right?;;;;;;;;;;;Ïî÷åìó ÿ íå ñëûøó áëàãîäàðíîñòè çà òî, ÷òî ÿ äåëàþ ïðàâèëüíî?;;x
+EVTOPTA69060;Confront the courtier about the lack of piety;;;;;;;;;;;Óêàçàòü íà íåõâàòêó áëàãî÷åñòèÿ;;x
+EVTOPTA69061;I will prove my piety by good deeds;;;;;;;;;;;ß ïîêàæó, íàñêîëüêî ÿ áëàãî÷åñòèâ[Root.GetEndA], ñîâåðøàÿ äîáðûå ïîñòóïêè.;;x
+EVTOPTA69062;Here, now leave me alone!;;;;;;;;;;;Âîçüìèòå, òåïåðü îñòàâüòå ìåíÿ â ïîêîå!;;x
+EVTOPTA69064;I won't burn in hell! Where have you heard that?;;;;;;;;;;;ß íå áóäó ãîðåòü â àäó! Ãäå Âû óñëûøàëè ýòîò áðåä?;;x
+EVTOPTA69065;I will donate to the church just to keep him quiet;;;;;;;;;;;ß áóäó æåðòâîâàòü íà öåðêîâü, ëèøü áû îí óñïîêîèëñÿ.;;x
+EVTOPTA69066;I will prove my piety by doubling, nay, tripling the zakat!;;;;;;;;;;;ß äîêàæó ñâî¸ áëàãî÷åñòèå! ß óäâàèâàþ, íåò, óòðàèâàþ çàêÿò!;;x
+EVTOPTA69070;You are a disgrace and I despise you!;;;;;;;;;;;Ïîçîð, ÿ ïðåçèðàþ åãî!;;x
+EVTOPTA69071;I will try to prove myself;;;;;;;;;;;ß ïîñòàðàþñü ïðîÿâèòü ñåáÿ.;;x
+EVTOPTA69072;Please don't tell anyone!;;;;;;;;;;;Ïîæàëóéñòà, íå ãîâîðèòå íèêîìó!;;x
+EVTOPTA69074;I need to;;;;;;;;;;;Ìíå íóæíî ýòî.;;x
+EVTOPTA69075;I admit, I am a coward...;;;;;;;;;;;Ïðèçíàþñü, ÿ òðóñ...;;x
+EVTOPTA69076;This is a glorious day!;;;;;;;;;;;Ýòî ñëàâíûé äåíü!;;x
+EVTOPTA69080;Why?;;;;;;;;;;;Êàê òàê?;;x
+EVTOPTA69081;That is preposterous!;;;;;;;;;;;Ýòî íåëåïî!;;x
+EVTOPTA69082;We only need to try more!;;;;;;;;;;;Íàì ïðîñòî íóæíî áîëüøå ñòàðàòüñÿ!;;x
+EVTOPTA69083;...and now my wife believes those rumors!;;;;;;;;;;;...è òåïåðü ìîÿ æåíà âåðèò, ÷òî ýòî íå ïðîñòî ñëóõè!;;x
+EVTOPTA69084;So what if I am?;;;;;;;;;;;Íó è ÷òî?;;x
+EVTOPTA69085;What have I done?;;;;;;;;;;;×òî ÿ ñäåëàë?;;x
+EVTOPTA69086;Totally unjustified, I am sure!;;;;;;;;;;;Ñîâåðøåííî íåîïðàâäàííî, ÿ óâåðåí!;;x
+EVTOPTA69087;Well then [From.GetSheHe] should get a new Steward!;;;;;;;;;;;Íó, ïóñòü òîãäà [From.GetSheHe] èùåò íîâîãî!;;x
+EVTOPTA69088;Why I never!;;;;;;;;;;;Àáñóðä!;;x
+EVTOPTA69089;This is troubling;;;;;;;;;;;Ýòî òðåâîæèò ìåíÿ!;;x
+EVTOPTA69090;How could that happen?;;;;;;;;;;;Êàê ýòî ìîãëî ñëó÷èòüñÿ?;;x
+EVTOPTA69091;I strongly reject the notion!;;;;;;;;;;;ß ðåøèòåëüíî ïðîòèâ òàêîãî ìíåíèÿ!;;x
+EVTOPTB69000;I should tell others about my suspicion!;;;;;;;;;;;ß äîëæåí ðàññêàçàòü äðóãèì î ñâîèõ ïîäîçðåíèÿõ!;;x
+EVTOPTB69001;You are right. I desire men, not women;;;;;;;;;;;Âû ïðàâû. ß ïðåäïî÷èòàþ ìóæ÷èí.;;x
+EVTOPTB69002;No one will believe that!;;;;;;;;;;;Íèêòî íå ïîâåðèò â ýòî!;;x
+EVTOPTB69003;It is my duty to inform everyone about this suspected sodomite!;;;;;;;;;;;Ìîé äîëã ñîîáùèòü êàæäîìó - ÿ ïîäîçðåâàþ, ÷òî îí - ñîäîìèò!;;x
+EVTOPTB69004;Yes, I am a sodomite;;;;;;;;;;;Äà, åñòü òàêîå äåëî.;;x
+EVTOPTB69005;I should talk about it;;;;;;;;;;;ß äîëæåí óáåäèòåëüíî ãîâîðèòü îá ýòîì.;;x
+EVTOPTB69006;Just keep quiet, people will forget this soon;;;;;;;;;;;Ñëåäóåò ïðîñòî ïðîìîë÷àòü, ëþäè çàáóäóò îá ýòîì â áëèæàéøåå âðåìÿ.;;x
+EVTOPTB69010;I have to tell everyone about their incestuous affair!;;;;;;;;;;;ß äîëæåí ðàññêàçàòü âñåì îá èõ êðîâîñìåñèòåëüíîé ñâÿçè!;;x
+EVTOPTB69011;I will prove I am not having an affair with my sister!;;;;;;;;;;;ß äîêàæó, ÿ íå èìåþ îçâó÷åííîé ñâÿçè ñ ìîåé ñåñòðîé!;;x
+EVTOPTB69012;You cannot prove anything!;;;;;;;;;;;Âû íå ñìîæåòå íè÷åãî äîêàçàòü!;;x
+EVTOPTB69013;Charming and handsome won't buy your way to my bed!;;;;;;;;;;;Ñâîèì î÷àðîâàíèåì è êðàñîòîé Âû íå êóïèòå ïóòü â ìîþ ïîñòåëü!;;x
+EVTOPTB69015;I have nothing to confess, nothing to be forgiven for...;;;;;;;;;;;Ìíå íå â ÷åì ñîçíàâàòüñÿ, íè÷òî íå òðåáóåò ïðîùåíèÿ...;;x
+EVTOPTB69016;Ignore the child;;;;;;;;;;;Íå îáðàùàòü âíèìàíèÿ íà ðåá¸íêà.;;x
+EVTOPTB69020;It surprises me no one else knows this, I should tell them...;;;;;;;;;;;Ìåíÿ óäèâëÿåò, ÷òî áîëüøå íèêòî íå çíàåò ýòîãî, íóæíî ðàññêàçàòü èì...;;x
+EVTOPTB69021;It's true, I'm impotent...;;;;;;;;;;;Ýòî ïðàâäà. ß íå ñïîñîáåí èìåòü äåòåé...;;x
+EVTOPTB69022;I will never give in to your demands!;;;;;;;;;;;ß íèêîãäà íå ïîääàìñÿ Âàøèì òðåáîâàíèÿì!;;x
+EVTOPTB69030;I should tell someone...;;;;;;;;;;;ß äîëæ[Root.GetNaEn] êîìó-òî ðàññêàçàòü îá ýòîì...;;x
+EVTOPTB69031;I won't say a word;;;;;;;;;;;ß íå ñêàæó íè ñëîâà.;;x
+EVTOPTB69032;Maybe I was wrong...;;;;;;;;;;;Âîçìîæíî, ÿ îøèáà[Root.GetLasLsya]...;;x
+EVTOPTB69033;I should forgive and forget. I still love him;;;;;;;;;;;ß äîëæ[Root.GetNaEn] ïðîñòèòü è çàáûòü. ß âñ¸ åù¸ ëþáëþ [From.GetHersHis];;x
+EVTOPTB69036;As if someone would believe you!;;;;;;;;;;;Êàê áóäòî êòî-òî ïîâåðèò Âàì!;;x
+EVTOPTB69039;[Root.Spouse.GetTitledFirstName], you are the one I love!;;;;;;;;;;;[Root.Spouse.GetTitledFirstName], Âû - ìîÿ åäèíñòâåííàÿ ëþáîâü!;;x
+EVTOPTB69040;I got to get out of here and tell everyone!;;;;;;;;;;;ß äîëæ[Root.GetNaEn] âûáðàòüñÿ îòñþäà è ðàññêàçàòü âñåì!;;x
+EVTOPTB69041;I cackled madly at [From.GetTitledFirstName]'s accusation;;;;;;;;;;;ß õîõîòàë êàê áåçóìíûé, óñëûøàâ â ÷¸ì [From.GetTitledFirstName] îáâèíÿåò ìåíÿ.;;x
+EVTOPTB69042;I don't care if everyone knows about this!;;;;;;;;;;;Ìíå ïëåâàòü, äàæå åñëè âñå óçíàþò îá ýòîì!;;x
+EVTOPTB69044;I attempt to clear my name;;;;;;;;;;;ß ïûòàþñü î÷èñòèòü ñâî¸ èìÿ îò ãðÿçè.;;x
+EVTOPTB69045;I ignore the voice and go back to sleep;;;;;;;;;;;ß íå îáðàùàþ âíèìàíèÿ íà ãîëîñ è èäó ñïàòü.;;x
+EVTOPTB69046;Or what? You haven't got anything but rumors!;;;;;;;;;;;Èëè ÷òî? Ó òåáÿ íåò íè÷åãî, êðîìå ñëóõîâ!;;x
+EVTOPTB69047;I must recant my acts;;;;;;;;;;;ß äîëæåí îòêàçàòüñÿ îò ýòîãî ïîñòóïêà.;;x
+EVTOPTB69050;I don't trust [Root.job_chancellor.GetTitledFirstName] to do a good job;;;;;;;;;;;Íå âåðþ, ÷òî [Root.job_chancellor.GetSheHe] ìîæåò ñäåëàòü ñâîþ ðàáîòó õîðîøî.;;x
+EVTOPTB69052;I don't think [Root.job_marshal.GetTitledFirstName] is the right [Root.job_marshal.GetManWoman] for this job;;;;;;;;;;;Íå äóìàþ, ÷òî [Root.job_marshal.GetTitledFirstName] ñïðàâèòñÿ ñ ðàáîòîé.;;x
+EVTOPTB69054;I can't say I trust [Root.job_treasurer.GetTitledFirstName];;;;;;;;;;;Íå ìîãó ñêàçàòü, ÷òî [Root.job_treasurer.GetTitledFirstName] ïîëüçóåòñÿ ìîèì äîâåðèåì.;;x
+EVTOPTB69056;[Root.job_spymaster.GetTitledFirstName] failed me, now I have to do the job myself;;;;;;;;;;;[Root.job_spymaster.GetTitledFirstName] ïîäâîäèò ìåíÿ, òåïåðü ÿ äîëæåí äåëàòü ýòó ðàáîòó ñàì.;;x
+EVTOPTB69058;I cannot trust you with anything, can I?;;;;;;;;;;;Ìîãó ëè ÿ äîâåðÿòü Âàì íàñòîëüêî, íàñêîëüêî õîòåë áû?;;x
+EVTOPTB69060;Expose the courtier as not Christian enough;;;;;;;;;;;Âûñòàâèòü ïðèäâîðíîãî, êàê ïëîõîãî õðèñòèàíèíà.;;x
+EVTOPTB69061;I shrug the question off. I feel no need to explain myself;;;;;;;;;;;ß ïîæàë[Root.GetEndA] ïëå÷àìè, óñëûøàâ âîïðîñ. ß íå ÷óâñòâóþ ñåáÿ îáÿçàíí[Root.GetOyYm] ÷òî-ëèáî îáúÿñíÿòü.;;x
+EVTOPTB69062;Find someone else to extort!;;;;;;;;;;;Íàéäè êîãî-íèáóäü äðóãîãî äëÿ ñâîèõ âûìîãàòåëüñòâ!;;x
+EVTOPTB69064;I truly need to repent or I will burn in Hell;;;;;;;;;;;Ìíå äåéñòâèòåëüíî íóæíî ïîêàÿòüñÿ, èëè ÿ â ñàìîì äåëå áóäó ãîðåòü â àäó.;;x
+EVTOPTB69065;Ignore him;;;;;;;;;;;Èãíîðèðîâàòü åãî.;;x
+EVTOPTB69070;I will tell the whole castle about his cowardice!;;;;;;;;;;;ß ðàññêàæó âñåì â î åãî òðóñîñòè!;;x
+EVTOPTB69071;I'm not craven! Just easily startled...;;;;;;;;;;;ß íå òðóñ! Ïðîñòî âïå÷àòëèòåëüíûé...;;x
+EVTOPTB69072;Go ahead! I'm n-not afraid...;;;;;;;;;;;Âïåð¸ä! ß í-íå áîþñü...;;x
+EVTOPTB69074;I am a coward;;;;;;;;;;;Èçãîíÿþ òðóñà èç ñåáÿ.;;x
+EVTOPTB69075;I am NOT a coward!;;;;;;;;;;;ß ÍÅ òðóñ!;;x
+EVTOPTB69100;Expose the courtier as not a good Muslim;;;;;;;;;;;Ðàçîáëà÷èòü ïðèäâîðíîãî êàê ïëîõîãî ìóñóëüìàíèíà;;x
+EVTOPTC69000;I will accept money in exchange for my silence;;;;;;;;;;;ß ïðèìó äåíüãè â îáìåí íà ìî¸ ìîë÷àíèå.;;x
+EVTOPTC69010;I wonder how much my silence is worth to him...;;;;;;;;;;;Èíòåðåñíî, âî ñêîëüêî åìó îáîéä¸òñÿ ìî¸ ìîë÷àíèå...;;x
+EVTOPTC69020;This is perhaps a secret he would pay to keep secret...;;;;;;;;;;;Âîçìîæíî, îí çàïëàòèë áû äåíüãè çà ñîõðàíåíèå ýòîãî ñåêðåòà â òàéíå...;;x
+EVTOPTC69030;I need a bit of persuasion if he wants me to stay silent...;;;;;;;;;;;Ìíå íóæíî íå÷òî áîëüøåå, åñëè [This.GetSheHe] õî÷åò, ÷òîáû ÿ ìîë÷àë[Root.GetEndA]...;;x
+EVTOPTC69040;He might pay for my silence...;;;;;;;;;;;[This.GetSheHeCap] ìîæåò ïëàòèòü çà ìî¸ ìîë÷àíèå...;;x
+EVTOPTC69047;The Church is after me, save me!;;;;;;;;;;;Ìåíÿ ñïàñ¸ò Öåðêîâü, ñòîÿùàÿ çà ìîåé ñïèíîé!;;x
+EVTOPTC69050;[Root.job_chancellor.GetTitledFirstName] lack of diplomatic skill has cost me dearly!;;;;;;;;;;;[Root.job_chancellor.GetHersHisCap] áåçäàðíîñòü ñëèøêîì äîðîãî ìíå îáõîäèòñÿ!;;x
+EVTOPTC69052;I might be persuaded to let you keep your job...;;;;;;;;;;;ß îõîòíî îñòàâëþ òåáå òâîþ ðàáîòó...;;x
+EVTOPTC69054;Do you want to keep your job? Then pay up!;;;;;;;;;;;Âû õîòèòå ñîõðàíèòü ðàáîòó? Òîãäà óäâîéòå óñèëèÿ!;;x
+EVTOPTC69056;You don't deserve the salary I pay you!;;;;;;;;;;;Âû íå çàñëóæèâàåòå äåíåã, êîòîðûå ÿ Âàì ïëà÷ó!;;x
+EVTOPTC69058;You will pay for this fiasco with your own means!;;;;;;;;;;;Âû áóäåòå ïëàòèòü çà ýòî ôèàñêî èç ñîáñòâåííîãî êàðìàíà!;;x
+EVTOPTC69060;I could keep quiet, for a price...;;;;;;;;;;;ß ìîã áû ïðîìîë÷àòü, çà çîëîòî...;;x
+EVTOPTC69065;I will repent publicly;;;;;;;;;;;ß ïóáëè÷íî ïîêàþñü.;;x
+EVTOPTC69070;I could squeeze him for some money...;;;;;;;;;;;Äóìàþ, ÿ ìîãó âûæàòü èç íåãî íåìíîãî çîëîòèøêà...;;x
+EVTTOOLTIP69001;[This.GetTitledFirstName] is confronted by [Root.GetTitledFirstName];;;;;;;;;;;[This.GetTitledFirstName] è [Root.GetTitledFirstName] áåñåäóþò äðóã ñ äðóãîì.;;x
+EVTTOOLTIP69002;[This.GetTitledFirstName] is blackmailed by [Root.GetTitledFirstName];;;;;;;;;;;[Root.GetTitledFirstName] ïîäâåðãàåòñÿ øàíòàæó ñî ñòîðîíû ïåðñîíàæà [This.GetTitledFirstName].;;x
+EVTTOOLTIP69004;[This.GetTitledFirstName] is accused of sodomy by [Root.GetTitledFirstName];;;;;;;;;;;[This.GetTitledFirstName] áóäåò îáâèí¸í â ñîäîìèè;;x
+EVTTOOLTIP69011;[This.GetTitledFirstName] is confronted and warned;;;;;;;;;;;[This.GetTitledFirstName] ïðåäóïðåæä¸í;;x
+EVTTOOLTIP69012;[This.GetTitledFirstName] is forced to pay for [Root.GetTitledFirstName] silence;;;;;;;;;;;[This.GetTitledFirstName] âûíóæäåíû ïëàòèòü çà ìîë÷àíèå [Root.GetTitledFirstName].;;x
+EVTTOOLTIP69013;[Root.GetTitledFirstName] tries to seduce [This.GetTitledFirstName];;;;;;;;;;;[Root.GetTitledFirstName] ïûòàåòñÿ ñîáëàçíèòü ÷åëîâåêà ([This.GetTitledFirstName]);;x
+EVTTOOLTIP69017;The child has a too big mouth for its own safety...;;;;;;;;;;;Ðåá¸íîê ñëèøêîì ìíîãî áîëòàåò ðàäè ñîáñòâåííîé áåçîïàñíîñòè...;;x
+EVTTOOLTIP69021;[Root.GetTitledFirstName] ask [This.GetTitledFirstName] about his impotence;;;;;;;;;;;[Root.GetTitledFirstName] èíòåðåñóåòñÿ, ÷òî [This.GetTitledFirstName] ìîæåò ñêàçàòü î ñâîåé íåñïîñîáíîñòè èìåòü äåòåé.;;x
+EVTTOOLTIP69022;If the secret will remain secret, then [This.GetTitledFirstName] have to pay...;;;;;;;;;;;×òîáû òàéíà îñòàëîñü òàéíîé, [This.GetTitledFirstName] áóäåò ïëàòèòü...;;x
+EVTTOOLTIP69031;[This.GetTitledFirstName] is confronted about his adultery by [Root.GetTitledFirstName];;;;;;;;;;;Ïîèíòåðåñîâàòüñÿ, ÷òî [This.GetTitledFirstName] ìîæåò ñêàçàòü î ñâîåé èçìåíå.;;x
+EVTTOOLTIP69032;[This.GetTitledFirstName] might decide to tell your wife [Root.Spouse.GetTitledFirstName];;;;;;;;;;;[This.GetTitledFirstName] ìîæåò ðåøèòü, ÷òî Âàøà æåíà, [Root.Spouse.GetTitledFirstName], èìååò ïðàâî âñ¸ çíàòü.;;x
+EVTTOOLTIP69033;I should tell his wife [From.Spouse.GetTitledFirstName] about his affair;;;;;;;;;;;[From.GetHersHisCap] [From.Spouse.GetHusbandWife], [From.Spouse.GetTitledFirstName], äîëæ[From.Spouse.GetNaEn] óçíàòü î [From.GetHersHis] ðîìàíå.;;x
+EVTTOOLTIP69034;[Root.GetTitledFirstName] is mad as hell at [Root.Spouse.GetTitledFirstName];;;;;;;;;;;[Root.GetTitledFirstName] çëà êàê ÷¸ðò íà ïåðñîíàæà [Root.Spouse.GetTitledFirstName];;x
+EVTTOOLTIP69035;[Root.GetTitledFirstName] forgives [Root.Spouse.GetTitledFirstName] little indiscretion;;;;;;;;;;;[Root.GetTitledFirstName] ïðîñòèò íåáîëüøóþ èíòðèæêó, êîòîðóþ ïîçâîëèë[Root.GetEndA] ñåáå [Root.Spouse.GetTitledFirstName].;;x
+EVTTOOLTIP69036;[This.GetTitledFirstName] is forced to pay [Root.GetTitledFirstName] for [Root.GetHerHis] silence;;;;;;;;;;;[This.GetTitledFirstName] áóäåò âûíóæäåí[This.GetEndA] çàïëàòèòü Âàì çà Âàøå ìîë÷àíèå.;;x
+EVTTOOLTIP69041;[This.GetTitledFirstName] is confronted about occultism;;;;;;;;;;;§Y[This.GetTitledFirstName]§! çàéì¸òñÿ îêêóëüòèçìîì.;;x
+EVTTOOLTIP69042;[This.GetTitledFirstName] is blackmailed by [Root.GetTitledFirstName];;;;;;;;;;;[Root.GetTitledFirstName] áóäåò øàíòàæèðîâàòü ÷åëîâåêà, èçâåñòíîãî êàê [This.GetTitledFirstName];;x
+EVTTOOLTIP69051;[Root.job_chancellor.GetTitledFirstName] is chastised about [Root.job_chancellor.GetHerHis] lack of diplomatic skill;;;;;;;;;;;[Root.job_chancellor.GetTitledFirstName] ïîäâåðãíåòñÿ óïð¸êàì, òàê êàê ó í[Root.job_chancellor.GetHersHis] îòñóòñòâóþò äèïëîìàòè÷åñêèå ñïîñîáíîñòè.;;x
+EVTTOOLTIP69053;[Root.job_marshal.GetTitledFirstName] is chastised about [Root.job_marshal.GetHerHis] lack of martial skill;;;;;;;;;;;[Root.job_marshal.GetTitledFirstName] ïîäâåðãàåòñÿ óïð¸êàì, òàê êàê ó í[Root.job_marshal.GetHersHis] îòñóòñòâóþò ñïîñîáíîñòè ê âîèíñêîìó èñêóññòâó.;;x
+EVTTOOLTIP69055;[Root.job_treasurer.GetTitledFirstName] is chastised about [Root.job_treasurer.GetHerHis] lack of stewardship;;;;;;;;;;;[Root.job_treasurer.GetTitledFirstName] ïîäâåðãàåòñÿ óïð¸êàì, òàê êàê ó [Root.job_treasurer.GetHersHis] îòñóòñòâóþò íàâûêè óïðàâëåíèÿ.;;x
+EVTTOOLTIP69057;[Root.job_spymaster.GetTitledFirstName] is chastised about [Root.job_spymaster.GetHerHis] lack of intrigue;;;;;;;;;;;[Root.job_spymaster.GetTitledFirstName] ïîäâåðãàåòñÿ óïð¸êàì, òàê êàê ó [Root.job_spymaster.GetHersHis] îòñóòñòâóþò ñïîñîáíîñòè ê èíòðèãå.;;x
+EVTTOOLTIP69059;[Root.job_spiritual.GetTitledFirstName] is chastised about [Root.job_spiritual.GetHerHis] lack of learning and [Player.Religion.GetPietyName];;;;;;;;;;;[Root.job_spiritual.GetTitledFirstName] ïîëó÷èò âûãîâîð, òàê êàê [Root.job_spiritual.GetHerHim] íå õâàòàåò îáðàçîâàíèÿ è áëàãî÷åñòèÿ.;;x
+EVTTOOLTIP69061;[This.GetTitledFirstName] is confronted about [This.GetHerHis] seemingly lack of piety by [Root.GetTitledFirstName];;;;;;;;;;;[This.GetTitledFirstName] îáðàùàåò âíèìàíèå íà òî, ÷òî [Root.GetTitledFirstName], êàæåòñÿ, íå ñòðàäàåò îò íåäîñòàòêà áëàãî÷åñòèÿ.;;x
+EVTTOOLTIP69062;[This.GetTitledFirstName] is blackmailed by [Root.GetTitledFirstName];;;;;;;;;;;[This.GetTitledFirstName] ïîäâåðãàåòñÿ øàíòàæó ñî ñòîðîíû [Root.GetTitledFirstName].;;x
+EVTTOOLTIP69071;[This.GetTitledFirstName]'s cowardice is confronted by [Root.GetTitledFirstName];;;;;;;;;;;[This.GetTitledFirstName] òðóñëèâ[This.GetEndA], è [Root.GetTitledFirstName] îñóæäàåò [This.GetHersHis] çà ýòî.;;x
+EVTTOOLTIP69072;[This.GetTitledFirstName]'s cowardise is exploited by [Root.GetTitledFirstName];;;;;;;;;;;[Root.GetTitledFirstName] âîñïîëüçóåòñÿ òåì, ÷òî [This.GetTitledFirstName] òðóñëèâ.;;x
+EVTTOOLTIP69080;All courtiers will suspect §Y[This.GetTitledFirstName]§! of sodomy;;;;;;;;;;;Âñå ïðèäâîðíûå áóäóò ïîäîçðåâàòü, ÷òî §Y[This.GetTitledFirstName]§! ñîäîìèò[This.GetEndKa].;;x
+EVTTOOLTIP69081;All courtiers will suspect §Y[This.GetTitledFirstName]§! of incest;;;;;;;;;;;Âñå ïðèäâîðíûå áóäóò ïîäîçðåâàòü, ÷òî §Y[This.GetTitledFirstName]§! çàìåøàí[This.GetEndA] â èíöåñòå.;;x
+EVTTOOLTIP69082;All courtiers will suspect §Y[This.GetTitledFirstName]§! of impotence;;;;;;;;;;;Âñå ïðèäâîðíûå áóäóò ïîäîçðåâàòü, ÷òî §Y[This.GetTitledFirstName]§! íå ìîæåò èìåòü äåòåé.;;x
+EVTTOOLTIP69083;All courtiers will suspect §Y[This.GetTitledFirstName]§! of adultery;;;;;;;;;;;Âñå ïðèäâîðíûå áóäóò ïîäîçðåâàòü, ÷òî §Y[This.GetTitledFirstName]§! ñîâåðøèë[This.GetEndA] ïðåëþáîäåÿíèå.;;x
+EVTTOOLTIP69084;All courtiers will suspect §Y[This.GetTitledFirstName]§! of occultism;;;;;;;;;;;Âñå ïðèäâîðíûå áóäóò ïîäîçðåâàòü, ÷òî §Y[This.GetTitledFirstName]§! óâëåêàåòñÿ îêêóëüòèçìîì.;;x
+EVTTOOLTIP69085;All courtiers will know that §Y[Root.GetTitledFirstName]§! does not trust [Root.GetMyChancellorName] §Y[This.GetTitledFirstName]§!;;;;;;;;;;;Âñå ïðèäâîðíûå óçíàþò, ÷òî §Y[Root.GetTitledFirstName]§! áîëüøå íå ñ÷èòàåò, ÷òî §Y[Root.GetMyChancellorName] [This.GetTitledFirstName]§Y äîñòî[This.GetYnaIn] [Root.GetHersHis] äîâåðèÿ.;;x
+EVTTOOLTIP69086;All courtiers will know that §Y[Root.GetTitledFirstName]§! does not trust Marshal §Y[This.GetTitledFirstName]§!;;;;;;;;;;;Âñå ïðèäâîðíûå óçíàþò, ÷òî §Y[Root.GetTitledFirstName]§! áîëüøå íå ñ÷èòàåò, ÷òî §Y[Root.GetMyMarshalName] [This.GetTitledFirstName]§Y äîñòî[This.GetYnaIn] [Root.GetHersHis] äîâåðèÿ.;;x
+EVTTOOLTIP69087;All courtiers will know that §Y[Root.GetTitledFirstName]§! does not trust Steward §Y[This.GetTitledFirstName]§!;;;;;;;;;;;Âñå ïðèäâîðíûå óçíàþò, ÷òî §Y[Root.GetTitledFirstName]§! áîëüøå íå ñ÷èòàåò, ÷òî §Y[Root.GetMyTreasurerName] [This.GetTitledFirstName]§Y äîñòî[This.GetYnaIn] [Root.GetHersHis] äîâåðèÿ.;;x
+EVTTOOLTIP69088;All courtiers will know that §Y[Root.GetTitledFirstName]§! does not trust Spymaster §Y[This.GetTitledFirstName]§!;;;;;;;;;;;Âñå ïðèäâîðíûå óçíàþò, ÷òî §Y[Root.GetTitledFirstName]§! áîëüøå íå ñ÷èòàåò, ÷òî §Y[Root.GetMySpymasterName] [This.GetTitledFirstName]§Y äîñòî[This.GetYnaIn] [Root.GetHersHis] äîâåðèÿ.;;x
+EVTTOOLTIP69089;All courtiers will know that §Y[Root.GetTitledFirstName]§! does not trust [Root.GetLordSpiritualName] [This.GetTitledFirstName];;;;;;;;;;;[Root.GetLordSpiritualName] [This.GetFirstName] ëèøèòñÿ äîâåðèÿ. Âñå ïðèäâîðíûå áóäóò çíàòü, ÷òî [Root.GetTitledFirstName] íå âåðèò ñîâåòíèêó.;;x
+EVTTOOLTIP69090;All courtiers will think §Y[This.GetTitledFirstName]§! lacks piety;;;;;;;;;;;Âñå ïðèäâîðíûå áóäóò äóìàòü, ÷òî §Y[This.GetTitledFirstName]§! íåäîñòàòî÷íî áëàãî÷åñòèâ[This.GetEndA].;;x
+EVTTOOLTIP69091;All courtiers will think §Y[This.GetTitledFirstName]§! is a coward;;;;;;;;;;;Âñå ïðèäâîðíûå áóäóò äóìàòü, ÷òî §Y[This.GetTitledFirstName]§! - òðóñ[This.GetEndIha].;;x

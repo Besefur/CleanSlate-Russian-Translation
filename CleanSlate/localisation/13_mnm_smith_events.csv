@@ -1,215 +1,207 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-EVTDESC_MNM_9100;During the last few days, I have overheard the same conversation again and again. Apparently, a most renowned goldsmith is traveling through [Root.PrimaryTitle.GetName] and my courtiers are prattling excitedly about [smith.GetHerHis] work. Perhaps I should invite this [smith.GetManWoman] and employ [smith.GetHerHis] services?;;;;;;;;;;;;;x
-EVTDESC_MNM_9103;The goldsmith, [smith.GetTitledFirstName], courteously accepted my invitation and arrived at court a mere week later. [smith.GetSheHeCap] has presented me with some sketches of [smith.GetHerHis] previous work and several letters of recommendation. I am assured of [smith.GetHerHis] skill, although I ask myself just how much money I can spare for a set of crown jewels.;;;;;;;;;;;;;x
-EVTDESC_MNM_9105;I was overcome by excitement and curiosity when [smith.GetFirstName] informed me the crown jewels were completed! As I am waiting in my throne for [smith.GetHerHis] servants to carry the great box across the room I struggle not to leap up and meet them half-way. When I finally touch the heavy lid, my hands are shaking...;;;;;;;;;;;;;x
-EVTDESC_MNM_9106;[smith.GetFirstName] has kept me up to date on the progress of the crown jewelry. I knew they were nearing completion, but when the heavy box was brought to me today, I was still momentarily breathless with excitement!;;;;;;;;;;;;;x
-EVTDESC_MNM_9107;A heavy box has been brought before me. [smith.GetFirstName] has finished [smith.GetHerHis] work and the crown jewels are completed. While I expect no artifact of legends, I am still excited to see [smith.GetHerHis] handiwork.;;;;;;;;;;;;;x
-EVTDESC_MNM_9107_GENERIC;A heavy box has been brought before me. [smith.GetFirstName] has finished [smith.GetHerHis] work and the crown jewels are completed. I expect something properly befitting my title as [Root.GetTitle] of [Root.PrimaryTitle.GetName], and I am excited to see [smith.GetHerHis] handiwork.;;;;;;;;;;;;;x
-EVTDESC_MNM_9107_KING;A heavy box has been brought before me. [smith.GetFirstName] has finished [smith.GetHerHis] work and the crown jewels are completed. I am excited to see what the handiwork of [smith.GetFirstName].;;;;;;;;;;;;;x
-EVTDESC_MNM_9109_NEW;'Good news, my [Root.GetTitle],' [smith.GetFirstName] said excitedly. The goldsmith has informed me that precious metals and gemstones have been located in a nearby province. If we send an expedition, it could increase the quality of the crown jewels we are currently crafting. ;;;;;;;;;;;;;x
-EVTDESC_MNM_9112;The smith I hired has unfortunately died before finishing my order. It won't be easy to find another smith of similar skill... Luckily it seems not all the money I paid had yet been spent, and so I was able to recover a sizeable portion of my investment.;;;;;;;;;;;;;x
-EVTDESC_MNM_9115;My [Root.job_marshal.GetJobTitle] [Root.job_marshal.GetDynName] has told me about a remarkable [GetWeaponArmorSmith] residing in [neighbor_province.GetName]. [Root.job_marshal.GetSheHeCap] suggested that I invite the [smith.GetManWoman] to my court to see [smith.GetHerHis] work for myself. If [smith.GetSheHe] manages to impress me, I could order my own custom made item.;;;;;;;;;;;;;x
-EVTDESC_MNM_9115_b;The word around the court is that a remarkable [GetWeaponArmorSmith] is residing in [neighbor_province.GetName]. Perhaps I should invite the [smith.GetManWoman] to my court to see [smith.GetHerHis] work for myself. If [smith.GetSheHe] manages to impress me, I could order my own custom made item.;;;;;;;;;;;;;x
-EVTDESC_MNM_9118;Once the [GetWeaponArmorSmith]'s craftsmanship had been checked by my most knowledgeable attendants to ensure the quality was sufficient, I received [smith.GetHerHim] in the throne room. [smith.GetSheHeCap] introduced [smith.GetHerselfHimself] as '[smith.GetMasterMistressCap] [smith.GetFirstName]' and gestured towards [smith.GetHerHis] numerous assistants, who all carried examples of [smith.GetHerHis] work. 'Does my [Root.GetTitle] have anything special in mind?';;;;;;;;;;;;;x
-EVTDESC_MNM_9120_NEW;'A [smith.GetWeaponsmithWeapon]. I see. An excellent choice, my [Root.GetTitle]' says [smith.GetMasterMistressCap] [smith.GetFirstName] and calls forward an assistant cradling several [smith.GetWeaponsmithWeapon]s in [smith.GetHerHis] arms. 'I have a couple of examples here. One must determine what one need and how much one is willing to pay, though they would all serve your Highness well.';;;;;;;;;;;;;x
-EVTDESC_MNM_9122;I was struck with nervous excitement when [smith.GetMasterMistressCap] [smith.GetFirstName] announced that the [smith.GetWeaponsmithWeapon] was nearing its completion. Today I have received the [smith.GetMasterMistressCap] in my throne room. A sturdy box is in [smith.GetHerHis] arms, and as [smith.GetSheHe] opens the lid, I find it almost impossible to breathe. 'What will you name her, my [Root.GetTitle]?';;;;;;;;;;;;;x
-EVTDESC_MNM_9122_B;I was struck with nervous excitement when [smith.GetMasterMistressCap] [smith.GetFirstName] announced that the [smith.GetWeaponsmithWeapon] was nearing its completion. Today I have received the [smith.GetMasterMistressCap] in my throne room. As [smith.GetSheHe] unveils the armor rack, I find it almost impossible to breathe. 'What will you name her, my [Root.GetTitle]?';;;;;;;;;;;;;x
-EVTDESC_MNM_9123;Finally, the [smith.GetWeaponsmithWeapon] has been completed! [smith.GetMasterMistressCap] [smith.GetFirstName] has brought me a sturdy box which contains the item. My hands are shaking slightly as I open its heavy lid...;;;;;;;;;;;;;x
-EVTDESC_MNM_9124;[smith.GetMasterMistressCap] [smith.GetFirstName]'s main assistant has brought me the finished [smith.GetWeaponsmithWeapon]. There are no engravings or precious materials to enhance it, but the design has some elegance of its own. Looking pretty is not her main purpose, anyway.;;;;;;;;;;;;;x
-EVTDESC_MNM_9124_GENERIC;[smith.GetMasterMistressCap] [smith.GetFirstName]'s main assistant has finally brought me the finished [smith.GetWeaponsmithWeapon] I have been waiting for. It is a beautiful and elegant [smith.GetWeaponsmithWeapon], and I am excited to see it goes beyond my original expectations.;;;;;;;;;;;;;x
-EVTDESC_MNM_9124_KING;[smith.GetMasterMistressCap] [smith.GetFirstName]'s main assistant has brought me the finished [smith.GetWeaponsmithWeapon]. It is an elegant though simple design, and it looks like a fine quality weapon I can bring to war.;;;;;;;;;;;;;x
-EVTDESC_MNM_9129_NEW;'Good news, my [Root.GetTitle],' [smith.GetFirstName] said excitedly. The [GetWeaponArmorSmith] has informed me that precious metals and special tools have been located in a nearby province. If we send an expedition, it could increase the quality of the [smith.GetWeaponsmithWeapon] we are currently crafting.;;;;;;;;;;;;;x
-EVTDESC_MNM_9130;What type of smith do you wish to send word for?;;;;;;;;;;;;;x
-EVTDESC_MNM_9132;It has been many weeks since I commissioned [smith.GetMasterMistressCap] [smith.GetFirstName] to work for me and today my council has informed me that [smith.GetFirstName] has fled from my lands to the court of [smith.Liege.GetTitledFirstName]! Taking the work promised to me and any gold left with [smith.GetHerHim]!;;;;;;;;;;;;;x
-EVTDESC_MNM_9135;As I was walking towards [smith.GetMasterMistressCap] [smith.GetFirstName]'s smithy I could not hear the sound of progress but instead the sound of voices talking. I found [smith.GetFirstName] and my [smith_event_target.GetRootRelation] [smith_event_target.GetTitledFirstName] discussing different metals and their compositions. All this talk was making my head spin and definitely halting the progress on the work I have ordered...;;;;;;;;;;;;;x
-EVTDESC_MNM_9136;During the afternoon as I went to check on the progress of [smith.GetMasterMistressCap] [smith.GetFirstName] I walked in to see [smith.GetHerHim] getting my [smith_event_target.GetRootRelation] [smith_event_target.GetTitledFirstName] to help with the forging process. Together they were lifting pieces of metal and [smith.GetFirstName] was showing [smith_event_target.GetFirstName] how to mold the materials into shape. Not exactly what I am paying [smith.GetHerHim] for but a form of service nonetheless...;;;;;;;;;;;;;x
-EVTDESC_MNM_9137;Having decided to check up on [smith.GetMasterMistressCap] [smith.GetFirstName]'s progress I strolled over to [smith.GetHerHis] forge. I did not find [smith.GetHerHim] working on the project I commissioned but instead working on a different task... specifically my [smith_event_target.GetRootRelation] [smith_event_target.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTDESC_MNM_9138;I was taking a relaxing walk this morning when suddenly I heard a scream pierce through the air! I rushed to the source and saw that it was [smith.GetMasterMistressCap] [smith.GetFirstName] wailing in [smith.GetHerHis] forge. From what I could gather, between the servants chatter and [smith.GetFirstName]'s crying, there was an accident involving some molten metal! It is lucky that [smith.GetFirstName] is alive. Yet this will definitely impede [smith.GetHerHis] work...;;;;;;;;;;;;;x
-EVTDESC_MNM_9999;The castle blacksmith, more used to horseshoes and helmets than work fit for royalty, presented you with a dirty old box. "Ta da" he says, nervously, "It was a sword you wanted right?" he adds.;;;;;;;;;;;;;x
-EVTDESC_MNM_9999_armor;The castle blacksmith, more used to horseshoes and helmets than work fit for royalty, presented you with a dirty old box. "Ta da" he says, nervously, "It was armor you wanted right?" he adds.;;;;;;;;;;;;;x
-EVTDESC_MNM_40000;I was struck with nervous excitement when [smith.GetMasterMistressCap] [smith.GetFirstName] announced that the [smith.GetWeaponsmithWeapon] was nearing its completion. Today I have received the [smith.GetMasterMistressCap] in my throne room. A sturdy box is in [smith.GetHerHis] arms, and as [smith.GetSheHe] opens the lid, I find it almost impossible to breathe. 'What will you name her, my [Root.GetTitle]?';;;;;;;;;;;;;x
-EVTDESC_MNM_40000_B;I was struck with nervous excitement when [smith.GetMasterMistressCap] [smith.GetFirstName] announced that the [smith.GetWeaponsmithWeapon] was nearing its completion. Today I have received the [smith.GetMasterMistressCap] in my throne room. As [smith.GetSheHe] unveils the armor rack, I find it almost impossible to breathe. 'What will you name her, my [Root.GetTitle]?';;;;;;;;;;;;;x
-EVTDESC_MNM_40001;I was overcome by excitement and curiosity when [smith.GetFirstName] informed me the crown jewels were completed! As I am waiting in my throne for [smith.GetHerHis] servants to carry the great box across the room I struggle not to leap up and meet them half-way. When I finally touch the heavy lid, my hands are shaking...;;;;;;;;;;;;;x
-
-EVTOPTA_MNM_9100;Nothing displays authority like fine jewelry.;;;;;;;;;;;;;x
-EVTOPTA_MNM_9100_TT;Invite the famous goldsmith to your court.;;;;;;;;;;;;;x
-EVTOPTA_MNM_9103;One and all shall see the indisputable might of house [Root.GetOnlyDynastyName]!;;;;;;;;;;;;;x
-EVTOPTA_MNM_9103_TT;Spare no expenses and order the most expensive crown jewels money can buy.\n;;;;;;;;;;;;;x
-EVTOPTA_MNM_9105;Regalia worthy of a true [Root.GetTitle]!;;;;;;;;;;;;;x
-EVTOPTA_MNM_9106;[From.GetFirstName] is truly a master!;;;;;;;;;;;;;x
-EVTOPTA_MNM_9107;Let us see what [smith.GetSheHe] has accomplished...;;;;;;;;;;;;;x
-EVTOPTA_MNM_9109;Send someone to the end of the world, if need be!;;;;;;;;;;;;;x
-EVTOPTA_MNM_9109_TT_NEW;Spend money to potentially get even better crown jewels than you originally ordered.;;;;;;;;;;;;;x
-EVTOPTA_MNM_9112;But the amount I lost is also sizeable.;;;;;;;;;;;;;x
-EVTOPTA_MNM_9115;A fine idea, [Root.job_marshal.GetJobTitle] [Root.job_marshal.GetFirstName]!;;;;;;;;;;;;;x
-EVTOPTA_MNM_9115_b;What a fine idea, how clever I am!;;;;;;;;;;;;;x
-EVTOPTA_MNM_9115_TT;Invite the [GetWeaponArmorSmith] to your court.;;;;;;;;;;;;;x
-EVTOPTA_MNM_9118;You can never go wrong with a good sword.;;;;;;;;;;;;;x
-EVTOPTA_MNM_9118_TT;Swords may give a bonus to commanded §YLight Infantry§! and §YHeavy Foot Troops§!, as well as §YMartial§!, §YPersonal Combat Skill§! and §YMonthly Prestige§!.\n;;;;;;;;;;;;;x
-EVTOPTA_MNM_9120;I would not go in to battle with anything but the very best.;;;;;;;;;;;;;x
-EVTOPTA_MNM_9120_TT_ARMOR_EMPEROR;Order a [smith.GetWeaponsmithWeapon] of the highest quality. This armor will give you §G+10%§! to §YMorale Offense§!, §G+0.75§! §YMonthly Prestige§!, §G+1§! §YMartial§! and §G+2§! §YPersonal Combat Skill§!.;;;;;;;;;;;;;x
-EVTOPTA_MNM_9120_TT_AXE_EMPEROR;Order a [smith.GetWeaponsmithWeapon] of the highest quality.;;;;;;;;;;;;;x
-EVTOPTA_MNM_9120_TT_BOW_EMPEROR;Order a [smith.GetWeaponsmithWeapon] of the highest quality.;;;;;;;;;;;;;x
-EVTOPTA_MNM_9120_TT_LANCE_EMPEROR;Order a [smith.GetWeaponsmithWeapon] of the highest quality.;;;;;;;;;;;;;x
-EVTOPTA_MNM_9120_TT_MACE_EMPEROR;Order a [smith.GetWeaponsmithWeapon] of the highest quality.;;;;;;;;;;;;;x
-EVTOPTA_MNM_9120_TT_SWORD_EMPEROR;Order a [smith.GetWeaponsmithWeapon] of the highest quality.;;;;;;;;;;;;;x
-EVTOPTA_MNM_9120_TT_SWORDSCIMITAR_EMPEROR;Order a [smith.GetWeaponsmithWeapon] of the highest quality.;;;;;;;;;;;;;x
-EVTOPTA_MNM_9122_ARMOR;This armor shall be my Guardian.;;;;;;;;;;;;;x
-EVTOPTA_MNM_9122_AXE;This axe will be known as Cleaver!;;;;;;;;;;;;;x
-EVTOPTA_MNM_9122_BOW;This bow will be known as Silent Wind!;;;;;;;;;;;;;x
-EVTOPTA_MNM_9122_LANCE;This lance will be known as The Impaler!;;;;;;;;;;;;;x
-EVTOPTA_MNM_9122_MACE;The Foe Hammer!;;;;;;;;;;;;;x
-EVTOPTA_MNM_9122_SCIMITAR;The Golden Scimitar!;;;;;;;;;;;;;x
-EVTOPTA_MNM_9122_SWORD;This sword will be known as Heartseeker!;;;;;;;;;;;;;x
-EVTOPTA_MNM_9123;This is excellent, [smith.GetMasterMistressCap] [smith.GetFirstName]!;;;;;;;;;;;;;x
-EVTOPTA_MNM_9124;I am sure she will serve me well.;;;;;;;;;;;;;x
-EVTOPTA_MNM_9129_TT_NEW;Spend money to potentially get an even better [smith.GetWeaponsmithWeapon] than the one you originally ordered.;;;;;;;;;;;;;x
-EVTOPTA_MNM_9130;A weaponsmith to forge me a deadly weapon!;;;;;;;;;;;;;x
-EVTOPTA_MNM_9132;How dare [smith.GetSheHe] betray me!;;;;;;;;;;;;;x
-EVTOPTA_MNM_9135;There is no harm in [smith.GetFirstName] taking some time to help [smith_event_target.GetFirstName].;;;;;;;;;;;;;x
-EVTOPTA_MNM_9136;I am glad [smith.GetFirstName] is helping [smith_event_target.GetFirstName] to be stronger!;;;;;;;;;;;;;x
-EVTOPTA_MNM_9137;What [smith.GetFirstName] does in the privacy of [smith.GetHerHis] own forge is not my concern...;;;;;;;;;;;;;x
-EVTOPTA_MNM_9138;I will help you in any way I can [smith.GetMasterMistressCap] [smith.GetFirstName].;;;;;;;;;;;;;x
-EVTOPTA_MNM_9999;Oh dear.;;;;;;;;;;;;;x
-EVTOPTA_MNM_40000_ARMOR;This armor will be my Angelic Guardian.;;;;;;;;;;;;;x
-EVTOPTA_MNM_40000_AXE;This ax will be known as The Dragon Cleaver!;;;;;;;;;;;;;x
-EVTOPTA_MNM_40000_BOW;This bow will be known as Death Wind!;;;;;;;;;;;;;x
-EVTOPTA_MNM_40000_LANCE;This lance will be known as Ascalon!;;;;;;;;;;;;;x
-EVTOPTA_MNM_40000_MACE;The Skullcrusher!;;;;;;;;;;;;;x
-EVTOPTA_MNM_40000_SCIMITAR;Golden Vengeance!;;;;;;;;;;;;;x
-EVTOPTA_MNM_40000_SWORD;This sword will be known as Dragonseeker!;;;;;;;;;;;;;x
-EVTOPTA_zweihanded_LT_20201;I want a heavy two-handed sword.;;;;;;;;;;;;;x
-EVTOPTA_MNM_LT_20201_TT;This sword can only be handled by a strong warrior, but is sure to impress friend and foe alike.;;;;;;;;;;;;;x
-
-EVTOPTB_MNM_9100;I have no money to spare for such frivolities.;;;;;;;;;;;;;x
-EVTOPTB_MNM_9100_TT;Do not invite the goldsmith to your court.;;;;;;;;;;;;;x
-EVTOPTB_MNM_9103;I will order something impressive, but sensible.;;;;;;;;;;;;;x
-EVTOPTB_MNM_9103_KING;I will order an impressive set of jewels.;;;;;;;;;;;;;x
-EVTOPTB_MNM_9103_TT;Order crown jewels which are 'impressive, but sensible'.\n;;;;;;;;;;;;;x
-EVTOPTB_MNM_9103_TT_KING;Thorough craftsmanship and expensive materials is the key to beauty.;;;;;;;;;;;;;x
-EVTOPTB_MNM_9109;I am not made of money. Do your best with what is available.;;;;;;;;;;;;;x
-EVTOPTB_MNM_9109_TT_NEW;Settle with the crown jewels you originally ordered.;;;;;;;;;;;;;x
-EVTOPTB_MNM_9112;At least it was not a total loss.;;;;;;;;;;;;;x
-EVTOPTB_MNM_9115;Our own smiths are capable enough!;;;;;;;;;;;;;x
-EVTOPTB_MNM_9115_TT;Do not invite the [GetWeaponArmorSmith] to your court.;;;;;;;;;;;;;x
-EVTOPTB_MNM_9118;You can never go wrong with a good scimitar.;;;;;;;;;;;;;x
-EVTOPTB_MNM_9118_TT;Scimitars may give a bonus to commanded §YLight Infantry§! and §YHeavy Foot Troops§!, as well as §YMartial§!, §YPersonal Combat Skill§! and §YMonthly Prestige§!.\n;;;;;;;;;;;;;x
-EVTOPTB_MNM_9120;I do not need any frills, craft me something effective.;;;;;;;;;;;;;x
-EVTOPTB_MNM_9120_KING;Craft me the best quality [smith.GetWeaponsmithWeapon] you can.;;;;;;;;;;;;;x
-EVTOPTB_MNM_9120_TT_ARMOR;Order a good quality [smith.GetWeaponsmithWeapon]. This armor will give you §G+5%§! to §YMorale Offense§!, §G+0.5§! §YMonthly Prestige§!, §G+1§! §YMartial§! and §G+1§! §YPersonal Combat Skill§!.;;;;;;;;;;;;;x
-EVTOPTB_MNM_9120_TT_ARMOR_EMPEROR;Order a good quality [smith.GetWeaponsmithWeapon]. This [smith.GetWeaponsmithWeapon] will increase your §YMorale Offense§!, §YMonthly Prestige§!, §YMartial§! and §YPersonal Combat Skill§!.;;;;;;;;;;;;;x
-EVTOPTB_MNM_9120_TT_ARMOR_KING;Order a high quality [smith.GetWeaponsmithWeapon]. This [smith.GetWeaponsmithWeapon] will greatly increase your §YMorale Offense§!, §YMonthly Prestige§!, §YMartial§! and §YPersonal Combat Skill§!.;;;;;;;;;;;;;x
-EVTOPTB_MNM_9120_TT_AXE;Order a good quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;;;x
-EVTOPTB_MNM_9120_TT_AXE_EMPEROR;Order a good quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;;;x
-EVTOPTB_MNM_9120_TT_AXE_KING;Order a high quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;;;x
-EVTOPTB_MNM_9120_TT_BOW;Order a good quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;;;x
-EVTOPTB_MNM_9120_TT_BOW_EMPEROR;Order a good quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;;;x
-EVTOPTB_MNM_9120_TT_BOW_KING;Order a high quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;;;x
-EVTOPTB_MNM_9120_TT_LANCE;Order a good quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;;;x
-EVTOPTB_MNM_9120_TT_LANCE_EMPEROR;Order a good quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;;;x
-EVTOPTB_MNM_9120_TT_LANCE_KING;Order a high quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;;;x
-EVTOPTB_MNM_9120_TT_MACE;Order a good quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;;;x
-EVTOPTB_MNM_9120_TT_MACE_EMPEROR;Order a good quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;;;x
-EVTOPTB_MNM_9120_TT_MACE_KING;Order a high quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;;;x
-EVTOPTB_MNM_9120_TT_SWORD_EMPEROR;Order a good quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;;;x
-EVTOPTB_MNM_9120_TT_SWORD_KING;Order a high quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;;;x
-EVTOPTB_MNM_9120_TT_SWORDSCIMITAR;Order a good quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;;;x
-EVTOPTB_MNM_9120_TT_SWORDSCIMITAR_EMPEROR;Order a good quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;;;x
-EVTOPTB_MNM_9120_TT_SWORDSCIMITAR_KING;Order a high quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;;;x
-EVTOPTB_MNM_9122_ARMOR;With this armor I shall be a Champion.;;;;;;;;;;;;;x
-EVTOPTB_MNM_9122_AXE;My every foe shall fear The Ravager!;;;;;;;;;;;;;x
-EVTOPTB_MNM_9122_BOW;My every foe shall fear Lightning!;;;;;;;;;;;;;x
-EVTOPTB_MNM_9122_LANCE;My every foe shall fear The Trident!;;;;;;;;;;;;;x
-EVTOPTB_MNM_9122_MACE;My every foe shall fear The Bone Breaker!;;;;;;;;;;;;;x
-EVTOPTB_MNM_9122_SCIMITAR;Scimitar of Fortune is a fitting name, no?;;;;;;;;;;;;;x
-EVTOPTB_MNM_9122_SWORD;My every foe shall fear Vengeance!;;;;;;;;;;;;;x
-EVTOPTB_MNM_9129_TT_NEW;Settle with the [smith.GetWeaponsmithWeapon] you originally ordered.;;;;;;;;;;;;;x
-EVTOPTB_MNM_9130;I am in need of a new set of armor, find me the finest armorsmith around.;;;;;;;;;;;;;x
-EVTOPTB_MNM_9132;Oh, I don't think so.;;;;;;;;;;;;;x
-EVTOPTB_MNM_9132_TT;The smith will never reach their destination and your treasures will be recovered.;;;;;;;;;;;;;x
-EVTOPTB_MNM_9135;This is not why [smith.GetFirstName] is here!;;;;;;;;;;;;;x
-EVTOPTB_MNM_9136;[smith.GetFirstName]'s job is to be forging for me. Not playing with children.;;;;;;;;;;;;;x
-EVTOPTB_MNM_9137;Can you please focus on your work!;;;;;;;;;;;;;x
-EVTOPTB_MNM_9138;No cripple can finish the work! Send [smith.GetHerHim] away!;;;;;;;;;;;;;x
-EVTOPTB_MNM_40000_ARMOR;This will be my Green Armor.;;;;;;;;;;;;;x
-EVTOPTB_MNM_40000_AXE;My every foe shall fear Heaven's Devastator!;;;;;;;;;;;;;x
-EVTOPTB_MNM_40000_BOW;My every foe shall fear Lightning Strike!;;;;;;;;;;;;;x
-EVTOPTB_MNM_40000_LANCE;My every foe shall fear Bleeding Lance!;;;;;;;;;;;;;x
-EVTOPTB_MNM_40000_MACE;My every foe shall fear The Twilights Hammer!;;;;;;;;;;;;;x
-EVTOPTB_MNM_40000_SCIMITAR;Scimitar of the Night is a fitting name, no?;;;;;;;;;;;;;x
-EVTOPTB_MNM_40000_SWORD;My every foe shall fear Heaven's Vengeance!;;;;;;;;;;;;;x
-
-EVTOPTC_MNM_9103;Surely good craftsmanship is the most important aspect?;;;;;;;;;;;;;x
-EVTOPTC_MNM_9103_GENERIC;Order a beautiful set of crown jewels.;;;;;;;;;;;;;x
-EVTOPTC_MNM_9103_KING;Proper craftsmanship is enough for me.;;;;;;;;;;;;;x
-EVTOPTC_MNM_9103_TT;Order the least costly set of crown jewels.\n;;;;;;;;;;;;;x
-EVTOPTC_MNM_9103_TT_GENERIC;Order a set of crown jewels befitting my status.;;;;;;;;;;;;;x
-EVTOPTC_MNM_9103_TT_KING;Order the cheaper set of crown jewels.;;;;;;;;;;;;;x
-EVTOPTC_MNM_9109;Send [smith.GetHerHim] immediately!;;;;;;;;;;;;;x
-EVTOPTC_MNM_9109_TT_NEW;Spend money to potentially get even better crown jewels than you originally ordered.;;;;;;;;;;;;;x
-EVTOPTC_MNM_9112;Thankfully I didn't lose too much.;;;;;;;;;;;;;x
-EVTOPTC_MNM_9115;The smiths in our own [the_armory.GetName] are capable enough!;;;;;;;;;;;;;x
-EVTOPTC_MNM_9115_TT;This option is available because you have a §Y[the_wonder.GetWonderTypeShortCap]§! with an §Y[the_armory.GetName]§!.;;;;;;;;;;;;;x
-EVTOPTC_MNM_9118;A lance is what I desire.;;;;;;;;;;;;;x
-EVTOPTC_MNM_9118_TT;Lances may give a bonus to commanded §YPikemen§! and §YMounted Troops§!, as well as §YMartial§!, §YPersonal Combat Skill§! and §YMonthly Prestige§!.\n;;;;;;;;;;;;;x
-EVTOPTC_MNM_9120;I am sure whatever you make is good enough, [smith.GetMasterMistressCap].;;;;;;;;;;;;;x
-EVTOPTC_MNM_9120_GENERIC;Craft me something of high quality, that I can bring with me to combat.;;;;;;;;;;;;;x
-EVTOPTC_MNM_9120_KING;Craft me something effective yet inexpensive, [smith.GetMasterMistressCap].;;;;;;;;;;;;;x
-EVTOPTC_MNM_9120_TT_ARMOR;Order the cheapest [smith.GetWeaponsmithWeapon]. This armor will give you §G+0.25§! §YMonthly Prestige§!, §G+1§! §YMartial§! and §G+1§! §YPersonal Combat Skill§!.;;;;;;;;;;;;;x
-EVTOPTC_MNM_9120_TT_ARMOR_EMPEROR;Order the cheapest [smith.GetWeaponsmithWeapon]. This [smith.GetWeaponsmithWeapon] will increase your §YMonthly Prestige§!, §YMartial§! and §YPersonal Combat Skill§! slightly.;;;;;;;;;;;;;x
-EVTOPTC_MNM_9120_TT_ARMOR_GENERIC;Order the [smith.GetWeaponsmithWeapon]. This [smith.GetWeaponsmithWeapon] will increase your §YMonthly Prestige§!, §YMartial§! and §YPersonal Combat Skill§!.;;;;;;;;;;;;;x
-EVTOPTC_MNM_9120_TT_ARMOR_KING;Order the cheaper [smith.GetWeaponsmithWeapon]. This [smith.GetWeaponsmithWeapon] will increase your §YMonthly Prestige§!, §YMartial§! and §YPersonal Combat Skill§! somewhat.;;;;;;;;;;;;;x
-EVTOPTC_MNM_9120_TT_BOW;Order the cheapest [smith.GetWeaponsmithWeapon].;;;;;;;;;;;;;x
-EVTOPTC_MNM_9120_TT_BOW_EMPEROR;Order the cheapest [smith.GetWeaponsmithWeapon].;;;;;;;;;;;;;x
-EVTOPTC_MNM_9120_TT_BOW_GENERIC;Order the [smith.GetWeaponsmithWeapon].;;;;;;;;;;;;;x
-EVTOPTC_MNM_9120_TT_BOW_KING;Order the cheaper [smith.GetWeaponsmithWeapon].;;;;;;;;;;;;;x
-EVTOPTC_MNM_9120_TT_SWORDSCIMITAR;Order the cheapest [smith.GetWeaponsmithWeapon].;;;;;;;;;;;;;x
-EVTOPTC_MNM_9120_TT_SWORDSCIMITAR_EMPEROR;Order the cheapest [smith.GetWeaponsmithWeapon].;;;;;;;;;;;;;x
-EVTOPTC_MNM_9120_TT_SWORDSCIMITAR_GENERIC;Order the [smith.GetWeaponsmithWeapon].;;;;;;;;;;;;;x
-EVTOPTC_MNM_9120_TT_SWORDSCIMITAR_KING;Order the cheaper [smith.GetWeaponsmithWeapon].;;;;;;;;;;;;;x
-EVTOPTC_MNM_9122_ARMOR;Everyone shall fear the Warden.;;;;;;;;;;;;;x
-EVTOPTC_MNM_9122_AXE;She looks like a Marauder, doesn't she?;;;;;;;;;;;;;x
-EVTOPTC_MNM_9122_BOW;She looks like an Eagle, doesn't she?;;;;;;;;;;;;;x
-EVTOPTC_MNM_9122_LANCE;The Piercer is a fitting name, no?;;;;;;;;;;;;;x
-EVTOPTC_MNM_9122_MACE;The Shatterer is a fitting name, no?;;;;;;;;;;;;;x
-EVTOPTC_MNM_9122_SCIMITAR;Scimitar of Conquest!;;;;;;;;;;;;;x
-EVTOPTC_MNM_9122_SWORD;She looks like a Fury, doesn't she?;;;;;;;;;;;;;x
-EVTOPTC_MNM_9129_TT_NEW;Spend money to potentially get an even better [smith.GetWeaponsmithWeapon] than the one you originally ordered.;;;;;;;;;;;;;x
-EVTOPTC_MNM_9130;Find me a goldsmith to create jewels befitting of my status.;;;;;;;;;;;;;x
-EVTOPTC_MNM_9137;This is not what I pay you for! Get out and stay out!;;;;;;;;;;;;;x
-EVTOPTC_MNM_40000_ARMOR;Everyone shall fear the Immortal.;;;;;;;;;;;;;x
-EVTOPTC_MNM_40000_AXE;She looks like a Darkbringer, doesn't she?;;;;;;;;;;;;;x
-EVTOPTC_MNM_40000_BOW;She looks like an Ice Eagle, doesn't she?;;;;;;;;;;;;;x
-EVTOPTC_MNM_40000_LANCE;Death Strike is a fitting name, no?;;;;;;;;;;;;;x
-EVTOPTC_MNM_40000_MACE;The Giant Shatterer is a fitting name, no?;;;;;;;;;;;;;x
-EVTOPTC_MNM_40000_SCIMITAR;Scimitar of Death.;;;;;;;;;;;;;x
-EVTOPTC_MNM_40000_SWORD;She looks like a [Root.Religion.GetHighGodName]'s Fury, doesn't she?;;;;;;;;;;;;;x
-
-EVTOPTD_MNM_9103;I have changed my mind. You services are no longer required.;;;;;;;;;;;;;x
-EVTOPTD_MNM_9103_TT;Dismiss §Y[smith.GetTitledFirstName]§!.;;;;;;;;;;;;;x
-EVTOPTD_MNM_9109;Do what you can with local materials.;;;;;;;;;;;;;x
-EVTOPTD_MNM_9109_TT_NEW;Settle with the crown jewels you originally ordered.;;;;;;;;;;;;;x
-EVTOPTD_MNM_9118;I have always been one for axes.;;;;;;;;;;;;;x
-EVTOPTD_MNM_9118_TT;Axes may give a bonus to commanded §YHeavy Infantry§! and §YLight Foot Troops§!, as well as §YMartial§!, §YPersonal Combat Skill§! and §YMonthly Prestige§!.\n;;;;;;;;;;;;;x
-EVTOPTD_MNM_9120;Actually, I changed my mind.;;;;;;;;;;;;;x
-EVTOPTD_MNM_9120_TT;Order nothing;;;;;;;;;;;;;x
-EVTOPTD_MNM_9129_TT_NEW;Settle with the [smith.GetWeaponsmithWeapon] you originally ordered.;;;;;;;;;;;;;x
-EVTOPTD_MNM_9130;Actually now may not be the best time...;;;;;;;;;;;;;x
-EVTOPTD_MNM_9137;How dare [smith.GetFirstName] dishonor me like this! [smith.GetSheHeCap] must be punished.;;;;;;;;;;;;;x
-
-EVTOPTE_MNM_9118;I will crush my enemies with a mace!;;;;;;;;;;;;;x
-EVTOPTE_MNM_9118_TT;Maces may give a bonus to commanded §YLight Cavalry§! and §YHeavy Foot Troops§!, as well as §YMartial§!, §YPersonal Combat Skill§! and §YMonthly Prestige§!.\n;;;;;;;;;;;;;x
-
-EVTOPTF_MNM_9118;A fine bow would serve me well.;;;;;;;;;;;;;x
-EVTOPTF_MNM_9118_TT;Bows may give a bonus to commanded §YArchers§! and §YMounted Troops§!, as well as §YMartial§!, §YPersonal Combat Skill§! and §YMonthly Prestige§!.\n;;;;;;;;;;;;;x
-
-EVTOPTG_MNM_9118;I am in need of protection! Make me a strong and sturdy set of armor.;;;;;;;;;;;;;x
-EVTOPTG_MNM_9118_TT;Armor provides a bonus to §YMorale Offense§!, as well as §YMartial§!, §YPersonal Combat Skill§! and §YMonthly Prestige§!.;;;;;;;;;;;;;x
-
-EVTTT_MNM_9105_NO_DUPLICATES;You cannot have duplicates of the same artifacts of the same quality in your treasury and have therefore received some of your investment back.;;;;;;;;;;;;;x
-MNM_9124_TT_AXE;You finally receive your long awaited ax.;;;;;;;;;;;;;x
-MNM_9124_TT_BOW;You finally receive your long awaited bow.;;;;;;;;;;;;;x
-MNM_9124_TT_LANCE;You finally receive your long awaited lance.;;;;;;;;;;;;;x
-MNM_9124_TT_MACE;You finally receive your long awaited mace.;;;;;;;;;;;;;x
-MNM_9124_TT_SCIMITAR;You finally receive your long awaited scimitar.;;;;;;;;;;;;;x
-MNM_9124_TT_SWORD;You finally receive your long awaited sword.;;;;;;;;;;;;;x
+EVTDESC_MNM_9100;During the last few days, I have overheard the same conversation again and again. Apparently, a most renowned goldsmith is traveling through [Root.PrimaryTitle.GetName] and my courtiers are prattling excitedly about [smith.GetHerHis] work. Perhaps I should invite this [smith.GetManWoman] and employ [smith.GetHerHis] services?;;;;;;;;;;;Â ïîñëåäíèå äíè ÿ òîëüêî è ñëûøó î êàêîì-òî íîâîì þâåëèðå, ïóòåøåñòâóþùåì ïî [Root.PrimaryTitle.GetAdjective]ñêèì çåìëÿì. Ïðèäâîðíûå âîñõèùàþòñÿ ìàñòåðñòâîì ýò[smith.GetOyOgo] [smith.GetAgedPersonGEN]. Ìîæåò ìíå ñòîèò íàíÿòü [smith.GetHersHis]?;;x
+EVTDESC_MNM_9103;The goldsmith, [smith.GetTitledFirstName], courteously accepted my invitation and arrived at court a mere week later. [smith.GetSheHeCap] has presented me with some sketches of [smith.GetHerHis] previous work and several letters of recommendation. I am assured of [smith.GetHerHis] skill, although I ask myself just how much money I can spare for a set of crown jewels.;;;;;;;;;;;[From.GetTitledFirstName], çíàìåíèòûé þâåëèð, ïðèíÿë[From.GetEndA] ìî¸ ïðèãëàøåíèå è ïðèáûë[From.GetEndA] êî äâîðó. [From.GetSheHeCap] ïîêàçàë[From.GetEndA] ìíå íàáðîñêè ñâîèõ ðàáîò è ïèñüìà ñ ðåêîìåíäàöèÿìè. Â [From.GetHersHis] íàâûêàõ ÿ íå ñîìíåâàþñü, íî ìîãó ëè ÿ ïîçâîëèòü ñåáå òàêèå ðàñõîäû?;;x
+EVTDESC_MNM_9105;I was overcome by excitement and curiosity when [smith.GetFirstName] informed me the crown jewels were completed! As I am waiting in my throne for [smith.GetHerHis] servants to carry the great box across the room I struggle not to leap up and meet them half-way. When I finally touch the heavy lid, my hands are shaking...;;;;;;;;;;;Ñãîðàÿ îò íåòåðïåíèÿ óçíàòü, ÷òî æå ìíå ïîêàæåò [From.GetFirstName], ÿ ñ òðóäîì ñäåðæèâàë[Root.GetEndA] ýìîöèè! Íàêîíåö [From.GetSheHe] ñîîáùèë[From.GetEndA], ÷òî óêðàøåíèÿ ãîòîâû, è ÿ ïðèíÿë[Root.GetEndA] [From.GetHersHis] â [Root.GetRulersRoomPREP]. Ñëóãè âíåñëè ïîèñòèíå ðîñêîøíûé ñóíäóê è ÿ ÷óòü áûëî íå âûñêî÷èë[Root.GetEndA] èì íàâñòðå÷ó. Äðîæàùèìè ðóêàìè ÿ ïðèïîäíÿë[Root.GetEndA] êðûøêó...;;x
+EVTDESC_MNM_9106;[smith.GetFirstName] has kept me up to date on the progress of the crown jewelry. I knew they were nearing completion, but when the heavy box was brought to me today, I was still momentarily breathless with excitement!;;;;;;;;;;;[From.GetFirstName] âñ¸ ýòî âðåìÿ äåðæàë[From.GetEndA] ìåíÿ â êóðñå îòíîñèòåëüíî õîäà ðàáîòû íàä äðàãîöåííîñòÿìè, è, êîíå÷íî æå, ÿ çíàë[Root.GetEndA], ÷òî îíè ãîòîâû, íî êîãäà ìíå ïðèíåñëè óâåñèñòóþ øêàòóëêó, ÿ íå ìîã[Root.GetNoneE] ñêðûòü ñâîåãî âîçáóæäåíèÿ îò æåëàíèÿ ïîñìîòðåòü, ÷òî òàì âíóòðè!;;x
+EVTDESC_MNM_9107;A heavy box has been brought before me. [smith.GetFirstName] has finished [smith.GetHerHis] work and the crown jewels are completed. While I expect no artifact of legends, I am still excited to see [smith.GetHerHis] handiwork.;;;;;;;;;;;[From.GetFirstName] çàêîí÷èë[From.GetEndA] ñâîþ ðàáîòó è ïðåïîäíåñ[From.GetNoneE] ìíå èçûñêàííî óêðàøåííóþ è äîâîëüíî òÿæ¸ëóþ øêàòóëêó ñ äðàãîöåííîñòÿìè. Õîòü ÿ è íå îæèäàþ óâèäåòü íå÷òî óíèêàëüíîå, íî ïî âíåøíåìó îôîðìëåíèþ ñðàçó âèäíî òîíêóþ ðó÷íóþ ðàáîòó.;;x
+EVTDESC_MNM_9107_GENERIC;A heavy box has been brought before me. [smith.GetFirstName] has finished [smith.GetHerHis] work and the crown jewels are completed. I expect something properly befitting my title as [Root.GetTitle] of [Root.PrimaryTitle.GetName], and I am excited to see [smith.GetHerHis] handiwork.;;;;;;;;;;;[From.GetFirstName] çàêîí÷èë[From.GetEndA] ñâîþ ðàáîòó è ïðåïîäíåñ[From.GetNoneE] ìíå èçûñêàííî óêðàøåííóþ è äîâîëüíî òÿæ¸ëóþ øêàòóëêó ñ äðàãîöåííîñòÿìè. Íàäåþñü, òàì áóäåò ÷òî-íèáóäü ïîäõîäÿùåå ìîåìó ñòàòóñó...;;x
+EVTDESC_MNM_9107_KING;A heavy box has been brought before me. [smith.GetFirstName] has finished [smith.GetHerHis] work and the crown jewels are completed. I am excited to see what the handiwork of [smith.GetFirstName].;;;;;;;;;;;[From.GetFirstName] çàêîí÷èë[From.GetEndA] ñâîþ ðàáîòó è ïðåïîäíåñ[From.GetNoneE] ìíå èçûñêàííî óêðàøåííóþ è äîâîëüíî òÿæ¸ëóþ øêàòóëêó ñ äðàãîöåííîñòÿìè. ß åù¸ íå âèäåë[Root.GetEndA], ÷òî âíóòðè, íî ïî âíåøíåìó îôîðìëåíèþ ñðàçó âèäíî òîíêóþ ðó÷íóþ ðàáîòó ìàñòåðà.;;x
+EVTDESC_MNM_9109_NEW;'Good news, my [Root.GetTitle],' [smith.GetFirstName] said excitedly. The goldsmith has informed me that precious metals and gemstones have been located in a nearby province. If we send an expedition, it could increase the quality of the crown jewels we are currently crafting. ;;;;;;;;;;;" ""Õîðîøèå íîâîñòè, [Root.PrimaryTitle.GetFOA]"", — ñ íåñêðûâàåìûì âîîäóøåâëåíèåì ñêàçàë[From.GetEndA] [From.GetFirstName]. — ""Þâåëèð ñîîáùèë[smith.GetEndA] ìíå, ÷òî äðàãîöåííûå ìåòàëëû è ñïåöèàëüíûå èíñòðóìåíòû ìîæíî íàéòè â áëèæàéøèõ îò íàñ çåìëÿõ. Åñëè ìû îòïðàâèì ýêñïåäèöèþ, ýòî ìîæåò ïîâûñèòü êà÷åñòâî çàêàçàííûõ Âàìè óêðàøåíèé"".";;x
+EVTDESC_MNM_9112;The smith I hired has unfortunately died before finishing my order. It won't be easy to find another smith of similar skill... Luckily it seems not all the money I paid had yet been spent, and so I was able to recover a sizeable portion of my investment.;;;;;;;;;;;Ìàñòåð, êîòîð[smith.GetUyuOgo] ÿ íàíÿë[Root.GetEndA], ê ñîæàëåíèþ, óìåð[smith.GetNoneE], íå óñïåâ çàêîí÷èòü ìîé çàêàç. Íàéòè ÷åëîâåêà ñ òàêèìè íàâûêàìè íåëåãêî... Ê ñ÷àñòüþ íå âñå äåíüãè, êîòîðûå ÿ çàïëàòèë[Root.GetEndA], áûëè ïîòðà÷åíû, ïîýòîìó ÿ ñìîã[Root.GetNoneE] âåðíóòü çíà÷èòåëüíóþ ÷àñòü ñâîèõ ñðåäñòâ.;;x
+EVTDESC_MNM_9115;My [Root.job_marshal.GetJobTitle] [Root.job_marshal.GetDynName] has told me about a remarkable [GetWeaponArmorSmith] residing in [neighbor_province.GetName]. [Root.job_marshal.GetSheHeCap] suggested that I invite the [smith.GetManWoman] to my court to see [smith.GetHerHis] work for myself. If [smith.GetSheHe] manages to impress me, I could order my own custom made item.;;;;;;;;;;;Ìîé [Root.job_marshal.GetJobTitle] [Root.job_marshal.GetDynName] ðàññêàçàë[Root.job_marshal.GetEndA] ìíå î âûäàþùåìñÿ [Root.GetWeaponArmorSmithPREP], ïðîæèâàþùåì â îêðóãå [neighbor_province.GetName]. [Root.job_marshal.GetSheHeCap] ïîñîâåòîâàë[Root.job_marshal.GetEndA] ïðèãëàñèòü ýò[smith.GetUOgo] [smith.GetAgedPersonACC] êî äâîðó, ÷òîáû ïîñìîòðåòü íà [smith.GetHersHis] ðàáîòû. Åñëè [smith.GetHerHim] óäàñòñÿ âïå÷àòëèòü ìåíÿ, ÿ ñäåëàþ îñîáûé çàêàç äëÿ ñåáÿ.;;x
+EVTDESC_MNM_9115_b;The word around the court is that a remarkable [GetWeaponArmorSmith] is residing in [neighbor_province.GetName]. Perhaps I should invite the [smith.GetManWoman] to my court to see [smith.GetHerHis] work for myself. If [smith.GetSheHe] manages to impress me, I could order my own custom made item.;;;;;;;;;;;Ïðè äâîðå õîäÿò ðàçãîâîðû î âûäàþùåìñÿ [Root.GetWeaponArmorSmithPREP], ïðîæèâàþùåì â îêðóãå [neighbor_province.GetName]. Âîçìîæíî, ìíå ñëåäóåò ïðèãëàñèòü ýò[smith.GetUOgo] [smith.GetAgedPersonACC] êî äâîðó, ÷òîáû ïîñìîòðåòü íà [smith.GetHersHis] ðàáîòû. Åñëè [smith.GetHerHim] óäàñòñÿ âïå÷àòëèòü ìåíÿ, ÿ ñäåëàþ îñîáûé çàêàç äëÿ ñåáÿ.;;x
+EVTDESC_MNM_9118;Once the [GetWeaponArmorSmith]'s craftsmanship had been checked by my most knowledgeable attendants to ensure the quality was sufficient, I received [smith.GetHerHim] in the throne room. [smith.GetSheHeCap] introduced [smith.GetHerselfHimself] as '[smith.GetMasterMistressCap] [smith.GetFirstName]' and gestured towards [smith.GetHerHis] numerous assistants, who all carried examples of [smith.GetHerHis] work. 'Does my [Root.GetTitle] have anything special in mind?';;;;;;;;;;;"Êîãäà ìîè ýêñïåðòû çàâåðèëè ìåíÿ, ÷òî íàâûêè [Root.GetWeaponArmorSmithGEN] âûøå âñÿêèõ ïîõâàë, ÿ ïðèãëàñèë[Root.GetEndA] [From.GetHersHis] ê ñåáå. [From.GetSheHeCap] ïðåäñòàâè[From.GetLasLsya] êàê ""[From.GetSmithMalePrefix][From.GetFirstName][From.GetSmithFemalePostfix]"" è ñäåëàë[From.GetEndA] çíàê ñâîèì ïîìîùíèêàì, ÷òîáû òå ïðèíåñëè ïðèìåðû [From.GetHersHis] ðàáîò. ""Æåëàåò ëè [Root.PrimaryTitle.GetFOA] íå÷òî îñîáîå?"" — ñïðîñèë[From.GetEndA] [From.GetSheHe].";;x
+EVTDESC_MNM_9120_NEW;'A [smith.GetWeaponsmithWeapon]. I see. An excellent choice, my [Root.GetTitle]' says [smith.GetMasterMistressCap] [smith.GetFirstName] and calls forward an assistant cradling several [smith.GetWeaponsmithWeapon]s in [smith.GetHerHis] arms. 'I have a couple of examples here. One must determine what one need and how much one is willing to pay, though they would all serve your Highness well.';;;;;;;;;;;" ""Òàê... [From.GetWeaponsmithWeapon] çíà÷èò... Îòëè÷íûé âûáîð, [Root.PrimaryTitle.GetFOA]"", — ñêàçàë[From.GetEndA] [From.GetSmithMalePrefix][From.GetFirstName][From.GetSmithFemalePostfix] è ïîäàë[From.GetEndA] çíàê ïîìîùíèêó, êîòîðûé óæå ÷åðåç íåñêîëüêî ìèíóò ïðèí¸ñ òðè íîâûõ [From.GetWeaponsmithWeaponGEN], è [From.GetSheHe] ïðîäîëæèë[From.GetEndA]: ""[Root.PrimaryTitle.GetFOA], îáðàòèòå âíèìàíèå. Ïåðåä Âàìè òðè ðàçíûõ ïðèìåðà êà÷åñòâà. Âûáîð çàâèñèò îò Âàøèõ ïîòðåáíîñòåé è ãîòîâíîñòè çàïëàòèòü íóæíóþ ñóììó"".";;x
+EVTDESC_MNM_9122;I was struck with nervous excitement when [smith.GetMasterMistressCap] [smith.GetFirstName] announced that the [smith.GetWeaponsmithWeapon] was nearing its completion. Today I have received the [smith.GetMasterMistressCap] in my throne room. A sturdy box is in [smith.GetHerHis] arms, and as [smith.GetSheHe] opens the lid, I find it almost impossible to breathe. 'What will you name her, my [Root.GetTitle]?';;;;;;;;;;;"Êîãäà [From.GetSmithMalePrefix][From.GetFirstName][From.GetSmithFemalePostfix] ñêàçàë[From.GetEndA], ÷òî ïî÷òè çàêîí÷èë[From.GetEndA] [From.GetWeaponsmithWeaponACC], ÿ òàê îáðàäîâà[Root.GetLasLsya], ÷òî íå ìîã[Root.GetNoneE] çàñíóòü âñþ íî÷ü, à óòðîì ÿ ïðèíÿë[Root.GetEndA] [From.GetHersHis] â [Root.GetRulersRoomPREP]. Çàòàèâ äûõàíèå, ÿ æäàë[Root.GetEndA], êîãäà [From.GetSheHe] îòêðîåò ñâîé ÿùèê. ""Íå õîòèòå ëè äàòü ñâîåìó íîâîìó îðóæèþ îñîáîå èìÿ, [Root.PrimaryTitle.GetFOA]?"" — ñïðîñèë[From.GetEndA] [From.GetSheHe], ðàñïàõíóâ êðûøêó.";;x
+EVTDESC_MNM_9122_B;I was struck with nervous excitement when [smith.GetMasterMistressCap] [smith.GetFirstName] announced that the [smith.GetWeaponsmithWeapon] was nearing its completion. Today I have received the [smith.GetMasterMistressCap] in my throne room. As [smith.GetSheHe] unveils the armor rack, I find it almost impossible to breathe. 'What will you name her, my [Root.GetTitle]?';;;;;;;;;;;"Êîãäà [From.GetSmithMalePrefix][From.GetFirstName][From.GetSmithFemalePostfix] ñêàçàë[From.GetEndA], ÷òî ïî÷òè çàêîí÷èë[From.GetEndA] [From.GetWeaponsmithWeaponACC], ÿ òàê îáðàäîâà[Root.GetLasLsya], ÷òî íå ìîã[Root.GetNoneE] çàñíóòü âñþ íî÷ü, à óòðîì ÿ ïðèíÿë[Root.GetEndA] [From.GetHersHis] â [Root.GetRulersRoomPREP]. Êîãäà [From.GetHersHis] ïîìîùíèêè çàíåñëè ìàíåêåí ñ äîñïåõàìè, ÿ ÷óòü íå ïîòåðÿë[Root.GetEndA] äàð ðå÷è. ""Íå æåëàåò ëè [Root.PrimaryTitle.GetFOA] äàòü èì îñîáîå íàçâàíèå?"" — åäâà ñêðûâ óëûáêó, ñïðîñèë[From.GetEndA] [From.GetSheHe].";;x
+EVTDESC_MNM_9123;Finally, the [smith.GetWeaponsmithWeapon] has been completed! [smith.GetMasterMistressCap] [smith.GetFirstName] has brought me a sturdy box which contains the item. My hands are shaking slightly as I open its heavy lid...;;;;;;;;;;;Ñåãîäíÿ [From.GetSmithMalePrefix][From.GetFirstName][From.GetSmithFemalePostfix] íàêîíåö çàêîí÷èë[From.GetEndA] [From.GetWeaponsmithWeaponACC]! [From.GetSheHeCap] ïðèíåñ[From.GetNoneE] ìíå áîëüøóþ ïðî÷íóþ êîðîáêó - ìîè ðóêè ñëåãêà äðîæàëè îò âîëíåíèÿ, êîãäà ÿ îòêðûë[Root.GetEndA] å¸...;;x
+EVTDESC_MNM_9124;[smith.GetMasterMistressCap] [smith.GetFirstName]'s main assistant has brought me the finished [smith.GetWeaponsmithWeapon]. There are no engravings or precious materials to enhance it, but the design has some elegance of its own. Looking pretty is not her main purpose, anyway.;;;;;;;;;;;Àññèñòåíò ñîîáùèë, ÷òî [From.GetSmithMalePrefix][From.GetFirstName][From.GetSmithFemalePostfix] çàêîí÷èë[From.GetEndA] ðàáîòó è ïðåïîäí¸ñ ìíå [From.GetWeaponsmithWeaponACC]. Íèêàêèõ èçûñêàííûõ ãðàâèðîâîê èëè äðàãîöåííûõ ìåòàëëîâ, íî ýëåãàòíûé äèçàéí äà¸ò ïîíÿòü, ÷òî ýòî îðóæèå äîñòàòî÷íî óäîáíî â èñïîëüçîâàíèè. Â êîíöå êîíöîâ, âíåøíèé âèä íå òàê âàæåí.;;x
+EVTDESC_MNM_9124_GENERIC;[smith.GetMasterMistressCap] [smith.GetFirstName]'s main assistant has finally brought me the finished [smith.GetWeaponsmithWeapon] I have been waiting for. It is a beautiful and elegant [smith.GetWeaponsmithWeapon], and I am excited to see it goes beyond my original expectations.;;;;;;;;;;;Ñåãîäíÿ [From.GetSmithMalePrefix][From.GetFirstName][From.GetSmithFemalePostfix] ÷åðåç ñâîåãî àññèñòåíòà ïåðåäàë[From.GetEndA] ìíå [From.GetWeaponsmithWeaponACC]. Êàê íè ñòðàííî, ðåçóëüòàò ïðåâçîø¸ë ìîè îæèäàíèÿ. Ýòî äîâîëüíî ýëåãàíòíîå è óäîáíîå îðóæèå.;;x
+EVTDESC_MNM_9124_KING;[smith.GetMasterMistressCap] [smith.GetFirstName]'s main assistant has brought me the finished [smith.GetWeaponsmithWeapon]. It is an elegant though simple design, and it looks like a fine quality weapon I can bring to war.;;;;;;;;;;;Ñåãîäíÿ [From.GetSmithMalePrefix][From.GetFirstName][From.GetSmithFemalePostfix] ÷åðåç ñâîåãî àññèñòåíòà ïåðåäàë[From.GetEndA] ìíå [From.GetWeaponsmithWeaponACC]. Ýëåãàíòíûé è ïðîñòîé äèçàéí ïðèø¸ëñÿ ìíå ïî äóøå. Ñðàçó âèäíî, ýòî êà÷åñòâåííîå îðóæèå, êîòîðîå ìîæíî èñïîëüçîâàòü íà ïîëå áîÿ.;;x
+EVTDESC_MNM_9129_NEW;'Good news, my [Root.GetTitle],' [smith.GetFirstName] said excitedly. The [GetWeaponArmorSmith] has informed me that precious metals and special tools have been located in a nearby province. If we send an expedition, it could increase the quality of the [smith.GetWeaponsmithWeapon] we are currently crafting.;;;;;;;;;;;" ""Õîðîøèå íîâîñòè, [Root.PrimaryTitle.GetFOA]"", — ñ íåñêðûâàåìûì âîîäóøåâëåíèåì ñêàçàë[From.GetEndA] [From.GetFirstName]. — ""[Root.GetWeaponArmorSmith] ñîîáùèë[smith.GetEndA] ìíå, ÷òî öåííûå ìåòàëëû è ñïåöèàëüíûå èíñòðóìåíòû ìîæíî íàéòè â áëèæàéøèõ îò íàñ çåìëÿõ. Åñëè ìû îòïðàâèì ýêñïåäèöèþ, ýòî ìîæåò ïîâûñèòü êà÷åñòâî [smith.GetWeaponsmithWeaponGEN], êîòîðûé Âû çàêàçàëè"".";;x
+EVTDESC_MNM_9130;What type of smith do you wish to send word for?;;;;;;;;;;;Ïðåæäå ÷åì îáúÿâëÿòü î ïîèñêàõ ìàñòåðà, íàäî îïðåäåëèòüñÿ ñ òåì, êàêîé òèï ðåìåñëà Âàñ èíòåðåñóåò.;;x
+EVTDESC_MNM_9132;It has been many weeks since I commissioned [smith.GetMasterMistressCap] [smith.GetFirstName] to work for me and today my council has informed me that [smith.GetFirstName] has fled from my lands to the court of [smith.Liege.GetTitledFirstName]! Taking the work promised to me and any gold left with [smith.GetHerHim]!;;;;;;;;;;;Ïðîøëî íåñêîëüêî íåäåëü ñ òåõ ïîð, êàê [From.GetSmithMalePrefix][From.GetFirstName][From.GetSmithFemalePostfix] íà÷àë[From.GetEndA] ðàáîòàòü íàä ìîèì çàêàçîì, íî ñåãîäíÿ ñîâåò ñîîáùèë ìíå, ÷òî [From.GetSheHe] ñáåæàë[From.GetEndA] èç ìîèõ çåìåëü, à [From.Liege.GetTitledFirstName] ãîòîâ[From.Liege.GetEndA] ïðèíÿòü [From.GetHersHis] ó ñåáÿ ïðè äâîðå. Áîëåå òîãî, [From.GetSheHe] çàáðàë[From.GetEndA] ñ ñîáîé ðåçóëüòàòû ðàáîòû íàä ìîèì çàêàçîì.;;x
+EVTDESC_MNM_9135;As I was walking towards [smith.GetMasterMistressCap] [smith.GetFirstName]'s smithy I could not hear the sound of progress but instead the sound of voices talking. I found [smith.GetFirstName] and my [smith_event_target.GetRootRelation] [smith_event_target.GetTitledFirstName] discussing different metals and their compositions. All this talk was making my head spin and definitely halting the progress on the work I have ordered...;;;;;;;;;;;Îòïðàâèâøèñü â [Root.GetSmithWorkshopACC], ÿ óâèäåë[Root.GetEndA], êàê [From.GetSmithMalePrefix][From.GetFirstName][From.GetSmithFemalePostfix] è ì[smith_event_target.GetOyaOy] [smith_event_target.GetRootRelation] [smith_event_target.GetTitledFirstName] îáñóæäàþò ñâîéñòâà ðàçíûõ ìåòàëëîâ è èõ ñïëàâîâ. Íåñîìíåííî, ýòî âñ¸ òîðìîçèò ðàáîòó íàä ìîèì çàêàçîì...;;x
+EVTDESC_MNM_9136;During the afternoon as I went to check on the progress of [smith.GetMasterMistressCap] [smith.GetFirstName] I walked in to see [smith.GetHerHim] getting my [smith_event_target.GetRootRelation] [smith_event_target.GetTitledFirstName] to help with the forging process. Together they were lifting pieces of metal and [smith.GetFirstName] was showing [smith_event_target.GetFirstName] how to mold the materials into shape. Not exactly what I am paying [smith.GetHerHim] for but a form of service nonetheless...;;;;;;;;;;;Âå÷åðîì, ÿ ðåøèë[Root.GetEndA] çàãëÿíóòü â [Root.GetSmithWorkshopACC], è óâèäåë[Root.GetEndA], ÷òî [From.GetSmithMalePrefix][From.GetFirstName][From.GetSmithFemalePostfix] è ì[smith_event_target.GetOyaOy] [smith_event_target.GetRootRelation] [smith_event_target.GetTitledFirstName] ðàáîòàþò âìåñòå. [From.GetSheHeCap] ó÷èò ìî[smith_event_target.GetYuEgo] [smith_event_target.GetRootRelationACC], êàê ïëàâèòü ìåòàëë è ïðèäàâàòü åìó íóæíóþ ôîðìó. Ýòî íå ñîâñåì òî, çà ÷òî ÿ [From.GetHerHim] ïëà÷ó...;;x
+EVTDESC_MNM_9137;Having decided to check up on [smith.GetMasterMistressCap] [smith.GetFirstName]'s progress I strolled over to [smith.GetHerHis] forge. I did not find [smith.GetHerHim] working on the project I commissioned but instead working on a different task... specifically my [smith_event_target.GetRootRelation] [smith_event_target.GetTitledFirstName]!;;;;;;;;;;;Âå÷åðîì ÿ çàãëÿíóë[Root.GetEndA] â [Root.GetSmithWorkshopACC], íàäåÿñü óâèäåòü êàê [From.GetSmithMalePrefix][From.GetFirstName][From.GetSmithFemalePostfix] ðàáîòàåò íàä ìîèì çàêàçîì, íî âìåñòî ýòîãî îáíàðóæèë[Root.GetEndA], êàê ì[smith_event_target.GetOyaOy] [smith_event_target.GetRootRelation] [smith_event_target.GetTitledFirstName] [smith_event_target.GetSmithSexualAct]!;;x
+EVTDESC_MNM_9138;I was taking a relaxing walk this morning when suddenly I heard a scream pierce through the air! I rushed to the source and saw that it was [smith.GetMasterMistressCap] [smith.GetFirstName] wailing in [smith.GetHerHis] forge. From what I could gather, between the servants chatter and [smith.GetFirstName]'s crying, there was an accident involving some molten metal! It is lucky that [smith.GetFirstName] is alive. Yet this will definitely impede [smith.GetHerHis] work...;;;;;;;;;;;Íåñïåøíî ïðîãóëèâàÿñü óòðîì, ÿ âäðóã óñëûøàë[Root.GetEndA] æóòêèé êðèê è ñðàçó íàïðàâè[Root.GetLasLsya] ê åãî èñòî÷íèêó - [From.GetSmithMalePrefix][From.GetFirstName][From.GetSmithFemalePostfix], â ïîòîêå ñàìûõ ñòðàøíûõ è íåïðèëè÷íûõ ðóãàòåëüñòâ, ðàññêàçàë[From.GetEndA] î ñëó÷èâøåìñÿ, ÿ ñìîã[Root.GetNoneE] ïîíÿòü ëèøü, ÷òî ýòî êàê-òî ñâÿçàíî ñ ðàñïëàâëåííûì ìåòàëîì! Áîëüøàÿ óäà÷à, ÷òî [From.GetSheHe] îñòà[From.GetLasLsya] æèâ[From.GetEndA], íî ýòî ñåðü¸çíî íàâðåäèò [From.GetHersHis] ðàáîòå...;;x
+EVTDESC_MNM_9999;"The castle blacksmith, more used to horseshoes and helmets than work fit for royalty, presented you with a dirty old box. ""Ta da"" he says, nervously, ""It was a sword you wanted right?"" he adds.";;;;;;;;;;;Íàø êóçíåö êóäà áîëüøå ïðèâûê ïîäêîâûâàòü ëîøàäåé è ìàñòåðèòü øëåìû äëÿ ñòðàæè, ÷åì ðàáîòàòü íàä çàêàçàìè äëÿ ïðàâèòåëåé. Ñåãîäíÿ îí ïðèí¸ñ Âàì ñòàðûé ïûëüíûé ôóòëÿð.\n— Òà äà! — íåñêîëüêî íåðâîçíî âûïàëèë îí, ðàñïàõíóâ êðûøêó. — Ýòî ìå÷, êîòîðûé Âû çàêàçûâàëè.;;x
+EVTDESC_MNM_9999_armor;"The castle blacksmith, more used to horseshoes and helmets than work fit for royalty, presented you with a dirty old box. ""Ta da"" he says, nervously, ""It was armor you wanted right?"" he adds.";;;;;;;;;;;Íàø êóçíåö êóäà áîëüøå ïðèâûê ïîäêîâûâàòü ëîøàäåé è ìàñòåðèòü øëåìû äëÿ ñòðàæè, ÷åì ðàáîòàòü íàä çàêàçàìè äëÿ ïðàâèòåëåé. Ñåãîäíÿ îí ïðèí¸ñ âàì ñòàðûé ïûëüíûé ñóíäóê.\n— Òà äà! — íåñêîëüêî íåðâîçíî âûïàëèë îí, ðàñïàõíóâ êðûøêó. — Ýòî äîñïåõè, êîòîðûå Âû çàêàçûâàëè.;;x
+EVTDESC_MNM_40000;I was struck with nervous excitement when [smith.GetMasterMistressCap] [smith.GetFirstName] announced that the [smith.GetWeaponsmithWeapon] was nearing its completion. Today I have received the [smith.GetMasterMistressCap] in my throne room. A sturdy box is in [smith.GetHerHis] arms, and as [smith.GetSheHe] opens the lid, I find it almost impossible to breathe. 'What will you name her, my [Root.GetTitle]?';;;;;;;;;;;"Êîãäà [From.GetSmithMalePrefix][From.GetFirstName][From.GetSmithFemalePostfix] ñêàçàë[From.GetEndA], ÷òî ïî÷òè çàêîí÷èë[From.GetEndA] [From.GetWeaponsmithWeaponACC], ÿ òàê îáðàäîâà[Root.GetLasLsya], ÷òî íå ìîã[Root.GetNoneE] çàñíóòü âñþ íî÷ü, à óòðîì ÿ ïðèíÿë[Root.GetEndA] [From.GetHersHis] â [Root.GetRulersRoomPREP]. Çàòàèâ äûõàíèå, ÿ æäàë[Root.GetEndA], êîãäà [From.GetSheHe] îòêðîåò ñâîé ÿùèê. ""Íå õîòèòå ëè äàòü ñâîåìó íîâîìó îðóæèþ îñîáîå èìÿ, [Root.PrimaryTitle.GetFOA]?"" — ñïðîñèë[From.GetEndA] [From.GetSheHe], ðàñïàõíóâ êðûøêó.";;x
+EVTDESC_MNM_40000_B;I was struck with nervous excitement when [smith.GetMasterMistressCap] [smith.GetFirstName] announced that the [smith.GetWeaponsmithWeapon] was nearing its completion. Today I have received the [smith.GetMasterMistressCap] in my throne room. As [smith.GetSheHe] unveils the armor rack, I find it almost impossible to breathe. 'What will you name her, my [Root.GetTitle]?';;;;;;;;;;;"Êîãäà [From.GetSmithMalePrefix][From.GetFirstName][From.GetSmithFemalePostfix] ñêàçàë[From.GetEndA], ÷òî ïî÷òè çàêîí÷èë[From.GetEndA] [From.GetWeaponsmithWeaponACC], ÿ òàê îáðàäîâà[Root.GetLasLsya], ÷òî íå ìîã[Root.GetNoneE] çàñíóòü âñþ íî÷ü, à óòðîì ÿ ïðèíÿë[Root.GetEndA] [From.GetHersHis] â [Root.GetRulersRoomPREP]. Êîãäà [From.GetHersHis] ïîìîùíèêè çàíåñëè ìàíåêåí ñ äîñïåõàìè, ÿ ÷óòü íå ïîòåðÿë[Root.GetEndA] äàð ðå÷è. ""Íå æåëàåò ëè [Root.PrimaryTitle.GetFOA] äàòü èì îñîáîå íàçâàíèå?"" — åäâà ñêðûâ óëûáêó, ñïðîñèë[From.GetEndA] [From.GetSheHe].";;x
+EVTDESC_MNM_40001;I was overcome by excitement and curiosity when [smith.GetFirstName] informed me the crown jewels were completed! As I am waiting in my throne for [smith.GetHerHis] servants to carry the great box across the room I struggle not to leap up and meet them half-way. When I finally touch the heavy lid, my hands are shaking...;;;;;;;;;;;Ñãîðàÿ îò íåòåðïåíèÿ óçíàòü, ÷òî æå ìíå ïîêàæåò [From.GetFirstName], ÿ ñ òðóäîì ñäåðæèâàë[Root.GetEndA] ýìîöèè! Íàêîíåö [From.GetSheHe] ñîîáùèë[From.GetEndA], ÷òî óêðàøåíèÿ ãîòîâû, è ÿ ïðèíÿë[Root.GetEndA] [From.GetHersHis] â [Root.GetRulersRoomPREP]. Ñëóãè âíåñëè ïîèñòèíå ðîñêîøíûé ñóíäóê è ÿ ÷óòü áûëî íå âûñêî÷èë[Root.GetEndA] èì íàâñòðå÷ó. Äðîæàùèìè ðóêàìè ÿ ïðèïîäíÿë[Root.GetEndA] êðûøêó...;;x
+EVTOPTA_MNM_9100;Nothing displays authority like fine jewelry.;;;;;;;;;;;Íè÷òî òàê íå îòðàæàåò âëàñòü, êàê äðàãîöåííîñòè.;;x
+EVTOPTA_MNM_9100_TT;Invite the famous goldsmith to your court.;;;;;;;;;;;Ïðèãëàñèòü çíàìåíèòîãî þâåëèðà êî äâîðó.;;x
+EVTOPTA_MNM_9103;One and all shall see the indisputable might of house [Root.GetOnlyDynastyName]!;;;;;;;;;;;Ýòî âîïðîñ ðåïóòàöèè äîìà [Root.GetOnlyDynastyName]!;;x
+EVTOPTA_MNM_9103_TT;Spare no expenses and order the most expensive crown jewels money can buy.\n;;;;;;;;;;;Íå æàëåòü äåíåã è çàêàçàòü ñàìîå äîðîãîå, ÷òî ìîæíî êóïèòü.\n;;x
+EVTOPTA_MNM_9105;Regalia worthy of a true [Root.GetTitle]!;;;;;;;;;;;Ðåãàëèè, êîòîðûõ äîñòî[Root.GetYnaIn] èñòèíí[Root.GetAyaYy] [Root.GetTitle]!;;x
+EVTOPTA_MNM_9106;[From.GetFirstName] is truly a master!;;;;;;;;;;;[From.GetFirstName] - èñòèííûé ìàñòåð ñâîåãî äåëà!;;x
+EVTOPTA_MNM_9107;Let us see what [smith.GetSheHe] has accomplished...;;;;;;;;;;;Äàâàéòå æå ñêîðåå ïîñìîòðèì, ÷òî òàì.;;x
+EVTOPTA_MNM_9109;Send someone to the end of the world, if need be!;;;;;;;;;;;Äà õîòü íà êðàé ñâåòà, åñëè íåîáõîäèìî!;;x
+EVTOPTA_MNM_9109_TT_NEW;Spend money to potentially get even better crown jewels than you originally ordered.;;;;;;;;;;;Ïîòðàòèòü äåíüãè, ÷òîáû ïîëó÷èòü óêðàøåíèÿ ëó÷øåãî êà÷åñòâà, ÷åì çàêàçûâàëè èçíà÷àëüíî.;;x
+EVTOPTA_MNM_9112;But the amount I lost is also sizeable.;;;;;;;;;;;Íî âñ¸ ðàâíî ýòî áûëà íåìàëàÿ ñóììà.;;x
+EVTOPTA_MNM_9115;A fine idea, [Root.job_marshal.GetJobTitle] [Root.job_marshal.GetFirstName]!;;;;;;;;;;;Ïðåêðàñíàÿ èäåÿ, [Root.job_marshal.GetFirstName]!;;x
+EVTOPTA_MNM_9115_b;What a fine idea, how clever I am!;;;;;;;;;;;Êàêèå áëåñòÿùèå èäåè ìíå èíîãäà ïðèõîäÿò â ãîëîâó!;;x
+EVTOPTA_MNM_9115_TT;Invite the [GetWeaponArmorSmith] to your court.;;;;;;;;;;;Ïðèãëàñèòü [Root.GetWeaponArmorSmithACC] êî äâîðó.;;x
+EVTOPTA_MNM_9118;You can never go wrong with a good sword.;;;;;;;;;;;Õîðîøèé ìå÷ íèêîãäà íå áûâàåò ëèøíèì.;;x
+EVTOPTA_MNM_9118_TT;Swords may give a bonus to commanded §YLight Infantry§! and §YHeavy Foot Troops§!, as well as §YMartial§!, §YPersonal Combat Skill§! and §YMonthly Prestige§!.\n;;;;;;;;;;;Ìå÷è ìîãóò äàòü áîíóñ ê êîìàíäîâàíèþ §Yë¸ãêîé§! è §Yòÿæ¸ëîé§! ïåõîòîé, ïîìèìî ïðèáàâîê ê §Yâîåííîìó§! íàâûêó, §Yëè÷íûì áîåâûì íàâûêàì§! è §Yìåñÿ÷íîìó ïðèðîñòó ïðåñòèæà§!.\n;;x
+EVTOPTA_MNM_9120;I would not go in to battle with anything but the very best.;;;;;;;;;;;Íó êîíå÷íî æå ìíå íóæíî ñàìîå ëó÷øåå.;;x
+EVTOPTA_MNM_9120_TT_ARMOR_EMPEROR;Order a [smith.GetWeaponsmithWeapon] of the highest quality. This armor will give you §G+10%§! to §YMorale Offense§!, §G+0.75§! §YMonthly Prestige§!, §G+1§! §YMartial§! and §G+2§! §YPersonal Combat Skill§!.;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] âûñøåãî êà÷åñòâà. Ýòè äîñïåõè äàäóò âåñüìà ñóùåñòâåííóþ ïðèáàâêó ê §Yóðîíó áîåâîìó äóõó ïðîòèâíèêà§!, §Yìåñÿ÷íîìó ïðèðîñòó ïðåñòèæà§!, §Yâîåííîìó§! íàâûêó è §Yëè÷íûì áîåâûì íàâûêàì§!.\n;;x
+EVTOPTA_MNM_9120_TT_AXE_EMPEROR;Order a [smith.GetWeaponsmithWeapon] of the highest quality.;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] âûñøåãî êà÷åñòâà.;;x
+EVTOPTA_MNM_9120_TT_BOW_EMPEROR;Order a [smith.GetWeaponsmithWeapon] of the highest quality.;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] âûñøåãî êà÷åñòâà.;;x
+EVTOPTA_MNM_9120_TT_LANCE_EMPEROR;Order a [smith.GetWeaponsmithWeapon] of the highest quality.;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] âûñøåãî êà÷åñòâà.;;x
+EVTOPTA_MNM_9120_TT_MACE_EMPEROR;Order a [smith.GetWeaponsmithWeapon] of the highest quality.;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] âûñøåãî êà÷åñòâà.;;x
+EVTOPTA_MNM_9120_TT_SWORD_EMPEROR;Order a [smith.GetWeaponsmithWeapon] of the highest quality.;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] âûñøåãî êà÷åñòâà.;;x
+EVTOPTA_MNM_9120_TT_SWORDSCIMITAR_EMPEROR;Order a [smith.GetWeaponsmithWeapon] of the highest quality.;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] âûñøåãî êà÷åñòâà.;;x
+EVTOPTA_MNM_9122_ARMOR;This armor shall be my Guardian.;;;;;;;;;;;"ß íàçîâó èõ ""äîñïåõè Ñòðàæà"".";;x
+EVTOPTA_MNM_9122_AXE;This axe will be known as Cleaver!;;;;;;;;;;;"Ýòîò òîïîð ÿ íàçîâó - ""Ñåêà÷""!";;x
+EVTOPTA_MNM_9122_BOW;This bow will be known as Silent Wind!;;;;;;;;;;;"Ýòîò ëóê ÿ íàçîâó ""Áåçìîëâíûé âåòåð""!";;x
+EVTOPTA_MNM_9122_LANCE;This lance will be known as The Impaler!;;;;;;;;;;;Êîëîñàæàòåëü - ïðåêðàñíîå èìÿ äëÿ êîïüÿ!;;x
+EVTOPTA_MNM_9122_MACE;The Foe Hammer!;;;;;;;;;;;Áîåâîé ìîëîò - íàçâàíèå ãîâîðèò ñàìî çà ñåáÿ!;;x
+EVTOPTA_MNM_9122_SCIMITAR;The Golden Scimitar!;;;;;;;;;;;Çîëîòîé Ñêèìèòàð!;;x
+EVTOPTA_MNM_9122_SWORD;This sword will be known as Heartseeker!;;;;;;;;;;;"ß íàçîâó ýòîò ìå÷ ""Ñåðäöåêîë""!";;x
+EVTOPTA_MNM_9123;This is excellent, [smith.GetMasterMistressCap] [smith.GetFirstName]!;;;;;;;;;;;Ïðåêðàñíàÿ ðàáîòà, [From.GetFirstName]!;;x
+EVTOPTA_MNM_9124;I am sure she will serve me well.;;;;;;;;;;;Ãëàâíîå - ýôôåêòèâíîñòü.;;x
+EVTOPTA_MNM_9129_TT_NEW;Spend money to potentially get an even better [smith.GetWeaponsmithWeapon] than the one you originally ordered.;;;;;;;;;;;Ïîòðàòèòü äåíüãè, ÷òîáû ïîëó÷èòü [smith.GetWeaponsmithWeaponACC] ëó÷øåãî êà÷åñòâà, ÷åì çàêàçûâàëè èçíà÷àëüíî.;;x
+EVTOPTA_MNM_9130;A weaponsmith to forge me a deadly weapon!;;;;;;;;;;;ß õî÷ó íîâîå ñìåðòåëüíîå îðóæèå!;;x
+EVTOPTA_MNM_9132;How dare [smith.GetSheHe] betray me!;;;;;;;;;;;Äà êàê [From.GetSheHe] ïîñìåë[From.GetEndA] ïðåäàòü ìåíÿ!;;x
+EVTOPTA_MNM_9135;There is no harm in [smith.GetFirstName] taking some time to help [smith_event_target.GetFirstName].;;;;;;;;;;;Íî [smith_event_target.GetFirstName] ìîæåò ìíîãîìó íàó÷èòüñÿ.;;x
+EVTOPTA_MNM_9136;I am glad [smith.GetFirstName] is helping [smith_event_target.GetFirstName] to be stronger!;;;;;;;;;;;Íî [smith_event_target.GetFirstName] ìîæåò ìíîãîìó íàó÷èòüñÿ.;;x
+EVTOPTA_MNM_9137;What [smith.GetFirstName] does in the privacy of [smith.GetHerHis] own forge is not my concern...;;;;;;;;;;;Ýòî [From.GetHersHis] ëè÷íîå äåëî...;;x
+EVTOPTA_MNM_9138;I will help you in any way I can [smith.GetMasterMistressCap] [smith.GetFirstName].;;;;;;;;;;;Åñëè ÿ êàê-òî ìîãó ïîìî÷ü Âàì, òîëüêî ñêàæèòå.;;x
+EVTOPTA_MNM_9999;Oh dear.;;;;;;;;;;;Îõ, ¸...;;x
+EVTOPTA_MNM_40000_ARMOR;This armor will be my Angelic Guardian.;;;;;;;;;;;ß íàçîâó èõ Àíãåë-Õðàíèòåëü.;;x
+EVTOPTA_MNM_40000_AXE;This ax will be known as The Dragon Cleaver!;;;;;;;;;;;Ðûê Äðàêîíà! Äîñòîéíîå èìÿ äëÿ òîïîðà.;;x
+EVTOPTA_MNM_40000_BOW;This bow will be known as Death Wind!;;;;;;;;;;;Ýòîò ëóê áóäåò èçâåñòåí êàê Äûõàíèå Ñìåðòè.;;x
+EVTOPTA_MNM_40000_LANCE;This lance will be known as Ascalon!;;;;;;;;;;;"ß íàçîâó åãî ""Àñêàëîí""!";;x
+EVTOPTA_MNM_40000_MACE;The Skullcrusher!;;;;;;;;;;;×åðåïîêîë!;;x
+EVTOPTA_MNM_40000_SCIMITAR;Golden Vengeance!;;;;;;;;;;;Íåîòâðàòèìîñòü!;;x
+EVTOPTA_MNM_40000_SWORD;This sword will be known as Dragonseeker!;;;;;;;;;;;"ß íàçîâó ýòîò ìå÷ ""Óáèéöà Äðàêîíîâ""!";;x
+EVTOPTA_zweihanded_LT_20201;I want a heavy two-handed sword.;;;;;;;;;;;ß õî÷ó äâóðó÷íûé ìå÷.;;x
+EVTOPTA_MNM_LT_20201_TT;This sword can only be handled by a strong warrior, but is sure to impress friend and foe alike.;;;;;;;;;;;Ýòèì ìå÷îì ìîæåò ïîëüçîâàòüñÿ ëèøü ñèëüíûé âîèí. Îí âïå÷àòëèò êàê äðóçåé, òàê è âðàãîâ.;;x
+EVTOPTB_MNM_9100;I have no money to spare for such frivolities.;;;;;;;;;;;Ó ìåíÿ íåò äåíåã íà âñÿêèå ïîáðÿêóøêè.;;x
+EVTOPTB_MNM_9100_TT;Do not invite the goldsmith to your court.;;;;;;;;;;;Íå ïðèãëàøàòü þâåëèðà êî äâîðó.;;x
+EVTOPTB_MNM_9103;I will order something impressive, but sensible.;;;;;;;;;;;Ïóñòü áóäåò ÷òî-òî âïå÷àòëÿþùåå, íî â ìåðó.;;x
+EVTOPTB_MNM_9103_KING;I will order an impressive set of jewels.;;;;;;;;;;;Íóæíî ÷òî-íèáóäü âïå÷àòëÿþùåå.;;x
+EVTOPTB_MNM_9103_TT;Order crown jewels which are 'impressive, but sensible'.\n;;;;;;;;;;;"Çàêàçàòü äðàãîöåííîñòè, êîòîðûå áóäóò ""âïå÷àòëÿþùèìè, íî â ìåðó"".\n";;x
+EVTOPTB_MNM_9103_TT_KING;Thorough craftsmanship and expensive materials is the key to beauty.;;;;;;;;;;;Òîíêàÿ êðîïîòëèâàÿ ðàáîòà è äîðîãèå ìàòåðèàëû - âîò êëþ÷ êî âñåìó ïðåêðàñíîìó.;;x
+EVTOPTB_MNM_9109;I am not made of money. Do your best with what is available.;;;;;;;;;;;ß äåíüãè íå âûðàùèâàþ. Ðàáîòàéòå ñ òåì, ÷òî åñòü.;;x
+EVTOPTB_MNM_9109_TT_NEW;Settle with the crown jewels you originally ordered.;;;;;;;;;;;Íàñòàèâàòü íà ïåðâîíà÷àëüíîì âàðèàíòå çàêàçà.;;x
+EVTOPTB_MNM_9112;At least it was not a total loss.;;;;;;;;;;;Ïî êðàéíåé ìåðå, ÷àñòü ÿ âåðíóë[Root.GetEndA].;;x
+EVTOPTB_MNM_9115;Our own smiths are capable enough!;;;;;;;;;;;Ó íàñ ÷òî? Ìàëî ñâîèõ ìàñòåðîâ?;;x
+EVTOPTB_MNM_9115_TT;Do not invite the [GetWeaponArmorSmith] to your court.;;;;;;;;;;;Íå ïðèãëàøàòü [Root.GetWeaponArmorSmithACC] êî äâîðó.;;x
+EVTOPTB_MNM_9118;You can never go wrong with a good scimitar.;;;;;;;;;;;Õîðîøàÿ ñàáëÿ åù¸ íèêîìó íå ïîìåøàëà.;;x
+EVTOPTB_MNM_9118_TT;Scimitars may give a bonus to commanded §YLight Infantry§! and §YHeavy Foot Troops§!, as well as §YMartial§!, §YPersonal Combat Skill§! and §YMonthly Prestige§!.\n;;;;;;;;;;;Ñàáëè ìîãóò äàòü áîíóñ ê êîìàíäîâàíèþ §Yë¸ãêîé§! è §Yòÿæ¸ëîé§! ïåõîòîé, ïîìèìî ïðèáàâîê ê §Yâîåííîìó§! íàâûêó, §Yëè÷íûì áîåâûì íàâûêàì§! è §Yìåñÿ÷íîìó ïðèðîñòó ïðåñòèæà§!.\n;;x
+EVTOPTB_MNM_9120;I do not need any frills, craft me something effective.;;;;;;;;;;;Ãëàâíîå - ýôôåêòèâíîñòü.;;x
+EVTOPTB_MNM_9120_KING;Craft me the best quality [smith.GetWeaponsmithWeapon] you can.;;;;;;;;;;;ß õî÷ó [From.GetWeaponsmithWeaponACC] íàèâûñøåãî êà÷åñòâà.;;x
+EVTOPTB_MNM_9120_TT_ARMOR;Order a good quality [smith.GetWeaponsmithWeapon]. This armor will give you §G+5%§! to §YMorale Offense§!, §G+0.5§! §YMonthly Prestige§!, §G+1§! §YMartial§! and §G+1§! §YPersonal Combat Skill§!.;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] âûñîêîãî êà÷åñòâà. Ýòè äîñïåõè äàäóò Âàì §G+5%§! ê §Yóðîíó áîåâîìó äóõó ïðîòèâíèêà§!, §G+0.5§! ê §Yìåñÿ÷íîìó ïðèðîñòó ïðåñòèæà§!, §G+1§! ê §Yâîåííîìó§! íàâûêó è §G+1§! ê §Yëè÷íûì áîåâûì íàâûêàì§!.;;x
+EVTOPTB_MNM_9120_TT_ARMOR_EMPEROR;Order a good quality [smith.GetWeaponsmithWeapon]. This [smith.GetWeaponsmithWeapon] will increase your §YMorale Offense§!, §YMonthly Prestige§!, §YMartial§! and §YPersonal Combat Skill§!.;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] äîñòîéíîãî êà÷åñòâà. Ýòè äîñïåõè äàäóò ïðèáàâêó ê §Yóðîíó áîåâîìó äóõó ïðîòèâíèêà§!, §Yìåñÿ÷íîìó ïðèðîñòó ïðåñòèæà§!, §Yâîåííîìó§! íàâûêó è §Yëè÷íûì áîåâûì íàâûêàì§!.\n;;x
+EVTOPTB_MNM_9120_TT_ARMOR_KING;Order a high quality [smith.GetWeaponsmithWeapon]. This [smith.GetWeaponsmithWeapon] will greatly increase your §YMorale Offense§!, §YMonthly Prestige§!, §YMartial§! and §YPersonal Combat Skill§!.;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] âûñîêîãî êà÷åñòâà. Ýòè äîñïåõè äàäóò ñóùåñòâåííóþ ïðèáàâêó ê §Yóðîíó áîåâîìó äóõó ïðîòèâíèêà§!, §Yìåñÿ÷íîìó ïðèðîñòó ïðåñòèæà§!, §Yâîåííîìó§! íàâûêó è §Yëè÷íûì áîåâûì íàâûêàì§!.\n;;x
+EVTOPTB_MNM_9120_TT_AXE;Order a good quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] äîñòîéíîãî êà÷åñòâà.;;x
+EVTOPTB_MNM_9120_TT_AXE_EMPEROR;Order a good quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] äîñòîéíîãî êà÷åñòâà.;;x
+EVTOPTB_MNM_9120_TT_AXE_KING;Order a high quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] âûñîêîãî êà÷åñòâà.;;x
+EVTOPTB_MNM_9120_TT_BOW;Order a good quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] äîñòîéíîãî êà÷åñòâà.;;x
+EVTOPTB_MNM_9120_TT_BOW_EMPEROR;Order a good quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] äîñòîéíîãî êà÷åñòâà.;;x
+EVTOPTB_MNM_9120_TT_BOW_KING;Order a high quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] âûñîêîãî êà÷åñòâà.;;x
+EVTOPTB_MNM_9120_TT_LANCE;Order a good quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] äîñòîéíîãî êà÷åñòâà.;;x
+EVTOPTB_MNM_9120_TT_LANCE_EMPEROR;Order a good quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] äîñòîéíîãî êà÷åñòâà.;;x
+EVTOPTB_MNM_9120_TT_LANCE_KING;Order a high quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] âûñîêîãî êà÷åñòâà.;;x
+EVTOPTB_MNM_9120_TT_MACE;Order a good quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] äîñòîéíîãî êà÷åñòâà.;;x
+EVTOPTB_MNM_9120_TT_MACE_EMPEROR;Order a good quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] äîñòîéíîãî êà÷åñòâà.;;x
+EVTOPTB_MNM_9120_TT_MACE_KING;Order a high quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] âûñîêîãî êà÷åñòâà.;;x
+EVTOPTB_MNM_9120_TT_SWORD_EMPEROR;Order a good quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] äîñòîéíîãî êà÷åñòâà.;;x
+EVTOPTB_MNM_9120_TT_SWORD_KING;Order a high quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] âûñîêîãî êà÷åñòâà.;;x
+EVTOPTB_MNM_9120_TT_SWORDSCIMITAR;Order a good quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] äîñòîéíîãî êà÷åñòâà.;;x
+EVTOPTB_MNM_9120_TT_SWORDSCIMITAR_EMPEROR;Order a good quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] äîñòîéíîãî êà÷åñòâà.;;x
+EVTOPTB_MNM_9120_TT_SWORDSCIMITAR_KING;Order a high quality [smith.GetWeaponsmithWeapon].;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] âûñîêîãî êà÷åñòâà.;;x
+EVTOPTB_MNM_9122_ARMOR;With this armor I shall be a Champion.;;;;;;;;;;;Ñ ýòèìè äîñïåõàìè, ÿ ñòàíó ÷åìïèîí[Root.GetKoyOm].;;x
+EVTOPTB_MNM_9122_AXE;My every foe shall fear The Ravager!;;;;;;;;;;;Îïóñòîøèòåëü!;;x
+EVTOPTB_MNM_9122_BOW;My every foe shall fear Lightning!;;;;;;;;;;;Ìîëíèÿ!;;x
+EVTOPTB_MNM_9122_LANCE;My every foe shall fear The Trident!;;;;;;;;;;;Òðåçóáåö - ïóñòü òðåïåùóò ìîè âðàãè!;;x
+EVTOPTB_MNM_9122_MACE;My every foe shall fear The Bone Breaker!;;;;;;;;;;;Êîñòîëîì! Äîñòîéíîå èìÿ äëÿ áóëàâû.;;x
+EVTOPTB_MNM_9122_SCIMITAR;Scimitar of Fortune is a fitting name, no?;;;;;;;;;;;Ñêèìèòàð Ôîðòóíû - õîðîøåå æå èìÿ?;;x
+EVTOPTB_MNM_9122_SWORD;My every foe shall fear Vengeance!;;;;;;;;;;;Ìñòèòåëü - ïîäõîäÿùåå èìÿ äëÿ ìå÷à!;;x
+EVTOPTB_MNM_9129_TT_NEW;Settle with the [smith.GetWeaponsmithWeapon] you originally ordered.;;;;;;;;;;;Íàñòàèâàòü íà ïåðâîíà÷àëüíîì âàðèàíòå çàêàçà.;;x
+EVTOPTB_MNM_9130;I am in need of a new set of armor, find me the finest armorsmith around.;;;;;;;;;;;Ìíå íóæåí íàáîð äîñïåõîâ.;;x
+EVTOPTB_MNM_9132;Oh, I don't think so.;;;;;;;;;;;×òî-òî ïîäñêàçûâàåò ìíå, ÷òî [From.GetSheHe] íå äîåäåò...;;x
+EVTOPTB_MNM_9132_TT;The smith will never reach their destination and your treasures will be recovered.;;;;;;;;;;;"[From.GetSmithMalePrefix][From.GetFirstName][From.GetSmithFemalePostfix] íå äîáåð¸òñÿ äî ìåñòà íàçíà÷åíèÿ, Âàøè ëþäè ""ïîçàáîòÿòñÿ îá ýòîì"", à Âàøè ñîêðîâèùà áóäóò âîçâðàùåíû.";;x
+EVTOPTB_MNM_9135;This is not why [smith.GetFirstName] is here!;;;;;;;;;;;ß íå äëÿ òîãî [From.GetHersHis] íàíèìàë[Root.GetEndA]!;;x
+EVTOPTB_MNM_9136;[smith.GetFirstName]'s job is to be forging for me. Not playing with children.;;;;;;;;;;;ß íå äëÿ òîãî [From.GetHersHis] íàíèìàë[Root.GetEndA]!;;x
+EVTOPTB_MNM_9137;Can you please focus on your work!;;;;;;;;;;;Íå ìîã[From.GetNoneE] áû òû?.. Çàíÿòüñÿ äåëîì!;;x
+EVTOPTB_MNM_9138;No cripple can finish the work! Send [smith.GetHerHim] away!;;;;;;;;;;;Ýò[From.GetEtaEtot] êàëåêà íå çàêîí÷èò ðàáîòó, îòîøëèòå [From.GetHersHis] ïðî÷ü!;;x
+EVTOPTB_MNM_40000_ARMOR;This will be my Green Armor.;;;;;;;;;;;Äîñïåõè Çåë¸íîãî Ðûöàðÿ - çâó÷èò íåïëîõî.;;x
+EVTOPTB_MNM_40000_AXE;My every foe shall fear Heaven's Devastator!;;;;;;;;;;;"ß íàçîâó åãî ""Ïîæèðàòåëü""!";;x
+EVTOPTB_MNM_40000_BOW;My every foe shall fear Lightning Strike!;;;;;;;;;;;Çîâ Áóðè - âîò, êàê ÿ åãî íàçîâó.;;x
+EVTOPTB_MNM_40000_LANCE;My every foe shall fear Bleeding Lance!;;;;;;;;;;;Êðîâàâûé òðåçóáåö!;;x
+EVTOPTB_MNM_40000_MACE;My every foe shall fear The Twilights Hammer!;;;;;;;;;;;"ß íàçîâó åãî ""Ñóìåðå÷íûé Ìîëîò""";;x
+EVTOPTB_MNM_40000_SCIMITAR;Scimitar of the Night is a fitting name, no?;;;;;;;;;;;Ñêèìèòàð Íî÷è - íåïëîõî çâó÷èò.;;x
+EVTOPTB_MNM_40000_SWORD;My every foe shall fear Heaven's Vengeance!;;;;;;;;;;;Ãíåâ Íåáåñ - ïðåêðàñíîå èìÿ äëÿ ìå÷à.;;x
+EVTOPTC_MNM_9103;Surely good craftsmanship is the most important aspect?;;;;;;;;;;;À ðàçâå êà÷åñòâî ðàáîòû òàê óæ âàæíî?;;x
+EVTOPTC_MNM_9103_GENERIC;Order a beautiful set of crown jewels.;;;;;;;;;;;Ïðåêðàñíûå óêðàøåíèÿ - òî, ÷òî ìíå íóæíî.;;x
+EVTOPTC_MNM_9103_KING;Proper craftsmanship is enough for me.;;;;;;;;;;;Ãëàâíîå, ÷òîáû áåç ÿâíîé õàëòóðû.;;x
+EVTOPTC_MNM_9103_TT;Order the least costly set of crown jewels.\n;;;;;;;;;;;Çàêàçàòü ñàìûé äåø¸âûé âàðèàíò äðàãîöåííîñòåé.\n;;x
+EVTOPTC_MNM_9103_TT_GENERIC;Order a set of crown jewels befitting my status.;;;;;;;;;;;Çàêàçàòü äðàãîöåííîñòè, ñîîòâåòñòâóþùèå ìîåìó ñòàòóñó.;;x
+EVTOPTC_MNM_9103_TT_KING;Order the cheaper set of crown jewels.;;;;;;;;;;;Çàêàçàòü ñàìûé äåø¸âûé âàðèàíò äðàãîöåííîñòåé.\n;;x
+EVTOPTC_MNM_9109;Send [smith.GetHerHim] immediately!;;;;;;;;;;;Òàê ïîñûëàéòå åãî, è ïîñêîðåé!;;x
+EVTOPTC_MNM_9109_TT_NEW;Spend money to potentially get even better crown jewels than you originally ordered.;;;;;;;;;;;Ïîòðàòèòü äåíüãè, ÷òîáû ïîëó÷èòü óêðàøåíèÿ ëó÷øåãî êà÷åñòâà, ÷åì çàêàçûâàëè èçíà÷àëüíî.;;x
+EVTOPTC_MNM_9112;Thankfully I didn't lose too much.;;;;;;;;;;;Ê ñ÷àñòüþ, ÿ ïîòåðÿë[Root.GetEndA] íåìíîãî.;;x
+EVTOPTC_MNM_9115;The smiths in our own [the_armory.GetName] are capable enough!;;;;;;;;;;;À çà÷åì òîãäà íàì [the_armory.GetName]?;;x
+EVTOPTC_MNM_9115_TT;This option is available because you have a §Y[the_wonder.GetWonderTypeShortCap]§! with an §Y[the_armory.GetName]§!.;;;;;;;;;;;Ýòîò âàðèàíò îòâåòà äîñòóïåí âàì, ïîòîìó ÷òî ó Âàñ åñòü §Y[the_wonder.GetWonderTypeShortCap]§! è §Y[the_armory.GetName]§!.;;x
+EVTOPTC_MNM_9118;A lance is what I desire.;;;;;;;;;;;Õî÷ó êîïü¸.;;x
+EVTOPTC_MNM_9118_TT;Lances may give a bonus to commanded §YPikemen§! and §YMounted Troops§!, as well as §YMartial§!, §YPersonal Combat Skill§! and §YMonthly Prestige§!.\n;;;;;;;;;;;Êîïüÿ ìîãóò äàòü áîíóñ ê êîìàíäîâàíèþ §Yêîïåéùèêàìè§! è §Yêîííèöåé§!, ïîìèìî ïðèáàâîê ê §Yâîåííîìó§! íàâûêó, §Yëè÷íûì áîåâûì íàâûêàì§! è §Yìåñÿ÷íîìó ïðèðîñòó ïðåñòèæà§!.\n;;x
+EVTOPTC_MNM_9120;I am sure whatever you make is good enough, [smith.GetMasterMistressCap].;;;;;;;;;;;Óâåðåí[Root.GetEndA], ÷òî áû Âû íå ñäåëàëè, îíî áóäåò êà÷åñòâåííûì.;;x
+EVTOPTC_MNM_9120_GENERIC;Craft me something of high quality, that I can bring with me to combat.;;;;;;;;;;;Ìíå íóæíî ÷òî-íèáóäü êà÷åñòâåííîå, ÷òî ìîæíî ïðèìåíèòü â áîþ.;;x
+EVTOPTC_MNM_9120_KING;Craft me something effective yet inexpensive, [smith.GetMasterMistressCap].;;;;;;;;;;;Õî÷ó ÷òî-íèáóäü ýôôåêòèâíîå, íî íåäîðîãîå.;;x
+EVTOPTC_MNM_9120_TT_ARMOR;Order the cheapest [smith.GetWeaponsmithWeapon]. This armor will give you §G+0.25§! §YMonthly Prestige§!, §G+1§! §YMartial§! and §G+1§! §YPersonal Combat Skill§!.;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] äîñòîéíîãî êà÷åñòâà. Ýòè äîñïåõè äàäóò Âàì §G+0.25§! ê §Yìåñÿ÷íîìó ïðèðîñòó ïðåñòèæà§!, §G+1§! ê §Yâîåííîìó§! íàâûêó è §G+1§! ê §Yëè÷íûì áîåâûì íàâûêàì§!.;;x
+EVTOPTC_MNM_9120_TT_ARMOR_EMPEROR;Order the cheapest [smith.GetWeaponsmithWeapon]. This [smith.GetWeaponsmithWeapon] will increase your §YMonthly Prestige§!, §YMartial§! and §YPersonal Combat Skill§! slightly.;;;;;;;;;;;Çàêàçàòü ñàìûé äåø¸âûé [From.GetWeaponsmithWeapon]. Ýòè äîñïåõè äàäóò ìèíèìàëüíóþ ïðèáàâêó ê §Yìåñÿ÷íîìó ïðèðîñòó ïðåñòèæà§!, §Yâîåííîìó§! íàâûêó è §Yëè÷íûì áîåâûì íàâûêàì§!.\n;;x
+EVTOPTC_MNM_9120_TT_ARMOR_GENERIC;Order the [smith.GetWeaponsmithWeapon]. This [smith.GetWeaponsmithWeapon] will increase your §YMonthly Prestige§!, §YMartial§! and §YPersonal Combat Skill§!.;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] äîñòîéíîãî êà÷åñòâà. Ýòè äîñïåõè äàäóò ïðèáàâêó ê §Yìåñÿ÷íîìó ïðèðîñòó ïðåñòèæà§!, §Yâîåííîìó§! íàâûêó è §Yëè÷íûì áîåâûì íàâûêàì§!.\n;;x
+EVTOPTC_MNM_9120_TT_ARMOR_KING;Order the cheaper [smith.GetWeaponsmithWeapon]. This [smith.GetWeaponsmithWeapon] will increase your §YMonthly Prestige§!, §YMartial§! and §YPersonal Combat Skill§! somewhat.;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeapon] ïîäåøåâëå. Ýòè äîñïåõè äàäóò íåáîëüøóþ ïðèáàâêó ê §Yìåñÿ÷íîìó ïðèðîñòó ïðåñòèæà§!, §Yâîåííîìó§! íàâûêó è §Yëè÷íûì áîåâûì íàâûêàì§!.\n;;x
+EVTOPTC_MNM_9120_TT_BOW;Order the cheapest [smith.GetWeaponsmithWeapon].;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] ïî ñàìîé íèçêîé öåíå.;;x
+EVTOPTC_MNM_9120_TT_BOW_EMPEROR;Order the cheapest [smith.GetWeaponsmithWeapon].;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] ïî ñàìîé íèçêîé öåíå.;;x
+EVTOPTC_MNM_9120_TT_BOW_GENERIC;Order the [smith.GetWeaponsmithWeapon].;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] îáû÷íîãî êà÷åñòâà.;;x
+EVTOPTC_MNM_9120_TT_BOW_KING;Order the cheaper [smith.GetWeaponsmithWeapon].;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] ïîäåøåâëå.;;x
+EVTOPTC_MNM_9120_TT_SWORDSCIMITAR;Order the cheapest [smith.GetWeaponsmithWeapon].;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] ïî ñàìîé íèçêîé öåíå.;;x
+EVTOPTC_MNM_9120_TT_SWORDSCIMITAR_EMPEROR;Order the cheapest [smith.GetWeaponsmithWeapon].;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] ïî ñàìîé íèçêîé öåíå.;;x
+EVTOPTC_MNM_9120_TT_SWORDSCIMITAR_GENERIC;Order the [smith.GetWeaponsmithWeapon].;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] îáû÷íîãî êà÷åñòâà.;;x
+EVTOPTC_MNM_9120_TT_SWORDSCIMITAR_KING;Order the cheaper [smith.GetWeaponsmithWeapon].;;;;;;;;;;;Çàêàçàòü [From.GetWeaponsmithWeaponACC] ïîäåøåâëå.;;x
+EVTOPTC_MNM_9122_ARMOR;Everyone shall fear the Warden.;;;;;;;;;;;Äîñïåõè Õðàíèòåëÿ - çâó÷èò íåïëîõî.;;x
+EVTOPTC_MNM_9122_AXE;She looks like a Marauder, doesn't she?;;;;;;;;;;;Ðàçîðèòåëü - ïðåêðàñíîå èìÿ äëÿ áîåâîãî òîïîðà.;;x
+EVTOPTC_MNM_9122_BOW;She looks like an Eagle, doesn't she?;;;;;;;;;;;Îð¸ë - äîñòîéíîå èìÿ äëÿ áëàãîðîäíîãî îðóæèÿ!;;x
+EVTOPTC_MNM_9122_LANCE;The Piercer is a fitting name, no?;;;;;;;;;;;Ïðîíçàòåëü!;;x
+EVTOPTC_MNM_9122_MACE;The Shatterer is a fitting name, no?;;;;;;;;;;;Ðàñêàëûâàòåëü - â ñàìûé ðàç.;;x
+EVTOPTC_MNM_9122_SCIMITAR;Scimitar of Conquest!;;;;;;;;;;;Ñêèìèòàð Çàâîåâàòåëåé!;;x
+EVTOPTC_MNM_9122_SWORD;She looks like a Fury, doesn't she?;;;;;;;;;;;Ãíåâ!;;x
+EVTOPTC_MNM_9129_TT_NEW;Spend money to potentially get an even better [smith.GetWeaponsmithWeapon] than the one you originally ordered.;;;;;;;;;;;Ïîòðàòèòü äåíüãè, ÷òîáû ïîëó÷èòü [smith.GetWeaponsmithWeaponACC] ëó÷øåãî êà÷åñòâà, ÷åì çàêàçûâàëè èçíà÷àëüíî.;;x
+EVTOPTC_MNM_9130;Find me a goldsmith to create jewels befitting of my status.;;;;;;;;;;;Ìåíÿ èíòåðåñóþò èçûñêàííûå óêðàøåíèÿ.;;x
+EVTOPTC_MNM_9137;This is not what I pay you for! Get out and stay out!;;;;;;;;;;;ß íå çà ýòî òåáå ïëàòèë[Root.GetEndA]! Âîí îòñþäà!;;x
+EVTOPTC_MNM_40000_ARMOR;Everyone shall fear the Immortal.;;;;;;;;;;;Äîñïåõè Áåññìåðòíîãî.;;x
+EVTOPTC_MNM_40000_AXE;She looks like a Darkbringer, doesn't she?;;;;;;;;;;;Ìðà÷íûé Æíåö. Èäåàëüíî ïîäõîäèò.;;x
+EVTOPTC_MNM_40000_BOW;She looks like an Ice Eagle, doesn't she?;;;;;;;;;;;Êðèê Îðëà - ïðåêðàñíîå èìÿ äëÿ ëóêà.;;x
+EVTOPTC_MNM_40000_LANCE;Death Strike is a fitting name, no?;;;;;;;;;;;Óäàð Ñìåðòè - îòëè÷íîå èìÿ, íå ïðàâäà ëè?;;x
+EVTOPTC_MNM_40000_MACE;The Giant Shatterer is a fitting name, no?;;;;;;;;;;;Óáèéöà Ãèãàíòîâ - ïðåêðàñíîå èìÿ.;;x
+EVTOPTC_MNM_40000_SCIMITAR;Scimitar of Death.;;;;;;;;;;;Ñêèìèòàð Ñìåðòè.;;x
+EVTOPTC_MNM_40000_SWORD;She looks like a [Root.Religion.GetHighGodName]'s Fury, doesn't she?;;;;;;;;;;;ßðîñòü [Root.GetReligionHighGodNameGEN]!;;x
+EVTOPTD_MNM_9103;I have changed my mind. You services are no longer required.;;;;;;;;;;;ß ïåðåäóìàë[Root.GetEndA]. Âàøè óñëóãè ìíå áîëåå íå ïîíàäîáÿòñÿ.;;x
+EVTOPTD_MNM_9103_TT;Dismiss §Y[smith.GetTitledFirstName]§!.;;;;;;;;;;;§Y[From.GetTitledFirstName]§! ìîæåò áûòü ñâîáîä[From.GetNaEn].;;x
+EVTOPTD_MNM_9109;Do what you can with local materials.;;;;;;;;;;;Äåëàéòå, ÷òî ïîëó÷èòñÿ èç ìåñòíûõ ìàòåðèàëîâ.;;x
+EVTOPTD_MNM_9109_TT_NEW;Settle with the crown jewels you originally ordered.;;;;;;;;;;;Íàñòàèâàòü íà ïåðâîíà÷àëüíîì âàðèàíòå çàêàçà.;;x
+EVTOPTD_MNM_9118;I have always been one for axes.;;;;;;;;;;;Âñåãäà ëþáèë[Root.GetEndA] òîïîðû.;;x
+EVTOPTD_MNM_9118_TT;Axes may give a bonus to commanded §YHeavy Infantry§! and §YLight Foot Troops§!, as well as §YMartial§!, §YPersonal Combat Skill§! and §YMonthly Prestige§!.\n;;;;;;;;;;;Òîïîðû ìîãóò äàòü áîíóñ ê êîìàíäîâàíèþ §Yòÿæ¸ëîé§! è §Yë¸ãêîé§! ïåõîòîé, ïîìèìî ïðèáàâîê ê §Yâîåííîìó§! íàâûêó, §Yëè÷íûì áîåâûì íàâûêàì§! è §Yìåñÿ÷íîìó ïðèðîñòó ïðåñòèæà§!.\n;;x
+EVTOPTD_MNM_9120;Actually, I changed my mind.;;;;;;;;;;;À çíàåòå... ÿ ïåðåäóìàë[Root.GetEndA].;;x
+EVTOPTD_MNM_9120_TT;Order nothing;;;;;;;;;;;Íè÷åãî íå çàêàçûâàòü.;;x
+EVTOPTD_MNM_9129_TT_NEW;Settle with the [smith.GetWeaponsmithWeapon] you originally ordered.;;;;;;;;;;;Íàñòàèâàòü íà ïåðâîíà÷àëüíîì âàðèàíòå çàêàçà.;;x
+EVTOPTD_MNM_9130;Actually now may not be the best time...;;;;;;;;;;;Ïîæàëóé, ñåé÷àñ íå ñàìîå ëó÷øå âðåìÿ...;;x
+EVTOPTD_MNM_9137;How dare [smith.GetFirstName] dishonor me like this! [smith.GetSheHeCap] must be punished.;;;;;;;;;;;Äà êàê òû ïîñìåë[From.GetEndA]?! Ñòðàæà! Àðåñòîâàòü [From.GetHersHis]!;;x
+EVTOPTE_MNM_9118;I will crush my enemies with a mace!;;;;;;;;;;;×òî ìîæåò áûòü ýôôåêòèâíåå õîðîøåé áóëàâû?;;x
+EVTOPTE_MNM_9118_TT;Maces may give a bonus to commanded §YLight Cavalry§! and §YHeavy Foot Troops§!, as well as §YMartial§!, §YPersonal Combat Skill§! and §YMonthly Prestige§!.\n;;;;;;;;;;;Áóëàâû ìîãóò äàòü áîíóñ ê êîìàíäîâàíèþ §Yë¸ãêîé êîííèöåé§! è §Yòÿæ¸ëîé ïåõîòîé§!, ïîìèìî ïðèáàâîê ê §Yâîåííîìó§! íàâûêó, §Yëè÷íûì áîåâûì íàâûêàì§! è §Yìåñÿ÷íîìó ïðèðîñòó ïðåñòèæà§!.\n;;x
+EVTOPTF_MNM_9118;A fine bow would serve me well.;;;;;;;;;;;Âñåãäà ëþáèë ëóêè.;;x
+EVTOPTF_MNM_9118_TT;Bows may give a bonus to commanded §YArchers§! and §YMounted Troops§!, as well as §YMartial§!, §YPersonal Combat Skill§! and §YMonthly Prestige§!.\n;;;;;;;;;;;Ëóêè ìîãóò äàòü áîíóñ ê êîìàíäîâàíèþ §Yëó÷íèêàìè§! è §Yêîííèöåé§!, ïîìèìî ïðèáàâîê ê §Yâîåííîìó§! íàâûêó, §Yëè÷íûì áîåâûì íàâûêàì§! è §Yìåñÿ÷íîìó ïðèðîñòó ïðåñòèæà§!.\n;;x
+EVTOPTG_MNM_9118;I am in need of protection! Make me a strong and sturdy set of armor.;;;;;;;;;;;Çàùèòà - ïðåæäå âñåãî! Ñäåëàéòå ìíå õîðîøèå äîñïåõè.;;x
+EVTOPTG_MNM_9118_TT;Armor provides a bonus to §YMorale Offense§!, as well as §YMartial§!, §YPersonal Combat Skill§! and §YMonthly Prestige§!.;;;;;;;;;;;Äîñïåõè äàþò áîíóñ ê §Yóðîíó áîåâîìó äóõó ïðîòèâíèêà§!, à òàêæå ïðèáàâêó ê §Yâîåííîìó§! íàâûêó, §Yëè÷íûì áîåâûì íàâûêàì§! è §Yìåñÿ÷íîìó ïðèðîñòó ïðåñòèæà§!.;;x
+EVTTT_MNM_9105_NO_DUPLICATES;You cannot have duplicates of the same artifacts of the same quality in your treasury and have therefore received some of your investment back.;;;;;;;;;;;Âû íå ìîæåòå èìåòü íåñêîëüêî ýêçåìïëÿðîâ îäíîãî è òîãî æå àðòåôàêòà â ñâîåé ñîêðîâèùíèöå, ïîýòîìó ïîëó÷èòå êîìïåíñàöèþ çà ïîòðà÷åííûå äåíüãè.;;x
+MNM_9124_TT_AXE;You finally receive your long awaited ax.;;;;;;;;;;;Âû íàêîíåö-òî ïîëó÷èëè ñâîþ äîëãîæäàííóþ ñåêèðó.;;x
+MNM_9124_TT_BOW;You finally receive your long awaited bow.;;;;;;;;;;;Âû íàêîíåö-òî ïîëó÷èëè ñâîé äîëãîæäàííûé ëóê.;;x
+MNM_9124_TT_LANCE;You finally receive your long awaited lance.;;;;;;;;;;;Âû íàêîíåö-òî ïîëó÷èëè ñâî¸ äîëãîæäàííîå êîïü¸.;;x
+MNM_9124_TT_MACE;You finally receive your long awaited mace.;;;;;;;;;;;Âû íàêîíåö-òî ïîëó÷èëè ñâîþ äîëãîæäàííóþ áóëàâó.;;x
+MNM_9124_TT_SCIMITAR;You finally receive your long awaited scimitar.;;;;;;;;;;;Âû íàêîíåö-òî ïîëó÷èëè ñâîþ äîëãîæäàííóþ ñàáëþ.;;x
+MNM_9124_TT_SWORD;You finally receive your long awaited sword.;;;;;;;;;;;Âû íàêîíåö-òî ïîëó÷èëè ñâîé äîëãîæäàííûé ìå÷.;;x

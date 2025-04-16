@@ -1,14 +1,12 @@
-EVTDESC_TOG_2000;The people of [Root.GetName] have developed their language and customs to a point where they may now be considered part of a distinct branch of Norse culture. They have begun to refer to themselves as Swedish.;;;;;;;;;;;;;x
-EVTDESC_TOG_2001;The people of [Root.GetName] have developed their language and customs to a point where they may now be considered part of a distinct branch of Norse culture. They have begun to refer to themselves as Norwegian.;;;;;;;;;;;;;x
-EVTDESC_TOG_2002;The people of [Root.GetName] have developed their language and customs to a point where they may now be considered part of a distinct branch of Norse culture. They have begun to refer to themselves as Danish.;;;;;;;;;;;;;x
-EVTDESC_TOG_2003;The people of [Root.GetName] have developed their language and customs to a point where they may now be considered part of a distinct branch of Norse culture. They have begun to refer to themselves as Norman.;;;;;;;;;;;;;x
-
-EVTOPTA_TOG_2000;What will they think of next, I wonder.;;;;;;;;;;;;;x
-EVTOPTA_TOG_2001;What will they think of next, I wonder.;;;;;;;;;;;;;x
-EVTOPTA_TOG_2002;What will they think of next, I wonder.;;;;;;;;;;;;;x
-EVTOPTA_TOG_2003;What will they think of next, I wonder.;;;;;;;;;;;;;x
-
-EVTOPTB_TOG_2000;Welcome into the fold, my Swedish brothers and sisters.;;;;;;;;;;;;;x
-EVTOPTB_TOG_2001;Welcome into the fold, my Norwegian brothers and sisters.;;;;;;;;;;;;;x
-EVTOPTB_TOG_2002;Welcome into the fold, my Danish brothers and sisters.;;;;;;;;;;;;;x
-EVTOPTB_TOG_2003;Welcome into the fold, my Norman brothers and sisters.;;;;;;;;;;;;;x
+EVTDESC_TOG_2000;The people of [Root.GetName] have developed their language and customs to a point where they may now be considered part of a distinct branch of Norse culture. They have begun to refer to themselves as Swedish.;;;;;;;;;;;"[Root.GetName] ñîçäà¸ò ñâîé ÿçûê è îáû÷àè â ìåñòå, ãäå ýòîò íàðîä òåïåðü ìîæåò ñ÷èòàòüñÿ îòäåëüíîé ÷àñòüþ ñêàíäèíàâñêîé êóëüòóðû. Îíè íàçûâàþò ñåáÿ ""øâåäàìè"".";;x
+EVTDESC_TOG_2001;The people of [Root.GetName] have developed their language and customs to a point where they may now be considered part of a distinct branch of Norse culture. They have begun to refer to themselves as Norwegian.;;;;;;;;;;;"[Root.GetName] ñîçäà¸ò ñâîé ÿçûê è îáû÷àè â ìåñòå, ãäå ýòîò íàðîä òåïåðü ìîæåò ñ÷èòàòüñÿ îòäåëüíîé ÷àñòüþ ñêàíäèíàâñêîé êóëüòóðû. Îíè íàçûâàþò ñåáÿ ""íîðâåæöàìè"".";;x
+EVTDESC_TOG_2002;The people of [Root.GetName] have developed their language and customs to a point where they may now be considered part of a distinct branch of Norse culture. They have begun to refer to themselves as Danish.;;;;;;;;;;;"[Root.GetName] ñîçäà¸ò ñâîé ÿçûê è îáû÷àè â ìåñòå, ãäå ýòîò íàðîä òåïåðü ìîæåò ñ÷èòàòüñÿ îòäåëüíîé ÷àñòüþ ñêàíäèíàâñêîé êóëüòóðû. Îíè íàçûâàþò ñåáÿ ""äàò÷àíàìè"".";;x
+EVTDESC_TOG_2003;The people of [Root.GetName] have developed their language and customs to a point where they may now be considered part of a distinct branch of Norse culture. They have begun to refer to themselves as Norman.;;;;;;;;;;;"[Root.GetName] ñîçäà¸ò ñâîé ÿçûê è îáû÷àè â ìåñòå, ãäå ýòîò íàðîä òåïåðü ìîæåò ñ÷èòàòüñÿ îòäåëüíîé ÷àñòüþ ñêàíäèíàâñêîé êóëüòóðû. Îíè íàçûâàþò ñåáÿ ""íîðìàííàìè"".";;x
+EVTOPTA_TOG_2000;What will they think of next, I wonder.;;;;;;;;;;;Èíòåðåñíî, ÷òî îíè äóìàþò î áóäóùåì. ;;x
+EVTOPTA_TOG_2001;What will they think of next, I wonder.;;;;;;;;;;;Èíòåðåñíî, ÷òî æå äàëüøå?;;x
+EVTOPTA_TOG_2002;What will they think of next, I wonder.;;;;;;;;;;;Èíòåðåñíî, ÷òî æå äàëüøå?;;x
+EVTOPTA_TOG_2003;What will they think of next, I wonder.;;;;;;;;;;;È ÷òî òåïåðü, èíòåðåñíî?;;x
+EVTOPTB_TOG_2000;Welcome into the fold, my Swedish brothers and sisters.;;;;;;;;;;;Äîáðî ïîæàëîâàòü â ñåìüþ, ìîè øâåäñêèå áðàòüÿ è ñ¸ñòðû!;;x
+EVTOPTB_TOG_2001;Welcome into the fold, my Norwegian brothers and sisters.;;;;;;;;;;;Äîáðî ïîæàëîâàòü â ñåìüþ, ìîè íîðâåæñêèå áðàòüÿ è ñ¸ñòðû!;;x
+EVTOPTB_TOG_2002;Welcome into the fold, my Danish brothers and sisters.;;;;;;;;;;;Äîáðî ïîæàëîâàòü â ñåìüþ, ìîè äàòñêèå áðàòüÿ è ñ¸ñòðû!;;x
+EVTOPTB_TOG_2003;Welcome into the fold, my Norman brothers and sisters.;;;;;;;;;;;Äîáðî ïîæàëîâàòü â ñåìüþ, ìîè íîðìàííñêèå áðàòüÿ è ñ¸ñòðû! ;;x

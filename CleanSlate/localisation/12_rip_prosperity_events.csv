@@ -1,39 +1,38 @@
-RIP.11704.a;Invite them in!;;;;;;;;;;;;;x
-RIP.11704.b;Begone!;;;;;;;;;;;;;x
-RIP.11704.d;As commerce in [Root.GetName] grows, a number of Jewish merchants have requested permission to settle their families in one of the towns so they can manage their business more effectively. This would likely lead to increased tax revenues, but local religious authorities will disapprove.;;;;;;;;;;;;;x
-RIP.11705.a;I know a good deal when I see one!;;;;;;;;;;;;;x
-RIP.11705.b;It's too expensive;;;;;;;;;;;;;x
-RIP.11705.d;As the prosperity of [Root.GetName] increases, land which was previously considered marginal is increasing in value. With the proper incentives, it should be possible to clear enough land to found a new holding upon.;;;;;;;;;;;;;x
-RIP.11706.a;Make it so;;;;;;;;;;;;;x
-RIP.11706.b;Leave it to chance;;;;;;;;;;;;;x
-RIP.11706.d;The workshops of [Root.GetName] have a need for large numbers of new workers. By offering a bonus, it would be possible to make sure these workers are [Root.Holder.Culture.GetName].;;;;;;;;;;;;;x
-RIP.11707.a;I am great!;;;;;;;;;;;;;x
-RIP.11707.b;Don't make a fuss;;;;;;;;;;;;;x
-RIP.11707.d;People are flocking to [Root.GetName], and they should know your name! By constructing a great monument there, you can be assured that everyone will know who to credit.;;;;;;;;;;;;;x
-RIP.11708.a;Indeed they could!;;;;;;;;;;;;;x
-RIP.11708.b;[Root.Owner.PrimaryTitle.GetName] is a land power!;;;;;;;;;;;;;x
-RIP.11708.d;Due to the great number of merchant ships docking in the ports of [Root.GetName], there is increased demand for expanded harbor space. Of course, larger harbors could also service more warships...;;;;;;;;;;;;;x
-RIP.11709.a;Knowledge is power!;;;;;;;;;;;;;x
-RIP.11709.b;Money is power!;;;;;;;;;;;;;x
-RIP.11709.d;The prosperity of [Root.GetName] has attracted a number of scholars who are now looking for a patron. Organizing them into a foundation for learning could result in useful new discoveries.;;;;;;;;;;;;;x
-RIP.11710.d;The prosperity of [Root.GetName] has prompted an increasing desire for a Great Library in the country so that learned people there can always find entertainment.;;;;;;;;;;;;;x
-RIP.11711.a;[Root.Religion.GetHighGodNameCap] wills it!;;;;;;;;;;;;;x
-RIP.11711.b;Will [Root.Religion.GetHighGodNameCap] pay for it?;;;;;;;;;;;;;x
-RIP.11711.d;As people flock to [Root.GetName], so too do the clergy. In fact, so many have arrived that with a donation to get them started, [Root.GetName] could become a notable center of worship.;;;;;;;;;;;;;x
-RIP.11712.a;[Root.GetName] prospers!;;;;;;;;;;;;;x
-RIP.11712.d;I am pleased to hear that after a period of peace and shrewd management the county of [Root.GetName] is doing very well. People are happy and the tax collectors are reporting record intakes.;;;;;;;;;;;;;x
-RIP.11713.d;Some buffoon has built a big statue of themselves here. Tearing it down and selling the gold-plating should fetch a few coins.;;;;;;;;;;;;;x
-RIP.11716.a;They should work towards the betterment of the realm!;;;;;;;;;;;;;x
-RIP.11716.b;I will banish them and seize their assets.;;;;;;;;;;;;;x
-RIP.11716.d;The prime quality wood found in the forests of [Root.GetName] has attracted the attention of a group of elite artisans. These renowned individuals have set up a concern where they offer their services for a hefty price. For the right price you could acquire their services and put them to work for the crown!;;;;;;;;;;;;;x
-RIP.11717.a;They shall serve me and the people of [Root.GetName]!;;;;;;;;;;;;;x
-RIP.11717.b;They are clearly trespassing, get rid of them and seize their tools!;;;;;;;;;;;;;x
-RIP.11717.d;For quite some time now, more and more miners have started mining for ore and breaking stone in the mountains of [Root.GetName]. It has come to the point where there is a massive network of them, all organized into various interconnected guilds. For a hefty sum you could bring these guilds into the employ of the crown!;;;;;;;;;;;;;x
-RIP.11718.a;Invite them in!;;;;;;;;;;;;;x
-RIP.11718.b;Begone!;;;;;;;;;;;;;x
-RIP.11718.d;A large number of people from a religious minority has petitioned you for permission to settle in [Root.GetName]. This would likely lead to increased tax revenues, but local religious authorities will disapprove.;;;;;;;;;;;;;x
-RIP.11721.a;That sounds like an excellent suggestion!;;;;;;;;;;;;;x
-RIP.11721.b;Having it easy would just make them weaker.;;;;;;;;;;;;;x
-RIP.11721.d;For some time now, the county of [Root.GetName] has served as an unofficial training ground for your armies as there is plenty of open space on which to train and abundant food to feed the troops. A group of senior officers are now petitioning you for money in order to erect an official regimental camp in the county!;;;;;;;;;;;;;x
-
-PROSPERITY_TITLE;[Root.GetName] Prospers!;;;;;;;;;;;;;x
+RIP.11704.a;Invite them in!;;;;;;;;;;;Äîáðî ïîæàëîâàòü!;;x
+RIP.11704.b;Begone!;;;;;;;;;;;Ïðîâàëèâàéòå!;;x
+RIP.11704.d;As commerce in [Root.GetName] grows, a number of Jewish merchants have requested permission to settle their families in one of the towns so they can manage their business more effectively. This would likely lead to increased tax revenues, but local religious authorities will disapprove.;;;;;;;;;;;Èç-çà áóðíîãî ðàçâèòèÿ [Root.County.GetAdjective]ñêîé òîðãîâëè èçâåñòíûå åâðåéñêèå êóïöû òðåáóþò ðàçðåøåíèÿ ïîñåëèòü ñâîè ñåìüè â ýòîì ðåãèîíå, ÷òîáû ýôôåêòèâíåå âåñòè ñâîè äåëà. Î÷åâèäíî, ýòî áóäåò ñïîñîáñòâîâàòü ðîñòó íàëîãîâûõ ïîñòóïëåíèé, íî ìåñòíûì ðåëèãèîçíûì âëàñòÿì ÿâíî íå ïîíðàâèòñÿ.;;x
+RIP.11705.a;I know a good deal when I see one!;;;;;;;;;;;Òàê ÷åãî æå ìû æä¸ì?;;x
+RIP.11705.b;It's too expensive;;;;;;;;;;;Äîðîãî.;;x
+RIP.11705.d;As the prosperity of [Root.GetName] increases, land which was previously considered marginal is increasing in value. With the proper incentives, it should be possible to clear enough land to found a new holding upon.;;;;;;;;;;;[Root.GetName] ïðîöâåòàåò, è ïóñòûðè, ÷òî ñ÷èòàëèñü íåïðèãîäíûìè, ðàñòóò â öåíå. Ïðè äîëæíîì îáðàùåíèè, ìîæíî íàéòè ìåñòî, äàáû îñíîâàòü íîâîå ïîñåëåíèå.;;x
+RIP.11706.a;Make it so;;;;;;;;;;;Òàê è ñäåëàåì.;;x
+RIP.11706.b;Leave it to chance;;;;;;;;;;;Ê ÷åìó ëèøíèå òðàòû?;;x
+RIP.11706.d;The workshops of [Root.GetName] have a need for large numbers of new workers. By offering a bonus, it would be possible to make sure these workers are [Root.Holder.Culture.GetName].;;;;;;;;;;;[Root.County.GetAdjective]ñêèå ðåìåñëåííûå ìàñòåðñêèå èñïûòûâàþò îñòðóþ íåõâàòêó ðàáî÷åé ñèëû. Ìîæíî ïðåäëîæèòü èì äîòàöèè â îáìåí íà òðåáîâàíèÿ ê çíàíèþ ìåñòíîãî äèàëåêòà [Root.Holder.GetLangAdjective]îãî ÿçûêà è íàøèõ îáû÷àåâ.;;x
+RIP.11707.a;I am great!;;;;;;;;;;;Äà-äà, ýòî âñ¸ ÿ!;;x
+RIP.11707.b;Don't make a fuss;;;;;;;;;;;Íå áåñïîêîéòå ìåíÿ ýòîé åðóíäîé.;;x
+RIP.11707.d;People are flocking to [Root.GetName], and they should know your name! By constructing a great monument there, you can be assured that everyone will know who to credit.;;;;;;;;;;;[Root.GetName] ñåé÷àñ ÿâëÿåòñÿ öåíòðîì ïðèòÿæåíèÿ, ëþäè ñòåêàþòñÿ ñþäà îòîâñþäó, è áûëî áû ïðàâèëüíûì, åñëè áû îíè çíàëè Âàøå èìÿ. Âîçâåäÿ çäåñü âåëèêèé ìîíóìåíò, Âû ìîæåòå áûòü óâåðåíí[Root.GetOyYm], ÷òî îíè áóäóò çíàòü, áëàãîäàðÿ êîìó èõ ìå÷òû ìîãóò îñóùåñòâèòüñÿ.;;x
+RIP.11708.a;Indeed they could!;;;;;;;;;;;Òàê è åñòü!;;x
+RIP.11708.b;[Root.Owner.PrimaryTitle.GetName] is a land power!;;;;;;;;;;;[Root.Owner.PrimaryTitle.GetName] - ñóõîïóòíàÿ äåðæàâà.;;x
+RIP.11708.d;Due to the great number of merchant ships docking in the ports of [Root.GetName], there is increased demand for expanded harbor space. Of course, larger harbors could also service more warships...;;;;;;;;;;;[Root.County.GetAdjective]ñêèå ïðèñòàíè çàíÿòû òîðãîâûìè êîðàáëÿìè, ñâîáîäíîãî ìåñòà êàòàñòðîôè÷åñêè íå õâàòàåò. Ðàçóìååòñÿ, âîåííûå ñóäà òîæå íóæäàþòñÿ â ìåñòàõ ïîñòîÿííîãî áàçèðîâàíèÿ. Âîçìîæíî, ïîðà ðàñøèðÿòü íàøè ïîðòû...;;x
+RIP.11709.a;Knowledge is power!;;;;;;;;;;;Çíàíèå - ñèëà!;;x
+RIP.11709.b;Money is power!;;;;;;;;;;;Íî äåíüãè íóæíåå!;;x
+RIP.11709.d;The prosperity of [Root.GetName] has attracted a number of scholars who are now looking for a patron. Organizing them into a foundation for learning could result in useful new discoveries.;;;;;;;;;;;[Root.GetName] ïðîöâåòàåò, ÷òî ïðèâëåêàåò ìíîæåñòâî ó÷¸íûõ, èùóùèõ ôèíàíñîâóþ ïîääåðæêó. Åñëè îðãàíèçîâàòü ñïåöèàëüíûé ôîíä ïîääåðæêè îáðàçîâàíèÿ è íàóêè, ýòî ìîãëî áû ïîäñòåãíóòü ðàçâèòèå òåõíîëîãèé.;;x
+RIP.11710.d;The prosperity of [Root.GetName] has prompted an increasing desire for a Great Library in the country so that learned people there can always find entertainment.;;;;;;;;;;;[Root.GetName] ïðîöâåòàåò, è âñ¸ áîëüøå îáðàçîâàííûõ ëþäåé ïðèáûâàþò ñþäà. Íåïëîõî áûëî áû çàäåðæàòü èõ çäåñü ïîäîëüøå, ïîñòðîèâ âåëèêóþ áèáëèîòåêó, ñîäåðæàùóþ íàó÷íûå è êóëüòóðíûå òåêñòû ñî âñåãî ñâåòà.;;x
+RIP.11711.a;[Root.Religion.GetHighGodNameCap] wills it!;;;;;;;;;;;[Root.Religion.GetHighGodName] æåëàåò ýòîãî!;;x
+RIP.11711.b;Will [Root.Religion.GetHighGodNameCap] pay for it?;;;;;;;;;;;Åñëè òîëüêî [Root.Religion.GetHighGodName] çàïëàòèò çà ýòî ñàì[Root.GetHGodEndA].;;x
+RIP.11711.d;As people flock to [Root.GetName], so too do the clergy. In fact, so many have arrived that with a donation to get them started, [Root.GetName] could become a notable center of worship.;;;;;;;;;;;[Root.GetName] ïðèâëåêàåò ìíîæåñòâî ëþäåé ðàçíûõ ñîñëîâèé, â òîì ÷èñëå è äóõîâåíñòâî. Åñëè âîñïîëüçîâàòüñÿ èõ âëèÿíèåì, ïîæåðòâîâàâ èì ñîëèäíûå ñóììû äåíåã, [Root.GetName] ìîæåò ñòàòü îäíèì èç ìèðîâûõ ðåëèãèîçíûõ öåíòðîâ.;;x
+RIP.11712.a;[Root.GetName] prospers!;;;;;;;;;;;Âïåð¸ä ê ïðîöâåòàíèþ!;;x
+RIP.11712.d;I am pleased to hear that after a period of peace and shrewd management the county of [Root.GetName] is doing very well. People are happy and the tax collectors are reporting record intakes.;;;;;;;;;;;Ïðèÿòíî ñëûøàòü, ÷òî ïåðèîä ìèðà è óìåëîãî óïðàâëåíèÿ õîðîøî îòðàçèëèñü íà ðàçâèòèè îêðóãà [From.GetName]. Æèòåëè äîâîëüíû, à íàëîãîâûå ïîñòóïëåíèÿ äîñòèãëè ðåêîðäíûõ çíà÷åíèé.;;x
+RIP.11713.d;Some buffoon has built a big statue of themselves here. Tearing it down and selling the gold-plating should fetch a few coins.;;;;;;;;;;;Êàêîé-òî ïðèäóðîê ïîñòðîèë òóò îãðîìíóþ ñòàòóþ ñàìîãî ñåáÿ. Åñëè ñáðîñèòü å¸ è ðàçîáðàòü íà ÷àñòè, ìîæíî âûðó÷èòü íåìíîãî çîëîòà.;;x
+RIP.11716.a;They should work towards the betterment of the realm!;;;;;;;;;;;Ñòðåìëåíèå ê ïðåêðàñíîìó ìîæåò áûòü âûãîäíûì.;;x
+RIP.11716.b;I will banish them and seize their assets.;;;;;;;;;;;Èçãíàâ èõ, ÿ ìîãó ïðèáðàòü ê ðóêàì èõ ñîáñòâåííîñòü.;;x
+RIP.11716.d;The prime quality wood found in the forests of [Root.GetName] has attracted the attention of a group of elite artisans. These renowned individuals have set up a concern where they offer their services for a hefty price. For the right price you could acquire their services and put them to work for the crown!;;;;;;;;;;;[Root.County.GetAdjective]ñêèå ëåñà áîãàòû ðåäêèìè ïîðîäàìè äðåâåñèíû, ÷òî íå ìîãëî íå ïðèâëå÷ü ýëèòíûõ ìàñòåðîâ. Ýòè çíàìåíèòûå ëþäè ñîçäàëè ñâî¸ ïðåäïðèÿòèå, ïðåäëàãàþùåå óñëóãè ïî î÷åíü âûñîêèì öåíàì. Èìåÿ äîñòàòî÷íî ñðåäñòâ, Âû ìîãëè áû ïðèäòè ê ñîãëàøåíèþ íà áëàãî îáùåìó äåëó íàøåé ñòðàíû.;;x
+RIP.11717.a;They shall serve me and the people of [Root.GetName]!;;;;;;;;;;;Îòëè÷íàÿ èäåÿ!;;x
+RIP.11717.b;They are clearly trespassing, get rid of them and seize their tools!;;;;;;;;;;;À êàê æå êîíêóðåíöèÿ? Èçãîíåì èõ è çàáåð¸ì ñîáñòâåííîñòü.;;x
+RIP.11717.d;For quite some time now, more and more miners have started mining for ore and breaking stone in the mountains of [Root.GetName]. It has come to the point where there is a massive network of them, all organized into various interconnected guilds. For a hefty sum you could bring these guilds into the employ of the crown!;;;;;;;;;;;Âñ¸ áîëüøå è áîëüøå øàõò¸ðîâ ïðèáûâàåò â [Root.County.GetAdjective]ñêèå ãîðû. Ñî âðåìåíåì îíè îðãàíèçîâàëè êðóïíóþ ãîðíîäîáûâàþùóþ ñåòü øàõò¸ðñêèõ ãèëüäèé. Ïîääåðæàâ èõ ôèíàíñèðîâàíèåì ìû ìîãëè áû ñîðèåíòèðîâàòü èõ ðàáîòó íà áëàãî ñòðàíû.;;x
+RIP.11718.a;Invite them in!;;;;;;;;;;;Ìû ðàäû âñåì!;;x
+RIP.11718.b;Begone!;;;;;;;;;;;Íè çà ÷òî!;;x
+RIP.11718.d;A large number of people from a religious minority has petitioned you for permission to settle in [Root.GetName]. This would likely lead to increased tax revenues, but local religious authorities will disapprove.;;;;;;;;;;;Ìíîãèå ïðåäñòàâèòåëè âëèÿòåëüíîãî ðåëèãèîçíîãî ìåíüøèíñòâà ïðîñÿò Âàøåãî ðàçðåøåíèÿ ïîñåëèòüñÿ â îêðóãå [Root.GetName]. Ñêîðåå âñåãî ýòî ïîâûñèò íàëîãîâûå ïîñòóïëåíèÿ, íî ìåñòíûå ðåëèãèîçíûå âëàñòè áóäóò âîçìóùåíû.;;x
+RIP.11721.a;That sounds like an excellent suggestion!;;;;;;;;;;;Îáîðîíà - ýòî ñåðü¸çíî.;;x
+RIP.11721.b;Having it easy would just make them weaker.;;;;;;;;;;;Íó êîíå÷íî, ìíå æ çîëîòî áîëüøå íåêóäà äåâàòü!;;x
+RIP.11721.d;For some time now, the county of [Root.GetName] has served as an unofficial training ground for your armies as there is plenty of open space on which to train and abundant food to feed the troops. A group of senior officers are now petitioning you for money in order to erect an official regimental camp in the county!;;;;;;;;;;;Íåêîòîðîå âðåìÿ îêðóã [Root.GetName] ñëóæèë íåôîðìàëüíûì öåíòðîì ïîäãîòîâêè âîéñê, çäåñü ìíîãî îòêðûòîãî ïðîñòðàíñòâà è äîñòàòî÷íî ïðîäîâîëüñòâèÿ. Òåïåðü ãðóïïà çíàòíûõ îôèöåðîâ ïðîñèò Âàñ îá îôèöèàëüíîì ñîçäàíèè çäåñü òðåíèðîâî÷íîãî ïîëèãîíà, ÷òî ïîòðåáóåò ìíîæåñòâî äåíåæíûõ çàòðàò.;;x
+PROSPERITY_TITLE;[Root.GetName] Prospers!;;;;;;;;;;;[Root.GetName] ïðîöâåòàåò!;;x

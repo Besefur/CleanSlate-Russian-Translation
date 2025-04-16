@@ -1,13 +1,13 @@
-SUZERAIN_DEFAULT_NAME;Suzerain;;;;;;;;;;;;;x
-SUZERAIN_NOMADIC_NAME;Nomad Suzerain;;;;;;;;;;;;;x
-SUZERAIN_OFFMAP_NAME;Imperial Suzerain;;;;;;;;;;;;;x
-SUZERAIN_PERMANENT_NAME;Permanent Suzerain;;;;;;;;;;;;;x
-TRIBUTARY_DEFAULT_NAME;Tributary;;;;;;;;;;;;;x
-TRIBUTARY_DEFAULT_PLURAL;Tributaries;;;;;;;;;;;;;x
-TRIBUTARY_DEFAULT_TRIBUTE;Tribute;;;;;;;;;;;;;x
-TRIBUTARY_NOMADIC_NAME;Nomad Tributary;;;;;;;;;;;;;x
-TRIBUTARY_NOMADIC_PLURAL;Nomad Tributaries;;;;;;;;;;;;;x
-TRIBUTARY_OFFMAP_NAME;Imperial Tributary;;;;;;;;;;;;;x
-TRIBUTARY_OFFMAP_PLURAL;Imperial Tributaries;;;;;;;;;;;;;x
-TRIBUTARY_PERMANENT_NAME;Tributary State;;;;;;;;;;;;;x
-TRIBUTARY_PERMANENT_PLURAL;Tributary States;;;;;;;;;;;;;x
+SUZERAIN_DEFAULT_NAME;Suzerain;;;;;;;;;;;Ãåãåìîí;;x
+SUZERAIN_NOMADIC_NAME;Nomad Suzerain;;;;;;;;;;;Ãåãåìîí (îðäà);;x
+SUZERAIN_OFFMAP_NAME;Imperial Suzerain;;;;;;;;;;;Ãåãåìîí (îò èìåíè Èìïåðèè);;x
+SUZERAIN_PERMANENT_NAME;Permanent Suzerain;;;;;;;;;;;Àáñîëþòíûé ãåãåìîí;;x
+TRIBUTARY_DEFAULT_NAME;Tributary;;;;;;;;;;;Äàííèê;;x
+TRIBUTARY_DEFAULT_PLURAL;Tributaries;;;;;;;;;;;Äàííèêè;;x
+TRIBUTARY_DEFAULT_TRIBUTE;Tribute;;;;;;;;;;;Äàíü;;x
+TRIBUTARY_NOMADIC_NAME;Nomad Tributary;;;;;;;;;;;Äàííèê îðäû;;x
+TRIBUTARY_NOMADIC_PLURAL;Nomad Tributaries;;;;;;;;;;;Äàííèêè îðäû;;x
+TRIBUTARY_OFFMAP_NAME;Imperial Tributary;;;;;;;;;;;Ñàòåëëèò Èìïåðèè;;x
+TRIBUTARY_OFFMAP_PLURAL;Imperial Tributaries;;;;;;;;;;;Ñàòåëëèò Èìïåðèè;;x
+TRIBUTARY_PERMANENT_NAME;Tributary State;;;;;;;;;;;Ñàòåëëèò;;x
+TRIBUTARY_PERMANENT_PLURAL;Tributary States;;;;;;;;;;;Ñàòåëëèòû;;x

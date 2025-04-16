@@ -1,200 +1,188 @@
-EVTDESC_WOL_10101;[From.GetTitledFirstName] has previously expressed a desire to find ways to bring more wealth to the [From.PrimaryTitle.GetTier] of [From.PrimaryTitle.GetName]. Now it seems there has arisen an opportunity to set up a new and possibly lucrative trade route.;;;;;;;;;;;;;x
-EVTDESC_WOL_10102;Your [steward.GetJobTitle] comes to see you one afternoon. [steward.GetSheHeCap] explains that [steward.GetSheHe] has devised a plan to bring in exotic goods by setting up a trade route with a foreign realm. This would of course require a sizeable monetary investment but the potential profits would also be great.;;;;;;;;;;;;;x
-EVTDESC_WOL_10103;The time has come to purchase pack animals for our planned merchant expedition. Strong and sturdy beasts are available at the market but they come at quite a hefty price.;;;;;;;;;;;;;x
-EVTDESC_WOL_10104;The time has come to outfit a ship for our trading expedition. The harbormaster shows you a large ship with a sizeable cargo hold that would be perfect for this job, but it does come at quite a hefty price.;;;;;;;;;;;;;x
-EVTDESC_WOL_10105;The word has spread that you're planning a trading expedition, and a group of [Root.Religion.GetPriestTitle]s have arrived at your court with a request. They are offering temple funds for the journey if you will allow them to come along on the journey.;;;;;;;;;;;;;x
-EVTDESC_WOL_10106;The [Root.Religion.GetPriestTitle]s have been giving the crew nervous glares for a couple of days now and today confronted you voicing concerns about traveling with thieves and bandits. They say that [Root.Religion.GetName] faithful should not consort with such people.;;;;;;;;;;;;;x
-EVTDESC_WOL_10107;A message arrives informing you that [From.GetTitledFirstName] is planning to open a foreign trade route. As this route is intended to travel through your areas of interest you are surely entitled to some compensation.;;;;;;;;;;;;;x
-EVTDESC_WOL_10108;Dear [Root.GetTitledFirstName], I have been informed of your ambitions to establish new trade operations near my lands. I do hope that you intend to compensate me for this incursion into the [From.PrimaryTitle.GetFullName].\n\nSigned, \n[From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC_WOL_10111;It is time to set out on the trading expedition. Hopefully it will yield good profits.;;;;;;;;;;;;;x
-EVTDESC_WOL_10114;Your expedition has finally reached the realm of [foreign_ruler.GetTitledFirstName]. Your Steward asks you what gift we shall bring forth as a token of friendship to [foreign_ruler.GetTitledFirstName].;;;;;;;;;;;;;x
-EVTDESC_WOL_10116;At dinner, you notice [foreign_ruler.GetBestName]'s face growing red with annoyance as he glares at your Steward shovelling [steward.GetHerHis] food in with [steward.GetHerHis] bare hands.;;;;;;;;;;;;;x
-EVTDESC_WOL_10118;You are walking idly around the court of [foreign_ruler.GetTitledFirstName] when you suddenly hear a discussion increasing in intensity around the corner. Turning the corner you're surprised to see one of the [Root.Religion.GetPriestTitle]s from your expedition engaged in a wild theological debate with a local noble. This could endanger the whole venture!;;;;;;;;;;;;;x
-EVTDESC_WOL_10123;While I was at the foreign court I also spent some time observing and discussing with the courtiers regarding how they organize their administration. It is fascinating how differently they manage things over here.;;;;;;;;;;;;;x
-EVTDESC_WOL_10125;With the new trade route set up you return with the first batch of goods and sell them off for a nice profit. The influx of new wares will also benefit the economy for a long period to come.;;;;;;;;;;;;;x
-EVTDESC_WOL_10126;Your [steward.GetJobTitle] has brought in riches to your realm through [steward.GetHerHis] competent handling of the trading expedition and [steward.GetSheHe] probably expects to be rewarded with a share of the wealth.;;;;;;;;;;;;;x
-EVTDESC_WOL_10128;The trade expedition was a failure as you didn't manage to close a deal for foreign goods. This is seen as a failure not only by you but also by everyone in your vicinity.;;;;;;;;;;;;;x
-EVTDESC_WOL_10130;The trade route from [Root.GetName] is in dire need of new pack animals and equipment to be able to continue bringing in goods to our realm.;;;;;;;;;;;;;x
-EVTDESC_WOL_10131;The trade route from [Root.GetName] is in dire need of a new ship and equipment to be able to continue bringing in goods to our realm.;;;;;;;;;;;;;x
-EVTDESC_WOL_10200;You've been spending countless hours sketching up plans for different building projects when you suddenly realize how you could display your extraordinary architectural skills. You will build a grand tower that will dwarf everything else in the landscape.;;;;;;;;;;;;;x
-EVTDESC_WOL_10201;The tower construction will need a mason to work the stone for both beauty and strength. The question is whom you should hire for this delicate work.;;;;;;;;;;;;;x
-EVTDESC_WOL_10202;All over the realm, word has spread of your prestigious building project. While some might be skeptical, most of your vassals are openly impressed with the scale of the planned tower.;;;;;;;;;;;;;x
-EVTDESC_WOL_10205;Before the construction of a building this large can begin we need to make sure we have enough high-quality stone. Your Steward suggests importing the stone from a reliable trade partner while it could be beneficial to the region to have access to nearby quarry.;;;;;;;;;;;;;x
-EVTDESC_WOL_10206;During the construction of your grand tower in [This.Capital.GetName], a couple of the workers were killed by a falling granite block as the ropes holding it snapped. People are now demanding stricter security measures as well as compensation to the families that lost their husbands and fathers in this tragic incident.;;;;;;;;;;;;;x
-EVTDESC_WOL_10207;After decades of providing the county with building materials, the stone quarry in [Root.GetName] has been shut down as it no longer produces quality stone.;;;;;;;;;;;;;x
-EVTDESC_WOL_10210;[responding_bishop.GetBestName] approaches you at court, clearly upset. [responding_bishop.GetSheHeCap] has seen that the new tower now stretches higher than any temple in the realm. [responding_bishop.GetSheHeCap] raises [responding_bishop.GetHerHis] voice and nearly screams 'This is unacceptable! You cannot climb into Heaven no matter how much you try, the way to Heaven is the domain of the Church!'.;;;;;;;;;;;;;x
-EVTDESC_WOL_10212;I managed to persuade [responding_bishop.GetBestName] to follow me to the top of the scaffolding so that [responding_bishop.GetSheHe] could properly inspect the tower. The view from the top is breathtakingly beautiful, a fact that [responding_bishop.GetName] soon will experience in the literal sense.;;;;;;;;;;;;;x
-EVTDESC_WOL_10214;As you stretch your arms forward and put all of your body weight behind them to push [responding_bishop.GetBestName] off the tower, [responding_bishop.GetSheHe] suddenly bends down. [responding_bishop.GetSheHeCap] must have found a coin or something. You stumble past [responding_bishop.GetHerHim] and out into the open air.;;;;;;;;;;;;;x
-EVTDESC_WOL_10215;As [responding_bishop.GetBestName] is inspecting the view at the top of the tower, you reach out and and give [responding_bishop.GetHerHim] a gentle push.;;;;;;;;;;;;;x
-EVTDESC_WOL_10216;The great tower that you began planning so long ago has finally been finished. A tower this tall can be seen from a long way away and people are equally amazed and frightened by the power you have displayed by accomplishing such a grand feat of construction. During the years of work you have spent your time perfecting your knowledge in the many key aspects of the science of construction - knowledge that will last centuries. The tower is also sure to hold back many thousands of enemy soldiers.;;;;;;;;;;;;;x
-EVTDESC_WOL_10218;The angle of inclination of your leaning tower is increasing daily now. Perhaps you should try to save it by propping up the construction?;;;;;;;;;;;;;x
-EVTDESC_WOL_10220;You wake up in the middle of the night from a loud bang followed by a long rumbling sound as if from the biggest thunderclap you ever heard. You rush to the window in fear, expecting the worst. Your fear proves correct - the leaning tower has finally toppled over and fallen on top of couple of houses who stood no chance against the might of thousands of granite blocks bombarding the roof.;;;;;;;;;;;;;x
-EVTDESC_WOL_10300;You wake up and go to the window to greet the sun, and then suddenly realize that your castle garden has been neglected for years and turned into an overgrown and chaotic disgrace. The weeds are knee-high and vines are making it almost impassible without having a sword at hand. Something needs to be done about this.;;;;;;;;;;;;;x
-EVTDESC_WOL_10301;It's hard work to clean out all the weeds from a huge garden. It will take many days and nights of hard labor to finish the preparatory work before you can even begin to grow the hedge maze.;;;;;;;;;;;;;x
-EVTDESC_WOL_10302;Now that the hedges are planted and you just need to wait for them to grow, you turn your attention to other details that your garden needs. Should you add some statues to the dead ends of your maze?;;;;;;;;;;;;;x
-EVTDESC_WOL_10303;Any garden with self-respect has a fountain, someone told you once. Now you have the possibility to build a fountain for your garden to flaunt your extravagance.;;;;;;;;;;;;;x
-EVTDESC_WOL_10304;It's time to fill out the rows of plants around the garden. You could either import exotic flowers from far away or you could plant local species.;;;;;;;;;;;;;x
-EVTDESC_WOL_10305;There's a spot that is unused in a secluded part of the garden. Some people would say it's a perfect spot for a cosy pavilion.;;;;;;;;;;;;;x
-EVTDESC_WOL_10401;As your efforts of gaining wealth grow all the more determined, you sleep less and less, since sleeping is not a profitable behavior.;;;;;;;;;;;;;x
-EVTDESC_WOL_10410;There's a group of carpenters in [carpenters_province.GetName] that are working together more and more, as well as taking on apprentices. This is a situation that cannot be ignored, and so you need to either approve of this carpenters' guild to ensure you have a good reputation amongst the skilled workers, or you could outlaw them to make sure that they're not an impediment on the local market structure.;;;;;;;;;;;;;x
-EVTDESC_WOL_10420;You have been presented with an opportunity to let everyone be reminded of your rulership. If you wish to mint new coins for your realm, there is a master of the craft that you can hire. Not only will the mintage be exquisite, it will be adorned with a glorious portrait of you.;;;;;;;;;;;;;x
-EVTDESC_WOL_10421;A merchant has managed to find out that the coins you had minted are counterfeit. You are being called a cheapskate, since they do not contain the precious metals that they were supposed to consist of.;;;;;;;;;;;;;x
-EVTDESC_WOL_10430;[rich_mayor.GetTitledFirstName] approaches you and presents to you a request to buy a small plot of your land in [Root.Capital.GetName]. This is a hard decision to take, since he promises to pay well for the land.;;;;;;;;;;;;;x
-EVTDESC_WOL_10440;A group of craftsmen has come to your court and shown off their work. They present you with fine goods, of which you are sure there would be a demand for in the realm. Noticing your interest, the craftsmen ask for some capital to start up a workshop, saying they lack the funds to do it on their own.;;;;;;;;;;;;;x
-EVTDESC_WOL_10441;The craftsmen that you funded a couple of years ago have returned to tell you of their success. With your support they were able to set up their business, and it's now one of the most profitable enterprises in [artisan_province.GetName].;;;;;;;;;;;;;x
-EVTDESC_WOL_10442;There's a faint knock on your door, followed by a small figure peeking into the room. You remember him well, it's one of the craftsmen that you funded a couple of years ago. He shamefully tells you that the enterprise didn't go exactly as planned, and that their workshop is now bankrupt, with nothing to show for it.;;;;;;;;;;;;;x
-EVTDESC_WOL_10500;Ever since your pursuit of wealth began and you started keeping a close eye on both income and expenses, your coffers seems to be filled to the brim more often than not.;;;;;;;;;;;;;x
-EVTDESC_WOL_10999;More than a month has passed since you set out with your expedition, and you have yet to find a suitable trade partner anywhere. Your crew is homesick, and have now turned the company around to head home.;;;;;;;;;;;;;x
-
-EVTDESCA_WOL_10109;Dear [Root.GetTitledFirstName]. Of course you shall be compensated for our infringement.\n\nSigned, \n[From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESCA_WOL_10110;The bandits you hired failed with their retrieval of the pack animals. Even worse, some of them were arrested and subsequently revealed your involvement. It seems like this expedition has to be abandoned for now.;;;;;;;;;;;;;x
-EVTDESCA_WOL_10120;As you spend more time talking to [foreign_ruler.GetBestName], you realize that you have a lot more in common than mere business interests.;;;;;;;;;;;;;x
-EVTDESCA_WOL_10204;[stonemason.GetBestName] has been working tirelessly on planning the carving of the stones for the tower. He now approaches you with dark circles under his eyes and petitions you for extra funds, claiming his father is sick and his family needs aid.;;;;;;;;;;;;;x
-EVTDESCA_WOL_10217;Your pride, the tower of [Root.GetName] has begun to lean. People everywhere are sniggering behind your back and making rude jokes about it. The only thing greater than your embarassment is your fear of it actually falling over.;;;;;;;;;;;;;x
-EVTDESCA_WOL_10219;Your great tower is now strengthened and has stopped tipping, resting at a steady angle of inclination. You hope it will stay like that. It does, however, still lean at a considerable angle and it embarrasses you to admit that you built it.;;;;;;;;;;;;;x
-EVTDESCA_WOL_10221;You have been informed that a foreign statesman from far away has arrived to your realm and you head out to greet his entourage in person. When you meet up with them you prepare to exchange noble pleasantries, but you don't even have time to introduce yourself before you are interrupted with a question: 'Where is [tower_founder.GetBestName], the magnificent mind behind this masterly work? I would pay well to meet this genius in person,' the statesman blurts out while pointing at the leaning tower.;;;;;;;;;;;;;x
-EVTDESCA_WOL_10306;The hedge maze and garden are finally finished. The expensive and exclusive details you added have not gone unnoticed and your garden has gained fame for it's magnificence across many realms. While creating the garden you also learned much about how to make things grow and flourish around you - flowers as well as relationships.;;;;;;;;;;;;;x
-
-EVTDESCB_WOL_10109;Dear [Root.GetTitledFirstName]. I understand your concerns but my undertakings are none of your business.\n\nSigned, \n[From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESCB_WOL_10110;The bandits you hired failed with their retrieval of the ship. Even worse, some of them were arrested and subsequently revealed your involvement. It seems like this expedition has to be abandoned for now.;;;;;;;;;;;;;x
-EVTDESCB_WOL_10120;After long hours negotiating and discussing possible terms of trade, you and [foreign_ruler.GetBestName] seem to have arrived at a mutual understanding.;;;;;;;;;;;;;x
-EVTDESCB_WOL_10204;[stonemason.GetBestName] comes up to you and complains about what hard and tiresome work it is to plan out how to carve the stones for the tower. He therefore asks you for more payment to finish the plans since he has already used up the first payment. Strangely enough, according to rumor he seems to have had a lot of time to spare chasing after women in your court.;;;;;;;;;;;;;x
-EVTDESCB_WOL_10217;Before you owned the lands of the county [Root.GetName] a tall tower was built here by [tower_founder.GetBestName]. Now after years of standing proud vigil the tower has begun to lean and people are worried that it might fall over.;;;;;;;;;;;;;x
-EVTDESCB_WOL_10219;Your great tower is now strengthened and has stopped tipping, resting at a steady angle of inclination. You hope it will stay like that. It does, however, still lean at a considerable angle and it looks quite weird.;;;;;;;;;;;;;x
-EVTDESCB_WOL_10221;You have been informed that a foreign statesman from far away has arrived to your realm and you head out to greet his entourage in person. When you meet up with them you prepare to exchange noble pleasantries but you don't even have time to introduce yourself before you are interrupted with a question: 'Where is [tower_founder.GetBestName], the magnificent mind behind this masterly work? Especially the slanted door and uneven stairs are fresh and new details. I would pay well to meet this genius in person,' the statesman blurts out while pointing at the leaning tower.;;;;;;;;;;;;;x
-EVTDESCB_WOL_10306;The hedge maze and garden are finally finished. A complex hedge maze such as this is sure to grab the attention of people across the realm. While creating the garden you also learned much about how to make things grow and flourish around you - flowers as well as relationships.;;;;;;;;;;;;;x
-
-EVTDESCC_WOL_10120;The increasingly difficult negotiations between you and [foreign_ruler.GetBestName] are suddenly interrupted when [foreign_ruler.GetBestName] slams [foreign_ruler.GetHerHis] fist on the table. It seems like [foreign_ruler.GetSheHe] can no longer bear your presence in the room and when you decide to leave he shouts '[GetFromRootInsult]' after you.;;;;;;;;;;;;;x
-EVTDESCC_WOL_10221;You have been informed that a foreign statesman from far away has arrived to your realm and you head out to greet his entourage in person. When you meet up with them you prepare to exchange noble pleasantries but you don't even have time to introduce yourself before you are interrupted with a question. 'Where is [stonemason.GetBestName], the magnificent mind behind this masterly work? I would pay well to meet this genius in person,' the statesman blurts out while pointing at the leaning tower.;;;;;;;;;;;;;x
-
-EVTDESCD_WOL_10221;You have been informed that a foreign statesman from far away has arrived to your realm and you head out to greet his entourage in person. When you meet up with them you prepare to exchange noble pleasantries but you don't even have time to introduce yourself before you are interrupted with a question. 'Where is [stonemason.GetBestName], the magnificent mind behind this masterly work? Especially the slanted door and uneven stairs are fresh and new ideas. I would pay well to meet this genius in person,' the statesman blurts out while pointing at the leaning tower.;;;;;;;;;;;;;x
-
-EVTOPTA_WOL_10101;Discuss it with [From.GetTitledFirstName].;;;;;;;;;;;;;x
-EVTOPTA_WOL_10102;Let's organize an expedition.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10103;Purchase them. We'll need the best ones available.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10104;Buy the merchant ship for the journey.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10105;Of course, it will be an honor to have you with us.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10106;Oh well.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10107;Demand monetary compensation.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10108;Here are some coins for the [From.GetTitle].;;;;;;;;;;;;;x
-EVTOPTA_WOL_10109;Great!;;;;;;;;;;;;;x
-EVTOPTA_WOL_10110;That's terrible!;;;;;;;;;;;;;x
-EVTOPTA_WOL_10111;To foreign lands!;;;;;;;;;;;;;x
-EVTOPTA_WOL_10114_CAMELS;A dozen sturdy camels.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10114_ELEPHANT;A mighty elephant.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10114_HORSES;A dozen strong horses.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10114_WARRIORS;A dozen tough warriors.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10116;[steward.GetBestName] is only acting in accordance to [steward.GetHerHis] religion.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10118;This must be stopped.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10120;I've gained both a friend and a profitable agreement.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10123;I should apply some of these tricks when managing my own finances.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10125;More money is always needed.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10126;I will reward [steward.GetHerHim] appropriately.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10128;At least I learned something.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10130;I need to keep this trade route running.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10200;This will be glorious.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10201;I know a craftsman that has the skill.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10202;The doubters will be proven wrong.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10204;Very well, but make sure to carry on with your work.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10205;Import the stone.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10206;Peasants are expendable.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10207;That's too bad.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10210;Go back to your old scriptures.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10212;Careful there...;;;;;;;;;;;;;x
-EVTOPTA_WOL_10214;Oh dear...;;;;;;;;;;;;;x
-EVTOPTA_WOL_10215;Oh dear.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10216;I am truly a professional builder now.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10217;This is all the mason's fault!;;;;;;;;;;;;;x
-EVTOPTA_WOL_10218;I must save the tower at whatever cost!;;;;;;;;;;;;;x
-EVTOPTA_WOL_10219;At least it didn't fall on someone's head.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10220;I hope no one got hurt.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10221;Uhm. Of course, I'll fetch him from my, humm... court.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10300;I'll make sure to make this a real garden with a glorious hedge maze!;;;;;;;;;;;;;x
-EVTOPTA_WOL_10301;I'll do it myself.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10302;I'll add some magnificent statues of my family.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10303;I'll build a large fountain in the middle.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10304;Let's import flowers to bring that exotic flavor.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10305;That sounds romantic, let's do it.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10306;I like to see things flourish.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10401;I must have more gold!;;;;;;;;;;;;;x
-EVTOPTA_WOL_10410;I'll support the carpenters.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10420;Mint the coins for glory.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10421;People might taunt my face on those coins now.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10430;I do need the gold...;;;;;;;;;;;;;x
-EVTOPTA_WOL_10440;This is a sound investment.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10441;Great! More taxes for me.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10442;That was a bad investment...;;;;;;;;;;;;;x
-EVTOPTA_WOL_10500;A thriving economy is good for the realm.;;;;;;;;;;;;;x
-EVTOPTA_WOL_10999;Tough luck.;;;;;;;;;;;;;x
-
-EVTOPTB_WOL_10101;I have more important matters to attend to.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10102;My money has better uses.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10103;Hire a crew of bandits to steal the animals.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10104;Hire a crew of bandits to steal the ship.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10105;No, I can't risk them getting in the way.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10106;We're helping these men to a life without crime.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10107;Never mind.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10108;This is none of your business.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10109;That pirate!;;;;;;;;;;;;;x
-EVTOPTB_WOL_10114;A chest with quality cloth from back home.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10116;Please excuse [steward.GetHerHim], I am still trying to teach this barbarian proper manners.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10118;I will intervene with my charm and soothe the debaters.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10120;This will be a profitable agreement.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10126;[steward.GetSheHeCap] was just doing [steward.GetHerHis] duty.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10130;It's too expensive.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10200;But I won't be able to afford it.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10201;Any boy off the street will do fine.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10204;You're just using the money on your lustful adventures.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10205;Build a quarry.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10206;I will compensate the families for their loss.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10210;I guess we can cut some height off the tower.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10216;This is merely a spare time pursuit.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10217;This is the result of lazy workers not following instructions!;;;;;;;;;;;;;x
-EVTOPTB_WOL_10218;I will put in reasonable effort to save the tower.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10221;I'll fetch him right away.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10300;But there's so little time.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10301;I'll need to acquire a helping hand.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10302;I'll add some beautiful statues of religious figures.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10303;I'll have a fountain and wine shall flow through it all days of the week.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10304;The local flora is as beautiful as any other flowers can be.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10305;That sounds a bit too romantic for my taste.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10306;But I am not ready to commit to a pastime so whole-heartedly...;;;;;;;;;;;;;x
-EVTOPTB_WOL_10410;Outlaw the guilds.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10420;Debase the mints with less precious metals for profits.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10430;There's not enough gold in your pockets to buy my land.;;;;;;;;;;;;;x
-EVTOPTB_WOL_10440;No. Your lack of funds is not my problem.;;;;;;;;;;;;;x
-
-EVTOPTC_WOL_10103;On second thought, I really can't afford this.;;;;;;;;;;;;;x
-EVTOPTC_WOL_10104;On second thought, I really can't afford this.;;;;;;;;;;;;;x
-EVTOPTC_WOL_10114;A pouch of rare herbs.;;;;;;;;;;;;;x
-EVTOPTC_WOL_10116;I'm hungry too!;;;;;;;;;;;;;x
-EVTOPTC_WOL_10118;These heretics need to see the error of their ways.;;;;;;;;;;;;;x
-EVTOPTC_WOL_10120;I guess that was it then.;;;;;;;;;;;;;x
-EVTOPTC_WOL_10204;Very well, but make sure to carry on with your work.;;;;;;;;;;;;;x
-EVTOPTC_WOL_10205;I could reuse some old building materials from the castle.;;;;;;;;;;;;;x
-EVTOPTC_WOL_10210;I only follow the word of [Root.Religion.GetRandomGodName].;;;;;;;;;;;;;x
-EVTOPTC_WOL_10217;It's my own fault, unfortunately.;;;;;;;;;;;;;x
-EVTOPTC_WOL_10218;I will put my trust in destiny.;;;;;;;;;;;;;x
-EVTOPTC_WOL_10221;He's not here. He's got more important matters to attend to.;;;;;;;;;;;;;x
-EVTOPTC_WOL_10301;The servants could use some more work.;;;;;;;;;;;;;x
-EVTOPTC_WOL_10302;The shadows are enough decoration in the dead ends.;;;;;;;;;;;;;x
-EVTOPTC_WOL_10303;It's not worth spending money on.;;;;;;;;;;;;;x
-EVTOPTC_WOL_10420;No, there's no need for additional currencies.;;;;;;;;;;;;;x
-
-EVTOPTD_WOL_10114;My courtesy should be enough of a gift.;;;;;;;;;;;;;x
-EVTOPTD_WOL_10118;These heathens need to see the error of their ways.;;;;;;;;;;;;;x
-EVTOPTD_WOL_10204;I already paid you, now get to it!;;;;;;;;;;;;;x
-EVTOPTD_WOL_10210;[responding_bishop.GetSheHeCap]'s onto me. [responding_bishop.GetSheHeCap] must disappear.;;;;;;;;;;;;;x
-EVTOPTD_WOL_10217;How unfortunate. It is a fine tower.;;;;;;;;;;;;;x
-EVTOPTD_WOL_10221;You are talking to [Root.GetHerHim] right now.;;;;;;;;;;;;;x
-
-EVTOPTE_WOL_10221;It was constructed here before my rule.;;;;;;;;;;;;;x
-
-EVTOPTF_WOL_10221;Uhm. Of course, I'll fetch him from my, humm... court.;;;;;;;;;;;;;x
-
-EVTOPTG_WOL_10221;[stonemason.GetSheHeCap] is not here right now. [stonemason.GetSheHeCap]'s got more important matters to deal with.;;;;;;;;;;;;;x
-
-EVTTOOLTIPWOL10210;§Y[responding_bishop.GetBestName]§! will be lured to the top of the tower...;;;;;;;;;;;;;x
-EVTTOOLTIPWOL10212;[Root.GetName] pushes [responding_bishop.GetName].;;;;;;;;;;;;;x
-EVTTOOLTIPWOL10302;Your §YDynasty§! will appreciate this gesture.\n;;;;;;;;;;;;;x
-EVTTOOLTIPWOL10440;A workshop will set up in [artisan_province.GetName], and begin preparation for producing goods.;;;;;;;;;;;;;x
+EVTDESC_WOL_10101;[From.GetTitledFirstName] has previously expressed a desire to find ways to bring more wealth to the [From.PrimaryTitle.GetTier] of [From.PrimaryTitle.GetName]. Now it seems there has arisen an opportunity to set up a new and possibly lucrative trade route.;;;;;;;;;;;Â ñâåòå òîãî, êàê [From.GetTitledFirstName] æåëàåò áîãàòñòâà è ïðîöâåòàíèÿ [From.PrimaryTitle.GetAdjective]ñêîé çåìëå, âåñüìà óäîáíî, ÷òî ïðåäñòàâèëàñü íîâàÿ âîçìîæíîñòü óñòàíîâèòü ïðèáûëüíûé òîðãîâûé ïóòü íà [From.PrimaryTitle.GetAdjective]ñêîì íàïðàâëåíèè.;;x
+EVTDESC_WOL_10102;Your [steward.GetJobTitle] comes to see you one afternoon. [steward.GetSheHeCap] explains that [steward.GetSheHe] has devised a plan to bring in exotic goods by setting up a trade route with a foreign realm. This would of course require a sizeable monetary investment but the potential profits would also be great.;;;;;;;;;;;[Root.PrimaryTitle.GetFOA], êàê [From.GetJobTitle] ÿ íå ìîãó íå ñîîáùèòü Âàì, ÷òî ïîÿâèëàñü ïðåêðàñíàÿ âîçìîæíîñòü ïðèâëå÷ü áîãàòñòâà è ýêçîòè÷åñêèå òîâàðû, óñòàíîâèâ íîâûé òîðãîâûé ïóòü â äðóãóþ ñòðàíó. Òåì íå ìåíåå, ÷òîáû ýòî îñóùåñòâèòü, íåîáõîäèìû âåñîìûå êàïèòàëîâëîæåíèÿ, íî ýòè çàòðàòû îêóïÿòñÿ ìíîãîêðàòíî.;;x
+EVTDESC_WOL_10103;The time has come to purchase pack animals for our planned merchant expedition. Strong and sturdy beasts are available at the market but they come at quite a hefty price.;;;;;;;;;;;Ïðèøëî âðåìÿ ñíàðÿäèòü Âàøó òîðãîâóþ ýêñïåäèöèþ. Âû ïðèñìàòðèâàåòåñü ê âüþ÷íûì æèâîòíûì - îíè äîâîëüíî êðåïêè è âûíîñëèâû, íî äîðîãî ñòîÿò.;;x
+EVTDESC_WOL_10104;The time has come to outfit a ship for our trading expedition. The harbormaster shows you a large ship with a sizeable cargo hold that would be perfect for this job, but it does come at quite a hefty price.;;;;;;;;;;;Íàñòàëî âðåìÿ ñíàðÿäèòü êîðàáëü äëÿ ýêñïåäèöèè. Êàïèòàí ïîðòà ïîêàçûâàåò Âàì áîëüøîé ãðóçîâîé êîðàáëü, êîòîðûé áûë áû èäåàëåí äëÿ ýòîé öåëè, íî äîðîãî ñòîèò.;;x
+EVTDESC_WOL_10105;The word has spread that you're planning a trading expedition, and a group of [Root.Religion.GetPriestTitle]s have arrived at your court with a request. They are offering temple funds for the journey if you will allow them to come along on the journey.;;;;;;;;;;;Âåñòè î òîì, ÷òî Âû ïëàíèðóåòå ïóòåøåñòâèå, ðàñïðîñòðàíèëèñü ïî ñòðàíå è íåñêîëüêî ñâÿùåííîñëóæèòåëåé ïðèáûëè ê Âàøåìó äâîðó. Îíè ïðåäëîæèëè Âàì ôèíàíñîâóþ ïîääåðæêó â îáìåí íà âîçìîæíîñòü ñîïðîâîæäàòü Âàñ â ýêñïåäèöèè è ïîñåòèòü ÷óæåçåìíûå ãîñóäàðñòâà.;;x
+EVTDESC_WOL_10106;The [Root.Religion.GetPriestTitle]s have been giving the crew nervous glares for a couple of days now and today confronted you voicing concerns about traveling with thieves and bandits. They say that [Root.Religion.GetName] faithful should not consort with such people.;;;;;;;;;;;Äóõîâåíñòâî, ñîïðîâîæäàþùåå Âàñ â ïóòåøåñòâèè, íåðâíî ðåàãèðóåò íà ïðèñóòñòâèå â Âàøåé êîìàíäå âîðîâ è áàíäèòîâ, è ïðîäîëæàåò ãîâîðèòü, ÷òî [Root.GetReligionFullName] ðåøèòåëüíî îñóæäàåò ñîòðóäíè÷åñòâî ñ òàêèìè ëþäüìè.;;x
+EVTDESC_WOL_10107;A message arrives informing you that [From.GetTitledFirstName] is planning to open a foreign trade route. As this route is intended to travel through your areas of interest you are surely entitled to some compensation.;;;;;;;;;;;"Âåñòè î òîì, ÷òî [From.GetTitledFirstName] ïëàíèðóåò óñòàíîâèòü íîâûé òîðãîâûé ìàðøðóò, äîñòèãëè Âàøåãî äâîðà. Ïîñêîëüêó îí ïðîëåãàåò ÷åðåç çîíó Âàøåãî âëèÿíèÿ, Âû ìîæåòå ïîòðåáîâàòü íåêîòîðóþ ""êîìïåíñàöèþ"" â ñâîþ ïîëüçó.";;x
+EVTDESC_WOL_10108;Dear [Root.GetTitledFirstName], I have been informed of your ambitions to establish new trade operations near my lands. I do hope that you intend to compensate me for this incursion into the [From.PrimaryTitle.GetFullName].\n\nSigned, \n[From.GetTitledFirstName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nÍàì ñòàëî èçâåñòíî î Âàøèõ ïëàíàõ óñòàíîâèòü íîâûé òîðãîâûé ìàðøðóò â íåïîñðåäñòâåííîé áëèçîñòè îò íàøèõ çåìåëü. Íàäåþñü, ïîäîáíîå âìåøàòåëüñòâî â íàøè äåëà áóäåò â äîëæíîé ìåðå êîìïåíñèðîâàíî, è [From.PrimaryTitle.GetAdjective]ñêèå èíòåðåñû áóäóò ó÷òåíû.\nÏîäïèñü:\n [From.GetTitledFirstName];;x
+EVTDESC_WOL_10111;It is time to set out on the trading expedition. Hopefully it will yield good profits.;;;;;;;;;;;Ïðèøëî âðåìÿ íà÷àòü ýêñïåäèöèþ çà ýêçîòè÷åñêèìè òîâàðàìè, è, åñëè ïîâåç¸ò, ïðèáûëüþ.;;x
+EVTDESC_WOL_10114;Your expedition has finally reached the realm of [foreign_ruler.GetTitledFirstName]. Your Steward asks you what gift we shall bring forth as a token of friendship to [foreign_ruler.GetTitledFirstName].;;;;;;;;;;;Ýêñïåäèöèÿ íàêîíåö äîñòèãëà ïóíêòà íàçíà÷åíèÿ - [From.GetTitledFirstName], ïðàâèòåëü ýòèõ çåìåëü, îæèäàåò Âàñ ó ñåáÿ ïðè äâîðå. Âàø óïðàâëÿþùèé íàïîìèíàåò î ïîäàðêå â çíàê äðóæáû ìåæäó ñòðàíàìè. Êàê äàð ñëåäóåò ïðåïîäíåñòè?;;x
+EVTDESC_WOL_10116;At dinner, you notice [foreign_ruler.GetBestName]'s face growing red with annoyance as he glares at your Steward shovelling [steward.GetHerHis] food in with [steward.GetHerHis] bare hands.;;;;;;;;;;;Âû íå ìîæåòå íå çàìåòèòü, ÷òî [From.GetBestName] íàëèâàåòñÿ ãíåâîì ïðè âèäå òîãî, êàê Âàø óïðàâëÿþùèé, [steward.GetBestName], ïîæèðàåò óæèí ïî-âàðâàðñêè, ãîëûìè ðóêàìè.;;x
+EVTDESC_WOL_10118;You are walking idly around the court of [foreign_ruler.GetTitledFirstName] when you suddenly hear a discussion increasing in intensity around the corner. Turning the corner you're surprised to see one of the [Root.Religion.GetPriestTitle]s from your expedition engaged in a wild theological debate with a local noble. This could endanger the whole venture!;;;;;;;;;;;[From.GetTitledFirstName] çíàåò òîëê â çàïóòàííûõ êîðèäîðàõ, Âû äîëãî è áåñöåëüíî áðîäèòå ïî íèì, óæå íå ïîìíÿ çà÷åì è êóäà íàïðàâëÿëèñü, è âäðóã ñëûøèòå îæèâë¸ííûé ñïîð çà óãëîì - ñâÿùåííîñëóæèòåëè Âàøåé ýêñïåäèöèè âñòóïèëè â æàðêèå òåîëîãè÷åñêèå äåáàòû ñ ìåñòíûì àðèñòîêðàòîì. Ýòî ìîæåò ïîñòàâèòü ïîä óãðîçó âñ¸ ïðåäïðèÿòèå!;;x
+EVTDESC_WOL_10123;While I was at the foreign court I also spent some time observing and discussing with the courtiers regarding how they organize their administration. It is fascinating how differently they manage things over here.;;;;;;;;;;;Ïðè äâîðå ÷óæåçåìöåâ ìíå äîâåëîñü ïðîâåñòè íåêîòîðîå âðåìÿ â îáñóæäåíèè òîãî, êàê ëó÷øå îðãàíèçîâàòü èõ àäìèíèñòðàöèþ. Óäèâèòåëüíî, íàñêîëüêî èíà÷å ó íèõ âñ¸ óñòðîåíî.;;x
+EVTDESC_WOL_10125;With the new trade route set up you return with the first batch of goods and sell them off for a nice profit. The influx of new wares will also benefit the economy for a long period to come.;;;;;;;;;;;Óñïåøíî óñòàíîâèâ íîâûé òîðãîâûé ïóòü, Âû ñ òðèóìôîì âåðíóëèñü è òóò æå ïðîäàëè ñâîé òîâàð ñ áîëüøîé ïðèáûëüþ. Íîâûå ñâÿçè, íåñîìíåííî, áóäóò ïðèíîñèòü áîãàòñòâî ñòðàíå åù¸ äîëãîå âðåìÿ.;;x
+EVTDESC_WOL_10126;Your [steward.GetJobTitle] has brought in riches to your realm through [steward.GetHerHis] competent handling of the trading expedition and [steward.GetSheHe] probably expects to be rewarded with a share of the wealth.;;;;;;;;;;;Âàø [steward.GetJobTitle] ïðèí¸ñ áîãàòñòâî íàøåé ñòðàíå, ñíàðÿäèâ òîðãîâóþ ýêñïåäèöèþ, è òåïåðü âîçìîæíî îæèäàåò, ÷òî Âû ðàçäåëèòå ÷àñòü ïðèáûëè â çíàê áëàãîäàðíîñòè.;;x
+EVTDESC_WOL_10128;The trade expedition was a failure as you didn't manage to close a deal for foreign goods. This is seen as a failure not only by you but also by everyone in your vicinity.;;;;;;;;;;;Òîðãîâàÿ ýêñïåäèöèÿ çàâåðøèëàñü íåóäà÷åé, Âàì íå óäàëîñü çàêëþ÷èòü ñäåëêó, ÷òî íåãàòèâíî îòðàçèëîñü íå òîëüêî íà Âàøåé ñòðàíå, íî è íà áëèæàéøèõ ñîñåäÿõ.;;x
+EVTDESC_WOL_10130;The trade route from [Root.GetName] is in dire need of new pack animals and equipment to be able to continue bringing in goods to our realm.;;;;;;;;;;;[Root.County.GetAdjective]ñêèé òîðãîâûé ïóòü îñòðî íóæäàåòñÿ â íîâîì ñíàðÿæåíèè è âüþ÷íûõ æèâîòíûõ äëÿ ïðîäîëæåíèÿ ñâîåé äåÿòåëüíîñòè.;;x
+EVTDESC_WOL_10131;The trade route from [Root.GetName] is in dire need of a new ship and equipment to be able to continue bringing in goods to our realm.;;;;;;;;;;;[Root.County.GetAdjective]ñêèé òîðãîâûé ïóòü îñòðî íóæäàåòñÿ â íîâûõ êîðàáëÿõ è ñíàðÿæåíèè äëÿ ïðîäîëæåíèÿ ñâîåé äåÿòåëüíîñòè.;;x
+EVTDESC_WOL_10200;You've been spending countless hours sketching up plans for different building projects when you suddenly realize how you could display your extraordinary architectural skills. You will build a grand tower that will dwarf everything else in the landscape.;;;;;;;;;;;Âû ïðîâåëè ìíîæåñòâî áåññîííûõ íî÷åé, çàðèñîâûâàÿ ïëàíû ðàçëè÷íûõ ñòðîèòåëüíûõ ïðîåêòîâ, ïîêà íàêîíåö íå ïðèøëè ê èäåå, êîòîðàÿ âîèñòèíó ðàñêðîåò Âàø àðõèòåêòóðíûé òàëàíò - îãðîìíàÿ áàøíÿ, êîòîðàÿ çàòìèò ñâîèì âåëè÷èåì âñ¸ âîêðóã.;;x
+EVTDESC_WOL_10201;The tower construction will need a mason to work the stone for both beauty and strength. The question is whom you should hire for this delicate work.;;;;;;;;;;;Ñòðîèòåëüñòâî áàøíè ïðåäïîëàãàåò íàéì êàìåíùèêà, êîòîðûé áû ñìîã âîïëîòèòü â æèçíü å¸ ïðî÷íîñòü è êðàñîòó. Îñòàëîñü íàéòè ýòîãî êàìåíùèêà.;;x
+EVTDESC_WOL_10202;All over the realm, word has spread of your prestigious building project. While some might be skeptical, most of your vassals are openly impressed with the scale of the planned tower.;;;;;;;;;;;Âåñòü î Âàøåì ñòðîèòåëüíîì ïðîåêòå ðàçíåñëàñü ïî âñåé ñòðàíå. Ìíîãèõ âïå÷àòëèë ìàñøòàá áóäóùåé áàøíè, äðóãèå ñ÷èòàþò, ÷òî ïðîåêò íåâîçìîæíî ðåàëèçîâàòü.;;x
+EVTDESC_WOL_10205;Before the construction of a building this large can begin we need to make sure we have enough high-quality stone. Your Steward suggests importing the stone from a reliable trade partner while it could be beneficial to the region to have access to nearby quarry.;;;;;;;;;;;Ïðåæäå ÷åì ïðèñòóïèòü ê ïîñòðîéêå ñòîëü áîëüøîãî ñîîðóæåíèÿ íåîáõîäèìî óáåäèòüñÿ, ÷òî äëÿ ýòîãî äîñòàòî÷íî êà÷åñòâåííîãî êàìíÿ. Âàø óïðàëÿþùèé ñîâåòóåò êóïèòü êàìåíü ó íàäåæíîãî òîðãîâîãî ïàðòí¸ðà, õîòÿ ðåãèîí â öåëîì ìîæåò èçâëå÷ü âûãîäó, åñëè áóäåò èìåòü êàìåíîëîìíþ ïîáëèçîñòè.;;x
+EVTDESC_WOL_10206;During the construction of your grand tower in [This.Capital.GetName], a couple of the workers were killed by a falling granite block as the ropes holding it snapped. People are now demanding stricter security measures as well as compensation to the families that lost their husbands and fathers in this tragic incident.;;;;;;;;;;;Íà ñòðîèòåëüñòâå âåëèêîé [This.Capital.County.GetAdjective]ñêîé áàøíè íåñêîëüêî ðàáî÷èõ ïîãèáëè âî âðåìÿ ïîäú¸ìà ãðàíèòíîé ïëèòû. Îíè ñòîÿëè ïðÿìî ïîä íåé, è êàíàòû íå âûäåðæàëè íàãðóçêó. Òåïåðü ìåñòíûå æèòåëè òðåáóþò óñèëåíèÿ ìåð áåçîïàñíîñòè, ñïåöèàëüíûõ òðåíèðîâîê è êîìïåíñàöèè ñåìüÿì ïîãèáøèõ.;;x
+EVTDESC_WOL_10207;After decades of providing the county with building materials, the stone quarry in [Root.GetName] has been shut down as it no longer produces quality stone.;;;;;;;;;;;Ñïóñòÿ äåñÿòèëåòèÿ íåïðåðûâíîé ðàáîòû [Root.County.GetAdjective]ñêàÿ êàìåíîëîìíÿ çàêðûâàåòñÿ èç-çà èñòîùåíèÿ êàìåííîãî êàðüåðà.;;x
+EVTDESC_WOL_10210;[responding_bishop.GetBestName] approaches you at court, clearly upset. [responding_bishop.GetSheHeCap] has seen that the new tower now stretches higher than any temple in the realm. [responding_bishop.GetSheHeCap] raises [responding_bishop.GetHerHis] voice and nearly screams 'This is unacceptable! You cannot climb into Heaven no matter how much you try, the way to Heaven is the domain of the Church!'.;;;;;;;;;;;"[From.GetBestName] âñòðåòèë[From.GetEndA] Âàñ ïðè äâîðå è âîçìóòè[From.GetLasLsya], ÷òî Âàøà áàøíÿ òåïåðü ïðîñòèðàåòñÿ âûøå ëþáîãî õðàìà ñòðàíû. ×óòü íå ñîðâàâøèñü íà êðèê, [From.GetSheHe] âûðàçèë[From.GetEndA] ïðîòåñò: ""Ýòî âîçìóòèòåëüíî, íåäîïóñòèìî! Ýòî ñôåðà äóõîâíîãî! Òàê Âàì íå äîñòè÷ü Íåáåñ!""";;x
+EVTDESC_WOL_10212;I managed to persuade [responding_bishop.GetBestName] to follow me to the top of the scaffolding so that [responding_bishop.GetSheHe] could properly inspect the tower. The view from the top is breathtakingly beautiful, a fact that [responding_bishop.GetName] soon will experience in the literal sense.;;;;;;;;;;;[From.GetBestName] ñëåäóåò çà ìíîé íà âåðøèíó áàøíè - ìíå óäàëîñü óáåäèòü [From.GetHersHis] îñìîòðåòü ñòðîåíèå ïðåæäå ÷åì âûíîñèòü ñóæäåíèÿ. Âèä ñâåðõó óáèéñòâåííî ïðåêðàñåí, è [From.GetName] âñêîðå îùóòèò ýòî â áóêâàëüíîì ñìûñëå.;;x
+EVTDESC_WOL_10214;As you stretch your arms forward and put all of your body weight behind them to push [responding_bishop.GetBestName] off the tower, [responding_bishop.GetSheHe] suddenly bends down. [responding_bishop.GetSheHeCap] must have found a coin or something. You stumble past [responding_bishop.GetHerHim] and out into the open air.;;;;;;;;;;;Âûñòàâèâ ðóêè âïåð¸ä è ñîñðåäîòèâ âåñ ñâîåãî òåëà ïîçàäè ñâîåé æåðòâû, Âû ñîáðàëèñü ñ ñèëàìè, íå îæèäàÿ, ÷òî [From.GetBestName] ðàçðóøèò Âàøè ïëàíû ñòîëêíóòü [From.GetHersHis] ñ áàøíè ñâîèì âíåçàïíûì ìàí¸âðîì - çàìåòèâ ìîíåòó íà ïîëó, [From.GetSheHe] íàêëîíÿåòñÿ, ÷òîáû ïîäíÿòü å¸, è Âû ïàäàåòå âíèç, ïðîñòèðàÿ ðóêè ê ñâîåé ãèáåëè.;;x
+EVTDESC_WOL_10215;As [responding_bishop.GetBestName] is inspecting the view at the top of the tower, you reach out and and give [responding_bishop.GetHerHim] a gentle push.;;;;;;;;;;;Ïîêà [From.GetBestName] íàñëàæäàåòñÿ ïðåêðàñíûì âèäîì, Âû ëåãîíüêî òîëêàåòå [From.GetHersHis] ñ âåðøèíû áàøíè.;;x
+EVTDESC_WOL_10216;The great tower that you began planning so long ago has finally been finished. A tower this tall can be seen from a long way away and people are equally amazed and frightened by the power you have displayed by accomplishing such a grand feat of construction. During the years of work you have spent your time perfecting your knowledge in the many key aspects of the science of construction - knowledge that will last centuries. The tower is also sure to hold back many thousands of enemy soldiers.;;;;;;;;;;;Âåëèêàÿ áàøíÿ, êîòîðóþ Âû ïëàíèðîâàëè ïîñòðîèòü, ñïóñòÿ ãîäû ðàáîòû, íàêîíåö-òî çàêîí÷åíà. Ñòîëü ãðàíäèîíçíîå ñîîðóæåíèå çàìåòíî èçäàëåêà, îíî ïîðàæàåò ñâîèìè ìàñøòàáàìè è íàâîäèò óæàñ îò ìûñëåé î ìîãóùåñòâå, êîòîðûì äîëæåí îáëàäàòü òîò, êòî ñîçäàë å¸. Ïðîöåññ ñòðîèòåëüñòâà íàó÷èë Âàñ ìíîãîìó î ñîîðóæåíèÿõ, êîòîðûå ïåðåæèâóò âñåõ íàñ è îáåñïå÷àò çàùèòîé îò àðìèé âðàãà.;;x
+EVTDESC_WOL_10218;The angle of inclination of your leaning tower is increasing daily now. Perhaps you should try to save it by propping up the construction?;;;;;;;;;;;Óãîë íàêëîíà áàøíè ðàñò¸ò èçî äíÿ â äåíü. Âîçìîæíî, óêðåïëåíèå êîíñòðóêöèè ñïàñ¸ò å¸?;;x
+EVTDESC_WOL_10220;You wake up in the middle of the night from a loud bang followed by a long rumbling sound as if from the biggest thunderclap you ever heard. You rush to the window in fear, expecting the worst. Your fear proves correct - the leaning tower has finally toppled over and fallen on top of couple of houses who stood no chance against the might of thousands of granite blocks bombarding the roof.;;;;;;;;;;;"Âû ïðîñíóëèñü ñðåäè íî÷è îò æóòêîãî ãðîõîòà, ñîïðîâîæäàþùåãîñÿ âñåîáùåé òðÿñêîé. Áðîñèâøèñü ê îêíó, Âû ïîäòâåðäèëè ñâîè õóäøèå îïàñåíèÿ - ""ïàäàþùàÿ"" áàøíÿ îáðóøèëà âñþ ñâîþ ìîùü íà áëèæàéøèå ïîñòðîéêè. Òå äîìà, êîòîðûå íå ðàçäàâèëî ñðàçó, áûëè óíè÷òîæåíû ãðàäîì òûñÿ÷ ãðàíèòíûõ áëîêîâ.";;x
+EVTDESC_WOL_10300;You wake up and go to the window to greet the sun, and then suddenly realize that your castle garden has been neglected for years and turned into an overgrown and chaotic disgrace. The weeds are knee-high and vines are making it almost impassible without having a sword at hand. Something needs to be done about this.;;;;;;;;;;;Âû ïðîñíóëèñü è ïîäîøëè ê îêíó âñòðåòèòü ïåðâûå ëó÷è ñîëíöà, è ñòîëêíóëèñü ñ íåïðèÿòíîé äåéñòâèòåëüíîñòüþ - Âàø ñàä ãîäàìè áûë â çàïóñòåíèè, åãî íåïðîõîäèìûå çàðîñëè ñòàëè Âàøèì ïîçîðîì. Ñîðíÿêè ïî êîëåíî ïîêðûëè çåìëþ, à ëîçà, îïóòûâàþùàÿ âñ¸ âîêðóã, ñäåëàëà íåêîãäà ïðåêðàñíûé ïåéçàæ íåïðîõîäèìûì. Ñ ýòèì íóæíî ÷òî-òî äåëàòü.;;x
+EVTDESC_WOL_10301;It's hard work to clean out all the weeds from a huge garden. It will take many days and nights of hard labor to finish the preparatory work before you can even begin to grow the hedge maze.;;;;;;;;;;;Äîâîëüíî òðóäíî î÷èñòèòü çàðîñëè äëÿ íîâîãî ñàäà. Ýòî çàéì¸ò ìíîãèå äíè òÿæêîãî òðóäà ïðåæäå ÷åì ïîÿâèòñÿ âîçìîæíîñòü ïðèñòóïèòü ê ñîîðóæåíèþ ëàáèðèíòà.;;x
+EVTDESC_WOL_10302;Now that the hedges are planted and you just need to wait for them to grow, you turn your attention to other details that your garden needs. Should you add some statues to the dead ends of your maze?;;;;;;;;;;;Òåïåðü, êîãäà æèâàÿ èçãîðîäü óñòàíîâëåíà, íóæíî äîæäàòüñÿ ïîêà îíà ïîäðàñò¸ò. Ìîæíî óäåëèòü áîëüøå âíèìàíèÿ äðóãèì äåòàëÿì Âàøåãî ñàäà. Âîçìîæíî, ñòàòóè â ëàáèðèíòå - íåïëîõàÿ èäåÿ.;;x
+EVTDESC_WOL_10303;Any garden with self-respect has a fountain, someone told you once. Now you have the possibility to build a fountain for your garden to flaunt your extravagance.;;;;;;;;;;;Ëþáîé äîñòîéíûé óâàæåíèÿ ñàä çàñëóæèâàåò èìåòü ôîíòàí. Âû ìîæåòå óñòàíîâèòü åãî â ñâî¸ì ñàäó, äàáû ïîêàçàòü ùåäðîñòü è ðîñêîøü.;;x
+EVTDESC_WOL_10304;It's time to fill out the rows of plants around the garden. You could either import exotic flowers from far away or you could plant local species.;;;;;;;;;;;Ïîðà çàïîëíèòü Âàø ñàä ìåñòíûìè è ýêçîòè÷åñêèìè ðàñòåíèÿìè.;;x
+EVTDESC_WOL_10305;There's a spot that is unused in a secluded part of the garden. Some people would say it's a perfect spot for a cosy pavilion.;;;;;;;;;;;Â Âàøåì ñàäó åñòü îäíî íåçàíÿòîå ìåñòî. Íåêîòîðûå ñ÷èòàþò, ÷òî îíî èäåàëüíî ïîäîéäåò äëÿ óþòíîé áåñåäêè.;;x
+EVTDESC_WOL_10401;As your efforts of gaining wealth grow all the more determined, you sleep less and less, since sleeping is not a profitable behavior.;;;;;;;;;;;Ðåøèâ íàïðàâèòü ñâîè óñèëèÿ íà òî, ÷òîáû îáðåñòè áîãàòñòâà, Âû ñòàëè íàìíîãî ìåíüøå ñïàòü, âåäü ñîí - ñîâñåì íå ïðèáûëüíîå çàíÿòèå.;;x
+EVTDESC_WOL_10410;There's a group of carpenters in [carpenters_province.GetName] that are working together more and more, as well as taking on apprentices. This is a situation that cannot be ignored, and so you need to either approve of this carpenters' guild to ensure you have a good reputation amongst the skilled workers, or you could outlaw them to make sure that they're not an impediment on the local market structure.;;;;;;;;;;;Â îêðóãå [From.GetName] ãðóïïà ïëîòíèêîâ ñòàëà ðàáîòàòü ñîâìåñòíî è îáó÷àòü ïîäìàñòåðüåâ. Òåïåðü Âû ìîæåòå ëèáî îäîáðèòü èõ íîâóþ ãèëüäèþ, ÷òîáû çàðó÷èòüñÿ èõ ïîääåðæêîé ëèáî çàïðåòèòü å¸ äëÿ çàùèòû ñâîáîäíîãî ðûíêà.;;x
+EVTDESC_WOL_10420;You have been presented with an opportunity to let everyone be reminded of your rulership. If you wish to mint new coins for your realm, there is a master of the craft that you can hire. Not only will the mintage be exquisite, it will be adorned with a glorious portrait of you.;;;;;;;;;;;Íîâàÿ âîçìîæíîñòü äàòü âñåì íàäîëãî çàïîìíèòü Âàøå ïðàâëåíèå âíåçàïíî ïðîÿâèëàñü ïåðåä Âàìè. Óìåëûé ÷åêàíùèê ìîæåò ñäåëàòü íîâûå ìîíåòû ñ Âàøèì ïðîôèëåì.;;x
+EVTDESC_WOL_10421;A merchant has managed to find out that the coins you had minted are counterfeit. You are being called a cheapskate, since they do not contain the precious metals that they were supposed to consist of.;;;;;;;;;;;Êóïöû âûÿñíèëè, ÷òî â ìîíåòàõ ñíèçèëîñü ñîäåðæàíèå äðàãîöåííûõ ìåòàëëîâ è óæå íå ñîîòâåòñòâóåò èõ ðåàëüíîé ñòîèìîñòè.;;x
+EVTDESC_WOL_10430;[rich_mayor.GetTitledFirstName] approaches you and presents to you a request to buy a small plot of your land in [Root.Capital.GetName]. This is a hard decision to take, since he promises to pay well for the land.;;;;;;;;;;;[From.GetTitledFirstName] îáðàùàåòñÿ ê Âàì ñ ïðåäëîæåíèåì êóïèòü ó Âàñ íåáîëüøîé ó÷àñòîê [Root.Capital.County.GetAdjective]ñêîé çåìëè. Ýòî òðóäíîå ðåøåíèå, ïîñêîëüêó öåíà, êîòîðóþ [From.GetSheHe] ïðåäëàãàåò çàïëàòèòü äîâîëüíî âûñîêà.;;x
+EVTDESC_WOL_10440;A group of craftsmen has come to your court and shown off their work. They present you with fine goods, of which you are sure there would be a demand for in the realm. Noticing your interest, the craftsmen ask for some capital to start up a workshop, saying they lack the funds to do it on their own.;;;;;;;;;;;Ãðóïïà ðåìåñëåííèêîâ ïðèáûëà ê Âàøåìó äâîðó. Îíè ïîêàçàëè ñâîè ëó÷øèå èçäåëèÿ, êîòîðûå íåñîìíåííî áóäóò ïîëüçîâàòüñÿ âûñîêèì ñïðîñîì âíóòðè ñòðàíû, íî ïîïðîñèëè ïîääåðæàòü èõ ñòàðòîâûì êàïèòàëîì, ÷òîáû îòêðûòü íîâûé öåõ, ïîñêîëüêó ó íèõ íå õâàòàåò ñîáñòâåííûõ ñðåäñòâ äëÿ ýòîãî.;;x
+EVTDESC_WOL_10441;The craftsmen that you funded a couple of years ago have returned to tell you of their success. With your support they were able to set up their business, and it's now one of the most profitable enterprises in [artisan_province.GetName].;;;;;;;;;;;Ðåìåñëåííèêè, êîòîðûõ Âû ïîääåðæàëè íåñêîëüêî ëåò íàçàä, âåðíóëèñü, ÷òîáû ðàññêàçàòü îá óñïåõå â ñâî¸ì ïðåäïðèÿòèè. Ñåé÷àñ èõ äåëî ÿâëÿåòñÿ îäíèì èç ñàìûõ ïðèáûëüíûõ â [FromFrom.County.GetAdjective]ñêèõ çåìëÿõ.;;x
+EVTDESC_WOL_10442;There's a faint knock on your door, followed by a small figure peeking into the room. You remember him well, it's one of the craftsmen that you funded a couple of years ago. He shamefully tells you that the enterprise didn't go exactly as planned, and that their workshop is now bankrupt, with nothing to show for it.;;;;;;;;;;;Ïîñëå ñëàáîãî ñòóêà â Âàøó äâåðü, íåáîëüøàÿ ôèãóðà âûãëÿíóëà èç-çà äâåðè. Ýòî îäèí èç ðåìåñëåííèêîâ, êîòîðûõ Âû ïðîôèíàíñèðîâàëè ïàðó ëåò íàçàä. Îí ñòûäëèâî ñîîáùèë Âàì, ÷òî èõ ïðåäïðèÿòèå ïîòåðïåëî êðàõ è îíè òåïåðü áàíêðîòû.;;x
+EVTDESC_WOL_10500;Ever since your pursuit of wealth began and you started keeping a close eye on both income and expenses, your coffers seems to be filled to the brim more often than not.;;;;;;;;;;;Ñ òåõ ïîð êàê Âû ñòàëè âíèìàòåëüíî ñëåäèòü çà ñâîèìè äîõîäàìè è ðàñõîäàìè â ïîãîíå çà áîãàòñòâîì, Âàøè ñóíäóêè çàïîëíÿþòñÿ äî êðà¸â ÷àùå ÷åì ïðåæäå.;;x
+EVTDESC_WOL_10999;More than a month has passed since you set out with your expedition, and you have yet to find a suitable trade partner anywhere. Your crew is homesick, and have now turned the company around to head home.;;;;;;;;;;;Óæå áîëüøå ìåñÿöà ïðîøëî ñ íà÷àëà Âàøåé ýêñïåäèöèè, íî Âû ïî-ïðåæíåìó íå ìîæåòå íàéòè ïîäõîäÿùåãî òîðãîâîãî ïàðòí¸ðà. Âàøè ëþäè òîñêóþò ïî äîìó, è âñ¸ áîëüøå èç íèõ òåõ, êòî íàñòàèâàþò íà òîì, ÷òîáû ïîâåðíóòü íàçàä.;;x
+EVTDESCA_WOL_10109;Dear [Root.GetTitledFirstName]. Of course you shall be compensated for our infringement.\n\nSigned, \n[From.GetTitledFirstName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nÐàçóìååòñÿ, Âû ïîëó÷èòå äîñòîéíóþ êîìïåíñàöèþ çà âìåøàòåëüñòâî â Âàøè èíòåðåñû.\nÏîäïèñü:\n [From.GetTitledFirstName];;x
+EVTDESCA_WOL_10110;The bandits you hired failed with their retrieval of the pack animals. Even worse, some of them were arrested and subsequently revealed your involvement. It seems like this expedition has to be abandoned for now.;;;;;;;;;;;Áàíäèòû, êîòîðûõ Âû íàíÿëè óêðàñòü âüþ÷íûõ æèâîòíûõ, ïðîâàëèëè ñâîþ ìèññèþ. Íî ÷òî åù¸ õóæå, èõ àðåñòîâàëè, è îíè âûäàëè Âàñ êàê ñâîåãî çàêàç÷èêà. Ýêñïåäèöèÿ îòìåíÿåòñÿ.;;x
+EVTDESCA_WOL_10120;As you spend more time talking to [foreign_ruler.GetBestName], you realize that you have a lot more in common than mere business interests.;;;;;;;;;;;×åì áîëüøå [From.GetBestName] è Âû îáñóæäàåòå òîðãîâûå ñîãëàøåíèÿ, òåì ÿñíåå ïîíèìàåòå, ÷òî Âàñ îáúåäèíÿåò ãîðàçäî áîëüøåå ÷åì îáû÷íûå äåëà.;;x
+EVTDESCA_WOL_10204;[stonemason.GetBestName] has been working tirelessly on planning the carving of the stones for the tower. He now approaches you with dark circles under his eyes and petitions you for extra funds, claiming his father is sick and his family needs aid.;;;;;;;;;;;[From.GetBestName] äîëãî è óïîðíî òðóäèëñÿ íàä ñïîñîáàìè ðåàëèçàöèè ïëàíà ñòðîèòåëüñòâà áàøíè. Ñåãîäíÿ ìåøêè ïîä åãî ãëàçàìè íàïóãàëè Âàñ, êîãäà îí ïðèø¸ë ïðîñèòü î äîïîëíèòåëüíîé ïëàòå - îí ñêàçàë, ÷òî åãî ñåìüÿ íóæäàåòñÿ â ïîääåðæêå, ÷òîáû óõàæèâàòü çà áîëüíûì îòöîì.;;x
+EVTDESCA_WOL_10217;Your pride, the tower of [Root.GetName] has begun to lean. People everywhere are sniggering behind your back and making rude jokes about it. The only thing greater than your embarassment is your fear of it actually falling over.;;;;;;;;;;;Âàøà ãîðäîñòü, [Root.County.GetAdjective]ñêàÿ áàøíÿ ñòàëà íàêëîíÿòüñÿ. Ëþäè ñïëåòíè÷àþò çà ìîåé ñïèíîé, âûñìåèâàÿ å¸. Åäèíñòâåííîå, ÷òî ïðåâîñõîäèò ýòîò ïîçîð - ñòðàõ òîãî, ÷òî áàøíÿ óïàä¸ò.;;x
+EVTDESCA_WOL_10219;Your great tower is now strengthened and has stopped tipping, resting at a steady angle of inclination. You hope it will stay like that. It does, however, still lean at a considerable angle and it embarrasses you to admit that you built it.;;;;;;;;;;;Òåïåðü áàøíÿ óêðåïëåíà, è å¸ íàêëîí íå áóäåò íàðàñòàòü, ÿ íàäåþñü. Îäíàêî, òî, êàê îíà íàêëîíåíà ñåé÷àñ íàïîìèíàåò î ìî¸ì ïîçîðå.;;x
+EVTDESCA_WOL_10221;You have been informed that a foreign statesman from far away has arrived to your realm and you head out to greet his entourage in person. When you meet up with them you prepare to exchange noble pleasantries, but you don't even have time to introduce yourself before you are interrupted with a question: 'Where is [tower_founder.GetBestName], the magnificent mind behind this masterly work? I would pay well to meet this genius in person,' the statesman blurts out while pointing at the leaning tower.;;;;;;;;;;;"Âàñ ïðîèíôîðìèðîâàëè î òîì, ÷òî èíîñòðàííûé ïðåäñòàâèòåëü ïðèáûë ñ âèçèòîì â Âàøó ñòðàíó, ïîñëå ÷åãî Âû ïîñïåøèëè ëè÷íî ïîïðèâåòñòâîâàòü åãî, íî íå óñïåâ âûìîëâèòü è ñëîâà, óñëûøàëè âîïðîñ: ""Ãäå æå [tower_founder.GetBestName], áëåñòÿùèé óì, ñòîÿùèé çà ýòîé ïîòðÿñàþùåé ðàáîòîé? ß õîðîøî çàïëà÷ó çà ïðàâî ëè÷íî âñòðåòèòüñÿ ñ ýòèì ÷åëîâåêîì."" — âûïàëèë îí, íå îòðûâàÿ âçãëÿäà îò ""ïàäàþùåé"" áàøíè.";;x
+EVTDESCA_WOL_10306;The hedge maze and garden are finally finished. The expensive and exclusive details you added have not gone unnoticed and your garden has gained fame for it's magnificence across many realms. While creating the garden you also learned much about how to make things grow and flourish around you - flowers as well as relationships.;;;;;;;;;;;Âàø ñàä ñ ëàáèðèíòîì íàêîíåö çàâåðø¸í. Äîðîãèå è èçûñêàííûå äåòàëè, èñêóñíàÿ ðàáîòà - âñ¸ ýòî íå îñòàëîñü íåçàìå÷åííûì, è Âàø ñàä ïðîñëàâèëñÿ ñâîèì âåëèêîëåïèåì íà âñþ ñòðàíó. Â ïðîöåññå ðàáîòû íàä ñàäîì, Âû ïîñòèãëè òîíêîñòè èñêóññòâà óêðàøåíèÿ âñåãî, ÷òî Âàñ îêðóæàåò.;;x
+EVTDESCB_WOL_10109;Dear [Root.GetTitledFirstName]. I understand your concerns but my undertakings are none of your business.\n\nSigned, \n[From.GetTitledFirstName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nÂàøå íåãîäîâàíèå îáúÿñíèìî, íî íåïðàâîìåðíî. Ñîãëàøåíèÿ ñîñåäíåãî ñóâåðåííîãî ãîñóäàðñòâà Âàñ íå êàñàþòñÿ.\nÏîäïèñü:\n [From.GetTitledFirstName];;x
+EVTDESCB_WOL_10110;The bandits you hired failed with their retrieval of the ship. Even worse, some of them were arrested and subsequently revealed your involvement. It seems like this expedition has to be abandoned for now.;;;;;;;;;;;Áàíäèòû, êîòîðûõ Âû íàíÿëè óêðàòü êîðàáëü, ïðîâàëèëè ñâîþ ìèññèþ. Íî ÷òî åù¸ õóæå, èõ àðåñòîâàëè, è îíè âûäàëè Âàñ êàê ñâîåãî çàêàç÷èêà. Ýêñïåäèöèÿ îòìåíÿåòñÿ.;;x
+EVTDESCB_WOL_10120;After long hours negotiating and discussing possible terms of trade, you and [foreign_ruler.GetBestName] seem to have arrived at a mutual understanding.;;;;;;;;;;;Ñïóñòÿ äîëãèå ÷àñû îáñóæäåíèé áóäóùèõ òîðãîâûõ îïåðàöèé, Âû è [From.GetBestName] íàêîíåö ïðèõîäèòå ê ñîãëàøåíèþ, êîòîðîå óñòðàèâàåò âñåõ.;;x
+EVTDESCB_WOL_10204;[stonemason.GetBestName] comes up to you and complains about what hard and tiresome work it is to plan out how to carve the stones for the tower. He therefore asks you for more payment to finish the plans since he has already used up the first payment. Strangely enough, according to rumor he seems to have had a lot of time to spare chasing after women in your court.;;;;;;;;;;;[From.GetBestName] ïðèø¸ë ê Âàì, ÷òîáû îò÷èòàòüñÿ î ñïîñîáàõ ðåàëèçàöèè ïëàíà ïî ñòðîèòåëüñòâó áàøíè. Îí ãîâîðèò, ÷òî ïðîåêò î÷åíü ñëîæíûé è òðåáóåò îñîáîãî ïîäõîäà, ïîýòîìó ïðîñèò ó Âàñ äîïîëíèòåëüíóþ ïëàòó ïîìèìî òîé, êîòîðóþ óæå ïîëó÷èë. Ñòðàííî, ó÷èòûâàÿ ñëóõè î òîì, ñêîëüêî âðåìåíè îí ïðîâîäèò â êîìïàíèè ïðåêðàñíûõ äåâóøåê ïðè äâîðå.;;x
+EVTDESCB_WOL_10217;Before you owned the lands of the county [Root.GetName] a tall tower was built here by [tower_founder.GetBestName]. Now after years of standing proud vigil the tower has begun to lean and people are worried that it might fall over.;;;;;;;;;;;Âû óæå çíàåòå, ÷òî ïðåæäå ÷åì [Root.County.GetAdjective]ñêèå çåìëè ñòàëè Âàøèìè, îíè íàâñåãäà îáðåëè èçâåñòíîñòü, áëàãîäàðÿ áàøíå, è å¸ ñîçäàòåëþ, èçâåñòíîìó êàê [tower_founder.GetBestName]. Òåïåðü æå ýòà áàøíÿ ñòàëà íàêëîíÿòüñÿ è ëþäè áåñïîêîÿòñÿ, ÷òî îíà óïàä¸ò â ëþáîé ìîìåíò.;;x
+EVTDESCB_WOL_10219;Your great tower is now strengthened and has stopped tipping, resting at a steady angle of inclination. You hope it will stay like that. It does, however, still lean at a considerable angle and it looks quite weird.;;;;;;;;;;;Òåïåðü áàøíÿ óêðåïåíà, è, íàäåþñü, å¸ íàêëîí íå áóäåò íàðàñòàòü, íî òî, êàê îíà óæå âûãëÿäèò ïðèäà¸ò åé ñòðàííûé âèä.;;x
+EVTDESCB_WOL_10221;You have been informed that a foreign statesman from far away has arrived to your realm and you head out to greet his entourage in person. When you meet up with them you prepare to exchange noble pleasantries but you don't even have time to introduce yourself before you are interrupted with a question: 'Where is [tower_founder.GetBestName], the magnificent mind behind this masterly work? Especially the slanted door and uneven stairs are fresh and new details. I would pay well to meet this genius in person,' the statesman blurts out while pointing at the leaning tower.;;;;;;;;;;;"Âàñ ïðîèíôîðìèðîâàëè î òîì, ÷òî èíîñòðàííûé ïðåäñòàâèòåëü ïðèáûë ñ âèçèòîì â Âàøó ñòðàíó, ïîñëå ÷åãî Âû ïîñïåøèëè ëè÷íî ïîïðèâåòñòâîâàòü åãî, íî íå óñïåâ âûìîëâèòü è ñëîâà, óñëûøàëè âîïðîñ: ""Ãäå æå [tower_founder.GetBestName], áëåñòÿùèé óì, ñòîÿùèé çà ýòîé ïîòðÿñàþùåé ðàáîòîé? À ýòà íàêëîííàÿ äâåðü è èñêðèâë¸ííàÿ ëåñòíèöà - êàê ýòî íåîáû÷íî! ß õîðîøî çàïëà÷ó çà ïðàâî ëè÷íî âñòðåòèòüñÿ ñ ýòèì ÷åëîâåêîì."" — âûïàëèë îí, íå îòðûâàÿ âçãëÿäà îò ""ïàäàþùåé"" áàøíè.";;x
+EVTDESCB_WOL_10306;The hedge maze and garden are finally finished. A complex hedge maze such as this is sure to grab the attention of people across the realm. While creating the garden you also learned much about how to make things grow and flourish around you - flowers as well as relationships.;;;;;;;;;;;Âàø ñàä ñ ëàáèðèíòîì íàêîíåö çàâåðø¸í. Íåñîìíåííî, ëàáèðèíò ïðèâë¸ê âíèìàíèå ëþäåé ïî âñåé ñòðàíå. Â ïðîöåññå ðàáîòû íàä ñàäîì, Âû ïîñòèãëè òîíêîñòè èñêóññòâà óêðàøåíèÿ âñåãî, ÷òî Âàñ îêðóæàåò, à Âàøè îòíîøåíèÿ ñ ëþäüìè ðàñöâåëè, êàê ðàñòåíèÿ â Âàøåì ñàäó.;;x
+EVTDESCC_WOL_10120;The increasingly difficult negotiations between you and [foreign_ruler.GetBestName] are suddenly interrupted when [foreign_ruler.GetBestName] slams [foreign_ruler.GetHerHis] fist on the table. It seems like [foreign_ruler.GetSheHe] can no longer bear your presence in the room and when you decide to leave he shouts '[GetFromRootInsult]' after you.;;;;;;;;;;;"Ïåðåãîâîðû âíåçàïíî ïðåêðàòèëèñü - [From.GetBestName] óäàðèë[From.GetEndA] êóëàêîì ïî ñòîëó. Ïîõîæå [From.GetSheHe] áîëüøå íå ìîæåò òåðïåòü Âàøå ïðèñóòñòâèå, è êîãäà Âû óøëè, òî óñëûøàëè ëèøü ""[GetFromRootInsult]"" â ñâîé àäðåñ.";;x
+EVTDESCC_WOL_10221;You have been informed that a foreign statesman from far away has arrived to your realm and you head out to greet his entourage in person. When you meet up with them you prepare to exchange noble pleasantries but you don't even have time to introduce yourself before you are interrupted with a question. 'Where is [stonemason.GetBestName], the magnificent mind behind this masterly work? I would pay well to meet this genius in person,' the statesman blurts out while pointing at the leaning tower.;;;;;;;;;;;"Âàñ ïðîèíôîðìèðîâàëè î òîì, ÷òî èíîñòðàííûé ïðåäñòàâèòåëü ïðèáûë ñ âèçèòîì â Âàøó ñòðàíó, ïîñëå ÷åãî Âû ïîñïåøèëè ëè÷íî ïîïðèâåòñòâîâàòü åãî, íî íå óñïåâ âûìîëâèòü è ñëîâà, óñëûøàëè âîïðîñ: ""Ãäå æå [stonemason.GetBestName], áëåñòÿùèé óì, ñòîÿùèé çà ýòîé ïîòðÿñàþùåé ðàáîòîé? ß õîðîøî çàïëà÷ó çà ïðàâî ëè÷íî âñòðåòèòüñÿ ñ ýòèì ÷åëîâåêîì."" — âûïàëèë îí, íå îòðûâàÿ âçãëÿäà îò ""ïàäàþùåé"" áàøíè.";;x
+EVTDESCD_WOL_10221;You have been informed that a foreign statesman from far away has arrived to your realm and you head out to greet his entourage in person. When you meet up with them you prepare to exchange noble pleasantries but you don't even have time to introduce yourself before you are interrupted with a question. 'Where is [stonemason.GetBestName], the magnificent mind behind this masterly work? Especially the slanted door and uneven stairs are fresh and new ideas. I would pay well to meet this genius in person,' the statesman blurts out while pointing at the leaning tower.;;;;;;;;;;;"Âàñ ïðîèíôîðìèðîâàëè î òîì, ÷òî èíîñòðàííûé ïðåäñòàâèòåëü ïðèáûë ñ âèçèòîì â Âàøó ñòðàíó, ïîñëå ÷åãî Âû ïîñïåøèëè ëè÷íî ïîïðèâåòñòâîâàòü åãî, íî íå óñïåâ âûìîëâèòü è ñëîâà, óñëûøàëè âîïðîñ: ""Ãäå æå [stonemason.GetBestName], áëåñòÿùèé óì, ñòîÿùèé çà ýòîé ïîòðÿñàþùåé ðàáîòîé? À ýòà íàêëîííàÿ äâåðü è èñêðèâë¸ííàÿ ëåñòíèöà - êàê ýòî íåîáû÷íî! ß õîðîøî çàïëà÷ó çà ïðàâî ëè÷íî âñòðåòèòüñÿ ñ ýòèì ÷åëîâåêîì."" — âûïàëèë îí, íå îòðûâàÿ âçãëÿäà îò ""ïàäàþùåé"" áàøíè.";;x
+EVTOPTA_WOL_10101;Discuss it with [From.GetTitledFirstName].;;;;;;;;;;;Ïîõîæå, íàì åñòü ÷òî îáñóäèòü.;;x
+EVTOPTA_WOL_10102;Let's organize an expedition.;;;;;;;;;;;Äàâàéòå ñíàðÿäèì ýêñïåäèöèþ.;;x
+EVTOPTA_WOL_10103;Purchase them. We'll need the best ones available.;;;;;;;;;;;Ìû êóïèì ëó÷øèõ èç íèõ.;;x
+EVTOPTA_WOL_10104;Buy the merchant ship for the journey.;;;;;;;;;;;ß êóïëþ ýòîò êîðàáëü.;;x
+EVTOPTA_WOL_10105;Of course, it will be an honor to have you with us.;;;;;;;;;;;Ïî÷òó çà ÷åñòü.;;x
+EVTOPTA_WOL_10106;Oh well.;;;;;;;;;;;Ñîæàëåþ, ÷òî òàê âûøëî.;;x
+EVTOPTA_WOL_10107;Demand monetary compensation.;;;;;;;;;;;Ïîïðîñèì ó íèõ äåíüãè.;;x
+EVTOPTA_WOL_10108;Here are some coins for the [From.GetTitle].;;;;;;;;;;;Äóìàþ, ýòîé ñóììû áóäåò äîñòàòî÷íî.;;x
+EVTOPTA_WOL_10109;Great!;;;;;;;;;;;Ïðåâîñõîäíî!;;x
+EVTOPTA_WOL_10110;That's terrible!;;;;;;;;;;;Ñåäüìîå ïåêëî!;;x
+EVTOPTA_WOL_10111;To foreign lands!;;;;;;;;;;;Âïåð¸ä íàâñòðå÷ó ïðèêëþ÷åíèÿì!;;x
+EVTOPTA_WOL_10114_CAMELS;A dozen sturdy camels.;;;;;;;;;;;Äþæèíó êðåïêèõ âåðáëþäîâ.;;x
+EVTOPTA_WOL_10114_ELEPHANT;A mighty elephant.;;;;;;;;;;;Ìîãó÷åãî ñëîíà.;;x
+EVTOPTA_WOL_10114_HORSES;A dozen strong horses.;;;;;;;;;;;Ëó÷øèõ ëîøàäåé.;;x
+EVTOPTA_WOL_10114_WARRIORS;A dozen tough warriors.;;;;;;;;;;;Äþæèíó ëó÷øèõ âîèíîâ.;;x
+EVTOPTA_WOL_10116;[steward.GetBestName] is only acting in accordance to [steward.GetHerHis] religion.;;;;;;;;;;;Òàê [steward.GetSheHe] ÷òèò ñâîþ âåðó.;;x
+EVTOPTA_WOL_10118;This must be stopped.;;;;;;;;;;;Çàêàí÷èâàéòå ýòîò áàëàãàí!;;x
+EVTOPTA_WOL_10120;I've gained both a friend and a profitable agreement.;;;;;;;;;;;Õîðîøèé äîãîâîð ìåæäó õîðîøèìè äðóçüÿìè!;;x
+EVTOPTA_WOL_10123;I should apply some of these tricks when managing my own finances.;;;;;;;;;;;Ýòè ïðè¸ìû ïîìîãóò ìíå â óïðàâëåíèè ôèíàíñàìè.;;x
+EVTOPTA_WOL_10125;More money is always needed.;;;;;;;;;;;Äåíåã ìíîãî íå áûâàåò.;;x
+EVTOPTA_WOL_10126;I will reward [steward.GetHerHim] appropriately.;;;;;;;;;;;[steward.GetSheHeCap] ïîëó÷èò äîñòîéíóþ íàãðàäó.;;x
+EVTOPTA_WOL_10128;At least I learned something.;;;;;;;;;;;Ïîðàæåíèå - òîæå öåííûé îïûò.;;x
+EVTOPTA_WOL_10130;I need to keep this trade route running.;;;;;;;;;;;Òîðãîâëÿ äîëæíà ïðîäîëæàòüñÿ.;;x
+EVTOPTA_WOL_10200;This will be glorious.;;;;;;;;;;;Ýòî áóäåò ãðàíäèîçíî!;;x
+EVTOPTA_WOL_10201;I know a craftsman that has the skill.;;;;;;;;;;;ß çíàþ ìàñòåðà ñ ïîäõîäÿùèìè íàâûêàìè.;;x
+EVTOPTA_WOL_10202;The doubters will be proven wrong.;;;;;;;;;;;Ñêîðî âû âñ¸ óâèäèòå ñàìè.;;x
+EVTOPTA_WOL_10204;Very well, but make sure to carry on with your work.;;;;;;;;;;;Õîðîøî, íî óáåäèñü, ÷òî ñïðàâèøüñÿ ñ çàäà÷åé.;;x
+EVTOPTA_WOL_10205;Import the stone.;;;;;;;;;;;Êóïèì êàìåíü.;;x
+EVTOPTA_WOL_10206;Peasants are expendable.;;;;;;;;;;;Êðåñòüÿíå - ëèøü ðàñõîäíûé ìàòåðèàë.;;x
+EVTOPTA_WOL_10207;That's too bad.;;;;;;;;;;;Î÷åíü ïëîõî.;;x
+EVTOPTA_WOL_10210;Go back to your old scriptures.;;;;;;;;;;;Çàéìèòåñü ëó÷øå ñâîèìè... ïûëüíûìè ïèñüìåíàìè.;;x
+EVTOPTA_WOL_10212;Careful there...;;;;;;;;;;;Îñòîðîæíî!;;x
+EVTOPTA_WOL_10214;Oh dear...;;;;;;;;;;;ÍÅÅÅÅÒ!;;x
+EVTOPTA_WOL_10215;Oh dear.;;;;;;;;;;;Îé.;;x
+EVTOPTA_WOL_10216;I am truly a professional builder now.;;;;;;;;;;;Ïîëàãàþ, ÿ - ïðîôåññèîíàë â ñâî¸ì äåëå.;;x
+EVTOPTA_WOL_10217;This is all the mason's fault!;;;;;;;;;;;Ïðîêëÿòûå êàìåíùèêè!;;x
+EVTOPTA_WOL_10218;I must save the tower at whatever cost!;;;;;;;;;;;ß ñïàñó ýòó áàøíþ ëþáîé öåíîé!;;x
+EVTOPTA_WOL_10219;At least it didn't fall on someone's head.;;;;;;;;;;;Ïî êðàéíåé ìåðå, îíà íå óïàä¸ò êîìó-íèáóäü íà ãîëîâó.;;x
+EVTOPTA_WOL_10220;I hope no one got hurt.;;;;;;;;;;;Íàäåþñü, íèêòî íå ïîñòðàäàë.;;x
+EVTOPTA_WOL_10221;Uhm. Of course, I'll fetch him from my, humm... court.;;;;;;;;;;;Ýììì... Ðàçóìååòñÿ. Åãî ñåé÷àñ *êõìì* ïðèâåäóò...;;x
+EVTOPTA_WOL_10300;I'll make sure to make this a real garden with a glorious hedge maze!;;;;;;;;;;;Çäåñü áóäåò íàñòîÿùèé ñàä ñ ëàáèðèíòîì!;;x
+EVTOPTA_WOL_10301;I'll do it myself.;;;;;;;;;;;Ýòî ñäåëàþ ÿ.;;x
+EVTOPTA_WOL_10302;I'll add some magnificent statues of my family.;;;;;;;;;;;Îñîáåííî ñòàòóè ìîåé ñåìüè.;;x
+EVTOPTA_WOL_10303;I'll build a large fountain in the middle.;;;;;;;;;;;Áîëüøîé ôîíòàí â öåíòðå.;;x
+EVTOPTA_WOL_10304;Let's import flowers to bring that exotic flavor.;;;;;;;;;;;ß çàêàæó ðåäêèå öâåòû èç äàë¸êèõ ñòðàí.;;x
+EVTOPTA_WOL_10305;That sounds romantic, let's do it.;;;;;;;;;;;Ðîìàíòè÷íî. Òàê è ñäåëàþ.;;x
+EVTOPTA_WOL_10306;I like to see things flourish.;;;;;;;;;;;Ýòî è åñòü ïðîöâåòàíèå.;;x
+EVTOPTA_WOL_10401;I must have more gold!;;;;;;;;;;;Ìíå íóæíî áîëüøå çîëîòà!;;x
+EVTOPTA_WOL_10410;I'll support the carpenters.;;;;;;;;;;;ß ïîääåðæó ïëîòíèêîâ.;;x
+EVTOPTA_WOL_10420;Mint the coins for glory.;;;;;;;;;;;Äà áóäåò òàê.;;x
+EVTOPTA_WOL_10421;People might taunt my face on those coins now.;;;;;;;;;;;Òåïåðü âñå çíàþò ÷åãî ÿ íà ñàìîì äåëå ñòîþ.;;x
+EVTOPTA_WOL_10430;I do need the gold...;;;;;;;;;;;Ìíå íóæíû äåíüãè.;;x
+EVTOPTA_WOL_10440;This is a sound investment.;;;;;;;;;;;Ýòî âûãîäíîå âëîæåíèå.;;x
+EVTOPTA_WOL_10441;Great! More taxes for me.;;;;;;;;;;;Ïðåâîñõîäíî! Áîëüøå äåíåã â êàçíó.;;x
+EVTOPTA_WOL_10442;That was a bad investment...;;;;;;;;;;;Íåóäà÷íîå áûëî âëîæåíèå...;;x
+EVTOPTA_WOL_10500;A thriving economy is good for the realm.;;;;;;;;;;;Ðàçâèòèå ýêîíîìèêè ïîëåçíî äëÿ ñòðàíû â öåëîì.;;x
+EVTOPTA_WOL_10999;Tough luck.;;;;;;;;;;;Óäà÷à îòâåðíóëàñü îò íàñ.;;x
+EVTOPTB_WOL_10101;I have more important matters to attend to.;;;;;;;;;;;Ó ìåíÿ åñòü äåëà ïîâàæíåå.;;x
+EVTOPTB_WOL_10102;My money has better uses.;;;;;;;;;;;ß íàéäó äåíüãàì ïðèìåíåíèå ïîëó÷øå.;;x
+EVTOPTB_WOL_10103;Hire a crew of bandits to steal the animals.;;;;;;;;;;;Íàéì¸ì áàíäèòîâ, ÷òîáû èõ óêðàñòü.;;x
+EVTOPTB_WOL_10104;Hire a crew of bandits to steal the ship.;;;;;;;;;;;Íàéìó áàíäèòîâ, ÷òîáû óêðàñòü êîðàáëü.;;x
+EVTOPTB_WOL_10105;No, I can't risk them getting in the way.;;;;;;;;;;;Ëèøíèå ãëàçà è óøè â ýòîì äåëå ìíå íè ê ÷åìó.;;x
+EVTOPTB_WOL_10106;We're helping these men to a life without crime.;;;;;;;;;;;Ìû ïîìîãàåì èì èñïðàâèòüñÿ è ñòàòü ëó÷øå.;;x
+EVTOPTB_WOL_10107;Never mind.;;;;;;;;;;;Ýòî èõ ïðàâî.;;x
+EVTOPTB_WOL_10108;This is none of your business.;;;;;;;;;;;Ýòî íå Âàøå äåëî.;;x
+EVTOPTB_WOL_10109;That pirate!;;;;;;;;;;;Íåñëûõàííàÿ íàãëîñòü!;;x
+EVTOPTB_WOL_10114;A chest with quality cloth from back home.;;;;;;;;;;;Ñóíäóê ëó÷øåé îäåæäû.;;x
+EVTOPTB_WOL_10116;Please excuse [steward.GetHerHim], I am still trying to teach this barbarian proper manners.;;;;;;;;;;;Ïðîøó, ïðîñòèòå [steward.GetHersHis], [steward.GetHerHim] íå äîñòà¸ò ìàíåð.;;x
+EVTOPTB_WOL_10118;I will intervene with my charm and soothe the debaters.;;;;;;;;;;;Ñïîêîéíî, Âû ãîâîðèòå îá îäíîì ðàçíûìè ñëîâàìè.;;x
+EVTOPTB_WOL_10120;This will be a profitable agreement.;;;;;;;;;;;Âûãîäíàÿ ñäåëêà.;;x
+EVTOPTB_WOL_10126;[steward.GetSheHeCap] was just doing [steward.GetHerHis] duty.;;;;;;;;;;;Ýòî âñåãî ëèøü [steward.GetHersHis] ðàáîòà.;;x
+EVTOPTB_WOL_10130;It's too expensive.;;;;;;;;;;;Ýòî ñëèøêîì äîðîãî.;;x
+EVTOPTB_WOL_10200;But I won't be able to afford it.;;;;;;;;;;;Íî ñåé÷àñ ÿâíî íå äî òîãî.;;x
+EVTOPTB_WOL_10201;Any boy off the street will do fine.;;;;;;;;;;;Ëþáîé êàìåíùèê ñïðàâèòñÿ ñ ýòèì.;;x
+EVTOPTB_WOL_10204;You're just using the money on your lustful adventures.;;;;;;;;;;;ß íå ñîáèðàþñü îïëà÷èâàòü òâîè ïîõîæäåíèÿ.;;x
+EVTOPTB_WOL_10205;Build a quarry.;;;;;;;;;;;Ïîñòðîèì êàìåíîëîìíþ.;;x
+EVTOPTB_WOL_10206;I will compensate the families for their loss.;;;;;;;;;;;Ñîáîëåçíóþ ñåìüÿì ïîãèáøèõ. ß âñ¸ âîçìåùó.;;x
+EVTOPTB_WOL_10210;I guess we can cut some height off the tower.;;;;;;;;;;;"Äóìàþ, ìîæíî íåìíîãî ""óðåçàòü"" å¸ âûñîòó.";;x
+EVTOPTB_WOL_10216;This is merely a spare time pursuit.;;;;;;;;;;;Ýòî âñåãî ëèøü õîááè, íå áîëåå.;;x
+EVTOPTB_WOL_10217;This is the result of lazy workers not following instructions!;;;;;;;;;;;Êðèâîðóêèå áåçäåëüíèêè!;;x
+EVTOPTB_WOL_10218;I will put in reasonable effort to save the tower.;;;;;;;;;;;Äåëàéòå, ÷òî íóæíî. Ñïàñèòå áàøíþ.;;x
+EVTOPTB_WOL_10221;I'll fetch him right away.;;;;;;;;;;;ß íåìåäëåííî ïîøëþ çà íèì.;;x
+EVTOPTB_WOL_10300;But there's so little time.;;;;;;;;;;;Íî ó ìåíÿ ñîâñåì íåò âðåìåíè.;;x
+EVTOPTB_WOL_10301;I'll need to acquire a helping hand.;;;;;;;;;;;Ìíå ïîòðåáóåòñÿ ïîìîùü.;;x
+EVTOPTB_WOL_10302;I'll add some beautiful statues of religious figures.;;;;;;;;;;;Ðåëèãèîçíûå ñòàòóè ïîäîéäóò.;;x
+EVTOPTB_WOL_10303;I'll have a fountain and wine shall flow through it all days of the week.;;;;;;;;;;;Ýòî áóäåò ôîíòàí ñ âèíîì.;;x
+EVTOPTB_WOL_10304;The local flora is as beautiful as any other flowers can be.;;;;;;;;;;;Çäåøíÿÿ ôëîðà áóäåò âûãëÿäåòü ãàðìîíè÷íåå.;;x
+EVTOPTB_WOL_10305;That sounds a bit too romantic for my taste.;;;;;;;;;;;Ñëèøêîì ïðèòîðíî äëÿ ìåíÿ.;;x
+EVTOPTB_WOL_10306;But I am not ready to commit to a pastime so whole-heartedly...;;;;;;;;;;;Íî ÿ íå ãîòîâ[Root.GetEndA] ïîëíîñòüþ ïîñâÿòèòü ñåáÿ ýòîìó çàíÿòèþ...;;x
+EVTOPTB_WOL_10410;Outlaw the guilds.;;;;;;;;;;;Ãèëüäèè - çëî. Èõ íóæíî çàïðåòèòü.;;x
+EVTOPTB_WOL_10420;Debase the mints with less precious metals for profits.;;;;;;;;;;;Ëó÷øå óìåíüøèòü ñîäåðæàíèå äðàãìåòàëëà â ìîíåòàõ.;;x
+EVTOPTB_WOL_10430;There's not enough gold in your pockets to buy my land.;;;;;;;;;;;Ó Âàñ íå õâàòèò çîëîòà êóïèòü ìîþ çåìëþ.;;x
+EVTOPTB_WOL_10440;No. Your lack of funds is not my problem.;;;;;;;;;;;Íåõâàòêà ñðåäñòâ - ýòî âàøà ïðîáëåìà, íå ìîÿ.;;x
+EVTOPTC_WOL_10103;On second thought, I really can't afford this.;;;;;;;;;;;×åñòíî ãîâîðÿ, ýêñïåäèöèÿ ìíå íå ïî êàðìàíó.;;x
+EVTOPTC_WOL_10104;On second thought, I really can't afford this.;;;;;;;;;;;×åñòíî ãîâîðÿ, ýòî ìíå íå ïî êàðìàíó.;;x
+EVTOPTC_WOL_10114;A pouch of rare herbs.;;;;;;;;;;;Ìåøîê ðåäêèõ òðàâ.;;x
+EVTOPTC_WOL_10116;I'm hungry too!;;;;;;;;;;;ß òîæå õî÷ó åñòü.;;x
+EVTOPTC_WOL_10118;These heretics need to see the error of their ways.;;;;;;;;;;;Ýòî åðåñü! Òàêèå âûñêàçûâàíèÿ íåäîïóñòèìû.;;x
+EVTOPTC_WOL_10120;I guess that was it then.;;;;;;;;;;;Äóìàþ, ýòî ñëó÷èëîñü, êîãäà...;;x
+EVTOPTC_WOL_10204;Very well, but make sure to carry on with your work.;;;;;;;;;;;Õîðîøî, íî óáåäèñü, ÷òî ñïðàâèøüñÿ ñ çàäà÷åé.;;x
+EVTOPTC_WOL_10205;I could reuse some old building materials from the castle.;;;;;;;;;;;Ìîæíî âçÿòü êàìåíü èç ñòàðûõ ïîñòðîåê.;;x
+EVTOPTC_WOL_10210;I only follow the word of [Root.Religion.GetRandomGodName].;;;;;;;;;;;ß ëèøü äåëàþ òî, ÷òî [Root.Religion.GetHighGodName] ïîâåëåë[Root.GetHGodEndA] ìíå.;;x
+EVTOPTC_WOL_10217;It's my own fault, unfortunately.;;;;;;;;;;;Ê íåñ÷àñòüþ, ýòî ìîÿ âèíà.;;x
+EVTOPTC_WOL_10218;I will put my trust in destiny.;;;;;;;;;;;ß óïîâàþ íà ñóäüáó.;;x
+EVTOPTC_WOL_10221;He's not here. He's got more important matters to attend to.;;;;;;;;;;;Åãî çäåñü íåò. Ó íåãî âàæíûå äåëà.;;x
+EVTOPTC_WOL_10301;The servants could use some more work.;;;;;;;;;;;Ñëóãè ñìîãóò ýòî ñäåëàòü.;;x
+EVTOPTC_WOL_10302;The shadows are enough decoration in the dead ends.;;;;;;;;;;;Òåíü ëèñòâû - ëó÷øåå óêðàøåíèå.;;x
+EVTOPTC_WOL_10303;It's not worth spending money on.;;;;;;;;;;;Íå çà÷åì òðàòèòü íà ýòî äåíüãè.;;x
+EVTOPTC_WOL_10420;No, there's no need for additional currencies.;;;;;;;;;;;Íîâàÿ âàëþòà íàì íè ê ÷åìó.;;x
+EVTOPTD_WOL_10114;My courtesy should be enough of a gift.;;;;;;;;;;;Ìîé âèçèò - ñàì ïî ñåáå ïîäàðîê.;;x
+EVTOPTD_WOL_10118;These heathens need to see the error of their ways.;;;;;;;;;;;Èíîâåðöàì íå ïîíÿòü èñòèííîå ó÷åíèå.;;x
+EVTOPTD_WOL_10204;I already paid you, now get to it!;;;;;;;;;;;ß ïëà÷ó òåáå çà ðàáîòó, âîò èäè è ðàáîòàé!;;x
+EVTOPTD_WOL_10210;[responding_bishop.GetSheHeCap]'s onto me. [responding_bishop.GetSheHeCap] must disappear.;;;;;;;;;;;*íàäî èçáàâèòüñÿ îò í[From.GetHersHis]*;;x
+EVTOPTD_WOL_10217;How unfortunate. It is a fine tower.;;;;;;;;;;;Âåñüìà ïðèñêîðáíî. Ýòî õîðîøàÿ áàøíÿ.;;x
+EVTOPTD_WOL_10221;You are talking to [Root.GetHerHim] right now.;;;;;;;;;;;Âû ãîâîðèòå ñ íèì ïðÿìî ñåé÷àñ.;;x
+EVTOPTE_WOL_10221;It was constructed here before my rule.;;;;;;;;;;;Ýòî ÷óäî áûëî ïîñòðîåíî äî ìîåãî ïðàâëåíèÿ.;;x
+EVTOPTF_WOL_10221;Uhm. Of course, I'll fetch him from my, humm... court.;;;;;;;;;;;Ýììì... Ðàçóìååòñÿ. Åãî ñåé÷àñ *êõìì* ïðèâåäóò...;;x
+EVTOPTG_WOL_10221;[stonemason.GetSheHeCap] is not here right now. [stonemason.GetSheHeCap]'s got more important matters to deal with.;;;;;;;;;;;Ñåé÷àñ [stonemason.GetHersHis] íåò, ó í[stonemason.GetHersHis] íåîòëîæíûå äåëà.;;x
+EVTTOOLTIPWOL10210;§Y[responding_bishop.GetBestName]§! will be lured to the top of the tower...;;;;;;;;;;;§Y[From.GetBestName]§! çàìàíèòñÿ íà âåðøèíó áàøíè.;;x
+EVTTOOLTIPWOL10212;[Root.GetName] pushes [responding_bishop.GetName].;;;;;;;;;;;[Root.GetName] òîëêàåò ÷åëîâåêà ïî èìåíè [From.GetName].;;x
+EVTTOOLTIPWOL10302;Your §YDynasty§! will appreciate this gesture.\n;;;;;;;;;;;Âàøà §Yäèíàñòèÿ§! îöåíèò ýòîò æåñò.\n;;x
+EVTTOOLTIPWOL10440;A workshop will set up in [artisan_province.GetName], and begin preparation for producing goods.;;;;;;;;;;;Öåõ íà÷íåò ïðîèçâîäèòü òîâàðû â îêðóãå [From.GetName].;;x

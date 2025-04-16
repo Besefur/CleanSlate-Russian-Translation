@@ -1,65 +1,64 @@
-action_administer_realm;Administer Realm;;;;;;;;;;;;;x
-action_administer_realm_desc;The [GetMyTreasurerName] will strive to improve your Demesne. Increases culture conversion chance and prosperity gain.;;;;;;;;;;;;;x
-action_advance_cul_tech;Research Cultural Tech;;;;;;;;;;;;;x
-action_advance_cul_tech_desc;Send your [GetMyLordSpiritualName] to work for the advancement of Culture in a county.;;;;;;;;;;;;;x
-action_advance_eco_tech;Research Economy Tech;;;;;;;;;;;;;x
-action_advance_eco_tech_desc;Have your [GetTreasurerName] research Economy advances in a county.;;;;;;;;;;;;;x
-action_advance_mil_tech;Research Military Tech;;;;;;;;;;;;;x
-action_advance_mil_tech_desc;Have your [GetMarshalName] research Military advancements in a county.;;;;;;;;;;;;;x
-action_assist_arrest;Suppress Revolts;;;;;;;;;;;;;x
-action_assist_arrest_desc;Send in your [GetMarshalName] with enough troops to suppress revolts and facilitate arrests of local vassals.;;;;;;;;;;;;;x
-action_build_legend;Build Legend;;;;;;;;;;;;;x
-action_build_legend_desc;Have your [GetTreasurerName] build your legend among the people, increasing your Prestige and possibly even raising some eager warriors. If you don't use these troops and go to war, they will get angry at you and you will lose prestige.;;;;;;;;;;;;;x
-action_build_zeal;Build Zeal;;;;;;;;;;;;;x
-action_build_zeal_desc;Have your [GetLordSpiritualName] whip up religious zeal among the people, increasing your Piety and possibly even attracting some holy warriors. If you don't use these troops for religious wars, they will get angry at you and you will lose piety.;;;;;;;;;;;;;x
-action_charity;Perform Charity;;;;;;;;;;;;;x
-action_charity_desc;Send your [GetMyLordSpiritualName] to perform charity in a county, helping those in need.;;;;;;;;;;;;;x
-action_clan_sentiment;Improve Clan Sentiment;;;;;;;;;;;;;x
-action_clan_sentiment_desc;Send your [GetChancellorName] to improve your clan's esteem in the eyes of another clan.;;;;;;;;;;;;;x
-action_collect_tribute;Collect Tribute;;;;;;;;;;;;;x
-action_collect_tribute_desc;Send your [GetTreasurerName] to collect extra contributions from vassals and tributary rulers. This will not please them much...;;;;;;;;;;;;;x
-action_fabricate_claims;Fabricate Claims;;;;;;;;;;;;;x
-action_fabricate_claims_desc;Send your [GetChancellorName] to fabricate claims on landed titles held by local rulers. A highly skilled [GetChancellorName] may even fabricate a claim on a duchy. Only with the Become King ambition is it possible to fabricate a claim on a kingdom.;;;;;;;;;;;;;x
-action_hunt_heretics;Hunt Apostates;;;;;;;;;;;;;x
-action_hunt_heretics_desc;The [GetLordSpiritualName] will hunt down blaspheming and heretical Societies and drag their members into the light.;;;;;;;;;;;;;x
-action_improve_rel_relations;Improve Religious Relations;;;;;;;;;;;;;x
-action_improve_rel_relations_desc;Have your [GetMyLordSpiritualName] lead a religious delegation to discuss matters of the faith with the local clergy (especially useful towards the official head of a religion).;;;;;;;;;;;;;x
-action_improve_relations;Improve Diplomatic Relations;;;;;;;;;;;;;x
-action_improve_relations_desc;Send your [GetChancellorName] on a diplomatic mission to improve relations with your vassals or the ruler of a county.;;;;;;;;;;;;;x
-action_inquisition;Proselytize;;;;;;;;;;;;;x
-action_inquisition_desc;Send your [GetMyLordSpiritualName] to tend to the lost souls in a county, converting heretics and infidels.;;;;;;;;;;;;;x
-action_organize_army;Organize the Army;;;;;;;;;;;;;x
-action_organize_army_desc;The [GetMarshalName] will strive to organize your armies and drill your commanders. Reduces retinue monthly cost.;;;;;;;;;;;;;x
-action_organize_raid;Organize Raid;;;;;;;;;;;;;x
-action_organize_raid_desc;Have your [GetMarshalName] gather men for a great raid, for plunder and glory! If you don't use these troops for raiding, they will get angry at you and take your gold instead.;;;;;;;;;;;;;x
-action_organize_spies;Build Spy Network;;;;;;;;;;;;;x
-action_organize_spies_desc;Have your [GetSpymasterName] focus his attention on the local nobles in a county, increasing the likelihood of intrigue events against them.;;;;;;;;;;;;;x
-action_organize_spies_mystics;Build Spy Network;;;;;;;;;;;;;x
-action_organize_spies_mystics_desc;Have your [GetSpymasterName] focus his attention on the local nobles in a county, increasing the likelihood of intrigue events against them. This will also discourage vassals from associating with Factions, or give you the opportunity to recruit new members for your own.;;;;;;;;;;;;;x
-action_oversee_construction;Oversee Construction;;;;;;;;;;;;;x
-action_oversee_construction_desc;Send your [GetTreasurerName] to speed up the construction of buildings and holdings in a county.;;;;;;;;;;;;;x
-action_sabotage_province;Sabotage Province;;;;;;;;;;;;;x
-action_sabotage_province_desc;The [GetSpymasterName] is sent to infiltrate a province and sabotage its operations.;;;;;;;;;;;;;x
-action_settle_tribe;Settle Tribe;;;;;;;;;;;;;x
-action_settle_tribe_desc;Assign your [GetMyTreasurerName] to settle members of your tribe in the county, increasing the chance that its culture will change to §Y[Culture.GetName]§!.;;;;;;;;;;;;;x
-action_sow_dissent;Sow Dissent;;;;;;;;;;;;;x
-action_sow_dissent_desc;Have your [GetMyChancellorName] sow dissent between local nobles and their lieges.;;;;;;;;;;;;;x
-action_squeeze_peasants;Collect Taxes;;;;;;;;;;;;;x
-action_squeeze_peasants_desc;Send your [GetTreasurerName] to ensure efficient taxation in the county.;;;;;;;;;;;;;x
-action_statecraft;Perform Statecraft;;;;;;;;;;;;;x
-action_statecraft_desc;Work to improve relations with random vassals, neighboring rulers, and your liege – and lower threat.;;;;;;;;;;;;;x
-action_study_technology;Study Technology;;;;;;;;;;;;;x
-action_study_technology_desc;Send your [GetSpymasterName] to study technological marvels in a county, increasing the chance of spreading them to your capital.;;;;;;;;;;;;;x
-action_train_troops;Train Troops;;;;;;;;;;;;;x
-action_train_troops_desc;Send your [GetMarshalName] to increase the size of your levies in a county.;;;;;;;;;;;;;x
-action_train_troops_nomadic;Train Warriors;;;;;;;;;;;;;x
-action_train_troops_nomadic_desc;Send your [GetMarshalName] to increase your manpower regrowth.;;;;;;;;;;;;;x
-action_uncover_plots;Scheme;;;;;;;;;;;;;x
-action_uncover_plots_desc;Dispatch your [GetSpymasterName] to discourage vassals from associating with Factions, or to recruit new members for your own. This will also increase the likelihood of uncovering the plots of local nobles.;;;;;;;;;;;;;x
-action_uncover_plots_offmap;Scheme;;;;;;;;;;;;;x
-action_uncover_plots_offmap_desc;Order your [GetSpymasterName] to uncover plots and discourage vassals from associating with Factions.;;;;;;;;;;;;;x
-
+action_administer_realm;Administer Realm;;;;;;;;;;;Àäìèíèñòðèðîâàòü âëàäåíèÿ;;x
+action_administer_realm_desc;The [GetMyTreasurerName] will strive to improve your Demesne. Increases culture conversion chance and prosperity gain.;;;;;;;;;;;[GetMyTreasurerName] ïîïûòàåòñÿ óëó÷øèòü ñîñòîÿíèå Âàøèõ ëè÷íûõ çåìåëüíûõ âëàäåíèé, ÷òîáû óñêîðèòü êóëüòóðíóþ àññèìèëÿöèþ è ïðîöâåòàíèå.;;x
+action_advance_cul_tech;Research Cultural Tech;;;;;;;;;;;Èçó÷àòü êóëüòóðó;;x
+action_advance_cul_tech_desc;Send your [GetMyLordSpiritualName] to work for the advancement of Culture in a county.;;;;;;;;;;;Ïóñòü [GetMyLordSpiritualName] ñïîñîáñòâóåò ðàçâèòèþ êóëüòóðû îêðóãà.;;x
+action_advance_eco_tech;Research Economy Tech;;;;;;;;;;;Èçó÷àòü ýêîíîìèêó;;x
+action_advance_eco_tech_desc;Have your [GetTreasurerName] research Economy advances in a county.;;;;;;;;;;;Ïóñòü [GetTreasurerName] èçó÷àåò ýêîíîìèêó.;;x
+action_advance_mil_tech;Research Military Tech;;;;;;;;;;;Èçó÷àòü âîåííûå òåõíîëîãèè;;x
+action_advance_mil_tech_desc;Have your [GetMarshalName] research Military advancements in a county.;;;;;;;;;;;Ïóñòü [GetMarshalName] èçó÷àåò âîåííûå òåõíîëîãèè.;;x
+action_assist_arrest;Suppress Revolts;;;;;;;;;;;Ïîäàâëÿòü âîññòàíèÿ;;x
+action_assist_arrest_desc;Send in your [GetMarshalName] with enough troops to suppress revolts and facilitate arrests of local vassals.;;;;;;;;;;;Ïóñòü [GetMarshalName] ñ âîéñêàìè ïîäàâëÿåò âîññòàíèÿ è ñïîñîáñòâóåò àðåñòó ìåñòíûõ âàññàëîâ.;;x
+action_build_legend;Build Legend;;;;;;;;;;;Ñîçäàòü ëåãåíäó;;x
+action_build_legend_desc;Have your [GetTreasurerName] build your legend among the people, increasing your Prestige and possibly even raising some eager warriors. If you don't use these troops and go to war, they will get angry at you and you will lose prestige.;;;;;;;;;;;Ïóñòü [GetMyTreasurerName] ñîçäàñò ëåãåíäó î Âàñ ñðåäè ëþäåé, ïîâûñèâ Âàø ïðåñòèæ è, âîçìîæíî äàæå, ïðèçîâ¸ò õðàáðûõ âîèíîâ. Åñëè Âû Íå èñïîëüçóåòå ýòè âîéñêà â âîéíå, îíè îáðàòÿò ñâîé ãíåâ íà Âàñ è Âû ïîòåðÿåòå ïðåñòèæ.;;x
+action_build_zeal;Build Zeal;;;;;;;;;;;Cîçäàòü êóëüò;;x
+action_build_zeal_desc;Have your [GetLordSpiritualName] whip up religious zeal among the people, increasing your Piety and possibly even attracting some holy warriors. If you don't use these troops for religious wars, they will get angry at you and you will lose piety.;;;;;;;;;;;Ïóñòü [GetMyLordSpiritualName] ïîäñòåãí¸ò ðåëèãèîçíûé ôàíàòèçì ñðåäè ëþäåé, ïîâûñèâ Âàøå áëàãî÷åñòèå è, âîçìîæíî äàæå, ïðèçîâ¸ò ñâÿòûõ âîèíîâ. Åñëè Âû íå èñïîëüçóåòå ýòè âîéñêà â ñâÿùåííûõ âîéíàõ, îíè îáðàòÿò ñâîé ãíåâ íà Âàñ è Âû ïîòåðÿåòå áëàãî÷åñòèå.;;x
+action_charity;Perform Charity;;;;;;;;;;;Ñîâåðøèòü áëàãîòâîðèòåëüíîñòü;;x
+action_charity_desc;Send your [GetMyLordSpiritualName] to perform charity in a county, helping those in need.;;;;;;;;;;;[GetMyLordSpiritualName] áóäåò ïîñëàí çàíèìàòüñÿ áëàãîòâîðèòåëüíîñòüþ, ïîìîãàÿ íóæäàþùèìñÿ.;;x
+action_clan_sentiment;Improve Clan Sentiment;;;;;;;;;;;Óëó÷øàòü íàñòðîåíèå êëàíà;;x
+action_clan_sentiment_desc;Send your [GetChancellorName] to improve your clan's esteem in the eyes of another clan.;;;;;;;;;;;Ïóñòü Âàø [GetChancellorName] ïîïûòàåòñÿ ïîäíÿòü Âàø êëàí â ãëàçàõ äðóãîãî êëàíà.;;x
+action_collect_tribute;Collect Tribute;;;;;;;;;;;Ñîáèðàòü äàíü;;x
+action_collect_tribute_desc;Send your [GetTreasurerName] to collect extra contributions from vassals and tributary rulers. This will not please them much...;;;;;;;;;;;Ïóñòü Âàø [GetTreasurerName] îòïðàâèòñÿ, ÷òîáû ñîáðàòü äîïîëíèòåëüíûå äåíåæíûå ñðåäñòâà ñ âàññàëîâ è äàííèêîâ. Ýòî èì ÿâíî íå ïîíðàâèòñÿ...;;x
+action_fabricate_claims;Fabricate Claims;;;;;;;;;;;Ñôàáðèêîâàòü ïðåòåíçèè;;x
+action_fabricate_claims_desc;Send your [GetChancellorName] to fabricate claims on landed titles held by local rulers. A highly skilled [GetChancellorName] may even fabricate a claim on a duchy. Only with the Become King ambition is it possible to fabricate a claim on a kingdom.;;;;;;;;;;;"Ïóñòü [GetChancellorName] ôàáðèêóåò ïðåòåíçèè íà çåìåëüíûé òèòóë ìåñòíîãî ïðàâèòåëÿ. Îñîáî óìåëûé ñîâåòíèê ìîæåò äàæå èçãîòîâèòü ïðåòåíçèè íà ãåðöîãñòâî, à ñ àìáèöèåé ""Ïðàâèòü [Capital.Kingdom.GetAdjective]ñêîé çåìë¸é"" - íà öåëîå êîðîëåâñòâî.";;x
+action_hunt_heretics;Hunt Apostates;;;;;;;;;;;Ïðåñëåäîâàòü âåðîîòñòóïíèêîâ;;x
+action_hunt_heretics_desc;The [GetLordSpiritualName] will hunt down blaspheming and heretical Societies and drag their members into the light.;;;;;;;;;;;[GetLordSpiritualName] áóäåò èñêàòü áîãîõóëüíûå è åðåòè÷åñêèå îáùèíû, ÷òîáû óêàçàòü èõ ÷ëåíàì ïóòü ê ñâåòó.;;x
+action_improve_rel_relations;Improve Religious Relations;;;;;;;;;;;Óëó÷øèòü ðåëèãèîçíûå îòíîøåíèÿ;;x
+action_improve_rel_relations_desc;Have your [GetMyLordSpiritualName] lead a religious delegation to discuss matters of the faith with the local clergy (especially useful towards the official head of a religion).;;;;;;;;;;;Ïóñòü [GetMyLordSpiritualName] âîçãëàâèò ðåëèãèîçíóþ äåëåãàöèþ äëÿ îáñóæäåíèÿ âîïðîñîâ âåðû ñ ìåñòíûì äóõîâåíñòâîì (îñîáåííî ïîëåçíî ïî îòíîøåíèþ ê îôèöèàëüíîìó ãëàâå öåðêâè).;;x
+action_improve_relations;Improve Diplomatic Relations;;;;;;;;;;;Óëó÷øèòü äèïëîìàòè÷åñêèå îòíîøåíèÿ;;x
+action_improve_relations_desc;Send your [GetChancellorName] on a diplomatic mission to improve relations with your vassals or the ruler of a county.;;;;;;;;;;;Âàø [GetChancellorName] îòïðàâèòñÿ íà äèïëîìàòè÷åñêóþ ìèññèþ ïî óëó÷øåíèþ îòíîøåíèé ñ âàññàëàìè èëè äðóãèìè ïðàâèòåëÿìè.;;x
+action_inquisition;Proselytize;;;;;;;;;;;Îáðàòèòü â ñâîþ âåðó;;x
+action_inquisition_desc;Send your [GetMyLordSpiritualName] to tend to the lost souls in a county, converting heretics and infidels.;;;;;;;;;;;Ïóñòü [GetMyLordSpiritualName] ïîçàáîòèòñÿ î ïîòåðÿííûõ äóøàõ ýòîãî îêðóãà, îáðàùàÿ åðåòèêîâ è èíîâåðöåâ.;;x
+action_organize_army;Organize the Army;;;;;;;;;;;Îðãàíèçîâàòü àðìèþ;;x
+action_organize_army_desc;The [GetMarshalName] will strive to organize your armies and drill your commanders. Reduces retinue monthly cost.;;;;;;;;;;;[GetMarshalName] ïðèëîæèò óñèëèÿ, ÷òîáû îðãàíèçîâàòü Âàøè âîéñêà è òðåíèðîâàòü ïîëêîâîäöåâ. Ýòî òàêæå ñíèæàåò ðàñõîäû íà ïîïîëíåíèå ãâàðäèè.;;x
+action_organize_raid;Organize Raid;;;;;;;;;;;Îðãàíèçîâàòü íàáåã;;x
+action_organize_raid_desc;Have your [GetMarshalName] gather men for a great raid, for plunder and glory! If you don't use these troops for raiding, they will get angry at you and take your gold instead.;;;;;;;;;;;Ïóñòü [GetMyMarshalName] ñîáåð¸ò ëþäåé äëÿ íàáåãà çà äîáû÷åé è ñëàâîé! Åñëè Âû íå èñïîëüçóåòå ýòè âîéñêà äëÿ íàáåãîâ, îíè îáðàòÿò ñâîé ãíåâ íà Âàñ è çàáåðóò Âàøå çîëîòî.;;x
+action_organize_spies;Build Spy Network;;;;;;;;;;;Ñîçäàòü øïèîíñêóþ ñåòü;;x
+action_organize_spies_desc;Have your [GetSpymasterName] focus his attention on the local nobles in a county, increasing the likelihood of intrigue events against them.;;;;;;;;;;;Ïóñòü [GetSpymasterName] èçó÷àåò ìåñòíóþ çíàòü, ÷òîáû óâåëè÷èòü âåðîÿòíîñòü äëÿ ñîáûòèé, ñâÿçàííûõ ñ èíòðèãàìè.;;x
+action_organize_spies_mystics;Build Spy Network;;;;;;;;;;;Ñîçäàòü øïèîíñêóþ ñåòü;;x
+action_organize_spies_mystics_desc;Have your [GetSpymasterName] focus his attention on the local nobles in a county, increasing the likelihood of intrigue events against them. This will also discourage vassals from associating with Factions, or give you the opportunity to recruit new members for your own.;;;;;;;;;;;Ïóñòü [GetSpymasterName] èçó÷àåò ìåñòíóþ çíàòü, ÷òîáû óâåëè÷èòü âåðîÿòíîñòü äëÿ ñîáûòèé, ñâÿçàííûõ ñ çàãîâîðàìè ïðîòèâ íèõ. Ýòî òàêæå ïîìîæåò îòäàëèòü âàññàëîâ îò ôðàêöèé èëè çàâåðáîâàòü íîâûõ ëþäåé â ñâîè ðÿäû.;;x
+action_oversee_construction;Oversee Construction;;;;;;;;;;;Îñóùåñòâëÿòü íàäçîð çà ñòðîèòåëüñòâîì;;x
+action_oversee_construction_desc;Send your [GetTreasurerName] to speed up the construction of buildings and holdings in a county.;;;;;;;;;;;Ïóñòü [GetTreasurerName] îòïðàâèòñÿ â óêàçàííûé îêðóã äëÿ óñêîðåíèÿ ñòðîèòåëüñòâà âëàäåíèé èëè çäàíèé â íåé.;;x
+action_sabotage_province;Sabotage Province;;;;;;;;;;;Ïîäîðâàòü èíôðàñòðóêòóðó îêðóãà;;x
+action_sabotage_province_desc;The [GetSpymasterName] is sent to infiltrate a province and sabotage its operations.;;;;;;;;;;;[GetSpymasterName] ïîïûòàåòñÿ âíåäðèòüñÿ â ìåñòíóþ èíôðàñòóêòóðó è ñàáîòèðîâàòü å¸ ôóíêöèîíèðîâàíèå.;;x
+action_settle_tribe;Settle Tribe;;;;;;;;;;;Ïîñåëèòü ïëåìÿ;;x
+action_settle_tribe_desc;Assign your [GetMyTreasurerName] to settle members of your tribe in the county, increasing the chance that its culture will change to §Y[Culture.GetName]§!.;;;;;;;;;;;Ïóñòü [GetMyTreasurerName] ðàññåëèò Âàøèõ ñîïëåìåííèêîâ â íóæíîé ìåñòíîñòè, ïîâûñèâ øàíñû íà òî, ÷òî å¸ êóëüòóðà ñòàíåò §Y[GetCultureAdj]îé§!.;;x
+action_sow_dissent;Sow Dissent;;;;;;;;;;;Ñåÿòü ðàçäîð;;x
+action_sow_dissent_desc;Have your [GetMyChancellorName] sow dissent between local nobles and their lieges.;;;;;;;;;;;Ïóñòü [GetMyChancellorName] ñååò ðàçäîð ìåæäó ìåñòíîé çíàòüþ è èõ ñþçåðåíîì.;;x
+action_squeeze_peasants;Collect Taxes;;;;;;;;;;;Ñîáèðàòü íàëîãè;;x
+action_squeeze_peasants_desc;Send your [GetTreasurerName] to ensure efficient taxation in the county.;;;;;;;;;;;Ïóñòü [GetTreasurerName] ñîáèðàåò íàëîãè â óêàçàííîì îêðóãå.;;x
+action_statecraft;Perform Statecraft;;;;;;;;;;;Çàíèìàòüñÿ ãîñóäàðñòâåííûìè äåëàìè;;x
+action_statecraft_desc;Work to improve relations with random vassals, neighboring rulers, and your liege – and lower threat.;;;;;;;;;;;Ðàáîòàòü íàä óëó÷øåíèåì îòíîøåíèé ñ âàññàëàìè, à òàêæå ïðàâèòåëÿìè áëèçëåæàùèõ ãîñóäàðñòâ, äàáû óñûïèòü èõ áäèòåëüíîñòü è ðåæå âîñïðèíèìàòü Âàøó ñòðàíó êàê óãðîçó ìèðîïîðÿäêó.;;x
+action_study_technology;Study Technology;;;;;;;;;;;Èçó÷àòü òåõíîëîãèè;;x
+action_study_technology_desc;Send your [GetSpymasterName] to study technological marvels in a county, increasing the chance of spreading them to your capital.;;;;;;;;;;;Ïóñòü [GetSpymasterName] èçó÷àåò ÷óäåñà òåõíîëîãèè â ñîñåäíèõ ðåãèîíàõ, óâåëè÷èâàÿ âåðîÿòíîñòü ðàñïðîñòðàíåíèÿ èõ íà Âàøó ñòîëèöó.;;x
+action_train_troops;Train Troops;;;;;;;;;;;Òðåíèðîâàòü îïîë÷åíèå;;x
+action_train_troops_desc;Send your [GetMarshalName] to increase the size of your levies in a county.;;;;;;;;;;;Ïóñòü [GetMarshalName] óâåëè÷èâàåò ÷èñëåííîñòü îïîë÷åíöåâ â âûáðàííîì îêðóãå.;;x
+action_train_troops_nomadic;Train Warriors;;;;;;;;;;;Òðåíèðîâàòü âîèíîâ;;x
+action_train_troops_nomadic_desc;Send your [GetMarshalName] to increase your manpower regrowth.;;;;;;;;;;;Ïóñòü Âàø [GetMarshalName] çàéì¸òñÿ ëþäñêèìè ðåñóðñàìè.;;x
+action_uncover_plots;Scheme;;;;;;;;;;;Ðàñêðûâàòü çàãîâîðû;;x
+action_uncover_plots_desc;Dispatch your [GetSpymasterName] to discourage vassals from associating with Factions, or to recruit new members for your own. This will also increase the likelihood of uncovering the plots of local nobles.;;;;;;;;;;;Âàø [GetSpymasterName] îòïðàâèòñÿ ñ ìèññèåé ïî ïðåïÿòñòâîâàíèþ äåÿòåëüíîñòè ôðàêöèé. Ýòî äàñò âîçìîæíîñòü ìåøàòü èì âåðáîâàòü íîâûõ ÷ëåíîâ, òàê æå ýòî ïîìîæåò âûÿâèòü óæå èìåþùèõñÿ ÷ëåíîâ ôðàêöèé.;;x
+action_uncover_plots_offmap;Scheme;;;;;;;;;;;Ðàñêðûâàòü çàãîâîðû;;x
+action_uncover_plots_offmap_desc;Order your [GetSpymasterName] to uncover plots and discourage vassals from associating with Factions.;;;;;;;;;;;Ïóñòü [GetSpymasterName] ðàñêðûâàåò çàãîâîðû è ìåøàåò âàññàëàì âñòóïàòü âî ôðàêöèè.;;x
 # Tooltips
-JOB_PROSELYTIZE_CONVERT_INDEPENDENT;Proselytize: §GIndependent ruler can be converted. Current religion: §!§Y[Root.Holder.Religion.GetName]§!;;;;;;;;;;;;;x
-JOB_PROSELYTIZE_DIFFERENT_RELIGION;Proselytize: §GProvince can be converted. Current religion: §!§Y[Root.Religion.GetName]§!;;;;;;;;;;;;;x
-JOB_PROSELYTIZE_SAME_RELIGION;Proselytize: §YProvince already converted.§!;;;;;;;;;;;;;x
+JOB_PROSELYTIZE_CONVERT_INDEPENDENT;Proselytize: §GIndependent ruler can be converted. Current religion: §!§Y[Root.Holder.Religion.GetName]§!;;;;;;;;;;;Ïðàâèòåëü[Root.Holder.GetEndNitsa] ýòîãî îêðóãà ìîæåò áûòü §Gîáðàùåí[Root.Holder.GetEndA] â [From.GetReligionFullName]§!, ñåé÷àñ [Root.Holder.GetSheHe] èñïîâåäóåò §Y[Root.Holder.GetReligionFullName]§!;;x
+JOB_PROSELYTIZE_DIFFERENT_RELIGION;Proselytize: §GProvince can be converted. Current religion: §!§Y[Root.Religion.GetName]§!;;;;;;;;;;;Îêðóã ìîæåò áûòü §Gîáðàù¸í â [From.GetReligionFullName]§!, ñåé÷àñ æèòåëè èñïîâåäóþò §Y[Root.GetReligionFullName]§!;;x
+JOB_PROSELYTIZE_SAME_RELIGION;Proselytize: §YProvince already converted.§!;;;;;;;;;;;Îêðóã óæå §Yèñïîâåäóåò [From.GetReligionFullName]§! è íåò ñìûñëà §Yîáðàùàòü§! åãî.;;x

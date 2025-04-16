@@ -1,23 +1,23 @@
-cruel_imprisoner_trait_chance_TT;A 25% chance to become §YCruel§!;;;;;;;;;;;;;x
-deploy_fleet;An imperial task force prowls the Black Sea for pirates.;;;;;;;;;;;;;x
-eunuch_declined;You decline the gift.;;;;;;;;;;;;;x
-eunuch_offer;The merchant continues his tales.;;;;;;;;;;;;;x
-free_varangians;The Varangians are released and return to their commander.;;;;;;;;;;;;;x
-hippodrome_nobet;You wash your hands of chariot racing.;;;;;;;;;;;;;x
-hippodrome_refuse;You refuse to take part in this scheme.;;;;;;;;;;;;;x
-hippodrome_refuse_second;Anaximandros is thrown into the dungeons and you put this vile scheme behind you for good.;;;;;;;;;;;;;x
-hippodrome_riots;The city is beset by rioters and hooligans.;;;;;;;;;;;;;x
-hippodrome_tooltip;To the Hippodrome!;;;;;;;;;;;;;x
-introduce_eunuch;Your servants leave to fetch the eunuch.;;;;;;;;;;;;;x
-liquid_fire_settled;This affair has been settled.;;;;;;;;;;;;;x
-no_to_eunuchs;You refuse to deal with this eunuch.;;;;;;;;;;;;;x
-not_interested_in_explosion;You forget all about this explosion and drink some more wine.;;;;;;;;;;;;;x
-punish_varangians;The responsible Varangians are executed.;;;;;;;;;;;;;x
-rome_capital;Rome once more becomes the seat of imperial power.;;;;;;;;;;;;;x
-send_in_spies;Your spies are sent to infiltrate the ports.;;;;;;;;;;;;;x
-send_merchants_away;You send the merchants away.;;;;;;;;;;;;;x
-ship_hoists_sails;Your ship hoists its sails.;;;;;;;;;;;;;x
-triumph_held;Your vassals are impressed by this display of Imperial power.;;;;;;;;;;;;;x
-tzykanion_accepted;You accept the challenge.;;;;;;;;;;;;;x
-tzykanion_declined;You refuse the challenge.;;;;;;;;;;;;;x
-mend_the_schism_holder_religion;Holder is §YOrthodox§!, §YPaulician§!, §YMonothelite§! or §YIconoclast§! and NOT a heretic\n;;;;;;;;;;;;;x
+cruel_imprisoner_trait_chance_TT;A 25% chance to become §YCruel§!;;;;;;;;;;;25% øàíñ ïîëó÷èòü ÷åðòó §Yæåñòîêèé§!;;x
+deploy_fleet;An imperial task force prowls the Black Sea for pirates.;;;;;;;;;;;Èìïåðñêèå ñèëû èùóò ïèðàòîâ ïî âñåìó ìîðþ.;;x
+eunuch_declined;You decline the gift.;;;;;;;;;;;Âû îòêëîíÿåòå ïîäàðîê.;;x
+eunuch_offer;The merchant continues his tales.;;;;;;;;;;;Êóïåö ïðîäîëæàåò ñâîè ðàññêàçû.;;x
+free_varangians;The Varangians are released and return to their commander.;;;;;;;;;;;Âàðÿãè áóäóò îñâîáîæäåíû è âåðíóòñÿ ê ñâîåìó êîìàíäèðó.;;x
+hippodrome_nobet;You wash your hands of chariot racing.;;;;;;;;;;;Ãîíêè êîëåñíèö? ß óìûâàþ ðóêè.;;x
+hippodrome_refuse;You refuse to take part in this scheme.;;;;;;;;;;;Âû îòêàçûâàåòåñü ïðèíÿòü ó÷àñòèå â ýòîì äåëå.;;x
+hippodrome_refuse_second;Anaximandros is thrown into the dungeons and you put this vile scheme behind you for good.;;;;;;;;;;;Àíàêñèìàíäð áðîøåí â òåìíèöó, à Âû îñòàâëÿåòå ýòè ïîäëûå ïëàíû íàâñåãäà.;;x
+hippodrome_riots;The city is beset by rioters and hooligans.;;;;;;;;;;;Ãîðîä îñàæä¸í áóíòîâùèêàìè è õóëèãàíàìè!;;x
+hippodrome_tooltip;To the Hippodrome!;;;;;;;;;;;Íà Èïïîäðîì!;;x
+introduce_eunuch;Your servants leave to fetch the eunuch.;;;;;;;;;;;Âàøè ñëóãè óäàëèëèñü, ÷òîáû ïðèâåñòè åâíóõà.;;x
+liquid_fire_settled;This affair has been settled.;;;;;;;;;;;Ýòî äåëî óëàæåíî.;;x
+no_to_eunuchs;You refuse to deal with this eunuch.;;;;;;;;;;;Âû îòêàçûâàåòåñü èìåòü äåëî ñ ýòèì åâíóõîì.;;x
+not_interested_in_explosion;You forget all about this explosion and drink some more wine.;;;;;;;;;;;Âû çàáûâàåòå îáî âñ¸ì ýòîì âçðûâå è âûïèâàåòå íåìíîãî âèíà.;;x
+punish_varangians;The responsible Varangians are executed.;;;;;;;;;;;Îòâåòñòâåííûé âàðÿã êàçí¸í.;;x
+rome_capital;Rome once more becomes the seat of imperial power.;;;;;;;;;;;Ðèì ñíîâà - ìåñòî èìïåðàòîðñêîé âëàñòè.;;x
+send_in_spies;Your spies are sent to infiltrate the ports.;;;;;;;;;;;Âàøè øïèîíû îòïðàâëÿþòñÿ ïðîíèêíóòü â ïîðòû.;;x
+send_merchants_away;You send the merchants away.;;;;;;;;;;;Âû îòïðàâëÿåòå òîðãîâöåâ ïðî÷ü.;;x
+ship_hoists_sails;Your ship hoists its sails.;;;;;;;;;;;Âàø êîðàáëü ïîäíèìàåò ïàðóñà.;;x
+triumph_held;Your vassals are impressed by this display of Imperial power.;;;;;;;;;;;Âàøè âàññàëû íàõîäÿòñÿ ïîä âïå÷àòëåíèåì îò ýòîé äåìîíñòðàöèè èìïåðàòîðñêîé âëàñòè.;;x
+tzykanion_accepted;You accept the challenge.;;;;;;;;;;;Âû ïðèíèìàåòå âûçîâ.;;x
+tzykanion_declined;You refuse the challenge.;;;;;;;;;;;Âû îòêàçûâàåòåñü îò ýòîãî âûçîâà.;;x
+mend_the_schism_holder_religion;Holder is §YOrthodox§!, §YPaulician§!, §YMonothelite§! or §YIconoclast§! and NOT a heretic\n;;;;;;;;;;;Óáåäèòåñü, ÷òî îáëàäàòåëü òèòóëà - §Yïðàâîñëàâíûé§!, §Yïàâëèêèàíèí§!, §Yìîíîôåëèò§! èëè §Yèêîíîáîðåö§! è ÍÅ åðåòèê\n;;x

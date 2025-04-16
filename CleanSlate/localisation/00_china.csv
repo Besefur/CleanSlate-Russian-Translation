@@ -1,93 +1,89 @@
-china_china;China;;;;;;;;;;;;;x
-china_china_full;Chinese Empire;;;;;;;;;;;;;x
-china_civil_war;Civil War;;;;;;;;;;;;;x
-china_civil_war_desc;Civil war has erupted in the [Root.GetName], and trade with the East suffers as a result. The Empire's armies are arrayed against one another, and the ruling dynasty itself is threatened. Intrepid generals may well seek their fortune in the West, beyond China's borders.;;;;;;;;;;;;;x
-china_civil_war_effect_desc;§Y*§! The value of the Silk Road is reduced by §R50%§!\n§Y*§! Imperial Tributaries can §RNOT§! raise Chinese Regiments\n§Y*§! Imperial Tributaries can Break Free without opposition from China\n§Y*§! Might end with China getting a §RNew Dynasty§!, resetting all §YGrace§!;;;;;;;;;;;;;x
-china_expansionist;Expansionist;;;;;;;;;;;;;x
-china_expansionist_desc;The Emperor is showing a rare interest in the rest of the world. China might aggressively seek to gain new Tributary states, or even stage a major invasion to 'pacify the West'.;;;;;;;;;;;;;x
-china_expansionist_effect_desc;§Y*§! The Silk Road is §GOpen§!\n§Y*§! China might stage §YMajor Invasions§!;;;;;;;;;;;;;x
-china_famine;Great Famine;;;;;;;;;;;;;x
-china_famine_desc;A disastrous harvest has caused the Chinese agriculture to buckle under the population. The calamity has caused most trade to cease, and even as their numbers dwindle, the [offmap_china.GetName]'s once-mighty armies have been burdened with relief efforts for the suffering.;;;;;;;;;;;;;x
-china_famine_effect_desc;§Y*§! The value of the Silk Road is reduced by §R75%§!\n§Y*§! Imperial Tributaries can §RNOT§! raise Chinese Regiments;;;;;;;;;;;;;x
-china_golden_age;Golden Age;;;;;;;;;;;;;x
-china_golden_age_desc;The [Root.GetName] has reached untold power and wealth. As China flourishes, the trade routes with the East bring not only valuable goods in previously unheard-of quantities, but also rich and abundant examples of Chinese culture. An Emperor of China in this Golden Age may well rightfully consider [Root.Ruler.GetHerselfHimself] the [Root.Ruler.GetMasterMistress] of the known world.;;;;;;;;;;;;;x
-china_golden_age_effect_desc;§Y*§! The value of the Silk Road is §GDoubled§!\n§Y*§! The effects of Chinese §YStrategists§!, §YScholar-Bureaucrats§! and §YMaster Engineers§! are §GDoubled§!\n§Y*§! The armies of China are significantly stronger;;;;;;;;;;;;;x
-china_isolationist;Isolationist;;;;;;;;;;;;;x
-china_isolationist_desc;China has turned inward and is mostly ignoring its primitive neighbors. All actions to gain the Emperor's Grace or request boons are invalid. New Tributary states will likely not be accepted.;;;;;;;;;;;;;x
-china_isolationist_effect_desc;§Y*§! The Silk Road is §RClosed§!\n§Y*§! China will §YNOT§! declare any wars\n§Y*§! The §YSend Tribute§! and §YRequest Boon§! decisions are §RDisabled§!;;;;;;;;;;;;;x
-china_jurchen_invasion;Being Invaded by Jurchens;;;;;;;;;;;;;x
-china_jurchen_invasion_desc;An enormous horde of Jurchen horse warriors has descended upon China from the cold and unforgiving Northeast. The mighty Chinese armies are preoccupied with a desperate defense against the fierce invaders. The war is disrupting trade along the Silk Road and could cause a mass exodus of refugees. Should the Jurchens triumph, it is possible that scions of the current Dynasty may flee westward with the remnants of their forces.;;;;;;;;;;;;;x
-china_jurchen_invasion_effect_desc;§Y*§! The value of the Silk Road is reduced by §R50%§!\n§Y*§! Imperial Tributaries can §RNOT§! raise Chinese Regiments\n§Y*§! Chinese refugees might appear in your court\n§Y*§! Might end with China getting a §RNew Dynasty§!, resetting all §YGrace§!;;;;;;;;;;;;;x
-china_mongol_invasion;Being Invaded by the Mongols;;;;;;;;;;;;;x
-china_mongol_invasion_desc;The Mongol hordes of the north pour into China. The mighty Chinese armies are occupied with their desperate defense of the Empire, and the fighting has greatly disrupted trade as well as caused a mass exodus of refugees. Scions of the current dynasty may well flee westward if the war goes poorly enough.;;;;;;;;;;;;;x
-china_mongol_invasion_effect_desc;§Y*§! The value of the Silk Road is reduced by §R50%§!\n§Y*§! Imperial Tributaries can §RNOT§! raise Chinese Regiments\n§Y*§! Chinese refugees might appear in your court\n§Y*§! Might end with China getting a §RNew Dynasty§!, resetting all §YGrace§!;;;;;;;;;;;;;x
-china_open;Open;;;;;;;;;;;;;x
-china_open_desc;China is currently open to trade and interested in acquiring friends and tributaries within its sphere of influence.;;;;;;;;;;;;;x
-china_open_effect_desc;§Y*§! The Silk Road is §YOpen§!;;;;;;;;;;;;;x
-china_plague;Devastating Plague;;;;;;;;;;;;;x
-china_plague_desc;A terrible disease wracks the [Root.GetName], leaving thousands lying dead in its wake. Trade has ground to a halt as the Chinese economy has been forced to its knees, and even the Empire's armies have been decimated to but a shadow of their former glory.;;;;;;;;;;;;;x
-china_plague_effect_desc;§Y*§! The value of the Silk Road is reduced by §R90%§!\n§Y*§! Imperial Tributaries can §RNOT§! raise Chinese Regiments;;;;;;;;;;;;;x
-china_stable;Stable;;;;;;;;;;;;;x
-china_stable_desc;The [Root.GetName] is experiencing a period of internal stability, and trade with the East is profitable. Without any large-scale disasters or powerful enemies prosperity is able to spread, and the military might of China stands ready to defend both its own wealth and its loyal tributaries.;;;;;;;;;;;;;x
-china_stable_effect_desc;§Y*§! The value of the Silk Road is unaffected\n§Y*§! Imperial Tributaries can raise Chinese Regiments to help them in wars;;;;;;;;;;;;;x
-china_unrest;Unrest;;;;;;;;;;;;;x
-china_unrest_desc;Civil unrest runs rampant in the [Root.GetName], and it has thrown the trade routes with the East into disarray. China's armies are occupied internally in an attempt to keep the peace, and unless the unrest is quelled soon a full-blown civil war may well erupt at any moment.;;;;;;;;;;;;;x
-china_unrest_effect_desc;§Y*§! The value of the Silk Road is reduced by §R25%§!\n§Y*§! Imperial Tributaries can §RNOT§! raise Chinese Regiments to help them in wars\n§Y*§! This Status might result in a §RCivil War§!;;;;;;;;;;;;;x
-
-cheng_china;Cheng;;;;;;;;;;;;;x
-chu_china;Chu;;;;;;;;;;;;;x
-dai_china;Dai;;;;;;;;;;;;;x
-han_china;Han;;;;;;;;;;;;;x
-jin_china;Jin;;;;;;;;;;;;;x
-liang_china;Liang;;;;;;;;;;;;;x
-liao_china;Liao;;;;;;;;;;;;;x
-ming_china;Ming;;;;;;;;;;;;;x
-qi_china;Qi;;;;;;;;;;;;;x
-qin_china;Qin;;;;;;;;;;;;;x
-qing_china;Qing;;;;;;;;;;;;;x
-shu_china;Shu;;;;;;;;;;;;;x
-shun_china;Shun;;;;;;;;;;;;;x
-song_china;Song;;;;;;;;;;;;;x
-sui_china;Sui;;;;;;;;;;;;;x
-tang_china;Tang;;;;;;;;;;;;;x
-wei_china;Wei;;;;;;;;;;;;;x
-wu_china;Wu;;;;;;;;;;;;;x
-xia_china;Xia;;;;;;;;;;;;;x
-yan_china;Yan;;;;;;;;;;;;;x
-yin_china;Yin;;;;;;;;;;;;;x
-yuan_china;Yuan;;;;;;;;;;;;;x
-yue_china;Yue;;;;;;;;;;;;;x
-zhao_china;Zhao;;;;;;;;;;;;;x
-zhou_china;Zhou;;;;;;;;;;;;;x
-
-TXT_GRACE;Grace;;;;;;;;;;;;;x
-TXT_GRACE_desc;\nGrace is gained by §YPaying Tribute§! to the current Emperor, you can use accumulated Grace to §GAsk for Boons§!. Any Grace you have accumulated will be passed on to your heir during succession.\n§RAll Grace is lost should the Dynasty change in China!§!;;;;;;;;;;;;;x
-
+china_china;China;;;;;;;;;;;Êèòàé;;x
+china_china_full;Chinese Empire;;;;;;;;;;;Êèòàé;;x
+china_civil_war;Civil War;;;;;;;;;;;Ãðàæäàíñêàÿ âîéíà;;x
+china_civil_war_desc;Civil war has erupted in the [Root.GetName], and trade with the East suffers as a result. The Empire's armies are arrayed against one another, and the ruling dynasty itself is threatened. Intrepid generals may well seek their fortune in the West, beyond China's borders.;;;;;;;;;;;Â èìïåðèè [Root.GetShortName] âñïûõíóëà ãðàæäàíñêàÿ âîéíà, ÷òî ñóùåñòâåííî íàâðåäèëî å¸ òîðãîâëå íà Ø¸ëêîâîì ïóòè. Èìïåðàòîðñêàÿ àðìèÿ ðàçäåëåíà, è ïðàâÿùàÿ äèíàñòèÿ â îïàñíîñòè. Îòâàæíûå ãåíåðàëû ìîãóò ïîèñêàòü óäà÷ó íà Çàïàäå, çà ïðåäåëàìè êèòàéñêèõ ãðàíèö.;;x
+china_civil_war_effect_desc;§Y*§! The value of the Silk Road is reduced by §R50%§!\n§Y*§! Imperial Tributaries can §RNOT§! raise Chinese Regiments\n§Y*§! Imperial Tributaries can Break Free without opposition from China\n§Y*§! Might end with China getting a §RNew Dynasty§!, resetting all §YGrace§!;;;;;;;;;;;§Y*§! Äîõîäíîñòü Ø¸ëêîâîãî ïóòè ñíèæåíà íà §R50%§!\n§Y*§! Ñàòåëëèòû (äàííèêè) Èìïåðèè §RÍÅ ìîãóò§! ïðèçûâàòü êèòàéñêèå âîéñêà\n§Y*§! Äàííèêè Èìïåðèè ìîãóò îñâîáîäèòüñÿ áåç âîîðóæ¸ííîãî ïðîòèâîñòîÿíèÿ ñ Êèòàåì\n§Y*§! Ìîæåò ïðèâåñòè ê ñìåíå §Rïðàâÿùåé äèíàñòèè§!, ïðè ýòîì §Yìèëîñòü§! íûíåøíåé áóäåò óòðà÷åíà;;x
+china_expansionist;Expansionist;;;;;;;;;;;Ýêñïàíñèÿ;;x
+china_expansionist_desc;The Emperor is showing a rare interest in the rest of the world. China might aggressively seek to gain new Tributary states, or even stage a major invasion to 'pacify the West'.;;;;;;;;;;;"[offmap_china.Ruler.GetEmpressEmperorCap] ïðîÿâëÿåò ðåäêèé è íåñâîéñòâåííûé [offmap_china.Ruler.GetHerHim] èíòåðåñ âî âíåøíåì ìèðå. Êèòàé â ëþáîé ìîìåíò ìîæåò ïðîÿâèòü àãðåññèþ ê ñîñåäÿì, è íå òîëüêî â ïîèñêàõ íîâûõ ñàòåëëèòîâ (äàííèêîâ) Èìïåðèè. Ïîãîâàðèâàþò î âîçìîæíîñòè ïîëíîìàñøòàáíîãî âòîðæåíèÿ, ÷òîáû ""óñìèðèòü Çàïàä"".";;x
+china_expansionist_effect_desc;§Y*§! The Silk Road is §GOpen§!\n§Y*§! China might stage §YMajor Invasions§!;;;;;;;;;;;§Y*§! Ø¸ëêîâûé ïóòü §Gîòêðûò§!\n§Y*§! Êèòàé ìîæåò îñóùåñòâëÿòü §Yêðóïíûå âòîðæåíèÿ§!;;x
+china_famine;Great Famine;;;;;;;;;;;Âåëèêèé ãîëîä;;x
+china_famine_desc;A disastrous harvest has caused the Chinese agriculture to buckle under the population. The calamity has caused most trade to cease, and even as their numbers dwindle, the [offmap_china.GetName]'s once-mighty armies have been burdened with relief efforts for the suffering.;;;;;;;;;;;Êàòàñòðîôè÷åñêèé íåóðîæàé ïîðàçèë èìïåðèþ [offmap_china.GetShortName], å¸ ïîääàííûå óìèðàþò îò ãîëîäà. Áåäñòâèå ïðèâåëî ê òîìó, ÷òî òîðãîâëÿ ïî÷òè ïðåêðàòèëàñü, à íåêîãäà âåëèêàÿ êèòàéñêàÿ àðìèÿ, íåñìîòðÿ íà ñâîè ïîðåäåâøèå ðÿäû, çàíÿòà îêàçàíèåì ïîìîùè ïîñòðàäàâøèì.;;x
+china_famine_effect_desc;§Y*§! The value of the Silk Road is reduced by §R75%§!\n§Y*§! Imperial Tributaries can §RNOT§! raise Chinese Regiments;;;;;;;;;;;§Y*§! Äîõîäíîñòü Ø¸ëêîâîãî ïóòè ñíèæåíà íà §R75%§!\n§Y*§! Ñàòåëëèòû (äàííèêè) Èìïåðèè §RÍÅ ìîãóò§! ïðèçâàòü êèòàéñêèå âîéñêà;;x
+china_golden_age;Golden Age;;;;;;;;;;;Çîëîòîé âåê;;x
+china_golden_age_desc;The [Root.GetName] has reached untold power and wealth. As China flourishes, the trade routes with the East bring not only valuable goods in previously unheard-of quantities, but also rich and abundant examples of Chinese culture. An Emperor of China in this Golden Age may well rightfully consider [Root.Ruler.GetHerselfHimself] the [Root.Ruler.GetMasterMistress] of the known world.;;;;;;;;;;;[Root.GetName] äîñòèãëà íåâèäàííîãî ïðåæäå ìîãóùåñòâà, îíà áîãàòà è ïðîöâåòàåò. Âîñòî÷íûå òîðãîâûå ïóòè òåïåðü ïðèíîñÿò íàì íå òîëüêî öåííûå òîâàðû â íåâèäàííûõ ïðåæäå êîëè÷åñòâàõ, íî è óíèêàëüíûå ïðåäìåòû ðîñêîøè, âåëèêîëåïíûå ýêçåìïëÿðû êèòàéñêîãî èñêóññòâà è êóëüòóðû. Â ýòó ýïîõó [Root.Ruler.GetEmpressEmperorCap] [Root.Ruler.GetFirstName] ïî ïðàâó íàçûâàåò ñåáÿ õîçÿ[Root.Ruler.GetYkoyInom] ìèðà.;;x
+china_golden_age_effect_desc;§Y*§! The value of the Silk Road is §GDoubled§!\n§Y*§! The effects of Chinese §YStrategists§!, §YScholar-Bureaucrats§! and §YMaster Engineers§! are §GDoubled§!\n§Y*§! The armies of China are significantly stronger;;;;;;;;;;;§Y*§! Äîõîäíîñòü Ø¸ëêîâîãî ïóòè §Góäâàèâàåòñÿ§!\n§Y*§! Âñå ýôôåêòû îò êèòàéñêèõ §Yñòðàòåãîâ§!, §Yó÷¸íûõ-áþðîêðàòîâ§! è §Yãëàâíûõ èíæåíåðîâ§! §Góäâàèâàþòñÿ§!\n§Y*§! Êèòàéñêèå âîéñêà çíà÷èòåëüíî ñèëüíåå;;x
+china_isolationist;Isolationist;;;;;;;;;;;Èçîëÿöèÿ;;x
+china_isolationist_desc;China has turned inward and is mostly ignoring its primitive neighbors. All actions to gain the Emperor's Grace or request boons are invalid. New Tributary states will likely not be accepted.;;;;;;;;;;;[offmap_china.Ruler.GetEmpressEmperorCap] Êèòàÿ çàêðû[offmap_china.Ruler.GetLasLsya] îò âíåøíåãî ìèðà è ïî áîëüøåé ÷àñòè èãíîðèðóåò ñâîèõ ïðèìèòèâíûõ ñîñåäåé. Ëþáûå ïîïûòêè äèïëîìàòè÷åñêîãî âçàèìîäåéñòâèÿ ñ Ïîäíåáåñíîé â íàñòîÿùèé ìîìåíò íåâîçìîæíû, êàê è ðàñøèðåíèå êèòàéñêîé ãåãåìîíèè çà ñ÷¸ò ïðèíÿòèÿ íîâûõ ñàòåëëèòîâ (äàííèêîâ) Èìïåðèè.;;x
+china_isolationist_effect_desc;§Y*§! The Silk Road is §RClosed§!\n§Y*§! China will §YNOT§! declare any wars\n§Y*§! The §YSend Tribute§! and §YRequest Boon§! decisions are §RDisabled§!;;;;;;;;;;;§Y*§! Ø¸ëêîâûé ïóòü §Rçàêðûò§!\n§Y*§! Êèòàé §YÍÅ§! îáúÿâëÿåò íèêîìó âîéíó\n§Y*§! Ðåøåíèÿ §Yñäåëàòü ïîäíîøåíèå§! è §Yïîïðîñèòü äàðû§! §Ríå äîñòóïíû§!;;x
+china_jurchen_invasion;Being Invaded by Jurchens;;;;;;;;;;;×æóð÷æýíüñêîå âòîðæåíèå;;x
+china_jurchen_invasion_desc;An enormous horde of Jurchen horse warriors has descended upon China from the cold and unforgiving Northeast. The mighty Chinese armies are preoccupied with a desperate defense against the fierce invaders. The war is disrupting trade along the Silk Road and could cause a mass exodus of refugees. Should the Jurchens triumph, it is possible that scions of the current Dynasty may flee westward with the remnants of their forces.;;;;;;;;;;;Áåñ÷èñëåííûå îðäû ÷æóð÷æýíåé âòîðãëèñü â Êèòàé ñ õîëîäíîãî Ñåâåðî-Âîñòîêà. Ìîãó÷àÿ êèòàéñêàÿ àðìèÿ îò÷àÿííî áîðåòñÿ ñ çàõâàò÷èêàìè. Âîéíà ñèëüíî ìåøàåò òîðãîâëå íà Ø¸ëêîâîì ïóòè è óæå âûçâàëà ìàññîâûé èñõîä áåæåíöåâ. Åñëè ÷æóð÷æýíè äîáüþòñÿ óñïåõà, ïîòîìêè ïðàâÿùåé äèíàñòèè ìîãóò áåæàòü íà çàïàä ñ îñòàòêàìè ñâîèõ âîéñê.;;x
+china_jurchen_invasion_effect_desc;§Y*§! The value of the Silk Road is reduced by §R50%§!\n§Y*§! Imperial Tributaries can §RNOT§! raise Chinese Regiments\n§Y*§! Chinese refugees might appear in your court\n§Y*§! Might end with China getting a §RNew Dynasty§!, resetting all §YGrace§!;;;;;;;;;;;§Y*§! Äîõîäíîñòü Ø¸ëêîâîãî ïóòè ñíèæåíà íà §R50%§!\n§Y*§! Ñàòåëëèòû (äàííèêè) Èìïåðèè §RÍÅ ìîãóò§! ïðèçâàòü êèòàéñêèå âîéñêà\n§Y*§! Êèòàéñêèå áåæåíöû ìîãóò ïðèáûòü ê Âàøåìó äâîðó\n§Y*§! Ìîæåò ïðèâåñòè ê ñìåíå §Rïðàâÿùåé äèíàñòèè§!, ïðè ýòîì §Yìèëîñòü§! íûíåøíåé áóäåò óòðà÷åíà;;x
+china_mongol_invasion;Being Invaded by the Mongols;;;;;;;;;;;Âòîðæåíèå ìîíãîëîâ;;x
+china_mongol_invasion_desc;The Mongol hordes of the north pour into China. The mighty Chinese armies are occupied with their desperate defense of the Empire, and the fighting has greatly disrupted trade as well as caused a mass exodus of refugees. Scions of the current dynasty may well flee westward if the war goes poorly enough.;;;;;;;;;;;Ñåâåðíàÿ Ìîíãîëüñêàÿ îðäà âòîðãëàñü â Êèòàé. Ìîãó÷àÿ êèòàéñêàÿ àðìèÿ çàíÿòà îò÷àÿííîé ïîïûòêîé çàùèòû èìïåðèè. Èç-çà ñðàæåíèé ñèëüíî ïîñòðàäàëà òîðãîâëÿ, à òàê æå ïðîèçîø¸ë áîëüøîé ïðèòîê áåæåíöåâ. Ïîòîìêè íûíåøíåé äèíàñòèè ìîãóò áåæàòü â çàïàäíîì íàïðàâëåíèè, åñëè âîéíà ïîéäåò íå â èõ ïîëüçó.;;x
+china_mongol_invasion_effect_desc;§Y*§! The value of the Silk Road is reduced by §R50%§!\n§Y*§! Imperial Tributaries can §RNOT§! raise Chinese Regiments\n§Y*§! Chinese refugees might appear in your court\n§Y*§! Might end with China getting a §RNew Dynasty§!, resetting all §YGrace§!;;;;;;;;;;;§Y*§! Äîõîäíîñòü Ø¸ëêîâîãî ïóòè ñíèæåíà íà §R50%§!\n§Y*§! Ñàòåëëèòû (äàííèêè) Èìïåðèè §RÍÅ ìîãóò§! ïðèçâàòü êèòàéñêèå âîéñêà\n§Y*§! Êèòàéñêèå áåæåíöû ìîãóò ïðèáûòü ê Âàøåìó äâîðó\n§Y*§! Ìîæåò ïðèâåñòè ê ñìåíå §Rïðàâÿùåé äèíàñòèè§!, ïðè ýòîì §Yìèëîñòü§! íûíåøíåé áóäåò óòðà÷åíà;;x
+china_open;Open;;;;;;;;;;;Îòêðûòîñòü;;x
+china_open_desc;China is currently open to trade and interested in acquiring friends and tributaries within its sphere of influence.;;;;;;;;;;;[offmap_china.Ruler.GetEmpressEmperorCap] Êèòàÿ â íàñòîÿùåå âðåìÿ ïîëíîñòüþ îòêðûò[offmap_china.Ruler.GetEndA] äëÿ òîðãîâëè è ðàçâèòèÿ äèïëîìàòè÷åñêèõ îòíîøåíèé â ïðåäåëàõ ñôåðû ñâîåãî âëèÿíèÿ.;;x
+china_open_effect_desc;§Y*§! The Silk Road is §YOpen§!;;;;;;;;;;;§Y*§! Ø¸ëêîâûé ïóòü §Yîòêðûò§!;;x
+china_plague;Devastating Plague;;;;;;;;;;;Ñâèðåïàÿ ÷óìà;;x
+china_plague_desc;A terrible disease wracks the [Root.GetName], leaving thousands lying dead in its wake. Trade has ground to a halt as the Chinese economy has been forced to its knees, and even the Empire's armies have been decimated to but a shadow of their former glory.;;;;;;;;;;;Óæàñíàÿ êàòàñòðîôà ïîñòèãëà èìïåðèþ [Root.GetShortName], òûñÿ÷è å¸ ïîääàííûõ êàæäûé äåíü óìèðàþò â ìóêàõ, òîðãîâëÿ îñòàíîâèëàñü, à êèòàéñêàÿ ýêîíîìèêà ïîñòàâëåíà íà êîëåíè. Äàæå àðìèÿ èìïåðèè òåïåðü ïðåäñòàâëÿåò ñîáîé ëèøü òåíü ñâîåãî ïðåæíåãî âåëè÷èÿ.;;x
+china_plague_effect_desc;§Y*§! The value of the Silk Road is reduced by §R90%§!\n§Y*§! Imperial Tributaries can §RNOT§! raise Chinese Regiments;;;;;;;;;;;§Y*§! Äîõîäíîñòü Ø¸ëêîâîãî ïóòè ñíèæåíà íà §R90%§!\n§Y*§! Ñàòåëëèòû (äàííèêè) Èìïåðèè §RÍÅ ìîãóò§! ïðèçâàòü êèòàéñêèå âîéñêà;;x
+china_stable;Stable;;;;;;;;;;;Ñòàáèëüíîñòü;;x
+china_stable_desc;The [Root.GetName] is experiencing a period of internal stability, and trade with the East is profitable. Without any large-scale disasters or powerful enemies prosperity is able to spread, and the military might of China stands ready to defend both its own wealth and its loyal tributaries.;;;;;;;;;;;[Root.GetName] ïåðåæèâàåò ïåðèîä ñòàáèëüíîñòè, ÷òî â öåëîì áëàãîïðèÿòíî äëÿ ìèðîâîé òîðãîâëè. Îòñóòñòâèå êðóïíûõ áåäñòâèé è ìîãóùåñòâåííûõ âðàãîâ ïîçâîëÿåò ïðîöâåòàíèþ ðàñïðîñòðàíÿòüñÿ, à âîîðóæ¸ííûå ñèëû Êèòàÿ ãîòîâû çàùèùàòü íå òîëüêî ñâîþ ñòðàíó, íî è âåðíûõ äàííèêîâ Èìïåðèè.;;x
+china_stable_effect_desc;§Y*§! The value of the Silk Road is unaffected\n§Y*§! Imperial Tributaries can raise Chinese Regiments to help them in wars;;;;;;;;;;;§Y*§! Äîõîäíîñòü Ø¸ëêîâîãî ïóòè íèêàê íå çàòðîíóòà\n§Y*§! Ñàòåëëèòû (äàííèêè) Èìïåðèè ìîãóò ïðèçâàòü êèòàéñêèå âîéñêà äëÿ ñâîèõ âîéí;;x
+china_unrest;Unrest;;;;;;;;;;;Áåñïîðÿäêè;;x
+china_unrest_desc;Civil unrest runs rampant in the [Root.GetName], and it has thrown the trade routes with the East into disarray. China's armies are occupied internally in an attempt to keep the peace, and unless the unrest is quelled soon a full-blown civil war may well erupt at any moment.;;;;;;;;;;;Ãðàæäàíñêèå áåñïîðÿäêè çàõëåñòíóëè èìïåðèþ [Root.GetShortName], ÷òî íå ìîãëî íå îòðàçèòüñÿ íà òîðãîâëå âäîëü Âåëèêîãî Ø¸ëêîâîãî ïóòè. Êèòàéñêèå âîéñêà çàíÿòû âíóòðåííèìè ïðîáëåìàìè, ïûòàÿñü âîññòàíîâèòü ïðàâîïîðÿäîê, è åñëè â áëèæàéùåå âðåìÿ ñèòóàöèÿ íå ðàçðåøèòñÿ, ýòî ìîæåò â ëþáîé ìîìåíò ïåðåðàñòè â ãðàæäàíñêóþ âîéíó.;;x
+china_unrest_effect_desc;§Y*§! The value of the Silk Road is reduced by §R25%§!\n§Y*§! Imperial Tributaries can §RNOT§! raise Chinese Regiments to help them in wars\n§Y*§! This Status might result in a §RCivil War§!;;;;;;;;;;;§Y*§! Äîõîäíîñòü Ø¸ëêîâîãî ïóòè ñíèæåíà íà §R25%§!\n§Y*§! Ñàòåëëèòû (äàííèêè) Èìïåðèè §RÍÅ ìîãóò§! ïðèçâàòü êèòàéñêèå âîéñêà äëÿ ñâîèõ âîéí\n§Y*§! Ýòî ïîëîæåíèå ìîæåò ïåðåðàñòè â §Rãðàæäàíñêóþ âîéíó§!;;x
+cheng_china;Cheng;;;;;;;;;;;×ýí;;x
+chu_china;Chu;;;;;;;;;;;×ó;;x
+dai_china;Dai;;;;;;;;;;;Äàé;;x
+han_china;Han;;;;;;;;;;;Õàíü;;x
+jin_china;Jin;;;;;;;;;;;Öçèíü;;x
+liang_china;Liang;;;;;;;;;;;Ëÿí;;x
+liao_china;Liao;;;;;;;;;;;Ëÿî;;x
+ming_china;Ming;;;;;;;;;;;Ìèí;;x
+qi_china;Qi;;;;;;;;;;;Öè;;x
+qin_china;Qin;;;;;;;;;;;Öèíü;;x
+qing_china;Qing;;;;;;;;;;;Öèí;;x
+shu_china;Shu;;;;;;;;;;;Øó;;x
+shun_china;Shun;;;;;;;;;;;Øóíü;;x
+song_china;Song;;;;;;;;;;;Ñóí;;x
+sui_china;Sui;;;;;;;;;;;Ñóé;;x
+tang_china;Tang;;;;;;;;;;;Òàí;;x
+wei_china;Wei;;;;;;;;;;;Âýé;;x
+wu_china;Wu;;;;;;;;;;;Ó;;x
+xia_china;Xia;;;;;;;;;;;Ñÿ;;x
+yan_china;Yan;;;;;;;;;;;ßíü;;x
+yin_china;Yin;;;;;;;;;;;Èíü;;x
+yuan_china;Yuan;;;;;;;;;;;Þàíü;;x
+yue_china;Yue;;;;;;;;;;;Þý;;x
+zhao_china;Zhao;;;;;;;;;;;×æàî;;x
+zhou_china;Zhou;;;;;;;;;;;×æîó;;x
+TXT_GRACE;Grace;;;;;;;;;;;Ìèëîñòü;;x
+TXT_GRACE_desc;\nGrace is gained by §YPaying Tribute§! to the current Emperor, you can use accumulated Grace to §GAsk for Boons§!. Any Grace you have accumulated will be passed on to your heir during succession.\n§RAll Grace is lost should the Dynasty change in China!§!;;;;;;;;;;;\nÌèëîñòü äà¸òñÿ çà §Yïîäíîøåíèÿ§! [offmap_china.Ruler.GetEmpressEmperorCapDAT], Âû ìîæåòå èñïîëüçîâàòü íàêîïëåííóþ ìèëîñòü, ÷òîáû §Gïîïðîñèòü äàðû§!. Âñÿ ìèëîñòü, êîòîðóþ Âû íàêîïèëè, áóäåò îòäàíà Âàøåìó íàñëåäíèêó ïðè ïåðåäà÷å âëàñòè.\n§RÂñÿ ìèëîñòü áóäåò óòðà÷åíà, åñëè â Êèòàå ñìåíèòñÿ ïðàâÿùàÿ äèíàñòèÿ!§!;;x
 # Used to name pretender empires
-tang_empire;Tang Empire;;;;;;;;;;;;;x
-jin_empire;Jin Empire;;;;;;;;;;;;;x
-wei_empire;Wei Empire;;;;;;;;;;;;;x
-qi_empire;Qi Empire;;;;;;;;;;;;;x
-zhou_empire;Zhou Empire;;;;;;;;;;;;;x
-han_empire;Han Empire;;;;;;;;;;;;;x
-qin_empire;Qin Empire;;;;;;;;;;;;;x
-yan_empire;Yan Empire;;;;;;;;;;;;;x
-zhao_empire;Zhao Empire;;;;;;;;;;;;;x
-liao_empire;Liao Empire;;;;;;;;;;;;;x
-yuan_empire;Yuan Empire;;;;;;;;;;;;;x
-xia_empire;Xia Empire;;;;;;;;;;;;;x
-qing_empire;Qing Empire;;;;;;;;;;;;;x
-dai_empire;Dai Empire;;;;;;;;;;;;;x
-cheng_empire;Cheng Empire;;;;;;;;;;;;;x
-liang_empire;Liang Empire;;;;;;;;;;;;;x
-song_empire;Song Empire;;;;;;;;;;;;;x
-ming_empire;Ming Empire;;;;;;;;;;;;;x
-shu_empire;Shu Empire;;;;;;;;;;;;;x
-wu_empire;Wu Empire;;;;;;;;;;;;;x
-chu_empire;Chu Empire;;;;;;;;;;;;;x
-yue_empire;Yue Empire;;;;;;;;;;;;;x
-yin_empire;Yin Empire;;;;;;;;;;;;;x
-shun_empire;Shun Empire;;;;;;;;;;;;;x
-
+tang_empire;Tang Empire;;;;;;;;;;;Èìïåðèÿ Òàí;;x
+jin_empire;Jin Empire;;;;;;;;;;;Èìïåðèÿ Öçèíü;;x
+wei_empire;Wei Empire;;;;;;;;;;;Èìïåðèÿ Âýé;;x
+qi_empire;Qi Empire;;;;;;;;;;;Èìïåðèÿ Öè;;x
+zhou_empire;Zhou Empire;;;;;;;;;;;Èìïåðèÿ ×æîó;;x
+han_empire;Han Empire;;;;;;;;;;;Èìïåðèÿ Õàíü;;x
+qin_empire;Qin Empire;;;;;;;;;;;Èìïåðèÿ Öèíü;;x
+yan_empire;Yan Empire;;;;;;;;;;;Èìïåðèÿ ßíü;;x
+zhao_empire;Zhao Empire;;;;;;;;;;;Èìïåðèÿ ×æàî;;x
+liao_empire;Liao Empire;;;;;;;;;;;Èìïåðèÿ Ëÿî;;x
+yuan_empire;Yuan Empire;;;;;;;;;;;Èìïåðèÿ Þàíü;;x
+xia_empire;Xia Empire;;;;;;;;;;;Èìïåðèÿ Ñÿ;;x
+qing_empire;Qing Empire;;;;;;;;;;;Èìïåðèÿ Öèí;;x
+dai_empire;Dai Empire;;;;;;;;;;;Èìïåðèÿ Äàé;;x
+cheng_empire;Cheng Empire;;;;;;;;;;;Èìïåðèÿ ×ýí;;x
+liang_empire;Liang Empire;;;;;;;;;;;Èìïåðèÿ Ëÿí;;x
+song_empire;Song Empire;;;;;;;;;;;Èìïåðèÿ Ñóí;;x
+ming_empire;Ming Empire;;;;;;;;;;;Èìïåðèÿ Ìèí;;x
+shu_empire;Shu Empire;;;;;;;;;;;Èìïåðèÿ Øó;;x
+wu_empire;Wu Empire;;;;;;;;;;;Èìïåðèÿ Ó;;x
+chu_empire;Chu Empire;;;;;;;;;;;Èìïåðèÿ ×ó;;x
+yue_empire;Yue Empire;;;;;;;;;;;Èìïåðèÿ Þý;;x
+yin_empire;Yin Empire;;;;;;;;;;;Èìïåðèÿ Èíü;;x
+shun_empire;Shun Empire;;;;;;;;;;;Èìïåðèÿ Øóíü;;x
 # Uses when a Chinese pretender empire is abandoned
-capital_empire_name;[Root.Capital.GetName] Empire;;;;;;;;;;;;;x
+capital_empire_name;[Root.Capital.GetName] Empire;;;;;;;;;;;Èìïåðèÿ [Root.Capital.GetName];;x

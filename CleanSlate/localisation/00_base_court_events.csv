@@ -1,143 +1,137 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC73000;A famous writer proposes to compose your family chronicles.;;;;;;;;;;;;;x
-EVTDESC73001;My young wife has taken a passion for romantic poetry. She keeps reading any sort of romantic poetry she can get hold of.;;;;;;;;;;;;;x
-EVTDESC73002;The church wants to organize a Miracle play for a local saint in our demesne. They seem to feel that it should fall on our shoulders to pay for it.;;;;;;;;;;;;;x
-EVTDESC73003;Peasants from the local countryside have sent a representative to petition for our support for one of their traditional carnivals.;;;;;;;;;;;;;x
-EVTDESC73004;A young talented artist from [Root.Location.GetName] proposes to paint an iconic portrait of [Root.Father.GetBestName].;;;;;;;;;;;;;x
-EVTDESC73005;Luxury clothes are trendy at the moment. What about keeping your courtiers busy by changing the fashion at court?;;;;;;;;;;;;;x
-EVTDESC73006;My trusted and devoted chamberlain just brought to my attention that one of the serving maids have given birth to a child. According to him, my son is the father.;;;;;;;;;;;;;x
-EVTDESC73007;My beloved wife [Root.Spouse.GetFirstName] is constantly bored and keeps talking about the new fashion she has heard about. Now she wants me to introduce it at court...;;;;;;;;;;;;;x
-EVTDESC73008;A famous herald, well versed in the diplomatic protocol, has arrived at our court. He is proposing his services to us, and our chamberlain is saying that we can make good use of this man.;;;;;;;;;;;;;x
-EVTDESC73009;A destitute noble from a former enemy court asks for permanent hospitality.;;;;;;;;;;;;;x
-EVTDESC73010;I have been reading 'Ars Moriendi', and it claims that death is not something a true Christian should be afraid of.;;;;;;;;;;;;;x
-EVTDESC73200;It is sad that [Root.Liege.GetTitledFirstName] is employing [Root.job_marshal.GetTitledFirstName] as [Root.Liege.GetHerHis] marshal. I am more competent and would be a better marshal!;;;;;;;;;;;;;x
-EVTDESC73201;[From.GetBestName] claims that [From.GetSheHe] would be a better marshal than [Root.job_marshal.GetTitledFirstName], and petitions that [From.GetSheHe] should be given the title of Marshal of the [Root.PrimaryTitle.GetFullName].;;;;;;;;;;;;;x
-EVTDESC73202;My liege [From.GetBestName] is not entirely happy with our performance as Marshal of the [Root.PrimaryTitle.GetFullName], and is considering our replacement..;;;;;;;;;;;;;x
-EVTDESC73203;Enough time has passed, I deserve to become Marshal of the [Root.PrimaryTitle.GetFullName], and [Root.Liege.GetTitledFirstName] will make me it!;;;;;;;;;;;;;x
-EVTDESC73204;I promised [From.GetBestName] that [From.GetSheHe] had a chance to become Marshal of the [Root.PrimaryTitle.GetFullName]. Now [From.GetSheHe] is petitioning me again about it.;;;;;;;;;;;;;x
-EVTDESC73205;My dear and trustworthy [This.GetBestName].\nI hereby grant you the title as Marshal of the [Root.PrimaryTitle.GetFullName].\n\n[From.GetBestName];;;;;;;;;;;;;x
-EVTDESC73210;It is sad that [Root.Liege.GetTitledFirstName] is employing [Root.job_spymaster.GetTitledFirstName] as [Root.Liege.GetHerHis] Spymaster. I am more competent and would be a better Spymaster!;;;;;;;;;;;;;x
-EVTDESC73211;[From.GetBestName] claims that [From.GetSheHe] would be a better Spymaster than [Root.job_spymaster.GetTitledFirstName], and petitions that [From.GetSheHe] should be given the title of Spymaster of the [Root.PrimaryTitle.GetFullName].;;;;;;;;;;;;;x
-EVTDESC73212;My liege [From.GetBestName] is not entirely happy with our performance as Spymaster of the [Root.PrimaryTitle.GetFullName], and is considering our replacement..;;;;;;;;;;;;;x
-EVTDESC73213;Enough time has passed, I deserve to become Spymaster of the [Root.PrimaryTitle.GetFullName], and [Root.Liege.GetTitledFirstName] will make me it!;;;;;;;;;;;;;x
-EVTDESC73214;I promised [From.GetBestName] that [From.GetSheHe] had a chance to become Spymaster of the [Root.PrimaryTitle.GetFullName]. Now [From.GetSheHe] is petitioning me again about it.;;;;;;;;;;;;;x
-EVTDESC73215;My dear and trustworthy [This.GetBestName].\nI hereby grant you the title as Spymaster of the [Root.PrimaryTitle.GetFullName].\n\n[From.GetBestName];;;;;;;;;;;;;x
-EVTDESC73220;It is sad that [Root.Liege.GetTitledFirstName] is employing [Root.job_treasurer.GetTitledFirstName] as [Root.Liege.GetHerHis] Steward. I am more competent and would be a better Steward!;;;;;;;;;;;;;x
-EVTDESC73221;[From.GetBestName] claims that [From.GetSheHe] would be a better Steward than [Root.job_treasurer.GetTitledFirstName], and petitions that [From.GetSheHe] should be given the title of Steward of the [Root.PrimaryTitle.GetFullName].;;;;;;;;;;;;;x
-EVTDESC73222;My liege [From.GetBestName] is not entirely happy with our performance as Steward of the [Root.PrimaryTitle.GetFullName], and is considering our replacement..;;;;;;;;;;;;;x
-EVTDESC73223;Enough time has passed, I deserve to become Steward of the [Root.PrimaryTitle.GetFullName], and [Root.Liege.GetTitledFirstName] will make me it!;;;;;;;;;;;;;x
-EVTDESC73224;I promised [From.GetBestName] that [From.GetSheHe] had a chance to become Steward of the [Root.PrimaryTitle.GetFullName]. Now [From.GetSheHe] is petitioning me again about it.;;;;;;;;;;;;;x
-EVTDESC73225;My dear and trustworthy [This.GetBestName].\nI hereby grant you the title as Steward of the [Root.PrimaryTitle.GetFullName].\n\n[From.GetBestName];;;;;;;;;;;;;x
-EVTDESC73230;It is sad that [Root.Liege.GetTitledFirstName] is employing [Root.job_spiritual.GetTitledFirstName] as [Root.Liege.GetHerHis] [Root.GetLordSpiritualName]. I am more competent and would be a better [Root.GetLordSpiritualName]!;;;;;;;;;;;;;x
-EVTDESC73231;[From.GetBestName] claims that [From.GetSheHe] would be a better [Root.GetLordSpiritualName] than [Root.job_spiritual.GetTitledFirstName], and petitions that [From.GetSheHe] should be given the title of [Root.GetLordSpiritualName] of the [Root.PrimaryTitle.GetFullName].;;;;;;;;;;;;;x
-EVTDESC73232;My liege [From.GetBestName] is not entirely happy with our performance as [From.GetLordSpiritualName] of the [Root.PrimaryTitle.GetFullName], and is considering our replacement..;;;;;;;;;;;;;x
-EVTDESC73233;Enough time has passed, I deserve to become [Root.Liege.GetLordSpiritualName] of the [Root.PrimaryTitle.GetFullName], and [Root.Liege.GetTitledFirstName] will make me it!;;;;;;;;;;;;;x
-EVTDESC73234;I promised [From.GetBestName] that [From.GetSheHe] had a chance to become [Root.GetLordSpiritualName] of the [Root.PrimaryTitle.GetFullName]. Now [From.GetSheHe] is petitioning me again about it.;;;;;;;;;;;;;x
-EVTDESC73235;My dear and trustworthy [This.GetBestName].\nI hereby grant you the title as [From.GetLordSpiritualName] of the [From.PrimaryTitle.GetFullName].\n\n[From.GetBestName];;;;;;;;;;;;;x
-EVTDESC73240;It is sad that [Root.Liege.GetTitledFirstName] is employing [Root.job_chancellor.GetTitledFirstName] as [Root.Liege.GetHerHis] [Root.GetChancellorName]. I am more competent and would be a better [Root.GetChancellorName]!;;;;;;;;;;;;;x
-EVTDESC73241;[From.GetBestName] claims that [From.GetSheHe] would be a better [Root.GetChancellorName] than [Root.job_chancellor.GetTitledFirstName], and petitions that [From.GetSheHe] should be given the title of [Root.GetChancellorName] of the [Root.PrimaryTitle.GetFullName].;;;;;;;;;;;;;x
-EVTDESC73242;My liege [From.GetBestName] is not entirely happy with our performance as [Root.GetChancellorName] of the [Root.PrimaryTitle.GetFullName], and is considering our replacement..;;;;;;;;;;;;;x
-EVTDESC73243;Enough time has passed, I deserve to become [Root.GetChancellorName] of the [Root.PrimaryTitle.GetFullName], and [Root.Liege.GetTitledFirstName] will make me it!;;;;;;;;;;;;;x
-EVTDESC73244;I promised [From.GetBestName] that [From.GetSheHe] had a chance to become [Root.GetChancellorName] of the [Root.PrimaryTitle.GetFullName]. Now [From.GetSheHe] is petitioning me again about it.;;;;;;;;;;;;;x
-EVTDESC73245;My dear and trustworthy [This.GetBestName].\nI hereby grant you the title as [Root.GetChancellorName] of the [Root.PrimaryTitle.GetFullName].\n\n[From.GetBestName];;;;;;;;;;;;;x
-
-EVTOPTA73000;Give him patronage;;;;;;;;;;;;;x
-EVTOPTA73001;Get her more to read;;;;;;;;;;;;;x
-EVTOPTA73002;It is for the glory of God!;;;;;;;;;;;;;x
-EVTOPTA73003;We can afford it...;;;;;;;;;;;;;x
-EVTOPTA73004;This will be grand in the main hall.;;;;;;;;;;;;;x
-EVTOPTA73005;Introduce a new fashion at the court;;;;;;;;;;;;;x
-EVTOPTA73006;That's my boy!;;;;;;;;;;;;;x
-EVTOPTA73007;My money is your money, darling;;;;;;;;;;;;;x
-EVTOPTA73008;I can always use more men.;;;;;;;;;;;;;x
-EVTOPTA73009;Welcome him to your court.;;;;;;;;;;;;;x
-EVTOPTA73011;I have avoided temptations!;;;;;;;;;;;;;x
-EVTOPTA73200;I will petition my liege!;;;;;;;;;;;;;x
-EVTOPTA73201;[From.GetSheHeCap] is now my new Marshal;;;;;;;;;;;;;x
-EVTOPTA73202;I must prove myself!;;;;;;;;;;;;;x
-EVTOPTA73203;I await [Root.Liege.GetHerHis] reply eagerly.;;;;;;;;;;;;;x
-EVTOPTA73204;[From.GetSheHeCap] is now my new Marshal;;;;;;;;;;;;;x
-EVTOPTA73205;Its what I deserve..;;;;;;;;;;;;;x
-EVTOPTA73210;I will petition my liege!;;;;;;;;;;;;;x
-EVTOPTA73211;[From.GetSheHeCap] is now my new Spymaster;;;;;;;;;;;;;x
-EVTOPTA73212;I must prove myself!;;;;;;;;;;;;;x
-EVTOPTA73213;I await [Root.Liege.GetHerHis] reply eagerly.;;;;;;;;;;;;;x
-EVTOPTA73214;[From.GetSheHeCap] is now my new Spymaster;;;;;;;;;;;;;x
-EVTOPTA73215;Its what I deserve..;;;;;;;;;;;;;x
-EVTOPTA73220;I will petition my liege!;;;;;;;;;;;;;x
-EVTOPTA73221;[From.GetSheHeCap] is now my new Steward;;;;;;;;;;;;;x
-EVTOPTA73222;I must prove myself!;;;;;;;;;;;;;x
-EVTOPTA73223;I await [Root.Liege.GetHerHis] reply eagerly.;;;;;;;;;;;;;x
-EVTOPTA73224;[From.GetSheHeCap] is now my new Steward;;;;;;;;;;;;;x
-EVTOPTA73225;It's what I deserve..;;;;;;;;;;;;;x
-EVTOPTA73230;I will petition my liege!;;;;;;;;;;;;;x
-EVTOPTA73231;[From.GetSheHeCap] is now my new [Root.GetLordSpiritualName];;;;;;;;;;;;;x
-EVTOPTA73232;I must prove myself!;;;;;;;;;;;;;x
-EVTOPTA73233;I await [Root.Liege.GetHerHis] reply eagerly.;;;;;;;;;;;;;x
-EVTOPTA73234;[From.GetSheHeCap] is now my new [Root.GetLordSpiritualName];;;;;;;;;;;;;x
-EVTOPTA73235;Its what I deserve..;;;;;;;;;;;;;x
-EVTOPTA73240;I will petition my liege!;;;;;;;;;;;;;x
-EVTOPTA73241;[From.GetSheHeCap] is now my new [Root.GetChancellorName];;;;;;;;;;;;;x
-EVTOPTA73242;I must prove myself!;;;;;;;;;;;;;x
-EVTOPTA73243;I await [Root.Liege.GetHerHis] reply eagerly.;;;;;;;;;;;;;x
-EVTOPTA73244;[From.GetSheHeCap] is now my new [Root.GetChancellorName];;;;;;;;;;;;;x
-EVTOPTA73245;Its what I deserve..;;;;;;;;;;;;;x
-
-EVTOPTB73000;Ignore him;;;;;;;;;;;;;x
-EVTOPTB73001;That is her interest, not mine.;;;;;;;;;;;;;x
-EVTOPTB73002;If the Church wants it, the Church pays for it..;;;;;;;;;;;;;x
-EVTOPTB73003;They are just peasants...;;;;;;;;;;;;;x
-EVTOPTB73004;This is a waste of money.;;;;;;;;;;;;;x
-EVTOPTB73005;There are better ways of spending the taxes;;;;;;;;;;;;;x
-EVTOPTB73006;Force him to adopt the child to prevent scandal;;;;;;;;;;;;;x
-EVTOPTB73007;Vanity is a sin, let's go to the church instead;;;;;;;;;;;;;x
-EVTOPTB73008;Another mouth to feed is not what I need.;;;;;;;;;;;;;x
-EVTOPTB73009;Tell him he can only stay for the night.;;;;;;;;;;;;;x
-EVTOPTB73011;Forgive me father, for I have sinned.;;;;;;;;;;;;;x
-EVTOPTB73201;Give [Root.job_marshal.GetFirstName] a chance!;;;;;;;;;;;;;x
-EVTOPTB73202;What can I do?;;;;;;;;;;;;;x
-EVTOPTB73211;Give [Root.job_spymaster.GetTitledFirstName] a chance!;;;;;;;;;;;;;x
-EVTOPTB73212;What can I do?;;;;;;;;;;;;;x
-EVTOPTB73221;Give [Root.job_treasurer.GetFirstName] a chance!;;;;;;;;;;;;;x
-EVTOPTB73222;What can I do?;;;;;;;;;;;;;x
-EVTOPTB73231;Give [Root.job_spiritual.GetTitledFirstName] a chance!;;;;;;;;;;;;;x
-EVTOPTB73232;What can I do?;;;;;;;;;;;;;x
-EVTOPTB73241;Give [Root.job_chancellor.GetTitledFirstName] a chance!;;;;;;;;;;;;;x
-EVTOPTB73242;What can I do?;;;;;;;;;;;;;x
-
-EVTOPTC73001;These are books created by Satan!;;;;;;;;;;;;;x
-EVTOPTC73006;Give him a beating for messing with inferiors;;;;;;;;;;;;;x
-EVTOPTC73007;This is my money you're talking about;;;;;;;;;;;;;x
-EVTOPTC73011;I do not fear death...;;;;;;;;;;;;;x
-EVTOPTC73201;I rule in the [Root.PrimaryTitle.GetFullName]!;;;;;;;;;;;;;x
-EVTOPTC73204;I rule in the [Root.PrimaryTitle.GetFullName]!;;;;;;;;;;;;;x
-EVTOPTC73211;I rule in the [Root.PrimaryTitle.GetFullName]!;;;;;;;;;;;;;x
-EVTOPTC73214;I rule in the [Root.PrimaryTitle.GetFullName]!;;;;;;;;;;;;;x
-EVTOPTC73221;I rule in the [Root.PrimaryTitle.GetFullName]!;;;;;;;;;;;;;x
-EVTOPTC73224;I rule in the [Root.PrimaryTitle.GetFullName]!;;;;;;;;;;;;;x
-EVTOPTC73231;I rule in the [Root.PrimaryTitle.GetFullName]!;;;;;;;;;;;;;x
-EVTOPTC73234;I rule in the [Root.PrimaryTitle.GetFullName]!;;;;;;;;;;;;;x
-EVTOPTC73241;I rule in the [Root.PrimaryTitle.GetFullName]!;;;;;;;;;;;;;x
-EVTOPTC73244;I rule in the [Root.PrimaryTitle.GetFullName]!;;;;;;;;;;;;;x
-
-EVTOPTD73001;These are books created by Shaytan!;;;;;;;;;;;;;x
-EVTOPTD73006;Send him to confess his sins!;;;;;;;;;;;;;x
-EVTOPTD73011;I am just a poor sinner...;;;;;;;;;;;;;x
-
-EVTTOOLTIP73005;I will consider introducing new fashion at the court.;;;;;;;;;;;;;x
-EVTTOOLTIP73201;[This.GetTitledFirstName] will listen to our petition and hopefully make a wise choice;;;;;;;;;;;;;x
-EVTTOOLTIP73202;[This.GetTitledFirstName] will hear of our patience.;;;;;;;;;;;;;x
-EVTTOOLTIP73204;[This.GetTitledFirstName] will listen to our petition and hopefully make a wise choice;;;;;;;;;;;;;x
-EVTTOOLTIP73211;[This.GetTitledFirstName] will listen to our petition and hopefully make a wise choice;;;;;;;;;;;;;x
-EVTTOOLTIP73212;[This.GetTitledFirstName] will hear of our patience.;;;;;;;;;;;;;x
-EVTTOOLTIP73214;[This.GetTitledFirstName] will listen to our petition and hopefully make a wise choice;;;;;;;;;;;;;x
-EVTTOOLTIP73221;[This.GetTitledFirstName] will listen to our petition and hopefully make a wise choice;;;;;;;;;;;;;x
-EVTTOOLTIP73222;[This.GetTitledFirstName] will hear of our patience.;;;;;;;;;;;;;x
-EVTTOOLTIP73224;[This.GetTitledFirstName] will listen to our petition and hopefully make a wise choice;;;;;;;;;;;;;x
-EVTTOOLTIP73231;[This.GetTitledFirstName] will listen to our petition and hopefully make a wise choice;;;;;;;;;;;;;x
-EVTTOOLTIP73232;[This.GetTitledFirstName] will hear of our patience.;;;;;;;;;;;;;x
-EVTTOOLTIP73234;[This.GetTitledFirstName] will listen to our petition and hopefully make a wise choice;;;;;;;;;;;;;x
-EVTTOOLTIP73241;[This.GetTitledFirstName] will listen to our petition and hopefully make a wise choice;;;;;;;;;;;;;x
-EVTTOOLTIP73242;[This.GetTitledFirstName] will hear of our patience.;;;;;;;;;;;;;x
-EVTTOOLTIP73244;[This.GetTitledFirstName] will listen to our petition and hopefully make a wise choice;;;;;;;;;;;;;x
+EVTDESC73000;A famous writer proposes to compose your family chronicles.;;;;;;;;;;;Èçâåñòíûé ïèñàòåëü ïðåäëàãàåò ñîñòàâèòü ñâîþ ëåòîïèñü Âàøåé ñåìüè.;;x
+EVTDESC73001;My young wife has taken a passion for romantic poetry. She keeps reading any sort of romantic poetry she can get hold of.;;;;;;;;;;;Ó ìîåé ìîëîäîé æåíû ïîÿâèëàñü ñòðàñòü ê ðîìàíòè÷åñêîé ïîýçèè. Îíà ïðîäîëæàåò ÷èòàòü ëþáûå âèäû ðîìàíòè÷åñêèõ ñòèõîâ, êîòîðûå ïîïàäàþò ê íåé â ðóêè.;;x
+EVTDESC73002;The church wants to organize a Miracle play for a local saint in our demesne. They seem to feel that it should fall on our shoulders to pay for it.;;;;;;;;;;;Öåðêîâü õî÷åò ïî÷òèòü ÷óäî, ñîòâîðåííîå ìåñòíûì ñâÿòûì. Îíè ñ÷èòàþò, ÷òî ôèíàíñîâûå òÿãîòû ýòîãî äîëæíû ëå÷ü íà Âàøè ïëå÷è.;;x
+EVTDESC73003;Peasants from the local countryside have sent a representative to petition for our support for one of their traditional carnivals.;;;;;;;;;;;Êðåñòüÿíå ìåñòíîé äåðåâíè ïîñëàëè ÷åëîáèò÷èêà, äàáû ïðîñèòü Âàñ î ìàòåðèàëüíîé ïîääåðæêå îäíîãî èç òðàäèöèîííûõ îáðÿäîâ.;;x
+EVTDESC73004;A young talented artist from [Root.Location.GetName] proposes to paint an iconic portrait of [Root.Father.GetBestName].;;;;;;;;;;;"Ìîëîäîé òàëàíòëèâûé [Root.Location.County.GetAdjective]ñêèé õóäîæíèê ïðåäëàãàåò íàðèñîâàòü ïîðòðåò ""[Root.Father.GetBestName]"".";;x
+EVTDESC73005;Luxury clothes are trendy at the moment. What about keeping your courtiers busy by changing the fashion at court?;;;;;;;;;;;Ðîñêîøíûå îäåæäû òåïåðü â ìîäå. Äîëæíû ëè ìû ïîçàáîòèòüñÿ î ñîáëþäåíèè ìîäû ïðè äâîðå?;;x
+EVTDESC73006;My trusted and devoted chamberlain just brought to my attention that one of the serving maids have given birth to a child. According to him, my son is the father.;;;;;;;;;;;Ìîé ÷åñòíûé è âåðíûé êàìåðãåð íåâçíà÷àé óïîìÿíóë, ÷òî îäíà èç ãîðíè÷íûõ ðîäèëà ðåá¸íêà. Ïî åãî ñëîâàì, îòöîì ðåá¸íêà ÿâëÿåòñÿ ìîé ñûí.;;x
+EVTDESC73007;My beloved wife [Root.Spouse.GetFirstName] is constantly bored and keeps talking about the new fashion she has heard about. Now she wants me to introduce it at court...;;;;;;;;;;;Ìîÿ ëþáèìàÿ æåíà [Root.Spouse.GetFirstName] ïîñòîÿííî ñêó÷àåò è ïðîäîëæàåò ãîâîðèòü î íîâûõ òåíäåíöèÿõ ìîäû, î êîòîðûõ îíà ñëûøàëà. Òåïåðü îíà õî÷åò ââåñòè èõ ïðè äâîðå…;;x
+EVTDESC73008;A famous herald, well versed in the diplomatic protocol, has arrived at our court. He is proposing his services to us, and our chamberlain is saying that we can make good use of this man.;;;;;;;;;;;Èçâåñòíûé ãåðîëüä, õîðîøî ðàçáèðàþùèéñÿ â äèïëîìàòè÷åñêîì ïðîòîêîëå, ïðèáûë ê íàøåìó äâîðó. Îí ïðåäëàãàåò íàì ñâîè óñëóãè è íàø êàìåðãåð ãîâîðèò, ÷òî ìû ìîæåì ïîëó÷èòü áîëüøèå âûãîäû îò åãî íàéìà.;;x
+EVTDESC73009;A destitute noble from a former enemy court asks for permanent hospitality.;;;;;;;;;;;Îáåçäîëåííûé àðèñòîêðàò, áûâøèé ðàíåå ïðè âðàæåñêîì äâîðå, ïðîñèò íàñ ïðèþòèòü åãî.;;x
+EVTDESC73010;I have been reading 'Ars Moriendi', and it claims that death is not something a true Christian should be afraid of.;;;;;;;;;;;"ß ïðî÷èòàë[Root.GetEndA] ""Ars Moriendi"", óòâåðæäàþùóþ ÷òî ñìåðòü - ýòî íå òî, ÷åãî äîëæåí áîÿòüñÿ èñòèííûé Õðèñòèàíèí.";;x
+EVTDESC73200;It is sad that [Root.Liege.GetTitledFirstName] is employing [Root.job_marshal.GetTitledFirstName] as [Root.Liege.GetHerHis] marshal. I am more competent and would be a better marshal!;;;;;;;;;;;Äîñàäíî, ÷òî [Root.Liege.GetTitledFirstName] äåðæèò íà äîëæíîñòè âîåíà÷àëüíèêà òàêîãî ÷åëîâåêà, êàê [Root.job_marshal.GetTitledFirstName]. ß áîëüøå ïîäõîæó äëÿ ýòîãî!;;x
+EVTDESC73201;[From.GetBestName] claims that [From.GetSheHe] would be a better marshal than [Root.job_marshal.GetTitledFirstName], and petitions that [From.GetSheHe] should be given the title of Marshal of the [Root.PrimaryTitle.GetFullName].;;;;;;;;;;;[From.GetBestName] çàÿâëÿåò, ÷òî èç í[From.GetHersHis] âûéäåò ëó÷øèé [Root.GetMarshalName] ÷åì [Root.job_marshal.GetTitledFirstName] è ïðîñèò ñåáå ýòîò ïîñò.;;x
+EVTDESC73202;My liege [From.GetBestName] is not entirely happy with our performance as Marshal of the [Root.PrimaryTitle.GetFullName], and is considering our replacement..;;;;;;;;;;;[From.GetBestName] íå âûðàæàåò óäîâëåòâîð¸ííîñòè ìîèìè äåéñòâèÿìè â äîëæíîñòè âîåíà÷àëüíèêà è ïîäûñêèâàåò ìíå çàìåíó.;;x
+EVTDESC73203;Enough time has passed, I deserve to become Marshal of the [Root.PrimaryTitle.GetFullName], and [Root.Liege.GetTitledFirstName] will make me it!;;;;;;;;;;;"Ìî¸ òåðïåíèå íà èñõîäå, ÿ çàñëóæèâàþ äîëæíîñòü ""[Root.Liege.GetMarshalName] ãîñóäàðñòâà [Root.PrimaryTitle.GetFullName]"" è [Root.Liege.GetTitledFirstName] äàñò å¸ ìíå!";;x
+EVTDESC73204;I promised [From.GetBestName] that [From.GetSheHe] had a chance to become Marshal of the [Root.PrimaryTitle.GetFullName]. Now [From.GetSheHe] is petitioning me again about it.;;;;;;;;;;;[From.GetBestName] íàïîìíèë[From.GetEndA] ìíå î ìî¸ì îáåùàíèè äàòü [From.GetHerHim] äîëæíîñòü âîåíí[From.GetOyOgo] ñîâåòíè[From.GetTsyKa].;;x
+EVTDESC73205;My dear and trustworthy [This.GetBestName].\nI hereby grant you the title as Marshal of the [Root.PrimaryTitle.GetFullName].\n\n[From.GetBestName];;;;;;;;;;;"[This.GetBestName].\nÑèì æàëóþ Âàì äîëæíîñòü ""[From.GetMarshalName] ãîñóäàðñòâà [Root.PrimaryTitle.GetFullName]"".\n[From.GetBestName]";;x
+EVTDESC73210;It is sad that [Root.Liege.GetTitledFirstName] is employing [Root.job_spymaster.GetTitledFirstName] as [Root.Liege.GetHerHis] Spymaster. I am more competent and would be a better Spymaster!;;;;;;;;;;;Äîñàäíî, ÷òî [Root.Liege.GetTitledFirstName] äåðæèò ñâîèì òàéíûì ñîâåòíèêîì òàêîãî ÷åëîâåêà, êàê [Root.job_spymaster.GetTitledFirstName]. ß áîëåå ïîäõîæó äëÿ ýòîé äîëæíîñòè!;;x
+EVTDESC73211;[From.GetBestName] claims that [From.GetSheHe] would be a better Spymaster than [Root.job_spymaster.GetTitledFirstName], and petitions that [From.GetSheHe] should be given the title of Spymaster of the [Root.PrimaryTitle.GetFullName].;;;;;;;;;;;"[From.GetBestName] çàÿâëÿåò, ÷òî ëó÷øå ïîäõîäèò íà äîëæíîñòü ""[Root.GetSpymasterName]"" ÷åì [Root.job_spymaster.GetTitledFirstName] è ïðîñèò å¸ ñåáå.";;x
+EVTDESC73212;My liege [From.GetBestName] is not entirely happy with our performance as Spymaster of the [Root.PrimaryTitle.GetFullName], and is considering our replacement..;;;;;;;;;;;[From.GetBestName] íå âûðàæàåò óäîâëåòâîðåíèÿ ìîèìè äåéñòâèÿìè â äîëæíîñòè òàéíîãî ñîâåòíèêà è ïîäûñêèâàåò ìíå çàìåíó.;;x
+EVTDESC73213;Enough time has passed, I deserve to become Spymaster of the [Root.PrimaryTitle.GetFullName], and [Root.Liege.GetTitledFirstName] will make me it!;;;;;;;;;;;"Ìî¸ òåðïåíèå íà èñõîäå, ÿ çàñëóæèâàþ äîëæíîñòü òàéíîãî ñîâåòíèêà â ãîñóäàðñòâå ""[Root.PrimaryTitle.GetFullName]"" è [Root.Liege.GetTitledFirstName] íàçíà÷èò ìåíÿ!";;x
+EVTDESC73214;I promised [From.GetBestName] that [From.GetSheHe] had a chance to become Spymaster of the [Root.PrimaryTitle.GetFullName]. Now [From.GetSheHe] is petitioning me again about it.;;;;;;;;;;;[From.GetBestName] íàïîìíèë[From.GetEndA] ìíå î ìî¸ì îáåùàíèè äàòü [From.GetHerHim] äîëæíîñòü òàéí[From.GetOyOgo] ñîâåòíè[From.GetTsyKa].;;x
+EVTDESC73215;My dear and trustworthy [This.GetBestName].\nI hereby grant you the title as Spymaster of the [Root.PrimaryTitle.GetFullName].\n\n[From.GetBestName];;;;;;;;;;;"[This.GetBestName].\nÑèì æàëóþ Âàì äîëæíîñòü òàéíîãî ñîâåòíèêà â ãîñóäàðñòâå ""[Root.PrimaryTitle.GetFullName]"".\n[From.GetBestName]";;x
+EVTDESC73220;It is sad that [Root.Liege.GetTitledFirstName] is employing [Root.job_treasurer.GetTitledFirstName] as [Root.Liege.GetHerHis] Steward. I am more competent and would be a better Steward!;;;;;;;;;;;"Äîñàäíî, ÷òî [Root.Liege.GetTitledFirstName] äåðæèò íà äîëæíîñòè ""[Root.GetTreasurerName]"" òàêîãî ÷åëîâåêà, êàê [Root.job_treasurer.GetTitledFirstName]. ß áîëüøå ïîäõîæó äëÿ ýòîãî!";;x
+EVTDESC73221;[From.GetBestName] claims that [From.GetSheHe] would be a better Steward than [Root.job_treasurer.GetTitledFirstName], and petitions that [From.GetSheHe] should be given the title of Steward of the [Root.PrimaryTitle.GetFullName].;;;;;;;;;;;"[From.GetBestName] çàÿâëÿåò, ÷òî ëó÷øå ïîäõîäèò äëÿ äîëæíîñòè ""[Root.GetTreasurerName]"" ÷åì [Root.job_treasurer.GetTitledFirstName] è ïðîñèò ñåáå ýòó äîëæíîñòü.";;x
+EVTDESC73222;My liege [From.GetBestName] is not entirely happy with our performance as Steward of the [Root.PrimaryTitle.GetFullName], and is considering our replacement..;;;;;;;;;;;"[From.GetBestName] íå âûðàæàåò óäîâëåòâîðåíèÿ ìîèìè äåéñòâèÿìè â äîëæíîñòè ""[Root.GetTreasurerName]"" è ïîäûñêèâàåò çàìåíó.";;x
+EVTDESC73223;Enough time has passed, I deserve to become Steward of the [Root.PrimaryTitle.GetFullName], and [Root.Liege.GetTitledFirstName] will make me it!;;;;;;;;;;;"Ìî¸ òåðïåíèå íà èñõîäå, ÿ çàñëóæèâàþ äîëæíîñòü ""[Root.Liege.GetTreasurerName] ãîñóäàðñòâà [Root.PrimaryTitle.GetFullName]"" è [Root.Liege.GetTitledFirstName] íàçíà÷èò ìåíÿ!";;x
+EVTDESC73224;I promised [From.GetBestName] that [From.GetSheHe] had a chance to become Steward of the [Root.PrimaryTitle.GetFullName]. Now [From.GetSheHe] is petitioning me again about it.;;;;;;;;;;;[From.GetBestName] íàïîìíèë[From.GetEndA] ìíå î ìî¸ì îáåùàíèè äàòü [From.GetHerHim] äîëæíîñòü óïðàâëÿþùå[From.GetYGo].;;x
+EVTDESC73225;My dear and trustworthy [This.GetBestName].\nI hereby grant you the title as Steward of the [Root.PrimaryTitle.GetFullName].\n\n[From.GetBestName];;;;;;;;;;;"[This.GetBestName].\nÑèì æàëóþ Âàì äîëæíîñòü ""[Root.GetTreasurerName] ãîñóäàðñòâà [Root.PrimaryTitle.GetFullName]"".\n[From.GetBestName]";;x
+EVTDESC73230;It is sad that [Root.Liege.GetTitledFirstName] is employing [Root.job_spiritual.GetTitledFirstName] as [Root.Liege.GetHerHis] [Root.GetLordSpiritualName]. I am more competent and would be a better [Root.GetLordSpiritualName]!;;;;;;;;;;;"Ãîâîðÿò, ÷òî [Root.Liege.GetTitledFirstName] ñ÷èòàåò, ÷òî [Root.job_spiritual.GetTitledFirstName] äîñòî[Root.job_spiritual.GetYnaIn] äîëæíîñòè ""[Root.GetLordSpiritualName]"". Îäíàêî, ÿ ñ÷èòàþ ñåáÿ êîìïåòåíòíåå â ýòîì âîïðîñå!";;x
+EVTDESC73231;[From.GetBestName] claims that [From.GetSheHe] would be a better [Root.GetLordSpiritualName] than [Root.job_spiritual.GetTitledFirstName], and petitions that [From.GetSheHe] should be given the title of [Root.GetLordSpiritualName] of the [Root.PrimaryTitle.GetFullName].;;;;;;;;;;;"[From.GetBestName] óòâåðæäàåò, ÷òî [From.GetSheHe] ëó÷øå ñïðàâèòñÿ ñ äîëæíîñòüþ ""[Root.GetLordSpiritualName]"", ÷åì [Root.job_spiritual.GetTitledFirstName], è çàÿâëÿåò, ÷òî èìåííî [From.GetHerHim] ñëåäóåò çàíÿòü ýòó äîëæíîñòü.";;x
+EVTDESC73232;My liege [From.GetBestName] is not entirely happy with our performance as [From.GetLordSpiritualName] of the [Root.PrimaryTitle.GetFullName], and is considering our replacement..;;;;;;;;;;;"Ìîé ñþçåðåí, [From.GetBestName], ñ÷èòàåò ìîþ äåÿòåëüíîñòü íà äîëæíîñòè ""[From.GetLordSpiritualName] ãîñóäàðñòâà [Root.PrimaryTitle.GetFullName]"" íåäîñòàòî÷íîé, è ðàññìàòðèâàåò âîçìîæíîñòü çàìåíèòü ìåíÿ íà êîãî-òî äðóãîãî...";;x
+EVTDESC73233;Enough time has passed, I deserve to become [Root.Liege.GetLordSpiritualName] of the [Root.PrimaryTitle.GetFullName], and [Root.Liege.GetTitledFirstName] will make me it!;;;;;;;;;;;"Äîñòàòî÷íî âðåìåíè ïðîøëî, ÿ çàñëóæèâàþ òîãî, ÷òîáû ìåíÿ íàçûâàëè - ""[Root.Liege.GetLordSpiritualName] ãîñóäàðñòâà [Root.PrimaryTitle.GetFullName]"", è [Root.Liege.GetTitledFirstName] ìåíÿ íàçíà÷èò!";;x
+EVTDESC73234;I promised [From.GetBestName] that [From.GetSheHe] had a chance to become [Root.GetLordSpiritualName] of the [Root.PrimaryTitle.GetFullName]. Now [From.GetSheHe] is petitioning me again about it.;;;;;;;;;;;[From.GetBestName] íàïîìíèë[From.GetEndA] ìíå î ìî¸ì îáåùàíèè äàòü [From.GetHerHim] äîëæíîñòü äóõîâí[From.GetOyOgo] ñîâåòíè[From.GetTsyKa].;;x
+EVTDESC73235;My dear and trustworthy [This.GetBestName].\nI hereby grant you the title as [From.GetLordSpiritualName] of the [From.PrimaryTitle.GetFullName].\n\n[From.GetBestName];;;;;;;;;;;"Ì[This.GetOyaOy] äîðîã[This.GetOyaOy] è çàñëóæèâàþù[This.GetAyaIy] äîâåðèÿ ïîääàíí[This.GetAyaYy]: [This.GetBestName].\nÑèì äàðóþ Âàì òèòóë ""[From.GetLordSpiritualName] ãîñóäàðñòâà [From.PrimaryTitle.GetFullName]"".\n[From.GetBestName]";;x
+EVTDESC73240;It is sad that [Root.Liege.GetTitledFirstName] is employing [Root.job_chancellor.GetTitledFirstName] as [Root.Liege.GetHerHis] [Root.GetChancellorName]. I am more competent and would be a better [Root.GetChancellorName]!;;;;;;;;;;;Äîñàäíî, ÷òî [Root.Liege.GetTitledFirstName] äåðæèò íà äîëæíîñòè [Root.Liege.GetChancellorName] òàêîãî ÷åëîâåêà, âåäü [Root.job_chancellor.GetTitledFirstName] íèêàê íå ïîäõîäèò äëÿ ýòîé äîëæíîñòè. Ó ìåíÿ ïîëó÷èòñÿ ãîðàçäî ëó÷øå!;;x
+EVTDESC73241;[From.GetBestName] claims that [From.GetSheHe] would be a better [Root.GetChancellorName] than [Root.job_chancellor.GetTitledFirstName], and petitions that [From.GetSheHe] should be given the title of [Root.GetChancellorName] of the [Root.PrimaryTitle.GetFullName].;;;;;;;;;;;[From.GetBestName] ñ÷èòàåò, ÷òî èç í[From.GetHersHis] âûéäåò ëó÷øèé [Root.GetChancellorName], íåæåëè [Root.job_chancellor.GetTitledFirstName], è ïðîñèò ñåáå ýòó äîëæíîñòü.;;x
+EVTDESC73242;My liege [From.GetBestName] is not entirely happy with our performance as [Root.GetChancellorName] of the [Root.PrimaryTitle.GetFullName], and is considering our replacement..;;;;;;;;;;;"Ìîé ñþçåðåí, [From.GetBestName], èñïûòûâàåò íåóäîâëåòâîðåíèå ìîèìè äåéñòâèÿìè íà ïîñòó ""[Root.GetChancellorName] ãîñóäàðñòâà [Root.PrimaryTitle.GetFullName]"" è ïîäûñêèâàåò ìíå çàìåíó.";;x
+EVTDESC73243;Enough time has passed, I deserve to become [Root.GetChancellorName] of the [Root.PrimaryTitle.GetFullName], and [Root.Liege.GetTitledFirstName] will make me it!;;;;;;;;;;;"Ïðîøëî äîñòàòî÷íî âðåìåíè â îæèäàíèè. ß õî÷ó ïîëó÷èòü äîëæíîñòü ""[Root.Liege.GetChancellorName] ãîñóäàðñòâà [Root.PrimaryTitle.GetFullName]"". Ïóñòü [Root.Liege.GetTitledFirstName] íàçíà÷èò ìåíÿ!";;x
+EVTDESC73244;I promised [From.GetBestName] that [From.GetSheHe] had a chance to become [Root.GetChancellorName] of the [Root.PrimaryTitle.GetFullName]. Now [From.GetSheHe] is petitioning me again about it.;;;;;;;;;;;[From.GetBestName] íàïîìíèë[From.GetEndA] ìíå î ìî¸ì îáåùàíèè äàòü [From.GetHerHim] äîëæíîñòü êàíöëåðà.;;x
+EVTDESC73245;My dear and trustworthy [This.GetBestName].\nI hereby grant you the title as [Root.GetChancellorName] of the [Root.PrimaryTitle.GetFullName].\n\n[From.GetBestName];;;;;;;;;;;"[This.GetBestName].\nÍàñòîÿùèì Óêàçîì æàëóþ Âàì äîëæíîñòü ""[Root.GetChancellorName] â ãîñóäàðñòâå [Root.PrimaryTitle.GetFullName]"".\n[From.GetBestName]";;x
+EVTOPTA73000;Give him patronage;;;;;;;;;;;Îêàçàòü åìó ñâî¸ ïîêðîâèòåëüñòâî;;x
+EVTOPTA73001;Get her more to read;;;;;;;;;;;Äàéòå åé áîëüøå êíèã;;x
+EVTOPTA73002;It is for the glory of God!;;;;;;;;;;;Ýòî âî ñëàâó Áîãà!;;x
+EVTOPTA73003;We can afford it...;;;;;;;;;;;Ìû ìîæåì ñåáå ýòî ïîçâîëèòü…;;x
+EVTOPTA73004;This will be grand in the main hall.;;;;;;;;;;;Ýòî áóäåò îòëè÷íûì äîïîëíåíèåì ìîåãî òðîííîãî çàëà;;x
+EVTOPTA73005;Introduce a new fashion at the court;;;;;;;;;;;Ñîäåéñòâóéòå ïîêóïêå ìîäíûõ îäåæä;;x
+EVTOPTA73006;That's my boy!;;;;;;;;;;;Ìîëîäåö, òàê äåðæàòü!;;x
+EVTOPTA73007;My money is your money, darling;;;;;;;;;;;Ìîè äåíüãè - òâîè äåíüãè, äîðîãàÿ;;x
+EVTOPTA73008;I can always use more men.;;;;;;;;;;;ß âñåãäà ìîãó íàíÿòü íóæíîãî ÷åëîâåêà;;x
+EVTOPTA73009;Welcome him to your court.;;;;;;;;;;;Ïðèâåòñòâîâàòü åãî ïðè äâîðå;;x
+EVTOPTA73011;I have avoided temptations!;;;;;;;;;;;ß èçáåãàë[Root.GetEndA] ñîáëàçíîâ!;;x
+EVTOPTA73200;I will petition my liege!;;;;;;;;;;;ß ïîäàì ïðîøåíèå!;;x
+EVTOPTA73201;[From.GetSheHeCap] is now my new Marshal;;;;;;;;;;;[From.GetSheHeCap] òåïåðü [Root.GetMarshalName].;;x
+EVTOPTA73202;I must prove myself!;;;;;;;;;;;Íóæíî ïðîÿâèòü ñåáÿ ñ ëó÷øåé ñòîðîíû!;;x
+EVTOPTA73203;I await [Root.Liege.GetHerHis] reply eagerly.;;;;;;;;;;;ß ñ íåòåðïåíèåì æäó [Root.Liege.GetHersHis] îòâåòà.;;x
+EVTOPTA73204;[From.GetSheHeCap] is now my new Marshal;;;;;;;;;;;[From.GetSheHeCap] òåïåðü [Root.GetMarshalName].;;x
+EVTOPTA73205;Its what I deserve..;;;;;;;;;;;ß ýòî çàñëóæèâàþ...;;x
+EVTOPTA73210;I will petition my liege!;;;;;;;;;;;ß ïîäàì ïðîøåíèå!;;x
+EVTOPTA73211;[From.GetSheHeCap] is now my new Spymaster;;;;;;;;;;;[From.GetSheHeCap] òåïåðü [Root.GetSpymasterName];;x
+EVTOPTA73212;I must prove myself!;;;;;;;;;;;Íóæíî ïðîÿâèòü ñåáÿ ñ ëó÷øåé ñòîðîíû!;;x
+EVTOPTA73213;I await [Root.Liege.GetHerHis] reply eagerly.;;;;;;;;;;;ß ñ íåòåðïåíèåì æäó [Root.Liege.GetHersHis] îòâåòà.;;x
+EVTOPTA73214;[From.GetSheHeCap] is now my new Spymaster;;;;;;;;;;;[From.GetSheHeCap] òåïåðü [Root.GetSpymasterName].;;x
+EVTOPTA73215;Its what I deserve..;;;;;;;;;;;ß ýòî çàñëóæèâàþ...;;x
+EVTOPTA73220;I will petition my liege!;;;;;;;;;;;ß ïîäàì ïðîøåíèå!;;x
+EVTOPTA73221;[From.GetSheHeCap] is now my new Steward;;;;;;;;;;;[From.GetSheHeCap] òåïåðü [Root.GetTreasurerName];;x
+EVTOPTA73222;I must prove myself!;;;;;;;;;;;Íóæíî ïðîÿâèòü ñåáÿ ñ ëó÷øåé ñòîðîíû!;;x
+EVTOPTA73223;I await [Root.Liege.GetHerHis] reply eagerly.;;;;;;;;;;;ß ñ íåòåðïåíèåì æäó [Root.Liege.GetHersHis] îòâåòà.;;x
+EVTOPTA73224;[From.GetSheHeCap] is now my new Steward;;;;;;;;;;;[From.GetSheHeCap] òåïåðü [Root.GetTreasurerName].;;x
+EVTOPTA73225;It's what I deserve..;;;;;;;;;;;Ýòî òî, ÷òî ÿ çàñëóæèâàþ...;;x
+EVTOPTA73230;I will petition my liege!;;;;;;;;;;;ß ïîäàì ïðîøåíèå!;;x
+EVTOPTA73231;[From.GetSheHeCap] is now my new [Root.GetLordSpiritualName];;;;;;;;;;;[From.GetSheHeCap] òåïåðü [Root.GetLordSpiritualName];;x
+EVTOPTA73232;I must prove myself!;;;;;;;;;;;Íóæíî ïðîÿâèòü ñåáÿ ñ ëó÷øåé ñòîðîíû!;;x
+EVTOPTA73233;I await [Root.Liege.GetHerHis] reply eagerly.;;;;;;;;;;;ß æäó ñ íåòåðïåíèåì, ÷òî ìíå îòâåòÿò.;;x
+EVTOPTA73234;[From.GetSheHeCap] is now my new [Root.GetLordSpiritualName];;;;;;;;;;;[From.GetSheHeCap] òåïåðü [Root.GetLordSpiritualName];;x
+EVTOPTA73235;Its what I deserve..;;;;;;;;;;;ß ýòî çàñëóæèâàþ…;;x
+EVTOPTA73240;I will petition my liege!;;;;;;;;;;;ß ïîäàì ïðîøåíèå!;;x
+EVTOPTA73241;[From.GetSheHeCap] is now my new [Root.GetChancellorName];;;;;;;;;;;[From.GetSheHeCap] òåïåðü [Root.GetChancellorName].;;x
+EVTOPTA73242;I must prove myself!;;;;;;;;;;;Íóæíî ïðîÿâèòü ñåáÿ ñ ëó÷øåé ñòîðîíû!;;x
+EVTOPTA73243;I await [Root.Liege.GetHerHis] reply eagerly.;;;;;;;;;;;ß æäó ñ íåòåðïåíèåì, ÷òî ìíå îòâåòÿò.;;x
+EVTOPTA73244;[From.GetSheHeCap] is now my new [Root.GetChancellorName];;;;;;;;;;;[From.GetSheHeCap] òåïåðü [Root.GetChancellorName];;x
+EVTOPTA73245;Its what I deserve..;;;;;;;;;;;ß ýòî çàñëóæèâàþ...;;x
+EVTOPTB73000;Ignore him;;;;;;;;;;;Èãíîðèðîâàòü åãî;;x
+EVTOPTB73001;That is her interest, not mine.;;;;;;;;;;;Ýòî èíòåðåñíî åé, íå ìíå.;;x
+EVTOPTB73002;If the Church wants it, the Church pays for it..;;;;;;;;;;;Åñëè Öåðêîâü õî÷åò, ïóñòü ñàìà è ïëàòèò çà ýòî...;;x
+EVTOPTB73003;They are just peasants...;;;;;;;;;;;Ýòî âñåãî ëèøü êðåñòüÿíå…;;x
+EVTOPTB73004;This is a waste of money.;;;;;;;;;;;Ýòî ïóñòàÿ òðàòà äåíåã;;x
+EVTOPTB73005;There are better ways of spending the taxes;;;;;;;;;;;Åñòü ëó÷øèå ñïîñîáû ïîòðàòèòü íàëîãè;;x
+EVTOPTB73006;Force him to adopt the child to prevent scandal;;;;;;;;;;;Çàñòàâèòü åãî óñûíîâèòü ðåá¸íêà, ÷òîáû ïðåäîòâðàòèòü ñêàíäàë;;x
+EVTOPTB73007;Vanity is a sin, let's go to the church instead;;;;;;;;;;;Òùåñëàâèå - ýòî ãðåõ, äàâàé ëó÷øå ñõîäèì â öåðêîâü;;x
+EVTOPTB73008;Another mouth to feed is not what I need.;;;;;;;;;;;Åù¸ îäèí íàõëåáíèê - ýòî íå òî ÷òî íàì íàäî;;x
+EVTOPTB73009;Tell him he can only stay for the night.;;;;;;;;;;;Ñêàæèòå, ÷òî åìó ïîçâîëåíî îñòàòüñÿ òîëüêî íà îäíó íî÷ü;;x
+EVTOPTB73011;Forgive me father, for I have sinned.;;;;;;;;;;;Ïðîñòè ìåíÿ, îòåö, ÿ ñîãðåøèë[Root.GetEndA];;x
+EVTOPTB73201;Give [Root.job_marshal.GetFirstName] a chance!;;;;;;;;;;;[Root.job_marshal.GetFirstName] åù¸ ìîæåò ïðîÿâèòü ñåáÿ!;;x
+EVTOPTB73202;What can I do?;;;;;;;;;;;Íî ÷òî ÿ ìîãó ñäåëàòü?;;x
+EVTOPTB73211;Give [Root.job_spymaster.GetTitledFirstName] a chance!;;;;;;;;;;;[Root.job_spymaster.GetTitledFirstName] åù¸ ìîæåò ïðîÿâèòü ñåáÿ!;;x
+EVTOPTB73212;What can I do?;;;;;;;;;;;Íî ÷òî ÿ ìîãó ñäåëàòü?;;x
+EVTOPTB73221;Give [Root.job_treasurer.GetFirstName] a chance!;;;;;;;;;;;[Root.job_treasurer.GetTitledFirstName] åù¸ ìîæåò ïðîÿâèòü ñåáÿ!;;x
+EVTOPTB73222;What can I do?;;;;;;;;;;;Íî ÷òî ÿ ìîãó ñäåëàòü?;;x
+EVTOPTB73231;Give [Root.job_spiritual.GetTitledFirstName] a chance!;;;;;;;;;;;[Root.job_spiritual.GetTitledFirstName] åù¸ ìîæåò ïðîÿâèòü ñåáÿ!;;x
+EVTOPTB73232;What can I do?;;;;;;;;;;;Íî ÷òî ÿ ìîãó ñäåëàòü?;;x
+EVTOPTB73241;Give [Root.job_chancellor.GetTitledFirstName] a chance!;;;;;;;;;;;[Root.job_chancellor.GetTitledFirstName] åù¸ ìîæåò ïðîÿâèòü ñåáÿ!;;x
+EVTOPTB73242;What can I do?;;;;;;;;;;;Íî ÷òî ÿ ìîãó ïîäåëàòü?;;x
+EVTOPTC73001;These are books created by Satan!;;;;;;;;;;;Ýòè êíèãè ñîçäàë äüÿâîë!;;x
+EVTOPTC73006;Give him a beating for messing with inferiors;;;;;;;;;;;Âëåïèòü åìó ïîù¸÷èíó çà ïðåëþáîäåÿíèå ñî ñëóãàìè;;x
+EVTOPTC73007;This is my money you're talking about;;;;;;;;;;;Äåíüãè, î êîòîðûõ òû ãîâîðèøü, ÌÎÈ!;;x
+EVTOPTC73011;I do not fear death...;;;;;;;;;;;ß íå áîþñü ñìåðòè…;;x
+EVTOPTC73201;I rule in the [Root.PrimaryTitle.GetFullName]!;;;;;;;;;;;Òîëüêî ÿ ðåøàþ, êîãäà è êîãî íàçíà÷àòü â ýòîé ñòðàíå!;;x
+EVTOPTC73204;I rule in the [Root.PrimaryTitle.GetFullName]!;;;;;;;;;;;Òîëüêî ÿ ðåøàþ, êîãäà è êîãî íàçíà÷àòü!;;x
+EVTOPTC73211;I rule in the [Root.PrimaryTitle.GetFullName]!;;;;;;;;;;;Òîëüêî ÿ ðåøàþ, êîãäà è êîãî íàçíà÷àòü!;;x
+EVTOPTC73214;I rule in the [Root.PrimaryTitle.GetFullName]!;;;;;;;;;;;Òîëüêî ÿ ðåøàþ, êîãäà è êîãî íàçíà÷àòü â ýòîé ñòðàíå!;;x
+EVTOPTC73221;I rule in the [Root.PrimaryTitle.GetFullName]!;;;;;;;;;;;Òîëüêî ÿ ðåøàþ, êîãäà è êîãî íàçíà÷àòü â ýòîé ñòðàíå!;;x
+EVTOPTC73224;I rule in the [Root.PrimaryTitle.GetFullName]!;;;;;;;;;;;Òîëüêî ÿ ðåøàþ, êîãäà è êîãî íàçíà÷àòü!;;x
+EVTOPTC73231;I rule in the [Root.PrimaryTitle.GetFullName]!;;;;;;;;;;;Çäåñü âñå ðåøåíèÿ ïðèíèìàþ òîëüêî ÿ!;;x
+EVTOPTC73234;I rule in the [Root.PrimaryTitle.GetFullName]!;;;;;;;;;;;Çäåñü âñå ðåøåíèÿ ïðèíèìàþ òîëüêî ÿ!;;x
+EVTOPTC73241;I rule in the [Root.PrimaryTitle.GetFullName]!;;;;;;;;;;;Çäåñü âñå ðåøåíèÿ ïðèíèìàþ òîëüêî ÿ!;;x
+EVTOPTC73244;I rule in the [Root.PrimaryTitle.GetFullName]!;;;;;;;;;;;Çäåñü âñå ðåøåíèÿ ïðèíèìàþ òîëüêî ÿ!;;x
+EVTOPTD73001;These are books created by Shaytan!;;;;;;;;;;;Ýòè êíèãè ñîçäàíû Øàéòàíîì!;;x
+EVTOPTD73006;Send him to confess his sins!;;;;;;;;;;;Îòïðàâèòü åãî ïîêàÿòüñÿ â ãðåõàõ;;x
+EVTOPTD73011;I am just a poor sinner...;;;;;;;;;;;ß âñåãî ëèøü áåäí[Root.GetAyaYy] ãðåøíè[Root.GetTsaK]...;;x
+EVTTOOLTIP73005;I will consider introducing new fashion at the court.;;;;;;;;;;;ß ïîäóìàþ î ââåäåíèè íîâîé ìîäû ïðè äâîðå;;x
+EVTTOOLTIP73201;[This.GetTitledFirstName] will listen to our petition and hopefully make a wise choice;;;;;;;;;;;ñþçåðåí óñëûøèò î ìîåì ïðîøåíèè è, íàäåþñü, ñäåëàåò ïðàâèëüíûé âûáîð.;;x
+EVTTOOLTIP73202;[This.GetTitledFirstName] will hear of our patience.;;;;;;;;;;;óñëûøèò î íàøåì òåðïåíèè;;x
+EVTTOOLTIP73204;[This.GetTitledFirstName] will listen to our petition and hopefully make a wise choice;;;;;;;;;;;ñþçåðåí óñëûøèò î ìî¸ì ïðîøåíèè è, íàäåþñü, ñäåëàåò ìóäðûé âûáîð.;;x
+EVTTOOLTIP73211;[This.GetTitledFirstName] will listen to our petition and hopefully make a wise choice;;;;;;;;;;;ñþçåðåí óñëûøèò î ìî¸ì ïðîøåíèè è, íàäåþñü, ñäåëàåò ïðàâèëüíûé âûáîð.;;x
+EVTTOOLTIP73212;[This.GetTitledFirstName] will hear of our patience.;;;;;;;;;;;óñëûøèò î íàøåì òåðïåíèè;;x
+EVTTOOLTIP73214;[This.GetTitledFirstName] will listen to our petition and hopefully make a wise choice;;;;;;;;;;;ñþçåðåí óñëûøèò î ìî¸ì ïðîøåíèè è, íàäåþñü, ñäåëàåò ìóäðûé âûáîð.;;x
+EVTTOOLTIP73221;[This.GetTitledFirstName] will listen to our petition and hopefully make a wise choice;;;;;;;;;;;ñþçåðåí óñëûøèò î ìîåì ïðîøåíèè è, íàäåþñü, ñäåëàåò ìóäðûé âûáîð.;;x
+EVTTOOLTIP73222;[This.GetTitledFirstName] will hear of our patience.;;;;;;;;;;;Óñëûøèò î íàøåì òåðïåíèè;;x
+EVTTOOLTIP73224;[This.GetTitledFirstName] will listen to our petition and hopefully make a wise choice;;;;;;;;;;;ñþçåðåí óñëûøèò î ìîåì ïðîøåíèè è, íàäåþñü, ñäåëàåò ìóäðûé âûáîð.;;x
+EVTTOOLTIP73231;[This.GetTitledFirstName] will listen to our petition and hopefully make a wise choice;;;;;;;;;;;ñþçåðåí óñëûøèò î ìîåì ïðîøåíèè è, íàäåþñü, ñäåëàåò ìóäðûé âûáîð.;;x
+EVTTOOLTIP73232;[This.GetTitledFirstName] will hear of our patience.;;;;;;;;;;;óçíàåò î ìî¸ì òåðïåíèè.;;x
+EVTTOOLTIP73234;[This.GetTitledFirstName] will listen to our petition and hopefully make a wise choice;;;;;;;;;;;ñþçåðåí óñëûøèò î ìî¸ì ïðîøåíèè è, íàäåþñü, ñäåëàåò ìóäðûé âûáîð.;;x
+EVTTOOLTIP73241;[This.GetTitledFirstName] will listen to our petition and hopefully make a wise choice;;;;;;;;;;;ñþçåðåí óñëûøèò î ìî¸ì ïðîøåíèè è, íàäåþñü, ñäåëàåò ìóäðûé âûáîð.;;x
+EVTTOOLTIP73242;[This.GetTitledFirstName] will hear of our patience.;;;;;;;;;;;óçíàåò î ìîåì òåðïåíèè.;;x
+EVTTOOLTIP73244;[This.GetTitledFirstName] will listen to our petition and hopefully make a wise choice;;;;;;;;;;;ñþçåðåí óñëûøèò î ìî¸ì ïðîøåíèè è, íàäåþñü, ñäåëàåò ìóäðûé âûáîð.;;x

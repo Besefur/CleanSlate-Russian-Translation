@@ -1,209 +1,197 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-evt_TITLE_LT_20010;The Lost Book;;;;;;;;;;;;;x
-evt_TITLE_LT_20011;Search Ended;;;;;;;;;;;;;x
-evt_TITLE_LT_20020;The Lost Book;;;;;;;;;;;;;x
-evt_TITLE_LT_20035;The Lost Book;;;;;;;;;;;;;x
-evt_TITLE_LT_20036;The Lost Book;;;;;;;;;;;;;x
-evt_TITLE_LT_20040;The Lost Book!;;;;;;;;;;;;;x
-evt_TITLE_LT_20050;The Lost Book is a Fake!;;;;;;;;;;;;;x
-evt_TITLE_LT_20055;This book seems to be a forgery!;;;;;;;;;;;;;x
-evt_TITLE_LT_20060;The Lost Book;;;;;;;;;;;;;x
-evt_TITLE_LT_20101;A Discovery;;;;;;;;;;;;;x
-evt_TITLE_LT_20510;Honor the Dead;;;;;;;;;;;;;x
-evt_TITLE_LT_20700;The [target_upgrade.GetName] are Done!;;;;;;;;;;;;;x
-evt_TITLE_LT_20820;Great Work Looted;;;;;;;;;;;;;x
-
-EVTDESC_LT_20010.1;A visitor to my court told me that in [book_province.GetName], in the [book_province_realm.GetFullBaseName] he heard rumors that a rich merchant had acquired an unheard of [Root.GetBookTheme] by the famous [Root.GetAuthorNationAdj] [Root.GetAuthorTitle] [Root.GetAuthorName].;;;;;;;;;;;;;x
-EVTDESC_LT_20010.2;I received a letter from someone in [book_province.GetName], in the [book_province_realm.GetFullBaseName], claiming that he has in his possession a copy of [Root.GetBookThemeWithArticle] by the famous [Root.GetAuthorNationAdj] [Root.GetAuthorTitle] [Root.GetAuthorName]. But that work was unknown until now!;;;;;;;;;;;;;x
-EVTDESC_LT_20011;My courtier [emissary.GetTitledNameWithNick] has passed away before [emissary.GetHerHis] search could be finished. Now I'm left wondering if I will ever see the [Root.GetBookTheme] by the famous [Root.GetAuthorNationAdj] [Root.GetAuthorTitle] [Root.GetAuthorName]... At least I got the remainder of the funds I had invested back.;;;;;;;;;;;;;x
-EVTDESC_LT_20020;My courtier [emissary.GetTitledNameWithNick] returned today with the sad news that [emissary.GetSheHe] could not obtain the [Root.GetBookTheme] by the famous [Root.GetAuthorNationAdj] [Root.GetAuthorTitle] [Root.GetAuthorName], and is even not sure it really exists. [emissary.GetFirstName] returned the money that remained after the Journey expenses.;;;;;;;;;;;;;x
-EVTDESC_LT_20030;My Lord [Root.GetTitle]\n I [emissary.GetTitledNameWithNick], your humble servant, am still trying to obtain the [Root.GetBookTheme] by the famous [Root.GetAuthorNationAdj] [Root.GetAuthorTitle] [Root.GetAuthorName]. \n Unfortunately I have run out of funds. Would your grace be so generous as to send me some extra money, I am almost sure to be able to find and acquire the book you seek.;;;;;;;;;;;;;x
-EVTDESC_LT_20035;I just got news that [emissary.GetTitledNameWithNick] is staying in the court of [emissary_current_host.GetTitledNameWithNick] spending my money and with no intent of returning! And the [Root.GetBookTheme] by [Root.GetAuthorName] is nowhere to be found.;;;;;;;;;;;;;x
-EVTDESC_LT_20036_ALIVE;Curses! The attempt on the life of the traitor [emissary.GetTitledNameWithNick] failed, and my involvement was discovered.;;;;;;;;;;;;;x
-EVTDESC_LT_20036_DEAD;The traitor [emissary.GetTitledNameWithNick] is no longer alive. And nobody will be able to trace [emissary.GetHerHis] death to me.;;;;;;;;;;;;;x
-EVTDESC_LT_20040;[emissary.GetTitledNameWithNick] has returned with the [Root.GetBookTheme] that was supposedly written by [Root.GetAuthorName]! Maybe I should invite some learned scholars to discuss this precious finding? ;;;;;;;;;;;;;x
-EVTDESC_LT_20050;A scholar working in my library, [the_whistleblower.GetTitledNameWithNick] is saying that my precious [Root.GetBookTheme] that was supposedly written by [Root.GetAuthorName] is falsification!\n  I can imprison [the_whistleblower.GetHerHim], but on the other hand a courtier who speaks the truth might be a good person to have around me.;;;;;;;;;;;;;x
-EVTDESC_LT_20055;After a careful reading of the [Root.GetBookTheme] that was supposedly written by [Root.GetAuthorName] I believe it is a forgery. Nevertheless, the contents of the book are actually not bad.;;;;;;;;;;;;;x
-EVTDESC_LT_20060_fake_book;Many scholars accepted my invitation and gathered for several days discussing not only the book by [Root.GetAuthorName], but also other ancient knowledge. Unfortunately, after much discussion, the book was considered as a forgery, but my court is famous now as a center for scholarly debate, culture and knowledge.;;;;;;;;;;;;;x
-EVTDESC_LT_20060_real_book;Many scholars accepted my invitation and gathered for several days discussing not only the book by [Root.GetAuthorName], but also other ancient knowledge. The book was considered as a lost masterpiece and my court is famous now as a center of culture, scholarly debate and knowledge.;;;;;;;;;;;;;x
-EVTDESC_LT_20101.1;While digging the ground during the building of [wonder_or_upgrade.GetName], the workers came across some kind of door for what seems to be a closed chamber.;;;;;;;;;;;;;x
-EVTDESC_LT_20101.2;The construction overseer on my [wonder_or_upgrade.GetName] just told me a worker fell in a hole while digging and found some bones. It seems to be some kind of old grave.;;;;;;;;;;;;;x
-EVTDESC_LT_20110_accident;While the workers were trying to dig there was a cave-in and several men were buried in the debris. And now we need to clear everything.;;;;;;;;;;;;;x
-EVTDESC_LT_20110_found_artifact;The workers dug their way into a large chamber where some old lord was put to rest. In there they found some gold objects and a [found_artifact.GetName].;;;;;;;;;;;;;x
-EVTDESC_LT_20110_found_nothing;After a few days digging, all that was found were old bones and broken vases. A waste of time and gold.;;;;;;;;;;;;;x
-EVTDESC_LT_20110_found_valuables_1;After some digging, a big stone appeared, blocking an entrance. When the workers removed the stone, an old tomb was discovered, with a small quantity of silver and gold objects in it.;;;;;;;;;;;;;x
-EVTDESC_LT_20110_found_valuables_2;The workers found a number of small connected underground chambers under the [wonder_or_upgrade.GetName] construction site with old burial remains, and a fair amount of silver and gold objects!;;;;;;;;;;;;;x
-EVTDESC_LT_20201;My master [GetWeaponArmorSmith] came to see me in the throne room. [smith.GetSheHeCap] gestured towards [smith.GetHerHis] numerous assistants, who all carried examples of [smith.GetHerHis] work. 'Does my [Root.GetTitle] have anything special in mind?';;;;;;;;;;;;;x
-EVTDESC_LT_20301;I invited [target_character.GetBestName] for a stroll today, saying I had something to show [target_character.GetHerHim]. Eventually we came to stop near my [target_upgrade.GetName]. I waited there in silence for several minutes, while [target_character.GetBestName] grew more and more uncomfortable, before I leaned in to say...;;;;;;;;;;;;;x
-EVTDESC_LT_20301_evil_reaction;I invited [target_character.GetBestName] on a stroll today, saying I had something to show [target_character.GetHerHim]. Eventually we came to stop near my [target_upgrade.GetName]. I waited there in silence for several minutes, but [target_character.GetSheHe] seemed to be enjoying the view. Then I said...;;;;;;;;;;;;;x
-EVTDESC_LT_20310;[target_character.GetBestName] just laughed at me! A lot! How dare [target_character.GetSheHe]?! I even shouted at a servant this morning, when her giggling woke me up. I... I can still hear [target_character.GetTitledFirstName] laughing, mocking me in my dreams.;;;;;;;;;;;;;x
-EVTDESC_LT_20405;[From.GetBestName] invited me to meet [From.GetHerHim] in the [target_upgrade.GetName] of the [target_wonder.GetName].;;;;;;;;;;;;;x
-EVTDESC_LT_20410;[target_character.GetBestName] accepted my invitation to meet in the seclusion of the [target_upgrade.GetName] in the [target_wonder.GetName]. After some time talking...;;;;;;;;;;;;;x
-EVTDESC_LT_20412;[target_character.GetBestName] [target_character.GetPoliteRefuse] declined my invitation me to meet in the seclusion of the [target_upgrade.GetName] in the [target_wonder.GetName].;;;;;;;;;;;;;x
-EVTDESC_LT_20421;I went to meet [From.GetBestName] in the seclusion of the [target_upgrade.GetName], in the [target_wonder.GetName]. We are having a pleasant conversation.;;;;;;;;;;;;;x
-EVTDESC_LT_20422;I think [From.GetBestName] was impressed with our conversation.;;;;;;;;;;;;;x
-EVTDESC_LT_20431;I'm meeting [From.GetTitledFirstName] in [target_wonder.Location.GetName], in the seclusion of the [target_upgrade.GetName]. After the usual pleasantries, [From.GetSheHe] pauses. "[Root.GetFirstName], there is something I have wanted to do for a long time", [From.GetSheHe] says, [From.GetHerHis] eyes wandering.;;;;;;;;;;;;;x
-EVTDESC_LT_20432_A;[target_character.GetFirstName] returned my kiss, and more. "When will I see you again?" I asked, as we were parting. The [From.GetManWoman] chuckled, and said that this was fun, but that is all it was.;;;;;;;;;;;;;x
-EVTDESC_LT_20432_B;[target_character.GetFirstName] returned my kiss, and more. Afterwards, we talked for hours, and I found myself fascinated by [From.GetHerHis] [From.GetLoverEnjoyableQuirk]. As we part, my heart is singing with [From.GetHerHis] name and I cannot wait until I can see [From.GetHerHim] again. I must learn everything about [From.GetHerHim]!;;;;;;;;;;;;;x
-EVTDESC_LT_20433;I went to the [target_wonder.GetName], to meet [From.GetFirstName] in the seclusion of the [target_upgrade.GetName]. I didn't have to wait long for the [From.GetManWoman] to pull me towards [From.GetHerHim], eager to demonstrate how much [From.GetSheHe] has missed me.;;;;;;;;;;;;;x
-EVTDESC_LT_20434;I tried to kiss [target_character.GetHerHim], but [target_character.GetSheHe] recoiled from me with disgust and fear on [target_character.GetHerHis] face.;;;;;;;;;;;;;x
-EVTDESC_LT_20441;I went to meet [From.GetBestName] in the seclusion of the [target_upgrade.GetName], in the [target_wonder.GetName]. After some pleasantries, [From.GetSheHe] pulls a dagger from under [From.GetHerHis] clothes and tries to stab me!;;;;;;;;;;;;;x
-EVTDESC_LT_20441_murderer_target;[From.GetTitledFirstName] blinks in surprise as I step closer to [From.GetHerHim]. But when I move to caress [From.GetHerHis] cheek, I catch the glint of steel in the [From.GetManWoman]'s hand! "You.. You were going to use that on ME?!";;;;;;;;;;;;;x
-EVTDESC_LT_20450;It was a very bad idea to go meet to meet [From.GetTitledFirstName] in the seclusion of the [target_upgrade.GetName]. I barely escaped with my life. My hands still tremble when I think of it.;;;;;;;;;;;;;x
-EVTDESC_LT_20450_wounded;Fortunately [From.GetTitledFirstName]'s dagger missed my heart, and I managed to escape with my life. The physician says I will survive. Let us see.;;;;;;;;;;;;;x
-EVTDESC_LT_20455;As I see the blood slowly leaving my body, forming a pool on the ground, and the hands of death reaching for me, I now think of all the things I could have done if I knew this day would end like this.;;;;;;;;;;;;;x
-EVTDESC_LT_20460;As my dagger is going for [From.GetHerHis] heart, [From.GetTitledFirstName] raises the arm and I miss my mark. Then [From.GetSheHe] just runs away. Now I will have to deal with the consequences.;;;;;;;;;;;;;x
-EVTDESC_LT_20460_wounded;As my dagger is going for [From.GetHerHis] heart, [From.GetTitledFirstName] raises the arm and I miss the mark. I wound [From.GetHerHim], but [From.GetSheHe] manages to run away, leaving a trail of blood behind. Now I will have to deal with the consequences.;;;;;;;;;;;;;x
-EVTDESC_LT_20465;Before [murderer.GetSheHe] can run away, I bury my dagger in [murderer.GetHerHis] chest! I leave [murderer.GetTitledFirstName] lying on the ground, a pool of blood forming around [murderer.GetHerHim]. [murderer.GetHerHisCap] face is frozen in a look of betrayal.;;;;;;;;;;;;;x
-EVTDESC_LT_20465_fight;We fight each other, but in the end, I prevail and bury my dagger in [murderer.GetHerHis] chest! I leave [murderer.GetTitledFirstName] lying on the ground, a pool of blood forming around [murderer.GetHerHim].;;;;;;;;;;;;;x
-EVTDESC_LT_20510_christian;The great [target_dead_ruler.GetTitledName] is dead. Maybe he is in Heaven in the company of the saints and [Root.Religion.GetHighGodNameCap], or maybe in Hell in the company of [Root.Religion.GetRandomEvilGodNameCap]. But here on this land I must decide on how to honor [target_dead_ruler.GetHerHim]. [target_dead_ruler.GetHerHisCap] body may be put to rest in the [target_wonder.GetName].;;;;;;;;;;;;;x
-EVTDESC_LT_20510_indian;The great [target_dead_ruler.GetTitledName] is dead, [target_dead_ruler.GetHerHis] soul awaiting rebirth in the great cycle of life. But here on this land I must decide on how to honor [target_dead_ruler.GetHerHim]. And thanks to the [target_wonder.GetName] I have the ability to properly honor [target_dead_ruler.GetHerHim] in death.;;;;;;;;;;;;;x
-EVTDESC_LT_20510_jewish;The great [target_dead_ruler.GetTitledName] is dead, waiting the end of times. But here on this land I must decide on how to honor [target_dead_ruler.GetHerHim]. [target_dead_ruler.GetHerHisCap] body may be put to rest in the [target_wonder.GetName].;;;;;;;;;;;;;x
-EVTDESC_LT_20510_muslim;The great [target_dead_ruler.GetTitledName] is dead. Maybe he is in Jannah accompanied by the Houris, or maybe in Jahannam suffering the company of [Root.Religion.GetRandomEvilGodNameCap]. But here on this land I must decide on how to honor [target_dead_ruler.GetHerHim]. [target_dead_ruler.GetHerHisCap] body may be put to rest in the [target_wonder.GetName].;;;;;;;;;;;;;x
-EVTDESC_LT_20510_pagan;The great [target_dead_ruler.GetTitledName] is dead. Maybe he is in the company of [Root.Religion.GetHighGodNameCap], or maybe in the company of [Root.Religion.GetRandomEvilGodNameCap]. But here on this land I must decide on how to honor [target_dead_ruler.GetHerHim]. And thanks to the [target_wonder.GetName] I have the ability to properly honor [target_dead_ruler.GetHerHim] in death.;;;;;;;;;;;;;x
-EVTDESC_LT_20520_indian;It was a memorable funeral and procession full of honors for [target_dead_ruler.GetTitledName]. Everybody will remember how I honored [target_dead_ruler.GetHerHim].;;;;;;;;;;;;;x
-EVTDESC_LT_20520_monoteist;It was a memorable funeral and procession full of honors for [target_dead_ruler.GetTitledName]. [target_dead_ruler.GetHerHisCap] body now rests in peace in the [target_wonder.GetName]. Everybody will remember how I honored [target_dead_ruler.GetHerHim].;;;;;;;;;;;;;x
-EVTDESC_LT_20520_pagan;It was a great Feast in the honor of [target_dead_ruler.GetTitledName] and the Gods. [target_dead_ruler.GetHerHisCap] body now rests in peace in the [target_wonder.GetName]. Everybody will remember how I honored [target_dead_ruler.GetHerHim].;;;;;;;;;;;;;x
-EVTDESC_LT_20601_more_artifacts;Your collection of wondrous and holy relics like the [target_artifact_1.GetName], the [target_artifact_2.GetName], and the [target_artifact_3.GetName] is astonishing and the envy of the world. A fitting place to keep one of the relics would be the §Y[target_upgrade.GetName]§! of the §Y[target_wonder.GetName]§!.;;;;;;;;;;;;;x
-EVTDESC_LT_20601_one_artifact;You spend many hours contemplating the wondrous [target_artifact_1.GetName] in your possession. Surely a fitting place for such a relic would be the §Y[target_upgrade.GetName]§! of the §Y[target_wonder.GetName]§!.;;;;;;;;;;;;;x
-EVTDESC_LT_20601_two_artifacts;You spend many hours contemplating the wondrous [target_artifact_1.GetName] and the holy [target_artifact_2.GetName] in your possession. A fitting place to keep one of the relics would be the §Y[target_upgrade.GetName]§! of the §Y[target_wonder.GetName]§!.;;;;;;;;;;;;;x
-EVTDESC_LT_20610;Suddenly everything goes dark, and a powerful voice echoes in your head: 'What have you done?' Then you feel pain as lightning strikes you, and the world around you dissolves. Your last thoughts are...;;;;;;;;;;;;;x
-EVTDESC_LT_20700;The last fortifications of the [target_upgrade.GetName] for my [target_wonder.GetName] have been finally finished. Now, even the small townships in the province of [target_province.GetName] are protected by these great defensive works!;;;;;;;;;;;;;x
-EVTDESC_LT_20805;Your courtier [target_courtier.GetBestName] comes to you and says [target_courtier.GetSheHe] acquired [looted_artifact.GetName] from looting the [target_wonder.GetWonderTypeShort]. [target_courtier.GetSheHeCap] would like to gift it to you.;;;;;;;;;;;;;x
-EVTDESC_LT_20810;As your men start to loot the [From.GetUnfinished][From.GetName], many in [FromFrom.GetName] are upset that you are destroying their heritage.;;;;;;;;;;;;;x
-EVTDESC_LT_20810_cheap;As people see your men starting to tear down the [From.GetUnfinished] [From.GetName], they become upset. Something has to be done to avoid public unrest.;;;;;;;;;;;;;x
-EVTDESC_LT_20820;The looting of the §Y[From.GetName]§! gave me [local_loot.GetValue] gold. And there is still more to come!;;;;;;;;;;;;;x
-EVTDESC_LT_20820_the_end;The §Y[From.GetName]§! is now nothing but rubble, its former glory lost forever. And I got [local_loot.GetValue] gold from it.;;;;;;;;;;;;;x
-EVTDESC_LT_20900;Some of my followers are clamoring for the conversion of [target_wonder.GetName] to the true faith as soon as possible, so that our people can worship in the grandiose building.;;;;;;;;;;;;;x
-EVTDESC_LT_20900_chaplain;My [Root.job_spiritual.GetJobTitle] [Root.job_spiritual.GetFirstName] wants to convert [target_wonder.GetName] to the true faith as soon as possible, so that our people can worship in the grandiose building.;;;;;;;;;;;;;x
-EVTDESC_LT_21000.1;Things quickly get out of control as my soldiers storm the gates of [From.GetName]. Killing indiscriminately and sacking every building they come across, they seem to have lost all sense of discipline.;;;;;;;;;;;;;x
-EVTDESC_LT_21000.2;After the army enters [From.GetName], any sense of discipline is lost and the men start to rob, burn and pillage.;;;;;;;;;;;;;x
-
-EVTOPT_LT_20040_TT;You gain the [the_book.GetName] as an artifact.;;;;;;;;;;;;;x
-EVTOPT_LT_20110_TT;You gain the [found_artifact.GetName] as an artifact.\n;;;;;;;;;;;;;x
-
-EVTOPTA_LT_20010;I shall ask [possible_emissary1.GetFirstName] to go and try to acquire the book!;;;;;;;;;;;;;x
-EVTOPTA_LT_20010_TT;[possible_emissary1.GetFirstName] will be sent to [book_province.GetName].;;;;;;;;;;;;;x
-EVTOPTA_LT_20011;May [emissary.GetSheHe] rest in peace.;;;;;;;;;;;;;x
-EVTOPTA_LT_20020;It is a pity.;;;;;;;;;;;;;x
-EVTOPTA_LT_20030;I will send the money. It will be worth it!;;;;;;;;;;;;;x
-EVTOPTA_LT_20035;Oh no! I must be more careful choosing who to send next time.;;;;;;;;;;;;;x
-EVTOPTA_LT_20036;Nobody betrays me and gets away with it.;;;;;;;;;;;;;x
-EVTOPTA_LT_20040;I will read the book and see by myself.;;;;;;;;;;;;;x
-EVTOPTA_LT_20050;How dare [the_whistleblower.GetSheHe]? Imprison that imbecile [the_whistleblower.GetManWoman]!;;;;;;;;;;;;;x
-EVTOPTA_LT_20055;I actually learned something from the book.;;;;;;;;;;;;;x
-EVTOPTA_LT_20060_fake_book;Good. And maybe next time I will actually obtain a masterpiece.;;;;;;;;;;;;;x
-EVTOPTA_LT_20060_real_book;A center for culture. That sounds good.;;;;;;;;;;;;;x
-EVTOPTA_LT_20101;Let us spend some time and gold to investigate.;;;;;;;;;;;;;x
-EVTOPTA_LT_20101_TT;Maybe there are some old valuables inside.\n;;;;;;;;;;;;;x
-EVTOPTA_LT_20110;On with the construction!;;;;;;;;;;;;;x
-EVTOPTA_LT_20301;...'I hope my meaning is clear'.;;;;;;;;;;;;;x
-EVTOPTA_LT_20301_TT;the attempt to intimidate §Y[target_character.GetFirstNameWithNick]§! fails;;;;;;;;;;;;;x
-EVTOPTA_LT_20310;I should not have brought him to the [target_upgrade.GetName].;;;;;;;;;;;;;x
-EVTOPTA_LT_20405;I will accept.;;;;;;;;;;;;;x
-EVTOPTA_LT_20410;... We will know each other a little better.;;;;;;;;;;;;;x
-EVTOPTA_LT_20412;Too bad.;;;;;;;;;;;;;x
-EVTOPTA_LT_20421;I am thoroughly impressed with [From.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTOPTA_LT_20431;I want you too, [From.GetFirstName]...!;;;;;;;;;;;;;x
-EVTOPTA_LT_20431_no_love;I am not looking for anything 'serious', my [From.GetLordLady].;;;;;;;;;;;;;x
-EVTOPTA_LT_20432_A;Wait... That's it? But I...!;;;;;;;;;;;;;x
-EVTOPTA_LT_20432_B;Life is good!;;;;;;;;;;;;;x
-EVTOPTA_LT_20434;Curses!;;;;;;;;;;;;;x
-EVTOPTA_LT_20441;You'll have to catch me first!;;;;;;;;;;;;;x
-EVTOPTA_LT_20441_TT_dead;you being killed while trying to escape.;;;;;;;;;;;;;x
-EVTOPTA_LT_20441_TT_escape;you managing to escape.;;;;;;;;;;;;;x
-EVTOPTA_LT_20441_TT_wounded;you managing to escape, but wounded.;;;;;;;;;;;;;x
-EVTOPTA_LT_20450;This is not what was supposed to happen...!;;;;;;;;;;;;;x
-EVTOPTA_LT_20455;Aaah...;;;;;;;;;;;;;x
-EVTOPTA_LT_20465;So be it!;;;;;;;;;;;;;x
-EVTOPTA_LT_20510;I will commit [target_dead_ruler.GetHerHim] to earth in a ceremony that shall be remembered!;;;;;;;;;;;;;x
-EVTOPTA_LT_20510_TT;You invite all people to come and pay homage to §Y[target_dead_ruler.GetTitledName]§! in a grandiose ceremony.;;;;;;;;;;;;;x
-EVTOPTA_LT_20520_monoteist;Praise the Lord!;;;;;;;;;;;;;x
-EVTOPTA_LT_20520_muslim;Allah be praised!;;;;;;;;;;;;;x
-EVTOPTA_LT_20520_polyteist;Praise the Gods!;;;;;;;;;;;;;x
-EVTOPTA_LT_20520_TT;Those who liked §Y[target_dead_ruler.GetBestName]§! improve their opinion of you.[Root.GetBigBurialHaterSentence];;;;;;;;;;;;;x
-EVTOPTA_LT_20601;I will store the [target_artifact_1.GetName] in the [target_upgrade.GetName].;;;;;;;;;;;;;x
-EVTOPTA_LT_20601_TT;The §Y[This.GetName]§! will be stored forever in the §Y[target_upgrade.GetName]§!. You will not be able to get it back.;;;;;;;;;;;;;x
-EVTOPTA_LT_20610;I hope my successor does not make the same mistake.;;;;;;;;;;;;;x
-EVTOPTA_LT_20700;I always enjoy more protection.;;;;;;;;;;;;;x
-EVTOPTA_LT_20700_TT;All walls of [target_province.GetName] holdings are upgraded to their maximum level.;;;;;;;;;;;;;x
-EVTOPTA_LT_20805;Thank you, I accept this offer gladly.;;;;;;;;;;;;;x
-EVTOPTA_LT_20810;I post guards so that nobody interferes.;;;;;;;;;;;;;x
-EVTOPTA_LT_20900;Yes, we should convert it to the true [Root.Religion.GetName] faith.;;;;;;;;;;;;;x
-EVTOPTA_LT_21000;Let them have their fun. This is war after all.;;;;;;;;;;;;;x
-EVTOPTA_LT_21000_DISHONORABLE_TT;This action will be considered dishonorable by many people.;;;;;;;;;;;;;x
-
-
-EVTOPTB_LT_20010;Or maybe [possible_emissary2.GetFirstName] should go instead.;;;;;;;;;;;;;x
-EVTOPTB_LT_20010_TT;[possible_emissary2.GetFirstName] will be sent to [book_province.GetName].;;;;;;;;;;;;;x
-EVTOPTB_LT_20030;No, it is too expensive. Let [emissary.GetHerHim] return empty handed.;;;;;;;;;;;;;x
-EVTOPTB_LT_20035;Maybe somebody will take care of the traitor?;;;;;;;;;;;;;x
-EVTOPTB_LT_20035_TT;You try to have [emissary.GetTitledNameWithNick] assassinated;;;;;;;;;;;;;x
-EVTOPTB_LT_20036;Maybe it was not such a good idea.;;;;;;;;;;;;;x
-EVTOPTB_LT_20040;Let us send letters and invite some scholars;;;;;;;;;;;;;x
-EVTOPTB_LT_20050;I will reward [the_whistleblower.GetHerHim] for speaking the truth!;;;;;;;;;;;;;x
-EVTOPTB_LT_20055;Burn the damned book!;;;;;;;;;;;;;x
-EVTOPTB_LT_20101;Just ignore and continue the work.;;;;;;;;;;;;;x
-EVTOPTB_LT_20110;It is all mine!;;;;;;;;;;;;;x
-EVTOPTB_LT_20301;...'I hope you understand how important this favor is'.;;;;;;;;;;;;;x
-EVTOPTB_LT_20301_TT;the attempt to coerce a favor fails;;;;;;;;;;;;;x
-EVTOPTB_LT_20405;I will refuse.;;;;;;;;;;;;;x
-EVTOPTB_LT_20410;... I try to seduce [target_character.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTB_LT_20410_TT;You do not know how §Y[target_character.GetTitledFirstName]§! will react if you try to kiss [target_character.GetHerHim], but you might become lovers.;;;;;;;;;;;;;x
-EVTOPTB_LT_20410_TT_unlikely;Your [target_character.GetRootRelation] will probably not take this well.;;;;;;;;;;;;;x
-EVTOPTB_LT_20421;I am impressed with [From.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTOPTB_LT_20431;I refuse [From.GetHerHim] and step back.;;;;;;;;;;;;;x
-EVTOPTB_LT_20441;I won't go down without a fight!;;;;;;;;;;;;;x
-EVTOPTB_LT_20441_TT_lose;you losing the fight.;;;;;;;;;;;;;x
-EVTOPTB_LT_20441_TT_win;you winning the fight.;;;;;;;;;;;;;x
-EVTOPTB_LT_20510;The people will know I respect the dead!;;;;;;;;;;;;;x
-EVTOPTB_LT_20510_TT;You organize a traditional ceremony and invite all the powerful vassals to attend.;;;;;;;;;;;;;x
-EVTOPTB_LT_20601;I will store the [target_artifact_2.GetName] in the [target_upgrade.GetName].;;;;;;;;;;;;;x
-EVTOPTB_LT_20805;I thank you, but you can keep it to yourself.;;;;;;;;;;;;;x
-EVTOPTB_LT_20810;I open the [From.GetWonderTypeShort] for everybody to have a share of the profit.;;;;;;;;;;;;;x
-EVTOPTB_LT_20900;No, we should let it be.;;;;;;;;;;;;;x
-EVTOPTB_LT_21000;Hey, wait for me!;;;;;;;;;;;;;x
-
-EVTOPTC_LT_20010;It is interesting news, but right now I have more pressing matters to attend to.;;;;;;;;;;;;;x
-EVTOPTC_LT_20040;Just announce the discovery and store the book in my library;;;;;;;;;;;;;x
-EVTOPTC_LT_20101;I do not want to be bothered again with such petty details!;;;;;;;;;;;;;x
-EVTOPTC_LT_20101_TT;You will no longer be bothered with news about findings during construction of the great works.\n;;;;;;;;;;;;;x
-EVTOPTC_LT_20110;Let us give to the workers a share of the gold.;;;;;;;;;;;;;x
-EVTOPTC_LT_20301;...'What do you think of my toy?'.;;;;;;;;;;;;;x
-EVTOPTC_LT_20405;I will politely invent an excuse and refuse.;;;;;;;;;;;;;x
-EVTOPTC_LT_20410;... I get my dagger out and try to stab [target_character.GetHerHim] in the heart.;;;;;;;;;;;;;x
-EVTOPTC_LT_20410_TT;This option is available because you have either a high §YIntrigue§! or related traits\n;;;;;;;;;;;;;x
-EVTOPTC_LT_20410_TT_murder;The outcome of this will depend on your §YPersonal Combat Skill§!, as §Y[From.GetTitledFirstName]§! might resist your murder attempt...;;;;;;;;;;;;;x
-EVTOPTC_LT_20421;Pleasant, but not substantial.;;;;;;;;;;;;;x
-EVTOPTC_LT_20431;I get my dagger out and try to stab [From.GetHerHim] in the heart!;;;;;;;;;;;;;x
-EVTOPTC_LT_20431_TT;The [target_upgrade.GetName] prove[target_upgrade.GetSingularS] a perfect hide away for new lovers.;;;;;;;;;;;;;x
-EVTOPTC_LT_20431_TT_not_serious_romance;You leave §Y[From.GetTitledFirstName]§! wanting more.;;;;;;;;;;;;;x
-EVTOPTC_LT_20510;I will honor [target_dead_ruler.GetHerHim] in a private ceremony.;;;;;;;;;;;;;x
-EVTOPTC_LT_20601;I will store the [target_artifact_3.GetName] in the [target_upgrade.GetName].;;;;;;;;;;;;;x
-EVTOPTC_LT_21000;I will stop this immediately and hang the culprits!;;;;;;;;;;;;;x
-EVTOPTC_LT_21000_CONTROL_TT;You manage to regain control of the army.;;;;;;;;;;;;;x
-EVTOPTC_LT_21000_NO_CONTROL_TT;You are unable to stop the killing and destruction.;;;;;;;;;;;;;x
-
-EVTOPTD_LT_20010;I actually do not care about missing books. The collection I have is enough.;;;;;;;;;;;;;x
-EVTOPTD_LT_20010_TT;You will no longer be bothered with news about lost books.;;;;;;;;;;;;;x
-EVTOPTD_LT_20101;It is probably an ancient tomb. Explore with caution.;;;;;;;;;;;;;x
-EVTOPTD_LT_20101_TT;This option is available because you have either a high Learning, or the traits Erudite or Architect.\n;;;;;;;;;;;;;x
-EVTOPTD_LT_20110;I will keep both the valuables and the [found_artifact.GetName].;;;;;;;;;;;;;x
-EVTOPTD_LT_20301;... 'This bloody thing scares me too!'.;;;;;;;;;;;;;x
-EVTOPTD_LT_20410;... I take [target_character.GetHerHis] hand, and kiss [target_character.GetHerHim] passionately.;;;;;;;;;;;;;x
-EVTOPTD_LT_20410_TT;The [target_upgrade.GetName] prove[target_upgrade.GetSingularS] a perfect hide away for lovers like you...;;;;;;;;;;;;;x
-EVTOPTD_LT_20510;[target_dead_ruler.GetFirstNameWithNick] does not deserve a proper burial!;;;;;;;;;;;;;x
-EVTOPTD_LT_20510_TT;Those who liked §Y[target_dead_ruler.GetBestName]§! are upset with you. Those who hated [target_dead_ruler.GetHerHim] are pleased.;;;;;;;;;;;;;x
-
-EVTOPTE_LT_20110;Let us distribute the gold to the workers as a reward.;;;;;;;;;;;;;x
-EVTOPTE_LT_20601;No, maybe this is not such a good idea.;;;;;;;;;;;;;x
-
-EVTOPTF_LT_20110;We shall give some gold to the families of the victims.;;;;;;;;;;;;;x
-
+evt_TITLE_LT_20010;The Lost Book;;;;;;;;;;;Aíòè÷íûå òåêñòû?;;x
+evt_TITLE_LT_20011;Search Ended;;;;;;;;;;;Ïîèñêè çàâåðøåíû;;x
+evt_TITLE_LT_20020;The Lost Book;;;;;;;;;;;Pàçî÷àðîâàíèå;;x
+evt_TITLE_LT_20035;The Lost Book;;;;;;;;;;;Håãîäÿé[emissary.GetEndKa] ñáåæàë[emissary.GetEndA] ñ äåíüãàìè!;;x
+evt_TITLE_LT_20036;The Lost Book;;;;;;;;;;;Ïîòåðÿííàÿ êíèãà;;x
+evt_TITLE_LT_20040;The Lost Book!;;;;;;;;;;;Kíèãà òåïåðü ìîÿ!;;x
+evt_TITLE_LT_20050;The Lost Book is a Fake!;;;;;;;;;;;Ïîääåëêà!;;x
+evt_TITLE_LT_20055;This book seems to be a forgery!;;;;;;;;;;;Tàê ýòî ïîääåëêà!;;x
+evt_TITLE_LT_20060;The Lost Book;;;;;;;;;;;Cîáðàíèå ó÷¸íûõ;;x
+evt_TITLE_LT_20101;A Discovery;;;;;;;;;;;Oòêðûòèå;;x
+evt_TITLE_LT_20510;Honor the Dead;;;;;;;;;;;Ïî÷èòàéòå ì¸ðòâûõ;;x
+evt_TITLE_LT_20700;The [target_upgrade.GetName] are Done!;;;;;;;;;;;[target_upgrade.GetName];;x
+evt_TITLE_LT_20820;Great Work Looted;;;;;;;;;;;Âåëèêîå ñîîðóæåíèå ðàçðàáëåíî;;x
+EVTDESC_LT_20010.1;A visitor to my court told me that in [book_province.GetName], in the [book_province_realm.GetFullBaseName] he heard rumors that a rich merchant had acquired an unheard of [Root.GetBookTheme] by the famous [Root.GetAuthorNationAdj] [Root.GetAuthorTitle] [Root.GetAuthorName].;;;;;;;;;;;Îäèí èç ãîñòåé ïðè ìî¸ì äâîðå ðàññêàçàë, ÷òî â [book_province_realm.GetAdjective]ñêîì ãîðîäå [book_province.GetName] îí ñëûøàë î áîãàòîì êóïöå, êîòîðûé ÿêîáû ñìîã çàïîëó÷èòü [Root.GetBookThemeACC] çíàìåíèòîãî [Root.GetAuthorNationAdj]ñêîãî [Root.GetAuthorTitleGEN] [Root.GetAuthorNameGEN].;;x
+EVTDESC_LT_20010.2;I received a letter from someone in [book_province.GetName], in the [book_province_realm.GetFullBaseName], claiming that he has in his possession a copy of [Root.GetBookThemeWithArticle] by the famous [Root.GetAuthorNationAdj] [Root.GetAuthorTitle] [Root.GetAuthorName]. But that work was unknown until now!;;;;;;;;;;;Êòî-òî [book_province_realm.GetAdjective]ñêèõ çåìåëü ïðèñëàë ìíå ïèñüìî. Îí óòâåðæäàåò, ÷òî â ãîðîäå [book_province.GetName] îí íàø¸ë ýêçåìïëÿð [Root.GetBookThemeWithArticleGEN] çíàìåíèòîãî [Root.GetAuthorNationAdj]ñêîãî [Root.GetAuthorTitleGEN] [Root.GetAuthorNameGEN], íî âåäü íèêòî íå çíàë î ñóùåñòâîâàíèè ýòîé êíèãè äî ýòîãî äíÿ!;;x
+EVTDESC_LT_20011;My courtier [emissary.GetTitledNameWithNick] has passed away before [emissary.GetHerHis] search could be finished. Now I'm left wondering if I will ever see the [Root.GetBookTheme] by the famous [Root.GetAuthorNationAdj] [Root.GetAuthorTitle] [Root.GetAuthorName]... At least I got the remainder of the funds I had invested back.;;;;;;;;;;;[emissary.GetTitledNameWithNick] ïîãèá[emissary.GetNoneE], ïðåæäå ÷åì óñïåë[emissary.GetEndA] çàêîí÷èòü ñâîè ïîèñêè. Òåïåðü ìíå îñòà¸òñÿ òîëüêî ãàäàòü, íàéäó ëè ÿ êîãäà-íèáóäü [Root.GetBookThemeACC] èçâåñòíîãî [Root.GetAuthorNationAdj]ñêîãî [Root.GetAuthorTitleGEN] [Root.GetAuthorNameGEN]... Ïî êðàéíåé ìåðå, ìíå óäàëîñü âåðíóòü ÷àñòü ñðåäñòâ, çàòðà÷åííûõ íà ýòó ýêñïåäèöèþ.;;x
+EVTDESC_LT_20020;My courtier [emissary.GetTitledNameWithNick] returned today with the sad news that [emissary.GetSheHe] could not obtain the [Root.GetBookTheme] by the famous [Root.GetAuthorNationAdj] [Root.GetAuthorTitle] [Root.GetAuthorName], and is even not sure it really exists. [emissary.GetFirstName] returned the money that remained after the Journey expenses.;;;;;;;;;;;[emissary.GetTitledNameWithNick] ñåãîäíÿ âåðíó[emissary.GetLasLsya] èç ýêñïåäèöèè. [emissary.GetHerHimCap] òàê è íå óäàëîñü íàéòè [Root.GetBookThemeACC] çíàìåíèòîãî [Root.GetAuthorNationAdj]ñêîãî [Root.GetAuthorTitleGEN] [Root.GetAuthorNameGEN], è [emissary.GetSheHe] äàæå íå óâåðåí[emissary.GetEndA], ÷òî ýòà êíèãà âîîáùå ñóùåñòâóåò. Â èòîãå [emissary.GetSheHe] âåðíóë[emissary.GetEndA] ìíå [Root.money_left.GetValue] çîëîòûõ, êîòîðûå îñòàëèñü ïîñëå ïóòåøåñòâèÿ.;;x
+EVTDESC_LT_20030;My Lord [Root.GetTitle]\n I [emissary.GetTitledNameWithNick], your humble servant, am still trying to obtain the [Root.GetBookTheme] by the famous [Root.GetAuthorNationAdj] [Root.GetAuthorTitle] [Root.GetAuthorName]. \n Unfortunately I have run out of funds. Would your grace be so generous as to send me some extra money, I am almost sure to be able to find and acquire the book you seek.;;;;;;;;;;;Ì[Root.GetOyaOy] [Root.GetTitle],\nìíå âñ¸ åùå íå óäàëîñü çàïîëó÷èòü [Root.GetBookThemeACC] çíàìåíèòîãî [Root.GetAuthorNationAdj]ñêîãî [Root.GetAuthorTitleGEN] [Root.GetAuthorNameGEN].\nÊ ñîæàëåíèþ, ó ìåíÿ çàêîí÷èëèñü äåíüãè. Åñëè [Root.PrimaryTitle.GetFOA] ïîñ÷èòàåò íóæíûì ïîñîäåéñòâîâàòü óñïåõó ýòîé ýêñïåäèöèè è ïîääåðæàòü å¸ ôèíàíñîâî, ÿ óâåðåí[emissary.GetEndA], ÷òî ñìîãó ïðèâåñòè Âàì êíèãó.\n[emissary.GetTitledNameWithNick];;x
+EVTDESC_LT_20035;I just got news that [emissary.GetTitledNameWithNick] is staying in the court of [emissary_current_host.GetTitledNameWithNick] spending my money and with no intent of returning! And the [Root.GetBookTheme] by [Root.GetAuthorName] is nowhere to be found.;;;;;;;;;;;Äîøëè ñëóõè, ÷òî [emissary.GetTitledNameWithNick] ïðåäàë[emissary.GetEndA] Âàñ. [emissary_current_host.GetTitledNameWithNick] ïðèíÿë[emissary_current_host.GetEndA] [emissary.GetHersHis] ïðè ñâî¸ì äâîðå, è ïîãîâàðèâàþò, [emissary.GetHerHim] òàì òàê ïîíðàâèëîñü, ÷òî [emissary.GetSheHe] ðåøèë[emissary.GetEndA] îñòàòüñÿ. Äðåâíÿÿ êíèãà [Root.GetAuthorNameGEN] òàê è íå áûëà íàéäåíà.;;x
+EVTDESC_LT_20036_ALIVE;Curses! The attempt on the life of the traitor [emissary.GetTitledNameWithNick] failed, and my involvement was discovered.;;;;;;;;;;;Ïðîêëÿòüå! Ïîïûòêà óáèéñòâà ïðîâàëèëàñü, [emissary.GetTitledNameWithNick] âñ¸ åùå æèâ[emissary.GetEndA], à ìîÿ ïðè÷àñòíîñòü òåïåðü ðàñêðûòà!;;x
+EVTDESC_LT_20036_DEAD;The traitor [emissary.GetTitledNameWithNick] is no longer alive. And nobody will be able to trace [emissary.GetHerHis] death to me.;;;;;;;;;;;Ïðåäàòåëü[emissary.GetNitsa] [emissary.GetTitledNameWithNick] îòïðàâè[emissary.GetLasLsya] ê ïðàîòöàì, è íèêòî íå ñìîæåò ñâÿçàòü [emissary.GetHersHis] ñìåðòü ñî ìíîé.;;x
+EVTDESC_LT_20040;[emissary.GetTitledNameWithNick] has returned with the [Root.GetBookTheme] that was supposedly written by [Root.GetAuthorName]! Maybe I should invite some learned scholars to discuss this precious finding? ;;;;;;;;;;;[emissary.GetTitledNameWithNick] âåðíó[emissary.GetLasLsya] èç ýêñïåäèöèè, è óòâåðæäàåò, ÷òî ïðèâåç[emissary.GetNoneE] [Root.GetBookThemeACC] [Root.GetAuthorNameGEN]! Âîçìîæíî, ìíå ñëåäóåò ïðèãëàñèòü ó÷¸íûõ, ÷òîáû îáñóäèòü ýòó öåííóþ íàõîäêó.;;x
+EVTDESC_LT_20050;A scholar working in my library, [the_whistleblower.GetTitledNameWithNick] is saying that my precious [Root.GetBookTheme] that was supposedly written by [Root.GetAuthorName] is falsification!\n  I can imprison [the_whistleblower.GetHerHim], but on the other hand a courtier who speaks the truth might be a good person to have around me.;;;;;;;;;;;[the_whistleblower.GetTitledNameWithNick] - ýêñïåðò, ðàáîòàþùèé â ìîåé áèáëèîòåêå, ãîâîðèò, ÷òî [Root.GetBookTheme], ÿêîáû íàïèñàíí[Root.GetBookThemePostfix] çíàìåíèòûì [Root.GetAuthorTitleINS] [Root.GetAuthorNameINS], íà ñàìîì äåëå ïîääåëêà!\nß ìîãó àðåñòîâàòü [the_whistleblower.GetHersHis], íî ñ äðóãîé ñòîðîíû, ïðèäâîðíûé, êîòîðûé ãîâîðèò ïðàâäó ìîæåò áûòü ïîëåçåí.;;x
+EVTDESC_LT_20055;After a careful reading of the [Root.GetBookTheme] that was supposedly written by [Root.GetAuthorName] I believe it is a forgery. Nevertheless, the contents of the book are actually not bad.;;;;;;;;;;;Ïîñëå òùàòåëüíîãî èçó÷åíèÿ [Root.GetBookThemeGEN], êîòîð[Root.GetBookThemePostfix], êàê óòâåðæäàåòñÿ, áûë[Root.GetBookThemePostfixSoftA] íàïèñàí[Root.GetBookThemePostfixA] [Root.GetAuthorNameINS], îêàçà[Root.GetBookThemePostfixLas] ïîääåëêîé. Äîëæ[Root.GetNaEn] ïðèçíàòü, ÷òî êíèãà ñàìà ïî ñåáå íå òàê óæ è ïëîõà.;;x
+EVTDESC_LT_20060_fake_book;Many scholars accepted my invitation and gathered for several days discussing not only the book by [Root.GetAuthorName], but also other ancient knowledge. Unfortunately, after much discussion, the book was considered as a forgery, but my court is famous now as a center for scholarly debate, culture and knowledge.;;;;;;;;;;;Ìíîãèå ó÷¸íûå ïðèíÿëè ìî¸ ïðèãëàøåíèå è íåñêîëüêî äíåé îáñóæäàëè íå òîëüêî êíèãó [Root.GetAuthorNameGEN], íî è äðåâíèå çíàíèÿ â öåëîì. Ê ñîæàëåíèþ, ïîñëå äîëãèõ ñïîðîâ êíèãó ïðèçíàëè ïîääåëêîé, íî ìîé äâîð îáð¸ë èçâåñòíîñòü êàê öåíòð êóëüòóðû, íàó÷íûõ äåáàòîâ è çíàíèé.;;x
+EVTDESC_LT_20060_real_book;Many scholars accepted my invitation and gathered for several days discussing not only the book by [Root.GetAuthorName], but also other ancient knowledge. The book was considered as a lost masterpiece and my court is famous now as a center of culture, scholarly debate and knowledge.;;;;;;;;;;;Ìíîãèå ó÷¸íûå ïðèíÿëè ìî¸ ïðèãëàøåíèå è íåñêîëüêî äíåé îáñóæäàëè íå òîëüêî êíèãó [Root.GetAuthorNameGEN], íî è äðåâíèå çíàíèÿ â öåëîì. Êíèãà îêàçàëàñü óòðà÷åííûì øåäåâðîì è ìîé äâîð òåïåðü ñòàë èçâåñòíûì öåíòðîì êóëüòóðû, íàó÷íûõ äåáàòîâ è çíàíèé.;;x
+EVTDESC_LT_20101.1;While digging the ground during the building of [wonder_or_upgrade.GetName], the workers came across some kind of door for what seems to be a closed chamber.;;;;;;;;;;;[wonder_or_upgrade.GetName] ñåé÷àñ â ïðîöåññå ñòðîèòåëüñòâà. Ðàñêàïûâàÿ çåìëþ íà ñòðîéïëîùàäêå, ðàáî÷èå íàòêíóëèñü íà ïîòàéíóþ äâåðü, âåäóùóþ â ñêðûòîå ïîìåùåíèå.;;x
+EVTDESC_LT_20101.2;The construction overseer on my [wonder_or_upgrade.GetName] just told me a worker fell in a hole while digging and found some bones. It seems to be some kind of old grave.;;;;;;;;;;;[wonder_or_upgrade.GetName] ñåé÷àñ â ïðîöåññå ñòðîèòåëüñòâà. Ñîâåòíèê, âåäóùèé íàäçîð, ñîîáùèë ìíå, ÷òî îäèí èç ðàáî÷èõ ïðîâàëèëñÿ â êàêóþ-òî ÿìó, â êîòîðîé áûëà ãðóäà êîñòåé. Ïîõîæå íà äðåâíþþ ìîãèëó.;;x
+EVTDESC_LT_20110_accident;While the workers were trying to dig there was a cave-in and several men were buried in the debris. And now we need to clear everything.;;;;;;;;;;;Ïîêà ðàáî÷èå êîïàëè, â ïåùåðå ïðîèçîø¸ë îáâàë, è íåñêîëüêî ÷åëîâåê áûëè ïîõîðîíåíû â îáëîìêàõ. Òåïåðü íàì íóæíî âñå î÷èñòèòü.;;x
+EVTDESC_LT_20110_found_artifact;The workers dug their way into a large chamber where some old lord was put to rest. In there they found some gold objects and a [found_artifact.GetName].;;;;;;;;;;;Ðàáî÷èå íàøëè áîëüøóþ êîìíàòó, ãäå áûë çàõîðîíåí êàêîé-òî äðåâíèé ïðàâèòåëü. Òàì îíè íàøëè íåñêîëüêî çîëîòûõ ïðåäìåòîâ, íî ñàìàÿ öåííàÿ íàõîäêà - [found_artifact.GetName].;;x
+EVTDESC_LT_20110_found_nothing;After a few days digging, all that was found were old bones and broken vases. A waste of time and gold.;;;;;;;;;;;Ñïóñòÿ íåñêîëüêî äíåé ðàñêîïîê âñ¸, ÷òî óäàëîñü íàéòè - ëèøü ñòàðûå êîñòè è ðàçáèòûå âàçû. Ïóñòàÿ òðàòà âðåìåíè è çîëîòà.;;x
+EVTDESC_LT_20110_found_valuables_1;After some digging, a big stone appeared, blocking an entrance. When the workers removed the stone, an old tomb was discovered, with a small quantity of silver and gold objects in it.;;;;;;;;;;;Ñïóñòÿ íåñêîëüêî äíåé ðàñêîïîê, Âàøè ëþäè îáíàðóæèëè áîëüøîé âàëóí, áëîêèðóþùèé ïðîõîä. Êîãäà ðàáî÷èå óáðàëè êàìåíü, îíè îáíàðóæèëè äðåâíþþ ãðîáíèöó ñ íåáîëüøèì êîëè÷åñòâîì ñåðåáðÿíûõ è çîëîòûõ ïðåäìåòîâ.;;x
+EVTDESC_LT_20110_found_valuables_2;The workers found a number of small connected underground chambers under the [wonder_or_upgrade.GetName] construction site with old burial remains, and a fair amount of silver and gold objects!;;;;;;;;;;;Ðàáî÷èå îáíàðóæèëè íåñêîëüêî íåáîëüøèõ ïîäçåìíûõ êàìåð ñî ñòàðûìè çàõîðîíåíèÿìè è áîëüøèì êîëè÷åñòâîì ïðåäìåòîâ èç ñåðåáðà è çîëîòà!;;x
+EVTDESC_LT_20201;My master [GetWeaponArmorSmith] came to see me in the throne room. [smith.GetSheHeCap] gestured towards [smith.GetHerHis] numerous assistants, who all carried examples of [smith.GetHerHis] work. 'Does my [Root.GetTitle] have anything special in mind?';;;;;;;;;;;"[Root.GetWeaponArmorSmith] ïðèáûë â [Root.GetRulersRoomACC]. [smith.GetSheHeCap] æåñòîì óêàçàë[smith.GetEndA] ñâîèì àññèñòåíòàì ïîêàçàòü ìíå ïðèìåðû [smith.GetHersHis] ðàáîò.\n""Æåëàåò ëè [Root.PrimaryTitle.GetFOA] íå÷òî îñîáîå?"" — ñïðîñèë[smith.GetEndA] [smith.GetSheHe].";;x
+EVTDESC_LT_20301;I invited [target_character.GetBestName] for a stroll today, saying I had something to show [target_character.GetHerHim]. Eventually we came to stop near my [target_upgrade.GetName]. I waited there in silence for several minutes, while [target_character.GetBestName] grew more and more uncomfortable, before I leaned in to say...;;;;;;;;;;;[target_character.GetBestName] ñîãëàñè[target_character.GetLasLsya] âñòðåòèòüñÿ ñî ìíîé ñåãîäíÿ, êîãäà ÿ ïðèãëàñèë[Root.GetEndA] [target_character.GetHersHis] íà ïðîãóëêó. [target_upgrade.GetName] óæå ìîæíî áûëî âèäåòü ïî ïðàâóþ ñòîðîíó îò íàñ. Ìû îñòàíîâèëèñü ðÿäîì è íåñêîëüêî ìèíóò ïðîâåëè â ïîëíîé òèøèíå. ß âûæäàë[Root.GetEndA] ìîìåíò, êîãäà [target_character.GetSheHe] ïðîÿâèò ïåðâûå ïðèçíàêè òðåâîãè, à ïîòîì ñêàçàë[Root.GetEndA]:;;x
+EVTDESC_LT_20301_evil_reaction;I invited [target_character.GetBestName] on a stroll today, saying I had something to show [target_character.GetHerHim]. Eventually we came to stop near my [target_upgrade.GetName]. I waited there in silence for several minutes, but [target_character.GetSheHe] seemed to be enjoying the view. Then I said...;;;;;;;;;;;[target_character.GetBestName] ñîãëàñè[target_character.GetLasLsya] âñòðåòèòüñÿ ñî ìíîé ñåãîäíÿ, êîãäà ÿ ïðèãëàñèë[Root.GetEndA] [target_character.GetHersHis] íà ïðîãóëêó. [target_upgrade.GetName] óæå ìîæíî áûëî âèäåòü ïî ïðàâóþ ñòîðîíó îò íàñ. Ìû îñòàíîâèëèñü ðÿäîì è íåñêîëüêî ìèíóò ïðîâåëè â ïîëíîé òèøèíå. ß âûæäàë[Root.GetEndA] ìîìåíò, êîãäà [target_character.GetSheHe] ïðîÿâèò ïåðâûå ïðèçíàêè òðåâîãè, íî, ïîõîæå, [target_character.GetSheHe] ïðîñòî íàñëàæäà[target_character.GetLasLsya] âèäîì. Òîãäà ÿ ñêàçàë[Root.GetEndA]:;;x
+EVTDESC_LT_20310;[target_character.GetBestName] just laughed at me! A lot! How dare [target_character.GetSheHe]?! I even shouted at a servant this morning, when her giggling woke me up. I... I can still hear [target_character.GetTitledFirstName] laughing, mocking me in my dreams.;;;;;;;;;;;[target_character.GetBestName] ëèøü ðàññìåÿ[target_character.GetLasLsya] ìíå â ëèöî! Äà êàê [target_character.GetSheHe] ïîñìåë[target_character.GetEndA]?! Ýòîò æóòêèé õîõîò äî ñèõ ïîð ñíèòñÿ ìíå â êîøìàðàõ.;;x
+EVTDESC_LT_20405;[From.GetBestName] invited me to meet [From.GetHerHim] in the [target_upgrade.GetName] of the [target_wonder.GetName].;;;;;;;;;;;[From.GetBestName] ïðèãëàñèë[From.GetEndA] ìåíÿ âñòðåòèòüñÿ ñ í[From.GetEyIm] â íàçíà÷åííîì ìåñòå: [target_upgrade.GetName], [target_wonder.GetName].;;x
+EVTDESC_LT_20410;[target_character.GetBestName] accepted my invitation to meet in the seclusion of the [target_upgrade.GetName] in the [target_wonder.GetName]. After some time talking...;;;;;;;;;;;[target_character.GetBestName] ïðèíÿë[target_character.GetEndA] ìî¸ ïðèãëàøåíèå âñòðåòèòüñÿ ñ í[target_character.GetEyIm] â íàçíà÷åííîì ìåñòå. Ìû ïîãîâîðèëè íåìíîãî è...;;x
+EVTDESC_LT_20412;[target_character.GetBestName] [target_character.GetPoliteRefuse] declined my invitation me to meet in the seclusion of the [target_upgrade.GetName] in the [target_wonder.GetName].;;;;;;;;;;;[target_character.GetBestName] [target_character.GetPoliteRefuse] îòêàçà[target_character.GetLasLsya] îò ìîåãî ïðèãëàøåíèÿ ïîáåñåäîâàòü îäèí íà îäèí â íàçíà÷åííîì ìåñòå ([target_upgrade.GetName], [target_wonder.GetName]).;;x
+EVTDESC_LT_20421;I went to meet [From.GetBestName] in the seclusion of the [target_upgrade.GetName], in the [target_wonder.GetName]. We are having a pleasant conversation.;;;;;;;;;;;[From.GetBestName] âñòðåòèë[From.GetEndA] ìåíÿ â óêðîìíîì ìåñòå ([target_upgrade.GetName]/[target_wonder.GetName]). Ìû ïðèÿòíî ïîáåñåäîâàëè.;;x
+EVTDESC_LT_20422;I think [From.GetBestName] was impressed with our conversation.;;;;;;;;;;;ß äóìàþ, [From.GetBestName] áûë[From.GetEndA] âïå÷àòëåí[From.GetEndA] íàøåé áåñåäîé.;;x
+EVTDESC_LT_20431;"I'm meeting [From.GetTitledFirstName] in [target_wonder.Location.GetName], in the seclusion of the [target_upgrade.GetName]. After the usual pleasantries, [From.GetSheHe] pauses. ""[Root.GetFirstName], there is something I have wanted to do for a long time"", [From.GetSheHe] says, [From.GetHerHis] eyes wandering.";;;;;;;;;;;[target_upgrade.GetName] - èäåàëüíîå ìåñòî, ÷òîáû ïîãîâîðèòü ñ ãëàçó íà ãëàç. [From.GetTitledFirstName] ñåãîäíÿ âñòðåòèë[From.GetEndA] ìåíÿ òàì, è ìû ðàçãîâîðèëèñü. Ñïóñòÿ êàêîå-òî âðåìÿ [From.GetSheHe] îáíÿë[From.GetEndA] ìåíÿ è ïîïûòà[From.GetLasLsya] ïîöåëîâàòü.;;x
+EVTDESC_LT_20432_A;"[target_character.GetFirstName] returned my kiss, and more. ""When will I see you again?"" I asked, as we were parting. The [From.GetManWoman] chuckled, and said that this was fun, but that is all it was.";;;;;;;;;;;[target_character.GetFirstName] ïîääåðæàë[target_character.GetEndA] ìîé ïîöåëóé.\n— Óâèäèìñÿ ëè ìû ñíîâà? — ñïðîñèë[Root.GetEndA] ÿ.\n[From.GetSheHeCap] óõìûëüíó[From.GetLasLsya] è ñêàçàë[From.GetEndA], ÷òî ýòî áûëî âåñåëî, íî [From.GetSheHe] íå çàèíòåðåñîâàí[From.GetEndA] â äîëãèõ îòíîøåíèÿõ.;;x
+EVTDESC_LT_20432_B;[target_character.GetFirstName] returned my kiss, and more. Afterwards, we talked for hours, and I found myself fascinated by [From.GetHerHis] [From.GetLoverEnjoyableQuirk]. As we part, my heart is singing with [From.GetHerHis] name and I cannot wait until I can see [From.GetHerHim] again. I must learn everything about [From.GetHerHim]!;;;;;;;;;;;[target_character.GetFirstName] ïîääåðæàë[target_character.GetEndA] ìîé ïîöåëóé, è ìû ÷óäåñíî ïðîâåëè âðåìÿ. Íå çíàþ, ÷åì èìåííî [target_character.GetSheHe] ìåíÿ òàê ïðèâëåê[target_character.GetNoneE]. Ìîæåò, äåëî â [target_character.GetHersHis] [From.GetLoverEnjoyableQuirk], íî ïî îêîí÷àíèè âñòðå÷è ÿ íèêàê íå ìîã[Root.GetNoneE] ïåðåñòàòü äóìàòü î í[target_character.GetEyYom], ïðåäâêóøàÿ ìîìåíò, êîãäà ìû âñòðåòèìñÿ ñíîâà.;;x
+EVTDESC_LT_20433;I went to the [target_wonder.GetName], to meet [From.GetFirstName] in the seclusion of the [target_upgrade.GetName]. I didn't have to wait long for the [From.GetManWoman] to pull me towards [From.GetHerHim], eager to demonstrate how much [From.GetSheHe] has missed me.;;;;;;;;;;;[target_upgrade.GetName] - èäåàëüíîå ìåñòî äëÿ ëþáîâíûõ äåë, è êàê òîëüêî [From.GetTitledFirstName] ïðèø[From.GetLasYol] êî ìíå, ÿ áðîñè[Root.GetLasLsya] â [From.GetHersHis] îáúÿòüÿ.;;x
+EVTDESC_LT_20434;I tried to kiss [target_character.GetHerHim], but [target_character.GetSheHe] recoiled from me with disgust and fear on [target_character.GetHerHis] face.;;;;;;;;;;;Êîãäà ÿ ïîïûòà[Root.GetLasLsya] [target_character.GetHersHis] ïîöåëîâàòü, [target_character.GetSheHe] îòòîëêíóë[target_character.GetEndA] ìåíÿ. Âûðàæåíèå [target_character.GetHersHis] ëèöà îòðàæàëî ñòðàõ è îòâðàùåíèå.;;x
+EVTDESC_LT_20441;I went to meet [From.GetBestName] in the seclusion of the [target_upgrade.GetName], in the [target_wonder.GetName]. After some pleasantries, [From.GetSheHe] pulls a dagger from under [From.GetHerHis] clothes and tries to stab me!;;;;;;;;;;;[From.GetBestName] âñòðåòèë[From.GetEndA] ìåíÿ â óêðîìíîì ìåñòå ([target_upgrade.GetName]/[target_wonder.GetName]). Ïîñëå îáìåíà ëþáåçíîñòÿìè, [From.GetSheHe] âûíóë[From.GetEndA] ñâîé êèíæàë è ïîïûòà[From.GetLasLsya] çàðåçàòü ìåíÿ!;;x
+EVTDESC_LT_20441_murderer_target;"[From.GetTitledFirstName] blinks in surprise as I step closer to [From.GetHerHim]. But when I move to caress [From.GetHerHis] cheek, I catch the glint of steel in the [From.GetManWoman]'s hand! ""You.. You were going to use that on ME?!""";;;;;;;;;;;Âî âðåìÿ íàøåé âñòðå÷è ÿ çàìåòèë[Root.GetEndA], êàê [From.GetTitledFirstName] äåðæèò ÷òî-òî áëåñòÿùåå â ðóêå. Ýòî... Êèíæàë?! [From.GetSheHeCap] õî÷åò ìåíÿ çàðåçàòü!;;x
+EVTDESC_LT_20450;It was a very bad idea to go meet to meet [From.GetTitledFirstName] in the seclusion of the [target_upgrade.GetName]. I barely escaped with my life. My hands still tremble when I think of it.;;;;;;;;;;;Íåñìîòðÿ íà òî, ÷òî [target_upgrade.GetName] - õîðîøåå ìåñòî äëÿ áåñåäû òåò-à-òåò, èäåÿ îêàçàëàñü ïðîñòî óæàñíîé. [murderer.GetTitledFirstName] ÷óòü íå óáèë[murderer.GetEndA] ìåíÿ. ß åëå óíåñ[Root.GetNoneE] íîãè. Ðóêè äî ñèõ ïîð òðÿñóòñÿ, êîãäà âñïîìèíàþ îá ýòîì.;;x
+EVTDESC_LT_20450_wounded;Fortunately [From.GetTitledFirstName]'s dagger missed my heart, and I managed to escape with my life. The physician says I will survive. Let us see.;;;;;;;;;;;Ê ñ÷àñòüþ [murderer.GetTitledFirstName] ïðîìàõíó[murderer.GetLasLsya]. [murderer.GetHersHisCap] êèíæàë ðàíèë ìåíÿ, íî íå ïîïàë â ñåðäöå. Ëåêàðü ãîâîðèò, ÷òî ÿ âûæèâó. Íàäåþñü, íà ýòî.;;x
+EVTDESC_LT_20455;As I see the blood slowly leaving my body, forming a pool on the ground, and the hands of death reaching for me, I now think of all the things I could have done if I knew this day would end like this.;;;;;;;;;;;ß íàáëþäàþ, êàê êðîâü ìåäëåííî ïîêèäàåò ìî¸ òåëî, ñîáèðàÿñü â ëóæó, è êàê ñìåðòü ïðîòÿãèâàåò êî ìíå ñâîè êîñòëÿâûå ïàëüöû. ß ìîã[Root.GetNoneE] áû ïîäóìàòü îáî âñåõ òåõ âåùàõ, êîòîðûå íå óñïåë[Root.GetEndA] ñäåëàòü, íî ó ìåíÿ íåò íèêàêèõ ìûñëåé, ëèøü âñåïîãëîùàþùåå îùóùåíèå öåëîñòíîñòè è ÿñíîñòè óñêîëüçàþùåãî áûòèÿ.;;x
+EVTDESC_LT_20460;As my dagger is going for [From.GetHerHis] heart, [From.GetTitledFirstName] raises the arm and I miss my mark. Then [From.GetSheHe] just runs away. Now I will have to deal with the consequences.;;;;;;;;;;;Ìîé êèíæàë ïî÷òè äîñòèã [From.GetHersHis] ñåðäöà, êàê âäðóã [From.GetTitledFirstName] ðåçêî ïîäíÿë[From.GetEndA] ðóêó. ß ïðîìàõíó[Root.GetLasLsya], à [From.GetSheHe] ñáåæàë[From.GetEndA]. Òåïåðü ìíå ïðèäåòñÿ ñòîëêíóòüñÿ ñ ïîñëåäñòâèÿìè.;;x
+EVTDESC_LT_20460_wounded;As my dagger is going for [From.GetHerHis] heart, [From.GetTitledFirstName] raises the arm and I miss the mark. I wound [From.GetHerHim], but [From.GetSheHe] manages to run away, leaving a trail of blood behind. Now I will have to deal with the consequences.;;;;;;;;;;;Ìîé êèíæàë ïî÷òè äîñòèã [From.GetHersHis] ñåðäöà, êàê âäðóã [From.GetTitledFirstName] ðåçêî ïîäíÿë[From.GetEndA] ðóêó. ß ðàíèë[Root.GetEndA] [From.GetHersHis], íî [From.GetHerHim] óäàëîñü ñáåæàòü, îñòàâèâ çà ñîáîé êðîâàâûé ñëåä. Òåïåðü ìíå ïðèäåòñÿ ñòîëêíóòüñÿ ñ ïîñëåäñòâèÿìè.;;x
+EVTDESC_LT_20465;Before [murderer.GetSheHe] can run away, I bury my dagger in [murderer.GetHerHis] chest! I leave [murderer.GetTitledFirstName] lying on the ground, a pool of blood forming around [murderer.GetHerHim]. [murderer.GetHerHisCap] face is frozen in a look of betrayal.;;;;;;;;;;;Ïðåæäå ÷åì [murderer.GetTitledFirstName] ñìîã[murderer.GetNoneE] ñáåæàòü, ÿ âîíçèë[Root.GetEndA] êèíæàë [murderer.GetHerHim] â ãðóäü! Îñòàâèâ [murderer.GetHersHis] ëåæàòü â ëóæå êðîâè, ÿ ñïåøíî ðåòèðîâà[Root.GetLasLsya].;;x
+EVTDESC_LT_20465_fight;We fight each other, but in the end, I prevail and bury my dagger in [murderer.GetHerHis] chest! I leave [murderer.GetTitledFirstName] lying on the ground, a pool of blood forming around [murderer.GetHerHim].;;;;;;;;;;;Ìåæäó íàìè çàâÿçàëàñü äðàêà, íî ÿ ñìîã[Root.GetNoneE] âîíçèòü êèíæàë [murderer.GetHerHim] â ãðóäü! Îñòàâèâ [murderer.GetHersHis] ëåæàòü â ëóæå êðîâè, ÿ ñïåøíî ðåòèðîâà[Root.GetLasLsya].;;x
+EVTDESC_LT_20510_christian;The great [target_dead_ruler.GetTitledName] is dead. Maybe he is in Heaven in the company of the saints and [Root.Religion.GetHighGodNameCap], or maybe in Hell in the company of [Root.Religion.GetRandomEvilGodNameCap]. But here on this land I must decide on how to honor [target_dead_ruler.GetHerHim]. [target_dead_ruler.GetHerHisCap] body may be put to rest in the [target_wonder.GetName].;;;;;;;;;;;[target_dead_ruler.GetTitledFirstName] ìåðòâ[target_dead_ruler.GetEndA]. Âîçìîæíî, [target_dead_ruler.GetSheHe] ñåé÷àñ ñ [Root.GetReligionHighGodINS] íà Íåáåñàõ, à ìîæåò è â àäó, íî ÿñíî îäíî - çäåñü â ìèðå æèâûõ, ÿ äîëæ[Root.GetNaEn] ðåøèòü, êàê ïî÷òèòü [target_dead_ruler.GetHersHis]. [target_dead_ruler.GetSheHeCap] ìîæåò áûòü óâåêîâå÷åí[target_dead_ruler.GetEndA] â [target_wonder.GetWonderTypeShortCapPREP].;;x
+EVTDESC_LT_20510_indian;The great [target_dead_ruler.GetTitledName] is dead, [target_dead_ruler.GetHerHis] soul awaiting rebirth in the great cycle of life. But here on this land I must decide on how to honor [target_dead_ruler.GetHerHim]. And thanks to the [target_wonder.GetName] I have the ability to properly honor [target_dead_ruler.GetHerHim] in death.;;;;;;;;;;;[target_dead_ruler.GetTitledFirstName] ìåðòâ[target_dead_ruler.GetEndA], [target_dead_ruler.GetHerHis] äóøà îæèäàåò âîïëîùåíèÿ â ñëåäóþùåì âåëèêîì öèêëå. À ïîêà ÷òî, çäåñü â ìèðå æèâûõ, ÿ äîëæ[Root.GetNaEn] ðåøèòü, êàê ïî÷òèòü [target_dead_ruler.GetHersHis]. [target_dead_ruler.GetSheHeCap] ìîæåò áûòü óâåêîâå÷åí[target_dead_ruler.GetEndA] â [target_wonder.GetWonderTypeShortCapPREP].;;x
+EVTDESC_LT_20510_jewish;The great [target_dead_ruler.GetTitledName] is dead, waiting the end of times. But here on this land I must decide on how to honor [target_dead_ruler.GetHerHim]. [target_dead_ruler.GetHerHisCap] body may be put to rest in the [target_wonder.GetName].;;;;;;;;;;;[target_dead_ruler.GetTitledFirstName] ìåðòâ[target_dead_ruler.GetEndA] è îæèäàåò êîíöà âðåì¸í. À ïîêà ÷òî, çäåñü â ìèðå æèâûõ, ÿ äîëæ[Root.GetNaEn] ðåøèòü, êàê ïî÷òèòü [target_dead_ruler.GetHersHis]. [target_dead_ruler.GetSheHeCap] ìîæåò áûòü óâåêîâå÷åí[target_dead_ruler.GetEndA] â [target_wonder.GetWonderTypeShortCapPREP].;;x
+EVTDESC_LT_20510_muslim;The great [target_dead_ruler.GetTitledName] is dead. Maybe he is in Jannah accompanied by the Houris, or maybe in Jahannam suffering the company of [Root.Religion.GetRandomEvilGodNameCap]. But here on this land I must decide on how to honor [target_dead_ruler.GetHerHim]. [target_dead_ruler.GetHerHisCap] body may be put to rest in the [target_wonder.GetName].;;;;;;;;;;;[target_dead_ruler.GetTitledFirstName] ìåðòâ[target_dead_ruler.GetEndA]. Âñòðå÷àþò ëè [target_dead_ruler.GetHersHis] ãóðèè â Äæàííàòå èëè [target_dead_ruler.GetSheHe] ïîïàë[target_dead_ruler.GetEndA] â Äæàõàííàì, ÿñíî ëèøü îäíî - çäåñü â ìèðå æèâûõ, ÿ äîëæ[Root.GetNaEn] ðåøèòü, êàê ïî÷òèòü [target_dead_ruler.GetHersHis]. [target_dead_ruler.GetSheHeCap] ìîæåò áûòü óâåêîâå÷åí[target_dead_ruler.GetEndA] â [target_wonder.GetWonderTypeShortCapPREP].;;x
+EVTDESC_LT_20510_pagan;The great [target_dead_ruler.GetTitledName] is dead. Maybe he is in the company of [Root.Religion.GetHighGodNameCap], or maybe in the company of [Root.Religion.GetRandomEvilGodNameCap]. But here on this land I must decide on how to honor [target_dead_ruler.GetHerHim]. And thanks to the [target_wonder.GetName] I have the ability to properly honor [target_dead_ruler.GetHerHim] in death.;;;;;;;;;;;[target_dead_ruler.GetTitledFirstName] ìåðòâ[target_dead_ruler.GetEndA]. Ìîæåò áûòü, [target_dead_ruler.GetSheHe] ñåé÷àñ ñ [Root.GetReligionHighGodINS], ìîæåò [Root.Religion.GetRandomEvilGodNameCap] ïðèíèìàåò [target_dead_ruler.GetHersHis] â çàãðîáíîì ìèðå, íî ÿñíî îäíî - çäåñü â ìèðå æèâûõ, ÿ äîëæ[Root.GetNaEn] ðåøèòü, êàê ïî÷òèòü [target_dead_ruler.GetHersHis]. [target_dead_ruler.GetSheHeCap] ìîæåò áûòü óâåêîâå÷åí[target_dead_ruler.GetEndA] â [target_wonder.GetWonderTypeShortCapPREP].;;x
+EVTDESC_LT_20520_indian;It was a memorable funeral and procession full of honors for [target_dead_ruler.GetTitledName]. Everybody will remember how I honored [target_dead_ruler.GetHerHim].;;;;;;;;;;;[target_dead_ruler.GetTitledFirstName] áûë[target_dead_ruler.GetEndA] áû äîâîë[target_dead_ruler.GetSoftNaEn]. ×òîáû ïî÷òèòü [target_dead_ruler.GetHersHis] ïàìÿòü, ÿ ïðîâåë[Root.GetEndA] ãðàíäèîçíóþ ïîõîðîííóþ öåðåìîíèþ. Ëþäè áóäóò ïîìíèòü, êàêóþ ÷åñòü ÿ [target_dead_ruler.GetHerHim] îêàçàë[Root.GetEndA].;;x
+EVTDESC_LT_20520_monoteist;It was a memorable funeral and procession full of honors for [target_dead_ruler.GetTitledName]. [target_dead_ruler.GetHerHisCap] body now rests in peace in the [target_wonder.GetName]. Everybody will remember how I honored [target_dead_ruler.GetHerHim].;;;;;;;;;;;[target_dead_ruler.GetTitledFirstName] áûë[target_dead_ruler.GetEndA] áû äîâîë[target_dead_ruler.GetSoftNaEn] öåðåìîíèåé. ×òîáû ïî÷òèòü [target_dead_ruler.GetHersHis] ïàìÿòü, ÿ ïðîâåë[Root.GetEndA] ãðàíäèîçíóþ ïîõîðîííóþ ïðîöåññèþ. Òåïåðü [target_dead_ruler.GetHersHis] òåëî ìèðíî ïîêîèòñÿ â [target_wonder.GetWonderTypeShortCapPREP]. Ëþäè áóäóò ïîìíèòü, êàêóþ ÷åñòü ÿ [target_dead_ruler.GetHerHim] îêàçàë[Root.GetEndA].;;x
+EVTDESC_LT_20520_pagan;It was a great Feast in the honor of [target_dead_ruler.GetTitledName] and the Gods. [target_dead_ruler.GetHerHisCap] body now rests in peace in the [target_wonder.GetName]. Everybody will remember how I honored [target_dead_ruler.GetHerHim].;;;;;;;;;;;[target_dead_ruler.GetTitledFirstName] áûë[target_dead_ruler.GetEndA] áû äîâîë[target_dead_ruler.GetSoftNaEn] öåðåìîíèåé. ×òîáû ïî÷òèòü [target_dead_ruler.GetHersHis] è áîãîâ, ÿ óñòðîèë[Root.GetEndA] ãðàíäèîçíûé ïèð. Òåïåðü [target_dead_ruler.GetHersHis] òåëî ìèðíî ïîêîèòñÿ â [target_wonder.GetWonderTypeShortCapPREP]. Ëþäè áóäóò ïîìíèòü, êàêóþ ÷åñòü ÿ [target_dead_ruler.GetHerHim] îêàçàë[Root.GetEndA].;;x
+EVTDESC_LT_20601_more_artifacts;Your collection of wondrous and holy relics like the [target_artifact_1.GetName], the [target_artifact_2.GetName], and the [target_artifact_3.GetName] is astonishing and the envy of the world. A fitting place to keep one of the relics would be the §Y[target_upgrade.GetName]§! of the §Y[target_wonder.GetName]§!.;;;;;;;;;;;Âàøà êîëëåêöèÿ ñâÿùåííûõ ðåëèêâèé âêëþ÷àåò â ñåáÿ òàêèå àðòåôàêòû, êàê [target_artifact_1.GetName], [target_artifact_2.GetName] è [target_artifact_3.GetName]. Î÷åâèäíî, §Y[target_upgrade.GetName]§! §Y[target_wonder.GetWonderTypeShortCapGEN]§! - ñàìîå ïîäõîäÿùåå ìåñòî äëÿ õðàíåíèÿ ñòîëü öåííûõ âåùåé.;;x
+EVTDESC_LT_20601_one_artifact;You spend many hours contemplating the wondrous [target_artifact_1.GetName] in your possession. Surely a fitting place for such a relic would be the §Y[target_upgrade.GetName]§! of the §Y[target_wonder.GetName]§!.;;;;;;;;;;;[target_artifact_1.GetName]... Âû ïðîâåðèë ìíîãèå ÷àñû, ðàçãëÿäûâàÿ ýòîò àðòåôàêò. Î÷åâèäíî, §Y[target_upgrade.GetName]§! §Y[target_wonder.GetWonderTypeShortCapGEN]§! - ñàìîå ïîäõîäÿùåå ìåñòî äëÿ õðàíåíèÿ ñòîëü öåííîé ðåëèêâèè.;;x
+EVTDESC_LT_20601_two_artifacts;You spend many hours contemplating the wondrous [target_artifact_1.GetName] and the holy [target_artifact_2.GetName] in your possession. A fitting place to keep one of the relics would be the §Y[target_upgrade.GetName]§! of the §Y[target_wonder.GetName]§!.;;;;;;;;;;;[target_artifact_1.GetName], [target_artifact_2.GetName]... Âû ïðîâåðèë ìíîãèå ÷àñû, ðàçãëÿäûâàÿ ýòè àðòåôàêòû. Î÷åâèäíî, §Y[target_upgrade.GetName]§! §Y[target_wonder.GetWonderTypeShortCapGEN]§! - ñàìîå ïîäõîäÿùåå ìåñòî äëÿ õðàíåíèÿ ñòîëü öåííûõ ðåëèêâèé.;;x
+EVTDESC_LT_20610;Suddenly everything goes dark, and a powerful voice echoes in your head: 'What have you done?' Then you feel pain as lightning strikes you, and the world around you dissolves. Your last thoughts are...;;;;;;;;;;;"Âíåçàïíî â ãëàçàõ ïîòåìíåëî, è â Âàøåé ãîëîâå çàçâó÷àë ìîùíûé ãîëîñ: ""×òî òû íàäåëàë[Root.GetEndA]?"". Âû ïî÷óâñòâîâàëè áîëü, ïîðàçèâøóþ Âàñ ïîäîáíî óäàðó ìîëíèè, è ìèð âîêðóã ðàñòâîðèëñÿ. Âàøèìè ïîñëåäíèìè ìûñëÿìè áûëè...";;x
+EVTDESC_LT_20700;The last fortifications of the [target_upgrade.GetName] for my [target_wonder.GetName] have been finally finished. Now, even the small townships in the province of [target_province.GetName] are protected by these great defensive works!;;;;;;;;;;;[target_upgrade.GetName] [target_wonder.GetWonderTypeShortCapGEN] - íàêîíåö-òî ðàáîòà çàêîí÷åíà! Òåïåðü äàæå ìåëêèå [target_province.County.GetAdjective]ñêèå äåðåâóøêè ïîëó÷àò îòëè÷íóþ çàùèòó!;;x
+EVTDESC_LT_20805;Your courtier [target_courtier.GetBestName] comes to you and says [target_courtier.GetSheHe] acquired [looted_artifact.GetName] from looting the [target_wonder.GetWonderTypeShort]. [target_courtier.GetSheHeCap] would like to gift it to you.;;;;;;;;;;;[target_courtier.GetBestName] ñîîáùèë[target_courtier.GetEndA] âàì, ÷òî àðòåôàêò, èçâåñòíûé êàê [looted_artifact.GetName], áûë íàéäåí âî âðåìÿ ðàçãðàáëåíèÿ [target_wonder.GetWonderTypeShortCapGEN], è [target_courtier.GetSheHe] õîòåë[target_courtier.GetEndA] áû ïîäàðèòü åãî âàì.;;x
+EVTDESC_LT_20810;As your men start to loot the [From.GetUnfinished][From.GetName], many in [FromFrom.GetName] are upset that you are destroying their heritage.;;;;;;;;;;;Êîãäà Âàøè ëþäè íà÷àëè ðàçãðàáëåíèå, [FromFrom.County.GetAdjective]ñêèå æèòåëè âûñòóïèëè ðåçêî ïðîòèâ ýòîãî, óòâåðæäàÿ, ÷òî [From.GetUnfinished][From.GetName] - èõ êóëüòóðíîå äîñòîÿíèå.;;x
+EVTDESC_LT_20810_cheap;As people see your men starting to tear down the [From.GetUnfinished] [From.GetName], they become upset. Something has to be done to avoid public unrest.;;;;;;;;;;;Ìåñòíûå æèòåëè ñ÷èòàþò, ÷òî [From.GetUnfinished][From.GetName] - èõ êóëüòóðíîå äîñòîÿíèå, è êîãäà îíè çàìåòèëè, êàê Âàøè ëþäè ãðàáÿò ýòî âåëèêîå ñîîðóæåíèå, òî âûñòóïèëè ðåçêî ïðîòèâ.;;x
+EVTDESC_LT_20820;The looting of the §Y[From.GetName]§! gave me [local_loot.GetValue] gold. And there is still more to come!;;;;;;;;;;;[From.GetName] ñåé÷àñ â ïðîöåññå ðàçãðàáëåíèÿ. Ìîÿ äîëÿ äîáû÷è óæå ñîñòàâèëà [global_loot.GetValue] çîëîòûõ, è òàì îñòàëîñü åù¸ ìíîãî öåííîãî!;;x
+EVTDESC_LT_20820_the_end;The §Y[From.GetName]§! is now nothing but rubble, its former glory lost forever. And I got [local_loot.GetValue] gold from it.;;;;;;;;;;;[From.GetName] òåïåðü íå áîëåå ÷åì ãðóäà îáëîìêîâ. Ïîñëå ðàçãðàáëåíèÿ ìîÿ äîëÿ äîáû÷è ñîñòàâèëà [global_loot.GetValue] çîëîòûõ.;;x
+EVTDESC_LT_20900;Some of my followers are clamoring for the conversion of [target_wonder.GetName] to the true faith as soon as possible, so that our people can worship in the grandiose building.;;;;;;;;;;;Íåêîòîðûå èç ìîèõ ñîâåòíèêîâ ñ÷èòàþò, ÷òî Ñîáîé Ñâÿòîé Ñîôèè, òàêæå èçâåñòíûé êàê [target_wonder.GetName], äîëæåí ñëóæèòü èñòèííîé âåðå, äàáû íàøè ëþäè ìîãëè â ïîëíîé ìåðå âîñõèùàòüñÿ âåëè÷èåì ýòîãî ñîîðóæåíèÿ.;;x
+EVTDESC_LT_20900_chaplain;My [Root.job_spiritual.GetJobTitle] [Root.job_spiritual.GetFirstName] wants to convert [target_wonder.GetName] to the true faith as soon as possible, so that our people can worship in the grandiose building.;;;;;;;;;;;[target_chaplain.GetJobTitle] [target_chaplain.GetFirstName] õî÷åò, ÷òîáû Ñîáîé Ñâÿòîé Ñîôèè, òàêæå èçâåñòíûé êàê [target_wonder.GetName], ñëóæèë èñòèííîé âåðå òàê ñêîðî, êàê òîëüêî âîçìîæíî, äàáû íàøè ëþäè ìîãëè â ïîëíîé ìåðå âîñõèùàòüñÿ âåëè÷èåì ýòîãî ñîîðóæåíèÿ.;;x
+EVTDESC_LT_21000.1;Things quickly get out of control as my soldiers storm the gates of [From.GetName]. Killing indiscriminately and sacking every building they come across, they seem to have lost all sense of discipline.;;;;;;;;;;;Êîãäà ìîè ñîëäàòû âçÿëè øòóðìîì ïîñåëåíèå [From.GetBaseName], ñèòóàöèÿ âûøëà èç-ïîä êîíòðîëÿ. Îíè ïðèíÿëèñü ãðàáèòü, óáèâàòü è íàñèëîâàòü, íå îñòàíàâëèâàÿñü íè ïåðåä ÷åì.;;x
+EVTDESC_LT_21000.2;After the army enters [From.GetName], any sense of discipline is lost and the men start to rob, burn and pillage.;;;;;;;;;;;Êîãäà ìîÿ àðìèÿ ïðîíèêëà â ïîñåëåíèå [From.GetName], îíà óòðàòèëà ëþáûå ïðèçíàêè äèñöèïëèíû. Ñîëäàòû ïðèíÿëèñü ãðàáèòü, æå÷ü è ðàçîðÿòü âñ¸ âîêðóã.;;x
+EVTOPT_LT_20040_TT;You gain the [the_book.GetName] as an artifact.;;;;;;;;;;;[the_book.GetName] äîáàâèòñÿ â Âàøó áèáëèîòåêó êàê àðòåôàêò.;;x
+EVTOPT_LT_20110_TT;You gain the [found_artifact.GetName] as an artifact.\n;;;;;;;;;;;§Y[found_artifact.GetName]§! äîáàâèòñÿ â Âàøó ñîêðîâèùíèöó.\n;;x
+EVTOPTA_LT_20010;I shall ask [possible_emissary1.GetFirstName] to go and try to acquire the book!;;;;;;;;;;;Ïóñòü [possible_emissary1.GetFirstName] îòïðàâèòñÿ çà ýòîé êíèãîé!;;x
+EVTOPTA_LT_20010_TT;[possible_emissary1.GetFirstName] will be sent to [book_province.GetName].;;;;;;;;;;;[possible_emissary1.GetFirstName] îòïðàâèòñÿ â [book_province.County.GetAdjective]ñêèå çåìëè.;;x
+EVTOPTA_LT_20011;May [emissary.GetSheHe] rest in peace.;;;;;;;;;;;Äà óïîêîèòñÿ [emissary.GetHeShe] ñ ìèðîì.;;x
+EVTOPTA_LT_20020;It is a pity.;;;;;;;;;;;Ïå÷àëüíî.;;x
+EVTOPTA_LT_20030;I will send the money. It will be worth it!;;;;;;;;;;;Íó ýòî ñòîèò òîãî. ß îòïðàâëþ äåíüãè.;;x
+EVTOPTA_LT_20035;Oh no! I must be more careful choosing who to send next time.;;;;;;;;;;;Âîò ãàäèíà! Íåëüçÿ áûëî äîâåðÿòü [emissary.GetHerHim] ïîèñêè.;;x
+EVTOPTA_LT_20036;Nobody betrays me and gets away with it.;;;;;;;;;;;Íèêòî íå ïîñìååò ïðåäàòü ìåíÿ è âûéòè ñóõèì èç âîäû.;;x
+EVTOPTA_LT_20040;I will read the book and see by myself.;;;;;;;;;;;ß ïðî÷èòàþ ýòó êíèãó ñàì[Root.GetEndA].;;x
+EVTOPTA_LT_20050;How dare [the_whistleblower.GetSheHe]? Imprison that imbecile [the_whistleblower.GetManWoman]!;;;;;;;;;;;Äà êàê [the_whistleblower.GetSheHe] ïîñìåë[the_whistleblower.GetEndA]? Áðîñèòü [the_whistleblower.GetHersHis] â òåìíèöó!;;x
+EVTOPTA_LT_20055;I actually learned something from the book.;;;;;;;;;;;ß ìíîãîå óçíàë èç ýòîé êíèãè.;;x
+EVTOPTA_LT_20060_fake_book;Good. And maybe next time I will actually obtain a masterpiece.;;;;;;;;;;;Ìîæåò áûòü â ñëåäóþùèé ðàç ìíå óäàñòñÿ íàéòè íàñòîÿùèé øåäåâð.;;x
+EVTOPTA_LT_20060_real_book;A center for culture. That sounds good.;;;;;;;;;;;Öåíòð êóëüòóðû. Çâó÷èò íåïëîõî.;;x
+EVTOPTA_LT_20101;Let us spend some time and gold to investigate.;;;;;;;;;;;Íà ýòî ñòîèò ïîòðàòèòü íåìíîãî âðåìåíè è äåíåã.;;x
+EVTOPTA_LT_20101_TT;Maybe there are some old valuables inside.\n;;;;;;;;;;;Âîçìîæíî, òàì åñòü ÷òî-òî öåííîå.\n;;x
+EVTOPTA_LT_20110;On with the construction!;;;;;;;;;;;×åãî óñòàâèëèñü? Çà ðàáîòó!;;x
+EVTOPTA_LT_20301;...'I hope my meaning is clear'.;;;;;;;;;;;— Íàäåþñü, ìîé ïîñûë áûë ÿñíûì.;;x
+EVTOPTA_LT_20301_TT;the attempt to intimidate §Y[target_character.GetFirstNameWithNick]§! fails;;;;;;;;;;;ïîïûòêà çàïóãàòü ïåðñîíàæà §Y[target_character.GetFirstNameWithNick]§! ïðîâàëèòñÿ;;x
+EVTOPTA_LT_20310;I should not have brought him to the [target_upgrade.GetName].;;;;;;;;;;;[target_upgrade.GetName] - âîò, ÷òî ìíå ïîìîæåò!;;x
+EVTOPTA_LT_20405;I will accept.;;;;;;;;;;;ß ñîãëàñ[Root.GetNaEn].;;x
+EVTOPTA_LT_20410;... We will know each other a little better.;;;;;;;;;;;Ëó÷øå óçíàëè äðóã äðóãà.;;x
+EVTOPTA_LT_20412;Too bad.;;;;;;;;;;;Ïëîõî.;;x
+EVTOPTA_LT_20421;I am thoroughly impressed with [From.GetTitledFirstName]!;;;;;;;;;;;È ÿ áûë[Root.GetEndA] âåñüìà âïå÷àòëåí[Root.GetEndA]!;;x
+EVTOPTA_LT_20431;I want you too, [From.GetFirstName]...!;;;;;;;;;;;Êàæåòñÿ, ÿ âëþáè[Root.GetLasLsya].;;x
+EVTOPTA_LT_20431_no_love;I am not looking for anything 'serious', my [From.GetLordLady].;;;;;;;;;;;Íî ÿ íå áûë[Root.GetEndA] ïðîòèâ.;;x
+EVTOPTA_LT_20432_A;Wait... That's it? But I...!;;;;;;;;;;;Êàæåòñÿ, ÿ âëþáè[Root.GetLasLsya].;;x
+EVTOPTA_LT_20432_B;Life is good!;;;;;;;;;;;Æèçíü õîðîøà!;;x
+EVTOPTA_LT_20434;Curses!;;;;;;;;;;;Ïðîêëÿòüå!;;x
+EVTOPTA_LT_20441;You'll have to catch me first!;;;;;;;;;;;Áðîñèòñÿ áåæàòü!;;x
+EVTOPTA_LT_20441_TT_dead;you being killed while trying to escape.;;;;;;;;;;;âû áóäåòå óáèòû ïðè ïîïûòêå ê áåãñòâó.;;x
+EVTOPTA_LT_20441_TT_escape;you managing to escape.;;;;;;;;;;;âàì óäàñòñÿ ñáåæàòü.;;x
+EVTOPTA_LT_20441_TT_wounded;you managing to escape, but wounded.;;;;;;;;;;;âàì óäàñòñÿ ñáåæàòü, íî Âû áóäåòå ðàíåíû.;;x
+EVTOPTA_LT_20450;This is not what was supposed to happen...!;;;;;;;;;;;Ýòîãî íå äîëæíî áûëî ñëó÷èòüñÿ!;;x
+EVTOPTA_LT_20455;Aaah...;;;;;;;;;;;...;;x
+EVTOPTA_LT_20465;So be it!;;;;;;;;;;;Äà áóäåò òàê.;;x
+EVTOPTA_LT_20510;I will commit [target_dead_ruler.GetHerHim] to earth in a ceremony that shall be remembered!;;;;;;;;;;;Ýòè ïîõîðîíû çàïîìíÿòñÿ íà âåêà.;;x
+EVTOPTA_LT_20510_TT;You invite all people to come and pay homage to §Y[target_dead_ruler.GetTitledName]§! in a grandiose ceremony.;;;;;;;;;;;Ïðèãëàñèòü êàê ìîæíî áîëüøå ëþäåé íà ãðàíäèîçíóþ öåðåìîíèþ, äàáû §Y[target_dead_ruler.GetTitledFirstName]§! ïîëó÷èë[target_dead_ruler.GetEndA] äîñòîéíûå ïîõîðîíû.;;x
+EVTOPTA_LT_20520_monoteist;Praise the Lord!;;;;;;;;;;;Ñëàâà Ãîñïîäó!;;x
+EVTOPTA_LT_20520_muslim;Allah be praised!;;;;;;;;;;;Õâàëà Àëëàõó!;;x
+EVTOPTA_LT_20520_polyteist;Praise the Gods!;;;;;;;;;;;Õâàëà áîãàì!;;x
+EVTOPTA_LT_20520_TT;Those who liked §Y[target_dead_ruler.GetBestName]§! improve their opinion of you.[Root.GetBigBurialHaterSentence];;;;;;;;;;;Òå, êîìó íðàâèòñÿ §Y[target_dead_ruler.GetBestName]§!, óëó÷øàò ñâî¸ ìíåíèå î Âàñ.;;x
+EVTOPTA_LT_20601;I will store the [target_artifact_1.GetName] in the [target_upgrade.GetName].;;;;;;;;;;;[target_artifact_1.GetName];;x
+EVTOPTA_LT_20601_TT;The §Y[This.GetName]§! will be stored forever in the §Y[target_upgrade.GetName]§!. You will not be able to get it back.;;;;;;;;;;;§Y[target_upgrade.GetName]§! ñòàíåò âå÷íûì ìåñòîì õðàíåíèÿ àðòåôàêòà, èçâåñòíîãî êàê §Y[This.GetName]§!. Âû íå ñìîæåòå çàáðàòü ýòó âåùü.;;x
+EVTOPTA_LT_20610;I hope my successor does not make the same mistake.;;;;;;;;;;;Íàäåþñü, ìîé íàñëåäíèê íå ñîâåðøèò òó æå îøèáêó.;;x
+EVTOPTA_LT_20700;I always enjoy more protection.;;;;;;;;;;;Ïðåâîñõîäíî!;;x
+EVTOPTA_LT_20700_TT;All walls of [target_province.GetName] holdings are upgraded to their maximum level.;;;;;;;;;;;Âñå ñòåíû [target_province.County.GetAdjective]ñêèõ ïîñåëåíèé óëó÷øåíû äî ìàêñèìàëüíîãî óðîâíÿ.;;x
+EVTOPTA_LT_20805;Thank you, I accept this offer gladly.;;;;;;;;;;;Áëàãîäàðþ Âàñ çà ùåäðûé ïîäàðîê.;;x
+EVTOPTA_LT_20810;I post guards so that nobody interferes.;;;;;;;;;;;Îòïðàâüòå ñòðàæó ê ìåñòó áåñïîðÿäêîâ.;;x
+EVTOPTA_LT_20900;Yes, we should convert it to the true [Root.Religion.GetName] faith.;;;;;;;;;;;Ñîãëàñ[Root.GetNaEn], ïîðà âíåñòè íåîáõîäèìûå èçìåíåíèÿ.;;x
+EVTOPTA_LT_21000;Let them have their fun. This is war after all.;;;;;;;;;;;Ïóñòü ïîâåñåëÿòñÿ. Ýòî æå âîéíà, â êîíöå êîíöîâ.;;x
+EVTOPTA_LT_21000_DISHONORABLE_TT;This action will be considered dishonorable by many people.;;;;;;;;;;;Ýòî áåñ÷åñòíîå äåéñòâèå áóäåò ìíîãèìè âîñïðèíÿòî íåãàòèâíî.;;x
+EVTOPTB_LT_20010;Or maybe [possible_emissary2.GetFirstName] should go instead.;;;;;;;;;;;Õîòÿ... Ïîæàëóé, [possible_emissary2.GetFirstName] ëó÷øå ñïðàâèòñÿ.;;x
+EVTOPTB_LT_20010_TT;[possible_emissary2.GetFirstName] will be sent to [book_province.GetName].;;;;;;;;;;;[possible_emissary2.GetFirstName] îòïðàâèòñÿ â [book_province.County.GetAdjective]ñêèå çåìëè.;;x
+EVTOPTB_LT_20030;No, it is too expensive. Let [emissary.GetHerHim] return empty handed.;;;;;;;;;;;Ñëèøêîì äîðîãî. Ïóñòü âîçâðàùàåòñÿ.;;x
+EVTOPTB_LT_20035;Maybe somebody will take care of the traitor?;;;;;;;;;;;Êòî-íèáóäü ïîçàáîòüòåñü îá ýò[emissary.GetOyOm] ïðåäàòåëü[emissary.GetEndNitsa].;;x
+EVTOPTB_LT_20035_TT;You try to have [emissary.GetTitledNameWithNick] assassinated;;;;;;;;;;;Ïîïûòàòüñÿ ñäåëàòü òàê, ÷òîáû [emissary.GetTitledNameWithNick] óìåð[emissary.GetNoneE];;x
+EVTOPTB_LT_20036;Maybe it was not such a good idea.;;;;;;;;;;;Âîçìîæíî, ýòî áûëà íå òàêàÿ óæ õîðîøàÿ èäåÿ.;;x
+EVTOPTB_LT_20040;Let us send letters and invite some scholars;;;;;;;;;;;Íàäî ðàçîñëàòü ïðèãëàøåíèÿ.;;x
+EVTOPTB_LT_20050;I will reward [the_whistleblower.GetHerHim] for speaking the truth!;;;;;;;;;;;[the_whistleblower.GetSheHeCap] çàñëóæèâàåò íàãðàäó!;;x
+EVTOPTB_LT_20055;Burn the damned book!;;;;;;;;;;;Ñæå÷ü ýòó ïðîêëÿòóþ êíèãó!;;x
+EVTOPTB_LT_20101;Just ignore and continue the work.;;;;;;;;;;;Èãíîðèðîâàòü ýòîò ôàêò è ïðîäîëæèòü ðàáîòû.;;x
+EVTOPTB_LT_20110;It is all mine!;;;;;;;;;;;Ýòî âñ¸ ìî¸!;;x
+EVTOPTB_LT_20301;...'I hope you understand how important this favor is'.;;;;;;;;;;;— Íàäåþñü, òû ïîíèìàåøü âñþ âàæíîñòü ýòîé óñëóãè.;;x
+EVTOPTB_LT_20301_TT;the attempt to coerce a favor fails;;;;;;;;;;;Ïîïûòêà ïðèíóäèòü ê óñëóãå ïðîâàëèòñÿ;;x
+EVTOPTB_LT_20405;I will refuse.;;;;;;;;;;;Îòêàæóñü.;;x
+EVTOPTB_LT_20410;... I try to seduce [target_character.GetHerHim].;;;;;;;;;;;ß ïîïûòà[Root.GetLasLsya] ñîáëàçíèòü [target_character.GetHersHis].;;x
+EVTOPTB_LT_20410_TT;You do not know how §Y[target_character.GetTitledFirstName]§! will react if you try to kiss [target_character.GetHerHim], but you might become lovers.;;;;;;;;;;;Âû íå çíàåòå, êàê §Y[target_character.GetTitledFirstName]§! îòðåàãèðóåò íà Âàø ïîöåëóé, íî Âû ìîæåòå ñòàòü ëþáîâíèêàìè.;;x
+EVTOPTB_LT_20410_TT_unlikely;Your [target_character.GetRootRelation] will probably not take this well.;;;;;;;;;;;Âàø[target_character.GetEndA] [target_character.GetRootRelation] ìîæåò íå îäîáðèòü ïîäîáíûå îòíîøåíèÿ.;;x
+EVTOPTB_LT_20421;I am impressed with [From.GetTitledFirstName]!;;;;;;;;;;;Ìíå ïîíðàâèëîñü.;;x
+EVTOPTB_LT_20431;I refuse [From.GetHerHim] and step back.;;;;;;;;;;;ß îòòîëêíóë[Root.GetEndA] [From.GetHersHis].;;x
+EVTOPTB_LT_20441;I won't go down without a fight!;;;;;;;;;;;Ñðàçèòüñÿ ñ í[From.GetEyIm]!;;x
+EVTOPTB_LT_20441_TT_lose;you losing the fight.;;;;;;;;;;;âû ïîòåðïèòå ïîðàæåíèå â ñõâàòêå.;;x
+EVTOPTB_LT_20441_TT_win;you winning the fight.;;;;;;;;;;;âû ïîáåäèòå â ñõâàòêå.;;x
+EVTOPTB_LT_20510;The people will know I respect the dead!;;;;;;;;;;;Ïóñòü âñå çíàþò, ÷òî ÿ óâàæàþ óñîïøèõ.;;x
+EVTOPTB_LT_20510_TT;You organize a traditional ceremony and invite all the powerful vassals to attend.;;;;;;;;;;;Îðãàíèçîâàòü òðàäèöèîííóþ öåðåìîíèþ è ïðèãëàñèòü ñàìûõ ìîãóùåñòâåííûõ âàññàëîâ.;;x
+EVTOPTB_LT_20601;I will store the [target_artifact_2.GetName] in the [target_upgrade.GetName].;;;;;;;;;;;[target_artifact_2.GetName];;x
+EVTOPTB_LT_20805;I thank you, but you can keep it to yourself.;;;;;;;;;;;Ñïàñèáî, íî ëó÷øå îñòàâüòå åãî ñåáå.;;x
+EVTOPTB_LT_20810;I open the [From.GetWonderTypeShort] for everybody to have a share of the profit.;;;;;;;;;;;Åñëè õîòÿò ïðèñîåäèíèòüñÿ ê ãðàáåæó, ÿ íå ïðîòèâ.;;x
+EVTOPTB_LT_20900;No, we should let it be.;;;;;;;;;;;Íåò, ýòî èñòîðè÷åñêèé ïàìÿòíèê.;;x
+EVTOPTB_LT_21000;Hey, wait for me!;;;;;;;;;;;Ýé, ïîäîæäèòå ìåíÿ!;;x
+EVTOPTC_LT_20010;It is interesting news, but right now I have more pressing matters to attend to.;;;;;;;;;;;Èíòåðåñíî, íî ñåé÷àñ ó ìåíÿ åñòü áîëåå âàæíûå äåëà.;;x
+EVTOPTC_LT_20040;Just announce the discovery and store the book in my library;;;;;;;;;;;Îáúÿâèòå îá îòêðûòèè è ïîìåñòèòå ýòó êíèãó â ìîþ áèáëèîòåêó.;;x
+EVTOPTC_LT_20101;I do not want to be bothered again with such petty details!;;;;;;;;;;;Âïðåäü íå îòâëåêàéòå ìåíÿ ïîäîáíûìè ïóñòÿêàìè!;;x
+EVTOPTC_LT_20101_TT;You will no longer be bothered with news about findings during construction of the great works.\n;;;;;;;;;;;Âàì áîëüøå íå áóäóò ñîîáùàòü î ñëó÷àéíûõ íàõîäêàõ â ïðîöåññå ñòðîèòåëüñòâà âåëèêîãî ñîîðóæåíèÿ.\n;;x
+EVTOPTC_LT_20110;Let us give to the workers a share of the gold.;;;;;;;;;;;Ðàáî÷èå äîñòîéíû íàãðàäû è îíè å¸ ïîëó÷àò.;;x
+EVTOPTC_LT_20301;...'What do you think of my toy?'.;;;;;;;;;;;— Íó ÷òî ñêàæåøü? Êàê òåáå [target_upgrade.GetName]?;;x
+EVTOPTC_LT_20405;I will politely invent an excuse and refuse.;;;;;;;;;;;Îòâå÷ó âåæëèâûì îòêàçîì.;;x
+EVTOPTC_LT_20410;... I get my dagger out and try to stab [target_character.GetHerHim] in the heart.;;;;;;;;;;;ß âûíóë[Root.GetEndA] êèíæàë è íàïàë[Root.GetEndA] íà í[target_character.GetHersHis].;;x
+EVTOPTC_LT_20410_TT;This option is available because you have either a high §YIntrigue§! or related traits\n;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí âàì áëàãîäàðÿ âûñîêèì íàâûêàì §Yèíòðèãè§! èëè ñîîòâåòñòâóþùèì §Y÷åðòàì õàðàêòåðà§!.\n;;x
+EVTOPTC_LT_20410_TT_murder;The outcome of this will depend on your §YPersonal Combat Skill§!, as §Y[From.GetTitledFirstName]§! might resist your murder attempt...;;;;;;;;;;;Ðåçóëüòàò áóäåò çàâèñåòü îò Âàøèõ §Yëè÷íûõ áîåâûõ íàâûêîâ§!, âåäü §Y[From.GetTitledFirstName]§! áóäåò ñîïðîòèâëÿòüñÿ Âàøåé àòàêå.;;x
+EVTOPTC_LT_20421;Pleasant, but not substantial.;;;;;;;;;;;Ïðèÿòíî, íî íå áîëåå òîãî.;;x
+EVTOPTC_LT_20431;I get my dagger out and try to stab [From.GetHerHim] in the heart!;;;;;;;;;;;Òîãäà ÿ ñõâàòèë[Root.GetEndA] ñâîé êèíæàë è ïîïûòà[Root.GetLasLsya] çàêîëîòü [From.GetHersHis].;;x
+EVTOPTC_LT_20431_TT;The [target_upgrade.GetName] prove[target_upgrade.GetSingularS] a perfect hide away for new lovers.;;;;;;;;;;;[target_upgrade.GetName] îòëè÷íî ïîäõîä[target_upgrade.GetWonderUpgradeItYat] äëÿ ëþáîâíûõ óòåõ.;;x
+EVTOPTC_LT_20431_TT_not_serious_romance;You leave §Y[From.GetTitledFirstName]§! wanting more.;;;;;;;;;;;Ýòî áûëî ïðèÿòíî, íî Âû ïîêà íå íàìåðåíû ðàçâèâàòü ëþáîâíûå îòíîøåíèÿ ñ í[From.GetEyIm].;;x
+EVTOPTC_LT_20510;I will honor [target_dead_ruler.GetHerHim] in a private ceremony.;;;;;;;;;;;Ñêðîìíîé öåðåìîíèè â óçêîì êðóãó áóäóò äîñòàòî÷íî.;;x
+EVTOPTC_LT_20601;I will store the [target_artifact_3.GetName] in the [target_upgrade.GetName].;;;;;;;;;;;[target_artifact_3.GetName];;x
+EVTOPTC_LT_21000;I will stop this immediately and hang the culprits!;;;;;;;;;;;ß ïðåêðàùó ýòîò áåñïðåäåë. Âèíîâíûå áóäóò ïîâåøåíû!;;x
+EVTOPTC_LT_21000_CONTROL_TT;You manage to regain control of the army.;;;;;;;;;;;Âû ïîñòàðàåòåñü âåðíóòü êîíòðîëü íàä ñâîèì âîéñêîì.;;x
+EVTOPTC_LT_21000_NO_CONTROL_TT;You are unable to stop the killing and destruction.;;;;;;;;;;;Âû íå ìîæåòå îñòàíîâèòü óáèéñòâà è ðàçðóøåíèÿ.;;x
+EVTOPTD_LT_20010;I actually do not care about missing books. The collection I have is enough.;;;;;;;;;;;Ìåíÿ íå âîëíóþò óòðà÷åííûå êíèãè. ß óæå ñîáðàë[Root.GetEndA] ñâîþ êîëëåêöèþ.;;x
+EVTOPTD_LT_20010_TT;You will no longer be bothered with news about lost books.;;;;;;;;;;;Âû áîëüøå íå áóäåòå ïîëó÷àòü íîâîñòè îá óòðà÷åííûõ êíèãàõ.;;x
+EVTOPTD_LT_20101;It is probably an ancient tomb. Explore with caution.;;;;;;;;;;;Äðåâíÿÿ ìîãèëà? Íàäî å¸ âíèìàòåëüíî èçó÷èòü.;;x
+EVTOPTD_LT_20101_TT;This option is available because you have either a high Learning, or the traits Erudite or Architect.\n;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí âàì, áëàãîäàðÿ âûñîêîé §Yîáðàçîâàííîñòè§!, ÷åðòàìè §Yýðóäèò§! èëè §Yàðõèòåêòîð§!.\n;;x
+EVTOPTD_LT_20110;I will keep both the valuables and the [found_artifact.GetName].;;;;;;;;;;;[found_artifact.GetName] è âñ¸ öåííîå ÿ îñòàâëþ ñåáå.;;x
+EVTOPTD_LT_20301;... 'This bloody thing scares me too!'.;;;;;;;;;;;— Ïîíèìàþ... Ýòà ÷¸ðòîâà øòóêà ïóãàåò äàæå ìåíÿ.;;x
+EVTOPTD_LT_20410;... I take [target_character.GetHerHis] hand, and kiss [target_character.GetHerHim] passionately.;;;;;;;;;;;ß ñòðàñòíî [target_character.GetHersHis] öåëóþ è íà÷èíàþ ñíèìàòü ñ í[target_character.GetHersHis] îäåæäó.;;x
+EVTOPTD_LT_20410_TT;The [target_upgrade.GetName] prove[target_upgrade.GetSingularS] a perfect hide away for lovers like you...;;;;;;;;;;;[target_upgrade.GetName] ïðåêðàñíî ïîäîéä[target_upgrade.GetWonderUpgradeYetYut] äëÿ ëþáîâíûõ óòåõ.;;x
+EVTOPTD_LT_20510;[target_dead_ruler.GetFirstNameWithNick] does not deserve a proper burial!;;;;;;;;;;;[target_dead_ruler.GetFirstNameWithNick] íå çàñëóæèë[target_dead_ruler.GetEndA] äîñòîéíûõ ïîõîðîí.;;x
+EVTOPTD_LT_20510_TT;Those who liked §Y[target_dead_ruler.GetBestName]§! are upset with you. Those who hated [target_dead_ruler.GetHerHim] are pleased.;;;;;;;;;;;Òå, êîìó íðàâèòñÿ §Y[target_dead_ruler.GetBestName]§!, áóäóò íåäîâîëüíû âàìè.;;x
+EVTOPTE_LT_20110;Let us distribute the gold to the workers as a reward.;;;;;;;;;;;Ðàçäåëèì öåííîå ìåæäó ðàáî÷èìè êàê íàãðàäó.;;x
+EVTOPTE_LT_20601;No, maybe this is not such a good idea.;;;;;;;;;;;Ïîæàëóé, ýòî íå ñàìàÿ ëó÷øàÿ èäåÿ.;;x
+EVTOPTF_LT_20110;We shall give some gold to the families of the victims.;;;;;;;;;;;×àñòü öåííîñòåé ÿ ïîæåðòâóþ ñåìüÿì ïîñòðàäàâøèõ.;;x
 # Unused
-
-# evt_TITLE_LT_20030;A Lost and Expensive Book;;;;;;;;;;;;;x
-# EVTOPTA_LT_20110_TT_unhappy;Not giving some compensation to the widows and orphans of the dead workers might give us problems in the future.\n;;;;;;;;;;;;;x
-# EVTOPTB_LT_20110_TT_unhappy;The workers might be upset if they receive nothing.\n;;;;;;;;;;;;;x
-# EVTOPTD_LT_20601;I will store the [target_artifact_4.GetName] in the [target_upgrade.GetName].;;;;;;;;;;;;;x
+# evt_TITLE_LT_20030;A Lost and Expensive Book;;;;;;;;;;;O÷åíü äîðîãàÿ êíèãà;;x
+# EVTOPTA_LT_20110_TT_unhappy;Not giving some compensation to the widows and orphans of the dead workers might give us problems in the future.\n;;;;;;;;;;;Íå âûïëà÷èâàÿ êîìïåíñàöèþ ñåìüÿì ïîñòðàäàâøèõ, Âû ìîæåòå ïîëó÷èòü ïðîáëåìû â áóäóùåì.\n;;x
+# EVTOPTB_LT_20110_TT_unhappy;The workers might be upset if they receive nothing.\n;;;;;;;;;;;Ðàáî÷èå áóäóò íåäîâîëüíû, åñëè íå ïîëó÷àò íàãðàäó.\n;;x
+# EVTOPTD_LT_20601;I will store the [target_artifact_4.GetName] in the [target_upgrade.GetName].;;;;;;;;;;;[target_artifact_4.GetName];;x

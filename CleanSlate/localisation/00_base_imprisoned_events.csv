@@ -1,77 +1,68 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC50000;My friends have managed to smuggle in a rope in a flagon of wine. Wine for the guards and rope for the window! Soon, the bird shall fly its cage!;;;;;;;;;;;;;x
-EVTDESC50001;I did it! Now to find my way home without being captured...;;;;;;;;;;;;;x
-EVTDESC50002;Using a smuggled in rope, [From.GetBestName] almost managed to escape from custody, but the guards caught [From.GetHerHim] in time!;;;;;;;;;;;;;x
-EVTDESC50003;Despite their drunken state, the guards managed to catch me, tie me up and bring me to [From.GetTitledFirstName] when I tried to escape.;;;;;;;;;;;;;x
-EVTDESC50005;I deserve better than to rot in this dank dungeon. I should ask [Root.Host.GetTitledFirstName] for accommodations suitable to my rank.;;;;;;;;;;;;;x
-EVTDESC50006;My prisoner, [From.GetBestName], is complaining about [From.GetHerHis] dark cell in the dungeon, asking for more suitable accommodations...;;;;;;;;;;;;;x
-EVTDESC50007;[From.GetTitledFirstName] graciously acceded to my request! I am being moved to a decent tower suite.;;;;;;;;;;;;;x
-EVTDESC50008;Cruel [Root.Host.GetTitledFirstName] decided I should be forgotten in the Oubliette! This is the end of me...;;;;;;;;;;;;;x
-EVTDESC50009;[From.GetTitledName] has shown mercy and will release me, in return for a future favor.;;;;;;;;;;;;;x
-EVTDESC50010;I can't stop thinking of all those prisoners in my dungeon. They are at my complete mercy... what a thrill it would be to hurt them... to hear the sweet screams, to see the panic in their eyes...;;;;;;;;;;;;;x
-EVTDESC50011;[From.GetTitledFirstName], eyes alight with an ugly glow, has come into my cell with a bag full of tongs and knives!;;;;;;;;;;;;;x
-EVTDESC50012;[From.GetTitledFirstName] and [From.GetPossPronoun] freakish chief jailor have come to put me on the rack!;;;;;;;;;;;;;x
-EVTDESC50013;[From.GetTitledFirstName] is a depraved lunatic! [From.GetSubjectPronounCap] sawed my hand off with small knife. It took hours...;;;;;;;;;;;;;x
-EVTDESC50014;I can feel my life fading... but at least, so is the pain of [From.GetTitledFirstName]'s torture implements.;;;;;;;;;;;;;x
-EVTDESC50015;I was, perhaps a bit too... enthusiastic torturing [From.GetTitledFirstName]. [From.GetSubjectPronounCap] did not survive the session.;;;;;;;;;;;;;x
-EVTDESC50020;[captured_commander.GetBestName] was captured in battle and is now my prisoner!;;;;;;;;;;;;;x
-EVTDESC50021;That superstitious fool! [enemy_liege.GetTitledFirstName] took one look at me and had me dragged away from my cell. The next thing I know am propped up onto a pyre, soldiers shouting and chanting excitedly. "May [enemy_liege.Religion.GetHighGodName] accept this offering...." Then I smell smoke.;;;;;;;;;;;;;x
-EVTDESC50022;[enemy_liege.GetTitledFirstName] sacrificed [sacrificed.GetTitledFirstName] in the name of [enemy_liege.Religion.GetHighGodName].;;;;;;;;;;;;;x
-EVTDESC50025;A dear friend of mine has been imprisoned by [Root.Liege.GetTitledFirstName]! If I appeal to [Root.Liege.GetTitledFirstName], maybe I can get [Root.Liege.GetHerHim] to release my friend from the prison.;;;;;;;;;;;;;x
-EVTDESC50026;[From.GetTitledFirstName] had the audacity to ask me to release one of my prisoners today! The only reason for me to consider complying [From.GetHerHis] request is the support [From.GetSheHe] has from my other vassals.;;;;;;;;;;;;;x
-EVTDESC50040;[From.GetBestName] has managed to effect [From.GetPossPronoun] escape from my dungeon!;;;;;;;;;;;;;x
-
-EVTOPTA50000;I don't think I dare;;;;;;;;;;;;;x
-EVTOPTA50001;Freedom!;;;;;;;;;;;;;x
-EVTOPTA50002;Return [From.GetHerHim] to [From.GetHerHis] quarters;;;;;;;;;;;;;x
-EVTOPTA50003;[From.GetTitledFirstName] returned me to my quarters;;;;;;;;;;;;;x
-EVTOPTA50005;Make my request;;;;;;;;;;;;;x
-EVTOPTA50006;Let [From.GetObjectPronoun] rot;;;;;;;;;;;;;x
-EVTOPTA50007;Praise [Root.Religion.GetRandomGodName]!;;;;;;;;;;;;;x
-EVTOPTA50008;[Root.Religion.GetRandomGodNameCap] have mercy...;;;;;;;;;;;;;x
-EVTOPTA50009;I won't forget this.;;;;;;;;;;;;;x
-EVTOPTA50010;Resist my foul impulses;;;;;;;;;;;;;x
-EVTOPTA50011;The Pain!;;;;;;;;;;;;;x
-EVTOPTA50012;No! Aargh!;;;;;;;;;;;;;x
-EVTOPTA50013;I must escape!;;;;;;;;;;;;;x
-EVTOPTA50014;Farewell cruel world;;;;;;;;;;;;;x
-EVTOPTA50015;Ah well, who will ever know?;;;;;;;;;;;;;x
-EVTOPTA50020;Perfect!;;;;;;;;;;;;;x
-EVTOPTA50021;I cannot believe this is how it ends.;;;;;;;;;;;;;x
-EVTOPTA50025;It's worth trying!;;;;;;;;;;;;;x
-EVTOPTA50026;I will release your friend;;;;;;;;;;;;;x
-EVTOPTA50040;Damnation!;;;;;;;;;;;;;x
-
-EVTOPTB50000;Do I risk it? Yes!;;;;;;;;;;;;;x
-EVTOPTB50002;Throw [From.GetHerHim] back in the dungeon;;;;;;;;;;;;;x
-EVTOPTB50003;[From.GetTitledFirstName] sent me back to the dungeon;;;;;;;;;;;;;x
-EVTOPTB50005;I dare not anger [Root.Host.GetObjectPronoun]...;;;;;;;;;;;;;x
-EVTOPTB50006;Very well, I shall be merciful;;;;;;;;;;;;;x
-EVTOPTB50010;Guards! Oil up the rack!;;;;;;;;;;;;;x
-EVTOPTB50020;My rival, no less? Excellent!;;;;;;;;;;;;;x
-EVTOPTB50021;Noo...! My [enemy_liege.GetBrotherSister], for [Root.Society.GetName]... Why...?;;;;;;;;;;;;;x
-EVTOPTB50025;Maybe [Root.Liege.GetSheHe] has a good reason for the imprisonment of my friend?;;;;;;;;;;;;;x
-EVTOPTB50026;Your audacity is your downfall, I will not release your friend!;;;;;;;;;;;;;x
-
-EVTOPTC50002;Throw [From.GetHerHim] in the Oubliette!;;;;;;;;;;;;;x
-EVTOPTC50003;[From.GetTitledFirstName] sent me to the Oubliette!;;;;;;;;;;;;;x
-EVTOPTC50006;Suitable? How about the Oubliette?!;;;;;;;;;;;;;x
-EVTOPTC50010;Let's try something more original this time...;;;;;;;;;;;;;x
-EVTOPTC50020;[captured_commander.GetSheHeCap] will make for a suitable sacrifice to [Root.Religion.GetHighGodName]!;;;;;;;;;;;;;x
-EVTOPTC50020_TT;You order §Y[captured_commander.GetTitledFirstName]§! be offered up to the gods, in exchange for good fortune.\n;;;;;;;;;;;;;x
-
-EVTOPTD50006;But... didn't I release you?;;;;;;;;;;;;;x
-EVTOPTD50010;Ugh, just throw them in the Brazen Bull...;;;;;;;;;;;;;x
-
-EVTOPTE50006;Release [From.GetHerHim], [From.GetSheHe] can repay me later.;;;;;;;;;;;;;x
-
-EVTTOOLTIP50011;Make [This.GetTitledFirstName] suffer!;;;;;;;;;;;;;x
-EVTTOOLTIP50012;[This.GetTitledFirstName] is wounded;;;;;;;;;;;;;x
-EVTTOOLTIP50013;[This.GetTitledFirstName] is maimed for life;;;;;;;;;;;;;x
-EVTTOOLTIP50014;[This.GetTitledFirstName] dies under torture;;;;;;;;;;;;;x
-EVTTOOLTIP50026;[Root.Liege.GetTitledFirstName] will listen to [Root.GetTitledFirstName]'s plea;;;;;;;;;;;;;x
-
-
-captured_in_battle;Captured in Battle;;;;;;;;;;;;;x
-sacrificed_in_battle;Sacrificed in Battle;;;;;;;;;;;;;x
+EVTDESC50000;My friends have managed to smuggle in a rope in a flagon of wine. Wine for the guards and rope for the window! Soon, the bird shall fly its cage!;;;;;;;;;;;Ìîèì äðóçüÿì óäàëîñü òàéíî ïåðåäàòü ìíå âåð¸âêó â áóòûëêå âèíà. Âèíî äëÿ îõðàííèêîâ, à âåð¸âêà äëÿ îêíà! Ñêîðî ïòè÷êà âûïîðõíåò èç ñâîåé êëåòêè!;;x
+EVTDESC50001;I did it! Now to find my way home without being captured...;;;;;;;;;;;ß ñäåëàë ýòî! Òåïåðü íàäî íàéòè ïóòü äîìîé, íå ïîïàâøèñü…;;x
+EVTDESC50002;Using a smuggled in rope, [From.GetBestName] almost managed to escape from custody, but the guards caught [From.GetHerHim] in time!;;;;;;;;;;;Èñïîëüçóÿ òàéíî ïåðåäàííóþ âåðåâêó, [From.GetBestName] ïûòàåòñÿ ñáåæàòü èç òåìíèöû, îäíàêî ñòðàæà âîâðåìÿ çàìå÷àåò è õâàòàåò [From.GetHersHis]!;;x
+EVTDESC50003;Despite their drunken state, the guards managed to catch me, tie me up and bring me to [From.GetTitledFirstName] when I tried to escape.;;;;;;;;;;;Íåñìîòðÿ íà ñèëüíîå îïüÿíåíèå, îõðàííèêàì óäàëîñü ïîéìàòü, ñâÿçàòü è ïðèâåñòè ìåíÿ ê õîçÿèíó ([From.GetTitledFirstName]), êîãäà ÿ ïîïûòà[Root.GetLasLsya] óáåæàòü.;;x
+EVTDESC50005;I deserve better than to rot in this dank dungeon. I should ask [Root.Host.GetTitledFirstName] for accommodations suitable to my rank.;;;;;;;;;;;ß çàñëóæèâàþ ëó÷øåãî, ÷åì ãíèòü â ýòîé ñûðîé òåìíèöå. Íàäî ïîïðîñèòü, ÷òîáû [Root.Host.GetTitledFirstName] ïðåäîñòàâèë[Root.Host.GetEndA] ìíå ïîäõîäÿùåå äëÿ ìîåãî ïîëîæåíèÿ ìåñòî çàêëþ÷åíèÿ.;;x
+EVTDESC50006;My prisoner, [From.GetBestName], is complaining about [From.GetHerHis] dark cell in the dungeon, asking for more suitable accommodations...;;;;;;;;;;;[From.GetBestName], ì[From.GetOyaOy] çàêëþ÷¸íí[From.GetAyaYy], æàëóåòñÿ íà óñëîâèÿ ñîäåðæàíèÿ è ïðîñèò ïåðåâåñòè [From.GetHersHis] â áîëåå ïîäõîäÿùåå ìåñòî.;;x
+EVTDESC50007;[From.GetTitledFirstName] graciously acceded to my request! I am being moved to a decent tower suite.;;;;;;;;;;;[From.GetTitledFirstName] ëþáåçíî ïðèíÿë[From.GetEndA] ìîþ ïðîñüáó! ß ïåðåìåùàþñü â áîëåå ïðèëè÷íîå ìåñòî â áàøíå.;;x
+EVTDESC50008;Cruel [Root.Host.GetTitledFirstName] decided I should be forgotten in the Oubliette! This is the end of me...;;;;;;;;;;;[Root.Host.GetTitledFirstName] ðåøàåò, ÷òî ìåíÿ íóæíî îòïðàâèòü â ïîäçåìíóþ òåìíèöó! Ýòî - êîíåö...;;x
+EVTDESC50009;[From.GetTitledName] has shown mercy and will release me, in return for a future favor.;;;;;;;;;;;[From.GetTitledName] ïðîÿâèë[From.GetEndA] ìèëîñåðäèå è ðåøèë[From.GetEndA] îòïóñòèòü ìåíÿ, â îáìåí íà îòâåòíóþ óñëóãó ñ ìîåé ñòîðîíû â áóäóùåì.;;x
+EVTDESC50010;I can't stop thinking of all those prisoners in my dungeon. They are at my complete mercy... what a thrill it would be to hurt them... to hear the sweet screams, to see the panic in their eyes...;;;;;;;;;;;ß íå ìîãó ïðåêðàòèòü äóìàòü îáî âñåõ ýòèõ çàêëþ÷¸ííûõ â ìîåé òåìíèöå. Îíè â ïîëíîé ìîåé âëàñòè... òàê ïðîñòî ïðè÷èíèòü èì íåñòåðïèìóþ áîëü... äîëæíî áûòü, ïðèÿòíî ñëûøàòü èõ êðèêè, âèäåòü óæàñ â èõ ãëàçàõ…;;x
+EVTDESC50011;[From.GetTitledFirstName], eyes alight with an ugly glow, has come into my cell with a bag full of tongs and knives!;;;;;;;;;;;[From.GetTitledFirstName], ñ àäñêèì ïëàìåíåì â ãëàçàõ, âîø¸ë â ìîþ êàìåðó ñ ñóìêîé, ïîëíîé ùèïöîâ è íîæåé!;;x
+EVTDESC50012;[From.GetTitledFirstName] and [From.GetPossPronoun] freakish chief jailor have come to put me on the rack!;;;;;;;;;;;[From.GetTitledFirstName] è [From.GetAbsPossPronoun] ãëàâíûé òþðåìùèê ïðèøëè, ÷òîáû ïîìåñòèòü ìåíÿ â êîëîäêè!;;x
+EVTDESC50013;[From.GetTitledFirstName] is a depraved lunatic! [From.GetSubjectPronounCap] sawed my hand off with small knife. It took hours...;;;;;;;;;;;[From.GetTitledFirstName] - áîëüíîé èçâðàùåíåö! [From.GetSubjectPronounCap] îòïèëèâàë ìîþ ðóêó ìàëåíüêèì íîæîì. Ïîòðåáîâàëèñü ÷àñû…;;x
+EVTDESC50014;I can feel my life fading... but at least, so is the pain of [From.GetTitledFirstName]'s torture implements.;;;;;;;;;;;ß ÷óâñòâóþ, êàê æèçíü ïîêèäàåò ìåíÿ... Íî, ïî êðàéíåé ìåðå, ýòî íå áîëü îò îðóäèé ïûòîê[From.GetTitledFirstName].;;x
+EVTDESC50015;I was, perhaps a bit too... enthusiastic torturing [From.GetTitledFirstName]. [From.GetSubjectPronounCap] did not survive the session.;;;;;;;;;;;ß âîçìîæíî íåìíîãî ïåðåáîðùèë[Root.GetEndA] ñ ïûòêàìè. [From.GetTitledFirstName] íå ïåðåæèë[From.GetEndA] èõ.;;x
+EVTDESC50020;[captured_commander.GetBestName] was captured in battle and is now my prisoner!;;;;;;;;;;;[captured_commander.GetTitledFirstNameWithNick] áûë[captured_commander.GetEndA] çàõâà÷åí[captured_commander.GetEndA] â ïëåí íà ïîëå áîÿ è òåïåðü [captured_commander.GetSheHe] - ì[captured_commander.GetOyaOy] ïëåííè[captured_commander.GetTsaK]!;;x
+EVTDESC50021;"That superstitious fool! [enemy_liege.GetTitledFirstName] took one look at me and had me dragged away from my cell. The next thing I know am propped up onto a pyre, soldiers shouting and chanting excitedly. ""May [enemy_liege.Religion.GetHighGodName] accept this offering...."" Then I smell smoke.";;;;;;;;;;;"Ýò[enemy_liege.GetEtaEtot] ñóåâåðí[enemy_liege.GetAyaYy] èäèîò[enemy_liege.GetEndKa] [enemy_liege.GetTitledFirstName] âçãëÿíóë[enemy_liege.GetEndA] íà ìåíÿ è âûòàùèë[enemy_liege.GetEndA] èç êàìåðû. Ñëåäóþùåå, ÷òî ÿ ïîìíþ - ýòî, êàê îêàçà[Root.GetLasLsya] íà êîñòðå.\nÑîëäàòû êðè÷àò è ñêàíäèðóþò: ""Ïóñòü [enemy_liege.Religion.GetHighGodName] ïðèìåò ýòî ïîäíîøåíèå!"". ß ÷óâñòâóþ çàïàõ äûìà...";;x
+EVTDESC50022;[enemy_liege.GetTitledFirstName] sacrificed [sacrificed.GetTitledFirstName] in the name of [enemy_liege.Religion.GetHighGodName].;;;;;;;;;;;[enemy_liege.GetTitledFirstName] ïðèíåñ[enemy_liege.GetNoneE] [sacrificed.GetAgedPersonACC], èçâåñòí[sacrificed.GetUyuOgo] êàê [sacrificed.GetTitledFirstName], â æåðòâó [enemy_liege.GetReligionHighGodDAT].;;x
+EVTDESC50025;A dear friend of mine has been imprisoned by [Root.Liege.GetTitledFirstName]! If I appeal to [Root.Liege.GetTitledFirstName], maybe I can get [Root.Liege.GetHerHim] to release my friend from the prison.;;;;;;;;;;;[Root.Liege.GetTitledFirstName] çàêëþ÷èë[Root.Liege.GetEndA] â òþðüìó ìîåãî áëèçêîãî äðóãà! Åñëè ÿ îáðàùóñü ê í[Root.Liege.GetHerHim], ìîæåò áûòü, ÿ ñìîãó óáåäèòü [Root.Liege.GetHersHis] îñâîáîäèòü ìîåãî äðóãà èç òþðüìû.;;x
+EVTDESC50026;[From.GetTitledFirstName] had the audacity to ask me to release one of my prisoners today! The only reason for me to consider complying [From.GetHerHis] request is the support [From.GetSheHe] has from my other vassals.;;;;;;;;;;;[From.GetTitledFirstName] èìååò íàãëîñòü ïðîñèòü ìåíÿ îñâîáîäèòü îäíîãî èç ìîèõ ñåãîäíÿøíèõ çàêëþ÷¸ííûõ! Åäèíñòâåííîé ïðè÷èíîé äëÿ ðàññìîòðåíèÿ ýòîãî çàïðîñà ìîæåò áûòü òîëüêî ïîääåðæêà [From.GetHersHis] äðóãèìè ìîèìè âàññàëàìè.;;x
+EVTDESC50040;[From.GetBestName] has managed to effect [From.GetPossPronoun] escape from my dungeon!;;;;;;;;;;;[From.GetBestName] óäàëîñü îñóùåñòâèòü ïîáåã èç ìîåé òåìíèöû!;;x
+EVTOPTA50000;I don't think I dare;;;;;;;;;;;ß íå äóìàþ ÷òî ýòî õîðîøàÿ èäåÿ;;x
+EVTOPTA50001;Freedom!;;;;;;;;;;;Ñâîáîäà!;;x
+EVTOPTA50002;Return [From.GetHerHim] to [From.GetHerHis] quarters;;;;;;;;;;;Âåðíóòü ïîä äîìàøíèé àðåñò.;;x
+EVTOPTA50003;[From.GetTitledFirstName] returned me to my quarters;;;;;;;;;;;[From.GetTitledFirstName] âîçâðàùàåò ìåíÿ â ìîé äîì;;x
+EVTOPTA50005;Make my request;;;;;;;;;;;Îáðàòèòüñÿ ñ ïðîñüáîé;;x
+EVTOPTA50006;Let [From.GetObjectPronoun] rot;;;;;;;;;;;Äà ïóñòü [From.GetSheHe] õîòü ñãíè¸ò òàì.;;x
+EVTOPTA50007;Praise [Root.Religion.GetRandomGodName]!;;;;;;;;;;;Ñëàâà òåáå, [Root.Religion.GetRandomGodName]!;;x
+EVTOPTA50008;[Root.Religion.GetRandomGodNameCap] have mercy...;;;;;;;;;;;[Root.Religion.GetHighGodNameCap], ïîùàäè...;;x
+EVTOPTA50009;I won't forget this.;;;;;;;;;;;ß ýòîãî íå çàáóäó.;;x
+EVTOPTA50010;Resist my foul impulses;;;;;;;;;;;Ñîïðîòèâëÿòüñÿ íåäîñòîéíûì ïîðûâàì;;x
+EVTOPTA50011;The Pain!;;;;;;;;;;;Áîëü!;;x
+EVTOPTA50012;No! Aargh!;;;;;;;;;;;Íåò! Àðãõ!;;x
+EVTOPTA50013;I must escape!;;;;;;;;;;;Íóæíî áåæàòü!;;x
+EVTOPTA50014;Farewell cruel world;;;;;;;;;;;Ïðîùàé æåñòîêèé ìèð;;x
+EVTOPTA50015;Ah well, who will ever know?;;;;;;;;;;;À, ëàäíî. Êàê áóäòî êòî-òî îá ýòîì óçíàåò...;;x
+EVTOPTA50020;Perfect!;;;;;;;;;;;Âåëèêîëåïíî!;;x
+EVTOPTA50021;I cannot believe this is how it ends.;;;;;;;;;;;Íå ìîãó ïîâåðèòü, ÷òî âñ¸ çàêîí÷èòñÿ âîò òàê.;;x
+EVTOPTA50025;It's worth trying!;;;;;;;;;;;Ñòîèò ïîïðîáîâàòü!;;x
+EVTOPTA50026;I will release your friend;;;;;;;;;;;ß îñâîáîæó Âàøåãî äðóãà.;;x
+EVTOPTA50040;Damnation!;;;;;;;;;;;Ïðîêëÿòèå!;;x
+EVTOPTB50000;Do I risk it? Yes!;;;;;;;;;;;Ðèñêíó ëè ÿ? Êîíå÷íî!;;x
+EVTOPTB50002;Throw [From.GetHerHim] back in the dungeon;;;;;;;;;;;Áðîñèòü îáðàòíî â òåìíèöó!;;x
+EVTOPTB50003;[From.GetTitledFirstName] sent me back to the dungeon;;;;;;;;;;;[From.GetTitledFirstName] îòñûëàåò ìåíÿ íàçàä â òåìíèöó;;x
+EVTOPTB50005;I dare not anger [Root.Host.GetObjectPronoun]...;;;;;;;;;;;ß íå îñìåëþñü ïîòðåâîæèòü [Root.Host.GetHersHis]...;;x
+EVTOPTB50006;Very well, I shall be merciful;;;;;;;;;;;Ëàäíî, ÿ ïðîÿâëþ ìèëîñåðäèå;;x
+EVTOPTB50010;Guards! Oil up the rack!;;;;;;;;;;;— Ñòðàæà! Ñìàæüòå êîëîäêè!;;x
+EVTOPTB50020;My rival, no less? Excellent!;;;;;;;;;;;— Ìîé ñîïåðíèê, íå ìåíüøå? Ïðåâîñõîäíî!;;x
+EVTOPTB50021;Noo...! My [enemy_liege.GetBrotherSister], for [Root.Society.GetName]... Why...?;;;;;;;;;;;— Íååò, [enemy_liege.GetBrotherSister]! Âî èìÿ [Root.GetSocietyNameGEN], çà ÷òî?!;;x
+EVTOPTB50025;Maybe [Root.Liege.GetSheHe] has a good reason for the imprisonment of my friend?;;;;;;;;;;;Ìîæåò áûòü, [Root.Liege.GetSheHe] èìååò âåñêèå îñíîâàíèÿ äëÿ çàêëþ÷åíèÿ ìîåãî äðóãà?;;x
+EVTOPTB50026;Your audacity is your downfall, I will not release your friend!;;;;;;;;;;;Âàøà äåðçîñòü êîãäà-íèáóäü Âàñ ïîãóáèò. Âàø äðóã îñòàíåòñÿ çà ðåø¸òêîé, è òî÷êà!;;x
+EVTOPTC50002;Throw [From.GetHerHim] in the Oubliette!;;;;;;;;;;;Áðîñèòü â ïîäçåìåëüå!;;x
+EVTOPTC50003;[From.GetTitledFirstName] sent me to the Oubliette!;;;;;;;;;;;[From.GetTitledFirstName] îòñûëàåò ìåíÿ â ïîäçåìåëüå;;x
+EVTOPTC50006;Suitable? How about the Oubliette?!;;;;;;;;;;;Ïîäõîäÿùåå? Ìîæåò ÏÎÄçåìåëüå?;;x
+EVTOPTC50010;Let's try something more original this time...;;;;;;;;;;;Íà ýòîò ðàç íàäî ïðèäóìàòü ÷òî-íèáóäü áîëåå îðèãèíàëüíîå...;;x
+EVTOPTC50020;[captured_commander.GetSheHeCap] will make for a suitable sacrifice to [Root.Religion.GetHighGodName]!;;;;;;;;;;;— [captured_commander.GetSheHeCap] ñòàíåò æåðòâîé [Root.GetReligionHighGodDAT]!;;x
+EVTOPTC50020_TT;You order §Y[captured_commander.GetTitledFirstName]§! be offered up to the gods, in exchange for good fortune.\n;;;;;;;;;;;Ïî Âàøåìó ïðèêàçó §Y[captured_commander.GetTitledFirstName]§! áóäåò ïðèíåñåí[captured_commander.GetEndA] â æåðòâó áîãàì, â îáìåí íà óäà÷ó.\n;;x
+EVTOPTD50006;But... didn't I release you?;;;;;;;;;;;Íî... ðàçâå ÿ Âàñ íå îòïóñòèë[Root.GetEndA]?;;x
+EVTOPTD50010;Ugh, just throw them in the Brazen Bull...;;;;;;;;;;;Ïîðà îïðîáîâàòü Ìåäíîãî Áûêà...;;x
+EVTOPTE50006;Release [From.GetHerHim], [From.GetSheHe] can repay me later.;;;;;;;;;;;Îñâîáîäèòå [From.GetHersHis], [From.GetSheHe] áóäåò ìíå ïîëåç[From.GetNaEn].;;x
+EVTTOOLTIP50011;Make [This.GetTitledFirstName] suffer!;;;;;;;;;;;Ñäåëàéòå òàê, ÷òîáû [This.GetTitledFirstName] ñòðàäàë[This.GetEndA]!;;x
+EVTTOOLTIP50012;[This.GetTitledFirstName] is wounded;;;;;;;;;;;[This.GetTitledFirstName] áóäåò ðàíåí[This.GetEndA].;;x
+EVTTOOLTIP50013;[This.GetTitledFirstName] is maimed for life;;;;;;;;;;;[This.GetTitledFirstName] áóäåò èçóðîäîâàí[This.GetEndA] äî íåóçíàâàåìîñòè.;;x
+EVTTOOLTIP50014;[This.GetTitledFirstName] dies under torture;;;;;;;;;;;[This.GetTitledFirstName] óìð¸ò ïîä ïûòêàìè.;;x
+EVTTOOLTIP50026;[Root.Liege.GetTitledFirstName] will listen to [Root.GetTitledFirstName]'s plea;;;;;;;;;;;[Root.Liege.GetTitledFirstName] âûñëóøàåò ïðîñüáó [Root.GetTitledFirstName].;;x
+captured_in_battle;Captured in Battle;;;;;;;;;;;Ïëåíåíèå â áîþ;;x
+sacrificed_in_battle;Sacrificed in Battle;;;;;;;;;;;Æåðòâîïðèíîøåíèå â áîþ;;x

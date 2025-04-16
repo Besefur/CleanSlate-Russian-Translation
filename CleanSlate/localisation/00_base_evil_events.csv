@@ -1,27 +1,24 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC68000;I cannot afford to pay my magistrates and my debts to the lower classes are dangerously high. The peasants of [Root.GetName] are now completely disregarding my divine right to rule!;;;;;;;;;;;;;x
-EVTDESC68001;The peasants of [Root.GetName] are slowly starting to respect my rule again. I should never let my treasury go negative!;;;;;;;;;;;;;x
-EVTDESC68010;Due to my lack of funds to pay my sheriffs and magistrates with, a Thieves' Guild has been established in [Root.GetName].;;;;;;;;;;;;;x
-EVTDESC68011;Thanks to my wise Stewardship of §Y[Root.GetName]§!, the local Thieves' Guild has been eradicated.;;;;;;;;;;;;;x
-EVTDESC68020;My acute budget deficit has allowed a Smugglers' Ring to appear in [Root.GetName].;;;;;;;;;;;;;x
-EVTDESC68021;Thanks to my great diplomatic skill, the Smugglers' Ring in §Y[Root.GetName]§! has been destroyed. The head of the last smuggler is now rotting on a pike outside the city gates.;;;;;;;;;;;;;x
-EVTDESC68021_FALLBACK;Thanks to the [target_wonder.GetName], and my great diplomatic skill, the Smugglers' Ring in §Y[Root.GetName]§! has been destroyed. The head of the last smuggler is now rotting on a pike.;;;;;;;;;;;;;x
-EVTDESC68021_RETINUE;Thanks to the retinue stationed in the [target_wonder.GetName], and my great diplomatic skill, the Smugglers' Ring in §Y[Root.GetName]§! has been destroyed. The head of the last smuggler is now rotting on a pike.;;;;;;;;;;;;;x
-EVTDESC68021_TEMPLE_GUARDS;Thanks to the temple guards of [target_wonder.GetName], and my great diplomatic skill, the Smugglers' Ring in §Y[Root.GetName]§! has been destroyed. The head of the last smuggler is now rotting on a pike.;;;;;;;;;;;;;x
-EVTDESC68030;My underfunded sheriffs have allowed a large band of robbers to rise in [Root.GetName]. They are too craven to attack my castles though.;;;;;;;;;;;;;x
-EVTDESC68031;With my great Martial ability, I have rounded up and executed the robber bands that were plaguing §Y[Root.GetName]§!!;;;;;;;;;;;;;x
-EVTDESC68031_FALLBACK;Due to the [target_wonder.GetName], and my great Martial ability, the robber bands that were plaguing §Y[Root.GetName]§! have been rounded up and executed!;;;;;;;;;;;;;x
-EVTDESC68031_RETINUE;The retinue stationed in the [target_wonder.GetName] have helped me to round up and execute the robber bands that were plaguing §Y[Root.GetName]§!!;;;;;;;;;;;;;x
-EVTDESC68031_TEMPLE_GUARDS;The temple guards of [target_wonder.GetName] have helped me to round up and execute the robber bands that were plaguing §Y[Root.GetName]§!!;;;;;;;;;;;;;x
-
-EVTOPTA68000;And we can't do anything about it...;;;;;;;;;;;;;x
-EVTOPTA68001;Thank the Lord!;;;;;;;;;;;;;x
-EVTOPTA68010;They have not stolen any of my property yet;;;;;;;;;;;;;x
-EVTOPTA68011;It is good to be the [Root.County.Holder.PrimaryTitle.GetRulerTitle]!;;;;;;;;;;;;;x
-EVTOPTA68020;I don't see how this matters to me?;;;;;;;;;;;;;x
-EVTOPTA68021;I am such a great [Root.County.Holder.PrimaryTitle.GetRulerTitle];;;;;;;;;;;;;x
-EVTOPTA68030;I am safe inside my walls..;;;;;;;;;;;;;x
-EVTOPTA68031;Call me [Root.County.Holder.GetTitledFirstName] the Great!;;;;;;;;;;;;;x
-
-EVTOPTB68001;Allah is merciful!;;;;;;;;;;;;;x
+EVTDESC68000;I cannot afford to pay my magistrates and my debts to the lower classes are dangerously high. The peasants of [Root.GetName] are now completely disregarding my divine right to rule!;;;;;;;;;;;Ìíå íå÷åãî ïëàòèòü ÷èíîâíèêàì, à ìîè äîëãè íèçøèì êëàññàì óãðîæàþùå âûñîêè. [Root.County.GetAdjective]ñêèå êðåñòüÿíå òåïåðü ñîâåðøåííî ïðåíåáðåãàþò ìîèì ñâÿùåííûì ïðàâîì óïðàâëÿòü ñòðàíîé!;;x
+EVTDESC68001;The peasants of [Root.GetName] are slowly starting to respect my rule again. I should never let my treasury go negative!;;;;;;;;;;;[Root.County.GetAdjective]ñêèå êðåñòüÿíå ïîíåìíîãó ñíîâà íà÷èíàþò óâàæàòü ìî¸ ïðàâëåíèå. Ìíå íèêîãäà áîëüøå íå ñëåäóåò äîâîäèòü ñâîþ êàçíó äî ðàçîðåíèÿ!;;x
+EVTDESC68010;Due to my lack of funds to pay my sheriffs and magistrates with, a Thieves' Guild has been established in [Root.GetName].;;;;;;;;;;;Â ñâÿçè ñ íåõâàòêîé ñðåäñòâ íà ñîäåðæàíèå øåðèôîâ è ñóäåé, â îêðóãå [Root.GetName] òåïåðü âîçíèêëà Ãèëüäèÿ Âîðîâ.;;x
+EVTDESC68011;Thanks to my wise Stewardship of §Y[Root.GetName]§!, the local Thieves' Guild has been eradicated.;;;;;;;;;;;Áëàãîäàðÿ ìîåìó ìóäðîìó ðóêîâîäñòâó â îêðóãå §Y[Root.GetName]§! áûëà ëèêâèäèðîâàíà Ãèëüäèÿ âîðîâ.;;x
+EVTDESC68020;My acute budget deficit has allowed a Smugglers' Ring to appear in [Root.GetName].;;;;;;;;;;;Îñòðûé äåôèöèò áþäæåòà ïðèâ¸ë ñîçäàíèþ Øàéêè Êîíòðàáàíäèñòîâ â îêðóãå [Root.GetName].;;x
+EVTDESC68021;Thanks to my great diplomatic skill, the Smugglers' Ring in §Y[Root.GetName]§! has been destroyed. The head of the last smuggler is now rotting on a pike outside the city gates.;;;;;;;;;;;Áëàãîäàðÿ ìîèì âûñîêèì äèïëîìàòè÷åñêèì íàâûêàì, ãèëüäèÿ Êîíòðàáàíäèñòîâ îêðóãà §Y[Root.GetName]§! áûëà óíè÷òîæåíà. Ãîëîâà ïîñëåäíåãî êîíòðàáàíäèñòà òåïåðü âûñèòñÿ íà ïèêå ïåðåä âðàòàìè.;;x
+EVTDESC68021_FALLBACK;Thanks to the [target_wonder.GetName], and my great diplomatic skill, the Smugglers' Ring in §Y[Root.GetName]§! has been destroyed. The head of the last smuggler is now rotting on a pike.;;;;;;;;;;;Áëàãîäàðÿ âîéñêó, îõðàíÿþùåìó [target_wonder.GetWonderTypeShortCapACC], è ìîèì äèïëîìàòè÷åñêèì íàâûêàì §Y[Root.County.GetAdjective]ñêàÿ§! ãèëüäèÿ Êîíòðàáàíäèñòîâ áûëà óíè÷òîæåíà. Ãîëîâà èõ ëèäåðà ñåé÷àñ íàñàæåíà íà ïèêó.;;x
+EVTDESC68021_RETINUE;Thanks to the retinue stationed in the [target_wonder.GetName], and my great diplomatic skill, the Smugglers' Ring in §Y[Root.GetName]§! has been destroyed. The head of the last smuggler is now rotting on a pike.;;;;;;;;;;;Áëàãîäàðÿ ãâàðäèè, ðàñêâàðòèðîâàííîé íåïîäàë¸êó îò [target_wonder.GetWonderTypeShortCapGEN], è ìîèì äèïëîìàòè÷åñêèì íàâûêàì §Y[Root.County.GetAdjective]ñêàÿ§! ãèëüäèÿ Êîíòðàáàíäèñòîâ áûëà óíè÷òîæåíà. Ãîëîâà èõ ëèäåðà ñåé÷àñ íàñàæåíà íà ïèêó.;;x
+EVTDESC68021_TEMPLE_GUARDS;Thanks to the temple guards of [target_wonder.GetName], and my great diplomatic skill, the Smugglers' Ring in §Y[Root.GetName]§! has been destroyed. The head of the last smuggler is now rotting on a pike.;;;;;;;;;;;Áëàãîäàðÿ õðàìîâîé ñòðàæå, ðàñêâàðòèðîâàííîé íåïîäàë¸êó îò [target_wonder.GetWonderTypeShortCapGEN], è ìîèì äèïëîìàòè÷åñêèì íàâûêàì §Y[Root.County.GetAdjective]ñêàÿ§! ãèëüäèÿ Êîíòðàáàíäèñòîâ áûëà óíè÷òîæåíà. Ãîëîâà èõ ëèäåðà ñåé÷àñ íàñàæåíà íà ïèêó.;;x
+EVTDESC68030;My underfunded sheriffs have allowed a large band of robbers to rise in [Root.GetName]. They are too craven to attack my castles though.;;;;;;;;;;;Íåäîñòàòîê ñðåäñòâ íà ñîäåðæàíèå ìåñòíûõ øåðèôîâ ïðèâ¸ë ê âîçíèêíîâåíèþ êðóïíîé Áàíäû Ðàçáîéíèêîâ â îêðóãå [Root.GetName]. Ê ñ÷àñòüþ, îíè ñëèøêîì òðóñëèâû, ÷òîáû íàïàäàòü íà ìîè âëàäåíèÿ.;;x
+EVTDESC68031;With my great Martial ability, I have rounded up and executed the robber bands that were plaguing §Y[Root.GetName]§!!;;;;;;;;;;;Áëàãîäàðÿ ìîèì âûäàþùèìñÿ âîåííûì íàâûêàì, ìíå óäàëîñü îêðóæèòü è ðàçãðîìèòü áàíäû ãðàáèòåëåé, îðóäîâàâøèõ â îêðóãå §Y[Root.GetName]§!!;;x
+EVTDESC68031_FALLBACK;Due to the [target_wonder.GetName], and my great Martial ability, the robber bands that were plaguing §Y[Root.GetName]§! have been rounded up and executed!;;;;;;;;;;;Áëàãîäàðÿ âîéñêàì, îõðàíÿþùèì [target_wonder.GetWonderTypeShortCapACC], è ìîèì âîåííûì íàâûêàì, áàíäû ðàçáîéíèêîâ, îðóäóþùèå â §Y[Root.County.GetAdjective]ñêèõ§! çåìëÿõ, áûëè óíè÷òîæåíû!;;x
+EVTDESC68031_RETINUE;The retinue stationed in the [target_wonder.GetName] have helped me to round up and execute the robber bands that were plaguing §Y[Root.GetName]§!!;;;;;;;;;;;Ãâàðäèÿ, ðàñïîëîæåííàÿ íåïîäàë¸êó îò [target_wonder.GetWonderTypeShortCapGEN] ïîìîãëà ìíå ðàçäåëàòüñÿ ñ áàíäàìè ðàçáîéíèêîâ, îðóäóþùèõ â §Y[Root.County.GetAdjective]ñêèõ§! çåìëÿõ!;;x
+EVTDESC68031_TEMPLE_GUARDS;The temple guards of [target_wonder.GetName] have helped me to round up and execute the robber bands that were plaguing §Y[Root.GetName]§!!;;;;;;;;;;;Õðàìîâàÿ ñòðàæà [target_wonder.GetWonderTypeShortCapGEN] ïîìîãëà ìíå ðàçäåëàòüñÿ ñ áàíäàìè ðàçáîéíèêîâ, îðóäóþùèõ â §Y[Root.County.GetAdjective]ñêèõ§! çåìëÿõ!;;x
+EVTOPTA68000;And we can't do anything about it...;;;;;;;;;;;È ìû íå ìîæåì íè÷åãî ñ ýòèì ïîäåëàòü...;;x
+EVTOPTA68001;Thank the Lord!;;;;;;;;;;;Ñïàñèáî Ãîñïîäè!;;x
+EVTOPTA68010;They have not stolen any of my property yet;;;;;;;;;;;Ïîêà îíè íå óêðàëè íè÷åãî èç ìîåé ñîáñòâåííîñòè;;x
+EVTOPTA68011;It is good to be the [Root.County.Holder.PrimaryTitle.GetRulerTitle]!;;;;;;;;;;;Õîðîøî, ÷òî ÿ - [Root.County.Holder.PrimaryTitle.GetRulerTitle]!;;x
+EVTOPTA68020;I don't see how this matters to me?;;;;;;;;;;;ß íå ïîíèìàþ, êàê ýòî îòíîñèòñÿ êî ìíå?;;x
+EVTOPTA68021;I am such a great [Root.County.Holder.PrimaryTitle.GetRulerTitle];;;;;;;;;;;ß - ìîëîäåö!;;x
+EVTOPTA68030;I am safe inside my walls..;;;;;;;;;;;ß â áåçîïàñíîñòè â ìîèõ ñòåíàõ…;;x
+EVTOPTA68031;Call me [Root.County.Holder.GetTitledFirstName] the Great!;;;;;;;;;;;Çîâèòå ìåíÿ [Root.County.Holder.GetTitledFirstName] Âåëèê[Root.County.Holder.GetAyaIy]!;;x
+EVTOPTB68001;Allah is merciful!;;;;;;;;;;;Àëëàõ ìèëîñòèâ!;;x

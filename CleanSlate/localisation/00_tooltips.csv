@@ -1,172 +1,159 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
 ## councillor_decisions.txt
-
 # help_liege_manage_titles
-NOT_PROPOSED_TITLE_HELP_RECENTLY_TOOLTIP;Liege has not been recently proposed to be helped.\n;;;;;;;;;;;;;x
-NOT_REFUSED_ANY_HELP_WITH_TITLES_TOOLTIP;Liege has not refused any notion of help.\n;;;;;;;;;;;;;x
-NOT_GETTING_HELP_WITH_TITLES_TOOLTIP;Liege is not already being helped with his titles.;;;;;;;;;;;;;x
-
+NOT_PROPOSED_TITLE_HELP_RECENTLY_TOOLTIP;Liege has not been recently proposed to be helped.\n;;;;;;;;;;;Ñþçåðåí íå ïîëó÷àë íåäàâíî ïðåäëîæåíèé î ïîìîùè.\n;;x
+NOT_REFUSED_ANY_HELP_WITH_TITLES_TOOLTIP;Liege has not refused any notion of help.\n;;;;;;;;;;;Ñþçåðåí íå îòêàçûâàëñÿ îò êàêîé-ëèáî ïîìîùè.\n;;x
+NOT_GETTING_HELP_WITH_TITLES_TOOLTIP;Liege is not already being helped with his titles.;;;;;;;;;;;Ñþçåðåíó íå ïîìîãàþò ñ òèòóëàìè â äàííûé ìîìåíò.;;x
 # ask_help_to_manage_titles
-HAS_CHANCELLOR;Has a chancellor;;;;;;;;;;;;;x
-TOOLTIP_RECENTLY_ASKED_HELP_WITH_TITLES;Has NOT recently taken this decision;;;;;;;;;;;;;x
-
-
+HAS_CHANCELLOR;Has a chancellor;;;;;;;;;;;Èìååò êàíöëåðà;;x
+TOOLTIP_RECENTLY_ASKED_HELP_WITH_TITLES;Has NOT recently taken this decision;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ ïðîñèëè îá ýòîì íåäàâíî.;;x
 ## faction_decisions.txt
-
-EVTTOOLTIP8005;§Y[Root.Liege.GetTitledName]§! receives an ultimatum.;;;;;;;;;;;;;x
-tt_no_occupied_titles_in_realm;No realm holdings are occupied\n;;;;;;;;;;;;;x
-
-
+EVTTOOLTIP8005;§Y[Root.Liege.GetTitledName]§! receives an ultimatum.;;;;;;;;;;;[Root.Liege.GetTitledFirstName] ïîëó÷èò óëüòèìàòóì.;;x
+tt_no_occupied_titles_in_realm;No realm holdings are occupied\n;;;;;;;;;;;Íè îäíî âëàäåíèå íå îêêóïèðîâàíî\n;;x
 # Vanilla mess
-controls_kaliopolis_thrake;Controls §YKaliopolis§! and §YThrake§!\n;;;;;;;;;;;;;x
-indulgence_ask;The Holy Father will hear our plea for salvation.;;;;;;;;;;;;;x
-repentance_ask;The Holy Father will hear our plea for salvation.;;;;;;;;;;;;;x
-joining_faction;You gain leverage that can be used to recruit this noble into a faction.;;;;;;;;;;;;;x
-ignore_law;For the good of all, you and everyone else in the realm ignore the existence of this law.;;;;;;;;;;;;;x
-improve_diplomacy_quit;You look for some other way to improve your diplomacy.;;;;;;;;;;;;;x
-improve_intrigue_quit;You look for some other way to improve your intrigue.;;;;;;;;;;;;;x
-improve_learning_quit;You look for some other way to improve your learning.;;;;;;;;;;;;;x
-improve_martial_quit;You look for some other way to improve your martial ability.;;;;;;;;;;;;;x
-improve_stewardship_quit;You look for some other way to improve your stewardship.;;;;;;;;;;;;;x
-lower_decadence_quit;You look for some other way to lower your dynasty's decadence.;;;;;;;;;;;;;x
-horse_chancellor;You are forced through the indignity of watching as Glitterhoof is led into the council chambers and appointed [Root.Liege.GetChancellorName].;;;;;;;;;;;;;x
-hurry_dungeons;You hurry to the dungeons...;;;;;;;;;;;;;x
-leaving_faction;Your vassal promises not to associate with factions conspiring against you.;;;;;;;;;;;;;x
-failed_sally;Defending troops gets §R-10.0%§! morale.\nDefending troops take §R5.0%§! losses.\n§GEnemy:§! Attacking troops take §R2.5%§! losses.;;;;;;;;;;;;;x
-siege_assault;Defending troops gets §R-20.0%§! morale.\nDefending troops take §R20.0%§! losses.\n§GEnemy:§! Attacking troops take §R10.0%§! losses.;;;;;;;;;;;;;x
-siege_disease;§GEnemy:§! Attacking troops take §R5.0%§! losses.;;;;;;;;;;;;;x
-siege_execute;§GEnemy:§! Defending troops gets §G10.0%§! morale.;;;;;;;;;;;;;x
-siege_hide;Defending troops gets §R-5.0%§! morale.\nDefending troops take §R5.0%§! losses.\n§GEnemy:§! Attacking troops take §R15.0%§! losses.;;;;;;;;;;;;;x
-siege_hunger;§GEnemy:§! Defending troops take §R5.0%§! losses.;;;;;;;;;;;;;x
-siege_miracle;Attacking troops take §R90.0%§! losses.\nAttacking troops gets §R-90.0%§! morale.\n§GEnemy:§! Defending troops gets §G100.0%§! morale.;;;;;;;;;;;;;x
-siege_personal_charge;Defending troops gets §R-10.0%§! morale.;;;;;;;;;;;;;x
-siege_raiders;§GEnemy:§! Attacking troops take §R1.0%§! losses.;;;;;;;;;;;;;x
-siege_trader;§GEnemy:§! Defending troops gets §G10.0%§! morale.;;;;;;;;;;;;;x
-siege_treachery;Defending troops gets §R-10.0%§! morale.;;;;;;;;;;;;;x
-successful_sally;Defending troops gets §G10.0%§! morale.\nDefending troops take §R2.5%§! losses.\n§GEnemy:§! Attacking troops take §R5.0%§! losses.;;;;;;;;;;;;;x
-successful_sally_attacker;Attacking troops take §R5.0%§! losses.\n§GEnemy:§! Defending troops gets §G10.0%§! morale.\nDefending troops take §R2.5%§! losses.;;;;;;;;;;;;;x
-CTT_CHRISTIAN_CRUSADES_UNLOCKED;The Crusading Era has Begun\n;;;;;;;;;;;;;x
-CTT_MUSLIM_JIHADS_UNLOCKED;The Great Jihad Era has Begun\n;;;;;;;;;;;;;x
-CTT_PAGAN_GHWS_UNLOCKED;The Pagan Great Holy War Era has Begun\n;;;;;;;;;;;;;x
-evt_relative_might_revolt;§RWARNING:§! [From.GetFirstName] might not passively accept your decision!;;;;;;;;;;;;;x
-THREE_HOLY_SITES_TT;Controls three Holy Sites;;;;;;;;;;;;;x
-already_exodus_tooltip;Has NOT asked courtiers to leave recently;;;;;;;;;;;;;x
-animal_cages_modifier_tt;Enables the use of §YDangerous Animals§! in the Arena;;;;;;;;;;;;;x
-any_artifact_relic_TT;You possess a holy artifact;;;;;;;;;;;;;x
-armoury_modifier_tt;Allows more options when §YFinding a Smith§!.;;;;;;;;;;;;;x
-ARTIFACT_UNICORN_TT;Is a Horse;;;;;;;;;;;;;x
-better_chance_of_defender_siege_events_custom_modifier_tt;Defenders will have more chances of actively resisting sieges.;;;;;;;;;;;;;x
-better_melee_tactics_custom_modifier_tt;The chance of Flank leaders choosing better melee tactics increases;;;;;;;;;;;;;x
-better_skirmisher_tactics_custom_modifier_tt;The chance of Flank leaders choosing better skirmisher tactics increases;;;;;;;;;;;;;x
-cairo_decision_TT;Make §Y[c_cairo.GetName]§! the new capital;;;;;;;;;;;;;x
-castellan_custom_modifier_tt;Unlocks the §YCastellan§! minor title;;;;;;;;;;;;;x
-create_wonder_condition_tooltip;Build a Great Work to at least stage two.;;;;;;;;;;;;;x
-create_wonder_effect_tooltip;Completing this ambition will result in an extra Feature being built on your Great Work.;;;;;;;;;;;;;x
-culture_convertion_custom_modifier_tt;§GConvert Counties§! to your §GCulture§! faster;;;;;;;;;;;;;x
-custodian_of_mosque_custom_modifier_tt;Unlocks the §YCustodian of the Mosque§! minor title;;;;;;;;;;;;;x
-custodian_of_temple_custom_modifier_tt;Unlocks the §YCustodian of the Temple§! minor title;;;;;;;;;;;;;x
-deep_guardian_custom_modifier_tt;Unlocks the §YGuardian of the Deep§! minor title;;;;;;;;;;;;;x
-empire_bulgaria_TT;Hold a King title besides §Y[k_bulgaria.GetName]§!;;;;;;;;;;;;;x
-establishing_habsburg_family;§Y[Root.GetTitledName]§! and [Root.GetHerHis] close relatives will become members of the §Yvon Habsburg§! family.;;;;;;;;;;;;;x
-execution_possible_modifier_tt;Can be used to §YExecute§! prisoners;;;;;;;;;;;;;x
-exodus_court_allow_tooltip;§Y[Root.GetTitledFirstName]§! must have a full court;;;;;;;;;;;;;x
-fountain_of_youth_custom_modifier_tt;Unlocks the §YDrink from the Fountain of Youth§! decision;;;;;;;;;;;;;x
-guardian_of_knowledge_custom_modifier_tt;Unlocks the §YGuardian of Knowledge§! minor title;;;;;;;;;;;;;x
-has_not_chugged_in_10_years_TT;Drank too recently — cannot drink it again until §Y[Root.drank_from_fountain_cooldown.GetExpiryDate]§!;;;;;;;;;;;;;x
-has_not_recruited_in_5_years_TT;Has not recruited an Academy Hero in the last 5 years.;;;;;;;;;;;;;x
-herb_event_modifier_tt;Will periodically give you §YHerbs§!;;;;;;;;;;;;;x
-hidden_passageways_modifier_tt;A higher chance of escaping capture after battle;;;;;;;;;;;;;x
-holdings_walls_upgrade_custom_modifier_tt;All walls of the province's holdings will be upgraded to their maximum level.;;;;;;;;;;;;;x
-in_meditation_cooldown_tt;Is NOT already meditating;;;;;;;;;;;;;x
-intimidate_possible_modifier_tt;Unlocks the §YIntimidate§! decision.;;;;;;;;;;;;;x
-intimidation_possible_modifier_tt;Enables §YIntimidation§! attempts;;;;;;;;;;;;;x
-is_a_child_tt;Is a child;;;;;;;;;;;;;x
-is_character_in_important_chain_of_events_tt;Is an important character in an ongoing chain of events;;;;;;;;;;;;;x
-is_inaccessible_tt;Is in Hiding, out traveling, or otherwise occupied with important business\n;;;;;;;;;;;;;x
-is_regent_commander_or_physician_tt;Is a §YRegent§!, §YDesignated Regent§!, §YCommander§!, or §YCourt Physician§!;;;;;;;;;;;;;x
-is_spouse_consort_or_of_your_dynasty;Is your spouse, close family, or your consort;;;;;;;;;;;;;x
-keeper_of_tomes_custom_modifier_tt;Unlocks the §YKeeper of the Tomes§! minor title;;;;;;;;;;;;;x
-kepper_of_dead_custom_modifier_tt;Unlocks the §YKeeper of the Dead§! minor title;;;;;;;;;;;;;x
-less_likely_to_be_looted_modifier_tt;§YArtifacts§! are less likely to be stolen;;;;;;;;;;;;;x
-lighthouse_custodian_custom_modifier_tt;Unlocks the §YLighthouse Custodian§! minor title;;;;;;;;;;;;;x
-master_of_tides_custom_modifier_tt;Unlocks the §YMaster of the Tides§! minor title;;;;;;;;;;;;;x
-must_be_storing_a_relic_TT;Must be storing a Relic;;;;;;;;;;;;;x
-no_other_plating_tt;Has no plating;;;;;;;;;;;;;x
-not_recently_sent_alcohol_tooltip;[From.GetTitledFirstName] has not recently sent a gift of alcohol.;;;;;;;;;;;;;x
-not_shia_caliphate_revolt_ongoing;No ongoing revolt to create the §YShia Caliphate§!;;;;;;;;;;;;;x
-obj_become_king_tip;Is [Root.GetKingQueen] of [This.Capital.Kingdom.GetName];;;;;;;;;;;;;x
-overseer_of_rites_custom_modifier_tt;Unlocks the §YOverseer of the Rites§! minor title;;;;;;;;;;;;;x
-private_talk_possible_modifier_tt;Enables §YPrivate Conversation§! with characters;;;;;;;;;;;;;x
-qarmatian_bloodline_TT;Has the bloodline of a §Y[qarmatian.GetName]§! leader.;;;;;;;;;;;;;x
-recruit_gladiator_modifier_tt;Enables the recruitment of §YGladiators§!;;;;;;;;;;;;;x
-religious_spread_custom_modifier_tt;§Y[Root.job_spiritual.GetJobTitle]§! converts §YCounties§! faster;;;;;;;;;;;;;x
-royal_custodian_custom_modifier_tt;Unlocks the §YRoyal Custodian§! minor title;;;;;;;;;;;;;x
-shia_creation_independent;Either independent or all lieges publicly follow the §Y[shiite.GetName]§! religion\n;;;;;;;;;;;;;x
-shiite_bloodline_TT;Has the bloodline of a §Y[shiite.GetName]§! leader.;;;;;;;;;;;;;x
-stone_custodian_custom_modifier_tt;Unlocks the §YCustodian of the Stone§! minor title;;;;;;;;;;;;;x
-store_relic_TT;You can store a relic, like the §Y[target_artifact_1.GetName]§!, in the §Y[target_upgrade.GetName]§! of the §Y[target_wonder.GetName]§!.;;;;;;;;;;;;;x
-storing_a_relic_possible_modifier_tt;Can be used to store a §YRelic§!;;;;;;;;;;;;;x
-sunni_creation_independent;Either independent or all lieges publicly follow the §Y[sunni.GetName]§! religion\n;;;;;;;;;;;;;x
-tavern_custom_modifier_tt;Might allow you to remove §YStressed§!;;;;;;;;;;;;;x
-their_spouse_must_be_allow_to_leave_tt;The spouse of [Prev.GetTitledFirstName] must also be allowed to leave;;;;;;;;;;;;;x
-traps_custom_modifier_tt;May kill anyone who tries to conquer the [FromFrom.GetName];;;;;;;;;;;;;x
-use_scary_upgrade_cooldown_tt;Has NOT attempted to intimidate a character in the past 2 years[From.GetScaryCD];;;;;;;;;;;;;x
-use_scary_upgrade_tt;You will take §Y[target_character.GetFirstNameWithNick]§! near the §Y[target_upgrade.GetName]§! in your §Y[target_wonder.GetName]§! and have a talk with [target_character.GetHerHim] about the importance of cooperation.;;;;;;;;;;;;;x
-use_secluded_upgrade_cooldown_tt;Has NOT invited a character for a private talk in the past §Y6§! months[From.GetSecludedCD];;;;;;;;;;;;;x
-use_secluded_upgrade_tt;You will invite §Y[target_character.GetFirstNameWithNick]§! to meet you in the §Y[target_upgrade.GetName]§! of the §Y[target_wonder.GetName]§! and have a private conversation with [target_character.GetHerHim].;;;;;;;;;;;;;x
-wall_walker_custom_modifier_tt;Unlocks the §YWalker of the Wall§! minor title;;;;;;;;;;;;;x
-watcher_of_giants_custom_modifier_tt;Unlocks the §YWatcher of Giants§! minor title;;;;;;;;;;;;;x
-overthrow_text;The Succession Law is changed!;;;;;;;;;;;;;x
-TT_FROM_IS_LIEGE_BEFORE_WAR;Is a direct vassal of §Y[From.GetTitledFirstName]§!\n;;;;;;;;;;;;;x
-TT_PLOT_GAIN_VASSAL_TITLE_COUNT_SECONDARY_COUNTY;Is a Count's secondary County\n;;;;;;;;;;;;;x
-TT_PLOT_GAIN_VASSAL_TITLE_COUNTY_IN_CAPITAL_DUCHY;Is a County in the held capital Duchy of §Y[From.GetTitledFirstName]§!\n;;;;;;;;;;;;;x
-TT_PLOT_GAIN_VASSAL_TITLE_DUCHY_ALL_DJ_COUNTIES_NOT_DEFACTO;Is a Duchy with no de jure County under its holder\n;;;;;;;;;;;;;x
-TT_PLOT_GAIN_VASSAL_TITLE_DUKE_COUNTY_OUTSIDE_DUCHY;Is a County held by a Duke whom is not its de jure liege\n;;;;;;;;;;;;;x
-IS_HEALTHY;Is Healthy\n;;;;;;;;;;;;;x
-
-produces_alcohol_modifier_tt;Enables the §YSend Alcohol Gift§! decision;;;;;;;;;;;;;x
-game_master_custom_modifier_tt;Unlocks the §YMaster of the Games§! minor title;;;;;;;;;;;;;x
-gladiator_commander_TT;A gladiator-trained warrior appears at the court of §Y[Root.GetTitledName]§!.;;;;;;;;;;;;;x
-THANKMAR_REBELLION_01_TT;Thankmar is alive;;;;;;;;;;;;;x
-THANKMAR_REBELLION_02_TT;Otto is alive;;;;;;;;;;;;;x
-THANKMARS_REBELLION_VICTORY_TT;§YThankmar§! will become the new king of the §YKingdom of Germany§!;;;;;;;;;;;;;x
-not_under_attack;Not defender in a war;;;;;;;;;;;;;x
-
-ALL_DYNASTY_MEMBERS_MINUS_5;All Dynasty Member Opinions lowered by §R-5§! for §Y10§! Years. §Y(Disrespects Dynasty)§!\n;;;;;;;;;;;;;x
-ALL_VASSALS_INSANE_LAW;All Vassal Opinions lowered by §R-5§! for §Y25§! Months. §Y(Introduced Insane Law)§!\n;;;;;;;;;;;;;x
-UNOCCUPIED_DEMESNE_TITLE;Has an unoccupied demesne county or barony\n;;;;;;;;;;;;;x
-PLOT_TOOLTIP_WEAKEN_VASSAL;[This.Holder.GetTitledName] is no longer the ruler of the [This.GetFullName].;;;;;;;;;;;;;x
-REMOVE_PREVIOUS_SUZERAIN;Remove any previous suzerain of §Y[This.GetTitledFirstName]§!\n;;;;;;;;;;;;;x
-
+controls_kaliopolis_thrake;Controls §YKaliopolis§! and §YThrake§!\n;;;;;;;;;;;Êîíòðîëü íàä §YÊàëèîïîëèñîì§! è §YÔðàêèåé§!\n;;x
+indulgence_ask;The Holy Father will hear our plea for salvation.;;;;;;;;;;;Ñâÿòîé Îòåö óñëûøèò íàøó ïðîñüáó î ñïàñåíèè äóøè.;;x
+repentance_ask;The Holy Father will hear our plea for salvation.;;;;;;;;;;;Ñâÿòîé Îòåö óñëûøàë íàøè ìîëèòâû.;;x
+joining_faction;You gain leverage that can be used to recruit this noble into a faction.;;;;;;;;;;;Âû ïîëó÷èëè ðû÷àãè âëèÿíèÿ íà äâîðÿíèíà, êîòîðûå çàñòàâÿò åãî ïðèñîåäèíèòüñÿ ê íàøåé ôðàêöèè.;;x
+ignore_law;For the good of all, you and everyone else in the realm ignore the existence of this law.;;;;;;;;;;;Äëÿ áëàãà âñåõ, Âû è êàæäûé â îáùåñòâå èãíîðèðóåòå ñóùåñòâîâàíèå ýòîãî çàêîíà.;;x
+improve_diplomacy_quit;You look for some other way to improve your diplomacy.;;;;;;;;;;;Âû èùåòå äðóãîé ñïîñîá óëó÷øèòü íàâûê äèïëîìàòèè.;;x
+improve_intrigue_quit;You look for some other way to improve your intrigue.;;;;;;;;;;;Âû èùåòå êàêîé-òî äðóãîé ñïîñîá óëó÷øèòü ñâîé íàâûê Èíòðèãè.;;x
+improve_learning_quit;You look for some other way to improve your learning.;;;;;;;;;;;Âû èùåòå äðóãîé ñïîñîá óëó÷øèòü Îáðàçîâàííîñòü.;;x
+improve_martial_quit;You look for some other way to improve your martial ability.;;;;;;;;;;;Âû èùèòå êàêîé-ëèáî ñïîñîá óëó÷øèòü ñâîè âîåííûå ñïîñîáíîñòè.;;x
+improve_stewardship_quit;You look for some other way to improve your stewardship.;;;;;;;;;;;Âû èùåòå äðóãîé ñïîñîá óëó÷øèòü Óïðàâëåíèå.;;x
+lower_decadence_quit;You look for some other way to lower your dynasty's decadence.;;;;;;;;;;;Âû èùåòå êàêîé-òî äðóãîé ñïîñîá ñíèçèòü óïàäîê Âàøåé äèíàñòèè.;;x
+horse_chancellor;You are forced through the indignity of watching as Glitterhoof is led into the council chambers and appointed [Root.Liege.GetChancellorName].;;;;;;;;;;;Èñïûòûâàÿ óíèæåíèå, Âàì ïðèøëîñü óçíàòü, ÷òî Ãëèòòåðãîô - [Root.Liege.GetChancellorName].;;x
+hurry_dungeons;You hurry to the dungeons...;;;;;;;;;;;Âû ñïåøèòå â ïîäçåìåëüå...;;x
+leaving_faction;Your vassal promises not to associate with factions conspiring against you.;;;;;;;;;;;Âàø âàññàë ïîêëÿëñÿ íå âñòóïàòü âî ôðàêöèè, íàïðàâëåííûå ïðîòèâ Âàñ.;;x
+failed_sally;Defending troops gets §R-10.0%§! morale.\nDefending troops take §R5.0%§! losses.\n§GEnemy:§! Attacking troops take §R2.5%§! losses.;;;;;;;;;;;Áîåâîé äóõ âîéñê çàùèùàþùåéñÿ ñòîðîíû èçìåíÿåòñÿ íà §R-10.0%§!.\nÂîéñêà çàùèùàþùåéñÿ ñòîðîíû íåñóò ïîòåðè â ðàçìåðå §R5.0%§!.\n§GÂðàã:§! Âîéñêà àòàêóþùåé ñòîðîíû íåñóò ïîòåðè â ðàçìåðå §R2.5%§!.;;x
+siege_assault;Defending troops gets §R-20.0%§! morale.\nDefending troops take §R20.0%§! losses.\n§GEnemy:§! Attacking troops take §R10.0%§! losses.;;;;;;;;;;;Áîåâîé äóõ âîéñê çàùèùàþùåéñÿ ñòîðîíû èçìåíÿåòñÿ íà §R-20.0%§!.\nÂîéñêà çàùèùàþùåéñÿ ñòîðîíû íåñóò ïîòåðè â ðàçìåðå §R20.0%§!.\n§GÂðàã:§! Âîéñêà àòàêóþùåé ñòîðîíû íåñóò ïîòåðè â ðàçìåðå §R10.0%§!.;;x
+siege_disease;§GEnemy:§! Attacking troops take §R5.0%§! losses.;;;;;;;;;;;§GÂðàã:§! Âîéñêà àòàêóþùåé ñòîðîíû íåñóò ïîòåðè â ðàçìåðå §R5.0%§!.;;x
+siege_execute;§GEnemy:§! Defending troops gets §G10.0%§! morale.;;;;;;;;;;;§GÂðàã:§! Áîåâîé äóõ âîéñê çàùèùàþùåéñÿ ñòîðîíû èçìåíÿåòñÿ íà §G10.0%§!.;;x
+siege_hide;Defending troops gets §R-5.0%§! morale.\nDefending troops take §R5.0%§! losses.\n§GEnemy:§! Attacking troops take §R15.0%§! losses.;;;;;;;;;;;Áîåâîé äóõ âîéñê çàùèùàþùåéñÿ ñòîðîíû èçìåíÿåòñÿ íà §R-5.0%§!.\nÂîéñêà çàùèùàþùåéñÿ ñòîðîíû íåñóò ïîòåðè â ðàçìåðå §R5.0%§!.\n§GÂðàã:§! Âîéñêà àòàêóþùåé ñòîðîíû íåñóò ïîòåðè â ðàçìåðå §R15.0%§!.;;x
+siege_hunger;§GEnemy:§! Defending troops take §R5.0%§! losses.;;;;;;;;;;;§GÂðàã:§! Âîéñêà çàùèùàþùåéñÿ ñòîðîíû íåñóò ïîòåðè â ðàçìåðå §R5.0%§!.;;x
+siege_miracle;Attacking troops take §R90.0%§! losses.\nAttacking troops gets §R-90.0%§! morale.\n§GEnemy:§! Defending troops gets §G100.0%§! morale.;;;;;;;;;;;Âîéñêà àòàêóþùåé ñòîðîíû íåñóò ïîòåðè â ðàçìåðå §R90.0%§!.\nÁîåâîé äóõ âîéñê àòàêóþùåé ñòîðîíû èçìåíÿåòñÿ íà §R-90.0%§!.\n§GÂðàã:§! Áîåâîé äóõ âîéñê çàùèùàþùåéñÿ ñòîðîíû èçìåíÿåòñÿ íà §G100.0%§!.;;x
+siege_personal_charge;Defending troops gets §R-10.0%§! morale.;;;;;;;;;;;Áîåâîé äóõ âîéñê çàùèùàþùåéñÿ ñòîðîíû èçìåíÿåòñÿ íà §R-10.0%§!.;;x
+siege_raiders;§GEnemy:§! Attacking troops take §R1.0%§! losses.;;;;;;;;;;;§GÂðàã:§! Âîéñêà àòàêóþùåé ñòîðîíû íåñóò ïîòåðè â ðàçìåðå §R1.0%§!.;;x
+siege_trader;§GEnemy:§! Defending troops gets §G10.0%§! morale.;;;;;;;;;;;§GÂðàã:§! Áîåâîé äóõ âîéñê çàùèùàþùåéñÿ ñòîðîíû èçìåíÿåòñÿ íà §G10.0%§!.;;x
+siege_treachery;Defending troops gets §R-10.0%§! morale.;;;;;;;;;;;Áîåâîé äóõ âîéñê çàùèùàþùåéñÿ ñòîðîíû èçìåíÿåòñÿ íà  §R-10.0%§!.;;x
+successful_sally;Defending troops gets §G10.0%§! morale.\nDefending troops take §R2.5%§! losses.\n§GEnemy:§! Attacking troops take §R5.0%§! losses.;;;;;;;;;;;Áîåâîé äóõ âîéñê çàùèùàþùåéñÿ ñòîðîíû èçìåíÿåòñÿ íà §G10.0%§!.\nÂîéñêà çàùèùàþùåéñÿ ñòîðîíû íåñóò ïîòåðè â ðàçìåðå §R2.5%§!.\n§GÂðàã:§! Âîéñêà àòàêóþùåé ñòîðîíû íåñóò ïîòåðè â ðàçìåðå §R5.0%§!.;;x
+successful_sally_attacker;Attacking troops take §R5.0%§! losses.\n§GEnemy:§! Defending troops gets §G10.0%§! morale.\nDefending troops take §R2.5%§! losses.;;;;;;;;;;;Âîéñêà àòàêóþùåé ñòîðîíû íåñóò ïîòåðè â ðàçìåðå §R5.0%§!.\n§GÂðàã:§! Áîåâîé äóõ âîéñê çàùèùàþùåéñÿ ñòîðîíû èçìåíÿåòñÿ íà §G10.0%§!\nÂîéñêà çàùèùàþùåéñÿ ñòîðîíû íåñóò ïîòåðè â ðàçìåðå §R2.5%§!.;;x
+CTT_CHRISTIAN_CRUSADES_UNLOCKED;The Crusading Era has Begun\n;;;;;;;;;;;Íàñòóïèëà ýðà êðåñòîâûõ ïîõîäîâ\n;;x
+CTT_MUSLIM_JIHADS_UNLOCKED;The Great Jihad Era has Begun\n;;;;;;;;;;;Íàñòóïèëà ýðà ñâÿùåííûõ äæèõàäîâ\n;;x
+CTT_PAGAN_GHWS_UNLOCKED;The Pagan Great Holy War Era has Begun\n;;;;;;;;;;;Íàñòóïèëà ýðà âåëèêèõ ñâÿùåííûõ ïîõîäîâ ÿçû÷íèêîâ\n;;x
+evt_relative_might_revolt;§RWARNING:§! [From.GetFirstName] might not passively accept your decision!;;;;;;;;;;;§RÂÍÈÌÀÍÈÅ:§! [From.GetFirstName] ìîæåò îòðåàãèðîâàòü íà Âàøå ðåøåíèå!;;x
+THREE_HOLY_SITES_TT;Controls three Holy Sites;;;;;;;;;;;Óáåäèòåñü, ÷òî êîíòðîëèðóåòå òðè ñâÿùåííûõ ìåñòà;;x
+already_exodus_tooltip;Has NOT asked courtiers to leave recently;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ ïðîñèëè ïðèäâîðíûõ ïîêèíóòü äâîð.;;x
+animal_cages_modifier_tt;Enables the use of §YDangerous Animals§! in the Arena;;;;;;;;;;;Ïîçâîëÿåò èñïîëüçîâàòü §Yîïàñíûõ æèâîòíûõ§! íà àðåíå;;x
+any_artifact_relic_TT;You possess a holy artifact;;;;;;;;;;;Óáåäèòåñü, ÷òî îáëàäàåòå ñâÿùåííûì àðòåôàêòîì.;;x
+armoury_modifier_tt;Allows more options when §YFinding a Smith§!.;;;;;;;;;;;Äà¸ò íîâûå âîçìîæíîñòè, ÷òîáû §Yíàíÿòü ðåìåñëåííèêà§!.;;x
+ARTIFACT_UNICORN_TT;Is a Horse;;;;;;;;;;;Òîëüêî äëÿ ëîøàäåé;;x
+better_chance_of_defender_siege_events_custom_modifier_tt;Defenders will have more chances of actively resisting sieges.;;;;;;;;;;;Çàùèòíèêè óêðåïëåíèé áóäóò óñïåøíåå ñîïðîòèâëÿòüñÿ îñàäàì.;;x
+better_melee_tactics_custom_modifier_tt;The chance of Flank leaders choosing better melee tactics increases;;;;;;;;;;;Ïîâûøàåò øàíñ äëÿ ïîëêîâîäöåâ âûáðàòü ëó÷øóþ òàêòèêó áëèæíåãî áîÿ;;x
+better_skirmisher_tactics_custom_modifier_tt;The chance of Flank leaders choosing better skirmisher tactics increases;;;;;;;;;;;Ïîâûøàåò øàíñ äëÿ ïîëêîâîäöåâ âûáðàòü ëó÷øóþ òàêòèêó îáñòðåëà;;x
+cairo_decision_TT;Make §Y[c_cairo.GetName]§! the new capital;;;;;;;;;;;§Y[c_cairo.GetBaseName]§! ñòàíåò íîâîé ñòîëèöåé;;x
+castellan_custom_modifier_tt;Unlocks the §YCastellan§! minor title;;;;;;;;;;;Äîáàâëÿåò ïî÷¸òíûé òèòóë §Yêàñòåëÿíà§!;;x
+create_wonder_condition_tooltip;Build a Great Work to at least stage two.;;;;;;;;;;;Ïîñòðîèòü ïî ìåíüøåé ìåðå äâå ñòàäèè âåëèêîãî ñîîðóæåíèÿ.;;x
+create_wonder_effect_tooltip;Completing this ambition will result in an extra Feature being built on your Great Work.;;;;;;;;;;;Ðåàëèçàöèÿ ýòîé àìáèöèè äàñò âàì äîïîëíèòåëüíîå óëó÷øåíèå äëÿ âåëèêîãî ñîîðóæåíèÿ.;;x
+culture_convertion_custom_modifier_tt;§GConvert Counties§! to your §GCulture§! faster;;;;;;;;;;;Íàñåëåíèå §Gîêðóãîâ§! ñêîðåå ïðèíèìàåò Âàøó §Gêóëüòóðó§!;;x
+custodian_of_mosque_custom_modifier_tt;Unlocks the §YCustodian of the Mosque§! minor title;;;;;;;;;;;Äîáàâëÿåò ïî÷¸òíûé òèòóë §YÑìîòðèòåëü ìå÷åòè§!;;x
+custodian_of_temple_custom_modifier_tt;Unlocks the §YCustodian of the Temple§! minor title;;;;;;;;;;;Äîáàâëÿåò ïî÷¸òíûé òèòóë §YÑìîòðèòåëü õðàìà§!;;x
+deep_guardian_custom_modifier_tt;Unlocks the §YGuardian of the Deep§! minor title;;;;;;;;;;;Äîáàâëÿåò ïî÷¸òíûé òèòóë §Yõðàíèòåëÿ ãëóáèí§!;;x
+empire_bulgaria_TT;Hold a King title besides §Y[k_bulgaria.GetName]§!;;;;;;;;;;;Óáåäèòåñü, ÷òî îáëàäàåòå åù¸ õîòÿ áû îäíèì òèòóëîì êîðîëåâñêîãî ðàíãà, è ýòîò òèòóë - íå §Y[k_bulgaria.GetName]§!;;x
+establishing_habsburg_family;§Y[Root.GetTitledName]§! and [Root.GetHerHis] close relatives will become members of the §Yvon Habsburg§! family.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! è [Root.GetHersHis] áëèæàéøèå ðîäñòâåííèêè îòíûíå áóäóò ïðèíàäëåæàòü ê äèíàñòèè §YÃàáñáóðã§!.;;x
+execution_possible_modifier_tt;Can be used to §YExecute§! prisoners;;;;;;;;;;;Ìîæíî èñïîëüçîâàòü äëÿ §Yêàçíè§! óçíèêîâ.;;x
+exodus_court_allow_tooltip;§Y[Root.GetTitledFirstName]§! must have a full court;;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[Root.GetTitledFirstName]§! èìååò èçáûòîê ïðèäâîðíûõ.;;x
+fountain_of_youth_custom_modifier_tt;Unlocks the §YDrink from the Fountain of Youth§! decision;;;;;;;;;;;Ðàçáëîêèðóåò ðåøåíèå §YÈñïèòü èç Ôîíòàíà Þíîñòè§!;;x
+guardian_of_knowledge_custom_modifier_tt;Unlocks the §YGuardian of Knowledge§! minor title;;;;;;;;;;;Äîáàâëÿåò ïî÷¸òíûé òèòóë §YÕðàíèòåëü çíàíèé§!;;x
+has_not_chugged_in_10_years_TT;Drank too recently — cannot drink it again until §Y[Root.drank_from_fountain_cooldown.GetExpiryDate]§!;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ ïèëè èç ôîíòàíà â ïîñëåäíåå âðåìÿ. Ñëåäóþùàÿ ïîïûòêà áóäåò äîñòóïíà §Y[Root.drank_from_fountain_cooldown.GetExpiryDate]§!;;x
+has_not_recruited_in_5_years_TT;Has not recruited an Academy Hero in the last 5 years.;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ ïðèçûâàëè ãåðîÿ â ïîñëåäíèå 5 ëåò.;;x
+herb_event_modifier_tt;Will periodically give you §YHerbs§!;;;;;;;;;;;Âû áóäåòå ïåðèîäè÷åñêè ïîëó÷àòü §Yòðàâû§!;;x
+hidden_passageways_modifier_tt;A higher chance of escaping capture after battle;;;;;;;;;;;Âûøå øàíñ èçáåæàòü ïëåíà âî âðåìÿ áèòâû;;x
+holdings_walls_upgrade_custom_modifier_tt;All walls of the province's holdings will be upgraded to their maximum level.;;;;;;;;;;;Ñòåíû âñåõ âëàäåíèé ýòîãî îêðóãà áóäóò óëó÷øåíû äî ìàêñèìàëüíîãî óðîâíÿ.;;x
+in_meditation_cooldown_tt;Is NOT already meditating;;;;;;;;;;;Óáåäèòåñü, ÷òî ñåé÷àñ ÍÅ ìåäèòèðóåòå;;x
+intimidate_possible_modifier_tt;Unlocks the §YIntimidate§! decision.;;;;;;;;;;;Äîáàâëÿåò ðåøåíèå §YÏîïûòêà çàïóãàòü§!.;;x
+intimidation_possible_modifier_tt;Enables §YIntimidation§! attempts;;;;;;;;;;;Äîáàâëÿåò âîçìîæíîñòü §Yçàïóãèâàíèÿ§!;;x
+is_a_child_tt;Is a child;;;;;;;;;;;Íåñîâåðøåííîëåòí[This.GetYayaIy];;x
+is_character_in_important_chain_of_events_tt;Is an important character in an ongoing chain of events;;;;;;;;;;;Ñëèøêîì âàæíàÿ ïåðñîíà;;x
+is_inaccessible_tt;Is in Hiding, out traveling, or otherwise occupied with important business\n;;;;;;;;;;;Íåäîñòóï[This.GetEndA] èç-çà òîãî, ÷òî ïðÿ÷åòñÿ, ïóòåøåñòâóåò èëè çàíÿò[This.GetEndA] âàæíûìè äåëàìè.\n;;x
+is_regent_commander_or_physician_tt;Is a §YRegent§!, §YDesignated Regent§!, §YCommander§!, or §YCourt Physician§!;;;;;;;;;;;ßâëÿåòñÿ §Yðåãåíòîì§!, §Yíàçíà÷åííûì ðåãåíòîì§!, §Yïîëêîâîäöåì§! èëè §Yïðèäâîðíûì ëåêàðåì§!;;x
+is_spouse_consort_or_of_your_dynasty;Is your spouse, close family, or your consort;;;;;;;;;;;Âàø[This.GetEndA] [This.GetHusbandWife], ÷ëåí ñåìüè èëè íàëîæíè[This.GetTsaK];;x
+keeper_of_tomes_custom_modifier_tt;Unlocks the §YKeeper of the Tomes§! minor title;;;;;;;;;;;Äîáàâëÿåò ïî÷¸òíûé òèòóë §YÕðàíèòåëü êíèã§!;;x
+kepper_of_dead_custom_modifier_tt;Unlocks the §YKeeper of the Dead§! minor title;;;;;;;;;;;Äîáàâëÿåò ïî÷¸òíûé òèòóë §YÕðàíèòåëü ì¸ðòâûõ§!;;x
+less_likely_to_be_looted_modifier_tt;§YArtifacts§! are less likely to be stolen;;;;;;;;;;;§YÀðòåôàêòû§! ðåæå êðàäóò;;x
+lighthouse_custodian_custom_modifier_tt;Unlocks the §YLighthouse Custodian§! minor title;;;;;;;;;;;Íîâûé ïî÷¸òíûé òèòóë: §YÕðàíèòåëü Ìàÿêà§!;;x
+master_of_tides_custom_modifier_tt;Unlocks the §YMaster of the Tides§! minor title;;;;;;;;;;;Äîáàâëÿåò ïî÷¸òíûé òèòóë §Yõîçÿèíà ïðèëèâîâ§!;;x
+must_be_storing_a_relic_TT;Must be storing a Relic;;;;;;;;;;;Óáåäèòåñü, ÷òî çäåñü õðàíèòñÿ ðåëèêâèÿ.;;x
+no_other_plating_tt;Has no plating;;;;;;;;;;;Áåç ïîêðûòèÿ;;x
+not_recently_sent_alcohol_tooltip;[From.GetTitledFirstName] has not recently sent a gift of alcohol.;;;;;;;;;;;Óáåäèòåñü, ÷òî [From.GetTitledFirstName] â ïîñëåäíåå âðåìÿ ÍÅ äàðèë[From.GetEndA] íèêîìó âûïèâêó.;;x
+not_shia_caliphate_revolt_ongoing;No ongoing revolt to create the §YShia Caliphate§!;;;;;;;;;;;Êîãäà ñîçäà¸òå §Y[Øèèò]ñêèé õàëèôàò§!, ó Âàñ íå äîëæíî áûòü âîññòàíèé.;;x
+obj_become_king_tip;Is [Root.GetKingQueen] of [This.Capital.Kingdom.GetName];;;;;;;;;;;ïðàâèòåëü çåìëè, èçâåñòíîé êàê [This.Capital.Kingdom.GetName];;x
+overseer_of_rites_custom_modifier_tt;Unlocks the §YOverseer of the Rites§! minor title;;;;;;;;;;;Äîáàâëÿåò ïî÷¸òíûé òèòóë §YÌàñòåð îáðÿäîâ§!;;x
+private_talk_possible_modifier_tt;Enables §YPrivate Conversation§! with characters;;;;;;;;;;;Äåëàåò äîñòóïíûì ðåøåíèå §YÏðèâàòíàÿ áåñåäà§!;;x
+qarmatian_bloodline_TT;Has the bloodline of a §Y[qarmatian.GetName]§! leader.;;;;;;;;;;;Êðîâü §Yëèäåðà [_êàðìàò]îâ§!.;;x
+recruit_gladiator_modifier_tt;Enables the recruitment of §YGladiators§!;;;;;;;;;;;Ïîçâîëÿåò íàíèìàòü §Yãëàäèàòîðîâ§!;;x
+religious_spread_custom_modifier_tt;§Y[Root.job_spiritual.GetJobTitle]§! converts §YCounties§! faster;;;;;;;;;;;§Y[Root.job_spiritual.GetJobTitle]§! îáðàùàåò ìåñòíîå íàñåëåíèå §Yîêðóãîâ§! â ñâîþ âåðó áûñòðåå;;x
+royal_custodian_custom_modifier_tt;Unlocks the §YRoyal Custodian§! minor title;;;;;;;;;;;Äîáàâëÿåò ïî÷¸òíûé òèòóë §Yõðàíèòåëÿ äâîðöà§!;;x
+shia_creation_independent;Either independent or all lieges publicly follow the §Y[shiite.GetName]§! religion\n;;;;;;;;;;;Óáåäèòåñü, ÷òî îáëàäàåòå íåçàâèñèìîñòüþ èëè îòêðûòî èñïîâåäóåòå §Y[_øèèçì]§!\n;;x
+shiite_bloodline_TT;Has the bloodline of a §Y[shiite.GetName]§! leader.;;;;;;;;;;;Êðîâü §Yëèäåðà [øèèò]îâ§!.;;x
+stone_custodian_custom_modifier_tt;Unlocks the §YCustodian of the Stone§! minor title;;;;;;;;;;;Íîâûé ïî÷¸òíûé òèòóë: §YÕðàíèòåëü Êàìíÿ§!;;x
+store_relic_TT;You can store a relic, like the §Y[target_artifact_1.GetName]§!, in the §Y[target_upgrade.GetName]§! of the §Y[target_wonder.GetName]§!.;;;;;;;;;;;Ðåëèêâèÿ §Y[target_artifact_1.GetName]§! áóäåò ïîìåùåíà â ìåñòî, èçâåñòíîå êàê §Y[target_upgrade.GetName]§!, íàõîäÿùååñÿ â §Y[target_wonder.GetWonderTypeShortCapPREP]§!.;;x
+storing_a_relic_possible_modifier_tt;Can be used to store a §YRelic§!;;;;;;;;;;;Ìîæåò õðàíèòü §Yðåëèêâèè§!;;x
+sunni_creation_independent;Either independent or all lieges publicly follow the §Y[sunni.GetName]§! religion\n;;;;;;;;;;;Óáåäèòåñü, ÷òî îáëàäàåòå íåçàâèñèìîñòüþ èëè îòêðûòî èñïîâåäóåòå §Y[_ñóííèçì]§!\n;;x
+tavern_custom_modifier_tt;Might allow you to remove §YStressed§!;;;;;;;;;;;Ìîæåò èçáàâèòü Âàñ îò §Yñòðåññà§!;;x
+their_spouse_must_be_allow_to_leave_tt;The spouse of [Prev.GetTitledFirstName] must also be allowed to leave;;;;;;;;;;;Óáåäèòåñü, ÷òî [This.GetHersHis] [This.Spouse.GetHusbandWife] òîæå ìîæåò ïîêèíóòü äâîð.;;x
+traps_custom_modifier_tt;May kill anyone who tries to conquer the [FromFrom.GetName];;;;;;;;;;;Íåêîòîðûå çàâîåâàòåëè ìîãóò áûòü óáèòû ëîâóøêàìè;;x
+use_scary_upgrade_cooldown_tt;Has NOT attempted to intimidate a character in the past 2 years[From.GetScaryCD];;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ ïûòàëèñü çàïóãàòü ýòî[Root.GetYGo] [Root.GetAgedPersonACC] â ïîñëåäíèå §Y2 ãîäà§Y[From.GetScaryCD];;x
+use_scary_upgrade_tt;You will take §Y[target_character.GetFirstNameWithNick]§! near the §Y[target_upgrade.GetName]§! in your §Y[target_wonder.GetName]§! and have a talk with [target_character.GetHerHim] about the importance of cooperation.;;;;;;;;;;;§Y[target_character.GetFirstNameWithNick]§! ñåé÷àñ íåäàëåêî îò ïîäõîäÿùåãî ìåñòà (§Y[target_upgrade.GetName]§!/§Y[target_wonder.GetName]§!). Âû ìîæåòå íàéòè [target_character.GetHersHis] òàì è ïîãîâîðèòü ñ í[target_character.GetEyIm] î âàæíîñòè ñîòðóäíè÷åñòâà.;;x
+use_secluded_upgrade_cooldown_tt;Has NOT invited a character for a private talk in the past §Y6§! months[From.GetSecludedCD];;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ ïðèãëàøàëè íèêîãî íà ÷àñòíóþ áåñåäó ïîñëåäíèå §Y6§! ìåñÿöåâ[From.GetSecludedCD];;x
+use_secluded_upgrade_tt;You will invite §Y[target_character.GetFirstNameWithNick]§! to meet you in the §Y[target_upgrade.GetName]§! of the §Y[target_wonder.GetName]§! and have a private conversation with [target_character.GetHerHim].;;;;;;;;;;;Ïóñòü §Y[target_character.GetFirstNameWithNick]§! âñòðåòèòñÿ ñ âàìè â íàçíà÷åííîì ìåñòå (§Y[target_upgrade.GetName]§!, §Y[target_wonder.GetName]§!), ÷òîáû ïîáåñåäîâàòü îäèí íà îäèí.;;x
+wall_walker_custom_modifier_tt;Unlocks the §YWalker of the Wall§! minor title;;;;;;;;;;;Äîáàâëÿåò ïî÷¸òíûé òèòóë §Yãóëÿþùåãî ìåæäó ñòåíàìè§!;;x
+watcher_of_giants_custom_modifier_tt;Unlocks the §YWatcher of Giants§! minor title;;;;;;;;;;;Äîáàâëÿåò ïî÷¸òíûé òèòóë §Yñòðàæà ãèãàíòîâ§!;;x
+overthrow_text;The Succession Law is changed!;;;;;;;;;;;Çàêîí î íàñëåäîâàíèè èçìåíèòñÿ!;;x
+TT_FROM_IS_LIEGE_BEFORE_WAR;Is a direct vassal of §Y[From.GetTitledFirstName]§!\n;;;;;;;;;;;Ïðÿìîé âàññàë ïðàâèòåëÿ, èçâåñòíîãî êàê §Y[From.GetTitledFirstName]§!\n;;x
+TT_PLOT_GAIN_VASSAL_TITLE_COUNT_SECONDARY_COUNTY;Is a Count's secondary County\n;;;;;;;;;;;Âòîðîé òèòóë ãðàôñêîãî óðîâíÿ\n;;x
+TT_PLOT_GAIN_VASSAL_TITLE_COUNTY_IN_CAPITAL_DUCHY;Is a County in the held capital Duchy of §Y[From.GetTitledFirstName]§!\n;;;;;;;;;;;Îêðóã â ñòîëè÷íîì ãåðöîãñòâå ïðàâèòåëÿ, èçâåñòíîãî êàê §Y[From.GetTitledFirstName]§!\n;;x
+TT_PLOT_GAIN_VASSAL_TITLE_DUCHY_ALL_DJ_COUNTIES_NOT_DEFACTO;Is a Duchy with no de jure County under its holder\n;;;;;;;;;;;Òèòóë ãåðöîãñêîãî óðîâíÿ, îáëàäàòåëü êîòîðîãî íå âëàäååò íè îäíèì îêðóãîì, ÿâëÿþùèìñÿ åãî äå-þðå ÷àñòüþ\n;;x
+TT_PLOT_GAIN_VASSAL_TITLE_DUKE_COUNTY_OUTSIDE_DUCHY;Is a County held by a Duke whom is not its de jure liege\n;;;;;;;;;;;Îêðóã, îáëàäàòåëü êîòîðîãî èìååò òèòóë ãåðöîãñêîãî óðîâíÿ, íî äå-þðå íå îòíîñÿùèéñÿ ê ýòîìó îêðóãó\n;;x
+IS_HEALTHY;Is Healthy\n;;;;;;;;;;;Â äîáðîì çäðàâèè;;x
+produces_alcohol_modifier_tt;Enables the §YSend Alcohol Gift§! decision;;;;;;;;;;;Äà¸ò âîçìîæíîñòü §Yäàðèòü âûïèâêó§!;;x
+game_master_custom_modifier_tt;Unlocks the §YMaster of the Games§! minor title;;;;;;;;;;;Äîáàâëÿåò ïî÷¸òíûé òèòóë §Yìàñòåðà èãð§!;;x
+gladiator_commander_TT;A gladiator-trained warrior appears at the court of §Y[Root.GetTitledName]§!.;;;;;;;;;;;Âîèí-ãðàäèàòîð ïðèáóäåò êî äâîðó [Root.GetAgedPersonGEN], èçâåñòí[Root.GetOyOgo] êàê §Y[Root.GetTitledName]§!.;;x
+THANKMAR_REBELLION_01_TT;Thankmar is alive;;;;;;;;;;;Òàíêìàð æèâ;;x
+THANKMAR_REBELLION_02_TT;Otto is alive;;;;;;;;;;;Îòòîí æèâ;;x
+THANKMARS_REBELLION_VICTORY_TT;§YThankmar§! will become the new king of the §YKingdom of Germany§!;;;;;;;;;;;§YÒàíêìàð§! ñòàíåò íîâûì êîðîë¸ì §YÃåðìàíèè§!;;x
+not_under_attack;Not defender in a war;;;;;;;;;;;Íå çàùèùàåòñÿ â âîéíå;;x
+ALL_DYNASTY_MEMBERS_MINUS_5;All Dynasty Member Opinions lowered by §R-5§! for §Y10§! Years. §Y(Disrespects Dynasty)§!\n;;;;;;;;;;;§R-5§! ê ìíåíèþ âñåõ ÷ëåíîâ Âàøåé äèíàñòèè íà §Y10§! ëåò. §Y(Íå óâàæàåò äèíàñòèþ)§!\n;;x
+ALL_VASSALS_INSANE_LAW;All Vassal Opinions lowered by §R-5§! for §Y25§! Months. §Y(Introduced Insane Law)§!\n;;;;;;;;;;;§R-5§! ê ìíåíèþ âñåõ âàññàëîâ íà §Y25§! ìåñÿöåâ §Y(Ââ¸ë äåáèëüíûé çàêîí)§!\n;;x
+UNOCCUPIED_DEMESNE_TITLE;Has an unoccupied demesne county or barony\n;;;;;;;;;;;Èìååò íåîêêóïèðîâàííûé îêðóã èëè ïîñåëåíèå ñðåäè ñâîèõ ëè÷íûõ çåìåëü\n;;x
+PLOT_TOOLTIP_WEAKEN_VASSAL;[This.Holder.GetTitledName] is no longer the ruler of the [This.GetFullName].;;;;;;;;;;;"[This.Holder.GetTitledName] áîëüøå íå âëàäååò òèòóëîì ""[This.GetFullName]"".";;x
+REMOVE_PREVIOUS_SUZERAIN;Remove any previous suzerain of §Y[This.GetTitledFirstName]§!\n;;;;;;;;;;;§Y[This.GetTitledFirstName]§! ïåðåñòàíåò ïëàòèòü äàíü ëþáîìó ïðåæíåìó âçèìàòåëþ\n;;x
 # Generic responses
-ACCEPT;Accept;;;;;;;;;;;;;x
-ALAS;Alas!;;;;;;;;;;;;;x
-CHANGED_MIND;I've changed my mind...;;;;;;;;;;;;;x
-CURSES;Curses!;;;;;;;;;;;;;x
-DAMNATION;Damnation;;;;;;;;;;;;;x
-DECLINE;Decline;;;;;;;;;;;;;x
-EXCELLENT;Excellent.;;;;;;;;;;;;;x
-GLORY;Glory!;;;;;;;;;;;;;x
-GLORY_TO_HIGHGOD;Glory to [Root.Religion.GetHighGodName]!;;;;;;;;;;;;;x
-GOOD;Good;;;;;;;;;;;;;x
-GOOD_RIDDANCE;Good riddance!;;;;;;;;;;;;;x
-GREAT;Great!;;;;;;;;;;;;;x
-I_SEE;I see...;;;;;;;;;;;;;x
-INTERESTING;Interesting...;;;;;;;;;;;;;x
-OK;Ok;;;;;;;;;;;;;x
-PERFECT;Perfect.;;;;;;;;;;;;;x
-SO_BE_IT;So be it;;;;;;;;;;;;;x
-SO_IT_IS;So it is.;;;;;;;;;;;;;x
-UNFORTUNATE;Unfortunate...;;;;;;;;;;;;;x
-VERY_WELL;Very well.;;;;;;;;;;;;;x
-WOE;Woe!;;;;;;;;;;;;;x
-
+ACCEPT;Accept;;;;;;;;;;;Ïðèíÿòü;;x
+ALAS;Alas!;;;;;;;;;;;Óâû!;;x
+CHANGED_MIND;I've changed my mind...;;;;;;;;;;;ß ïåðåäóìàë[Root.GetEndA]...;;x
+CURSES;Curses!;;;;;;;;;;;Ïðîêëÿòüå!;;x
+DAMNATION;Damnation;;;;;;;;;;;Ïðîêëÿòüå!;;x
+DECLINE;Decline;;;;;;;;;;;Îòêëîíèòü;;x
+EXCELLENT;Excellent.;;;;;;;;;;;Ïðåâîñõîäíî!;;x
+GLORY;Glory!;;;;;;;;;;;Âïåð¸ä çà ñëàâîé!;;x
+GLORY_TO_HIGHGOD;Glory to [Root.Religion.GetHighGodName]!;;;;;;;;;;;Ñëàâà [Root.GetReligionHighGodDAT]!;;x
+GOOD;Good;;;;;;;;;;;Õîðîøî;;x
+GOOD_RIDDANCE;Good riddance!;;;;;;;;;;;Ñêàòåðòüþ äîðîãà!;;x
+GREAT;Great!;;;;;;;;;;;Ãðàíäèîçíî!;;x
+I_SEE;I see...;;;;;;;;;;;×òî æ, òåïåðü áóäó çíàòü...;;x
+INTERESTING;Interesting...;;;;;;;;;;;Èíòåðåñíî...;;x
+OK;Ok;;;;;;;;;;;ÎÊ;;x
+PERFECT;Perfect.;;;;;;;;;;;Ïðåêðàñíî.;;x
+SO_BE_IT;So be it;;;;;;;;;;;Äà áóäåò òàê;;x
+SO_IT_IS;So it is.;;;;;;;;;;;È ÷òî ñ òîãî?;;x
+UNFORTUNATE;Unfortunate...;;;;;;;;;;;Íå ïîâåçëî...;;x
+VERY_WELL;Very well.;;;;;;;;;;;Î÷åíü õîðîøî.;;x
+WOE;Woe!;;;;;;;;;;;Áåäà!;;x
 ## CleanSlate
 # scripted_score_values
-THIS_fertility;Fertility of §Y[This.GetTitledFirstName]§!;;;;;;;;;;;;;x
-ROOT_fertility;Fertility of §Y[Root.GetTitledFirstName]§!;;;;;;;;;;;;;x
-FROM_fertility;Fertility of §Y[From.GetTitledFirstName]§!;;;;;;;;;;;;;x
-sex_partner_fertility;Fertility of §Y[sex_partner.GetTitledFirstName]§!;;;;;;;;;;;;;x
-
-vassal_of_ROOT_FROM_tt;Is a direct subject of §Y[Root_From.GetTitledFirstName]§!;;;;;;;;;;;;;x
+THIS_fertility;Fertility of §Y[This.GetTitledFirstName]§!;;;;;;;;;;;Ïëîäîâèòîñòü §Y[This.GetTitledFirstName]§!;;x
+ROOT_fertility;Fertility of §Y[Root.GetTitledFirstName]§!;;;;;;;;;;;Ïëîäîâèòîñòü §Y[Root.GetTitledFirstName]§!;;x
+FROM_fertility;Fertility of §Y[From.GetTitledFirstName]§!;;;;;;;;;;;Ïëîäîâèòîñòü §Y[From.GetTitledFirstName]§!;;x
+sex_partner_fertility;Fertility of §Y[sex_partner.GetTitledFirstName]§!;;;;;;;;;;;Ïëîäîâèòîñòü §Y[sex_partner.GetTitledFirstName]§!;;x
+vassal_of_ROOT_FROM_tt;Is a direct subject of §Y[Root_From.GetTitledFirstName]§!;;;;;;;;;;;ßâëÿåòñÿ ïðÿìûì ïîääàííûì §Y[Root_From.GetTitledFirstName]§!;;x

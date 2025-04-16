@@ -1,26 +1,19 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-evt_DESC_ZP_8;Today is a sad day. The dog I became the guardian of, that has loyally defended my family and I from evil spirits, has passed away. Today is a day of mourning and sorrow.;;;;;;;;;;;;;x
-evt_DESC_ZP_9;Today is a sad day. The hedgehog I took into my house that faithfully hunted down vermin has passed away. Today is a day of mourning and sorrow.;;;;;;;;;;;;;x
-evt_DESC_ZP_10;Today is a sad day. The otter I took into my house that faithfully ensured the health and well-being of my realm has passed away. Today is a day of mourning and sorrow.;;;;;;;;;;;;;x
-
-evt_OPTA_ZP_8;He was loyal until the end.;;;;;;;;;;;;;x
-evt_OPTA_ZP_9;Never was there a better hunter.;;;;;;;;;;;;;x
-evt_OPTA_ZP_10;May he finally rest.;;;;;;;;;;;;;x
-
-EVTDESC_ZP_1;As a pious man, after having read the texts of the Vendidad, you are more aware of the Daevas' presence all around you and the danger they put your family and realm in. So, you have decided that your house shall adopt one of the Good Spirit's Dogs.;;;;;;;;;;;;;x
-EVTDESC_ZP_2;A Vohunazga of [Root.Capital.Capital.GetName] is known to the people as a kind creature of Ahura Mazda, protecting your capital from the Daevas which roam in the darkness.;;;;;;;;;;;;;x
-EVTDESC_ZP_3;The dog called Vanghapara is known as a vigilant creature of the Spenta Mainyu. As darkness beckons this dog wakes to keep us safe from its evil creatures. This is why it is such a popular pet among [Root.Religion.GetName] families.;;;;;;;;;;;;;x
-EVTDESC_ZP_4;The dog of the water is the most revered of all the dogs. They are what keeps our fields watered and healthy, our bellies full and worries gone.;;;;;;;;;;;;;x
-
-EVTOPTA_ZP_1;Vohunazga, the dog without a master.;;;;;;;;;;;;;x
-EVTOPTA_ZP_2;He shall roam free but protected by the [Root.GetOnlyDynastyName].;;;;;;;;;;;;;x
-EVTOPTA_ZP_3;The Vanghapara shall protect my home well.;;;;;;;;;;;;;x
-EVTOPTA_ZP_4;It is our honor to house the Sag-e Aabi;;;;;;;;;;;;;x
-
-EVTOPTB_ZP_1;Vanghapara, the dog with a prickly back.;;;;;;;;;;;;;x
-EVTOPTB_ZP_2;Take him in! He is one of the [Root.GetOnlyDynastyName].;;;;;;;;;;;;;x
-
-EVTOPTC_ZP_1;Sag-e Aabi, the dog of the water.;;;;;;;;;;;;;x
-
-EVTOPTD_ZP_1;We need no damned dog!;;;;;;;;;;;;;x
+evt_DESC_ZP_8;Today is a sad day. The dog I became the guardian of, that has loyally defended my family and I from evil spirits, has passed away. Today is a day of mourning and sorrow.;;;;;;;;;;;Ïå÷àëüíûé äåíü. Ï¸ñ, êîòîðîìó ÿ áûë[Root.GetEndA] ïîêðîâèòåë[Root.GetSoftNitseyEm], è êîòîðûé îáåðåãàë ìåíÿ è ìîþ ñåìüþ îò çëûõ äóõîâ, ñåãîäíÿ óìåð.;;x
+evt_DESC_ZP_9;Today is a sad day. The hedgehog I took into my house that faithfully hunted down vermin has passed away. Today is a day of mourning and sorrow.;;;;;;;;;;;Ïå÷àëüíûé äåíü. ¨æ, êîòîðîãî ÿ âçÿë[Root.GetEndA] â ñâîé äîì, ÷òîáû áîðîòüñÿ ñ âðåäèòåëÿìè, ñåãîäíÿ óìåð.;;x
+evt_DESC_ZP_10;Today is a sad day. The otter I took into my house that faithfully ensured the health and well-being of my realm has passed away. Today is a day of mourning and sorrow.;;;;;;;;;;;Ïå÷àëüíûé äåíü. Âûäðà, êîòîðóþ ÿ ïðèíåñ[Root.GetNoneE] â ñâîé äîì, áûâøàÿ çàëîãîì çäîðîâüÿ è ïðîöâåòàíèÿ ìîåé ñòðàíû, ñåãîäíÿ óìåðëà.;;x
+evt_OPTA_ZP_8;He was loyal until the end.;;;;;;;;;;;Îí âåðíî ñëóæèë ìíå äî ñàìîãî êîíöà.;;x
+evt_OPTA_ZP_9;Never was there a better hunter.;;;;;;;;;;;ß íå çíàë[Root.GetEndA] ëó÷øåãî îõîòíèêà.;;x
+evt_OPTA_ZP_10;May he finally rest.;;;;;;;;;;;Íàäåþñü, îíà íàøëà ïîêîé.;;x
+EVTDESC_ZP_1;As a pious man, after having read the texts of the Vendidad, you are more aware of the Daevas' presence all around you and the danger they put your family and realm in. So, you have decided that your house shall adopt one of the Good Spirit's Dogs.;;;;;;;;;;;Êàê áëàãî÷åñòèâûé ÷åëîâåê, ïðî÷èòàâøèé òåêñòû Âåíäèäàäà, Âû çíàåòå î òîì, ÷òî äýâû ñðåäè íàñ, Âàøà ñåìüÿ è ñòðàíà â îïàñíîñòè. Íàäî áû âçÿòü â ñâîé äîì ñâÿùåííóþ ñîáàêó äëÿ çàùèòû îò çëûõ äóõîâ, âîò òîëüêî êàêóþ?;;x
+EVTDESC_ZP_2;A Vohunazga of [Root.Capital.Capital.GetName] is known to the people as a kind creature of Ahura Mazda, protecting your capital from the Daevas which roam in the darkness.;;;;;;;;;;;[Root.Capital.Capital.GetName] òåïåðü ñëàâèòñÿ òåì, ÷òî çäåñü æèâ¸ò Âîõóíàçãà, ñâÿùåííûé ï¸ñ Àõóðà Ìàçäû, êîòîðûé çàùèùàåò ñòîëèöó îò äýâ, ðûùóùèõ â òåìíîòå.;;x
+EVTDESC_ZP_3;The dog called Vanghapara is known as a vigilant creature of the Spenta Mainyu. As darkness beckons this dog wakes to keep us safe from its evil creatures. This is why it is such a popular pet among [Root.Religion.GetName] families.;;;;;;;;;;;Âàíãõàïàðà - áäèòåëüíîå ñóùåñòâî Ñïåíòû Ìàéíüþ. Ñ íàñòóïëåíèåì òåìíîòû, ýòîò ï¸ñ ñ êîëþ÷åé ñïèíîé íà÷èíàåò ñâîþ îõîòó, îáåðåãàÿ íàñ îò çëûõ ñèë, ïîòîìó ýòî æèâîòíîå òàê ïîïóëÿðíî â [Root.GetRelAdj]ñêèõ ñåìüÿõ.;;x
+EVTDESC_ZP_4;The dog of the water is the most revered of all the dogs. They are what keeps our fields watered and healthy, our bellies full and worries gone.;;;;;;;;;;;Âîäÿíàÿ ñîáàêà ïî÷èòàåòñÿ áîëüøå âñåõ. Îíà îáåðåãàåò ïîëÿ îò çàñóõè, íàðîä îò ãîëîäà, íó è âîîáùå... ïðèíîñèò óäà÷ó.;;x
+EVTOPTA_ZP_1;Vohunazga, the dog without a master.;;;;;;;;;;;Âîõóíàçãà, ñîáàêà áåç õîçÿèíà.;;x
+EVTOPTA_ZP_2;He shall roam free but protected by the [Root.GetOnlyDynastyName].;;;;;;;;;;;Ïóñòü îí áåãàåò íà âîëå, íî ïîä çàùèòîé ìîåé äèíàñòèè.;;x
+EVTOPTA_ZP_3;The Vanghapara shall protect my home well.;;;;;;;;;;;Îí çàùèòèò ìîé äîì.;;x
+EVTOPTA_ZP_4;It is our honor to house the Sag-e Aabi;;;;;;;;;;;Ñàã-å Ààáè - ýòî ÷åñòü äëÿ íàøåãî äîìà.;;x
+EVTOPTB_ZP_1;Vanghapara, the dog with a prickly back.;;;;;;;;;;;Âàíãõàïàðà, ñîáàêà ñ êîëþ÷åé ñïèíîé.;;x
+EVTOPTB_ZP_2;Take him in! He is one of the [Root.GetOnlyDynastyName].;;;;;;;;;;;Âïóñòèòå åãî â äîì, îí æå ÷ëåí ñåìüè.;;x
+EVTOPTC_ZP_1;Sag-e Aabi, the dog of the water.;;;;;;;;;;;Ñàã-å Ààáè, âîäÿíàÿ ñîáàêà.;;x
+EVTOPTD_ZP_1;We need no damned dog!;;;;;;;;;;;Íèêàêóþ! Íàì íå íóæíà ýòà ÷¸ðòîâà ñîáàêà!;;x

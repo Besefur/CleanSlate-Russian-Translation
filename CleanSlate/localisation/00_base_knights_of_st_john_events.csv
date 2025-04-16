@@ -1,35 +1,30 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTNAME8503;Castle of Krak des Chevaliers;;;;;;;;;;;;;x
-EVTNAME8508;Castle of Margat;;;;;;;;;;;;;x
-EVTNAME8513;Castle of Belvoir;;;;;;;;;;;;;x
-EVTNAME8518;Castle of Beth Gibelin;;;;;;;;;;;;;x
-
-EVTDESC8500;To help defend the Holy Land from the infidels, our order should establish castles there. The county of Archa seems like a good candidate for this. I should ask the ruling Count there for permission.;;;;;;;;;;;;;x
-EVTDESC8501;To the Great [Root.GetTitledFirstName],\nYour wisdom and mercy are legendary. The Knights of St. John ask for your help in the Holy War against the infidels. To assist us in our struggle we humbly ask permission to establish a new castle in the County of Archa.;;;;;;;;;;;;;x
-EVTDESC8502;The Knights of St. John have erected the castle of Krak des Chevaliers in [Root.GetName].;;;;;;;;;;;;;x
-EVTDESC8503;The Knights of St. John have established a new holding in the [From.County.GetFullName]. Permission to settle there was granted to them by the noble [FromFrom.GetTitledName]. Their mighty castle will henceforth be known as Krak des Chevaliers.;;;;;;;;;;;;;x
-EVTDESC8505;To help defend the Holy Land from the infidels, our order should establish castles there. The county of Tortosa seems like a good candidate for this. I should ask the ruling Count there for permission.;;;;;;;;;;;;;x
-EVTDESC8506;To the Great [Root.GetTitledFirstName],\nYour wisdom and mercy are legendary. The Knights of St. John ask for your help in the Holy War against the infidels. To assist us in our struggle we humbly ask permission to establish a new castle in the County of Tortosa.;;;;;;;;;;;;;x
-EVTDESC8507;The Knights of St. John have erected the castle of Margat in [Root.GetName].;;;;;;;;;;;;;x
-EVTDESC8508;The Knights of St. John have established a new holding in the [From.County.GetFullName]. Permission to settle there was granted to them by the noble [FromFrom.GetTitledName]. Their mighty castle will henceforth be known as Margat.;;;;;;;;;;;;;x
-EVTDESC8510;To help defend the Holy Land from the infidels, our order should establish castles there. The county of Safed seems like a good candidate for this. I should ask the ruling Count there for permission.;;;;;;;;;;;;;x
-EVTDESC8511;To the Great [Root.GetTitledFirstName],\nYour wisdom and mercy are legendary. The Knights of St. John ask for your help in the Holy War against the infidels. To assist us in our struggle we humbly ask permission to establish a new castle in the County of Safed.;;;;;;;;;;;;;x
-EVTDESC8512;The Knights of St. John have erected the castle of Belvoir in [Root.GetName].;;;;;;;;;;;;;x
-EVTDESC8513;The Knights of St. John have established a new holding in the [From.County.GetFullName]. Permission to settle there was granted to them by the noble [FromFrom.GetTitledName]. Their mighty castle will henceforth be known as Belvoir.;;;;;;;;;;;;;x
-EVTDESC8515;To help defend the Holy Land from the infidels, our order should establish castles there. The county of Hebron seems like a good candidate for this. I should ask the ruling Count there for permission.;;;;;;;;;;;;;x
-EVTDESC8516;To the Great [Root.GetTitledFirstName],\nYour wisdom and mercy are legendary. The Knights of St. John ask for your help in the Holy War against the infidels. To assist us in our struggle we humbly ask permission to establish a new castle in the County of Hebron.;;;;;;;;;;;;;x
-EVTDESC8517;The Knights of St. John have erected the castle of Beth Gibelin in [Root.GetName].;;;;;;;;;;;;;x
-EVTDESC8518;The Knights of St. John have established a new holding in the [From.County.GetFullName]. Permission to settle there was granted to them by the noble [FromFrom.GetTitledName]. Their mighty castle will henceforth be known as Beth Gibelin.;;;;;;;;;;;;;x
-
-EVTOPTA8500;I will write a letter at once.;;;;;;;;;;;;;x
-EVTOPTA8501;Excellent! You have my blessing;;;;;;;;;;;;;x
-EVTOPTA8502;Let it be known to the world!;;;;;;;;;;;;;x
-EVTOPTA8503;I really am a good Christian;;;;;;;;;;;;;x
-
-EVTOPTB8501;An intriguing idea, but not at this time...;;;;;;;;;;;;;x
-EVTOPTB8503;The infidels should tremble!;;;;;;;;;;;;;x
-
-EVTOPTC8501;No religious orders in my territory!;;;;;;;;;;;;;x
-EVTOPTC8503;Curse these infidels!;;;;;;;;;;;;;x
-EVTOPTD8503;Worrisome...;;;;;;;;;;;;;x
+EVTNAME8503;Castle of Krak des Chevaliers;;;;;;;;;;;Kðàê äå Øåâàëüå;;x
+EVTNAME8508;Castle of Margat;;;;;;;;;;;Màðãàò;;x
+EVTNAME8513;Castle of Belvoir;;;;;;;;;;;Bëàäåíèå Áåëüâóàð;;x
+EVTNAME8518;Castle of Beth Gibelin;;;;;;;;;;;Bëàäåíèå Áåéò-Èáåëèí;;x
+EVTDESC8500;To help defend the Holy Land from the infidels, our order should establish castles there. The county of Archa seems like a good candidate for this. I should ask the ruling Count there for permission.;;;;;;;;;;;×òîáû çàùèòèòü Ñâÿòóþ çåìëþ îò íåâåðíûõ, íàø îðäåí äîëæåí îñíîâàòü òàì çàìîê. Îêðóã Àðõà êàæåòñÿ ëó÷øèì ìåñòîì äëÿ ýòîãî. ß äîëæ[Root.GetNaEn] ñïðîñèòü ðàçðåøåíèå íà ñòðîèòåëüñòâî ó ìåñòíîãî ãðàôà.;;x
+EVTDESC8501;To the Great [Root.GetTitledFirstName],\nYour wisdom and mercy are legendary. The Knights of St. John ask for your help in the Holy War against the infidels. To assist us in our struggle we humbly ask permission to establish a new castle in the County of Archa.;;;;;;;;;;;Äëÿ âåëèêîãî [Root.GetTitledFirstName],\nÂàøà ìóäðîñòü è ìèëîñåðäèå ïîèñòèíå ëåãåíäàðíû. Ãîñïèòàëüåðû ïðîñÿò Âàøó ïîìîùü â ñâÿùåííîé âîéíå ïðîòèâ íåâåðíûõ. ×òîáû ïîìî÷ü íàì â íàøåé áîðüáå, ìû ñìèðåííî ïðîñèì ðàçðåøåíèå íà âîçâåäåíèå íîâîãî çàìêà â ãðàôñòâå Àðõà.;;x
+EVTDESC8502;The Knights of St. John have erected the castle of Krak des Chevaliers in [Root.GetName].;;;;;;;;;;;Ãîñïèòàëüåðû âîçâåëè çàìîê Êðàê äå Øåâàëüå â îêðóãå [Root.GetName];;x
+EVTDESC8503;The Knights of St. John have established a new holding in the [From.County.GetFullName]. Permission to settle there was granted to them by the noble [FromFrom.GetTitledName]. Their mighty castle will henceforth be known as Krak des Chevaliers.;;;;;;;;;;;Ãîñïèòàëüåðû ïîëó÷èëè íîâîå âëàäåíèå - [From.County.GetFullName]. Ðàçðåøåíèå ïîñåëèòüñÿ òàì áûëî äàíî áëàãîðîäíûì [FromFrom.GetTitledName]. Èõ ìîãóùåñòâåííûé çàìîê îòíûíå áóäåò èçâåñòåí êàê Êðàê äå Øåâàëüå!;;x
+EVTDESC8505;To help defend the Holy Land from the infidels, our order should establish castles there. The county of Tortosa seems like a good candidate for this. I should ask the ruling Count there for permission.;;;;;;;;;;;×òîáû ïîìî÷ü çàùèòèòü Ñâÿòóþ Çåìëþ îò íåâåðíûõ, íàøåìó îðäåíó íåîáõîäèìî îñíîâàòü òàì íîâûå çàìêè. Êàæåòñÿ, îêðóã Òîðòîñà âïîëíå ïîäîéä¸ò äëÿ ýòîãî. Ñëåäóåò ñïðîñèòü ïîçâîëåíèÿ ó ãðàôà, âëàäåþùåãî ýòîé òåððèòîðèåé.;;x
+EVTDESC8506;To the Great [Root.GetTitledFirstName],\nYour wisdom and mercy are legendary. The Knights of St. John ask for your help in the Holy War against the infidels. To assist us in our struggle we humbly ask permission to establish a new castle in the County of Tortosa.;;;;;;;;;;;[Root.GetTitledFirstName],\nÂàøè ìóäðîñòü è ìèëîñåðäèå - ëåãåíäàðíû. Ãîñïèòàëüåðàì íåîáõîäèìà Âàøà ïîìîùü â Ñâÿòîé Âîéíå ïðîòèâ íåâåðíûõ. Ìû ñìèðåííî ïðîñèì ðàçðåøåíèÿ îñíîâàòü íîâûé çàìîê â îêðóãå Òîðòîñà.;;x
+EVTDESC8507;The Knights of St. John have erected the castle of Margat in [Root.GetName].;;;;;;;;;;;Ãîñïèòàëüåðû âîçâåëè çàìîê Ìàðãàò â îêðóãå [Root.GetName];;x
+EVTDESC8508;The Knights of St. John have established a new holding in the [From.County.GetFullName]. Permission to settle there was granted to them by the noble [FromFrom.GetTitledName]. Their mighty castle will henceforth be known as Margat.;;;;;;;;;;;[FromFrom.GetTitledName] ìèëîñòèâî äà¸ò ïîçâîëåíèå Ãîñïèòàëüåðàì îñíîâàòü âëàäåíèå â îêðóãå [From.County.GetName]. Íîâûé çàìîê îòíûíå áóäåò íàçûâàòüñÿ Ìàðãàò.;;x
+EVTDESC8510;To help defend the Holy Land from the infidels, our order should establish castles there. The county of Safed seems like a good candidate for this. I should ask the ruling Count there for permission.;;;;;;;;;;;×òîáû ïîìî÷ü çàùèòèòü Ñâÿòóþ Çåìëþ îò íåâåðíûõ, íàøåìó îðäåíó íåîáõîäèìî îñíîâàòü òàì íîâûå çàìêè. Êàæåòñÿ, îêðóã Ñàôåä âïîëíå ïîäîéä¸ò äëÿ ýòîãî. Ñëåäóåò ñïðîñèòü ïîçâîëåíèÿ ó ãðàôà, âëàäåþùåãî ýòîé òåððèòîðèåé.;;x
+EVTDESC8511;To the Great [Root.GetTitledFirstName],\nYour wisdom and mercy are legendary. The Knights of St. John ask for your help in the Holy War against the infidels. To assist us in our struggle we humbly ask permission to establish a new castle in the County of Safed.;;;;;;;;;;;[Root.GetTitledFirstName],\nÂàøè ìóäðîñòü è ìèëîñåðäèå - ëåãåíäàðíû. Ãîñïèòàëüåðàì íåîáõîäèìà Âàøà ïîìîùü â Ñâÿòîé Âîéíå ïðîòèâ íåâåðíûõ. Ìû ñìèðåííî ïðîñèì ðàçðåøåíèÿ îñíîâàòü íîâûé çàìîê â îêðóãå Ñàôåä.;;x
+EVTDESC8512;The Knights of St. John have erected the castle of Belvoir in [Root.GetName].;;;;;;;;;;;Ãîñïèòàëüåðû âîçâåëè çàìîê Áåëüâóàð â îêðóãå [Root.GetName];;x
+EVTDESC8513;The Knights of St. John have established a new holding in the [From.County.GetFullName]. Permission to settle there was granted to them by the noble [FromFrom.GetTitledName]. Their mighty castle will henceforth be known as Belvoir.;;;;;;;;;;;[FromFrom.GetTitledName] ìèëîñòèâî äà¸ò ïîçâîëåíèå Ãîñïèòàëüåðàì îñíîâàòü âëàäåíèå â îêðóãå [From.County.GetName]. Íîâûé çàìîê îòíûíå áóäåò íàçûâàòüñÿ - Áåëüâóàð.;;x
+EVTDESC8515;To help defend the Holy Land from the infidels, our order should establish castles there. The county of Hebron seems like a good candidate for this. I should ask the ruling Count there for permission.;;;;;;;;;;;×òîáû ïîìî÷ü çàùèòèòü Ñâÿòóþ Çåìëþ îò íåâåðíûõ, íàøåìó îðäåíó íåîáõîäèìî îñíîâàòü òàì íîâûå çàìêè. Êàæåòñÿ, îêðóã Õåâðîí âïîëíå ïîäîéä¸ò äëÿ ýòîãî. Ñëåäóåò ñïðîñèòü ïîçâîëåíèÿ ó ãðàôà, âëàäåþùåãî ýòîé òåððèòîðèåé.;;x
+EVTDESC8516;To the Great [Root.GetTitledFirstName],\nYour wisdom and mercy are legendary. The Knights of St. John ask for your help in the Holy War against the infidels. To assist us in our struggle we humbly ask permission to establish a new castle in the County of Hebron.;;;;;;;;;;;[Root.GetTitledFirstName],\nÂàøè ìóäðîñòü è ìèëîñåðäèå - ëåãåíäàðíû. Ãîñïèòàëüåðàì íåîáõîäèìà Âàøà ïîìîùü â Ñâÿòîé Âîéíå ïðîòèâ íåâåðíûõ. Ìû ñìèðåííî ïðîñèì ðàçðåøåíèÿ îñíîâàòü íîâûé çàìîê â îêðóãå Õåâðîí.;;x
+EVTDESC8517;The Knights of St. John have erected the castle of Beth Gibelin in [Root.GetName].;;;;;;;;;;;Ðûöàðè îðäåíà Ñâÿòîãî Èîàííà âîçâåëè çàìîê Áåéò-Èáåëèí â îêðóãå [Root.GetName];;x
+EVTDESC8518;The Knights of St. John have established a new holding in the [From.County.GetFullName]. Permission to settle there was granted to them by the noble [FromFrom.GetTitledName]. Their mighty castle will henceforth be known as Beth Gibelin.;;;;;;;;;;;[FromFrom.GetTitledName] ìèëîñòèâî äà¸ò ïîçâîëåíèå Ãîñïèòàëüåðàì îñíîâàòü âëàäåíèå â îêðóãå [From.County.GetName]. Íîâûé çàìîê îòíûíå áóäåò íàçûâàòüñÿ - Áåéò-Èáåëèí.;;x
+EVTOPTA8500;I will write a letter at once.;;;;;;;;;;;ß íåìåäëåííî íàïèøó ïèñüìî;;x
+EVTOPTA8501;Excellent! You have my blessing;;;;;;;;;;;Îòëè÷íî! Ó Âàñ åñòü ìî¸ áëàãîñëîâåíèå;;x
+EVTOPTA8502;Let it be known to the world!;;;;;;;;;;;Äà áóäåò èçâåñòíî âñåìó ìèðó!;;x
+EVTOPTA8503;I really am a good Christian;;;;;;;;;;;ß èñòîâî âåðóþ âî Õðèñòà;;x
+EVTOPTB8501;An intriguing idea, but not at this time...;;;;;;;;;;;Èíòðèãóþùàÿ èäåÿ, íî íå â ýòîò ðàç...;;x
+EVTOPTB8503;The infidels should tremble!;;;;;;;;;;;Íåâåðíûå äîëæíû òðåïåòàòü!;;x
+EVTOPTC8501;No religious orders in my territory!;;;;;;;;;;;Íèêàêèõ ðåëèãèîçíûõ îðäåíîâ íà ìîåé òåððèòîðèè!;;x
+EVTOPTC8503;Curse these infidels!;;;;;;;;;;;Ïðîêëÿòüå íà ãîëîâû íåâåðíûõ!;;x
+EVTOPTD8503;Worrisome...;;;;;;;;;;;Î÷åíü òðåâîæíî…;;x

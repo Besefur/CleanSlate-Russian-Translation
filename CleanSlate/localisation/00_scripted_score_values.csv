@@ -1,150 +1,150 @@
-POPE_AIREASON_MODIFIER_EXCOM_TARGET_HAS_REPENTED_SINS;[FromFrom.GetTitledFirstName] has been already absolved of [FromFrom.GetHerHis] sins;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_BAPTIZED_BY_ME;[From.GetTitledFirstName] §YBaptized§! [Root.GetTitledFirstName];;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_BAPTIZED_BY_ME_TARGET;[From.GetTitledFirstName] §YBaptized§! [FromFrom.GetTitledFirstName];;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_BAPTIZED_CHILD;[Root.GetTitledFirstName] was §YBaptized§! by the Pope;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_BAPTIZED_CHILD_TARGET;[FromFrom.GetTitledFirstName] was §YBaptized§! by the Pope;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_BISHOP_EDUCATION;[FromFrom.GetTitledFirstName] received a §YTheological Education§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_BISHOP_LEARNING;[FromFrom.GetTitledFirstName]'s §YLearning§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_CLAIM_ON_TARGET;[Root.GetTitledFirstName] has a claim on [FromFrom.GetTitledFirstName]'s title;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_CLAIM_ON_TARGET_STRONG;[Root.GetTitledFirstName] has a strong claim on [FromFrom.GetTitledFirstName]'s title;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_CLAIM_SAME_CLOSE_RELATIVE_OF_TARGET;[Root.GetTitledFirstName] is a close relative of [FromFrom.GetTitledFirstName];;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_CLAIM_SAME_CULTURE_AS_TARGET;[Root.GetTitledFirstName] is of the same §YCulture§! as [FromFrom.GetTitledFirstName];;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_CLAIM_SAME_DYNASTY_AS_TARGET;[Root.GetTitledFirstName] belongs to the [FromFrom.GetOnlyDynastyName] dynasty;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_CLAIM_SAME_LOWER_TIER_THAN_TARGET;[FromFrom.GetTitledFirstName] is merely a §Y[FromFrom.PrimaryTitle.GetRulerTitle]§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_CLAIM_TITLE_HELD_BY_DYNASTY;[FromFromFrom.GetName] was historically held by the [Root.GetOnlyDynastyName] dynasty;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_CLOSE_RELATIVE;[From.GetTitledFirstName] is a close relative of [Root.GetTitledFirstName];;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_CLOSE_RELATIVE_TARGET;[From.GetTitledFirstName] is a close relative of [FromFrom.GetTitledFirstName];;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_CONTROLLED_CARDINALS;[Root.GetTitledFirstName] has influence over the §YCollege of Cardinals§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_CONTROLLED_CARDINALS_TARGET;[FromFrom.GetTitledFirstName] has influence over the §YCollege of Cardinals§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_CROWNED_BY_ME;[From.GetTitledFirstName] crowned [Root.GetTitledFirstName];;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_CROWNED_BY_ME_TARGET;[From.GetTitledFirstName] crowned [FromFrom.GetTitledFirstName];;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_CROWNED_BY_POPE;[Root.GetTitledFirstName] was §YCrowned by the Pope§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_CROWNED_BY_POPE_TARGET;[FromFrom.GetTitledFirstName] was §YCrowned by the Pope§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_CRUSADE_HOLY_LAND;[FromFrom.GetTitledFirstName] is occupying the §YHoly Land§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_CRUSADE_POPE_SYMPATHETIC;[From.GetTitledFirstName] is §YSympathetic§! towards [FromFrom.GetTitledFirstName]'s faith;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_CRUSADE_REALM_SIZE_TARGET;[FromFrom.GetTitledFirstName]'s realm is a threat to all of the [From.Religion.GetName] world;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_CRUSADE_REALM_SIZE_TARGET_TINY;[FromFrom.GetTitledFirstName]'s realm is inconsequential;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_CRUSADE_ROME;[FromFrom.GetTitledFirstName] is occupying the §YHoly See§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_CRUSADE_ZEALOUS_POPE;[From.GetTitledFirstName] is §YZealous§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_FAITH_THREATENED;The [From.Religion.GetName] faith is under siege;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_FAITH_THREATENED_FORREALS;The [From.Religion.GetName] faith is on the verge of destruction;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_FREE_INVESTITURE;[Root.GetTitledFirstName] enforces the §YFree Investiture§! law;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_FREE_INVESTITURE_TARGET;[FromFrom.GetTitledFirstName] enforces the §YFree Investiture§! law;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_HEIRLESSNESS;[FromFrom.GetTitledFirstName] is §YOld§! and §YHeirless§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_HIGH_TIER_EMPEROR;[Root.GetFirstName] is already an §Y[Root.GetTitle]§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_HIGH_TIER_KING;[Root.GetFirstName] is already a §Y[Root.GetTitle]§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_IS_EXCOMMUNICATED;[Root.GetTitledFirstName] has been §YExcommunicated§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_IS_EXCOMMUNICATED_TARGET;[FromFrom.GetTitledFirstName] has been §YExcommunicated§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_LIFT_EX_ON_YOURSELF;[FromFrom.GetTitledFirstName] must repent of [FromFrom.GetHerHis] sins;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_LIFT_EX_WHILE_WARRING;[FromFrom.GetTitledFirstName] is waging war against the Holy See;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_LOAN_CHURCH_IS_BANKRUPT_REALLY;The Church is bankrupt;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_LOAN_CHURH_IS_BANKRUPT;The Church does not have the funds to finance [Root.GetTitledFirstName];;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_LOAN_POPE_GREEDY;The Church's money is sacred;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_LOAN_POPE_NO_REFUNDS;[Root.GetTitledFirstName]'s donation will not be refunded;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_LOAN_RULER_IS_RICH;[Root.GetTitledFirstName] is already wealthy;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_MADE_ME_CARDINAL;[Root.GetTitledFirstName] helped [From.GetTitledFirstName] become a §YCardinal§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_MADE_ME_CARDINAL_TARGET;[FromFrom.GetTitledFirstName] helped [From.GetTitledFirstName] become a §YCardinal§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_MADE_ME_POPE;[Root.GetTitledFirstName] helped [From.GetTitledFirstName] become §YPope§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_MADE_ME_POPE_TARGET;[FromFrom.GetTitledFirstName] helped [From.GetTitledFirstName] become §YPope§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_MARRIAGE_BARE_WOMB;[FromFrom.GetTitledFirstName]'s womb is barren;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_MARRIAGE_EUNUCH;[FromFrom.GetTitledFirstName] is no longer a man;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_MARRIAGE_INCESTUOUS;[Root.GetTitledFirstName]'s marriage is incestuous;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_MY_FRIEND;[Root.GetTitledFirstName] is [From.GetTitledFirstName]'s §YFriend§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_MY_FRIEND_TARGET;[FromFrom.GetTitledFirstName] is [From.GetTitledFirstName]'s §YFriend§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_MY_LOVER;[Root.GetTitledFirstName] is [From.GetTitledFirstName]'s §YLover§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_MY_LOVER_TARGET;[FromFrom.GetTitledFirstName] is [From.GetTitledFirstName]'s §YLover§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_MY_PARENT;[From.GetTitledFirstName] is the child of [Root.GetTitledFirstName];;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_MY_PARENT_TARGET;[From.GetTitledFirstName] is the child of [FromFrom.GetTitledFirstName];;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_MY_RIVAL;[Root.GetTitledFirstName] is [From.GetTitledFirstName]'s §YRival§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_MY_RIVAL_TARGET;[FromFrom.GetTitledFirstName] is [From.GetTitledFirstName]'s §YRival§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_NAPOLEON_RULER;[Root.GetTitledFirstName] denied the Church's authority;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_NAPOLEON_RULER_TARGET;[FromFrom.GetTitledFirstName] denied the Church's authority;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_OPINION_RULER;[From.GetTitledFirstName]'s §YOpinion§! of [Root.GetTitledFirstName];;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_OPINION_RULER_TARGET;[From.GetTitledFirstName]'s §YOpinion§! of [FromFrom.GetTitledFirstName];;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_PET_POPE;[Root.GetTitledFirstName] is my liege;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_PET_POPE_TARGET;[FromFrom.GetTitledFirstName] is [From.GetTitledFirstName]'s liege;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_PLEDGED_TO_CRUSADE;[Root.GetTitledFirstName] has pledged [Root.GetHerHis] help on the coming §YCrusade§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_PLEDGED_TO_CRUSADE_TARGET;[FromFrom.GetTitledFirstName] has pledged [FromFrom.GetHerHis] help on the coming §YCrusade§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_REALM_SIZE;[Root.GetTitledFirstName] controls a large §YRealm§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_REALM_SIZE_IMPERIAL;[Root.GetTitledFirstName] controls a vast §YRealm§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_REALM_SIZE_TARGET;[FromFrom.GetTitledFirstName]'s §YRealm Size§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_REALM_SIZE_TARGET_TINY;[FromFrom.GetTitledFirstName]'s §YRealm Size§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_CHARITABLE;[Root.GetTitledFirstName] is §YCharitable§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_CHARITABLE_NEGATIVE;[Root.GetTitledFirstName] is §YCharitable§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_CHARITABLE_NEGATIVE_TARGET;[FromFrom.GetTitledFirstName] is §YCharitable§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_CHARITABLE_TARGET;[FromFrom.GetTitledFirstName] is §YCharitable§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_CHASTE;[Root.GetTitledFirstName] is §YChaste§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_CHASTE_NEGATIVE;[Root.GetTitledFirstName] is §YChaste§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_CHASTE_NEGATIVE_TARGET;[FromFrom.GetTitledFirstName] is §YChaste§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_CHASTE_TARGET;[FromFrom.GetTitledFirstName] is §YChaste§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_CYNICAL;[Root.GetTitledFirstName] is §YCynical§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_CYNICAL_TARGET;[FromFrom.GetTitledFirstName] is §YCynical§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_DILIGENT;[Root.GetTitledFirstName] is §YDiligent§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_DILIGENT_NEGATIVE;[Root.GetTitledFirstName] is §YDiligent§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_DILIGENT_NEGATIVE_TARGET;[FromFrom.GetTitledFirstName] is §YDiligent§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_DILIGENT_TARGET;[FromFrom.GetTitledFirstName] is §YDiligent§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_ENVIOUS;[Root.GetTitledFirstName] is §YEnvious§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_ENVIOUS_TARGET;[FromFrom.GetTitledFirstName] is §YEnvious§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_FACTIONS_AGAINST_ANTIPOPE;[Root.GetTitledFirstName] is opposing an §YAntipope§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_GLUTTONOUS;[Root.GetTitledFirstName] is §YGluttonous§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_GLUTTONOUS_TARGET;[FromFrom.GetTitledFirstName] is §YGluttonous§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_GREEDY;[Root.GetTitledFirstName] is §YGreedy§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_GREEDY_TARGET;[FromFrom.GetTitledFirstName] is §YGreedy§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_HAS_ASKED_MONEY_ALREADY;[Root.GetTitledFirstName] has already been granted a loan from the Holy See;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_HAS_REQUESTED_EXCOM_ALREADY;[Root.GetTitledFirstName] has recently requested an Excommunication;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_HAS_SAINTLY_BLOODLINE;[Root.GetTitledFirstName] is a §YSaint§!'s descendant;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_HAS_SAINTLY_BLOODLINE_TARGET;[FromFrom.GetTitledFirstName] is a §YSaint§!'s descendant;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_HUMBLE;[Root.GetTitledFirstName] is §YHumble§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_HUMBLE_NEGATIVE;[Root.GetTitledFirstName] is §YHumble§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_HUMBLE_NEGATIVE_TARGET;[FromFrom.GetTitledFirstName] is §YHumble§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_HUMBLE_TARGET;[FromFrom.GetTitledFirstName] is §YHumble§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_IS_BABY;[FromFrom.GetTitledFirstName] is an §YInfant§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_IS_CHILD;[FromFrom.GetTitledFirstName] is a §YChild§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_IS_FEMALE;[FromFrom.GetTitledFirstName] is a §YWoman§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_IS_KINSLAYER;[Root.GetTitledFirstName] is a §YKinslayer§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_IS_MALE;[FromFrom.GetTitledFirstName] is a §YMan§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_IS_SINNER;[Root.GetTitledFirstName] is a §YSinner§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_KIND;[Root.GetTitledFirstName] is §YKind§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_KIND_NEGATIVE;[Root.GetTitledFirstName] is §YKind§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_KIND_NEGATIVE_TARGET;[FromFrom.GetTitledFirstName] is §YKind§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_KIND_TARGET;[FromFrom.GetTitledFirstName] is §YKind§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_LUSTFUL;[Root.GetTitledFirstName] is §YLustful§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_LUSTFUL_TARGET;[FromFrom.GetTitledFirstName] is §YLustful§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_NO_PRIEST_EXCOMMUNICATION_DEMANDED;[FromFrom.GetTitledFirstName] is a §YPriest§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_OPPOSES_EXCOMMUNICATED_LIEGE;[Root.GetTitledFirstName] is opposing an §YExcommunicated§! ruler;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_PATIENT;[Root.GetTitledFirstName] is §YPatient§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_PATIENT_NEGATIVE;[Root.GetTitledFirstName] is §YPatient§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_PATIENT_NEGATIVE_TARGET;[FromFrom.GetTitledFirstName] is §YPatient§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_PATIENT_TARGET;[FromFrom.GetTitledFirstName] is §YPatient§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_PIETY;[Root.GetTitledFirstName]'s §YPiety§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_PIETY_TARGET;[FromFrom.GetTitledFirstName]'s §YPiety§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_PROTECTS_ANTIPOPE;I want [FromFrom.GetTitledFirstName]'s §YAntipope§! deposed;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_PROUD;[Root.GetTitledFirstName] is §YProud§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_PROUD_TARGET;[FromFrom.GetTitledFirstName] is §YProud§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_SLOTHFUL;[Root.GetTitledFirstName] is §YSlothful§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_SLOTHFUL_TARGET;[FromFrom.GetTitledFirstName] is §YSlothful§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_TEMPERATE;[Root.GetTitledFirstName] is §YTemperate§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_TEMPERATE_NEGATIVE;[Root.GetTitledFirstName] is §YTemperate§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_TEMPERATE_NEGATIVE_TARGET;[FromFrom.GetTitledFirstName] is §YTemperate§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_TEMPERATE_TARGET;[FromFrom.GetTitledFirstName] is §YTemperate§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_WROTH;[Root.GetTitledFirstName] is §YWroth§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_WROTH_TARGET;[FromFrom.GetTitledFirstName] is §YWroth§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_ZEALOUS;[Root.GetTitledFirstName] is §YZealous§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_ZEALOUS_NEGATIVE;[Root.GetTitledFirstName] is §YZealous§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_ZEALOUS_NEGATIVE_TARGET;[FromFrom.GetTitledFirstName] is §YZealous§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_RULER_ZEALOUS_TARGET;[FromFrom.GetTitledFirstName] is §YZealous§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_SAME_CULTURE;[Root.GetTitledFirstName] is of the same §YCulture§! as [From.GetTitledFirstName];;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_SAME_CULTURE_TARGET;[FromFrom.GetTitledFirstName] is of the same §YCulture§! as [From.GetTitledFirstName];;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_SAME_DYNASTY;[Root.GetTitledFirstName] is of [From.GetTitledFirstName]'s §YDynasty§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_SAME_DYNASTY_TARGET;[FromFrom.GetTitledFirstName] is of [From.GetTitledFirstName]'s §YDynasty§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_SPOUSE_FAITHFUL;[FromFrom.GetTitledFirstName] is a faithful spouse;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_SPOUSE_HEATHEN;[FromFrom.GetTitledFirstName] is a heathen;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_SPOUSE_UNFAITHFUL;[FromFrom.GetTitledFirstName] was unfaithful;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_TARGET_IS_KINSLAYER;[FromFrom.GetTitledFirstName] is a §YKinslayer§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_TARGET_IS_SINNER;[FromFrom.GetTitledFirstName] is a §YSinner§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_TARGET_OF_CLAIM_IS_FEMALE;[FromFrom.GetTitledFirstName] is a §YWoman§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_TARGET_OF_CLAIM_IS_MALE;[FromFrom.GetTitledFirstName] is a §YMan§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_UNCROWNED_RULER;[Root.GetTitledFirstName] has not been §YCrowned§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_UNCROWNED_RULER_TARGET;[FromFrom.GetTitledFirstName] has not been §YCrowned§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_WAGING_CRUSADE;[Root.GetTitledFirstName] is waging war against the infidels in the current §YCrusade§!;;;;;;;;;;;;;x
-POPE_AIREASON_MODIFIER_WAGING_CRUSADE_TARGET;[FromFrom.GetTitledFirstName] is waging war against the infidels in the current §YCrusade§!;;;;;;;;;;;;;x
+POPE_AIREASON_MODIFIER_EXCOM_TARGET_HAS_REPENTED_SINS;[FromFrom.GetTitledFirstName] has been already absolved of [FromFrom.GetHerHis] sins;;;;;;;;;;;[FromFrom.GetTitledFirstName] óæå èñêóïèë[FromFrom.GetEndA] ñâîè ãðåõè;;x
+POPE_AIREASON_MODIFIER_BAPTIZED_BY_ME;[From.GetTitledFirstName] §YBaptized§! [Root.GetTitledFirstName];;;;;;;;;;;ß §Yêðåñòèë[From.GetEndA]§! òåáÿ;;x
+POPE_AIREASON_MODIFIER_BAPTIZED_BY_ME_TARGET;[From.GetTitledFirstName] §YBaptized§! [FromFrom.GetTitledFirstName];;;;;;;;;;;ß §Yêðåñòèë[From.GetEndA]§! [FromFrom.GetHersHis];;x
+POPE_AIREASON_MODIFIER_BAPTIZED_CHILD;[Root.GetTitledFirstName] was §YBaptized§! by the Pope;;;;;;;;;;;Òû áûë[Root.GetEndA] §Yêðåøåí[Root.GetEndA]§! Ïàïîé;;x
+POPE_AIREASON_MODIFIER_BAPTIZED_CHILD_TARGET;[FromFrom.GetTitledFirstName] was §YBaptized§! by the Pope;;;;;;;;;;;[FromFrom.GetTitledFirstName] áûë[FromFrom.GetEndA] §Yêðåùåí[FromFrom.GetEndA]§! Ïàïîé;;x
+POPE_AIREASON_MODIFIER_BISHOP_EDUCATION;[FromFrom.GetTitledFirstName] received a §YTheological Education§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] èìååò §Yòåîëîãè÷åñêîå îáðàçîâàíèå§!;;x
+POPE_AIREASON_MODIFIER_BISHOP_LEARNING;[FromFrom.GetTitledFirstName]'s §YLearning§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] âûñîêî §Yîáðàçîâàí[FromFrom.GetEndNa]§!;;x
+POPE_AIREASON_MODIFIER_CLAIM_ON_TARGET;[Root.GetTitledFirstName] has a claim on [FromFrom.GetTitledFirstName]'s title;;;;;;;;;;;Ó òåáÿ åñòü ïðåòåíçèÿ íà [FromFrom.GetHersHis] òèòóë;;x
+POPE_AIREASON_MODIFIER_CLAIM_ON_TARGET_STRONG;[Root.GetTitledFirstName] has a strong claim on [FromFrom.GetTitledFirstName]'s title;;;;;;;;;;;Ó òåáÿ åñòü ñèëüíàÿ ïðåòåíçèÿ íà [FromFrom.GetHersHis] òèòóë;;x
+POPE_AIREASON_MODIFIER_CLAIM_SAME_CLOSE_RELATIVE_OF_TARGET;[Root.GetTitledFirstName] is a close relative of [FromFrom.GetTitledFirstName];;;;;;;;;;;[FromFrom.GetTitledFirstName] - òâ[FromFrom.GetOyaOy] [FromFrom.GetRootRelation];;x
+POPE_AIREASON_MODIFIER_CLAIM_SAME_CULTURE_AS_TARGET;[Root.GetTitledFirstName] is of the same §YCulture§! as [FromFrom.GetTitledFirstName];;;;;;;;;;;Òû è [FromFrom.GetTitledFirstName] - îá[FromFrom.GetRootEndEA] §Y[FromFrom.GetCulturePlural]§!;;x
+POPE_AIREASON_MODIFIER_CLAIM_SAME_DYNASTY_AS_TARGET;[Root.GetTitledFirstName] belongs to the [FromFrom.GetOnlyDynastyName] dynasty;;;;;;;;;;;[FromFrom.GetTitledFirstName] - §Y[FromFrom.GetOnlyDynastyName]§!, êàê è òû;;x
+POPE_AIREASON_MODIFIER_CLAIM_SAME_LOWER_TIER_THAN_TARGET;[FromFrom.GetTitledFirstName] is merely a §Y[FromFrom.PrimaryTitle.GetRulerTitle]§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] - âñåãî ëèøü §Y[FromFrom.GetTitle]§!;;x
+POPE_AIREASON_MODIFIER_CLAIM_TITLE_HELD_BY_DYNASTY;[FromFromFrom.GetName] was historically held by the [Root.GetOnlyDynastyName] dynasty;;;;;;;;;;;§Y[FromFromFrom.GetAdjective]ñêèå§! çåìëè èñòîðè÷åñêè ïðèíàäëåæàëè äèíàñòèè §Y[Root.GetOnlyDynastyName]§!;;x
+POPE_AIREASON_MODIFIER_CLOSE_RELATIVE;[From.GetTitledFirstName] is a close relative of [Root.GetTitledFirstName];;;;;;;;;;;Ìû ñ òîáîé - áëèçêèå ðîäñòâåííèêè;;x
+POPE_AIREASON_MODIFIER_CLOSE_RELATIVE_TARGET;[From.GetTitledFirstName] is a close relative of [FromFrom.GetTitledFirstName];;;;;;;;;;;Ìû ñ í[FromFrom.GetEyIm] - áëèçêèå ðîäñòâåííèêè;;x
+POPE_AIREASON_MODIFIER_CONTROLLED_CARDINALS;[Root.GetTitledFirstName] has influence over the §YCollege of Cardinals§!;;;;;;;;;;;Òû èìååøü âëèÿíèå íà §Yêîëëåãèþ êàðäèíàëîâ§!;;x
+POPE_AIREASON_MODIFIER_CONTROLLED_CARDINALS_TARGET;[FromFrom.GetTitledFirstName] has influence over the §YCollege of Cardinals§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] èìååò âëèÿíèå íà §Yêîëëåãèþ êàðäèíàëîâ§!;;x
+POPE_AIREASON_MODIFIER_CROWNED_BY_ME;[From.GetTitledFirstName] crowned [Root.GetTitledFirstName];;;;;;;;;;;ß §Yêîðîíîâàë[From.GetEndA]§! òåáÿ;;x
+POPE_AIREASON_MODIFIER_CROWNED_BY_ME_TARGET;[From.GetTitledFirstName] crowned [FromFrom.GetTitledFirstName];;;;;;;;;;;ß §Yêîðîíîâàë[From.GetEndA]§! [FromFrom.GetHersHis];;x
+POPE_AIREASON_MODIFIER_CROWNED_BY_POPE;[Root.GetTitledFirstName] was §YCrowned by the Pope§!;;;;;;;;;;;Òû áûë[Root.GetEndA] §Yêîðîíîâàí[Root.GetEndA] Ïàïîé§!;;x
+POPE_AIREASON_MODIFIER_CROWNED_BY_POPE_TARGET;[FromFrom.GetTitledFirstName] was §YCrowned by the Pope§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] áûë[FromFrom.GetEndA] §Yêîðîíîâàí[FromFrom.GetEndA] Ïàïîé§!;;x
+POPE_AIREASON_MODIFIER_CRUSADE_HOLY_LAND;[FromFrom.GetTitledFirstName] is occupying the §YHoly Land§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] îêêóïèðîâàë[FromFrom.GetEndA] §YÑâÿòóþ çåìëþ§!;;x
+POPE_AIREASON_MODIFIER_CRUSADE_POPE_SYMPATHETIC;[From.GetTitledFirstName] is §YSympathetic§! towards [FromFrom.GetTitledFirstName]'s faith;;;;;;;;;;;ß §Yñèìïàòèçèðóþ§! [FromFrom.GetHersHis] âåðå;;x
+POPE_AIREASON_MODIFIER_CRUSADE_REALM_SIZE_TARGET;[FromFrom.GetTitledFirstName]'s realm is a threat to all of the [From.Religion.GetName] world;;;;;;;;;;;[FromFrom.GetHersHisCap] ñòðàíà óãðîæàåò âñåìó [From.GetRelAdj]ñêîìó ìèðó;;x
+POPE_AIREASON_MODIFIER_CRUSADE_REALM_SIZE_TARGET_TINY;[FromFrom.GetTitledFirstName]'s realm is inconsequential;;;;;;;;;;;[FromFrom.GetHersHisCap] ñòðàíà íå èìååò çíà÷åíèÿ;;x
+POPE_AIREASON_MODIFIER_CRUSADE_ROME;[FromFrom.GetTitledFirstName] is occupying the §YHoly See§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] îêêóïèðîâàë[FromFrom.GetEndA] §YÑâÿòîé Ïðåñòîë§!;;x
+POPE_AIREASON_MODIFIER_CRUSADE_ZEALOUS_POPE;[From.GetTitledFirstName] is §YZealous§!;;;;;;;;;;;ß §Yíàáîæí[From.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_FAITH_THREATENED;The [From.Religion.GetName] faith is under siege;;;;;;;;;;;[From.GetReligionFullName] ïîä óãðîçîé;;x
+POPE_AIREASON_MODIFIER_FAITH_THREATENED_FORREALS;The [From.Religion.GetName] faith is on the verge of destruction;;;;;;;;;;;[From.GetReligionFullName] íà ãðàíè óíè÷òîæåíèÿ;;x
+POPE_AIREASON_MODIFIER_FREE_INVESTITURE;[Root.GetTitledFirstName] enforces the §YFree Investiture§! law;;;;;;;;;;;Òû óñòàíîâèë[Root.GetEndA] §Yñâîáîäíóþ èíâåñòèòóðó§!;;x
+POPE_AIREASON_MODIFIER_FREE_INVESTITURE_TARGET;[FromFrom.GetTitledFirstName] enforces the §YFree Investiture§! law;;;;;;;;;;;[FromFrom.GetTitledFirstName] óñòàíîâèë[FromFrom.GetEndA] §Yñâîáîäíóþ èíâåñòèòóðó§!;;x
+POPE_AIREASON_MODIFIER_HEIRLESSNESS;[FromFrom.GetTitledFirstName] is §YOld§! and §YHeirless§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] §Yñòàð[FromFrom.GetEndA]§! è íå èìååò §Yíàñëåäíèêîâ§!;;x
+POPE_AIREASON_MODIFIER_HIGH_TIER_EMPEROR;[Root.GetFirstName] is already an §Y[Root.GetTitle]§!;;;;;;;;;;;[Root.GetFirstName] - §Y[Root.GetTitle]§!;;x
+POPE_AIREASON_MODIFIER_HIGH_TIER_KING;[Root.GetFirstName] is already a §Y[Root.GetTitle]§!;;;;;;;;;;;[Root.GetFirstName] - §Y[Root.GetTitle]§!;;x
+POPE_AIREASON_MODIFIER_IS_EXCOMMUNICATED;[Root.GetTitledFirstName] has been §YExcommunicated§!;;;;;;;;;;;Òû §Yîòëó÷åí[Root.GetEndA]§!;;x
+POPE_AIREASON_MODIFIER_IS_EXCOMMUNICATED_TARGET;[FromFrom.GetTitledFirstName] has been §YExcommunicated§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] §Yîòëó÷åí[FromFrom.GetEndA]§!;;x
+POPE_AIREASON_MODIFIER_LIFT_EX_ON_YOURSELF;[FromFrom.GetTitledFirstName] must repent of [FromFrom.GetHerHis] sins;;;;;;;;;;;[FromFrom.GetTitledFirstName] äîëæ[FromFrom.GetNaEn] èñêóïèòü ñâîè ãðåõè;;x
+POPE_AIREASON_MODIFIER_LIFT_EX_WHILE_WARRING;[FromFrom.GetTitledFirstName] is waging war against the Holy See;;;;;;;;;;;[FromFrom.GetTitledFirstName] âåä¸ò âîéíó ïðîòèâ Ñâÿòîãî Ïðåñòîëà;;x
+POPE_AIREASON_MODIFIER_LOAN_CHURCH_IS_BANKRUPT_REALLY;The Church is bankrupt;;;;;;;;;;;Öåðêîâü - áàíêðîò;;x
+POPE_AIREASON_MODIFIER_LOAN_CHURH_IS_BANKRUPT;The Church does not have the funds to finance [Root.GetTitledFirstName];;;;;;;;;;;Öåðêîâü íå îáëàäàåò äîñòàòî÷íûìè ôèíàíñàìè, ÷òîáû ïîìî÷ü òåáå;;x
+POPE_AIREASON_MODIFIER_LOAN_POPE_GREEDY;The Church's money is sacred;;;;;;;;;;;Äåíüãè öåðêâè ñâÿùåííû;;x
+POPE_AIREASON_MODIFIER_LOAN_POPE_NO_REFUNDS;[Root.GetTitledFirstName]'s donation will not be refunded;;;;;;;;;;;Òâîè ïîæåðòâîâàíèÿ íå áóäóò âîçâðàùåíû;;x
+POPE_AIREASON_MODIFIER_LOAN_RULER_IS_RICH;[Root.GetTitledFirstName] is already wealthy;;;;;;;;;;;Òû è òàê áîãàò[Root.GetEndA];;x
+POPE_AIREASON_MODIFIER_MADE_ME_CARDINAL;[Root.GetTitledFirstName] helped [From.GetTitledFirstName] become a §YCardinal§!;;;;;;;;;;;Òû ïîìîã[Root.GetNoneE] ìíå ñòàòü §Yêàðäèíàëîì§!;;x
+POPE_AIREASON_MODIFIER_MADE_ME_CARDINAL_TARGET;[FromFrom.GetTitledFirstName] helped [From.GetTitledFirstName] become a §YCardinal§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] ïîìîã[FromFrom.GetNoneE] ìíå ñòàòü §Yêàðäèíàëîì§!;;x
+POPE_AIREASON_MODIFIER_MADE_ME_POPE;[Root.GetTitledFirstName] helped [From.GetTitledFirstName] become §YPope§!;;;;;;;;;;;Òû ïîìîã[Root.GetNoneE] ìíå ñòàòü §YÏàïîé§!;;x
+POPE_AIREASON_MODIFIER_MADE_ME_POPE_TARGET;[FromFrom.GetTitledFirstName] helped [From.GetTitledFirstName] become §YPope§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] ïîìîã[FromFrom.GetNoneE] ìíå ñòàòü §YÏàïîé§!;;x
+POPE_AIREASON_MODIFIER_MARRIAGE_BARE_WOMB;[FromFrom.GetTitledFirstName]'s womb is barren;;;;;;;;;;;[FromFrom.GetTitledFirstName] áåñïëîä[FromFrom.GetNaEn];;x
+POPE_AIREASON_MODIFIER_MARRIAGE_EUNUCH;[FromFrom.GetTitledFirstName] is no longer a man;;;;;;;;;;;[FromFrom.GetTitledFirstName] - íå ìóæ÷èíà;;x
+POPE_AIREASON_MODIFIER_MARRIAGE_INCESTUOUS;[Root.GetTitledFirstName]'s marriage is incestuous;;;;;;;;;;;Òâîé áðàê - èíöåñò;;x
+POPE_AIREASON_MODIFIER_MY_FRIEND;[Root.GetTitledFirstName] is [From.GetTitledFirstName]'s §YFriend§!;;;;;;;;;;;Ìû ñ òîáîé §Yäðóçüÿ§!;;x
+POPE_AIREASON_MODIFIER_MY_FRIEND_TARGET;[FromFrom.GetTitledFirstName] is [From.GetTitledFirstName]'s §YFriend§!;;;;;;;;;;;Ìû ñ í[FromFrom.GetEyIm] -  §Yäðóçüÿ§!;;x
+POPE_AIREASON_MODIFIER_MY_LOVER;[Root.GetTitledFirstName] is [From.GetTitledFirstName]'s §YLover§!;;;;;;;;;;;Ìû ñ òîáîé §Yëþáîâíèêè§!;;x
+POPE_AIREASON_MODIFIER_MY_LOVER_TARGET;[FromFrom.GetTitledFirstName] is [From.GetTitledFirstName]'s §YLover§!;;;;;;;;;;;Ìû ñ í[FromFrom.GetEyIm] -  §Yëþáîâíèêè§!;;x
+POPE_AIREASON_MODIFIER_MY_PARENT;[From.GetTitledFirstName] is the child of [Root.GetTitledFirstName];;;;;;;;;;;ß òâîé [From.GetSonDaughter];;x
+POPE_AIREASON_MODIFIER_MY_PARENT_TARGET;[From.GetTitledFirstName] is the child of [FromFrom.GetTitledFirstName];;;;;;;;;;;ß - [FromFrom.GetHersHis] [From.GetSonDaughter];;x
+POPE_AIREASON_MODIFIER_MY_RIVAL;[Root.GetTitledFirstName] is [From.GetTitledFirstName]'s §YRival§!;;;;;;;;;;;Ìû ñ òîáîé §Yñîïåðíèêè§!;;x
+POPE_AIREASON_MODIFIER_MY_RIVAL_TARGET;[FromFrom.GetTitledFirstName] is [From.GetTitledFirstName]'s §YRival§!;;;;;;;;;;;Ìû ñ í[FromFrom.GetEyIm] -  §Yñîïåðíèêè§!;;x
+POPE_AIREASON_MODIFIER_NAPOLEON_RULER;[Root.GetTitledFirstName] denied the Church's authority;;;;;;;;;;;Òû îòâåðãàåøü àâòîðèòåò Öåðêâè;;x
+POPE_AIREASON_MODIFIER_NAPOLEON_RULER_TARGET;[FromFrom.GetTitledFirstName] denied the Church's authority;;;;;;;;;;;[FromFrom.GetTitledFirstName] îòâåðãàåò àâòîðèòåò Öåðêâè;;x
+POPE_AIREASON_MODIFIER_OPINION_RULER;[From.GetTitledFirstName]'s §YOpinion§! of [Root.GetTitledFirstName];;;;;;;;;;;ß âûñîêîãî §Yìíåíèÿ§! î òåáå;;x
+POPE_AIREASON_MODIFIER_OPINION_RULER_TARGET;[From.GetTitledFirstName]'s §YOpinion§! of [FromFrom.GetTitledFirstName];;;;;;;;;;;ß âûñîêîãî §Yìíåíèÿ§! î í[FromFrom.GetEyYom];;x
+POPE_AIREASON_MODIFIER_PET_POPE;[Root.GetTitledFirstName] is my liege;;;;;;;;;;;Òû - ì[Root.GetOyaOy] [Root.GetLordLady];;x
+POPE_AIREASON_MODIFIER_PET_POPE_TARGET;[FromFrom.GetTitledFirstName] is [From.GetTitledFirstName]'s liege;;;;;;;;;;;[FromFrom.GetTitledFirstName] - ì[FromFrom.GetOyaOy] [FromFrom.GetLordLady];;x
+POPE_AIREASON_MODIFIER_PLEDGED_TO_CRUSADE;[Root.GetTitledFirstName] has pledged [Root.GetHerHis] help on the coming §YCrusade§!;;;;;;;;;;;Òû ïîîáåùàë[Root.GetEndA] ó÷àñòâîâàòü â §Yêðåñòîâîì ïîõîäå§!;;x
+POPE_AIREASON_MODIFIER_PLEDGED_TO_CRUSADE_TARGET;[FromFrom.GetTitledFirstName] has pledged [FromFrom.GetHerHis] help on the coming §YCrusade§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] îáåùàë[FromFrom.GetEndA] ó÷àñòâîâàòü â §Yêðåñòîâîì ïîõîäå§!;;x
+POPE_AIREASON_MODIFIER_REALM_SIZE;[Root.GetTitledFirstName] controls a large §YRealm§!;;;;;;;;;;;[Root.GetTitledFirstName] êîíòðîëèðóåò áîëüøîå §Yãîñóäàðñòâî§!;;x
+POPE_AIREASON_MODIFIER_REALM_SIZE_IMPERIAL;[Root.GetTitledFirstName] controls a vast §YRealm§!;;;;;;;;;;;[Root.GetTitledFirstName] êîíòðîëèðóåò îãðîìíîå §Yãîñóäàðñòâî§!;;x
+POPE_AIREASON_MODIFIER_REALM_SIZE_TARGET;[FromFrom.GetTitledFirstName]'s §YRealm Size§!;;;;;;;;;;;Ðàçìåð [FromFrom.GetHersHis] ñòðàíû;;x
+POPE_AIREASON_MODIFIER_REALM_SIZE_TARGET_TINY;[FromFrom.GetTitledFirstName]'s §YRealm Size§!;;;;;;;;;;;Ðàçìåð [FromFrom.GetHersHis] ñòðàíû;;x
+POPE_AIREASON_MODIFIER_RULER_CHARITABLE;[Root.GetTitledFirstName] is §YCharitable§!;;;;;;;;;;;Òû §Yùåäð[Root.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_CHARITABLE_NEGATIVE;[Root.GetTitledFirstName] is §YCharitable§!;;;;;;;;;;;Òû §Yùåäð[Root.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_CHARITABLE_NEGATIVE_TARGET;[FromFrom.GetTitledFirstName] is §YCharitable§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] §Yùåäð[FromFrom.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_CHARITABLE_TARGET;[FromFrom.GetTitledFirstName] is §YCharitable§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] §Yùåäð[FromFrom.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_CHASTE;[Root.GetTitledFirstName] is §YChaste§!;;;;;;;;;;;Òû §Yöåëîìóäðåíí[Root.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_CHASTE_NEGATIVE;[Root.GetTitledFirstName] is §YChaste§!;;;;;;;;;;;Òû §Yöåëîìóäðåíí[Root.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_CHASTE_NEGATIVE_TARGET;[FromFrom.GetTitledFirstName] is §YChaste§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] §Yöåëîìóäðåíí[FromFrom.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_CHASTE_TARGET;[FromFrom.GetTitledFirstName] is §YChaste§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] §Yöåëîìóäðåíí[FromFrom.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_CYNICAL;[Root.GetTitledFirstName] is §YCynical§!;;;;;;;;;;;Òû §Yöèíè÷í[Root.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_CYNICAL_TARGET;[FromFrom.GetTitledFirstName] is §YCynical§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] §Yöèíè÷í[FromFrom.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_DILIGENT;[Root.GetTitledFirstName] is §YDiligent§!;;;;;;;;;;;Òû §Yóñåðäí[Root.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_DILIGENT_NEGATIVE;[Root.GetTitledFirstName] is §YDiligent§!;;;;;;;;;;;Òû §Yóñåðäí[Root.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_DILIGENT_NEGATIVE_TARGET;[FromFrom.GetTitledFirstName] is §YDiligent§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] §Yóñåðäí[FromFrom.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_DILIGENT_TARGET;[FromFrom.GetTitledFirstName] is §YDiligent§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] §Yóñåðäí[FromFrom.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_ENVIOUS;[Root.GetTitledFirstName] is §YEnvious§!;;;;;;;;;;;Òû §Yçàâèñòëèâ[Root.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_ENVIOUS_TARGET;[FromFrom.GetTitledFirstName] is §YEnvious§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] §Yçàâèñòëèâ[FromFrom.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_FACTIONS_AGAINST_ANTIPOPE;[Root.GetTitledFirstName] is opposing an §YAntipope§!;;;;;;;;;;;Òû ïðîòèâîñòîèøü §YÀíòèïàïå§!;;x
+POPE_AIREASON_MODIFIER_RULER_GLUTTONOUS;[Root.GetTitledFirstName] is §YGluttonous§!;;;;;;;;;;;Òû - §Yîáæîðà§!;;x
+POPE_AIREASON_MODIFIER_RULER_GLUTTONOUS_TARGET;[FromFrom.GetTitledFirstName] is §YGluttonous§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] - §Yîáæîðà§!;;x
+POPE_AIREASON_MODIFIER_RULER_GREEDY;[Root.GetTitledFirstName] is §YGreedy§!;;;;;;;;;;;Òû §Yæàäí[Root.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_GREEDY_TARGET;[FromFrom.GetTitledFirstName] is §YGreedy§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] §Yæàäí[FromFrom.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_HAS_ASKED_MONEY_ALREADY;[Root.GetTitledFirstName] has already been granted a loan from the Holy See;;;;;;;;;;;Òû óæå ïîëó÷èë[Root.GetEndA] äåíüãè îò Ñâÿòîãî Ïðåñòîëà;;x
+POPE_AIREASON_MODIFIER_RULER_HAS_REQUESTED_EXCOM_ALREADY;[Root.GetTitledFirstName] has recently requested an Excommunication;;;;;;;;;;;Òû íåäàâíî ïðîñèë[Root.GetEndA] îá §Yîòëó÷åíèè§!;;x
+POPE_AIREASON_MODIFIER_RULER_HAS_SAINTLY_BLOODLINE;[Root.GetTitledFirstName] is a §YSaint§!'s descendant;;;;;;;;;;;Òû - ïîòîìîê §Yñâÿòîãî§!;;x
+POPE_AIREASON_MODIFIER_RULER_HAS_SAINTLY_BLOODLINE_TARGET;[FromFrom.GetTitledFirstName] is a §YSaint§!'s descendant;;;;;;;;;;;[FromFrom.GetTitledFirstName] - ïîòîìîê §Yñâÿòîãî§!;;x
+POPE_AIREASON_MODIFIER_RULER_HUMBLE;[Root.GetTitledFirstName] is §YHumble§!;;;;;;;;;;;Òû §Yñêðîìí[Root.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_HUMBLE_NEGATIVE;[Root.GetTitledFirstName] is §YHumble§!;;;;;;;;;;;Òû §Yñêðîìí[Root.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_HUMBLE_NEGATIVE_TARGET;[FromFrom.GetTitledFirstName] is §YHumble§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] §Yñêðîìí[FromFrom.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_HUMBLE_TARGET;[FromFrom.GetTitledFirstName] is §YHumble§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] §Yñêðîìí[FromFrom.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_IS_BABY;[FromFrom.GetTitledFirstName] is an §YInfant§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] - §Yìëàäåíåö§!;;x
+POPE_AIREASON_MODIFIER_RULER_IS_CHILD;[FromFrom.GetTitledFirstName] is a §YChild§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] - §Yðåá¸íîê§!;;x
+POPE_AIREASON_MODIFIER_RULER_IS_FEMALE;[FromFrom.GetTitledFirstName] is a §YWoman§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] - §Yæåíùèíà§!;;x
+POPE_AIREASON_MODIFIER_RULER_IS_KINSLAYER;[Root.GetTitledFirstName] is a §YKinslayer§!;;;;;;;;;;;Òû - §Yóáèéöà ðîäè÷åé§!;;x
+POPE_AIREASON_MODIFIER_RULER_IS_MALE;[FromFrom.GetTitledFirstName] is a §YMan§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] - §Yìóæ÷èíà§!;;x
+POPE_AIREASON_MODIFIER_RULER_IS_SINNER;[Root.GetTitledFirstName] is a §YSinner§!;;;;;;;;;;;Òû - §Yãðåøíè[Root.GetTsaK]§!;;x
+POPE_AIREASON_MODIFIER_RULER_KIND;[Root.GetTitledFirstName] is §YKind§!;;;;;;;;;;;Òû §Yäîáð[Root.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_KIND_NEGATIVE;[Root.GetTitledFirstName] is §YKind§!;;;;;;;;;;;Òû §Yäîáð[Root.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_KIND_NEGATIVE_TARGET;[FromFrom.GetTitledFirstName] is §YKind§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] §Yäîáð[FromFrom.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_KIND_TARGET;[FromFrom.GetTitledFirstName] is §YKind§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] §Yäîáð[FromFrom.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_LUSTFUL;[Root.GetTitledFirstName] is §YLustful§!;;;;;;;;;;;Òû §Yïîõîòëèâ[Root.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_LUSTFUL_TARGET;[FromFrom.GetTitledFirstName] is §YLustful§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] §Yïîõîòëèâ[FromFrom.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_NO_PRIEST_EXCOMMUNICATION_DEMANDED;[FromFrom.GetTitledFirstName] is a §YPriest§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] - §Yñâÿùåííèê§!;;x
+POPE_AIREASON_MODIFIER_RULER_OPPOSES_EXCOMMUNICATED_LIEGE;[Root.GetTitledFirstName] is opposing an §YExcommunicated§! ruler;;;;;;;;;;;Òû ïðîòèâîñòîèøü §Yîòëó÷¸ííîìó§! îò öåðêâè ïðàâèòåëþ;;x
+POPE_AIREASON_MODIFIER_RULER_PATIENT;[Root.GetTitledFirstName] is §YPatient§!;;;;;;;;;;;Òû §Yòåðïåëèâ[Root.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_PATIENT_NEGATIVE;[Root.GetTitledFirstName] is §YPatient§!;;;;;;;;;;;Òû §Yòåðïåëèâ[Root.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_PATIENT_NEGATIVE_TARGET;[FromFrom.GetTitledFirstName] is §YPatient§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] §Yòåðïåëèâ[FromFrom.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_PATIENT_TARGET;[FromFrom.GetTitledFirstName] is §YPatient§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] §Yòåðïåëèâ[FromFrom.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_PIETY;[Root.GetTitledFirstName]'s §YPiety§!;;;;;;;;;;;Òû §Yáëàãî÷åñòèâ[Root.GetEndA]§!;;x
+POPE_AIREASON_MODIFIER_RULER_PIETY_TARGET;[FromFrom.GetTitledFirstName]'s §YPiety§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] §Yáëàãî÷åñòèâ[FromFrom.GetEndA]§!;;x
+POPE_AIREASON_MODIFIER_RULER_PROTECTS_ANTIPOPE;I want [FromFrom.GetTitledFirstName]'s §YAntipope§! deposed;;;;;;;;;;;ß õî÷ó, ÷òîáû §YÀíòèïàïó§!, êîòîðîãî ïîääåðæèâàåò [FromFrom.GetTitledFirstName], ñâåðãëè;;x
+POPE_AIREASON_MODIFIER_RULER_PROUD;[Root.GetTitledFirstName] is §YProud§!;;;;;;;;;;;Òû §Yãîðä[Root.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_PROUD_TARGET;[FromFrom.GetTitledFirstName] is §YProud§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] §Yãîðä[FromFrom.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_SLOTHFUL;[Root.GetTitledFirstName] is §YSlothful§!;;;;;;;;;;;Òû §Yëåíèâ[Root.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_SLOTHFUL_TARGET;[FromFrom.GetTitledFirstName] is §YSlothful§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] §Yëåíèâ[FromFrom.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_TEMPERATE;[Root.GetTitledFirstName] is §YTemperate§!;;;;;;;;;;;Òû §Yóìåðåíí[Root.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_TEMPERATE_NEGATIVE;[Root.GetTitledFirstName] is §YTemperate§!;;;;;;;;;;;Òû §Yóìåðåíí[Root.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_TEMPERATE_NEGATIVE_TARGET;[FromFrom.GetTitledFirstName] is §YTemperate§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] §Yóìåðåíí[FromFrom.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_TEMPERATE_TARGET;[FromFrom.GetTitledFirstName] is §YTemperate§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] §Yóìåðåíí[FromFrom.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_WROTH;[Root.GetTitledFirstName] is §YWroth§!;;;;;;;;;;;Òû §Yãíåâí[Root.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_WROTH_TARGET;[FromFrom.GetTitledFirstName] is §YWroth§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] §Yãíåâí[FromFrom.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_ZEALOUS;[Root.GetTitledFirstName] is §YZealous§!;;;;;;;;;;;Òû §Yíàáîæí[Root.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_ZEALOUS_NEGATIVE;[Root.GetTitledFirstName] is §YZealous§!;;;;;;;;;;;Òû §Yíàáîæí[Root.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_ZEALOUS_NEGATIVE_TARGET;[FromFrom.GetTitledFirstName] is §YZealous§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] §Yíàáîæí[FromFrom.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_RULER_ZEALOUS_TARGET;[FromFrom.GetTitledFirstName] is §YZealous§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] §Yíàáîæí[FromFrom.GetAyaYy]§!;;x
+POPE_AIREASON_MODIFIER_SAME_CULTURE;[Root.GetTitledFirstName] is of the same §YCulture§! as [From.GetTitledFirstName];;;;;;;;;;;Ìû îá[Root.GetFromEndEA] - §Y[From.GetCulturePlural]§!;;x
+POPE_AIREASON_MODIFIER_SAME_CULTURE_TARGET;[FromFrom.GetTitledFirstName] is of the same §YCulture§! as [From.GetTitledFirstName];;;;;;;;;;;ß è [From.GetTitledFirstName] - îá[FromFrom.GetFromEndEA] §Y[From.GetCulturePlural]§!;;x
+POPE_AIREASON_MODIFIER_SAME_DYNASTY;[Root.GetTitledFirstName] is of [From.GetTitledFirstName]'s §YDynasty§!;;;;;;;;;;;Òû - §Y[From.GetOnlyDynastyName]§!, êàê è ÿ;;x
+POPE_AIREASON_MODIFIER_SAME_DYNASTY_TARGET;[FromFrom.GetTitledFirstName] is of [From.GetTitledFirstName]'s §YDynasty§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] - §Y[From.GetOnlyDynastyName]§!, êàê è ÿ;;x
+POPE_AIREASON_MODIFIER_SPOUSE_FAITHFUL;[FromFrom.GetTitledFirstName] is a faithful spouse;;;;;;;;;;;[FromFrom.GetTitledFirstName] âåðí[FromFrom.GetAyaYy] [FromFrom.GetHusbandWife];;x
+POPE_AIREASON_MODIFIER_SPOUSE_HEATHEN;[FromFrom.GetTitledFirstName] is a heathen;;;;;;;;;;;[FromFrom.GetTitledFirstName] - ÿçû÷íè[FromFrom.GetTsaK];;x
+POPE_AIREASON_MODIFIER_SPOUSE_UNFAITHFUL;[FromFrom.GetTitledFirstName] was unfaithful;;;;;;;;;;;[FromFrom.GetTitledFirstName] áûë[FromFrom.GetEndA] íåâåðí[FromFrom.GetOyYm] [FromFrom.GetHusbandWifeINS];;x
+POPE_AIREASON_MODIFIER_TARGET_IS_KINSLAYER;[FromFrom.GetTitledFirstName] is a §YKinslayer§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] - §Yóáèéöà ðîäè÷åé§!;;x
+POPE_AIREASON_MODIFIER_TARGET_IS_SINNER;[FromFrom.GetTitledFirstName] is a §YSinner§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] - §Yãðåøíè[FromFrom.GetTsaK]§!;;x
+POPE_AIREASON_MODIFIER_TARGET_OF_CLAIM_IS_FEMALE;[FromFrom.GetTitledFirstName] is a §YWoman§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] - §Yæåíùèíà§!;;x
+POPE_AIREASON_MODIFIER_TARGET_OF_CLAIM_IS_MALE;[FromFrom.GetTitledFirstName] is a §YMan§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] - §Yìóæ÷èíà§!;;x
+POPE_AIREASON_MODIFIER_UNCROWNED_RULER;[Root.GetTitledFirstName] has not been §YCrowned§!;;;;;;;;;;;Òû íå áûë[Root.GetEndA] §Yêîðîíîâàí[Root.GetEndA]§!;;x
+POPE_AIREASON_MODIFIER_UNCROWNED_RULER_TARGET;[FromFrom.GetTitledFirstName] has not been §YCrowned§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] íå áûë[FromFrom.GetEndA] §Yêîðîíîâàí[FromFrom.GetEndA]§!;;x
+POPE_AIREASON_MODIFIER_WAGING_CRUSADE;[Root.GetTitledFirstName] is waging war against the infidels in the current §YCrusade§!;;;;;;;;;;;Òû ðàçâÿçàë[Root.GetEndA] âîéíó ïðîòèâ èíîâåðöåâ â §Yêðåñòîâîì ïîõîäå§!;;x
+POPE_AIREASON_MODIFIER_WAGING_CRUSADE_TARGET;[FromFrom.GetTitledFirstName] is waging war against the infidels in the current §YCrusade§!;;;;;;;;;;;[FromFrom.GetTitledFirstName] ðàçâÿçàë[FromFrom.GetEndA] âîéíó ïðîòèâ èíîâåðöåâ â §Yêðåñòîâîì ïîõîäå§!;;x

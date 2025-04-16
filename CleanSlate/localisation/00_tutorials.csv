@@ -1,344 +1,344 @@
-chapter_name_0;Feudal System;;;;;;;;;;;;;x
-chapter_name_1;Economy;;;;;;;;;;;;;x
-chapter_name_2;Council;;;;;;;;;;;;;x
-chapter_name_3;Succession;;;;;;;;;;;;;x
-chapter_name_4;Diplomacy;;;;;;;;;;;;;x
-chapter_name_5;Military and Combat;;;;;;;;;;;;;x
-chapter_name_6;War;;;;;;;;;;;;;x
-chapter_name_7;Plots and Intrigue;;;;;;;;;;;;;x
-chapter_name_8;Religion;;;;;;;;;;;;;x
-chapter_name_9;Introduction;;;;;;;;;;;;;x
-tut_0a_1;Welcome to Crusader Kings II;;;;;;;;;;;;;x
-tut_0a_2;This is an introduction to Crusader Kings II, a Grand Strategy Game set in medieval Europe. As emperor, king, count or duke, lead your dynasty to glory! \nSo where do you come into all this? Click next to find out.;;;;;;;;;;;;;x
-tut_0a_3;Realm View;;;;;;;;;;;;;x
-tut_0a_4;The realm view is where you can get a quick overview of your realm. Your vassals, economy, history and more. Click on the shield next to the portrait to find it. You can click the 'De Jure' checkbox to see the regions that are tied to your title by bonds that will never break.;;;;;;;;;;;;;x
-tut_0a_5;Character View;;;;;;;;;;;;;x
-tut_0a_6;Click the portrait. All characters have a view like this. This is the King of Scotland, and here you can see that his parents and grandparents are dead. He has three children and three siblings.;;;;;;;;;;;;;x
-tut_0a_7;To the upper right you can open the family and dynasty trees. Above that you'll see a small 'W' icon. Sometimes you can click this and it will link you to the actual character on Wikipedia. You can also see the titles and claims here, as well as the stats and traits the character has.;;;;;;;;;;;;;x
-tut_0a_7b;Note that you can also right click the portrait of characters to open a diplomacy menu with that character.;;;;;;;;;;;;;x
-tut_0a_8;The Information Bar;;;;;;;;;;;;;x
-tut_0a_9;Here you can get a quick overview of your realm.;;;;;;;;;;;;;x
-tut_0a_10;From left to right, we have:;;;;;;;;;;;;;x
-tut_0a_11;Wealth. How much money you have. Hover over the sum to see your monthly income or loss.;;;;;;;;;;;;;x
-tut_0a_12;Prestige. This is a measure of your success. Hover over the sum to see your monthly gain or loss. Hover longer to see exactly what the sources are. You can also gain or lose prestige from actions.;;;;;;;;;;;;;x
-tut_0a_13;Piety. How the church sees you. Hover over the sum to see monthly gain or loss. Hover longer to see exactly what the sources are. You can also gain or lose piety from actions.;;;;;;;;;;;;;x
-tut_0a_14;Demesne Size. If you go over the limit, your vassals will dislike you and you will get taxation penalties. Remedy this by handing out landed titles to decrease the size of your demesne. Hover over the number to see where the max size is coming from.;;;;;;;;;;;;;x
-tut_0a_15;Vassal Limit. Going over the limit will have a negative effect on the amount of taxes and levies you get from your vassals, and you might lose the grip of your vassals upon death. Remedy this by giving your vassals higher tier titles to allow them to have vassals on their own. Hover over the number to see where the limit is coming from.;;;;;;;;;;;;;x
-tut_0a_16;Realm Size. This is the total number of holdings owned by you and your vassals.  Hover over the number to see holdings per vassal.;;;;;;;;;;;;;x
-tut_0a_17;Score. This is your dynasty's total score. The score is calculated by adding the prestige and piety of each of your rulers at the time of their death. This will determine your final rank.;;;;;;;;;;;;;x
-tut_0a_18;The Map;;;;;;;;;;;;;x
-tut_0a_19;On the world map you can see your troops, borders and buildings. To move the map you can move the mouse pointer to the edges or use the arrow keys. You can zoom by using the mouse wheel. By default this will zoom in to the cursor position. You can try that now before clicking next.;;;;;;;;;;;;;x
-tut_0a_20;Lost?;;;;;;;;;;;;;x
-tut_0a_21;You can easily navigate over long distances using the minimap. Click on it and you will be transported to that location. There is also a 'Go to home province' button to transport you home immediately. Press that now.;;;;;;;;;;;;;x
-tut_0a_22;Map Modes;;;;;;;;;;;;;x
-tut_0a_23;For different types of information, there are different map modes. We are in the terrain map mode right now. The independent map mode paints the name of the countries neatly over the map. If you zoom further in, the name of the individual provinces will pop up instead. Switch to the independent realms map mode now to see more defined borders.;;;;;;;;;;;;;x
-tut_0a_24;Time;;;;;;;;;;;;;x
-tut_0a_25;The game starts paused. You can do all of the aforementioned actions while the game is paused or unpaused. However, nothing will actually happen until you unpause.;;;;;;;;;;;;;x
-tut_0a_26;As you can see the current date is September 15, 1066. Next to the date you see a pause symbol and a plus and minus sign. By clicking the pause symbol you can start the time and by using the + and - signs you can increase or decrease how fast the time moves. The keyboard shortcut to pause/unpause is space. You can also use the + and - signs on the numpad part of the keyboard to increase/decrease speed. Unpause now to continue.;;;;;;;;;;;;;x
-tut_0a_27;How to Stay in Control ;;;;;;;;;;;;;x
-tut_0a_28;There are a lot of things going on in the world. Some very important, some less. There are a few different ways to be notified:;;;;;;;;;;;;;x
-tut_0a_29;Popups. Large messages that pop up and usually demands that you take some kind of action. Read the tooltips on the buttons before you choose.;;;;;;;;;;;;;x
-tut_0a_30;Messages. To the upper right you have the more important messages on top, less important below. You can change the settings for when these show up.;;;;;;;;;;;;;x
-tut_0a_31;Alerts. These round icons show important things that need an action from you. They can be related to, for example, succession or diplomacy. Keeping an eye on them can make or break your fortunes, so ignore at your peril!;;;;;;;;;;;;;x
-tut_1a_1;Economy - Basic Level;;;;;;;;;;;;;x
-tut_1a_2;The income you have comes from provinces, both the ones you control directly and those owned by your vassals. Each province gives you money and troops, so the more provinces you have, the more troops and money you can have.;;;;;;;;;;;;;x
-tut_1a_3;Because you are playing as a Catholic ruler, provinces owned by religious holders like bishops will only give you money if their opinions of you are higher than their opinion of the Pope. Otherwise the money goes to him. Vassals other than bishops will always give you money, but you will get more if they like you.;;;;;;;;;;;;;x
-tut_1a_3a;Taxes;;;;;;;;;;;;;x
-tut_1a_4;Your expenses are any military that you have raised, and if you have a liege, you might pay taxes to them. You can click the realm view now to get an overview of your economy. Then click next.;;;;;;;;;;;;;x
-tut_1b_1;Economy - Intermediate Level;;;;;;;;;;;;;x
-tut_1b_2;As you can see in the upper right, you have a limit for how many Holdings you can control directly. If you cross this limit, you will get negative effects in the form of tax penalties and your vassals disliking you;;;;;;;;;;;;;x
-tut_1b_3;To prevent this from happening, make sure you keep under your Demesne limit by handing out landed titles to your vassals. Now, click a County.;;;;;;;;;;;;;x
-tut_1b_4;Holdings;;;;;;;;;;;;;x
-tut_1b_5;A County can have different types of Holdings. Depending on what you build in the County, you will get different amounts of tax money, and different kinds of troops from it.;;;;;;;;;;;;;x
-tut_1b_6;For example, a city gives you more money but fewer and lighter troops.;;;;;;;;;;;;;x
-tut_1c_1;Economy - Advanced Level;;;;;;;;;;;;;x
-tut_1c_2;We now have holdings in the provinces instead of buildings. These holdings can be improved upon, or you can build new ones.;;;;;;;;;;;;;x
-tut_1c_3;To build a new holding you need three things:;;;;;;;;;;;;;x
-tut_1c_4;1. A free slot.;;;;;;;;;;;;;x
-tut_1c_5;2. Enough money.;;;;;;;;;;;;;x
-tut_1c_6;3. A balanced province. You can't build a second city holding if you do not have one of each already. Click on a province to view some holdings. York down in England has one of each.;;;;;;;;;;;;;x
-tut_1c_7;The Province View;;;;;;;;;;;;;x
-tut_1c_8;In the province view you can see how much income the province has, and also how much of it goes to you in taxes.;;;;;;;;;;;;;x
-tut_1c_9;You can also hover over each holding slot to see how much tax it yields and its fort level.;;;;;;;;;;;;;x
-tut_2a_1;The Council - Basic Level;;;;;;;;;;;;;x
-tut_2a_2;A ruler does not rule alone. You have access to five types of advisors that help you. The first advisor is the chancellor, who assists your ruler in the diplomatic field. Further you have the marshal, who is your resident military expert. Then you have the steward, who is in charge of your economy. The spymaster is responsible for keeping you safe from internal as well as external intrigue, and the chaplain is your guide in everything spiritual.;;;;;;;;;;;;;x
-tut_2a_3;These vassals can perform missions for you. The chancellor can for example forge claims on foreign lands, while the steward can bolster taxes, all for the benefit of your dynasty! They also add their stats to yours.;;;;;;;;;;;;;x
-tut_2b_1;The Council - Intermediate Level;;;;;;;;;;;;;x
-tut_2b_2;Now it is time to learn more about each type of advisor. Click the council button to see your appointed advisors.;;;;;;;;;;;;;x
-tut_2b_3;Advisor Types;;;;;;;;;;;;;x
-tut_2b_4;The different types are:;;;;;;;;;;;;;x
-tut_2b_5;Chancellor. Your diplomatic advisor. Select one with as high diplomatic skill as possible since this person's value, plus your own, plus half of your wife's is what makes up the state diplomacy value. That affects how all characters not employed by you view you.;;;;;;;;;;;;;x
-tut_2b_6;Marshal. Your military advisor. This one will also command your levies, so make sure you pick one with a high military score.;;;;;;;;;;;;;x
-tut_2b_7;Steward. Your treasurer. Choose one with high value for stewardship, and you will increase your tax income.;;;;;;;;;;;;;x
-tut_2b_8;Spymaster. An unofficial position as the advisor in the darker things a regent might need to do. Choose one with a high intrigue skill. This is important even if you do not have plans to have anyone assassinated, as it will help you to uncover plots against your own person as well.;;;;;;;;;;;;;x
-tut_2b_9;Court Chaplain. Your personal advisor to turn to in question concerning faith. This advisors important trait is learning, and a higher value will help your technological research.;;;;;;;;;;;;;x
-tut_2c_1;The Council - Advanced Level;;;;;;;;;;;;;x
-tut_2c_2;All members of the council have three unique missions you can send them on. They can only go on one mission at the time, you will still get their stat bonus though.;;;;;;;;;;;;;x
-tut_2c_3;Let's go through all of them in short. Click the council button to continue.;;;;;;;;;;;;;x
-tut_2c_4;The Council Missions;;;;;;;;;;;;;x
-tut_2c_5;There are three missions per advisor, you can hover over them to the right on this screen to get a more extensive explanation of what all of them does:;;;;;;;;;;;;;x
-tut_2c_6;Chancellor - Improve diplomatic relations, fabricate claims and sow dissent.;;;;;;;;;;;;;x
-tut_2c_7;Marshal - Suppress revolts, train troops and research military tech.;;;;;;;;;;;;;x
-tut_2c_8;Steward - Collect taxes, oversee construction, research economy tech.;;;;;;;;;;;;;x
-tut_2c_9;Spymaster - Scheme, build spy network, study technology.;;;;;;;;;;;;;x
-tut_2c_10;Court Chaplain - Proselytize, research cultural tech, improve religious relations.;;;;;;;;;;;;;x
-tut_2c_11;Most of the missions also has the risk of a negative effect, so be sure to check the numbers in the tooltip before you send everyone off.;;;;;;;;;;;;;x
-tut_3a_1;Succession - Basic Level;;;;;;;;;;;;;x
-tut_3a_2;Succession laws are what determines who you will play as next and what they will inherit. The most common start is that your eldest son will inherit most of your titles while your younger son(s) also gets their share. This kind of inheritance is called gavelkind.;;;;;;;;;;;;;x
-tut_3b_1;Succession - Intermediate Level;;;;;;;;;;;;;x
-tut_3b_2;There are two kinds of succession laws. The agnatic/cognatic ones, that decide who will inherit, and then you have the other ones, that decide how the inheritance will work. Your children, dynasty and vassals will have an opinion on which ones you have. Press the laws button to continue.;;;;;;;;;;;;;x
-tut_3b_3;The Succession Laws.;;;;;;;;;;;;;x
-tut_3b_4;Agnatic. Only males can inherit.;;;;;;;;;;;;;x
-tut_3b_5;Absolute Cognatic. Women inherit on the same terms as men do. ;;;;;;;;;;;;;x
-tut_3b_6;Agnatic Primogeniture. This one means that the oldest male child of the ruler will inherit all their titles on ruler death.;;;;;;;;;;;;;x
-tut_3b_7;Agnatic-Cognatic. If you have this, women can also inherit, but only when there are no eligible males.;;;;;;;;;;;;;x
-tut_3b_8;Gavelkind. This law will give the primary title to the oldest male child, and then divide the rest of the titles among the other children.;;;;;;;;;;;;;x
-tut_3b_9;Seniority. The oldest member of the entire dynasty inherits all titles. ;;;;;;;;;;;;;x
-tut_3b_10;Elective. The ruler and his/her vassals one step down can nominate one successor each. ;;;;;;;;;;;;;x
-tut_3c_1;Succession - Advanced Level;;;;;;;;;;;;;x
-tut_3c_2;For you to be able to change succession laws, you have a few things to consider.;;;;;;;;;;;;;x
-tut_3c_3;The same ruler can only change succession laws once, must have reigned for at least 10 years and there must be peace in your realm.;;;;;;;;;;;;;x
-tut_3c_4;The ruler must be an adult, i.e. no regency. No vassals can be fighting and no vassal count or above can have a negative attitude of you. ;;;;;;;;;;;;;x
-tut_3c_5;These demands can be hard to fulfill, so changing succession law is not something to do on a whim, it is often something you need to work for.;;;;;;;;;;;;;x
-tut_3c_6;Multilayered Laws;;;;;;;;;;;;;x
-tut_3c_7;When you open the laws screen, you will see the ducal laws of Brittany. Brittany is de jure a part of France though, so the crown laws of france will affect you too. To see how, you need to click the shield to the upper right.;;;;;;;;;;;;;x
-tut_3c_8;Multilayered Laws II;;;;;;;;;;;;;x
-tut_3c_9;There are the laws in France that might affect Brittany. On the top part you can see the succesion laws France is using, and also the crowns laws on the bottom half. Click next to end this part.;;;;;;;;;;;;;x
-tut_4a_1;Diplomacy - Basic Level;;;;;;;;;;;;;x
-tut_4a_2;Diplomacy is what we call the interactions between characters. It can be to start wars or send a child off to be educated. Now, to find a number of characters who you can use different diplomatic options on, click the ruler portrait to continue.;;;;;;;;;;;;;x
-tut_4a_3;Diplomatic Actions;;;;;;;;;;;;;x
-tut_4a_4;To get started, right click your half-brother, Earl Malmure of Atholl. You will find him at the bottom left of the family tab, under the header 'siblings'. (The portrait you see here is just an example, not the actual Earl.);;;;;;;;;;;;;x
-tut_4a_5;To the left, we see a list of possible diplomatic actions. To the right you will be able to adjust the diplomatic choices and see what effect they will net once you have decided. Click next to continue.;;;;;;;;;;;;;x
-tut_4a_7;Make Him Like Us;;;;;;;;;;;;;x
-tut_4a_8;If we for example want to make a character to like us a bit more, we can grant them an honorary title. Click the 'award honorary title' button. The Court Jester title is not very nice to give someone if you want to stay on their good side. Click Keeper of the Swans instead.;;;;;;;;;;;;;x
-tut_4a_9;When you click, you will see above what effects it will bring if you award your brother this title. When you are done looking, click send and then click the next button below to end this part.;;;;;;;;;;;;;x
-tut_4b_1;Diplomacy - Intermediate Level;;;;;;;;;;;;;x
-tut_4b_2;There are two kinds of diplomacy. The state level, and then the personal level. Your vassals and other people you employ are affected by personal diplomacy, all others by your state diplomacy. Click your ruler portrait to continue.;;;;;;;;;;;;;x
-tut_4b_3;Actions and Modifiers;;;;;;;;;;;;;x
-tut_4b_4;Let's take a look at personal diplomacy first. You have a tab in the middle that says 'Vassals', click that.;;;;;;;;;;;;;x
-tut_4b_5;Now, if you hover over the opinion values, the green or red numbers towards the right, you'll see why each person has a particular opinion of you.;;;;;;;;;;;;;x
-tut_4b_6;Check the tooltips on the opinion number for some of your vassals. The opinions they have of you is based on a number of things, like personal diplomacy, free investiture, autonomy, and some personality traits will go better or worse together. If you are patient and your vassal is wroth, that does not make for a good relationship.;;;;;;;;;;;;;x
-tut_4b_7;Modifiers;;;;;;;;;;;;;x
-tut_4b_8;The opinion modifiers that are based on character traits are all permanent. Other things can change the opinions between characters affected by trait modifiers, but as long as the trait stays, so does the modifier. Then we have temporary modifiers of course. ;;;;;;;;;;;;;x
-tut_4b_9;Temporary modifiers have an expiration date. Certain events for example can give you an opinion modifier towards other characters and these will usually last a limited time (like a year or two). Click next to continue.;;;;;;;;;;;;;x
-tut_4b_10;Claims and Titles;;;;;;;;;;;;;x
-tut_4b_11;To be able to declare war, there are a few different methods including plots and holy war, but the most common way is to simply claim the title you are interested in.;;;;;;;;;;;;;x
-tut_4b_12;You do this by sending your chancellor to the province and fabricating a claim there. It will take a while, but you can try it in the basic war tutorial.;;;;;;;;;;;;;x
-tut_4b_13;Now you have the claim, but if you want the land, you will need to take action. The claim is held by your current ruler, so as soon as you change ruler, the claim will be gone. Click next to end this part.;;;;;;;;;;;;;x
-tut_4c_1;Diplomacy - Advanced Level;;;;;;;;;;;;;x
-tut_4c_2;There are no formal alliances in Crusader Kings II, it is all a matter of bloodlines, dynasty and prestige.;;;;;;;;;;;;;x
-tut_4c_3;Our wife is dead, so now would be a good time to marry into another dynasty to form bonds that can be used. Click your ruler portrait to continue.;;;;;;;;;;;;;x
-tut_4c_4;Marriage;;;;;;;;;;;;;x
-tut_4c_5;Below the portrait of your wife are two golden rings on blue background. This is a button that will allow you to arrange a marriage for the current character. Click it to continue.;;;;;;;;;;;;;x
-tut_4c_5a;Choices;;;;;;;;;;;;;x
-tut_4c_6;Here you can see a list of unmarried women. Not all are appropriate of course. Some are too young, a real marriage will not start until both of you are over 16. Some are too old, you want them to be able to have your children. Some have nothing to offer you. To help you decide, there are buttons that can sort the list according to your desires. Click next to continue.;;;;;;;;;;;;;x
-tut_4c_7;Find a Suitable Mate;;;;;;;;;;;;;x
-tut_4c_9;Consider carefully who would be the best choice for you, and keep in mind that dynasty and her rank will matter for your prestige gain or loss when entering the marriage. When you have made your choice, right-click her portrait to continue.;;;;;;;;;;;;;x
-tut_4c_8;If you know what dynasty you want to marry into, sort by dynasty. If you are primarily looking to up your military score, sort by martial skill. Right now we are looking for a way to expand our influence though, so sort them by rank.;;;;;;;;;;;;;x
-tut_4c_10;Now you are a full-fledged diplomat, time to move on! Click next to end this part.;;;;;;;;;;;;;x
-tut_4c_10a;Congratulations!;;;;;;;;;;;;;x
-tut_4c_11;Marriage Effects;;;;;;;;;;;;;x
-tut_4c_12;Here you can see what effects this marriage will have on your prestige. You can also see that she will answer yes to your proposal, so just go ahead and send it.;;;;;;;;;;;;;x
-tut_5a_1;Military - Basic Level;;;;;;;;;;;;;x
-tut_5a_2;This part of the tutorial will teach you how to move your troops around and a little bit about combat. Click the military tab to continue.;;;;;;;;;;;;;x
-tut_5a_3;Raising Troops;;;;;;;;;;;;;x
-tut_5a_4;This is the military screen. Here you can see how many troops you have, how many you can raise and what they will cost you. ;;;;;;;;;;;;;x
-tut_5a_5;For this exercise, we need troops, so click the button with an up arrow here to raise your personal retinue. Now you'll see your new troop in the province Gowrie. Select the troop by clicking on the shield.;;;;;;;;;;;;;x
-tut_5a_6;The Unit View;;;;;;;;;;;;;x
-tut_5a_7;Now you get some information about this army. The name is 'Army of King Malcolm III', and it has a number of people in it. At the top you have the organization bar, that tells you in how good condition the troops are. Then you have the regent shield and buttons to manage the army. The next row contains information about what kind of troops you have in this unit. Then you have three parts on the lower part of this screen. The army is usually divided into three flanks, but this is such a small army, so that is not neccesary. Open the military tab again to learn about handling your army.;;;;;;;;;;;;;x
-tut_5a_8;More Armies;;;;;;;;;;;;;x
-tut_5a_9;This time, also let's raise some levies from a vassal. If you were going to war, you'd probably like to raise all available levies using the button towards the top. For this exercise we just need a few though, so raise the personal levies of the Earl of Fife.;;;;;;;;;;;;;x
-tut_5a_10;Maneuver;;;;;;;;;;;;;x
-tut_5a_11;To gather them all in one place, select the new troops by clicking their shield and move them to the first troop by right clicking on the province. Unpause to continue.;;;;;;;;;;;;;x
-tut_5a_12;Merge;;;;;;;;;;;;;x
-tut_5a_13;As soon as the second troop arrives (you can hover over the troop to see when in the tooltip), select both of them by clicking on one side and dragging a box around them. You'll first need to close the army details screen to see them both. Now you have a merge button over the info screen for the two armies. Click that to create one bigger army. ;;;;;;;;;;;;;x
-tut_5a_14;Fleet;;;;;;;;;;;;;x
-tut_5a_15;We also have ships available. Click the military tab.;;;;;;;;;;;;;x
-tut_5a_16;To the right you can see a tab named Fleet Levies. Click on it and you will see buttons for raising fleets instead of army levies. Raise the fleet of your vassal the Earl of Fife and move them to Gowrie as well.;;;;;;;;;;;;;x
-tut_5a_17;Onto the Ships?;;;;;;;;;;;;;x
-tut_5a_18;To load your troops onto the ships, select the army and in the top bar you can see an embark button. ;;;;;;;;;;;;;x
-tut_5a_19;Right now that button is grey though. To find out why, click your ships.;;;;;;;;;;;;;x
-tut_5a_20;Ships;;;;;;;;;;;;;x
-tut_5a_21;You have the organization bar, the disband unit button and the split (create new unit) button. Then you have information on the number of ships, and towards the bottom we have the load capacity. This is how many troops will fit on the ships in this fleet. Unfortunately this number is a smaller number than the number of men in your current army, so select the army again. ;;;;;;;;;;;;;x
-tut_5a_22;Splitting Troops;;;;;;;;;;;;;x
-tut_5a_23;Click the button to create a new unit. You can reorganize the selected unit and the newly created unit by dragging subunits from one unit to another.;;;;;;;;;;;;;x
-tut_5a_24;Onto the Ships;;;;;;;;;;;;;x
-tut_5a_25;Now select one of the troops. The embark button is blue and useable, so click it. Ships move exactly like armies, so move this fleet to the neighboring sea province to the north, Moray Firth, to continue. Unpause after placing the move order and increase the speed to maximum if you want to hasten the process.;;;;;;;;;;;;;x
-tut_5a_26;Off the Ships;;;;;;;;;;;;;x
-tut_5a_27;As soon as your ships arrive, let's offload the troops in the Moray province.;;;;;;;;;;;;;x
-tut_5a_28;Landing;;;;;;;;;;;;;x
-tut_5a_29;Make sure you have the ships selected, then click on the tab to the upper right to select the army. Now you can click on Moray to have the troops go ashore there.;;;;;;;;;;;;;x
-tut_5a_29b;Don't forget to unpause or your order will not be executed.;;;;;;;;;;;;;x
-tut_5a_30;War;;;;;;;;;;;;;x
-tut_5a_31;Now what is this? A neighboring count has declared war on us! We must defend ourselves and let us do that by attacking. Take your army and move it to Argyll to the west. Unpause to continue.;;;;;;;;;;;;;x
-tut_5a_32;Fight;;;;;;;;;;;;;x
-tut_5a_33;When we run into the enemies troops, we will start to fight them. The stages of the battle will be covered in the advanced tutorial. For now, lets just wait until the battle end screen shows up.;;;;;;;;;;;;;x
-tut_5a_34;Victory!;;;;;;;;;;;;;x
-tut_5a_35;You won! Here you can see how many troops both of you had before the fight, how many casualties there were on both sides and then how many troops are remaining. Click ok. Now we stand in an enemy province with no troops in it. That means our troops will automatically start to siege. Click the province to continue.;;;;;;;;;;;;;x
-tut_5a_36;Siege;;;;;;;;;;;;;x
-tut_5a_37;The province screen will look different now that we are sieging. You'll see how many people you have attacking the holding, and you can see the number of defenders remaining. The attackers must outnumber the defenders, or the siege will not progress. Now, lets speed up the time a bit so the sieging goes faster. Increase the speed to maximum to continue.;;;;;;;;;;;;;x
-tut_5a_38;Winning;;;;;;;;;;;;;x
-tut_5a_39;Eventually the siege will end, and since the enemy had no more troops and you outnumber him, we know you will win. Once the end screen is displayed, you'll see how much prestige and gold the siege won you, your casualties and the enemies casualties. Press next to end this part.;;;;;;;;;;;;;x
-tut_5b_1;Military - Intermediate Level;;;;;;;;;;;;;x
-tut_5b_2;Levies are what we call the usual kind of troops in Crusader Kings II. Other kinds will be discussed in the advanced Military tutorial. Exactly how many and what kind of levies your vassals send you depends on the holding composition and how much the vassals like you. Open the military tab to continue.;;;;;;;;;;;;;x
-tut_5b_3;Levies;;;;;;;;;;;;;x
-tut_5b_4;In the military tab you can see that there are two different kind of levies: Personal levies and vassal levies. Personal levies are the ones you control yourself while the vassal levies are the levies controlled by your vassals and the vassals of your vassals. Click next to continue.;;;;;;;;;;;;;x
-tut_5b_5;Levy Composition;;;;;;;;;;;;;x
-tut_5b_6;Castle gives you the most troops, period. They also reinforce faster. These holding give you some light cavalry, light infantry and most heavy infantry.;;;;;;;;;;;;;x
-tut_5b_7;Cities give you some galleys, archers and most light infantry.;;;;;;;;;;;;;x
-tut_5b_8;Temples give you some galleys, and then archers, light infantry and heavy infantry.;;;;;;;;;;;;;x
-tut_5b_9;Exactly what levies you will get from a province also depends on other things, like who the vassal is. Since castles are so occupied with providing troops, they yield less taxes for you than the other two, while cities give you much more. Click next to end this part.;;;;;;;;;;;;;x
-tut_5c_1;Military - Advanced Level;;;;;;;;;;;;;x
-tut_5c_2;We have some concepts that are new to this installment of Crusader Kings. Open the military tab to learn more about mercenaries, holy orders and flanks.;;;;;;;;;;;;;x
-tut_5c_3;Mercenaries;;;;;;;;;;;;;x
-tut_5c_4;Mercenaries are hired troops under your direct control. Click the Mercenaries tab to see what kind of mercenaries are available to you. Here you can see that when you hire them, they cost a rather hefty sum of money. Then below each hire button, you can see the monthly cost, which is smaller but still substantial. If you find yourself unable to pay them when the time has come, they might attack you and take provinces. Their loyalty lies with the gold only. Click the holy orders tab to continue. ;;;;;;;;;;;;;x
-tut_5c_5;Holy Orders;;;;;;;;;;;;;x
-tut_5c_6;Well, you don't have any holy orders active to choose from now, but when you do, it will look like this: ;;;;;;;;;;;;;x
-tut_5c_7;These troops are free to hire, but they only attack religious enemies, and they only exist around the time of crusades, so they are a bit limited. If you are defending against infidels or heretics, they have no maintenance cost either. Now, raise your personal levy and select it to continue.;;;;;;;;;;;;;x
-tut_5c_8;Flanks;;;;;;;;;;;;;x
-tut_5c_9;The armies are divided into three flanks, each flank can have a leader and it's own tactic. When one of the flanks win, it can join one of the other two to reinforce them. Click next to continue.;;;;;;;;;;;;;x
-tut_5c_10;Tactics;;;;;;;;;;;;;x
-tut_5c_11;Each flank has a commander that will choose the tactic to use. When deciding this he is considering what kind of troops he has and what kind of troops the enemy have and adapts. How good he is at this depends on his military skill. Click next to end this part.;;;;;;;;;;;;;x
-tut_6a_1;War - Basic Level;;;;;;;;;;;;;x
-tut_6a_2;War is the other kind of diplomacy in this game. It is an important tool to grow your realm, and to protect what is yours. Click next to continue.;;;;;;;;;;;;;x
-tut_6a_3;Claims and Casus Bellis;;;;;;;;;;;;;x
-tut_6a_4;For you to be able to declare war, you first need some sort of casus belli. The most common kind is to get a claim. Other methods involve plots and events, but lets focus on claims. To see where our borders go, click the independent realms and we'll continue.;;;;;;;;;;;;;x
-tut_6a_5;Selecting a target;;;;;;;;;;;;;x
-tut_6a_6;Søroyar to the west of Ross seems like a good target. It would be a nice addition to our border, plus his maximum numbers of levy is not very impressive. Click on the province.;;;;;;;;;;;;;x
-tut_6a_7;Picking a Fight;;;;;;;;;;;;;x
-tut_6a_8;After reviewing the county stats, open the council screen.;;;;;;;;;;;;;x
-tut_6a_9;Picking a Fight II;;;;;;;;;;;;;x
-tut_6a_10;Now let's send our chancellor out on a secret mission to fabricate claims. Click the fabricate claims button, then click on Søroyar to place the chancellor there.;;;;;;;;;;;;;x
-tut_6a_10a;Job Done;;;;;;;;;;;;;x
-tut_6a_10b;Now you got an event pop-up. It says you now have a claim on the county which means you can go to war over it. Read it and click 'Press the claim' to continue. ;;;;;;;;;;;;;x
-tut_6a_11;Declare War;;;;;;;;;;;;;x
-tut_6a_12;Now it is time to actually declare war. So click on Søroyar again. Right click the portrait to open the diplomacy menu.;;;;;;;;;;;;;x
-tut_6a_13;Declare War II;;;;;;;;;;;;;x
-tut_6a_14;Click on declare war. Now you'll see the casus belli we just arranged for. Click on claim Søroyar and hit send.;;;;;;;;;;;;;x
-tut_6a_15;Diplomatic Map Mode;;;;;;;;;;;;;x
-tut_6a_16;The diplomatic map mode shows your diplomatic relations with other realms. Make sure you have your own province selected, then go to diplomatic map mode to see who you are at war with.;;;;;;;;;;;;;x
-tut_6a_17;Statistics;;;;;;;;;;;;;x
-tut_6a_18;At the bottom of the screen you can see an icon. That is showing you the leader of the opposite side in any war you are engaged in. Click the icon to see how the war is coming along.;;;;;;;;;;;;;x
-tut_6a_19;Warscore;;;;;;;;;;;;;x
-tut_6a_20;Here you can see how individual battles went, and also the warscore percentage. Warscore is the sum of how the war is going. To be able to claim provinces you'll need to get that number up so high that they will have to agree to your demands. Click next to continue.;;;;;;;;;;;;;x
-tut_6a_21;Ending a War;;;;;;;;;;;;;x
-tut_6a_22;For now, lets end this war. Press offer peace.;;;;;;;;;;;;;x
-tut_6a_23;Ending a War II;;;;;;;;;;;;;x
-tut_6a_24;The different outcomes of a war will be discussed in the intermediate war tutorial. Since you haven't won anything yet, demanding they surrender won't work. Offer a white peace or your surrender to end this part.;;;;;;;;;;;;;x
-tut_6b_1;War - Intermediate Level;;;;;;;;;;;;;x
-tut_6b_2;Once you want to end a war, there are a few different outcomes. Press next to learn about them.;;;;;;;;;;;;;x
-tut_6b_3;Peace outcome;;;;;;;;;;;;;x
-tut_6b_4;Attacker wins. The attacker get the claimed province or title, plus prestige and a higher score.;;;;;;;;;;;;;x
-tut_6b_5;Attacker loses. The attacker lose prestige which lowers the score. They also lose the claim.;;;;;;;;;;;;;x
-tut_6b_6;Truce. White peace. The attacker loses prestige.;;;;;;;;;;;;;x
-tut_6b_7;Press next to end this part.;;;;;;;;;;;;;x
-tut_6c_1;War - Advanced Level;;;;;;;;;;;;;x
-tut_6c_2;For the advanced part of war, let's discuss some finer points of warscore and de jure claims. Click next to continue.;;;;;;;;;;;;;x
-tut_6c_3;Warscore;;;;;;;;;;;;;x
-tut_6c_4;When at war, you will get warscore for winning a province in battle and siege. After that not much happens though. To make it easier to claim parts of a vast empire, this changes after three years though. If you hold an enemy province for more than three years, the warscore starts to rise.;;;;;;;;;;;;;x
-tut_6c_5;After three years, the warscore will start to rise for just holding the province in question. This will enable you to win over a remote province that the ruler you are fighting can't or won't send troops to defend, without you having to siege all of their other provinces. Click next to continue.;;;;;;;;;;;;;x
-tut_6c_6;De Jure;;;;;;;;;;;;;x
-tut_6c_7;De jure is a term used to describe what is legally considered part of a landed title, even if it de facto is controlled by another ruler right now. That means that if, for example, a county is de jure considered part of your duchy, you will always have a casus belli to go to war and take it. The de jure hierarchy is static and can never change. E.g. the Kingdom of France will, de jure, always consist of the same duchies, which will consist of the same counties, etc. Click next to end this part.;;;;;;;;;;;;;x
-tut_7a_1;Plots and Intrigue - Basic Level;;;;;;;;;;;;;x
-tut_7a_2;Plotting allows you to pursue goals in a less confrontational way than direct war. Other people can also plot against you though, so you always need to be prepared. Click the intrigue tab to continue.;;;;;;;;;;;;;x
-tut_7a_3;Window Overview;;;;;;;;;;;;;x
-tut_7a_4;This is an overview of your current ambition or plot, you have a list of decisions, and towards the bottom you have three tabs.;;;;;;;;;;;;;x
-tut_7a_5;Threats - People who are possible risks are listed here.;;;;;;;;;;;;;x
-tut_7a_6;Prisoners - A list of people you have imprisoned, and some information on them.;;;;;;;;;;;;;x
-tut_7a_7;Plots - This is where revealed plots against you are listed.;;;;;;;;;;;;;x
-tut_7a_8;Click next to end this part.;;;;;;;;;;;;;x
-tut_7b_1;Plots and Intrigue - Intermediate Level;;;;;;;;;;;;;x
-tut_7b_2;This part will tell you about ambitions. All playable characters can select an ambition in addition to plotting devious schemes. Click your character portait to learn more.;;;;;;;;;;;;;x
-tut_7b_3;Your Ambitions;;;;;;;;;;;;;x
-tut_7b_4;To the left of your portait you can see a small circular button called 'Choose an Ambition'. Here you can set an ambition for your current character. Example ambitions can be to get married, to hoard up a big pile of gold, get a thousand prestige or other things like this. When you succeed with an ambition, you will also get some kind of reward, a better reward for a harder ambition of course.;;;;;;;;;;;;;x
-tut_7b_5;Once you have completed an ambition, you can select a new one. Keep in mind that some of them can be really hard to obtain, so then you need to start planning ahead to be able to complete them. Click next to continue.;;;;;;;;;;;;;x
-tut_7b_6;Vassal Ambitions;;;;;;;;;;;;;x
-tut_7b_7;You are not the only one with ambitions, all your vassals can potentially have them too. Sometimes it will be something you can fix, sometimes not. If a character has the ambition to get married, and you arrange a marriage for them, they will like you more. They can also have ambitions you can do nothing about, or ambitions you do not want to fulfill.;;;;;;;;;;;;;x
-tut_7b_8;To see a vassal's ambition, click their portrait and it will be listed above the stats. Click next to end this part.;;;;;;;;;;;;;x
-tut_7c_1;Plots and Intrigue - Advanced Level;;;;;;;;;;;;;x
-tut_7c_2;Plots in Crusader Kings II can help you accomplish things that might have been hard or impossible otherwise. Going to war and winning against a foe with superior firepower for example. Unlike ambitions, it is often an aggressive act towards someone else. Often secret and illegal as well. Click the intrigue tab to continue.;;;;;;;;;;;;;x
-tut_7c_3;Plot Details;;;;;;;;;;;;;x
-tut_7c_4;We talked about ambitions in the intermediary intrigue tutorial. Plots can also be chosen from the character portrait screen by finding a character you wish to plot against and clicking the 'Choose a Plot' button. However, because it's hard to know exactly who you would benefit from plotting against, an easier way is to use the plot selector in the intrigue screen to find interesting plots. It is a large button called 'Click to choose a plot'.;;;;;;;;;;;;;x
-tut_7c_5;You can have one plot and one ambition active at any given time. If you already have a plot and want to scheme against another character, you will have to cancel your old plot first.;;;;;;;;;;;;;x
-tut_7c_6;Once you have selected a plot, you will see the target to the left, which backers you have acquired in the middle and the plot power to the right. Plot power is your strength relative to the target. To invite backers and strengthen your plot power, use the plus sign in that row. It will appear when you have selected a plot. Click next to continue.;;;;;;;;;;;;;x
-tut_7c_7;Two Kinds;;;;;;;;;;;;;x
-tut_7c_8;There are two kinds of plots, and they use different plot power. The military ones simply rely on military might. You make sure you and your backers have more of it, then threaten to wage war against them if they do not comply. The other kind relies on intrigue power, and there it will be the relative intrigue score of both sides that comprises the plot power. Click next to end this part.;;;;;;;;;;;;;x
-tut_8a_1;Religion - Basic Level;;;;;;;;;;;;;x
-tut_8a_2;Religion with all that implies, can have a big impact on what happens in your game. Crusades, piety and your own religious vassals will all play their part. The church head, which will be either a Pope, Caliph or an Ecumenical Patriarch, is the religious power for each of their religions. The Pope can not just start holy wars, he is also the one who can grant you a divorce for example. Click the religion tab to continue.;;;;;;;;;;;;;x
-tut_8a_3;Window Overview;;;;;;;;;;;;;x
-tut_8a_4;Here you will see that you are part of the catholic church, and you can also find the pope here and see whether he likes you or not. A high moral authority is good for the church, and bad for those who oppose it.;;;;;;;;;;;;;x
-tut_8a_5;If the pope has called to a crusade, that will be listed here. The bottom part of this window lists your vassal bishops and lets you appoint successors for each one of them. Click next to end this part.;;;;;;;;;;;;;x
-tut_8b_1;Religion - Intermediate Level;;;;;;;;;;;;;x
-tut_8b_2;This part of the tutorial will teach you about opinions, laws and crusades. Click next to continue.;;;;;;;;;;;;;x
-tut_8b_3;Religious Vassals;;;;;;;;;;;;;x
-tut_8b_4;Religious vassals of Catholic rulers will only give you troops and money if they have a higher opinion of you than they do of the Pope. The easiest way to assure that, is to actually appoint someone to bishop that already likes you. Click the laws tab to see how you can accomplish that.;;;;;;;;;;;;;x
-tut_8b_5;Investiture;;;;;;;;;;;;;x
-tut_8b_6;In the Realm tab you can find the Investiture Law. This can either be set to papal, which means the pope elects the bishops, or free, which means that you can select your bishops by yourself. The pope will not be happy of course. Click next to learn about crusades.;;;;;;;;;;;;;x
-tut_8b_7;Crusades;;;;;;;;;;;;;x
-tut_8b_8;What instigates a Crusade is that the Pope appoints an area that needs to be conquered in the name of the Catholic church. For him to be able to do that, it must currently be held by Muslims or Pagans. When he does this, a special Crusade war will begin which you are able to join by going to the Pope's diplomatic interactions and choosing 'Offer to Join War'.;;;;;;;;;;;;;x
-tut_8b_9;If a Crusade is successful, the ruler who had the biggest impact (highest participation score) on the Catholic side of the war will be considered to have won the Crusade.;;;;;;;;;;;;;x
-tut_8b_10;Should you choose to join the Crusade and manage to be the one that wins the Crusade, you will be given all the land held by the enemy in the Crusade area. You will also get piety and prestige, as well as a Crusader trait.;;;;;;;;;;;;;x
-tut_8b_11;Should you join the Crusade but one of the other Catholics wins it, you will not get any land but you will still get piety and prestige, as well as the Crusader trait. Click next to end this part.;;;;;;;;;;;;;x
-tut_8c_1;Religion - Advanced Level;;;;;;;;;;;;;x
-tut_8c_2;If you happen to be an independent ruler and have had a really bad fallout with the pope, you can appoint an antipope. This antipope can then be used to go to war with the current pope, and if you win, you can replace the pope with your antipope. Click the religion tab to continue.;;;;;;;;;;;;;x
-tut_8c_3;Antipope;;;;;;;;;;;;;x
-tut_8c_4;What you need to create an antipope is: free investiture and a bishop that likes you more than the pope. As you can see here, you have a bishop. Unfortunately, he does not like you very much. Had he done that though, we could have clicked the little button to the right and made him an antipope. ;;;;;;;;;;;;;x
-tut_8c_5;Once you have your very own antipope, people who like your antipope more than the pope will pay taxes to you instead, you can circumvent excommunications and you can go to war against the pope in your antipopes place. Click next to end this part.;;;;;;;;;;;;;x
-tut_9b_1;The Feudal System - Basic and Intermediate Level;;;;;;;;;;;;;x
-tut_9b_2;The hierarchy in Crusader Kings is strict, and those down the chain of authority provide troops and taxes to the ones above them, regulated by laws. Click next to continue.;;;;;;;;;;;;;x
-tut_9b_3;Hierarchy;;;;;;;;;;;;;x
-tut_9b_4;The hierarchy is divided in three sets: city, temple or castle. If your capital is city based, you are a burgher. If your capital is temple based, you are a prince-bishop. If your capital is castle based, you are a feudal lord. This matters in the laws screen, where you have two laws for each kind of ruler. More details on all ranks are available in the manual. The playable ranks are: Count/Countess -> Duke/Duchess -> King/Queen -> Emperor/Empress. Click the laws tab to continue.;;;;;;;;;;;;;x
-tut_9b_5;Laws;;;;;;;;;;;;;x
-tut_9b_6;In the Realm and Obligations tabs you will find laws affecting not only yourself but also how much levies and taxes your vassals provide. You will be able to customize your Realm according to your preference. Click next to end this part.;;;;;;;;;;;;;x
-tut_9c_1;The Feudal System - Advanced Level;;;;;;;;;;;;;x
-tut_9c_2;The changes from the previous game are two new hierarchy levels and crown laws. Click next to continue;;;;;;;;;;;;;x
-tut_9c_3;The Hierarchy;;;;;;;;;;;;;x
-tut_9c_4;The two new hierarchy levels are emperor/empress and baron/baroness. The emperor sits in the absolute top above kings, and this is a playable character. The barons on the other hand are towards the lower end of the scale. They are beneath counts, and they are not playable. Lets move on to the crown laws. Click the laws tab to continue.;;;;;;;;;;;;;x
-tut_9c_5;Crown Laws;;;;;;;;;;;;;x
-tut_9c_6;In the Realm tab you see the laws that are not related to Succession. On the top you have the laws marked with a crown, which means they are crown laws. They concern how much freedom a king or emperor has. Your vassals will be hard to convince, but if they like you enough and you have high prestige, they will pose but a minor problem.;;;;;;;;;;;;;x
-tut_9c_7;The other crown law is investiture. It can be either you or the pope that appoints bishops. Either choice will have some side-effects as well, so be sure to check the tooltip before you change. Click next to end this last part of the tutorial.;;;;;;;;;;;;;x
-tut_menu_0;The Feudal System;;;;;;;;;;;;;x
-tut_menu_0_description;Learn about the hierarchy of titles;;;;;;;;;;;;;x
-tut_menu_1;The Economy;;;;;;;;;;;;;x
-tut_menu_1_description;Learn about counties, landed holding and taxation;;;;;;;;;;;;;x
-tut_menu_2;The Council;;;;;;;;;;;;;x
-tut_menu_2_description;Learn about the councillors and their jobs;;;;;;;;;;;;;x
-tut_menu_3;Succession;;;;;;;;;;;;;x
-tut_menu_3_description;Learn about inheritance, laws and dynasties;;;;;;;;;;;;;x
-tut_menu_4;Diplomacy;;;;;;;;;;;;;x
-tut_menu_4_description;Character opinions, traits, marriages alliances;;;;;;;;;;;;;x
-tut_menu_5;Military and Combat;;;;;;;;;;;;;x
-tut_menu_5_description;Learn about units, levies, mercenaries, battles and sieges;;;;;;;;;;;;;x
-tut_menu_6;War;;;;;;;;;;;;;x
-tut_menu_6_description;Learn about claims, casus bellis, peace outcomes and war score;;;;;;;;;;;;;x
-tut_menu_7;Plots and Intrigue;;;;;;;;;;;;;x
-tut_menu_7_description;Learn about ambitions, plots, revolts and the intrigue view;;;;;;;;;;;;;x
-tut_menu_8;Religion;;;;;;;;;;;;;x
-tut_menu_8_description;Learn about papal abilities, crusades, holy orders, investiture and antipopes;;;;;;;;;;;;;x
-tut_menu_9;Introduction;;;;;;;;;;;;;x
-tut_menu_9_description;This tutorial will introduce you to the most basic parts of what Crusader Kings II is and how you play it.;;;;;;;;;;;;;x
-tutorial_chapter_budget_intm;End of the Intermediary Budget Tutorial;;;;;;;;;;;;;x
-tutorial_chapter_council_basic;End of the basic council tutorial;;;;;;;;;;;;;x
-tutorial_chapter_council_intm;End of the intermediary council tutorial;;;;;;;;;;;;;x
-tutorial_chapter_diplomacy_basic;End of the basic diplomacy tutorial;;;;;;;;;;;;;x
-tutorial_chapter_diplomacy_intm;End of the intermediary diplomacy tutorial;;;;;;;;;;;;;x
-tutorial_chapter_economy_basic;End of the basic economy tutorial;;;;;;;;;;;;;x
-tutorial_chapter_economy_intm;End of the intermediary economy tutorial;;;;;;;;;;;;;x
-tutorial_chapter_end;Choose how you wish to proceed.;;;;;;;;;;;;;x
-tutorial_chapter_feudal_intm;End of the intermediary feudal system tutorial;;;;;;;;;;;;;x
-tutorial_chapter_introduction;End of Introduction.;;;;;;;;;;;;;x
-tutorial_chapter_military_basic;End of the basic military tutorial.;;;;;;;;;;;;;x
-tutorial_chapter_military_intm;End of the intermediary military tutorial.;;;;;;;;;;;;;x
-tutorial_chapter_plots_basic;End of the basic plots and intrigue tutorial;;;;;;;;;;;;;x
-tutorial_chapter_plots_intm;End of the intermediary plots and intrigue tutorial;;;;;;;;;;;;;x
-tutorial_chapter_religion_basic;End of the basic religion tutorial;;;;;;;;;;;;;x
-tutorial_chapter_religion_intm;End of the intermediary religion tutorial;;;;;;;;;;;;;x
-tutorial_chapter_succession_basic;End of the basic succession tutorial;;;;;;;;;;;;;x
-tutorial_chapter_succession_intm;End of the intermediary succession tutorial;;;;;;;;;;;;;x
-tutorial_chapter_war_basic;End of the basic war tutorial;;;;;;;;;;;;;x
-tutorial_chapter_war_intm;End of the intermediary war tutorial;;;;;;;;;;;;;x
-tutorial_continue_advanced;Advanced $TYPE$;;;;;;;;;;;;;x
-tutorial_continue_basic;Basic $TYPE$;;;;;;;;;;;;;x
-tutorial_continue_end;Return to Menu;;;;;;;;;;;;;x
-tutorial_continue_intermediary;Intermediary $TYPE$;;;;;;;;;;;;;x
-tutorial_end_of_chapter;End of Tutorial Chapter;;;;;;;;;;;;;x
+chapter_name_0;Feudal System;;;;;;;;;;;Ôåîäàëüíàÿ ñèñòåìà;;x
+chapter_name_1;Economy;;;;;;;;;;;Ýêîíîìèêà;;x
+chapter_name_2;Council;;;;;;;;;;;Ñîâåò;;x
+chapter_name_3;Succession;;;;;;;;;;;Íàñëåäîâàíèå;;x
+chapter_name_4;Diplomacy;;;;;;;;;;;Äèïëîìàòèÿ;;x
+chapter_name_5;Military and Combat;;;;;;;;;;;Îòðÿäû è Ñðàæåíèÿ;;x
+chapter_name_6;War;;;;;;;;;;;Âîéíà;;x
+chapter_name_7;Plots and Intrigue;;;;;;;;;;;Çàãîâîðû è èíòðèãè;;x
+chapter_name_8;Religion;;;;;;;;;;;Öåðêîâü;;x
+chapter_name_9;Introduction;;;;;;;;;;;Ïðåäèñëîâèå;;x
+tut_0a_1;Welcome to Crusader Kings II;;;;;;;;;;;Äîáðî ïîæàëîâàòü â Crusader Kings II.;;x
+tut_0a_2;This is an introduction to Crusader Kings II, a Grand Strategy Game set in medieval Europe. As emperor, king, count or duke, lead your dynasty to glory! \nSo where do you come into all this? Click next to find out.;;;;;;;;;;;"Crusader Kings II - ãëîáàëüíàÿ ñòðàòåãèÿ, îñíîâàííàÿ íà æèçíè ñðåäíåâåêîâîé Åâðîïû. Íà÷í¸ì ââåäåíèå â èãðó. Áóäó÷è èìïåðàòîðîì, êîðîë¸ì, ãðàôîì èëè ãåðöîãîì, Âû äîëæíû ïðèâåñòè ñâîþ äèíàñòèþ ê ñëàâå. \nÍà÷í¸ì è ñäåëàåì ïåðâûé øàã. Íàæìèòå íà êíîïêó ""Ñëåäóþùàÿ ãëàâà"", ÷òîáû óçíàòü";;x
+tut_0a_3;Realm View;;;;;;;;;;;Îáçîð ãîñóäàðñòâà;;x
+tut_0a_4;The realm view is where you can get a quick overview of your realm. Your vassals, economy, history and more. Click on the shield next to the portrait to find it. You can click the 'De Jure' checkbox to see the regions that are tied to your title by bonds that will never break.;;;;;;;;;;;"Îáçîð Ãîñóäàðñòâà - ýòî ïàíåëü, ãäå ìîæíî áûñòðî îöåíèòü ñâîè âëàäåíèÿ: ñïèñîê âàññàëîâ, ýêîíîìèêó, èñòîðèþ è ò.ä. Êëèêíèòå íà ùèò ðÿäîì ñ ïîðòðåòîì ïðàâèòåëÿ, ÷òîáû îòêðûòü ýòó ïàíåëü. Ìîæíî àêòèâèðîâàòü ðåæèì ""Äå-þðå"", ÷òîáû óâèäåòü ðåãèîíû, ïðåòåíçèè íà êîòîðûå Âû íèêîãäà íå ïîòåðÿåòå.";;x
+tut_0a_5;Character View;;;;;;;;;;;Îáçîð ïåðñîíàæåé;;x
+tut_0a_6;Click the portrait. All characters have a view like this. This is the King of Scotland, and here you can see that his parents and grandparents are dead. He has three children and three siblings.;;;;;;;;;;;Êëèêíèòå ïî ïîðòðåòó ñâîåãî ïåðñîíàæà. Ýòî - êîðîëü Øîòëàíäèè. Íèæå Âû íàéäåòå ïîðòðåòû åãî ðîäèòåëåé. Â äàííîì ñëó÷àå îíè óæå ìåðòâû, î ÷¸ì ñâèäåòåëüñòâóåò ñîîòâåòñòâóþùèé ìàðêåð. Òàêæå ó íåãî åñòü òðè áðàòà è òðîå äåòåé.;;x
+tut_0a_7;To the upper right you can open the family and dynasty trees. Above that you'll see a small 'W' icon. Sometimes you can click this and it will link you to the actual character on Wikipedia. You can also see the titles and claims here, as well as the stats and traits the character has.;;;;;;;;;;;"Âûøå è ïðàâåå ðàñïîëàãàåòñÿ ðîäîâîå äðåâî. Âû ìîæåòå ïðîñìîòðåòü åãî. Íàâåðõó Âû óâèäèòå ìàëåíüêóþ èêîíêó ""W"". Åñëè â Âèêèïåäèè åñòü ñòàòüÿ îá ýòîì ÷åëîâåêå, òî, íàæàâ íà íå¸, Âû ïåðåéä¸òå íà ñîîòâåòñòâóþùóþ ñòðàíèöó. Êðîìå òîãî, çäåñü ìîæíî óâèäåòü òèòóëû è ïðåòåíçèè, ñòàòèñòèêó è ÷åðòû õàðàêòåðà ïåðñîíàæà.";;x
+tut_0a_7b;Note that you can also right click the portrait of characters to open a diplomacy menu with that character.;;;;;;;;;;;Êëèêíèâ ïðàâîé êíîïêîé ìûøè (ÏÊÌ) íà ïîðòðåò íóæíîãî ïåðñîíàæà, Âû ìîæåòå îòêðûòü ìåíþ äèïëîìàòèè ñ íèì.;;x
+tut_0a_8;The Information Bar;;;;;;;;;;;Ïàíåëü èíôîðìàöèè;;x
+tut_0a_9;Here you can get a quick overview of your realm.;;;;;;;;;;;Çäåñü Âû ìîæåòå ïîäðîáíåå óçíàòü î Âàøåì ãîñóäàðñòâå.;;x
+tut_0a_10;From left to right, we have:;;;;;;;;;;;Çäåñü ïîêàçàíû:;;x
+tut_0a_11;Wealth. How much money you have. Hover over the sum to see your monthly income or loss.;;;;;;;;;;;Êàçíà. Îòîáðàæàåò êîëè÷åñòâî çîëîòà â ñîêðîâèùíèöå, åæåìåñÿ÷íûé äîõîä è ðàñõîä.;;x
+tut_0a_12;Prestige. This is a measure of your success. Hover over the sum to see your monthly gain or loss. Hover longer to see exactly what the sources are. You can also gain or lose prestige from actions.;;;;;;;;;;;Ïðåñòèæ. Ýòî ïîêàçàòåëü Âàøåãî óñïåõà. Çäåñü îòîáðàæàåòñÿ êîëè÷åñòâî î÷êîâ ïðåñòèæà, êîòîðîå Âû ïîëó÷àåòå èëè òåðÿåòå êàæäûé ìåñÿö, è ïî êàêîé ïðè÷èíå ýòî ïðîèñõîäèò. Íåêîòîðûå Âàøè äåéñòâèÿ ìîãóò èçìåíèòü ïîêàçàòåëü ïðåñòèæà.;;x
+tut_0a_13;Piety. How the church sees you. Hover over the sum to see monthly gain or loss. Hover longer to see exactly what the sources are. You can also gain or lose piety from actions.;;;;;;;;;;;Áëàãî÷åñòèå. Ìíåíèå Öåðêâè î Âàñ. Ìîæíî îöåíèòü ïðèðîñò èëè óáûëü Áëàãî÷åñòèÿ çà ìåñÿö, åñëè íàâåñòè è ïîäåðæàòü óêàçàòåëü ìûøè íàä çíà÷åíèåì. Åñëè ïîäåðæàòü äîëüøå, òî ïîÿâèòñÿ ñïèñîê ôàêòîðîâ, êîòîðûå âëèÿþò íà ïðèðîñò. Áëàãî÷åñòèå ìîæíî òåðÿòü èëè ïîëó÷àòü îò ñîáûòèé è äåéñòâèé.;;x
+tut_0a_14;Demesne Size. If you go over the limit, your vassals will dislike you and you will get taxation penalties. Remedy this by handing out landed titles to decrease the size of your demesne. Hover over the number to see where the max size is coming from.;;;;;;;;;;;Âëàäåíèÿ. Çäåñü óêàçàíû ìàêñèìàëüíûé ðàçìåð è ôàêòîðû, âëèÿþùèå íà íåãî. Ïðåâûøåíèå ëèìèòà ïðèâåä¸ò ê íåäîâîëüñòâó ñðåäè Âàøèõ âàññàëîâ è ïîâëèÿåò íà íàëîãè. Âû ìîæåòå ýòî èñïðàâèòü, ðàçäàâ çåìëè âàññàëàì;;x
+tut_0a_15;Vassal Limit. Going over the limit will have a negative effect on the amount of taxes and levies you get from your vassals, and you might lose the grip of your vassals upon death. Remedy this by giving your vassals higher tier titles to allow them to have vassals on their own. Hover over the number to see where the limit is coming from.;;;;;;;;;;;Âàññàëüíûé ëèìèò. Ïðåâûøåíèå ýòîãî çíà÷åíèÿ áóäåò èìåòü íåãàòèâíîå âîçäåéñòâèå íà ñáîð íàëîãîâ è îïîë÷åíèÿ îò Âàøèõ âàññàëîâ. Òàêæå Âû ìîæåòå ïîòåðÿòü âàññàëüíûå ñâÿçè ïîñëå ñìåðòè. ×òîáû ýòî ïðåäîòâðàòèòü, æàëóéòå Âàøèì âàññàëàì âûñîêèå òèòóëû, ÷òîáû ïîçâîëèòü èì èìåòü ñâîèõ âàññàëîâ. Íàâåäèòå óêàçàòåëü ìûøè íà ÷èñëî, ÷òîáû óâèäåòü, êàê ðàñ÷èòûâàåòñÿ ïðåäåë.;;x
+tut_0a_16;Realm Size. This is the total number of holdings owned by you and your vassals.  Hover over the number to see holdings per vassal.;;;;;;;;;;;Ðàçìåð ãîñóäàðñòâà. Ýòî êîëè÷åñòâî âëàäåíèé, êîòîðûìè óïðàâëÿåòå Âû è Âàøè âàññàëû. Çäåñü æå - êîëè÷åñòâî âëàäåíãèé, ïðèõîäÿùèõñÿ íà îäíîãî âàññàëà.;;x
+tut_0a_17;Score. This is your dynasty's total score. The score is calculated by adding the prestige and piety of each of your rulers at the time of their death. This will determine your final rank.;;;;;;;;;;;Ñ÷¸ò. Ñóììàðíûé ñ÷¸ò Âàøåé äèíàñòèè. Ïîñëå ñìåðòè êàæäîãî Âàøåãî ïðàâèòåëÿ, åãî ïðåñòèæ è áëàãî÷åñòèå ïðèáàâëÿþòñÿ ê îáùåìó ñ÷¸òó. Ýòà öèôðà îïðåäåëèò Âàøå ìåñòî â êîíöå èãðû.;;x
+tut_0a_18;The Map;;;;;;;;;;;Êàðòà;;x
+tut_0a_19;On the world map you can see your troops, borders and buildings. To move the map you can move the mouse pointer to the edges or use the arrow keys. You can zoom by using the mouse wheel. By default this will zoom in to the cursor position. You can try that now before clicking next.;;;;;;;;;;;Íà êàðòå ìèðà îòîáðàæàþòñÿ âîéñêà, ãðàíèöû è ñòðîåíèÿ. Äëÿ ïåðåìåùåíèÿ ïî êàðòå, Âû ìîæåòå èñïîëüçîâàòü ìûøü èëè êíîïêè ñòðåëîê. Ìàñøòàá ìîæíî èçìåíÿòü, ïðîêðó÷èâàÿ êîëåñèêî ìûøè.;;x
+tut_0a_20;Lost?;;;;;;;;;;;Çàáëóäèëèñü?;;x
+tut_0a_21;You can easily navigate over long distances using the minimap. Click on it and you will be transported to that location. There is also a 'Go to home province' button to transport you home immediately. Press that now.;;;;;;;;;;;"Âû ìîæåòå ëåãêî îñóùåñòâëÿòü ïåðåõîä íà áîëüøèå ðàññòîÿíèÿ, èñïîëüçóÿ ìèíèêàðòó. Ïðîñòî íàæìèòå íà çíà÷îê, è Âû ìãíîâåííî ïåðåìåñòèòåñü ê óêàçàííîìó ìåñòó. Êíîïêà ""Äîìîé"" ïåðåíåñ¸ò Âàñ ê ñòîëèöå. Íàæìèòå å¸ ñåé÷àñ.";;x
+tut_0a_22;Map Modes;;;;;;;;;;;Ðåæèìû êàðòû;;x
+tut_0a_23;For different types of information, there are different map modes. We are in the terrain map mode right now. The independent map mode paints the name of the countries neatly over the map. If you zoom further in, the name of the individual provinces will pop up instead. Switch to the independent realms map mode now to see more defined borders.;;;;;;;;;;;Êàæäûé ðåæèì êàðòû ïðåäíàçíà÷åí äëÿ ðàçíûõ öåëåé. Ñåé÷àñ Âû íàõîäèòåñü â ðåæèìå ôèçè÷åñêîé êàðòû. Ðåæèì íåçàâèñèìûõ ãîñóäàðñòâ îòîáðàæàåò íàçâàíèÿ ñòðàí ïðÿìî íà êàðòå. Åñëè Âû ïðèáëèçèòå êàðòó, íà íåé ïîÿâÿòñÿ íàçâàíèÿ îòäåëüíûõ îêðóãîâ âìåñòî íàçâàíèé ãîñóäàðñòâ. Ïåðåêëþ÷èòåñü â ðåæèì íåçàâèñèìûõ ãîñóäàðñòâ, ÷òîáû óâèäåòü ãðàíèöû.;;x
+tut_0a_24;Time;;;;;;;;;;;Äàòà;;x
+tut_0a_25;The game starts paused. You can do all of the aforementioned actions while the game is paused or unpaused. However, nothing will actually happen until you unpause.;;;;;;;;;;;Èãðà íà÷èíàåòñÿ â ðåæèìå ïàóçû. Âñå ïðèêàçû è äåéñòâèÿ ìîæíî ðàçäàâàòü è â ðåàëüíîì âðåìåíè, è â ðåæèìå ïàóçû, íî ïîêà Âû íå ñíèìèòå ïàóçó, íè÷åãî íå ïðîèçîéä¸ò.;;x
+tut_0a_26;As you can see the current date is September 15, 1066. Next to the date you see a pause symbol and a plus and minus sign. By clicking the pause symbol you can start the time and by using the + and - signs you can increase or decrease how fast the time moves. The keyboard shortcut to pause/unpause is space. You can also use the + and - signs on the numpad part of the keyboard to increase/decrease speed. Unpause now to continue.;;;;;;;;;;;"Òåêóùàÿ äàòà - 15 ñåíòÿáðÿ 1066. Çà äàòîé ðàñïîëîæåíû êíîïêè ïàóçû è ðåãóëèðîâàíèÿ ñêîðîñòè èãðû. Âìåñòî ýòîé êíîïêè ïàóçû ìîæíî èñïîëüçîâàòü ïðîáåë. Êíîïêè ""+"" è ""-""  êëàâèàòóðû ìåíÿþò ñêîðîñòü èãðû. Ñíèìèòå èãðó ñ ïàóçû äëÿ ïðîäîëæåíèÿ.";;x
+tut_0a_27;How to Stay in Control ;;;;;;;;;;;Êàê ñîõðàíèòü óïðàâëåíèå.;;x
+tut_0a_28;There are a lot of things going on in the world. Some very important, some less. There are a few different ways to be notified:;;;;;;;;;;;Â ìèðå ïîëíî íîâîñòåé. Íåêîòîðûå âàæíûå, íåêîòîðûå íåò. Ñóùåñòâóåò ìíîæåñòâî ñïîñîáîâ áûòü â êóðñå äåë:;;x
+tut_0a_29;Popups. Large messages that pop up and usually demands that you take some kind of action. Read the tooltips on the buttons before you choose.;;;;;;;;;;;Âñïëûâàþùèå îêíà. Îíè ñîäåðæàò áîëüøèå ñîîáùåíèÿ, èçâåùàþùèå î âàæíûõ íîâîñòÿõ, êîòîðûå îáû÷íî òðåáóþò Âàøåãî âíèìàíèÿ è çàñòàâëÿþò ñäåëàòü âûáîð. Âíèìàòåëüíî èçó÷èòå âàðèàíòû ïåðåä òåì, êàê âûáðàòü.;;x
+tut_0a_30;Messages. To the upper right you have the more important messages on top, less important below. You can change the settings for when these show up.;;;;;;;;;;;Ñîîáùåíèÿ. Îíè îòîáðàæàþòñÿ ñïðàâà ââåðõó, âàæíûå ñîîáùåíèÿ - âûøå, ìåíåå âàæíûå - íèæå. Âû ìîæåòå èçìåíèòü íàñòðîéêè èõ îòîáðàæåíèÿ.;;x
+tut_0a_31;Alerts. These round icons show important things that need an action from you. They can be related to, for example, succession or diplomacy. Keeping an eye on them can make or break your fortunes, so ignore at your peril!;;;;;;;;;;;Îïîâåùåíèÿ. Ýòè êðóãëûå èêîíêè ñîîáùàþò î âàæíûõ àñïåêòàõ, êîòîðûå òðåáóþò Âàøåãî âíèìàíèÿ. Íàïðèìåð, îíè ìîãóò áûòü ñâÿçàíû ñ äèïëîìàòèåé èëè âîïðîñàìè íàñëåäîâàíèÿ.;;x
+tut_1a_1;Economy - Basic Level;;;;;;;;;;;Îñíîâû ýêîíîìèêè;;x
+tut_1a_2;The income you have comes from provinces, both the ones you control directly and those owned by your vassals. Each province gives you money and troops, so the more provinces you have, the more troops and money you can have.;;;;;;;;;;;Âàøè äîõîäû îáåñïå÷èâàþòñÿ çåìëÿìè, êîòîðûìè óïðàâëÿåòå íåïîñðåäñòâåííî Âû è Âàøè âàññàëû. Êàæäûé îêðóã ñíàáæàåò Âàñ çîëîòîì è ðåêðóòàìè. ×åì áîëüøå ó Âàñ çåìåëü, òåì áîëüøå ó Âàñ áóäåò ðåêðóòîâ è çîëîòà.;;x
+tut_1a_3;Because you are playing as a Catholic ruler, provinces owned by religious holders like bishops will only give you money if their opinions of you are higher than their opinion of the Pope. Otherwise the money goes to him. Vassals other than bishops will always give you money, but you will get more if they like you.;;;;;;;;;;;Ïîñêîëüêó Âû èãðàåòå êàòîëèêîì, çåìëè ïîä óïðàâëåíèåì öåðêîâíûõ âëàäåòåëåé, íàïðèìåð åïèñêîïîâ, áóäóò ñíàáæàòü Âàñ çîëîòîì òîëüêî â òîì ñëó÷àå, åñëè èõ ìíåíèå î Âàñ âûøå ìíåíèÿ î Ïàïå Ðèìñêîì. Èíà÷å äåíüãè áóäóò îòäàíû åìó. Ñâåòñêèå âàññàëû âñåãäà äåëÿòñÿ ñ Âàìè äîõîäàìè, íî Âû ïîëó÷èòå áîëüøå, åñëè îíè áóäóò Âàì ñèìïàòèçèðîâàòü.;;x
+tut_1a_3a;Taxes;;;;;;;;;;;Íàëîãè;;x
+tut_1a_4;Your expenses are any military that you have raised, and if you have a liege, you might pay taxes to them. You can click the realm view now to get an overview of your economy. Then click next.;;;;;;;;;;;"Âàøè âîåííûå ðàñõîäû çàâèñÿò îò âñåõ ïðèçíàííûõ Âàìè âîéñê. Åñëè ó Âàñ åñòü ñþçåðåí, Âû äîëæíû ïëàòèòü åìó íàëîãè. ×òîáû óçíàòü áîëüøå îá ýêîíîìèêå ñòðàíû, íàæìèòå íà îáçîð ãîñóäàðñòâà. Ïîòîì íàæìèòå êíîïêó ""Ñëåäóþùàÿ ãëàâà"".";;x
+tut_1b_1;Economy - Intermediate Level;;;;;;;;;;;Ýêîíîìèêà. Ñðåäíèé óðîâåíü ;;x
+tut_1b_2;As you can see in the upper right, you have a limit for how many Holdings you can control directly. If you cross this limit, you will get negative effects in the form of tax penalties and your vassals disliking you;;;;;;;;;;;Ââåðõó óêàçàíî êîëè÷åñòâî âëàäåíèé, êîòîðûìè Âû ìîæåòå óïðàâëÿòü. Ïðåâûøåíèå ýòîãî êîëè÷åñòâà íåãàòèâíî ñêàæåòñÿ íà íàëîãàõ è ìíåíèè âàññàëîâ î Âàñ.;;x
+tut_1b_3;To prevent this from happening, make sure you keep under your Demesne limit by handing out landed titles to your vassals. Now, click a County.;;;;;;;;;;;Ñòàðàéòåñü íå ïðåâûøàòü ëèìèò, à åñëè ïðåâûñèëè, ðàçäàéòå ëèøíèå çåìëè âàññàëàì. Òåïåðü âûáåðèòå îêðóã.;;x
+tut_1b_4;Holdings;;;;;;;;;;;Âëàäåíèÿ;;x
+tut_1b_5;A County can have different types of Holdings. Depending on what you build in the County, you will get different amounts of tax money, and different kinds of troops from it.;;;;;;;;;;;Â îêðóãå ìîãóò áûòü ðàçëè÷íûå òèïû âëàäåíèé. Îò ýòèõ òèïîâ çàâèñèò êîëè÷åñòâî íàëîãîâ, à òàê æå äîñòóïíîñòü è ðàçíîîáðàçèå âîåííûõ ïîçäðàçäåëåíèé.;;x
+tut_1b_6;For example, a city gives you more money but fewer and lighter troops.;;;;;;;;;;;Íàïðèìåð, ãîðîäà ïðèíîñÿò áîëüøå íàëîãîâ, íî ìîãóò ñîäåðæàòü òîëüêî íåáîëüøèå îòðÿäû ë¸ãêîé ïåõîòû.;;x
+tut_1c_1;Economy - Advanced Level;;;;;;;;;;;Ýêîíîìèêà. Ïðîäâèíóòûé óðîâåíü ;;x
+tut_1c_2;We now have holdings in the provinces instead of buildings. These holdings can be improved upon, or you can build new ones.;;;;;;;;;;;Ñóùåñòâóþò ðàçëè÷íûå òèïû âëàäåíèé â îêðóãàõ. Âëàäåíèÿ ìîæíî óëó÷øèòü èëè ïîñòðîèòü íîâûå.;;x
+tut_1c_3;To build a new holding you need three things:;;;;;;;;;;;Äëÿ ñîçäàíèÿ íîâîãî âëàäåíèÿ íåîáõîäèìî:;;x
+tut_1c_4;1. A free slot.;;;;;;;;;;;1. Ñâîáîäíîå ïðîñòðàíñòâî.;;x
+tut_1c_5;2. Enough money.;;;;;;;;;;;2. Íàëè÷èå äåíåæíûõ ñðåäñòâ.;;x
+tut_1c_6;3. A balanced province. You can't build a second city holding if you do not have one of each already. Click on a province to view some holdings. York down in England has one of each.;;;;;;;;;;;3. Ñîáëþäåíèå îñîáîãî ïîðÿäêà. Ïðåæäå, ÷åì îñíîâàòü âòîðîå âëàäåíèå óæå èìåþùåãîñÿ ó Âàñ òèïà, Âàì íóæíî ïîñòðîèòü è äðóãèå òèïû âëàäåíèé. Íàïðèìåð, åñëè ó Âàñ óæå åñòü çàìîê è ãîðîä, Âû ñìîæåòå ïîñòðîèòü òîëüêî Õðàì.\nÂûáåðèòå îêðóã äëÿ ïðîñìîòðà âëàäåíèé. Íàïðèìåð: Éîðê - îäíî èç âëàäåíèé â îêðåñòíîñòÿõ Ëîíäîíà.;;x
+tut_1c_7;The Province View;;;;;;;;;;;Îáçîð îêðóãà;;x
+tut_1c_8;In the province view you can see how much income the province has, and also how much of it goes to you in taxes.;;;;;;;;;;;Çäåñü ñîäåðæèòñÿ èíôîðìàöèÿ î äîõîäíîñòè îêðóãà è î òîì, êàêàÿ å¸ ÷àñòü èä¸ò íà óïëàòó íàëîãîâ.;;x
+tut_1c_9;You can also hover over each holding slot to see how much tax it yields and its fort level.;;;;;;;;;;;Òàêæå ìîæíî ïîëó÷èòü èíôîðìàöèþ î êîíêðåòíîì âëàäåíèè, êàê îíî âëèÿåò íà íàëîãè è Óêðåïë¸ííîñòü.;;x
+tut_2a_1;The Council - Basic Level;;;;;;;;;;;Îñíîâû ðàáîòû ñîâåòà;;x
+tut_2a_2;A ruler does not rule alone. You have access to five types of advisors that help you. The first advisor is the chancellor, who assists your ruler in the diplomatic field. Further you have the marshal, who is your resident military expert. Then you have the steward, who is in charge of your economy. The spymaster is responsible for keeping you safe from internal as well as external intrigue, and the chaplain is your guide in everything spiritual.;;;;;;;;;;;Ãîñóäàðü íå ïðàâèò â îäèíî÷êó. Âàì ïîìîãàþò ïÿòü ñîâåòíèêîâ. Ïåðâûé ñîâåòíèê - êàíöëåð, ïîìîãàåò Âàì â âîïðîñàõ äèïëîìàòèè. Ìàðøàë ÿâëÿåòñÿ Âàøèì âîåííûì ýêñïåðòîì. Óïðàâëÿþùèé îòâå÷àåò çà Âàøó ýêîíîìèêó. Òàéíûé ñîâåòíèê îòâåòñòâåíåí çà áåçîïàñíîñòü è çàùèùàåò Âàñ îò âíóòðåííèõ è âíåøíèõ óãðîç. Äóõîâíèê æå ÿâëÿåòñÿ Âàøèì íàñòàâíèêîì â âîïðîñàõ ðåëèãèè.;;x
+tut_2a_3;These vassals can perform missions for you. The chancellor can for example forge claims on foreign lands, while the steward can bolster taxes, all for the benefit of your dynasty! They also add their stats to yours.;;;;;;;;;;;Ýòè âàññàëû ìîãóò âûïîëíÿòü ðàçëè÷íûå ìèññèè äëÿ Âàñ. Êàíöëåð ìîæåò, íàïðèìåð, ñôàáðèêîâàòü ïðåòåíçèè íà ÷óæèå âëàäåíèÿ, óïðàâëÿþùèé - ïîâûñèòü ïîñòóïëåíèÿ â êàçíó. Êðîìå âñåãî ïðî÷åãî, ñîâåòíèêè óâåëè÷èâàþò Âàøè õàðàêòåðèñòèêè çà ñ÷¸ò ñâîèõ.;;x
+tut_2b_1;The Council - Intermediate Level;;;;;;;;;;;Ñîâåò. Ñðåäíèé êóðñ.;;x
+tut_2b_2;Now it is time to learn more about each type of advisor. Click the council button to see your appointed advisors.;;;;;;;;;;;"Ðàññìîòðèì êàæäîãî èç ñîâåòíèêîâ. Íàæìèòå êíîïêó ""Ñîâåò"", ÷òîáû íàçíà÷èòü åãî ÷ëåíîâ.";;x
+tut_2b_3;Advisor Types;;;;;;;;;;;Äîëæíîñòè;;x
+tut_2b_4;The different types are:;;;;;;;;;;;Ñóùåñòâóþò ñëåäóþùèå äîëæíîñòè:;;x
+tut_2b_5;Chancellor. Your diplomatic advisor. Select one with as high diplomatic skill as possible since this person's value, plus your own, plus half of your wife's is what makes up the state diplomacy value. That affects how all characters not employed by you view you.;;;;;;;;;;;Êàíöëåð. Ñîâåòíèê â äèïëîìàòèè. Íà ýòó äîëæíîñòü ëó÷øå íàçíà÷àòü ÷åëîâåêà ñ íàèâûñøèìè ñïîñîáíîñòÿìè â ýòîé ñôåðå. Äèïëîìàòèÿ ãîñóäàðñòâà ñêëàäûâàåòñÿ èç Âàøèõ íàâûêîâ äèïëîìàòèè, íàâûêîâ Âàøåãî ñîâåòíèêà è ïîëîâèíû íàâûêîâ Âàøåãî ñóïðóãà. Ýòî æå ïðàâèëî îòíîñèòñÿ êî âñåì íàâûêàì. Îò íàâûêà äèïëîìàòèè çàâèñèò îòíîøåíèå ïðèäâîðíûõ ê ïðàâèòåëþ.;;x
+tut_2b_6;Marshal. Your military advisor. This one will also command your levies, so make sure you pick one with a high military score.;;;;;;;;;;;Ìàðøàë. Ñîâåòíèê ïî âîåííûì âîïðîñàì. Êîìàíäóåò îïîë÷åíèåì. Ïðè íàçíà÷åíèè íà ýòó äîëæíîñòü ñëåäóåò ó÷èòûâàòü âîåííûå íàâûêè.;;x
+tut_2b_7;Steward. Your treasurer. Choose one with high value for stewardship, and you will increase your tax income.;;;;;;;;;;;Óïðàâëÿþùèé. Âàø êàçíà÷åé. Âûáåðèòå ÷åëîâåêà ñ ðàçâèòûì íàâûêîì Óïðàâëåíèå, ýòî óâåëè÷èò äîõîä îò íàëîãîâ.;;x
+tut_2b_8;Spymaster. An unofficial position as the advisor in the darker things a regent might need to do. Choose one with a high intrigue skill. This is important even if you do not have plans to have anyone assassinated, as it will help you to uncover plots against your own person as well.;;;;;;;;;;;Òàéíûé ñîâåòíèê. Íåîôèöèàëüíàÿ äîëæíîñòü â ñîâåòå - ÷åëîâåê, çàíèìàþùèéñÿ ãðÿçíûìè äåëàìè ïî ïðèêàçó ïðàâèòåëÿ. Ëó÷øå âñåãî ïîäîéä¸ò ÷åëîâåê, ðàçáèðàþùèéñÿ â Èíòðèãàõ. Ýòî âàæíî, äàæå åñëè Âû íå ñîáèðàåòåñü êîìó-òî ïàêîñòèòü, òàê êàê òàéíûé ñîâåòíèê ïîìîæåò îáíàðóæèòü çàãîâîðû ïðîòèâ Âàñ.;;x
+tut_2b_9;Court Chaplain. Your personal advisor to turn to in question concerning faith. This advisors important trait is learning, and a higher value will help your technological research.;;;;;;;;;;;Äóõîâíèê. Ñîâåòíèê ïî âîïðîñàì âåðû. Âàæíàÿ ÷åðòà äëÿ ýòîãî ñîâåòíèêà - Îáðàçîâàííîñòü, âûñîêèé óðîâåíü ïîçâîëèò îñâàèâàòü íîâûå òåõíîëîãèè áûñòðåå.;;x
+tut_2c_1;The Council - Advanced Level;;;;;;;;;;;Ñîâåò. Ïðîäâèíóòûé óðîâåíü.;;x
+tut_2c_2;All members of the council have three unique missions you can send them on. They can only go on one mission at the time, you will still get their stat bonus though.;;;;;;;;;;;Êàæäûé ÷ëåí Ñîâåòà ìîæåò áûòü çàíÿò îäíîé èç òð¸õ ìèññèé. Íèêòî íå èìååò ïðàâà âçÿòü íà ñåáÿ äâà çàäàíèÿ îäíîâðåìåííî.;;x
+tut_2c_3;Let's go through all of them in short. Click the council button to continue.;;;;;;;;;;;"Òåïåðü ðàññìîòðèì çàäàíèÿ ïîäðîáíåå. Íàæìèòå êíîïêó ""Ñîâåò"" äëÿ ïðîäîëæåíèÿ.";;x
+tut_2c_4;The Council Missions;;;;;;;;;;;Çàäàíèÿ ñîâåòíèêîâ;;x
+tut_2c_5;There are three missions per advisor, you can hover over them to the right on this screen to get a more extensive explanation of what all of them does:;;;;;;;;;;;Êàê áûëî ñêàçàíî ðàíåå, ó êàæäîãî ñîâåòíèêà åñòü òðè âèäà çàäàíèé:;;x
+tut_2c_6;Chancellor - Improve diplomatic relations, fabricate claims and sow dissent.;;;;;;;;;;;Êàíöëåð - óëó÷øåíèå äèïëîìàòè÷åñêèõ îòíîøåíèé, ôàáðèêàöèÿ ïðåòåíçèé è óõóäøåíèå îòíîøåíèé ìåæäó äðóãèìè ïåðñîíàæàìè (Ñåÿòü ðàçäîð).;;x
+tut_2c_7;Marshal - Suppress revolts, train troops and research military tech.;;;;;;;;;;;Ìàðøàë - ïðåñå÷åíèå âîññòàíèé, òðåíèðîâêà îïîë÷åíöåâ è èññëåäîâàíèå âîåííûõ òåõíîëîãèé.;;x
+tut_2c_8;Steward - Collect taxes, oversee construction, research economy tech.;;;;;;;;;;;Óïðàâëÿþùèé - ñáîð íàëîãîâ, íàäçîð çà ñòðîèòåëüñòâîì, èññëåäîâàíèÿ â îáëàñòè ýêîíîìèêè.;;x
+tut_2c_9;Spymaster - Scheme, build spy network, study technology.;;;;;;;;;;;Òàéíûé ñîâåòíèê - êîíòðøïèîíàæ, ñîçäàíèå ñåòè øïèîíîâ, èçó÷åíèå òåõíîëîãèé äðóãèõ ãîñóäàðñòâ.;;x
+tut_2c_10;Court Chaplain - Proselytize, research cultural tech, improve religious relations.;;;;;;;;;;;Äóõîâíèê - îáðàùåíèå íàñåëåíèÿ â âåðó, èññëåäîâàíèå êóëüòóðû, óëó÷øåíèå ðåëèãèîçíûõ îòíîøåíèé.;;x
+tut_2c_11;Most of the missions also has the risk of a negative effect, so be sure to check the numbers in the tooltip before you send everyone off.;;;;;;;;;;;Ñóùåñòâóåò ðèñê, ÷òî îäíî èç çàäàíèé âîçûìååò íåãàòèâíûé ýôôåêò. ×òîáû áûòü óâåðåííûì â òîì, ÷òî ýòî Âàì íå íàâðåäèò, èçó÷èòå âñïëûâàþùóþ ïîäñêàçêó äî îòïðàâëåíèÿ ïåðñîíàæà íà çàäàíèå.;;x
+tut_3a_1;Succession - Basic Level;;;;;;;;;;;Îñíîâû íàñëåäîâàíèÿ;;x
+tut_3a_2;Succession laws are what determines who you will play as next and what they will inherit. The most common start is that your eldest son will inherit most of your titles while your younger son(s) also gets their share. This kind of inheritance is called gavelkind.;;;;;;;;;;;Çàêîíû íàñëåäîâàíèÿ îïðåäåëÿþò, êòî áóäåò ïðàâèòü ñëåäóþùèì è êàê ðàñïðåäåëèòñÿ íàñëåäñòâî. Îáû÷íî ñòàðøèé ñûí íàñëåäóåò áîëüøóþ ÷àñòü Âàøèõ çåìåëü è òèòóëîâ, â òî âðåìÿ êàê îñòàëüíûå äîâîëüñòâóþòñÿ òåì, ÷òî îñòàëîñü. Äàííàÿ ôîðìà íàñëåäîâàíèÿ íàçûâàåòñÿ Ðàâíûé ðàçäåë, íî ñóùåñòâóþò è äðóãèå ôîðìû.;;x
+tut_3b_1;Succession - Intermediate Level;;;;;;;;;;;Íàñëåäîâàíèå. Ñðåäíèé óðîâåíü;;x
+tut_3b_2;There are two kinds of succession laws. The agnatic/cognatic ones, that decide who will inherit, and then you have the other ones, that decide how the inheritance will work. Your children, dynasty and vassals will have an opinion on which ones you have. Press the laws button to continue.;;;;;;;;;;;"Ñóùåñòâóåò äâå ãðóïïû ôîðì íàñëåäîâàíèÿ. Ïåðâàÿ ãðóïïà ðåøàåò, êòî ñòàíåò íàñëåäíèêîì (ìóæ÷èíà èëè æåíùèíà), âòîðàÿ - êàê íàñëåäñòâî ðàñïðåäåëèòñÿ ìåæäó íàñëåäíèêàìè. Âàøè äåòè, äðóãèå ïðåäñòàâèòåëè äèíàñòèè è âàññàëû èìåþò ñîáñòâåííîå ìíåíèå î òåêóùåé ôîðìå. Íàæìèòå íà êíîïêó ""Çàêîíû"" äëÿ ïðîäîëæåíèÿ.";;x
+tut_3b_3;The Succession Laws.;;;;;;;;;;;Ôîðìû íàñëåäîâàíèÿ.;;x
+tut_3b_4;Agnatic. Only males can inherit.;;;;;;;;;;;Àãíàòè÷åñêîå íàñëåäîâàíèå. Òîëüêî ìóæ÷èíà ìîæåò ñòàòü íàñëåäíèêîì.;;x
+tut_3b_5;Absolute Cognatic. Women inherit on the same terms as men do. ;;;;;;;;;;;Êîãíàòè÷åñêîå íàñëåäîâàíèå. Æåíùèíû íàñëåäóþò çåìëè íà òåõ æå ïðàâàõ, ÷òî è ìóæ÷èíû.;;x
+tut_3b_6;Agnatic Primogeniture. This one means that the oldest male child of the ruler will inherit all their titles on ruler death.;;;;;;;;;;;Àãíàòè÷åñêîå ïåðâîðîäñòâî. Ñòàðøèé ñûí ïîëíîñòüþ íàñëåäóåò çåìëè è òèòóëû óìåðøåãî.;;x
+tut_3b_7;Agnatic-Cognatic. If you have this, women can also inherit, but only when there are no eligible males.;;;;;;;;;;;Àãíàòè÷åñêî-êîãíàòè÷åñêîå íàñëåäîâàíèå. Æåíùèíû ìîãóò ñòàòü íàñëåäíèêàìè, åñëè íåò èìåþùåãî ïðàâà íà íàñëåäîâàíèå ìóæ÷èíû.;;x
+tut_3b_8;Gavelkind. This law will give the primary title to the oldest male child, and then divide the rest of the titles among the other children.;;;;;;;;;;;Ðàâíûé ðàçäåë. Ïðè ýòîé ôîðìå ãëàâíîå âëàäåíèå íàñëåäóåò ñòàðøèé ïîòîìîê, îñòàëüíûå ðàñïðåäåëÿþòñÿ ìåæäó îñòàëüíûìè äåòüìè.;;x
+tut_3b_9;Seniority. The oldest member of the entire dynasty inherits all titles. ;;;;;;;;;;;Ñòàðøèíñòâî (Ñåíüîðàò). Ñòàðåéøèé ÷ëåí äèíàñòèè íàñëåäóåò âñå âëàäåíèÿ.;;x
+tut_3b_10;Elective. The ruler and his/her vassals one step down can nominate one successor each. ;;;;;;;;;;;Âûáîðíàÿ. Ïðàâèòåëü âìåñòå ñ âàññàëàìè èìååò ïðàâî íîìèíèðîâàòü íà ýòó ðîëü ëþáîãî.;;x
+tut_3c_1;Succession - Advanced Level;;;;;;;;;;;Íàñëåäîâàíèå. Ïðîäâèíóòûé óðîâåíü;;x
+tut_3c_2;For you to be able to change succession laws, you have a few things to consider.;;;;;;;;;;;Ïåðåä èçìåíåíèåì ôîðìû íàñëåäîâàíèÿ íåîáõîäèìî ïðèíÿòü âî âíèìàíèå ñëåäóþùèå àñïåêòû.;;x
+tut_3c_3;The same ruler can only change succession laws once, must have reigned for at least 10 years and there must be peace in your realm.;;;;;;;;;;;Ïðàâèòåëü ìîæåò èçìåíèòü çàêîíû íàñëåäîâàíèÿ òîëüêî â ìèðíîå âðåìÿ, îäíîêðàòíî è ïîñëå äåñÿòè ëåò ïðàâëåíèÿ.;;x
+tut_3c_4;The ruler must be an adult, i.e. no regency. No vassals can be fighting and no vassal count or above can have a negative attitude of you. ;;;;;;;;;;;Ïðàâèòåëü äîëæåí áûòü ñîâåðøåííîëåòíèì, òî åñòü âî âðåìÿ ðåãåíòñòâà èçìåíèòü ôîðìó íàñëåäîâàíèÿ íåëüçÿ. Òàêæå íå äîëæíî áûòü âàññàëîâ, èìåþùèõ íåãàòèâíîå ìíåíèå î ïðàâèòåëå.;;x
+tut_3c_5;These demands can be hard to fulfill, so changing succession law is not something to do on a whim, it is often something you need to work for.;;;;;;;;;;;Èçìåíåíèÿ ìîãóò áûòü òðóäíîîñóùåñòâèìû, òàê ÷òî òðèæäû ïîäóìàéòå ïðåæäå, ÷åì ÷òî-òî ìåíÿòü.;;x
+tut_3c_6;Multilayered Laws;;;;;;;;;;;Ìóëüòèïëååð I;;x
+tut_3c_7;When you open the laws screen, you will see the ducal laws of Brittany. Brittany is de jure a part of France though, so the crown laws of france will affect you too. To see how, you need to click the shield to the upper right.;;;;;;;;;;;Îòêðûâ îêíî çàêîíîâ, Âû óâèäèòå çàêîíû ãåðöîãñòâà Áðåòàíü. Áðåòàíü ÿâëÿåòñÿ ÷àñòüþ Ôðàíöèè, õîòÿ çàêîíû Ôðàíöóçñêîé êîðîíû òîæå îêàçûâàþò âëèÿíèå íà ýòó çåìëþ. ×òîáû óâèäåòü ýòî, íàæìèòå íà ñèìâîë â ïðàâîì âåðõíåì óãëó ýêðàíà.;;x
+tut_3c_8;Multilayered Laws II;;;;;;;;;;;Ìóëüòèïëååð II;;x
+tut_3c_9;There are the laws in France that might affect Brittany. On the top part you can see the succesion laws France is using, and also the crowns laws on the bottom half. Click next to end this part.;;;;;;;;;;;"Íåêîòîðûå çàêîíû Ôðàíöèè âëèÿþò è íà Áðåòàíü. Â âåðõíåé ÷àñòè ìîæíî óâèäåòü äåéñòâóþùèå çàêîíû Ôðàíöèè. Çàêîíû, îæèäàþùèå âñòóïëåíèÿ â ñèëó, íàõîäÿòñÿ â íèæíåé ïîëîâèíå. Íàæìèòå êíîïêó ""Äàëåå"", ÷òîáû çàêîí÷èòü ýòó ÷àñòü.";;x
+tut_4a_1;Diplomacy - Basic Level;;;;;;;;;;;Îñíîâû äèïëîìàòèè;;x
+tut_4a_2;Diplomacy is what we call the interactions between characters. It can be to start wars or send a child off to be educated. Now, to find a number of characters who you can use different diplomatic options on, click the ruler portrait to continue.;;;;;;;;;;;Äèïëîìàòèÿ - ýòî âçàèìîîòíîøåíèÿ ìåæäó ïåðñîíàæàìè. Ñþäà âõîäèò è îáúÿâëåíèå âîéíû, è çàêëþ÷åíèå áðàêà, è îòïðàâëåíèå äåòåé íà îáó÷åíèå, è ìíîãîå äðóãîå. Ðàññìîòðèì ïåðñîíàæåé, ñ êîòîðûìè ìîæíî âçàèìîäåéñòâîâàòü ñ ïîìîùüþ äèïëîìàòèè, è âèäû ýòîãî âçàèìîäåéñòâèÿ. Íàæìèòå íà ïîðòðåò ïðàâèòåëÿ äëÿ ïðîäîëæåíèÿ.;;x
+tut_4a_3;Diplomatic Actions;;;;;;;;;;;Äèïëîìàòè÷åñêèå äåéñòâèÿ;;x
+tut_4a_4;To get started, right click your half-brother, Earl Malmure of Atholl. You will find him at the bottom left of the family tab, under the header 'siblings'. (The portrait you see here is just an example, not the actual Earl.);;;;;;;;;;;"Äëÿ íà÷àëà êëèêíèòå ïðàâîé êíîïêîé ïî ïîðòðåòó Âàøåãî ñâîäíîãî áðàòà, Ìåéë Ìóðà, ýðëà Àòîëëà. Âû íàéä¸òå åãî âíèçó, â ëåâîé ÷àñòè âêëàäêè ""Ñåìüÿ"" â ðàçäåëå ""Áðàòüÿ è ñ¸ñòðû"" (ïîðòðåò, êîòîðûé Âû âèäèòå - òîëüêî ïðèìåð, à íå íàñòîÿùèé ýðë).";;x
+tut_4a_5;To the left, we see a list of possible diplomatic actions. To the right you will be able to adjust the diplomatic choices and see what effect they will net once you have decided. Click next to continue.;;;;;;;;;;;"Ñëåâà íàõîäèòñÿ ñïèñîê âîçìîæíûõ äèïëîìàòè÷åñêèõ äåéñòâèé. Ñïðàâà Âû ñìîæåòå âûáðàòü âàðèàíòû è óâèäåòü âîçìîæíûå ïîñëåäñòâèÿ ñâîèõ ðåøåíèé. Íàæìèòå ""Äàëåå"", ÷òîáû ïðîäîëæèòü.";;x
+tut_4a_7;Make Him Like Us;;;;;;;;;;;Êàê íàëàäèòü îòíîøåíèÿ;;x
+tut_4a_8;If we for example want to make a character to like us a bit more, we can grant them an honorary title. Click the 'award honorary title' button. The Court Jester title is not very nice to give someone if you want to stay on their good side. Click Keeper of the Swans instead.;;;;;;;;;;;"Åñëè Âû õîòèòå, ÷òîáû ïåðñîíàæ îòíîñèëñÿ ê Âàì ëó÷øå, Âû ìîæåòå äàðîâàòü åìó ïî÷¸òíûé òèòóë. Íàæìèòå êíîïêó ""Ïîæàëîâàòü ïî÷¸òíûé òèòóë"". Ñîâåò: òèòóë øóòà ìàëî êîìó ïðèäåòñÿ ïî âêóñó. Ëó÷øå âûáåðèòå ñìîòðèòåëÿ ëåáåäåé.";;x
+tut_4a_9;When you click, you will see above what effects it will bring if you award your brother this title. When you are done looking, click send and then click the next button below to end this part.;;;;;;;;;;;"Êîãäà Âû âûáèðàåòå òîò èëè èíîé òèòóë, ñïðàâà ïîÿâëÿåòñÿ ïîäñêàçêà, â êîòîðîé óêàçûâàþòñÿ ïîäðîáíîñòè îá ýòîì òèòóëå. Åñëè Âû óâåðåíû â ñâî¸ì âûáîðå, íàæèìàéòå íà êíîïêó ""Ïîæàëîâàòü ïî÷¸òíûé òèòóë"".";;x
+tut_4b_1;Diplomacy - Intermediate Level;;;;;;;;;;;Äèïëîìàòèÿ. Ñðåäíèé êóðñ;;x
+tut_4b_2;There are two kinds of diplomacy. The state level, and then the personal level. Your vassals and other people you employ are affected by personal diplomacy, all others by your state diplomacy. Click your ruler portrait to continue.;;;;;;;;;;;Ñóùåñòâóåò äâå ôîðìû äèïëîìàòèè: ìåæäó ãîñóäàðñòâàìè è ìåæäó ïåðñîíàæàìè. Âàøè âàññàëû è îñòàëüíûå ñëóæàùèå ñîñòàâëÿþò ëè÷íóþ äèïëîìàòèþ, âñå îñòàëüíûå - ãîñóäàðñòâåííóþ. Íàæìèòå íà ïîðòðåò ïðàâèòåëÿ äëÿ ïðîäîëæåíèÿ.;;x
+tut_4b_3;Actions and Modifiers;;;;;;;;;;;Äåéñòâèÿ è ìîäèôèêàòîðû;;x
+tut_4b_4;Let's take a look at personal diplomacy first. You have a tab in the middle that says 'Vassals', click that.;;;;;;;;;;;"Ñíà÷àëà ðàññìîòðèì äèïëîìàòèþ ìåæäó ïåðñîíàæàìè. Â îêíå ïðàâèòåëÿ åñòü âêëàäêà ""Âàññàëû"", âûáåðèòå å¸.";;x
+tut_4b_5;Now, if you hover over the opinion values, the green or red numbers towards the right, you'll see why each person has a particular opinion of you.;;;;;;;;;;;Êðàñíîå èëè çåë¸íîå ÷èñëî ñïðàâà - ýòî âåëè÷èíà, õàðàêòåðèçóþùàÿ ìíåíèå ïåðñîíàæà î Âàñ. Âû ìîæåòå óçíàòü ïðè÷èíû òîãî èëè èíîãî ê Âàì îòíîøåíèÿ.;;x
+tut_4b_6;Check the tooltips on the opinion number for some of your vassals. The opinions they have of you is based on a number of things, like personal diplomacy, free investiture, autonomy, and some personality traits will go better or worse together. If you are patient and your vassal is wroth, that does not make for a good relationship.;;;;;;;;;;;Ïðîâåðüòå ïîäñêàçêè, ÷òîáû óâèäåòü, êàê ê Âàì îòíîñÿòñÿ íåêîòîðûå èç Âàøèõ âàññàëîâ. Îòíîøåíèå ê Âàì áàçèðóåòñÿ íà íåñêîëüêèõ âåùàõ, íàïðèìåð: ïåðñîíàëüíàÿ äèïëîìàòèÿ, ñâîáîäíàÿ èíâåñòèòóðà (ïðàâèòåëü ñàì íàçíà÷àåò åïèñêîïîâ), óðîâåíü àâòîíîìèè âàññàëîâ, íåêîòîðûå ïåðñîíàëüíûå ÷åðòû. Åñëè Âû òåðïåëèâû, à Âàø âàññàë àãðåññèâåí, òî âðÿä ëè Âû ñìîæåòå âûñòðîèòü õîðîøèå îòíîøåíèÿ.;;x
+tut_4b_7;Modifiers;;;;;;;;;;;Ìîäèôèêàòîðû;;x
+tut_4b_8;The opinion modifiers that are based on character traits are all permanent. Other things can change the opinions between characters affected by trait modifiers, but as long as the trait stays, so does the modifier. Then we have temporary modifiers of course. ;;;;;;;;;;;Ìîäèôèêàòîðû îòíîøåíèé, êîòîðûå îñíîâûâàþòñÿ íà ÷åðòàõ õàðàêòåðà, ïîñòîÿííû. Îñòàëüíûå ôàêòîðû ìîãóò âëèÿòü íà îòíîøåíèÿ ìåæäó ïåðñîíàæàìè áåç ó÷¸òà ÷åðò õàðàêòåðà. Åñëè îñòàåòñÿ êàêàÿ-ëèáî ÷åðòà, òî îñòàåòñÿ è ìîäèôèêàòîð. Ñóùåñòâóþò è âðåìåííûå ìîäèôèêàòîðû.;;x
+tut_4b_9;Temporary modifiers have an expiration date. Certain events for example can give you an opinion modifier towards other characters and these will usually last a limited time (like a year or two). Click next to continue.;;;;;;;;;;;"Îíè äåéñòâóþò äî îïðåäåë¸ííîé äàòû. Ê ïðèìåðó íåêîòîðûå ñîáûòèÿ ìîãóò ïðèñâîèòü Âàì ìîäèôèêàòîð ìíåíèÿ äðóãèõ ïî îòíîøåíèþ ê Âàì, êîòîðûé áóäåò äåéñòâîâàòü êàêîå-òî âðåìÿ (ãîä èëè äâà, íàïðèìåð). Íàæìèòå ""Ñëåäóþùàÿ ãëàâà"", ÷òîáû ïðîäîëæèòü.";;x
+tut_4b_10;Claims and Titles;;;;;;;;;;;Ïðåòåíçèè;;x
+tut_4b_11;To be able to declare war, there are a few different methods including plots and holy war, but the most common way is to simply claim the title you are interested in.;;;;;;;;;;;Ñóùåñòâóåò ìíîæåñòâî ñïîñîáîâ îáúÿâèòü âîéíó. Ìîæíî ïëåñòè èíòðèãè, ðàçæèãàòü ðåëèãèîçíóþ âðàæäó è ò.ï. Ñàìûé ýôôåêòèâíûé è ðàñïðîñòðàí¸ííûé - ïðåòåíçèÿ íà èíòåðåñóþùèå Âàñ çåìëè äðóãîãî ãîñóäàðñòâà.;;x
+tut_4b_12;You do this by sending your chancellor to the province and fabricating a claim there. It will take a while, but you can try it in the basic war tutorial.;;;;;;;;;;;Äëÿ ýòîãî äàéòå êàíöëåðó ñîîòâåòñòâóþùåå çàäàíèå, âûáåðåòå îêðóã, êîòîðûé Âàñ èíòåðåñóåò, è ñëåäèòå çà ïðîãðåññîì;;x
+tut_4b_13;Now you have the claim, but if you want the land, you will need to take action. The claim is held by your current ruler, so as soon as you change ruler, the claim will be gone. Click next to end this part.;;;;;;;;;;;Ñåé÷àñ ó Âàñ åñòü ïðåòåíçèè íà çåìëè, íî, åñëè Âû õîòèòå âêëþ÷èòü èõ â ñâî¸ ãîñóäàðñòâî, íåîáõîäèìî äåéñòâîâàòü. Îáû÷íî ïðåòåíçèè çàêðåïëåíû çà äåéñòâóþùèì ïðàâèòåëåì, åñëè íà åãî ìåñòî ïðèä¸ò äðóãîé (íàïðèìåð, Âàø ñûí) - Âû èõ ïðîñòî ïîòåðÿåòå.;;x
+tut_4c_1;Diplomacy - Advanced Level;;;;;;;;;;;Äèïëîìàòèÿ. Ïðîäâèíóòûé óðîâåíü;;x
+tut_4c_2;There are no formal alliances in Crusader Kings II, it is all a matter of bloodlines, dynasty and prestige.;;;;;;;;;;;Â Crusader Kings II íå ñóùåñòâóåò ïðîñòûõ ñîþçîâ. Èãðîâûå ñîþçû îñíîâàíû íà ðîäñòâåííûõ (äèíàñòè÷åñêèõ) ñâÿçÿõ è ïðåñòèæå.;;x
+tut_4c_3;Our wife is dead, so now would be a good time to marry into another dynasty to form bonds that can be used. Click your ruler portrait to continue.;;;;;;;;;;;Æåíà ïðàâèòåëÿ ìåðòâà, ïîýòîìó ìîæíî æåíèòüñÿ âòîðîé ðàç íà ïðåäñòàâèòåëüíèöå äðóãîé äèíàñòèè, ÷òîáû ñôîðìèðîâàòü ñâÿçè, êîòîðûå â áóäóùåì ìîãóò áûòü ïîëåçíû. Íàæìèòå íà ïîðòðåòå ïðàâèòåëÿ äëÿ ïðîäîëæåíèÿ.;;x
+tut_4c_4;Marriage;;;;;;;;;;;Áðàê;;x
+tut_4c_5;Below the portrait of your wife are two golden rings on blue background. This is a button that will allow you to arrange a marriage for the current character. Click it to continue.;;;;;;;;;;;Ïîä ïîðòðåòîì Âàøåé æåíû êíîïêà ñ èçîáðàæåíèåì äâóõ çîëîòûõ êîëåö íà ëàçóðíîì ôîíå. Íàæàâ íà íå¸, Âû çàêëþ÷èòå áðàê.;;x
+tut_4c_5a;Choices;;;;;;;;;;;Âûáîð;;x
+tut_4c_6;Here you can see a list of unmarried women. Not all are appropriate of course. Some are too young, a real marriage will not start until both of you are over 16. Some are too old, you want them to be able to have your children. Some have nothing to offer you. To help you decide, there are buttons that can sort the list according to your desires. Click next to continue.;;;;;;;;;;;Ïåðåä Âàìè - ñïèñîê íåçàìóæíèõ æåíùèí, íî íå êàæäàÿ èç íèõ ìîæåò Âàì ïîäîéòè. Íåêîòîðûé ñëèøêîì ìîëîäû, à áðàê íå ìîæåò áûòü çàêëþ÷¸í ìåæäó ëèöàìè ìëàäøå 16 ëåò. Íåêîòîðûå ñëèøêîì ñòàðû è íåñïîñîáíû èìåòü äåòåé. Íåêîòîðûå ïðîñòî áåñïîëåçíû. ×òîáû ïðîùå îðèåíòèðîâàòüñÿ â ñïèñêå êàíäèäàòîâ, Âû ìîæåòå âîñïîëüçîâàòüñÿ êíîïêàìè ñîðòèðîâêè ïî òåì èëè èíûì ïàðàìåòðàì.;;x
+tut_4c_7;Find a Suitable Mate;;;;;;;;;;;Íàéäèòå ïîäõîäÿùóþ êàíäèäàòóðó;;x
+tut_4c_9;Consider carefully who would be the best choice for you, and keep in mind that dynasty and her rank will matter for your prestige gain or loss when entering the marriage. When you have made your choice, right-click her portrait to continue.;;;;;;;;;;;Îáñòîÿòåëüíî îáäóìàéòå ñâîé âûáîð, è ïîìíèòå, ÷òî äèíàñòèÿ è å¸ ðàíã çàâèñÿò îò ïðåñòèæà, êîòîðûé Âû ïîëó÷èòå èëè ïîòåðÿåòå, âñòóïèâ â áðàê. Êîãäà ñäåëàåòå ñâîé âûáîð, íàæìèòå íà ïîðòðåò èçáðàííèöû èëè èçáðàííèêà, ÷òîáû ïðîäîëæèòü.;;x
+tut_4c_8;If you know what dynasty you want to marry into, sort by dynasty. If you are primarily looking to up your military score, sort by martial skill. Right now we are looking for a way to expand our influence though, so sort them by rank.;;;;;;;;;;;Åñëè Âû õîòèòå âûáðàòü ïðåäñòàâèòåëüíèöó êîíêðåòíîé äèíàñòèè, îòñîðòèðóéòå ñïèñîê ïî äèíàñòèÿì. Åñëè Âàñ áîëüøå ïðèâëåêàåò Âîåííûé íàâûê, íàæìèòå ñîîòâåòñòâóþùóþ èêîíêó. Ñîâåò: Ñåé÷àñ äëÿ Âàñ âàæíåå âñåãî - óâåëè÷åíèå Âàøåãî âëèÿíèÿ, ïîýòîìó îòñîðòèðóéòå ñïèñîê ïî ðàíãó.;;x
+tut_4c_10;Now you are a full-fledged diplomat, time to move on! Click next to end this part.;;;;;;;;;;;"Òåïåðü Âû - ïîëíîöåííûé äèïëîìàò, íî íåîáõîäèìî äâèãàòüñÿ äàëüøå! Íàæìèòå ""Ñëåäóþùàÿ ãëàâà"", ÷òîáû çàêîí÷èòü ýòó ÷àñòü.";;x
+tut_4c_10a;Congratulations!;;;;;;;;;;;Ïîçäðàâëÿåì!;;x
+tut_4c_11;Marriage Effects;;;;;;;;;;;Äèíàñòè÷åñêèé áðàê;;x
+tut_4c_12;Here you can see what effects this marriage will have on your prestige. You can also see that she will answer yes to your proposal, so just go ahead and send it.;;;;;;;;;;;Çäåñü Âû ìîæåòå óâèäåòü, êàêîé ýôôåêò îêàæåò ñâàäüáà íà Âàø ïðåñòèæ. Èçáðàííèöà, ñêîðåå âñåãî, ñîãëàñèòñÿ íà Âàøå ïðåäëîæåíèå, òàê ÷òî ñäåëàéòå åãî.;;x
+tut_5a_1;Military - Basic Level;;;;;;;;;;;Îñíîâû âîåííîé íàóêè;;x
+tut_5a_2;This part of the tutorial will teach you how to move your troops around and a little bit about combat. Click the military tab to continue.;;;;;;;;;;;"Ýòà ÷àñòü îáó÷åíèÿ ðàññêàæåò Âàì î òîì, êàê óïðàâëÿòü âîéñêàìè íà êàðòå è íåìíîãî î ñðàæåíèÿõ. Íàæìèòå âêëàäêó ""Âîéñêà"" äëÿ ïðîäîëæåíèÿ.";;x
+tut_5a_3;Raising Troops;;;;;;;;;;;Ïðèçûâ âîéñê;;x
+tut_5a_4;This is the military screen. Here you can see how many troops you have, how many you can raise and what they will cost you. ;;;;;;;;;;;Ýòî ýêðàí àðìèè. Çäåñü îòîáðàæåíî ñëåäóþùåå: ÷èñëåííîñòü Âàøåé àðìèè, êîëè÷åñòâî âîéñê, êîòîðîå Âû ìîæåòå ïðèçâàòü, è ñòîèìîñòü âñåãî ýòîãî.;;x
+tut_5a_5;For this exercise, we need troops, so click the button with an up arrow here to raise your personal retinue. Now you'll see your new troop in the province Gowrie. Select the troop by clicking on the shield.;;;;;;;;;;;Åñëè Âàì íåîáõîäèìû âîéñêà, íàæìèòå óêàçàííóþ êíîïêó, ÷òîáû ïðèçâàòü ëþäåé èç Âàøèõ ëè÷íûõ âëàäåíèé. Ñäåëàéòå ýòî. Â îêðóãå Ãîâðè ïîÿâèëèñü íîâûå âîéñêà. Âûáåðèòå èõ, êëèêíóâ íà ùèòå.;;x
+tut_5a_6;The Unit View;;;;;;;;;;;Îáçîð îòðÿäà;;x
+tut_5a_7;Now you get some information about this army. The name is 'Army of King Malcolm III', and it has a number of people in it. At the top you have the organization bar, that tells you in how good condition the troops are. Then you have the regent shield and buttons to manage the army. The next row contains information about what kind of troops you have in this unit. Then you have three parts on the lower part of this screen. The army is usually divided into three flanks, but this is such a small army, so that is not neccesary. Open the military tab again to learn about handling your army.;;;;;;;;;;;"Çäåñü ìîæíî ïîëó÷èòü èíôîðìàöèþ îá àðìèè è å¸ ÷èñëåííîñòè. Îíà íàçûâàåòñÿ ""Àðìèÿ Êîðîëÿ Ìàëêîëüìà III"". Ñâåðõó ðàñïîëîæåíà ïàíåëü îðãàíèçàöèè, êîòîðàÿ ðàññêàæåò î ñîñòîÿíèè äåë â àðìèè. Òàêæå çäåñü Âû íàéä¸òå ãåðá êîìàíäóþùåãî è êíîïêè óïðàâëåíèÿ àðìèåé. Ñëåäóþùèé ðÿä ñîäåðæèò èíôîðìàöèþ î âèäàõ âîéñê â äàííîì îòðÿäå. Äàëåå èäóò òðè êîëîíêè, çàíèìàþùèå áîëüøóþ ÷àñòü îêíà, — ýòî òðè ôëàíãà Âàøåãî âîéñêà. Íà äàííîì ýòàïå Âàøà àðìèÿ ñëèøêîì ìàëà, ïîýòîìó ðàçäåëåíèå íà ÷àñòè íå òðåáóåòñÿ. Ñíîâà îòêðîéòå âîåííóþ âêëàäêó, ÷òîáû óçíàòü, êàê óïðàâëÿòü àðìèåé.";;x
+tut_5a_8;More Armies;;;;;;;;;;;Áîëüøàÿ àðìèÿ;;x
+tut_5a_9;This time, also let's raise some levies from a vassal. If you were going to war, you'd probably like to raise all available levies using the button towards the top. For this exercise we just need a few though, so raise the personal levies of the Earl of Fife.;;;;;;;;;;;Íà ýòîò ðàç, íàéì¸ì îïîë÷åíèå âàññàëà. Åñëè áû Âû ñîáèðàëèñü âåñòè âîéíó, Âû íàâåðíÿêà íàíÿëè áû âñåõ äîñòóïíûõ îïîë÷åíöåâ ñ ïîìîùüþ êíîïêè íàâåðõó. Â îáó÷åíèè Âàì íå ïîòðåáóþòñÿ áîëüøèå ñèëû, äîñòàòî÷íûì áóäåò è ëè÷íîå îïîë÷åíèå ýðëà âëàäåíèÿ Ôàéô. Íàéäèòå åãî íèæå â ñïèñêå âàññàëîâ è ïðèçîâèòå åãî âîéñêà, íàæàâ êðàéíþþ ëåâóþ êíîïêó ïðàâåå èêîíêè ñ åãî ïîðòðåòîì.;;x
+tut_5a_10;Maneuver;;;;;;;;;;;Ìàíåâðû;;x
+tut_5a_11;To gather them all in one place, select the new troops by clicking their shield and move them to the first troop by right clicking on the province. Unpause to continue.;;;;;;;;;;;×òîáû ñîáðàòü âñå âîéñêà â îäíîì ìåñòå, âûáåðèòå íîâûå âîéñêà, ù¸ëêíóâ ïî èõ ùèòêó, è ïåðåìåñòèòå èõ ê ïåðâîìó îòðÿäó, êëèêíóâ ïðàâîé êíîïêîé ìûøè íà îáëàñòè. Ñíèìèòå èãðó ñ ïàóçû, ÷òîáû ïðîäîëæèòü.;;x
+tut_5a_12;Merge;;;;;;;;;;;Îáúåäèíåíèå.;;x
+tut_5a_13;As soon as the second troop arrives (you can hover over the troop to see when in the tooltip), select both of them by clicking on one side and dragging a box around them. You'll first need to close the army details screen to see them both. Now you have a merge button over the info screen for the two armies. Click that to create one bigger army. ;;;;;;;;;;;"Êîãäà ïðèä¸ò âòîðîé îòðÿä (íàâåäÿ êóðñîð íà îòðÿä, Âû óçíàåòå, êîãäà ýòî ïðîèçîéäåò), âûáåðèòå îáà, ðàñòÿíóâ ðàìêó âîêðóã íèõ. Äëÿ íà÷àëà çàêðîéòå ýêðàí ñ äåòàëüíûì îïèñàíèåì àðìèè, ÷òîáû óâèäåòü èõ âìåñòå. Òåïåðü Âàì âèäíà êíîïêà ""Îáúåäèíèòü"" íàä èíôîðìàöèîííûì ýêðàíîì äëÿ äâóõ àðìèé. Ñîçäàéòå îäíó áîëüøóþ àðìèþ.";;x
+tut_5a_14;Fleet;;;;;;;;;;;Ôëîò.;;x
+tut_5a_15;We also have ships available. Click the military tab.;;;;;;;;;;;Òàêæå ìîæíî íàíèìàòü êîðàáëè. Ù¸ëêíèòå ïî âîåííîé âêëàäêå.;;x
+tut_5a_16;To the right you can see a tab named Fleet Levies. Click on it and you will see buttons for raising fleets instead of army levies. Raise the fleet of your vassal the Earl of Fife and move them to Gowrie as well.;;;;;;;;;;;"Ñïðàâà Âû ìîæåòå óâèäåòü âêëàäêó ñ íàçâàíèåì ""Ôëîò"". Íàæìèòå, è Âû óâèäèòå êíîïêè äëÿ ïðèçûâà ôëîòà. Ïðèçîâèòå ôëîò Âàøåãî âàññàëà, ýðëà Ôàéôà, è íàïðàâüòå êîðàáëè ê Ãîóðè.";;x
+tut_5a_17;Onto the Ships?;;;;;;;;;;;Íà áîðò?;;x
+tut_5a_18;To load your troops onto the ships, select the army and in the top bar you can see an embark button. ;;;;;;;;;;;×òîáû çàãðóçèòü ñâîè âîéñêà íà êîðàáëè, âûáåðèòå àðìèþ. Íà ãëàâíîé ïàíåëå Âû ñìîæåòå óâèäåòü êíîïêó ïîãðóçêè.;;x
+tut_5a_19;Right now that button is grey though. To find out why, click your ships.;;;;;;;;;;;Ñåé÷àñ ýòà êíîïêà ñåðîãî öâåòà. ×òîáû óçíàòü ïî÷åìó, âûáåðèòå ñâîè ñóäà.;;x
+tut_5a_20;Ships;;;;;;;;;;;Êîðàáëè;;x
+tut_5a_21;You have the organization bar, the disband unit button and the split (create new unit) button. Then you have information on the number of ships, and towards the bottom we have the load capacity. This is how many troops will fit on the ships in this fleet. Unfortunately this number is a smaller number than the number of men in your current army, so select the army again. ;;;;;;;;;;;Ñëåâà ââåðõó íàõîäèòñÿ èíäèêàòîð áîåâîãî äóõà, êíîïêà ðîñïóñêà è êíîïêà äåëåíèÿ (ôîðìèðîâàíèÿ) îòðÿäà. Äàëåå íàõîäèòñÿ èíôîðìàöèÿ î êîëè÷åñòâå êîðàáëåé, à âíèçó - èõ ãðóçîïîäú¸ìíîñòü. Îò íå¸ çàâèñèò êîëè÷åñòâî âîéñê, êîòîðîå ïîìåñòèòñÿ íà âûáðàííûõ êîðàáëÿõ. Ê ñîæàëåíèþ, ýòî ÷èñëî ìåíüøå, ÷åì êîëè÷åñòâî âîèíîâ â âûáðàííîì Âàìè îòðÿäå, ïîýòîìó âûáåðèòå îòðÿä ñíîâà.;;x
+tut_5a_22;Splitting Troops;;;;;;;;;;;Ðàçäåëåíèå âîéñê;;x
+tut_5a_23;Click the button to create a new unit. You can reorganize the selected unit and the newly created unit by dragging subunits from one unit to another.;;;;;;;;;;;Íàæìèòå íà êíîïêó, ÷òîáû ñîçäàòü íîâûé îòðÿä. Âû ìîæåòå ðåîðãàíèçîâàòü îòðÿä, ïåðåòàñêèâàÿ ïîäðàçäåëåíèÿ èç îäíîãî â äðóãîé.;;x
+tut_5a_24;Onto the Ships;;;;;;;;;;;Íà áîðò!;;x
+tut_5a_25;Now select one of the troops. The embark button is blue and useable, so click it. Ships move exactly like armies, so move this fleet to the neighboring sea province to the north, Moray Firth, to continue. Unpause after placing the move order and increase the speed to maximum if you want to hasten the process.;;;;;;;;;;;Òåïåðü âûáåðèòå îòðÿä è íàïðàâüòå åãî â ìîðå. Êîðàáëè ïåðåäâèãàþòñÿ òàê æå, êàê àðìèè. ×òîáû ïðîäîëæèòü, ïåðåìåñòèòå ýòîò ôëîò ê Ñåâåðíîìó Ìîðþ, ÷òîáû ïðîäîëæèòü. Ñíèìèòå èãðó ñ ïàóçû è óâåëè÷üòå èãðîâóþ ñêîðîñòü, ÷òîáû ìàêñèìàëüíî óñêîðèòü ïðîöåññ ïåðåìåùåíèÿ ôëîòà.;;x
+tut_5a_26;Off the Ships;;;;;;;;;;;Ïîêèíóòü êîðàáëü!;;x
+tut_5a_27;As soon as your ships arrive, let's offload the troops in the Moray province.;;;;;;;;;;;Êàê òîëüêî Âàø ôëîò ïðèáóäåò íà ìåñòî, ðàçãðóçèòå âîéñêà â îêðóãå Ìîðè.;;x
+tut_5a_28;Landing;;;;;;;;;;;Âûñàäêà;;x
+tut_5a_29;Make sure you have the ships selected, then click on the tab to the upper right to select the army. Now you can click on Moray to have the troops go ashore there.;;;;;;;;;;;Óáåäèâøèñü, ÷òî Âàø ôëîò âûäåëåí, íàæìèòå íà âêëàäêó â âåðõíåì ïðàâîì óãëó è âûáåðèòå àðìèþ êîðîëÿ. Òåïåðü Âû ìîæåòå íàæàòü íà îêðóã Ìîðè, ÷òîáû Âàøè âîéñêà ñîøëè íà áåðåã.;;x
+tut_5a_29b;Don't forget to unpause or your order will not be executed.;;;;;;;;;;;Íå çàáûâàéòå ñíèìàòü ïàóçó. Èíà÷å Âàøè ïðèêàçû íå áóäóò âûïîëíåíû.;;x
+tut_5a_30;War;;;;;;;;;;;Âîéíà!;;x
+tut_5a_31;Now what is this? A neighboring count has declared war on us! We must defend ourselves and let us do that by attacking. Take your army and move it to Argyll to the west. Unpause to continue.;;;;;;;;;;;Áàòþøêè ñâÿòû! Ñîñåäíèé ãåðöîã îáúÿâèë íàì âîéíó! Íåîáõîäèìî çàùèòèòü ñâî¸ ãîñóäàðñòâî è îñòàíîâèòü çàõâàò÷èêîâ. Âûáåðèòå ñâîþ àðìèþ è ïåðåìåñòèòå å¸ â Àðãàéë íà çàïàäå. Ñíèìèòå èãðó ñ ïàóçû äëÿ ïðîäîëæåíèÿ.;;x
+tut_5a_32;Fight;;;;;;;;;;;Ñðàæåíèå;;x
+tut_5a_33;When we run into the enemies troops, we will start to fight them. The stages of the battle will be covered in the advanced tutorial. For now, lets just wait until the battle end screen shows up.;;;;;;;;;;;Êîãäà âñòðå÷àþòñÿ âîéñêà ïðîòèâíèêîâ, îíè îñòàíàâëèâàþòñÿ è íà÷èíàþò ñðàæåíèå. Î ñòàäèÿõ áèòâû ðàññêàçàíî â ïðîäâèíóòîì îáó÷åíèè. Ñåé÷àñ ïðîñòî ïîäîæäèòå çàâåðøåíèÿ áèòâû.;;x
+tut_5a_34;Victory!;;;;;;;;;;;Ïîáåäà!;;x
+tut_5a_35;You won! Here you can see how many troops both of you had before the fight, how many casualties there were on both sides and then how many troops are remaining. Click ok. Now we stand in an enemy province with no troops in it. That means our troops will automatically start to siege. Click the province to continue.;;;;;;;;;;;"Âàøè âîéñêà ïîáåäèëè! Â îêíå èñõîäà ñðàæåíèÿ îòîáðàæåíî: êîëè÷åñòâî âîèíîâ äî áèòâû, ïîòåðè ñ îáåèõ ñòîðîí è îñòàâøèåñÿ âîéñêà. Íàæìèòå ""OK"". Ñåé÷àñ Âàøè âîéñêà ðàñïîëàãàþòñÿ â áåççàùèòíîì îêðóãå ïðîòèâíèêà, ïîýòîìó Âàøè âîéñêà àâòîìàòè÷åñêè íà÷íóò îñàäó. Íàæìèòå íà îêðóã äëÿ ïðîäîëæåíèÿ.";;x
+tut_5a_36;Siege;;;;;;;;;;;Îñàäà;;x
+tut_5a_37;The province screen will look different now that we are sieging. You'll see how many people you have attacking the holding, and you can see the number of defenders remaining. The attackers must outnumber the defenders, or the siege will not progress. Now, lets speed up the time a bit so the sieging goes faster. Increase the speed to maximum to continue.;;;;;;;;;;;Îêíî îêðóãà âûãëÿäèò èíà÷å âî âðåìÿ îñàäû. Â í¸ì îòîáðàæàåòñÿ êîëè÷åñòâî îñàæäàþùèõ è êîëè÷åñòâî îñòàâøèõñÿ çàùèòíèêîâ. Îñàæäàþùèå äîëæíû ïðåâîñõîäèòü ÷èñëîì çàùèùàþùèõñÿ, èíà÷å îñàäà ïðîâàëèòñÿ. Îñàäà - äëèòåëüíîå äåëî, ïîýòîìó óâåëè÷üòå ñêîðîñòü èãðû äî ìàêñèìóìà äëÿ ïðîäîëæåíèÿ.;;x
+tut_5a_38;Winning;;;;;;;;;;;Ïîáåäà;;x
+tut_5a_39;Eventually the siege will end, and since the enemy had no more troops and you outnumber him, we know you will win. Once the end screen is displayed, you'll see how much prestige and gold the siege won you, your casualties and the enemies casualties. Press next to end this part.;;;;;;;;;;;Ïîçäðàâëÿåì! Îñàäà çàâåðøèëàñü Âàøåé ïîáåäîé! Òåïåðü ïðîòèâíèê íå áóäåò ïîëó÷àòü ñ ýòîì îêðóãå äîõîä è íå ñìîæåò ïðèçâàòü îòñþäà îïîë÷åíèå. Òåïåðü Âû ïðåâîñõîäèòå ïðîòèâíèêà. Â èíôîðìàöèîííîì îêíå îêîí÷àíèÿ îñàäû îòîáðàæåíû: ïðåñòèæ è çîëîòî, êîòîðîå Âû çàðàáîòàëè, ïîòåðè îáåèõ ñòîðîí.;;x
+tut_5b_1;Military - Intermediate Level;;;;;;;;;;;Ñðàæåíèÿ è âîéñêà. Ñðåäíèé óðîâåíü;;x
+tut_5b_2;Levies are what we call the usual kind of troops in Crusader Kings II. Other kinds will be discussed in the advanced Military tutorial. Exactly how many and what kind of levies your vassals send you depends on the holding composition and how much the vassals like you. Open the military tab to continue.;;;;;;;;;;;"Îïîë÷åíöû, êîòîðûõ ìû ïðèçâàëè, — îñíîâíîé òèï âîéñê â Crusader Kings II. Äðóãèå âèäû âîéñê áóäóò ðàññìîòðåíû â ïðîäâèíóòîì êóðñå îáó÷åíèÿ. Îò êîëè÷åñòâà Âàøèõ âàññàëîâ è èõ îòíîøåíèÿ ê Âàì çàâèñèò ÷èñëåííîñòü è òèï àðìèé, êîòîðûå îíè ìîãóò ïðåäîñòàâèòü. Îòêðîéòå âêëàäêó ""Âîéñêà"" äëÿ ïðîäîëæåíèÿ.";;x
+tut_5b_3;Levies;;;;;;;;;;;Îïîë÷åíèå;;x
+tut_5b_4;In the military tab you can see that there are two different kind of levies: Personal levies and vassal levies. Personal levies are the ones you control yourself while the vassal levies are the levies controlled by your vassals and the vassals of your vassals. Click next to continue.;;;;;;;;;;;"Âî âêëàäêå ""Âîéñêà"" îòîáðàæåíû ðàçëè÷íûå òèïû îïîë÷åíèÿ èç ëè÷íûõ âëàäåíèé ïðàâèòåëÿ è åãî âàññàëîâ. Ïåðâûõ êîíòðîëèðóåò ñàì ïðàâèòåëü. Âòîðûå óïðàâëÿþòñÿ íåïîñðåäñòâåííî âàññàëàìè. Ñóùåñòâóåò è òðåòüÿ ãðóïïà, óïðàâëÿåìàÿ âàññàëàìè Âàøèõ âàññàëîâ.";;x
+tut_5b_5;Levy Composition;;;;;;;;;;;Ñòðóêòóðà îïîë÷åíèÿ;;x
+tut_5b_6;Castle gives you the most troops, period. They also reinforce faster. These holding give you some light cavalry, light infantry and most heavy infantry.;;;;;;;;;;;Çàìêè äàþò Âàì áîëüøå âñåãî âîéñê, è òàì âîéñêà áûñòðåå ïîïîëíÿþòñÿ. Â çàìêàõ òðåíèðóþòñÿ ë¸ãêàÿ êîííèöà è ïåõîòà, íî áîëüøå âñåãî çäåñü òÿæ¸ëîé ïåõîòû.;;x
+tut_5b_7;Cities give you some galleys, archers and most light infantry.;;;;;;;;;;;Ãîðîäà ñíàáæàþò Âàñ êîðàáëÿìè, ëó÷íèêàìè è áîëüøèì êîëè÷åñòâîì ë¸ãêîé ïåõîòû.;;x
+tut_5b_8;Temples give you some galleys, and then archers, light infantry and heavy infantry.;;;;;;;;;;;Õðàìû òàêæå ïîñòàâëÿþò êîðàáëè, ëó÷íèêîâ, ë¸ãêóþ è òÿæ¸ëóþ ïåõîòó.;;x
+tut_5b_9;Exactly what levies you will get from a province also depends on other things, like who the vassal is. Since castles are so occupied with providing troops, they yield less taxes for you than the other two, while cities give you much more. Click next to end this part.;;;;;;;;;;;Êàêèå ðåêðóòû áóäóò â Âàøåì ðàñïîðÿæåíèè, çàâèñèò è îò äðóãèõ ôàêòîðîâ. Íàïðèìåð, îò Âàøèõ âàññàëîâ. Íåîáõîäèìî ïîìíèòü, ÷òî çàìêè, òðåíèðóþùèå îïîë÷åíöåâ, ïðèíîñÿò ãîðàçäî ìåíüøå äåíåã â êàçíó, ÷åì ãîðîäà.;;x
+tut_5c_1;Military - Advanced Level;;;;;;;;;;;Ñðàæåíèÿ è âîéñêà. Ïðîäâèíóòûé óðîâåíü;;x
+tut_5c_2;We have some concepts that are new to this installment of Crusader Kings. Open the military tab to learn more about mercenaries, holy orders and flanks.;;;;;;;;;;;"Íàñòàëà ïîðà ðàññêàçàòü î íîâîââåäåíèÿõ Crusader Kings: íà¸ìíèêàõ, ôëàíãàõ è êðåñòîíîñöàõ. Îòêðîéòå âêëàäêó ""Âîéñêà"".";;x
+tut_5c_3;Mercenaries;;;;;;;;;;;Íà¸ìíèêè;;x
+tut_5c_4;Mercenaries are hired troops under your direct control. Click the Mercenaries tab to see what kind of mercenaries are available to you. Here you can see that when you hire them, they cost a rather hefty sum of money. Then below each hire button, you can see the monthly cost, which is smaller but still substantial. If you find yourself unable to pay them when the time has come, they might attack you and take provinces. Their loyalty lies with the gold only. Click the holy orders tab to continue. ;;;;;;;;;;;Íà¸ìíèêè - âîèíû ñïåöèàëüíûõ íà¸ìíûõ ïîäðàçäåëåíèé, íàõîäÿùèõñÿ ïîä Âàøèì íåïîñðåäñòâåííûì óïðàâëåíèåì. Îòêðîéòå âêëàäêó íà¸ìíèêîâ, ÷òîáû ïðîñìîòðåòü äîñòóïíûå âîéñêà. Çäåñü Âû ìîæåòå óçíàòü, îòêóäà îíè, èõ êîëè÷åñòâî, ñòîèìîñòü íàéìà è ñîäåðæàíèÿ. Îáû÷íî ýòî î÷åíü êðóïíûå ñóììû. Åñëè ïðàâèòåëü íå çàïëàòèò èì âîâðåìÿ, íà¸ìíèêè âçáóíòóþòñÿ: îíè áóäóò ñðàæàòüñÿ ñ åãî âîéñêàìè è îñàæäàòü îêðóãà. Èõ âåðíîñòü îñíîâàíà èñêëþ÷èòåëüíî íà çîëîòå. Òåïåðü ðàññìîòðèì âîéñêà êðåñòîíîñöåâ, îòêðîéòå ñîîòâåòñòâóþùóþ âêëàäêó äëÿ ïðîäîëæåíèÿ.;;x
+tut_5c_5;Holy Orders;;;;;;;;;;;Âîéñêî õðèñòîâî;;x
+tut_5c_6;Well, you don't have any holy orders active to choose from now, but when you do, it will look like this: ;;;;;;;;;;;Èòàê, â äàííûé ìîìåíò â Âàøåì ãîñóäàðñòâå îòñóòñòâóþò âîéñêà êðåñòîíîñöåâ. Îäíàêî, êîãäà îíè ïîÿâÿòñÿ, èõ âîéñêà áóäóò âûãëÿäåòü ïðèìåðíî òàê:;;x
+tut_5c_7;These troops are free to hire, but they only attack religious enemies, and they only exist around the time of crusades, so they are a bit limited. If you are defending against infidels or heretics, they have no maintenance cost either. Now, raise your personal levy and select it to continue.;;;;;;;;;;;Ýòè âîéñêà âîþþò çà Âàñ áåñïëàòíî, íî èõ èñïîëüçîâàíèå îãðàíè÷åíî: îíè àòàêóþò òîëüêî ðåëèãèîçíûõ âðàãîâ è ñóùåñòâóþò òîëüêî âî âðåìÿ êðåñòîâûõ ïîõîäîâ. Åñëè Âû îáîðîíÿåòåñü ïðîòèâ íåâåðíûõ èëè åðåòèêîâ, òî èõ ñîäåðæàíèå òàêæå íè÷åãî íå ñòîèò. Òåïåðü ïðèçîâèòå Âàøå ëè÷íîå îïîë÷åíèå è âûáåðèòå åãî, ÷òîáû ïðîäîëæèòü.;;x
+tut_5c_8;Flanks;;;;;;;;;;;Ôëàíãè;;x
+tut_5c_9;The armies are divided into three flanks, each flank can have a leader and it's own tactic. When one of the flanks win, it can join one of the other two to reinforce them. Click next to continue.;;;;;;;;;;;Àðìèè ðàçäåëÿþòñÿ íà òðè ÷àñòè, òî åñòü ôëàíãà. Êàæäûé èìååò ñîáñòâåííîãî ëèäåðà è òàêòèêó. Êîãäà îäèí èç ôëàíãîâ âûèãðàë, îí ìîæåò îáúåäèíèòüñÿ ñ äðóãèì è âîñïîëíèòü ïîòåðè.;;x
+tut_5c_10;Tactics;;;;;;;;;;;Òàêòèêà;;x
+tut_5c_11;Each flank has a commander that will choose the tactic to use. When deciding this he is considering what kind of troops he has and what kind of troops the enemy have and adapts. How good he is at this depends on his military skill. Click next to end this part.;;;;;;;;;;;Êàæäàÿ èç ÷àñòåé àðìèè èìååò ñîáñòâåííîãî êîìàíäèðà, êîòîðûé îïðåäåëÿåò èñïîëüçóåìóþ òàêòèêó. Ïðè ýòîì îí ó÷èòûâàåò èìåþùèåñÿ â åãî ðàñïîðÿæåíèè âîéñêà è âîéñêà ïðîòèâíèêà. Íàñêîëüêî õîðîøî ýòî ó íåãî ïîëó÷èòñÿ, çàâèñèò îò âîåííîãî óìåíèÿ ïîëêîâîäöà.;;x
+tut_6a_1;War - Basic Level;;;;;;;;;;;Îñíîâû âåäåíèÿ âîéíû;;x
+tut_6a_2;War is the other kind of diplomacy in this game. It is an important tool to grow your realm, and to protect what is yours. Click next to continue.;;;;;;;;;;;Âîéíà â èãðå - îäèí èç ñïîñîáîâ âåäåíèÿ äèïëîìàòèè. Ýòî âàæíåéøåå ñðåäñòâî ðàñøèðåíèÿ ãðàíèö ãîñóäàðñòâà è çàùèòû âõîäÿùèõ â íåãî çåìåëü.;;x
+tut_6a_3;Claims and Casus Bellis;;;;;;;;;;;Ïðåòåíçèè è ïîâîäû âîéíû;;x
+tut_6a_4;For you to be able to declare war, you first need some sort of casus belli. The most common kind is to get a claim. Other methods involve plots and events, but lets focus on claims. To see where our borders go, click the independent realms and we'll continue.;;;;;;;;;;;Äëÿ òîãî, ÷òîáû îáúÿâèòü âîéíó íåîáõîäèì ïîâîä (Casus Belli). Îáû÷íî ýòî òåððèòîðèàëüíûå ïðåòåíçèè. Ê äðóãèì ìåòîäàì åãî ïîëó÷åíèÿ îòíîñÿòñÿ èíòðèãè è ñîáûòèÿ. Íî ñåé÷àñ ìû ðàññìîòðèì ïðåòåíçèè. ×òîáû óâèäåòü, ãäå ïðîõîäèò ãðàíèöà, íàæìèòå êíîïêó ïðîñìîòðà íåçàâèñèìûõ ãîñóäàðñòâ.;;x
+tut_6a_5;Selecting a target;;;;;;;;;;;Âûáîð öåëè;;x
+tut_6a_6;Søroyar to the west of Ross seems like a good target. It would be a nice addition to our border, plus his maximum numbers of levy is not very impressive. Click on the province.;;;;;;;;;;;Ãåáðèäû (Ñ¸ðåÿð) ê çàïàäó îò Ðîññà âûãëÿäÿò õîðîøåé öåëüþ. Îíè áûëè áû õîðîøèì äîïîëíåíèåì ê íàøåé ãðàíèöå, ê òîìó æå èõ îïîë÷åíèå íå âûãëÿäèò âïå÷àòëÿþùèì. Íàæìèòå íà ýòîò îêðóã.;;x
+tut_6a_7;Picking a Fight;;;;;;;;;;;Ôîðìèðîâàíèå ïðåòåíçèé;;x
+tut_6a_8;After reviewing the county stats, open the council screen.;;;;;;;;;;;Ïîñëå ïðîñìîòðà îïèñàíèÿ îêðóãà, îòêðîéòå ýêðàí ñîâåòíèêîâ.;;x
+tut_6a_9;Picking a Fight II;;;;;;;;;;;Îòïðàâêà êàíöëåðà;;x
+tut_6a_10;Now let's send our chancellor out on a secret mission to fabricate claims. Click the fabricate claims button, then click on Søroyar to place the chancellor there.;;;;;;;;;;;"Ñåé÷àñ äàâàéòå îòïðàâèì êàíöëåðà âûïîëíÿòü ìèññèþ ïî èçãîòîâëåíèþ ïðåòåíçèé. Íàæìèòå êíîïêó ""Ñôàáðèêîâàòü ïðåòåíçèè"", çàòåì íàæìèòå íà Ñ¸ðåÿð (Ãåáðèäû), ÷òîáû ïîìåñòèòü åãî òàì.";;x
+tut_6a_10a;Job Done;;;;;;;;;;;Ãîòîâî;;x
+tut_6a_10b;Now you got an event pop-up. It says you now have a claim on the county which means you can go to war over it. Read it and click 'Press the claim' to continue. ;;;;;;;;;;;"Íà ýêðàíå ïîÿâèëîñü îêíî ñîáûòèÿ. Çäåñü ñêàçàíî, ÷òî Âû ïðåòåíäóåòå íà òèòóë. Ýòî îçíà÷àåò, ÷òî Âû ìîæåòå ñìåëî îáúÿâëÿòü âîéíó. Ïðî÷òèòå è íàæìèòå ""Çàÿâèòü î ïðåòåíçèÿõ!"", ÷òîáû ïðîäîëæèòü.";;x
+tut_6a_11;Declare War;;;;;;;;;;;Îáúÿâëåíèå âîéíû;;x
+tut_6a_12;Now it is time to actually declare war. So click on Søroyar again. Right click the portrait to open the diplomacy menu.;;;;;;;;;;;"Ïîðà îáúÿâèòü âîéíó. Ñíîâà âûáåðèòå ""Ñ¸ðåÿð"" (Ãåáðèäñêèå îñòðîâà). Íàæìèòå ïðàâîé êíîïêîé ìûøè íà ïîðòðåò å¸ ïðàâèòåëÿ è âûáåðèòå äèïëîìàòèþ.";;x
+tut_6a_13;Declare War II;;;;;;;;;;;Âûáîð ïîâîäà;;x
+tut_6a_14;Click on declare war. Now you'll see the casus belli we just arranged for. Click on claim Søroyar and hit send.;;;;;;;;;;;"Âûáåðèòå ""Îáúÿâëåíèå âîéíû"". Âû óâèäèòå ïîâîä äëÿ âîéíû, êîòîðûé òîëüêî ÷òî áûë íàìè ñôàáðèêîâàí. Êëèêíèòå ïî íåìó è îòïðàâüòå.";;x
+tut_6a_15;Diplomatic Map Mode;;;;;;;;;;;Äèïëîìàòè÷åñêèé ðåæèì êàðòû;;x
+tut_6a_16;The diplomatic map mode shows your diplomatic relations with other realms. Make sure you have your own province selected, then go to diplomatic map mode to see who you are at war with.;;;;;;;;;;;Òåïåðü Âàøå ãîñóäàðñòâî íàõîäèòñÿ â ñîñòîÿíèè âîéíû. Äèïëîìàòè÷åñêàÿ êàðòà îòîáðàæàåò îòíîøåíèÿ ìåæäó ãîñóäàðñòâàìè è çàêëþ÷¸ííûå ñîãëàøåíèÿ. Óäîñòîâåðüòåñü, ÷òî Âû âûáðàëè ñâîé îêðóã. Çàòåì ïåðåêëþ÷èòå ðåæèì êàðòû, ÷òîáû óçíàòü, ñ êàêèìè ãîñóäàðñòâàìè Âû âîþåòå.;;x
+tut_6a_17;Statistics;;;;;;;;;;;Ñòàòèñòèêà;;x
+tut_6a_18;At the bottom of the screen you can see an icon. That is showing you the leader of the opposite side in any war you are engaged in. Click the icon to see how the war is coming along.;;;;;;;;;;;Â íèæíåé ÷àñòè ýêðàíà ïîÿâèëàñü èêîíêà ñ èçîáðàæåíèåì ëèäåðà ïðîòèâíèêîâ. Íàæìèòå íà íå¸, ÷òîáû óçíàòü î õîäå âîéíû.;;x
+tut_6a_19;Warscore;;;;;;;;;;;Âîåííûé ñ÷¸ò;;x
+tut_6a_20;Here you can see how individual battles went, and also the warscore percentage. Warscore is the sum of how the war is going. To be able to claim provinces you'll need to get that number up so high that they will have to agree to your demands. Click next to continue.;;;;;;;;;;;Çäåñü îòîáðàæåíû èñõîäû îòäåëüíûõ áèòâ è âîåííûé ñ÷¸ò â ïðîöåíòàõ. Âîåííûé ñ÷¸ò - ýòî ïîêàçàòåëü òîãî, ñ êàêèì ðåçóëüòàòîì èä¸ò âîéíà. ×òîáû ïðîòèâíèê ñîãëàñèëñÿ íà êàïèòóëÿöèþ, âîåííûé ñ÷¸ò äîëæåí áûòü âûøå îïðåäåë¸ííîãî óðîâíÿ.;;x
+tut_6a_21;Ending a War;;;;;;;;;;;Îêîí÷àíèå âîéíû;;x
+tut_6a_22;For now, lets end this war. Press offer peace.;;;;;;;;;;;Äàâàéòå çàâåðøèì ýòó âîéíó. Íàæìèòå êíîïêó ïðåäëîæåíèÿ ìèðà.;;x
+tut_6a_23;Ending a War II;;;;;;;;;;;Ìèðíûé äîãîâîð;;x
+tut_6a_24;The different outcomes of a war will be discussed in the intermediate war tutorial. Since you haven't won anything yet, demanding they surrender won't work. Offer a white peace or your surrender to end this part.;;;;;;;;;;;"Äðóãèå ýòàïû âîéíû ìû èçó÷èì â áîëåå ïðîäâèíóòîì ðàçäåëå. Ñåé÷àñ ó Âàñ åù¸ íåò ïîáåä èëè ïîðàæåíèé. Ïðåäëîæèòå ""Áåëûé ìèð"" ëèáî ñäàéòåñü âðàãó, ÷òîáû çàêîí÷èòü îáó÷åíèå.";;x
+tut_6b_1;War - Intermediate Level;;;;;;;;;;;Âîéíû. Ñðåäíèé êóðñ;;x
+tut_6b_2;Once you want to end a war, there are a few different outcomes. Press next to learn about them.;;;;;;;;;;;Êàæäàÿ âîéíà êîãäà-íèáóäü çàêàí÷èâàåòñÿ. Ñóùåñòâóåò íåñêîëüêî èñõîäîâ, êîòîðûìè îíà ìîæåò çàâåðøèòüñÿ.;;x
+tut_6b_3;Peace outcome;;;;;;;;;;;Èñõîäû âîéíû;;x
+tut_6b_4;Attacker wins. The attacker get the claimed province or title, plus prestige and a higher score.;;;;;;;;;;;Àãðåññîð ïîáåäèë. Â ýòîì ñëó÷àå îí ïîëó÷àåò çåìëþ èëè òèòóë, íà êîòîðûé èìåë ïðåòåíçèè, ïðåñòèæ, è óâåëè÷èâàåò ñ÷¸ò.;;x
+tut_6b_5;Attacker loses. The attacker lose prestige which lowers the score. They also lose the claim.;;;;;;;;;;;Àãðåññîð ïðîèãðàë. Îí òåðÿåò ïðåñòèæ, åãî ñ÷¸ò óìåíüøàåòñÿ. Íî ÷òî ñàìîå ãëàâíîå - îí òåðÿåò ïðåòåíçèè.;;x
+tut_6b_6;Truce. White peace. The attacker loses prestige.;;;;;;;;;;;Ïåðåìèðèå. Áåëûé ìèð. Àãðåññîð òåðÿåò ïðåñòèæ.;;x
+tut_6b_7;Press next to end this part.;;;;;;;;;;;"Íàæìèòå ""Ñëåäóþùàÿ ãëàâà"".";;x
+tut_6c_1;War - Advanced Level;;;;;;;;;;;Âîéíû. Ïðîäâèíóòûé êóðñ;;x
+tut_6c_2;For the advanced part of war, let's discuss some finer points of warscore and de jure claims. Click next to continue.;;;;;;;;;;;Â ýòîé ãëàâå Âû ïîçíàêîìèòåñü ñ äåòàëÿìè þðèäè÷åñêèõ ïðåòåíçèé è âåäåíèåì âîåííîãî ñ÷¸òà.;;x
+tut_6c_3;Warscore;;;;;;;;;;;Âîåííûé ñ÷¸ò;;x
+tut_6c_4;When at war, you will get warscore for winning a province in battle and siege. After that not much happens though. To make it easier to claim parts of a vast empire, this changes after three years though. If you hold an enemy province for more than three years, the warscore starts to rise.;;;;;;;;;;;Ïîáåäû â ñðàæåíèÿõ è îñàäàõ óâåëè÷èâàþò ñ÷¸ò âî âðåìÿ âîéíû. Íåêîòîðûå ñîáûòèÿ òàêæå âëèÿþò íà íåãî. Âîåííûé ñ÷¸ò íà÷èíàåò óâåëè÷èâàòüñÿ ïîñëå òð¸õ ëåò óäåðæàíèÿ ëþáîãî îêðóãà, íåçàâèñèìî îò îáøèðíîñòè ãîñóäàðñòâà ïðîòèâíèêà.;;x
+tut_6c_5;After three years, the warscore will start to rise for just holding the province in question. This will enable you to win over a remote province that the ruler you are fighting can't or won't send troops to defend, without you having to siege all of their other provinces. Click next to continue.;;;;;;;;;;;Íî äåéñòâóåò ýòî òîëüêî â îòíîøåíèè òðåáóåìûõ çåìåëü. Ýòî îáëåã÷àåò çàõâàò îòäàë¸ííûõ è èçîëèðîâàííûõ çåìåëü, â êîòîðûå èõ âëàäåëåö íå ìîæåò ïîñëàòü âîéñêà. Ïðè ýòîì íå òðåáóåòñÿ çàõâàòûâàòü äðóãèå çåìëè.;;x
+tut_6c_6;De Jure;;;;;;;;;;;Äå-þðå;;x
+tut_6c_7;De jure is a term used to describe what is legally considered part of a landed title, even if it de facto is controlled by another ruler right now. That means that if, for example, a county is de jure considered part of your duchy, you will always have a casus belli to go to war and take it. The de jure hierarchy is static and can never change. E.g. the Kingdom of France will, de jure, always consist of the same duchies, which will consist of the same counties, etc. Click next to end this part.;;;;;;;;;;;De jure - òåðìèí, èñïîëüçóåìûé äëÿ îïèñàíèÿ çàêîííûõ ïðåòåíçèé íà çåìëè äàæå åñëè de facto èìè óïðàâëÿåò äðóãîé ïðàâèòåëü. Ýòî îçíà÷àåò, ÷òî åñëè êàêàÿ-òî îáëàñòü ïî ïðàâó Âàøà, Âû âñåãäà áóäåòå èìåòü ïîâîä äëÿ âîéíû ñ å¸ íûíåøíèì õîçÿèíîì. Ýòè ïðàâà âå÷íû è íåèçìåííû. Íàïðèìåð, Ôðàíöèÿ âñåãäà áóäåò ñîñòîÿòü èç îäíèõ è òåõ æå çåìåëü.;;x
+tut_7a_1;Plots and Intrigue - Basic Level;;;;;;;;;;;Îñíîâû çàãîâîðîâ è èíòðèã;;x
+tut_7a_2;Plotting allows you to pursue goals in a less confrontational way than direct war. Other people can also plot against you though, so you always need to be prepared. Click the intrigue tab to continue.;;;;;;;;;;;"Äîñòè÷ü ñâîèõ öåëåé Âû ìîæåòå íå òîëüêî âîåííûì ïóòåì. Çàãîâîðû ïîçâîëÿò Âàì èçáåæàòü ïðÿìîãî âìåøàòåëüñòâà â äåëà ñîñåäåé. Îäíàêî ñòîèò áûòü íà÷åêó - èíòðèãè ïëåòóòñÿ è ïðîòèâ Âàñ. Íàæìèòå íà âêëàäêó ""Èíòðèãè"", ÷òîáû ïðîäîëæèòü.";;x
+tut_7a_3;Window Overview;;;;;;;;;;;Îêíî èíòðèã;;x
+tut_7a_4;This is an overview of your current ambition or plot, you have a list of decisions, and towards the bottom you have three tabs.;;;;;;;;;;;Ýòî îêíî ÿâëÿåòñÿ îáçîðîì Âàøèõ òåêóùèõ çàìûñëîâ, çäåñü ïðåäñòàâëåí ñïèñîê ðåøåíèé, è òðè âêëàäêè.;;x
+tut_7a_5;Threats - People who are possible risks are listed here.;;;;;;;;;;;Óãðîçû - ñþäà çàíåñåíû âñå ïåðñîíû, êîòîðûå ìîãóò áûòü îïàñíû.;;x
+tut_7a_6;Prisoners - A list of people you have imprisoned, and some information on them.;;;;;;;;;;;Òþðüìà - ñïèñîê ëþäåé, êîòîðûå òîìÿòñÿ â ïîäçåìåëüÿõ è òåìíèöàõ ãîñóäàðñòâà, è íåìíîãî èíôîðìàöèè î íèõ.;;x
+tut_7a_7;Plots - This is where revealed plots against you are listed.;;;;;;;;;;;Çàãîâîðùèêè - ñïèñîê óæå ðàñêðûòûõ çàãîâîðùèêîâ, çàìûøëÿâøèõ ÷òî-ëèáî íåçàêîííîå â Âàøåì ãîñóäàðñòâå.;;x
+tut_7a_8;Click next to end this part.;;;;;;;;;;;Íà ýòîì äàííàÿ ãëàâà îêîí÷åíà.;;x
+tut_7b_1;Plots and Intrigue - Intermediate Level;;;;;;;;;;;Çàãîâîðû è èíòðèãè. Ñðåäíèé êóðñ;;x
+tut_7b_2;This part will tell you about ambitions. All playable characters can select an ambition in addition to plotting devious schemes. Click your character portait to learn more.;;;;;;;;;;;Ýòà ãëàâà ðàññêàæåò îá àìáèöèÿõ. Âñå äîñòóïíûå äëÿ èãðû ïåðñîíàæè ìîãóò âûáðàòü ñåáå îïðåäåë¸ííûå àìáèöèè â äîïîëíåíèå ê çàãîâîðàì. Îòêðîéòå îêíî èíòðèã.;;x
+tut_7b_3;Your Ambitions;;;;;;;;;;;Âàøè àìáèöèè;;x
+tut_7b_4;To the left of your portait you can see a small circular button called 'Choose an Ambition'. Here you can set an ambition for your current character. Example ambitions can be to get married, to hoard up a big pile of gold, get a thousand prestige or other things like this. When you succeed with an ambition, you will also get some kind of reward, a better reward for a harder ambition of course.;;;;;;;;;;;"Ñëåâà îò ïîðòðåòà ïåðñîíàæà Âû ìîæåòå íàæàòü êíîïêó ""Âûáðàòü àìáèöèþ"". Êàê ïðèìåð ýòî ìîãóò áûòü: æåëàíèå æåíèòüñÿ, ñêîëîòèòü ñîñòîÿíèå, óâåëè÷èòü ïðåñòèæ è ò.ä. Ðåàëèçîâàâ àìáèöèþ, Âû ïîëó÷èòå íåáîëüøóþ íàãðàäó.";;x
+tut_7b_5;Once you have completed an ambition, you can select a new one. Keep in mind that some of them can be really hard to obtain, so then you need to start planning ahead to be able to complete them. Click next to continue.;;;;;;;;;;;Ïîñëå äîñòèæåíèÿ öåëè ìîæíî ïîñòàâèòü ñëåäóþùóþ. Îñóùåñòâèòü íåêîòîðûå èç íèõ î÷åíü ñëîæíî, òàê ÷òî ó÷èòûâàéòå ýòî ïðè ñîñòàâëåíèè ïëàíà.;;x
+tut_7b_6;Vassal Ambitions;;;;;;;;;;;Àìáèöèè âàññàëîâ;;x
+tut_7b_7;You are not the only one with ambitions, all your vassals can potentially have them too. Sometimes it will be something you can fix, sometimes not. If a character has the ambition to get married, and you arrange a marriage for them, they will like you more. They can also have ambitions you can do nothing about, or ambitions you do not want to fulfill.;;;;;;;;;;;Íå òîëüêî ó Âàñ åñòü àìáèöèè, âñå âàññàëû ìîãóò èìåòü ñâîè ñîáñòâåííûå ïëàíû. Èíîãäà Âû ìîæåòå óçíàòü î íèõ, èíîãäà íåò. Åñëè ïåðñîíàæ õî÷åò âñòóïèòü â áðàê, è Âû óñòðîèòå åìó ñâàäüáó, Âàøè îòíîøåíèÿ óëó÷øàòñÿ. Áûâàþò è òàêèå ïëàíû, â êîòîðûõ Âû íå ñìîæåòå èëè íå çàõîòèòå ïðèíèìàòü ó÷àñòèå.;;x
+tut_7b_8;To see a vassal's ambition, click their portrait and it will be listed above the stats. Click next to end this part.;;;;;;;;;;;×òîáû óçíàòü æåëàíèÿ âàññàëà, íàæìèòå åãî ïîòðåò, îíè áóäóò îïèñàíû âûøå õàðàêòåðèñòèê.;;x
+tut_7c_1;Plots and Intrigue - Advanced Level;;;;;;;;;;;Çàãîâîðû è èíòðèãè. Ïðîäâèíóòûé óðîâåíü;;x
+tut_7c_2;Plots in Crusader Kings II can help you accomplish things that might have been hard or impossible otherwise. Going to war and winning against a foe with superior firepower for example. Unlike ambitions, it is often an aggressive act towards someone else. Often secret and illegal as well. Click the intrigue tab to continue.;;;;;;;;;;;"Çàãîâîðû â Crusader Kings II ìîãóò ïîìî÷ü Âàì â ïëàíàõ, êîòîðûå ñëîæíî èëè íåâîçìîæíî îñóùåñòâèòü äðóãèì ñïîñîáîì. Íàïðèìåð, íà÷àòü âîéíó ñ ïðåâîñõîäÿùèì Âàñ ïî ñèëå ïðîòèâíèêîì. Â îòëè÷èå îò àìáèöèé, îáû÷íî ýòî àêòû àãðåññèè ïî îòíîøåíèþ ê êîìó-ëèáî. ×àñòî - òàéíûå è íåçàêîííûå. Îòêðîéòå âêëàäêó ""Èíòðèãè"" äëÿ ïðîäîëæåíèÿ.";;x
+tut_7c_3;Plot Details;;;;;;;;;;;Äåòàëè çàãîâîðà;;x
+tut_7c_4;We talked about ambitions in the intermediary intrigue tutorial. Plots can also be chosen from the character portrait screen by finding a character you wish to plot against and clicking the 'Choose a Plot' button. However, because it's hard to know exactly who you would benefit from plotting against, an easier way is to use the plot selector in the intrigue screen to find interesting plots. It is a large button called 'Click to choose a plot'.;;;;;;;;;;;"Çàãîâîðû òàêæå ìîæíî âûáðàòü ÷åðåç ïîðòðåò ïåðñîíàæà, íàæèìàÿ êíîïêó ""Âûáðàòü çàãîâîð"". Ïîñêîëüêó òðóäíî óçíàòü çàðàíåå î ïðåèìóùåñòâàõ çàãîâîðà, áîëåå ïðîñòîé ñïîñîá çàêëþ÷àåòñÿ â èñïîëüçîâàíèè îêíà èíòðèã, ÷òîáû íàéòè íóæíûé çàãîâîð. Òàì åñòü áîëüøàÿ êíîïêà ""Íàæìèòå, ÷òîáû âûáðàòü çàãîâîð"".";;x
+tut_7c_5;You can have one plot and one ambition active at any given time. If you already have a plot and want to scheme against another character, you will have to cancel your old plot first.;;;;;;;;;;;Îäíîâðåìåííî Âû ìîæåòå ó÷àñòâîâàòü òîëüêî â îäíîì çàãîâîðå. Åñëè Âû õîòèòå íà÷àòü íîâûé çàãîâîð, Âàì ïðèäåòñÿ îòìåíèòü òåêóùèé.;;x
+tut_7c_6;Once you have selected a plot, you will see the target to the left, which backers you have acquired in the middle and the plot power to the right. Plot power is your strength relative to the target. To invite backers and strengthen your plot power, use the plus sign in that row. It will appear when you have selected a plot. Click next to continue.;;;;;;;;;;;Êîãäà Âû âûáåðåòå çàãîâîð, ñëåâà Âû óâèäèòå åãî öåëü, â öåíòðå - ó÷àñòíèêîâ, à ñïðàâà - ñèëó. Ñèëà çàãîâîðà - ýòî Âàøè âîçìîæíîñòè ïî îòíîøåíèþ ê âîçìîæíîñòÿì öåëè. ×òîáû óêðåïèòü ïîääåðæêó è óñèëèòü çàãîâîð, èñïîëüçóéòå çíàê ïëþñà. Îí ïîÿâèòñÿ, êîãäà Âû âûáåðåòå çàãîâîð.;;x
+tut_7c_7;Two Kinds;;;;;;;;;;;Äâà âèäà;;x
+tut_7c_8;There are two kinds of plots, and they use different plot power. The military ones simply rely on military might. You make sure you and your backers have more of it, then threaten to wage war against them if they do not comply. The other kind relies on intrigue power, and there it will be the relative intrigue score of both sides that comprises the plot power. Click next to end this part.;;;;;;;;;;;Ñóùåñòâóåò äâà âèäà çàãîâîðîâ, è ó îáîèõ - ðàçëè÷íûå ïóòè îñóùåñòâëåíèÿ. Âîåííûå çàãîâîðû ïîëàãàþòñÿ íà âîåííóþ ìîùü. Óáåäèòåñü, ÷òî Âû è Âàø ñòîðîííèê îáëàäàåòå äîñòàòî÷íûì å¸ êîëè÷åñòâîì, íà ñëó÷àé ãðîçÿùåé ïðè ïðîâàëå âîéíû. Âòîðîé âèä çàãîâîðîâ îñíîâûâàåòñÿ íà ñèëå èíòðèã. Â ýòîì ñëó÷àå ñèëà çàãîâîðà îïðåäåëÿåòñÿ ñîîòíîøåíèåì ñèë èíòðèã îáåèõ ñòîðîí.;;x
+tut_8a_1;Religion - Basic Level;;;;;;;;;;;Ðåëèãèÿ. Îñíîâû;;x
+tut_8a_2;Religion with all that implies, can have a big impact on what happens in your game. Crusades, piety and your own religious vassals will all play their part. The church head, which will be either a Pope, Caliph or an Ecumenical Patriarch, is the religious power for each of their religions. The Pope can not just start holy wars, he is also the one who can grant you a divorce for example. Click the religion tab to continue.;;;;;;;;;;;Öåðêîâü èìååò îãðîìíîå çíà÷åíèå â ýòîé èãðå. Ðåëèãèÿ è âñ¸, ÷òî ñ íåé ñâÿçàíî, ìîæåò îêàçàòü áîëüøîå âëèÿíèå íà õîä ñîáûòèé. Êðåñòîíîñöû, áëàãî÷åñòèå, è Âàøè âàññàëû-åïèñêîïû íàïðÿìóþ çàâèñÿò îò ðåëèãèè. Â ðàçíûõ òèïàõ ðåëèãèè - ñâîè äóõîâíûå ëèäåðû: Ïàïà, õàëèô, âñåëåíñêèé ïàòðèàðõ è ò.ä. Ïàïà ìîæåò íå òîëüêî íà÷àòü ñâÿùåííóþ âîéíó, íî è, íàïðèìåð, ðàçðåøèòü Âàì ðàçâîä. Îòêðîéòå îêíî Ðåëèãèè äëÿ ïðîäîëæåíèÿ.;;x
+tut_8a_3;Window Overview;;;;;;;;;;;Îêíî Ðåëèãèè;;x
+tut_8a_4;Here you will see that you are part of the catholic church, and you can also find the pope here and see whether he likes you or not. A high moral authority is good for the church, and bad for those who oppose it.;;;;;;;;;;;Çäåñü ðàñïîëîæåíà èíôîðìàöèÿ î òîì, êàêóþ ðåëèãèþ èñïîâåäóåò Âàøå ãîñóäàðñòâî. Íàïðèìåð, Øîòëàíäèÿ ÿâëÿåòñÿ ÷àñòüþ êàòîëè÷åñêîé öåðêâè, ïîýòîìó çäåñü ðàñïîëîæåíà èíôîðìàöèÿ î òåêóùåì Ïàïå è åãî îòíîøåíèè ê Âàì. Âûñîêèé ìîðàëüíûé àâòîðèòåò èãðàåò íà ðóêó ðåëèãèîçíîìó ëèäåðó è âðåäèò âñåì, êòî åìó ïðîòèâîñòîèò.;;x
+tut_8a_5;If the pope has called to a crusade, that will be listed here. The bottom part of this window lists your vassal bishops and lets you appoint successors for each one of them. Click next to end this part.;;;;;;;;;;;Åñëè Ïàïà ïðèçîâ¸ò ê êðåñòîâîìó ïîõîäó, ýòî îòîáðàçèòñÿ çäåñü. Â íèæíåé ÷àñòè îêíà ðàñïîëîæåí ñïèñîê Âàøèõ âàññàëîâ-åïèñêîïîâ. Çäåñü Âû ìîæåòå íàçíà÷èòü èõ ïðèåìíèêîâ, åñëè äåéñòâóåò ñîîòâåòñòâóþùèé çàêîí.;;x
+tut_8b_1;Religion - Intermediate Level;;;;;;;;;;;Ðåëèãèÿ. Ñðåäíèé êóðñ;;x
+tut_8b_2;This part of the tutorial will teach you about opinions, laws and crusades. Click next to continue.;;;;;;;;;;;Â ýòîé ãëàâå ðàññêàçûâàåòñÿ î âàæíîñòè õîðîøèõ îòíîøåíèé ñ âàññàëàìè èç äóõîâåíñòâà, î çàêîíàõ è î êðåñòîíîñöàõ.;;x
+tut_8b_3;Religious Vassals;;;;;;;;;;;Âàññàëû-åïèñêîïû;;x
+tut_8b_4;Religious vassals of Catholic rulers will only give you troops and money if they have a higher opinion of you than they do of the Pope. The easiest way to assure that, is to actually appoint someone to bishop that already likes you. Click the laws tab to see how you can accomplish that.;;;;;;;;;;;"Åñëè Âû - êàòîëèê, âàññàëû èç äóõîâåíñòâà áóäóò ñíàáæàòü Âàñ ðåêðóòàìè è çîëîòîì òîëüêî â òîì ñëó÷àå, åñëè îíè îòíîñÿòñÿ ê Âàì ëó÷øå, ÷åì ê Ïàïå. Ñàìûé ë¸ãêèé ñïîñîá äîáèòüñÿ ýòîãî - íàçíà÷èòü íà ïîñò åïèñêîïà ÷åëîâåêà, êîòîðûé óæå õîðîøî ê Âàì îòíîñèòñÿ. Íàæìèòå íà âêëàäêó ""Çàêîíû"", ÷òîáû óçíàòü áîëüøå.";;x
+tut_8b_5;Investiture;;;;;;;;;;;Èíâåñòèòóðà;;x
+tut_8b_6;In the Realm tab you can find the Investiture Law. This can either be set to papal, which means the pope elects the bishops, or free, which means that you can select your bishops by yourself. The pope will not be happy of course. Click next to learn about crusades.;;;;;;;;;;;Îáðàòèòå âíèìàíèå íà çàêîí î íàçíà÷åíèè åïèñêîïîâ - èíâåñòèòóðó. Îíà ìîæåò áûòü ïàïñêîé - åïèñêîïîâ âûáèðàåò Ïàïà, èëè ñâîáîäíîé - âûáèðàåò ïðàâèòåëü. Âî âòîðîì ñëó÷àå Ïàïà áóäåò íåäîâîëåí. Òåïåðü ïîãîâîðèì î êðåñòîâûõ ïîõîäàõ.;;x
+tut_8b_7;Crusades;;;;;;;;;;;Êðåñòîíîñöû;;x
+tut_8b_8;What instigates a Crusade is that the Pope appoints an area that needs to be conquered in the name of the Catholic church. For him to be able to do that, it must currently be held by Muslims or Pagans. When he does this, a special Crusade war will begin which you are able to join by going to the Pope's diplomatic interactions and choosing 'Offer to Join War'.;;;;;;;;;;;"Ïàïà ìîæåò îáúÿâèòü êðåñòîâûé ïîõîä íà çåìëþ, êîòîðóþ ñëåäóåò çàõâàòèòü âî èìÿ êàòîëè÷åñêîé öåðêâè. Äëÿ ýòîãî îíà äîëæíà êîíòðîëèðîâàòüñÿ ìóñóëüìàíàìè èëè ÿçû÷íèêàìè. Ýòà çåìëÿ ïðèâëåêàåò àðìèè êðåñòîíîñöåâ. Êàòîëè÷åñêèå ñòðàíû ïîëó÷àþò ïîâîä äëÿ âîéíû ñ ñàìûì âûñîêèì â èåðàðõèè ñþçåðåíîì, âëàäåþùèì åþ. Ïðèñîåäèíèòüñÿ ê ïîõîäó, Âû ìîæåòå ÷åðåç ìåíþ äèïëîìàòèè ñ Ïàïîé, âûáðàâ ""Ïðèñîåäèíèòüñÿ ê âîéíå"".";;x
+tut_8b_9;If a Crusade is successful, the ruler who had the biggest impact (highest participation score) on the Catholic side of the war will be considered to have won the Crusade.;;;;;;;;;;;Åñëè êðåñòîâûé ïîõîä óâåí÷àëñÿ óñïåõîì, ïðàâèòåëü, âí¸ñøèé íàèáîëüøèé âêëàä (íàáðàâøèé íàèáîëüøåå êîëè÷åñòâî î÷êîâ) íà ñòîðîíå êàòîëè÷åñêîé öåðêâè, áóäåò îáúÿâëåí â í¸ì ïîáåäèòåëåì.;;x
+tut_8b_10;Should you choose to join the Crusade and manage to be the one that wins the Crusade, you will be given all the land held by the enemy in the Crusade area. You will also get piety and prestige, as well as a Crusader trait.;;;;;;;;;;;"Âû ìîæåòå ïðèñîåäèíèòüñÿ ê êðåñòîâîìó ïîõîäó è óïðàâëÿòü çàõâà÷åííûìè çåìëÿìè. Ñêîðåå âñåãî, Âû ïîëó÷èòå çà ýòî áîëüøóþ íàãðàäó, íàïðèìåð, â âèäå î÷êîâ áëàãî÷åñòèÿ è ïðåñòèæà. Ïîñëå êðåñòîâîãî ïîõîäà Âû ïðîäîëæèòå óïðàâëÿòü çàõâà÷åííûìè çåìëÿìè, à òàêæå ïðèîáðåòåòå ÷åðòó õàðàêòåðà ""Êðåñòîíîñåö"".";;x
+tut_8b_11;Should you join the Crusade but one of the other Catholics wins it, you will not get any land but you will still get piety and prestige, as well as the Crusader trait. Click next to end this part.;;;;;;;;;;;"Åñëè Âû ïðèñîåäèíèòåñü ê êðåñòîâîìó ïîõîäó, íî ïîáåäèòåëåì â í¸ì âûéäåò äðóãîé êàòîëèê, Âû íå ïîëó÷èòå íîâûõ çåìåëü, íî ïî-ïðåæíåìó ïðèîáðåò¸òå áëàãî÷åñòèå è ïðåñòèæ, à òàêæå ÷åðòó ""Êðåñòîíîñåö"". Íàæìèòå ""Äàëåå"", ÷òîáû çàâåðøèòü ãëàâó.";;x
+tut_8c_1;Religion - Advanced Level;;;;;;;;;;;Ðåëèãèÿ. Ïðîäâèíóòûé óðîâåíü;;x
+tut_8c_2;If you happen to be an independent ruler and have had a really bad fallout with the pope, you can appoint an antipope. This antipope can then be used to go to war with the current pope, and if you win, you can replace the pope with your antipope. Click the religion tab to continue.;;;;;;;;;;;Åñëè Âû ÿâëÿåòåñü íåçàâèñèìûì ïðàâèòåëåì è Âàøè îòíîøåíèÿ ñ Ïàïîé õóæå íåêóäà, Âû ìîæåòå íàçíà÷èòü Àíòèïàïó. Îí ìîæåò áûòü èñïîëüçîâàí äëÿ îáúÿâëåíèÿ âîéíû íàñòîÿùåìó Ïàïå, êîòîðûé â ñëó÷àå ïîáåäû ñìåíèò äåéñòâóþùåãî Ïàïó. Îòêðîéòå îêíî ðåëèãèè.;;x
+tut_8c_3;Antipope;;;;;;;;;;;Àíòèïàïà;;x
+tut_8c_4;What you need to create an antipope is: free investiture and a bishop that likes you more than the pope. As you can see here, you have a bishop. Unfortunately, he does not like you very much. Had he done that though, we could have clicked the little button to the right and made him an antipope. ;;;;;;;;;;;Äëÿ íàçíà÷åíèÿ Âàì íåîáõîäèìû ñâîáîäíàÿ èíâåñòèòóðà è åïèñêîï, ÷ü¸ îòíîøåíèå ê Âàì ëó÷øå, ÷åì îòíîøåíèå ê Ïàïå. Èìåííî îí â ïîñëåäñòâèè ñòàíåò Àíòèïàïîé. Ó Âàñ óæå åñòü åïèñêîï. Íî, ê ñîæàëåíèþ, îí íå î÷åíü-òî Âàñ æàëóåò. ×òîáû íàçíà÷èòü Àíòèïàïó, íàæìèòå ñîîòâåòñòâóþùóþ êíîïêó.;;x
+tut_8c_5;Once you have your very own antipope, people who like your antipope more than the pope will pay taxes to you instead, you can circumvent excommunications and you can go to war against the pope in your antipopes place. Click next to end this part.;;;;;;;;;;;Ïîñëå òîãî, êàê Âû íàçíà÷èòå Àíòèïàïó, âàññàëû-åïèñêîïû, îòíîñÿùèåñÿ ê íåìó ëó÷øå, ÷åì ê Ïàïå, áóäóò ïëàòèòü öåðêîâíûå íàëîãè â Âàøó êàçíó, à Âàì áîëüøå íå ïðèä¸òñÿ îïàñàòüñÿ îòëó÷åíèÿ îò Öåðêâè. Êðîìå òîãî, Âû ñìîæåòå íà÷àòü âîéíó ñ äåéñòâóþùèì Ïàïîé çà Ñâÿòîé Ïðåñòîë.;;x
+tut_9b_1;The Feudal System - Basic and Intermediate Level;;;;;;;;;;;Ôåîäàëüíàÿ ñèñòåìà. Ïîäãîòîâèòåëüíûé êóðñ;;x
+tut_9b_2;The hierarchy in Crusader Kings is strict, and those down the chain of authority provide troops and taxes to the ones above them, regulated by laws. Click next to continue.;;;;;;;;;;;Â èãðå ñóùåñòâóåò ñòðîãàÿ èåðàðõèÿ: òîò, êòî íàõîäèòñÿ âíèçó, ïðåäîñòàâëÿåò âîèíîâ è ïëàòèò íàëîãè òîìó, êòî íàõîäèòñÿ ââåðõó. Ïåðåéäèòå ê ñëåäóþùåé ãëàâå, ÷òîáû ïðîäîëæèòü.;;x
+tut_9b_3;Hierarchy;;;;;;;;;;;Èåðàðõèÿ;;x
+tut_9b_4;The hierarchy is divided in three sets: city, temple or castle. If your capital is city based, you are a burgher. If your capital is temple based, you are a prince-bishop. If your capital is castle based, you are a feudal lord. This matters in the laws screen, where you have two laws for each kind of ruler. More details on all ranks are available in the manual. The playable ranks are: Count/Countess -> Duke/Duchess -> King/Queen -> Emperor/Empress. Click the laws tab to continue.;;;;;;;;;;;Èåðàðõèÿ ñòîèò íà òð¸õ ñòîëïàõ: ãîðîä, çàìîê è õðàì. Åñëè Âàøà ñòîëèöà - ãîðîä, òî Âû - ïðåäñòàâèòåëü ãîðîäñêîé çíàòè, áþðãåð. Åñëè Âàøåé ðåçèäåíöèåé ÿâëÿåòñÿ õðàì, Âû - åïèñêîï. Åñëè Âû ïðàâèòå èç çàìêà, Âû - ôåîäàë. Ýòî îòîáðàæàåòñÿ â îêíå çàêîíîâ. Äëÿ èãðû äîñòóïíû ñëåäóþùèå ðàíãè â ïîðÿäêå âîçðàñòàíèÿ: ãðàô (ãðàôèíÿ), ãåðöîã (ãåðöîãèíÿ), êîðîëü (êîðîëåâà), èìïåðàòîð (èìïåðàòðèöà). ×òîáû  óçíàòü ïîäðîáíåå î ðàíãàõ, ÷èòàéòå Ðóêîâîäñòâî ê èãðå. Òåïåðü îòêðîéòå îêíî Çàêîíîâ.;;x
+tut_9b_5;Laws;;;;;;;;;;;Çàêîíû;;x
+tut_9b_6;In the Realm and Obligations tabs you will find laws affecting not only yourself but also how much levies and taxes your vassals provide. You will be able to customize your Realm according to your preference. Click next to end this part.;;;;;;;;;;;"Âêëàäêè Ñòðàíà è Îáÿçàòåëüñòâà ñîäåðæàò çàêîíû, âëèÿþùèå íå òîëüêî íà Âàñ, íî è íà Âàøèõ âàññàëîâ - íàëîãè è îïîë÷åíèå, êîòîðûå îíè Âàì ïðåäîñòàâëÿþò. Âû ìîæåòå âëèÿòü íà óñòðîéñòâî ãîñóäàðñòâà ñîãëàñíî Âàøèì ïðåäïî÷òåíèÿì. Íàæìèòå ""Ñëåäóþùàÿ ãëàâà"", ÷òîáû ïðîäîëæèòü.";;x
+tut_9c_1;The Feudal System - Advanced Level;;;;;;;;;;;Ôåîäàëüíàÿ ñèñòåìà. Çàâåðøàþùèé êóðñ;;x
+tut_9c_2;The changes from the previous game are two new hierarchy levels and crown laws. Click next to continue;;;;;;;;;;;Íîâèíêè ýòîé âåðñèè èãðû âêëþ÷àþò äâà íîâûõ óðîâíÿ Èåðàðõèè è çàêîíû Êîðîíû.;;x
+tut_9c_3;The Hierarchy;;;;;;;;;;;Óðîâíè èåðàðõèè;;x
+tut_9c_4;The two new hierarchy levels are emperor/empress and baron/baroness. The emperor sits in the absolute top above kings, and this is a playable character. The barons on the other hand are towards the lower end of the scale. They are beneath counts, and they are not playable. Lets move on to the crown laws. Click the laws tab to continue.;;;;;;;;;;;Äâóìÿ íîâûìè óðîâíÿìè ÿâëÿþòñÿ òèòóëû èìïåðàòîðà (èìïåðàòðèöû) è áàðîíà (áàðîíåññû). Èìïåðàòîð ðàñïîëàãàåòñÿ âûøå óðîâíÿ êîðîëåé, òî åñòü ýòî ñàìûé âûñîêèé ðàíã, äîñòóïíûé äëÿ èãðû. Áàðîíû, íàïðîòèâ, íàõîäÿòñÿ â ñàìîì íèçó. Îòêðîéòå îêíî Çàêîíîâ.;;x
+tut_9c_5;Crown Laws;;;;;;;;;;;Çàêîíû êîðîíû;;x
+tut_9c_6;In the Realm tab you see the laws that are not related to Succession. On the top you have the laws marked with a crown, which means they are crown laws. They concern how much freedom a king or emperor has. Your vassals will be hard to convince, but if they like you enough and you have high prestige, they will pose but a minor problem.;;;;;;;;;;;Âî âêëàäêå Ñòðàíà ïåðå÷èñëåíû çàêîíû, íå ñâÿçàííûå ñ âîïðîñàìè íàñëåäîâàíèÿ. Âûøå - çàêîíû Êîðîíû, ïîìå÷åííûå ñîîòâåòñòâóþùåé èêîíêîé. Îíè êàñàþòñÿ âîïðîñîâ âëàñòè êîðîëÿ èëè èìïåðàòîðà. Âàññàëîâ áóäåò ñëîæíî óáåäèòü ïîääåðæàòü Âàøè çàêîíîäàòåëüíûå ðåøåíèÿ. Íî, åñëè èõ ìíåíèå î Âàñ è Âàø ïðåñòèæ äîñòàòî÷íî âûñîêè, ýòî íå äîñòàâèò ïðîáëåì.;;x
+tut_9c_7;The other crown law is investiture. It can be either you or the pope that appoints bishops. Either choice will have some side-effects as well, so be sure to check the tooltip before you change. Click next to end this last part of the tutorial.;;;;;;;;;;;Åù¸ îäèí çàêîí Êîðîíû - çàêîí î íàçíà÷åíèè åïèñêîïîâ (èíâåñòèòóðà). Íàçíà÷àòü èõ ìîæåòå Âû èëè Ïàïà. Îáà âàðèàíòà èìåþò îïðåäåë¸ííûå ïëþñû è ìèíóñû, ó÷òèòå èõ ïðè âûáîðå.;;x
+tut_menu_0;The Feudal System;;;;;;;;;;;Ôåîäàëüíàÿ ñèñòåìà;;x
+tut_menu_0_description;Learn about the hierarchy of titles;;;;;;;;;;;Èçó÷èòå èåðàðõèþ òèòóëîâ;;x
+tut_menu_1;The Economy;;;;;;;;;;;Ýêîíîìèêà;;x
+tut_menu_1_description;Learn about counties, landed holding and taxation;;;;;;;;;;;Ãëàâà î ãðàôñòâàõ, àðåíäå çåìëè è íàëîãîîáëîæåíèè;;x
+tut_menu_2;The Council;;;;;;;;;;;Ñîâåò;;x
+tut_menu_2_description;Learn about the councillors and their jobs;;;;;;;;;;;Ãëàâà î ÷ëåíàõ ñîâåòà è èõ îáÿçàííîñòÿõ;;x
+tut_menu_3;Succession;;;;;;;;;;;Íàñëåäîâàíèå;;x
+tut_menu_3_description;Learn about inheritance, laws and dynasties;;;;;;;;;;;Ãëàâà î íàñëåäîâàíèè, çàêîíàõ è äèíàñòèÿõ;;x
+tut_menu_4;Diplomacy;;;;;;;;;;;Äèïëîìàòèÿ;;x
+tut_menu_4_description;Character opinions, traits, marriages alliances;;;;;;;;;;;Ìíåíèÿ ïåðñîíàæåé, ÷åðòû õàðàêòåðà, áðà÷íûå ñîþçû;;x
+tut_menu_5;Military and Combat;;;;;;;;;;;Âîéñêà è áîåâûå äåéñòâèÿ.;;x
+tut_menu_5_description;Learn about units, levies, mercenaries, battles and sieges;;;;;;;;;;;Ýòîò óðîê ïîçíàêîìèò Âàñ ñ îñíîâàìè âåäåíèÿ âîéíû.;;x
+tut_menu_6;War;;;;;;;;;;;Âîéíà;;x
+tut_menu_6_description;Learn about claims, casus bellis, peace outcomes and war score;;;;;;;;;;;Óçíàéòå î ïðåòåíçèÿõ, ïîâîäàõ äëÿ âîéíû, î òîì, êàê çàêëþ÷àòü ìèð è î âîåííîì ñ÷¸òå.;;x
+tut_menu_7;Plots and Intrigue;;;;;;;;;;;Çàãîâîðû è èíòðèãè;;x
+tut_menu_7_description;Learn about ambitions, plots, revolts and the intrigue view;;;;;;;;;;;Ãëàâà î òùåñëàâèè, ÷åñòîëþáèè, çàãîâîðàõ, èíòðèãàõ è áóíòàõ;;x
+tut_menu_8;Religion;;;;;;;;;;;Ðåëèãèè;;x
+tut_menu_8_description;Learn about papal abilities, crusades, holy orders, investiture and antipopes;;;;;;;;;;;Ãëàâà î ïàïñêîì âëèÿíèè, êðåñòîíîñöàõ, âîéñêå õðèñòîâîì, ïîæàëîâàíèè â äîëæíîñòü è àíòèïàïàõ;;x
+tut_menu_9;Introduction;;;;;;;;;;;Ïðåäèñëîâèå;;x
+tut_menu_9_description;This tutorial will introduce you to the most basic parts of what Crusader Kings II is and how you play it.;;;;;;;;;;;Ýòîò óðîê ïîçíàêîìèò Âàñ ñ îñíîâíûìè ìîìåíòàìè èãðû Crusader Kings II.;;x
+tutorial_chapter_budget_intm;End of the Intermediary Budget Tutorial;;;;;;;;;;;Çàêîí÷èòü ñðåäíèé óðîâåíü áþäæåòíîãî îáó÷åíèÿ;;x
+tutorial_chapter_council_basic;End of the basic council tutorial;;;;;;;;;;;Çàêîí÷èòü îáó÷åíèå îñíîâàì ðàáîòû ñîâåòà;;x
+tutorial_chapter_council_intm;End of the intermediary council tutorial;;;;;;;;;;;Çàêîí÷èòü óãëóáë¸ííîå èçó÷åíèå ðàáîòû ñîâåòà;;x
+tutorial_chapter_diplomacy_basic;End of the basic diplomacy tutorial;;;;;;;;;;;Çàêîí÷èòü îáó÷åíèå îñíîâàì äèïëîìàòèè;;x
+tutorial_chapter_diplomacy_intm;End of the intermediary diplomacy tutorial;;;;;;;;;;;Çàêîí÷èòü óãëóáë¸ííîå èçó÷åíèå äèïëîìàòèè;;x
+tutorial_chapter_economy_basic;End of the basic economy tutorial;;;;;;;;;;;Çàêîí÷èòü îáó÷åíèå îñíîâàì ýêîíîìèêè;;x
+tutorial_chapter_economy_intm;End of the intermediary economy tutorial;;;;;;;;;;;Çàêîí÷èòü óãëóáë¸ííîå èçó÷åíèå ýêîíîìèêè;;x
+tutorial_chapter_end;Choose how you wish to proceed.;;;;;;;;;;;Âûáåðåòå, ÷òî Âû õîòèòå èçó÷èòü;;x
+tutorial_chapter_feudal_intm;End of the intermediary feudal system tutorial;;;;;;;;;;;Çàêîí÷èòü îáó÷åíèå îñíîâàì ôåîäàëüíîé ñèñòåìû;;x
+tutorial_chapter_introduction;End of Introduction.;;;;;;;;;;;Çàêîí÷èòü îáó÷åíèå.;;x
+tutorial_chapter_military_basic;End of the basic military tutorial.;;;;;;;;;;;Çàêîí÷èòü íà÷àëüíîå âîåííîå îáó÷åíèå;;x
+tutorial_chapter_military_intm;End of the intermediary military tutorial.;;;;;;;;;;;Çàêîí÷èòü óãëóáë¸ííûé âîåííûé êóðñ;;x
+tutorial_chapter_plots_basic;End of the basic plots and intrigue tutorial;;;;;;;;;;;Çàêîí÷èòü îáó÷åíèå îñíîâàì çàãîâîðîâ è èíòðèã;;x
+tutorial_chapter_plots_intm;End of the intermediary plots and intrigue tutorial;;;;;;;;;;;Çàêîí÷èòü óãëóáë¸ííîå èçó÷åíèå çàãîâîðîâ è èíòðèã;;x
+tutorial_chapter_religion_basic;End of the basic religion tutorial;;;;;;;;;;;Çàêîí÷èòü îáó÷åíèå îñíîâàì ñèñòåìû ðåëèãèè;;x
+tutorial_chapter_religion_intm;End of the intermediary religion tutorial;;;;;;;;;;;Çàêîí÷èòü óãëóáë¸ííîå èçó÷åíèå ñèñòåìû ðåëèãèè;;x
+tutorial_chapter_succession_basic;End of the basic succession tutorial;;;;;;;;;;;Çàêîí÷èòü îáó÷åíèå îñíîâàì íàñëåäîâàíèÿ;;x
+tutorial_chapter_succession_intm;End of the intermediary succession tutorial;;;;;;;;;;;Çàêîí÷èòü óãëóáë¸ííîå èçó÷åíèå íàñëåäîâàíèÿ;;x
+tutorial_chapter_war_basic;End of the basic war tutorial;;;;;;;;;;;Çàêîí÷èòü îáó÷åíèå îñíîâàì âåäåíèÿ âîéíû;;x
+tutorial_chapter_war_intm;End of the intermediary war tutorial;;;;;;;;;;;Çàêîí÷èòü óãëóáë¸ííîå èçó÷åíèå âåäåíèÿ âîéíû;;x
+tutorial_continue_advanced;Advanced $TYPE$;;;;;;;;;;;Ïðîäâèíóòûé óðîâåíü: $TYPE$;;x
+tutorial_continue_basic;Basic $TYPE$;;;;;;;;;;;Îñíîâû: $TYPE$;;x
+tutorial_continue_end;Return to Menu;;;;;;;;;;;Âåðíóòüñÿ â ìåíþ;;x
+tutorial_continue_intermediary;Intermediary $TYPE$;;;;;;;;;;;Ñðåäíèé êóðñ: $TYPE$;;x
+tutorial_end_of_chapter;End of Tutorial Chapter;;;;;;;;;;;Çàêîí÷èòü äàííóþ ãëàâó îáó÷åíèÿ;;x

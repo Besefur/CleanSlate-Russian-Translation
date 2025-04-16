@@ -1,49 +1,49 @@
-ukon_juhla_begins;You watch as the dancing flames rise towards the sky.;;;;;;;;;;;;;x
-uzgavenes_begins;It looks like spring shall come this year.;;;;;;;;;;;;;x
-varangians_organized;The Varangian Guard is formed.;;;;;;;;;;;;;x
-runestone_carved;The craftsmen start the process of carving and painting the runestone.;;;;;;;;;;;;;x
-runestone_traits;You will raise a runestone in honor of your own person.;;;;;;;;;;;;;x
-seraphims;You have the chest buried and vow never to speak a word of it to another soul.;;;;;;;;;;;;;x
-preacher_allowed;You allow the preacher to continue his missionary work.;;;;;;;;;;;;;x
-preacher_banished;You banish the preacher from your lands.;;;;;;;;;;;;;x
-preacher_convert;You and your closest family convert to the new faith, and a new religious advisor appears at your court.;;;;;;;;;;;;;x
-preacher_imprisoned;You throw the preacher into your dungeons.;;;;;;;;;;;;;x
-prepare_blot;You begin preparations for the blot.\n;;;;;;;;;;;;;x
-prepare_jarilo;You begin preparations for the Jarilo festival.\n;;;;;;;;;;;;;x
-prepare_nerge;Preparations for the Great Hunt begin.\n;;;;;;;;;;;;;x
-prepare_ukon_juhla;You begin preparations for the Ukon juhla festival.\n;;;;;;;;;;;;;x
-prepare_uzgavenes;You begin preparations for the Užgavenes festival.\n;;;;;;;;;;;;;x
-pet_bear;You keep the bear as a pet.;;;;;;;;;;;;;x
-opens_chest;You hurry to the chest...;;;;;;;;;;;;;x
-nerge_assemble;You make your way to the area where the forces involved in the hunt are assembling.;;;;;;;;;;;;;x
-nerge_starts;The assembled forces begin the encirclement.;;;;;;;;;;;;;x
-no_holmgang;You refrain from issuing the challenge.;;;;;;;;;;;;;x
-no_more_runestones;You will no longer be able to commission runestones.;;;;;;;;;;;;;x
-no_witch;You issue clear instructions not to permit the witch within a stone's throw of your longhouse.;;;;;;;;;;;;;x
-jarilo_deliberations;The deliberations begin.;;;;;;;;;;;;;x
-jomsvikings_founded;The Jomsvikings are founded.;;;;;;;;;;;;;x
-keep_bear;You keep the animal chained for your amusement.;;;;;;;;;;;;;x
-hunt_animals;You ready your bow and move in towards the trapped animals.;;;;;;;;;;;;;x
-holmgang_chances_even;You seem evenly matched.;;;;;;;;;;;;;x
-holmgang_chances_good;Your chances of winning are good.;;;;;;;;;;;;;x
-holmgang_chances_great;Your chances of winning are great.;;;;;;;;;;;;;x
-holmgang_chances_poor;Your chances of winning are poor.;;;;;;;;;;;;;x
-holmgang_chances_terrible;Your chances of winning are awful.;;;;;;;;;;;;;x
-holmgang_chances_very_good;Your chances of winning are very good.;;;;;;;;;;;;;x
-holmgang_chances_very_poor;Your chances of winning are very poor.;;;;;;;;;;;;;x
-holmgang_prepare;You prepare yourself for the upcoming holmgang.;;;;;;;;;;;;;x
-feast_begins;Vassal opinion increases by §G+15§! for §Y12§! months.\nYou move inside the large feast hall...;;;;;;;;;;;;;x
-found_chest;You stow the chest safely away for now.;;;;;;;;;;;;;x
-exorcism_approved;You approve the exorcism.;;;;;;;;;;;;;x
-exorcism_begins;You pace back and forth.;;;;;;;;;;;;;x
-exorcism_denied;You refuse the exorcism.;;;;;;;;;;;;;x
-dead_bear;The bear is taken outside and shot.;;;;;;;;;;;;;x
-chest_empty;You walk away disappointed.;;;;;;;;;;;;;x
-child_acts_strange;[demon_child.GetFirstName]'s behavior concerns you sometimes.;;;;;;;;;;;;;x
-away_witch;Your men haul the woman outside and throw her into a nearby pile of refuse.;;;;;;;;;;;;;x
-bear_passes_away;You mourn the loss of your bear companion.;;;;;;;;;;;;;x
-bear_released;You order your men to release the bear back into the wild.;;;;;;;;;;;;;x
-begone_witch;You send the wretched creature away.;;;;;;;;;;;;;x
-blot_begins;The hangman readies his rope.;;;;;;;;;;;;;x
-pick_main_deity_timer_tooltip;Has not picked a patron deity for 10 years.\n;;;;;;;;;;;;;x
-pick_main_deity_tooltip;§Y[Root.GetTitledFirstName]§! gets to pick a new patron deity to worship.;;;;;;;;;;;;;x
+ukon_juhla_begins;You watch as the dancing flames rise towards the sky.;;;;;;;;;;;Âû ñìîòðèòå, êàê òàíöóþùåå ïëàìÿ ïîäíèìàåòñÿ ê íåáó.;;x
+uzgavenes_begins;It looks like spring shall come this year.;;;;;;;;;;;Ïîõîæå, âåñíà ïðèäåò è â ýòîì ãîäó.;;x
+varangians_organized;The Varangian Guard is formed.;;;;;;;;;;;Âàðÿæñêàÿ ãâàðäèÿ ñôîðìèðîâàíà.;;x
+runestone_carved;The craftsmen start the process of carving and painting the runestone.;;;;;;;;;;;Ìàñòåðà ïðèñòóïèëè ê ðåçüáå è ðîñïèñè Ðóííîãî Êàìíÿ;;x
+runestone_traits;You will raise a runestone in honor of your own person.;;;;;;;;;;;Âû âîçäâèãíèòå Ðóííûé Êàìåíü â ñâîþ ÷åñòü;;x
+seraphims;You have the chest buried and vow never to speak a word of it to another soul.;;;;;;;;;;;Âû çàêàïûâàåòå ñóíäóê è íèêîãäà íå áîëüøå íå ðàññêàæåòå î í¸ì íè îäíîé æèâîé äóøå.;;x
+preacher_allowed;You allow the preacher to continue his missionary work.;;;;;;;;;;;Ðàçðåøèòü ïðîïîâåäíèêó ïðîäîëæèòü ìèññèîíåðñêóþ äåÿòåëüíîñòü.;;x
+preacher_banished;You banish the preacher from your lands.;;;;;;;;;;;Èçãíàòü ïðîïîâåäíèêà èç ñâîèõ çåìåëü.;;x
+preacher_convert;You and your closest family convert to the new faith, and a new religious advisor appears at your court.;;;;;;;;;;;Âû è Âàøè áëèæàéøèå ðîäñòâåííèêè ïåðåéä¸òå â íîâóþ âåðó, è ñðåäè Âàøèõ ïðèäâîðíûõ ïîÿâèòñÿ íîâûé ðåëèãèîçíûé ñîâåòíèê.;;x
+preacher_imprisoned;You throw the preacher into your dungeons.;;;;;;;;;;;Áðîñèòü ïðîïîâåäíèêà â òåìíèöó.;;x
+prepare_blot;You begin preparations for the blot.\n;;;;;;;;;;;Âû íà÷èíàåòå ïîäãîòîâêó ê Áëîòó\n;;x
+prepare_jarilo;You begin preparations for the Jarilo festival.\n;;;;;;;;;;;Âû íà÷èíàåòå ïðèãîòîâëåíèÿ ê ïðàçäíîâàíèþ ßðèëî.\n;;x
+prepare_nerge;Preparations for the Great Hunt begin.\n;;;;;;;;;;;Ïîäãîòîâêà ê Áîëüøîé Îõîòå íà÷àëàñü.\n;;x
+prepare_ukon_juhla;You begin preparations for the Ukon juhla festival.\n;;;;;;;;;;;Âû íà÷èíàåòå ïîäãîòîâêó ê ïðàçäíèêó Óêîí Þëà.\n;;x
+prepare_uzgavenes;You begin preparations for the Užgavenes festival.\n;;;;;;;;;;;Âû íà÷èíàåòå ïîäãîòîâêó ê ïðàçäíèêó Óãàâåíñ.\n;;x
+pet_bear;You keep the bear as a pet.;;;;;;;;;;;Âû îñòàâëÿåòå ìåäâåæîíêà â êà÷åñòâå ñâîåãî ïèòîìöà.;;x
+opens_chest;You hurry to the chest...;;;;;;;;;;;Âû ñïåøèòå ê ñóíäóêó…;;x
+nerge_assemble;You make your way to the area where the forces involved in the hunt are assembling.;;;;;;;;;;;Âû âûäâèãàåòåñü â ðàéîí, ãäå ñîáèðàþòñÿ âîéñêà ó÷àñòâóþùèå â îõîòå.;;x
+nerge_starts;The assembled forces begin the encirclement.;;;;;;;;;;;Ñîáðàííûå âîéñêà íà÷èíàþò îêðóæåíèå.;;x
+no_holmgang;You refrain from issuing the challenge.;;;;;;;;;;;Âû âîçäåðæàëèñü îò ïðèíÿòèÿ âûçîâà.;;x
+no_more_runestones;You will no longer be able to commission runestones.;;;;;;;;;;;Âû áîëüøå íå ìîæåòå çàêàçûâàòü ñòðîèòåëüñòâî Ðóííûõ Êàìíåé.;;x
+no_witch;You issue clear instructions not to permit the witch within a stone's throw of your longhouse.;;;;;;;;;;;Âû äà¸òå ÷¸òêèå ïðèêàçû: íå äîïóñêàòü âåäüì â Âàøè âëàäåíèÿ.;;x
+jarilo_deliberations;The deliberations begin.;;;;;;;;;;;Íà÷àòü ïðèãîòîâëåíèÿ.;;x
+jomsvikings_founded;The Jomsvikings are founded.;;;;;;;;;;;Îñíîâàíî áðàòñòâî éîìñâèêèíãîâ.;;x
+keep_bear;You keep the animal chained for your amusement.;;;;;;;;;;;Ðàäè ñâîåé çàáàâû Âû ñàæàåòå æèâîòíîå íà öåïü.;;x
+hunt_animals;You ready your bow and move in towards the trapped animals.;;;;;;;;;;;Âû äåðæèòå íàãîòîâå ñâîé ëóê è íàïðàâëÿåòåñü â ñòîðîíó çàãíàííûõ æèâîòíûõ.;;x
+holmgang_chances_even;You seem evenly matched.;;;;;;;;;;;Øàíñû ðàâíû.;;x
+holmgang_chances_good;Your chances of winning are good.;;;;;;;;;;;Ó Âàñ õîðîøèå øàíñû íà ïîáåäó.;;x
+holmgang_chances_great;Your chances of winning are great.;;;;;;;;;;;Ó Âàñ îòëè÷íûå øàíñû íà ïîáåäó.;;x
+holmgang_chances_poor;Your chances of winning are poor.;;;;;;;;;;;Ó Âàñ ñëàáûå øàíñû íà ïîáåäó.;;x
+holmgang_chances_terrible;Your chances of winning are awful.;;;;;;;;;;;Ó Âàñ óæàñíûå øàíñû íà ïîáåäó.;;x
+holmgang_chances_very_good;Your chances of winning are very good.;;;;;;;;;;;Ó Âàñ î÷åíü õîðîøèå øàíñû íà ïîáåäó.;;x
+holmgang_chances_very_poor;Your chances of winning are very poor.;;;;;;;;;;;Ó Âàñ î÷åíü ñëàáûå øàíñû íà ïîáåäó.;;x
+holmgang_prepare;You prepare yourself for the upcoming holmgang.;;;;;;;;;;;Âû íà÷èíàåòå ãîòîâèòü ñåáÿ ê ïðåäñòîÿùåìó õîëüìãàíãó.;;x
+feast_begins;Vassal opinion increases by §G+15§! for §Y12§! months.\nYou move inside the large feast hall...;;;;;;;;;;;Ìíåíèå âàññàëîâ: §G+15§! íà §Y12§! ìåñÿöåâ.\nÂû âõîäèòå â áîëüøîé çàë ïèðà.;;x
+found_chest;You stow the chest safely away for now.;;;;;;;;;;;Âû ïîêà ÷òî îòñòàâëÿåòå ñóíäóê íà áåçîïàñíîå ðàññòîÿíèå.;;x
+exorcism_approved;You approve the exorcism.;;;;;;;;;;;Âû îäîáðÿåòå ýêçîðöèçì.;;x
+exorcism_begins;You pace back and forth.;;;;;;;;;;;Âû íå ìîæåòå ðåøèòüñÿ.;;x
+exorcism_denied;You refuse the exorcism.;;;;;;;;;;;Âû íå îäîáðÿåòå ýêçîðöèçì.;;x
+dead_bear;The bear is taken outside and shot.;;;;;;;;;;;Ìåäâåæîíêà âûíîñÿò íàðóæó è óáèâàþò.;;x
+chest_empty;You walk away disappointed.;;;;;;;;;;;Âû ðàçî÷àðîâàííî óõîäèòå.;;x
+child_acts_strange;[demon_child.GetFirstName]'s behavior concerns you sometimes.;;;;;;;;;;;[From.GetFirstName] ñòðàííî âåä¸ò ñåáÿ.;;x
+away_witch;Your men haul the woman outside and throw her into a nearby pile of refuse.;;;;;;;;;;;Âàøè ëþäè âûòàùàò æåíùèíó íà óëèöó è áðîñÿò å¸ â áëèæàéøóþ êó÷ó ìóñîðà.;;x
+bear_passes_away;You mourn the loss of your bear companion.;;;;;;;;;;;Âû ñêîðáèòå íàä ïîòåðåé ñâîåãî ëþáèìöà.;;x
+bear_released;You order your men to release the bear back into the wild.;;;;;;;;;;;Âû ïðèêàçûâàåòå ñâîèì ëþäÿì âûïóñòèòü ìåäâåäÿ íàçàä íà âîëþ.;;x
+begone_witch;You send the wretched creature away.;;;;;;;;;;;Âû âûãîíÿåòå æàëêîå ñóùåñòâî ïðî÷ü.;;x
+blot_begins;The hangman readies his rope.;;;;;;;;;;;Ïàëà÷ ãîòîâèò åãî âåð¸âêó.;;x
+pick_main_deity_timer_tooltip;Has not picked a patron deity for 10 years.\n;;;;;;;;;;;Óáåäèòåñü, ÷òî â ïîñëåäíèå 10 ëåò âûáîð áîæåñòâà-ïîêðîâèòåëÿ ÍÅ îñóùåñòâëÿëñÿ.\n;;x
+pick_main_deity_tooltip;§Y[Root.GetTitledFirstName]§! gets to pick a new patron deity to worship.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! âûáåðåò íîâîå áîæåñòâî â êà÷åñòâå ñâîåãî ïîêðîâèòåëÿ.;;x

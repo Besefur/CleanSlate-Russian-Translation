@@ -1,171 +1,164 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTNAME60000;The Khan of Khans;;;;;;;;;;;;;x
-EVTNAME60001;The Scourge Arrives;;;;;;;;;;;;;x
-EVTNAME60002;The Golden Horde;;;;;;;;;;;;;x
-EVTNAME60003;The Iron Khan;;;;;;;;;;;;;x
-EVTNAME60010;The Ilkhanate Converts;;;;;;;;;;;;;x
-EVTNAME60020;The Golden Horde Converts;;;;;;;;;;;;;x
-EVTNAME60100;The Mongols sack Kiev!;;;;;;;;;;;;;x
-EVTNAME60101;The Mongols sack Novgorod!;;;;;;;;;;;;;x
-EVTNAME60102;The Mongols sack Krakow!;;;;;;;;;;;;;x
-EVTNAME60103;The Mongols sack Aachen!;;;;;;;;;;;;;x
-EVTNAME60104;The Mongols sack Paris!;;;;;;;;;;;;;x
-EVTNAME60105;The Mongols sack London!;;;;;;;;;;;;;x
-EVTNAME60106;The Mongols sack Rome!;;;;;;;;;;;;;x
-EVTNAME60107;The Mongols sack Venice!;;;;;;;;;;;;;x
-EVTNAME60108;The Mongols sack Constantinople!;;;;;;;;;;;;;x
-EVTNAME60109;The Mongols sack Lisbon!;;;;;;;;;;;;;x
-EVTNAME60110;The Mongols sack Smolensk!;;;;;;;;;;;;;x
-EVTNAME60111;The Mongols sack Prague!;;;;;;;;;;;;;x
-EVTNAME60112;The Mongols sack Vienna!;;;;;;;;;;;;;x
-EVTNAME60113;The Mongols sack Esztergom!;;;;;;;;;;;;;x
-EVTNAME60114;The Mongols sack Athens!;;;;;;;;;;;;;x
-EVTNAME60115;The Mongols sack Belgrade!;;;;;;;;;;;;;x
-EVTNAME60116;The Mongols sack Baghdad!;;;;;;;;;;;;;x
-EVTNAME60117;The Mongols sack Damascus!;;;;;;;;;;;;;x
-EVTNAME60118;The Mongols sack Jerusalem!;;;;;;;;;;;;;x
-EVTNAME60119;The Mongols sack Alexandria!;;;;;;;;;;;;;x
-EVTNAME60120;The Mongols sack Cairo!;;;;;;;;;;;;;x
-EVTNAME60121;The Mongols sack Mecca!;;;;;;;;;;;;;x
-EVTNAME60206;The Great Seljuk;;;;;;;;;;;;;x
-EVTNAME60306;The Iron Khan;;;;;;;;;;;;;x
-EVTNAME60406;Rise of the Ghaznavids;;;;;;;;;;;;;x
-EVTNAME60500;The Mongols;;;;;;;;;;;;;x
-EVTNAME60520;The Mongols;;;;;;;;;;;;;x
-
-EVTDESC60000;My liege, vague rumors of an all-conquering menace have reached us from the far East. It seems that a Great Khan has united all the tribes of the vast steppes, leading millions of fierce horse warriors against the great cities of Cathay. In time, this new Khagan could pose a threat to the civilized world...;;;;;;;;;;;;;x
-EVTDESC60001;My liege, the great Khagan has dispatched a numberless horde of barbarian horsemen against the lands of Central Asia and Eastern Persia. Appearing in Balkh, the heathen armies seem intent on conquering the Muslim world!;;;;;;;;;;;;;x
-EVTDESC60002;My liege, another horde has been sent west by the terrible Khagan of the Mongols. This one - the 'Golden Horde' - has allegedly been ordered to conquer Europe all the way to the Atlantic Ocean!;;;;;;;;;;;;;x
-EVTDESC60003;My liege, the great Khan Timur has gathered many of the horse clans of Central Asia under his banner, intent on creating an empire to rival that of the legendary Genghis Khan himself. His fearsome horde has been sighted in Khiva, poised to overrun the ancient realm of Persia.;;;;;;;;;;;;;x
-EVTDESC60004;The Great Khagan has sent more warriors to aid our conquest!;;;;;;;;;;;;;x
-EVTDESC60010;The great [Root.GetTitledName] and all [Root.GetHerHis] vassals have converted and embraced the [catholic.GetName] faith!;;;;;;;;;;;;;x
-EVTDESC60011;The great [Root.GetTitledName] and all [Root.GetHerHis] vassals have converted and embraced the Orthodox faith!;;;;;;;;;;;;;x
-EVTDESC60012;The great [Root.GetTitledName] and all [Root.GetHerHis] vassals have converted and embraced the Sunni faith!;;;;;;;;;;;;;x
-EVTDESC60013;The great [Root.GetTitledName] and all [Root.GetHerHis] vassals have converted and embraced the Shiite faith!;;;;;;;;;;;;;x
-EVTDESC60014;The great [Root.GetTitledName] and all [Root.GetHerHis] vassals have converted and embraced Nestorian Christianity!;;;;;;;;;;;;;x
-EVTDESC60100;The Mongol scourge has poured through the Golden Gates of Kiev and sacked the once proud trading hub. The city has been left a smoldering ruin and the Dnieper now runs red with the blood of its former inhabitants.;;;;;;;;;;;;;x
-EVTDESC60101;Novgorod has been stormed by the Tartar horde and both the city and its population are now suffering beyond measure. The Cathedral of Saint Sophia is engulfed in flames as the steppe warriors loot that which can be carried away and put the rest to the torch.;;;;;;;;;;;;;x
-EVTDESC60102;The Mongols continue their push beyond the Vistula and into Poland. Krakow has now fallen to the invaders, and it is said that at night the flames from the burning city can be seen from untold leagues away.;;;;;;;;;;;;;x
-EVTDESC60103;Even Aachen, the former seat of Charlemagne's great Carolingian empire, has fallen under the shadow of the Mongol scourge. His spirit must surely be weeping at the atrocities now being committed within the city's walls.;;;;;;;;;;;;;x
-EVTDESC60104;Like a swarm of locusts, the unstoppable Mongols have descended upon Paris and sacked the city. The still unfinished Notre Dame Cathedral is quickly set on fire and with the light provided by the rest of the burning city, the Mongol warriors can continue looting and murdering well into the night.;;;;;;;;;;;;;x
-EVTDESC60105;Not even the sea has proved a formidable enough barrier to halt the Mongol advance. London has fallen to their vanguard and the city is now the scene of a slaughter on a scale unrivaled since the days of Queen Boudica and her rebellion. ;;;;;;;;;;;;;x
-EVTDESC60106;Once more Rome suffers at the cruel hands of eastern barbarians. The Mongols have breached the Aurelian Walls, and their horses are now grazing on the field of the Circus Maximus while they raise their yurts on the Palatine Hill. As expected, no mercy is shown to those Romans who have not yet fled the city.;;;;;;;;;;;;;x
-EVTDESC60107;The canals of Venice have been blocked by the bloated corpses of the dead as the city is sacked by frenzied Mongol warriors. Those few fortunate enough to have escaped the slaughter claim the bodies are packed tightly enough in the Venetian Lagoon for the Mongols to ride to and from the mainland as they please.;;;;;;;;;;;;;x
-EVTDESC60108;The Theodosian Walls have not been enough to spare Constantinople from the vile touch of the Tartar scourge. The great imperial capital has been sacked, its citizens butchered or enslaved, the Hagia Sophia defiled and the Great Palace of the emperors put to the torch.;;;;;;;;;;;;;x
-EVTDESC60109;The Mongols have now reached as far west as Lisbon in their conquests. While the city burns at their touch, the steppe warriors look out over the great blue expanse of the Atlantic. Who can tell where they will turn next?;;;;;;;;;;;;;x
-EVTDESC60110;Smolensk has been swallowed up by the Mongol hordes as they continue their relentless advance to the west. When the great host finally moves on, little remains of the city but ashes and charred rubble, and those lucky few inhabitants who somehow escaped the notice of the rampaging horsemen.;;;;;;;;;;;;;x
-EVTDESC60111;The city of Prague has become a beacon of light in an otherwise dark world, as the Mongol barbarians move from house to house and set fire to everything not yet looted. A flood of refugees spread horrific tales about the cruelty of the bloodthirsty Tartar horsemen to every corner of Europe.;;;;;;;;;;;;;x
-EVTDESC60112;Vienna, a city of growing importance on the Danube river, has become the latest victim of the Mongol hordes as they continue to pillage and burn their way across Europe. The smoking ruins and arrow-riddled corpses they leave behind when they move on do not lend much faith in the city's future prospects.;;;;;;;;;;;;;x
-EVTDESC60113;The Mongols have reached beyond the Carpathians and fanned out across the Great Hungarian Plain. Now the city of Esztergom has fallen to the murderous host and is the scene of indiscriminate slaughter. Those that attempt to flee on foot are cut down without mercy by the fast horsemen as dark, billowing smoke rises towards the sky above the city.;;;;;;;;;;;;;x
-EVTDESC60114;The ancient city of Athens has fallen to the Mongols, and they now rampage unchecked behind its walls. Great monuments and artifacts dating back to the dawn of Western Civilisation are lost forever in a cultural desecration that will surely be felt by future generations thousands of years from now.;;;;;;;;;;;;;x
-EVTDESC60115;The "White City" has turned red as the Mongol invaders seize Belgrade and massacre the inhabitants without exception. After several days of slaughter and looting, the smell of death and rotting flesh proves too much even for the Mongols to bear and they move their camp upwind from the scorched ruins of the city.;;;;;;;;;;;;;x
-EVTDESC60116;The great city of Baghdad, one of the world's foremost centers of learning, has succumbed to the ravenous Mongol hordes after a siege. Nothing can sate their appetite for destruction it seems. The Tigris river runs not only red with blood, but black with the ink of priceless and irreplaceable tomes from the House of Wisdom and the city's other great libraries.;;;;;;;;;;;;;x
-EVTDESC60117;Damascus, the ancient City of Jasmine, has been sacked by the advancing Mongols. They have gathered a colossal pile of severed heads on a field just outside the city walls, now renamed "burj al-ru'us" by the massacre's few survivors - the Tower of Heads.;;;;;;;;;;;;;x
-EVTDESC60118;The Tartar infidels have sacked Jerusalem, spurring a moment of rare solidarity between members of all the city's different religions as they suffer equal horrors under the cruel yoke of the pagans.;;;;;;;;;;;;;x
-EVTDESC60119;Not content with their vast empire surpassing Alexander the Great's in sheer size, the Mongol hordes are now laying waste to the city that is his namesake as well. Pompey's Pillar has been toppled, but at least the Pharos Lighthouse is spared when the Mongols deem it not worth the great effort it would require to raze it to the ground.;;;;;;;;;;;;;x
-EVTDESC60120;Riding through the fertile Nile Delta, the Tartar hordes have arrived at the Great Pyramids of Giza and breached the gates of Cairo. Surely even the cruelest Pharaoh would be given pause by the pain and misery now inflicted on the city's hapless population.;;;;;;;;;;;;;x
-EVTDESC60121;The Holy City of Mecca now burns at the cruel touch of the Mongol infidels. Pilgrims journeying from distant lands to show their submission to Allah are met only with death when approaching the city gates. This unforgivable desecration will be remembered for ages to come.;;;;;;;;;;;;;x
-EVTDESC60200;A young warrior, Seljuk, son of Toqaq of the Iron Bow of the Kinik tribe, has become something of a legend after performing several astounding feats of valor. I feel compelled to give this remarkable man a place at my court.;;;;;;;;;;;;;x
-EVTDESC60201;My men are restless and my ambitions must no longer be delayed. I must choose a juicy target and call my tribe to war!;;;;;;;;;;;;;x
-EVTDESC60204;My tribe, the fighting Kinik, stand behind me as I set out to conquer [From.Duchy.GetFullBaseName]. Let [From.Holder.TopLiege.GetTitledFirstName] tremble in fear!;;;;;;;;;;;;;x
-EVTDESC60205;[From.GetBestName], perhaps the most able warrior in my realm, has called his tribe and many other hopefuls to war, declaring his intention to take the [FromFrom.Duchy.GetFullBaseName] from [FromFrom.Holder.TopLiege.GetBestName]!;;;;;;;;;;;;;x
-EVTDESC60206;In the steppes of Central Asia, a great warrior has emerged as the leader of the Kinik tribe of the Oghuz Turks, demonstrating his brilliance by winning a war against the mighty [FromFrom.GetTitledName]. Other tribes have taken notice and warriors of all stripes are flocking to his banners in great numbers. Seljuk Khan has promised them a fortune in plunder in his future conquests!;;;;;;;;;;;;;x
-EVTDESC60207;Turkish warriors from the homeland keep arriving in great numbers, hoping to serve in the armies of the great Seljuk's successor. With men such as these, I can accomplish anything!;;;;;;;;;;;;;x
-EVTDESC60300;A brilliant horseman and daring raider by the name of Timur has distinguished himself several times now. My commanders all agree that I should give this remarkable young man a chance to prove himself as a leader, clubfoot or no.;;;;;;;;;;;;;x
-EVTDESC60304;As I've fought for my liege I have gathered a large and loyal following, brave horsemen all. Rather than rise up against my old liege, I've decided to strike out for [From.Duchy.GetFullBaseName]. Let [From.Holder.TopLiege.GetTitledFirstName] tremble in fear!;;;;;;;;;;;;;x
-EVTDESC60306;Another great Khan is on the rise in Central Asia. Timur, called 'the Lame' due to his clubfoot, has proven himself to the Turco-Mongol tribes of the region. He seems intent on creating an empire to rival that of the legendary Genghis Khan himself, as he has just finished crushing [FromFrom.GetTitledName] in a brutal war. Tens of thousands of skilled horsemen have gathered under his banner!;;;;;;;;;;;;;x
-EVTDESC60307;Horsemen from the great steppes keep arriving in great numbers, hoping to serve in the armies of Timur Khan's successor. With warriors like these, I can accomplish anything!;;;;;;;;;;;;;x
-EVTDESC60400;A brilliant Turkish mercenary and former slave warrior by the name of Sabuktigin has distinguished himself many times, leading his company of horsemen in battle and raids. My commanders think I should give him a more prominent position.;;;;;;;;;;;;;x
-EVTDESC60406;A former Turkish mercenary and slave soldier is on the rise in the land of the Afghans. This Sabuktigin, a zealous man who loathes infidels, seems intent on creating an empire to rival that of the Caliphs of old, as he has just finished crushing [FromFrom.GetTitledName] in a brutal war. Tens of thousands of fierce tribesmen have gathered under his banner!;;;;;;;;;;;;;x
-EVTDESC60500;Word has reached us that an ambitious Khan from beyond the great mountains has set out to unite the clans of the great steppe. It is also said by men who read the stars that this Khan is destined to become the ruler of the world.;;;;;;;;;;;;;x
-EVTDESC60520;The many Khans of the steppe have been rallied under the same banner. The leader that managed to unite them all is [From.GetFirstName] of [From.PrimaryTitle.GetName]. The people of the steppe now call their leader Genghis Khan, Greatest of Khans, and have set their minds not only on ruling the steppes but to spread throughout the world. Is there anyone who can stop the thundering armies of thousands of hooves?;;;;;;;;;;;;;x
-
-EVTOPTA60000;A fine tale!;;;;;;;;;;;;;x
-EVTOPTA60010;The time has come!;;;;;;;;;;;;;x
-EVTOPTA60100;Perhaps the stories were true...;;;;;;;;;;;;;x
-EVTOPTA60101;Perhaps their bloodlust has been sated now.;;;;;;;;;;;;;x
-EVTOPTA60102;They must be stopped!;;;;;;;;;;;;;x
-EVTOPTA60103;Barbarians!;;;;;;;;;;;;;x
-EVTOPTA60104;There seems to be no reprieve from these accursed Tartars.;;;;;;;;;;;;;x
-EVTOPTA60105;God save us all.;;;;;;;;;;;;;x
-EVTOPTA60106;Is this the end of days?;;;;;;;;;;;;;x
-EVTOPTA60107;Surely that can't be true!;;;;;;;;;;;;;x
-EVTOPTA60108;May God have mercy on their souls.;;;;;;;;;;;;;x
-EVTOPTA60109;Is there no place beyond their reach?;;;;;;;;;;;;;x
-EVTOPTA60110;Such butchery will not go unpunished.;;;;;;;;;;;;;x
-EVTOPTA60111;Have they no regard for culture?;;;;;;;;;;;;;x
-EVTOPTA60112;There will come a time of reckoning.;;;;;;;;;;;;;x
-EVTOPTA60113;May it be the last city the Tartars take!;;;;;;;;;;;;;x
-EVTOPTA60114;This time they have gone too far!;;;;;;;;;;;;;x
-EVTOPTA60115;They will be the end of us all!;;;;;;;;;;;;;x
-EVTOPTA60116;Like raging wolves...;;;;;;;;;;;;;x
-EVTOPTA60117;May they suffer a thousand deaths for their crimes!;;;;;;;;;;;;;x
-EVTOPTA60118;Infidels!;;;;;;;;;;;;;x
-EVTOPTA60119;May they suffer an eternity of pain!;;;;;;;;;;;;;x
-EVTOPTA60120;Have they no shame?;;;;;;;;;;;;;x
-EVTOPTA60121;Not a single infidel taking part in this affront will escape justice;;;;;;;;;;;;;x
-EVTOPTA60200;He bears watching...;;;;;;;;;;;;;x
-EVTOPTA60201;Merv is best!;;;;;;;;;;;;;x
-EVTOPTA60204;Saddle my horse!;;;;;;;;;;;;;x
-EVTOPTA60205;He will be missed, but I wish him luck!;;;;;;;;;;;;;x
-EVTOPTA60206;This is only the beginning!;;;;;;;;;;;;;x
-EVTOPTA60207;Seljuk would be proud of his heir!;;;;;;;;;;;;;x
-EVTOPTA60300;A potential rival?;;;;;;;;;;;;;x
-EVTOPTA60305;As long as he does not turn on me!;;;;;;;;;;;;;x
-EVTOPTA60306;I am Temujin reborn!;;;;;;;;;;;;;x
-EVTOPTA60307;The Iron Khan would be proud!;;;;;;;;;;;;;x
-EVTOPTA60401;Gandhara is best!;;;;;;;;;;;;;x
-EVTOPTA60406;Infidels beware!;;;;;;;;;;;;;x
-EVTOPTA60500;What could those equestrians hope to accomplish?;;;;;;;;;;;;;x
-EVTOPTA_60520;I truly am great!;;;;;;;;;;;;;x
-
-EVTOPTB60001;Allah have mercy on us!;;;;;;;;;;;;;x
-EVTOPTB60002;God preserve us!;;;;;;;;;;;;;x
-EVTOPTB60003;Is there no end to these steppe warriors?;;;;;;;;;;;;;x
-EVTOPTB60010;Allah have mercy on us!;;;;;;;;;;;;;x
-EVTOPTB60100;They will not come here, Inshallah;;;;;;;;;;;;;x
-EVTOPTB60101;May the snows of the frozen north claim them;;;;;;;;;;;;;x
-EVTOPTB60102;These horsemen know how to fight!;;;;;;;;;;;;;x
-EVTOPTB60103;Their walls were not strong enough...;;;;;;;;;;;;;x
-EVTOPTB60104;Not even the Franks deserve such a fate;;;;;;;;;;;;;x
-EVTOPTB60105;Impressive;;;;;;;;;;;;;x
-EVTOPTB60106;So not even fabled Rome can stand against them;;;;;;;;;;;;;x
-EVTOPTB60107;A city floating on water?;;;;;;;;;;;;;x
-EVTOPTB60108;Ar-Rum is no longer a threat...;;;;;;;;;;;;;x
-EVTOPTB60109;Their reach seems unlimited...;;;;;;;;;;;;;x
-EVTOPTB60110;Disconcerting...;;;;;;;;;;;;;x
-EVTOPTB60111;A waste, by the Prophet;;;;;;;;;;;;;x
-EVTOPTB60112;Is this what we can expect?;;;;;;;;;;;;;x
-EVTOPTB60115;Barbaric;;;;;;;;;;;;;x
-EVTOPTB60116;Let us pray the Mongols are swallowed up by the desert now.;;;;;;;;;;;;;x
-EVTOPTB60117;It will fall on those of the True Faith to stop the Tartar scourge.;;;;;;;;;;;;;x
-EVTOPTB60118;Heathens!;;;;;;;;;;;;;x
-EVTOPTB60119;Would that I could follow in Alexander's footsteps...;;;;;;;;;;;;;x
-EVTOPTB60120;But who is left to tax?;;;;;;;;;;;;;x
-EVTOPTB60121;God forbid this scourge continues west...;;;;;;;;;;;;;x
-EVTOPTB60201;Khorasan seems natural;;;;;;;;;;;;;x
-EVTOPTB60206;He is a credit to all Turks!;;;;;;;;;;;;;x
-EVTOPTB60306;He is a credit to all Mongols!;;;;;;;;;;;;;x
-EVTOPTB60401;Multan seems natural;;;;;;;;;;;;;x
-EVTOPTB60406;What a troubled region that is...;;;;;;;;;;;;;x
-EVTOPTB60500;That should be nothing to worry about.;;;;;;;;;;;;;x
-EVTOPTB_60520;Something has to be done to stop them!;;;;;;;;;;;;;x
-
-EVTOPTC60001;The Mahometans had it coming;;;;;;;;;;;;;x
-EVTOPTC60002;Time for the Infidel to suffer!;;;;;;;;;;;;;x
-EVTOPTC60010;God have mercy on us!;;;;;;;;;;;;;x
-EVTOPTC60201;Dihistan is rich and weak;;;;;;;;;;;;;x
-EVTOPTC60206;Turkish khans come and go...;;;;;;;;;;;;;x
-EVTOPTC60306;These horselords sure are persistent!;;;;;;;;;;;;;x
-EVTOPTC60401;Lahore is rich and weak;;;;;;;;;;;;;x
-EVTOPTC60500;No-one will rule over our people!;;;;;;;;;;;;;x
-EVTOPTC_60520;[From.GetFirstName] truly is the Greatest of Khans!;;;;;;;;;;;;;x
-
-EVTOPTD60001;The Mongol gods are strong;;;;;;;;;;;;;x
-EVTOPTD60002;The Mongol gods are strong;;;;;;;;;;;;;x
-EVTOPTD60010;May the Gods save us!;;;;;;;;;;;;;x
-EVTOPTD60201;Samarkand first!;;;;;;;;;;;;;x
-EVTOPTD60401;Bhakkar first!;;;;;;;;;;;;;x
-
-EVTOPTE60201;Balkh... yes.;;;;;;;;;;;;;x
+EVTNAME60000;The Khan of Khans;;;;;;;;;;;Xàí õàíîâ;;x
+EVTNAME60001;The Scourge Arrives;;;;;;;;;;;Bðåìÿ âåëèêèõ áåä íàñòóïàåò;;x
+EVTNAME60002;The Golden Horde;;;;;;;;;;;Oðäà;;x
+EVTNAME60003;The Iron Khan;;;;;;;;;;;Båëèêèé Æåëåçíûé Õàí;;x
+EVTNAME60010;The Ilkhanate Converts;;;;;;;;;;;Xóëàãóèäû;;x
+EVTNAME60020;The Golden Horde Converts;;;;;;;;;;;Hàñòóïàåò Çîëîòàÿ Îðäà!;;x
+EVTNAME60100;The Mongols sack Kiev!;;;;;;;;;;;Mîíãîëû ðàçãðàáèëè Êèåâ!;;x
+EVTNAME60101;The Mongols sack Novgorod!;;;;;;;;;;;Mîíãîëû ðàçãðàáèëè Íîâãîðîä!;;x
+EVTNAME60102;The Mongols sack Krakow!;;;;;;;;;;;Mîíãîëû ðàçãðàáèëè Êðàêîâ!;;x
+EVTNAME60103;The Mongols sack Aachen!;;;;;;;;;;;Mîíãîëû ðàçãðàáèëè Àõåí!;;x
+EVTNAME60104;The Mongols sack Paris!;;;;;;;;;;;Mîíãîëû ðàçãðàáèëè Ïàðèæ!;;x
+EVTNAME60105;The Mongols sack London!;;;;;;;;;;;Mîíãîëû ðàçãðàáèëè Ëîíäîí!;;x
+EVTNAME60106;The Mongols sack Rome!;;;;;;;;;;;Mîíãîëû ðàçãðàáèëè Ðèì!;;x
+EVTNAME60107;The Mongols sack Venice!;;;;;;;;;;;Mîíãîëû ðàçãðàáèëè Âåíåöèþ!;;x
+EVTNAME60108;The Mongols sack Constantinople!;;;;;;;;;;;Mîíãîëû ðàçãðàáèëè Êîíñòàíòèíîïîëü!;;x
+EVTNAME60109;The Mongols sack Lisbon!;;;;;;;;;;;Mîíãîëû ðàçãðàáèëè Ëèññàáîí!;;x
+EVTNAME60110;The Mongols sack Smolensk!;;;;;;;;;;;Mîíãîëû ðàçãðàáèëè Ñìîëåíñê!;;x
+EVTNAME60111;The Mongols sack Prague!;;;;;;;;;;;Mîíãîëû ðàçãðàáèëè Ïðàãó!;;x
+EVTNAME60112;The Mongols sack Vienna!;;;;;;;;;;;Mîíãîëû ðàçãðàáèëè Âåíó!;;x
+EVTNAME60113;The Mongols sack Esztergom!;;;;;;;;;;;Mîíãîëû ðàçãðàáèëè Ýñòåðãîì!;;x
+EVTNAME60114;The Mongols sack Athens!;;;;;;;;;;;Mîíãîëû ðàçãðàáèëè Àôèíû!;;x
+EVTNAME60115;The Mongols sack Belgrade!;;;;;;;;;;;Mîíãîëû ðàçãðàáèëè Áåëãðàä!;;x
+EVTNAME60116;The Mongols sack Baghdad!;;;;;;;;;;;Mîíãîëû ðàçãðàáèëè Áàãäàä!;;x
+EVTNAME60117;The Mongols sack Damascus!;;;;;;;;;;;Mîíãîëû ðàçãðàáèëè Äàìàñê!;;x
+EVTNAME60118;The Mongols sack Jerusalem!;;;;;;;;;;;Mîíãîëû ðàçãðàáèëè Èåðóñàëèì!;;x
+EVTNAME60119;The Mongols sack Alexandria!;;;;;;;;;;;Mîíãîëû ðàçãðàáèëè Àëåêñàíäðèþ!;;x
+EVTNAME60120;The Mongols sack Cairo!;;;;;;;;;;;Mîíãîëû ðàçãðàáèëè Êàèð!;;x
+EVTNAME60121;The Mongols sack Mecca!;;;;;;;;;;;Mîíãîëû ðàçãðàáèëè Ìåêêó!;;x
+EVTNAME60206;The Great Seljuk;;;;;;;;;;;Âåëèêèé Ñåëüäæóê;;x
+EVTNAME60306;The Iron Khan;;;;;;;;;;;Âåëèêèé Æåëåçíûé Õàí;;x
+EVTNAME60406;Rise of the Ghaznavids;;;;;;;;;;;Ãàçíåâèäû;;x
+EVTNAME60500;The Mongols;;;;;;;;;;;Mîíãîëû;;x
+EVTNAME60520;The Mongols;;;;;;;;;;;Mîíãîëû;;x
+EVTDESC60000;My liege, vague rumors of an all-conquering menace have reached us from the far East. It seems that a Great Khan has united all the tribes of the vast steppes, leading millions of fierce horse warriors against the great cities of Cathay. In time, this new Khagan could pose a threat to the civilized world...;;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ñìóòíûå ñëóõè îá óæàñíîé óãðîçå äîñòèãëè íàñ ñ Äàëüíåãî Âîñòîêà. Ïîõîæå, âåëèêèé õàí îáúåäèíèë âñå ïëåìåíà áåñêîíå÷íûõ ñòåïåé, îí âåä¸ò ìèëëèîíû âñàäíèêîâ îò äàë¸êèõ ãîðîäîâ Êèòàÿ. Ñåé÷àñ, ýòîò íîâûé Õàí ìîæåò ïîñòàâèòü ïîä óãðîçó âåñü öèâèëèçîâàííûé ìèð...;;x
+EVTDESC60001;My liege, the great Khagan has dispatched a numberless horde of barbarian horsemen against the lands of Central Asia and Eastern Persia. Appearing in Balkh, the heathen armies seem intent on conquering the Muslim world!;;;;;;;;;;;[Root.PrimaryTitle.GetFOA], âåëèêèé Õàí ïîñëàë áåñ÷èñëåííûå îðäû âñàäíèêîâ ïðîòèâ çåìåëü Ñðåäíåé Àçèè è Âîñòî÷íîé Ïåðñèè. Ïîÿâèâøèñü â Áàëõå, ÿçû÷åñêèå àðìèè ïîëíû ðåøèìîñòè çàâîåâàòü ìóñóëüìàíñêèé ìèð!;;x
+EVTDESC60002;My liege, another horde has been sent west by the terrible Khagan of the Mongols. This one - the 'Golden Horde' - has allegedly been ordered to conquer Europe all the way to the Atlantic Ocean!;;;;;;;;;;;"[Root.PrimaryTitle.GetFOA], óæàñíûé Õàí ìîíãîëîâ ïîñëàë åù¸ îäíó îðäó íà çàïàä. Èìÿ åé ""Çîëîòàÿ Îðäà"", ïðåäïîëîæèòåëüíî îí ïðèêàçàë èì çàâîåâàòü âñþ Åâðîïó è ïðîëîæèòü ïóòü äî Àòëàíòè÷åñêîãî îêåàíà!";;x
+EVTDESC60003;My liege, the great Khan Timur has gathered many of the horse clans of Central Asia under his banner, intent on creating an empire to rival that of the legendary Genghis Khan himself. His fearsome horde has been sighted in Khiva, poised to overrun the ancient realm of Persia.;;;;;;;;;;;[Root.PrimaryTitle.GetFOA], âåëèêèé Õàí Òèìóð ñîáðàë ìíîæåñòâî ñòåïíûõ ïëåì¸í â îðäó âñàäíèêîâ. Âèäèìî, îí õî÷åò ñîçäàòü èìïåðèþ, êîòîðàÿ çàòìèò ñëàâó ëåãåíäàðíîãî ×èíãèñõàíà. Åãî íåñìåòíîå âîéñêî çàìå÷åíî â Õèâå. Ïîõîæå, îí ñîáèðàåòñÿ íàâîäíèòü ñâîèìè âñàäíèêàìè äðåâíþþ çåìëþ Ïåðñîâ.;;x
+EVTDESC60004;The Great Khagan has sent more warriors to aid our conquest!;;;;;;;;;;;Âåëèêèé Êàãàí ïîñëàë åù¸ áîëüøå âîèíîâ, ÷òîáû ïîìî÷ü íàì â íàøèõ çàâîåâàíèÿõ!;;x
+EVTDESC60010;The great [Root.GetTitledName] and all [Root.GetHerHis] vassals have converted and embraced the [catholic.GetName] faith!;;;;;;;;;;;[Root.GetTitledName] è âñå [Root.GetHersHis] âàññàëû ïåðåøëè â [This.GetCatholicAdj]ñêóþ âåðó!;;x
+EVTDESC60011;The great [Root.GetTitledName] and all [Root.GetHerHis] vassals have converted and embraced the Orthodox faith!;;;;;;;;;;;[Root.GetTitledName] è âñå [Root.GetHersHis] âàññàëû ïðèíÿëè ïðàâîñëàâèå!;;x
+EVTDESC60012;The great [Root.GetTitledName] and all [Root.GetHerHis] vassals have converted and embraced the Sunni faith!;;;;;;;;;;;[Root.GetTitledName] è âñå [Root.GetHersHis] âàññàëû ïðèíÿëè ñóííèçì!;;x
+EVTDESC60013;The great [Root.GetTitledName] and all [Root.GetHerHis] vassals have converted and embraced the Shiite faith!;;;;;;;;;;;[Root.GetTitledName] è âñå [Root.GetHersHis] âàññàëû ñòàëè øèèòàìè!;;x
+EVTDESC60014;The great [Root.GetTitledName] and all [Root.GetHerHis] vassals have converted and embraced Nestorian Christianity!;;;;;;;;;;;[Root.GetTitledName] è âñå [Root.GetHersHis] âàññàëû ïðèíÿëè íåñòîðèàíñòâî!;;x
+EVTDESC60100;The Mongol scourge has poured through the Golden Gates of Kiev and sacked the once proud trading hub. The city has been left a smoldering ruin and the Dnieper now runs red with the blood of its former inhabitants.;;;;;;;;;;;Ìîíãîëüñêàÿ îðäà õëûíóëà ÷åðåç Çîëîòûå âîðîòà Êèåâà è ðàçãðàáèëà íåêîãäà âåëèêèé öåíòð òîðãîâëè. Ãîðîä ëåæèò â òëåþùèõ ðóèíàõ è Äíåïð ñåé÷àñ êðàñíûé îò êðîâè åãî áûâøèõ æèòåëåé.;;x
+EVTDESC60101;Novgorod has been stormed by the Tartar horde and both the city and its population are now suffering beyond measure. The Cathedral of Saint Sophia is engulfed in flames as the steppe warriors loot that which can be carried away and put the rest to the torch.;;;;;;;;;;;Íîâãîðîä áûë çàõâà÷åí òàòàðñêîé îðäîé, è ñåé÷àñ ñàì ãîðîä è åãî íàñåëåíèå ñòðàäàþò áåçìåðíî. Ñîáîð Ñâÿòîé Ñîôèè îõâà÷åí ïëàìåíåì, òàê êàê âîèíû ñòåïè âçÿëè âñ¸, ÷òî ìîãëè óíåñòè, à îñòàëüíîå ïðåäàëè îãíþ.;;x
+EVTDESC60102;The Mongols continue their push beyond the Vistula and into Poland. Krakow has now fallen to the invaders, and it is said that at night the flames from the burning city can be seen from untold leagues away.;;;;;;;;;;;Ìîíãîëû ïðîäîëæàþò äâèãàòüñÿ ÷åðåç Âèñëó â Ïîëüøó. Êðàêîâ â íàñòîÿùåå âðåìÿ ïàë ïåðåä çàõâàò÷èêàìè, è ãîâîðÿò, ÷òî íî÷üþ ïëàìÿ ãîðÿùåãî ãîðîäà ìîæíî áûëî âèäåòü çà ìíîãî ëüå îòñþäà.;;x
+EVTDESC60103;Even Aachen, the former seat of Charlemagne's great Carolingian empire, has fallen under the shadow of the Mongol scourge. His spirit must surely be weeping at the atrocities now being committed within the city's walls.;;;;;;;;;;;Äàæå Àõåí, áûâøàÿ ðåçèäåíöèÿ Êàðëà Âåëèêîãî, ïàë ïîä íàòèñêîì ìîíãîëüñêîãî íàøåñòâèÿ. Åãî äóõ áåçóñëîâíî îïëàêèâàåò òå çëîäåÿíèÿ, êîòîðûå ñåé÷àñ òâîðÿòñÿ â ñòåíàõ ãîðîäà.;;x
+EVTDESC60104;Like a swarm of locusts, the unstoppable Mongols have descended upon Paris and sacked the city. The still unfinished Notre Dame Cathedral is quickly set on fire and with the light provided by the rest of the burning city, the Mongol warriors can continue looting and murdering well into the night.;;;;;;;;;;;Ñëîâíî ðîé ñàðàí÷è, íåóìîëèìûå ìîíãîëû îáðóøèëèñü íà Ïàðèæ è ðàçãðàáèëè ãîðîä. Åùå íåäîñòðîåííûé ñîáîð Íîòð-Äàì óæå îõâà÷åí îãí¸ì, è îñâåùàåìûå ïëàìåíåì ãîðÿùåãî ãîðîäà, ìîíãîëüñêèå âîèíû ìîãóò ïðîäîëæàòü ãðàáåæè è óáèéñòâà ñðåäè íî÷è.;;x
+EVTDESC60105;Not even the sea has proved a formidable enough barrier to halt the Mongol advance. London has fallen to their vanguard and the city is now the scene of a slaughter on a scale unrivaled since the days of Queen Boudica and her rebellion. ;;;;;;;;;;;Äàæå ìîðå íå ñòàëî äîñòàòî÷íîé ïðåãðàäîé, ÷òîáû îñòàíîâèòü íàñòóïëåíèå ìîíãîëîâ. Ëîíäîí ïàë ïîä íàòèñêîì èõ àâàíãàðäà è ãîðîä ñåé÷àñ - ìåñòî áîéíè â ìàñøòàáå íåïðåâçîéä¸ííîì ñî âðåìåí êîðîëåâû Áîóäèêêè è å¸ âîññòàíèÿ.;;x
+EVTDESC60106;Once more Rome suffers at the cruel hands of eastern barbarians. The Mongols have breached the Aurelian Walls, and their horses are now grazing on the field of the Circus Maximus while they raise their yurts on the Palatine Hill. As expected, no mercy is shown to those Romans who have not yet fled the city.;;;;;;;;;;;Ñíîâà Ðèì êîð÷èòüñÿ â àãîíèè â æåñòîêèõ ðóêàõ âîñòî÷íûõ âàðâàðîâ. Ìîíãîëû ðàçðóøèëè ñòåíó Àâðåëèàíà, è èõ ëîøàäè ñåé÷àñ ïàñóòñÿ íà ïîëå Áîëüøîãî öèðêà, â òî âðåìÿ, êàê þðòû âîçâîäÿòñÿ íà õîëìå Ïàëàòèí. Êàê è îæèäàëîñü, çàõâàò÷èêè íå ïîùàäèëè ðèìëÿí, êîòîðûå íå óñïåëè ïîêèíóòü ãîðîä.;;x
+EVTDESC60107;The canals of Venice have been blocked by the bloated corpses of the dead as the city is sacked by frenzied Mongol warriors. Those few fortunate enough to have escaped the slaughter claim the bodies are packed tightly enough in the Venetian Lagoon for the Mongols to ride to and from the mainland as they please.;;;;;;;;;;;Êàíàëû Âåíåöèè áûëè çàâàëåíû ðàçáóõøèìè â âîäå òðóïàìè, êîãäà ãîðîä ðàçãðàáèëè áåøåíûå ìîíãîëû. Òåì íåìíîãèì, êîìó ïîñ÷àñòëèâèëîñü èçáåæàòü áîéíè, óòâåðæäàþò, ÷òî òåëà áûëè ñëîæåíû òàê ïëîòíî â Âåíåöèàíñêîé ëàãóíå, ÷òî ìîíãîëû ìîãëè åçäèòü ïî íèì íà ìàòåðèê è îáðàòíî.;;x
+EVTDESC60108;The Theodosian Walls have not been enough to spare Constantinople from the vile touch of the Tartar scourge. The great imperial capital has been sacked, its citizens butchered or enslaved, the Hagia Sophia defiled and the Great Palace of the emperors put to the torch.;;;;;;;;;;;Ôåîäîñèåâûõ ñòåí îêàçàëîñü íå äîñòàòî÷íî, ÷òîáû îãðàäèòü Êîíñòàíòèíîïîëü îò áîãîìåðçêîãî ïðèêîñíîâåíèÿ òàòàðñêîãî íàøåñòâèÿ. Ñòîëèöà âåëèêîé èìïåðèè áûëà ðàçãðàáëåíà, å¸ æèòåëè óáèòû èëè ïîðàáîùåíû, Ñîôèéñêèé ñîáîð îñêâåðíåí è Áîëüøîé èìïåðàòîðñêèé äâîðåö ïðåäàí îãíþ.;;x
+EVTDESC60109;The Mongols have now reached as far west as Lisbon in their conquests. While the city burns at their touch, the steppe warriors look out over the great blue expanse of the Atlantic. Who can tell where they will turn next?;;;;;;;;;;;Ìîíãîëû â ñâîèõ çàâîåâàíèÿõ çàáðàëèñü òàê äàëåêî íà çàïàä, ÷òî äîñòèãëè Ëèññàáîíà. Ïîêà ãîðîä ãîðèò, ïîäîææ¸ííûé èõ ôàêåëàìè, ñòåïíûå âîèíû äîñòèãàþò ãîëóáûõ ïðîñòîðîâ Àòëàíòèêè. Êòî çíàåò êóäà îíè îòïðàâÿòñÿ äàëüøå.;;x
+EVTDESC60110;Smolensk has been swallowed up by the Mongol hordes as they continue their relentless advance to the west. When the great host finally moves on, little remains of the city but ashes and charred rubble, and those lucky few inhabitants who somehow escaped the notice of the rampaging horsemen.;;;;;;;;;;;Ñìîëåíñê áûë ïîãëîùåí ìîíãîëüñêîé îðäîé íà ïóòè íåóñòàííîãî ïðîäâèæåíèå íà çàïàä. Êîãäà îãðîìíîå âîéñêî, íàêîíåö, îòïðàâèëîñü äàëüøå, ìàëî, ÷òî îñòàëîñü îò ãîðîäà, ëèøü ïåïåë è îáóãëåííûå ðóèíû, è òå íåìíîãèå æèòåëè, êîòîðûì ïîñ÷àñòëèâèëîñü óñêîëüçíóòü îò âíèìàíèÿ íåèñòîâûõ âñàäíèêîâ.;;x
+EVTDESC60111;The city of Prague has become a beacon of light in an otherwise dark world, as the Mongol barbarians move from house to house and set fire to everything not yet looted. A flood of refugees spread horrific tales about the cruelty of the bloodthirsty Tartar horsemen to every corner of Europe.;;;;;;;;;;;Ïðàãà ñòàëà íàñòîÿùèì ìàÿêîì ñâåòà â ò¸ìíîì ìèðå, êîãäà ìîíãîëüñêèå âàðâàðû ïðîäâèãàëèñü îò äîìà ê äîìó è ïîäæèãàëè âñ¸, ÷òî åù¸ íå óñïåëè ðàçãðàáèòü. Ïîòîê áåæåíöåâ ðàñïðîñòðàíèë óæàñíûå ðàññêàçû î æåñòîêîñòè êðîâîæàäíûõ òàòàðñêèõ âñàäíèêîâ â ëþáîì óãîëêå Åâðîïû.;;x
+EVTDESC60112;Vienna, a city of growing importance on the Danube river, has become the latest victim of the Mongol hordes as they continue to pillage and burn their way across Europe. The smoking ruins and arrow-riddled corpses they leave behind when they move on do not lend much faith in the city's future prospects.;;;;;;;;;;;Âåíà, ãîðîä íà ðåêå Äóíàé, ïðèîáðåòàâøèé âñ¸ áîëüøåå çíà÷åíèå è âàæíîñòü, ñòàë î÷åðåäíîé æåðòâîé ìîíãîëüñêèõ îðä, êîòîðûå ïðîäîëæàþò ðàçðóøàòü Åâðîïó. Âñ¸, ÷òî îíè îñòàâëÿþò ïîçàäè ñåáÿ - äûìÿùèåñÿ ðóèíû è óñûïàííûå ñòðåëàìè òðóïû.;;x
+EVTDESC60113;The Mongols have reached beyond the Carpathians and fanned out across the Great Hungarian Plain. Now the city of Esztergom has fallen to the murderous host and is the scene of indiscriminate slaughter. Those that attempt to flee on foot are cut down without mercy by the fast horsemen as dark, billowing smoke rises towards the sky above the city.;;;;;;;;;;;Ìîíãîëû ïåðåøëè ÷åðåç Êàðïàòû è ðàçîøëèñü âååðîì ïî Áîëüøîé âåíãåðñêîé ðàâíèíå. Ñåé÷àñ ãîðîä Ýñòåðãîì ñòàë ìåñòîì êðîâàâûõ è áåñïîðÿäî÷íûõ óáèéñòâ. Ãîðîæàí, êîòîðûå ïûòàþòñÿ áåæàòü, âûðåçàþò áûñòðûå âñàäíèêè, ïîêà ò¸ìíûé äûì ïîäíèìàåòñÿ â íåáî íàä ãîðîäîì.;;x
+EVTDESC60114;The ancient city of Athens has fallen to the Mongols, and they now rampage unchecked behind its walls. Great monuments and artifacts dating back to the dawn of Western Civilisation are lost forever in a cultural desecration that will surely be felt by future generations thousands of years from now.;;;;;;;;;;;Äðåâíèé ãîðîä Àôèíû ïàë ïåðåä ìîíãîëàìè, è òåïåðü îíè áåñ÷èíñòâóþò çà åãî ñòåíàìè. Âåëèêèå ñîîðóæåíèÿ è ïðåäìåòû, äàòèðóåìûå âðåìåíåì íà÷àëà çàïàäíîé öèâèëèçàöèè, áóäóò íàâñåãäà ïîòåðÿíû ïîñëå îñêâåðíåíèÿ, ÷òî, áåçóñëîâíî, îùóòèòñÿ áóäóùèìè ïîêîëåíèÿìè.;;x
+EVTDESC60115;"The ""White City"" has turned red as the Mongol invaders seize Belgrade and massacre the inhabitants without exception. After several days of slaughter and looting, the smell of death and rotting flesh proves too much even for the Mongols to bear and they move their camp upwind from the scorched ruins of the city.";;;;;;;;;;;" ""Áåëûé ãîðîä"" ïðåâðàòèëñÿ â êðàñíûé, ïîñëå òîãî, êàê ìîíãîëüñêèå çàõâàò÷èêè ïðîíèêëè â íåãî è âûðåçàëè âñåõ æèòåëåé áåç èñêëþ÷åíèÿ. Ïîñëå íåñêîëüêèõ äíåé ðåçíè è ãðàáåæåé, çàïàõ ñìåðòè è ãíèþùåé ïëîòè ñòàë íàñòîëüêî íåâûíîñèìûì, ÷òî îíè ïåðåíåñëè ñâîé ëàãåðü îò âûææåííûõ ðóèí ãîðîäà ïðîòèâ âåòðà.";;x
+EVTDESC60116;The great city of Baghdad, one of the world's foremost centers of learning, has succumbed to the ravenous Mongol hordes after a siege. Nothing can sate their appetite for destruction it seems. The Tigris river runs not only red with blood, but black with the ink of priceless and irreplaceable tomes from the House of Wisdom and the city's other great libraries.;;;;;;;;;;;Âåëèêèé ãîðîä Áàãäàä, îäèí èç âåäóùèõ ìèðîâûõ öåíòðîâ ó÷åíèÿ, ïîñëå îñàäû ïàë æåðòâîé íåíàñûòíûõ ìîíãîëüñêèõ îðä. Êàæåòñÿ, íè÷òî íå ìîæåò óñìèðèòü èõ òÿãó ê ðàçðóøåíèþ. Òåïåðü âîäû ðåêè Òèãð íå òîëüêî êðàñíû îò êðîâè, íî è ÷åðíû îò ÷åðíèë áåñöåííûõ è íåâîññòàíîâèìûõ òîìîâ èç äîìà Ìóäðîñòè è äðóãèõ áîëüøèõ áèáëèîòåê ãîðîäà.;;x
+EVTDESC60117;"Damascus, the ancient City of Jasmine, has been sacked by the advancing Mongols. They have gathered a colossal pile of severed heads on a field just outside the city walls, now renamed ""burj al-ru'us"" by the massacre's few survivors - the Tower of Heads.";;;;;;;;;;;"Äàìàñê, äðåâíèé Ãîðîä æàñìèíà, áûë ðàçãðàáëåí ïðîäâèãàþùèìèñÿ ìîíãîëàìè. Îíè ñîáðàëè íà ïîëå ïðÿìî çà ãîðîäñêèìè ñòåíàìè ãðîìàäíóþ êó÷ó îòðóáëåííûõ ãîëîâ, êîòîðóþ íåìíîãî÷èñëåííûå âûæèâøèå ïîñëå ðåçíè ïðîçâàëè ""áóðäæ àëü-ðóóñ"" - Áàøíÿ ãîëîâ.";;x
+EVTDESC60118;The Tartar infidels have sacked Jerusalem, spurring a moment of rare solidarity between members of all the city's different religions as they suffer equal horrors under the cruel yoke of the pagans.;;;;;;;;;;;Òàòàðñêèå âàðâàðû ðàçãðàáèëè Èåðóñàëèì, ïðèíåñÿ ìîìåíò ðåäêî âèäàííîé îáùíîñòè ñðåäè ïðåäñòàâèòåëåé ðàçíîîáðàçíûõ ðåëèãèé ãîðîäà, òàê êàê âñå îäèíàêîâî ñòðàäàþò îò óæàñîâ æåñòîêîãî èãà ÿçû÷íèêîâ.;;x
+EVTDESC60119;Not content with their vast empire surpassing Alexander the Great's in sheer size, the Mongol hordes are now laying waste to the city that is his namesake as well. Pompey's Pillar has been toppled, but at least the Pharos Lighthouse is spared when the Mongols deem it not worth the great effort it would require to raze it to the ground.;;;;;;;;;;;Íå óäîâëåòâîðèâøèñü ñâîåé îãðîìíîé èìïåðèåé, ïðåâîñõîäÿùåé ïî ðàçìåðó çàâîåâàíèÿ Àëåêñàíäðà Âåëèêîãî, ñåé÷àñ ìîíãîëüñêèå îðäû îïóñòîøàþò ãîðîä, íàçâàííûé â åãî ÷åñòü. Êîëîííà Ïîìïåÿ ïîâàëåíà, íî, ïî êðàéíåé ìåðå, Ôàðîññêèé ìàÿê íå òðîíóò, òàê êàê ìîíãîëû ðåøèëè, ÷òî îãðîìíûå óñèëèÿ, çàòðà÷åííûå íà òî, ÷òîáû ñðàâíÿòü åãî ñ çåìë¸é, òîãî íå ñòîÿò.;;x
+EVTDESC60120;Riding through the fertile Nile Delta, the Tartar hordes have arrived at the Great Pyramids of Giza and breached the gates of Cairo. Surely even the cruelest Pharaoh would be given pause by the pain and misery now inflicted on the city's hapless population.;;;;;;;;;;;Ñêà÷à ïî ïëîäîðîäíîé äåëüòå Íèëà, òàòàðñêèå îðäû ïðèáûëè ê Âåëèêèì ïèðàìèäàì Ãèçû è ïðîëîìèëè âîðîòà Êàèðà. Ñòðàäàíèÿ è ìó÷åíèÿ, ïðè÷èíÿåìûå ñåé÷àñ íåñ÷àñòíîìó íàñåëåíèþ ãîðîäà, íàâåðíÿêà çàñòàâèëè áû çàäóìàòüñÿ äàæå ñàìîãî æåñòîêîãî ôàðàîíà.;;x
+EVTDESC60121;The Holy City of Mecca now burns at the cruel touch of the Mongol infidels. Pilgrims journeying from distant lands to show their submission to Allah are met only with death when approaching the city gates. This unforgivable desecration will be remembered for ages to come.;;;;;;;;;;;Ñâÿùåííûé ãîðîä Ìåêêà ñåé÷àñ ãîðèò îò æåñòîêèõ ðóê ìîíãîëüñêèõ ÿçû÷íèêîâ. Ïàëîìíèêè, ïðèáûâàþùèå èç äàëüíèõ çåìåëü, ÷òîáû ïîêàçàòü ñâî¸ ïîâèíîâåíèå Àëëàõó, ïðè ïðèáëèæåíèè ê ãîðîäñêèì âîðîòàì âñòðå÷àþò òîëüêî ñìåðòü. Ýòî íåïðîñòèòåëüíîå íàäðóãàòåëüñòâî íàä ñâÿòûíåé çàïîìíèòñÿ íà âåêà.;;x
+EVTDESC60200;A young warrior, Seljuk, son of Toqaq of the Iron Bow of the Kinik tribe, has become something of a legend after performing several astounding feats of valor. I feel compelled to give this remarkable man a place at my court.;;;;;;;;;;;Ìîëîäîé âîèí, Ñåëüäæóê, ñûí Òîêàêè Æåëåçíîãî Ëóêà èç ïëåìåíè Êèíèêà, ñòàë ÷åì-òî âðîäå ëåãåíäû, ñîâåðøèâ íåñêîëüêî ïîòðÿñàþùèõ ïîäâèãîâ. ß ñ÷èòàþ, ÷òî íóæíî ïðåäîñòàâèòü ìåñòî ýòîìó âûäàþùåìóñÿ ÷åëîâåêó ïðè ìî¸ì äâîðå.;;x
+EVTDESC60201;My men are restless and my ambitions must no longer be delayed. I must choose a juicy target and call my tribe to war!;;;;;;;;;;;Ìîè ëþäè îáåñïîêîåíû è ìîè àìáèöèè íå ìîãóò áîëüøå æäàòü. Ìíå ñëåäóåò âûáðàòü õîðîøóþ öåëü è ïðèçâàòü ïëåìÿ ê âîéíå!;;x
+EVTDESC60204;My tribe, the fighting Kinik, stand behind me as I set out to conquer [From.Duchy.GetFullBaseName]. Let [From.Holder.TopLiege.GetTitledFirstName] tremble in fear!;;;;;;;;;;;Ìîå ïëåìÿ, âîèíñòâåííîå Êèíèêà, ñòîèò ïîçàäè ìåíÿ, ïîêà ÿ èäó çàâîåâûâàòü [From.Duchy.GetAdjective]ñêóþ çåìëþ. Ïóñòü [From.Holder.TopLiege.GetTitledFirstName] äðîæèò îò ñòðàõà!;;x
+EVTDESC60205;[From.GetBestName], perhaps the most able warrior in my realm, has called his tribe and many other hopefuls to war, declaring his intention to take the [FromFrom.Duchy.GetFullBaseName] from [FromFrom.Holder.TopLiege.GetBestName]!;;;;;;;;;;;[From.GetBestName], âîçìîæíî, ëó÷øèé âîèí ìîåãî ãîñóäàðñòâà, ïðèçûâàåò ïëåìÿ è ìíîãèõ ñòðàæäóùèõ ê âîéíå, âûñêàçàâ æåëàíèå çàáðàòü çåìëè, èçâåñòíóþ êàê [FromFrom.Duchy.GetFullBaseName] ó ïðàâèòåëÿ ïî èìåíè [FromFrom.Holder.TopLiege.GetBestName]!;;x
+EVTDESC60206;In the steppes of Central Asia, a great warrior has emerged as the leader of the Kinik tribe of the Oghuz Turks, demonstrating his brilliance by winning a war against the mighty [FromFrom.GetTitledName]. Other tribes have taken notice and warriors of all stripes are flocking to his banners in great numbers. Seljuk Khan has promised them a fortune in plunder in his future conquests!;;;;;;;;;;;Â ñòåïÿõ Öåíòðàëüíîé Àçèè âåëèêèé âîèí, ñòàâøèé ëèäåðîì ïëåìåíè Êèíèêà èç òþðêîâ-îãóçîâ, äåìîíñòðèðóåò ñâîè ñïîñîáíîñòè, ïîáåæäàÿ â áèòâàõ ïðîòèâ ìîãóùåñòâåííîãî ïðàâèòåëÿ ïî èìåíè [FromFrom.GetTitledName]. Äðóãèå ïëåìåíà âèäÿò ýòî, è âîèíû âñåõ ìàñòåé ñòåêàþòñÿ ïîä åãî çíàìåíà òîëïàìè. Ñåëüäæóê Õàí îáåùàë èì öåëîå ñîñòîÿíèå â äàëüíåéøèõ ãðàáåæàõ!;;x
+EVTDESC60207;Turkish warriors from the homeland keep arriving in great numbers, hoping to serve in the armies of the great Seljuk's successor. With men such as these, I can accomplish anything!;;;;;;;;;;;Òþðêñêèå âîèíû èç ðîäíûõ çåìåëü ïðîäîëæàþò ïðèáûâàòü â áîëüøîì êîëè÷åñòâå, â íàäåæäå ïîñëóæèòü â àðìèÿõ âåëèêîãî íàñëåäíèêà Ñåëüäæóêîâ. Ñ òàêèìè âîèíàìè ÿ äîáüþñü ÷åãî óãîäíî!;;x
+EVTDESC60300;A brilliant horseman and daring raider by the name of Timur has distinguished himself several times now. My commanders all agree that I should give this remarkable young man a chance to prove himself as a leader, clubfoot or no.;;;;;;;;;;;Ïðåêðàñíûé âñàäíèê è äåðçêèé íàë¸ò÷èê ïî èìåíè Òèìóð îòëè÷èëñÿ óæå íåñêîëüêî ðàç. Ìîè êîìàíäèðû âñå ñîãëàñíû ñ ìíåíèåì, ÷òî íóæíî ïðåäîñòàâèòü ýòîìó âûäàþùåìóñÿ þíîøå øàíñ ïðîÿâèòü ñåáÿ êàê ëèäåðà, âíå çàâèñèìîñòè îò òîãî, êîñîëàïûé îí èëè íåò.;;x
+EVTDESC60304;As I've fought for my liege I have gathered a large and loyal following, brave horsemen all. Rather than rise up against my old liege, I've decided to strike out for [From.Duchy.GetFullBaseName]. Let [From.Holder.TopLiege.GetTitledFirstName] tremble in fear!;;;;;;;;;;;Âî âðåìÿ ñðàæåíèé çà ìîåãî ñþçåðåíà, êî ìíå ïðèñîåäèíèëàñü áîëüøàÿ ãðóïïà âåðíûõ ïîñëåäîâàòåëåé - õðàáðûõ âñàäíèêîâ. Âìåñòî âîññòàíèÿ ïðîòèâ ìîåãî ñòàðîãî ñþçåðåíà, ÿ ïðèíèìàþ ðåøåíèå íàïàñòü íà [From.Duchy.GetAdjective]ñêóþ çåìëþ. Ïóñêàé æå [From.Holder.TopLiege.GetTitledFirstName] äðîæèò â óæàñå!;;x
+EVTDESC60306;Another great Khan is on the rise in Central Asia. Timur, called 'the Lame' due to his clubfoot, has proven himself to the Turco-Mongol tribes of the region. He seems intent on creating an empire to rival that of the legendary Genghis Khan himself, as he has just finished crushing [FromFrom.GetTitledName] in a brutal war. Tens of thousands of skilled horsemen have gathered under his banner!;;;;;;;;;;;"Äðóãîé âåëèêèé õàí ïîÿâèëñÿ â Öåíòðàëüíîé Àçèè. Òèìóð, ïî ïðîçâèùó ""Õðîìîé"", äîêàçàë ñâîþ ñîñòîÿòåëüíîñòü êàê ñèëüíîãî ëèäåðà â ñðåäå Òàòàðî-Ìîíãîëüñêèõ ïëåì¸í ðåãèîíà. Ïîõîæå îí ñîáèðàåòñÿ ñîçäàòü èìïåðèþ äîñòîéíóþ ëåãåíäàðíîãî ×èíãèç Õàíà, ò. ê. îí òîëüêî ÷òî ñîêðóøèë ïðàâèòåëÿ ïî èìåíè [FromFrom.GetTitledName] â æåñòîêîé âîéíå. Äåñÿòêè òûñÿ÷ îïûòíûõ ñòåïíûõ âñàäíèêîâ ñîáðàëèñü ïîä åãî íà÷àëîì!";;x
+EVTDESC60307;Horsemen from the great steppes keep arriving in great numbers, hoping to serve in the armies of Timur Khan's successor. With warriors like these, I can accomplish anything!;;;;;;;;;;;Âñàäíèêè èç Âåëèêèõ Ñòåïåé ïðîäîëæàþò ïðèáûâàòü â áîëüøîì êîëè÷åñòâå, â íàäåæäå ïîñëóæèòü â àðìèÿõ Òèìóðà, ïðååìíèêà Õàíà. Ñ òàêèìè âîèíàìè ÿ äîáüþñü ÷åãî óãîäíî!;;x
+EVTDESC60400;A brilliant Turkish mercenary and former slave warrior by the name of Sabuktigin has distinguished himself many times, leading his company of horsemen in battle and raids. My commanders think I should give him a more prominent position.;;;;;;;;;;;Áëåñòÿùèé òþðêñêèé íà¸ìíèê è áûâøèé ðàá, âîèí ïî èìåíè Ñåáóê-Òåãèí, íåîäíîêðàòíî ïðîÿâèë ñåáÿ, âåäÿ ñâîþ êîííèöó â áîé. Ìîè êîìàíäèðû äóìàþò, ÷òî ñëåäóåò ïîæàëîâàòü åìó áîëåå âûñîêèé ïîñò.;;x
+EVTDESC60406;A former Turkish mercenary and slave soldier is on the rise in the land of the Afghans. This Sabuktigin, a zealous man who loathes infidels, seems intent on creating an empire to rival that of the Caliphs of old, as he has just finished crushing [FromFrom.GetTitledName] in a brutal war. Tens of thousands of fierce tribesmen have gathered under his banner!;;;;;;;;;;;Áûâøèé òþðêñêèé íà¸ìíèê è ðàá ñòàíîâèòñÿ âñ¸ ìîãóùåñòâåííåå íà çåìëå àôãàíöåâ. Ýòî Ñåáóê-Òåãèí, íàáîæíûé ÷åëîâåê, êîòîðûé ïðåçèðàåò íåâåðíûõ è ïîëîí ðåøèìîñòè ñîçäàòü èìïåðèþ, ñîïåðíè÷àùóþ ñ ïðåæíèìè õàëèôàòàìè. Îí òîëüêî ÷òî ðàçáèë ïðàâèòåëÿ, èçâåñòíîãî êàê [FromFrom.GetTitledName] â æåñòîêîé âîéíå. È òåïåðü äåñÿòêè òûñÿ÷ ñâèðåïûõ ñîïëåìåííèêîâ âûñòóïèëè ïîä åãî çíàì¸íàìè!;;x
+EVTDESC60500;Word has reached us that an ambitious Khan from beyond the great mountains has set out to unite the clans of the great steppe. It is also said by men who read the stars that this Khan is destined to become the ruler of the world.;;;;;;;;;;;Äî íàñ äîøëè ñëóõè, ÷òî çà áîëüøèìè ãîðàìè åñòü àìáèöèîçíûé õàí, îáúåäèíèâøèé êëàíû âåëèêîé ñòåïè. Ãîâîðÿò, ÷òî çâåçäî÷¸òû ïðåäðåêëè åìó ñóäüáó ïðàâèòåëÿ ìèðà.;;x
+EVTDESC60520;The many Khans of the steppe have been rallied under the same banner. The leader that managed to unite them all is [From.GetFirstName] of [From.PrimaryTitle.GetName]. The people of the steppe now call their leader Genghis Khan, Greatest of Khans, and have set their minds not only on ruling the steppes but to spread throughout the world. Is there anyone who can stop the thundering armies of thousands of hooves?;;;;;;;;;;;"Õàíû ñòåïåé òåïåðü âåäóò ñâîè àðìèè ïîä îäíèì ôëàãîì, ôëàãîì çåìëè, èçâåñòíîé êàê [From.PrimaryTitle.GetName], êîòîðóþ ñìîã îáúåäèíèòü îäèí ÷åëîâåê ïî èìåíè [From.GetFirstName]. Íàðîäû ñòåïåé çîâóò åãî ""×èíãèñõàí"", âåëè÷àéøèé èç õàíîâ, àìáèöèè êîòîðîãî ïðîñòèðàþòñÿ äàëåêî çà ïðåäåëû ñòåïè, íà âåñü íàø ìèð - íàéä¸òñÿ ëè â í¸ì õîòü êòî-íèáóäü, ñïîñîáíûé îñòàíîâèòü ýòè íåñìåòíûå ïîë÷èùà?";;x
+EVTOPTA60000;A fine tale!;;;;;;;;;;;Ñêàçêè!;;x
+EVTOPTA60010;The time has come!;;;;;;;;;;;Âðåìÿ ïðèøëî!;;x
+EVTOPTA60100;Perhaps the stories were true...;;;;;;;;;;;Âîçìîæíî, âñå ýòè èñòîðèè - ïðàâäà...;;x
+EVTOPTA60101;Perhaps their bloodlust has been sated now.;;;;;;;;;;;Âîçìîæíî, îíè óæå óäîâëåòâîðèëè ñâîþ æàæäó êðîâè.;;x
+EVTOPTA60102;They must be stopped!;;;;;;;;;;;Èõ íóæíî îñòàíîâèòü!;;x
+EVTOPTA60103;Barbarians!;;;;;;;;;;;Âàðâàðû!;;x
+EVTOPTA60104;There seems to be no reprieve from these accursed Tartars.;;;;;;;;;;;Ïîõîæå íå áóäåò ïîáëàæåê îò ýòèõ ïðîêëÿòûõ òàòàð.;;x
+EVTOPTA60105;God save us all.;;;;;;;;;;;Áîæå, ñïàñè íàñ.;;x
+EVTOPTA60106;Is this the end of days?;;;;;;;;;;;Ýòî Êîíåö ñâåòà?;;x
+EVTOPTA60107;Surely that can't be true!;;;;;;;;;;;Ýòîãî íå ìîæåò áûòü!;;x
+EVTOPTA60108;May God have mercy on their souls.;;;;;;;;;;;Ïîùàäèò Áîã èõ äóøè.;;x
+EVTOPTA60109;Is there no place beyond their reach?;;;;;;;;;;;Îò íèõ íèãäå íåò ñïàñåíèÿ?;;x
+EVTOPTA60110;Such butchery will not go unpunished.;;;;;;;;;;;Òàêàÿ êðîâîæàäíîñòü íå îñòàíåòñÿ áåçíàêàçàííîé.;;x
+EVTOPTA60111;Have they no regard for culture?;;;;;;;;;;;Èõ ÷òî ñîâñåì íå èíòåðåñóåò êóëüòóðà?;;x
+EVTOPTA60112;There will come a time of reckoning.;;;;;;;;;;;Ïðèä¸ò âðåìÿ ðàñïëàòû.;;x
+EVTOPTA60113;May it be the last city the Tartars take!;;;;;;;;;;;Ìîæåò ýòî ïîñëåäíèé ãîðîä çàâîåâàííûé èìè?;;x
+EVTOPTA60114;This time they have gone too far!;;;;;;;;;;;Íà ýòîò ðàç îíè çàøëè ñëèøêîì äàëåêî!;;x
+EVTOPTA60115;They will be the end of us all!;;;;;;;;;;;Îíè óíè÷òîæàò âñåõ íàñ!;;x
+EVTOPTA60116;Like raging wolves...;;;;;;;;;;;Êàê áåøåíûå âîëêè...;;x
+EVTOPTA60117;May they suffer a thousand deaths for their crimes!;;;;;;;;;;;Ïóñòü çà ýòè çëîäåÿíèÿ èõ íàñòèãíåò òûñÿ÷à ñìåðòåé!;;x
+EVTOPTA60118;Infidels!;;;;;;;;;;;Êàôèðû!;;x
+EVTOPTA60119;May they suffer an eternity of pain!;;;;;;;;;;;Ïóñòü îíè ñòðàäàþò îò âå÷íîé áîëè!;;x
+EVTOPTA60120;Have they no shame?;;;;;;;;;;;Ó íèõ ÷òî? Ñîâñåì íåò ñîâåñòè?;;x
+EVTOPTA60121;Not a single infidel taking part in this affront will escape justice;;;;;;;;;;;Íèêîìó èç ýòèõ îñêâåðíèòåëåé íå èçáåæàòü ïðàâîñóäèÿ!;;x
+EVTOPTA60200;He bears watching...;;;;;;;;;;;Îí íåñ¸ò ñòðàæó...;;x
+EVTOPTA60201;Merv is best!;;;;;;;;;;;Ìåðâ ëó÷øå âñåõ!;;x
+EVTOPTA60204;Saddle my horse!;;;;;;;;;;;Ñåäëàéòå ìîåãî êîíÿ!;;x
+EVTOPTA60205;He will be missed, but I wish him luck!;;;;;;;;;;;Ìíå áóäåò åãî íå õâàòàòü, íî æåëàþ åìó óäà÷è!;;x
+EVTOPTA60206;This is only the beginning!;;;;;;;;;;;Ýòî òîëüêî íà÷àëî!;;x
+EVTOPTA60207;Seljuk would be proud of his heir!;;;;;;;;;;;Ñåëüäæóêè áûëè áû ãîðäû èõ íàñëåäíèêîì!;;x
+EVTOPTA60300;A potential rival?;;;;;;;;;;;Ïîòåíöèàëüíûé ñîïåðíèê?;;x
+EVTOPTA60305;As long as he does not turn on me!;;;;;;;;;;;Äî òåõ ïîð ïîêà îí íå îáðàòèòñÿ ïðîòèâ ìåíÿ!;;x
+EVTOPTA60306;I am Temujin reborn!;;;;;;;;;;;ß ïåðåðîæä¸ííûé Òýìóäæèí!;;x
+EVTOPTA60307;The Iron Khan would be proud!;;;;;;;;;;;Æåëåçíûé Õàí ãîðäèëñÿ áû!;;x
+EVTOPTA60401;Gandhara is best!;;;;;;;;;;;Ãàíäõàðà ëó÷øå âñåõ!;;x
+EVTOPTA60406;Infidels beware!;;;;;;;;;;;Òðåïåùèòå íåâåðíûå!;;x
+EVTOPTA60500;What could those equestrians hope to accomplish?;;;;;;;;;;;Íó ÷òî îïÿòü íóæíî ýòèì êîíåâîäàì?;;x
+EVTOPTA_60520;I truly am great!;;;;;;;;;;;ß âîèñòèíó âåëèê!;;x
+EVTOPTB60001;Allah have mercy on us!;;;;;;;;;;;Àëëàõ, ïîùàäè íàñ!;;x
+EVTOPTB60002;God preserve us!;;;;;;;;;;;Áîã ñîõðàíèò íàñ!;;x
+EVTOPTB60003;Is there no end to these steppe warriors?;;;;;;;;;;;Êîãäà æå ïðèäåò êîíåö ýòèì îðäàì ñòåïíÿêîâ?;;x
+EVTOPTB60010;Allah have mercy on us!;;;;;;;;;;;Àëëàõ äàðóåò íàì ñâîþ ìèëîñòü!;;x
+EVTOPTB60100;They will not come here, Inshallah;;;;;;;;;;;Îíè íå ïðèäóò ñþäà, Èíøàëëà.;;x
+EVTOPTB60101;May the snows of the frozen north claim them;;;;;;;;;;;Ïóñòü ñíåãà ñòóä¸íîãî ñåâåðà çàáåðóò èõ ñåáå.;;x
+EVTOPTB60102;These horsemen know how to fight!;;;;;;;;;;;Ýòè âñàäíèêè çíàþò, êàê ñðàæàòüñÿ!;;x
+EVTOPTB60103;Their walls were not strong enough...;;;;;;;;;;;Èõ ñòåíû íå áûëè äîñòàòî÷íî êðåïêè.;;x
+EVTOPTB60104;Not even the Franks deserve such a fate;;;;;;;;;;;Äàæå ôðàíêè íå çàñëóæèâàþò òàêîé ó÷àñòè.;;x
+EVTOPTB60105;Impressive;;;;;;;;;;;Âïå÷àòëÿþùå.;;x
+EVTOPTB60106;So not even fabled Rome can stand against them;;;;;;;;;;;Çíà÷èò äàæå ëåãåíäàðíûé Ðèì íå ìîæåò ïðîòèâîñòîÿòü èì.;;x
+EVTOPTB60107;A city floating on water?;;;;;;;;;;;Ãîðîä íà âîäå?;;x
+EVTOPTB60108;Ar-Rum is no longer a threat...;;;;;;;;;;;Àð-Ðóì áîëüøå íå ïðåäñòàâëÿåò óãðîçû.;;x
+EVTOPTB60109;Their reach seems unlimited...;;;;;;;;;;;Êàæåòñÿ îíè ìîãóò äîñòèãíóòü ëþáîãî ìåñòà.;;x
+EVTOPTB60110;Disconcerting...;;;;;;;;;;;Ýòî ñáèâàåò ñ òîëêó.;;x
+EVTOPTB60111;A waste, by the Prophet;;;;;;;;;;;Íåîïðàâäàííàÿ óòðàòà, ñîãëàñíî Ïðîðîêó.;;x
+EVTOPTB60112;Is this what we can expect?;;;;;;;;;;;Ýòî òî, ÷òî ñòîèò îæèäàòü íàì?;;x
+EVTOPTB60115;Barbaric;;;;;;;;;;;Êàêîå âàðâàðñòâî.;;x
+EVTOPTB60116;Let us pray the Mongols are swallowed up by the desert now.;;;;;;;;;;;Áóäåì ìîëèòüñÿ, ÷òîáû ìîíãîëîâ ïîãëîòèëà ïóñòûíÿ.;;x
+EVTOPTB60117;It will fall on those of the True Faith to stop the Tartar scourge.;;;;;;;;;;;Äîëã îñòàíîâèòü òàòàðñêîå íàøåñòâèå ëÿæåò íà ïëå÷è áîðöîâ èñòèííîé âåðû.;;x
+EVTOPTB60118;Heathens!;;;;;;;;;;;Äèêàðè!;;x
+EVTOPTB60119;Would that I could follow in Alexander's footsteps...;;;;;;;;;;;Åñëè áû ìîæíî áûëî ïîéòè ïî ñòîïàì Àëåêñàíäðà...;;x
+EVTOPTB60120;But who is left to tax?;;;;;;;;;;;À êòî áóäåò ïëàòèòü íàëîãè?;;x
+EVTOPTB60121;God forbid this scourge continues west...;;;;;;;;;;;Íå äàé Áîã, ýòî íàøåñòâèå ïðîäîëæèò ñâîé ïóòü íà çàïàä.;;x
+EVTOPTB60201;Khorasan seems natural;;;;;;;;;;;Õîðàñàí âûãëÿäèò åñòåñòâåííåå;;x
+EVTOPTB60206;He is a credit to all Turks!;;;;;;;;;;;Îí çàñëóæèë äîâåðèå âñåõ òþðêîâ!;;x
+EVTOPTB60306;He is a credit to all Mongols!;;;;;;;;;;;Îí äåëàåò ÷åñòü âñåì ìîíãîëàì!;;x
+EVTOPTB60401;Multan seems natural;;;;;;;;;;;Ìóëòàí âûãëÿäèò åñòåñòâåííåå.;;x
+EVTOPTB60406;What a troubled region that is...;;;;;;;;;;;Íó ÷òî çà ïðîáëåìíûé ðåãèîí...;;x
+EVTOPTB60500;That should be nothing to worry about.;;;;;;;;;;;Ïðåêðàñíî... Íî ìíå ïëåâàòü.;;x
+EVTOPTB_60520;Something has to be done to stop them!;;;;;;;;;;;Íóæíî îñòàíîâèòü ýòó ÷óìó, ëþáîé öåíîé!;;x
+EVTOPTC60001;The Mahometans had it coming;;;;;;;;;;;Ìàãîìåòàíå ýòî çàñëóæèëè;;x
+EVTOPTC60002;Time for the Infidel to suffer!;;;;;;;;;;;Ïðèøëî âðåìÿ íåâåðíûì ñòðàäàòü;;x
+EVTOPTC60010;God have mercy on us!;;;;;;;;;;;Áîã ìèëîñòèâ ê íàì!;;x
+EVTOPTC60201;Dihistan is rich and weak;;;;;;;;;;;Äèõèñòàí áîãàò è ñëàá;;x
+EVTOPTC60206;Turkish khans come and go...;;;;;;;;;;;Òþðêñêèå õàíû ïðèõîäÿò è óõîäÿò;;x
+EVTOPTC60306;These horselords sure are persistent!;;;;;;;;;;;Ýòè ëîðäû ñòåïåé äîñòàòî÷íî ñòîéêèå!;;x
+EVTOPTC60401;Lahore is rich and weak;;;;;;;;;;;Ëàõîð áîãàò è ñëàá.;;x
+EVTOPTC60500;No-one will rule over our people!;;;;;;;;;;;Íèêòî íå ïîêîðèò íàø ãîðäûé íàðîä!;;x
+EVTOPTC_60520;[From.GetFirstName] truly is the Greatest of Khans!;;;;;;;;;;;[From.GetFirstName] - âåëè÷àéøèé èç õàíîâ!;;x
+EVTOPTD60001;The Mongol gods are strong;;;;;;;;;;;Ìîíãîëüñêèå áîãè ñèëüíû;;x
+EVTOPTD60002;The Mongol gods are strong;;;;;;;;;;;Ìîíãîëüñêèå áîãè ñèëüíû;;x
+EVTOPTD60010;May the Gods save us!;;;;;;;;;;;Áîãè ñïàñóò íàñ!;;x
+EVTOPTD60201;Samarkand first!;;;;;;;;;;;Ñíà÷àëà Ñàìàðêàíä!;;x
+EVTOPTD60401;Bhakkar first!;;;;;;;;;;;Áõàêêàð ïåðâûé!;;x
+EVTOPTE60201;Balkh... yes.;;;;;;;;;;;Áàëõ... äà.;;x

@@ -1,272 +1,264 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC65000;The pressure of commanding a whole unit is killing me. The ones I have to command are lazy good-for-nothing soldiers but I had endured their incompetence until one of them managed to lose my horse's bridle and saddle. That was the last drop, then I...;;;;;;;;;;;;;x
-EVTDESC65001;I have always been bad at diplomacy and I fear I will insult the ambassador when he arrives to talk about a possible alliance between me and his liege.;;;;;;;;;;;;;x
-EVTDESC65002;When [From.GetTitledFirstName] took me aside a couple of days before the ambassador was supposed to arrive and asked me to handle the negotiations, I was not exactly surprised. [From.GetTitledFirstName] has many virtues, but diplomacy is not one of them.;;;;;;;;;;;;;x
-EVTDESC65003;As I have difficulty distinguishing the handle from the blade of a sword, I would rather delegate the troublesome task of handling the troops to my Marshal [Root.job_marshal.GetTitledFirstName].;;;;;;;;;;;;;x
-EVTDESC65004;It feels good that [From.GetTitledFirstName] trusts me enough to delegate the handling of [From.GetHerHis] troops to me.;;;;;;;;;;;;;x
-EVTDESC65005;I have never been one to lurk in the shadows to plot and scheme, to plan assassinations or plant devious rumors about my rivals. I would gladly hand over those tasks to my Spymaster [Root.job_spymaster.GetTitledFirstName].;;;;;;;;;;;;;x
-EVTDESC65006;I have always felt a calling for plots and schemes, assassinations and devious rumors, all those shady activities that almost all participate in but never mentions. When I was entrusted with all this by [From.GetTitledFirstName] it was the happiest moment in my life.;;;;;;;;;;;;;x
-EVTDESC65007;Numbers eludes me, math frustrate me and taxes... don't even talk about taxes. Every time I try to understand and organize the expenses and revenues I get frustrated and feel inadequate.;;;;;;;;;;;;;x
-EVTDESC65008;I hadn't realized how much [From.GetTitledFirstName] had struggled with understanding and organizing the expenses and revenues so when [From.GetTitledFirstName] asked me to take over this task I was more than happy to relieve [From.GetHerHim] of [From.GetHerHis] burden.;;;;;;;;;;;;;x
-EVTDESC65009;The [Root.Religion.GetName] [Root.Religion.GetPriestTitle]s can be a bit irritable and after my latest blunder I feel the need to be extra careful around them. Too bad I cannot really rely on myself when I am stressed to be anything else but blunt.;;;;;;;;;;;;;x
-EVTDESC65010;The more stressed [From.GetTitledFirstName] gets, the more blunt and outspoken [From.GetSheHe] becomes. There have been rumors about what happened the last time the [From.Religion.GetName] [From.Religion.GetPriestTitle]s visited us, and none of us who experienced the awkwardness and rage of [From.GetTitledFirstName] are keen to watch that happen again.;;;;;;;;;;;;;x
-EVTDESC65011;The stress and the frustration inside of me reached boiling point today when something important went fatally wrong. I lashed out in anger to hide my frustration and the anger went straight for the closest person,;;;;;;;;;;;;;x
-EVTDESC65012;The anger in [From.GetFirstName]'s eyes frightened me and as [From.GetSheHe] poured [From.GetHerHis] anger and frustration on me, instead of addressing what really troubled [From.GetHerHim], I stood quietly and let [From.GetFirstName] get it out of [From.GetHerHis] system.;;;;;;;;;;;;;x
-EVTDESC65020;My fosterling is a weakling without any backbone! I would truly feel ashamed of myself if I couldn't do something to make the child less of a coward.;;;;;;;;;;;;;x
-EVTDESC65021;I was bored until I remembered the prisoner in my dungeons. I had so many deliciously cruel ideas as what to do to the prisoner, but I finally narrowed the ideas down to two: slowly reduce the food rationings or release rats in the prisoner's cell.;;;;;;;;;;;;;x
-EVTDESC65022;We were high above the courtyard with courtiers scurrying around looking like ants. I ordered my bow and bow to be brought to me and started shooting at them, laughing at the panic and the looks they threw up at me.;;;;;;;;;;;;;x
-EVTDESC65023;I do not tolerate any cravenness in my court, I despise the scared eyes of one of the courtiers and the way the courtier shy away from me and everything scary. There must be a way to cure the courtier of this cowardness, but how?;;;;;;;;;;;;;x
-EVTDESC65030;Nothing feels good, nothing feels fun nor interesting. I am in the deepest, blackest pit of sorrow and worthlessness, feeling as I will never be able to escape from it and wondering why God makes us feel like this...;;;;;;;;;;;;;x
-EVTDESC65031;The sickness is slowly eating away at me, making me look like a shadow of my former self. No matter what I do, no matter how many physicians I pay to cure me, nothing seems to help.;;;;;;;;;;;;;x
-EVTDESC65032;My God, why have you forsaken me? I have been cursed with a fever, a headache from Hell and now I am coughing blood. I think [Root.Religion.GetRandomGodName] must have decided to punish me for my sins!;;;;;;;;;;;;;x
-EVTDESC65033;Jesus healed people like me, if I just was more devout and truly repented my sins He might heal me too.;;;;;;;;;;;;;x
-EVTDESC65034;The guilt is burning through me, every second is pure agony mixed with shame. I have never felt so guilty, so sinful...;;;;;;;;;;;;;x
-EVTDESC65035;I have written a religious tract which I named Tractatus de Purgatorio Sancti [Root.GetFirstName], about a knight and how he journeyed through Purgatory and the Earthly Paradise. It is a masterpiece and I must share the tract with the world!;;;;;;;;;;;;;x
-EVTDESC65036;I am not lustful, gluttonous, slothful, greedy, envious, proud or wroth. I am and will always be free from sin.;;;;;;;;;;;;;x
-EVTDESC65037;I secretly admire a person who has been celibate for many years now. I am a faithful [Root.Religion.GetName] and I have contemplated becoming celibate, but there has always been something that has hindered me from following that path.;;;;;;;;;;;;;x
-EVTDESC65040;My servants have provided such a fine meal today. There is an enormous amount of fine wine, and the cooking is absolutely great. I will enjoy this feast!;;;;;;;;;;;;;x
-EVTDESC65041;Commanding troops is a demanding task, especially for someone as stressed as I am. There are ways though to relieve this stress, but how will I find solace?;;;;;;;;;;;;;x
-EVTDESC65042;I attended a great party down at the village last night. I do not remember all the details, but I surely must have had a great time at it.;;;;;;;;;;;;;x
-EVTDESC65043;I woke up with a terrible hangover this morning. Now the priest is talking with his boring voice again, and I keep falling asleep here in Church.;;;;;;;;;;;;;x
-EVTDESC65044;It seems that I have embarrassed myself severely in front of my children. This is entirely due to by habit of drinking until I pass out, but I simply can not stop it.;;;;;;;;;;;;;x
-EVTDESC65045;My beloved spouse [Root.Spouse.GetFirstName] has noticed my constant drinking and is deeply concerned. [Root.Spouse.GetSheHeCap] is asking me to stop drinking and become responsible again.;;;;;;;;;;;;;x
-EVTDESC65046;My beloved spouse has saved me from the fate of drunkards. [Root.Religion.GetRandomGodNameCap] bless [Root.Spouse.GetHerHim]!;;;;;;;;;;;;;x
-EVTDESC65047;My husband has dragged me down to his levels, and got me addicted to wine. I wish I had never married him.;;;;;;;;;;;;;x
-EVTDESC65048;The wine makes me such a good speaker. I can truly motivate people, and they become inspired from hearing me talk.;;;;;;;;;;;;;x
-EVTDESC65049;I have wasted enough days in my life as a drunkard. I need to get my life in to better shape.;;;;;;;;;;;;;x
-EVTDESC65050;I seem to drink myself into an early grave. There must be some way to stop drinking.;;;;;;;;;;;;;x
-EVTDESC65051;There is nothing but whine, or wine.. I've lost my mine, my mined mind..;;;;;;;;;;;;;x
-EVTDESC65052;The troops I am commanding thinks I am craven, I haven't shown myself to them for several days because of my illness.;;;;;;;;;;;;;x
-EVTDESC65053;I am soon dead, if not of old age then of this illness. I worry about my sins, will God truly forgive me?;;;;;;;;;;;;;x
-EVTDESC65054;God answered my prayers! I am cured of my illness and can atone for my sins before it is too late.;;;;;;;;;;;;;x
-EVTDESC65055;Why am I sick, [GetFromRelation], is [Root.Religion.GetRandomGodName] punishing me? I haven't done anything wrong, have I?;;;;;;;;;;;;;x
-EVTDESC65056;My [GetFromRelation] [From.GetFirstName] is very sick. [From.GetSheHe] is delirious and have started asking if [Root.Religion.GetRandomGodName] is punishing [From.GetHerHim].;;;;;;;;;;;;;x
-EVTDESC65057;The cold nights of January are strainful for my health...;;;;;;;;;;;;;x
-EVTDESC65060;I haven't grown as much as the other children and people tell me I'm a 'dwarf'. The other children found out and are mocking me, calling me goblin and pretend to be afraid when I come near them...;;;;;;;;;;;;;x
-EVTDESC65061;Despite my small stature, I have gained the respect of my court. Until a Dwarf Troupe appeared at the castle gates and none of them were taller than I...;;;;;;;;;;;;;x
-EVTDESC65065;There's a dwarf at the court and, being the giant of a [Root.GetManWoman] that I am, people has been pestering me to test my strength by tossing the dwarf as far as I can.;;;;;;;;;;;;;x
-EVTDESC65066;Before I knew it, [From.GetTitledFirstName] picked me up and tossed me away! Luckily for me, I landed in a haystack head-first and was not hurt badly although my temper took a bad turn for the worse...;;;;;;;;;;;;;x
-EVTDESC65070;I am usually so careful climbing down the narrow steps, what with my clubfoot making me clumsy and prone to fall down the stairs. Today, I wasn't as cautious as I should've been...;;;;;;;;;;;;;x
-EVTDESC65071;I cannot run around playing with the other children as much as I like because of my clubfoot, and the other children has started making fun of me. They dart towards me, gives me a small push and then run away giggling and shouting 'Catch me if you can!'...;;;;;;;;;;;;;x
-EVTDESC65072;My clubfoot makes it hard for me to use a regular saddle, I need one with a custom-made stirrup that is big enough. Therefore I was much dismayed when someone had misplaced my special stirrup.;;;;;;;;;;;;;x
-EVTDESC65073;The new stirrup seemed to work fine, until my usually steady horse tried to throw me off by bucking and rearing. Finally it succeded, but because of the narrow stirrup my clubfoot got stuck and so I was dragged after the horse several yards before someone grabbed its reins and made it stop.;;;;;;;;;;;;;x
-EVTDESC65074;I fear my clubfoot hinders me from getting married! As I am not as graceful as the other women at court, I'd rather not dance or do anything too exhausting that will cost me my balance and make me a laughing stock.;;;;;;;;;;;;;x
-EVTDESC65080;I am teased for my harelip, the other children tells me my mother must have looked at a hare's split lip when she was pregnant with me and wished for me to look the same.;;;;;;;;;;;;;x
-EVTDESC65081;I was talking to one of my vassals and was interrupted by a courtier. Trying to be courteous, I presented them to each other, only to mispronounce the vassal's name because of my harelip...;;;;;;;;;;;;;x
-EVTDESC65085;I mostly play the monster whenever the other children let me play with them. They say my hunchback makes me the perfect person for the monster part, and even if it hurts when they say that I still get to play with them, and that is usually good enough for me.;;;;;;;;;;;;;x
-EVTDESC65090;Who can love someone like me? The hunch on my back, my ugly face? I pray to [Root.Religion.GetRandomGodName] every chance I get to find me someone to love.;;;;;;;;;;;;;x
-EVTDESC65091;I walked slowly, no thoughts in my mind when someone ran into me from behind. We fell to the ground together and I grabbed the young woman instinctively, ready to defend myself from her scorn. Instead, she looked pleadingly at me and asked me to help her flee from the guards who had harassed her since she arrived in [Root.Location.GetName].;;;;;;;;;;;;;x
-EVTDESC65092;I managed to save Hope, as the young woman's name was, from the guards and we spent the next few days together. She did not seem to notice my hunchback, only the man I am before it. It startled me when I realized I had begun to love her, my Hope in love...;;;;;;;;;;;;;x
-EVTDESC65095;People are laughing at me, saying that my hunchback makes me less of a [Root.GetManWoman]!;;;;;;;;;;;;;x
-EVTDESC65100;The other children ask me to say words, giggles when I try to pronounce them without lisping but always fails and it makes me feel sick to my stomach. Why are they so mean to me?;;;;;;;;;;;;;x
-EVTDESC65101;During my conversation with a vassal I tried to lisp as little as possible, but when a courtier came up to us and wanted me to introduce [Root.GetHerHimOpp] to the vassal I could barely make myself understood when I tried to pronounce the vassal's name.;;;;;;;;;;;;;x
-EVTDESC65102;My lisp sometimes makes it hard for people to understand me, and when I become frustrated the lisp becomes worse, making it even harder to understand me.;;;;;;;;;;;;;x
-EVTDESC65105;The more upset I become, the more I stutter and the other children are well aware of this. Their taunting and pestering makes me sad but I cannot tell them that without stuttering which makes them laugh even more.;;;;;;;;;;;;;x
-EVTDESC65106;I seldom stutter these days, unless I am upset, frustrated or excited. The more I try to force the words to leave my tongue the more I stutter and the more frustrated I get...;;;;;;;;;;;;;x
-EVTDESC65107;I had managed to talk to speak to my vassal for several minutes without stuttering not even once! Then I got stuck on the vassal's name when I was supposed to present him to a courtier, not a word left my tongue. I had to let someone else present him...;;;;;;;;;;;;;x
-EVTDESC65110;tHe otHeR cHildReN aRe MeaN to Me!;;;;;;;;;;;;;x
-EVTDESC65115;I find tasty mud on ground. Eat some. While eat, young girl come to me. She ask, 'Are you stupid or something?';;;;;;;;;;;;;x
-EVTDESC65120;Practise with sword on field today. Noticed hand was red when practise over. Held sword by wrong end whole time! Hahaha.;;;;;;;;;;;;;x
-EVTDESC65125;Horse strange today while riding. Head missing and only moved backwards. Rode this way into [Root.Location.GetName] where stable boy said, face other way, stupid! Did, and found horse head.;;;;;;;;;;;;;x
-EVTDESC65126;Forgot to put on pants this morning. Much shouting, many upset. I not understand.;;;;;;;;;;;;;x
-EVTDESC65130;Today I stumbled upon a painting of the most wretched, hideous creature I had ever laid eyes on. This affront to nature left me chilled to the bone. The crooked teeth, the ears... [Root.GetHerHis] oversized nose alone was enough to make me nauseous! A nearby courtier then asked what I thought of my new portrait.;;;;;;;;;;;;;x
-EVTDESC65135;I learned today that mothers in [Root.Location.GetName] keep their daughters in line by threatening to marry them off to someone as hideous as... I.;;;;;;;;;;;;;x
-EVTDESC65140;Vicious rumors that I am a witch have been spreading in [Root.Location.GetName] due to my... unique appearance. At least my station prevents the peasants from acting on these baseless accusations.;;;;;;;;;;;;;x
-EVTDESC65145;As I grew up, those near me never made it a secret that I was a particularly ugly child. Now, as I am growing into a [Root.GetManWoman], they seem to react differently to my appearance...;;;;;;;;;;;;;x
-EVTDESC65150;Today as I mounted my favorite horse with the help of six stable boys, it let out a strange sigh and collapsed. The stable master claimed the horse was dead, its back broken. He hinted that perhaps it would be best for all concerned if I walk from now on.;;;;;;;;;;;;;x
-EVTDESC65151;Enough is enough. I have decided to eat less and exercise more. Why, I think I can finally see my feet!;;;;;;;;;;;;;x
-EVTDESC65155;I was touring the defenses of [Root.Location.GetName] and as I tried to enter one of the towers, I got stuck in the doorway! I found myself unable to move in either direction and it took the strength of four men to pull me free.;;;;;;;;;;;;;x
-EVTDESC65160;As I strolled through the streets of [Root.Location.GetName], I was approached by the local Coin Purse Inspector. He asked to see my purse, and I duly complied.;;;;;;;;;;;;;x
-EVTDESC65165;The wine from last night did not agree with me, I woke up with a terrible hangover this morning. Now the imam is chanting again, and I keep falling asleep during the sajdah here in the mosque.;;;;;;;;;;;;;x
-EVTDESC65170;You have mastered the art of desert warfare. This difficult terrain provides many obstacles for an army to overcome, but also great opportunities for those who know where to look for them. Your forces will always fight better in the desert.;;;;;;;;;;;;;x
-EVTDESC65171;Forests and hills have become your preferred battleground. Using them to your benefit, you are better able to safely close the distance to your opponents or keep your forces away as the situation dictates. Your troops will gain an important edge in this terrain.;;;;;;;;;;;;;x
-EVTDESC65172;You no longer see fighting in difficult mountainous terrain as a disadvantage, but as an opportunity. The movement of your army is easier to obscure, and your opponents can be funneled towards battlegrounds of your chosing. If battle is joined in the mountains, your army gains an advantage.;;;;;;;;;;;;;x
-EVTDESC65173;Large, open battlefields are where you fight best. When fighting in plains or on farmland, you are better able to array your army for battle and maneuver it to gain an advantage. Forces under your command will perform better in this terrain.;;;;;;;;;;;;;x
-
-EVTOPTA65000;...screamed at them;;;;;;;;;;;;;x
-EVTOPTA65001;I should let my [Root.GetMyChancellorName] [Root.job_chancellor.GetTitledFirstName] take care of it;;;;;;;;;;;;;x
-EVTOPTA65002;I am glad [From.GetTitledFirstName] feels [From.GetSheHe] can entrust me with this!;;;;;;;;;;;;;x
-EVTOPTA65003;I should definitely delegate that task to [Root.job_marshal.GetHerHim];;;;;;;;;;;;;x
-EVTOPTA65004;I will not make [From.GetTitledFirstName] disappointed!;;;;;;;;;;;;;x
-EVTOPTA65005;[Root.job_spymaster.GetTitledFirstName] will make sure all plots will run smooth;;;;;;;;;;;;;x
-EVTOPTA65006;I will plot, I will scheme, and no one will know what hit them;;;;;;;;;;;;;x
-EVTOPTA65007;Steward [Root.job_treasurer.GetFirstName], please help me!;;;;;;;;;;;;;x
-EVTOPTA65008;I will gladly help [From.GetTitledFirstName] with this;;;;;;;;;;;;;x
-EVTOPTA65009;[Root.job_spiritual.GetTitledFirstName] should be able to handle this better than I would;;;;;;;;;;;;;x
-EVTOPTA65010;[From.GetTitledFirstName] asked me to take care of them;;;;;;;;;;;;;x
-EVTOPTA65011;...[Root.Spouse.GetFirstName];;;;;;;;;;;;;x
-EVTOPTA65012;[From.GetFirstName]'s outburst of anger was uncalled for!;;;;;;;;;;;;;x
-EVTOPTA65020;I'll try to beat some sense in the child;;;;;;;;;;;;;x
-EVTOPTA65021;Reduce food rations!;;;;;;;;;;;;;x
-EVTOPTA65022;The next shot will be aimed low;;;;;;;;;;;;;x
-EVTOPTA65023;Maybe if I pretend to push them off the walls?;;;;;;;;;;;;;x
-EVTOPTA65030;I must pray harder;;;;;;;;;;;;;x
-EVTOPTA65031;I should spend a fortnight fasting for my sins;;;;;;;;;;;;;x
-EVTOPTA65032;I should give to the poor for my sins;;;;;;;;;;;;;x
-EVTOPTA65033;Forgive me Father, for I have sinned...;;;;;;;;;;;;;x
-EVTOPTA65034;I ease my guilt with prayer and fasting;;;;;;;;;;;;;x
-EVTOPTA65035;The [Root.Religion.GetName] Church will help spread it!;;;;;;;;;;;;;x
-EVTOPTA65036;I proclaim my lack of sin publicly;;;;;;;;;;;;;x
-EVTOPTA65037;I should ask [target_courtier.GetHerHim] for advice...;;;;;;;;;;;;;x
-EVTOPTA65040;Red red wine....;;;;;;;;;;;;;x
-EVTOPTA65041;Find solace in a bottle of wine;;;;;;;;;;;;;x
-EVTOPTA65042;I know I drank some wine..;;;;;;;;;;;;;x
-EVTOPTA65043;Keep on sleeping;;;;;;;;;;;;;x
-EVTOPTA65044;They will forget it eventually...;;;;;;;;;;;;;x
-EVTOPTA65045;Force [Root.Spouse.GetHerHim] to drink with you;;;;;;;;;;;;;x
-EVTOPTA65046;I am so lucky that I have [Root.Spouse.GetFirstName]..;;;;;;;;;;;;;x
-EVTOPTA65047;Curse him!;;;;;;;;;;;;;x
-EVTOPTA65048;Talk to the commanders.;;;;;;;;;;;;;x
-EVTOPTA65049;Devoting myself to the sword will do it.;;;;;;;;;;;;;x
-EVTOPTA65050;But the wine tastes so good...;;;;;;;;;;;;;x
-EVTOPTA65051;*slobber*;;;;;;;;;;;;;x
-EVTOPTA65052;Keep hiding;;;;;;;;;;;;;x
-EVTOPTA65053;Please give me more time God, I need to reform myself;;;;;;;;;;;;;x
-EVTOPTA65054;Hallelujah!;;;;;;;;;;;;;x
-EVTOPTA65055;God must be punishing me!;;;;;;;;;;;;;x
-EVTOPTA65056;Yes, you are a sinner that deserves it;;;;;;;;;;;;;x
-EVTOPTA65057;If I need to be cured, [Root.Religion.GetRandomGodName] will cure me;;;;;;;;;;;;;x
-EVTOPTA65060;I will give them something to be afraid of!;;;;;;;;;;;;;x
-EVTOPTA65061;I pity them, and refuse to have them perform;;;;;;;;;;;;;x
-EVTOPTA65065;Toss the dwarf;;;;;;;;;;;;;x
-EVTOPTA65066;Are you insane or just an idiot?!;;;;;;;;;;;;;x
-EVTOPTA65070;I landed at the bottom of the steps, badly hurt...;;;;;;;;;;;;;x
-EVTOPTA65071;Next time, my fist will redecorate their faces!;;;;;;;;;;;;;x
-EVTOPTA65072;Punish the stableboys;;;;;;;;;;;;;x
-EVTOPTA65073;It must have looked laughable!;;;;;;;;;;;;;x
-EVTOPTA65074;Despite my clubfoot, I should take any chance to dance!;;;;;;;;;;;;;x
-EVTOPTA65080;That's not true!;;;;;;;;;;;;;x
-EVTOPTA65081;Shamed, I refuse to acknowledge the mispronunciation;;;;;;;;;;;;;x
-EVTOPTA65085;Not today, today I'll show you the real monster!;;;;;;;;;;;;;x
-EVTOPTA65090;[Root.Religion.GetRandomGodNameCap] has forsaken me!;;;;;;;;;;;;;x
-EVTOPTA65091;Of course I'll help you;;;;;;;;;;;;;x
-EVTOPTA65092;This is true love;;;;;;;;;;;;;x
-EVTOPTA65095;Prove them wrong!;;;;;;;;;;;;;x
-EVTOPTA65100;Let me be or else!;;;;;;;;;;;;;x
-EVTOPTA65101;Lisp? Me? No, you must be wrong!;;;;;;;;;;;;;x
-EVTOPTA65102;I won't let this control my life!;;;;;;;;;;;;;x
-EVTOPTA65105;S-s-stop b-bothering me!;;;;;;;;;;;;;x
-EVTOPTA65106;I'll practise and overcome this!;;;;;;;;;;;;;x
-EVTOPTA65107;Of course I did it deliberately!;;;;;;;;;;;;;x
-EVTOPTA65110;stUpid cHildReN...;;;;;;;;;;;;;x
-EVTOPTA65115;I smart. Girl stupid.;;;;;;;;;;;;;x
-EVTOPTA65120;YOW!;;;;;;;;;;;;;x
-EVTOPTA65125;Oops. I done bad...;;;;;;;;;;;;;x
-EVTOPTA65126;Calm down! Simple mistake!;;;;;;;;;;;;;x
-EVTOPTA65130;I need a mirror...;;;;;;;;;;;;;x
-EVTOPTA65135;I should spend more time indoors...;;;;;;;;;;;;;x
-EVTOPTA65140;The wretches will soon find someone uglier to pester.;;;;;;;;;;;;;x
-EVTOPTA65145;An ugly duckling no longer...;;;;;;;;;;;;;x
-EVTOPTA65150;I may have put on some weight...;;;;;;;;;;;;;x
-EVTOPTA65155;What have I become? No more suckling pig for me.;;;;;;;;;;;;;x
-EVTOPTA65160;Wait... that wasn't the Coin Purse Inspector...;;;;;;;;;;;;;x
-EVTOPTA65165;I can't... keep my... eyes... open...;;;;;;;;;;;;;x
-EVTOPTA65170;The sands will swallow my foes.;;;;;;;;;;;;;x
-EVTOPTA65171;The land shall be my greatest ally.;;;;;;;;;;;;;x
-EVTOPTA65172;The very mountains shall be my shield.;;;;;;;;;;;;;x
-EVTOPTA65173;If caught in the open, my foes shall feel my wrath.;;;;;;;;;;;;;x
-
-EVTOPTB65000;...misplaced their food;;;;;;;;;;;;;x
-EVTOPTB65001;No! I am the [Root.GetTitle], I should be able to handle this!;;;;;;;;;;;;;x
-EVTOPTB65003;I should work harder on this;;;;;;;;;;;;;x
-EVTOPTB65005;I shouldn't rely too much on [Root.job_spymaster.GetTitledFirstName];;;;;;;;;;;;;x
-EVTOPTB65007;I will fight the numbers and defeat them!;;;;;;;;;;;;;x
-EVTOPTB65009;I will take care of them myself;;;;;;;;;;;;;x
-EVTOPTB65011;...my heir [Root.Heir.GetFirstName];;;;;;;;;;;;;x
-EVTOPTB65020;I'll put the child out with the wolves;;;;;;;;;;;;;x
-EVTOPTB65021;Release some rats in the prisoner's cell!;;;;;;;;;;;;;x
-EVTOPTB65022;I will aim high this time;;;;;;;;;;;;;x
-EVTOPTB65023;I will scare the courtier in the middle of the night!;;;;;;;;;;;;;x
-EVTOPTB65030;I doubt myself and my faith;;;;;;;;;;;;;x
-EVTOPTB65031;I will continue praying for a cure, or a miracle;;;;;;;;;;;;;x
-EVTOPTB65032;I believe prayers are enough;;;;;;;;;;;;;x
-EVTOPTB65034;Pay church to ease some of my guilt;;;;;;;;;;;;;x
-EVTOPTB65035;I will give it to [Root.Liege.GetTitledFirstName] so [Root.Liege.GetSheHe] can help spread it;;;;;;;;;;;;;x
-EVTOPTB65036;I thank the Lord in private;;;;;;;;;;;;;x
-EVTOPTB65040;Meat.... hmm..  meat...;;;;;;;;;;;;;x
-EVTOPTB65041;Find solace in God.;;;;;;;;;;;;;x
-EVTOPTB65043;This is not proper for a [This.GetTitle];;;;;;;;;;;;;x
-EVTOPTB65045;Ignore [Root.Spouse.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTB65048;Talk to the common soldiers;;;;;;;;;;;;;x
-EVTOPTB65049;Embroidery will take my mind off it.;;;;;;;;;;;;;x
-EVTOPTB65050;I'll ask a priest for some advice.;;;;;;;;;;;;;x
-EVTOPTB65052;Mingle with the troops;;;;;;;;;;;;;x
-EVTOPTB65053;God is punishing me rightly for my sins;;;;;;;;;;;;;x
-EVTOPTB65056;Don't worry, I'll take care of you;;;;;;;;;;;;;x
-EVTOPTB65057;Stay in a warm bed near the fire during the cold nights;;;;;;;;;;;;;x
-EVTOPTB65060;I won't give them the pleasure of seeing me cry...;;;;;;;;;;;;;x
-EVTOPTB65061;I arrest their manager;;;;;;;;;;;;;x
-EVTOPTB65065;Let the dwarf be;;;;;;;;;;;;;x
-EVTOPTB65071;I ignore them, hoping they will tire and go away;;;;;;;;;;;;;x
-EVTOPTB65072;Try to use a regular one;;;;;;;;;;;;;x
-EVTOPTB65074;I ask my father to look for a suitor!;;;;;;;;;;;;;x
-EVTOPTB65080;I ignore them, their words hold no truth;;;;;;;;;;;;;x
-EVTOPTB65081;I ask the vassal to forgive me;;;;;;;;;;;;;x
-EVTOPTB65085;I think I must accept my role...;;;;;;;;;;;;;x
-EVTOPTB65090;I shall pray some more...;;;;;;;;;;;;;x
-EVTOPTB65091;Guards! Here she is!;;;;;;;;;;;;;x
-EVTOPTB65092;But she cannot love someone like me!;;;;;;;;;;;;;x
-EVTOPTB65095;They do not know me, so why should I care?;;;;;;;;;;;;;x
-EVTOPTB65100;I don't want to play with them anymore;;;;;;;;;;;;;x
-EVTOPTB65101;Forgive me, it's the lisp;;;;;;;;;;;;;x
-EVTOPTB65102;I must learn to live with this;;;;;;;;;;;;;x
-EVTOPTB65105;I'll hide from them so they will forget about me;;;;;;;;;;;;;x
-EVTOPTB65106;This is my everyday;;;;;;;;;;;;;x
-EVTOPTB65107;I'm sorry, my stutter sometimes act up...;;;;;;;;;;;;;x
-EVTOPTB65110;i leaVe Now;;;;;;;;;;;;;x
-EVTOPTB65115;Stupid is as stupid does.;;;;;;;;;;;;;x
-EVTOPTB65125;Riding my way better.;;;;;;;;;;;;;x
-EVTOPTB65130;The poor light deceived me. That nose has character!;;;;;;;;;;;;;x
-EVTOPTB65135;They could do worse!;;;;;;;;;;;;;x
-EVTOPTB65140;A pox on them! May they breed ugly, ugly children.;;;;;;;;;;;;;x
-EVTOPTB65150;Nonsense! Find me another horse!;;;;;;;;;;;;;x
-EVTOPTB65155;Was this tower designed for use by children? Expand all doorways!;;;;;;;;;;;;;x
-EVTOPTB65165;Apologise, and pray some more;;;;;;;;;;;;;x
-
-EVTOPTC65011;...one of my councillors;;;;;;;;;;;;;x
-EVTOPTC65035;I will give it to [Root.Host.GetTitledFirstName] so [Root.Host.GetSheHe] can help spread it;;;;;;;;;;;;;x
-EVTOPTC65036;Thank Allah in private;;;;;;;;;;;;;x
-EVTOPTC65037;I will try to emulate [target_courtier.GetHerHim];;;;;;;;;;;;;x
-EVTOPTC65041;Find solace in the camp followers;;;;;;;;;;;;;x
-EVTOPTC65045;Listen to [Root.Spouse.GetHerHis] advice.;;;;;;;;;;;;;x
-EVTOPTC65049;[Root.Religion.GetRandomGodName] will cure me!;;;;;;;;;;;;;x
-EVTOPTC65050;I'll ask an Imam for advice;;;;;;;;;;;;;x
-EVTOPTC65056;Why do you bother me?;;;;;;;;;;;;;x
-EVTOPTC65061;I let them perform, what harm can it do?;;;;;;;;;;;;;x
-EVTOPTC65074;I should be content with what I have;;;;;;;;;;;;;x
-EVTOPTC65081;Pretend that nothing happened;;;;;;;;;;;;;x
-EVTOPTC65090;[Root.Religion.GetRandomGodNameCap] cannot help me, only I can;;;;;;;;;;;;;x
-EVTOPTC65095;Just leave me alone...;;;;;;;;;;;;;x
-EVTOPTC65101;So, where were we?;;;;;;;;;;;;;x
-EVTOPTC65102;I shall pray and hope my lisp disappear;;;;;;;;;;;;;x
-EVTOPTC65106;I shall pray and hope my stutter will disappear;;;;;;;;;;;;;x
-EVTOPTC65107;What? I cannot do everything, can I?;;;;;;;;;;;;;x
-EVTOPTC65155;What have I become? No more steak for me.;;;;;;;;;;;;;x
-
-EVTOPTD65011;...a courtier;;;;;;;;;;;;;x
-EVTOPTD65056;[Root.Religion.GetRandomGodNameCap] will cure you!;;;;;;;;;;;;;x
-
-EVTTOOLTIPA65012;[Root.GetFirstName] directs [Root.GetHerHis] anger against [Root.Spouse.GetFirstName];;;;;;;;;;;;;x
-EVTTOOLTIPB65012;[Root.GetFirstName] directs [Root.GetHerHis] anger against [Root.GetHerHis] heir [Root.Heir.GetFirstName];;;;;;;;;;;;;x
-EVTTOOLTIPC65012;[Root.GetFirstName] directs [Root.GetHerHis] anger against a councillor;;;;;;;;;;;;;x
-EVTTOOLTIPD65012;[Root.GetFirstName] directs [Root.GetHerHis] anger against a courtier;;;;;;;;;;;;;x
-
-EVTTOOLTIP65002;[Root.job_chancellor.GetTitledFirstName] appreciates your trust in [Root.job_chancellor.GetHerHim];;;;;;;;;;;;;x
-EVTTOOLTIP65004;[Root.job_marshal.GetTitledFirstName] appreciates your trust in [Root.job_marshal.GetHerHim];;;;;;;;;;;;;x
-EVTTOOLTIP65006;[Root.job_spymaster.GetTitledFirstName] appreciates your trust in [Root.job_spymaster.GetHerHim];;;;;;;;;;;;;x
-EVTTOOLTIP65008;[Root.job_treasurer.GetTitledFirstName] appreciates your trust in [Root.job_treasurer.GetHerHim];;;;;;;;;;;;;x
-EVTTOOLTIP65010;[This.GetTitledFirstName] appreciates your trust in [This.GetHerHim];;;;;;;;;;;;;x
-EVTTOOLTIP65046;I will stop being a drunkard.;;;;;;;;;;;;;x
-EVTTOOLTIP65047;She will become a drunkard.;;;;;;;;;;;;;x
-EVTTOOLTIP65054;God answers [Root.GetFirstName]'s prayers;;;;;;;;;;;;;x
-EVTTOOLTIP65056;[This.GetTitledFirstName] hears about [Root.GetTitledFirstName]'s illness;;;;;;;;;;;;;x
-EVTTOOLTIP65066;[This.GetTitledFirstName] is tossed by [Root.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTTOOLTIP65073;[This.GetTitledFirstName] falls off [This.GetHerHis] horse;;;;;;;;;;;;;x
-EVTTOOLTIP65091;There's always Hope;;;;;;;;;;;;;x
-EVTTOOLTIP65092;I Hope for love;;;;;;;;;;;;;x
-
+EVTDESC65000;The pressure of commanding a whole unit is killing me. The ones I have to command are lazy good-for-nothing soldiers but I had endured their incompetence until one of them managed to lose my horse's bridle and saddle. That was the last drop, then I...;;;;;;;;;;;Îáÿçàííîñòè êîìàíäóþùåãî ïðîñòî óáèâàþò ìåíÿ. Òå, êåì ÿ êîìàíäóþ, — ëåíèâûå áåçäåëüíèêè, à íå ñîëäàòû è ìíå íàäîåëî ïîñòîÿííî òåðïåòü èõ âûõîäêè. Òàê ÷òî, êîãäà îäèí èç íèõ ïîòåðÿë ñáðóþ ìîåé ëîøàäè, ýòî ñòàëî ïîñëåäíåé êàïëåé è òîãäà ÿ…;;x
+EVTDESC65001;I have always been bad at diplomacy and I fear I will insult the ambassador when he arrives to talk about a possible alliance between me and his liege.;;;;;;;;;;;Äèïëîìàòèÿ - ýòî ÿâíî íå ìî¸ ïðèçâàíèå. Áîþñü, ÷òî ÿ íåíàðîêîì ìîãó îñêîðáèòü ïîñëà, êîãäà îí ïðèáóäåò äëÿ ïåðåãîâîðîâ î âîçìîæíîì ñîþçå ìåæäó ìíîé è åãî ñþçåðåíîì.;;x
+EVTDESC65002;When [From.GetTitledFirstName] took me aside a couple of days before the ambassador was supposed to arrive and asked me to handle the negotiations, I was not exactly surprised. [From.GetTitledFirstName] has many virtues, but diplomacy is not one of them.;;;;;;;;;;;Íåò íè÷åãî óäèâèòåëüíîãî â òîì, ÷òî [From.GetTitledFirstName] ïðîñèò ìåíÿ ïðîâåñòè ïðåäñòîÿùèå ïåðåãîâîðû. Âåäü, õîòÿ [From.GetTitledFirstName] è èìååò ìíîæåñòâî äîñòîèíñòâ, äèïëîìàòèÿ, îïðåäåë¸ííî, íå âõîäèò â èõ ÷èñëî.;;x
+EVTDESC65003;As I have difficulty distinguishing the handle from the blade of a sword, I would rather delegate the troublesome task of handling the troops to my Marshal [Root.job_marshal.GetTitledFirstName].;;;;;;;;;;;ß ñëàáî ïðåäñòàâëÿþ, ñ êàêîé ñòîðîíû áðàòüñÿ çà ìå÷, è ïîýòîìó, ïîæàëóé, ïóñòü êîìàíäîâàíèåì âîéñêàìè çàéì¸òñÿ ìîé [Root.GetMarshalName] - [Root.job_marshal.GetTitledFirstName].;;x
+EVTDESC65004;It feels good that [From.GetTitledFirstName] trusts me enough to delegate the handling of [From.GetHerHis] troops to me.;;;;;;;;;;;[From.GetTitledFirstName] äîñòàòî÷íî äîâåðÿåò ìíå, è ïîýòîìó ïåðåäà¸ò ñâîè âîéñêà ïîä ìî¸ êîìàíäîâàíèå.;;x
+EVTDESC65005;I have never been one to lurk in the shadows to plot and scheme, to plan assassinations or plant devious rumors about my rivals. I would gladly hand over those tasks to my Spymaster [Root.job_spymaster.GetTitledFirstName].;;;;;;;;;;;Ìåíÿ íèêîãäà íå ïðåëüùàëî ñòðîèòü çàãîâîðû è ïëåñòè èíòðèãè, ïëàíèðîâàòü óáèéñòâà è ðàñïóñêàòü äóðíûå ñëóõè î ñâîèõ ñîïåðíèêàõ. Ïóñòü ëó÷øå ýòèì çàéì¸òñÿ ìîé [Root.GetSpymasterName] [Root.job_spymaster.GetTitledFirstName].;;x
+EVTDESC65006;I have always felt a calling for plots and schemes, assassinations and devious rumors, all those shady activities that almost all participate in but never mentions. When I was entrusted with all this by [From.GetTitledFirstName] it was the happiest moment in my life.;;;;;;;;;;;Çàãîâîðû è èíòðèãè, óáèéñòâà è ðàñïóñêàíèå äóðíûõ ñëóõîâ - ýòî, îïðåäåë¸ííî, ìî¸ ïðèçâàíèå. íèêòî â ýòîì íå ïðèçíàåòñÿ, íî ìíîãèå ýòî äåëàþò. Äåíü, êîãäà [From.GetTitledFirstName] äîâåðèë[From.GetEndA] ìíå ýòó ðàáîòó, áûë ëó÷øèì äí¸ì â ìîåé æèçíè.;;x
+EVTDESC65007;Numbers eludes me, math frustrate me and taxes... don't even talk about taxes. Every time I try to understand and organize the expenses and revenues I get frustrated and feel inadequate.;;;;;;;;;;;Öèôðû ïóòàþòñÿ ó ìåíÿ â ãîëîâå, ìàòåìàòèêà ïðèâîäèò ìåíÿ â óíûíèå, à íàëîãè... ëó÷øå äàæå íå óïîìèíàòü î íàëîãàõ. Êàæäûé ðàç, êîãäà ÿ ïûòàþñü ïîíÿòü è íàêîíåö-òî ðàçîáðàòüñÿ ñ äîõîäàìè è ðàñõîäàìè, ÿ ÷óâñòâóþ, ÷òî ïðîñòî ñõîæó ñ óìà.;;x
+EVTDESC65008;I hadn't realized how much [From.GetTitledFirstName] had struggled with understanding and organizing the expenses and revenues so when [From.GetTitledFirstName] asked me to take over this task I was more than happy to relieve [From.GetHerHim] of [From.GetHerHis] burden.;;;;;;;;;;;ß è íå ïðåäñòàâëÿë ñêîëü äîëãî [From.GetTitledFirstName] ïûòàëñÿ ðàçîáðàòüñÿ ñ äîõîäàìè è ðàñõîäàìè, òàê ÷òî êîãäà ìåíÿ ïîïðîñèëè çàíÿòüñÿ ýòèì âîïðîñîì, ÿ áûë áîëåå, ÷åì ñ÷àñòëèâ ïðåäîñòàâèòü ñâîþ ïîìîùü.;;x
+EVTDESC65009;The [Root.Religion.GetName] [Root.Religion.GetPriestTitle]s can be a bit irritable and after my latest blunder I feel the need to be extra careful around them. Too bad I cannot really rely on myself when I am stressed to be anything else but blunt.;;;;;;;;;;;Ñâÿùåííèêè, èñïîâåäóþùèå [Root.GetReligionFullName], ìîãóò áûòü ðàçäðàæåíû è ïîñëå ìîåãî ïîñëåäíåãî ïðîìàõà, â îáùåíèè ñ íèìè íàäî áûòü áîëåå îñìîòðèòåëüíûì. Ê ñîæàëåíèþ, èç-çà ïîñòîÿííîãî ïåðåíàïðÿæåíèÿ ÿ íå âñåãäà ìîãó ñäåðæàòüñÿ, òàê ÷òî âðÿä ëè ó ìåíÿ âûéäåò ÷òî-íèáóäü ïóòíîå.;;x
+EVTDESC65010;The more stressed [From.GetTitledFirstName] gets, the more blunt and outspoken [From.GetSheHe] becomes. There have been rumors about what happened the last time the [From.Religion.GetName] [From.Religion.GetPriestTitle]s visited us, and none of us who experienced the awkwardness and rage of [From.GetTitledFirstName] are keen to watch that happen again.;;;;;;;;;;;Èç-çà ïîñòîÿííîãî ïåðåíàïðÿæåíèÿ [From.GetTitledFirstName] ñòàíîâèòñÿ âñ¸ ãëóïåå è íåîñìîòðèòåëüíåå â ñâî¸ì ïîâåäåíèè. Õîäèëè ðàçíûå ñëóõè î òîì, ÷òî ïðîèçîøëî â ïîñëåäíèé ðàç, êîãäà ñâÿùåííèêè, èñïîâåäóþùèå [From.GetReligionFullName], ïîñåòèëè íàñ... Íèêòî èç íàñ íå æåëàåò, ÷òîáû ýòî ïîâòîðèëîñü âíîâü.;;x
+EVTDESC65011;The stress and the frustration inside of me reached boiling point today when something important went fatally wrong. I lashed out in anger to hide my frustration and the anger went straight for the closest person,;;;;;;;;;;;Ìîè ïåðåíàïðÿæåíèå è ðàçî÷àðîâàíèå ñåãîäíÿ äîñòèãëè òî÷êè êèïåíèÿ, êîãäà íå÷òî âàæíîå ïîøëî ñîâåðøåííî íå òàê. È òîãäà ãíåâ, îáóÿâøèé ìåíÿ, èçëèëñÿ íà ïåðâîãî, êòî ïîïàë ïîä ðóêó. È ýòî -;;x
+EVTDESC65012;The anger in [From.GetFirstName]'s eyes frightened me and as [From.GetSheHe] poured [From.GetHerHis] anger and frustration on me, instead of addressing what really troubled [From.GetHerHim], I stood quietly and let [From.GetFirstName] get it out of [From.GetHerHis] system.;;;;;;;;;;;[From.GetFirstName] ãíåâàåòñÿ íà ìåíÿ áåçî âñÿêîé ïðè÷èíû.;;x
+EVTDESC65020;My fosterling is a weakling without any backbone! I would truly feel ashamed of myself if I couldn't do something to make the child less of a coward.;;;;;;;;;;;Ìîé ïîäîïå÷íûé - áåñõðåáåòíûé ñëèçíÿê! Ìåíÿ áóäóò òåðçàòü ìóêè ñîâåñòè, åñëè ÿ íå ñìîãó ñäåëàòü ýòîãî ðåá¸íêà íåìíîãî õðàáðåå.;;x
+EVTDESC65021;I was bored until I remembered the prisoner in my dungeons. I had so many deliciously cruel ideas as what to do to the prisoner, but I finally narrowed the ideas down to two: slowly reduce the food rationings or release rats in the prisoner's cell.;;;;;;;;;;;ß òîìëþñü îò óæàñíîé ñêóêè, íî, ê ñ÷àñòüþ, âäðóã ÿ âñïîìèíàþ îá óçíèêå â ìî¸ì ïîäçåìåëüå. ×òî áû òàêîãî ñ íèì ñäåëàòü? Ìíîæåñòâî êðîâîæàäíûõ ìûñëåé ïðîíîñÿòñÿ â ìîåé ãîëîâå. Íî, â êîíöå êîíöîâ, ÿ ðåøàþ, ÷òî ñòîèò èëè ïîñòåïåííî óìåíüøàòü ðàöèîí ïèòàíèÿ óçíèêà, èëè çàïóñòèòü êðûñ â åãî êàìåðó.;;x
+EVTDESC65022;We were high above the courtyard with courtiers scurrying around looking like ants. I ordered my bow and bow to be brought to me and started shooting at them, laughing at the panic and the looks they threw up at me.;;;;;;;;;;;Ìû ñòîèì âûñîêî íàä âíóòðåííèì äâîðèêîì è ïðèäâîðíûå, ñíóþùèå ïî íåìó âçàä-âïåð¸ä, âûãëÿäÿò îòñþäà êàê ìóðàâüè. ß ïîäíèìàþ ñâîé ëóê, íàòÿãèâàþ åãî è íà÷èíàþ ñòðåëÿòü ïî ëþäÿì âíèçó, õîõî÷à íàä èõ ïàíèêîé è èñïóãàííûìè âçãëÿäàìè, êîòîðûå îíè áðîñàþò íà ìåíÿ.;;x
+EVTDESC65023;I do not tolerate any cravenness in my court, I despise the scared eyes of one of the courtiers and the way the courtier shy away from me and everything scary. There must be a way to cure the courtier of this cowardness, but how?;;;;;;;;;;;ß íå ïîòåðïëþ òðóñîâ ïðè ìî¸ì äâîðå. ß ïðåçèðàþ îäíîãî èç ïðèäâîðíûõ: åãî èñïóãàííûé âçãëÿä, ïðèâû÷êó ïîñòîÿííî èçáåãàòü ìåíÿ è åãî ìàëîäóøíîå ïîâåäåíèå. Äîëæåí áûòü ñïîñîá âûøèáèòü òðóñîñòü èç ýòîãî ñëþíòÿÿ. Íî, êàê ýòî ñäåëàòü?;;x
+EVTDESC65030;Nothing feels good, nothing feels fun nor interesting. I am in the deepest, blackest pit of sorrow and worthlessness, feeling as I will never be able to escape from it and wondering why God makes us feel like this...;;;;;;;;;;;ß îò÷àÿëñÿ è ïîëíîñòüþ óòðàòèë èíòåðåñ ê âåñåëüþ. ß âñ¸ áîëüøå è áîëüøå ïîãðóæàþñü â ãëóáîêóþ ÷¸ðíóþ áåçäíó îò÷àÿíèÿ è íèê÷åìíîñòè, ÷óâñòâóÿ, ÷òî íèêîãäà íå ñìîãó âûáðàòüñÿ èç íå¸. È âñ¸ âðåìÿ ñïðàøèâàþ ñåáÿ, ïî÷åìó Áîã ñîçäàë íàñ òàêèìè…;;x
+EVTDESC65031;The sickness is slowly eating away at me, making me look like a shadow of my former self. No matter what I do, no matter how many physicians I pay to cure me, nothing seems to help.;;;;;;;;;;;Áîëåçíü ìåäëåííî ðàçúåäàåò ìåíÿ è ïîñòåïåííî çàáèðàåò ìîè ñèëû. Íåâàæíî, ÷òî ÿ äåëàþ, íåâàæíî, êàê ìíîãî âðà÷åé ïûòàþòñÿ ïîìî÷ü... Ìíå êàæåòñÿ, ÷òî äëÿ ìåíÿ âñ¸ óæå êîí÷åíî.;;x
+EVTDESC65032;My God, why have you forsaken me? I have been cursed with a fever, a headache from Hell and now I am coughing blood. I think [Root.Religion.GetRandomGodName] must have decided to punish me for my sins!;;;;;;;;;;;Áîæå, ïî÷åìó òû îñòàâèë ìåíÿ? ß ìó÷àþñü, ñòðàäàþ îò ëèõîðàäêè, àäñêàÿ áîëü òåðçàåò ìîþ ãîëîâó, à òåïåðü ÿ êàøëÿþ êðîâüþ. Äóìàþ ýòî íàêàçàíèå çà ìîè ãðåõè!;;x
+EVTDESC65033;Jesus healed people like me, if I just was more devout and truly repented my sins He might heal me too.;;;;;;;;;;;Áîã èñöåëÿë è íå òàêèõ ãðåøíèêîâ, êàê ÿ. Åñëè ÿ áóäó áîëüøå ìîëèòüñÿ è èñêðåííå ðàñêàþñü â ñâîèõ ãðåõàõ, Îí èñöåëèò è ìåíÿ.;;x
+EVTDESC65034;The guilt is burning through me, every second is pure agony mixed with shame. I have never felt so guilty, so sinful...;;;;;;;;;;;×óâñòâî âèíû ãíåò¸ò ìåíÿ èçíóòðè, êàæäàÿ ñåêóíäà ìîåãî ñóùåñòâîâàíèÿ ýòî àãîíèÿ, ñìåøàííàÿ ñ ïîçîðîì. Íà ìíå ëåæèò îãðîìíîå áðåìÿ ãðåõîâ…;;x
+EVTDESC65035;I have written a religious tract which I named Tractatus de Purgatorio Sancti [Root.GetFirstName], about a knight and how he journeyed through Purgatory and the Earthly Paradise. It is a masterpiece and I must share the tract with the world!;;;;;;;;;;;"Èç-ïîä ìîåãî ïåðà âûøåë ðåëèãèîçíûé òðàêòàò, ïîä íàçâàíèåì ""Òðàêòàò î ÷èñòèëèùå Ñâÿòîãî Ïàòðèêà"". Â ýòîé ðóêîïèñè ðàññêàçûâàåòñÿ î ðûöàðå, ïóòåøåñòâóþùåì ÷åðåç ×èñòèëèùå è Çåìíîé Ðàé. Ýòî - øåäåâð, è ìíå íåîáõîäèìî ïîäåëèòüñÿ èì ñî âñåì ìèðîì!";;x
+EVTDESC65036;I am not lustful, gluttonous, slothful, greedy, envious, proud or wroth. I am and will always be free from sin.;;;;;;;;;;;Ìíå ÷óæäû ïîõîòü, îáæîðñòâî, ëåíü, æàäíîñòü, çàâèñòü, ãîðäûíÿ è ãíåâ. Îòíûíå ãðåõè íå âëàñòíû íàäî ìíîé.;;x
+EVTDESC65037;I secretly admire a person who has been celibate for many years now. I am a faithful [Root.Religion.GetName] and I have contemplated becoming celibate, but there has always been something that has hindered me from following that path.;;;;;;;;;;;ß òàéíî âîñõèùàþñü ÷åëîâåêîì, êîòîðûé ñîáëþäàë öåëèáàò â òå÷åíèè ìíîãèõ ëåò. ß èñòèííûé ïîñëåäîâàòåëü [Root.GetReligionNameGEN] è ÿ ïîñòîÿííî äóìàþ î òîì, ÷òîáû ïðèíÿòü îáåò áåçáðà÷èÿ, íî âñåãäà áûëî ÷òî-òî, íå äàâàâøåå ìíå ïîñëåäîâàòü ïî ýòîìó ïóòè.;;x
+EVTDESC65040;My servants have provided such a fine meal today. There is an enormous amount of fine wine, and the cooking is absolutely great. I will enjoy this feast!;;;;;;;;;;;Ñåãîäíÿ ñëóãè ïðèãîòîâèëè ìíå ÷óäåñíóþ òðàïåçó. Ìíîãî îòëè÷íîãî âèíà è èçûñêàííûå êóøàíüÿ. ß áóäó íàñëàæäàòüñÿ ýòèì ïèðîì!;;x
+EVTDESC65041;Commanding troops is a demanding task, especially for someone as stressed as I am. There are ways though to relieve this stress, but how will I find solace?;;;;;;;;;;;Êîìàíäîâàíèå âîéñêàìè - ñëîæíàÿ çàäà÷à. Îñîáåííî äëÿ òîãî, êòî ïîñòîÿííî íàõîäèòñÿ â íåðâíîì ïåðåíàïðÿæåíèè, êàê ÿ. Äîëæåí áûòü ñïîñîá âûïóñòèòü ïàð, íî êàê?;;x
+EVTDESC65042;I attended a great party down at the village last night. I do not remember all the details, but I surely must have had a great time at it.;;;;;;;;;;;Ïðîøëîé íî÷üþ â ñîñåäíåé äåðåâíå áûë âåñ¸ëûé ïðàçäíèê. Òàê êàê ÿ íå ïîìíþ âñåõ â÷åðàøíèõ ïîäðîáíîñòåé, íåñîìíåííî, òàì áûëî çäîðîâî.;;x
+EVTDESC65043;I woke up with a terrible hangover this morning. Now the priest is talking with his boring voice again, and I keep falling asleep here in Church.;;;;;;;;;;;Óòðåííåå ïðîáóæäåíèå ñ ïîõìåëüÿ áûëî óæàñíûì. È âîò òåïåðü ñâÿùåííèê ÷òî-òî áóáíèò ñâîèì ñêó÷íûì ãîëîñîì, è ÿ çàñûïàþ ïðÿìî â öåðêâè.;;x
+EVTDESC65044;It seems that I have embarrassed myself severely in front of my children. This is entirely due to by habit of drinking until I pass out, but I simply can not stop it.;;;;;;;;;;;Êàæåòñÿ, ìíå áûëî óæàñíî ñòûäíî ïåðåä ñâîèìè äåòüìè. Ýòî âñå ñâÿçàíî ñ ìîåé ïðèâû÷êîé íàïèâàòüñÿ äî áåññîçíàòåëüíîãî ñîñòîÿíèÿ, íî ÿ ïðîñòî íåñïîñîáåí îñòàíîâèòüñÿ.;;x
+EVTDESC65045;My beloved spouse [Root.Spouse.GetFirstName] has noticed my constant drinking and is deeply concerned. [Root.Spouse.GetSheHeCap] is asking me to stop drinking and become responsible again.;;;;;;;;;;;Ìîÿ ëþáèìàÿ ñóïðóãà [Root.Spouse.GetFirstName] óçíàëà î ìî¸ì ïîñòîÿííîì ïüÿíñòâå è ñèëüíî îáåñïîêîèëàñü ýòèì. Îíà ïîïðîñèëà ìåíÿ ïðåêðàòèòü ïèòü è âçÿòü íà ñåáÿ îòâåòñòâåííîñòü çà ñâîè ïîñòóïêè.;;x
+EVTDESC65046;My beloved spouse has saved me from the fate of drunkards. [Root.Religion.GetRandomGodNameCap] bless [Root.Spouse.GetHerHim]!;;;;;;;;;;;Ëþáîâü âñåé ìîåé æèçíè ñïàñàåò ìåíÿ îò ó÷àñòè ïüÿíèöû. Áëàãîñëîâè [Root.Spouse.GetHersHis], [Root.Religion.GetRandomGodNameCap]!;;x
+EVTDESC65047;My husband has dragged me down to his levels, and got me addicted to wine. I wish I had never married him.;;;;;;;;;;;Ìîé ìóæ ïðèñòðàñòèë ìåíÿ ê âèíó. Êàê æàëü, ÷òî ÿ âûøëà çà íåãî çàìóæ.;;x
+EVTDESC65048;The wine makes me such a good speaker. I can truly motivate people, and they become inspired from hearing me talk.;;;;;;;;;;;Âèíî äåëàåò ìåíÿ òàêèì õîðîøèì îðàòîðîì. ß äåéñòâèòåëüíî ìîãó âîîäóøåâëÿòü ëþäåé ñâîèìè ðå÷àìè.;;x
+EVTDESC65049;I have wasted enough days in my life as a drunkard. I need to get my life in to better shape.;;;;;;;;;;;Õâàòèò ïüÿíñòâîâàòü. Íóæíî èçìåíèòüñÿ è ïåðåñòàòü ïèòü.;;x
+EVTDESC65050;I seem to drink myself into an early grave. There must be some way to stop drinking.;;;;;;;;;;;ß äóìàþ, ÷òî âûïèâêà ñêîðî ñâåä¸ò ìåíÿ â ìîãèëó. Äîëæåí áûòü êàêîé-òî ñïîñîá áðîñèòü ïèòü…;;x
+EVTDESC65051;There is nothing but whine, or wine.. I've lost my mine, my mined mind..;;;;;;;;;;;Íåò íè÷åãî êðîìå âåíà, âèíà, èëè êàê åãî òàì… Êàæåòñÿ, ÿ óæå òåðÿþ ðàññóäîê...;;x
+EVTDESC65052;The troops I am commanding thinks I am craven, I haven't shown myself to them for several days because of my illness.;;;;;;;;;;;Â âîéñêàõ, êîòîðûìè ÿ êîìàíäóþ, ïîëàãàþò ÷òî ÿ - òðóñ, òàê êàê ÿ íå ïîêàçûâàëñÿ ïåðåä ñîëäàòàìè óæå íåñêîëüêî äíåé èç-çà ñâîåé áîëåçíè.;;x
+EVTDESC65053;I am soon dead, if not of old age then of this illness. I worry about my sins, will God truly forgive me?;;;;;;;;;;;ß âñêîðå óìðó, åñëè íå èç-çà ñòàðîñòè, òàê âñëåäñòâèå áîëåçíè. ß áåñïîêîþñü èç-çà ñâîèõ ãðåõîâ. Äåéñòâèòåëüíî ëè Áîã ïðîñòèò ìåíÿ?;;x
+EVTDESC65054;God answered my prayers! I am cured of my illness and can atone for my sins before it is too late.;;;;;;;;;;;Áîã îòâåòèë íà ìîè ìîëèòâû, èñöåëèë ìåíÿ è òåïåðü ÿ ìîãó èñêóïèòü ñâîè ãðåõè, ïîêà åù¸ íå ñëèøêîì ïîçäíî.;;x
+EVTDESC65055;Why am I sick, [GetFromRelation], is [Root.Religion.GetRandomGodName] punishing me? I haven't done anything wrong, have I?;;;;;;;;;;;Ïî÷åìó ìíå òàê íåçäîðîâèòñÿ, [From.GetRootRelation], ýòî [Root.Religion.GetRandomGodName] íàêàçûâàåò ìåíÿ? Ìíîé íå ñäåëàëàíî íè÷åãî ïëîõîãî, íå òàê ëè?;;x
+EVTDESC65056;My [GetFromRelation] [From.GetFirstName] is very sick. [From.GetSheHe] is delirious and have started asking if [Root.Religion.GetRandomGodName] is punishing [From.GetHerHim].;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] ñèëüíî áîëååò. [From.GetSheHe] áðåäèò è ñïðàøèâàåò, íå íàêàçûâàåò ëè [From.GetHersHis] [Root.Religion.GetRandomGodName].;;x
+EVTDESC65057;The cold nights of January are strainful for my health...;;;;;;;;;;;Õîëîäíûå ÿíâàðñêèå íî÷è ïîäòà÷èâàþò ìî¸ çäîðîâüå...;;x
+EVTDESC65060;I haven't grown as much as the other children and people tell me I'm a 'dwarf'. The other children found out and are mocking me, calling me goblin and pretend to be afraid when I come near them...;;;;;;;;;;;"ß íå ðàñòó, êàê äðóãèå äåòè, è ëþäè ãîâîðÿò ìíå, ÷òî ÿ - ""êàðëèê"". Äðóãèå ðåáÿòà ñìåþòñÿ íàäî ìíîé, íàçûâàþò ãîáëèíîì è äåëàþò âèä, ÷òî ïóãàþòñÿ, êîãäà ÿ ïðèáëèæàþñü ê íèì… Ìåíÿ ïðåñëåäóåò èõ ñìåõ.";;x
+EVTDESC65061;Despite my small stature, I have gained the respect of my court. Until a Dwarf Troupe appeared at the castle gates and none of them were taller than I...;;;;;;;;;;;Íåñìîòðÿ íà ñâîé ìàëåíüêèé ðîñò, ìíå óäàëîñü äîáèòüñÿ óâàæåíèÿ ñâîåãî äâîðà. Íî òîëüêî äî òåõ ïîð, ïîêà ó âîðîò [Root.GetCapitalBuildingGEN] íå ïîÿâèëàñü òðóïïà êàðëèêîâ, íè îäèí èç êîòîðûõ íå áûë âûøå ìåíÿ...;;x
+EVTDESC65065;There's a dwarf at the court and, being the giant of a [Root.GetManWoman] that I am, people has been pestering me to test my strength by tossing the dwarf as far as I can.;;;;;;;;;;;Ó íàñ ïðè äâîðå æèâåò êàðëèê, è, îáëàäàÿ ãèãàíòñêèì òåëîñëîæåíèåì, ÿ ñòàëêèâàþñü ñ òåì, ÷òî ëþäè óãîâàðèâàþò ìåíÿ ïðîâåðèòü ñâîè ñèëû, øâûðíóâ ýòîãî êàðëèêà òàê äàëåêî, êàê òîëüêî ñìîãó.;;x
+EVTDESC65066;Before I knew it, [From.GetTitledFirstName] picked me up and tossed me away! Luckily for me, I landed in a haystack head-first and was not hurt badly although my temper took a bad turn for the worse...;;;;;;;;;;;Íå óñïåë[Root.GetEndA] ÿ ÷òî-ëèáî ïîíÿòü, êàê [From.GetTitledFirstName] óæå ïîäõâàòèë[From.GetEndA] ìåíÿ è øâûðíóë[From.GetEndA] èçî âñåõ ñèë! Ê ñ÷àñòüþ äëÿ ìåíÿ, ÿ ïðèçåìëè[Root.GetLasLsya] â ñòîã ñåíà ãîëîâîé âïåð¸ä, íå ïîðàíèâøèñü. Íåñìîòðÿ íà ýòî, ìî¸ íàñòðîåíèå èñïîð÷åíî...;;x
+EVTDESC65070;I am usually so careful climbing down the narrow steps, what with my clubfoot making me clumsy and prone to fall down the stairs. Today, I wasn't as cautious as I should've been...;;;;;;;;;;;Êîñîëàïîñòü ïðèäà¸ò ìíå æóòêóþ íåóêëþæåñòü, ïîýòîìó îáû÷íî ÿ ñïóñêàþñü ïî óçêîé ëåñòíèöå î÷åíü àêêóðàòíî. Ñåãîäíÿ àêêóðàòíîñòè íå õâàòèëî...;;x
+EVTDESC65071;I cannot run around playing with the other children as much as I like because of my clubfoot, and the other children has started making fun of me. They dart towards me, gives me a small push and then run away giggling and shouting 'Catch me if you can!'...;;;;;;;;;;;"Èç-çà êîñîëàïîñòè ÿ íå ìîãó áåãàòü è èãðàòü ñ äðóãèìè äåòüìè ñòîëüêî, ñêîëüêî ìíå õîòåëîñü áû, à äðóãèå äåòè, ê òîìó æå, íà÷àëè èçäåâàòüñÿ íàäî ìíîé. Îíè ðâàíóëè êî ìíå, äàëè ïèíêà è óáåæàëè, õîõî÷à è êðè÷à - ""Äîãîíè, åñëè ñìîæåøü!"".";;x
+EVTDESC65072;My clubfoot makes it hard for me to use a regular saddle, I need one with a custom-made stirrup that is big enough. Therefore I was much dismayed when someone had misplaced my special stirrup.;;;;;;;;;;;Èç-çà êîñîëàïîñòè ìíå òÿæåëî èñïîëüçîâàòü îáû÷íîå ñåäëî. Ìíå íóæíî ñåäëî ñî ñïåöèàëüíî èçãîòîâëåííûì ñòðåìåíåì, êîòîðîå äîñòàòî÷íî âåëèêî. Èìåííî ïîýòîìó ìíå ñòàëî íå ïî ñåáå ïðè âèäå òîãî, ÷òî êòî-òî ïåðåïóòàë ìîè ñïåöèàëüíûå ñòðåìåíà ñ îáû÷íûìè.;;x
+EVTDESC65073;The new stirrup seemed to work fine, until my usually steady horse tried to throw me off by bucking and rearing. Finally it succeded, but because of the narrow stirrup my clubfoot got stuck and so I was dragged after the horse several yards before someone grabbed its reins and made it stop.;;;;;;;;;;;Ïîíà÷àëó êàçàëîñü, ÷òî âñ¸ áûëî âïîëíå íîðìàëüíî è ñ íîâûìè ñòðåìåíàìè, íî òîëüêî äî òåõ ïîð, ïîêà ìîÿ ëîøàäü, êîòîðàÿ îáû÷íî âåä¸ò ñåáÿ ñïîêîéíî, íå ïîïûòàëàñü ñáðîñèòü ìåíÿ, âñòàâ íà äûáû è ïîïÿòèâøèñü íàçàä. Â êîíöå êîíöîâ åé ýòî óäàëîñü, íî èç-çà óçêîãî ñòðåìåíè ìîÿ íîãà çàñòðÿëà, è ìåíÿ ïðîòàùèëî çà ëîøàäüþ åù¸ íåñêîëüêî ÿðäîâ, ïîêà êòî-òî íå ñõâàòèë ïîâîäüÿ è íå îñòàíîâèë âçáåñèâøååñÿ æèâîòíîå.;;x
+EVTDESC65074;I fear my clubfoot hinders me from getting married! As I am not as graceful as the other women at court, I'd rather not dance or do anything too exhausting that will cost me my balance and make me a laughing stock.;;;;;;;;;;;ß áîþñü, ÷òî ìîÿ êîñîëàïîñòü ïîìåøàåò ìíå [Root.GetToMarry]! ß íå òàê ãðàöèîç[Root.GetNaEn] êàê äðóãèå [Root.GetManWoman]û äâîðà. Ëó÷øå ÿ íå áóäó òàíöåâàòü èëè äåëàòü ÷òî-ëèáî ñëèøêîì èçíóðèòåëüíîå, èíà÷å ÿ óïàäó, è ýòî ñäåëàåò èç ìåíÿ ïîñìåøèùå.;;x
+EVTDESC65080;I am teased for my harelip, the other children tells me my mother must have looked at a hare's split lip when she was pregnant with me and wished for me to look the same.;;;;;;;;;;;Ìåíÿ äðàçíÿò èç-çà çàÿ÷üåé ãóáû. Äåòè ñêàçàëè ìíå, ÷òî ìîÿ ìàòü óâèäåëà êðîëèêà, êîãäà áûëà áåðåìåííà.;;x
+EVTDESC65081;I was talking to one of my vassals and was interrupted by a courtier. Trying to be courteous, I presented them to each other, only to mispronounce the vassal's name because of my harelip...;;;;;;;;;;;Ïðèäâîðíûé ïðåðâàë ìîé ðàçãîâîð ñ âàññàëîì. Ñòàðàÿñü áûòü âåæëèâûì, ïðåäñòàâëÿÿ èõ äðóã äðóãó, ìíå íå óäàëîñü ïðàâèëüíî ïðîèçíåñòè åãî èìÿ èç-çà çàÿ÷üåé ãóáû...;;x
+EVTDESC65085;I mostly play the monster whenever the other children let me play with them. They say my hunchback makes me the perfect person for the monster part, and even if it hurts when they say that I still get to play with them, and that is usually good enough for me.;;;;;;;;;;;ß îáû÷íî èçîáðàæàþ ìîíñòðà, êîãäà äðóãèå äåòè ïîçâîëÿþò ìíå ïîèãðàòü ñ íèìè. Îíè ãîâîðÿò, ÷òî èç-çà ñâîåãî ãîðáà ÿ îòëè÷íî ïîäõîæó íà ýòó ðîëü. È äàæå, åñëè ýòè ñëîâà ïðè÷èíÿþò ìíå áîëü, ÿ âñ¸ ðàâíî èãðàþ ñ íèìè. Ýòî, êàê ïðàâèëî, óñòðàèâàåò ìåíÿ.;;x
+EVTDESC65090;Who can love someone like me? The hunch on my back, my ugly face? I pray to [Root.Religion.GetRandomGodName] every chance I get to find me someone to love.;;;;;;;;;;;Êòî âîîáùå ìîæåò ïîëþáèòü êîãî-òî, ïîõîæåãî íà ìåíÿ? Ýòîò ãîðá, ýòî óðîäëèâîå ëèöî? [Root.Religion.GetHighGodName], ïðîøó, íàéäè êîãî-íèáóäü, êòî ïîëþáèò ìåíÿ.;;x
+EVTDESC65091;I walked slowly, no thoughts in my mind when someone ran into me from behind. We fell to the ground together and I grabbed the young woman instinctively, ready to defend myself from her scorn. Instead, she looked pleadingly at me and asked me to help her flee from the guards who had harassed her since she arrived in [Root.Location.GetName].;;;;;;;;;;;Ïîêà ÿ ìåäëåííî ø[Root.GetLaYol] ïî êîðèäîðó, êòî-òî âðåçàëñÿ â ìåíÿ ñçàäè. Ìû âìåñòå óïàëè íà çåìëþ è ÿ èíñòèíêòèâíî ñõâàòèë[Root.GetEndA] ìîëîä[Root.GetUyuOgoOpp] äåâóøêó, ïðèãîòîâèâøèñü çàùèùàòüñÿ îò íàñìåøåê. Íî âìåñòî ýòîãî [Root.GetSheHeOpp] óìîëÿþùå ïîñìîòðåë[Root.GetEndAOpp] íà ìåíÿ è ïîïðîñèë[Root.GetEndAOpp] ïîìî÷ü ñêðûòüñÿ îò ñòðàæè, êîòîðàÿ ïðåñëåäóåò [Root.GetHersHisOpp] ñ òåõ ïîð, êàê [Root.GetSheHeOpp] ïðèáûë[Root.GetEndAOpp] â îêðóã [Root.Location.GetName].;;x
+EVTDESC65092;I managed to save Hope, as the young woman's name was, from the guards and we spent the next few days together. She did not seem to notice my hunchback, only the man I am before it. It startled me when I realized I had begun to love her, my Hope in love...;;;;;;;;;;;Ìíå óäàëîñü ñïàñòè Íàäåæäó, èìåííî òàê íàçâàëà ñåáÿ äåâóøêà, îò ñòðàæè è ìû ïðîâåëè ñëåäóþùèå íåñêîëüêî äíåé âìåñòå. Êàçàëîñü, [Root.GetSheHeOpp] íå çàìå÷àåò ìîåãî ãîðáà, âèäÿ âî ìíå ëèøü [Root.GetManWoman]ó. ß íåìíîãî èñïóãà[Root.GetLasLsya], êîãäà ïîíÿë[Root.GetEndA], ÷òî äåéñòâèòåëüíî âëþáè[Root.GetLasLsya] â íå¸, â ìîþ Íàäåæäó íà ëþáîâü...;;x
+EVTDESC65095;People are laughing at me, saying that my hunchback makes me less of a [Root.GetManWoman]!;;;;;;;;;;;Ëþäè ñìåþòñÿ íàäî ìíîé è ãîâîðÿò, ÷òî ìîé ãîðá äåëàåò ìåíÿ íè÷òîæíåéøèì èç ëþäåé!;;x
+EVTDESC65100;The other children ask me to say words, giggles when I try to pronounce them without lisping but always fails and it makes me feel sick to my stomach. Why are they so mean to me?;;;;;;;;;;;Äðóãèå äåòè ïðîñÿò ìåíÿ ñêàçàòü ÷òî-íèáóäü è õèõèêàþò, êîãäà ÿ ïûòàþñü ñäåëàòü ýòî íå øåïåëÿâÿ. Ó ìåíÿ íèêîãäà íå ïîëó÷àåòñÿ, è èç-çà ýòîãî íà÷èíàåò áîëåòü æèâîò. Ïî÷åìó ýòî âîîáùå ìåíÿ âîëíóåò?;;x
+EVTDESC65101;During my conversation with a vassal I tried to lisp as little as possible, but when a courtier came up to us and wanted me to introduce [Root.GetHerHimOpp] to the vassal I could barely make myself understood when I tried to pronounce the vassal's name.;;;;;;;;;;;Âî âðåìÿ ìîåãî ðàçãîâîðà ñ âàññàëîì, ÿ ïîïûòà[Root.GetLasLsya] øåïåëÿâèòü êàê ìîæíî ìåíüøå, íî êîãäà âîø¸ë ïðèäâîðíûé è ìíå íóæíî áûëî ïðåäñòàâèòü èõ äðóã äðóãó, ÿ ïîíÿë[Root.GetEndA], ÷òî ïðîèçíîøó íà ñàìîì äåëå.;;x
+EVTDESC65102;My lisp sometimes makes it hard for people to understand me, and when I become frustrated the lisp becomes worse, making it even harder to understand me.;;;;;;;;;;;Èíîãäà ëþäÿì ñëîæíî ïîíÿòü ìåíÿ èç-çà øåïåëÿâîñòè, íî êîãäà ÿ ðàññòðàèâàþñü, øåïåëÿâîñòü ëèøü óñèëèâàåòñÿ, èç-çà ÷åãî ìåíÿ åù¸ ñëîæíåå ïîíÿòü.;;x
+EVTDESC65105;The more upset I become, the more I stutter and the other children are well aware of this. Their taunting and pestering makes me sad but I cannot tell them that without stuttering which makes them laugh even more.;;;;;;;;;;;×åì ñèëüíåå ÿ îãîð÷àþñü, òåì áîëüøå çàèêàþñü, è äðóãèå äåòè õîðîøî îá ýòîì îñâåäîìëåíû. ß ðàññòðàèâàþñü èç-çà òîãî, ÷òî îíè äðàçíÿò ìåíÿ è èçâîäÿò íàñìåøêàìè, íî ÿ íå ìîãó ñêàçàòü èì îá ýòîì, íå çàèêàÿñü, ÷òî âåñåëèò èõ åù¸ ñèëüíåå.;;x
+EVTDESC65106;I seldom stutter these days, unless I am upset, frustrated or excited. The more I try to force the words to leave my tongue the more I stutter and the more frustrated I get...;;;;;;;;;;;Â ïîñëåäíèå äíè ÿ ìàëî çàèêàþñü, íî òîëüêî äî òåõ ïîð, ïîêà ÿ íå ðàññòðîþñü èëè ðàçâîëíóþñü. ×åì óïîðíåå ÿ ïûòàþñü çàñòàâèòü ñåáÿ ïðîèçíåñòè ñëîâà ïðàâèëüíî, òåì ñèëüíåå ÿ çàèêàþñü.;;x
+EVTDESC65107;I had managed to talk to speak to my vassal for several minutes without stuttering not even once! Then I got stuck on the vassal's name when I was supposed to present him to a courtier, not a word left my tongue. I had to let someone else present him...;;;;;;;;;;;Íåñêîëüêî ðàç ìíå óäàëîñü ïîãîâîðèòü ñî ñâîèìè âàññàëàìè íå çàèêàÿñü. Íî ñåé÷àñ, ïûòàÿñü ïðåäñòàâèòü âàññàëà ïðèäâîðíîìó è âûãîâîðèòü åãî èìÿ, ÿ íå ìîãó ïðîèçíåñòè íè ñëîâà. Íóæíî ïîçâîëèòü êîìó-íèáóäü äðóãîìó ïðåäñòàâèòü åãî...;;x
+EVTDESC65110;tHe otHeR cHildReN aRe MeaN to Me!;;;;;;;;;;;Ä-ä... ä... ðóãèå äåòè íè÷åãî íå ç-çç...íà÷àò äëÿ ìåíÿ!;;x
+EVTDESC65115;I find tasty mud on ground. Eat some. While eat, young girl come to me. She ask, 'Are you stupid or something?';;;;;;;;;;;"Ãðÿçü íà çåìëå êàæåòñÿ òàêîé àïïåòèòíîé. Íàäî ïîïðîáîâàòü íà âêóñ. Êîãäà ÿ ïîäíîøó å¸ êî ðòó, êî ìíå ïîäáåãàåò ìàëåíüêàÿ äåâî÷êà. Îíà ñïðàøèâàåò: ""Ó òåáÿ ñîâñåì óìà íåò? Ýòî ãëóïî!""";;x
+EVTDESC65120;Practise with sword on field today. Noticed hand was red when practise over. Held sword by wrong end whole time! Hahaha.;;;;;;;;;;;Ïðàêòèêóÿñü ñåãîäíÿ ñ ìå÷îì, ÿ çàìå÷àþ, ÷òî ìîÿ ðóêà êðàñíàÿ è íåìíîãî áîëèò. Îêàçûâàåòñÿ, ÷òî âñ¸ ýòî âðåìÿ íàäî áûëî äåðæàòü ìå÷ çà äðóãîé êîíåö! Õàõàõà.;;x
+EVTDESC65125;Horse strange today while riding. Head missing and only moved backwards. Rode this way into [Root.Location.GetName] where stable boy said, face other way, stupid! Did, and found horse head.;;;;;;;;;;;"Âî âðåìÿ ïðîãóëêè âåðõîì ëîøàäü âåëà ñåáÿ ñòðàííî. Çàïðîêèäûâàëà ãîëîâó è ïîñòîÿííî ïÿòèëàñü. Êîå-êàê ìíå óäàëîñü äîáðàòüñÿ äî îêðóãà [Root.Location.GetName], ãäå ìàëü÷èê-êîíþõ ñêàçàë: ""Ñàäèñü äðóãîé ñòîðîíîé, áàëäà!""";;x
+EVTDESC65126;Forgot to put on pants this morning. Much shouting, many upset. I not understand.;;;;;;;;;;;Çàáûë íàäåòü øòàíû ñåãîäíÿ óòðîì. Ñòîëüêî êðèêîâ, áåñïîêîéñòâà. Íå ïîíèìàþ â ÷¸ì ïðîáëåìà?;;x
+EVTDESC65130;Today I stumbled upon a painting of the most wretched, hideous creature I had ever laid eyes on. This affront to nature left me chilled to the bone. The crooked teeth, the ears... [Root.GetHerHis] oversized nose alone was enough to make me nauseous! A nearby courtier then asked what I thought of my new portrait.;;;;;;;;;;;Ñåãîäíÿ ìíå ïîïàëàñü êàðòèíà, èçîáðàæàþøàÿ îäíî èç ñàìûõ ìåðçêèõ è îòâðàòèòåëüíûõ ñóùåñòâ, êîòîðûõ ÿ êîãäà-ëèáî âèäåë[Root.GetEndA]. Ýòà îøèáêà ïðèðîäû èñïóãàëà ìåíÿ äî ñìåðòè. Êðèâûå çóáû, ýòè óøè... ñòîèëî òîëüêî âçãëÿíóòü íà îãðîìíûé íîñ, ÷òîáû ìíå ñäåëàëîñü äóðíî! Êàê âäðóã, ñòîÿâøèé ðÿäîì ïðèäâîðíûé ñïðîñèë, ÷òî ÿ äóìàþ î ìî¸ì íîâîì ïîðòðåòå.;;x
+EVTDESC65135;I learned today that mothers in [Root.Location.GetName] keep their daughters in line by threatening to marry them off to someone as hideous as... I.;;;;;;;;;;;Ñåãîäíÿ ÿ óçíàë, ÷òî [Root.Location.County.GetAdjective]ñêèå ìàòåðè, âîñïèòûâàÿ ñâîèõ ìàëåíüêèõ äî÷åðåé, ïóãàþò èõ ñòðàøíûìè èñòîðèÿìè î òîì, ÷òî åñëè îíè áóäóò ñåáÿ ïëîõî âåñòè, òî êîãäà îíè âûðàñòóò â æ¸íû èõ âîçüìåò æóòêîå ÷óäîâèùå âðîäå... ìåíÿ.;;x
+EVTDESC65140;Vicious rumors that I am a witch have been spreading in [Root.Location.GetName] due to my... unique appearance. At least my station prevents the peasants from acting on these baseless accusations.;;;;;;;;;;;Ãíóñíûå ñëóõè î òîì, ÷òî ÿ âåäüìà ñòàëè ðàñïðîñòðàíÿòüñÿ ïî îêðóãó [Root.Location.GetName] â ñâÿçè ñ ìîåé... íåîáû÷íîé âíåøíîñòüþ. Ïî êðàéíåé ìåðå, ìî¸ ïîëîæåíèå íå äàåò êðåñòüÿíàì âîçìîæíîñòè áðîñàòüñÿ òàêèìè îáâèíåíèÿìè â îòêðûòóþ.;;x
+EVTDESC65145;As I grew up, those near me never made it a secret that I was a particularly ugly child. Now, as I am growing into a [Root.GetManWoman], they seem to react differently to my appearance...;;;;;;;;;;;Â äåòñòâå ìíå ÷àñòî ïðèõîäèëîñü ñëûøàòü îò îêðóæàþùèõ î ñîáñòâåííîì óðîäñòâå. Ñåé÷àñ, ÿ óæå [Root.GetManWoman]à è, êàæåòñÿ, îíè ñòàëè ðåàãèðîâàòü íà ìîþ âíåøíîñòü ñîâñåì èíà÷å.;;x
+EVTDESC65150;Today as I mounted my favorite horse with the help of six stable boys, it let out a strange sigh and collapsed. The stable master claimed the horse was dead, its back broken. He hinted that perhaps it would be best for all concerned if I walk from now on.;;;;;;;;;;;Ñåãîäíÿ, îñåäëàííûé ñ ïîìîùüþ øåñòåðûõ êîíþõîâ, íå óñïåâ ñäåëàòü è øàã, ìîé êîíü èçäàë ñòîí è ðóõíóë íà çåìëþ. Ãëàâíûé êîíþøèé, ñêàçàë, ÷òî êîíü óìåð, è ÷òî ó íåãî ñëîìàí õðåáåò. Òàêæå îí íàìåêíóë, ÷òî âîçìîæíî äëÿ âñåõ áóäåò ëó÷øå, åñëè âïðåäü ÿ áóäó õîäèòü ïåøêîì.;;x
+EVTDESC65151;Enough is enough. I have decided to eat less and exercise more. Why, I think I can finally see my feet!;;;;;;;;;;;Õâàòèò. Îòíûíå ÿ áóäó îãðàíè÷èòü ñåáÿ â åäå è áîëüøå óäåëÿòü âíèìàíèå ïðîãóëêàì. Ýòî óæå ïðèíîñèò ñâîè ïëîäû, òåïåðü ÿ âèæó ñâîè íîãè!;;x
+EVTDESC65155;I was touring the defenses of [Root.Location.GetName] and as I tried to enter one of the towers, I got stuck in the doorway! I found myself unable to move in either direction and it took the strength of four men to pull me free.;;;;;;;;;;;Ñåãîäíÿ, ãóëÿÿ ïî êðåïîñòíîé ñòåíå, ìíå çàõîòåëîñü âîéòè â îäíó èç áàøåí, è âîò æå ïîâåçëî - çàñòðÿòü â äâåðíîì ïðî¸ìå! Íå â ñèëàõ ïîøåâåëèòüñÿ, ìíå ïðèøëîñü ïðîñèòü î ïîìîùè ÷åòâåðûõ ñëóã, ÷òîáû îíè ìåíÿ îñâîáîäèëè.;;x
+EVTDESC65160;As I strolled through the streets of [Root.Location.GetName], I was approached by the local Coin Purse Inspector. He asked to see my purse, and I duly complied.;;;;;;;;;;;Ñåãîäíÿ, ãóëÿÿ ïî óëèöàì ãîðîäà [Root.Location.GetName], ìíå ïîâñòðå÷àëñÿ ìåñòíûé Èíñïåêòîð Êîøåëüêîâ. Îí ïîòðåáîâàë ìîé êîøåë¸ê äëÿ îñìîòðà, ÷òîáû íàäëåæàùèì îáðàçîì ïðîâåðèòü åãî.;;x
+EVTDESC65165;The wine from last night did not agree with me, I woke up with a terrible hangover this morning. Now the imam is chanting again, and I keep falling asleep during the sajdah here in the mosque.;;;;;;;;;;;Ýòîé íî÷üþ ìíå íå ñòîèëî ïèòü ñòîëüêî âèíà. ß ïðîñíó[Root.GetLasLsya] óòðîì ñ óæàñíûì ïîõìåëüåì. Ñåé÷àñ èìàì âîçîáíîâèë ïåñíîïåíèå, à ÿ âîò-âîò óïàäó è óñíó ïðÿìî âî âðåìÿ ñóäæóäà ïîñðåäè ìå÷åòè.;;x
+EVTDESC65170;You have mastered the art of desert warfare. This difficult terrain provides many obstacles for an army to overcome, but also great opportunities for those who know where to look for them. Your forces will always fight better in the desert.;;;;;;;;;;;Âû îñâîèëè èñêóññòâî âîéíû â ïóñòûíå. Å¸ ñëîæíûé ðåëüåô ïðåäñòàâëÿåò íå òîëüêî ìíîæåñòâî ïðåïÿòñòâèé äëÿ àðìèè, íî è áîëüøèå âîçìîæíîñòè äëÿ òåõ, êòî çíàåò, êàê îáîéòè èõ. Âàøè âîéñêà òåïåðü áóäóò ëó÷øå áèòüñÿ â ïóñòûíå.;;x
+EVTDESC65171;Forests and hills have become your preferred battleground. Using them to your benefit, you are better able to safely close the distance to your opponents or keep your forces away as the situation dictates. Your troops will gain an important edge in this terrain.;;;;;;;;;;;Ëåñà è õîëìû ñòàëè Âàøèì ïðåäïî÷èòàåìûì ïîëåì áèòâû. Èñïîëüçóÿ èõ â ñâîþ ïîëüçó, Âû ñïîñîáíû áåçîïàñíî ïðåîäîëåòü ðàññòîÿíèÿ èëè óâåñòè Âàøè ñèëû ïðî÷ü, â çàâèñèìîñòè îò ñèòóàöèè. Âàøè âîéñêà ïîëó÷àþò áîëüøîå ïðåèìóùåñòâî â ýòîé ìåñòíîñòè.;;x
+EVTDESC65172;You no longer see fighting in difficult mountainous terrain as a disadvantage, but as an opportunity. The movement of your army is easier to obscure, and your opponents can be funneled towards battlegrounds of your chosing. If battle is joined in the mountains, your army gains an advantage.;;;;;;;;;;;Âû áîëüøå íå ðàññìàòðèâàåòå áîåâûå äåéñòâèÿ â ãîðíîé ìåñòíîñòè, êàê ïðîáëåìó, à âèäèòå âîçìîæíîñòè. Ïåðåäâèæåíèå Âàøåé àðìèè ëåã÷å ñêðûòü è Âû ñàìè ñìîæåòå âûáðàòü ìåñòî äëÿ áèòâû. Åñëè ñðàæåíèå ïðîõîäèò â ãîðàõ, Âàøà àðìèÿ ïîëó÷àåò ïðåèìóùåñòâî.;;x
+EVTDESC65173;Large, open battlefields are where you fight best. When fighting in plains or on farmland, you are better able to array your army for battle and maneuver it to gain an advantage. Forces under your command will perform better in this terrain.;;;;;;;;;;;Êðóïíîå, îòêðûòîå ïîëå áîÿ - ýòî òî ìåñòî, ãäå Âû âîþåòå ëó÷øå âñåãî. Êîãäà áîåâûå äåéñòâèÿ ðàçâîðà÷èâàþòñÿ íà ðàâíèíàõ èëè ïîëÿõ, Âû ñïîñîáíû ëó÷øå ïîñòðîèòü Âàøó àðìèþ äëÿ ñðàæåíèÿ èëè ìàíåâðà, ÷òîáû ïîëó÷èòü ïðåèìóùåñòâî. Ñèëû ïîä Âàøèì êîìàíäîâàíèåì áóäóò ëó÷øå âîåâàòü â ýòîé ìåñòíîñòè.;;x
+EVTOPTA65000;...screamed at them;;;;;;;;;;;…íàêðè÷àë íà íèõ;;x
+EVTOPTA65001;I should let my [Root.GetMyChancellorName] [Root.job_chancellor.GetTitledFirstName] take care of it;;;;;;;;;;;Ïóñòü ìîé [Root.GetMyChancellorName] [Root.job_chancellor.GetTitledFirstName] ïîçàáîòèòñÿ îá ýòîì;;x
+EVTOPTA65002;I am glad [From.GetTitledFirstName] feels [From.GetSheHe] can entrust me with this!;;;;;;;;;;;Ðàäóåò, ÷òî [From.GetTitledFirstName] ïîðó÷àåò ìíå ýòî;;x
+EVTOPTA65003;I should definitely delegate that task to [Root.job_marshal.GetHerHim];;;;;;;;;;;Ðåøåíî! Ýòà çàäà÷à êàê ðàç äëÿ ìîåãî Ìàðøàëà;;x
+EVTOPTA65004;I will not make [From.GetTitledFirstName] disappointed!;;;;;;;;;;;ß íå ðàçî÷àðóþ Âàñ, [From.GetTitledFirstName]!;;x
+EVTOPTA65005;[Root.job_spymaster.GetTitledFirstName] will make sure all plots will run smooth;;;;;;;;;;;[Root.GetSpymasterName] [Root.job_spymaster.GetTitledFirstName] îáåñïå÷èò óñïåõ íàøèì çàãîâîðàì;;x
+EVTOPTA65006;I will plot, I will scheme, and no one will know what hit them;;;;;;;;;;;ß áóäó ñòðîèòü çàãîâîðû, ïëåñòè èíòðèãè è íèêòî íèêîãäà íå óçíàåò, êòî ñòîèò çà âñåì ýòèì;;x
+EVTOPTA65007;Steward [Root.job_treasurer.GetFirstName], please help me!;;;;;;;;;;;[Root.GetTreasurerName] [Root.job_treasurer.GetFirstName], ïîæàëóéñòà, ïîìîãèòå ìíå!;;x
+EVTOPTA65008;I will gladly help [From.GetTitledFirstName] with this;;;;;;;;;;;[From.GetTitledFirstName], ÿ áóäó ðàä ïîìî÷ü Âàì â ýòîì äåëå;;x
+EVTOPTA65009;[Root.job_spiritual.GetTitledFirstName] should be able to handle this better than I would;;;;;;;;;;;[Root.job_spiritual.GetTitledFirstName] ñïðàâèòñÿ ñ ýòèì ëó÷øå, ÷åì ÿ;;x
+EVTOPTA65010;[From.GetTitledFirstName] asked me to take care of them;;;;;;;;;;;[From.GetTitledFirstName] ïðîñèò ìåíÿ ïîçàáîòèòüñÿ îá ýòîì;;x
+EVTOPTA65011;...[Root.Spouse.GetFirstName];;;;;;;;;;;...[Root.Spouse.GetFirstName];;x
+EVTOPTA65012;[From.GetFirstName]'s outburst of anger was uncalled for!;;;;;;;;;;;Ýòà âñïûøêà ãíåâà áûëà ñîâåðøåííî íåóìåñòíà!;;x
+EVTOPTA65020;I'll try to beat some sense in the child;;;;;;;;;;;Ïîïðîáóþ âëîæèòü íåìíîãî ðàçóìà â ýòî äèòÿ;;x
+EVTOPTA65021;Reduce food rations!;;;;;;;;;;;Óìåíüøèòü ðàöèîí ïèòàíèÿ!;;x
+EVTOPTA65022;The next shot will be aimed low;;;;;;;;;;;Ïðè ñëåäóþùåì âûñòðåëå íàäî öåëèòüñÿ íèæå;;x
+EVTOPTA65023;Maybe if I pretend to push them off the walls?;;;;;;;;;;;Ìîæåò ñòîëêíóòü åãî ñî ñòåíû?;;x
+EVTOPTA65030;I must pray harder;;;;;;;;;;;Íóæíî óñåðäíåå ìîëèòüñÿ;;x
+EVTOPTA65031;I should spend a fortnight fasting for my sins;;;;;;;;;;;Íåîáõîäèìî ïîñòèòüñÿ äâå íåäåëè âî èñêóïëåíèå ñâîèõ ãðåõîâ;;x
+EVTOPTA65032;I should give to the poor for my sins;;;;;;;;;;;Íóæíî ðàçäàòü ìèëîñòûíþ áåäíÿêàì â èñêóïëåíèå ñâîèõ ãðåõîâ;;x
+EVTOPTA65033;Forgive me Father, for I have sinned...;;;;;;;;;;;Áîæå, ïðîñòè ìîè ãðåõè...;;x
+EVTOPTA65034;I ease my guilt with prayer and fasting;;;;;;;;;;;ß èñêóïëþ ñâîè ãðåõè ìîëèòâîé è ïîñòîì;;x
+EVTOPTA65035;The [Root.Religion.GetName] Church will help spread it!;;;;;;;;;;;[Root.GetRelAdjCap]ñêàÿ Öåðêîâü ïîìîæåò ðàñïðîñòðàíèòü òðàêòàò!;;x
+EVTOPTA65036;I proclaim my lack of sin publicly;;;;;;;;;;;ß âî âñåóñëûøàíèå ïðîâîçãëàøàþ ñâîþ áåçãðåøíîñòü;;x
+EVTOPTA65037;I should ask [target_courtier.GetHerHim] for advice...;;;;;;;;;;;Ñëåäóåò ñïðîñèòü ñîâåòà ó ïðèäâîðíîãî...;;x
+EVTOPTA65040;Red red wine....;;;;;;;;;;;Êðàñíîå, êðàñíîå âèíî....;;x
+EVTOPTA65041;Find solace in a bottle of wine;;;;;;;;;;;Èñòèíà â âèíå;;x
+EVTOPTA65042;I know I drank some wine..;;;;;;;;;;;Âèíî òàì áûëî âåëèêîëåïíûì…;;x
+EVTOPTA65043;Keep on sleeping;;;;;;;;;;;Áóäó ñïàòü;;x
+EVTOPTA65044;They will forget it eventually...;;;;;;;;;;;Â êîíöå êîíöîâ îíè çàáóäóò îá ýòîì…;;x
+EVTOPTA65045;Force [Root.Spouse.GetHerHim] to drink with you;;;;;;;;;;;[Root.Spouse.GetSheHeCap] âûïüåò ñ Âàìè, íåçàâèñèìî îò æåëàíèÿ!;;x
+EVTOPTA65046;I am so lucky that I have [Root.Spouse.GetFirstName]..;;;;;;;;;;;ß òàê ñ÷àñòëèâ, ÷òî ó ìåíÿ åñòü ìîÿ äðàãîöåííàÿ ñóïðóãà [Root.Spouse.GetFirstName];;x
+EVTOPTA65047;Curse him!;;;;;;;;;;;Ìåðçêèé íåãîäÿé!;;x
+EVTOPTA65048;Talk to the commanders.;;;;;;;;;;;Ïîãîâîðþ ñ êîìàíäèðàìè;;x
+EVTOPTA65049;Devoting myself to the sword will do it.;;;;;;;;;;;Çàéìóñü ðàòíûìè äåëàìè;;x
+EVTOPTA65050;But the wine tastes so good...;;;;;;;;;;;Íî âèíî òàê õîðîøî íà âêóñ...;;x
+EVTOPTA65051;*slobber*;;;;;;;;;;;*ïóñêàòü ñëþíè*;;x
+EVTOPTA65052;Keep hiding;;;;;;;;;;;Ïðîäîëæó ñêðûâàòüñÿ;;x
+EVTOPTA65053;Please give me more time God, I need to reform myself;;;;;;;;;;;Ïðîøó, Áîæå, äàé ìíå åù¸ âðåìåíè. Ìíå íàäî èçìåíèòü ñâîþ æèçíü;;x
+EVTOPTA65054;Hallelujah!;;;;;;;;;;;Àëëèëóéÿ!;;x
+EVTOPTA65055;God must be punishing me!;;;;;;;;;;;Áîã äîëæåí áûë íàêàçàòü ìåíÿ!;;x
+EVTOPTA65056;Yes, you are a sinner that deserves it;;;;;;;;;;;Áðåìÿ òâîèõ ãðåõîâ òÿæåëî è òû çàñëóæèâàåøü ýòîãî;;x
+EVTOPTA65057;If I need to be cured, [Root.Religion.GetRandomGodName] will cure me;;;;;;;;;;;Åñëè ìíå ïîíàäîáèòñÿ ëå÷åíèå, òî [Root.Religion.GetRandomGodName] èñöåëèò ìåíÿ;;x
+EVTOPTA65060;I will give them something to be afraid of!;;;;;;;;;;;ß äàì èì âîçìîæíîñòü ïî íàñòîÿùåìó èñïóãàòüñÿ!;;x
+EVTOPTA65061;I pity them, and refuse to have them perform;;;;;;;;;;;ß ñî÷óâñòâóþ èì è îòêàçûâàþñü îò ïðåäñòàâëåíèÿ.;;x
+EVTOPTA65065;Toss the dwarf;;;;;;;;;;;Øâûðíóòü.;;x
+EVTOPTA65066;Are you insane or just an idiot?!;;;;;;;;;;;Òû â ñâî¸ì óìå?!;;x
+EVTOPTA65070;I landed at the bottom of the steps, badly hurt...;;;;;;;;;;;ß ñ ãðîõîòîì ïðîêàòè[Root.GetLasLsya] ïî ñòóïåíüêàì...;;x
+EVTOPTA65071;Next time, my fist will redecorate their faces!;;;;;;;;;;;Â ñëåäóþùèé ðàç ìîé êóëàê ïîïðàâèò èõ ìîðäû!;;x
+EVTOPTA65072;Punish the stableboys;;;;;;;;;;;Íàêàçàòü êîíþõîâ.;;x
+EVTOPTA65073;It must have looked laughable!;;;;;;;;;;;Äîëæíî áûòü, ýòî áûëî ñìåøíî!;;x
+EVTOPTA65074;Despite my clubfoot, I should take any chance to dance!;;;;;;;;;;;Íåñìîòðÿ íà êîñîëàïîñòü, ÿ ïîïðîáóþ ïîòàíöåâàòü!;;x
+EVTOPTA65080;That's not true!;;;;;;;;;;;Ýòî íå ïðàâäà!;;x
+EVTOPTA65081;Shamed, I refuse to acknowledge the mispronunciation;;;;;;;;;;;Ñòûäÿñü, ÿ îòêàçûâàþñü ïðèçíàòü, ÷òî îãîâîðè[Root.GetLasLsya].;;x
+EVTOPTA65085;Not today, today I'll show you the real monster!;;;;;;;;;;;Íî ñåãîäíÿ ÿ ïîêàæó Âàì íàñòîÿùåãî ìîíñòðà!;;x
+EVTOPTA65090;[Root.Religion.GetRandomGodNameCap] has forsaken me!;;;;;;;;;;;[Root.Religion.GetHighGodName] ìåíÿ íå ñëûøèò!;;x
+EVTOPTA65091;Of course I'll help you;;;;;;;;;;;Êîíå÷íî æå ÿ ïîìîãó Âàì.;;x
+EVTOPTA65092;This is true love;;;;;;;;;;;Ýòî íàñòîÿùàÿ ëþáîâü!;;x
+EVTOPTA65095;Prove them wrong!;;;;;;;;;;;ß äîêàæó èì îáðàòíîå!;;x
+EVTOPTA65100;Let me be or else!;;;;;;;;;;;Îñòàâüòå ìåíÿ â ïîêîå, èíà÷å...;;x
+EVTOPTA65101;Lisp? Me? No, you must be wrong!;;;;;;;;;;;Ôåïåëÿâëþ? ß? Íåò, Âû, äîëâíî áûòü, îôûáàåòåñü!;;x
+EVTOPTA65102;I won't let this control my life!;;;;;;;;;;;ß íå ïîôâîëþ ýòîìó ðàâðóôûòü ìîþ âûâíü!;;x
+EVTOPTA65105;S-s-stop b-bothering me!;;;;;;;;;;;Õ... õ... âàòèò ì-ìåíÿ á-áåñèòü!;;x
+EVTOPTA65106;I'll practise and overcome this!;;;;;;;;;;;ß áóäó ñòàðàòüñÿ è ïðåîäîëåþ ýòî!;;x
+EVTOPTA65107;Of course I did it deliberately!;;;;;;;;;;;Êîíå÷íî, ýòî áûëî íàìåðåííî!;;x
+EVTOPTA65110;stUpid cHildReN...;;;;;;;;;;;Ò... òóïûå äåòè...;;x
+EVTOPTA65115;I smart. Girl stupid.;;;;;;;;;;;Óìà åñòü, äåâ÷îíêà - ãëóïî.;;x
+EVTOPTA65120;YOW!;;;;;;;;;;;ÀÉ!;;x
+EVTOPTA65125;Oops. I done bad...;;;;;;;;;;;Îé. Ýòî ìîÿ âèíà...;;x
+EVTOPTA65126;Calm down! Simple mistake!;;;;;;;;;;;Óñïîêîéòåñü! Ñ êåì íå áûâàåò?;;x
+EVTOPTA65130;I need a mirror...;;;;;;;;;;;Äàéòå ìíå çåðêàëî...;;x
+EVTOPTA65135;I should spend more time indoors...;;;;;;;;;;;Áóäó ìåíüøå ïîêàçûâàòüñÿ íà ëþäÿõ...;;x
+EVTOPTA65140;The wretches will soon find someone uglier to pester.;;;;;;;;;;;Íåñ÷àñòíûå. Ñêîðî îíè íàéäóò êîãî-òî ïîóðîäëèâåå.;;x
+EVTOPTA65145;An ugly duckling no longer...;;;;;;;;;;;Ïîõîæå, ãàäêèé óòåíîê ñòàíîâèòñÿ ïðåêðàñíûì ëåáåäåì.;;x
+EVTOPTA65150;I may have put on some weight...;;;;;;;;;;;Êàæåòñÿ, ó ìåíÿ ëèøíèé âåñ...;;x
+EVTOPTA65155;What have I become? No more suckling pig for me.;;;;;;;;;;;Â êîãî ÿ ïðåâðàùàþñü? Îòíûíå íèêàêèõ æàðåíûõ ïîðîñÿò íà óæèí!;;x
+EVTOPTA65160;Wait... that wasn't the Coin Purse Inspector...;;;;;;;;;;;Ïîñòîéòå... Êàêîé åù¸ Èíñïåêòîð Êîøåëüêîâ??;;x
+EVTOPTA65165;I can't... keep my... eyes... open...;;;;;;;;;;;Íå ìîãó... äåðæàòü... ãëàçà... îòêðûòûìè...;;x
+EVTOPTA65170;The sands will swallow my foes.;;;;;;;;;;;Ïåñêè ïîãëîòÿò ìîèõ âðàãîâ.;;x
+EVTOPTA65171;The land shall be my greatest ally.;;;;;;;;;;;Çåìëÿ áóäåò ìîèì ñîþçíèêîì.;;x
+EVTOPTA65172;The very mountains shall be my shield.;;;;;;;;;;;Ãîðû áóäóò ìîèì ùèòîì.;;x
+EVTOPTA65173;If caught in the open, my foes shall feel my wrath.;;;;;;;;;;;Íà îòêðûòîì ïðîñòðàíñòâå, âðàã íå ñêðîåòñÿ îò ìåíÿ.;;x
+EVTOPTB65000;...misplaced their food;;;;;;;;;;;…îñòàâèë èõ áåç îáåäà;;x
+EVTOPTB65001;No! I am the [Root.GetTitle], I should be able to handle this!;;;;;;;;;;;Íåò! ß - [Root.GetTitle], è ÿ ñàì ñïðàâëþñü ñ ýòèì!;;x
+EVTOPTB65003;I should work harder on this;;;;;;;;;;;Ìíå ñëåäóåò õîðîøî ïîðàáîòàòü íàä ýòèì;;x
+EVTOPTB65005;I shouldn't rely too much on [Root.job_spymaster.GetTitledFirstName];;;;;;;;;;;Ìíå íå ñëåäóåò ñëåïî âåðèòü ìîåìó Òàéíîìó ñîâåòíèêó [Root.job_spymaster.GetTitledFirstName];;x
+EVTOPTB65007;I will fight the numbers and defeat them!;;;;;;;;;;;ß áóäó êîðïåòü íàä ýòèìè öèôðàìè, íî îäîëåþ èõ!;;x
+EVTOPTB65009;I will take care of them myself;;;;;;;;;;;ß ïîçàáî÷óñü îá ýòîì;;x
+EVTOPTB65011;...my heir [Root.Heir.GetFirstName];;;;;;;;;;;Ìîé íàñëåäíèê - [Root.Heir.GetFirstName];;x
+EVTOPTB65020;I'll put the child out with the wolves;;;;;;;;;;;Âûãîíþ ðåá¸íêà â ëåñ ê âîëêàì;;x
+EVTOPTB65021;Release some rats in the prisoner's cell!;;;;;;;;;;;Çàïóñòèòü íåñêîëüêî êðûñ â êàìåðó óçíèêà!;;x
+EVTOPTB65022;I will aim high this time;;;;;;;;;;;Íà ýòîò ðàç ÿ ïðèöåëþñü ïîâûøå;;x
+EVTOPTB65023;I will scare the courtier in the middle of the night!;;;;;;;;;;;ß íàïóãàþ ïðèäâîðíîãî â ïîëíî÷ü!;;x
+EVTOPTB65030;I doubt myself and my faith;;;;;;;;;;;ß ñîìíåâàþñü â ñåáå è â ñâîåé âåðå;;x
+EVTOPTB65031;I will continue praying for a cure, or a miracle;;;;;;;;;;;Ïðîäîëæó ìîëèòüñÿ, íàäåÿñü íà èñöåëåíèå èëè íà ÷óäî;;x
+EVTOPTB65032;I believe prayers are enough;;;;;;;;;;;Ïîëàãàþ, ìîëèòâû áóäåò äîñòàòî÷íî;;x
+EVTOPTB65034;Pay church to ease some of my guilt;;;;;;;;;;;Ïîæåðòâîâàíèå öåðêâè èñêóïèò ìîè ãðåõè;;x
+EVTOPTB65035;I will give it to [Root.Liege.GetTitledFirstName] so [Root.Liege.GetSheHe] can help spread it;;;;;;;;;;;[Root.Liege.GetTitledFirstName] ïîìîæåò â ðàñïðîñòðàíåíèè òðàêòàòà;;x
+EVTOPTB65036;I thank the Lord in private;;;;;;;;;;;Âîçáëàãîäàðþ Áîãà â óåäèí¸ííîé ìîëèòâå;;x
+EVTOPTB65040;Meat.... hmm..  meat...;;;;;;;;;;;Ìÿñî... ììì... ìÿñî...;;x
+EVTOPTB65041;Find solace in God.;;;;;;;;;;;Íàéòè óòåøåíèå â ìîëèòâàõ Áîãó;;x
+EVTOPTB65043;This is not proper for a [This.GetTitle];;;;;;;;;;;ß - [This.GetTitle], è ìíå íå ïðèñòàëî âåñòè ñåáÿ òàê;;x
+EVTOPTB65045;Ignore [Root.Spouse.GetHerHim]!;;;;;;;;;;;Íå îáðàùàòü âíèìàíèÿ íà åå ñëîâà!;;x
+EVTOPTB65048;Talk to the common soldiers;;;;;;;;;;;Ïîãîâîðþ ñ ïðîñòûìè ñîëäàòàìè;;x
+EVTOPTB65049;Embroidery will take my mind off it.;;;;;;;;;;;Âûøèâàíèå îòâëå÷¸ò ìåíÿ îò ïüÿíñòâà;;x
+EVTOPTB65050;I'll ask a priest for some advice.;;;;;;;;;;;Ñïðîøó ñîâåòà ó ñâÿùåííèêà;;x
+EVTOPTB65052;Mingle with the troops;;;;;;;;;;;Ïîãîâîðþ ñ ñîëäàòàìè;;x
+EVTOPTB65053;God is punishing me rightly for my sins;;;;;;;;;;;Áîã ñïðàâåäëèâî íàêàçàë ìåíÿ çà ìîè ãðåõè;;x
+EVTOPTB65056;Don't worry, I'll take care of you;;;;;;;;;;;Íå áåñïîêîéñÿ, ÿ ïîçàáî÷óñü î òåáå;;x
+EVTOPTB65057;Stay in a warm bed near the fire during the cold nights;;;;;;;;;;;Â õîëîäíûå íî÷è íóæíî îñòàâàòüñÿ â òåïëîé ïîñòåëè, ðÿäîì ñ îãí¸ì;;x
+EVTOPTB65060;I won't give them the pleasure of seeing me cry...;;;;;;;;;;;ß íå äîñòàâëþ èì óäîâîëüñòâèÿ âèäåòü ìîè ðûäàíèÿ...;;x
+EVTOPTB65061;I arrest their manager;;;;;;;;;;;Àðåñòîâàòü èõ õîçÿèíà.;;x
+EVTOPTB65065;Let the dwarf be;;;;;;;;;;;Ïóñòü êàðëèê æèâ¸ò ñïîêîéíî.;;x
+EVTOPTB65071;I ignore them, hoping they will tire and go away;;;;;;;;;;;Ëó÷øå íå îáðàùàòü íà íèõ âíèìàíèå.;;x
+EVTOPTB65072;Try to use a regular one;;;;;;;;;;;Ïîïðîáîâàòü èñïîëüçîâàòü îáû÷íûå ñòðåìåíà.;;x
+EVTOPTB65074;I ask my father to look for a suitor!;;;;;;;;;;;ß ïðîøó ñâîåãî îòöà íàéòè ìíå êîãî-íèáóäü!;;x
+EVTOPTB65080;I ignore them, their words hold no truth;;;;;;;;;;;Ïðîèãíîðèðóþ èõ.;;x
+EVTOPTB65081;I ask the vassal to forgive me;;;;;;;;;;;ß ïðèíåñó âàññàëó ñâîè èçâèíåíèÿ.;;x
+EVTOPTB65085;I think I must accept my role...;;;;;;;;;;;ß äóìàþ, íóæíî ñìèðèòüñÿ ñî ñâîåé ó÷àñòüþ...;;x
+EVTOPTB65090;I shall pray some more...;;;;;;;;;;;Íóæíî ïîìîëèòüñÿ åùå íåìíîãî...;;x
+EVTOPTB65091;Guards! Here she is!;;;;;;;;;;;Îõðàíà! Âîò [Root.GetSheHeOpp]!;;x
+EVTOPTB65092;But she cannot love someone like me!;;;;;;;;;;;Íî îíà íå ìîæåò ëþáèòü êîãî-ëèáî, ïîõîæåãî íà ìåíÿ!;;x
+EVTOPTB65095;They do not know me, so why should I care?;;;;;;;;;;;Îíè ìåíÿ íå çíàþò, òàê çà÷åì ìíå áåñïîêîèòüñÿ?;;x
+EVTOPTB65100;I don't want to play with them anymore;;;;;;;;;;;ß áîëüøå íå õî÷ó ñ íèìè èãðàòü!;;x
+EVTOPTB65101;Forgive me, it's the lisp;;;;;;;;;;;Ïðîôó ïðîôåíèÿ, ýòî âñ¸ ìîÿ ôåïåëÿâîñòü.;;x
+EVTOPTB65102;I must learn to live with this;;;;;;;;;;;Íóâíî íàó÷èòüñÿ âûòü ô ýòèì.;;x
+EVTOPTB65105;I'll hide from them so they will forget about me;;;;;;;;;;;ß ñïðÿ÷óñü îò íèõ òàê, ÷òî îíè çàáóäóò îáî ìíå.;;x
+EVTOPTB65106;This is my everyday;;;;;;;;;;;Âîò òàê è æèâó...;;x
+EVTOPTB65107;I'm sorry, my stutter sometimes act up...;;;;;;;;;;;Ïðîøó ïðîùåíèÿ, èíîãäà ÿ çàèêàþñü...;;x
+EVTOPTB65110;i leaVe Now;;;;;;;;;;;ß óõîæó.;;x
+EVTOPTB65115;Stupid is as stupid does.;;;;;;;;;;;Ãëóïûé - ýòî êòî ïîñòóïàåò ãëóïî.;;x
+EVTOPTB65125;Riding my way better.;;;;;;;;;;;Ìîé ñïîñîá ëó÷øå!;;x
+EVTOPTB65130;The poor light deceived me. That nose has character!;;;;;;;;;;;Çäåñü ïëîõîå îñâåùåíèå. Îêàçûâàåòñÿ òóò åù¸ è ëèöî!;;x
+EVTOPTB65135;They could do worse!;;;;;;;;;;;Ìîãëè áû è ïîñòðàøíåé ïðèäóìàòü!;;x
+EVTOPTB65140;A pox on them! May they breed ugly, ugly children.;;;;;;;;;;;×óìà íà èõ áëèçêèõ! Ïóñòü ó íèõ ðîäÿòñÿ ñòðàøíûå óðîäëèâûå äåòè!;;x
+EVTOPTB65150;Nonsense! Find me another horse!;;;;;;;;;;;Íåñëûõàííî! Íàéäèòå ìíå äðóãîãî êîíÿ!;;x
+EVTOPTB65155;Was this tower designed for use by children? Expand all doorways!;;;;;;;;;;;Ýòó áàøíþ ñòðîèëè äëÿ äåòåé? Ðàñøèðüòå ïðîõîäû!;;x
+EVTOPTB65165;Apologise, and pray some more;;;;;;;;;;;Èçâèíèòüñÿ è ïðîäîëæèòü ìîëèòüñÿ;;x
+EVTOPTC65011;...one of my councillors;;;;;;;;;;;Îäèí èç ìîèõ ñîâåòíèêîâ;;x
+EVTOPTC65035;I will give it to [Root.Host.GetTitledFirstName] so [Root.Host.GetSheHe] can help spread it;;;;;;;;;;;[Root.Host.GetTitledFirstName] ïîìîæåò â ðàñïðîñòðàíåíèè òðàêòàòà;;x
+EVTOPTC65036;Thank Allah in private;;;;;;;;;;;Ïîáëàãîäàðèòü Àëëàõà áåç ñâèäåòåëåé;;x
+EVTOPTC65037;I will try to emulate [target_courtier.GetHerHim];;;;;;;;;;;ß ïîïûòàþñü ïîñëåäîâàòü ïðèìåðó ýòîãî ÷åëîâåêà;;x
+EVTOPTC65041;Find solace in the camp followers;;;;;;;;;;;Íàéòè óòåøåíèå â îáúÿòüÿõ âåñ¸ëûõ äåâèö;;x
+EVTOPTC65045;Listen to [Root.Spouse.GetHerHis] advice.;;;;;;;;;;;Îíà, áåçóñëîâíî, ïðàâà, è ÿ ïîñëåäóþ å¸ ñîâåòó;;x
+EVTOPTC65049;[Root.Religion.GetRandomGodName] will cure me!;;;;;;;;;;;[Root.Religion.GetRandomGodName] èñöåëèò ìåíÿ!;;x
+EVTOPTC65050;I'll ask an Imam for advice;;;;;;;;;;;ß ñïðîøó ñîâåòà ó èìàìà;;x
+EVTOPTC65056;Why do you bother me?;;;;;;;;;;;Ïî÷åìó òû áåñïîêîèøüñÿ îáî ìíå?;;x
+EVTOPTC65061;I let them perform, what harm can it do?;;;;;;;;;;;Ïóñòü âûñòóïàþò, ðàçâå ýòî ìîæåò êîìó-òî íàâðåäèòü?;;x
+EVTOPTC65074;I should be content with what I have;;;;;;;;;;;ß äîëæ[Root.GetNaEn] áûòü äîâîë[Root.GetSoftNaEn] òåì, ÷òî èìåþ.;;x
+EVTOPTC65081;Pretend that nothing happened;;;;;;;;;;;Ñäåëàþ âèä, ÷òî íè÷åãî íå ïðîèçîøëî.;;x
+EVTOPTC65090;[Root.Religion.GetRandomGodNameCap] cannot help me, only I can;;;;;;;;;;;[Root.Religion.GetHighGodName] íå ìîæåò ïîìî÷ü ìíå, âñ¸ â ìîèõ ðóêàõ.;;x
+EVTOPTC65095;Just leave me alone...;;;;;;;;;;;Ïðîñòî îñòàâüòå ìåíÿ â ïîêîå...;;x
+EVTOPTC65101;So, where were we?;;;;;;;;;;;Èòàê, íà ÷åì ìû îôòàíîâèëèñü?;;x
+EVTOPTC65102;I shall pray and hope my lisp disappear;;;;;;;;;;;Íóâíî ìîëèòüñÿ è íàäåÿòüñÿ, ôòî ýòî ïðîéä¸ò.;;x
+EVTOPTC65106;I shall pray and hope my stutter will disappear;;;;;;;;;;;Íóæíî ìîëèòüñÿ è íàäåÿòüñÿ, ÷òî ýòî ïðîéä¸ò.;;x
+EVTOPTC65107;What? I cannot do everything, can I?;;;;;;;;;;;×òî? Íó íå ìîãó æå ÿ äåëàòü âñ¸ è âåçäå, íå òàê ëè?;;x
+EVTOPTC65155;What have I become? No more steak for me.;;;;;;;;;;;Â êîãî ÿ ïðåâðàùàþñü? Îòíûíå íèêàêîãî æàðåíîãî ìÿñà!;;x
+EVTOPTD65011;...a courtier;;;;;;;;;;;Îäèí èç ìîèõ ïðèäâîðíûõ;;x
+EVTOPTD65056;[Root.Religion.GetRandomGodNameCap] will cure you!;;;;;;;;;;;[Root.Religion.GetRandomGodNameCap] èñöåëèò òåáÿ!;;x
+EVTTOOLTIPA65012;[Root.GetFirstName] directs [Root.GetHerHis] anger against [Root.Spouse.GetFirstName];;;;;;;;;;;[Root.GetFirstName] ãíåâàåòñÿ íà ñâî[Root.Spouse.GetYuEgo] [Root.Spouse.GetHusbandWifeACC];;x
+EVTTOOLTIPB65012;[Root.GetFirstName] directs [Root.GetHerHis] anger against [Root.GetHerHis] heir [Root.Heir.GetFirstName];;;;;;;;;;;[Root.GetFirstName] ãíåâàåòñÿ íà ñâîåãî íàñëåäíèêà;;x
+EVTTOOLTIPC65012;[Root.GetFirstName] directs [Root.GetHerHis] anger against a councillor;;;;;;;;;;;[Root.GetFirstName] ãíåâàåòñÿ íà ñâîåãî ñîâåòíèêà;;x
+EVTTOOLTIPD65012;[Root.GetFirstName] directs [Root.GetHerHis] anger against a courtier;;;;;;;;;;;[Root.GetFirstName] ãíåâàåòñÿ íà ñâîåãî ïðèäâîðíîãî;;x
+EVTTOOLTIP65002;[Root.job_chancellor.GetTitledFirstName] appreciates your trust in [Root.job_chancellor.GetHerHim];;;;;;;;;;;[Root.job_chancellor.GetTitledFirstName] öåíèò Âàøå äîâåðèå;;x
+EVTTOOLTIP65004;[Root.job_marshal.GetTitledFirstName] appreciates your trust in [Root.job_marshal.GetHerHim];;;;;;;;;;;[Root.job_marshal.GetTitledFirstName] öåíèò Âàøå äîâåðèå;;x
+EVTTOOLTIP65006;[Root.job_spymaster.GetTitledFirstName] appreciates your trust in [Root.job_spymaster.GetHerHim];;;;;;;;;;;[Root.GetSpymasterName] [Root.job_spymaster.GetTitledFirstName] öåíèò Âàøå äîâåðèå;;x
+EVTTOOLTIP65008;[Root.job_treasurer.GetTitledFirstName] appreciates your trust in [Root.job_treasurer.GetHerHim];;;;;;;;;;;[Root.job_treasurer.GetTitledFirstName] öåíèò Âàøå äîâåðèå;;x
+EVTTOOLTIP65010;[This.GetTitledFirstName] appreciates your trust in [This.GetHerHim];;;;;;;;;;;öåíèò Âàøå äîâåðèå ê í[This.GetHerHim];;x
+EVTTOOLTIP65046;I will stop being a drunkard.;;;;;;;;;;;ß ïåðåñòàíó ïüÿíñòâîâàòü;;x
+EVTTOOLTIP65047;She will become a drunkard.;;;;;;;;;;;Îíà ñòàíåò ïüÿíèöåé;;x
+EVTTOOLTIP65054;God answers [Root.GetFirstName]'s prayers;;;;;;;;;;;Áîã îòâåòèë íà ìîëèòâû ãðåøíèêà [Root.GetFirstName];;x
+EVTTOOLTIP65056;[This.GetTitledFirstName] hears about [Root.GetTitledFirstName]'s illness;;;;;;;;;;;[Root.GetTitledFirstName] áîëååò è [This.GetTitledFirstName] çíàåò îá ýòîì;;x
+EVTTOOLTIP65066;[This.GetTitledFirstName] is tossed by [Root.GetTitledFirstName]!;;;;;;;;;;;áðîøåí ïåðñîíàæåì [Root.GetTitledFirstName]!;;x
+EVTTOOLTIP65073;[This.GetTitledFirstName] falls off [This.GetHerHis] horse;;;;;;;;;;;ïàäàåò ñî ñâîåé ëîøàäè.;;x
+EVTTOOLTIP65091;There's always Hope;;;;;;;;;;;Âñåãäà åñòü íàäåæäà.;;x
+EVTTOOLTIP65092;I Hope for love;;;;;;;;;;;ß íàäåþñü, ÷òî ýòî ëþáîâü...;;x
 # CleanSlate: No longer needed
-# EVTDESC65166;The imams can be a bit irritable and after my latest blunder I feel the need to be extra careful around them. Too bad I cannot really rely on myself when I am stressed to be anything else but blunt.;;;;;;;;;;;;;x
-# EVTDESC65167;The more stressed [From.GetTitledFirstName] gets, the more blunt and outspoken [From.GetSheHe] becomes. There have been rumors about what happened the last time the imams visited us, and none of us who experienced the awkwardness and rage of [From.GetTitledFirstName] are keen to watch that happen again.;;;;;;;;;;;;;x
-# EVTOPTB65037;I should ask the vassal for advice...;;;;;;;;;;;;;x
+# EVTDESC65166;The imams can be a bit irritable and after my latest blunder I feel the need to be extra careful around them. Too bad I cannot really rely on myself when I am stressed to be anything else but blunt.;;;;;;;;;;;Èìàìû íåñêîëüêî ðàçäðàæåíû, à ïîñëå ìîåé ïîñëåäíåé îøèáêè ÿ ÷óâñòâóþ, ÷òî äîëæ[Root.GetNaEn] áûòü î÷åíü îñòîðîæ[Root.GetNaEn] â èõ ïðèñóòñòâèè. Äîñàäíî, ÷òî ÿ íå ìîãó ïîëàãàòüñÿ íà ñåáÿ, åñëè ÿ â ñîñòîÿíèè ñòðåññà, òî ìîãó òîëüêî äåìîíñòðèðîâàòü ñâîþ ãëóïîñòü.;;x
+# EVTDESC65167;The more stressed [From.GetTitledFirstName] gets, the more blunt and outspoken [From.GetSheHe] becomes. There have been rumors about what happened the last time the imams visited us, and none of us who experienced the awkwardness and rage of [From.GetTitledFirstName] are keen to watch that happen again.;;;;;;;;;;;×åì äîëüøå [From.GetTitledFirstName] íàõîäèòñÿ â ñîñòîÿíèè ñòðåññà, òåì ÷àùå [From.GetSheHe] òóïèò è îòêðîâåííè÷àåò. Õîäÿò ñëóõè î òîì, ÷òî ñëó÷èëîñü âî âðåìÿ ïîñëåäíåãî ïîñåùåíèÿ èìàìîâ, è íèêòî èç íàñ, èñïûòàâøèõ íåëîâêîñòü è ãíåâ èç-çà í[From.GetHersHis], íå ãîðèò æåëàíèåì óâèäåòü, ÷òî ñëó÷èòñÿ â ýòîò ðàç.;;x
+# EVTOPTB65037;I should ask the vassal for advice...;;;;;;;;;;;Ñëåäóåò ñïðîñèòü ñîâåòà ó âàññàëà...;;x

@@ -1,119 +1,88 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
 # job_marshal.txt
-
 #########################
 #
 #	Marshal events
 #
 #########################
-
 # Military Accident
-evt_marshal_001_title;Military Drill Accident;;;;;;;;;;;;;x
-evt_marshal_001_desc_a;I was skeptical about my visit to [Root.Location.GetName] to try and find some way to get into the thickheaded peasants how different sorts of military equipment should be best used. Of course they managed to fumble...;;;;;;;;;;;;;x
-evt_marshal_001_option_a;They wounded me!;;;;;;;;;;;;;x
-evt_marshal_001_option_b;They maimed me!;;;;;;;;;;;;;x
-evt_marshal_001_option_tooltip;Send a letter to my liege;;;;;;;;;;;;;x
-
+evt_marshal_001_title;Military Drill Accident;;;;;;;;;;;Kàòàñòðîôà â âîåííîé ïîäãîòîâêå;;x
+evt_marshal_001_desc_a;I was skeptical about my visit to [Root.Location.GetName] to try and find some way to get into the thickheaded peasants how different sorts of military equipment should be best used. Of course they managed to fumble...;;;;;;;;;;;ß áûë ñêåïòè÷åñêè íàñòðîåí ïî ïîâîäó ìîåé ïîåçäêè â îêðóã [Root.Location.GetName], ïûòàÿñü íàéòè ñïîñîá âáèòü â òâåðäîëîáûõ êðåñòüÿí, êàê ëó÷øå èñïîëüçîâàòü ðàçíîîáðàçíîå âîîðóæåíèå. Êîíå÷íî, îíè íåóêëþæè â îáðàùåíèè ñ îðóæèåì…;;x
+evt_marshal_001_option_a;They wounded me!;;;;;;;;;;;Îíè ðàíèëè ìåíÿ!;;x
+evt_marshal_001_option_b;They maimed me!;;;;;;;;;;;Îíè ïîêàëå÷èëè ìåíÿ!;;x
+evt_marshal_001_option_tooltip;Send a letter to my liege;;;;;;;;;;;Ïîñëàòü ïèñüìî ñþçåðåíó.;;x
 # Liege gets a letter about Marshal being wounded
-evt_marshal_002_desc_a;My liege, I was trying to teach the thickheaded peasants of [From.Location.GetName] how to use siege weapons when one of them dropped a boulder on my foot! I despair of ever teaching these idiots how to wage war...\n\nYour humble Marshal,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_marshal_002_option_a;Oh dear...;;;;;;;;;;;;;x
-
+evt_marshal_002_desc_a;My liege, I was trying to teach the thickheaded peasants of [From.Location.GetName] how to use siege weapons when one of them dropped a boulder on my foot! I despair of ever teaching these idiots how to wage war...\n\nYour humble Marshal,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ìîè ïîïûòêè íàó÷èòü òâåðäîëîáûõ [From.Location.County.GetAdjective]ñêèõ êðåñòüÿí îáñëóæèâàòü îñàäíûå îðóäèÿ, çàêîí÷èëèñü êàòàñòðîôîé, êîãäà îäèí èç íèõ óðîíèë êàìåíü ìíå íà íîãó! Ýòè èäèîòû íåïðèãîäíû ê âîåííîé ñëóæáå...\n\nÂàø ñêðîìíûé [Root.GetMarshalName],\n [From.GetTitledName];;x
+evt_marshal_002_option_a;Oh dear...;;;;;;;;;;;Ïðîêëÿòüå.;;x
 # Liege gets a letter about Marshal being maimed
-evt_marshal_003_desc_a;My liege, I implore you to send me to another county! The nitwits of [From.Location.GetName] have already cost me one limb, I don't want to lose any more limbs just because they don't know the back from the front of an arrow!\n\nYour humble Marshal,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_marshal_003_option_a;How can I wage war with these peasants?!;;;;;;;;;;;;;x
-
-
+evt_marshal_003_desc_a;My liege, I implore you to send me to another county! The nitwits of [From.Location.GetName] have already cost me one limb, I don't want to lose any more limbs just because they don't know the back from the front of an arrow!\n\nYour humble Marshal,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ÿ óìîëÿþ Âàñ îòïðàâèòü ìåíÿ â äðóãîé îêðóã! Îáó÷åíèå [From.Location.County.GetAdjective]ñêèõ ïðèäóðêîâ óæå ñòîèëî ìíå îäíîé èç êîíå÷íîñòåé, è ÿ íå õî÷ó ïîòåðÿòü äðóãèå òîëüêî ïîòîìó, ÷òî îíè íå çíàþò, êàêîé êîíåö ó ñòðåëû çàòî÷åí!\n\nÂàø ñêðîìíûé [Root.GetMarshalName],\n [From.GetTitledName];;x
+evt_marshal_003_option_a;How can I wage war with these peasants?!;;;;;;;;;;;Êàê ÿ ìîãó âîåâàòü ñ ýòèì ìóæè÷ü¸ì?!;;x
 # Military Secrets Revealed!
-evt_marshal_101_title;Military Secrets Revealed;;;;;;;;;;;;;x
-evt_marshal_101_desc_a;I had traveled to [Root.Location.GetName] to try and help teach the population about the military equipment they have at their disposal, in case they would ever be besieged or if my liege would need to recruit soldiers from the province. But I feel I am getting nowhere...;;;;;;;;;;;;;x
-evt_marshal_101_option_a;If only something would go my way;;;;;;;;;;;;;x
-evt_marshal_101_option_a_tooltip;A chance meeting with a local noble;;;;;;;;;;;;;x
-
+evt_marshal_101_title;Military Secrets Revealed;;;;;;;;;;;Pàñïðîñòðaíåíèå âîåííîé ìóäðîñòè;;x
+evt_marshal_101_desc_a;I had traveled to [Root.Location.GetName] to try and help teach the population about the military equipment they have at their disposal, in case they would ever be besieged or if my liege would need to recruit soldiers from the province. But I feel I am getting nowhere...;;;;;;;;;;;Ïðèáûâ â îêðóã [Root.Location.GetName], ÿ ñòàðàþñü ïîìî÷ü íàñåëåíèþ ñ âîîðóæåíèåì. Ýòî ïðèãîäèëîñü áû â ñëó÷àå îñàäû âðàãàìè èëè ñáîðà îïîë÷åíèÿ. Íî ÿ ÷óâñòâóþ, ÷òî ýòî íè ê ÷åìó íå ïðèâåä¸ò...;;x
+evt_marshal_101_option_a;If only something would go my way;;;;;;;;;;;Åñëè òîëüêî ÷òî-íèáóäü ïîïàäåòñÿ ìíå íà ïóòè;;x
+evt_marshal_101_option_a_tooltip;A chance meeting with a local noble;;;;;;;;;;;Ñëó÷àéíàÿ âñòðå÷à ñ ìåñòíîé çíàòüþ.;;x
 # Noble helps
-evt_marshal_102_desc_a;On the road to [From.Location.GetName] I met [From.GetTitledName], the Marshal of [From.Liege.GetTitledName]. I knew [From.GetSheHe] would be interested in the military advancements I have done lately. Should I share them with [From.GetHerHim]?;;;;;;;;;;;;;x
-evt_marshal_102_option_a;I see no reason why not;;;;;;;;;;;;;x
-evt_marshal_102_option_a_tooltip;Talk to [This.GetTitledName];;;;;;;;;;;;;x
-evt_marshal_102_option_b;I better keep it to myself...;;;;;;;;;;;;;x
-
+evt_marshal_102_desc_a;On the road to [From.Location.GetName] I met [From.GetTitledName], the Marshal of [From.Liege.GetTitledName]. I knew [From.GetSheHe] would be interested in the military advancements I have done lately. Should I share them with [From.GetHerHim]?;;;;;;;;;;;Íà ïóòè ê [From.Location.GetName] ÿ âñòðåòèëñÿ ñ [From.GetTitledName], êîòîðîãî ñàì [From.Liege.GetTitledName] íàçíà÷èë ñâîèì [From.GetMarshalName]. ß çíàþ, îíè áûëè áû ðàäû ïåðåíÿòü íàøè âîåííûå òðàäèöèè. Äîëæåí ëè ÿ ïîäåëèòüñÿ èìè?;;x
+evt_marshal_102_option_a;I see no reason why not;;;;;;;;;;;Ïî÷åìó áû è íåò?;;x
+evt_marshal_102_option_a_tooltip;Talk to [This.GetTitledName];;;;;;;;;;;Ïîãîâîðèòü ñ íèì.;;x
+evt_marshal_102_option_b;I better keep it to myself...;;;;;;;;;;;ß ëó÷øå ïðèäåðæó ýòî äëÿ ñåáÿ…;;x
 # Inform Marshal
-evt_marshal_103_desc_a;I left the soldiers of [Root.Location.GetName] one evening feeling exhausted and world-weary when a local noble, [From.GetTitledName], approached me and told me about the military advancements he had implemented lately. I promised [From.GetHerHim] to use it wisely and not spread the knowledge outside the realm.;;;;;;;;;;;;;x
-evt_marshal_103_option_a;Such an important discovery must be shared with my liege!;;;;;;;;;;;;;x
-evt_marshal_103_option_a_tooltip;Send a letter to [Root.Liege.GetTitledName];;;;;;;;;;;;;x
-
+evt_marshal_103_desc_a;I left the soldiers of [Root.Location.GetName] one evening feeling exhausted and world-weary when a local noble, [From.GetTitledName], approached me and told me about the military advancements he had implemented lately. I promised [From.GetHerHim] to use it wisely and not spread the knowledge outside the realm.;;;;;;;;;;;Îäíàæäû âå÷åðîì ÿ âûøåë èç êàçàðì îïóñòîøåííûì è óñòàâøèì, êîãäà áëàãîðîäíûé [From.GetTitledName] ïîäîø¸ë êî ìíå è ðàññêàçàë î âîåííûõ äîñòèæåíèÿõ, îñóùåñòâëåííûõ èì â ïîñëåäíåå âðåìÿ. ß îáåùàë åìó ñ óìîì âîñïîëüçîâàòüñÿ åãî ïðåäëîæåíèÿìè è íå ðàñïðîñòðàíÿòü èõ çà ïðåäåëû ñòðàíû.;;x
+evt_marshal_103_option_a;Such an important discovery must be shared with my liege!;;;;;;;;;;;Òàêèì âàæíûì îòêðûòèåì íàäî ïîäåëèòüñÿ.;;x
+evt_marshal_103_option_a_tooltip;Send a letter to [Root.Liege.GetTitledName];;;;;;;;;;;[This.GetTitledFirstName] ïîëó÷àåò ïèñüìî, êîòîðîå ðàññêàæåò [This.GetHerHim] î ïîëåçíîì äâîðÿíèíå;;x
 # Inform Liege
-evt_marshal_104_desc_a;My liege, good news! During my mission to [From.Location.GetName] I happened to meet the noble [FromFrom.GetTitledName]. After promising [FromFrom.GetHerHim] not to divulge any of the information outside the realm, [FromFrom.GetSheHe] decided to share with me some of the military advancements [FromFrom.GetSheHe] had implemented in the last year. Enclosed with this letter is a document describing them in more detail.\n\nYour humble Marshal,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_marshal_104_option_a;Exciting!;;;;;;;;;;;;;x
-
-
+evt_marshal_104_desc_a;My liege, good news! During my mission to [From.Location.GetName] I happened to meet the noble [FromFrom.GetTitledName]. After promising [FromFrom.GetHerHim] not to divulge any of the information outside the realm, [FromFrom.GetSheHe] decided to share with me some of the military advancements [FromFrom.GetSheHe] had implemented in the last year. Enclosed with this letter is a document describing them in more detail.\n\nYour humble Marshal,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], õîðîøèå íîâîñòè! Êîãäà ÿ ïðèåõàë â îêðóã [From.Location.GetName], ìíå ñëó÷àéíî âñòðåòèëñÿ áëàãîðîäíûé [FromFrom.GetTitledName]. Ïîîáåùàâ [FromFrom.GetHerHim] íå ðàçãëàøàòü ïîëó÷åííûå çíàíèÿ çà ïðåäåëàìè ñòðàíû, ÿ óçíàë î íåêîòîðûõ âîåííûõ äîñòèæåíèÿõ, ââåä¸ííûõ â ïðîøëîì ãîäó. Ïðèëàãàþ ê ýòîìó ïèñüìó äîêóìåíò, îïèñûâàþùèé èõ áîëåå ïîäðîáíî.\nÂàø ñêðîìíûé [Root.GetMarshalName], \n[From.GetTitledName];;x
+evt_marshal_104_option_a;Exciting!;;;;;;;;;;;Ïîòðÿñàþùå!;;x
 # Reinforcements Arrive
-evt_marshal_201_title;Levy Reinforcements;;;;;;;;;;;;;x
-evt_marshal_201_desc_a;Since I came to [Root.Location.GetName], we have never had a shortage of soldiers reinforcing our troops.;;;;;;;;;;;;;x
-evt_marshal_201_option_a;They know that fame and fortune awaits!;;;;;;;;;;;;;x
-
+evt_marshal_201_title;Levy Reinforcements;;;;;;;;;;;Pîñò îïîë÷åíèÿ;;x
+evt_marshal_201_desc_a;Since I came to [Root.Location.GetName], we have never had a shortage of soldiers reinforcing our troops.;;;;;;;;;;;Ñ òåõ ïîð, êàê ÿ ïðèáûë â îáëàñòü [Root.Location.GetName], ó íàñ íå áûëî íåäîñòàòêà â íîâîáðàíöàõ.;;x
+evt_marshal_201_option_a;They know that fame and fortune awaits!;;;;;;;;;;;Îíè çíàþò, ÷òî ñëàâà è áîãàòñòâî æä¸ò!;;x
 # Inform Liege
-evt_marshal_202_desc_a;Your [Root.GetMyMarshalName], [From.GetTitledFirstNameNoRegnal], has initiated a massive recruitment drive in §Y[From.Location.GetName]§!.;;;;;;;;;;;;;x
-evt_marshal_202_option_a;Let us hope so;;;;;;;;;;;;;x
-
-
+evt_marshal_202_desc_a;Your [Root.GetMyMarshalName], [From.GetTitledFirstNameNoRegnal], has initiated a massive recruitment drive in §Y[From.Location.GetName]§!.;;;;;;;;;;;Âàø [Root.GetMyMarshalName] [From.GetTitledFirstNameNoRegnal] íàø[From.GetLaYol] ìàññó æåëàþùèõ ïîïîëíèòü ðÿäû íàøèõ âîéñê â îêðóãå §Y[From.Location.GetName]§!.;;x
+evt_marshal_202_option_a;Let us hope so;;;;;;;;;;;Áóäåì íàäåÿòüñÿ íà ýòî;;x
 # Marshal tries to train troops, noble interferes
-evt_marshal_301_title;Noble Interferes;;;;;;;;;;;;;x
-evt_marshal_301_desc_a;The levy situation in [Root.Location.GetName] is not entirely hopeless, but close enough. I will do my best to revive the situation and hopefully my liege will see some results soon.;;;;;;;;;;;;;x
-evt_marshal_301_option_a;As long as no one meddles with my plans...;;;;;;;;;;;;;x
-
+evt_marshal_301_title;Noble Interferes;;;;;;;;;;;Bìåøàòåëüñòâî çíàòè;;x
+evt_marshal_301_desc_a;The levy situation in [Root.Location.GetName] is not entirely hopeless, but close enough. I will do my best to revive the situation and hopefully my liege will see some results soon.;;;;;;;;;;;Îêðóã [Root.Location.GetName] íå ñîâñåì áåçíàäåæåí â ïëàíå ñáîðà îïîë÷åíèÿ, íî áëèçîê ê ýòîìó. ß ñäåëàþ âñ¸ âîçìîæíîå, ÷òîáû îæèâèòü ñèòóàöèþ, è íàäåþñü óâèäåòü íåêîòîðûå ðåçóëüòàòû â áëèæàéøåå âðåìÿ.;;x
+evt_marshal_301_option_a;As long as no one meddles with my plans...;;;;;;;;;;;Ïîêà íèêòî íå âìåøèâàåòñÿ â ìîè ïëàíû...;;x
 # Noble reacts
-evt_marshal_302_desc_a;[From.Liege.GetTitledName]'s Marshal, [From.GetTitledName], have been trying to raise more and more levies in [From.Location.GetName]. I can't stand [From.GetHerHim]! Perhaps I should pull some strings and see to it that no more peasants show up for his recruiting meetings?;;;;;;;;;;;;;x
-evt_marshal_302_option_a;I will take every chance I get!;;;;;;;;;;;;;x
-evt_marshal_302_option_b;I better not...;;;;;;;;;;;;;x
-
+evt_marshal_302_desc_a;[From.Liege.GetTitledName]'s Marshal, [From.GetTitledName], have been trying to raise more and more levies in [From.Location.GetName]. I can't stand [From.GetHerHim]! Perhaps I should pull some strings and see to it that no more peasants show up for his recruiting meetings?;;;;;;;;;;;"[From.GetTitledName], êîòîðîãî [From.Liege.GetTitledName] ñãîðÿ÷à íàçíà÷èë íà äîëæíîñòü ""[Root.GetMarshalName]"", ïûòàåòñÿ çàâåðáîâàòü êàê ìîæíî áîëüøå [From.Location.County.GetAdjective]ñêèõ êðåñòüÿí. ß òåðïåòü íå ìîãó [From.GetHersHis]! Ìîæåò áûòü, ÿ äîëæåí ïîòÿíóòü çà íåêîòîðûå íèòî÷êè è ñëåäèòü çà òåì, êàê âñ¸ ìåíüøå êðåñòüÿí ïðèõîäÿò íà âåðáîâî÷íûå ïóíêòû?";;x
+evt_marshal_302_option_a;I will take every chance I get!;;;;;;;;;;; ß äîëæåí èñïîëüçîâàòü ýòîò øàíñ!;;x
+evt_marshal_302_option_b;I better not...;;;;;;;;;;;Ëó÷øå íå íàäî…;;x
 # Marshal writes to Liege
-evt_marshal_303_desc_a;My liege, I have bad news from [FromFrom.Location.GetName]. My attempts to increase the county levy has met with nothing but failure and the reason behind this is [From.GetTitledName]! [From.GetSheHeCap] has been nothing but trouble since I arrived and has used [From.GetHerHis] wide influence in [FromFrom.Location.GetName] to hinder all my initiatives.\n\nYour humble [Root.GetMarshalName],\n[Root.job_marshal.GetTitledFirstName];;;;;;;;;;;;;x
-evt_marshal_303_option_a;Curse [From.GetHerHim]!;;;;;;;;;;;;;x
-
-
+evt_marshal_303_desc_a;My liege, I have bad news from [FromFrom.Location.GetName]. My attempts to increase the county levy has met with nothing but failure and the reason behind this is [From.GetTitledName]! [From.GetSheHeCap] has been nothing but trouble since I arrived and has used [From.GetHerHis] wide influence in [FromFrom.Location.GetName] to hinder all my initiatives.\n\nYour humble [Root.GetMarshalName],\n[Root.job_marshal.GetTitledFirstName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ó ìåíÿ ïëîõèå íîâîñòè èç îêðóãà [FromFrom.Location.GetName]. Ìîè ïîïûòêè óâåëè÷èòü ðàçìåð îïîë÷åíèÿ îêàçàëèñü íåóäà÷íûìè, è âèíîé âñåìó [From.GetTitledName]! Ñî âðåìåíè ìîåãî ïðèáûòèÿ, [From.GetSheHeCap] ïîêàçûâàåò ñåáÿ êàê íàñòîÿùàÿ õîäÿ÷àÿ ïðîáëåìà, è èñïîëüçóåò âñ¸ ñâî¸ âëèÿíèå â îêðóãå [FromFrom.Location.GetName], ÷òîáû âîñïðåïÿòñòâîâàòü âñåì ìîè èíèöèàòèâàì.\n[Root.GetMarshalName],\n[Root.job_marshal.GetTitledFirstName];;x
+evt_marshal_303_option_a;Curse [From.GetHerHim]!;;;;;;;;;;;Ïðîêëÿòüå íà [From.GetHersHis] ãîëîâó!;;x
 # The Marshal has managed to raise an eager force of raiders
-evt_marshal_401_title;Raid Organized;;;;;;;;;;;;;x
-evt_marshal_401_desc_a;With enticing words of riches beyond measure, I have gathered up a mighty host in [Root.Location.GetName]. These men do not like to sit idle though...;;;;;;;;;;;;;x
-evt_marshal_401_option_a;My [Root.Liege.PrimaryTitle.GetRulerTitle] will be pleased!;;;;;;;;;;;;;x
-
+evt_marshal_401_title;Raid Organized;;;;;;;;;;;Hàáåã;;x
+evt_marshal_401_desc_a;With enticing words of riches beyond measure, I have gathered up a mighty host in [Root.Location.GetName]. These men do not like to sit idle though...;;;;;;;;;;;Îáåùàíèÿìè íåñìåòíûõ áîãàòñòâ ìíå óäàëîñü ñîáðàòü ìîãó÷åå âîéñêî â [Root.Location.County.GetAdjective]ñêèõ çåìëÿõ. Îäíàêî ýòè ãîëîâîðåçû ñîâñåì íå ëþáÿò ñèäåòü áåç äåëà...;;x
+evt_marshal_401_option_a;My [Root.Liege.PrimaryTitle.GetRulerTitle] will be pleased!;;;;;;;;;;;Ïðåâîñõîäíî!;;x
 # The liege is informed
-evt_marshal_402_desc_a;My [Root.GetMyMarshalName], [From.GetTitledFirstName], has gathered up a great host of raiders, lusting for plunder and wanton destruction. I must use these men and not allow them to sit idle for too long!;;;;;;;;;;;;;x
-evt_marshal_402_option_a;Great news indeed!;;;;;;;;;;;;;x
-
+evt_marshal_402_desc_a;My [Root.GetMyMarshalName], [From.GetTitledFirstName], has gathered up a great host of raiders, lusting for plunder and wanton destruction. I must use these men and not allow them to sit idle for too long!;;;;;;;;;;;[Root.GetMyMarshalName], [From.GetTitledFirstName], ñîîáùèë[From.GetEndA] ìíå, ÷òî [From.GetHerHim] óäàëîñü ñîáðàòü áîëüøóþ áàíäó ðàçáîéíèêîâ, æàæäóùèõ áîãàòñòâ è ïðèêëþ÷åíèé. Íåëüçÿ ïîçâîëÿòü èì ñèäåòü áåç äåëà, íóæíî ïîñêîðåå èñïîëüçîâàòü èõ!;;x
+evt_marshal_402_option_a;Great news indeed!;;;;;;;;;;;Ïðåêðàñíûå íîâîñòè!;;x
 # The men are displeased and disband
-evt_marshal_404_desc_a;The raiding party my [Root.GetMyMarshalName] gathered up to fight for me have grown tired of my effeminate pacifism and gone home to their wives, but not before picking up everything they could find of value!;;;;;;;;;;;;;x
-evt_marshal_404_option_a;Thieves! Uh, well...;;;;;;;;;;;;;x
-
-EVTTOOLTIP20410;Send a letter to my liege;;;;;;;;;;;;;x
-EVTTOOLTIP20420;A local noble interferes;;;;;;;;;;;;;x
-
+evt_marshal_404_desc_a;The raiding party my [Root.GetMyMarshalName] gathered up to fight for me have grown tired of my effeminate pacifism and gone home to their wives, but not before picking up everything they could find of value!;;;;;;;;;;;Ðàçáîéíèêè, êîòîðûõ ðàíåå ñîáðàë ìîé [Root.GetMyMarshalName], ÷òîáû ñðàæàòüñÿ çà ìåíÿ, ðàçî÷àðîâàíû. Îáâèíèâ ìåíÿ â òðóñîñòè è ñëàáîñòè, ñ ïðåçðåíèåì è îòâðàùåíèåì îíè ðàçîøëèñü ïî äîìàì, ïðèõâàòèâ ñ ñîáîé âñ¸ öåííîå, ÷òî ñìîãëè óíåñòè!;;x
+evt_marshal_404_option_a;Thieves! Uh, well...;;;;;;;;;;;Ãðÿçíûå âîðû!;;x
+EVTTOOLTIP20410;Send a letter to my liege;;;;;;;;;;;Ïîñëàòü ïèñüìî ñþçåðåíó.;;x
+EVTTOOLTIP20420;A local noble interferes;;;;;;;;;;;Ìåñòíàÿ çíàòü ìåøàåò;;x
 # Unused
-EVTNAME944;Marshal Discovered;;;;;;;;;;;;;x
-EVTDESC944;My liege [Root.Liege.GetTitledName] sent me to [Root.Location.GetName] to assist in the arrest of a local noble.;;;;;;;;;;;;;x
-EVTOPTA944;Hope we'll catch the right noble;;;;;;;;;;;;;x
-
-EVTDESC20440;[From.GetTitledName] has been seen in [From.Location.GetName] and I am certain [From.GetSheHe] is here for me!;;;;;;;;;;;;;x
-EVTOPTA20440;I can't do anything about this!;;;;;;;;;;;;;x
-EVTOPTB20440;Minions, prepare for ambush!;;;;;;;;;;;;;x
-
-EVTDESC20441;The men attacking me shows no mercy, I try to defend myself as good as I can but there are too many of them!;;;;;;;;;;;;;x
-EVTOPTA20441;I managed to fend them off but lost a limb!;;;;;;;;;;;;;x
-EVTOPTB20441;I managed to flee after they severely wounded me!;;;;;;;;;;;;;x
-
-EVTDESC20442;'My liege, I was attacked by...'\nThe blotted paper was nearly unreadable, clearly [From.GetTitledName] wrote the letter just after the attack. As I squinted to try and make out what the Marshal wrote in the letter, some words suddenly becomes clear:;;;;;;;;;;;;;x
-EVTOPTA20442;...maimed... ...noble named... Good lord!;;;;;;;;;;;;;x
-EVTOPTB20442;...wounded... Only wounded!? Pah!;;;;;;;;;;;;;x
-
-EVTDESC20443;My loyal men managed to kill [From.GetTitledName]! [From.Liege.GetTitledName] will never catch me, but I should pretend as nothing happens and send my condolences to make sure [From.Liege.GetSheHe] believes I had nothing to do with it!;;;;;;;;;;;;;x
-EVTOPTA20443;Splendid!;;;;;;;;;;;;;x
-
-EVTDESC20444;My [Root.GetTitle], I am sorry to report the death of your Marshal. My condolences.\n\nYour humble [From.GetTitle]\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTOPTA20444;Okay;;;;;;;;;;;;;x
-
-EVTTOOLTIP20441;[From.GetTitledName] is ambushed;;;;;;;;;;;;;x
-EVTTOOLTIP20442;My liege must be informed of this!;;;;;;;;;;;;;x
-EVTTOOLTIP20443;[Root.GetTitledName] is killed by the attackers;;;;;;;;;;;;;x
-EVTTOOLTIP20444;[Root.GetTitledName] sends a letter to [From.Liege.GetTitledName];;;;;;;;;;;;;x
-
-EVTTOOLTIP20392;A letter is sent to [This.GetTitledFirstName], telling [This.GetHerHim] about the helpful noble;;;;;;;;;;;;;x
-EVTTOOLTIP20421;The treacherous acts of [Root.GetTitledFirstName] greatly upsets [This.GetTitledFirstName];;;;;;;;;;;;;x
+EVTNAME944;Marshal Discovered;;;;;;;;;;;Bàø [Root.GetMarshalName] ðàñêðûò;;x
+EVTDESC944;My liege [Root.Liege.GetTitledName] sent me to [Root.Location.GetName] to assist in the arrest of a local noble.;;;;;;;;;;;[Root.PrimaryTitle.GetFOA], [Root.Liege.GetTitledName], øë¸ò ìåíÿ â îêðóã [Root.Location.GetName], ÷òîáû ÿ îêàçàë ïîìîùü â àðåñòå ìåñòíîãî äâîðÿíèíà.;;x
+EVTOPTA944;Hope we'll catch the right noble;;;;;;;;;;;Áóäåì íàäåÿòüñÿ, ÷òî ìû ïîéìàëè íóæíîãî äâîðÿíèíà;;x
+EVTDESC20440;[From.GetTitledName] has been seen in [From.Location.GetName] and I am certain [From.GetSheHe] is here for me!;;;;;;;;;;;[From.GetTitledName] îáðàòèë[From.GetEndA] âíèìàíèå íà [From.Location.GetName], è ÿ óâåðåí[Root.GetEndA], ÷òî [From.GetSheHe] çäåñü ïî ìîþ äóøó!;;x
+EVTOPTA20440;I can't do anything about this!;;;;;;;;;;;ß íè÷åãî íå ìîãó ñ ýòèì ïîäåëàòü!;;x
+EVTOPTB20440;Minions, prepare for ambush!;;;;;;;;;;;Âîèíû ìîè, ãîòîâüòåñü ê çàñàäå!;;x
+EVTDESC20441;The men attacking me shows no mercy, I try to defend myself as good as I can but there are too many of them!;;;;;;;;;;;Ëþäè àòàêóþò ìåíÿ áåç ïîùàäû, ÿ ñòàðàþñü çàùèùàòüñÿ òàê õîðîøî, êàê ìîãó, íî èõ ñëèøêîì ìíîãî!;;x
+EVTOPTA20441;I managed to fend them off but lost a limb!;;;;;;;;;;;Ìíå óäàëîñü îòáèòüñÿ îò íèõ, íî ÿ ïîêàëå÷åí[Root.GetEndA]!;;x
+EVTOPTB20441;I managed to flee after they severely wounded me!;;;;;;;;;;;Ìíå óäàëîñü ñáåæàòü, íî îíè òÿæåëî ðàíèëè ìåíÿ!;;x
+EVTDESC20442;'My liege, I was attacked by...'\nThe blotted paper was nearly unreadable, clearly [From.GetTitledName] wrote the letter just after the attack. As I squinted to try and make out what the Marshal wrote in the letter, some words suddenly becomes clear:;;;;;;;;;;;" ""[Root.PrimaryTitle.GetFOA], ÿ áûë àòàêîâàí... ""\nÏîâðåæä¸ííûå áóìàãè ïî÷òè íå ÷èòàþòñÿ, ÿñíî, ÷òî [From.GetTitledName] íàïèñàë ïèñüìî ñðàçó ïîñëå íàïàäåíèÿ. Êîãäà ÿ ïðèùóðèëñÿ, ïûòàÿñü ïîíÿòü, ÷òî [Root.GetMarshalName] íàïèñàë â ïèñüìå, íåñêîëüêî ñëîâ âäðóã ñòàëè ÿñíû:";;x
+EVTOPTA20442;...maimed... ...noble named... Good lord!;;;;;;;;;;;...óâå÷íûé... ...äâîðÿíèí ïî èìåíè... Áîæå ìîé!;;x
+EVTOPTB20442;...wounded... Only wounded!? Pah!;;;;;;;;;;;...ðàíåí... Òîëüêî ðàíåí? Óô!;;x
+EVTDESC20443;My loyal men managed to kill [From.GetTitledName]! [From.Liege.GetTitledName] will never catch me, but I should pretend as nothing happens and send my condolences to make sure [From.Liege.GetSheHe] believes I had nothing to do with it!;;;;;;;;;;;[From.GetTitledName] ì¸ðòâ, ìîèì âåðíûì ëþäÿì óäàëîñü óáèòü [From.GetSheHe]! [From.Liege.GetTitledName] áóäåò èñêàòü ìåíÿ, íî ÿ äîëæåí äåëàòü âèä, ÷òî íè÷åãî íå ïðîèñõîäèò. ß âûðàæó ñâîè ñîáîëåçíîâàíèÿ, äàáû óáåäèòüñÿ, ÷òî [From.Liege.GetSheHe] âåðèò â ìîþ íåïðè÷àñòíîñòü.;;x
+EVTOPTA20443;Splendid!;;;;;;;;;;;Âåëèêîëåïíî!;;x
+EVTDESC20444;My [Root.GetTitle], I am sorry to report the death of your Marshal. My condolences.\n\nYour humble [From.GetTitle]\n[From.GetTitledName];;;;;;;;;;;Ì[Root.GetOyaOy] [Root.GetTitle], ïðîøó ïðîùåíèÿ, íî ÿ âûíóæäåí ñîîáùèòü î ñìåðòè Âàøåãî âîåííîãî ñîâåòíèêà. Ìîè ñîáîëåçíîâàíèÿ.\n\nÂàø ñêðîìíûé [From.GetTitle]\n [From.GetTitledName];;x
+EVTOPTA20444;Okay;;;;;;;;;;;Ïå÷àëüíî;;x
+EVTTOOLTIP20441;[From.GetTitledName] is ambushed;;;;;;;;;;;[From.GetTitledName] ïîéìàí[From.GetEndA].;;x
+EVTTOOLTIP20442;My liege must be informed of this!;;;;;;;;;;;Ñþçåðåí äîëæåí óçíàòü îá ýòîì!;;x
+EVTTOOLTIP20443;[Root.GetTitledName] is killed by the attackers;;;;;;;;;;;[Root.GetTitledName] áóäåò óáèò[Root.GetEndA].;;x
+EVTTOOLTIP20444;[Root.GetTitledName] sends a letter to [From.Liege.GetTitledName];;;;;;;;;;;[Root.GetTitledName] ïîøëåò ïèñüìî. Àäðåñàò — [From.Liege.GetTitledName];;x
+EVTTOOLTIP20421;The treacherous acts of [Root.GetTitledFirstName] greatly upsets [This.GetTitledFirstName];;;;;;;;;;;[This.GetTitledFirstName] ñèëüíî îãîð÷èòñÿ îò òîãî, êàê âåðîëîìíî ïîñòóïàåò [Root.GetTitledFirstName];;x

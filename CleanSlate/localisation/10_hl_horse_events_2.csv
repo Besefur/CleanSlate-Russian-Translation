@@ -1,29 +1,25 @@
-EVTDESC_HL_6500_ARROW;Arrow, your favorite warhorse, has taken [Root.GetHerHis] last gallop across the steppe and begun the eternal sleep. It is time to take farewell to your steed that has served you well.;;;;;;;;;;;;;x
-EVTDESC_HL_6500_DRAGON;Dragon, your favorite warhorse, has taken [Root.GetHerHis] last gallop across the steppe and begun the eternal sleep. It is time to take your farewell of an old friend that has served you well. ;;;;;;;;;;;;;x
-EVTDESC_HL_6500_LIGHTNING;Lightning, your favorite warhorse, has now taken [Root.GetHerHis] last gallop across the steppe and begun the eternal sleep. It is time to take your farewell of an old friend that has served you well. ;;;;;;;;;;;;;x
-EVTDESC_HL_6500_SKY;Sky, your favorite warhorse, has taken [Root.GetHerHis] last gallop across the steppe and begun the eternal sleep. It is time to take your farewell of an old friend that has served you well. ;;;;;;;;;;;;;x
-EVTDESC_HL_6512_ARROW;I was just about to leave Arrow by the watering hole, when [From.GetFirstName]'s horse reached out and bit [Root.GetHerHim]!;;;;;;;;;;;;;x
-EVTDESC_HL_6512_DRAGON;I was just about to leave Dragon by the watering hole, when [From.GetFirstName]'s horse reached out and bit [Root.GetHerHim]!;;;;;;;;;;;;;x
-EVTDESC_HL_6512_LIGHTNING;I was just about to leave Lightning by the watering hole, when [From.GetFirstName]'s horse reached out and bit [Root.GetHerHim]!;;;;;;;;;;;;;x
-EVTDESC_HL_6512_SKY;I was just about to leave Sky by the watering hole, when [From.GetFirstName]'s horse reached out and bit [Root.GetHerHim]!;;;;;;;;;;;;;x
-EVTDESC_HL_6520;A foreign painter arrived at your camp today. The painter has previously created beautiful portraits of many noble feudal families and now offers his services to you.;;;;;;;;;;;;;x
-EVTDESC_HL_6990;I haven't been feeling quite like myself during the last couple of weeks. It feels like there's a piece of myself missing now that my favorite horse is gone.;;;;;;;;;;;;;x
-
-EVTOPTA_HL_6500;Goodbye, old friend.;;;;;;;;;;;;;x
-EVTOPTA_HL_6512;I'll have that beast killed!;;;;;;;;;;;;;x
-EVTOPTA_HL_6520;I want a portrait of myself.;;;;;;;;;;;;;x
-EVTOPTA_HL_6990;I have to carry this burden alone.;;;;;;;;;;;;;x
-
-EVTOPTB_HL_6512;There's a better watering spot over here...;;;;;;;;;;;;;x
-EVTOPTB_HL_6520;I want a portrait of my beloved wife.;;;;;;;;;;;;;x
-EVTOPTB_HL_6990;I'm lucky to have a [Root.Spouse.GetHusbandWife] to comfort me.;;;;;;;;;;;;;x
-
-EVTOPTC_HL_6520;I want a portrait of my beautiful concubine.;;;;;;;;;;;;;x
-EVTOPTC_HL_6520_MALE;I want a portrait of my beautiful consort.;;;;;;;;;;;;;x
-EVTOPTC_HL_6990;I'm lucky to have a friend to comfort me.;;;;;;;;;;;;;x
-
-EVTOPTD_HL_6520_ARROW;I want a portrait of my magnificent horse, Arrow.;;;;;;;;;;;;;x
-EVTOPTD_HL_6520_DRAGON;I want a portrait of my magnificent horse, Dragon.;;;;;;;;;;;;;x
-EVTOPTD_HL_6520_LIGHTNING;I want a portrait of my magnificent horse, Lightning.;;;;;;;;;;;;;x
-EVTOPTD_HL_6520_SKY;I want a portrait of my magnificent horse, Sky.;;;;;;;;;;;;;x
-EVTOPTE_HL_6520;I can't afford this.;;;;;;;;;;;;;x
+EVTDESC_HL_6500_ARROW;Arrow, your favorite warhorse, has taken [Root.GetHerHis] last gallop across the steppe and begun the eternal sleep. It is time to take farewell to your steed that has served you well.;;;;;;;;;;;Êèíæàë, Âàø ëþáèìûé áîåâîé êîíü, óæå îòñêàêàë ñâî¸ è óïîêîèëñÿ âå÷íûì ñíîì. Ïîðà ïðîñòèòüñÿ ñî ñòàðûì äðóãîì, êîòîðûé âåðíî ñëóæèë Âàì.;;x
+EVTDESC_HL_6500_DRAGON;Dragon, your favorite warhorse, has taken [Root.GetHerHis] last gallop across the steppe and begun the eternal sleep. It is time to take your farewell of an old friend that has served you well. ;;;;;;;;;;;Äðàêîí, Âàø ëþáèìûé áîåâîé êîíü, óæå îòñêàêàë ñâî¸ è óïîêîèëñÿ âå÷íûì ñíîì. Ïîðà ïðîñòèòüñÿ ñî ñòàðûì äðóãîì, êîòîðûé âåðíî ñëóæèë Âàì.;;x
+EVTDESC_HL_6500_LIGHTNING;Lightning, your favorite warhorse, has now taken [Root.GetHerHis] last gallop across the steppe and begun the eternal sleep. It is time to take your farewell of an old friend that has served you well. ;;;;;;;;;;;Ãðîì, Âàø ëþáèìûé áîåâîé êîíü, óæå îòñêàêàë ñâî¸ è óïîêîèëñÿ âå÷íûì ñíîì. Ïîðà ïðîñòèòüñÿ ñî ñòàðûì äðóãîì, êîòîðûé âåðíî ñëóæèë Âàì.;;x
+EVTDESC_HL_6500_SKY;Sky, your favorite warhorse, has taken [Root.GetHerHis] last gallop across the steppe and begun the eternal sleep. It is time to take your farewell of an old friend that has served you well. ;;;;;;;;;;;Ãîðèçîíò, Âàø ëþáèìûé áîåâîé êîíü, óæå îòñêàêàë ñâî¸ è óïîêîèëñÿ âå÷íûì ñíîì. Ïîðà ïðîñòèòüñÿ ñî ñòàðûì äðóãîì, êîòîðûé âåðíî ñëóæèë Âàì.;;x
+EVTDESC_HL_6512_ARROW;I was just about to leave Arrow by the watering hole, when [From.GetFirstName]'s horse reached out and bit [Root.GetHerHim]!;;;;;;;;;;;Ñïåøèâøèñü, ÿ îñòàâëÿþ Êèíæàëà ó âîäîïîÿ. Ìãíîâåíèå ñïóñòÿ êîíü, êîòîðûì âëàäååò [From.GetFirstName], íàïàäàåò íà íåãî!;;x
+EVTDESC_HL_6512_DRAGON;I was just about to leave Dragon by the watering hole, when [From.GetFirstName]'s horse reached out and bit [Root.GetHerHim]!;;;;;;;;;;;Ñïåøèâøèñü, ÿ îñòàâëÿþ Äðàêîíà ó âîäîïîÿ. Ìãíîâåíèå ñïóñòÿ êîíü, êîòîðûì âëàäååò [From.GetFirstName], íàïàäàåò íà íåãî!;;x
+EVTDESC_HL_6512_LIGHTNING;I was just about to leave Lightning by the watering hole, when [From.GetFirstName]'s horse reached out and bit [Root.GetHerHim]!;;;;;;;;;;;Ñïåøèâøèñü, ÿ îñòàâëÿþ Ãðîìà ó âîäîïîÿ. Ìãíîâåíèå ñïóñòÿ êîíü, êîòîðûì âëàäååò [From.GetFirstName], íàïàäàåò íà íåãî!;;x
+EVTDESC_HL_6512_SKY;I was just about to leave Sky by the watering hole, when [From.GetFirstName]'s horse reached out and bit [Root.GetHerHim]!;;;;;;;;;;;Ñïåøèâøèñü, ÿ îñòàâëÿþ Ãîðèçîíòà ó âîäîïîÿ. Ìãíîâåíèå ñïóñòÿ êîíü, êîòîðûì âëàäååò [From.GetFirstName], íàïàäàåò íà íåãî!;;x
+EVTDESC_HL_6520;A foreign painter arrived at your camp today. The painter has previously created beautiful portraits of many noble feudal families and now offers his services to you.;;;;;;;;;;;Êàêîé-òî ÷óäàê ïðèåõàë â Âàø ëàãåðü. Ãîâîðèò, ÷òî îí õóäîæíèê è ðèñóåò ïðåêðàñíûå êàðòèíû ëþäåé, áëàãîðîäíûõ è çíàòíûõ. Îí ïðåäëàãàåò Âàì ñâîè óñëóãè.;;x
+EVTDESC_HL_6990;I haven't been feeling quite like myself during the last couple of weeks. It feels like there's a piece of myself missing now that my favorite horse is gone.;;;;;;;;;;;Âîò óæå íåñêîëüêî íåäåëü ÿ ÷óâñòâóþ ñåáÿ ïëîõî. Ýòî íå áîëåçíü. Ìîåãî ëþáèìîãî êîíÿ áîëüøå íåò - ñ íèì óøëà êàêàÿ-òî ÷àñòü ìåíÿ.;;x
+EVTOPTA_HL_6500;Goodbye, old friend.;;;;;;;;;;;Ïðîùàé, ñòàðûé äðóã.;;x
+EVTOPTA_HL_6512;I'll have that beast killed!;;;;;;;;;;;ß óáüþ ýòî æèâîòíîå!;;x
+EVTOPTA_HL_6520;I want a portrait of myself.;;;;;;;;;;;Íàðèñóé ìåíÿ.;;x
+EVTOPTA_HL_6990;I have to carry this burden alone.;;;;;;;;;;;Ìíå ïðèä¸òñÿ íåñòè ýòî áðåìÿ â îäèíî÷êó.;;x
+EVTOPTB_HL_6512;There's a better watering spot over here...;;;;;;;;;;;Åñòü ìíîãî äðóãèõ õîðîøèõ ìåñò äëÿ âîäîïîÿ...;;x
+EVTOPTB_HL_6520;I want a portrait of my beloved wife.;;;;;;;;;;;ß õî÷ó ïîðòðåò ñâîåé æåíû.;;x
+EVTOPTB_HL_6990;I'm lucky to have a [Root.Spouse.GetHusbandWife] to comfort me.;;;;;;;;;;;Íî ì[Root.Spouse.GetOyaOy] [Root.Spouse.GetHusbandWife] ïîìîæåò ìíå ýòî ïåðåæèòü.;;x
+EVTOPTC_HL_6520;I want a portrait of my beautiful concubine.;;;;;;;;;;;Íàðèñóé ìîþ íàëîæíèöó.;;x
+EVTOPTC_HL_6520_MALE;I want a portrait of my beautiful consort.;;;;;;;;;;;Íàðèñóé ìî[Root.GetYuEgoOpp] íàëîæíè[Root.GetTsuKaOpp].;;x
+EVTOPTC_HL_6990;I'm lucky to have a friend to comfort me.;;;;;;;;;;;Íî ó ìåíÿ åñòü òîò, êòî ïîìîæåò ýòî ïåðåæèòü.;;x
+EVTOPTD_HL_6520_ARROW;I want a portrait of my magnificent horse, Arrow.;;;;;;;;;;;Êèíæàë, ìîé ëó÷øèé êîíü, íàðèñóé åãî.;;x
+EVTOPTD_HL_6520_DRAGON;I want a portrait of my magnificent horse, Dragon.;;;;;;;;;;;Äðàêîí, ìîé ëó÷øèé êîíü, íàðèñóé åãî.;;x
+EVTOPTD_HL_6520_LIGHTNING;I want a portrait of my magnificent horse, Lightning.;;;;;;;;;;;Ãðîì, ìîé ëó÷øèé êîíü, íàðèñóé åãî.;;x
+EVTOPTD_HL_6520_SKY;I want a portrait of my magnificent horse, Sky.;;;;;;;;;;;Ãîðèçîíò, ìîé ëó÷øèé êîíü, íàðèñóé åãî.;;x
+EVTOPTE_HL_6520;I can't afford this.;;;;;;;;;;;Ìíå ýòî íå ïî êàðìàíó.;;x

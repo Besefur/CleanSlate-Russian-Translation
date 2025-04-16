@@ -1,21 +1,19 @@
-EVTDESC_RIP_11501;Briefly, you could see it coming. Perhaps you could have acted differently to avoid this. You are now One-Eyed.;;;;;;;;;;;;;x
-EVTDESC_RIP_11502;There is only a stump where your hand used to be, you are now One-Handed.;;;;;;;;;;;;;x
-EVTDESC_RIP_11503;Excruciating pain is shooting through your whole body, originating from the stump where your leg used to be. You are now One-Legged.;;;;;;;;;;;;;x
-EVTDESC_RIP_11504;Your formerly smooth face is now a torn, disgusting mess. You are Disfigured.;;;;;;;;;;;;;x
-EVTDESC_RIP_11505;The shape of your body has changed forever, crushed bones and damage to your internal organs cause others to turn their heads away in disgust. You are Mangled.;;;;;;;;;;;;;x
-EVTDESC_RIP_11506;Ever since you lost your limbs, you have started seeing things in a new light. Animals seem to consider you less frightening, they approach you more often than your courtiers. Whether or not it is pity or affection you will never know. \n\nThis one particular bird seems to have the intention to be your most loyal friend. A parrot that hates everyone else, but likes sitting on your shoulders.;;;;;;;;;;;;;x
-EVTDESC_RIP_11507;Raaaawk, 'best friend'.;;;;;;;;;;;;;x
-EVTDESC_RIP_11510;By consuming the very life force of [From.GetTitledFirstName], I've also gained a part of [From.GetHerHis] personality and strength!;;;;;;;;;;;;;x
-EVTDESC_RIP_11511;I've just received word that the mad cannibal [FromFrom.GetTitledName] has eaten my [GetFromRelation] [From.GetFirstName]! By [Root.Religion.GetRandomGodNameCap]! How could one do such a thing?!;;;;;;;;;;;;;x
-
-EVTOPTA_RIP_11501;Hindsight is fifty-fifty.;;;;;;;;;;;;;x
-EVTOPTA_RIP_11502;I have to deal with this.;;;;;;;;;;;;;x
-EVTOPTA_RIP_11503;Not good.;;;;;;;;;;;;;x
-EVTOPTA_RIP_11504;I can't show my face any more.;;;;;;;;;;;;;x
-EVTOPTA_RIP_11505;I will never be the same.;;;;;;;;;;;;;x
-EVTOPTA_RIP_11506;My new best friend!;;;;;;;;;;;;;x
-EVTOPTA_RIP_11507;...;;;;;;;;;;;;;x
-EVTOPTA_RIP_11510;Unlimited power!;;;;;;;;;;;;;x
-EVTOPTA_RIP_11511;This is outrageous!;;;;;;;;;;;;;x
-
-EVTTITLE_RIP_11506;Starting Fresh;;;;;;;;;;;;;x
+EVTDESC_RIP_11501;Briefly, you could see it coming. Perhaps you could have acted differently to avoid this. You are now One-Eyed.;;;;;;;;;;;Âîçìîæíî, ïîñòóïè Âû íåìíîãî èíà÷å è ìîãëè áû èçáåæàòü ýòîãî, íî óæå ïîçäíî, òåïåðü Âû îäíîãëàç[Root.GetAyaYy].;;x
+EVTDESC_RIP_11502;There is only a stump where your hand used to be, you are now One-Handed.;;;;;;;;;;;Íà ìåñòå Âàøåé ëàäîíè ëèøü îáðóáîê, òåïåðü Âû îäíîðóê[Root.GetAyaIy].;;x
+EVTDESC_RIP_11503;Excruciating pain is shooting through your whole body, originating from the stump where your leg used to be. You are now One-Legged.;;;;;;;;;;;Áîëü ïðîíçàåò âñ¸ Âàøå òåëî, íà÷èíàÿñü òàì, ãäå áûëà Âàøà íîãà. Òåïåðü Âû îäíîíîã[Root.GetAyaIy].;;x
+EVTDESC_RIP_11504;Your formerly smooth face is now a torn, disgusting mess. You are Disfigured.;;;;;;;;;;;Òî, ÷òî ðàíüøå áûëî Âàøèì ëèöîì, ñåé÷àñ æóòêîå ìåñèâî. Òåïåðü Âû èçóðîäîâàíí[Root.GetAyaYy].;;x
+EVTDESC_RIP_11505;The shape of your body has changed forever, crushed bones and damage to your internal organs cause others to turn their heads away in disgust. You are Mangled.;;;;;;;;;;;Ôîðìà Âàøåãî òåëà èçìåíèëàñü íàâñåãäà, ðàçäðîáëåííûå êîñòè, ïîâðåæä¸ííûå îðãàíû - ëþäè íå â ñèëàõ ñäåðæàòü îòâðàùåíèÿ. Òåïåðü Âû èñêðîìñàíí[Root.GetAyaYy].;;x
+EVTDESC_RIP_11506;Ever since you lost your limbs, you have started seeing things in a new light. Animals seem to consider you less frightening, they approach you more often than your courtiers. Whether or not it is pity or affection you will never know. \n\nThis one particular bird seems to have the intention to be your most loyal friend. A parrot that hates everyone else, but likes sitting on your shoulders.;;;;;;;;;;;Ñ òåõ ïîð, êàê Âû ïîòåðÿëè ñâîè êîíå÷íîñòè, Âû ñòàëè âèäåòü ìèð â ñîâåðøåííî èíîì ñâåòå. Æèâîòíûå, ïîõîæå, ñòàëè ìåíüøå áîÿòüñÿ Âàñ - òåïåðü Âû âèäåòå èõ âîçëå ñåáÿ ãîðàçäî ÷àùå, ÷åì ïðèäâîðíûõ.\nÀ íåäàâíî, Âû çàìåòèëè, êàê îäèí ïîïóãàé, êîòîðûé òåðïåòü íå ìîæåò ëþäåé, îáîæàåò ñèäåòü ó Âàñ íà ïëå÷å.;;x
+EVTDESC_RIP_11507;Raaaawk, 'best friend'.;;;;;;;;;;;"Àðð! ""Ìîé íîâûé ëó÷øèé äðóã"", ""íîâûé ëó÷øèé äðóã"", àðð!";;x
+EVTDESC_RIP_11510;By consuming the very life force of [From.GetTitledFirstName], I've also gained a part of [From.GetHerHis] personality and strength!;;;;;;;;;;;[From.GetTitledFirstName] âåñüìà ïèòàòåë[From.GetSoftNaEn]. Ïîãëîòèâ [From.GetHersHis] æèçíåííóþ ñèëó, ÿ îáðåë[Root.GetEndA] ñèëüíûå ñòîðîíû [From.GetHersHis] ëè÷íîñòè!;;x
+EVTDESC_RIP_11511;I've just received word that the mad cannibal [FromFrom.GetTitledName] has eaten my [GetFromRelation] [From.GetFirstName]! By [Root.Religion.GetRandomGodNameCap]! How could one do such a thing?!;;;;;;;;;;;ß òîëüêî ÷òî óçíàë[Root.GetEndA], ÷òî êàê[FromFrom.GetAyaOy]-òî áîëüí[FromFrom.GetAyaOy] íà âñþ ãîëîâó ëþäîåä[FromFrom.GetEndKa] ñîæðàë[FromFrom.GetAyaYy] ìî[From.GetYuEgo]... Ñåäüìîå ïåêëî, ýòî ì[From.GetOyaOy] Î, [Root.GetNumenFOA], [From.GetFirstName]! Çà ÷òî?!;;x
+EVTOPTA_RIP_11501;Hindsight is fifty-fifty.;;;;;;;;;;;Îãëÿäûâàÿñü íàçàä, ÿ áû ñêàçàë[Root.GetEndA] 50 íà 50.;;x
+EVTOPTA_RIP_11502;I have to deal with this.;;;;;;;;;;;Ïðèä¸òñÿ ñ ýòèì æèòü.;;x
+EVTOPTA_RIP_11503;Not good.;;;;;;;;;;;Ïëîõî.;;x
+EVTOPTA_RIP_11504;I can't show my face any more.;;;;;;;;;;;ß íå ìîãó ïîêàçûâàòü òàêîå ëþäÿì.;;x
+EVTOPTA_RIP_11505;I will never be the same.;;;;;;;;;;;Ìíå íèêîãäà íå ñòàòü ïðåæí[Root.GetEyIm].;;x
+EVTOPTA_RIP_11506;My new best friend!;;;;;;;;;;;Ìîé íîâûé ëó÷øèé äðóã!;;x
+EVTOPTA_RIP_11507;...;;;;;;;;;;;...;;x
+EVTOPTA_RIP_11510;Unlimited power!;;;;;;;;;;;Î ñèëà, î ìîùü!;;x
+EVTOPTA_RIP_11511;This is outrageous!;;;;;;;;;;;Âàøó æ ìàòü! Ýòî ïåðåõîäèò âñå ãðàíèöû!;;x
+EVTTITLE_RIP_11506;Starting Fresh;;;;;;;;;;;Câåæèé ñòàðò;;x

@@ -1,459 +1,387 @@
-christian;Christian;;;;;;;;;;;;;x
-
-catholic;Catholic;;;;;;;;;;;;;x
-catholic_DESC;Catholicism is one of the oldest branches of Christianity and the one that has had the biggest impact on the history of Europe. The formal head of the religion is the Bishop of Rome - the Pope.;;;;;;;;;;;;;x
-
-cathar;Cathar;;;;;;;;;;;;;x
-cathar_DESC;The Cathar, or Albigensian, heresy rejects confession and the holiness of the clergy and of the Pope. They only have a single sacrament - the Consolation - to remove sin and turn the believer into a Cathar 'Perfect'.;;;;;;;;;;;;;x
-cathar_FEATURES;§Y*§! Women may hold all councillor positions\n§Y*§! Women may lead armies;;;;;;;;;;;;;x
-
-fraticelli;Fraticelli;;;;;;;;;;;;;x
-fraticelli_DESC;The Fraticelli, or 'Little Brethren', is a Catholic heresy that originated in the Fransiscan Order of monks. It is devoted to poverty and asceticism - especially for men of the cloth. Fraticelli heretics are violently opposed to Church wealth and displays of opulence.;;;;;;;;;;;;;x
-
-waldensian;Waldensian;;;;;;;;;;;;;x
-waldensian_DESC;Originally a reform movement within the Catholic church, Waldensian heretics are anti-clerical and advocate a return to vows of poverty. They are opposed to capital punishment and believe that laymen can also administer the sacraments. This heresy has no formal head and no special game mechanics.;;;;;;;;;;;;;x
-
-lollard;Lollard;;;;;;;;;;;;;x
-lollard_DESC;Lollard heretics are opposed to perceived corruption within the Catholic Church. Like many Catholic heresies, they loathe the wealth and ostentation of the clergy and advocate a return to a more original form of Christianity. This heresy has no formal head and no special game mechanics.;;;;;;;;;;;;;x
-
-orthodox;Orthodox;;;;;;;;;;;;;x
-orthodox_DESC;The Orthodox Church is the other main branch of Chalcedonian Christianity that up until 1054 was formally united with the Catholic Church, although the political division can be traced back to the crowning of Charlemagne as Roman Emperor by Pope Leo III in 800, which did not sit well with the Emperor in Constantinople. The nominal head of the Orthodox Church is the Ecumenical Patriarch of Constantinople, but he does not interfere in the affairs of other Patriarchs.;;;;;;;;;;;;;x
-
-bogomilist;Bogomilist;;;;;;;;;;;;;x
-bogomilist_DESC;Bogomilism is an originally Orthodox Christian heresy with Gnostic elements that completely rejects the ecclesiastical hierarchy and advocates a return to early Christianity. Bogomilists believe that the world was created by an evil demiurge - the Devil.;;;;;;;;;;;;;x
-
-monothelite;Monothelite;;;;;;;;;;;;;x
-monothelite_DESC;Monothelitism is a Christological doctrine that was declared heretical in 681. Monothelites attempted to develop the Miaphysite and Monophysite stance on the single nature of Christ by saying he had both a human and a divine nature but only a single will. The nominal head of the Monothelite Church is the Monothelite Patriarch of Antioch.;;;;;;;;;;;;;x
-
-iconoclast;Iconoclast;;;;;;;;;;;;;x
-iconoclast_DESC;The Iconoclast heresy plagued the Byzantine Empire in multiple waves. Iconoclasts believe that religious images - icons and depictions of holy figures in particular - are a form of idolatry and must not be allowed. In their heyday, iconoclasts destroyed innumerable such decorations and icons, sometimes even urged on by Iconoclast Emperors.;;;;;;;;;;;;;x
-
-paulician;Paulician;;;;;;;;;;;;;x
-paulician_DESC;Paulicianism is Christian Gnostic heresy influenced by Manichaeism, originating in Armenia. In the game, it is treated as an Orthodox heresy.;;;;;;;;;;;;;x
-
-miaphysite;Miaphysite;;;;;;;;;;;;;x
-miaphysite_DESC;Miaphysite Christianity encompasses the Coptic Church and the Armenian Apostolic Church. Miaphysites stress that Christ had but a single nature, but of both human and divine character. This stance split them off from the main branch of Christianity after the council of Chalcedon in 451. Though not viewed as outright heretics by Orthodox and Catholic Christians, it is a fine distinction. The nominal head of the Miaphysite Church is the Pope of Alexandria.;;;;;;;;;;;;;x
-
-monophysite;Monophysite;;;;;;;;;;;;;x
-monophysite_DESC;Monophysitism is an early Christian heresy which states that Christ had but a single nature. This is the opposite of the Nestorian position where Christ has two separate natures - one divine and one human. Closely related to Miaphytism, Monophysites are regarded as a Miaphysite heresy in-game. The nominal head of the Monophysite Church is the Monophysite Pope of Alexandria.;;;;;;;;;;;;;x
-
-nestorian;Nestorian;;;;;;;;;;;;;x
-nestorian_DESC;Nestorianism is an early Christian branch which states that Christ has two separate natures - one divine and one human. This is the opposite of the Monophysite position where Christ has but a single nature. The nominal head of the Nestorian Church is the Patriarch of the East.;;;;;;;;;;;;;x
-
-messalian;Messalian;;;;;;;;;;;;;x
-messalian_DESC;The Messalians, or Euchites ("Those who Pray"), are a heretical Christian sect that originated in Mesopotamia, influenced by dualistic faiths like Zoroastrianism. Messalians believe that God can be perceived by the carnal senses, and that this perception is necessary to reach perfection. Each person is born with an inner demon, and only intense prayer can drive it out. They also believe that Lucifer is the elder son of God and a force for good, and that incest is sacred since it was practised by the children of Adam and Eve. They have no formal rites and no strict church hierarchy.;;;;;;;;;;;;;x
-messalian_FEATURES;§Y*§! Women may hold all councillor positions\n§Y*§! Women may lead armies;;;;;;;;;;;;;x
-
-
-
-muslim;Muslim;;;;;;;;;;;;;x
-
-sunni;Sunni;;;;;;;;;;;;;x
-sunni_DESC;Sunni Islam is by far the most widespread form of the religion. It is the more orthodox of the two main branches of Islam but the origin of the Sunni-Shia schism was largely political in nature. The Sunnis accepted the first Caliph, Abu Bakr, whereas the Shiites rejected him in favor of Ali. Sunni Muslims hold strictly to the Sunnah - the sayings and actions of Muhammad - as collected in the Hadiths, which form the basis for Sunni jurisprudence. The formal head of Sunni Islam is the (Sunni) Caliph.;;;;;;;;;;;;;x
-
-zikri;Zikri;;;;;;;;;;;;;x
-zikri_DESC;Zikri Islam is a Sunni heresy in-game. Zikris are the followers of the Imam Akhar Zaman Hazrat Syed Muhammad Jaunpuri (Imam Mehdi.);;;;;;;;;;;;;x
-
-yazidi;Yazidi;;;;;;;;;;;;;x
-yazidi_DESC;The Yazidi religion is properly a distinct religion but is treated as a Sunni heresy in the game. Yazidis believe that God created the world and left seven angels in charge, the chief of whom is the Peacock Angel, Malek Taus or Shaytan, a being usually identified by Christians and Muslims as Satan.;;;;;;;;;;;;;x
-
-shiite;Shia;;;;;;;;;;;;;x
-shiite_DESC;Shi'a is the short form of Shi'atul Ali, or the Party of Ali, which rejected the first Caliph Abu Bakr in favor of Ali. Shi'a Islam is the less orthodox of the two main branches of Islam and accepts the idea of intercession by dead Imams on behalf of the living. The formal head of Shi'a Islam is the (Shiite) Caliph.;;;;;;;;;;;;;x
-
-qarmatian;Qarmatian;;;;;;;;;;;;;x
-qarmatian_DESC;The Qarmatians were a heterodox branch of Shi’a Islam that combined elements of Zoroastrianism. They rejected the mainstream succession of the Shi’ite rulers, and instead established a theocratic republic in eastern Arabia in the 10th Century. They are remembered for their brutal sacking of Mecca and rejection of the Hajj pilgrimage.;;;;;;;;;;;;;x
-
-druze;Druze;;;;;;;;;;;;;x
-druze_DESC;The Druze religion originated in the Ismaili sect of Shi'a Islam, but has many features of gnosticism and neoplatonism in addition to those of the Abrahamic religions.;;;;;;;;;;;;;x
-
-hurufi;Hurufi;;;;;;;;;;;;;x
-hurufi_DESC;The Hurufi faith is a mystical, kabbalistic, Sufi sect within Islam, regarded as a heresy.;;;;;;;;;;;;;x
-
-ibadi;Ibadi;;;;;;;;;;;;;x
-ibadi_DESC;Ibadism is distinct from both Shi'a and Sunni Islam. Ibadis believe that souls condemned to Hell will stay there forever. Ibadis also reject the notion that Muslims will get to see Allah on the Day of Judgment.;;;;;;;;;;;;;x
-
-kharijite;Kharijite;;;;;;;;;;;;;x
-kharijite_DESC;The Kharijites are a branch of Islam that was marginalized and repressed early in the 7th century. They believe that any unrepentant sinner is a Kafir, also rejecting the notion of infallibility of the Caliphs.;;;;;;;;;;;;;x
-
-
-
-jewish_group;Israelite;;;;;;;;;;;;;x
-
-jewish;Jewish;;;;;;;;;;;;;x
-jewish_DESC;Judaism is the oldest of the Abrahamic religions and its origins can be traced back all the way to the Bronze Age. The holiest city of this monotheistic faith is Jerusalem, which served as the capital of the ancient Kingdom of Israel.;;;;;;;;;;;;;x
-
-karaite;Karaite;;;;;;;;;;;;;x
-karaite_DESC;Karaite Judaism is a Jewish movement characterized by the recognition of the Tanakh alone as its supreme legal authority in Jewish religious law and theology. In this it is distinct from mainstream Rabbinic Judaism. Karaites maintain that all of the divine commandments handed down to Moses by God were recorded in the written Torah, without additional Oral Law or explanation. In-game, Karaite Judaism is a heresy of mainstream Judaism. This heresy has no formal head and no special game mechanics.;;;;;;;;;;;;;x
-
-samaritan;Samaritan;;;;;;;;;;;;;x
-samaritan_DESC;Samaritanism is an Abrahamic religion closely related to Judaism. Samaritans assert their worship is the true religion of the ancient Israelites prior to the Babylonian Exile, preserved by those who remained in the Land of Israel, as opposed to Judaism, which they assert is a related but altered and amended religion. In-game, Samaritanism is treated as a heresy of mainstream Judaism. This heresy has no formal head and no special game mechanics.;;;;;;;;;;;;;x
-
-
-
-zoroastrian_group;Mazdan;;;;;;;;;;;;;x
-
-zoroastrian;Zoroastrian;;;;;;;;;;;;;x
-zoroastrian_DESC;Zoroastrians worship Ahura Mazda, the uncreated God, as proclaimed by the ancient Iranian prophet Zoroaster. It was the official religion of all Persian empires (except the Hellenic Seleucid Empire) until the Muslim conquest of the Sassanid Empire in 651. The ancient form of the religion involved great sacred hill top fires, the exposure of dead bodies to scavenger birds for cleansing, and religious close-kin marriages in imitation of Ahura Mazda and Zoroaster.;;;;;;;;;;;;;x
-
-mazdaki;Mazdaki;;;;;;;;;;;;;x
-mazdaki_DESC;Mazdak was a Zoroastrian priest who claimed to be a prophet of Ahura Mazda. He attempted to reform the religion with Gnostic elements, and advocated communal possessions and welfare programs. His teachings fell out of favor with the Shahanshah Kavadh I in 524, but pockets of there heresy survived in remote areas. This heresy has no formal head and no special game mechanics.;;;;;;;;;;;;;x
-
-manichaean;Manichaean;;;;;;;;;;;;;x
-manichaean_DESC;Manichaeism is a Gnostic religion founded by the alleged Prophet Mani who was put to death by Sassanid Shahanshah Bahram I in 277 A.D. His 'Religion of Light' incorporated elements of Christianity, Zoroastrianism, Buddhism and Gnosticism. In the game, Manichaeism is regarded as Zoroastrian heresy with its own special mechanics. The formal head of the religion is Yamag, who normally resides in Samarkand.;;;;;;;;;;;;;x
-
-khurmazta;Khurmazta;;;;;;;;;;;;;x
-khurmazta_DESC;Khurmazta (Zarvana) is syncretic form of Zoroastrianism which was practiced among the Sogdians. It mixes Zoroastrianism with Hinduism, Buddhism and various pagan religions. Aside from Khurmazta, lesser deities such as Weshparkar, God of Wind, are worshipped and made offerings, usually in form of small statues.;;;;;;;;;;;;;x
-khurmazta_FEATURES;§Y*§! Rulers may select a lesser deity to honor;;;;;;;;;;;;;x
-
-
-
-indian_group;Eastern;;;;;;;;;;;;;x
-
-buddhist;Buddhist;;;;;;;;;;;;;x
-buddhist_DESC;Buddhism was founded by the Buddha, Siddhartha Gautama, in Northeast India in the 5th century BC. The religion flourished in India for more than 1500 years, building huge libraries and monastery complexes, until Muslim invasions and the growing power of the Brahmin caste drove Buddhism out of the subcontinent. In the game, Buddhists get a significant bonus to Learning, meaning that they will research technologies faster.;;;;;;;;;;;;;x
-buddhist_FEATURES;§Y*§! Can only declare limited Holy Wars against non-[GetDharmicOrRandom] religions;;;;;;;;;;;;;x
-
-hindu;Hindu;;;;;;;;;;;;;x
-hindu_DESC;Hinduism is not a single religion so much as a blanket term for the successor faiths of ancient Indian polytheism as recorded in the Vedas. The existence of many different sects within Hinduism - as well as millennia of relatively peaceful co-existence with Jainism and Buddhism - has made the Hindu faith remarkably tolerant and pluralistic toward all Indian religions. Still, it is the most warlike of the three.;;;;;;;;;;;;;x
-hindu_FEATURES;§Y*§! Can only declare Holy Wars against non-[GetDharmicOrRandom] religions;;;;;;;;;;;;;x
-
-jain;Jain;;;;;;;;;;;;;x
-jain_DESC;Jainism is a religion of incredible antiquity, stemming from the ascetic Sramana tradition of India, in opposition to the priestly Brahmins and the caste system. The guiding principle of Jainism is Ahimsa - non-violence - which is more radically interpreted than in any other religion. In the game, Jains have a hard time waging offensive wars, but their remarkable tolerance means Jain rulers are well liked by all.;;;;;;;;;;;;;x
-
-taoist;Taoist;;;;;;;;;;;;;x
-taoist_DESC;Taoism is a polytheistic religion originating in China. While traditionally regarded as founded by Laozi the Supreme Old Lord in the 4th century BC, some elements and practices can be traced to prehistoric folk religions across the Middle Kingdom. The followers revere Tao, the underlying natural order of the Universe – the active expression of Tao for an individual is Te, the inner virtue. Taoists also value life over death, and believe it possible to achieve immortality, through various methods, including spiritual practices and alchemy. In the game, the strong focus on good governance within Taoist society means all Taoist characters get a bonus to Stewardship.;;;;;;;;;;;;;x
-taoist_FEATURES;§Y*§! Can NOT declare Holy Wars;;;;;;;;;;;;;x
-
-
-
-pagan_group;Pagan;;;;;;;;;;;;;x
-pagan_group_FEATURES;§Y*§! Women may hold Spymaster positions;;;;;;;;;;;;;x
-
-pagan;Pagan;;;;;;;;;;;;;x
-pagan_DESC;Since the dawn of history, both Europe and the Middle East has been home to countless Pagan religions and cults unrelated to the Abrahamic faiths.;;;;;;;;;;;;;x
-pagan_FEATURES;§Y*§! Inferior at conversion\n§Y*§! Rulers cannot declare Holy Wars;;;;;;;;;;;;;x
-
-baltic_pagan;Romuva;;;;;;;;;;;;;x
-baltic_pagan_DESC;Baltic paganism is polytheistic, with a pantheon of gods led by Dievs, god of the sky. Other main gods include Perkunas, god of thunder and lightning, very similar to the Germanic god Thor and the Slavic Perun. Other important deities include Saule, goddess of the sun and fertility, Daugava and Meness.;;;;;;;;;;;;;x
-baltic_pagan_FEATURES;§Y*§! Inferior at conversion\n§Y*§! Rulers cannot declare Holy Wars;;;;;;;;;;;;;x
-baltic_pagan_reformed;Romuva;;;;;;;;;;;;;x
-baltic_pagan_reformed_DESC;Baltic paganism is polytheistic, with a pantheon of gods led by Dievas, god of the sky. Other main gods include Perkunas, god of thunder and lightning, very similar to the Germanic god Thor and the Slavic Perun. The reformed Baltic faith has a Holy Book with a creation myth, chapters on the gods and a book of prophesies. The church also has a standardized liturgy and a formal church hierarchy.;;;;;;;;;;;;;x
-
-aztec_pagan;Aztec;;;;;;;;;;;;;x
-aztec_pagan_DESC;The Aztec religion features a creation myth centered on sacrifice - even gods were sacrificed to keep the sun moving. This is reflected in the many festivals and rituals of the religion, which feature human sacrifice on a massive scale. The chief gods are Huitzilopochtli, god of war and human sacrifice, Tlaloc, god of thunder and rain, Xiuhtecuhtli, god of fire, Xipe Totec, 'our Lord the Flayed One' and Quetzalcoatl, god of wisdom.;;;;;;;;;;;;;x
-aztec_pagan_reformed;Aztec;;;;;;;;;;;;;x
-aztec_pagan_reformed_DESC;The Aztec religion features a creation myth centered on sacrifice - even gods were sacrificed to keep the sun moving. This is reflected in the many festivals and rituals of the religion, which feature human sacrifice on a massive scale. The reformed Aztec religion has a proper Holy Book, a standardized liturgy and a formal church hierarchy led by a flock of dedicated hierophants.;;;;;;;;;;;;;x
-
-finnish_pagan;Suomenusko;;;;;;;;;;;;;x
-finnish_pagan_DESC;Finnic paganism is diverse, varying a lot between tribes and regions. It is shamanistic and animist, revering a multitude of gods, including Ukko/Perkele, Kuu and, in the east, Mastor-Ava, goddess of the Earth.;;;;;;;;;;;;;x
-finnish_pagan_FEATURES;§Y*§! Inferior at conversion\n§Y*§! Rulers cannot declare Holy Wars;;;;;;;;;;;;;x
-finnish_pagan_reformed;Suomenusko;;;;;;;;;;;;;x
-finnish_pagan_reformed_DESC;Finnic paganism is shamanistic and animist, revering a multitude of gods, including Ukko/Perkele, Kuu and, in the east, Mastor-Ava, goddess of the Earth. The reformed Finnish faith has a Holy Book with a creation myth, chapters on the gods and a book of spells and mysteries.;;;;;;;;;;;;;x
-
-slavic_pagan;Slavic;;;;;;;;;;;;;x
-slavic_pagan_DESC;Slavic heathenry is polytheistic, the chief god being Perun, god of thunder and lightning, quite similar to the Germanic god Thor. Other important deities include Veles, god of the underworld, Svarog, Jarilo and Svantevit. In addition, many tribes revere local gods.;;;;;;;;;;;;;x
-slavic_pagan_FEATURES;§Y*§! Inferior at conversion\n§Y*§! Rulers cannot declare Holy Wars;;;;;;;;;;;;;x
-slavic_pagan_reformed;Slavic;;;;;;;;;;;;;x
-slavic_pagan_reformed_DESC;The Slavic religion is polytheistic, the chief god being Perun, god of thunder and lightning, quite similar to the Germanic god Thor. Other important deities include Veles, god of the underworld, Svarog, Jarilo and Svantevit. The reformed Slavic faith has a Holy Book with a creation myth, chapters on the gods and a book of prophesies.;;;;;;;;;;;;;x
-
-tengri_pagan;Tengri;;;;;;;;;;;;;x
-tengri_pagan_DESC;Tengrism is the religion of the steppe peoples of Eurasia, especially Turkish and Mongol nomads. The chief god is Tengri, the creator god who rules the skies. Shamanism and animism also feature prominently in the religion.;;;;;;;;;;;;;x
-tengri_pagan_FEATURES;§Y*§! Inferior at conversion\n§Y*§! Rulers cannot declare Holy Wars;;;;;;;;;;;;;x
-tengri_pagan_reformed;Tengri;;;;;;;;;;;;;x
-tengri_pagan_reformed_DESC;Tengrism is the religion of the steppe peoples of Eurasia, especially Turkish and Mongol nomads. The chief god is Tengri, the creator god who rules the skies. The reformed Tengri faith has transferred its oral legends into a collection of scrolls written in the Orkhon runic script, acquiring a standardized liturgy and a formal church hierarchy.;;;;;;;;;;;;;x
-
-west_african_pagan;African;;;;;;;;;;;;;x
-west_african_pagan_DESC;The African religion includes many of the diverse pagan beliefs of the tribes of Sub-Saharan Africa. Ancestor worship, animism and totemistic shamanism dominate, but there also various pantheons of gods.;;;;;;;;;;;;;x
-west_african_pagan_FEATURES;§Y*§! Inferior at conversion\n§Y*§! Rulers cannot declare Holy Wars;;;;;;;;;;;;;x
-west_african_pagan_reformed;African;;;;;;;;;;;;;x
-west_african_pagan_reformed_DESC;The reformed African religion is a fusion of many popular beliefs, with a single Holy Book including a creation myth, chapters on the spirits, totem animal fables and gods.;;;;;;;;;;;;;x
-
-norse_pagan;Germanic;;;;;;;;;;;;;x
-norse_pagan_DESC;In the Early Middle Ages, the ancient Germanic belief system is still dominant in Scandinavia and northern Germany. A pantheon of gods under the wise warrior god Odin (or Wodan) rules all the branches of the worldtree, Yggdrasil. The other two main gods are Thor (Thunar), friend to mankind, and Frey, god of fertility.;;;;;;;;;;;;;x
-norse_pagan_FEATURES;§Y*§! Inferior at conversion\n§Y*§! Rulers cannot declare Holy Wars;;;;;;;;;;;;;x
-norse_pagan_reformed;Germanic;;;;;;;;;;;;;x
-norse_pagan_reformed_DESC;The reformed Norse Pagan faith has a Holy Book written in runes with chapters on Creation, the gods, Ragnarok, and secret spells - 'galdrs'. The church has a standardized liturgy and a formal church hierarchy no longer relying on shamans and fortunetellers to lead the faithful.;;;;;;;;;;;;;x
-
-zun_pagan;Zunist;;;;;;;;;;;;;x
-zun_pagan_DESC;Zun, the Giver of Justice, is the sun-god originally worshipped by the Zunbil dynasty in Afghanistan. Zun embodies wisdom, power, fire and the light that drives away the night. Defining features in-game:\n§Y*§! Can declare Subjugation Wars against all other pagans\n§Y*§! Inferior at conversion and vulnerable to non-pagan missionaries;;;;;;;;;;;;;x
-zun_pagan_FEATURES;§Y*§! Inferior at conversion\n§Y*§! Rulers cannot declare Holy Wars;;;;;;;;;;;;;x
-zun_pagan_reformed;Church of Zun;;;;;;;;;;;;;x
-zun_pagan_reformed_DESC;Zun, the Sun-God and Giver of Justice, embodies wisdom, power, fire and the light that drives away the night. The reformed Zun faith has a Holy Book detailing things such as the creation myths and outlining church doctrine, as well as a standardized liturgy and a formal church hierarchy.;;;;;;;;;;;;;x
-zun_pagan_reformed_adj;Zunist;;;;;;;;;;;;;x
-
-hellenic_pagan;Hellenic;;;;;;;;;;;;;x
-hellenic_pagan_DESC;The Hellenistic religion is polytheistic, with a pantheon of twelve major gods including Jupiter, Mars, Mercury, Venus, Minerva and Vesta. It originated in ancient Greece and with the conquests of Alexander the Great and the Roman Empire, it would go on to become the dominant religion in the Mediterranean world until the rise of Christendom.;;;;;;;;;;;;;x
-hellenic_pagan_FEATURES;§Y*§! Inferior at conversion\n§Y*§! Rulers cannot declare Holy Wars;;;;;;;;;;;;;x
-hellenic_pagan_reformed;Hellenic;;;;;;;;;;;;;x
-hellenic_pagan_reformed_DESC;The Hellenistic religion is polytheistic, with a pantheon of twelve major gods including [GetZeusJupiterName], [GetAresMarsName], [GetHermesMercuryName], [GetAphroditeVenusName], [GetAthenaMinervaName] and [GetHestiaVestaName]. Restored after having been almost but wiped out by Christianity, it has been fully adapted by its new practitioners to contend against its more aggressive, younger competitors.;;;;;;;;;;;;;x
-
-bon_pagan;Bön;;;;;;;;;;;;;x
-bon_pagan_DESC;Bön is the ancient indigenous pre-Buddhist religion of Tibet. It is shamanistic and animistic in nature with multiple deities. After the introduction of Buddhism to Tibet, Bön adopted many of its elements.;;;;;;;;;;;;;x
-bon_pagan_FEATURES;§Y*§! Rulers may select a lesser deity to honor\n§Y*§! Inferior at conversion\n§Y*§! Rulers cannot declare Holy Wars;;;;;;;;;;;;;x
-bon_pagan_reformed;Bön;;;;;;;;;;;;;x
-bon_pagan_reformed_DESC;The reformed Bön faith has fully incorporated some of its Buddhists elements while codifying the shamanic and animistic deities followed by its worshipers in a series of detailed scriptures.;;;;;;;;;;;;;x
-
+christian;Christian;;;;;;;;;;;Õðèñòèàíñòâî;;x
+catholic;Catholic;;;;;;;;;;;Êàòîëè÷åñòâî;;x
+catholic_DESC;Catholicism is one of the oldest branches of Christianity and the one that has had the biggest impact on the history of Europe. The formal head of the religion is the Bishop of Rome - the Pope.;;;;;;;;;;;Êàòîëè÷åñòâî ÿâëÿåòñÿ îäíîé èç ñòàðåéøèõ âåòâåé õðèñòèàíñòâà, èìåâøåé íàèáîëüøåå âëèÿíèå íà èñòîðèþ Åâðîïû. Ôîðìàëüíûé ãëàâà ðåëèãèè - åïèñêîï Ðèìà - Ïàïà Ðèìñêèé.;;x
+cathar;Cathar;;;;;;;;;;;Êàòàðèçì;;x
+cathar_DESC;The Cathar, or Albigensian, heresy rejects confession and the holiness of the clergy and of the Pope. They only have a single sacrament - the Consolation - to remove sin and turn the believer into a Cathar 'Perfect'.;;;;;;;;;;;"Êàòàðû èëè àëüáèãîéöû — åðåòèêè, îòâåðãàþùèå èñïîâåäü è ñâÿòîñòü äóõîâåíñòâà è Ïàïû Ðèìñêîãî. Ó íèõ åñòü òîëüêî îäíî òàèíñòâî - Óòåøåíèå (êîíñîëàìåíò) - ñíÿòèå ãðåõîâ è îáðàùåíèå âåðóþùåãî êàòàðà â ñòàòóñ ""Ñîâåðøåííûé"".";;x
+cathar_FEATURES;§Y*§! Women may hold all councillor positions\n§Y*§! Women may lead armies;;;;;;;;;;;§Y*§! Æåíùèíû ìîãóò çàñåäàòü â ñîâåòå\n§Y*§! Æåíùèíû ìîãóò âîçãëàâëÿòü âîéñêà;;x
+fraticelli;Fraticelli;;;;;;;;;;;Ôðàòè÷åëëè;;x
+fraticelli_DESC;The Fraticelli, or 'Little Brethren', is a Catholic heresy that originated in the Fransiscan Order of monks. It is devoted to poverty and asceticism - especially for men of the cloth. Fraticelli heretics are violently opposed to Church wealth and displays of opulence.;;;;;;;;;;;"Ôðàòè÷åëëè, èëè ""Ìàëåíüêèå áðàòüÿ"", êàòîëè÷åñêàÿ åðåñü, âîçíèêøàÿ â îðäåíå ìîíàõîâ Ôðàíöèñêàíöåâ. Îíà ïðåâîçíîñèò áåäíîñòü è àñêåòèçì, îñîáåííî äëÿ ìóæ÷èí ìîíàõîâ. Åðåòèêè îêàçûâàþò ÿðîñòíîå ñîïðîòèâëåíèå îáîãàùåíèþ Öåðêâè è ïðîÿâëåíèþ áîãàòñòâà.";;x
+waldensian;Waldensian;;;;;;;;;;;Âàëüäåíñèçì;;x
+waldensian_DESC;Originally a reform movement within the Catholic church, Waldensian heretics are anti-clerical and advocate a return to vows of poverty. They are opposed to capital punishment and believe that laymen can also administer the sacraments. This heresy has no formal head and no special game mechanics.;;;;;;;;;;;Ïåðâîíà÷àëüíî ðåôîðìàòîðñêîå äâèæåíèå â Êàòîëè÷åñêîé Öåðêâè, Âàëüäåíñû - åðåòèêè-àíòèêëåðèêàëû è ïðîïàãàíäèñòû âîçâðàùåíèÿ ê îáåòàì áåäíîñòè. Îíè âûñòóïàþò ïðîòèâ ñìåðòíîé êàçíè, è ñ÷èòàþò, ÷òî ìèðÿíå òàêæå ìîãóò ñîâåðøàòü òàèíñòâà. Ýòà åðåñü íå èìååò ôîðìàëüíîãî ãëàâû è íèêàêèõ ñïåöèàëüíûõ èãðîâûõ ìåõàíèê.;;x
+lollard;Lollard;;;;;;;;;;;Ëîëëàðäèçì;;x
+lollard_DESC;Lollard heretics are opposed to perceived corruption within the Catholic Church. Like many Catholic heresies, they loathe the wealth and ostentation of the clergy and advocate a return to a more original form of Christianity. This heresy has no formal head and no special game mechanics.;;;;;;;;;;;Ëîëëàðäû - åðåòèêè, âûñòóïàþùèå ïðîòèâ êîððóïöèè â Êàòîëè÷åñêîé Öåðêâè. Êàê è ìíîãèå êàòîëè÷åñêèå åðåñè, îíè íåíàâèäÿò áîãàòñòâî è ïîêàçíóþ ðîñêîøü äóõîâåíñòâà è âûñòóïàþò çà âîçâðàùåíèå ê áîëåå îðèãèíàëüíîé ôîðìå õðèñòèàíñòâà. Ýòà åðåñü íå èìååò ôîðìàëüíîãî ãëàâû è íèêàêèõ ñïåöèàëüíûõ èãðîâûõ ìåõàíèê.;;x
+orthodox;Orthodox;;;;;;;;;;;Ïðàâîñëàâèå;;x
+orthodox_DESC;The Orthodox Church is the other main branch of Chalcedonian Christianity that up until 1054 was formally united with the Catholic Church, although the political division can be traced back to the crowning of Charlemagne as Roman Emperor by Pope Leo III in 800, which did not sit well with the Emperor in Constantinople. The nominal head of the Orthodox Church is the Ecumenical Patriarch of Constantinople, but he does not interfere in the affairs of other Patriarchs.;;;;;;;;;;;Ïðàâîñëàâíàÿ Öåðêîâü ÿâëÿåòñÿ îäíîé èç îñíîâíûõ âåòâåé Õàëêèäîíñêîãî õðèñòèàíñòâà, âïëîòü äî 1054 ãîäà áûëà îôèöèàëüíî åäèíà ñ êàòîëè÷åñêîé öåðêîâüþ, õîòÿ ïîëèòè÷åñêîå ðàçäåëåíèå ìîæíî ïðîñëåäèòü îò êîðîíàöèè Êàðëà Âåëèêîãî ðèìñêèì èìïåðàòîðîì ïàïîé Ëüâîì III â 800 ãîäó, êîòîðûé íå íàõîäèëñÿ â õîðîøèõ îòíîøåíèÿõ ñ èìïåðàòîðîì â Êîíñòàíòèíîïîëå. Íîìèíàëüíûì ãëàâîé ïðàâîñëàâíîé öåðêâè ÿâëÿåòñÿ Âñåëåíñêèé ïàòðèàðõ Êîíñòàíòèíîïîëüñêèé, íî îí íå âìåøèâàåòñÿ â äåëà äðóãèõ ïàòðèàðõîâ.;;x
+bogomilist;Bogomilist;;;;;;;;;;;Áîãîìèëüñòâî;;x
+bogomilist_DESC;Bogomilism is an originally Orthodox Christian heresy with Gnostic elements that completely rejects the ecclesiastical hierarchy and advocates a return to early Christianity. Bogomilists believe that the world was created by an evil demiurge - the Devil.;;;;;;;;;;;Áîãîìèëüñòâî - èçíà÷àëüíî ïðàâîñëàâíàÿ åðåñü ñ ãíîñòè÷åñêèìè ýëåìåíòàìè, êîòîðàÿ ïîëíîñòüþ îòâåðãàåò öåðêîâíóþ èåðàðõèþ è âûñòóïàåò çà âîçâðàùåíèå ê ðàííåìó õðèñòèàíñòâó. Áîãîìèëû âåðÿò, ÷òî ìèð áûë ñîçäàí çëûì äåìèóðãîì - Äüÿâîëîì (Ñàòàíàèëîì).;;x
+monothelite;Monothelite;;;;;;;;;;;Ìîíîôåëèòñòâî;;x
+monothelite_DESC;Monothelitism is a Christological doctrine that was declared heretical in 681. Monothelites attempted to develop the Miaphysite and Monophysite stance on the single nature of Christ by saying he had both a human and a divine nature but only a single will. The nominal head of the Monothelite Church is the Monothelite Patriarch of Antioch.;;;;;;;;;;;Ìîíîôåëèòñòâî ÿâëÿåòñÿ õðèñòîëîãè÷åñêîé äîêòðèíîé, êîòîðàÿ áûëà îáúÿâëåíà åðåòè÷åñêîé â 681 ãîäó. Ìîíîôåëèòû ïîïûòàëèñü ðàçðàáîòàòü Ìèàôèçèòñêóþ è Ìîíîôèçèòñêóþ ïîçèöèè îá îäíîé ïðèðîäå Õðèñòà, óòâåðæäàÿ, ÷òî ó íåãî áûëà êàê ÷åëîâå÷åñêàÿ, òàê è áîæåñòâåííàÿ ïðèðîäû, íî òîëüêî îäíà âîëÿ. Íîìèíàëüíûì ãëàâîé Ìîíîôåëèòñêîé Öåðêîâè ÿâëÿåòñÿ ïàòðèàðõ Àíòèîõèéñêèé.;;x
+iconoclast;Iconoclast;;;;;;;;;;;Èêîíîáîð÷åñòâî;;x
+iconoclast_DESC;The Iconoclast heresy plagued the Byzantine Empire in multiple waves. Iconoclasts believe that religious images - icons and depictions of holy figures in particular - are a form of idolatry and must not be allowed. In their heyday, iconoclasts destroyed innumerable such decorations and icons, sometimes even urged on by Iconoclast Emperors.;;;;;;;;;;;Èêîíîáîð÷åñêàÿ åðåñü ïðîêàòûâàëàñü ïî Âèçàíòèéñêîé èìïåðèè â íåñêîëüêî âîëí. Èêîíîáîðöû ñ÷èòàþò, ÷òî ðåëèãèîçíûå îáðàçû - èêîíû è èçîáðàæåíèÿ ñâÿòûõ ôèãóð â ÷àñòíîñòè - ÿâëÿþòñÿ îäíîé èç ôîðì èäîëîïîêëîíñòâà è íå äîëæíû áûòü äîçâîëåíû. Â ïåðèîä ñâîåãî ðàñöâåòà, èêîíîáîðöû óíè÷òîæèëè áåñ÷èñëåííîå ìíîæåñòâî óêðàøåíèé è èêîí, èíîãäà äàæå ïîäãîíÿåìûå èìïåðàòîðàìè-èêîíîáîðöàìè.;;x
+paulician;Paulician;;;;;;;;;;;Ïàâëèêèàíñòâî;;x
+paulician_DESC;Paulicianism is Christian Gnostic heresy influenced by Manichaeism, originating in Armenia. In the game, it is treated as an Orthodox heresy.;;;;;;;;;;;Ïàâëèêèàíñòâî – õðèñòèàíñêàÿ ãíîñòè÷åñêàÿ åðåñü, èñïûòàâøàÿ âëèÿíèå ìàíèõåéñòâà, âîçíèêøàÿ â Àðìåíèè.;;x
+miaphysite;Miaphysite;;;;;;;;;;;Ìèàôèçèòñòâî;;x
+miaphysite_DESC;Miaphysite Christianity encompasses the Coptic Church and the Armenian Apostolic Church. Miaphysites stress that Christ had but a single nature, but of both human and divine character. This stance split them off from the main branch of Christianity after the council of Chalcedon in 451. Though not viewed as outright heretics by Orthodox and Catholic Christians, it is a fine distinction. The nominal head of the Miaphysite Church is the Pope of Alexandria.;;;;;;;;;;;Ìèàôèçèòñòâî - õðèñòèàíñòâî, âêëþ÷àþùåå Êîïòñêóþ è Àðìÿíñêóþ Àïîñòîëüñêóþ öåðêâè. Ìèàôèçèòû ïîä÷åðêèâàþò, ÷òî Õðèñòîñ èìåë òîëüêî îäíó ïðèðîäó, íî êàê ÷åëîâå÷åñêîãî, òàê è áîæåñòâåííîãî õàðàêòåðà. Ýòà ïîçèöèÿ îòäåëèëà èõ îò îñíîâíîé âåòâè õðèñòèàíñòâà ïîñëå Õàëêèäîíñêîãî ñîáîðà â 451 ãîäó. Õîòÿ îíè è íå ðàññìàòðèâàþòñÿ êàê ïðÿìûå åðåòèêè ïðàâîñëàâíûìè è êàòîëè÷åñêèìè õðèñòèàíàìè, íî îíè íå äàëåêè îò ýòîãî. Íîìèíàëüíûì ãëàâîé Öåðêâè ÿâëÿåòñÿ Ïàïà Àëåêñàíäðèéñêèé.;;x
+monophysite;Monophysite;;;;;;;;;;;Ìîíîôèçèòñòâî;;x
+monophysite_DESC;Monophysitism is an early Christian heresy which states that Christ had but a single nature. This is the opposite of the Nestorian position where Christ has two separate natures - one divine and one human. Closely related to Miaphytism, Monophysites are regarded as a Miaphysite heresy in-game. The nominal head of the Monophysite Church is the Monophysite Pope of Alexandria.;;;;;;;;;;;Ìîíîôèçèòñòâî - åðåñü ðàííèõ õðèñòèàí â êîòîðîé óòâåðæäàåòñÿ, ÷òî Õðèñòîñ èìåë òîëüêî îäíó ïðèðîäó. Ýòî ïðîòèâîïîëîæíî íåñòîðèàíñêîé ïîçèöèè, â êîòîðîé Õðèñòîñ èìåë äâå îòäåëüíûõ ïðèðîäû - Áîæåñòâåííóþ è ÷åëîâå÷åñêóþ. Òåñíî ñâÿçàíà ñ Ìèàôèçèòñòâîì, ìîíîôèçèòû ðàññìàòðèâàþòñÿ â èãðå, êàê åãî åðåñü. Íîìèíàëüíûì ãëàâîé Öåðêâè ÿâëÿåòñÿ Ïàïà Àëåêñàíäðèéñêèé.;;x
+nestorian;Nestorian;;;;;;;;;;;Íåñòîðèàíñòâî;;x
+nestorian_DESC;Nestorianism is an early Christian branch which states that Christ has two separate natures - one divine and one human. This is the opposite of the Monophysite position where Christ has but a single nature. The nominal head of the Nestorian Church is the Patriarch of the East.;;;;;;;;;;;Íåñòîðèàíñòâî – ðàííÿÿ âåòâü õðèñòèàíñòâà, â êîòîðîé Õðèñòîñ èìååò äâå îòäåëüíûå ïðèðîäû: áîæåñòâåííóþ è ÷åëîâå÷åñêóþ. Ýòî ïðîòèâîïîëîæíî ìîíîôèçèòñêîé ïîçèöèè, ñîãëàñíî êîòîðîé Õðèñòîñ èìååò òîëüêî îäíó ïðèðîäó. Íîìèíàëüíûé ãëàâà Íåñòîðèàíñêîé öåðêâè – ïàòðèàðõ Âîñòî÷íûé.;;x
+messalian;Messalian;;;;;;;;;;;Ìåññàëèàíñòâî;;x
+messalian_DESC;"The Messalians, or Euchites (""Those who Pray""), are a heretical Christian sect that originated in Mesopotamia, influenced by dualistic faiths like Zoroastrianism. Messalians believe that God can be perceived by the carnal senses, and that this perception is necessary to reach perfection. Each person is born with an inner demon, and only intense prayer can drive it out. They also believe that Lucifer is the elder son of God and a force for good, and that incest is sacred since it was practised by the children of Adam and Eve. They have no formal rites and no strict church hierarchy.";;;;;;;;;;;"Ìåññàëèàíå, èëè Åâõèòû (""ìîëÿùèåñÿ"") - åðåòè÷åñêàÿ õðèñòèàíñêàÿ ñåêòà, âîçíèêøàÿ â Ìåñîïîòàìèè ïîä âëèÿíèåì äóàëèñòè÷åñêèõ âåðîâàíèé, òàêèõ êàê çîðîàñòðèçì. Åâõèòû âåðÿò, ÷òî Áîã ìîæåò áûòü âîñïðèíÿò ïëîòñêèìè ÷óâñòâàìè, è ÷òî ýòî âîñïðèÿòèå íåîáõîäèìî äëÿ äîñòèæåíèÿ ñîâåðøåíñòâà. Êàæäûé ÷åëîâåê ðîæäàåòñÿ ñ âíóòðåííèì äåìîíîì, è òîëüêî èíòåíñèâíàÿ ìîëèòâà ìîæåò èçãíàòü åãî. Îíè òàêæå ñ÷èòàþò, ÷òî Ëþöèôåð - ñòàðøèé ñûí Áîãà, ñèëà äîáðà, è ÷òî èíöåñò ñâÿùåíåí, òàê êàê ïðàêòèêîâàëñÿ äåòüìè Àäàìà è Åâû. Îíè íå èìåþò íèêàêèõ ôîðìàëüíûõ îáðÿäîâ è ñòðîãîé öåðêîâíîé èåðàðõèè.";;x
+messalian_FEATURES;§Y*§! Women may hold all councillor positions\n§Y*§! Women may lead armies;;;;;;;;;;;§Y*§! Æåíùèíû ìîãóò çàíèìàòü ïîñòû â ñîâåòå\n§Y*§! Æåíùèíû ìîãóò êîìàíäîâàòü àðìèÿìè;;x
+muslim;Muslim;;;;;;;;;;;Èñëàì;;x
+sunni;Sunni;;;;;;;;;;;Ñóííèçì;;x
+sunni_DESC;Sunni Islam is by far the most widespread form of the religion. It is the more orthodox of the two main branches of Islam but the origin of the Sunni-Shia schism was largely political in nature. The Sunnis accepted the first Caliph, Abu Bakr, whereas the Shiites rejected him in favor of Ali. Sunni Muslims hold strictly to the Sunnah - the sayings and actions of Muhammad - as collected in the Hadiths, which form the basis for Sunni jurisprudence. The formal head of Sunni Islam is the (Sunni) Caliph.;;;;;;;;;;;Ñóííèçì íà ñåãîäíÿøíèé äåíü ÿâëÿåòñÿ íàèáîëåå ðàñïðîñòðàí¸ííîé ôîðìîé èñëàìà. Ýòî áîëåå îðòîäîêñàëüíàÿ èç äâóõ ãëàâíûõ âåòâåé èñëàìà, íî ðàçäåëåíèå ìåæäó ñóííèòàìè è øèèòàìè íîñèëî â çíà÷èòåëüíîé ñòåïåíè ïîëèòè÷åñêèé õàðàêòåð. Ñóííèçì ïðèíÿë ïåðâûé õàëèô Àáó Áàêð, â òî âðåìÿ êàê øèèòû îòâåðãëè åãî â ïîëüçó Àëè. Ìóñóëüìàíå-ñóííèòû ñòðîãî ïðèäåðæèâàþòñÿ Ñóíí - âûñêàçûâàíèé è äåéñòâèé Ìóõàììàäà - ñîáðàííûõ â õàäèñàõ, êîòîðûå ñîñòàâëÿþò îñíîâó äëÿ þðèñïðóäåíöèè ñóííèòîâ. Ôîðìàëüíûì ãëàâîé ñóííèòñêîãî èñëàìà ÿâëÿåòñÿ õàëèô.;;x
+zikri;Zikri;;;;;;;;;;;Çèêðèçì;;x
+zikri_DESC;Zikri Islam is a Sunni heresy in-game. Zikris are the followers of the Imam Akhar Zaman Hazrat Syed Muhammad Jaunpuri (Imam Mehdi.);;;;;;;;;;;Çèêðèçì - òå÷åíèå èñëàìà, ñóííèòñêàÿ åðåñü â èãðå. Èñïîâåäóþùèå çèêðèçì ÿâëÿþòñÿ ïîñëåäîâàòåëÿìè èìàìà Çàìàíà Àõàðà Õàçðàòà Ìóõàììàäà Ñàéåä Äæàóíïóðè (Èìàìà Ìåõäè).;;x
+yazidi;Yazidi;;;;;;;;;;;Øàðôàäèíèçì;;x
+yazidi_DESC;The Yazidi religion is properly a distinct religion but is treated as a Sunni heresy in the game. Yazidis believe that God created the world and left seven angels in charge, the chief of whom is the Peacock Angel, Malek Taus or Shaytan, a being usually identified by Christians and Muslims as Satan.;;;;;;;;;;;Ñîáñòâåííî ãîâîðÿ, øàðôàäèíèçì - îñîáàÿ ðåëèãèÿ, íî â èãðå îíà ðàññìàòðèâàåòñÿ êàê ñóííèòñêàÿ åðåñü. Åçèäû âåðÿò, ÷òî Áîã ñîçäàë ìèð è îñòàâèë ñåìü àíãåëîâ ó âëàñòè, ãëàâíûì èç êîòîðûõ ÿâëÿåòñÿ Àíãåë-Ïàâëèí, Ìàëåê Òàóñ èëè Øàéòàí, êîòîðûé îáû÷íî èäåíòèôèöèðóåòñÿ ó õðèñòèàí è ìóñóëüìàí êàê Ñàòàíà.;;x
+shiite;Shia;;;;;;;;;;;Øèèçì;;x
+shiite_DESC;Shi'a is the short form of Shi'atul Ali, or the Party of Ali, which rejected the first Caliph Abu Bakr in favor of Ali. Shi'a Islam is the less orthodox of the two main branches of Islam and accepts the idea of intercession by dead Imams on behalf of the living. The formal head of Shi'a Islam is the (Shiite) Caliph.;;;;;;;;;;;Íàçâàíèå Øèèçì ÿâëÿåòñÿ êîðîòêîé ôîðìîé øèàòóë Àëè, èëè ïàðòèè Àëè, êîòîðàÿ îòâåðãëà ïåðâîãî õàëèôà Àáó Áàêðà â ïîëüçó Àëè. Øèèçì ÿâëÿåòñÿ ìåíåå îðòîäîêñàëüíûì èç äâóõ ãëàâíûõ âåòâåé èñëàìà è ïðèíèìàåò èäåþ çàñòóïíè÷åñòâà ìåðòâûõ Èìàìîâ îò èìåíè æèâûõ. Ôîðìàëüíûé ãëàâà øèèòñêîãî èñëàìà - õàëèô.;;x
+qarmatian;Qarmatian;;;;;;;;;;;Êàðìàòèçì;;x
+qarmatian_DESC;The Qarmatians were a heterodox branch of Shi’a Islam that combined elements of Zoroastrianism. They rejected the mainstream succession of the Shi’ite rulers, and instead established a theocratic republic in eastern Arabia in the 10th Century. They are remembered for their brutal sacking of Mecca and rejection of the Hajj pilgrimage.;;;;;;;;;;;Êàðìàòû - ïðåäñòàâèòåëè íåîðòîäîêñàëüíîé âåòâè øèèòñêîãî èñëàìà, â êîòîðîé ïðèñóòñòâóþò ýëåìåíòû çîðîàñòðèçìà. Îíè îòâåðãëè îñíîâíóþ ïðååìñòâåííîñòü øèèòñêèõ ïðàâèòåëåé è âìåñòî ýòîãî îñíîâàëè òåîêðàòè÷åñêóþ ðåñïóáëèêó â âîñòî÷íîé Àðàâèè â X âåêå. Èõ ïîìíÿò çà æåñòîêîå ðàçãðàáëåíèå Ìåêêè è îòêàç îò ïàëîìíè÷åñòâà â õàäæ.;;x
+druze;Druze;;;;;;;;;;;Äðóçèçì;;x
+druze_DESC;The Druze religion originated in the Ismaili sect of Shi'a Islam, but has many features of gnosticism and neoplatonism in addition to those of the Abrahamic religions.;;;;;;;;;;;Ðåëèãèÿ äðóçîâ âîçíèêëà â ñåêòå èñìàèëèòîâ øèèòñêîãî èñëàìà, íî èìååò ìíîãèå ÷åðòû ãíîñòèöèçìà è íåîïëàòîíèçìà â äîïîëíåíèå ê àâðààìè÷åñêèì ðåëèãèÿì.;;x
+hurufi;Hurufi;;;;;;;;;;;Õóðóôèçì;;x
+hurufi_DESC;The Hurufi faith is a mystical, kabbalistic, Sufi sect within Islam, regarded as a heresy.;;;;;;;;;;;Õóðóôèçì ÿâëÿåòñÿ ìèñòè÷åñêèì, êàááàëèñòè÷åñêèì, ñóôèéñêèì ó÷åíèåì â èñëàìå è ðàññìàòðèâàåòñÿ êàê åðåñü.;;x
+ibadi;Ibadi;;;;;;;;;;;Èáàäèçì;;x
+ibadi_DESC;Ibadism is distinct from both Shi'a and Sunni Islam. Ibadis believe that souls condemned to Hell will stay there forever. Ibadis also reject the notion that Muslims will get to see Allah on the Day of Judgment.;;;;;;;;;;;Èáàäèçì îòëè÷àåòñÿ è îò øèèòñêîãî è ñóííèòñêîãî èñëàìà, íî áëèæå ê ñóííèçìó. Èáàäèòû ñ÷èòàþò, ÷òî äóøè, çàêëþ÷¸ííûå çà ãðåõè â ãååííó îñòàþòñÿ òàì íàâñåãäà. Îíè òàêæå îòâåðãàþò ïîíÿòèå î òîì, ÷òî ìóñóëüìàíå ñìîãóò óâèäåòü Àëëàõà â Ñóäíûé Äåíü.;;x
+kharijite;Kharijite;;;;;;;;;;;Õàðèäæèçì;;x
+kharijite_DESC;The Kharijites are a branch of Islam that was marginalized and repressed early in the 7th century. They believe that any unrepentant sinner is a Kafir, also rejecting the notion of infallibility of the Caliphs.;;;;;;;;;;;Õàðèäæèçì - âåòâü èñëàìà, ïðåäñòàâèòåëè êîòîðîé ïîäâåðãàëèñü ãîíåíèÿì â íà÷àëå ñåäüìîãî âåêà. Õàðèäæèòû ñ÷èòàþò, ÷òî ëþáîé íåðàñêàÿâøèéñÿ ãðåøíèê - êàôèð (íåâåðíûé) è îòâåðãàþò íåïîãðåøèìîñòü õàëèôîâ.;;x
+jewish_group;Israelite;;;;;;;;;;;Èóäàèçì;;x
+jewish;Jewish;;;;;;;;;;;Èóäàèçì;;x
+jewish_DESC;Judaism is the oldest of the Abrahamic religions and its origins can be traced back all the way to the Bronze Age. The holiest city of this monotheistic faith is Jerusalem, which served as the capital of the ancient Kingdom of Israel.;;;;;;;;;;;Èóäàèçì - äðåâíåéøàÿ èç àâðààìè÷åñêèõ ðåëèãèé. Åãî ïðîèñõîæäåíèå ìîæíî ïðîñëåäèòü âïëîòü äî áðîíçîâîãî âåêà. Ñâÿùåííûì ãîðîäîì ýòîé ìîíîòåèñòè÷åñêîé âåðû ÿâëÿåòñÿ Èåðóñàëèì, êîòîðûé ñëóæèë ñòîëèöåé äðåâíåãî Èçðàèëüñêîãî öàðñòâà.;;x
+karaite;Karaite;;;;;;;;;;;Êàðàèçì;;x
+karaite_DESC;Karaite Judaism is a Jewish movement characterized by the recognition of the Tanakh alone as its supreme legal authority in Jewish religious law and theology. In this it is distinct from mainstream Rabbinic Judaism. Karaites maintain that all of the divine commandments handed down to Moses by God were recorded in the written Torah, without additional Oral Law or explanation. In-game, Karaite Judaism is a heresy of mainstream Judaism. This heresy has no formal head and no special game mechanics.;;;;;;;;;;;Êàðàèçì - ýòî èóäåéñêîå äâèæåíèå, îòëè÷àþùååñÿ òåì, ÷òî ïðèçíà¸ò â êà÷åñòâå âûñøåãî ðåëèãèîçíîãî çàêîíà òîëüêî Òàíàõ. Â ýòîì îíî îòëè÷àåòñÿ îò ãîñïîäñòâóþùåãî ðàââèíèñòè÷åñêîãî èóäàèçìà. Êàðàèòû óòâåðæäàþò, ÷òî âñå áîæåñòâåííûå çàïîâåäè, ïåðåäàíûå Ìîèñåþ Áîãîì, áûëè çàïèñàíû â Òîðå, áåç äîïîëíèòåëüíûõ îáúÿñíåíèé èëè Óñòíîãî Çàêîíà. Â èãðå, êàðàèçì ÿâëÿåòñÿ èóäåéñêîé åðåñüþ.;;x
+samaritan;Samaritan;;;;;;;;;;;Ñàìàðèòàíèçì;;x
+samaritan_DESC;Samaritanism is an Abrahamic religion closely related to Judaism. Samaritans assert their worship is the true religion of the ancient Israelites prior to the Babylonian Exile, preserved by those who remained in the Land of Israel, as opposed to Judaism, which they assert is a related but altered and amended religion. In-game, Samaritanism is treated as a heresy of mainstream Judaism. This heresy has no formal head and no special game mechanics.;;;;;;;;;;;Ñàìàðèòàíèçì - ýòî àâðààìè÷åñêàÿ ðåëèãèÿ, òåñíî ñâÿçàííàÿ ñ èóäàèçìîì. Ñàìàðèòÿíå íàñòàèâàþò íà òîì, ÷òî èõ ôîðìà ïî÷èòàíèÿ - ïîäëèííàÿ ðåëèãèÿ äðåâíèõ èçðàèëüòÿí äî âðåì¸í Âàâèëîíñêîãî ïëåíåíèÿ, ñîõðàí¸ííàÿ òåìè, êòî îñòàëñÿ â Çåìëå Èçðàèëÿ, â ïðîòèâîïîëîæíîñòü èóäàèçìó, êîòîðûé, êàê îíè óòâåðæäàþò, ÿâëÿåòñÿ ïîõîæåé, íî èçìåí¸ííîé ðåëèãèåé. Â èãðå, ñàìàðèòàíèçì ðàññìàòðèâàåòñÿ êàê èóäåéñêàÿ åðåñü, êîòîðàÿ íå èìååò ôîðìàëüíîãî ãëàâû è ñïåöèàëüíûõ èãðîâûõ ìåõàíèê.;;x
+zoroastrian_group;Mazdan;;;;;;;;;;;Ìàçäåèçì;;x
+zoroastrian;Zoroastrian;;;;;;;;;;;Çîðîàñòðèçì;;x
+zoroastrian_DESC;Zoroastrians worship Ahura Mazda, the uncreated God, as proclaimed by the ancient Iranian prophet Zoroaster. It was the official religion of all Persian empires (except the Hellenic Seleucid Empire) until the Muslim conquest of the Sassanid Empire in 651. The ancient form of the religion involved great sacred hill top fires, the exposure of dead bodies to scavenger birds for cleansing, and religious close-kin marriages in imitation of Ahura Mazda and Zoroaster.;;;;;;;;;;;Çîðîàñòðèéöû ïîêëîíÿëèñü Àõóðà Ìàçäå, áåçíà÷àëüíîìó Òâîðöó, ïðîâîçãëàø¸ííîìó äðåâíèì èðàíñêèì ïðîðîêîì Çàðàòóøòðîé. Îí áûë îôèöèàëüíîé ðåëèãèåé âñåõ ïåðñèäñêèõ èìïåðèé (êðîìå Ãðå÷åñêîé èìïåðèè Ñåëåâêèäîâ) äî ìóñóëüìàíñêîãî çàâîåâàíèÿ èìïåðèè Ñàñàíèäîâ â 651. Äðåâíÿÿ ôîðìà ðåëèãèè âêëþ÷àëà ïîêëîíåíèå îãíþ è ñâåòó, îñòàâëåíèå òåë óìåðøèõ ñòåðâÿòíèêàì äëÿ î÷èùåíèÿ, è ðåëèãèîçíûå áðàêè áëèçêèõ ðîäñòâåííèêîâ â ïîäðàæàíèå Àõóðà Ìàçäå è Çàðàòóøòðå.;;x
+mazdaki;Mazdaki;;;;;;;;;;;Ìàçäàêèçì;;x
+mazdaki_DESC;Mazdak was a Zoroastrian priest who claimed to be a prophet of Ahura Mazda. He attempted to reform the religion with Gnostic elements, and advocated communal possessions and welfare programs. His teachings fell out of favor with the Shahanshah Kavadh I in 524, but pockets of there heresy survived in remote areas. This heresy has no formal head and no special game mechanics.;;;;;;;;;;;Ìàçäàê ÿâëÿëñÿ çîðîàñòðèéñêèì ñâÿùåííèêîì, êîòîðûé óòâåðæäàë, ÷òî îí - ïðîðîê Àõóðà Ìàçäû. Îí ïîïûòàëñÿ ðåôîðìèðîâàòü ðåëèãèþ ñ ãíîñòè÷åñêèõ ïîçèöèé è âûñòóïàë çà âçàèìîïîìîùü, ðàâåíñòâî èìóùåñòâà, óíè÷òîæåíèå ñîöèàëüíîãî íåðàâåíñòâà. Åãî ó÷åíèå ïîïàëî â íåìèëîñòü Øàõèíøàõó Êàâàäó I â 524 ãîäó, íî î÷àãè åðåñè ñîõðàíèëèñü â îòäàë¸ííûõ ðàéîíàõ. Ýòà åðåñü íå èìååò ôîðìàëüíîãî ãëàâû è íèêàêèõ ñïåöèàëüíûõ èãðîâûõ ìåõàíèê.;;x
+manichaean;Manichaean;;;;;;;;;;;Ìàíèõåéñòâî;;x
+manichaean_DESC;Manichaeism is a Gnostic religion founded by the alleged Prophet Mani who was put to death by Sassanid Shahanshah Bahram I in 277 A.D. His 'Religion of Light' incorporated elements of Christianity, Zoroastrianism, Buddhism and Gnosticism. In the game, Manichaeism is regarded as Zoroastrian heresy with its own special mechanics. The formal head of the religion is Yamag, who normally resides in Samarkand.;;;;;;;;;;;"Ìàíèõåéñòâî ÿâëÿåòñÿ ãíîñòè÷åñêîé ðåëèãèåé, îñíîâàííîé ïðîðîêîì Ìàíè, ïðåäïîëàãàåòñÿ, ÷òî îí áûë ïðèãîâîð¸í ê ñìåðòè øàõèíøàõîì Áàõðàìîì I èç äèíàñòèè Ñàcàíèäîâ â 277 ã í.ý. Åãî ""ðåëèãèÿ ñâåòà"" âêëþ÷àëà ýëåìåíòû õðèñòèàíñòâà, çîðîàñòðèçìà, áóääèçìà è ãíîñòèöèçìà. Â èãðå, ìàíèõåéñòâî ðàññìàòðèâàåòñÿ êàê çîðîàñòðèéñêàÿ åðåñü. Ãëàâîé öåðêâè ÿâëÿåòñÿ ßìàã ñ ðåçèäåíöèåé â Ñàìàðêàíäå.";;x
+khurmazta;Khurmazta;;;;;;;;;;;Ñîãäîìàçäåèçì;;x
+khurmazta_DESC;Khurmazta (Zarvana) is syncretic form of Zoroastrianism which was practiced among the Sogdians. It mixes Zoroastrianism with Hinduism, Buddhism and various pagan religions. Aside from Khurmazta, lesser deities such as Weshparkar, God of Wind, are worshipped and made offerings, usually in form of small statues.;;;;;;;;;;;Õóðìàçòà (Çàðâàíà) - âåðõîâíûé áîã ýòîé ñèíêðåòè÷åñêîé ôîðìû çîðîàñòðèçìà, ðàñïðîñòðàí¸ííîé ñðåäè ñîãäèéöåâ. Ýòà âåðà ñî÷åòàåò â ñåáå ýëåìåíòû èíäóèçìà, áóääèçìà è ðàçëè÷íûõ ÿçû÷åñêèõ ðåëèãèé. Íàðÿäó ñ Õóðìàçòîé ïî÷èòàþòñÿ è âòîðîñòåïåííûå áîæåñòâà, òàêèå êàê Âåøïàðêàð, áîã âåòðà. Ïîäíîøåíèÿ îáû÷íî äåëàþòñÿ â âèäå ìàëåíüêèõ ôèãóðîê.;;x
+khurmazta_FEATURES;§Y*§! Rulers may select a lesser deity to honor;;;;;;;;;;;§Y*§! Ïðàâèòåëè ìîãóò âûáðàòü âòîðîñòåïåííîå áîæåñòâî äëÿ ïî÷èòàíèÿ;;x
+indian_group;Eastern;;;;;;;;;;;Äõàðìèçì;;x
+buddhist;Buddhist;;;;;;;;;;;Áóääèçì;;x
+buddhist_DESC;Buddhism was founded by the Buddha, Siddhartha Gautama, in Northeast India in the 5th century BC. The religion flourished in India for more than 1500 years, building huge libraries and monastery complexes, until Muslim invasions and the growing power of the Brahmin caste drove Buddhism out of the subcontinent. In the game, Buddhists get a significant bonus to Learning, meaning that they will research technologies faster.;;;;;;;;;;;Áóääèçì áûë îñíîâàí Áóääîé, ðîäèâøèìñÿ ïîä èìåíåì Ñèääõàðòõà Ãàóòàìà â Ñåâåðíîé Èíäèè â V âåêå äî í.ý. Çà òûñÿ÷ó ëåò ïðîöâåòàíèÿ Áóääèçìà â Èíäèè áûëî ïîñòðîåíî ìíîæåñòâî ìîíàñòûðåé, áèáëèîòåê è õðàìîâûõ êîìïëåêñîâ, ïîêà âòîðæåíèÿ ìóñóëüìàí è ðîñò ìîãóùåñòâà êàñòû áðàìèíîâ íå âûòîëêíóëè áóääèçì âãëóáü êîíòèíåíòà.;;x
+buddhist_FEATURES;§Y*§! Can only declare limited Holy Wars against non-[GetDharmicOrRandom] religions;;;;;;;;;;;§Y*§! Îáúÿâëÿòü ñâÿùåííûå âîéíû ïðîòèâ [GetDharmicOrRandom] ìîæíî ñî çíà÷èòåëüíûìè îãðàíè÷åíèÿìè;;x
+hindu;Hindu;;;;;;;;;;;Èíäóèçì;;x
+hindu_DESC;Hinduism is not a single religion so much as a blanket term for the successor faiths of ancient Indian polytheism as recorded in the Vedas. The existence of many different sects within Hinduism - as well as millennia of relatively peaceful co-existence with Jainism and Buddhism - has made the Hindu faith remarkably tolerant and pluralistic toward all Indian religions. Still, it is the most warlike of the three.;;;;;;;;;;;Èíäóèçì - íå åäèíñòâåííàÿ ðåëèãèÿ, îñíîâàííàÿ íà ïîñòóëàòàõ äðåâíåãî èíäèéñêîãî ïîëèòåèçìà, çàïèñàííûõ â Âåäàõ. Ìíîæåñòâî ðàçëè÷íûõ âåðîâàíèé è ðåëèãèé, ñàìûìè ÿðêèìè ïðåäñòàâèòåëÿìè êîòîðûõ ÿâëÿþòñÿ Áóääèçì è Äæàéíèçì, îñíîâàíû íà òåõ æå ïîñòóëàòàõ, è èìåþò ñ Èíäóèçìîì ìíîãî îáùåãî. Ýòî ñõîäñòâî, à òàê æå îòíîñèòåëüíî ìèðíîå ñîñóùåñòâîâàíèå ïðåäñòàâèòåëåé ýòèõ ðåëèãèé íà ïðîòÿæåíèè ïî÷òè òûñÿ÷è ëåò ñäåëàëè èíäóèñòîâ íåâîîáðàçèìî òåðïèìûìè ê ïðåäñòàâèòåëÿì ëþáûõ äðóãèõ èíäèéñêèõ ðåëèãèé. È âñ¸ æå, èç âñåõ âåðîâàíèé è ðåëèãèé, ïðåäñòàâëåííûõ â Èíäèè, èíäóèçì ÿâëÿåòñÿ ñàìûì âîèíñòâåííûì.;;x
+hindu_FEATURES;§Y*§! Can only declare Holy Wars against non-[GetDharmicOrRandom] religions;;;;;;;;;;;§Y*§! Îáúÿâëÿòü ñâÿùåííûå âîéíû ìîæíî òîëüêî ïðîòèâ [GetDharmicOrRandom];;x
+jain;Jain;;;;;;;;;;;Äæàéíèçì;;x
+jain_DESC;Jainism is a religion of incredible antiquity, stemming from the ascetic Sramana tradition of India, in opposition to the priestly Brahmins and the caste system. The guiding principle of Jainism is Ahimsa - non-violence - which is more radically interpreted than in any other religion. In the game, Jains have a hard time waging offensive wars, but their remarkable tolerance means Jain rulers are well liked by all.;;;;;;;;;;;Äæàéíèçì - äðåâíåéøàÿ ðåëèãèÿ, áåðóùàÿ ñâî¸ íà÷àëî â òðàäèöèÿõ Ñðàìàíñêèõ àñêåòîâ è ÿâëÿþùàÿñÿ ÿðêèì ïðîòèâîïîñòàâëåíèåì êëèðèêàëèçàöèè áðàìèíîâ è âñåé êàñòîâîé ñèñòåìû. Îñíîâíîé ïîñòóëàò Äæàéíèçìà - Àõèìñà - àáñîëþòíîå îòðèöàíèå íàñèëèÿ. Äæàéíèñòàì î÷åíü ñëîæíî âåñòè çàõâàòíè÷åñêèå âîéíû, íî î÷åíü ëåãêî óäåðæèâàòü ñòðàíó â öåëîñòè è ñïîêîéñòâèè.;;x
+taoist;Taoist;;;;;;;;;;;Äàîñèçì;;x
+taoist_DESC;Taoism is a polytheistic religion originating in China. While traditionally regarded as founded by Laozi the Supreme Old Lord in the 4th century BC, some elements and practices can be traced to prehistoric folk religions across the Middle Kingdom. The followers revere Tao, the underlying natural order of the Universe – the active expression of Tao for an individual is Te, the inner virtue. Taoists also value life over death, and believe it possible to achieve immortality, through various methods, including spiritual practices and alchemy. In the game, the strong focus on good governance within Taoist society means all Taoist characters get a bonus to Stewardship.;;;;;;;;;;;Äàîñèçì - ýòî ïîëèòåèñòè÷åñêàÿ ðåëèãèÿ, ïðîèñõîäÿùàÿ èç Êèòàÿ. Õîòÿ òðàäèöèîííî ñ÷èòàåòñÿ, ÷òî îí áûë îñíîâàí â IV âåêå äî íàøåé ýðû ôèëîñîôîì Ëàî-Öçû, íåêîòîðûå ýëåìåíòû è ïðàêòèêè ó÷åíèÿ ìîæíî îòíåñòè ê äîèñòîðè÷åñêèì íàðîäíûì âåðîâàíèÿì âñåãî Ñðåäèííîãî Öàðñòâà. Ïîñëåäîâàòåëè ó÷åíèÿ ïî÷èòàþò Äàî - ëåæàùèé â ïåðâîîñíîâå åñòåñòâåííûé ïîðÿäîê Âñåëåííîé. Ïðè ýòîì, àêòèâíûì âûðàæåíèåì Äàî äëÿ èíäèâèäóóìà ÿâëÿåòñÿ Äý - âíóòðåííÿÿ äîáðîäåòåëü. Äàîñû òàêæå âîçâûøàþò æèçíü íàä ñìåðòüþ è ñ÷èòàþò âîçìîæíûì äîñòè÷ü áåññìåðòèÿ ñ ïîìîùüþ ðàçëè÷íûõ ìåòîäîâ, â òîì ÷èñëå äóõîâíûõ ïðàêòèê è àëõèìèè. Â èãðå ýòî áóäåò îçíà÷àòü, ÷òî íàïðàâëåííîñòü äàîññêîãî îáùåñòâà íà áëàãîå ðóêîâîäñòâî ïðèâåä¸ò ê ïîëó÷åíèþ âñåìè äàîññêèìè ïåðñîíàæàìè áîíóñà ê óïðàâëåíèþ.;;x
+taoist_FEATURES;§Y*§! Can NOT declare Holy Wars;;;;;;;;;;;§Y*§! Íåëüçÿ îáúÿâëÿòü ñâÿùåííûå âîéíû;;x
+pagan_group;Pagan;;;;;;;;;;;ßçû÷åñòâî;;x
+pagan_group_FEATURES;§Y*§! Women may hold Spymaster positions;;;;;;;;;;;§Y*§! Æåíùèíû ìîãóò âîçãëàâëÿòü òàéíûå ñëóæáû;;x
+pagan;Pagan;;;;;;;;;;;ßçû÷åñòâî;;x
+pagan_DESC;Since the dawn of history, both Europe and the Middle East has been home to countless Pagan religions and cults unrelated to the Abrahamic faiths.;;;;;;;;;;;Ñ äðåâíèõ âðåìåí Åâðîïà è Áëèæíèé Âîñòîê áûëè äîìîì äëÿ áåñ÷èñëåííûõ ÿçû÷åñêèõ ðåëèãèé è êóëüòîâ, íå ñâÿçàííûõ ñ àâðààìè÷åñêîé âåðîé. Ðåàëèçîâàííûå îñîáåííîñòè â èãðå:\n§Y*§! Ïðàâèòåëè îãðàíè÷åíû â çàêîíàõ íàñëåäîâàíèÿ ðàâíûì ðàçäåëîì\n§Y*§! Ïðàâèòåëè íå ìîãóò îáúÿâëÿòü ñâÿùåííûå âîéíû\n§Y*§! Íèçêàÿ ýôôåêòèâíîñòü â îáðàùåíèè â ñâîþ âåðó è óÿçâèìîñòü ïðîòèâ íåÿçû÷åñêèõ ìèññèîíåðîâ;;x
+pagan_FEATURES;§Y*§! Inferior at conversion\n§Y*§! Rulers cannot declare Holy Wars;;;;;;;;;;;§Y*§! Óÿçâèìîñòü ïåðåä ìèññèîíåðàìè\n§Y*§! Ïðàâèòåëè íå ìîãóò îáúÿâëÿòü ñâÿùåííûå âîéíû;;x
+baltic_pagan;Romuva;;;;;;;;;;;Áàëòèéñêîå ÿçû÷åñòâî;;x
+baltic_pagan_DESC;Baltic paganism is polytheistic, with a pantheon of gods led by Dievs, god of the sky. Other main gods include Perkunas, god of thunder and lightning, very similar to the Germanic god Thor and the Slavic Perun. Other important deities include Saule, goddess of the sun and fertility, Daugava and Meness.;;;;;;;;;;;Âî ãëàâå ïàíòåîíà áîãîâ áàëòèéñêîãî ÿçû÷åñòâà ñòîèò Äèåâàñ, áîã íåáà. Äðóãèå îñíîâíûå áîãè: Ïåðêóíàñ, áîã ãðîìà è ìîëíèè, î÷åíü ïîõîæèé íà ãåðìàíñêîãî áîãà Òîðà è ñëàâÿíñêîãî Ïåðóíà, Ñàóëå - áîãèíÿ ñîëíöà è ïëîäîðîäèÿ, Äàóãàâà è Ìåíåññ.;;x
+baltic_pagan_FEATURES;§Y*§! Inferior at conversion\n§Y*§! Rulers cannot declare Holy Wars;;;;;;;;;;;§Y*§! Óÿçâèìîñòü ïåðåä ìèññèîíåðàìè\n§Y*§! Ïðàâèòåëè íå ìîãóò îáúÿâëÿòü ñâÿùåííûå âîéíû;;x
+baltic_pagan_reformed;Romuva;;;;;;;;;;;Áàëòèéñêîå ÿçû÷åñòâî;;x
+baltic_pagan_reformed_DESC;Baltic paganism is polytheistic, with a pantheon of gods led by Dievas, god of the sky. Other main gods include Perkunas, god of thunder and lightning, very similar to the Germanic god Thor and the Slavic Perun. The reformed Baltic faith has a Holy Book with a creation myth, chapters on the gods and a book of prophesies. The church also has a standardized liturgy and a formal church hierarchy.;;;;;;;;;;;Âî ãëàâå ïàíòåîíà áîãîâ áàëòèéñêîãî ÿçû÷åñòâà ñòîèò Äèåâàñ, áîã íåáà. Ñðåäè ïðî÷èõ áîãîâ âûäåëÿåòñÿ Ïåðêóíàñ, áîã ãðîìà è ìîëíèè, î÷åíü ïîõîæèé íà ãåðìàíñêîãî áîãà Òîðà è ñëàâÿíñêîãî Ïåðóíà. Ðåôîðìèðîâàííîå áàëòèéñêîå ÿçû÷åñòâî îñíîâàíî íà ñâÿùåííîì ïèñàíèè, ñîäåðæàùåì ìèô î ñîòâîðåíèè, ãëàâû, ïîñâÿù¸ííûå áîãàì, è êíèãó ïðîðî÷åñòâ. Öåðêîâü òàêæå èìååò ñòàíäàðòèçèðîâàííóþ ëèòóðãèþ è ôîðìàëüíóþ èåðàðõèþ.;;x
+aztec_pagan;Aztec;;;;;;;;;;;Àöòåêñêîå ÿçû÷åñòâî;;x
+aztec_pagan_DESC;The Aztec religion features a creation myth centered on sacrifice - even gods were sacrificed to keep the sun moving. This is reflected in the many festivals and rituals of the religion, which feature human sacrifice on a massive scale. The chief gods are Huitzilopochtli, god of war and human sacrifice, Tlaloc, god of thunder and rain, Xiuhtecuhtli, god of fire, Xipe Totec, 'our Lord the Flayed One' and Quetzalcoatl, god of wisdom.;;;;;;;;;;;"Ðåëèãèÿ àöòåêîâ îñíîâàíà íà æåðòâåííîñòè - äàæå áîãè áûëè ïðèíåñåíû â æåðòâó, ÷òîáû ñîëíöå ìîãëî äâèãàòüñÿ. Ýòî íàõîäèò ñâî¸ îòðàæåíèå âî ìíîãèõ ïðàçäíèêàõ è îáðÿäàõ ðåëèãèè, âî âðåìÿ êîòîðûõ â ìàññîâîì ìàñøòàáå ïðîèñõîäÿò ÷åëîâå÷åñêèå æåðòâîïðèíîøåíèÿ. Ãëàâíûé èç áîãîâ - Óèöèëîïî÷òëè, áîã âîéíû è ÷åëîâå÷åñêèõ æåðòâîïðèíîøåíèé, òàêæå îñíîâíûìè ÿâëÿþòñÿ Òëàëîê, áîã ãðîìà è äîæäÿ, Øèóòåêóòëè, áîã îãíÿ, Øèïå Òîòåê, ""Íàø Ãîñïîäèí îáîäðàííûé"" è Êåòöàëüêîàòëü, áîã ìóäðîñòè.";;x
+aztec_pagan_reformed;Aztec;;;;;;;;;;;Àöòåêñêîå ÿçû÷åñòâî;;x
+aztec_pagan_reformed_DESC;The Aztec religion features a creation myth centered on sacrifice - even gods were sacrificed to keep the sun moving. This is reflected in the many festivals and rituals of the religion, which feature human sacrifice on a massive scale. The reformed Aztec religion has a proper Holy Book, a standardized liturgy and a formal church hierarchy led by a flock of dedicated hierophants.;;;;;;;;;;;Ðåëèãèÿ àöòåêîâ îñíîâàíà íà æåðòâåííîñòè - äàæå áîãè áûëè ïðèíåñåíû â æåðòâó, ÷òîáû ñîëíöå ìîãëî äâèãàòüñÿ. Ýòî íàõîäèò ñâî¸ îòðàæåíèå âî ìíîãèõ ïðàçäíèêàõ è îáðÿäàõ ðåëèãèè, âî âðåìÿ êîòîðûõ â ìàññîâîì ìàñøòàáå ïðîèñõîäÿò ÷åëîâå÷åñêèå æåðòâîïðèíîøåíèÿ. Ðåôîðìèðîâàííàÿ âåðà àöòåêîâ èìååò íàäëåæàùåå ñâÿùåííîå ïèñàíèå, ñòàíäàðòèçèðîâàííóþ ëèòóðãèþ è ôîðìàëüíóþ èåðàðõèþ, âîçãëàâëÿåìóþ æðåöàìè-èåðîôàíòàìè.;;x
+finnish_pagan;Suomenusko;;;;;;;;;;;Ôèíñêîå ÿçû÷åñòâî;;x
+finnish_pagan_DESC;Finnic paganism is diverse, varying a lot between tribes and regions. It is shamanistic and animist, revering a multitude of gods, including Ukko/Perkele, Kuu and, in the east, Mastor-Ava, goddess of the Earth.;;;;;;;;;;;Ôèíñêîå ÿçû÷åñòâî ðàçíîîáðàçíî, èìååò ìíîæåñòâî ðàçëè÷èé ìåæäó ïëåìåíàìè è ðåãèîíàìè. Ýòî è àíèìèñòè÷åñêèå, è øàìàíñêèå, ïî÷èòàíèÿ ìíîæåñòâà áîãîâ, â òîì ÷èñëå Óêêî(Ïåðêåëå), Êóó è, íà âîñòîêå, Ìàñòîð-Àâà, áîãèíè çåìëè.;;x
+finnish_pagan_FEATURES;§Y*§! Inferior at conversion\n§Y*§! Rulers cannot declare Holy Wars;;;;;;;;;;;§Y*§! Óÿçâèìîñòü ïåðåä ìèññèîíåðàìè\n§Y*§! Ïðàâèòåëè íå ìîãóò îáúÿâëÿòü ñâÿùåííûå âîéíû;;x
+finnish_pagan_reformed;Suomenusko;;;;;;;;;;;Ôèíñêîå ÿçû÷åñòâî;;x
+finnish_pagan_reformed_DESC;Finnic paganism is shamanistic and animist, revering a multitude of gods, including Ukko/Perkele, Kuu and, in the east, Mastor-Ava, goddess of the Earth. The reformed Finnish faith has a Holy Book with a creation myth, chapters on the gods and a book of spells and mysteries.;;;;;;;;;;;Ôèíñêîå ÿçû÷åñòâî ðàçíîîáðàçíî, èìååò ìíîæåñòâî ðàçëè÷èé ìåæäó ïëåìåíàìè è ðåãèîíàìè. Ýòî è àíèìèñòè÷åñêèå, è øàìàíñêèå, ïî÷èòàíèÿ ìíîæåñòâà áîãîâ, â òîì ÷èñëå Óêêî (Ïåðêåëå), Êóó è, íà âîñòîêå, Ìàñòîð-Àâà, áîãèíè Çåìëè. Ðåôîðìèðîâàííîå ôèíñêîå ÿçû÷åñòâî ñîäåðæèò ñâÿùåííîå ïèñàíèå, âêëþ÷àþùåå ìèô ñîòâîðåíèÿ, ãëàâû, ïîñâÿù¸ííûå áîãàì, è êíèãó çàêëèíàíèé è çàãàäîê. Öåðêîâü òàêæå èìååò ñòàíäàðòèçèðîâàííóþ ëèòóðãèþ.;;x
+slavic_pagan;Slavic;;;;;;;;;;;Ñëàâÿíñêîå ÿçû÷åñòâî;;x
+slavic_pagan_DESC;Slavic heathenry is polytheistic, the chief god being Perun, god of thunder and lightning, quite similar to the Germanic god Thor. Other important deities include Veles, god of the underworld, Svarog, Jarilo and Svantevit. In addition, many tribes revere local gods.;;;;;;;;;;;Â ïàíòåîí ñëàâÿíñêèõ áîãîâ âõîäÿò: Ïåðóí - áîã ãðîìà è ìîëíèé, î÷åíü ïîõîæèé íà ãåðìàíñêîãî áîãà Òîðà, Âåëåñ - ïîêðîâèòåëü ñêàçèòåëåé è ïîýçèè, Ñâàðîã, ßðèëî è Ñâàíòåâèò. Êðîìå òîãî, ìíîãèå ïëåìåíà ïî÷èòàþò ìåñòíûõ áîãîâ.;;x
+slavic_pagan_FEATURES;§Y*§! Inferior at conversion\n§Y*§! Rulers cannot declare Holy Wars;;;;;;;;;;;§Y*§! Óÿçâèìîñòü ïåðåä ìèññèîíåðàìè\n§Y*§! Ïðàâèòåëè íå ìîãóò îáúÿâëÿòü ñâÿùåííûå âîéíû;;x
+slavic_pagan_reformed;Slavic;;;;;;;;;;;Ñëàâÿíñêîå ÿçû÷åñòâî;;x
+slavic_pagan_reformed_DESC;The Slavic religion is polytheistic, the chief god being Perun, god of thunder and lightning, quite similar to the Germanic god Thor. Other important deities include Veles, god of the underworld, Svarog, Jarilo and Svantevit. The reformed Slavic faith has a Holy Book with a creation myth, chapters on the gods and a book of prophesies.;;;;;;;;;;;Â ïàíòåîí ñëàâÿíñêèõ áîãîâ âõîäÿò: Ïåðóí - áîã ãðîìà è ìîëíèé, î÷åíü ïîõîæèé íà ãåðìàíñêîãî áîãà Òîðà, Âåëåñ - ïîêðîâèòåëü ñêàçèòåëåé è ïîýçèè, Ñâàðîã, ßðèëî è Ñâàíòåâèò. Êðîìå òîãî, ìíîãèå ïëåìåíà ïî÷èòàþò ìåñòíûõ áîãîâ. Ðåôîðìèðîâàííîå ñëàâÿíñêîå ÿçû÷åñòâî îïèñûâàåòñÿ â ñâÿùåííîì ïèñàíèè, ñîäåðæàùèì ìèô ñîòâîðåíèÿ, ãëàâû, ïîñâÿù¸ííûå áîãàì è êíèãó ïðîðî÷åñòâ.;;x
+tengri_pagan;Tengri;;;;;;;;;;;Òåíãðèàíñòâî;;x
+tengri_pagan_DESC;Tengrism is the religion of the steppe peoples of Eurasia, especially Turkish and Mongol nomads. The chief god is Tengri, the creator god who rules the skies. Shamanism and animism also feature prominently in the religion.;;;;;;;;;;;Òåíãðèàíñòâî ÿâëÿåòñÿ ðåëèãèåé ñòåïíûõ íàðîäîâ Åâðàçèè, îñîáåííî òþðêñêèõ è ìîíãîëüñêèõ êî÷åâíèêîâ. Ãëàâíûì áîãîì â äàííîì âåðîâàíèè ÿâëÿåòñÿ Òåíãðè, áîã-òâîðåö, êîòîðûé ïðàâèò íåáîì. Øàìàíèçì è àíèìèçì çàíèìàþò âèäíîå ìåñòî â ðåëèãèè.;;x
+tengri_pagan_FEATURES;§Y*§! Inferior at conversion\n§Y*§! Rulers cannot declare Holy Wars;;;;;;;;;;;§Y*§! Óÿçâèìîñòü ïåðåä ìèññèîíåðàìè\n§Y*§! Ïðàâèòåëè íå ìîãóò îáúÿâëÿòü ñâÿùåííûå âîéíû;;x
+tengri_pagan_reformed;Tengri;;;;;;;;;;;Òåíãðèàíñòâî;;x
+tengri_pagan_reformed_DESC;Tengrism is the religion of the steppe peoples of Eurasia, especially Turkish and Mongol nomads. The chief god is Tengri, the creator god who rules the skies. The reformed Tengri faith has transferred its oral legends into a collection of scrolls written in the Orkhon runic script, acquiring a standardized liturgy and a formal church hierarchy.;;;;;;;;;;;Òåíãðèàíñòâî ÿâëÿåòñÿ ðåëèãèåé ñòåïíûõ íàðîäîâ Åâðàçèè, îñîáåííî òþðêñêèõ è ìîíãîëüñêèõ êî÷åâíèêîâ. Ãëàâíûì áîãîì â äàííîì âåðîâàíèè ÿâëÿåòñÿ Òåíãðè, áîã-òâîðåö, êîòîðûé ïðàâèò íåáîì. Îñíîâûå ïîëîæåíèÿ ðåôîðìèðîâàííîãî òåíãðèàíñòâà ðàñïèñàíû îðõîíñêèìè ðóíàìè, è ñîäåðæàò ñòàíäàðòèçèðîâàííûå ëèòóðãèþ è îïèñàíèå ôîðìàëüíîé èåðàðõèè Öåðêâè.;;x
+west_african_pagan;African;;;;;;;;;;;Ñàõåëèàíñêîå ÿçû÷åñòâî;;x
+west_african_pagan_DESC;The African religion includes many of the diverse pagan beliefs of the tribes of Sub-Saharan Africa. Ancestor worship, animism and totemistic shamanism dominate, but there also various pantheons of gods.;;;;;;;;;;;Çàïàäíî-àôðèêàíñêîå ÿçû÷åñòâî ÿâëÿåòñÿ îáùèì òåðìèíîì äëÿ ðàçíîîáðàçíûõ âåðîâàíèé ïëåìåí ê þãó îò Ñàõàðû â Çàïàäíîé Àôðèêå. Êóëüò ïðåäêîâ, àíèìèçì, øàìàíèçì è òîòåìèçì äîìèíèðóþò, íî åñòü òàêæå ðàçëè÷íûå ïàíòåîíû áîãîâ.;;x
+west_african_pagan_FEATURES;§Y*§! Inferior at conversion\n§Y*§! Rulers cannot declare Holy Wars;;;;;;;;;;;§Y*§! Óÿçâèìîñòü ïåðåä ìèññèîíåðàìè\n§Y*§! Ïðàâèòåëè íå ìîãóò îáúÿâëÿòü ñâÿùåííûå âîéíû;;x
+west_african_pagan_reformed;African;;;;;;;;;;;Ñàõåëèàíñêîå ÿçû÷åñòâî;;x
+west_african_pagan_reformed_DESC;The reformed African religion is a fusion of many popular beliefs, with a single Holy Book including a creation myth, chapters on the spirits, totem animal fables and gods.;;;;;;;;;;;Ðåôîðìèðîâàííàÿ àôðèêàíñêàÿ âåðà ïðåäñòàâëÿåò ñîáîé ñïëàâ ìíîãèõ ïîïóëÿðíûõ âåðîâàíèé, ïîëîæåíèÿ êîòîðûõ ñîäåðæàòñÿ â ñâÿùåííîì ïèñàíèè: ìèô î ñîòâîðåíèè, ãëàâû, ïîñâÿù¸ííûå äóõàì, òîòåìíûì æèâîòíûì è áîãàì, áàñíè.;;x
+norse_pagan;Germanic;;;;;;;;;;;Ãåðìàíñêîå ÿçû÷åñòâî;;x
+norse_pagan_DESC;In the Early Middle Ages, the ancient Germanic belief system is still dominant in Scandinavia and northern Germany. A pantheon of gods under the wise warrior god Odin (or Wodan) rules all the branches of the worldtree, Yggdrasil. The other two main gods are Thor (Thunar), friend to mankind, and Frey, god of fertility.;;;;;;;;;;;Â ïåðèîä Ðàííåãî Ñðåäíåâåêîâüÿ äðåâíåãåðìàíñêèå âåðîâàíèÿ âñ¸ åù¸ ïðåîáëàäàëè â Ñêàíäèíàâèè è ñåâåðíîé ÷àñòè Ãåðìàíèè. Ïàíòåîí áîãîâ âîçãëàâëÿåò ìóäðûé âîèí Îäèí (Âîäàí), êîòîðûé ïðàâèò âñåìè âåòâÿìè ìèðîâîãî äðåâà, Èããäðàñèëÿ. Äâà äðóãèõ áîãà - ýòî Òîð (Òóíàð), äðóã ÷åëîâå÷åñòâà, è Ôðåé, áîã ïëîäîðîäèÿ.;;x
+norse_pagan_FEATURES;§Y*§! Inferior at conversion\n§Y*§! Rulers cannot declare Holy Wars;;;;;;;;;;;§Y*§! Óÿçâèìîñòü ïåðåä ìèññèîíåðàìè\n§Y*§! Ïðàâèòåëè íå ìîãóò îáúÿâëÿòü ñâÿùåííûå âîéíû;;x
+norse_pagan_reformed;Germanic;;;;;;;;;;;Ãåðìàíñêîå ÿçû÷åñòâî;;x
+norse_pagan_reformed_DESC;The reformed Norse Pagan faith has a Holy Book written in runes with chapters on Creation, the gods, Ragnarok, and secret spells - 'galdrs'. The church has a standardized liturgy and a formal church hierarchy no longer relying on shamans and fortunetellers to lead the faithful.;;;;;;;;;;;Ðåôîðìèðîâàííîå ãåðìàíñêîå ÿçû÷åñòâî îáëàäàåò ñâÿùåííûì ïèñàíèåì, íàïèñàííûì ðóíàìè è ñîäåðæàùèì ãëàâû î ñîòâîðåíèè, áîãàõ, Ðàãíàð¸êå, è òàéíûå çàêëèíàíèÿ - ãàëüäû. Öåðêîâü èìååò ñòàíäàðòèçèðîâàííóþ ëèòóðãèþ è ôîðìàëüíóþ èåðàðõèþ, áîëåå íå ïîëàãàÿñü íà ïðåäñêàçàòåëåé è øàìàíîâ.;;x
+zun_pagan;Zunist;;;;;;;;;;;Çóíñêîå ÿçû÷åñòâî;;x
+zun_pagan_DESC;Zun, the Giver of Justice, is the sun-god originally worshipped by the Zunbil dynasty in Afghanistan. Zun embodies wisdom, power, fire and the light that drives away the night. Defining features in-game:\n§Y*§! Can declare Subjugation Wars against all other pagans\n§Y*§! Inferior at conversion and vulnerable to non-pagan missionaries;;;;;;;;;;;Çóí, Äàðóþùèé ñïðàâåäëèâîñòü - áîã Ñîëíöà, êîòîðîìó èçíà÷àëüíî ïîêëîíÿëàñü àôãàíñêàÿ äèíàñòèÿ Çóíáèë, âîïëîùàåò ìóäðîñòü, ìîãóùåñòâî, îãîíü è ñâåò, ïðîãîíÿþùèé íî÷ü. Ðåàëèçîâàííûå îñîáåííîñòè â èãðå:\n§Y*§! Âîçìîæíîñòü îáúÿâèòü âîéíó ïðîòèâ ëþáûõ ÿçû÷íèêîâ, ñ öåëüþ èõ ïîêîðåíèÿ\n§Y*§! Ñêëîííî ê îáðàùåíèþ è óÿçâèìî äëÿ íåÿçû÷åñêèõ ïðîïîâåäåé\n§Y*§! Ìîæåò áûòü ðåôîðìèðîâàíî;;x
+zun_pagan_FEATURES;§Y*§! Inferior at conversion\n§Y*§! Rulers cannot declare Holy Wars;;;;;;;;;;;§Y*§! Óÿçâèìîñòü ïåðåä ìèññèîíåðàìè\n§Y*§! Ïðàâèòåëè íå ìîãóò îáúÿâëÿòü ñâÿùåííûå âîéíû;;x
+zun_pagan_reformed;Church of Zun;;;;;;;;;;;Çóíñêîå ÿçû÷åñòâî;;x
+zun_pagan_reformed_DESC;Zun, the Sun-God and Giver of Justice, embodies wisdom, power, fire and the light that drives away the night. The reformed Zun faith has a Holy Book detailing things such as the creation myths and outlining church doctrine, as well as a standardized liturgy and a formal church hierarchy.;;;;;;;;;;;Çóí, Áîã-Ñîëíöå, Äàðóþùèé Ñïðàâåäëèâîñòü, âîïëîùàåò ìóäðîñòü, ìîãóùåñòâî, îãîíü è ñâåò, ïðîãîíÿþùèé íî÷ü. Ðåôîðìèðîâàííîå çóíñêîå ÿçû÷åñòâî èìååò ñâî¸ ñâÿùåííîå ïèñàíèå, ïîäðîáíî îïèñûâàþùåå ìèôû î ïðîèñõîæäåíèè ìèðà, ðåëèãèîçíûå äîêòðèíû, ëèòóðãèþ è ôîðìàëüíóþ èåðàðõèþ ñâÿùåííîñëóæèòåëåé.;;x
+zun_pagan_reformed_adj;Zunist;;;;;;;;;;;Çóí;;x
+hellenic_pagan;Hellenic;;;;;;;;;;;Ýëëèíñêîå ÿçû÷åñòâî;;x
+hellenic_pagan_DESC;The Hellenistic religion is polytheistic, with a pantheon of twelve major gods including Jupiter, Mars, Mercury, Venus, Minerva and Vesta. It originated in ancient Greece and with the conquests of Alexander the Great and the Roman Empire, it would go on to become the dominant religion in the Mediterranean world until the rise of Christendom.;;;;;;;;;;;Ýëëèíèçì - ýòî ïîëèòåèçì ñ ïàíòåîíîì èç äâåíàäöàòè ãëàâíûõ áîæåñòâ, â èõ ÷èñëå: [GetZeusJupiterName], [GetAresMarsName], [GetHermesMercuryName], [GetAphroditeVenusName], [GetAthenaMinervaName] è [GetHestiaVestaName]. Îíî âîñõîäèò ê àíòè÷íîñòè, äðåâíèì èìïåðèÿì è çàâîåâàíèÿì, è ìîãëà áû ñòàòü ãîñïîäñòâóþùåé, åñëè áû íå ðàñïðîñòðàíåíèå ìîíîòåèçìà.;;x
+hellenic_pagan_FEATURES;§Y*§! Inferior at conversion\n§Y*§! Rulers cannot declare Holy Wars;;;;;;;;;;;§Y*§! Óÿçâèìîñòü ïåðåä ìèññèîíåðàìè\n§Y*§! Ïðàâèòåëè íå ìîãóò îáúÿâëÿòü ñâÿùåííûå âîéíû;;x
+hellenic_pagan_reformed;Hellenic;;;;;;;;;;;Ýëëèíñêîå ÿçû÷åñòâî;;x
+hellenic_pagan_reformed_DESC;The Hellenistic religion is polytheistic, with a pantheon of twelve major gods including [GetZeusJupiterName], [GetAresMarsName], [GetHermesMercuryName], [GetAphroditeVenusName], [GetAthenaMinervaName] and [GetHestiaVestaName]. Restored after having been almost but wiped out by Christianity, it has been fully adapted by its new practitioners to contend against its more aggressive, younger competitors.;;;;;;;;;;;Ýëëèíèçì - ýòî ïîëèòåèçì ñ ïàíòåîíîì èç äâåíàäöàòè ãëàâíûõ áîæåñòâ, â èõ ÷èñëå: [GetZeusJupiterName], [GetAresMarsName], [GetHermesMercuryName], [GetAphroditeVenusName], [GetAthenaMinervaName] è [GetHestiaVestaName]. Îíî âîñõîäèò ê àíòè÷íîñòè, äðåâíèì èìïåðèÿì è çàâîåâàíèÿì, è ìîãëà áû ñòàòü ãîñïîäñòâóþùåé, åñëè áû íå ðàñïðîñòðàíåíèå ìîíîòåèçìà.;;x
+bon_pagan;Bön;;;;;;;;;;;Áîíñêîå ÿçû÷åñòâî;;x
+bon_pagan_DESC;Bön is the ancient indigenous pre-Buddhist religion of Tibet. It is shamanistic and animistic in nature with multiple deities. After the introduction of Buddhism to Tibet, Bön adopted many of its elements.;;;;;;;;;;;Áîí - äðåâíÿÿ òðàäèöèîííàÿ ðåëèãèÿ Òèáåòà äî âîçíèêíîâåíèÿ è ðàñïðîñòðàíåíèÿ áóääèçìà ñ ýëåìåíòàìè øàìàíèçìà, àíèìèçìà è ïîëèòåèçìà. Êîãäà æå â Òèáåò ïðèø¸ë áóääèçì, Áîí ïåðåíÿë ìíîãîå ó íåãî.;;x
+bon_pagan_FEATURES;§Y*§! Rulers may select a lesser deity to honor\n§Y*§! Inferior at conversion\n§Y*§! Rulers cannot declare Holy Wars;;;;;;;;;;;§Y*§! Ïðàâèòåëè ìîãóò âûáðàòü âòîðîñòåïåííîå áîæåñòâî äëÿ ïî÷èòàíèÿ\n§Y*§! Óÿçâèìîñòü ïåðåä ìèññèîíåðàìè\n§Y*§! Ïðàâèòåëè íå ìîãóò îáúÿâëÿòü ñâÿùåííûå âîéíû;;x
+bon_pagan_reformed;Bön;;;;;;;;;;;Áîí;;x
+bon_pagan_reformed_DESC;The reformed Bön faith has fully incorporated some of its Buddhists elements while codifying the shamanic and animistic deities followed by its worshipers in a series of detailed scriptures.;;;;;;;;;;;Áîí - äðåâíÿÿ òðàäèöèîííàÿ ðåëèãèÿ Òèáåòà äî âîçíèêíîâåíèÿ è ðàñïðîñòðàíåíèÿ áóääèçìà ñ ýëåìåíòàìè øàìàíèçìà, àíèìèçìà è ïîëèòåèçìà. Êîãäà æå â Òèáåò ïðèø¸ë áóääèçì, Áîí ïåðåíÿë ìíîãîå ó íåãî.;;x
 # God names
-ADONAI;Adonai;;;;;;;;;;;;;x
-GOD_ADI;Adi;;;;;;;;;;;;;x
-GOD_AHURA_MAZDA;Ahura Mazda;;;;;;;;;;;;;x
-GOD_AJINATH;Ajinath;;;;;;;;;;;;;x
-GOD_AK_ANA;Ak Ana;;;;;;;;;;;;;x
-GOD_ALLAH;Allah;;;;;;;;;;;;;x
-GOD_AMNYE_MACHEN;Amnye Machen;;;;;;;;;;;;;x
-GOD_APHRODITE;Aphrodite;;;;;;;;;;;;;x
-GOD_APOLLO;Apollo;;;;;;;;;;;;;x
-GOD_ARES;Ares;;;;;;;;;;;;;x
-GOD_ARTEMIS;Artemis;;;;;;;;;;;;;x
-GOD_ATHENA;Athena;;;;;;;;;;;;;x
-GOD_BRAHMA;Brahma;;;;;;;;;;;;;x
-GOD_CERES;Ceres;;;;;;;;;;;;;x
-GOD_CIHUACOATL;Cihuacoatl;;;;;;;;;;;;;x
-GOD_CIHUACOATL_2;Cihuacoatl;;;;;;;;;;;;;x
-GOD_DELFINE;Delfine;;;;;;;;;;;;;x
-GOD_DEMETRA;Demetra;;;;;;;;;;;;;x
-GOD_DESI;Desi;;;;;;;;;;;;;x
-GOD_DIANA;Diana;;;;;;;;;;;;;x
-GOD_DIEVAS;Dievas;;;;;;;;;;;;;x
-GOD_DIEVAS_2;Dievas;;;;;;;;;;;;;x
-GOD_DIONYSUS;Dionysus;;;;;;;;;;;;;x
-GOD_DODOLA;Dodola;;;;;;;;;;;;;x
-GOD_DRALHA_YESI;Dralha Yesi;;;;;;;;;;;;;x
-GOD_ERLIK_KHAN;Erlik Khan;;;;;;;;;;;;;x
-GOD_FREY;Frey;;;;;;;;;;;;;x
-GOD_FRIGG;Frigg;;;;;;;;;;;;;x
-GOD_FRIGG_2;Frigg;;;;;;;;;;;;;x
-GOD_GABIJA;Gabija;;;;;;;;;;;;;x
-GOD_GABIJA_2;Gabija;;;;;;;;;;;;;x
-GOD_GOD;God;;;;;;;;;;;;;x
-GOD_GREEK_JUPITER;Zeús;;;;;;;;;;;;;x
-GOD_GREEK_JUPITER_2;Zeús;;;;;;;;;;;;;x
-GOD_HADES;Hades;;;;;;;;;;;;;x
-GOD_HEAVENLY_ORDER;The Heavenly Order;;;;;;;;;;;;;x
-GOD_HEPHAESTUS;Hephaestus;;;;;;;;;;;;;x
-GOD_HERA;Hera;;;;;;;;;;;;;x
-GOD_HERA_2;Hera;;;;;;;;;;;;;x
-GOD_HERMES;Hermes;;;;;;;;;;;;;x
-GOD_HESTIA;Hestia;;;;;;;;;;;;;x
-GOD_HUITZILOPOCHTLI;Huitzilopochtli;;;;;;;;;;;;;x
-GOD_HUITZILOPOCHTLI_2;Huitzilopochtli;;;;;;;;;;;;;x
-GOD_JARILO;Jarilo;;;;;;;;;;;;;x
-GOD_JESUS;Jesus;;;;;;;;;;;;;x
-GOD_JUMI;Jumi;;;;;;;;;;;;;x
-GOD_JUNO;Juno;;;;;;;;;;;;;x
-GOD_JUNO_2;Juno;;;;;;;;;;;;;x
-GOD_JUPITER;Jupiter;;;;;;;;;;;;;x
-GOD_JUPITER_2;Jupiter;;;;;;;;;;;;;x
-GOD_KALMA;Kalma;;;;;;;;;;;;;x
-GOD_KHURMAZTA;Khurmazta;;;;;;;;;;;;;x
-GOD_KOSTROMA;Kostroma;;;;;;;;;;;;;x
-GOD_KRONOS;Kronos;;;;;;;;;;;;;x
-GOD_KUBAI;Kubai;;;;;;;;;;;;;x
-GOD_KUU;Kuu;;;;;;;;;;;;;x
-GOD_KUU_2;Kuu;;;;;;;;;;;;;x
-GOD_LAIMA;Laima;;;;;;;;;;;;;x
-GOD_MALINALXOCHITL;Malinalxochitl;;;;;;;;;;;;;x
-GOD_MANAH;Manah;;;;;;;;;;;;;x
-GOD_MARS;Mars;;;;;;;;;;;;;x
-GOD_MARZANNA;Marzanna;;;;;;;;;;;;;x
-GOD_MASTOR_AVA;Mastor-Ava;;;;;;;;;;;;;x
-GOD_MEDEINA;Medeina;;;;;;;;;;;;;x
-GOD_MEDEINA_2;Medeina;;;;;;;;;;;;;x
-GOD_METZTLI;Metztli;;;;;;;;;;;;;x
-GOD_MIHRYAZD;Mihryazd;;;;;;;;;;;;;x
-GOD_MINERVA;Minerva;;;;;;;;;;;;;x
-GOD_NANAIYA;Nanaiya;;;;;;;;;;;;;x
-GOD_NEPTUNE;Neptune;;;;;;;;;;;;;x
-GOD_NEPTUNE_2;Neptune;;;;;;;;;;;;;x
-GOD_ODIN;Odin;;;;;;;;;;;;;x
-GOD_ODIN_2;Odin;;;;;;;;;;;;;x
-GOD_OHRMAZD;Ohrmazd;;;;;;;;;;;;;x
-GOD_OMOL;Omöl;;;;;;;;;;;;;x
-GOD_PARN;Parn;;;;;;;;;;;;;x
-GOD_PERKELE;Perkele;;;;;;;;;;;;;x
-GOD_PERKUNAS;Perkunas;;;;;;;;;;;;;x
-GOD_PERUN;Perun;;;;;;;;;;;;;x
-GOD_PERUN_2;Perun;;;;;;;;;;;;;x
-GOD_POSEIDON;Poseidon;;;;;;;;;;;;;x
-GOD_POSEIDON_2;Poseidon;;;;;;;;;;;;;x
-GOD_QUETZALCOATL;Quetzalcoatl;;;;;;;;;;;;;x
-GOD_QUETZALCOATL_2;Quetzalcoatl;;;;;;;;;;;;;x
-GOD_RADEGAST;Radegast;;;;;;;;;;;;;x
-GOD_RISHABH;Rishabh;;;;;;;;;;;;;x
-GOD_SAMBHAVANATH;Sambhavanath;;;;;;;;;;;;;x
-GOD_SANGPO_BUMTRI;Sangpo Bumtri;;;;;;;;;;;;;x
-GOD_SANGPO_BUMTRI_2;Sangpo Bumtri;;;;;;;;;;;;;x
-GOD_SHAYTAN;Shaytan;;;;;;;;;;;;;x
-GOD_SHENLA_OKAR;Shenlha Ökar;;;;;;;;;;;;;x
-GOD_SHERAB_CHAMMA;Sherab Chamma;;;;;;;;;;;;;x
-GOD_SHINJE;Shinje;;;;;;;;;;;;;x
-GOD_SHIVA;Shiva;;;;;;;;;;;;;x
-GOD_SIF;Sif;;;;;;;;;;;;;x
-GOD_SKADI;Skadi;;;;;;;;;;;;;x
-GOD_SVAROG;Svarog;;;;;;;;;;;;;x
-GOD_TAARA;Taara;;;;;;;;;;;;;x
-GOD_TAPIO;Tapio;;;;;;;;;;;;;x
-GOD_TAWUSE_MELEK;Tawuse Melek;;;;;;;;;;;;;x
-GOD_TENGRI;Tengri;;;;;;;;;;;;;x
-GOD_TENGRI_2;Tengri;;;;;;;;;;;;;x
-GOD_TEZCATLIPOCA;Tezcatlipoca;;;;;;;;;;;;;x
-GOD_THE_ALLFATHER;the Allfather;;;;;;;;;;;;;x
-GOD_THE_ALLFATHER_2;the Allfather;;;;;;;;;;;;;x
-GOD_THE_ALLMOTHER;the Allmother;;;;;;;;;;;;;x
-GOD_THE_ANCESTORS;the Ancestors;;;;;;;;;;;;;x
-GOD_THE_ARHAT;the Arhat;;;;;;;;;;;;;x
-GOD_THE_BLESSED_VIRGIN;the Blessed Virgin;;;;;;;;;;;;;x
-GOD_THE_BUDDHA;the Buddha;;;;;;;;;;;;;x
-GOD_THE_CREATOR;the Creator;;;;;;;;;;;;;x
-GOD_THE_GIVER_OF_JUSTICE;the Giver of Justice;;;;;;;;;;;;;x
-GOD_THE_GREAT_BEAR;the Great Bear;;;;;;;;;;;;;x
-GOD_THE_GREATEST;the Greatest;;;;;;;;;;;;;x
-GOD_THE_LORD;the Lord;;;;;;;;;;;;;x
-GOD_THE_MOTHER;the Mother;;;;;;;;;;;;;x
-GOD_THE_PEACOCK_ANGEL;The Peacock Angel;;;;;;;;;;;;;x
-GOD_THE_PERFECTED_ONES;the Perfected Ones;;;;;;;;;;;;;x
-GOD_THE_SPIRITS;the Spirits;;;;;;;;;;;;;x
-GOD_THE_SUN;the Sun;;;;;;;;;;;;;x
-GOD_THE_SUPREME;the Supreme;;;;;;;;;;;;;x
-GOD_THE_THUNDERER;the Thunderer;;;;;;;;;;;;;x
-GOD_THE_TIRTHANKARAS;the Tirthanankaras;;;;;;;;;;;;;x
-GOD_THOR;Thor;;;;;;;;;;;;;x
-GOD_TLALOC;Tlaloc;;;;;;;;;;;;;x
-GOD_TONACACIHUATL;Tonacacihuatl;;;;;;;;;;;;;x
-GOD_TRIGLAV;Triglav;;;;;;;;;;;;;x
-GOD_TUNG-AK;Tung-ak;;;;;;;;;;;;;x
-GOD_TYR;Tyr;;;;;;;;;;;;;x
-GOD_UKKO;Ukko;;;;;;;;;;;;;x
-GOD_UKKO_2;Ukko;;;;;;;;;;;;;x
-GOD_UMAY;Umay;;;;;;;;;;;;;x
-GOD_UMAY_2;Umay;;;;;;;;;;;;;x
-GOD_VENUS;Venus;;;;;;;;;;;;;x
-GOD_VESTA;Vesta;;;;;;;;;;;;;x
-GOD_VULCAN;Vulcan;;;;;;;;;;;;;x
-GOD_WESHPARKAR;Weshparkar;;;;;;;;;;;;;x
-GOD_WISHAGHN;Wishaghn;;;;;;;;;;;;;x
-GOD_XIPE_TOTEC;Xipe-Totec;;;;;;;;;;;;;x
-GOD_YANSHIH_TIENTSUN;Yuanshi Tianzun the celeste Venerable of the Primordial Beginning;;;;;;;;;;;;;x
-GOD_YESHE_WALMO;Yeshe Walmo;;;;;;;;;;;;;x
-GOD_ZARVANA;Zarvana;;;;;;;;;;;;;x
-GOD_ZHANG_ZHUNG_MERI;Zhang Zhung Meri;;;;;;;;;;;;;x
-GOD_ZUN;Zun;;;;;;;;;;;;;x
-GOD_ZURVAN;Zurvan;;;;;;;;;;;;;x
-PROPHET_MANI;Mani;;;;;;;;;;;;;x
-PROPHET_MAZDAK;Mazdak;;;;;;;;;;;;;x
-PROPHET_ZOROASTER;Zoroaster;;;;;;;;;;;;;x
-THE_ANCESTORS;The Ancestors;;;;;;;;;;;;;x
-THE_PANTOKRATOR;the Pantokrator;;;;;;;;;;;;;x
-THE_THREE_PURITIES;The Three Purities;;;;;;;;;;;;;x
-
+ADONAI;Adonai;;;;;;;;;;;Àäîíàé;;x
+GOD_ADI;Adi;;;;;;;;;;;Àäè;;x
+GOD_AHURA_MAZDA;Ahura Mazda;;;;;;;;;;;ÀõóðàÌàçäà;;x
+GOD_AJINATH;Ajinath;;;;;;;;;;;Àäæèíàòõ;;x
+GOD_AK_ANA;Ak Ana;;;;;;;;;;;ÀêÀíà;;x
+GOD_ALLAH;Allah;;;;;;;;;;;Àëëàõ;;x
+GOD_AMNYE_MACHEN;Amnye Machen;;;;;;;;;;;ÀìíüåÌà÷åí;;x
+GOD_APHRODITE;Aphrodite;;;;;;;;;;;Àôðîäèòà;;x
+GOD_APOLLO;Apollo;;;;;;;;;;;Àïîëëîí;;x
+GOD_ARES;Ares;;;;;;;;;;;Àðåñ;;x
+GOD_ARTEMIS;Artemis;;;;;;;;;;;Àðòåìèäà;;x
+GOD_ATHENA;Athena;;;;;;;;;;;Àôèíà;;x
+GOD_BRAHMA;Brahma;;;;;;;;;;;Áðàõìà;;x
+GOD_CERES;Ceres;;;;;;;;;;;Öåðåðà;;x
+GOD_CIHUACOATL;Cihuacoatl;;;;;;;;;;;Ñèóàêîàòëü;;x
+GOD_CIHUACOATL_2;Cihuacoatl;;;;;;;;;;;Ñèóàêoàòëü;;x
+GOD_DELFINE;Delfine;;;;;;;;;;;Äåëüôèíà;;x
+GOD_DEMETRA;Demetra;;;;;;;;;;;Äåìåòðà;;x
+GOD_DESI;Desi;;;;;;;;;;;Äýñè;;x
+GOD_DIANA;Diana;;;;;;;;;;;Äèàíà;;x
+GOD_DIEVAS;Dievas;;;;;;;;;;;Äèåâàñ;;x
+GOD_DIEVAS_2;Dievas;;;;;;;;;;;Äèåâàc;;x
+GOD_DIONYSUS;Dionysus;;;;;;;;;;;Äèîíèñ;;x
+GOD_DODOLA;Dodola;;;;;;;;;;;Äîäîëà;;x
+GOD_DRALHA_YESI;Dralha Yesi;;;;;;;;;;;ÄðàëõàÅñè;;x
+GOD_ERLIK_KHAN;Erlik Khan;;;;;;;;;;;Ýðëèê;;x
+GOD_FREY;Frey;;;;;;;;;;;Ôðåé;;x
+GOD_FRIGG;Frigg;;;;;;;;;;;Ôðèãã;;x
+GOD_FRIGG_2;Frigg;;;;;;;;;;;Ôpèãã;;x
+GOD_GABIJA;Gabija;;;;;;;;;;;Ãàáåòà;;x
+GOD_GABIJA_2;Gabija;;;;;;;;;;;Ãaáèÿ;;x
+GOD_GOD;God;;;;;;;;;;;Áîã;;x
+GOD_GREEK_JUPITER;Zeús;;;;;;;;;;;Çåâñ;;x
+GOD_GREEK_JUPITER_2;Zeús;;;;;;;;;;;Çåâc;;x
+GOD_HADES;Hades;;;;;;;;;;;Àèä;;x
+GOD_HEAVENLY_ORDER;The Heavenly Order;;;;;;;;;;;Äàî;;x
+GOD_HEPHAESTUS;Hephaestus;;;;;;;;;;;Ãåôåñò;;x
+GOD_HERA;Hera;;;;;;;;;;;Ãåðà;;x
+GOD_HERA_2;Hera;;;;;;;;;;;Ãåða;;x
+GOD_HERMES;Hermes;;;;;;;;;;;Ãåðìåñ;;x
+GOD_HESTIA;Hestia;;;;;;;;;;;Ãåñòèÿ;;x
+GOD_HUITZILOPOCHTLI;Huitzilopochtli;;;;;;;;;;;Óèöèëîïî÷òëè;;x
+GOD_HUITZILOPOCHTLI_2;Huitzilopochtli;;;;;;;;;;;Óèöèëîïo÷òëè;;x
+GOD_JARILO;Jarilo;;;;;;;;;;;ßðèëî;;x
+GOD_JESUS;Jesus;;;;;;;;;;;Èèñóñ;;x
+GOD_JUMI;Jumi;;;;;;;;;;;Äæóìè;;x
+GOD_JUNO;Juno;;;;;;;;;;;Þíîíà;;x
+GOD_JUNO_2;Juno;;;;;;;;;;;Þíîía;;x
+GOD_JUPITER;Jupiter;;;;;;;;;;;Þïèòåð;;x
+GOD_JUPITER_2;Jupiter;;;;;;;;;;;Þïèòåp;;x
+GOD_KALMA;Kalma;;;;;;;;;;;Êàëüìà;;x
+GOD_KHURMAZTA;Khurmazta;;;;;;;;;;;Õóðìàçòà;;x
+GOD_KOSTROMA;Kostroma;;;;;;;;;;;Êîñòðîìà;;x
+GOD_KRONOS;Kronos;;;;;;;;;;;Êðîíîñ;;x
+GOD_KUBAI;Kubai;;;;;;;;;;;Êóáýé;;x
+GOD_KUU;Kuu;;;;;;;;;;;Êóó;;x
+GOD_KUU_2;Kuu;;;;;;;;;;;Êóy;;x
+GOD_LAIMA;Laima;;;;;;;;;;;Ëàèìà;;x
+GOD_MALINALXOCHITL;Malinalxochitl;;;;;;;;;;;Ìàëèíàëüøî÷èòëü;;x
+GOD_MANAH;Manah;;;;;;;;;;;Ìàíàõ;;x
+GOD_MARS;Mars;;;;;;;;;;;Ìàðñ;;x
+GOD_MARZANNA;Marzanna;;;;;;;;;;;Ìîðåíà;;x
+GOD_MASTOR_AVA;Mastor-Ava;;;;;;;;;;;Ìàñòîð-Àâà;;x
+GOD_MEDEINA;Medeina;;;;;;;;;;;Ìåäåéíà;;x
+GOD_MEDEINA_2;Medeina;;;;;;;;;;;Ìåäåéía;;x
+GOD_METZTLI;Metztli;;;;;;;;;;;Ìåöòëè;;x
+GOD_MIHRYAZD;Mihryazd;;;;;;;;;;;Ìèõðèàçä;;x
+GOD_MINERVA;Minerva;;;;;;;;;;;Ìèíåðâà;;x
+GOD_NANAIYA;Nanaiya;;;;;;;;;;;Íàíàéÿ;;x
+GOD_NEPTUNE;Neptune;;;;;;;;;;;Íåïòóí;;x
+GOD_NEPTUNE_2;Neptune;;;;;;;;;;;Håïòóí;;x
+GOD_ODIN;Odin;;;;;;;;;;;Îäèí;;x
+GOD_ODIN_2;Odin;;;;;;;;;;;Oäèí;;x
+GOD_OHRMAZD;Ohrmazd;;;;;;;;;;;Îðìàçä;;x
+GOD_OMOL;Omöl;;;;;;;;;;;Îìîë;;x
+GOD_PARN;Parn;;;;;;;;;;;Ïàðí;;x
+GOD_PERKELE;Perkele;;;;;;;;;;;Ïåðóí;;x
+GOD_PERKUNAS;Perkunas;;;;;;;;;;;Ïåðêóíàñ;;x
+GOD_PERUN;Perun;;;;;;;;;;;Ïåðóí;;x
+GOD_PERUN_2;Perun;;;;;;;;;;;Ïåpóí;;x
+GOD_POSEIDON;Poseidon;;;;;;;;;;;Ïîñåéäîí;;x
+GOD_POSEIDON_2;Poseidon;;;;;;;;;;;Ïîñåéäoí;;x
+GOD_QUETZALCOATL;Quetzalcoatl;;;;;;;;;;;Êåòöàëüêîàòëü;;x
+GOD_QUETZALCOATL_2;Quetzalcoatl;;;;;;;;;;;Êåòöàëüêoàòëü;;x
+GOD_RADEGAST;Radegast;;;;;;;;;;;Ðàäåãàñò;;x
+GOD_RISHABH;Rishabh;;;;;;;;;;;Ðèøàáõ;;x
+GOD_SAMBHAVANATH;Sambhavanath;;;;;;;;;;;Ñàìáõàâàíàòõ;;x
+GOD_SANGPO_BUMTRI;Sangpo Bumtri;;;;;;;;;;;ÑàíãïîÁóìòðè;;x
+GOD_SANGPO_BUMTRI_2;Sangpo Bumtri;;;;;;;;;;;ÑàíãïoÁóìòðè;;x
+GOD_SHAYTAN;Shaytan;;;;;;;;;;;Øàéòàí;;x
+GOD_SHENLA_OKAR;Shenlha Ökar;;;;;;;;;;;ØåíëõàÎêàð;;x
+GOD_SHERAB_CHAMMA;Sherab Chamma;;;;;;;;;;;Øåðàá×àììà;;x
+GOD_SHINJE;Shinje;;;;;;;;;;;Øèíäæå;;x
+GOD_SHIVA;Shiva;;;;;;;;;;;Øèâà;;x
+GOD_SIF;Sif;;;;;;;;;;;Ñèô;;x
+GOD_SKADI;Skadi;;;;;;;;;;;Ñêàäè;;x
+GOD_SVAROG;Svarog;;;;;;;;;;;Ñâàðîã;;x
+GOD_TAARA;Taara;;;;;;;;;;;Òààðà;;x
+GOD_TAPIO;Tapio;;;;;;;;;;;Òàïèî;;x
+GOD_TAWUSE_MELEK;Tawuse Melek;;;;;;;;;;;Ìåëåê-Òàâóç;;x
+GOD_TENGRI;Tengri;;;;;;;;;;;Òåíãðè;;x
+GOD_TENGRI_2;Tengri;;;;;;;;;;;Òåíãpè;;x
+GOD_TEZCATLIPOCA;Tezcatlipoca;;;;;;;;;;;Òåñêàòëèïîêà;;x
+GOD_THE_ALLFATHER;the Allfather;;;;;;;;;;;Âñåîòåö;;x
+GOD_THE_ALLFATHER_2;the Allfather;;;;;;;;;;;Bñåîòåö;;x
+GOD_THE_ALLMOTHER;the Allmother;;;;;;;;;;;Âñåìàòåðü;;x
+GOD_THE_ANCESTORS;the Ancestors;;;;;;;;;;;Äóõïðåäêîâ;;x
+GOD_THE_ARHAT;the Arhat;;;;;;;;;;;Àðõàò;;x
+GOD_THE_BLESSED_VIRGIN;the Blessed Virgin;;;;;;;;;;;ÄåâàÌàðèÿ;;x
+GOD_THE_BUDDHA;the Buddha;;;;;;;;;;;Áóääà;;x
+GOD_THE_CREATOR;the Creator;;;;;;;;;;;Âñåâûøíèé;;x
+GOD_THE_GIVER_OF_JUSTICE;the Giver of Justice;;;;;;;;;;;Äàðóþùèéñïðàâåäëèâîñòü;;x
+GOD_THE_GREAT_BEAR;the Great Bear;;;;;;;;;;;ÂåëèêèéÌåäâåäü;;x
+GOD_THE_GREATEST;the Greatest;;;;;;;;;;;Âåëè÷àéøèé;;x
+GOD_THE_LORD;the Lord;;;;;;;;;;;Ãîñïîäü;;x
+GOD_THE_MOTHER;the Mother;;;;;;;;;;;Ìàòü;;x
+GOD_THE_PEACOCK_ANGEL;The Peacock Angel;;;;;;;;;;;Àíãåë-Ïàâëèí;;x
+GOD_THE_PERFECTED_ONES;the Perfected Ones;;;;;;;;;;;Âñåñîâåðøåííûé;;x
+GOD_THE_SPIRITS;the Spirits;;;;;;;;;;;Äóõ;;x
+GOD_THE_SUN;the Sun;;;;;;;;;;;Ñîëíöå;;x
+GOD_THE_SUPREME;the Supreme;;;;;;;;;;;Âñåâûøíèé;;x
+GOD_THE_THUNDERER;the Thunderer;;;;;;;;;;;Ãðîìîâåðæåö;;x
+GOD_THE_TIRTHANKARAS;the Tirthanankaras;;;;;;;;;;;Òèðòõàíàíêàðà;;x
+GOD_THOR;Thor;;;;;;;;;;;Òîð;;x
+GOD_TLALOC;Tlaloc;;;;;;;;;;;Òëàëîê;;x
+GOD_TONACACIHUATL;Tonacacihuatl;;;;;;;;;;;Òîíàêàêèóàòëü;;x
+GOD_TRIGLAV;Triglav;;;;;;;;;;;Òðèãëàâ;;x
+GOD_TUNG-AK;Tung-ak;;;;;;;;;;;Òóíãàê;;x
+GOD_TYR;Tyr;;;;;;;;;;;Òþð;;x
+GOD_UKKO;Ukko;;;;;;;;;;;Óêêî;;x
+GOD_UKKO_2;Ukko;;;;;;;;;;;Óêêo;;x
+GOD_UMAY;Umay;;;;;;;;;;;Ûìàé;;x
+GOD_UMAY_2;Umay;;;;;;;;;;;Ûìaé;;x
+GOD_VENUS;Venus;;;;;;;;;;;Âåíåðà;;x
+GOD_VESTA;Vesta;;;;;;;;;;;Âåñòà;;x
+GOD_VULCAN;Vulcan;;;;;;;;;;;Âóëêàí;;x
+GOD_WESHPARKAR;Weshparkar;;;;;;;;;;;Âåøïàðêàð;;x
+GOD_WISHAGHN;Wishaghn;;;;;;;;;;;Âèøàãí;;x
+GOD_XIPE_TOTEC;Xipe-Totec;;;;;;;;;;;Øèïå-Òîòåê;;x
+GOD_YANSHIH_TIENTSUN;Yuanshi Tianzun the celeste Venerable of the Primordial Beginning;;;;;;;;;;;Þàíüøè Òÿíüöçóíü;;x
+GOD_YESHE_WALMO;Yeshe Walmo;;;;;;;;;;;ÅøåÂàëìî;;x
+GOD_ZARVANA;Zarvana;;;;;;;;;;;Çàðâàíà;;x
+GOD_ZHANG_ZHUNG_MERI;Zhang Zhung Meri;;;;;;;;;;;×æàí×æóíÌåðè;;x
+GOD_ZUN;Zun;;;;;;;;;;;Çóí;;x
+GOD_ZURVAN;Zurvan;;;;;;;;;;;Çóðâàí;;x
+PROPHET_MANI;Mani;;;;;;;;;;;Ìàíè;;x
+PROPHET_MAZDAK;Mazdak;;;;;;;;;;;Ìàçäàê;;x
+PROPHET_ZOROASTER;Zoroaster;;;;;;;;;;;Çàðàòóøòðà;;x
+THE_ANCESTORS;The Ancestors;;;;;;;;;;;Ïðåäêè;;x
+THE_PANTOKRATOR;the Pantokrator;;;;;;;;;;;Ïàíòîêðàòîð;;x
+THE_THREE_PURITIES;The Three Purities;;;;;;;;;;;Ñàíü Öèí;;x
 # Evil god names
-IBLIS;Iblis;;;;;;;;;;;;;x
-SHAYTAN;Shaytan;;;;;;;;;;;;;x
-THE_DEVIL;the Devil;;;;;;;;;;;;;x
-THE_DARK_SPIRITS;the Dark Spirits;;;;;;;;;;;;;x
-SATAN;Satan;;;;;;;;;;;;;x
-AHRIMAN;Ahriman;;;;;;;;;;;;;x
-ANGRA_MAINYU;Angra Mainyu;;;;;;;;;;;;;x
-THE_DEMIURGE;the Demiurge;;;;;;;;;;;;;x
-LUCIFER;Lucifer;;;;;;;;;;;;;x
-THE_VINAYAKAS;the Vinyakas;;;;;;;;;;;;;x
-MARA;Mara;;;;;;;;;;;;;x
-THE_PUNISHERS;the Punishers;;;;;;;;;;;;;x
-KING_YAN;King Yan;;;;;;;;;;;;;x
-YANLUO;Yanluo;;;;;;;;;;;;;x
-JORMUNGANDR;Jörmungandr;;;;;;;;;;;;;x
-LOKI;Loki;;;;;;;;;;;;;x
-HEL;Hel;;;;;;;;;;;;;x
-FENRIR;Fenrir;;;;;;;;;;;;;x
-KOMUR_HAN;Komur Han;;;;;;;;;;;;;x
-ERLIK;Erlik;;;;;;;;;;;;;x
-VELNIAS;Velnias;;;;;;;;;;;;;x
-TUONETAR;Tuonetar;;;;;;;;;;;;;x
-TUONI;Tuoni;;;;;;;;;;;;;x
-TLAZOLTEOTL;Tlazolteotl;;;;;;;;;;;;;x
-XOLOTL;Xolotl;;;;;;;;;;;;;x
-GOD_MICTLANTECUHTLI;Mictlantecuhtli;;;;;;;;;;;;;x
-CHERNOBOG;Chernobog;;;;;;;;;;;;;x
-THE_DARKNESS;the Darkness;;;;;;;;;;;;;x
-GOD_BACCHUS;Bacchus;;;;;;;;;;;;;x
-GOD_MERCURY;Mercury;;;;;;;;;;;;;x
-GOD_PLUTO;Pluto;;;;;;;;;;;;;x
-GOD_SATURN;Saturn;;;;;;;;;;;;;x
-GOD_TYPHON;Typhon;;;;;;;;;;;;;x
-GOD_THE_EVIL_ONES;The Evil Ones;;;;;;;;;;;;;x
-GOD_VELES;Veles;;;;;;;;;;;;;x
-
+IBLIS;Iblis;;;;;;;;;;;Èáëèñ;;x
+SHAYTAN;Shaytan;;;;;;;;;;;Øàéòàí;;x
+THE_DEVIL;the Devil;;;;;;;;;;;Äüÿâîë;;x
+THE_DARK_SPIRITS;the Dark Spirits;;;;;;;;;;;Çëîé äóõ;;x
+SATAN;Satan;;;;;;;;;;;Ñàòàíà;;x
+AHRIMAN;Ahriman;;;;;;;;;;;Àõðèìàí;;x
+ANGRA_MAINYU;Angra Mainyu;;;;;;;;;;;Àíãðà-Ìàéíüþ;;x
+THE_DEMIURGE;the Demiurge;;;;;;;;;;;Äåìèóðã;;x
+LUCIFER;Lucifer;;;;;;;;;;;Ëþöèôåð;;x
+THE_VINAYAKAS;the Vinyakas;;;;;;;;;;;Âèíàÿêà;;x
+MARA;Mara;;;;;;;;;;;Ìàðà;;x
+THE_PUNISHERS;the Punishers;;;;;;;;;;;Êàðàòåëü;;x
+KING_YAN;King Yan;;;;;;;;;;;Âëàäûêà ßíü;;x
+YANLUO;Yanluo;;;;;;;;;;;ßíüëî;;x
+JORMUNGANDR;Jörmungandr;;;;;;;;;;;Éîðìóíãàíä;;x
+LOKI;Loki;;;;;;;;;;;Ëîêè;;x
+HEL;Hel;;;;;;;;;;;Õåëü;;x
+FENRIR;Fenrir;;;;;;;;;;;Ôåíðèð;;x
+KOMUR_HAN;Komur Han;;;;;;;;;;;Êîìóð Õàí;;x
+ERLIK;Erlik;;;;;;;;;;;Ýðëèê;;x
+VELNIAS;Velnias;;;;;;;;;;;Âåëüíèàñ;;x
+TUONETAR;Tuonetar;;;;;;;;;;;Òóîíåòàð;;x
+TUONI;Tuoni;;;;;;;;;;;Òóîíè;;x
+TLAZOLTEOTL;Tlazolteotl;;;;;;;;;;;Òëàñîëòåîòëü;;x
+XOLOTL;Xolotl;;;;;;;;;;;Øîëîòëü;;x
+GOD_MICTLANTECUHTLI;Mictlantecuhtli;;;;;;;;;;;Ìèêòëàíòåêóòëè;;x
+CHERNOBOG;Chernobog;;;;;;;;;;;×åðíîáîã;;x
+THE_DARKNESS;the Darkness;;;;;;;;;;;Ìðàê;;x
+GOD_BACCHUS;Bacchus;;;;;;;;;;;Áàõóñ;;x
+GOD_MERCURY;Mercury;;;;;;;;;;;Ìåðêóðèé;;x
+GOD_PLUTO;Pluto;;;;;;;;;;;Ïëóòîí;;x
+GOD_SATURN;Saturn;;;;;;;;;;;Ñàòóðí;;x
+GOD_TYPHON;Typhon;;;;;;;;;;;Òèôîí;;x
+GOD_THE_EVIL_ONES;The Evil Ones;;;;;;;;;;;Çëî;;x
+GOD_VELES;Veles;;;;;;;;;;;Âåëåñ;;x
 # Great Holy War names
-CRUSADE;Crusade;;;;;;;;;;;;;x
-GREAT_HOLY_WAR;Great Holy War;;;;;;;;;;;;;x
-JIHAD;Jihad;;;;;;;;;;;;;x
-
+CRUSADE;Crusade;;;;;;;;;;;Kðåñòîâûé ïîõîä;;x
+GREAT_HOLY_WAR;Great Holy War;;;;;;;;;;;Câÿùåííûé ïîõîä;;x
+JIHAD;Jihad;;;;;;;;;;;Câÿùåííûé Äæèõàä;;x
 # Priest titles
-RABBI;rabbi;;;;;;;;;;;;;x
-IMAM_PRIEST;imam;;;;;;;;;;;;;x
-SHEIKH_PRIEST;sheikh;;;;;;;;;;;;;x
-MULLAH;mullah;;;;;;;;;;;;;x
-HERBAD;herbad;;;;;;;;;;;;;x
-DIDASKALOS;Didaskalos;;;;;;;;;;;;;x
-VAYNPAT;Vaynpat;;;;;;;;;;;;;x
-PRIEST;priest;;;;;;;;;;;;;x
-BHIKKHU;bhikkhu;;;;;;;;;;;;;x
-NIRGRANTHA;nirgrantha;;;;;;;;;;;;;x
-DAOSHI;Daoshi;;;;;;;;;;;;;x
-GODI;godi;;;;;;;;;;;;;x
-SHAMAN;shaman;;;;;;;;;;;;;x
-VOLHV;volhv;;;;;;;;;;;;;x
-AUGUR;augur;;;;;;;;;;;;;x
-LAMA;Lama;;;;;;;;;;;;;x
-PUJARI;Pujari;;;;;;;;;;;;;x
-
+RABBI;rabbi;;;;;;;;;;;ðàââèí;;x
+IMAM_PRIEST;imam;;;;;;;;;;;èìàì;;x
+SHEIKH_PRIEST;sheikh;;;;;;;;;;;øåéõ;;x
+MULLAH;mullah;;;;;;;;;;;ìóëëà;;x
+HERBAD;herbad;;;;;;;;;;;õèðáàä;;x
+DIDASKALOS;Didaskalos;;;;;;;;;;;Äèäàñêàëîñ;;x
+VAYNPAT;Vaynpat;;;;;;;;;;;Âàéíïàò;;x
+PRIEST;priest;;;;;;;;;;;ñâÿùåííèê;;x
+BHIKKHU;bhikkhu;;;;;;;;;;;Áõèêêõó;;x
+NIRGRANTHA;nirgrantha;;;;;;;;;;;Íèðãðàíòõà;;x
+DAOSHI;Daoshi;;;;;;;;;;;Äàîøè;;x
+GODI;godi;;;;;;;;;;;ãîäè;;x
+SHAMAN;shaman;;;;;;;;;;;øàìàí;;x
+VOLHV;volhv;;;;;;;;;;;âîëõâ;;x
+AUGUR;augur;;;;;;;;;;;àâãóð;;x
+LAMA;Lama;;;;;;;;;;;Ëàìà;;x
+PUJARI;Pujari;;;;;;;;;;;Ïóäæàðè;;x
 # Scriptures
-THE_BOOK_OF_ILLUMINATION;The Book of Illumination;;;;;;;;;;;;;x
-THE_EPISTLES_OF_WISDOM;The Epistles of Wisdom;;;;;;;;;;;;;x
-THE_TANAKH;The Tanakh;;;;;;;;;;;;;x
-THE_TORAH;The Torah;;;;;;;;;;;;;x
-THE_BIBLE;The Bible;;;;;;;;;;;;;x
-THE_GATHAS;The Gathas;;;;;;;;;;;;;x
-THE_KORAN;The Koran;;;;;;;;;;;;;x
-THE_LEGENDS;The Legends;;;;;;;;;;;;;x
-THE_SAGAS;The Sagas;;;;;;;;;;;;;x
-THE_GREAT_SECRET;The Great Secret;;;;;;;;;;;;;x
-THE_EVANGELION;The Evangelion;;;;;;;;;;;;;x
-THE_MAHABHARATA;The Mahabharata;;;;;;;;;;;;;x
-THE_BUDDHACAVANA;The Buddhavacana;;;;;;;;;;;;;x
-THE_ANGAS_SUTRAS;The Angas Sutras;;;;;;;;;;;;;x
-TAO_TE_CHING;Tao Te Ching;;;;;;;;;;;;;x
-MDODUS;Mdo 'dus;;;;;;;;;;;;;x
-THE_ASCETICUS;The Asceticus;;;;;;;;;;;;;x
-
+THE_BOOK_OF_ILLUMINATION;The Book of Illumination;;;;;;;;;;;ÊíèãàÄæèëâå;;x
+THE_EPISTLES_OF_WISDOM;The Epistles of Wisdom;;;;;;;;;;;ÏîñëàíèÿÌóäðîñòè;;x
+THE_TANAKH;The Tanakh;;;;;;;;;;;Òàíàõ;;x
+THE_TORAH;The Torah;;;;;;;;;;;Òîðà;;x
+THE_BIBLE;The Bible;;;;;;;;;;;Áèáëèÿ;;x
+THE_GATHAS;The Gathas;;;;;;;;;;;Ãàòû;;x
+THE_KORAN;The Koran;;;;;;;;;;;Êîðàí;;x
+THE_LEGENDS;The Legends;;;;;;;;;;;Ëåãåíäû;;x
+THE_SAGAS;The Sagas;;;;;;;;;;;Ñàãè;;x
+THE_GREAT_SECRET;The Great Secret;;;;;;;;;;;ÂåëèêàÿÒàéíà;;x
+THE_EVANGELION;The Evangelion;;;;;;;;;;;Åâàíãåëèîí;;x
+THE_MAHABHARATA;The Mahabharata;;;;;;;;;;;Ìàõàáõàðàòà;;x
+THE_BUDDHACAVANA;The Buddhavacana;;;;;;;;;;;Áóääàâàêàíà;;x
+THE_ANGAS_SUTRAS;The Angas Sutras;;;;;;;;;;;Àíãà-cóòðû;;x
+TAO_TE_CHING;Tao Te Ching;;;;;;;;;;;ÄàîÄýÖçèí;;x
+MDODUS;Mdo 'dus;;;;;;;;;;;Ìäî'äóñ;;x
+THE_ASCETICUS;The Asceticus;;;;;;;;;;;Àñêåòèê;;x
 # Piety names
-STAT_PIETY;Piety;;;;;;;;;;;;;x
-STAT_PIETY_DESC;Piety is respected by the clergy and especially the head of your Church. It can be spent to petition the head of your Church. Like Prestige, it is added to your score on the death of a ruler.;;;;;;;;;;;;;x
-STAT_PIETY_MENU;§YPiety§!;;;;;;;;;;;;;x
-
-STAT_PIETY_TE;Te;;;;;;;;;;;;;x
-STAT_PIETY_DESC_TE;Te is respected by the clergy and monastics of your religion. Like Prestige it is added to your score on the death of a ruler.;;;;;;;;;;;;;x
-STAT_PIETY_MENU_TE;§YTe§!;;;;;;;;;;;;;x
-
-STAT_PIETY_KARMA;Karma;;;;;;;;;;;;;x
-STAT_PIETY_DESC_KARMA;Karma is respected by the clergy and monastics of your religion. Like Prestige, it is added to your score on the death of a ruler.;;;;;;;;;;;;;x
-STAT_PIETY_MENU_KARMA;§YKarma§!;;;;;;;;;;;;;x
-
-STAT_PIETY_PURITY;Purity;;;;;;;;;;;;;x
-STAT_PIETY_DESC_PURITY;Purity is respected by the clergy and monks of the Jain religion, and also affects the loyalty of your Jain vassals. Like Prestige, it is added to your score on the death of a ruler.;;;;;;;;;;;;;x
-STAT_PIETY_MENU_PURITY;§YPurity§!;;;;;;;;;;;;;x
-
+STAT_PIETY;Piety;;;;;;;;;;;Áëàãî÷åñòèå;;x
+STAT_PIETY_DESC;Piety is respected by the clergy and especially the head of your Church. It can be spent to petition the head of your Church. Like Prestige, it is added to your score on the death of a ruler.;;;;;;;;;;;Áëàãî÷åñòèå óâàæàåòñÿ äóõîâåíñòâîì, è îñîáåííî - ãëàâîé Âàøåé Öåðêâè. Åãî ìîæíî ïîòðàòèòü íà ïîäà÷ó ïðîøåíèÿ ãëàâå ðåëèãèè è íà äðóãèå äåéñòâèÿ. Êàê è ïðåñòèæ, áëàãî÷åñòèå äîáàâëÿåòñÿ ê Âàøåìó èòîãîâîìó ñ÷¸òó ïîñëå ñìåðòè ïðàâèòåëÿ.;;x
+STAT_PIETY_MENU;§YPiety§!;;;;;;;;;;;§YÁëàãî÷åñòèå§!;;x
+STAT_PIETY_TE;Te;;;;;;;;;;;Äý;;x
+STAT_PIETY_DESC_TE;Te is respected by the clergy and monastics of your religion. Like Prestige it is added to your score on the death of a ruler.;;;;;;;;;;;Äý öåíÿò ìîíàõè è ñâÿùåííèêè Âàøåé ðåëèãèè. Êàê è ïðåñòèæ, îíî äîáàâëÿåòñÿ ê Âàøåìó èãðîâîìó ñ÷¸òó ïîñëå ñìåðòè ïðàâèòåëÿ.;;x
+STAT_PIETY_MENU_TE;§YTe§!;;;;;;;;;;;Äý;;x
+STAT_PIETY_KARMA;Karma;;;;;;;;;;;Êàðìà;;x
+STAT_PIETY_DESC_KARMA;Karma is respected by the clergy and monastics of your religion. Like Prestige, it is added to your score on the death of a ruler.;;;;;;;;;;;Êàðìà óâàæàåìà äóõîâåíñòâîì è ìîíàõàìè. Êàê è ïðåñòèæ, îíà äîáàâëÿåòñÿ ê Âàøåìó ñ÷¸òó ïîñëå ñìåðòè.;;x
+STAT_PIETY_MENU_KARMA;§YKarma§!;;;;;;;;;;;§YÊàðìà§!;;x
+STAT_PIETY_PURITY;Purity;;;;;;;;;;;×èñòîòà;;x
+STAT_PIETY_DESC_PURITY;Purity is respected by the clergy and monks of the Jain religion, and also affects the loyalty of your Jain vassals. Like Prestige, it is added to your score on the death of a ruler.;;;;;;;;;;;×èñòîòà (íåïîðî÷íîñòü) óâàæàåìà äóõîâåíñòâîì è ìîíàõàìè, à òàêæå âëèÿåò íà ëîÿëüíîñòü Âàøèõ äæàéíèñòñêèõ âàññàëîâ. Êàê è ïðåñòèæ, îíî äîáàâëÿåòñÿ ê Âàøåìó ñ÷¸òó ïîñëå ñìåðòè.;;x
+STAT_PIETY_MENU_PURITY;§YPurity§!;;;;;;;;;;;§Y×èñòîòà§!;;x
 # Unused
-STAT_PIETY_HONOR;Honor;;;;;;;;;;;;;x
-STAT_PIETY_DESC_HONOR;Honor is respected by the clergy and especially the head of your Religion. It can be spent to petition the head of your Religion. Like Prestige, it is added to your score on the death of a ruler.;;;;;;;;;;;;;x
-STAT_PIETY_MENU_HONOR;§YHonor§!;;;;;;;;;;;;;x
-
+STAT_PIETY_HONOR;Honor;;;;;;;;;;;×åñòü;;x
+STAT_PIETY_DESC_HONOR;Honor is respected by the clergy and especially the head of your Religion. It can be spent to petition the head of your Religion. Like Prestige, it is added to your score on the death of a ruler.;;;;;;;;;;;×åñòü óâàæàåìà ñâÿùåíñòâîì, îñîáåííî, äóõîâíûì ëèäåðîì, ê êîòîðîìó ìîæíî îáðàùàòüñÿ ïðè äîñòàòî÷íîì å¸ êîëè÷åñòâå. Êàê è ïðåñòèæ, îíà äîáàâëÿåòñÿ ê Âàøåìó ñ÷¸òó ïîñëå ñìåðòè.;;x
+STAT_PIETY_MENU_HONOR;§YHonor§!;;;;;;;;;;;§Y×åñòü§!;;x
 # Unit modifier tooltips
-OFF_RELIGION;Offensive Religion;;;;;;;;;;;;;x
-DEF_RELIGION;Defensive Religion;;;;;;;;;;;;;x
-DEF_RELIGION_HOME_TERRITORY;Defensive Religion in Home Territory;;;;;;;;;;;;;x
-
+OFF_RELIGION;Offensive Religion;;;;;;;;;;;Àãðåññèâíàÿ ðåëèãèÿ;;x
+DEF_RELIGION;Defensive Religion;;;;;;;;;;;Ìèðîëþáèâàÿ ðåëèãèÿ;;x
+DEF_RELIGION_HOME_TERRITORY;Defensive Religion in Home Territory;;;;;;;;;;;Ìèðîëþáèâàÿ ðåëèãèÿ íà ðîäíîé òåððèòîðèè;;x
 # Unused
-bektashi;Bektashi;;;;;;;;;;;;;x
-bektashi_DESC;Bektashism is a Sufi mystic order whose central tenet is the Wahdat-ul-Wujood - the single unified entity Allah-Muhammed-Ali. In the game it is regarded as a heresy.;;;;;;;;;;;;;x
-indian;Indian;;;;;;;;;;;;;x
+bektashi;Bektashi;;;;;;;;;;;Áåêòàøèçì;;x
+bektashi_DESC;Bektashism is a Sufi mystic order whose central tenet is the Wahdat-ul-Wujood - the single unified entity Allah-Muhammed-Ali. In the game it is regarded as a heresy.;;;;;;;;;;;Áåêòàøè - ñóôèéñêèé îðäåí, îñíîâàííûé Õàäæè Áåêòàøè â XIII âåêå. Áëèçîê ê øèèçìó (çà ïî÷èòàíèå Àëè) è ñîäåðæèò ýëåìåíòû õðèñòèàíñòâà (êðåùåíèå).;;x
+indian;Indian;;;;;;;;;;;Èíäèéñê;;x

@@ -1,631 +1,624 @@
-baron_arabic;Wâli;;;;;;;;;;;;;x
-baron_dravidian_group;Damapati;;;;;;;;;;;;;x
-baron_female;Baroness;;;;;;;;;;;;;x
-baron_female_arabic;Wâlia;;;;;;;;;;;;;x
-baron_female_dravidian_group;Damapatni;;;;;;;;;;;;;x
-baron_female_hellenic_pagan;Legata;;;;;;;;;;;;;x
-baron_female_hellenic_pagan_reformed;Legata;;;;;;;;;;;;;x
-baron_female_indo_aryan_group;Damapatni;;;;;;;;;;;;;x
-baron_female_iranian;Wâlia;;;;;;;;;;;;;x
-baron_female_nahua;Teuctli;;;;;;;;;;;;;x
-baron_female_nepali;Damapatni;;;;;;;;;;;;;x
-baron_female_roman;Legata;;;;;;;;;;;;;x
-baron_female_turkish;Timariota;;;;;;;;;;;;;x
-baron_hellenic_pagan;Legatus;;;;;;;;;;;;;x
-baron_hellenic_pagan_reformed;Legatus;;;;;;;;;;;;;x
-baron_indo_aryan_group;Damapati;;;;;;;;;;;;;x
-baron_iranian;Argbadh;;;;;;;;;;;;;x
-baron_mongol;Taishi;;;;;;;;;;;;;x
-baron_nahua;Teuctli;;;;;;;;;;;;;x
-baron_nepali;Damapati;;;;;;;;;;;;;x
-baron_norse;Þegn;;;;;;;;;;;;;x
-baron_norse_pagan;Þegn;;;;;;;;;;;;;x
-baron_norse_pagan_reformed;Þegn;;;;;;;;;;;;;x
-baron_pagan_group;Hetman;;;;;;;;;;;;;x
-baron_roman;Legatus;;;;;;;;;;;;;x
-baron_turkish;Timariot;;;;;;;;;;;;;x
-barony_arabic;Wilayah;;;;;;;;;;;;;x
-barony_dravidian_group;Dama;;;;;;;;;;;;;x
-barony_indo_aryan_group;Dama;;;;;;;;;;;;;x
-barony_iranian;Arg;;;;;;;;;;;;;x
-barony_mongol;Taishi;;;;;;;;;;;;;x
-barony_of_arabic;Wilayah of;;;;;;;;;;;;;x
-barony_of_dravidian_group;Dama of;;;;;;;;;;;;;x
-barony_of_indo_aryan_group;Dama of;;;;;;;;;;;;;x
-barony_of_iranian;Arg of;;;;;;;;;;;;;x
-barony_of_mongol;Taishi of;;;;;;;;;;;;;x
-barony_of_roman;Fortress of;;;;;;;;;;;;;x
-barony_of_turkish;Timar of;;;;;;;;;;;;;x
-barony_turkish;Timar;;;;;;;;;;;;;x
-city_baron;Mayor;;;;;;;;;;;;;x
-city_baron_female;Mayor;;;;;;;;;;;;;x
-city_baron_female_roman;Magistra;;;;;;;;;;;;;x
-city_baron_roman;Magister;;;;;;;;;;;;;x
-city_barony;City;;;;;;;;;;;;;x
-city_barony_of;City of;;;;;;;;;;;;;x
-city_barony_of_roman;City of;;;;;;;;;;;;;x
-city_barony_roman;City;;;;;;;;;;;;;x
-city_count;Lord Mayor;;;;;;;;;;;;;x
-city_count_female;Lady Mayor;;;;;;;;;;;;;x
-city_count_female_roman;Praefect;;;;;;;;;;;;;x
-city_count_muslim;Wali;;;;;;;;;;;;;x
-city_count_roman;Praefect;;;;;;;;;;;;;x
-city_county;Grand City;;;;;;;;;;;;;x
-city_county_of;Grand City of;;;;;;;;;;;;;x
-city_county_of_roman;Grand City of;;;;;;;;;;;;;x
-city_county_roman;Grand City;;;;;;;;;;;;;x
-city_duchy;Republic;;;;;;;;;;;;;x
-city_duchy_of;Republic of;;;;;;;;;;;;;x
-city_duchy_of_roman;League of;;;;;;;;;;;;;x
-city_duchy_roman;League;;;;;;;;;;;;;x
-city_duke;Grand Mayor;;;;;;;;;;;;;x
-city_duke_byzantine;Doge;;;;;;;;;;;;;x
-city_duke_female_roman;Tribune;;;;;;;;;;;;;x
-city_duke_latin;Doge;;;;;;;;;;;;;x
-city_duke_muslim;Wali-Emir;;;;;;;;;;;;;x
-city_duke_roman;Tribune;;;;;;;;;;;;;x
-city_emperor;Grand Prince;;;;;;;;;;;;;x
-city_emperor_female_roman;Princess;;;;;;;;;;;;;x
-city_emperor_roman;Princeps;;;;;;;;;;;;;x
-city_empire;Principality;;;;;;;;;;;;;x
-city_empire_of;Principality of;;;;;;;;;;;;;x
-city_empire_of_roman;Grand Republic of;;;;;;;;;;;;;x
-city_empire_roman;Grand Republic;;;;;;;;;;;;;x
-city_king;Prince Mayor;;;;;;;;;;;;;x
-city_king_byzantine;Serene Doge;;;;;;;;;;;;;x
-city_king_female_roman;Consul;;;;;;;;;;;;;x
-city_king_latin;Serene Doge;;;;;;;;;;;;;x
-city_king_muslim;Wali-Malik;;;;;;;;;;;;;x
-city_king_roman;Consul;;;;;;;;;;;;;x
-city_kingdom;Most Serene Republic;;;;;;;;;;;;;x
-city_kingdom_german;Merchant League;;;;;;;;;;;;;x
-city_kingdom_of;Most Serene Republic of;;;;;;;;;;;;;x
-city_kingdom_of_german;Merchant League of;;;;;;;;;;;;;x
-city_kingdom_of_roman;Republic of;;;;;;;;;;;;;x
-city_kingdom_roman;Republic;;;;;;;;;;;;;x
-count_arabic;Sheikh;;;;;;;;;;;;;x
-count_bodpa;Ngapo;;;;;;;;;;;;;x
-count_dravidian_group;Thakur;;;;;;;;;;;;;x
-count_english;Earl;;;;;;;;;;;;;x
-count_female;Countess;;;;;;;;;;;;;x
-count_female_arabic;Shaykhah;;;;;;;;;;;;;x
-count_female_bodpa;Ngamo;;;;;;;;;;;;;x
-count_female_dravidian_group;Thakurani;;;;;;;;;;;;;x
-count_female_hellenic_pagan;Countess;;;;;;;;;;;;;x
-count_female_hellenic_pagan_reformed;Countess;;;;;;;;;;;;;x
-count_female_indo_aryan_group;Thakurani;;;;;;;;;;;;;x
-count_female_iranian;Shaykhah;;;;;;;;;;;;;x
-count_female_nahua;Calpixqui;;;;;;;;;;;;;x
-count_female_nepali;Pramukha;;;;;;;;;;;;;x
-count_female_pagan_group;Chieftess;;;;;;;;;;;;;x
-count_female_roman;Countess;;;;;;;;;;;;;x
-count_female_sardinian;Giudessa;;;;;;;;;;;;;x
-count_female_turkish;Bayan;;;;;;;;;;;;;x
-count_female_west_african;Farina;;;;;;;;;;;;;x
-count_hellenic_pagan;Comes;;;;;;;;;;;;;x
-count_hellenic_pagan_reformed;Comes;;;;;;;;;;;;;x
-count_indo_aryan_group;Thakur;;;;;;;;;;;;;x
-count_iranian;Marzoban;;;;;;;;;;;;;x
-count_irish;Earl;;;;;;;;;;;;;x
-count_mongol;Chief;;;;;;;;;;;;;x
-count_nahua;Calpixqui;;;;;;;;;;;;;x
-count_nepali;Pramukha;;;;;;;;;;;;;x
-count_pagan_group;Chief;;;;;;;;;;;;;x
-count_pictish;Earl;;;;;;;;;;;;;x
-count_roman;Comes;;;;;;;;;;;;;x
-count_sardinian;Giudice;;;;;;;;;;;;;x
-count_anglo_saxon;Earl;;;;;;;;;;;;;x
-count_scottish;Earl;;;;;;;;;;;;;x
-count_turkish;Bey;;;;;;;;;;;;;x
-count_west_african;Farin;;;;;;;;;;;;;x
-county_arabic;Sheikhdom;;;;;;;;;;;;;x
-county_dravidian_group;Thikana;;;;;;;;;;;;;x
-county_indo_aryan_group;Thikana;;;;;;;;;;;;;x
-county_iranian;Marzpanate;;;;;;;;;;;;;x
-county_mongol;Chiefdom;;;;;;;;;;;;;x
-county_of_arabic;Sheikhdom of;;;;;;;;;;;;;x
-county_of_dravidian_group;Thikana of;;;;;;;;;;;;;x
-county_of_indo_aryan_group;Thikana of;;;;;;;;;;;;;x
-county_of_iranian;Marzpanate of;;;;;;;;;;;;;x
-county_of_mongol;Chiefdom of;;;;;;;;;;;;;x
-county_of_roman;County of;;;;;;;;;;;;;x
-county_of_sardinian;Giudicato of;;;;;;;;;;;;;x
-county_of_turkish;Beylik of;;;;;;;;;;;;;x
-county_turkish;Beylik;;;;;;;;;;;;;x
-duchy_arabic;Emirate;;;;;;;;;;;;;x
-duchy_dravidian_group;Raj;;;;;;;;;;;;;x
-duchy_indo_aryan_group;Raj;;;;;;;;;;;;;x
-duchy_iranian;Satrapy;;;;;;;;;;;;;x
-duchy_mongol;High Chiefdom;;;;;;;;;;;;;x
-duchy_norse;Jarldom;;;;;;;;;;;;;x
-duchy_of_arabic;Emirate of;;;;;;;;;;;;;x
-duchy_of_baltic_pagan;High Chiefdom of;;;;;;;;;;;;;x
-duchy_of_baltic_pagan_reformed;High Chiefdom of;;;;;;;;;;;;;x
-duchy_of_dravidian_group;Raj of;;;;;;;;;;;;;x
-duchy_of_finnish_pagan;High Chiefdom of;;;;;;;;;;;;;x
-duchy_of_finnish_pagan_reformed;High Chiefdom of;;;;;;;;;;;;;x
-duchy_of_indo_aryan_group;Raj of;;;;;;;;;;;;;x
-duchy_of_iranian;Satrapy of;;;;;;;;;;;;;x
-duchy_of_mongol;High Chiefdom of;;;;;;;;;;;;;x
-duchy_of_norse;Jarldom of;;;;;;;;;;;;;x
-duchy_of_roman;Duchy of;;;;;;;;;;;;;x
-duchy_of_russian;Grand Principality of;;;;;;;;;;;;;x
-duchy_of_slavic_pagan;High Chiefdom of;;;;;;;;;;;;;x
-duchy_of_slavic_pagan_reformed;High Chiefdom of;;;;;;;;;;;;;x
-duchy_of_turkish;Beylerbeylik of;;;;;;;;;;;;;x
-duchy_russian;Grand Principality;;;;;;;;;;;;;x
-duchy_turkish;Beylerbeylik;;;;;;;;;;;;;x
-duke_arabic;Emir;;;;;;;;;;;;;x
-duke_baltic_pagan;High Chief;;;;;;;;;;;;;x
-duke_baltic_pagan_reformed;High Chief;;;;;;;;;;;;;x
-duke_bodpa;Thupo;;;;;;;;;;;;;x
-duke_dravidian_group;Raja;;;;;;;;;;;;;x
-duke_female;Duchess;;;;;;;;;;;;;x
-duke_female_arabic;Emira;;;;;;;;;;;;;x
-duke_female_baltic_pagan;High Chieftess;;;;;;;;;;;;;x
-duke_female_baltic_pagan_reformed;High Chieftess;;;;;;;;;;;;;x
-duke_female_bodpa;Thumo;;;;;;;;;;;;;x
-duke_female_dravidian_group;Rani;;;;;;;;;;;;;x
-duke_female_finnish_pagan;High Chieftess;;;;;;;;;;;;;x
-duke_female_finnish_pagan_reformed;High Chieftess;;;;;;;;;;;;;x
-duke_female_indo_aryan_group;Rani;;;;;;;;;;;;;x
-duke_female_iranian;Emira;;;;;;;;;;;;;x
-duke_female_mongol;High Chieftess;;;;;;;;;;;;;x
-duke_female_nahua;Huecalpixqui;;;;;;;;;;;;;x
-duke_female_nepali;Mahila;;;;;;;;;;;;;x
-duke_female_roman;Duchess;;;;;;;;;;;;;x
-duke_female_russian;Grand Princess;;;;;;;;;;;;;x
-duke_female_slavic_pagan;High Chieftess;;;;;;;;;;;;;x
-duke_female_slavic_pagan_reformed;High Chieftess;;;;;;;;;;;;;x
-duke_female_tengri_pagan;High Chieftess;;;;;;;;;;;;;x
-duke_female_tengri_pagan_reformed;High Chieftess;;;;;;;;;;;;;x
-duke_female_turkish;Beylerbayan;;;;;;;;;;;;;x
-duke_female_west_african;Farba;;;;;;;;;;;;;x
-duke_finnish_pagan;High Chief;;;;;;;;;;;;;x
-duke_finnish_pagan_reformed;High Chief;;;;;;;;;;;;;x
-duke_greek;Doux;;;;;;;;;;;;;x
-duke_indo_aryan_group;Raja;;;;;;;;;;;;;x
-duke_iranian;Satrap;;;;;;;;;;;;;x
-duke_mongol;High Chief;;;;;;;;;;;;;x
-duke_nahua;Huecalpixqui;;;;;;;;;;;;;x
-duke_nepali;Prabhu;;;;;;;;;;;;;x
-duke_norse;Jarl;;;;;;;;;;;;;x
-duke_roman;Doux;;;;;;;;;;;;;x
-duke_russian;Grand Prince;;;;;;;;;;;;;x
-duke_slavic_pagan;High Chief;;;;;;;;;;;;;x
-duke_slavic_pagan_reformed;High Chief;;;;;;;;;;;;;x
-duke_sogdian;Ikhshid;;;;;;;;;;;;;x
-duke_tengri_pagan;High Chief;;;;;;;;;;;;;x
-duke_tengri_pagan_reformed;High Chief;;;;;;;;;;;;;x
-duke_turkish;Beylerbey;;;;;;;;;;;;;x
-duke_west_african;Farbas;;;;;;;;;;;;;x
-emperor_altaic;Khagan;;;;;;;;;;;;;x
-emperor_arabic;Badshah;;;;;;;;;;;;;x
-emperor_bodpa;Tsenpo;;;;;;;;;;;;;x
-emperor_bulgarian;Tsar;;;;;;;;;;;;;x
-emperor_dravidian_group;Samrat;;;;;;;;;;;;;x
-emperor_female;Empress;;;;;;;;;;;;;x
-emperor_female_altaic;Khatun;;;;;;;;;;;;;x
-emperor_female_bodpa;Tsenmo;;;;;;;;;;;;;x
-emperor_female_bulgarian;Tsarina;;;;;;;;;;;;;x
-emperor_female_dravidian_group;Samrajni;;;;;;;;;;;;;x
-emperor_female_german;Kaiserin;;;;;;;;;;;;;x
-emperor_female_greek;Basilissa;;;;;;;;;;;;;x
-emperor_female_indo_aryan_group;Samrajni;;;;;;;;;;;;;x
-emperor_female_nahua;Huetlatoani;;;;;;;;;;;;;x
-emperor_female_nepali;Maharani;;;;;;;;;;;;;x
-emperor_female_roman;Augusta;;;;;;;;;;;;;x
-emperor_female_russian;Tsaritsa;;;;;;;;;;;;;x
-emperor_female_tangut;Thu Ghu;;;;;;;;;;;;;x
-emperor_german;Kaiser;;;;;;;;;;;;;x
-emperor_greek;Basileus;;;;;;;;;;;;;x
-emperor_indo_aryan_group;Samrat;;;;;;;;;;;;;x
-emperor_iranian;Shahanshah;;;;;;;;;;;;;x
-emperor_king_christian;Emperor-Bishop;;;;;;;;;;;;;x
-emperor_nahua;Huetlatoani;;;;;;;;;;;;;x
-emperor_nepali;Samrata;;;;;;;;;;;;;x
-emperor_roman;Augustus;;;;;;;;;;;;;x
-emperor_russian;Tsar;;;;;;;;;;;;;x
-emperor_tangut;Thu Ghu;;;;;;;;;;;;;x
-emperor_turkish;Padishah;;;;;;;;;;;;;x
-empire_altaic;Khaganate;;;;;;;;;;;;;x
-empire_of_altaic;Empire of;;;;;;;;;;;;;x
-empire_of_roman;Empire of;;;;;;;;;;;;;x
-empire_russian;Tsardom;;;;;;;;;;;;;x
-family_palace;Palace;;;;;;;;;;;;;x
-family_palace_baron;Patrician;;;;;;;;;;;;;x
-family_palace_baron_female;Lady;;;;;;;;;;;;;x
-family_palace_barony_of;Palace of;;;;;;;;;;;;;x
-king_altaic;Khan;;;;;;;;;;;;;x
-king_arabic;Sultan;;;;;;;;;;;;;x
-king_bodpa;Gyalpo;;;;;;;;;;;;;x
-king_central_african;Mai;;;;;;;;;;;;;x
-king_dravidian_group;Maharaja;;;;;;;;;;;;;x
-king_female;Queen;;;;;;;;;;;;;x
-king_female_altaic;Khanum;;;;;;;;;;;;;x
-king_female_arabic;Sultana;;;;;;;;;;;;;x
-king_female_bodpa;Gyelmo;;;;;;;;;;;;;x
-king_female_dravidian_group;Maharani;;;;;;;;;;;;;x
-king_female_indo_aryan_group;Maharani;;;;;;;;;;;;;x
-king_female_iranian;Banebshen;;;;;;;;;;;;;x
-king_female_nahua;Tlatoani;;;;;;;;;;;;;x
-king_female_nepali;Rani;;;;;;;;;;;;;x
-king_female_roman;Regina;;;;;;;;;;;;;x
-king_female_tangut;Ne;;;;;;;;;;;;;x
-king_female_turkish;Sultana;;;;;;;;;;;;;x
-king_greek;Despot;;;;;;;;;;;;;x
-king_indo_aryan_group;Maharaja;;;;;;;;;;;;;x
-king_iranian;Shah;;;;;;;;;;;;;x
-king_nahua;Tlatoani;;;;;;;;;;;;;x
-king_nepali;Raja;;;;;;;;;;;;;x
-king_roman;Rex;;;;;;;;;;;;;x
-king_tangut;Ne;;;;;;;;;;;;;x
-king_turkish;Sultan;;;;;;;;;;;;;x
-king_west_african;Mansa;;;;;;;;;;;;;x
-kingdom_altaic;Khanate;;;;;;;;;;;;;x
-kingdom_arabic;Sultanate;;;;;;;;;;;;;x
-kingdom_iranian;Shahdom;;;;;;;;;;;;;x
-kingdom_of_altaic;Khanate of;;;;;;;;;;;;;x
-kingdom_of_arabic;Sultanate of;;;;;;;;;;;;;x
-kingdom_of_iranian;Shahdom of;;;;;;;;;;;;;x
-kingdom_of_roman;Regnum of;;;;;;;;;;;;;x
-kingdom_of_turkish;Sultanate of;;;;;;;;;;;;;x
-kingdom_turkish;Sultanate;;;;;;;;;;;;;x
-nomadic_emperor;Khagan;;;;;;;;;;;;;x
-nomadic_emperor_female;Khatun;;;;;;;;;;;;;x
-nomadic_empire;Khaganate;;;;;;;;;;;;;x
-nomadic_empire_of;Khaganate of;;;;;;;;;;;;;x
-nomadic_king;Khan;;;;;;;;;;;;;x
-nomadic_king_female;Khanum;;;;;;;;;;;;;x
-nomadic_kingdom;Khanate;;;;;;;;;;;;;x
-nomadic_kingdom_of;Khanate of;;;;;;;;;;;;;x
-order_baron;Knight;;;;;;;;;;;;;x
-order_baron_female;Dame;;;;;;;;;;;;;x
-order_barony_of;Garrison Town of;;;;;;;;;;;;;x
-order_count;Commander;;;;;;;;;;;;;x
-order_count_female;Commander;;;;;;;;;;;;;x
-order_county_of;Fortress of;;;;;;;;;;;;;x
-order_duchy_of;Order of;;;;;;;;;;;;;x
-order_duke;Master;;;;;;;;;;;;;x
-order_duke_female;Mistress;;;;;;;;;;;;;x
-order_emperor;Prince;;;;;;;;;;;;;x
-order_emperor_female;Princess;;;;;;;;;;;;;x
-order_empire_of;Monastic State of;;;;;;;;;;;;;x
-order_king;Grandmaster;;;;;;;;;;;;;x
-order_king_female;Grandmistress;;;;;;;;;;;;;x
-order_kingdom_of;Grand Order of;;;;;;;;;;;;;x
-temple_baron_aztec_pagan;Shaman;;;;;;;;;;;;;x
-temple_baron_aztec_pagan_reformed;Shaman;;;;;;;;;;;;;x
-temple_baron_baltic_pagan;Shaman;;;;;;;;;;;;;x
-temple_baron_baltic_pagan_reformed;Shaman;;;;;;;;;;;;;x
-temple_baron_bon_pagan;Lama;;;;;;;;;;;;;x
-temple_baron_bon_pagan_reformed;Lama;;;;;;;;;;;;;x
-temple_baron_buddhist;Bhikkhu;;;;;;;;;;;;;x
-temple_baron_christian;Bishop;;;;;;;;;;;;;x
-temple_baron_female_buddhist;Bhikshuni;;;;;;;;;;;;;x
-temple_baron_female_christian;Bishop;;;;;;;;;;;;;x
-temple_baron_female_hellenic_pagan;Vestal;;;;;;;;;;;;;x
-temple_baron_female_hellenic_pagan_reformed;Vestal;;;;;;;;;;;;;x
-temple_baron_female_norse_pagan;Gydja;;;;;;;;;;;;;x
-temple_baron_female_norse_pagan_reformed;Gydja;;;;;;;;;;;;;x
-temple_baron_female_pagan_group;Priestess;;;;;;;;;;;;;x
-temple_baron_female_west_african_pagan;Priestess;;;;;;;;;;;;;x
-temple_baron_female_west_african_pagan_reformed;Priestess;;;;;;;;;;;;;x
-temple_baron_finnish_pagan;Shaman;;;;;;;;;;;;;x
-temple_baron_finnish_pagan_reformed;Shaman;;;;;;;;;;;;;x
-temple_baron_hellenic_pagan;Flamen;;;;;;;;;;;;;x
-temple_baron_hellenic_pagan_reformed;Flamen;;;;;;;;;;;;;x
-temple_baron_hindu;Pujari;;;;;;;;;;;;;x
-temple_baron_jain;Nirgrantha;;;;;;;;;;;;;x
-temple_baron_jewish;Rabbi;;;;;;;;;;;;;x
-temple_baron_jewish_group;Rabbi;;;;;;;;;;;;;x
-temple_baron_karaite;Rabbi;;;;;;;;;;;;;x
-temple_baron_khurmazta;Vahram;;;;;;;;;;;;;x
-temple_baron_manichaean;Vahram;;;;;;;;;;;;;x
-temple_baron_mazdaki;Vahram;;;;;;;;;;;;;x
-temple_baron_norse_pagan;Godi;;;;;;;;;;;;;x
-temple_baron_norse_pagan_reformed;Godi;;;;;;;;;;;;;x
-temple_baron_pagan_group;Priest;;;;;;;;;;;;;x
-temple_baron_samaritan;Rabbi;;;;;;;;;;;;;x
-temple_baron_shiite;Mullah;;;;;;;;;;;;;x
-temple_baron_slavic_pagan;Shaman;;;;;;;;;;;;;x
-temple_baron_slavic_pagan_reformed;Shaman;;;;;;;;;;;;;x
-temple_baron_sunni;Mufti;;;;;;;;;;;;;x
-temple_baron_taoist;Daoshi;;;;;;;;;;;;;x
-temple_baron_tengri_pagan;Shaman;;;;;;;;;;;;;x
-temple_baron_tengri_pagan_reformed;Shaman;;;;;;;;;;;;;x
-temple_baron_west_african_pagan;Priest;;;;;;;;;;;;;x
-temple_baron_west_african_pagan_reformed;Priest;;;;;;;;;;;;;x
-temple_baron_zoroastrian;Herbad;;;;;;;;;;;;;x
-temple_baron_zoroastrian_group;Herbad;;;;;;;;;;;;;x
-temple_baron_zun_pagan;Sun Guardian;;;;;;;;;;;;;x
-temple_baron_zun_pagan_reformed;Sun Guardian;;;;;;;;;;;;;x
-temple_barony_christian;Bishopric;;;;;;;;;;;;;x
-temple_barony_druze;Khalwat;;;;;;;;;;;;;x
-temple_barony_muslim;Mosque;;;;;;;;;;;;;x
-temple_barony_of_buddhist;Vihara of;;;;;;;;;;;;;x
-temple_barony_of_christian;Bishopric of;;;;;;;;;;;;;x
-temple_barony_of_druze;Khalwat of;;;;;;;;;;;;;x
-temple_barony_of_hindu;Mandir of;;;;;;;;;;;;;x
-temple_barony_of_jain;Derasar of;;;;;;;;;;;;;x
-temple_barony_of_jewish_group;Temple of;;;;;;;;;;;;;x
-temple_barony_of_muslim;Mosque of;;;;;;;;;;;;;x
-temple_barony_of_pagan_group;Temple of;;;;;;;;;;;;;x
-temple_barony_of_taoist;Temple of;;;;;;;;;;;;;x
-temple_barony_of_yazidi;Temple of;;;;;;;;;;;;;x
-temple_barony_of_zoroastrian;Vahram of;;;;;;;;;;;;;x
-temple_barony_of_zoroastrian_group;Vahram of;;;;;;;;;;;;;x
-temple_barony_of_zun_pagan;Sun Temple of;;;;;;;;;;;;;x
-temple_barony_of_zun_pagan_reformed;Sun Temple of;;;;;;;;;;;;;x
-temple_barony_pagan_group;Temple;;;;;;;;;;;;;x
-temple_barony_yazidi;Temple;;;;;;;;;;;;;x
-temple_barony_zoroastrian;Vahram;;;;;;;;;;;;;x
-temple_barony_zoroastrian_group;Vahram;;;;;;;;;;;;;x
-temple_count_buddhist;Bhikkhu;;;;;;;;;;;;;x
-temple_count_christian;Prince-Bishop;;;;;;;;;;;;;x
-temple_count_female_buddhist;Bhikshuni;;;;;;;;;;;;;x
-temple_count_female_hellenic_pagan;High Vestal;;;;;;;;;;;;;x
-temple_count_female_hellenic_pagan_reformed;High Vestal;;;;;;;;;;;;;x
-temple_count_female_norse_pagan;Vala;;;;;;;;;;;;;x
-temple_count_female_norse_pagan_reformed;Vala;;;;;;;;;;;;;x
-temple_count_hellenic_pagan;High Augur;;;;;;;;;;;;;x
-temple_count_hellenic_pagan_reformed;High Augur;;;;;;;;;;;;;x
-temple_count_hindu;Pujari;;;;;;;;;;;;;x
-temple_count_jain;Nirgrantha;;;;;;;;;;;;;x
-temple_count_jewish_group;Kohen;;;;;;;;;;;;;x
-temple_count_norse_pagan;Seidsman;;;;;;;;;;;;;x
-temple_count_norse_pagan_reformed;Seidsman;;;;;;;;;;;;;x
-temple_count_orthodox;Metropolitan;;;;;;;;;;;;;x
-temple_count_pagan_group;High Priest;;;;;;;;;;;;;x
-temple_count_shiite;Ayatollah;;;;;;;;;;;;;x
-temple_count_sunni;Sheikh;;;;;;;;;;;;;x
-temple_county_christian;Prince-Bishopric;;;;;;;;;;;;;x
-temple_county_muslim;Sheikhdom;;;;;;;;;;;;;x
-temple_county_of_buddhist;Monastery of;;;;;;;;;;;;;x
-temple_county_of_christian;Prince-Bishopric of;;;;;;;;;;;;;x
-temple_county_of_hindu;Temple of;;;;;;;;;;;;;x
-temple_county_of_indian_group;Theocracy of;;;;;;;;;;;;;x
-temple_county_of_jain;Monastery of;;;;;;;;;;;;;x
-temple_county_of_jewish_group;Theocracy of;;;;;;;;;;;;;x
-temple_county_of_muslim;Sheikhdom of;;;;;;;;;;;;;x
-temple_county_of_pagan_group;Theocracy of;;;;;;;;;;;;;x
-temple_county_pagan_group;Theocracy;;;;;;;;;;;;;x
-temple_duchy_christian;Prince-Archbishopric;;;;;;;;;;;;;x
-temple_duchy_muslim;Theocracy;;;;;;;;;;;;;x
-temple_duchy_of_buddhist;Monastery of;;;;;;;;;;;;;x
-temple_duchy_of_christian;Prince-Archbishopric of;;;;;;;;;;;;;x
-temple_duchy_of_hindu;Temple of;;;;;;;;;;;;;x
-temple_duchy_of_indian_group;Theocracy of;;;;;;;;;;;;;x
-temple_duchy_of_jain;Monastery of;;;;;;;;;;;;;x
-temple_duchy_of_jewish;Theocracy of;;;;;;;;;;;;;x
-temple_duchy_of_muslim;Theocracy of;;;;;;;;;;;;;x
-temple_duchy_of_pagan_group;Theocracy of;;;;;;;;;;;;;x
-temple_duchy_pagan_group;Theocracy;;;;;;;;;;;;;x
-temple_duke_buddhist;Bhikkhu;;;;;;;;;;;;;x
-temple_duke_christian;Prince-Archbishop;;;;;;;;;;;;;x
-temple_duke_female_buddhist;Bhikshuni;;;;;;;;;;;;;x
-temple_duke_female_hellenic_pagan;Pontifex;;;;;;;;;;;;;x
-temple_duke_female_hellenic_pagan_reformed;Pontifex;;;;;;;;;;;;;x
-temple_duke_female_pagan_group;Archpriestess;;;;;;;;;;;;;x
-temple_duke_hellenic_pagan;Pontifex;;;;;;;;;;;;;x
-temple_duke_hellenic_pagan_reformed;Pontifex;;;;;;;;;;;;;x
-temple_duke_hindu;Pujari;;;;;;;;;;;;;x
-temple_duke_jain;Nirgrantha;;;;;;;;;;;;;x
-temple_duke_jewish_group;Rabban;;;;;;;;;;;;;x
-temple_duke_orthodox;Prince-Archbishop;;;;;;;;;;;;;x
-temple_duke_pagan_group;Archpriest;;;;;;;;;;;;;x
-temple_duke_shiite;Grand Ayatollah;;;;;;;;;;;;;x
-temple_duke_sunni;Grand Mufti;;;;;;;;;;;;;x
-temple_emperor_female_pagan_group;Empress;;;;;;;;;;;;;x
-temple_king_baltic_pagan;Witch-King;;;;;;;;;;;;;x
-temple_king_buddhist;Bhikkhu;;;;;;;;;;;;;x
-temple_king_christian;King-Bishop;;;;;;;;;;;;;x
-temple_king_female_baltic_pagan;Witch-Queen;;;;;;;;;;;;;x
-temple_king_female_buddhist;Bhikshuni;;;;;;;;;;;;;x
-temple_king_female_finnish_pagan;Witch-Queen;;;;;;;;;;;;;x
-temple_king_female_pagan_group;Queen-Priestess;;;;;;;;;;;;;x
-temple_king_female_slavic_pagan;Witch-Queen;;;;;;;;;;;;;x
-temple_king_finnish_pagan;Witch-King;;;;;;;;;;;;;x
-temple_king_hindu;Pujari;;;;;;;;;;;;;x
-temple_king_jain;Nirgrantha;;;;;;;;;;;;;x
-temple_king_jewish_group;Nasi;;;;;;;;;;;;;x
-temple_king_muslim;Caliph;;;;;;;;;;;;;x
-temple_king_orthodox;King-Bishop;;;;;;;;;;;;;x
-temple_king_pagan_group;King-Priest;;;;;;;;;;;;;x
-temple_king_slavic_pagan;Witch-King;;;;;;;;;;;;;x
-temple_kingdom_catholic;Theocracy;;;;;;;;;;;;;x
-temple_kingdom_muslim;Caliphate;;;;;;;;;;;;;x
-temple_kingdom_of_buddhist;Monastery of;;;;;;;;;;;;;x
-temple_kingdom_of_catholic;Theocracy of;;;;;;;;;;;;;x
-temple_kingdom_of_hindu;Temple of;;;;;;;;;;;;;x
-temple_kingdom_of_indian_group;Theocracy of;;;;;;;;;;;;;x
-temple_kingdom_of_jain;Monastery of;;;;;;;;;;;;;x
-temple_kingdom_of_jewish_group;Theocracy of;;;;;;;;;;;;;x
-temple_kingdom_of_muslim;Caliphate of;;;;;;;;;;;;;x
-temple_kingdom_of_orthodox;Patriarchate of;;;;;;;;;;;;;x
-temple_kingdom_of_pagan_group;Theocracy of;;;;;;;;;;;;;x
-temple_kingdom_orthodox;Patriarchate;;;;;;;;;;;;;x
-temple_kingdom_pagan_group;Theocracy;;;;;;;;;;;;;x
-tribal_baron;Chief;;;;;;;;;;;;;x
-tribal_baron_dravidian_group;Damapati;;;;;;;;;;;;;x
-tribal_baron_female;Chieftess;;;;;;;;;;;;;x
-tribal_baron_female_dravidian_group;Damapatni;;;;;;;;;;;;;x
-tribal_baron_female_indo_aryan_group;Damapatni;;;;;;;;;;;;;x
-tribal_baron_indo_aryan_group;Damapati;;;;;;;;;;;;;x
-tribal_baron_mongol;Taishi;;;;;;;;;;;;;x
-tribal_barony_dravidian_group;Dama;;;;;;;;;;;;;x
-tribal_barony_indo_aryan_group;Dama;;;;;;;;;;;;;x
-tribal_barony_of;Tribal lands of;;;;;;;;;;;;;x
-tribal_barony_of_dravidian_group;Dama of;;;;;;;;;;;;;x
-tribal_barony_of_indo_aryan_group;Dama of;;;;;;;;;;;;;x
-tribal_barony_of_mongol;Taishi of;;;;;;;;;;;;;x
-tribal_count;Chief;;;;;;;;;;;;;x
-tribal_count_dravidian_group;Thakur;;;;;;;;;;;;;x
-tribal_count_female;Chieftess;;;;;;;;;;;;;x
-tribal_count_female_dravidian_group;Thakurani;;;;;;;;;;;;;x
-tribal_count_female_indo_aryan_group;Thakurani;;;;;;;;;;;;;x
-tribal_count_female_west_african;Farina;;;;;;;;;;;;;x
-tribal_count_indo_aryan_group;Thakur;;;;;;;;;;;;;x
-tribal_count_west_african;Farin;;;;;;;;;;;;;x
-tribal_county;Chiefdom;;;;;;;;;;;;;x
-tribal_county_dravidian_group;Thikana;;;;;;;;;;;;;x
-tribal_county_indo_aryan_group;Thikana;;;;;;;;;;;;;x
-tribal_county_of;Chiefdom of;;;;;;;;;;;;;x
-tribal_county_of_dravidian_group;Thikana of;;;;;;;;;;;;;x
-tribal_county_of_indo_aryan_group;Thikana of;;;;;;;;;;;;;x
-tribal_duchy;High Chiefdom;;;;;;;;;;;;;x
-tribal_duchy_dravidian_group;Raj;;;;;;;;;;;;;x
-tribal_duchy_indo_aryan_group;Raj;;;;;;;;;;;;;x
-tribal_duchy_norse;Jarldom;;;;;;;;;;;;;x
-tribal_duchy_of;High Chiefdom of;;;;;;;;;;;;;x
-tribal_duchy_of_dravidian_group;Raj of;;;;;;;;;;;;;x
-tribal_duchy_of_frisian;High Chiefdom of;;;;;;;;;;;;;x
-tribal_duchy_of_indo_aryan_group;Raj of;;;;;;;;;;;;;x
-tribal_duchy_of_norse;Jarldom of;;;;;;;;;;;;;x
-tribal_duchy_of_saxon;High Chiefdom of;;;;;;;;;;;;;x
-tribal_duke;High Chief;;;;;;;;;;;;;x
-tribal_duke_dravidian_group;Raja;;;;;;;;;;;;;x
-tribal_duke_female;High Chieftess;;;;;;;;;;;;;x
-tribal_duke_female_dravidian_group;Rani;;;;;;;;;;;;;x
-tribal_duke_female_frisian;High Chieftess;;;;;;;;;;;;;x
-tribal_duke_female_indo_aryan_group;Rani;;;;;;;;;;;;;x
-tribal_duke_female_saxon;High Chieftess;;;;;;;;;;;;;x
-tribal_duke_female_west_african;Farba;;;;;;;;;;;;;x
-tribal_duke_frisian;High Chief;;;;;;;;;;;;;x
-tribal_duke_indo_aryan_group;Raja;;;;;;;;;;;;;x
-tribal_duke_norse;Jarl;;;;;;;;;;;;;x
-tribal_duke_saxon;High Chief;;;;;;;;;;;;;x
-tribal_duke_west_african;Farbas;;;;;;;;;;;;;x
-tribal_emperor_altaic;Khagan;;;;;;;;;;;;;x
-tribal_emperor_arabic;Badshah;;;;;;;;;;;;;x
-tribal_emperor_dravidian_group;Samrat;;;;;;;;;;;;;x
-tribal_emperor_female;Empress;;;;;;;;;;;;;x
-tribal_emperor_female_altaic;Khatun;;;;;;;;;;;;;x
-tribal_emperor_female_dravidian_group;Samrajni;;;;;;;;;;;;;x
-tribal_emperor_female_indo_aryan_group;Samrajni;;;;;;;;;;;;;x
-tribal_emperor_female_russian;Tsaritsa;;;;;;;;;;;;;x
-tribal_emperor_indo_aryan_group;Samrat;;;;;;;;;;;;;x
-tribal_emperor_russian;Tsar;;;;;;;;;;;;;x
-tribal_empire_altaic;Khaganate;;;;;;;;;;;;;x
-tribal_empire_of_altaic;Khaganate of;;;;;;;;;;;;;x
-tribal_empire_russian;Tsardom;;;;;;;;;;;;;x
-tribal_king_altaic;Khan;;;;;;;;;;;;;x
-tribal_king_arabic;Sultan;;;;;;;;;;;;;x
-tribal_king_central_african;Mai;;;;;;;;;;;;;x
-tribal_king_dravidian_group;Maharaja;;;;;;;;;;;;;x
-tribal_king_female;Queen;;;;;;;;;;;;;x
-tribal_king_female_altaic;Khanum;;;;;;;;;;;;;x
-tribal_king_female_arabic;Sultana;;;;;;;;;;;;;x
-tribal_king_female_dravidian_group;Maharani;;;;;;;;;;;;;x
-tribal_king_female_hungarian;Grand Princess;;;;;;;;;;;;;x
-tribal_king_female_indo_aryan_group;Maharani;;;;;;;;;;;;;x
-tribal_king_female_saxon;Grand Chieftess;;;;;;;;;;;;;x
-tribal_king_hungarian;Grand Prince;;;;;;;;;;;;;x
-tribal_king_indo_aryan_group;Maharaja;;;;;;;;;;;;;x
-tribal_king_saxon;Grand Chief;;;;;;;;;;;;;x
-tribal_king_west_african;Mansa;;;;;;;;;;;;;x
-tribal_kingdom_altaic;Khanate;;;;;;;;;;;;;x
-tribal_kingdom_arabic;Sultanate;;;;;;;;;;;;;x
-tribal_kingdom_of_altaic;Khanate of;;;;;;;;;;;;;x
-tribal_kingdom_of_arabic;Sultanate of;;;;;;;;;;;;;x
-tribal_kingdom_of_hungarian;Principality of;;;;;;;;;;;;;x
-tribal_kingdom_of_saxon;Grand Chiefdom of;;;;;;;;;;;;;x
-tribal_kingdom_saxon;Grand Chiefdom;;;;;;;;;;;;;x
-vice_royalty_baron;Baron Viceroy;;;;;;;;;;;;;x
-vice_royalty_baron_female;Baron Vicereine;;;;;;;;;;;;;x
-vice_royalty_barony_of;Viceroyal Barony of;;;;;;;;;;;;;x
-vice_royalty_count;Count Viceroy;;;;;;;;;;;;;x
-vice_royalty_count_female;Count Vicereine;;;;;;;;;;;;;x
-vice_royalty_county_of;Viceroyal County of;;;;;;;;;;;;;x
-vice_royalty_duchy_of;Minor Viceroyalty of;;;;;;;;;;;;;x
-vice_royalty_duchy_of_byzantine;Theme of;;;;;;;;;;;;;x
-vice_royalty_duchy_of_roman;Province of;;;;;;;;;;;;;x
-vice_royalty_duke;Minor Viceroy;;;;;;;;;;;;;x
-vice_royalty_duke_byzantine;Strategos;;;;;;;;;;;;;x
-vice_royalty_duke_female;Minor Vicereine;;;;;;;;;;;;;x
-vice_royalty_duke_female_byzantine;Strategitissa;;;;;;;;;;;;;x
-vice_royalty_duke_female_roman;Governess;;;;;;;;;;;;;x
-vice_royalty_duke_roman;Governor;;;;;;;;;;;;;x
-vice_royalty_emperor;Grand Viceroy;;;;;;;;;;;;;x
-vice_royalty_emperor_byzantine;Grand Exarch;;;;;;;;;;;;;x
-vice_royalty_emperor_female;Grand Vicereine;;;;;;;;;;;;;x
-vice_royalty_emperor_female_roman;Princess;;;;;;;;;;;;;x
-vice_royalty_emperor_roman;Princeps;;;;;;;;;;;;;x
-vice_royalty_empire_of;Grand Viceroyalty of;;;;;;;;;;;;;x
-vice_royalty_empire_of_byzantine;Grand Exarchate of;;;;;;;;;;;;;x
-vice_royalty_empire_of_roman;Principate of;;;;;;;;;;;;;x
-vice_royalty_king;Viceroy;;;;;;;;;;;;;x
-vice_royalty_king_byzantine;Exarch;;;;;;;;;;;;;x
-vice_royalty_king_female;Vicereine;;;;;;;;;;;;;x
-vice_royalty_king_female_byzantine;Exarchessa;;;;;;;;;;;;;x
-vice_royalty_king_female_roman;Proconsula;;;;;;;;;;;;;x
-vice_royalty_king_roman;Proconsul;;;;;;;;;;;;;x
-vice_royalty_kingdom_of;Viceroyalty of;;;;;;;;;;;;;x
-vice_royalty_kingdom_of_byzantine;Exarchate of;;;;;;;;;;;;;x
-vice_royalty_kingdom_of_roman;Proconsulate of;;;;;;;;;;;;;x
-
-baron;Baron;;;;;;;;;;;;;x
-barony;Barony;;;;;;;;;;;;;x
-barony_of;Barony of;;;;;;;;;;;;;x
-baronies;Baronies;;;;;;;;;;;;;x
-
-count;Count;;;;;;;;;;;;;x
-county;County;;;;;;;;;;;;;x
-county_of;County of;;;;;;;;;;;;;x
-counties;Counties;;;;;;;;;;;;;x
-
-duke;Duke;;;;;;;;;;;;;x
-duchy;Duchy;;;;;;;;;;;;;x
-duchy_of;Duchy of;;;;;;;;;;;;;x
-duchies;Duchies;;;;;;;;;;;;;x
-
-emperor;Emperor;;;;;;;;;;;;;x
-empire;Empire;;;;;;;;;;;;;x
-empire_of;Empire of;;;;;;;;;;;;;x
-empires;Empires;;;;;;;;;;;;;x
-
-king;King;;;;;;;;;;;;;x
-kingdom;Kingdom;;;;;;;;;;;;;x
-kingdom_of;Kingdom of;;;;;;;;;;;;;x
-kingdoms;Kingdoms;;;;;;;;;;;;;x
-
-baron_foa;My Lord;;;;;;;;;;;;;x
-baron_foa_female;My Lady;;;;;;;;;;;;;x
-city_baron_foa;Your honor;;;;;;;;;;;;;x
-city_count_foa;Your honor;;;;;;;;;;;;;x
-city_duke_foa;Your Grace;;;;;;;;;;;;;x
-city_emperor_foa;Your Highness;;;;;;;;;;;;;x
-city_king_foa;Your Serene Grace;;;;;;;;;;;;;x
-count_foa;My Lord;;;;;;;;;;;;;x
-count_foa_female;My Lady;;;;;;;;;;;;;x
-duke_foa;Your Grace;;;;;;;;;;;;;x
-emperor_foa;Your Imperial Majesty;;;;;;;;;;;;;x
-family_palace_baron_foa;Sir;;;;;;;;;;;;;x
-king_foa;Your Majesty;;;;;;;;;;;;;x
-order_baron_foa;My Lord;;;;;;;;;;;;;x
-order_baron_foa_female;My Lady;;;;;;;;;;;;;x
-order_count_foa;My Lord;;;;;;;;;;;;;x
-order_count_foa_female;My Lady;;;;;;;;;;;;;x
-order_duke_foa;My Lord;;;;;;;;;;;;;x
-order_duke_foa_female;My Lady;;;;;;;;;;;;;x
-order_emperor_foa;Your Highness;;;;;;;;;;;;;x
-order_emperor_foa_female;Your Highness;;;;;;;;;;;;;x
-order_king_foa;Your Grace;;;;;;;;;;;;;x
-order_king_foa_female;Your Grace;;;;;;;;;;;;;x
-temple_baron_foa;Your Excellency;;;;;;;;;;;;;x
-temple_count_foa;Your Excellency;;;;;;;;;;;;;x
-temple_duke_foa;Your Eminence;;;;;;;;;;;;;x
-temple_king_foa;Your Holiness;;;;;;;;;;;;;x
-
+baron_arabic;Wâli;;;;;;;;;;;Ìàëëÿê;;x
+baron_dravidian_group;Damapati;;;;;;;;;;;Äàìàïàòè;;x
+baron_female;Baroness;;;;;;;;;;;Áàðîíåññà;;x
+baron_female_arabic;Wâlia;;;;;;;;;;;Ìàëëÿêàò;;x
+baron_female_dravidian_group;Damapatni;;;;;;;;;;;Äàìàïàòíè;;x
+baron_female_hellenic_pagan;Legata;;;;;;;;;;;Ëåãàòà;;x
+baron_female_hellenic_pagan_reformed;Legata;;;;;;;;;;;Ëåãàòà;;x
+baron_female_indo_aryan_group;Damapatni;;;;;;;;;;;Äàìàïàòíè;;x
+baron_female_iranian;Wâlia;;;;;;;;;;;Ìóëüêäàðà;;x
+baron_female_nahua;Teuctli;;;;;;;;;;;Òýêòëè;;x
+baron_female_nepali;Damapatni;;;;;;;;;;;Äàìàïàòíè;;x
+baron_female_roman;Legata;;;;;;;;;;;Ëåãàòà;;x
+baron_female_turkish;Timariota;;;;;;;;;;;Òèìàðèîòà;;x
+baron_hellenic_pagan;Legatus;;;;;;;;;;;Ëåãàò;;x
+baron_hellenic_pagan_reformed;Legatus;;;;;;;;;;;Ëåãàò;;x
+baron_indo_aryan_group;Damapati;;;;;;;;;;;Äàìàïàòè;;x
+baron_iranian;Argbadh;;;;;;;;;;;Àðãáàäõ;;x
+baron_mongol;Taishi;;;;;;;;;;;Òàéøè;;x
+baron_nahua;Teuctli;;;;;;;;;;;Òýêòëè;;x
+baron_nepali;Damapati;;;;;;;;;;;Äàìàïàòè;;x
+baron_norse;Þegn;;;;;;;;;;;Õîëüä;;x
+baron_norse_pagan;Þegn;;;;;;;;;;;Ýãí;;x
+baron_norse_pagan_reformed;Þegn;;;;;;;;;;;Ýãí;;x
+baron_pagan_group;Hetman;;;;;;;;;;;Ãåòìàí;;x
+baron_roman;Legatus;;;;;;;;;;;Ëåãàò;;x
+baron_turkish;Timariot;;;;;;;;;;;Òèìàðëû;;x
+barony_arabic;Wilayah;;;;;;;;;;;Êàñð;;x
+barony_dravidian_group;Dama;;;;;;;;;;;Äàìà;;x
+barony_indo_aryan_group;Dama;;;;;;;;;;;Äàìà;;x
+barony_iranian;Arg;;;;;;;;;;;Àðã;;x
+barony_mongol;Taishi;;;;;;;;;;;Àéìàê;;x
+barony_of_arabic;Wilayah of;;;;;;;;;;;Êàñð;;x
+barony_of_dravidian_group;Dama of;;;;;;;;;;;Äàìà;;x
+barony_of_indo_aryan_group;Dama of;;;;;;;;;;;Äàìà;;x
+barony_of_iranian;Arg of;;;;;;;;;;;Àðã;;x
+barony_of_mongol;Taishi of;;;;;;;;;;;Àéìàê;;x
+barony_of_roman;Fortress of;;;;;;;;;;;Ôîðïîñò;;x
+barony_of_turkish;Timar of;;;;;;;;;;;Òèìàð;;x
+barony_turkish;Timar;;;;;;;;;;;Òèìàð;;x
+city_baron;Mayor;;;;;;;;;;;Ìýð;;x
+city_baron_female;Mayor;;;;;;;;;;;Ìýð;;x
+city_baron_female_roman;Magistra;;;;;;;;;;;Ìàãèñòðà;;x
+city_baron_roman;Magister;;;;;;;;;;;Ìàãèñòð;;x
+city_barony;City;;;;;;;;;;;Ãîðîä;;x
+city_barony_of;City of;;;;;;;;;;;Ãîðîä;;x
+city_barony_of_roman;City of;;;;;;;;;;;Ãîðîä;;x
+city_barony_roman;City;;;;;;;;;;;Ãîðîä;;x
+city_count;Lord Mayor;;;;;;;;;;;Ëîðä-ìýð;;x
+city_count_female;Lady Mayor;;;;;;;;;;;Ëåäè;;x
+city_count_female_roman;Praefect;;;;;;;;;;;Ïðåôåêò;;x
+city_count_muslim;Wali;;;;;;;;;;;Àìèë;;x
+city_count_roman;Praefect;;;;;;;;;;;Ïðåôåêò;;x
+city_county;Grand City;;;;;;;;;;;Âåëèêèé ãîðîä;;x
+city_county_of;Grand City of;;;;;;;;;;;Âåëèêèé ãîðîä;;x
+city_county_of_roman;Grand City of;;;;;;;;;;;Âåëèêèé ãîðîä;;x
+city_county_roman;Grand City;;;;;;;;;;;Âåëèêèé ãîðîä;;x
+city_duchy;Republic;;;;;;;;;;;Ðåñïóáëèêà;;x
+city_duchy_of;Republic of;;;;;;;;;;;Ðåñïóáëèêà;;x
+city_duchy_of_roman;League of;;;;;;;;;;;Ëèãà;;x
+city_duchy_roman;League;;;;;;;;;;;Ëèãà;;x
+city_duke;Grand Mayor;;;;;;;;;;;Âåëèêèé ìýð;;x
+city_duke_byzantine;Doge;;;;;;;;;;;Äîæ;;x
+city_duke_female_roman;Tribune;;;;;;;;;;;Òðèáóí;;x
+city_duke_latin;Doge;;;;;;;;;;;Äîæ;;x
+city_duke_muslim;Wali-Emir;;;;;;;;;;;Ðàèñ;;x
+city_duke_roman;Tribune;;;;;;;;;;;Òðèáóí;;x
+city_emperor;Grand Prince;;;;;;;;;;;Âåëèêèé ïðèíöåïñ;;x
+city_emperor_female_roman;Princess;;;;;;;;;;;Ïðèíöåññà;;x
+city_emperor_roman;Princeps;;;;;;;;;;;Ïðèíöåïñ;;x
+city_empire;Principality;;;;;;;;;;;Âåëèêàÿ ðåñïóáëèêà;;x
+city_empire_of;Principality of;;;;;;;;;;;Âåëèêàÿ ðåñïóáëèêà;;x
+city_empire_of_roman;Grand Republic of;;;;;;;;;;;Âåëèêàÿ ðåñïóáëèêà;;x
+city_empire_roman;Grand Republic;;;;;;;;;;;Âåëèêàÿ ðåñïóáëèêà;;x
+city_king;Prince Mayor;;;;;;;;;;;Ïðèíö-ìýð;;x
+city_king_byzantine;Serene Doge;;;;;;;;;;;Ñâåòëåéøèé äîæ;;x
+city_king_female_roman;Consul;;;;;;;;;;;Êîíñóë;;x
+city_king_latin;Serene Doge;;;;;;;;;;;Ñâåòëåéøèé äîæ;;x
+city_king_muslim;Wali-Malik;;;;;;;;;;;Ðàèñ;;x
+city_king_roman;Consul;;;;;;;;;;;Êîíñóë;;x
+city_kingdom;Most Serene Republic;;;;;;;;;;;Òîðãîâûé ñîþç;;x
+city_kingdom_german;Merchant League;;;;;;;;;;;Òîðãîâàÿ ëèãà;;x
+city_kingdom_of;Most Serene Republic of;;;;;;;;;;;Òîðãîâûé ñîþç;;x
+city_kingdom_of_german;Merchant League of;;;;;;;;;;;Òîðãîâàÿ ëèãà;;x
+city_kingdom_of_roman;Republic of;;;;;;;;;;;Ðåñïóáëèêà;;x
+city_kingdom_roman;Republic;;;;;;;;;;;Ðåñïóáëèêà;;x
+count_arabic;Sheikh;;;;;;;;;;;Ìóêòà;;x
+count_bodpa;Ngapo;;;;;;;;;;;Íãàïî;;x
+count_dravidian_group;Thakur;;;;;;;;;;;Òõàêóð;;x
+count_english;Earl;;;;;;;;;;;Ýðë;;x
+count_female;Countess;;;;;;;;;;;Ãðàôèíÿ;;x
+count_female_arabic;Shaykhah;;;;;;;;;;;Ìóêòà;;x
+count_female_bodpa;Ngamo;;;;;;;;;;;Íãàìî;;x
+count_female_dravidian_group;Thakurani;;;;;;;;;;;Òõàêóðàíè;;x
+count_female_hellenic_pagan;Countess;;;;;;;;;;;Êîìèññà;;x
+count_female_hellenic_pagan_reformed;Countess;;;;;;;;;;;Êîìèññà;;x
+count_female_indo_aryan_group;Thakurani;;;;;;;;;;;Òõàêóðàíè;;x
+count_female_iranian;Shaykhah;;;;;;;;;;;Ìàðçáàíà;;x
+count_female_nahua;Calpixqui;;;;;;;;;;;Êàëüïèøêè;;x
+count_female_nepali;Pramukha;;;;;;;;;;;Ïðàìóêõà;;x
+count_female_pagan_group;Chieftess;;;;;;;;;;;Ïðåäâîäèòåëüíèöà;;x
+count_female_roman;Countess;;;;;;;;;;;Êîìèññà;;x
+count_female_sardinian;Giudessa;;;;;;;;;;;Þäåñà;;x
+count_female_turkish;Bayan;;;;;;;;;;;Áàÿí;;x
+count_female_west_african;Farina;;;;;;;;;;;Ôàðèíà;;x
+count_hellenic_pagan;Comes;;;;;;;;;;;Êîìåñ;;x
+count_hellenic_pagan_reformed;Comes;;;;;;;;;;;Êîìåñ;;x
+count_indo_aryan_group;Thakur;;;;;;;;;;;Òõàêóð;;x
+count_iranian;Marzoban;;;;;;;;;;;Ìàðçáàí;;x
+count_irish;Earl;;;;;;;;;;;Ýðë;;x
+count_mongol;Chief;;;;;;;;;;;Äàðêàí;;x
+count_nahua;Calpixqui;;;;;;;;;;;Êàëüïèøêè;;x
+count_nepali;Pramukha;;;;;;;;;;;Ïðàìóêõà;;x
+count_pagan_group;Chief;;;;;;;;;;;Âîæäü;;x
+count_pictish;Earl;;;;;;;;;;;Ýðë;;x
+count_roman;Comes;;;;;;;;;;;Êîìåñ;;x
+count_sardinian;Giudice;;;;;;;;;;;Þäåêñ;;x
+count_anglo_saxon;Earl;;;;;;;;;;;Ýðë;;x
+count_scottish;Earl;;;;;;;;;;;Ýðë;;x
+count_turkish;Bey;;;;;;;;;;;Áåé;;x
+count_west_african;Farin;;;;;;;;;;;Ôàðèí;;x
+county_arabic;Sheikhdom;;;;;;;;;;;Âèëàéÿ;;x
+county_dravidian_group;Thikana;;;;;;;;;;;Òõèêàíà;;x
+county_indo_aryan_group;Thikana;;;;;;;;;;;Òõèêàíà;;x
+county_iranian;Marzpanate;;;;;;;;;;;Ìàðçïàíàòû;;x
+county_mongol;Chiefdom;;;;;;;;;;;Äàðóãà;;x
+county_of_arabic;Sheikhdom of;;;;;;;;;;;Âèëàéÿ;;x
+county_of_dravidian_group;Thikana of;;;;;;;;;;;Òõèêàíà;;x
+county_of_indo_aryan_group;Thikana of;;;;;;;;;;;Òõèêàíà;;x
+county_of_iranian;Marzpanate of;;;;;;;;;;;Ìàðçïàíàò;;x
+county_of_mongol;Chiefdom of;;;;;;;;;;;Äàðóãà;;x
+county_of_roman;County of;;;;;;;;;;;Êîìåñ;;x
+county_of_sardinian;Giudicato of;;;;;;;;;;;Þäèêàò;;x
+county_of_turkish;Beylik of;;;;;;;;;;;Áåéëèê;;x
+county_turkish;Beylik;;;;;;;;;;;Áåéëèê;;x
+duchy_arabic;Emirate;;;;;;;;;;;Ýìèðàò;;x
+duchy_dravidian_group;Raj;;;;;;;;;;;Ðàäæ;;x
+duchy_indo_aryan_group;Raj;;;;;;;;;;;Ðàäæ;;x
+duchy_iranian;Satrapy;;;;;;;;;;;Ñàòðàïèÿ;;x
+duchy_mongol;High Chiefdom;;;;;;;;;;;Òóìýí;;x
+duchy_norse;Jarldom;;;;;;;;;;;ßðëñòâî;;x
+duchy_of_arabic;Emirate of;;;;;;;;;;;Ýìèðàò;;x
+duchy_of_baltic_pagan;High Chiefdom of;;;;;;;;;;;Âåëèêîå âîæäåñòâî;;x
+duchy_of_baltic_pagan_reformed;High Chiefdom of;;;;;;;;;;;Âåëèêîå âîæäåñòâî;;x
+duchy_of_dravidian_group;Raj of;;;;;;;;;;;Ðàäæ;;x
+duchy_of_finnish_pagan;High Chiefdom of;;;;;;;;;;;Âåëèêîå âîæäåñòâî;;x
+duchy_of_finnish_pagan_reformed;High Chiefdom of;;;;;;;;;;;Âåëèêîå âîæäåñòâî;;x
+duchy_of_indo_aryan_group;Raj of;;;;;;;;;;;Ðàäæ;;x
+duchy_of_iranian;Satrapy of;;;;;;;;;;;Ñàòðàïèÿ;;x
+duchy_of_mongol;High Chiefdom of;;;;;;;;;;;Òóìýí;;x
+duchy_of_norse;Jarldom of;;;;;;;;;;;ßðëñòâî;;x
+duchy_of_roman;Duchy of;;;;;;;;;;;Äóêàò;;x
+duchy_of_russian;Grand Principality of;;;;;;;;;;;Êíÿæåñòâî;;x
+duchy_of_slavic_pagan;High Chiefdom of;;;;;;;;;;;Âåëèêîå âîæäåñòâî;;x
+duchy_of_slavic_pagan_reformed;High Chiefdom of;;;;;;;;;;;Âåëèêîå âîæäåñòâî;;x
+duchy_of_turkish;Beylerbeylik of;;;;;;;;;;;Áåéëåðáåéñòâî;;x
+duchy_russian;Grand Principality;;;;;;;;;;;Êíÿæåñòâî;;x
+duchy_turkish;Beylerbeylik;;;;;;;;;;;Áåéëåðáåéñòâî;;x
+duke_arabic;Emir;;;;;;;;;;;Ýìèð;;x
+duke_baltic_pagan;High Chief;;;;;;;;;;;Âåëèêèé âîæäü;;x
+duke_baltic_pagan_reformed;High Chief;;;;;;;;;;;Âåëèêèé âîæäü;;x
+duke_bodpa;Thupo;;;;;;;;;;;Òõóïî;;x
+duke_dravidian_group;Raja;;;;;;;;;;;Ðàäæà;;x
+duke_female;Duchess;;;;;;;;;;;Ãåðöîãèíÿ;;x
+duke_female_arabic;Emira;;;;;;;;;;;Ýìèðà;;x
+duke_female_baltic_pagan;High Chieftess;;;;;;;;;;;Âåëèêàÿ âîæäü;;x
+duke_female_baltic_pagan_reformed;High Chieftess;;;;;;;;;;;Âåëèêàÿ âîæäü;;x
+duke_female_bodpa;Thumo;;;;;;;;;;;Òõóìî;;x
+duke_female_dravidian_group;Rani;;;;;;;;;;;Ðàíè;;x
+duke_female_finnish_pagan;High Chieftess;;;;;;;;;;;Âåëèêàÿ âîæäü;;x
+duke_female_finnish_pagan_reformed;High Chieftess;;;;;;;;;;;Âåëèêàÿ âîæäü;;x
+duke_female_indo_aryan_group;Rani;;;;;;;;;;;Ðàíè;;x
+duke_female_iranian;Emira;;;;;;;;;;;Ýìèðà;;x
+duke_female_mongol;High Chieftess;;;;;;;;;;;Íîÿíåì;;x
+duke_female_nahua;Huecalpixqui;;;;;;;;;;;Óýêàëüïèøêè;;x
+duke_female_nepali;Mahila;;;;;;;;;;;Ìàõèëà;;x
+duke_female_roman;Duchess;;;;;;;;;;;Äóêèññà;;x
+duke_female_russian;Grand Princess;;;;;;;;;;;Êíÿãèíÿ;;x
+duke_female_slavic_pagan;High Chieftess;;;;;;;;;;;Âåëèêàÿ âîæäü;;x
+duke_female_slavic_pagan_reformed;High Chieftess;;;;;;;;;;;Âåëèêàÿ âîæäü;;x
+duke_female_tengri_pagan;High Chieftess;;;;;;;;;;;Âåëèêàÿ âîæäü;;x
+duke_female_tengri_pagan_reformed;High Chieftess;;;;;;;;;;;Âåëèêàÿ âîæäü;;x
+duke_female_turkish;Beylerbayan;;;;;;;;;;;Áåéëåðáàÿí;;x
+duke_female_west_african;Farba;;;;;;;;;;;Ôàðáà;;x
+duke_finnish_pagan;High Chief;;;;;;;;;;;Âåëèêèé âîæäü;;x
+duke_finnish_pagan_reformed;High Chief;;;;;;;;;;;Âåëèêèé âîæäü;;x
+duke_greek;Doux;;;;;;;;;;;Äóêñ;;x
+duke_indo_aryan_group;Raja;;;;;;;;;;;Ðàäæà;;x
+duke_iranian;Satrap;;;;;;;;;;;Ñàòðàï;;x
+duke_mongol;High Chief;;;;;;;;;;;Íîéîí;;x
+duke_nahua;Huecalpixqui;;;;;;;;;;;Óýêàëüïèøêè;;x
+duke_nepali;Prabhu;;;;;;;;;;;Ïðàáõó;;x
+duke_norse;Jarl;;;;;;;;;;;ßðë;;x
+duke_roman;Doux;;;;;;;;;;;Äóêñ;;x
+duke_russian;Grand Prince;;;;;;;;;;;Êíÿçü;;x
+duke_slavic_pagan;High Chief;;;;;;;;;;;Âåëèêèé âîæäü;;x
+duke_slavic_pagan_reformed;High Chief;;;;;;;;;;;Âåëèêèé âîæäü;;x
+duke_sogdian;Ikhshid;;;;;;;;;;;Èõøèä;;x
+duke_tengri_pagan;High Chief;;;;;;;;;;;Âåëèêèé âîæäü;;x
+duke_tengri_pagan_reformed;High Chief;;;;;;;;;;;Âåëèêèé âîæäü;;x
+duke_turkish;Beylerbey;;;;;;;;;;;Áåéëåðáåé;;x
+duke_west_african;Farbas;;;;;;;;;;;Ôàðáàñ;;x
+emperor_altaic;Khagan;;;;;;;;;;;Êàãàí;;x
+emperor_arabic;Badshah;;;;;;;;;;;Ñóëòàí;;x
+emperor_bodpa;Tsenpo;;;;;;;;;;;Öýíïî;;x
+emperor_bulgarian;Tsar;;;;;;;;;;;Öàðü;;x
+emperor_dravidian_group;Samrat;;;;;;;;;;;Ñàìðàò;;x
+emperor_female;Empress;;;;;;;;;;;Èìïåðàòðèöà;;x
+emperor_female_altaic;Khatun;;;;;;;;;;;Êàòóí;;x
+emperor_female_bodpa;Tsenmo;;;;;;;;;;;Öýíìî;;x
+emperor_female_bulgarian;Tsarina;;;;;;;;;;;Öàðèöà;;x
+emperor_female_dravidian_group;Samrajni;;;;;;;;;;;Ñàìðàíè;;x
+emperor_female_german;Kaiserin;;;;;;;;;;;Àâãóñòà;;x
+emperor_female_greek;Basilissa;;;;;;;;;;;Áàçèëèñà;;x
+emperor_female_indo_aryan_group;Samrajni;;;;;;;;;;;Ñàìðàíè;;x
+emperor_female_nahua;Huetlatoani;;;;;;;;;;;Óýòëàòîàíè;;x
+emperor_female_nepali;Maharani;;;;;;;;;;;Ìàõàðàíè;;x
+emperor_female_roman;Augusta;;;;;;;;;;;Àâãóñòà;;x
+emperor_female_russian;Tsaritsa;;;;;;;;;;;Öàðèöà;;x
+emperor_female_tangut;Thu Ghu;;;;;;;;;;;Òõó Ãõó;;x
+emperor_german;Kaiser;;;;;;;;;;;Êàéçåð;;x
+emperor_greek;Basileus;;;;;;;;;;;Áàçèëåâñ;;x
+emperor_indo_aryan_group;Samrat;;;;;;;;;;;Ñàìðàò;;x
+emperor_iranian;Shahanshah;;;;;;;;;;;Øàõàíøàõ;;x
+emperor_king_christian;Emperor-Bishop;;;;;;;;;;;Èìïåðàòîð-åïèñêîï;;x
+emperor_nahua;Huetlatoani;;;;;;;;;;;Óýòëàòîàíè;;x
+emperor_nepali;Samrata;;;;;;;;;;;Ñàìðàòà;;x
+emperor_roman;Augustus;;;;;;;;;;;Àâãóñò;;x
+emperor_russian;Tsar;;;;;;;;;;;Öàðü;;x
+emperor_tangut;Thu Ghu;;;;;;;;;;;Òõó Ãõó;;x
+emperor_turkish;Padishah;;;;;;;;;;;Ïàäèøàõ;;x
+empire_altaic;Khaganate;;;;;;;;;;;Êàãàíàò;;x
+empire_of_altaic;Empire of;;;;;;;;;;;Èìïåðèÿ;;x
+empire_of_roman;Empire of;;;;;;;;;;;Èìïåðèÿ;;x
+empire_russian;Tsardom;;;;;;;;;;;Öàðñòâî;;x
+family_palace;Palace;;;;;;;;;;;Ðåçèäåíöèÿ;;x
+family_palace_baron;Patrician;;;;;;;;;;;Ïàòðèöèé;;x
+family_palace_baron_female;Lady;;;;;;;;;;;Ëåäè;;x
+family_palace_barony_of;Palace of;;;;;;;;;;;Ïîìåñòüå;;x
+king_altaic;Khan;;;;;;;;;;;Õàí;;x
+king_arabic;Sultan;;;;;;;;;;;Ìàëèê;;x
+king_bodpa;Gyalpo;;;;;;;;;;;Ãúÿëïî;;x
+king_central_african;Mai;;;;;;;;;;;Ìàè;;x
+king_dravidian_group;Maharaja;;;;;;;;;;;Ìàãàðàäæà;;x
+king_female;Queen;;;;;;;;;;;Êîðîëåâà;;x
+king_female_altaic;Khanum;;;;;;;;;;;Õàòóí;;x
+king_female_arabic;Sultana;;;;;;;;;;;Ìàëèêà;;x
+king_female_bodpa;Gyelmo;;;;;;;;;;;Ãúÿëìî;;x
+king_female_dravidian_group;Maharani;;;;;;;;;;;Ìàãàðàíè;;x
+king_female_indo_aryan_group;Maharani;;;;;;;;;;;Ìàõàðàíè;;x
+king_female_iranian;Banebshen;;;;;;;;;;;Áàíåáøåí;;x
+king_female_nahua;Tlatoani;;;;;;;;;;;Òëàòîàíè;;x
+king_female_nepali;Rani;;;;;;;;;;;Ðàíè;;x
+king_female_roman;Regina;;;;;;;;;;;Ðåãèíà;;x
+king_female_tangut;Ne;;;;;;;;;;;Íý;;x
+king_female_turkish;Sultana;;;;;;;;;;;Ñóëòàí;;x
+king_greek;Despot;;;;;;;;;;;Äåñïîò;;x
+king_indo_aryan_group;Maharaja;;;;;;;;;;;Ìàõàðàäæà;;x
+king_iranian;Shah;;;;;;;;;;;Øàõ;;x
+king_nahua;Tlatoani;;;;;;;;;;;Òëàòîàíè;;x
+king_nepali;Raja;;;;;;;;;;;Ðàäæà;;x
+king_roman;Rex;;;;;;;;;;;Ðåêñ;;x
+king_tangut;Ne;;;;;;;;;;;Íý;;x
+king_turkish;Sultan;;;;;;;;;;;Ñóëòàí;;x
+king_west_african;Mansa;;;;;;;;;;;Ñóëòàí;;x
+kingdom_altaic;Khanate;;;;;;;;;;;Õàíñòâî;;x
+kingdom_arabic;Sultanate;;;;;;;;;;;Ìàëèêñòâî;;x
+kingdom_iranian;Shahdom;;;;;;;;;;;Øàõñòâî;;x
+kingdom_of_altaic;Khanate of;;;;;;;;;;;Õàíñòâî;;x
+kingdom_of_arabic;Sultanate of;;;;;;;;;;;Ìàëèêñòâî;;x
+kingdom_of_iranian;Shahdom of;;;;;;;;;;;Øàõñòâî;;x
+kingdom_of_roman;Regnum of;;;;;;;;;;;Ðåãíóì;;x
+kingdom_of_turkish;Sultanate of;;;;;;;;;;;Ñóëòàíàò;;x
+kingdom_turkish;Sultanate;;;;;;;;;;;Ñóëòàíàò;;x
+nomadic_emperor;Khagan;;;;;;;;;;;Êàãàí;;x
+nomadic_emperor_female;Khatun;;;;;;;;;;;Õàòóí;;x
+nomadic_empire;Khaganate;;;;;;;;;;;Êàãàíàò;;x
+nomadic_empire_of;Khaganate of;;;;;;;;;;;Êàãàíàò;;x
+nomadic_king;Khan;;;;;;;;;;;Õàí;;x
+nomadic_king_female;Khanum;;;;;;;;;;;Õàíóì;;x
+nomadic_kingdom;Khanate;;;;;;;;;;;Õàíñòâî;;x
+nomadic_kingdom_of;Khanate of;;;;;;;;;;;Õàíñòâî;;x
+order_baron;Knight;;;;;;;;;;;Ðûöàðü;;x
+order_baron_female;Dame;;;;;;;;;;;Äàìà;;x
+order_barony_of;Garrison Town of;;;;;;;;;;;Ãàðíèçîí;;x
+order_count;Commander;;;;;;;;;;;Êîìàíäóþùèé;;x
+order_count_female;Commander;;;;;;;;;;;Êîìàíäóþùàÿ;;x
+order_county_of;Fortress of;;;;;;;;;;;Êðåïîñòü;;x
+order_duchy_of;Order of;;;;;;;;;;;Îðäåí;;x
+order_duke;Master;;;;;;;;;;;Ìàãèñòð;;x
+order_duke_female;Mistress;;;;;;;;;;;Ìàãèñòð;;x
+order_emperor;Prince;;;;;;;;;;;Ïðèíö;;x
+order_emperor_female;Princess;;;;;;;;;;;Ïðèíöåññà;;x
+order_empire_of;Monastic State of;;;;;;;;;;;Ìîíàøåñêîå ãîñóäàðñòâî;;x
+order_king;Grandmaster;;;;;;;;;;;Âåëèêèé ìàãèñòð;;x
+order_king_female;Grandmistress;;;;;;;;;;;Âåëèêèé ìàãèñòð;;x
+order_kingdom_of;Grand Order of;;;;;;;;;;;Âåëèêèé îðäåí;;x
+temple_baron_aztec_pagan;Shaman;;;;;;;;;;;Øàìàí;;x
+temple_baron_aztec_pagan_reformed;Shaman;;;;;;;;;;;Øàìàí;;x
+temple_baron_baltic_pagan;Shaman;;;;;;;;;;;Æðåö;;x
+temple_baron_baltic_pagan_reformed;Shaman;;;;;;;;;;;Æðåö;;x
+temple_baron_bon_pagan;Lama;;;;;;;;;;;Ëàìà;;x
+temple_baron_bon_pagan_reformed;Lama;;;;;;;;;;;Ëàìà;;x
+temple_baron_buddhist;Bhikkhu;;;;;;;;;;;Áõèêêõó;;x
+temple_baron_christian;Bishop;;;;;;;;;;;Åïèñêîï;;x
+temple_baron_female_buddhist;Bhikshuni;;;;;;;;;;;Áõèêøóíè;;x
+temple_baron_female_christian;Bishop;;;;;;;;;;;Åïèñêîï;;x
+temple_baron_female_hellenic_pagan;Vestal;;;;;;;;;;;Âåñòàëêà;;x
+temple_baron_female_hellenic_pagan_reformed;Vestal;;;;;;;;;;;Âåñòàëêà;;x
+temple_baron_female_norse_pagan;Gydja;;;;;;;;;;;Ãèäüÿ;;x
+temple_baron_female_norse_pagan_reformed;Gydja;;;;;;;;;;;Ãèäüÿ;;x
+temple_baron_female_pagan_group;Priestess;;;;;;;;;;;Æðèöà;;x
+temple_baron_female_west_african_pagan;Priestess;;;;;;;;;;;Æðèöà;;x
+temple_baron_female_west_african_pagan_reformed;Priestess;;;;;;;;;;;Æðèöà;;x
+temple_baron_finnish_pagan;Shaman;;;;;;;;;;;Øàìàí;;x
+temple_baron_finnish_pagan_reformed;Shaman;;;;;;;;;;;Øàìàí;;x
+temple_baron_hellenic_pagan;Flamen;;;;;;;;;;;Ôëàìèí;;x
+temple_baron_hellenic_pagan_reformed;Flamen;;;;;;;;;;;Ôëàìèí;;x
+temple_baron_hindu;Pujari;;;;;;;;;;;Ïóäæàðè;;x
+temple_baron_jain;Nirgrantha;;;;;;;;;;;Íèðãðàíòõà;;x
+temple_baron_jewish;Rabbi;;;;;;;;;;;Ðàââèí;;x
+temple_baron_jewish_group;Rabbi;;;;;;;;;;;Ðàââèí;;x
+temple_baron_karaite;Rabbi;;;;;;;;;;;Ðàââèí;;x
+temple_baron_khurmazta;Vahram;;;;;;;;;;;Âàõðàì;;x
+temple_baron_manichaean;Vahram;;;;;;;;;;;Ìàõèñòàí;;x
+temple_baron_mazdaki;Vahram;;;;;;;;;;;Âàãðàì;;x
+temple_baron_norse_pagan;Godi;;;;;;;;;;;Ãîäè;;x
+temple_baron_norse_pagan_reformed;Godi;;;;;;;;;;;Ãîäè;;x
+temple_baron_pagan_group;Priest;;;;;;;;;;;Æðåö;;x
+temple_baron_samaritan;Rabbi;;;;;;;;;;;Ðàââèí;;x
+temple_baron_shiite;Mullah;;;;;;;;;;;Ìóëëà;;x
+temple_baron_slavic_pagan;Shaman;;;;;;;;;;;Âîëõâ;;x
+temple_baron_slavic_pagan_reformed;Shaman;;;;;;;;;;;Âîëõâ;;x
+temple_baron_sunni;Mufti;;;;;;;;;;;Ìóôòèé;;x
+temple_baron_taoist;Daoshi;;;;;;;;;;;Äàîøè;;x
+temple_baron_tengri_pagan;Shaman;;;;;;;;;;;Øàìàí;;x
+temple_baron_tengri_pagan_reformed;Shaman;;;;;;;;;;;Øàìàí;;x
+temple_baron_west_african_pagan;Priest;;;;;;;;;;;Æðåö;;x
+temple_baron_west_african_pagan_reformed;Priest;;;;;;;;;;;Æðåö;;x
+temple_baron_zoroastrian;Herbad;;;;;;;;;;;Õèðáàä;;x
+temple_baron_zoroastrian_group;Herbad;;;;;;;;;;;Õèðáàä;;x
+temple_baron_zun_pagan;Sun Guardian;;;;;;;;;;;Ñîëíå÷íûé ñòðàæ;;x
+temple_baron_zun_pagan_reformed;Sun Guardian;;;;;;;;;;;Ñîëíå÷íûé ñòðàæ;;x
+temple_barony_christian;Bishopric;;;;;;;;;;;Åïèñêîïñòâî;;x
+temple_barony_druze;Khalwat;;;;;;;;;;;Õàëâàò;;x
+temple_barony_muslim;Mosque;;;;;;;;;;;Ìå÷åòü;;x
+temple_barony_of_buddhist;Vihara of;;;;;;;;;;;Âèõàðà;;x
+temple_barony_of_christian;Bishopric of;;;;;;;;;;;Åïèñêîïñòâî;;x
+temple_barony_of_druze;Khalwat of;;;;;;;;;;;Õàëâàò;;x
+temple_barony_of_hindu;Mandir of;;;;;;;;;;;Ìàíäèð;;x
+temple_barony_of_jain;Derasar of;;;;;;;;;;;Äåðàñàð;;x
+temple_barony_of_jewish_group;Temple of;;;;;;;;;;;Õðàì;;x
+temple_barony_of_muslim;Mosque of;;;;;;;;;;;Ìå÷åòü;;x
+temple_barony_of_pagan_group;Temple of;;;;;;;;;;;Õðàì;;x
+temple_barony_of_taoist;Temple of;;;;;;;;;;;Õðàì;;x
+temple_barony_of_yazidi;Temple of;;;;;;;;;;;Õðàì;;x
+temple_barony_of_zoroastrian;Vahram of;;;;;;;;;;;Âàõðàì;;x
+temple_barony_of_zoroastrian_group;Vahram of;;;;;;;;;;;Âàõðàì;;x
+temple_barony_of_zun_pagan;Sun Temple of;;;;;;;;;;;Ñîëíå÷íûé Õðàì;;x
+temple_barony_of_zun_pagan_reformed;Sun Temple of;;;;;;;;;;;Ñîëíå÷íûé Õðàì;;x
+temple_barony_pagan_group;Temple;;;;;;;;;;;Õðàì;;x
+temple_barony_yazidi;Temple;;;;;;;;;;;Õðàì;;x
+temple_barony_zoroastrian;Vahram;;;;;;;;;;;Âàõðàì;;x
+temple_barony_zoroastrian_group;Vahram;;;;;;;;;;;Âàõðàì;;x
+temple_count_buddhist;Bhikkhu;;;;;;;;;;;Áõèêêõó;;x
+temple_count_christian;Prince-Bishop;;;;;;;;;;;Êíÿçü-åïèñêîï;;x
+temple_count_female_buddhist;Bhikshuni;;;;;;;;;;;Áõèêøóíè;;x
+temple_count_female_hellenic_pagan;High Vestal;;;;;;;;;;;Âåðõîâíàÿ âåñòàëêà;;x
+temple_count_female_hellenic_pagan_reformed;High Vestal;;;;;;;;;;;Âåðõîâíàÿ âåñòàëêà;;x
+temple_count_female_norse_pagan;Vala;;;;;;;;;;;Âàëà;;x
+temple_count_female_norse_pagan_reformed;Vala;;;;;;;;;;;Âàëà;;x
+temple_count_hellenic_pagan;High Augur;;;;;;;;;;;Âåðõîâíûé àâãóð;;x
+temple_count_hellenic_pagan_reformed;High Augur;;;;;;;;;;;Âåðõîâíûé àâãóð;;x
+temple_count_hindu;Pujari;;;;;;;;;;;Ïóäæàðè;;x
+temple_count_jain;Nirgrantha;;;;;;;;;;;Íèðãàíòõà;;x
+temple_count_jewish_group;Kohen;;;;;;;;;;;Êîýí;;x
+temple_count_norse_pagan;Seidsman;;;;;;;;;;;Ñèäñìàí;;x
+temple_count_norse_pagan_reformed;Seidsman;;;;;;;;;;;Ñèäñìàí;;x
+temple_count_orthodox;Metropolitan;;;;;;;;;;;Ìèòðîïîëèò;;x
+temple_count_pagan_group;High Priest;;;;;;;;;;;Âûñøèé æðåö;;x
+temple_count_shiite;Ayatollah;;;;;;;;;;;Àÿòîëëà;;x
+temple_count_sunni;Sheikh;;;;;;;;;;;Øåéõ;;x
+temple_county_christian;Prince-Bishopric;;;;;;;;;;;Êíÿæåñòâî-åïèñêîïñòâî;;x
+temple_county_muslim;Sheikhdom;;;;;;;;;;;Øåéõñòâî;;x
+temple_county_of_buddhist;Monastery of;;;;;;;;;;;Ìîíàñòûðü;;x
+temple_county_of_christian;Prince-Bishopric of;;;;;;;;;;;Êíÿæåñòâî-åïèñêîïñòâî;;x
+temple_county_of_hindu;Temple of;;;;;;;;;;;Õðàì;;x
+temple_county_of_indian_group;Theocracy of;;;;;;;;;;;Òåîêðàòèÿ;;x
+temple_county_of_jain;Monastery of;;;;;;;;;;;Ìîíàñòûðü;;x
+temple_county_of_jewish_group;Theocracy of;;;;;;;;;;;Òåîêðàòèÿ;;x
+temple_county_of_muslim;Sheikhdom of;;;;;;;;;;;Øåéõñòâî;;x
+temple_county_of_pagan_group;Theocracy of;;;;;;;;;;;Òåîêðàòèÿ;;x
+temple_county_pagan_group;Theocracy;;;;;;;;;;;Òåîêðàòèÿ;;x
+temple_duchy_christian;Prince-Archbishopric;;;;;;;;;;;Êíÿæåñòâî-àðõèåïèñêîïñòâî;;x
+temple_duchy_muslim;Theocracy;;;;;;;;;;;Ýìèðàò;;x
+temple_duchy_of_buddhist;Monastery of;;;;;;;;;;;Ìîíàñòûðü;;x
+temple_duchy_of_christian;Prince-Archbishopric of;;;;;;;;;;;Êíÿæåñòâî-àðõèåïèñêîïñòâî;;x
+temple_duchy_of_hindu;Temple of;;;;;;;;;;;Õðàì;;x
+temple_duchy_of_indian_group;Theocracy of;;;;;;;;;;;Òåîêðàòèÿ;;x
+temple_duchy_of_jain;Monastery of;;;;;;;;;;;Ìîíàñòûðü;;x
+temple_duchy_of_jewish;Theocracy of;;;;;;;;;;;Òåîêðàòèÿ;;x
+temple_duchy_of_muslim;Theocracy of;;;;;;;;;;;Ýìèðàò;;x
+temple_duchy_of_pagan_group;Theocracy of;;;;;;;;;;;Òåîêðàòèÿ;;x
+temple_duchy_pagan_group;Theocracy;;;;;;;;;;;Òåîêðàòèÿ;;x
+temple_duke_buddhist;Bhikkhu;;;;;;;;;;;Áõèêêõó;;x
+temple_duke_christian;Prince-Archbishop;;;;;;;;;;;Êíÿçü-àðõèåïèñêîï;;x
+temple_duke_female_buddhist;Bhikshuni;;;;;;;;;;;Áõèêøóíè;;x
+temple_duke_female_hellenic_pagan;Pontifex;;;;;;;;;;;Ïîíòèôèêà;;x
+temple_duke_female_hellenic_pagan_reformed;Pontifex;;;;;;;;;;;Ïîíòèôèêà;;x
+temple_duke_female_pagan_group;Archpriestess;;;;;;;;;;;Àðõèæðèöà;;x
+temple_duke_hellenic_pagan;Pontifex;;;;;;;;;;;Ïîíòèôèê;;x
+temple_duke_hellenic_pagan_reformed;Pontifex;;;;;;;;;;;Ïîíòèôèê;;x
+temple_duke_hindu;Pujari;;;;;;;;;;;Ïóäæàðè;;x
+temple_duke_jain;Nirgrantha;;;;;;;;;;;Íèðãàíòõà;;x
+temple_duke_jewish_group;Rabban;;;;;;;;;;;Ðàááàí;;x
+temple_duke_orthodox;Prince-Archbishop;;;;;;;;;;;Êíÿçü-àðõèåïèñêîï;;x
+temple_duke_pagan_group;Archpriest;;;;;;;;;;;Ïåðâîñâÿùåííèê;;x
+temple_duke_shiite;Grand Ayatollah;;;;;;;;;;;Âåëèêèé àÿòîëëà;;x
+temple_duke_sunni;Grand Mufti;;;;;;;;;;;Âåëèêèé ìóôòèé;;x
+temple_emperor_female_pagan_group;Empress;;;;;;;;;;;Èìïåðàòðèöà;;x
+temple_king_baltic_pagan;Witch-King;;;;;;;;;;;Êíÿçü-×àðîäåé;;x
+temple_king_buddhist;Bhikkhu;;;;;;;;;;;Áõèêêõó;;x
+temple_king_christian;King-Bishop;;;;;;;;;;;Êîðîëü-åïèñêîï;;x
+temple_king_female_baltic_pagan;Witch-Queen;;;;;;;;;;;Êîðîëåâà-Âåäüìà;;x
+temple_king_female_buddhist;Bhikshuni;;;;;;;;;;;Áõèêøóíè;;x
+temple_king_female_finnish_pagan;Witch-Queen;;;;;;;;;;;Êîðîëåâà-Âåäüìà;;x
+temple_king_female_pagan_group;Queen-Priestess;;;;;;;;;;;Êîðîëåâà-Æðèöà;;x
+temple_king_female_slavic_pagan;Witch-Queen;;;;;;;;;;;Êîðîëåâà-Âåäüìà;;x
+temple_king_finnish_pagan;Witch-King;;;;;;;;;;;Êíÿçü-×àðîäåé;;x
+temple_king_hindu;Pujari;;;;;;;;;;;Ïóäæàðè;;x
+temple_king_jain;Nirgrantha;;;;;;;;;;;Íèðãàíòõà;;x
+temple_king_jewish_group;Nasi;;;;;;;;;;;Íàñè;;x
+temple_king_muslim;Caliph;;;;;;;;;;;Õàëèô;;x
+temple_king_orthodox;King-Bishop;;;;;;;;;;;Ïàòðèàðõ;;x
+temple_king_pagan_group;King-Priest;;;;;;;;;;;Êîðîëü-Æðåö;;x
+temple_king_slavic_pagan;Witch-King;;;;;;;;;;;Êíÿçü-×àðîäåé;;x
+temple_kingdom_catholic;Theocracy;;;;;;;;;;;Òåîêðàòèÿ;;x
+temple_kingdom_muslim;Caliphate;;;;;;;;;;;Õàëèôàò;;x
+temple_kingdom_of_buddhist;Monastery of;;;;;;;;;;;Ìîíàñòûðü;;x
+temple_kingdom_of_catholic;Theocracy of;;;;;;;;;;;Òåîêðàòèÿ;;x
+temple_kingdom_of_hindu;Temple of;;;;;;;;;;;Õðàì;;x
+temple_kingdom_of_indian_group;Theocracy of;;;;;;;;;;;Òåîêðàòèÿ;;x
+temple_kingdom_of_jain;Monastery of;;;;;;;;;;;Ìîíàñòûðü;;x
+temple_kingdom_of_jewish_group;Theocracy of;;;;;;;;;;;Òåîêðàòèÿ;;x
+temple_kingdom_of_muslim;Caliphate of;;;;;;;;;;;Õàëèôàò;;x
+temple_kingdom_of_orthodox;Patriarchate of;;;;;;;;;;;Ïàòðèàðøåñòâî;;x
+temple_kingdom_of_pagan_group;Theocracy of;;;;;;;;;;;Òåîêðàòèÿ;;x
+temple_kingdom_orthodox;Patriarchate;;;;;;;;;;;Ïàòðèàðøåñòâî;;x
+temple_kingdom_pagan_group;Theocracy;;;;;;;;;;;Òåîêðàòèÿ;;x
+tribal_baron;Chief;;;;;;;;;;;Âîæäü;;x
+tribal_baron_dravidian_group;Damapati;;;;;;;;;;;Äàìàïàòè;;x
+tribal_baron_female;Chieftess;;;;;;;;;;;Ïðåäâîäèòåëüíèöà;;x
+tribal_baron_female_dravidian_group;Damapatni;;;;;;;;;;;Äàìàïàòíè;;x
+tribal_baron_female_indo_aryan_group;Damapatni;;;;;;;;;;;Äàìàïàòíè;;x
+tribal_baron_indo_aryan_group;Damapati;;;;;;;;;;;Äàìàïàòè;;x
+tribal_baron_mongol;Taishi;;;;;;;;;;;Òàéøè;;x
+tribal_barony_dravidian_group;Dama;;;;;;;;;;;Äàìà;;x
+tribal_barony_indo_aryan_group;Dama;;;;;;;;;;;Äàìà;;x
+tribal_barony_of;Tribal lands of;;;;;;;;;;;Çåìëÿ;;x
+tribal_barony_of_dravidian_group;Dama of;;;;;;;;;;;Äàìà;;x
+tribal_barony_of_indo_aryan_group;Dama of;;;;;;;;;;;Äàìà;;x
+tribal_barony_of_mongol;Taishi of;;;;;;;;;;;Òàéøè;;x
+tribal_count;Chief;;;;;;;;;;;Âîæäü;;x
+tribal_count_dravidian_group;Thakur;;;;;;;;;;;Òõàêóð;;x
+tribal_count_female;Chieftess;;;;;;;;;;;Ïðåäâîäèòåëüíèöà;;x
+tribal_count_female_dravidian_group;Thakurani;;;;;;;;;;;Òõàêóðàíè;;x
+tribal_count_female_indo_aryan_group;Thakurani;;;;;;;;;;;Òõàêóðàíè;;x
+tribal_count_female_west_african;Farina;;;;;;;;;;;Ôàðèíà;;x
+tribal_count_indo_aryan_group;Thakur;;;;;;;;;;;Òõàêóð;;x
+tribal_count_west_african;Farin;;;;;;;;;;;Ôàðèí;;x
+tribal_county;Chiefdom;;;;;;;;;;;Âîæäåñòâî;;x
+tribal_county_dravidian_group;Thikana;;;;;;;;;;;Òõèêàíà;;x
+tribal_county_indo_aryan_group;Thikana;;;;;;;;;;;Òõèêàíà;;x
+tribal_county_of;Chiefdom of;;;;;;;;;;;Âîæäåñòâî;;x
+tribal_county_of_dravidian_group;Thikana of;;;;;;;;;;;Òõèêàíà;;x
+tribal_county_of_indo_aryan_group;Thikana of;;;;;;;;;;;Òõèêàíà;;x
+tribal_duchy;High Chiefdom;;;;;;;;;;;Âåðõîâíîå âîæäåñòâî;;x
+tribal_duchy_dravidian_group;Raj;;;;;;;;;;;Ðàäæ;;x
+tribal_duchy_indo_aryan_group;Raj;;;;;;;;;;;Ðàäæ;;x
+tribal_duchy_norse;Jarldom;;;;;;;;;;;ßðëñòâî;;x
+tribal_duchy_of;High Chiefdom of;;;;;;;;;;;Âåðõîâíîå âîæäåñòâî;;x
+tribal_duchy_of_dravidian_group;Raj of;;;;;;;;;;;Ðàäæ;;x
+tribal_duchy_of_frisian;High Chiefdom of;;;;;;;;;;;Âåðõîâíîå âîæäåñòâî;;x
+tribal_duchy_of_indo_aryan_group;Raj of;;;;;;;;;;;Ðàäæ;;x
+tribal_duchy_of_norse;Jarldom of;;;;;;;;;;;ßðëñòâî;;x
+tribal_duchy_of_saxon;High Chiefdom of;;;;;;;;;;;Âåðõîâíîå âîæäåñòâî;;x
+tribal_duke;High Chief;;;;;;;;;;;Âåðõîâíûé âîæäü;;x
+tribal_duke_dravidian_group;Raja;;;;;;;;;;;Ðàäæà;;x
+tribal_duke_female;High Chieftess;;;;;;;;;;;Ïðåäâîäèòåëüíèöà;;x
+tribal_duke_female_dravidian_group;Rani;;;;;;;;;;;Ðàíè;;x
+tribal_duke_female_frisian;High Chieftess;;;;;;;;;;;Ïðåäâîäèòåëüíèöà;;x
+tribal_duke_female_indo_aryan_group;Rani;;;;;;;;;;;Ðàíè;;x
+tribal_duke_female_saxon;High Chieftess;;;;;;;;;;;Ïðåäâîäèòåëüíèöà;;x
+tribal_duke_female_west_african;Farba;;;;;;;;;;;Ôàðáà;;x
+tribal_duke_frisian;High Chief;;;;;;;;;;;Âåðõîâíûé âîæäü;;x
+tribal_duke_indo_aryan_group;Raja;;;;;;;;;;;Ðàäæà;;x
+tribal_duke_norse;Jarl;;;;;;;;;;;ßðë;;x
+tribal_duke_saxon;High Chief;;;;;;;;;;;Âåðõîâíûé âîæäü;;x
+tribal_duke_west_african;Farbas;;;;;;;;;;;Ôàðáàñ;;x
+tribal_emperor_altaic;Khagan;;;;;;;;;;;Êàãàí;;x
+tribal_emperor_arabic;Badshah;;;;;;;;;;;Ñóëòàí;;x
+tribal_emperor_dravidian_group;Samrat;;;;;;;;;;;Ñàìðàò;;x
+tribal_emperor_female;Empress;;;;;;;;;;;Èìïåðàòðèöà;;x
+tribal_emperor_female_altaic;Khatun;;;;;;;;;;;Êàòóí;;x
+tribal_emperor_female_dravidian_group;Samrajni;;;;;;;;;;;Ñàìðàíè;;x
+tribal_emperor_female_indo_aryan_group;Samrajni;;;;;;;;;;;Ñàìðàíè;;x
+tribal_emperor_female_russian;Tsaritsa;;;;;;;;;;;Öàðèöà;;x
+tribal_emperor_indo_aryan_group;Samrat;;;;;;;;;;;Ñàìðàò;;x
+tribal_emperor_russian;Tsar;;;;;;;;;;;Öàðü;;x
+tribal_empire_altaic;Khaganate;;;;;;;;;;;Êàãàíàò;;x
+tribal_empire_of_altaic;Khaganate of;;;;;;;;;;;Êàãàíàò;;x
+tribal_empire_russian;Tsardom;;;;;;;;;;;Öàðñòâî;;x
+tribal_king_altaic;Khan;;;;;;;;;;;Õàí;;x
+tribal_king_arabic;Sultan;;;;;;;;;;;Ìàëèê;;x
+tribal_king_central_african;Mai;;;;;;;;;;;Ìàè;;x
+tribal_king_dravidian_group;Maharaja;;;;;;;;;;;Ìàãàðàäæà;;x
+tribal_king_female;Queen;;;;;;;;;;;Êîðîëåâà;;x
+tribal_king_female_altaic;Khanum;;;;;;;;;;;Õàòóí;;x
+tribal_king_female_arabic;Sultana;;;;;;;;;;;Ìàëèêà;;x
+tribal_king_female_dravidian_group;Maharani;;;;;;;;;;;Ìàãàðàíè;;x
+tribal_king_female_hungarian;Grand Princess;;;;;;;;;;;Âåëèêàÿ êíÿãèíÿ;;x
+tribal_king_female_indo_aryan_group;Maharani;;;;;;;;;;;Ìàõàðàíè;;x
+tribal_king_female_saxon;Grand Chieftess;;;;;;;;;;;Ïðåäâîäèòåëüíèöà;;x
+tribal_king_hungarian;Grand Prince;;;;;;;;;;;Âåëèêèé êíÿçü;;x
+tribal_king_indo_aryan_group;Maharaja;;;;;;;;;;;Ìàõàðàäæà;;x
+tribal_king_saxon;Grand Chief;;;;;;;;;;;Âåëèêèé âîæäü;;x
+tribal_king_west_african;Mansa;;;;;;;;;;;Òóíêà;;x
+tribal_kingdom_altaic;Khanate;;;;;;;;;;;Õàíñòâî;;x
+tribal_kingdom_arabic;Sultanate;;;;;;;;;;;Ìàëèêñòâî;;x
+tribal_kingdom_of_altaic;Khanate of;;;;;;;;;;;Õàíñòâî;;x
+tribal_kingdom_of_arabic;Sultanate of;;;;;;;;;;;Ìàëèêñòâî;;x
+tribal_kingdom_of_hungarian;Principality of;;;;;;;;;;;Âåëèêîå êíÿæåñòâî;;x
+tribal_kingdom_of_saxon;Grand Chiefdom of;;;;;;;;;;;Âåëèêîå âîæäåñòâî;;x
+tribal_kingdom_saxon;Grand Chiefdom;;;;;;;;;;;Âåëèêîå âîæäåñòâî;;x
+vice_royalty_baron;Baron Viceroy;;;;;;;;;;;Âèöå-áàðîí;;x
+vice_royalty_baron_female;Baron Vicereine;;;;;;;;;;;Âèöå-áàðîíåññà;;x
+vice_royalty_barony_of;Viceroyal Barony of;;;;;;;;;;;Âèöå-áàðîíñòâî;;x
+vice_royalty_count;Count Viceroy;;;;;;;;;;;Âèöå-ãðàô;;x
+vice_royalty_count_female;Count Vicereine;;;;;;;;;;;Âèöå-ãðàôèíÿ;;x
+vice_royalty_county_of;Viceroyal County of;;;;;;;;;;;Âèöå-ãðàôñòâî;;x
+vice_royalty_duchy_of;Minor Viceroyalty of;;;;;;;;;;;Ìàëîå âèöå-êîðîëåâñòâî;;x
+vice_royalty_duchy_of_byzantine;Theme of;;;;;;;;;;;Ôåìà;;x
+vice_royalty_duchy_of_roman;Province of;;;;;;;;;;;Ïðîâèíöèÿ;;x
+vice_royalty_duke;Minor Viceroy;;;;;;;;;;;Âèöå-ãåðöîã;;x
+vice_royalty_duke_byzantine;Strategos;;;;;;;;;;;Ñòðàòåã;;x
+vice_royalty_duke_female;Minor Vicereine;;;;;;;;;;;Âèöå-ãåðöîãèíÿ;;x
+vice_royalty_duke_female_byzantine;Strategitissa;;;;;;;;;;;Ñòðàòåãèòèññà;;x
+vice_royalty_duke_female_roman;Governess;;;;;;;;;;;Ãóáåðíàòîð;;x
+vice_royalty_duke_roman;Governor;;;;;;;;;;;Ãóáåðíàòîð;;x
+vice_royalty_emperor;Grand Viceroy;;;;;;;;;;;Âèöå-èìïåðàòîð;;x
+vice_royalty_emperor_byzantine;Grand Exarch;;;;;;;;;;;Âåëèêèé ýêçàðõ;;x
+vice_royalty_emperor_female;Grand Vicereine;;;;;;;;;;;Âèöå-èìïåðàòðèöà;;x
+vice_royalty_emperor_female_roman;Princess;;;;;;;;;;;Ïðèíöåññà;;x
+vice_royalty_emperor_roman;Princeps;;;;;;;;;;;Ïðèíöåïñ;;x
+vice_royalty_empire_of;Grand Viceroyalty of;;;;;;;;;;;Âåëèêîå âèöå-êîðîëåâñòâî;;x
+vice_royalty_empire_of_byzantine;Grand Exarchate of;;;;;;;;;;;Âåëèêèé ýêçàðõàò;;x
+vice_royalty_empire_of_roman;Principate of;;;;;;;;;;;Ïðèíöèïàò;;x
+vice_royalty_king;Viceroy;;;;;;;;;;;Âèöå-êîðîëü;;x
+vice_royalty_king_byzantine;Exarch;;;;;;;;;;;Ýêçàðõ;;x
+vice_royalty_king_female;Vicereine;;;;;;;;;;;Âèöå-êîðîëåâà;;x
+vice_royalty_king_female_byzantine;Exarchessa;;;;;;;;;;;Ýêçàðõåññà;;x
+vice_royalty_king_female_roman;Proconsula;;;;;;;;;;;Ïðîêîíñóëà;;x
+vice_royalty_king_roman;Proconsul;;;;;;;;;;;Ïðîêîíñóë;;x
+vice_royalty_kingdom_of;Viceroyalty of;;;;;;;;;;;Âèöå-êîðîëåâñòâî;;x
+vice_royalty_kingdom_of_byzantine;Exarchate of;;;;;;;;;;;Ýêçàðõàò;;x
+vice_royalty_kingdom_of_roman;Proconsulate of;;;;;;;;;;;Ïðîêîíñóëàò;;x
+baron;Baron;;;;;;;;;;;Áàðîí;;x
+barony;Barony;;;;;;;;;;;Áàðîíñòâî;;x
+barony_of;Barony of;;;;;;;;;;;Áàðîíñòâî;;x
+baronies;Baronies;;;;;;;;;;;Áàðîíñòâà;;x
+count;Count;;;;;;;;;;;Ãðàô;;x
+county;County;;;;;;;;;;;Ãðàôñòâî;;x
+county_of;County of;;;;;;;;;;;Ãðàôñòâî;;x
+counties;Counties;;;;;;;;;;;Ãðàôñòâà;;x
+duke;Duke;;;;;;;;;;;Ãåðöîã;;x
+duchy;Duchy;;;;;;;;;;;Ãåðöîãñòâî;;x
+duchy_of;Duchy of;;;;;;;;;;;Ãåðöîãñòâî;;x
+duchies;Duchies;;;;;;;;;;;Ãåðöîãñòâà;;x
+emperor;Emperor;;;;;;;;;;;Èìïåðàòîð;;x
+empire;Empire;;;;;;;;;;;Èìïåðèÿ;;x
+empire_of;Empire of;;;;;;;;;;;Èìïåðèÿ;;x
+empires;Empires;;;;;;;;;;;Èìïåðèè;;x
+king;King;;;;;;;;;;;Êîðîëü;;x
+kingdom;Kingdom;;;;;;;;;;;Êîðîëåâñòâî;;x
+kingdom_of;Kingdom of;;;;;;;;;;;Êîðîëåâñòâî;;x
+kingdoms;Kingdoms;;;;;;;;;;;Êîðîëåâñòâà;;x
+baron_foa;My Lord;;;;;;;;;;;Âàøå Áëàãîðîäèå;;x
+baron_foa_female;My Lady;;;;;;;;;;;Âàøå Áëàãîðîäèå;;x
+city_baron_foa;Your honor;;;;;;;;;;;Âàøà ×åñòü;;x
+city_count_foa;Your honor;;;;;;;;;;;Âàøà ×åñòü;;x
+city_duke_foa;Your Grace;;;;;;;;;;;Âàøà Ìèëîñòü;;x
+city_emperor_foa;Your Highness;;;;;;;;;;;Âàøå Âûñî÷åñòâî;;x
+city_king_foa;Your Serene Grace;;;;;;;;;;;Âàøà Ìèëîñòü;;x
+count_foa;My Lord;;;;;;;;;;;Âàøå Ñèÿòåëüñòâî;;x
+count_foa_female;My Lady;;;;;;;;;;;Âàøå Ñèÿòåëüñòâî;;x
+duke_foa;Your Grace;;;;;;;;;;;Âàøà Ìèëîñòü;;x
+emperor_foa;Your Imperial Majesty;;;;;;;;;;;Âàøå Âåëè÷åñòâî;;x
+family_palace_baron_foa;Sir;;;;;;;;;;;Äîñòîïî÷òåííûé ñýð;;x
+king_foa;Your Majesty;;;;;;;;;;;Âàøà Ìèëîñòü;;x
+order_baron_foa;My Lord;;;;;;;;;;;Ìèëîðä;;x
+order_baron_foa_female;My Lady;;;;;;;;;;;Ìèëåäè;;x
+order_count_foa;My Lord;;;;;;;;;;;Ìèëîðä;;x
+order_count_foa_female;My Lady;;;;;;;;;;;Ìèëåäè;;x
+order_duke_foa;My Lord;;;;;;;;;;;Ìèëîðä;;x
+order_duke_foa_female;My Lady;;;;;;;;;;;Ìèëåäè;;x
+order_emperor_foa;Your Highness;;;;;;;;;;;Âàøå Âûñî÷åñòâî;;x
+order_emperor_foa_female;Your Highness;;;;;;;;;;;Âàøå Âûñî÷åñòâî;;x
+order_king_foa;Your Grace;;;;;;;;;;;Âàøà Ìèëîñòü;;x
+order_king_foa_female;Your Grace;;;;;;;;;;;Âàøà Ìèëîñòü;;x
+temple_baron_foa;Your Excellency;;;;;;;;;;;Âàøå Ïðåâîñõîäèòåëüñòâî;;x
+temple_count_foa;Your Excellency;;;;;;;;;;;Âàøå Ïðåâîñõîäèòåëüñòâî;;x
+temple_duke_foa;Your Eminence;;;;;;;;;;;Âàøå Âûñîêîïðåîñâÿùåíñòâî;;x
+temple_king_foa;Your Holiness;;;;;;;;;;;Âàøå Ñâÿòåéøåñòâî;;x
 # Unused
-baron_deed;Crown of;;;;;;;;;;;;;x
-city_baron_deed;Crown of;;;;;;;;;;;;;x
-city_count_deed;Crown of;;;;;;;;;;;;;x
-city_duke_deed;Crown of;;;;;;;;;;;;;x
-city_emperor_deed;Crown of;;;;;;;;;;;;;x
-city_king_deed;Crown of;;;;;;;;;;;;;x
-count_deed;Crown of;;;;;;;;;;;;;x
-duke_deed;Crown of;;;;;;;;;;;;;x
-emperor_deed;Crown of;;;;;;;;;;;;;x
-family_palace_baron_deed;Chair of;;;;;;;;;;;;;x
-king_deed;Crown of;;;;;;;;;;;;;x
+baron_deed;Crown of;;;;;;;;;;;Êîðîíà;;x
+city_baron_deed;Crown of;;;;;;;;;;;Êîðîíà;;x
+city_count_deed;Crown of;;;;;;;;;;;Êîðîíà;;x
+city_duke_deed;Crown of;;;;;;;;;;;Êîðîíà;;x
+city_emperor_deed;Crown of;;;;;;;;;;;Êîðîíà;;x
+city_king_deed;Crown of;;;;;;;;;;;Êîðîíà;;x
+count_deed;Crown of;;;;;;;;;;;Êîðîíà;;x
+duke_deed;Crown of;;;;;;;;;;;Êîðîíà;;x
+emperor_deed;Crown of;;;;;;;;;;;Êîðîíà;;x
+family_palace_baron_deed;Chair of;;;;;;;;;;;Êðåñëî;;x
+king_deed;Crown of;;;;;;;;;;;Êîðîíà;;x

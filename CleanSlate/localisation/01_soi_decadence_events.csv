@@ -1,157 +1,149 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTTITLE91241;The Price of Decadence;;;;;;;;;;;;;x
-
-EVTDESC91000;The excesses of the [Root.GetOnlyDynastyName] Dynasty have gone too far. A dynamic warrior clan has taken up arms and is riding to purify the realm of our decadence!;;;;;;;;;;;;;x
-EVTDESC91200;Alcoholic beverages are considered haraam in the Islamic faith - forbidden. This, however, has not stopped you from consuming copious amounts of wine and getting plastered on a regular basis.;;;;;;;;;;;;;x
-EVTDESC91201;Your attraction to those of your same sex is frowned upon by the rest of society, but there are times when you simply grow tired of keeping up appearances. The people do not look kindly on this.;;;;;;;;;;;;;x
-EVTDESC91202;Some visiting imams walk in on you as your servants are busily smearing your body with honey, covering you from top to bottom. For some reason they react in horror at this sight.;;;;;;;;;;;;;x
-EVTDESC91203;It is becoming increasingly difficult to conceal your secret vice - impaling your enemies on wooden stakes and listening to their cries of despair. Concerns have been raised about how appropriate this behavior is for someone of your station.;;;;;;;;;;;;;x
-EVTDESC91204;Why should you settle for one woman, or two, or a dozen? The carnal pleasures of the flesh beckon, and let no man say you are undeserving!;;;;;;;;;;;;;x
-EVTDESC91205;Your enormous appetite cannot be sated. As the poor of your realm starve, your servants bring delicacies from the most distant lands to your table. A 'light lunch' for you would be enough to feed a peasant family for a week or two.;;;;;;;;;;;;;x
-EVTDESC91206;You have been doing your best to suck the people of [Root.Location.GetName] dry of what few possessions they have. No matter how much of their wealth is channeled your way, you always want more. The lifestyle you have grown accustomed to is an expensive one indeed.;;;;;;;;;;;;;x
-EVTDESC91207;The truly enlightened ruler must conserve all energy for the act of ruling itself. It is for this reason that you have expanded your staff of servants tenfold. Tedious activities such as walking, bringing food to your mouth or the wiping of your regal behind are a thing of the past for you.;;;;;;;;;;;;;x
-EVTDESC91208;More and more of your waking hours are being spent comparing your worldly possessions with those of other rulers. For someone of your same station to have a more lavish palace or prettier garments is simply unacceptable.;;;;;;;;;;;;;x
-EVTDESC91209;Your foul temper is frequently discussed in hushed voices among your palace staff. Furniture, silverware, mirrors - everything is fair game when your mood turns bad and you feel the need to break or throw something. If your palace was ever looted, would anyone be able to tell the difference?;;;;;;;;;;;;;x
-EVTDESC91210;You order the construction of a massive bronze statue over the main entrance of [Root.Location.GetName] depicting yourself holding a raised sword, challenging the very heavens to strike you down if they dare. This generous gift to the people will help them remember your splendor and brilliance.;;;;;;;;;;;;;x
-EVTDESC91211;Your deceitfulness and guile sometimes serve you well, but it has also earned you a reputation among your subjects as someone who is not to be trusted. They simply do not see you as a man of honor.;;;;;;;;;;;;;x
-EVTDESC91212;While there are some rulers who take an active role in military affairs, the safety of the palace life is far more appealing to you. Why, if you ventured beyond the palace gates, something could hurt you!;;;;;;;;;;;;;x
-EVTDESC91213;While there are always those who moan and mutter about the need to continually better oneself and strive for improvement, you are quite content with the way things are now. The land is yours to rule, you have a beautiful palace and the sun still shines warmly.;;;;;;;;;;;;;x
-EVTDESC91214;Justice and the rule of law do not interest you, unless they happen to coincide with your own sense of how things should be. Many of your subjects are grumbling about how you seem to hold yourself above the laws they have to observe.;;;;;;;;;;;;;x
-EVTDESC91215;Your cynical view of all religious matters has resulted in you only observing those elements of the Muslim faith you find convenient and ignoring the rest. Some of your subjects are muttering about this lack of piousness on your part.;;;;;;;;;;;;;x
-EVTDESC91216;You suspect everyone around you of treachery, to the point where your servants and staff are terrified of even breathing in your presence. The size and influence of your palace guard has increased tenfold as everything, good or bad, has to pass through them before reaching you.;;;;;;;;;;;;;x
-EVTDESC91217;You take great pleasure in inflicting cruel punishments on your servants and subjects. If there is no reason to punish them, you find it easy enough to invent one.;;;;;;;;;;;;;x
-EVTDESC91218;You always seem to be thinking several steps ahead of the people near you. There are few people alive who can match your mental prowess, and when your intellect is focused on a single problem, people know a solution will be found.;;;;;;;;;;;;;x
-EVTDESC91219;Your decision to put aside your carnal desires and lead a life of celibacy is applauded by the people, either because they admire your sacrifice or because they are relieved you are less likely to procreate.;;;;;;;;;;;;;x
-EVTDESC91220;As a dedicated scholar, you have gained many valuable insights from all the tomes you have studied. From the Quran to ancient treatises on farming techniques and history, there is great wisdom to be found in all.;;;;;;;;;;;;;x
-EVTDESC91221;Your chaste and virtuous lifestyle is held as an example even far beyond the borders of those lands belonging to you. If only all men lived thus.;;;;;;;;;;;;;x
-EVTDESC91222;Where other rulers often abuse their positions and give in to excess, you have always valued moderation in all things. This quality is admired by the people you rule.;;;;;;;;;;;;;x
-EVTDESC91223;You are always ready to give to those less fortunate than yourself, and when a rockslide destroyed the homes of several poor families in [Root.Location.GetName], you offered them temporary lodgings in your palace.;;;;;;;;;;;;;x
-EVTDESC91224;Your tireless and diligent work as their ruler has not gone unnoticed by your people. Some have dubbed you 'He Who Appears Everywhere' and claim you possess supernatural powers to exist in more than one place at once.;;;;;;;;;;;;;x
-EVTDESC91225;You have become renowned for your kind rule, and your people love you for it. There are those who would call you soft, but even they are impressed by the devotion your subjects show you.;;;;;;;;;;;;;x
-EVTDESC91226;Your ability to plan for the long-term and see the big picture has served you well as a ruler. Future generations will thank you for the work you do today!;;;;;;;;;;;;;x
-EVTDESC91227;You always strive to be humble, never forgetting the roots of yourself and your ancestors. There are many lessons from the past that must still be heeded today.;;;;;;;;;;;;;x
-EVTDESC91228;Your honest nature and tendency to speak what is on your mind has ruffled a few feathers in the past, but it has also earned you great respect. People know that your words ring true.;;;;;;;;;;;;;x
-EVTDESC91229;Your enemies would accuse you of many things, but not even they would label you a coward. It is well known that you are fearless and always willing to share the dangers faced by your men.;;;;;;;;;;;;;x
-EVTDESC91230;You are an ambitious man, always striving to improve and do better. The people know this, and though some of your decisions may be unpopular, they are usually at least seen as progressive.;;;;;;;;;;;;;x
-EVTDESC91231;Just and fair in all things, your people rest easy in the knowledge that no matter what, you can always be depended on to observe the rule of law.;;;;;;;;;;;;;x
-EVTDESC91232;No one can question your devotion to Allah and the teachings of his Prophet (peace be upon him). You can always be counted on to put your faith ahead of yourself.;;;;;;;;;;;;;x
-EVTDESC91233;You have proven your devotion to Allah (may He be glorified and exalted) by making war against the enemies of Islam. As one of the mujahideen, you are acknowledged to have fought in a Jihad.;;;;;;;;;;;;;x
-EVTDESC91234;You have completely memorized the Quran, an accomplishment that not only shows your devotion to Allah (glorified and exalted be He), but which has also won you great respect as a ruler.;;;;;;;;;;;;;x
-EVTDESC91235;It is a well known fact that you have completed the Hajj and thus shown your submission and devotion to Allah (may He be glorified and exalted). Whatever else they may say about you, no one can take this away.;;;;;;;;;;;;;x
-EVTDESC91240;After a brutal civil war, the decadent dynasty of my former liege has finally been overthrown by the [Root.Liege.GetOnlyDynastyName] clan. In the transitional chaos, I could probably get away with a declaration of independence...;;;;;;;;;;;;;x
-EVTDESC91241;The ruling dynasty of [FromFrom.PrimaryTitle.GetName] has been overthrown by the zealous and hard-living tribesmen of the [From.GetOnlyDynastyName] dynasty. Their decadent [FromFrom.PrimaryTitle.GetTier] has been toppled, freeing any vassals from their bondage to the unworthy [FromFrom.GetTitle]. With the [FromFrom.PrimaryTitle.GetTier] gone, time will tell if a worthy dynasty will be up to the task of restoring authority to the region.;;;;;;;;;;;;;x
-EVTDESC91300;I had the spice merchant beaten for the contemptuous look he gave me. Apparently, there are many who think I have grown soft and decadent, lost to vices and indulging in haram!;;;;;;;;;;;;;x
-EVTDESC91350;My [GetFromFromRelation] [FromFrom.GetBestName] has let me know that my sinful living shames the entire dynasty. [FromFrom.GetSubjectPronounCap] is exerting [FromFrom.GetPossPronoun] influence to shield House [Root.GetDynName], but strongly urges me to seek guidance in the perfect example set by the Prophet (peace be upon him.);;;;;;;;;;;;;x
-EVTDESC91351;My decadent [GetFromRelation] [From.GetBestName] refuses to change [From.GetPossPronoun] sinful ways. I can declare [From.GetObjectPronoun] a kafir, which will give me a reason to imprison the degenerate... unless there is another way to get through to [From.GetObjectPronoun].;;;;;;;;;;;;;x
-EVTDESC91352;My [GetFromRelation] [From.GetBestName] understands that [From.GetSubjectPronoun] is living a life of haram, and has ensured me that [From.GetSubjectPronoun] is committed to changing [From.GetPossPronoun] ways.;;;;;;;;;;;;;x
-EVTDESC91355;My [GetFromRelation] [From.GetTitledFirstName] just will not give up. [From.GetSubjectPronounCap] makes some most persuasive arguments about why I need to overcome my forbidden, haram, desires. For the sake of my soul, my dynasty and my religion, I need to repent.;;;;;;;;;;;;;x
-EVTDESC91356;I just cannot get through to my wastrel [GetFromRelation] [From.GetFirstName]! [From.GetSubjectPronounCap] is simply too weak and obstinate.;;;;;;;;;;;;;x
-EVTDESC91357;My [GetFromRelation] [From.GetBestName] understands that [From.GetSubjectPronoun] is living a life of haram, and has ensured me that [From.GetSubjectPronoun] is committed to changing [From.GetPossPronoun] ways.;;;;;;;;;;;;;x
-EVTDESC91360;My [GetFromRelation] [From.GetTitledFirstName] is back to persuade my to abandon my forbidden, haram, desires. [From.GetSubjectPronounCap] quotes the Koran and the Hadiths like a mufti and threatens me with the fires of Jehennom in the afterlife...;;;;;;;;;;;;;x
-EVTDESC91361;My [GetFromRelation] [From.GetTitledFirstName] was moved to tears by my fiery exhortations. [From.GetSubjectPronounCap] will join a holy order in order to serve Allah best!;;;;;;;;;;;;;x
-EVTDESC91362;My [GetFromRelation] [From.GetTitledFirstName] was moved to tears by my fiery exhortations and left immediately for the holy pilgrimage to Mecca - the Hajj.;;;;;;;;;;;;;x
-EVTDESC91363;My [GetFromRelation] [From.GetTitledFirstName] was shaken by the strength of my pious arguments and promised to reform [From.GetPossPronoun] ways, starting with a generous donation to charity.;;;;;;;;;;;;;x
-EVTDESC91365;I woke up to a dreadful stench and found my room full of the rotting carcasses of dogs and pigs. As I staggered out through the door, a shadowy figure crept up from behind and held a knife to my throat, whispering 'This is what your life is like. Imagine your death...' before disappearing without a trace!;;;;;;;;;;;;;x
-EVTDESC91366;I arranged a very unpleasant 'awakening' for my decadent [GetFromRelation] [From.GetTitledFirstName], but [From.GetSubjectPronoun] remains stubbornly committed to [From.GetPossPronoun] hedonism, bringing shame on our House.;;;;;;;;;;;;;x
-EVTDESC91367;The little nightmare I staged seems to have worked on my decadent [GetFromRelation] [From.GetTitledFirstName], who is scared witless and has promised to renounce [From.GetPossPronoun] shameful hedonism!;;;;;;;;;;;;;x
-EVTDESC91368;It seems the nighttime show I put on for my decadent [GetFromRelation] [From.GetTitledFirstName] was a little too much. [From.GetSubjectPronounCap] chose to jump from a tower rather than live a righteous life as a true Muslim!;;;;;;;;;;;;;x
-EVTDESC91369;[From.GetBestName] has failed in [From.GetPossPronoun] attempts to get the decadent [FromFrom.GetBestName] to straighten up. He is a kafir and can be imprisoned freely by all rulers of our shamed dynasty.;;;;;;;;;;;;;x
-EVTDESC91370;Your [GetFromRelation], [From.GetBestName], has become Decadent, bringing shame to the House of [Root.GetOnlyDynastyName]!;;;;;;;;;;;;;x
-EVTDESC91372;My agents have brought me a message from [From.GetTitledFirstName], who still refuses my demands that [From.GetSheHe] straighten up! [From.GetSheHeCap] offered to give me a strong eunuch of great martial ability as a gift if I allow [From.GetHerHim] to persist in [From.GetHerHis] decadence.;;;;;;;;;;;;;x
-EVTDESC91373;[From.GetTitledFirstName] talked to me about how [From.GetSheHe] has chosen to live [From.GetHerHis] own life. [From.GetSubjectPronounCap] tried to explain to me me that what I have viewed as decadence was merely a different way of honoring [From.Religion.GetRandomGodName]'s will. [From.GetSheHeCap] also offered to make a religious donation in my name as a gesture of friendship.;;;;;;;;;;;;;x
-EVTDESC91374;[From.GetTitledFirstName] came to my chambers and whispered pretty words in my ear. [Root.Spouse.GetTitledFirstName] insists that [From.GetSheHe] ought to be thrown in jail due to [From.GetHerHis] decadent ways, but [From.GetTitledFirstName] now seems to be very different from what I had heard.;;;;;;;;;;;;;x
-EVTDESC91375;My spouse is upset about what [From.GetSheHe] refers to as my unnecessarily harsh attitude towards [FromFrom.GetTitledFirstName] and [FromFrom.GetHerHis] decadent ways, and asks me to leave [FromFrom.GetHerHim] alone.;;;;;;;;;;;;;x
-EVTDESC91376;My spouse came to me with shocking news. Apparently [FromFrom.GetTitledFirstName] has tried to seduce my beloved [From.GetHusbandWife] and turn [From.GetHerHim] against me.;;;;;;;;;;;;;x
-EVTDESC_91377;My husband, [From.GetName], has in a sudden fit of religious piety gone off to join the [From.Liege.PrimaryTitle.GetName]. This effectively annuls our marriage...;;;;;;;;;;;;;x
-EVTDESC_91378;My [GetFromRelation] [From.GetTitledFirstName] is not happy with my refusal, but why should I care? Although now [From.GetSheHe] reminds me of the favor I owe [From.GetHerHim]...;;;;;;;;;;;;;x
-EVTDESC_91379;Finally my [GetFromRelation] [From.GetTitledFirstName] has decided to listen to reason. [From.GetSheHeCap] will not live a life of vice any longer!;;;;;;;;;;;;;x
-
-EVTOPTA91000;Allah be Merciful!;;;;;;;;;;;;;x
-EVTOPTA91200;*hic*;;;;;;;;;;;;;x
-EVTOPTA91201;Let them say what they want!;;;;;;;;;;;;;x
-EVTOPTA91202;What? I left enough for tomorrow's breakfast.;;;;;;;;;;;;;x
-EVTOPTA91203;You will not rob me of the one thing I enjoy in life!;;;;;;;;;;;;;x
-EVTOPTA91204;Come here, my pretty...;;;;;;;;;;;;;x
-EVTOPTA91205;Let me just remove my belt...;;;;;;;;;;;;;x
-EVTOPTA91206;It is my right.;;;;;;;;;;;;;x
-EVTOPTA91207;Ah, yes...;;;;;;;;;;;;;x
-EVTOPTA91208;I deserve only the very best.;;;;;;;;;;;;;x
-EVTOPTA91209;It can all be replaced.;;;;;;;;;;;;;x
-EVTOPTA91210;They should be thankful I am their ruler.;;;;;;;;;;;;;x
-EVTOPTA91211;Honour is a weakness I cannot afford.;;;;;;;;;;;;;x
-EVTOPTA91212;Guards, I don't like the way that child looked at me...;;;;;;;;;;;;;x
-EVTOPTA91213;There is not a single thing I would change.;;;;;;;;;;;;;x
-EVTOPTA91214;I AM the law.;;;;;;;;;;;;;x
-EVTOPTA91215;Oh, let them mutter.;;;;;;;;;;;;;x
-EVTOPTA91216;They will not catch me unawares.;;;;;;;;;;;;;x
-EVTOPTA91217;I will teach you not to blink so much in my presence...;;;;;;;;;;;;;x
-EVTOPTA91218;Allah (glorified and exalted be He) does not play dice.;;;;;;;;;;;;;x
-EVTOPTA91219;I did it for you!;;;;;;;;;;;;;x
-EVTOPTA91220;There is so much to learn.;;;;;;;;;;;;;x
-EVTOPTA91221;The world would be a better place.;;;;;;;;;;;;;x
-EVTOPTA91222;Indulgence leads to weakness.;;;;;;;;;;;;;x
-EVTOPTA91223;Every day the sun rises, charity is due on every joint of a person.;;;;;;;;;;;;;x
-EVTOPTA91224;I have never been afraid of a little hard work.;;;;;;;;;;;;;x
-EVTOPTA91225;The carrot, not the stick.;;;;;;;;;;;;;x
-EVTOPTA91226;Great things come to those who wait.;;;;;;;;;;;;;x
-EVTOPTA91227;I will not forget.;;;;;;;;;;;;;x
-EVTOPTA91228;The truth is the truth.;;;;;;;;;;;;;x
-EVTOPTA91229;Never give in to fear.;;;;;;;;;;;;;x
-EVTOPTA91230;Why settle for mediocrity?;;;;;;;;;;;;;x
-EVTOPTA91231;Law should govern.;;;;;;;;;;;;;x
-EVTOPTA91232;Laa ilaha ilallah!;;;;;;;;;;;;;x
-EVTOPTA91233;The best jihad is the one in which your horse is slain and your blood is spilled.;;;;;;;;;;;;;x
-EVTOPTA91234;It was not easy.;;;;;;;;;;;;;x
-EVTOPTA91235;It was my duty.;;;;;;;;;;;;;x
-EVTOPTA91240;Stay Loyal;;;;;;;;;;;;;x
-EVTOPTA91241;Bloated fools...;;;;;;;;;;;;;x
-EVTOPTA91300;Bah! Minstrel, play another song!;;;;;;;;;;;;;x
-EVTOPTA91350;How rude! My life is my own.;;;;;;;;;;;;;x
-EVTOPTA91351;Invoke Takfir against [From.GetObjectPronoun]!;;;;;;;;;;;;;x
-EVTOPTA91352;Good, House [Root.GetDynName] must stay pure!;;;;;;;;;;;;;x
-EVTOPTA91355;I know I am weak. Too weak!;;;;;;;;;;;;;x
-EVTOPTA91360;Do I look like a believer?;;;;;;;;;;;;;x
-EVTOPTA91361;[From.GetSubjectPronounCap] makes me proud!;;;;;;;;;;;;;x
-EVTOPTA91362;A pious choice!;;;;;;;;;;;;;x
-EVTOPTA91363;There is hope for [From.GetObjectPronoun] yet!;;;;;;;;;;;;;x
-EVTOPTA91365;[From.GetTitledFirstName] cannot scare me with theatrics!;;;;;;;;;;;;;x
-EVTOPTA91368;Shameful! Good riddance.;;;;;;;;;;;;;x
-EVTOPTA91369;A shoe on his head!;;;;;;;;;;;;;x
-EVTOPTA91370;The ingrate!;;;;;;;;;;;;;x
-EVTOPTA91372;I could surely use such a eunuch!;;;;;;;;;;;;;x
-EVTOPTA91373;Such a donation would surely please [From.Religion.GetRandomGodName].;;;;;;;;;;;;;x
-EVTOPTA91374;I have fallen in love!;;;;;;;;;;;;;x
-EVTOPTA91375;Everything for you, my love.;;;;;;;;;;;;;x
-EVTOPTA91378;I guess I have no choice. I will try to please [From.GetTitledFirstName].;;;;;;;;;;;;;x
-EVTOPTA91379;[Root.Religion.GetHighGodName] must surely be pleased.;;;;;;;;;;;;;x
-
-EVTOPTB91240;Freedom!;;;;;;;;;;;;;x
-EVTOPTB91350;I will try, with the help of [Root.Religion.GetRandomGodName]!;;;;;;;;;;;;;x
-EVTOPTB91351;I am a better negotiator than this!;;;;;;;;;;;;;x
-EVTOPTB91355;Though it's hard, I shall walk the narrow path.;;;;;;;;;;;;;x
-EVTOPTB91360;I must join the Bektashi!;;;;;;;;;;;;;x
-EVTOPTB91365;Maybe I had better shape up...;;;;;;;;;;;;;x
-EVTOPTB91374;This is clearly just an act!;;;;;;;;;;;;;x
-
-EVTOPTC91351;I must save [From.GetPossPronoun] soul from the fires of Jahannam!;;;;;;;;;;;;;x
-EVTOPTC91355;Maybe I can appeal to [From.GetHerHis] greedy side...;;;;;;;;;;;;;x
-EVTOPTC91360;I must join the Hashshashin!;;;;;;;;;;;;;x
-EVTOPTC91365;This is just too much. Life is not worth living!;;;;;;;;;;;;;x
-
-EVTOPTD91351;Time to get... unconventional.;;;;;;;;;;;;;x
-EVTOPTD91355;[Root.Religion.GetRandomGodName] will be pleased if I donate some gold.;;;;;;;;;;;;;x
-EVTOPTD91360;I must go on the Hajj to Mecca!;;;;;;;;;;;;;x
-
-EVTOPTE91351;It is time to call in that favor.;;;;;;;;;;;;;x
-EVTOPTE91351_TOOLTIP;Force §Y[This.GetTitledFirstName]§! to give up his vices.\n;;;;;;;;;;;;;x
-EVTOPTE91355;Maybe I can bring [From.GetHerHis] [From.Spouse.GetHusbandWife] over to my side.;;;;;;;;;;;;;x
-EVTOPTE91360;I will donate money to charity!;;;;;;;;;;;;;x
-
-EVTTOOLTIP91351;Tell [This.GetFirstName] to mind his own business!;;;;;;;;;;;;;x
-EVTTOOLTIP91352;Promise [This.GetFirstName] to lead a righteous life!;;;;;;;;;;;;;x
-EVTTOOLTIP91355;Make a better attempt at convincing [This.GetFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP91360;Present the best religious arguments to [This.GetFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP91365;Arrange for some nasty nighttime theatrics to scare [This.GetFirstName] in [From.GetPossPronoun] room;;;;;;;;;;;;;x
-EVTTOOLTIP91374A;[Root.Spouse.GetName] is asked to leave [From.GetName] alone.;;;;;;;;;;;;;x
-EVTTOOLTIP91374B;[Root.Spouse.GetName] is informed about [From.GetName]s plans..;;;;;;;;;;;;;x
+EVTTITLE91241;The Price of Decadence;;;;;;;;;;;Tàêîâà öåíà óïàäêà;;x
+EVTDESC91000;The excesses of the [Root.GetOnlyDynastyName] Dynasty have gone too far. A dynamic warrior clan has taken up arms and is riding to purify the realm of our decadence!;;;;;;;;;;;Ïîðî÷íîñòü äèíàñòèè [Root.GetOnlyDynastyName] çàøëà ñëèøêîì äàëåêî! Ðàçâèâàþùèéñÿ êëàí âîèíîâ âçÿëñÿ çà îðóæèå è óæå ñêà÷åò, ÷òîáû îñâîáîäèòü öàðñòâî îò Âàøåãî óïàäêà!;;x
+EVTDESC91200;Alcoholic beverages are considered haraam in the Islamic faith - forbidden. This, however, has not stopped you from consuming copious amounts of wine and getting plastered on a regular basis.;;;;;;;;;;;Ñïèðòíûå íàïèòêè â Èñëàìå ñ÷èòàþòñÿ õàðàìîì, òî åñòü çàïðåù¸ííûìè. Êàê áû òî íè áûëî, ýòî íå îñòàíîâèëî Âàñ îò îáèëüíîãî óïîòðåáëåíèÿ âèíà è ðåãóëÿðíîãî ïüÿíñòâà.;;x
+EVTDESC91201;Your attraction to those of your same sex is frowned upon by the rest of society, but there are times when you simply grow tired of keeping up appearances. The people do not look kindly on this.;;;;;;;;;;;Âàøå âëå÷åíèå ê ñâîåìó æå ïîëó îñóæäàåòñÿ îáùåñòâîì, íî áûâàþò ìîìåíòû, êîãäà Âû ïðîñòî óñòà¸òå ñîáëþäàòü ïðèëè÷èÿ. Ëþäè ñìîòðÿò íà ýòî íåîäîáðèòåëüíî.;;x
+EVTDESC91202;Some visiting imams walk in on you as your servants are busily smearing your body with honey, covering you from top to bottom. For some reason they react in horror at this sight.;;;;;;;;;;;Â îäèí èç âèçèòîâ èìàìû çàøëè ê Âàì áåç ïðèãëàøåíèÿ, êîãäà ñëóãè ïîêðûâàëè Âàñ ì¸äîì ñ ãîëîâû äî ïÿò. Ïî êàêîé-òî ïðè÷èíå îíè ïðèøëè â óæàñ îò ýòîãî çðåëèùà.;;x
+EVTDESC91203;It is becoming increasingly difficult to conceal your secret vice - impaling your enemies on wooden stakes and listening to their cries of despair. Concerns have been raised about how appropriate this behavior is for someone of your station.;;;;;;;;;;;Ñòàíîâèòñÿ âñ¸ òðóäíåå ñêðûâàòü Âàø òàéíûé ïîðîê - íàñàæèâàòü âðàãîâ íà äåðåâÿííûé êîë è ñëóøàòü èõ îò÷àÿííûå êðèêè. Ðàñò¸ò áåñïîêîéñòâî ïî ïîâîäó òîãî, íàñêîëüêî ñîîòâåòñòâóåò òàêîå ïîâåäåíèå ÷åëîâåêó Âàøåãî ïîëîæåíèÿ.;;x
+EVTDESC91204;Why should you settle for one woman, or two, or a dozen? The carnal pleasures of the flesh beckon, and let no man say you are undeserving!;;;;;;;;;;;Ïî÷åìó Âû äîëæíû îãðàíè÷èâàòüñÿ îäíîé æåíùèíîé, èëè äâóìÿ, èëè äþæèíîé? Ïëîòñêèå óòåõè âëåêóò Âàñ, è ïóñòü íèêòî íå ñêàæåò, ÷òî Âû ýòîãî íå çàñëóæèâàåòå!;;x
+EVTDESC91205;Your enormous appetite cannot be sated. As the poor of your realm starve, your servants bring delicacies from the most distant lands to your table. A 'light lunch' for you would be enough to feed a peasant family for a week or two.;;;;;;;;;;;"Âàø ãèãàíòñêèé àïïåòèò íåâîçìîæíî íàñûòèòü. Â òî âðåìÿ êàê áåäíÿêè â Âàøåé ñòðàíå ãîëîäàþò, Âàøè ñëóãè äîñòàâëÿþò ê Âàøåìó ñòîëó äåëèêàòåñû èç ñàìûõ äàë¸êèõ ñòðàí. Âàø ""Ë¸ãêèé çàâòðàê"" ìîã áû íàêîðìèòü êðåñòüÿíñêóþ ñåìüþ íà íåäåëþ èëè äâå.";;x
+EVTDESC91206;You have been doing your best to suck the people of [Root.Location.GetName] dry of what few possessions they have. No matter how much of their wealth is channeled your way, you always want more. The lifestyle you have grown accustomed to is an expensive one indeed.;;;;;;;;;;;Âû ñäåëàëè âñ¸ âîçìîæíîå, ÷òîáû âûñîñàòü èç ëþäåé [Root.Location.County.GetAdjective]ñêîé çåìëè òî íåìíîãîå, ÷òî îíè èìåëè. Íåâàæíî ñêîëüêî èõ äåíåã ïîïàä¸ò â Âàøè êàðìàíû, Âû âñåãäà õîòèòå åù¸. Îáðàç æèçíè ê êîòîðîìó Âû ïðèâûêëè áåç ñîìíåíèÿ äîðîã.;;x
+EVTDESC91207;The truly enlightened ruler must conserve all energy for the act of ruling itself. It is for this reason that you have expanded your staff of servants tenfold. Tedious activities such as walking, bringing food to your mouth or the wiping of your regal behind are a thing of the past for you.;;;;;;;;;;;Ïî-íàñòîÿùåìó ïðîñâåù¸ííûé ïðàâèòåëü äîëæåí áåðå÷ü ñèëû äëÿ ñàìîãî ïðîöåññà ïðàâëåíèÿ. Ïî ýòîé ïðè÷èíå Âû ðàñøèðèëè êîëè÷åñòâî ñâîèõ ñëóã â äåñÿòü ðàç. Ñêó÷íûå äåéñòâèÿ âðîäå õîäüáû, ïîäíåñåíèÿ ëîæêè êî ðòó è ïîäòèðàíèÿ Âàøåãî öàðñòâåííîãî çàäà òåïåðü äëÿ Âàñ â ïðîøëîì.;;x
+EVTDESC91208;More and more of your waking hours are being spent comparing your worldly possessions with those of other rulers. For someone of your same station to have a more lavish palace or prettier garments is simply unacceptable.;;;;;;;;;;;Âû òðàòèòå âñ¸ áîëüøå è áîëüøå âðåìåíè ñðàâíèâàÿ Âàøè âëàäåíèÿ ñ âëàäåíèÿìè äðóãèõ ïðàâèòåëåé. Äëÿ êîãî-ëèáî èç Âàøèõ âëàäåíèé èìåòü áîëåå áîãàòûé äâîðåö èëè áîëåå êðàñèâûå îäåæäû ïðîñòî íåäîïóñòèìî.;;x
+EVTDESC91209;Your foul temper is frequently discussed in hushed voices among your palace staff. Furniture, silverware, mirrors - everything is fair game when your mood turns bad and you feel the need to break or throw something. If your palace was ever looted, would anyone be able to tell the difference?;;;;;;;;;;;Âàø äóðíîé íðàâ ÷àñòî ø¸ïîòîì îáñóæäàþò ñðåäè äâîðöîâîé ïðèñëóãè. Ìåáåëü, èçäåëèÿ èç ñåðåáðà, çåðêàëà - âñ¸ ýòî ëèøü áîëüøàÿ èãðà, êîãäà Âàøå íàñòðîåíèå ïîðòèòñÿ è Âû ÷óâñòâóåòå ïîòðåáíîñòü ñëîìàòü èëè âûáðîñèòü ÷òî-íèáóäü. Äàæå åñëè áû Âàø äâîðåö îãðàáèëè, çàìåòèë áû êòî-íèáóäü ðàçíèöó?;;x
+EVTDESC91210;You order the construction of a massive bronze statue over the main entrance of [Root.Location.GetName] depicting yourself holding a raised sword, challenging the very heavens to strike you down if they dare. This generous gift to the people will help them remember your splendor and brilliance.;;;;;;;;;;;Âû ïðèêàçàëè óñòàíîâèòü îãðîìíóþ áðîíçîâóþ ñòàòóþ ó âõîäà â ãîðîä [Root.Location.GetName], îíà èçîáðàæàåò Âàñ äåðæàùèì ïîäíÿòûé ìå÷, áðîñàþùåãî âûçîâ ñàìèì íåáåñàì. Åñëè îíè îñìåëÿòñÿ ïðèíÿòü åãî. Ýòîò ùåäðûé äàð ëþäÿì ïîìîæåò èì ïîìíèòü î Âàøåì áëåñêå è âåëèêîëåïèè.;;x
+EVTDESC91211;Your deceitfulness and guile sometimes serve you well, but it has also earned you a reputation among your subjects as someone who is not to be trusted. They simply do not see you as a man of honor.;;;;;;;;;;;Âàøà ñêëîííîñòü ê îáìàíó è õèòðîñòè âðåìåíàìè õîðîøà Âàì ñëóæèëà, íî òàêæå ïðèâåëà ê òîìó, ÷òî ñðåäè ïîääàííûõ Âû çàïîëó÷èëè ðåïóòàöèþ íåçàñëóæèâàþùåãî äîâåðèÿ ÷åëîâåêà. Îíè ïðîñòî íå âèäÿò â Âàñ ÷åñòíîãî ÷åëîâåêà.;;x
+EVTDESC91212;While there are some rulers who take an active role in military affairs, the safety of the palace life is far more appealing to you. Why, if you ventured beyond the palace gates, something could hurt you!;;;;;;;;;;;Ïóñòü è åñòü íåêîòîðûå ïðàâèòåëè, ïðèíèìàþùèå àêòèâíîå ó÷àñòèå â âîåííûõ ïîõîäàõ, áåçîïàñíàÿ æèçíü âî äâîðöå Âàì êóäà ìèëåå. Âåäü ñòîèò òîëüêî âûéòè çà äâîðöîâûå âîðîòà, òàê ñðàçó êòî-íèáóäü òåáÿ èçóâå÷èò!;;x
+EVTDESC91213;While there are always those who moan and mutter about the need to continually better oneself and strive for improvement, you are quite content with the way things are now. The land is yours to rule, you have a beautiful palace and the sun still shines warmly.;;;;;;;;;;;Õîòü è âñåãäà íàéäóòñÿ òå, êòî ñòîíóò è áîðìî÷óò î íåîáõîäèìîñòè áûòü ëó÷øå è ñòðåìèòüñÿ ê áîëüøåìó, Âû âïîëíå äîâîëüíû òåì, ÷òî ó Âàñ åñòü ñåé÷àñ. Çåìëè ïîä Âàøèì êîíòðîëåì, ó Âàñ ïðåêðàñíûé äâîðåö, à Ñîëíöå òàê ïðèÿòíî ñâåòèò.;;x
+EVTDESC91214;Justice and the rule of law do not interest you, unless they happen to coincide with your own sense of how things should be. Many of your subjects are grumbling about how you seem to hold yourself above the laws they have to observe.;;;;;;;;;;;Ïðàâîñóäèå è âåðõîâåíñòâî çàêîíà Âàì íåèíòåðåñíû, áûâàåò êîíå÷íî, ÷òî îíè ñîâïàäàþò ñ Âàøèì ÷óâñòâîì òîãî, êàê âñ¸ äîëæíî áûòü. Â Âàøåì îêðóæåíèè ìíîãèå âîð÷àò, ÷òî Âû äåðæèòå ñåáÿ âûøå çàêîíà, êîòîðûé îáÿçàíû ñîáëþäàòü.;;x
+EVTDESC91215;Your cynical view of all religious matters has resulted in you only observing those elements of the Muslim faith you find convenient and ignoring the rest. Some of your subjects are muttering about this lack of piousness on your part.;;;;;;;;;;;Âàøå öèíè÷íîå îòíîøåíèå êî âñåì ðåëèãèîçíûì âîïðîñàì ïðèâåëî ê òîìó, ÷òî Âû ñîáëþäàåòå ëèøü òå ýëåìåíòû ìóñóëüìàíñêîé âåðû, êîòîðûå íàõîäèòå óäîáíûìè, èãíîðèðóÿ îñòàëüíîå. Íåêîòîðûå èç Âàøåãî îêðóæåíèÿ ïîãîâàðèâàþò îá îòñóòñòâèè íàáîæíîñòè ñ Âàøåé ñòîðîíû.;;x
+EVTDESC91216;You suspect everyone around you of treachery, to the point where your servants and staff are terrified of even breathing in your presence. The size and influence of your palace guard has increased tenfold as everything, good or bad, has to pass through them before reaching you.;;;;;;;;;;;Âû ïîäîçðåâàåòå âñåõ âîêðóã â ïðåäàòåëüñòâå äî òàêîé ñòåïåíè, ÷òî Âàøè ñëóãè áîÿòñÿ äàæå äûøàòü â Âàøåì ïðèñóòñòâèè. ×èñëåííîñòü äâîðöîâîé ñòðàæè è å¸ ïîëíîìî÷èÿ âîçðîñëè äåñÿòèêðàòíî, ëþáîé, áóäü îí äîáðûì èëè çëûì, îáÿçàí ïðîéòè ÷åðåç íå¸, ïðåæäå ÷åì óâèäèò Âàñ.;;x
+EVTDESC91217;You take great pleasure in inflicting cruel punishments on your servants and subjects. If there is no reason to punish them, you find it easy enough to invent one.;;;;;;;;;;;Âû ñ áîëüøèì óäîâîëüñòâèåì æåñòîêî íàêàçûâàåòå Âàøèõ ñëóã è áëèçêèõ. Åñëè íèêàêîé ïðè÷èíû äëÿ íàêàçàíèÿ íåò, òî Âû ñ ë¸ãêîñòüþ å¸ âûäóìàåòå.;;x
+EVTDESC91218;You always seem to be thinking several steps ahead of the people near you. There are few people alive who can match your mental prowess, and when your intellect is focused on a single problem, people know a solution will be found.;;;;;;;;;;;Ïîõîæå, ÷òî Âû âñåãäà ïðîäóìûâàåòå âñ¸ íà íåñêîëüêî øàãîâ äàëüøå, ÷åì îñòàëüíûå ëþäè. Íà ñâåòå âñåãî íåñêîëüêî ÷åëîâåê ìîãóò ñðàâíèòüñÿ ñ Âàìè â óìñòâåííûõ ñïîñîáíîñòÿõ. Åñëè Âàø óì âçÿëñÿ çà êàêóþ-ëèáî ïðîáëåìó, ëþäè çíàþò, ÷òî ðåøåíèå áóäåò íàéäåíî.;;x
+EVTDESC91219;Your decision to put aside your carnal desires and lead a life of celibacy is applauded by the people, either because they admire your sacrifice or because they are relieved you are less likely to procreate.;;;;;;;;;;;Ëþäè àïëîäèðóþò Âàøåìó ðåøåíèþ çàáûòü ïðî ïëîòñêèå æåëàíèÿ è ñîáëþäàòü îáåò áåçáðà÷èÿ ëèáî ïîòîìó, ÷òî âîñõèùàþòñÿ Âàøåé æåðòâîé, ëèáî ïîòîìó, ÷òî îáëåã÷¸ííî âçäîõíóëè, îòòîãî ÷òî ó Âàñ ñêîðåå âñåãî íå áóäåò äåòåé.;;x
+EVTDESC91220;As a dedicated scholar, you have gained many valuable insights from all the tomes you have studied. From the Quran to ancient treatises on farming techniques and history, there is great wisdom to be found in all.;;;;;;;;;;;Êàê ïåäàíòè÷íûé ó÷¸íûé, Âû ïî÷åðïíóëè ìíîãî öåííûõ ñîâåòîâ èç âñåõ êíèã, ÷òî ïðî÷ëè. Îò Êîðàíà è äî àíòè÷íûõ òðàêòàòîâ ïî ìåòîäàì âåäåíèÿ ñåëüñêîãî õîçÿéñòâà è èñòîðèè, â íèõ ìîæíî íàéòè âåëèêóþ ìóäðîñòü âî âñ¸ì.;;x
+EVTDESC91221;Your chaste and virtuous lifestyle is held as an example even far beyond the borders of those lands belonging to you. If only all men lived thus.;;;;;;;;;;;Âàøà öåëîìóäðåííàÿ è äîáðîäåòåëüíàÿ æèçíü ñòàâèòüñÿ â ïðèìåð äàæå äàëåêî çà ïðåäåëàìè Âàøèõ çåìåëü. Åñëè áû âñå ëþäè æèëè ïîäîáíî Âàì.;;x
+EVTDESC91222;Where other rulers often abuse their positions and give in to excess, you have always valued moderation in all things. This quality is admired by the people you rule.;;;;;;;;;;;Â òî âðåìÿ, êîãäà äðóãèå ïðàâèòåëè íåðåäêî çëîóïîòðåáëÿþò ñâîèì ïîëîæåíèåì è ïðåäàþòñÿ èçëèøåñòâàì, Âû âñåãäà öåíèëè óìåðåííîñòü âî âñ¸ì. Ýòî êà÷åñòâî âûçûâàåò âîñõèùåíèå ó ëþäåé, êîòîðûìè Âû ïðàâèòå.;;x
+EVTDESC91223;You are always ready to give to those less fortunate than yourself, and when a rockslide destroyed the homes of several poor families in [Root.Location.GetName], you offered them temporary lodgings in your palace.;;;;;;;;;;;Âû âñåãäà ãîòîâû ïîìî÷ü òåì, êîìó ïîâåçëî ìåíüøå, ÷åì Âàì. Êîãäà îïîëçåíü ðàçðóøèë äîìà íåñêîëüêèõ áåäíûõ [Root.Location.County.GetAdjective]ñêèõ ñåìåé, Âû ïðåäëîæèëè èì âðåìåííî ïîæèòü â Âàøåì äâîðöå.;;x
+EVTDESC91224;Your tireless and diligent work as their ruler has not gone unnoticed by your people. Some have dubbed you 'He Who Appears Everywhere' and claim you possess supernatural powers to exist in more than one place at once.;;;;;;;;;;;"Âàø íåóòîìèìûé è äîáðîñîâåñòíûé òðóä ïðàâèòåëÿ íå îñòàëñÿ íåçàìå÷åí Âàøèì íàðîäîì. Êîå-êòî ïðîçâàë Âàñ ""Ò[Root.GetEtaEtot], êòî óñïåâàåò ïîâñþäó"", óòâåðæäàþò, ÷òî Âû îáëàäàåòå ñâåðõúåñòåñòâåííûìè ñïîñîáíîñòÿìè, è ìîæåòå áûòü â íåñêîëüêèõ ìåñòàõ îäíîâðåìåííî.";;x
+EVTDESC91225;You have become renowned for your kind rule, and your people love you for it. There are those who would call you soft, but even they are impressed by the devotion your subjects show you.;;;;;;;;;;;Âû ïðîñëàâèëèñü ñâîèì äîáðûì ïðàâëåíèåì, Âàø íàðîä ëþáèò Âàñ çà ýòî. Åñòü òå, êòî íàçâàë áû Âàñ ñëàá[Root.GetOyYm], íî è îíè íàõîäÿòñÿ ïîä âïå÷àòëåíèåì îò òîé ïðåäàííîñòè, ÷òî äåìîíñòðèðóþò Âàøè ïîääàííûå.;;x
+EVTDESC91226;Your ability to plan for the long-term and see the big picture has served you well as a ruler. Future generations will thank you for the work you do today!;;;;;;;;;;;Âàøà ñïîñîáíîñòü ïëàíèðîâàòü íà äîëãîñðî÷íóþ ïåðñïåêòèâó è âèäåòü îáùóþ êàðòèíó õîðîøî ñëóæèò Âàì, êàê ïðàâèòåëþ. Áóäóùèå ïîêîëåíèÿ áóäóò áëàãîäàðíû Âàì çà òó ðàáîòó, ÷òî Âû äåëàåòå ñåãîäíÿ!;;x
+EVTDESC91227;You always strive to be humble, never forgetting the roots of yourself and your ancestors. There are many lessons from the past that must still be heeded today.;;;;;;;;;;;Âû âñåãäà ñòðåìèëèñü áûòü ñêðîìí[Root.GetOyYm], íèêîãäà íå çàáûâàÿ î ñâîèõ êîðíÿõ, ñâîèõ ïðåäêàõ. Åñòü ìíîãî óðîêîâ ïðîøëîãî, êîòîðûå åù¸ äîëæíû áûòü óñëûøàíû ñåãîäíÿ.;;x
+EVTDESC91228;Your honest nature and tendency to speak what is on your mind has ruffled a few feathers in the past, but it has also earned you great respect. People know that your words ring true.;;;;;;;;;;;Âàø ÷åñòíûé õàðàêòåð è ñêëîííîñòü ãîâîðèòü òî, ÷òî íà óìå, íåìàëî äîñàæäàëè Âàì â ïðîøëîì, íî òàêæå ñíèñêàëè ãëóáîêîå óâàæåíèå îêðóæàþùèõ. Ëþäè çíàþò, ÷òî â Âàøèõ ñëîâàõ òîëüêî ïðàâäà.;;x
+EVTDESC91229;Your enemies would accuse you of many things, but not even they would label you a coward. It is well known that you are fearless and always willing to share the dangers faced by your men.;;;;;;;;;;;Âàøè íåäðóãè ìíîãî â ÷¸ì Âàñ îáâèíÿëè, íî äàæå îíè íå ïîñìåëè áû ñêàçàòü, ÷òî Âû òðóñ. Õîðîøî èçâåñòíî, ÷òî Âû áåññòðàøíû è âñåãäà ãîòîâû ðàçäåëèòü óãðîçû, ñ êîòîðûìè ñòàëêèâàþòñÿ Âàøè ëþäè.;;x
+EVTDESC91230;You are an ambitious man, always striving to improve and do better. The people know this, and though some of your decisions may be unpopular, they are usually at least seen as progressive.;;;;;;;;;;;Âû àìáèöèîçíû, âñåãäà ñòðåìèòåñü ñîâåðøåíñòâîâàòüñÿ è áûòü ëó÷øå. Ëþäÿì ýòî èçâåñòíî, ïóñòü íåêîòîðûå èç Âàøèõ ðåøåíèé íåïîïóëÿðíû, îíè, êàê ïðàâèëî, îêàçûâàþòñÿ ïðîãðåññèâíûìè.;;x
+EVTDESC91231;Just and fair in all things, your people rest easy in the knowledge that no matter what, you can always be depended on to observe the rule of law.;;;;;;;;;;;Ñïðàâåäëèâîñòü è ÷åñòíîñòü âî âñ¸ì. Âàø íàðîä ñïîêîåí, çíàÿ, ÷òî ÷òîáû íè ñëó÷èëîñü, Âû âñåãäà áóäåòå ÷òèòü âåðõîâåíñòâî çàêîíà.;;x
+EVTDESC91232;No one can question your devotion to Allah and the teachings of his Prophet (peace be upon him). You can always be counted on to put your faith ahead of yourself.;;;;;;;;;;;Íèêòî íå ìîæåò ïîñòàâèòü ïîä ñîìíåíèå Âàøó ïðåäàííîñòü Àëëàõó è ó÷åíèþ åãî Ïðîðîêà (ìèð åìó è áëàãîñëîâåíèå). Âû âñåãäà ìîæåòå ðàññ÷èòûâàòü íà òî ,÷òî Âàøà âåðà âåä¸ò Âàñ âïåð¸ä.;;x
+EVTDESC91233;You have proven your devotion to Allah (may He be glorified and exalted) by making war against the enemies of Islam. As one of the mujahideen, you are acknowledged to have fought in a Jihad.;;;;;;;;;;;Âû äîêàçàëè ñâîþ ïðåäàííîñòü Àëëàõó (äà áóäåò ñëàâåí Îí è âîçâûøåí!), îáúÿâèâ âîéíó âðàãàì èñëàìà. Êàê îäèí èç ìîäæàõåäîâ, Âû ïðèçíàííûé ó÷àñòíèê Äæèõàäà.;;x
+EVTDESC91234;You have completely memorized the Quran, an accomplishment that not only shows your devotion to Allah (glorified and exalted be He), but which has also won you great respect as a ruler.;;;;;;;;;;;Âû ïîìíèòå Êîðàí íàèçóñòü, äîñòèæåíèå, êîòîðîå ïîêàçûâàåò íå òîëüêî Âàøó ïðåäàííîñòü Àëëàõó (äà áóäåò ñëàâåí Îí è âîçâûøåí!), íî òàêæå çàâî¸âûâàåò Âàì óâàæåíèå êàê ïðàâèòåëþ.;;x
+EVTDESC91235;It is a well known fact that you have completed the Hajj and thus shown your submission and devotion to Allah (may He be glorified and exalted). Whatever else they may say about you, no one can take this away.;;;;;;;;;;;Õîðîøî èçâåñòíî, ÷òî Âû ñîâåðøèëè õàäæ è òåì ñàìûì ïîêàçàëè Âàøó ïîêîðíîñòü è ïðåäàííîñòü Àëëàõó (äà áóäåò ñëàâåí Îí è âîçâûøåí!). ×òî áû î Âàñ íè ãîâîðèëè, íèêòî ó Âàñ ýòîãî íå îòíèìåò.;;x
+EVTDESC91240;After a brutal civil war, the decadent dynasty of my former liege has finally been overthrown by the [Root.Liege.GetOnlyDynastyName] clan. In the transitional chaos, I could probably get away with a declaration of independence...;;;;;;;;;;;Ïîñëå óæàñíîé ãðàæäàíñêîé âîéíû, äèíàñòèÿ ìîåãî áûâøåãî ñþçåðåíà, íàõîäÿùàÿñÿ â óïàäêå, áûëà íàêîíåö ñâåðãíóòà ðîäîì [Root.Liege.GetOnlyDynastyName]. Â õàîñå ìåæäóöàðñòâèÿ, ÿ ìîãó ïðîâîçãëàñèòü íåçàâèñèìîñòü...;;x
+EVTDESC91241;The ruling dynasty of [FromFrom.PrimaryTitle.GetName] has been overthrown by the zealous and hard-living tribesmen of the [From.GetOnlyDynastyName] dynasty. Their decadent [FromFrom.PrimaryTitle.GetTier] has been toppled, freeing any vassals from their bondage to the unworthy [FromFrom.GetTitle]. With the [FromFrom.PrimaryTitle.GetTier] gone, time will tell if a worthy dynasty will be up to the task of restoring authority to the region.;;;;;;;;;;;Ïðàâÿùàÿ äèíàñòèÿ [FromFrom.PrimaryTitle.GetAdjective]ñêîãî ãîñóäàðñòâà áûëà ñâåðãíóòà íàáîæíûìè è çíàòíûìè ñîïëåìåííèêàìè èç äèíàñòèè [From.GetOnlyDynastyName]. Òåïåðü âðåìÿ ïîêàæåò, ñïðàâÿòñÿ ëè îíè ñ ýòîé çàäà÷åé, óäàñòñÿ ëè èì âåðíóòü áûëîå âåëè÷èå ýòèõ çåìåëü.;;x
+EVTDESC91300;I had the spice merchant beaten for the contemptuous look he gave me. Apparently, there are many who think I have grown soft and decadent, lost to vices and indulging in haram!;;;;;;;;;;;Â÷åðà ÿ èçáèë òîðãîâöà ïðÿíîñòÿìèè çà òî, ÷òî òîò ïîñìåë âçãëÿíóòü ìíå â ãëàçà. Òåïåðü, âåðîÿòíî, ìíîãèå äóìàþò, ÷òî ÿ ðàçìÿê, ïîãðÿç â ãðåõå è ðàçâðàòå. Ñòàë ïðîêëÿòûì äåêàäàíòîì.;;x
+EVTDESC91350;My [GetFromFromRelation] [FromFrom.GetBestName] has let me know that my sinful living shames the entire dynasty. [FromFrom.GetSubjectPronounCap] is exerting [FromFrom.GetPossPronoun] influence to shield House [Root.GetDynName], but strongly urges me to seek guidance in the perfect example set by the Prophet (peace be upon him.);;;;;;;;;;;Ì[FromFrom.GetOyaOy] [FromFrom.GetRootRelation] [FromFrom.GetBestName] óòâåðæäàåò, ÷òî ìîé ãðåõîâíûé îáðàç æèçíè ïîçîðèò âñþ äèíàñòèþ. [FromFrom.GetSubjectPronounCap] èñïîëüçóåò ñâî¸ âëèÿíèå, ÷òîáû çàùèòèòü äîì [Root.GetOnlyDynastyName], íî íàñòîÿòåëüíî ðåêîìåíäóåò ìíå èñêàòü íàïóòñòâèÿ â ëèöå èäåàëüíîãî ïðèìåðà, ïîäàííîãî Ïðîðîêîì (äà áëàãîñëîâèò åãî Àëëàõ).;;x
+EVTDESC91351;My decadent [GetFromRelation] [From.GetBestName] refuses to change [From.GetPossPronoun] sinful ways. I can declare [From.GetObjectPronoun] a kafir, which will give me a reason to imprison the degenerate... unless there is another way to get through to [From.GetObjectPronoun].;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetBestName] îòâåðãàåò âñÿêóþ âîçìîæíîñòü èçáàâèòüñÿ îò ñâîåãî ãðåõà è ïîðîêà. Çà ýòî ÿ ìîãó îáúÿâèòü [From.GetHersHis] êàôèðîì, ÷òî äàñò ìíå âîçìîæíîñòü áðîñèòü âûðîäêà â òåìíèöó, äî òåõ ïîð ïîêà ÿ íå ïðèäóìàþ äðóãîãî ïóòè äîñòó÷àòüñÿ äî í[From.GetHersHis].;;x
+EVTDESC91352;My [GetFromRelation] [From.GetBestName] understands that [From.GetSubjectPronoun] is living a life of haram, and has ensured me that [From.GetSubjectPronoun] is committed to changing [From.GetPossPronoun] ways.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetBestName] ïîíèìàåò, ÷òî ïðîæèâàåò ñâîþ æèçíü â ñîîòâåòñòâèè ñ çàïîâåäÿìè õàðàìà, è óáåæäàåò ìåíÿ, ÷òî [From.GetHerHim] óäàëîñü âñòàòü íà äðóãîé ïóòü.;;x
+EVTDESC91355;My [GetFromRelation] [From.GetTitledFirstName] just will not give up. [From.GetSubjectPronounCap] makes some most persuasive arguments about why I need to overcome my forbidden, haram, desires. For the sake of my soul, my dynasty and my religion, I need to repent.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetTitledFirstName] âñ¸ íèêàê íå ñäà¸òñÿ. [From.GetSubjectPronounCap] ïðèâîäèò âñ¸ íîâûå àðãóìåíòû â ïîëüçó òîãî, ÷òî ìíå ñëåäóåò îòêàçàòüñÿ îò ñâîèõ ãðåõîâíûõ ïðèâû÷åê è íà÷àòü æèçíü, êàê âåëèò õàðàì. Ðàäè ñïàñåíèÿ ñâîåé äóøè, äèíàñòèè è ðåëèãèè, ìíå íóæíî ðàñêàÿòüñÿ.;;x
+EVTDESC91356;I just cannot get through to my wastrel [GetFromRelation] [From.GetFirstName]! [From.GetSubjectPronounCap] is simply too weak and obstinate.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] ñëèøêîì ñëàá[From.GetEndA] è óïðÿì[From.GetEndA]. ß íèêàê íå ìîãó äîñòó÷àòüñÿ äî í[From.GetHersHis]!;;x
+EVTDESC91357;My [GetFromRelation] [From.GetBestName] understands that [From.GetSubjectPronoun] is living a life of haram, and has ensured me that [From.GetSubjectPronoun] is committed to changing [From.GetPossPronoun] ways.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetBestName] îñîçíàë[From.GetEndA], ÷òî äîëæ[From.GetNaEn] ñëåäîâàòü çàâåòàì õàðàìà è çàâåðèë[From.GetEndA] ìåíÿ, ÷òî ñòðåìèòñÿ èçìåíèòüñÿ.;;x
+EVTDESC91360;My [GetFromRelation] [From.GetTitledFirstName] is back to persuade my to abandon my forbidden, haram, desires. [From.GetSubjectPronounCap] quotes the Koran and the Hadiths like a mufti and threatens me with the fires of Jehennom in the afterlife...;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetTitledFirstName] ñíîâà ïûòàåòñÿ óáåäèòü ìåíÿ îòêàçàòüñÿ îò ìîèõ çàïðåòíûõ õàðàìñêèõ æåëàíèé. [From.GetSubjectPronounCap] öèòèðóåò Êîðàí è Õàäèñ, êàê ìóôòèé è óãðîæàåò ìíå îãíÿìè Äæàõàííàìà â ïîñìåðòèè...;;x
+EVTDESC91361;My [GetFromRelation] [From.GetTitledFirstName] was moved to tears by my fiery exhortations. [From.GetSubjectPronounCap] will join a holy order in order to serve Allah best!;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetTitledFirstName] áûë[From.GetEndA] òðîíóò[From.GetEndA] äî ñë¸ç ìîèìè ïëàìåííûìè óâåùåâàíèÿìè. [From.GetSubjectPronounCap] ïðèñîåäèíèòñÿ ê ñâÿùåííîìó îðäåíó, ÷òîáû ñëóæèòü Àëëàõó!;;x
+EVTDESC91362;My [GetFromRelation] [From.GetTitledFirstName] was moved to tears by my fiery exhortations and left immediately for the holy pilgrimage to Mecca - the Hajj.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetTitledFirstName] áûë[From.GetEndA] òðîíóò[From.GetEndA] äî ñë¸ç ìîèìè ïëàìåííûìè óâåùåâàíèÿìè è íåìåäëåííî îòïðàâè[From.GetLasLsya] â õàäæ ê Ìåêêå.;;x
+EVTDESC91363;My [GetFromRelation] [From.GetTitledFirstName] was shaken by the strength of my pious arguments and promised to reform [From.GetPossPronoun] ways, starting with a generous donation to charity.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetTitledFirstName] áûë[From.GetEndA] ïîðàæåí[From.GetEndA] óáåäèòåëüíîñòüþ ìîèõ àðãóìåíòîâ è îáåùàë[From.GetEndA] ñòàòü ëó÷øå, íà÷àâ ñ ùåäðîãî ïîæåðòâîâàíèÿ íà áëàãîòîâîðèòåëüíîñòü.;;x
+EVTDESC91365;I woke up to a dreadful stench and found my room full of the rotting carcasses of dogs and pigs. As I staggered out through the door, a shadowy figure crept up from behind and held a knife to my throat, whispering 'This is what your life is like. Imagine your death...' before disappearing without a trace!;;;;;;;;;;;"Ïðîñíóâøèñü èç-çà óæàñíîé âîíè, ÿ îáíàðóæèâàþ ñâîþ êîìíàòó ïîëíîé ãíèþùèõ òóø ñîáàê è ñâèíåé. Êàê òîëüêî ÿ øàòàÿñü ïîêèäàþ ïîìåùåíèå, ò¸ìíàÿ ôèãóðà ïîäêðàäûâàåòñÿ ñçàäè è ïðèêëàäûâàåò íîæ ê ìîåìó ãîðëó! Ïðîøåïòàâ ""Òàê âûãëÿäèò òâîÿ æèçíü. À òåïåðü ïðåäñòàâü ñâîþ ñìåðòü..."", îíà áåññëåäíî èñ÷åçàåò.";;x
+EVTDESC91366;I arranged a very unpleasant 'awakening' for my decadent [GetFromRelation] [From.GetTitledFirstName], but [From.GetSubjectPronoun] remains stubbornly committed to [From.GetPossPronoun] hedonism, bringing shame on our House.;;;;;;;;;;;"ß óñòðîèë íåïðèÿòíîå ""ïðîáóæäåíèå"" äëÿ äåêàäåíòà, êîèì ÿâëÿåòñÿ ì[From.GetOyaOy] [From.GetRootRelation] [From.GetTitledFirstName], íî [From.GetSubjectPronoun] óïðÿìî îñòà¸òñÿ ïðèâåðæåíí[From.GetOyYm] ñâîåìó ãåäîíèçìó, ïîçîðÿ íàø äîì.";;x
+EVTDESC91367;The little nightmare I staged seems to have worked on my decadent [GetFromRelation] [From.GetTitledFirstName], who is scared witless and has promised to renounce [From.GetPossPronoun] shameful hedonism!;;;;;;;;;;;Ïîõîæå, íåáîëüøîé óñòðîåííûé ìíîé íî÷íîé êîøìàð, êîòîðûé ïåðåæèë[From.GetEndA] [From.GetRootRelation] [From.GetTitledFirstName], ñðàáîòàë. Â ñòðàõå îí çàâåðÿåò, ÷òî îòêàæåòñÿ îò ïîçîðíîãî ãåäîíèçìà!;;x
+EVTDESC91368;It seems the nighttime show I put on for my decadent [GetFromRelation] [From.GetTitledFirstName] was a little too much. [From.GetSubjectPronounCap] chose to jump from a tower rather than live a righteous life as a true Muslim!;;;;;;;;;;;Ïîõîæå, óñòðîåííîå ìíîé íî÷íîå ïðåäñòàâëåíèå, êîòîðîå ïîëó÷èë[From.GetEndA] [From.GetRootRelation] [From.GetTitledFirstName], îêàçàëîñü ñëèøêîì øîêèðóþùèì. [From.GetSubjectPronounCap] ðåøèë[From.GetEndA] áðîñèòüñÿ ñ áàøíè âìåñòî òîãî, ÷òîáû âñòàòü íà Ïóòü Èñòèííûé è æèòü êàê ïðàâåäíûé ìóñóëüìàíèí!;;x
+EVTDESC91369;[From.GetBestName] has failed in [From.GetPossPronoun] attempts to get the decadent [FromFrom.GetBestName] to straighten up. He is a kafir and can be imprisoned freely by all rulers of our shamed dynasty.;;;;;;;;;;;[From.GetBestName] ïîòåðïåë[From.GetEndA] íåóäà÷ó â ïîïûòêàõ èñïðàâèòü äåêàäåíò[FromFrom.GetKuA] ïî èìåíè [FromFrom.GetBestName]. [FromFrom.GetSheHeCap] - êàôèð è ìîæåò áûòü ñâîáîäíî áðîøåí[FromFrom.GetEndA] â òåìíèöó ëþáûì ïðàâèòåëåì íàøåé ïîçîðíîé äèíàñòèè.;;x
+EVTDESC91370;Your [GetFromRelation], [From.GetBestName], has become Decadent, bringing shame to the House of [Root.GetOnlyDynastyName]!;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetBestName] òåïåðü äåêàäåíò[From.GetEndKa], íåñóù[From.GetAyaIy] ïîçîð äîìó [Root.GetOnlyDynastyName]!;;x
+EVTDESC91372;My agents have brought me a message from [From.GetTitledFirstName], who still refuses my demands that [From.GetSheHe] straighten up! [From.GetSheHeCap] offered to give me a strong eunuch of great martial ability as a gift if I allow [From.GetHerHim] to persist in [From.GetHerHis] decadence.;;;;;;;;;;;Ìîè ëþäè ïåðåäàëè ìíå ïîñëàíèå - [From.GetTitledFirstName] âñ¸ åù¸ îòâåðãàåò ìîè òðåáîâàíèÿ èñïðàâèòüñÿ è ïðåäëàãàåò ìíå êðåïêîãî åâíóõà ñ ïîòðÿñàþùèìè âîåííûìè íàâûêàìè â êà÷åñòâå ïîäàðêà, ÷òîáû ïðîäîëæàòü îáðàç æèçíè äåêàäåíòà.;;x
+EVTDESC91373;[From.GetTitledFirstName] talked to me about how [From.GetSheHe] has chosen to live [From.GetHerHis] own life. [From.GetSubjectPronounCap] tried to explain to me me that what I have viewed as decadence was merely a different way of honoring [From.Religion.GetRandomGodName]'s will. [From.GetSheHeCap] also offered to make a religious donation in my name as a gesture of friendship.;;;;;;;;;;;[From.GetTitledFirstName] ðàññêàçàë[From.GetEndA] ìíå, êàê ñîáèðàåòñÿ ïðîæèòü ñâîþ æèçíü. [From.GetSubjectPronounCap] ïîïûòà[From.GetLasLsya] îáúÿñíèòü ìíå, ÷òî òîò îáðàç æèçíè, êîòîðûé ÿ íàçûâàþ äåêàäåíòñêèì, íà ñàìîì äåëå ëèøü èíîé ñïîñîá èñïîëíÿòü òî, ÷òî âåëèò íàì [From.Religion.GetHighGodName]. [From.GetSheHeCap] òàêæå ïðåäëîæèë[From.GetEndA] âíåñòè ïîæåðòâîâàíèå îò ìîåãî èìåíè â çíàê íàøåé äðóæáû.;;x
+EVTDESC91374;[From.GetTitledFirstName] came to my chambers and whispered pretty words in my ear. [Root.Spouse.GetTitledFirstName] insists that [From.GetSheHe] ought to be thrown in jail due to [From.GetHerHis] decadent ways, but [From.GetTitledFirstName] now seems to be very different from what I had heard.;;;;;;;;;;;Ñåãîäíÿ [From.GetTitledFirstName] ïðèø[From.GetLaYol] â ì[Root.GetMyChamberACC] è, êàæåòñÿ, ÿ [From.GetHerHim] íðàâëþñü. Ïîñëå ìíîæåñòâà ïðèÿòíûõ ñëîâ â ìîé àäðåñ, [From.GetSheHe] ïðèçíà[From.GetLasLsya], ÷òî [Root.Spouse.GetName] õî÷åò áðîñèòü [From.GeHersHis] â òåìíèöó çà äåêàäåíòñêèé îáðàç æèçíè, íåñìîòðÿ íà òî, ÷òî ñ òåõ ïîð [From.GeSheHe] ñèëüíî èçìåí[From.GetLasLsya].;;x
+EVTDESC91375;My spouse is upset about what [From.GetSheHe] refers to as my unnecessarily harsh attitude towards [FromFrom.GetTitledFirstName] and [FromFrom.GetHerHis] decadent ways, and asks me to leave [FromFrom.GetHerHim] alone.;;;;;;;;;;;Ì[Root.Spouse.GetOyaOy] [Root.Spouse.GetHusbandWife] ðàññòðîåí[Root.Spouse.GetEndA] èç-çà òîãî, ÷òî ÿ ñëèøêîì ñóðîâ[Root.GetEndA] ê äåêàäåíòó, [Root.Spouse.GetSheHe] ãîâîðèò, ÷òî [FromFrom.GetTitledFirstName] íå çàñëóæèâàåò òàêîãî è ïðîñèò [FromFrom.GetHersHis] îòïóñòèòü.;;x
+EVTDESC91376;My spouse came to me with shocking news. Apparently [FromFrom.GetTitledFirstName] has tried to seduce my beloved [From.GetHusbandWife] and turn [From.GetHerHim] against me.;;;;;;;;;;;Ì[Root.Spouse.GetOyaOy] [Root.Spouse.GetHusbandWife] ïðèøë[Root.Spouse.GetEndA] êî ìíå ñ øîêèðóþùèìè èçâåñòèÿìè - [FromFrom.GetTitledFirstName] ïûòà[FromFrom.GetLasLsya] ñîáëàçíèòü [Root.Spouse.GetHersHis] è îáðàòèòü ïðîòèâ ìåíÿ.;;x
+EVTDESC_91377;My husband, [From.GetName], has in a sudden fit of religious piety gone off to join the [From.Liege.PrimaryTitle.GetName]. This effectively annuls our marriage...;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetHusbandWife] [From.GetName] â ïðèñòóïå íàáîæíîñòè âíåçàïíî ðåøèë[From.GetEndA] âñòóïèòü â [From.Liege.PrimaryTitle.GetName], è òåì ñàìûì àííóëèðîâàë[From.GetEndA] íàø áðàê...;;x
+EVTDESC_91378;My [GetFromRelation] [From.GetTitledFirstName] is not happy with my refusal, but why should I care? Although now [From.GetSheHe] reminds me of the favor I owe [From.GetHerHim]...;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetTitledFirstName] íå ðàä[From.GetEndA] ìîåìó îòêàçó, íî ìíå-òî ÷òî? Òåì íå ìåíåå, [From.GetSheHe] íàïîìíèë[From.GetEndA], ÷òî ÿ â äîëãó ïåðåä í[From.GetEyIm]...;;x
+EVTDESC_91379;Finally my [GetFromRelation] [From.GetTitledFirstName] has decided to listen to reason. [From.GetSheHeCap] will not live a life of vice any longer!;;;;;;;;;;;Íàêîíåö-òî ì[From.GetOyaOy] [From.GetRootRelation] [From.GetTitledFirstName] ïðèñëóøà[From.GetLasLsya] ê ãîëîñó ðàçóìà è ïîîáåùàë[From.GetEndA] èçìåíèòü ñâîþ æèçíü.;;x
+EVTOPTA91000;Allah be Merciful!;;;;;;;;;;;Àëëàõ, áóäü ìèëîñòèâ!;;x
+EVTOPTA91200;*hic*;;;;;;;;;;;*èê*;;x
+EVTOPTA91201;Let them say what they want!;;;;;;;;;;;Ïóñòü ãîâîðÿò ÷òî óãîäíî!;;x
+EVTOPTA91202;What? I left enough for tomorrow's breakfast.;;;;;;;;;;;×òî? ß îñòàâèë äîñòàòî÷íî äëÿ ñëåäóþùåãî çàâòðàêà.;;x
+EVTOPTA91203;You will not rob me of the one thing I enjoy in life!;;;;;;;;;;;Âàì íå îòíÿòü åäèíñòâåííóþ ðàäîñòü â ìîåé æèçíè!;;x
+EVTOPTA91204;Come here, my pretty...;;;;;;;;;;;Èäè ñþäà, ìîÿ êðàñàâèöà...;;x
+EVTOPTA91205;Let me just remove my belt...;;;;;;;;;;;Ïîçâîëüòå ìíå ëèøü ðàññòåãíóòü ðåìåíü...;;x
+EVTOPTA91206;It is my right.;;;;;;;;;;;Ýòî ìî¸ ïðàâî.;;x
+EVTOPTA91207;Ah, yes...;;;;;;;;;;;Àõ, äà...;;x
+EVTOPTA91208;I deserve only the very best.;;;;;;;;;;;ß çàñëóæèâàþ òîëüêî ñàìîå ëó÷øåå.;;x
+EVTOPTA91209;It can all be replaced.;;;;;;;;;;;Âñ¸ ýòî ìîæíî çàìåíèòü.;;x
+EVTOPTA91210;They should be thankful I am their ruler.;;;;;;;;;;;Îíè äîëæíû áûòü áëàãîäàðíû çà òî, ÷òî ÿ èõ ïðàâèòåëü[Root.GetEndNitsa].;;x
+EVTOPTA91211;Honour is a weakness I cannot afford.;;;;;;;;;;;×åñòíîñòü - ñëàáîñòü, êîòîðóþ ÿ íå ìîãó ñåáå ïîçâîëèòü.;;x
+EVTOPTA91212;Guards, I don't like the way that child looked at me...;;;;;;;;;;;Ñòðàæà, ìíå íå íðàâèòñÿ, êàê ýòîò ðåá¸íîê íà ìåíÿ ïîñìîòðåë...;;x
+EVTOPTA91213;There is not a single thing I would change.;;;;;;;;;;;Íåò íè÷åãî, ÷òî ÿ õîòåë áû èçìåíèòü;;x
+EVTOPTA91214;I AM the law.;;;;;;;;;;;Çàêîí ýòî ß.;;x
+EVTOPTA91215;Oh, let them mutter.;;;;;;;;;;;Ïôô, ïóñòü áîðìî÷óò äàëüøå.;;x
+EVTOPTA91216;They will not catch me unawares.;;;;;;;;;;;Îíè íå çàñòàíóò ìåíÿ âðàñïëîõ.;;x
+EVTOPTA91217;I will teach you not to blink so much in my presence...;;;;;;;;;;;ß Âàñ îòó÷ó òàê ÷àñòî ìèãàòü â ìî¸ì ïðèñóòñòâèè...;;x
+EVTOPTA91218;Allah (glorified and exalted be He) does not play dice.;;;;;;;;;;;Àëëàõ, äà áóäåò îí ïðåâîçíåñ¸í è ïðîñëàâëåí, íå èãðàåò â êîñòè.;;x
+EVTOPTA91219;I did it for you!;;;;;;;;;;;ß äåëàþ ýòî äëÿ âàñ!;;x
+EVTOPTA91220;There is so much to learn.;;;;;;;;;;;Åñòü åù¸ òàê ìíîãî âñåãî, ÷òî ïðåäñòîèò óçíàòü.;;x
+EVTOPTA91221;The world would be a better place.;;;;;;;;;;;Ìèð áûë áû ëó÷øå.;;x
+EVTOPTA91222;Indulgence leads to weakness.;;;;;;;;;;;Ïîòâîðñòâî ñâîèì êàïðèçàì ïðèâîäèò ê ñëàáîñòè.;;x
+EVTOPTA91223;Every day the sun rises, charity is due on every joint of a person.;;;;;;;;;;;Êàê êàæäûé äåíü âîñõîäèò ñîëíöå, òàê è ùåäðîñòü äîëæíà ñâÿçûâàòü ëþäåé.;;x
+EVTOPTA91224;I have never been afraid of a little hard work.;;;;;;;;;;;ß íèêîãäà íå áîÿë[Root.GetLasSya] êàïåëüêè íàïðÿæ¸ííîé ðàáîòû.;;x
+EVTOPTA91225;The carrot, not the stick.;;;;;;;;;;;Ïðÿíèê, à íå êíóò.;;x
+EVTOPTA91226;Great things come to those who wait.;;;;;;;;;;;Âåëèêîå ñâåðøàåò òîò, êòî óìååò æäàòü.;;x
+EVTOPTA91227;I will not forget.;;;;;;;;;;;ß íå çàáóäó.;;x
+EVTOPTA91228;The truth is the truth.;;;;;;;;;;;Èñòèíà åñòü èñòèíà.;;x
+EVTOPTA91229;Never give in to fear.;;;;;;;;;;;Íèêîãäà íå ïîääàâàéòåñü ñòðàõó.;;x
+EVTOPTA91230;Why settle for mediocrity?;;;;;;;;;;;Çà÷åì îñòàâàòüñÿ ïîñðåäñòâåííûì?;;x
+EVTOPTA91231;Law should govern.;;;;;;;;;;;Ïðàâèòü äîëæåí çàêîí.;;x
+EVTOPTA91232;Laa ilaha ilallah!;;;;;;;;;;;Ëÿ Èëÿõà èëëÿ Ëëàõ!;;x
+EVTOPTA91233;The best jihad is the one in which your horse is slain and your blood is spilled.;;;;;;;;;;;Ëó÷øèé äæèõàä - òîò, â êîòîðîì ïàë òâîé êîíü è ïðîëèëàñü òâîÿ êðîâü.;;x
+EVTOPTA91234;It was not easy.;;;;;;;;;;;Ýòî áûëî íåëåãêî.;;x
+EVTOPTA91235;It was my duty.;;;;;;;;;;;Ýòî áûë ìîé äîëã.;;x
+EVTOPTA91240;Stay Loyal;;;;;;;;;;;Ñîõðàíèòü ëîÿëüíîñòü;;x
+EVTOPTA91241;Bloated fools...;;;;;;;;;;;Òùåñëàâíûå èäèîòû...;;x
+EVTOPTA91300;Bah! Minstrel, play another song!;;;;;;;;;;;Ýé, ìåíåñòðåëü, ñûãðàé äðóãóþ ïåñíþ!;;x
+EVTOPTA91350;How rude! My life is my own.;;;;;;;;;;;Ýòî ìîÿ æèçíü, ÷òî õî÷ó - òî è äåëàþ!;;x
+EVTOPTA91351;Invoke Takfir against [From.GetObjectPronoun]!;;;;;;;;;;;Ïðèçâàòü òàêôèðà ïðîòèâ í[From.GetHersHis]!;;x
+EVTOPTA91352;Good, House [Root.GetDynName] must stay pure!;;;;;;;;;;;Õîðîøî. Äîì [Root.GetOnlyDynastyName] äîëæåí îñòàòüñÿ ÷èñòûì!;;x
+EVTOPTA91355;I know I am weak. Too weak!;;;;;;;;;;;ß çíàþ, ÷òî ñëàá. Ñëèøêîì ñëàá!;;x
+EVTOPTA91360;Do I look like a believer?;;;;;;;;;;;ß ïîõîæ íà âåðóþùåãî?;;x
+EVTOPTA91361;[From.GetSubjectPronounCap] makes me proud!;;;;;;;;;;;[From.GetSubjectPronounCap] çàñòàâèë[From.GetEndA] ìåíÿ ãîðäèòüñÿ ñîáîé!;;x
+EVTOPTA91362;A pious choice!;;;;;;;;;;;Áëàãî÷åñòèâûé âûáîð!;;x
+EVTOPTA91363;There is hope for [From.GetObjectPronoun] yet!;;;;;;;;;;;Äëÿ í[From.GetHersHis] âñ¸ åù¸ åñòü íàäåæäà!;;x
+EVTOPTA91365;[From.GetTitledFirstName] cannot scare me with theatrics!;;;;;;;;;;;[From.GetTitledFirstName] íå èñïóãàåò ìåíÿ ýòèì ôàðñîì!;;x
+EVTOPTA91368;Shameful! Good riddance.;;;;;;;;;;;Ñòûäîáà! Õîðîøåå èçáàâëåíèå.;;x
+EVTOPTA91369;A shoe on his head!;;;;;;;;;;;Â êîëîäêè [FromFrom.GetHersHis]!;;x
+EVTOPTA91370;The ingrate!;;;;;;;;;;;Íåáëàãîäàðí[From.GetAyaYy]!;;x
+EVTOPTA91372;I could surely use such a eunuch!;;;;;;;;;;;À âåäü îí ìíå ïðèãîäèòñÿ!;;x
+EVTOPTA91373;Such a donation would surely please [From.Religion.GetRandomGodName].;;;;;;;;;;;[From.Religion.GetHighGodName] îäîáðèë[From.GetHGodEndA] áû òàêîå ïîæåðòâîâàíèå.;;x
+EVTOPTA91374;I have fallen in love!;;;;;;;;;;;[From.GetSheHeCap] òàê[From.GetAyaOy] ìèë[From.GetAyaYy]!;;x
+EVTOPTA91375;Everything for you, my love.;;;;;;;;;;;Äëÿ òåáÿ âñ¸, ÷òî óãîäíî, ëþáèì[Root.Spouse.GetAyaYy].;;x
+EVTOPTA91378;I guess I have no choice. I will try to please [From.GetTitledFirstName].;;;;;;;;;;;Ïîõîæå, ó ìåíÿ íåò âûáîðà.;;x
+EVTOPTA91379;[Root.Religion.GetHighGodName] must surely be pleased.;;;;;;;;;;;È íå ïðåêðàñíàÿ íîâîñòü.;;x
+EVTOPTB91240;Freedom!;;;;;;;;;;;Ñâîáîäà!;;x
+EVTOPTB91350;I will try, with the help of [Root.Religion.GetRandomGodName]!;;;;;;;;;;;ß ïîïðîáóþ, è äà ïîìîæåò ìíå [Root.Religion.GetRandomGodName]!;;x
+EVTOPTB91351;I am a better negotiator than this!;;;;;;;;;;;ß ëó÷øå êàê ïåðåãîâîðùèê.;;x
+EVTOPTB91355;Though it's hard, I shall walk the narrow path.;;;;;;;;;;;Êàê áû íè áûëî òÿæåëî, íóæíî ïðîéòè ýòîò ïóòü!;;x
+EVTOPTB91360;I must join the Bektashi!;;;;;;;;;;;ß äîëæåí ïðèñîåäèíèòüñÿ ê Áåêòàøè!;;x
+EVTOPTB91365;Maybe I had better shape up...;;;;;;;;;;;Âîçìîæíî ìíå ñòîèò ïîäòÿíóòü ôîðìó...;;x
+EVTOPTB91374;This is clearly just an act!;;;;;;;;;;;È áåññîâåñòíî èñïîëüçóåò ìåíÿ!;;x
+EVTOPTC91351;I must save [From.GetPossPronoun] soul from the fires of Jahannam!;;;;;;;;;;;ß ñïàñó [From.GetAbsPossPronoun] äóøó îò ïëàìåíè Äæàõàííàìà!;;x
+EVTOPTC91355;Maybe I can appeal to [From.GetHerHis] greedy side...;;;;;;;;;;;Áûòü ìîæåò ñòîèò îáðàòèòüñÿ ê [From.GetHersHis] æàäíîñòè...;;x
+EVTOPTC91360;I must join the Hashshashin!;;;;;;;;;;;ß äîëæåí ïðèñîåäèíèòüñÿ ê Àññàñèíàì!;;x
+EVTOPTC91365;This is just too much. Life is not worth living!;;;;;;;;;;;Ýòî óæå ñëèøêîì... Òùåòíî áûòèå!;;x
+EVTOPTD91351;Time to get... unconventional.;;;;;;;;;;;Ïðèøëî âðåìÿ ñòàòü... íåòðàäèöèîííûì.;;x
+EVTOPTD91355;[Root.Religion.GetRandomGodName] will be pleased if I donate some gold.;;;;;;;;;;;Ïîæåðòâóþ íåìíîãî çîëîòà.;;x
+EVTOPTD91360;I must go on the Hajj to Mecca!;;;;;;;;;;;ß äîëæåí ñîâåðøèòü õàäæ â Ìåêêó!;;x
+EVTOPTE91351;It is time to call in that favor.;;;;;;;;;;;Ïîðà íàïîìíèòü [From.GetHerHim] êîå î ÷¸ì.;;x
+EVTOPTE91351_TOOLTIP;Force §Y[This.GetTitledFirstName]§! to give up his vices.\n;;;;;;;;;;;§Y[From.GetTitledFirstName]§! ïåðåäî ìíîé â äîëãó, ÿ ìîãó çàñòàâèòü [From.GetHersHis] îòêàçàòüñÿ îò ñâîèõ ïîðîêîâ.\n;;x
+EVTOPTE91355;Maybe I can bring [From.GetHerHis] [From.Spouse.GetHusbandWife] over to my side.;;;;;;;;;;;Âîçìîæíî [From.GetHersHis] [From.Spouse.GetHusbandWife] âñòàíåò íà ìîþ ñòîðîíó.;;x
+EVTOPTE91360;I will donate money to charity!;;;;;;;;;;;ß ïîæåðòâóþ äåíüãè íà áëàãîòâîðèòåëüíîñòü!;;x
+EVTTOOLTIP91351;Tell [This.GetFirstName] to mind his own business!;;;;;;;;;;;[This.GetFirstName] óñëûøèò, ÷òî [This.GetHerHim] íå ñëåäóåò ëåçòü íå â ñâî¸ äåëî!;;x
+EVTTOOLTIP91352;Promise [This.GetFirstName] to lead a righteous life!;;;;;;;;;;;[This.GetFirstName] âûñëóøàåò îáåùàíèÿ âåñòè ïðàâåäíóþ æèçíü!;;x
+EVTTOOLTIP91355;Make a better attempt at convincing [This.GetFirstName];;;;;;;;;;;[This.GetFirstName] âûñëóøàåò ïðèçíàíèÿ;;x
+EVTTOOLTIP91360;Present the best religious arguments to [This.GetFirstName];;;;;;;;;;;[This.GetFirstName] âûñëóøàåò ëó÷øèå ðåëèãèîçíûå àðãóìåíòû;;x
+EVTTOOLTIP91365;Arrange for some nasty nighttime theatrics to scare [This.GetFirstName] in [From.GetPossPronoun] room;;;;;;;;;;;Óñòðîèòü ãðÿçíîå íî÷íîå ïðåäñòàâëåíèå, [This.GetFirstName] íàïóãàåòñÿ â ñâîåé êîìíàòå.;;x
+EVTTOOLTIP91374A;[Root.Spouse.GetName] is asked to leave [From.GetName] alone.;;;;;;;;;;;[Root.Spouse.GetName] ïîëó÷èò ïðîñüáó îñòàâèòü ïåðñîíàæà [From.GetName] â ïîêîå.;;x
+EVTTOOLTIP91374B;[Root.Spouse.GetName] is informed about [From.GetName]s plans..;;;;;;;;;;;[Root.Spouse.GetName] ïðîèíôîðìèðóåòñÿ î ïëàíàõ ïåðñîíàæà [From.GetName].;;x

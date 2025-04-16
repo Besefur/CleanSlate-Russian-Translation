@@ -1,7 +1,6 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
 # holy_order_events?, see event_id.txt
-EVTDESC8900;Pagans have crossed the border and raided the county of [Root.GetName]!;;;;;;;;;;;;;x
-EVTDESC8905;Encouraged by their successful border raiding, pagans have pushed further on and ravaged the county of [Root.GetName]!;;;;;;;;;;;;;x
-EVTOPTA8900;Damn these pagans!;;;;;;;;;;;;;x
-EVTOPTA8905;God have mercy on us...;;;;;;;;;;;;;x
+EVTDESC8900;Pagans have crossed the border and raided the county of [Root.GetName]!;;;;;;;;;;;ßçû÷íèêè ïåðåñåêëè ãðàíèöó è âòîðãëèñü â îêðóã [Root.GetName]!;;x
+EVTDESC8905;Encouraged by their successful border raiding, pagans have pushed further on and ravaged the county of [Root.GetName]!;;;;;;;;;;;Âîîäóøåâëåííûå ñâîèì óñïåøíûì ïîãðàíè÷íûì íàáåãîì, ÿçû÷íèêè ïîøëè äàëüøå, è îáðóøèëèñü íà [Root.County.GetAdjective]ñêóþ çåìëþ!;;x
+EVTOPTA8900;Damn these pagans!;;;;;;;;;;;×¸ðòîâû ÿçû÷íèêè!;;x
+EVTOPTA8905;God have mercy on us...;;;;;;;;;;;Ãîñïîäü, ïîìèëóé íàñ...;;x

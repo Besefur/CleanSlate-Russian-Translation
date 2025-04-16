@@ -1,206 +1,200 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC86000;You have started to prepare yourself for going on a pilgrimage to Mecca. Soon you will humble yourself and travel in a group with others to fulfill one of the five pillars of Islam.;;;;;;;;;;;;;x
-EVTDESC86001;I am preparing myself for my travel to Mecca, and I have understood that there are members of my court that have not yet gone on a pilgrimage to Mecca. As [Root.PrimaryTitle.GetRulerTitle], it is my duty to be charitable to my people, and I will bring one of them with me.;;;;;;;;;;;;;x
-EVTDESC86010;While preparing for my pilgrimage to Mecca, I have come to realize that [Root.Liege.GetTitledName] is not a Hajjaj.;;;;;;;;;;;;;x
-EVTDESC86011;My beloved [Root.GetTitle]!\n I am preparing to go to Mecca on a Hajj. Sadly, rumors tell me that you have not gone on a pilgrimage yourself. Would you like to travel with me, your faithful servant?\nYour humble [From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC86012;Dear [Root.GetTitledFirstName]!\nI will join you on your way to Mecca!\nYour liege, [From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC86013;I am sincerely regretful to inform you that I am not able to join you in your pilgrimage.\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC86015;Our liege, [Root.Liege.GetTitledName], has heard of our plans to go to Mecca, and sends us advice that the road is perilous with infidels and bandits.;;;;;;;;;;;;;x
-EVTDESC86020;While preparing for my pilgrimage to Mecca, my child comes to me and asks if [target_child.GetSheHe] can join me.;;;;;;;;;;;;;x
-EVTDESC86100;I am now fully prepared for my travel to Mecca! There will be a regent ruling [Root.PrimaryTitle.GetName] while I am away.;;;;;;;;;;;;;x
-EVTDESC86101;A group of bandits are tracking us, and it seems as if they are gaining on us.;;;;;;;;;;;;;x
-EVTDESC86102;It is not possible to outrun these bandits, and we are forced to confront them. There is always the possibility that we can survive this.;;;;;;;;;;;;;x
-EVTDESC86105;Travelling by sea causes you to feel seasick. Luckily there is a hafiz on the ship who quotes the holy Qur'an. 'And they shall be made to drink therein a cup the admixture of which shall be ginger'.;;;;;;;;;;;;;x
-EVTDESC86110;As you travel over the sea, your ship spots the sails of a well-known [christian.GetGroupName] pirate. We have a faster ship, and the chance to eliminate this threat to pilgrims forever!;;;;;;;;;;;;;x
-EVTDESC86150;Nearby you see how a group of bandits have encircled a group of fellow pilgrims. It is very likely they will rob and kill them.;;;;;;;;;;;;;x
-EVTDESC86151;We got surrounded by bandits, and I was sure that I was soon going to be robbed and left for dead, when some fellow pilgrims arrived to save us.;;;;;;;;;;;;;x
-EVTDESC86160;One of my servants have noticed that a hated rival is camping not far from us. I know that it is against the teachings of the prophet to attack someone on Hajj, but this is a golden opportunity.;;;;;;;;;;;;;x
-EVTDESC86161;We have been ambushed, and it seems as if it is [From.GetTitledName] who is attempting to kill you. It is an outrage, and it clear that [From.GetSheHe] is not a proper Muslim to attempt such a vile act in the darkness!;;;;;;;;;;;;;x
-EVTDESC86162;Our ambush ended in disaster... Not only did [From.GetTitledName] get away, but [From.GetSheHe] also injured me severely.;;;;;;;;;;;;;x
-EVTDESC86163;Success!\nI've left [From.GetTitledName], bleeding severely, to die in the desert...;;;;;;;;;;;;;x
-EVTDESC86164;It seems that [From.GetTitledName] got away in the quiet of the night...;;;;;;;;;;;;;x
-EVTDESC86165;A messenger comes with an invitation from [From.GetTitledName] who is camped not far from us, offering to break bread and reconcile our differences.;;;;;;;;;;;;;x
-EVTDESC86166;[From.GetTitledName] has joined our camp and we are breaking bread together, reconciling our differences.;;;;;;;;;;;;;x
-EVTDESC86167;Honorable [Root.GetTitledName]!\nI regret to inform you that I will not be able to break bread with you today, as I need to break camp immediately.\n\n[From.GetTitledName] ;;;;;;;;;;;;;x
-EVTDESC86170;Travelling to Mecca gives time for reflection. A [Root.GetManWoman] should not go into excess when it comes to food, and should always abstain from wine!;;;;;;;;;;;;;x
-EVTDESC86180;It seems as if we have managed to get lost here in the desert. One of the humble servants seems as if he might know the right way.;;;;;;;;;;;;;x
-EVTDESC86300;As you stop for camp one evening, you notice that an old man in poor clothing has made camp at the same place. The man offers to tell you a hadith he has if you can spare him some bread.;;;;;;;;;;;;;x
-EVTDESC86320;The old man starts telling you that Ka'b ibn Malik reported that the Messenger of Allah, may Allah bless him and grant him peace, said 'Two hungry wolves loose among sheep do not cause as much damage as that caused to a man's deen by his greed for money and reputation.;;;;;;;;;;;;;x
-EVTDESC86330;The old man says that, the Messenger of Allah, may Allah bless him and grant him peace, would often pray, 'O Allah! I seek your protection from anxiety and grief, from incapacity and laziness, from stinginess and cowardice, and from the burden of debt and the domination of people.';;;;;;;;;;;;;x
-EVTDESC86340;The old man says that, Abu Hurayra reported that the Prophet, may Allah bless him and grant him peace, said, 'Beware of envy. Envy devours good actions as fire devours wood.';;;;;;;;;;;;;x
-EVTDESC86350;The old man says that, Ibn Mas'ud reported that the Prophet, may Allah bless him and grant him peace, said, 'Truthfulness leads to piety and piety leads to the Garden. A [Root.GetManWoman] should be truthful until [Root.GetSheHe] is written down as truthful in the sight of Allah. Lying leads to deviance and deviance leads to the Fire. A person lies to the point that [Root.GetSheHe] is written down as a liar in the sight of Allah.';;;;;;;;;;;;;x
-EVTDESC86360;The old man quotes the Messenger of Allah, may Allah bless him and grant him peace, from Sunan Abu Dawood, "The most evil traits in a [Root.GetManWoman] are severe stinginess and uninhibited cowardice!";;;;;;;;;;;;;x
-EVTDESC86380;The old man starts telling you, that Abu Bakr as-Siddiq said.. "I heard the Messenger of Allah, may Allah bless him and grant him peace, say, 'If people see an unjust person, and do not restrain [Root.GetHerHim], Allah is very likely to seize them with retribution from Him.'";;;;;;;;;;;;;x
-EVTDESC86390;The old man says, "As the holy Qur'an says, 'You desire the attractions of this world, but Allah desires the next world for you!', and 'Yes, you prefer the life of this world, but the next world is better and more lasting.'";;;;;;;;;;;;;x
-EVTDESC86400;The old man says, As related by Al-Tirmidhi, "I said, O Prophet of Allah, will we be held accountable for what we say? He said, 'May your mother be bereft of you! Is there anything that topples people on their faces into the hellfire other than the jests of their tongues?'";;;;;;;;;;;;;x
-EVTDESC86410;The old man says that Abu Hurairah heard the prophet say "When Allah decreed the Creation He pledged Himself by writing in His book which is laid down with Him: 'My mercy prevails over My wrath'.";;;;;;;;;;;;;x
-EVTDESC86510;As you arrive in Mecca you start preparing for the evening's prayer when you discover that the water in the well is not entirely pure. This would not be valid water to use for ablution.;;;;;;;;;;;;;x
-EVTDESC86511;While performing wudu before the night's prayer, a fellow pilgrim points out an impurity in the water!;;;;;;;;;;;;;x
-EVTDESC86520;As you arrive in Mecca, you change from your travelling clothes and dress in the white ihram clothing. This cloth is intended to make everyone appear the same, as in the eyes of Allah there is no difference between a [Root.GetTitle] and a pauper!;;;;;;;;;;;;;x
-EVTDESC86550;You are now at Kabah itself, and performing the Tawaf. Seven circuits you will walk around the black stone, and each time you complete a circuit you point to the stone and say 'In the name of Allah, Allah is Great, Allah is Great, Allah is Great and praise be to Allah'.;;;;;;;;;;;;;x
-EVTDESC86600;Performing the Sa'i involved running seven times between the hills of Safa and Marwah. This is done to remember the search for water by Ishmael's mother...;;;;;;;;;;;;;x
-EVTDESC86610;The ninth day in Mecca you perform the Wuquf at Mount Arafat, with the entire afternoon dedicated to contemplative vigil, praying, and reciting the holy Qur'an.;;;;;;;;;;;;;x
-EVTDESC86620;When Abraham left Mina and was brought down to al-Aqaba, the Devil appeared to him. Gabriel said to him: 'Pelt him!' so Abraham threw seven stones at him so that he disappeared from him.;;;;;;;;;;;;;x
-EVTDESC86630;To symbolize the mercy God had for Abraham, and replacing his son Ishmael with a ram, which Abraham then sacrificed, we perform the Eid al-Adha while at Mecca.;;;;;;;;;;;;;x
-EVTDESC86700;A group of bandits have forced our party to make a stand. We are outnumbered, but with the joy in our heart from our pilgrimage, we have a chance to defeat them!;;;;;;;;;;;;;x
-EVTDESC86701;We accidentally ran into a group of bandits at nightfall, and the guards that I had hired to protect my group proved their worth. All of the infidel bandits have been slain.;;;;;;;;;;;;;x
-EVTDESC86720;As you travel back home from Mecca you encounter a very poor village, where even the richest seem to starve.;;;;;;;;;;;;;x
-EVTDESC86800;I have returned to my court a changed man. I am truly humbled before Allah, and I know that all men are equal and can live in harmony with each other.;;;;;;;;;;;;;x
-EVTDESC86810;The ship you are on falls victim to a mighty storm, and you are tossed overboard as it sinks beneath the waves. Together with your followers and a few other survivors, you are washed ashore on a small, deserted island. As a person of rank, it falls on you to distribute what little food you have left.;;;;;;;;;;;;;x
-EVTDESC86811;After a few days another ship carrying pilgrims passes nearby, and to everyone's relief their lookout spots your stranded party. Though weakened by the lack of food and water, everyone survives thanks to your decision to share supplies evenly.;;;;;;;;;;;;;x
-EVTDESC86812;After a few days another ship carrying pilgrims passes nearby, and to everyone's relief their lookout spots your stranded party. For some of the survivors it is too late, but at least you are in good health, as, befitting of your great station, the lion's share of water and food has gone to you.;;;;;;;;;;;;;x
-EVTDESC86815;You take passage on a ship, but the crew is soon exposed as less than honorable. The captain is overheard discussing how he and his men will sell the pilgrims he is carrying, including you, into slavery at the next port!;;;;;;;;;;;;;x
-EVTDESC86816;Together with the other pilgrims, you turn against the crew and a fierce struggle ensues. The battle ends when you run your blade through the treacherous captain's gut and the rest of the crew surrenders. The ship is under your command!;;;;;;;;;;;;;x
-EVTDESC86817;As the ship approaches the port, you and your party quietly slip away into the water, and swim ashore some distance away from the docks as drenched but free men. The other pilgrims on the ship are not so fortunate...;;;;;;;;;;;;;x
-EVTDESC86820;You are fortunate to encounter a large, well-guarded caravan heading in the same direction as you. After joining with them you encounter several bandit groups as you journey forward, but they all scatter at the sight of the caravan, preferring instead to prey on smaller bands of pilgrims.;;;;;;;;;;;;;x
-EVTDESC86825;You are not far from your goal now, but you and your party are running short on water. A detour to a nearby oasis to replenish your supplies is necessary, but when you arrive it becomes obvious the well dried out many years ago...;;;;;;;;;;;;;x
-EVTDESC86826;As you sit down in prayer, you spot another caravan far away in the distance. Though you suspect it may be another mirage, you decide to follow it and they eventually lead you to the real oasis, slightly southeast of where you thought it would be.;;;;;;;;;;;;;x
-EVTDESC86827;Overcome with anger and despair, you pick up a large rock and throw it in a rage over the crest of a nearby dune. A loud scream is heard from the other side, and as you cross over the crest you find the real oasis, with glittering, crystal-clear water... and an unconscious bedouin.;;;;;;;;;;;;;x
-EVTDESC86830;The journey through the desert is long and arduous under the scorching sun. Suddenly a large tea house materializes into thin air before your very eyes, and the singing djinn who seems to own the establishment beckons you inside. Strangely, your travelling companions do not take notice of this stunning event.;;;;;;;;;;;;;x
-EVTDESC86835;The camel one of your companions is riding on collapses on the sand with a grunt, never to rise again. You could take turns with your companion to ride on your camel, but that would slow you down, and the unforgiving sun would have to be endured a while longer...;;;;;;;;;;;;;x
-EVTDESC86840;As you draw closer to Mecca, you spot an almost endless baggage train belonging to another ruler who seems to have decided to bring all the luxuries of his court along with him on his pilgrimage. As you pass his carriage together with your party, the driver, unaware of your station, curses at you to get out of the way.;;;;;;;;;;;;;x
-EVTDESC86845;Your small party comes across a single robed figure surrounded by a group of angry bandits in the desert. Things could turn ugly unless you intervene...;;;;;;;;;;;;;x
-EVTDESC86846;A fierce melee ensues, and several of the brigands are cut down by the robed figure, who reveals himself to be an able fighter. After the rest are dealt with by your party, the robed man bows before you. He hands you a ring with a strange carved symbol, but before you can ask its meaning he takes off into the desert.;;;;;;;;;;;;;x
-EVTDESC86850;As you ride through the desert on your way home, you pass the grim remains of another pilgrim caravan. Their bones have been picked clean by scavengers and it serves as a sobering reminder of the dangers associated with the Hajj. You consider yourself lucky to have made it as far as you have.;;;;;;;;;;;;;x
-EVTDESC86855;While journeying home, you are caught in the open desert by a terrible sandstorm. You are forced to seek shelter behind a small rock outcropping to shield yourself from the wind. Taking comfort in your faith after visiting Mecca, you spend the night in prayer. As dawn arrives, you feel almost invigorated.;;;;;;;;;;;;;x
-EVTDESC86860;You catch up with some fellow pilgrims who are also returning home from the Hajj. They have been beset by bandits who have stolen everything but their clothes and left them with no means to continue the journey.;;;;;;;;;;;;;x
-EVTDESC86865;You are ambushed by brigands as you move through the desert on your way home, and though your party cuts down several of their number, there are simply too many. They surround you and advance with twisted grins and drawn weapons. Things look bleak indeed...;;;;;;;;;;;;;x
-EVTDESC86866;A strange whistle is heard and the air is suddenly filled with flying daggers and arrows. Robed figures seem to rise out of the sand and the air becomes heavy with dust. When it settles, the bandits lie dead on the ground. One of the robed men takes the strange ring you were given earlier, saying with a smile: "The Hashshashin always repay their debts, friend.";;;;;;;;;;;;;x
-EVTDESC86902;[Root.job_spiritual.GetTitledFirstName] is reminding you that you had promised to liberate good [muslim.GetGroupName] living under [christian.GetGroupName] rule, and there still exists such in the world.;;;;;;;;;;;;;x
-EVTDESC86900;A local Imam is berating you as you are getting older and have not yet been on hajj, which is expected of every Muslim once in [Root.GetHerHis] life. [Root.job_spiritual.GetTitledFirstName] says that as a ruler, I should be an example for my subjects.;;;;;;;;;;;;;x
-EVTDESC86901;[Root.job_spiritual.GetTitledFirstName] is reminding you that you have promised to go to Mecca, and that while Allah is merciful in His wisdom, you have indeed promised Him to go on a pilgrimage.;;;;;;;;;;;;;x
-
-EVTOPTA86000;All are equal in front of God!;;;;;;;;;;;;;x
-EVTOPTA86001;It will make travel more enjoyable...;;;;;;;;;;;;;x
-EVTOPTA86010;Berate [Root.Liege.GetHerHim] about it!;;;;;;;;;;;;;x
-EVTOPTA86011;I will prepare myself immediately!;;;;;;;;;;;;;x
-EVTOPTA86012;Allah is Great!;;;;;;;;;;;;;x
-EVTOPTA86013;Allah will judge him...;;;;;;;;;;;;;x
-EVTOPTA86015;Bring guards with you;;;;;;;;;;;;;x
-EVTOPTA86020;Bring [target_child.GetHerHim] along;;;;;;;;;;;;;x
-EVTOPTA86100;Onwards to Mecca!;;;;;;;;;;;;;x
-EVTOPTA86101;Attempt to avoid them!;;;;;;;;;;;;;x
-EVTOPTA86102;They are few enough to defeat alone..;;;;;;;;;;;;;x
-EVTOPTA86105;I feel good!;;;;;;;;;;;;;x
-EVTOPTA86110;It's too great of a risk...;;;;;;;;;;;;;x
-EVTOPTA86150;There is nothing we can do...;;;;;;;;;;;;;x
-EVTOPTA86151;My brother!;;;;;;;;;;;;;x
-EVTOPTA86160;Attempt to ambush him in the night..;;;;;;;;;;;;;x
-EVTOPTA86161;Fight back!;;;;;;;;;;;;;x
-EVTOPTA86162;[From.GetTitledName] got the best of me..;;;;;;;;;;;;;x
-EVTOPTA86163;[From.GetSheHeCap] will surely die soon enough..;;;;;;;;;;;;;x
-EVTOPTA86164;It can't be helped...;;;;;;;;;;;;;x
-EVTOPTA86165;We are allies in the faith after all..;;;;;;;;;;;;;x
-EVTOPTA86166;Subhan'Allah;;;;;;;;;;;;;x
-EVTOPTA86167;We have lost face!;;;;;;;;;;;;;x
-EVTOPTA86170;I shall be more moderate in my eating..;;;;;;;;;;;;;x
-EVTOPTA86180;I am [Root.GetTitle]! I know the best way!;;;;;;;;;;;;;x
-EVTOPTA86300;Listen to the old man;;;;;;;;;;;;;x
-EVTOPTA86320;Greed is against Islam!;;;;;;;;;;;;;x
-EVTOPTA86330;I bow my head and say the same prayer.;;;;;;;;;;;;;x
-EVTOPTA86340;Envy harms myself!;;;;;;;;;;;;;x
-EVTOPTA86350;I should be with the truthful!;;;;;;;;;;;;;x
-EVTOPTA86360;And I am no evil [Root.GetManWoman]...;;;;;;;;;;;;;x
-EVTOPTA86380;Allah commands to justice and doing good!;;;;;;;;;;;;;x
-EVTOPTA86390;This is wisdom!;;;;;;;;;;;;;x
-EVTOPTA86400;I will think more on what I say...;;;;;;;;;;;;;x
-EVTOPTA86410;This is wisdom I was not aware of.;;;;;;;;;;;;;x
-EVTOPTA86510;Inform others nearby.;;;;;;;;;;;;;x
-EVTOPTA86511;Cleanliness is half of faith!;;;;;;;;;;;;;x
-EVTOPTA86520;I am humbled....;;;;;;;;;;;;;x
-EVTOPTA86550;Shout at every circuit!;;;;;;;;;;;;;x
-EVTOPTA86600;I feel invigorated!;;;;;;;;;;;;;x
-EVTOPTA86610;I feel like I understand more now;;;;;;;;;;;;;x
-EVTOPTA86620;Stone the Jamarat!;;;;;;;;;;;;;x
-EVTOPTA86630;Sacrifice a ram.;;;;;;;;;;;;;x
-EVTOPTA86700;These infidels will shatter.;;;;;;;;;;;;;x
-EVTOPTA86701;Their loot can come to use.;;;;;;;;;;;;;x
-EVTOPTA86720;I must help them!;;;;;;;;;;;;;x
-EVTOPTA86800;There is no god but Allah, and Muhammad is the messenger of Allah;;;;;;;;;;;;;x
-EVTOPTA86810;We will share evenly, as brothers.;;;;;;;;;;;;;x
-EVTOPTA86811;Now we can all continue to Mecca!;;;;;;;;;;;;;x
-EVTOPTA86812;Let us pay no heed to this little setback. Onwards!;;;;;;;;;;;;;x
-EVTOPTA86815;That will not come to pass. To arms!;;;;;;;;;;;;;x
-EVTOPTA86816;Set sail for Mecca!;;;;;;;;;;;;;x
-EVTOPTA86817;At least now we can continue our journey.;;;;;;;;;;;;;x
-EVTOPTA86820;Cowardly scum!;;;;;;;;;;;;;x
-EVTOPTA86825;We must have faith.;;;;;;;;;;;;;x
-EVTOPTA86826;Allah be praised!;;;;;;;;;;;;;x
-EVTOPTA86827;Well... who would have thought?;;;;;;;;;;;;;x
-EVTOPTA86830;A mirage... my mind is playing tricks on me.;;;;;;;;;;;;;x
-EVTOPTA86835;Here, use my mount for a while.;;;;;;;;;;;;;x
-EVTOPTA86840;We are all equal before Allah, friend...;;;;;;;;;;;;;x
-EVTOPTA86845;Stand aside, brigands!;;;;;;;;;;;;;x
-EVTOPTA86846;How peculiar.;;;;;;;;;;;;;x
-EVTOPTA86850;We will soon be home, Insha'Allah.;;;;;;;;;;;;;x
-EVTOPTA86855;I will remember this night.;;;;;;;;;;;;;x
-EVTOPTA86860;Here. This should be enough to see you safely home.;;;;;;;;;;;;;x
-EVTOPTA86865;Come then. I will sell myself dearly...;;;;;;;;;;;;;x
-EVTOPTA86866;Then consider the debt repaid in full.;;;;;;;;;;;;;x
-EVTOPTA86900;I will soon go to Mecca!;;;;;;;;;;;;;x
-EVTOPTA86901;I am not a good Muslim...;;;;;;;;;;;;;x
-EVTOPTA86902;I am not a good Muslim...;;;;;;;;;;;;;x
-
-EVTOPTB86001;It is too costly...;;;;;;;;;;;;;x
-EVTOPTB86010;Clearly, [Root.Liege.GetSheHe] is a busy [Root.Liege.GetManWoman]...;;;;;;;;;;;;;x
-EVTOPTB86011;I am too busy!;;;;;;;;;;;;;x
-EVTOPTB86015;Travel lightly;;;;;;;;;;;;;x
-EVTOPTB86020;It would be too costly;;;;;;;;;;;;;x
-EVTOPTB86101;Its our duty to stop them..;;;;;;;;;;;;;x
-EVTOPTB86102;Charge!;;;;;;;;;;;;;x
-EVTOPTB86110;We must stop these infidels!;;;;;;;;;;;;;x
-EVTOPTB86150;Attempt to rescue them!;;;;;;;;;;;;;x
-EVTOPTB86160;Befriend him...;;;;;;;;;;;;;x
-EVTOPTB86161;Fight back!;;;;;;;;;;;;;x
-EVTOPTB86165;Politely Decline...;;;;;;;;;;;;;x
-EVTOPTB86170;Alhamdulillah!;;;;;;;;;;;;;x
-EVTOPTB86180;Listen to the servant...;;;;;;;;;;;;;x
-EVTOPTB86300;It is just an old man...;;;;;;;;;;;;;x
-EVTOPTB86320;Alhamdulillah!;;;;;;;;;;;;;x
-EVTOPTB86330;Alhamdulillah!;;;;;;;;;;;;;x
-EVTOPTB86340;Alhamdulillah!;;;;;;;;;;;;;x
-EVTOPTB86350;Alhamdulillah!;;;;;;;;;;;;;x
-EVTOPTB86360;Alhamdulillah!;;;;;;;;;;;;;x
-EVTOPTB86380;Alhamdulillah!;;;;;;;;;;;;;x
-EVTOPTB86390;Alhamdulillah!;;;;;;;;;;;;;x
-EVTOPTB86400;Alhamdulillah!;;;;;;;;;;;;;x
-EVTOPTB86410;Alhamdulillah!;;;;;;;;;;;;;x
-EVTOPTB86550;Only shout the first three times;;;;;;;;;;;;;x
-EVTOPTB86630;Sacrifice a lamb.;;;;;;;;;;;;;x
-EVTOPTB86700;Run away!;;;;;;;;;;;;;x
-EVTOPTB86720;I can't afford to help them all..;;;;;;;;;;;;;x
-EVTOPTB86810;As [Root.GetTitle], my share will be greatest of course.;;;;;;;;;;;;;x
-EVTOPTB86815;We will sneak off the ship just before it docks...;;;;;;;;;;;;;x
-EVTOPTB86825;Haha... of course the well is dry...;;;;;;;;;;;;;x
-EVTOPTB86830;Last one inside buys the first round of tea!;;;;;;;;;;;;;x
-EVTOPTB86835;Terrible luck, friend... see you in Mecca!;;;;;;;;;;;;;x
-EVTOPTB86845;It is no concern of ours.;;;;;;;;;;;;;x
-EVTOPTB86860;Sorry, but I cannot afford to dally. Best of luck to you.;;;;;;;;;;;;;x
-EVTOPTB86900;I am busy preparing a jihad, to liberate fellow Muslims!;;;;;;;;;;;;;x
-
-EVTOPTC86102;Pay them with our remaining gold.;;;;;;;;;;;;;x
-EVTOPTC86160;I'll just ignore him.;;;;;;;;;;;;;x
-EVTOPTC86161;We got enough time to run away..;;;;;;;;;;;;;x
-EVTOPTC86900;I am busy being [Root.County.Holder.PrimaryTitle.GetRulerTitle]!;;;;;;;;;;;;;x
-
-EVTTOOLTIP86011;[This.GetTitledName] will listen to us...;;;;;;;;;;;;;x
-EVTTOOLTIP86012;[This.GetTitledName] will be travelling together with us...;;;;;;;;;;;;;x
-EVTTOOLTIP86013;[This.GetTitledName] will be disappointed in me;;;;;;;;;;;;;x
-EVTTOOLTIP86102;I and my group of pilgrims will engage the bandits.;;;;;;;;;;;;;x
-EVTTOOLTIP86161;[This.GetTitledName] will face our steel!;;;;;;;;;;;;;x
-EVTTOOLTIP86162;[This.GetTitledName] is left for dead in the night..;;;;;;;;;;;;;x
-EVTTOOLTIP86165;[This.GetTitledName] will hear our invitation.;;;;;;;;;;;;;x
-EVTTOOLTIP86166;Bread is shared.;;;;;;;;;;;;;x
-EVTTOOLTIP86167;Informed you will not join him.;;;;;;;;;;;;;x
-EVTTOOLTIP86511;[This.GetTitledName] will be grateful;;;;;;;;;;;;;x
-EVTTOOLTIP86811;You share the food evenly with the other survivors.;;;;;;;;;;;;;x
-EVTTOOLTIP86812;Most of the supplies are reserved for you.;;;;;;;;;;;;;x
-EVTTOOLTIP86816;Mutiny!;;;;;;;;;;;;;x
-EVTTOOLTIP86817;You flee the ship.;;;;;;;;;;;;;x
-EVTTOOLTIP86826;Sit down in prayer.;;;;;;;;;;;;;x
-EVTTOOLTIP86827;Give in to despair.;;;;;;;;;;;;;x
-EVTTOOLTIP86846;Save the robed figure.;;;;;;;;;;;;;x
-EVTTOOLTIP86866;You make your last stand...;;;;;;;;;;;;;x
-
-TOOLTIP_LISTEN_TO_HADITH;You listen carefully to the old man's hadith.\n;;;;;;;;;;;;;x
+EVTDESC86000;You have started to prepare yourself for going on a pilgrimage to Mecca. Soon you will humble yourself and travel in a group with others to fulfill one of the five pillars of Islam.;;;;;;;;;;;Âû íà÷àëè ãîòîâèòüñÿ ê ïàëîìíè÷åñòâó â Ìåêêó. Âñêîðå Âû îòïðàâèòåñü â ïóòåøåñòâèå ñ äðóãèìè ïàëîìíèêàìè, ÷òîáû âûïîëíèòü îäèí èç ïÿòè ñòîëïîâ èñëàìà.;;x
+EVTDESC86001;I am preparing myself for my travel to Mecca, and I have understood that there are members of my court that have not yet gone on a pilgrimage to Mecca. As [Root.PrimaryTitle.GetRulerTitle], it is my duty to be charitable to my people, and I will bring one of them with me.;;;;;;;;;;;Ãîòîâÿñü ê ïóòåøåñòâèþ â Ìåêêó, ÿ óçíàë[Root.GetEndA], ÷òî ìîè ïðèäâîðíûå åù¸ íå ñîâåðøàëè ïàëîìíè÷åñòâà â Ìåêêó. [Root.PrimaryTitle.GetRulerTitle] äîëæ[Root.GetNaEn] áëàãîâîëèòü ñâîèì ïîääàííûì, îä[From.GetNaIn] èç íèõ îòïðàâèòñÿ ñî ìíîé.;;x
+EVTDESC86010;While preparing for my pilgrimage to Mecca, I have come to realize that [Root.Liege.GetTitledName] is not a Hajjaj.;;;;;;;;;;;Âî âðåìÿ ïîäãîòîâêè ïàëîìíè÷åñòâà â Ìåêêó ìíå ñòàëî ÿñíî, ÷òî [Root.Liege.GetTitledName] íå ñîâåðøàë[Root.Liege.GetEndA] õàäæà.;;x
+EVTDESC86011;My beloved [Root.GetTitle]!\n I am preparing to go to Mecca on a Hajj. Sadly, rumors tell me that you have not gone on a pilgrimage yourself. Would you like to travel with me, your faithful servant?\nYour humble [From.GetTitledName];;;;;;;;;;;Äà áëàãîñëîâèò Âàñ Àëëàõ, [Root.PrimaryTitle.GetFOA]!\n ß ãîòîâëþñü ê õàäæó. Ê ñîæàëåíèþ äî ìåíÿ äîøëè ñëóõè, ÷òî Âû íå ñîâåðøàëè ïàëîìíè÷åñòâà. Íå æåëàåòå ëè îòïðàâèòüñÿ â ïóòåøåñòâèå ñ Âàøèì ïîêîðíûì ñëóãîé?\nÂàø âåðíûé âàññàë, [From.GetTitledName];;x
+EVTDESC86012;Dear [Root.GetTitledFirstName]!\nI will join you on your way to Mecca!\nYour liege, [From.GetTitledName];;;;;;;;;;;[Root.GetTitledFirstName]!\nß ïðèñîåäèíþñü ê Âàì íà Âàøåì ïóòè!\nÂàø ñþçåðåí, [From.GetTitledName];;x
+EVTDESC86013;I am sincerely regretful to inform you that I am not able to join you in your pilgrimage.\n[From.GetTitledName];;;;;;;;;;;Ìíå èñêðåííå æàëü, ÷òî ÿ íå ìîãó ïðèñîåäèíèòüñÿ ê Âàì â Âàøåì ïàëîìíè÷åñòâå.\n[From.GetTitledName];;x
+EVTDESC86015;Our liege, [Root.Liege.GetTitledName], has heard of our plans to go to Mecca, and sends us advice that the road is perilous with infidels and bandits.;;;;;;;;;;;Íàø ñþçåðåí, [Root.Liege.GetTitledName], ñëûøàë î íàøèõ ïëàíàõ îòïðàâèòüñÿ â Ìåêêó è øë¸ò âåñòü îá îïàñíîñòÿõ íà äîðîãå èç-çà íåâåðíûõ è ðàçáîéíèêîâ.;;x
+EVTDESC86020;While preparing for my pilgrimage to Mecca, my child comes to me and asks if [target_child.GetSheHe] can join me.;;;;;;;;;;;Âî âðåìÿ ïîäãîòîâêè ê ïàëîìíè÷åñòâó ìî[From.GetAyaOy] [From.GetSonDaughter] ïîäîø[From.GetLaYol] êî ìíå è ïîïðîñèë[From.GetEndA] âçÿòü [From.GetHersHis] ñ ñîáîé.;;x
+EVTDESC86100;I am now fully prepared for my travel to Mecca! There will be a regent ruling [Root.PrimaryTitle.GetName] while I am away.;;;;;;;;;;;Âñå ïðèãîòîâëåíèÿ ê ïóòåøåñòâèþ â Ìåêêó çàâåðøåíû! Âî âðåìÿ ìîåãî îòñóòñòâèÿ [Root.PrimaryTitle.GetName] îñòàíåòñÿ íà ïîïå÷åíèè ðåãåíòà.;;x
+EVTDESC86101;A group of bandits are tracking us, and it seems as if they are gaining on us.;;;;;;;;;;;Íàñ ïðåñëåäóåò áàíäà ðàçáîéíèêîâ, è ïîõîæå, ÷òî îíè íàñ íàñòèãàþò.;;x
+EVTDESC86102;It is not possible to outrun these bandits, and we are forced to confront them. There is always the possibility that we can survive this.;;;;;;;;;;;Îò ýòèõ áàíäèòîâ íå ñáåæàòü, È íàì ïðèøëîñü äàòü èì îòïîð. Âñåãäà åñòü âåðîÿòíîñòü óöåëåòü.;;x
+EVTDESC86105;Travelling by sea causes you to feel seasick. Luckily there is a hafiz on the ship who quotes the holy Qur'an. 'And they shall be made to drink therein a cup the admixture of which shall be ginger'.;;;;;;;;;;;"Ïóòåøåñòâèå ïî ìîðþ âûçâàëî ó Âàñ ìîðñêóþ áîëåçíü. Ê ñ÷àñòüþ íà êîðàáëå áûë õàôèç, êîòîðûé ïðîöèòèðîâàë Êîðàí. ""Ïîèòü èõ òàì áóäóò èç ÷àø âèíîì, ñìåøàííûì ñ èìáèðåì, èç èñòî÷íèêà, íàçâàííîãî Ñàëüñàáèëåì"".";;x
+EVTDESC86110;As you travel over the sea, your ship spots the sails of a well-known [christian.GetGroupName] pirate. We have a faster ship, and the chance to eliminate this threat to pilgrims forever!;;;;;;;;;;;Âî âðåìÿ ïóòåøåñòâèÿ ïî ìîðþ ýêèïàæ êîðàáëÿ çàìåòèë ïàðóñà çíàìåíèòîãî [This.GetChristianGroupAdj]ñêîãî ïèðàòà. Íàø êîðàáëü áûñòðåå, íî ýòî òàêîé øàíñ íàâñåãäà óñòðàíèòü óãðîçó äëÿ ïàëîìíèêîâ!;;x
+EVTDESC86150;Nearby you see how a group of bandits have encircled a group of fellow pilgrims. It is very likely they will rob and kill them.;;;;;;;;;;;Âû âèäèòå, êàê íåïîäàëåêó ðàçáîéíèêè îêðóæèëè ãðóïïó ïàëîìíèêîâ. Ñêîðåå âñåãî, îíè îãðàáÿò è óáüþò èõ.;;x
+EVTDESC86151;We got surrounded by bandits, and I was sure that I was soon going to be robbed and left for dead, when some fellow pilgrims arrived to save us.;;;;;;;;;;;Ìû ïîïàëè â îêðóæåíèå ðàçáîéíèêîâ, îíè ñîáðàëèñü îãðàáèòü è óáèòü íàñ. Íî âäðóã íàì íà ïîìîùü ïðèøëè ïàëîìíèêè.;;x
+EVTDESC86160;One of my servants have noticed that a hated rival is camping not far from us. I know that it is against the teachings of the prophet to attack someone on Hajj, but this is a golden opportunity.;;;;;;;;;;;Îäèí èç ìîèõ ïîääàííûõ çàìåòèë íàøåãî ïðîòèâíèêà, ðàçáèâøåãî ëàãåðü íåäàëåêî îò íàñ. ß çíàþ, ÷òî ýòî ïðîòèâîðå÷èò ó÷åíèþ ïðîðîêà - íàïàäàòü âî âðåìÿ õàäæà, íî òàêàÿ áëåñòÿùàÿ âîçìîæíîñòü...;;x
+EVTDESC86161;We have been ambushed, and it seems as if it is [From.GetTitledName] who is attempting to kill you. It is an outrage, and it clear that [From.GetSheHe] is not a proper Muslim to attempt such a vile act in the darkness!;;;;;;;;;;;Íà íàñ íåîæèäàííî íàïàëè, è ïîõîæå, ÷òî ýòî [From.GetTitledName], êîòîðûé ïûòàåòñÿ óáèòü Âàñ. Ýòî âåðîëîìíûé ïîñòóïîê, è ÿñíî, ÷òî îí íå ÿâëÿåòñÿ èñòèííûì ìóñóëüìàíèíîì, ðåøèâøèñü íà ãíóñíîå íàïàäåíèå â òåìíîòå!;;x
+EVTDESC86162;Our ambush ended in disaster... Not only did [From.GetTitledName] get away, but [From.GetSheHe] also injured me severely.;;;;;;;;;;;Íàø ïëàí ñ çàñàäîé ïðîâàëèëñÿ... Ìàëî òîãî, ÷òî [From.GetTitledName] ñáåæàë, òàê îí åù¸ è òÿæåëî ðàíèë ìåíÿ!;;x
+EVTDESC86163;Success!\nI've left [From.GetTitledName], bleeding severely, to die in the desert...;;;;;;;;;;;Ïîëó÷èëîñü!\nÌíå óäàëîñü íàíåñòè ðàíó è [From.GetTitledName] óìð¸ò â ïóñòûíå îò êðîâîòå÷åíèÿ...;;x
+EVTDESC86164;It seems that [From.GetTitledName] got away in the quiet of the night...;;;;;;;;;;;Ïîõîæå, ÷òî [From.GetTitledName] ñêðûëñÿ â òèøèíå íî÷è...;;x
+EVTDESC86165;A messenger comes with an invitation from [From.GetTitledName] who is camped not far from us, offering to break bread and reconcile our differences.;;;;;;;;;;;Â íàø ëàãåðü ïðèø¸ë ïîñëàííèê ñ ïðèãëàøåíèåì, êîòîðîãî îòïðàâèë [From.GetTitledName], ÷üÿ ãðóïïà îñòàíîâèëàñü íåäàëåêî îò íàñ. Â ïîñëàíèè ïðåäëîæåíèå ðàçäåëèòü òðàïåçó è óñòðàíèòü ìåæ íàìè ðàçíîãëàñèÿ.;;x
+EVTDESC86166;[From.GetTitledName] has joined our camp and we are breaking bread together, reconciling our differences.;;;;;;;;;;;[From.GetTitledName] ïðèñîåäèíèëñÿ ê íàøåìó ëàãåðþ è ìû ðàçäåëèëè òðàïåçó, óñòðàíèâ ìåæäó ñîáîé ðàçíîãëàñèÿ.;;x
+EVTDESC86167;Honorable [Root.GetTitledName]!\nI regret to inform you that I will not be able to break bread with you today, as I need to break camp immediately.\n\n[From.GetTitledName] ;;;;;;;;;;;Ïî÷òåííûé [Root.GetTitledName]!\nÌû ñ ïðèñêîðáèåì ñîîáùàåì, ÷òî íå ñìîæåì ðàçäåëèòü ñ Âàìè òðàïåçó ñåãîäíÿ. Íàì íóæíî ñðî÷íî ñâîðà÷èâàòü ëàãåðü.\n\n[From.GetTitledName] ;;x
+EVTDESC86170;Travelling to Mecca gives time for reflection. A [Root.GetManWoman] should not go into excess when it comes to food, and should always abstain from wine!;;;;;;;;;;;Ïóòåøåñòâèå â Ìåêêó äà¸ò âðåìÿ íà ðàçìûøëåíèå. ×åëîâåê äîëæåí áûòü ñêðîìíûì â åäå è âñåãäà âîçäåðæèâàòüñÿ îò âèíà!;;x
+EVTDESC86180;It seems as if we have managed to get lost here in the desert. One of the humble servants seems as if he might know the right way.;;;;;;;;;;;Êàæåòñÿ, ìû çàáëóäèëèñü â ïóñòûíå. Îäèí èç ïîêîðíûõ ñëóã, âîçìîæíî, ñìîæåò âûâåñòè íàñ.;;x
+EVTDESC86300;As you stop for camp one evening, you notice that an old man in poor clothing has made camp at the same place. The man offers to tell you a hadith he has if you can spare him some bread.;;;;;;;;;;;Ðàçáèâ ëàãåðü íà íî÷ü Âû óâèäåëè ñòàðèêà â áåäíûõ îäåæäàõ. Îí ïðåäëàãàåò ðàññêàçàòü õàäèñ, åñëè Âû äàäèòå åìó íåìíîãî õëåáà.;;x
+EVTDESC86320;The old man starts telling you that Ka'b ibn Malik reported that the Messenger of Allah, may Allah bless him and grant him peace, said 'Two hungry wolves loose among sheep do not cause as much damage as that caused to a man's deen by his greed for money and reputation.;;;;;;;;;;;"Ñòàðèê íà÷èíàåò ðàññêàçûâàòü Âàì, ÷òî Êà'á áèí Ìàëèê îïèñûâàë, êàê Ïîñëàííèê Àëëàõà, äà áëàãîñëîâèò åãî Àëëàõ è ïðèâåòñòâóåò, ãîâîðèë: ""Ïàðà ãîëîäíûõ âîëêîâ, çàïóùåííûõ â ñòàäî îâåö, íå ñìîãóò íàíåñòè èì áîëüøå óðîíà, ÷åì ñòðåìëåíèå ÷åëîâåêà ê áîãàòñòâó è ïî÷åñòÿì íàíîñèò åãî ðåëèãèè"".";;x
+EVTDESC86330;The old man says that, the Messenger of Allah, may Allah bless him and grant him peace, would often pray, 'O Allah! I seek your protection from anxiety and grief, from incapacity and laziness, from stinginess and cowardice, and from the burden of debt and the domination of people.';;;;;;;;;;;"Ñòàðèê ñêàçàë, ÷òî Ïîñëàííèê Àëëàõà (äà áëàãîñëîâèò åãî Àëëàõ è ïðèâåòñòâóåò!) îáû÷íî âçûâàë ê Áîãó ñ ìîëèòâîé: ""Î, Àëëàõ! ß èùó Òâîåé çàùèòû îò ÷óâñòâà òðåâîãè è ïå÷àëè, îò ïðîÿâëåíèé ñëàáîñòè è ëåíè, îò òðóñîñòè è ìàëîäóøèÿ, îò ñêóïîñòè è áðåìåíè äîëãîâ, à òàêæå îò ïðèòåñíåíèÿ ñî ñòîðîíû îêðóæàþùèõ""";;x
+EVTDESC86340;The old man says that, Abu Hurayra reported that the Prophet, may Allah bless him and grant him peace, said, 'Beware of envy. Envy devours good actions as fire devours wood.';;;;;;;;;;;"Ñòàðèê ñêàçàë, ÷òî Àáó Õóðàéðà ãîâîðèë, ÷òî Ïîñëàííèê Àëëàõà (äà áëàãîñëîâèò åãî Àëëàõ è ïðèâåòñòâóåò!) îáû÷íî âçûâàë ê Áîãó ñ ìîëèòâîé: ""Ñòàðàéòåñü ïðåîäîëåòü ÷óâñòâî çàâèñòè, èáî çàâèñòü ïîæèðàåò äîáðûå äåëà ñòîëü æå áûñòðî, êàê îãîíü ïîæèðàåò äðåâåñèíó.""";;x
+EVTDESC86350;The old man says that, Ibn Mas'ud reported that the Prophet, may Allah bless him and grant him peace, said, 'Truthfulness leads to piety and piety leads to the Garden. A [Root.GetManWoman] should be truthful until [Root.GetSheHe] is written down as truthful in the sight of Allah. Lying leads to deviance and deviance leads to the Fire. A person lies to the point that [Root.GetSheHe] is written down as a liar in the sight of Allah.';;;;;;;;;;;"Ñòàðèê ñêàçàë, ÷òî Èáí Ìàñóä ãîâîðèë , ÷òî Ïîñëàííèê Àëëàõà (äà áëàãîñëîâèò åãî Àëëàõ è ïðèâåòñòâóåò!) îáû÷íî âçûâàë ê Áîãó ñ ìîëèòâîé: ""Äåðæèòåñü ïðàâäèâîñòè. Ïîèñòèíå, ïðàâäèâîñòü ïðèâîäèò ê áëàãî÷åñòèþ, è, ïîèñòèíå, áëàãî÷åñòèå ïðèâîäèò ê Ðàþ, è áóäåò ÷åëîâåê ãîâîðèòü ïðàâäó, ïîêà íå ñòàíåò ïðàâäèâåéøèì. ×òî æå êàñàåòñÿ ëæèâîñòè, òî, ïîèñòèíå, îíà ïðèâîäèò ê ãðåõîâíîñòè, à ãðåõîâíîñòü ïðèâîäèò ê îãíþ, è ñòàíåò ÷åëîâåê ëãàòü, ïîêà íå áóäåò çàïèñàí ïåðåä Àëëàõîì êàê îòúÿâëåííûé ëæåö"".";;x
+EVTDESC86360;"The old man quotes the Messenger of Allah, may Allah bless him and grant him peace, from Sunan Abu Dawood, ""The most evil traits in a [Root.GetManWoman] are severe stinginess and uninhibited cowardice!""";;;;;;;;;;;"Ñòàðèê ñêàçàë, ÷òî Àáó Äàóä ãîâîðèë, ÷òî Ïîñëàííèê Àëëàõà (äà áëàãîñëîâèò åãî Àëëàõ è ïðèâåòñòâóåò!) îáû÷íî âçûâàë ê Áîãó ñ ìîëèòâîé: ""Ñàìîå ïëîõîå, ÷òî ìîæåò áûòü â ÷åëîâåêå, – ýòî ÷ðåçìåðíàÿ ñêóïîñòü è òðóñîñòü""";;x
+EVTDESC86380;"The old man starts telling you, that Abu Bakr as-Siddiq said.. ""I heard the Messenger of Allah, may Allah bless him and grant him peace, say, 'If people see an unjust person, and do not restrain [Root.GetHerHim], Allah is very likely to seize them with retribution from Him.'""";;;;;;;;;;;"Ñòàðèê íà÷àë ãîâîðèòü Âàì, ÷òî Àáó Áàêð àñ-Ñèääèê ãîâîðèë: ""ß ñëûøàë êàê Ïîñëàííèê Àëëàõà (äà áëàãîñëîâèò åãî Àëëàõ è ïðèâåòñòâóåò!) îáû÷íî âçûâàë ê Áîãó ñ ìîëèòâîé"" ""Ïîèñòèíå, åñëè ëþäè óâèäÿò ïðèòåñíèòåëÿ è íå ñõâàòÿò åãî çà ðóêè, òî áóäóò îíè áëèçêè ê òîìó, ÷òî Àëëàõ ïîäâåðãíåò Ñâîåìó íàêàçàíèþ èõ âñåõ""";;x
+EVTDESC86390;"The old man says, ""As the holy Qur'an says, 'You desire the attractions of this world, but Allah desires the next world for you!', and 'Yes, you prefer the life of this world, but the next world is better and more lasting.'""";;;;;;;;;;;"Ñòàðèê ñêàçàë: ""Ñâÿùåííûé Êîðàí ãîâîðèò: ""Âû æåëàåòå ìèðñêèõ áëàã, Àëëàõ æå èçãîòîâèë äëÿ âàñ áóäóùèé ìèð"", è ""Íî íåò æå! Âû ïðåäïî÷èòàåòå æèçíü çäåøíþþ, õîòÿ áóäóùàÿ æèçíü - ëó÷øå è âå÷íà.""""";;x
+EVTDESC86400;"The old man says, As related by Al-Tirmidhi, ""I said, O Prophet of Allah, will we be held accountable for what we say? He said, 'May your mother be bereft of you! Is there anything that topples people on their faces into the hellfire other than the jests of their tongues?'""";;;;;;;;;;;"Ñòàðèê ñêàçàë, ÷òî Àò-Òèðìèçè ãîâîðèë: ""ß ñêàçàë: ""Î Ïîñëàííèê Àëëàõà, ðàçâå òî, ÷òî ìû ãîâîðèì, áóäåò îáðàùåíî ïðîòèâ íàñ?"" Îí ñêàçàë: ""Ïóñòü òâîÿ ìàòü ëèøèòñÿ òåáÿ! ×òî äðóãîå ïîâåðãàåò ëþäåé ëèöîì - èëè, êàê îí âûðàçèëñÿ, íîñîì - â ãååííó, êàê íå ïëîäû èõ ÿçûêà?""""";;x
+EVTDESC86410;"The old man says that Abu Hurairah heard the prophet say ""When Allah decreed the Creation He pledged Himself by writing in His book which is laid down with Him: 'My mercy prevails over My wrath'.""";;;;;;;;;;;"Ñòàðèê ñêàçàë, ÷òî Àáó Õóðàéðà ñëûøàë, êàê ïðîðîê ãîâîðèë: ""Çàâåðøèâ òâîðåíèå, Àëëàõ ñäåëàë çàïèñü â Ñâîåé Êíèãå, êîòîðàÿ íàõîäèòñÿ ïðè Í¸ì, ïðåäïèñàâ Ñåáå: ""Ïîèñòèíå, ìèëîñåðäèå Ìî¸ áóäåò ïðåîáëàäàòü íàä ãíåâîì Ìîèì""""";;x
+EVTDESC86510;As you arrive in Mecca you start preparing for the evening's prayer when you discover that the water in the well is not entirely pure. This would not be valid water to use for ablution.;;;;;;;;;;;Ïî ïðèåçäó â Ìåêêó Âû íà÷èíàåòå ãîòîâèòüñÿ ê âå÷åðíåé ìîëèòâå, íî îáíàðóæèâàåòå, ÷òî âîäà â êîëîäöå íå ñîâñåì ÷èñòà. Ýòà âîäà íå ïîäõîäèò äëÿ îìîâåíèÿ.;;x
+EVTDESC86511;While performing wudu before the night's prayer, a fellow pilgrim points out an impurity in the water!;;;;;;;;;;;Ïðè ïîäãîòîâêå îìîâåíèÿ ïåðåä íî÷íîé ìîëèòâîé îäèí ïèëèãðèì óêàçàë ìíå íà çàãðÿçíåíèå âîäû!;;x
+EVTDESC86520;As you arrive in Mecca, you change from your travelling clothes and dress in the white ihram clothing. This cloth is intended to make everyone appear the same, as in the eyes of Allah there is no difference between a [Root.GetTitle] and a pauper!;;;;;;;;;;;Ïî ïðèáûòèè â Ìåêêó Âû ìåíÿåòå äîðîæíóþ îäåæäó íà áåëûé èõðàì. Ýòî îäåÿíèå ïðåäíàçíà÷åíî, ÷òîáû âñ¸ â í¸ì âûãëÿäåëè îäèíàêîâî, êàê è â ãëàçàõ Àëëàõà, äëÿ êîòîðîãî [Root.GetTitle] è íèùèé ðàâíû!;;x
+EVTDESC86550;You are now at Kabah itself, and performing the Tawaf. Seven circuits you will walk around the black stone, and each time you complete a circuit you point to the stone and say 'In the name of Allah, Allah is Great, Allah is Great, Allah is Great and praise be to Allah'.;;;;;;;;;;;"Âû íàõîäèòåñü âîçëå ñàìîé Êààáû è âûïîëíÿåòå Òàâàô. Ñåìü ðàç Âû áóäåòå õîäèòü âîêðóã ÷¸ðíîãî êàìíÿ, è êàæäûé ðàç ïî îêîí÷àíèè êðóãà Âû áóäåòå ìîëèòüñÿ íà êàìåíü ñëîâàìè: ""Âî èìÿ Àëëàõà, Àëëàõ âåëèê, Àëëàõ âåëèê, Àëëàõ âåëèê, õâàëà Àëëàõó.""";;x
+EVTDESC86600;Performing the Sa'i involved running seven times between the hills of Safa and Marwah. This is done to remember the search for water by Ishmael's mother...;;;;;;;;;;;Îáðÿä ñàé âêëþ÷àåò â ñåáÿ áåã ìåæäó õîëìàìè Ñàôà è Ìàðâà ñåìü ðàç. Òàê âñïîìèíàþò ïîèñêè âîäû äëÿ Èçìàèëà åãî ìàòåðüþ...;;x
+EVTDESC86610;The ninth day in Mecca you perform the Wuquf at Mount Arafat, with the entire afternoon dedicated to contemplative vigil, praying, and reciting the holy Qur'an.;;;;;;;;;;;Íà äåâÿòûé äåíü â Ìåêêå âûïîëíÿåòñÿ âóêóô íà ãîðå Àðàôàò. Ýòîò îáðÿä âûïîëíÿåòñÿ ïîñëå ïîëóäíÿ è ïîñâÿù¸í ñîçåðöàòåëüíîìó áäåíèþ, ìîëèòâå è ÷òåíèþ Ñâÿùåííîãî Êîðàíà.;;x
+EVTDESC86620;When Abraham left Mina and was brought down to al-Aqaba, the Devil appeared to him. Gabriel said to him: 'Pelt him!' so Abraham threw seven stones at him so that he disappeared from him.;;;;;;;;;;;"Êîãäà Èáðàõèì ïîêèíóë äîëèíó Ìèíà è ñïóñòèëñÿ ñ àëü-Àêàáà, åìó ÿâèëñÿ äüÿâîë. Äæàáðàèë ñêàçàë åìó: ""Çàáðîñàé åãî!"" è Èáðàõèì áðîñèë ñåìü êàìíåé â äüÿâîëà, è òîò èñ÷åç.";;x
+EVTDESC86630;To symbolize the mercy God had for Abraham, and replacing his son Ishmael with a ram, which Abraham then sacrificed, we perform the Eid al-Adha while at Mecca.;;;;;;;;;;;Äëÿ îáîçíà÷åíèÿ ìèëîñåðäèÿ Áîãà ê Èáðàõèìó, êîãäà âî âðåìÿ æåðòâîïðèíîøåíèÿ Áîã çàìåíèë åãî ñûíà Èçìàèëà íà áàðàíà, ìû ïðàçäíóåì â ýòîò äåíü Êóðáàí-áàéðàì.;;x
+EVTDESC86700;A group of bandits have forced our party to make a stand. We are outnumbered, but with the joy in our heart from our pilgrimage, we have a chance to defeat them!;;;;;;;;;;;Áàíäà ðàçáîéíèêîâ ïðèíóæäàåò íàøó ãðóïïó çàíÿòü ïîçèöèþ. Íàñ ìåíüøå, íî ðàäîñòü îò ïàëîìíè÷åñòâà â íàøèõ ñåðäöàõ ïîìîæåò ïîáåäèòü èõ.;;x
+EVTDESC86701;We accidentally ran into a group of bandits at nightfall, and the guards that I had hired to protect my group proved their worth. All of the infidel bandits have been slain.;;;;;;;;;;;Ìû ñëó÷àéíî íàòêíóëèñü íà ãðóïïó áàíäèòîâ ñ íàñòóïëåíèåì òåìíîòû. Îõðàííèêè, íàíÿòûå äëÿ çàùèòû ãðóïïû, äîêàçàëè ñâîþ ïîëåçíîñòü. Âñå áàíäèòû áûëè óáèòû.;;x
+EVTDESC86720;As you travel back home from Mecca you encounter a very poor village, where even the richest seem to starve.;;;;;;;;;;;Ïî âîçâðàùåíèè äîìîé èç Ìåêêè Âû íàòîëêíóëèñü íà î÷åíü áåäíóþ äåðåâíþ, ãäå äàæå ñàìûå áîãàòûå, ïîõîæå, óìèðàþò ñ ãîëîäó.;;x
+EVTDESC86800;I have returned to my court a changed man. I am truly humbled before Allah, and I know that all men are equal and can live in harmony with each other.;;;;;;;;;;;Ïî âîçâðàùåíèè äîìîé ìîé äâîð íå óçíàë ìîé õàðàêòåð. ß íè÷òîæ[Root.GetNaEn] ïåðåä Àëëàõîì, è ÿ çíàþ, ÷òî âñå ëþäè ðàâíû è ìîãóò æèòü â ãàðìîíèè äðóã ñ äðóãîì.;;x
+EVTDESC86810;The ship you are on falls victim to a mighty storm, and you are tossed overboard as it sinks beneath the waves. Together with your followers and a few other survivors, you are washed ashore on a small, deserted island. As a person of rank, it falls on you to distribute what little food you have left.;;;;;;;;;;;Âàøå ñóäíî ñòàëî æåðòâîé ñèëüíîãî øòîðìà. Âàñ ñìûëî çà áîðò âìåñòå ñ íåñêîëüêèìè Âàøèìè ëþäüìè è âûíåñëî íà ìàëåíüêèé ïóñòûííûé îñòðîâ. Êàê ñòàðø[Root.GetAyaIy] ïî çâàíèþ, Âû äîëæíû ðàñïðåäåëèòü òó ñêóäíóþ ïèùó, êîòîðóþ èìååòå â çàïàñå.;;x
+EVTDESC86811;After a few days another ship carrying pilgrims passes nearby, and to everyone's relief their lookout spots your stranded party. Though weakened by the lack of food and water, everyone survives thanks to your decision to share supplies evenly.;;;;;;;;;;;Ïîñëå íåñêîëüêèõ äíåé äðóãîå ñóäíî, íåñóùåå ïàëîìíèêîâ, ïðîõîäèëî ïîáëèçîñòè, è ê âñåîáùåé ðàäîñòè, çàìåòèëî âàñ. Îñëàáëåííûé íåõâàòêîé ïèùè è âîäû, êàæäûé âûæèâàåò áëàãîäàðÿ Âàøåìó ðåøåíèþ ðàçäåëèòü ïðîâèçèþ.;;x
+EVTDESC86812;After a few days another ship carrying pilgrims passes nearby, and to everyone's relief their lookout spots your stranded party. For some of the survivors it is too late, but at least you are in good health, as, befitting of your great station, the lion's share of water and food has gone to you.;;;;;;;;;;;×åðåç íåñêîëüêî äíåé äðóãîå ñóäíî, íåñóùåå ïàëîìíèêîâ ïðîõîäèëî ïîáëèçîñòè, è ê âñåîáùåé ðàäîñòè, çàìåòèëî âàñ. Äëÿ íåêîòîðûõ èç îñòàâøèõñÿ â æèâûõ ñëèøêîì ïîçäíî, íî ïî êðàéíåé ìåðå Âû íàõîäèòåñü â õîðîøåì ñîñòîÿíèè, ïîñêîëüêó â ñîîòâåòñòâèè ñ Âàøèì âûñîêèì ïîëîæåíèåì, ëüâèíàÿ äîëÿ âîäû è ïèùè äîñòàëàñü Âàì.;;x
+EVTDESC86815;You take passage on a ship, but the crew is soon exposed as less than honorable. The captain is overheard discussing how he and his men will sell the pilgrims he is carrying, including you, into slavery at the next port!;;;;;;;;;;;Âû îòïðàâëÿåòåñü â ïóòü íà êîðàáëå, íî êîìàíäà ñêîðî ïðîÿâèëà ñåáÿ êàê ìåíåå ÷åì áëàãîðîäíàÿ. Âû ïîäñëóøàëè, ÷òî êàïèòàí è åãî êîìàíäà ñîáèðàþòñÿ ïðîäàòü â ðàáñòâî âñåõ ïàññàæèðîâ, âêëþ÷àÿ Âàñ, â áëèæàéøåì ïîðòó!;;x
+EVTDESC86816;Together with the other pilgrims, you turn against the crew and a fierce struggle ensues. The battle ends when you run your blade through the treacherous captain's gut and the rest of the crew surrenders. The ship is under your command!;;;;;;;;;;;Âìåñòå ñ äðóãèìè ïàëîìíèêàìè Âû íàïàëè íà êîìàíäó è âñòóïèëè â æåñòîêèé áîé. Ñðàæåíèå çàêîí÷èëîñü, êîãäà Âû ëè÷íî âûïóñòèëè êèøêè êàïèòàíó ñâîèì ìå÷îì, à îñòàëüíûå ñäàëèñü. Òåïåðü ñóäíî â Âàøèõ ðóêàõ!;;x
+EVTDESC86817;As the ship approaches the port, you and your party quietly slip away into the water, and swim ashore some distance away from the docks as drenched but free men. The other pilgrims on the ship are not so fortunate...;;;;;;;;;;;Êîãäà ñóäíî ïðèáëèçèëîñü ê ïîðòó, Âû è Âàøè òîâàðèùè ïðûãíóëè çà áîðò è âûïëûëè íà áåðåã íà íåêîòîðîì ðàññòîÿíèè îò ïîðòà ïðîìîêøèå, íî ñâîáîäíûå. Äðóãèå ïàëîìíèêè îêàçàëèñü íå ñòîëü óäà÷ëèâûìè...;;x
+EVTDESC86820;You are fortunate to encounter a large, well-guarded caravan heading in the same direction as you. After joining with them you encounter several bandit groups as you journey forward, but they all scatter at the sight of the caravan, preferring instead to prey on smaller bands of pilgrims.;;;;;;;;;;;Âàì ïîâåçëî âñòðåòèòü áîëüøîé õîðîøî îõðàíÿåìûé êàðàâàí, ñëåäóþùèé â òî æå ìåñòî, ÷òî è Âû. Ïîñëå ïðèñîåäèíåíèÿ ê íåìó Âû ñòîëêíóëèñü ñ ãðóïïîé áàíäèòîâ, íî îíè ðàññåÿëèñü ïðè âèäå êàðàâàíà, ïðåäïî÷èòàÿ îõîòèòüñÿ íà ìåíüøèå ñêîïëåíèÿ ïàëîìíèêîâ.;;x
+EVTDESC86825;You are not far from your goal now, but you and your party are running short on water. A detour to a nearby oasis to replenish your supplies is necessary, but when you arrive it becomes obvious the well dried out many years ago...;;;;;;;;;;;Òåïåðü Âû íåäàëåêî îò Âàøåé öåëè, íî Âàì è Âàøèì ñïóòíèêàì íå õâàòàåò âîäû. Ïîõîä ê ñîñåäíåìó îàçèñó, ÷òîáû ïîïîëíèòü çàïàñû îáåðíóëñÿ íåóäà÷åé, êîãäà ñòàëî ïîíÿòíî, ÷òî ìåñòíûé èñòî÷íèê èññÿê ìíîãî ëåò íàçàä...;;x
+EVTDESC86826;As you sit down in prayer, you spot another caravan far away in the distance. Though you suspect it may be another mirage, you decide to follow it and they eventually lead you to the real oasis, slightly southeast of where you thought it would be.;;;;;;;;;;;Âî âðåìÿ ìîëèòâû Âû óâèäåëè âäàëåêå äðóãîé êàðàâàí. Õîòÿ Âû çàïîäîçðèëè, ÷òî ýòî ìîã áûòü ìèðàæ, Âû ðåøèëè ñëåäîâàòü çà íèì, è â êîíå÷íîì ñ÷¸òå ïðèøëè â ðåàëüíûé îàçèñ, íåìíîãî ê þãî-âîñòîêó îò òîãî, ãäå Âû äóìàëè íàéòè âîäó.;;x
+EVTDESC86827;Overcome with anger and despair, you pick up a large rock and throw it in a rage over the crest of a nearby dune. A loud scream is heard from the other side, and as you cross over the crest you find the real oasis, with glittering, crystal-clear water... and an unconscious bedouin.;;;;;;;;;;;Îäåðæèì[Root.GetAyaYy] ãíåâîì è îò÷àÿíèåì, Âû âçîáðàëèñü íà áîëüøóþ ñêàëó è áðîñèëè âçãëÿä çà ãðåáåíü ñîñåäíåé äþíû. Ãðîìêèé êðèê ïîñëûøàëñÿ ñ äðóãîé ñòîðîíû, è êîãäà Âû ïåðåñåêëè ãðåáåíü, Âû íàøëè ðåàëüíûé îàçèñ, ñî ñâåæåé, êðèñòàëüíî ÷èñòîé âîäîé... è íè÷åãî íå ïîäîçðåâàþùèìè áåäóèíàìè.;;x
+EVTDESC86830;The journey through the desert is long and arduous under the scorching sun. Suddenly a large tea house materializes into thin air before your very eyes, and the singing djinn who seems to own the establishment beckons you inside. Strangely, your travelling companions do not take notice of this stunning event.;;;;;;;;;;;Ïîåçäêà ÷åðåç ïóñòûíþ ïîä ïàëÿùèì ñîëíöåì äëèííà è òðóäíà. Âíåçàïíî áîëüøîé ÷àéíûé äîì ìàòåðèàëèçîâàëñÿ â ðàñêàë¸ííîì âîçäóõå ïåðåä Âàøèìè ãëàçàìè, è ïåíèåì äæèííîâ, êîòîðûå, êàæåòñÿ, õîçÿåâà ýòîãî çàâåäåíèÿ, çàçûâàåò Âàñ âíóòðü. Ñòðàííî, Âàøè ïóòåøåñòâóþùèå êîìïàíüîíû íå çàìå÷àþò â ýòîì íè÷åãî ñòðàííîãî.;;x
+EVTDESC86835;The camel one of your companions is riding on collapses on the sand with a grunt, never to rise again. You could take turns with your companion to ride on your camel, but that would slow you down, and the unforgiving sun would have to be endured a while longer...;;;;;;;;;;;Âåðáëþä îäíîãî èç Âàøèõ êîìïàíüîíîâ ïîäâåðíóë íîãó íà ïåñêå è áîëüøå íå ìîæåò âñòàòü. Âû ìîæåòå ïðåäëîæèòü òîâàðèùó ïîåõàòü íà Âàøåì âåðáëþäå, íî ýòî çàìåäëèò Âàñ, è íåóìîëèìîå ñîëíöå áóäåò ïàëèòü Âàñ åù¸ äîëüøå...;;x
+EVTDESC86840;As you draw closer to Mecca, you spot an almost endless baggage train belonging to another ruler who seems to have decided to bring all the luxuries of his court along with him on his pilgrimage. As you pass his carriage together with your party, the driver, unaware of your station, curses at you to get out of the way.;;;;;;;;;;;Ïðèáëèçèâøèñü ê Ìåêêå, Âû óâèäåëè íåñêîí÷àåìûé îáîç ñ ïðèïàñàìè, ïðèíàäëåæàùèé äðóãîìó ïðàâèòåëþ, êîòîðûé, êàæåòñÿ, ðåøèë âåçòè âñþ ðîñêîøü ñâîåãî äâîðà ñ ñîáîé â ïàëîìíè÷åñòâî. Áåñêîíå÷íûå ïîâîçêè ñ áàðàõëîì íàäîëãî ïåðåêðûëè äîðîãó ê áëèæàéøåé ñòàíöèè è Âàì ïðèøëîñü îòêëîíèòüñÿ îò ïóòè.;;x
+EVTDESC86845;Your small party comes across a single robed figure surrounded by a group of angry bandits in the desert. Things could turn ugly unless you intervene...;;;;;;;;;;;Âàøà ìàëåíüêàÿ ãðóïïà íàòîëêíóëàñü â ïóñòûíå íà îäèíîêóþ ôèãóðó â õàëàòå, îêðóæ¸ííóþ ãðóïïîé áàíäèòîâ. Åñëè Âû íå âìåøàåòåñü, ìîæåò ïðîèçîéòè íåïîïðàâèìîå...;;x
+EVTDESC86846;A fierce melee ensues, and several of the brigands are cut down by the robed figure, who reveals himself to be an able fighter. After the rest are dealt with by your party, the robed man bows before you. He hands you a ring with a strange carved symbol, but before you can ask its meaning he takes off into the desert.;;;;;;;;;;;Â æåñòîêîé ñõâàòêå íåêîòîðûå áàíäèòû áûëè óáèòû îäèíîêèì ïóòíèêîì, êîòîðûé ïîêàçàë ñåáÿ ïðåêðàñíûì áîéöîì. Ïîñëå òîãî, êàê ñ îñòàëüíûìè ðàçäåëàëñÿ Âàø îòðÿä, ïóòíèê ïîêëîíèëñÿ Âàì. Îí âðó÷èë Âàì êîëüöî ñî ñòðàííûì ñèìâîëîì, íî ïðåæäå, ÷åì Âàì óäàëîñü ñïðîñèòü åãî î í¸ì, îí ñêðûëñÿ â ïóñòûíå.;;x
+EVTDESC86850;As you ride through the desert on your way home, you pass the grim remains of another pilgrim caravan. Their bones have been picked clean by scavengers and it serves as a sobering reminder of the dangers associated with the Hajj. You consider yourself lucky to have made it as far as you have.;;;;;;;;;;;Ïðîåçæàÿ ÷åðåç ïóñòûíþ äîìîé, Âû óâèäåëè ìðà÷íûå îñòàíêè äðóãîãî êàðàâàíà ïàëîìíèêîâ. Èõ êîñòè îáãëîäàíû øàêàëàìè è ñòåðâÿòíèêàìè, è ýòî ñëóæèò íàïîìèíàíèåì îá îïàñíîñòÿõ, ñâÿçàííûõ ñ õàäæåì. Âû ðåøèëè, ÷òî Âàì ïîâåçëî òàê áûñòðî è ëåãêî ñîâåðøèòü ïàëîìíè÷åñòâî.;;x
+EVTDESC86855;While journeying home, you are caught in the open desert by a terrible sandstorm. You are forced to seek shelter behind a small rock outcropping to shield yourself from the wind. Taking comfort in your faith after visiting Mecca, you spend the night in prayer. As dawn arrives, you feel almost invigorated.;;;;;;;;;;;Ïóòåøåñòâóÿ äîìîé, Âû áûëè çàñòèãíóòû â ïóñòûíå óæàñíîé ïåñ÷àíîé áóðåé. Âû âûíóæäåíû èñêàòü óáåæèùå ïîçàäè ìàëåíüêîãî âûñòóïà ñêàëû, ÷òîáû îãðàäèòü ñåáÿ îò âåòðà. ×åðïàÿ ñèëû â âåðå ïîñëå ïîñåùåíèÿ Ìåêêè, Âû ìîëèëèñü âñþ íî÷ü. Ñ ðàññâåòîì Âû ïî÷óâñòâîâàëè ñåáÿ âîîäóøåâë¸íí[Root.GetOyYm].;;x
+EVTDESC86860;You catch up with some fellow pilgrims who are also returning home from the Hajj. They have been beset by bandits who have stolen everything but their clothes and left them with no means to continue the journey.;;;;;;;;;;;Âû äîãíàëè äðóãèõ ïàëîìíèêîâ, êîòîðûå òàêæå âîçâðàùàëèñü äîìîé èç õàäæà. Èõ îãðàáèëè áàíäèòû, êîòîðûå çàáðàëè âñ¸, êðîìå îäåæäû è îñòàâèëè áåç ñðåäñòâ ïðîäîëæèòü ïîåçäêó.;;x
+EVTDESC86865;You are ambushed by brigands as you move through the desert on your way home, and though your party cuts down several of their number, there are simply too many. They surround you and advance with twisted grins and drawn weapons. Things look bleak indeed...;;;;;;;;;;;Âû ïîïàëè â çàñàäó áàíäèòîâ ïî ïóòè ÷åðåç ïóñòûíþ äîìîé. Çàùèùàÿñü, Âàøè ñïóòíèêè óáèëè íåêîòîðûõ èç íèõ, íî èõ ñëèøêîì ìíîãî. Îíè îêðóæèëè Âàñ. Ïîëîæåíèå êðèòè÷åñêîå...;;x
+EVTDESC86866;"A strange whistle is heard and the air is suddenly filled with flying daggers and arrows. Robed figures seem to rise out of the sand and the air becomes heavy with dust. When it settles, the bandits lie dead on the ground. One of the robed men takes the strange ring you were given earlier, saying with a smile: ""The Hashshashin always repay their debts, friend.""";;;;;;;;;;;"Ðàçäàëñÿ ñòðàííûé ñâèñò, è âîçäóõ âíåçàïíî íàïîëíèëñÿ ëåòÿùèìè êèíæàëàìè è ñòðåëàìè. Ôèãóðû â õàëàòàõ ïîÿâèëèñü èç ïåñêà è ïûëè. Êîãäà ïûëü îñåëà, âñå áàíäèòû áûëè óæå ìåðòâû. Îäèí èç ìóæ÷èí â õàëàòàõ áåð¸ò ñòðàííîå êîëüöî, êîòîðîå Âàì äàëè ðàíåå, ãîâîðÿ ñ óëûáêîé: ""Àññàñèíû âñåãäà âîçâðàùàþò äîëãè, äðóã"".";;x
+EVTDESC86902;[Root.job_spiritual.GetTitledFirstName] is reminding you that you had promised to liberate good [muslim.GetGroupName] living under [christian.GetGroupName] rule, and there still exists such in the world.;;;;;;;;;;;[Root.job_spiritual.GetTitledFirstName] íàïîìèíàåò, ÷òî Âû îáåùàëè îñâîáîäèòü äîáðûõ [_ìóñóëüìàí], æèâóùèõ ïîä [õðèñòèàí]ñêîé âëàñòüþ, ïîêóäà òàêîâàÿ åù¸ ñóùåñòâóåò ïîä íåáîì.;;x
+EVTDESC86900;A local Imam is berating you as you are getting older and have not yet been on hajj, which is expected of every Muslim once in [Root.GetHerHis] life. [Root.job_spiritual.GetTitledFirstName] says that as a ruler, I should be an example for my subjects.;;;;;;;;;;;Ìåñòíûé èìàì ðóãàåò Âàñ çà òî, ÷òî Âû íå ñîâåðøàëè õàäæ, òîãäà êàê êàæäûé ìóñóëüìàíèí äîëæåí ýòî ñäåëàòü õîòÿ áû ðàç â æèçíè. [Root.job_spiritual.GetTitledFirstName] ãîâîðèò, ÷òî ìíå, êàê ïðàâèòåëþ, ñëåäóåò áûòü ïðèìåðîì äëÿ ïîääàííûõ.;;x
+EVTDESC86901;[Root.job_spiritual.GetTitledFirstName] is reminding you that you have promised to go to Mecca, and that while Allah is merciful in His wisdom, you have indeed promised Him to go on a pilgrimage.;;;;;;;;;;;[Root.job_spiritual.GetTitledFirstName] íàïîìèíàåò î Âàøåì îáåùàíèè ïîñåòèòü Ìåêêó. Âî èìÿ Àëëàõà, ìèëîñåðäíîãî â Ñâîåé ìóäðîñòè, Âû îáÿçàíû ñîâåðøèòü ïàëîìíè÷åñòâî.;;x
+EVTOPTA86000;All are equal in front of God!;;;;;;;;;;;Âñå ðàâíû ïåðåä Áîãîì!;;x
+EVTOPTA86001;It will make travel more enjoyable...;;;;;;;;;;;Ýòî ñäåëàåò ïóòåøåñòâèå áîëåå ïðèÿòíûì...;;x
+EVTOPTA86010;Berate [Root.Liege.GetHerHim] about it!;;;;;;;;;;;Îò÷èòàòü çà ýòî!;;x
+EVTOPTA86011;I will prepare myself immediately!;;;;;;;;;;;ß íà÷íó ïðèãîòîâëåíèÿ íåìåäëåííî!;;x
+EVTOPTA86012;Allah is Great!;;;;;;;;;;;Àëëàõ âåëèê!;;x
+EVTOPTA86013;Allah will judge him...;;;;;;;;;;;Àëëàõ åìó ñóäüÿ...;;x
+EVTOPTA86015;Bring guards with you;;;;;;;;;;;Îòïðàâèòüñÿ ñ îõðàíîé;;x
+EVTOPTA86020;Bring [target_child.GetHerHim] along;;;;;;;;;;;Ñîãëàñèòüñÿ;;x
+EVTOPTA86100;Onwards to Mecca!;;;;;;;;;;;Âûñòóïàåì â Ìåêêó!;;x
+EVTOPTA86101;Attempt to avoid them!;;;;;;;;;;;Ïîñòàðàåìñÿ îòîðâàòüñÿ!;;x
+EVTOPTA86102;They are few enough to defeat alone..;;;;;;;;;;;Èõ êàê ðàç õâàòèò, ÷òîáû ñïðàâèòüñÿ â îäèíî÷êó...;;x
+EVTOPTA86105;I feel good!;;;;;;;;;;;ß ÷óâñòâóþ ñåáÿ ëó÷øå!;;x
+EVTOPTA86110;It's too great of a risk...;;;;;;;;;;;Ðèñê ñëèøêîì âåëèê...;;x
+EVTOPTA86150;There is nothing we can do...;;;;;;;;;;;Ìû íè÷åãî íå ìîæåì ïîäåëàòü...;;x
+EVTOPTA86151;My brother!;;;;;;;;;;;Áðàòüÿ ìîè!;;x
+EVTOPTA86160;Attempt to ambush him in the night..;;;;;;;;;;;Íåîæèäàííî íàïàñòü íî÷üþ.;;x
+EVTOPTA86161;Fight back!;;;;;;;;;;;Áîðîòüñÿ äî êîíöà!;;x
+EVTOPTA86162;[From.GetTitledName] got the best of me..;;;;;;;;;;;[From.GetTitledName] âçÿë âåðõ...;;x
+EVTOPTA86163;[From.GetSheHeCap] will surely die soon enough..;;;;;;;;;;;Îí íåñîìíåííî ñêîðî óìð¸ò...;;x
+EVTOPTA86164;It can't be helped...;;;;;;;;;;;Óæå íè÷åì íå ïîìî÷ü...;;x
+EVTOPTA86165;We are allies in the faith after all..;;;;;;;;;;;Ìû áðàòüÿ ïî âåðå, â êîíöå êîíöîâ...;;x
+EVTOPTA86166;Subhan'Allah;;;;;;;;;;;Ñëàâà Àëëàõó.;;x
+EVTOPTA86167;We have lost face!;;;;;;;;;;;Ìû ïîòåðÿëè ëèöî!;;x
+EVTOPTA86170;I shall be more moderate in my eating..;;;;;;;;;;;ß áóäó áîëåå óìåðåíí[Root.GetOyYm]...;;x
+EVTOPTA86180;I am [Root.GetTitle]! I know the best way!;;;;;;;;;;;ß [Root.GetTitle]! ß çíàþ ëó÷øóþ äîðîãó!;;x
+EVTOPTA86300;Listen to the old man;;;;;;;;;;;Âûñëóøàòü ñòàðöà;;x
+EVTOPTA86320;Greed is against Islam!;;;;;;;;;;;Æàäíîñòü ïðîòèâîðå÷èò èñëàìó!;;x
+EVTOPTA86330;I bow my head and say the same prayer.;;;;;;;;;;;Ñêëîíèòü ãîëîâó è ïîâòîðèòü òó æå ìîëèòâó.;;x
+EVTOPTA86340;Envy harms myself!;;;;;;;;;;;Çàâèñòü òîëüêî íàâðåäèò ìíå!;;x
+EVTOPTA86350;I should be with the truthful!;;;;;;;;;;;Ìíå ñëåäóåò áûòü ñ ïðàâäèâ[Root.GetOyYm]!;;x
+EVTOPTA86360;And I am no evil [Root.GetManWoman]...;;;;;;;;;;;ß íå ïëîõîé ÷åëîâåê...;;x
+EVTOPTA86380;Allah commands to justice and doing good!;;;;;;;;;;;Àëëàõ áëàãîâîëèò ñïðàâåäëèâîñòè è äîáðûì äåëàì!;;x
+EVTOPTA86390;This is wisdom!;;;;;;;;;;;Êàêàÿ ìóäðîñòü!;;x
+EVTOPTA86400;I will think more on what I say...;;;;;;;;;;;ß áóäó áîëüøå äóìàòü î òîì, ÷òî ãîâîðþ...;;x
+EVTOPTA86410;This is wisdom I was not aware of.;;;;;;;;;;;Ýòó ìóäðîñòü ÿ åù¸ íå îñîçíàë.;;x
+EVTOPTA86510;Inform others nearby.;;;;;;;;;;;Ðàññêàçàòü ïðî ýòî äðóãèì.;;x
+EVTOPTA86511;Cleanliness is half of faith!;;;;;;;;;;;×èñòîòà - ÷àñòü íàøåé âåðû!;;x
+EVTOPTA86520;I am humbled....;;;;;;;;;;;ß ñìèðåí[Root.GetEndNa]...;;x
+EVTOPTA86550;Shout at every circuit!;;;;;;;;;;;Âûêðèêèâàòü íà êàæäîì êðóãå!;;x
+EVTOPTA86600;I feel invigorated!;;;;;;;;;;;ß ÷óâñòâóþ ñåáÿ òàê[Root.GetOyIm] áîäð[Root.GetOyYm]!;;x
+EVTOPTA86610;I feel like I understand more now;;;;;;;;;;;ß ÷óâñòâóþ, ñëîâíî òåïåðü ñòàë[Root.GetEndA] áîëüøå ïîíèìàòü.;;x
+EVTOPTA86620;Stone the Jamarat!;;;;;;;;;;;Êàìåíü â äæàìàðàò!;;x
+EVTOPTA86630;Sacrifice a ram.;;;;;;;;;;;Çàêîëîòü áàðàíà.;;x
+EVTOPTA86700;These infidels will shatter.;;;;;;;;;;;Ýòè íåâåðíûå áóäóò óíè÷òîæåíû.;;x
+EVTOPTA86701;Their loot can come to use.;;;;;;;;;;;Ìû ìîæåì çàáðàòü èõ âåùè.;;x
+EVTOPTA86720;I must help them!;;;;;;;;;;;Íóæíî ïîìî÷ü èì!;;x
+EVTOPTA86800;There is no god but Allah, and Muhammad is the messenger of Allah;;;;;;;;;;;Íåò áîãà êðîìå Àëëàõà è Ìóõàììàä åãî ïîñëàííèê.;;x
+EVTOPTA86810;We will share evenly, as brothers.;;;;;;;;;;;Ìû ðàçäåëèì âñ¸ ïî-áðàòñêè.;;x
+EVTOPTA86811;Now we can all continue to Mecca!;;;;;;;;;;;Òåïåðü ìû ìîæåì ïðîäîëæèòü ñâîé ïóòü â Ìåêêó!;;x
+EVTOPTA86812;Let us pay no heed to this little setback. Onwards!;;;;;;;;;;;Ìû íå ïðèíèìàåì âî âíèìàíèå ýòó íåáîëüøóþ çàäåðæêó. Âïåð¸ä!;;x
+EVTOPTA86815;That will not come to pass. To arms!;;;;;;;;;;;Ýòî ó íèõ íå ïðîéä¸ò! Ê îðóæèþ!;;x
+EVTOPTA86816;Set sail for Mecca!;;;;;;;;;;;Â Ìåêêó íà âñåõ ïàðóñàõ!;;x
+EVTOPTA86817;At least now we can continue our journey.;;;;;;;;;;;Ïî êðàéíåé ìåðå, òåïåðü ìû ìîæåì ïðîäîëæèòü íàøó ïîåçäêó.;;x
+EVTOPTA86820;Cowardly scum!;;;;;;;;;;;Òðóñëèâûå ïñû!;;x
+EVTOPTA86825;We must have faith.;;;;;;;;;;;Ìû äîëæíû ïîëîæèòüñÿ íà âåðó.;;x
+EVTOPTA86826;Allah be praised!;;;;;;;;;;;Ñëàâà Àëëàõó!;;x
+EVTOPTA86827;Well... who would have thought?;;;;;;;;;;;Âîò ýòî äà... êòî áû ìîã ïîäóìàòü?;;x
+EVTOPTA86830;A mirage... my mind is playing tricks on me.;;;;;;;;;;;Ìèðàæ... ìîè ÷óâñòâà îáìàíûâàþò ìåíÿ.;;x
+EVTOPTA86835;Here, use my mount for a while.;;;;;;;;;;;Âîñïîëüçóéñÿ ïîêà ìîèì âåðáëþäîì.;;x
+EVTOPTA86840;We are all equal before Allah, friend...;;;;;;;;;;;Ìû âñå ðàâíû ïåðåä Àëëàõîì, äðóçüÿ...;;x
+EVTOPTA86845;Stand aside, brigands!;;;;;;;;;;;Ïðî÷ü îòñþäà, íåãîäÿè!;;x
+EVTOPTA86846;How peculiar.;;;;;;;;;;;Ìåñòíàÿ ñïåöèôèêà.;;x
+EVTOPTA86850;We will soon be home, Insha'Allah.;;;;;;;;;;;Ìû ñêîðî áóäåì äîìà, èíøà Àëëàõ!;;x
+EVTOPTA86855;I will remember this night.;;;;;;;;;;;ß áóäó ïîìíèòü ýòó íî÷ü.;;x
+EVTOPTA86860;Here. This should be enough to see you safely home.;;;;;;;;;;;Âîò. Ýòîãî õâàòèò, ÷òîáû áëàãîïîëó÷íî âåðíóòüñÿ äîìîé.;;x
+EVTOPTA86865;Come then. I will sell myself dearly...;;;;;;;;;;;Çà ìíîé! Îíè äîðîãî çàïëàòÿò çà íàøè æèçíè...;;x
+EVTOPTA86866;Then consider the debt repaid in full.;;;;;;;;;;;Òîãäà ñ÷èòàéòå äîëã âîçìåù¸ííûì ïîëíîñòüþ.;;x
+EVTOPTA86900;I will soon go to Mecca!;;;;;;;;;;;ß ñêîðî îòïðàâëþñü â Ìåêêó!;;x
+EVTOPTA86901;I am not a good Muslim...;;;;;;;;;;;ß ïëîõîé ìóñóëüìàíèí...;;x
+EVTOPTA86902;I am not a good Muslim...;;;;;;;;;;;ß ïëîõîé ìóñóëüìàíèí...;;x
+EVTOPTB86001;It is too costly...;;;;;;;;;;;Ýòî òàê äîðîãî...;;x
+EVTOPTB86010;Clearly, [Root.Liege.GetSheHe] is a busy [Root.Liege.GetManWoman]...;;;;;;;;;;;Íåñîìíåííî, îí[From.GetEndA] çàíÿòîé ÷åëîâåê...;;x
+EVTOPTB86011;I am too busy!;;;;;;;;;;;ß ñëèøêîì çàíÿò[Root.GetEndA]!;;x
+EVTOPTB86015;Travel lightly;;;;;;;;;;;Îòïðàâèòüñÿ íàëåãêå;;x
+EVTOPTB86020;It would be too costly;;;;;;;;;;;Ýòî áûëî áû ñëèøêîì äîðîãî;;x
+EVTOPTB86101;Its our duty to stop them..;;;;;;;;;;;Íàø äîëã îñòàíîâèòü èõ...;;x
+EVTOPTB86102;Charge!;;;;;;;;;;;Ïîäíàæì¸ì! ;;x
+EVTOPTB86110;We must stop these infidels!;;;;;;;;;;;Ìû äîëæíû îñòàíîâèòü íåâåðíûõ!;;x
+EVTOPTB86150;Attempt to rescue them!;;;;;;;;;;;Ïîñòàðàåìñÿ ñïàñòè èõ!;;x
+EVTOPTB86160;Befriend him...;;;;;;;;;;;Ïîäðóæèòüñÿ ñ íèì...;;x
+EVTOPTB86161;Fight back!;;;;;;;;;;;Áîðîòüñÿ äî êîíöà!;;x
+EVTOPTB86165;Politely Decline...;;;;;;;;;;;Âåæëèâî îòêàçàòüñÿ...;;x
+EVTOPTB86170;Alhamdulillah!;;;;;;;;;;;Õâàëà Àëëàõó!;;x
+EVTOPTB86180;Listen to the servant...;;;;;;;;;;;Âûñëóøàòü ñëóãó...;;x
+EVTOPTB86300;It is just an old man...;;;;;;;;;;;Ýòî ïðîñòî ñòàðèê...;;x
+EVTOPTB86320;Alhamdulillah!;;;;;;;;;;;Õâàëà Àëëàõó!;;x
+EVTOPTB86330;Alhamdulillah!;;;;;;;;;;;Õâàëà Àëëàõó!;;x
+EVTOPTB86340;Alhamdulillah!;;;;;;;;;;;Õâàëà Àëëàõó!;;x
+EVTOPTB86350;Alhamdulillah!;;;;;;;;;;;Õâàëà Àëëàõó!;;x
+EVTOPTB86360;Alhamdulillah!;;;;;;;;;;;Õâàëà Àëëàõó!;;x
+EVTOPTB86380;Alhamdulillah!;;;;;;;;;;;Õâàëà Àëëàõó!;;x
+EVTOPTB86390;Alhamdulillah!;;;;;;;;;;;Õâàëà Àëëàõó!;;x
+EVTOPTB86400;Alhamdulillah!;;;;;;;;;;;Õâàëà Àëëàõó!;;x
+EVTOPTB86410;Alhamdulillah!;;;;;;;;;;;Õâàëà Àëëàõó!;;x
+EVTOPTB86550;Only shout the first three times;;;;;;;;;;;Êðè÷àòü òîëüêî ïåðâûå òðè ðàçà;;x
+EVTOPTB86630;Sacrifice a lamb.;;;;;;;;;;;Çàêîëîòü ÿãí¸íêà.;;x
+EVTOPTB86700;Run away!;;;;;;;;;;;Áåæèì!;;x
+EVTOPTB86720;I can't afford to help them all..;;;;;;;;;;;ß íå ìîãó ïîçâîëèòü ñåáå âñåì ïîìîãàòü...;;x
+EVTOPTB86810;As [Root.GetTitle], my share will be greatest of course.;;;;;;;;;;;Êàê [Root.GetTitle], ÿ äîëæ[Root.GetNaEn] ïîëó÷èòü ëüâèíóþ äîëþ.;;x
+EVTOPTB86815;We will sneak off the ship just before it docks...;;;;;;;;;;;Ìû áåæèì ñ ñóäíà íåïîñðåäñòâåííî ïåðåä òåì, êàê îíî ïðè÷àëèò...;;x
+EVTOPTB86825;Haha... of course the well is dry...;;;;;;;;;;;Õà-õà... êîíå÷íî, îí ñîâåðøåííî ñóõ...;;x
+EVTOPTB86830;Last one inside buys the first round of tea!;;;;;;;;;;;Ïîøëþ êîãî-íèáóäü âíóòðü êóïèòü ÷àþ!;;x
+EVTOPTB86835;Terrible luck, friend... see you in Mecca!;;;;;;;;;;;Íå ïîâåçëî, äðóã ìîé... Óâèäèìñÿ â Ìåêêå!;;x
+EVTOPTB86845;It is no concern of ours.;;;;;;;;;;;Ýòî íå íàøå äåëî.;;x
+EVTOPTB86860;Sorry, but I cannot afford to dally. Best of luck to you.;;;;;;;;;;;Æàëü, íî ÿ íå ìîãó îòâëåêàòüñÿ ïî ïóñòÿêàì. Âñåãî õîðîøåãî!;;x
+EVTOPTB86900;I am busy preparing a jihad, to liberate fellow Muslims!;;;;;;;;;;;ß çàíÿò[Root.GetEndA] ïîäãîòîâêîé ê äæèõàäó, ÷òîáû îñâîáîäèòü äðóãèõ ìóñóëüìàí!;;x
+EVTOPTC86102;Pay them with our remaining gold.;;;;;;;;;;;Îòäàòü èì îñòàâøååñÿ çîëîòî.;;x
+EVTOPTC86160;I'll just ignore him.;;;;;;;;;;;ß ïðîñòî ïðîèãíîðèðóþ åãî.;;x
+EVTOPTC86161;We got enough time to run away..;;;;;;;;;;;Ó íàñ åñòü äîñòàòî÷íî âðåìåíè, ÷òîáû óáåæàòü ...;;x
+EVTOPTC86900;I am busy being [Root.County.Holder.PrimaryTitle.GetRulerTitle]!;;;;;;;;;;;ß î÷åíü çàíÿò[Root.GetAyaOy] [Root.County.Holder.PrimaryTitle.GetRulerTitle]!;;x
+EVTTOOLTIP86011;[This.GetTitledName] will listen to us...;;;;;;;;;;;áóäåò ïðèñëóøèâàòüñÿ ê íàì...;;x
+EVTTOOLTIP86012;[This.GetTitledName] will be travelling together with us...;;;;;;;;;;;áóäåò ïóòåøåñòâîâàòü ñ íàìè...;;x
+EVTTOOLTIP86013;[This.GetTitledName] will be disappointed in me;;;;;;;;;;;áóäåò ðàçî÷àðîâàí âî ìíå;;x
+EVTTOOLTIP86102;I and my group of pilgrims will engage the bandits.;;;;;;;;;;;Ìû ñ ãðóïïîé ïàëîìíèêîâ âñòóïèì â áîé ñ áàíäèòàìè.;;x
+EVTTOOLTIP86161;[This.GetTitledName] will face our steel!;;;;;;;;;;;Ñêðåñòèì æå íàøè êëèíêè!;;x
+EVTTOOLTIP86162;[This.GetTitledName] is left for dead in the night..;;;;;;;;;;;îñòàâëåí ïðè ñìåðòè â íî÷è...;;x
+EVTTOOLTIP86165;[This.GetTitledName] will hear our invitation.;;;;;;;;;;;ïîëó÷èò íàøå ïðèãëàøåíèå.;;x
+EVTTOOLTIP86166;Bread is shared.;;;;;;;;;;;Õëåá ðîçäàí;;x
+EVTTOOLTIP86167;Informed you will not join him.;;;;;;;;;;;Ñîîáùèòü, ÷òî Âû íå ïðèñîåäèíèòåñü ê íåìó;;x
+EVTTOOLTIP86511;[This.GetTitledName] will be grateful;;;;;;;;;;;áóäó áëàãîäàð[Root.GetNaEn];;x
+EVTTOOLTIP86811;You share the food evenly with the other survivors.;;;;;;;;;;;Ïîðîâíó ðàçäåëèòü ïèùó ñ äðóãèìè îñòàâøèìèñÿ â æèâûõ.;;x
+EVTTOOLTIP86812;Most of the supplies are reserved for you.;;;;;;;;;;;Áîëüøàÿ ÷àñòü ïðîâèçèè äîñòàëàñü Âàì.;;x
+EVTTOOLTIP86816;Mutiny!;;;;;;;;;;;Áóíò!;;x
+EVTTOOLTIP86817;You flee the ship.;;;;;;;;;;;Âû áåæèòå ñ êîðàáëÿ;;x
+EVTTOOLTIP86826;Sit down in prayer.;;;;;;;;;;;Ïîìîëèòüñÿ Àëëàõó î ïîìîùè;;x
+EVTTOOLTIP86827;Give in to despair.;;;;;;;;;;;Ñäàòüñÿ è âïàñòü â îò÷àÿíèå;;x
+EVTTOOLTIP86846;Save the robed figure.;;;;;;;;;;;Ñïàñòè ïóòíèêà;;x
+EVTTOOLTIP86866;You make your last stand...;;;;;;;;;;;Âû ãîòîâû ñòîÿòü íàñìåðòü;;x
+TOOLTIP_LISTEN_TO_HADITH;You listen carefully to the old man's hadith.\n;;;;;;;;;;;Âû âíèìàòåëüíî ñëóøàåòå õàäèñ ñòàðèêà.\n;;x

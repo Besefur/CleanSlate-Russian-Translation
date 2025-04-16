@@ -1,3 +1,2 @@
-EVTDESC_HF_40020_B;[saint_person.GetTitledName] is a well known exemplar of our faith, who recently passed away. Discussions about permanently venerating [saint_person.GetHerHim] as an ancestor have come up, but everyone is waiting for my final decision on the matter.;;;;;;;;;;;;;x
-
-EVTOPTA_HF_40020;It would be my honor.;;;;;;;;;;;;;x
+EVTDESC_HF_40020_B;[saint_person.GetTitledName] is a well known exemplar of our faith, who recently passed away. Discussions about permanently venerating [saint_person.GetHerHim] as an ancestor have come up, but everyone is waiting for my final decision on the matter.;;;;;;;;;;;[saint_person.GetTitledFirstName] - èçâåñòíûé îáðàçåö íàøåé âåðû, êîòîð[saint_person.GetAyaYy] íåäàâíî ñêîí÷à[saint_person.GetLasLsya]. Ïîäíÿëèñü äèñêóññèè î [saint_person.GetHerHim] ïîñòîÿííîì ïî÷èòàíèè â êà÷åñòâå ïðåäêà, íî âñå æäóò ìîåãî îêîí÷àòåëüíîãî ðåøåíèÿ ïî ýòîìó âîïðîñó.;;x
+EVTOPTA_HF_40020;It would be my honor.;;;;;;;;;;;Ýòî áóäåò ÷åñòüþ äëÿ ìåíÿ.;;x

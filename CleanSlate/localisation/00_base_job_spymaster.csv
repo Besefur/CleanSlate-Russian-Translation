@@ -1,340 +1,259 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
 # job_spymaster.txt
-
 #########################
 #
 #	Spymaster events
 #
 #########################
-
 # Plot Uncovered
-evt_spymaster_001_title;Plot Uncovered;;;;;;;;;;;;;x
-evt_spymaster_001_desc_a;The rumors about a plot brewing here in [Root.Location.GetName] seems to be true.;;;;;;;;;;;;;x
-evt_spymaster_001_option_a;Hopefully I can uncover it in time.;;;;;;;;;;;;;x
-
+evt_spymaster_001_title;Plot Uncovered;;;;;;;;;;;Pàñêðûò çàãîâîð.;;x
+evt_spymaster_001_desc_a;The rumors about a plot brewing here in [Root.Location.GetName] seems to be true.;;;;;;;;;;;Ñëóõè î íàçðåâàþùåì çàãîâîðå â [Root.Location.GetName], ïîõîæå, íå âðóò.;;x
+evt_spymaster_001_option_a;Hopefully I can uncover it in time.;;;;;;;;;;;Íàäåþñü, ÿ ñóìåþ ðàñêðûòü åãî âîâðåìÿ.;;x
 # The plotter is informed
-evt_spymaster_002_desc_a;It seems that [From.GetTitledName], the spymaster of [From.Liege.GetTitledName], has been sent to [From.Location.GetName] to investigate rumors of a plot... Maybe he should be silenced before he finds out about my plot to [Root.GetPlot].;;;;;;;;;;;;;x
-evt_spymaster_002_option_a;That might be necessary...;;;;;;;;;;;;;x
-evt_spymaster_002_option_b;Have him killed immediately!;;;;;;;;;;;;;x
-evt_spymaster_002_option_c;Better not risk it.;;;;;;;;;;;;;x
-
+evt_spymaster_002_desc_a;It seems that [From.GetTitledName], the spymaster of [From.Liege.GetTitledName], has been sent to [From.Location.GetName] to investigate rumors of a plot... Maybe he should be silenced before he finds out about my plot to [Root.GetPlot].;;;;;;;;;;;Ïîõîæå, ÷òî [From.GetTitledName], [From.Liege.GetSpymasterName] [From.Liege.GetTitledName], áûë íàïðàâëåí â [From.Location.GetName], ÷òîáû ðàññëåäîâàòü ñëóõè î çàãîâîðå... Âîçìîæíî, ñòîèò çàñòàâèòü åãî çàìîë÷àòü ðàíüøå, ÷åì îí ñìîæåò ðàçíþõàòü ÷òî-òî î ìî¸ì çàãîâîðå ñ öåëüþ [Root.GetPlot].;;x
+evt_spymaster_002_option_a;That might be necessary...;;;;;;;;;;;Ìîæåò, òàê è ñòîèò ñäåëàòü…;;x
+evt_spymaster_002_option_b;Have him killed immediately!;;;;;;;;;;;Óáèòü åãî íåìåäëåííî!;;x
+evt_spymaster_002_option_c;Better not risk it.;;;;;;;;;;;Ëó÷øå íå ðèñêîâàòü.;;x
 # Assassination attempt on the spymaster fails
-evt_spymaster_003_desc_a;I caught a man trying to assassinate me! It turns out he was sent by [From.GetTitledName] to make sure I wouldn't find out about his plot to [From.GetPlot].;;;;;;;;;;;;;x
-evt_spymaster_003_option_a;I must report this to my liege!;;;;;;;;;;;;;x
-
+evt_spymaster_003_desc_a;I caught a man trying to assassinate me! It turns out he was sent by [From.GetTitledName] to make sure I wouldn't find out about his plot to [From.GetPlot].;;;;;;;;;;;ß ñõâàòèë[Root.GetEndA] ÷åëîâåêà, ïûòàâøåãîñÿ óáèòü ìåíÿ! Îêàçûâàåòñÿ, åãî ïîñëàë[From.GetEndA] [From.GetTitledName], ÷òîáû óáåäèòüñÿ, ÷òî ÿ íè÷åãî íå óçíàþ î [From.GetHerHis] çàãîâîðå ñ öåëüþ [From.GetPlot].;;x
+evt_spymaster_003_option_a;I must report this to my liege!;;;;;;;;;;;ß äîëîæó îá ýòîì ñþçåðåíó!;;x
 # Spymaster informs liege about assassination attempt and plot
-evt_spymaster_004_desc_a;My liege,\nI write to you with shocking news! [FromFrom.GetTitledName] tried to have me assassinated to make sure I wouldn't discover [FromFrom.GetHerHis] plot to [FromFrom.GetPlot].\n\nYour humble Spymaster,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_spymaster_004_option_a;Expose [FromFrom.GetHerHim] immediately!;;;;;;;;;;;;;x
-evt_spymaster_004_option_b;I will keep this information to myself...;;;;;;;;;;;;;x
-
+evt_spymaster_004_desc_a;My liege,\nI write to you with shocking news! [FromFrom.GetTitledName] tried to have me assassinated to make sure I wouldn't discover [FromFrom.GetHerHis] plot to [FromFrom.GetPlot].\n\nYour humble Spymaster,\n[From.GetTitledName];;;;;;;;;;;"[Root.PrimaryTitle.GetFOA],\nß cîîáùàþ Âàì îá óæàñíîì çëîäåÿíèè! [FromFrom.GetTitledName] íåñ¸ò îòâåòñòâåííîñòü çà ïîêóøåíèå íà ìîþ æèçíü. Ïðîèçîøëî ýòî, ïîòîìó ÷òî ìíå ñòàëî èçâåñòíî î òîì, ÷òî [FromFrom.GetSheHe] õî÷åò ""[FromFrom.GetPlot]"".\nÑ óâàæåíèåì,\n [From.GetTitledName]";;x
+evt_spymaster_004_option_a;Expose [FromFrom.GetHerHim] immediately!;;;;;;;;;;;Ðàçîáëà÷èòü [FromFrom.GetHersHis] íåìåäëåííî!;;x
+evt_spymaster_004_option_b;I will keep this information to myself...;;;;;;;;;;;Ïðèáåðåãó ýòè ñâåäåíèÿ äëÿ ñåáÿ.;;x
 # Liege writes to plotter
-evt_spymaster_005_desc_a;I am shocked and appalled to find out that you have not only tried to assassinate my spymaster [FromFrom.GetTitledName], but are also plotting to [Root.GetPlot]!;;;;;;;;;;;;;x
-evt_spymaster_005_option_a;Most unfortunate...;;;;;;;;;;;;;x
-
-
+evt_spymaster_005_desc_a;I am shocked and appalled to find out that you have not only tried to assassinate my spymaster [FromFrom.GetTitledName], but are also plotting to [Root.GetPlot]!;;;;;;;;;;;ß ïîòðÿñ¸í èçâåñòèåì î òîì, ÷òî Âû íå òîëüêî ïûòàëèñü óáèòü ìîåãî òàéíîãî ñîâåòíèêà, íî òàêæå è ó÷àñòâîâàëè â çàãîâîðå ñ öåëüþ [Root.GetPlot]!;;x
+evt_spymaster_005_option_a;Most unfortunate...;;;;;;;;;;;Êàê æå íå ïîâåçëî...;;x
 # The Spymaster is attacked by a Noble's thugs (Gets away, Is wounded, Is maimed, Is killed)
-evt_spymaster_101_title;Thugs Attack the Spymaster;;;;;;;;;;;;;x
-evt_spymaster_101_desc_a;My investigation into the rumor of a plot in [Root.Location.GetName] must have alerted someone. Armed thugs are breaking into my room!;;;;;;;;;;;;;x
-evt_spymaster_101_option;Will I escape with my life?;;;;;;;;;;;;;x
-evt_spymaster_101_option_tooltip_1;[Root.GetTitledName] gets away;;;;;;;;;;;;;x
-evt_spymaster_101_option_tooltip_2;[Root.GetTitledName] gets wounded;;;;;;;;;;;;;x
-
+evt_spymaster_101_title;Thugs Attack the Spymaster;;;;;;;;;;;Hàïàäåíèå íà òàéíîãî ñîâåòíèêà.;;x
+evt_spymaster_101_desc_a;My investigation into the rumor of a plot in [Root.Location.GetName] must have alerted someone. Armed thugs are breaking into my room!;;;;;;;;;;;Ïîõîæå, ÷òî ìî¸ ðàññëåäîâàíèå ñëóõîâ î çàãîâîðå â îêðóãå [Root.Location.GetName] êîãî-òî ïîòðåâîæèëî. Âîîðóæ¸ííûå ãîëîâîðåçû âîðâàëèñü â ìîþ êîìíàòó!;;x
+evt_spymaster_101_option;Will I escape with my life?;;;;;;;;;;;Ñìîãó ëè ÿ âûáðàòüñÿ æèâ[Root.GetOyYm]?;;x
+evt_spymaster_101_option_tooltip_1;[Root.GetTitledName] gets away;;;;;;;;;;;[Root.GetTitledName] ñáåæèò öåë[Root.GetOyYm] è íåâðåäèì[Root.GetOyYm].;;x
+evt_spymaster_101_option_tooltip_2;[Root.GetTitledName] gets wounded;;;;;;;;;;;[Root.GetTitledName] áóäåò ðàíåí[Root.GetEndA].;;x
 # Spymaster gets away
-evt_spymaster_102_desc_a;I managed to flee the thugs by escaping through the backdoor.;;;;;;;;;;;;;x
-evt_spymaster_102_option_a;My prestige however did not go unscathed by the incident...;;;;;;;;;;;;;x
-
+evt_spymaster_102_desc_a;I managed to flee the thugs by escaping through the backdoor.;;;;;;;;;;;Ìíå óäàëîñü ñáåæàòü îò áàíäèòîâ ÷åðåç çàäíþþ äâåðü.;;x
+evt_spymaster_102_option_a;My prestige however did not go unscathed by the incident...;;;;;;;;;;;Ìîé ïðåñòèæ ïîñòðàäàë â ðåçóëüòàòå ýòîãî èíöèäåíòà...;;x
 # Spymaster gets wounded
-evt_spymaster_103_desc_a;I did manage to survive the thugs attacking me, but the incident has left me severely wounded.;;;;;;;;;;;;;x
-evt_spymaster_103_option_a;I am lucky to be alive...;;;;;;;;;;;;;x
-evt_spymaster_103_option_a_tooltip;I must send a letter to inform my liege;;;;;;;;;;;;;x
-
+evt_spymaster_103_desc_a;I did manage to survive the thugs attacking me, but the incident has left me severely wounded.;;;;;;;;;;;Ìíå óäàëîñü óéòè æèâ[Root.GetOyYm] îò áàíäèòîâ, íî îíè ñèëüíî ìåíÿ ðàíèëè.;;x
+evt_spymaster_103_option_a;I am lucky to be alive...;;;;;;;;;;;Ñëàâà Áîãó, ÿ æèâ[Root.GetEndA]!;;x
+evt_spymaster_103_option_a_tooltip;I must send a letter to inform my liege;;;;;;;;;;;Îòïðàâèòü ïèñüìî cþçåðåíó;;x
 # Inform the Liege about wounding
-evt_spymaster_104_desc_a;My liege,\nArmed thugs attacked me while investigating the rumor of a plot in [From.Location.GetName]! I barely escaped with my life and am now severely wounded.\n\nYour humble Spymaster,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_spymaster_104_option_a;Sinister forces are at work!;;;;;;;;;;;;;x
-
+evt_spymaster_104_desc_a;My liege,\nArmed thugs attacked me while investigating the rumor of a plot in [From.Location.GetName]! I barely escaped with my life and am now severely wounded.\n\nYour humble Spymaster,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], \nÂîîðóæ¸ííûå áàíäèòû íàïàëè íà ìåíÿ âî âðåìÿ ìîåãî ðàññëåäîâàíèÿ ñëóõîâ î çàãîâîðå â îêðóãå [From.Location.GetName]! ß åäâà óíåñ[From.GetNoneE] îò íèõ íîãè, ïîëó÷èâ ñåðü¸çíîå ðàíåíèå.\nÂàø [Root.GetSpymasterName],\n[From.GetTitledName];;x
+evt_spymaster_104_option_a;Sinister forces are at work!;;;;;;;;;;;Òåìíûå ñèëû íå äðåìëþò!;;x
 # Inform the Liege about death
-evt_spymaster_105_desc_a;[Root.GetTitledName], your Spymaster [From.GetTitledName] was killed by armed thugs when investigating a rumor about a plot in [From.Location.GetName].;;;;;;;;;;;;;x
-evt_spymaster_105_option_a;Horrible!;;;;;;;;;;;;;x
-
-
-
-
+evt_spymaster_105_desc_a;[Root.GetTitledName], your Spymaster [From.GetTitledName] was killed by armed thugs when investigating a rumor about a plot in [From.Location.GetName].;;;;;;;;;;;[Root.GetTitledName], Âàø [Root.GetMySpymasterName] [From.GetTitledName] áûë[From.GetEndA] óáèò[From.GetEndA] áàíäèòàìè âî âðåìÿ ðàññëåäîâàíèÿ ñëóõîâ î çàãîâîðå â îêðóãå [From.Location.GetName].;;x
+evt_spymaster_105_option_a;Horrible!;;;;;;;;;;;Êàêîé óæàñ!;;x
 # Faction Prevention - Spymaster finds Faction Member
-evt_spymaster_201_title;Vassal Discouraged from Joining Factions;;;;;;;;;;;;;x
-evt_spymaster_201_desc_a;You have spent some time investigating one of your liege's vassals in [Root.Location.GetName], and you feel that you have gathered enough information to gain a leverage that would discourage the vassal from supporting conspiratorial factions in the future.;;;;;;;;;;;;;x
-evt_spymaster_201_option_a;My liege must be informed.;;;;;;;;;;;;;x
-evt_spymaster_201_option_a_tooltip;Your liege is informed.;;;;;;;;;;;;;x
-
+evt_spymaster_201_title;Vassal Discouraged from Joining Factions;;;;;;;;;;;Bàññàë ðàçî÷àðîâàí âñòóïëåíèåì âî ôðàêöèþ.;;x
+evt_spymaster_201_desc_a;You have spent some time investigating one of your liege's vassals in [Root.Location.GetName], and you feel that you have gathered enough information to gain a leverage that would discourage the vassal from supporting conspiratorial factions in the future.;;;;;;;;;;;Íåêîòîðîå âðåìÿ Âû çàíèìàëèñü ðàññëåäîâàíèåì â îêðóãå [Root.Location.GetName]. Òåïåðü Âû ÷óâñòâóåòå, ÷òî ñîáðàëè äîñòàòî÷íî ñâåäåíèé, êîòîðûå ïîìîãóò âîñïðåïÿòñòâîâàòü ïîääåðæêå âàññàëàìè ôðàêöèé çàãîâîðùèêîâ.;;x
+evt_spymaster_201_option_a;My liege must be informed.;;;;;;;;;;;Íàäî ñîîáùèòü ñþåçåðåíó.;;x
+evt_spymaster_201_option_a_tooltip;Your liege is informed.;;;;;;;;;;;Âàø ñþçåðåí ïðîèíôîðìèðîâàí.;;x
 # Liege is informed
-evt_spymaster_202_desc_a;My liege,\n\nI believe that one of your vassals can be discouraged from associating with conspiratorial factions if the proper leverage is obtained. How do you wish to proceed?\n\nYour humble Spymaster,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_spymaster_202_option_a;Blackmail the vassal.;;;;;;;;;;;;;x
-evt_spymaster_202_option_a_tooltip;You use blackmail to gain a leverage on your vassal.;;;;;;;;;;;;;x
-evt_spymaster_202_option_b;Obligate the vassal.;;;;;;;;;;;;;x
-evt_spymaster_202_option_b_tooltip;You use legalism to gain a leverage on your vassal.;;;;;;;;;;;;;x
-evt_spymaster_202_option_c;Threaten the vassal.;;;;;;;;;;;;;x
-evt_spymaster_202_option_c_tooltip;You use threats to gain a leverage on your vassal.;;;;;;;;;;;;;x
-evt_spymaster_202_option_d;Ask politely.;;;;;;;;;;;;;x
-evt_spymaster_202_option_d_tooltip;You forward a polite request.;;;;;;;;;;;;;x
-evt_spymaster_202_option_e;We will do nothing for now.;;;;;;;;;;;;;x
-
+evt_spymaster_202_desc_a;My liege,\n\nI believe that one of your vassals can be discouraged from associating with conspiratorial factions if the proper leverage is obtained. How do you wish to proceed?\n\nYour humble Spymaster,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nÅñòü ìíåíèå, ÷òî îäíîìó èç Âàøèõ âàññàëîâ ñòîèò èçáåãàòü âçàèìîäåéñòâèé ñ âðàæäåáíûìè Âàì ôðàêöèÿìè, è äëÿ ýòîãî ìû ìîæåì ïðèíÿòü ñîîòâåòñòâóþùèå ìåðû.\nÂàø ñêðîìíûé [Root.GetSpymasterName],\n[From.GetTitledFirstName];;x
+evt_spymaster_202_option_a;Blackmail the vassal.;;;;;;;;;;;Øàíòàæèðîâàòü âàññàëà;;x
+evt_spymaster_202_option_a_tooltip;You use blackmail to gain a leverage on your vassal.;;;;;;;;;;;Âû èñïîëüçóåòå øàíòàæ, ÷òîáû ïîâëèÿòü íà âàññàëà.;;x
+evt_spymaster_202_option_b;Obligate the vassal.;;;;;;;;;;;Âûíóäèòü âàññàëà;;x
+evt_spymaster_202_option_b_tooltip;You use legalism to gain a leverage on your vassal.;;;;;;;;;;;Âû èñïîëüçóåòå þðèäè÷åñêèå íîðìû, ÷òîáû âûíóäèòü âàññàëà.;;x
+evt_spymaster_202_option_c;Threaten the vassal.;;;;;;;;;;;Óãðîæàòü âàññàëó;;x
+evt_spymaster_202_option_c_tooltip;You use threats to gain a leverage on your vassal.;;;;;;;;;;;Âû áóäåòå óãðîæàòü ñâîåìó âàññàëó, ÷òîáû ïîâëèÿòü íà íåãî.;;x
+evt_spymaster_202_option_d;Ask politely.;;;;;;;;;;;Ñïðîñèòü âåæëèâî;;x
+evt_spymaster_202_option_d_tooltip;You forward a polite request.;;;;;;;;;;;Ïîñëàòü âåæëèâóþ ïðîñüáó.;;x
+evt_spymaster_202_option_e;We will do nothing for now.;;;;;;;;;;;Ïîêà íè÷åãî íå ïðåäïðèíèìàòü.;;x
 # Faction Member Confronted: Blackmail
-evt_spymaster_203_desc_a;My dear [Root.GetTitle],\n\nI regret that events have forced me to sully my hands in this manner, but unless you swear not to form new factions conspiring against me, I shall have to spread your unsavory secrets to anyone willing to listen.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_spymaster_203_option_a;My preferences in bed must not be revealed...;;;;;;;;;;;;;x
-evt_spymaster_203_option_b;Others may not understand the wonders of impalement...;;;;;;;;;;;;;x
-evt_spymaster_203_option_c;My desires might make others think less of me...;;;;;;;;;;;;;x
-evt_spymaster_203_option_d;If the full extent of my drinking problem became known...;;;;;;;;;;;;;x
-evt_spymaster_203_option_e;I have not exactly led the most pious life...;;;;;;;;;;;;;x
-evt_spymaster_203_option_f;My little problem must not be revealed...;;;;;;;;;;;;;x
-evt_spymaster_203_option_tooltip;You decide it would be in your best interest to comply with this demand.;;;;;;;;;;;;;x
-
+evt_spymaster_203_desc_a;My dear [Root.GetTitle],\n\nI regret that events have forced me to sully my hands in this manner, but unless you swear not to form new factions conspiring against me, I shall have to spread your unsavory secrets to anyone willing to listen.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nÏðîñòèòå, íî ñîáûòèÿ âûíóäèëè ìåíÿ çàìàðàòü ðóêè. Åñëè Âû ïîêëÿí¸òåñü íå ôîðìèðîâàòü áîëüøå ôðàêöèé ïðîòèâ ìåíÿ, ÿ íå áóäó ðàñïðîñòðàíÿòü Âàøè ñåêðåòû ñðåäè òåõ, êòî ãîòîâ èõ ñëóøàòü.\nÏîäïèñü:\n [From.GetTitledFirstName];;x
+evt_spymaster_203_option_a;My preferences in bed must not be revealed...;;;;;;;;;;;Ìîè ïðåäïî÷òåíèÿ â ïîñòåëè, íå äîëæíû áûòü ðàñêðûòû.;;x
+evt_spymaster_203_option_b;Others may not understand the wonders of impalement...;;;;;;;;;;;Ëþäè ìîãóò íå ïîíÿòü î÷àðîâàíèå êîëîñàæàòåëüñòâà.;;x
+evt_spymaster_203_option_c;My desires might make others think less of me...;;;;;;;;;;;Ìîè æåëàíèÿ ìîãóò èñïîðòèòü ìíåíèå äðóãèõ îáî ìíå.;;x
+evt_spymaster_203_option_d;If the full extent of my drinking problem became known...;;;;;;;;;;;Åñëè ìî¸ ïüÿíñòâî ñòàíåò äîñòîÿíèåì îáùåñòâåííîñòè...;;x
+evt_spymaster_203_option_e;I have not exactly led the most pious life...;;;;;;;;;;;Ìîÿ æèçíü íå áûëà áëàãî÷åñòèâîé.;;x
+evt_spymaster_203_option_f;My little problem must not be revealed...;;;;;;;;;;;Ìîÿ ìàëåíüêàÿ ïðîáëåìà íå äîëæíà áûòü ðàñêðûòà.;;x
+evt_spymaster_203_option_tooltip;You decide it would be in your best interest to comply with this demand.;;;;;;;;;;;Âû ðåøàåòå, ÿâëÿåòñÿ ëè ýòî ÷àñòüþ Âàøèõ öåëåé, êîòîðûå äîëæíû áûòü äîñòèãíóòû.;;x
 # Liege Informed: Successful Blackmail
-evt_spymaster_204_desc_a;Honoured [Root.GetTitle],\n\nThough I curse your name, I will comply with your unfair demand. Just... keep the sensitive information to yourself.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-
+evt_spymaster_204_desc_a;Honoured [Root.GetTitle],\n\nThough I curse your name, I will comply with your unfair demand. Just... keep the sensitive information to yourself.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nß ïðîêëèíàþ Âàøå èìÿ, íî ïîääåðæó Âàøè íåáëàãîðîäíûå äåéñòâèÿ. Ðàäè... Ñîõðàíåíèÿ êîíôèäåíöèàëüíîñòè.\nÏîäïèñü:\n [From.GetTitledFirstName];;x
 # Faction Member Confronted: Legalism
-evt_spymaster_205_desc_a;My dear [Root.GetTitle],\n\nPermit me to remind you of your obligations and duties as my sworn vassal. To form a conspiratorial faction would be in direct violation of these, and I must ask for your promise never to do so.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_spymaster_205_option_a;True. Scheming is not the honorable way of doing things.;;;;;;;;;;;;;x
-evt_spymaster_205_option_b;Yes, enough lies and scheming.;;;;;;;;;;;;;x
-evt_spymaster_205_option_c;Perhaps you are right, my liege.;;;;;;;;;;;;;x
-evt_spymaster_205_option_d;Oh well. I wasn't planning on doing that anyway.;;;;;;;;;;;;;x
-evt_spymaster_205_option_e;True. Founding such a faction wouldn't be very nice of me.;;;;;;;;;;;;;x
-
+evt_spymaster_205_desc_a;My dear [Root.GetTitle],\n\nPermit me to remind you of your obligations and duties as my sworn vassal. To form a conspiratorial faction would be in direct violation of these, and I must ask for your promise never to do so.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nÏîçâîëüòå ìíå íàïîìíèòü Âàøè âàññàëüíûå îáÿçàòåëüñòâà è äîëã ïåðåäî ìíîé. Ôîðìèðîâàíèå è âñòóïëåíèå âî ôðàêöèè, íàïðàâëåííûå ïðîòèâ ìåíÿ, ÿâëÿþòñÿ èõ ïðÿìûì íàðóøåíèåì, ïîýòîìó ÿ ïðîøó Âàñ âïðåäü íèêîãäà òàê íå äåëàòü.\nÏîäïèñü:\n [From.GetTitledFirstName];;x
+evt_spymaster_205_option_a;True. Scheming is not the honorable way of doing things.;;;;;;;;;;;È ïðàâäà, çàãîâîðû — íåäîñòîéíûé ñïîñîá äîáèâàòüñÿ æåëàåìîãî.;;x
+evt_spymaster_205_option_b;Yes, enough lies and scheming.;;;;;;;;;;;Äà, äîâîëüíî ëæè è çàãîâîðîâ.;;x
+evt_spymaster_205_option_c;Perhaps you are right, my liege.;;;;;;;;;;;Âîçìîæíî, Âû ïðàâû.;;x
+evt_spymaster_205_option_d;Oh well. I wasn't planning on doing that anyway.;;;;;;;;;;;Íó è ëàäíî, òàê èëè èíà÷å, ýòî íå âõîäèëî â ìîè ïëàíû.;;x
+evt_spymaster_205_option_e;True. Founding such a faction wouldn't be very nice of me.;;;;;;;;;;;È ïðàâäà, îñíîâàíèå ýòîé ôðàêöèè íå áûëî áëàãîì äëÿ ìåíÿ.;;x
 # Liege Informed: Successful Legalism
-evt_spymaster_206_desc_a;Honoured [Root.GetTitle],\n\nThank you for reminding me of my duties and obligations as your vassal. You are right, of course. For the foreseeable future, you have my promise not to support factions conspiring against you.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_spymaster_206_option_a;Very good.;;;;;;;;;;;;;x
-
+evt_spymaster_206_desc_a;Honoured [Root.GetTitle],\n\nThank you for reminding me of my duties and obligations as your vassal. You are right, of course. For the foreseeable future, you have my promise not to support factions conspiring against you.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nÑïàñèáî, ÷òî íàïîìíèëè ìíå î ìîèõ îáÿçàííîñòÿõ â êà÷åñòâå Âàøåãî âàññàëà. Ðàçóìååòñÿ, Âû ïðàâû. Ãàðàíòèðóþ Âàì, ÷òî â îáîçðèìîì áóäóùåì íå áóäó ñîñòîÿòü íè â îäíîé ôðàêöèè, íàïðàâëåííîé ïðîòèâ Âàñ.\nÏîäïèñü:\n [From.GetTitledFirstName];;x
+evt_spymaster_206_option_a;Very good.;;;;;;;;;;;Î÷åíü õîðîøî.;;x
 # Faction Member Confronted: Threaten
-evt_spymaster_207_desc_a;My dear [Root.GetTitle],\n\nIf you think I let any vassal of mine support factions conspiring against me without taking action, you are sorely mistaken. If you value your wretched life, you will swear not to form any such faction.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_spymaster_207_option_a;Oh my! I swear it! I swear it!!;;;;;;;;;;;;;x
-evt_spymaster_207_option_b;I know [From.GetSheHe] isn't bluffing...;;;;;;;;;;;;;x
-evt_spymaster_207_option_c;It's not worth dying for if there's no afterlife...;;;;;;;;;;;;;x
-evt_spymaster_207_option_d;There is no shame in backing down over this...;;;;;;;;;;;;;x
-evt_spymaster_207_option_e;Forming a faction is too much work anyway...;;;;;;;;;;;;;x
-
+evt_spymaster_207_desc_a;My dear [Root.GetTitle],\n\nIf you think I let any vassal of mine support factions conspiring against me without taking action, you are sorely mistaken. If you value your wretched life, you will swear not to form any such faction.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nÅñëè Âû äóìàåòå, ÷òî ÿ ïîçâîëþ ìîåìó âàññàëó âñòóïàòü â ëþáóþ ôðàêöèþ íàïðàâëåííóþ ïðîòèâ ìåíÿ áåç ïðèíÿòèÿ ìåð, òî Âû ñèëüíî îøèáàåòåñü. Åñëè Âàì äîðîãà Âàøà íè÷òîæíàÿ æèçíü, ïîêëÿíèòåñü, ÷òî íå áóäåòå ýòèì çàíèìàòüñÿ.\nÏîäïèñü:\n [From.GetTitledFirstName];;x
+evt_spymaster_207_option_a;Oh my! I swear it! I swear it!!;;;;;;;;;;;Ìàòü ìîÿ, æåíùèíà... ß êëÿíóñü!;;x
+evt_spymaster_207_option_b;I know [From.GetSheHe] isn't bluffing...;;;;;;;;;;;ß çíàþ, ÷òî [From.GetSheHe] íå áëåôóåò...;;x
+evt_spymaster_207_option_c;It's not worth dying for if there's no afterlife...;;;;;;;;;;;Íåò ïðè÷èí óìèðàòü, åñëè ïîñëå ñìåðòè íåò æèçíè...;;x
+evt_spymaster_207_option_d;There is no shame in backing down over this...;;;;;;;;;;;Íåò íèêàêîãî ñòûäà â îòñòóïëåíèè...;;x
+evt_spymaster_207_option_e;Forming a faction is too much work anyway...;;;;;;;;;;;Êàê íè êðóòè, îïïîçèöèÿ — äåëî íåïðîñòîå.;;x
 # Liege Informed: Successful Threat
-evt_spymaster_208_desc_a;Honoured [Root.GetTitle],\n\nI ask your forgiveness if I have done something to offend. I obviously wouldn't dream of associating with any faction conspiring against you or your enlightened rule.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_spymaster_208_option_a;You are forgiven.;;;;;;;;;;;;;x
-
+evt_spymaster_208_desc_a;Honoured [Root.GetTitle],\n\nI ask your forgiveness if I have done something to offend. I obviously wouldn't dream of associating with any faction conspiring against you or your enlightened rule.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nÏðîñòèòå, åñëè ÷òî-òî íå òàê. Ðàçóìååòñÿ, ìíå è â ãîëîâó íå ïðèøëî áû ñâÿçàòüñÿ ñ ôðàêöèåé, íàïðàâëåííîé ïðîòèâ Âàñ è Âàøåãî ïðîñâåòë¸ííîãî ïðàâëåíèÿ.\nÏîäïèñü:\n [From.GetTitledFirstName];;x
+evt_spymaster_208_option_a;You are forgiven.;;;;;;;;;;;Ïðîùàþ.;;x
 # Faction Member Confronted: Ask Nicely
-evt_spymaster_209_desc_a;My dear [Root.GetTitle],\n\nI have learned that there are certain factions within the realm working to undermine my rule. If you are involved or planning to become so, I trust that your complicity in these matters ends now.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_spymaster_209_option_a;Best not to risk it...;;;;;;;;;;;;;x
-evt_spymaster_209_option_b;Ha! This letter was an act of desperation.;;;;;;;;;;;;;x
-evt_spymaster_209_option_b_tooltip;You refuse this outrageous demand.;;;;;;;;;;;;;x
-
+evt_spymaster_209_desc_a;My dear [Root.GetTitle],\n\nI have learned that there are certain factions within the realm working to undermine my rule. If you are involved or planning to become so, I trust that your complicity in these matters ends now.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;Ì[Root.GetOyaOy] [Root.GetTitle],\n êàê ìíå ñòàëî èçâåñòíî, íåêîòîðûå ëþäè â íàøèõ çåìëÿõ çàìûøëÿþò èçìåíó. ß âåðþ â Âàøó ÷åñòíîñòü è áëàãîðàçóìèå, è íàäåþñü, ÷òî åñëè áû Âû áûëè âîâëå÷åíû â çàãîâîð, Âû ïîëîæèëè áû ýòîìó êîíåö è áîëüøå íå ñòàëè áû åãî ñîó÷àñòíè[Root.GetTseyKom].\nÏîäïèñü:\n [From.GetTitledName];;x
+evt_spymaster_209_option_a;Best not to risk it...;;;;;;;;;;;Ëó÷øå íå ðèñêîâàòü...;;x
+evt_spymaster_209_option_b;Ha! This letter was an act of desperation.;;;;;;;;;;;Õà! Ýòî ïèñüìî - íå áîëåå ÷åì àêò îò÷àÿíèÿ.;;x
+evt_spymaster_209_option_b_tooltip;You refuse this outrageous demand.;;;;;;;;;;;Âû îòêàçûâàåòåñü îò ýòîãî âîçìóòèòåëüíîãî òðåáîâàíèÿ.;;x
 # Liege Informed: Failed Request
-evt_spymaster_210_desc_a;Honoured [Root.GetTitle],\n\nDo not speak to me of obligations and duties! I may be your vassal, but that does not make me your slave. I am within my full right to associate with whichever faction I wish.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_spymaster_210_option_a;That little...!;;;;;;;;;;;;;x
-
+evt_spymaster_210_desc_a;Honoured [Root.GetTitle],\n\nDo not speak to me of obligations and duties! I may be your vassal, but that does not make me your slave. I am within my full right to associate with whichever faction I wish.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nÍå ãîâîðèòå ìíå ïðî îáÿçàííîñòè è äîëã. ß ìîãó áûòü Âàøèì âàññàëîì, íî ýòî íå äåëàåò ìåíÿ Âàøèì ðàáîì. Ó ìåíÿ åñòü ïîëíîå ïðàâî ñîñòîÿòü â òîé ôðàêöèè, â êîòîðîé ïîæåëàþ.\nÏîäïèñü:\n [From.GetTitledFirstName];;x
+evt_spymaster_210_option_a;That little...!;;;;;;;;;;;Ìåëêàÿ ãíè...;;x
 # Unused
-EVTDESC9009;Honoured [Root.GetTitle],\n\nYour pitiful threats against myself and my loved ones have revealed your true nature once and for all. I shall never submit. Do your worst.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTOPTA9009;The insolence!;;;;;;;;;;;;;x
-
-
+EVTDESC9009;Honoured [Root.GetTitle],\n\nYour pitiful threats against myself and my loved ones have revealed your true nature once and for all. I shall never submit. Do your worst.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nÂàøè æàëêèå óãðîçû â ìîé àäðåñ ïîêàçàëè Âàøó èñòèííóþ ñóùíîñòü. Äåëàéòå, ÷òî õîòèòå.\nÏîäïèñü:\n [From.GetTitledFirstName];;x
+EVTOPTA9009;The insolence!;;;;;;;;;;;Êàêàÿ íàãëîñòü!;;x
 # Faction Recruitment - Spymaster finds Faction Member
-evt_spymaster_301_title;Noble Encouraged to Join Your Faction;;;;;;;;;;;;;x
-evt_spymaster_301_desc_a;You have spent some time in [Root.Location.GetName], and you feel that you have found a promising candidate for membership in potential factions supported by your liege. A small amount of persuation will be necessary, however.;;;;;;;;;;;;;x
-evt_spymaster_301_option_a;I will inform my liege at once.;;;;;;;;;;;;;x
-
+evt_spymaster_301_title;Noble Encouraged to Join Your Faction;;;;;;;;;;;Hîâûé êàíäèäàò íà âñòóïëåíèå â Âàøó ôðàêöèþ.;;x
+evt_spymaster_301_desc_a;You have spent some time in [Root.Location.GetName], and you feel that you have found a promising candidate for membership in potential factions supported by your liege. A small amount of persuation will be necessary, however.;;;;;;;;;;;Âû ïðîâåëè íåêîòîðîå âðåìÿ â ãîðîäå [Root.Location.GetName], è êàæåòñÿ, Âû íàøëè ïðåêðàñíîãî êàíäèäàòà íà âñòóïëåíèå â Âàøó ôðàêöèþ. Íî ïðèä¸òñÿ ïîòðóäèòüñÿ, ÷òîáû åãî óáåäèòü.;;x
+evt_spymaster_301_option_a;I will inform my liege at once.;;;;;;;;;;;ß ñðàçó äîëîæó ñþçåðåíó.;;x
 # Liege is informed
-evt_spymaster_302_desc_a;My liege,\n\nI have discovered a promising candidate that could potentially be strong-armed into joining factions that you support. How do you wish to proceed?\n\nYour humble Spymaster,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_spymaster_302_option_a;Blackmail the noble.;;;;;;;;;;;;;x
-evt_spymaster_302_option_a_tooltip;You use blackmail to gain a leverage on the noble.;;;;;;;;;;;;;x
-evt_spymaster_302_option_b;Threaten the noble.;;;;;;;;;;;;;x
-evt_spymaster_302_option_b_tooltip;You use threats to gain a leverage on the noble.;;;;;;;;;;;;;x
-evt_spymaster_302_option_c;Obligate the noble.;;;;;;;;;;;;;x
-evt_spymaster_302_option_c_tooltip;You use legalism to gain a leverage on the noble.;;;;;;;;;;;;;x
-evt_spymaster_302_option_d;No, let us not go down this path...;;;;;;;;;;;;;x
-
+evt_spymaster_302_desc_a;My liege,\n\nI have discovered a promising candidate that could potentially be strong-armed into joining factions that you support. How do you wish to proceed?\n\nYour humble Spymaster,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nß íàø¸ë ïðåêðàñíûõ êàíäèäàòîâ, êîòîðûå áûëè áû çíà÷èìîé ñèëîé â íàøåé ãðóïïèðîâêå. Æåëàåòå èõ ïðèãëàñèòü?\nÂàø ñêðîìíûé [Root.GetSpymasterName],\n[From.GetTitledFirstName];;x
+evt_spymaster_302_option_a;Blackmail the noble.;;;;;;;;;;;Øàíòàæèðîâàòü äâîðÿíèíà;;x
+evt_spymaster_302_option_a_tooltip;You use blackmail to gain a leverage on the noble.;;;;;;;;;;;Âû èñïîëüçóåòå ðû÷àãè âëèÿíèÿ íà äâîðÿíèíå.;;x
+evt_spymaster_302_option_b;Threaten the noble.;;;;;;;;;;;Óãðîæàòü äâîðÿíèíó;;x
+evt_spymaster_302_option_b_tooltip;You use threats to gain a leverage on the noble.;;;;;;;;;;;Âû óãðîçàìè äîáèâàåòåñü âëèÿíèÿ íà äâîðÿíèíà.;;x
+evt_spymaster_302_option_c;Obligate the noble.;;;;;;;;;;;Ñïðîñèòü âåæëèâî;;x
+evt_spymaster_302_option_c_tooltip;You use legalism to gain a leverage on the noble.;;;;;;;;;;;Ïîñëàòü âåæëèâóþ ïðîñüáó.;;x
+evt_spymaster_302_option_d;No, let us not go down this path...;;;;;;;;;;;Íåò, äàâàéòå íå áóäåì èäòè ïî ýòîìó ïóòè.;;x
 # Liege Informed: Successful Blackmail
-evt_spymaster_304_desc_a;Honored [Root.GetTitle],\n\nThough I curse your name, I will promise to support any faction of yours when called upon. Just... keep the sensitive information to yourself.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-
+evt_spymaster_304_desc_a;Honored [Root.GetTitle],\n\nThough I curse your name, I will promise to support any faction of yours when called upon. Just... keep the sensitive information to yourself.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nß ïðîêëèíàþ Âàñ, è îáåùàþ âñòóïèòü â ëþáóþ ôðàêöèþ, êóäà áû Âû ìåíÿ íå ïîçâàëè. Òîëüêî áû ñîõðàíèòü ñâîþ èìÿ íåçàïÿòíàííûì.\nÏîäïèñü:\n [From.GetTitledFirstName];;x
 # Liege Informed: Successful Request
-evt_spymaster_308_desc_a;Honored [Root.GetTitle],\n\nFine! I do not like this, but for the sake of the continued prosperity of the realm, I will agree to support any faction of yours. Please don't make me regret this.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-
+evt_spymaster_308_desc_a;Honored [Root.GetTitle],\n\nFine! I do not like this, but for the sake of the continued prosperity of the realm, I will agree to support any faction of yours. Please don't make me regret this.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nÕîòü ÿ è íå â âîñòîðãå îò ýòîãî, íî ðàäè ïðîöâåòàíèÿ íàøåé äåðæàâû ñîãëàøóñü ïîääåðæàòü ëþáûå Âàøè íà÷èíàíèÿ. Ïðîøó Âàñ òîëüêî îá îäíîì: íå çàñòàâëÿéòå ìåíÿ ïîòîì ïîæàëåòü îá ýòîì.\nÏîäïèñü:\n [From.GetTitledName];;x
 # Liege Informed: Failed Request
-evt_spymaster_309_desc_a;Honored [Root.GetTitle],\n\nYour legalistic nonsense will not be enough to manipulate me into picking up your banner. I will not pledge unquestioning support to your schemes.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-
-
+evt_spymaster_309_desc_a;Honored [Root.GetTitle],\n\nYour legalistic nonsense will not be enough to manipulate me into picking up your banner. I will not pledge unquestioning support to your schemes.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nÂàøåé þðèäè÷åñêîé ÷óøè íåäîñòàòî÷íî, ÷òîáû çàñòàâèòü ìåíÿ âñòàòü ïîä Âàøè çíàì¸íà. ß íå ãàðàíòèðóþ áåñïðåêîñëîâíîé ïîääåðæêè Âàøèõ çàãîâîðîâ.\nÏîäïèñü:\n [From.GetTitledFirstName];;x
 # Liege Informed: Successful Threat
-evt_spymaster_306_desc_a;Honored [Root.GetTitle],\n\nI obviously stand together with you and your confederates. Before you do something hasty that we shall both regret, permit me to offer my pledge to support your faction when called upon.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_spymaster_306_option_a;Wise choice.;;;;;;;;;;;;;x
-
-
+evt_spymaster_306_desc_a;Honored [Root.GetTitle],\n\nI obviously stand together with you and your confederates. Before you do something hasty that we shall both regret, permit me to offer my pledge to support your faction when called upon.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nß õî÷ó ñòîÿòü ðÿäîì ñ Âàìè è Âàøèìè åäèíîìûøëåííèêàìè. Ïðåæäå ÷åì Âû ñäåëàåòå ÷òî-ëèáî, î ÷¸ì ìû îáà áóäåì ñîæàëåòü, ïîçâîëüòå ìíå äàòü ãàðàíòèè òîãî, ÷òî ÿ ïîääåðæó Âàøó ôðàêöèþ â ñëó÷àå íåîáõîäèìîñòè.\nÏîäïèñü:\n [From.GetTitledFirstName];;x
+evt_spymaster_306_option_a;Wise choice.;;;;;;;;;;;Ìóäðûé âûáîð.;;x
 # Unused
-EVTOPTG9002;Perhaps it is best not to take a chance on this...;;;;;;;;;;;;;x
-
-EVTOPTF9005;Perhaps [From.GetSheHe] has a point...;;;;;;;;;;;;;x
-EVTOPTG9005;Ha!;;;;;;;;;;;;;x
-
-EVTOPTF9008;No point in risking my neck over this.;;;;;;;;;;;;;x
-EVTOPTG9008;Do your worst.;;;;;;;;;;;;;x
-
-EVTDESC9029;Honored [Root.GetTitle],\n\nYour pitiful threats have revealed your true nature once and for all. I shall never submit. Do your worst.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-
-
+EVTOPTG9002;Perhaps it is best not to take a chance on this...;;;;;;;;;;;Âîçìîæíî, ëó÷øå íå ó÷àñòâîâàòü â ýòîì.;;x
+EVTOPTF9005;Perhaps [From.GetSheHe] has a point...;;;;;;;;;;;Âîçìîæíî, â ýòîì åñòü çäðàâûé ñìûñë.;;x
+EVTOPTG9005;Ha!;;;;;;;;;;;Õà!;;x
+EVTOPTF9008;No point in risking my neck over this.;;;;;;;;;;;Íåò ïðè÷èíû ðèñêîâàòü ñâîåé øååé.;;x
+EVTOPTG9008;Do your worst.;;;;;;;;;;;Íó ïîïðîáóéòå!;;x
+EVTDESC9029;Honored [Root.GetTitle],\n\nYour pitiful threats have revealed your true nature once and for all. I shall never submit. Do your worst.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nÂàøè æàëêèå óãðîçû â àäðåñ ìåíÿ è ìîèõ áëèçêèõ ðàç è íàâñåãäà ïîêàçàëè Âàøó ñóùíîñòü. Äåëàéòå, ÷òî õîòèòå.\nÏîäïèñü:\n [From.GetTitledFirstName];;x
 # The Spymaster studies foreign technology
-evt_spymaster_401_title;Spymaster Study Technology;;;;;;;;;;;;;x
-evt_spymaster_401_desc_a;The people of [Root.Location.GetName] have progressed beyond our own technological level. But I have managed to study their advancements and I will gladly share this information with my liege [Root.Liege.GetTitledName].;;;;;;;;;;;;;x
-evt_spymaster_401_option_a;This should please [Root.Liege.GetHerHim]!;;;;;;;;;;;;;x
-evt_spymaster_401_option_a_tooltip;Send a letter to [Root.Liege.GetTitledName]!;;;;;;;;;;;;;x
-
+evt_spymaster_401_title;Spymaster Study Technology;;;;;;;;;;;Tàéíûé ñîâåòíèê êðàäåò òåõíîëîãèè;;x
+evt_spymaster_401_desc_a;The people of [Root.Location.GetName] have progressed beyond our own technological level. But I have managed to study their advancements and I will gladly share this information with my liege [Root.Liege.GetTitledName].;;;;;;;;;;;[Root.Location.County.GetAdjective]ñêèå æèòåëè ïðîäâèíóëèñü äàëüøå íàñ â óðîâíå òåõíîëîãèé. Íî ìíå óäàëîñü èçó÷èòü èõ äîñòèæåíèÿ, è ÿ ñ óäîâîëüñòâèåì ïðåäñòàâëÿþ ýòè ñâåäåíèÿ Bàøåìó âíèìàíèþ, [Root.Liege.GetTitledName].;;x
+evt_spymaster_401_option_a;This should please [Root.Liege.GetHerHim]!;;;;;;;;;;;[Root.Liege.GetHerHim] ýòî ïîíðàâèòñÿ!;;x
+evt_spymaster_401_option_a_tooltip;Send a letter to [Root.Liege.GetTitledName]!;;;;;;;;;;;Îòïðàâèòü ïèñüìî. Àäðåñàò — [Root.Liege.GetTitledName];;x
 # The Spymaster informs his liege of the success
-evt_spymaster_402_desc_a;My liege, the people of [From.Location.GetName] have progressed beyond our own technological level. I have managed to study their advancements and the documents enclosed here should help us reach their level. I hope you will find this to your satisfaction.\n\nYour humble Spymaster,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_spymaster_402_option_a;Wonderful!;;;;;;;;;;;;;x
-
-
+evt_spymaster_402_desc_a;My liege, the people of [From.Location.GetName] have progressed beyond our own technological level. I have managed to study their advancements and the documents enclosed here should help us reach their level. I hope you will find this to your satisfaction.\n\nYour humble Spymaster,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], [From.Location.County.GetAdjective]ñêèå æèòåëè ïðåâçîøëè íàñ â óðîâíå ðàçâèòèÿ òåõíîëîãèé. Ìíå óäàëîñü èçó÷èòü èõ äîñòèæåíèÿ. Äîêóìåíòû, êîòîðûå ÿ ïðèëàãàþ ê ýòîìó ïèñüìó, ïîçâîëÿò íàì äîñòè÷ü èõ óðîâíÿ. Íàäåþñü, Âû íàéä¸òå ìîþ ðàáîòó óäîâëåòâîðèòåëüíîé.\nÂàø [Root.GetMySpymasterName],\n[From.GetTitledName];;x
+evt_spymaster_402_option_a;Wonderful!;;;;;;;;;;;×óäåñíî!;;x
 # The Spymaster is discovered by the local count - chance of imprisonment
-evt_spymaster_501_title;Spymaster Discovered!;;;;;;;;;;;;;x
-evt_spymaster_501_desc_a;A noble in [Root.Location.GetName] caught me while I was spying there!;;;;;;;;;;;;;x
-evt_spymaster_501_option_a;This will not be good...;;;;;;;;;;;;;x
-evt_spymaster_501_option_a_tooltip;The noble takes action;;;;;;;;;;;;;x
-
+evt_spymaster_501_title;Spymaster Discovered!;;;;;;;;;;;Bàøåãî òàéíîãî ñîâåòíèêà ïîéìàëè!;;x
+evt_spymaster_501_desc_a;A noble in [Root.Location.GetName] caught me while I was spying there!;;;;;;;;;;;Ïðåäñòàâèòåëü çíàòè ïîéìàë ìåíÿ â [Root.Location.County.GetAdjective]ñêèõ çåìëÿõ çà ïîïûòêîé øïèîíàæà!;;x
+evt_spymaster_501_option_a;This will not be good...;;;;;;;;;;;Íåõîðîøî ïîëó÷èëîñü...;;x
+evt_spymaster_501_option_a_tooltip;The noble takes action;;;;;;;;;;;Äâîðÿíèí äåéñòâóåò.;;x
 # Local noble reacts
-evt_spymaster_502_desc_a;[From.Liege.GetTitledName]'s spymaster [From.GetTitledName] was found spying in [From.Location.GetName]!;;;;;;;;;;;;;x
-evt_spymaster_502_option_a;Let [From.GetHerHim] rot in jail!;;;;;;;;;;;;;x
-evt_spymaster_502_option_a_tooltip;A letter is sent to [From.Liege.GetTitledName];;;;;;;;;;;;;x
-evt_spymaster_502_option_b;What is done is done. Let [From.GetHerHim] go.;;;;;;;;;;;;;x
-evt_spymaster_502_option_b_tooltip;A letter is sent to [From.GetTitledName];;;;;;;;;;;;;x
-
+evt_spymaster_502_desc_a;[From.Liege.GetTitledName]'s spymaster [From.GetTitledName] was found spying in [From.Location.GetName]!;;;;;;;;;;;[From.GetTitledFirstName] áûë[From.GetEndA] ïîéìàí[From.GetEndA] çà ïîïûòêîé øïèîíàæà â îêðóãå [From.Location.GetName]! Èçâåñòíî, ÷òî [From.GetSheHe] - òàéíûé ñîâåòíèê ïðàâèòåëÿ, èçâåñòíîãî êàê [From.Liege.GetTitledFirstName].;;x
+evt_spymaster_502_option_a;Let [From.GetHerHim] rot in jail!;;;;;;;;;;;Ïóñòü [From.GetHerHim] ãíè¸ò â òþðüìå çà ýòî!;;x
+evt_spymaster_502_option_a_tooltip;A letter is sent to [From.Liege.GetTitledName];;;;;;;;;;;Ïèñüìî [From.Liege.GetTitledName] îòïðàâëåíî.;;x
+evt_spymaster_502_option_b;What is done is done. Let [From.GetHerHim] go.;;;;;;;;;;;×òî ñäåëàíî, òî ñäåëàíî. Îòïóñòèòå [From.GetHerHim].;;x
+evt_spymaster_502_option_b_tooltip;A letter is sent to [From.GetTitledName];;;;;;;;;;;Ïèñüìî [From.GetTitledName] îòïðàâëåíî.;;x
 # Liege get the news - Chancellor Imprisoned
-evt_spymaster_503_desc_a;I received word that your spymaster [FromFrom.GetTitledName] has been spying in one of my counties. This is intolerable and as to stop further interference I have arrested [FromFrom.GetHerHim]!\n\nSigned \n[From.GetTitledName];;;;;;;;;;;;;x
-evt_spymaster_503_option_a;Most unfortunate...;;;;;;;;;;;;;x
+evt_spymaster_503_desc_a;I received word that your spymaster [FromFrom.GetTitledName] has been spying in one of my counties. This is intolerable and as to stop further interference I have arrested [FromFrom.GetHerHim]!\n\nSigned \n[From.GetTitledName];;;;;;;;;;;Äî ìåíÿ äîøëà âåñòü, ÷òî Âàø òàéíûé ñîâåòíèê [FromFrom.GetTitledFirstName] ïûòà[FromFrom.GetLasLsya] óêðàñòü íàøè òåõíîëîãèè â îäíîì èç ìîèõ îêðóãîâ. Ýòî íåäîïóñòèìî è, âî èçáåæàíèå äàëüíåéøèõ ïîïûòîê, ÿ áðîñèë[From.GetEndA] [FromFrom.GetHersHis] â òåìíèöó.\n [From.GetTitledFirstName];;x
+evt_spymaster_503_option_a;Most unfortunate...;;;;;;;;;;;Íó íàäî æå, êàê íå ïîâåçëî...;;x
 # Unused
-EVTOPTB20331;How dare [From.GetSheHe] arrest my spymaster!;;;;;;;;;;;;;x
-
+EVTOPTB20331;How dare [From.GetSheHe] arrest my spymaster!;;;;;;;;;;;Äà êàê [From.GetSheHe] ñìååò àðåñòîâûâàòü ìîåãî òàéíîãî ñîâåòíèêà!;;x
 # Spymaster get the news: is free to go
-evt_spymaster_504_desc_a;I received word that you have been spying in one of my counties. I will let it pass. This time.\n\nSigned \n[From.GetTitledName];;;;;;;;;;;;;x
-evt_spymaster_504_option_a;Thank you!;;;;;;;;;;;;;x
-
-
+evt_spymaster_504_desc_a;I received word that you have been spying in one of my counties. I will let it pass. This time.\n\nSigned \n[From.GetTitledName];;;;;;;;;;;Äî ìåíÿ äîøëà âåñòü, ÷òî Âû ïûòàëèñü óêðàñòü íàøè òåõíè÷åñêèå äîñòèæåíèÿ. Íî ÿ ïðîùàþ Âàñ. Íà ýòîò ðàç.\n [From.GetTitledFirstName];;x
+evt_spymaster_504_option_a;Thank you!;;;;;;;;;;;Áëàãîäàðþ Âàñ!;;x
 # Vicious Rumors Spread
-evt_spymaster_601_title;Vicious Rumors Spread;;;;;;;;;;;;;x
-evt_spymaster_601_desc_a;My network of spies in [Root.Location.GetName] have investigated a local noble and it turns out that he prefers the company of men... By threating to spread this rumor, my liege might be able to extort the favours or money from him.;;;;;;;;;;;;;x
-evt_spymaster_601_option_a;I will pass this on.;;;;;;;;;;;;;x
-
+evt_spymaster_601_title;Vicious Rumors Spread;;;;;;;;;;;Cëóõè ðàñïîëçàþòñÿ...;;x
+evt_spymaster_601_desc_a;My network of spies in [Root.Location.GetName] have investigated a local noble and it turns out that he prefers the company of men... By threating to spread this rumor, my liege might be able to extort the favours or money from him.;;;;;;;;;;;Ìîè ñîãëÿäàòàè â [Root.Location.GetName] îáíàðóæèëè, ÷òî ìåñòíûé ëîðä ïðåäïî÷èòàåò ìóæ÷èí. Åñëè ïðèãðîçèòü åìó îãëàñêîé, ìîæíî äîáèòüñÿ îò íåãî óñëóã èëè äåíåã.;;x
+evt_spymaster_601_option_a;I will pass this on.;;;;;;;;;;;ß ïåðåäàì ýòî.;;x
 # Liege is informed
-evt_spymaster_602_desc_a;My liege, my network of spies here in [From.Location.GetName] have found out that a local noble is a homosexual. What should I do with this information?\n\nYour humble Spymaster,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_spymaster_602_option_a;Blackmail him!;;;;;;;;;;;;;x
-evt_spymaster_602_option_b;Spread rumors about him.;;;;;;;;;;;;;x
-evt_spymaster_602_option_c;Nothing, let it be;;;;;;;;;;;;;x
+evt_spymaster_602_desc_a;My liege, my network of spies here in [From.Location.GetName] have found out that a local noble is a homosexual. What should I do with this information?\n\nYour humble Spymaster,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ìîè ñîãëÿäàòàè â [From.Location.GetName] îáíàðóæèëè, ÷òî ìåñòíûé ëîðä — ìóæåëîæíèê. Êàê íàì èñïîëüçîâàòü ýòó èíôîðìàöèþ?\nÂàø [Root.GetSpymasterName],\n[From.GetTitledName];;x
+evt_spymaster_602_option_a;Blackmail him!;;;;;;;;;;;Øàíòàæèðóéòå åãî!;;x
+evt_spymaster_602_option_b;Spread rumors about him.;;;;;;;;;;;Äàéòå õîä ñëóõàì î í¸ì.;;x
+evt_spymaster_602_option_c;Nothing, let it be;;;;;;;;;;;Îñòàâüòå åãî â ïîêîå.;;x
 # Unused
-EVTTOOLTIP20353;The rumor reaches the Noble's ears;;;;;;;;;;;;;x
-
+EVTTOOLTIP20353;The rumor reaches the Noble's ears;;;;;;;;;;;Ñëóõè äîñòèãàþò óøåé ëîðäà.;;x
 # Blackmail him
-evt_spymaster_603_desc_a;My liege's instructions are clear. I should blackmail the noble and extort some money for my silence.;;;;;;;;;;;;;x
-evt_spymaster_603_option_a;It will cost him dearly...;;;;;;;;;;;;;x
-
+evt_spymaster_603_desc_a;My liege's instructions are clear. I should blackmail the noble and extort some money for my silence.;;;;;;;;;;;Èíñòðóêöèè ìîåãî ãîñóäàðÿ ÿñíû ìíå. ß áóäó øàíòàæèðîâàòü ëîðäà è ïîòðåáóþ äåíåã çà ìîë÷àíèå.;;x
+evt_spymaster_603_option_a;It will cost him dearly...;;;;;;;;;;;Ýòî åìó äîðîãî îáîéä¸òñÿ.;;x
 # The noble responds to blackmail
-evt_spymaster_604_desc_a;[From.GetTitledName], the spymaster of [From.Liege.GetTitledName], has somehow found out about my sexual preferences and demands a large sum of money to not spread this rumor and destroy my reputation among my vassals.;;;;;;;;;;;;;x
-evt_spymaster_604_option_a;Then I will have to pay...;;;;;;;;;;;;;x
-evt_spymaster_604_option_b;Try to have [From.GetTitledName] killed!;;;;;;;;;;;;;x
-evt_spymaster_604_option_b_attacked;[This.GetTitledName] getting away.;;;;;;;;;;;;;x
-evt_spymaster_604_option_b_killed;[This.GetTitledName] getting killed.;;;;;;;;;;;;;x
-evt_spymaster_604_option_c;Let them spread their rumor;;;;;;;;;;;;;x
-
+evt_spymaster_604_desc_a;[From.GetTitledName], the spymaster of [From.Liege.GetTitledName], has somehow found out about my sexual preferences and demands a large sum of money to not spread this rumor and destroy my reputation among my vassals.;;;;;;;;;;;[From.GetTitledName], [From.Liege.GetSpymasterName] [From.Liege.GetTitledName], êàê-òî ïðîçíàë î ìîèõ ñåêñóàëüíûõ ïðåäïî÷òåíèÿõ è òðåáóåò íåìàëóþ ñóììó äåíåã çà ñâî¸ ìîë÷àíèå, èëè óãðîæàåò ðàçðóøèòü ìîþ ðåïóòàöèþ ñðåäè âàññàëîâ.;;x
+evt_spymaster_604_option_a;Then I will have to pay...;;;;;;;;;;;Ïðèä¸òñÿ çàïëàòèòü...;;x
+evt_spymaster_604_option_b;Try to have [From.GetTitledName] killed!;;;;;;;;;;;Ïîïðîáóþ-êà ÿ óáèòü [From.GetTitledName]!;;x
+evt_spymaster_604_option_b_attacked;[This.GetTitledName] getting away.;;;;;;;;;;;[This.GetTitledName] óöåëåë.;;x
+evt_spymaster_604_option_b_killed;[This.GetTitledName] getting killed.;;;;;;;;;;;[This.GetTitledName] óáèò.;;x
+evt_spymaster_604_option_c;Let them spread their rumor;;;;;;;;;;;Ïîçâîëèòü ðàñïðîñòðàíèòü ïðî ñåáÿ ñëóõè.;;x
 # Blackmail succeeds
-evt_spymaster_605_desc_a;[From.GetTitledName] accepted my demands and was willing to pay to keep me silent.;;;;;;;;;;;;;x
-evt_spymaster_605_option_a;This should please my liege;;;;;;;;;;;;;x
-
+evt_spymaster_605_desc_a;[From.GetTitledName] accepted my demands and was willing to pay to keep me silent.;;;;;;;;;;;[From.GetTitledName] ñîãëàñèëñÿ íà ìîè òðåáîâàíèÿ è ãîòîâ çàïëàòèòü.;;x
+evt_spymaster_605_option_a;This should please my liege;;;;;;;;;;;Ýòî ïðèä¸òñÿ ïî äóøå ìîåìó ãîñóäàðþ;;x
 # Liege is informed that blackmail succeeded
-evt_spymaster_606_desc_a;My liege, I have good news! I have succeeded in extorting a large sum of money from [FromFrom.GetTitledName] by promising not to spread the rumor about his alleged homosexuality.\n\nYour humble Spymaster,\n[From.GetTitledName];;;;;;;;;;;;;x
-
+evt_spymaster_606_desc_a;My liege, I have good news! I have succeeded in extorting a large sum of money from [FromFrom.GetTitledName] by promising not to spread the rumor about his alleged homosexuality.\n\nYour humble Spymaster,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ó ìåíÿ äëÿ Âàñ õîðîøèå íîâîñòè. Ìíå óäàëîñü âûòðÿñòè íåìàëî äåíüæàò èç [FromFrom.GetTitledName] çà ìîë÷àíèå î åãî ïîëîâîé îðèåíòàöèè.\nÂàø [Root.GetSpymasterName],\n[From.GetTitledName];;x
 # Spymaster is attacked
-evt_spymaster_607_desc_a;The local noble, [From.GetTitledName], tried to assure that I couldn't spread any rumors about him by sending some thugs to attack me!;;;;;;;;;;;;;x
-evt_spymaster_607_option_a;Luckily I got away!;;;;;;;;;;;;;x
-evt_spymaster_607_option_b;They killed me?!;;;;;;;;;;;;;x
-
+evt_spymaster_607_desc_a;The local noble, [From.GetTitledName], tried to assure that I couldn't spread any rumors about him by sending some thugs to attack me!;;;;;;;;;;;Ìåñòíûé ëîðä, [From.GetTitledName], ïîïûòàëñÿ çàñòàâèòü ìåíÿ çàìîë÷àòü íàâñåãäà, ïîñëàâ ñâîèõ ãîëîâîðåçîâ óáèòü ìåíÿ!;;x
+evt_spymaster_607_option_a;Luckily I got away!;;;;;;;;;;;Ñëàâà Áîãó, ÿ æèâ!;;x
+evt_spymaster_607_option_b;They killed me?!;;;;;;;;;;;Îíè ÷òî, óáèëè ìåíÿ?!;;x
 # Inform the Liege about attack
-evt_spymaster_608_desc_a;My liege, the local noble here in [From.Location.GetName], [FromFrom.GetTitledName], tried to silence me by sending some thugs to kill me! Luckily I managed to get away. I will go ahead and spread the rumor about his sexual preferences and destroy his reputation among his vassals.\n\nYour humble Spymaster,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_spymaster_608_option_a;You have my blessing!;;;;;;;;;;;;;x
-
+evt_spymaster_608_desc_a;My liege, the local noble here in [From.Location.GetName], [FromFrom.GetTitledName], tried to silence me by sending some thugs to kill me! Luckily I managed to get away. I will go ahead and spread the rumor about his sexual preferences and destroy his reputation among his vassals.\n\nYour humble Spymaster,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ìåñòíûé ëîðä îêðóãà [From.Location.GetName], [FromFrom.GetTitledName], ïîïûòàëñÿ ãàðàíòèðîâàòü ìî¸ ìîë÷àíèå, ïîäîñëàâ êî ìíå óáèéö! Ñëàâà Áîãó, ìíå óäàëîñü óéòè îò íèõ. ß ïðîäîëæó ðàñïðîñòðàíÿòü ïðî íåãî ñëóõè è óíè÷òîæó åãî äîáðîå èìÿ ñðåäè åãî âàññàëîâ.\nÂàø [Root.GetSpymasterName],\n[From.GetTitledName];;x
+evt_spymaster_608_option_a;You have my blessing!;;;;;;;;;;;Áëàãîñëîâëÿþ òåáÿ!;;x
 # The noble is informed that the rumor has been spread
-evt_spymaster_609_desc_a;[From.GetTitledName] and [From.GetHerHis] spymaster went ahead and spread the rumors about me being a homosexual. Those of my vassals who did not like me before seem to like me even less after this incident...;;;;;;;;;;;;;x
-evt_spymaster_609_option_a;A most unfortunate incident;;;;;;;;;;;;;x
-
+evt_spymaster_609_desc_a;[From.GetTitledName] and [From.GetHerHis] spymaster went ahead and spread the rumors about me being a homosexual. Those of my vassals who did not like me before seem to like me even less after this incident...;;;;;;;;;;;[From.GetTitledName] è [From.GetHersHis] [From.GetSpymasterName] ïóñòèëè ñëóõ î ìîåé ãîìîñåêñóàëüíîñòè. Òå èç âàññàëîâ, êòî íå ëþáèë ìåíÿ ðàíüøå, ïîõîæå, íåâçëþáèëè ìåíÿ åù¸ ñèëüíåå.;;x
+evt_spymaster_609_option_a;A most unfortunate incident;;;;;;;;;;;Íåïðèÿòíî...;;x
 # Inform the Liege about death
-evt_spymaster_610_desc_a;My spymaster, [From.GetTitledName] has been murdered! That noble he was investigating, [FromFrom.GetTitledName], seems reasonable to be behind this, but I have no proof...;;;;;;;;;;;;;x
-evt_spymaster_610_option_a;Damn him anyway!;;;;;;;;;;;;;x
-
+evt_spymaster_610_desc_a;My spymaster, [From.GetTitledName] has been murdered! That noble he was investigating, [FromFrom.GetTitledName], seems reasonable to be behind this, but I have no proof...;;;;;;;;;;;Ìîé [Root.GetSpymasterName], [From.GetTitledName], áûë óáèò! Ïîõîæå, çà ýòèì ñòîèò òîò ëîðä, [FromFrom.GetTitledName], íî ó ìåíÿ íåò íèêàêèõ äîêàçàòåëüñòâ...;;x
+evt_spymaster_610_option_a;Damn him anyway!;;;;;;;;;;;Ïðîêëÿòüå!;;x
 # Spread rumors
-evt_spymaster_611_desc_a;My liege's instructions are clear. I will put my spy network to work spreading the rumor about the local noble.;;;;;;;;;;;;;x
-evt_spymaster_611_option_a;It will be my pleasure;;;;;;;;;;;;;x
-
+evt_spymaster_611_desc_a;My liege's instructions are clear. I will put my spy network to work spreading the rumor about the local noble.;;;;;;;;;;;Èíñòðóêöèè ìîåãî ãîñóäàðÿ ÿñíû ìíå. Ìû ðàñïðîñòðàíèì ïðî íåãî ïîðî÷àùèå ñëóõè.;;x
+evt_spymaster_611_option_a;It will be my pleasure;;;;;;;;;;;Ñ óäîâîëüñòâèåì.;;x
 # The noble responds to rumor
-evt_spymaster_612_desc_a;[From.GetTitledName], the spymaster of [From.Liege.GetTitledName], has somehow found out about my sexual preferences and is now trying to spread a rumor about this to destroy my reputation among my vassals.;;;;;;;;;;;;;x
-evt_spymaster_612_option_a;Try to have [From.GetTitledName] killed!;;;;;;;;;;;;;x
-evt_spymaster_612_option_b;Let them spread their rumor;;;;;;;;;;;;;x
-
+evt_spymaster_612_desc_a;[From.GetTitledName], the spymaster of [From.Liege.GetTitledName], has somehow found out about my sexual preferences and is now trying to spread a rumor about this to destroy my reputation among my vassals.;;;;;;;;;;;[From.GetTitledName], [From.Liege.GetSpymasterName] [From.Liege.GetTitledName], êàê-òî ïðîçíàë î ìîèõ ñåêñóàëüíûõ ïðåäïî÷òåíèÿõ è ïûòàåòñÿ ñ ïîìîùüþ ñëóõîâ îá ýòîì ðàçðóøèòü ìîþ ðåïóòàöèþ.;;x
+evt_spymaster_612_option_a;Try to have [From.GetTitledName] killed!;;;;;;;;;;;Ïîïðîáóþ-êà ÿ óáèòü [From.GetTitledName]!;;x
+evt_spymaster_612_option_b;Let them spread their rumor;;;;;;;;;;;Ïîçâîëèòü ðàñïðîñòðàíèòü ïðî ñåáÿ ñëóõè.;;x
 # Spymaster gets away
-evt_spymaster_613_desc_a;[FromFrom.GetTitledName] managed to get away...;;;;;;;;;;;;;x
-evt_spymaster_613_option_a;Damn [FromFrom.GetHerHim]!;;;;;;;;;;;;;x
-
+evt_spymaster_613_desc_a;[FromFrom.GetTitledName] managed to get away...;;;;;;;;;;;[FromFrom.GetTitledName] óäàëîñü ñïàñòèñü...;;x
+evt_spymaster_613_option_a;Damn [FromFrom.GetHerHim]!;;;;;;;;;;;×¸ðò [FromFrom.GetHerHis] ïîäåðè!;;x
 # Spymaster is killed
-evt_spymaster_614_desc_a;The men I sent to deal with [FromFrom.GetTitledName] succeeded. [From.GetSheHeCap] will not bother me again...;;;;;;;;;;;;;x
-
+evt_spymaster_614_desc_a;The men I sent to deal with [FromFrom.GetTitledName] succeeded. [From.GetSheHeCap] will not bother me again...;;;;;;;;;;;Ëþäè, êîòîðûõ ÿ ïîñëàë ðàçîáðàòüñÿ ñ [FromFrom.GetTitledName], ïðåóñïåëè. Áîëüøå [From.GetSheHeCap] ìåíÿ íå ïîáåñïîêîèò.;;x
 # Do nothing
-evt_spymaster_615_desc_a;My liege [From.GetTitledFirstName] seems to have lost interest in this noble and wants me to forget the whole thing.;;;;;;;;;;;;;x
-evt_spymaster_615_option_a;As [From.GetSheHe] wish.;;;;;;;;;;;;;x
-
+evt_spymaster_615_desc_a;My liege [From.GetTitledFirstName] seems to have lost interest in this noble and wants me to forget the whole thing.;;;;;;;;;;;Ïîõîæå, ÷òî [From.GetTitledFirstName] - ìîé ñþçåðåí - áîëüøå íå ïðîÿâëÿåò èíòåðåñà ê ýòîìó äâîðÿíèíó è íàäååòñÿ, ÷òî ÿ çàáóäó îá ýòîì.;;x
+evt_spymaster_615_option_a;As [From.GetSheHe] wish.;;;;;;;;;;;Êàê [From.GetSheHe] ïîæåëàåò.;;x
 # The noble does not care about the rumor
-evt_spymaster_616_desc_a;It seems [From.GetTitledName] does not care if I spread the rumor or not. I think [From.GetSheHe] will regret [From.GetHerHis] choice.;;;;;;;;;;;;;x
-evt_spymaster_616_option_a;I will inform my liege;;;;;;;;;;;;;x
-
+evt_spymaster_616_desc_a;It seems [From.GetTitledName] does not care if I spread the rumor or not. I think [From.GetSheHe] will regret [From.GetHerHis] choice.;;;;;;;;;;;Êàæåòñÿ, [From.GetTitledName] íå îñîáî çàáîòèòñÿ, ðàçáîëòàþ ëè ÿ âñåì ñëóõè. ß äóìàþ, [From.GetSheHe] åù¸ ïîæàëååò î ñâî¸ì âûáîðå.;;x
+evt_spymaster_616_option_a;I will inform my liege;;;;;;;;;;;ß ñîîáùó ìîåìó ãîñóäàðþ.;;x
 # Inform the liege that the noble does not care about the rumor
-evt_spymaster_617_desc_a;My liege, it seems that [FromFrom.GetTitledName] does not care if I spread the rumor or not about his alleged homosexuality. But I think he will regret his choice once I have informed his vassals.\n\nYour humble Spymaster,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_spymaster_617_option_a;So do I;;;;;;;;;;;;;x
-
-
+evt_spymaster_617_desc_a;My liege, it seems that [FromFrom.GetTitledName] does not care if I spread the rumor or not about his alleged homosexuality. But I think he will regret his choice once I have informed his vassals.\n\nYour humble Spymaster,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ïîõîæå, ÷òî [FromFrom.GetTitledName] íå âîëíóåò âîçìîæíîñòü ðàñïðîñòðàíåíèå ñëóõîâ î åãî ãîìîñåêñóàëüíîñòè. Íî äóìàþ, ÷òî îí ïîæàëååò îá ýòîì, êîãäà åãî âàññàëû óçíàþò ïðî íåãî òàêîé íåëèöåïðèÿòíûé ôàêò.\nÂàø [Root.GetSpymasterName],\n[From.GetTitledName];;x
+evt_spymaster_617_option_a;So do I;;;;;;;;;;;È ÿ òîæå.;;x
 # Corruption Uncovered
-evt_spymaster_701_title;Corruption Uncovered;;;;;;;;;;;;;x
-evt_spymaster_701_desc_a;My network of spies have encountered vague rumors that a local noble might be corrupt. Used wisely this might be enough to implicate one of my liege's enemies here in [Root.Location.GetName].;;;;;;;;;;;;;x
-evt_spymaster_701_option_a;My liege will know what to do;;;;;;;;;;;;;x
-
+evt_spymaster_701_title;Corruption Uncovered;;;;;;;;;;;Pàñêðûò ôàêò êîððóïöèè.;;x
+evt_spymaster_701_desc_a;My network of spies have encountered vague rumors that a local noble might be corrupt. Used wisely this might be enough to implicate one of my liege's enemies here in [Root.Location.GetName].;;;;;;;;;;;Ìîè ñîãëÿäàòàè äîíåñëè, ÷òî ìåñòíûé ëîðä ìîæåò áûòü êîððóïöèîíåðîì. Ýòà èíôîðìàöèÿ, åñëè å¸ âåðíî èñïîëüçîâàòü, ìîæåò ïîìî÷ü óñòðàíèòü âðàãà ìîåãî ãîñóäàðÿ â [Root.Location.GetName].;;x
+evt_spymaster_701_option_a;My liege will know what to do;;;;;;;;;;;Ãîñóäàðü çíàåò, ÷òî äåëàòü.;;x
 # Liege is informed
-evt_spymaster_702_desc_a;My liege, there is a rumor here in [From.Location.GetName] that one of the local nobles might be corrupt. Handled wisely this information might be used to implicate one of your enemies here.\n\nYour humble Spymaster,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_spymaster_702_option_a;Then use it as you see fit;;;;;;;;;;;;;x
-evt_spymaster_702_option_b;It is just a rumor, let it be;;;;;;;;;;;;;x
-
+evt_spymaster_702_desc_a;My liege, there is a rumor here in [From.Location.GetName] that one of the local nobles might be corrupt. Handled wisely this information might be used to implicate one of your enemies here.\n\nYour humble Spymaster,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], õîäÿò ñëóõè, ÷òî îäèí èç [From.Location.County.GetAdjective]ñêèõ ëîðäîâ ìîæåò áûòü êîððóïöèîíåðîì. Åñëè ïðàâèëüíî èñïîëüçîâàòü ýòè ñâåäåíèÿ, ìîæíî ðàñïðàâèòüñÿ ñ îäíèì èç Âàøèõ âðàãîâ â ýòîì îêðóãå.\nÂàø [Root.GetSpymasterName],\n[From.GetTitledName];;x
+evt_spymaster_702_option_a;Then use it as you see fit;;;;;;;;;;;Òîãäà èñïîëüçóéòå ýòî ïî ñâîåìó óñìîòðåíèþ.;;x
+evt_spymaster_702_option_b;It is just a rumor, let it be;;;;;;;;;;;Ýòî âñåãî ëèøü ñëóõ, íå îáðàùàéòå âíèìàíèÿ.;;x
 # Accuse him
-evt_spymaster_703_desc_a;My liege's instructions are clear. I should use the rumor about corruption to try and implicate one of [From.GetHerHis] enemies here in [Root.Location.GetName].;;;;;;;;;;;;;x
-evt_spymaster_703_option_a;It will be my pleasure;;;;;;;;;;;;;x
-
+evt_spymaster_703_desc_a;My liege's instructions are clear. I should use the rumor about corruption to try and implicate one of [From.GetHerHis] enemies here in [Root.Location.GetName].;;;;;;;;;;;Èíñòðóêöèè ìîåãî ãîñóäàðÿ ÿñíû ìíå. ß äîëæåí èñïîëüçîâàòü ñëóõè î êîððóïöèè, ÷òîáû íàâðåäèòü îäíîìó èç åãî âðàãîâ çäåñü, â [Root.Location.GetName].;;x
+evt_spymaster_703_option_a;It will be my pleasure;;;;;;;;;;;Ñ ïðåâåëèêèì óäîâîëüñòâèåì.;;x
 # The noble responds to accusation
-evt_spymaster_704_desc_a;[From.GetTitledName], the spymaster of [From.Liege.GetTitledName], has somehow connected a rumor about corruption here in [From.Location.GetName] with me. It seems they try to hurt my reputation with my vassals and wants me to confess.;;;;;;;;;;;;;x
-evt_spymaster_704_option_a;Try to have [From.GetTitledName] killed!;;;;;;;;;;;;;x
-evt_spymaster_704_option_b;I guess I do not have a choice;;;;;;;;;;;;;x
-
+evt_spymaster_704_desc_a;[From.GetTitledName], the spymaster of [From.Liege.GetTitledName], has somehow connected a rumor about corruption here in [From.Location.GetName] with me. It seems they try to hurt my reputation with my vassals and wants me to confess.;;;;;;;;;;;Äî [From.GetTitledName], òàéíîãî ñîâåòíèêà [From.Liege.GetTitledName], êàê-òî äîø¸ë ñëóõ î êîððóïöèè, çäåñü, â îêðóãå [From.Location.GetName], è î ìî¸ì â íåé ó÷àñòèè. Ïîõîæå, îíè ïûòàþòñÿ íàâðåäèòü ìîåé ðåïóòàöèè ñðåäè âàññàëîâ è õîòÿò, ÷òîáû ÿ ïðèçíàëñÿ.;;x
+evt_spymaster_704_option_a;Try to have [From.GetTitledName] killed!;;;;;;;;;;;Ïîïðîáóþ-êà ÿ óáèòü [From.GetTitledName]!;;x
+evt_spymaster_704_option_b;I guess I do not have a choice;;;;;;;;;;;Ïîõîæå, ó ìåíÿ íåò âûáîðà;;x
 # Spymaster is attacked
-evt_spymaster_705_desc_a;The local noble, [From.GetTitledName], tried to assure that I couldn't spread any rumors about him by sending some thugs to attack me!;;;;;;;;;;;;;x
-evt_spymaster_705_option_a;Luckily I got away!;;;;;;;;;;;;;x
-evt_spymaster_705_option_b;They killed me?!;;;;;;;;;;;;;x
-
+evt_spymaster_705_desc_a;The local noble, [From.GetTitledName], tried to assure that I couldn't spread any rumors about him by sending some thugs to attack me!;;;;;;;;;;;Ìåñòíûé ëîðä, [From.GetTitledName], ïûòàëñÿ ïðåäîòâðàòèòü ðàñïðîñòðàíåíèå ñëóõîâ, çàñòàâèâ ìåíÿ çàìîë÷àòü íàâñåãäà. Îí ïîäîñëàë ñâîèõ ãîëîâîðåçîâ, ÷òîáû îíè óáèëè ìåíÿ!;;x
+evt_spymaster_705_option_a;Luckily I got away!;;;;;;;;;;;Ñëàâà Áîãó, ÿ æèâ!;;x
+evt_spymaster_705_option_b;They killed me?!;;;;;;;;;;;Îíè ÷òî, óáèëè ìåíÿ?!;;x
 # Inform the Liege about attack
-evt_spymaster_706_desc_a;My liege, the local noble here in [From.Location.GetName], [FromFrom.GetTitledName], tried to silence me by sending some thugs to kill me! Luckily I managed to get away. I will go ahead and spread the rumor about [FromFrom.GetHerHis] corruption and destroy [FromFrom.GetHerHis] reputation among [FromFrom.GetHerHis] vassals.\n\nYour humble Spymaster,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_spymaster_706_option_a;You have my blessing!;;;;;;;;;;;;;x
-
+evt_spymaster_706_desc_a;My liege, the local noble here in [From.Location.GetName], [FromFrom.GetTitledName], tried to silence me by sending some thugs to kill me! Luckily I managed to get away. I will go ahead and spread the rumor about [FromFrom.GetHerHis] corruption and destroy [FromFrom.GetHerHis] reputation among [FromFrom.GetHerHis] vassals.\n\nYour humble Spymaster,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ïðàâèòåëü îêðóãà [From.Location.GetName], [FromFrom.GetTitledName], õîòåë[FromFrom.GetEndA] îáåñïå÷èòü ìî¸ ìîë÷àíèå, ïîäîñëàâ êî ìíå óáèéö! Ê ñ÷àñòüþ, ìíå óäàëîñü óéòè îò íèõ. ß ïðîäîëæó ðàñïðîñòðàíÿòü ñëóõè î [FromFrom.GetHersHis] êîððóìïèðîâàííîñòè è óíè÷òîæó [FromFrom.GetHersHis] äîáðîå èìÿ ñðåäè [FromFrom.GetHersHis] âàññàëîâ.\nÂàø [Root.GetSpymasterName],\n [From.GetTitledName];;x
+evt_spymaster_706_option_a;You have my blessing!;;;;;;;;;;;Áëàãîñëîâëÿþ òåáÿ!;;x
 # Inform the Liege about death
-evt_spymaster_707_desc_a;My spymaster, [From.GetTitledName] has been murdered! That noble he was investigating, [FromFrom.GetTitledName], seems reasonable to be behind this, but I have no proof...;;;;;;;;;;;;;x
-evt_spymaster_707_option_a;Damn him anyway!;;;;;;;;;;;;;x
-
+evt_spymaster_707_desc_a;My spymaster, [From.GetTitledName] has been murdered! That noble he was investigating, [FromFrom.GetTitledName], seems reasonable to be behind this, but I have no proof...;;;;;;;;;;;Ìîé [Root.GetSpymasterName], [From.GetTitledName], áûë óáèò! Ïîõîæå, çà ýòèì ñòîèò òîò ëîðä, [FromFrom.GetTitledName], íî ó ìåíÿ íåò íèêàêèõ äîêàçàòåëüñòâ…;;x
+evt_spymaster_707_option_a;Damn him anyway!;;;;;;;;;;;Ïðîêëÿòüå!;;x
 # Spymaster gets away
-evt_spymaster_708_desc_a;[FromFrom.GetTitledName] managed to get away...;;;;;;;;;;;;;x
-evt_spymaster_708_option_a;Damn [FromFrom.GetHerHim]!;;;;;;;;;;;;;x
-
+evt_spymaster_708_desc_a;[FromFrom.GetTitledName] managed to get away...;;;;;;;;;;;[FromFrom.GetTitledName] óäàëîñü ñïàñòèñü...;;x
+evt_spymaster_708_option_a;Damn [FromFrom.GetHerHim]!;;;;;;;;;;;×¸ðò [FromFrom.GetHerHis] ïîäåðè!;;x
 # Spymaster is killed
-evt_spymaster_709_desc_a;The men I sent to deal with [FromFrom.GetTitledName] succeeded. [From.GetSheHeCap] will not bother me again...;;;;;;;;;;;;;x
-
+evt_spymaster_709_desc_a;The men I sent to deal with [FromFrom.GetTitledName] succeeded. [From.GetSheHeCap] will not bother me again...;;;;;;;;;;;Ëþäè, êîòîðûõ ÿ ïîñëàë ðàçîáðàòüñÿ ñ [FromFrom.GetTitledName], ïðåóñïåëè. Áîëüøå [From.GetSheHeCap] ìåíÿ íå ïîáåñïîêîèò.;;x
 # Noble confess to spymaster
-evt_spymaster_710_desc_a;The rumors about me being corrupt is of course false, but I realize that you already know this and that I do not have much of a choice. So it is with regret that I have to 'confess' to this crime...;;;;;;;;;;;;;x
-evt_spymaster_710_option_a;This should satisfy my liege!;;;;;;;;;;;;;x
-
+evt_spymaster_710_desc_a;The rumors about me being corrupt is of course false, but I realize that you already know this and that I do not have much of a choice. So it is with regret that I have to 'confess' to this crime...;;;;;;;;;;;"Ñëóõè î ìîåé êîððóìïèðîâàííîñòè, ðàçóìååòñÿ, ëæèâû, íî ÿ äóìàþ, ÷òî Âû è ñàìè îá ýòîì çíàåòå. Âû íå îñòàâèëè ìíå âûáîðà, ïðèä¸òñÿ ""ïðèçíàòüñÿ"" â ýòîì ïðåñòóïëåíèè...";;x
+evt_spymaster_710_option_a;This should satisfy my liege!;;;;;;;;;;;Ýòî óäîâëåòâîðèò ìîåãî ãîñóäàðÿ.;;x
 # Spymaster report to liege about confession
-evt_spymaster_711_desc_a;My liege, [FromFrom.GetTitledName] decided to not risk upsetting his vassals and confessed to the allegations of corruption. It will take some time before [FromFrom.GetHerHis] prestige recovers and I have with me the fine I collected.\n\nYour humble Spymaster,\n[From.GetTitledName];;;;;;;;;;;;;x
-
+evt_spymaster_711_desc_a;My liege, [FromFrom.GetTitledName] decided to not risk upsetting his vassals and confessed to the allegations of corruption. It will take some time before [FromFrom.GetHerHis] prestige recovers and I have with me the fine I collected.\n\nYour humble Spymaster,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], [FromFrom.GetTitledName] íå áóäåò ðèñêîâàòü îòíîøåíèÿìè ñî ñâîèìè âàññàëàìè è ïðèçíà¸ò îáâèíåíèÿ â êîððóïöèè. Âîññòàíîâëåíèå [FromFrom.GetHersHis] ïðåñòèæà çàéì¸ò íåêîòîðîå âðåìÿ. Ñîáðàííûå øòðàôû íàõîäÿòñÿ ó ìåíÿ.\n [From.GetTitledName];;x
 # Do nothing
-evt_spymaster_712_desc_a;My liege seems to have lost interest in this noble and wants me to forget the whole thing.;;;;;;;;;;;;;x
-evt_spymaster_712_option_a;As [From.GetSheHe] wish;;;;;;;;;;;;;x
-
-
+evt_spymaster_712_desc_a;My liege seems to have lost interest in this noble and wants me to forget the whole thing.;;;;;;;;;;;Ìîé ñþçåðåí, êàæåòñÿ, áîëüøå íå ïèòàåò èíòåðåñ ê ýòîìó äâîðÿíèíó è íàäååòñÿ, ÷òî ÿ çàáóäó îá ýòîì.;;x
+evt_spymaster_712_option_a;As [From.GetSheHe] wish;;;;;;;;;;;Êàê [From.GetSheHe] ïîæåëàåò.;;x
 # Unused
-EVTOPTH9002;It's nothing but a bluff.;;;;;;;;;;;;;x
+EVTOPTH9002;It's nothing but a bluff.;;;;;;;;;;;Ýòî íå ÷òî èíîå, êàê áëåô.;;x

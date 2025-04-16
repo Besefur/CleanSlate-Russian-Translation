@@ -1,116 +1,116 @@
-gov_african_chiefdom;[Religion.GetGroupName] [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_african_eldership;African Eldership;;;;;;;;;;;;;x
-gov_aristocratic_electorial_hre;Elective Aristocratic [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_aristocratic_hereditary_hre;Hereditary Aristocratic [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_aristocratic_republic;Aristocratic [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_aztec;Aztec Colony;;;;;;;;;;;;;x
-gov_aztec_empire;Aztec Hegemony;;;;;;;;;;;;;x
-gov_bad_pope;Papacy;;;;;;;;;;;;;x
-gov_carolingian_hegemony;Carolingian Hegemony;;;;;;;;;;;;;x
-gov_chiefdom;[Religion.GetGroupName] [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_clan;[GetOnlyDynastyName] [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_confucian;Chinese Protectorate;;;;;;;;;;;;;x
-gov_crusader_kingdom;Crusader Kingdom;;;;;;;;;;;;;x
-gov_crusader_state;Crusader State;;;;;;;;;;;;;x
-gov_default;Anarchy;;;;;;;;;;;;;x
-gov_duchy_viceroy;[Liege.PrimaryTitle.GetAdjective] Minor Viceroyalty;;;;;;;;;;;;;x
-gov_duchy_viceroy_byz;[Liege.PrimaryTitle.GetAdjective] Theme;;;;;;;;;;;;;x
-gov_duchy_viceroy_roman;[Liege.PrimaryTitle.GetAdjective] Proconsulate;;;;;;;;;;;;;x
-gov_elective_muslim_absolute_autocracy;Elective Absolute Imperial Autocracy;;;;;;;;;;;;;x
-gov_elective_muslim_absolute_monarchy;Elective Absolute [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_elective_muslim_aristocratic_autocracy;Elective Aristocratic Imperial Autocracy;;;;;;;;;;;;;x
-gov_elective_muslim_aristocratic_monarchy;Elective Aristocratic [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_elective_muslim_despotic_autocracy;Elective Despotic Imperial Autocracy;;;;;;;;;;;;;x
-gov_elective_muslim_despotic_monarchy;Elective Despotic [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_electorial_absolute_autocracy;Elective Absolute Imperial Autocracy;;;;;;;;;;;;;x
-gov_electorial_absolute_autocracy_norse;Elective Absolute Imperial Autocracy;;;;;;;;;;;;;x
-gov_electorial_absolute_autocracy_tengri;Elective Absolute Imperial Autocracy;;;;;;;;;;;;;x
-gov_electorial_absolute_hre;Elective Absolute [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_electorial_absolute_monarchy;Elective Absolute [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_electorial_absolute_monarchy_norse;Elective Absolute [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_electorial_absolute_monarchy_tengri;Elective Absolute [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_electorial_aristocratic_autocracy;Elective Aristocratic Imperial Autocracy;;;;;;;;;;;;;x
-gov_electorial_aristocratic_autocracy_norse;Elective Aristocratic Imperial Autocracy;;;;;;;;;;;;;x
-gov_electorial_aristocratic_autocracy_tengri;Elective Aristocratic Imperial Autocracy;;;;;;;;;;;;;x
-gov_electorial_aristocratic_monarchy;Elective Aristocratic [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_electorial_aristocratic_monarchy_norse;Elective Aristocratic [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_electorial_aristocratic_monarchy_tengri;Elective Aristocratic [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_electorial_danelaw;Elective Danelaw;;;;;;;;;;;;;x
-gov_electorial_despotic_autocracy;Elective Despotic Imperial Autocracy;;;;;;;;;;;;;x
-gov_electorial_despotic_autocracy_norse;Elective Despotic Imperial Autocracy;;;;;;;;;;;;;x
-gov_electorial_despotic_autocracy_tengri;Elective Despotic Imperial Autocracy;;;;;;;;;;;;;x
-gov_electorial_despotic_hre;Elective Despotic [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_electorial_despotic_monarchy;Elective Despotic [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_electorial_despotic_monarchy_norse;Elective Despotic [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_electorial_despotic_monarchy_tengri;Elective Despotic [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_electorial_despotic_monarchy_zoro;Elective Despotic [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_electorial_zun;Elective [PrimaryTitle.GetTier] of the Sun;;;;;;;;;;;;;x
-gov_feudal_monarchy;Fedual Monarchy;;;;;;;;;;;;;x
-gov_grand_chiefdom;[Religion.GetGroupName] [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_hereditary_absolute_autocracy;Hereditary Absolute Imperial Autocracy;;;;;;;;;;;;;x
-gov_hereditary_absolute_autocracy_indian;Absolute Imperial Autocracy;;;;;;;;;;;;;x
-gov_hereditary_absolute_autocracy_norse;Hereditary Absolute Imperial Autocracy;;;;;;;;;;;;;x
-gov_hereditary_absolute_autocracy_tengri;Hereditary Absolute Imperial Autocracy;;;;;;;;;;;;;x
-gov_hereditary_absolute_hre;Hereditary Absolute [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_hereditary_absolute_monarchy;Hereditary Absolute [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_hereditary_absolute_monarchy_indian;Absolute [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_hereditary_absolute_monarchy_norse;Hereditary Absolute [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_hereditary_absolute_monarchy_tengri;Hereditary Absolute [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_hereditary_aristocratic_autocracy;Hereditary Aristocratic Imperial Autocracy;;;;;;;;;;;;;x
-gov_hereditary_aristocratic_autocracy_indian;Aristocratic Imperial Autocracy;;;;;;;;;;;;;x
-gov_hereditary_aristocratic_autocracy_norse;Hereditary Aristocratic Imperial Autocracy;;;;;;;;;;;;;x
-gov_hereditary_aristocratic_autocracy_tengri;Hereditary Aristocratic Imperial Autocracy;;;;;;;;;;;;;x
-gov_hereditary_aristocratic_monarchy;Hereditary Aristocratic [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_hereditary_aristocratic_monarchy_indian;Aristocratic [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_hereditary_aristocratic_monarchy_norse;Hereditary Aristocratic [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_hereditary_aristocratic_monarchy_tengri;Hereditary Aristocratic [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_hereditary_danelaw;Hereditary Danelaw;;;;;;;;;;;;;x
-gov_hereditary_despotic_autocracy;Hereditary Despotic Imperial Autocracy;;;;;;;;;;;;;x
-gov_hereditary_despotic_autocracy_indian;Despotic Imperial Autocracy;;;;;;;;;;;;;x
-gov_hereditary_despotic_autocracy_norse;Hereditary Despotic Imperial Autocracy;;;;;;;;;;;;;x
-gov_hereditary_despotic_autocracy_tengri;Hereditary Despotic Imperial Autocracy;;;;;;;;;;;;;x
-gov_hereditary_despotic_hre;Hereditary Despotic [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_hereditary_despotic_monarchy;Hereditary Despotic [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_hereditary_despotic_monarchy_indian;Despotic [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_hereditary_despotic_monarchy_norse;Hereditary Despotic [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_hereditary_despotic_monarchy_tengri;Hereditary Despotic [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_hereditary_despotic_monarchy_zoro;Hereditary Despotic [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_hereditary_zun;Hereditary [PrimaryTitle.GetTier] of the Sun;;;;;;;;;;;;;x
-gov_imperial_carolingian_hegemony;Imperial Carolingian Hegemony;;;;;;;;;;;;;x
-gov_khaganate;[Culture.GetName] [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_king_electorate;King Electorate;;;;;;;;;;;;;x
-gov_king_viceroy;[Liege.PrimaryTitle.GetAdjective] Viceroyalty;;;;;;;;;;;;;x
-gov_king_viceroy_byz;[Liege.PrimaryTitle.GetAdjective] Exarchate;;;;;;;;;;;;;x
-gov_king_viceroy_roman;[Liege.PrimaryTitle.GetAdjective] Province;;;;;;;;;;;;;x
-gov_mercenary;Mercenary Band;;;;;;;;;;;;;x
-gov_muslim_absolute_autocracy;Absolute Imperial Autocracy;;;;;;;;;;;;;x
-gov_muslim_absolute_monarchy;Absolute [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_muslim_aristocratic_autocracy;Aristocratic Imperial Autocracy;;;;;;;;;;;;;x
-gov_muslim_aristocratic_monarchy;Aristocratic [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_muslim_chiefdom;[Religion.GetGroupName] [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_muslim_despotic_autocracy;Despotic Imperial Autocracy;;;;;;;;;;;;;x
-gov_muslim_despotic_monarchy;Despotic [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_noble_african_chiefdom;Noble [Religion.GetGroupName] [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_noble_chiefdom;Noble [Religion.GetGroupName] [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_noble_muslim_chiefdom;Noble [Religion.GetGroupName] [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_noble_norse_chiefdom;Noble [Religion.GetName] [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_noble_romuva_eldership;Noble [Religion.GetName] Tribe;;;;;;;;;;;;;x
-gov_nomadic_mongol_empire;Ikh Mongol Uls;;;;;;;;;;;;;x
-gov_norse_chiefdom;[Religion.GetName] [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_oligarchic_republic;Oligarchic [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_order;Religious Order;;;;;;;;;;;;;x
-gov_order_shia;Assassin Order;;;;;;;;;;;;;x
-gov_patriarchate;[Religion.GetName] Patriarchate;;;;;;;;;;;;;x
-gov_patrician;[GetOnlyDynastyName] Patriciate;;;;;;;;;;;;;x
-gov_plutocratic_republic;Plutocratic [PrimaryTitle.GetTier];;;;;;;;;;;;;x
-gov_pope;[Religion.GetName] Papacy;;;;;;;;;;;;;x
-gov_pretender_chinese_empire;Chinese Empire;;;;;;;;;;;;;x
-gov_prince_electorate;Prince Electorate;;;;;;;;;;;;;x
-gov_republic;Republic;;;;;;;;;;;;;x
-gov_revolt;[PrimaryTitle.GetAdjective] Revolt;;;;;;;;;;;;;x
-gov_roman_imperial_government;Imperial Militaristic Autocracy;;;;;;;;;;;;;x
-gov_roman_imperial_government_decayed;Vestigial Empire;;;;;;;;;;;;;x
-gov_romuva_eldership;[Religion.GetName] Eldership;;;;;;;;;;;;;x
-gov_romuva_tribe;[Religion.GetName] Tribe;;;;;;;;;;;;;x
-gov_terror;[PrimaryTitle.GetTier] of Terror;;;;;;;;;;;;;x
-gov_theocracy;[Religion.GetName] Theocracy;;;;;;;;;;;;;x
+gov_african_chiefdom;[Religion.GetGroupName] [PrimaryTitle.GetTier];;;;;;;;;;;Àôðèêàíñêîå âîæäåñòâî;;x
+gov_african_eldership;African Eldership;;;;;;;;;;;Àôðèêàíñêîå ñòàðåéøèíñòâî;;x
+gov_aristocratic_electorial_hre;Elective Aristocratic [PrimaryTitle.GetTier];;;;;;;;;;;Âûáîðíàÿ àðèñòîêðàòè÷åñêàÿ ìîíàðõèÿ;;x
+gov_aristocratic_hereditary_hre;Hereditary Aristocratic [PrimaryTitle.GetTier];;;;;;;;;;;Íàñëåäñòâåííàÿ àðèñòîêðàòè÷åñêàÿ ìîíàðõèÿ;;x
+gov_aristocratic_republic;Aristocratic [PrimaryTitle.GetTier];;;;;;;;;;;Àðèñòîêðàòè÷åñêàÿ ðåñïóáëèêà;;x
+gov_aztec;Aztec Colony;;;;;;;;;;;Àöòåêñêàÿ êîëîíèÿ;;x
+gov_aztec_empire;Aztec Hegemony;;;;;;;;;;;Àöòåêñêàÿ ãåãåìîíèÿ;;x
+gov_bad_pope;Papacy;;;;;;;;;;;Ïàïñòâî;;x
+gov_carolingian_hegemony;Carolingian Hegemony;;;;;;;;;;;Êàðîëèíãñêàÿ ãåãåìîíèÿ;;x
+gov_chiefdom;[Religion.GetGroupName] [PrimaryTitle.GetTier];;;;;;;;;;;Âîæäåñòâî;;x
+gov_clan;[GetOnlyDynastyName] [PrimaryTitle.GetTier];;;;;;;;;;;[PrimaryTitle.GetTier] [GetOnlyDynastyName];;x
+gov_confucian;Chinese Protectorate;;;;;;;;;;;Êèòàéñêèé ïðîòåêòîðàò;;x
+gov_crusader_kingdom;Crusader Kingdom;;;;;;;;;;;Êîðîëåâñòâî êðåñòîíîñöåâ;;x
+gov_crusader_state;Crusader State;;;;;;;;;;;Ãîñóäàðñòâî êðåñòîíîñöåâ;;x
+gov_default;Anarchy;;;;;;;;;;;Àíàðõèÿ;;x
+gov_duchy_viceroy;[Liege.PrimaryTitle.GetAdjective] Minor Viceroyalty;;;;;;;;;;;[Liege.PrimaryTitle.GetAdjective]ñêîå âèöå-ãåðöîñòâî;;x
+gov_duchy_viceroy_byz;[Liege.PrimaryTitle.GetAdjective] Theme;;;;;;;;;;;[Liege.PrimaryTitle.GetAdjective]ñêàÿ ôåìà;;x
+gov_duchy_viceroy_roman;[Liege.PrimaryTitle.GetAdjective] Proconsulate;;;;;;;;;;;[Liege.PrimaryTitle.GetAdjective]ñêîå ïðîêîíñóëüñòâî;;x
+gov_elective_muslim_absolute_autocracy;Elective Absolute Imperial Autocracy;;;;;;;;;;;Âûáîðíàÿ àñîëþòíàÿ àâòîêðàòèÿ;;x
+gov_elective_muslim_absolute_monarchy;Elective Absolute [PrimaryTitle.GetTier];;;;;;;;;;;Âûáîðíàÿ àáñîëþòíàÿ ìîíàðõèÿ;;x
+gov_elective_muslim_aristocratic_autocracy;Elective Aristocratic Imperial Autocracy;;;;;;;;;;;Âûáîðíàÿ àðèñòîêðàòè÷åñêàÿ àâòîêðàòèÿ;;x
+gov_elective_muslim_aristocratic_monarchy;Elective Aristocratic [PrimaryTitle.GetTier];;;;;;;;;;;Âûáîðíàÿ àðèñòîêðàòè÷åñêàÿ ìîíàðõèÿ;;x
+gov_elective_muslim_despotic_autocracy;Elective Despotic Imperial Autocracy;;;;;;;;;;;Âûáîðíàÿ äåñïîòè÷åñêàÿ àâòîêðàòèÿ;;x
+gov_elective_muslim_despotic_monarchy;Elective Despotic [PrimaryTitle.GetTier];;;;;;;;;;;Âûáîðíàÿ äåñïîòè÷åñêàÿ ìîíàðõèÿ;;x
+gov_electorial_absolute_autocracy;Elective Absolute Imperial Autocracy;;;;;;;;;;;Âûáîðíàÿ àáñîëþòíàÿ àâòîêðàòèÿ;;x
+gov_electorial_absolute_autocracy_norse;Elective Absolute Imperial Autocracy;;;;;;;;;;;Âûáîðíàÿ àáñîëþòíàÿ àâòîêðàòèÿ;;x
+gov_electorial_absolute_autocracy_tengri;Elective Absolute Imperial Autocracy;;;;;;;;;;;Âûáîðíàÿ àáñîëþòíàÿ àâòîêðàòèÿ;;x
+gov_electorial_absolute_hre;Elective Absolute [PrimaryTitle.GetTier];;;;;;;;;;;Âûáîðíàÿ àáñîëþòíàÿ ìîíàðõèÿ;;x
+gov_electorial_absolute_monarchy;Elective Absolute [PrimaryTitle.GetTier];;;;;;;;;;;Âûáîðíàÿ àáñîëþòíàÿ ìîíàðõèÿ;;x
+gov_electorial_absolute_monarchy_norse;Elective Absolute [PrimaryTitle.GetTier];;;;;;;;;;;Âûáîðíàÿ àáñîëþòíàÿ ìîíàðõèÿ;;x
+gov_electorial_absolute_monarchy_tengri;Elective Absolute [PrimaryTitle.GetTier];;;;;;;;;;;Âûáîðíàÿ àáñîëþòíàÿ ìîíàðõèÿ;;x
+gov_electorial_aristocratic_autocracy;Elective Aristocratic Imperial Autocracy;;;;;;;;;;;Âûáîðíàÿ àðèñòîêðàòè÷åñêàÿ àâòîêðàòèÿ;;x
+gov_electorial_aristocratic_autocracy_norse;Elective Aristocratic Imperial Autocracy;;;;;;;;;;;Âûáîðíàÿ àðèñòîêðàòè÷åñêàÿ àâòîêðàòèÿ;;x
+gov_electorial_aristocratic_autocracy_tengri;Elective Aristocratic Imperial Autocracy;;;;;;;;;;;Âûáîðíàÿ àðèñòîêðàòè÷åñêàÿ àâòîêðàòèÿ;;x
+gov_electorial_aristocratic_monarchy;Elective Aristocratic [PrimaryTitle.GetTier];;;;;;;;;;;Âûáîðíàÿ àðèñòîêðàòè÷åñêàÿ ìîíàðõèÿ;;x
+gov_electorial_aristocratic_monarchy_norse;Elective Aristocratic [PrimaryTitle.GetTier];;;;;;;;;;;Âûáîðíàÿ àðèñòîêðàòè÷åñêàÿ ìîíàðõèÿ;;x
+gov_electorial_aristocratic_monarchy_tengri;Elective Aristocratic [PrimaryTitle.GetTier];;;;;;;;;;;Âûáîðíàÿ àðèñòîêðàòè÷åñêàÿ ìîíàðõèÿ;;x
+gov_electorial_danelaw;Elective Danelaw;;;;;;;;;;;Âûáîðíûé äàíåëàã;;x
+gov_electorial_despotic_autocracy;Elective Despotic Imperial Autocracy;;;;;;;;;;;Âûáîðíàÿ äåñïîòè÷åñêàÿ àâòîêðàòèÿ;;x
+gov_electorial_despotic_autocracy_norse;Elective Despotic Imperial Autocracy;;;;;;;;;;;Âûáîðíàÿ äåñïîòè÷åñêàÿ àâòîêðàòèÿ;;x
+gov_electorial_despotic_autocracy_tengri;Elective Despotic Imperial Autocracy;;;;;;;;;;;Âûáîðíàÿ äåñïîòè÷åñêàÿ àâòîêðàòèÿ;;x
+gov_electorial_despotic_hre;Elective Despotic [PrimaryTitle.GetTier];;;;;;;;;;;Âûáîðíàÿ äåñïîòè÷åñêàÿ ìîíàðõèÿ;;x
+gov_electorial_despotic_monarchy;Elective Despotic [PrimaryTitle.GetTier];;;;;;;;;;;Âûáîðíàÿ äåñïîòè÷åñêàÿ ìîíàðõèÿ;;x
+gov_electorial_despotic_monarchy_norse;Elective Despotic [PrimaryTitle.GetTier];;;;;;;;;;;Âûáîðíàÿ äåñïîòè÷åñêàÿ ìîíàðõèÿ;;x
+gov_electorial_despotic_monarchy_tengri;Elective Despotic [PrimaryTitle.GetTier];;;;;;;;;;;Âûáîðíàÿ äåñïîòè÷åñêàÿ ìîíàðõèÿ;;x
+gov_electorial_despotic_monarchy_zoro;Elective Despotic [PrimaryTitle.GetTier];;;;;;;;;;;Âûáîðíàÿ äåñïîòè÷åñêàÿ ìîíàðõèÿ;;x
+gov_electorial_zun;Elective [PrimaryTitle.GetTier] of the Sun;;;;;;;;;;;Èìïåðèÿ Ñîëíöà;;x
+gov_feudal_monarchy;Fedual Monarchy;;;;;;;;;;;Ôåîäàëüíàÿ ìîíàðõèÿ;;x
+gov_grand_chiefdom;[Religion.GetGroupName] [PrimaryTitle.GetTier];;;;;;;;;;;Âåëèêîå âîæäåñòâî;;x
+gov_hereditary_absolute_autocracy;Hereditary Absolute Imperial Autocracy;;;;;;;;;;;Íàñëåäñòâåííàÿ àáñîëþòíàÿ àâòîêðàòèÿ;;x
+gov_hereditary_absolute_autocracy_indian;Absolute Imperial Autocracy;;;;;;;;;;;Àáñîëþòíàÿ àâòîêðàòèÿ;;x
+gov_hereditary_absolute_autocracy_norse;Hereditary Absolute Imperial Autocracy;;;;;;;;;;;Íàñëåäñòâåííàÿ àáñîëþòíàÿ àâòîêðàòèÿ;;x
+gov_hereditary_absolute_autocracy_tengri;Hereditary Absolute Imperial Autocracy;;;;;;;;;;;Íàñëåäñòâåííàÿ àáñîëþòíàÿ àâòîêðàòèÿ;;x
+gov_hereditary_absolute_hre;Hereditary Absolute [PrimaryTitle.GetTier];;;;;;;;;;;Íàñëåäñòâåííàÿ àáñîëþòíàÿ ìîíàðõèÿ;;x
+gov_hereditary_absolute_monarchy;Hereditary Absolute [PrimaryTitle.GetTier];;;;;;;;;;;Íàñëåäñòâåííàÿ àáñîëþòíàÿ ìîíàðõèÿ;;x
+gov_hereditary_absolute_monarchy_indian;Absolute [PrimaryTitle.GetTier];;;;;;;;;;;Àáñîëþòíàÿ ìîíàðõèÿ;;x
+gov_hereditary_absolute_monarchy_norse;Hereditary Absolute [PrimaryTitle.GetTier];;;;;;;;;;;Íàñëåäñòâåííàÿ àáñîëþòíàÿ ìîíàðõèÿ;;x
+gov_hereditary_absolute_monarchy_tengri;Hereditary Absolute [PrimaryTitle.GetTier];;;;;;;;;;;Íàñëåäñòâåííàÿ àáñîëþòíàÿ ìîíàðõèÿ;;x
+gov_hereditary_aristocratic_autocracy;Hereditary Aristocratic Imperial Autocracy;;;;;;;;;;;Íàñëåäñòâåííàÿ àðèñòîêðàòè÷åñêàÿ àâòîêðàòèÿ;;x
+gov_hereditary_aristocratic_autocracy_indian;Aristocratic Imperial Autocracy;;;;;;;;;;;Àðèñòîêðàòè÷åñêàÿ àâòîêðàòèÿ;;x
+gov_hereditary_aristocratic_autocracy_norse;Hereditary Aristocratic Imperial Autocracy;;;;;;;;;;;Íàñëåäñòâåííàÿ àðèñòîêðàòè÷åñêàÿ àâòîêðàòèÿ;;x
+gov_hereditary_aristocratic_autocracy_tengri;Hereditary Aristocratic Imperial Autocracy;;;;;;;;;;;Íàñëåäñòâåííàÿ àðèñòîêðàòè÷åñêàÿ àâòîêðàòèÿ;;x
+gov_hereditary_aristocratic_monarchy;Hereditary Aristocratic [PrimaryTitle.GetTier];;;;;;;;;;;Íàñëåäñòâåííàÿ àðèñòîêðàòè÷åñêàÿ ìîíàðõèÿ;;x
+gov_hereditary_aristocratic_monarchy_indian;Aristocratic [PrimaryTitle.GetTier];;;;;;;;;;;Àðèñòîêðàòè÷åñêàÿ ìîíàðõèÿ;;x
+gov_hereditary_aristocratic_monarchy_norse;Hereditary Aristocratic [PrimaryTitle.GetTier];;;;;;;;;;;Íàñëåäñòâåííàÿ àðèñòîêðàòè÷åñêàÿ ìîíàðõèÿ;;x
+gov_hereditary_aristocratic_monarchy_tengri;Hereditary Aristocratic [PrimaryTitle.GetTier];;;;;;;;;;;Íàñëåäñòâåííàÿ àðèñòîêðàòè÷åñêàÿ ìîíàðõèÿ;;x
+gov_hereditary_danelaw;Hereditary Danelaw;;;;;;;;;;;Íàñëåäñòâåííûé äàíåëàã;;x
+gov_hereditary_despotic_autocracy;Hereditary Despotic Imperial Autocracy;;;;;;;;;;;Íàñëåäñòâåííàÿ äåñïîòè÷åñêàÿ àâòîêðàòèÿ;;x
+gov_hereditary_despotic_autocracy_indian;Despotic Imperial Autocracy;;;;;;;;;;;Äåñïîòè÷åñêàÿ àâòîêðàòèÿ;;x
+gov_hereditary_despotic_autocracy_norse;Hereditary Despotic Imperial Autocracy;;;;;;;;;;;Íàñëåäñòâåííàÿ äåñïîòè÷åñêàÿ àâòîêðàòèÿ;;x
+gov_hereditary_despotic_autocracy_tengri;Hereditary Despotic Imperial Autocracy;;;;;;;;;;;Íàñëåäñòâåííàÿ äåñïîòè÷åñêàÿ àâòîêðàòèÿ;;x
+gov_hereditary_despotic_hre;Hereditary Despotic [PrimaryTitle.GetTier];;;;;;;;;;;Íàñëåäñòâåííàÿ äåñïîòè÷åñêàÿ ìîíàðõèÿ;;x
+gov_hereditary_despotic_monarchy;Hereditary Despotic [PrimaryTitle.GetTier];;;;;;;;;;;Íàñëåäñòâåííàÿ äåñïîòè÷åñêàÿ ìîíàðõèÿ;;x
+gov_hereditary_despotic_monarchy_indian;Despotic [PrimaryTitle.GetTier];;;;;;;;;;;Äåñïîòè÷åñêàÿ ìîíàðõèÿ;;x
+gov_hereditary_despotic_monarchy_norse;Hereditary Despotic [PrimaryTitle.GetTier];;;;;;;;;;;Íàñëåäñòâåííàÿ äåñïîòè÷åñêàÿ ìîíàðõèÿ;;x
+gov_hereditary_despotic_monarchy_tengri;Hereditary Despotic [PrimaryTitle.GetTier];;;;;;;;;;;Íàñëåäñòâåííàÿ äåñïîòè÷åñêàÿ ìîíàðõèÿ;;x
+gov_hereditary_despotic_monarchy_zoro;Hereditary Despotic [PrimaryTitle.GetTier];;;;;;;;;;;Íàñëåäñòâåííàÿ äåñïîòè÷åñêàÿ ìîíàðõèÿ;;x
+gov_hereditary_zun;Hereditary [PrimaryTitle.GetTier] of the Sun;;;;;;;;;;;Èìïåðèÿ Ñîëíöà;;x
+gov_imperial_carolingian_hegemony;Imperial Carolingian Hegemony;;;;;;;;;;;Èìïåðñêàÿ Êàðîëèíãñêàÿ ãåãåìîíèÿ;;x
+gov_khaganate;[Culture.GetName] [PrimaryTitle.GetTier];;;;;;;;;;;[GetCultureAdj]èé êàãàíàò;;x
+gov_king_electorate;King Electorate;;;;;;;;;;;Âåëèêîå êóðôþðøåñòâî;;x
+gov_king_viceroy;[Liege.PrimaryTitle.GetAdjective] Viceroyalty;;;;;;;;;;;[Liege.PrimaryTitle.GetAdjective]ñêîå âèöå-êîðîëåâñòâî;;x
+gov_king_viceroy_byz;[Liege.PrimaryTitle.GetAdjective] Exarchate;;;;;;;;;;;[Liege.PrimaryTitle.GetAdjective]ñêèé ýêçàðõàò;;x
+gov_king_viceroy_roman;[Liege.PrimaryTitle.GetAdjective] Province;;;;;;;;;;;[Liege.PrimaryTitle.GetAdjective]ñêàÿ ïðîâèíöèÿ;;x
+gov_mercenary;Mercenary Band;;;;;;;;;;;×àñòíàÿ âîåííàÿ êîìïàíèÿ;;x
+gov_muslim_absolute_autocracy;Absolute Imperial Autocracy;;;;;;;;;;;Àáñîëþòíàÿ àâòîêðàòèÿ;;x
+gov_muslim_absolute_monarchy;Absolute [PrimaryTitle.GetTier];;;;;;;;;;;Àáñîëþòíàÿ ìîíàðõèÿ;;x
+gov_muslim_aristocratic_autocracy;Aristocratic Imperial Autocracy;;;;;;;;;;;Àðèñòîêðàòè÷åñêàÿ àâòîêðàòèÿ;;x
+gov_muslim_aristocratic_monarchy;Aristocratic [PrimaryTitle.GetTier];;;;;;;;;;;Àðèñòîêðàòè÷åñêàÿ ìîíàðõèÿ;;x
+gov_muslim_chiefdom;[Religion.GetGroupName] [PrimaryTitle.GetTier];;;;;;;;;;;[Religion.GetGroupName]ñêîå âîæäåñòâî;;x
+gov_muslim_despotic_autocracy;Despotic Imperial Autocracy;;;;;;;;;;;Äåñïîòè÷åñêàÿ àâòîêðàòèÿ;;x
+gov_muslim_despotic_monarchy;Despotic [PrimaryTitle.GetTier];;;;;;;;;;;Äåñïîòè÷åñêàÿ ìîíàðõèÿ;;x
+gov_noble_african_chiefdom;Noble [Religion.GetGroupName] [PrimaryTitle.GetTier];;;;;;;;;;;Àôðèêàíñêîå âîæäåñòâî;;x
+gov_noble_chiefdom;Noble [Religion.GetGroupName] [PrimaryTitle.GetTier];;;;;;;;;;;Âîæäåñòâî;;x
+gov_noble_muslim_chiefdom;Noble [Religion.GetGroupName] [PrimaryTitle.GetTier];;;;;;;;;;;[Religion.GetGroupName]ñêîå âîæäåñòâî;;x
+gov_noble_norse_chiefdom;Noble [Religion.GetName] [PrimaryTitle.GetTier];;;;;;;;;;;[_Ñêàíäèíàâ]ñêîå âîæäåñòâî;;x
+gov_noble_romuva_eldership;Noble [Religion.GetName] Tribe;;;;;;;;;;;Çíàòíîå [GetRelAdj]ñêîå ïëåìÿ;;x
+gov_nomadic_mongol_empire;Ikh Mongol Uls;;;;;;;;;;;Âåëèêîå Ìîíãîëüñêîå ãîñóäàðñòâî;;x
+gov_norse_chiefdom;[Religion.GetName] [PrimaryTitle.GetTier];;;;;;;;;;;[_Ñêàíäèíàâ]ñêîå âîæäåñòâî;;x
+gov_oligarchic_republic;Oligarchic [PrimaryTitle.GetTier];;;;;;;;;;;Îëèãàðõè÷åñêàÿ ðåñïóáëèêà;;x
+gov_order;Religious Order;;;;;;;;;;;Äóõîâíûé îðäåí;;x
+gov_order_shia;Assassin Order;;;;;;;;;;;Îðäåí Àññàñèíîâ;;x
+gov_patriarchate;[Religion.GetName] Patriarchate;;;;;;;;;;;[GetRelAdjCap]ñêèé ïàòðèàðõàò;;x
+gov_patrician;[GetOnlyDynastyName] Patriciate;;;;;;;;;;;Äåëî ñåìüè [GetOnlyDynastyName];;x
+gov_plutocratic_republic;Plutocratic [PrimaryTitle.GetTier];;;;;;;;;;;Ïëóòîêðàòè÷åñêàÿ ðåñïóáëèêà;;x
+gov_pope;[Religion.GetName] Papacy;;;;;;;;;;;[GetRelAdjCap]ñêîå ïàïñòâî;;x
+gov_pretender_chinese_empire;Chinese Empire;;;;;;;;;;;Êèòàé;;x
+gov_prince_electorate;Prince Electorate;;;;;;;;;;;Êóðôþðøåñòâî;;x
+gov_republic;Republic;;;;;;;;;;;Ðåñïóáëèêà;;x
+gov_revolt;[PrimaryTitle.GetAdjective] Revolt;;;;;;;;;;;Ïðàâèòåëüñòâî ìÿòåæíèêîâ;;x
+gov_roman_imperial_government;Imperial Militaristic Autocracy;;;;;;;;;;;Èìïåðñêàÿ âîåííàÿ àâòîêðàòèÿ;;x
+gov_roman_imperial_government_decayed;Vestigial Empire;;;;;;;;;;;Óâÿäàþùàÿ èìïåðèÿ;;x
+gov_romuva_eldership;[Religion.GetName] Eldership;;;;;;;;;;;[_Áàëòèé]ñêîå ñòàðåéøèíñòâî;;x
+gov_romuva_tribe;[Religion.GetName] Tribe;;;;;;;;;;;[GetRelAdj]ñêîå ïëåìÿ;;x
+gov_terror;[PrimaryTitle.GetTier] of Terror;;;;;;;;;;;[PrimaryTitle.GetTier] Óæàñà;;x
+gov_theocracy;[Religion.GetName] Theocracy;;;;;;;;;;;[GetRelAdjCap]ñêàÿ òåîêðàòèÿ;;x

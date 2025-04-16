@@ -1,80 +1,73 @@
-EVTDESC62300;Your invasion plans against [From.GetTitledName] are no longer possible. The invasion has failed before it even started...;;;;;;;;;;;;;x
-EVTDESC62310;You have waited too long to launch your invasion against [From.GetTitledName]! Disgruntled, the hopeful warriors who had flocked to your banner wander off looking for better opportunities.;;;;;;;;;;;;;x
-EVTDESC62320;Large numbers of adventurous carls have arrived from all corners of Scandinavia, hoping to join your great expedition against [From.GetTitledName]!;;;;;;;;;;;;;x
-EVTDESC62320_alt;Large numbers of adventurous warriors have arrived from all corners of your realm, hoping to join your great expedition against [From.GetTitledName]!;;;;;;;;;;;;;x
-EVTDESC62321;A renowned hero has arrived at your court with his housecarls and followers, hoping to partake in your glorious invasion of [From.GetTitledName]!;;;;;;;;;;;;;x
-EVTDESC62321_alt;A renowned hero has arrived at your court with his warriors and followers, hoping to partake in your glorious invasion of [From.GetTitledName]!;;;;;;;;;;;;;x
-EVTDESC62800;[From.Religion.GetRandomGodNameCap] forgive me, I have decided to find salvation in [Root.Religion.GetRandomGodName] and convert to the [Root.Religion.GetName] faith! I hope we can put this unpleasantness behind us forthwith.\n\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC62900;There are great opportunities for plunder and glory in England, with the sons of Lodbrok exacting their vengeance on the Saxon kings. My Carls are growing restless, anxious to join the great adventure...;;;;;;;;;;;;;x
-EVTDESC62901;In the name of the Allfather, the Hanged One, the Flaming Eye, I declare my intention to invade your lands and subjugate your people. Richly shall the ravens feast!\n\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC62910;The Magyar tribes have travelled far and fought viciously against nomads, farmers and city dwellers alike. The fertile plains of the Carpathian basin may offer us peace and succor - a new homeland at last!;;;;;;;;;;;;;x
-EVTDESC62911;The King of the Magyars, [From.GetFirstName], has decided to settle down in the Carpathian basin, making it the new homeland of the Magyar tribes.;;;;;;;;;;;;;x
-EVTDESC62920;The Kingdoms of León and Asturias are to stay united forever, so there will be only one crown and one king ruling them forever.;;;;;;;;;;;;;x
-EVTDESC62921;[From.GetDynName] has decided to found the [From.PrimaryTitle.GetTier] of León. The ancient [From.PrimaryTitle.GetTier] of Asturias is no more!;;;;;;;;;;;;;x
-EVTDESC62922;After centuries of subjugation, Castille has grown in power and autonomy. The time has come to be recognized as an equal by the other rulers in our region!;;;;;;;;;;;;;x
-EVTDESC62923;[From.GetDynName] has founded a new [From.PrimaryTitle.GetTier] in Spain, and now rules supreme over [From.PrimaryTitle.GetName]!;;;;;;;;;;;;;x
-EVTDESC62924;After centuries of subjugation, Portugal has grown in power and autonomy. The time has come to be recognized as an equal by the other rulers in our region!;;;;;;;;;;;;;x
-EVTDESC62925;[From.GetDynName] has founded a new [From.PrimaryTitle.GetTier] in Spain, and now rules supreme over [From.PrimaryTitle.GetName]!;;;;;;;;;;;;;x
-EVTDESC62926;The little County of Aragon, created by the Franks long ago, has become such a prestigious title that many almost considered it to have the prestige of a [From.PrimaryTitle.GetTier]. Now let it be so!;;;;;;;;;;;;;x
-EVTDESC62927;[From.GetDynName] has founded a new [From.PrimaryTitle.GetTier] in Spain, and now rules supreme over [From.PrimaryTitle.GetName]!;;;;;;;;;;;;;x
-EVTDESC62930;With the end of Carolingian domination of West Francia, the realm is now more commonly referred to as the Kingdom of France.;;;;;;;;;;;;;x
-EVTDESC62931;With the end of Carolingian domination of East Francia, the realm is now more commonly referred to as the Kingdom of Germany.;;;;;;;;;;;;;x
-EVTDESC62932;With the end of Carolingian domination of Middle Francia, the realm is once again more commonly referred to its older name of Austrasia.;;;;;;;;;;;;;x
-EVTDESC62951;The cowardly king Ælla is kneeling before me in the mud, refusing to meet my eyes. The men call out for various punishments - some more creative than others. I call for silence and a hush descends as the raven banner flutters eagerly above the doomed man. It is time to exact revenge for my dead father, Ragnarr...;;;;;;;;;;;;;x
-EVTDESC62952;The last thing I saw before the heathen savages carved out my eyes was the horrible grin on [From.GetFirstName]'s face. I tried to curl up as they prepared to unman me...;;;;;;;;;;;;;x
-
-EVTNAME62910;A New Kingdom;;;;;;;;;;;;;x
-EVTNAME62911;Magyar Nomads no More;;;;;;;;;;;;;x
-EVTNAME62920;León and Asturias are One;;;;;;;;;;;;;x
-EVTNAME62922;The [Root.PrimaryTitle.GetTier] of Castille;;;;;;;;;;;;;x
-EVTNAME62923;The [From.PrimaryTitle.GetTier] of Castille;;;;;;;;;;;;;x
-EVTNAME62924;The [Root.PrimaryTitle.GetTier] of Portugal;;;;;;;;;;;;;x
-EVTNAME62925;The [From.PrimaryTitle.GetTier] of Portugal;;;;;;;;;;;;;x
-EVTNAME62926;The [Root.PrimaryTitle.GetTier] of Aragon;;;;;;;;;;;;;x
-EVTNAME62927;The [From.PrimaryTitle.GetTier] of Aragon;;;;;;;;;;;;;x
-EVTNAME62930;The Kingdom of France;;;;;;;;;;;;;x
-EVTNAME62931;The Kingdom of Germany;;;;;;;;;;;;;x
-EVTNAME62932;The Kingdom of Austrasia;;;;;;;;;;;;;x
-EVTNAME62951;Ragnarr's Curse;;;;;;;;;;;;;x
-
-EVTOPTA62300;Odin forgive!;;;;;;;;;;;;;x
-EVTOPTA62310;Raven God have mercy!;;;;;;;;;;;;;x
-EVTOPTA62320;Prepare food and beds!;;;;;;;;;;;;;x
-EVTOPTA62321;Make room at the high table!;;;;;;;;;;;;;x
-EVTOPTA62800;Probably a wise move...;;;;;;;;;;;;;x
-EVTOPTA62900;The Raven will Fly over Mercia!;;;;;;;;;;;;;x
-EVTOPTA62900_TT;Prepare an Invasion of Mercia\n;;;;;;;;;;;;;x
-EVTOPTA62901;We shall be prepared!;;;;;;;;;;;;;x
-EVTOPTA62910;We will run no more!;;;;;;;;;;;;;x
-EVTOPTA62910_CUSTOM;§RAll counties east of the Carpathians are lost.§!\nAll counties within de jure Hungary change culture to Hungarian.\n;;;;;;;;;;;;;x
-EVTOPTA62920;Let this be the dawn of a new era!;;;;;;;;;;;;;x
-EVTOPTA62921;Asturias or León... what's the difference?;;;;;;;;;;;;;x
-EVTOPTA62922;The crown fits me perfectly!;;;;;;;;;;;;;x
-EVTOPTA62923;One more kingdom?;;;;;;;;;;;;;x
-EVTOPTA62930;I like it!;;;;;;;;;;;;;x
-EVTOPTA62931;I like it!;;;;;;;;;;;;;x
-EVTOPTA62951;Carve the Blood Eagle!;;;;;;;;;;;;;x
-EVTOPTA62952;ARRRRGH!;;;;;;;;;;;;;x
-
-EVTOPTB62300;[Root.Religion.GetHighGodName] forgive!;;;;;;;;;;;;;x
-EVTOPTB62310;[Root.Religion.GetHighGodName] have mercy!;;;;;;;;;;;;;x
-EVTOPTB62900;The Raven will Fly over Wessex!;;;;;;;;;;;;;x
-EVTOPTB62900_TT;Prepare an Invasion of Wessex\n;;;;;;;;;;;;;x
-EVTOPTB62951;Sacrifice him to Odin!;;;;;;;;;;;;;x
-
-EVTOPTC62900;The Raven will Fly over Scotland!;;;;;;;;;;;;;x
-EVTOPTC62900_TT;Prepare an Invasion of Scotland\n;;;;;;;;;;;;;x
-EVTOPTC62951;Four balls for the Ravens!;;;;;;;;;;;;;x
-
-EVTOPTD62900;This is a bad idea...;;;;;;;;;;;;;x
-EVTOPTD62951;I have other plans for Ælla...;;;;;;;;;;;;;x
-
-tooltip_east_francia_to_germany;[k_germany.GetName] changes name to Germany.;;;;;;;;;;;;;x
-tooltip_west_francia_to_france;[k_france.GetName] changes name to France.;;;;;;;;;;;;;x
-EVTTOOLTIP62910;I am crowned King of Hungary;;;;;;;;;;;;;x
-
+EVTDESC62300;Your invasion plans against [From.GetTitledName] are no longer possible. The invasion has failed before it even started...;;;;;;;;;;;Ïëàíû ïî âòîðæåíèþ â çåìëè, êîòîðûìè ïðàâèò [From.GetTitledName], áîëåå íå äåéñòâèòåëüíû. Âòîðæåíèå ïðîâàëèëîñü, äàæå íå íà÷àâøèñü.;;x
+EVTDESC62310;You have waited too long to launch your invasion against [From.GetTitledName]! Disgruntled, the hopeful warriors who had flocked to your banner wander off looking for better opportunities.;;;;;;;;;;;Âû æäàëè ñëèøêîì äîëãî, ÷òîáû íà÷àòü âòîðæåíèå â çåìëè, êîòîðûìè ïðàâèò [From.GetTitledName]! Íåäîâîëüíûå, ïîëíûå íàäåæäû âîèíû, ïðèìêíóâøèå ê Âàøåìó çíàìåíè, óøëè ïðî÷ü â ïîèñêàõ ëó÷øèõ âîçìîæíîñòåé.;;x
+EVTDESC62320;Large numbers of adventurous carls have arrived from all corners of Scandinavia, hoping to join your great expedition against [From.GetTitledName]!;;;;;;;;;;;Áîëüøîå êîëè÷åñòâî àâàíòþðèñòîâ ïðèáûëî ê Âàì ñî âñåõ êîíöîâ Ñêàíäèíàâèè â íàäåæäå ïðèñîåäèíèòüñÿ ê Âàøåìó âåëèêîìó ïîõîäó â çåìëè, êîòîðûìè ïðàâèò [From.GetTitledName]!;;x
+EVTDESC62320_alt;Large numbers of adventurous warriors have arrived from all corners of your realm, hoping to join your great expedition against [From.GetTitledName]!;;;;;;;;;;;Áîëüøîå êîëè÷åñòâî àâàíòþðèñòîâ ïðèáûëî ê Âàì ñî âñåõ êîíöîâ Âàøåé ñòðàíû â íàäåæäå ïðèñîåäèíèòüñÿ ê Âàøåìó âåëèêîìó ïîõîäó íà çåìëè, êîòîðûìè ïðàâèò [From.GetTitledFirstName]!;;x
+EVTDESC62321;A renowned hero has arrived at your court with his housecarls and followers, hoping to partake in your glorious invasion of [From.GetTitledName]!;;;;;;;;;;;Çíàìåíèòûé ãåðîé ïðèáûë ê Âàøåìó äâîðó ñ õóñêàðëàìè è ïîñëåäîâàòåëÿìè, îí õî÷åò ïðèíÿòü ó÷àñòèå â Âàøåì ñëàâíîì âòîðæåíèè â çåìëè, êîòîðûìè ïðàâèò [From.GetTitledName]!;;x
+EVTDESC62321_alt;A renowned hero has arrived at your court with his warriors and followers, hoping to partake in your glorious invasion of [From.GetTitledName]!;;;;;;;;;;;Çíàìåíèòûé ãåðîé ïðèáûë ê Âàøåìó äâîðó ñî ñâîèìè âîèíàìè è ïîñëåäîâàòåëÿìè, îí õî÷åò ïðèíÿòü ó÷àñòèå â Âàøåì ñëàâíîì âòîðæåíèè â çåìëè, êîòîðûìè ïðàâèò [From.GetTitledFirstName]!;;x
+EVTDESC62800;[From.Religion.GetRandomGodNameCap] forgive me, I have decided to find salvation in [Root.Religion.GetRandomGodName] and convert to the [Root.Religion.GetName] faith! I hope we can put this unpleasantness behind us forthwith.\n\n[From.GetTitledName];;;;;;;;;;;[From.Religion.GetRandomGodNameCap], ïðîñòè ìåíÿ, èáî òåïåðü [Root.Religion.GetRandomGodName] ñïàñ¸ò ìåíÿ, è ÿ îáðàùàþñü â [Root.GetReligionFullName]! Íàäåþñü, ÷òî ìû ìîæåì ïîëîæèòü êîíåö íàøèì íåïðèÿòíîñòÿì íåìåäëåííî.\nÏîäïèñü:\n[From.GetTitledName];;x
+EVTDESC62900;There are great opportunities for plunder and glory in England, with the sons of Lodbrok exacting their vengeance on the Saxon kings. My Carls are growing restless, anxious to join the great adventure...;;;;;;;;;;;Â Àíãëèè åñòü áîëüøèå âîçìîæíîñòè äëÿ ãðàáåæà è ïîëó÷åíèÿ ñëàâû, ïîñêîëüêó ñûíîâüÿ Ëîäáðîêà æàæäóò îòìùåíèÿ Ñàêñîíñêèì êîðîëÿì. Ìîè ïîääàííûå ñ íåòåðïåíèåì õîòÿò ïðèñîåäèíèòüñÿ ê âåëèêîìó ïîõîäó.;;x
+EVTDESC62901;In the name of the Allfather, the Hanged One, the Flaming Eye, I declare my intention to invade your lands and subjugate your people. Richly shall the ravens feast!\n\n[From.GetTitledName];;;;;;;;;;;Bî èìÿ Âñåîòöà, Ïîâåøåííîãî è Ãîðÿùåãî Ãëàçà, ÿ îáúÿâëÿþ î ñâîèõ íàìåðåíèÿõ âòîðãíóòüñÿ â òâîè çåìëè è ïîä÷èíèòü òâîé íàðîä. Ó Âîðîíà áóäåò áîãàòûé ïèð!\n[From.GetTitledName];;x
+EVTDESC62910;The Magyar tribes have travelled far and fought viciously against nomads, farmers and city dwellers alike. The fertile plains of the Carpathian basin may offer us peace and succor - a new homeland at last!;;;;;;;;;;;Ìàäüÿðñêèå ïëåìåíà ïóòåøåñòâîâàëè â äàë¸êèå çåìëè è ÿðîñòíî ñðàæàëèñü ñ êî÷åâíèêàìè, ôåðìåðàìè è æèòåëÿìè ãîðîäîâ. Ïëîäîðîäíûå ðàâíèíû Êàðïàòñêîãî áàññåéíà ìîãóò ïîìî÷ü íàì îáðåñòè ìèð. Âîò îí, íàø íîâûé äîì!;;x
+EVTDESC62911;The King of the Magyars, [From.GetFirstName], has decided to settle down in the Carpathian basin, making it the new homeland of the Magyar tribes.;;;;;;;;;;;[GetKingQueenCap] ìàäüÿðîâ, [From.GetFirstName], ðåøèë[From.GetEndA] îñåñòü â Êàðïàòñêîì áàññåéíå, ñäåëàâ åãî íîâûì äîìîì äëÿ Ìàäüÿðñêèõ ïëåì¸í.;;x
+EVTDESC62920;The Kingdoms of León and Asturias are to stay united forever, so there will be only one crown and one king ruling them forever.;;;;;;;;;;;Àñòóðèÿ è Ëåîí îáúåäèíèëèñü. Îäèí ïðàâèòåëü, îäèí çàêîí - îòíûíå è íàâñåãäà.;;x
+EVTDESC62921;[From.GetDynName] has decided to found the [From.PrimaryTitle.GetTier] of León. The ancient [From.PrimaryTitle.GetTier] of Asturias is no more!;;;;;;;;;;;[From.GetDynName] îñíîâàë[From.GetEndA] íîâîå ãîñóäàðñòâî - [From.PrimaryTitle.GetTier] Ëåîí. [From.PrimaryTitle.GetTier] Àñòóðèÿ ïðåêðàòèëà ñâî¸ ñóùåñòâîâàíèå!;;x
+EVTDESC62922;After centuries of subjugation, Castille has grown in power and autonomy. The time has come to be recognized as an equal by the other rulers in our region!;;;;;;;;;;;Ñïóñòÿ ñòîëåòèÿ ïîä÷èíåíèÿ Êàñòèëèÿ ñòàëà ñèëüíîé è íåçàâèñèìîé, êàê íèêîãäà. Ïðèøëî âðåìÿ âñåì ïðèçíàòü â íåé ðàâíîãî ñîïåðíèêà!;;x
+EVTDESC62923;[From.GetDynName] has founded a new [From.PrimaryTitle.GetTier] in Spain, and now rules supreme over [From.PrimaryTitle.GetName]!;;;;;;;;;;;[From.GetDynName] îñíîâàë[From.GetEndA] íîâîå ãîñóäàðñòâî â Èñïàíèè - [From.PrimaryTitle.GetTier] [From.PrimaryTitle.GetName]!;;x
+EVTDESC62924;After centuries of subjugation, Portugal has grown in power and autonomy. The time has come to be recognized as an equal by the other rulers in our region!;;;;;;;;;;;Ñïóñòÿ ñòîëåòèÿ ïîä÷èíåíèÿ Ïîðòóãàëèÿ ñòàëà ñèëüíîé è íåçàâèñèìîé, êàê íèêîãäà. Ïðèøëî âðåìÿ âñåì ïðèçíàòü â íåé ðàâíîãî ñîïåðíèêà!;;x
+EVTDESC62925;[From.GetDynName] has founded a new [From.PrimaryTitle.GetTier] in Spain, and now rules supreme over [From.PrimaryTitle.GetName]!;;;;;;;;;;;[From.GetDynName] îñíîâàë[From.GetEndA] íîâîå ãîñóäàðñòâî â Èñïàíèè - [From.PrimaryTitle.GetTier] [From.PrimaryTitle.GetName]!;;x
+EVTDESC62926;The little County of Aragon, created by the Franks long ago, has become such a prestigious title that many almost considered it to have the prestige of a [From.PrimaryTitle.GetTier]. Now let it be so!;;;;;;;;;;;Òèòóë êðîõîòíîãî ãðàôñòâà Àðàãîí, êîòîðîå ôðàíêè îñíîâàëè ìíîãî ëåò íàçàä, ñòàë ñòîëü ïðåñòèæíûì, ÷òî òåïåðü ïî óðîâíþ ñ íèì ñðàâíèòñÿ òîëüêî [From.PrimaryTitle.GetTier]. ×òî æ, äà áóäåò òàê!;;x
+EVTDESC62927;[From.GetDynName] has founded a new [From.PrimaryTitle.GetTier] in Spain, and now rules supreme over [From.PrimaryTitle.GetName]!;;;;;;;;;;;[From.GetDynName] îñíîâàë[From.GetEndA] íîâîå ãîñóäàðñòâî â Èñïàíèè - [From.PrimaryTitle.GetTier] [From.PrimaryTitle.GetName]!;;x
+EVTDESC62930;With the end of Carolingian domination of West Francia, the realm is now more commonly referred to as the Kingdom of France.;;;;;;;;;;;Ñ îêîí÷àíèåì ãîñïîäñòâà Êàðîëèíãîâ â Çàïàäíîé Ôðàíêèè, ñòðàíà òåïåðü áîëåå èçâåñòíà, êàê êîðîëåâñòâî Ôðàíöèÿ.;;x
+EVTDESC62931;With the end of Carolingian domination of East Francia, the realm is now more commonly referred to as the Kingdom of Germany.;;;;;;;;;;;Ñ îêîí÷àíèåì ãîñïîäñòâà Êàðîëèíãîâ â Âîñòî÷íîé Ôðàíêèè, ñòðàíà òåïåðü áîëåå èçâåñòíà, êàê êîðîëåâñòâî Ãåðìàíèÿ.;;x
+EVTDESC62932;With the end of Carolingian domination of Middle Francia, the realm is once again more commonly referred to its older name of Austrasia.;;;;;;;;;;;Ñ îêîí÷àíèåì âëàñòè êàðîëèíãîâ â Ñðåäèííîé Ôðàíêèè, ýòà ñòðàíà ñíîâà èçâåñòíà ïîä ñâîèì ñòàðûì èìåíåì - Àâñòðàçèÿ.;;x
+EVTDESC62951;The cowardly king Ælla is kneeling before me in the mud, refusing to meet my eyes. The men call out for various punishments - some more creative than others. I call for silence and a hush descends as the raven banner flutters eagerly above the doomed man. It is time to exact revenge for my dead father, Ragnarr...;;;;;;;;;;;Òðóñëèâûé êîðîëü Ýëëà ñòîèò ïåðåäî ìíîé íà êîëåíÿõ â ãðÿçè, îòêàçûâàÿñü âñòðå÷àòüñÿ ãëàçàìè. Ìîè ðåáÿòà ïðåäëàãàþò ðàçëè÷íûå êàçíè äëÿ íåãî: îäíà çàáàâíåé äðóãîé. ß ïðèçûâàþ ê òèøèíå è òèøèíà îïóñêàåòñÿ, òðåïåùà íà âåòðó êàê ìî¸ çíàìÿ ñ ÷¸ðíûì âîðîíîì, ñ íåòåðïåíèåì è ÷óâñòâîì îáðå÷¸ííîñòè. Âðåìÿ îòîìñòèòü çà ìîåãî îòöà Ðàãíàðà...;;x
+EVTDESC62952;The last thing I saw before the heathen savages carved out my eyes was the horrible grin on [From.GetFirstName]'s face. I tried to curl up as they prepared to unman me...;;;;;;;;;;;Ïîñëåäíåå, ÷òî ÿ âèäåë[Root.GetEndA] ïðåæäå, ÷åì ìíå âûðåçàëè ãëàçà - êàê [From.GetFirstName] æóòêî óëûáíó[From.GetLasLsya]. ß ïîïûòà[Root.GetLasLsya] ñâåðíóòüñÿ êàëà÷èêîì ïåðåä òåì, êàê îíè êàñòðèðóþò ìåíÿ...;;x
+EVTNAME62910;A New Kingdom;;;;;;;;;;;Hîâîå êîðîëåâñòâî.;;x
+EVTNAME62911;Magyar Nomads no More;;;;;;;;;;;Màäüÿðû áîëüøå íå êî÷åâíèêè;;x
+EVTNAME62920;León and Asturias are One;;;;;;;;;;;Ëåîí è Àñòóðèÿ åäèíû!;;x
+EVTNAME62922;The [Root.PrimaryTitle.GetTier] of Castille;;;;;;;;;;;[Root.PrimaryTitle.GetTier] Êàñòèëèÿ;;x
+EVTNAME62923;The [From.PrimaryTitle.GetTier] of Castille;;;;;;;;;;;[From.PrimaryTitle.GetTier] Êàñòèëèÿ;;x
+EVTNAME62924;The [Root.PrimaryTitle.GetTier] of Portugal;;;;;;;;;;;[Root.PrimaryTitle.GetTier] Ïîðòóãàëèÿ;;x
+EVTNAME62925;The [From.PrimaryTitle.GetTier] of Portugal;;;;;;;;;;;[From.PrimaryTitle.GetTier] Ïîðòóãàëèÿ;;x
+EVTNAME62926;The [Root.PrimaryTitle.GetTier] of Aragon;;;;;;;;;;;[Root.PrimaryTitle.GetTier] Àðàãîí;;x
+EVTNAME62927;The [From.PrimaryTitle.GetTier] of Aragon;;;;;;;;;;;[From.PrimaryTitle.GetTier] Àðàãîí;;x
+EVTNAME62930;The Kingdom of France;;;;;;;;;;;Kîðîëåâñòâî Ôðàíöèÿ;;x
+EVTNAME62931;The Kingdom of Germany;;;;;;;;;;;Kîðîëåâñòâî Ãåðìàíèÿ;;x
+EVTNAME62932;The Kingdom of Austrasia;;;;;;;;;;;Kîðîëåâñòâî Àâñòðàçèÿ;;x
+EVTNAME62951;Ragnarr's Curse;;;;;;;;;;;Pàãíàð è åãî ïðîêëÿòüå;;x
+EVTOPTA62300;Odin forgive!;;;;;;;;;;;Ïðîñòè, Îäèí!;;x
+EVTOPTA62310;Raven God have mercy!;;;;;;;;;;;Áîã Âîðîí ïîìèëóåò!;;x
+EVTOPTA62320;Prepare food and beds!;;;;;;;;;;;Ïðèãîòîâüòå åäó è êðîâàòè!;;x
+EVTOPTA62321;Make room at the high table!;;;;;;;;;;;Óñòóïèòå ìåñòî çà êðóãëûì ñòîëîì!;;x
+EVTOPTA62800;Probably a wise move...;;;;;;;;;;;Âîçìîæíî, ìóäðûé õîä...;;x
+EVTOPTA62900;The Raven will Fly over Mercia!;;;;;;;;;;;Âîðîí ïðîëåòèò íàä Ìåðñèåé!;;x
+EVTOPTA62900_TT;Prepare an Invasion of Mercia\n;;;;;;;;;;;Ïðèãîòîâèòü âòîðæåíèå â Ìåðñèþ\n;;x
+EVTOPTA62901;We shall be prepared!;;;;;;;;;;;Ìû äîëæíû ïðèãîòîâèòüñÿ!;;x
+EVTOPTA62910;We will run no more!;;;;;;;;;;;Ìû íå áóäåì áîëüøå áåæàòü!;;x
+EVTOPTA62910_CUSTOM;§RAll counties east of the Carpathians are lost.§!\nAll counties within de jure Hungary change culture to Hungarian.\n;;;;;;;;;;;§RÂñå çåìëè ê âîñòîêó îò Êàðïàò ïîòåðÿíû.§!\nÂñå äå-þðå îáëàñòè Âåíãðèè ïðèíÿëè âåíãåðñêóþ êóëüòóðó.\n;;x
+EVTOPTA62920;Let this be the dawn of a new era!;;;;;;;;;;;Ïóñòü ýòî ñòàíåò íà÷àëîì íîâîé ýðû!;;x
+EVTOPTA62921;Asturias or León... what's the difference?;;;;;;;;;;;Àñòóðèÿ èëè Ëåîí... Â ÷åì ðàçíèöà?;;x
+EVTOPTA62922;The crown fits me perfectly!;;;;;;;;;;;À êîðîíà ìíå èä¸ò!;;x
+EVTOPTA62923;One more kingdom?;;;;;;;;;;;Åù¸ îäíî ãîñóäàðñòâî?;;x
+EVTOPTA62930;I like it!;;;;;;;;;;;Ìíå íðàâèòñÿ!;;x
+EVTOPTA62931;I like it!;;;;;;;;;;;Ìíå íðàâèòñÿ!;;x
+EVTOPTA62951;Carve the Blood Eagle!;;;;;;;;;;;Êðîâàâîãî Îðëà!;;x
+EVTOPTA62952;ARRRRGH!;;;;;;;;;;;ÀÀÀÀÀÀ!;;x
+EVTOPTB62300;[Root.Religion.GetHighGodName] forgive!;;;;;;;;;;;[Root.GetTrueReligionHighGodVOC], ïðîñòè!;;x
+EVTOPTB62310;[Root.Religion.GetHighGodName] have mercy!;;;;;;;;;;;[Root.GetTrueReligionHighGodVOC], ïîìèëóé!;;x
+EVTOPTB62900;The Raven will Fly over Wessex!;;;;;;;;;;;Âîðîí ïðîëåòèò íàä Óýññåêñîì!;;x
+EVTOPTB62900_TT;Prepare an Invasion of Wessex\n;;;;;;;;;;;Ïðèãîòîâèòü âòîðæíèå â Óýññåêñ\n;;x
+EVTOPTB62951;Sacrifice him to Odin!;;;;;;;;;;;Ïðèíåñ¸ì åãî â æåðòâó Îäèíó!;;x
+EVTOPTC62900;The Raven will Fly over Scotland!;;;;;;;;;;;Âîðîí ïðîëåòèò íàä Øîòëàíäèåé!;;x
+EVTOPTC62900_TT;Prepare an Invasion of Scotland\n;;;;;;;;;;;Ïðèãîòîâèòü âòîðæåíèå â Øîòëàíäèþ\n;;x
+EVTOPTC62951;Four balls for the Ravens!;;;;;;;;;;;×åòûðå øàðà äëÿ âîðîíîâ!;;x
+EVTOPTD62900;This is a bad idea...;;;;;;;;;;;Ýòî ïëîõàÿ èäåÿ...;;x
+EVTOPTD62951;I have other plans for Ælla...;;;;;;;;;;;Ó ìåíÿ åñòü ïëàíû íà íåãî...;;x
+tooltip_east_francia_to_germany;[k_germany.GetName] changes name to Germany.;;;;;;;;;;;[k_germany.GetName] áóäåò íàçûâàòüñÿ Ãåðìàíèåé.;;x
+tooltip_west_francia_to_france;[k_france.GetName] changes name to France.;;;;;;;;;;;[k_france.GetName] áóäåò íàçûâàòüñÿ Ôðàíöèåé.;;x
+EVTTOOLTIP62910;I am crowned King of Hungary;;;;;;;;;;;ß êîðîíîâàí[Root.GetEndA] êàê [Root.GetKingQueen] Âåíãðèè.;;x
 # Unused
-EVTTOOLTIP62920;León and Asturias are now one kingdom;;;;;;;;;;;;;x
-EVTTOOLTIP62922;I'm crowned King of Castille;;;;;;;;;;;;;x
-EVTTOOLTIP62924;I'm crowned King of Portugal;;;;;;;;;;;;;x
-EVTTOOLTIP62926;I'm crowned King of Aragon;;;;;;;;;;;;;x
+EVTTOOLTIP62920;León and Asturias are now one kingdom;;;;;;;;;;;Ëåîí è Àñòóðèÿ ñòàíóò åäèíûì ãîñóäàðñòâîì;;x
+EVTTOOLTIP62922;I'm crowned King of Castille;;;;;;;;;;;Òåïåðü ïðàâèòåëü Êàñòèëèè;;x
+EVTTOOLTIP62924;I'm crowned King of Portugal;;;;;;;;;;;Òåïåðü ïðàâèòåëü Ïîðòóãàëèè;;x
+EVTTOOLTIP62926;I'm crowned King of Aragon;;;;;;;;;;;Òåïåðü ïðàâèòåëü Àðàãîíà;;x

@@ -1,516 +1,309 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
 # Trigger scopes
-
-ANY_OPINION_TARGET_STARTS;Any Opinion Target;;;;;;;;;;;;;x
-NOT_ANY_OPINION_TARGET_STARTS;No Opinion Target;;;;;;;;;;;;;x
-
-ANY_POT_TRIBAL_COUNTY_STARTS;Any Potential Tribal County;;;;;;;;;;;;;x
-NOT_ANY_POT_TRIBAL_COUNTY_STARTS;No Potential Tribal County;;;;;;;;;;;;;x
-
-ANY_SPOUSE_STARTS;Any Spouse;;;;;;;;;;;;;x
-NOT_ANY_SPOUSE_STARTS;No Spouse;;;;;;;;;;;;;x
-
-ANY_TRAIT_HOLDER_STARTS;Any Character with trait ;;;;;;;;;;;;;x
-NOT_ANY_TRAIT_HOLDER_STARTS;No Character with trait ;;;;;;;;;;;;;x
-
-ANY_CLAIMANT_STARTS;Any Claimant;;;;;;;;;;;;;x
-NOT_ANY_CLAIMANT_STARTS;No Claimant;;;;;;;;;;;;;x
-
-ANY_FACTION_BACKER_STARTS;Any Faction Backer;;;;;;;;;;;;;x
-NOT_ANY_FACTION_BACKER_STARTS;No Faction Backer;;;;;;;;;;;;;x
-
-ANY_TRADE_POST_STARTS;Any Trade Post;;;;;;;;;;;;;x
-NOT_ANY_TRADE_POST_STARTS;No Trade Post;;;;;;;;;;;;;x
-
-ANY_ATTACKER_STARTS;Any Attacker;;;;;;;;;;;;;x
-NOT_ANY_ATTACKER_STARTS;No Attacker;;;;;;;;;;;;;x
-
-ANY_DEFENDER_STARTS;Any Defender;;;;;;;;;;;;;x
-NOT_ANY_DEFENDER_STARTS;No Defender;;;;;;;;;;;;;x
-
-ANY_CONSORT_STARTS;Any Concubine;;;;;;;;;;;;;x
-NOT_ANY_CONSORT_STARTS;No Concubine;;;;;;;;;;;;;x
-
-ANY_PREVIOUS_HOLDER_STARTS;Any Previous Holder;;;;;;;;;;;;;x
-NOT_ANY_PREVIOUS_HOLDER_STARTS;No Previous Holder;;;;;;;;;;;;;x
-
-DEMESNE_TITLE_STARTS;Any Held Title;;;;;;;;;;;;;x
-NOT_DEMESNE_TITLE_STARTS;No Held Title;;;;;;;;;;;;;x
-
-ANY_PROVINCE_HOLDING_STARTS;Any Province Holding;;;;;;;;;;;;;x
-NOT_ANY_PROVINCE_HOLDING_STARTS;No Province Holding;;;;;;;;;;;;;x
-
-ANY_CLAIM_STARTS;Any Claim;;;;;;;;;;;;;x
-NOT_ANY_CLAIM_STARTS;No Claim;;;;;;;;;;;;;x
-
-ANY_LOVER_STARTS;Any Lover;;;;;;;;;;;;;x
-NOT_ANY_LOVER_STARTS;No Lover;;;;;;;;;;;;;x
-
-ANY_MERCENARY_BAND_STARTS;Any mercenary band;;;;;;;;;;;;;x
-NOT_ANY_MERCENARY_BAND_STARTS;No mercenary band;;;;;;;;;;;;;x
-
-ANY_UNIT;Any Unit;;;;;;;;;;;;;x
-NOT_ANY_UNIT;No Unit;;;;;;;;;;;;;x
-
-ANY_FORT_STARTS;Any Fort;;;;;;;;;;;;;x
-NOT_ANY_FORT_STARTS;No Fort;;;;;;;;;;;;;x
-
-ANY_TRADE_ROUTE_PROVINCE_STARTS;Any Trade Route County;;;;;;;;;;;;;x
-NOT_ANY_TRADE_ROUTE_PROVINCE_STARTS;No Trade Route County;;;;;;;;;;;;;x
-
-ANY_SETTLEMENT;Any Holding;;;;;;;;;;;;;x
-NOT_ANY_SETTLEMENT;No Holding;;;;;;;;;;;;;x
-
-REALM_PROVINCE_STARTS;Any Realm Province;;;;;;;;;;;;;x
-NOT_REALM_PROVINCE_STARTS;No Realm Province;;;;;;;;;;;;;x
-
-ANY_ALLIED_CHARACTER_STARTS;Any Non-Aggression Pact Character;;;;;;;;;;;;;x
-NOT_ANY_ALLIED_CHARACTER_STARTS;No Non-Aggression Pact Character;;;;;;;;;;;;;x
-
-ANY_FAVOR_HOLDER;Any favor holder;;;;;;;;;;;;;x
-NOT_ANY_FAVOR_HOLDER;No favor holder;;;;;;;;;;;;;x
-
-ANY_FAVOR_OWER;Any favor ower;;;;;;;;;;;;;x
-NOT_ANY_FAVOR_OWER;No favor ower;;;;;;;;;;;;;x
-
-ANY_VOTER_STARTS;Any voter;;;;;;;;;;;;;x
-NOT_ANY_VOTER_STARTS;No voter;;;;;;;;;;;;;x
-
-ANY_LANDED_TITLE_STARTS;Any landed title;;;;;;;;;;;;;x
-NOT_ANY_LANDED_TITLE_STARTS;No landed title;;;;;;;;;;;;;x
-
-ANY_CHAR_STARTS;Any character;;;;;;;;;;;;;x
-NOT_ANY_CHAR_STARTS;No character;;;;;;;;;;;;;x
-
-ANY_ARTIFACT_OWNER_STARTS;Any Past or Present Artifact Owner;;;;;;;;;;;;;x
-NOT_ANY_ARTIFACT_OWNER_STARTS;No Past or Present Artifact Owner;;;;;;;;;;;;;x
-
-ANY_BLOODLINE_MEMBER_STARTS;Any Bloodline Member;;;;;;;;;;;;;x
-NOT_ANY_BLOODLINE_MEMBER_STARTS;No Bloodline Member;;;;;;;;;;;;;x
-
-ANY_BLOODLINE_STARTS;Any Bloodline;;;;;;;;;;;;;x
-NOT_ANY_BLOODLINE_STARTS;No Bloodline;;;;;;;;;;;;;x
-
-ANY_CRUSADE_DEFENDER_STARTS;Any Crusade Defender;;;;;;;;;;;;;x
-NOT_ANY_CRUSADE_DEFENDER_STARTS;No Crusade Defender;;;;;;;;;;;;;x
-
-ANY_CRUSADE_PARTICIPANT_STARTS;Any Crusade Participant;;;;;;;;;;;;;x
-NOT_ANY_CRUSADE_PARTICIPANT_STARTS;No Crusade Participant;;;;;;;;;;;;;x
-
-ANY_ELDERSHIP_TITLE_STARTS;Any Title of Eldership Representation;;;;;;;;;;;;;x
-NOT_ANY_ELDERSHIP_TITLE_STARTS;No Title of Eldership Representation;;;;;;;;;;;;;x
-
-ANY_ELECTOR_CHARACTER_STARTS;Any Succession Elector;;;;;;;;;;;;;x
-NOT_ANY_ELECTOR_CHARACTER_STARTS;No Succession Elector;;;;;;;;;;;;;x
-
-ANY_KILL_LIST_CHARACTER_START;Any character in Kill List;;;;;;;;;;;;;x
-NOT_ANY_KILL_LIST_CHARACTER_START;No character in Kill List;;;;;;;;;;;;;x
-
-ANY_OWNED_BLOODLINE_STARTS;Any Possessed Bloodline;;;;;;;;;;;;;x
-NOT_ANY_OWNED_BLOODLINE_STARTS;No Possessed Bloodline;;;;;;;;;;;;;x
-
-ANY_UNIT_LEADERS_STARTS;Any Unit Leader;;;;;;;;;;;;;x
-NOT_ANY_UNIT_LEADERS_STARTS;No Unit Leader;;;;;;;;;;;;;x
-
-CONNECTED_PROVINCE_STARTS;Any Connected Province;;;;;;;;;;;;;x
-NOT_CONNECTED_PROVINCE_STARTS;No Connected Province;;;;;;;;;;;;;x
-
-DISCONNECTED_PROVINCE_STARTS;Any Disconnected Province;;;;;;;;;;;;;x
-NOT_DISCONNECTED_PROVINCE_STARTS;No Disconnected Province;;;;;;;;;;;;;x
-
-DIRECT_DJ_VASSAL_TITLE_STARTS;Any De Jure Vassal Title;;;;;;;;;;;;;x
-NOT_DIRECT_DJ_VASSAL_TITLE_STARTS;No De Jure Vassal Title;;;;;;;;;;;;;x
-
-ANY_NEIGHBOR_INDEPENDENT_RULER_STARTS;Any Neighbor Independent Ruler;;;;;;;;;;;;;x
-NOT_ANY_NEIGHBOR_INDEPENDENT_RULER_STARTS;No Neighbor Independent Ruler;;;;;;;;;;;;;x
-
-ANY_TRIBUTARY_STARTS;Any Tributary;;;;;;;;;;;;;x
-NOT_ANY_TRIBUTARY_STARTS;No Tributary;;;;;;;;;;;;;x
-
-ANY_PUPIL_STARTS;Any pupil;;;;;;;;;;;;;x
-NOT_ANY_PUPIL_STARTS;No pupil;;;;;;;;;;;;;x
-
-ANY_OWNED_WONDER_STARTS;Any Demesne Great Work;;;;;;;;;;;;;x
-NOT_ANY_OWNED_WONDER_STARTS;No Demesne Great Work;;;;;;;;;;;;;x
-
-ANY_OWNED_WONDER_UPGRADE_STARTS;Any Demesne Great Work Feature;;;;;;;;;;;;;x
-NOT_ANY_OWNED_WONDER_UPGRADE_STARTS;No Demesne Great Work Feature;;;;;;;;;;;;;x
-
-ANY_PREVIOUS_WONDER_OWNER_STARTS;Any Previous Owner of Great Work;;;;;;;;;;;;;x
-NOT_ANY_PREVIOUS_WONDER_OWNER_STARTS;No Previous Owner of Great Work;;;;;;;;;;;;;x
-
-ANY_REALM_WONDER_STARTS;Any Great Work in Realm;;;;;;;;;;;;;x
-NOT_ANY_REALM_WONDER_STARTS;No Great Work in Realm;;;;;;;;;;;;;x
-
-ANY_REALM_WONDER_UPGRADE_STARTS;Any Great Work Feature in Realm;;;;;;;;;;;;;x
-NOT_ANY_REALM_WONDER_UPGRADE_STARTS;No Great Work Feature in Realm;;;;;;;;;;;;;x
-
-ANY_UPGRADE_ON_WONDER;Any Feature on Great Work;;;;;;;;;;;;;x
-NOT_ANY_UPGRADE_ON_WONDER;No Feature on Great Work;;;;;;;;;;;;;x
-
-ANY_WONDER_OWNER_STARTS;Any Great Work Owner;;;;;;;;;;;;;x
-NOT_ANY_WONDER_OWNER_STARTS;No Great Work Owner;;;;;;;;;;;;;x
-
-ANY_WONDER_STARTS;Any Great Work;;;;;;;;;;;;;x
-NOT_ANY_WONDER_STARTS;Any Great Work;;;;;;;;;;;;;x
-
-ANY_WONDER_UPGRADE_STARTS;Any Great Work Feature;;;;;;;;;;;;;x
-NOT_ANY_WONDER_UPGRADE_STARTS;No Great Work Feature;;;;;;;;;;;;;x
-
-ANY_ARTIFACT_STARTS;Any artifact owned;;;;;;;;;;;;;x
-NOT_ANY_ARTIFACT_STARTS;No artifact owned;;;;;;;;;;;;;x
-
-ANY_CHARACTER_STARTS;Any character;;;;;;;;;;;;;x
-NOT_ANY_CHARACTER_STARTS;No character;;;;;;;;;;;;;x
-
-ANY_CONTROLLED_UNIT_STARTS;Any controlled army;;;;;;;;;;;;;x
-NOT_ANY_CONTROLLED_UNIT_STARTS;No controlled army;;;;;;;;;;;;;x
-
-ANY_QUEST_TARGETTING_THIS_STARTS;Any quest targeting;;;;;;;;;;;;;x
-NOT_ANY_QUEST_TARGETTING_THIS_STARTS;No quest targeting;;;;;;;;;;;;;x
-
-ANY_QUESTER_STARTS;Any character with a mission;;;;;;;;;;;;;x
-NOT_ANY_QUESTER_STARTS;No character with a mission;;;;;;;;;;;;;x
-
-ANY_QUEST_TARGET_STARTS;Any quest target;;;;;;;;;;;;;x
-NOT_ANY_QUEST_TARGET_STARTS;No quest target;;;;;;;;;;;;;x
-
-ANY_SOCIETY_MEMBER_STARTS;Any society member;;;;;;;;;;;;;x
-NOT_ANY_SOCIETY_MEMBER_STARTS;No society member;;;;;;;;;;;;;x
-
-ANY_COURTIER_OR_VASSAL_STARTS;Any Courtier or Vassal;;;;;;;;;;;;;x
-NOT_ANY_COURTIER_OR_VASSAL_STARTS;No Courtier or Vassal;;;;;;;;;;;;;x
-
-ANY_HOSPITAL_STARTS;Any Hospital;;;;;;;;;;;;;x
-NOT_ANY_HOSPITAL_STARTS;No Hospital;;;;;;;;;;;;;x
-
-ANY_PLAYER_STARTS;Any Player;;;;;;;;;;;;;x
-NOT_ANY_PLAYER_STARTS;No Player;;;;;;;;;;;;;x
-
-ANY_BACKED_CHAR_STARTS;Any backed plotter;;;;;;;;;;;;;x
-NOT_ANY_BACKED_CHAR_STARTS;No backed plotter;;;;;;;;;;;;;x
-
-ANY_PLOTTER;Any plotter;;;;;;;;;;;;;x
-NOT_ANY_PLOTTER;No plotter;;;;;;;;;;;;;x
-
-ANY_KNOWN_PLOTTER;Any known plotter;;;;;;;;;;;;;x
-NOT_ANY_KNOWN_PLOTTER;No known plotter;;;;;;;;;;;;;x
-
-ANY_UNKNOWN_PLOTTER;Any unknown plotter;;;;;;;;;;;;;x
-NOT_ANY_UNKNOWN_PLOTTER;No unknown plotter;;;;;;;;;;;;;x
-
-ANY_CHILD_STARTS;Any Child;;;;;;;;;;;;;x
-NOT_ANY_CHILD_STARTS;No Child;;;;;;;;;;;;;x
-
-ANY_COURTIER_STARTS;Any Courtier;;;;;;;;;;;;;x
-NOT_ANY_COURTIER_STARTS;No Courtier;;;;;;;;;;;;;x
-
-ANY_CURRENT_ENEMY_STARTS;Any war enemy;;;;;;;;;;;;;x
-NOT_ANY_CURRENT_ENEMY_STARTS;No war enemy;;;;;;;;;;;;;x
-
-ANY_DYNASTY_MEMBER_STARTS;Any Dynasty member;;;;;;;;;;;;;x
-NOT_ANY_DYNASTY_MEMBER_STARTS;No Dynasty member;;;;;;;;;;;;;x
-
-ANY_FRIEND_STARTS;Any Friend;;;;;;;;;;;;;x
-NOT_ANY_FRIEND_STARTS;No Friend;;;;;;;;;;;;;x
-
-ANY_INDEP_RULER_STARTS;Any independent ruler;;;;;;;;;;;;;x
-NOT_ANY_INDEP_RULER_STARTS;No independent ruler;;;;;;;;;;;;;x
-
-ANY_LIEGE_STARTS;Any liege;;;;;;;;;;;;;x
-NOT_ANY_LIEGE_STARTS;No Liege;;;;;;;;;;;;;x
-
-ANY_PLAYABLE_RULER_STARTS;Any playable ruler;;;;;;;;;;;;;x
-NOT_ANY_PLAYABLE_RULER_STARTS;No playable ruler;;;;;;;;;;;;;x
-
-ANY_PLOT_BACKER_STARTS;Any Plot Backer;;;;;;;;;;;;;x
-NOT_ANY_PLOT_BACKER_STARTS;No Plot Backer;;;;;;;;;;;;;x
-
-ANY_PROVINCE_CHAR_STARTS;Any County Character;;;;;;;;;;;;;x
-NOT_ANY_PROVINCE_CHAR_STARTS;No County Character;;;;;;;;;;;;;x
-
-ANY_PROVINCE_LORD_STARTS;Any County Lord;;;;;;;;;;;;;x
-NOT_ANY_PROVINCE_LORD_STARTS;No County Lord;;;;;;;;;;;;;x
-
-ANY_PROVINCE_STARTS;Any County;;;;;;;;;;;;;x
-NOT_ANY_PROVINCE_STARTS;No County;;;;;;;;;;;;;x
-
-ANY_REALM_CHAR_STARTS;Any realm character;;;;;;;;;;;;;x
-NOT_ANY_REALM_CHAR_STARTS;No realm character;;;;;;;;;;;;;x
-
-ANY_REALM_LORD_STARTS;Any realm lord;;;;;;;;;;;;;x
-NOT_ANY_REALM_LORD_STARTS;No realm lord;;;;;;;;;;;;;x
-
-ANY_RIVAL_STARTS;Any Rival;;;;;;;;;;;;;x
-NOT_ANY_RIVAL_STARTS;No Rival;;;;;;;;;;;;;x
-
-ANY_SIBLING_STARTS;Any sibling;;;;;;;;;;;;;x
-NOT_ANY_SIBLING_STARTS;No sibling;;;;;;;;;;;;;x
-
-ANY_CLOSE_RELATIVE_STARTS;Any close relative;;;;;;;;;;;;;x
-NOT_ANY_CLOSE_RELATIVE_STARTS;No close relative;;;;;;;;;;;;;x
-
-ANY_VASSAL_STARTS;Any vassal;;;;;;;;;;;;;x
-NOT_ANY_VASSAL_STARTS;No Vassal;;;;;;;;;;;;;x
-
-ANY_WAR_STARTS;Any war;;;;;;;;;;;;;x
-NOT_ANY_WAR_STARTS;No war;;;;;;;;;;;;;x
-
-ANY_WARD_STARTS;Any ward;;;;;;;;;;;;;x
-NOT_ANY_WARD_STARTS;No ward;;;;;;;;;;;;;x
-
-DEMESNE_PROVINCE_STARTS;Any Demesne Province;;;;;;;;;;;;;x
-NOT_DEMESNE_PROVINCE_STARTS;No Demesne Province;;;;;;;;;;;;;x
-
-REALM_TITLE_STARTS;Any Realm Title;;;;;;;;;;;;;x
-NOT_REALM_TITLE_STARTS;No Realm Title;;;;;;;;;;;;;x
-
-
-
+ANY_OPINION_TARGET_STARTS;Any Opinion Target;;;;;;;;;;;Êàêàÿ-ëèáî öåëü äëÿ ìíåíèÿ;;x
+NOT_ANY_OPINION_TARGET_STARTS;No Opinion Target;;;;;;;;;;;Íè îäèí èç öåëåé äëÿ ìíåíèÿ;;x
+ANY_POT_TRIBAL_COUNTY_STARTS;Any Potential Tribal County;;;;;;;;;;;Ëþáîå ïîòåíöèàëüíîå ïëåìåííîå ãðàôñòâî;;x
+NOT_ANY_POT_TRIBAL_COUNTY_STARTS;No Potential Tribal County;;;;;;;;;;;Íè îäíî èç ïîòåíöèàëüíûõ ïëåìåííûõ ãðàôñòâ;;x
+ANY_SPOUSE_STARTS;Any Spouse;;;;;;;;;;;Ëþáîé ñóïðóã;;x
+NOT_ANY_SPOUSE_STARTS;No Spouse;;;;;;;;;;;Íèêàêîé èç ñóïðóã;;x
+ANY_TRAIT_HOLDER_STARTS;Any Character with trait ;;;;;;;;;;;Ëþáîé ïåðñîíàæ ñ ÷åðòîé ;;x
+NOT_ANY_TRAIT_HOLDER_STARTS;No Character with trait ;;;;;;;;;;;Íè îäèí èç ïåðñîíàæåé ñ ÷åðòîé ;;x
+ANY_CLAIMANT_STARTS;Any Claimant;;;;;;;;;;;Ëþáîé ïðåòåíäåíò;;x
+NOT_ANY_CLAIMANT_STARTS;No Claimant;;;;;;;;;;;Íè îäèí èç ïðåòåíäåíòîâ;;x
+ANY_FACTION_BACKER_STARTS;Any Faction Backer;;;;;;;;;;;Ïîääåðæèâàåò ëþáóþ ôðàêöèþ;;x
+NOT_ANY_FACTION_BACKER_STARTS;No Faction Backer;;;;;;;;;;;Íè îäèí èç ñòîðîííèêîâ ôðàêöèé;;x
+ANY_TRADE_POST_STARTS;Any Trade Post;;;;;;;;;;;Ëþáàÿ ôàêòîðèÿ;;x
+NOT_ANY_TRADE_POST_STARTS;No Trade Post;;;;;;;;;;;Íè îäíà èç ôàêòîðèé;;x
+ANY_ATTACKER_STARTS;Any Attacker;;;;;;;;;;;Ëþáîé àòàêóþùèé;;x
+NOT_ANY_ATTACKER_STARTS;No Attacker;;;;;;;;;;;Íè îäèí èç àòàêóþùèõ;;x
+ANY_DEFENDER_STARTS;Any Defender;;;;;;;;;;;Ëþáîé îáîðîíÿþùèéñÿ;;x
+NOT_ANY_DEFENDER_STARTS;No Defender;;;;;;;;;;;Íè îäèí èç îáîðîíÿþùèõñÿ;;x
+ANY_CONSORT_STARTS;Any Concubine;;;;;;;;;;;Ëþáàÿ íàëîæíèöà;;x
+NOT_ANY_CONSORT_STARTS;No Concubine;;;;;;;;;;;Íè îäíà èç íàëîæíèö;;x
+ANY_PREVIOUS_HOLDER_STARTS;Any Previous Holder;;;;;;;;;;;Ëþáîé ïðåäûäóùèé îáëàäàòåëü;;x
+NOT_ANY_PREVIOUS_HOLDER_STARTS;No Previous Holder;;;;;;;;;;;Íè îäèí èç ïðåæíèõ îáëàäàòåëåé;;x
+DEMESNE_TITLE_STARTS;Any Held Title;;;;;;;;;;;Ëþáîé óäåðæèâàåìûé òèòóë;;x
+NOT_DEMESNE_TITLE_STARTS;No Held Title;;;;;;;;;;;Íåò óäåðæèâàåìûõ òèòóëîâ;;x
+ANY_PROVINCE_HOLDING_STARTS;Any Province Holding;;;;;;;;;;;Ëþáîå ïîñåëåíèå îêðóãà;;x
+NOT_ANY_PROVINCE_HOLDING_STARTS;No Province Holding;;;;;;;;;;;Íè îäíî èç ïîñåëåíèé îêðóãà;;x
+ANY_CLAIM_STARTS;Any Claim;;;;;;;;;;;Ëþáûå ïðåòåíçèè;;x
+NOT_ANY_CLAIM_STARTS;No Claim;;;;;;;;;;;Íèêàêîå èç ïðåòåíçèé;;x
+ANY_LOVER_STARTS;Any Lover;;;;;;;;;;;Ëþáîé ëþáîâíèê ;;x
+NOT_ANY_LOVER_STARTS;No Lover;;;;;;;;;;;Íè îäèí èç ëþáîâíèêîâ;;x
+ANY_MERCENARY_BAND_STARTS;Any mercenary band;;;;;;;;;;;Ëþáîé îòðÿä íà¸ìíèêîâ;;x
+NOT_ANY_MERCENARY_BAND_STARTS;No mercenary band;;;;;;;;;;;Íè îäèí èç îòðÿäîâ íà¸ìíèêîâ;;x
+ANY_UNIT;Any Unit;;;;;;;;;;;Ëþáîå âîéñêî;;x
+NOT_ANY_UNIT;No Unit;;;;;;;;;;;Íè îäíî èç âîéñê;;x
+ANY_FORT_STARTS;Any Fort;;;;;;;;;;;Ëþáîé èç ôîðòîâ;;x
+NOT_ANY_FORT_STARTS;No Fort;;;;;;;;;;;Íè îäèí èç ôîðòîâ;;x
+ANY_TRADE_ROUTE_PROVINCE_STARTS;Any Trade Route County;;;;;;;;;;;Ëþáîé îêðóã íà Òîðãîâîì ïóòè;;x
+NOT_ANY_TRADE_ROUTE_PROVINCE_STARTS;No Trade Route County;;;;;;;;;;;Íè îäèí îêðóã íà Òîðãîâîì ïóòè;;x
+ANY_SETTLEMENT;Any Holding;;;;;;;;;;;Ëþáîå ïîñåëåíèå;;x
+NOT_ANY_SETTLEMENT;No Holding;;;;;;;;;;;Íè îäíî èç ïîñåëåíèé;;x
+REALM_PROVINCE_STARTS;Any Realm Province;;;;;;;;;;;Ëþáîé îêðóã ñòðàíû;;x
+NOT_REALM_PROVINCE_STARTS;No Realm Province;;;;;;;;;;;Íè îäèí îêðóã ñòðàíû;;x
+ANY_ALLIED_CHARACTER_STARTS;Any Non-Aggression Pact Character;;;;;;;;;;;Ëþáîé ïåðñîíàæ-ñîþçíèê;;x
+NOT_ANY_ALLIED_CHARACTER_STARTS;No Non-Aggression Pact Character;;;;;;;;;;;Íè îäèí èç ïåðñîíàæåé-ñîþçíèêîâ;;x
+ANY_FAVOR_HOLDER;Any favor holder;;;;;;;;;;;Ëþáîé îáëàäàòåëü äîëãà;;x
+NOT_ANY_FAVOR_HOLDER;No favor holder;;;;;;;;;;;Íè îäèí èç îáëàäàòåëåé äîëãà;;x
+ANY_FAVOR_OWER;Any favor ower;;;;;;;;;;;Ëþáîé äîëæíèê;;x
+NOT_ANY_FAVOR_OWER;No favor ower;;;;;;;;;;;Íè îäèí èç äîëæíèêîâ;;x
+ANY_VOTER_STARTS;Any voter;;;;;;;;;;;Ëþáîé ãîëîñóþùèé;;x
+NOT_ANY_VOTER_STARTS;No voter;;;;;;;;;;;Íè îäèí èç ãîëîñóþùèõ;;x
+ANY_LANDED_TITLE_STARTS;Any landed title;;;;;;;;;;;Ëþáîé òèòóë;;x
+NOT_ANY_LANDED_TITLE_STARTS;No landed title;;;;;;;;;;;Íè îäèí èç òèòóëîâ;;x
+ANY_CHAR_STARTS;Any character;;;;;;;;;;;Ëþáîé ïåðñîíàæ;;x
+NOT_ANY_CHAR_STARTS;No character;;;;;;;;;;;Íè îäèí èç ïåðñîíàæåé;;x
+ANY_ARTIFACT_OWNER_STARTS;Any Past or Present Artifact Owner;;;;;;;;;;;Ëþáîé ïðîøëûé èëè òåêóùèé âëàäåëåö àðòåôàêòà;;x
+NOT_ANY_ARTIFACT_OWNER_STARTS;No Past or Present Artifact Owner;;;;;;;;;;;Íè îäèí èç ïðîøëûõ èëè òåêóùèõ âëàäåëåöåâ àðòåôàêòà;;x
+ANY_BLOODLINE_MEMBER_STARTS;Any Bloodline Member;;;;;;;;;;;Ëþáîé ÷ëåí ðîäîñëîâíîé:;;x
+NOT_ANY_BLOODLINE_MEMBER_STARTS;No Bloodline Member;;;;;;;;;;;Íè îäèí ïðåäñòàâèòåëü ðîäîñëîâíîé;;x
+ANY_BLOODLINE_STARTS;Any Bloodline;;;;;;;;;;;Ëþáàÿ ðîäîñëîâíàÿ:;;x
+NOT_ANY_BLOODLINE_STARTS;No Bloodline;;;;;;;;;;;Íè îäíà ðîäîñëîâíàÿ;;x
+ANY_CRUSADE_DEFENDER_STARTS;Any Crusade Defender;;;;;;;;;;;Ëþáîé îáîðîíÿþùèéñÿ îò êðåñòîâîãî ïîõîäà;;x
+NOT_ANY_CRUSADE_DEFENDER_STARTS;No Crusade Defender;;;;;;;;;;;Íè îäèí èç îáîðîíÿþùèõñÿ îò êðåñòîâîãî ïîõîäà;;x
+ANY_CRUSADE_PARTICIPANT_STARTS;Any Crusade Participant;;;;;;;;;;;Ëþáîé ó÷àñòíèê êðåñòîâîãî ïîõîäà;;x
+NOT_ANY_CRUSADE_PARTICIPANT_STARTS;No Crusade Participant;;;;;;;;;;;Íè îäèí èç ó÷àñòíèêîâ êðåñòîâîãî ïîõîäà;;x
+ANY_ELDERSHIP_TITLE_STARTS;Any Title of Eldership Representation;;;;;;;;;;;Ëþáîé òèòóë ñòàðåéøèíñòâà:;;x
+NOT_ANY_ELDERSHIP_TITLE_STARTS;No Title of Eldership Representation;;;;;;;;;;;Íåò òèòóëà ñòàðåéøèíñòâà:;;x
+ANY_ELECTOR_CHARACTER_STARTS;Any Succession Elector;;;;;;;;;;;Ëþáîé âûáîðùèê:;;x
+NOT_ANY_ELECTOR_CHARACTER_STARTS;No Succession Elector;;;;;;;;;;;Íåò âûáîðùèêà;;x
+ANY_KILL_LIST_CHARACTER_START;Any character in Kill List;;;;;;;;;;;Ëþáîé ïåðñîíàæ èç ñïèñêà óáèéñòâ:;;x
+NOT_ANY_KILL_LIST_CHARACTER_START;No character in Kill List;;;;;;;;;;;Íè îäèí ïåðñîíàæ èç ñïèñêà óáèéñòâ;;x
+ANY_OWNED_BLOODLINE_STARTS;Any Possessed Bloodline;;;;;;;;;;;Ëþáàÿ èç îáëàäàåìûõ ðîäîñëîâíûõ:;;x
+NOT_ANY_OWNED_BLOODLINE_STARTS;No Possessed Bloodline;;;;;;;;;;;Íè îäíà îáëàäàåìàÿ ðîäîñëîâíàÿ;;x
+ANY_UNIT_LEADERS_STARTS;Any Unit Leader;;;;;;;;;;;Ëþáîé ëèäåð îòðÿäà;;x
+NOT_ANY_UNIT_LEADERS_STARTS;No Unit Leader;;;;;;;;;;;Íåò ëèäåðà îòðÿäà;;x
+CONNECTED_PROVINCE_STARTS;Any Connected Province;;;;;;;;;;;Ëþáîé ñîåäèí¸ííûé îêðóã;;x
+NOT_CONNECTED_PROVINCE_STARTS;No Connected Province;;;;;;;;;;;Ëþáîé ñîåäèí¸ííûé îêðóã ÍÅ;;x
+DISCONNECTED_PROVINCE_STARTS;Any Disconnected Province;;;;;;;;;;;Ëþáîé íåñîåäèí¸ííûé îêðóã;;x
+NOT_DISCONNECTED_PROVINCE_STARTS;No Disconnected Province;;;;;;;;;;;Ëþáîé íåñîåäèí¸ííûé îêðóã ÍÅ;;x
+DIRECT_DJ_VASSAL_TITLE_STARTS;Any De Jure Vassal Title;;;;;;;;;;;Ëþáîé äå-þðå âàññàëüíûé òèòóë;;x
+NOT_DIRECT_DJ_VASSAL_TITLE_STARTS;No De Jure Vassal Title;;;;;;;;;;;Íèêàêîé èç äå-þðå âàññàëüíûõ òèòóëîâ;;x
+ANY_NEIGHBOR_INDEPENDENT_RULER_STARTS;Any Neighbor Independent Ruler;;;;;;;;;;;Ëþáîé ñîñåäíèé íåçàâèñèìûé ïðàâèòåëü;;x
+NOT_ANY_NEIGHBOR_INDEPENDENT_RULER_STARTS;No Neighbor Independent Ruler;;;;;;;;;;;Íèêàêîé èç ñîñåäíèõ íåçàâèñèìûõ ïðàâèòåëåé;;x
+ANY_TRIBUTARY_STARTS;Any Tributary;;;;;;;;;;;Ëþáîé äàííèê (ñàòåëëèò);;x
+NOT_ANY_TRIBUTARY_STARTS;No Tributary;;;;;;;;;;;Íèêàêîé èç äàííèêîâ (ñàòåëëèòîâ);;x
+ANY_PUPIL_STARTS;Any pupil;;;;;;;;;;;Ëþáîé âîñïèòàííèê;;x
+NOT_ANY_PUPIL_STARTS;No pupil;;;;;;;;;;;Íåò âîñïèòàííèêà;;x
+ANY_OWNED_WONDER_STARTS;Any Demesne Great Work;;;;;;;;;;;Ëþáîå îáëàäàåìîå âåëèêîå ñîîðóæåíèå;;x
+NOT_ANY_OWNED_WONDER_STARTS;No Demesne Great Work;;;;;;;;;;;Íåò îáëàäàåìîãî âåëèêîãî ñîîðóæåíèÿ;;x
+ANY_OWNED_WONDER_UPGRADE_STARTS;Any Demesne Great Work Feature;;;;;;;;;;;Ëþáîå óëó÷øåíèå îáëàäàåìîãî âåëèêîãî ñîîðóæåíèÿ;;x
+NOT_ANY_OWNED_WONDER_UPGRADE_STARTS;No Demesne Great Work Feature;;;;;;;;;;;Íåò óëó÷øåíèÿ îáëàäàåìîãî âåëèêîãî ñîîðóæåíèÿ;;x
+ANY_PREVIOUS_WONDER_OWNER_STARTS;Any Previous Owner of Great Work;;;;;;;;;;;Ëþáîé ïðåäûäóùèé îáëàäàòåëü âåëèêîãî ñîîðóæåíèÿ;;x
+NOT_ANY_PREVIOUS_WONDER_OWNER_STARTS;No Previous Owner of Great Work;;;;;;;;;;;Íåò ïðåäûäóùåãî îáëàäàòåëÿ âåëèêîãî ñîîðóæåíèÿ;;x
+ANY_REALM_WONDER_STARTS;Any Great Work in Realm;;;;;;;;;;;Ëþáîå âåëèêîå ñîîðóæåíèå â ñòðàíå;;x
+NOT_ANY_REALM_WONDER_STARTS;No Great Work in Realm;;;;;;;;;;;Íåò âåëèêîãî ñîîðóæåíèÿ â ñòðàíå;;x
+ANY_REALM_WONDER_UPGRADE_STARTS;Any Great Work Feature in Realm;;;;;;;;;;;Ëþáîå óëó÷øåíèå âåëèêîãî ñîîðóæåíèÿ â ñòðàíå;;x
+NOT_ANY_REALM_WONDER_UPGRADE_STARTS;No Great Work Feature in Realm;;;;;;;;;;;Íåò óëó÷øåíèÿ âåëèêîãî ñîîðóæåíèÿ â ñòðàíå;;x
+ANY_UPGRADE_ON_WONDER;Any Feature on Great Work;;;;;;;;;;;Ëþáîå óëó÷øåíèå ýòîãî âåëèêîãî ñîîðóæåíèÿ;;x
+NOT_ANY_UPGRADE_ON_WONDER;No Feature on Great Work;;;;;;;;;;;Íåò óëó÷øåíèÿ ýòîãî âåëèêîãî ñîîðóæåíèÿ;;x
+ANY_WONDER_OWNER_STARTS;Any Great Work Owner;;;;;;;;;;;Ëþáîé îáëàäàòåëü âåëèêîãî ñîîðóæåíèÿ;;x
+NOT_ANY_WONDER_OWNER_STARTS;No Great Work Owner;;;;;;;;;;;Íåò îáëàäàòåëÿ âåëèêîãî ñîîðóæåíèÿ;;x
+ANY_WONDER_STARTS;Any Great Work;;;;;;;;;;;Ëþáîå âåëèêîå ñîîðóæåíèå;;x
+NOT_ANY_WONDER_STARTS;Any Great Work;;;;;;;;;;;Íåò âåëèêîãî ñîîðóæåíèÿ;;x
+ANY_WONDER_UPGRADE_STARTS;Any Great Work Feature;;;;;;;;;;;Ëþáîå óëó÷øåíèå âåëèêîãî ñîîðóæåíèÿ;;x
+NOT_ANY_WONDER_UPGRADE_STARTS;No Great Work Feature;;;;;;;;;;;Íåò óëó÷øåíèÿ âåëèêîãî ñîîðóæåíèÿ;;x
+ANY_ARTIFACT_STARTS;Any artifact owned;;;;;;;;;;;Ëþáîé èìåþùèéñÿ àðòåôàêò;;x
+NOT_ANY_ARTIFACT_STARTS;No artifact owned;;;;;;;;;;;Íè îäèí èç èìåþùèõñÿ àðòåôàêòîâ;;x
+ANY_CHARACTER_STARTS;Any character;;;;;;;;;;;Ëþáîé ïåðñîíàæ;;x
+NOT_ANY_CHARACTER_STARTS;No character;;;;;;;;;;;Íåò ïåðñîíàæà;;x
+ANY_CONTROLLED_UNIT_STARTS;Any controlled army;;;;;;;;;;;Ëþáàÿ êîíòðîëèðóåìàÿ àðìèÿ;;x
+NOT_ANY_CONTROLLED_UNIT_STARTS;No controlled army;;;;;;;;;;;Íåò êîíòðîëèðèåìîé àðìèè;;x
+ANY_QUEST_TARGETTING_THIS_STARTS;Any quest targeting;;;;;;;;;;;Ëþáîå çàäàíèå ñ öåëüþ;;x
+NOT_ANY_QUEST_TARGETTING_THIS_STARTS;No quest targeting;;;;;;;;;;;Íåò çàäàíèÿ ñ öåëüþ;;x
+ANY_QUESTER_STARTS;Any character with a mission;;;;;;;;;;;Ëþáîé ïåðñîíàæ ñ çàäàíèåì;;x
+NOT_ANY_QUESTER_STARTS;No character with a mission;;;;;;;;;;;Íåò ïåðñîíàæà ñ çàäàíèåì;;x
+ANY_QUEST_TARGET_STARTS;Any quest target;;;;;;;;;;;Ëþáàÿ öåëü çàäàíèÿ;;x
+NOT_ANY_QUEST_TARGET_STARTS;No quest target;;;;;;;;;;;Íåò öåëè çàäàíèÿ;;x
+ANY_SOCIETY_MEMBER_STARTS;Any society member;;;;;;;;;;;Ëþáîé ÷ëåí îáùåñòâà;;x
+NOT_ANY_SOCIETY_MEMBER_STARTS;No society member;;;;;;;;;;;Íåò ÷ëåíà îáùåñòâà;;x
+ANY_COURTIER_OR_VASSAL_STARTS;Any Courtier or Vassal;;;;;;;;;;;Ëþáîé ïðèäâîðíûé èëè âàññàë;;x
+NOT_ANY_COURTIER_OR_VASSAL_STARTS;No Courtier or Vassal;;;;;;;;;;;Íåò ïðèäâîðíîãî èëè âàññàëà;;x
+ANY_HOSPITAL_STARTS;Any Hospital;;;;;;;;;;;Ëþáîé ãîñïèòàëü;;x
+NOT_ANY_HOSPITAL_STARTS;No Hospital;;;;;;;;;;;Íåò ãîñïèòàëÿ;;x
+ANY_PLAYER_STARTS;Any Player;;;;;;;;;;;Ëþáîé èãðîê;;x
+NOT_ANY_PLAYER_STARTS;No Player;;;;;;;;;;;Íåò èãðîêà;;x
+ANY_BACKED_CHAR_STARTS;Any backed plotter;;;;;;;;;;;Ëþáîé çàãîâîðùèê ;;x
+NOT_ANY_BACKED_CHAR_STARTS;No backed plotter;;;;;;;;;;;Íåò çàãîâîðùèêà;;x
+ANY_PLOTTER;Any plotter;;;;;;;;;;;Ëþáîé çàãîâîð;;x
+NOT_ANY_PLOTTER;No plotter;;;;;;;;;;;Íåò çàãîâîðà;;x
+ANY_KNOWN_PLOTTER;Any known plotter;;;;;;;;;;;Ëþáîé èçâåñòíûé çàãîâîð;;x
+NOT_ANY_KNOWN_PLOTTER;No known plotter;;;;;;;;;;;Íåò èçâåñòíîãî çàãîâîðà;;x
+ANY_UNKNOWN_PLOTTER;Any unknown plotter;;;;;;;;;;;Ëþáîé íåèçâåñòíûé çàãîâîð;;x
+NOT_ANY_UNKNOWN_PLOTTER;No unknown plotter;;;;;;;;;;;Íåò èçâåñòíîãî çàãîâîðà;;x
+ANY_CHILD_STARTS;Any Child;;;;;;;;;;;Ëþáîé ðåá¸íîê ;;x
+NOT_ANY_CHILD_STARTS;No Child;;;;;;;;;;;Íåò ðåá¸íêà;;x
+ANY_COURTIER_STARTS;Any Courtier;;;;;;;;;;;Ëþáîé ïðèäâîðíûé;;x
+NOT_ANY_COURTIER_STARTS;No Courtier;;;;;;;;;;;Íåò ïðèäâîðíîãî;;x
+ANY_CURRENT_ENEMY_STARTS;Any war enemy;;;;;;;;;;;Ëþáîé âðàã;;x
+NOT_ANY_CURRENT_ENEMY_STARTS;No war enemy;;;;;;;;;;;Íåò âðàãà;;x
+ANY_DYNASTY_MEMBER_STARTS;Any Dynasty member;;;;;;;;;;;Ëþáîé ÷ëåí äèíàñòèè;;x
+NOT_ANY_DYNASTY_MEMBER_STARTS;No Dynasty member;;;;;;;;;;;Íåò ÷ëåíà äèíàñòèè;;x
+ANY_FRIEND_STARTS;Any Friend;;;;;;;;;;;Ëþáîé äðóã ;;x
+NOT_ANY_FRIEND_STARTS;No Friend;;;;;;;;;;;Íåò äðóãà;;x
+ANY_INDEP_RULER_STARTS;Any independent ruler;;;;;;;;;;;Ëþáîé íåçàâèñèìûé ïðàâèòåëü;;x
+NOT_ANY_INDEP_RULER_STARTS;No independent ruler;;;;;;;;;;;Íåò íåçàâèñèìîãî ïðàâèòåëÿ;;x
+ANY_LIEGE_STARTS;Any liege;;;;;;;;;;;Ëþáîé ñþçåðåí;;x
+NOT_ANY_LIEGE_STARTS;No Liege;;;;;;;;;;;Íè îäèí ñþçåðåí;;x
+ANY_PLAYABLE_RULER_STARTS;Any playable ruler;;;;;;;;;;;Ëþáîé èãðàåìûé ïðàâèòåëü;;x
+NOT_ANY_PLAYABLE_RULER_STARTS;No playable ruler;;;;;;;;;;;Íåò èãðàåìîãî ïðàâèòåëÿ;;x
+ANY_PLOT_BACKER_STARTS;Any Plot Backer;;;;;;;;;;;Ëþáîé çàãîâîðùèê ;;x
+NOT_ANY_PLOT_BACKER_STARTS;No Plot Backer;;;;;;;;;;;Íåò çàãîâîðùèêà;;x
+ANY_PROVINCE_CHAR_STARTS;Any County Character;;;;;;;;;;;Ëþáîé ïåðñîíàæ îêðóãà ;;x
+NOT_ANY_PROVINCE_CHAR_STARTS;No County Character;;;;;;;;;;;Íåò ïåðñîíàæà îêðóãà;;x
+ANY_PROVINCE_LORD_STARTS;Any County Lord;;;;;;;;;;;Ëþáîé ïðàâèòåëü â îêðóãå ;;x
+NOT_ANY_PROVINCE_LORD_STARTS;No County Lord;;;;;;;;;;;Íåò ïðàâèòåëÿ â îêðóãå;;x
+ANY_PROVINCE_STARTS;Any County;;;;;;;;;;;Ëþáîé îêðóã ;;x
+NOT_ANY_PROVINCE_STARTS;No County;;;;;;;;;;;Íåò îêðóãà;;x
+ANY_REALM_CHAR_STARTS;Any realm character;;;;;;;;;;;Ëþáîé ïåðñîíàæ â ãîñóäàðñòâå ;;x
+NOT_ANY_REALM_CHAR_STARTS;No realm character;;;;;;;;;;;Íåò ïåðñîíàæà â ãîñóäàðñòâå;;x
+ANY_REALM_LORD_STARTS;Any realm lord;;;;;;;;;;;Ëþáîé ïðàâèòåëü â ãîñóäàðñòâå ;;x
+NOT_ANY_REALM_LORD_STARTS;No realm lord;;;;;;;;;;;Íè îäèí ëîðä â Âàøåì ãîñóäàðñòâå;;x
+ANY_RIVAL_STARTS;Any Rival;;;;;;;;;;;Ëþáîé âðàã ;;x
+NOT_ANY_RIVAL_STARTS;No Rival;;;;;;;;;;;Íåò âðàãà;;x
+ANY_SIBLING_STARTS;Any sibling;;;;;;;;;;;Ëþáîé ðîäíîé áðàò èëè ñåñòðà ;;x
+NOT_ANY_SIBLING_STARTS;No sibling;;;;;;;;;;;Íåò ðîäíîãî áðàòà èëè ñåñòðû;;x
+ANY_CLOSE_RELATIVE_STARTS;Any close relative;;;;;;;;;;;Ëþáîé áëèçêèé ðîäñòâåííèê;;x
+NOT_ANY_CLOSE_RELATIVE_STARTS;No close relative;;;;;;;;;;;Íåò áëèçêîãî ðîäñòâåííèêà;;x
+ANY_VASSAL_STARTS;Any vassal;;;;;;;;;;;Ëþáîé âàññàë;;x
+NOT_ANY_VASSAL_STARTS;No Vassal;;;;;;;;;;;Íèêàêîé èç âàññàëîâ;;x
+ANY_WAR_STARTS;Any war;;;;;;;;;;;Ëþáàÿ âîéíà;;x
+NOT_ANY_WAR_STARTS;No war;;;;;;;;;;;Íåò âîéíû;;x
+ANY_WARD_STARTS;Any ward;;;;;;;;;;;Ëþáîé ïîäîïå÷íûé;;x
+NOT_ANY_WARD_STARTS;No ward;;;;;;;;;;;Íåò ïîäîïå÷íîãî;;x
+DEMESNE_PROVINCE_STARTS;Any Demesne Province;;;;;;;;;;;Îêðóãà â ëè÷íûõ âëàäåíèÿõ;;x
+NOT_DEMESNE_PROVINCE_STARTS;No Demesne Province;;;;;;;;;;;Íåò îêðóãà â ëè÷íûõ âëàäåíèÿõ;;x
+REALM_TITLE_STARTS;Any Realm Title;;;;;;;;;;;Òèòóëû â ãîñóäàðñòâå;;x
+NOT_REALM_TITLE_STARTS;No Realm Title;;;;;;;;;;;Íè îäèí òèòóë â ãîñóäàðñòâå;;x
 # Effect scopes
-
-ALL_UNITS;All Units;;;;;;;;;;;;;x
-
-ALL_POT_TRIBAL_COUNTY_STARTS;All Potential Tribal Counties;;;;;;;;;;;;;x
-
-ALL_PROVINCE_HOLDINGS;All Province Holdings;;;;;;;;;;;;;x
-
-ALL_DE_JURE_LIEGES_TITLES;All De Jure Liege Titles;;;;;;;;;;;;;x
-
-ALL_VOTERS;All voters;;;;;;;;;;;;;x
-
-ALL_CHARACTERS;All Characters;;;;;;;;;;;;;x
-
-ALL_LANDED_TITLES;All Landed Titles;;;;;;;;;;;;;x
-
-ALL_PROVINCES;All Counties;;;;;;;;;;;;;x
-
-ALL_KILL_LIST_CHARACTER;All characters in Kill List;;;;;;;;;;;;;x
-
-ALL_PLOTTER_CHARS;Any plotter;;;;;;;;;;;;;x
-
-ALL_COURTIERS_AND_VASSALS;All Courtiers and Vassals;;;;;;;;;;;;;x
-
-ALL_PLAYERS;All Players;;;;;;;;;;;;;x
-
-ALL_ARTIFACTS;All Artifacts;;;;;;;;;;;;;x
-
-ALL_CONTROLLED_UNITS;All controlled armies;;;;;;;;;;;;;x
-
-ALL_QUEST_TARGETS;All quest targets;;;;;;;;;;;;;x
-
-ALL_QUESTERS;All characters with a mission;;;;;;;;;;;;;x
-
-ALL_QUESTERS_TARGETTING;All characters with a mission targeting;;;;;;;;;;;;;x
-
-ALL_DE_JURE_VASSAL_TITLES;All De Jure Vassal Titles;;;;;;;;;;;;;x
-
-ALL_DE_JURE_VASSALS;All De Jure Vassals;;;;;;;;;;;;;x
-
-ALL_DIRECT_DE_JURE_VASSAL_TITLES;All Direct De Jure Vassal Titles;;;;;;;;;;;;;x
-
-ALL_WARS;All Wars;;;;;;;;;;;;;x
-
-ALL_COURTIERS;All Courtiers;;;;;;;;;;;;;x
-
-ALL_CURRENT_ENEMIES;All War Enemies;;;;;;;;;;;;;x
-
-ALL_DYNASTY_MEMBERS;All Dynasty Members;;;;;;;;;;;;;x
-
-ALL_HOST_COURTIERS;All Host Courtiers;;;;;;;;;;;;;x
-
-ALL_INDEPENDENT_RULERS;All Independent Rulers;;;;;;;;;;;;;x
-
-ALL_PROV_CHARS;All Province Characters;;;;;;;;;;;;;x
-
-ALL_PROV_LORDS;All Province Lords;;;;;;;;;;;;;x
-
-ALL_REALM_CHARACTERS;All Realm Characters;;;;;;;;;;;;;x
-
-ALL_REALM_LORDS;All Realm Lords;;;;;;;;;;;;;x
-
-ALL_VASSALS;All Vassals;;;;;;;;;;;;;x
-
-WONDER_ALL_PREVIOUS_WONDER_OWNERS;All Previous Owners of Great Work;;;;;;;;;;;;;x
-
-WONDER_UPGRADES_ALL;All Great Work Features;;;;;;;;;;;;;x
-
-WONDER_UPGRADES_ALL_OWNED;All Demesne Great Work Features;;;;;;;;;;;;;x
-
-WONDER_UPGRADES_ALL_REALM;All Realm Great Work Features;;;;;;;;;;;;;x
-
-WONDERS_ALL;All Great Works;;;;;;;;;;;;;x
-
-WONDERS_ALL_OWNED;All Demesne Great Work;;;;;;;;;;;;;x
-
-WONDERS_ALL_OWNERS;All Great Work Owners;;;;;;;;;;;;;x
-
-WONDERS_ALL_REALM;All Realm Great Work;;;;;;;;;;;;;x
-
-WONDERS_ALL_UPGRADES_ON;All Features on Great Work;;;;;;;;;;;;;x
-
-
-
+ALL_UNITS;All Units;;;;;;;;;;;Âñå âîéñêà;;x
+ALL_POT_TRIBAL_COUNTY_STARTS;All Potential Tribal Counties;;;;;;;;;;;Âñå ïîòåíöèàëüíûå ïëåìåííûå ãðàôñòâà;;x
+ALL_PROVINCE_HOLDINGS;All Province Holdings;;;;;;;;;;;Âñå ïîñåëåíèÿ îêðóãà;;x
+ALL_DE_JURE_LIEGES_TITLES;All De Jure Liege Titles;;;;;;;;;;;Âñå òèòóëû äå-þðå ñþçåðåíîâ;;x
+ALL_VOTERS;All voters;;;;;;;;;;;Âñå ãîëîñóþùèå;;x
+ALL_CHARACTERS;All Characters;;;;;;;;;;;Âñå ïåðñîíàæè;;x
+ALL_LANDED_TITLES;All Landed Titles;;;;;;;;;;;Âñå òèòóëû;;x
+ALL_PROVINCES;All Counties;;;;;;;;;;;Âñå îêðóãà;;x
+ALL_KILL_LIST_CHARACTER;All characters in Kill List;;;;;;;;;;;Âñå ïåðñîíàæè èç ñïèñêà óáèéñòâ:;;x
+ALL_PLOTTER_CHARS;Any plotter;;;;;;;;;;;Ëþáîé çàãîâîðùèê;;x
+ALL_COURTIERS_AND_VASSALS;All Courtiers and Vassals;;;;;;;;;;;Âñå ïðèäâîðíûå è âàññàëû;;x
+ALL_PLAYERS;All Players;;;;;;;;;;;Âñå èãðîêè;;x
+ALL_ARTIFACTS;All Artifacts;;;;;;;;;;;Âñå àðòåôàêòû;;x
+ALL_CONTROLLED_UNITS;All controlled armies;;;;;;;;;;;Âñå êîíòðîëèðóåìûå àðìèè;;x
+ALL_QUEST_TARGETS;All quest targets;;;;;;;;;;;Âñå öåëè çàäàíèÿ;;x
+ALL_QUESTERS;All characters with a mission;;;;;;;;;;;Âñå ïåðñîíàæè ñ çàäàíèåì:;;x
+ALL_QUESTERS_TARGETTING;All characters with a mission targeting;;;;;;;;;;;Âñå ïåðñîíàæè ñ çàäàíèåì ñ öåëüþ:;;x
+ALL_DE_JURE_VASSAL_TITLES;All De Jure Vassal Titles;;;;;;;;;;;Âñå òèòóëû äå-þðå âàññàëîâ;;x
+ALL_DE_JURE_VASSALS;All De Jure Vassals;;;;;;;;;;;Âñå äå-þðå âàññàëû;;x
+ALL_DIRECT_DE_JURE_VASSAL_TITLES;All Direct De Jure Vassal Titles;;;;;;;;;;;Âñå ïðÿìûå äå-þðå âàññàëüíûå òèòóëû;;x
+ALL_WARS;All Wars;;;;;;;;;;;Âñå âîéíû;;x
+ALL_COURTIERS;All Courtiers;;;;;;;;;;;Âñå ïðèäâîðíûå;;x
+ALL_CURRENT_ENEMIES;All War Enemies;;;;;;;;;;;Âñå âîþþùèå ïðîòèâíèêè;;x
+ALL_DYNASTY_MEMBERS;All Dynasty Members;;;;;;;;;;;Âñå ÷ëåíû äèíàñòèè;;x
+ALL_HOST_COURTIERS;All Host Courtiers;;;;;;;;;;;Âñå ìåñòíûå ïðèäâîðíûå;;x
+ALL_INDEPENDENT_RULERS;All Independent Rulers;;;;;;;;;;;Âñå íåçàâèñèìûå ïðàâèòåëè;;x
+ALL_PROV_CHARS;All Province Characters;;;;;;;;;;;Âñå ïåðñîíàæè îêðóãà;;x
+ALL_PROV_LORDS;All Province Lords;;;;;;;;;;;Âñå ïðàâèòåëè îêðóãà;;x
+ALL_REALM_CHARACTERS;All Realm Characters;;;;;;;;;;;Âñå ïåðñîíàæè äåðæàâû;;x
+ALL_REALM_LORDS;All Realm Lords;;;;;;;;;;;Âñå ïðàâèòåëè äåðæàâû;;x
+ALL_VASSALS;All Vassals;;;;;;;;;;;Âñå âàññàëû;;x
+WONDER_ALL_PREVIOUS_WONDER_OWNERS;All Previous Owners of Great Work;;;;;;;;;;;Âñå ïðåäûäóùèå îáëàäàòåëè âåëèêîãî ñîîðóæåíèÿ;;x
+WONDER_UPGRADES_ALL;All Great Work Features;;;;;;;;;;;Âñå óëó÷øåíèÿ âåëèêèõ ñîîðóæåíèé;;x
+WONDER_UPGRADES_ALL_OWNED;All Demesne Great Work Features;;;;;;;;;;;Âñå îáëàäàåìûå óëó÷øåíèÿ âåëèêèõ ñîîðóæåíèé;;x
+WONDER_UPGRADES_ALL_REALM;All Realm Great Work Features;;;;;;;;;;;Âñå óëó÷øåíèÿ âåëèêèõ ñîîðóæåíèé â ñòðàíå;;x
+WONDERS_ALL;All Great Works;;;;;;;;;;;Âñå âåëèêèå ñîîðóæåíèÿ;;x
+WONDERS_ALL_OWNED;All Demesne Great Work;;;;;;;;;;;Âñå îáëàäàåìûå âåëèêèå ñîîðóæåíèÿ;;x
+WONDERS_ALL_OWNERS;All Great Work Owners;;;;;;;;;;;Âñå îáëàäàòåëè âåëèêèõ ñîîðóæåíèé;;x
+WONDERS_ALL_REALM;All Realm Great Work;;;;;;;;;;;Âñå âåëèêèå ñîîðóæåíèÿ â ñòðàíå;;x
+WONDERS_ALL_UPGRADES_ON;All Features on Great Work;;;;;;;;;;;Âñå óëó÷øåíèÿ ýòîãî âåëèêîãî ñîîðóæåíèÿ;;x
 # Other scopes
-
-DEFACTO_LIEGE_STARTS;De Facto Liege;;;;;;;;;;;;;x
-
-DEJURE_LIEGE_STARTS;De Jure Liege;;;;;;;;;;;;;x
-
-EMPTY_NEIGHBOR_PROVINCE_STARTS;Empty neighbor County;;;;;;;;;;;;;x
-
-FAMILY_PALACE;Family Palace;;;;;;;;;;;;;x
-
-FOUNDER_SCOPE;Bloodline Founder;;;;;;;;;;;;;x
-
-HEIR_TITLE_STARTS;Any Heir Title;;;;;;;;;;;;;x
-NOT_HEIR_TITLE_STARTS;No Heir Title;;;;;;;;;;;;;x
-
-NEIGHBOR_PROVINCE_STARTS;Any Neighboring Province;;;;;;;;;;;;;x
-NOT_NEIGHBOR_PROVINCE_STARTS;No Neighboring Province;;;;;;;;;;;;;x
-
-PRETENDER_TITLE_STARTS;Any Pretender Title;;;;;;;;;;;;;x
-NOT_PRETENDER_TITLE_STARTS;No Pretender Title;;;;;;;;;;;;;x
-
-TRIGGER_DYNASTY_HEAD;Head of Dynasty;;;;;;;;;;;;;x
-
-TRIGGER_BAND_CREATOR;Band creator;;;;;;;;;;;;;x
-
-TRIGGER_MOST_PART_CRUSADER;Most Contributing Crusader;;;;;;;;;;;;;x
-
-TRIGGER_SUZERAIN;Suzerain;;;;;;;;;;;;;x
-
-TRIGGER_PARENT_RELIGION_HEAD;Head of Parent Religion;;;;;;;;;;;;;x
-
-TRIGGER_PLAYER_HEIR_SCOPE;Player Heir;;;;;;;;;;;;;x
-
-TRIGGER_RIGHTFUL_RELIGIOUS_HEAD_SCOPE;Rightful Head of Religion;;;;;;;;;;;;;x
-
-TRIGGER_NEW_ARTIFACT;New Artifact;;;;;;;;;;;;;x
-
-TRIGGER_QUEST_TARGET;Target of a Mission for a Society;;;;;;;;;;;;;x
-
-TRIGGER_SOCIETY;Society;;;;;;;;;;;;;x
-
-TRIGGER_HOSPITAL_OWNER;Hospital Owner;;;;;;;;;;;;;x
-
-TRIGGER_DISCOVERED_SOCIETY;Perceived Society;;;;;;;;;;;;;x
-
-TRIGGER_ALLY;Any Ally;;;;;;;;;;;;;x
-
-TRIGGER_CAPITAL;Capital;;;;;;;;;;;;;x
-
-TRIGGER_CENTER_FLANK_LEADER;Center Flank Commander;;;;;;;;;;;;;x
-
-TRIGGER_CONTROLLER;Controller;;;;;;;;;;;;;x
-
-TRIGGER_COUNTRY;Land;;;;;;;;;;;;;x
-
-TRIGGER_COUNTY;County;;;;;;;;;;;;;x
-
-TRIGGER_CURRENT_HEIR_SCOPE;Current Heir;;;;;;;;;;;;;x
-
-TRIGGER_DUCHY;Duchy;;;;;;;;;;;;;x
-
-TRIGGER_EMPLOYER;Employer;;;;;;;;;;;;;x
-
-TRIGGER_GUARDIAN;Guardian;;;;;;;;;;;;;x
-
-TRIGGER_HOLDER_SCOPE;Title Holder;;;;;;;;;;;;;x
-
-TRIGGER_HOST;Host;;;;;;;;;;;;;x
-
-TRIGGER_KINGDOM;Kingdom;;;;;;;;;;;;;x
-
-TRIGGER_LEFT_FLANK_LEADER;Left Flank Commander;;;;;;;;;;;;;x
-
-TRIGGER_LIEGE;Liege;;;;;;;;;;;;;x
-
-TRIGGER_LOCATION;Location;;;;;;;;;;;;;x
-
-TRIGGER_NEW_CHAR;New Character;;;;;;;;;;;;;x
-
-TRIGGER_OWNER;Province Owner;;;;;;;;;;;;;x
-
-TRIGGER_PLOT_TARGET_CHAR;Plot Target Character;;;;;;;;;;;;;x
-
-TRIGGER_PLOT_TARGET_TITLE;Plot Target Title;;;;;;;;;;;;;x
-
-TRIGGER_PREFERRED_HEIR_SCOPE;Preferred Heir;;;;;;;;;;;;;x
-
-TRIGGER_PRIMARY_TITLE;Primary Title;;;;;;;;;;;;;x
-
-TRIGGER_REALM;Realm;;;;;;;;;;;;;x
-
-TRIGGER_REGENT;Regent;;;;;;;;;;;;;x
-
-TRIGGER_RELIGION_HEAD;Head of Religion;;;;;;;;;;;;;x
-
-TRIGGER_RIGHT_FLANK_LEADER;Right Flank Commander;;;;;;;;;;;;;x
-
-TRIGGER_SPOUSE;Spouse;;;;;;;;;;;;;x
-
-TRIGGER_THIS;This;;;;;;;;;;;;;x
-
-TRIGGER_TOP_LIEGE;Top Liege;;;;;;;;;;;;;x
-
-TRIGGER_ARTIFACT_PREVIOUS_OWNER;Previous Artifact Owner;;;;;;;;;;;;;x
-
-TRIGGER_NEW_BLOODLINE;New Bloodline;;;;;;;;;;;;;x
-
-TRIGGER_PARENT_RELIGION;Parent Religion;;;;;;;;;;;;;x
-
-TRIGGER_SIEGE;Siege;;;;;;;;;;;;;x
-
-TRIGGER_LEADER;Leader;;;;;;;;;;;;;x
-
-TRIGGER_ARTIFACT_ORIGINAL_OWNER;Artifact Original Owner;;;;;;;;;;;;;x
-
-TRIGGER_ARTIFACT_OWNER;Artifact Owner;;;;;;;;;;;;;x
-
-TRIGGER_EMPIRE;Empire;;;;;;;;;;;;;x
-
-TRIGGER_LOVER;Lover;;;;;;;;;;;;;x
-
-TRIGGER_ATTACKER;Main Attacker;;;;;;;;;;;;;x
-TRIGGER_DEFENDER;Main Defender;;;;;;;;;;;;;x
-
-TRIGGER_MOST_PART_ATTACKER;Most Contributing Attacker;;;;;;;;;;;;;x
-TRIGGER_MOST_PART_DEFENDER;Most Contributing Defender;;;;;;;;;;;;;x
-
-TRIGGER_PRIMOGENITURE_HEIR;The Primogeniture Heir;;;;;;;;;;;;;x
-TRIGGER_SENIORITY_HEIR;The Seniority Heir;;;;;;;;;;;;;x
-TRIGGER_ULTIMOGENITURE_HEIR;The Ultimogeniture Heir;;;;;;;;;;;;;x
-
-TRIGGER_CAPITAL_HOLDING;Capital Holding;;;;;;;;;;;;;x
-
-TRIGGER_PLOT_TARGET_PROVINCE;Plot Target Province;;;;;;;;;;;;;x
-
-TRIGGER_SEA_ZONE;Trade Post Owner;;;;;;;;;;;;;x
-
-TRIGGER_TRADE_POST_OWNER;Trade Post Owner;;;;;;;;;;;;;x
-
-TRIGGER_NEW_TITLE;New Landed Title;;;;;;;;;;;;;x
-
-TRIGGER_FROM;From;;;;;;;;;;;;;x
-TRIGGER_FROMFROM;FromFrom;;;;;;;;;;;;;x
-TRIGGER_FROMFROMFROM;FromFromFrom;;;;;;;;;;;;;x
-TRIGGER_FROMFROMFROMFROM;FromFromFromFrom;;;;;;;;;;;;;x
-TRIGGER_ROOT_FROM;RootFrom;;;;;;;;;;;;;x
-TRIGGER_ROOT_FROMFROM;RootFromFrom;;;;;;;;;;;;;x
-TRIGGER_ROOT_FROMFROMFROM;RootFromFromFrom;;;;;;;;;;;;;x
-TRIGGER_ROOT_FROMFROMFROMFROM;RootFromFromFromFrom;;;;;;;;;;;;;x
-TRIGGER_PREV;Prev;;;;;;;;;;;;;x
-TRIGGER_PREVPREV;PrevPrev;;;;;;;;;;;;;x
-TRIGGER_ROOT;Root;;;;;;;;;;;;;x
-
-TRIGGER_BEST_CRUSADE_CLAIMANT;Best Claimant;;;;;;;;;;;;;x
-
-TRIGGER_FORT_OWNER;Fort Owner;;;;;;;;;;;;;x
-
-TRIGGER_CLAN_TITLE;Clan Title;;;;;;;;;;;;;x
-
-TRIGGER_BLOOD_BROTHER;Blood Brother;;;;;;;;;;;;;x
-
-TRIGGER_MERCENARY_EMPLOYER;Mercenary Employer;;;;;;;;;;;;;x
+DEFACTO_LIEGE_STARTS;De Facto Liege;;;;;;;;;;;Äå-ôàêòî ñþçåðåí;;x
+DEJURE_LIEGE_STARTS;De Jure Liege;;;;;;;;;;;Äå-þðå ñþçåðåí;;x
+EMPTY_NEIGHBOR_PROVINCE_STARTS;Empty neighbor County;;;;;;;;;;;" ""Ïóñòîé"" ñîñåäíèé îêðóã ";;x
+FAMILY_PALACE;Family Palace;;;;;;;;;;;Ðåçèäåíöèÿ;;x
+FOUNDER_SCOPE;Bloodline Founder;;;;;;;;;;;Îñíîâàòåëü ðîäîñëîâíîé:;;x
+HEIR_TITLE_STARTS;Any Heir Title;;;;;;;;;;;Íàñëåäíèê òèòóëà;;x
+NOT_HEIR_TITLE_STARTS;No Heir Title;;;;;;;;;;;Íåò íàñëåäíèêà òèòóëà;;x
+NEIGHBOR_PROVINCE_STARTS;Any Neighboring Province;;;;;;;;;;;Ñîñåäíèé îêðóã ;;x
+NOT_NEIGHBOR_PROVINCE_STARTS;No Neighboring Province;;;;;;;;;;;Íåò ñîñåäíåãî îêðóãà;;x
+PRETENDER_TITLE_STARTS;Any Pretender Title;;;;;;;;;;;Ïðåòåíäåíò íà òèòóë;;x
+NOT_PRETENDER_TITLE_STARTS;No Pretender Title;;;;;;;;;;;Íåò ïðåòåíäåíòà íà òèòóë;;x
+TRIGGER_DYNASTY_HEAD;Head of Dynasty;;;;;;;;;;;Ãëàâà äèíàñòèè;;x
+TRIGGER_BAND_CREATOR;Band creator;;;;;;;;;;;Ñîçäàòåëü áàíäû íà¸ìíèêîâ;;x
+TRIGGER_MOST_PART_CRUSADER;Most Contributing Crusader;;;;;;;;;;;Ñàìûé âàæíûé êðåñòîíîñåö;;x
+TRIGGER_SUZERAIN;Suzerain;;;;;;;;;;;Ãåãåìîí (âçèìàòåëü äàíè);;x
+TRIGGER_PARENT_RELIGION_HEAD;Head of Parent Religion;;;;;;;;;;;Ãëàâà ïðèçíàííîé ðåëèãèè;;x
+TRIGGER_PLAYER_HEIR_SCOPE;Player Heir;;;;;;;;;;;Íàñëåäíèå èãðîêà;;x
+TRIGGER_RIGHTFUL_RELIGIOUS_HEAD_SCOPE;Rightful Head of Religion;;;;;;;;;;;Ïðàâåäíûé ãëàâà ðåëèãèè;;x
+TRIGGER_NEW_ARTIFACT;New Artifact;;;;;;;;;;;Íîâûé àðòåôàêò;;x
+TRIGGER_QUEST_TARGET;Target of a Mission for a Society;;;;;;;;;;;Öåëü çàäàíèÿ äëÿ îáùåñòâà;;x
+TRIGGER_SOCIETY;Society;;;;;;;;;;;Îáùåñòâî;;x
+TRIGGER_HOSPITAL_OWNER;Hospital Owner;;;;;;;;;;;Âëàäåëåö ãîñïèòàëÿ;;x
+TRIGGER_DISCOVERED_SOCIETY;Perceived Society;;;;;;;;;;;Èçâåñòíîå îáùåñòâî;;x
+TRIGGER_ALLY;Any Ally;;;;;;;;;;;Ëþáîé ñîþçíèê;;x
+TRIGGER_CAPITAL;Capital;;;;;;;;;;;Ñòîëèöà;;x
+TRIGGER_CENTER_FLANK_LEADER;Center Flank Commander;;;;;;;;;;;Êîìàíäóþùèé öåíòðàëüíûì ôëàíãîì;;x
+TRIGGER_CONTROLLER;Controller;;;;;;;;;;;Êîíòðîëëåð;;x
+TRIGGER_COUNTRY;Land;;;;;;;;;;;Çåìëÿ;;x
+TRIGGER_COUNTY;County;;;;;;;;;;;Ãðàôñòâî;;x
+TRIGGER_CURRENT_HEIR_SCOPE;Current Heir;;;;;;;;;;;Òåêóùèé íàñëåäíèê;;x
+TRIGGER_DUCHY;Duchy;;;;;;;;;;;Ãåðöîãñòâî;;x
+TRIGGER_EMPLOYER;Employer;;;;;;;;;;;Ðàáîòîäàòåëü;;x
+TRIGGER_GUARDIAN;Guardian;;;;;;;;;;;íàñòàâíèê;;x
+TRIGGER_HOLDER_SCOPE;Title Holder;;;;;;;;;;;Âëàäåëåö ;;x
+TRIGGER_HOST;Host;;;;;;;;;;;Õîçÿèí;;x
+TRIGGER_KINGDOM;Kingdom;;;;;;;;;;;Êîðîëåâñòâî;;x
+TRIGGER_LEFT_FLANK_LEADER;Left Flank Commander;;;;;;;;;;;Êîìàíäóþùèé ëåâûì ôëàíãîì;;x
+TRIGGER_LIEGE;Liege;;;;;;;;;;;Ñþçåðåí;;x
+TRIGGER_LOCATION;Location;;;;;;;;;;;Ìåñòîïîëîæåíèå;;x
+TRIGGER_NEW_CHAR;New Character;;;;;;;;;;;Íîâûé ïåðñîíàæ;;x
+TRIGGER_OWNER;Province Owner;;;;;;;;;;;Âëàäåëåö îêðóãà;;x
+TRIGGER_PLOT_TARGET_CHAR;Plot Target Character;;;;;;;;;;;Çàãîâîð ïðîòèâ ïåðñîíàæà;;x
+TRIGGER_PLOT_TARGET_TITLE;Plot Target Title;;;;;;;;;;;Íàçâàíèå çàãîâîðà;;x
+TRIGGER_PREFERRED_HEIR_SCOPE;Preferred Heir;;;;;;;;;;;Ïðåäïî÷èòàåìûé íàñëåäíèê;;x
+TRIGGER_PRIMARY_TITLE;Primary Title;;;;;;;;;;;Îñíîâíîé òèòóë;;x
+TRIGGER_REALM;Realm;;;;;;;;;;;Ñòðàíà;;x
+TRIGGER_REGENT;Regent;;;;;;;;;;;Ðåãåíò;;x
+TRIGGER_RELIGION_HEAD;Head of Religion;;;;;;;;;;;Ãëàâà ðåëèãèè;;x
+TRIGGER_RIGHT_FLANK_LEADER;Right Flank Commander;;;;;;;;;;;Êîìàíäóþùèé ïðàâûì ôëàíãîì;;x
+TRIGGER_SPOUSE;Spouse;;;;;;;;;;;Ñóïðóã/Ñóïðóãà;;x
+TRIGGER_THIS;This;;;;;;;;;;;Ýòîò;;x
+TRIGGER_TOP_LIEGE;Top Liege;;;;;;;;;;;Âûñøèé ñþçåðåí;;x
+TRIGGER_ARTIFACT_PREVIOUS_OWNER;Previous Artifact Owner;;;;;;;;;;;Ïðåäûäóùèé âëàäåëåö àðòåôàêòà;;x
+TRIGGER_NEW_BLOODLINE;New Bloodline;;;;;;;;;;;Íîâàÿ ðîäîñëîâíàÿ;;x
+TRIGGER_PARENT_RELIGION;Parent Religion;;;;;;;;;;;Ðåëèãèÿ-ïðåäîê;;x
+TRIGGER_SIEGE;Siege;;;;;;;;;;;Îñàäà;;x
+TRIGGER_LEADER;Leader;;;;;;;;;;;Ëèäåð;;x
+TRIGGER_ARTIFACT_ORIGINAL_OWNER;Artifact Original Owner;;;;;;;;;;;Èçíà÷àëüíûé âëàäåëåö àðòåôàêòà;;x
+TRIGGER_ARTIFACT_OWNER;Artifact Owner;;;;;;;;;;;Âëàäåëåö àðòåôàêòà;;x
+TRIGGER_EMPIRE;Empire;;;;;;;;;;;Èìïåðèÿ;;x
+TRIGGER_LOVER;Lover;;;;;;;;;;;Ëþáîâíèê;;x
+TRIGGER_ATTACKER;Main Attacker;;;;;;;;;;;Èíèöèàòîð àòàêè;;x
+TRIGGER_DEFENDER;Main Defender;;;;;;;;;;;Ãëàâíûé çàùèùàþùèéñÿ;;x
+TRIGGER_MOST_PART_ATTACKER;Most Contributing Attacker;;;;;;;;;;;Íàèáîëåå çíà÷èìûé àòàêóþùèé;;x
+TRIGGER_MOST_PART_DEFENDER;Most Contributing Defender;;;;;;;;;;;Íàáîëåå çíà÷èìûé çàùèùàþùèéñÿ;;x
+TRIGGER_PRIMOGENITURE_HEIR;The Primogeniture Heir;;;;;;;;;;;Íàñëåäíèê ïî ïåðâîðîäñòâó;;x
+TRIGGER_SENIORITY_HEIR;The Seniority Heir;;;;;;;;;;;Íàñëåäíèê ïî ñòàðøèíñòâó;;x
+TRIGGER_ULTIMOGENITURE_HEIR;The Ultimogeniture Heir;;;;;;;;;;;Ìèíîðàòíûé íàñëåäíèê;;x
+TRIGGER_CAPITAL_HOLDING;Capital Holding;;;;;;;;;;;Ñòîëè÷íîå âëàäåíèå;;x
+TRIGGER_PLOT_TARGET_PROVINCE;Plot Target Province;;;;;;;;;;;Öåëåâîé îêðóã;;x
+TRIGGER_SEA_ZONE;Trade Post Owner;;;;;;;;;;;Ìîðñêàÿ çîíà;;x
+TRIGGER_TRADE_POST_OWNER;Trade Post Owner;;;;;;;;;;;Âëàäåëåö ôàêòîðèè;;x
+TRIGGER_NEW_TITLE;New Landed Title;;;;;;;;;;;Íîâûé çåìåëüíûé òèòóë;;x
+TRIGGER_FROM;From;;;;;;;;;;;From;;x
+TRIGGER_FROMFROM;FromFrom;;;;;;;;;;;FromFrom;;x
+TRIGGER_FROMFROMFROM;FromFromFrom;;;;;;;;;;;FromFromFrom;;x
+TRIGGER_FROMFROMFROMFROM;FromFromFromFrom;;;;;;;;;;;FromFromFromFrom;;x
+TRIGGER_ROOT_FROM;RootFrom;;;;;;;;;;;RootFrom;;x
+TRIGGER_ROOT_FROMFROM;RootFromFrom;;;;;;;;;;;RootFromFrom;;x
+TRIGGER_ROOT_FROMFROMFROM;RootFromFromFrom;;;;;;;;;;;RootFromFromFrom;;x
+TRIGGER_ROOT_FROMFROMFROMFROM;RootFromFromFromFrom;;;;;;;;;;;RootFromFromFromFrom;;x
+TRIGGER_PREV;Prev;;;;;;;;;;;Prev;;x
+TRIGGER_PREVPREV;PrevPrev;;;;;;;;;;;PrevPrev;;x
+TRIGGER_ROOT;Root;;;;;;;;;;;Root;;x
+TRIGGER_BEST_CRUSADE_CLAIMANT;Best Claimant;;;;;;;;;;;Ëó÷øèé ïðåòåíäåíò;;x
+TRIGGER_FORT_OWNER;Fort Owner;;;;;;;;;;;Âëàäåëåö ôîðòà;;x
+TRIGGER_CLAN_TITLE;Clan Title;;;;;;;;;;;Òèòóë êëàíà;;x
+TRIGGER_BLOOD_BROTHER;Blood Brother;;;;;;;;;;;Êðîâíûé áðàò;;x
+TRIGGER_MERCENARY_EMPLOYER;Mercenary Employer;;;;;;;;;;;Íà¸ìíûé íàíèìàòåëü;;x

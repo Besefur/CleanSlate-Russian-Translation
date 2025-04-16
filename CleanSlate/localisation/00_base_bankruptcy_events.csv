@@ -1,71 +1,63 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC38000;My coffers are empty and I've already borrowed money from my friends. Perhaps it is time to approach the moneylenders...;;;;;;;;;;;;;x
-EVTDESC38001;I am informed by the moneylenders that the loan is due...;;;;;;;;;;;;;x
-EVTDESC38002;The moneylenders are here, reminding me of that loan I took...;;;;;;;;;;;;;x
-EVTDESC38010;My coffers are empty, but the coffers of my vassals are full. They have an obligation to their liege.;;;;;;;;;;;;;x
-EVTDESC38011;[From.GetTitledFirstName] is requesting help with [From.GetHerHis] mismanagement of the economy. We are asked to provide a certain amount of gold.;;;;;;;;;;;;;x
-EVTDESC38014;[From.GetTitledFirstName] has refused to pay us the gold we need. Perhaps we should have [From.GetHerHim] arrested?;;;;;;;;;;;;;x
-EVTDESC38015;[From.GetTitledFirstName] has paid us the money we asked [From.GetHerHim] for. This is definitely what we needed.;;;;;;;;;;;;;x
-EVTDESC38016;[From.GetTitledName] approved your request but [From.GetSheHe] made sure to emphasize that this action is a favor to you and that you should remember it.;;;;;;;;;;;;;x
-EVTDESC38020;My coffers are empty, but the Church is rich! Maybe I should seize church properties to repay my debts.;;;;;;;;;;;;;x
-EVTDESC38021;There is a place in hell for sinners such as [From.GetTitledFirstName]. Never in the history of Christendom has such a vile ruler existed, one who robs the Holy Church itself of its belongings!;;;;;;;;;;;;;x
-EVTDESC38022;An emissary from the Holy Father has come to our court, to announce that we are anathema to everything that is holy. We have been excommunicated! ;;;;;;;;;;;;;x
-EVTDESC38050;To [Root.GetTitledFirstName] from [From.GetTitledFirstName]. The [From.PrimaryTitle.GetFullName] is faithful as long as it gets paid. But we are, after all, mercenaries. We owe [Root.PrimaryTitle.GetFOA] no oath of fealty, and so we have decided to reclaim a little of what is owed us. Forcefully.;;;;;;;;;;;;;x
-EVTDESC38051;To [Root.GetTitledFirstName] from [From.GetTitledFirstName]. The irregularity of pay recently has made the men restless. Regrettably, I share their sentiments. The [From.PrimaryTitle.GetFullName] must cease its service to you immediately, due to [Root.PrimaryTitle.GetFOA]'s inability to fulfill the contractual obligations.;;;;;;;;;;;;;x
-EVTDESC38052;To [Root.GetTitledFirstName] from [From.GetTitledFirstName]. Due to [Root.PrimaryTitle.GetFOA]'s lack of regular payment, the [From.PrimaryTitle.GetFullName] has decided to seek more gainful employment elsewhere, perhaps among the other participants in this war...;;;;;;;;;;;;;x
-EVTDESC38053;To the great [Root.GetTitledFirstName] from [From.GetTitledFirstName] of the [From.PrimaryTitle.GetFullName]. The inability of our previous employer to provide our contractual pay has caused us to look for employment elsewhere. We would serve [Root.PrimaryTitle.GetFOA] if you would have us.;;;;;;;;;;;;;x
-EVTDESC38054;To [Root.GetTitledFirstName] from [From.GetTitledFirstName]. Due to your crimes against the True Faith, we can no longer serve you. You should repent and seek guidance from [From.Religion.GetRandomGodName].;;;;;;;;;;;;;x
-EVTDESC38060;My liege, [Root.Liege.GetTitledName], is in deep financial trouble. As my coffers are filled, this seems like a golden opportunity to acquire more land.;;;;;;;;;;;;;x
-EVTDESC38061;[From.GetTitledName] has recognized the dire financial situation I am in. [From.GetSheHeCap] has sent me an offer to buy some land of mine.;;;;;;;;;;;;;x
-EVTDESC38062;[From.GetTitledName] offers to help you out with your financial situation. [From.GetSheHeCap] wants to aquire some land in exchange for a very generous sum of money.;;;;;;;;;;;;;x
-
-EVTOPTA38000;They will make me such a deal!;;;;;;;;;;;;;x
-EVTOPTA38001;250 gold it is;;;;;;;;;;;;;x
-EVTOPTA38002;300 gold? Very well;;;;;;;;;;;;;x
-EVTOPTA38010;Ask for 250 gold..;;;;;;;;;;;;;x
-EVTOPTA38020;There are fat bishops, seize them!;;;;;;;;;;;;;x
-EVTOPTA38021;[From.GetSheHeCap] is cursed in the eyes of God!;;;;;;;;;;;;;x
-EVTOPTA38022;We have been judged in the eyes of God...;;;;;;;;;;;;;x
-EVTOPTA38050;Curse his name!;;;;;;;;;;;;;x
-EVTOPTA38051;It could have been worse.;;;;;;;;;;;;;x
-EVTOPTA38052;That blackguard will get his just deserts!;;;;;;;;;;;;;x
-EVTOPTA38053;How opportune!;;;;;;;;;;;;;x
-EVTOPTA38054;Fools!;;;;;;;;;;;;;x
-EVTOPTA38060;Make [Root.Liege.GetHerHim] an offer;;;;;;;;;;;;;x
-EVTOPTA38061;This could be the solution;;;;;;;;;;;;;x
-EVTOPTA38062;A perfect solution!;;;;;;;;;;;;;x
-
-EVTOPTB38000;I have no choice;;;;;;;;;;;;;x
-EVTOPTB38001;250 gold? Ask for an extension;;;;;;;;;;;;;x
-EVTOPTB38002;I don't have the 300. Come back later;;;;;;;;;;;;;x
-EVTOPTB38010;Ask for 10 gold;;;;;;;;;;;;;x
-EVTOPTB38020;Time are harsh, force the church to share the costs!;;;;;;;;;;;;;x
-EVTOPTB38021;Jesus said to forgive the sinner!;;;;;;;;;;;;;x
-EVTOPTB38060;Never mind;;;;;;;;;;;;;x
-EVTOPTB38061;Never!;;;;;;;;;;;;;x
-EVTOPTB38062;I don't like this kind of deal.;;;;;;;;;;;;;x
-
-EVTOPTC38000;Usury is a sin!;;;;;;;;;;;;;x
-EVTOPTC38002;Cut off their hands and have them castrated!;;;;;;;;;;;;;x
-EVTOPTC38010;Ask for 50 gold.;;;;;;;;;;;;;x
-EVTOPTC38020;Compromise with them to find money!;;;;;;;;;;;;;x
-EVTOPTC38060;A generous offer for a favor.;;;;;;;;;;;;;x
-
-EVTOPTD38020;Never! I will save my [christian.GetGroupName] soul!;;;;;;;;;;;;;x
-
-EVTTOOLTIP38001;Take a five-year loan at 25% interest;;;;;;;;;;;;;x
-EVTTOOLTIP38002;Take a five-year loan at 50% interest;;;;;;;;;;;;;x
-EVTTOOLTIP38002B;Next year, it will be 300;;;;;;;;;;;;;x
-EVTTOOLTIP38011;Will get back with a reply to your humble request soon.;;;;;;;;;;;;;x
-EVTTOOLTIP38012;Will get back with a reply to your request soon.;;;;;;;;;;;;;x
-EVTTOOLTIP38013;Will get back with a reply to your tough request soon.;;;;;;;;;;;;;x
-EVTTOOLTIP38021;will not sit silent when Church law is violated.;;;;;;;;;;;;;x
-EVTTOOLTIP38022;[This.GetTitledFirstName] will get excommunicated from the holy church, when the Holy Father hears of what [From.GetSheHe] has done.;;;;;;;;;;;;;x
-EVTTOOLTIP38061;Will receive an offer:;;;;;;;;;;;;;x
-EVTTOOLTIP38210;[Root.Guardian.GetTitledFirstName] is asked about God's existence;;;;;;;;;;;;;x
-
-EVTOPT_38016_TOOLTIP;You owe [From.GetTitledName] a favor.\n;;;;;;;;;;;;;x
-
-EVTOPTA_38011;Give the money in exchange for a favor.;;;;;;;;;;;;;x
-EVTOPTA_38011_TOOLTIP;[From.GetTitledName] owes you.;;;;;;;;;;;;;x
+EVTDESC38000;My coffers are empty and I've already borrowed money from my friends. Perhaps it is time to approach the moneylenders...;;;;;;;;;;;Ìîÿ êàçíà ïóñòà è ÿ óæå â äîëãó ó ñâîèõ äðóçåé. Âîçìîæíî, íàñòàëî âðåìÿ îáðàòèòüñÿ ê ðîñòîâùèêàì...;;x
+EVTDESC38001;I am informed by the moneylenders that the loan is due...;;;;;;;;;;;Ðîñòîâùèêè èíôîðìèðîâàëè ìåíÿ, ÷òî âðåìÿ çàéìà âûøëî...;;x
+EVTDESC38002;The moneylenders are here, reminding me of that loan I took...;;;;;;;;;;;Ðîñòîâùèêè íàïîìèíàþò, ÷òî äîëã ïîðà âåðíóòü...;;x
+EVTDESC38010;My coffers are empty, but the coffers of my vassals are full. They have an obligation to their liege.;;;;;;;;;;;Ìîÿ êàçíà ïóñòà, íî ìîè âàññàëû ñèäÿò íà ìåøêàõ ñ çîëîòîì. Îíè îáÿçàíû ïîìî÷ü ìíå!;;x
+EVTDESC38011;[From.GetTitledFirstName] is requesting help with [From.GetHerHis] mismanagement of the economy. We are asked to provide a certain amount of gold.;;;;;;;;;;;[From.GetTitledFirstName] çàïðàøèâàåò ôèíàíñîâóþ ïîìîùü. Íàñ ïîïðîñèëè ïðåäîñòàâèòü îïðåäåë¸ííîå êîëè÷åñòâî çîëîòà.;;x
+EVTDESC38014;[From.GetTitledFirstName] has refused to pay us the gold we need. Perhaps we should have [From.GetHerHim] arrested?;;;;;;;;;;;[From.GetTitledFirstName] îòêàçà[From.GetLasLsya] ïîìî÷ü íàì çîëîòîì, êîòîðîå òàê íåîáõîäèìî íàì â ýòîò òðóäíûé ìîìåíò. Âîçìîæíî, ñëåäóåò àðåñòîâàòü [From.GetHersHis]?;;x
+EVTDESC38015;[From.GetTitledFirstName] has paid us the money we asked [From.GetHerHim] for. This is definitely what we needed.;;;;;;;;;;;[From.GetTitledFirstName] çàïëàòèë[From.GetEndA] íàì äåíüãè, êîòîðûå ìû ïîïðîñèëè. Ýòî, áåçóñëîâíî, òî, ÷òî íàì íóæíî.;;x
+EVTDESC38016;[From.GetTitledName] approved your request but [From.GetSheHe] made sure to emphasize that this action is a favor to you and that you should remember it.;;;;;;;;;;;[From.GetTitledName] îäîáðèë[From.GetEndA] Âàø çàïðîñ, íî çàâåðèë[From.GetEndA], ÷òî òåïåðü Âû ïåðåä í[From.GetEyIm] â äîëãó.;;x
+EVTDESC38020;My coffers are empty, but the Church is rich! Maybe I should seize church properties to repay my debts.;;;;;;;;;;;Ìîÿ êàçíà ïóñòà, íî Öåðêîâü áîãàòà! Ìîæåò áûòü, ÿ ìîãó èñïîëüçîâàòü öåðêîâíîå èìóùåñòâî äëÿ ïîãàøåíèÿ ñâîèõ äîëãîâ.;;x
+EVTDESC38021;There is a place in hell for sinners such as [From.GetTitledFirstName]. Never in the history of Christendom has such a vile ruler existed, one who robs the Holy Church itself of its belongings!;;;;;;;;;;;Ñóùåñòâóåò ìåñòî â àäó äëÿ òàêèõ ãðåøíèêîâ, êàê [From.GetTitledFirstName]. Íèêîãäà åù¸ â èñòîðèè õðèñòèàíñòâà íå áûëî òàêîãî ïîäëîãî ïðàâèòåëÿ, êîòîðûé ëèøàë áû Ñâÿòóþ Öåðêîâü å¸ èìóùåñòâà!;;x
+EVTDESC38022;An emissary from the Holy Father has come to our court, to announce that we are anathema to everything that is holy. We have been excommunicated! ;;;;;;;;;;;Ê íàøåìó äâîðó ïðèø¸ë ýìèññàð îò Ñâÿòîãî Îòöà, ÷òîáû îáúÿâèòü, ÷òî ìû ÿâëÿåìñÿ àíàôåìîé âñåìó, ÷òî ñâÿòî. Ìû áûëè îòëó÷åíû!;;x
+EVTDESC38050;To [Root.GetTitledFirstName] from [From.GetTitledFirstName]. The [From.PrimaryTitle.GetFullName] is faithful as long as it gets paid. But we are, after all, mercenaries. We owe [Root.PrimaryTitle.GetFOA] no oath of fealty, and so we have decided to reclaim a little of what is owed us. Forcefully.;;;;;;;;;;;Îáðàùåíèå ê: [Root.GetTitledFirstName]\n Îò: [From.GetTitledFirstName]\n[From.PrimaryTitle.GetFullName] âåðíî ñëóæèò ïîêà Âû ïëàòèòå. Íî ìû - â êîíöå êîíöîâ, íà¸ìíèêè. Íàïîìèíàåì, [Root.PrimaryTitle.GetFOA], ÷òî ìû íå äàâàëè íèêàêîé âàññàëüíîé ïðèñÿãè âåðíîñòè, ìû ñðàæàåìñÿ çà äåíüãè. È ìû âîçüì¸ì îáåùàííóþ ïëàòó. Ñèëîé.;;x
+EVTDESC38051;To [Root.GetTitledFirstName] from [From.GetTitledFirstName]. The irregularity of pay recently has made the men restless. Regrettably, I share their sentiments. The [From.PrimaryTitle.GetFullName] must cease its service to you immediately, due to [Root.PrimaryTitle.GetFOA]'s inability to fulfill the contractual obligations.;;;;;;;;;;;Îáðàùåíèå ê: [Root.GetTitledFirstName]\n Îò: [From.GetTitledFirstName]\nÏàðíè ñèëüíî âîëíóþòñÿ èç-çà çàäåðæêè îïëàòû. Ïðèñêîðáíî, íî ÿ ðàçäåëÿþ èõ ÷óâñòâà. [From.PrimaryTitle.GetFullName] ïðåêðàùàåò îêàçûâàòü Âàì óñëóãè íåìåäëåííî, èç-çà òîãî, ÷òî [Root.PrimaryTitle.GetFOA] íå èìååò âîçìîæíîñòè âûïîëíèòü ñâîè îáÿçàòåëüñòâà ïî èõ îïëàòå.;;x
+EVTDESC38052;To [Root.GetTitledFirstName] from [From.GetTitledFirstName]. Due to [Root.PrimaryTitle.GetFOA]'s lack of regular payment, the [From.PrimaryTitle.GetFullName] has decided to seek more gainful employment elsewhere, perhaps among the other participants in this war...;;;;;;;;;;;Îáðàùåíèå ê: [Root.GetTitledFirstName]\n Îò: [From.GetTitledFirstName]\nÏîñêîëüêó [Root.PrimaryTitle.GetFOA] íå ïëàòèò íàì æàëîâàíèå, [From.PrimaryTitle.GetFullName] îòïðàâëÿåòñÿ èñêàòü áîëåå âûãîäíóþ ðàáîòó â äðóãîì ìåñòå, âîçìîæíî ó äðóãèõ ó÷àñòíèêîâ ýòîé âîéíû…;;x
+EVTDESC38053;To the great [Root.GetTitledFirstName] from [From.GetTitledFirstName] of the [From.PrimaryTitle.GetFullName]. The inability of our previous employer to provide our contractual pay has caused us to look for employment elsewhere. We would serve [Root.PrimaryTitle.GetFOA] if you would have us.;;;;;;;;;;;Îáðàùåíèå ê: [Root.GetTitledFirstName]\n Îò: [From.GetTitledFirstName]\nÈç: [From.PrimaryTitle.GetFullName]\nÍåñïîñîáíîñòü íàøåãî ïðåäûäóùåãî õîçÿèíà îáåñïå÷èòü íàì çàêîííóþ îïëàòó çàñòàâèëà íàñ èñêàòü ðàáîòó â äðóãîì ìåñòå. Åñëè Âû çàïëàòèòå íàì, ìû áóäåì çà Âàñ ñðàæàòüñÿ.;;x
+EVTDESC38054;To [Root.GetTitledFirstName] from [From.GetTitledFirstName]. Due to your crimes against the True Faith, we can no longer serve you. You should repent and seek guidance from [From.Religion.GetRandomGodName].;;;;;;;;;;;Âàì, [Root.GetTitledFirstName], ïèøåò [From.GetTitledFirstName]. Èç-çà Âàøèõ ïðåñòóïëåíèé ïðîòèâ Èñòèííîé Âåðû ìû áîëüøå íå ìîæåì ïðîäîëæàòü ñëóæèòü Âàì. Âû äîëæíû ïîêàÿòüñÿ è íàäåÿòüñÿ íà òî, ÷òî [From.Religion.GetHighGodName] íàñòàâèò Âàñ íà ïóòü èñòèííûé.;;x
+EVTDESC38060;My liege, [Root.Liege.GetTitledName], is in deep financial trouble. As my coffers are filled, this seems like a golden opportunity to acquire more land.;;;;;;;;;;;Ì[Root.Liege.GetOyaOy] [Root.Liege.GetLordLady] [Root.Liege.GetTitledName] íàõîäèòñÿ â óæàñíîì ôèíàíñîâîì çàòðóäíåíèè. Òàê êàê ìîÿ êàçíà ïåðåïîëíåíà òî, êàê ìíå êàæåòñÿ, ýòî äà¸ò ìíå ïðåêðàñíóþ âîçìîæíîñòü ïðèîáðåñòè ïîáîëüøå çåìëè.;;x
+EVTDESC38061;[From.GetTitledName] has recognized the dire financial situation I am in. [From.GetSheHeCap] has sent me an offer to buy some land of mine.;;;;;;;;;;;[From.GetTitledName] îñîçíà¸ò, â êàêîì òÿæ¸ëîì ôèíàíñîâîì ïîëîæåíèè ÿ íàõîæóñü. [From.GetSheHeCap] øë¸ò ìíå ïðåäëîæåíèå î ïðèîáðåòåíèè êàêîãî-ëèáî èç ìîèõ âëàäåíèé.;;x
+EVTDESC38062;[From.GetTitledName] offers to help you out with your financial situation. [From.GetSheHeCap] wants to aquire some land in exchange for a very generous sum of money.;;;;;;;;;;;[From.GetTitledName] ïðåäëàãàåò ïîìî÷ü ñ Âàøåé ôèíàíñîâîé ïðîáëåìîé. [From.GetSheHeCap] õî÷åò ïîëó÷èòü çåìëè â îáìåí íà ùåäðóþ ñóììó äåíåã.;;x
+EVTOPTA38000;They will make me such a deal!;;;;;;;;;;;Íàäåþñü, ïðîöåíòû ó íèõ íå î÷åíü ãðàáèòåëüñêèå!;;x
+EVTOPTA38001;250 gold it is;;;;;;;;;;;Âîò 250 çîëîòûõ;;x
+EVTOPTA38002;300 gold? Very well;;;;;;;;;;;300 çîëîòûõ? Î÷åíü õîðîøî;;x
+EVTOPTA38010;Ask for 250 gold..;;;;;;;;;;;Ïîïðîñèòü 250¤;;x
+EVTOPTA38020;There are fat bishops, seize them!;;;;;;;;;;;Íåêîòîðûå åïèñêîïñòâà î÷åíü áîãàòû, ìû ìîãëè áû ïîìî÷ü èì ïîòðàòèòü áîãàòñòâà!;;x
+EVTOPTA38021;[From.GetSheHeCap] is cursed in the eyes of God!;;;;;;;;;;;[From.GetSheHeCap] ïðîêëÿò[From.GetEndA] â ãëàçàõ Áîãà!;;x
+EVTOPTA38022;We have been judged in the eyes of God...;;;;;;;;;;;Ìû áûëè îñóæäåíû â ãëàçàõ Áîãà...;;x
+EVTOPTA38050;Curse his name!;;;;;;;;;;;Ïðîêëÿòüå!;;x
+EVTOPTA38051;It could have been worse.;;;;;;;;;;;Ìîãëî áû áûòü è õóæå.;;x
+EVTOPTA38052;That blackguard will get his just deserts!;;;;;;;;;;;Ýòîò ïîäëåö ïîíåñ¸ò ñïðàâåäëèâîå íàêàçàíèå!;;x
+EVTOPTA38053;How opportune!;;;;;;;;;;;Êàê ðàç òî ÷òî íóæíî!;;x
+EVTOPTA38054;Fools!;;;;;;;;;;;Ãëóïöû!;;x
+EVTOPTA38060;Make [Root.Liege.GetHerHim] an offer;;;;;;;;;;;Îòïðàâèòü ïðåäëîæåíèå.;;x
+EVTOPTA38061;This could be the solution;;;;;;;;;;;Ýòî ìîæåò áûòü ðåøåíèåì...;;x
+EVTOPTA38062;A perfect solution!;;;;;;;;;;;Ïðåêðàñíîå ðåøåíèå!;;x
+EVTOPTB38000;I have no choice;;;;;;;;;;;Ó ìåíÿ íåò èíîãî âûáîðà.;;x
+EVTOPTB38001;250 gold? Ask for an extension;;;;;;;;;;;250 çîëîòûõ? Ïîïðîñèòå î ïðîäëåíèè çàéìà;;x
+EVTOPTB38002;I don't have the 300. Come back later;;;;;;;;;;;Ó ìåíÿ íåò 300. Ïðèõîäèòå ïîçæå;;x
+EVTOPTB38010;Ask for 10 gold;;;;;;;;;;;Ïîïðîñèòü 10¤;;x
+EVTOPTB38020;Time are harsh, force the church to share the costs!;;;;;;;;;;;Âðåìåíà íûí÷å ñóðîâûå, çàñòàâèòü öåðêîâü ðàçäåëèòü ðàñõîäû!;;x
+EVTOPTB38021;Jesus said to forgive the sinner!;;;;;;;;;;;Èèñóñ çàïîâåäîâàë íàì ïðîùàòü ãðåøíèêîâ!;;x
+EVTOPTB38060;Never mind;;;;;;;;;;;Ìíå íå äî òîãî.;;x
+EVTOPTB38061;Never!;;;;;;;;;;;Íèêîãäà!;;x
+EVTOPTB38062;I don't like this kind of deal.;;;;;;;;;;;Ïîäîáíûå ñäåëêè ìíå ÿâíî íå ïî íðàâó.;;x
+EVTOPTC38000;Usury is a sin!;;;;;;;;;;;Ðîñòîâùè÷åñòâî — ýòî ãðåõ!;;x
+EVTOPTC38002;Cut off their hands and have them castrated!;;;;;;;;;;;Îòðåçàòü èì ðóêè è îñêîïèòü!;;x
+EVTOPTC38010;Ask for 50 gold.;;;;;;;;;;;Ïîïðîñèòü 50¤;;x
+EVTOPTC38020;Compromise with them to find money!;;;;;;;;;;;Ïîïûòàòüñÿ íàéòè êàêîé-òî êîìïðîìèññ.;;x
+EVTOPTC38060;A generous offer for a favor.;;;;;;;;;;;[Root.Liege.GetSheHeCap] áóäåò ïåðåäî ìíîé â äîëãó.;;x
+EVTOPTD38020;Never! I will save my [christian.GetGroupName] soul!;;;;;;;;;;;Íèêîãäà! ß ñïàñó ñâîþ [õðèñòèàí]ñêóþ äóøó!;;x
+EVTTOOLTIP38001;Take a five-year loan at 25% interest;;;;;;;;;;;Âîçüì¸ì ïÿòèëåòíèé çà¸ì ïîä 25% ãîäîâûõ;;x
+EVTTOOLTIP38002;Take a five-year loan at 50% interest;;;;;;;;;;;Âîçüì¸ì ïÿòèëåòíèé çà¸ì ïîä 50% ãîäîâûõ;;x
+EVTTOOLTIP38002B;Next year, it will be 300;;;;;;;;;;;Â ñëåäóþùåì ãîäó óæå áóäåò 300;;x
+EVTTOOLTIP38011;Will get back with a reply to your humble request soon.;;;;;;;;;;;Ìû îòâåòèì íà Âàøó ïðîñüáó â áëèæàéøåå âðåìÿ.;;x
+EVTTOOLTIP38012;Will get back with a reply to your request soon.;;;;;;;;;;;Ìû îòâåòèì íà Âàøó ïðîñüáó â áëèæàéøåå âðåìÿ.;;x
+EVTTOOLTIP38013;Will get back with a reply to your tough request soon.;;;;;;;;;;;Ìû îòâåòèì íà Âàøó ïðîñüáó â áëèæàéøåå âðåìÿ.;;x
+EVTTOOLTIP38021;will not sit silent when Church law is violated.;;;;;;;;;;;íå äîïóñòèò íàðóøåíèÿ öåðêîâíûõ çàêîíîâ.;;x
+EVTTOOLTIP38022;[This.GetTitledFirstName] will get excommunicated from the holy church, when the Holy Father hears of what [From.GetSheHe] has done.;;;;;;;;;;;[This.GetTitledFirstName] áóäåò îòëó÷åí[This.GetEndA] îò Ñâÿòîé Öåðêâè, êîãäà Ñâÿòîé Îòåö óñëûøèò î òîì, ÷òî ïðîèçîøëî.;;x
+EVTTOOLTIP38061;Will receive an offer:;;;;;;;;;;;Ïîëó÷èò ïðåäëîæåíèå:;;x
+EVTTOOLTIP38210;[Root.Guardian.GetTitledFirstName] is asked about God's existence;;;;;;;;;;;[Root.Guardian.GetTitledFirstName] ñïðîøåí î ñóùåñòâîâàíèè Áîãà;;x
+EVTOPT_38016_TOOLTIP;You owe [From.GetTitledName] a favor.\n;;;;;;;;;;;Âû áóäåòå â äîëãó ïåðåä ÷åëîâåêîì, èçâåñòíûì êàê [From.GetTitledName].\n;;x
+EVTOPTA_38011;Give the money in exchange for a favor.;;;;;;;;;;;Õîðîøî. Ïîòîì êàê-íèáóäü ñî÷ò¸ìñÿ.;;x
+EVTOPTA_38011_TOOLTIP;[From.GetTitledName] owes you.;;;;;;;;;;;[From.GetTitledName] áóäåò ïåðåä Âàìè â äîëãó.;;x

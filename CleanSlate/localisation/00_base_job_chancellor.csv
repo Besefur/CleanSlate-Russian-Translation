@@ -1,171 +1,132 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
 # job_chancellor.txt
-
 #########################
 #
 #	Chancellor events
 #
 #########################
-
 # Attempt to improve relations with lord
-evt_chancellor_001_title;Improved Relations with Lord;;;;;;;;;;;;;x
-evt_chancellor_001_desc_a;During my stay at the court of a noble in [Root.Location.GetName], I have done my utmost to present my liege in a more favourable light and have him recognized as the benevolent and peaceful ruler [Root.Liege.GetSheHe] is.;;;;;;;;;;;;;x
-evt_chancellor_001_option_a;It seems as if I have succeeded!;;;;;;;;;;;;;x
-
+evt_chancellor_001_title;Improved Relations with Lord;;;;;;;;;;;Óëó÷øåíèå îòíîøåíèé;;x
+evt_chancellor_001_desc_a;During my stay at the court of a noble in [Root.Location.GetName], I have done my utmost to present my liege in a more favourable light and have him recognized as the benevolent and peaceful ruler [Root.Liege.GetSheHe] is.;;;;;;;;;;;Âî âðåìÿ ìîåãî ïðåáûâàíèÿ ïðè áëàãîðîäíîì äâîðå â îêðóãå [Root.Location.GetName], ÿ ñäåëàë[Root.GetEndA] âñ¸ âîçìîæíîå, ÷òîáû ïðåäñòàâèòü ìî[Root.Liege.GetYuEgo] [Root.Liege.GetLordLadyACC] â íàèáîëåå âûãîäíîì ñâåòå.;;x
+evt_chancellor_001_option_a;It seems as if I have succeeded!;;;;;;;;;;;È, êàæåòñÿ, ìíå óäàëîñü!;;x
 # Inform the noble
-evt_chancellor_002_desc_a;During [From.GetHerHis] visit to my court, the [From.GetJobTitle] of [From.Host.PrimaryTitle.GetName], [From.GetTitledName], has really convinced me of what a benevolent and peaceful ruler [From.GetHerHis] liege [From.Host.GetTitledName] is.;;;;;;;;;;;;;x
-evt_chancellor_002_option_a;I feel a new appreciation for [From.Host.GetTitledName]!;;;;;;;;;;;;;x
-
+evt_chancellor_002_desc_a;During [From.GetHerHis] visit to my court, the [From.GetJobTitle] of [From.Host.PrimaryTitle.GetName], [From.GetTitledName], has really convinced me of what a benevolent and peaceful ruler [From.GetHerHis] liege [From.Host.GetTitledName] is.;;;;;;;;;;;Âî âðåìÿ ïîñåùåíèÿ ìîåãî äâîðà [From.GetTitledFirstName], [From.GetJobTitle] [From.Host.PrimaryTitle.GetAdjective]ñêîãî ãîñóäàðñòâà, óáåäèë[From.GetEndA] ìåíÿ, ÷òî [From.GetHersHis] [From.Host.GetLordLady] [From.Host.GetTitledFirstName] äîáðîæåëàòåë[From.Host.GetSoftNaEn] è ìèðîëþáèâ[From.Host.GetEndA].;;x
+evt_chancellor_002_option_a;I feel a new appreciation for [From.Host.GetTitledName]!;;;;;;;;;;;Äèïëîìàòèÿ òâîðèò ÷óäåñà!;;x
 # The liege is informed of the success
-evt_chancellor_003_desc_a;My liege, my mission to [FromFrom.Location.GetName] has so far been a success! During my visit to the court of [From.GetBestName], I seem to have managed to make [From.GetHerHim] understand what a benevolent and peaceful ruler you really are and [From.GetSheHe] sends [From.GetHerHis] regards.\n\nYour humble [Root.GetChancellorName],\n[Root.job_chancellor.GetTitledFirstName];;;;;;;;;;;;;x
+evt_chancellor_003_desc_a;My liege, my mission to [FromFrom.Location.GetName] has so far been a success! During my visit to the court of [From.GetBestName], I seem to have managed to make [From.GetHerHim] understand what a benevolent and peaceful ruler you really are and [From.GetSheHe] sends [From.GetHerHis] regards.\n\nYour humble [Root.GetChancellorName],\n[Root.job_chancellor.GetTitledFirstName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ìîÿ ìèññèÿ â îêðóãå [FromFrom.Location.GetName] ïðîõîäèò óñïåøíî! Âî âðåìÿ ïîñåùåíèÿ ìíîé äâîðà, [From.GetBestName], êàæåòñÿ, ïîíÿë, êàêîé Âû äîáðîæåëàòåëüíûé è ìèðíûé ïðàâèòåëü íà ñàìîì äåëå. [From.GetSheHeCap] øë¸ò Âàì ñâîé ïîêëîí.\nÂàø [Root.GetChancellorName],\n [Root.job_chancellor.GetTitledFirstName];;x
 # Unused
-EVTTOOLTIP20101;Send a letter to inform my liege;;;;;;;;;;;;;x
-
+EVTTOOLTIP20101;Send a letter to inform my liege;;;;;;;;;;;Îòïðàâèòü ïèñüìî, ÷òîáû ïðîèíôîðìèðîâàòü ìîåãî ñþçåðåíà.;;x
 # Attempt to improve relations is sabotaged
-evt_chancellor_101_title;Sabotaged Relations with Lord;;;;;;;;;;;;;x
-evt_chancellor_101_desc_a;During my stay at the court of a noble in [Root.Location.GetName], I have done my utmost to present my liege in a more favourable light. But sinister forces around me seem to conspire to twist and turn my every action into something dubious and every word spoken into an insult.;;;;;;;;;;;;;x
-evt_chancellor_101_option_a;It seems I have failed miserably...;;;;;;;;;;;;;x
-
-evt_chancellor_102_desc_a;During [From.GetHerHis] visit to my court, the [From.GetJobTitle] of [From.Host.PrimaryTitle.GetName], [From.GetTitledName], has been going on and on about what a benevolent and peaceful ruler [From.GetHerHis] liege [From.Host.GetTitledName] is. But other members of the court have informed me of what a shameless and deceitful liar both [From.GetSheHe] and [From.GetHerHis] liege are.;;;;;;;;;;;;;x
-evt_chancellor_102_desc_b;During [From.GetHerHis] visit to my court, the [From.GetJobTitle] of [From.Host.PrimaryTitle.GetName], [From.GetTitledName], has been going on and on about what a benevolent and peaceful ruler our liege [From.Host.GetTitledName] is. But other members of the court have informed me of what a shameless and deceitful liar both [From.GetSheHe] and our liege are.;;;;;;;;;;;;;x
-evt_chancellor_102_option_a;This certainly won't increase my opinion of them!;;;;;;;;;;;;;x
-
-evt_chancellor_103_desc_a;My liege, I have tried to make [From.GetBestName] realize what a benevolent and peaceful ruler you really are, but sinister forces at [From.GetHerHis] court have been hard at work to discredit my every move and distort my every word. I am afraid that in the end the visit seems to have done more harm than good.\n\nYour humble [Root.GetChancellorName],\n[Root.job_chancellor.GetTitledName];;;;;;;;;;;;;x
-evt_chancellor_103_option_a;Harm indeed...;;;;;;;;;;;;;x
+evt_chancellor_101_title;Sabotaged Relations with Lord;;;;;;;;;;;Ïðîâàë óëó÷øåíèÿ îòíîøåíèé;;x
+evt_chancellor_101_desc_a;During my stay at the court of a noble in [Root.Location.GetName], I have done my utmost to present my liege in a more favourable light. But sinister forces around me seem to conspire to twist and turn my every action into something dubious and every word spoken into an insult.;;;;;;;;;;;Âî âðåìÿ ìîåãî ïðåáûâàíèÿ ïðè çíàòíîì äâîðå â îêðóãå [Root.Location.GetName], ÿ ñäåëàë[Root.GetEndA] âñ¸ âîçìîæíîå, ÷òîáû ïðåäñòàâèòü ìî[Root.Liege.GetYuEgo] [Root.Liege.GetLordLadyACC] â íàèáîëåå âûãîäíîì ñâåòå. Íî ò¸ìíûå ñèëû âîêðóã ìåíÿ, êàæåòñÿ, óñòðîèëè ñãîâîð ñ öåëüþ ïîâåðíóòü âñå ìîè äåéñòâèÿ â íå÷òî ñîìíèòåëüíîå, à êàæäîå ñëîâî, ïðîèçíåñ¸ííîå ìíîé, îáðàòèòü â îáèäó.;;x
+evt_chancellor_101_option_a;It seems I have failed miserably...;;;;;;;;;;;Êàæåòñÿ, ÿ ñ òðåñêîì ïðîâàëè[Root.GetLasLsya].;;x
+evt_chancellor_102_desc_a;During [From.GetHerHis] visit to my court, the [From.GetJobTitle] of [From.Host.PrimaryTitle.GetName], [From.GetTitledName], has been going on and on about what a benevolent and peaceful ruler [From.GetHerHis] liege [From.Host.GetTitledName] is. But other members of the court have informed me of what a shameless and deceitful liar both [From.GetSheHe] and [From.GetHerHis] liege are.;;;;;;;;;;;Âî âðåìÿ ïîñåùåíèÿ ìîåãî äâîðà [From.GetTitledFirstName], [From.GetJobTitle] [From.Host.PrimaryTitle.GetAdjective]ñêîãî ãîñóäàðñòâà, ãîâîðèë[From.GetEndA], êàê[From.Host.GetAyaOy] âåëèêîäóøí[From.Host.GetAyaYy] è ìèðí[From.Host.GetAyaYy] ïðàâèòåëü[From.Host.GetEndNitsa] [From.GetHersHis] [From.Host.GetLordLady] [From.Host.GetTitledFirstName], íî äðóãèå ïðèäâîðíûå ñ÷èòàþò, ÷òî îíè îá[From.Host.GetFromEndEA] - ïîäëûå ëæèâûå ìðàçè.;;x
+evt_chancellor_102_desc_b;During [From.GetHerHis] visit to my court, the [From.GetJobTitle] of [From.Host.PrimaryTitle.GetName], [From.GetTitledName], has been going on and on about what a benevolent and peaceful ruler our liege [From.Host.GetTitledName] is. But other members of the court have informed me of what a shameless and deceitful liar both [From.GetSheHe] and our liege are.;;;;;;;;;;;Âî âðåìÿ ïîñåùåíèÿ ìîåãî äâîðà, [From.Host.PrimaryTitle.GetAdjective]ñêèé [From.GetJobTitle] [From.GetTitledFirstName] ñíîâà è ñíîâà ãîâîðèë[From.GetEndA], êàê[From.Host.GetAyaOy] âåëèêîäóøí[From.Host.GetAyaYy] è ìèðí[From.Host.GetAyaYy] íàø[From.Host.GetEndA] ïðàâèòåëü[From.Host.GetEndNitsa] [From.Host.GetTitledFirstName]. Îäíàêî äðóãèå ïðèäâîðíûå ãîâîðÿò, ÷òî îíè îá[From.Host.GetFromEndEA] - ïîäëûå ëæèâûå ìðàçè.;;x
+evt_chancellor_102_option_a;This certainly won't increase my opinion of them!;;;;;;;;;;;Ýòî, êîíå÷íî, íå óëó÷øèò ìî¸ ìíåíèå î íèõ!;;x
+evt_chancellor_103_desc_a;My liege, I have tried to make [From.GetBestName] realize what a benevolent and peaceful ruler you really are, but sinister forces at [From.GetHerHis] court have been hard at work to discredit my every move and distort my every word. I am afraid that in the end the visit seems to have done more harm than good.\n\nYour humble [Root.GetChancellorName],\n[Root.job_chancellor.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ìîè ïîïûòêè ïðåäñòàâèòü Âàñ â ëó÷øåì ñâåòå ïðîâàëèëèñü, [From.GetTitledFirstNameWithNick] íå æåëàåò ýòî ñëóøàòü, çëîâåùèå ñèëû [From.GetHersHis] äâîðà ñäåëàëè âñ¸, ÷òîáû äèñêðåäèòèðîâàòü êàæäûé ìîé øàã è ïåðåâðàòü ìîè ñëîâî. ß áîþñü, ÷òî ñâîèì âèçèòîì ïðèíåñ[Root.job_chancellor.GetNoneE] áîëüøå âðåäà, ÷åì ïîëüçû.\nÂàø [Root.GetChancellorName],\n [Root.job_chancellor.GetTitledFirstName];;x
+evt_chancellor_103_option_a;Harm indeed...;;;;;;;;;;;Äåéñòâèòåëüíî âðåä.;;x
 # Unused
-EVTTOOLTIP20111;Send a letter to inform my liege;;;;;;;;;;;;;x
-
+EVTTOOLTIP20111;Send a letter to inform my liege;;;;;;;;;;;Îòïðàâèòü ïèñüìî, ÷òîáû ïðîèíôîðìèðîâàòü ìîåãî ñþçåðåíà.;;x
 # Chancellor fabricates a claim
-evt_chancellor_201_title;Claim Fabricated;;;;;;;;;;;;;x
-evt_chancellor_201_desc_a;According to my liege's order, I have done my best to fabricate a claim on the title of a local landed noble in [Root.Location.GetName].;;;;;;;;;;;;;x
-evt_chancellor_201_option_a;This better work...;;;;;;;;;;;;;x
-
+evt_chancellor_201_title;Claim Fabricated;;;;;;;;;;;Hîâûå ïðåòåíçèè ñôàáðèêîâàíû;;x
+evt_chancellor_201_desc_a;According to my liege's order, I have done my best to fabricate a claim on the title of a local landed noble in [Root.Location.GetName].;;;;;;;;;;;Ñîãëàñíî ðàñïîðÿæåíèþ ìîåãî ñþçåðåíà, ÿ ñäåëàë âñå âîçìîæíîå, ÷òîáû ñôàáðèêîâàòü ïðåòåíçèè íà ïîëó÷åíèå òèòóëà ìåñòíîãî ëîðäà â îáëàñòè [Root.Location.GetName].;;x
+evt_chancellor_201_option_a;This better work...;;;;;;;;;;;Ýòî äîëæíî ñðàáîòàòü…;;x
 # The noble is informed about the claim
-evt_chancellor_202_desc_a;It has come to my attention that the [From.GetJobTitle] of [From.Host.PrimaryTitle.GetName], [From.GetTitledName], has bribed and threatened [From.GetHerHis] way through my domain trying to get enough people to recognize a claim on my title that [From.GetSheHe] has fabricated for [From.GetHerHis] liege, [From.Liege.GetTitledName].;;;;;;;;;;;;;x
-evt_chancellor_202_option_a;They better not use it!;;;;;;;;;;;;;x
+evt_chancellor_202_desc_a;It has come to my attention that the [From.GetJobTitle] of [From.Host.PrimaryTitle.GetName], [From.GetTitledName], has bribed and threatened [From.GetHerHis] way through my domain trying to get enough people to recognize a claim on my title that [From.GetSheHe] has fabricated for [From.GetHerHis] liege, [From.Liege.GetTitledName].;;;;;;;;;;;"Äî ìîåãî ñâåäåíèÿ äîøëî, ÷òî [From.Host.PrimaryTitle.GetAdjective]ñêèé [From.GetJobTitle] [From.GetTitledFirstName] ïîäêóïàë[From.GetEndA] è óãðîæàë[From.GetEndA] â ìîèõ çåìëÿõ, ïûòàÿñü çàïîëó÷èòü ïîääåðæêó ëþäåé, ÷òîáû òå ïðèçíàëè ïðåòåíçèè íà ìîé òèòóë, ñôàáðèêîâàííûå íà èìÿ ""[From.Liege.GetTitledFirstName]"" - [From.GetHersHis] [From.Liege.GetLordLadyGEN].";;x
+evt_chancellor_202_option_a;They better not use it!;;;;;;;;;;;Ëó÷øå áû îíè íå íàñòàèâàëè!;;x
 # Unused
-EVTTOOLTIP20131;Send a letter to my liege;;;;;;;;;;;;;x
-
+EVTTOOLTIP20131;Send a letter to my liege;;;;;;;;;;;Îòïðàâèòü ïèñüìî ìîåìó ñþçåðåíó, óòî÷íèòü â íåîáõîäèìîñòè óñèëåíèÿ ïðåòåíçèé;;x
 # The liege is informed and has a choice to press the claim or not
-evt_chancellor_203_desc_a;My liege, my work in [FromFrom.Location.GetName] seems to have come to fruition. By bribing, cajoling, extorting, threatening and forging documents, I have managed to fabricate a claim on the [FromFrom.Location.County.GetFullName] presently held by [From.GetTitledName]. I leave it up to you whether to use it or not.\n\nYour humble [Root.GetChancellorName],\n[FromFrom.GetTitledName];;;;;;;;;;;;;x
-evt_chancellor_203_desc_b;My liege, my work in [FromFrom.Location.GetName] seem to have come to fruition. By bribing, cajoling, extorting, threatening and forging documents, I have managed to fabricate a claim on the [FromFrom.Location.Duchy.GetFullName] presently held by [From.GetTitledName]. I leave it up to you whether to press it or not.\n\nYour humble [Root.GetChancellorName],\n[FromFrom.GetTitledName];;;;;;;;;;;;;x
-evt_chancellor_203_desc_c;My liege, my work in [FromFrom.Location.GetName] seem to have come to fruition. By bribing, cajoling, extorting, threatening and forging documents, I have managed to fabricate a claim on the [FromFrom.Location.Kingdom.GetFullName] presently held by [From.GetTitledName]. I leave it up to you whether to press it or not.\n\nYour humble [Root.GetChancellorName],\n[FromFrom.GetTitledName];;;;;;;;;;;;;x
-evt_chancellor_203_option_a;Use it!;;;;;;;;;;;;;x
-evt_chancellor_203_option_b;Let it go;;;;;;;;;;;;;x
-
+evt_chancellor_203_desc_a;My liege, my work in [FromFrom.Location.GetName] seems to have come to fruition. By bribing, cajoling, extorting, threatening and forging documents, I have managed to fabricate a claim on the [FromFrom.Location.County.GetFullName] presently held by [From.GetTitledName]. I leave it up to you whether to use it or not.\n\nYour humble [Root.GetChancellorName],\n[FromFrom.GetTitledName];;;;;;;;;;;"[Root.PrimaryTitle.GetFOA], ìîÿ ìèññèÿ â îêðóãå [FromFrom.Location.GetName] óâåí÷àëàñü óñïåõîì. Èñïîëüçóÿ ïîäêóï, óãîâîðû, âûìîãàòåëüñòâî, óãðîçû è ïîääåëêó äîêóìåíòîâ, ìíå óäàëîñü ñôàáðèêîâàòü ïðåòåíçèè íà òèòóë ""[FromFrom.Location.County.GetFullName]"", êîòîðûì âëàäååò [From.GetTitledFirstName]. Âàì îñòàëîñü òîëüêî ïðèíÿòü ðåøåíèå - èñïîëüçîâàòü ýòè ïðåòåíçèè èëè íåò.\n[Root.GetChancellorName],\n [FromFrom.GetTitledFirstName]";;x
+evt_chancellor_203_desc_b;My liege, my work in [FromFrom.Location.GetName] seem to have come to fruition. By bribing, cajoling, extorting, threatening and forging documents, I have managed to fabricate a claim on the [FromFrom.Location.Duchy.GetFullName] presently held by [From.GetTitledName]. I leave it up to you whether to press it or not.\n\nYour humble [Root.GetChancellorName],\n[FromFrom.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ìîÿ ðàáîòà â îêðóãå [From.Location.GetName], ïîõîæå, óâåí÷àëàñü óñïåõîì. Ñ ïîìîùüþ ïîäêóïà, óãîâîðîâ, âûìîãàòåëüñòâ, óãðîç è ïîääåëêè äîêóìåíòîâ, ìíå óäàëîñü ñôàáðèêîâàòü ïðåòåíçèè íà çåìëþ [FromFrom.Location.Duchy.GetFullName], êîòîðîé ïðàâèò [From.GetTitledName]. ß îñòàâëÿþ Âàì âûáîð, èñïîëüçîâàòü èõ èëè íåò.\nÂàø ñêðîìíûé [Root.GetChancellorName]\n [FromFrom.GetTitledName] ;;x
+evt_chancellor_203_desc_c;My liege, my work in [FromFrom.Location.GetName] seem to have come to fruition. By bribing, cajoling, extorting, threatening and forging documents, I have managed to fabricate a claim on the [FromFrom.Location.Kingdom.GetFullName] presently held by [From.GetTitledName]. I leave it up to you whether to press it or not.\n\nYour humble [Root.GetChancellorName],\n[FromFrom.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ìîÿ ðàáîòà â îêðóãå [FromFrom.Location.GetName], ïîõîæå, ïðèíåñëà ïëîäû. Ïîäêóïû, óãðîçû è âûìîãàòåëüñòâà, ïîääåëêà äîêóìåíòîâ ïîìîãëè ìíå ñôàáðèêîâàòü ïðåòåíçèè íà òèòóë. [FromFrom.Location.Kingdom.GetFullName], êîòîðûì ïðàâèò [From.GetTitledName], òåïåðü îôèöèàëüíî ïðèíàäëåæèò Âàì, ðåàëèçîâàòü ëè ýòî ïðàâî - ðåøàéòå ñàìè.\nÂàø âåðíûé [Root.GetChancellorName],\n [FromFrom.GetTitledName];;x
+evt_chancellor_203_option_a;Use it!;;;;;;;;;;;Çàÿâèòü î ïðåòåíçèÿõ!;;x
+evt_chancellor_203_option_b;Let it go;;;;;;;;;;;Îòñòóïèì;;x
 # The noble is informed if the claim is pressed, and is insulted
-evt_chancellor_204_desc_a;[From.GetFullName] has decided to go ahead and use a claim on my title despite having nothing more than a laughable and obviously fabricated document to back it up.;;;;;;;;;;;;;x
-evt_chancellor_204_option_a;That bastard!;;;;;;;;;;;;;x
-
-
+evt_chancellor_204_desc_a;[From.GetFullName] has decided to go ahead and use a claim on my title despite having nothing more than a laughable and obviously fabricated document to back it up.;;;;;;;;;;;[From.GetFullName], ðåøèâ ïîéòè äàëüøå, ïûòàåòñÿ ïðåòåíäîâàòü íà ìîé òèòóë, íåñìîòðÿ íà âñþ êóðü¸çíîñòü ýòîãî è ÿâíî ñôàáðèêîâàííûõ äîêóìåíòîâ.;;x
+evt_chancellor_204_option_a;That bastard!;;;;;;;;;;;Âîò ñâîëî÷ü!;;x
 # A Noble finds out that the Chancellor is trying to fabricate claims
-evt_chancellor_301_title;Noble Infuriated;;;;;;;;;;;;;x
-evt_chancellor_301_desc_a;A local noble in [Root.Location.GetName] became suspicious after I asked a couple of brash questions and I fear he might have figured out that I am trying to fabricate a claim to his title!;;;;;;;;;;;;;x
-evt_chancellor_301_option_a;I got a little careless;;;;;;;;;;;;;x
-evt_chancellor_301_option_a_tooltip;The noble knows...;;;;;;;;;;;;;x
-
+evt_chancellor_301_title;Noble Infuriated;;;;;;;;;;;Pàçãíåâàí äâîðÿíèí;;x
+evt_chancellor_301_desc_a;A local noble in [Root.Location.GetName] became suspicious after I asked a couple of brash questions and I fear he might have figured out that I am trying to fabricate a claim to his title!;;;;;;;;;;;Ó ìåñòíîãî äâîðÿíèíà â [Root.Location.GetName] âîçíèêëè ïîäîçðåíèÿ ïîñëå òîãî, êàê ÿ çàäàë åìó ïàðó äåðçêèõ âîïðîñîâ, è ÿ áîþñü, ÷òî îí, âîçìîæíî, ïîíÿë, ÷òî ÿ ïûòàþñü ñôàáðèêîâàòü ïðåòåíçèè íà åãî òèòóë!;;x
+evt_chancellor_301_option_a;I got a little careless;;;;;;;;;;;ß íåìíîãî íåáðåæåí;;x
+evt_chancellor_301_option_a_tooltip;The noble knows...;;;;;;;;;;;Äâîðÿíèí çíàåò…;;x
 # The noble knows about the fabricated claims
-evt_chancellor_302_desc_a;[From.Host.GetTitledName] is trying to usurp my title! [From.Host.GetHerHisCap] [Root.GetChancellorName] [From.GetTitledName] is supposedly traveling around [From.Location.GetName] trying to find both documents and supporters to help him legitimize a claim on the title. I need to do something about it!;;;;;;;;;;;;;x
-evt_chancellor_302_option_a;Make him disappear...;;;;;;;;;;;;;x
-evt_chancellor_302_option_a_tooltip_1;An attempt on [This.GetHerHis] life is made;;;;;;;;;;;;;x
-evt_chancellor_302_option_a_tooltip_2;The assassination attempt fails;;;;;;;;;;;;;x
-evt_chancellor_302_option_b;Try to bribe him;;;;;;;;;;;;;x
-evt_chancellor_302_option_b_tooltip;Send him an offer;;;;;;;;;;;;;x
-evt_chancellor_302_option_c;I better let it be for now;;;;;;;;;;;;;x
-
+evt_chancellor_302_desc_a;[From.Host.GetTitledName] is trying to usurp my title! [From.Host.GetHerHisCap] [Root.GetChancellorName] [From.GetTitledName] is supposedly traveling around [From.Location.GetName] trying to find both documents and supporters to help him legitimize a claim on the title. I need to do something about it!;;;;;;;;;;;[From.Host.GetTitledName] ïûòàåòñÿ óçóðïèðîâàòü ìîé òèòóë! [From.Host.GetHersHisCap] [Root.GetMyChancellorName] [From.GetTitledName], ÿêîáû ïóòåøåñòâóþùèé ïî îáëàñòè [From.Location.GetName], ïûòàåòñÿ íàéòè êîïèè äîêóìåíòîâ è ñòîðîííèêîâ, êîòîðûå ïîìîãóò åìó óçàêîíèòü ïðåòåíçèè íà òèòóë. Ìíå íóæíî ÷òî-òî ñ ýòèì äåëàòü!;;x
+evt_chancellor_302_option_a;Make him disappear...;;;;;;;;;;;Ñäåëàéòå òàê, ÷òîáû îí èñ÷åç…;;x
+evt_chancellor_302_option_a_tooltip_1;An attempt on [This.GetHerHis] life is made;;;;;;;;;;;Îñóùåñòâëåíà ïîïûòêà ïîêóøåíèÿ íà [This.GetHersHis] æèçíü;;x
+evt_chancellor_302_option_a_tooltip_2;The assassination attempt fails;;;;;;;;;;;Ïîïûòêà óáèéñòâà ïðîâàëèëàñü;;x
+evt_chancellor_302_option_b;Try to bribe him;;;;;;;;;;;Ïîïðîáóéòå ïîäêóïèòü;;x
+evt_chancellor_302_option_b_tooltip;Send him an offer;;;;;;;;;;;Ïîøëèòå ïðåäëîæåíèå, îò êîòîðîãî òðóäíî îòêàçàòüñÿ;;x
+evt_chancellor_302_option_c;I better let it be for now;;;;;;;;;;;ß ëó÷øå îñòàâëþ âñ¸ êàê åñòü;;x
 # Chancellor is assassinated...
-evt_chancellor_303_desc_a;The attempt to fabricate a claim on a title held by [From.GetTitledName] did not pass unnoticed, and rumors say that [From.GetSheHe] was so angry that [From.GetSheHe] ordered to have me assassinated.;;;;;;;;;;;;;x
-evt_chancellor_303_option_a;I am not too worried...;;;;;;;;;;;;;x
-
+evt_chancellor_303_desc_a;The attempt to fabricate a claim on a title held by [From.GetTitledName] did not pass unnoticed, and rumors say that [From.GetSheHe] was so angry that [From.GetSheHe] ordered to have me assassinated.;;;;;;;;;;;Ïîïûòêè ñôàáðèêîâàòü ïðåòåíçèè íà òèòóë, êîòîðûì âëàäååò [From.GetTitledName], íå îñòàëèñü íåçàìå÷åííûìè, è ñóäÿ ïî ñëóõàì, [From.GetSheHe] âíå ñåáÿ îò çëîñòè è ïðèêàçàë[From.GetEndA], ÷òîáû ìåíÿ óáèëè.;;x
+evt_chancellor_303_option_a;I am not too worried...;;;;;;;;;;;ß íå ñëèøêîì âîëíóþñü...;;x
 # Noble is informed that the assassination attempt succeeded
-evt_chancellor_304_desc_a;The assassins succeeded! The troublesome [Root.GetChancellorName] who was roaming around the county trying to fabricate a claim on my title is no more... And there is no trace leading back to me.;;;;;;;;;;;;;x
-
+evt_chancellor_304_desc_a;The assassins succeeded! The troublesome [Root.GetChancellorName] who was roaming around the county trying to fabricate a claim on my title is no more... And there is no trace leading back to me.;;;;;;;;;;;Óáèéöû ïðåóñïåëè! [Root.GetMyChancellorName], êîòîðûé áðîäèë ïî îêðóãó è ïðè÷èíÿë áåñïîêîéñòâî, ïûòàÿñü ñôàáðèêîâàòü ïðåòåíçèè íà ìîé òèòóë, áîëüøå íèêîãî íå ïîòðåâîæèò... È íåò íèêàêèõ ñëåäîâ, óêàçûâàþùèõ íà ìîþ ïðè÷àñòíîñòü ê ýòîìó.;;x
 # The liege is informed about the Chancellor's death
-evt_chancellor_305_desc_a;During a mission to try and fabricate a claim to a title in [From.Location.GetName], my [Root.GetChancellorName] has been murdered!;;;;;;;;;;;;;x
-evt_chancellor_305_option_a;How terrible!;;;;;;;;;;;;;x
-
+evt_chancellor_305_desc_a;During a mission to try and fabricate a claim to a title in [From.Location.GetName], my [Root.GetChancellorName] has been murdered!;;;;;;;;;;;Âî âðåìÿ âûïîëíåíèÿ ìèññèè ïî ôàáðèêàöèè ïðåòåíçèé íà òèòóë â îêðóãå [From.Location.GetName], ìîé [Root.GetChancellorName] áûë óáèò!;;x
+evt_chancellor_305_option_a;How terrible!;;;;;;;;;;;Êàêîé óæàñ!;;x
 # Noble is informed that the assassination attempt failed
-evt_chancellor_306_desc_a;The assassins I sent failed miserably and the troublesome [FromFrom.GetMyChancellorName], [FromFrom.GetTitledName], continues his work to fabricate a claim on my title.;;;;;;;;;;;;;x
-evt_chancellor_306_option_a;Damn!;;;;;;;;;;;;;x
-
+evt_chancellor_306_desc_a;The assassins I sent failed miserably and the troublesome [FromFrom.GetMyChancellorName], [FromFrom.GetTitledName], continues his work to fabricate a claim on my title.;;;;;;;;;;;Óáèéöû, ïîñëàííûå ìíîé, ñ òðåñêîì ïðîâàëèëè ïîðó÷åíèå, è [FromFrom.GetMyChancellorName] [FromFrom.GetTitledName] â ñïåøêå ïðîäîëæàåò ñâîþ ðàáîòó íàä ôàáðèêàöèåé ïðåòåíçèé íà ìîé òèòóë.;;x
+evt_chancellor_306_option_a;Damn!;;;;;;;;;;;Ïðîêëÿòèå!;;x
 # Noble tries to bribe Chancellor
-evt_chancellor_307_desc_a;It has come to my attention that your work in [Root.Location.GetName] is aimed to fabricate a claim on my title. This is of course unacceptable but I am willing to offer you a small contribution to encourage you to 'forget' about this for some time.\n\nSincerely,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_chancellor_307_option_a;I guess that could be arranged;;;;;;;;;;;;;x
-evt_chancellor_307_option_a_tooltip;Send [From.GetHerHim] a letter;;;;;;;;;;;;;x
-evt_chancellor_307_option_b;I would never betray my liege!;;;;;;;;;;;;;x
-evt_chancellor_307_option_b_tooltip;Send the money back;;;;;;;;;;;;;x
-
+evt_chancellor_307_desc_a;It has come to my attention that your work in [Root.Location.GetName] is aimed to fabricate a claim on my title. This is of course unacceptable but I am willing to offer you a small contribution to encourage you to 'forget' about this for some time.\n\nSincerely,\n[From.GetTitledName];;;;;;;;;;;"Îáðàùàþ âíèìàíèå íà Âàøó ðàáîòó â îêðóãå [Root.Location.GetName], ãäå Âû çàíèìàëèñü ôàáðèêàöèåé ïðåòåíçèé íà ìîé òèòóë. Ýòî, êîíå÷íî, íåïðèåìëåìî, íî ÿ õî÷ó ïðåäëîæèòü Âàì íåáîëüøîé âêëàä, ÷òîáû ïîáóäèòü Âàñ ""çàáûòü"" îá ýòîì íà íåêîòîðîå âðåìÿ.\n\nÑ óâàæåíèåì,\n[From.GetTitledName]";;x
+evt_chancellor_307_option_a;I guess that could be arranged;;;;;;;;;;;ß äóìàþ, ÷òî ýòî ìîæíî îðãàíèçîâàòü;;x
+evt_chancellor_307_option_a_tooltip;Send [From.GetHerHim] a letter;;;;;;;;;;;Îòïðàâèòü [From.GetHerHim] ïèñüìî;;x
+evt_chancellor_307_option_b;I would never betray my liege!;;;;;;;;;;;ß íèêîãäà íå ïðåäàì ìîåãî ñþçåðåíà!;;x
+evt_chancellor_307_option_b_tooltip;Send the money back;;;;;;;;;;;Îòïðàâèòü äåíüãè îáðàòíî;;x
 # Noble is informed that the Chancellor accepted the bribe
-evt_chancellor_308_desc_a;I have decided to accept your generous offer, and you can rest assure that I won't find anything that can be used to fabricate a claim within the next year...\n\nSincerely,\n[From.GetTitledName];;;;;;;;;;;;;x
-
+evt_chancellor_308_desc_a;I have decided to accept your generous offer, and you can rest assure that I won't find anything that can be used to fabricate a claim within the next year...\n\nSincerely,\n[From.GetTitledName];;;;;;;;;;;ß ïðèíèìàþ Âàøå ëþáåçíîå ïðåäëîæåíèå, è Âû ìîæåòå áûòü óâåðåíû, ÷òî ÿ íå íàéäó íè÷åãî òàêîãî, ÷òî ìîæåò áûòü èñïîëüçîâàíî äëÿ ôàáðèêàöèè ïðåòåíçèé â òå÷åíèå ñëåäóþùåãî ãîäà...\n\nÑ óâàæåíèåì,\n[From.GetTitledName];;x
 # Noble is informed that the Chancellor didn't accept the bribe
-evt_chancellor_309_desc_a;Your shameful attempt to bribe me has not been able to make the slightest dent in my moral armor and I am sending back the money. No matter the amount of gold, I could never be persuaded to betray my liege!\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_chancellor_309_option_a;Damn him!;;;;;;;;;;;;;x
-
-
+evt_chancellor_309_desc_a;Your shameful attempt to bribe me has not been able to make the slightest dent in my moral armor and I am sending back the money. No matter the amount of gold, I could never be persuaded to betray my liege!\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;Âàøà ïîçîðíàÿ ïîïûòêà ïîäêóïèòü ìåíÿ íå ñïîñîáíà ñäåëàòü äàæå ìàëåéøóþ áðåøü â ìîåé âåðíîñòè, è ÿ âûñûëàþ îáðàòíî Âàøè äåíüãè. Íåçàâèñèìî îò êîëè÷åñòâà çîëîòà, Âàì íèêîãäà íå óäàñòñÿ óáåäèòü ìåíÿ ïðåäàòü ìîåãî ñþçåðåíà!\n\nÏîäïèñàíî,\n[From.GetTitledName];;x
+evt_chancellor_309_option_a;Damn him!;;;;;;;;;;;×¸ðò ïîáåðè!;;x
 # The Chancellor sows dissent between a local noble and his liege
-evt_chancellor_401_title;Vassal-Liege Opinion Lowered;;;;;;;;;;;;;x
-evt_chancellor_401_desc_a;It took all my skill and charm to sow distrust between a noble in [Root.Location.GetName] and his liege, but at last their relations lay in ruins.;;;;;;;;;;;;;x
-evt_chancellor_401_option_a;This should please my liege!;;;;;;;;;;;;;x
-
+evt_chancellor_401_title;Vassal-Liege Opinion Lowered;;;;;;;;;;;Bàññàëüíî-ñþçåðåííûå îòíîøåíèÿ óõóäøèëèñü;;x
+evt_chancellor_401_desc_a;It took all my skill and charm to sow distrust between a noble in [Root.Location.GetName] and his liege, but at last their relations lay in ruins.;;;;;;;;;;;Ïîòðåáóåòñÿ âñå ìî¸ ìàñòåðñòâî è îáàÿíèå, ÷òîáû ïîñåÿòü íåäîâåðèå ìåæäó äâîðÿíèíîì îêðóãà [Root.Location.GetName] è åãî ñþçåðåíîì, íî â êîíöå êîíöîâ èõ îòíîøåíèÿ áóäóò ëåæàòü â ðóèíàõ.;;x
+evt_chancellor_401_option_a;This should please my liege!;;;;;;;;;;;Ýòî íå ìîæåò íå ïîðàäîâàòü ìîåãî ñþçåðåíà!;;x
 # The local noble start disliking his liege
-evt_chancellor_402_desc_a;At first I could not believe it, but [From.GetTitledName] persisted and showed irrefutable evidence that my own liege, [Root.Liege.GetTitledName] distrust and despises me!;;;;;;;;;;;;;x
-evt_chancellor_402_option_a;What an insult!;;;;;;;;;;;;;x
-evt_chancellor_402_option_a_tooltip;Send an angry letter to [Root.Liege.GetTitledName];;;;;;;;;;;;;x
-
+evt_chancellor_402_desc_a;At first I could not believe it, but [From.GetTitledName] persisted and showed irrefutable evidence that my own liege, [Root.Liege.GetTitledName] distrust and despises me!;;;;;;;;;;;Ñíà÷àëà ÿ íå ìîã â ýòî ïîâåðèòü, íî [From.GetTitledName] ïðåäúÿâèë ìíå íåîïðîâåðæèìûå äîêàçàòåëüñòâà, ÷òî ìîé ñîáñòâåííûé ñþçåðåí, [Root.Liege.GetTitledName], íå äîâåðÿåò ìíå è ïðåçèðàåò ìåíÿ!;;x
+evt_chancellor_402_option_a;What an insult!;;;;;;;;;;;×òî çà îñêîðáëåíèå!;;x
+evt_chancellor_402_option_a_tooltip;Send an angry letter to [Root.Liege.GetTitledName];;;;;;;;;;;Îòïðàâèòü ãíåâíîå ïèñüìî [Root.Liege.GetTitledName];;x
 # The liege of the local noble is informed
-evt_chancellor_403_desc_a;[From.GetTitledName] accused me of distrusting him and claimed to have evidence of my betrayal! I don't know where he have gotten these ideas from.;;;;;;;;;;;;;x
-evt_chancellor_403_option_a;What an idiot!;;;;;;;;;;;;;x
-
+evt_chancellor_403_desc_a;[From.GetTitledName] accused me of distrusting him and claimed to have evidence of my betrayal! I don't know where he have gotten these ideas from.;;;;;;;;;;;[From.GetTitledName] îáâèíèë ìåíÿ â íåäîâåðèè ê íåìó è óòâåðæäàë, ÷òî èìååò äîêàçàòåëüñòâà ìîåé èçìåíû! ß íå çíàþ, îòêóäà ó íåãî ýòè èäåè.;;x
+evt_chancellor_403_option_a;What an idiot!;;;;;;;;;;;×òî çà èäèîò!;;x
 # The liege of the Chancellor is informed
-evt_chancellor_404_desc_a;My liege, I have managed to sow distrust between [From.GetTitledName] and [From.GetHerHis] liege [From.Liege.GetTitledFirstName]. I hope this pleases you.\n\nYour humble [Root.GetMyChancellorName],\n[Root.job_chancellor.GetTitledName];;;;;;;;;;;;;x
-evt_chancellor_404_option_a;Fantastic!;;;;;;;;;;;;;x
-
-
+evt_chancellor_404_desc_a;My liege, I have managed to sow distrust between [From.GetTitledName] and [From.GetHerHis] liege [From.Liege.GetTitledFirstName]. I hope this pleases you.\n\nYour humble [Root.GetMyChancellorName],\n[Root.job_chancellor.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], áëàãîäàðÿ ìîèì äåéñòâèÿì, [From.GetTitledName] è [From.GetHersHis] ñþçåðåí [From.Liege.GetTitledFirstName] òåïåðü ìåíüøå äîâåðÿþò äðóã äðóãó. ß íàäåþñü, ÷òî Âàñ ýòî ïîðàäóåò.\n\nÂàø âåðíûé [Root.GetMyChancellorName],\n[Root.job_chancellor.GetTitledName];;x
+evt_chancellor_404_option_a;Fantastic!;;;;;;;;;;;×óäåñíî!;;x
 # Chancellor Discovered
-evt_chancellor_501_title;[Root.GetMyChancellorName] Discovered;;;;;;;;;;;;;x
-evt_chancellor_501_desc_a;I have been sent to [From.Location.GetName] to secretly create unrest between the local nobles and their liege, but it seems that at least one of them has seen my real motive and I fear he might inform his liege about this, or even imprison me!.;;;;;;;;;;;;;x
-evt_chancellor_501_option_a;Most worrisome...;;;;;;;;;;;;;x
-evt_chancellor_501_option_a_tooltip;A noble in [Root.Location.GetName] reacts;;;;;;;;;;;;;x
-
+evt_chancellor_501_title;[Root.GetMyChancellorName] Discovered;;;;;;;;;;;Bàø [Root.GetMyChancellorName] ðàñêðûò;;x
+evt_chancellor_501_desc_a;I have been sent to [From.Location.GetName] to secretly create unrest between the local nobles and their liege, but it seems that at least one of them has seen my real motive and I fear he might inform his liege about this, or even imprison me!.;;;;;;;;;;;ß áûë ïîñëàí â [From.Location.GetName], ÷òîáû òàéíî ïîñåÿòü âðàæäó ìåæäó ìåñòíûìè äâîðÿíàìè è èõ ñþçåðåíîì, íî êàæåòñÿ, ÷òî ïî êðàéíåé ìåðå îäèí èç íèõ îïðåäåëèë ìîè íàñòîÿùèå ìîòèâû, è ÿ áîþñü, ÷òî îí ìîæåò ñîîáùèòü ñâîåìó ñþçåðåíó îá ýòîì, èëè äàæå ïîñàäèòü ìåíÿ â òþðüìó!;;x
+evt_chancellor_501_option_a;Most worrisome...;;;;;;;;;;;Î÷åíü òðåâîæíî...;;x
+evt_chancellor_501_option_a_tooltip;A noble in [Root.Location.GetName] reacts;;;;;;;;;;;Äâîðÿíèí â [Root.Location.GetName] îòðåàãèðîâàë;;x
 # The local noble is informed
-evt_chancellor_502_desc_a;It seems that the [Root.GetChancellorName] of [From.Host.PrimaryTitle.GetName], [From.GetTitledName], has been hard at work in [From.Location.GetName] trying to spread unrest among us local nobles and turn us against my liege [Root.Liege.GetTitledName]. What should I do about this troublesome character?;;;;;;;;;;;;;x
-evt_chancellor_502_option_a;Imprison [From.GetHerHim]!;;;;;;;;;;;;;x
-evt_chancellor_502_option_b;This is [From.GetHerHis] liege's doing!;;;;;;;;;;;;;x
-
+evt_chancellor_502_desc_a;It seems that the [Root.GetChancellorName] of [From.Host.PrimaryTitle.GetName], [From.GetTitledName], has been hard at work in [From.Location.GetName] trying to spread unrest among us local nobles and turn us against my liege [Root.Liege.GetTitledName]. What should I do about this troublesome character?;;;;;;;;;;;Êàæåòñÿ, ÷òî [Root.GetMyChancellorName] [From.Host.PrimaryTitle.GetName], [From.GetTitledName], ñ óñåðäèåì ïûòàåòñÿ ïîñåÿòü âðàæäó ìåæäó ìåñòíûìè äâîðÿíàìè îêðóãà [From.Location.GetName] è ìîèì ñþçåðåíîì [Root.Liege.GetTitledName]. ×òî ÿ äîëæåí ñäåëàòü ñ ýòèì ïðîáëåìíûì ÷åëîâåêîì?;;x
+evt_chancellor_502_option_a;Imprison [From.GetHerHim]!;;;;;;;;;;;Çàòî÷èòü [From.GetHersHis]!;;x
+evt_chancellor_502_option_b;This is [From.GetHerHis] liege's doing!;;;;;;;;;;;Ïóñòü ýòî [From.GetHersHis] ñþçåðåí ðåøàåò!;;x
 # Unused?
-EVTTOOLTIP20172;A letter is sent to my liege;;;;;;;;;;;;;x
-
+EVTTOOLTIP20172;A letter is sent to my liege;;;;;;;;;;;Îòïðàâèòü ïèñüìî ìîåìó ñþçåðåíó;;x
 # The Chancellor is imprisoned
-evt_chancellor_503_desc_a;[From.GetTitledName] completely overreacted to my most innocent visit to [From.Location.GetName] and decided to imprison me!;;;;;;;;;;;;;x
-evt_chancellor_503_option_a;What will become of me now?;;;;;;;;;;;;;x
-
+evt_chancellor_503_desc_a;[From.GetTitledName] completely overreacted to my most innocent visit to [From.Location.GetName] and decided to imprison me!;;;;;;;;;;;[From.GetTitledName] ñëèøêîì ðàäèêàëüíî îòðåàãèðîâàë[From.GetEndA] íà ìî¸ âåñüìà íåâèííîå ïîñåùåíèå [From.Location.GetName] è ðåøèë[From.GetEndA] ïîñàäèòü ìåíÿ â òþðüìó!;;x
+evt_chancellor_503_option_a;What will become of me now?;;;;;;;;;;;×òî ñî ìíîé áóäåò òåïåðü?;;x
 # The Chancellor's liege is informed about imprisonment
-evt_chancellor_504_desc_a;My lord, your [Root.GetMyChancellorName] [FromFrom.GetTitledName] tried to encourage me to turn against my liege [From.Liege.GetTitledName]! This shameless act can not go unpunished and to stop further interference I have thus decided to imprison your [Root.GetMyChancellorName] for an indefinite period of time.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_chancellor_504_option_a;Outrageous!;;;;;;;;;;;;;x
-
+evt_chancellor_504_desc_a;My lord, your [Root.GetMyChancellorName] [FromFrom.GetTitledName] tried to encourage me to turn against my liege [From.Liege.GetTitledName]! This shameless act can not go unpunished and to stop further interference I have thus decided to imprison your [Root.GetMyChancellorName] for an indefinite period of time.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;Ìîé ïîâåëèòåëü, Âàø [Root.GetMyChancellorName] [FromFrom.GetTitledName] ïûòàëñÿ óáåäèòü ìåíÿ âûñòóïèòü ïðîòèâ ìîåãî ñþçåðåíà ïî èìåíè [From.Liege.GetTitledName]! Ýòîò áåññòûäíûé ïîñòóïîê íåëüçÿ îñòàâëÿòü áåçíàêàçàííûì è, ÷òîáû ïðåêðàòèòü äàëüíåéøåå âìåøàòåëüñòâî, [Root.GetMyChancellorName] çàêëþ÷¸í â òþðüìó íà íåîïðåäåë¸ííîå âðåìÿ.\n [From.GetTitledName];;x
+evt_chancellor_504_option_a;Outrageous!;;;;;;;;;;;Âîçìóòèòåëüíî!;;x
 # The local noble informs his liege about imprisonment
-evt_chancellor_505_desc_a;My liege, I discovered that the [Root.GetChancellorName] of [FromFrom.Liege.GetTitledName] has been agitating in [From.Location.GetName], trying to turn us local nobles against you. Rest assure that his poisonous word has had no effect on me, and to make sure no more harm is done, I have imprisoned him.\n\nYour humble Vassal,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_chancellor_505_option_a;[FromFrom.Liege.GetTitledName] will hear about this!;;;;;;;;;;;;;x
-
+evt_chancellor_505_desc_a;My liege, I discovered that the [Root.GetChancellorName] of [FromFrom.Liege.GetTitledName] has been agitating in [From.Location.GetName], trying to turn us local nobles against you. Rest assure that his poisonous word has had no effect on me, and to make sure no more harm is done, I have imprisoned him.\n\nYour humble Vassal,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ÿ îáíàðóæèë, ÷òî [Root.GetMyChancellorName] [FromFrom.Liege.GetTitledName] ïðîâîäèë àãèòàöèþ â [From.Location.GetName], ïûòàÿñü îáðàòèòü ìåñòíóþ çíàòü ïðîòèâ Âàñ. Ìîæåòå áûòü óâåðåíû, ÷òî åãî ÿäîâèòàÿ êëåâåòà íå ïîâëèÿëà íà ìåíÿ, è ÷òîáû îí íå ïðè÷èíèë áîëüøåãî âðåäà, ÿ çàòî÷èë åãî.\n\nÂàø âåðíûé âàññàë,\n[From.GetTitledName];;x
+evt_chancellor_505_option_a;[FromFrom.Liege.GetTitledName] will hear about this!;;;;;;;;;;;[FromFrom.Liege.GetTitledName] óçíàåò îá ýòîì!;;x
 # The Chancellor's liege is informed about the reaction of the noble
-evt_chancellor_506_desc_a;My lord, your [Root.GetChancellorName] [FromFrom.GetTitledName] has been trying to create unrest among the nobles in [From.Location.GetName] and tried to encourage me to turn against my liege [From.Liege.GetTitledName]! He failed miserably and I can assure you that this shameless act will not go by without consequences.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_chancellor_506_option_a;This is not good...;;;;;;;;;;;;;x
-
+evt_chancellor_506_desc_a;My lord, your [Root.GetChancellorName] [FromFrom.GetTitledName] has been trying to create unrest among the nobles in [From.Location.GetName] and tried to encourage me to turn against my liege [From.Liege.GetTitledName]! He failed miserably and I can assure you that this shameless act will not go by without consequences.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;Ñ íåãîäîâàíèåì ñîîáùàþ Âàì, ÷òî Âàø[FromFrom.GetEndA] ñîâåòíè[FromFrom.GetTsaK], [Root.GetChancellorName] [FromFrom.GetTitledFirstName], ÿâëÿåòñÿ ïðè÷èíîé âîëíåíèé ñðåäè [Root.Location.County.GetAdjective]ñêîé çíàòè. Íà [FromFrom.GetHersHis] ñîâåñòè òàêæå ïîïûòêà íàñòðîèòü ìåíÿ ïðîòèâ ìîå[From.Liege.GetYGo] [From.Liege.GetLordLadyGEN]. Ñåé÷àñ [FromFrom.GetHersHis] çàòåÿ ñ òðåñêîì ïðîâàëèëèñü è ÿ óâåðÿþ Âàñ, ÷òî ïîäîáíûé àêò àãðåññèè íå îñòàíåòñÿ áåç âíèìàíèÿ.\nÏîäïèñü:\n [From.GetTitledFirstName].;;x
+evt_chancellor_506_option_a;This is not good...;;;;;;;;;;;Ýòî íå õîðîøî…;;x
 # The local noble informs his liege about the Chancellor's doing
-evt_chancellor_507_desc_a;My liege, I discovered that the [Root.GetChancellorName] of [FromFrom.Liege.GetTitledName] has been agitating in [From.Location.GetName], trying to turn us local nobles against you. Rest assure that his poisonous word has had no effect on me.\n\nYour humble Vassal,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_chancellor_507_option_a;[FromFrom.Liege.GetTitledName] will hear about this!;;;;;;;;;;;;;x
-
+evt_chancellor_507_desc_a;My liege, I discovered that the [Root.GetChancellorName] of [FromFrom.Liege.GetTitledName] has been agitating in [From.Location.GetName], trying to turn us local nobles against you. Rest assure that his poisonous word has had no effect on me.\n\nYour humble Vassal,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ÿ îáíàðóæèë, ÷òî [Root.GetMyChancellorName] [FromFrom.Liege.GetTitledName] ïðîâîäèë àãèòàöèþ â [From.Location.GetName], ïûòàÿñü îáðàòèòü ìåñòíóþ çíàòü ïðîòèâ Âàñ. Ìîæåòå áûòü óâåðåíû, ÷òî åãî ÿäîâèòàÿ êëåâåòà íå ïîâëèÿëà íà ìåíÿ.\n\nÂàø âåðíûé âàññàë,\n[From.GetTitledName];;x
+evt_chancellor_507_option_a;[FromFrom.Liege.GetTitledName] will hear about this!;;;;;;;;;;;[FromFrom.Liege.GetTitledName] óçíàåò îá ýòîì!;;x
 # The Chancellor's liege is informed about the reaction of the noble's liege
-evt_chancellor_508_desc_a;I have received word that your [Root.GetMyChancellorName] was trying to agitate the nobles of my realm by spreading lies about me in [FromFrom.Location.GetName]! Rest assure that this outrageous behavior will not stand!\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_chancellor_508_option_a;Not what I had planned...;;;;;;;;;;;;;x
-
+evt_chancellor_508_desc_a;I have received word that your [Root.GetMyChancellorName] was trying to agitate the nobles of my realm by spreading lies about me in [FromFrom.Location.GetName]! Rest assure that this outrageous behavior will not stand!\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;ß ïîëó÷èë èçâåñòèå, ÷òî Âàø [Root.GetMyChancellorName] ïûòàëñÿ àãèòèðîâàòü äâîðÿí ìîåé ñòðàíû, ðàñïðîñòðàíÿÿ ëîæü îáî ìíå â [FromFrom.Location.GetName]! Ìîæåòå áûòü óâåðåíû, ÷òî ýòîò áåññòûäíûé àêò íå îáîéä¸òñÿ áåç ïîñëåäñòâèé!\n\nÏîäïèñàíî,\n[From.GetTitledName];;x
+evt_chancellor_508_option_a;Not what I had planned...;;;;;;;;;;;Íå òî, ÷òî ÿ ïëàíèðîâàë…;;x
 # The Chancellor successfully increases the sentiment of the local clan
-evt_chancellor_601_title;An Honorable Mention;;;;;;;;;;;;;x
-evt_chancellor_601_desc_a;Most of the Clan elders are assembled in [Root.Location.GetName]. This is a golden opportunity to tell them about the great honor of [Root.Liege.GetTitledFirstNameNoRegnal]'s clan...;;;;;;;;;;;;;x
-evt_chancellor_601_option_a;Spin them such a tale...;;;;;;;;;;;;;x
-evt_chancellor_601_option_b;What 'great honor'?;;;;;;;;;;;;;x
-
+evt_chancellor_601_title;An Honorable Mention;;;;;;;;;;;Cêàçêè î ñëàâå;;x
+evt_chancellor_601_desc_a;Most of the Clan elders are assembled in [Root.Location.GetName]. This is a golden opportunity to tell them about the great honor of [Root.Liege.GetTitledFirstNameNoRegnal]'s clan...;;;;;;;;;;;Ñåãîäíÿ [Root.Location.GetName] - ìåñòî âåëèêèõ âîçìîæíîñòåé. Ïî÷òè âñå êëàíîâûå ñòàðåéøèíû ñîáðàëèñü çäåñü. [Root.Liege.GetTitledFirstNameNoRegnal] - äîñòîéíåéøèé ÷åëîâåê, è ìîÿ îáÿçàííîñòü - ïîâåäàòü èì î âåëèêîé ñëàâå [Root.Liege.GetHersHis] êëàíà.;;x
+evt_chancellor_601_option_a;Spin them such a tale...;;;;;;;;;;;" ""Î âåëèêèå ìóæè, ïîñëóøàéòå ìîé ðàññêàç...""";;x
+evt_chancellor_601_option_b;What 'great honor'?;;;;;;;;;;;Î êàêîé òàêîé âåëèêîé ñëàâå? Íå çíàþ î òàêîì.;;x
 # The liege is informed of the success
-evt_chancellor_602_desc_a;My trusted [Root.GetChancellorName], [From.GetTitledFirstName], reports success from the Clan of [target_chief.Clan.GetBaseName]. Their elders now like the [Root.Clan.GetName] a lot better!;;;;;;;;;;;;;x
+evt_chancellor_602_desc_a;My trusted [Root.GetChancellorName], [From.GetTitledFirstName], reports success from the Clan of [target_chief.Clan.GetBaseName]. Their elders now like the [Root.Clan.GetName] a lot better!;;;;;;;;;;;Ìîé âåðíûé [Root.GetChancellorName] [From.GetTitledFirstName] ñîîáùèë[From.GetEndA] îá óñïåõå. Êëàí [target_chief.Clan.GetName] ïîâåðèë [From.GetHersHis] ñêàçêàì, è òåïåðü åãî ñòàðåéøèíû îòíîñÿòñÿ ê êëàíó [Root.Clan.GetName] íàìíîãî ëó÷øå!;;x

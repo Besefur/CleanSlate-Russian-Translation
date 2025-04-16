@@ -1,9 +1,9 @@
-realm_buddhists_insulted;Buddhists in your realm are insulted;;;;;;;;;;;;;x
-realm_hindus_insulted;Hindus in your realm are insulted;;;;;;;;;;;;;x
-realm_jains_insulted;Jains in your realm are insulted;;;;;;;;;;;;;x
-jain_ahimsa_tooltip;This act violates the Jain doctrine of Ahimsa, or non-violence\n;;;;;;;;;;;;;x
-indian_has_not_converted;Has not already converted;;;;;;;;;;;;;x
-has_court_guru;Court Guru;;;;;;;;;;;;;x
-realm_jains_upset;Jains in your realm are upset.;;;;;;;;;;;;;x
-sacrilege_tooltip;This sacrilege will be widely known.;;;;;;;;;;;;;x
-local_religion_conversion_tooltip;§Y[Root.GetTitledFirstName]§! becomes §Y[Root.Capital.Religion.GetName]§!.;;;;;;;;;;;;;x
+realm_buddhists_insulted;Buddhists in your realm are insulted;;;;;;;;;;;Áóääèñòû Âàøåé ñòðàíû îñêîðáëåíû.;;x
+realm_hindus_insulted;Hindus in your realm are insulted;;;;;;;;;;;Èíäóèñòû Âàøåé ñòðàíû îñêîðáëåíû.;;x
+realm_jains_insulted;Jains in your realm are insulted;;;;;;;;;;;Äæàéíû Âàøåé ñòðàíû îñêîðáëåíû.;;x
+jain_ahimsa_tooltip;This act violates the Jain doctrine of Ahimsa, or non-violence\n;;;;;;;;;;;Ýòîò àêò íàðóøàåò äæàéíñêóþ äîêòðèíó Àõèìñà (íåíàñèëèÿ)\n;;x
+indian_has_not_converted;Has not already converted;;;;;;;;;;;Åù¸ íå îáðàù¸í;;x
+has_court_guru;Court Guru;;;;;;;;;;;Ïðèäâîðíûé ãóðó;;x
+realm_jains_upset;Jains in your realm are upset.;;;;;;;;;;;Äæàéíû Âàøåé ñòðàíû ðàññòðîåíû.;;x
+sacrilege_tooltip;This sacrilege will be widely known.;;;;;;;;;;;Ýòè êîùóíñòâà ïîëó÷àò øèðîêóþ èçâåñòíîñòü.;;x
+local_religion_conversion_tooltip;§Y[Root.GetTitledFirstName]§! becomes §Y[Root.Capital.Religion.GetName]§!.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! ïðèìåò §Y[Root.Capital.GetReligionFullName]§!.;;x

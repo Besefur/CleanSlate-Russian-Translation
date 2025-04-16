@@ -1,151 +1,104 @@
-EVTDESC_HF_2;My giant body has given me troubles since I was born, and now I have grown to the point where I can barely walk without assistance. I am lucky to still have the strength to lift my own head...;;;;;;;;;;;;;x
-EVTDESC_HF_3;Since I was a mere child my body has been growing and growing, and with its growth I have constantly trained it. I now stand an imposing figure, not only tall like a mountain - but also with muscles like a [Root.GetRegionalFerociousAnimal]!;;;;;;;;;;;;;x
-EVTDESC_HF_4;As I get older and older my body will just not stop its incessant growth! My skin is getting thicker, my voice is becoming deeper, my limbs hurt and I have a headache that just will not go away. While my immense stature is more imposing than ever, I feel my spirit slowly leaving my body...;;;;;;;;;;;;;x
-
-EVTOPTA_HF_2;No - from now on I will work out every day!;;;;;;;;;;;;;x
-EVTOPTA_HF_3;How is the weather down there?;;;;;;;;;;;;;x
-EVTOPTA_HF_4;How long am I for this world?;;;;;;;;;;;;;x
-
-EVTOPTB_HF_2;Why is [Root.Religion.GetRandomEvilGodName] playing this cruel trick on me?;;;;;;;;;;;;;x
-
-EVTDESC_HFP_30000;[concerned_relative.GetFirstName] grabbed the bottle out of my hand as I reached for more wine and hurled it against the wall. "You're killing yourself!", [concerned_relative.GetSheHe] shouted, tears in [concerned_relative.GetHerHis] eyes. "Stop drinking, for your family's sake.";;;;;;;;;;;;;x
-EVTDESC_HFP_30002;[concerned_relative.GetFirstName] passed away recently and though [concerned_relative.GetSheHe] is not around to make sure I don't drink anymore, maybe I should stop to respect [concerned_relative.GetHerHis] memory.;;;;;;;;;;;;;x
-EVTDESC_HFP_30003;After hardly touching a drop of alcohol for weeks, [concerned_relative.GetFirstName] pointed out how much healthier I appear these days. "You look so much better". ;;;;;;;;;;;;;x
-EVTDESC_HFP_30004;I woke up today craving a drink more than anything. I feel absolutely terrible, but I won't give up. [concerned_relative.GetFirstName] would never forgive me.;;;;;;;;;;;;;x
-EVTDESC_HFP_30005;I tried to stop I really did, but I found a bottle that had been left out one night and drunk it all down. No one would have known if the servant hadn't told [concerned_relative.GetFirstName]. ;;;;;;;;;;;;;x
-EVTDESC_HFP_30010;Due to my massive size I am constantly hitting my head on every door I go through, much to the amusement of anyone passing by.;;;;;;;;;;;;;x
-EVTDESC_HFP_30020;"I know you've been feeling down recently" my court physician [physician.GetFirstName] said to me, "Try drinking this it could help, though there are some risks involved". The grey concontion smells vaguely of ash, not the most appealing prospect.;;;;;;;;;;;;;x
-EVTDESC_HFP_30100;The heavens briefly lit up and the ground shook as the rock from the sky crashed into the castle gardens. I sent my men to investigate and they came back with a lump of a curious metal we have not seen before.;;;;;;;;;;;;;x
-EVTDESC_HFP_30102;It has been a few weeks since the great rock from the sky landed in my gardens, and the weapon that I ordered forged from the metal is complete. I look upon the sword with wonder – all the way from the heavens and now in my hand!;;;;;;;;;;;;;x
-
-EVTDESCHFPA30032;It was hard to notice at first, but now there can be no doubts about it: my [GetFromRelation] [From.GetFirstName] is left-handed. It might be prudent to correct this behavior before it becomes permanent.;;;;;;;;;;;;;x
-EVTDESCHFPA30033;My [GetFromRelation] [From.GetFirstName] is furious with me for some reason. [From.GetSheHeCap] says that I should always use my right hand whenever I do something, or [From.Religion.GetHighGodName] will be mad at me.;;;;;;;;;;;;;x
-EVTDESCHFPA30034;[From.GetFirstName], that devious little brat, has fooled me into believing [From.GetSheHe] had stopped using [From.GetHerHis] right hand. Only this morning I overheard [From.GetHerHim] flaunting [From.GetHerHis] trickery with [From.GetHerHis] playmates!;;;;;;;;;;;;;x
-EVTDESCHFPA30035;A conscientious [From.GetBoyGirl], [From.GetFirstName] has decided to obey my order and force [From.GetHerselfHimself] to become right-handed.;;;;;;;;;;;;;x
-EVTDESCHFPA30036;The gall on [From.GetFirstName]! [From.GetSheHeCap] outright refused to listen to me, and insists on using [From.GetHerHis] left hand for everything [From.GetSheHe] does!;;;;;;;;;;;;;x
-EVTDESCHFPB30032;It was hard to notice at first, but now there can be no doubts about it: my [GetFromRelation] [From.GetFirstName] is left-handed. This sort of deviancy should not be allowed to take root, lest it encourages more ungodly behaviors later in [From.GetHerHis] life.;;;;;;;;;;;;;x
-EVTDESCHFPB30033;My [GetFromRelation] [From.GetFirstName] told me that I should try to always use my right hand instead of the left. [From.GetSheHeCap] says that it will help me in many ways when I am older.;;;;;;;;;;;;;x
-
-EVTOPTA_HFP_30000;I will try to change, for you.;;;;;;;;;;;;;x
-EVTOPTA_HFP_30000_TT;You will try to stop drinking, but there is a chance you become unwell.;;;;;;;;;;;;;x
-EVTOPTA_HFP_30002;I will never touch another drop in their honor.;;;;;;;;;;;;;x
-EVTOPTA_HFP_30003;I did it for you.;;;;;;;;;;;;;x
-EVTOPTA_HFP_30004;This is meant to be good for me!;;;;;;;;;;;;;x
-EVTOPTA_HFP_30005;I just can't do it.;;;;;;;;;;;;;x
-EVTOPTA_HFP_30010;I guess I'll just wait until nobody is around.;;;;;;;;;;;;;x
-EVTOPTA_HFP_30020;Anything to feel better.;;;;;;;;;;;;;x
-EVTOPTA_HFP_30020_TT;You drink the potion, despite the risk.;;;;;;;;;;;;;x
-
-EVTOPTAHFP30032;The left hand is of the Devil!;;;;;;;;;;;;;x
-EVTOPTAHFP30033;Sure, [GetFromRelation]! (Lie);;;;;;;;;;;;;x
-EVTOPTAHFP30034;How dare [From.GetSheHe]!;;;;;;;;;;;;;x
-EVTOPTAHFP30036;Outrageous!;;;;;;;;;;;;;x
-
-EVTOPTB_HFP_30000;How dare you tell me what to do?;;;;;;;;;;;;;x
-EVTOPTB_HFP_30000_TT;You make no attempt to stop drinking.;;;;;;;;;;;;;x
-EVTOPTB_HFP_30002;I need the drink to cope.;;;;;;;;;;;;;x
-EVTOPTB_HFP_30010;It hurts but that just builds character.;;;;;;;;;;;;;x
-EVTOPTB_HFP_30020;No way am I drinking that.;;;;;;;;;;;;;x
-
-EVTOPTBHFP30032;Using your right hand is much more practical.;;;;;;;;;;;;;x
-EVTOPTBHFP30033;Alright, [GetFromRelation]. I will do like you say.;;;;;;;;;;;;;x
-
-EVTOPTCHFP30032;The child is fine like this.;;;;;;;;;;;;;x
-EVTOPTCHFP30033;No! I like using the left hand!;;;;;;;;;;;;;x
-
-tooltip_HFP30032_A;Teach to §Y[From.GetFirstName]§! about what the scriptures say about [From.GetHerHis] unholy behavior.;;;;;;;;;;;;;x
-tooltip_HFP30032_B;Teach to §Y[From.GetFirstName]§! about the tactical restrictions caused by being left-handed..;;;;;;;;;;;;;x
-
-
-
-
-
-
-
-
-
-evt_TITLE_HFP_16001;The Founding of Russia;;;;;;;;;;;;;x
-evt_TITLE_HFP_16002;A New Russia;;;;;;;;;;;;;x
-
-EVTDESC_HFP_16001;After many years of tenaciously establishing new borders for our Empire, the time has come to officially declare ourselves the Tsardom of Russia. What a glorious day!;;;;;;;;;;;;;x
-EVTDESC_HFP_16002;After many years of preparation, [From.GetBestName] has chosen to declare complete sovereignty over [From.GetHerHis] vast territories by founding the Tsardom of Russia.;;;;;;;;;;;;;x
-EVTDESC_HFP_16006_armor;I have recently inherited [inherited_artifact.GetName], a piece of armor, from [previous_owner.GetTitledFirstName]. "I am not sure it's in any wearable condition, my [Root.GetLordLady]" the quartermaster informs me, as I trace the pattern on it with one hand.;;;;;;;;;;;;;x
-EVTDESC_HFP_16006_book;"My [Root.GetLordLady], something has been found in the [inherited_artifact.GetArtifactStorage]" a scribe catches up with me. "An old book, from [previous_owner.GetTitledFirstName]?" When I join [Root.GetHerHim] for a closer inspection, I have to agree with the assessment. "Old indeed", I sneeze. "We should have someone care for it", the scribe suggests.;;;;;;;;;;;;;x
-EVTDESC_HFP_16006_child;"What is it?" I ask the guards. "You have inherited this... [inherited_artifact.GetName]", one of them explains. "From [previous_owner.GetTitledFirstName]", [Root.GetSheHe] continues. "If you want to keep it, we'll store it for you, [Root.GetMasterMistress]. It might need some maintenance though.";;;;;;;;;;;;;x
-EVTDESC_HFP_16006_combat_weapon;Upon inspecting the [inherited_artifact.GetArtifactStorage], my guards have found [inherited_artifact.GetName], an old weapon. "It must have belonged to [previous_owner.GetTitledFirstName]", they inform me. "Shame it's not in better shape", they mutter.;;;;;;;;;;;;;x
-EVTDESC_HFP_16006_quality_1;I have recently inherited an item from [previous_owner.GetTitledFirstName]. "It has probably seen better days, [Root.GetMasterMistress]", the guard tells me, before continuing: "We are sorry to bother you with this, we just weren't sure whether to get rid of it or not".;;;;;;;;;;;;;x
-EVTDESC_HFP_16006_quality_2;I have recently inherited [inherited_artifact.GetName] from [previous_owner.GetTitledFirstName]. It is not in good shape.;;;;;;;;;;;;;x
-EVTDESC_HFP_16006_quality_3;The [inherited_artifact.GetArtifactStorage] currently houses a valuable item I inherited from [previous_owner.GetTitledFirstName]. It might need someone to look after it though.;;;;;;;;;;;;;x
-
-EVTOPTA_HFP_16001;All shall bow to [Root.GetBestName]...!;;;;;;;;;;;;;x
-EVTOPTA_HFP_16002;That hardly sounds necessary.;;;;;;;;;;;;;x
-EVTOPTA_HFP_16006_1_A;I suppose it could be worth something, one day...;;;;;;;;;;;;;x
-EVTOPTA_HFP_16006_1_B;For sentimental reasons, I could have someone look it over.;;;;;;;;;;;;;x
-EVTOPTA_HFP_16006_2_A;I'll pay to maintain it.;;;;;;;;;;;;;x
-EVTOPTA_HFP_16006_2_B;Maintenance is to be expected, I guess.;;;;;;;;;;;;;x
-EVTOPTA_HFP_16006_3;Money is not an issue.;;;;;;;;;;;;;x
-EVTOPTA_HFP_16006_4;We cannot put a price on heirlooms like this. Spare no expense!;;;;;;;;;;;;;x
-
-EVTOPTB_HFP_16006_1;Looks rather useless to me.;;;;;;;;;;;;;x
-EVTOPTB_HFP_16006_2;We cannot afford to maintain all the old junk thrown our way.;;;;;;;;;;;;;x
-
-
-
-
-
-
-
-
-
-EVTOPTA_HFP_30100;This metal will make for a truly legendary blade!;;;;;;;;;;;;;x
-EVTOPTA_HFP_30100_TOOLTIP;You set your smiths to work on forging a weapon from the metal.;;;;;;;;;;;;;x
-EVTOPTA_HFP_30102;This is truly a glorious weapon.;;;;;;;;;;;;;x
-EVTOPTA_HFP_30200;What the...;;;;;;;;;;;;;x
-
-EVTOPTB_HFP_30100;This was a gift from [Root.Religion.GetHighGodName]. It should go to the church.;;;;;;;;;;;;;x
-EVTOPTC_HFP_30100;It's just metal. Sell it, and do it quickly.;;;;;;;;;;;;;x
-
-
-
-
-
-
-
-
-
-
-
-EVTDESCAHFP20801;I should always strive to look at my best if I wish to find a good husband to live the rest of my life with. It has not been an easy job, but, with the proper care, I think I am looking better and better every day.;;;;;;;;;;;;;x
-EVTDESCAHFP20802;While all this time spent outside is undoubtedly good for my health, it has not worked as well for my looks. Every night, when I return home, my clothes are soiled in dirt and mud, and my hair bears the stink of wet dogs.;;;;;;;;;;;;;x
-EVTDESCBHFP20801;I should always strive to look at my best if I wish to find a good wife to live the rest of my life with. It has not been an easy job, but, with the proper care, I think I am looking better and better every day.;;;;;;;;;;;;;x
-EVTDESCCHFP20801;I should always strive to look at my best for my beloved spouse. It has not been an easy job, but, with the proper care, I think I am looking better and better every day.;;;;;;;;;;;;;x
-EVTDESCCHFP20802;While my training has greatly improved my physical prowess and my skills in combat, it has not had a positive effect on my looks. My skin has grown rough and blemished by a countless amount of old bruises and small scars.;;;;;;;;;;;;;x
-EVTDESCDHFP20800_BROOD_UNCOUTH;Why should I care how I look when I spend most of my time alone?;;;;;;;;;;;;;x
-EVTDESCDHFP20800_BROOD_UNCOUTH_ED;With [From.GetFirstName] spending most of [From.GetHerHis] days cloistered, is it surprising that [From.GetSheHe] has such a poor care of [From.GetHerHis] looks? The [From.GetBoyGirl] always looks like a vagabond.;;;;;;;;;;;;;x
-EVTDESCDHFP20800_BROOD_UNCOUTH_RESP;[From.GetFirstName] scolded me about my lack of grooming. [From.GetSheHeCap] claims that, regardless of my cloistered lifestyle, I should still strive to maintain the dignified look of a [Root.GetTitle].;;;;;;;;;;;;;x
-EVTDESCDHFP20800_HAUGHTY_GROOMED;I always need to make sure everyone sees how important I am.;;;;;;;;;;;;;x
-EVTDESCDHFP20800_HAUGHTY_GROOMED_ED;[From.GetFirstName] is obsessed with [From.GetHerHis] looks. [From.GetSheHeCap] often avoids playing with other children just for fear of getting [From.GetHerHis] clothes dirty or ruin [From.GetHerHis] hair.;;;;;;;;;;;;;x
-EVTDESCDHFP20800_HAUGHTY_GROOMED_RESP;[From.GetFirstName] has scolded me for being so skittish. [From.GetSheHeCap] says that I should stop worrying about my looks so much and spend more time playing instead.;;;;;;;;;;;;;x
-EVTDESCDHFP20800_ROWDY_UNCOUTH;There are so many interesting things to do in [Root.Capital.GetName]. Why worry about cleaning myself, if I'll get dirty again?;;;;;;;;;;;;;x
-EVTDESCDHFP20800_ROWDY_UNCOUTH_RESP;[From.GetFirstName] has warned me that I should take greater care of myself, and that is unbecoming of a [Root.GetTitle] to always be dirty and uncouth as I am.;;;;;;;;;;;;;x
-EVTDESCDHFP20801;If I wish to be successful in my amorous adventures, I must look at my very best. Nobody will fall for my words if I look like a toad. It has not been an easy job, but, with the proper care, I think I am managing to look better and better every day.;;;;;;;;;;;;;x
-EVTDESCEHFP20800_ROWDY_UNCOUTH_ED;[From.GetFirstName] spends all day playing in the dirt and never seems to care about [From.GetHerHis] own looks, not even during formal occasions, when a proper decor would be expected from a [From.GetBoyGirl] of [From.GetHerHis] stature.;;;;;;;;;;;;;x
-
-EVTDESCGHFP20800_INDOLENT_GROOMED;How can I be expected to do anything? I must maintain a clean and dignified look for the masses.;;;;;;;;;;;;;x
-EVTDESCIHFP20800_INDOLENT_GROOMED_ED;[From.GetFirstName] is enamored with [From.GetHerHis] looks, always trying to appear at [From.GetHerHis] best and always using [From.GetHerHis] necessity to keep clean and groomed as an excuse to avoid any task that might bother [From.GetHerHim].;;;;;;;;;;;;;x
-EVTDESCLHFP20800_INDOLENT_GROOMED_RESP;[From.GetFirstName] has insinuated that my obsession with grooming is just an excuse to avoid my responsibilities and that I should not fear getting dirty every once in a while.;;;;;;;;;;;;;x
-
-EVTOPTAHFP20800_HAUGHTY_GROOMED;I am the prettiest [Root.GetBoyGirl] in [Root.Capital.GetName]!;;;;;;;;;;;;;x
-EVTOPTAHFP20800_HAUGHTY_GROOMED_RESP;But they are all filthy!;;;;;;;;;;;;;x
-EVTOPTAHFP20801;Was there any doubt about it?;;;;;;;;;;;;;x
-EVTOPTAHFP20802;I cannot afford myself to look like this!;;;;;;;;;;;;;x
-
-EVTOPTBHFP20802;And so what? Looks do not matter.;;;;;;;;;;;;;x
-EVTOPTCHFP20800_ROWDY_UNCOUTH_RESP;But why care how I look? I am [Root.GetTitle]!;;;;;;;;;;;;;x
-EVTOPTDHFP20800_BROOD_UNCOUTH;Books do not judge appearances.;;;;;;;;;;;;;x
-EVTOPTDHFP20800_ROWDY_UNCOUTH;I will wash later!;;;;;;;;;;;;;x
-EVTOPTEHFP20800_BROOD_UNCOUTH;But what is the point of that?;;;;;;;;;;;;;x
-EVTOPTEHFP20800_INDOLENT_GROOMED;Indeed!;;;;;;;;;;;;;x
-EVTOPTFHFP20800_INDOLENT_GROOMED;But I am not a peasant!;;;;;;;;;;;;;x
-
-title_HFP_16006;Old Treasures;;;;;;;;;;;;;x
+EVTDESC_HF_2;My giant body has given me troubles since I was born, and now I have grown to the point where I can barely walk without assistance. I am lucky to still have the strength to lift my own head...;;;;;;;;;;;Ìîå ãèãàíòñêîå òåëî äîñòàâëÿëî ìíå íåïðèÿòíîñòè ñ ñàìîãî ðîæäåíèÿ, è òåïåðü ÿ âûðîñ[Root.GetNoneE] äî òàêîé ñòåïåíè, ÷òî åäâà ìîãó õîäèòü áåç ïîñòîðîííåé ïîìîùè. Ìíå ïîâåçëî, ÷òî ó ìåíÿ åù¸ îñòàëèñü ñèëû, ÷òîáû ïîäíÿòü ñîáñòâåííóþ ãîëîâó...;;x
+EVTDESC_HF_3;Since I was a mere child my body has been growing and growing, and with its growth I have constantly trained it. I now stand an imposing figure, not only tall like a mountain - but also with muscles like a [Root.GetRegionalFerociousAnimal]!;;;;;;;;;;;Ñ ñàìîãî äåòñòâà ìî¸ òåëî ðîñëî è ðîñëî, è ñ åãî ðîñòîì ÿ ïîñòîÿííî òðåíèðîâàë[Root.GetEndA] åãî. Òåïåðü ÿ ãîðä[Root.GetAyaYy] îáëàäàòåëü[Root.GetEndNitsa] âíóøèòåëüíîé ôèãóðû, íå òîëüêî âûñîêîé, êàê ãîðà, íî è ìóñêóëèñòîé, êàê [Root.GetRegionalFerociousAnimalACC]!;;x
+EVTDESC_HF_4;As I get older and older my body will just not stop its incessant growth! My skin is getting thicker, my voice is becoming deeper, my limbs hurt and I have a headache that just will not go away. While my immense stature is more imposing than ever, I feel my spirit slowly leaving my body...;;;;;;;;;;;Ïî ìåðå òîãî, êàê ÿ ñòàíîâëþñü ñòàðøå, ìî¸ òåëî íå ïðåêðàùàåò ðàñòè! Ìîÿ êîæà ñòàíîâèòñÿ òîëùå, à ãîëîñ - ãëóáæå. Ó ìåíÿ ïîñòîÿííî áîëèò ãîëîâà, íå ãîâîðÿ óæå ïðî ëîìîòó â ñóñòàâàõ. Êàæåòñÿ, ÷åì âíóøèòåëüíåå ñòàíîâèòñÿ ìî¸ òåëî, òåì íå ñëàáåå ìîé äóõ...;;x
+EVTOPTA_HF_2;No - from now on I will work out every day!;;;;;;;;;;;Îòíûíå ÿ áóäó òðåíèðîâàòüñÿ êàæäûé äåíü!;;x
+EVTOPTA_HF_3;How is the weather down there?;;;;;;;;;;;Êàê òàì âíèçó ïîãîäêà?;;x
+EVTOPTA_HF_4;How long am I for this world?;;;;;;;;;;;Íàñêîëüêî ìåíÿ õâàòèò â ýòîì ìèðå?;;x
+EVTOPTB_HF_2;Why is [Root.Religion.GetRandomEvilGodName] playing this cruel trick on me?;;;;;;;;;;;Çà÷åì [Root.Religion.GetRandomEvilGodName] òàê èçäåâàåòñÿ íàäî ìíîé?;;x
+EVTDESC_HFP_30000;"[concerned_relative.GetFirstName] grabbed the bottle out of my hand as I reached for more wine and hurled it against the wall. ""You're killing yourself!"", [concerned_relative.GetSheHe] shouted, tears in [concerned_relative.GetHerHis] eyes. ""Stop drinking, for your family's sake.""";;;;;;;;;;;Êîãäà ÿ ïîòÿíó[Root.GetLasLsya] çà êóâøèíîì âèíà, [concerned_relative.GetFirstName] ñõâàòèë[concerned_relative.GetEndA] ìåíÿ çà ðóêó è øâûðíóë[concerned_relative.GetEndA] åãî ïðÿìî â ñòåíó.\n— Òû óáèâàåøü ñåáÿ!, — êðèêíóë[concerned_relative.GetEndA] [concerned_relative.GetSheHe]. — Ïåðåñòàíü ïèòü. Ïîäóìàé î ñâîåé ñåìüå!;;x
+EVTDESC_HFP_30002;[concerned_relative.GetFirstName] passed away recently and though [concerned_relative.GetSheHe] is not around to make sure I don't drink anymore, maybe I should stop to respect [concerned_relative.GetHerHis] memory.;;;;;;;;;;;[concerned_relative.GetFirstName] íåäàâíî ñêîí÷à[concerned_relative.GetLasLsya]. [concerned_relative.GetHersHisCap] áîëüøå íåò, è íåêîìó òðåáîâàòü îò ìåíÿ âîçäåðæàíèÿ îò âûïèâêè, íî, âîçìîæíî, ìíå ñëåäóåò ïðîäîëæèòü ñäåðæèâàòü ñåáÿ èç óâàæåíèÿ ê [concerned_relative.GetHersHis] ïàìÿòè.;;x
+EVTDESC_HFP_30003;"After hardly touching a drop of alcohol for weeks, [concerned_relative.GetFirstName] pointed out how much healthier I appear these days. ""You look so much better"". ";;;;;;;;;;;Âîò óæå òðè íåäåëè ÿ íå ïèë[Root.GetEndA] íè êàïëè àëêîãîëÿ, è [concerned_relative.GetFirstName] îòìåòèë[concerned_relative.GetEndA], íàñêîëüêî çäîðîâåå ÿ ñòàë[Root.GetEndA] âûãëÿäåòü â ýòè äíè.;;x
+EVTDESC_HFP_30004;I woke up today craving a drink more than anything. I feel absolutely terrible, but I won't give up. [concerned_relative.GetFirstName] would never forgive me.;;;;;;;;;;;Ñåãîäíÿ ÿ ïðîñíó[Root.GetLasLsya] ñ íåïðåîäîëèìûì æåëàíèåì âûïèòü. ×óâñòâóþ ñåáÿ óæàñíî, íî ÿ íå ñäàìñÿ. [concerned_relative.GetFirstName] íèêîãäà íå ïðîñòèò ìåíÿ.;;x
+EVTDESC_HFP_30005;I tried to stop I really did, but I found a bottle that had been left out one night and drunk it all down. No one would have known if the servant hadn't told [concerned_relative.GetFirstName]. ;;;;;;;;;;;ß ïûòà[Root.GetLasLsya] îñòàíîâèòüñÿ, ïðàâäà ïûòà[Root.GetLasLsya], íî ñåãîäíÿ íî÷üþ ÿ íàø[Root.GetLaYol] ïðèïðÿòàííîå âèíî è âûïèë[Root.GetEndA] åãî. [concerned_relative.GetFirstName] óçíàë[concerned_relative.GetEndA] îá ýòîì, ñëóãà [concerned_relative.GetHerHim] âñ¸ ðàññêàçàë.;;x
+EVTDESC_HFP_30010;Due to my massive size I am constantly hitting my head on every door I go through, much to the amusement of anyone passing by.;;;;;;;;;;;Èç-çà ñâîåãî îãðîìíîãî ðîñòà ÿ ïîñòîÿííî çàäåâàþ ãîëîâîé êîñÿêè äâåðåé, ÷åðåç êîòîðûå ïðîõîæó, ê áîëüøîìó óäîâîëüñòâèþ âñåõ, êòî ïðîõîäèò ìèìî.;;x
+EVTDESC_HFP_30020;"I know you've been feeling down recently my court physician [physician.GetFirstName] said to me, ""Try drinking this it could help, though there are some risks involved"". The grey concontion smells vaguely of ash, not the most appealing prospect.";;;;;;;;;;;— ß çíàþ, ÷òî Âû íåäàâíî ÷óâñòâîâàëè ñåáÿ ïëîõî, ì[Root.GetOyaOy] [Root.GetLordLady]. Ïîïðîáóéòå âûïèòü ýòî. Îíî ìîæåò ïîìî÷ü, íî ñóùåñòâóþò íåêîòîðûå ðèñêè, — ñêàçàë[doctor.GetEndA] [doctor.GetFirstName], ìîé ïðèäâîðíûé ëåêàðü.\nÑåðîå ñíàäîáüå ïàõíåò ïåïëîì, äà è âûãëÿäèò íå õîðîøî.;;x
+EVTDESC_HFP_30100;The heavens briefly lit up and the ground shook as the rock from the sky crashed into the castle gardens. I sent my men to investigate and they came back with a lump of a curious metal we have not seen before.;;;;;;;;;;;Íåáåñà íà ìãíîâåíèå çàñâåòèëèñü, à çåìëÿ çàäðîæàëà, êîãäà êàìåíü ñ íåáà óïàë íà çåìëþ ïðÿìî ïîñðåäè ìîèõ ñàäîâ. ß ïîñëàë[Root.GetEndA] ñâîèõ ëþäåé íà ðàçâåäêó, è îíè âåðíóëèñü ñ êóñêîì ëþáîïûòíîãî ìåòàëëà, êîòîðîãî ìû íèêîãäà ïðåæäå íå âèäåëè.;;x
+EVTDESC_HFP_30102;It has been a few weeks since the great rock from the sky landed in my gardens, and the weapon that I ordered forged from the metal is complete. I look upon the sword with wonder – all the way from the heavens and now in my hand!;;;;;;;;;;;Ïðîøëî íåñêîëüêî íåäåëü ñ òåõ ïîð, êàê îãðîìíûé êàìåíü óïàë ñ íåáà, è îðóæèå, êîòîðîå ÿ ïðèêàçàë[Root.GetEndA] âûêîâàòü èç ýòîãî ìåòàëëà, òåïåðü çàâåðøåíî. ß ñìîòðþ íà ìå÷ ñ óäèâëåíèåì - îí ïðîäåëàë âåñü ýòîò ïóòü ñ íåáåñ íà çåìëþ è òåïåðü â ìîèõ ðóêàõ!;;x
+EVTDESCHFPA30032;It was hard to notice at first, but now there can be no doubts about it: my [GetFromRelation] [From.GetFirstName] is left-handed. It might be prudent to correct this behavior before it becomes permanent.;;;;;;;;;;;Ïîíà÷àëó ýòî áûëî åäâà çàìåòíî, íî òåïåðü ó ìåíÿ íåò ñîìíåíèé, ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] - ëåâøà. Âîçìîæíî, ðàçóìíûì ðåøåíèåì áûëî áû èñïðàâèòü ïîäîáíîå ïîâåäåíèå, ïîêà íå ïîçäíî, èíà÷å [From.GetSheHe] îñòàíåòñÿ òàê[From.GetOyIm] íà âñþ æèçíü.;;x
+EVTDESCHFPA30033;My [GetFromRelation] [From.GetFirstName] is furious with me for some reason. [From.GetSheHeCap] says that I should always use my right hand whenever I do something, or [From.Religion.GetHighGodName] will be mad at me.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] ñåãîäíÿ ðàçîçëè[From.GetLasLsya] íà ìåíÿ, êîãäà çàìåòèë[From.GetEndA], ÷òî ÿ ïîëüçóþñü ëåâîé ðóêîé. [From.GetSheHeCap] ñêàçàë[From.GetEndA], ÷òî ÿ äîëæ[Root.GetNaEn] ïîëüçîâàòüñÿ òîëüêî ïðàâîé, èíà÷å [From.Religion.GetHighGodName] ïîêàðàåò ìåíÿ.;;x
+EVTDESCHFPA30034;[From.GetFirstName], that devious little brat, has fooled me into believing [From.GetSheHe] had stopped using [From.GetHerHis] right hand. Only this morning I overheard [From.GetHerHim] flaunting [From.GetHerHis] trickery with [From.GetHerHis] playmates!;;;;;;;;;;;[From.GetFirstName], ýò[From.GetEtaEtot] ì[From.GetBratLong], ïîïðîñòó îäóðà÷èë[From.GetEndA] ìåíÿ, çàñòàâèâ ïîâåðèòü, ÷òî [From.GetSheHe] ÿêîáû ïåðåñòàë[From.GetEndA] ïîëüçîâàòüñÿ ïðàâîé ðóêîé. Ñåãîäíÿ óòðîì ÿ óñëûøàë[Root.GetEndA], êàê [From.GetSheHe] õâàñòàåò ñâîèì óäà÷íûì îáìàíîì ïåðåä äðóãèìè ðåáÿòàìè!;;x
+EVTDESCHFPA30035;A conscientious [From.GetBoyGirl], [From.GetFirstName] has decided to obey my order and force [From.GetHerselfHimself] to become right-handed.;;;;;;;;;;;[From.GetFirstName] ïîâåë[From.GetEndA] ñåáÿ, êàê ñîçíàòåëüí[From.GetAyaYy] è îòâåòñòâåíí[From.GetAyaYy] [From.GetAgedPersonC]. [From.GetSheHeCap] ðåøèë[From.GetEndA] ïîñëåäîâàòü ìîåìó ñîâåòó è íàó÷èòüñÿ ïîëüçîâàòüñÿ ïðàâîé ðóêîé.;;x
+EVTDESCHFPA30036;The gall on [From.GetFirstName]! [From.GetSheHeCap] outright refused to listen to me, and insists on using [From.GetHerHis] left hand for everything [From.GetSheHe] does!;;;;;;;;;;;Ïðîêëÿò[From.GetAyaYy] [From.GetFirstName] äàæå íå ñòàë[From.GetEndA] ìåíÿ ñëóøàòü! [From.GetSheHeCap] óïîðíî ïðîäîëæàåò ïîëüçîâàòüñÿ ëåâîé ðóêîé!;;x
+EVTDESCHFPB30032;It was hard to notice at first, but now there can be no doubts about it: my [GetFromRelation] [From.GetFirstName] is left-handed. This sort of deviancy should not be allowed to take root, lest it encourages more ungodly behaviors later in [From.GetHerHis] life.;;;;;;;;;;;Ïîíà÷àëó ýòî áûëî åäâà çàìåòíî, íî òåïåðü ó ìåíÿ íåò ñîìíåíèé, ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] - ëåâøà. Îáùåèçâåñòíî, ÷òî åñëè ýòî îòêëîíåíèå óêîðåíèòñÿ â þíîì âîçðàñòå, îíî áóäåò ïîîùðÿòü áåçáîæíîå ïîâåäåíèå â òå÷åíèå âñåé æèçíè.;;x
+EVTDESCHFPB30033;My [GetFromRelation] [From.GetFirstName] told me that I should try to always use my right hand instead of the left. [From.GetSheHeCap] says that it will help me in many ways when I am older.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] íàñòîÿòåëüíî ðåêîìåíäîâàë[From.GetEndA] ìíå âñåãäà ïîëüçîâàòüñÿ ïðàâîé ðóêîé, íåñìîòðÿ íà íåóäîáñòâà. [From.GetSheHeCap] ñêàçàë[From.GetEndA], ÷òî ýòî î÷åíü ïîìîæåò ìíå âî âçðîñëîé æèçíè.;;x
+EVTOPTA_HFP_30000;I will try to change, for you.;;;;;;;;;;;ß ïîïûòàþñü, ðàäè òåáÿ.;;x
+EVTOPTA_HFP_30000_TT;You will try to stop drinking, but there is a chance you become unwell.;;;;;;;;;;;Âû ïîïûòàåòåñü áðîñèòü ïèòü, íî åñòü øàíñ, ÷òî Âàøå ñàìî÷óâñòâèå óõóäøèòñÿ.;;x
+EVTOPTA_HFP_30002;I will never touch another drop in their honor.;;;;;;;;;;;[concerned_relative.GetSheHeCap] áû ýòîãî õîòåë[concerned_relative.GetEndA].;;x
+EVTOPTA_HFP_30003;I did it for you.;;;;;;;;;;;ß ñäåëàë[Root.GetEndA] ýòî ðàäè òåáÿ.;;x
+EVTOPTA_HFP_30004;This is meant to be good for me!;;;;;;;;;;;Ýòî äëÿ ìîåãî æå áëàãà!;;x
+EVTOPTA_HFP_30005;I just can't do it.;;;;;;;;;;;ß íå ìîãó ñ ýòèì ñïðàâèòüñÿ!.;;x
+EVTOPTA_HFP_30010;I guess I'll just wait until nobody is around.;;;;;;;;;;;Ïîëàãàþ, ìíå íàäî ïîìåíüøå ïîïàäàòüñÿ ëþäÿì íà ãëàçà.;;x
+EVTOPTA_HFP_30020;Anything to feel better.;;;;;;;;;;;×òî óãîäíî, ëèøü áû ìíå ïîëåã÷àëî.;;x
+EVTOPTA_HFP_30020_TT;You drink the potion, despite the risk.;;;;;;;;;;;Â âûïüåòå ñíàäîáüå, íåâçèðàÿ íà ðèñê.;;x
+EVTOPTAHFP30032;The left hand is of the Devil!;;;;;;;;;;;Ëåâàÿ ðóêà îò äüÿâîëà!;;x
+EVTOPTAHFP30033;Sure, [GetFromRelation]! (Lie);;;;;;;;;;;Êîíå÷íî, [From.GetRootRelation]! (Ñîëãàòü);;x
+EVTOPTAHFP30034;How dare [From.GetSheHe]!;;;;;;;;;;;Äà êàê [From.GetSheHe] ïîñìåë[From.GetEndA]!;;x
+EVTOPTAHFP30036;Outrageous!;;;;;;;;;;;Âîçìóòèòåëüíî!;;x
+EVTOPTB_HFP_30000;How dare you tell me what to do?;;;;;;;;;;;Êàê òû ñìååøü óêàçûâàòü ìíå, ÷òî äåëàòü?!;;x
+EVTOPTB_HFP_30000_TT;You make no attempt to stop drinking.;;;;;;;;;;;Ïðîèãíîðèðîâàòü ïðîñüáó [concerned_relative.GetRootRelationGEN].;;x
+EVTOPTB_HFP_30002;I need the drink to cope.;;;;;;;;;;;Âîò òåïåðü ìíå òî÷íî íàäî âûïèòü...;;x
+EVTOPTB_HFP_30010;It hurts but that just builds character.;;;;;;;;;;;Ýòî áîëüíî, íî çàêàëÿåò õàðàêòåð.;;x
+EVTOPTB_HFP_30020;No way am I drinking that.;;;;;;;;;;;ß íå áóäó ýòî ïèòü.;;x
+EVTOPTBHFP30032;Using your right hand is much more practical.;;;;;;;;;;;Ïîëüçîâàòüñÿ ïðàâîé ðóêîé ïðàêòè÷íåå, è [From.GetHerHim] ñëåäóåò çíàòü îá ýòîì.;;x
+EVTOPTBHFP30033;Alright, [GetFromRelation]. I will do like you say.;;;;;;;;;;;Õîðîøî.;;x
+EVTOPTCHFP30032;The child is fine like this.;;;;;;;;;;;[From.GetSheHeCap] òàê[From.GetAyaOy] êàê[From.GetAyaOy] åñòü. ß íå ñòàíó [From.GetHersHis] ïåðåó÷èâàòü.;;x
+EVTOPTCHFP30033;No! I like using the left hand!;;;;;;;;;;;Íåò! Ìíå óäîáíåå ëåâîé!;;x
+tooltip_HFP30032_A;Teach to §Y[From.GetFirstName]§! about what the scriptures say about [From.GetHerHis] unholy behavior.;;;;;;;;;;;Ðàññêàçàòü [From.GetRootRelationDAT] î òîì, ÷òî ñâÿòûå ïèñàíèÿ ãîâîðÿò î íå÷åñòèâîé ïðèðîäå [From.GetHersHis] ëåâîðóêîñòè.;;x
+tooltip_HFP30032_B;Teach to §Y[From.GetFirstName]§! about the tactical restrictions caused by being left-handed..;;;;;;;;;;;Îáúÿñíèòü [From.GetHerHim], êàêèå òðóäíîñòè â æèçíè [From.GetHersHis] æäóò, åñëè [From.GetSheHe] îñòàíåòñÿ ëåâøîé.;;x
+evt_TITLE_HFP_16001;The Founding of Russia;;;;;;;;;;;[Root.GetRussiaFullName];;x
+evt_TITLE_HFP_16002;A New Russia;;;;;;;;;;;Íîâàÿ [Root.GetRussiaName];;x
+EVTDESC_HFP_16001;After many years of tenaciously establishing new borders for our Empire, the time has come to officially declare ourselves the Tsardom of Russia. What a glorious day!;;;;;;;;;;;Ïîñëå äîëãèõ ëåò íåóìîëèìîé áîðüáû çà ðàñøèðåíèå ãðàíèö íàøåé ñòðàíû ïðèøëî âðåìÿ îôèöèàëüíî ïðîâîçãëàñèòü [Root.GetRussiaFullNameACC]. Ýòî ïîèñòèíå âåëèêèé äåíü!;;x
+EVTDESC_HFP_16002;After many years of preparation, [From.GetBestName] has chosen to declare complete sovereignty over [From.GetHerHis] vast territories by founding the Tsardom of Russia.;;;;;;;;;;;Ïîñëå äîëãèõ ëåò ïðèãîòîâëåíèé, [From.GetBestName] ðåøèë[From.GetEndA] ïðîâîçãëàñèòü ïîëíûé ñóâåðåíèòåò íàä ñâîèìè òåððèòîðèÿìè, îáúÿâèâ î ñîçäàíèè [From.GetRussiaFullNameGEN].;;x
+EVTDESC_HFP_16006_armor;"I have recently inherited [inherited_artifact.GetName], a piece of armor, from [previous_owner.GetTitledFirstName]. ""I am not sure it's in any wearable condition, my [Root.GetLordLady]"" the quartermaster informs me, as I trace the pattern on it with one hand.";;;;;;;;;;;"Ïî÷òè âñ¸ óòðî ÿ ïðîâåë[Root.GetEndA] â [inherited_artifact.GetArtifactStoragePREP], ðàçãëÿäûâàÿ íàáîð áðîíè.\n""[inherited_artifact.GetName]... Íå ïðîñòî ñíàðÿæåíèå, ðàáîòà ìàñòåðà, [Root.PrimaryTitle.GetFOA]"", — çàÿâèë êâàðòèðìåéñòåð, ÿâíî âîñõèùàÿñü ìîèì èíòåðåñîì.\nÎí âûäåðæàë ìèíóòíóþ ïàóçó, à çàòåì ïðîäîëæèë: ""Êîãäà [previous_owner.GetYourRootDeadRelationOrNone][previous_owner.GetTitledFirstName] âëàäåë[previous_owner.GetEndA] èìè, èõ åù¸ ìîæíî áûëî íîñèòü, íî áîþñü, ñåé÷àñ îíè íå â ëó÷øåì ñîñòîÿíèè. Èì íóæåí ðåìîíò"".";;x
+EVTDESC_HFP_16006_book;"My [Root.GetLordLady], something has been found in the [inherited_artifact.GetArtifactStorage] a scribe catches up with me. ""An old book, from [previous_owner.GetTitledFirstName]?"" When I join [Root.GetHerHim] for a closer inspection, I have to agree with the assessment. ""Old indeed"", I sneeze. ""We should have someone care for it"", the scribe suggests.";;;;;;;;;;;— Ì[Root.GetOyaOy] [Root.GetLordLady], ÿ êîå-÷òî íàø¸ë â Âàøåé [inherited_artifact.GetArtifactStoragePREP], — ñêàçàë ïèñåö.\n— Ñòàðóþ êíèãó, ïîëàãàþ... [previous_owner.GetMyRootDeadRelationOrNone][previous_owner.GetTitledFirstName] õðàíèë[previous_owner.GetEndA] å¸ òàì.\n— Âû ïðàâû, [Root.PrimaryTitle.GetFOA]. Âàì ñòîèò âçãëÿíóòü íà íå¸, âûãëÿäèò ïîòð¸ïàííîé. — Îí ïðîâîäèë ìåíÿ â [inherited_artifact.GetArtifactStorageACC].\n— Ðåêîìåíäóþ âîññòàíîâèòü ýòîò... öåííûé ýêçåìïëÿð, — ñêàçàë îí, ïîñìîòðåâ íà ìåíÿ ñ íàäåæäîé.;;x
+EVTDESC_HFP_16006_child;"What is it? I ask the guards. ""You have inherited this... [inherited_artifact.GetName]"", one of them explains. ""From [previous_owner.GetTitledFirstName]"", [Root.GetSheHe] continues. ""If you want to keep it, we'll store it for you, [Root.GetMasterMistress]. It might need some maintenance though.""";;;;;;;;;;;"×òî ýòî òàêîå? — ñïðîñèë[Root.GetEndA] ÿ ñòðàæíèêà.\n""[inherited_artifact.GetName], [Root.GetYoungOrMy] [Root.GetLordLady], — îòâåòèë îí. — [previous_owner.GetYourRootDeadRelationOrNone][previous_owner.GetTitledFirstName] âëàäåë[previous_owner.GetEndA] ýòèì ïðåäìåòîì. Åñëè [Root.PrimaryTitle.GetFOA] ïîæåëàåò, ìû ñîõðàíèì åãî, íî íàì ïîòðåáóþòñÿ äåíüãè íà âîññòàíîâëåíèå.""";;x
+EVTDESC_HFP_16006_combat_weapon;"Upon inspecting the [inherited_artifact.GetArtifactStorage], my guards have found [inherited_artifact.GetName], an old weapon. ""It must have belonged to [previous_owner.GetTitledFirstName]"", they inform me. ""Shame it's not in better shape"", they mutter.";;;;;;;;;;;"Îñìàòðèâàÿ [inherited_artifact.GetArtifactStorageACC], êàïèòàí ìîåé ñòðàæè êîå-÷òî íàø¸ë - [inherited_artifact.GetName].\n""Âíå ñîìíåíèé, [previous_owner.GetYourRootDeadRelationOrNone][previous_owner.GetTitledFirstName] âëàäåë[previous_owner.GetEndA] ýòèì îðóæèåì, [Root.PrimaryTitle.GetFOA], — ñîîáùèë îí ìíå, è ñðàçó äîáàâèë, — Åãî ñîñòîÿíèå îñòàâëÿåò æåëàòü ëó÷øåãî. Ïðèêàæåòå îòäàòü íà ïî÷èíêó, [Root.GetLordLady]?""";;x
+EVTDESC_HFP_16006_quality_1;"I have recently inherited an item from [previous_owner.GetTitledFirstName]. ""It has probably seen better days, [Root.GetMasterMistress]"", the guard tells me, before continuing: ""We are sorry to bother you with this, we just weren't sure whether to get rid of it or not"".";;;;;;;;;;;Ñåãîäíÿ ìíå ñòàëî èçâåñòíî, ÷òî [previous_owner.GetMyRootDeadRelationOrNone][previous_owner.GetTitledFirstName] îñòàâèë[previous_owner.GetEndA] ïîñëå ñåáÿ ïðåäìåò, êîòîðûé ìîæåò ïðåäñòàâëÿòü öåííîñòü. Îêàçàëîñü, ýòî [inherited_artifact.GetName].\n— Ïðîøó ïðîùåíèÿ, ÷òî ïîòðåâîæèë Âàñ ïî òàêîìó ïîâîäó, [Root.GetLordLady], íî ó íàñ íåò ÷¸òêèõ óêàçàíèé, ÷òî äåëàòü ñî ñòàðûìè ïîâðåæä¸ííûìè âåùàìè èç ñîêðîâèùíèöû. Ìû ìîæåì îòäàòü åãî íà ðåñòàâðàöèþ, — ñêàçàë ìíå êàïèòàí ñòðàæè.;;x
+EVTDESC_HFP_16006_quality_2;I have recently inherited [inherited_artifact.GetName] from [previous_owner.GetTitledFirstName]. It is not in good shape.;;;;;;;;;;;Ñåãîäíÿ êàïèòàí ñòðàæè ñîîáùèë ìíå, ÷òî [previous_owner.GetMyRootDeadRelationOrNone][previous_owner.GetTitledFirstName] îñòàâèë[previous_owner.GetEndA] ïîñëå ñåáÿ öåííûé ïðåäìåò, êîòîðûé íóæäàåòñÿ â ðåñòàâðàöèè - [inherited_artifact.GetName]. Ïðèêàæåòå ïåðåäàòü íà âîññòàíîâëåíèå, [Root.GetYoungOrMy] [Root.GetLordLady]?;;x
+EVTDESC_HFP_16006_quality_3;The [inherited_artifact.GetArtifactStorage] currently houses a valuable item I inherited from [previous_owner.GetTitledFirstName]. It might need someone to look after it though.;;;;;;;;;;;Â ìîåé [inherited_artifact.GetArtifactStoragePREP] ñåé÷àñ õðàíèòñÿ âåñüìà öåííûé ïðåäìåò, íóæäàþùèéñÿ â ðåñòàâðàöèè, êîòîðûì ðàíüøå âëàäåë[previous_owner.GetEndA] [previous_owner.GetMyRootDeadRelationOrNone][previous_owner.GetTitledFirstName] - [inherited_artifact.GetName]. Ïðèêàæåòå ïåðåäàòü íà âîññòàíîâëåíèå, [Root.GetYoungOrMy] [Root.GetLordLady]?;;x
+EVTOPTA_HFP_16001;All shall bow to [Root.GetBestName]...!;;;;;;;;;;;Äà çäðàâñòâóåò [Root.GetTitle] [Root.GetFirstName]!;;x
+EVTOPTA_HFP_16002;That hardly sounds necessary.;;;;;;;;;;;Â ýòîì ÿâíî íå áûëî íåîáõîäèìîñòè.;;x
+EVTOPTA_HFP_16006_1_A;I suppose it could be worth something, one day...;;;;;;;;;;;Õîðîøî. Çàéìèòåñü ýòèì.;;x
+EVTOPTA_HFP_16006_1_B;For sentimental reasons, I could have someone look it over.;;;;;;;;;;;Êîíå÷íî, ÿ çàïëà÷ó.;;x
+EVTOPTA_HFP_16006_2_A;I'll pay to maintain it.;;;;;;;;;;;Ñîãëàñ[Root.GetNaEn], çàéìèòåñü ýòèì.;;x
+EVTOPTA_HFP_16006_2_B;Maintenance is to be expected, I guess.;;;;;;;;;;;Äà. Ïðîñëåäèòå, ÷òîáû âñ¸ ïî÷èíèëè.;;x
+EVTOPTA_HFP_16006_3;Money is not an issue.;;;;;;;;;;;Ìû íå ìîæåì òåðÿòü òàêèå öåííûå âåøè. Äåíüãè íå ïðîáëåìà.;;x
+EVTOPTA_HFP_16006_4;We cannot put a price on heirlooms like this. Spare no expense!;;;;;;;;;;;Íå âîïðîñ. ß îòäàì ëþáûå äåíüãè çà ñòîëü öåííóþ âåùü!;;x
+EVTOPTB_HFP_16006_1;Looks rather useless to me.;;;;;;;;;;;×åñòíî ãîâîðÿ, ýòà øòóêà áåñïîëåçíà äëÿ ìåíÿ.;;x
+EVTOPTB_HFP_16006_2;We cannot afford to maintain all the old junk thrown our way.;;;;;;;;;;;Ìû íå ìîæåì ïîçâîëèòü ñåáå òàêèå òðàòû.;;x
+EVTOPTA_HFP_30100;This metal will make for a truly legendary blade!;;;;;;;;;;;Èç ýòîãî ìîæíî âûêîâàòü ïîèñòèíå ëåãåíäàðíûé êëèíîê!;;x
+EVTOPTA_HFP_30100_TOOLTIP;You set your smiths to work on forging a weapon from the metal.;;;;;;;;;;;Ïîðó÷èòü ñâîèì êóçíåöàì âûêîâàòü îðóæèå èç ýòîãî ìåòàëëà.;;x
+EVTOPTA_HFP_30102;This is truly a glorious weapon.;;;;;;;;;;;Ïîèñòèíå ñëàâíîå îðóæèå.;;x
+EVTOPTA_HFP_30200;What the...;;;;;;;;;;;×òî çà...;;x
+EVTOPTB_HFP_30100;This was a gift from [Root.Religion.GetHighGodName]. It should go to the church.;;;;;;;;;;;Ýòî äàð [Root.GetReligionHighGodGEN]. Îí ïðèíàäëåæèò Öåðêâè.;;x
+EVTOPTC_HFP_30100;It's just metal. Sell it, and do it quickly.;;;;;;;;;;;Ýòî ïðîñòî ìåòàëë. Ïðîäàéòå åãî, è ïîáûñòðåå.;;x
+EVTDESCAHFP20801;I should always strive to look at my best if I wish to find a good husband to live the rest of my life with. It has not been an easy job, but, with the proper care, I think I am looking better and better every day.;;;;;;;;;;;Ìíå âñåãäà íóæíî ñòðåìèòüñÿ âûãëÿäåòü êàê ìîæíî ëó÷øå, åñëè õî÷ó íàéòè õîðîøóþ ïàðó, ñ êîòîðîé ïðîæèâó îñòàòîê ñâîåé æèçíè. Ýòî áûëà íåïðîñòàÿ ðàáîòà, íî ïðè íàäëåæàùåì óõîäå ÿ äóìàþ, ÷òî ñ êàæäûì äí¸ì áóäó âûãëÿäåòü âñ¸ ëó÷øå è ëó÷øå.;;x
+EVTDESCAHFP20802;While all this time spent outside is undoubtedly good for my health, it has not worked as well for my looks. Every night, when I return home, my clothes are soiled in dirt and mud, and my hair bears the stink of wet dogs.;;;;;;;;;;;Õîòÿ âñ¸ ýòî âðåìÿ, ïðîâåä¸ííîå íà óëèöå, íåñîìíåííî, áûëî ïîëåçíî äëÿ ìîåãî çäîðîâüÿ, îíî íå î÷åíü õîðîøî ñêàçàëîñü íà ìîåé âíåøíîñòè. Êàæäûé âå÷åð, êîãäà ÿ âîçâðàùàþñü äîìîé, ìîÿ îäåæäà ïåðåïà÷êàíà ãðÿçüþ è ñëÿêîòüþ, à âîëîñû âîíÿþò ìîêðûìè ñîáàêàìè.;;x
+EVTDESCBHFP20801;I should always strive to look at my best if I wish to find a good wife to live the rest of my life with. It has not been an easy job, but, with the proper care, I think I am looking better and better every day.;;;;;;;;;;;ß âñåãäà äîëæ[Root.GetNaEn] ñòðåìèòüñÿ âûãëÿäåòü êàê ìîæíî ëó÷øå, åñëè õî÷ó íàéòè ïîäõîäÿùóþ âòîðóþ ïîëîâèíêó, ñ êîòîðîé ïðîæèâó îñòàòîê ñâîåé æèçíè. Ýòî áûëà íåïðîñòàÿ ðàáîòà, íî ïðè íàäëåæàùåì óõîäå ÿ äóìàþ, ÷òî ñ êàæäûì äí¸ì áóäó âûãëÿäåòü âñ¸ ëó÷øå è ëó÷øå.;;x
+EVTDESCCHFP20801;I should always strive to look at my best for my beloved spouse. It has not been an easy job, but, with the proper care, I think I am looking better and better every day.;;;;;;;;;;;Ìíå âñåãäà íóæíî ñòðåìèòüñÿ âûãëÿäåòü íàèëó÷øèì îáðàçîì äëÿ ñâîåãî ëþáèìîãî ñóïðóãà/ñóïðóãè. Ýòî áûëà íåïðîñòàÿ çàäà÷à, íî ïðè íàäëåæàùåì óõîäå ÿ äóìàþ, ÷òî ñ êàæäûì äí¸ì áóäó âûãëÿäåòü âñ¸ ëó÷øå è ëó÷øå.;;x
+EVTDESCCHFP20802;While my training has greatly improved my physical prowess and my skills in combat, it has not had a positive effect on my looks. My skin has grown rough and blemished by a countless amount of old bruises and small scars.;;;;;;;;;;;Õîòÿ òðåíèðîâêè çíà÷èòåëüíî óëó÷øèëè ìîþ ôèçè÷åñêóþ ñèëó è áîåâûå íàâûêè, ýòî íå îêàçàëî ïîëîæèòåëüíîãî âëèÿíèÿ íà ìîþ âíåøíîñòü. Ìîÿ êîæà ñòàëà ãðóáîé è òåïåðü ïîêðûòà áåñ÷èñëåííûì êîëè÷åñòâîì ñòàðûõ ñèíÿêîâ è ìàëåíüêèõ øðàìîâ.;;x
+EVTDESCDHFP20800_BROOD_UNCOUTH;Why should I care how I look when I spend most of my time alone?;;;;;;;;;;;Ïî÷åìó ìåíÿ äîëæíî âîëíîâàòü, êàê ÿ âûãëÿæó, åñëè ÿ ïðîâîæó áîëüøóþ ÷àñòü âðåìåíè â îäèíî÷åñòâå?;;x
+EVTDESCDHFP20800_BROOD_UNCOUTH_ED;With [From.GetFirstName] spending most of [From.GetHerHis] days cloistered, is it surprising that [From.GetSheHe] has such a poor care of [From.GetHerHis] looks? The [From.GetBoyGirl] always looks like a vagabond.;;;;;;;;;;;Ó÷èòûâàÿ, ÷òî [From.GetFirstName] ïðîâîäèò áîëüøóþ ÷àñòü ñâîèõ äíåé â óåäèíåíèè, óäèâèòåëüíî ëè, ÷òî [From.GetSheHe] òàê ïëîõî çàáîòèòñÿ î ñîáñòâåííîé âíåøíîñòè? [From.GetBoyGirl] âñåãäà âûãëÿäèò êàê áðîäÿãà.;;x
+EVTDESCDHFP20800_BROOD_UNCOUTH_RESP;[From.GetFirstName] scolded me about my lack of grooming. [From.GetSheHeCap] claims that, regardless of my cloistered lifestyle, I should still strive to maintain the dignified look of a [Root.GetTitle].;;;;;;;;;;;[From.GetFirstName] îòðóãàë[From.GetEndA] ìåíÿ çà îòñóòñòâèå óõîæåííîñòè. [From.GetSheHeCap] óòâåðæäàåò, ÷òî, íåñìîòðÿ íà ìîé çàìêíóòûé îáðàç æèçíè, ÿ âñ¸ ðàâíî äîëæ[Root.GetNaEn] ñòðåìèòüñÿ ïîääåðæèâàòü äîñòîéíûé âíåøíèé âèä, êàê [Root.GetTitle].;;x
+EVTDESCDHFP20800_HAUGHTY_GROOMED;I always need to make sure everyone sees how important I am.;;;;;;;;;;;Ìíå âñåãäà íóæíî áûòü óâåðåíí[Root.GetOyYm], ÷òî âñå âèäÿò, íàñêîëüêî ÿ âàæ[Root.GetNaEn].;;x
+EVTDESCDHFP20800_HAUGHTY_GROOMED_ED;[From.GetFirstName] is obsessed with [From.GetHerHis] looks. [From.GetSheHeCap] often avoids playing with other children just for fear of getting [From.GetHerHis] clothes dirty or ruin [From.GetHerHis] hair.;;;;;;;;;;;[From.GetFirstName] îäåðæèì[From.GetEndA] ñâîåé âíåøíîñòüþ. [From.GetSheHeCap] ÷àñòî èçáåãàåò èãðàòü ñ äðóãèìè äåòüìè òîëüêî èç ñòðàõà èñïà÷êàòü ñîáñòâåííóþ îäåæäó èëè èñïîðòèòü [From.GetHerHis] âîëîñû.;;x
+EVTDESCDHFP20800_HAUGHTY_GROOMED_RESP;[From.GetFirstName] has scolded me for being so skittish. [From.GetSheHeCap] says that I should stop worrying about my looks so much and spend more time playing instead.;;;;;;;;;;;[From.GetFirstName] îòðóãàë[From.GetEndA] ìåíÿ çà ïóãëèâîñòü. [From.GetSheHeHeCap] ãîâîðèò, ÷òî ìíå ñëåäóåò ïåðåñòàòü òàê ñèëüíî áåñïîêîèòüñÿ î ñâîåé âíåøíîñòè è âìåñòî ýòîãî ïðîâîäèòü áîëüøå âðåìåíè çà èãðàìè.;;x
+EVTDESCDHFP20800_ROWDY_UNCOUTH;There are so many interesting things to do in [Root.Capital.GetName]. Why worry about cleaning myself, if I'll get dirty again?;;;;;;;;;;;Â [Root.Capital.GetName] òàê ìíîãî âñåãî èíòåðåñíîãî. Çà÷åì áåñïîêîèòüñÿ î ÷èñòîòå, åñëè ÿ ñíîâà èñïà÷êàþñü?;;x
+EVTDESCDHFP20800_ROWDY_UNCOUTH_RESP;[From.GetFirstName] has warned me that I should take greater care of myself, and that is unbecoming of a [Root.GetTitle] to always be dirty and uncouth as I am.;;;;;;;;;;;[From.GetFirstName] ïðåäóïðåäèë[From.GetEndA] ìåíÿ, ÷òî ÿ äîëæ[Root.GetNaEn] ëó÷øå ñëåäèòü çà ñîáîé, è ÷òî [Root.GetTitle] íå ïîäîáàåò âñåãäà áûòü íàñòîëüêî ãðÿçí[Root.GetOyYm] è íåîòåñàíí[Root.GetOyYm], êàê ÿ.;;x
+EVTDESCDHFP20801;If I wish to be successful in my amorous adventures, I must look at my very best. Nobody will fall for my words if I look like a toad. It has not been an easy job, but, with the proper care, I think I am managing to look better and better every day.;;;;;;;;;;;Åñëè ÿ õî÷ó äîáèòüñÿ óñïåõà â ñâîèõ ëþáîâíûõ ïðèêëþ÷åíèÿõ, ìíå íóæíî ñòàðàòüñÿ èçî âñåõ ñèë. Íèêòî íå ïîâåðèò ìîèì ñëîâàì, åñëè ÿ áóäó ïîõîæ[Root.GetEndA] íà æàáó. Ýòî áûëà íåïðîñòàÿ çàäà÷à, íî ïðè íàäëåæàùåì óõîäå, ìíå óäà¸òñÿ âûãëÿäåòü âñ¸ ëó÷øå è ëó÷øå ñ êàæäûì äí¸ì.;;x
+EVTDESCEHFP20800_ROWDY_UNCOUTH_ED;[From.GetFirstName] spends all day playing in the dirt and never seems to care about [From.GetHerHis] own looks, not even during formal occasions, when a proper decor would be expected from a [From.GetBoyGirl] of [From.GetHerHis] stature.;;;;;;;;;;;[From.GetFirstName] öåëûìè äíÿìè èãðàåò â ãðÿçè è, ïîõîæå, íèêîãäà íå çàáîòèòñÿ î [From.GetHerHis] ñîáñòâåííîé âíåøíîñòè, äàæå âî âðåìÿ îôèöèàëüíûõ ìåðîïðèÿòèé, êîãäà îò [From.GetBoyGirl] [From.GetHerHis] ñòàòóñà îæèäàþò ñîîòâåòñòâóþùåé óõîæåííîñòè.;;x
+EVTDESCGHFP20800_INDOLENT_GROOMED;How can I be expected to do anything? I must maintain a clean and dignified look for the masses.;;;;;;;;;;;Êàê ìîæíî îæèäàòü, ÷òî ÿ ÷òî-òî ñäåëàþ? Ìíå íóæíî ïîääåðæèâàòü îïðÿòíóþ è äîñòîéíóþ âíåøíîñòü, ðàäè ñâîåãî íàðîäà.;;x
+EVTDESCIHFP20800_INDOLENT_GROOMED_ED;[From.GetFirstName] is enamored with [From.GetHerHis] looks, always trying to appear at [From.GetHerHis] best and always using [From.GetHerHis] necessity to keep clean and groomed as an excuse to avoid any task that might bother [From.GetHerHim].;;;;;;;;;;;[From.GetFirstName] î÷àðîâûâàåò ñâîé âíåøíîñòüþ, âñåãäà ñòàðàåòñÿ âûãëÿäåòü ëó÷øå äðóãèõ è âñåãäà èñïîëüçóåò [From.GetHerHis] íåîáõîäèìîñòü ïîääåðæèâàòü ÷èñòîòó è óõîä â êà÷åñòâå ïðåäëîãà, ÷òîáû èçáåæàòü ëþáîé çàäà÷è, êîòîðàÿ ìîæåò [From.GetHerHis] ïîáåñïîêîèòü.;;x
+EVTDESCLHFP20800_INDOLENT_GROOMED_RESP;[From.GetFirstName] has insinuated that my obsession with grooming is just an excuse to avoid my responsibilities and that I should not fear getting dirty every once in a while.;;;;;;;;;;;[From.GetFirstName] íàìåêíóë[From.GetEndA], ÷òî ìîÿ îäåðæèìîñòü óõîäîì çà ñîáîé - ýòî ïðîñòî ïðåäëîã, ÷òîáû èçáåæàòü ñâîèõ îáÿçàííîñòåé, è ÷òî ÿ íå äîëæ[Root.GetNaEn] áîÿòüñÿ èíîãäà èñïà÷êàòüñÿ.;;x
+EVTOPTAHFP20800_HAUGHTY_GROOMED;I am the prettiest [Root.GetBoyGirl] in [Root.Capital.GetName]!;;;;;;;;;;;ß ñàì[Root.GetAyaYy] êðàñèâ[Root.GetAyaYy] [Root.GetBoyGirl] â [Root.Capital.GetName]!;;x
+EVTOPTAHFP20800_HAUGHTY_GROOMED_RESP;But they are all filthy!;;;;;;;;;;;Íî îíè âñå ãðÿçíûå!;;x
+EVTOPTAHFP20801;Was there any doubt about it?;;;;;;;;;;;Áûëè ëè êàêèå-òî ñîìíåíèÿ ïî ýòîìó ïîâîäó?;;x
+EVTOPTAHFP20802;I cannot afford myself to look like this!;;;;;;;;;;;ß íå ìîãó ïîçâîëèòü ñåáå òàê âûãëÿäåòü!;;x
+EVTOPTBHFP20802;And so what? Looks do not matter.;;;;;;;;;;;È ÷òî? Âíåøíèé âèä íå èìååò çíà÷åíèÿ.;;x
+EVTOPTCHFP20800_ROWDY_UNCOUTH_RESP;But why care how I look? I am [Root.GetTitle]!;;;;;;;;;;;Äà êàêàÿ ðàçíèöà, êàê ÿ âûãëÿæó? ß [Root.GetTitle]!;;x
+EVTOPTDHFP20800_BROOD_UNCOUTH;Books do not judge appearances.;;;;;;;;;;;Íåëüçÿ ñóäèòü î êíèãå ïî îáëîæêå.;;x
+EVTOPTDHFP20800_ROWDY_UNCOUTH;I will wash later!;;;;;;;;;;;ß ïîìîþñü ïîçæå!;;x
+EVTOPTEHFP20800_BROOD_UNCOUTH;But what is the point of that?;;;;;;;;;;;Íî êàêîé â ýòîì ñìûñë?;;x
+EVTOPTEHFP20800_INDOLENT_GROOMED;Indeed!;;;;;;;;;;;Êîíå÷íî!;;x
+EVTOPTFHFP20800_INDOLENT_GROOMED;But I am not a peasant!;;;;;;;;;;;Íî ÿ íå êðåñòüÿíèí!;;x
+title_HFP_16006;Old Treasures;;;;;;;;;;;Còàðûå âåùè;;x

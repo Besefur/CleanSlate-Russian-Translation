@@ -136,7 +136,7 @@ defined_text = {
 
 # An adjective for the Wonder, eg. "Great", "Bloody"
 # Great, Grand, Holy, Magnificent, Glorious, Bloody, Fortified, Royal, Grand Royal, Silent
-#Golden, Iron, Towering, Looming, Divine, Verdant, Soaring, Hallowed, Ancient, Old
+# Golden, Iron, Towering, Looming, Divine, Verdant, Soaring, Hallowed, Ancient, Old
 defined_text = {
 	name = GetWonderAdjCap
 	use_first_valid = yes

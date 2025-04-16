@@ -1,63 +1,63 @@
-attempting_suicide_tooltip;Has not attempted to commit suicide recently.;;;;;;;;;;;;;x
-CHESS_BAD_MOVE;you making a bad move.;;;;;;;;;;;;;x
-CHESS_BAD_TRICK;of you botching the attempt to cheat.;;;;;;;;;;;;;x
-CHESS_GOOD_MOVE;you making a good move.;;;;;;;;;;;;;x
-CHESS_GOOD_TRICK;of you cheating successfully.;;;;;;;;;;;;;x
-CHESS_GREAT_MOVE;you making a great move.;;;;;;;;;;;;;x
-CHESS_NEUTRAL_MOVE;you making a neutral move.;;;;;;;;;;;;;x
-chess_score_number;[Root.chess_score.GetValue];;;;;;;;;;;;;x
-CHESS_TERRIBLE_MOVE;you making a terrible move.;;;;;;;;;;;;;x
-commit_suicide_allow_tooltip;§Y[Root.GetTitledFirstName]§! must have a reason to commit suicide.\n;;;;;;;;;;;;;x
-crazymurderdog_court_tooltip;The Court is shocked! ;;;;;;;;;;;;;x
-crazymurderdog_tooltip;Their family will be rather upset. ;;;;;;;;;;;;;x
-immortal_hunter_tooltip;You are, or you believe yourself to be, a great hunter and trainer of unusual creatures. Creatures which get hungry... ;;;;;;;;;;;;;x
-IMMORTAL_RIVAL_COMING_TOOLTIP;How ominous.;;;;;;;;;;;;;x
-CHESS_GOOD_MOVE_100;§Y100%§! chance of you making a good move.;;;;;;;;;;;;;x
-CHESS_GREAT_MOVE_100;§Y100%§! chance of you making a great move.;;;;;;;;;;;;;x
-3_year_physician_cooldown;Can only look for a Physician once every §Y3§! years;;;;;;;;;;;;;x
-add_symptom_tooltip;You begin to feel unwell;;;;;;;;;;;;;x
-become_bedridden_ill;Becomes bedridden with illness;;;;;;;;;;;;;x
-become_mild_ill;Suffers a mild illness;;;;;;;;;;;;;x
-become_normal_ill;Suffers a normal illness;;;;;;;;;;;;;x
-become_severe_ill;Suffers a severe illness;;;;;;;;;;;;;x
-capital_prospers_custom_tooltip;The §YProsperity§! of your capital county (§Y[This.Capital.GetName]§!) increases slightly\n;;;;;;;;;;;;;x
-court_physician_tooltip_1;Must not hold a temporary title\n;;;;;;;;;;;;;x
-court_physician_tooltip_2;Must be male unless your realm accepts women as equals\n;;;;;;;;;;;;;x
-drink_the_concoction_custom_tooltip;You drink the concoction [physician_target.GetFirstName] has brewed;;;;;;;;;;;;;x
-educated_court_physician;Is an educated Court Physician\n;;;;;;;;;;;;;x
-employ_court_physician_tooltip;Ensure the entire realm knows you are looking for a candidate for the position of Court Physician.\n;;;;;;;;;;;;;x
-epidemic_present_tooltip;An Epidemic is Active and Close\n;;;;;;;;;;;;;x
-eunuch_gift_tooltip;A eunuch named §Y[eunuch_gift.GetFullName]§! arrives at your court;;;;;;;;;;;;;x
-expelling_holy_order_decision_tooltip;Is NOT already considering to expel the Holy Order;;;;;;;;;;;;;x
-fertility_treatment_custom_tooltip;[physician_target.GetFirstName] begins looking for ways to increase your fertility;;;;;;;;;;;;;x
-gain_tech_custom_tooltip;Gain §G5.00§! random tech points.\n;;;;;;;;;;;;;x
-increase_prosperity_custom_tooltip;The §YProsperity§! of §Y[This.GetName]§! increases slightly\n;;;;;;;;;;;;;x
-increase_prosperity_event_custom_tooltip;The §YProsperity§! of §Y[prosperity_target.GetName]§! increases!;;;;;;;;;;;;;x
-is_at_home_tooltip;Is at Home Court\n;;;;;;;;;;;;;x
-join_in_dance;Join the peasant's dance!\n;;;;;;;;;;;;;x
-maimed_effect_tooltip;§Y[This.GetBestName]§! will be §YMaimed§!\n;;;;;;;;;;;;;x
-make_shieldmaiden_custom_tooltip_2;Must be neither §Y'Shy'§!, §Y'Content'§!, §Y'Slothful'§!, §Y'Envious'§!, nor §Y'Gluttonous'§!\n;;;;;;;;;;;;;x
-make_shieldmaiden_custom_tooltip_3;Must NOT have been recently relieved of (or refused to accept) this duty\n;;;;;;;;;;;;;x
-make_shieldmaiden_custom_tooltip_4;If [Root.GetTitledFirstName] accepts your offer you will lose §R50§! gold, but gain §G50§! prestige.\n[Root.GetTitledFirstName] will gain §G100§! prestige and the trait §Y'Shieldmaiden'§!.\n;;;;;;;;;;;;;x
-mutilate_castrated_tooltip;§Y[From.GetTitledFirstName]§! is castrated.;;;;;;;;;;;;;x
-mutilate_disfigured_tooltip;§Y[From.GetTitledFirstName]§! becomes disfigured.;;;;;;;;;;;;;x
-mutilate_eye_tooltip;§Y[From.GetTitledFirstName]§! becomes one-eyed.;;;;;;;;;;;;;x
-mutilate_hand_tooltip;§Y[From.GetTitledFirstName]§! becomes one-handed.;;;;;;;;;;;;;x
-mutilate_leg_tooltip;§Y[From.GetTitledFirstName]§! becomes one-legged.;;;;;;;;;;;;;x
-open_the_gates_info_tooltip;§Y[Root.GetBestName]§! opens up the gates and comes out of seclusion but the common people will remember [Root.GetHerHis] neglect for some time.\n;;;;;;;;;;;;;x
-physician_learning_custom_tooltip;Join [physician_target.GetFirstName] in [physician_target.GetHerHis] lab for a few days;;;;;;;;;;;;;x
-physician_apothecaries_custom_tooltip;Your §YDemesne Counties§! receive a significant §YProsperity§! boost!;;;;;;;;;;;;;x
-prepare_worship_ancestors;You begin preparations for the sacrifice.;;;;;;;;;;;;;x
-raise_defensive_unit_tooltip;Is the Primary Defender against a Religious Enemy\n;;;;;;;;;;;;;x
-realm_prospers_custom_tooltip;All §YRealm Provinces§! receive a significant §YProsperity§! boost!;;;;;;;;;;;;;x
-refuse_to_join_in_dance;Get some rest\n;;;;;;;;;;;;;x
-seek_treatment_tooltip_1;Must be ill or show a symptom\n;;;;;;;;;;;;;x
-seek_treatment_tooltip_2;Has not been treated recently\n;;;;;;;;;;;;;x
-seek_treatment_tooltip_3;Does not already have a successful treatment;;;;;;;;;;;;;x
-seek_treatment_tooltip_4;Your Court Physician is called\n;;;;;;;;;;;;;x
-shut_the_gates_info_tooltip;§Y[Root.GetBestName]§! secludes [Root.GetHerselfHimself] with [Root.GetHerHis] courtiers\n;;;;;;;;;;;;;x
-stop_pillaging_custom_tooltip;Has not decided to Stop Pillaging the holding;;;;;;;;;;;;;x
-summon_defensive_unit;You summon a band of devout warriors.\n;;;;;;;;;;;;;x
-upgrade_hospital;[From.GetTitledName] has suggested that for a small donation to their holy coffers the hospital in [Root.Capital.GetName] could be expanded.;;;;;;;;;;;;;x
-worship_cooldown_tooltip;Has not performed a sacrifice to the ancestors in the last 10 years.;;;;;;;;;;;;;x
-tooltip_obj_see_the_realm_prosper;Has ruled the realm in peace for §Y5 years§!;;;;;;;;;;;;;x
+attempting_suicide_tooltip;Has not attempted to commit suicide recently.;;;;;;;;;;;Â ïîñëåäíåå âðåìÿ íå áûëî ïîïûòîê ñóèöèäà.;;x
+CHESS_BAD_MOVE;you making a bad move.;;;;;;;;;;;Âû ñäåëàåòå ïëîõîé õîä.;;x
+CHESS_BAD_TRICK;of you botching the attempt to cheat.;;;;;;;;;;;Âû áóäåòå ïîéìàíû íà øóëåðñòâå.;;x
+CHESS_GOOD_MOVE;you making a good move.;;;;;;;;;;;Âû ñäåëàåòå õîðîøèé õîä.;;x
+CHESS_GOOD_TRICK;of you cheating successfully.;;;;;;;;;;;Âû óñïåøíî ñìóõëþåòå.;;x
+CHESS_GREAT_MOVE;you making a great move.;;;;;;;;;;;Âû ñäåëàåòå ïðåêðàñíûé õîä.;;x
+CHESS_NEUTRAL_MOVE;you making a neutral move.;;;;;;;;;;;Âû ñäåëàåòå íåéòðàëüíûé õîä.;;x
+chess_score_number;[Root.chess_score.GetValue];;;;;;;;;;;[Root.chess_score.GetValue];;x
+CHESS_TERRIBLE_MOVE;you making a terrible move.;;;;;;;;;;;Âû ñäåëàåòå óæàñíûé õîä.;;x
+commit_suicide_allow_tooltip;§Y[Root.GetTitledFirstName]§! must have a reason to commit suicide.\n;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! äîëæ[Root.GetNaEn] èìåòü ïîâîä äëÿ ñàìîóáèéñòâà.\n;;x
+crazymurderdog_court_tooltip;The Court is shocked! ;;;;;;;;;;;Ïðèäâîðíûå øîêèðîâàíû! ;;x
+crazymurderdog_tooltip;Their family will be rather upset. ;;;;;;;;;;;Ñåìüÿ ïîãèáøåãî áóäåò î÷åíü ðàññòðîåíà. ;;x
+immortal_hunter_tooltip;You are, or you believe yourself to be, a great hunter and trainer of unusual creatures. Creatures which get hungry... ;;;;;;;;;;;Âû - âåëèêèé îõîòíèê (ïî êðàéíåé ìåðå Âû òàê äóìàåòå), êîòîðûé ðàñòèò è îáó÷àåò íåîáû÷íûõ æèâîòíûõ. È ýòè æèâîòíûå êàê ðàç ïðîãîëîäàëèñü...;;x
+IMMORTAL_RIVAL_COMING_TOOLTIP;How ominous.;;;;;;;;;;;Êàê çëîâåùå.;;x
+CHESS_GOOD_MOVE_100;§Y100%§! chance of you making a good move.;;;;;;;;;;;§Y100%§! øàíñ, ÷òî Âû ñäåëàåòå õîðîøèé õîä.;;x
+CHESS_GREAT_MOVE_100;§Y100%§! chance of you making a great move.;;;;;;;;;;;§Y100%§! øàíñ, ÷òî Âû ñäåëàåòå áëåñòÿùèé õîä.;;x
+3_year_physician_cooldown;Can only look for a Physician once every §Y3§! years;;;;;;;;;;;Âû ìîæåòå èñêàòü íîâîãî ëåêàðÿ íå ÷àùå ÷åì ðàç â §Y3§! ãîäà;;x
+add_symptom_tooltip;You begin to feel unwell;;;;;;;;;;;Âàøå ñàìî÷óâñòâèå óõóäøàåòñÿ;;x
+become_bedridden_ill;Becomes bedridden with illness;;;;;;;;;;;Áóäåò ïðèêîâàí[GetEndA] ê ïîñòåëè;;x
+become_mild_ill;Suffers a mild illness;;;;;;;;;;;Íåìíîãî ïðèáîëååò;;x
+become_normal_ill;Suffers a normal illness;;;;;;;;;;;Çàáîëååò;;x
+become_severe_ill;Suffers a severe illness;;;;;;;;;;;Òÿæåëî çàáîëååò;;x
+capital_prospers_custom_tooltip;The §YProsperity§! of your capital county (§Y[This.Capital.GetName]§!) increases slightly\n;;;;;;;;;;;Âàø ñòîëè÷íûé îêðóã ïîëó÷èò åäèíîâðåìåííûé ïðèðîñò §Yïðîöâåòàíèÿ§!\n;;x
+court_physician_tooltip_1;Must not hold a temporary title\n;;;;;;;;;;;ÍÅ âëàäååò âðåìåííûìè òèòóëàìè\n;;x
+court_physician_tooltip_2;Must be male unless your realm accepts women as equals\n;;;;;;;;;;;Äîëæåí áûòü ìóæ÷èíîé, åñëè çàêîíû îòðèöàþò ïðàâà æåíùèí\n;;x
+drink_the_concoction_custom_tooltip;You drink the concoction [physician_target.GetFirstName] has brewed;;;;;;;;;;;Âûïèòü âàðåâî, êîòîðîå [physician_target.GetFirstName] ïðåäëàãàåò Âàì;;x
+educated_court_physician;Is an educated Court Physician\n;;;;;;;;;;;Îáó÷åííûé ïðèäâîðíûé ëåêàðü\n;;x
+employ_court_physician_tooltip;Ensure the entire realm knows you are looking for a candidate for the position of Court Physician.\n;;;;;;;;;;;Âñÿ ñòðàíà óçíàåò î òîì, ÷òî Âû õîòèòå íàíÿòü ïðèäâîðíîãî ëåêàðÿ.\n;;x
+epidemic_present_tooltip;An Epidemic is Active and Close\n;;;;;;;;;;;Ýïèäåìèÿ àêòèâíà è ïðèáëèæàåòñÿ\n;;x
+eunuch_gift_tooltip;A eunuch named §Y[eunuch_gift.GetFullName]§! arrives at your court;;;;;;;;;;;Åâíóõ §Y[eunuch_gift.GetFullName]§! ïðèñîåäèíèòñÿ ê Âàøåìó äâîðó;;x
+expelling_holy_order_decision_tooltip;Is NOT already considering to expel the Holy Order;;;;;;;;;;;Ðåøåíèå îá èçãíàíèè äóõîâíîãî îðäåíà ÍÅ ïðèíèìàëîñü;;x
+fertility_treatment_custom_tooltip;[physician_target.GetFirstName] begins looking for ways to increase your fertility;;;;;;;;;;;[physician_target.GetFirstName] ïîèùåò ñïîñîáû ïîâûñèòü Âàøó ïëîäîâèòîñòü;;x
+gain_tech_custom_tooltip;Gain §G5.00§! random tech points.\n;;;;;;;;;;;+§G5.00§! î÷êîâ òåõíîëîãèé.\n;;x
+increase_prosperity_custom_tooltip;The §YProsperity§! of §Y[This.GetName]§! increases slightly\n;;;;;;;;;;;Îêðóã ïîëó÷èò åäèíîâðåìåííûé ïðèðîñò §Yïðîöâåòàíèÿ§!\n;;x
+increase_prosperity_event_custom_tooltip;The §YProsperity§! of §Y[prosperity_target.GetName]§! increases!;;;;;;;;;;;Îêðóã §Y[prosperity_target.GetName]§! ïîëó÷èò åäèíîâðåìåííûé ïðèðîñò §Yïðîöâåòàíèÿ§!!;;x
+is_at_home_tooltip;Is at Home Court\n;;;;;;;;;;;Íàõîäèòñÿ äîìà\n;;x
+join_in_dance;Join the peasant's dance!\n;;;;;;;;;;;Ïðèñîåäèíèòüñÿ ê òàíöó\n;;x
+maimed_effect_tooltip;§Y[This.GetBestName]§! will be §YMaimed§!\n;;;;;;;;;;;§Y[This.GetBestName]§! ñòàíåò §YÈçóâå÷åíí[This.GetOyYm]§!\n;;x
+make_shieldmaiden_custom_tooltip_2;Must be neither §Y'Shy'§!, §Y'Content'§!, §Y'Slothful'§!, §Y'Envious'§!, nor §Y'Gluttonous'§!\n;;;;;;;;;;;Íå äîëæíà áûòü §Yîáæîðîé§!, §Yçàñòåí÷èâîé§!, §Yóäîâëåòâîð¸ííîé§!, §Yçàâèñòëèâîé§! èëè §Yëåíèâîé§!\n;;x
+make_shieldmaiden_custom_tooltip_3;Must NOT have been recently relieved of (or refused to accept) this duty\n;;;;;;;;;;;Óáåäèòåñü, ÷òî â ïîñëåäíåå âðåìÿ îíà íå áûëà ñíÿòà ñ ýòîé äîëæíîñòè è íå îòêàçàëàñü îò íå¸.\n;;x
+make_shieldmaiden_custom_tooltip_4;If [Root.GetTitledFirstName] accepts your offer you will lose §R50§! gold, but gain §G50§! prestige.\n[Root.GetTitledFirstName] will gain §G100§! prestige and the trait §Y'Shieldmaiden'§!.\n;;;;;;;;;;;Åñëè [Root.GetTitledFirstName] ïðèìåò Âàøå ïðåäëîæåíèå, Âû ïîòðàòèòå §R50§! çîëîòûõ, íî çàðàáîòàåòå §G50§! î÷êîâ ïðåñòèæà.\n[Root.GetTitledFirstName] ïîëó÷èò §G100§! î÷êîâ ïðåñòèæà è ÷åðòó §YÙèòîíîñèöà§!.\n;;x
+mutilate_castrated_tooltip;§Y[From.GetTitledFirstName]§! is castrated.;;;;;;;;;;;§Y[From.GetTitledFirstName]§! áóäåò îñêîïë¸í.;;x
+mutilate_disfigured_tooltip;§Y[From.GetTitledFirstName]§! becomes disfigured.;;;;;;;;;;;§Y[From.GetTitledFirstName]§! áóäåò èçóðîäîâàí[From.GetEndA].;;x
+mutilate_eye_tooltip;§Y[From.GetTitledFirstName]§! becomes one-eyed.;;;;;;;;;;;§Y[From.GetTitledFirstName]§! ëèøèòñÿ ãëàçà.;;x
+mutilate_hand_tooltip;§Y[From.GetTitledFirstName]§! becomes one-handed.;;;;;;;;;;;§Y[From.GetTitledFirstName]§! ëèøèòñÿ ðóêè.;;x
+mutilate_leg_tooltip;§Y[From.GetTitledFirstName]§! becomes one-legged.;;;;;;;;;;;§Y[From.GetTitledFirstName]§! ëèøèòñÿ íîãè.;;x
+open_the_gates_info_tooltip;§Y[Root.GetBestName]§! opens up the gates and comes out of seclusion but the common people will remember [Root.GetHerHis] neglect for some time.\n;;;;;;;;;;;§Y[Root.GetBestName]§! îòêðîåò âîðîòà è [Root.GetHerselfHimself] ïîêèíåò èçîëÿöèþ. Ïðîñòîé íàðîä çàïîìíèò ýòî.\n;;x
+physician_learning_custom_tooltip;Join [physician_target.GetFirstName] in [physician_target.GetHerHis] lab for a few days;;;;;;;;;;;Âû è [physician_target.GetFirstName] ïðîâåä¸òå ïàðó äíåé â [physician_target.GetHersHis] ëàáîðàòîðèè;;x
+physician_apothecaries_custom_tooltip;Your §YDemesne Counties§! receive a significant §YProsperity§! boost!;;;;;;;;;;;Êàæäûé îêðóã èç Âàøèõ §Yëè÷íûõ çåìåëüíûõ âëàäåíèé§! ïîëó÷èò ñóùåñòâåííûé åäèíîâðåìåííûé ïðèðîñò §Yïðîöâåòàíèÿ§!!;;x
+prepare_worship_ancestors;You begin preparations for the sacrifice.;;;;;;;;;;;Âû íà÷èíàåòå ïðèãîòîâëåíèÿ ê æåðòâîïðèíîøåíèþ.;;x
+raise_defensive_unit_tooltip;Is the Primary Defender against a Religious Enemy\n;;;;;;;;;;;Ãëàâíûé ó÷àñòíèê îáîðîíèòåëüíîé âîéíû ïðîòèâ âðàãà äðóãîé âåðû\n;;x
+realm_prospers_custom_tooltip;All §YRealm Provinces§! receive a significant §YProsperity§! boost!;;;;;;;;;;;Êàæäûé §Yîêðóã ñòðàíû§! ïîëó÷èò ñóùåñòâåííûé ïðèðîñò §Yïðîöâåòàíèÿ§!!;;x
+refuse_to_join_in_dance;Get some rest\n;;;;;;;;;;;Îòäîõíóòü\n;;x
+seek_treatment_tooltip_1;Must be ill or show a symptom\n;;;;;;;;;;;Áîëååò èëè èìååò ñèìïòîìû\n;;x
+seek_treatment_tooltip_2;Has not been treated recently\n;;;;;;;;;;;Â ïîñëåäíåå âðåìÿ íå áûëî ëå÷åíèÿ\n;;x
+seek_treatment_tooltip_3;Does not already have a successful treatment;;;;;;;;;;;Âû ÍÅ ïûòàåòåñü ëå÷èòü óæå èñöåë¸ííîãî ÷åëîâåêà;;x
+seek_treatment_tooltip_4;Your Court Physician is called\n;;;;;;;;;;;Âàø ïðèäâîðíûé ëåêàðü áûë âûçâàí\n;;x
+shut_the_gates_info_tooltip;§Y[Root.GetBestName]§! secludes [Root.GetHerselfHimself] with [Root.GetHerHis] courtiers\n;;;;;;;;;;;§Y[Root.GetBestName]§! èçîëèðóåò ñåáÿ è ñâîèõ ïðèäâîðíûõ\n;;x
+stop_pillaging_custom_tooltip;Has not decided to Stop Pillaging the holding;;;;;;;;;;;Ðåøåíèå ïðåêðàòèòü ðàçîðåíèå ïîñåëåíèÿ ÍÅ ïðèíèìàëîñü;;x
+summon_defensive_unit;You summon a band of devout warriors.\n;;;;;;;;;;;Âû ïðèçîâ¸òå áàíäó âîèíîâ-ôàíàòèêîâ.\n;;x
+upgrade_hospital;[From.GetTitledName] has suggested that for a small donation to their holy coffers the hospital in [Root.Capital.GetName] could be expanded.;;;;;;;;;;;[From.GetTitledName] ïðåäëîæèë[From.GetEndA] ðàñøèðèòü [Root.Capital.County.GetAdjective]ñêèé ãîñïèòàëü â îáìåí íà íåáîëüøîå ïîæåðòâîâàíèå íà áëàãî ñâÿòîé âåðû.;;x
+worship_cooldown_tooltip;Has not performed a sacrifice to the ancestors in the last 10 years.;;;;;;;;;;;Æåðòâà ïðåäêàì íå ïðèíîñèëàñü â ïîñëåäíèå 10 ëåò.;;x
+tooltip_obj_see_the_realm_prosper;Has ruled the realm in peace for §Y5 years§!;;;;;;;;;;;Ìèð â ñòðàíå íà ïðîòÿæåíèè §Y5òè ëåò§!;;x

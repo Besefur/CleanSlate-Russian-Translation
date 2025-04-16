@@ -1,161 +1,119 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
 # job_steward.txt
-
 #########################
 #
 #	Steward events
 #
 #########################
-
 # The Steward collects a tithe and sends it to his liege
-evt_steward_001_title;Special Tithe Collected;;;;;;;;;;;;;x
-evt_steward_001_desc_a;I have successfully collected a tithe in [Root.Location.GetName];;;;;;;;;;;;;x
-evt_steward_001_option_a;Good! Send it back to my liege;;;;;;;;;;;;;x
-evt_steward_001_option_a_tooltip;The money and a letter is sent to my liege;;;;;;;;;;;;;x
-
+evt_steward_001_title;Special Tithe Collected;;;;;;;;;;;Cáîð îñîáîé äåñÿòèíû;;x
+evt_steward_001_desc_a;I have successfully collected a tithe in [Root.Location.GetName];;;;;;;;;;;ß óñïåøíî ñîáðàë äåñÿòèíó â [Root.Location.GetName];;x
+evt_steward_001_option_a;Good! Send it back to my liege;;;;;;;;;;;Íàäî ïîñêîðåå äîëîæèòü îá ýòîì!;;x
+evt_steward_001_option_a_tooltip;The money and a letter is sent to my liege;;;;;;;;;;;Ñîîáùèòü ñþçåðåíó;;x
 # The liege is informed
-evt_steward_002_desc_a;Your [Root.GetMyTreasurerName], [From.GetTitledFirstNameNoRegnal], has collected a special tithe in §Y[From.Location.GetName]§!.;;;;;;;;;;;;;x
-evt_steward_002_option_a;Excellent news!;;;;;;;;;;;;;x
-
-
+evt_steward_002_desc_a;Your [Root.GetMyTreasurerName], [From.GetTitledFirstNameNoRegnal], has collected a special tithe in §Y[From.Location.GetName]§!.;;;;;;;;;;;Âàø [Root.GetMyTreasurerName] [From.GetTitledFirstNameNoRegnal] ñîáðàë[From.GetEndA] îñîáûé íàëîã â îêðóãå §Y[From.Location.GetName]§!.;;x
+evt_steward_002_option_a;Excellent news!;;;;;;;;;;;Îòëè÷íûå íîâîñòè!;;x
 # The peasants attempt to kill the Steward (Gets away, is wounded, is killed)
-evt_steward_101_title;Peasants Attack the Steward;;;;;;;;;;;;;x
-evt_steward_101_desc_a;A mob of angry peasants, aggravated by the harsh taxes I've been enforcing in [Root.Location.GetName], is trying to break into the inn where I'm staying!;;;;;;;;;;;;;x
-evt_steward_101_option;Will I escape with my life?;;;;;;;;;;;;;x
-evt_steward_101_option_tooltip_1;[Root.GetTitledName] gets away;;;;;;;;;;;;;x
-evt_steward_101_option_tooltip_2;[Root.GetTitledName] gets wounded;;;;;;;;;;;;;x
-
+evt_steward_101_title;Peasants Attack the Steward;;;;;;;;;;;Kðåñòüÿíå íàïàëè íà ñîâåòíèêà;;x
+evt_steward_101_desc_a;A mob of angry peasants, aggravated by the harsh taxes I've been enforcing in [Root.Location.GetName], is trying to break into the inn where I'm staying!;;;;;;;;;;;Òîëïà ðàçãíåâàííûõ êðåñòüÿí, âîçìóù¸ííûõ ñóðîâûìè íàëîãàìè, óñòàíîâëåííûìè ìíîé â îêðóãå [Root.Location.GetName], ïûòàåòñÿ âîðâàòüñÿ â òàâåðíó, â êîòîðîé ÿ îñòàíîâèëñÿ!;;x
+evt_steward_101_option;Will I escape with my life?;;;;;;;;;;;Ñìîãó ëè ÿ ñïàñòè ñâîþ æèçíü?;;x
+evt_steward_101_option_tooltip_1;[Root.GetTitledName] gets away;;;;;;;;;;;[Root.GetTitledName] óáåãàåò;;x
+evt_steward_101_option_tooltip_2;[Root.GetTitledName] gets wounded;;;;;;;;;;;[Root.GetTitledName] ðàíåí;;x
 # Steward gets away
-evt_steward_102_desc_a;I managed to flee the angry peasants by borrowing a cloak from the innkeeper and slipping out through a side entrance.;;;;;;;;;;;;;x
-evt_steward_102_option_a;My prestige however did not go unscathed by the incident...;;;;;;;;;;;;;x
-
+evt_steward_102_desc_a;I managed to flee the angry peasants by borrowing a cloak from the innkeeper and slipping out through a side entrance.;;;;;;;;;;;Ìíå óäàëîñü ñáåæàòü îò ðàçãíåâàííûõ êðåñòüÿí, çàèìñòâóÿ ïëàù õîçÿèíà òàâåðíû è âûñêîëüçíóâ ÷åðåç áîêîâîé âõîä.;;x
+evt_steward_102_option_a;My prestige however did not go unscathed by the incident...;;;;;;;;;;;Ìîé ïðåñòèæ, îäíàêî, áóäåò ïîäîðâàí ïîñëå ýòîãî èíöèäåíòà...;;x
 # Steward gets wounded
-evt_steward_103_desc_a;I did manage to survive the peasants attacking me, but the incident has left me severely wounded.;;;;;;;;;;;;;x
-evt_steward_103_option_a;I thank [Root.Religion.GetRandomGodName] for saving me!;;;;;;;;;;;;;x
-evt_steward_103_option_a_tooltip;I must send a letter to inform my liege;;;;;;;;;;;;;x
-
+evt_steward_103_desc_a;I did manage to survive the peasants attacking me, but the incident has left me severely wounded.;;;;;;;;;;;Ìíå óäàëîñü âûæèòü ïîñëå íàïàäåíèÿ êðåñòüÿí, íî ýòîò èíöèäåíò îñòàâèò ìåíÿ êàëåêîé.;;x
+evt_steward_103_option_a;I thank [Root.Religion.GetRandomGodName] for saving me!;;;;;;;;;;;[Root.Religion.GetRandomGodName], áëàãîäàðþ çà ìî¸ ñïàñåíèå!;;x
+evt_steward_103_option_a_tooltip;I must send a letter to inform my liege;;;;;;;;;;;ß äîëæåí îòïðàâèòü ïèñüìî ìîåìó ñþçåðåíó;;x
 # Inform the Liege about wounding
-evt_steward_104_desc_a;Your [Root.GetMyTreasurerName], [From.GetTitledFirstNameNoRegnal], was wounded by angry peasants while collecting taxes in §Y[From.Location.GetName]§!!;;;;;;;;;;;;;x
-evt_steward_104_option_a;How dare they!;;;;;;;;;;;;;x
-
+evt_steward_104_desc_a;Your [Root.GetMyTreasurerName], [From.GetTitledFirstNameNoRegnal], was wounded by angry peasants while collecting taxes in §Y[From.Location.GetName]§!!;;;;;;;;;;;Âàø [Root.GetMyTreasurerName] [From.GetTitledFirstNameNoRegnal] áûë[From.GetEndA] òÿæåëî ðàíåí[From.GetEndA], ïûòàÿñü ñîáðàòü îñîáûé íàëîã â îêðóãå §Y[From.Location.GetName]§!!;;x
+evt_steward_104_option_a;How dare they!;;;;;;;;;;;Êàê îíè ñìåþò!;;x
 # Inform the Liege about death
-evt_steward_105_desc_a;Your [Root.GetMyTreasurerName], [From.GetTitledName], was killed by a mob of angry peasants while trying to collect the extra taxes you had ordered.;;;;;;;;;;;;;x
-evt_steward_105_option_a;Horrible!;;;;;;;;;;;;;x
-
-
+evt_steward_105_desc_a;Your [Root.GetMyTreasurerName], [From.GetTitledName], was killed by a mob of angry peasants while trying to collect the extra taxes you had ordered.;;;;;;;;;;;Âàø [Root.GetMyTreasurerName] [From.GetTitledFirstName] áûë[From.GetEndA] óáèò[From.GetEndA] ðàçúÿð¸ííîé òîëïîé, ïûòàÿñü ñîáðàòü îñîáûé íàëîã.;;x
+evt_steward_105_option_a;Horrible!;;;;;;;;;;;Óæàñíî!;;x
 # Increased revolt risk
-evt_steward_201_desc_a;My efforts to squeeze some extra taxes out of the population of [Root.Location.GetName] have met with resistance, and the peasants are arming themselves. I fear we might have a revolt on our hands here soon.;;;;;;;;;;;;;x
-evt_steward_201_option_a;My liege will not like this...;;;;;;;;;;;;;x
-
+evt_steward_201_desc_a;My efforts to squeeze some extra taxes out of the population of [Root.Location.GetName] have met with resistance, and the peasants are arming themselves. I fear we might have a revolt on our hands here soon.;;;;;;;;;;;Ìîè ïîïûòêè âûæàòü äîïîëíèòåëüíûå íàëîãè èç íàñåëåíèÿ [Root.Location.GetName] âñòðåòèëè ñîïðîòèâëåíèå, è êðåñòüÿíå ïîâñåìåñòíî âîîðóæàþòñÿ. ß áîþñü, ÷òî â áëèæàéøåì âðåìåíè çäåñü âñïûõíåò âîññòàíèå.;;x
+evt_steward_201_option_a;My liege will not like this...;;;;;;;;;;;Ìîåìó ñþçåðåíó ýòî íå ïîíðàâèòñÿ...;;x
 # Inform province lords
-evt_steward_202_desc_a;News of unrest in [From.Location.GetName]! The Steward of [From.Liege.PrimaryTitle.GetName] have been trying to squeeze some extra taxes out of the population, but the peasants have been resisting and are now arming themselves.;;;;;;;;;;;;;x
-evt_steward_202_option_a;Most worrisome...;;;;;;;;;;;;;x
-
+evt_steward_202_desc_a;News of unrest in [From.Location.GetName]! The Steward of [From.Liege.PrimaryTitle.GetName] have been trying to squeeze some extra taxes out of the population, but the peasants have been resisting and are now arming themselves.;;;;;;;;;;;Íîâîñòè î áåñïîðÿäêàõ â îêðóãå [From.Location.GetName]! [From.Liege.GetTreasurerName] [From.Liege.PrimaryTitle.GetName] ïûòàëñÿ âûæàòü äîïîëíèòåëüíûå íàëîãè èç íàñåëåíèÿ, íî êðåñòüÿíå îêàçàëè ñîïðîòèâëåíèå è òåïåðü ïîâñåìåñòíî âîîðóæàþòñÿ.;;x
+evt_steward_202_option_a;Most worrisome...;;;;;;;;;;;Î÷åíü òðåâîæíî...;;x
 # Inform liege
-evt_steward_203_desc_a;My liege, I write to you with bad news from [From.Location.GetName]. My efforts to squeeze some extra taxes out of the population have met with resistance, and the peasants are arming themselves. I fear we might have a revolt on our hands here soon.\n\nYour humble steward,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_steward_203_option_a;These troublesome peasants...;;;;;;;;;;;;;x
-
-
+evt_steward_203_desc_a;My liege, I write to you with bad news from [From.Location.GetName]. My efforts to squeeze some extra taxes out of the population have met with resistance, and the peasants are arming themselves. I fear we might have a revolt on our hands here soon.\n\nYour humble steward,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ÿ ïèøó ê Âàì ñ ïëîõîé íîâîñòüþ èç [From.Location.GetName]. Ìîè ïîïûòêè âûæàòü äîïîëíèòåëüíûå íàëîãè èç íàñåëåíèÿ âñòðåòèëè ñîïðîòèâëåíèå, è êðåñòüÿíå ïîâñåìåñòíî âîîðóæàþòñÿ. ß áîþñü, â áëèæàéøåì âðåìåíè çäåñü âñïûõíåò âîññòàíèå.\n\nÂàø âåðíûé [Root.GetTreasurerName],\n[From.GetTitledName];;x
+evt_steward_203_option_a;These troublesome peasants...;;;;;;;;;;;Ýòî ïðîáëåìû êðåñòüÿí...;;x
 # Good Master Builder
-evt_steward_301_title;Meets Master Builder;;;;;;;;;;;;;x
-evt_steward_301_desc_a;During my mission to oversee constructions in [Root.Location.GetName] I happened to meet a Master Builder. He had a vast experience and was more than happy to teach me many things about constructing buildings.;;;;;;;;;;;;;x
-evt_steward_301_option_a;This will further my career;;;;;;;;;;;;;x
-evt_steward_301_option_a_tooltip;Send a letter to my liege;;;;;;;;;;;;;x
-
+evt_steward_301_title;Meets Master Builder;;;;;;;;;;;Cîîáùàåò çîä÷èé;;x
+evt_steward_301_desc_a;During my mission to oversee constructions in [Root.Location.GetName] I happened to meet a Master Builder. He had a vast experience and was more than happy to teach me many things about constructing buildings.;;;;;;;;;;;Íàáëþäàÿ çà ñòðîèòåëüñòâîì â îêðóãå [Root.Location.GetName], ìíå óäàëîñü âñòðåòèòü óìåëîãî àðõèòåêòîðà. Îí ñîãëàñèëñÿ ïîäåëèòüñÿ ñî ìíîé ñâîèìè çíàíèÿìè.;;x
+evt_steward_301_option_a;This will further my career;;;;;;;;;;;Ýòî ñïîñîáñòâóåò ìîåé êàðüåðå.;;x
+evt_steward_301_option_a_tooltip;Send a letter to my liege;;;;;;;;;;;Îòïðàâèòü ïèñüìî ìîåìó ñþçåðåíó;;x
 # Liege gets a letter
-evt_steward_302_desc_a;My liege, the construction work being done in [From.Location.GetName] is coming along well under the meticulous eyes of a Master Builder, who has taken me under his wing and is teaching me all he knows about constructing buildings. This knowledge will greatly help me in my work.\n\nYour humble Steward,\n[From.GetTitledName];;;;;;;;;;;;;x
-
-
+evt_steward_302_desc_a;My liege, the construction work being done in [From.Location.GetName] is coming along well under the meticulous eyes of a Master Builder, who has taken me under his wing and is teaching me all he knows about constructing buildings. This knowledge will greatly help me in my work.\n\nYour humble Steward,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ñòðîèòåëüñòâî â îêðóãå [From.Location.GetName] èä¸ò ïîä òùàòåëüíûì ïðèñìîòðîì óìåëîãî àðõèòåêòîðà, êîòîðûé âçÿë ìåíÿ ïîä ñâî¸ êðûëî è ó÷èò âñåì ïðåìóäðîñòÿì ñâîåãî äåëà. Ýòè çíàíèÿ î÷åíü ïîìîãóò ìíå â ðàáîòå.\n Âàø [Root.GetTreasurerName],\n  [From.GetTitledName];;x
 # Sabotage
-evt_steward_401_title;Construction Sabotage;;;;;;;;;;;;;x
-evt_steward_401_desc_a;The construction of a building in [Root.Location.GetName] is coming along fine. There is nothing much for me to do here.;;;;;;;;;;;;;x
-evt_steward_401_option_a;Nothing at all to worry about then I guess?;;;;;;;;;;;;;x
-evt_steward_401_option_a_tooltip;A local noble is disturbed by the building;;;;;;;;;;;;;x
-
+evt_steward_401_title;Construction Sabotage;;;;;;;;;;;Càáîòàæ ñòðîèòåëüñòâà;;x
+evt_steward_401_desc_a;The construction of a building in [Root.Location.GetName] is coming along fine. There is nothing much for me to do here.;;;;;;;;;;;Ñòðîèòåëüñòâî çäàíèÿ â îêðóãå [Root.Location.GetName] áëèçèòñÿ ê êîíöó. Çäåñü íå îñòàëîñü íè÷åãî îñîáåííîãî äëÿ ìåíÿ.;;x
+evt_steward_401_option_a;Nothing at all to worry about then I guess?;;;;;;;;;;;Íèêàêèõ ïðè÷èí äëÿ áåñïîêîéñòâà, ÿ òàê ïîíèìàþ?;;x
+evt_steward_401_option_a_tooltip;A local noble is disturbed by the building;;;;;;;;;;;Ìåñòíûé äâîðÿíèí âñòðåâîæåí ñòðîèòåëüñòâîì;;x
 # Noble sabotages building
-evt_steward_402_desc_a;I have learned that the Steward of [From.Liege.GetTitledName] is visiting [From.Location.GetName] to oversee the construction of new buildings there. As I have never liked [From.Liege.GetTitledName] maybe I should take this opportunity to give him a little sting by sabotaging the Steward's work?;;;;;;;;;;;;;x
-evt_steward_402_option_a;This time I will make [From.Liege.GetHerHim] pay!;;;;;;;;;;;;;x
-evt_steward_402_option_a_tooltip;Sabotage the construction work;;;;;;;;;;;;;x
-evt_steward_402_option_b;I would never do such a thing;;;;;;;;;;;;;x
-
+evt_steward_402_desc_a;I have learned that the Steward of [From.Liege.GetTitledName] is visiting [From.Location.GetName] to oversee the construction of new buildings there. As I have never liked [From.Liege.GetTitledName] maybe I should take this opportunity to give him a little sting by sabotaging the Steward's work?;;;;;;;;;;;ß óçíàë, ÷òî [From.Liege.GetTreasurerName] [From.Liege.GetTitledName] íàïðàâëåí â îêðóãå [From.Location.GetName] äëÿ íàáëþäåíèÿ çà ñòðîèòåëüñòâîì íîâûõ çäàíèé. Òàê êàê ÿ âñåãäà íåäîëþáëèâàë [From.Liege.GetHersHis], ìîæåò áûòü, ÿ äîëæåí âîñïîëüçîâàòüñÿ ýòîé âîçìîæíîñòüþ, ÷òîáû íàñîëèòü [From.Liege.GetGerHim], ñàáîòèðóÿ ðàáîòó ñîâåòíèêà?;;x
+evt_steward_402_option_a;This time I will make [From.Liege.GetHerHim] pay!;;;;;;;;;;;Íà ýòîò ðàç ÿ çàñòàâëþ [From.Liege.GetHerHim] ïîïëàòèòüñÿ!;;x
+evt_steward_402_option_a_tooltip;Sabotage the construction work;;;;;;;;;;;Ñàáîòàæ ñòðîèòåëüíûõ ðàáîò;;x
+evt_steward_402_option_b;I would never do such a thing;;;;;;;;;;;ß íèêîãäà áû íå ñäåëàë ïîäîáíûõ âåùåé;;x
 # Sabotage!
-evt_steward_403_desc_a;The construction of buildings being done in [Root.Location.GetName] has had more misfortunes than any other construction I have overseen. The building material was of a much more inferior sort than the one ordered and so the roof collapsed under its weight, and the workers have been injured in a number of suspicious accidents...;;;;;;;;;;;;;x
-evt_steward_403_option_a;I have to inform my liege about this!;;;;;;;;;;;;;x
-evt_steward_403_option_a_tooltip;Send a letter to [Root.Liege.GetTitledName];;;;;;;;;;;;;x
-
+evt_steward_403_desc_a;The construction of buildings being done in [Root.Location.GetName] has had more misfortunes than any other construction I have overseen. The building material was of a much more inferior sort than the one ordered and so the roof collapsed under its weight, and the workers have been injured in a number of suspicious accidents...;;;;;;;;;;;Ïðè ñòðîèòåëüñòâå çäàíèé â îêðóãå [Root.Location.GetName] áûëî áîëüøå íåñ÷àñòíûõ ñëó÷àåâ, ÷åì çà ëþáîå äðóãîå ñòðîèòåëüñòâî ïîä ìîèì íàáëþäåíèåì. Ñòðîèòåëüíûé ìàòåðèàë áûë ãîðàçäî áîëåå õóäøåãî êà÷åñòâà, ÷åì òîò, êîòîðûé áûë çàêàçàí, ïîýòîìó êðûøà ðóõíóëà ïîä åãî òÿæåñòüþ. Íåñêîëüêî ðàáî÷èõ ïîãèáëè. Î÷åíü ïîäîçðèòåëüíûé íåñ÷àñòíûé ñëó÷àé...;;x
+evt_steward_403_option_a;I have to inform my liege about this!;;;;;;;;;;;ß äîëæåí ñîîáùèòü ìîåìó ñþçåðåíó îá ýòîì!;;x
+evt_steward_403_option_a_tooltip;Send a letter to [Root.Liege.GetTitledName];;;;;;;;;;;Îòïðàâèòü ïèñüìî. Àäðåñàò — [Root.Liege.GetTitledName];;x
 # The liege is informed
-evt_steward_404_desc_a;My liege, the construction of the building in [From.Location.GetName] is not going well. There has been numerous accidents that will delay the construction of the building, but I have good hopes of it being finished not too long after its planned finish date.\n\nYour humble Steward,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_steward_404_option_a;Is there nothing we can do? No?;;;;;;;;;;;;;x
-
+evt_steward_404_desc_a;My liege, the construction of the building in [From.Location.GetName] is not going well. There has been numerous accidents that will delay the construction of the building, but I have good hopes of it being finished not too long after its planned finish date.\n\nYour humble Steward,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ñòðîèòåëüñòâî çäàíèÿ â [From.Location.GetName] èä¸ò íå î÷åíü õîðîøî. Ïðîèçîøëî ìíîæåñòâî àâàðèé, êîòîðûå ïðèâåäóò ê çàäåðæêå ñòðîèòåëüñòâà çäàíèÿ, íî ó ìåíÿ åñòü íàäåæäà, ÷òî îíî áóäåò çàâåðøåíî íå ñëèøêîì ïîçäíî îò çàïëàíèðîâàííîé äàòû îêîí÷àíèÿ.\n\nÂàø âåðíûé [Root.GetTreasurerName],\n[From.GetTitledFirstName];;x
+evt_steward_404_option_a;Is there nothing we can do? No?;;;;;;;;;;;Ìû íè÷åãî íå ñìîæåì ïîäåëàòü? Íåò?;;x
 # Spymaster finds out who's behind the sabotage
-evt_steward_405_desc_a;I have found out who is behind the resent sabotage to my liege's building projects in [FromFrom.Location.GetName]. None other than [From.GetTitledName]!;;;;;;;;;;;;;x
-evt_steward_405_option_a;I must inform my liege about this.;;;;;;;;;;;;;x
-evt_steward_405_option_a_tooltip;Send a letter to my liege;;;;;;;;;;;;;x
-
+evt_steward_405_desc_a;I have found out who is behind the resent sabotage to my liege's building projects in [FromFrom.Location.GetName]. None other than [From.GetTitledName]!;;;;;;;;;;;ß óçíàë, êòî ñòîèò çà îðãàíèçàöèåé ñàáîòàæà ñòðîèòåëüíîãî ïðîåêòà ìîåãî ñþçåðåíà â [FromFrom.Location.GetName]. Íèêòî èíîé, êàê [From.GetTitledFirstName]!;;x
+evt_steward_405_option_a;I must inform my liege about this.;;;;;;;;;;;ß äîëæåí ñîîáùèòü ìîåìó ñþçåðåíó îá ýòîì!;;x
+evt_steward_405_option_a_tooltip;Send a letter to my liege;;;;;;;;;;;Îòïðàâèòü ïèñüìî ìîåìó ñþçåðåíó;;x
 # The liege is informed by his spymaster who is behind the sabotage
-evt_steward_406_desc_a;My liege, I have looked into the troubling matter of the recent sabotage in [FromFrom.Location.GetName], and I have learned who is behind it all. None other than [FromFrom.GetTitledName]! I leave it up to you to deal with [FromFrom.GetHerHim] in a appropriate way.\n\nYour humble Spymaster,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_steward_406_option_a;That evil, backstabbing bastard!;;;;;;;;;;;;;x
-evt_steward_406_option_b;I will let it slip. This time...;;;;;;;;;;;;;x
-
-
+evt_steward_406_desc_a;My liege, I have looked into the troubling matter of the recent sabotage in [FromFrom.Location.GetName], and I have learned who is behind it all. None other than [FromFrom.GetTitledName]! I leave it up to you to deal with [FromFrom.GetHerHim] in a appropriate way.\n\nYour humble Spymaster,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ÿ èçó÷èë íþàíñû ïîñëåäíèõ äèâåðñèé â îêðóãå [FromFrom.Location.GetName], è ðàçóçíàë, êòî ñòîèò çà âñåì ýòèì. Íèêòî èíîé, êàê [FromFrom.GetTitledName]! ß äîíîøó ýòî äî Âàñ, ÷òîáû óäîñòîâåðèòñÿ, ÷òî äåëî ñ [FromFrom.GetHerHim] áóäåò çàâåðøåíî ñîîòâåòñòâóþùèì îáðàçîì.\n\nÂàø âåðíûé øïèîí,\n[From.GetTitledFirstName];;x
+evt_steward_406_option_a;That evil, backstabbing bastard!;;;;;;;;;;;Ýòîò çëîé, âåðîëîìíûé óáëþäîê!;;x
+evt_steward_406_option_b;I will let it slip. This time...;;;;;;;;;;;ß ïðîùó ýòî. Íà ýòîò ðàç...;;x
 # The Steward has settled the tribe
-evt_steward_501_title;Tribe Settled;;;;;;;;;;;;;x
-evt_steward_501_desc_a;My efforts to settle our tribe in [Root.Location.GetName] have met with success! My liege will be pleased!;;;;;;;;;;;;;x
-evt_steward_501_option_a;[Root.Liege.Culture.GetName] ways are superior.;;;;;;;;;;;;;x
-
+evt_steward_501_title;Tribe Settled;;;;;;;;;;;Pàññåëåíèå ïëåìåíè;;x
+evt_steward_501_desc_a;My efforts to settle our tribe in [Root.Location.GetName] have met with success! My liege will be pleased!;;;;;;;;;;;Ìîè óñèëèÿ ïî ðàññåëåíèþ ïëåìåíè â [Root.Location.County.GetAdjective]ñêèõ çåìëÿõ óâåí÷àëèñü óñïåõîì!;;x
+evt_steward_501_option_a;[Root.Liege.Culture.GetName] ways are superior.;;;;;;;;;;;[Root.Liege.GetCultureAdj]èå îáû÷àè âîçîáëàäàþò.;;x
 # The liege is informed
-evt_steward_502_desc_a;My [Root.GetMyTreasurerName], [From.GetTitledFirstName], is pleased to report that [From.Location.GetName] has been settled with many good [Root.Culture.GetName] families. The locals, though initially resistant, have started to adopt our language and customs!;;;;;;;;;;;;;x
-evt_steward_502_option_a;[From.GetFirstName] is always reliable.;;;;;;;;;;;;;x
-
-
+evt_steward_502_desc_a;My [Root.GetMyTreasurerName], [From.GetTitledFirstName], is pleased to report that [From.Location.GetName] has been settled with many good [Root.Culture.GetName] families. The locals, though initially resistant, have started to adopt our language and customs!;;;;;;;;;;;[Root.GetMyTreasurerName] ñ ðàäîñòüþ ñîîáùàåò, ÷òî [From.Location.GetName] çàñåëÿåòñÿ [Root.GetCultureAdj]èìè ëþäüìè. Ìåñòíûå, õîòÿ è ñîïðîòèâëÿþòñÿ, íî ïîñòåïåííî ïåðåíèìàþò íàø ÿçûê è îáû÷àè!;;x
+evt_steward_502_option_a;[From.GetFirstName] is always reliable.;;;;;;;;;;;Íà í[From.GetHersHis] âñåãäà ìîæíî ïîëîæèòüñÿ.;;x
 # The Steward is attacked and wounded
-evt_steward_601_title;[Root.GetMyTreasurerName] Wounded;;;;;;;;;;;;;x
-evt_steward_601_desc_a;The locals in [Root.Location.GetName], angered by the increasing numbers of [Root.Liege.Culture.GetName] settlers, stormed my house and almost killed me! I took a wound in the shoulder fighting for my life!;;;;;;;;;;;;;x
-evt_steward_601_option_a;I can't say I blame them...;;;;;;;;;;;;;x
-
+evt_steward_601_title;[Root.GetMyTreasurerName] Wounded;;;;;;;;;;;Pàíåí [Root.GetMyTreasurerName];;x
+evt_steward_601_desc_a;The locals in [Root.Location.GetName], angered by the increasing numbers of [Root.Liege.Culture.GetName] settlers, stormed my house and almost killed me! I took a wound in the shoulder fighting for my life!;;;;;;;;;;;"[Root.Location.County.GetAdjective]ñêèå æèòåëè, âîçìóù¸ííûå ""ïîíàåõàâøèìè"" [Root.Liege.GetCultureAdj]èìè ïîñåëåíöàìè, âëîìèëèñü â ìîé äîì è ÷óòü íå óáèëè ìåíÿ! Â ïûëó ñõâàòêè îíè ïîâðåäèëè ìíå ïëå÷î.";;x
+evt_steward_601_option_a;I can't say I blame them...;;;;;;;;;;;Íå ìîãó ñêàçàòü, ÷òî âèíþ èõ çà ýòî...;;x
 # The liege is informed
-evt_steward_602_desc_a;My [Root.GetMyTreasurerName], [From.GetTitledFirstName], has been stabbed and wounded by the locals in [From.Location.GetName], who are fiercely resisting our settlers.;;;;;;;;;;;;;x
-evt_steward_602_option_a;Such is to be expected...;;;;;;;;;;;;;x
-
-
+evt_steward_602_desc_a;My [Root.GetMyTreasurerName], [From.GetTitledFirstName], has been stabbed and wounded by the locals in [From.Location.GetName], who are fiercely resisting our settlers.;;;;;;;;;;;[Root.GetMyTreasurerName], [From.GetTitledFirstName], ñîîáùàåò, ÷òî íà í[From.GetHersHis] íàïàëè è ðàíèëè [From.Location.County.GetAdjective]ñêèå æèòåëè, êîòîðûå îò÷àÿííî ñîïðîòèâëÿþòñÿ íàøèì ïîñåëåíöàì.;;x
+evt_steward_602_option_a;Such is to be expected...;;;;;;;;;;;Ïîäîáíîãî ñëåäîâàëî îæèäàòü...;;x
 # The Steward has managed to raise an eager force of warriors
-evt_steward_701_title;Warriors Raised;;;;;;;;;;;;;x
-evt_steward_701_desc_a;My efforts at building the legend of [Root.Liege.GetTitledFirstName] have met with great success. Bands of warriors has converged at [Root.Location.Capital.GetName] lusting for plunder and glory!;;;;;;;;;;;;;x
-evt_steward_701_option_a;My [Root.Liege.PrimaryTitle.GetRulerTitle] will be pleased!;;;;;;;;;;;;;x
-
+evt_steward_701_title;Warriors Raised;;;;;;;;;;;Bîèíû ñîáèðàþòñÿ;;x
+evt_steward_701_desc_a;My efforts at building the legend of [Root.Liege.GetTitledFirstName] have met with great success. Bands of warriors has converged at [Root.Location.Capital.GetName] lusting for plunder and glory!;;;;;;;;;;;Ìîè óñèëèÿ ïî ñîçäàíèþ ëåãåíäû óâåí÷àëèñü óñïåõîì. Õðàáðûå âîèíû, æàæäóùèå áîãàòñòâà è ñëàâû, ñîáèðàþòñÿ â [Root.Location.County.GetAdjective]ñêèõ çåìëÿõ!;;x
+evt_steward_701_option_a;My [Root.Liege.PrimaryTitle.GetRulerTitle] will be pleased!;;;;;;;;;;;Ïðåâîñõîäíî!;;x
 # The liege is informed
-evt_steward_702_desc_a;My [Root.GetMyTreasurerName], [From.GetTitledFirstName], tells me that [From.GetPossPronoun] efforts at praising my name and deeds have met with great success! A small army of warriors have converged at [Root.Capital.Capital.GetName] ready to serve me. I just need to make sure they have someone to fight - within a year - lest they become... troublesome.;;;;;;;;;;;;;x
-evt_steward_702_option_a;Splendid!;;;;;;;;;;;;;x
-
+evt_steward_702_desc_a;My [Root.GetMyTreasurerName], [From.GetTitledFirstName], tells me that [From.GetPossPronoun] efforts at praising my name and deeds have met with great success! A small army of warriors have converged at [Root.Capital.Capital.GetName] ready to serve me. I just need to make sure they have someone to fight - within a year - lest they become... troublesome.;;;;;;;;;;;[Root.GetMyTreasurerName] [From.GetTitledFirstName] ñîîáùèë[From.GetEndA] ìíå, ÷òî [From.GetAbsPossPronoun] óñèëèÿ ïî ïðîñëàâëåíèþ ìîåãî èìåíè è âåëèêèõ ñâåðøåíèé óâåí÷àëèñü óñïåõîì! Íåáîëüøîå âîéñêî, ãîòîâîå ñëóæèòü ìíå âåðîé è ïðàâäîé, ñîáðàëîñü â îêðåñòíîñòÿõ ãîðîäà [Root.Capital.Capital.GetShortBaseName]. Íóæíî òîëüêî íàéòè èì ïîäõîäÿùåãî âðàãà â òå÷åíèå ãîäà, èíà÷å îíè ñòàíóò... ïðîáëåìîé.;;x
+evt_steward_702_option_a;Splendid!;;;;;;;;;;;Ïðåêðàñíî!;;x
 # The men are displeased and disband
-evt_steward_703_desc_a;The warriors my [Root.GetMyTreasurerName] raised to fight for my glory have become disillusioned by my effeminate pacifism and have gone home in disgust, causing me a great loss of face.;;;;;;;;;;;;;x
-evt_steward_703_option_a;Curse them!;;;;;;;;;;;;;x
-
-
+evt_steward_703_desc_a;The warriors my [Root.GetMyTreasurerName] raised to fight for my glory have become disillusioned by my effeminate pacifism and have gone home in disgust, causing me a great loss of face.;;;;;;;;;;;Âîèíû, êîòîðûõ ðàíåå ïðèçâàë ìîé [Root.GetMyTreasurerName], ÷òîáû ñðàæàòüñÿ âî ñëàâó ìîåãî èìåíè, ðàçî÷àðîâàëèñü âî ìíå. Îáâèíèâ ìåíÿ â òðóñîñòè è ñëàáîñòè, ñ ïðåçðåíèåì è îòâðàùåíèåì îíè ðàçîøëèñü ïî äîìàì. Èíöèäåíò èçðÿäíî ïîäïîðòèë ìîþ ðåïóòàöèþ.;;x
+evt_steward_703_option_a;Curse them!;;;;;;;;;;;Äèêàðè òóïîãîëîâûå!;;x
 # The Steward demands extra funds from the ruler
-evt_steward_801_title;Extra Contributions;;;;;;;;;;;;;x
-evt_steward_801_desc_a;My liege, [Root.Liege.GetTitledFirstName] has charged me with collecting extra tribute from [tribute_giver.GetTitledName]. It has not been easy going through [tribute_giver.GetPossPronoun] finances, but I finally know how much I should demand...;;;;;;;;;;;;;x
-evt_steward_801_option_a;Present my demand;;;;;;;;;;;;;x
-evt_steward_801_option_b;I should procratinate...;;;;;;;;;;;;;x
-
+evt_steward_801_title;Extra Contributions;;;;;;;;;;;Eù¸ áîëüøå äàíè;;x
+evt_steward_801_desc_a;My liege, [Root.Liege.GetTitledFirstName] has charged me with collecting extra tribute from [tribute_giver.GetTitledName]. It has not been easy going through [tribute_giver.GetPossPronoun] finances, but I finally know how much I should demand...;;;;;;;;;;;Ìîé ñþçåðåí, [Root.Liege.GetTitledFirstName], ãîâîðèò, ÷òî [Root.Liege.GetHersHis] íå óñòðàèâàåò ðàçìåð äàíè, êîòîðóþ âûïëà÷èâàåò [Root.Liege.GetHerHim] [tribute_giver.GetTitledName]. Ìíå ïîðó÷åíî óâåëè÷èòü ýòîò ñáîð, îäíàêî ýòî áóäåò íåëåãêî...;;x
+evt_steward_801_option_a;Present my demand;;;;;;;;;;;Ïðåäúÿâèòü òðåáîâàíèÿ.;;x
+evt_steward_801_option_b;I should procratinate...;;;;;;;;;;;Åù¸ íå âðåìÿ...;;x
 # Ruler response event
-evt_steward_802_desc_a;The [GetRootFromInsult], [From.GetTitledFirstName], is here demanding extra 'contributions' on behalf of [From.Liege.GetTitledName]!;;;;;;;;;;;;;x
-evt_steward_802_option_a;Accept the demand;;;;;;;;;;;;;x
-evt_steward_802_option_b;Refuse. Consequences be damned!;;;;;;;;;;;;;x
-
+evt_steward_802_desc_a;The [GetRootFromInsult], [From.GetTitledFirstName], is here demanding extra 'contributions' on behalf of [From.Liege.GetTitledName]!;;;;;;;;;;;"Ýò[From.GetEtaEtot] [GetRootFromInsult] [From.GetTitledFirstName] òðåáóåò ""äîïîëíèòåëüíóþ"" äàíü, ññûëàÿñü íà òî, ÷òî èíèöèàòîðîì ýòîãî ÿâëÿåòñÿ íåïîñðåäñòâåííî [From.Liege.GetTitledName], è â ñëó÷àå îòêàçà áóäóò ""ïîñëåäñòâèÿ""!";;x
+evt_steward_802_option_a;Accept the demand;;;;;;;;;;;Ïðèä¸òñÿ ñîãëàñèòüñÿ;;x
+evt_steward_802_option_b;Refuse. Consequences be damned!;;;;;;;;;;;Îòêàçàòü. Â ïåêëî ïîñëåäñòâèÿ!;;x
 # The target accepts to pay extra tribute. Steward notified.
-evt_steward_803_desc_a;[From.GetTitledFirstName] wisely - though reluctantly - accepted my demand for extra contributions to my liege, [Liege.GetTitledFirstName]. I fear this has hurt our relations, however...;;;;;;;;;;;;;x
-
+evt_steward_803_desc_a;[From.GetTitledFirstName] wisely - though reluctantly - accepted my demand for extra contributions to my liege, [Liege.GetTitledFirstName]. I fear this has hurt our relations, however...;;;;;;;;;;;[From.GetTitledFirstName] ìóäðî, õîòü è íåîõîòíî, ñîãëàøàåòñÿ ñ ìîèì òðåáîâàíèåì çàïëàòèòü äîïîëíèòåëüíóþ äàíü, êàê òîãî òðåáóåò ìîé ñþçåðåí [Liege.GetTitledFirstName]. Áîþñü, ýòî ñêàæåòñÿ íà íàøèõ îòíîøåíèÿõ...;;x
 # The target accepts to pay extra tribute. Liege notified.
-evt_steward_804_desc_a;My efficient [From.GetJobTitle], [From.GetTitledFirstName], has managed to squeeze some extra money out of [FromFrom.GetTitledName]. I fear [FromFrom.GetSubjectPronoun] is not too happy about it though...;;;;;;;;;;;;;x
-
+evt_steward_804_desc_a;My efficient [From.GetJobTitle], [From.GetTitledFirstName], has managed to squeeze some extra money out of [FromFrom.GetTitledName]. I fear [FromFrom.GetSubjectPronoun] is not too happy about it though...;;;;;;;;;;;[From.GetJobTitle] [From.GetFirstName] îáëàäàåò íåìàëûì òàëàíòîì, [From.GetHerHim] óäàëîñü âûòðÿñòè äëÿ ìåíÿ áîëüøå äåíåã - [FromFrom.GetTitledFirstName] âûïëàòèò äîïîëíèòåëüíóþ äàíü, íî íàâåðíÿêà òåïåðü òî÷èò çóá íà ìåíÿ...;;x
 # The target refuses to pay extra tribute. Steward notified.
-evt_steward_805_desc_a;[From.GetTitledFirstName] outrageously refused my demand for extra contributions to my liege, [Liege.GetTitledFirstName], claiming [From.GetSubjectPronoun] is under no such obligations!;;;;;;;;;;;;;x
-evt_steward_805_option_a;The [GetRootFromInsult]!;;;;;;;;;;;;;x
-
+evt_steward_805_desc_a;[From.GetTitledFirstName] outrageously refused my demand for extra contributions to my liege, [Liege.GetTitledFirstName], claiming [From.GetSubjectPronoun] is under no such obligations!;;;;;;;;;;;"[From.GetTitledFirstName] îòêàçûâàåòñÿ ïëàòèòü äîïîëíèòåëüíóþ äàíü ìîåìó ñþçåðåíó, óòâåðæäàÿ, ÷òî íå èìååò ïîäîáíûõ îáÿçàòåëüñòâ ïåðåä íàìè, è [From.GetHerHim] ""ïëåâàòü íà ïðèõîòè ñàìîäóðîâ, íå çàêðåïë¸ííûå äîãîâîðîì""!";;x
+evt_steward_805_option_a;The [GetRootFromInsult]!;;;;;;;;;;;[GetRootFromInsult]!;;x
 # The target refuses to pay extra tribute. Liege notified.
-evt_steward_806_desc_a;The [GetRootFromFromInsult], [FromFrom.GetTitledFirstName], outrageously refused to pay the extra tribute demanded by my [Root.GetTreasurerName], [From.GetTitledFirstName]!;;;;;;;;;;;;;x
-evt_steward_806_option_a;I shall not forget this...;;;;;;;;;;;;;x
-
-EVTTOOLTIP_20226;[tribute_giver.GetFirstName] responds to my demand.;;;;;;;;;;;;;x
+evt_steward_806_desc_a;The [GetRootFromFromInsult], [FromFrom.GetTitledFirstName], outrageously refused to pay the extra tribute demanded by my [Root.GetTreasurerName], [From.GetTitledFirstName]!;;;;;;;;;;;"[GetRootFromFromInsult] [FromFrom.GetTitledFirstName] îòêàçûâàåòñÿ ïëàòèòü äîïîëíèòåëüíóþ äàíü! Ìîé [Root.GetTreasurerName] ïåðåäàë [FromFrom.GetHersHis] ñëîâà î òîì, ÷òî [FromFrom.GetSheHe] ""íå èìååò ïîäîáíûõ îáÿçàòåëüñòâ"" ïåðåä íàìè, è [FromFrom.GetHerHim] ""ïëåâàòü íà ïðèõîòè ñàìîäóðîâ, íå çàêðåïë¸ííûå äîãîâîðîì""!";;x
+evt_steward_806_option_a;I shall not forget this...;;;;;;;;;;;ß ýòîãî íå çàáóäó...;;x
+EVTTOOLTIP_20226;[tribute_giver.GetFirstName] responds to my demand.;;;;;;;;;;;[tribute_giver.GetFirstName] îòâåòèò íà ìî¸ òðåáîâàíèå.;;x

@@ -1,62 +1,58 @@
-EVTDESC_WoL_7000_non_unref_pagan;There are many mysteries in the [Root.Religion.GetName] faith. It might be interesting to spend some time delving into the old texts of  [Root.Religion.GetScriptureName].;;;;;;;;;;;;;x
-EVTDESC_WoL_7000_unref_pagan;There are many mysteries in the [Root.Religion.GetName] faith. It might be interesting to listen more to the ancient stories told by the [Root.Religion.GetPriestTitle]s.;;;;;;;;;;;;;x
-EVTDESC_WoL_7001_non_unref_pagan;In the past few months, you have been spending many nights reading [Root.Religion.GetScriptureName]. The texts contain many items of wisdom and also give hints to the most important mysteries of [Root.Religion.GetRandomGodName].;;;;;;;;;;;;;x
-EVTDESC_WoL_7001_unref_pagan;In the past few months, you have spent many nights listening to the old myths and stories of the [Root.Religion.GetName] faith. The tales told of [Root.Religion.GetRandomGodName] are most inspiring and contain much wisdom that can help you in your daily life.;;;;;;;;;;;;;x
-EVTDESC_WoL_7012;Your dedication to religious pursuits has been noticed around the realm. Among others, it has quite impressed [target_priest.GetTitledName]. You have maintained correspondence on various religious and philosophical matters for some time, and find that you are rapidly becoming good friends.;;;;;;;;;;;;;x
-EVTDESC_WoL_7020;The holy site of [holy_site_visiting.GetName] is an important center of the [Root.Religion.GetName] faith. Many great religious events are celebrated there, and the spirit of [Root.Religion.GetRandomGodName] is said to permeate the entire area.;;;;;;;;;;;;;x
-EVTDESC_WoL_7021;Your visit to [holy_site_visiting.GetName] was certainly worth the time! You have wandered around in its sacred halls and pondered the atmosphere and the religious mysteries that lie hidden here.;;;;;;;;;;;;;x
-EVTDESC_WoL_7030;I live my life as other [Root.GetMenWomen] do, navigating its rocks and obstacles, doing my best to achieve success in my endeavours. Still, everything we do takes place in the light of [Root.Religion.GetRandomGodName], and we must take care lest the influence of [Root.Religion.GetRandomEvilGodName] comes into our lives.;;;;;;;;;;;;;x
-EVTDESC_WoL_7042;There are those in your realm who worship other gods. For example, it is known to you that [target_character.GetTitledName] openly follows the [target_character.Religion.GetName] faith. You sometimes wonder what [Root.Religion.GetRandomGodName] would think of your association with these people.;;;;;;;;;;;;;x
-EVTDESC_WoL_7050;For a long while now, you have not felt the presence of [Root.Religion.GetRandomGodName] in your thoughts. You are starting to wonder whether there really is any truth in [Root.Religion.GetScriptureName] or if perhaps it is just an old book written by clever liars.;;;;;;;;;;;;;x
-EVTDESC_WoL_7050_PAGAN;For a long time now, you have not felt the presence of [Root.Religion.GetHighGodName] in your thoughts. You are starting to question whether the gods exist at all, or if they are just tales people made up to explain the world...;;;;;;;;;;;;;x
-EVTDESC_WoL_7060;With your strong devotion to the [Root.Religion.GetName] faith, you have spent countless hours reading [Root.Religion.GetScriptureName] and thinking about the meaning and origin of the sacred words therein. There are some things that don't quite correspond to what the [Root.Religion.GetPriestTitle]s are saying in their sermons, however...;;;;;;;;;;;;;x
-EVTDESC_WoL_7070;I have spent years studying the basic tenets and beliefs of the [Root.Religion.GetName] faith, and by now I consider myself quite an advanced [Root.Religion.GetName] scholar.;;;;;;;;;;;;;x
-EVTDESC_WoL_7080;As I prayed before the altar, I was suddenly filled with an overwhelming sense of love. Crying with joy, I knew that I am never truly alone. [Root.Religion.GetHighGodNameCap] is always with me.;;;;;;;;;;;;;x
-EVTDESC_WoL_7080_INDIAN;Deep in meditation, I felt the most intense bliss I have ever experienced as a great energy traveled up my spine, opening my Chakras to my own eternal being. Om Namah Shivaya!;;;;;;;;;;;;;x
-EVTDESC_WoL_7080_MUSLIM;At Isha prayer, my mind was suddenly filled with a vision of the Prophet, riding Al-Buraq through the starry skies with a sword in his hand. It felt more real than waking life...;;;;;;;;;;;;;x
-EVTDESC_WoL_7080_PAGAN;As I cut the throat of the ram, it suddenly stopped struggling and looked me straight in the eyes. Even as its blood filled the grooves on the altar, I knew that [Root.Religion.GetRandomGodName] was with me!;;;;;;;;;;;;;x
-EVTDESC_WoL_7090;Yet another morning when I wake up feeling as tired as when I went to bed. I should do something about my listless mind... Perhaps I need to spend some time alone.;;;;;;;;;;;;;x
-EVTDESC_WoL_7091;I have gained a newfound respect for the hermits of old! My time spent fasting and praying in seclusion has done me good. [Root.Religion.GetHighGodNameCap] has helped me strengthen my mind.;;;;;;;;;;;;;x
-EVTDESC_WoL_7091_INDIAN;Secluded in my cave, meditating on the teachings of [Root.Religion.GetRandomGodName], I have gained better control over my thoughts and desires.;;;;;;;;;;;;;x
-EVTDESC_WoL_7091_LUNATIC;Curled up safely in the badger's den, I've steeled my mind against the ululating shadow men who stalk me outside. I wonder how long I have been holed up in here?;;;;;;;;;;;;;x
-EVTDESC_WoL_7091_PAGAN;Secluded in my cave, I have subsisted only on the sacred roots and bitter juices favored by the priests. My thoughts are clear: It is by will alone I set my mind in motion.;;;;;;;;;;;;;x
-
-EVTOPT_WoL_7091;I resolve to be a better [Root.GetManWoman];;;;;;;;;;;;;x
-EVTOPT_WoL_7091_BLIND;Praise [Root.Religion.GetHighGodName]! I can see again!;;;;;;;;;;;;;x
-EVTOPT_WoL_7091_CHASTE;My loins are on fire! Praise [Root.Religion.GetRandomGodName]!;;;;;;;;;;;;;x
-EVTOPT_WoL_7091_DRUNKARD;Time to cut down on the beer;;;;;;;;;;;;;x
-EVTOPT_WoL_7091_GLUTTON;Too much food harms the body and dulls the mind;;;;;;;;;;;;;x
-EVTOPT_WoL_7091_LEPER;I can feel my face again! My leprosy is healed!;;;;;;;;;;;;;x
-EVTOPT_WoL_7091_LUNATIC;The accursed wailing... is almost quiet now.;;;;;;;;;;;;;x
-EVTOPT_WoL_7091_LUSTFUL;I must curb my lust;;;;;;;;;;;;;x
-EVTOPT_WoL_7091_POX;The pox... It's gone! Praise [Root.Religion.GetRandomGodName]!;;;;;;;;;;;;;x
-EVTOPT_WoL_7091_SLOTHFUL;I have been idle for too long;;;;;;;;;;;;;x
-
-EVTOPTA_WoL_7000;I will dedicate more time to reading the scriptures.;;;;;;;;;;;;;x
-EVTOPTA_WoL_7001;These sacred texts illuminate me.;;;;;;;;;;;;;x
-EVTOPTA_WoL_7012;Our common interests bind us together.;;;;;;;;;;;;;x
-EVTOPTA_WoL_7020;I should go!;;;;;;;;;;;;;x
-EVTOPTA_WoL_7021;Praise [Root.Religion.GetRandomGodName]!;;;;;;;;;;;;;x
-EVTOPTA_WoL_7030;Indeed it is so.;;;;;;;;;;;;;x
-EVTOPTA_WoL_7042;We are more alike than we are different.;;;;;;;;;;;;;x
-EVTOPTA_WoL_7050;It must be so, [Root.Religion.GetRandomGodName] is dead!;;;;;;;;;;;;;x
-EVTOPTA_WoL_7060;I have no right to question them.;;;;;;;;;;;;;x
-EVTOPTA_WoL_7070;I will dedicate my life's work to [Root.Religion.GetRandomGodName].;;;;;;;;;;;;;x
-EVTOPTA_WoL_7080;I feel energized!;;;;;;;;;;;;;x
-EVTOPTA_WoL_7090;Seclude myself in prayer and meditation;;;;;;;;;;;;;x
-
-EVTOPTB_WoL_7000;I shall summon storytellers.;;;;;;;;;;;;;x
-EVTOPTB_WoL_7001;It is wise to listen and ponder.;;;;;;;;;;;;;x
-EVTOPTB_WoL_7020;I can't.;;;;;;;;;;;;;x
-EVTOPTB_WoL_7030;I should ponder this more deeply.;;;;;;;;;;;;;x
-EVTOPTB_WoL_7042;Their heathen delusions do not interest me.;;;;;;;;;;;;;x
-EVTOPTB_WoL_7050;These blasphemous feelings will soon pass.;;;;;;;;;;;;;x
-EVTOPTB_WoL_7060;Perhaps it should not all be taken so literally after all.;;;;;;;;;;;;;x
-EVTOPTB_WoL_7070;Religion has its uses and is well worthy of study.;;;;;;;;;;;;;x
-EVTOPTB_WoL_7090;Bah! I'll get over it eventually.;;;;;;;;;;;;;x
-
-EVTOPTC_WoL_7000;No, I have no time for this.;;;;;;;;;;;;;x
-EVTOPTC_WoL_7030;These religious ponderings give me a headache.;;;;;;;;;;;;;x
-EVTOPTC_WoL_7050;Perish these blasphemous thoughts!;;;;;;;;;;;;;x
-EVTOPTC_WoL_7060;These [Root.Religion.GetPriestTitle]s are charlatans!;;;;;;;;;;;;;x
-EVTOPTC_WoL_7070;It is interesting, but there are other things in life.;;;;;;;;;;;;;x
+EVTDESC_WoL_7000_non_unref_pagan;There are many mysteries in the [Root.Religion.GetName] faith. It might be interesting to spend some time delving into the old texts of  [Root.Religion.GetScriptureName].;;;;;;;;;;;[Root.GetReligionFullName] òàèò â ñåáå ìíîæåñòâî çàãàäîê. Ìîæåò áûòü âåñüìà èíòåðåñíûì ïðîâåñòè íåêîòîðîå âðåìÿ ïîãðóçèâøèñü â äðåâíèå òåêñòû, òàêèå êàê [Root.Religion.GetScriptureName].;;x
+EVTDESC_WoL_7000_unref_pagan;There are many mysteries in the [Root.Religion.GetName] faith. It might be interesting to listen more to the ancient stories told by the [Root.Religion.GetPriestTitle]s.;;;;;;;;;;;Ñêîëüêî æå òàéí õðàíèò â ñåáå [Root.GetReligionFullName]? Áûëî áû èíòåðåñíî ïîñëóøàòü äðåâíèå ïðåäàíèÿ, êîòîðûå ðàññêàçûâàþò ìóäðûå ëþäè.;;x
+EVTDESC_WoL_7001_non_unref_pagan;In the past few months, you have been spending many nights reading [Root.Religion.GetScriptureName]. The texts contain many items of wisdom and also give hints to the most important mysteries of [Root.Religion.GetRandomGodName].;;;;;;;;;;;Â ïîñëåäíèå ìåñÿöû, Âû ïðîâîäèòå ìíîãèå íî÷è â èçó÷åíèè ñâÿùåííûõ ïèñàíèé. Ìóäðîñòü ýòèõ òåêñòîâ äà¸ò âàæíûå ïîäñêàçêè ê ðåøåíèþ çàãàäîê è ðàñêðûòèþ òàéí, êîòîðûå íåñ¸ò â ñåáå [Root.GetReligionFullName].;;x
+EVTDESC_WoL_7001_unref_pagan;In the past few months, you have spent many nights listening to the old myths and stories of the [Root.Religion.GetName] faith. The tales told of [Root.Religion.GetRandomGodName] are most inspiring and contain much wisdom that can help you in your daily life.;;;;;;;;;;;Â ïîñëåäíèå ìåñÿöû, Âû ïðîâîäèòå ìíîãèå íî÷è, ñëóøàÿ äðåâíèå ìèôû è ïðåäàíèÿ. Ýòè ðàññêàçû î÷åíü çàõâàòûâàþùè è ñîäåðæàò ìóäðîñòü, êîòîðàÿ ìîæåò ïðèãîäèòüñÿ â ïîâñåäíåâíîé æèçíè.;;x
+EVTDESC_WoL_7012;Your dedication to religious pursuits has been noticed around the realm. Among others, it has quite impressed [target_priest.GetTitledName]. You have maintained correspondence on various religious and philosophical matters for some time, and find that you are rapidly becoming good friends.;;;;;;;;;;;Âåñòè î Âàøèõ ðåëèãèîçíûõ èçûñêàíèÿõ ðàñïðîñòðàíèëèñü ïî âñåé ñòðàíå. Ñðåäè âñåõ ïðî÷èõ, [From.GetTitledFirstName] ãîâîðèò, ÷òî îíè [From.GetHersHis] î÷åíü âïå÷àòëèëè. Âû ñòàëè ïåðåïèñûâàòüñÿ, íåêîòîðîå âðåìÿ âåäÿ ôèëîñîôñêèå è ðåëèãèîçíûå äèñêóññèè, è òåïåðü ñòàëè õîðîøèìè äðóçüÿìè.;;x
+EVTDESC_WoL_7020;The holy site of [holy_site_visiting.GetName] is an important center of the [Root.Religion.GetName] faith. Many great religious events are celebrated there, and the spirit of [Root.Religion.GetRandomGodName] is said to permeate the entire area.;;;;;;;;;;;Ñâÿùåííîå ìåñòî, èçâåñòíîå êàê [holy_site_visiting.GetName] - âàæíûé ðåëèãèîçíûé öåíòð. [Root.GetReligionFullName] îòíîñèòñÿ ê íåìó î÷åíü òðåïåòíî, ìíîãèå îáðÿäû è ïðàçäíèêè ñîâåðøàëèñü çäåñü. Äóõîâíàÿ ñèëà ïðîíèçûâàåò âñþ ýòó çåìëþ.;;x
+EVTDESC_WoL_7021;Your visit to [holy_site_visiting.GetName] was certainly worth the time! You have wandered around in its sacred halls and pondered the atmosphere and the religious mysteries that lie hidden here.;;;;;;;;;;;[holy_site_visiting.GetName] äåéñòâèòåëüíî çàñëóæèâàåò ïîòðà÷åííîãî âðåìåíè! Âû áðîäèëè ïîâñþäó, ïðèñëóøèâàÿñü ê àòìîñôåðå è ïðèñìàòðèâàÿñü ê òàéíàì, ñîêðûòûì â ýòîì ìåñòå.;;x
+EVTDESC_WoL_7030;I live my life as other [Root.GetMenWomen] do, navigating its rocks and obstacles, doing my best to achieve success in my endeavours. Still, everything we do takes place in the light of [Root.Religion.GetRandomGodName], and we must take care lest the influence of [Root.Religion.GetRandomEvilGodName] comes into our lives.;;;;;;;;;;;Ìîÿ æèçíü ïîõîæà íà æèçíü ëþáîãî äðóãîãî - ÿ ïðåîäîëåâàþ ïðåïÿòñòâèÿ íà ñâî¸ì ïóòè è äåëàþ âñ¸, ÷òî ìîãó, ÷òîáû äîñòè÷ü óñïåõà â ñâîèõ ñòðåìëåíèÿõ. Íî âñ¸, ÷òî ìû äåëàåì, âèäèò [Root.Religion.GetHighGodName], è ìû äîëæíû çàáîòèòüñÿ î âëèÿíèè, êîòîðîå [Root.Religion.GetRandomEvilGodName] îêàçûâàåò íà íàñ.;;x
+EVTDESC_WoL_7042;There are those in your realm who worship other gods. For example, it is known to you that [target_character.GetTitledName] openly follows the [target_character.Religion.GetName] faith. You sometimes wonder what [Root.Religion.GetRandomGodName] would think of your association with these people.;;;;;;;;;;;Åñòü íåêîòîðûå â Âàøåé ñòðàíå, êòî ÷òèò äðóãèõ áîãîâ. Íàïðèìåð, èçâåñòíî, ÷òî [From.GetTitledName] îòêðûòî èñïîâåäóåò [From.GetReligionFullName]. Èíîãäà Âû äóìàåòå, êàê [Root.Religion.GetRandomGodName] îòíîñèòñÿ ê Âàøåé ñâÿçè ñ òàêèìè ëþäüìè.;;x
+EVTDESC_WoL_7050;For a long while now, you have not felt the presence of [Root.Religion.GetRandomGodName] in your thoughts. You are starting to wonder whether there really is any truth in [Root.Religion.GetScriptureName] or if perhaps it is just an old book written by clever liars.;;;;;;;;;;;Âîò óæå äîëãîå âðåìÿ Âû íå îùóùàåòå íè êàïëè òîãî, ÷òî [Root.Religion.GetHighGodName] îêàçûâàåò êàêîå-ëèáî âëèÿíèå íà Âàñ èëè ó÷àñòâóåò â Âàøåé æèçíè. Âû íà÷èíàåòå çàäóìûâàòüñÿ, äåéñòâèòåëüíî ëè [Root.Religion.GetScriptureName] - èñòî÷íèê èñòèíû èëè ýòî ëèøü äðåâíèå ïèñüìåíà, ñîçäàííûå õèòðûìè ëæåöàìè.;;x
+EVTDESC_WoL_7050_PAGAN;For a long time now, you have not felt the presence of [Root.Religion.GetHighGodName] in your thoughts. You are starting to question whether the gods exist at all, or if they are just tales people made up to explain the world...;;;;;;;;;;;"Âîò óæå äîëãîå âðåìÿ Âû íå îùóùàëè íèêàêîãî ïðèñóòñòâèÿ âûñøèõ ñèë è íà÷èíàåòå çàäàâàòüñÿ âîïðîñîì ""à ñóùåñòâóåò ëè [Root.Religion.GetHighGodName]?"". Áûòü ìîæåò ýòî ïðîñòî äåòñêèå ñêàçêè, ÷òîáû îáúÿñíèòü òî, ÷åãî ìû íå â ñèëàõ ïîíÿòü...";;x
+EVTDESC_WoL_7060;With your strong devotion to the [Root.Religion.GetName] faith, you have spent countless hours reading [Root.Religion.GetScriptureName] and thinking about the meaning and origin of the sacred words therein. There are some things that don't quite correspond to what the [Root.Religion.GetPriestTitle]s are saying in their sermons, however...;;;;;;;;;;;[Root.GetReligionFullName] ïîëíîñòüþ çàíèìàåò Âàøè ìûñëè, Âû ïðîâîäèòå äîëãèå ÷àñû â ÷òåíèè. [Root.Religion.GetScriptureName]... òàì ñîäåðæèòñÿ ñàêðàëüíûé ñìûñë, êîòîðûé íåîáõîäèìî ïîíÿòü. Íî óæå ÿñíî îäíî - òàì íå ñîâñåì òî, ÷òî ñâÿùåííèêè ãîâîðÿò â ñâîèõ ïðîïîâåäÿõ...;;x
+EVTDESC_WoL_7070;I have spent years studying the basic tenets and beliefs of the [Root.Religion.GetName] faith, and by now I consider myself quite an advanced [Root.Religion.GetName] scholar.;;;;;;;;;;;Ïðîâåäÿ ãîäû â èçó÷åíèè ïðèíöèïîâ è óáåæäåíèé, êîòîðûå íåñ¸ò [Root.GetReligionFullName], ÿ ìîãó óâåðåííî íàçûâàòü ñåáÿ òåîëîãîì.;;x
+EVTDESC_WoL_7080;As I prayed before the altar, I was suddenly filled with an overwhelming sense of love. Crying with joy, I knew that I am never truly alone. [Root.Religion.GetHighGodNameCap] is always with me.;;;;;;;;;;;Ñåãîäíÿ, ìîëÿñü ïåðåä àëòàð¸ì, ÿ âäðóã îùóòèë[Root.GetEndA], êàê âñ¸ ìî¸ ñóùåñòâî ïåðåïîëíÿåò ÷óâñòâî áåñêîíå÷íîé ëþáâè. Ñë¸çû ðàäîñòè íàâåðíóëèñü íà ãëàçà. ß çíàë[Root.GetEndA], ÷òî íèêîãäà íå îñòàíóñü îä[Root.GetNaIn], [Root.Religion.GetHighGodName] âñåãäà ñî ìíîé.;;x
+EVTDESC_WoL_7080_INDIAN;Deep in meditation, I felt the most intense bliss I have ever experienced as a great energy traveled up my spine, opening my Chakras to my own eternal being. Om Namah Shivaya!;;;;;;;;;;;Â ãëóáîêîé ìåäèòàöèè, ÿ ïî÷óâñòâîâàë[Root.GetEndA] áëàæåíñòâî, ñòîëü èíòåíñèâíîå è ÿðêîå, ÷òî îùóùåíèÿ ïðèñóòñòâèÿ ìîåãî òåëà íà åãî ôîíå ïîëíîñòüþ èñ÷åçëî, íåâåäîìàÿ ñèëà ïîäíèìàëàñü ïî ìîåìó ïîçâîíî÷íèêó, âûðûâàÿñü ïëàìåíåì íà ñâî¸ì ïóòè èç êàæäîé ÷àêðû. Îì Íàìà Øèâàéÿ!;;x
+EVTDESC_WoL_7080_MUSLIM;At Isha prayer, my mind was suddenly filled with a vision of the Prophet, riding Al-Buraq through the starry skies with a sword in his hand. It felt more real than waking life...;;;;;;;;;;;Âî âðåìÿ íî÷íîé ìîëèòâû, ìîé ðàçóì ïîñåòèëî âèäåíèå - Ïðîðîê âåðõîì íà Áóðàêå ïðîí¸ññÿ ïî íåáó ñ ìå÷îì â ðóêå. Ýòî áûëî ñòîëü æå ðåàëüíî, êàê íàÿâó...;;x
+EVTDESC_WoL_7080_PAGAN;As I cut the throat of the ram, it suddenly stopped struggling and looked me straight in the eyes. Even as its blood filled the grooves on the altar, I knew that [Root.Religion.GetRandomGodName] was with me!;;;;;;;;;;;Ïåðåðåçàÿ ãîðëî ÿãí¸íêó, ÿ çàìåòèë[Root.GetEndA], êàê âäðóã îí ïåðåñòàë ñîïðîòèâëÿòüñÿ è ïîñìîòðåë ìíå ïðÿìî â ãëàçà. Ãëÿäÿ, êàê åãî ò¸ïëàÿ êðîâü ñòåêàåò ïî õîëîäíîìó êàìíþ, ÿ íå ìîã[Root.GetNoneE] îòïóñòèòü ýòó ìûñëü - [Root.Religion.GetRandomGodName] áûë ñî ìíîé, ÿ çíàþ ýòî!;;x
+EVTDESC_WoL_7090;Yet another morning when I wake up feeling as tired as when I went to bed. I should do something about my listless mind... Perhaps I need to spend some time alone.;;;;;;;;;;;Åù¸ îäíî óòðî... È ÿ ñíîâà âñòàþ ñ òåì æå ÷óâñòâîì óñòàëîñòè, ñ êàêèì ëîæè[Root.GetLasLsya] ñïàòü. Íóæíî ÷òî-òî äåëàòü ñ ýòîé íåâûíîñèìîé àïàòèåé... Âîçìîæíî, íàäî íåìíîãî ïîáûòü â îäèíî÷åñòâå.;;x
+EVTDESC_WoL_7091;I have gained a newfound respect for the hermits of old! My time spent fasting and praying in seclusion has done me good. [Root.Religion.GetHighGodNameCap] has helped me strengthen my mind.;;;;;;;;;;;Ïðèçíàòüñÿ, ÿ ñòàë[Root.GetEndA] ãîðàçäî áîëüøå óâàæàòü çàòâîðíèêîâ ïðîøëîãî. Âðåìÿ, ïðîâåä¸ííîå â ìîëèòâå, è ãîëîäàíèå ïîìîãëè ìíå. [Root.Religion.GetHighGodName] óêðåïèë[Root.GetHGodEndA] ìîé äóõ.;;x
+EVTDESC_WoL_7091_INDIAN;Secluded in my cave, meditating on the teachings of [Root.Religion.GetRandomGodName], I have gained better control over my thoughts and desires.;;;;;;;;;;;Óåäèíèâøèñü â ïåùåðå è ìåäèòèðóÿ, ÿ îáðåë[Root.GetEndA] êîíòðîëü çà ñâîèìè ìûñëÿìè è æåëàíèÿìè.;;x
+EVTDESC_WoL_7091_LUNATIC;Curled up safely in the badger's den, I've steeled my mind against the ululating shadow men who stalk me outside. I wonder how long I have been holed up in here?;;;;;;;;;;;Çàáèâøèñü â ëîãîâî áàðñóêà, ÿ óêðåïèë[Root.GetEndA] ñâîé ðàçóì, ÷òîáû çàùèòèòü ñåáÿ îò ýòèõ âîþùèõ òåíåé, ïðåñëåäóþùèõ ìåíÿ ñíàðóæè. Ïîíÿòèÿ íå èìåþ êàê äîëãî ÿ ïðîòîð÷àë[Root.GetEndA] çäåñü.;;x
+EVTDESC_WoL_7091_PAGAN;Secluded in my cave, I have subsisted only on the sacred roots and bitter juices favored by the priests. My thoughts are clear: It is by will alone I set my mind in motion.;;;;;;;;;;;Óåäèíèâøèñü â ïåùåðå, ÿ ïèòà[Root.GetLasLsya] òîëüêî ñâÿùåííûì êîðíåì è ãîðüêèì ñîêîì, êîòîðûé ïðèíîñèëè æðåöû. Ìîé ðàçóì î÷èñòèëñÿ, è ëèøü óñèëèåì ñîáñòâåííîé âîëè ìíå óäàëîñü âíîâü ïðèâåñòè åãî â äâèæåíèå.;;x
+EVTOPT_WoL_7091;I resolve to be a better [Root.GetManWoman];;;;;;;;;;;ß ìíîãîå îñîçíàë[Root.GetEndA].;;x
+EVTOPT_WoL_7091_BLIND;Praise [Root.Religion.GetHighGodName]! I can see again!;;;;;;;;;;;Î, [Root.GetNumenFOA]! ß ñíîâà âèæó!;;x
+EVTOPT_WoL_7091_CHASTE;My loins are on fire! Praise [Root.Religion.GetRandomGodName]!;;;;;;;;;;;Ìîè ÷ðåñëà ãîðÿò. Î, [Root.GetNumenFOA]...;;x
+EVTOPT_WoL_7091_DRUNKARD;Time to cut down on the beer;;;;;;;;;;;Ïîðà çàâÿçûâàòü ñ ïèâîì.;;x
+EVTOPT_WoL_7091_GLUTTON;Too much food harms the body and dulls the mind;;;;;;;;;;;Îêàçûâàåòñÿ, ñûòîñòü òàê îòóïëÿåò.;;x
+EVTOPT_WoL_7091_LEPER;I can feel my face again! My leprosy is healed!;;;;;;;;;;;Ìîÿ êîæà, îíà ñíîâà ÷èñòàÿ, ïðîêàçà óøëà!;;x
+EVTOPT_WoL_7091_LUNATIC;The accursed wailing... is almost quiet now.;;;;;;;;;;;Ïðîêëÿòûé âîé, åãî áîëüøå íåò...;;x
+EVTOPT_WoL_7091_LUSTFUL;I must curb my lust;;;;;;;;;;;Ïîõîæå, ÿ ìîãó îáóçäàòü ñâîþ ïîõîòü.;;x
+EVTOPT_WoL_7091_POX;The pox... It's gone! Praise [Root.Religion.GetRandomGodName]!;;;;;;;;;;;Ìîÿ ñûïü... å¸ áîëüøå íåò, õâàëà íåáåñàì!;;x
+EVTOPT_WoL_7091_SLOTHFUL;I have been idle for too long;;;;;;;;;;;Ñëèøêîì äîëãî ÿ áåçäåëüíè÷àë[Root.GetEndA].;;x
+EVTOPTA_WoL_7000;I will dedicate more time to reading the scriptures.;;;;;;;;;;;Èçó÷ó ñâÿùåííûå ïèñàíèÿ.;;x
+EVTOPTA_WoL_7001;These sacred texts illuminate me.;;;;;;;;;;;Ýòè òåêñòû äàðîâàëè ìíå ìóäðîñòü.;;x
+EVTOPTA_WoL_7012;Our common interests bind us together.;;;;;;;;;;;Îáùèå èíòåðåñû, íåñîìíåííî, ñáëèæàþò ëþäåé.;;x
+EVTOPTA_WoL_7020;I should go!;;;;;;;;;;;ß îòïðàâëÿþñü òóäà!;;x
+EVTOPTA_WoL_7021;Praise [Root.Religion.GetRandomGodName]!;;;;;;;;;;;Ñëàâà Òåáå, [Root.Religion.GetRandomGodName]!;;x
+EVTOPTA_WoL_7030;Indeed it is so.;;;;;;;;;;;Âîèñòèíó, ýòî òàê.;;x
+EVTOPTA_WoL_7042;We are more alike than we are different.;;;;;;;;;;;Ó íàñ áîëüøå îáùåãî, ÷åì ðàçëè÷èé.;;x
+EVTOPTA_WoL_7050;It must be so, [Root.Religion.GetRandomGodName] is dead!;;;;;;;;;;;[Root.Religion.GetHighGodName] ìåðòâ[Root.GetHGodEndA]!;;x
+EVTOPTA_WoL_7060;I have no right to question them.;;;;;;;;;;;Ó ìåíÿ íåò ïðàâà ñïðàøèâàòü ó íèõ òàêîå.;;x
+EVTOPTA_WoL_7070;I will dedicate my life's work to [Root.Religion.GetRandomGodName].;;;;;;;;;;;ß ïîñâÿùó ýòîìó ñâîþ æèçíü.;;x
+EVTOPTA_WoL_7080;I feel energized!;;;;;;;;;;;ß ÷óâñòâóþ ñåáÿ îáíîâë¸íí[Root.GetOyYm]!;;x
+EVTOPTA_WoL_7090;Seclude myself in prayer and meditation;;;;;;;;;;;Çàêðîþñü îò âñåõ äëÿ ìîëèòâû è ìåäèòàöèè.;;x
+EVTOPTB_WoL_7000;I shall summon storytellers.;;;;;;;;;;;Ïîçîâó ñêàçèòåëåé.;;x
+EVTOPTB_WoL_7001;It is wise to listen and ponder.;;;;;;;;;;;Ñëóøàòü è ðàçìûøÿòü î÷åíü ïîëåçíî.;;x
+EVTOPTB_WoL_7020;I can't.;;;;;;;;;;;Ñåé÷àñ ÿ íå ìîãó òóäà îòïðàâèòüñÿ.;;x
+EVTOPTB_WoL_7030;I should ponder this more deeply.;;;;;;;;;;;Ìíå ñëåäóåò ïîäóìàòü íàä ýòèì.;;x
+EVTOPTB_WoL_7042;Their heathen delusions do not interest me.;;;;;;;;;;;Ìåíÿ íå çàáîòÿò èõ ñóåâåðèÿ.;;x
+EVTOPTB_WoL_7050;These blasphemous feelings will soon pass.;;;;;;;;;;;Áîãîõóëüíûå ìûñëè îñòàâÿò ìåíÿ ðàíî èëè ïîçäíî.;;x
+EVTOPTB_WoL_7060;Perhaps it should not all be taken so literally after all.;;;;;;;;;;;Âîçìîæíî, ÿ íåâåðíî òîëêóþ ýòè ñëîâà.;;x
+EVTOPTB_WoL_7070;Religion has its uses and is well worthy of study.;;;;;;;;;;;Ðåëèãèÿ ïîëåçíà è çàñëóæèâàåò èçó÷åíèÿ.;;x
+EVTOPTB_WoL_7090;Bah! I'll get over it eventually.;;;;;;;;;;;Êàê-íèáóäü ñïðàâëþñü.;;x
+EVTOPTC_WoL_7000;No, I have no time for this.;;;;;;;;;;;Íî ó ìåíÿ íåò íà ýòî âðåìåíè.;;x
+EVTOPTC_WoL_7030;These religious ponderings give me a headache.;;;;;;;;;;;Îò ýòèõ ðåëèãèîçíûõ ðàçìûøëåíèé ó ìåíÿ ãîëîâà áîëèò.;;x
+EVTOPTC_WoL_7050;Perish these blasphemous thoughts!;;;;;;;;;;;Ïðîãíàòü êîùóíñòâåííûå ìûñëè!;;x
+EVTOPTC_WoL_7060;These [Root.Religion.GetPriestTitle]s are charlatans!;;;;;;;;;;;Øàðëàòàíû!;;x
+EVTOPTC_WoL_7070;It is interesting, but there are other things in life.;;;;;;;;;;;Î÷åíü èíòåðåñíî, íî æèçíü ýòèì íå îãðàíè÷èâàåòñÿ.;;x

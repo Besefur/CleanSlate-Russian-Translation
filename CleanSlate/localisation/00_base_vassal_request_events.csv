@@ -1,157 +1,151 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC63000;It rankles me that my liege, [This.Liege.GetTitledFirstName], has vassals who should rightfully be mine.;;;;;;;;;;;;;x
-EVTDESC63001;My vassal, [From.GetTitledName], has requested that a lower rank vassal should serve [From.GetObjectPronoun] rather than me directly...;;;;;;;;;;;;;x
-EVTDESC63002;My Liege, [From.GetTitledName], has decreed that henceforth I am a vassal of [FromFrom.GetTitledName]'s.;;;;;;;;;;;;;x
-EVTDESC63003;My Liege, [From.GetTitledName], has denied my request to make my rightful vassal mine.;;;;;;;;;;;;;x
-EVTDESC63004;[From.GetTitledName] has not answered my request to transfer a vassal. This bodes ill.;;;;;;;;;;;;;x
-EVTDESC63005;My dear friend and vassal!\n\nYou are a bedrock of loyalty, the cornerstone of the realm! Truly, there is support for your claim in [From.Religion.GetScriptureName]. I know that [From.Religion.GetRandomGodName] will reward you in time!\n\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC63006;My Liege, [Root.Liege.GetTitledName], has justly agreed to my request. [From.GetTitledName] is now my vassal!;;;;;;;;;;;;;x
-EVTDESC63006B;My liege has agreed to transfer a vassal to me, but I will have to repay [Root.Liege.GetHerHim] later.;;;;;;;;;;;;;x
-EVTDESC63007;It seems [FromFrom.GetTitledName] wanted to become my new liege, but [Root.Liege.GetTitledName] has chosen to give me a claim on [FromFrom.GetTitledFirstName] instead!;;;;;;;;;;;;;x
-EVTDESC63010;I have hatched a brilliant scheme to get rid of my hated rival!;;;;;;;;;;;;;x
-EVTDESC63011;My liege! It pains me to say, but there is a traitor in the realm. This rotten egg is plotting your downfall. I enclose the damning evidence with this letter.\n\nYour loyal servant, [From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC63012;At the false charges of the accursed [FromFrom.GetTitledName], my liege has seen fit to imprison me!;;;;;;;;;;;;;x
-EVTDESC63013;Dear [Root.GetTitledFirstName], your accusations against [FromFrom.GetTitledFirstName] proved to be truthful! The vile schemer is now languishing in my deepest, darkest dungeon.\n\nYour [From.GetTitle]\n[From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC63014;Dear [Root.GetFirstName]! I'm afraid your allegations do not hold up. I can take no action against your so called traitor.\n\n[From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC63015;My loyal vassal! I recently received some disturbing allegations against you from [FromFrom.GetTitledName]. I do not believe them, but you should know that [From.GetSubjectPronoun] is no friend of yours.\n\n[From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC63016;To the dishonorable [Root.GetTitledFirstName]! Know that I am aware of your schemes, and so is [This.Liege.GetTitledFirstName]. [From.Religion.GetRandomGodName] be my witness, you will not succeed.;;;;;;;;;;;;;x
-EVTDESC63017;Disaster! [From.GetTitledFirstName] has thrown me in the dungeon for my 'false' allegations.;;;;;;;;;;;;;x
-EVTDESC63018;A loyal friend at the household of [From.GetTitledName] told me that [From.GetSubjectPronoun] is about to present [Root.Liege.GetTitledFirstName] with false evidence of my treason!;;;;;;;;;;;;;x
-EVTDESC63019;My liege! Very soon, the scheming [FromFrom.GetTitledName] will make accusations against me. Do not believe a word of it! [FromFrom.GetSubjectPronounCap] hates me and lacks all honor and decency.\n\nYour faithful vassal, [From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC63020;My loyal vassal! You were right. [FromFrom.GetTitledName] did accuse you of treason, but I dismissed [FromFrom.GetPossPronoun] so called evidence. Rest easy my friend.\n\n[From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC63030;The maintenance cost of the levies I sent my liege are ruinous! Perhaps I should ask for some gold in return for my dutiful service...;;;;;;;;;;;;;x
-EVTDESC63031;My liege, I am deeply hesitant to ask, but my coffers are running dry from the upkeep of the levies you have raised from my demesne. Any recompense for the costs of my liege's wars would be a great comfort.\n\nYour loyal [From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC63032;My most valued vassal, your request is reasonable. This gift of 30¤ should help tide you over.\n\n[From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC63033;[Root.GetTitledFirstName], I am under no obligation to give you recompense, but since you are my friend, here is a gift of 15¤.\n\n[From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC63034;To the honorable [Root.GetTitledFirstName]. As my bannerman, it is your sworn duty to pay for the upkeep of your levies. Do not trouble me with this again.\n\n[From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC63035;honorable [Root.GetTitledFirstName]! Unfortunately, my own coffers yawn empty, but rest assured I will never forget the services you have rendered in these times of strife.\n\n[From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC63040;It bothers me that my liege, [This.Liege.GetTitledFirstName], holds a title that should rightfully be mine.;;;;;;;;;;;;;x
-EVTDESC63041;My liege!\nLoyal servants such as I surely deserve some recognition and rewards from time to time. It is widely known that you hold huge lands and many titles, and are as generous as you are wise. Perhaps you would consider granting this humble servant the [vassal_wanted_title.GetFullName]?\n\nYour vassal, [From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC63042;My dear vassal,\n\nYou are a devoted servant, and I have decided to reward you. Please accept the [vassal_wanted_title.GetFullName] as a token of my love and your loyal service.\n\nYour liege, [From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC63043;Dear vassal,\n\nI fear that you have failed to convince me of the justice of your request. Regretfully, I cannot oblige you.\n\nYour liege,\n [From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC63050;One of the guards is sympathetic enough to smuggle a letter out. Perhaps one of my friends can mediate my release...;;;;;;;;;;;;;x
-EVTDESC63051;My dearest friend! I fear that my plight is terrible, I do not know for how long I can survive in this miserable dungeon. I beg of you, please intercede with [This.Liege.GetTitledFirstName] on my behalf.\n\nYour [GetFromRelation], [From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC63052;My liege! I wish to intercede on the behalf of one of your prisoners, [FromFrom.GetBestName]. Surely a show of mercy would please all your vassals.\n\nYour faithful [From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC63053;I have been released! Thank [This.Religion.GetRandomGodName] for the intercession of [FromFrom.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTDESC63054;Dear [Root.GetTitledFirstName], criminals belong in prison. I'm afraid there is nothing I can do to help your friend.\n\n[From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC63055;Soldiers took me from my bed at night! [From.GetTitledFirstName] is accusing me of conspiring against [From.GetSubjectPronoun] with known traitors!;;;;;;;;;;;;;x
-EVTDESC63056;My most valued friend and vassal! Your concern for your friend is touching, but the laws of the realm must be upheld or all would surely descend into anarchy.\n\nYour faithful liege, [From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC63057;My friend! Our liege, [This.Liege.GetTitledFirstName], has released me from my lonely cell, all thanks to you! [From.Religion.GetRandomGodName] bless you!\n\nYour ever grateful [GetFromRelation], [From.GetFirstName];;;;;;;;;;;;;x
-EVTDESC63060;My liege, [Root.Liege.GetTitledFirstName], taxes the cities harshly. How are we supposed to prosper under such a burden?;;;;;;;;;;;;;x
-EVTDESC63061;To the most illustrious [Root.GetTitledFirstName]. The good burghers of [From.PrimaryTitle.GetName] are barely able to pay their taxes. Our coffers are empty. I humbly ask that you lower the taxes for your cities.\n\nYour humble servant, [From.GetBestName];;;;;;;;;;;;;x
-EVTDESC63062;To my vassal, [Root.GetTitledFirstName]. The burghers can whine and squeal all they like. I have realm to run and an army to feed.\n\nYour liege, [From.GetBestName];;;;;;;;;;;;;x
-EVTDESC63063;To my loyal vassal, [Root.GetTitledFirstName]. Perhaps you are right - I want my cities to grow and prosper. I will attempt to pass a law for lower city taxes.\n\nYour dutiful liege, [From.GetBestName];;;;;;;;;;;;;x
-EVTDESC63064;To my loyal vassal, [Root.GetTitledFirstName]. I understand your plight, but I am afraid a law change is not possible at this time. However, I am prepared to offer you this little gift...\n\nYour faithful liege, [From.GetBestName];;;;;;;;;;;;;x
-EVTDESC63065;To my most valued vassal, [Root.GetTitledFirstName]. Nothing causes me more pain than to hear of the travails of my loyal citizens. I can only ask that you consider the needs of the whole realm. Your taxes are not wasted, but are needed to ensure your safety and long term prosperity.\n\nYour faithful liege, [From.GetBestName];;;;;;;;;;;;;x
-EVTDESC63100;Your liege has died, and the realm is in an uncertain state at the moment. Perhaps this is the right time to assert your independence?;;;;;;;;;;;;;x
-EVTDESC63101;[From.GetTitledFirstName] has decided to defy your authority and assert [From.GetHerHis] independence, claiming you have no right to rule over [From.GetHerHim] anyway!;;;;;;;;;;;;;x
-EVTDESC63102;You feared that the lands of [From.GetTitledFirstName] might become independent from your realm in the uncertain moment of your inheritance. Luckily, [From.GetSheHe] has instead confirmed [From.GetHerHis] loyalty by swearing fealty to you.;;;;;;;;;;;;;x
-EVTDESC63103;Your liege has died, and now someone else dare claim to be your superior. Perhaps this is the right time to assert your independence?;;;;;;;;;;;;;x
-EVTDESC63104;[From.GetTitledFirstName] has decided to defy your authority and assert [From.GetHerHis] independence, claiming you are too weak to rule over [From.GetHerHim] anyway!;;;;;;;;;;;;;x
-EVTDESC63105;You feared that the lands of [From.GetTitledFirstName] might become independent from your realm in the uncertain moment of your inheritance. Luckily, [From.GetSheHe] has instead confirmed [From.GetHerHis] loyalty by swearing fealty to you.;;;;;;;;;;;;;x
-
-EVTOPTA63000;Seek redress;;;;;;;;;;;;;x
-EVTOPTA63001;[From.GetSubjectPronounCap] has a point;;;;;;;;;;;;;x
-EVTOPTA63001B;[From.GetSheHeCap] can have a vassal, for a favor.;;;;;;;;;;;;;x
-EVTOPTA63002;Very well;;;;;;;;;;;;;x
-EVTOPTA63003;Well, there are other ways...;;;;;;;;;;;;;x
-EVTOPTA63004;I suspect treachery...;;;;;;;;;;;;;x
-EVTOPTA63005;My liege is truly just!;;;;;;;;;;;;;x
-EVTOPTA63006;I am pleased;;;;;;;;;;;;;x
-EVTOPTA63007;I do so love intrigue!;;;;;;;;;;;;;x
-EVTOPTA63010;Present my 'evidence' to my liege;;;;;;;;;;;;;x
-EVTOPTA63011;Marshal! Fetch me the traitor!;;;;;;;;;;;;;x
-EVTOPTA63012;Curse [FromFrom.GetPossPronoun] name!;;;;;;;;;;;;;x
-EVTOPTA63013;Excellent, [From.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTOPTA63014;Bah, it was a good scheme!;;;;;;;;;;;;;x
-EVTOPTA63015;The utter bastard!;;;;;;;;;;;;;x
-EVTOPTA63016;We shall see about that;;;;;;;;;;;;;x
-EVTOPTA63017;I will get out of here...;;;;;;;;;;;;;x
-EVTOPTA63018;Plead my innocence!;;;;;;;;;;;;;x
-EVTOPTA63020;Thank [Root.Religion.GetRandomGodName]!;;;;;;;;;;;;;x
-EVTOPTA63030;Ask for recompense;;;;;;;;;;;;;x
-EVTOPTA63031;30¤ should do it;;;;;;;;;;;;;x
-EVTOPTA63033;Good enough;;;;;;;;;;;;;x
-EVTOPTA63034;I shall be reduced to begging!;;;;;;;;;;;;;x
-EVTOPTA63035;I guess I cannot complain;;;;;;;;;;;;;x
-EVTOPTA63040;Request the title;;;;;;;;;;;;;x
-EVTOPTA63041;Of course!;;;;;;;;;;;;;x
-EVTOPTA63043;Disappointing;;;;;;;;;;;;;x
-EVTOPTA63044;My liege is wise;;;;;;;;;;;;;x
-EVTOPTA63050;Compose a Letter;;;;;;;;;;;;;x
-EVTOPTA63051;Ask for a Pardon;;;;;;;;;;;;;x
-EVTOPTA63052;Very well;;;;;;;;;;;;;x
-EVTOPTA63053;Free at last!;;;;;;;;;;;;;x
-EVTOPTA63054;Such a shame...;;;;;;;;;;;;;x
-EVTOPTA63055;So much for a show of compassion;;;;;;;;;;;;;x
-EVTOPTA63056;[From.GetSubjectPronounCap] speaks wisdom;;;;;;;;;;;;;x
-EVTOPTA63057;All is well that ends well!;;;;;;;;;;;;;x
-EVTOPTA63060;Request Lower Taxes;;;;;;;;;;;;;x
-EVTOPTA63061;An absurd request!;;;;;;;;;;;;;x
-EVTOPTA63062;Blast!;;;;;;;;;;;;;x
-EVTOPTA63065;[From.GetSubjectPronounCap] is right...;;;;;;;;;;;;;x
-EVTOPTA63100;I bow to no one!;;;;;;;;;;;;;x
-EVTOPTA63101;We are not pleased.;;;;;;;;;;;;;x
-EVTOPTA63102;A true and loyal vassal!;;;;;;;;;;;;;x
-EVTOPTA63103;I will not bend my knee to a weakling!;;;;;;;;;;;;;x
-EVTOPTA63104;We are not pleased.;;;;;;;;;;;;;x
-EVTOPTA63105;A true and loyal vassal!;;;;;;;;;;;;;x
-
-EVTOPTB63000;I doubt [This.Liege.GetSubjectPronoun] would agree...;;;;;;;;;;;;;x
-EVTOPTB63001;Let me think... Denied!;;;;;;;;;;;;;x
-EVTOPTB63010;On second thought, it's a bad idea...;;;;;;;;;;;;;x
-EVTOPTB63011;Evidence? This is nonsense!;;;;;;;;;;;;;x
-EVTOPTB63030;No, I will get by;;;;;;;;;;;;;x
-EVTOPTB63031;15¤ is enough;;;;;;;;;;;;;x
-EVTOPTB63040;Better not annoy [This.Liege.GetObjectPronoun];;;;;;;;;;;;;x
-EVTOPTB63041;This greed does not become you.;;;;;;;;;;;;;x
-EVTOPTB63043;This is futile.;;;;;;;;;;;;;x
-EVTOPTB63043_TOOLTIP;Abandon your ambition.;;;;;;;;;;;;;x
-EVTOPTB63051;We are not that close;;;;;;;;;;;;;x
-EVTOPTB63052;Absolutely not!;;;;;;;;;;;;;x
-EVTOPTB63060;I dare not anger [Root.Liege.GetObjectPronoun]...;;;;;;;;;;;;;x
-EVTOPTB63061;Very well...;;;;;;;;;;;;;x
-EVTOPTB63100;I will renew my pledge of fealty.;;;;;;;;;;;;;x
-EVTOPTB63103;[New.GetTitledFirstName] is someone I could follow.;;;;;;;;;;;;;x
-
-EVTOPTC63001;I like my other vassal better;;;;;;;;;;;;;x
-EVTOPTC63011;This seems fishy. I should notify the supposed 'plotter'.;;;;;;;;;;;;;x
-EVTOPTC63031;Money? It's his duty!;;;;;;;;;;;;;x
-EVTOPTC63052;How about you join [FromFrom.GetHerHim]?;;;;;;;;;;;;;x
-EVTOPTC63061;Bribe [From.GetObjectPronoun];;;;;;;;;;;;;x
-EVTOPTC63041;I would be happy to grant you this deserved reward, but...;;;;;;;;;;;;;x
-
-EVTOPTD63001;Impress [From.GetObjectPronoun] with vague promises;;;;;;;;;;;;;x
-EVTOPTD63011;I think [From.GetTitledFirstName] is the real traitor;;;;;;;;;;;;;x
-EVTOPTD63031;Placate [From.GetObjectPronoun] with flattery;;;;;;;;;;;;;x
-EVTOPTD63041;In exchange for a favor.;;;;;;;;;;;;;x
-EVTOPTD63052;Diplomatically explain why I cannot;;;;;;;;;;;;;x
-EVTOPTD63061;Flatter and soothe [From.GetObjectPronoun];;;;;;;;;;;;;x
-
-EVTTOOLTIP63001;Seek an audience with [This.Liege.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP63002;[This.GetTitledName] becomes a vassal of [From.GetTitledName];;;;;;;;;;;;;x
-EVTTOOLTIP63003;[This.GetTitledFirstName] is disappointed;;;;;;;;;;;;;x
-EVTTOOLTIP63005;[This.GetTitledName] is impressed by my flattery;;;;;;;;;;;;;x
-EVTTOOLTIP63007;[This.GetTitledName] gets a claim on [From.GetTitledName];;;;;;;;;;;;;x
-EVTTOOLTIP63011;A letter is sent to [This.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP63014;Tell [This.GetTitledFirstName] what I think of [This.GetPossPronoun] 'evidence';;;;;;;;;;;;;x
-EVTTOOLTIP63016;Let [FromFrom.GetTitledFirstName] know what I think of this;;;;;;;;;;;;;x
-EVTTOOLTIP63017;Throw [This.GetTitledFirstName] in the dungeon for falsifying evidence;;;;;;;;;;;;;x
-EVTTOOLTIP63018;My enemy, [This.GetTitledName], is tipped off;;;;;;;;;;;;;x
-EVTTOOLTIP63019;A fast courier is dispatched to my liege;;;;;;;;;;;;;x
-EVTTOOLTIP63031;Dispatch my request to [This.Liege.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP63041;Present my request to my [This.Liege.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP63043;[This.GetTitledFirstName] is informed of my decision;;;;;;;;;;;;;x
-EVTTOOLTIP63044;[This.GetTitledFirstName] is diplomatically informed of my decision;;;;;;;;;;;;;x
-EVTTOOLTIP63051;My letter is smuggled out to [This.GetBestName];;;;;;;;;;;;;x
-EVTTOOLTIP63052;A letter is sent to [This.Liege.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP63053;§Y[This.GetTitledName]§! is set free.;;;;;;;;;;;;;x
-EVTTOOLTIP63055;§Y[This.GetTitledName]§! is arrested and thrown in jail.;;;;;;;;;;;;;x
-EVTTOOLTIP63056;§Y[This.GetTitledName]§! is impressed with my explanation.;;;;;;;;;;;;;x
-EVTTOOLTIP63057;A letter of gratitude is sent to [This.GetBestName];;;;;;;;;;;;;x
-EVTTOOLTIP63061;Ask my liege to seek support for a law change;;;;;;;;;;;;;x
-EVTTOOLTIP63062;[This.GetTitledFirstName] is disappointed;;;;;;;;;;;;;x
-EVTTOOLTIP63063;[This.GetTitledFirstName] is overjoyed;;;;;;;;;;;;;x
-EVTTOOLTIP63064;[This.GetTitledFirstName] is satisfied;;;;;;;;;;;;;x
-EVTTOOLTIP63065;[This.GetTitledFirstName] is impressed;;;;;;;;;;;;;x
+EVTDESC63000;It rankles me that my liege, [This.Liege.GetTitledFirstName], has vassals who should rightfully be mine.;;;;;;;;;;;Ìåíÿ ðàçäðàæàåò, ÷òî ìîé ñþçåðåí, [This.Liege.GetTitledFirstName], èìååò âàññàëîâ, êîòîðûå ïî ïðàâó äîëæíû ïðèíàäëåæàòü ìíå.;;x
+EVTDESC63001;My vassal, [From.GetTitledName], has requested that a lower rank vassal should serve [From.GetObjectPronoun] rather than me directly...;;;;;;;;;;;Âàññàë [From.GetTitledName] îáðàùàåòñÿ êî ìíå ñ ïðîñüáîé î òîì, ÷òîáû âàññàë íèçøåãî ðàíãà ñëóæèë [From.GetObjectPronoun], à íå íåïîñðåäñòâåííî ìíå...;;x
+EVTDESC63002;My Liege, [From.GetTitledName], has decreed that henceforth I am a vassal of [FromFrom.GetTitledName]'s.;;;;;;;;;;;Ìîé ñþçåðåí, [From.GetTitledName], ïîñòàíîâëÿåò, ÷òî îòíûíå [FromFrom.GetTitledName] - ìîé ñþçåðåí.;;x
+EVTDESC63003;My Liege, [From.GetTitledName], has denied my request to make my rightful vassal mine.;;;;;;;;;;;Ìîé ñþçåðåí, [From.GetTitledName], îòâåðãàåò ìîþ ïðîñüáó ñäåëàòü âåðíîãî ìíå ÷åëîâåêà ìîèì çàêîííûì âàññàëîì.;;x
+EVTDESC63004;[From.GetTitledName] has not answered my request to transfer a vassal. This bodes ill.;;;;;;;;;;;[From.GetTitledName] èãíîðèðóåò ìîþ ïðîñüáó î ïåðåäà÷å âàññàëà. Ýòî íå ñóëèò íè÷åãî õîðîøåãî.;;x
+EVTDESC63005;My dear friend and vassal!\n\nYou are a bedrock of loyalty, the cornerstone of the realm! Truly, there is support for your claim in [From.Religion.GetScriptureName]. I know that [From.Religion.GetRandomGodName] will reward you in time!\n\n[From.GetTitledName];;;;;;;;;;;Ìîé äîðîãîé äðóã è âàññàë, Âû – ïðèìåð âåðíîñòè, êðàåóãîëüíûé êàìåíü íàøåãî ãîñóäàðñòâà! Âîèñòèíó, [From.Religion.GetScriptureName] ïîäòâåðæäàåò ýòî, è ÿ ïîääåðæèâàþ Âàøè ïðèòÿçàíèÿ. ß âåðþ ÷òî [From.Religion.GetRandomGodName] âîçäàñò Âàì ñïîëíà!\n\n [From.GetTitledName];;x
+EVTDESC63006;My Liege, [Root.Liege.GetTitledName], has justly agreed to my request. [From.GetTitledName] is now my vassal!;;;;;;;;;;;Ìîé ñþçåðåí [Root.Liege.GetTitledName] ñïðàâåäëèâî âûðàæàåò ñîãëàñèå ñ ìîåé ïðîñüáîé. [From.GetTitledName] - òåïåðü ìîé âàññàë!;;x
+EVTDESC63006B;My liege has agreed to transfer a vassal to me, but I will have to repay [Root.Liege.GetHerHim] later.;;;;;;;;;;;Ñþçåðåí äà¸ò ñâî¸ ñîãëàñèå ïåðåäàòü ìíå âàññàëà, íî ÿ áóäó ïåðåä í[Root.Liege.GetEyIm] â äîëãó.;;x
+EVTDESC63007;It seems [FromFrom.GetTitledName] wanted to become my new liege, but [Root.Liege.GetTitledName] has chosen to give me a claim on [FromFrom.GetTitledFirstName] instead!;;;;;;;;;;;Êàæåòñÿ [FromFrom.GetTitledName] õî÷åò ñòàòü ìîèì íîâûì ñþçåðåíîì, íî [Root.Liege.GetTitledName] âìåñòî ýòîãî ðåøàåò ñàìîëè÷íî çàÿâèòü î ïðåòåíçèÿõ íà [FromFrom.GetHersHis] òèòóë!;;x
+EVTDESC63010;I have hatched a brilliant scheme to get rid of my hated rival!;;;;;;;;;;;ß ïðèäóìàë ãåíèàëüíóþ ñõåìó, ÷òîáû èçáàâèòüñÿ îò ìîåãî íåíàâèñòíîãî ñîïåðíèêà!;;x
+EVTDESC63011;My liege! It pains me to say, but there is a traitor in the realm. This rotten egg is plotting your downfall. I enclose the damning evidence with this letter.\n\nYour loyal servant, [From.GetTitledFirstName];;;;;;;;;;;"[Root.PrimaryTitle.GetFOA]! Ìíå áîëüíî ýòî ãîâîðèòü, íî ïðåäàòåëü îðóäóåò â íàøèõ âëàäåíèÿõ. Ýòà ""ïàðøèâàÿ îâöà"" ïîäãîòàâëèâàåò Âàøå ïàäåíèå. Ïðèëàãàþ ñ ýòèì ïèñüìîì äîêàçàòåëüñòâà, èçîáëè÷àþùèå íåãîäÿÿ.\n\nÂàø âåðíîïîääàííûé, [From.GetTitledFirstName]";;x
+EVTDESC63012;At the false charges of the accursed [FromFrom.GetTitledName], my liege has seen fit to imprison me!;;;;;;;;;;;[FromFrom.GetTitledName] ëîæíî îáâèíèë[FromFrom.GetEndA] ìåíÿ, ïóñòü ïðîêëÿòüå ïàä¸ò íà ýòîò ðîä, è ìîé ñþçåðåí íàø¸ë íóæíûì ïîñàäèòü ìåíÿ â òþðüìó!;;x
+EVTDESC63013;Dear [Root.GetTitledFirstName], your accusations against [FromFrom.GetTitledFirstName] proved to be truthful! The vile schemer is now languishing in my deepest, darkest dungeon.\n\nYour [From.GetTitle]\n[From.GetTitledFirstName];;;;;;;;;;;[Root.GetTitledFirstName], ïîäòâåðäèëîñü, ÷òî [FromFrom.GetTitledFirstName] äåéñòâèòåëüíî âèíîâàò â òîì, â ÷¸ì Âû [FromFrom.GetHersHis] îáâèíÿëè! Ïîäëûé èíòðèãàí ñåé÷àñ òîìèòñÿ â ìî¸ì ñàìîì ò¸ìíîì è ãëóáîêîì ïîäçåìåëüå.\nÂàø [From.GetTitle]\n [From.GetTitledFirstName];;x
+EVTDESC63014;Dear [Root.GetFirstName]! I'm afraid your allegations do not hold up. I can take no action against your so called traitor.\n\n[From.GetTitledFirstName];;;;;;;;;;;Äîðîãîé [Root.GetFirstName]! ß áîþñü, ÷òî Âàøè îáâèíåíèÿ íå âûäåðæèâàþò íèêàêîé êðèòèêè. ß ìîãó ñ ÷èñòîé ñîâåñòüþ íå ïðåäïðèíèìàòü íèêàêèõ äåéñòâèé ïðîòèâ Âàøèõ òàê íàçûâàåìûõ ïðåäàòåëåé.\n\n[From.GetTitledFirstName];;x
+EVTDESC63015;My loyal vassal! I recently received some disturbing allegations against you from [FromFrom.GetTitledName]. I do not believe them, but you should know that [From.GetSubjectPronoun] is no friend of yours.\n\n[From.GetTitledFirstName];;;;;;;;;;;Ìîé âåðíûé âàññàë! Íåäàâíî [FromFrom.GetTitledName] ïðåäîñòàâèë[FromFrom.GetEndA] ìíå òðåâîæàùèå îáâèíåíèÿ ïðîòèâ Âàñ. ß íå âåðþ â ýòî, íî Âû äîëæíû çíàòü, ÷òî íåêòî íå ïèòàåò áîëüøîé ëþáâè ê Âàì.\n\n[From.GetTitledFirstName];;x
+EVTDESC63016;To the dishonorable [Root.GetTitledFirstName]! Know that I am aware of your schemes, and so is [This.Liege.GetTitledFirstName]. [From.Religion.GetRandomGodName] be my witness, you will not succeed.;;;;;;;;;;;Ïîçîð íà Âàøå èìÿ, [Root.GetTitledFirstName]! Çíàéòå, ÷òî ÿ îñâåäîìëåí[From.GetEndA] î Âàøèõ ïëàíàõ, òàê æå êàê è [This.Liege.GetTitledFirstName]. [From.Religion.GetRandomGodName] - ñâèäåòåëü, Âû íå äîáüåòåñü óñïåõà.;;x
+EVTDESC63017;Disaster! [From.GetTitledFirstName] has thrown me in the dungeon for my 'false' allegations.;;;;;;;;;;;"Âñ¸ ïðîïàëî! [From.GetTitledFirstName] áðîñèë[From.GetEndA] ìåíÿ â òåìíèöó çà ìîè ""ëîæíûå"" îáâèíåíèÿ.";;x
+EVTDESC63018;A loyal friend at the household of [From.GetTitledName] told me that [From.GetSubjectPronoun] is about to present [Root.Liege.GetTitledFirstName] with false evidence of my treason!;;;;;;;;;;;Âåðíûé äðóã ìîåãî äîìà, [From.GetTitledName], ïðåäóïðåäèë[From.GetEndA] ìåíÿ, ÷òî êîå-êòî ñôàáðèêîâàë äîêàçàòåëüñòâà ìîåé èçìåíû è [Root.Liege.GetTitledFirstName] ñêîðî óâèäèò èõ!;;x
+EVTDESC63019;My liege! Very soon, the scheming [FromFrom.GetTitledName] will make accusations against me. Do not believe a word of it! [FromFrom.GetSubjectPronounCap] hates me and lacks all honor and decency.\n\nYour faithful vassal, [From.GetTitledFirstName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA]! Î÷åíü ñêîðî èíòðèãàí[FromFrom.GetEndKa] [FromFrom.GetTitledName] ñôàáðèêóåò îáâèíåíèÿ ïðîòèâ ìåíÿ. Íå âåðüòå íè åäèíîìó ñëîâó! Ýò[FromFrom.GetEtaEtot] íåãîäÿé[FromFrom.GetEndKa] íåíàâèäèò ìåíÿ è íå ñòðàäàåò îò îòñóòñòâèÿ ÷åñòè è ïîðÿäî÷íîñòè.\n\nÂåðíûé Âàì âàññàë, [From.GetTitledFirstName];;x
+EVTDESC63020;My loyal vassal! You were right. [FromFrom.GetTitledName] did accuse you of treason, but I dismissed [FromFrom.GetPossPronoun] so called evidence. Rest easy my friend.\n\n[From.GetTitledFirstName];;;;;;;;;;;Ìîé âåðíûé âàññàë! Âû áûëè ïðàâû. [FromFrom.GetTitledName] óæå îáâèíèë[FromFrom.GetEndA] Âàñ â èçìåíå, íî ÿ íå ïðèíÿë[From.GetEndA] íà âåðó òàê íàçûâàåìûå äîêàçàòåëüñòâà. Ðàññëàáüòåñü, ìîé äðóã.\n\n[From.GetTitledFirstName];;x
+EVTDESC63030;The maintenance cost of the levies I sent my liege are ruinous! Perhaps I should ask for some gold in return for my dutiful service...;;;;;;;;;;;Ðàñõîäû íà îáñëóæèâàíèå âîéñê, ÷òî ÿ ïîñëàë ñþçåðåíó, ãóáèòåëüíû! Ìîæåò áûòü, ìíå ñòîèò ïîïðîñèòü íåìíîãî çîëîòî â êà÷åñòâå áëàãîäàðíîñòè çà ìîþ áåçóïðå÷íóþ ñëóæáó?;;x
+EVTDESC63031;My liege, I am deeply hesitant to ask, but my coffers are running dry from the upkeep of the levies you have raised from my demesne. Any recompense for the costs of my liege's wars would be a great comfort.\n\nYour loyal [From.GetTitledFirstName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ìíå óæàñíî íåóäîáíî, íî ìîÿ êàçíà èññÿêàåò èç-çà íåîáõîäèìîñòè ñîäåðæàòü âîéñêà, êîòîðûå Âû ïðèçâàëè èç ìîåãî âëàäåíèÿ. Ëþáûå êîìïåíñàöèè ðàñõîäîâ íà âîéíó áûëè áû áîëüøèì ïîäñïîðüåì äëÿ ìåíÿ.\n\nÂàø[From.GetEndA] âåðíîïîääàíí[From.GetAyaYy] [From.GetTitledFirstName];;x
+EVTDESC63032;My most valued vassal, your request is reasonable. This gift of 30¤ should help tide you over.\n\n[From.GetTitledFirstName];;;;;;;;;;;Âàø çàïðîñ, ìîé ñàìûé öåííûé âàññàë, ÿâëÿåòñÿ ðàçóìíûì. Ýòîò ãðàíò íà 30¤ äîëæåí ïîìî÷ü Âàì ïðîäåðæàòüñÿ.\n\n[From.GetTitledFirstName];;x
+EVTDESC63033;[Root.GetTitledFirstName], I am under no obligation to give you recompense, but since you are my friend, here is a gift of 15¤.\n\n[From.GetTitledFirstName];;;;;;;;;;;[Root.GetTitledFirstName], ÿ íå îáÿçàí âûïëà÷èâàòü Âàì âîçíàãðàæäåíèå, íî òàê êàê Âû ìîé äðóã, ïðåäîñòàâëþ Âàì ãðàíò íà 15¤.\n\n[From.GetTitledFirstName];;x
+EVTDESC63034;To the honorable [Root.GetTitledFirstName]. As my bannerman, it is your sworn duty to pay for the upkeep of your levies. Do not trouble me with this again.\n\n[From.GetTitledFirstName];;;;;;;;;;;Ìî¸ ïî÷òåíèå, [Root.GetTitledFirstName]. Êàê ìîé çíàìåíîñåö, Âû îáÿçàíû ñàìè ñîäåðæàòü Âàø îòðÿä. Íå áåñïîêîéòå ìåíÿ ïî ýòîìó ïîâîäó â ñëåäóþùèé ðàç.\n\n[From.GetTitledFirstName];;x
+EVTDESC63035;honorable [Root.GetTitledFirstName]! Unfortunately, my own coffers yawn empty, but rest assured I will never forget the services you have rendered in these times of strife.\n\n[From.GetTitledFirstName];;;;;;;;;;;Äîñòîïî÷òåííûé [Root.GetTitledFirstName]! Ê ñîæàëåíèþ, ìîÿ ñîáñòâåííàÿ êàçíà óäðó÷àåò ïóñòîòîé, íî áóäüòå óâåðåíû, ÿ íèêîãäà íå çàáóäó óñëóãó, êîòîðóþ Âû îêàçàëè ìíå â ýòî íåë¸ãêîå âðåìÿ.\n\n[From.GetTitledFirstName];;x
+EVTDESC63040;It bothers me that my liege, [This.Liege.GetTitledFirstName], holds a title that should rightfully be mine.;;;;;;;;;;;Ìåíÿ áåñïîêîèò òîò ôàêò, ÷òî ìîé ñþçåðåí, [This.Liege.GetTitledFirstName], âëàäååò òèòóëîì, êîòîðûé ïî ïðàâó äîëæåí áûòü ìîèì.;;x
+EVTDESC63041;My liege!\nLoyal servants such as I surely deserve some recognition and rewards from time to time. It is widely known that you hold huge lands and many titles, and are as generous as you are wise. Perhaps you would consider granting this humble servant the [vassal_wanted_title.GetFullName]?\n\nYour vassal, [From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA]!\nÍå ñîìíåâàþñü, ñòîëü ïðåäàííûå ñëóãè, êàê ÿ, çàñëóæèâàþò íåêîòîðîãî ïðèçíàíèÿ. Øèðîêî èçâåñòíî, íàñêîëüêî îáøèðíû Âàøè âëàäåíèÿ, ÷òî íåóäèâèòåëüíî äëÿ ñòîëü ìóäðîãî ïðàâèòåëÿ. Íå ñ÷èòàåò ëè [Root.PrimaryTitle.GetFOA], ÷òî [vassal_wanted_title.GetFullName] - äîñòîéíàÿ íàãðàäà äëÿ ñêðîìíîãî ñëóãè?\nÂàø âåðíûé âàññàë, [From.GetTitledName];;x
+EVTDESC63042;My dear vassal,\n\nYou are a devoted servant, and I have decided to reward you. Please accept the [vassal_wanted_title.GetFullName] as a token of my love and your loyal service.\n\nYour liege, [From.GetTitledName];;;;;;;;;;;Äîðîãîé Âàññàë,\nÂû âåðíî ñëóæèëè ìíå è äîñòîéíû íàãðàäû. [vassal_wanted_title.GetFullName] òåïåðü ïðèíàäëåæèò Âàì. Ïðîøó, ïðèìèòå ýòîò òèòóë â çíàê ìîåé ïðèçíàòåëüíîñòè.\nÂàø ñþçåðåí,\n [From.GetTitledName];;x
+EVTDESC63043;Dear vassal,\n\nI fear that you have failed to convince me of the justice of your request. Regretfully, I cannot oblige you.\n\nYour liege,\n [From.GetTitledName];;;;;;;;;;;Äîðîãîé âàññàë! Áîþñü, ÷òî Âû íå ñìîãëè óáåäèòü ìåíÿ â ñïðàâåäëèâîñòè Âàøèõ ïðåòåíçèé. Ê ñîæàëåíèþ, ÿ íå ñìîãó óäîâëåòâîðèòü Âàøó ïðîñüáó.\nÂàø ñþçåðåí,\n [From.GetTitledName];;x
+EVTDESC63050;One of the guards is sympathetic enough to smuggle a letter out. Perhaps one of my friends can mediate my release...;;;;;;;;;;;Îäèí èç íàäçèðàòåëåé äîñòàòî÷íî íàäåë¸í ïîíèìàíèåì äëÿ òîãî, ÷òîáû ïåðåïðàâèòü ïèñüìî íà âîëþ. Âîçìîæíî, îäèí èç ìîèõ äðóçåé äîãîâîðèòñÿ î ìî¸ì îñâîáîæäåíèè...;;x
+EVTDESC63051;My dearest friend! I fear that my plight is terrible, I do not know for how long I can survive in this miserable dungeon. I beg of you, please intercede with [This.Liege.GetTitledFirstName] on my behalf.\n\nYour [GetFromRelation], [From.GetTitledFirstName];;;;;;;;;;;Ìîé äðàæàéøèé äðóã! Áîþñü, ìî¸ ïîëîæåíèå óæàñíî. ß íå çíàþ, êàê äîëãî ÿ ñìîãó ïðîòÿíóòü â ýòîì êîøìàðíîì ïîäçåìåëüå. ß ïðîøó Âàñ î ïîìîùè è íàäåþñü, ÷òî [This.Liege.GetTitledFirstName] îáðàòèò âíèìàíèå íà Âàøå õîäàòàéñòâî î ìî¸ì îñâîáîæäåíèè.\nÂàø[From.GetEndA] [From.GetRootRelation],\n [From.GetTitledFirstName];;x
+EVTDESC63052;My liege! I wish to intercede on the behalf of one of your prisoners, [FromFrom.GetBestName]. Surely a show of mercy would please all your vassals.\n\nYour faithful [From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA]! Ó Âàñ â çàêëþ÷åíèè íàõîäèòñÿ [FromFrom.GetBestName]. ß áû õîòåë õîäàòàéñòâîâàòü îá îñâîáîæäåíèè íåñ÷àñòíîãî îò åãî èìåíè. Áóäüòå óâåðåíû, ýòîò àêò ìèëîñåðäèÿ ïðîèçâåä¸ò âïå÷àòëåíèå íà âñåõ Âàøèõ âàññàëîâ.\nÑ óâàæåíèåì [From.GetTitledName];;x
+EVTDESC63053;I have been released! Thank [This.Religion.GetRandomGodName] for the intercession of [FromFrom.GetTitledFirstName]!;;;;;;;;;;;ß áûë îñâîáîæäåí! Áëàãîäàðþ òåáÿ, [This.Religion.GetRandomGodName], çà òî ÷òî [FromFrom.GetTitledFirstName] çàñòóïèëñÿ çà ìåíÿ!;;x
+EVTDESC63054;Dear [Root.GetTitledFirstName], criminals belong in prison. I'm afraid there is nothing I can do to help your friend.\n\n[From.GetTitledFirstName];;;;;;;;;;;[Root.GetTitledFirstName], ïðåñòóïíèêè äîëæíû íàõîäèòüñÿ â òþðüìå. Áîþñü, ÿ íè÷åãî íå ìîãó ñäåëàòü, ÷òîáû ïîìî÷ü Âàøåìó äðóãó.\n\n[From.GetTitledFirstName];;x
+EVTDESC63055;Soldiers took me from my bed at night! [From.GetTitledFirstName] is accusing me of conspiring against [From.GetSubjectPronoun] with known traitors!;;;;;;;;;;;"Ñîëäàòû âûòàùèëè ìåíÿ èç ìîåé êðîâàòè íî÷üþ! [From.GetTitledFirstName] îáâèíÿåò ìåíÿ â ""îðãàíèçàöèè çàãîâîðà ïðîòèâ ñþçåðåíà"" ñ èçâåñòíûìè ïðåäàòåëÿìè!";;x
+EVTDESC63056;My most valued friend and vassal! Your concern for your friend is touching, but the laws of the realm must be upheld or all would surely descend into anarchy.\n\nYour faithful liege, [From.GetTitledFirstName];;;;;;;;;;;Ìîé ñàìûé öåííûé äðóã è âàññàë! Âàøà çàáîòà î äðóãå òðîãàòåëüíà, íî çàêîíû ãîñóäàðñòâà äîëæíû áûòü ñîáëþäåíû, èëè âñ¸ âîêðóã, áóäüòå óâåðåíû, ñêàòèòñÿ ê àíàðõèè.\nÑî âñåì ïî÷òåíèåì, Âàø ñþçåðåí,\n [From.GetTitledFirstName];;x
+EVTDESC63057;My friend! Our liege, [This.Liege.GetTitledFirstName], has released me from my lonely cell, all thanks to you! [From.Religion.GetRandomGodName] bless you!\n\nYour ever grateful [GetFromRelation], [From.GetFirstName];;;;;;;;;;;Ìîé äðóã! Íàø ñþçåðåí, [This.Liege.GetTitledFirstName], îñâîáîäèë[This.Liege.GetEndA] ìåíÿ èç òåìíèöû, è âñ¸ áëàãîäàðÿ Âàì! Äà áëàãîñëîâèò Âàñ [From.Religion.GetRandomGodName]!\nÑ áåñêîíå÷íîé áëàãîäàðíîñòüþ, Âàø[From.GetEndA] [From.GetRootRelation],\n [From.GetFirstName];;x
+EVTDESC63060;My liege, [Root.Liege.GetTitledFirstName], taxes the cities harshly. How are we supposed to prosper under such a burden?;;;;;;;;;;;[Root.Liege.GetTitledFirstName] ïîäíèìàåò íàëîãè â ãîðîäàõ. Êàê íàì ïðåäëàãàåòñÿ ïðîöâåòàòü ïîä òàêèì áðåìåíåì?;;x
+EVTDESC63061;To the most illustrious [Root.GetTitledFirstName]. The good burghers of [From.PrimaryTitle.GetName] are barely able to pay their taxes. Our coffers are empty. I humbly ask that you lower the taxes for your cities.\n\nYour humble servant, [From.GetBestName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA]! Äîáðûå [From.PrimaryTitle.GetAdjective]ñêèå ãîðîæàíå åäâà ëè â ñîñòîÿíèè çàïëàòèòü ñâîè íàëîãè. Íàøè ñóíäóêè ïóñòû. Ìû ñìèðåííî ïðîñèì Âàñ ñíèçèòü íàëîãè äëÿ ãîðîäîâ.\n [From.GetBestName];;x
+EVTDESC63062;To my vassal, [Root.GetTitledFirstName]. The burghers can whine and squeal all they like. I have realm to run and an army to feed.\n\nYour liege, [From.GetBestName];;;;;;;;;;;Ìîé äîðîãîé âàññàë, [Root.GetTitledFirstName]! Áàðûãè ìîãóò âûòü è âèçæàòü, îíè ýòî ëþáÿò. Ó ìåíÿ æå åñòü ñòðàíà, êîòîðóþ íóæíî ðàçâèâàòü, è àðìèÿ, êîòîðóþ íóæíî êîðìèòü.\n\nÂàø ñþçåðåí, [From.GetBestName];;x
+EVTDESC63063;To my loyal vassal, [Root.GetTitledFirstName]. Perhaps you are right - I want my cities to grow and prosper. I will attempt to pass a law for lower city taxes.\n\nYour dutiful liege, [From.GetBestName];;;;;;;;;;;Ìîé âåðíûé âàññàë, [Root.GetTitledFirstName]! Ìîæåò áûòü, Âû è ïðàâû. ß õî÷ó, ÷òîáû ìîè ãîðîäà ðîñëè è ïðîöâåòàëè. ß ïîïûòàþñü ïðèíÿòü çàêîí î ñíèæåíèè íàëîãîâ.\n\nÂàø ñþçåðåí, [From.GetBestName];;x
+EVTDESC63064;To my loyal vassal, [Root.GetTitledFirstName]. I understand your plight, but I am afraid a law change is not possible at this time. However, I am prepared to offer you this little gift...\n\nYour faithful liege, [From.GetBestName];;;;;;;;;;;Ìîé âåðíûé âàññàë, [Root.GetTitledFirstName]! ß ïîíèìàþ Âàøå ïîëîæåíèå, íî áîþñü, ÷òî èçìåíèòü çàêîíîäàòåëüñòâî â äàííûé ìîìåíò íå ïðåäñòàâëÿåòñÿ âîçìîæíûì. Òåì íå ìåíåå, ÿ ïðåäëàãàþ Âàì ýòîò ìàëåíüêèé ïîäàðîê...\n\nÑ óâàæåíèåì, [From.GetBestName];;x
+EVTDESC63065;To my most valued vassal, [Root.GetTitledFirstName]. Nothing causes me more pain than to hear of the travails of my loyal citizens. I can only ask that you consider the needs of the whole realm. Your taxes are not wasted, but are needed to ensure your safety and long term prosperity.\n\nYour faithful liege, [From.GetBestName];;;;;;;;;;;Ìîé ñàìûé öåííûé âàññàë, [Root.GetTitledFirstName]. Íè÷òî íå âûçûâàåò ó ìåíÿ áîëüøå áîëè, ÷åì ñòðàäàíèÿ ìîèõ âåðíûõ ãîðîæàí. ß õî÷ó òîëüêî ñïðîñèòü, ó÷ëè ëè Âû ïîòðåáíîñòè âñåé íàøåé ñòðàíû? Íàëîãè, ñîáðàííûå ñ Âàñ, íå áûëè ïîòðà÷åíû âïóñòóþ, îíè íåîáõîäèìû äëÿ îáåñïå÷åíèÿ íàøåé îáùåé áåçîïàñíîñòè è äîëãîñðî÷íîãî ïðîöâåòàíèÿ.\n\nÑ óâàæåíèåì, [From.GetBestName];;x
+EVTDESC63100;Your liege has died, and the realm is in an uncertain state at the moment. Perhaps this is the right time to assert your independence?;;;;;;;;;;;Âàø ñþçåðåí ì¸ðòâ, è ñòðàíà íàõîäèòñÿ â øàòêîì ïîëîæåíèè. Âîçìîæíî, ñåé÷àñ ñàìîå âðåìÿ ïðîâîçãëàñèòü ñâîþ íåçàâèñèìîñòü?;;x
+EVTDESC63101;[From.GetTitledFirstName] has decided to defy your authority and assert [From.GetHerHis] independence, claiming you have no right to rule over [From.GetHerHim] anyway!;;;;;;;;;;;[From.GetTitledFirstName] îòâåðãàåò Âàøå ïðàâî áûòü [From.GetHersHis] ñþçåðåíîì è îáúÿâëÿåò î ñâîåé íåçàâèñèìîñòè!;;x
+EVTDESC63102;You feared that the lands of [From.GetTitledFirstName] might become independent from your realm in the uncertain moment of your inheritance. Luckily, [From.GetSheHe] has instead confirmed [From.GetHerHis] loyalty by swearing fealty to you.;;;;;;;;;;;Âàøè îïàñåíèÿ ïî ïîâîäó òîãî, ÷òî [From.GetTitledFirstName] ìîæåò îáúÿâèòü î ñâîåé íåçàâèñèìîñòè è ðàñêîëîòü ñòðàíó â ñâÿçè ñî ñìåíîé âëàñòè, ê ñ÷àñòüþ íå îïðàâäàëèñü. Íàïðîòèâ, [From.GetSheHe] êëÿí¸òñÿ Âàì â ñâîåé âåðíîñòè.;;x
+EVTDESC63103;Your liege has died, and now someone else dare claim to be your superior. Perhaps this is the right time to assert your independence?;;;;;;;;;;;Âàø ñþçåðåí ì¸ðòâ è òåïåðü êòî-òî äðóãîé ïðåòåíäóåò íà òî, ÷òîáû âëàñòâîâàòü íàä Âàìè. Âîçìîæíî, ñåé÷àñ ñàìîå âðåìÿ çàÿâèòü î ñâîèõ ïðàâàõ íà íåçàâèñèìîñòü?;;x
+EVTDESC63104;[From.GetTitledFirstName] has decided to defy your authority and assert [From.GetHerHis] independence, claiming you are too weak to rule over [From.GetHerHim] anyway!;;;;;;;;;;;[From.GetTitledFirstName] îòâåðãàåò Âàøå ïðàâî áûòü [From.GetHersHis] ñþçåðåíîì è îáúÿâëÿåò î ñâîåé íåçàâèñèìîñòè, óòâåðæäàÿ, ÷òî Âû ñëèøêîì ñëàáû, ÷òîáû ïðàâèòü!;;x
+EVTDESC63105;You feared that the lands of [From.GetTitledFirstName] might become independent from your realm in the uncertain moment of your inheritance. Luckily, [From.GetSheHe] has instead confirmed [From.GetHerHis] loyalty by swearing fealty to you.;;;;;;;;;;;Âàøè îïàñåíèÿ ïî ïîâîäó òîãî, ÷òî [From.GetTitledFirstName] ìîæåò îáúÿâèòü î ñâîåé íåçàâèñèìîñòè è ðàñêîëîòü ñòðàíó â ñâÿçè ñî ñìåíîé âëàñòè, ê ñ÷àñòüþ íå îïðàâäàëèñü. Íàïðîòèâ, [From.GetSheHe] êëÿí¸òñÿ Âàì â ñâîåé âåðíîñòè.;;x
+EVTOPTA63000;Seek redress;;;;;;;;;;;Òðåáîâàòü ñàòèñôàêöèè;;x
+EVTOPTA63001;[From.GetSubjectPronounCap] has a point;;;;;;;;;;;[From.GetSubjectPronounCap] çàñëóæèâàåò ýòî;;x
+EVTOPTA63001B;[From.GetSheHeCap] can have a vassal, for a favor.;;;;;;;;;;;Ïóñòü çàáèðàåò âàññàëà, íî áóäåò ìíå äîëæ[From.GetNaEn].;;x
+EVTOPTA63002;Very well;;;;;;;;;;;Îòëè÷íî;;x
+EVTOPTA63003;Well, there are other ways...;;;;;;;;;;;Íó ÷òî æ, åñòü è äðóãèå ïóòè...;;x
+EVTOPTA63004;I suspect treachery...;;;;;;;;;;;ß ïîäîçðåâàþ ïðåäàòåëüñòâî...;;x
+EVTOPTA63005;My liege is truly just!;;;;;;;;;;;Ìîé ñþçåðåí äåéñòâèòåëüíî ñïðàâåäëèâ!;;x
+EVTOPTA63006;I am pleased;;;;;;;;;;;Ýòî ðàäóåò;;x
+EVTOPTA63007;I do so love intrigue!;;;;;;;;;;;ß òàê ëþáëþ èíòðèãè!;;x
+EVTOPTA63010;Present my 'evidence' to my liege;;;;;;;;;;;"Ïðåäîñòàâèòü ""äîêàçàòåëüñòâà"" ìîåìó ñþçåðåíó.";;x
+EVTOPTA63011;Marshal! Fetch me the traitor!;;;;;;;;;;;[Root.GetMarshalName]! Äîñòàâèòü êî ìíå ïðåäàòåëÿ!;;x
+EVTOPTA63012;Curse [FromFrom.GetPossPronoun] name!;;;;;;;;;;;Áóäü ïðîêëÿòî èìÿ åãî!;;x
+EVTOPTA63013;Excellent, [From.GetTitledFirstName]!;;;;;;;;;;;[From.GetTitledFirstName], ýòî ïðåâîñõîäíî!;;x
+EVTOPTA63014;Bah, it was a good scheme!;;;;;;;;;;;Äüÿâîë! Ýòî áûëà õîðîøàÿ ñõåìà!;;x
+EVTOPTA63015;The utter bastard!;;;;;;;;;;;Âîò âåäü òâàðü!;;x
+EVTOPTA63016;We shall see about that;;;;;;;;;;;Ìû çàéìåìñÿ ýòèì.;;x
+EVTOPTA63017;I will get out of here...;;;;;;;;;;;ß áóäó ñòàðàòüñÿ âûáðàòüñÿ îòñþäà...;;x
+EVTOPTA63018;Plead my innocence!;;;;;;;;;;;Îòñòàèâàòü ñâîþ íåâèíîâíîñòü!;;x
+EVTOPTA63020;Thank [Root.Religion.GetRandomGodName]!;;;;;;;;;;;Áëàãîäàðþ, [Root.Religion.GetRandomGodName]!;;x
+EVTOPTA63030;Ask for recompense;;;;;;;;;;;Ïîïðîñèòü êîìïåíñàöèþ.;;x
+EVTOPTA63031;30¤ should do it;;;;;;;;;;;30¤ äîëæíî áûòü äîñòàòî÷íî.;;x
+EVTOPTA63033;Good enough;;;;;;;;;;;Äîñòàòî÷íî õîðîøî;;x
+EVTOPTA63034;I shall be reduced to begging!;;;;;;;;;;;Ïîñëå òàêîãî ÿ, äîëæíî áûòü, âûãëÿæó ïîïðîøàéêîé!;;x
+EVTOPTA63035;I guess I cannot complain;;;;;;;;;;;ß äóìàþ, ÷òî ÿ íå äîëæåí æàëîâàòüñÿ.;;x
+EVTOPTA63040;Request the title;;;;;;;;;;;Ïîòðåáîâàòü òèòóë.;;x
+EVTOPTA63041;Of course!;;;;;;;;;;;Êîíå÷íî! Ïî÷åìó áû íåò?;;x
+EVTOPTA63043;Disappointing;;;;;;;;;;;Ðàçî÷àðîâûâàþùå.;;x
+EVTOPTA63044;My liege is wise;;;;;;;;;;;Ìîé ñþçåðåí ìóäð.;;x
+EVTOPTA63050;Compose a Letter;;;;;;;;;;;Íàïèñàòü ïèñüìî.;;x
+EVTOPTA63051;Ask for a Pardon;;;;;;;;;;;Õîäàòàéñòâîâàòü î ïîìèëîâàíèè.;;x
+EVTOPTA63052;Very well;;;;;;;;;;;Îòëè÷íî.;;x
+EVTOPTA63053;Free at last!;;;;;;;;;;;Íàêîíåö ñâîáîäåí!;;x
+EVTOPTA63054;Such a shame...;;;;;;;;;;;Êàêàÿ æàëîñòü...;;x
+EVTOPTA63055;So much for a show of compassion;;;;;;;;;;;"Íåìàëî äëÿ ""äåìîíñòðàöèè ñîñòðàäàíèÿ"".";;x
+EVTOPTA63056;[From.GetSubjectPronounCap] speaks wisdom;;;;;;;;;;;Ìóäðûå ñëîâà.;;x
+EVTOPTA63057;All is well that ends well!;;;;;;;;;;;Õîðîøî âñ¸ òî, ÷òî õîðîøî êîí÷àåòñÿ!;;x
+EVTOPTA63060;Request Lower Taxes;;;;;;;;;;;ß ïðîøó ñíèçèòü íàëîãè.;;x
+EVTOPTA63061;An absurd request!;;;;;;;;;;;Àáñóðäíàÿ ïðîñüáà!;;x
+EVTOPTA63062;Blast!;;;;;;;;;;;Ïðîêëÿòüå!;;x
+EVTOPTA63065;[From.GetSubjectPronounCap] is right...;;;;;;;;;;;[From.GetSubjectPronounCap] ïðàâ...;;x
+EVTOPTA63100;I bow to no one!;;;;;;;;;;;ß íå ñêëîíþñü íè ïåðåä êåì!;;x
+EVTOPTA63101;We are not pleased.;;;;;;;;;;;Ìû âûðàæàåì ãëóáî÷àéøóþ îçàáî÷åííîñòü.;;x
+EVTOPTA63102;A true and loyal vassal!;;;;;;;;;;;Âîò îíà - èñòèííàÿ ëîÿëüíîñòü!;;x
+EVTOPTA63103;I will not bend my knee to a weakling!;;;;;;;;;;;ß íå ñêëîíþ êîëåíî ïåðåä ñëàáàêîì!;;x
+EVTOPTA63104;We are not pleased.;;;;;;;;;;;Ìû âûðàæàåì ãëóáî÷àéøóþ îçàáî÷åííîñòü.;;x
+EVTOPTA63105;A true and loyal vassal!;;;;;;;;;;;Âîò îíà - èñòèííàÿ ëîÿëüíîñòü!;;x
+EVTOPTB63000;I doubt [This.Liege.GetSubjectPronoun] would agree...;;;;;;;;;;;ß ñîìíåâàþñü, ÷òî [This.Liege.GetSubjectPronoun] ñîãëàñèòñÿ âûïîëíèòü ìîè ïðîñüáû...;;x
+EVTOPTB63001;Let me think... Denied!;;;;;;;;;;;Äàéòå ïîäóìàòü... Îòêàçàòü!;;x
+EVTOPTB63010;On second thought, it's a bad idea...;;;;;;;;;;;À åñëè ïîäóìàòü, òî ýòà èäåÿ íå òàê óæ è õîðîøà...;;x
+EVTOPTB63011;Evidence? This is nonsense!;;;;;;;;;;;Äîêàçàòåëüñòâà? Íîíñåíñ!;;x
+EVTOPTB63030;No, I will get by;;;;;;;;;;;Íåò, ÿ ïîòåðïëþ.;;x
+EVTOPTB63031;15¤ is enough;;;;;;;;;;;Äîñòàòî÷íî 15¤.;;x
+EVTOPTB63040;Better not annoy [This.Liege.GetObjectPronoun];;;;;;;;;;;Ëó÷øå íå ðàçäðàæàòü åãî.;;x
+EVTOPTB63041;This greed does not become you.;;;;;;;;;;;Æàäíîñòü Âàñ íå óêðàøàåò.;;x
+EVTOPTB63043;This is futile.;;;;;;;;;;;Ýòî áåñïîëåçíî.;;x
+EVTOPTB63043_TOOLTIP;Abandon your ambition.;;;;;;;;;;;Îòêàçàòüñÿ îò àìáèöèè.;;x
+EVTOPTB63051;We are not that close;;;;;;;;;;;Ìû íå òàê áëèçêè.;;x
+EVTOPTB63052;Absolutely not!;;;;;;;;;;;Îäíîçíà÷íî - íåò!;;x
+EVTOPTB63060;I dare not anger [Root.Liege.GetObjectPronoun]...;;;;;;;;;;;ß íå ñìåþ ãíåâèòü [Root.Liege.GetObjectPronoun]...;;x
+EVTOPTB63061;Very well...;;;;;;;;;;;Îòëè÷íî...;;x
+EVTOPTB63100;I will renew my pledge of fealty.;;;;;;;;;;;ß ïðèíåñó íîâóþ êëÿòâó âåðíîñòè.;;x
+EVTOPTB63103;[New.GetTitledFirstName] is someone I could follow.;;;;;;;;;;;[New.GetTitledFirstName] - ëèäåð, çà êîòîðûì ìîæíî ñëåäîâàòü.;;x
+EVTOPTC63001;I like my other vassal better;;;;;;;;;;;Äðóãîé âàññàë ìíå íðàâèòñÿ áîëüøå;;x
+EVTOPTC63011;This seems fishy. I should notify the supposed 'plotter'.;;;;;;;;;;;"Ïîäîçðèòåëüíî. Ïðåäóïðåæó ïðåäïîëîãàåìîãî ""çàãîâîðùèêà"".";;x
+EVTOPTC63031;Money? It's his duty!;;;;;;;;;;;Äåíüãè? Ýòî åãî äîëã!;;x
+EVTOPTC63052;How about you join [FromFrom.GetHerHim]?;;;;;;;;;;;Êàê íàñ÷¸ò òîãî, ÷òîáû ïðèñîåäèíèòüñÿ ê í[FromFrom.GetHerHim]?;;x
+EVTOPTC63061;Bribe [From.GetObjectPronoun];;;;;;;;;;;Ïîäêóïèòü åãî;;x
+EVTOPTC63041;I would be happy to grant you this deserved reward, but...;;;;;;;;;;;ß áû ñ ðàäîñòüþ, íî...;;x
+EVTOPTD63001;Impress [From.GetObjectPronoun] with vague promises;;;;;;;;;;;Îáíàäåæèòü [From.GetAbsPossPronoun] òóìàííûìè îáåùàíèÿìè;;x
+EVTOPTD63011;I think [From.GetTitledFirstName] is the real traitor;;;;;;;;;;;ß äóìàþ, ÷òî [From.GetTitledFirstName] - íàñòîÿùèé ïðåäàòåëü.;;x
+EVTOPTD63031;Placate [From.GetObjectPronoun] with flattery;;;;;;;;;;;Óñïîêîèòü ïðîñèòåëÿ ëåñòüþ.;;x
+EVTOPTD63041;In exchange for a favor.;;;;;;;;;;;Ñîãëàñ[Root.GetNaEn], íî Âû áóäåòå ìíå äîëæíû.;;x
+EVTOPTD63052;Diplomatically explain why I cannot;;;;;;;;;;;Äèïëîìàòè÷íî îáúÿñíèòü, ïî÷åìó ÿ íå ìîãó ñäåëàòü ýòî.;;x
+EVTOPTD63061;Flatter and soothe [From.GetObjectPronoun];;;;;;;;;;;Ïîëüñòèòü [From.GetObjectPronoun];;x
+EVTTOOLTIP63001;Seek an audience with [This.Liege.GetTitledFirstName];;;;;;;;;;;Ïðîñèòü àóäèåíöèè ó [This.Liege.GetTitledFirstName];;x
+EVTTOOLTIP63002;[This.GetTitledName] becomes a vassal of [From.GetTitledName];;;;;;;;;;;[This.GetTitledName] ñòàíîâèòñÿ âàññàëîì ïåðñîíàæà [From.GetTitledName];;x
+EVTTOOLTIP63003;[This.GetTitledFirstName] is disappointed;;;;;;;;;;;[This.GetTitledFirstName] îãîð÷àåòñÿ;;x
+EVTTOOLTIP63005;[This.GetTitledName] is impressed by my flattery;;;;;;;;;;;[This.GetTitledName] ïîä âïå÷àòëåíèåì îò ìîåé ëåñòè;;x
+EVTTOOLTIP63007;[This.GetTitledName] gets a claim on [From.GetTitledName];;;;;;;;;;;[This.GetTitledName] ïðèîáðåòàåò ïðåòåíçèè íà çåìåëüíûé òèòóë ïåðñîíàæà [From.GetTitledName];;x
+EVTTOOLTIP63011;A letter is sent to [This.GetTitledFirstName];;;;;;;;;;;[This.GetTitledFirstName] ñêîðî ïîëó÷èò íàøå ïèñüìî.;;x
+EVTTOOLTIP63014;Tell [This.GetTitledFirstName] what I think of [This.GetPossPronoun] 'evidence';;;;;;;;;;;"Ïóñòü [This.GetTitledFirstName] óçíàåò, ÷òî ÿ äóìàþ ïðî ýòè ""äîêàçàòåëüñòâà"".";;x
+EVTTOOLTIP63016;Let [FromFrom.GetTitledFirstName] know what I think of this;;;;;;;;;;;Ïóñòü [FromFrom.GetTitledFirstName] çíàåò, ÷òî ÿ äóìàþ îá ýòîì.;;x
+EVTTOOLTIP63017;Throw [This.GetTitledFirstName] in the dungeon for falsifying evidence;;;;;;;;;;;[This.GetTitledFirstName] äîëæ[This.GetNaEn] áûòü áðîøåí[This.GetEndA] â ïîäçåìåëüå çà ôàëüñèôèêàöèþ äîêàçàòåëüñòâ.;;x
+EVTTOOLTIP63018;My enemy, [This.GetTitledName], is tipped off;;;;;;;;;;;Ìîé âðàã, [This.GetTitledName], ïðåäóïðåæäåí[This.GetEndA].;;x
+EVTTOOLTIP63019;A fast courier is dispatched to my liege;;;;;;;;;;;Áûñòðåéøèé èç ãîíöîâ îòïðàâèòñÿ ê ìîåìó ñþçåðåíó.;;x
+EVTTOOLTIP63031;Dispatch my request to [This.Liege.GetTitledFirstName];;;;;;;;;;;[This.Liege.GetTitledFirstName] äîëæ[This.Liege.GetNaEn] âñêîðå ïîëó÷èòü ìîþ ïðîñüáó.;;x
+EVTTOOLTIP63041;Present my request to my [This.Liege.GetTitledFirstName];;;;;;;;;;;Ïåðåäàòü ìîþ ïðîñüáó ìîåìó ñþçåðåíó. [This.Liege.GetTitledFirstName] áóäåò â êóðñå.;;x
+EVTTOOLTIP63043;[This.GetTitledFirstName] is informed of my decision;;;;;;;;;;;Òåïåðü [This.GetTitledFirstName] çíàåò î ìî¸ì ðåøåíèè.;;x
+EVTTOOLTIP63044;[This.GetTitledFirstName] is diplomatically informed of my decision;;;;;;;;;;;[This.GetTitledFirstName] äèïëîìàòè÷íî ïðîèíôîðìèðîâàí î ìî¸ì ðåøåíèè.;;x
+EVTTOOLTIP63051;My letter is smuggled out to [This.GetBestName];;;;;;;;;;;Ìî¸ ïèñüìî òàéíî äîñòàâëåíî àäðåñàòó. [This.GetBestName] ïîìîæåò ìíå!;;x
+EVTTOOLTIP63052;A letter is sent to [This.Liege.GetTitledFirstName];;;;;;;;;;;[This.Liege.GetTitledFirstName] äîëæåí ñêîðî ïîëó÷èòü ïèñüìî.;;x
+EVTTOOLTIP63053;§Y[This.GetTitledName]§! is set free.;;;;;;;;;;;§Y[This.GetTitledName]§! áóäåò îñâîáîæäåí[This.GetEndA].;;x
+EVTTOOLTIP63055;§Y[This.GetTitledName]§! is arrested and thrown in jail.;;;;;;;;;;;§Y[This.GetTitledName]§! áóäåò àðåñòîâàí[This.GetEndA] è áðîøåí[This.GetEndA] â òåìíèöó.;;x
+EVTTOOLTIP63056;§Y[This.GetTitledName]§! is impressed with my explanation.;;;;;;;;;;;§Y[This.GetTitledName]§! áóäåò âïå÷àòëåí[This.GetEndA] ìîèìè îáúÿñíåíèÿìè.;;x
+EVTTOOLTIP63057;A letter of gratitude is sent to [This.GetBestName];;;;;;;;;;;[This.GetBestName] ñêîðî ïîëó÷èò áëàãîäàðñòâåííîå ïèñüìî.;;x
+EVTTOOLTIP63061;Ask my liege to seek support for a law change;;;;;;;;;;;ß ïðîøó ìîåãî ñþçåðåíà ïîääåðæàòü èçìåíåíèÿ â çàêîíîäàòåëüñòâå.;;x
+EVTTOOLTIP63062;[This.GetTitledFirstName] is disappointed;;;;;;;;;;;[This.GetTitledFirstName] ðàçî÷àðîâàí.;;x
+EVTTOOLTIP63063;[This.GetTitledFirstName] is overjoyed;;;;;;;;;;;[This.GetTitledFirstName] âíå ñåáÿ îò ðàäîñòè.;;x
+EVTTOOLTIP63064;[This.GetTitledFirstName] is satisfied;;;;;;;;;;;[This.GetTitledFirstName] óäîâëåòâîð¸í.;;x
+EVTTOOLTIP63065;[This.GetTitledFirstName] is impressed;;;;;;;;;;;[This.GetTitledFirstName] âïå÷àòë¸í.;;x

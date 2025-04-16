@@ -1,50 +1,46 @@
-EVTDESC_ZE_8000;[target_spouse.GetTitledName], the [target_spouse.GetHusbandWife] of [target_ruler.GetTitledName], has been spending a few days in [capital.GetName]. It has been a very nice experience meeting [target_spouse.GetHerHim] - maybe our peoples are not that different after all.;;;;;;;;;;;;;x
-EVTDESC_ZE_8001;Dear [target_ruler.GetTitledName],\nDuring your [target_ruler.GetHusbandWifeOpp]'s recent visit to [capital.GetName] we had a great time discussing the similarities between our people. I suggest a non-aggression pact between us for the near future, and we will welcome any visitors from your realm with open arms.\n\nKind regards,\n[From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC_ZE_8002;Dear [Root.GetTitledName],\n\nIf this agreement can lead to a better understanding between our peoples, I will put effort into opening our borders to visitors from your realm.\n\nYours truly,\n [target_ruler.GetTitledName].;;;;;;;;;;;;;x
-EVTDESC_ZE_8003;Dear [Root.GetTitledName],\n\nI am glad to hear you are well and that my [target_ruler.GetHusbandWifeOpp]'s visit was a good experience. Unfortunately, in these times pacts are broken left and right and to avoid going back on my word in the future, I would rather not give this kind of guarantee. I hope you understand.;;;;;;;;;;;;;x
-EVTDESC_ZE_8010;A petty noble from [target_ruler_capital.GetName] has spent a week visiting [capital.GetName], constantly bragging about his wealth and estates back home, insulting his local peers and behaving like royalty. Your courtiers are quite sick of him and are asking you to take action.;;;;;;;;;;;;;x
-EVTDESC_ZE_8011;Dear [target_ruler.GetTitledName],\nWe are having some trouble with one of your petty nobles who is visiting [capital.GetName]. His behavior being unacceptable would be quite an understatement, and I will have to take action soon.\n\nBest wishes,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC_ZE_8012;Dear [Root.GetTitledName],\nI'm sorry to hear about your annoying guest. I can assure you that he is not a noble from [target_ruler_capital.GetName]. If this scoundrel still remains in [capital.GetName], I hope you deal with it soon.\n\n Sincerely,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC_ZE_8013;Dear [Root.GetTitledName],\nI feel insulted that the first thing you do is accuse my people of being ill-behaved. Did you ever consider that he may be a fraud? Of course not, you [GetFromRootInsult].\n\nAll the best,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC_ZE_8014;My sincerest apologies [Root.GetTitledName], I realize that we made assumptions based on lies we were told and I hope this incident will soon be forgotten.\n\nKind regards,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC_ZE_8015;[Root.GetTitledName],\nI should have known you would try to worm your way out of this matter. Responsibility never came easy to you, you [GetFromRootInsult]. Consider our agreement a thing of the past.\n\nI hope you catch the plague,[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC_ZE_8016;Dear [Root.GetTitledName],\nI hope this person has not caused too much trouble. I will inform my people of your customs so that misunderstandings can be avoided when they visit your realm. Thank you for offering a chance to correct this behavior.\n\nBest wishes,\n[From.GetTitledName];;;;;;;;;;;;;x
-
-EVTOPTA_ZE_8000;I'll write to [target_ruler.GetTitledFirstName]. We could be friends.;;;;;;;;;;;;;x
-EVTOPTA_ZE_8000_TOOLTIP;Suggest a non-aggression pact.;;;;;;;;;;;;;x
-EVTOPTA_ZE_8001;A wonderful idea.;;;;;;;;;;;;;x
-EVTOPTA_ZE_8001_TOOLTIP;Sign the non-aggression pact.\n;;;;;;;;;;;;;x
-EVTOPTA_ZE_8002;Fantastic!;;;;;;;;;;;;;x
-EVTOPTA_ZE_8002_TOOLTIP;The pact is signed.;;;;;;;;;;;;;x
-EVTOPTA_ZE_8003;That's a shame.;;;;;;;;;;;;;x
-EVTOPTA_ZE_8010;Write a formal complaint to [target_ruler.GetTitledName].;;;;;;;;;;;;;x
-EVTOPTA_ZE_8010_TOOLTIP;[target_ruler.GetTitledName] receives your letter of complaint.;;;;;;;;;;;;;x
-EVTOPTA_ZE_8011;I must show sympathy and explain.;;;;;;;;;;;;;x
-EVTOPTA_ZE_8011_TOOLTIP;[From.GetFirstName] receives a letter expressing sympathy.;;;;;;;;;;;;;x
-EVTOPTA_ZE_8012;Deal with impostor, and apologize.;;;;;;;;;;;;;x
-EVTOPTA_ZE_8012_TOOLTIP;Send a letter of apology to [From.GetTitledName];;;;;;;;;;;;;x
-EVTOPTA_ZE_8013;What nerve! This changes things.;;;;;;;;;;;;;x
-EVTOPTA_ZE_8013_TOOLTIP;Break non-aggression pact.;;;;;;;;;;;;;x
-EVTOPTA_ZE_8013_TOOLTIPA;Break the non-aggression pact.;;;;;;;;;;;;;x
-EVTOPTA_ZE_8014;That's sorted then.;;;;;;;;;;;;;x
-EVTOPTA_ZE_8015;This is no friend of ours!;;;;;;;;;;;;;x
-EVTOPTA_ZE_8016;All is well.;;;;;;;;;;;;;x
-
-EVTOPTB_ZE_8000;It changes nothing.;;;;;;;;;;;;;x
-EVTOPTB_ZE_8001;Respectfully disagree.;;;;;;;;;;;;;x
-EVTOPTB_ZE_8001_TOOLTIP;Decline the offer.;;;;;;;;;;;;;x
-EVTOPTB_ZE_8010;Ignore your courtiers.;;;;;;;;;;;;;x
-EVTOPTB_ZE_8010_TOOLTIP;Your courtiers will not like this.;;;;;;;;;;;;;x
-EVTOPTB_ZE_8011;I will swallow my pride and take responsibility.;;;;;;;;;;;;;x
-EVTOPTB_ZE_8011_TOOLTIP;Let's not make it worse.;;;;;;;;;;;;;x
-EVTOPTB_ZE_8012;I'm no fool, I can tell he's from [target_ruler_capital.GetName].;;;;;;;;;;;;;x
-EVTOPTB_ZE_8013;I will let this go, for now.;;;;;;;;;;;;;x
-EVTOPTB_ZE_8013_TOOLTIPB;Your alliance is in danger.;;;;;;;;;;;;;x
-
-EVTOPTC_ZE_8010;Make him go away...;;;;;;;;;;;;;x
-EVTOPTC_ZE_8010_TOOLTIP;Accidents happen all the time.;;;;;;;;;;;;;x
-EVTOPTC_ZE_8011;False accusations!;;;;;;;;;;;;;x
-EVTOPTC_ZE_8011_TOOLTIP;[From.GetFirstName] receives an angry letter.;;;;;;;;;;;;;x
-EVTOPTC_ZE_8012;Pah! You are lying - but I will not take this further.;;;;;;;;;;;;;x
-
-EVTTITLE_ZE_8001;Spouse visit;;;;;;;;;;;;;x
+EVTDESC_ZE_8000;[target_spouse.GetTitledName], the [target_spouse.GetHusbandWife] of [target_ruler.GetTitledName], has been spending a few days in [capital.GetName]. It has been a very nice experience meeting [target_spouse.GetHerHim] - maybe our peoples are not that different after all.;;;;;;;;;;;[target_spouse.GetTitledName], [target_spouse.GetHusbandWife] ïðàâèòåëÿ, èçâåñòíîãî êàê [target_ruler.GetTitledName], ïðîáûë[target_spouse.GetEndA] íåñêîëüêî äíåé â ñòîëèöå. Áûëî íà óäèâëåíèå ïðèÿòíî îáùàòüñÿ ñ í[target_spouse.GetEyIm]. [target_spouse.GetSheHeCap] ñêàçàë[target_spouse.GetEndA], ÷òî [capital.GetName] - ïðåêðàñíîå ìåñòî è õîòåë[target_spouse.GetEndA] áû ïðèåõàòü ñíîâà.;;x
+EVTDESC_ZE_8001;Dear [target_ruler.GetTitledName],\nDuring your [target_ruler.GetHusbandWifeOpp]'s recent visit to [capital.GetName] we had a great time discussing the similarities between our people. I suggest a non-aggression pact between us for the near future, and we will welcome any visitors from your realm with open arms.\n\nKind regards,\n[From.GetTitledFirstName];;;;;;;;;;;Äîðîã[target_ruler.GetAyaOy] [target_ruler.GetTitledName],\nÌû ñ Âàø[target_ruler.GetEyImOpp] [target_ruler.GetHusbandWifeOppINS] ïðåêðàñíî ïðîâåëè âðåìÿ, îáñóæäàÿ âçàèìîîòíîøåíèÿ ìåæäó íàøèìè íàðîäàìè, êîãäà [target_ruler.GetSheHeOpp] áûë[target_ruler.GetEndAOpp] çäåñü ñ âèçèòîì. ß ñ÷èòàþ, ÷òî ïàêò î íåíàïàäåíèè ïðèø¸ëñÿ áû âåñüìà êñòàòè. Ïðèåçæàéòå â ãîñòè.\nÑ íàèëó÷øèìè ïîæåëàíèÿìè,\n [From.GetTitledFirstName];;x
+EVTDESC_ZE_8002;Dear [Root.GetTitledName],\n\nIf this agreement can lead to a better understanding between our peoples, I will put effort into opening our borders to visitors from your realm.\n\nYours truly,\n [target_ruler.GetTitledName].;;;;;;;;;;;Äîðîã[Root.GetAyaOy] [Root.GetTitledName],\nÅñëè ýòî ñîãëàøåíèå ïîñïîñîáñòâóåò âçàèìîïîíèìàíèþ ìåæäó íàøèìè íàðîäàìè, ÿ ïðèëîæó âñå óñèëèÿ äëÿ îòêðûòèÿ ãðàíèö äëÿ ïîñåòèòåëåé èç Âàøåé ñòðàíû.\nÑ óâàæåíèåì,\n [target_ruler.GetTitledName].;;x
+EVTDESC_ZE_8003;Dear [Root.GetTitledName],\n\nI am glad to hear you are well and that my [target_ruler.GetHusbandWifeOpp]'s visit was a good experience. Unfortunately, in these times pacts are broken left and right and to avoid going back on my word in the future, I would rather not give this kind of guarantee. I hope you understand.;;;;;;;;;;;Äîðîã[Root.GetAyaOy] [Root.GetTitledName],\nß ðàä[target_ruler.GetEndA] ñëûøàòü, ÷òî âèçèò ìîå[target_ruler.GetYGoOpp] [target_ruler.GetHusbandWifeOppGEN] èìåë òàêîé óñïåõ. Íî, ê ñîæàëåíèþ, âûíóæäåí[target_ruler.GetEndA] îòêàçàòüñÿ îò ñîãëàøåíèÿ. Â íàøå âðåìÿ âñ¸ òàê ïåðåìåí÷èâî, óñëîâèÿ ïîñòîÿííî ìåíÿþòñÿ, è áîþñü íå ñìîãó ñäåðæàòü ñëîâî, åñëè çàêëþ÷ó ýòîò äîãîâîð. Íàäåþñü, Âû ïîíèìàåòå.;;x
+EVTDESC_ZE_8010;A petty noble from [target_ruler_capital.GetName] has spent a week visiting [capital.GetName], constantly bragging about his wealth and estates back home, insulting his local peers and behaving like royalty. Your courtiers are quite sick of him and are asking you to take action.;;;;;;;;;;;"Ìåëêèé ïðåäñòàâèòåëü [target_ruler_capital.County.GetAdjective]ñêîé çíàòè âîò óæå íåäåëþ ãîñòèò â [capital.County.GetAdjective]ñêèõ çåìëÿõ. Çà ýòî âðåìÿ îí äî ÷¸ðòèêîâ íàäîåë âñåì. Îí ïîñòîÿííî õâàñòàåòñÿ ñâîèì áîãàòñòâîì è îñêîðáëÿåò ñâîèõ êîëëåã. Âàøè ïðèäâîðíûå ïðîñÿò ""÷òî-òî ñ ýòèì ñäåëàòü"".";;x
+EVTDESC_ZE_8011;Dear [target_ruler.GetTitledName],\nWe are having some trouble with one of your petty nobles who is visiting [capital.GetName]. His behavior being unacceptable would be quite an understatement, and I will have to take action soon.\n\nBest wishes,\n[From.GetTitledName];;;;;;;;;;;Óâàæàåì[target_ruler.GetAyaYy] [target_ruler.GetTitledName],\nÓ íàñ ïðîáëåìà ñ îäíèì èç Âàøèõ ïîääàííûõ. [capital.GetName] ïðèíèìàåò åãî êàê ãîñòÿ óæå íåäåëþ, íî åãî ïîâåäåíèå, ìÿãêî ãîâîðÿ, íåïðèåìëåìî. Áîþñü, ðàíî èëè ïîçäíî, ìíå ïðèä¸òñÿ ïðèíÿòü ìåðû.\nÑ íàèëó÷øèìè ïîæåëàíèÿìè,\n [From.GetTitledName];;x
+EVTDESC_ZE_8012;Dear [Root.GetTitledName],\nI'm sorry to hear about your annoying guest. I can assure you that he is not a noble from [target_ruler_capital.GetName]. If this scoundrel still remains in [capital.GetName], I hope you deal with it soon.\n\n Sincerely,\n[From.GetTitledName];;;;;;;;;;;Óâàæàåì[Root.GetAyaYy] [Root.GetTitledName],\nÌíå î÷åíü æàëü, ÷òî ýòîò ÷åëîâåê äîñòàâèë Âàì ñòîëüêî íåïðèÿòíîñòåé. Ìîãó Âàñ çàâåðèòü, îí - ñîâñåì íå òîò, çà êîãî ñåáÿ âûäà¸ò. Ó íåãî íåò âëàäåíèé â [target_ruler_capital.County.GetAdjective]ñêèõ çåìëÿõ. Åñëè ýòîò ìåðçàâåö ñàì íå óåäåò, Âû ìîæåòå ïîñòóïèòü ñ íèì, êàê Âàì áóäåò óãîäíî.\nÑ óâàæåíèåì,\n [From.GetTitledName];;x
+EVTDESC_ZE_8013;Dear [Root.GetTitledName],\nI feel insulted that the first thing you do is accuse my people of being ill-behaved. Did you ever consider that he may be a fraud? Of course not, you [GetFromRootInsult].\n\nAll the best,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nÌåíÿ âåñüìà îãîð÷àåò òî, êàê Âû îáâèíÿåòå ìîé íàðîä â íåïîäîáàþùåì ïîâåäåíèè. Âàì íå ïðèõîäèëî â ãîëîâó, ÷òî îí - ìîøåííèê? Êîíå÷íî, íåò! Ïîäóìàéòå îá ýòîì...\n [From.GetTitledName];;x
+EVTDESC_ZE_8014;My sincerest apologies [Root.GetTitledName], I realize that we made assumptions based on lies we were told and I hope this incident will soon be forgotten.\n\nKind regards,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nÏðèíîøó Âàì ñâîè èñêðåííèå èçâèíåíèÿ. Ìîè ïðåæäåâðåìåííûå âûâîäû áûëè îñíîâàíû íà çàáëóæäåíèè. Íàäåþñü, ýòîò èíöèäåíò âñêîðå áóäåò çàáûò.\nÑ óâàæåíèåì,\n [From.GetTitledName];;x
+EVTDESC_ZE_8015;[Root.GetTitledName],\nI should have known you would try to worm your way out of this matter. Responsibility never came easy to you, you [GetFromRootInsult]. Consider our agreement a thing of the past.\n\nI hope you catch the plague,[From.GetTitledName];;;;;;;;;;;[Root.GetTitledName],\nÌíå ñðàçó ñëåäîâàëî ïîíÿòü, ÷òî Âû áóäåòå èçâèâàòüñÿ, êàê óæ íà ñêîâîðîäêå. Ïðèíÿòü îòâåòñòâåííîñòü âñåãäà áûëî íåëåãêî äëÿ Âàñ. Î÷åâèäíî, íàø äîãîâîð áîëüøå íå äåéñòâóåò.\nÑîæàëåþ, ÷òî ñâÿçà[From.GetLasLsya] ñ Âàìè,\n [From.GetTitledName];;x
+EVTDESC_ZE_8016;Dear [Root.GetTitledName],\nI hope this person has not caused too much trouble. I will inform my people of your customs so that misunderstandings can be avoided when they visit your realm. Thank you for offering a chance to correct this behavior.\n\nBest wishes,\n[From.GetTitledName];;;;;;;;;;;Óâàæàåì[Root.GetAyaYy] [Root.GetTitledName],\nÍàäåþñü, ýòîò ÷åëîâåê äîñòàâèë Âàì íå ñëèøêîì ìíîãî íåïðèÿòíîñòåé. ß ïðîèíôîðìèðóþ ñâîèõ ëþäåé, ÷òîáû âïðåäü, êîãäà îíè áóäóò ïîñåùàòü Âàøó ñòðàíó, âåëè ñåáÿ äîñòîéíî è óâàæàëè Âàøè ïîðÿäêè. Áëàãîäàðþ çà âîçìîæíîñòü èñïðàâèòü ìîþ îøèáêó.\nÑ íàèëó÷øèìè ïîæåëàíèÿìè, \n[From.GetTitledName];;x
+EVTOPTA_ZE_8000;I'll write to [target_ruler.GetTitledFirstName]. We could be friends.;;;;;;;;;;;Ìû ìîãëè áû ñòàòü äðóçüÿìè. Íàïèøó [target_ruler.GetHerHim].;;x
+EVTOPTA_ZE_8000_TOOLTIP;Suggest a non-aggression pact.;;;;;;;;;;;Ïðåäëîæèòü ïàêò î íåíàïàäåíèè.;;x
+EVTOPTA_ZE_8001;A wonderful idea.;;;;;;;;;;;Îòëè÷íàÿ èäåÿ.;;x
+EVTOPTA_ZE_8001_TOOLTIP;Sign the non-aggression pact.\n;;;;;;;;;;;Ïîäïèñàòü ïàêò î íåíàïàäåíèè.\n;;x
+EVTOPTA_ZE_8002;Fantastic!;;;;;;;;;;;Âåëèêîëåïíî!;;x
+EVTOPTA_ZE_8002_TOOLTIP;The pact is signed.;;;;;;;;;;;Ïàêò ïîäïèñàí.;;x
+EVTOPTA_ZE_8003;That's a shame.;;;;;;;;;;;Êàêàÿ æàëîñòü.;;x
+EVTOPTA_ZE_8010;Write a formal complaint to [target_ruler.GetTitledName].;;;;;;;;;;;ß ïåðåäàì îôèöèàëüíóþ æàëîáó.;;x
+EVTOPTA_ZE_8010_TOOLTIP;[target_ruler.GetTitledName] receives your letter of complaint.;;;;;;;;;;;[target_ruler.GetTitledName] ïîëó÷èò ïèñüìî ñ Âàøåé æàëîáîé.;;x
+EVTOPTA_ZE_8011;I must show sympathy and explain.;;;;;;;;;;;Ïîïûòàþñü âñ¸ îáúÿñíèòü.;;x
+EVTOPTA_ZE_8011_TOOLTIP;[From.GetFirstName] receives a letter expressing sympathy.;;;;;;;;;;;[From.GetFirstName] ïîëó÷èò ïèñüìî, âûðàæàþùåå ñèìïàòèþ.;;x
+EVTOPTA_ZE_8012;Deal with impostor, and apologize.;;;;;;;;;;;Ðàçîáðàòüñÿ ñ ñàìîçâàíöåì è îòïðàâèòü èçâèíåíèÿ.;;x
+EVTOPTA_ZE_8012_TOOLTIP;Send a letter of apology to [From.GetTitledName];;;;;;;;;;;[From.GetTitledName] ïîëó÷èò ïèñüìî ñ èçâèíåíèÿìè;;x
+EVTOPTA_ZE_8013;What nerve! This changes things.;;;;;;;;;;;Êàêàÿ íàãëîñòü!;;x
+EVTOPTA_ZE_8013_TOOLTIP;Break non-aggression pact.;;;;;;;;;;;Äåíîíñèðîâàòü ïàêò î íåíàïàäåíèè.;;x
+EVTOPTA_ZE_8013_TOOLTIPA;Break the non-aggression pact.;;;;;;;;;;;Ðàçîðâàòü ïàêò î íåíàïàäåíèè.;;x
+EVTOPTA_ZE_8014;That's sorted then.;;;;;;;;;;;Õîðîøî, ÷òî âñ¸ ïðîÿñíèëîñü.;;x
+EVTOPTA_ZE_8015;This is no friend of ours!;;;;;;;;;;;Òàêèå ñîþçíèêè íàì íè ê ÷åìó.;;x
+EVTOPTA_ZE_8016;All is well.;;;;;;;;;;;Õîðîøî, ÷òî ìû ïîíÿëè äðóã äðóãà.;;x
+EVTOPTB_ZE_8000;It changes nothing.;;;;;;;;;;;Ýòî íè÷åãî íå ìåíÿåò.;;x
+EVTOPTB_ZE_8001;Respectfully disagree.;;;;;;;;;;;Âåæëèâî îòêàçàòü.;;x
+EVTOPTB_ZE_8001_TOOLTIP;Decline the offer.;;;;;;;;;;;Îòâåðãíóòü ïðåäëîæåíèå.;;x
+EVTOPTB_ZE_8010;Ignore your courtiers.;;;;;;;;;;;Ìíå ëè÷íî îí íå ìåøàåò.;;x
+EVTOPTB_ZE_8010_TOOLTIP;Your courtiers will not like this.;;;;;;;;;;;Âàøèì ïðèäâîðíûì ýòî íå ïîíðàâèòñÿ.;;x
+EVTOPTB_ZE_8011;I will swallow my pride and take responsibility.;;;;;;;;;;;Íàäî âçÿòü âèíó íà ñåáÿ.;;x
+EVTOPTB_ZE_8011_TOOLTIP;Let's not make it worse.;;;;;;;;;;;Íå áóäåì óñóãóáëÿòü.;;x
+EVTOPTB_ZE_8012;I'm no fool, I can tell he's from [target_ruler_capital.GetName].;;;;;;;;;;;Äóìàåòå, ÿ - èäèîò[Root.GetEndKa]?!;;x
+EVTOPTB_ZE_8013;I will let this go, for now.;;;;;;;;;;;Õîðîøî, çàáóäåì îá ýòîì, ïîêà...;;x
+EVTOPTB_ZE_8013_TOOLTIPB;Your alliance is in danger.;;;;;;;;;;;Âàø àëüÿíñ ïîä óãðîçîé.;;x
+EVTOPTC_ZE_8010;Make him go away...;;;;;;;;;;;ß íàéäó ñïîñîá èçáàâèòüñÿ îò íåãî.;;x
+EVTOPTC_ZE_8010_TOOLTIP;Accidents happen all the time.;;;;;;;;;;;Íåïðèÿòíîñòè ñëó÷àþòñÿ ïîñòîÿííî.;;x
+EVTOPTC_ZE_8011;False accusations!;;;;;;;;;;;ß-òî òóò ïðè ÷åì?!;;x
+EVTOPTC_ZE_8011_TOOLTIP;[From.GetFirstName] receives an angry letter.;;;;;;;;;;;[From.GetFirstName] ïîëó÷èò ãíåâíîå ïèñüìî.;;x
+EVTOPTC_ZE_8012;Pah! You are lying - but I will not take this further.;;;;;;;;;;;Ïðàâèòåëü îòâå÷àåò çà ñâîèõ ëþäåé, à íå âð¸ò.;;x
+EVTTITLE_ZE_8001;Spouse visit;;;;;;;;;;;Bòîðàÿ ïîëîâèíêà;;x

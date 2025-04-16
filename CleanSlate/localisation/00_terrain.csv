@@ -1,13 +1,13 @@
-arctic;Arctic;;;;;;;;;;;;;x
-coastal_desert;Ocean;;;;;;;;;;;;;x
-desert;Desert;;;;;;;;;;;;;x
-farmlands;Farmlands;;;;;;;;;;;;;x
-forest;Forest;;;;;;;;;;;;;x
-hills;Hills;;;;;;;;;;;;;x
-jungle;Jungle;;;;;;;;;;;;;x
-marsh;Marsh;;;;;;;;;;;;;x
-mountain;Mountains;;;;;;;;;;;;;x
-plains;Plains;;;;;;;;;;;;;x
-pti;Mare incognitum;;;;;;;;;;;;;x
-steppe;Steppe;;;;;;;;;;;;;x
-woods;Woods;;;;;;;;;;;;;x
+arctic;Arctic;;;;;;;;;;;Òóíäðà;;x
+coastal_desert;Ocean;;;;;;;;;;;Îêåàí;;x
+desert;Desert;;;;;;;;;;;Ïóñòûíÿ;;x
+farmlands;Farmlands;;;;;;;;;;;Ïàøíè;;x
+forest;Forest;;;;;;;;;;;Ëåñ;;x
+hills;Hills;;;;;;;;;;;Õîëìû;;x
+jungle;Jungle;;;;;;;;;;;Äæóíãëè;;x
+marsh;Marsh;;;;;;;;;;;Áîëîòî;;x
+mountain;Mountains;;;;;;;;;;;Ãîðû;;x
+plains;Plains;;;;;;;;;;;Ðàâíèíû;;x
+pti;Mare incognitum;;;;;;;;;;;Mare incognitum;;x
+steppe;Steppe;;;;;;;;;;;Ñòåïü;;x
+woods;Woods;;;;;;;;;;;Ðîùà;;x

@@ -1,23 +1,20 @@
 # GetWeatherReport
-String_mostly_drought;The situation in [Root.PrimaryTitle.GetName] is dire, as the drought brings people to the brink of starvation.;;;;;;;;;;;;;x
-String_mostly_drought_risk;Unrest is growing as large areas of [Root.PrimaryTitle.GetName] grow drier each season.;;;;;;;;;;;;;x
-String_mostly_heavy_rain;Winds from the south are bringing unusually heavy rains over most of [Root.PrimaryTitle.GetName].;;;;;;;;;;;;;x
-String_mostly_light_rain;The seasons have lately brought regular light rainfall over large parts of [Root.PrimaryTitle.GetName].;;;;;;;;;;;;;x
-String_varied_weather;Reports vary from region to region: [GetWeatherSplit];;;;;;;;;;;;;x
-
+String_mostly_drought;The situation in [Root.PrimaryTitle.GetName] is dire, as the drought brings people to the brink of starvation.;;;;;;;;;;;[Root.PrimaryTitle.GetName] ïåðåæèâàåò ïåðèîä ñóðîâîé çàñóõè, êîòîðàÿ óæå ïîñòàâèëà ìåñòíîå íàñåëåíèå ïîä óãðîçó ãîëîäíîé ñìåðòè. Ñ êàæäûì äí¸ì ñòàíîâèòñÿ âñ¸ õóæå.;;x
+String_mostly_drought_risk;Unrest is growing as large areas of [Root.PrimaryTitle.GetName] grow drier each season.;;;;;;;;;;;Íà [Root.PrimaryTitle.GetAdjective]ñêèå çåìëè ïðèøëà çàñóõà, è ïî ìåðå å¸ óñèëåíèÿ ñðåäè ìåñòíûõ æèòåëåé ðàñò¸ò íåäîâîëüñòâî.;;x
+String_mostly_heavy_rain;Winds from the south are bringing unusually heavy rains over most of [Root.PrimaryTitle.GetName].;;;;;;;;;;;Þæíûå âåòðà ïðèíåñëè íà [Root.PrimaryTitle.GetAdjective]ñêèå çåìëè íåáûâàëûå ïðîëèâíûå äîæäè.;;x
+String_mostly_light_rain;The seasons have lately brought regular light rainfall over large parts of [Root.PrimaryTitle.GetName].;;;;;;;;;;;[Root.PrimaryTitle.GetAdjective]ñêèå çåìëè ïåðåæèâàþò ñåçîí ë¸ãêèõ äîæäåé.;;x
+String_varied_weather;Reports vary from region to region: [GetWeatherSplit];;;;;;;;;;;Îò ðåãèîíà ê ðåãèîíó äîíåñåíèÿ î ïîãîäå ðàçíÿòüñÿ. [GetWeatherSplit];;x
 # GetWeatherSplit
-String_light_and_heavy_rains;some areas run a risk of flooding, while others are enjoying lighter rain.;;;;;;;;;;;;;x
-String_risk_and_actual_drought;while the winds could still change, there are provinces where the drought has gone on too long.;;;;;;;;;;;;;x
-String_rains_and_droughts;some of our provinces are blessed with [GetHeavyLightRain] rains, while others suffer drought.;;;;;;;;;;;;;x
-
+String_light_and_heavy_rains;some areas run a risk of flooding, while others are enjoying lighter rain.;;;;;;;;;;;Ãäå-òî íàìåòèëñÿ ðèñê íàâîäíåíèÿ, äðóãèå æå íàñëàæäàþòñÿ óìåðåííûì óðîâíåì îñàäêîâ.;;x
+String_risk_and_actual_drought;while the winds could still change, there are provinces where the drought has gone on too long.;;;;;;;;;;;Íàïðàâëåíèå âåòðîâ âñ¸ åù¸ ìåíÿåòñÿ, íî â íåêîòîðûõ çåìëÿõ çàñóõà ïðîäîëæàåòñÿ óæå äîëãîå âðåìÿ.;;x
+String_rains_and_droughts;some of our provinces are blessed with [GetHeavyLightRain] rains, while others suffer drought.;;;;;;;;;;;Ãäå-òî [GetHeavyLightRain] äîæäü, â òî âðåìÿ êàê äðóãèå çåìëè ñòðàäàþò îò çàñóõè.;;x
 # GetHeavyLightRain
-String_heavy;heavy;;;;;;;;;;;;;x
-String_light;light;;;;;;;;;;;;;x
-
+String_heavy;heavy;;;;;;;;;;;ïðîëèâíîé;;x
+String_light;light;;;;;;;;;;;ë¸ãêèé;;x
 # GetRainConsequence
-String_consequence_of_drought;Some are saying I am to blame, that it is my administration and governing of [Root.PrimaryTitle.GetName] that has failed.;;;;;;;;;;;;;x
-String_consequence_of_drought_risk;If it continues this way, no one in the realm will be safe from the harsh times ahead.;;;;;;;;;;;;;x
-String_consequence_of_heavy_rain;"We should probably keep an eye on the water levels in the region", one councilor suggests. "There are many ways to tackle this, my [Root.GetLordLady]", another interjects.;;;;;;;;;;;;;x
-String_consequence_of_light_rain;We should spend this time stockpiling for future!;;;;;;;;;;;;;x
-String_consequence_of_mixed_drought;I am told that the country is becoming a harsh environment for civilized people, and that people are fighting over every single drop of water. "We have some private stores in the [Root.GetCapitalHolding], of course", my council reminds me.;;;;;;;;;;;;;x
-String_consequence_of_mixed_rain;\n"My [Root.GetLordLady]?", my [Root.GetMyTreasurerName] [my_steward.GetTitledFirstName] interrupts my thoughts, clearly expecting me to react to the weather report.;;;;;;;;;;;;;x
+String_consequence_of_drought;Some are saying I am to blame, that it is my administration and governing of [Root.PrimaryTitle.GetName] that has failed.;;;;;;;;;;;Íåêîòîðûå âèíÿò â ýòîì ìåíÿ. Äåñêàòü, [Root.PrimaryTitle.GetAdjective]ñêèå âëàñòè íå â ñîñòîÿíèè ñïðàâèòüñÿ ñ ïðîáëåìîé.;;x
+String_consequence_of_drought_risk;If it continues this way, no one in the realm will be safe from the harsh times ahead.;;;;;;;;;;;Åñëè ñèòóàöèÿ íå èçìåíèòñÿ, íàñ îæèäàþò ò¸ìíûå âðåìåíà, è íèêòî íå ñìîæåò ÷óâñòâîâàòü ñåáÿ â áåçîïàñíîñòè.;;x
+String_consequence_of_heavy_rain;"We should probably keep an eye on the water levels in the region, one councilor suggests. ""There are many ways to tackle this, my [Root.GetLordLady]"", another interjects.";;;;;;;;;;;\n— Íàì ñëåäóåò íàáëþäàòü çà óðîâíåì âîäû â ðåãèîíå, — ïðåäëîæèë îäèí èç ñîâåòíèêîâ.\n— Ì[Root.GetOyaOy] [Root.GetLordLady], åñòü ìíîæåñòâî ñïîñîáîâ áîðüáû ñ íåïîãîäîé, — äîáàâèë äðóãîé.;;x
+String_consequence_of_light_rain;We should spend this time stockpiling for future!;;;;;;;;;;;Ñîâåò ñ÷èòàåò, åñëè íå âîñïîëüçîâàòüñÿ ñèòóàöèåé, ÷òîáû çàãîòîâèòü ïðèïàñû, ìû ìîæåì îêàçàòüñÿ íåãîòîâû ê ïîñëåäñòâèÿì íåïîãîäû â áóäóùåì.;;x
+String_consequence_of_mixed_drought;"I am told that the country is becoming a harsh environment for civilized people, and that people are fighting over every single drop of water. ""We have some private stores in the [Root.GetCapitalHolding], of course"", my council reminds me.";;;;;;;;;;;Ãîâîðÿò, ñèòóàöèÿ ñòàíîâèòñÿ âñ¸ õóæå, è ìåñòíîå íàñåëåíèå áîðåòñÿ çà êàæäóþ êàïëþ âîäû. Îäíàêî Ñîâåò çàâåðèë ìåíÿ, ÷òî â [Root.GetCapitalBuildingPREP] åù¸ åñòü çàïàñû.;;x
+String_consequence_of_mixed_rain;"\n""My [Root.GetLordLady]?"", my [Root.GetMyTreasurerName] [my_steward.GetTitledFirstName] interrupts my thoughts, clearly expecting me to react to the weather report.";;;;;;;;;;;Åñëè íè÷åãî íå ïðåäïðèíÿòü, ñèòóàöèÿ ìîæåò âûéòè èç ïîä êîíòðîëÿ.;;x

@@ -1,34 +1,34 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-SUB_MESSAGES_HEADER;Offers and Gifts;;;;;;;;;;;;;x
-SUB_MESSAGES_CLOSE;Close;;;;;;;;;;;;;x
-SUB_MESSAGES_OPEN;Open;;;;;;;;;;;;;x
-SUB_MESSAGES_TOOLTIP;§YOffers And Gifts§!;;;;;;;;;;;;;x
-SUB_MESSAGES_TOOLTIP_DELAYED;Past offers and gifts you have received for being a subscriber.;;;;;;;;;;;;;x
-DISCOUNT_MESSAGE_TITLE;Subscriber Exclusive Discount;;;;;;;;;;;;;x
-DISCOUNT_HEADER;But wait, there's more...;;;;;;;;;;;;;x
-DISCOUNT_TEXT;Did you know that Crusader Kings II subscribers get a discount on other games from the Paradox portfolio?\n\nFor example: You get an exclusive 24% discount on Age of Wonders III!;;;;;;;;;;;;;x
-DISCOUNT_DISMISS;Close;;;;;;;;;;;;;x
-GIFT1_MESSAGE_TITLE;One Month of Subscription;;;;;;;;;;;;;x
-GIFT_SCREEN1_HEADER;Thank you!;;;;;;;;;;;;;x
-GIFT_SCREEN1_TEXT;You have been with us for over a month!\n\nAs a thank you, we have compiled a commemorial gift. A library of never before released wallpapers. Feel free to share these with your friends!;;;;;;;;;;;;;x
-GIFT_SCREEN1_OPEN;Get Access;;;;;;;;;;;;;x
-GIFT_SCREEN1_DISMISS;Close;;;;;;;;;;;;;x
-GIFT2_MESSAGE_TITLE;Two Months of Subscription;;;;;;;;;;;;;x
-GIFT_SCREEN2_HEADER;Thank you!;;;;;;;;;;;;;x
-GIFT_SCREEN2_TEXT;You have been with us for over two months!\n\nAs a thank you, we have compiled a commemorial gift. Here's a Spotify playlist of the best Crusader Kings II soundtracks. Feel free to share it with your friends!;;;;;;;;;;;;;x
-GIFT_SCREEN2_OPEN;Get Access;;;;;;;;;;;;;x
-GIFT_SCREEN2_DISMISS;Close;;;;;;;;;;;;;x
-DLC_ATTENTION_SCREEN_HEADER;Have you played...;;;;;;;;;;;;;x
-DLC_ATTENTION_SCREEN_TEXT;As you may know, Crusader Kings II features a wide variety of DLC. Have you already tried them all?\n\nThis is a fan favourite:\n\n$LEADER_TEXT$;;;;;;;;;;;;;x
-DLC_ATTENTION_SCREEN_DISMISS;Close;;;;;;;;;;;;;x
-SUGGESTED_CHARACTER_194004;Sigurd Ring of Svíþjóð, 769 - Form the Kingdom of Sweden and offer vassalage to all the independent Norse counts and dukes! A fantastic start for a Viking empire.;;;;;;;;;;;;;x
-SUGGESTED_CHARACTER_70012;Aurelio of Asturias, 769 - Play as the Spanish Visigoths and take back Spain in an Early Middle-Age scene!;;;;;;;;;;;;;x
-SUGGESTED_CHARACTER_194074;Bezprzym Wilks of Pruthenia, 769 (Holy Fury) - Start as a Baltic barbarian power and raid your way through higher titles. Subjugate Lithuania, swear fealty to Charlemagne and convert to Catholic-Feudal. Prussia is yours to take!;;;;;;;;;;;;;x
-SUGGESTED_CHARACTER_6392;Charlemagne, 769 - Enjoy an iconic character, descendant of Charles Martel. Conquer Saxony, Lombardy and other Germanic lands to eventually become the Holy Roman Emperor!;;;;;;;;;;;;;x
-SUGGESTED_CHARACTER_159123;Krum of Bulgaria, 769 - Don't back down, and bring the reigns of many Byzantine Emperors to an end!;;;;;;;;;;;;;x
-SUGGESTED_CHARACTER_73679;Abd-al-Rahman I, 769 - After he fled Syria because of the Abbasis, Abd-al-Rahman returned east and took his revenge. Set your mark on the history of Spain and establish the rule of his dynasty for centuries to come.;;;;;;;;;;;;;x
-SUGGESTED_CHARACTER_6878;Haesteinn, 867 - Play as a true Viking adventurer and establish yourself as a great ruler in foreign lands!;;;;;;;;;;;;;x
-SUGGESTED_CHARACTER_159529;The Emirate of Crete, Hafsid 867 or 936 - An excellent backstory and a great stronghold for future conquests!;;;;;;;;;;;;;x
-SUGGESTED_CHARACTER_112600;Otto von Nordheim of Bavaria, 1066 - Lead many battles for your people! May your Legacy live long.;;;;;;;;;;;;;x
-SUGGESTED_CHARACTER_205730;Eleanor of Aquitaine, 1066 (1138 custom) - Play as the Countess of Bordeaux and become one of the most powerful women of the Middle-Age!;;;;;;;;;;;;;x
-SUGGESTED_CHARACTER_7757;Matilda of Tuscany, 1066 - Can you make Matilda the mother of an independent Italy, or will the Italian culture be obliterated by the Germans once and for all?;;;;;;;;;;;;;x
+SUB_MESSAGES_HEADER;Offers and Gifts;;;;;;;;;;;Àêöèè è ïîäàðêè;;x
+SUB_MESSAGES_CLOSE;Close;;;;;;;;;;;Çàêðûòü;;x
+SUB_MESSAGES_OPEN;Open;;;;;;;;;;;Îòêðûòü;;x
+SUB_MESSAGES_TOOLTIP;§YOffers And Gifts§!;;;;;;;;;;;§YÀêöèè è ïîäàðêè§!;;x
+SUB_MESSAGES_TOOLTIP_DELAYED;Past offers and gifts you have received for being a subscriber.;;;;;;;;;;;Ïðåäûäóùèå ïðåäëîæåíèÿ è ïîäàðêè, êîòîðûå Âû ïîëó÷àëè çà ïîäïèñêó.;;x
+DISCOUNT_MESSAGE_TITLE;Subscriber Exclusive Discount;;;;;;;;;;;Ýêñêëþçèâíàÿ ñêèäêà ïîäïèñ÷èêà;;x
+DISCOUNT_HEADER;But wait, there's more...;;;;;;;;;;;Íî åñòü êîå-÷òî åù¸...;;x
+DISCOUNT_TEXT;Did you know that Crusader Kings II subscribers get a discount on other games from the Paradox portfolio?\n\nFor example: You get an exclusive 24% discount on Age of Wonders III!;;;;;;;;;;;Çíàåòå ëè Âû, ÷òî ïîäïèñ÷èêè Crusader Kings II ïîëó÷àþò ñêèäêó íà äðóãèå èãðû îò Paradox?\n\nÍàïðèìåð: ýêñêëþçèâíàÿ ñêèäêà 24% íà Age of Wonders III!;;x
+DISCOUNT_DISMISS;Close;;;;;;;;;;;Çàêðûòü;;x
+GIFT1_MESSAGE_TITLE;One Month of Subscription;;;;;;;;;;;Îäèí ìåñÿö ïîäïèñêè;;x
+GIFT_SCREEN1_HEADER;Thank you!;;;;;;;;;;;Ñïàñèáî!;;x
+GIFT_SCREEN1_TEXT;You have been with us for over a month!\n\nAs a thank you, we have compiled a commemorial gift. A library of never before released wallpapers. Feel free to share these with your friends!;;;;;;;;;;;Âû ñ íàìè óæå öåëûé ìåñÿö!\n\nÂ êà÷åñòâå áëàãîäàðíîñòè ìû ïðèãîòîâèëè Âàì ïîäàðîê íà ïàìÿòü. Áèáëèîòåêó ðàíåå íå âûïóùåííûõ îáîåâ äëÿ ðàáî÷åãî ñòîëà. Ïîäåëèòåñü èìè ñ äðóçüÿìè!;;x
+GIFT_SCREEN1_OPEN;Get Access;;;;;;;;;;;Ïîëó÷èòü äîñòóï;;x
+GIFT_SCREEN1_DISMISS;Close;;;;;;;;;;;Çàêðûòü;;x
+GIFT2_MESSAGE_TITLE;Two Months of Subscription;;;;;;;;;;;Äâà ìåñÿöà ïîäïèñêè;;x
+GIFT_SCREEN2_HEADER;Thank you!;;;;;;;;;;;Ñïàñèáî!;;x
+GIFT_SCREEN2_TEXT;You have been with us for over two months!\n\nAs a thank you, we have compiled a commemorial gift. Here's a Spotify playlist of the best Crusader Kings II soundtracks. Feel free to share it with your friends!;;;;;;;;;;;Âû ñ íàìè óæå äâà ìåñÿöà!\n\nÂ êà÷åñòâå áëàãîäàðíîñòè ìû ïðèãîòîâèëè Âàì ïîäàðîê íà ïàìÿòü. Ïëåéëèñò Spotify ñ ëó÷øèìè ñàóíäòðåêàìè èç Crusader Kings II. Ïîäåëèòåñü èìè ñ äðóçüÿìè!;;x
+GIFT_SCREEN2_OPEN;Get Access;;;;;;;;;;;Ïîëó÷èòü äîñòóï;;x
+GIFT_SCREEN2_DISMISS;Close;;;;;;;;;;;Çàêðûòü;;x
+DLC_ATTENTION_SCREEN_HEADER;Have you played...;;;;;;;;;;;Âû óæå ñûãðàëè?;;x
+DLC_ATTENTION_SCREEN_TEXT;As you may know, Crusader Kings II features a wide variety of DLC. Have you already tried them all?\n\nThis is a fan favourite:\n\n$LEADER_TEXT$;;;;;;;;;;;Êàê Âàì èçâåñòíî, Crusader Kings II ñîäåðæèò ìàññó ðàçíîîáðàçíûõ DLC. Âû óæå ïîïðîáîâàëè âñ¸?\n\nÝòî ëþáèìîå ñðåäè ôàíàòîâ:\n\n$LEADER_TEXT$;;x
+DLC_ATTENTION_SCREEN_DISMISS;Close;;;;;;;;;;;Çàêðûòü;;x
+SUGGESTED_CHARACTER_194004;Sigurd Ring of Svíþjóð, 769 - Form the Kingdom of Sweden and offer vassalage to all the independent Norse counts and dukes! A fantastic start for a Viking empire.;;;;;;;;;;;Ñèãóðä Êîëüöî, 769ã - Ñîçäàéòå Øâåäñêîå Êîíóíãñòâî è ïðåäëîæèòå âàññàëèòåò âñåì íåçàâèñèìûì ñêàíäèíàâñêèì ïðàâèòåëÿì! Ôàíòàñòè÷åñêîå íà÷àëî èìïåðèè âèêèíãîâ.;;x
+SUGGESTED_CHARACTER_70012;Aurelio of Asturias, 769 - Play as the Spanish Visigoths and take back Spain in an Early Middle-Age scene!;;;;;;;;;;;Àóðåëèî Àñòóðèéñêèé, 769ã - Ïîèãðàéòå çà èñïàíñêèõ âèçèãîòîâ è âåðíèòå Èñïàíèþ íà ñöåíó Ðàííåãî Ñðåäíåâåêîâüÿ!;;x
+SUGGESTED_CHARACTER_194074;Bezprzym Wilks of Pruthenia, 769 (Holy Fury) - Start as a Baltic barbarian power and raid your way through higher titles. Subjugate Lithuania, swear fealty to Charlemagne and convert to Catholic-Feudal. Prussia is yours to take!;;;;;;;;;;;Áåçïðûì Âèëêñ Ïðóññêèé, 769ã (Holy Fury) - Íà÷íèòå èãðó â ðîëè áàëòñêèõ âàðâàðîâ è ðàçîðÿéòå âñ¸ íà ñâî¸ì ïóòè. Ïîä÷èíèòå Ëèòâó, ïîêëÿíèòåñü â âåðíîñòè Êàðëó Âåëèêîìó è ïðèìèòå êàòîëè÷åñòâî. Ïðóññèÿ ñòàíåò Âàøåé!;;x
+SUGGESTED_CHARACTER_6392;Charlemagne, 769 - Enjoy an iconic character, descendant of Charles Martel. Conquer Saxony, Lombardy and other Germanic lands to eventually become the Holy Roman Emperor!;;;;;;;;;;;Êàðë Âåëèêèé, 769ã - Íàñëàäèòåñü èãðîé çà êóëüòîâîãî ïåðñîíàæà, ïîòîìêà Êàðëà Ìàðòåëëà. Çàâîþéòå Ñàêñîíèþ, Ëîìáàðäèþ è äðóãèå ãåðìàíñêèå çåìëè, ÷òîáû ñòàòü ïðàâèòåëåì Ñâÿùåííîé Ðèìñêîé Èìïåðèè!;;x
+SUGGESTED_CHARACTER_159123;Krum of Bulgaria, 769 - Don't back down, and bring the reigns of many Byzantine Emperors to an end!;;;;;;;;;;;Êðóì Áóëãàðñêèé, 769ã - Íå îòñòóïàéòå è ïîëîæèòå êîíåö ïðàâëåíèþ âèçàíòèéñêèõ èìïåðàòîðîâ!;;x
+SUGGESTED_CHARACTER_73679;Abd-al-Rahman I, 769 - After he fled Syria because of the Abbasis, Abd-al-Rahman returned east and took his revenge. Set your mark on the history of Spain and establish the rule of his dynasty for centuries to come.;;;;;;;;;;;Àáä-àëü-Ðàõìàí I, 769ã - Ñáåæàâ èç Ñèðèè îò Àááàñèäîâ, Àáä-àëü-Ðàõìàí âåðíóëñÿ íà Âîñòîê è îòîìñòèë. Îñòàâüòå ñâîé ñëåä â èñòîðèè Èñïàíèè è óñòàíîâèòå ïðàâëåíèå åãî äèíàñòèè íà âåêà.;;x
+SUGGESTED_CHARACTER_6878;Haesteinn, 867 - Play as a true Viking adventurer and establish yourself as a great ruler in foreign lands!;;;;;;;;;;;Õàñòåéí, 867 - Ïîèãðàéòå çà èñòèííîãî âèêèíãà è ñäåëàéòå ñåáÿ âåëèêèì ïðàâèòåëåì íà ÷óæèõ çåìëÿõ!;;x
+SUGGESTED_CHARACTER_159529;The Emirate of Crete, Hafsid 867 or 936 - An excellent backstory and a great stronghold for future conquests!;;;;;;;;;;;Êðèòñêèé Ýìèðàò Õàôñèäîâ 867ã èëè 936ã - Îòëè÷íàÿ ïðåäûñòîðèÿ è ìîãó÷èé ïëàöäàðì äëÿ áóäóùèõ çàâîåâàíèé!;;x
+SUGGESTED_CHARACTER_112600;Otto von Nordheim of Bavaria, 1066 - Lead many battles for your people! May your Legacy live long.;;;;;;;;;;;Îòòî ôîí Íîðòõåéì Áàâàðñêèé, 1066ã - Ïðîâåäèòå ìíîæåñòâî ñëàâíûõ áèòâ ðàäè ñâîåãî íàðîäà! Ïóñòü Âàøå íàñëåäèå çàïîìíèòñÿ íà âåêà.;;x
+SUGGESTED_CHARACTER_205730;Eleanor of Aquitaine, 1066 (1138 custom) - Play as the Countess of Bordeaux and become one of the most powerful women of the Middle-Age!;;;;;;;;;;;Ýëèàíîðà Àêâèòàíñêàÿ, 1066ã èëè 1138ã - Ïîèãðàéòå çà ãðàôèíþ Áîðäî è ñòàíüòå îäíîé èç ñàìûõ âëèÿòåëüíûõ æåíùèí Ñðåäíåâåêîâüÿ!;;x
+SUGGESTED_CHARACTER_7757;Matilda of Tuscany, 1066 - Can you make Matilda the mother of an independent Italy, or will the Italian culture be obliterated by the Germans once and for all?;;;;;;;;;;;Ìàòèëüäà Òîñêàíñêàÿ, 1066ã - Ñìîæåòå ëè Âû ñäåëàòü Ìàòèëüäó ìàòåðüþ íåçàâèñèìîé Èòàëèè, èëè èòàëüÿíñêàÿ êóëüòóðà áóäåò óíè÷òîæåíà íåìöàìè ðàç è íàâñåãäà?;;x

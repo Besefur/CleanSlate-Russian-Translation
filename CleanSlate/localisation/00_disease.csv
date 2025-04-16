@@ -1,17 +1,16 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-syphilis;Syphilis;;;;;;;;;;;;;x
-# slow_fever;Slow Fever;;;;;;;;;;;;;x
-TYPHOID_FEVER_INFO;Typhoid Fever, or Slow Fever, is loose in this county.;;;;;;;;;;;;;x
-# typhus;Camp Fever;;;;;;;;;;;;;x
-TYPHUS_INFO;Epidemic Typhus or Camp Fever, is rampant.;;;;;;;;;;;;;x
-DANCING_PLAGUE_INFO;The Dancing Plague, also known as Saint Vitus' dance, is spreading like wildfire amongst the populace. The ailment is possibly caused by ergot poisoning.;;;;;;;;;;;;;x
-AZTEC_DISEASE_INFO;This county has suffered an outbreak of Syphilis, a virulent strain of Great Pox brought here by the Aztecs.;;;;;;;;;;;;;x
-# bubonic_plague;Black Death;;;;;;;;;;;;;x
-BUBONIC_PLAGUE_INFO;The Pale Rider has brought the Black Death to this county.;;;;;;;;;;;;;x
-# measles;Measles;;;;;;;;;;;;;x
-MEASLES_INFO;There is an epidemic of Measles in this county.;;;;;;;;;;;;;x
-# smallpox;Smallpox;;;;;;;;;;;;;x
-SMALL_POX_INFO;Smallpox has struck this county, killing almost half of those infected.;;;;;;;;;;;;;x
-# consumption;Consumption;;;;;;;;;;;;;x
-TUBERCULOSIS_INFO;Consumption is an older name for the terrible scourge of Tuberculosis.;;;;;;;;;;;;;x
+syphilis;Syphilis;;;;;;;;;;;Ñèôèëèñ;;x
+# slow_fever;Slow Fever;;;;;;;;;;;Áðþøíîé òèô;;x
+TYPHOID_FEVER_INFO;Typhoid Fever, or Slow Fever, is loose in this county.;;;;;;;;;;;Áðþøíîé òèô ñâèðåïñòâóåò â ýòîì îêðóãå.;;x
+# typhus;Camp Fever;;;;;;;;;;;Ñûïíîé òèô;;x
+TYPHUS_INFO;Epidemic Typhus or Camp Fever, is rampant.;;;;;;;;;;;Ñâèðåïñòâóåò ýïèäåìèÿ ñûïíîãî òèôà.;;x
+DANCING_PLAGUE_INFO;The Dancing Plague, also known as Saint Vitus' dance, is spreading like wildfire amongst the populace. The ailment is possibly caused by ergot poisoning.;;;;;;;;;;;Ïëÿøóùàÿ ÷óìà, òàêæå èçâåñòíàÿ êàê ïëÿñêà ñâÿòîãî Âèòà, ðàñïðîñòðàíÿåòñÿ ïîâñþäó, êàê ïîæàð. Âåðîÿòíî, ýòîò íåäóã âûçâàí ìàññîâûì îòðàâëåíèåì ñïîðûíü¸é.;;x
+AZTEC_DISEASE_INFO;This county has suffered an outbreak of Syphilis, a virulent strain of Great Pox brought here by the Aztecs.;;;;;;;;;;;Ýòîò îêðóã ïîäâåðãñÿ âñïûøêå ñìåðòåëüíîé ôîðìû ñèôèëèñà, ïðèâåç¸ííîãî àöòåêàìè.;;x
+# bubonic_plague;Black Death;;;;;;;;;;;×¸ðíàÿ ñìåðòü;;x
+BUBONIC_PLAGUE_INFO;The Pale Rider has brought the Black Death to this county.;;;;;;;;;;;Áëåäíûé âñàäíèê ïðèí¸ñ ×¸ðíóþ ñìåðòü â ýòîò îêðóã.;;x
+# measles;Measles;;;;;;;;;;;Êîðü;;x
+MEASLES_INFO;There is an epidemic of Measles in this county.;;;;;;;;;;;Â ýòîì îêðóãå áóøóåò ýïèäåìèÿ êîðè.;;x
+# smallpox;Smallpox;;;;;;;;;;;Îñïà;;x
+SMALL_POX_INFO;Smallpox has struck this county, killing almost half of those infected.;;;;;;;;;;;Îñïà íàíåñëà óäàð ïî ýòîìó îêðóãó, óáèâ ïî÷òè ïîëîâèíó èíôèöèðîâàííûõ.;;x
+# consumption;Consumption;;;;;;;;;;;×àõîòêà;;x
+TUBERCULOSIS_INFO;Consumption is an older name for the terrible scourge of Tuberculosis.;;;;;;;;;;;×àõîòêà - ýòî ñòàðîå íàçâàíèå òóáåðêóë¸çà;;x

@@ -1,78 +1,68 @@
-EVTDESC_HL_8005_brother;Without any heirs of his own, it falls on you to take your brother to the mountains. He will be offered to the birds of prey and in death he will generously share his flesh with all living creatures. May his spirit soar into the heavens.;;;;;;;;;;;;;x
-EVTDESC_HL_8005_father;As your father's heir, it falls on you to take him to the mountains. He will be offered to the birds of prey and in death he will generously share his flesh with all living creatures. May his spirit soar into the heavens.;;;;;;;;;;;;;x
-EVTDESC_HL_8005_mother;As your mother's heir it falls upon you to bring her to the mountains. She will be offered to the birds of prey, and in death she will generously share her flesh with all living creatures. May her spirit soar into the heavens.;;;;;;;;;;;;;x
-EVTDESC_HL_8005_other;As per custom, you should take your predecessor to the mountains. They will be offered to the birds of prey and in death they will generously share their flesh with all living creatures. May their spirit soar into the heavens.;;;;;;;;;;;;;x
-EVTDESC_HL_8005_sister;Without any heirs of her own, it falls upon you to bring your sister to the mountains. She will be offered to the birds of prey, and in death she will generously share her flesh with all living creatures. May her spirit soar into the heavens.;;;;;;;;;;;;;x
-EVTDESC_HL_8006;On your way towards the mountains your party runs into a small storm with heavy rain. The rain makes the earth soft and the air cold.;;;;;;;;;;;;;x
-EVTDESC_HL_8008;On your way to the mountains, you encounter a lonely hermit. He doesn't own much besides a worn down tent, an old and sick horse, along with a few sheep. But the old man invites you to drink some salted tea with him. As you talk, you realize that you are enjoying his company!;;;;;;;;;;;;;x
-EVTDESC_HL_8010;After reaching the mountains, you carefully place the body in what you deem a good location. You can already hear the vultures soaring above as you perform the necessary rituals. When you start to make your way back down, it doesn't take long until the vultures begin to tear at the flesh with both beak and claw.;;;;;;;;;;;;;x
-EVTDESC_HL_8011;Ever since you left the mountains, you have had the odd feeling that someone is following you. But when you turn to look, there is nothing there. But as you reach the top of a small hill, you quickly turn your head and see that one of the vultures has been following you! And not just any vulture. It's a bearded vulture!;;;;;;;;;;;;;x
-EVTDESC_HL_8020;You have selected a remote and secluded location for the tomb. The men are ready and waiting for your command to start digging.;;;;;;;;;;;;;x
-EVTDESC_HL_8022;The tomb stand completed. It sparkles with all the gold and steel within. You make sure to properly seal and cover the tomb, taking extra caution to make sure that no markings reveals its location. You kill all the workers so that no one but you, and your personal guard, know where to find it.;;;;;;;;;;;;;x
-EVTDESC_HL_8030;The days have been agonizingly warm. Your water has almost run out. The body has already started to decompose and can be smelled from quite the distance. Yet, you haven't reached the place where the death worm is rumored to exist. The others of your party beg you to go back.;;;;;;;;;;;;;x
-EVTDESC_HL_8032;Finally reaching the area where the olgoi-khorkhoi are supposedly found, you feel satisfied with your achievement. You see no sign of the worm, but you are sure that it lurkers just beneath the sands! You place the body on the ground, or what's left of it, to be sacrificed to the mighty creature.;;;;;;;;;;;;;x
-EVTDESC_HL_8035;It was a difficult journey, but you made it home safely. Most of your party perished in the desert, and it seems that you alone were able to complete the journey without severely straining your health.;;;;;;;;;;;;;x
-
-EVTNAME_HL_8005;Sky Burial;;;;;;;;;;;;;x
-EVTNAME_HL_8006;Bad Weather;;;;;;;;;;;;;x
-EVTNAME_HL_8008;A Lone Hermit;;;;;;;;;;;;;x
-EVTNAME_HL_8010;Sky Burial;;;;;;;;;;;;;x
-EVTNAME_HL_8011;Being Followed;;;;;;;;;;;;;x
-EVTNAME_HL_8020;Constructing Tomb;;;;;;;;;;;;;x
-EVTNAME_HL_8022;Golden Tomb;;;;;;;;;;;;;x
-EVTNAME_HL_8030;The Gobi Desert;;;;;;;;;;;;;x
-EVTNAME_HL_8032;The Gobi Desert;;;;;;;;;;;;;x
-EVTNAME_HL_8035;Home at Last;;;;;;;;;;;;;x
-
-EVTOPTA_HL_8005;I shall take him to the mountains myself.;;;;;;;;;;;;;x
-EVTOPTA_HL_8006;Let us find shelter until it passes.;;;;;;;;;;;;;x
-EVTOPTA_HL_8008;Here. Take this.;;;;;;;;;;;;;x
-EVTOPTA_HL_8010;You are with [Root.Religion.GetRandomGodName] now.;;;;;;;;;;;;;x
-EVTOPTA_HL_8011;Can I keep it?!;;;;;;;;;;;;;x
-EVTOPTA_HL_8020;Well then. Put your back into it!;;;;;;;;;;;;;x
-EVTOPTA_HL_8022;Magnificent, and no one shall ever disturb it.;;;;;;;;;;;;;x
-EVTOPTA_HL_8030;Nonsense! We must continue!;;;;;;;;;;;;;x
-EVTOPTA_HL_8032;A worthy burial! Now to get back home..;;;;;;;;;;;;;x
-EVTOPTA_HL_8032_custom_tooltip;safely reaching home.;;;;;;;;;;;;;x
-EVTOPTA_HL_8035;What doesn't kill you makes you stronger!;;;;;;;;;;;;;x
-
-EVTOPTB_HL_8005;No. He shall have a golden tomb worthy of his name.;;;;;;;;;;;;;x
-EVTOPTB_HL_8006;A little rain has never killed anyone!;;;;;;;;;;;;;x
-EVTOPTB_HL_8008;Why don't you join us?;;;;;;;;;;;;;x
-EVTOPTB_HL_8011;Just scare it away.;;;;;;;;;;;;;x
-EVTOPTB_HL_8022;Have the guards killed as well.;;;;;;;;;;;;;x
-EVTOPTB_HL_8030;This was a bad idea.. Lets go back..;;;;;;;;;;;;;x
-EVTOPTB_HL_8032;That was fun! But now, I must rest.. right here..;;;;;;;;;;;;;x
-
-EVTOPTC_HL_8005;He shall not be eaten by birds, but by olgoi-khorkhoi!;;;;;;;;;;;;;x
-EVTOPTC_HL_8005_custom_tooltip_a;A sky burial is prepared.;;;;;;;;;;;;;x
-EVTOPTC_HL_8005_custom_tooltip_b;The construction of a mighty tomb begins.;;;;;;;;;;;;;x
-EVTOPTC_HL_8005_custom_tooltip_c;It will be a difficult journey across the desert. Greatly risking your life. Those with health concerns would likely perish..;;;;;;;;;;;;;x
-EVTOPTC_HL_8008;Thank you, but I must be going.;;;;;;;;;;;;;x
-
-EVTDESC_HL_9000;You and your men are practicing wrestling when you notice a crowd starting to form around you. Wrestling is an honored tradition that keeps nomad warriors fit for war, but ever so often it happens that training sessions turn into competitive spectacles. Your men have already started putting on a show for the crowd. They beckon you to join them.;;;;;;;;;;;;;x
-EVTDESC_HL_9001;With matches lasting upwards of two hours, Bökh wrestling is an excellent way to prove your endurance. You and your opponent are expected to dance as you enter and leave the contest field, and it's also expected of the winner to help the opponent up off the ground as the match is over. You know that this will require you to exert yourself to your very limit.;;;;;;;;;;;;;x
-EVTDESC_HL_9003;The crowd cheers as you and your opponent dance into the contest field. After circling for a while you charge in, locking yourself with the opposing wrestler. After several minutes of furious grappling you spot a weakness in your opponent's defense. You quickly let go of his upper body and grab his legs, tipping him over. He falls over and his elbows touch the ground – you are the victor!;;;;;;;;;;;;;x
-EVTDESC_HL_9004;The crowd cheers as you and your opponent dance into the contest field. After circling for a while you charge in, locking yourself with the opposing wrestler. After several minutes of furious grappling you start to feel the strain. Suddenly your opponent catches you off guard and grabs your legs. He lifts you into the air and lets you fall to the ground. You've been defeated!;;;;;;;;;;;;;x
-
-EVTOPTA_HL_9000;I can't disappoint the audience, now can I?;;;;;;;;;;;;;x
-EVTOPTA_HL_9001;I'll challenge one of my greatest warriors!;;;;;;;;;;;;;x
-EVTOPTA_HL_9003;My opponent was pathetic, I won't help him up!;;;;;;;;;;;;;x
-EVTOPTA_HL_9004;Maybe this wasn't such a good idea after all...;;;;;;;;;;;;;x
-
-EVTOPTB_HL_9000;There's no time for this, get back to training the lot of you!;;;;;;;;;;;;;x
-EVTOPTB_HL_9001;Naturally, I expect whoever I challenge to yield.;;;;;;;;;;;;;x
-EVTOPTB_HL_9003;I have triumphed! Now take my hand, I'll help you up.;;;;;;;;;;;;;x
-EVTOPTB_HL_9004;I was bested fair and square, my opponent is truly worthy!;;;;;;;;;;;;;x
-
-EVTOPTC_HL_9001;On the other hand, this seems dangerous...;;;;;;;;;;;;;x
-EVTOPTC_HL_9003;I may have won, but we'll share the glory!;;;;;;;;;;;;;x
-EVTOPTC_HL_9004;You dare defeat the Khan? Now feel my wrath!;;;;;;;;;;;;;x
-
-EVTOPTD_HL_9000;You can have your fun, but I'll sit this one out...;;;;;;;;;;;;;x
-EVTOPTD_HL_9001;I'll challenge my trusty steed, Glitterhoof!;;;;;;;;;;;;;x
-EVTOPTD_HL_9003;That was a thrilling experience! Meet me in my tent later?;;;;;;;;;;;;;x
-EVTOPTD_HL_9004;I may have lost, but it was a thrilling experience!;;;;;;;;;;;;;x
-
-EVTTOOLTIP_HL_9000A;You decide to join the contest.;;;;;;;;;;;;;x
-EVTTOOLTIP_HL_9001A;Is challenged to a wrestling match!;;;;;;;;;;;;;x
+EVTDESC_HL_8005_brother;Without any heirs of his own, it falls on you to take your brother to the mountains. He will be offered to the birds of prey and in death he will generously share his flesh with all living creatures. May his spirit soar into the heavens.;;;;;;;;;;;Ó Âàøåãî áðàòà íåò íàñëåäíèêîâ, ïîýòîìó Âàø ñâÿùåííûé äîëã - îòâåñòè åãî â ãîðû è ïðèáëèçèòü ê Íåáó. Òàì îíà ïðåäëîæèò ñåáÿ õèùíûì ïòèöàì, è ïîñëå ñìåðòè å¸ ïëîòü ïîñëóæèò âñåì æèâûì ñóùåñòâàì. Äà âîñïàðèò å¸ äóõ ñâîáîäíî.;;x
+EVTDESC_HL_8005_father;As your father's heir, it falls on you to take him to the mountains. He will be offered to the birds of prey and in death he will generously share his flesh with all living creatures. May his spirit soar into the heavens.;;;;;;;;;;;Âàø ñâÿùåííûé äîëã, êàê íàñëåäíèêà, îòâåñòè ñâîåãî îòöà â ãîðû è ïðèáëèçèòü ê Íåáó. Òàì îí ïðåäëîæèò ñåáÿ õèùíûì ïòèöàì, è ïîñëå ñìåðòè åãî ïëîòü ïîñëóæèò âñåì æèâûì ñóùåñòâàì. Äà âîñïàðèò åãî äóõ ñâîáîäíî.;;x
+EVTDESC_HL_8005_mother;As your mother's heir it falls upon you to bring her to the mountains. She will be offered to the birds of prey, and in death she will generously share her flesh with all living creatures. May her spirit soar into the heavens.;;;;;;;;;;;Âàø ñâÿùåííûé äîëã, êàê íàñëåäíèêà, îòâåñòè ñâîþ ìàòü â ãîðû è ïðèáëèçèòü ê Íåáó. Òàì îíà ïðåäëîæèò ñåáÿ õèùíûì ïòèöàì, è ïîñëå ñìåðòè å¸ ïëîòü ïîñëóæèò âñåì æèâûì ñóùåñòâàì. Äà âîñïàðèò å¸ äóõ ñâîáîäíî.;;x
+EVTDESC_HL_8005_other;As per custom, you should take your predecessor to the mountains. They will be offered to the birds of prey and in death they will generously share their flesh with all living creatures. May their spirit soar into the heavens.;;;;;;;;;;;Âàø ñâÿùåííûé äîëã, êàê íàñëåäíèêà, îòâåñòè ñâîåãî ïðåäøåñòâåííèêà â ãîðû è ïðèáëèçèòü ê Íåáó, äàáû îí ïðåäëîæèë ñåáÿ õèùíûì ïòèöàì, è ïîñëå ñìåðòè åãî ïëîòü ïîñëóæèëà áû âñåì æèâûì ñóùåñòâàì.;;x
+EVTDESC_HL_8005_sister;Without any heirs of her own, it falls upon you to bring your sister to the mountains. She will be offered to the birds of prey, and in death she will generously share her flesh with all living creatures. May her spirit soar into the heavens.;;;;;;;;;;;Ó Âàøåé ñåñòðû íåò íàñëåäíèêîâ, ïîýòîìó Âàø ñâÿùåííûé äîëã - îòâåñòè å¸ â ãîðû è ïðèáëèçèòü ê Íåáó. Òàì îíà ïðåäëîæèò ñåáÿ õèùíûì ïòèöàì, è ïîñëå ñìåðòè å¸ ïëîòü ïîñëóæèò âñåì æèâûì ñóùåñòâàì. Äà âîñïàðèò å¸ äóõ ñâîáîäíî.;;x
+EVTDESC_HL_8006;On your way towards the mountains your party runs into a small storm with heavy rain. The rain makes the earth soft and the air cold.;;;;;;;;;;;Ïî äîðîãå â ãîðû, Âàøó ïðîöåññèþ íàñòèãëà áóðÿ. Çåìëÿ ðàçìÿêëà îò äîæäÿ, è äîðîãó ðàçìûëî.;;x
+EVTDESC_HL_8008;On your way to the mountains, you encounter a lonely hermit. He doesn't own much besides a worn down tent, an old and sick horse, along with a few sheep. But the old man invites you to drink some salted tea with him. As you talk, you realize that you are enjoying his company!;;;;;;;;;;;Ïî äîðîãå â ãîðû Âû âñòðåòèëè îäèíîêîãî ñòàðèêà. Âñ¸ åãî èìóùåñòâî - ñòàðàÿ þðòà, áîëüíîé êîíü è íåñêîëüêî îâåö. Îí ïðèãëàñèë Âàñ âûïèòü ñ íèì ÷àþ è âû ðàçãîâîðèëèñü. Âàì ïðèøëàñü ïî âêóñó åãî êîìïàíèÿ.;;x
+EVTDESC_HL_8010;After reaching the mountains, you carefully place the body in what you deem a good location. You can already hear the vultures soaring above as you perform the necessary rituals. When you start to make your way back down, it doesn't take long until the vultures begin to tear at the flesh with both beak and claw.;;;;;;;;;;;Âçîéäÿ íà ãîðó, Âû êëàäåòå òåëî òàê, êàê òîãî òðåáóåò îáû÷àé. Èñïîëíèâ íåîáõîäèìûå ðèòóàëû, Âû ñëûøèòå, êàê ñòåðâÿòíèêè, êðóæàùèå â âûøèíå, ñëåòàþòñÿ íà çàïàõ ìåðòâå÷èíû. Ñïóñêàÿñü âíèç ïî ñêëîíó, Âû çíàåòå, ïðîéä¸ò ñîâñåì íåìíîãî âðåìåíè, ïðåæäå ÷åì îíè íà÷íóò êëåâàòü ïëîòü, âïèâàÿñü â íå¸ êîãòÿìè...;;x
+EVTDESC_HL_8011;Ever since you left the mountains, you have had the odd feeling that someone is following you. But when you turn to look, there is nothing there. But as you reach the top of a small hill, you quickly turn your head and see that one of the vultures has been following you! And not just any vulture. It's a bearded vulture!;;;;;;;;;;;Ñïóñêàÿñü ñ ãîðû, Âû íå ìîæåòå èçáàâèòüñÿ îò îùóùåíèÿ, ÷òî êòî-òî çà Âàìè ñëåäèò. Íî îáîðà÷èâàÿñü, Âû íå çàìå÷àåòå íèêîãî ïîáëèçîñòè. Íàêîíåö, ó õîëìîâ, Âû îáíàðóæèâàåòå, ÷òî îäèí èç ñòåðâÿòíèêîâ ñëåäîâàë çà Âàìè. Íî ýòî íå êàêîé-òî îáû÷íûé ãðèô, à áîðîäà÷!;;x
+EVTDESC_HL_8020;You have selected a remote and secluded location for the tomb. The men are ready and waiting for your command to start digging.;;;;;;;;;;;Âû âûáðàëè äîñòàòî÷íî óåäèí¸ííîå ìåñòî äëÿ ãðîáíèöû. Ðàáî÷èå æäóò Âàøåãî ðàñïîðÿæåíèÿ, ÷òîáû íà÷àòü êîïàòü.;;x
+EVTDESC_HL_8022;The tomb stand completed. It sparkles with all the gold and steel within. You make sure to properly seal and cover the tomb, taking extra caution to make sure that no markings reveals its location. You kill all the workers so that no one but you, and your personal guard, know where to find it.;;;;;;;;;;;Ãðîáíèöà çàêîí÷åíà. Îíà ñèÿåò çîëîòîì è ñòàëüþ. Âû óáåäèëèñü, ÷òîáû ðàáîòíèêè ïðàâèëüíî çàïå÷àòàëè ãðîáíèöó è ñïðÿòàëè å¸ òàê, ÷òîáû íè÷òî íå âûäàâàëî å¸ ìåñòîïîëîæåíèÿ. Â êà÷åñòâå äîïîëíèòåëüíî ïðåäîñòîðîæíîñòè, Âû óáèâàåòå âñåõ ðàáîòíèêîâ. Òåïåðü ñåêðåò ýòîé ãðîáíèöû çíàåòå òîëüêî Âû è Âàøà ëè÷íàÿ îõðàíà.;;x
+EVTDESC_HL_8030;The days have been agonizingly warm. Your water has almost run out. The body has already started to decompose and can be smelled from quite the distance. Yet, you haven't reached the place where the death worm is rumored to exist. The others of your party beg you to go back.;;;;;;;;;;;Äíè íåñòåðïèìîé æàðû ïîä ïàëÿùèì ñîëíöåì, âîäà ïî÷òè çàêîí÷èëàñü, à òåëî óæå íà÷àëî ðàçëàãàòüñÿ è âîíÿòü. Âû ïðîøëè ÷åðåç ìíîãîå, íî ïîêà íå äîñòèãëè òåõ ìåñò, ãäå ïî ñëóõàì äîëæåí îáèòàòü ëåãåíäàðíûé ÷åðâü. Âàøè ëþäè óìîëÿþò Âàñ îòêàçàòüñÿ îò ýòîé çàòåè è ïîâåðíóòü äîìîé.;;x
+EVTDESC_HL_8032;Finally reaching the area where the olgoi-khorkhoi are supposedly found, you feel satisfied with your achievement. You see no sign of the worm, but you are sure that it lurkers just beneath the sands! You place the body on the ground, or what's left of it, to be sacrificed to the mighty creature.;;;;;;;;;;;Íàêîíåö Âû ïðèøëè òóäà, ãäå, ïî ðàññêàçàì, âîäèòñÿ Îëãîé-Õîðõîé. ×óâñòâóÿ óäîâëåòâîðåíèå, Âû íà÷èíàåòå ïîèñêè ÷åðâÿ, íî íå íàõîäèòå åãî. Îí íàâåðíÿêà ïðÿ÷åòñÿ ãäå-òî â ãëóáèíå ïåñêîâ. Âû êëàäåòå ì¸ðòâîå òåëî, èëè òî, ÷òî îò íåãî îñòàëîñü, ÷òîáû ïðèíåñòè æåðòâó ìîãó÷åìó ñóøåñòâó.;;x
+EVTDESC_HL_8035;It was a difficult journey, but you made it home safely. Most of your party perished in the desert, and it seems that you alone were able to complete the journey without severely straining your health.;;;;;;;;;;;Ýòî áûë òÿæ¸ëûé ïóòü, íî âñ¸ æå Âû âåðíóëèñü äîìîé. Áîëüøèíñòâî Âàøèõ ëþäåé ïîãèáëî â ïóñòûíå, è, êàæåòñÿ, òîëüêî Âû áûëè â ñîñòîÿíèè ñîâåðøèòü ýòî ïóòåøåñòâèå, íå íàâðåäèâ ñâîåìó çäîðîâüþ.;;x
+EVTNAME_HL_8005;Sky Burial;;;;;;;;;;;Håáåñíîå ïîãðåáåíèå;;x
+EVTNAME_HL_8006;Bad Weather;;;;;;;;;;;Ãíåâ ñòèõèè;;x
+EVTNAME_HL_8008;A Lone Hermit;;;;;;;;;;;Oòøåëüíèê;;x
+EVTNAME_HL_8010;Sky Burial;;;;;;;;;;;Håáåñíîå ïîãðåáåíèå;;x
+EVTNAME_HL_8011;Being Followed;;;;;;;;;;;Kòî-òî ñëåäèò çà ìíîé;;x
+EVTNAME_HL_8020;Constructing Tomb;;;;;;;;;;;Ãðîáíèöà;;x
+EVTNAME_HL_8022;Golden Tomb;;;;;;;;;;;Båëèêàÿ çîëîòàÿ ãðîáíèöà;;x
+EVTNAME_HL_8030;The Gobi Desert;;;;;;;;;;;Ãîáè;;x
+EVTNAME_HL_8032;The Gobi Desert;;;;;;;;;;;Ãîáè;;x
+EVTNAME_HL_8035;Home at Last;;;;;;;;;;;Hàêîíåö-òî äîìà;;x
+EVTOPTA_HL_8005;I shall take him to the mountains myself.;;;;;;;;;;;ß ñäåëàþ ýòî.;;x
+EVTOPTA_HL_8006;Let us find shelter until it passes.;;;;;;;;;;;Íàäî íàéòè óêðûòèå, ïîêà ýòî íå çàêîí÷èòñÿ.;;x
+EVTOPTA_HL_8008;Here. Take this.;;;;;;;;;;;Âîò. Âîçüìè ýòî íà ïàìàòü.;;x
+EVTOPTA_HL_8010;You are with [Root.Religion.GetRandomGodName] now.;;;;;;;;;;;Òåïåðü òû ñ ïðåäêàìè...;;x
+EVTOPTA_HL_8011;Can I keep it?!;;;;;;;;;;;ß îñòàâëþ åãî ñåáå!;;x
+EVTOPTA_HL_8020;Well then. Put your back into it!;;;;;;;;;;;Ñþäà! Íà÷èíàéòå çäåñü.;;x
+EVTOPTA_HL_8022;Magnificent, and no one shall ever disturb it.;;;;;;;;;;;×óäåñíî! Íèêòî íå ïîòðåâîæèò ýòî ñâÿòîå ìåñòî.;;x
+EVTOPTA_HL_8030;Nonsense! We must continue!;;;;;;;;;;;×åïóõà! Ìû ïðîäîëæèì ñâîé ïóòü!;;x
+EVTOPTA_HL_8032;A worthy burial! Now to get back home..;;;;;;;;;;;Äîñòîéíîå ïîãðåáåíèå! À òåïåðü - äîìîé..;;x
+EVTOPTA_HL_8032_custom_tooltip;safely reaching home.;;;;;;;;;;;äîáåð¸òåñü äî äîìà.;;x
+EVTOPTA_HL_8035;What doesn't kill you makes you stronger!;;;;;;;;;;;×òî íå óáèâàåò, òî äåëàåò ìåíÿ ñèëüíåå!;;x
+EVTOPTB_HL_8005;No. He shall have a golden tomb worthy of his name.;;;;;;;;;;;Çîëî÷¸íàÿ óñûïàëüíèöà ïîäîéä¸ò áîëüøå.;;x
+EVTOPTB_HL_8006;A little rain has never killed anyone!;;;;;;;;;;;Âïåð¸ä! Äîæäü åù¸ íèêîãî íå óáèâàë.;;x
+EVTOPTB_HL_8008;Why don't you join us?;;;;;;;;;;;Ïî÷åìó áû òåáå íå ïðèñîåäèíèòüñÿ ê íàì?;;x
+EVTOPTB_HL_8011;Just scare it away.;;;;;;;;;;;Ïðî÷ü îòñþäà! Êûø!;;x
+EVTOPTB_HL_8022;Have the guards killed as well.;;;;;;;;;;;Ñî ñòðàæíèêàìè ÿ ðàçáåðóñü ÷óòü ïîçæå.;;x
+EVTOPTB_HL_8030;This was a bad idea.. Lets go back..;;;;;;;;;;;Ýòî áûëà íåóäà÷íàÿ èäåÿ. Íåìåäëåííî âîçâðàùàåìñÿ!;;x
+EVTOPTB_HL_8032;That was fun! But now, I must rest.. right here..;;;;;;;;;;;Ïîòðÿñàþùåå ïóòåøåñòâèå! À òåïåðü ïîðà îòäîõíóòü...;;x
+EVTOPTC_HL_8005;He shall not be eaten by birds, but by olgoi-khorkhoi!;;;;;;;;;;;Íå ïòèöû, íî Îëãîé-Õîðõîé!;;x
+EVTOPTC_HL_8005_custom_tooltip_a;A sky burial is prepared.;;;;;;;;;;;Âû ïðèãîòîâèòåñü ñîâåðøèòü Íåáåñíîå ïîãðåáåíèå.;;x
+EVTOPTC_HL_8005_custom_tooltip_b;The construction of a mighty tomb begins.;;;;;;;;;;;Âû íà÷í¸òå ñòðîèòåëüñòâî ãðîáíèöû.;;x
+EVTOPTC_HL_8005_custom_tooltip_c;It will be a difficult journey across the desert. Greatly risking your life. Those with health concerns would likely perish..;;;;;;;;;;;Âû îòïðàâèòåëñü â îïàñíîå äëÿ æèçíè ïóòåøåñòâèå â ïóñòûíþ. Òîëüêî êðåïêîå çäîðîâüå ñïàñ¸ò Âàñ îò ñìåðòè.;;x
+EVTOPTC_HL_8008;Thank you, but I must be going.;;;;;;;;;;;Áëàãîäàðþ, íî ìíå ïîðà èäòè äàëüøå.;;x
+EVTDESC_HL_9000;You and your men are practicing wrestling when you notice a crowd starting to form around you. Wrestling is an honored tradition that keeps nomad warriors fit for war, but ever so often it happens that training sessions turn into competitive spectacles. Your men have already started putting on a show for the crowd. They beckon you to join them.;;;;;;;;;;;Âû è Âàøè ëþäè çàíèìàëèñü áîðüáîé, ïîêà íå óâèäåëè, ÷òî âîêðóã ñîáðàëàñü òîëïà çðèòåëåé. Áîðüáà - äðåâíåéøåå ðàçâëå÷åíèå êî÷åâûõ íàðîäîâ, ïîçâîëÿþùåå íå òåðÿòü õâàòêó â ìèðíîå âðåìÿ. È ýòî, êàê ÷àñòî áûâàåò, ó÷åáíûå òðåíèðîâêè íåðåäêî ïðåâðàùàþòñÿ â î÷åðåäíîé âèä ñïîðòà. Âàøè ëþäè ñîãëàñèëèñü âûñòóïèòü ïåðåä òîëïîé, è ïðèãëàøàþò Âàñ ïðèñîåäèíèòüñÿ ê íèì.;;x
+EVTDESC_HL_9001;With matches lasting upwards of two hours, Bökh wrestling is an excellent way to prove your endurance. You and your opponent are expected to dance as you enter and leave the contest field, and it's also expected of the winner to help the opponent up off the ground as the match is over. You know that this will require you to exert yourself to your very limit.;;;;;;;;;;;Êàê îæèäàåòñÿ, ñîðåâíîâàíèå ïðîäëèòñÿ äâà ÷àñà. Áîðüáà Áîõ - îòëè÷íûé ñïîñîá äîêàçàòü ñâîþ ñèëó. Ïî ïðàâèëàì, ïîáåæä¸ííûì ñ÷èòàåòñÿ òîò, êòî ïåðâûì êîñí¸òñÿ çåìëè ÷åì-ëèáî êðîìå ñòóïíåé èëè êèñòåé ðóê. Ïîñëå ìàò÷à ïîáåäèòåëü èñïîëíèò ãîðäûé òàíåö, à ïîáåæä¸ííûé ïðîéä¸ò ïîä åãî ïîäíÿòîé ðóêîé. ×òîáû ïîáåäèòü â ýòîì ñîðåâíîâàíèè, Âàì ïîòðåáóåòñÿ ïðîÿâèòü âñþ ñâîþ ñèëó.;;x
+EVTDESC_HL_9003;The crowd cheers as you and your opponent dance into the contest field. After circling for a while you charge in, locking yourself with the opposing wrestler. After several minutes of furious grappling you spot a weakness in your opponent's defense. You quickly let go of his upper body and grab his legs, tipping him over. He falls over and his elbows touch the ground – you are the victor!;;;;;;;;;;;Òîëïà çàâûâàåò, êîãäà Âû ñõîäèòåñü ñî ñâîèì ïðîòèâíèêîì íà ïîëå. Âû êðóæèòå, ïûòàÿñü âûãàäàòü ìîìåíò, è çàæèìàåòå ïðîòèâíèêà â ìåäâåæüèõ îáúÿòèÿõ. Ê ñîæàëåíèþ, ïðîòèâíèê óñïåë ïîäñòàâèòü ëîêòè, òàê ÷òî åãî íå ñâàëèøü. Íî, ïîñëå íåñêîëüêèõ ìèíóò ÿðîñòíîé áîðüáû, Âû çàìå÷àåòå ãëàâíóþ óÿçâèìîñòü ñîïåðíèêà. Âû áûñòðî îòïóñêàåòå êîðïóñ, è, ñõâàòèâ åãî çà íîãè, îïðîêèäûâàåòå íà çåìëþ. Ïðîòèâíèê ïàäàåò, è åãî ëîêòè êàñàþòñÿ çåìëè - Âû ïîáåäèëè!;;x
+EVTDESC_HL_9004;The crowd cheers as you and your opponent dance into the contest field. After circling for a while you charge in, locking yourself with the opposing wrestler. After several minutes of furious grappling you start to feel the strain. Suddenly your opponent catches you off guard and grabs your legs. He lifts you into the air and lets you fall to the ground. You've been defeated!;;;;;;;;;;;Òîëïà çàâûâàåò, êîãäà Âû ñõîäèòåñü ñî ñâîèì ïðîòèâíèêîì íà ïîëå. Âû êðóæèòå, ïûòàÿñü âûãàäàòü ìîìåíò, íî òóò ïðîòèâíèê çàæèìàåò Âàñ â ìåäâåæüèõ îáúÿòèÿõ. Ê ñ÷àñòüþ, Âû óñïåëè ïîäñòàâèòü ëîêòè, è áûñòðî âûõîäèòå èç çàõâàòà. Ïîñëå íåñêîëüêèõ ìèíóò ÿðîñòíîé áîðüáû Âû ÷óâñòâóåòå óñòàëîñòü. Âäðóã ïðîòèâíèê çàñòà¸ò Âàñ âðàñïëîõ, õâàòàåò çà íîãè, è áðîñàåò íà çåìëþ. Âû ïîâåðæåíû!;;x
+EVTOPTA_HL_9000;I can't disappoint the audience, now can I?;;;;;;;;;;;ß íå ìîãó èõ ðàçî÷àðîâàòü.;;x
+EVTOPTA_HL_9001;I'll challenge one of my greatest warriors!;;;;;;;;;;;ß âûçûâàþ íà ïîåäèíîê ñâîåãî ëó÷øåãî âîèíà!;;x
+EVTOPTA_HL_9003;My opponent was pathetic, I won't help him up!;;;;;;;;;;;Ìîé ïðîòèâíèê æàëîê, ÿ íå ïîìîãó åìó ïîäíÿòüñÿ.;;x
+EVTOPTA_HL_9004;Maybe this wasn't such a good idea after all...;;;;;;;;;;;Ïëîõàÿ áûëà çàòåÿ...;;x
+EVTOPTB_HL_9000;There's no time for this, get back to training the lot of you!;;;;;;;;;;;Íåò âðåìåíè íà èãðû, âîçâðàùàéòåñü ê òðåíèðîâêàì!;;x
+EVTOPTB_HL_9001;Naturally, I expect whoever I challenge to yield.;;;;;;;;;;;ß íå âèæó çäåñü äîñòîéíûõ ïðîòèâíèêîâ.;;x
+EVTOPTB_HL_9003;I have triumphed! Now take my hand, I'll help you up.;;;;;;;;;;;Äåðæèñü çà ìîþ ðóêó, õîðîøèé áûë áîé!;;x
+EVTOPTB_HL_9004;I was bested fair and square, my opponent is truly worthy!;;;;;;;;;;;Ýòî ÷åñòü, áûòü ïîáåæä¸ííûì òàêèì áîéöîì, êàê òû!;;x
+EVTOPTC_HL_9001;On the other hand, this seems dangerous...;;;;;;;;;;;Ýòî ñëèøêîì îïàñíî...;;x
+EVTOPTC_HL_9003;I may have won, but we'll share the glory!;;;;;;;;;;;Ïîáåäà ìîÿ, íî ìû ðàçäåëèì ñëàâó!;;x
+EVTOPTC_HL_9004;You dare defeat the Khan? Now feel my wrath!;;;;;;;;;;;Äà êàê òû ïîñìåë? ß - òâîé õàí!;;x
+EVTOPTD_HL_9000;You can have your fun, but I'll sit this one out...;;;;;;;;;;;Âû ïîâåñåëèòåñü, à ÿ ïîñìîòðþ...;;x
+EVTOPTD_HL_9001;I'll challenge my trusty steed, Glitterhoof!;;;;;;;;;;;Ãëèòòåðãîô! Ìîé âåðíûé êîíü! Âûçûâàþ òåáÿ íà ïîåäèíîê!;;x
+EVTOPTD_HL_9003;That was a thrilling experience! Meet me in my tent later?;;;;;;;;;;;Ýòî áûëî ïðåêðàñíî! Çàõîäè êî ìíå â øàò¸ð âå÷åðîì.;;x
+EVTOPTD_HL_9004;I may have lost, but it was a thrilling experience!;;;;;;;;;;;Ýòî áûëî òàê... âîçáóæäàþùå.;;x
+EVTTOOLTIP_HL_9000A;You decide to join the contest.;;;;;;;;;;;Âû ðåøèëè âñòóïèòü â ñîñòÿçàíèå.;;x
+EVTTOOLTIP_HL_9001A;Is challenged to a wrestling match!;;;;;;;;;;;Áóäåò âûçâàí íà ïîåäèíîê ïî áîðüáå!;;x

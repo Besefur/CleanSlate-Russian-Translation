@@ -1,42 +1,36 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC24500;A Loving Marriage ends with my death.;;;;;;;;;;;;;x
-EVTDESC24501;I keep thinking about [From.GetTitledFirstName]. She was the best of wives, and without her, I do so struggle to be a [Root.GetTitle]. Oh, how I miss her....;;;;;;;;;;;;;x
-EVTDESC24502;Who will my father trust in now?;;;;;;;;;;;;;x
-EVTDESC24503;The rest of my sons are nowhere near the abilities of [From.GetTitledFirstName]. He knew how to handle a sword, and would have been a great [Root.GetTitle] after my death.;;;;;;;;;;;;;x
-EVTDESC24504;My wife is pregnant, but she better give birth to a decent son this time. Else she may 'accidentally' fall down from a tower.;;;;;;;;;;;;;x
-EVTDESC24505;I hope the circumstances of my untimely death makes someone suspicious. I did NOT die a natural death...;;;;;;;;;;;;;x
-EVTDESC24506;[From.GetTitledFirstName] did not die a natural death, of that I am certain! I suspect one of the courtiers to be behind [From.GetTitledFirstName]'s unfortunate demise.;;;;;;;;;;;;;x
-EVTDESC24507;[From.GetTitledFirstName] is certain someone murdered one of [From.GetHerHis] dear friends, and wants me to imprison the courtier who [From.GetSheHe] thinks is the murderer.;;;;;;;;;;;;;x
-EVTDESC24510;I died while I was serving [Root.Liege.GetTitledFirstName], now I hope [Root.Liege.GetSheHe] will honor my last wish and bury me properly...;;;;;;;;;;;;;x
-
-EVTOPTA24500;For you, everything!;;;;;;;;;;;;;x
-EVTOPTA24501;Wenching might make me forget her!;;;;;;;;;;;;;x
-EVTOPTA24502;I'm dead;;;;;;;;;;;;;x
-EVTOPTA24503;Maybe my wife can give me another son?;;;;;;;;;;;;;x
-EVTOPTA24504;I know it was nothing wrong with ME;;;;;;;;;;;;;x
-EVTOPTA24505;Someone suspects I did not die naturally!;;;;;;;;;;;;;x
-EVTOPTA24506;I will keep my grudge;;;;;;;;;;;;;x
-EVTOPTA24507;[From.GetTitledFirstName] must be delusional!;;;;;;;;;;;;;x
-EVTOPTA24510;Keep your promise or I will haunt you, forever!;;;;;;;;;;;;;x
-
-EVTOPTB24501;I will never forget [From.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTOPTB24503;I have other sons, maybe one of them can be worthy;;;;;;;;;;;;;x
-EVTOPTB24506;There's no doubt in my mind, the murderer will be imprisoned!;;;;;;;;;;;;;x
-EVTOPTB24507;[From.GetTitledFirstName], your friend's murderer will be imprisoned!;;;;;;;;;;;;;x
-
-EVTOPTC24506;[Root.Liege.GetTitledFirstName] must listen to reason!;;;;;;;;;;;;;x
-
-EVTTOOLTIP24501;He will mourn us;;;;;;;;;;;;;x
-EVTTOOLTIP24503;[Root.Father.GetTitledFirstName] will have to deal with it.;;;;;;;;;;;;;x
-EVTTOOLTIP24504;Visit [Root.Spouse.GetTitledFirstName] in her bedchamber.;;;;;;;;;;;;;x
-EVTTOOLTIP24506;[This.GetTitledFirstName] reacts to the strange circumstances of [Root.GetTitledFirstName]'s death;;;;;;;;;;;;;x
-EVTTOOLTIP24507;[Root.Liege.GetTitledFirstName] is told about [Root.GetTitledFirstName]'s suspicions;;;;;;;;;;;;;x
-
-EVTDESC4140;[From.GetTitledFirstName] had made me promise I would bury [From.GetHerHim] properly and I keep my promises. I walked beside [From.GetHerHis] coffin to [From.GetTitledFirstName]'s last rest and the wailing of the mourners was almost more than I could bear. [From.GetSheHeCap] died too young!;;;;;;;;;;;;;x
-EVTOPTA4140;Requiescat in pace;;;;;;;;;;;;;x
-EVTOPTB4140;One less mouth to feed;;;;;;;;;;;;;x
-EVTOPTC4140;I should help [From.GetHerHis] widow;;;;;;;;;;;;;x
-EVTOPTD4140;Inna Lillahi wa inna ilaihi raji'un;;;;;;;;;;;;;x
-EVTOPTE4140;You will not be forgotten;;;;;;;;;;;;;x
-EVTTOOLTIP4140;[This.GetTitledFirstName] keeps [This.GetHerHis] promise to [Root.GetTitledFirstName];;;;;;;;;;;;;x
+EVTDESC24500;A Loving Marriage ends with my death.;;;;;;;;;;;Ýòîò ïðåêðàñíûé áðàê çàêîí÷èëñÿ ñ ìîåé ñìåðòüþ.;;x
+EVTDESC24501;I keep thinking about [From.GetTitledFirstName]. She was the best of wives, and without her, I do so struggle to be a [Root.GetTitle]. Oh, how I miss her....;;;;;;;;;;;[From.GetTitledFirstName] äî ñèõ ïîð æèâ¸ò â ìî¸ì ñåðäöå. [From.GetSheHeCap] áûë[From.GetEndA] ñàì[From.GetOyYm] ëó÷ø[From.GetEyIm] [From.GetHusbandWifeINS], è áåç í[From.GetHersHis] ìíå ïðèõîäèòñÿ èçî âñåõ ñèë ñòàðàòüñÿ, ÷òîáû ïîêàçàòü, ÷òî ÿ äîñòîéí[Root.GetAyaYy] [Root.GetTitle]. Îõ, êàê ìíå [From.GetHersHis] íå õâàòàåò...;;x
+EVTDESC24502;Who will my father trust in now?;;;;;;;;;;;Êîìó áóäåò äîâåðÿòü ìîé îòåö òåïåðü?;;x
+EVTDESC24503;The rest of my sons are nowhere near the abilities of [From.GetTitledFirstName]. He knew how to handle a sword, and would have been a great [Root.GetTitle] after my death.;;;;;;;;;;;[From.GetTitledFirstName] ìíîãîãî äîñòèã. Îñòàëüíûì ìîèì ñûíîâüÿì åù¸ äàëåêî äî åãî ñïîñîáíîñòåé. Ëèøü îí îäèí óìååò òàê õîðîøî óïðàâëÿòüñÿ ñ ìå÷îì. Èç íåãî âûéäåò îòëè÷íûé [Root.GetTitle], êîãäà ÿ óìðó.;;x
+EVTDESC24504;My wife is pregnant, but she better give birth to a decent son this time. Else she may 'accidentally' fall down from a tower.;;;;;;;;;;;"Ìîÿ æåíà áåðåìåííà, è â ýòîò ðàç ëó÷øå åé ðîäèòü ìíå ïðèëè÷íîãî ñûíà. Èíà÷å åù¸ îíà ìîæåò ""ñëó÷àéíî"" âûïàñòü èç áàøíè.";;x
+EVTDESC24505;I hope the circumstances of my untimely death makes someone suspicious. I did NOT die a natural death...;;;;;;;;;;;ß íàäåþñü, ÷òî îáñòîÿòåëüñòâà ìîåé áåçâðåìåííîé êîí÷èíû âîçáóäÿò õîòü ó êîãî-òî ïîäîçðåíèÿ. ß óìåð[Root.GetNoneE] ÍÅ ïî åñòåñòâåííûì ïðè÷èíàì…;;x
+EVTDESC24506;[From.GetTitledFirstName] did not die a natural death, of that I am certain! I suspect one of the courtiers to be behind [From.GetTitledFirstName]'s unfortunate demise.;;;;;;;;;;;[From.GetTitledFirstName] - æåðòâà óáèéñòâà, ýòî íå íåñ÷àñòíûé ñëó÷àé, çóá äàþ! ß ïîäîçðåâàþ, ÷òî êîå-êòî èç ïðèäâîðíûõ ñòîÿë çà [From.GetHersHis] ñïèíîé ïåðåä ïàäåíèåì.;;x
+EVTDESC24507;[From.GetTitledFirstName] is certain someone murdered one of [From.GetHerHis] dear friends, and wants me to imprison the courtier who [From.GetSheHe] thinks is the murderer.;;;;;;;;;;;[From.GetTitledFirstName] íå ñîìíåâàåòñÿ, ÷òî êòî-òî óáèë îäíîãî èç [From.GetHersHis] áëèçêèõ äðóçåé, è õî÷åò, ÷òîáû ìíîþ áûë ïîñàæåí â òþðüìó ïðèäâîðíûé, êîòîðîãî [From.GetSheHe] ñ÷èòàåò óáèéöåé.;;x
+EVTDESC24510;I died while I was serving [Root.Liege.GetTitledFirstName], now I hope [Root.Liege.GetSheHe] will honor my last wish and bury me properly...;;;;;;;;;;;[Root.Liege.GetTitledFirstName], ñìåðòü íàñòèãëà ìåíÿ âî ñëóæåíèè Âàøåé Ìèëîñòè. È òåïåðü ÿ íàäåþñü, ÷òî Âû âûïîëíèòå ìî¸ ïîñëåäíåå æåëàíèå, ïîõîðîíèâ ìåíÿ, êàê ïîäîáàåò.;;x
+EVTOPTA24500;For you, everything!;;;;;;;;;;;Âñ¸ ðàäè òåáÿ!;;x
+EVTOPTA24501;Wenching might make me forget her!;;;;;;;;;;;Ãóëÿùèå äåâêè ìîãóò ïîìî÷ü ìíå çàáûòü å¸!;;x
+EVTOPTA24502;I'm dead;;;;;;;;;;;ß ì¸ðòâ;;x
+EVTOPTA24503;Maybe my wife can give me another son?;;;;;;;;;;;Áûòü ìîæåò ìîÿ æåíà ñìîæåò ïîäàðèòü ìíå åù¸ îäíîãî ñûíà;;x
+EVTOPTA24504;I know it was nothing wrong with ME;;;;;;;;;;;ß çíàþ, ÷òî ñî ÌÍÎÉ âñ¸ â ïîðÿäêå.;;x
+EVTOPTA24505;Someone suspects I did not die naturally!;;;;;;;;;;;Êòî-òî ïîäîçðåâàåò, ÷òî ìîÿ ñìåðòü íå áûëà ñëó÷àéíîñòüþ!;;x
+EVTOPTA24506;I will keep my grudge;;;;;;;;;;;ß ïðèäåðæó ñâî¸ íåäîâîëüñòâî;;x
+EVTOPTA24507;[From.GetTitledFirstName] must be delusional!;;;;;;;;;;;[From.GetTitledFirstName], äîëæíî áûòü, áðåäèò!;;x
+EVTOPTA24510;Keep your promise or I will haunt you, forever!;;;;;;;;;;;Ñäåðæè ñâî¸ îáåùàíèå, èëè ÿ áóäó ïðåñëåäîâàòü òåáÿ âå÷íî!;;x
+EVTOPTB24501;I will never forget [From.GetTitledFirstName]!;;;;;;;;;;;ß íèêîãäà [From.GetHersHis] íå çàáóäó!;;x
+EVTOPTB24503;I have other sons, maybe one of them can be worthy;;;;;;;;;;;Ó ìåíÿ åñòü äðóãèå ñûíîâüÿ, âîçìîæíî îäèí èç íèõ äîñòîéíåå.;;x
+EVTOPTB24506;There's no doubt in my mind, the murderer will be imprisoned!;;;;;;;;;;;Ó ìåíÿ íåò ñîìíåíèé, óáèéöó ïîñàäÿò â òþðüìó!;;x
+EVTOPTB24507;[From.GetTitledFirstName], your friend's murderer will be imprisoned!;;;;;;;;;;;[From.GetTitledFirstName], óáèéöó Âàøåãî äðóãà ïîñàäÿò â òþðüìó!;;x
+EVTOPTC24506;[Root.Liege.GetTitledFirstName] must listen to reason!;;;;;;;;;;;Ïóñòü [Root.Liege.GetTitledFirstName] ïðèñëóøàåòñÿ ê ãîëîñó ðàçóìà!;;x
+EVTTOOLTIP24501;He will mourn us;;;;;;;;;;;Îí áóäåò îïëàêèâàòü Âàñ;;x
+EVTTOOLTIP24503;[Root.Father.GetTitledFirstName] will have to deal with it.;;;;;;;;;;;[Root.Father.GetTitledFirstName] äîëæåí áóäåò èìåòü äåëî ñ ýòèì.;;x
+EVTTOOLTIP24504;Visit [Root.Spouse.GetTitledFirstName] in her bedchamber.;;;;;;;;;;;Îòïðàâèòñÿ ê ïåðñîíàæó [Root.Spouse.GetTitledFirstName] â [Root.Spouse.GetHersHis] ñïàëüíþ…;;x
+EVTTOOLTIP24506;[This.GetTitledFirstName] reacts to the strange circumstances of [Root.GetTitledFirstName]'s death;;;;;;;;;;;ðåàãèðóåò íà ñòðàííûå îáñòîÿòåëüñòâà ñìåðòè ïåðñîíàæà [Root.GetTitledFirstName].;;x
+EVTTOOLTIP24507;[Root.Liege.GetTitledFirstName] is told about [Root.GetTitledFirstName]'s suspicions;;;;;;;;;;;[Root.Liege.GetTitledFirstName] èçâåùàåòñÿ î ïîäîçðåíèÿõ ïåðñîíàæà [Root.GetTitledFirstName].;;x
+EVTDESC4140;[From.GetTitledFirstName] had made me promise I would bury [From.GetHerHim] properly and I keep my promises. I walked beside [From.GetHerHis] coffin to [From.GetTitledFirstName]'s last rest and the wailing of the mourners was almost more than I could bear. [From.GetSheHeCap] died too young!;;;;;;;;;;;[From.GetTitledFirstName] ïðîñèë[From.GetEndA] ìåíÿ äàòü îáåùàíèå ïîõîðîíèòü [From.GetHersHis], êàê ñëåäóåò, è ÿ äåðæó ñâî¸ ñëîâî. ß èäó ðÿäîì ñ [From.GetHersHis] ãðîáîì äî ñàìîãî ïîãðåáåíèÿ, è, ñëûøà ïëà÷ ñêîðáÿùèõ, åäâà ñäåðæèâàþñü, ÷òîáû íå çàðûäàòü.;;x
+EVTOPTA4140;Requiescat in pace;;;;;;;;;;;Äà óïîêîèòñÿ [From.GetSheHe] ñ ìèðîì;;x
+EVTOPTB4140;One less mouth to feed;;;;;;;;;;;Îäíèì ãîëîäíûì ðòîì ìåíüøå;;x
+EVTOPTC4140;I should help [From.GetHerHis] widow;;;;;;;;;;;Íóæíî ïîìî÷ü [From.GetHersHis] ñåìüå.;;x
+EVTOPTD4140;Inna Lillahi wa inna ilaihi raji'un;;;;;;;;;;;Âîèñòèíó, ìû ïðèíàäëåæèì Àëëàõó è ê íåìó âåðí¸ìñÿ.;;x
+EVTOPTE4140;You will not be forgotten;;;;;;;;;;;Âàñ íå çàáóäóò;;x
+EVTTOOLTIP4140;[This.GetTitledFirstName] keeps [This.GetHerHis] promise to [Root.GetTitledFirstName];;;;;;;;;;;[This.GetTitledFirstName] äåðæèò ñâî¸ ñëîâî, äàííîå ïåðñîíàæó [Root.GetTitledFirstName];;x

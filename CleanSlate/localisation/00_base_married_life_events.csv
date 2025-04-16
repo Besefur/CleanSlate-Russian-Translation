@@ -1,336 +1,320 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC30000;After months of fights, arguments and tears, my spouse suggested separate bedchambers.;;;;;;;;;;;;;x
-EVTDESC30001;My new wife disgusts me! I cannot stand it anymore, I should annul our marriage!;;;;;;;;;;;;;x
-EVTDESC30002;My spouse ended our marriage on grounds of non-consummation! I will not put up with this, I am [Root.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTDESC30003;I asked my [Root.Religion.GetName] father to annul my marriage but he had already been snared by the lies of my former wife! He told me to take her back or else he would place my lands under an interdict.;;;;;;;;;;;;;x
-EVTDESC30004;It irks me that my own son will not inherit the title! My husband's heir must be removed, but how?;;;;;;;;;;;;;x
-EVTDESC30005;My son and heir [Root.Heir.GetTitledFirstName]'s sudden illness could be the signs of poisoning! I know my wife [Root.Spouse.GetFirstName] well enough to suspect her, her ambition has always been that her son would inherit my title!;;;;;;;;;;;;;x
-EVTDESC30006;A courtier snuck up behind me and grabbed my arm. He hissed that he had seen me pour something into the heir's glass of milk only hours before he fell ill and wants some sort of bribe to keep quiet about the poisoning!;;;;;;;;;;;;;x
-EVTDESC30007;My son died today, poisoned by his own stepmother! I cannot ignore the fact that my beloved [Root.Spouse.GetFirstName] was cold-blooded enough to murder my son in favor of her own son.;;;;;;;;;;;;;x
-EVTDESC30008;My husband's son is dead! The only cloud on my otherwise blue sky is the courtier who claims he saw me poisoning the heir repeatedly until he died.;;;;;;;;;;;;;x
-EVTDESC30009;[Root.Spouse.GetTitledFirstName] threw me into the dungeon, accusing me of poisoning [Root.GetHerHis] son!;;;;;;;;;;;;;x
-EVTDESC30010;My dear [Root.Spouse.GetHusbandWife] [Root.Spouse.GetTitledFirstName] blames my confused head for the poisoning, [Root.Spouse.GetSheHe] seem to think I believed the poison was a miracle cure for his son's illness. I will let [Root.Spouse.GetHerHim] believe that.;;;;;;;;;;;;;x
-EVTDESC30011;After both my son and my courtier had fallen ill with the same symptoms and no one else had been affected, one of the serving girls told me in confidence that she had seen my [Root.Spouse.GetFirstName] pour a drop of something suspiciously poisonous into the flagon of mulled wine my son and courtier had shared. Did my spouse deliberately poison my son, and, perhaps accidentally, my courtier?;;;;;;;;;;;;;x
-EVTDESC30020;Only one thing can explain my son [Root.Heir.GetFirstName]'s sickness: poison! I talked to several of my courtiers and servants who confirmed my suspicion: they all recalled my wife [Root.Spouse.GetFirstName] giving [Root.Heir.GetFirstName] something to eat or drink just before [Root.Heir.GetSheHe] fell ill.;;;;;;;;;;;;;x
-EVTDESC30021;My [Root.Spouse.GetFirstName] has poisoned me!;;;;;;;;;;;;;x
-EVTDESC30025;I feel that [Root.Spouse.GetFirstName] is too affectionate towards a [Root.Spouse.GetManWoman] in the court and is starting to neglect me in favor of that [Root.Spouse.GetManWoman]! The love [Root.Spouse.GetSheHe] showers [Root.Spouse.GetHerHis] favorite with is beyond measure, I do hope they don't have a illicit and sinful union!;;;;;;;;;;;;;x
-EVTDESC30026;The whispers in court about me having favorites and 'showering them in a love that is beyond measure' and that I am having a 'illicit and sinful union' with a [Root.GetManWoman] at the court has grown in strength, with my [Root.Spouse.GetFirstName] as one of the gossipers! I need to stop these rumors before they reach the ears of my religious leader.;;;;;;;;;;;;;x
-EVTDESC30027;It had not escaped [From.GetFirstName] that I have favorites among the people of the court, but the things [From.GetSheHe] accused me of took my breath away. I, having an 'illicit and sinful union' with a [Root.GetManWoman]? [From.GetFirstName] demands that I shower [From.GetHerHim] with the same love and attention I allegedly show my favorites.;;;;;;;;;;;;;x
-EVTDESC30028;When I had finished talking, [From.GetFirstName] looked at me for a long time. I grew more nervous with each passing minute, wishing I hadn't used the words 'illicit and sinful union' about [From.GetHerHis] relation with that [From.GetManWoman].;;;;;;;;;;;;;x
-EVTDESC30029;The humiliation still burns through my body! I never meant for the gossip to reach [From.GetFirstName]'s ears, I only needed to talk to someone about my loneliness and my fear of [From.GetFirstName] having a love affair with a [From.GetManWoman], but the harsh words and the loathing in [From.GetHerHis] eyes made me wish I never uttered a word about my suspicions.;;;;;;;;;;;;;x
-EVTDESC30030;The thoughts of how I'll never be reunited with my family keeps tormenting me, how someone of my stature could possibly be locked up in a horrid place such as this is beyond me. In the depths of my despair the news reach me, my [outside_spouse.GetFirstName] is trying to have me released!;;;;;;;;;;;;;x
-EVTDESC30031;My prisoner [prisoner_spouse.GetTitledFirstName]'s spouse  [outside_spouse.GetTitledFirstName] sent me a letter insisting I would meet [outside_spouse.GetHerHim] in [outside_spouse.GetHerHis] keep. [outside_spouse.GetSheHeCap] asked me to show mercy and release [outside_spouse.GetHerHis] spouse for a hefty sum of money [outside_spouse.GetSheHe] obviously does not have.;;;;;;;;;;;;;x
-EVTDESC30032;After my encouraging letter to [prisoner_spouse.GetTitledFirstName] [prisoner_spouse.GetSheHe] managed to send me a letter in return begging me to try and release [prisoner_spouse.GetHerHim] as soon as possible.;;;;;;;;;;;;;x
-EVTDESC30033;I'm in the study doing research when the news reach me. [prisoner_spouse.GetSheHeCap]'s dead. [prisoner_spouse.GetTitledFirstName] died in prison before I was able to have [prisoner_spouse.GetHerHim] released.;;;;;;;;;;;;;x
-EVTDESC30034;I was released from the dungeons of [prisoner_host.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTDESC30035;I was yet again thrown into the dungeons...;;;;;;;;;;;;;x
-EVTDESC30036;Dear [outside_spouse.GetTitledFirstName], I strongly suggest you give up on the idea you might be able to rescue [prisoner_spouse.GetTitledFirstName] from [prisoner_spouse.GetHerHis] imprisonment and I will not be easily persuaded to release [prisoner_spouse.GetHerHim]. You may never see [prisoner_spouse.GetHerHim] if you do not stop your ridiculous attempts of freeing [prisoner_spouse.GetTitledFirstName].\n\n[prisoner_host.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC30037;Despite my letter warning [outside_spouse.GetTitledFirstName] to give up [outside_spouse.GetHerHis] attempts to rescue [outside_spouse.GetHerHis] spouse, a letter arrived this morning telling me to release the [prisoner_spouse.GetManWoman] or else...;;;;;;;;;;;;;x
-EVTDESC30040;My husband [Root.Spouse.GetTitledFirstName] has hired an incredibly annoying [annoying_courtier.GetManWoman] to serve us. [annoying_courtier.GetHerHisCap] rudeness knows no limits, and I have no idea how to handle [annoying_courtier.GetHerHim]. [annoying_courtier.GetSheHeCap] does not know [annoying_courtier.GetHerHis] place.;;;;;;;;;;;;;x
-EVTDESC30041;My wife [Root.Spouse.GetTitledFirstName] has asked me to get rid of one of my courtiers whom she finds mighty annoying. On one hand, [Root.Spouse.GetFirstName] might not be happy if I refuse her request, but if I fire 'the annoying [annoying_courtier.GetManWoman]' maybe people will feel my wife has too much influence over my actions.;;;;;;;;;;;;;x
-EVTDESC30042;Apparently, one of the courtiers has been annoying my wife [Root.Spouse.GetFirstName], and instead of asking me for help she took the matter in her own hands and made sure the courtier would never annoy her again or [annoying_courtier.GetSheHe] would know the consequences.;;;;;;;;;;;;;x
-EVTDESC30045;While walking alongside the river together with several people from the court, one of the courtiers keeps annoying me, so I decide to...;;;;;;;;;;;;;x
-EVTDESC30046;The young [annoying_courtier.GetManWoman] I pushed into the river ended up drowning. Although it was an accident rumors of my deed spread quickly.;;;;;;;;;;;;;x
-EVTDESC30047;Wet, but otherwise unharmed, the courtier blasted me with foul words and angry but empty threats. Seeing [annoying_courtier.GetHerHim] standing before me dripping mud and with algae entwined into [annoying_courtier.GetHerHis] hair, I could not stop the laughter pouring out of me.;;;;;;;;;;;;;x
-EVTDESC30050;My wife [my_spouse.GetFirstName] has complained about me being absent so often, and so when I found that I had some extra gold to spend, I decided to buy her something nice. Maybe some sort of jewellery?;;;;;;;;;;;;;x
-EVTDESC30051;When my [my_spouse.GetHusbandWife]'s mare had to be put down, I promised [my_spouse.GetFirstName] that I would find a new suitable ride for [my_spouse.GetHerHim]. Now I am in luck! Not only one, but three different mares have been brought to [Root.Location.GetName]!;;;;;;;;;;;;;x
-EVTDESC30052;My [my_spouse.GetHusbandWife] [my_spouse.GetFirstName] explains that [my_spouse.GetSheHe] is captivated by the grace and strength of hunting birds, and begs me for a bird.\n"Surely, even the spouse of the [Root.GetTitle] must be allowed to enjoy the noble pastime of falconry", [my_spouse.GetSheHe] says.;;;;;;;;;;;;;x
-EVTDESC30052_B;My [my_spouse.GetHusbandWife] [my_spouse.GetFirstName] explains that [my_spouse.GetSheHe] is captivated by the grace and strength of hunting birds, and begs me for a bird.\n"They are just so cute, with their little wings and their... Are they called beaks?", [my_spouse.GetSheHe] asks, gesturing at my nose.;;;;;;;;;;;;;x
-EVTDESC30055;The stubborn baron of [Root.Location.GetName] is really getting on my nerves! My wife, [Root.Spouse.GetFirstName], sensed my irritation and offered to give me advice on the matter. Her diplomatic skill has saved me many times before...;;;;;;;;;;;;;x
-EVTDESC30056;Two competent contenders are fighting for a position in [Root.Location.GetName] training the levies there. My gut tells me to choose the younger man who has risen through the ranks fast, whilst my wife [Root.Spouse.GetFirstName] is urging me to choose the older man who has never risen above the rank of sergeant.;;;;;;;;;;;;;x
-EVTDESC30057;Gold pours from my hands but never finds its way back! The numbers and sums make no sense, twirling numbers mocking me appear every time I close my eyes. My wife [Root.Spouse.GetFirstName] has offered to help me, but I have refused every time she brings it up.;;;;;;;;;;;;;x
-EVTDESC30058;I have my eyes set on a title, but my Spymaster [Root.job_spymaster.GetFullName] has advised me to forget about the title, saying I would invoke too much wrath if I try to claim it. My wife [Root.Spouse.GetFirstName], however, is doing everything but telling me outright that I should pursue the title.;;;;;;;;;;;;;x
-EVTDESC30059;The [Root.Religion.GetPriestTitle]s are not always easy to deal with. I need to make sure I have their approval and I have both my wife [Root.Spouse.GetFirstName] and my [Root.GetMyLordSpiritualName] [Root.job_spiritual.GetFullName] giving me advice on how to earn the [Root.Religion.GetPriestTitle]s' approval.;;;;;;;;;;;;;x
-EVTDESC30061;My sweet [Root.Spouse.GetFirstName] is terrifying when she wants something, there is nothing she wouldn't do to make me bend to her will. Now she wants me to make one of her friends [Root.GetMyChancellorName], but [Root.GetMyChancellorName] [Root.job_chancellor.GetFullName] is a very competent man...;;;;;;;;;;;;;x
-EVTDESC30064;No matter how many times I try to point out the virtues of Marshal [Root.job_marshal.GetFullName], my wife [Root.Spouse.GetFirstName] won't listen. She cannot take no for an answer, not when she has decided that her friend should be Marshal.;;;;;;;;;;;;;x
-EVTDESC30067;[Root.Spouse.GetFirstName] is adamant, she tries to make me appoint one of her male friends, who might mean more to her than I earlier suspected, Steward. No matter how well our current Steward [Root.job_treasurer.GetFullName] does his job I need to decide whether I should make [Root.Spouse.GetFirstName] happy by or if the current Steward will get to keep his job.;;;;;;;;;;;;;x
-EVTDESC30070;I cannot get any rest from [Root.Spouse.GetFirstName] pestering me about making her good friend Spymaster. She does not care that our Spymaster [Root.job_spymaster.GetFullName] is competent, skilled and a great Spymaster.;;;;;;;;;;;;;x
-EVTDESC30073;I have noticed [Root.Spouse.GetFirstName]'s affection for one of the courtiers and heard her praise his [Player.Religion.GetPietyName], so it did not surprise me when she approached me and tried to convince me to appoint him as [Root.GetLordSpiritualName]. Trouble is, [Root.job_spiritual.GetFullName] is well respected and many would disapprove if I were to fulfill [Root.Spouse.GetFirstName]'s wish.;;;;;;;;;;;;;x
-EVTDESC30075;My husband [Root.Spouse.GetFirstName] and I long for children, but despite our best efforts and the time we spend together in the bedchamber I have failed to conceive. The suspicion of being barren makes me seek consolation in another man's arms.;;;;;;;;;;;;;x
-EVTDESC30076;The pregnancy is starting to show and my husband [Root.Spouse.GetFirstName]'s happiness shows no bounds. I should be happy as well, but in my heart I know my husband [Root.Spouse.GetFirstName] isn't the father of my child.;;;;;;;;;;;;;x
-EVTDESC30077;My happiness when my wife [Root.Spouse.GetFirstName] told me I was about to be a father made me almost blind to her feelings, she smiled and seemed happy but something was amiss...;;;;;;;;;;;;;x
-EVTDESC30078;The bigger her belly gets, the thinner and more heavy-hearted my wife [Root.Spouse.GetFirstName] seems. Her appearance made me worry and I finally asked her what was wrong. It was as if [Root.Spouse.GetFirstName] had just waited to tell me about her indiscretion with the courtier and her belief that it is the courtier who is the father of the child she carries.;;;;;;;;;;;;;x
-EVTDESC30079;The look on my pregnant wife's face whenever she sees one of the male courtiers has made me suspicious. It is a weird mixture of guilt, gratefulness and a warning of some sorts. I confronted my wife and, after awhile, she confessed to having had an affair with the courtier but blamed him for seducing her and impregnating her.;;;;;;;;;;;;;x
-EVTDESC30080;I need to set an example with the courtier who impregnated my wife. I could throw him into prison, execute him or banish him, making sure no one will ever dare touch my wife again!;;;;;;;;;;;;;x
-EVTDESC30081;The child my wife [Root.Spouse.GetFirstName] carry is not mine. The pain of her betrayal is still fresh in my mind, I will punish her in the same way I will punish the courtier who impregnated her and made her an adulteress.;;;;;;;;;;;;;x
-EVTDESC30085;My lovely young wife [Root.Spouse.GetFirstName] has expressed her boredom several times, in several ingenious ways. The court is boring, hunting is boring, embroidery is boring, her ladies-in-waiting are boring and she wants me to 'make the boredom go away'.;;;;;;;;;;;;;x
-EVTDESC30086;My boring old husband [Root.Spouse.GetFirstName] told me his obligations is more important than my well-being! He might be right though, I should probably try to find a friend among the courtiers.;;;;;;;;;;;;;x
-EVTDESC30088;[target_courtier.GetBestName] and I agreed to do something together the next morning, so I am currently planning what we should do.;;;;;;;;;;;;;x
-EVTDESC30089;Despite the threatening clouds in the sky we started walking to the lake.;;;;;;;;;;;;;x
-EVTDESC30090;The cook had packed a perfect picnic, with some roast lamb, bread, cheese and wine.;;;;;;;;;;;;;x
-EVTDESC30091;The dogs were excited, the horses willing and the day had barely begun. My friend and I set out to hunt some serious game.;;;;;;;;;;;;;x
-EVTDESC30092;I was just making the last arrangements to the dinner table when my guest arrived. We would not go starving from this table!;;;;;;;;;;;;;x
-EVTDESC30095;[From.GetBestName] has avoided me for some time now, probably because we do not have anything in common.;;;;;;;;;;;;;x
-EVTDESC30096;We fit together, [From.GetBestName] and I. No matter what we do together, we always have a good time and we can talk for hours without getting bored with each other.;;;;;;;;;;;;;x
-EVTDESC30100;The attraction between me and my husband [Root.Spouse.GetFirstName] has slowly started to fade. I realized this had been happening for some time when we week after week used the bedchamber to sleep in instead of having all the fun we used to have there.;;;;;;;;;;;;;x
-EVTDESC30101;The passion between [Root.Spouse.GetFirstName] and myself was still there, only slumbering beneath our skins, and easily reawakened by a lover's touch. It was hot, fierce, wonderful lovemaking such as we used to have.;;;;;;;;;;;;;x
-EVTDESC30102;Sweetly, gently we molded our bodies together and re-created the familiar feel of us embracing, touching, loving...;;;;;;;;;;;;;x
-EVTDESC30103;The wild ride which showed [Root.Spouse.GetFirstName] who was the boss in the bedchamber killed him. He died with a smile on his lips, so maybe this was the perfect way of leaving this world.;;;;;;;;;;;;;x
-EVTDESC30104;I wanted to show [Root.Spouse.GetFirstName] the passion between us had never died out, but even the sweetest, gentlest lovemaking was too passionate for his heart.;;;;;;;;;;;;;x
-EVTDESC30105;I suspect that my husband [Root.Spouse.GetFirstName] is unable to sire children. If my husband is infertile, then maybe I need to find someone who is!;;;;;;;;;;;;;x
-
-EVTOPTA30000;Separate bedchambers? Sure!;;;;;;;;;;;;;x
-EVTOPTA30001;I don't ever want to see you again!;;;;;;;;;;;;;x
-EVTOPTA30002;O holy father, help me!;;;;;;;;;;;;;x
-EVTOPTA30003;Fine!;;;;;;;;;;;;;x
-EVTOPTA30004;By poison!;;;;;;;;;;;;;x
-EVTOPTA30005;Imprison her!;;;;;;;;;;;;;x
-EVTOPTA30006;No one will believe him!;;;;;;;;;;;;;x
-EVTOPTA30007;Remove her from my sight!;;;;;;;;;;;;;x
-EVTOPTA30009;This is not how it should end!;;;;;;;;;;;;;x
-EVTOPTA30010;I knew I would get away with it;;;;;;;;;;;;;x
-EVTOPTA30011;Then she will spend the rest of her life imprisoned!;;;;;;;;;;;;;x
-EVTOPTA30020;May she rot in the Dungeon!;;;;;;;;;;;;;x
-EVTOPTA30021;To the dungeon with [Root.Spouse.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTA30025;Mayhap I read too much into this, surely [Root.Spouse.GetFirstName] loves me!;;;;;;;;;;;;;x
-EVTOPTA30026;[Root.Spouse.GetFirstName], what have you done?;;;;;;;;;;;;;x
-EVTOPTA30027;I will show you that no one matters as much to me as you do!;;;;;;;;;;;;;x
-EVTOPTA30028;[From.GetFirstName] promised to pay me more attention!;;;;;;;;;;;;;x
-EVTOPTA30029;I don't know if [From.GetHerHim] will ever forgive me...;;;;;;;;;;;;;x
-EVTOPTA30030;I do anything I can to make [outside_spouse.GetHerHis] work easier;;;;;;;;;;;;;x
-EVTOPTA30031;This is not negotiable;;;;;;;;;;;;;x
-EVTOPTA30032;I don't think I dare...;;;;;;;;;;;;;x
-EVTOPTA30033;I'll never be able to stop blaming myself;;;;;;;;;;;;;x
-EVTOPTA30034;I'm so happy I could cry!;;;;;;;;;;;;;x
-EVTOPTA30035;What a failure!;;;;;;;;;;;;;x
-EVTOPTA30036;But... Fine;;;;;;;;;;;;;x
-EVTOPTA30037;I have tired of this. Here, have your [prisoner_spouse.GetManWoman] back;;;;;;;;;;;;;x
-EVTOPTA30040;I'll do my best to ignore [annoying_courtier.GetHerHim] and trust my husbands decision.;;;;;;;;;;;;;x
-EVTOPTA30041;My [Root.Spouse.GetFirstName]'s happiness is more important to me;;;;;;;;;;;;;x
-EVTOPTA30042;What on earth was she thinking?!;;;;;;;;;;;;;x
-EVTOPTA30045;... jokingly push [annoying_courtier.GetHerHim] into the river.;;;;;;;;;;;;;x
-EVTOPTA30046;I'll send gifts to his family;;;;;;;;;;;;;x
-EVTOPTA30047;I'm s-s-sorry... Hahahaha!;;;;;;;;;;;;;x
-EVTOPTA30050;This bracelet would really bring out the... color in her eyes;;;;;;;;;;;;;x
-EVTOPTA30051;The skewbald one looks a bit old, but sweet!;;;;;;;;;;;;;x
-EVTOPTA30052;Will a buzzard do?;;;;;;;;;;;;;x
-EVTOPTA30055;... I hope she can save me now!;;;;;;;;;;;;;x
-EVTOPTA30056;I trust my wife more than my gut;;;;;;;;;;;;;x
-EVTOPTA30057;I give up! Honey, please help me!;;;;;;;;;;;;;x
-EVTOPTA30058;My wife [Root.Spouse.GetFirstName] is right, I should pursue the title!;;;;;;;;;;;;;x
-EVTOPTA30059;[Root.Spouse.GetFirstName] suggests I should offer to rebuild the [Root.Religion.GetHouseOfWorship];;;;;;;;;;;;;x
-EVTOPTA30061;I will let her have her way just this once;;;;;;;;;;;;;x
-EVTOPTA30064;Enough! Fine, your 'special' friend will be Marshal!;;;;;;;;;;;;;x
-EVTOPTA30065;[Root.Spouse.GetFirstName] accepted my friend as Marshal!;;;;;;;;;;;;;x
-EVTOPTA30067;[Root.Spouse.GetFirstName]'s happiness is important to me;;;;;;;;;;;;;x
-EVTOPTA30070;Stop pestering me and I'll make your friend Spymaster;;;;;;;;;;;;;x
-EVTOPTA30073;I will make [Root.Spouse.GetFirstName]'s friend [Root.GetLordSpiritualName];;;;;;;;;;;;;x
-EVTOPTA30075;The consolation came with a price - I'm pregnant!;;;;;;;;;;;;;x
-EVTOPTA30076;My husband [Root.Spouse.GetFirstName] will never know the truth!;;;;;;;;;;;;;x
-EVTOPTA30077;Maybe it's nothing...;;;;;;;;;;;;;x
-EVTOPTA30078;This child is ours, no matter who fathered it;;;;;;;;;;;;;x
-EVTOPTA30080;Imprison the adulterer!;;;;;;;;;;;;;x
-EVTOPTA30081;Imprison the adulterer and the adulteress!;;;;;;;;;;;;;x
-EVTOPTA30085;Fine, I'll humor you;;;;;;;;;;;;;x
-EVTOPTA30086;Please be my friend!;;;;;;;;;;;;;x
-EVTOPTA30088;A trip to the lake is always nice;;;;;;;;;;;;;x
-EVTOPTA30089;But the skies opened up and drenched us!;;;;;;;;;;;;;x
-EVTOPTA30090;Ants ate our picnic!;;;;;;;;;;;;;x
-EVTOPTA30091;There were plenty of game in the forest, and now a lot less;;;;;;;;;;;;;x
-EVTOPTA30092;Dinner was pleasant and with great company!;;;;;;;;;;;;;x
-EVTOPTA30095;I think I'll find someone else to befriend;;;;;;;;;;;;;x
-EVTOPTA30096;I think I have found a new friend;;;;;;;;;;;;;x
-EVTOPTA30100;I want to take [Root.Spouse.GetFirstName] on a 'wild ride';;;;;;;;;;;;;x
-EVTOPTA30101;It was... exhilarating!;;;;;;;;;;;;;x
-EVTOPTA30102;Love, how I have missed thee!;;;;;;;;;;;;;x
-EVTOPTA30103;I hope [Root.Spouse.GetFirstName] is in Heaven now...;;;;;;;;;;;;;x
-EVTOPTA30104;May he be happy in Heaven;;;;;;;;;;;;;x
-EVTOPTA30105;I do have someone in mind...;;;;;;;;;;;;;x
-
-EVTOPTB30000;Let us rekindle our love!;;;;;;;;;;;;;x
-EVTOPTB30001;No, wait! I changed my mind...;;;;;;;;;;;;;x
-EVTOPTB30003;Never!;;;;;;;;;;;;;x
-EVTOPTB30004;This is below me!;;;;;;;;;;;;;x
-EVTOPTB30005;Off with her head!;;;;;;;;;;;;;x
-EVTOPTB30006;Whatever it is he wants, he'll get it!;;;;;;;;;;;;;x
-EVTOPTB30007;A life for a life...;;;;;;;;;;;;;x
-EVTOPTB30011;I will not show her any mercy!;;;;;;;;;;;;;x
-EVTOPTB30020;May she rot in Hell!;;;;;;;;;;;;;x
-EVTOPTB30021;I have no mercy for poisoners!;;;;;;;;;;;;;x
-EVTOPTB30025;I need to talk to someone, see if someone else has noticed this!;;;;;;;;;;;;;x
-EVTOPTB30027;Who I decide to shower with attention is none of your business!;;;;;;;;;;;;;x
-EVTOPTB30028;[From.GetFirstName] refused to even consider paying me more attention!;;;;;;;;;;;;;x
-EVTOPTB30030;I try to get in contact with [outside_spouse.GetHerHim], ordering [outside_spouse.GetHerHim] to speed things up;;;;;;;;;;;;;x
-EVTOPTB30031;Fine! But I want the gold to be delivered immediately!;;;;;;;;;;;;;x
-EVTOPTB30032;I will send a firm but respectful letter to [prisoner_spouse.GetHerHis] captor;;;;;;;;;;;;;x
-EVTOPTB30033;Stupid [prisoner_spouse.GetManWoman]! Here I am trying to save [prisoner_spouse.GetHerHim], how dare [prisoner_spouse.GetSheHe] die on me?;;;;;;;;;;;;;x
-EVTOPTB30036;Just empty threats!;;;;;;;;;;;;;x
-EVTOPTB30037;Guards! Make sure the prisoner won't escape;;;;;;;;;;;;;x
-EVTOPTB30040;If possible I'll have [annoying_courtier.GetHerHim] fired.;;;;;;;;;;;;;x
-EVTOPTB30041;She should stay out of this!;;;;;;;;;;;;;x
-EVTOPTB30042;She did the right thing!;;;;;;;;;;;;;x
-EVTOPTB30045;... order [annoying_courtier.GetHerHim] to be quiet.;;;;;;;;;;;;;x
-EVTOPTB30046;I shall tell the public what happened;;;;;;;;;;;;;x
-EVTOPTB30050;A cameo of myself perhaps?;;;;;;;;;;;;;x
-EVTOPTB30051;The white mare is a bit frisky, but she'll be fine.;;;;;;;;;;;;;x
-EVTOPTB30052;A falcon would serve you well!;;;;;;;;;;;;;x
-EVTOPTB30055;I can work this out myself, thank you very much!;;;;;;;;;;;;;x
-EVTOPTB30056;This is no business for a woman!;;;;;;;;;;;;;x
-EVTOPTB30057;I can tame those numbers!;;;;;;;;;;;;;x
-EVTOPTB30058;I would invoke people's wrath if I follow my wife's advice!;;;;;;;;;;;;;x
-EVTOPTB30059;[Root.job_spiritual.GetFullName] suggests I try to scare them into submission;;;;;;;;;;;;;x
-EVTOPTB30061;Her 'friend' is not good enough to become [Root.GetMyChancellorName];;;;;;;;;;;;;x
-EVTOPTB30064;No matter what you say I will not make your friend Marshal!;;;;;;;;;;;;;x
-EVTOPTB30067;I will keep [Root.job_treasurer.GetFullName] as my Steward!;;;;;;;;;;;;;x
-EVTOPTB30070;Nothing you say or do will make me change my mind!;;;;;;;;;;;;;x
-EVTOPTB30073;[Root.job_spiritual.GetFullName] will keep his job;;;;;;;;;;;;;x
-EVTOPTB30076;I should tell my husband [Root.Spouse.GetFirstName] the truth;;;;;;;;;;;;;x
-EVTOPTB30078;The child is ours, but the courtier must be punished;;;;;;;;;;;;;x
-EVTOPTB30080;Execute the adulterer!;;;;;;;;;;;;;x
-EVTOPTB30081;Execute the adulterer and the adulteress!;;;;;;;;;;;;;x
-EVTOPTB30085;Honey, I have obligations I must take care of;;;;;;;;;;;;;x
-EVTOPTB30088;Let's have a picnic!;;;;;;;;;;;;;x
-EVTOPTB30089;The clouds departed and the sun shone down on us;;;;;;;;;;;;;x
-EVTOPTB30090;The food was nice but the company better!;;;;;;;;;;;;;x
-EVTOPTB30091;We became the game, a family of bears hunted us!;;;;;;;;;;;;;x
-EVTOPTB30092;Dinner was quiet, we had nothing to say to each other;;;;;;;;;;;;;x
-EVTOPTB30100;I will be gentle to him;;;;;;;;;;;;;x
-EVTOPTB30101;It was a wild ride!;;;;;;;;;;;;;x
-EVTOPTB30102;Gently, we woke the passion between us once again;;;;;;;;;;;;;x
-EVTOPTB30105;I will not have an affair!;;;;;;;;;;;;;x
-
-EVTOPTC30000;Whatever you say, honey;;;;;;;;;;;;;x
-EVTOPTC30005;I will forgive her this little mishap;;;;;;;;;;;;;x
-EVTOPTC30006;I still have some poison left...;;;;;;;;;;;;;x
-EVTOPTC30007;Surely she didn't understand what she did?;;;;;;;;;;;;;x
-EVTOPTC30011;She clearly did not know what she was doing...;;;;;;;;;;;;;x
-EVTOPTC30020;May she one day realize what she has done;;;;;;;;;;;;;x
-EVTOPTC30021;[Root.Spouse.GetSheHeCap] would never do such a thing!;;;;;;;;;;;;;x
-EVTOPTC30025;I should confront my [Root.Spouse.GetFirstName];;;;;;;;;;;;;x
-EVTOPTC30030;Who cares? It's not like [outside_spouse.GetSheHe]'ll succeed;;;;;;;;;;;;;x
-EVTOPTC30031;Your insolence bores me. Into the dungeon with you!;;;;;;;;;;;;;x
-EVTOPTC30033;I blame [prisoner_spouse.GetHerHis] family for this! They did nothing!;;;;;;;;;;;;;x
-EVTOPTC30037;I did warn [outside_spouse.GetHerHim], didn't I?;;;;;;;;;;;;;x
-EVTOPTC30040;I have the [annoying_courtier.GetManWoman] punished for [annoying_courtier.GetHerHis] insolence.;;;;;;;;;;;;;x
-EVTOPTC30045;... ignore [annoying_courtier.GetHerHis] annoying comments.;;;;;;;;;;;;;x
-EVTOPTC30046;I never meant for this to happen!;;;;;;;;;;;;;x
-EVTOPTC30050;Ruby earrings are exactly what she wants!;;;;;;;;;;;;;x
-EVTOPTC30051;The black one is magnificent, the only suitable match for my [Root.Spouse.GetHusbandWife]...!;;;;;;;;;;;;;x
-EVTOPTC30052;Too dangerous, my love. I don't want you to overexert yourself.;;;;;;;;;;;;;x
-EVTOPTC30076;If my husband suspects anything, I will blame the courtier!;;;;;;;;;;;;;x
-EVTOPTC30078;How could you do this to me?;;;;;;;;;;;;;x
-EVTOPTC30080;Banish the adulterer!;;;;;;;;;;;;;x
-EVTOPTC30081;Banish the adulterer and the adulteress!;;;;;;;;;;;;;x
-EVTOPTC30088;Hunting is always fun!;;;;;;;;;;;;;x
-EVTOPTC30089;I did not like the company;;;;;;;;;;;;;x
-EVTOPTC30100;We will make sweet, sweet love...;;;;;;;;;;;;;x
-EVTOPTC30101;[Root.Spouse.GetFirstName] woke my lust for her!;;;;;;;;;;;;;x
-EVTOPTC30102;Sweet love unfroze this old heart;;;;;;;;;;;;;x
-
-EVTOPTD30031;No more letters!;;;;;;;;;;;;;x
-EVTOPTD30046;Anyone speaking of the event will be punished;;;;;;;;;;;;;x
-EVTOPTD30050;I think I'll just keep the gold...;;;;;;;;;;;;;x
-EVTOPTD30051;I'm sorry, honey, but all these will be breeders.;;;;;;;;;;;;;x
-EVTOPTD30080;The taste of vengeance is foul, I will do nothing;;;;;;;;;;;;;x
-EVTOPTD30081;I have changed my mind, I will only punish the courtier;;;;;;;;;;;;;x
-EVTOPTD30088;A quiet dinner together would be perfect!;;;;;;;;;;;;;x
-EVTOPTD30100;Make sure [Root.Spouse.GetFirstName] knows who is the boss in the bedchamber;;;;;;;;;;;;;x
-EVTOPTD30101;[Root.Spouse.GetFirstName] showed who is the boss in the bedchamber!;;;;;;;;;;;;;x
-EVTOPTD30102;This is a night I will remember, forever;;;;;;;;;;;;;x
-
-EVTOPTE30051;You already have me!;;;;;;;;;;;;;x
-EVTOPTE30088;I will never be bored again with [target_courtier.GetFirstName] by my side!;;;;;;;;;;;;;x
-
-EVTTOOLTIP30002;The spouse fights the annulment;;;;;;;;;;;;;x
-EVTTOOLTIP30003;My [Root.Religion.GetName] father hear my prayer!;;;;;;;;;;;;;x
-EVTTOOLTIP30005;Your husband finds out about the poisoning;;;;;;;;;;;;;x
-EVTTOOLTIP30006;A courtier finds out about the poisoning;;;;;;;;;;;;;x
-EVTTOOLTIP30007;Your husband accuses you of the death of his heir;;;;;;;;;;;;;x
-EVTTOOLTIP30008;[This.GetTitledFirstName] accuses you of the death of heir's death;;;;;;;;;;;;;x
-EVTTOOLTIP30009;[Root.Spouse.GetTitledFirstName] will be imprisoned!;;;;;;;;;;;;;x
-EVTTOOLTIP30010;[Root.Spouse.GetTitledFirstName] will be pardoned!;;;;;;;;;;;;;x
-EVTTOOLTIP30011;[Root.Spouse.GetTitledFirstName] knows about the poisoning;;;;;;;;;;;;;x
-EVTTOOLTIP30026;[Root.GetTitledFirstName] finds someone to talk to;;;;;;;;;;;;;x
-EVTTOOLTIP30027;[Root.GetTitledFirstName] talks to [Root.Spouse.GetFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP30029;[Root.GetTitledFirstName] talks about the gossip with [Root.Spouse.GetFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP30031;Try to talk to [prisoner_host.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP30032;Send a letter to [outside_spouse.GetFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP30033;[prisoner_spouse.GetTitledName] is executed;;;;;;;;;;;;;x
-EVTTOOLTIP30034;[This.GetTitledFirstName] is released;;;;;;;;;;;;;x
-EVTTOOLTIP30035;[This.GetTitledFirstName] is thrown into the dungeon;;;;;;;;;;;;;x
-EVTTOOLTIP30036;[outside_spouse.GetTitledFirstName] will be warned about the consequences of freeing [prisoner_spouse.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP30040;I ask my [Root.Spouse.GetFirstName] to fire the annoying [annoying_courtier.GetManWoman].;;;;;;;;;;;;;x
-EVTTOOLTIP30042;[Root.Spouse.GetTitledFirstName] becomes aware of [Root.GetTitledFirstName]'s distaste for the courtier;;;;;;;;;;;;;x
-EVTTOOLTIP30046;[This.GetTitledFirstName] drowns;;;;;;;;;;;;;x
-EVTTOOLTIP30047;[This.GetTitledFirstName] survives;;;;;;;;;;;;;x
-EVTTOOLTIP30077;I will deny everything!;;;;;;;;;;;;;x
-EVTTOOLTIP30078;I will tell him... soon;;;;;;;;;;;;;x
-EVTTOOLTIP30079;Suspicion will always arise;;;;;;;;;;;;;x
-EVTTOOLTIP30080;[Root.GetFirstName] decides what to do with the courtier;;;;;;;;;;;;;x
-EVTTOOLTIP30081;[Root.GetFirstName] decides what to do with the courtier and [Root.Spouse.GetFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP30086;[Root.Spouse.GetFirstName] befriends a courtier;;;;;;;;;;;;;x
-EVTTOOLTIP30089;[target_courtier.GetBestName] and [Root.GetBestName] go to the lake;;;;;;;;;;;;;x
-EVTTOOLTIP30090;[target_courtier.GetBestName] and [Root.GetBestName] have a picnic;;;;;;;;;;;;;x
-EVTTOOLTIP30091;[target_courtier.GetBestName] and [Root.GetBestName] go hunting;;;;;;;;;;;;;x
-EVTTOOLTIP30092;[Root.GetBestName] invites [From.GetBestName] to dinner;;;;;;;;;;;;;x
-EVTTOOLTIP30103;The [Root.GetTitle]'s heart could not take the excitement;;;;;;;;;;;;;x
-EVTTOOLTIP30104;The passion overwhelmed [Root.GetFirstName]'s heart;;;;;;;;;;;;;x
-
-EVTTOOLTIPA30028;[This.GetFirstName] is showered with attention from [Root.GetFirstName];;;;;;;;;;;;;x
-EVTTOOLTIPA30037;[This.GetTitledFirstName] get a letter from [Root.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIPA30062;[Root.Spouse.GetFirstName] is thrilled!;;;;;;;;;;;;;x
-EVTTOOLTIPA30065;[Root.Spouse.GetFirstName] is more than happy with your decision;;;;;;;;;;;;;x
-EVTTOOLTIPA30067;[Root.Spouse.GetFirstName] is pleased with your decision;;;;;;;;;;;;;x
-EVTTOOLTIPA30071;Your decision has pleased [Root.Spouse.GetFirstName];;;;;;;;;;;;;x
-EVTTOOLTIPA30074;[Root.Spouse.GetFirstName] is overjoyed!;;;;;;;;;;;;;x
-EVTTOOLTIPA30093;A failed trip to the lake;;;;;;;;;;;;;x
-EVTTOOLTIPA30094;A perfect trip to the lake;;;;;;;;;;;;;x
-EVTTOOLTIPA30101;The wild ride takes [This.GetFirstName] with surprise;;;;;;;;;;;;;x
-EVTTOOLTIPA30102;Gentle lovemaking will make [Root.Spouse.GetFirstName] relive your honeymoon;;;;;;;;;;;;;x
-
-EVTTOOLTIPB30028;[This.GetFirstName] is ignored;;;;;;;;;;;;;x
-EVTTOOLTIPB30037;Ask [This.GetTitledFirstName] to release [Root.Spouse.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIPB30062;[Root.Spouse.GetFirstName] does not like your decision;;;;;;;;;;;;;x
-EVTTOOLTIPB30065;[Root.Spouse.GetFirstName] is not happy, not happy at all;;;;;;;;;;;;;x
-EVTTOOLTIPB30067;Your decision upsets [Root.Spouse.GetFirstName];;;;;;;;;;;;;x
-EVTTOOLTIPB30071;Your decision to keep your spymaster displeases [Root.Spouse.GetFirstName];;;;;;;;;;;;;x
-EVTTOOLTIPB30074;[Root.Spouse.GetFirstName] accepts your decision but does not approve of it;;;;;;;;;;;;;x
-EVTTOOLTIPB30093;Unwanted guests spoiled the picnic;;;;;;;;;;;;;x
-EVTTOOLTIPB30094;Fabulous picnic in the wild;;;;;;;;;;;;;x
-EVTTOOLTIPB30101;[Root.Spouse.GetFirstName] is sure to beg for mercy when [Root.GetFirstName] is done with him;;;;;;;;;;;;;x
-EVTTOOLTIPB30102;[Root.Spouse.GetFirstName] and [Root.GetFirstName] makes sweet love;;;;;;;;;;;;;x
-
-EVTTOOLTIPC30093;The hunter became the hunted, and did not enjoy it;;;;;;;;;;;;;x
-EVTTOOLTIPC30094;Hunting was a pleasure;;;;;;;;;;;;;x
-
-EVTTOOLTIPD30093;The food, the drink, the company... all was perfect tonight;;;;;;;;;;;;;x
-EVTTOOLTIPD30094;The conversation at dinner lacked substance;;;;;;;;;;;;;x
-
+EVTDESC30000;After months of fights, arguments and tears, my spouse suggested separate bedchambers.;;;;;;;;;;;Ïîñëå ìåñÿöåâ ññîð, ñïîðîâ è ñë¸ç, ìû ñ [Root.Spouse.GetHusbandWifeINS] ðåøèëè ñïàòü â ðàçäåëüíûõ [Root.GetChamberPREP].;;x
+EVTDESC30001;My new wife disgusts me! I cannot stand it anymore, I should annul our marriage!;;;;;;;;;;;Ì[Root.Spouse.GetOyaOy] íîâ[Root.Spouse.GetAyaYy] [Root.Spouse.GetHusbandWife] ìíå ïðîòèâ[Root.Spouse.GetNaEn]! ß íå ìîãó áîëüøå [Root.Spouse.GetHersHis] òåðïåòü, ÿ äîëæ[Root.GetNaEn] àííóëèðîâàòü íàø áðàê!;;x
+EVTDESC30002;My spouse ended our marriage on grounds of non-consummation! I will not put up with this, I am [Root.GetTitledFirstName]!;;;;;;;;;;;Ñóïðóã[Root.GetEndAOpp] ðàñòîðã[Root.GetNoneEOpp] íàø áðàê íà îñíîâàíèè îòñóòñòâèÿ ïîëîâûõ îòíîøåíèé! ß íå áóäó ìèðèòüñÿ ñ ýòèì, ÿ - [Root.GetTitle]!;;x
+EVTDESC30003;I asked my [Root.Religion.GetName] father to annul my marriage but he had already been snared by the lies of my former wife! He told me to take her back or else he would place my lands under an interdict.;;;;;;;;;;;ß ïîïðîñèë, ÷òîáû Ïàïà Ðèìñêèé àííóëèðîâàë íàø áðàê, íî îí óæå ïîïàë â ñåòè ëæè ìîåé áûâøåé æåíû! Îí ñêàçàë ìíå âçÿòü å¸ îáðàòíî, ëèáî îí îòëó÷èò ìåíÿ îò öåðêâè?;;x
+EVTDESC30004;It irks me that my own son will not inherit the title! My husband's heir must be removed, but how?;;;;;;;;;;;Ìåíÿ ðàçäðàæàåò, ÷òî ìîé ñîáñòâåííûé ñûí íå óíàñëåäóåò òèòóë! Íàñëåäíèêà ìîåãî ìóæà íàäî óáðàòü ñ äîðîãè, íî êàê?;;x
+EVTDESC30005;My son and heir [Root.Heir.GetTitledFirstName]'s sudden illness could be the signs of poisoning! I know my wife [Root.Spouse.GetFirstName] well enough to suspect her, her ambition has always been that her son would inherit my title!;;;;;;;;;;;Ìîé ñûí è íàñëåäíèê, [Root.Heir.GetTitledFirstName], âíåçàïíî çàáîëåë, è ó íåãî âñå ïðèçíàêè îòðàâëåíèÿ! ß çíàþ ñâîþ [Root.Spouse.GetHusbandWifeACC] [Root.Spouse.GetFirstName] äîñòàòî÷íî õîðîøî, ÷òîá [Root.Spouse.GetHersHis] ïîäîçðåâàòü. [Root.Spouse.GetSheHeCap] âñåãäà õîòåë[Root.Spouse.GetEndA], ÷òîáû òèòóë óíàñëåäîâàë [Root.Spouse.GetHersHis] ñûí!;;x
+EVTDESC30006;A courtier snuck up behind me and grabbed my arm. He hissed that he had seen me pour something into the heir's glass of milk only hours before he fell ill and wants some sort of bribe to keep quiet about the poisoning!;;;;;;;;;;;Ïðèäâîðíûé ïîäêðàëñÿ êî ìíå ñçàäè è ñõâàòèë ìåíÿ çà ðóêó. Îí ïðîøèïåë, ÷òî âèäåë, êàê ÿ ÷òî-òî ïîäëèâàþ íàñëåäíèêó â ñòàêàí ìîëîêà âñåãî çà íåñêîëüêî ÷àñîâ äî åãî áîëåçíè, è õî÷åò âçÿòêó çà ìîë÷àíèå îá îòðàâëåíèè!;;x
+EVTDESC30007;My son died today, poisoned by his own stepmother! I cannot ignore the fact that my beloved [Root.Spouse.GetFirstName] was cold-blooded enough to murder my son in favor of her own son.;;;;;;;;;;;Ìîé ñûí óìåð ñåãîäíÿ, îòðàâëåííûé ñâîåé ìà÷åõîé! ß íå ìîãó èãíîðèðîâàòü òîò ôàêò, ÷òî ì[Root.Spouse.GetOyaOy] ëþáèì[Root.Spouse.GetAyaYy] [Root.Spouse.GetHusbandWife] íàñòîëüêî õëàäíîêðîâí[Root.Spouse.GetEndA], ÷òîáû óáèòü ìîåãî ñûíà èç-çà òèòóëà.;;x
+EVTDESC30008;My husband's son is dead! The only cloud on my otherwise blue sky is the courtier who claims he saw me poisoning the heir repeatedly until he died.;;;;;;;;;;;Ñûí ìîå[Root.Spouse.GetYGo] [Root.Spouse.GetHusbandWifeGEN] ì¸ðòâ! È åäèíñòâåííîå ïÿòíûøêî íà ìîåé áåçóïðå÷íîé ðåïóòàöèè ýòî ïðèäâîðíûé, óòâåðæäàþùèé, ÷òî âèäåë êàê ÿ îòðàâèë[Root.GetEndA] íàñëåäíèêà.;;x
+EVTDESC30009;[Root.Spouse.GetTitledFirstName] threw me into the dungeon, accusing me of poisoning [Root.GetHerHis] son!;;;;;;;;;;;[Root.Spouse.GetTitledFirstName] áðîñèë[Root.Spouse.GetEndA] ìåíÿ â òåìíèöó, îáâèíÿÿ â ñìåðòè [Root.Spouse.GetHersHis] ñûíà!;;x
+EVTDESC30010;My dear [Root.Spouse.GetHusbandWife] [Root.Spouse.GetTitledFirstName] blames my confused head for the poisoning, [Root.Spouse.GetSheHe] seem to think I believed the poison was a miracle cure for his son's illness. I will let [Root.Spouse.GetHerHim] believe that.;;;;;;;;;;;Ì[Root.Spouse.GetOyaOy] äîðîã[Root.Spouse.GetAyaOy] [Root.Spouse.GetHusbandWife] [Root.Spouse.GetTitledFirstName] îáâèíÿåò ìåíÿ â áåñïå÷íîñòè, êîòîðàÿ ñòàëà ïðè÷èíîé îòðàâëåíèè [Root.Spouse.GetHersHis] ñûíà ëåêàðñòâîì, êîòîðîå äîëæíî áûëî âûëå÷èòü åãî áîëåçíü. ×òî æ, ïóñòü òàê è äóìàåò äàëüøå...;;x
+EVTDESC30011;After both my son and my courtier had fallen ill with the same symptoms and no one else had been affected, one of the serving girls told me in confidence that she had seen my [Root.Spouse.GetFirstName] pour a drop of something suspiciously poisonous into the flagon of mulled wine my son and courtier had shared. Did my spouse deliberately poison my son, and, perhaps accidentally, my courtier?;;;;;;;;;;;Ïîñëå òîãî êàê ìîé ñûí è ïðèäâîðíûé çàáîëåëè íåèçâåñòíîé áîëåçíüþ ñ îäèíàêîâûìè ñèìïòîìàìè, à íèêòî áîëüøå íå ïîñòðàäàë, îäíà ñëóæàíêà ñîîáùèëà ìíå ïî ñåêðåòó, ÷òî âèäåëà êàê [Root.Spouse.GetFirstName] ïîäëèë[Root.Spouse.GetEndA] ÷òî-òî ïîäîçðèòåëüíîå â êóâøèí ñ ãëèíòâåéíîì, îòêóäà ïèëè ìîé ñûí è ýòîò ïðèäâîðíûé. Íåóæåëè ì[Root.Spouse.GetOyaOy] ñóïðóã[Root.Spouse.GetEndA] ñîçíàòåëüíî îòðàâèë[Root.Spouse.GetEndA] èõ?;;x
+EVTDESC30020;Only one thing can explain my son [Root.Heir.GetFirstName]'s sickness: poison! I talked to several of my courtiers and servants who confirmed my suspicion: they all recalled my wife [Root.Spouse.GetFirstName] giving [Root.Heir.GetFirstName] something to eat or drink just before [Root.Heir.GetSheHe] fell ill.;;;;;;;;;;;Òîëüêî îäíî ìîæåò îáúÿñíèòü áîëåçíü ìîå[Root.Heir.GetYGo] [Root.Heir.GetDaughterSonGEN] - ýòî ÿä! ß ðàçãîâàðèâàë[Root.GetEndA] ñî ñëóãàìè è ïðèäâîðíûìè, è îíè ïîäòâåðäèëè ìîè ïîäîçðåíèÿ. Îíè âèäåëè êàê ì[Root.Spouse.GetOyaOy] [Root.Spouse.GetHusbandWife] [Root.Spouse.GetFirstName] óãîñòèë[Root.Spouse.GetEndA] [Root.Heir.GetHersHis] ÷åì-òî ñúåñòíûì, ïåðåä òåì êàê [Root.Heir.GetSheHe] çàáîëåë[Root.Heir.GetEndA]!;;x
+EVTDESC30021;My [Root.Spouse.GetFirstName] has poisoned me!;;;;;;;;;;;[Root.Spouse.GetFirstName] îòðàâèë[Root.Spouse.GetEndA] ìåíÿ.;;x
+EVTDESC30025;I feel that [Root.Spouse.GetFirstName] is too affectionate towards a [Root.Spouse.GetManWoman] in the court and is starting to neglect me in favor of that [Root.Spouse.GetManWoman]! The love [Root.Spouse.GetSheHe] showers [Root.Spouse.GetHerHis] favorite with is beyond measure, I do hope they don't have a illicit and sinful union!;;;;;;;;;;;ß ÷óâñòâóþ ÷òî [Root.Spouse.GetFirstName] ñëèøêîì ìíîãî âðåìåíè óäåëÿåò [Root.Spouse.GetManWoman]àì è äàæå áîëåå òîãî - ïðåäïî÷èòàåò îáùåñòâî [Root.Spouse.GetManWoman] ìîåìó! Èõ îòíîøåíèÿ ñëèøêîì áëèçêè, è ÿ îïàñàþñü, ÷òî ó íèõ âîçíèêëà íåçàêîííàÿ è ãðåõîâíàÿ ñâÿçü!;;x
+EVTDESC30026;The whispers in court about me having favorites and 'showering them in a love that is beyond measure' and that I am having a 'illicit and sinful union' with a [Root.GetManWoman] at the court has grown in strength, with my [Root.Spouse.GetFirstName] as one of the gossipers! I need to stop these rumors before they reach the ears of my religious leader.;;;;;;;;;;;Ïðè äâîðå õîäÿò ñëóõè î ìîåé áëèçîñòè ñ ôàâîðèòàìè. È ñ êàæäûì äí¸ì âñ¸ ïðàâäèâåå ñòàíîâèòñÿ ñëóõ î ìîåé ãðåõîâíîé ñâÿçè ñ [Root.GetManWoman]àìè, à [Root.Spouse.GetFirstName] ñïëåòíè÷àåò ÷àùå ïðî÷èõ! Íóæíî îñòàíîâèòü ýòè ñëóõè, ïîêà îíè íå äîøëè äî óøåé äóõîâåíñòâà!;;x
+EVTDESC30027;It had not escaped [From.GetFirstName] that I have favorites among the people of the court, but the things [From.GetSheHe] accused me of took my breath away. I, having an 'illicit and sinful union' with a [Root.GetManWoman]? [From.GetFirstName] demands that I shower [From.GetHerHim] with the same love and attention I allegedly show my favorites.;;;;;;;;;;;"Ñëóõè î òîì, ÷òî ó ìåíÿ åñòü ñâÿçü íà ñòîðîíå, íå ìèíîâàëè è [From.GetFirstName], íî òî, â ÷¸ì [From.GetSheHe] îáâèíÿåò ìåíÿ, ïðîñòî íåìûñëèìî. Ó ìåíÿ ""íåçàêîííàÿ è ãðåõîâíàÿ ñâÿçü"" ñ [Root.GetManWoman]îé? [From.GetFirstName] òðåáóåò, ÷òîáû ÿ îêðóæèë[Root.GetEndA] [From.GetHersHis] òàêîé æå ëþáîâüþ è âíèìàíèåì, êîòîðûå ÿ ÿêîáû âûêàçûâàþ [Root.GetManWoman]àì.";;x
+EVTDESC30028;When I had finished talking, [From.GetFirstName] looked at me for a long time. I grew more nervous with each passing minute, wishing I hadn't used the words 'illicit and sinful union' about [From.GetHerHis] relation with that [From.GetManWoman].;;;;;;;;;;;"Êîãäà ÿ çàêîí÷èë[Root.GetEndA] ñâîþ ðå÷ü, [From.GetFirstName] äîëãîå âðåìÿ ìîë÷à ñìîòðåë[From.GetEndA] íà ìåíÿ. È ñ êàæäîé ìèíóòîé ÿ íåðâíè÷àë[Root.GetEndA] âñå ñèëüíåå, ñîæàëåÿ, ÷òî íå èñïîëüçîâàë[Root.GetEndA] ñëîâà ""íåçàêîííàÿ è ãðåõîâíàÿ ñâÿçü"", ãîâîðÿ ïðî èõ îòíîøåíèÿ.";;x
+EVTDESC30029;The humiliation still burns through my body! I never meant for the gossip to reach [From.GetFirstName]'s ears, I only needed to talk to someone about my loneliness and my fear of [From.GetFirstName] having a love affair with a [From.GetManWoman], but the harsh words and the loathing in [From.GetHerHis] eyes made me wish I never uttered a word about my suspicions.;;;;;;;;;;;Ìîè ùåêè ïûëàþò îò óíèæåíèÿ è îáèäû! ß âîâñå íå æåëàþ íàø¸ïòûâàòü ñïëåòíè íà óøè [From.GetFirstName], ÿ òîëüêî õî÷ó ïîãîâîðèòü ñ êåì-òî î ñâî¸ì îäèíî÷åñòâå è ñòðàõå ïåðåä èçìåíîé [From.GetFirstName] ñ [From.GetManWoman]îé! Íî ðåçêèå ñëîâà è ïðåçðåíèå â [From.GetHersHis] ãëàçàõ, çàñòàâèëè ìåíÿ ãîðüêî æàëåòü î ñâîèõ ñëîâàõ.;;x
+EVTDESC30030;The thoughts of how I'll never be reunited with my family keeps tormenting me, how someone of my stature could possibly be locked up in a horrid place such as this is beyond me. In the depths of my despair the news reach me, my [outside_spouse.GetFirstName] is trying to have me released!;;;;;;;;;;;Ìåíÿ ãëîæóò ïëîõèå ìûñëè î òîì, ÷òî ÿ íèêîãäà íå óâèæó ñâîþ ñåìüþ. Êàê ïîñìåëè îíè áðîñèòü ñòîëü çíàòíîãî ÷åëîâåêà â ýòî óæàñíîå ìåñòî! Íî è â îò÷àÿíèè áðåçæèò ëó÷èê íàäåæäû. Ìíå òàéêîì ïåðåäàëè çàïèñêó, â êîòîðîé ãîâîðèòñÿ, ÷òî [outside_spouse.GetFirstName] ïûòàåòñÿ âûòàùèòü ìåíÿ îòñþäà!;;x
+EVTDESC30031;My prisoner [prisoner_spouse.GetTitledFirstName]'s spouse  [outside_spouse.GetTitledFirstName] sent me a letter insisting I would meet [outside_spouse.GetHerHim] in [outside_spouse.GetHerHis] keep. [outside_spouse.GetSheHeCap] asked me to show mercy and release [outside_spouse.GetHerHis] spouse for a hefty sum of money [outside_spouse.GetSheHe] obviously does not have.;;;;;;;;;;;[outside_spouse.GetTitledFirstName], [outside_spouse.GetHusbandWife] ìîåãî çàêëþ÷¸ííîãî ïî èìåíè [prisoner_spouse.GetTitledFirstName], øë¸ò ìíå ïèñüìî, â êîòîðîì íàñòàèâàåò íà âñòðå÷å â ñâîåé öèòàäåëè. [outside_spouse.GetSheHeCap] ïðîñèò ìåíÿ ïðîÿâèòü ìèëîñåðäèå è îòïóñòèòü ïëåííèêà çà îãðîìíóþ ñóììó äåíåã, êîòîðûìè î÷åâèäíî íå ðàñïîëàãàåò.;;x
+EVTDESC30032;After my encouraging letter to [prisoner_spouse.GetTitledFirstName] [prisoner_spouse.GetSheHe] managed to send me a letter in return begging me to try and release [prisoner_spouse.GetHerHim] as soon as possible.;;;;;;;;;;;Ïîñëå ìîåãî îáíàäåæèâàþùåãî ïèñüìà [prisoner_spouse.GetTitledFirstName] â îòâåòíîì ïèñüìå ïðîñèò ìåíÿ ïîïûòàòüñÿ îñâîáîäèòü [prisoner_spouse.GetHersHis] êàê ìîæíî áûñòðåå.;;x
+EVTDESC30033;I'm in the study doing research when the news reach me. [prisoner_spouse.GetSheHeCap]'s dead. [prisoner_spouse.GetTitledFirstName] died in prison before I was able to have [prisoner_spouse.GetHerHim] released.;;;;;;;;;;;ß çàíèìà[Root.GetLasLsya] äåëàìè â ñâî¸ì êàáèíåòå, êîãäà ìåíÿ íàñòèãëà âåñòü î [prisoner_spouse.GetHersHis] ñìåðòè. [prisoner_spouse.GetTitledFirstName] ñêîí÷à[prisoner_spouse.GetLasLsya] â òåìíèöå, ïðåæäå ÷åì ÿ ñìîã[Root.GetNoneE] äîáèòüñÿ [prisoner_spouse.GetHersHis] îñâîáîæäåíèÿ.;;x
+EVTDESC30034;I was released from the dungeons of [prisoner_host.GetTitledFirstName]!;;;;;;;;;;;Ìåíÿ âûïóñòèëè èç òåìíèöû, êîòîðîé âëàäååò [prisoner_host.GetTitledFirstName]!;;x
+EVTDESC30035;I was yet again thrown into the dungeons...;;;;;;;;;;;Ìåíÿ ñíîâà áðîñèëè â òåìíèöó.;;x
+EVTDESC30036;Dear [outside_spouse.GetTitledFirstName], I strongly suggest you give up on the idea you might be able to rescue [prisoner_spouse.GetTitledFirstName] from [prisoner_spouse.GetHerHis] imprisonment and I will not be easily persuaded to release [prisoner_spouse.GetHerHim]. You may never see [prisoner_spouse.GetHerHim] if you do not stop your ridiculous attempts of freeing [prisoner_spouse.GetTitledFirstName].\n\n[prisoner_host.GetTitledFirstName];;;;;;;;;;;Óâàæàåì[outside_spouse.GetAyaYy] [outside_spouse.GetTitledFirstName], ÿ íàñòîÿòåëüíî ðåêîìåíäóþ Âàì îñòàâèòü âñÿêèå ïîïûòêè îñâîáîäèòü [prisoner_spouse.GetTitledFirstName] èç çàêëþ÷åíèÿ. Ó Âàñ íå ïîëó÷èòñÿ ëåãêî óãîâîðèòü ìåíÿ îòïóñòèòü [prisoner_spouse.GetHersHis]. Âû íèêîãäà íå óâèäèòå [prisoner_spouse.GetHersHis], åñëè íå îñòàâèòå ñâîè ñìåøíûå ïîïûòêè.\n\n[prisoner_host.GetTitledFirstName];;x
+EVTDESC30037;Despite my letter warning [outside_spouse.GetTitledFirstName] to give up [outside_spouse.GetHerHis] attempts to rescue [outside_spouse.GetHerHis] spouse, a letter arrived this morning telling me to release the [prisoner_spouse.GetManWoman] or else...;;;;;;;;;;;Íåñìîòðÿ íà ìîè ïèñüìà ñ ïðåäóïðåæäåíèÿìè, [outside_spouse.GetTitledFirstName] îòêàçàòüñÿ îò [outside_spouse.GetHersHis] ïîïûòîê ñïàñòè ñâîåãî ñóïðóãà, ýòèì óòðîì ïðèøëî ïèñüìî ñ òðåáîâàíèåì îòïóñòèòü [prisoner_spouse.GetManWoman]ó ëèáî...;;x
+EVTDESC30040;My husband [Root.Spouse.GetTitledFirstName] has hired an incredibly annoying [annoying_courtier.GetManWoman] to serve us. [annoying_courtier.GetHerHisCap] rudeness knows no limits, and I have no idea how to handle [annoying_courtier.GetHerHim]. [annoying_courtier.GetSheHeCap] does not know [annoying_courtier.GetHerHis] place.;;;;;;;;;;;Ì[Root.Spouse.GetOyaOy] [Root.Spouse.GetHusbandWife] [Root.Spouse.GetTitledFirstName] íàíÿë[Root.Spouse.GetEndA] íà ñëóæáó [annoying_courtier.GetAgedPersonACC], êîòîð[annoying_courtier.GetAyaYy] ìåíÿ íåâåðîÿòíî ðàçäðàæàåò. [annoying_courtier.GetHersHisCap] ãðóáîñòü íå çíàåò ãðàíèö, è ÿ ïîíÿòèÿ íå èìåþ êàê ñ í[annoying_courtier.GetEyuIm] îáùàòüñÿ. Íóæíî óêàçàòü å[annoying_courtier.GetYMu] [annoying_courtier.GetHersHis] ìåñòî.;;x
+EVTDESC30041;My wife [Root.Spouse.GetTitledFirstName] has asked me to get rid of one of my courtiers whom she finds mighty annoying. On one hand, [Root.Spouse.GetFirstName] might not be happy if I refuse her request, but if I fire 'the annoying [annoying_courtier.GetManWoman]' maybe people will feel my wife has too much influence over my actions.;;;;;;;;;;;Ì[Root.Spouse.GetOyaOy] [Root.Spouse.GetHusbandWife] [Root.Spouse.GetTitledFirstName] ïðîñèò ìåíÿ îòîñëàòü ïðî÷ü îäí[annoying_courtier.GetUOgo] èç ìîèõ ïðèäâîðíûõ, êîòîð[annoying_courtier.GetAyaYy] [Root.Spouse.GetHersHis] ñëèøêîì ðàçäðàæàåò. Êîíå÷íî, [Root.Spouse.GetSheHe] ðàññòðîèòñÿ, åñëè ÿ îòêàæó [Root.Spouse.GetHerHim], íî ñ äðóãîé ñòîðîíû, åñëè ÿ îòîøëþ ïðèäâîðí[annoying_courtier.GetUyuOgo], äâîð áóäåò äóìàòü, ÷òî ì[Root.Spouse.GetOyaOy] [Root.Spouse.GetHusbandWife] ìíîé ìàíèïóëèðóåò.;;x
+EVTDESC30042;Apparently, one of the courtiers has been annoying my wife [Root.Spouse.GetFirstName], and instead of asking me for help she took the matter in her own hands and made sure the courtier would never annoy her again or [annoying_courtier.GetSheHe] would know the consequences.;;;;;;;;;;;Ïî-âèäèìîìó, îä[annoying_courtier.GetNaIn] èç ïðèäâîðíûõ î÷åíü ðàññåðäèë[annoying_courtier.GetEndA] ìî[Root.Spouse.GetYuEgo] [Root.Spouse.GetHusbandWifeACC], íî âìåñòî òîãî, ÷òîáû ïîïðîñèòü ìåíÿ î ïîìîùè, [Root.Spouse.GetSheHe] âçÿë[Root.Spouse.GetEndA] äåëî â ñâîè ðóêè è ñäåëàë[Root.Spouse.GetEndA] òàê, ÷òîáû [annoying_courtier.GetHussyInsolent] ïîæàëåë[annoying_courtier.GetEndA] î ñâîåé äåðçîñòè è áîëüøå íèêîãäà íå ïîñìåë[annoying_courtier.GetEndA] ðàçäðàæàòü [Root.Spouse.GetHersHis].;;x
+EVTDESC30045;While walking alongside the river together with several people from the court, one of the courtiers keeps annoying me, so I decide to...;;;;;;;;;;;Êîãäà ìû ñ íåñêîëüêèìè ïðèäâîðíûìè ãóëÿëè âäîëü ðåêè, îä[chosen_courtier.GetNaIn] èç íèõ ñòàë[chosen_courtier.GetEndA] ñèëüíî ðàçäðàæàòü ìåíÿ.;;x
+EVTDESC30046;The young [annoying_courtier.GetManWoman] I pushed into the river ended up drowning. Although it was an accident rumors of my deed spread quickly.;;;;;;;;;;;Áåäíÿãà â èòîãå óòîíóë[chosen_courtier.GetEndA]. Õîòü ýòî è áûë íåñ÷àñòíûé ñëó÷àé, ñëóõè î ìîåé ïðè÷àñòíîñòè áûñòðî ðàñïðîñòðàíÿþòñÿ.;;x
+EVTDESC30047;Wet, but otherwise unharmed, the courtier blasted me with foul words and angry but empty threats. Seeing [annoying_courtier.GetHerHim] standing before me dripping mud and with algae entwined into [annoying_courtier.GetHerHis] hair, I could not stop the laughter pouring out of me.;;;;;;;;;;;Ïðîìîêø[chosen_courtier.GetAyaIy] íàñêâîçü, íî íåâðåäèì[chosen_courtier.GetAyaYy], ýò[chosen_courtier.GetEtaEtot] [chosen_courtier.GetHussyInsolent] îñûïàåò ìåíÿ óãðîçàìè. Âèäÿ êàïàþùóþ ñ í[chosen_courtier.GetHersHis] ãðÿçü è âîäîðîñëè, çàïóòàâøèåñÿ â âîëîñàõ, ÿ ïðîñòî íå ìîãó ñäåðæàòü ñâîé ñìåõ.;;x
+EVTDESC30050;My wife [my_spouse.GetFirstName] has complained about me being absent so often, and so when I found that I had some extra gold to spend, I decided to buy her something nice. Maybe some sort of jewellery?;;;;;;;;;;;Ì[Root.Spouse.GetOyaOy] [Root.Spouse.GetHusbandWife] [Root.Spouse.GetFirstName] ÷àñòî æàëóåòñÿ, ÷òî ÿ ïðîâîæó ñ í[Root.Spouse.GetEyIm] ìàëî âðåìåíè. Êîãäà ïðåäñòàâèëàñü âîçìîæíîñòü, ÿ ðåøèë[Root.GetEndA] êóïèòü [Root.Spouse.GetHerHim] ÷òî-íèáóäü ïðèÿòíîå. Ìîæåò áûòü êàêèå-íèáóäü äðàãîöåííîñòè?;;x
+EVTDESC30051;When my [my_spouse.GetHusbandWife]'s mare had to be put down, I promised [my_spouse.GetFirstName] that I would find a new suitable ride for [my_spouse.GetHerHim]. Now I am in luck! Not only one, but three different mares have been brought to [Root.Location.GetName]!;;;;;;;;;;;Ì[my_spouse.GetOyaOy] [my_spouse.GetHusbandWife], [my_spouse.GetFirstName], âçÿë[my_spouse.GetEndA] ñ ìåíÿ ñëîâî, ÷òî ÿ íàéäó [my_spouse.GetHerHim] ïîäõîäÿùåãî ñêàêóíà ïîñëå òîãî, êàê [my_spouse.GetHersHis] êîáûëó ïðèøëîñü çàáèòü. Óäà÷à íà ìîåé ñòîðîíå! Íå îäíà, à öåëûõ òðè ðàçíûõ êîáûëèöû áûëè äîñòàâëåíû â îêðóã [Root.Location.GetName]!;;x
+EVTDESC30052;"My [my_spouse.GetHusbandWife] [my_spouse.GetFirstName] explains that [my_spouse.GetSheHe] is captivated by the grace and strength of hunting birds, and begs me for a bird.\n""Surely, even the spouse of the [Root.GetTitle] must be allowed to enjoy the noble pastime of falconry"", [my_spouse.GetSheHe] says.";;;;;;;;;;;Ì[my_spouse.GetOyaOy] [my_spouse.GetHusbandWife] [my_spouse.GetFirstName] áûë[my_spouse.GetEndA] ïîêîðåí[my_spouse.GetEndA] èçÿùåñòâîì è ñèëîé îõîòíè÷üèõ ïòèö è óìîëÿë[my_spouse.GetEndA] ïîäàðèòü [my_spouse.GetHerHim] îäíó.\n— Ðàçâå òû íå ñ÷èòàåøü, ÷òî òâ[my_spouse.GetOyaOy] [my_spouse.GetHusbandWife] äîñòî[my_spouse.GetYnaIn] ðàçäåëèòü ñ òîáîé ðàäîñòè ñîêîëèíîé îõîòû? — ñïðîñèë[my_spouse.GetEndA] [my_spouse.GetSheHe].;;x
+EVTDESC30052_B;"My [my_spouse.GetHusbandWife] [my_spouse.GetFirstName] explains that [my_spouse.GetSheHe] is captivated by the grace and strength of hunting birds, and begs me for a bird.\n""They are just so cute, with their little wings and their... Are they called beaks?"", [my_spouse.GetSheHe] asks, gesturing at my nose.";;;;;;;;;;;Ì[my_spouse.GetOyaOy] [my_spouse.GetHusbandWife] [my_spouse.GetFirstName] áûë[my_spouse.GetEndA] ïîêîðåí[my_spouse.GetEndA] èçÿùåñòâîì è ñèëîé îõîòíè÷üèõ ïòèö è óìîëÿë[my_spouse.GetEndA] ïîäàðèòü [my_spouse.GetHerHim] îäíó.\n— Òû òîëüêî ïîñìîòðè íà ýòè êðîõîòíûå êðûëûøêè. Îíè òàêèå ìèëûå... Íó ïîæàààëóéòà! — óïðàøèâàë[my_spouse.GetEndA] [my_spouse.GetSheHe] ìåíÿ.;;x
+EVTDESC30055;The stubborn baron of [Root.Location.GetName] is really getting on my nerves! My wife, [Root.Spouse.GetFirstName], sensed my irritation and offered to give me advice on the matter. Her diplomatic skill has saved me many times before...;;;;;;;;;;;Óïðÿìûé ãëàâà îêðóãà [Root.Location.GetName] äåéñòâóåò ìíå íà íåðâû! Ìîÿ æåíà, [Root.Spouse.GetFirstName], ïî÷óâñòâîâàëà ìî¸ ðàçäðàæåíèå è ïðåäëîæèëà ñîâåò êàñàòåëüíî ýòîãî äåëà. Å¸ äèïëîìàòè÷åñêèå ñïîñîáíîñòè âûðó÷àëè ìåíÿ óæå íå ðàç...;;x
+EVTDESC30056;Two competent contenders are fighting for a position in [Root.Location.GetName] training the levies there. My gut tells me to choose the younger man who has risen through the ranks fast, whilst my wife [Root.Spouse.GetFirstName] is urging me to choose the older man who has never risen above the rank of sergeant.;;;;;;;;;;;Äâà ïîëíîïðàâíûõ ïðåòåíäåíòà áîðþòñÿ çà ïîçèöèþ â îáëàñòè [Root.Location.GetName], ÷òîáû òðåíèðîâàòü òàì ðåêðóòîâ. Ìî¸ ïðåä÷óâñòâèå ãîâîðèò, ÷òî ñëåäóåò âûáðàòü ìëàäøåãî èç äâóõ, òîãî, êîòîðûé áûñòðåå ïîäíÿëñÿ ïî ñëóæáå, òîãäà êàê ìîÿ æåíà, [Root.Spouse.GetFirstName], óáåæäàåò âûáðàòü ñòàðøåãî, êîòîðûé òàê è íå ïîäíÿëñÿ âûøå ñåðæàíòà.;;x
+EVTDESC30057;Gold pours from my hands but never finds its way back! The numbers and sums make no sense, twirling numbers mocking me appear every time I close my eyes. My wife [Root.Spouse.GetFirstName] has offered to help me, but I have refused every time she brings it up.;;;;;;;;;;;Çîëîòî ëü¸òñÿ èç ìîèõ ðóê, íî íèêîãäà íå íàõîäèò ïóòè îáðàòíî! ×èñëà è ñóììû íå èìåþò íèêàêîãî ñìûñëà, öèôðû êðóæàùèåñÿ è ñìåþùèåñÿ íàäî ìíîé ïîÿâëÿþòñÿ êàæäûé ðàç êàê ÿ çàêðûâàþ ãëàçà. Ìîÿ æåíà [Root.Spouse.GetFirstName] ïðåäëàãàëà ìíå ïîìî÷ü, íî ÿ âñ¸ îòêàçûâàëñÿ.;;x
+EVTDESC30058;I have my eyes set on a title, but my Spymaster [Root.job_spymaster.GetFullName] has advised me to forget about the title, saying I would invoke too much wrath if I try to claim it. My wife [Root.Spouse.GetFirstName], however, is doing everything but telling me outright that I should pursue the title.;;;;;;;;;;;ß ïîëîæèë ãëàç íà îäèí òèòóë, íî ìîé [Root.GetSpymasterName] [Root.job_spymaster.GetFullName] ïîñîâåòîâàë çàáûòü îá ýòîì òèòóëå, ãîâîðÿ ÷òî ÿ íàâëåêó íà ñåáÿ ÷ðåçìåðíîå êîëè÷åñòâî ãíåâà çà ïîïûòêè ïðèñâîèòü òèòóë. Ìîÿ æåíà æå [Root.Spouse.GetFirstName], íàïðîòèâ, ïðÿìî è íàñòîé÷èâî ìíå çàÿâëÿåò ÷òîáû ÿ äîáèâàëñÿ òèòóëà.;;x
+EVTDESC30059;The [Root.Religion.GetPriestTitle]s are not always easy to deal with. I need to make sure I have their approval and I have both my wife [Root.Spouse.GetFirstName] and my [Root.GetMyLordSpiritualName] [Root.job_spiritual.GetFullName] giving me advice on how to earn the [Root.Religion.GetPriestTitle]s' approval.;;;;;;;;;;;[Root.GetReligionFullName] è åãî ïîñëåäîâàòåëè íå âñåãäà èäóò íàâñòðå÷ó. Ìíå íóæíî óáåäèòüñÿ, ÷òî îíè îäîáðÿþò ìîè ïîñòóïêè. Ì[Root.Spouse.GetOyaOy] [Root.Spouse.GetHusbandWife] [Root.Spouse.GetFirstName] è [Root.GetLordSpiritualName] [Root.job_spiritual.GetFullName] äàäóò ìíå ïàðó ñîâåòîâ î òîì, êàê çàâîåâàòü ðàñïîëîæåíèå ýòèõ ëþäåé.;;x
+EVTDESC30061;My sweet [Root.Spouse.GetFirstName] is terrifying when she wants something, there is nothing she wouldn't do to make me bend to her will. Now she wants me to make one of her friends [Root.GetMyChancellorName], but [Root.GetMyChancellorName] [Root.job_chancellor.GetFullName] is a very competent man...;;;;;;;;;;;Ìîÿ äîðîãàÿ [Root.Spouse.GetFirstName] ïðîñòî óæàñàþùà, êîãäà îíà õî÷åò ÷åãî-ëèáî, è íå ñóùåñòâóåò òîãî, ÷åãî áû îíà íå ñäåëàëà â ïîïûòêå äîáèòüñÿ ñâîåãî. Ñåé÷àñ îíà õî÷åò ââåñòè å¸ äðóãà â ñîâåò, íî [Root.GetMyChancellorName] [Root.job_chancellor.GetFullName] î÷åíü êîìïåòåíòíûé ÷åëîâåê...;;x
+EVTDESC30064;No matter how many times I try to point out the virtues of Marshal [Root.job_marshal.GetFullName], my wife [Root.Spouse.GetFirstName] won't listen. She cannot take no for an answer, not when she has decided that her friend should be Marshal.;;;;;;;;;;;"Íåñìîòðÿ íà ìîè çàìå÷àíèÿ î òîì, ÷òî [Root.GetMarshalName] [Root.job_marshal.GetFullName] - äîñòîéíûé êàíäèäàò, ìîÿ ñóïðóãà [Root.Spouse.GetFirstName] èõ íå ñëûøèò. Ðåøèâ, ÷òî å¸ ëþáèì÷èê - ëó÷øèé [Root.GetMarshalName], îíà íå æåëàåò ïðèíÿòü îòâåò ""íåò"".";;x
+EVTDESC30067;[Root.Spouse.GetFirstName] is adamant, she tries to make me appoint one of her male friends, who might mean more to her than I earlier suspected, Steward. No matter how well our current Steward [Root.job_treasurer.GetFullName] does his job I need to decide whether I should make [Root.Spouse.GetFirstName] happy by or if the current Steward will get to keep his job.;;;;;;;;;;;"[Root.Spouse.GetFirstName] íåïðèìèðèìà. Îíà ïûòàåòñÿ îáÿçàòü ìåíÿ íàçíà÷èòü íà äîëæíîñòü ""[Root.GetTreasurerName]"" îäíîãî èç å¸ äðóçåé, êîòîðûé âèäèìî çíà÷èò äëÿ íå¸ áîëüøå, ÷åì ÿ ðàíåå ïîëàãàë. Êàê áû íè áûë êîìïåòåíòåí íûíåøíèé [Root.GetTreasurerName] [Root.job_treasurer.GetFullName], íàäî ðåøèòü: äîñòàâèòü ëè [Root.Spouse.GetHerHim] óäîâîëüñòâèå ëèáî íûíåøíèé [Root.GetTreasurerName] ñîõðàíèò ñâîþ äîëæíîñòü.";;x
+EVTDESC30070;I cannot get any rest from [Root.Spouse.GetFirstName] pestering me about making her good friend Spymaster. She does not care that our Spymaster [Root.job_spymaster.GetFullName] is competent, skilled and a great Spymaster.;;;;;;;;;;;[Root.Spouse.GetFirstName] ïîñòîÿííî áåñïîêîèò ìåíÿ, íàñòàèâàÿ, ÷òîáû ÿ íàçíà÷èë òàéíûì ñîâåòíèêîì å¸ õîðîøåãî äðóãà. Å¸ íå çàáîòèò, ÷òî íàø òàéíûé ñîâåòíèê [Root.job_spymaster.GetFullName] ñâåäóù, îïûòåí è âîîáùå - âåëèêèé øïèîí.;;x
+EVTDESC30073;I have noticed [Root.Spouse.GetFirstName]'s affection for one of the courtiers and heard her praise his [Player.Religion.GetPietyName], so it did not surprise me when she approached me and tried to convince me to appoint him as [Root.GetLordSpiritualName]. Trouble is, [Root.job_spiritual.GetFullName] is well respected and many would disapprove if I were to fulfill [Root.Spouse.GetFirstName]'s wish.;;;;;;;;;;;ß çàìåòèë[Root.GetEndA], êàê ì[Root.Spouse.GetOyaOy] [Root.Spouse.GetHusbandWife] [Root.Spouse.GetFirstName] ñìîòðèò íà îäí[Root.Spouse.GetUOgoOpp] èç ïðèäâîðíûõ, êàê [Root.Spouse.GetSheHe] âîñõâàëÿåò [Root.Spouse.GetHersHisOpp] áëàãî÷åñòèå è íå óäèâè[Root.GetLasLsya], êîãäà [Root.Spouse.GetSheHe] ïîäîøëà êî ìíå, ÷òîáû ñêàçàòü, ÷òî [Root.GetLordSpiritualName] - ñàìàÿ ïîäõîäÿùàÿ äîëæíîñòü äëÿ [Root.Spouse.GetHersHis] äðóãà. Íî [Root.job_spiritual.GetFullName] õîðîøî ñïðàâëÿåòñÿ, è ìíîãèå íå îäîáðÿò, åñëè ÿ ïîéäó ó í[Root.Spouse.GetHersHis] íà ïîâîäó.;;x
+EVTDESC30075;My husband [Root.Spouse.GetFirstName] and I long for children, but despite our best efforts and the time we spend together in the bedchamber I have failed to conceive. The suspicion of being barren makes me seek consolation in another man's arms.;;;;;;;;;;;Ìîé ìóæ [Root.Spouse.GetFirstName] è ÿ äàâíî õîòèì çàâåñòè äåòåé, íî íåñìîòðÿ íà íàøè óñèëèÿ è êîëè÷åñòâî âðåìåíè ïðîâåä¸ííîãî â îïî÷èâàëüíå, ÿ òàê è íå ñìîãëà çàáåðåìåíåòü. Ïîäîçðåíèå î áåñïëîäèè çàñòàâëÿåò ìåíÿ èñêàòü óòåøåíèå â ðóêàõ äðóãîãî ìóæ÷èíû.;;x
+EVTDESC30076;The pregnancy is starting to show and my husband [Root.Spouse.GetFirstName]'s happiness shows no bounds. I should be happy as well, but in my heart I know my husband [Root.Spouse.GetFirstName] isn't the father of my child.;;;;;;;;;;;Áåðåìåííîñòü ñòàíîâèòñÿ çàìåòíîé, è ðàäîñòè ìîåãî ìóæà íåò ïðåäåëà. ß äîëæíà áûòü òîæå ñ÷àñòëèâà, îäíàêî óâåðåíà, ÷òî ìîé ìóæ [Root.Spouse.GetFirstName] - íå îòåö ðåá¸íêà.;;x
+EVTDESC30077;My happiness when my wife [Root.Spouse.GetFirstName] told me I was about to be a father made me almost blind to her feelings, she smiled and seemed happy but something was amiss...;;;;;;;;;;;Êîãäà ìîÿ æåíà [Root.Spouse.GetFirstName] ñêàçàëà ìíå, ÷òî ÿ ñêîðî áóäó îòöîì, ñ÷àñòüå åäâà íå îñëåïèëî ìåíÿ. Îäíàêî, ïðèñìîòðåâøèñü òùàòåëüíåå ê å¸ ýìîöèÿì, ÿ ïî÷óâñòâîâàë ÷òî-òî íåëàäíîå…;;x
+EVTDESC30078;The bigger her belly gets, the thinner and more heavy-hearted my wife [Root.Spouse.GetFirstName] seems. Her appearance made me worry and I finally asked her what was wrong. It was as if [Root.Spouse.GetFirstName] had just waited to tell me about her indiscretion with the courtier and her belief that it is the courtier who is the father of the child she carries.;;;;;;;;;;;×åì áîëüøå å¸ æèâîò, òåì áîëåå òóñêëîé è óãíåò¸ííîé âûãëÿäèò ìîÿ æåíà [Root.Spouse.GetFirstName]. Å¸ âèä çàñòàâëÿë ìåíÿ áåñïîêîèòüñÿ, è íàêîíåö, ÿ ñïðîñèë å¸, ÷òî æå íå òàê? Âñ¸ áûëî òàê, êàê áóäòî [Root.Spouse.GetFirstName] òîëüêî è æäàëà, ÷òîáû ïîâåäàòü ìíå î å¸ íåîñìîòðèòåëüíîì ïîñòóïêå ñ ïðèäâîðíûì, êîòîðûé è ÿâëÿåòñÿ íàñòîÿùèì îòöîì ðåá¸íêà.;;x
+EVTDESC30079;The look on my pregnant wife's face whenever she sees one of the male courtiers has made me suspicious. It is a weird mixture of guilt, gratefulness and a warning of some sorts. I confronted my wife and, after awhile, she confessed to having had an affair with the courtier but blamed him for seducing her and impregnating her.;;;;;;;;;;;Âçãëÿä ìîåé áåðåìåííîé æåíû, êàæäûé ðàç, êîãäà îíà âèäèò îäíîãî èç ïðèäâîðíûõ, âûçûâàåò âî ìíå ïîäîçðåíèÿ. Ýòî ñòðàííàÿ ïîìåñü âèíû, ïðèçíàòåëüíîñòè è íå÷òî âðîäå ïðåäîñòåðåæåíèÿ. ß çàâ¸ë ðàçãîâîð ëèöîì ê ëèöó ñ ìîåé æåíîé, è ïîñëå íåäîëãîãî ñîïðîòèâëåíèÿ, îíà ñîçíàëàñü, ÷òî èìåëà ñâÿçü ñ ïðèäâîðíûì, îäíàêî çàÿâèëà, ÷òî ýòî ïðèäâîðíûé å¸ ñîáëàçíèë è îïîðî÷èë.;;x
+EVTDESC30080;I need to set an example with the courtier who impregnated my wife. I could throw him into prison, execute him or banish him, making sure no one will ever dare touch my wife again!;;;;;;;;;;;ß äîëæåí çàäàòü óðîê ýòîìó ïðèäâîðíîìó, êîòîðûé îïîðî÷èë ìîþ æåíó. ß ìîãó êèíóòü åãî â òåìíèöó, êàçíèòü èëè èçãíàòü åãî, ñäåëàâ òàê, ÷òîáû íèêòî è íèêîãäà áîëåå íå ñìåë ïðèêàñàòüñÿ ê ìîåé æåíå!;;x
+EVTDESC30081;The child my wife [Root.Spouse.GetFirstName] carry is not mine. The pain of her betrayal is still fresh in my mind, I will punish her in the same way I will punish the courtier who impregnated her and made her an adulteress.;;;;;;;;;;;Ðåá¸íîê, êîòîðîãî ìîÿ æåíà, [Root.Spouse.GetFirstName], âûíàøèâàåò - íå ìîé. Áîëü îò å¸ ïðåäàòåëüñòâà âñ¸ åù¸ ñâåæà, ÿ íàêàæó å¸ òåì æå ñïîñîáîì ÷òî è ïðèäâîðíîãî, êîòîðûé òîëêíóë å¸ íà ïðåëþáîäåÿíèå è îñêâåðíèë.;;x
+EVTDESC30085;My lovely young wife [Root.Spouse.GetFirstName] has expressed her boredom several times, in several ingenious ways. The court is boring, hunting is boring, embroidery is boring, her ladies-in-waiting are boring and she wants me to 'make the boredom go away'.;;;;;;;;;;;"Ìîÿ ïðåêðàñíàÿ ìîëîäàÿ æåíà [Root.Spouse.GetFirstName] íåñêîëüêî ðàç æàëîâàëàñü íà ñêóêó, ïðè÷¸ì, äîâîëüíî èçîáðåòàòåëüíî. Äâîð - óíûë, îõîòà - ñêó÷íà, âûøèâàíèå - íåâûíîñèìî, å¸ ïðèäâîðíûå äàìû - çàíóäíû è îíà õî÷åò ÷òîáû ÿ ""ðàçâåÿë ñêóêó"".";;x
+EVTDESC30086;My boring old husband [Root.Spouse.GetFirstName] told me his obligations is more important than my well-being! He might be right though, I should probably try to find a friend among the courtiers.;;;;;;;;;;;Ìîé ñêó÷íûé ñòàðûé ìóæ [Root.Spouse.GetFirstName] ñêàçàë, ÷òî åãî íåîòëîæíûå äåëà âàæíåå ìîåãî ñàìî÷óâñòâèÿ! Âîçìîæíî, îí ïðàâ, âîçìîæíî, ìíå ñòîèò íàéòè äðóçåé ñðåäè ïðèäâîðíûõ.;;x
+EVTDESC30088;[target_courtier.GetBestName] and I agreed to do something together the next morning, so I am currently planning what we should do.;;;;;;;;;;;[From.GetBestName] è ÿ äîãîâîðèëèñü ïîäåëàòü ÷òî-íèáóäü íàêàíóíå óòðîì, è ÿ ïëàíèðóþ, ÷åì áû íàì âìåñòå çàíÿòüñÿ.;;x
+EVTDESC30089;Despite the threatening clouds in the sky we started walking to the lake.;;;;;;;;;;;Íåñìîòðÿ íà õìóðûå òó÷è â íåáå ìû îòïðàâèëèñü ê îçåðó.;;x
+EVTDESC30090;The cook had packed a perfect picnic, with some roast lamb, bread, cheese and wine.;;;;;;;;;;;Ïîâàð ïîñòàðàëñÿ íà ñëàâó äëÿ ïèêíèêà: áûëè æàðåíûå ÿãíÿòà, õëåá, ñûð è âèíî.;;x
+EVTDESC30091;The dogs were excited, the horses willing and the day had barely begun. My friend and I set out to hunt some serious game.;;;;;;;;;;;Ñîáàêè áûëè âîçáóæäåíû, ëîøàäè - ðâàëèñü âïåð¸ä, à äåíü òîëüêî íà÷èíàëñÿ. ß è ìîé äðóã îòïðàâèëèñü îõîòèòüñÿ íà êðóïíóþ äè÷ü.;;x
+EVTDESC30092;I was just making the last arrangements to the dinner table when my guest arrived. We would not go starving from this table!;;;;;;;;;;;ß êàê ðàç çàâåðøàë ïðèãîòîâëåíèÿ ê ñòîëó, êîãäà ïðèáûëè ãîñòè. Ñ òàêèì ñòîëîì íàì òî÷íî ãîëîäàòü íå ïðèä¸òñÿ!;;x
+EVTDESC30095;[From.GetBestName] has avoided me for some time now, probably because we do not have anything in common.;;;;;;;;;;;[From.GetBestName] èçáåãàåò ìåíÿ óæå íåêîòîðîå âðåìÿ âîçìîæíî ïîòîìó, ÷òî ó íàñ íè÷åãî îáùåãî íåò.;;x
+EVTDESC30096;We fit together, [From.GetBestName] and I. No matter what we do together, we always have a good time and we can talk for hours without getting bored with each other.;;;;;;;;;;;Ìû äðóã äðóãó ïîäõîäèì, [From.GetBestName] è ÿ. Íåâàæíî, ÷åì ìû çàíÿòû, íàì âñåãäà âåñåëî. Ìû ìîæåì ãîâîðèòü ÷àñàìè, íå óñòàâàÿ äðóã îò äðóãà.;;x
+EVTDESC30100;The attraction between me and my husband [Root.Spouse.GetFirstName] has slowly started to fade. I realized this had been happening for some time when we week after week used the bedchamber to sleep in instead of having all the fun we used to have there.;;;;;;;;;;;Ìîé ìóæ [Root.Spouse.GetFirstName] è ÿ ñòàëè îõëàäåâàòü äðóã ê äðóãó. ß ïîíÿëà, ÷òî ýòî ïðîèçîøëî ïîñëå òîãî, êàê íåäåëÿ çà íåäåëåé íàøà ñïàëüíÿ áûëà ìåñòîì íàøåãî ñíà, à íå òåõ ñëàäîñòðàñòíûõ óòåõ, êîèì ìû ïðåäàâàëèñü ðàíüøå.;;x
+EVTDESC30101;The passion between [Root.Spouse.GetFirstName] and myself was still there, only slumbering beneath our skins, and easily reawakened by a lover's touch. It was hot, fierce, wonderful lovemaking such as we used to have.;;;;;;;;;;;Îêàçàëîñü, íàøè ñ [Root.Spouse.GetHusbandWifeINS] ÷óâñòâà âîâñå íå óãàñëè, îíè äðåìàëè ãäå-òî ãëóáîêî âíóòðè è ìîìåíòàëüíî ïðîáóäèëèñü îò ë¸ãêèõ ïðèêîñíîâåíèé. Ìû ïðîâåëè íåçàáûâàåìóþ íî÷ü â ïîðûâå æàðêîé è áåçóäåæíîé ñòðàñòè.;;x
+EVTDESC30102;Sweetly, gently we molded our bodies together and re-created the familiar feel of us embracing, touching, loving...;;;;;;;;;;;Ñëàäêî è íåæíî ìû ñïëåëèñü òåëàìè, ïðîáóæäàÿ â ïàìÿòè ïåðâûå ïîöåëóé è îáúÿòèÿ... êàê æå òÿæåëî äàëàñü ìíå çàñòåæêà å¸ ëèô÷èêà.;;x
+EVTDESC30103;The wild ride which showed [Root.Spouse.GetFirstName] who was the boss in the bedchamber killed him. He died with a smile on his lips, so maybe this was the perfect way of leaving this world.;;;;;;;;;;;"Ýòà ""äèêàÿ ñêà÷êà"", ïîõîæå, îêàçàëàñü ÷ðåçìåðíîé. Êîãäà ÿ ïîêàçàëà ñâîåìó ìóæó, êòî ãëàâíûé â ïîñòåëè, ýòî óáèëî åãî. Îí ñêîí÷àëñÿ ñ óëûáêîé íà ãóáàõ, òàê ÷òî âîçìîæíî ýòî áûëî ëó÷øèì ñïîñîáîì óéòè èç ýòîãî ìèðà.";;x
+EVTDESC30104;I wanted to show [Root.Spouse.GetFirstName] the passion between us had never died out, but even the sweetest, gentlest lovemaking was too passionate for his heart.;;;;;;;;;;;ß õîòåëà ïîêàçàòü ìîåìó ìóæó, ÷òî ñòðàñòü ìåæäó íàìè äî ñèõ ïîð æèâà, íî äàæå ñàìûå íåæíûå å¸ ïðîÿâëåíèÿ áûëè ÷åðåc÷óð... ñòðàñòíû äëÿ åãî ñåðäöà.;;x
+EVTDESC30105;I suspect that my husband [Root.Spouse.GetFirstName] is unable to sire children. If my husband is infertile, then maybe I need to find someone who is!;;;;;;;;;;;ß ïîäîçðåâàþ, ÷òî ìîé ìóæ [Root.Spouse.GetFirstName] íå ìîæåò èìåòü äåòåé. Åñëè îí áåñïëîäåí, òî, âîçìîæíî, ìíå íàäî íàéòè êîãî-òî åù¸...;;x
+EVTOPTA30000;Separate bedchambers? Sure!;;;;;;;;;;;Ñïàòü ðàçäåëüíî? Êîíå÷íî!;;x
+EVTOPTA30001;I don't ever want to see you again!;;;;;;;;;;;ß íèêîãäà áîëüøå íå õî÷ó òåáÿ âèäåòü!;;x
+EVTOPTA30002;O holy father, help me!;;;;;;;;;;;Áîæå, ïîìîãè ìíå!;;x
+EVTOPTA30003;Fine!;;;;;;;;;;;Õîðîøî!;;x
+EVTOPTA30004;By poison!;;;;;;;;;;;ßäîì!;;x
+EVTOPTA30005;Imprison her!;;;;;;;;;;;Ïîñàäèòü [Root.Spouse.GetHersHis] â òþðüìó!;;x
+EVTOPTA30006;No one will believe him!;;;;;;;;;;;Íèêòî íå ïîâåðèò åìó!;;x
+EVTOPTA30007;Remove her from my sight!;;;;;;;;;;;Óáåðèòå [Root.Spouse.GetHersHis] ñ ìîèõ ãëàç äîëîé!;;x
+EVTOPTA30009;This is not how it should end!;;;;;;;;;;;Âñå íå òàê, êàê äîëæíî áûëî áûòü!;;x
+EVTOPTA30010;I knew I would get away with it;;;;;;;;;;;ß çíàë[Root.GetEndA], ÷òî ìíå âñ¸ ñîéä¸ò ñ ðóê.;;x
+EVTOPTA30011;Then she will spend the rest of her life imprisoned!;;;;;;;;;;;[Root.Spouse.GetSheHeCap] ïðîâåä¸ò âñþ æèçíü â òåìíèöå.;;x
+EVTOPTA30020;May she rot in the Dungeon!;;;;;;;;;;;Ïóñòü [Root.Spouse.GetSheHe] ãíè¸ò â òåìíèöå!;;x
+EVTOPTA30021;To the dungeon with [Root.Spouse.GetHerHim]!;;;;;;;;;;;Â òåìíèöó [Root.Spouse.GetHersHis]!;;x
+EVTOPTA30025;Mayhap I read too much into this, surely [Root.Spouse.GetFirstName] loves me!;;;;;;;;;;;Áûòü ìîæåò, ÿ çàãëÿäûâàþ ñëèøêîì äàëåêî, íî ìíå êàæåòñÿ, ÷òî [Root.Spouse.GetFirstName] ëþáèò ìåíÿ!;;x
+EVTOPTA30026;[Root.Spouse.GetFirstName], what have you done?;;;;;;;;;;;[Root.Spouse.GetFirstName], ÷òî Âû íàäåëàëè?;;x
+EVTOPTA30027;I will show you that no one matters as much to me as you do!;;;;;;;;;;;ß äîêàæó Âàì, êàê ìíîãî Âû çíà÷èòå äëÿ ìåíÿ! Áîëüøå ÷åì âñå îñòàëüíûå!;;x
+EVTOPTA30028;[From.GetFirstName] promised to pay me more attention!;;;;;;;;;;;[From.GetFirstName] îáåùàåò îêàçûâàòü ìíå áîëüøå âíèìàíèÿ!;;x
+EVTOPTA30029;I don't know if [From.GetHerHim] will ever forgive me...;;;;;;;;;;;ß íå çíàþ, ÷òî áóäó äåëàòü, åñëè [From.GetSheHe] íå ïðîñòèò ìåíÿ...;;x
+EVTOPTA30030;I do anything I can to make [outside_spouse.GetHerHis] work easier;;;;;;;;;;;ß äåëàþ âñ¸, ÷òîáû îáëåã÷èòü [outside_spouse.GetHersHis] ðàáîòó;;x
+EVTOPTA30031;This is not negotiable;;;;;;;;;;;Îá ýòîì íåëüçÿ âåñòè ïåðåãîâîðû.;;x
+EVTOPTA30032;I don't think I dare...;;;;;;;;;;;ß íå íàäåþñü, ÿ ðàññ÷èòûâàþ…;;x
+EVTOPTA30033;I'll never be able to stop blaming myself;;;;;;;;;;;ß íèêîãäà íå ïåðåñòàíó âèíèòü ñåáÿ çà ýòî.;;x
+EVTOPTA30034;I'm so happy I could cry!;;;;;;;;;;;Ñ÷àñòüå ïåðåïîëíÿåò ìåíÿ äî ñë¸ç.;;x
+EVTOPTA30035;What a failure!;;;;;;;;;;;Êàêîé ïðîâàë!;;x
+EVTOPTA30036;But... Fine;;;;;;;;;;;Íî… ïðîñòî ïðåêðàñíî.;;x
+EVTOPTA30037;I have tired of this. Here, have your [prisoner_spouse.GetManWoman] back;;;;;;;;;;;Êàê æå ÿ óñòàë îò ýòîãî. Ëàäíî, çàáèðàéòå [prisoner_spouse.GetManWoman]ó íàçàä;;x
+EVTOPTA30040;I'll do my best to ignore [annoying_courtier.GetHerHim] and trust my husbands decision.;;;;;;;;;;;Ïðîñòî ïîñòàðàþñü íå çàìå÷àòü [annoying_courtier.GetHersHis];;x
+EVTOPTA30041;My [Root.Spouse.GetFirstName]'s happiness is more important to me;;;;;;;;;;;Ñ÷àñòüå ìîå[Root.Spouse.GetYGo] [Root.Spouse.GetHusbandWifeGEN] âàæíî äëÿ ìåíÿ;;x
+EVTOPTA30042;What on earth was she thinking?!;;;;;;;;;;;Î ÷¸ì [Root.Spouse.GetSheHe] äóìàåò!?;;x
+EVTOPTA30045;... jokingly push [annoying_courtier.GetHerHim] into the river.;;;;;;;;;;;Îêóíóòü [chosen_courtier.GetHussyInsolentACC] â ðåêó, ïóñòü íåìíîãî îõëàäèò ïûë.;;x
+EVTOPTA30046;I'll send gifts to his family;;;;;;;;;;;ß ïîøëþ [chosen_courtier.GetHersHis] ñåìüå íåìíîãî äåíåã;;x
+EVTOPTA30047;I'm s-s-sorry... Hahahaha!;;;;;;;;;;;Ìíå æàëü... Õà-õà-õà!;;x
+EVTOPTA30050;This bracelet would really bring out the... color in her eyes;;;;;;;;;;;Ýòîò áðàñëåò î÷åíü ïîäîéä¸ò... ïîä öâåò [Root.Spouse.GetHersHis] ãëàç.;;x
+EVTOPTA30051;The skewbald one looks a bit old, but sweet!;;;;;;;;;;;Ïåãàÿ âûãëÿäèò íåìíîãî ñòàðîâàòîé, íî ìèëîé;;x
+EVTOPTA30052;Will a buzzard do?;;;;;;;;;;;Ïîäîéä¸ò ëè ãðèô?;;x
+EVTOPTA30055;... I hope she can save me now!;;;;;;;;;;;...ÿ íàäåþñü îíà ïîìîæåò è ñåé÷àñ!;;x
+EVTOPTA30056;I trust my wife more than my gut;;;;;;;;;;;ß äîâåðÿþ æåíå áîëüøå, ÷åì ñâîåìó ïðåä÷óâñòâèþ;;x
+EVTOPTA30057;I give up! Honey, please help me!;;;;;;;;;;;ß ñäàþñü! Ãîëóáóøêà, ïîæàëóéñòà, ïîìîãè ìíå!;;x
+EVTOPTA30058;My wife [Root.Spouse.GetFirstName] is right, I should pursue the title!;;;;;;;;;;;Æåíà ïðàâà. Ýòîò òèòóë äîëæåí ïðèíàäëåæàòü ìíå!;;x
+EVTOPTA30059;[Root.Spouse.GetFirstName] suggests I should offer to rebuild the [Root.Religion.GetHouseOfWorship];;;;;;;;;;;[Root.Spouse.GetFirstName] ïðåäëàãàåò âîññòàíîâèòü èõ öåðêîâü;;x
+EVTOPTA30061;I will let her have her way just this once;;;;;;;;;;;ß ñäåëàþ, êàê îíà õî÷åò, íî òîëüêî â ýòîò ðàç;;x
+EVTOPTA30064;Enough! Fine, your 'special' friend will be Marshal!;;;;;;;;;;;"Äîâîëüíî! Òåïåðü òâîé ""áëèçêèé"" äðóã - [Root.GetMarshalName]!";;x
+EVTOPTA30065;[Root.Spouse.GetFirstName] accepted my friend as Marshal!;;;;;;;;;;;"[Root.Spouse.GetFirstName] óòâåðäèë ìîåãî äðóãà íà äîëæíîñòü ""[Root.Spouse.GetMarshalName]""!";;x
+EVTOPTA30067;[Root.Spouse.GetFirstName]'s happiness is important to me;;;;;;;;;;;Äîñòàâèòü ñ÷àñòüå [Root.Spouse.GetFirstName] âàæíî äëÿ ìåíÿ;;x
+EVTOPTA30070;Stop pestering me and I'll make your friend Spymaster;;;;;;;;;;; Ïðåêðàòè ïðèñòàâàòü êî ìíå è ÿ ñäåëàþ òâîåãî ïðîòåæå òàéíûì ñîâåòíèêîì;;x
+EVTOPTA30073;I will make [Root.Spouse.GetFirstName]'s friend [Root.GetLordSpiritualName];;;;;;;;;;;Ïîéäó [Root.Spouse.GetHerHim] íàâñòðå÷ó. Íàäåþñü, [Root.Spouse.GetHersHis] äðóã òîãî ñòîèò.;;x
+EVTOPTA30075;The consolation came with a price - I'm pregnant!;;;;;;;;;;;Óòåøåíèå ÿâèëîñü ïîä ðóêó ñ ðàñïëàòîé - ÿ áåðåìåííà!;;x
+EVTOPTA30076;My husband [Root.Spouse.GetFirstName] will never know the truth!;;;;;;;;;;;Ìîé ìóæ [Root.Spouse.GetFirstName] íèêîãäà íå óçíàåò ïðàâäó!;;x
+EVTOPTA30077;Maybe it's nothing...;;;;;;;;;;;Âîçìîæíî, ÷òî è íè÷åãî...;;x
+EVTOPTA30078;This child is ours, no matter who fathered it;;;;;;;;;;;Ýòî íàø ðåá¸íîê, íå âàæíî, êòî åãî íàñòîÿùèé îòåö;;x
+EVTOPTA30080;Imprison the adulterer!;;;;;;;;;;;Çàêëþ÷èòü â òþðüìó çà ïðåëþáîäåÿíèå!;;x
+EVTOPTA30081;Imprison the adulterer and the adulteress!;;;;;;;;;;;Çàêëþ÷èòü èõ îáîèõ!;;x
+EVTOPTA30085;Fine, I'll humor you;;;;;;;;;;;Çàìå÷àòåëüíî, ÿ ðàçâåñåëþ òåáÿ;;x
+EVTOPTA30086;Please be my friend!;;;;;;;;;;;Ïîæàëóéñòà, áóäü ìîèì äðóãîì!;;x
+EVTOPTA30088;A trip to the lake is always nice;;;;;;;;;;;Ïðîãóëêà ê îçåðó âñåãäà ïðèÿòíà;;x
+EVTOPTA30089;But the skies opened up and drenched us!;;;;;;;;;;;Íî íåáåñà ðàçâåðçëèñü, è ìû ïðîìîêëè äî íèòêè.;;x
+EVTOPTA30090;Ants ate our picnic!;;;;;;;;;;;Ìóðàâüè âñ¸ ñúåëè!;;x
+EVTOPTA30091;There were plenty of game in the forest, and now a lot less;;;;;;;;;;;Â ëåñó áûëî ìíîãî äè÷è, à òåïåðü - ãîðàçäî ìåíüøå;;x
+EVTOPTA30092;Dinner was pleasant and with great company!;;;;;;;;;;;Óæèí óäàëñÿ, êîìïàíèÿ áûëà ïðèÿòíîé.;;x
+EVTOPTA30095;I think I'll find someone else to befriend;;;;;;;;;;;Äóìàþ, ÿ ïîäðóæóñü ñ êåì-íèáóäü äðóãèì;;x
+EVTOPTA30096;I think I have found a new friend;;;;;;;;;;;Äóìàþ, ÿ íàø¸ë íîâîãî äðóãà;;x
+EVTOPTA30100;I want to take [Root.Spouse.GetFirstName] on a 'wild ride';;;;;;;;;;;"[Root.Spouse.GetFirstName] óçíàåò, ÷òî ÿ íàçûâàþ ""äèêîé ñêà÷êîé"".";;x
+EVTOPTA30101;It was... exhilarating!;;;;;;;;;;;Ýòî áûëî... âîëíóþùèì!;;x
+EVTOPTA30102;Love, how I have missed thee!;;;;;;;;;;;Ëþáèìàÿ, êàê æå ÿ ñîñêó÷èëñÿ ïî òåáå;;x
+EVTOPTA30103;I hope [Root.Spouse.GetFirstName] is in Heaven now...;;;;;;;;;;;ß íàäåþñü, [Root.Spouse.GetSheHe] òåïåðü íà Íåáåñàõ...;;x
+EVTOPTA30104;May he be happy in Heaven;;;;;;;;;;;Ìîæåò, [Root.Spouse.GetSheHe] áóäåò ñ÷àñòëèâ íà Íåáåñàõ.;;x
+EVTOPTA30105;I do have someone in mind...;;;;;;;;;;;Åñòü ó ìåíÿ êîå-êòî íà ïðèìåòå...;;x
+EVTOPTB30000;Let us rekindle our love!;;;;;;;;;;;Íàäî ïîïðîáîâàòü âîçðîäèòü íàøó ëþáîâü!;;x
+EVTOPTB30001;No, wait! I changed my mind...;;;;;;;;;;;Íåò, ïîäîæäèòå! ß ïåðåäóìàë...;;x
+EVTOPTB30003;Never!;;;;;;;;;;;Íèêîãäà!;;x
+EVTOPTB30004;This is below me!;;;;;;;;;;;Äà êàê Âû ìîãëè ïîäóìàòü!;;x
+EVTOPTB30005;Off with her head!;;;;;;;;;;;Îòðóáèòü åé ãîëîâó!;;x
+EVTOPTB30006;Whatever it is he wants, he'll get it!;;;;;;;;;;;×åãî áû îí íè õîòåë, îí ýòî ïîëó÷èò!;;x
+EVTOPTB30007;A life for a life...;;;;;;;;;;;Æèçíü çà æèçíü...;;x
+EVTOPTB30011;I will not show her any mercy!;;;;;;;;;;;[Root.Spouse.GetSheHeCap] íå çàñëóæèâàåò ìèëîñåðäèÿ.;;x
+EVTOPTB30020;May she rot in Hell!;;;;;;;;;;;Ïóñòü [Root.Spouse.GetSheHe] ãîðèò â àäó!;;x
+EVTOPTB30021;I have no mercy for poisoners!;;;;;;;;;;;Îòðàâèòåëè íå äîñòîéíû æàëîñòè.;;x
+EVTOPTB30025;I need to talk to someone, see if someone else has noticed this!;;;;;;;;;;;Ìíå íóæíî ïîãîâîðèòü ñ êåì-íèáóäü, âîçìîæíî êòî-òî ýòî âèäåë!;;x
+EVTOPTB30027;Who I decide to shower with attention is none of your business!;;;;;;;;;;;Íå Âàøå äåëî, ñ êåì è êàê ÿ ïðîâîæó ñâî¸ âðåìÿ.;;x
+EVTOPTB30028;[From.GetFirstName] refused to even consider paying me more attention!;;;;;;;;;;;[From.GetFirstName] íàîòðåç îòêàçûâàåòñÿ óäåëÿòü ìíå áîëüøå âíèìàíèÿ!;;x
+EVTOPTB30030;I try to get in contact with [outside_spouse.GetHerHim], ordering [outside_spouse.GetHerHim] to speed things up;;;;;;;;;;;ß ïûòàþñü âîéòè â êîíòàêò ñ [outside_spouse.GetHerHim], ïðèêàç [outside_spouse.GetHerHim] óñêîðèò äåëî.;;x
+EVTOPTB30031;Fine! But I want the gold to be delivered immediately!;;;;;;;;;;;Ïðåêðàñíî! Íî ÿ õî÷ó, ÷òîáû çîëîòî äîñòàâèëè íåìåäëåííî!;;x
+EVTOPTB30032;I will send a firm but respectful letter to [prisoner_spouse.GetHerHis] captor;;;;;;;;;;;ß ïîøëþ áåññìûñëåííîå, íî âåæëèâîå ïèñüìî [prisoner_spouse.GetHersHis] ïîõèòèòåëþ;;x
+EVTOPTB30033;Stupid [prisoner_spouse.GetManWoman]! Here I am trying to save [prisoner_spouse.GetHerHim], how dare [prisoner_spouse.GetSheHe] die on me?;;;;;;;;;;;Òóïèöà! ß ïûòàþñü [prisoner_spouse.GetHersHis] ñïàñòè, êàê [prisoner_spouse.GetSheHe] ñìååò óìèðàòü?;;x
+EVTOPTB30036;Just empty threats!;;;;;;;;;;;Ïðîñòî ïóñòûå óãðîçû!;;x
+EVTOPTB30037;Guards! Make sure the prisoner won't escape;;;;;;;;;;;Ñòðàæà! Óáåäèòåñü, ÷òî çàêëþ÷¸ííûé íå ñìîæåò ñáåæàòü;;x
+EVTOPTB30040;If possible I'll have [annoying_courtier.GetHerHim] fired.;;;;;;;;;;;Ïóñòü [Root.Spouse.GetHusbandWife] óâîëèò [annoying_courtier.GetHersHis];;x
+EVTOPTB30041;She should stay out of this!;;;;;;;;;;;Êòî ðàçðåøèë [Root.Spouse.GetHerHim] âñòðåâàòü â ìîè äåëà?;;x
+EVTOPTB30042;She did the right thing!;;;;;;;;;;;[Root.Spouse.GetSheHeCap] ñäåëàë[Root.Spouse.GetEndA] âñå ïðàâèëüíî!;;x
+EVTOPTB30045;... order [annoying_courtier.GetHerHim] to be quiet.;;;;;;;;;;;Ïðèêàçàòü [chosen_courtier.GetHerHim] çàòêíóòüñÿ.;;x
+EVTOPTB30046;I shall tell the public what happened;;;;;;;;;;;ß ðàññêàæó âñåì êàê ýòî ïðîèçîøëî íà ñàìîì äåëå;;x
+EVTOPTB30050;A cameo of myself perhaps?;;;;;;;;;;;Êàê íàñ÷¸ò êàìåè ñ ìîèì ïðîôèëåì?;;x
+EVTOPTB30051;The white mare is a bit frisky, but she'll be fine.;;;;;;;;;;;Áåëàÿ âûãëÿäèò ðåçâîé, íî âñ¸ áóäåò â ïîðÿäêå;;x
+EVTOPTB30052;A falcon would serve you well!;;;;;;;;;;;Ñîêîë ïîñëóæèò òåáå âåðíî!;;x
+EVTOPTB30055;I can work this out myself, thank you very much!;;;;;;;;;;;ß ñàì ïðåêðàñíî ñïðàâëþñü, áîëüøîå òåáå ñïàñèáî!;;x
+EVTOPTB30056;This is no business for a woman!;;;;;;;;;;;Íå æåíñêîå ýòî äåëî!;;x
+EVTOPTB30057;I can tame those numbers!;;;;;;;;;;;ß óêðîùó ýòè öèôåðêè!;;x
+EVTOPTB30058;I would invoke people's wrath if I follow my wife's advice!;;;;;;;;;;;ß íàâëåêó ãíåâ íàðîäà, åñëè ÿ ïîñëåäóþ ñîâåòà ñâîåé æåíû?! Íó ÷òî æå, ïóñòü.;;x
+EVTOPTB30059;[Root.job_spiritual.GetFullName] suggests I try to scare them into submission;;;;;;;;;;;[Root.job_spiritual.GetFullName] ïðåäëàãàåò çàïóãàòü èõ è òåì çàñòàâèòü ïîä÷èíÿòüñÿ;;x
+EVTOPTB30061;Her 'friend' is not good enough to become [Root.GetMyChancellorName];;;;;;;;;;;"Å¸ ""äðóã"" íåäîñòàòî÷íî õîðîø, [Root.GetMyChancellorName] îñòàíåòñÿ íà ñâî¸ì ïîñòó";;x
+EVTOPTB30064;No matter what you say I will not make your friend Marshal!;;;;;;;;;;;Íå èìååò çíà÷åíèÿ, ÷òî òû ñêàæåøü, ÿ íå íàçíà÷ó òâîåãî ïðîòåæå íà ýòó äîëæíîñòü!;;x
+EVTOPTB30067;I will keep [Root.job_treasurer.GetFullName] as my Steward!;;;;;;;;;;;[Root.GetTreasurerName] - ïî ïðåæíåìó [Root.job_treasurer.GetFullName]!;;x
+EVTOPTB30070;Nothing you say or do will make me change my mind!;;;;;;;;;;;Íèêàêèå òâîè ñëîâà è äåéñòâèÿ íå èçìåíÿò ìî¸ ìíåíèå!;;x
+EVTOPTB30073;[Root.job_spiritual.GetFullName] will keep his job;;;;;;;;;;;[Root.job_spiritual.GetFullName] ñîõðàíèò äîëæíîñòü.;;x
+EVTOPTB30076;I should tell my husband [Root.Spouse.GetFirstName] the truth;;;;;;;;;;;ß äîëæíà ðàññêàçàòü ìîåìó ìóæó ïðàâäó;;x
+EVTOPTB30078;The child is ours, but the courtier must be punished;;;;;;;;;;;Ýòî íàø ðåá¸íîê, íî ïðèäâîðíûé äîëæåí áûòü íàêàçàí;;x
+EVTOPTB30080;Execute the adulterer!;;;;;;;;;;;Êàçíèòü çà ïðåëþáîäåÿíèå!;;x
+EVTOPTB30081;Execute the adulterer and the adulteress!;;;;;;;;;;;Êàçíèòü èõ îáîèõ!;;x
+EVTOPTB30085;Honey, I have obligations I must take care of;;;;;;;;;;;Ãîëóáóøêà, ó ìåíÿ åñòü íåîòëîæíûå îáÿçàòåëüñòâà.;;x
+EVTOPTB30088;Let's have a picnic!;;;;;;;;;;;Óñòðîèì ïèêíèê!;;x
+EVTOPTB30089;The clouds departed and the sun shone down on us;;;;;;;;;;;Òó÷è ðàññåÿëèñü è ñîëíöå âîññèÿëî;;x
+EVTOPTB30090;The food was nice but the company better!;;;;;;;;;;;Åäà áûëà õîðîøà, à êîìïàíèÿ - åù¸ ëó÷øå!;;x
+EVTOPTB30091;We became the game, a family of bears hunted us!;;;;;;;;;;;Íà íàñ íà÷àëà îõîòó öåëàÿ ñåìüÿ ìåäâåäåé;;x
+EVTOPTB30092;Dinner was quiet, we had nothing to say to each other;;;;;;;;;;;Óæèí ïðîø¸ë â òèøèíå. Íàì áûëî íå÷åãî ñêàçàòü äðóã äðóãó.;;x
+EVTOPTB30100;I will be gentle to him;;;;;;;;;;;ß áóäó íåæíà ñ íèì.;;x
+EVTOPTB30101;It was a wild ride!;;;;;;;;;;;Ýòî áûëà äèêàÿ ñêà÷êà!;;x
+EVTOPTB30102;Gently, we woke the passion between us once again;;;;;;;;;;;Ìû íåæíî ïðîáóäèëè ñòðàñòü ìåæäó íàìè... åù¸ ðàçîê;;x
+EVTOPTB30105;I will not have an affair!;;;;;;;;;;;Íå ñòàíó ÿ çàâîäèòü èíòðèæåê!;;x
+EVTOPTC30000;Whatever you say, honey;;;;;;;;;;;Êàê ñêàæåøü, ñîëíûøêî;;x
+EVTOPTC30005;I will forgive her this little mishap;;;;;;;;;;;ß ïðîùó åé ýòîò íåáîëüøîé ïðîñòóïîê;;x
+EVTOPTC30006;I still have some poison left...;;;;;;;;;;;Ó ìåíÿ åù¸ îñòàëîñü íåìíîãî ÿäà...;;x
+EVTOPTC30007;Surely she didn't understand what she did?;;;;;;;;;;;Êîíå÷íî, [Root.Spouse.GetSheHe] íå ïîíèìàë[Root.Spouse.GetEndA] ÷òî äåëàåò!;;x
+EVTOPTC30011;She clearly did not know what she was doing...;;;;;;;;;;;[Root.Spouse.GetSheHeCap] íå çíàë[Root.GetEndA], ÷òî äåëàåò.;;x
+EVTOPTC30020;May she one day realize what she has done;;;;;;;;;;;Êîãäà íèáóäü [Root.Spouse.GetSheHe] ïîéì¸ò, ÷òî íàòâîðèë[Root.Spouse.GetEndA]!;;x
+EVTOPTC30021;[Root.Spouse.GetSheHeCap] would never do such a thing!;;;;;;;;;;;[Root.Spouse.GetSheHeCap] áîëüøå òàêîãî íå ñîâåðøèò!;;x
+EVTOPTC30025;I should confront my [Root.Spouse.GetFirstName];;;;;;;;;;;Ìíå íóæíî ïðîòèâèòüñÿ [Root.Spouse.GetFirstName];;x
+EVTOPTC30030;Who cares? It's not like [outside_spouse.GetSheHe]'ll succeed;;;;;;;;;;;Êîãî ýòî âîëíóåò? Íå ïîõîæå, ÷òî [outside_spouse.GetSheHe] äîáü¸òñÿ óñïåõà.;;x
+EVTOPTC30031;Your insolence bores me. Into the dungeon with you!;;;;;;;;;;;Âàøà äåðçîñòü óòîìèëà ìåíÿ. Îòïðàâëÿéòåñü îáà â òåìíèöó!;;x
+EVTOPTC30033;I blame [prisoner_spouse.GetHerHis] family for this! They did nothing!;;;;;;;;;;;Ñåìüÿ [prisoner_spouse.GetHersHis] âèíîâíà â ïðîèçîøåäøåì! Îíè è ïàëåö î ïàëåö íå óäàðèëè!;;x
+EVTOPTC30037;I did warn [outside_spouse.GetHerHim], didn't I?;;;;;;;;;;;ß ïðåäóïðåæäàë [outside_spouse.GetHersHis], íå ïðàâäà ëè?;;x
+EVTOPTC30040;I have the [annoying_courtier.GetManWoman] punished for [annoying_courtier.GetHerHis] insolence.;;;;;;;;;;;ß íàéäó ñïîñîá íàêàçàòü [annoying_courtier.GetHersHis] çà äåðçîñòü;;x
+EVTOPTC30045;... ignore [annoying_courtier.GetHerHis] annoying comments.;;;;;;;;;;;Íå îáðàùàòü íà í[chosen_courtier.GetHersHis] âíèìàíèÿ;;x
+EVTOPTC30046;I never meant for this to happen!;;;;;;;;;;;Ìíå î÷åíü æàëü..;;x
+EVTOPTC30050;Ruby earrings are exactly what she wants!;;;;;;;;;;;Ðóáèíîâûå ñåðüãè — ýòî òî, ÷òî [Root.Spouse.GetHerHim] íàäî!;;x
+EVTOPTC30051;The black one is magnificent, the only suitable match for my [Root.Spouse.GetHusbandWife]...!;;;;;;;;;;;Âîðîíàÿ âåëèêîëåïíà, ïðåêðàñíî ïîäîéä¸ò ìî[Root.Spouse.GetHerHim] [Root.Spouse.GetHusbandWifeDAT];;x
+EVTOPTC30052;Too dangerous, my love. I don't want you to overexert yourself.;;;;;;;;;;;Ýòî ñëèøêîì îïàñíî, ëþáîâü ìîÿ. ß íå õî÷ó ÷òîáû òû ïåðåíàïðÿãà[my_spouse.GetLasLsya].;;x
+EVTOPTC30076;If my husband suspects anything, I will blame the courtier!;;;;;;;;;;;Åñëè ìîé ìóæ ÷òî-ëèáî çàïîäîçðèò, ÿ îáâèíþ ïðèäâîðíîãî!;;x
+EVTOPTC30078;How could you do this to me?;;;;;;;;;;;Êàê òû ìîãëà òàê ïîñòóïèòü ñî ìíîé?;;x
+EVTOPTC30080;Banish the adulterer!;;;;;;;;;;;Èçãíàòü çà ïðåëþáîäåÿíèå!;;x
+EVTOPTC30081;Banish the adulterer and the adulteress!;;;;;;;;;;;Èçãíàòü èõ îáîèõ!;;x
+EVTOPTC30088;Hunting is always fun!;;;;;;;;;;;Îõîòà - ýòî âñåãäà âåñåëî!;;x
+EVTOPTC30089;I did not like the company;;;;;;;;;;;Ìíå íå ïîíðàâèëàñü êîìïàíèÿ;;x
+EVTOPTC30100;We will make sweet, sweet love...;;;;;;;;;;;Ìû çàéìåìñÿ íåæíîé-íåæíîé ëþáîâüþ...;;x
+EVTOPTC30101;[Root.Spouse.GetFirstName] woke my lust for her!;;;;;;;;;;;[Root.Spouse.GetSheHeCap] ðàçáóäèë[Root.Spouse.GetEndA] ñòðàñòíîãî çâåðÿ âî ìíå;;x
+EVTOPTC30102;Sweet love unfroze this old heart;;;;;;;;;;;Ñëàäêàÿ ëþáîâü ðàñòîïèëà ýòî ñòàðîå ëåäÿíîå ñåðäöå;;x
+EVTOPTD30031;No more letters!;;;;;;;;;;;Áîëüøå íèêàêèõ ïèñåì!;;x
+EVTOPTD30046;Anyone speaking of the event will be punished;;;;;;;;;;;Ëþáîé, êòî ðàñïðîñòðàíÿåò ñëóõè, áóäåò íàêàçàí;;x
+EVTOPTD30050;I think I'll just keep the gold...;;;;;;;;;;;Ïîæàëóé, ÿ îñòàâëþ çîëîòî ñåáå...;;x
+EVTOPTD30051;I'm sorry, honey, but all these will be breeders.;;;;;;;;;;;Ïðîñòè, äîðîã[Root.Spouse.GetAyaOy], âñå îíè ñòàíóò ïðîèçâîäèòåëÿìè.;;x
+EVTOPTD30080;The taste of vengeance is foul, I will do nothing;;;;;;;;;;;Âêóñ ìåñòè íå÷åñòèâ, ÿ íè÷åãî íå ñäåëàþ;;x
+EVTOPTD30081;I have changed my mind, I will only punish the courtier;;;;;;;;;;;ß ïåðåäóìàë, ÿ íàêàæó òîëüêî ïðèäâîðíîãî;;x
+EVTOPTD30088;A quiet dinner together would be perfect!;;;;;;;;;;;Òèõèé ñîâìåñòíûé óæèí - ÷òî åù¸ íóæíî?;;x
+EVTOPTD30100;Make sure [Root.Spouse.GetFirstName] knows who is the boss in the bedchamber;;;;;;;;;;;Ïóñòü [Root.Spouse.GetSheHe] óçíàåò, êòî ãëàâíûé â ïîñòåëè.;;x
+EVTOPTD30101;[Root.Spouse.GetFirstName] showed who is the boss in the bedchamber!;;;;;;;;;;;[Root.Spouse.GetSheHeCap] ïîêàçàë[Root.Spouse.GetEndA] ìíå, êòî ãëàâíûé â ïîñòåëè;;x
+EVTOPTD30102;This is a night I will remember, forever;;;;;;;;;;;Ýòî - íî÷ü, êîòîðóþ ÿ çàïîìíþ íàâñåãäà;;x
+EVTOPTE30051;You already have me!;;;;;;;;;;;Ó òåáÿ óæå åñòü ÿ!;;x
+EVTOPTE30088;I will never be bored again with [target_courtier.GetFirstName] by my side!;;;;;;;;;;;[From.GetFirstName] íèêîãäà íå äàñò ìíå çàñêó÷àòü!;;x
+EVTTOOLTIP30002;The spouse fights the annulment;;;;;;;;;;;Ñóïðóã[Root.GetEndAOpp] ñîïðîòèâëÿåòñÿ ðàçâîäó;;x
+EVTTOOLTIP30003;My [Root.Religion.GetName] father hear my prayer!;;;;;;;;;;;[Root.GetTrueReligionHighGodVOC], óñëûøü ìîþ ìîëèòâó!;;x
+EVTTOOLTIP30005;Your husband finds out about the poisoning;;;;;;;;;;;Âàø ìóæ óçíàåò îá îòðàâëåíèè;;x
+EVTTOOLTIP30006;A courtier finds out about the poisoning;;;;;;;;;;;Ïðèäâîðíûé óçíàåò îá îòðàâëåíèè;;x
+EVTTOOLTIP30007;Your husband accuses you of the death of his heir;;;;;;;;;;;Âàø ìóæ îáâèíÿåò Âàñ â ñìåðòè åãî íàñëåäíèêà;;x
+EVTTOOLTIP30008;[This.GetTitledFirstName] accuses you of the death of heir's death;;;;;;;;;;;[This.GetTitledFirstName] îáâèíÿåò Âàñ â ñìåðòè íàñëåäíèêà.;;x
+EVTTOOLTIP30009;[Root.Spouse.GetTitledFirstName] will be imprisoned!;;;;;;;;;;;[Root.Spouse.GetTitledFirstName] ñÿäåò â òþðüìó!;;x
+EVTTOOLTIP30010;[Root.Spouse.GetTitledFirstName] will be pardoned!;;;;;;;;;;;[Root.Spouse.GetTitledFirstName] áóäåò ïîìèëîâàíà!;;x
+EVTTOOLTIP30011;[Root.Spouse.GetTitledFirstName] knows about the poisoning;;;;;;;;;;;[Root.Spouse.GetTitledFirstName] óçíàåò îá îòðàâëåíèè.;;x
+EVTTOOLTIP30026;[Root.GetTitledFirstName] finds someone to talk to;;;;;;;;;;;[Root.GetTitledFirstName] íàéä¸ò ñ êåì ïîãîâîðèòü;;x
+EVTTOOLTIP30027;[Root.GetTitledFirstName] talks to [Root.Spouse.GetFirstName];;;;;;;;;;;[Root.GetTitledFirstName] ïåðåãîâîðèò ñ [Root.Spouse.GetFirstName];;x
+EVTTOOLTIP30029;[Root.GetTitledFirstName] talks about the gossip with [Root.Spouse.GetFirstName];;;;;;;;;;;[Root.GetTitledFirstName] ðàñïóñêàåò ñïëåòíè î [Root.Spouse.GetFirstName];;x
+EVTTOOLTIP30031;Try to talk to [prisoner_host.GetTitledFirstName];;;;;;;;;;;Ïîïðîáîâàòü ïîãîâîðèòü ñ ïåðñîíàæåì [prisoner_host.GetTitledFirstName];;x
+EVTTOOLTIP30032;Send a letter to [outside_spouse.GetFirstName];;;;;;;;;;;Îòïðàâèòü ïèñüìî ïåðñîíàæó [outside_spouse.GetFirstName];;x
+EVTTOOLTIP30033;[prisoner_spouse.GetTitledName] is executed;;;;;;;;;;;[prisoner_spouse.GetTitledName] áóäåò êàçíåí[prisoner_spouse.GetEndA];;x
+EVTTOOLTIP30034;[This.GetTitledFirstName] is released;;;;;;;;;;;[This.GetTitledFirstName] áóäåò îòïóùåí[ThisgetEndA] íà âîëþ.;;x
+EVTTOOLTIP30035;[This.GetTitledFirstName] is thrown into the dungeon;;;;;;;;;;;[This.GetTitledFirstName] áóäåò áðîøåí[ThisGetEndA] â òåìíèöó.;;x
+EVTTOOLTIP30036;[outside_spouse.GetTitledFirstName] will be warned about the consequences of freeing [prisoner_spouse.GetTitledFirstName];;;;;;;;;;;[outside_spouse.GetTitledFirstName] áóäåò ïðåäóïðåæäåí[outside_spouse.GetEndA] î ïîñëåäñòâèÿõ òîãî, ÷òî áóäåò, êîãäà [prisoner_spouse.GetTitledFirstName] áóäåò îñâîáîæäåí[prisoner_spouse.GetEndA];;x
+EVTTOOLTIP30040;I ask my [Root.Spouse.GetFirstName] to fire the annoying [annoying_courtier.GetManWoman].;;;;;;;;;;;Ïîïðîñèòü [Root.Spouse.GetHusbandWifeACC] îòîñëàòü [annoying_courtier.GetHersHis] ïîäàëüøå îò äâîðà;;x
+EVTTOOLTIP30042;[Root.Spouse.GetTitledFirstName] becomes aware of [Root.GetTitledFirstName]'s distaste for the courtier;;;;;;;;;;;[Root.Spouse.GetTitledFirstName] óçíàåò, ÷òî [Root.GetTitledFirstName] èñïûòûâàåò íåïðèÿçíü â îòíîøåíèè ïðèäâîðí[annoying_courtier.GetOyOgo];;x
+EVTTOOLTIP30046;[This.GetTitledFirstName] drowns;;;;;;;;;;;óòîíåò;;x
+EVTTOOLTIP30047;[This.GetTitledFirstName] survives;;;;;;;;;;;ñïàñ¸òñÿ;;x
+EVTTOOLTIP30077;I will deny everything!;;;;;;;;;;;ß áóäó âñ¸ îòðèöàòü!;;x
+EVTTOOLTIP30078;I will tell him... soon;;;;;;;;;;;ß åìó ðàññêàæó... Ñêîðî;;x
+EVTTOOLTIP30079;Suspicion will always arise;;;;;;;;;;;Ïîäîçðåíèå âñåãäà èìååò ñâîéñòâî âîçíèêàòü;;x
+EVTTOOLTIP30080;[Root.GetFirstName] decides what to do with the courtier;;;;;;;;;;;[Root.GetFirstName] ðåøàåò, ÷òî äåëàòü ñ ïðèäâîðíûì;;x
+EVTTOOLTIP30081;[Root.GetFirstName] decides what to do with the courtier and [Root.Spouse.GetFirstName];;;;;;;;;;;[Root.GetFirstName] ðåøàåò, ÷òî äåëàòü ñ ïðèäâîðíûì è [Root.Spouse.GetFirstName];;x
+EVTTOOLTIP30086;[Root.Spouse.GetFirstName] befriends a courtier;;;;;;;;;;;[Root.Spouse.GetFirstName] çàâîäèò äðóæáó ñ ïðèäâîðíûì;;x
+EVTTOOLTIP30089;[target_courtier.GetBestName] and [Root.GetBestName] go to the lake;;;;;;;;;;;[This.GetBestName] è [Root.GetBestName] èäóò âìåñòå ê îçåðó;;x
+EVTTOOLTIP30090;[target_courtier.GetBestName] and [Root.GetBestName] have a picnic;;;;;;;;;;;[This.GetBestName] è [Root.GetBestName] îòïðàâèëèñü íà ïèêíèê;;x
+EVTTOOLTIP30091;[target_courtier.GetBestName] and [Root.GetBestName] go hunting;;;;;;;;;;;[This.GetBestName] è [Root.GetBestName] îòïðàâèëèñü íà îõîòó;;x
+EVTTOOLTIP30092;[Root.GetBestName] invites [From.GetBestName] to dinner;;;;;;;;;;;[From.GetBestName] ïðèãëàøàåòñÿ íà óæèí;;x
+EVTTOOLTIP30103;The [Root.GetTitle]'s heart could not take the excitement;;;;;;;;;;;Ìî¸ ñåðäöå àæ âûïðûãèâàëî èç ãðóäè îò óäîâîëüñòâèÿ;;x
+EVTTOOLTIP30104;The passion overwhelmed [Root.GetFirstName]'s heart;;;;;;;;;;;Ñòðàñòü ïåðåïîëíèëà ìî¸ ñåðäöå;;x
+EVTTOOLTIPA30028;[This.GetFirstName] is showered with attention from [Root.GetFirstName];;;;;;;;;;;[This.GetFirstName] ìèëî îáùàåòñÿ ñ [Root.GetFirstName];;x
+EVTTOOLTIPA30037;[This.GetTitledFirstName] get a letter from [Root.GetTitledFirstName];;;;;;;;;;;[This.Host.GetTitledFirstName] ïîëó÷èò ïèñüìî îò ÷åëîâåêà ïî èìåíè [Root.GetTitledFirstName].;;x
+EVTTOOLTIPA30062;[Root.Spouse.GetFirstName] is thrilled!;;;;;;;;;;;[Root.Spouse.GetFirstName] äîâîëüíà!;;x
+EVTTOOLTIPA30065;[Root.Spouse.GetFirstName] is more than happy with your decision;;;;;;;;;;;[Root.Spouse.GetFirstName] âîñõèùåíà Âàøèì ðåøåíèåì;;x
+EVTTOOLTIPA30067;[Root.Spouse.GetFirstName] is pleased with your decision;;;;;;;;;;;[Root.Spouse.GetFirstName] äîâîëüíà Âàøèì ðåøåíèåì;;x
+EVTTOOLTIPA30071;Your decision has pleased [Root.Spouse.GetFirstName];;;;;;;;;;;Âàøå ðåøåíèå ïîíðàâèëîñü [Root.Spouse.GetFirstName];;x
+EVTTOOLTIPA30074;[Root.Spouse.GetFirstName] is overjoyed!;;;;;;;;;;;[Root.Spouse.GetFirstName] âîñõèùåíà!;;x
+EVTTOOLTIPA30093;A failed trip to the lake;;;;;;;;;;;Ïóòåøåñòâèå ê îçåðó íå óäàëîñü;;x
+EVTTOOLTIPA30094;A perfect trip to the lake;;;;;;;;;;;Ïóòåøåñòâèå ê îçåðó áûëî ïðåêðàñíûì;;x
+EVTTOOLTIPA30101;The wild ride takes [This.GetFirstName] with surprise;;;;;;;;;;;"[This.GetFirstName] áóäåò çàñòèãíóò âðàñïëîõ ""äèêîé ñêà÷êîé"".";;x
+EVTTOOLTIPA30102;Gentle lovemaking will make [Root.Spouse.GetFirstName] relive your honeymoon;;;;;;;;;;;[Root.Spouse.GetFirstName] çàíîâî ïåðåæèâåò ìåäîâûé ìåñÿö, åñëè íàøè çàíÿòèÿ ëþáîâüþ áóäóò íåæíûìè.;;x
+EVTTOOLTIPB30028;[This.GetFirstName] is ignored;;;;;;;;;;;[This.GetFirstName] îñòà¸òñÿ áåç âíèìàíèÿ;;x
+EVTTOOLTIPB30037;Ask [This.GetTitledFirstName] to release [Root.Spouse.GetTitledFirstName];;;;;;;;;;;Ïîïðîñèòå [This.GetTitledFirstName] îñâîáîäèòü [Root.Spouse.GetTitledFirstName];;x
+EVTTOOLTIPB30062;[Root.Spouse.GetFirstName] does not like your decision;;;;;;;;;;;Âàøåé ñóïðóãå [Root.Spouse.GetFirstName] íå íðàâèòñÿ Âàøå ðåøåíèå;;x
+EVTTOOLTIPB30065;[Root.Spouse.GetFirstName] is not happy, not happy at all;;;;;;;;;;;[Root.Spouse.GetFirstName] ðàññòðîåíà, êðàéíå ðàññòðîåíà;;x
+EVTTOOLTIPB30067;Your decision upsets [Root.Spouse.GetFirstName];;;;;;;;;;;[Root.Spouse.GetFirstName] îãîð÷åíà Âàøèì ðåøåíèåì;;x
+EVTTOOLTIPB30071;Your decision to keep your spymaster displeases [Root.Spouse.GetFirstName];;;;;;;;;;;Âàøå ðåøåíèå ïîääåðæàòü íûíåøíåãî Òàéíîãî ñîâåòíèêà âûçâàëî íåäîâîëüñòâî ó [Root.Spouse.GetFirstName];;x
+EVTTOOLTIPB30074;[Root.Spouse.GetFirstName] accepts your decision but does not approve of it;;;;;;;;;;;[Root.Spouse.GetFirstName] ïðèíèìàåò Âàøå ðåøåíèå, íî íå îäîáðÿåò åãî;;x
+EVTTOOLTIPB30093;Unwanted guests spoiled the picnic;;;;;;;;;;;Ïèêíèê èñïîð÷åí íåçâàíûìè ãîñòÿìè;;x
+EVTTOOLTIPB30094;Fabulous picnic in the wild;;;;;;;;;;;Ñêàçî÷íûé ïèêíèê íà äèêîé ïðèðîäå;;x
+EVTTOOLTIPB30101;[Root.Spouse.GetFirstName] is sure to beg for mercy when [Root.GetFirstName] is done with him;;;;;;;;;;;[Root.Spouse.GetSheHeCap] åù¸ ïîïðîñèò ïîùàäû, êîãäà ÿ çàêîí÷ó ñ íèì.;;x
+EVTTOOLTIPB30102;[Root.Spouse.GetFirstName] and [Root.GetFirstName] makes sweet love;;;;;;;;;;;[Root.Spouse.GetFirstName] è [Root.GetFirstName] çàéìóòñÿ ëþáîâüþ.;;x
+EVTTOOLTIPC30093;The hunter became the hunted, and did not enjoy it;;;;;;;;;;;Îõîòíèê ñòàë äîáû÷åé, ê ñâîåìó íåñ÷àñòüþ;;x
+EVTTOOLTIPC30094;Hunting was a pleasure;;;;;;;;;;;Îõîòà äîñòàâèëà îãðîìíîå óäîâîëüñòâèå;;x
+EVTTOOLTIPD30093;The food, the drink, the company... all was perfect tonight;;;;;;;;;;;Åäà, íàïèòêè è îáùåñòâî - ñåãîäíÿ âñå áûëî íà âûñîòå;;x
+EVTTOOLTIPD30094;The conversation at dinner lacked substance;;;;;;;;;;;Ðàçãîâîðó çà óæèíîì íå äîñòàâàëà ñîäåðæàíèÿ;;x
 # CleanSlate: No longer used
-# EVTDESC30110;The imams are not always easy to deal with. I need to make sure I have their approval and I have both my wife [Root.Spouse.GetFirstName] and my [Root.GetMyLordSpiritualName] [Root.job_spiritual.GetFullName] giving me advice on how to earn the imam's approval.;;;;;;;;;;;;;x
-# EVTOPTA30110;[Root.Spouse.GetFirstName] suggests I should offer to rebuild the mosque;;;;;;;;;;;;;x
-# EVTOPTB30110;[Root.job_spiritual.GetFullName] suggests I try to scare the imams into submission;;;;;;;;;;;;;x
-
-# EVTDESC30060;[Root.Spouse.job_chancellor.GetFullName] is doing a somewhat good job as a [Root.GetMyChancellorName] but there is a contender for the title, one of my special male friends. I am slowly but stubbornly trying to make [Root.Spouse.GetFirstName] realize the potential of my friend, and now I am prepared to use the final and best argument to make him do as I want.;;;;;;;;;;;;;x
-# EVTDESC30062;When I presented my ultimatum to my husband [Root.Spouse.GetFirstName], trying to make him choose my friend to be the new [Root.GetMyChancellorName], he reacted as I had anticipated. [Root.Spouse.GetFirstName] tried to argue with me, plead with me and even tried to scare me into submission, but I saw in his eyes that he had already made his decision.;;;;;;;;;;;;;x
-# EVTDESC30063;I have a very special male friend who would be an excellent Marshal! Too bad my husband thinks highly of Marshal [Root.Spouse.job_marshal.GetFullName], making it hard for me to convince him of my friend's superiority.;;;;;;;;;;;;;x
-# EVTDESC30065;My husband [Root.Spouse.GetFirstName] and I argued about who should be Marshal, my special friend or the current one. As I made my arguments, threatened to shun [Root.Spouse.GetFirstName] from my bed and stressed my friend superiority over [Root.Spouse.job_marshal.GetFullName], my husband finally took a decision.;;;;;;;;;;;;;x
-# EVTDESC30066;I have tried to make my husband [Root.Spouse.GetFirstName] discharge his Steward [Root.Spouse.job_treasurer.GetFullName] in favour of my close friend whom I cannot deny anything. The stubbornness of my husband is convincing me I need to do something drastic in order for him to listen to me.;;;;;;;;;;;;;x
-# EVTDESC30068;I am getting tired of fighting for my friend, though I still feel he would make a better Steward than [Root.job_treasurer.GetFullName]. One last effort and whatever my husband [Root.Spouse.GetFirstName] decides, I have to accept that.;;;;;;;;;;;;;x
-# EVTDESC30069;I couldn't care less if our current Spymaster [Root.Spouse.job_spymaster.GetFullName] is competent as a Spymaster or not, my very good friend would truly overtrumph [Root.Spouse.job_spymaster.GetHerHim] as Spymaster! I only have to convince my husband [Root.Spouse.GetFirstName] to discharge [Root.Spouse.job_spymaster.GetFullName] and then appoint my friend.;;;;;;;;;;;;;x
-# EVTDESC30071;My husband [Root.Spouse.GetFirstName] asked me to give him a couple of days to think about this, he promised me a decision if only I stopped pestering him. I could hardly restrain myself and waited impatiently until my husband declared that he had made a decision.;;;;;;;;;;;;;x
-# EVTDESC30072;The friendship between me and a male courtier is very special, but I fear I might lose him if I cannot find a way to make my husband [Root.Spouse.GetFirstName] get rid of the old [Root.GetLordSpiritualName] [Root.Spouse.job_spiritual.GetFullName] and appoint my friend as [Root.GetLordSpiritualName] in his stead.;;;;;;;;;;;;;x
-# EVTDESC30074;I know [Root.GetLordSpiritualName] [Root.Spouse.job_spiritual.GetFullName] is well respected, many would disapprove and reproach my husband [Root.Spouse.GetFullName] if he chooses to appoint my friend as the [Root.GetLordSpiritualName], but I don't care. I need a friend at court!;;;;;;;;;;;;;x
-
-# EVTOPTA30060;Do as I want or else...;;;;;;;;;;;;;x
-# EVTOPTA30062;[Root.Spouse.GetFirstName] agreed to make my friend [Root.GetMyChancellorName]!;;;;;;;;;;;;;x
-# EVTOPTA30063;I will keep arguing until [Root.Spouse.GetFirstName] agrees with me!;;;;;;;;;;;;;x
-# EVTOPTA30066;It's now or never!;;;;;;;;;;;;;x
-# EVTOPTA30068;My friend has been appointed Steward!;;;;;;;;;;;;;x
-# EVTOPTA30069;That should be easy!;;;;;;;;;;;;;x
-# EVTOPTA30071;He will make my friend Spymaster!;;;;;;;;;;;;;x
-# EVTOPTA30072;[Root.Spouse.GetFirstName] must listen to me, if only this once!;;;;;;;;;;;;;x
-# EVTOPTA30074;Joyous news! My friend is [Root.GetLordSpiritualName]!;;;;;;;;;;;;;x
-
-# EVTOPTB30062;[Root.Spouse.GetFirstName] refused to make my friend Chancellor!;;;;;;;;;;;;;x
-# EVTOPTB30065;[Root.Spouse.GetFirstName] told me he would never make my friend Marshal!;;;;;;;;;;;;;x
-# EVTOPTB30068;My husband decided to keep the current Steward...;;;;;;;;;;;;;x
-# EVTOPTB30071;He decided to keep the old Spymaster;;;;;;;;;;;;;x
-# EVTOPTB30074;I have to respect [Root.Spouse.GetFirstName]'s decision;;;;;;;;;;;;;x
-
-# EVTTOOLTIP30061;[Root.Spouse.GetFirstName] gets the ultimatum;;;;;;;;;;;;;x
-# EVTTOOLTIP30064;[Root.Spouse.GetFirstName] makes a decision;;;;;;;;;;;;;x
-# EVTTOOLTIP30067;[Root.Spouse.GetFirstName] is forced to make a decision;;;;;;;;;;;;;x
-# EVTTOOLTIP30070;[Root.Spouse.GetFirstName] is pestered into making a decision;;;;;;;;;;;;;x
-# EVTTOOLTIP30073;The future of [Root.GetFirstName]'s friend lies on [Root.Spouse.GetFirstName];;;;;;;;;;;;;x
+# EVTDESC30110;The imams are not always easy to deal with. I need to make sure I have their approval and I have both my wife [Root.Spouse.GetFirstName] and my [Root.GetMyLordSpiritualName] [Root.job_spiritual.GetFullName] giving me advice on how to earn the imam's approval.;;;;;;;;;;;Ñ èìàìàìè íå âñåãäà ëåãêî èìåòü äåëî. Ìíå íóæíî óáåäèòüñÿ, ÷òî ÿ ñìîã[Root.GetNoneE] çàðó÷èòüñÿ èõ îäîáðåíèåì. Ì[Root.Spouse.GetOyaOy] [Root.Spouse.GetHusbandWife] [Root.Spouse.GetFirstName] è [Root.GetMyLordSpiritualName] [Root.job_spiritual.GetFullName] äàþò ìíå ñîâåòû, êàê çàðó÷èòüñÿ ïîääåðæêîé èìàìîâ.;;x
+# EVTOPTA30110;[Root.Spouse.GetFirstName] suggests I should offer to rebuild the mosque;;;;;;;;;;;[Root.Spouse.GetFirstName] ñ÷èòàåò, ÷òî ÿ äîëæ[Root.GetNaEn] ïðåäëîæèòü âîññòàíîâèòü ìå÷åòü;;x
+# EVTOPTB30110;[Root.job_spiritual.GetFullName] suggests I try to scare the imams into submission;;;;;;;;;;;[Root.job_spiritual.GetFullName] ïðåäëàãàåò ìíå ïîïûòàòüñÿ ïðèâåñòè èìàìîâ â ïîâèíîâåíèå;;x
+# EVTDESC30060;[Root.Spouse.job_chancellor.GetFullName] is doing a somewhat good job as a [Root.GetMyChancellorName] but there is a contender for the title, one of my special male friends. I am slowly but stubbornly trying to make [Root.Spouse.GetFirstName] realize the potential of my friend, and now I am prepared to use the final and best argument to make him do as I want.;;;;;;;;;;;[Root.Spouse.job_chancellor.GetFullName] íåïëîõî ñïðàâëÿåòñÿ, êàê [Root.GetMyChancellorName], íî åñòü åù¸ îäèí ïðåòåíäåíò íà ýòîò òèòóë, îäèí èç ìîèõ ëþáîâíèêîâ. ß ïîñòåïåííî, íî íàñòîé÷èâî ïûòàþñü ñäåëàòü òàê, ÷òîáû [Root.Spouse.GetFirstName] îñîçíàë ïîòåíöèàë ìîåãî äðóãà. Ñåé÷àñ ÿ ïðèãîòîâèëà ôèíàëüíûé è ëó÷øèé àðãóìåíò, ÷òîáû îí ïîñòóïèë èìåííî òàê, êàê ÿ õî÷ó.;;x
+# EVTDESC30062;When I presented my ultimatum to my husband [Root.Spouse.GetFirstName], trying to make him choose my friend to be the new [Root.GetMyChancellorName], he reacted as I had anticipated. [Root.Spouse.GetFirstName] tried to argue with me, plead with me and even tried to scare me into submission, but I saw in his eyes that he had already made his decision.;;;;;;;;;;;Êîãäà ÿ ïðåäúÿâèëà ñâîé óëüòèìàòóì ñóïðóãó [Root.Spouse.GetFirstName], óòâåðæäàÿ, ÷òî ìîé äðóã - èäåàëüíûé [Root.GetMyChancellorName], îí îòðåàãèðîâàë èìåííî òàê, êàê ÿ è îæèäàëà. [Root.Spouse.GetFirstName] ïûòàëñÿ ñïîðèòü ñî ìíîé, ìîëèë ìåíÿ è äàæå ïûòàëñÿ çàïóãàòü, íî ÿ âèäåëà â åãî ãëàçàõ, ÷òî îí óæå ïðèíÿë îêîí÷àòåëüíîå ðåøåíèå.;;x
+# EVTDESC30063;I have a very special male friend who would be an excellent Marshal! Too bad my husband thinks highly of Marshal [Root.Spouse.job_marshal.GetFullName], making it hard for me to convince him of my friend's superiority.;;;;;;;;;;;Ó ìåíÿ åñòü ëþáîâíèê, èç êîòîðîãî âûøåë áû ïðåêðàñíûé [Root.Spouse.GetMarshalName]! Ê ñîæàëåíèþ, [Root.Spouse.job_marshal.GetFullName] ìîåãî ñóïðóãà óñòðàèâàåò ãîðàçäî áîëüøå, ÷òî äåëàåò ñëîæíûì äëÿ ìåíÿ ïîïûòàòüñÿ óáåäèòü åãî â ïðåâîñõîäñòâå ìîåãî äðóãà.;;x
+# EVTDESC30065;My husband [Root.Spouse.GetFirstName] and I argued about who should be Marshal, my special friend or the current one. As I made my arguments, threatened to shun [Root.Spouse.GetFirstName] from my bed and stressed my friend superiority over [Root.Spouse.job_marshal.GetFullName], my husband finally took a decision.;;;;;;;;;;;" ß è ìîé ìóæ [Root.Spouse.GetFirstName] ãîðÿ÷î îáñóæäàëè: ïîëó÷èò ëè äîëæíîñòü ""[Root.Spouse.GetMarshalName]"" ìîé áëèçêèé äðóã èëè îñòàíåòñÿ äåéñòâóþùèé. Ïðåäñòàâèâ àðãóìåíòû, ÷òî ìîé ïðîòåæå ïðåâîñõîäèò íûíåøíåãî, è íàìåêíóâ, ÷òî îòêàæó â áëèçîñòè, ìóæ íàêîíåö ïðèíÿë ðåøåíèå.";;x
+# EVTDESC30066;I have tried to make my husband [Root.Spouse.GetFirstName] discharge his Steward [Root.Spouse.job_treasurer.GetFullName] in favour of my close friend whom I cannot deny anything. The stubbornness of my husband is convincing me I need to do something drastic in order for him to listen to me.;;;;;;;;;;;ß ïûòàëàñü óáåäèòü ñâîåãî ìóæà ïî èìåíè [Root.Spouse.GetFirstName], ÷òî [Root.GetTreasurerName] [Root.Spouse.job_treasurer.GetFullName] äîëæåí óñòóïèòü ñâîé ïîñò ìîåìó áëèçêîìó äðóãó. Óïðÿìñòâî ìîåãî ñóïðóãà çàñòàâëÿåò ìåíÿ ïðèíÿòü ðàäèêàëüíûå ìåðû, ÷òîáû îí óäîâëåòâîðèë ìîþ ïðîñüáó.;;x
+# EVTDESC30068;I am getting tired of fighting for my friend, though I still feel he would make a better Steward than [Root.job_treasurer.GetFullName]. One last effort and whatever my husband [Root.Spouse.GetFirstName] decides, I have to accept that.;;;;;;;;;;;ß óòîìèëàñü ñîäåéñòâîâàòü ñâîåìó äðóãó, íî ïî-ïðåæíåìó ñ÷èòàþ, ÷òî îí - ëó÷øèé [Root.GetTreasurerName], ÷åì [Root.job_treasurer.GetFullName]. Ïîñëåäíåå óñèëèå è ÿ ïðèìó òî, ÷òî ðåøèò ìîé ñóïðóã [Root.Spouse.GetFirstName].;;x
+# EVTDESC30069;I couldn't care less if our current Spymaster [Root.Spouse.job_spymaster.GetFullName] is competent as a Spymaster or not, my very good friend would truly overtrumph [Root.Spouse.job_spymaster.GetHerHim] as Spymaster! I only have to convince my husband [Root.Spouse.GetFirstName] to discharge [Root.Spouse.job_spymaster.GetFullName] and then appoint my friend.;;;;;;;;;;;Ìíå ïëåâàòü, êîìïåòåíòåí èëè íåò íûíåøíèé [Root.GetSpymasterName] [Root.Spouse.job_spymaster.GetFullName]. Ìîé î÷åíü õîðîøèé äðóã ïðåâçîø¸ë áû [Root.Spouse.job_spymaster.GetHerHim] íà ýòîì ïîñòó ðàçóìååòñÿ! ß òîëüêî äîëæíà óáåäèòü ñâîåãî ñóïðóãà [Root.Spouse.GetFirstName] ñìåñòèòü [Root.Spouse.job_spymaster.GetFullName] è íàçíà÷èòü ìîåãî ïðîòåæå.;;x
+# EVTDESC30071;My husband [Root.Spouse.GetFirstName] asked me to give him a couple of days to think about this, he promised me a decision if only I stopped pestering him. I could hardly restrain myself and waited impatiently until my husband declared that he had made a decision.;;;;;;;;;;;Ìîé ñóïðóã [Root.Spouse.GetFirstName] ïðîñèë ìåíÿ î íåñêîëüêèõ äíÿõ íà ðàçìûøëåíèå è ïîîáåùàë ïðèíÿòü ðåøåíèå, ëèøü áû ÿ ïðåêðàòèëà êàïàòü åìó íà ìîçãè. Ìíå òÿæåëî ñäåðæèâàòü ñåáÿ, ÿ âñÿ â íåòåðïåíèè, êîãäà æå ìóæ îáúÿâèò î ïðèíÿòèè ðåøåíèÿ.;;x
+# EVTDESC30072;The friendship between me and a male courtier is very special, but I fear I might lose him if I cannot find a way to make my husband [Root.Spouse.GetFirstName] get rid of the old [Root.GetLordSpiritualName] [Root.Spouse.job_spiritual.GetFullName] and appoint my friend as [Root.GetLordSpiritualName] in his stead.;;;;;;;;;;;Äðóæáà ìåæäó ìíîé è ïðèäâîðí[Root.GetOyYmOpp] îñîáåííàÿ. Îäíàêî, ÿ áîþñü ÷òî ïîòåðÿþ å¸, åñëè íå ñìîãó íàéòè ñïîñîá, ÷òîáû ì[Root.Spouse.GetOyaOy] [Root.Spouse.GetHusbandWife] [Root.Spouse.GetFirstName] ñäåëàë[Root.Spouse.GetEndA] òàê, ÷òîáû [Root.GetLordSpiritualName] [Root.Spouse.job_spiritual.GetFullName] ïîêèíóë[Root.Spouse.job_spiritual.GetEndA] ñâîé ïîñò, à ì[Root.GetOyaOyOpp] [Root.GetFriendMFOpp] çàíÿë[Root.GetEndAOpp] âàêàíòíóþ äîëæíîñòü.;;x
+# EVTDESC30074;I know [Root.GetLordSpiritualName] [Root.Spouse.job_spiritual.GetFullName] is well respected, many would disapprove and reproach my husband [Root.Spouse.GetFullName] if he chooses to appoint my friend as the [Root.GetLordSpiritualName], but I don't care. I need a friend at court!;;;;;;;;;;;ß çíàþ, ÷òî [Root.GetLordSpiritualName] [Root.Spouse.job_spiritual.GetFullName] î÷åíü óâàæàåì[Root.Spouse.job_spiritual.GetEndA] è ìíîãèå íå ïîéìóò, åñëè ì[Root.Spouse.GetOyaOy] [Root.Spouse.GetHusbandWife] [Root.Spouse.GetFullName], âñ¸-òàêè ðåøèò, ÷òî èç ìîåãî äðóãà âûéäåò òîëêîâûé [Root.GetLordSpiritualName], íî ìíå ïëåâàòü. ß íå ìîãó ïîòåðÿòü äðóãà!;;x
+# EVTOPTA30060;Do as I want or else...;;;;;;;;;;;Ñäåëàé êàê ÿ õî÷ó, à íå òî…;;x
+# EVTOPTA30062;[Root.Spouse.GetFirstName] agreed to make my friend [Root.GetMyChancellorName]!;;;;;;;;;;;[Root.Spouse.GetFirstName] ñîãëàñèëñÿ, ÷òî ìîé äðóã ëó÷øèé [Root.GetMyChancellorName]!;;x
+# EVTOPTA30063;I will keep arguing until [Root.Spouse.GetFirstName] agrees with me!;;;;;;;;;;;ß áóäó ñïîðèòü ïîêà [Root.Spouse.GetFirstName] íå ñîãëàñèòñÿ ñî ìíîé!;;x
+# EVTOPTA30066;It's now or never!;;;;;;;;;;;Ñåé÷àñ èëè íèêîãäà!;;x
+# EVTOPTA30068;My friend has been appointed Steward!;;;;;;;;;;;Ìîé ïðîòåæå òåïåðü [Root.GetTreasurerName]!;;x
+# EVTOPTA30069;That should be easy!;;;;;;;;;;;Ýòîãî ëåãêî äîáèòüñÿ!;;x
+# EVTOPTA30071;He will make my friend Spymaster!;;;;;;;;;;;Îí ñîáèðàåòñÿ íàçíà÷èòü ìîåãî ïðîòåæå òàéíûì ñîâåòíèêîì!;;x
+# EVTOPTA30072;[Root.Spouse.GetFirstName] must listen to me, if only this once!;;;;;;;;;;;[Root.Spouse.GetFirstName] äîëæåí ïðèñëóøàòüñÿ êî ìíå, ïî êðàéíåé ìåðå ýòîò ðàç!;;x
+# EVTOPTA30074;Joyous news! My friend is [Root.GetLordSpiritualName]!;;;;;;;;;;;Ðàäîñòíûå âåñòè! Ì[Root.GetOyaOyOpp] [Root.GetFriendMFOpp] - [Root.GetLordSpiritualName]!;;x
+# EVTOPTB30062;[Root.Spouse.GetFirstName] refused to make my friend Chancellor!;;;;;;;;;;;[Root.Spouse.GetFirstName] íå ñîãëàñåí, ÷òî ìîé äðóã ëó÷øèé [Root.GetMyChancellorName]!;;x
+# EVTOPTB30065;[Root.Spouse.GetFirstName] told me he would never make my friend Marshal!;;;;;;;;;;;"[Root.Spouse.GetFirstName] âûñêàçàë, ÷òî íèêîãäà íå ïîñòàâèò ìîåãî ïðîòåæå íà äîëæíîñòü ""[Root.Spouse.GetMarshalName]"".";;x
+# EVTOPTB30068;My husband decided to keep the current Steward...;;;;;;;;;;;Ìîé áëàãîâåðíûé ïîääåðæàë íûíåøíåãî ñîâåòíèêà.;;x
+# EVTOPTB30071;He decided to keep the old Spymaster;;;;;;;;;;;Îí ðåøèë ñîõðàíèòü äîëæíîñòü çà íûíåøíèì òàéíûì ñîâåòíèêîì;;x
+# EVTOPTB30074;I have to respect [Root.Spouse.GetFirstName]'s decision;;;;;;;;;;;Ìíå ïðèä¸òñÿ óâàæàòü ðåøåíèå [Root.Spouse.GetFirstName];;x
+# EVTTOOLTIP30061;[Root.Spouse.GetFirstName] gets the ultimatum;;;;;;;;;;;[Root.Spouse.GetFirstName] ïîëó÷àåò óëüòèìàòóì;;x
+# EVTTOOLTIP30064;[Root.Spouse.GetFirstName] makes a decision;;;;;;;;;;;[Root.Spouse.GetFirstName] ïîðà ïðèíÿòü ðåøåíèå;;x
+# EVTTOOLTIP30067;[Root.Spouse.GetFirstName] is forced to make a decision;;;;;;;;;;;[Root.Spouse.GetFirstName] âûíóæäåí ïðèíèìàòü ðåøåíèå.;;x
+# EVTTOOLTIP30070;[Root.Spouse.GetFirstName] is pestered into making a decision;;;;;;;;;;;[Root.Spouse.GetFirstName] äîêó÷àåò, òðåáóÿ ìîåãî ðåøåíèÿ;;x
+# EVTTOOLTIP30073;The future of [Root.GetFirstName]'s friend lies on [Root.Spouse.GetFirstName];;;;;;;;;;;Ñóäüáà ìîåãî äðóãà â ðóêàõ æåíû;;x

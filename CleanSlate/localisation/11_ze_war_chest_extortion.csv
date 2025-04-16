@@ -1,22 +1,17 @@
-EVTDESC_ZE_21000;The money for that War Chest is not going to raise itself! You have decided to take matters into your own hands and see to that the chest gets filled to the brim with 'donations' from your loyal subjects. How should you proceed?;;;;;;;;;;;;;x
-EVTDESC_ZE_21100;The peasants of [extra_tax_target.GetName] did, as expected, not appreciate the 'extra' tax we forced upon them. The peasants even elected a leader amongst them who started asking questions why this tax was necessary, and exclaimed that they would now have to starve! Perhaps something should be done before they get the pitchforks?;;;;;;;;;;;;;x
-EVTDESC_ZE_21200;Even though you have explained it in detail to [extortion_target.GetFirstName], [extortion_target.GetSheHe] still does not understand why you are plundering [extortion_target.GetHerHis] mansion. It would seem evident that giving up some of your wealth in support of the realm is the right thing to do, but [extortion_target.GetFirstName] is having none of it.;;;;;;;;;;;;;x
-EVTDESC_ZE_21300;As your men load the wealth of the [seize_church_target.GetFullName] onto several wagons, you are approached by a raving group of clergymen. Apparently they are not too happy about you seizing their valuable idols, they claim that you will be punished by [Root.Religion.GetRandomEvilGodName] if you cannot justify this blasphemy!;;;;;;;;;;;;;x
-
-EVTOPTA_ZE_21000;The peasants of [extra_tax_target.GetName] can pay an extra tax!;;;;;;;;;;;;;x
-EVTOPTA_ZE_21100;Explain how this tax is necessary, and give them a temporary tax relief.;;;;;;;;;;;;;x
-EVTOPTA_ZE_21200;Apologize and explain how this will help save the realm.;;;;;;;;;;;;;x
-EVTOPTA_ZE_21300;[Root.Religion.GetRandomGodNameCap] told me that this had to be done!;;;;;;;;;;;;;x
-
-EVTOPTB_ZE_21000;[extortion_target.GetFullName] is wealthy, [extortion_target.GetSheHe] can part with some gold!;;;;;;;;;;;;;x
-EVTOPTB_ZE_21100;The tax is obviously necessary, the peasants are just greedy!;;;;;;;;;;;;;x
-EVTOPTB_ZE_21200;Why, you should be honored by me letting you contribute this much!;;;;;;;;;;;;;x
-EVTOPTB_ZE_21300;[Root.Religion.GetRandomEvilGodNameCap] be damned, the wealth does more good in my coffers!;;;;;;;;;;;;;x
-
-EVTOPTC_ZE_21000;The clergy of [seize_church_target.GetName] surely does not need all that wealth!;;;;;;;;;;;;;x
-EVTOPTD_ZE_21000;Maybe this is a bad idea after all...;;;;;;;;;;;;;x
-
-EVTTOOLTIP_ZE_21100;Collect an 'extra' tax from the peasants of [extra_tax_target.GetName].;;;;;;;;;;;;;x
-EVTTOOLTIP_ZE_21200;Use brute force to extort [extortion_target.GetFullName].;;;;;;;;;;;;;x
-EVTTOOLTIP_ZE_21300;Order your men to seize the wealth of the [seize_church_target.GetFullName].;;;;;;;;;;;;;x
-
+EVTDESC_ZE_21000;The money for that War Chest is not going to raise itself! You have decided to take matters into your own hands and see to that the chest gets filled to the brim with 'donations' from your loyal subjects. How should you proceed?;;;;;;;;;;;"Î÷åâèäíî, ÷òî âîåííûé áþäæåò ñàì ñîáîé íå íàïîëíèòñÿ. Âû ðåøèëè çàíÿòüñÿ ýòèì ëè÷íî, ïðèâëåêàÿ ""ïîæåðòâîâàíèÿ"" ñâîèõ âåðíûõ ïîääàííûõ. Íî ÷òî êîíêðåòíî ñëåäóåò ïðåäïðèíÿòü?";;x
+EVTDESC_ZE_21100;The peasants of [extra_tax_target.GetName] did, as expected, not appreciate the 'extra' tax we forced upon them. The peasants even elected a leader amongst them who started asking questions why this tax was necessary, and exclaimed that they would now have to starve! Perhaps something should be done before they get the pitchforks?;;;;;;;;;;;"[extra_tax_target.County.GetAdjective]ñêèå æèòåëè, êàê è îæèäàëîñü, áûëè âîâñå íå â âîñòîðãå îò ""ýêñòðåííîé"" ïîäàòè. Ñðåäè íèõ äàæå ïîÿâèëñÿ ëèäåð, êîòîðûé íà÷àë çàäàâàòü âîïðîñû î íîâîì íàëîãå è åãî öåëåñîîáðàçíîñòè. Âîçìîæíî, íàäî ïðèíÿòü ìåðû, ïîêà îíè íå âçÿëèñü çà âèëû.";;x
+EVTDESC_ZE_21200;Even though you have explained it in detail to [extortion_target.GetFirstName], [extortion_target.GetSheHe] still does not understand why you are plundering [extortion_target.GetHerHis] mansion. It would seem evident that giving up some of your wealth in support of the realm is the right thing to do, but [extortion_target.GetFirstName] is having none of it.;;;;;;;;;;;"Äàæå ïîñëå òîãî, êàê Âû ïîäðîáíî îáúÿñíèëè, çà÷åì âñ¸ ýòî íóæíî, [extortion_target.GetFirstName] âñ¸ ðàâíî íå ïîíÿë[extortion_target.GetEndA] äëÿ ÷åãî ïîíàäîáèëîñü ðàçîðÿòü [extortion_target.GetHersHis] îñîáíÿê è êîíôèñêîâàòü èìóùåñòâî. Êàçàëîñü áû ôèíàíñîâàÿ ïîääåðæêà ñòðàíû - ýòî õîðîøî, íî ïîäîáíîå ðàñõèùåíèå ""óæå íè â êàêèå âîðîòà íå ëåçåò"".";;x
+EVTDESC_ZE_21300;As your men load the wealth of the [seize_church_target.GetFullName] onto several wagons, you are approached by a raving group of clergymen. Apparently they are not too happy about you seizing their valuable idols, they claim that you will be punished by [Root.Religion.GetRandomEvilGodName] if you cannot justify this blasphemy!;;;;;;;;;;;"Âàøè ëþäè ïîãðóçèëè âñ¸ öåííîå èìóùåñòâî õðàìà [seize_church_target.GetShortBaseName] â ïîâîçêè, è òóò ê íèì ïðèáëèçèëàñü ðàçúÿð¸ííàÿ ãðóïïà ñâÿùåííèêîâ. Î÷åâèäíî, îíè íå ðàäû òîìó, ÷òî ""ñâÿùåííîå äîñòîÿíèå"" ðàçãðàáëÿåòñÿ, è ãðîçÿò êàðîé ñî ñòîðîíû âûñøèõ ñèë.";;x
+EVTOPTA_ZE_21000;The peasants of [extra_tax_target.GetName] can pay an extra tax!;;;;;;;;;;;Æèòåëè îêðóãà [extra_tax_target.GetShortBaseName] ïîìîãóò!;;x
+EVTOPTA_ZE_21100;Explain how this tax is necessary, and give them a temporary tax relief.;;;;;;;;;;;Îáúÿñíèòü èì âàæíîñòü íàëîãà è ïîîáåùàòü ïîñîáèÿ.;;x
+EVTOPTA_ZE_21200;Apologize and explain how this will help save the realm.;;;;;;;;;;;Èçâèíèòüñÿ è îáúÿñíèòü, êàê ýòî ñïàñ¸ò âñåõ íàñ.;;x
+EVTOPTA_ZE_21300;[Root.Religion.GetRandomGodNameCap] told me that this had to be done!;;;;;;;;;;;Óâåðåí[Root.GetEndA], [Root.Religion.GetRandomGodName] íà ìîåé ñòîðîíå!;;x
+EVTOPTB_ZE_21000;[extortion_target.GetFullName] is wealthy, [extortion_target.GetSheHe] can part with some gold!;;;;;;;;;;;Ïóñòü [extortion_target.GetFullName] ïîäåëèòñÿ.;;x
+EVTOPTB_ZE_21100;The tax is obviously necessary, the peasants are just greedy!;;;;;;;;;;;Ýòèõ æàäþã íèêòî è íå ñïðàøèâàë!;;x
+EVTOPTB_ZE_21200;Why, you should be honored by me letting you contribute this much!;;;;;;;;;;;Ëèøü áëàãîäàðÿ ìíå, ó í[extortion_target.GetHersHis] âñ¸ ýòî áûëî!;;x
+EVTOPTB_ZE_21300;[Root.Religion.GetRandomEvilGodNameCap] be damned, the wealth does more good in my coffers!;;;;;;;;;;;Òàê è çíàë[Root.GetEndA], ÷òî îíè ïîêëîíÿþòñÿ èìåííî ýòîìó.;;x
+EVTOPTC_ZE_21000;The clergy of [seize_church_target.GetName] surely does not need all that wealth!;;;;;;;;;;;Õðàì [seize_church_target.GetShortBaseName] ñëèøêîì áîãàò.;;x
+EVTOPTD_ZE_21000;Maybe this is a bad idea after all...;;;;;;;;;;;Ïîæàëóé, ýòî ïëîõàÿ èäåÿ...;;x
+EVTTOOLTIP_ZE_21100;Collect an 'extra' tax from the peasants of [extra_tax_target.GetName].;;;;;;;;;;;"Ñîáðàòü ""ñïåöèàëüíûé"" íàëîã ñ [extra_tax_target.County.GetAdjective]ñêèõ êðåñòüÿí.";;x
+EVTTOOLTIP_ZE_21200;Use brute force to extort [extortion_target.GetFullName].;;;;;;;;;;;[extortion_target.GetFullName] äàñò ìíå ñðåäñòâà, äàæå åñëè ïðèä¸òñÿ ïðèìåíèòü ñèëó.;;x
+EVTTOOLTIP_ZE_21300;Order your men to seize the wealth of the [seize_church_target.GetFullName].;;;;;;;;;;;Ñîãëàñíî Âàøåìó óêàçó [seize_church_target.GetFullName] îòäàñò âñ¸ öåííîå, Âàøè ëþäè ïîçàáîòÿòñÿ îá ýòîì.;;x

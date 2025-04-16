@@ -1,143 +1,125 @@
 # Difficulty
-easy_ai;Easy Difficulty;;;;;;;;;;;;;x
-easy_player;Easy Difficulty;;;;;;;;;;;;;x
-hard_ai;Hard Difficulty;;;;;;;;;;;;;x
-hard_player;Hard Difficulty;;;;;;;;;;;;;x
-very_easy_ai;Very Easy Difficulty;;;;;;;;;;;;;x
-very_easy_player;Very Easy Difficulty;;;;;;;;;;;;;x
-very_hard_ai;Very Hard Difficulty;;;;;;;;;;;;;x
-very_hard_player;Very Hard Difficulty;;;;;;;;;;;;;x
-
+easy_ai;Easy Difficulty;;;;;;;;;;;Ëåãêî ;;x
+easy_player;Easy Difficulty;;;;;;;;;;;Ëåãêî ;;x
+hard_ai;Hard Difficulty;;;;;;;;;;;Òÿæåëî ;;x
+hard_player;Hard Difficulty;;;;;;;;;;;Òÿæåëî ;;x
+very_easy_ai;Very Easy Difficulty;;;;;;;;;;;Î÷åíü ëåãêî ;;x
+very_easy_player;Very Easy Difficulty;;;;;;;;;;;Î÷åíü ëåãêî ;;x
+very_hard_ai;Very Hard Difficulty;;;;;;;;;;;Î÷åíü òÿæåëî ;;x
+very_hard_player;Very Hard Difficulty;;;;;;;;;;;Î÷åíü òÿæåëî ;;x
 # Province
-province_base_values;Base;;;;;;;;;;;;;x
-coastal;Coastal;;;;;;;;;;;;;x
-non_coastal;Non Coastal;;;;;;;;;;;;;x
-coastal_sea;Coastal Sea;;;;;;;;;;;;;x
-sea_zone;Sea Zone;;;;;;;;;;;;;x
-land_province;Base;;;;;;;;;;;;;x
-mild_winter;Mild Winter;;;;;;;;;;;;;x
-normal_winter;Normal Winter;;;;;;;;;;;;;x
-severe_winter;Severe Winter;;;;;;;;;;;;;x
-out_of_supply;Out of Supply;;;;;;;;;;;;;x
-no_adjacent_controlled;No Adjacent Controlled;;;;;;;;;;;;;x
-same_culture_group;Different Culture;;;;;;;;;;;;;x
-non_accepted_culture;Different Culture Group;;;;;;;;;;;;;x
-same_religion_group;Different Religion;;;;;;;;;;;;;x
-different_religion;Different Religion Group;;;;;;;;;;;;;x
-county_heresy;Heresy;;;;;;;;;;;;;x
-nomad_ruling_clan_too_powerful;Minor Clans on the Rise;;;;;;;;;;;;;x
-county_isolated;Isolated County;;;;;;;;;;;;;x
-new_administration;New Administration;;;;;;;;;;;;;x
-recently_conquered;Recently Conquered;;;;;;;;;;;;;x
-occupied;Recently Conquered;;;;;;;;;;;;;x
-occupied_different_culture;Recently conquered (different culture);;;;;;;;;;;;;x
-occupied_different_culturegroup;Recently conquered (different culture group);;;;;;;;;;;;;x
-occupied_different_religion;Recently conquered (different religion);;;;;;;;;;;;;x
-occupied_different_religiongroup;Recently conquered (different religious group);;;;;;;;;;;;;x
-looted_modifier;Looted;;;;;;;;;;;;;x
-maintaining_mercenary_band;Maintaining Mercenary Band;;;;;;;;;;;;;x
-maintaining_mercenary_band_desc;This holding is used to refill mercenary bands;;;;;;;;;;;;;x
-maintaining_mercenary_band_2;Maintaining Mercenary Band;;;;;;;;;;;;;x
-maintaining_mercenary_band_2_desc;This holding is used to refill mercenary bands;;;;;;;;;;;;;x
-maintaining_mercenary_band_3;Maintaining Mercenary Band;;;;;;;;;;;;;x
-maintaining_mercenary_band_3_desc;This holding is used to refill mercenary bands;;;;;;;;;;;;;x
-maintaining_mercenary_band_4;Maintaining Mercenary Band;;;;;;;;;;;;;x
-maintaining_mercenary_band_4_desc;This holding is used to refill mercenary bands;;;;;;;;;;;;;x
-maintaining_mercenary_band_5;Maintaining Mercenary Band;;;;;;;;;;;;;x
-maintaining_mercenary_band_5_desc;This holding is used to refill mercenary bands;;;;;;;;;;;;;x
-maintaining_mercenary_band_6;Maintaining Mercenary Band;;;;;;;;;;;;;x
-maintaining_mercenary_band_6_desc;This holding is used to refill mercenary bands;;;;;;;;;;;;;x
-maintaining_mercenary_band_7;Maintaining Mercenary Band;;;;;;;;;;;;;x
-maintaining_mercenary_band_7_desc;This holding is used to refill mercenary bands;;;;;;;;;;;;;x
-under_siege;Under Siege;;;;;;;;;;;;;x
-revolt_risk;Revolt Risk;;;;;;;;;;;;;x
-jizya_tax;[GetJizyaNameCap] Tax;;;;;;;;;;;;;x
-jizya_tax_desc;[GetJizyaDesc];;;;;;;;;;;;;x
-settled_adventurer;Settled Adventurer;;;;;;;;;;;;;x
-settled_adventurer_desc;The liege of these lands has settled an adventurer who protects the realm from raiders.;;;;;;;;;;;;;x
-
+province_base_values;Base;;;;;;;;;;;Áàçîâîå çíà÷åíèå;;x
+coastal;Coastal;;;;;;;;;;;Ïðèáðåæíûé ;;x
+non_coastal;Non Coastal;;;;;;;;;;;Íå ïðèáðåæíûé ;;x
+coastal_sea;Coastal Sea;;;;;;;;;;;Ïðèáðåæíîå ìîðå ;;x
+sea_zone;Sea Zone;;;;;;;;;;;Ìîðñêàÿ îáëàñòü ;;x
+land_province;Base;;;;;;;;;;;Áàçà;;x
+mild_winter;Mild Winter;;;;;;;;;;;Ò¸ïëàÿ Çèìà;;x
+normal_winter;Normal Winter;;;;;;;;;;;Îáû÷íàÿ çèìà ;;x
+severe_winter;Severe Winter;;;;;;;;;;;Ñóðîâàÿ çèìà ;;x
+out_of_supply;Out of Supply;;;;;;;;;;;Íåò ïîñòàâîê;;x
+no_adjacent_controlled;No Adjacent Controlled;;;;;;;;;;;Íåò êîíòðîëèðóåìûõ ñîñåäíèõ îêðóãîâ;;x
+same_culture_group;Different Culture;;;;;;;;;;;Äðóãàÿ êóëüòóðà;;x
+non_accepted_culture;Different Culture Group;;;;;;;;;;;Äðóãàÿ êóëüòóðíàÿ ãðóïïà;;x
+same_religion_group;Different Religion;;;;;;;;;;;Äðóãàÿ ðåëèãèÿ;;x
+different_religion;Different Religion Group;;;;;;;;;;;Äðóãàÿ ðåëèãèîçíàÿ ãðóïïà;;x
+county_heresy;Heresy;;;;;;;;;;;Åðåñü;;x
+nomad_ruling_clan_too_powerful;Minor Clans on the Rise;;;;;;;;;;;Ìàëûå êëàíû íåäîâîëüíû;;x
+county_isolated;Isolated County;;;;;;;;;;;Èçîëèðîâàííûé îêðóã;;x
+new_administration;New Administration;;;;;;;;;;;Íîâîå óïðàâëåíèå;;x
+recently_conquered;Recently Conquered;;;;;;;;;;;Íåäàâíåå çàâîåâàíèå;;x
+occupied;Recently Conquered;;;;;;;;;;;Íåäàâíåå çàâîåâàíèå;;x
+occupied_different_culture;Recently conquered (different culture);;;;;;;;;;;Íåäàâíåå çàâîåâàíèå (äðóãàÿ êóëüòóðà);;x
+occupied_different_culturegroup;Recently conquered (different culture group);;;;;;;;;;;Íåäàâíåå çàâîåâàíèå (äðóãàÿ êóëüòóðíàÿ ãðóïïà);;x
+occupied_different_religion;Recently conquered (different religion);;;;;;;;;;;Íåäàâíåå çàâîåâàíèå (äðóãàÿ ðåëèãèÿ);;x
+occupied_different_religiongroup;Recently conquered (different religious group);;;;;;;;;;;Íåäàâíåå çàâîåâàíèå (äðóãàÿ ðåëèãèîçíàÿ ãðóïïà);;x
+looted_modifier;Looted;;;;;;;;;;;Ðàçãðàáëåíî;;x
+maintaining_mercenary_band;Maintaining Mercenary Band;;;;;;;;;;;Ñîäåðæèò íà¸ìíèêîâ;;x
+maintaining_mercenary_band_desc;This holding is used to refill mercenary bands;;;;;;;;;;;Æèòåëè ýòîãî ïîñåëåíèÿ ïîïîëíÿþò ðÿäû íà¸ìíèêîâ;;x
+maintaining_mercenary_band_2;Maintaining Mercenary Band;;;;;;;;;;;Ñîäåðæàíèå íà¸ìíèêîâ;;x
+maintaining_mercenary_band_2_desc;This holding is used to refill mercenary bands;;;;;;;;;;;Ýòî ïîñåëåíèå ïîïîëíÿåò îòðÿäû íà¸ìíèêîâ;;x
+maintaining_mercenary_band_3;Maintaining Mercenary Band;;;;;;;;;;;Ñîäåðæàíèå íà¸ìíèêîâ;;x
+maintaining_mercenary_band_3_desc;This holding is used to refill mercenary bands;;;;;;;;;;;Ýòî ïîñåëåíèå ïîïîëíÿåò îòðÿäû íà¸ìíèêîâ;;x
+maintaining_mercenary_band_4;Maintaining Mercenary Band;;;;;;;;;;;Ñîäåðæàíèå íà¸ìíèêîâ;;x
+maintaining_mercenary_band_4_desc;This holding is used to refill mercenary bands;;;;;;;;;;;Ýòî ïîñåëåíèå ïîïîëíÿåò îòðÿäû íà¸ìíèêîâ;;x
+maintaining_mercenary_band_5;Maintaining Mercenary Band;;;;;;;;;;;Ñîäåðæàíèå íà¸ìíèêîâ;;x
+maintaining_mercenary_band_5_desc;This holding is used to refill mercenary bands;;;;;;;;;;;Ýòî ïîñåëåíèå ïîïîëíÿåò îòðÿäû íà¸ìíèêîâ;;x
+maintaining_mercenary_band_6;Maintaining Mercenary Band;;;;;;;;;;;Ñîäåðæàíèå íà¸ìíèêîâ;;x
+maintaining_mercenary_band_6_desc;This holding is used to refill mercenary bands;;;;;;;;;;;Ýòî ïîñåëåíèå ïîïîëíÿåò îòðÿäû íà¸ìíèêîâ;;x
+maintaining_mercenary_band_7;Maintaining Mercenary Band;;;;;;;;;;;Ñîäåðæàíèå íà¸ìíèêîâ;;x
+maintaining_mercenary_band_7_desc;This holding is used to refill mercenary bands;;;;;;;;;;;Ýòî ïîñåëåíèå ïîïîëíÿåò îòðÿäû íà¸ìíèêîâ;;x
+under_siege;Under Siege;;;;;;;;;;;Ïîä îñàäîé ;;x
+revolt_risk;Revolt Risk;;;;;;;;;;;Ðèñê áóíòà ;;x
+jizya_tax;[GetJizyaNameCap] Tax;;;;;;;;;;;[GetJizyaNameCap];;x
+jizya_tax_desc;[GetJizyaDesc];;;;;;;;;;;[GetJizyaDesc];;x
+settled_adventurer;Settled Adventurer;;;;;;;;;;;Èçâåñòíûé ãîëîâîðåç;;x
+settled_adventurer_desc;The liege of these lands has settled an adventurer who protects the realm from raiders.;;;;;;;;;;;Ïðàâèòåëü ýòèõ çåìåëü ïîñåëèë çäåñü çíàìåíèòîãî íàëåò÷èêà-àâàíòþðèñòà, êîòîðûé çàùèùàåò èõ îò íàáåãîâ ÷óæåçåìöåâ.;;x
 # Combat
-river_crossing;River crossing;;;;;;;;;;;;;x
-major_river_crossing;Major River crossing;;;;;;;;;;;;;x
-strait_crossing;Strait crossing;;;;;;;;;;;;;x
-amphibious_landing;Amphibious landing;;;;;;;;;;;;;x
-defenderbonus_arctic;Arctic;;;;;;;;;;;;;x
-defenderbonus_desert;Desert;;;;;;;;;;;;;x
-defenderbonus_farmlands;Farmlands;;;;;;;;;;;;;x
-defenderbonus_forest;Forest;;;;;;;;;;;;;x
-defenderbonus_hills;Hills;;;;;;;;;;;;;x
-defenderbonus_jungle;Jungle;;;;;;;;;;;;;x
-defenderbonus_mountain;Mountains;;;;;;;;;;;;;x
-defenderbonus_plains;Plains;;;;;;;;;;;;;x
-personally_leading_troops;Ruler Personally Leading Troops;;;;;;;;;;;;;x
-
+river_crossing;River crossing;;;;;;;;;;;Ïåðåñå÷åíèå ðåêè;;x
+major_river_crossing;Major River crossing;;;;;;;;;;;Êðóïíàÿ ïåðåïðàâà;;x
+strait_crossing;Strait crossing;;;;;;;;;;;Ïåðåñå÷åíèå ïðîëèâà;;x
+amphibious_landing;Amphibious landing;;;;;;;;;;;Âûñàäêà ñ ìîðÿ;;x
+defenderbonus_arctic;Arctic;;;;;;;;;;;Òóíäðà;;x
+defenderbonus_desert;Desert;;;;;;;;;;;Ïóñòûíÿ;;x
+defenderbonus_farmlands;Farmlands;;;;;;;;;;;Ïàøíè;;x
+defenderbonus_forest;Forest;;;;;;;;;;;Ëåñ;;x
+defenderbonus_hills;Hills;;;;;;;;;;;Õîëìû;;x
+defenderbonus_jungle;Jungle;;;;;;;;;;;Äæóíãëè;;x
+defenderbonus_mountain;Mountains;;;;;;;;;;;Ãîðû;;x
+defenderbonus_plains;Plains;;;;;;;;;;;Ðàâíèíû;;x
+personally_leading_troops;Ruler Personally Leading Troops;;;;;;;;;;;Ïðàâèòåëü ëè÷íî âîçãëàâëÿåò âîéñêà;;x
 # Attribute
-static_diplomacy_mod;Diplomacy Skill;;;;;;;;;;;;;x
-static_intrigue_mod;Intrigue Skill;;;;;;;;;;;;;x
-static_learning_mod;Learning;;;;;;;;;;;;;x
-static_martial_mod;Martial Skill;;;;;;;;;;;;;x
-static_stewardship_mod;Stewardship Skill;;;;;;;;;;;;;x
-
+static_diplomacy_mod;Diplomacy Skill;;;;;;;;;;;Íàâûê äèïëîìàòèè;;x
+static_intrigue_mod;Intrigue Skill;;;;;;;;;;;Íàâûê èíòðèãè;;x
+static_learning_mod;Learning;;;;;;;;;;;Íàâûê îáó÷åíèÿ;;x
+static_martial_mod;Martial Skill;;;;;;;;;;;Íàâûê âîåííîãî äåëà;;x
+static_stewardship_mod;Stewardship Skill;;;;;;;;;;;Íàâûê óïðàâëåíèÿ;;x
 # Realm
-base_values;Base Values;;;;;;;;;;;;;x
-
-war;War;;;;;;;;;;;;;x
-peace;Peace;;;;;;;;;;;;;x
-
-castle;Castle;;;;;;;;;;;;;x
-castle_desc;Castles are feudal holdings that come with an associated Barony. They are highly defensible and provide the highest quality levies. However, tax income is lower than from Cities or Temples.;;;;;;;;;;;;;x
-
-city;City;;;;;;;;;;;;;x
-city_desc;Cities are commercial hubs dominated by the burgher class. Cities are rich and provide a lot of tax, especially if administrated by a burgher character - a Mayor. However, city levies are of relatively low quality.;;;;;;;;;;;;;x
-
-temple;Temple;;;;;;;;;;;;;x
-temple_desc;Temples provide moderate income and good levies. They may also give Piety to their holder, and the holder's liege.;;;;;;;;;;;;;x
-
-trade_post;Trade Post;;;;;;;;;;;;;x
-
-tribal;Tribe;;;;;;;;;;;;;x
-tribal_desc;Tribal 'Holdings' provide very little income, and there can only be one Tribal 'Holding' in each county. These 'Holdings' represent the entire local tribal population - the more empty Holding slots, the more powerful the Tribal Holding.;;;;;;;;;;;;;x
-
-nomad;Nomad;;;;;;;;;;;;;x
-
-fort;Fort;;;;;;;;;;;;;x
-
-hospital;Hospital;;;;;;;;;;;;;x
-
+base_values;Base Values;;;;;;;;;;;Áàçîâûå ïîêàçàòåëè;;x
+war;War;;;;;;;;;;;Âîéíà ;;x
+peace;Peace;;;;;;;;;;;Ìèð;;x
+castle;Castle;;;;;;;;;;;Êðåïîñòü;;x
+castle_desc;Castles are feudal holdings that come with an associated Barony. They are highly defensible and provide the highest quality levies. However, tax income is lower than from Cities or Temples.;;;;;;;;;;;Çàìêè - ôåîäàëüíûå âëàäåíèÿ, óïðàâëÿåìûå áàðîíàìè. Îíè î÷åíü õîðîøî çàùèùåíû. Êðîìå òîãî, â íèõ ìîæíî íàáðàòü îòëè÷íî îáó÷åííîå îïîë÷åíèå. Îäíàêî, äîõîäû îò íàëîãîâ çäåñü íèæå, ÷åì â äðóãèõ òèïàõ âëàäåíèé.;;x
+city;City;;;;;;;;;;;Ãîðîä;;x
+city_desc;Cities are commercial hubs dominated by the burgher class. Cities are rich and provide a lot of tax, especially if administrated by a burgher character - a Mayor. However, city levies are of relatively low quality.;;;;;;;;;;;Ãîðîäà - ýòî êðóïíûå òîðãîâûå öåíòðû. Îíè î÷åíü áîãàòû è ïëàòÿò Âàì áîëüøèå íàëîãè, îñîáåííî åñëè èìè óïðàâëÿþò ëþäè èç ãîðîäñêîãî ñîñëîâèÿ - ìýðû. Îäíàêî, ãîðîäñêèå îïîë÷åíöû - íå ñàìûå ëó÷øèå ñîëäàòû.;;x
+temple;Temple;;;;;;;;;;;Õðàì;;x
+temple_desc;Temples provide moderate income and good levies. They may also give Piety to their holder, and the holder's liege.;;;;;;;;;;;Õðàìû áîãàòû è ìîãóò ñîáðàòü îòëè÷íîå îïîë÷åíèå. Êðîìå òîãî, îíè ïðèíîñÿò áëàãî÷åñòèå èõ âëàäåëüöó è åãî ñþçåðåíó.;;x
+trade_post;Trade Post;;;;;;;;;;;Òîðãîâîå ïðåäñòàâèòåëüñòâî;;x
+tribal;Tribe;;;;;;;;;;;Ñåëî;;x
+tribal_desc;Tribal 'Holdings' provide very little income, and there can only be one Tribal 'Holding' in each county. These 'Holdings' represent the entire local tribal population - the more empty Holding slots, the more powerful the Tribal Holding.;;;;;;;;;;;Ïëåìåííûå ïîñåëåíèÿ ïðèíîñÿò ìàëî äîõîäà. Â êàæäîì îêðóãå ìîæåò áûòü òîëüêî îäíî ïëåìåííîå ïîñåëåíèå, îíî ñîäåðæèò â ñåáå âñ¸ ìåñòíîå íàñåëåíèå ïëåìåííîé îáùèíû, è ÷åì áîëüøå â îêðóãå ñâîáîäíûõ çåìåëü (ïóñòûõ ÿ÷ååê), òåì îíî ìîãóùåñòâåííåå.;;x
+nomad;Nomad;;;;;;;;;;;Ñòîéáèùå;;x
+fort;Fort;;;;;;;;;;;Ôîðò;;x
+hospital;Hospital;;;;;;;;;;;Ãîñïèòàëü;;x
 # Age
-age_child;Child;;;;;;;;;;;;;x
-age_teen;Teenager;;;;;;;;;;;;;x
-age_young;Young Adult;;;;;;;;;;;;;x
-age_adult;Adult;;;;;;;;;;;;;x
-age_old;Old Age;;;;;;;;;;;;;x
-age_very_old;Old Age;;;;;;;;;;;;;x
-
+age_child;Child;;;;;;;;;;;Äèòÿ;;x
+age_teen;Teenager;;;;;;;;;;;Ïîäðîñòîê;;x
+age_young;Young Adult;;;;;;;;;;;Ìîëîäîé âîçðàñò;;x
+age_adult;Adult;;;;;;;;;;;Âçðîñëûé âîçðàñò;;x
+age_old;Old Age;;;;;;;;;;;Ïîæèëîé âîçðàñò;;x
+age_very_old;Old Age;;;;;;;;;;;Ïðåêëîííûé âîçðàñò;;x
 # Job action
-statecraft_liege_mod;Councilor: Statecraft;;;;;;;;;;;;;x
-apostate_liege_mod;Councilor: Hunt Apostates;;;;;;;;;;;;;x
-organize_army_liege_mod;Councilor: Organize Army;;;;;;;;;;;;;x
-
+statecraft_liege_mod;Councilor: Statecraft;;;;;;;;;;;Ñîâåòíèê: ó÷àñòèå â ãîñäåëàõ;;x
+apostate_liege_mod;Councilor: Hunt Apostates;;;;;;;;;;;Ñîâåòíèê: ïðåñëåäîâàíèå âåðîîòñòóïíèêîâ;;x
+organize_army_liege_mod;Councilor: Organize Army;;;;;;;;;;;Ñîâåòíèê: îðãàíèçàöèÿ àðìèè;;x
 # Society
-successful_mission;Successful Mission;;;;;;;;;;;;;x
-successful_mission_stacked;Successful Missions;;;;;;;;;;;;;x
-failed_mission;Failed Mission;;;;;;;;;;;;;x
-failed_mission_stacked;Failed Missions;;;;;;;;;;;;;x
-
+successful_mission;Successful Mission;;;;;;;;;;;Óñïåøíîå çàäàíèå;;x
+successful_mission_stacked;Successful Missions;;;;;;;;;;;Óñïåøíûå çàäàíèÿ;;x
+failed_mission;Failed Mission;;;;;;;;;;;Ïðîâàëåííîå çàäàíèå;;x
+failed_mission_stacked;Failed Missions;;;;;;;;;;;Ïðîâàëåííûå çàäàíèÿ;;x
 # Government
-nomad_horse_offensive_modifier;Capital is in a Steppe, Desert or Plains county;;;;;;;;;;;;;x
-nomad_horse_defensive_modifier;Capital is in a Mountains, Hills or Arctic county;;;;;;;;;;;;;x
-tribal_wrong_religion_group_modifier;Wrong Religion;;;;;;;;;;;;;x
-tribal_wrong_religion_reformed_modifier;Wrong Religion;;;;;;;;;;;;;x
-tribal_wrong_religion_modifier;Wrong Religion;;;;;;;;;;;;;x
-tribal_wrong_culture_group_modifier;Wrong Culture;;;;;;;;;;;;;x
-tribal_wrong_culture_modifier;Wrong Culture;;;;;;;;;;;;;x
-
+nomad_horse_offensive_modifier;Capital is in a Steppe, Desert or Plains county;;;;;;;;;;;Ñòîëèöà íàõîäèòñÿ íà ñòåïíîé, ïóñòûííîé èëè ðàâíèííîé ìåñòíîñòè;;x
+nomad_horse_defensive_modifier;Capital is in a Mountains, Hills or Arctic county;;;;;;;;;;;Ñòîëèöà íàõîäèòñÿ â ãîðàõ, íà õîëìàõ èëè â àðêòè÷åñêîé çîíå;;x
+tribal_wrong_religion_group_modifier;Wrong Religion;;;;;;;;;;;Äðóãàÿ âåðà;;x
+tribal_wrong_religion_reformed_modifier;Wrong Religion;;;;;;;;;;;Äðóãàÿ âåðà;;x
+tribal_wrong_religion_modifier;Wrong Religion;;;;;;;;;;;Äðóãàÿ âåðà;;x
+tribal_wrong_culture_group_modifier;Wrong Culture;;;;;;;;;;;×óæàÿ êóëüòóðà;;x
+tribal_wrong_culture_modifier;Wrong Culture;;;;;;;;;;;×óæàÿ êóëüòóðà;;x
 # Liege levy
-capital_county_independent_holder;Capital County;;;;;;;;;;;;;x
-capital_county_vassal_count;Capital County;;;;;;;;;;;;;x
-capital_county_vassal;Capital County;;;;;;;;;;;;;x
-capital_duchy_independent_holder;Capital Duchy;;;;;;;;;;;;;x
-capital_duchy_vassal;Capital Duchy;;;;;;;;;;;;;x
-capital_kingdom;Capital Kingdom;;;;;;;;;;;;;x
-capital_empire;Capital Empire;;;;;;;;;;;;;x
-outside_capital_empire;Outside Capital Regions;;;;;;;;;;;;;x
+capital_county_independent_holder;Capital County;;;;;;;;;;;Ñòîëè÷íûé îêðóã;;x
+capital_county_vassal_count;Capital County;;;;;;;;;;;Ñòîëè÷íûé îêðóã;;x
+capital_county_vassal;Capital County;;;;;;;;;;;Ñòîëè÷íûé îêðóã;;x
+capital_duchy_independent_holder;Capital Duchy;;;;;;;;;;;Ñòîëè÷íîå ãåðöîãñòâî;;x
+capital_duchy_vassal;Capital Duchy;;;;;;;;;;;Ñòîëè÷íîå ãåðöîãñòâî;;x
+capital_kingdom;Capital Kingdom;;;;;;;;;;;Ñòîëè÷íîå êîðîëåâñòâî;;x
+capital_empire;Capital Empire;;;;;;;;;;;Ñòîëè÷íàÿ èìïåðèÿ;;x
+outside_capital_empire;Outside Capital Regions;;;;;;;;;;;Âíåøíèå ðåãèîíû;;x

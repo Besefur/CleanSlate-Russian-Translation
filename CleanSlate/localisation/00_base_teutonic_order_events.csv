@@ -1,29 +1,24 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTNAME8703;The Teutonic Order;;;;;;;;;;;;;x
-
-EVTDESC8700;Several Kingdoms in Europe are fighting to keep the pagans back and try to spread Christianity eastwards. The Teutonic Order should assist them by offering to settle on their borders.;;;;;;;;;;;;;x
-EVTDESC8701;To the Great [Root.GetTitledFirstName],\nYour wisdom and mercy are legendary. The Teutonic Order wishes to assist you in your valiant struggle against the pagans. By transfering a border County to the order, we will be able to establish a local presence and fight these heathens.;;;;;;;;;;;;;x
-EVTDESC8702;[From.GetTitledName] has graciously seceded the [Root.County.GetFullName] to us. The Teutonic Order will now be able to effectively fight the heathens in this region.;;;;;;;;;;;;;x
-EVTDESC8703;In an effort to defend [FromFrom.PrimaryTitle.GetName] against pagan attacks, [FromFrom.GetTitledFirstName] has granted the Teutonic Order the [From.County.GetFullName]. This county has never been fully settled and many of the population are still heathens. This noble gesture could help protect the endangered frontier of [FromFrom.PrimaryTitle.GetName] as well as further the Holy War against pagans.;;;;;;;;;;;;;x
-EVTDESC8720;The Teutonic Order wishes to expand into the Baltics in order to better fight the heathens. To show my support, perhaps I should offer them a county of mine?;;;;;;;;;;;;;x
-EVTDESC8721;My liege,\nI wish to support The Teutonic Order by grating them a county, and seek your approval.\n\nYour humble vassal,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC8722;My liege,\nMy vassal, [FromFrom.GetTitledName] wishes to support The Teutonic Order by grating them a county. I would of course not allow such an important decision without first seeking your approval.\n\nYour humble vassal,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC8723;Your generous offer of grating a county to The Teutonic Order has met with my approval.\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC8724;I will not permit that you cede any territory to The Teutonic Order!\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC8725;To the Great [Root.GetTitledFirstName],\nYour bravery is legendary. I wish to support you in your valiant struggle against the heathens, and hereby offer to transfer a County to the order.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC8800;Holy Order or not, I will not let any foreign power establish a hold in my realm.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-
-EVTOPTA8700;I will send an offer;;;;;;;;;;;;;x
-EVTOPTA8720;Their precense is most welcome;;;;;;;;;;;;;x
-EVTOPTA8721;I better leave this decision to my liege;;;;;;;;;;;;;x
-EVTOPTA8722;Excelent proposal!;;;;;;;;;;;;;x
-EVTOPTA8723;Then so it shall be!;;;;;;;;;;;;;x
-EVTOPTA8724;Then I will retract my offer;;;;;;;;;;;;;x
-EVTOPTA8800;Outrageous!;;;;;;;;;;;;;x
-
-EVTOPTB8720;I would never give away my land;;;;;;;;;;;;;x
-EVTOPTB8721;You have my blessing;;;;;;;;;;;;;x
-EVTOPTB8722;I will not permit any ceding of land;;;;;;;;;;;;;x
-
-EVTOPTC8721;No land is to be ceded;;;;;;;;;;;;;x
+EVTNAME8703;The Teutonic Order;;;;;;;;;;;Tåâòîíñêèé îðäåí;;x
+EVTDESC8700;Several Kingdoms in Europe are fighting to keep the pagans back and try to spread Christianity eastwards. The Teutonic Order should assist them by offering to settle on their borders.;;;;;;;;;;;Íåñêîëüêî åâðîïåéñêèõ êîðîëåâñòâ âîþþò, ñäåðæèâàÿ ÿçû÷íèêîâ, è ïûòàþòñÿ ðàñïðîñòðàíèòü Ñâÿòóþ Âåðó íà âîñòîêå. Òåâòîíñêèé îðäåí äîëæåí ïîìî÷ü áðàòüÿì ïî âåðå, îñíîâàâ ïîñåëåíèÿ â èõ ïîãðàíè÷íûõ îêðóãàõ.;;x
+EVTDESC8701;To the Great [Root.GetTitledFirstName],\nYour wisdom and mercy are legendary. The Teutonic Order wishes to assist you in your valiant struggle against the pagans. By transfering a border County to the order, we will be able to establish a local presence and fight these heathens.;;;;;;;;;;;[Root.GetTitledFirstName],\n Î Âàøåé ìóäðîñòè è ìèëîñåðäèè ñëàãàþò ëåãåíäû. Òåâòîíñêèé îðäåí õî÷åò ïîìî÷ü Âàì â Âàøåé äîáëåñòíîé áîðüáå ñ ÿçû÷íèêàìè. Ïåðåäàéòå ïîãðàíè÷íûå âëàäåíèÿ îðäåíó è ìû, óñòàíîâèâ òàì ñâî¸ ïðèñóòñòâèå, ñìîæåì ñðàæàòüñÿ çà Âàñ.;;x
+EVTDESC8702;[From.GetTitledName] has graciously seceded the [Root.County.GetFullName] to us. The Teutonic Order will now be able to effectively fight the heathens in this region.;;;;;;;;;;;[From.GetTitledName] ìèëîñòèâî ïåðåäà¸ò òåððèòîðèþ, [Root.County.GetFullName], íàì. Îòíûíå Òåâòîíñêèé îðäåí ñìîæåì áîëåå ýôôåêòèâíåå áîðîòüñÿ ñ ÿçû÷íèêàìè â ýòîì ðåãèîíå.;;x
+EVTDESC8703;In an effort to defend [FromFrom.PrimaryTitle.GetName] against pagan attacks, [FromFrom.GetTitledFirstName] has granted the Teutonic Order the [From.County.GetFullName]. This county has never been fully settled and many of the population are still heathens. This noble gesture could help protect the endangered frontier of [FromFrom.PrimaryTitle.GetName] as well as further the Holy War against pagans.;;;;;;;;;;;Äëÿ çàùèòû [FromFrom.PrimaryTitle.GetAdjective]ñêîé çåìëè îò íàïàäåíèÿ ÿçû÷íèêîâ, [FromFrom.GetTitledFirstName] ïåðåäà¸ò îêðóã [From.County.GetName] Òåâòîíñêîìó îðäåíó. Ýòà çåìëÿ íèêîãäà íå áûëà àññèìèëèðîâàíà è áîëüøàÿ ÷àñòü å¸ íàñåëåíèÿ - ÿçû÷íèêè. Ñòîëü áëàãîðîäíûé æåñò óêðåïèò ãðàíèöû [FromFrom.PrimaryTitle.GetAdjective]ñêîãî ãîñóäàðñòâà, à òàêæå ïîìîæåò â äàëüíåéøåé Ñâÿòîé Âîéíå ïðîòèâ ÿçû÷íèêîâ.;;x
+EVTDESC8720;The Teutonic Order wishes to expand into the Baltics in order to better fight the heathens. To show my support, perhaps I should offer them a county of mine?;;;;;;;;;;;Òåâòîíñêèé îðäåí ðàñøèðÿåòñÿ íà òåððèòîðèè Áàëòèêè, ÷òîáû óñïåøíåå áîðîòüñÿ ñ ÿçû÷íèêàìè. Äîëæåí ëè ÿ ïîìî÷ü èì, ïåðåäàâ íåêîòîðûå çåìëè ïîä èõ êîíòðîëü?;;x
+EVTDESC8721;My liege,\nI wish to support The Teutonic Order by grating them a county, and seek your approval.\n\nYour humble vassal,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\n ìíå õîòåëîñü áû ïåðåäàòü çåìëè Òåâòîíñêîìó îðäåíó, è ÿ íàäåþñü íà Âàøå îäîáðåíèå.\nÂàø ñêðîìíûé âàññàë,\n[From.GetTitledName];;x
+EVTDESC8722;My liege,\nMy vassal, [FromFrom.GetTitledName] wishes to support The Teutonic Order by grating them a county. I would of course not allow such an important decision without first seeking your approval.\n\nYour humble vassal,\n[From.GetTitledName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\n ìîé âàññàë, [FromFrom.GetTitledName], æåëàåò ïåðåäàòü ñâîè çåìëè Òåâòîíñêîìó îðäåíó. ß ñ÷èòàþ, ÷òî íå èìåþ ïðàâà ïîçâîëÿòü èì ýòîãî, áåç Âàøåãî íà òî ñîãëàñèÿ.\nÈñêðåííå Âàø,\n[From.GetTitledName];;x
+EVTDESC8723;Your generous offer of grating a county to The Teutonic Order has met with my approval.\n[From.GetTitledName];;;;;;;;;;;Òåâòîíñêèé îðäåí ïî äîñòîèíñòâó îöåíèë Âàøó ùåäðîñòü.\n[From.GetTitledName];;x
+EVTDESC8724;I will not permit that you cede any territory to The Teutonic Order!\n[From.GetTitledName];;;;;;;;;;;ß íå ïîçâîëþ îòäàòü çåìëè Òåâòîíöàì.\n[From.GetTitledName];;x
+EVTDESC8725;To the Great [Root.GetTitledFirstName],\nYour bravery is legendary. I wish to support you in your valiant struggle against the heathens, and hereby offer to transfer a County to the order.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;Äîñòî÷òèì[Root.GetAyaYy] [Root.GetTitledFirstName],\nÂàøà õðàáðîñòü ïîèñòèíå ëåãåíäàðíà. ß õî÷ó ïîìî÷ü Âàì, è îòäàþ ñâîè çåìëè â Âàøå ðàñïîðÿæåíèå..\nÏîäïèñü:\n [From.GetTitledName];;x
+EVTDESC8800;Holy Order or not, I will not let any foreign power establish a hold in my realm.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;Ñâÿòîé ýòîò îðäåí èëè íåò - íåâàæíî. ß íå ïîçâîëþ íèêàêîé èíîñòðàííîé äåðæàâå îñíîâàòü âëàäåíèå â ìî¸ì ãîñóäàðñòâå!\nÏîäïèñü:\n [From.GetTitledName];;x
+EVTOPTA8700;I will send an offer;;;;;;;;;;;ß ïîøëþ ïðåäëîæåíèå;;x
+EVTOPTA8720;Their precense is most welcome;;;;;;;;;;;Èõ ïðèñóòñòâèå ñëåäóåò âñÿ÷åñêè ïðèâåòñòâîâàòü.;;x
+EVTOPTA8721;I better leave this decision to my liege;;;;;;;;;;;Ïóñòü ëó÷øå âàññàëû ñ ýòèì ðàçáèðàþòñÿ.;;x
+EVTOPTA8722;Excelent proposal!;;;;;;;;;;;Îòëè÷íîå ïðåäëîæåíèå!;;x
+EVTOPTA8723;Then so it shall be!;;;;;;;;;;;Òàê òîìó è áûòü!;;x
+EVTOPTA8724;Then I will retract my offer;;;;;;;;;;;Â òàêîì ñëó÷àå, ÿ îòìåíÿþ ñâîè óêàçû.;;x
+EVTOPTA8800;Outrageous!;;;;;;;;;;;Âîçìóòèòåëüíî!;;x
+EVTOPTB8720;I would never give away my land;;;;;;;;;;;ß íèêîãäà íå îòäàì ñâîþ çåìëþ!;;x
+EVTOPTB8721;You have my blessing;;;;;;;;;;;ß áëàãîñëîâëÿþ Âàñ.;;x
+EVTOPTB8722;I will not permit any ceding of land;;;;;;;;;;;ß íå óñòóïëþ ñâîèõ çåìåëü.;;x
+EVTOPTC8721;No land is to be ceded;;;;;;;;;;;Ëèøíèõ çåìåëü íå áûâàåò.;;x

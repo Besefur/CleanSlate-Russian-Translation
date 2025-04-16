@@ -1,21 +1,18 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
 # Also see UNIT_ARMY_NAME, RAIDER_ARMY(_NAME), (HORDE_)RETINUE_OF
-EoD_uprising_troops_ARMY;Army;;;;;;;;;;;;;x
-nomad_ARMY;$CULTURE$ Nomads;;;;;;;;;;;;;x
-nomad_ARMY_OF;Nomads of $CHARACTER$;;;;;;;;;;;;;x
-tribal_build_legend_ARMY;Warriors;;;;;;;;;;;;;x
-tribal_build_legend_ARMY_OF;Warriors of $CHARACTER$;;;;;;;;;;;;;x
-tribal_build_zeal_ARMY;$RELIGION$ Zealots;;;;;;;;;;;;;x
-tribal_build_zeal_ARMY_OF;$RELIGION$ Zealots of $CHARACTER$;;;;;;;;;;;;;x
-tribal_organize_raid_ARMY;Raiders;;;;;;;;;;;;;x
-tribal_organize_raid_ARMY_OF;Raiders of $CHARACTER$;;;;;;;;;;;;;x
-
+EoD_uprising_troops_ARMY;Army;;;;;;;;;;;Àðìèÿ;;x
+nomad_ARMY;$CULTURE$ Nomads;;;;;;;;;;;$CULTURE$[_]§!èå êî÷åâíèêè;;x
+nomad_ARMY_OF;Nomads of $CHARACTER$;;;;;;;;;;;Êî÷åâíèêè ($CHARACTER$);;x
+tribal_build_legend_ARMY;Warriors;;;;;;;;;;;-Âîèíû;;x
+tribal_build_legend_ARMY_OF;Warriors of $CHARACTER$;;;;;;;;;;;-Âîèíû ($CHARACTER$);;x
+tribal_build_zeal_ARMY;$RELIGION$ Zealots;;;;;;;;;;;-Èçóâåðû ($RELIGION$[__]);;x
+tribal_build_zeal_ARMY_OF;$RELIGION$ Zealots of $CHARACTER$;;;;;;;;;;;-Èçóâåðû ($CHARACTER$/$RELIGION$[__]);;x
+tribal_organize_raid_ARMY;Raiders;;;;;;;;;;;-Íàë¸ò÷èêè;;x
+tribal_organize_raid_ARMY_OF;Raiders of $CHARACTER$;;;;;;;;;;;-Íàë¸ò÷èêè ($CHARACTER$);;x
 # Non-functional army names
-call_to_glory_disciplined;Disciplined Warriors;;;;;;;;;;;;;x
-call_to_glory_rowdy;Rowdy Warriors;;;;;;;;;;;;;x
-pirate_mercenaries;Mercenaries;;;;;;;;;;;;;x
-
+call_to_glory_disciplined;Disciplined Warriors;;;;;;;;;;;Óìåëûå âîèíû;;x
+call_to_glory_rowdy;Rowdy Warriors;;;;;;;;;;;Íåèñòîâûå âîèíû;;x
+pirate_mercenaries;Mercenaries;;;;;;;;;;;Íà¸ìíèêè;;x
 # Earmarked troops without localisation
 # assassin_troops
 # assassin_ships

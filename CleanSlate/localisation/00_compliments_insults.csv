@@ -1,299 +1,299 @@
-COMPL_AFFABLE;affable;;;;;;;;;;;;;x # male - gregarious
-COMPL_ARCHITECT;architect;;;;;;;;;;;;;x # male female - architect
-COMPL_AUDACIOUS;audacious;;;;;;;;;;;;;x # male female - adventurer
-COMPL_AUGUSTUS;Augustus;;;;;;;;;;;;;x # male female - augustus
-COMPL_BEAUTY;beauty;;;;;;;;;;;;;x # female - fair
-COMPL_BERSERKER;berserker;;;;;;;;;;;;;x # male female - berserker
-COMPL_BLADEMASTER;blademaster;;;;;;;;;;;;;x # male - duelist
-COMPL_BRAVE;brave;;;;;;;;;;;;;x # male female - brave
-COMPL_BRILLIANT;brilliant;;;;;;;;;;;;;x # male female - genius
-COMPL_CHAMPION;champion;;;;;;;;;;;;;x # female - duelist
-COMPL_CHARMER;charmer;;;;;;;;;;;;;x # male - seducer
-COMPL_CHARMING;charming;;;;;;;;;;;;;x # male seducer
-COMPL_CHASTE;chaste;;;;;;;;;;;;;x # male female - chaste
-COMPL_CLEVER;clever;;;;;;;;;;;;;x # male female child - genius...
-COMPL_CONQUEROR;conqueror;;;;;;;;;;;;;x # male female - adventurer
-COMPL_CRUSADER;Crusader;;;;;;;;;;;;;x # male female - crusader
-COMPL_DEAR;dear;;;;;;;;;;;;;x # male female
-COMPL_DEMURE;demure;;;;;;;;;;;;;x # female - shy
-COMPL_DEVIL;devil;;;;;;;;;;;;;x # female - arbitrary
-COMPL_DILIGENT;diligent;;;;;;;;;;;;;x # male female - diligent
-COMPL_ELOQUENT;eloquent;;;;;;;;;;;;;x # male female - (diplomacy)
-COMPL_ENCHANTRESS;enchantress;;;;;;;;;;;;;x # female - seductress
-COMPL_FAIR;fair;;;;;;;;;;;;;x # female - fair
-COMPL_FAQIH;Faqih;;;;;;;;;;;;;x # male female - faqih
-COMPL_FETCHING;fetching;;;;;;;;;;;;;x # female - gregarious
-COMPL_FORTHRIGHT;forthright;;;;;;;;;;;;;x # female - honest
-COMPL_FRUGAL;frugal;;;;;;;;;;;;;x
-COMPL_GENIUS;genius;;;;;;;;;;;;;x # male female - genius
-COMPL_GOOD;good;;;;;;;;;;;;;x # male female - timid charitable \ zealous honest child
-COMPL_GREAT;great;;;;;;;;;;;;;x
-COMPL_HAFIZ;Hafiz;;;;;;;;;;;;;x # male female - hafiz
-COMPL_HAJJAJ;Hajjaj;;;;;;;;;;;;;x # male female - hajjaj
-COMPL_HANDSOME;handsome;;;;;;;;;;;;;x # male - fair
-COMPL_HERO;hero;;;;;;;;;;;;;x # child - gregarious
-COMPL_HOLY_WARRIOR;holy warrior;;;;;;;;;;;;;x # male female - holy_warrior
-COMPL_HUMBLE;humble;;;;;;;;;;;;;x # male female - humble
-COMPL_HUNTMASTER;huntmaster;;;;;;;;;;;;;x # male - hunter
-COMPL_IMPISH;impish;;;;;;;;;;;;;x # female - arbitrary
-COMPL_JUST;just;;;;;;;;;;;;;x # male female - just
-COMPL_KAILASH_GUARDIAN;Guardian;;;;;;;;;;;;;x
-COMPL_KINDHEARTED;kindhearted;;;;;;;;;;;;;x # female - kind
-COMPL_KINDLY;kindly;;;;;;;;;;;;;x # male - kind
-COMPL_LADY;lady;;;;;;;;;;;;;x
-COMPL_LEARNED;learned;;;;;;;;;;;;;x # male female - physician theologian
-COMPL_LEVELHEADED;levelheaded;;;;;;;;;;;;;x # male - temperate
-COMPL_LORD;lord;;;;;;;;;;;;;x
-COMPL_LOVELY;lovely;;;;;;;;;;;;;x # male female - playful
-COMPL_MAGNIFICENT;magnificent;;;;;;;;;;;;;x
-COMPL_MIRZA;mirza;;;;;;;;;;;;;x # male female - mirza
-COMPL_MONK;monk;;;;;;;;;;;;;x # male
-COMPL_MUJAHID;Mujahid;;;;;;;;;;;;;x # male female - mujahid
-COMPL_MYSTIC;mystic;;;;;;;;;;;;;x # male female - mystic
-COMPL_NICE;nice;;;;;;;;;;;;;x # shy gregarious just child (diplomacy) \ lustful female
-COMPL_NUN;nun;;;;;;;;;;;;;x # female
-COMPL_PILGRIM;pilgrim;;;;;;;;;;;;;x # male female pilgrim
-COMPL_PIRATE;pirate;;;;;;;;;;;;;x # male female - viking ravager seaking sea_queen
-COMPL_PLEASANT;pleasant;;;;;;;;;;;;;x # female - temperate
-COMPL_POET;poet;;;;;;;;;;;;;x # male female - poet
-COMPL_PRETTY;pretty;;;;;;;;;;;;;x # child - fair
-COMPL_PROUD;proud;;;;;;;;;;;;;x # male female - proud haughty
-COMPL_PURPLE_BORN;purple-born;;;;;;;;;;;;;x # male female - born_in_the_purple
-COMPL_RAFFISH;raffish;;;;;;;;;;;;;x # male - arbitrary
-COMPL_RAVISHING;ravishing;;;;;;;;;;;;;x # female - seductress
-COMPL_RIGHTEOUS;righteous;;;;;;;;;;;;;x # male female - zealous (religious warriors)
-COMPL_ROGUE;rogue;;;;;;;;;;;;;x # male - arbitrary
-COMPL_SAOSHYANT;Saoshyant;;;;;;;;;;;;;x # male female - saoshyant
-COMPL_SAYYID;Sayyid;;;;;;;;;;;;;x # male - sayyid
-COMPL_SAYYIDA;Sayyida;;;;;;;;;;;;;x # female - sayyid
-COMPL_SCHOLAR;scholar;;;;;;;;;;;;;x # male female - physician theologian erudite
-COMPL_SEDUCER;seducer;;;;;;;;;;;;;x # male - seducer
-COMPL_SINCERE;sincere;;;;;;;;;;;;;x # male - honest
-COMPL_SMARTY;smarty;;;;;;;;;;;;;x # child - genius mystic scholar arbitrary
-COMPL_STRONG;strong;;;;;;;;;;;;;x # male - strong robust
-COMPL_SWEET;sweet;;;;;;;;;;;;;x # male female - affectionate
-COMPL_THRIFTY;thrifty;;;;;;;;;;;;;x # male female - (stewardship)
-COMPL_VALHALLA_BOUND_FEMALE;Daughter of Odin;;;;;;;;;;;;;x
-COMPL_VALHALLA_BOUND_MALE;Son of Odin;;;;;;;;;;;;;x
-COMPL_VALKYRIE;valkyrie;;;;;;;;;;;;;x # female
-COMPL_VIKING;viking;;;;;;;;;;;;;x # male female
-COMPL_VIKING_adj;viking;;;;;;;;;;;;;x
-COMPL_VIRTUOUS;virtuous;;;;;;;;;;;;;x # male female - celibate
-COMPL_VIVACIOUS;vivacious;;;;;;;;;;;;;x # lustful
-COMPL_WISE;wise;;;;;;;;;;;;;x # male female - erudite faqih
-COMPL_WIT;wit;;;;;;;;;;;;;x # male female - gregarious
-COMPL_WRY;wry;;;;;;;;;;;;;x # male female - cynical
-DIPLOFLAVOR_FLATTERY_0;Blessings upon you and your House.;;;;;;;;;;;;;x
-DIPLOFLAVOR_FLATTERY_1;Your wisdom and mercy are legendary.;;;;;;;;;;;;;x
-DIPLOFLAVOR_FLATTERY_2;Peace be with you.;;;;;;;;;;;;;x
-DIPLOFLAVOR_FLATTERY_3;May you live in harmony and contentment.;;;;;;;;;;;;;x
-DIPLOFLAVOR_INSULT_0;Tales of your misdeeds are told from Ireland to Cathay.;;;;;;;;;;;;;x
-DIPLOFLAVOR_INSULT_1;Your low character is the subject of Greek plays.;;;;;;;;;;;;;x
-DIPLOFLAVOR_INSULT_2;May your humors rot in your living body.;;;;;;;;;;;;;x
-DIPLOFLAVOR_INSULT_3;May your years be short and miserable.;;;;;;;;;;;;;x
-DIPLOFLAVOR_INSULT_4;May wisdom ever elude you.;;;;;;;;;;;;;x
-DIPLOFLAVOR_INSULT_muslim_0;Damn your seventh grandfather.;;;;;;;;;;;;;x
-DIPLOFLAVOR_INSULT_muslim_1;May you be sewn up alive in the belly of a dead camel.;;;;;;;;;;;;;x
-DIPLOFLAVOR_INSULT_muslim_2;May Allah destroy your house.;;;;;;;;;;;;;x
-DIPLOFLAVOR_INSULT_muslim_3;You child of a mangy dog.;;;;;;;;;;;;;x
-INSULT_ABOMINATION;abomination;;;;;;;;;;;;;x # noun - male - inbred
-INSULT_ARROGANT;arrogant;;;;;;;;;;;;;x # male female - haughty
-INSULT_BASEBORN;baseborn;;;;;;;;;;;;;x # male female - legit_bastard
-INSULT_BASTARD;bastard;;;;;;;;;;;;;x # noun - male female - bastard
-INSULT_BAT;bat;;;;;;;;;;;;;x # noun - female - lunatic
-INSULT_BESOTTED;besotted;;;;;;;;;;;;;x # male female - drunkard
-INSULT_BIGOT;bigot;;;;;;;;;;;;;x # noun -HARDCODED
-INSULT_BIGOTED;bigoted;;;;;;;;;;;;;x # HARDCODED
-INSULT_BLABBERER;blabberer;;;;;;;;;;;;;x # noun - male female - socializer
-INSULT_BLATHERING;blathering;;;;;;;;;;;;;x # male female - erudite
-INSULT_BLIND;blind;;;;;;;;;;;;;x # male female child - one_eyed blind
-INSULT_BLOATED;bloated;;;;;;;;;;;;;x
-INSULT_BOOKWORM;bookworm;;;;;;;;;;;;;x # noun - male female - scholar theologian physician
-INSULT_BORE;bore;;;;;;;;;;;;;x # noun - male female child - zealous conscientious physician brooding erudite temperate scholar
-INSULT_BRAT;brat;;;;;;;;;;;;;x # noun - male female - haughty
-INSULT_BRUTE;brute;;;;;;;;;;;;;x # noun - male - cruel
-INSULT_CALLOUS;callous;;;;;;;;;;;;;x # female - cruel
-INSULT_CANNIBAL;cannibal;;;;;;;;;;;;;x # noun - male female - cannibal
-INSULT_CANNIBALISTIC;man-eating;;;;;;;;;;;;;x # male female - cannibal
-INSULT_CHILD;child;;;;;;;;;;;;;x # noun -HARDCODED
-INSULT_CLEFT_LIPPED;cleft-lipped;;;;;;;;;;;;;x # male female - harelip
-INSULT_CLINGY;clingy;;;;;;;;;;;;;x # male female - affectionate
-INSULT_CLOWN;jester;;;;;;;;;;;;;x # noun -HARDCODED
-INSULT_CLUBFOOT;clubfoot;;;;;;;;;;;;;x # noun - male female - clubfooted
-INSULT_CORPSE;corpse;;;;;;;;;;;;;x
-INSULT_CORRUPT;corrupt;;;;;;;;;;;;;x # female - (bad_priest)
-INSULT_COVETOUS;covetous;;;;;;;;;;;;;x # male - greedy
-INSULT_COW;cow;;;;;;;;;;;;;x # noun -HARDCODED
-INSULT_COWARD;coward;;;;;;;;;;;;;x # noun - male female - craven in_hiding
-INSULT_COY;coy;;;;;;;;;;;;;x # female - shy
-INSULT_CRAVEN;craven;;;;;;;;;;;;;x # male - craven
-INSULT_CRAZED;crazed;;;;;;;;;;;;;x # female lunatic \ male female berserker
-INSULT_CRAZY;crazy;;;;;;;;;;;;;x # child - lunatic homosexual hedonist berserker rowdy
-INSULT_CREEPY;creepy;;;;;;;;;;;;;x # male female timid brooding \ lustful child
-INSULT_CRIPPLE;cripple;;;;;;;;;;;;;x # noun - male female child
-INSULT_CROOKED;crooked;;;;;;;;;;;;;x # male female - hunchback
-INSULT_CRUEL;cruel;;;;;;;;;;;;;x # male - cruel
-INSULT_CRUMMY;crummy;;;;;;;;;;;;;x # child - adventurer (bad_priest)
-INSULT_CURSED;cursed;;;;;;;;;;;;;x
-INSULT_DEBASED;debased;;;;;;;;;;;;;x # female - seductress
-INSULT_DEBAUCHER;debaucher;;;;;;;;;;;;;x # noun - male female hedonist
-INSULT_DECADENT;decadent;;;;;;;;;;;;;x # male female - decadent bad_priest_christian bad_priest_muslim bad_priest_tengri bad_priest_zoroastrian
-INSULT_DECAYING;decaying;;;;;;;;;;;;;x # male female - bubonic_plague
-INSULT_DECEITFUL;deceitful;;;;;;;;;;;;;x # male female - deceitful
-INSULT_DEGENERATE;degenerate;;;;;;;;;;;;;x # female - hedonist
-INSULT_DEMENTED;demented;;;;;;;;;;;;;x # male - lunatic
-INSULT_DEMONIC;demonic;;;;;;;;;;;;;x # female - possessed
-INSULT_DESERT_RAT;desert rat;;;;;;;;;;;;;x # noun -male female - desert_terrain_leader
-INSULT_DEVIL;devil;;;;;;;;;;;;;x # noun - child - cynical mystic excommunicated possessed
-INSULT_DEVIL_WOMAN;devil-woman;;;;;;;;;;;;;x # noun - female - possessed
-INSULT_DIM;dim;;;;;;;;;;;;;x # male - dull slow
-INSULT_DODDERER;dodderer;;;;;;;;;;;;;x # noun - male - infirm
-INSULT_DONKEY;donkey;;;;;;;;;;;;;x # noun - child - patient
-INSULT_DRIVELING;driveling;;;;;;;;;;;;;x # male female - (ecclesiastical)
-INSULT_DRUNKARD;drunkard;;;;;;;;;;;;;x # noun - male female - drunkard
-INSULT_DULLARD;dullard;;;;;;;;;;;;;x # noun - male - dull slow
-INSULT_DWARF;dwarf;;;;;;;;;;;;;x # noun - male female - dwarf
-INSULT_EFFEMINATE;effeminate;;;;;;;;;;;;;x # male - homosexual
-INSULT_ENVIOUS;envious;;;;;;;;;;;;;x # male female - envious
-INSULT_ERRATIC;erratic;;;;;;;;;;;;;x # male female - arbitrary
-INSULT_EUNUCH;eunuch;;;;;;;;;;;;;x # noun - male - eunuch
-INSULT_EVIL;evil;;;;;;;;;;;;;x # male female impaler \ excommunicated child
-INSULT_FALTERING;faltering;;;;;;;;;;;;;x # male female - lisp
-INSULT_FANATIC;fanatic;;;;;;;;;;;;;x # noun - male female - (religious warriors)
-INSULT_FARTMASTER;fartmaster;;;;;;;;;;;;;x # child - decadent
-INSULT_FATPIG;fat pig;;;;;;;;;;;;;x
-INSULT_FIEND;fiend;;;;;;;;;;;;;x # noun - female - cruel
-INSULT_FILTHY;filthy;;;;;;;;;;;;;x # HARDCODED
-INSULT_FLABBY;flabby;;;;;;;;;;;;;x # child - gluttonous
-INSULT_FLOPPY;floppy;;;;;;;;;;;;;x # child - affectionate
-INSULT_FOOL;fool;;;;;;;;;;;;;x # noun - male female - trusting
-INSULT_FOUL;foul;;;;;;;;;;;;;x # HARDCODED
-INSULT_FREAK;freak;;;;;;;;;;;;;x # noun - male female child - disfigured
-INSULT_FRIGID;frigid;;;;;;;;;;;;;x # female - celibate
-INSULT_GLUTTON;glutton;;;;;;;;;;;;;x # noun - male female - gluttonous
-INSULT_GODLESS;godless;;;;;;;;;;;;;x # male female - excommunicated mystic
-INSULT_GORGING;gorging;;;;;;;;;;;;;x # male female - gluttonous
-INSULT_GORGON;gorgon;;;;;;;;;;;;;x # noun - female - ugly
-INSULT_GRABBING;grabbing;;;;;;;;;;;;;x # male female - adventurer
-INSULT_GRASPING;grasping;;;;;;;;;;;;;x # female - ambitious
-INSULT_GROTESQUE;grotesque;;;;;;;;;;;;;x # noun - male - ugly
-INSULT_GROUCHY;grouchy;;;;;;;;;;;;;x # child - paranoid haughty
-INSULT_GROVELING;groveling;;;;;;;;;;;;;x # male female - humble
-INSULT_GRUMBLER;grumbler;;;;;;;;;;;;;x # noun - male female - depressed
-INSULT_GULLIBLE;gullible;;;;;;;;;;;;;x # male female - trusting
-INSULT_HARELIP;harelip;;;;;;;;;;;;;x # noun - male female - harelip
-INSULT_HARPY;harpy;;;;;;;;;;;;;x
-INSULT_HARRIDAN;harridan;;;;;;;;;;;;;x # noun - female - wroth
-INSULT_HAYBRAIN;haybrain;;;;;;;;;;;;;x # noun - child - hedonist
-INSULT_HEINOUS;heinous;;;;;;;;;;;;;x # male female child - disfigured
-INSULT_HERESIARCH;heresiarch;;;;;;;;;;;;;x # noun - male female - heresiarch
-INSULT_HERETIC;heretic;;;;;;;;;;;;;x # noun -HARDCODED
-INSULT_HIDEOUS;hideous;;;;;;;;;;;;;x # female inbred / male female ugly
-INSULT_HUNCHBACK;hunchback;;;;;;;;;;;;;x # noun - male female - hunchback
-INSULT_IDIOT;idiot;;;;;;;;;;;;;x # male female child - imbecile
-INSULT_IDLER;idler;;;;;;;;;;;;;x # noun - slothful
-INSULT_IMBECILE;imbecile;;;;;;;;;;;;;x # noun - male female - imbecile
-INSULT_INDOLENT;indolent;;;;;;;;;;;;;x # male female - slothful
-INSULT_INFIDEL;infidel;;;;;;;;;;;;;x # noun -HARDCODED
-INSULT_INSTIGATOR;instigator;;;;;;;;;;;;;x # noun - male female - schemer
-INSULT_INVALID;invalid;;;;;;;;;;;;;x # noun - male female child - (illness)
-INSULT_JUNGLE_SNAKE;jungle snake;;;;;;;;;;;;;x # noun - male female - jungle_terrain_leader
-INSULT_KINSLAYER;kinslayer;;;;;;;;;;;;;x # noun - male female - kinslayer
-INSULT_LAZY;lazy;;;;;;;;;;;;;x # child - decadent slothful
-INSULT_LECHER;lecher;;;;;;;;;;;;;x # noun - male - lustful
-INSULT_LECHEROUS;lecherous;;;;;;;;;;;;;x # male - lustful
-INSULT_LEFTHANDED;left-handed;;;;;;;;;;;;;x
-INSULT_LEPER;leper;;;;;;;;;;;;;x # noun - male female - leper
-INSULT_LESBIAN;lesbian;;;;;;;;;;;;;x # noun - female homosexual
-INSULT_LIMPING;limping;;;;;;;;;;;;;x # male female child - clubfooted one_legged gout
-INSULT_LISPER;lisper;;;;;;;;;;;;;x # noun - male female - lisp
-INSULT_LITTLE;little;;;;;;;;;;;;;x # male female dwarf
-INSULT_LOVER_OF_HEATHENS;lover of heathens;;;;;;;;;;;;;x # noun - male female - (sympathy_)
-INSULT_LOWBORN;lowborn;;;;;;;;;;;;;x # male female - peasant_leader
-INSULT_LUGUBRIOUS;lugubrious;;;;;;;;;;;;;x # male female - depressed
-INSULT_LUNATIC;lunatic;;;;;;;;;;;;;x # noun - male lunatic \ male female berserker
-INSULT_MAIMED;maimed;;;;;;;;;;;;;x # male female child - one_handed mangled
-INSULT_MANIAC;maniac;;;;;;;;;;;;;x # noun - male female child - rabies
-INSULT_MEANIE;meanie;;;;;;;;;;;;;x # noun - child - wroth
-INSULT_MISERLY;miserly;;;;;;;;;;;;;x # male female - (stewardship)
-INSULT_MONGREL;mongrel;;;;;;;;;;;;;x # noun -HARDCODED
-INSULT_MONSTROUS;monstrous;;;;;;;;;;;;;x # male - inbred
-INSULT_MULE;mule;;;;;;;;;;;;;x # noun - male female - stubborn willful
-INSULT_NARROWMINDED;narrow-minded;;;;;;;;;;;;;x # male female - zealous (religious warriors)
-INSULT_NASTY;nasty;;;;;;;;;;;;;x # child - zealous
-INSULT_NITWIT;nitwit;;;;;;;;;;;;;x # noun - female - dull slow
-INSULT_OCCULTIST;occultist;;;;;;;;;;;;;x # noun - male female - mystic
-INSULT_OLD;old;;;;;;;;;;;;;x # HARDCODED
-INSULT_PARANOID;paranoid;;;;;;;;;;;;;x # male female - paranoid
-INSULT_PEABRAIN;peabrain;;;;;;;;;;;;;x # noun - child - adventurer heresiarch imbecile homosexual
-INSULT_PEASANT;peasant;;;;;;;;;;;;;x # noun - male - peasant_leader
-INSULT_PEASANT_WOMAN;peasant woman;;;;;;;;;;;;;x # noun - female - peasant_leader
-INSULT_PERVERTED;perverted;;;;;;;;;;;;;x # male - hedonist
-INSULT_PIGFACE;pigface;;;;;;;;;;;;;x # noun - child - chaste gluttonous
-INSULT_PIGHEADED;pigheaded;;;;;;;;;;;;;x # male female - stubborn willful
-INSULT_POX_RIDDEN;pox-ridden;;;;;;;;;;;;;x # male female child - pox
-INSULT_PRUDE;prude;;;;;;;;;;;;;x # noun - male - chaste
-INSULT_PRUDISH;prudish;;;;;;;;;;;;;x # female - chaste
-INSULT_PRUNE;prune;;;;;;;;;;;;;x # noun - female - chaste
-INSULT_PUTRID;putrid;;;;;;;;;;;;;x # male female child - dysentery food_poisoning
-INSULT_RABID;rabid;;;;;;;;;;;;;x # male female child - rabies
-INSULT_RAGING;raging;;;;;;;;;;;;;x # male - wroth
-INSULT_RAPACIOUS;rapacious;;;;;;;;;;;;;x # male - ambitious
-INSULT_RENEGADE;renegade;;;;;;;;;;;;;x # noun - male female - excommunicated
-INSULT_ROUGH;rough;;;;;;;;;;;;;x
-INSULT_RUFFIAN;ruffian;;;;;;;;;;;;;x # noun - male female - rowdy
-INSULT_SAPPHIC;sapphic;;;;;;;;;;;;;x # female homosexual
-INSULT_SCARECROW;scarecrow;;;;;;;;;;;;;x # noun - male female child - (bad_priest)
-INSULT_SCATTERBRAIN;scatterbrain;;;;;;;;;;;;;x # noun - male female - arbitrary
-INSULT_SCHEMING;scheming;;;;;;;;;;;;;x # male female - (schemer)
-INSULT_SCURRYING;scurrying;;;;;;;;;;;;;x # HARDCODED
-INSULT_SENILE;senile;;;;;;;;;;;;;x # male female - infirm
-INSULT_SICKLY;sickly;;;;;;;;;;;;;x # male female child - (illness)
-INSULT_SILLY;silly;;;;;;;;;;;;;x # child - eunuch socializer
-INSULT_SMELLY;smelly;;;;;;;;;;;;;x # male female child - typhus bubonic_plague
-INSULT_SNEAK;sneak;;;;;;;;;;;;;x # noun - male female child
-INSULT_SNEAKING;sneaking;;;;;;;;;;;;;x # male female - in_hiding
-INSULT_SODOMITE;sodomite;;;;;;;;;;;;;x # noun - male - homosexual
-INSULT_SOFT;soft;;;;;;;;;;;;;x # male - kind
-INSULT_SOW;sow;;;;;;;;;;;;;x
-INSULT_SPIDER;spider;;;;;;;;;;;;;x # noun - male female - patient
-INSULT_SPINELESS;spineless;;;;;;;;;;;;;x # male female - content
-INSULT_SQUINTEYED;squint-eyed;;;;;;;;;;;;;x # male female - scholar theologian physician
-INSULT_STARVED;starved;;;;;;;;;;;;;x
-INSULT_STUPID;stupid;;;;;;;;;;;;;x # child -
-INSULT_STUTTERING;stuttering;;;;;;;;;;;;;x # male female - stutter
-INSULT_SYBARITE;sybarite;;;;;;;;;;;;;x # noun - male female - decadent
-INSULT_SYPHILITIC;syphilitic;;;;;;;;;;;;;x # male female - great_pox
-INSULT_TADPOLE;tadpole;;;;;;;;;;;;;x # noun -HARDCODED
-INSULT_TEMPTRESS;temptress;;;;;;;;;;;;;x # noun - female - seductress
-INSULT_TICK;tick;;;;;;;;;;;;;x # noun - male female - affectionate
-INSULT_TIMID;timid;;;;;;;;;;;;;x # male - shy
-INSULT_TORTURER;torturer;;;;;;;;;;;;;x # noun - male female - impaler
-INSULT_TREEHUGGER;treehugger;;;;;;;;;;;;;x # noun - male female - gardener
-INSULT_TROLL;troll;;;;;;;;;;;;;x # noun - inbred lustful cruel berserker haughty child \ ugly female
-INSULT_TROLLOP;trollop;;;;;;;;;;;;;x # noun - female - lustful
-INSULT_TWOFACED;two-faced;;;;;;;;;;;;;x # male female - (diplomacy)
-INSULT_UGLY;ugly;;;;;;;;;;;;;x # child - great_pox leper ugly inbred
-INSULT_UNBELIEVER;blasphemer;;;;;;;;;;;;;x
-INSULT_UNCLEAN;unclean;;;;;;;;;;;;;x # male female - leper
-INSULT_UNMANLY;unmanly;;;;;;;;;;;;;x # male - celibate
-INSULT_UNMANNED;unmanned;;;;;;;;;;;;;x # male - eunuch
-INSULT_UNPRINCIPLED;unprincipled;;;;;;;;;;;;;x # male female - (sympathy_)
-INSULT_UPSTART;upstart;;;;;;;;;;;;;x # noun - male female - adventurer
-INSULT_USELESS;useless;;;;;;;;;;;;;x # male female
-INSULT_VACUOUS;vacuous;;;;;;;;;;;;;x # female - dull slow
-INSULT_VEGETABLE;vegetable;;;;;;;;;;;;;x # noun - male female - sick_incapable incapable
-INSULT_VENAL;venal;;;;;;;;;;;;;x # female - greedy
-INSULT_VILE;vile;;;;;;;;;;;;;x # HARDCODED
-INSULT_WANTON;wanton;;;;;;;;;;;;;x # female - lustful
-INSULT_WARLOCK;warlock;;;;;;;;;;;;;x # noun - male - possessed
-INSULT_WEAKLING;weakling;;;;;;;;;;;;;x
-INSULT_WEIRD;weird;;;;;;;;;;;;;x # child - mystic
-INSULT_WHOREMONGER;whoremonger;;;;;;;;;;;;;x # noun - male - seducer
-INSULT_WHORING;whoring;;;;;;;;;;;;;x # male - seducer
-INSULT_WICKED;wicked;;;;;;;;;;;;;x # child - impaler deceitful ambitious arbitrary cruel
-INSULT_WILD;wild;;;;;;;;;;;;;x # male female - rowdy
-INSULT_WINDBAG;windbag;;;;;;;;;;;;;x # noun - male female - erudite
-INSULT_WITHERING;withering;;;;;;;;;;;;;x # male female child - cancer
-INSULT_WORM;worm;;;;;;;;;;;;;x # noun -male female - idolizer
-INSULT_WUSSY;wussy;;;;;;;;;;;;;x # female child - craven
+COMPL_AFFABLE;affable;;;;;;;;;;;Ëþáåçí[This.GetAyaYy];;x # male - gregarious
+COMPL_ARCHITECT;architect;;;;;;;;;;;àðõèòåêòîð[This.GetEndSha];;x # male female - architect
+COMPL_AUDACIOUS;audacious;;;;;;;;;;;Îòâàæí[This.GetAyaYy];;x # male female - adventurer
+COMPL_AUGUSTUS;Augustus;;;;;;;;;;;àâãóñò[This.GetEndA];;x # male female - augustus
+COMPL_BEAUTY;beauty;;;;;;;;;;;êðàñàâ[This.GetItsaEts];;x # female - fair
+COMPL_BERSERKER;berserker;;;;;;;;;;;áåðñåðê;;x # male female - berserker
+COMPL_BLADEMASTER;blademaster;;;;;;;;;;;ìàñòåð[This.GetEndItsa] êëèíêà;;x # male - duelist
+COMPL_BRAVE;brave;;;;;;;;;;;Õðàáð[This.GetAyaYy];;x # male female - brave
+COMPL_BRILLIANT;brilliant;;;;;;;;;;;Îäàð¸íí[This.GetAyaYy];;x # male female - genius
+COMPL_CHAMPION;champion;;;;;;;;;;;÷åìïèîí[This.GetEndKa];;x # female - duelist
+COMPL_CHARMER;charmer;;;;;;;;;;;êðàñàâ[This.GetItsaEts];;x # male - seducer
+COMPL_CHARMING;charming;;;;;;;;;;;Îáîëüñòèòåëüí[This.GetAyaYy];;x # male seducer
+COMPL_CHASTE;chaste;;;;;;;;;;;Äîáðîäåòåëüí[This.GetAyaYy];;x # male female - chaste
+COMPL_CLEVER;clever;;;;;;;;;;;Õèòðîóìí[This.GetAyaYy];;x # male female child - genius...
+COMPL_CONQUEROR;conqueror;;;;;;;;;;;çàâîåâàòåëü[This.GetEndNitsa];;x # male female - adventurer
+COMPL_CRUSADER;Crusader;;;;;;;;;;;êðåñòîíîñåö;;x # male female - crusader
+COMPL_DEAR;dear;;;;;;;;;;;Äîðîã[This.GetAyaOy];;x # male female
+COMPL_DEMURE;demure;;;;;;;;;;;Ñêðîìí[This.GetAyaYy];;x # female - shy
+COMPL_DEVIL;devil;;;;;;;;;;;÷åðòîâêà;;x # female - arbitrary
+COMPL_DILIGENT;diligent;;;;;;;;;;;Óñåðäí[This.GetAyaYy];;x # male female - diligent
+COMPL_ELOQUENT;eloquent;;;;;;;;;;;Êðàñíîðå÷èâ[This.GetAyaYy];;x # male female - (diplomacy)
+COMPL_ENCHANTRESS;enchantress;;;;;;;;;;;Îáîëüñòèòåëü[This.GetEndNitsa];;x # female - seductress
+COMPL_FAIR;fair;;;;;;;;;;;Ïðåëåñòí[This.GetAyaYy];;x # female - fair
+COMPL_FAQIH;Faqih;;;;;;;;;;;ôàêèõ[This.GetEndKa];;x # male female - faqih
+COMPL_FETCHING;fetching;;;;;;;;;;;Î÷àðîâàòåëüí[This.GetAyaYy];;x # female - gregarious
+COMPL_FORTHRIGHT;forthright;;;;;;;;;;;Îòêðîâåíí[This.GetAyaYy];;x # female - honest
+COMPL_FRUGAL;frugal;;;;;;;;;;;Ñòðîéí[This.GetAyaYy];;x
+COMPL_GENIUS;genius;;;;;;;;;;;ãåíèé;;x # male female - genius
+COMPL_GOOD;good;;;;;;;;;;;Âåëèêîäóøí[This.GetAyaYy];;x # male female - timid charitable \ zealous honest child
+COMPL_GREAT;great;;;;;;;;;;;Âåëèê[This.GetAyaIy];;x
+COMPL_HAFIZ;Hafiz;;;;;;;;;;;õàôèç[This.GetEndKa];;x # male female - hafiz
+COMPL_HAJJAJ;Hajjaj;;;;;;;;;;;õàäæè;;x # male female - hajjaj
+COMPL_HANDSOME;handsome;;;;;;;;;;;Íåîòðàçèì[This.GetAyaYy];;x # male - fair
+COMPL_HERO;hero;;;;;;;;;;;êðóòûøêà;;x # child - gregarious
+COMPL_HOLY_WARRIOR;holy warrior;;;;;;;;;;;Ñâÿò[This.GetAyaOy] âîèòåëü[This.GetEndNitsa];;x # male female - holy_warrior
+COMPL_HUMBLE;humble;;;;;;;;;;;Ñìèðåíí[This.GetAyaYy];;x # male female - humble
+COMPL_HUNTMASTER;huntmaster;;;;;;;;;;;ìàñòåð[This.GetEndItsa] îõîòû;;x # male - hunter
+COMPL_IMPISH;impish;;;;;;;;;;;Øàëîâëèâ[This.GetAyaYy];;x # female - arbitrary
+COMPL_JUST;just;;;;;;;;;;;Ñïðàâåäëèâ[This.GetAyaYy];;x # male female - just
+COMPL_KAILASH_GUARDIAN;Guardian;;;;;;;;;;;õðàíèòåëü[This.GetEndNitsa];;x
+COMPL_KINDHEARTED;kindhearted;;;;;;;;;;;Äîáð[This.GetAyaYy];;x # female - kind
+COMPL_KINDLY;kindly;;;;;;;;;;;Äîáð[This.GetAyaYy];;x # male - kind
+COMPL_LADY;lady;;;;;;;;;;;[This.GetAgedPerson];;x
+COMPL_LEARNED;learned;;;;;;;;;;;Ó÷¸í[This.GetAyaYy];;x # male female - physician theologian
+COMPL_LEVELHEADED;levelheaded;;;;;;;;;;;Õëàäíîêðîâí[This.GetAyaYy];;x # male - temperate
+COMPL_LORD;lord;;;;;;;;;;;[This.GetAgedPerson];;x
+COMPL_LOVELY;lovely;;;;;;;;;;;×óäåñí[This.GetAyaYy];;x # male female - playful
+COMPL_MAGNIFICENT;magnificent;;;;;;;;;;;Âåëè÷åñòâåíí[This.GetAyaYy];;x
+COMPL_MIRZA;mirza;;;;;;;;;;;ìèðçà;;x # male female - mirza
+COMPL_MONK;monk;;;;;;;;;;;ìîíàõ;;x # male
+COMPL_MUJAHID;Mujahid;;;;;;;;;;;ìîäæàõåä[This.GetEndKa];;x # male female - mujahid
+COMPL_MYSTIC;mystic;;;;;;;;;;;ìèñòèê;;x # male female - mystic
+COMPL_NICE;nice;;;;;;;;;;;Ñîáëàçíèòåëüí[This.GetAyaYy];;x # shy gregarious just child (diplomacy) \ lustful female
+COMPL_NUN;nun;;;;;;;;;;;ìîíàõèíÿ;;x # female
+COMPL_PILGRIM;pilgrim;;;;;;;;;;;ïàëîìíè[This.GetTsaK];;x # male female pilgrim
+COMPL_PIRATE;pirate;;;;;;;;;;;ïèðàò[This.GetEndKa];;x # male female - viking ravager seaking sea_queen
+COMPL_PLEASANT;pleasant;;;;;;;;;;;Ïðèÿòí[This.GetAyaYy];;x # female - temperate
+COMPL_POET;poet;;;;;;;;;;;ïîýò;;x # male female - poet
+COMPL_PRETTY;pretty;;;;;;;;;;;ñèìïàòÿãà;;x # child - fair
+COMPL_PROUD;proud;;;;;;;;;;;Ãîðä[This.GetAyaYy];;x # male female - proud haughty
+COMPL_PURPLE_BORN;purple-born;;;;;;;;;;;Áàãðÿíîðîäí[This.GetAyaYy];;x # male female - born_in_the_purple
+COMPL_RAFFISH;raffish;;;;;;;;;;;Äåðçê[This.GetAyaIy];;x # male - arbitrary
+COMPL_RAVISHING;ravishing;;;;;;;;;;;Îáâîðîæèòåëüí[This.GetAyaYy];;x # female - seductress
+COMPL_RIGHTEOUS;righteous;;;;;;;;;;;Ïðàâåäí[This.GetAyaYy];;x # male female - zealous (religious warriors)
+COMPL_ROGUE;rogue;;;;;;;;;;;ïðîéäîõà;;x # male - arbitrary
+COMPL_SAOSHYANT;Saoshyant;;;;;;;;;;;ñàîøèàíò[This.GetEndka];;x # male female - saoshyant
+COMPL_SAYYID;Sayyid;;;;;;;;;;;ñýèä[This.GetEndA];;x # male - sayyid
+COMPL_SAYYIDA;Sayyida;;;;;;;;;;;ñýèä;;x # female - sayyid
+COMPL_SCHOLAR;scholar;;;;;;;;;;;ýðóäèò[This.GetEndKa];;x # male female - physician theologian erudite
+COMPL_SEDUCER;seducer;;;;;;;;;;;ñîáëàçíèòåëü[This.GetEndNitsa];;x # male - seducer
+COMPL_SINCERE;sincere;;;;;;;;;;;Èñêðåíí[This.GetAyaIy];;x # male - honest
+COMPL_SMARTY;smarty;;;;;;;;;;;õèòðþãà;;x # child - genius mystic scholar arbitrary
+COMPL_STRONG;strong;;;;;;;;;;;Ñèëüí[This.GetAyaYy];;x # male - strong robust
+COMPL_SWEET;sweet;;;;;;;;;;;Ìèë[This.GetAyaYy];;x # male female - affectionate
+COMPL_THRIFTY;thrifty;;;;;;;;;;;Áåðåæëèâ[This.GetAyaYy];;x # male female - (stewardship)
+COMPL_VALHALLA_BOUND_FEMALE;Daughter of Odin;;;;;;;;;;;[This.GetSonDaughter] Îäèíà;;x
+COMPL_VALHALLA_BOUND_MALE;Son of Odin;;;;;;;;;;;[This.GetSonDaughter] Îäèíà;;x
+COMPL_VALKYRIE;valkyrie;;;;;;;;;;;âàëüêèðèÿ;;x # female
+COMPL_VIKING;viking;;;;;;;;;;;âèêèíã;;x # male female
+COMPL_VIKING_adj;viking;;;;;;;;;;;Âîèíñòâåíí[This.GetAyaYy];;x
+COMPL_VIRTUOUS;virtuous;;;;;;;;;;;Öåëîìóäðåíí[This.GetAyaYy];;x # male female - celibate
+COMPL_VIVACIOUS;vivacious;;;;;;;;;;;Æèçíåðàäîñòí[This.GetAyaYy];;x # lustful
+COMPL_WISE;wise;;;;;;;;;;;Ìóäð[This.GetAyaYy];;x # male female - erudite faqih
+COMPL_WIT;wit;;;;;;;;;;;çàòåéíè[This.GetTsaK];;x # male female - gregarious
+COMPL_WRY;wry;;;;;;;;;;;Èðîíè÷í[This.GetAyaYy];;x # male female - cynical
+DIPLOFLAVOR_FLATTERY_0;Blessings upon you and your House.;;;;;;;;;;;[From.GetReligiousGreeting]. ;;x
+DIPLOFLAVOR_FLATTERY_1;Your wisdom and mercy are legendary.;;;;;;;;;;;Ëåãåíäû õîäÿò î Âàøåé ìóäðîñòè è ìèëîñåðäèè. ;;x
+DIPLOFLAVOR_FLATTERY_2;Peace be with you.;;;;;;;;;;;Ìèð Âàì. ;;x
+DIPLOFLAVOR_FLATTERY_3;May you live in harmony and contentment.;;;;;;;;;;;Æåëàþ Âàì æèòü â ãàðìîíèè è ïðîöâåòàíèè. ;;x
+DIPLOFLAVOR_INSULT_0;Tales of your misdeeds are told from Ireland to Cathay.;;;;;;;;;;;Îò Èðëàíäèè äî Êèòàÿ ãîâîðÿò î Âàøèõ çëîäåÿíèÿõ. ;;x
+DIPLOFLAVOR_INSULT_1;Your low character is the subject of Greek plays.;;;;;;;;;;;Âàø ïîäëûé õàðàêòåð - ïðåäìåò ãðå÷åñêèõ ïüåñ. ;;x
+DIPLOFLAVOR_INSULT_2;May your humors rot in your living body.;;;;;;;;;;;Ïóñòü æèâü¸ì ãíè¸ò Âàøå òåëî. ;;x
+DIPLOFLAVOR_INSULT_3;May your years be short and miserable.;;;;;;;;;;;Ïóñòü Âàøà æèçíü áóäåò êîðîòêîé è íåñ÷àñòíîé. ;;x
+DIPLOFLAVOR_INSULT_4;May wisdom ever elude you.;;;;;;;;;;;Ïóñòü ìóäðîñòü âñåãäà óñêîëüçàåò îò Âàñ. ;;x
+DIPLOFLAVOR_INSULT_muslim_0;Damn your seventh grandfather.;;;;;;;;;;;Áóäü ïðîêëÿòû òâîè ïîòîìêè äî ñåäüìîãî êîëåíà. ;;x
+DIPLOFLAVOR_INSULT_muslim_1;May you be sewn up alive in the belly of a dead camel.;;;;;;;;;;;×òîá òû áûë[This.GetEndA] æèâü¸ì çàøèò[This.GetEndA] â áðþõå ì¸ðòâîãî âåðáëþäà. ;;x
+DIPLOFLAVOR_INSULT_muslim_2;May Allah destroy your house.;;;;;;;;;;;Ïóñòü Àëëàõ ðàçðóøèò òâîé äîì. ;;x
+DIPLOFLAVOR_INSULT_muslim_3;You child of a mangy dog.;;;;;;;;;;;Òû - âûðîäîê ïàðøèâîãî ïñà! ;;x
+INSULT_ABOMINATION;abomination;;;;;;;;;;;âûðîäîê;;x # noun - male - inbred
+INSULT_ARROGANT;arrogant;;;;;;;;;;;Íàïûùåíí[This.GetAyaYy];;x # male female - haughty
+INSULT_BASEBORN;baseborn;;;;;;;;;;;Áåçðîäí[This.GetAyaYy];;x # male female - legit_bastard
+INSULT_BASTARD;bastard;;;;;;;;;;;óáëþäîê;;x # noun - male female - bastard
+INSULT_BAT;bat;;;;;;;;;;;ïñèõîïàò[This.GetEndKa];;x # noun - female - lunatic
+INSULT_BESOTTED;besotted;;;;;;;;;;;Áóõ[This.GetAyaOy];;x # male female - drunkard
+INSULT_BIGOT;bigot;;;;;;;;;;;èçóâåð[This.GetEndKa];;x # noun -HARDCODED
+INSULT_BIGOTED;bigoted;;;;;;;;;;;Èçóâåðñê[This.GetAyaIy];;x # HARDCODED
+INSULT_BLABBERER;blabberer;;;;;;;;;;;áîëòóí;;x # noun - male female - socializer
+INSULT_BLATHERING;blathering;;;;;;;;;;;Âçäîðí[This.GetAyaYy];;x # male female - erudite
+INSULT_BLIND;blind;;;;;;;;;;;Ñëåï[This.GetAyaOy];;x # male female child - one_eyed blind
+INSULT_BLOATED;bloated;;;;;;;;;;;Æèðí[This.GetAyaIy];;x
+INSULT_BOOKWORM;bookworm;;;;;;;;;;;êíèæíûé ÷åðâü;;x # noun - male female - scholar theologian physician
+INSULT_BORE;bore;;;;;;;;;;;Ñêó÷í[This.GetAyaYy];;x # noun - male female child - zealous conscientious physician brooding erudite temperate scholar
+INSULT_BRAT;brat;;;;;;;;;;;ãàä¸íûø;;x # noun - male female - haughty
+INSULT_BRUTE;brute;;;;;;;;;;;èçâåðã;;x # noun - male - cruel
+INSULT_CALLOUS;callous;;;;;;;;;;;Áåññåðäå÷í[This.GetAyaYy];;x # female - cruel
+INSULT_CANNIBAL;cannibal;;;;;;;;;;;ëþäîåä[This.GetEndKa];;x # noun - male female - cannibal
+INSULT_CANNIBALISTIC;man-eating;;;;;;;;;;;Ëþäîåäñê[This.GetAyaIy];;x # male female - cannibal
+INSULT_CHILD;child;;;;;;;;;;;[This.GetInsultChild];;x # noun -HARDCODED
+INSULT_CLEFT_LIPPED;cleft-lipped;;;;;;;;;;;Äâóðîò[This.GetAyaYy];;x # male female - harelip
+INSULT_CLINGY;clingy;;;;;;;;;;;Ñëàùàâ[This.GetAyaYy];;x # male female - affectionate
+INSULT_CLOWN;jester;;;;;;;;;;;ïðèäóðîê;;x # noun -HARDCODED
+INSULT_CLUBFOOT;clubfoot;;;;;;;;;;;êðèâîñòîï[This.GetEndItsa];;x # noun - male female - clubfooted
+INSULT_CORPSE;corpse;;;;;;;;;;;âåøàëêà;;x
+INSULT_CORRUPT;corrupt;;;;;;;;;;;Ïîðî÷í[This.GetAyaYy];;x # female - (bad_priest)
+INSULT_COVETOUS;covetous;;;;;;;;;;;Àë÷í[This.GetAyaYy];;x # male - greedy
+INSULT_COW;cow;;;;;;;;;;;êîðîâà;;x # noun -HARDCODED
+INSULT_COWARD;coward;;;;;;;;;;;ññûêóí[This.GetEndSha];;x # noun - male female - craven in_hiding
+INSULT_COY;coy;;;;;;;;;;;Æåìàíí[This.GetAyaYy];;x # female - shy
+INSULT_CRAVEN;craven;;;;;;;;;;;Òðóñëèâ[This.GetAyaYy];;x # male - craven
+INSULT_CRAZED;crazed;;;;;;;;;;;×îêíóò[This.GetAyaYy];;x # female lunatic \ male female berserker
+INSULT_CRAZY;crazy;;;;;;;;;;;ñóìàñáðîäèíà;;x # child - lunatic homosexual hedonist berserker rowdy
+INSULT_CREEPY;creepy;;;;;;;;;;;Æóòê[This.GetAyaIy];;x # male female timid brooding \ lustful child
+INSULT_CRIPPLE;cripple;;;;;;;;;;;êàëåêà;;x # noun - male female child
+INSULT_CROOKED;crooked;;;;;;;;;;;Ñêðþ÷åíí[This.GetAyaYy];;x # male female - hunchback
+INSULT_CRUEL;cruel;;;;;;;;;;;Æåñòîê[This.GetAyaIy];;x # male - cruel
+INSULT_CRUMMY;crummy;;;;;;;;;;;áÿêà;;x # child - adventurer (bad_priest)
+INSULT_CURSED;cursed;;;;;;;;;;;Ïðîêëÿò[This.GetAyaYy];;x
+INSULT_DEBASED;debased;;;;;;;;;;;Èñïîð÷åíí[This.GetAyaYy];;x # female - seductress
+INSULT_DEBAUCHER;debaucher;;;;;;;;;;;äåáîøèð[This.GetEndKa];;x # noun - male female hedonist
+INSULT_DECADENT;decadent;;;;;;;;;;;Èçíåæåíí[This.GetAyaYy];;x # male female - decadent bad_priest_christian bad_priest_muslim bad_priest_tengri bad_priest_zoroastrian
+INSULT_DECAYING;decaying;;;;;;;;;;;Ãíèþù[This.GetAyaIy];;x # male female - bubonic_plague
+INSULT_DECEITFUL;deceitful;;;;;;;;;;;Ëæèâ[This.GetAyaYy];;x # male female - deceitful
+INSULT_DEGENERATE;degenerate;;;;;;;;;;;Âûðîæäåí[This.GetKaEts];;x # female - hedonist
+INSULT_DEMENTED;demented;;;;;;;;;;;Óìàëèø¸íí[This.GetAyaYy];;x # male - lunatic
+INSULT_DEMONIC;demonic;;;;;;;;;;;Áåñíîâàò[This.GetAyaYy];;x # female - possessed
+INSULT_DESERT_RAT;desert rat;;;;;;;;;;;ïûëåãëîò[This.GetEndKa];;x # noun -male female - desert_terrain_leader
+INSULT_DEVIL;devil;;;;;;;;;;;÷åðòÿêà;;x # noun - child - cynical mystic excommunicated possessed
+INSULT_DEVIL_WOMAN;devil-woman;;;;;;;;;;;âåäüìà;;x # noun - female - possessed
+INSULT_DIM;dim;;;;;;;;;;;Òóïîãîëîâ[This.GetAyaYy];;x # male - dull slow
+INSULT_DODDERER;dodderer;;;;;;;;;;;ìÿìëÿ;;x # noun - male - infirm
+INSULT_DONKEY;donkey;;;;;;;;;;;ëîøàðà;;x # noun - child - patient
+INSULT_DRIVELING;driveling;;;;;;;;;;;Ìðàêîáåñí[This.GetAyaYy];;x # male female - (ecclesiastical)
+INSULT_DRUNKARD;drunkard;;;;;;;;;;;ïüÿíèöà;;x # noun - male female - drunkard
+INSULT_DULLARD;dullard;;;;;;;;;;;áîëâàí[This.GetEndKa];;x # noun - male - dull slow
+INSULT_DWARF;dwarf;;;;;;;;;;;êàðëè[This.GetTsaK];;x # noun - male female - dwarf
+INSULT_EFFEMINATE;effeminate;;;;;;;;;;;Æåíîïîäîáí[This.GetAyaYy];;x # male - homosexual
+INSULT_ENVIOUS;envious;;;;;;;;;;;Çàâèñòëèâ[This.GetAyaYy];;x # male female - envious
+INSULT_ERRATIC;erratic;;;;;;;;;;;Áåñòîëêîâ[This.GetAyaYy];;x # male female - arbitrary
+INSULT_EUNUCH;eunuch;;;;;;;;;;;åâíóõ;;x # noun - male - eunuch
+INSULT_EVIL;evil;;;;;;;;;;;Çëîáí[This.GetAyaYy];;x # male female impaler \ excommunicated child
+INSULT_FALTERING;faltering;;;;;;;;;;;Øåïåëÿâ[This.GetAyaYy];;x # male female - lisp
+INSULT_FANATIC;fanatic;;;;;;;;;;;ôàíàòè[This.GetChkaK];;x # noun - male female - (religious warriors)
+INSULT_FARTMASTER;fartmaster;;;;;;;;;;;ïåðäóøêà;;x # child - decadent
+INSULT_FATPIG;fat pig;;;;;;;;;;;áîðîâ;;x
+INSULT_FIEND;fiend;;;;;;;;;;;çëîäåé[This.GetEndKa];;x # noun - female - cruel
+INSULT_FILTHY;filthy;;;;;;;;;;;Ìåðçê[GetAyaIy];;x # HARDCODED
+INSULT_FLABBY;flabby;;;;;;;;;;;æèðíÿãà;;x # child - gluttonous
+INSULT_FLOPPY;floppy;;;;;;;;;;;ïîäëèçà;;x # child - affectionate
+INSULT_FOOL;fool;;;;;;;;;;;ëîïóõ;;x # noun - male female - trusting
+INSULT_FOUL;foul;;;;;;;;;;;Ãðÿçí[This.GetAyaYy];;x # HARDCODED
+INSULT_FREAK;freak;;;;;;;;;;;óðîä[This.GetEndIna];;x # noun - male female child - disfigured
+INSULT_FRIGID;frigid;;;;;;;;;;;Ôðèãèäí[This.GetAyaYy];;x # female - celibate
+INSULT_GLUTTON;glutton;;;;;;;;;;;îáæîðà;;x # noun - male female - gluttonous
+INSULT_GODLESS;godless;;;;;;;;;;;Áåçáîæí[This.GetAyaYy];;x # male female - excommunicated mystic
+INSULT_GORGING;gorging;;;;;;;;;;;Ïðîæîðëèâ[This.GetAyaYy];;x # male female - gluttonous
+INSULT_GORGON;gorgon;;;;;;;;;;;ãîðãîíà;;x # noun - female - ugly
+INSULT_GRABBING;grabbing;;;;;;;;;;;Ðàçáîéí[This.GetAyaYy];;x # male female - adventurer
+INSULT_GRASPING;grasping;;;;;;;;;;;Îáîðçåâø[This.GetAyaIy];;x # female - ambitious
+INSULT_GROTESQUE;grotesque;;;;;;;;;;;êâàçèìîäî;;x # noun - male - ugly
+INSULT_GROUCHY;grouchy;;;;;;;;;;;áóêà;;x # child - paranoid haughty
+INSULT_GROVELING;groveling;;;;;;;;;;;Ïîäõàëèìèñò[This.GetAyaYy];;x # male female - humble
+INSULT_GRUMBLER;grumbler;;;;;;;;;;;íûòèê;;x # noun - male female - depressed
+INSULT_GULLIBLE;gullible;;;;;;;;;;;Ëåãêîâåðí[This.GetAyaYy];;x # male female - trusting
+INSULT_HARELIP;harelip;;;;;;;;;;;ìîðäà;;x # noun - male female - harelip
+INSULT_HARPY;harpy;;;;;;;;;;;ãàðïèÿ;;x
+INSULT_HARRIDAN;harridan;;;;;;;;;;;ñòåðâà;;x # noun - female - wroth
+INSULT_HAYBRAIN;haybrain;;;;;;;;;;;áàëäà;;x # noun - child - hedonist
+INSULT_HEINOUS;heinous;;;;;;;;;;;Ãíóñí[This.GetAyaYy];;x # male female child - disfigured
+INSULT_HERESIARCH;heresiarch;;;;;;;;;;;åðåòè[This.GetChkaK];;x # noun - male female - heresiarch
+INSULT_HERETIC;heretic;;;;;;;;;;;åðåòè[This.GetChkaK];;x # noun -HARDCODED
+INSULT_HIDEOUS;hideous;;;;;;;;;;;Îòâðàòèòåëüí[This.GetAyaYy];;x # female inbred / male female ugly
+INSULT_HUNCHBACK;hunchback;;;;;;;;;;;ãîðáóí[This.GetEndSha];;x # noun - male female - hunchback
+INSULT_IDIOT;idiot;;;;;;;;;;;Äåáèëüí[This.GetAyaYy];;x # male female child - imbecile
+INSULT_IDLER;idler;;;;;;;;;;;áåçäåëüíè[This.GetTsaK];;x # noun - slothful
+INSULT_IMBECILE;imbecile;;;;;;;;;;;èìáåöèë[This.GetEndKa];;x # noun - male female - imbecile
+INSULT_INDOLENT;indolent;;;;;;;;;;;Ëåíèâ[This.GetAyaYy];;x # male female - slothful
+INSULT_INFIDEL;infidel;;;;;;;;;;;áåçáîæíè[This.GetTsaK];;x # noun -HARDCODED
+INSULT_INSTIGATOR;instigator;;;;;;;;;;;ïîäñòðåêàòåëü[This.GetEndNitsa];;x # noun - male female - schemer
+INSULT_INVALID;invalid;;;;;;;;;;;Íåìîùí[This.GetAyaYy];;x # noun - male female child - (illness)
+INSULT_JUNGLE_SNAKE;jungle snake;;;;;;;;;;;ìàóãëè;;x # noun - male female - jungle_terrain_leader
+INSULT_KINSLAYER;kinslayer;;;;;;;;;;;ðîäîóáèéöà;;x # noun - male female - kinslayer
+INSULT_LAZY;lazy;;;;;;;;;;;ëåæåáî÷èíà;;x # child - decadent slothful
+INSULT_LECHER;lecher;;;;;;;;;;;ðàçâðàòíè[This.GetTsaK];;x # noun - male - lustful
+INSULT_LECHEROUS;lecherous;;;;;;;;;;;Ïîõîòëèâ[This.GetAyaYy];;x # male - lustful
+INSULT_LEFTHANDED;left-handed;;;;;;;;;;;Êðèâîðóê[This.GetAyaIy];;x
+INSULT_LEPER;leper;;;;;;;;;;;Ïðîêàæ¸íí[This.GetAyaYy];;x # noun - male female - leper
+INSULT_LESBIAN;lesbian;;;;;;;;;;;êîâûðÿëêà;;x # noun - female homosexual
+INSULT_LIMPING;limping;;;;;;;;;;;Õðîìîíîã[This.GetAyaIy];;x # male female child - clubfooted one_legged gout
+INSULT_LISPER;lisper;;;;;;;;;;;ëåïåòóí[This.GetEndSha];;x # noun - male female - lisp
+INSULT_LITTLE;little;;;;;;;;;;;Ìåëê[This.GetAyaIy];;x # male female dwarf
+INSULT_LOVER_OF_HEATHENS;lover of heathens;;;;;;;;;;;ëþáèòåëü[This.GetEndNitsa] íåâåðíûõ;;x # noun - male female - (sympathy_)
+INSULT_LOWBORN;lowborn;;;;;;;;;;;Áåçðîäí[This.GetAyaYy];;x # male female - peasant_leader
+INSULT_LUGUBRIOUS;lugubrious;;;;;;;;;;;Óíûë[This.GetAyaYy];;x # male female - depressed
+INSULT_LUNATIC;lunatic;;;;;;;;;;;áåçóì[This.GetItsaEts];;x # noun - male lunatic \ male female berserker
+INSULT_MAIMED;maimed;;;;;;;;;;;Èçóâå÷åíí[This.GetAyaYy];;x # male female child - one_handed mangled
+INSULT_MANIAC;maniac;;;;;;;;;;;ìàíüÿ[This.GetChkaK];;x # noun - male female child - rabies
+INSULT_MEANIE;meanie;;;;;;;;;;;çëþêà;;x # noun - child - wroth
+INSULT_MISERLY;miserly;;;;;;;;;;;Æàäí[This.GetAyaYy];;x # male female - (stewardship)
+INSULT_MONGREL;mongrel;;;;;;;;;;;ïîëóêðîâêà;;x # noun -HARDCODED
+INSULT_MONSTROUS;monstrous;;;;;;;;;;;Îìåðçèòåëüí[This.GetAyaYy];;x # male - inbred
+INSULT_MULE;mule;;;;;;;;;;;[This.GetDonkey];;x # noun - male female - stubborn willful
+INSULT_NARROWMINDED;narrow-minded;;;;;;;;;;;Óçêîëîá[This.GetAyaYy];;x # male female - zealous (religious warriors)
+INSULT_NASTY;nasty;;;;;;;;;;;êîçëèíà;;x # child - zealous
+INSULT_NITWIT;nitwit;;;;;;;;;;;äóðà;;x # noun - female - dull slow
+INSULT_OCCULTIST;occultist;;;;;;;;;;;÷åðíîêíèæíè[This.GetTsaK];;x # noun - male female - mystic
+INSULT_OLD;old;;;;;;;;;;;Ñòàð[This.GetAyaYy];;x # HARDCODED
+INSULT_PARANOID;paranoid;;;;;;;;;;;Ïàðàíîèäàëüí[This.GetAyaYy];;x # male female - paranoid
+INSULT_PEABRAIN;peabrain;;;;;;;;;;;äóðà÷èíà;;x # noun - child - adventurer heresiarch imbecile homosexual
+INSULT_PEASANT;peasant;;;;;;;;;;;äåðåâåíùèíà;;x # noun - male - peasant_leader
+INSULT_PEASANT_WOMAN;peasant woman;;;;;;;;;;;äåðåâåíùèíà;;x # noun - female - peasant_leader
+INSULT_PERVERTED;perverted;;;;;;;;;;;Ðàçâðàù¸íí[This.GetAyaYy];;x # male - hedonist
+INSULT_PIGFACE;pigface;;;;;;;;;;;õðþøêà;;x # noun - child - chaste gluttonous
+INSULT_PIGHEADED;pigheaded;;;;;;;;;;;Òâåðäîëîá[This.GetAyaYy];;x # male female - stubborn willful
+INSULT_POX_RIDDEN;pox-ridden;;;;;;;;;;;Ñòðóïí[This.GetAyaYy];;x # male female child - pox
+INSULT_PRUDE;prude;;;;;;;;;;;õàíæà;;x # noun - male - chaste
+INSULT_PRUDISH;prudish;;;;;;;;;;;Ñòûäëèâ[This.GetAyaYy];;x # female - chaste
+INSULT_PRUNE;prune;;;;;;;;;;;õàíæà;;x # noun - female - chaste
+INSULT_PUTRID;putrid;;;;;;;;;;;Ïîäãíèâø[This.GetAyaIy];;x # male female child - dysentery food_poisoning
+INSULT_RABID;rabid;;;;;;;;;;;Âçáåñèâø[This.GetAyaIy]ñÿ;;x # male female child - rabies
+INSULT_RAGING;raging;;;;;;;;;;;Áåøåí[This.GetAyaYy];;x # male - wroth
+INSULT_RAPACIOUS;rapacious;;;;;;;;;;;Îáîðçåâø[This.GetAyaIy];;x # male - ambitious
+INSULT_RENEGADE;renegade;;;;;;;;;;;èçìåííè[This.GetTsaK];;x # noun - male female - excommunicated
+INSULT_ROUGH;rough;;;;;;;;;;;Íåìûò[This.GetAyaYy];;x
+INSULT_RUFFIAN;ruffian;;;;;;;;;;;çàäèðà;;x # noun - male female - rowdy
+INSULT_SAPPHIC;sapphic;;;;;;;;;;;Ëåñáèéñê[This.GetAyaIy];;x # female homosexual
+INSULT_SCARECROW;scarecrow;;;;;;;;;;;íå÷åñòèâ[This.GetItsaEts];;x # noun - male female child - (bad_priest)
+INSULT_SCATTERBRAIN;scatterbrain;;;;;;;;;;;ñóìàñáðîä[This.GetEndKa];;x # noun - male female - arbitrary
+INSULT_SCHEMING;scheming;;;;;;;;;;;Ïîäë[This.GetAyaYy];;x # male female - (schemer)
+INSULT_SCURRYING;scurrying;;;;;;;;;;;Íåñíîñí[This.GetAyaYy];;x # HARDCODED
+INSULT_SENILE;senile;;;;;;;;;;;Äðÿõë[This.GetAyaYy];;x # male female - infirm
+INSULT_SICKLY;sickly;;;;;;;;;;;Òùåäóøí[This.GetAyaYy];;x # male female child - (illness)
+INSULT_SILLY;silly;;;;;;;;;;;äóðèëêà;;x # child - eunuch socializer
+INSULT_SMELLY;smelly;;;;;;;;;;;Âîíþ÷[This.GetAyaIy];;x # male female child - typhus bubonic_plague
+INSULT_SNEAK;sneak;;;;;;;;;;;ïðèñòàâàëà;;x # noun - male female child
+INSULT_SNEAKING;sneaking;;;;;;;;;;;Ïóãëèâ[This.GetAyaYy];;x # male female - in_hiding
+INSULT_SODOMITE;sodomite;;;;;;;;;;;ïåäåðàñò[This.GetEndKa];;x # noun - male - homosexual
+INSULT_SOFT;soft;;;;;;;;;;;ñëèçíÿ[This.GetChkaK];;x # male - kind
+INSULT_SOW;sow;;;;;;;;;;;ñâèíîìàòêà;;x
+INSULT_SPIDER;spider;;;;;;;;;;;ïàóê;;x # noun - male female - patient
+INSULT_SPINELESS;spineless;;;;;;;;;;;Áåñõðåáåòí[This.GetAyaYy];;x # male female - content
+INSULT_SQUINTEYED;squint-eyed;;;;;;;;;;;Áëèçîðóê[This.GetAyaIy];;x # male female - scholar theologian physician
+INSULT_STARVED;starved;;;;;;;;;;;Êîñòëÿâ[This.GetAyaYy];;x
+INSULT_STUPID;stupid;;;;;;;;;;;òóïèöà;;x # child -
+INSULT_STUTTERING;stuttering;;;;;;;;;;;çàèêà;;x # male female - stutter
+INSULT_SYBARITE;sybarite;;;;;;;;;;;ñèáàðèò[This.GetEndKa];;x # noun - male female - decadent
+INSULT_SYPHILITIC;syphilitic;;;;;;;;;;;Ãíîéí[This.GetAyaYy];;x # male female - great_pox
+INSULT_TADPOLE;tadpole;;;;;;;;;;;[This.GetInsultTadpole];;x # noun -HARDCODED
+INSULT_TEMPTRESS;temptress;;;;;;;;;;;øëþõà;;x # noun - female - seductress
+INSULT_TICK;tick;;;;;;;;;;;ïðèëèïàëà;;x # noun - male female - affectionate
+INSULT_TIMID;timid;;;;;;;;;;;Áîÿçëèâ[This.GetAyaYy];;x # male - shy
+INSULT_TORTURER;torturer;;;;;;;;;;;ìó÷èòåëü[This.GetEndNitsa];;x # noun - male female - impaler
+INSULT_TREEHUGGER;treehugger;;;;;;;;;;;îáíèìàòåëü[This.GetEndNitsa] äåðåâüåâ;;x # noun - male female - gardener
+INSULT_TROLL;troll;;;;;;;;;;;ñòðàõîëþäèíà;;x # noun - inbred lustful cruel berserker haughty child \ ugly female
+INSULT_TROLLOP;trollop;;;;;;;;;;;ïîòàñêóõà;;x # noun - female - lustful
+INSULT_TWOFACED;two-faced;;;;;;;;;;;Äâóëè÷í[This.GetAyaYy];;x # male female - (diplomacy)
+INSULT_UGLY;ugly;;;;;;;;;;;ñòðàøèëà;;x # child - great_pox leper ugly inbred
+INSULT_UNBELIEVER;blasphemer;;;;;;;;;;;áåññòûäíè[This.GetTsaK];;x
+INSULT_UNCLEAN;unclean;;;;;;;;;;;Íå÷èñò[This.GetAyaYy];;x # male female - leper
+INSULT_UNMANLY;unmanly;;;;;;;;;;;èìïîòåíò[This.GetEndKa];;x # male - celibate
+INSULT_UNMANNED;unmanned;;;;;;;;;;;Êàñòðèðîâàíí[This.GetAyaYy];;x # male - eunuch
+INSULT_UNPRINCIPLED;unprincipled;;;;;;;;;;;áåñïðèíöèïí[This.GetAyaYy];;x # male female - (sympathy_)
+INSULT_UPSTART;upstart;;;;;;;;;;;âûñêî÷êà;;x # noun - male female - adventurer
+INSULT_USELESS;useless;;;;;;;;;;;Áåñïîëåçí[This.GetAyaYy];;x # male female
+INSULT_VACUOUS;vacuous;;;;;;;;;;;Ñëàáîóìí[This.GetAyaYy];;x # female - dull slow
+INSULT_VEGETABLE;vegetable;;;;;;;;;;;îâîù;;x # noun - male female - sick_incapable incapable
+INSULT_VENAL;venal;;;;;;;;;;;Ïðîäàæí[This.GetAyaYy];;x # female - greedy
+INSULT_VILE;vile;;;;;;;;;;;Ïîäë[This.GetAyaYy];;x # HARDCODED
+INSULT_WANTON;wanton;;;;;;;;;;;Ðàçâðàòí[This.GetAyaYy];;x # female - lustful
+INSULT_WARLOCK;warlock;;;;;;;;;;;êîëäóí[This.GetEndSoftYa];;x # noun - male - possessed
+INSULT_WEAKLING;weakling;;;;;;;;;;;õèëÿ[This.GetChkaK];;x
+INSULT_WEIRD;weird;;;;;;;;;;;÷óäèëà;;x # child - mystic
+INSULT_WHOREMONGER;whoremonger;;;;;;;;;;;ïîòàñêóí;;x # noun - male - seducer
+INSULT_WHORING;whoring;;;;;;;;;;;Áëóäëèâ[This.GetAyaYy];;x # male - seducer
+INSULT_WICKED;wicked;;;;;;;;;;;òâàðþãà;;x # child - impaler deceitful ambitious arbitrary cruel
+INSULT_WILD;wild;;;;;;;;;;;Íåóãîìîíí[This.GetAyaYy];;x # male female - rowdy
+INSULT_WINDBAG;windbag;;;;;;;;;;;ïóñòîçâîí[This.GetEndKa];;x # noun - male female - erudite
+INSULT_WITHERING;withering;;;;;;;;;;;Òðóõëÿâ[This.GetAyaYy];;x # male female child - cancer
+INSULT_WORM;worm;;;;;;;;;;;[This.GetInsultTadpole];;x # noun -male female - idolizer
+INSULT_WUSSY;wussy;;;;;;;;;;;Ññûêëèâ[This.GetAyaYy];;x # female child - craven

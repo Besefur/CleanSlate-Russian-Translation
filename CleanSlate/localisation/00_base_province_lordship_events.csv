@@ -1,32 +1,27 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC77000;Fish! Fresh fish straight from the river!' 'Fruits and vegetables, a day or two old!\n\nThe clergy in [Root.GetName] is not happy about the merchants setting up stalls in all the Church squares, and demands that it be forbidden.;;;;;;;;;;;;;x
-EVTDESC77001;The burghers of [Root.GetName] demand that city law be set higher than canonical laws but the bishops protest, declaring that the law of the Church should supersede the law of the city.;;;;;;;;;;;;;x
-EVTDESC77002;An old legal right, almost forgotten by all but the barons, called Prima Noctae or Droit du Seigneur, is the subject of a heated debate. The barons in [Root.GetName] claim that it is their right to take the virginity of their serfs' maiden daughters and the serfs are protesting against 'such a barbaric right!'.;;;;;;;;;;;;;x
-EVTDESC77003;They come from smaller farms, some with a goat or a pig to sell, some with only a bushel of vegetables or fruits, others with a whole wagon of produce. The peasants sell their produce inside the city walls but the burghers protest against it and want to forbid it.;;;;;;;;;;;;;x
-EVTDESC77004;The forest is not big enough for the barons. They demand hunting rights on the Church lands after chasing all the game to the Church's side of the forest and having to stop the hunt unless they'd risk the anger of the Church.;;;;;;;;;;;;;x
-EVTDESC77005;The clergy is not satisfied with collecting a tithe from all free peasants, they demand the right to collect an extra tithe! A tithe is a tenth of the peasant's harvest or a tenth of the craftsmen's production, if the priests were allowed to collect another tithe it would double the taxes and thus make the peasants protest wildly.;;;;;;;;;;;;;x
-EVTDESC77006;Rich merchants want to buy titles and the Barons protest, saying their titles are priceless. Mere merchants should not be allowed to gain the noble rights just because they can afford it!;;;;;;;;;;;;;x
-EVTDESC77007;The Burghers, the Clergy and the Barons all claim the right to spoils from shipwrecks that capsize outside of [Root.GetName]. The rights to the spoils will be given to...;;;;;;;;;;;;;x
-
-EVTOPTA77000;I agree;;;;;;;;;;;;;x
-EVTOPTA77001;I agree with the burghers;;;;;;;;;;;;;x
-EVTOPTA77002;Let the barons have some fun;;;;;;;;;;;;;x
-EVTOPTA77003;The peasants always cause trouble. Don't let them in!;;;;;;;;;;;;;x
-EVTOPTA77004;It's not a big deal. Let them hunt on the Church land.;;;;;;;;;;;;;x
-EVTOPTA77005;An extra tithe? Sure!;;;;;;;;;;;;;x
-EVTOPTA77006;As long as I get paid, I couldn't care less;;;;;;;;;;;;;x
-EVTOPTA77007;...the Church;;;;;;;;;;;;;x
-
-EVTOPTB77000;They do no harm, let them stay;;;;;;;;;;;;;x
-EVTOPTB77001;The laws should be equal;;;;;;;;;;;;;x
-EVTOPTB77002;That isn't and shouldn't be legal. I forbid it;;;;;;;;;;;;;x
-EVTOPTB77003;They should be able to sell their produce inside the city;;;;;;;;;;;;;x
-EVTOPTB77004;Stay on your side of the forest!;;;;;;;;;;;;;x
-EVTOPTB77005;The peasants would starve, I won't allow it;;;;;;;;;;;;;x
-EVTOPTB77006;Titles cannot be bought;;;;;;;;;;;;;x
-EVTOPTB77007;...the Commoners;;;;;;;;;;;;;x
-
-EVTOPTC77007;...the Nobility;;;;;;;;;;;;;x
-
-EVTOPTD77007;...the Crown;;;;;;;;;;;;;x
+EVTDESC77000;Fish! Fresh fish straight from the river!' 'Fruits and vegetables, a day or two old!\n\nThe clergy in [Root.GetName] is not happy about the merchants setting up stalls in all the Church squares, and demands that it be forbidden.;;;;;;;;;;;Ðûáà! Ñâåæàÿ ðûáà! Ïîäõîäè çà îâîùàìè, òîëüêî ñ ãðÿäêè! Ñâåæèå ôðóêòû!\n[Root.County.GetAdjective]ñêèå ñâÿùåííèêè íå äîâîëüíû ïðèëàâêàìè è ïîâîçêàìè òîðãîâöåâ íà Öåðêîâíûõ ïëîùàäÿõ è òðåáóþò ïðîãíàòü èõ.;;x
+EVTDESC77001;The burghers of [Root.GetName] demand that city law be set higher than canonical laws but the bishops protest, declaring that the law of the Church should supersede the law of the city.;;;;;;;;;;;[Root.County.GetAdjective]ñêèå ãîðîæàíå óòâåðæäàþò, ÷òî ñâåòñêèå çàêîíû âàæíåå öåðêîâíûõ, à äóõîâåíñòâî óòâåðæäàåò îáðàòíîå. Êàê æå áûòü?;;x
+EVTDESC77002;An old legal right, almost forgotten by all but the barons, called Prima Noctae or Droit du Seigneur, is the subject of a heated debate. The barons in [Root.GetName] claim that it is their right to take the virginity of their serfs' maiden daughters and the serfs are protesting against 'such a barbaric right!'.;;;;;;;;;;;"Â îêðóãå [Root.GetName] âñïûõíóë ñïîð ìåæäó ôåîäàëàìè è èõ ïîäíåâîëüíûìè êðåñòüÿíàìè. Ïðè÷èíîé ñïîðà ñòàëî äðåâíåå ïðàâî ôåîäàëà íà Prima Noctae èëè ""ïåðâóþ íî÷ü"". Ôåîäàëû óòâåðæäàþò, ÷òî èìåþò ïðàâî çàáðàòü íåâèííîñòü ó äî÷åðåé ñâîèõ ñëóã, à ïîääàííûå ïðîòåñòóþò ïðîòèâ ýòîãî ""âàðâàðñòâà"".";;x
+EVTDESC77003;They come from smaller farms, some with a goat or a pig to sell, some with only a bushel of vegetables or fruits, others with a whole wagon of produce. The peasants sell their produce inside the city walls but the burghers protest against it and want to forbid it.;;;;;;;;;;;Ëþäè ïðèõîäÿò ñ êîçîé èëè ñâèíü¸é íà ïðîäàæó, íåêîòîðûå òàùàò êîðçèíó îâîùåé, à äðóãèå âåçóò öåëûå ïîâîçêè ñ áàðàõëîì. Êðåñòüÿíå ñ îêðåñòíûõ ôåðì ïðîäàþò ñâîè òîâàðû â ãîðîäå, íî ìåñòíûå êóïöû ïðîòåñòóþò è òðåáóþò çàïðåòà.;;x
+EVTDESC77004;The forest is not big enough for the barons. They demand hunting rights on the Church lands after chasing all the game to the Church's side of the forest and having to stop the hunt unless they'd risk the anger of the Church.;;;;;;;;;;;Ïðåäìåòîì ñïîðà ñòàë ëåñ, ïîäåëåííûé ìåæäó Öåðêîâüþ è ìåñòíûìè äâîðÿíàìè. Äâîðÿíå æàëóþòñÿ, ÷òî ïîë-ëåñà ýòî ñëèøêîì ìàëî äëÿ îõîòû, è êîãäà äîáû÷à óõîäèò îò îáëàâû íà öåðêîâíóþ ïîëîâèíó, îõîòó ïðèõîäèòñÿ ïðåêðàùàòü. Îíè ñïðàøèâàþò ðàçðåøåíèÿ îõîòèòüñÿ íà ïîëîâèíå, ïðèíàäëåæàùåé Öåðêâè.;;x
+EVTDESC77005;The clergy is not satisfied with collecting a tithe from all free peasants, they demand the right to collect an extra tithe! A tithe is a tenth of the peasant's harvest or a tenth of the craftsmen's production, if the priests were allowed to collect another tithe it would double the taxes and thus make the peasants protest wildly.;;;;;;;;;;;Äóõîâåíñòâî íåäîâîëüíî ñîáðàííîé äåñÿòèíîé. Îíè òðåáóþò ïðàâà ñîáðàòü íàëîã ñ êðåñòüÿí è ðåìåñëåííèêîâ åù¸ ðàç. Åñëè ðàçðåøèòü, ýòî óäâîèò èõ ñáîð, íî ðàáî÷èé ëþä íàâåðíÿêà íå îáðàäóåòñÿ ýòîìó.;;x
+EVTDESC77006;Rich merchants want to buy titles and the Barons protest, saying their titles are priceless. Mere merchants should not be allowed to gain the noble rights just because they can afford it!;;;;;;;;;;;Ãðóïïà áîãàòûõ òîðãîâöåâ õîòåëà áû ïðèîáðåñòè òèòóëû â Âàøèõ âëàäåíèÿõ, íî äâîðÿíå ïðîòèâ. Îíè ãîâîðÿò, ÷òî áëàãîðîäñòâî íå êóïèøü çà äåíüãè, è íóâîðèøàì íå ñòîèò äàðîâàòü äâîðÿíñêèå ïðàâà ëèøü ïîòîìó, ÷òî îíè ìîãóò çà íèõ çàïëàòèòü.;;x
+EVTDESC77007;The Burghers, the Clergy and the Barons all claim the right to spoils from shipwrecks that capsize outside of [Root.GetName]. The rights to the spoils will be given to...;;;;;;;;;;;Â îêðóãå [Root.GetName] î ñêàëû ðàçáèëîñü òîðãîâîå ñóäíî. Áîëüøèíñòâî ìîðÿêîâ ïîãëîòèëî ìîðå è õîçÿèíà êîðàáëÿ íàéòè íå óäàëîñü. Ïåðåáèâàÿ äðóã äðóãà, ïðåäñòàâèòåëè ìåñòíîãî äâîðÿíñòâà, ãîðîæàíå è äóõîâåíñòâî ñïîðÿò êîìó æå äîñòàíåòñÿ ãðóç, êîòîðûé âûíåñëî íà áåðåã. Âû ðåøàåòå ïåðåäàòü ãðóç...;;x
+EVTOPTA77000;I agree;;;;;;;;;;;Äàþ ñîãëàñèå.;;x
+EVTOPTA77001;I agree with the burghers;;;;;;;;;;;Ãîðîæàíå ïðàâû.;;x
+EVTOPTA77002;Let the barons have some fun;;;;;;;;;;;Ïóñòü äâîðÿíå ïîçàáàâÿòñÿ.;;x
+EVTOPTA77003;The peasants always cause trouble. Don't let them in!;;;;;;;;;;;Îò êðåñòüÿí îäíè ïðîáëåìû. Íå ïóñêàéòå èõ â ãîðîä!;;x
+EVTOPTA77004;It's not a big deal. Let them hunt on the Church land.;;;;;;;;;;;Òî æå ìíå ïðîáëåìà. Ïóñòü îõîòÿòñÿ íà öåðêîâíîé çåìëå.;;x
+EVTOPTA77005;An extra tithe? Sure!;;;;;;;;;;;Äåñÿòèíó åùå ðàç? Äà ïîæàëóéñòà!;;x
+EVTOPTA77006;As long as I get paid, I couldn't care less;;;;;;;;;;;Âñåìó åñòü öåíà. Äâîðÿíñêèì òèòóëàì òîæå.;;x
+EVTOPTA77007;...the Church;;;;;;;;;;;... Öåðêâè.;;x
+EVTOPTB77000;They do no harm, let them stay;;;;;;;;;;;Îíè áåçîáèäíû, ïóñòü òîðãóþò.;;x
+EVTOPTB77001;The laws should be equal;;;;;;;;;;;Çàêîíû äîëæíû áûòü ðàâíû.;;x
+EVTOPTB77002;That isn't and shouldn't be legal. I forbid it;;;;;;;;;;;Â ìîèõ âëàäåíèÿõ òàêîãî íå áóäåò. Çàïðåòèòü!;;x
+EVTOPTB77003;They should be able to sell their produce inside the city;;;;;;;;;;;Èçîáèëèå âñåãäà íà ïîëüçó. Ïóñòü òîðãóþò â ãîðîäå;;x
+EVTOPTB77004;Stay on your side of the forest!;;;;;;;;;;;Îñòàâàéòåñü íà ñâîåé ïîëîâèíå!;;x
+EVTOPTB77005;The peasants would starve, I won't allow it;;;;;;;;;;;ß íå äîïóùó, ÷òîáû êðåñòüÿíå ãîëîäàëè!;;x
+EVTOPTB77006;Titles cannot be bought;;;;;;;;;;;Òèòóëû - íå òîâàð.;;x
+EVTOPTB77007;...the Commoners;;;;;;;;;;;... ãîðîæàíàì.;;x
+EVTOPTC77007;...the Nobility;;;;;;;;;;;... ôåîäàëàì.;;x
+EVTOPTD77007;...the Crown;;;;;;;;;;;... Êîðîíå.;;x

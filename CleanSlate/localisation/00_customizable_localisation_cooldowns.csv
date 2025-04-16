@@ -1,28 +1,20 @@
 ##############################################
 ### 01_customizable_localisation_cooldowns ###
 ##############################################
-
 # GetRaidCD
-string_raid_cd; - expires on: §Y[This.china_raid_grace_cd.GetExpiryDate]§!;;;;;;;;;;;;;x
-
+string_raid_cd; - expires on: §Y[This.china_raid_grace_cd.GetExpiryDate]§!;;;;;;;;;;; - èñòåêàåò §Y[This.china_raid_grace_cd.GetExpiryDate]§!;;x
 # GetNegotiateCD
-string_negotiate_cd; - you can negotiate again on: §Y[This.adventurer_negotiate_cd.GetExpiryDate]§!;;;;;;;;;;;;;x
-
+string_negotiate_cd; - you can negotiate again on: §Y[This.adventurer_negotiate_cd.GetExpiryDate]§!;;;;;;;;;;; - íîâûå ïåðåãîâîðû âîçìîæíû íå ðàíüøå ÷åì §Y[This.adventurer_negotiate_cd.GetExpiryDate]§!;;x
 # GetSmithCD
-string_smith_cd; - you can employ a smith again on: §Y[This.employ_a_smith_cd.GetExpiryDate]§!;;;;;;;;;;;;;x
-
+string_smith_cd; - you can employ a smith again on: §Y[This.employ_a_smith_cd.GetExpiryDate]§!;;;;;;;;;;; - íîâûé íàéì âîçìîæåí íå ðàíüøå ÷åì §Y[This.employ_a_smith_cd.GetExpiryDate]§!;;x
 # GetShatteredInfo
-shattered_limited_info;This Casus Belli will become unavailable after §Y25 years§! have passed since the game started.;;;;;;;;;;;;;x
-shattered_long_info;This Casus Belli will become unavailable after §Y100 years§! have passed since the game started.;;;;;;;;;;;;;x
-
+shattered_limited_info;This Casus Belli will become unavailable after §Y25 years§! have passed since the game started.;;;;;;;;;;;Ýòîò §YCasus Belli§Y áóäåò íåäîñòóïåí ñïóñòÿ §Y25 ëåò§! ñ ìîìåíòà íà÷àëà èãðû.;;x
+shattered_long_info;This Casus Belli will become unavailable after §Y100 years§! have passed since the game started.;;;;;;;;;;;Ýòîò §YCasus Belli§Y áóäåò íåäîñòóïåí ñïóñòÿ §Y100 ëåò§! ñ ìîìåíòà íà÷àëà èãðû.;;x
 # GetShatteredJadeInfo
-shattered_jade_info;For as long as this Casus Belli is available, the §YBorder Dispute§! Casus Belli will be unavailable.;;;;;;;;;;;;;x
-
+shattered_jade_info;For as long as this Casus Belli is available, the §YBorder Dispute§! Casus Belli will be unavailable.;;;;;;;;;;;Äî òåõ ïîð, ïîêà ýòîò §YCasus Belli§! äîñòóïåí, Âû íå ìîæåòå èñïîëüçîâàòü §YÑïîð çà îêðóã§! â êà÷åñòâå ïîâîäà äëÿ âîéíû.;;x
 # GetHolyOrderDonationCD
-donate_to_holy_order_cd; - you can donate to a Holy Order again on: §Y[This.donate_to_holy_order_cooldown.GetExpiryDate]§!;;;;;;;;;;;;;x
-
+donate_to_holy_order_cd; - you can donate to a Holy Order again on: §Y[This.donate_to_holy_order_cooldown.GetExpiryDate]§!;;;;;;;;;;; - Âû ñìîæåòå ñäåëàòü ïîæåðòâîâàíèå íå ðàíüøå, ÷åì §Y[This.donate_to_holy_order_cooldown.GetExpiryDate]§!;;x
 # GetCrusadePledgeCD
-string_pledged_to_crusade_cooldown; - you can remove your pledge after: §Y[This.recently_pledged_to_crusade_cooldown.GetExpiryDate]§!;;;;;;;;;;;;;x
-
+string_pledged_to_crusade_cooldown; - you can remove your pledge after: §Y[This.recently_pledged_to_crusade_cooldown.GetExpiryDate]§!;;;;;;;;;;; - Âû ñìîæåòå îòîçâàòü ñâî¸ îáåùàíèå §Y[This.recently_pledged_to_crusade_cooldown.GetExpiryDate]§!.;;x
 # GetCrusadeUnpledgeCD
-string_unpledged_to_crusade_cooldown; - you can make a new pledge after: §Y[This.recently_unpledged_to_crusade_cooldown.GetExpiryDate]§!;;;;;;;;;;;;;x
+string_unpledged_to_crusade_cooldown; - you can make a new pledge after: §Y[This.recently_unpledged_to_crusade_cooldown.GetExpiryDate]§!;;;;;;;;;;; - Âû ñìîæåòå äàòü îáåùàíèå §Y[This.recently_unpledged_to_crusade_cooldown.GetExpiryDate]§!.;;x

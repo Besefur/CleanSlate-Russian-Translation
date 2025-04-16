@@ -1,317 +1,295 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTTITLEHF25200;The Arm-wrestling Challenge;;;;;;;;;;;;;x
-EVTTITLEHF25226;The Dice Game;;;;;;;;;;;;;x
-EVTTITLEHF25250;The Flyting;;;;;;;;;;;;;x
-EVTTITLEHF25280;The Drinking Contest;;;;;;;;;;;;;x
-
-EVTDESCHF25200;Spirits are high at the Lodge tonight, and I am itching for a challenge. Many important warriors have gathered in the large hall to celebrate a recent hunt, giving me no shortage of capable warriors to test my strength with.;;;;;;;;;;;;;x
-EVTDESCHF25201;Many important warriors have gathered in the Lodge tonight in order to celebrate a recent hunt. I have barely joined some of my friends in the festivities when [From.GetTitledFirstName] barges in, claiming that [From.GetSheHe] is twice as strong as I am and challenging me to an arm-wrestling match to prove it.;;;;;;;;;;;;;x
-EVTDESCHF25202;[From.GetTitledFirstName] was too much of a coward to meet my challenge. [From.GetSheHeCap] excused [From.GetHerselfHimself] and left the hall in a hurry rather than test [From.GetHerHis] strength against mine.;;;;;;;;;;;;;x
-EVTDESCHF25203;[From.GetFirstName] and I sit one in front of the other, preparing ourselves for the game. We put our arms on the table while a third fighter holds our fists still. The crowd around us chants a disjointed countdown, and cheers as we start pushing against each other.;;;;;;;;;;;;;x
-EVTDESCHF25206;For a while, it seemed as if victory was assured. I was slowly pushing [From.GetFirstName]'s hand closer and closer to the table. Yet, all of a sudden, [From.GetSheHe] has started to gain back ground, getting [From.GetHerHis] hand back up and starting to push on the opposite side.;;;;;;;;;;;;;x
-EVTDESCHF25212;Things are not looking great for [From.GetFirstName]. I am slowly managing to get [From.GetHerHis] knuckles on the table, despite [From.GetHerHis] best efforts to push my hand back. When [From.GetSheHe] suddenly shouts a semi-coherent warning about something dangerous behind me, I am baffled.;;;;;;;;;;;;;x
-EVTDESCHF25215;With a loud thud, I slam [wl_arm_wrestling_loser.GetFirstName]'s fist against the table, earning a shower of cheers from the other warriors gathered around us. My opponent glares at me and mumbles something about accepting defeat as [wl_arm_wrestling_loser.GetSheHe] rubs [wl_arm_wrestling_loser.GetHerHis] hand.;;;;;;;;;;;;;x
-EVTDESCHF25216;With a loud thud, [wl_arm_wrestling_winner.GetFirstName] slams my fist against the table, earning a shower of cheers from the other warriors gathered around us. As if defeating me wasn't enough, [wl_arm_wrestling_winner.GetSheHe] starts mocking me openly.;;;;;;;;;;;;;x
-EVTDESCHF25217;With a loud thud, [wl_arm_wrestling_winner.GetFirstName] slams my fist against the table, earning a shower of cheers from the other warriors gathered around us. Luckily, [wl_arm_wrestling_winner.GetFirstName] decides to not rub in [wl_arm_wrestling_winner.GetHerHis] victory, and gives me a bit of praise for holding on this much against [wl_arm_wrestling_winner.GetHerHim].;;;;;;;;;;;;;x
-EVTDESCHF25226;A few of my fellow warriors have been spending the night at the Lodge, playing dice games while drinking. Noticing me watching them, they immediately invite me to join them. Initially, I refuse, but then they start teasing me, insinuating I am afraid of a simple betting game.;;;;;;;;;;;;;x
-EVTDESCHF25227;As I take the four-sided die inscribed with the intricate faces of the gods, I am asked how much I wish to bet before starting the game.;;;;;;;;;;;;;x
-EVTDESCHF25228;As I take the four-sided die inscribed with the intricate faces of the gods, I wonder who should I put my faith in. Some combinations will reward me more than others, yet they are harder to come by.;;;;;;;;;;;;;x
-EVTDESCHF25229;Having set all the bets, the warriors gathered around the table incite me to throw the die, eager to see what face will come up.;;;;;;;;;;;;;x
-EVTDESCHF25230;My attempt to change the regular die with a weighted one did not pass unnoticed. After a bit of squabbling, one of the other fighters manages to pick the die away from me and throws it on the table a few times, revealing my intent.;;;;;;;;;;;;;x
-EVTDESCHF25230_B;My attempt to change the regular die with a weighted one did not pass unnoticed. After a bit of squabbling, [random_society_winner.GetBestName] manages to pick the die away from me and throws it on the table a few times, revealing my intent and calling me a cheater.;;;;;;;;;;;;;x
-EVTDESCHF25231;Was there any doubt that [Root.GetWLDieBetName] would come up when I am using my lucky die? A chorus of cheers and groans accompany the result of the game and money is exchanged.;;;;;;;;;;;;;x
-EVTDESCHF25232;Unfortunately, I was too indiscreet with my leg, and several warriors noticed my attempt to move the die after it was cast. After a bit of squabbling, I am forced to accept defeat and pay up.;;;;;;;;;;;;;x
-EVTDESCHF25232_B;Unfortunately, I was too indiscreet with my leg, and several warriors noticed my attempt to move the die after it was cast. After a bit of squabbling, I am forced to accept defeat and recognize that [random_society_winner.GetBestName] has won the bet.;;;;;;;;;;;;;x
-EVTDESCHF25233;Despite the other warriors not noticing me kneeing the table, fate played me for a fool and I ended up accidentally pushing the die away from [Root.GetWLDieBetName], much to my disappointment.;;;;;;;;;;;;;x
-EVTDESCHF25233_B;Despite the other warriors not noticing me kneeing the table, fate played me for a fool and I ended up accidentally pushing the die away from [Root.GetWLDieBetName], much to my disappointment. [random_society_winner.GetBestName] smiles triumphantly, crossing [random_society_winner.GetHerHis] arms and demanding me to pay up.;;;;;;;;;;;;;x
-EVTDESCHF25234;With just a little help, my die rolled exactly as I hoped it would, landing to show [Root.GetWLDieBetName]. A chorus of cheers and groans accompany the result of the game and money is exchanged.;;;;;;;;;;;;;x
-EVTDESCHF25235;A moment of silence falls upon our group as the die rolls from my hand and bounces a few times on the table, rolling to a halt to show the face of [Root.GetWLDieName].;;;;;;;;;;;;;x
-EVTDESCHF25235_B;A moment of silence falls upon our group as the die rolls from my hand and bounces a few times on the table, rolling to a halt to show the face of [Root.GetWLDieName]. As the realization catches [random_society_winner.GetHerHim], [random_society_winner.GetBestName] cheers triumphantly, immediately asking me for [random_society_winner.GetHerHis] money.;;;;;;;;;;;;;x
-EVTDESCHF25236;After the money from the first bets exchanges hands, I pick up the die and cast it again, trying to throw it exactly in the same way. The die rolls around the table and finally stops, showing the face of [Root.GetWLDieName].;;;;;;;;;;;;;x
-EVTDESCHF25236_B;After the money from the first bets exchanges hands, I pick up the die and cast it again, trying to throw it exactly in the same way. The die rolls around the table and finally stops, showing the face of [Root.GetWLDieName]. As the realization catches [random_society_winner.GetHerHim], [random_society_winner.GetBestName] cheers triumphantly, immediately asking me for [random_society_winner.GetHerHis] money.;;;;;;;;;;;;;x
-EVTDESCHF25236_C;After the money from the first bets exchanges hands, I pick up the die and cast it again, trying to throw it exactly in the same way. The die rolls around the table and finally stops, showing the face of [Root.GetWLDieName]. As the realization catches him, one of the other warriors cheers triumphantly, immediately asking me for his money.;;;;;;;;;;;;;x
-EVTDESCHF25237;I confidently throw my lucky die a second time and to the chagrin of all the other warriors, collect all bets a second time.;;;;;;;;;;;;;x
-EVTDESCHF25238;I let the die bounce on the table twice and, just as it is about to stop, I give a little nudge to the table, ensuring my victory a second time.;;;;;;;;;;;;;x
-EVTDESCHF25239;[From.GetBestName] and I spent last evening playing dice games with some of the other warriors in the main hall. Fortune did not smile to [From.GetFirstName], and by the end of the night, I had managed to empty [From.GetHerHis] purse quite a bit.;;;;;;;;;;;;;x
-EVTDESCHF25240;[From.GetBestName] and I spent last evening playing dice games with some of the other warriors in the main hall. Fortune did not smile to [From.GetFirstName], and by the end of the night, [From.GetSheHe] begged me to call in the favor I owned [From.GetHerHim], just to avoid paying all of the debt [From.GetSheHe] had accumulated.;;;;;;;;;;;;;x
-EVTDESCHF25241;[From.GetBestName] and I spent last evening playing dice games with some of the other warriors in the main hall. Fortune did not smile to [From.GetFirstName], and by the end of the night, [From.GetSheHe] begged me to ask [From.GetHerHim] anything else rather than paying all of the debt [From.GetSheHe] had accumulated.;;;;;;;;;;;;;x
-EVTDESCHF25250;Many warriors have gathered in the great hall tonight. The dinner has just started, and I already feel eager to test my mettle against one of them. It has been some time since we had a good Flyting, and there are plenty of candidates known for their crude manners and their sharp-tongue for me to choose from.;;;;;;;;;;;;;x
-EVTDESCHF25251;Right in the middle of a dinner, [From.GetTitledFirstName] calls my name from the other side of the dining hall, standing on one of the long tables. [From.GetSheHeCap] challenges me to a Flyting, encouraging me to stand up and prepare myself to be thoroughly humiliated.;;;;;;;;;;;;;x
-EVTDESCHF25252;[From.GetTitledFirstName] has decided to refuse my challenge. Muttering some poor excuse about not being in the mood for insulting anyone, the [From.GetManWoman] shrinks back in the crowd, amongst the derision of all the other warriors in the room.;;;;;;;;;;;;;x
-EVTDESCHF25253;[From.GetTitledFirstName] takes a last drink and throws away [From.GetHerHis] tankard. [From.GetSheHeCap] stands up in front of me, claiming that [From.GetSheHe] is ready to turn me in the laughing stock of [Root.Society.GetName].;;;;;;;;;;;;;x
-EVTDESCHF25254;I stand up and shout [From.GetFirstName]'s name in the dining hall, catching many warriors' attention, and challenge [From.GetHerHim] to a Flyting. Now I only need to decide what subject will cut deeper under [From.GetFirstName]'s skin.;;;;;;;;;;;;;x
-EVTDESCHF25268;I lost my temper. Seeing that I was unable to rebuke [From.GetFirstName]'s insults, the crowd quickly sided with [From.GetHerHim] ensuring [From.GetHerHis] victory. As if it weren't enough, [From.GetFirstName] continued mocking me, even after I admitted defeat, reveling in shaming me for my loss!;;;;;;;;;;;;;x
-EVTDESCHF25269;I lost my temper. Seeing that I was unable to rebuke [From.GetFirstName]'s insults, the crowd quickly sided with [From.GetHerHim] ensuring [From.GetHerHis] victory. At the very least, after I admit defeat, [From.GetFirstName] calms me down and orders a drink for both of us, ensuring that it was all done in good fun and it was not [From.GetHerHis] intention to seriously offend me.;;;;;;;;;;;;;x
-EVTDESCHF25270;Perhaps I shouldn't have treated [From.GetFirstName] so poorly. Right after the game, [From.GetSheHe] swore revenge for [From.GetHerHis] humiliation and stormed off the main hall, amongst the laughter of all the other warriors.;;;;;;;;;;;;;x
-EVTDESCHF25271;Despite my show of kindness, [From.GetFirstName] refused to drink with me after the game. Instead, [From.GetSheHe] swore revenge for [From.GetHerHis] humiliation and stormed off the main hall, amongst the laughter of all the other warriors.;;;;;;;;;;;;;x
-EVTDESCHF25280;Our cellar has had a growing excess of mead for a few weeks now, to the point that I am starting to think about challenging the other warriors of the Lodge to see whom amongst them has the toughest stomach, while at the same time freeing some space and improving the fighters' morale.;;;;;;;;;;;;;x
-EVTDESCHF25281;[From.GetBestName] has decided to share a few barrels of mead to the entire congregation tonight, challenging [From.GetHerHis] fellow warriors to see which one among us will be able to drink the most without faltering.;;;;;;;;;;;;;x
-EVTDESCHF25283;Several recruits accepted my challenge at the mere mention of free mead and soon the main hall is filled with cheering and clashing of tankards. The servants bring in the first barrel while everybody finds a place in the long table, eager to start.;;;;;;;;;;;;;x
-EVTDESCHF25284;Several recruits accepted my challenge at the mere mention of free mead and soon the main hall is filled with cheering and clashing of tankards. The servants bring in the first barrel while we all find a place in the long table, eager to start.;;;;;;;;;;;;;x
-EVTDESCHF25286;The first warriors have just started tapping out when a scuffle between two of the contenders quickly devolves into a large brawl. When the dust settles, there's barely anyone left standing, and most of the mead has been spilled on the floor, making it very hard for me to determine if there is any winner at all.;;;;;;;;;;;;;x
-EVTDESCHF25287;The first warriors have just started tapping out when a scuffle between two of the contenders quickly devolves into a large brawl. When the dust settles, there's barely anyone left standing, and most of the mead has been spilled on the floor, making it very hard for [From.GetTitledFirstName] to determine if there is any winner at all.;;;;;;;;;;;;;x
-EVTDESCHF25289;With most of the other warriors having tapped out, it looks like it is down to [warrior_lodge_drinking_finalist_1.GetFirstName] and [warrior_lodge_drinking_finalist_2.GetFirstName]. The two contenders are drinking face to face for some time, when I start noticing that [From.GetFirstName] has started to spill a suspicious amount of mead at each new round.;;;;;;;;;;;;;x
-EVTDESCHF25290;When [From.GetFirstName] shouts my name, for a moment I think I have won the game. Unfortunately, this is not the case at all. [From.GetSheHeCap] has discovered my trick and called me out on it. Before I can try to explain myself, two warriors grab me by the arms and throw me out of the main hall.;;;;;;;;;;;;;x
-EVTDESCHF25291;One by one, the other contenders either tap out or fall unconscious. I cannot see straight anymore and everything is blurry, but I am still standing. All of a sudden [FromFrom.GetFirstName] calls for the name of my opponent, there is a bit of a scuffle, and I am proclaimed winner. I am not exactly sure what happened, but I can hardly complain about it.;;;;;;;;;;;;;x
-EVTDESCHF25292;One by one, the other contenders either tap out or fall unconscious. I cannot see straight anymore and everything is blurry, but I am still standing. I gulp down another tankard and watch mindlessly as my last opponent falls head first on the table. While I am still processing what happened, I am proclaimed the winner of the contest amongst the cheers of the other warriors.;;;;;;;;;;;;;x
-EVTDESCHF25293;One by one, the contenders tap out, throw up, or pass out, leaving lesser and lesser warriors still drinking. At the end of the evening, there is only one left: [From.GetFirstName]. The crowd cheers a few times for the winner and carries [From.GetHerHim] around the hall for a while, giving [From.GetHerHim] some much needed praise.;;;;;;;;;;;;;x
-EVTDESCHF25294;One by one, the other contenders either tap out or fall unconscious. I am just about to raise my hand and drink another mouthful of mead when everything goes black. When I finally come back to my senses, one of the other warriors informs me that [WL_drinking_contest_winner.GetBestName] was the one to win the contest in the end.;;;;;;;;;;;;;x
-EVTDESCHF25295;Despite my best efforts, [WL_drinking_contest_winner.GetFirstName] is relentless, drinking tankard after tankard, leaving me well behind in the match. In the end, I am unable to even raise my arm to drink anymore, and lean on the table, conceding [WL_drinking_contest_winner.GetHerHim] victory.;;;;;;;;;;;;;x
-EVTDESCHF25296;Once the other warriors have finally put me down and left me to cope with the more unpleasant consequences of my victory, [From.GetBestName] [From.GetHerselfHimself] approaches me to offer [From.GetHerHis] congratulations. [From.GetSheHeCap] claims that [From.GetSheHe] was truly impressed by my resilience and would love to count a [Root.GetManWoman] like me amongst [From.GetHerHis] allies.;;;;;;;;;;;;;x
-EVTDESCHF25297;Unfortunately, [From.GetFirstName] was not interested in my offer. I am not sure if [From.GetSheHe] even understood what I was asking of [From.GetHerHim] in [From.GetHerHis] current state. But then again, perhaps it was a silly idea in the first place...;;;;;;;;;;;;;x
-EVTDESCHF25298;Once the other warriors have finally put me down and left me to cope with the more unpleasant consequences of my victory, [From.GetBestName] [From.GetHerselfHimself] approaches me to offer [From.GetHerHis] congratulations. [From.GetSheHeCap] claims that [From.GetSheHe] was truly impressed by my resilience and would love to count a [From.GetManWoman] like me amongst [From.GetHerHis] friends.;;;;;;;;;;;;;x
-EVTDESCHF25299;Unfortunately, [From.GetFirstName] was not interested in my offer of friendship. I am not sure if [From.GetSheHe] even understood what I was asking of [From.GetHerHim] in [From.GetHerHis] current state. But then again, perhaps it was a silly idea in the first place...;;;;;;;;;;;;;x
-EVTDESCHF25300;Once the other warriors have finally put me down and left me to cope with the more unpleasant consequences of my victory, [From.GetBestName] [From.GetHerselfHimself] approaches me to offer [From.GetHerHis] congratulations. [From.GetSheHeCap] claims that [From.GetSheHe] was truly impressed by my resilience and as a show of respect wishes me to have some of [From.GetHerHis] spoils from a recent raid.;;;;;;;;;;;;;x
-
-EVTDESCAHF25205;Slowly but surely [arm_wrestling_fighter_2.GetFirstName] is gaining ground. Inch by inch, [arm_wrestling_fighter_2.GetSheHe] is pushing my fist closer and closer towards the table. I am starting to lose breath, my face is red and covered in sweat, yet I still cannot manage to push back against [arm_wrestling_fighter_2.GetHerHis] grip. I might simply not be strong enough to win this match...;;;;;;;;;;;;;x
-EVTDESCAHF25209;Slowly but surely, I manage to push [From.GetFirstName]'s hand closer and closer to the table. I grit my teeth and chuckle, glancing at my opponent to revel in my imminent victory. [From.GetFirstName] looks back at me with a smile. [From.GetSheHeCap] is leaning forward, trying to push back, and giving me a good view of her sweaty cleavage.;;;;;;;;;;;;;x
-EVTDESCAHF25218;It has been some time now since I have begun noticing [From.GetFirstName]. [From.GetSheHeCap] has distinguished [From.GetHerselfHimself] more than once amongst the members of our Lodge, to the point that I have started feeling strangely attracted to [From.GetHerHim].;;;;;;;;;;;;;x
-EVTDESCAHF25219;Tonight, just as I was about to leave the main hall, I was approached by [From.GetFirstName], one of my fellow warriors. After chatting for a while, [From.GetSheHe] reveals to me that [From.GetSheHe] has been watching me for a while, and finds me to be a very strong and attractive fighter.;;;;;;;;;;;;;x
-EVTDESCAHF25220;I was right to trust my feelings. [From.GetFirstName] was surprised and happy to hear of how I felt about [From.GetHerHim] and told me that [From.GetSheHe] was merely waiting for the right opportunity to reveal [From.GetHerHis] own feelings for me.;;;;;;;;;;;;;x
-EVTDESCAHF25221;Unfortunately, [From.GetFirstName] has spurned my advances without much thought to it. At first, I hoped that [From.GetSheHe] was simply misunderstanding my intentions, but, after a bit of discussing, [From.GetSheHe] flatly told me that [From.GetSheHe] is not interested in me.;;;;;;;;;;;;;x
-EVTDESCAHF25222;It has been some time now since I have begun noticing [From.GetFirstName]. [From.GetSheHeCap] has distinguished [From.GetHerselfHimself] more than once amongst the members of our Lodge. [From.GetSheHeCap] is, without a doubt, an impressive warrior.;;;;;;;;;;;;;x
-EVTDESCAHF25223;Tonight, just as I was about to leave the main hall, I was approached by [From.GetFirstName], one of my fellow warriors. After chatting for a while, [From.GetSheHe] reveals to me that [From.GetSheHe] has been watching me for a while, and has come to consider me one of the most valuable members of the Lodge, as well as a terrific fighter.;;;;;;;;;;;;;x
-EVTDESCAHF25224;[From.GetFirstName] was glad to hear of what I think of [From.GetHerHim]. We spent most of the night talking and ended up declaring our friendship to each other after a long series of toasts.;;;;;;;;;;;;;x
-EVTDESCAHF25225;Unfortunately, [From.GetFirstName]'s reception to my thoughts about [From.GetHerHim] was tepid at best. We talked for a while, but it soon became clear that we do not have as much in common as I initially thought.;;;;;;;;;;;;;x
-EVTDESCAHF25255;[Root.GetProwessInsultDesc];;;;;;;;;;;;;x
-EVTDESCAHF25257;[Root.GetCharacterInsultDesc];;;;;;;;;;;;;x
-EVTDESCAHF25259;[Root.GetAccomplishmentsInsultDesc];;;;;;;;;;;;;x
-EVTDESCAHF25261;[Root.GetFamilyInsultDesc];;;;;;;;;;;;;x
-EVTDESCAHF25262;[Root.GetFamilyInsultDesc];;;;;;;;;;;;;x
-EVTDESCAHF25263;We spar with words for a while, but soon [From.GetFirstName]'s face grows red with rage and embarrassment, surrounded by the laughter of the other warriors. Unable to put together a coherent response, my opponent has clearly lost the Flyting.;;;;;;;;;;;;;x
-EVTDESCAHF25288;One by one, the other contenders either tap out or fall unconscious. I cannot see straight anymore and everything is blurry, but I am still standing. Unfortunately, so is [warrior_lodge_drinking_finalist_2.GetFirstName], and [warrior_lodge_drinking_finalist_2.GetSheHe] looks far more resilient than me right now.;;;;;;;;;;;;;x
-
-EVTDESCBHF25205;Slowly but surely [arm_wrestling_fighter_1.GetFirstName] is gaining ground. Inch by inch, [arm_wrestling_fighter_1.GetSheHe] is pushing my fist closer and closer towards the table. I am starting to lose breath, my face is red and covered in sweat, yet I still cannot manage to push back against [arm_wrestling_fighter_1.GetHerHis] grip. I might simply not be strong enough to win this match...;;;;;;;;;;;;;x
-EVTDESCBHF25209;Slowly but surely, I manage to push [From.GetFirstName]'s hand closer and closer to the table. I grit my teeth and chuckle, glancing at my opponent to revel in my imminent victory. [From.GetFirstName] looks back at me with a smile and winks at me, making my heart skip a beat.;;;;;;;;;;;;;x
-EVTDESCBHF25255;[From.GetTitledFirstName] calls my name from the other side of the dining hall, standing on one of the long tables, challenging me to a Flyting. [Root.GetProwessInsultDesc];;;;;;;;;;;;;x
-EVTDESCBHF25257;[From.GetTitledFirstName] calls my name from the other side of the dining hall, standing on one of the long tables, challenging me to a Flyting. [Root.GetCharacterInsultDesc];;;;;;;;;;;;;x
-EVTDESCBHF25259;[From.GetTitledFirstName] calls my name from the other side of the dining hall, standing on one of the long tables, challenging me to a Flyting. [Root.GetAccomplishmentsInsultDesc];;;;;;;;;;;;;x
-EVTDESCBHF25261;[From.GetTitledFirstName] calls my name from the other side of the dining hall, standing on one of the long tables, challenging me to a Flyting. [Root.GetFamilyInsultDesc];;;;;;;;;;;;;x
-EVTDESCBHF25288;One by one, the other contenders either tap out or fall unconscious. I cannot see straight anymore and everything is blurry, but I am still standing. Unfortunately, so is [warrior_lodge_drinking_finalist_1.GetFirstName], and [warrior_lodge_drinking_finalist_1.GetSheHe] looks far more resilient than me right now.;;;;;;;;;;;;;x
-
-
-EVTOPTAHF25200;I will pick the strongest I can find!;;;;;;;;;;;;;x
-EVTOPTAHF25201;You are on!;;;;;;;;;;;;;x
-EVTOPTAHF25202;Pathetic!;;;;;;;;;;;;;x
-EVTOPTAHF25203;Hnnnngh!;;;;;;;;;;;;;x
-EVTOPTAHF25205;*Sneakily slide your elbow*;;;;;;;;;;;;;x
-EVTOPTAHF25206;Do not move your elbow, cheater!;;;;;;;;;;;;;x
-EVTOPTAHF25209;Not interested!;;;;;;;;;;;;;x
-EVTOPTAHF25212;Do you think I am that stupid?;;;;;;;;;;;;;x
-EVTOPTAHF25215;What sort of weakling are you?;;;;;;;;;;;;;x
-EVTOPTAHF25216;Oh, shut up!;;;;;;;;;;;;;x
-EVTOPTAHF25217;I need to train more...;;;;;;;;;;;;;x
-EVTOPTAHF25218;I wonder if [From.GetSheHe] feels the same...;;;;;;;;;;;;;x
-EVTOPTAHF25219;And I happen to think the same about you.;;;;;;;;;;;;;x
-EVTOPTAHF25220;Interested in some late-night training?;;;;;;;;;;;;;x
-EVTOPTAHF25221;I should have known...;;;;;;;;;;;;;x
-EVTOPTAHF25222;We should be friends!;;;;;;;;;;;;;x
-EVTOPTAHF25223;Thanks. I feel the same about you, [From.GetFirstName].;;;;;;;;;;;;;x
-EVTOPTAHF25224;I couldn't ask for a better friend, [From.GetFirstName]!;;;;;;;;;;;;;x
-EVTOPTAHF25225;What a shame...;;;;;;;;;;;;;x
-EVTOPTAHF25226;Alright, then! Pass me the die!;;;;;;;;;;;;;x
-EVTOPTAHF25227;All in!;;;;;;;;;;;;;x
-EVTOPTAHF25228;I bet on Krita!;;;;;;;;;;;;;x
-EVTOPTAHF25228_HELLENIC;I bet on Apollo!;;;;;;;;;;;;;x
-EVTOPTAHF25229;Luckily, I am using my weighted die.;;;;;;;;;;;;;x
-EVTOPTAHF25230;It's not what it seems!;;;;;;;;;;;;;x
-EVTOPTAHF25231;Let's go again! Double or nothing!;;;;;;;;;;;;;x
-EVTOPTAHF25232;I wasn't doing anything, I swear!;;;;;;;;;;;;;x
-EVTOPTAHF25233;Stupid die...;;;;;;;;;;;;;x
-EVTOPTAHF25234;Let's go again! Double or nothing!;;;;;;;;;;;;;x
-EVTOPTAHF25235;Yes! Let's go again, double or nothing!;;;;;;;;;;;;;x
-EVTOPTAHF25236;Yes! Won again!;;;;;;;;;;;;;x
-EVTOPTAHF25237;What a great night!;;;;;;;;;;;;;x
-EVTOPTAHF25238;Come on, folks, pay up!;;;;;;;;;;;;;x
-EVTOPTAHF25239;Already tired of playing, [From.GetFirstName]?;;;;;;;;;;;;;x
-EVTOPTAHF25240;Perhaps you should not bet what you do not have?;;;;;;;;;;;;;x
-EVTOPTAHF25241;I will think about this favor you owe me...;;;;;;;;;;;;;x
-EVTOPTAHF25250;I will settle for nobody less than our best speaker!;;;;;;;;;;;;;x
-EVTOPTAHF25251;We shall see about that!;;;;;;;;;;;;;x
-EVTOPTAHF25252;Pffh! What a coward!;;;;;;;;;;;;;x
-EVTOPTAHF25253;Go ahead, then! I will let you start.;;;;;;;;;;;;;x
-EVTOPTAHF25254;[Root.GetProwessInsultOption];;;;;;;;;;;;;x
-EVTOPTAHF25255;How dare you say that!;;;;;;;;;;;;;x
-EVTOPTAHF25257;Shut up! Shut up immediately!;;;;;;;;;;;;;x
-EVTOPTAHF25261;How dare you! Enough!;;;;;;;;;;;;;x
-EVTOPTAHF25262;How dare you! Enough!;;;;;;;;;;;;;x
-EVTOPTAHF25263;Stop being such a child!;;;;;;;;;;;;;x
-EVTOPTAHF25268;This is it! From now on, we are enemies!;;;;;;;;;;;;;x
-EVTOPTAHF25269;Well, too late for that!;;;;;;;;;;;;;x
-EVTOPTAHF25270;Can the [From.GetManWoman] not take a joke?;;;;;;;;;;;;;x
-EVTOPTAHF25280;Why not? Let the celebrations begin!;;;;;;;;;;;;;x
-EVTOPTAHF25281;I shall be the one!;;;;;;;;;;;;;x
-EVTOPTAHF25283;Do not worry, there is more than enough for everyone!;;;;;;;;;;;;;x
-EVTOPTAHF25284;Come on! Start pouring already!;;;;;;;;;;;;;x
-EVTOPTAHF25286;It was a fun evening at least...;;;;;;;;;;;;;x
-EVTOPTAHF25287;Ugh, well, at least it was fun.;;;;;;;;;;;;;x
-EVTOPTAHF25288;There must be a way to get ahead...;;;;;;;;;;;;;x
-EVTOPTAHF25289;Eh, I will allow it.;;;;;;;;;;;;;x
-EVTOPTAHF25290;Ouch!;;;;;;;;;;;;;x
-EVTOPTAHF25291;Yes! I *hic* won!;;;;;;;;;;;;;x
-EVTOPTAHF25292;Yes! I *hic* won!;;;;;;;;;;;;;x
-EVTOPTAHF25293;A determinate [From.GetManWoman] like [From.GetHerHim] is the kind of ally I need!;;;;;;;;;;;;;x
-EVTOPTAHF25294;Wait, for how long was I out?;;;;;;;;;;;;;x
-EVTOPTAHF25295;I just want rest my eyes for a while...;;;;;;;;;;;;;x
-EVTOPTAHF25296;Why not? Sure...;;;;;;;;;;;;;x
-EVTOPTAHF25297;I should think these things through more often.;;;;;;;;;;;;;x
-EVTOPTAHF25298;Why not? Sure...;;;;;;;;;;;;;x
-EVTOPTAHF25299;Who needs [From.GetHerHim]?;;;;;;;;;;;;;x
-EVTOPTAHF25300;Thanks, [From.GetFirstName]!;;;;;;;;;;;;;x
-
-EVTOPTBHF25200;[arm_wrestling_opponent_2.GetFirstName] looks like a fitting opponent.;;;;;;;;;;;;;x
-EVTOPTBHF25201;I am too tired right now...;;;;;;;;;;;;;x
-EVTOPTBHF25205_A;*Wink charmingly at [arm_wrestling_fighter_2.GetFirstName]*;;;;;;;;;;;;;x
-EVTOPTBHF25205_B;*Wink charmingly at [arm_wrestling_fighter_1.GetFirstName]*;;;;;;;;;;;;;x
-EVTOPTBHF25206;How is [From.GetSheHe] doing it!?!;;;;;;;;;;;;;x
-EVTOPTBHF25209;I only care about my beloved.;;;;;;;;;;;;;x
-EVTOPTBHF25212;What!?! What is it?!;;;;;;;;;;;;;x
-EVTOPTBHF25215;Do not be too hard on yourself!;;;;;;;;;;;;;x
-EVTOPTBHF25218;Just a passing fancy, surely.;;;;;;;;;;;;;x
-EVTOPTBHF25219;Thanks, but I am not interested.;;;;;;;;;;;;;x
-EVTOPTBHF25222;Not as impressive as me.;;;;;;;;;;;;;x
-EVTOPTBHF25223;That is very flattering of you...;;;;;;;;;;;;;x
-EVTOPTBHF25226;Maybe some other time.;;;;;;;;;;;;;x
-EVTOPTBHF25227;I am feeling rather lucky tonight.;;;;;;;;;;;;;x
-EVTOPTBHF25228;I bet on Treta!;;;;;;;;;;;;;x
-EVTOPTBHF25228_HELLENIC;I bet on Athena!;;;;;;;;;;;;;x
-EVTOPTBHF25229;Surely, nobody will notice a bump under the table...;;;;;;;;;;;;;x
-EVTOPTBHF25230;Alright, here is your money...;;;;;;;;;;;;;x
-EVTOPTBHF25231;We should do this more often.;;;;;;;;;;;;;x
-EVTOPTBHF25234;We should do this more often.;;;;;;;;;;;;;x
-EVTOPTBHF25235;Yes! I won!;;;;;;;;;;;;;x
-EVTOPTBHF25236;Ugh... I lost everything!;;;;;;;;;;;;;x
-EVTOPTBHF25250;[flyting_potential_opponent_2.GetTitledFirstName] looks like a good match for me!;;;;;;;;;;;;;x
-EVTOPTBHF25251;I am not in the mood right now.;;;;;;;;;;;;;x
-EVTOPTBHF25254;[Root.GetCharacterInsultOption];;;;;;;;;;;;;x
-EVTOPTBHF25255;As if I cared...;;;;;;;;;;;;;x
-EVTOPTBHF25257;I have no problem admitting my flaws.;;;;;;;;;;;;;x
-EVTOPTBHF25259;Meh, not that I care either way...;;;;;;;;;;;;;x
-EVTOPTBHF25261;As if I cared.;;;;;;;;;;;;;x
-EVTOPTBHF25262;As if I cared about what you think.;;;;;;;;;;;;;x
-EVTOPTBHF25263;It was all in good fun, [From.GetFirstName], do not be mad!;;;;;;;;;;;;;x
-EVTOPTBHF25268;Enough of this stupid game!;;;;;;;;;;;;;x
-EVTOPTBHF25269;If you say so...;;;;;;;;;;;;;x
-EVTOPTBHF25280;That seems like such a waste...;;;;;;;;;;;;;x
-EVTOPTBHF25281;I'd rather avoid the headache instead.;;;;;;;;;;;;;x
-EVTOPTBHF25288;I am made of tougher stuff than this!;;;;;;;;;;;;;x
-EVTOPTBHF25289;Stop right there!;;;;;;;;;;;;;x
-EVTOPTBHF25293;I really like that [From.GetManWoman].;;;;;;;;;;;;;x
-EVTOPTBHF25296;Bah! I do not need *you*!;;;;;;;;;;;;;x
-EVTOPTBHF25298;Bah! You are not *my* friend!;;;;;;;;;;;;;x
-
-EVTOPTCHF25200;I'd rather not risk embarrassing myself...;;;;;;;;;;;;;x
-EVTOPTCHF25205;*Lean forward and smile*;;;;;;;;;;;;;x
-EVTOPTCHF25206;Wha-?;;;;;;;;;;;;;x
-EVTOPTCHF25209;Pfh! You have picked the wrong person!;;;;;;;;;;;;;x
-EVTOPTCHF25227;This is as much as I am willing to go.;;;;;;;;;;;;;x
-EVTOPTCHF25228;I bet on Dwapara!;;;;;;;;;;;;;x
-EVTOPTCHF25228_HELLENIC;I bet on Hermes!;;;;;;;;;;;;;x
-EVTOPTCHF25229;Let's play!;;;;;;;;;;;;;x
-EVTOPTCHF25230;How about we consider it even?;;;;;;;;;;;;;x
-EVTOPTCHF25235;Curses!;;;;;;;;;;;;;x
-EVTOPTCHF25250;I just want an easy fight.;;;;;;;;;;;;;x
-EVTOPTCHF25254;[Root.GetAccomplishmentsInsultOption];;;;;;;;;;;;;x
-EVTOPTCHF25255;I think my accomplishments speak for themselves...;;;;;;;;;;;;;x
-EVTOPTCHF25257;But I am not like that at all!;;;;;;;;;;;;;x
-EVTOPTCHF25259;What does that mean?!;;;;;;;;;;;;;x
-EVTOPTCHF25261;This is so mean of you!;;;;;;;;;;;;;x
-EVTOPTCHF25262;This is so mean of you!;;;;;;;;;;;;;x
-EVTOPTCHF25288;I have to try at least!;;;;;;;;;;;;;x
-EVTOPTCHF25293;I will honor [From.GetHerHis] victory with a gift.;;;;;;;;;;;;;x
-
-EVTOPTDHF25200;On second thought, I will go take a drink instead.;;;;;;;;;;;;;x
-EVTOPTDHF25205;Wh-what's that behind you?!;;;;;;;;;;;;;x
-EVTOPTDHF25209;I... uhhh...;;;;;;;;;;;;;x
-EVTOPTDHF25227;I am only playing for fun...;;;;;;;;;;;;;x
-EVTOPTDHF25228;I bet on Kali!;;;;;;;;;;;;;x
-EVTOPTDHF25228_HELLENIC;I bet on Dionysus!;;;;;;;;;;;;;x
-EVTOPTDHF25230;I will make it up to you in some way, I promise!;;;;;;;;;;;;;x
-EVTOPTDHF25250;Maybe some other night...;;;;;;;;;;;;;x
-EVTOPTDHF25254;[Root.GetFamilyInsultOption];;;;;;;;;;;;;x
-EVTOPTDHF25255;Oh, I wouldn't know about that, [From.GetFirstName]...;;;;;;;;;;;;;x
-EVTOPTDHF25257;How dare you say it! That's not my fault!;;;;;;;;;;;;;x
-EVTOPTDHF25259;Oh, we shall see about that!;;;;;;;;;;;;;x
-EVTOPTDHF25261;Isn't this supposed to be a game?;;;;;;;;;;;;;x
-EVTOPTDHF25262;Isn't this supposed to be a game?;;;;;;;;;;;;;x
-EVTOPTDHF25293;[From.GetSheHeCap] earned a bit of praise.;;;;;;;;;;;;;x
-
-EVTOPTEHF25205;I must try anyway!;;;;;;;;;;;;;x
-EVTOPTEHF25209_A;*Stare intently at [From.GetFirstName]'s breasts.*;;;;;;;;;;;;;x
-EVTOPTEHF25209_B;*Lose yourself in [From.GetFirstName]'s dreamy eyes*;;;;;;;;;;;;;x
-EVTOPTEHF25255;I have no idea what you are talking about!;;;;;;;;;;;;;x
-
-EVTOPTFHF25255;T-That's not true at all!;;;;;;;;;;;;;x
-
-EVTOPTYHF25216;I will show you who is stronger!;;;;;;;;;;;;;x
-EVTOPTYHF25221;How dare you reject me!;;;;;;;;;;;;;x
-EVTOPTYHF25230;How dare you call me a cheat!;;;;;;;;;;;;;x
-EVTOPTYHF25235;You cheated!;;;;;;;;;;;;;x
-EVTOPTYHF25268;I will make you eat those words!;;;;;;;;;;;;;x
-
-EVTOPTZZZHF25252;Last time [Root.GetFirstName] pleasured a woman was when he relieved his mother's womb of his presence.;;;;;;;;;;;;;x
-
-TT_EVTOPTAHF25200;Challenge §Y[arm_wrestling_opponent_1.GetTitledFirstName]§! to an arm-wrestling match.;;;;;;;;;;;;;x
-TT_EVTOPTAHF25201;Accept §Y[From.GetTitledFirstName]§!'s challenge.;;;;;;;;;;;;;x
-TT_EVTOPTAHF25215;§Y[wl_arm_wrestling_loser.GetTitledFirstName]§! might challenge you to a §YDuel§! for insulting [wl_arm_wrestling_loser.GetHerHim].;;;;;;;;;;;;;x
-TT_EVTOPTAHF25216;Your fellow warriors laugh at you.;;;;;;;;;;;;;x
-TT_EVTOPTAHF25218;Approach §Y[From.GetTitledFirstName]§! and declare your feelings for [From.GetHerHim].;;;;;;;;;;;;;x
-TT_EVTOPTAHF25222;Approach §Y[From.GetTitledFirstName]§!, offering [From.GetHerHim] your friendship.;;;;;;;;;;;;;x
-TT_EVTOPTAHF25230;Your fellow §YWarriors§! will remember this.;;;;;;;;;;;;;x
-TT_EVTOPTAHF25232;Your fellow §YWarriors§! will remember this.;;;;;;;;;;;;;x
-TT_EVTOPTAHF25250;Challenge §Y[flyting_potential_opponent_1.GetTitledFirstName]§! to a contest of dialectics.;;;;;;;;;;;;;x
-TT_EVTOPTAHF25251;Accept §Y[From.GetTitledFirstName]§!'s challenge and begin the §YFlyting§!.;;;;;;;;;;;;;x
-TT_EVTOPTAHF25263;§Y[From.GetTitledFirstName]§! might challenge you to a §YDuel§! for insulting [From.GetHerHim].;;;;;;;;;;;;;x
-TT_EVTOPTAHF25268;The other warriors laugh at you as you storm out.;;;;;;;;;;;;;x
-TT_EVTOPTAHF25269;The other warriors mock you for your pettiness as you storm out.;;;;;;;;;;;;;x
-TT_EVTOPTAHF25281;Accept §Y[From.GetFirstName]§!'s challenge.;;;;;;;;;;;;;x
-TT_EVTOPTAHF25283;You keep track of the contenders and wait for the winner.;;;;;;;;;;;;;x
-TT_EVTOPTAHF25284;You begin drinking.;;;;;;;;;;;;;x
-TT_EVTOPTAHF25288;Try spilling most of your drink at each new round.;;;;;;;;;;;;;x
-TT_EVTOPTAHF25289;Ignore §Y[From.GetFirstName]§! cheating.;;;;;;;;;;;;;x
-TT_EVTOPTAHF25290;Your fellow warriors will remember your slight.;;;;;;;;;;;;;x
-
-TT_EVTOPTBHF25200;Challenge §Y[arm_wrestling_opponent_2.GetTitledFirstName]§! to an arm-wrestling match.;;;;;;;;;;;;;x
-TT_EVTOPTBHF25201;Refuse §Y[From.GetTitledFirstName]§!'s challenge.\nYour fellow §YWarriors§! will remember this cowardly act.;;;;;;;;;;;;;x
-TT_EVTOPTBHF25250;Challenge §Y[flyting_potential_opponent_2.GetTitledFirstName]§! to a contest of dialectics.;;;;;;;;;;;;;x
-TT_EVTOPTBHF25288;Focus your energies entirely on winning the match.;;;;;;;;;;;;;x
-TT_EVTOPTBHF25289;Expose §Y[From.GetFirstName]§!.;;;;;;;;;;;;;x
-
-TT_EVTOPTCHF25200;Challenge §Y[arm_wrestling_opponent_3.GetTitledFirstName]§! to an arm-wrestling match.;;;;;;;;;;;;;x
-TT_EVTOPTCHF25229;Throw the die.;;;;;;;;;;;;;x
-TT_EVTOPTCHF25250;Challenge §Y[flyting_potential_opponent_3.GetTitledFirstName]§! to a contest of dialectics.;;;;;;;;;;;;;x
-
-TT_DIE_TABLE_BUMP_DISCOVERED;the other warriors noticing that you are trying to cheat.;;;;;;;;;;;;;x
-TT_DIE_TABLE_BUMP_FAILS;being unable to push the die properly.;;;;;;;;;;;;;x
-TT_DIE_TABLE_BUMP_WINS;your trick working.;;;;;;;;;;;;;x
-
-TT_FAKE_DIE_DISCOVERED;your trick being discovered.;;;;;;;;;;;;;x
-TT_FAKE_DIE_WINS;you successfully tricking the other warriors.;;;;;;;;;;;;;x
-
-TT_FLYTING_INSULT_AVERAGE_REACTION;You hear the crowd snickering at you.;;;;;;;;;;;;;x
-TT_FLYTING_INSULT_LOST_PATIENCE_REACTION;You lose your patience.;;;;;;;;;;;;;x
-TT_FLYTING_INSULT_MILD_REACTION;[From.GetFirstName]'s words barely affect you.;;;;;;;;;;;;;x
-TT_FLYTING_INSULT_POOR_REACTION;The crowd laughs at you.;;;;;;;;;;;;;x
-TT_FLYTING_INSULTING_ACCOMPLISHMENTS;Insult §Y[From.GetFirstName]§!'s accomplishments.\nThis line of insults tends to be more effective against §YAmbitious§! and §YProud§! opponents.;;;;;;;;;;;;;x
-TT_FLYTING_INSULTING_CHARACTER;Insult §Y[From.GetFirstName]§!'s character.\nThis line of insults tends to be more effective against §YEnvious§! and §YShy§! opponents.;;;;;;;;;;;;;x
-TT_FLYTING_INSULTING_FAMILY;Insult §Y[From.GetFirstName]§!'s family.\nThis line of insults tends to be more effective against §YKind§! opponents.;;;;;;;;;;;;;x
-TT_FLYTING_INSULTING_PROWESS;Insult §Y[From.GetFirstName]§!'s prowess.\nThis line of insults tends to be more effective towards §YLustful§! opponents.;;;;;;;;;;;;;x
-TT_FLYTING_OPPONENT_REACTS;§Y[From.GetTitledFirstName]§! reacts to your attack.;;;;;;;;;;;;;x
-
-TOOLTIP_EVTOPTDHF25205;Try to increase your chances by cheating.;;;;;;;;;;;;;x
-tooltip_EVTOPTYHF25230;Start a §YDuel§! with §Y[random_society_winner.GetFirstName]§! to avoid paying your debt.;;;;;;;;;;;;;x
-
-tooltip_betting_10_gold;Bet §G10§! gold.;;;;;;;;;;;;;x
-tooltip_betting_20_gold;Bet §G20§! gold.;;;;;;;;;;;;;x
-tooltip_betting_25_gold;Bet §G25§! gold.;;;;;;;;;;;;;x
-tooltip_betting_50_gold;Bet §G50§! gold.;;;;;;;;;;;;;x
-tooltip_betting_100_gold;Bet §G100§! gold.;;;;;;;;;;;;;x
-tooltip_betting_200_gold;Bet §G200§! gold.;;;;;;;;;;;;;x
-tooltip_betting_250_gold;Bet §G250§! gold.;;;;;;;;;;;;;x
-tooltip_betting_500_gold;Bet §G500§! gold.;;;;;;;;;;;;;x
-tooltip_betting_1000_gold;Bet §G1000§! gold.;;;;;;;;;;;;;x
-tooltip_betting_double;Bet §G[local_twice_betting_money.GetValue]§! gold.;;;;;;;;;;;;;x
-
+EVTTITLEHF25200;The Arm-wrestling Challenge;;;;;;;;;;;Àðìðåñòëèíã;;x
+EVTTITLEHF25226;The Dice Game;;;;;;;;;;;Èãðà â êîñòè;;x
+EVTTITLEHF25250;The Flyting;;;;;;;;;;;Ïåðåáðàíêà;;x
+EVTTITLEHF25280;The Drinking Contest;;;;;;;;;;;Êòî áîëüøå âûïüåò;;x
+EVTDESCHF25200;Spirits are high at the Lodge tonight, and I am itching for a challenge. Many important warriors have gathered in the large hall to celebrate a recent hunt, giving me no shortage of capable warriors to test my strength with.;;;;;;;;;;;Ñåãîäíÿ â Ëîæå öàðèò ïðèïîäíÿòîå íàñòðîåíèå, è ìíå íå òåðïèòñÿ ïðèíÿòü âûçîâ. Ìíîãèå âàæíûå âîèíû ñîáðàëèñü â áîëüøîì çàëå, ÷òîáû îòïðàçäíîâàòü íåäàâíþþ îõîòó, è ó ìåíÿ íåò íåäîñòàòêà â ñïîñîáíûõ âîèíàõ, ñ êîòîðûìè ÿ ìîãó èñïûòàòü ñâîè ñèëû.;;x
+EVTDESCHF25201;Many important warriors have gathered in the Lodge tonight in order to celebrate a recent hunt. I have barely joined some of my friends in the festivities when [From.GetTitledFirstName] barges in, claiming that [From.GetSheHe] is twice as strong as I am and challenging me to an arm-wrestling match to prove it.;;;;;;;;;;;Ñåãîäíÿ âå÷åðîì â Ëîæå ñîáðàëîñü ìíîãî âàæíûõ âîèíîâ, ÷òîáû îòïðàçäíîâàòü íåäàâíþþ îõîòó. Åäâà ÿ ïðèñîåäèíè[Root.GetLasLsya] ê íåêîòîðûì èç ìîèõ äðóçåé íà ïðàçäíèêå, êàê âðûâàåòñÿ [From.GetTitledFirstName], óòâåðæäàÿ, ÷òî [From.GetSheHe] âäâîå ñèëüíåå ìåíÿ, è âûçûâàåò ìåíÿ íà ïîåäèíîê ïî àðìðåñòëèíãó, ÷òîáû äîêàçàòü ýòî.;;x
+EVTDESCHF25202;[From.GetTitledFirstName] was too much of a coward to meet my challenge. [From.GetSheHeCap] excused [From.GetHerselfHimself] and left the hall in a hurry rather than test [From.GetHerHis] strength against mine.;;;;;;;;;;;[From.GetTitledFirstName] îêàçà[From.GetLasLsya] ñëèøêîì òðóñëèâ[From.GetEndA], ÷òîáû ïðèíÿòü ìîé âûçîâ. [From.GetSheHeCap] èçâèíÿåòñÿ è â ñïåøêå ïîêèäàåò çàë, âìåñòî òîãî ÷òîáû èñïûòàòü ñâîþ ñèëó ïðîòèâ ìîåé.;;x
+EVTDESCHF25203;[From.GetFirstName] and I sit one in front of the other, preparing ourselves for the game. We put our arms on the table while a third fighter holds our fists still. The crowd around us chants a disjointed countdown, and cheers as we start pushing against each other.;;;;;;;;;;;[From.GetFirstName] è ÿ ñèäèì äðóã íàïðîòèâ äðóãà, ãîòîâÿñü ê èãðå. Ìû êëàä¸ì ðóêè íà ñòîë, à òðåòèé áîåö äåðæèò íàøè êóëàêè íåïîäâèæíî. Òîëïà âîêðóã íàñ ñêàíäèðóåò áåñïîðÿäî÷íûé îáðàòíûé îòñ÷¸ò è àïëîäèðóåò, êîãäà ìû íà÷èíàåì äàâèòü äðóã íà äðóãà.;;x
+EVTDESCHF25206;For a while, it seemed as if victory was assured. I was slowly pushing [From.GetFirstName]'s hand closer and closer to the table. Yet, all of a sudden, [From.GetSheHe] has started to gain back ground, getting [From.GetHerHis] hand back up and starting to push on the opposite side.;;;;;;;;;;;Êàêîå-òî âðåìÿ êàçàëîñü, ÷òî ïîáåäà îáåñïå÷åíà. ß ìåäëåííî ïîäòàëêèâàë[Root.GetEndA] ðóêó [From.GetFirstName] âñ¸ áëèæå è áëèæå ê ñòîëó. Òåì íå ìåíåå, âíåçàïíî [From.GetSheHe] íà÷àë[From.GetEndA] íàáèðàòü îáîðîòû, ïîäíèìàÿ ñâîþ ðóêó è îêàçûâàÿ äàâëåíèå â ïðîòèâîïîëîæíóþ ñòîðîíó.;;x
+EVTDESCHF25212;Things are not looking great for [From.GetFirstName]. I am slowly managing to get [From.GetHerHis] knuckles on the table, despite [From.GetHerHis] best efforts to push my hand back. When [From.GetSheHe] suddenly shouts a semi-coherent warning about something dangerous behind me, I am baffled.;;;;;;;;;;;Äåëà ó [From.GetFirstName] èäóò íåâàæíî. Ìíå óäà¸òñÿ ìåäëåííî ñêëîíÿòü [From.GetHerHis] êîñòÿøêè ïàëüöåâ ê ñòîëó, íåñìîòðÿ íà âñå [From.GetHerHis] ïîïûòêè îòòîëêíóòü ìîþ ðóêó. Êîãäà [From.GetSheHe] âíåçàïíî âûêðèêèâàåò íåâíÿòíîå ïðåäóïðåæäåíèå î ÷¸ì-òî îïàñíîì ïîçàäè ìåíÿ, ýòî ñáèâàåò ñ òîëêó.;;x
+EVTDESCHF25215;With a loud thud, I slam [wl_arm_wrestling_loser.GetFirstName]'s fist against the table, earning a shower of cheers from the other warriors gathered around us. My opponent glares at me and mumbles something about accepting defeat as [wl_arm_wrestling_loser.GetSheHe] rubs [wl_arm_wrestling_loser.GetHerHis] hand.;;;;;;;;;;;Ñ ãðîìêèì ñòóêîì ÿ óäàðÿþ ðóêó [wl_arm_wrestling_loser.GetFirstName] îá ñòîë, âûçûâàÿ îäîáðèòåëüíûå âîçãëàñû äðóãèõ âîèíîâ, ñîáðàâøèõñÿ âîêðóã íàñ. Ìîé ïðîòèâíèê ñìîòðèò íà ìåíÿ è ÷òî-òî áîðìî÷åò î ïðèçíàíèè ïîðàæåíèÿ, êîãäà [wl_arm_wrestling_loser.GetSheHe] ïîòèðàåò ñâîþ ðóêó.;;x
+EVTDESCHF25216;With a loud thud, [wl_arm_wrestling_winner.GetFirstName] slams my fist against the table, earning a shower of cheers from the other warriors gathered around us. As if defeating me wasn't enough, [wl_arm_wrestling_winner.GetSheHe] starts mocking me openly.;;;;;;;;;;;Ñ ãðîìêèì ñòóêîì [wl_arm_wrestling_winner.GetFirstName] áü¸ò ðóêîé ïî ñòîëó, âûçûâàÿ áóðþ àïëîäèñìåíòîâ ñî ñòîðîíû äðóãèõ âîèíîâ, ñîáðàâøèõñÿ âîêðóã íàñ. Êàê áóäòî ïîáåäèòü ìåíÿ áûëî íåäîñòàòî÷íî, [wl_arm_wrestling_winner.GetSheHe] íà÷èíàåò îòêðûòî èçäåâàòüñÿ íàäî ìíîé.;;x
+EVTDESCHF25217;With a loud thud, [wl_arm_wrestling_winner.GetFirstName] slams my fist against the table, earning a shower of cheers from the other warriors gathered around us. Luckily, [wl_arm_wrestling_winner.GetFirstName] decides to not rub in [wl_arm_wrestling_winner.GetHerHis] victory, and gives me a bit of praise for holding on this much against [wl_arm_wrestling_winner.GetHerHim].;;;;;;;;;;;Ñ ãðîìêèì ñòóêîì [wl_arm_wrestling_winner.GetFirstName] áü¸ò ðóêîé ïî ñòîëó, âûçûâàÿ áóðþ àïëîäèñìåíòîâ ó äðóãèõ âîèíîâ, ñîáðàâøèõñÿ îêîëî íàñ. Ê ñ÷àñòüþ, [wl_arm_wrestling_winner.GetFirstName] ðåøàåò íå êè÷èòñÿ ñâîåé ïîáåäîé è íåìíîãî ïîõâàëèë[wl_arm_wrestling_winner.GetEndA] ìåíÿ çà òî, ÷òî ÿ òàê äîëãî äåðæà[Root.GetLasLsya] ïðîòèâ í[wl_arm_wrestling_winner.GetHerHis].;;x
+EVTDESCHF25226;A few of my fellow warriors have been spending the night at the Lodge, playing dice games while drinking. Noticing me watching them, they immediately invite me to join them. Initially, I refuse, but then they start teasing me, insinuating I am afraid of a simple betting game.;;;;;;;;;;;Íåñêîëüêî ìîèõ òîâàðèùåé-âîèíîâ ïðîâåëè íî÷ü â Ëîæå, èãðàÿ â êîñòè è âûïèâàÿ. Çàìåòèâ, ÷òî ÿ íàáëþäàþ çà íèìè, îíè òóò æå ïðèãëàøàþò ìåíÿ ïðèñîåäèíèòüñÿ ê íèì. Ñíà÷àëà ÿ îòêàçûâàþñü, íî ïîòîì îíè íà÷èíàþò äðàçíèòü ìåíÿ, íàìåêàÿ, ÷òî ÿ áîþñü îáû÷íîé èãðû â êîñòè.;;x
+EVTDESCHF25227;As I take the four-sided die inscribed with the intricate faces of the gods, I am asked how much I wish to bet before starting the game.;;;;;;;;;;;Êîãäà ÿ áåðó ÷åòûð¸õãðàííûé êóáèê ñ çàìûñëîâàòûìè ëèêàìè áîãîâ, ìåíÿ ñïðàøèâàþò, êàêîå ÷èñëî ÿ õî÷ó ïîñòàâèòü ïåðåä íà÷àëîì èãðû.;;x
+EVTDESCHF25228;As I take the four-sided die inscribed with the intricate faces of the gods, I wonder who should I put my faith in. Some combinations will reward me more than others, yet they are harder to come by.;;;;;;;;;;;Êîãäà ÿ áåðó ÷åòûð¸õãðàííûé êóáèê ñ çàìûñëîâàòûìè ëèêàìè áîãîâ, ÿ äóìàþ, íà êîãî ìíå ñëåäóåò ïîñòàâèòü. Íåêîòîðûå êîìáèíàöèè âîçíàãðàäÿò ìåíÿ áîëüøå, ÷åì äðóãèå, íî èõ òðóäíåå ïîëó÷èòü.;;x
+EVTDESCHF25229;Having set all the bets, the warriors gathered around the table incite me to throw the die, eager to see what face will come up.;;;;;;;;;;;Ñäåëàâ âñå ñòàâêè, âîèíû, ñîáðàâøèåñÿ âîêðóã ñòîëà, ïîäñòðåêàþò ìåíÿ áðîñèòü êîñòü, æåëàÿ óâèäåòü, êàêàÿ ãðàíü ìíå âûïàäåò.;;x
+EVTDESCHF25230;My attempt to change the regular die with a weighted one did not pass unnoticed. After a bit of squabbling, one of the other fighters manages to pick the die away from me and throws it on the table a few times, revealing my intent.;;;;;;;;;;;Ìîÿ ïîïûòêà çàìåíèòü îáû÷íóþ èãðàëüíóþ êîñòü íà óòÿæåë¸ííóþ íå ïðîøëà íåçàìå÷åííîé. Ïîñëå íåáîëüøîé ññîðû îäíîìó èç äðóãèõ áîéöîâ óäà¸òñÿ îòîáðàòü ó ìåíÿ êóáèê è íåñêîëüêî ðàç áðîñèòü åãî íà ñòîë, ðàñêðûâ ìîè íàìåðåíèÿ.;;x
+EVTDESCHF25230_B;My attempt to change the regular die with a weighted one did not pass unnoticed. After a bit of squabbling, [random_society_winner.GetBestName] manages to pick the die away from me and throws it on the table a few times, revealing my intent and calling me a cheater.;;;;;;;;;;;Ìîÿ ïîïûòêà çàìåíèòü îáû÷íûé êóáèê íà óòÿæåë¸ííûé íå îñòàëàñü íåçàìå÷åííîé. Ïîñëå íåáîëüøîé ïåðåïàëêè [random_society_winner.GetTitledFirstNameWithNick] óäà¸òñÿ îòîáðàòü ó ìåíÿ êóáèê è íåñêîëüêî ðàç áðîñèòü åãî íà ñòîë, ðàñêðûâ ìîè íàìåðåíèÿ è íàçâàâ ìåíÿ ìîøåííè[Root.GetTseyKom].;;x
+EVTDESCHF25231;Was there any doubt that [Root.GetWLDieBetName] would come up when I am using my lucky die? A chorus of cheers and groans accompany the result of the game and money is exchanged.;;;;;;;;;;;Ðàçâå ìîæíî áûëî ñîìíåâàòüñÿ, ÷òî [Root.GetWLDieBetName] âûïàäåò, êîãäà ÿ èñïîëüçóþ ñâîé ñ÷àñòëèâûé êóáèê? Õîð âîçãëàñîâ è ñòîíîâ ñîïðîâîæäàåòñÿ àïëîäèñìåíòàìè, è äåíüãè ïåðåõîäÿò èç îäíèõ ðóê â äðóãèå.;;x
+EVTDESCHF25232;Unfortunately, I was too indiscreet with my leg, and several warriors noticed my attempt to move the die after it was cast. After a bit of squabbling, I am forced to accept defeat and pay up.;;;;;;;;;;;Ê ñîæàëåíèþ, ÿ áûë[Root.GetEndA] ñëèøêîì íåîñòîðîæ[Root.GetNaEn] ñî ñâîåé íîãîé, è íåñêîëüêî âîèíîâ çàìåòèëè ìîþ ïîïûòêó ïåðåäâèíóòü êîñòü ïîñëå òîãî, êàê îíà áûëà áðîøåíà. Ïîñëå íåáîëüøîé ïåðåïàëêè ìíå ïðèøëîñü ïðèçíàòü ñâî¸ ïîðàæåíèå è çàïëàòèòü.;;x
+EVTDESCHF25232_B;Unfortunately, I was too indiscreet with my leg, and several warriors noticed my attempt to move the die after it was cast. After a bit of squabbling, I am forced to accept defeat and recognize that [random_society_winner.GetBestName] has won the bet.;;;;;;;;;;;Ê ñîæàëåíèþ, ÿ áûë[Root.GetEndA] ñëèøêîì íåîñòîðîæ[Root.GetNaEn] ñî ñâîåé íîãîé, è íåñêîëüêî âîèíîâ çàìåòèëè ìîþ ïîïûòêó ïåðåäâèíóòü êóáèê ïîñëå òîãî, êàê îí áûë áðîøåí. Ïîñëå íåáîëüøîé ïåðåïàëêè ìíå ïðèøëîñü ïðèçíàòü ïîðàæåíèå è ñîãëàñèòñÿ ñ òåì, ÷òî [random_society_winner.GetTitledFirstNameWithNick] âûèãðàë[random_society_winner.GetEndA] ïàðè.;;x
+EVTDESCHF25233;Despite the other warriors not noticing me kneeing the table, fate played me for a fool and I ended up accidentally pushing the die away from [Root.GetWLDieBetName], much to my disappointment.;;;;;;;;;;;Íåñìîòðÿ íà òî, ÷òî äðóãèå âîèíû íå çàìåòèëè, êàê çàäåâàþ ñòîë ñâîèì êîëåíîì, ñóäüáà ñûãðàëà ñî ìíîé çëóþ øóòêó, è â èòîãå ÿ ñëó÷àéíî îòòîëêíóë[Root.GetEndA] êóáèê îò [Root.GetWLDieBetNameGEN], ê ìîåìó áîëüøîìó ðàçî÷àðîâàíèþ.;;x
+EVTDESCHF25233_B;Despite the other warriors not noticing me kneeing the table, fate played me for a fool and I ended up accidentally pushing the die away from [Root.GetWLDieBetName], much to my disappointment. [random_society_winner.GetBestName] smiles triumphantly, crossing [random_society_winner.GetHerHis] arms and demanding me to pay up.;;;;;;;;;;;Íåñìîòðÿ íà òî, ÷òî äðóãèå âîèíû íå çàìåòèëè, êàê ÿ äâèãàþ êîëåíîì, çàäåâàÿ ñòîë, ñóäüáà ñûãðàëà ñî ìíîé çëóþ øóòêó, è, â èòîãå, ÿ ñëó÷àéíî îòòîëêíóë[Root.GetEndA] êóáèê îò [Root.GetWLDieBetNameGEN], ê ñâîåìó áîëüøîìó ðàçî÷àðîâàíèþ. [random_society_winner.GetTitledFirstNameWithNick] òîðæåñòâóþùå óëûáàåòñÿ, ñêðåùèâàåò ñâîè ðóêè è òðåáóåò, ÷òîáû ÿ çàïëàòèë[Root.GetEndA].;;x
+EVTDESCHF25234;With just a little help, my die rolled exactly as I hoped it would, landing to show [Root.GetWLDieBetName]. A chorus of cheers and groans accompany the result of the game and money is exchanged.;;;;;;;;;;;Ñ íåáîëüøîé ïîìîùüþ, ìîé êóáèê óïàë èìåííî òàê, êàê ÿ íàäåÿ[Root.GetLasLsya], ïðèçåìëèâøèñü, ÷òîáû ïîêàçàòü [Root.GetWLDieBetNameACC]. Ðåçóëüòàò èãðû ñîïðîâîæäàåòñÿ õîðîì àïëîäèñìåíòîâ è ñòîíîâ, è äåíüãè ïåðåòåêàþò èç îäíèõ ðóê â äðóãèå.;;x
+EVTDESCHF25235;A moment of silence falls upon our group as the die rolls from my hand and bounces a few times on the table, rolling to a halt to show the face of [Root.GetWLDieName].;;;;;;;;;;;Ìèíóòà òèøèíû íàñòóïàåò â íàøåé ãðóïïå, ïîñëå òîãî, êàê êóáèê âûïàäàåò èç ìîåé ðóêè è íåñêîëüêî ðàç ïîäïðûãèâàåò íà ñòîëå, îñòàíàâëèâàÿñü, ÷òîáû ïîêàçàòü [Root.GetWLDieNameGEN] ëèöî.;;x
+EVTDESCHF25235_B;A moment of silence falls upon our group as the die rolls from my hand and bounces a few times on the table, rolling to a halt to show the face of [Root.GetWLDieName]. As the realization catches [random_society_winner.GetHerHim], [random_society_winner.GetBestName] cheers triumphantly, immediately asking me for [random_society_winner.GetHerHis] money.;;;;;;;;;;;Ìèíóòà òèøèíû íàñòóïàåò â íàøåé ãðóïïå, êîãäà êóáèê âûïàäàåò èç ìîåé ðóêè è íåñêîëüêî ðàç ïîäïðûãèâàåò íà ñòîëå, îñòàíàâëèâàÿñü, ÷òîáû ïîêàçàòü ëèöî [Root.GetWLDieNameGEN]. Êîãäà îñîçíàíèå ýòîãî íàñòèãàåò [random_society_winner.GetHerHis], [random_society_winner.GetTitledFirstNameWithNick] òîðæåñòâóþùå ëèêóåò è òóò æå ïðîñèò ó ìåíÿ ñâîè äåíüãè.;;x
+EVTDESCHF25236;After the money from the first bets exchanges hands, I pick up the die and cast it again, trying to throw it exactly in the same way. The die rolls around the table and finally stops, showing the face of [Root.GetWLDieName].;;;;;;;;;;;Ïîñëå òîãî, êàê äåíüãè îò ïåðâûõ ñòàâîê ïåðåõîäÿò èç ðóê â ðóêè, ÿ áåðó êîñòü è êèäàþ å¸ ñíîâà, ñòàðàÿñü áðîñèòü òî÷íî òàê æå. Êóáèê êàòèòñÿ ïî ñòîëó è, íàêîíåö, îñòàíàâëèâàåòñÿ, ïîêàçûâàÿ ëèöî [Root.GetWLDieNameGEN].;;x
+EVTDESCHF25236_B;After the money from the first bets exchanges hands, I pick up the die and cast it again, trying to throw it exactly in the same way. The die rolls around the table and finally stops, showing the face of [Root.GetWLDieName]. As the realization catches [random_society_winner.GetHerHim], [random_society_winner.GetBestName] cheers triumphantly, immediately asking me for [random_society_winner.GetHerHis] money.;;;;;;;;;;;Ïîñëå òîãî, êàê äåíüãè îò ïåðâûõ ñòàâîê ïåðåõîäÿò èç ðóê â ðóêè, ÿ áåðó êîñòü è áðîñàþ å¸ ñíîâà, ñòàðàÿñü áðîñèòü òî÷íî òàê æå. Êóáèê êàòèòñÿ ïî ñòîëó è, íàêîíåö, îñòàíàâëèâàåòñÿ, ïîêàçûâàÿ ëèöî [Root.GetWLDieNameGEN]. Êîãäà îñîçíàíèå ýòîãî ïîñòèãàåò [random_society_winner.GetHerHim], [random_society_winner.GetTitledFirstNameWithNick] òîðæåñòâóþùå âîñêëèöàåò, íåìåäëåííî ïîòðåáîâàâ ó ìåíÿ ñâîè äåíüãè.;;x
+EVTDESCHF25236_C;After the money from the first bets exchanges hands, I pick up the die and cast it again, trying to throw it exactly in the same way. The die rolls around the table and finally stops, showing the face of [Root.GetWLDieName]. As the realization catches him, one of the other warriors cheers triumphantly, immediately asking me for his money.;;;;;;;;;;;Ïîñëå òîãî, êàê äåíüãè îò ïåðâûõ ñòàâîê ïåðåõîäÿò èç ðóê â ðóêè, ÿ áåðó êîñòü è ñíîâà áðîñàþ å¸, ñòàðàÿñü êèíóòü òî÷íî òàê æå, êàê ðàíüøå. Êóáèê êàòèòñÿ ïî ñòîëó è, íàêîíåö, îñòàíàâëèâàåòñÿ, ïîêàçûâàÿ ëèöî [Root.GetWLDieNameGEN]. Êîãäà îñîçíàíèå ýòîãî íàñòèãàåò åãî, îäèí èç äðóãèõ âîèíîâ òîðæåñòâóþùå âîñêëèöàåò, ñðàçó æå òðåáóåò ó ìåíÿ ñâîè äåíüãè.;;x
+EVTDESCHF25237;I confidently throw my lucky die a second time and to the chagrin of all the other warriors, collect all bets a second time.;;;;;;;;;;;ß óâåðåííî áðîñàþ ñâîé ñ÷àñòëèâûé êóáèê âî âòîðîé ðàç è, ê ðàçî÷àðîâàíèþ âñåõ îñòàëüíûõ âîèíîâ, îïÿòü âûèãðûâàþ è çàáèðàþ âñå ñòàâêè.;;x
+EVTDESCHF25238;I let the die bounce on the table twice and, just as it is about to stop, I give a little nudge to the table, ensuring my victory a second time.;;;;;;;;;;;ß ïîçâîëÿþ êóáèêó äâàæäû ïîäïðûãíóòü íà ñòîëå è, êîãäà îí âîò-âîò îñòàíîâèòñÿ, ñëåãêà ïîäòàëêèâàþ ñòîë, îáåñïå÷èâàÿ ñåáå ïîáåäó âî âòîðîé ðàç.;;x
+EVTDESCHF25239;[From.GetBestName] and I spent last evening playing dice games with some of the other warriors in the main hall. Fortune did not smile to [From.GetFirstName], and by the end of the night, I had managed to empty [From.GetHerHis] purse quite a bit.;;;;;;;;;;;[From.GetTitledFirstNameWithNick] è ÿ ïðîâåëè ïðîøëûé âå÷åð, èãðàÿ â êîñòè ñ íåñêîëüêèìè äðóãèìè âîèíàìè â ãëàâíîì çàëå. Óäà÷à íå óëûáíóëàñü [From.GetFirstName], è ê êîíöó íî÷è ÿ óñïåë[Root.GetEndA] èçðÿäíî îïóñòîøèòü [From.GetHerHis] êîøåë¸ê.;;x
+EVTDESCHF25240;[From.GetBestName] and I spent last evening playing dice games with some of the other warriors in the main hall. Fortune did not smile to [From.GetFirstName], and by the end of the night, [From.GetSheHe] begged me to call in the favor I owned [From.GetHerHim], just to avoid paying all of the debt [From.GetSheHe] had accumulated.;;;;;;;;;;;[From.GetTitledFirstNameWithNick] è ÿ ïðîâåëè ïðîøëûé âå÷åð, èãðàÿ â êîñòè ñ äðóãèìè âîèíàìè â ãëàâíîì çàëå. Óäà÷à íå óëûáíóëàñü [From.GetFirstName], è ê êîíöó íî÷è [From.GetSheHe] óìîëÿë[From.GetEndA] ìåíÿ ïðèíÿòü îò [From.GetFirstName] óñëóãó, ëèøü áû íå ïëàòèòü âåñü äîëã, êîòîðûé [From.GetSheHe] íàêîïèë[From.GetEndA].;;x
+EVTDESCHF25241;[From.GetBestName] and I spent last evening playing dice games with some of the other warriors in the main hall. Fortune did not smile to [From.GetFirstName], and by the end of the night, [From.GetSheHe] begged me to ask [From.GetHerHim] anything else rather than paying all of the debt [From.GetSheHe] had accumulated.;;;;;;;;;;;[From.GetTitledFirstNameWithNick] è ÿ ïðîâåëè ïðîøëûé âå÷åð, èãðàÿ â êîñòè ñ äðóãèìè âîèíàìè â ãëàâíîì çàëå. Óäà÷à íå óëûáíóëàñü [From.GetFirstName], è ê êîíöó íî÷è [From.GetSheHe] óìîëÿë[From.GetEndA] ìåíÿ ïîïðîñèòü [From.GetHerHis] î ÷¸ì-íèáóäü åù¸, ëèøü áû íå ïëàòèòü âåñü äîëã, êîòîðûé [From.GetSheHe] íàêîïèë[From.GetEndA].;;x
+EVTDESCHF25250;Many warriors have gathered in the great hall tonight. The dinner has just started, and I already feel eager to test my mettle against one of them. It has been some time since we had a good Flyting, and there are plenty of candidates known for their crude manners and their sharp-tongue for me to choose from.;;;;;;;;;;;Âåëèêîå ìíîæåñòâî ñëàâíûõ âîèíîâ ñîáðàëîñü ñåãîäíÿ â áîëüøîì çàëå. Äàâíåíüêî ó íàñ íå áûëî õîðîøåé ïåðåáðàíêè, óæèí òîëüêî íà÷àëñÿ, à ìíå óæå íå òåðïèòñÿ èñïûòàòü ñâîè ñèëû ïðîòèâ êîãî-íèáóäü èç íèõ. Ìíîãèå ñëàâÿòñÿ ãðóáûìè ìàíåðàìè è îñòðûì ÿçûêîì, íî êîãî æå ìíå âûáðàòü â êà÷åñòâå îïïîíåíòà?;;x
+EVTDESCHF25251;Right in the middle of a dinner, [From.GetTitledFirstName] calls my name from the other side of the dining hall, standing on one of the long tables. [From.GetSheHeCap] challenges me to a Flyting, encouraging me to stand up and prepare myself to be thoroughly humiliated.;;;;;;;;;;;Ïðÿìî âî âðåìÿ óæèíà [From.GetTitledFirstName] âäðóã âûêðèêíóë[From.GetEndA] ìî¸ èìÿ ñ äðóãîé ñòîðîíû çàëà. [From.GetSheHeCap] âûçâàë[From.GetEndA] ìåíÿ íà ôëèòèíã, òðåáóÿ âñòàòü èç-çà ñòîëà, ÷òîáû ïðèãîòîâèòüñÿ ê ïóáëè÷íîìó óíèæåíèþ.;;x
+EVTDESCHF25252;[From.GetTitledFirstName] has decided to refuse my challenge. Muttering some poor excuse about not being in the mood for insulting anyone, the [From.GetManWoman] shrinks back in the crowd, amongst the derision of all the other warriors in the room.;;;;;;;;;;;[From.GetTitledFirstName] íå ïðèíÿë[From.GetEndA] ìîé âûçîâ íà ôëèòèíã, îòìàõíóâøèñü íåëåïûìè îïðàâäàíèÿìè. Ñêàçàë[From.GetEndA], ÿêîáû [From.GetSheHe] íå â íàñòðîåíèè, ÷òî âûçâàëî ëèøü íàñìåøêè ñðåäè ïðèñóòñòâóþùèõ.;;x
+EVTDESCHF25253;[From.GetTitledFirstName] takes a last drink and throws away [From.GetHerHis] tankard. [From.GetSheHeCap] stands up in front of me, claiming that [From.GetSheHe] is ready to turn me in the laughing stock of [Root.Society.GetName].;;;;;;;;;;;[From.GetTitledFirstName] îïóñòîøèë[From.GetEndA] êðóæêó [From.GetAlcoholGEN] è, îòøâûðíóâ å¸ â ñòîðîíó, âñêî÷èë[From.GetEndA] ñî ñâîåãî ìåñòà. [From.GetSheHeCap] âûêðèêíóë[From.GetEndA] ìî¸ èìÿ è çàÿâèë[From.GetEndA], ÷òî ãîòîâ[From.GetEndA] ñäåëàòü èç ìåíÿ ïîñìåøèùå ïåðåä ïðèñóòñòâóþùèìè.;;x
+EVTDESCHF25254;I stand up and shout [From.GetFirstName]'s name in the dining hall, catching many warriors' attention, and challenge [From.GetHerHim] to a Flyting. Now I only need to decide what subject will cut deeper under [From.GetFirstName]'s skin.;;;;;;;;;;;"ß ãðîìêî ïðîêðè÷àë[Root.GetEndA] ""[From.GetFirstName]!"", ÷òî òóò æå ïðèâëåêëî âíèìàíèå âñåõ ïðèñóòñòâóþùèõ â çàëå âîèíîâ, è âûçâàë[Root.GetEndA] [Root.GetHersHis] íà ôëèòèíã - òðàäèöèîííóþ ïåðåáðàíêó. Îñòàëîñü òîëüêî âûáðàòü, ÷åì [From.GetHersHis] çàöåïèòü.";;x
+EVTDESCHF25268;I lost my temper. Seeing that I was unable to rebuke [From.GetFirstName]'s insults, the crowd quickly sided with [From.GetHerHim] ensuring [From.GetHerHis] victory. As if it weren't enough, [From.GetFirstName] continued mocking me, even after I admitted defeat, reveling in shaming me for my loss!;;;;;;;;;;;ß ïîòåðÿë[Root.GetEndA] ñàìîîáëàäàíèå, áóäó÷è íåñïîñîáí[Root.GetOyYm] ïðèäóìàòü äîñòîéíûé îòâåò, è òîëïà áûñòðî îòðåàãèðîâàëà íà ýòî. [From.GetFirstName] ñòàë[From.GetEndA] ïîáåäèòåëåì ôëèòèíãà, íî ýòîãî [From.GetHerHim] îêàçàëîñü ìàëî. [From.GetSheHeCap] ðåøèë[From.GetEndA] íàïîñëåäîê ïîñìåÿòüñÿ íàä ìîèì ïîçîðîì!;;x
+EVTDESCHF25269;I lost my temper. Seeing that I was unable to rebuke [From.GetFirstName]'s insults, the crowd quickly sided with [From.GetHerHim] ensuring [From.GetHerHis] victory. At the very least, after I admit defeat, [From.GetFirstName] calms me down and orders a drink for both of us, ensuring that it was all done in good fun and it was not [From.GetHerHis] intention to seriously offend me.;;;;;;;;;;;ß ïîòåðÿë[Root.GetEndA] ñàìîîáëàäàíèå, áóäó÷è íåñïîñîáí[Root.GetOyYm] ïðèäóìàòü äîñòîéíûé îòâåò, è òîëïà áûñòðî îòðåàãèðîâàëà íà ýòî. [From.GetFirstName] ñòàë[From.GetEndA] ïîáåäèòåëåì ôëèòèíãà, îäíàêî íà óäèâëåíèå ïðîÿâèë[From.GetEndA] âåæëèâîñòü è äàæå çàêàçàë[From.GetEndA] íàì âûïèòü. [From.GetSheHeCap] ñêàçàë[From.GetEndA], ÷òî ïðîñòî äóðà÷è[From.GetLasLsya] è íå õîòåë[From.GetEndA] áû, ÷òîáû ÿ çàòàèë[Root.GetEndA] íà í[From.GetHersHis] îáèäó èç-çà êàêîé-òî èãðû.;;x
+EVTDESCHF25270;Perhaps I shouldn't have treated [From.GetFirstName] so poorly. Right after the game, [From.GetSheHe] swore revenge for [From.GetHerHis] humiliation and stormed off the main hall, amongst the laughter of all the other warriors.;;;;;;;;;;;Âîçìîæíî, ÿ ñëèøêîì óâëåê[From.GetLasSya] íà ôëèòèíãå, [From.GetFirstName] âîñïðèíÿë[From.GetEndA] ýòî êàê ëè÷íîå îñêîðáëåíèå. [From.GetSheHeCap] ïîêëÿ[From.GetLasLsya] îòîìñòèòü ìíå çà óíèæåíèå è äåìîíñòðàòèâíî ïîêèíóë[From.GetEndA] çàë ïîä ãðîìêèé ñìåõ ñâîèõ ñîðàòíèêîâ.;;x
+EVTDESCHF25271;Despite my show of kindness, [From.GetFirstName] refused to drink with me after the game. Instead, [From.GetSheHe] swore revenge for [From.GetHerHis] humiliation and stormed off the main hall, amongst the laughter of all the other warriors.;;;;;;;;;;;Íåñìîòðÿ íà òî, ÷òî ÿ ïðîÿâèë[Root.GetEndA] âåæëèâîñòü ïîñëå ïåðåáðàíêè, [From.GetFirstName] îòêàçà[From.GetLasLsya] âûïèòü ñî ìíîé. Áîëåå òîãî, [From.GetSheHe] ïîêëÿ[From.GetLasLsya] îòîìñòèòü ìíå çà óíèæåíèå è äåìîíñòðàòèâíî ïîêèíóë[From.GetEndA] çàë ïîä ãðîìêèé ñìåõ ñâîèõ ñîðàòíèêîâ.;;x
+EVTDESCHF25280;Our cellar has had a growing excess of mead for a few weeks now, to the point that I am starting to think about challenging the other warriors of the Lodge to see whom amongst them has the toughest stomach, while at the same time freeing some space and improving the fighters' morale.;;;;;;;;;;;Â íàøåì ïîãðåáå óæå íåñêîëüêî íåäåëü íàêàïëèâàåòñÿ èçáûòîê ìåäîâóõè, è ÿ óæå ïîäóìûâàþ î òîì, ÷òîáû áðîñèòü âûçîâ äðóãèì âîèíàì Ëîæè, ÷òîáû óçíàòü, ó êîãî èç íèõ ñàìûé êðåïêèé æåëóäîê, à çàîäíî îñâîáîäèòü íåìíîãî ìåñòà è ïîâûñèòü áîåâîé äóõ áîéöîâ.;;x
+EVTDESCHF25281;[From.GetBestName] has decided to share a few barrels of mead to the entire congregation tonight, challenging [From.GetHerHis] fellow warriors to see which one among us will be able to drink the most without faltering.;;;;;;;;;;;Ñåãîäíÿ âå÷åðîì [From.GetTitledFirstNameWithNick] ðåøèë[From.GetEndA] ïîäåëèòüñÿ íåñêîëüêèìè áî÷êàìè ìåäîâóõè ñî âñåé îáùèíîé, áðîñèâ âûçîâ ñâîèì ñîðàòíèêàì-âîèíàì, ÷òîáû ïîñìîòðåòü, êòî èç íàñ ñìîæåò, áåç êîëåáàíèé, âûïèòü áîëüøå âñåõ.;;x
+EVTDESCHF25283;Several recruits accepted my challenge at the mere mention of free mead and soon the main hall is filled with cheering and clashing of tankards. The servants bring in the first barrel while everybody finds a place in the long table, eager to start.;;;;;;;;;;;Íåñêîëüêî íîâîáðàíöåâ ïðèíÿëè ìîé âûçîâ ïðè îäíîì ëèøü óïîìèíàíèè î áåñïëàòíîé ìåäîâóõå, è âñêîðå ãëàâíûé çàë íàïîëíèëñÿ ðàäîñòíûìè âîçãëàñàìè è çâîíîì êðóæåê. Ñëóãè ïðèíîñÿò ïåðâûé áî÷îíîê, è âñå óñàæèâàþòñÿ çà äëèííûé ñòîë, ïðåäâêóøàÿ íà÷àëî.;;x
+EVTDESCHF25284;Several recruits accepted my challenge at the mere mention of free mead and soon the main hall is filled with cheering and clashing of tankards. The servants bring in the first barrel while we all find a place in the long table, eager to start.;;;;;;;;;;;Íåñêîëüêî íîâîáðàíöåâ ïðèíÿëè ìîé âûçîâ ïðè îäíîì óïîìèíàíèè î áåñïëàòíîé ìåäîâóõå, è âñêîðå ãëàâíûé çàë íàïîëíèëñÿ ðàäîñòíûìè âîçãëàñàìè è çâîíîì êðóæåê. Ñëóãè ïðèíîñÿò ïåðâóþ áî÷êó, ïîêà ìû âñå óñòðàèâàåìñÿ ïîóäîáíåå çà äëèííûì ñòîëîì, ñ íåòåðïåíèåì îæèäàÿ íà÷àëà.;;x
+EVTDESCHF25286;The first warriors have just started tapping out when a scuffle between two of the contenders quickly devolves into a large brawl. When the dust settles, there's barely anyone left standing, and most of the mead has been spilled on the floor, making it very hard for me to determine if there is any winner at all.;;;;;;;;;;;Ïåðâûå âîèíû òîëüêî íà÷àëè òåðÿòü ñîçíàíèå îò âûïèòîãî, êîãäà ïîòàñîâêà ìåæäó äâóìÿ ïðåòåíäåíòàìè áûñòðî ïåðåðîñëà â áîëüøóþ äðàêó. Êîãäà ïûëü îñåäàåò, ïî÷òè íè êòî íå ñìîã ñòîÿòü íà íîãàõ, à áîëüøàÿ ÷àñòü ìåäîâóõè ïðîëèëàñü íà ïîë, òàê ÷òî ìíå î÷åíü òðóäíî îïðåäåëèòü, åñòü ëè âîîáùå ïîáåäèòåëü.;;x
+EVTDESCHF25287;The first warriors have just started tapping out when a scuffle between two of the contenders quickly devolves into a large brawl. When the dust settles, there's barely anyone left standing, and most of the mead has been spilled on the floor, making it very hard for [From.GetTitledFirstName] to determine if there is any winner at all.;;;;;;;;;;;Ïåðâûå âîèíû òîëüêî íà÷àëè òåðÿòü ñîçíàíèå îò âûïèâêè, êîãäà ïîòàñîâêà ìåæäó äâóìÿ ïðåòåíäåíòàìè áûñòðî ïåðåðîñëà â áîëüøóþ äðàêó. Êîãäà ïûëü îñåëà, ïî÷òè íèêîãî íå îñòàëîñü íà ìåñòå, à áîëüøàÿ ÷àñòü ìåäîâóõè áûëà ïðîëèòà íà ïîë, òàê ÷òî [From.GetTitledFirstName] î÷åíü òðóäíî îïðåäåëèòü, åñòü ëè âîîáùå ïîáåäèòåëü.;;x
+EVTDESCHF25289;With most of the other warriors having tapped out, it looks like it is down to [warrior_lodge_drinking_finalist_1.GetFirstName] and [warrior_lodge_drinking_finalist_2.GetFirstName]. The two contenders are drinking face to face for some time, when I start noticing that [From.GetFirstName] has started to spill a suspicious amount of mead at each new round.;;;;;;;;;;;Ïîñêîëüêó áîëüøèíñòâî äðóãèõ âîèíîâ âûøëè èç èãðû, ïîõîæå, ÷òî îñòàëèñü [warrior_lodge_drinking_finalist_1.GetFirstName] è [warrior_lodge_drinking_finalist_2.GetFirstName]. Äâà ñîïåðíèêà êàêîå-òî âðåìÿ ïüþò, ëèöîì äðóã ïåðåä äðóãîì, êîãäà ÿ íà÷èíàþ çàìå÷àòü, ÷òî [From.GetFirstName] íà÷àë[From.GetEndA] ïðîëèâàòü ïîäîçðèòåëüíîå êîëè÷åñòâî ìåäîâóõè â êàæäîì íîâîì ðàóíäå.;;x
+EVTDESCHF25290;When [From.GetFirstName] shouts my name, for a moment I think I have won the game. Unfortunately, this is not the case at all. [From.GetSheHeCap] has discovered my trick and called me out on it. Before I can try to explain myself, two warriors grab me by the arms and throw me out of the main hall.;;;;;;;;;;;Êîãäà [From.GetFirstName] âûêðèêèâàåò ìî¸ èìÿ, íà ìãíîâåíèå ìíå êàæåòñÿ, ÷òî ÿ ïîáåäèë[Root.GetEndA] â èãðå. Ê ñîæàëåíèþ, ýòî ñîâñåì íå òàê. [From.GetSheHeCap] îáíàðóæèë[From.GetEndA] ìîþ óëîâêó è çàêðè÷àë[From.GetEndA], ÷òîáû ñîîáùèòü îá ýòîì. Ïðåæäå ÷åì ÿ óñïåâàþ îáúÿñíèòüñÿ, äâîå âîèíîâ õâàòàþò ìåíÿ çà ðóêè è âûøâûðèâàþò èç ãëàâíîãî çàëà.;;x
+EVTDESCHF25291;One by one, the other contenders either tap out or fall unconscious. I cannot see straight anymore and everything is blurry, but I am still standing. All of a sudden [FromFrom.GetFirstName] calls for the name of my opponent, there is a bit of a scuffle, and I am proclaimed winner. I am not exactly sure what happened, but I can hardly complain about it.;;;;;;;;;;;Îäèí çà äðóãèì îñòàëüíûå ïðåòåíäåíòû ëèáî ñäàþòñÿ, ëèáî ïàäàþò áåç ñîçíàíèÿ. ß áîëüøå íå ìîãó âèäåòü ÷¸òêî, âñ¸ ðàñïëûâàåòñÿ, íî ÿ âñ¸ åù¸ ñòîþ. Âäðóã [FromFrom.GetFirstName] íàçûâàåò èìÿ ìîåãî ñîïåðíèêà, ïðîèñõîäèò íåáîëüøàÿ ïîòàñîâêà, è ìåíÿ ïðîâîçãëàøàþò ïîáåäèòåë[Root.GetSoftNitseyEm]. ß òî÷íî íå çíàþ, ÷òî ïðîèçîøëî, íî âðÿä ëè ìîãó íà ýòî æàëîâàòüñÿ.;;x
+EVTDESCHF25292;One by one, the other contenders either tap out or fall unconscious. I cannot see straight anymore and everything is blurry, but I am still standing. I gulp down another tankard and watch mindlessly as my last opponent falls head first on the table. While I am still processing what happened, I am proclaimed the winner of the contest amongst the cheers of the other warriors.;;;;;;;;;;;Îäèí çà äðóãèì îñòàëüíûå ïðåòåíäåíòû ëèáî ñäàþòñÿ, ëèáî ïàäàþò áåç ñîçíàíèÿ. ß áîëüøå íå âèæó ÷¸òêî, âñ¸ âîêðóã ðàñïëûâàåòñÿ, íî ÿ âñ¸ åù¸ ñòîþ íà íîãàõ. ß ãëîòàþ åù¸ îäíó êðóæêó è áåçäóìíî ñìîòðþ, êàê ìîé ïîñëåäíèé ñîïåðíèê ïàäàåò âïåð¸ä, ãîëîâîé íà ñòîë. Ïîêà ÿ âñ¸ åù¸ îáäóìûâàþ ïðîèçîøåäøåå, ìåíÿ ïðîâîçãëàøàþò ïîáåäèòåë[Root.GetSoftNitseyEm] ñîñòÿçàíèÿ ïîä îäîáðèòåëüíûå âîçãëàñû îñòàëüíûõ âîèíîâ.;;x
+EVTDESCHF25293;One by one, the contenders tap out, throw up, or pass out, leaving lesser and lesser warriors still drinking. At the end of the evening, there is only one left: [From.GetFirstName]. The crowd cheers a few times for the winner and carries [From.GetHerHim] around the hall for a while, giving [From.GetHerHim] some much needed praise.;;;;;;;;;;;Îäèí çà äðóãèì ñîïåðíèêè ñäàþòñÿ, áëþþò èëè òåðÿþò ñîçíàíèå, îñòà¸òñÿ âñ¸ ìåíüøå è ìåíüø¸ âîèíîâ, êîòîðûå ïðîäîëæàþò ïèòü. Â êîíöå âå÷åðà îñòà¸òñÿ òîëüêî îä[From.GetNaIn]: [From.GetFirstName]. Çðèòåëè íåñêîëüêî ðàç ïðèâåòñòâóþò ïîáåäèòåë[From.GetSoftNitsuYa] è êàêîå-òî âðåìÿ íîñÿò [From.GetHerHis] ïî çàëó, âîçäàâàÿ [From.GetHerHim] ñòîëü íåîáõîäèìóþ ïîõâàëó.;;x
+EVTDESCHF25294;One by one, the other contenders either tap out or fall unconscious. I am just about to raise my hand and drink another mouthful of mead when everything goes black. When I finally come back to my senses, one of the other warriors informs me that [WL_drinking_contest_winner.GetBestName] was the one to win the contest in the end.;;;;;;;;;;;Îäèí çà äðóãèì îñòàëüíûå ïðåòåíäåíòû ëèáî ñäàþòñÿ, ëèáî òåðÿþò ñîçíàíèå. ß òîëüêî ñîáèðàþñü ïîäíÿòü ðóêó è ñäåëàòü åù¸ îäèí ãëîòîê ìåäîâóõè, êàê âñ¸ ñòàíîâèòñÿ ÷¸ðíûì. Êîãäà ÿ, íàêîíåö-òî, ïðèõîæó â ñåáÿ, îäèí èç äðóãèõ âîèíîâ ñîîáùàåò ìíå, ÷òî [WL_drinking_contest_winner.GetTitledFirstNameWithNick], â êîíöå êîíöîâ, âûèãðàë[WL_drinking_contest_winner.GetEndA] ñîñòÿçàíèå.;;x
+EVTDESCHF25295;Despite my best efforts, [WL_drinking_contest_winner.GetFirstName] is relentless, drinking tankard after tankard, leaving me well behind in the match. In the end, I am unable to even raise my arm to drink anymore, and lean on the table, conceding [WL_drinking_contest_winner.GetHerHim] victory.;;;;;;;;;;;Íåñìîòðÿ íà âñå ìîè óñèëèÿ, [WL_drinking_contest_winner.GetFirstName] íåóìîëèì[WL_drinking_contest_winner.GetEndA], âûïèâàÿ êðóæêó çà êðóæêîé, îñòàâëÿÿ ìåíÿ äàëåêî ïîçàäè â ýòîì ñîñòÿçàíèè. Â êîíöå êîíöîâ, ÿ óæå íå ìîãó äàæå ïîäíÿòü ðóêó, ÷òîáû âûïèòü, è îïèðàþñü íà ñòîë, óñòóïàÿ [WL_drinking_contest_winner.GetHerHim] ïîáåäó.;;x
+EVTDESCHF25296;Once the other warriors have finally put me down and left me to cope with the more unpleasant consequences of my victory, [From.GetBestName] [From.GetHerselfHimself] approaches me to offer [From.GetHerHis] congratulations. [From.GetSheHeCap] claims that [From.GetSheHe] was truly impressed by my resilience and would love to count a [Root.GetManWoman] like me amongst [From.GetHerHis] allies.;;;;;;;;;;;Êàê òîëüêî äðóãèå âîèíû, íàêîíåö-òî, óëîæèëè ìåíÿ è îñòàâèëè ñïðàâëÿòüñÿ ñ áîëåå íåïðèÿòíûìè ïîñëåäñòâèÿìè ìîåé ïîáåäû, [From.GetTitledFirstNameWithNick] ñàì[From.GetEndA] ïîäõîäèò êî ìíå, ÷òîáû ïîçäðàâèòü ëè÷íî. [From.GetSheHeCap] óòâåðæäàåò, ÷òî [From.GetSheHe] áûë[From.GetEndA] äåéñòâèòåëüíî âïå÷àòëåí[From.GetEndA] ìîåé ñòîéêîñòüþ è õîòåë[From.GetEndA] áû âèäåòü [Root.GetManWoman]ó, âðîäå ìåíÿ, ñðåäè ñâîèõ ñîþçíèêîâ.;;x
+EVTDESCHF25297;Unfortunately, [From.GetFirstName] was not interested in my offer. I am not sure if [From.GetSheHe] even understood what I was asking of [From.GetHerHim] in [From.GetHerHis] current state. But then again, perhaps it was a silly idea in the first place...;;;;;;;;;;;Ê ñîæàëåíèþ, ìî¸ ïðåäëîæåíèå íå çàèíòåðåñîâàëî [From.GetFirstName]. ß íå óâåðåí[From.GetEndA], ÷òî [From.GetSheHe] âîîáùå ïîíÿë[From.GetEndA], î ÷¸ì ÿ ïðîñèë[Root.GetEndA] [From.GetHerHis], â [From.GetHerHis] íûíåøíåì ñîñòîÿíèè. Íî îïÿòü æå, âîçìîæíî, ýòî áûëî èçíà÷àëüíî ãëóïîé èäååé...;;x
+EVTDESCHF25298;Once the other warriors have finally put me down and left me to cope with the more unpleasant consequences of my victory, [From.GetBestName] [From.GetHerselfHimself] approaches me to offer [From.GetHerHis] congratulations. [From.GetSheHeCap] claims that [From.GetSheHe] was truly impressed by my resilience and would love to count a [From.GetManWoman] like me amongst [From.GetHerHis] friends.;;;;;;;;;;;Êàê òîëüêî äðóãèå âîèíû, íàêîíåö-òî, óëîæèëè ìåíÿ è îñòàâèëè ñïðàâëÿòüñÿ ñ áîëåå íåïðèÿòíûìè ïîñëåäñòâèÿìè ìîåé ïîáåäû, [From.GetTitledFirstNameWithNick] ñàì[From.GetEndA] ïîäõîäèò êî ìíå, ÷òîáû ïîçäðàâèòü ëè÷íî. [From.GetSheHeCap] óòâåðæäàåò, ÷òî [From.GetSheHe] áûë[From.GetEndA] äåéñòâèòåëüíî âïå÷àòëåí[From.GetEndA] ìîåé ñòîéêîñòüþ è õîòåë[From.GetEndA] áû ñ÷èòàòü [From.GetManWoman]ó, âðîäå ìåíÿ, â ÷èñëå ñâîèõ äðóçåé.;;x
+EVTDESCHF25299;Unfortunately, [From.GetFirstName] was not interested in my offer of friendship. I am not sure if [From.GetSheHe] even understood what I was asking of [From.GetHerHim] in [From.GetHerHis] current state. But then again, perhaps it was a silly idea in the first place...;;;;;;;;;;;Ê ñîæàëåíèþ, [From.GetFirstName] íå çàèíòåðåñîâà[From.GetLasLsya] ìîèì ïðåäëîæåíèåì äðóæáû. ß íå óâåðåí[Root.GetEndA], ÷òî [From.GetSheHe] âîîáùå ïîíÿë[From.GetEndA], î ÷¸ì ÿ ïðîñèë[From.GetEndA] [From.GetHerHim], â ñâî¸ì òåêóùåì ñîñòîÿíèè. Íî îïÿòü æå, âîçìîæíî, ýòî áûëî èçíà÷àëüíî ãëóïîé èäååé...;;x
+EVTDESCHF25300;Once the other warriors have finally put me down and left me to cope with the more unpleasant consequences of my victory, [From.GetBestName] [From.GetHerselfHimself] approaches me to offer [From.GetHerHis] congratulations. [From.GetSheHeCap] claims that [From.GetSheHe] was truly impressed by my resilience and as a show of respect wishes me to have some of [From.GetHerHis] spoils from a recent raid.;;;;;;;;;;;Êàê òîëüêî äðóãèå âîèíû, íàêîíåö-òî, óëîæèëè ìåíÿ è îñòàâèëè ñïðàâëÿòüñÿ ñ áîëåå íåïðèÿòíûìè ïîñëåäñòâèÿìè ìîåé ïîáåäû, [From.GetTitledFirstNameWithNick] ñàì[From.GetEndA] ïîäõîäèò êî ìíå, ÷òîáû ëè÷íî ïîçäðàâèòü. [From.GetSheHeCap] óòâåðæäàåò, ÷òî [From.GetSheHe] áûë[From.GetEndA] äåéñòâèòåëüíî âïå÷àòëåí[From.GetEndA] ìîåé ñòîéêîñòüþ è â çíàê óâàæåíèÿ æåëàåò, ÷òîáû ÿ ïîëó÷èë[Root.GetEndA] íåêîòîðûå èç [From.GetHerHis] òðîôååâ, äîáûòûõ â íåäàâíåì íàáåãå.;;x
+EVTDESCAHF25205;Slowly but surely [arm_wrestling_fighter_2.GetFirstName] is gaining ground. Inch by inch, [arm_wrestling_fighter_2.GetSheHe] is pushing my fist closer and closer towards the table. I am starting to lose breath, my face is red and covered in sweat, yet I still cannot manage to push back against [arm_wrestling_fighter_2.GetHerHis] grip. I might simply not be strong enough to win this match...;;;;;;;;;;;Ìåäëåííî, íî âåðíî [arm_wrestling_fighter_2.GetFirstName] îäåðæèâàåò âåðõ. Äþéì çà äþéìîì [arm_wrestling_fighter_2.GetSheHe] ïîäòàëêèâàåò ìîé êóëàê âñ¸ áëèæå è áëèæå ê ñòîëó. ß íà÷èíàþ çàäûõàòüñÿ, ìî¸ ëèöî ïîêðàñíåëî è ïîêðûëîñü ïîòîì, íî ÿ âñ¸ åù¸ íå ìîãó ïðîòèâîñòîÿòü [arm_wrestling_fighter_2.GetHerHis] õâàòêå. Âîçìîæíî, ìíå ïðîñòî íå õâàòèëî ñèë, ÷òîáû âûèãðàòü ýòîò ìàò÷...;;x
+EVTDESCAHF25209;Slowly but surely, I manage to push [From.GetFirstName]'s hand closer and closer to the table. I grit my teeth and chuckle, glancing at my opponent to revel in my imminent victory. [From.GetFirstName] looks back at me with a smile. [From.GetSheHeCap] is leaning forward, trying to push back, and giving me a good view of her sweaty cleavage.;;;;;;;;;;;Ìåäëåííî, íî âåðíî ìíå óäà¸òñÿ ïîäòàëêèâàòü ðóêó [From.GetFirstName] âñ¸ áëèæå è áëèæå ê ñòîëó. ß ñòèñêèâàþ çóáû è óñìåõàþñü, ãëÿäÿ íà ïðîòèâíèêà, ÷òîáû íàñëàäèòüñÿ ñâîåé íåìèíóåìîé ïîáåäîé. [From.GetFirstName] ñìîòðèò íà ìåíÿ ñ óëûáêîé. [From.GetSheHeCap] íàêëîíÿåòñÿ âïåð¸ä, ïûòàÿñü îòòîëêíóòüñÿ è ïðåäîñòàâèâ ìíå õîðîøèé âèä íà âñïîòåâøóþ ãðóäü [From.GetFirstName].;;x
+EVTDESCAHF25218;It has been some time now since I have begun noticing [From.GetFirstName]. [From.GetSheHeCap] has distinguished [From.GetHerselfHimself] more than once amongst the members of our Lodge, to the point that I have started feeling strangely attracted to [From.GetHerHim].;;;;;;;;;;;Ïðîøëî íåêîòîðîå âðåìÿ ñ òåõ ïîð, êàê ÿ íà÷àë[Root.GetEndA] çàìå÷àòü [From.GetFirstName]. [From.GetSheHeCap] íå ðàç âûäåëÿë[From.GetLasLsya] ñðåäè ÷ëåíîâ íàøåé Ëîæè, äî òàêîé ñòåïåíè, ÷òî ÿ íà÷èíàþ èñïûòûâàòü ñòðàííîå âëå÷åíèå ê í[From.GetHerHim].;;x
+EVTDESCAHF25219;Tonight, just as I was about to leave the main hall, I was approached by [From.GetFirstName], one of my fellow warriors. After chatting for a while, [From.GetSheHe] reveals to me that [From.GetSheHe] has been watching me for a while, and finds me to be a very strong and attractive fighter.;;;;;;;;;;;Ñåãîäíÿ âå÷åðîì, êîãäà ÿ ñîáèðà[Root.GetLasLsya] ïîêèíóòü ãëàâíûé çàë, êî ìíå ïîäîø[From.GetLaYol] [From.GetFirstName], îä[From.GetNaIn] èç ìîèõ òîâàðèùåé-âîèíîâ. Íåìíîãî ïîáîëòàâ, [From.GetSheHe] ñîîáùàåò ìíå, ÷òî [From.GetSheHe] êàêîå-òî âðåìÿ íàáëþäàåò çà ìíîé è íàõîäèò ìåíÿ î÷åíü ñèëüí[Root.GetOyYm] è ïðèâëåêàòåëüí[Root.GetOyYm], â ñðàâíåíèè ñ äðóãèìè áîéöàìè.;;x
+EVTDESCAHF25220;I was right to trust my feelings. [From.GetFirstName] was surprised and happy to hear of how I felt about [From.GetHerHim] and told me that [From.GetSheHe] was merely waiting for the right opportunity to reveal [From.GetHerHis] own feelings for me.;;;;;;;;;;;ß áûë[Root.GetEndA] ïðàâ[Root.GetEndA], äîâåðèâøèñü ñâîèì ÷óâñòâàì. [From.GetFirstName] áûë[From.GetEndA] óäèâëåí[From.GetEndA] è ðàä[From.GetEndA] óñëûøàòü î ìîèõ ÷óâñòâàõ ê í[From.GetHerHim] è ñêàçàë[From.GetEndA] ìíå, ÷òî [From.GetSheHe] ïðîñòî æäàë[From.GetEndA] ïîäõîäÿùåãî ñëó÷àÿ, ÷òîáû îòêðûòü ñâîè ÷óâñòâà êî ìíå.;;x
+EVTDESCAHF25221;Unfortunately, [From.GetFirstName] has spurned my advances without much thought to it. At first, I hoped that [From.GetSheHe] was simply misunderstanding my intentions, but, after a bit of discussing, [From.GetSheHe] flatly told me that [From.GetSheHe] is not interested in me.;;;;;;;;;;;Ê ñîæàëåíèþ, [From.GetFirstName] îòâåðãàåò ìîè óõàæèâàíèÿ, áåç îñîáûõ ðàçäóìèé.. Ñíà÷àëà ÿ íàäåÿ[Root.GetLasLsya], ÷òî [From.GetSheHe] ïðîñòî íåïðàâèëüíî ïîíÿë[From.GetEndA] ìîè íàìåðåíèÿ, íî ïîñëå íåáîëüøîãî îáñóæäåíèÿ [From.GetSheHe] ïðÿìî ñêàçàë[From.GetEndA], ÷òî [From.GetSheHe] íå èíòåðåñóåòñÿ ìíîé.;;x
+EVTDESCAHF25222;It has been some time now since I have begun noticing [From.GetFirstName]. [From.GetSheHeCap] has distinguished [From.GetHerselfHimself] more than once amongst the members of our Lodge. [From.GetSheHeCap] is, without a doubt, an impressive warrior.;;;;;;;;;;;Ïðîøëî íåêîòîðîå âðåìÿ ñ òåõ ïîð, êàê ÿ íà÷àë[Root.GetEndA] çàìå÷àòü [From.GetFirstName]. [From.GetSheHeCap] íå ðàç âûäåëÿë[From.GetLasLsya] ñðåäè ÷ëåíîâ íàøåé Ëîæè. [From.GetSheHeCap], áåç ñîìíåíèÿ, âïå÷àòëÿþùèé âîèí.;;x
+EVTDESCAHF25223;Tonight, just as I was about to leave the main hall, I was approached by [From.GetFirstName], one of my fellow warriors. After chatting for a while, [From.GetSheHe] reveals to me that [From.GetSheHe] has been watching me for a while, and has come to consider me one of the most valuable members of the Lodge, as well as a terrific fighter.;;;;;;;;;;;Ñåãîäíÿ âå÷åðîì, êîãäà ÿ ñîáèðà[Root.GetLasLsya] ïîêèíóòü ãëàâíûé çàë, êî ìíå ïîäîø[From.GetLaYol] [From.GetFirstName], îä[From.GetNaIn] èç ìîèõ òîâàðèùåé-âîèíîâ. Íåìíîãî ïîáîëòàâ, [From.GetSheHe] ñîîáùàåò ìíå, ÷òî [From.GetSheHe] íåêîòîðîå âðåìÿ íàáëþäàë[From.GetEndA] çà ìíîé è ñòàë[From.GetEndA] ñ÷èòàòü ìåíÿ îäíèì èç ñàìûõ öåííûõ ÷ëåíîâ Ëîæè, à òàêæå ïîòðÿñàþùèì áîéöîì.;;x
+EVTDESCAHF25224;[From.GetFirstName] was glad to hear of what I think of [From.GetHerHim]. We spent most of the night talking and ended up declaring our friendship to each other after a long series of toasts.;;;;;;;;;;;[From.GetFirstName] áûë[From.GetEndA] ðàä[From.GetEndA] óçíàòü, ÷òî ÿ äóìàþ î í[From.GetHerHim]. Ìû ïðîâåëè áîëüøóþ ÷àñòü íî÷è, ðàçãîâàðèâàÿ, è çàêîí÷èëè òåì, ÷òî íàçâàëèñü äðóçüÿìè, ïîñëå äëèííîé ñåðèè òîñòîâ.;;x
+EVTDESCAHF25225;Unfortunately, [From.GetFirstName]'s reception to my thoughts about [From.GetHerHim] was tepid at best. We talked for a while, but it soon became clear that we do not have as much in common as I initially thought.;;;;;;;;;;;Ê ñîæàëåíèþ, îòíîøåíèå [From.GetFirstName] ê ìîèì ìûñëÿì î í[From.GetHerHim] áûëî, â ëó÷øåì ñëó÷àå, ïðîõëàäíûì. Ìû íåìíîãî ïîãîâîðèëè, íî âñêîðå âûÿñíèëîñü, ÷òî ó íàñ íå òàê ìíîãî îáùåãî, êàê ÿ äóìàë[Root.GetEndA] âíà÷àëå.;;x
+EVTDESCAHF25255;[Root.GetProwessInsultDesc];;;;;;;;;;;[Root.GetProwessInsultDesc];;x
+EVTDESCAHF25257;[Root.GetCharacterInsultDesc];;;;;;;;;;;[Root.GetCharacterInsultDesc];;x
+EVTDESCAHF25259;[Root.GetAccomplishmentsInsultDesc];;;;;;;;;;;[Root.GetAccomplishmentsInsultDesc];;x
+EVTDESCAHF25261;[Root.GetFamilyInsultDesc];;;;;;;;;;;[Root.GetFamilyInsultDesc];;x
+EVTDESCAHF25262;[Root.GetFamilyInsultDesc];;;;;;;;;;;[Root.GetFamilyInsultDesc];;x
+EVTDESCAHF25263;We spar with words for a while, but soon [From.GetFirstName]'s face grows red with rage and embarrassment, surrounded by the laughter of the other warriors. Unable to put together a coherent response, my opponent has clearly lost the Flyting.;;;;;;;;;;;Ìû îáìåíÿëèñü ïàðîé åäêèõ ôðàç, íî âñêîðå [From.GetFirstName] ïîòåðÿë[From.GetEndA] ñàìîîáëàäàíèå. [From.GetHersHisCap] ëèöî ïîêðàñíåëî îò ÿðîñòè è ñòûäà, ïîêà ïðèñóòñòâóþùèå çàëèâàëèñü ãðîìêèì ñìåõîì. Íå èìåÿ âîçìîæíîñòè äàòü ìíå äîñòîéíûé îòâåò, [From.GetSheHe] áåçóñëîâíî ïðîèãðàë[From.GetEndA] ôëèòèíã.;;x
+EVTDESCAHF25288;One by one, the other contenders either tap out or fall unconscious. I cannot see straight anymore and everything is blurry, but I am still standing. Unfortunately, so is [warrior_lodge_drinking_finalist_2.GetFirstName], and [warrior_lodge_drinking_finalist_2.GetSheHe] looks far more resilient than me right now.;;;;;;;;;;;Îäèí çà äðóãèì îñòàëüíûå ïðåòåíäåíòû ëèáî ñäàþòñÿ, ëèáî ïàäàþò áåç ñîçíàíèÿ. ß áîëüøå íå ìîãó ÷¸òêî âèäåòü, è âñ¸ ðàçìûòî, íî ÿ âñ¸ åù¸ ñòîþ. Ê ñîæàëåíèþ, êàê è [warrior_lodge_drinking_finalist_2.GetFirstName], è [warrior_lodge_drinking_finalist_2.GetSheHe] ñåé÷àñ âûãëÿäèò ãîðàçäî áîëåå ñòîéê[warrior_lodge_drinking_finalist_2.GetOyIm], ÷åì ÿ.;;x
+EVTDESCBHF25205;Slowly but surely [arm_wrestling_fighter_1.GetFirstName] is gaining ground. Inch by inch, [arm_wrestling_fighter_1.GetSheHe] is pushing my fist closer and closer towards the table. I am starting to lose breath, my face is red and covered in sweat, yet I still cannot manage to push back against [arm_wrestling_fighter_1.GetHerHis] grip. I might simply not be strong enough to win this match...;;;;;;;;;;;Ìåäëåííî, íî âåðíî [arm_wrestling_fighter_1.GetFirstName] îäåðæèâàåò âåðõ. Äþéì çà äþéìîì [arm_wrestling_fighter_1.GetSheHe] ïîäòàëêèâàåò ìîé êóëàê âñ¸ áëèæå è áëèæå ê ñòîëó. ß íà÷èíàþ çàäûõàòüñÿ, ìî¸ ëèöî ïîêðàñíåëî è ïîêðûëîñü ïîòîì, íî ÿ âñ¸ åù¸ íå ìîãó ïðîòèâîñòîÿòü [arm_wrestling_fighter_1.GetHerHis] õâàòêå. Âîçìîæíî, ìíå ïðîñòî íå õâàòèëî ñèë, ÷òîáû âûèãðàòü ýòîò ìàò÷...;;x
+EVTDESCBHF25209;Slowly but surely, I manage to push [From.GetFirstName]'s hand closer and closer to the table. I grit my teeth and chuckle, glancing at my opponent to revel in my imminent victory. [From.GetFirstName] looks back at me with a smile and winks at me, making my heart skip a beat.;;;;;;;;;;;Ìåäëåííî, íî âåðíî ìíå óäà¸òñÿ ïîäòàëêèâàòü ðóêó [From.GetFirstName] âñ¸ áëèæå è áëèæå ê ñòîëó. ß ñòèñêèâàþ çóáû è óñìåõàþñü, ãëÿäÿ íà ïðîòèâíèêà, ÷òîáû íàñëàäèòüñÿ íåìèíóåìîé ïîáåäîé. [From.GetFirstName] ñìîòðèò íà ìåíÿ ñ óëûáêîé è ïîäìèãèâàåò, îò ÷åãî ìî¸ ñåðäöå ó÷àù¸ííî áü¸òñÿ.;;x
+EVTDESCBHF25255;[From.GetTitledFirstName] calls my name from the other side of the dining hall, standing on one of the long tables, challenging me to a Flyting. [Root.GetProwessInsultDesc];;;;;;;;;;;Ïðÿìî âî âðåìÿ óæèíà [From.GetTitledFirstName] âäðóã âûêðèêíóë[From.GetEndA] ìî¸ èìÿ ñ äðóãîé ñòîðîíû çàëà è âûçâàë[From.GetEndA] ìåíÿ íà ôëèòèíã - òðàäèöèîííóþ ïåðåáðàíêó. [Root.GetProwessInsultDesc];;x
+EVTDESCBHF25257;[From.GetTitledFirstName] calls my name from the other side of the dining hall, standing on one of the long tables, challenging me to a Flyting. [Root.GetCharacterInsultDesc];;;;;;;;;;;Ïðÿìî âî âðåìÿ óæèíà [From.GetTitledFirstName] âäðóã âûêðèêíóë[From.GetEndA] ìî¸ èìÿ ñ äðóãîé ñòîðîíû çàëà è âûçâàë[From.GetEndA] ìåíÿ íà ôëèòèíã - òðàäèöèîííóþ ïåðåáðàíêó. [Root.GetCharacterInsultDesc];;x
+EVTDESCBHF25259;[From.GetTitledFirstName] calls my name from the other side of the dining hall, standing on one of the long tables, challenging me to a Flyting. [Root.GetAccomplishmentsInsultDesc];;;;;;;;;;;Ïðÿìî âî âðåìÿ óæèíà [From.GetTitledFirstName] âäðóã âûêðèêíóë[From.GetEndA] ìî¸ èìÿ ñ äðóãîé ñòîðîíû çàëà è âûçâàë[From.GetEndA] ìåíÿ íà ôëèòèíã - òðàäèöèîííóþ ïåðåáðàíêó. [Root.GetAccomplishmentsInsultDesc];;x
+EVTDESCBHF25261;[From.GetTitledFirstName] calls my name from the other side of the dining hall, standing on one of the long tables, challenging me to a Flyting. [Root.GetFamilyInsultDesc];;;;;;;;;;;Ïðÿìî âî âðåìÿ óæèíà [From.GetTitledFirstName] âäðóã âûêðèêíóë[From.GetEndA] ìî¸ èìÿ ñ äðóãîé ñòîðîíû çàëà è âûçâàë[From.GetEndA] ìåíÿ íà ôëèòèíã - òðàäèöèîííóþ ïåðåáðàíêó. [Root.GetFamilyInsultDesc];;x
+EVTDESCBHF25288;One by one, the other contenders either tap out or fall unconscious. I cannot see straight anymore and everything is blurry, but I am still standing. Unfortunately, so is [warrior_lodge_drinking_finalist_1.GetFirstName], and [warrior_lodge_drinking_finalist_1.GetSheHe] looks far more resilient than me right now.;;;;;;;;;;;Îäèí çà äðóãèì îñòàëüíûå ïðåòåíäåíòû ëèáî ñäàþòñÿ, ëèáî ïàäàþò áåç ñîçíàíèÿ. ß áîëüøå íå ìîãó ÷¸òêî âèäåòü, è âñ¸ ðàçìûòî, íî ÿ âñ¸ åù¸ ñòîþ. Ê ñîæàëåíèþ, êàê è [warrior_lodge_drinking_finalist_1.GetFirstName], è [warrior_lodge_drinking_finalist_1.GetSheHe] ñåé÷àñ âûãëÿäèò ãîðàçäî áîëåå ñòîéê[warrior_lodge_drinking_finalist_2.GetOyIm], ÷åì ÿ.;;x
+EVTOPTAHF25200;I will pick the strongest I can find!;;;;;;;;;;;ß âûáåðó ñàìîãî ñèëüíîãî, êîòîðîãî ñìîãó íàéòè!;;x
+EVTOPTAHF25201;You are on!;;;;;;;;;;;Äà áóäåò òàê!;;x
+EVTOPTAHF25202;Pathetic!;;;;;;;;;;;Æàëê[From.GetAyaIy]!;;x
+EVTOPTAHF25203;Hnnnngh!;;;;;;;;;;;Õííííãõ!;;x
+EVTOPTAHF25205;*Sneakily slide your elbow*;;;;;;;;;;;*Íåçàìåòíî ñêîëüçíóòü ëîêòåì*;;x
+EVTOPTAHF25206;Do not move your elbow, cheater!;;;;;;;;;;;Íå äâèãàé ëîêòåì, ìîøåííè[From.GetTsaK]!;;x
+EVTOPTAHF25209;Not interested!;;;;;;;;;;;Íå èíòåðåñíî!;;x
+EVTOPTAHF25212;Do you think I am that stupid?;;;;;;;;;;;Âû äóìàåòå, ÷òî ÿ òàê[Root.GetAyaOy] ãëóï[Root.GetAyaYy]?;;x
+EVTOPTAHF25215;What sort of weakling are you?;;;;;;;;;;;Ïî÷åìó âû òàê ñëàáû?;;x
+EVTOPTAHF25216;Oh, shut up!;;;;;;;;;;;Äà çàòêíèòåñü óæå!;;x
+EVTOPTAHF25217;I need to train more...;;;;;;;;;;;Ìíå íóæíî áîëüøå òðåíèðîâàòüñÿ...;;x
+EVTOPTAHF25218;I wonder if [From.GetSheHe] feels the same...;;;;;;;;;;;Èíòåðåñíî, ÷óâñòâóåò ëè [From.GetSheHe] òî æå ñàìîå...;;x
+EVTOPTAHF25219;And I happen to think the same about you.;;;;;;;;;;;È ÿ äóìàþ î òåáå òî æå ñàìîå..;;x
+EVTOPTAHF25220;Interested in some late-night training?;;;;;;;;;;;Õî÷åøü ïîó÷àñòâîâàòü â íî÷íûõ òðåíèðîâêàõ?;;x
+EVTOPTAHF25221;I should have known...;;;;;;;;;;;ß äîëæ[Root.GetNaEn] áûë[Root.GetEndA] äîãàäàòüñÿ...;;x
+EVTOPTAHF25222;We should be friends!;;;;;;;;;;;Ìû äîëæíû ñòàòü äðóçüÿìè!;;x
+EVTOPTAHF25223;Thanks. I feel the same about you, [From.GetFirstName].;;;;;;;;;;;Áëàãîäàðþ! ß äóìàþ òîæå ñàìîå è î òåáå, [From.GetFirstName].;;x
+EVTOPTAHF25224;I couldn't ask for a better friend, [From.GetFirstName]!;;;;;;;;;;;ß íå ìîã[Root.GetNoneE] è ìå÷òàòü î ëó÷øåì äðóãå, [From.GetFirstName]!;;x
+EVTOPTAHF25225;What a shame...;;;;;;;;;;;Êàêàÿ æàëîñòü...;;x
+EVTOPTAHF25226;Alright, then! Pass me the die!;;;;;;;;;;;Ëàäíî! Ïåðåäàéòå ìíå êóáèê!;;x
+EVTOPTAHF25227;All in!;;;;;;;;;;;Âñ¸ íà íåãî!;;x
+EVTOPTAHF25228;I bet on Krita!;;;;;;;;;;;Ñòàâëþ íà Êðèòó!;;x
+EVTOPTAHF25228_HELLENIC;I bet on Apollo!;;;;;;;;;;;Ñòàâëþ íà Àïîëëîíà!;;x
+EVTOPTAHF25229;Luckily, I am using my weighted die.;;;;;;;;;;;Ê ñ÷àñòüþ, ÿ èñïîëüçóþ ñâîé óòÿæåë¸ííûé êóáèê.;;x
+EVTOPTAHF25230;It's not what it seems!;;;;;;;;;;;Ýòî íå òî, ÷åì êàæåòñÿ!;;x
+EVTOPTAHF25231;Let's go again! Double or nothing!;;;;;;;;;;;Äàâàéòå ñíîâà! ß óäâàèâàþ ñòàâêó!;;x
+EVTOPTAHF25232;I wasn't doing anything, I swear!;;;;;;;;;;;ß íè÷åãî íå äåëàë[Root.GetEndA], êëÿíóñü!;;x
+EVTOPTAHF25233;Stupid die...;;;;;;;;;;;Òàê ãëóïî ïðîèãðàòü...;;x
+EVTOPTAHF25234;Let's go again! Double or nothing!;;;;;;;;;;;Äàâàéòå ñíîâà! ß óäâàèâàþ ñòàâêó!;;x
+EVTOPTAHF25235;Yes! Let's go again, double or nothing!;;;;;;;;;;;Äàâàéòå ñíîâà! ß óäâàèâàþ ñòàâêó!;;x
+EVTOPTAHF25236;Yes! Won again!;;;;;;;;;;;Äà! Ñíîâà âûèãðûø!;;x
+EVTOPTAHF25237;What a great night!;;;;;;;;;;;Êàêàÿ çàìå÷àòåëüíàÿ íî÷ü!;;x
+EVTOPTAHF25238;Come on, folks, pay up!;;;;;;;;;;;Äàâàéòå, ðåáÿòà, ïëàòèòå!;;x
+EVTOPTAHF25239;Already tired of playing, [From.GetFirstName]?;;;;;;;;;;;Óæå íàäîåëî èãðàòü, [From.GetFirstName]?;;x
+EVTOPTAHF25240;Perhaps you should not bet what you do not have?;;;;;;;;;;;Âîçìîæíî, íå ñòîèò ñòàâèòü íà êîí òî, ÷åãî ó âàñ íåò?;;x
+EVTOPTAHF25241;I will think about this favor you owe me...;;;;;;;;;;;ß ïîäóìàþ îá ýòîé óñëóãå, êîòîðóþ òû ìíå äîëæ[From.GetNaEn]...;;x
+EVTOPTAHF25250;I will settle for nobody less than our best speaker!;;;;;;;;;;;Ìíå ïîäîéä¸ò òîëüêî ñàìûé ëó÷øèé îðàòîð!;;x
+EVTOPTAHF25251;We shall see about that!;;;;;;;;;;;Ýòî ìû åù¸ ïîñìîòðèì!;;x
+EVTOPTAHF25252;Pffh! What a coward!;;;;;;;;;;;Âîò òðóñ[From.GetEndIha]!;;x
+EVTOPTAHF25253;Go ahead, then! I will let you start.;;;;;;;;;;;Íó ÷òî æ, ïîïðîáóé!;;x
+EVTOPTAHF25254;[Root.GetProwessInsultOption];;;;;;;;;;;[Root.GetProwessInsultOption];;x
+EVTOPTAHF25255;How dare you say that!;;;;;;;;;;;Äà òû ñìååøü ãîâîðèòü òàêîå!;;x
+EVTOPTAHF25257;Shut up! Shut up immediately!;;;;;;;;;;;Çàòêíèñü, òâàðü!;;x
+EVTOPTAHF25261;How dare you! Enough!;;;;;;;;;;;Äà êàê òû ñìååøü! Ïðåêðàòè íåìåäëåííî!;;x
+EVTOPTAHF25262;How dare you! Enough!;;;;;;;;;;;Äà êàê òû ñìååøü! Ïðåêðàòè íåìåäëåííî!;;x
+EVTOPTAHF25263;Stop being such a child!;;;;;;;;;;;Òîëüêî ñìîòðè íå ðàñïëà÷üñÿ.;;x
+EVTOPTAHF25268;This is it! From now on, we are enemies!;;;;;;;;;;;Ñ ýòîãî ìîìåíòà òû - ìîé âðàã!;;x
+EVTOPTAHF25269;Well, too late for that!;;;;;;;;;;;Ñëèøêîì ïîçäíî äëÿ èçâèíåíèé!;;x
+EVTOPTAHF25270;Can the [From.GetManWoman] not take a joke?;;;;;;;;;;;Íåêîòîðûå ïðîñòî íå ïîíèìàþò øóòîê...;;x
+EVTOPTAHF25280;Why not? Let the celebrations begin!;;;;;;;;;;;Ïî÷åìó íåò? Äà íà÷íóòñÿ ïðàçäíîâàíèÿ!;;x
+EVTOPTAHF25281;I shall be the one!;;;;;;;;;;;ß îäåðæó ïîáåäó!;;x
+EVTOPTAHF25283;Do not worry, there is more than enough for everyone!;;;;;;;;;;;Íå ïåðåæèâàéòå, âûïèâêè õâàòèò íà âñåõ!;;x
+EVTOPTAHF25284;Come on! Start pouring already!;;;;;;;;;;;Äàâàéòå. Íàëåéòå óæå íàì!;;x
+EVTOPTAHF25286;It was a fun evening at least...;;;;;;;;;;;Ïî êðàéíåé ìåðå, ýòî áûë âåñ¸ëûé âå÷åð....;;x
+EVTOPTAHF25287;Ugh, well, at least it was fun.;;;;;;;;;;;Ôóõ, íó ïî êðàéíåé ìåðå áûëî âåñåëî.;;x
+EVTOPTAHF25288;There must be a way to get ahead...;;;;;;;;;;;Äîëæåí áûòü ñïîñîá îäåðæàòü ïîáåäó...;;x
+EVTOPTAHF25289;Eh, I will allow it.;;;;;;;;;;;Ýõ, ÿ ðàçðåøàþ ýòî.;;x
+EVTOPTAHF25290;Ouch!;;;;;;;;;;;Îé!;;x
+EVTOPTAHF25291;Yes! I *hic* won!;;;;;;;;;;;Äà! ß *èê* âûèãðàë[Root.GetEndA]!;;x
+EVTOPTAHF25292;Yes! I *hic* won!;;;;;;;;;;;Äà! ß *èê* âûèãðàë[Root.GetEndA]!;;x
+EVTOPTAHF25293;A determinate [From.GetManWoman] like [From.GetHerHim] is the kind of ally I need!;;;;;;;;;;;Îïðåäåë¸ííî [From.GetManWoman]à, òàê[Root.GetAyaOy] êàê [From.GetFirstName], - ýòî òîò ñîþçíèê, êîòîðûé ìíå íóæåí!;;x
+EVTOPTAHF25294;Wait, for how long was I out?;;;;;;;;;;;Ïîäîæäèòå, êàê äîëãî ÿ îòñóòñòâîâàë[Root.GetEndA]?;;x
+EVTOPTAHF25295;I just want rest my eyes for a while...;;;;;;;;;;;ß ïðîñòî õî÷ó íåìíîãî îòäîõíóòü...;;x
+EVTOPTAHF25296;Why not? Sure...;;;;;;;;;;;Êîíå÷íî... Ïî÷åìó áû è íåò?;;x
+EVTOPTAHF25297;I should think these things through more often.;;;;;;;;;;;Ìíå ñëåäóåò ÷àùå äóìàòü î òàêèõ âåùàõ.;;x
+EVTOPTAHF25298;Why not? Sure...;;;;;;;;;;;Êîíå÷íî... Ïî÷åìó áû è íåò?;;x
+EVTOPTAHF25299;Who needs [From.GetHerHim]?;;;;;;;;;;;Êîìó íóæ[From.GetNaEn] [From.GetFirstName]?;;x
+EVTOPTAHF25300;Thanks, [From.GetFirstName]!;;;;;;;;;;;Ñïàñèáî âàì, [From.GetFirstName]!;;x
+EVTOPTBHF25200;[arm_wrestling_opponent_2.GetFirstName] looks like a fitting opponent.;;;;;;;;;;;[arm_wrestling_opponent_2.GetFirstName] âûãëÿäèò äîñòîéí[arm_wrestling_opponent_2.GetOyYm] ñîïåðíè[arm_wrestling_opponent_2.GetTseyKom].;;x
+EVTOPTBHF25201;I am too tired right now...;;;;;;;;;;;Ñåé÷àñ ÿ ñëèøêîì óñòàë[Root.GetEndA]...;;x
+EVTOPTBHF25205_A;*Wink charmingly at [arm_wrestling_fighter_2.GetFirstName]*;;;;;;;;;;;*Î÷àðîâàòåëüíî ïîäìèãíóòü [arm_wrestling_fighter_2.GetFirstName]*;;x
+EVTOPTBHF25205_B;*Wink charmingly at [arm_wrestling_fighter_1.GetFirstName]*;;;;;;;;;;;*Î÷àðîâàòåëüíî ïîäìèãíóòü [arm_wrestling_fighter_1.GetFirstName]*;;x
+EVTOPTBHF25206;How is [From.GetSheHe] doing it!?!;;;;;;;;;;;Êàê [From.GetSheHe] äåëàåò ýòî!?!;;x
+EVTOPTBHF25209;I only care about my beloved.;;;;;;;;;;;Ìåíÿ çàáîòèò òîëüêî ìîÿ âòîðàÿ ïîëîâèíêà.;;x
+EVTOPTBHF25212;What!?! What is it?!;;;;;;;;;;;×òî!?! ×òî ýòî?!;;x
+EVTOPTBHF25215;Do not be too hard on yourself!;;;;;;;;;;;Íå áóäüòå ñëèøêîì ñòðîãè ê ñåáå!;;x
+EVTOPTBHF25218;Just a passing fancy, surely.;;;;;;;;;;;Ýòî ïðîñòî ìèìîë¸òíîå óâëå÷åíèå.;;x
+EVTOPTBHF25219;Thanks, but I am not interested.;;;;;;;;;;;Ñïàñèáî, íî ìíå ýòî íå èíòåðåñíî.;;x
+EVTOPTBHF25222;Not as impressive as me.;;;;;;;;;;;Íå îñîáî âïå÷àòëÿåò ìåíÿ.;;x
+EVTOPTBHF25223;That is very flattering of you...;;;;;;;;;;;Ýòî î÷åíü ëåñòíî ñ òâîåé ñòîðîíû...;;x
+EVTOPTBHF25226;Maybe some other time.;;;;;;;;;;;Ìîæåò áûòü, â äðóãîé ðàç.;;x
+EVTOPTBHF25227;I am feeling rather lucky tonight.;;;;;;;;;;;Ñåãîäíÿ âå÷åðîì, ÿ ÷óâñòâóþ ñåáÿ äîâîëüíî óäà÷ëèâ[Root.GetOyYm].;;x
+EVTOPTBHF25228;I bet on Treta!;;;;;;;;;;;Ñòàâëþ íà Òðåòó!;;x
+EVTOPTBHF25228_HELLENIC;I bet on Athena!;;;;;;;;;;;Ñòàâëþ íà Àôèíó!;;x
+EVTOPTBHF25229;Surely, nobody will notice a bump under the table...;;;;;;;;;;;Íàâåðíÿêà íèêòî íå çàìåòèò òîë÷îê ïîä ñòîëîì...;;x
+EVTOPTBHF25230;Alright, here is your money...;;;;;;;;;;;Õîðîøî, âîò âàøè äåíüãè...;;x
+EVTOPTBHF25231;We should do this more often.;;;;;;;;;;;Íàì íóæíî äåëàòü ýòî ÷àùå.;;x
+EVTOPTBHF25234;We should do this more often.;;;;;;;;;;;Ìû äîëæíû äåëàòü ýòî ÷àùå.;;x
+EVTOPTBHF25235;Yes! I won!;;;;;;;;;;;Äà! Ïîáåäà çà ìíîé!;;x
+EVTOPTBHF25236;Ugh... I lost everything!;;;;;;;;;;;Óõ... ß âñ¸ ïîòåðÿë[Root.GetEndA]!;;x
+EVTOPTBHF25250;[flyting_potential_opponent_2.GetTitledFirstName] looks like a good match for me!;;;;;;;;;;;[flyting_potential_opponent_2.GetTitledFirstName] - âåñüìà íåïëîõîé âàðèàíò.;;x
+EVTOPTBHF25251;I am not in the mood right now.;;;;;;;;;;;ß ñåé÷àñ íå â íàñòðîåíèè äëÿ ýòèõ ãëóïîñòåé.;;x
+EVTOPTBHF25254;[Root.GetCharacterInsultOption];;;;;;;;;;;[Root.GetCharacterInsultOption];;x
+EVTOPTBHF25255;As if I cared...;;;;;;;;;;;Äà-äà, ìíå ïëåâàòü...;;x
+EVTOPTBHF25257;I have no problem admitting my flaws.;;;;;;;;;;;ß çíàþ î ñâîèõ íåäîñòàòêàõ, ìîæåøü íå íàïîìèíàòü.;;x
+EVTOPTBHF25259;Meh, not that I care either way...;;;;;;;;;;;Äóìàåøü, ìåíÿ ýòî âîëíóåò?;;x
+EVTOPTBHF25261;As if I cared.;;;;;;;;;;;È ýòî âñ¸, ÷òî òû ñìîã[From.GetNoneE] ïðèäóìàòü?;;x
+EVTOPTBHF25262;As if I cared about what you think.;;;;;;;;;;;È ýòî âñ¸, ÷òî òû ñìîã[From.GetNoneE] ïðèäóìàòü?;;x
+EVTOPTBHF25263;It was all in good fun, [From.GetFirstName], do not be mad!;;;;;;;;;;;Áûëî âåñåëî! Íàäåþñü, òû íå â îáèäå.;;x
+EVTOPTBHF25268;Enough of this stupid game!;;;;;;;;;;;Õâàòèò ñ ìåíÿ ýòîé òóïîé èãðû!;;x
+EVTOPTBHF25269;If you say so...;;;;;;;;;;;Áåç ïðîáëåì...;;x
+EVTOPTBHF25280;That seems like such a waste...;;;;;;;;;;;Ýòî êàæåòñÿ òàêèì ðàñòî÷èòåëüñòâîì...;;x
+EVTOPTBHF25281;I'd rather avoid the headache instead.;;;;;;;;;;;Íåò, ÿ ïðåäïî÷èòàþ èçáåæàòü ãîëîâíîé áîëè.;;x
+EVTOPTBHF25288;I am made of tougher stuff than this!;;;;;;;;;;;ß ñäåëàí[Root.GetEndA]èç áîëåå ïðî÷íîãî ìàòåðèàëà, ÷åì [warrior_lodge_drinking_finalist_1.GetSheHe]!;;x
+EVTOPTBHF25289;Stop right there!;;;;;;;;;;;Îñòàíîâèòåñü, ñåé÷àñ æå!;;x
+EVTOPTBHF25293;I really like that [From.GetManWoman].;;;;;;;;;;;Ìíå î÷åíü íðàâèòñÿ ýò[From.GetEtaEtot] [From.GetManWoman]à.;;x
+EVTOPTBHF25296;Bah! I do not need *you*!;;;;;;;;;;;Áà! ß íå íóæäàþñü â *âàñ*!;;x
+EVTOPTBHF25298;Bah! You are not *my* friend!;;;;;;;;;;;Áà! Âû *ìíå* íå äðóã!;;x
+EVTOPTCHF25200;I'd rather not risk embarrassing myself...;;;;;;;;;;;ß áû íå õîòåë[Root.GetEndA] ðèñêîâàòü, ïîñòàâèâ ñåáÿ â íåëîâêîå ïîëîæåíèå...;;x
+EVTOPTCHF25205;*Lean forward and smile*;;;;;;;;;;;*Íàêëîíèòñÿ âïåð¸ä è óëûáíóòñÿ*;;x
+EVTOPTCHF25206;Wha-?;;;;;;;;;;;×òî-?;;x
+EVTOPTCHF25209;Pfh! You have picked the wrong person!;;;;;;;;;;;Ïô! Âû âûáðàëè íå òîãî ÷åëîâåêà!;;x
+EVTOPTCHF25227;This is as much as I am willing to go.;;;;;;;;;;;Ýòî âñ¸, íà ÷òî ÿ ãîòîâ[Root.GetEndA] ïîéòè.;;x
+EVTOPTCHF25228;I bet on Dwapara!;;;;;;;;;;;Ñòàâëþ íà Äâàïàðó!;;x
+EVTOPTCHF25228_HELLENIC;I bet on Hermes!;;;;;;;;;;;Ñòàâëþ íà Ãåðìåñà!;;x
+EVTOPTCHF25229;Let's play!;;;;;;;;;;;Äàâàéòå ïîèãðàåì!;;x
+EVTOPTCHF25230;How about we consider it even?;;;;;;;;;;;Êàê íàñ÷¸ò òîãî, ÷òîáû ñ÷èòàòü, ÷òî ìû êâèòû?;;x
+EVTOPTCHF25235;Curses!;;;;;;;;;;;Ïðîêëÿòèå!;;x
+EVTOPTCHF25250;I just want an easy fight.;;;;;;;;;;;Åñëè ÿ õî÷ó ïîáåäèòü, íóæåí ñëàáûé ïðîòèâíèê.;;x
+EVTOPTCHF25254;[Root.GetAccomplishmentsInsultOption];;;;;;;;;;;[Root.GetAccomplishmentsInsultOption];;x
+EVTOPTCHF25255;I think my accomplishments speak for themselves...;;;;;;;;;;;Óâåðåí[Root.GetEndA], ìîè ïîäâèãè ãîâîðÿò ñàìè çà ñåáÿ...;;x
+EVTOPTCHF25257;But I am not like that at all!;;;;;;;;;;;Íàãëàÿ ëîæü!;;x
+EVTOPTCHF25259;What does that mean?!;;;;;;;;;;;×òî òû ñêàçàë[From.GetEndA]?!;;x
+EVTOPTCHF25261;This is so mean of you!;;;;;;;;;;;Ýòî ïîäëî äàæå äëÿ òåáÿ!;;x
+EVTOPTCHF25262;This is so mean of you!;;;;;;;;;;;Ýòî ïîäëî äàæå äëÿ òåáÿ!;;x
+EVTOPTCHF25288;I have to try at least!;;;;;;;;;;;ß äîëæ[Root.GetNaEn] õîòÿ áû ïîïðîáîâàòü!;;x
+EVTOPTCHF25293;I will honor [From.GetHerHis] victory with a gift.;;;;;;;;;;;ß áóäó ÷òèòü [From.GetHerHis] ïîáåäó ïîäàðêîì.;;x
+EVTOPTDHF25200;On second thought, I will go take a drink instead.;;;;;;;;;;;Åñëè ïîäóìàòü, ëó÷øå ÿ ïðîñòî âûïüþ.;;x
+EVTOPTDHF25205;Wh-what's that behind you?!;;;;;;;;;;;×-÷òî ýòî ó òåáÿ çà ñïèíîé?!;;x
+EVTOPTDHF25209;I... uhhh...;;;;;;;;;;;ß... Ý-ý-ý...;;x
+EVTOPTDHF25227;I am only playing for fun...;;;;;;;;;;;ß èãðàþ òîëüêî ðàäè óäîâîëüñòâèÿ...;;x
+EVTOPTDHF25228;I bet on Kali!;;;;;;;;;;;Ñòàâëþ íà Êàëè!;;x
+EVTOPTDHF25228_HELLENIC;I bet on Dionysus!;;;;;;;;;;;Ñòàâëþ íà Äèîíèñà!;;x
+EVTOPTDHF25230;I will make it up to you in some way, I promise!;;;;;;;;;;;ß çàãëàæó ñâîþ âèíó, îáåùàþ!;;x
+EVTOPTDHF25250;Maybe some other night...;;;;;;;;;;;Õîòÿ... Ëó÷øå êàê-íèáóäü â äðóãîé ðàç.;;x
+EVTOPTDHF25254;[Root.GetFamilyInsultOption];;;;;;;;;;;[Root.GetFamilyInsultOption];;x
+EVTOPTDHF25255;Oh, I wouldn't know about that, [From.GetFirstName]...;;;;;;;;;;;Î, âîò ýòî íîâîñòü! Ðàññêàæè-êà ïîäðîáíåå...;;x
+EVTOPTDHF25257;How dare you say it! That's not my fault!;;;;;;;;;;;Äà êàê òû ñìååøü! Ýòî íå ìîÿ âèíà!;;x
+EVTOPTDHF25259;Oh, we shall see about that!;;;;;;;;;;;Íó ýòî ìû åù¸ ïîñìîòðèì!;;x
+EVTOPTDHF25261;Isn't this supposed to be a game?;;;;;;;;;;;Òåáå íå êàæåòñÿ, ÷òî ýòî óæå ñëèøêîì?;;x
+EVTOPTDHF25262;Isn't this supposed to be a game?;;;;;;;;;;;Òåáå íå êàæåòñÿ, ÷òî ýòî óæå ñëèøêîì?;;x
+EVTOPTDHF25293;[From.GetSheHeCap] earned a bit of praise.;;;;;;;;;;;[From.GetSheHeCap] çàñëóæèë[From.GetEndA] ïîõâàëó.;;x
+EVTOPTEHF25205;I must try anyway!;;;;;;;;;;;ß âñ¸ ðàâíî äîëæ[Root.GetNaEn] ïîïðîáîâàòü!;;x
+EVTOPTEHF25209_A;*Stare intently at [From.GetFirstName]'s breasts.*;;;;;;;;;;;*Ïðèñòàëüíî ñìîòðåòü íà ãðóäü [From.GetFirstName]*.;;x
+EVTOPTEHF25209_B;*Lose yourself in [From.GetFirstName]'s dreamy eyes*;;;;;;;;;;;*Ïîãðóçèòñÿ â ìå÷òàòåëüíûå ãëàçà [From.GetFirstName]*.;;x
+EVTOPTEHF25255;I have no idea what you are talking about!;;;;;;;;;;;Íå ïîíèìàþ, î ÷åì òû...;;x
+EVTOPTFHF25255;T-That's not true at all!;;;;;;;;;;;Ýòî... Ýòî âñ¸ ãíóñíàÿ ëîæü!;;x
+EVTOPTYHF25216;I will show you who is stronger!;;;;;;;;;;;ß ïîêàæó âàì, êòî ñèëüíåå!;;x
+EVTOPTYHF25221;How dare you reject me!;;;;;;;;;;;Êàê òû ïîñìåë[From.GetEndA] îòâåðãíóòü ìåíÿ!;;x
+EVTOPTYHF25230;How dare you call me a cheat!;;;;;;;;;;;Êàê òû ñìååøü íàçûâàòü ìåíÿ îáìàíùè[Root.GetTseyKom]!;;x
+EVTOPTYHF25235;You cheated!;;;;;;;;;;;Âû ìåíÿ îáìàíóëè!;;x
+EVTOPTYHF25268;I will make you eat those words!;;;;;;;;;;;Òû çàïëàòèøü çà ñâîè ñëîâà!;;x
+EVTOPTZZZHF25252;Last time [Root.GetFirstName] pleasured a woman was when he relieved his mother's womb of his presence.;;;;;;;;;;;Â ïîñëåäíèé ðàç òû óäîâëåòâîðÿë æåíùèíó, êîãäà âûëåç èç óòðîáû ìàòåðè.;;x
+TT_EVTOPTAHF25200;Challenge §Y[arm_wrestling_opponent_1.GetTitledFirstName]§! to an arm-wrestling match.;;;;;;;;;;;Ïóñòü §Y[arm_wrestling_opponent_1.GetTitledFirstName]§! ñðàçèòñÿ ñ Âàìè.;;x
+TT_EVTOPTAHF25201;Accept §Y[From.GetTitledFirstName]§!'s challenge.;;;;;;;;;;;Ïðèíÿòü âûçîâ, êîòîðûé §Y[From.GetTitledFirstName]§! Âàì áðîñèë[From.GetEndA].;;x
+TT_EVTOPTAHF25215;§Y[wl_arm_wrestling_loser.GetTitledFirstName]§! might challenge you to a §YDuel§! for insulting [wl_arm_wrestling_loser.GetHerHim].;;;;;;;;;;;§Y[wl_arm_wrestling_loser.GetTitledFirstName]§! ìîæåò âûçâàòü Âàñ íà §Yïîåäèíîê§! çà ýòî îñêîðáëåíèå.;;x
+TT_EVTOPTAHF25216;Your fellow warriors laugh at you.;;;;;;;;;;;Âàøè ñîðàòíèêè ñìåþòñÿ íàä Âàìè.;;x
+TT_EVTOPTAHF25218;Approach §Y[From.GetTitledFirstName]§! and declare your feelings for [From.GetHerHim].;;;;;;;;;;;Ïóñòü §Y[From.GetTitledFirstName]§! óçíàåò î òîì, ÷òî Âû ÷óâñòâóåòå ïî îòíîøåíèþ ê í[From.GetHerHim].;;x
+TT_EVTOPTAHF25222;Approach §Y[From.GetTitledFirstName]§!, offering [From.GetHerHim] your friendship.;;;;;;;;;;;Ïðåäëîæèòü [From.GetHerHim] ñâîþ äðóæáó.;;x
+TT_EVTOPTAHF25230;Your fellow §YWarriors§! will remember this.;;;;;;;;;;;Âàøè §Yñîðàòíèêè ïî âîèíñêîé ëîæå§! çàïîìíÿò ýòî.;;x
+TT_EVTOPTAHF25232;Your fellow §YWarriors§! will remember this.;;;;;;;;;;;Âàøè §Yñîðàòíèêè ïî âîèíñêîé ëîæå§! çàïîìíÿò ýòî.;;x
+TT_EVTOPTAHF25250;Challenge §Y[flyting_potential_opponent_1.GetTitledFirstName]§! to a contest of dialectics.;;;;;;;;;;;§Y[flyting_potential_opponent_1.GetTitledFirstName]§! ñòàíåò Âàøèì îïïîíåíòîì âî §Yôëèòèíãå§! - ñëîâåñòíîì ñîñòÿçàíèè.;;x
+TT_EVTOPTAHF25251;Accept §Y[From.GetTitledFirstName]§!'s challenge and begin the §YFlyting§!.;;;;;;;;;;;Ïðèíÿòü [From.GetHersHis] âûçîâ íà §Yôëèòèíã§! - òðàäèöèîííóþ ïåðåáðàíêó.;;x
+TT_EVTOPTAHF25263;§Y[From.GetTitledFirstName]§! might challenge you to a §YDuel§! for insulting [From.GetHerHim].;;;;;;;;;;;§Y[From.GetTitledFirstName]§! ìîæåò âûçâàòü Âàñ íà §Yïîåäèíîê§! çà ýòî îñêîðáëåíèå.;;x
+TT_EVTOPTAHF25268;The other warriors laugh at you as you storm out.;;;;;;;;;;;Äðóãèå âîèíû ñìåþòñÿ íàä Âàìè.;;x
+TT_EVTOPTAHF25269;The other warriors mock you for your pettiness as you storm out.;;;;;;;;;;;Äðóãèå âîèíû íàñìåõàþòñÿ íàä Âàøåé ìåëî÷íîñòüþ.;;x
+TT_EVTOPTAHF25281;Accept §Y[From.GetFirstName]§!'s challenge.;;;;;;;;;;;Ïðèíÿòü âûçîâ.;;x
+TT_EVTOPTAHF25283;You keep track of the contenders and wait for the winner.;;;;;;;;;;;Ñëåäèòü çà ó÷àñòíèêàìè ñîñòÿçàíèÿ â îæèäàíèè ïîáåäèòåëÿ.;;x
+TT_EVTOPTAHF25284;You begin drinking.;;;;;;;;;;;Íà÷àòü ïèòü.;;x
+TT_EVTOPTAHF25288;Try spilling most of your drink at each new round.;;;;;;;;;;;Âû ïîïûòàåòåñü íåçàìåòíî ïðîëèâàòü ÷àñòü âûïèâêè â êàæäîì ðàóíäå.;;x
+TT_EVTOPTAHF25289;Ignore §Y[From.GetFirstName]§! cheating.;;;;;;;;;;;Èãíîðèðîâàòü òîò ôàêò, ÷òî §Y[From.GetFirstName]§! æóëüíè÷àåò.;;x
+TT_EVTOPTAHF25290;Your fellow warriors will remember your slight.;;;;;;;;;;;Ñîðàòíèêè çàïîìíÿò î Âàøåé ñëàáîñòè.;;x
+TT_EVTOPTBHF25200;Challenge §Y[arm_wrestling_opponent_2.GetTitledFirstName]§! to an arm-wrestling match.;;;;;;;;;;;Ïóñòü §Y[arm_wrestling_opponent_2.GetTitledFirstName]§! ñðàçèòñÿ ñ Âàìè.;;x
+TT_EVTOPTBHF25201;Refuse §Y[From.GetTitledFirstName]§!'s challenge.\nYour fellow §YWarriors§! will remember this cowardly act.;;;;;;;;;;;Îòêàçàòüñÿ ïðèíÿòü âûçîâ, êîòîðûé §Y[From.GetTitledFirstName]§! Âàì áðîñèë[From.GetEndA].\nÂàøè §Yñîðàòíèêè ïî âîèíñêîé ëîæå§! çàïîìíÿòü ýòî êàê òðóñîñòü.;;x
+TT_EVTOPTBHF25250;Challenge §Y[flyting_potential_opponent_2.GetTitledFirstName]§! to a contest of dialectics.;;;;;;;;;;;§Y[flyting_potential_opponent_2.GetTitledFirstName]§! ñòàíåò Âàøèì îïïîíåíòîì âî §Yôëèòèíãå§! - ñëîâåñòíîì ñîñòÿçàíèè.;;x
+TT_EVTOPTBHF25288;Focus your energies entirely on winning the match.;;;;;;;;;;;Ñîñðåäîòî÷èòü âñå ñâîè ñèëû íà ïîáåäå â ñîñòÿçàíèè.;;x
+TT_EVTOPTBHF25289;Expose §Y[From.GetFirstName]§!.;;;;;;;;;;;Ðàçîáëà÷èòü [From.GetHersHis].;;x
+TT_EVTOPTCHF25200;Challenge §Y[arm_wrestling_opponent_3.GetTitledFirstName]§! to an arm-wrestling match.;;;;;;;;;;;Ïóñòü §Y[arm_wrestling_opponent_3.GetTitledFirstName]§! ñðàçèòñÿ ñ Âàìè.;;x
+TT_EVTOPTCHF25229;Throw the die.;;;;;;;;;;;Áðîñèòü êîñòü.;;x
+TT_EVTOPTCHF25250;Challenge §Y[flyting_potential_opponent_3.GetTitledFirstName]§! to a contest of dialectics.;;;;;;;;;;;§Y[flyting_potential_opponent_3.GetTitledFirstName]§! ñòàíåò Âàøèì îïïîíåíòîì âî §Yôëèòèíãå§! - ñëîâåñòíîì ñîñòÿçàíèè.;;x
+TT_DIE_TABLE_BUMP_DISCOVERED;the other warriors noticing that you are trying to cheat.;;;;;;;;;;;äðóãèå âîèíû îáíàðóæàò, ÷òî Âû ïûòàåòåñü ñìóõëåâàòü.;;x
+TT_DIE_TABLE_BUMP_FAILS;being unable to push the die properly.;;;;;;;;;;;íå ïîëó÷èòñÿ ïðàâèëüíî áðîñèòü êîñòü.;;x
+TT_DIE_TABLE_BUMP_WINS;your trick working.;;;;;;;;;;;âàø òðþê ñðàáîòàåò.;;x
+TT_FAKE_DIE_DISCOVERED;your trick being discovered.;;;;;;;;;;;âàø òðþê áóäåò ðàçîáëà÷¸í.;;x
+TT_FAKE_DIE_WINS;you successfully tricking the other warriors.;;;;;;;;;;;âàì óñïåøíî óäàñòñÿ îáìàíóòü äðóãèõ âîèíîâ.;;x
+TT_FLYTING_INSULT_AVERAGE_REACTION;You hear the crowd snickering at you.;;;;;;;;;;;Òîëïà õèõèêàåò.;;x
+TT_FLYTING_INSULT_LOST_PATIENCE_REACTION;You lose your patience.;;;;;;;;;;;Âû òåðÿåòå òåðïåíèå.;;x
+TT_FLYTING_INSULT_MILD_REACTION;[From.GetFirstName]'s words barely affect you.;;;;;;;;;;;[From.GetHersHis] ñëîâà íå áåñïîêîÿò Âàñ.;;x
+TT_FLYTING_INSULT_POOR_REACTION;The crowd laughs at you.;;;;;;;;;;;Òîëïà ñìå¸òñÿ íàä Âàìè.;;x
+TT_FLYTING_INSULTING_ACCOMPLISHMENTS;Insult §Y[From.GetFirstName]§!'s accomplishments.\nThis line of insults tends to be more effective against §YAmbitious§! and §YProud§! opponents.;;;;;;;;;;;Âûáðàòü öåëüþ îñêîðáëåíèé [From.GetHersHis] äîñòèæåíèÿ.\nÝôôåêò áóäåò áîëüøå, åñëè §Y[From.GetTitledFirstName]§! §Yàìáèöèîçí[From.GetAyaYy]§! èëè §Yãîðä[From.GetAyaYy]§!.;;x
+TT_FLYTING_INSULTING_CHARACTER;Insult §Y[From.GetFirstName]§!'s character.\nThis line of insults tends to be more effective against §YEnvious§! and §YShy§! opponents.;;;;;;;;;;;Ïîïûòàòüñÿ îñêîðáèòü [From.GetHersHis] ëè÷íîñòü.\nÝôôåêò áóäåò áîëüøå, åñëè §Y[From.GetTitledFirstName]§! §Yçàâèñòëèâ[From.GetAyaYy]§! èëè §Yçàñòåí÷èâ[From.GetAyaYy]§!.;;x
+TT_FLYTING_INSULTING_FAMILY;Insult §Y[From.GetFirstName]§!'s family.\nThis line of insults tends to be more effective against §YKind§! opponents.;;;;;;;;;;;Ïîïûòàòüñÿ îñêîðáèòü [From.GetHersHis] ñåìüþ.\nÝôôåêò áóäåò áîëüøå, åñëè §Y[From.GetTitledFirstName]§! §Yäîáð[From.GetAyaYy]§!.;;x
+TT_FLYTING_INSULTING_PROWESS;Insult §Y[From.GetFirstName]§!'s prowess.\nThis line of insults tends to be more effective towards §YLustful§! opponents.;;;;;;;;;;;Ïîïûòàòüñÿ îñêîðáèòü [From.GetHersHis] äîñòîèíñòâî.\nÝôôåêò áóäåò áîëüøå, åñëè §Y[From.GetTitledFirstName]§! §Yïîõîòëèâ[From.GetAyaYy]§!.;;x
+TT_FLYTING_OPPONENT_REACTS;§Y[From.GetTitledFirstName]§! reacts to your attack.;;;;;;;;;;;§Y[From.GetTitledFirstName]§! îòðåàãèðóåò íà Âàø âûïàä.;;x
+TOOLTIP_EVTOPTDHF25205;Try to increase your chances by cheating.;;;;;;;;;;;Ñìóõëåâàòü, òåì ñàìûì óëó÷øèâ ñâîè øàíñû íà ïîáåäó.;;x
+tooltip_EVTOPTYHF25230;Start a §YDuel§! with §Y[random_society_winner.GetFirstName]§! to avoid paying your debt.;;;;;;;;;;;Âñòóïèòü â §Yïîåäèíîê§! ñ [random_society_winner.GetAgedPersonINS] ïî èìåíè §Y[random_society_winner.GetFirstName]§!, ÷òîáû èçáåæàòü óïëàòû äîëãà.;;x
+tooltip_betting_10_gold;Bet §G10§! gold.;;;;;;;;;;;Ïîñòàâèòü §G10.0§! çîëîòûõ.;;x
+tooltip_betting_20_gold;Bet §G20§! gold.;;;;;;;;;;;Ïîñòàâèòü §G20.0§! çîëîòûõ.;;x
+tooltip_betting_25_gold;Bet §G25§! gold.;;;;;;;;;;;Ïîñòàâèòü §G25.0§! çîëîòûõ.;;x
+tooltip_betting_50_gold;Bet §G50§! gold.;;;;;;;;;;;Ïîñòàâèòü §G50.0§! çîëîòûõ.;;x
+tooltip_betting_100_gold;Bet §G100§! gold.;;;;;;;;;;;Ïîñòàâèòü §G100.0§! çîëîòûõ.;;x
+tooltip_betting_200_gold;Bet §G200§! gold.;;;;;;;;;;;Ïîñòàâèòü §G200.0§! çîëîòûõ.;;x
+tooltip_betting_250_gold;Bet §G250§! gold.;;;;;;;;;;;Ïîñòàâèòü §G250.0§! çîëîòûõ.;;x
+tooltip_betting_500_gold;Bet §G500§! gold.;;;;;;;;;;;Ïîñòàâèòü §G500.0§! çîëîòûõ.;;x
+tooltip_betting_1000_gold;Bet §G1000§! gold.;;;;;;;;;;;Ïîñòàâèòü §G1000.0§! çîëîòûõ.;;x
+tooltip_betting_double;Bet §G[local_twice_betting_money.GetValue]§! gold.;;;;;;;;;;;Ïîñòàâèò §G[local_twice_betting_money.GetValue]§! çîëîòûõ.;;x
 # Unused
-# tooltip_EVTOPTYHF25235;Start a §YDuel§! with §Y[random_society_winner.GetFirstName]§! to avoid paying your debt.;;;;;;;;;;;;;x
+# tooltip_EVTOPTYHF25235;Start a §YDuel§! with §Y[random_society_winner.GetFirstName]§! to avoid paying your debt.;;;;;;;;;;;Âñòóïèòü â §Yïîåäèíîê§! ñ [random_society_winner.GetAgedPersonINS] ïî èìåíè §Y[random_society_winner.GetFirstName]§!, ÷òîáû èçáåæàòü óïëàòû äîëãà.;;x

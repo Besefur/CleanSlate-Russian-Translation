@@ -1,34 +1,33 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-bear.1.a;I shall request that [bear_character.GetFirstName] relocate.;;;;;;;;;;;;;x
-bear.1.b;It would be rude to insist.;;;;;;;;;;;;;x
-bear.1.desc;I really must request that my [bear_character.GetRootRelation] [bear_character.GetFirstName] take up quarters not immediately adjacent to my own. I love [bear_character.GetHerHim] dearly, but the sheer volume of [bear_character.GetHerHis] snoring is becoming quite unbearable.;;;;;;;;;;;;;x
-bear.1.title;Troubled Sleep;;;;;;;;;;;;;x
-bear.2.a;Good thing it doesn't run in the family.;;;;;;;;;;;;;x
-bear.2.b;Well, it must be practical in the winter season.;;;;;;;;;;;;;x
-bear.2.desc;I brushed past [bear_character.GetFirstName] on my way to the royal stables this afternoon. Though it was an impolite thought, the close contact left me struck with just how hirsute my [bear_character.GetRootRelation]'s figure is.;;;;;;;;;;;;;x
-bear.2.title;A Hairy Situation;;;;;;;;;;;;;x
-bear.3.a;I will seek [Root.Spouse.GetFirstName]'s company instead.;;;;;;;;;;;;;x
-bear.3.b;I will seek [family_member.GetFirstName]'s company instead.;;;;;;;;;;;;;x
-bear.3.c;I will seek the clergy's council instead.;;;;;;;;;;;;;x
-bear.3.desc;[bear_character.GetFirstName] is known to be a [bear_character.GetManWoman] of few words. No words, in fact. They say silence is golden, but sometimes a [Root.GetManWoman] finds [Root.GetHerselfHimself] in dire need of a good conversation!;;;;;;;;;;;;;x
-bear.3.title;Tongue-Tied;;;;;;;;;;;;;x
-bear.4.a;I trust my Marshal to find the thief.;;;;;;;;;;;;;x
-bear.4.b;I trust my Spymaster to get to the bottom of this.;;;;;;;;;;;;;x
-bear.4.c;Sin is its own punishment.;;;;;;;;;;;;;x
-bear.4.desc;A mysterious honey-thief has been terrorizing the court of late. At seemingly random intervals, all of the honey in our royal kitchen will go missing, often with the pantry cupboards left open and the jars smashed. Thus far, no one has been able to determine the identity of this syrup stealer.;;;;;;;;;;;;;x
-bear.4.title;Sweet Thief;;;;;;;;;;;;;x
-bear.5.a;We all have our flaws.;;;;;;;;;;;;;x
-bear.5.b;Some might call it stately.;;;;;;;;;;;;;x
-bear.5.desc;[bear_character.GetFirstName] sat for a portrait this week. The colours are quite vivid, but poor [bear_character.GetFirstName]'s nose came out distractingly prominent in the likeness. I had a mind to complain to the painter about their lack of proportion, but [bear_character.GetFirstName] does have a rather unusually generous nose, come to think of it.;;;;;;;;;;;;;x
-bear.5.title;Poignant Portraitry;;;;;;;;;;;;;x
-bear.6.a;Is this the work of a foul sorcerer?;;;;;;;;;;;;;x
-bear.6.b;Has [bear_character.GetSheHe] always been a bear?;;;;;;;;;;;;;x
-bear.6.c;We need a tailor capable of beclothing the ursine form.;;;;;;;;;;;;;x
-bear.6.d;This explains all that missing honey...;;;;;;;;;;;;;x
-bear.6.desc;At the latest banquet, after polishing off four pots of stew, three whole trout, and an entire shank of lamb, [bear_character.GetFirstName] was, as is [bear_character.GetHerHis] wont, trundling off to [bear_character.GetHerHis] chambers to retire - when [bear_character.GetHerHis] vestments caught on the raw edge of a table! Before a courtier could come to [bear_character.GetHerHis] assistance, the cloth was torn open, ripping straight up to the collar and leaving poor [bear_character.GetFirstName] utterly exposed before the entire hall!\nIf that wasn't scandal enough, the party-goers were struck mute with an astonishing realization: [bear_character.GetFirstName] was most irrefutably not a [bear_character.GetManWoman] at all... but a bear.;;;;;;;;;;;;;x
-bear.6.e;It's going to eat me! Unless I eat it first...;;;;;;;;;;;;;x
-bear.6.f;Shoot it and mount its head on a wall.;;;;;;;;;;;;;x
-bear.6.title;Bearly Legal;;;;;;;;;;;;;x
-bear.6.undo;This is unbearable!;;;;;;;;;;;;;x
-UNDO_BEAR_TRANSFORMATION;Waking up, everything is back to normal. Maybe all of this was just a dream...;;;;;;;;;;;;;x
+bear.1.a;I shall request that [bear_character.GetFirstName] relocate.;;;;;;;;;;;ß ïîïðîøó [bear_character.GetHersHis] ñìåíèòü [Root.GetChamberACC].;;x
+bear.1.b;It would be rude to insist.;;;;;;;;;;;Áûëî áû ãðóáî íàñòàèâàòü íà ýòîì.;;x
+bear.1.desc;I really must request that my [bear_character.GetRootRelation] [bear_character.GetFirstName] take up quarters not immediately adjacent to my own. I love [bear_character.GetHerHim] dearly, but the sheer volume of [bear_character.GetHerHis] snoring is becoming quite unbearable.;;;;;;;;;;;Ìíå ñòîèò ïîïðîñèòü, ÷òîáû ì[bear_character.GetOyaOy] [bear_character.GetRootRelation] [bear_character.GetFirstName] íî÷åâàë[bear_character.GetEndA] ïîäàëüøå îò ì[Root.GetMyChamberGEN]. ß êîíå÷íî, ëþáëþ [bear_character.GetHersHis], íî ýòîò æóòêèé õðàï ïðîñòî íåâûíîñèì.;;x
+bear.1.title;Troubled Sleep;;;;;;;;;;;Tðåâîæíûé ñîí;;x
+bear.2.a;Good thing it doesn't run in the family.;;;;;;;;;;;Õîðîøî, ÷òî ýòî ó íàñ íå ñåìåéíîå.;;x
+bear.2.b;Well, it must be practical in the winter season.;;;;;;;;;;;Íó... çàòî çèìîé [bear_character.GetHerHim] íå òàê õîëîäî.;;x
+bear.2.desc;I brushed past [bear_character.GetFirstName] on my way to the royal stables this afternoon. Though it was an impolite thought, the close contact left me struck with just how hirsute my [bear_character.GetRootRelation]'s figure is.;;;;;;;;;;;Íåäàâíî, íàïðàâëÿÿñü ê êîíþøíÿì, ÿ áóêâàëüíî âðåçà[Root.GetLasLsya] â ñâî[bear_character.GetYuEgo] [bear_character.GetRootRelationACC]. Ìîè èçâèíåíèÿ íåñêîëüêî çàïîçäàëè, ïîòîìó ÷òî ê ìîåìó óäèâëåíèþ [bear_character.GetFirstName] áûë[bear_character.GetEndA] êàê[bear_character.GetAyaOy]-òî î÷åíü óæ âîëîñàò[bear_character.GetAyaYy], ó ìåíÿ àæ ìóðàøêè ïî êîæå.;;x
+bear.2.title;A Hairy Situation;;;;;;;;;;;Bîëîñàòîñòü;;x
+bear.3.a;I will seek [Root.Spouse.GetFirstName]'s company instead.;;;;;;;;;;;Ëàäíî, ïîãîâîðþ ñî ñâî[Root.Spouse.GetEyIm] [Root.Spouse.GetHusbandWifeINS].;;x
+bear.3.b;I will seek [family_member.GetFirstName]'s company instead.;;;;;;;;;;;[family_member.GetFirstName] ñîñòàâèò ìíå êîìïàíèþ âìåñòî í[bear_character.GetHersHis].;;x
+bear.3.c;I will seek the clergy's council instead.;;;;;;;;;;;Ñïðîøó ñîâåòà ó ñâÿùåííèêîâ.;;x
+bear.3.desc;[bear_character.GetFirstName] is known to be a [bear_character.GetManWoman] of few words. No words, in fact. They say silence is golden, but sometimes a [Root.GetManWoman] finds [Root.GetHerselfHimself] in dire need of a good conversation!;;;;;;;;;;;[bear_character.GetFirstName] âåñüìà íåìíîãîñëîâ[bear_character.GetNaEn]. Ãîâîðÿò, ìîë÷àíèå - çîëîòî, íî èíîãäà ëþäè õîòÿò ïîãîâîðèòü, íó õîòü êîãäà-íèáóäü!;;x
+bear.3.title;Tongue-Tied;;;;;;;;;;;Kîñíîÿçû÷èå;;x
+bear.4.a;I trust my Marshal to find the thief.;;;;;;;;;;;Ïóñòü [Root.GetMyMarshalName] ïîéìàåò âîðà.;;x
+bear.4.b;I trust my Spymaster to get to the bottom of this.;;;;;;;;;;;Ïîõîæå ýòî ðàáîòà äëÿ Òàéíîãî ñîâåòíèêà.;;x
+bear.4.c;Sin is its own punishment.;;;;;;;;;;;Ãðåõ - ñàì ïî ñåáå íàêàçàíèå.;;x
+bear.4.desc;A mysterious honey-thief has been terrorizing the court of late. At seemingly random intervals, all of the honey in our royal kitchen will go missing, often with the pantry cupboards left open and the jars smashed. Thus far, no one has been able to determine the identity of this syrup stealer.;;;;;;;;;;;Ïðèäâîðíûå ãîâîðÿò, ÷òî â ïîñëåäíåå âðåìÿ ÷àñòî ïðîïàäàþò ñëàäîñòè, îñîáåííî âàðåíüå è ì¸ä, èíîãäà ïîïàäàþòñÿ äàæå ïóñòûå ãîðøêè è áî÷îíêè. Çàïàñû èñïðàâíî ïîïîëíÿþò, íî íèêòî íå ñîìíåâàåòñÿ, ñðåäè íàñ çàâ¸ëñÿ âîð-ñëàäêîåæêà.;;x
+bear.4.title;Sweet Thief;;;;;;;;;;;Cëàäêîåæêà;;x
+bear.5.a;We all have our flaws.;;;;;;;;;;;Ó âñåõ ñâîè íåäîñòàòêè.;;x
+bear.5.b;Some might call it stately.;;;;;;;;;;;Íåêîòîðûå íàçîâóò ýòî ìèëûì.;;x
+bear.5.desc;[bear_character.GetFirstName] sat for a portrait this week. The colours are quite vivid, but poor [bear_character.GetFirstName]'s nose came out distractingly prominent in the likeness. I had a mind to complain to the painter about their lack of proportion, but [bear_character.GetFirstName] does have a rather unusually generous nose, come to think of it.;;;;;;;;;;;"Íà ýòîé íåäåëå [bear_character.GetFirstName] ïîçèðîâàë[bear_character.GetEndA] äëÿ ïîðòðåòà. ßðêèå êðàñêè è ìàñòåðñòâî æèâîïèñöà ïîðàæàþò, íî åñòü îäíà ïðîáëåìà - ÷ðåçìåðíî âûñòóïàþùèé íîñ. ß ïûòà[Root.GetLasLsya] óáåäèòü õóäîæíèêà ïðåóêðàñèòü ïðîïîðöèè, íî îí ñêàçàë, ÷òî ó í[bear_character.GetHersHis] ïðîñòî ""òàêîå ëèöî"", è åñëè åãî èçìåíèòü, [bear_character.GetSheHe] áóäåò íåïîõîæ[bear_character.GetEndA] íà ñåáÿ.";;x
+bear.5.title;Poignant Portraitry;;;;;;;;;;;Håîáû÷íûé ïîðòðåò;;x
+bear.6.a;Is this the work of a foul sorcerer?;;;;;;;;;;;Ýòî êàêîå-òî êîëäîâñòâî?;;x
+bear.6.b;Has [bear_character.GetSheHe] always been a bear?;;;;;;;;;;;Ìîæåò, [bear_character.GetSheHe] âñåãäà áûë[bear_character.GetEndA] ìåäâåäåì?;;x
+bear.6.c;We need a tailor capable of beclothing the ursine form.;;;;;;;;;;;Íàäî ñøèòü íîâûé íàðÿä, ÷òîáû ñêðûòü ýòîò ìåõ.;;x
+bear.6.d;This explains all that missing honey...;;;;;;;;;;;Òàê âîò êòî âîðîâàë ì¸ä...;;x
+bear.6.desc;At the latest banquet, after polishing off four pots of stew, three whole trout, and an entire shank of lamb, [bear_character.GetFirstName] was, as is [bear_character.GetHerHis] wont, trundling off to [bear_character.GetHerHis] chambers to retire - when [bear_character.GetHerHis] vestments caught on the raw edge of a table! Before a courtier could come to [bear_character.GetHerHis] assistance, the cloth was torn open, ripping straight up to the collar and leaving poor [bear_character.GetFirstName] utterly exposed before the entire hall!\nIf that wasn't scandal enough, the party-goers were struck mute with an astonishing realization: [bear_character.GetFirstName] was most irrefutably not a [bear_character.GetManWoman] at all... but a bear.;;;;;;;;;;;"Âî âðåìÿ áàíêåòà, îïóñòîøèâ ÷åòûðå ãîðøêà ñ ïîõëåáêîé, ñúåâ öåëóþ áàðàíüþ íîãó è òðè ôîðåëè, [bear_character.GetFirstName], êàê îáû÷íî, îòïðàâè[bear_character.GetLasLsya] â ñâ[Root.GetMyChamberACC] îòäîõíóòü, íî [bear_character.GetHersHis] îäåæäà çàöåïèëàñü çà êðàé ñòîëà! Ïðåæäå ÷åì ñëóãà óñïåë ïîìî÷ü, äîðîãîé íàðÿä ïîðâàëñÿ è [bear_character.GetSheHe] îêàçà[bear_character.GetLasLsya] ñîâåðøåííî ãîë[bear_character.GetOyYm] ïåðåä ãîñòÿìè! Õîòÿ ñëîâî ""ãîëûé"" òóò âðÿä ëè ïðèä¸òñÿ ê ìåñòó.\nÃîñòè, ðàñêðûâ ðòû, óñòàâèëèñü íà í[bear_character.GetHersHis], íå â ñèëàõ ïðîèçíåñòè íè ñëîâà: [bear_character.GetFirstName] âîâñå íå ÷åëîâåê, [bear_character.GetSheHe] - ìåäâåäü!";;x
+bear.6.e;It's going to eat me! Unless I eat it first...;;;;;;;;;;;[bear_character.GetSheHeCap] æå ìåíÿ ñúåñò! Åñëè òîëüêî ÿ íå ñúåì [bear_character.GetHersHis] ñàì[Root.GetEndA].;;x
+bear.6.f;Shoot it and mount its head on a wall.;;;;;;;;;;;Ïîäñòðåëèòü [bear_character.GetHersHis], à ãîëîâó ïîâåñèòü íà ñòåíó.;;x
+bear.6.title;Bearly Legal;;;;;;;;;;;Bîëîñû ïîä îäåæäîé;;x
+bear.6.undo;This is unbearable!;;;;;;;;;;;Ýòî íåâûíîñèìî!;;x
+UNDO_BEAR_TRANSFORMATION;Waking up, everything is back to normal. Maybe all of this was just a dream...;;;;;;;;;;;Ïðîñíóòüñÿ è ïîíÿòü, ÷òî âñ¸ âåðíóëîñü íà êðóãè ñâîÿ, à ýòî áûë ïðîñòî ñîí...;;x

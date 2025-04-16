@@ -1,74 +1,74 @@
-baptized_emperor_from;Converted Empire;;;;;;;;;;;;;x
-baptized_emperor_to;Converted Empire;;;;;;;;;;;;;x
-baptized_king_from;Converted Realm;;;;;;;;;;;;;x
-baptized_king_to;Converted Realm;;;;;;;;;;;;;x
-blood_haruspicy_positive;Favorable Blood Divination;;;;;;;;;;;;;x
-bloodthirsty_mass_sacrifice;Mass Sacrifice;;;;;;;;;;;;;x
-built_great_pillar;Great Pillars Built;;;;;;;;;;;;;x
-cosmopolitan_religion;Cosmopolitan;;;;;;;;;;;;;x
-decadent_clergy;Decadent Clergy;;;;;;;;;;;;;x
-depose_impious_pope_modifier;Overthrew immoral Pope;;;;;;;;;;;;;x
-deposed_antipope;Deposed an Antipope;;;;;;;;;;;;;x
-destroyed_great_pillar;Great Pillars Destroyed;;;;;;;;;;;;;x
-dogmatic_religion;Dogmatic;;;;;;;;;;;;;x
-failed_heretic_dialogue;Lost Theological Debate;;;;;;;;;;;;;x
-failed_inquisition;Failed Inquisition;;;;;;;;;;;;;x
-failed_to_depose_impious_pope_modifier;Impious Pope won the war for the Holy See;;;;;;;;;;;;;x
-failed_to_launch_crusade_modifier;Canceled Crusade;;;;;;;;;;;;;x
-great_sacrifice_negative;Great Heathen Sacrifice;;;;;;;;;;;;;x
-great_sacrifice_positive;Great Sacrifice;;;;;;;;;;;;;x
-great_tribal_festival_1;Festivals Held;;;;;;;;;;;;;x
-great_tribal_festival_2;Great Festivals Held;;;;;;;;;;;;;x
-haruspicy_tempted_faith;Religious Head died ominously;;;;;;;;;;;;;x
-haruspicy_very_bad_omen;Apocalyptic Stars;;;;;;;;;;;;;x
-haruspicy_very_good_omen;Favorable Stars;;;;;;;;;;;;;x
-head_of_religion_neglect;Neglectful Head of Religion;;;;;;;;;;;;;x
-hellenic_resurgence;Hellenic Resurgence;;;;;;;;;;;;;x
-holy_order_expelled;Holy Order Expelled;;;;;;;;;;;;;x
-impious_beatification;Impious Beatification;;;;;;;;;;;;;x
-impious_canonization;Impious Canonization;;;;;;;;;;;;;x
-irminsul_destroyed;Irminsul Destroyed;;;;;;;;;;;;;x
-looted_infidel_temple;Infidel Temples Looted;;;;;;;;;;;;;x
-lost_county_conquest;Failed County Conquests;;;;;;;;;;;;;x
-lost_crusade;Defeated in Crusade;;;;;;;;;;;;;x
-lost_flower_war;Lost Flower Wars;;;;;;;;;;;;;x
-lost_heretic_revolt;Heretic Rebel Victories;;;;;;;;;;;;;x
-lost_holy_war;Lost Holy Wars;;;;;;;;;;;;;x
-lost_religious_revolt;Infidel Rebel Victories;;;;;;;;;;;;;x
-lost_viking_invasion;Failed Prepared Invasions;;;;;;;;;;;;;x
-northern_crusade_won;Northern Crusade Victory;;;;;;;;;;;;;x
-pagan_revival;Pagan Revival;;;;;;;;;;;;;x
-papacy_instituted;Papacy Instituted;;;;;;;;;;;;;x
-paragon_of_enlightenment;Paragon of Enlightenment;;;;;;;;;;;;;x
-paragon_of_virtue;Paragons of Virtue;;;;;;;;;;;;;x
-patriarchy_instituted;Patriarchate Instituted;;;;;;;;;;;;;x
-reconquista_lost;Lost Reconquest War;;;;;;;;;;;;;x
-reconquista_won;Won Reconquest War;;;;;;;;;;;;;x
-religious_order_formed;Religious Orders Formed;;;;;;;;;;;;;x
-restored_primacy;Restored Primacy;;;;;;;;;;;;;x
-rise_of_the_shia_caliphate;Rise of the Shi'a Caliphate;;;;;;;;;;;;;x
-rome_destroyed;Rome Burned;;;;;;;;;;;;;x
-ruler_bowed_to_patriarch;Patriarchal Demands Accepted;;;;;;;;;;;;;x
-ruler_bowed_to_pope;Papal Demands Accepted;;;;;;;;;;;;;x
-ruler_converted_from;Rulers Led Astray;;;;;;;;;;;;;x
-ruler_converted_to;Rulers Converted;;;;;;;;;;;;;x
-ruler_defied_patriarch;Patriarchal Demands Refused;;;;;;;;;;;;;x
-ruler_defied_pope;Papal Demands Refused;;;;;;;;;;;;;x
-sacrificed_head_bad;Our Religious Head was sacrificed to Heathen Gods.;;;;;;;;;;;;;x
-sacrificed_head_good;We sacrificed the Head of a false Religion!;;;;;;;;;;;;;x
-stopped_reconquista;Defended against Reconquest;;;;;;;;;;;;;x
-strengthened_religion;Strengthened Religion;;;;;;;;;;;;;x
-successful_heretic_dialogue;Won Theological Debate;;;;;;;;;;;;;x
-successful_inquisition;Successful Inquisition;;;;;;;;;;;;;x
-temple_built;Temples Built;;;;;;;;;;;;;x
-temple_desecrated;Temples Desecrated;;;;;;;;;;;;;x
-temple_looted;Temples Looted;;;;;;;;;;;;;x
-theology_debates;Debated Dogma;;;;;;;;;;;;;x
-won_county_conquest;Successful County Conquests;;;;;;;;;;;;;x
-won_crusade;Victorious in Crusade;;;;;;;;;;;;;x
-won_flower_war;Won Flower Wars;;;;;;;;;;;;;x
-won_heretic_revolt;Heretic Rebels Crushed;;;;;;;;;;;;;x
-won_holy_war;Won Holy Wars;;;;;;;;;;;;;x
-won_religious_revolt;Infidel Rebels Crushed;;;;;;;;;;;;;x
-won_viking_invasion;Successful Prepared Invasions;;;;;;;;;;;;;x
-zoroastrian_rebirth;Zoroastrian Rebirth;;;;;;;;;;;;;x
+baptized_emperor_from;Converted Empire;;;;;;;;;;;Ìàññîâîå îáðàùåíèå èìïåðèè;;x
+baptized_emperor_to;Converted Empire;;;;;;;;;;;Ìàññîâîå îáðàùåíèå èìïåðèè;;x
+baptized_king_from;Converted Realm;;;;;;;;;;;Ìàññîâîå îáðàùåíèå ñòðàíû;;x
+baptized_king_to;Converted Realm;;;;;;;;;;;Ìàññîâîå îáðàùåíèå ñòðàíû;;x
+blood_haruspicy_positive;Favorable Blood Divination;;;;;;;;;;;Õîðîøèé èñõîä êðîâàâîãî ïðîðèöàíèÿ;;x
+bloodthirsty_mass_sacrifice;Mass Sacrifice;;;;;;;;;;;Ìàññîâîå æåðòâîïðèíîøåíèå;;x
+built_great_pillar;Great Pillars Built;;;;;;;;;;;Óñòàíîâëåí âåëèêèé ñòîëï;;x
+cosmopolitan_religion;Cosmopolitan;;;;;;;;;;;Êîñìîïîëèòè÷íàÿ;;x
+decadent_clergy;Decadent Clergy;;;;;;;;;;;Çàãíèâàþùåå äóõîâåíñòâî;;x
+depose_impious_pope_modifier;Overthrew immoral Pope;;;;;;;;;;;Ñâåðæåíèå àìîðàëüíîãî Ïàïû;;x
+deposed_antipope;Deposed an Antipope;;;;;;;;;;;Ñâåðãíóò àíòèïàïà;;x
+destroyed_great_pillar;Great Pillars Destroyed;;;;;;;;;;;Âåëèêèé ñòîëï óíè÷òîæåí;;x
+dogmatic_religion;Dogmatic;;;;;;;;;;;Äîãìàòè÷åñêàÿ;;x
+failed_heretic_dialogue;Lost Theological Debate;;;;;;;;;;;Ïîðàæåíèå â áîãîñëîâñêèõ ñïîðàõ;;x
+failed_inquisition;Failed Inquisition;;;;;;;;;;;Ïðîâàë Èíêâèçèöèè;;x
+failed_to_depose_impious_pope_modifier;Impious Pope won the war for the Holy See;;;;;;;;;;;Àìîðàëüíûé Ïàïà óäåðæàë Ïðåñòîë;;x
+failed_to_launch_crusade_modifier;Canceled Crusade;;;;;;;;;;;Îòìåíà êðåñòîâîãî ïîõîäà;;x
+great_sacrifice_negative;Great Heathen Sacrifice;;;;;;;;;;;Âåëèêàÿ ÿçû÷åñêàÿ æåðòâà;;x
+great_sacrifice_positive;Great Sacrifice;;;;;;;;;;;Âåëèêàÿ æåðòâà;;x
+great_tribal_festival_1;Festivals Held;;;;;;;;;;;Íàðîäíûé ïðàçäíèê;;x
+great_tribal_festival_2;Great Festivals Held;;;;;;;;;;;Âåëèêèé ïðàçäíèê;;x
+haruspicy_tempted_faith;Religious Head died ominously;;;;;;;;;;;Çëîâåùàÿ ãèáåëü ãëàâû öåðêâè;;x
+haruspicy_very_bad_omen;Apocalyptic Stars;;;;;;;;;;;Àïîêàëèòè÷íûå çâ¸çäû;;x
+haruspicy_very_good_omen;Favorable Stars;;;;;;;;;;;Áëàãîâîëåíèå çâ¸çä;;x
+head_of_religion_neglect;Neglectful Head of Religion;;;;;;;;;;;Íåðàäèâûé ãëàâà ðåëèãèè;;x
+hellenic_resurgence;Hellenic Resurgence;;;;;;;;;;;Âîçðîæäåíèå [ýëëèí]èçìà;;x
+holy_order_expelled;Holy Order Expelled;;;;;;;;;;;Èçãíàë äóõîâíûé îðäåí;;x
+impious_beatification;Impious Beatification;;;;;;;;;;;Íå÷åñòèâàÿ áåàòèôèêàöèÿ;;x
+impious_canonization;Impious Canonization;;;;;;;;;;;Íå÷åñòèâàÿ êàíîíèçàöèÿ;;x
+irminsul_destroyed;Irminsul Destroyed;;;;;;;;;;;Èðìèíñóëü óíè÷òîæåí;;x
+looted_infidel_temple;Infidel Temples Looted;;;;;;;;;;;Õðàìîâ íåâåðíûõ ðàçãðàáëåíî;;x
+lost_county_conquest;Failed County Conquests;;;;;;;;;;;Íåóäà÷íîå çàâîåâàíèå îêðóãà;;x
+lost_crusade;Defeated in Crusade;;;;;;;;;;;Ïîðàæåíèå â êðåñòîâîì ïîõîäå;;x
+lost_flower_war;Lost Flower Wars;;;;;;;;;;;Ïîðàæåíèå â âîéíå öâåòîâ;;x
+lost_heretic_revolt;Heretic Rebel Victories;;;;;;;;;;;Ïîáåäà ìÿòåæíûõ åðåòèêîâ;;x
+lost_holy_war;Lost Holy Wars;;;;;;;;;;;Ïðîèãðàííûå ñâÿùåííûå âîéíû;;x
+lost_religious_revolt;Infidel Rebel Victories;;;;;;;;;;;Ïîáåäà íåâåðíûõ ìÿòåæíèêîâ;;x
+lost_viking_invasion;Failed Prepared Invasions;;;;;;;;;;;Ïîäãîòîâëåííîå Âòîðæåíèå ïðîâàëèëîñü;;x
+northern_crusade_won;Northern Crusade Victory;;;;;;;;;;;Ïîáåäà Ñåâåðíîãî Êðåñòîâîãî ïîõîäà;;x
+pagan_revival;Pagan Revival;;;;;;;;;;;Âîçðîæäåíèå [_ÿçû÷åñòâà];;x
+papacy_instituted;Papacy Instituted;;;;;;;;;;;Ó÷ðåæäåíî ïàïñòâî;;x
+paragon_of_enlightenment;Paragon of Enlightenment;;;;;;;;;;;Îáðàçåö Ïðîñâåòëåíèÿ;;x
+paragon_of_virtue;Paragons of Virtue;;;;;;;;;;;Îáðàçåö äîáðîäåòåëè;;x
+patriarchy_instituted;Patriarchate Instituted;;;;;;;;;;;Ó÷ðåæä¸í ïàòðèàðõàò;;x
+reconquista_lost;Lost Reconquest War;;;;;;;;;;;Ïîðàæåíèå Ðåêîíêèñòû;;x
+reconquista_won;Won Reconquest War;;;;;;;;;;;Ïîáåäà Ðåêîíêèñòû;;x
+religious_order_formed;Religious Orders Formed;;;;;;;;;;;Äóõîâíûå îðäåíà ïîÿâèëèñü;;x
+restored_primacy;Restored Primacy;;;;;;;;;;;Ïðèìàò Ïàïû Ðèìñêîãî âîññòàíîâëåí;;x
+rise_of_the_shia_caliphate;Rise of the Shi'a Caliphate;;;;;;;;;;;Ñòàíîâëåíèå Øèèòñêîãî õàëèôàòà;;x
+rome_destroyed;Rome Burned;;;;;;;;;;;Ðèì ñîææ¸í;;x
+ruler_bowed_to_patriarch;Patriarchal Demands Accepted;;;;;;;;;;;Òðåáîâàíèå ïàòðèàðõà ïðèíÿòî;;x
+ruler_bowed_to_pope;Papal Demands Accepted;;;;;;;;;;;Òðåáîâàíèå Ïàïû ïðèíÿòî;;x
+ruler_converted_from;Rulers Led Astray;;;;;;;;;;;Ïðàâèòåëè ââåäåíû â çàáëóæäåíèå;;x
+ruler_converted_to;Rulers Converted;;;;;;;;;;;Ïðàâèòåëè îáðàùåíû;;x
+ruler_defied_patriarch;Patriarchal Demands Refused;;;;;;;;;;;Òðåáîâàíèå ïàòðèàðõà îòêëîíåíî;;x
+ruler_defied_pope;Papal Demands Refused;;;;;;;;;;;Òðåáîâàíèå Ïàïû îòêëîíåíî;;x
+sacrificed_head_bad;Our Religious Head was sacrificed to Heathen Gods.;;;;;;;;;;;Ãëàâà íàøåé âåðû ïðèíåñåí â æåðòâó ëîæíûì áîãàì.;;x
+sacrificed_head_good;We sacrificed the Head of a false Religion!;;;;;;;;;;;Ìû ïðèíåñëè â æåðòâó ãëàâó ëîæíîé âåðû!;;x
+stopped_reconquista;Defended against Reconquest;;;;;;;;;;;Óñïåõ çàùèòû ïðîòèâ Ðåêîíêèñòû;;x
+strengthened_religion;Strengthened Religion;;;;;;;;;;;Óêðåïèòü ðåëèãèþ;;x
+successful_heretic_dialogue;Won Theological Debate;;;;;;;;;;;Ïîáåäà â áîãîñëîâñêèõ ñïîðàõ;;x
+successful_inquisition;Successful Inquisition;;;;;;;;;;;Óñïåõ Èíêâèçèöèè;;x
+temple_built;Temples Built;;;;;;;;;;;Õðàìîâ ïîñòðîåíî;;x
+temple_desecrated;Temples Desecrated;;;;;;;;;;;Õðàì îñêâåðí¸í;;x
+temple_looted;Temples Looted;;;;;;;;;;;Õðàìîâ ðàçãðàáëåíî;;x
+theology_debates;Debated Dogma;;;;;;;;;;;Äåáàòû ïî ïîâîäó äîãì;;x
+won_county_conquest;Successful County Conquests;;;;;;;;;;;Óñïåøíîå çàâîåâàíèå îêðóãà;;x
+won_crusade;Victorious in Crusade;;;;;;;;;;;Ïîáåäà â êðåñòîâîì ïîõîäå;;x
+won_flower_war;Won Flower Wars;;;;;;;;;;;Ïîáåäà â âîéíå öâåòîâ;;x
+won_heretic_revolt;Heretic Rebels Crushed;;;;;;;;;;;Ìÿòåæíûå åðåòèêè ðàçáèòû;;x
+won_holy_war;Won Holy Wars;;;;;;;;;;;Âûèãðàííûå ñâÿùåííûå âîéíû;;x
+won_religious_revolt;Infidel Rebels Crushed;;;;;;;;;;;Ïîðàæåíèå íåâåðíûõ ìÿòåæíèêîâ;;x
+won_viking_invasion;Successful Prepared Invasions;;;;;;;;;;;Ïîäãîòîâëåííîå Âòîðæåíèå áûëî óñïåøíûì;;x
+zoroastrian_rebirth;Zoroastrian Rebirth;;;;;;;;;;;Âîçðîæäåíèå [_çîðîàñòðèçìà];;x

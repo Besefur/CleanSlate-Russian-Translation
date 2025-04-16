@@ -1,23 +1,22 @@
-EVTDESC_CM_1;With foreign rulers come foreign influences. The local culture in the county of [Root.GetName] has evolved over time into something new, and the people living there are no longer referred to as Picts.;;;;;;;;;;;;;x
-EVTDESC_CM_2;Far from their ancestral Northern lands, the Lombards have over the centuries slowly but steadily adopted more and more Latin and Roman traditions. In the county of [Root.GetName], the people have now gone so far as to start considering themselves properly Italian.;;;;;;;;;;;;;x
-EVTDESC_CM_3;The lowlands near the mouth of the Rhine have long been a crossroads where empires and cultures meet. In the county of [Root.GetName] a new identity now seems to be appearing. They are no longer [Root.Culture.GetName], but Dutch.;;;;;;;;;;;;;x
-EVTDESC_CM_4;The traditionally Saxon population of the county of [Root.GetName] has with time and under foreign rule become more and more similar to their Germanic cousins.;;;;;;;;;;;;;x
-EVTDESC_CM_5;The Franks in the county of [Root.GetName] have now adopted enough of Latin customs that they can no longer be recognized as Germanic. The scholars call them 'French'.;;;;;;;;;;;;;x
-EVTDESC_CM_6;Under Latin influence, the Visigothic population in the county of [Root.GetName] have now adopted new speech and new customs, becoming Occitan in culture.;;;;;;;;;;;;;x
-EVTDESC_CM_7;The Visigoths in various regions are slowly developing unique local identities with distinctive speech and customs. The latest news is that the county of [Root.GetName] has become Castilian in culture.;;;;;;;;;;;;;x
-EVTDESC_CM_8;The Visigoths in various regions are slowly developing unique local identities with distinctive speech and customs. The latest news is that the county of [Root.GetName] has become Catalan in culture.;;;;;;;;;;;;;x
-EVTDESC_CM_9;Through foreign trade and Visigothic influence new traditions are evolving among the Suebi. This is highly noticeable in the county of [Root.GetName], which is now Portuguese in culture.;;;;;;;;;;;;;x
-EVTDESC_CM_10;The dynamic society in Muslim Spain is giving rise to a new cultural identity. Thus the people in the county of [Root.GetName] are now calling themselves Andalusian.;;;;;;;;;;;;;x
-EVTDESC_CM_11;The people in the county of [Root.GetName] have assimilated new customs from afar, blending them with old Slavic traditions. They have also taken to calling themselves 'Rus' or 'Russians'.;;;;;;;;;;;;;x
-
-EVTOPTA_CM_1;They are Scottish now!;;;;;;;;;;;;;x
-EVTOPTA_CM_2;New times, new customs.;;;;;;;;;;;;;x
-EVTOPTA_CM_3;Dutch people? Interesting.;;;;;;;;;;;;;x
-EVTOPTA_CM_4;They are Germans now.;;;;;;;;;;;;;x
-EVTOPTA_CM_5;Such are the times.;;;;;;;;;;;;;x
-EVTOPTA_CM_6;Occitans, I see...;;;;;;;;;;;;;x
-EVTOPTA_CM_7;The times are changing.;;;;;;;;;;;;;x
-EVTOPTA_CM_8;The times are changing.;;;;;;;;;;;;;x
-EVTOPTA_CM_9;The times are changing.;;;;;;;;;;;;;x
-EVTOPTA_CM_10;Something distinct and truly Spanish.;;;;;;;;;;;;;x
-EVTOPTA_CM_11;New, but still recognizable.;;;;;;;;;;;;;x
+EVTDESC_CM_1;With foreign rulers come foreign influences. The local culture in the county of [Root.GetName] has evolved over time into something new, and the people living there are no longer referred to as Picts.;;;;;;;;;;;×óæåçåìíûå ïðàâèòåëè ïðèíîñÿò ñ ñîáîé ÷óæåçåìíûå ïîðÿäêè. Êóëüòóðà â [Root.County.GetAdjective]ñêèõ çåìëÿõ ñî âðåìåíåì ïåðåðîñëà â íå÷òî íîâîå, è òåïåðü ëþäè, ïðîæèâàþùèå çäåñü, áîëüøå íå ñ÷èòàþò ñåáÿ ïèêòàìè.;;x
+EVTDESC_CM_2;Far from their ancestral Northern lands, the Lombards have over the centuries slowly but steadily adopted more and more Latin and Roman traditions. In the county of [Root.GetName], the people have now gone so far as to start considering themselves properly Italian.;;;;;;;;;;;Âäàëè îò ñâîèõ èñêîííûõ ñåâåðíûõ çåìåëü, ëàíãîáàðäû íà ïðîòÿæåíèè âåêîâ ìåäëåííî, íî íåóêëîííî ïðèíèìàëè âñ¸ áîëüøå ëàòèíñêèõ è ðèìñêèõ îáû÷àåâ. Â ðåçóëüòàòå â íàøè äíè [Root.County.GetAdjective]ñêèå æèòåëè óæå ñ÷èòàþò ñåáÿ èòàëüÿíöàìè.;;x
+EVTDESC_CM_3;The lowlands near the mouth of the Rhine have long been a crossroads where empires and cultures meet. In the county of [Root.GetName] a new identity now seems to be appearing. They are no longer [Root.Culture.GetName], but Dutch.;;;;;;;;;;;Íèçìåííîñòü â óñòüå Ðåéíà èçäàâíà áûëà ìåñòîì ïåðåñå÷åíèÿ ðàçíûõ èìïåðèé è êóëüòóð. È òåïåðü æèòåëè [Root.County.GetAdjective]ñêèõ çåìåëü íà÷àëè ôîðìèðîâàòü ñâîþ íîâóþ èäåíòè÷íîñòü. Îíè áîëüøå íå ñâÿçûâàþò ñåáÿ ñ [Root.GetCultureAdj]îé êóëüòóðîé è ñ÷èòàþò ñåáÿ ãîëëàíäöàìè.;;x
+EVTDESC_CM_4;The traditionally Saxon population of the county of [Root.GetName] has with time and under foreign rule become more and more similar to their Germanic cousins.;;;;;;;;;;;Òðàäèöèîííî ñàêñîíñêîå íàñåëåíèå [Root.County.GetAdjective]ñêèõ çåìåëü ïîä ïðàâëåíèåì èíîçåìöåâ ñî âðåìåíåì âñ¸ áîëüøå ñòàíîâèòñÿ ïîõîæèì íà ñâîèõ íåìåöêèõ ñîáðàòüåâ.;;x
+EVTDESC_CM_5;The Franks in the county of [Root.GetName] have now adopted enough of Latin customs that they can no longer be recognized as Germanic. The scholars call them 'French'.;;;;;;;;;;;Ôðàíêñêîå íàñåëåíèå [Root.County.GetAdjective]ñêèõ çåìåëü ê íàñòîÿùåìó âðåìåíè ïåðåíÿëî äîñòàòî÷íî ëàòèíñêèõ îáû÷àåâ, ÷òîáû ïåðåñòàòü ñ÷èòàòü ñåáÿ ãåðìàíöàìè. Òåïåðü ó÷¸íûå íàçûâàþò èõ ôðàíöóçàìè.;;x
+EVTDESC_CM_6;Under Latin influence, the Visigothic population in the county of [Root.GetName] have now adopted new speech and new customs, becoming Occitan in culture.;;;;;;;;;;;Ëàòèíñêîå âëèÿíèå íà âèçèãîòñêîå íàñåëåíèå [Root.County.GetAdjective]ñêèõ çåìåëü ïðèâåëî íå òîëüêî ê ñìåíå ÿçûêà è îáû÷àåâ - ýòè ëþäè òåïåðü ñ÷èòàþò ñåáÿ îêñèòàíöàìè.;;x
+EVTDESC_CM_7;The Visigoths in various regions are slowly developing unique local identities with distinctive speech and customs. The latest news is that the county of [Root.GetName] has become Castilian in culture.;;;;;;;;;;;Âèçèãîòû â ðàçíûõ çåìëÿõ ïîñòåïåííî ðàçâèâàþò ñîáñòâåííóþ ìåñòíóþ èäåíòè÷íîñòü, ñâîé ÿçûê è îáû÷àè. [Root.County.GetAdjective]ñêèå æèòåëè, íàïðèìåð, òåïåðü íàçûâàþò ñåáÿ êàñòèëüöàìè.;;x
+EVTDESC_CM_8;The Visigoths in various regions are slowly developing unique local identities with distinctive speech and customs. The latest news is that the county of [Root.GetName] has become Catalan in culture.;;;;;;;;;;;Âèçèãîòû â ðàçíûõ çåìëÿõ ïîñòåïåííî ðàçâèâàþò ñîáñòâåííóþ ìåñòíóþ èäåíòè÷íîñòü, ñâîé ÿçûê è îáû÷àè. [Root.County.GetAdjective]ñêèå æèòåëè, íàïðèìåð, òåïåðü íàçûâàþò ñåáÿ êàòàëîíöàìè.;;x
+EVTDESC_CM_9;Through foreign trade and Visigothic influence new traditions are evolving among the Suebi. This is highly noticeable in the county of [Root.GetName], which is now Portuguese in culture.;;;;;;;;;;;Ïîä âëèÿíèåì âèçèãîòîâ è ìåæäóíàðîäíîé òîðãîâëè ñâåâû àêòèâíî ðàçâèâàþò ñâîè êóëüòóðíûå ñâÿçè. Â ðåçóëüòàòå æèòåëè [Root.County.GetAdjective]ñêèõ çåìåëü òåïåðü ñ÷èòàþò ñåáÿ ïîðòóãàëüöàìè.;;x
+EVTDESC_CM_10;The dynamic society in Muslim Spain is giving rise to a new cultural identity. Thus the people in the county of [Root.GetName] are now calling themselves Andalusian.;;;;;;;;;;;Äèíàìè÷íîå îáùåñòâî ìóñóëüìàíñêîé Èñïàíèè ðàçâèâàåò ñâîþ ñîáñòâåííóþ êóëüòóðó, è òåïåðü [Root.County.GetAdjective]ñêèå æèòåëè ñ÷èòàþò ñåáÿ àíäàëóçöàìè.;;x
+EVTDESC_CM_11;The people in the county of [Root.GetName] have assimilated new customs from afar, blending them with old Slavic traditions. They have also taken to calling themselves 'Rus' or 'Russians'.;;;;;;;;;;;"[Root.County.GetAdjective]ñêèå æèòåëè ïåðåíÿëè íîâûå îáû÷àè èíîçåìöåâ, êîòîðûå îðãàíè÷íî âïëåëèñü â ñëàâÿíñêèå òðàäèöèè. Îíè ñòàëè íàçûâàòü ñåáÿ ""Ðóñü"" èëè ""ðóññêèìè ëþäüìè"".";;x
+EVTOPTA_CM_1;They are Scottish now!;;;;;;;;;;;Òåïåðü îíè øîòëàíäöû.;;x
+EVTOPTA_CM_2;New times, new customs.;;;;;;;;;;;Íîâûå âðåìåíà, íîâûå ïîðÿäêè.;;x
+EVTOPTA_CM_3;Dutch people? Interesting.;;;;;;;;;;;Ãîëëàíäöû? Èíòåðåñíî.;;x
+EVTOPTA_CM_4;They are Germans now.;;;;;;;;;;;Òåïåðü îíè íåìöû.;;x
+EVTOPTA_CM_5;Such are the times.;;;;;;;;;;;Òàêîå ñåé÷àñ âðåìÿ.;;x
+EVTOPTA_CM_6;Occitans, I see...;;;;;;;;;;;Îêñèòàíöû, çíà÷èò. ×òî æ, õîðîøî...;;x
+EVTOPTA_CM_7;The times are changing.;;;;;;;;;;;Âðåìåíà ìåíÿþòñÿ.;;x
+EVTOPTA_CM_8;The times are changing.;;;;;;;;;;;Âðåìåíà ìåíÿþòñÿ.;;x
+EVTOPTA_CM_9;The times are changing.;;;;;;;;;;;Âðåìåíà ìåíÿþòñÿ.;;x
+EVTOPTA_CM_10;Something distinct and truly Spanish.;;;;;;;;;;;×òî-òî äåéñòâèòåëüíî èñïàíñêîå.;;x
+EVTOPTA_CM_11;New, but still recognizable.;;;;;;;;;;;Íîâûå, íî âñ¸ òå æå.;;x

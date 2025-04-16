@@ -1,99 +1,85 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC74000;I had invited a monkey trainer to the Summer fair and the performance went well until one of the monkeys refused to ride on top of a pig. The trainer beat the monkey with a stick which led the other monkeys to attack the trainer, biting him and hitting him with his own stick.;;;;;;;;;;;;;x
-EVTDESC74005;The Summer Fair's Archery contest went very well. The clout and the space around it was filled with arrows, some of them had hit the bullseye, some of them had missed the clout altogether. The winner was a modest man who disappeared rather quickly after he collected his prize.;;;;;;;;;;;;;x
-EVTDESC74010;The jester who performed during the Summer Fair ran around in his silly hat with bells, and before I knew it he hit me with his bauble! Everyone laughed at this and at his 'jokes', or rather his insults.;;;;;;;;;;;;;x
-EVTDESC74015;Mummers are singing outside the town houses while slowly moving towards my castle. The Summer Fair suddenly felt less pleasant as the mummers,  clad in strange clothes, went from door to door, singing and frightening small children.;;;;;;;;;;;;;x
-EVTDESC74020;When the alderman asked for permission for a Summer Fair I could never have guessed I would regret that. After a Piepowder Court held in front of my own bailiff, they sentenced one of my vassals to being drawn in a tumbler across the town square!;;;;;;;;;;;;;x
-EVTDESC74025;The strolling players had set up their scene and were rehearsing their lines for tonight's performance at the Summer Fair when I approached them.;;;;;;;;;;;;;x
-EVTDESC74030;Even if the church frowns upon jugglers and calls them 'gleemen', I enjoy their humorous and bawdy acts during the Summer Fair.;;;;;;;;;;;;;x
-EVTDESC74035;It was a mistake inviting The Jumping Jews of Jerusalem to the Summer Fair. They are jumping at different rhythms despite the rhythmic twang of a harp. They tirelessly keep jumping, jumping, jumping... until one of them loses his balance and falls towards his brothers, causing all of them to fall to the floor.;;;;;;;;;;;;;x
-EVTDESC74040;Every Summer Fair, mages and diviners flock to read signs, events and omens. Their interpretation of such things are often exaggerated but there are still people who believe in their rituals and interpretations.;;;;;;;;;;;;;x
-EVTDESC74041;[From.GetTitledFirstName] does not care about the pagan mages and diviners that flock at Summer Fairs to lure honest people from their hard-earned pennies and make them believe their ridiculous interpretations of everyday life!;;;;;;;;;;;;;x
-EVTDESC74042;An errant monk is disturbing the Summer Fair by preaching about sins and the end of the world. His drivel is frightening some, but most of the crowd around him is mocking and laughing at him.;;;;;;;;;;;;;x
-# EVTDESC74043;The errant monk preaching about the end of the world and sins is attracting quite a crowd. Most of them are laughing at and mocking him, but some look terrified and some are listening intently. [From.GetTitledFirstName] does not seem to appreciate the seriousness of this!;;;;;;;;;;;;;x
-EVTDESC74044;Marshal [Root.job_marshal.GetTitledFirstName] caught the peddlers selling stolen goods red-handed!;;;;;;;;;;;;;x
-EVTDESC74045;The local nobles of [Root.Location.GetName] complain about too many peasants entering the city during the Summer Fair.;;;;;;;;;;;;;x
-EVTDESC74046;During the Summer Fair, the peasants are pouring in through the gates of [Root.Location.GetName] and [From.GetTitledFirstName] does not care at all!;;;;;;;;;;;;;x
-EVTDESC74047;The peddlers are loading their wares and the merchants are taking down their stalls. The jugglers, strolling players and the other entertainers are preparing to leave. The Summer Fair is over for this year.;;;;;;;;;;;;;x
-EVTDESC74050;I have given the order that a summer fair should be held in [Root.Capital.GetName] this summer!;;;;;;;;;;;;;x
-
-EVTOPTA74000;Shouldn't someone do something?;;;;;;;;;;;;;x
-EVTOPTA74005;That is suspicious;;;;;;;;;;;;;x
-EVTOPTA74010;It was rather funny;;;;;;;;;;;;;x
-EVTOPTA74015;If they think they will get in, they are wrong;;;;;;;;;;;;;x
-EVTOPTA74020;I can't believe their imprudence!;;;;;;;;;;;;;x
-EVTOPTA74025;I'd prefer if you performed 'The Crusader Kings';;;;;;;;;;;;;x
-EVTOPTA74030;One of them can juggle nine apples at the same time!;;;;;;;;;;;;;x
-EVTOPTA74035;I want my money back!;;;;;;;;;;;;;x
-EVTOPTA74040;Allow them to stay;;;;;;;;;;;;;x
-EVTOPTA74041;Why do you allow them to deceive people?;;;;;;;;;;;;;x
-EVTOPTA74042;He's just another part of the entertainment;;;;;;;;;;;;;x
-# EVTOPTA74043;Kick him out! He's clearly disturbing the peasants;;;;;;;;;;;;;x
-EVTOPTA74044;Execute them publicly!;;;;;;;;;;;;;x
-EVTOPTA74045;Tell them to accept the peasants;;;;;;;;;;;;;x
-EVTOPTA74046;My beautiful city! How can you let this happen?;;;;;;;;;;;;;x
-EVTOPTA74047;It was great fun while it lasted;;;;;;;;;;;;;x
-EVTOPTA74050;This should make the peasants happy...;;;;;;;;;;;;;x
-
-EVTOPTB74000;Serves him right!;;;;;;;;;;;;;x
-EVTOPTB74005;So he was a good archer, a good poacher as well I think...;;;;;;;;;;;;;x
-EVTOPTB74010;Well, obviously he couldn't get a better job;;;;;;;;;;;;;x
-EVTOPTB74015;Yes, this is exactly what I don't need!;;;;;;;;;;;;;x
-EVTOPTB74020;This is what happens when the *beep* get power!;;;;;;;;;;;;;x
-EVTOPTB74025;Theatre is a reflection of the world;;;;;;;;;;;;;x
-EVTOPTB74030;The church does not like fun things;;;;;;;;;;;;;x
-EVTOPTB74035;Off with their heads!;;;;;;;;;;;;;x
-EVTOPTB74040;Banish them from the Summer Fair;;;;;;;;;;;;;x
-EVTOPTB74042;Kick him out, he does not belong at the Summer Fair;;;;;;;;;;;;;x
-EVTOPTB74044;Seize his goods and lock him up!;;;;;;;;;;;;;x
-EVTOPTB74045;Restrict the peasants access to the city;;;;;;;;;;;;;x
-
-EVTOPTC74000;Save that poor man!;;;;;;;;;;;;;x
-EVTOPTC74005;Marshal, find and arrest that man!;;;;;;;;;;;;;x
-EVTOPTC74010;What a fool!;;;;;;;;;;;;;x
-EVTOPTC74015;My vassal told me to not let them in, so I won't;;;;;;;;;;;;;x
-EVTOPTC74020;They will regret this!;;;;;;;;;;;;;x
-EVTOPTC74025;Leave as soon as you are done;;;;;;;;;;;;;x
-# EVTOPTC74030;If the priest says anything...;;;;;;;;;;;;;x
-EVTOPTC74035;The end was fun;;;;;;;;;;;;;x
-
-EVTOPTD74000;He shouldn't have beaten that poor creature;;;;;;;;;;;;;x
-EVTOPTD74005;Good archer, that man;;;;;;;;;;;;;x
-EVTOPTD74010;If he jokes about me, then he has gone too far!;;;;;;;;;;;;;x
-EVTOPTD74015;Come on in! Welcome!;;;;;;;;;;;;;x
-EVTOPTD74020;Once more! Please!;;;;;;;;;;;;;x
-EVTOPTD74025;[Root.Spouse.GetTitledFirstName] wants you to join us for supper;;;;;;;;;;;;;x
-EVTOPTD74030;If the church doesn't like it, should I really like it?;;;;;;;;;;;;;x
-
-EVTOPTE74000;Here's your money, I don't ever want to see you here again;;;;;;;;;;;;;x
-EVTOPTE74005;I wanted to talk to him!;;;;;;;;;;;;;x
-EVTOPTE74010;Throw him into the prison!;;;;;;;;;;;;;x
-EVTOPTE74015;I can't wait! I love mummers!;;;;;;;;;;;;;x
-EVTOPTE74020;They did exactly what they should have done;;;;;;;;;;;;;x
-
-EVTOPTG74010;If I pay him more, perhaps he will not joke about me;;;;;;;;;;;;;x
-
-EVTDESC4105;The Summer Fair brings all kinds of entertainers to [Root.Location.GetName] and a puppet show got my attention when I heard the giggles, laughter and wolf-whistles from its audience. After watching the show for a while, I realized that one of the characters was supposed to be me!;;;;;;;;;;;;;x
-EVTDESC4170;Its ragged fur and sorrowful eyes made the bear look pitiful, but when its trainer started playing his flute the bear started dancing. The dancing bear and his trainer travelled from fair to fair and this year they came to the Summer Fair in [Root.Location.GetName].;;;;;;;;;;;;;x
-
-EVTOPTA4105;It's not very lifelike;;;;;;;;;;;;;x
-EVTOPTA4170;I wonder how he does that;;;;;;;;;;;;;x
-
-EVTOPTB4105;Mockery, what else?;;;;;;;;;;;;;x
-EVTOPTB4170;How clumsy he dances!;;;;;;;;;;;;;x
-
-EVTOPTC4105;That is so funny!;;;;;;;;;;;;;x
-EVTOPTC4170;Keep him on a short leash, if he does anything...;;;;;;;;;;;;;x
-
-EVTOPTD4105;Let me try it!;;;;;;;;;;;;;x
-EVTOPTD4170;Training a bear can't be too hard;;;;;;;;;;;;;x
-
-EVTOPTE4170;He really loves to dance!;;;;;;;;;;;;;x
-
+EVTDESC74000;I had invited a monkey trainer to the Summer fair and the performance went well until one of the monkeys refused to ride on top of a pig. The trainer beat the monkey with a stick which led the other monkeys to attack the trainer, biting him and hitting him with his own stick.;;;;;;;;;;;ß ïðèãëàñèë[Root.GetEndA] äðåññèðîâùèêà îáåçüÿí íà Ëåòíþþ ÿðìàðêó, è ïðåäñòàâëåíèå øëî íåïëîõî, ïîêà îäíà èç îáåçüÿí íå îòêàçàëàñü ïðîåõàòüñÿ âåðõîì íà ñâèíüå. Äðåññèðîâùèê èçáèë îáåçüÿíó ïàëêîé, îäíàêî ýòî ñïðîâîöèðîâàëî äðóãèõ îáåçüÿí íàïàñòü íà ýòîãî èäèîòà. Îáåçüÿíû ïîêóñàëè åãî è èçáèëè åãî æå ñîáñòâåííîé ïàëêîé.;;x
+EVTDESC74005;The Summer Fair's Archery contest went very well. The clout and the space around it was filled with arrows, some of them had hit the bullseye, some of them had missed the clout altogether. The winner was a modest man who disappeared rather quickly after he collected his prize.;;;;;;;;;;;Ñîñòÿçàíèå ëó÷íèêîâ íà Ëåòíåé ÿðìàðêå ïðîøëî î÷åíü õîðîøî. Ïðîñòðàíñòâî âîêðóã ìèøåíåé áûëî çàïîëíåíî ñòðåëêàìè. Íåêîòîðûå èç íèõ ïîðàæàëè ìèøåíü â ÿáëî÷êî, äðóãèå ìàçàëè. Ïîáåäèòåëü æå îêàçàëñÿ òàêèì ñêðîìíûì ÷åëîâåêîì, ÷òî ñðàçó ïîñëå ïîëó÷åíèÿ ïðèçà ðàñòâîðèëñÿ â òîëïå è èñ÷åç.;;x
+EVTDESC74010;The jester who performed during the Summer Fair ran around in his silly hat with bells, and before I knew it he hit me with his bauble! Everyone laughed at this and at his 'jokes', or rather his insults.;;;;;;;;;;;"Øóò, êîòîðûé âûñòóïàë íà ëåòíåé ÿðìàðêå, áåãàë âîêðóã â ñâîåé ãëóïîé øëÿïå ñ êîëîêîëü÷èêàìè, è, ïðåæäå ÷åì ÿ ïîíÿë[Root.GetEndA] åãî çàìûñåë, îí óäàðèë ìåíÿ ñâîåé ïîãðåìóøêîé! Âñå ñìåÿëèñü íàä ýòèì è íàä åãî îñòàëüíûìè ""øóòêàìè"", òî åñòü, áóäåì îòêðîâåííû - îñêîðáëåíèÿìè.";;x
+EVTDESC74015;Mummers are singing outside the town houses while slowly moving towards my castle. The Summer Fair suddenly felt less pleasant as the mummers,  clad in strange clothes, went from door to door, singing and frightening small children.;;;;;;;;;;;Ëåòíÿÿ ÿðìàðêà âíåçàïíî ñòàíîâèòñÿ âñ¸ ìåíåå ïðèÿòíîé. Ëèöåäåè, îäåòûå â ñòðàííûå îäåæäû, èäóò îò äâåðè ê äâåðè, íàïåâàÿ è ïóãàÿ ìàëåíüêèõ äåòåé.;;x
+EVTDESC74020;When the alderman asked for permission for a Summer Fair I could never have guessed I would regret that. After a Piepowder Court held in front of my own bailiff, they sentenced one of my vassals to being drawn in a tumbler across the town square!;;;;;;;;;;;Êîãäà ñòàðåéøèíà ïîïðîñèë ðàçðåøåíèå ïðîâåñòè Ëåòíþþ ßðìàðêó, ÿ äàæå íå ïðåäïîëàãàë[Root.GetEndA], ÷òî áóäó ñîæàëåòü îá ýòîì. Ïîñëå òîãî êàê ßðìàðî÷íûé ñóä ïîääåðæàë ïîìîùíèêà ìîåãî ñîáñòâåííîãî øåðèôà, ñóäüè ïðèãîâîðèëè îäíîãî èç ìîèõ âàññàëîâ è íàçíà÷èëè åìó íàêàçàíèå íà ãîðîäñêîé ïëîùàäè!;;x
+EVTDESC74025;The strolling players had set up their scene and were rehearsing their lines for tonight's performance at the Summer Fair when I approached them.;;;;;;;;;;;Ñòðàíñòâóþùèå àêò¸ðû óñòàíîâèëè ñâîþ ñöåíó è ðåïåòèðîâàëè ðîëè äëÿ âå÷åðíåãî ïðåäñòàâëåíèÿ íà ëåòíåé ÿðìàðêå, êîãäà ÿ ïðèáëèçè[Root.GetLasLsya] ê íèì..;;x
+EVTDESC74030;Even if the church frowns upon jugglers and calls them 'gleemen', I enjoy their humorous and bawdy acts during the Summer Fair.;;;;;;;;;;;"Õîòü öåðêîâü è îñóæäàåò æîíãë¸ðîâ è íàçûâàåò èõ ""ôèãëÿðàìè"", ÿ íàñëàæäàþñü èõ ñìåøíûìè è íåïðèñòîéíûìè äåéñòâèÿìè íà Ëåòíåé ÿðìàðêå.";;x
+EVTDESC74035;It was a mistake inviting The Jumping Jews of Jerusalem to the Summer Fair. They are jumping at different rhythms despite the rhythmic twang of a harp. They tirelessly keep jumping, jumping, jumping... until one of them loses his balance and falls towards his brothers, causing all of them to fall to the floor.;;;;;;;;;;;Âîçìîæíî, áûëî îøèáêîé ïðèãëàñèòü ïðûãàþùèõ åâðååâ èç Èåðóñàëèìà íà Ëåòíþþ ÿðìàðêó. Îíè âûïîëíÿþò ïðûæêè â ðàçíîì òåìïå, íåñìîòðÿ íà ðèòìè÷íûé ïðîòÿæíûé çâóê àðôû. Îíè íèêîãäà, êàæåòñÿ, íå óòîìëÿþòñÿ è ïðîäîëæàþò ïðûãàòü, ïðûãàòü, ïðûãàòü... ïîêà îäèí èç íèõ íå ïðîïóñêàåò ðèòì ñëèøêîì î÷åâèäíî è ïàäàåò íà îäíîãî èç ñâîèõ áðàòüåâ, ÷òî ïðèâîäèò ê îáùåìó èõ ïàäåíèþ. Ðóêè, íîãè, îïÿòü íîãè... À ýòà íîãà ÷üÿ?;;x
+EVTDESC74040;Every Summer Fair, mages and diviners flock to read signs, events and omens. Their interpretation of such things are often exaggerated but there are still people who believe in their rituals and interpretations.;;;;;;;;;;;Íà êàæäîé ëåòíåé ÿðìàðêå âîëøåáíèêè è ïðåäñêàçàòåëè ñîáèðàþòñÿ, ÷òîáû òîëêîâàòü òàéíûå çíàêè, ñîáûòèÿ è ðàçáèðàòüñÿ â ïðåäçíàìåíîâàíèÿõ. Èõ èíòåðïðåòàöèÿ ïðîñòûõ âåùåé ÷àñòî ïðåóâåëè÷åíà, íî åñòü âñå åù¸ ëþäè, êîòîðûå âåðÿò â èõ ðèòóàëû è ïðåäñêàçàíèÿ.;;x
+EVTDESC74041;[From.GetTitledFirstName] does not care about the pagan mages and diviners that flock at Summer Fairs to lure honest people from their hard-earned pennies and make them believe their ridiculous interpretations of everyday life!;;;;;;;;;;;[From.GetTitledFirstName] íå âîëíóåòñÿ îò òîãî, ÷òî íà ëåòíèõ ÿðìàðêàõ ñîáèðàþòñÿ ðàçíîîáðàçíûå ÿçû÷åñêèå âîëøåáíèêè è ïðåäñêàçàòåëè, ñòðåìÿùèåñÿ îáìàíóòü ÷åñòíûõ ëþäåé, âûìàíèòü ñ òðóäîì çàðàáîòàííûå èìè äåíüãè è çàñòàâèòü èõ âåðèòü â ñâîè óáîãèå ïðåäñêàçàíèÿ!;;x
+EVTDESC74042;An errant monk is disturbing the Summer Fair by preaching about sins and the end of the world. His drivel is frightening some, but most of the crowd around him is mocking and laughing at him.;;;;;;;;;;;Ñòðàíñòâóþùèé ìîíàõ áóäîðàæèò íàðîä íà ëåòíåé ÿðìàðêå, ïðîïîâåäóÿ ñêîðûé êîíåö ñâåòà çà ãðåõè ÷åëîâå÷åñêèå. Åãî áåññìûñëèöà ïóãàåò íåêîòîðûõ, íî áîëüøàÿ ÷àñòü òîëïû äðàçíèò åãî è îò äóøè ïîòåøàåòñÿ.;;x
+# EVTDESC74043;The errant monk preaching about the end of the world and sins is attracting quite a crowd. Most of them are laughing at and mocking him, but some look terrified and some are listening intently. [From.GetTitledFirstName] does not seem to appreciate the seriousness of this!;;;;;;;;;;;Ñòðàíñòâóþùèé ìîíàõ áóäîðàæèò íàðîä íà ëåòíåé ÿðìàðêå, ïðîïîâåäóÿ ñêîðûé êîíåö ñâåòà çà ãðåõè ÷åëîâå÷åñêèå. Áîëüøàÿ ÷àñòü òîëïû äðàçíèò åãî è îò äóøè ïîòåøàåòñÿ, íî íåêîòîðûõ ïóãàþò åãî ïðîðî÷åñòâà. Êàæåòñÿ, [From.GetTitledFirstName], íå ïîíèìàåò ñåðü¸çíîñòè ïðîèñõîäÿùåãî!;;x
+EVTDESC74044;Marshal [Root.job_marshal.GetTitledFirstName] caught the peddlers selling stolen goods red-handed!;;;;;;;;;;;[Root.GetMarshalName] [Root.job_marshal.GetFirstName] ïîéìàë íà ìåñòå ïðåñòóïëåíèÿ êîðîáåéíèêîâ, ïðîäàþùèõ êðàäåíûå òîâàðû!;;x
+EVTDESC74045;The local nobles of [Root.Location.GetName] complain about too many peasants entering the city during the Summer Fair.;;;;;;;;;;;[Root.Location.County.GetAdjective]ñêàÿ çíàòü æàëóåòñÿ íà ñëèøêîì áîëüøîå êîëè÷åñòâî êðåñòüÿí, âõîäÿùèõ â ãîðîä âî âðåìÿ ëåòíåé ÿðìàðêè.;;x
+EVTDESC74046;During the Summer Fair, the peasants are pouring in through the gates of [Root.Location.GetName] and [From.GetTitledFirstName] does not care at all!;;;;;;;;;;;Âî âðåìÿ Ëåòíåé ÿðìàðêè òîëïû êðåñòüÿí âëèâàþòñÿ â âîðîòà ãîðîäà [Root.Location.GetName], à [From.GetTitledFirstName] ñîâñåì íå âîëíóåòñÿ èç-çà ýòîãî!;;x
+EVTDESC74047;The peddlers are loading their wares and the merchants are taking down their stalls. The jugglers, strolling players and the other entertainers are preparing to leave. The Summer Fair is over for this year.;;;;;;;;;;;Êîðîáåéíèêè ïàêóþò ñâîè òîâàðû, òîðãîâöû ñíèìàþò ñâîè ïàëàòêè. Æîíãë¸ðû, ñòðàíñòâóþùèå àêò¸ðû è äðóãèå ó÷àñòíèêè ïðàçäíèêà ãîòîâÿòñÿ ê îòúåçäó. Ëåòíÿÿ ÿðìàðêà ýòîãî ãîäà ïîäîøëà ê êîíöó.;;x
+EVTDESC74050;I have given the order that a summer fair should be held in [Root.Capital.GetName] this summer!;;;;;;;;;;;ß èçäàþ óêàç î ïðîâåäåíèè Ëåòíåé ÿðìàðêè â ãîðîäå [Root.Capital.GetName].;;x
+EVTOPTA74000;Shouldn't someone do something?;;;;;;;;;;;Ðàçâå íèêòî íå äîëæåí ñäåëàòü ÷òî-íèáóäü?;;x
+EVTOPTA74005;That is suspicious;;;;;;;;;;;Ýòî ïîäîçðèòåëüíî.;;x
+EVTOPTA74010;It was rather funny;;;;;;;;;;;Ýòî áûëî äîâîëüíî çàáàâíî.;;x
+EVTOPTA74015;If they think they will get in, they are wrong;;;;;;;;;;;Îíè îøèáàþòñÿ, åñëè äóìàþò, ÷òî âîéäóò.;;x
+EVTOPTA74020;I can't believe their imprudence!;;;;;;;;;;;ß íå ìîãó ïîâåðèòü â èõ íåáëàãîðàçóìèå!;;x
+EVTOPTA74025;I'd prefer if you performed 'The Crusader Kings';;;;;;;;;;;"Ëó÷øå áû îíè ñûãðàëè ""Êîðîëåé-Êðåñòîíîñöåâ"".";;x
+EVTOPTA74030;One of them can juggle nine apples at the same time!;;;;;;;;;;;Îäèí èç íèõ ìîæåò æîíãëèðîâàòü äåâÿòüþ ÿáëîêàìè îäíîâðåìåííî!;;x
+EVTOPTA74035;I want my money back!;;;;;;;;;;;ß òðåáóþ âîçâðàòà ìîèõ äåíåã!;;x
+EVTOPTA74040;Allow them to stay;;;;;;;;;;;Ïîçâîëèòü èì îñòàòüñÿ.;;x
+EVTOPTA74041;Why do you allow them to deceive people?;;;;;;;;;;;Ïî÷åìó Âû ïîçâîëÿåòå èì îáìàíûâàòü ëþäåé?;;x
+EVTOPTA74042;He's just another part of the entertainment;;;;;;;;;;;Îí - òîëüêî ÷àñòü ðàçâëåêàòåëüíîé ïðîãðàììû.;;x
+# EVTOPTA74043;Kick him out! He's clearly disturbing the peasants;;;;;;;;;;;Âûãîíèòå åãî! Îí îïðåäåë¸ííî òðåâîæèò êðåñòüÿí.;;x
+EVTOPTA74044;Execute them publicly!;;;;;;;;;;;Íàêàæèòå èõ ïðèëþäíî!;;x
+EVTOPTA74045;Tell them to accept the peasants;;;;;;;;;;;Ñêàæèòå èì, ÷òîáû ïðèíèìàëè êðåñòüÿí.;;x
+EVTOPTA74046;My beautiful city! How can you let this happen?;;;;;;;;;;;Ìîé ïðåêðàñíûé ãîðîä! Êàê Âû ìîæåòå ïîçâîëÿòü ïðîèñõîäèòü ïîäîáíîìó?;;x
+EVTOPTA74047;It was great fun while it lasted;;;;;;;;;;;Áûëî î÷åíü âåñåëî.;;x
+EVTOPTA74050;This should make the peasants happy...;;;;;;;;;;;Ýòî äîëæíî ñäåëàòü êðåñòüÿí ñ÷àñòëèâûìè...;;x
+EVTOPTB74000;Serves him right!;;;;;;;;;;;Ïîäåëîì åìó!;;x
+EVTOPTB74005;So he was a good archer, a good poacher as well I think...;;;;;;;;;;;Èç ýòîãî ëó÷íèêà ïîëó÷èëñÿ áû íåïëîõîé áðàêîíüåð, êàê ìíå êàæåòñÿ;;x
+EVTOPTB74010;Well, obviously he couldn't get a better job;;;;;;;;;;;Íó, î÷åâèäíî îí íå ìîã ïîëó÷èòü ëó÷øóþ ðàáîòó.;;x
+EVTOPTB74015;Yes, this is exactly what I don't need!;;;;;;;;;;;Äà óæ, íàøëîñü òî, â ÷åì ÿ îäíîçíà÷íî íå íóæäàþñü!;;x
+EVTOPTB74020;This is what happens when the *beep* get power!;;;;;;;;;;;Âîò ÷òî ïðîèñõîäèò, êîãäà ìóäàêè ïîëó÷àþò âëàñòü!;;x
+EVTOPTB74025;Theatre is a reflection of the world;;;;;;;;;;;Òåàòð - çåðêàëî ìèðà.;;x
+EVTOPTB74030;The church does not like fun things;;;;;;;;;;;Öåðêâè íå íðàâÿòñÿ ïîäîáíûå çàáàâû.;;x
+EVTOPTB74035;Off with their heads!;;;;;;;;;;;Äîëîé èõ ãîëîâû!;;x
+EVTOPTB74040;Banish them from the Summer Fair;;;;;;;;;;;Âûñëàòü èõ ñ Ëåòíåé ÿðìàðêè.;;x
+EVTOPTB74042;Kick him out, he does not belong at the Summer Fair;;;;;;;;;;;Âûãîíèòå åãî, åìó íå ìåñòî íà Ëåòíåé ÿðìàðêå.;;x
+EVTOPTB74044;Seize his goods and lock him up!;;;;;;;;;;;Îòáåðèòå êðàäåíîå è ïîä çàìîê!;;x
+EVTOPTB74045;Restrict the peasants access to the city;;;;;;;;;;;Îãðàíè÷èòü âõîä êðåñòüÿí â ãîðîä.;;x
+EVTOPTC74000;Save that poor man!;;;;;;;;;;;Ñïàñòè ýòîãî áåäíÿãó!;;x
+EVTOPTC74005;Marshal, find and arrest that man!;;;;;;;;;;;[Root.GetMarshalName], íàéäèòå è çàäåðæèòå ýòîãî ÷åëîâåêà!;;x
+EVTOPTC74010;What a fool!;;;;;;;;;;;Êàêîé äóðàê!;;x
+EVTOPTC74015;My vassal told me to not let them in, so I won't;;;;;;;;;;;Ìîé âàññàë ïîñîâåòîâàë ìíå íå âïóñêàòü èõ, ÿ è íå áóäó.;;x
+EVTOPTC74020;They will regret this!;;;;;;;;;;;Îíè ïîæàëåþò îá ýòîì!;;x
+EVTOPTC74025;Leave as soon as you are done;;;;;;;;;;;Óåçæàéòå, êàê òîëüêî çàêîí÷èòå.;;x
+# EVTOPTC74030;If the priest says anything...;;;;;;;;;;;Åñëè ñâÿùåííèê ñêàæåò ÷òî-íèáóäü...;;x
+EVTOPTC74035;The end was fun;;;;;;;;;;;À âîò â êîíöå áûëî çàáàâíî.;;x
+EVTOPTD74000;He shouldn't have beaten that poor creature;;;;;;;;;;;Îí íå äîëæåí áûë áèòü íåñ÷àñòíóþ ìàðòûøêó.;;x
+EVTOPTD74005;Good archer, that man;;;;;;;;;;;Îòëè÷íûé ëó÷íèê ýòîò ìóæèê.;;x
+EVTOPTD74010;If he jokes about me, then he has gone too far!;;;;;;;;;;;Åñëè îí øóòèò îáî ìíå, òî îí çàø¸ë ñëèøêîì äàëåêî!;;x
+EVTOPTD74015;Come on in! Welcome!;;;;;;;;;;;Çàõîäèòå! Äîáðî ïîæàëîâàòü!;;x
+EVTOPTD74020;Once more! Please!;;;;;;;;;;;Åù¸ ðàç! Ïðîøó Âàñ!;;x
+EVTOPTD74025;[Root.Spouse.GetTitledFirstName] wants you to join us for supper;;;;;;;;;;;[Root.Spouse.GetTitledFirstName] õî÷åò, ÷òîáû Âû ïðèñîåäèíèëèñü ê íàì çà óæèíîì.;;x
+EVTOPTD74030;If the church doesn't like it, should I really like it?;;;;;;;;;;;Åñëè öåðêâè íå íðàâèòñÿ ýòî, ìîæåò ëè ìíå íðàâèòüñÿ ýòî?;;x
+EVTOPTE74000;Here's your money, I don't ever want to see you here again;;;;;;;;;;;Âîò Âàøè äåíüãè, ÿ íàäåþñü, ÷òî áîëüøå íèêîãäà Âàñ íå óâèæó.;;x
+EVTOPTE74005;I wanted to talk to him!;;;;;;;;;;;ß õîòåë ïîãîâîðèòü ñ íèì!;;x
+EVTOPTE74010;Throw him into the prison!;;;;;;;;;;;Áðîñüòå äóðàêà â òþðüìó!;;x
+EVTOPTE74015;I can't wait! I love mummers!;;;;;;;;;;;ß íå ìîãó áîëüøå æäàòü! Îáîæàþ ëèöåäååâ!;;x
+EVTOPTE74020;They did exactly what they should have done;;;;;;;;;;;Îíè ñäåëàëè òî÷íî òî, ÷òî äîëæíû áûëè ñäåëàòü.;;x
+EVTOPTG74010;If I pay him more, perhaps he will not joke about me;;;;;;;;;;;Åñëè ÿ çàïëà÷ó åìó ïîáîëüøå, òî, âîçìîæíî, îí íå áóäåò øóòèòü îáî ìíå...;;x
+EVTDESC4105;The Summer Fair brings all kinds of entertainers to [Root.Location.GetName] and a puppet show got my attention when I heard the giggles, laughter and wolf-whistles from its audience. After watching the show for a while, I realized that one of the characters was supposed to be me!;;;;;;;;;;;Ëåòíÿÿ ÿðìàðêà îáúåäèíÿåò âñå âèäû [Root.Location.County.GetAdjective]ñêèõ ðàçâëå÷åíèé. Óñëûøàâ ñìåõ, âîçãëàñû è ñâèñò, è, ïîéäÿ ê èñòî÷íèêó çâóêîâ, ÿ çàìå÷àþ êóêîëüíûé òåàòð. Íåêîòîðîå âðåìÿ ïîñìîòðåâ ñïåêòàêëü, ñòàíîâèòñÿ î÷åâèäíî, îäèí èç åãî ïåðñîíàæåé - ÿ!;;x
+EVTDESC4170;Its ragged fur and sorrowful eyes made the bear look pitiful, but when its trainer started playing his flute the bear started dancing. The dancing bear and his trainer travelled from fair to fair and this year they came to the Summer Fair in [Root.Location.GetName].;;;;;;;;;;;Ïîòðåïàííàÿ øêóðà è ïå÷àëüíûå ãëàçà ìåäâåäÿ âûãëÿäåëè æàëêî, íî êîãäà åãî äðåññèðîâùèê ñòàë èãðàòü íà ôëåéòå, ìåäâåäü íà÷àë òàíöåâàòü. Òàíöóþùèé ìåäâåäü è åãî äðåññèðîâùèê ïóòåøåñòâîâàëè îò îäíîé ÿðìàðêè ê äðóãîé, è â ýòîì ãîäó îíè ñîâåðøèëè âèçèò â ãîðîä [Root.Location.GetName].;;x
+EVTOPTA4105;It's not very lifelike;;;;;;;;;;;È ñîâñåì íå ïîõîæå;;x
+EVTOPTA4170;I wonder how he does that;;;;;;;;;;;Èíòåðåñíî, êàê îí ýòî äåëàåò?;;x
+EVTOPTB4105;Mockery, what else?;;;;;;;;;;;Ñíà÷àëà íàñìåøêè, à ïîòîì ÷òî?;;x
+EVTOPTB4170;How clumsy he dances!;;;;;;;;;;;Êàê íåóêëþæå îí òàíöóåò!;;x
+EVTOPTC4105;That is so funny!;;;;;;;;;;;Ýòî òàê çàáàâíî!;;x
+EVTOPTC4170;Keep him on a short leash, if he does anything...;;;;;;;;;;;Äåðæèòå åãî íà êîðîòêîì ïîâîäêå...;;x
+EVTOPTD4105;Let me try it!;;;;;;;;;;;Ïîçâîëüòå ìíå ïîïðîáîâàòü!;;x
+EVTOPTD4170;Training a bear can't be too hard;;;;;;;;;;;Íàäåþñü, ñ íèì îáðàùàþòñÿ íå ñëèøêîì æåñòîêî;;x
+EVTOPTE4170;He really loves to dance!;;;;;;;;;;;Åìó íðàâèòñÿ òàíöåâàòü!;;x
 # No longer used
-# EVTOPTF74005;I can't help but feel the prize was inadequate;;;;;;;;;;;;;x
-# EVTOPTF74010;Haha! He's such a fool;;;;;;;;;;;;;x
-# EVTTOOLTIP74041;[This.GetTitledFirstName] disapproves of the diviners and mages;;;;;;;;;;;;;x
-# EVTTOOLTIP74043;The errant monk upsets [This.GetTitledFirstName];;;;;;;;;;;;;x
-# EVTTOOLTIP74046;is annoyed with [Root.GetTitledFirstName] decision about letting the peasants in;;;;;;;;;;;;;x
+# EVTOPTF74005;I can't help but feel the prize was inadequate;;;;;;;;;;;ß íå ìîã íå ïî÷óâñòâîâàòü, ÷òî ïðèç áûë íåäîñòàòî÷åí.;;x
+# EVTOPTF74010;Haha! He's such a fool;;;;;;;;;;;Õàõà! Îí òàêîé äóðàê!;;x
+# EVTTOOLTIP74041;[This.GetTitledFirstName] disapproves of the diviners and mages;;;;;;;;;;;[This.GetTitledFirstName] íåîäîáðèòåëüíî îòíîñèòñÿ ê ïðåäñêàçàòåëÿì è âîëøåáíèêàì.;;x
+# EVTTOOLTIP74043;The errant monk upsets [This.GetTitledFirstName];;;;;;;;;;;[This.GetTitledFirstName] ðàññòðàèâàåòñÿ èç-çà ñòðàíñòâóþùåãî ìîíàõà.;;x
+# EVTTOOLTIP74046;is annoyed with [Root.GetTitledFirstName] decision about letting the peasants in;;;;;;;;;;;[Root.GetTitledFirstName] ðàçäðàæ¸í ðåøåíèåì î ñâîáîäíîì âõîäå êðåñòüÿí â ãîðîä.;;x

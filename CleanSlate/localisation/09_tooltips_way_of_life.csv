@@ -1,20 +1,20 @@
-potion_unforeseen_effects;This might have unforeseen effects...;;;;;;;;;;;;;x
-cottage_person_dies;You kill the treacherous vagrant!\n;;;;;;;;;;;;;x
-trains_dog;You will spend time outside training your dog.;;;;;;;;;;;;;x
-architect_refused;You send the architect away.;;;;;;;;;;;;;x
-building_towards_heaven;Building Towards Heaven;;;;;;;;;;;;;x
-castle_construction_begins;Construction of a new castle begins.;;;;;;;;;;;;;x
-construction_ceases;Construction on the castle ceases.;;;;;;;;;;;;;x
-peasant_hanged;The peasant is hanged for his crimes.;;;;;;;;;;;;;x
-peasant_imprisoned;The peasant is thrown into the dungeons.;;;;;;;;;;;;;x
-peasant_set_free;The peasant is set free.;;;;;;;;;;;;;x
-peasant_tortured;The peasant is brought to your torture chamber.;;;;;;;;;;;;;x
-tower_start;We will begin with the necessary preparations for the construction.;;;;;;;;;;;;;x
-dishonest_duel_tooltip;This is considered dishonest and people might be upset about this act.;;;;;;;;;;;;;x
-duel_title;The Duel;;;;;;;;;;;;;x
-is_not_ascetic;Is NOT an Ascetic\n;;;;;;;;;;;;;x
-studying_strategy_tooltip;[Root.GetTitledName] studies military strategy.;;;;;;;;;;;;;x
-tower_stands;Tower stands.;;;;;;;;;;;;;x
-tower_topples;Tower topples.;;;;;;;;;;;;;x
-stop_seduce_decision_tt;Seduction ends;;;;;;;;;;;;;x
-stop_spy_on_decision_tt;Spying ends;;;;;;;;;;;;;x
+potion_unforeseen_effects;This might have unforeseen effects...;;;;;;;;;;;Ýòî ìîæåò èìåòü íåïðåäñêàçóåìûå ïîñëåäñòâèÿ...;;x
+cottage_person_dies;You kill the treacherous vagrant!\n;;;;;;;;;;;Âû óáèëè êîâàðíîãî áðîäÿãó!\n;;x
+trains_dog;You will spend time outside training your dog.;;;;;;;;;;;Âû ïðîâåä¸òå íåêîòîðîå âðåìÿ ñíàðóæè, òðåíèðóÿ Âàøåãî ïñà.;;x
+architect_refused;You send the architect away.;;;;;;;;;;;Âû îòñûëàåòå àðõèòåêòîðà ïðî÷ü.;;x
+building_towards_heaven;Building Towards Heaven;;;;;;;;;;;Âûñîòîþ äî Íåáåñ;;x
+castle_construction_begins;Construction of a new castle begins.;;;;;;;;;;;Ñòðîèòåëüñòâî íîâîãî çàìêà íà÷àòî.;;x
+construction_ceases;Construction on the castle ceases.;;;;;;;;;;;Ñòðîèòåëüñòâî çàìêà ïðèîñòàíîâëåíî.;;x
+peasant_hanged;The peasant is hanged for his crimes.;;;;;;;;;;;Êðåñòüÿíèí ïîâåøåí çà ñâîè ïðåñòóïëåíèÿ.;;x
+peasant_imprisoned;The peasant is thrown into the dungeons.;;;;;;;;;;;Êðåñòüÿíèí áðîøåí â ïîäçåìåëüå.;;x
+peasant_set_free;The peasant is set free.;;;;;;;;;;;Êðåñòüÿíèí îñâîáîæä¸í.;;x
+peasant_tortured;The peasant is brought to your torture chamber.;;;;;;;;;;;Êðåñòüÿíèí ïðèâåä¸í â ïûòî÷íóþ.;;x
+tower_start;We will begin with the necessary preparations for the construction.;;;;;;;;;;;Ìû íà÷í¸ì íåîáõîäèìûå ïðèãîòîâëåíèÿ ê ñòðîèòåëüñòâó.;;x
+dishonest_duel_tooltip;This is considered dishonest and people might be upset about this act.;;;;;;;;;;;Ýòî ñ÷èòàåòñÿ íå÷åñòíûì è ëþäè ìîãóò îñóäèòü ïîäîáíûå äåéñòâèÿ.;;x
+duel_title;The Duel;;;;;;;;;;;Ïîåäèíîê;;x
+is_not_ascetic;Is NOT an Ascetic\n;;;;;;;;;;;ÍÅ ÿâëÿåòñÿ àñêåòîì\n;;x
+studying_strategy_tooltip;[Root.GetTitledName] studies military strategy.;;;;;;;;;;;[Root.GetTitledName] èçó÷èò âîåííóþ ñòðàòåãèþ.;;x
+tower_stands;Tower stands.;;;;;;;;;;;Áàøíÿ óñòîèò.;;x
+tower_topples;Tower topples.;;;;;;;;;;;Áàøíÿ ðóõíåò.;;x
+stop_seduce_decision_tt;Seduction ends;;;;;;;;;;;Ñîáëàçíåíèå ïðåêðàòèòñÿ;;x
+stop_spy_on_decision_tt;Spying ends;;;;;;;;;;;Øïèîíàæ áóäåò ïðåðâàí;;x

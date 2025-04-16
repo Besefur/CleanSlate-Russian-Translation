@@ -1,202 +1,202 @@
-alert_adolescent_needs_focus_delayed;The following Children need an Education Focus:\n$LIST$;;;;;;;;;;;;;x
-alert_adolescent_needs_focus_instant;§Y$NUM$ Children Lack an Education Focus§!;;;;;;;;;;;;;x
-alert_adolescent_needs_focus_name;Children lack an Edcuation Focus;;;;;;;;;;;;;x
-alert_adult_sons_notitle_delayed;The following adult sons do not hold any land:\n$LIST$;;;;;;;;;;;;;x
-alert_adult_sons_notitle_instant;§YUnlanded Sons§!;;;;;;;;;;;;;x
-alert_adult_sons_notitle_name;Unlanded sons;;;;;;;;;;;;;x
-alert_adventurer_threat_delayed;The following adventurers are targeting me:\n$LIST$;;;;;;;;;;;;;x
-alert_adventurer_threat_instant;§YAdventurer Threats§!;;;;;;;;;;;;;x
-alert_adventurer_threat_name;Adventurers Targeting me;;;;;;;;;;;;;x
-alert_allies_not_called_in_delayed;We can ask the following allies to support us:\n$LIST$;;;;;;;;;;;;;x
-alert_allies_not_called_in_instant;§YWe can Call in Allies§!;;;;;;;;;;;;;x
-alert_allies_not_called_in_name;We can call in allies;;;;;;;;;;;;;x
-alert_at_peace_prestige_loss_delayed;As a §Y$RELIGION$ Pagan§!, you lose §R$PRESTIGE$§! Prestige every month for being at peace and doing no raiding.;;;;;;;;;;;;;x
-alert_at_peace_prestige_loss_instant;§YYou have been at peace for too long!§!;;;;;;;;;;;;;x
-alert_at_peace_prestige_loss_name;Long Peace;;;;;;;;;;;;;x
-alert_available_decision_delayed;The following important Decisions are available:\n$LIST$;;;;;;;;;;;;;x
-alert_available_decision_instant;§YNew Important Decisions are Available§!;;;;;;;;;;;;;x
-alert_available_decision_name;Important Decisions;;;;;;;;;;;;;x
-alert_available_minor_title_delayed;The following Special Minor Titles can be granted:\n$LIST$;;;;;;;;;;;;;x
-alert_available_minor_title_instant;§YSpecial Minor Titles Grantable§!;;;;;;;;;;;;;x
-alert_available_minor_title_name;Available Minor Title;;;;;;;;;;;;;x
-alert_available_plot_delayed;The following Plots have become available:\n$LIST$;;;;;;;;;;;;;x
-alert_available_plot_instant;§YNew Plots are Available§!;;;;;;;;;;;;;x
-alert_available_plot_name;New plots available;;;;;;;;;;;;;x
-alert_available_settlement_decision_delayed;The following Special Holding Actions are available:\n$LIST$;;;;;;;;;;;;;x
-alert_available_settlement_decision_instant;§YSpecial Holding Actions Possible§!;;;;;;;;;;;;;x
-alert_available_settlement_decision_name;Special Holding Actions Possible;;;;;;;;;;;;;x
-alert_available_targetted_decision_delayed;The following Special Character Actions are available:\n$LIST$;;;;;;;;;;;;;x
-alert_available_targetted_decision_instant;§YSpecial Character Actions Possible§!;;;;;;;;;;;;;x
-alert_available_targetted_decision_name;Special Character Actions Possible;;;;;;;;;;;;;x
-alert_available_title_decision_delayed;The following Special Title Actions are available:\n$LIST$;;;;;;;;;;;;;x
-alert_available_title_decision_instant;§YSpecial Title Actions Possible§!;;;;;;;;;;;;;x
-alert_available_title_decision_name;Special Title Actions Possible;;;;;;;;;;;;;x
-alert_beneficiary_needed_delayed;As a participant in the ongoing Crusade, a beneficiary should be selected so that when the inevitable victory occurs, our dynasty may share in the spoils.;;;;;;;;;;;;;x
-alert_beneficiary_needed_instant;§YCrusade Beneficiary not Selected§!;;;;;;;;;;;;;x
-alert_betrothed_should_marry_delayed;The following betrothed characters can get married:\n$LIST$;;;;;;;;;;;;;x
-alert_betrothed_should_marry_instant;§YBetrothed can Marry§!;;;;;;;;;;;;;x
-alert_betrothed_should_marry_name;Betrothed can marry;;;;;;;;;;;;;x
-alert_build_province_improvement_delayed;$LIST$;;;;;;;;;;;;;x
-alert_build_province_improvement_instant;§YYou can build county improvements!§!;;;;;;;;;;;;;x
-alert_build_province_improvement_name;Can build county improvements;;;;;;;;;;;;;x
-alert_can_call_vassals_to_arms_delayed;The following vassals can join our war against our former liege:\n$LIST$;;;;;;;;;;;;;x
-alert_can_call_vassals_to_arms_instant;§YWe can call in vassals of our former liege§!;;;;;;;;;;;;;x
-alert_can_call_vassals_to_arms_name;Can call vassals of former liege;;;;;;;;;;;;;x
-alert_can_imprison_delayed;You can imprison subjects without incurring tyranny. Note that an empowered council might still object.\n$LIST$;;;;;;;;;;;;;x
-alert_can_imprison_instant;§YRighteous Imprisonment§!;;;;;;;;;;;;;x
-alert_can_imprison_name;Righteous imprisonment;;;;;;;;;;;;;x
-alert_can_press_weak_claims_delayed;The following Weak Claims can be pressed:\n$LIST$;;;;;;;;;;;;;x
-alert_can_press_weak_claims_instant;§Y$NUM$ Weak Claim(s) can be pressed§!;;;;;;;;;;;;;x
-alert_can_press_weak_claims_name;Can press weak claim;;;;;;;;;;;;;x
-alert_can_reform_religion_delayed;The §Y$RELIGION$§! faith can be reformed into an organized religion;;;;;;;;;;;;;x
-alert_can_reform_religion_instant;§YReligion can be Reformed§!;;;;;;;;;;;;;x
-alert_can_reform_religion_name;§YReligion can be Reformed§!;;;;;;;;;;;;;x
-alert_can_tech_delayed;You have enough Technology Points in a Technology Group to invest in any of its advances;;;;;;;;;;;;;x
-alert_can_tech_instant;§YYou should Invest in a Technological Advance§!;;;;;;;;;;;;;x
-alert_can_tech_name;You can invest in technology;;;;;;;;;;;;;x
-alert_casus_belli_will_expire_delayed;$LIST$.;;;;;;;;;;;;;x
-alert_casus_belli_will_expire_instant;§YTemporary Casus belli against:§!;;;;;;;;;;;;;x
-alert_casus_belli_will_expire_name;Temporary Casus belli;;;;;;;;;;;;;x
-alert_child_needs_focus_delayed;The following Children need a Childhood Focus:\n$LIST$;;;;;;;;;;;;;x
-alert_child_needs_focus_instant;§Y$NUM$ Children Lack a Childhood Focus§!;;;;;;;;;;;;;x
-alert_child_needs_focus_name;Children lack a Childhood Focus;;;;;;;;;;;;;x
-alert_close_gates_delayed;When an epidemic is threatening your court, you can shut the gates. Characters in seclusion will have a hard time communicating with the outside world but should avoid infection from outside sources.;;;;;;;;;;;;;x
-alert_close_gates_instant;§YYou can Shut the Gates§!;;;;;;;;;;;;;x
-alert_close_gates_name;Close the Gates;;;;;;;;;;;;;x
-alert_coronation_needed_delayed;A [Root.Religion.GetName] ruler who has not been officially crowned by a notable member of the Church will never be fully accepted by [Root.GetHerHis] vassals as legitimate.\nThe more years an adult [Root.Religion.GetName] [Root.GetTitle] wastes before being anointed, the more likely [Root.GetHerHis] vassals will be to doubt the validity of [Root.GetHerHis] divine right to rule.;;;;;;;;;;;;;x
-alert_coronation_needed_instant;§YRuler Uncrowned§!;;;;;;;;;;;;;x
-alert_council_discontent_delayed;Your Council has been Discontent for $DISCONTENT_DURATION|Y$ month(s), and will be until §Y$DISCONTENT_END_DATE$§!. This means that if Councilors were prohibited by law from forming and joining factions, they may now do so. This could potentially destabilize the realm.;;;;;;;;;;;;;x
-alert_council_discontent_instant;§YCouncil is Discontent§!;;;;;;;;;;;;;x
-alert_council_discontent_name;Council Discontent;;;;;;;;;;;;;x
-alert_councillor_no_job_delayed;The following councilors are currently not on a job:\n$LIST$\n§GClick to go to Court View§!;;;;;;;;;;;;;x
-alert_councillor_no_job_instant;§YIdle Council Members§!;;;;;;;;;;;;;x
-alert_country_at_war_name;Country at war;;;;;;;;;;;;;x
-alert_court_not_filled_delayed;The following spots need to be filled:\n$LIST$\n§GClick to go to Court View§!;;;;;;;;;;;;;x
-alert_court_not_filled_instant;§YOpen Council Positions§!;;;;;;;;;;;;;x
-alert_court_not_filled_name;Open council positions;;;;;;;;;;;;;x
-alert_decadence_delayed;You have decadent relatives. You should ask them to straighten up or in other ways take care of them.;;;;;;;;;;;;;x
-alert_decadence_instant;§YDecadent Relatives§!;;;;;;;;;;;;;x
-alert_deficits_delayed;Your coffers are empty and you owe your subjects money. The morale of your armies will suffer, and the longer this goes on, the more corruption and criminals will plague your counties.;;;;;;;;;;;;;x
-alert_deficits_instant;§YBudget Deficit§!;;;;;;;;;;;;;x
-alert_deficits_name;Deficits;;;;;;;;;;;;;x
-alert_dejure_claim_delayed;The following de jure ducal claims can be pressed: $LIST$;;;;;;;;;;;;;x
-alert_dejure_claim_instant;§YYou can Press de jure Ducal Claims§!;;;;;;;;;;;;;x
-alert_dejure_claim_name;Can press de jure claim;;;;;;;;;;;;;x
-alert_demesne_too_big_delayed;Your demesne has §Y$NUM$§!/§Y$MAX$§! holdings, causing inefficient taxation, troop recruitment and resentment among your vassals.;;;;;;;;;;;;;x
-alert_demesne_too_big_instant;§YDemesne too Big§!;;;;;;;;;;;;;x
-alert_demesne_too_big_name;Demesne too big;;;;;;;;;;;;;x
-alert_enemy_invasion_planned_delayed;Enemy rulers are preparing invasions against us:\n$LIST$;;;;;;;;;;;;;x
-alert_enemy_invasion_planned_instant;§YEnemy Planning to Invade§!;;;;;;;;;;;;;x
-alert_has_favor_delayed;The following Characters owe you a Favor:\n$LIST$\n\nFavors can be used for the following:\n$ACTIONS$;;;;;;;;;;;;;x
-alert_has_favor_instant;§Y$NUM$ Characters owe you a Favor§!;;;;;;;;;;;;;x
-alert_has_favor_name;Characters owe you Favors;;;;;;;;;;;;;x
-alert_heir_should_marry_delayed;$HEIR$ should get married\n§GClick to go to Character View§!;;;;;;;;;;;;;x
-alert_heir_should_marry_instant;§YUnmarried Heir§!;;;;;;;;;;;;;x
-alert_heir_should_marry_name;Heir unmarried;;;;;;;;;;;;;x
-alert_high_infamy_delayed;Effects of §YThreat§!:\n\n- With over $COALITION_INFAMY_LIMIT|%Y0$ §YThreat§! other realms can form §YDefensive Pacts§! to protect themselves from you. Each religious group has their own separate §YDefensive Pact§! and will only defend members belonging to that same §YDefensive Pact§!.\n\n- With over $OTHER_COALITION_JOIN_INFAMY|%Y0$ §YThreat§! all §YDefensive Pacts§! of other religious groups band together if you attack one of them.\n\n- With over $EVERY_COALITION_EXCEPT_HEADS_JOIN_INFAMY|%Y0$ §YThreat§! all §YDefensive Pacts§! including that of your own religious group will band together if you attack one of them.\n\n- With over $EVERY_COALITION_JOIN_INFAMY|%Y0$ §YThreat§! you are considered threatening enough that even your own religious head and holy orders from your religious group will defend other §YDefensive Pacts§! from you.\n\n- As your §YThreat§! increases, larger and more distant realms are allowed to join the §YDefensive Pacts§! opposing you.\n\n- As your §YThreat§! decreases, larger or more distant realms are forced to leave the §YDefensive Pacts§! opposing you.\n\n--------------\n§YThreat§! will decline slowly over time but you can manually lower it by granting independence to land not part of your De Jure realm.;;;;;;;;;;;;;x
-alert_high_infamy_instant;§YYou are Threatening!§!;;;;;;;;;;;;;x
-alert_high_infamy_name;Threatening;;;;;;;;;;;;;x
-alert_incoming_crusade_delayed;A Crusade is targeting our religion. We should consider how to best defend against it.;;;;;;;;;;;;;x
-alert_incoming_crusade_instant;§YCrusade Against Our Religion§!;;;;;;;;;;;;;x
-alert_inefficent_land_management_delayed;You have too many holdings in your personal demesne. As a nomad you can only have one holding without penalties. However you might want to keep the land yourself so you can pillage it...$LIST$;;;;;;;;;;;;;x
-alert_inefficent_land_management_instant;§YInefficient Land Management§!;;;;;;;;;;;;;x
-alert_inefficent_land_management_name;Inefficient Land Management;;;;;;;;;;;;;x
-alert_liege_council_discontent_delayed;Your Liege's Council has been Discontent for $DISCONTENT_DURATION$ month(s), and will be until §Y$DISCONTENT_END_DATE$§!. This means that if Councilors were prohibited by law from forming and joining Factions, they may now do so. This could potentially destabilize the realm.;;;;;;;;;;;;;x
-alert_liege_council_discontent_instant;§YYour Liege's Council is Discontent§!;;;;;;;;;;;;;x
-alert_liege_council_discontent_name;Liege Council Discontent;;;;;;;;;;;;;x
-alert_lose_title_on_succ_delayed;The following titles will be lost on succession:\n$LIST$;;;;;;;;;;;;;x
-alert_lose_title_on_succ_instant;§YTitle Loss on Succession§!;;;;;;;;;;;;;x
-alert_lose_title_on_succ_name;Title loss on succession;;;;;;;;;;;;;x
-alert_my_peace_being_enforced_delayed;Your Council has declared that peace shall rule the realm! \nYour vassals are unable to wage war on each other for another $MONTHS|Y$ months!;;;;;;;;;;;;;x
-alert_my_peace_being_enforced_delayed_days;Your Council has declared that peace shall rule the realm! \nYour vassals are unable to wage war on each other for another $DAYS|Y$ days!;;;;;;;;;;;;;x
-alert_my_peace_being_enforced_instant;§YRealm Peace Enforced!§!;;;;;;;;;;;;;x
-alert_my_peace_soon_enforced_delayed;Your Council has declared that peace shall rule the realm! \nAll internal wars waged between your vassals will end with a §YWhite Peace§! in $MONTHS|Y$ months!;;;;;;;;;;;;;x
-alert_my_peace_soon_enforced_delayed_days;Your Council has declared that peace shall rule the realm! \nAll internal wars waged between your vassals will end with a §YWhite Peace§! in $DAYS|Y$ days!;;;;;;;;;;;;;x
-alert_my_peace_soon_enforced_instant;§YYou are enforcing Realm Peace!§!;;;;;;;;;;;;;x
-alert_my_peace_soon_enforced_name;My Realm will soon be at Peace;;;;;;;;;;;;;x
-alert_no_ambition_delayed;You should pick an Ambition;;;;;;;;;;;;;x
-alert_no_ambition_instant;§YPick an Ambition§!;;;;;;;;;;;;;x
-alert_no_ambition_name;Pick an ambition;;;;;;;;;;;;;x
-alert_no_focus_delayed;You should pick a Focus for your character;;;;;;;;;;;;;x
-alert_no_focus_instant;§YPick a Character Focus§!;;;;;;;;;;;;;x
-alert_no_focus_name;Pick a Focus;;;;;;;;;;;;;x
-alert_noheir_delayed;If your ruler dies now the game will end!;;;;;;;;;;;;;x
-alert_noheir_instant;§YNo heir of your dynasty!§!;;;;;;;;;;;;;x
-alert_noheir_name;No heir;;;;;;;;;;;;;x
-alert_nomad_agitation_delayed;Unless we construct a §YCastle§! or §YCity§! in the following Counties, they will revert to Nomad control on Succession:\n$LIST$;;;;;;;;;;;;;x
-alert_nomad_agitation_delayed_tribal;Unless we have at least §Y$NUM$§! Buildings in the Tribal Holdings of the following Counties, they will revert to Nomad control on Succession:\n$LIST$;;;;;;;;;;;;;x
-alert_nomad_agitation_instant;§YNomad Agitation§!;;;;;;;;;;;;;x
-alert_nomad_agitation_name;Nomad Agitation;;;;;;;;;;;;;x
-alert_non_playable_heir_delayed;Your heir, $HEIR$, currently follows a religion you are not allowed to play. Upon succession they will convert to the religion of your previous character.;;;;;;;;;;;;;x
-alert_non_playable_heir_instant;§YHeir Religion Change on Succession§!;;;;;;;;;;;;;x
-alert_northern_crusade_active_delayed;There is currently an ongoing war between the Teutons and the pagans;;;;;;;;;;;;;x
-alert_northern_crusade_active_instant;Northern Crusade;;;;;;;;;;;;;x
-alert_northern_crusade_help_delayed;You can ask the Teutons to target a pagan ruler for their northern campaigns;;;;;;;;;;;;;x
-alert_northern_crusade_help_instant;Northern Crusade Target;;;;;;;;;;;;;x
-alert_open_gates_delayed;When you feel safe you can reopen your gates and welcome the outside world once again.;;;;;;;;;;;;;x
-alert_open_gates_instant;§YYou can Open the Gates§!;;;;;;;;;;;;;x
-alert_open_gates_name;Open the Gates;;;;;;;;;;;;;x
-alert_over_clan_limit_delayed;You have §R$NUM$§!/§Y$MAX$§! Clans, giving you a Clan Sentiment penalty towards all Clan vassals.;;;;;;;;;;;;;x
-alert_over_clan_limit_instant;§YOver Clan Limit§!;;;;;;;;;;;;;x
-alert_over_clan_limit_name;Over Clan Limit;;;;;;;;;;;;;x
-alert_over_vassal_limit_delayed;You have §R$NUM$§!/§Y$MAX$§! vassals, giving you less taxes and levies from your vassals. You risk losing vassals if your character dies.;;;;;;;;;;;;;x
-alert_over_vassal_limit_instant;§YOver Vassal Limit§!;;;;;;;;;;;;;x
-alert_over_vassal_limit_name;Over Vassal Limit;;;;;;;;;;;;;x
-alert_owns_wrong_settlement_type_delayed;Depending on your circumstances, you might want to '§YCreate New Vassal§!' in the Holding menu, or give the title away.\n\nThe following Holdings are of the wrong type:\n$LIST$;;;;;;;;;;;;;x
-alert_owns_wrong_settlement_type_instant;§YWrong type of Holding in Demesne§!;;;;;;;;;;;;;x
-alert_owns_wrong_settlement_type_name;Wrong type of holding in demesne;;;;;;;;;;;;;x
-alert_peace_being_enforced_delayed;The Council of $LIEGE|Y$ has declared that peace shall reign in all the realm! \nVassals of $LIEGE|Y$ are unable to wage war on each other for another $MONTHS|Y$ months!;;;;;;;;;;;;;x
-alert_peace_being_enforced_delayed_days;The Council of $LIEGE|Y$ has declared that peace shall rein in all the realm! \nVassals of $LIEGE|Y$ are unable to wage war on each other for another $DAYS|Y$ days!;;;;;;;;;;;;;x
-alert_peace_being_enforced_instant;§YLiege has Enforced Realm Peace!§!;;;;;;;;;;;;;x
-alert_peace_being_enforced_name;Realm Peace Enforced;;;;;;;;;;;;;x
-alert_peace_soon_enforced_delayed;The Council of $LIEGE|Y$ has declared that peace shall reign in all the realm! \nAll internal wars waged between vassals of $LIEGE|Y$ will end with a §YWhite Peace§! in $MONTHS|Y$ months!\n\nIf you are on the Council you can call in a §YFavor§! from $LIEGE|Y$ to prevent the §YRealm Peace§! from being enforced.;;;;;;;;;;;;;x
-alert_peace_soon_enforced_delayed_days;The Council of $LIEGE|Y$ has declared that peace shall rein in all the realm! \nAll internal wars waged between vassals of $LIEGE|Y$ will end with a §YWhite Peace§! in $DAYS|Y$ days!\n\nIf you are on the Council you can call in a §YFavor§! from $LIEGE|Y$ to prevent the §YRealm Peace§! from being enforced.;;;;;;;;;;;;;x
-alert_peace_soon_enforced_instant;§YLiege enforcing Realm Peace!§!;;;;;;;;;;;;;x
-alert_peace_soon_enforced_name;Realm Peace Imminent;;;;;;;;;;;;;x
-alert_planning_invasion_delayed;We are preparing to invade §Y$TARGET$§! before §Y$DATE$§!;;;;;;;;;;;;;x
-alert_planning_invasion_instant;§YPreparing to Invade§!;;;;;;;;;;;;;x
-alert_powerful_factions_delayed;There are powerful dissident Factions in your realm:\n$LIST$;;;;;;;;;;;;;x
-alert_powerful_factions_instant;§YDangerous Factions§!;;;;;;;;;;;;;x
-alert_powerful_factions_name;Dangerous Factions;;;;;;;;;;;;;x
-alert_reconquista_active_delayed;There is currently an ongoing Reconquest war at the Iberian Peninsula;;;;;;;;;;;;;x
-alert_reconquista_active_instant;Reconquest;;;;;;;;;;;;;x
-alert_reconquista_timer_delayed;You have until [Root.reconquista_preparation_left.GetExpiryDate] to declare a Reconquest War;;;;;;;;;;;;;x
-alert_reconquista_timer_instant;Planning a Reconquest;;;;;;;;;;;;;x
-alert_revoltrisk_in_provinces_delayed;The following counties run a risk of having a revolt:\n$LIST$;;;;;;;;;;;;;x
-alert_revoltrisk_in_provinces_instant;§YRevolts Possible§!;;;;;;;;;;;;;x
-alert_revoltrisk_in_provinces_name;Revolts possible;;;;;;;;;;;;;x
-alert_ruler_should_marry_delayed;You should get married\n§GClick to go to Character View§!;;;;;;;;;;;;;x
-alert_ruler_should_marry_instant;§YRuler Unmarried§!;;;;;;;;;;;;;x
-alert_ruler_should_marry_name;Ruler unmarried;;;;;;;;;;;;;x
-alert_should_appoint_guardian_delayed;The following children need a guardian:\n$LIST$;;;;;;;;;;;;;x
-alert_should_appoint_guardian_instant;§Y$NUM$ Children Lack a Guardian§!;;;;;;;;;;;;;x
-alert_should_appoint_guardian_name;Children lack guardian;;;;;;;;;;;;;x
-alert_should_nominate_heir_delayed;You should nominate successors for these titles:\n$LIST$;;;;;;;;;;;;;x
-alert_should_nominate_heir_instant;§YSuccessor Nomination§!;;;;;;;;;;;;;x
-alert_should_nominate_heir_name;Succession nomination;;;;;;;;;;;;;x
-alert_society_rank_up_possible_delayed;You have gained enough influence within your society that you can request promotion to the next rank.;;;;;;;;;;;;;x
-alert_society_rank_up_possible_instant;§YPossible to rank up in society§!;;;;;;;;;;;;;x
-alert_titles_may_pass_from_realm_delayed;There are vassals with worrisome lines of succession.\nOn death, their titles might pass from your Realm:\n$LIST$;;;;;;;;;;;;;x
-alert_titles_may_pass_from_realm_instant;§YVassal Inheritance Warning§!;;;;;;;;;;;;;x
-alert_titles_may_pass_from_realm_name;Vassal inheritance warning;;;;;;;;;;;;;x
-alert_too_few_clans_delayed;You hold too much land compared to the other Clans. Hand out §Y$NUM$§! counties or you might face revolts from the existing Clans as it negatively affects their §YClan Sentiment§! of you. You can also face a §YMinor Clan Rising§! revolt to seize its rightful position among the major Clans...;;;;;;;;;;;;;x
-alert_too_few_clans_instant;§YClans Want More Land§!;;;;;;;;;;;;;x
-alert_too_few_clans_name;Clans Want More Land;;;;;;;;;;;;;x
-alert_troops_in_foreign_territory_delayed;In $LIST$.;;;;;;;;;;;;;x
-alert_troops_in_foreign_territory_instant;§YYou have troops in foreign territory.§!;;;;;;;;;;;;;x
-alert_troops_in_foreign_territory_name;Troops in foreign territory;;;;;;;;;;;;;x
-alert_truce_expiring_delayed;The Following Truces are Expiring:$LIST$;;;;;;;;;;;;;x
-alert_truce_expiring_instant;§YTruces are Expiring§!;;;;;;;;;;;;;x
-alert_truce_expiring_name;Truces are expiring;;;;;;;;;;;;;x
-alert_vassal_levies_raised_long_delayed;The following Vassals are upset about their levies:\n$LIST$;;;;;;;;;;;;;x
-alert_vassal_levies_raised_long_instant;§YVassal Levies Raised too Long§!;;;;;;;;;;;;;x
-alert_vassal_levies_raised_long_name;Vassal levies raised too long;;;;;;;;;;;;;x
-alert_wonder_construction_paused_delayed;The following great works have paused construction:\n\n$LIST$;;;;;;;;;;;;;x
-alert_wonder_construction_paused_instant;§YGreat Work Construction Paused§!;;;;;;;;;;;;;x
-alert_wonder_construction_paused_name;Paused great work construction;;;;;;;;;;;;;x
-alert_you_can_create_titles_delayed;The following titles can be created:\n$LIST$;;;;;;;;;;;;;x
-alert_you_can_create_titles_instant;§Y$NUM$ Title(s) can be Created§!;;;;;;;;;;;;;x
-alert_you_can_create_titles_name;Can create titles;;;;;;;;;;;;;x
-alert_you_can_usurp_titles_delayed;The following titles can be usurped:\n$LIST$;;;;;;;;;;;;;x
-alert_you_can_usurp_titles_instant;§Y$NUM$ Title(s) can be Usurped§!;;;;;;;;;;;;;x
-alert_you_can_usurp_titles_name;Can usurp titles;;;;;;;;;;;;;x
+alert_adolescent_needs_focus_delayed;The following Children need an Education Focus:\n$LIST$;;;;;;;;;;;Ñëåäóþùèå äåòè íóæäàþòñÿ â âûáîðå îáðàçîâàíèÿ:\n$LIST$;;x
+alert_adolescent_needs_focus_instant;§Y$NUM$ Children Lack an Education Focus§!;;;;;;;;;;;§Y$NUM$ äåòåé íóæäàþòñÿ â âûáîðå îáðàçîâàíèÿ§!;;x
+alert_adolescent_needs_focus_name;Children lack an Edcuation Focus;;;;;;;;;;;Äåòÿì íóæíî îáðàçîâàíèå;;x
+alert_adult_sons_notitle_delayed;The following adult sons do not hold any land:\n$LIST$;;;;;;;;;;;Ñëåäóþùèå âçðîñëûå ñûíîâüÿ íå èìåþò çåìåëüíûõ òèòóëîâ:\n$LIST$;;x
+alert_adult_sons_notitle_instant;§YUnlanded Sons§!;;;;;;;;;;;§YÁåççåìåëüíûå ñûíîâüÿ§!;;x
+alert_adult_sons_notitle_name;Unlanded sons;;;;;;;;;;;Áåççåìåëüíûå ñûíîâüÿ;;x
+alert_adventurer_threat_delayed;The following adventurers are targeting me:\n$LIST$;;;;;;;;;;;Àâàíòþðèñòû, âûñòóïàþùèå ïðîòèâ ìåíÿ:\n$LIST$;;x
+alert_adventurer_threat_instant;§YAdventurer Threats§!;;;;;;;;;;;§YÓãðîçû àâàíòþðèñòîâ§!;;x
+alert_adventurer_threat_name;Adventurers Targeting me;;;;;;;;;;;Àâàíòþðèñòû ãîòîâÿò âîéñêà;;x
+alert_allies_not_called_in_delayed;We can ask the following allies to support us:\n$LIST$;;;;;;;;;;;Ìû ìîæåì ïîïðîñèòü ñëåäóþùèõ ñîþçíèêîâ ïîääåðæàòü íàñ :\n$LIST$;;x
+alert_allies_not_called_in_instant;§YWe can Call in Allies§!;;;;;;;;;;;§YÌû ìîæåì ïðèçâàòü ñîþçíèêîâ§!;;x
+alert_allies_not_called_in_name;We can call in allies;;;;;;;;;;;Ìû ìîæåì ïðèçâàòü ñîþçíèêîâ;;x
+alert_at_peace_prestige_loss_delayed;As a §Y$RELIGION$ Pagan§!, you lose §R$PRESTIGE$§! Prestige every month for being at peace and doing no raiding.;;;;;;;;;;;Ïîñêîëüêó §Y$RELIGION$[__]§! ÿâëÿåòñÿ §Yÿçû÷åñòâîì§!, Âû òåðÿåòå §R$PRESTIGE$§! ïðåñòèæà êàæäûé ìåñÿö, ïîêà íàõîäèòåñü â ñîñòîÿíèè ìèðà è íå ñîâåðøàåòå íàáåãè.;;x
+alert_at_peace_prestige_loss_instant;§YYou have been at peace for too long!§!;;;;;;;;;;;§YÂû áûëè â ìèðå ñëèøêîì äîëãî!§!;;x
+alert_at_peace_prestige_loss_name;Long Peace;;;;;;;;;;;Äîëãèé ìèð;;x
+alert_available_decision_delayed;The following important Decisions are available:\n$LIST$;;;;;;;;;;;Äîñòóïíû ñëåäóþùèå âàæíûå ðåøåíèÿ:\n$LIST$;;x
+alert_available_decision_instant;§YNew Important Decisions are Available§!;;;;;;;;;;;§YÄîñòóïíû íîâûå ðåøåíèÿ§!;;x
+alert_available_decision_name;Important Decisions;;;;;;;;;;;Âàæíûå ðåøåíèÿ;;x
+alert_available_minor_title_delayed;The following Special Minor Titles can be granted:\n$LIST$;;;;;;;;;;;Ìîãóò áûòü äàðîâàíû ñëåäóþùèå ñïåöèàëüíûå òèòóëû:\n$LIST$;;x
+alert_available_minor_title_instant;§YSpecial Minor Titles Grantable§!;;;;;;;;;;;§YÄîñòóïíû ñïåöèàëüíûå òèòóëû§!;;x
+alert_available_minor_title_name;Available Minor Title;;;;;;;;;;;Äîñòóïåí ïî÷¸òíûé òèòóë;;x
+alert_available_plot_delayed;The following Plots have become available:\n$LIST$;;;;;;;;;;;Äîñòóïíû ñëåäóþùèå çàãîâîðû:\n$LIST$;;x
+alert_available_plot_instant;§YNew Plots are Available§!;;;;;;;;;;;§YÄîñòóïíû íîâûå çàãîâîðû§!;;x
+alert_available_plot_name;New plots available;;;;;;;;;;;Äîñòóïíû íîâûå çàãîâîðû;;x
+alert_available_settlement_decision_delayed;The following Special Holding Actions are available:\n$LIST$;;;;;;;;;;;Äîñòóïíû ñëåäóþùèå îñîáûå äåéñòâèÿ ñ ïîñåëåíèÿìè:\n$LIST$;;x
+alert_available_settlement_decision_instant;§YSpecial Holding Actions Possible§!;;;;;;;;;;;§YÎñîáûå äåéñòâèÿ ñ ïîñåëåíèÿìè§!;;x
+alert_available_settlement_decision_name;Special Holding Actions Possible;;;;;;;;;;;Äîñòóïíû îñîáûå äåéñòâèÿ ñ ïîñåëåíèÿìè;;x
+alert_available_targetted_decision_delayed;The following Special Character Actions are available:\n$LIST$;;;;;;;;;;;Äîñòóïíû ñëåäóþùèå îñîáûå äåéñòâèÿ ñ ëþäüìè:\n$LIST$;;x
+alert_available_targetted_decision_instant;§YSpecial Character Actions Possible§!;;;;;;;;;;;§YÎñîáûå äåéñòâèÿ ñ ëþäüìè§!;;x
+alert_available_targetted_decision_name;Special Character Actions Possible;;;;;;;;;;;Äîñòóïíû îñîáûå äåéñòâèÿ ñ ëþäüìè;;x
+alert_available_title_decision_delayed;The following Special Title Actions are available:\n$LIST$;;;;;;;;;;;Äîñòóïíû ñëåäóþùèå îñîáûå äåéñòâèÿ ñ òèòóëàìè:\n$LIST$;;x
+alert_available_title_decision_instant;§YSpecial Title Actions Possible§!;;;;;;;;;;;§YÎñîáûå äåéñòâèÿ ñ òèòóëàìè§!;;x
+alert_available_title_decision_name;Special Title Actions Possible;;;;;;;;;;;Äîñòóïíû îñîáûå äåéñòâèÿ ñ òèòóëàìè;;x
+alert_beneficiary_needed_delayed;As a participant in the ongoing Crusade, a beneficiary should be selected so that when the inevitable victory occurs, our dynasty may share in the spoils.;;;;;;;;;;;Êàê ó÷àñòíèê ïðîäîëæàþùåãîñÿ Êðåñòîâîãî ïîõîäà, Âû äîëæíû âûáðàòü áåíåôèöèàðà, ÷òîáû â ñëó÷àå ïîáåäû Âàøà äèíàñòèÿ ìîãëà ïîëó÷èòü ÷àñòü äîáû÷è.;;x
+alert_beneficiary_needed_instant;§YCrusade Beneficiary not Selected§!;;;;;;;;;;;§YÁåíåôèöèàð êðåñòîâîãî ïîõîäà íå âûáðàí§!;;x
+alert_betrothed_should_marry_delayed;The following betrothed characters can get married:\n$LIST$;;;;;;;;;;;Ïîìîëâëåííûå ìîãóò ïîæåíèòüñÿ:\n$LIST$;;x
+alert_betrothed_should_marry_instant;§YBetrothed can Marry§!;;;;;;;;;;;§YÏîìîëâëåííûå ìîãóò ïîæåíèòüñÿ§!;;x
+alert_betrothed_should_marry_name;Betrothed can marry;;;;;;;;;;;Ïîìîëâëåííûå ìîãóò ïîæåíèòüñÿ;;x
+alert_build_province_improvement_delayed;$LIST$;;;;;;;;;;;$LIST$;;x
+alert_build_province_improvement_instant;§YYou can build county improvements!§!;;;;;;;;;;;§YÂû ìîæåòå íà÷àòü ñòðîèòåëüñòâî â îêðóãàõ:§!;;x
+alert_build_province_improvement_name;Can build county improvements;;;;;;;;;;;Âû ìîæåòå íà÷àòü ñòðîèòåëüñòâî â îêðóãå;;x
+alert_can_call_vassals_to_arms_delayed;The following vassals can join our war against our former liege:\n$LIST$;;;;;;;;;;;Ñëåäóþùèå âàññàëû ìîãóò ïðèñîåäèíèòüñÿ ê âîéíå ïðîòèâ íàøåãî áûâøåãî ñþçåðåíà:\n$LIST$;;x
+alert_can_call_vassals_to_arms_instant;§YWe can call in vassals of our former liege§!;;;;;;;;;;;§YÌû ìîæåì ïðèçâàòü âàññàëîâ íàøåãî áûâøåãî ñþçåðåíà§!;;x
+alert_can_call_vassals_to_arms_name;Can call vassals of former liege;;;;;;;;;;;Ìîæíî ïðèçâàòü âàññàëîâ áûâøåãî ñþçåðåíà;;x
+alert_can_imprison_delayed;You can imprison subjects without incurring tyranny. Note that an empowered council might still object.\n$LIST$;;;;;;;;;;;Âû ìîæåòå áðîñèòü ýòèõ ëþäåé â òåìíèöó, íå ïðîñëûâ òèðàíîì, íî ó÷òèòå, ÷òî §Yñîâåò§! ìîæåò Âàì âîçðàçèòü.\n$LIST$;;x
+alert_can_imprison_instant;§YRighteous Imprisonment§!;;;;;;;;;;;§YÑïðàâåäëèâîå íàêàçàíèå§!;;x
+alert_can_imprison_name;Righteous imprisonment;;;;;;;;;;;Ñïðàâåäëèâîå íàêàçàíèå;;x
+alert_can_press_weak_claims_delayed;The following Weak Claims can be pressed:\n$LIST$;;;;;;;;;;;Ñëåäóþùèå ñëàáûå ïðåòåíçèè ìîãóò áûòü ðåàëèçîâàíû:\n$LIST$;;x
+alert_can_press_weak_claims_instant;§Y$NUM$ Weak Claim(s) can be pressed§!;;;;;;;;;;;§Y$NUM$ ñëàáûõ ïðåòåíçèé ìîãóò áûòü ðåàëèçîâàíû§!;;x
+alert_can_press_weak_claims_name;Can press weak claim;;;;;;;;;;;Èìååò ñëàáûå ïðåòåíçèè;;x
+alert_can_reform_religion_delayed;The §Y$RELIGION$§! faith can be reformed into an organized religion;;;;;;;;;;;§Y$RELIGION$[__]§! ìîæåò ñòàòü îðãàíèçîâàííîé ðåëèãèåé;;x
+alert_can_reform_religion_instant;§YReligion can be Reformed§!;;;;;;;;;;;§YÐåëèãèþ ìîæíî ðåôîðìèðîâàòü§!;;x
+alert_can_reform_religion_name;§YReligion can be Reformed§!;;;;;;;;;;;§YÐåëèãèþ ìîæíî ðåôîðìèðîâàòü§!;;x
+alert_can_tech_delayed;You have enough Technology Points in a Technology Group to invest in any of its advances;;;;;;;;;;;Ó Âàñ äîñòàòî÷íîå êîëè÷åñòâî áàëëîâ òåõíîëîãè÷åñêîé ãðóïïû, ÷òîáû èíâåñòèðîâàòü â ëþáîå èññëåäîâàíèå;;x
+alert_can_tech_instant;§YYou should Invest in a Technological Advance§!;;;;;;;;;;;§YÂû äîëæíû èíâåñòèðîâàòü â òåõíîëîãè÷åñêèé ïðîãðåññ§!;;x
+alert_can_tech_name;You can invest in technology;;;;;;;;;;;Âû ìîæåòå èíâåñòèðîâàòü â òåõíîëîãèè;;x
+alert_casus_belli_will_expire_delayed;$LIST$.;;;;;;;;;;;$LIST$.;;x
+alert_casus_belli_will_expire_instant;§YTemporary Casus belli against:§!;;;;;;;;;;;§YÈñòåêàåò ñðîê ïîâîäà äëÿ âîéíû:§!;;x
+alert_casus_belli_will_expire_name;Temporary Casus belli;;;;;;;;;;;Èñòåêàåò ñðîê ïîâîäà äëÿ âîéíû;;x
+alert_child_needs_focus_delayed;The following Children need a Childhood Focus:\n$LIST$;;;;;;;;;;;Ñëåäóþùèå äåòè íóæäàþòñÿ â âûáîðå òèïà âîñïèòàíèÿ:\n$LIST$;;x
+alert_child_needs_focus_instant;§Y$NUM$ Children Lack a Childhood Focus§!;;;;;;;;;;;§Y$NUM$ äåòåé íóæäàþòñÿ â âûáîðå òèïà âîñïèòàíèÿ§!;;x
+alert_child_needs_focus_name;Children lack a Childhood Focus;;;;;;;;;;;Äåòÿì íóæíî âîñïèòàíèå;;x
+alert_close_gates_delayed;When an epidemic is threatening your court, you can shut the gates. Characters in seclusion will have a hard time communicating with the outside world but should avoid infection from outside sources.;;;;;;;;;;;Êîãäà ýïèäåìèÿ óãðîæàåò Âàøåìó äâîðó, Âû ìîæåòå çàêðûòü âîðîòà. Âûíóæäåííûå íàõîäèòüñÿ â èçîëÿöèè, ïðèäâîðíûå áóäóò èñïûòûâàòü òðóäíîñòè âî âçàèìîäåéñòâèè ñ âíåøíèì ìèðîì, íî áóäóò ãîðàçäî ëó÷øå çàùèùåíû îò èíôåêöèè.;;x
+alert_close_gates_instant;§YYou can Shut the Gates§!;;;;;;;;;;;§YÂû ìîæåòå çàêðûòü âîðîòà§!;;x
+alert_close_gates_name;Close the Gates;;;;;;;;;;;Çàêðûòü âîðîòà;;x
+alert_coronation_needed_delayed;A [Root.Religion.GetName] ruler who has not been officially crowned by a notable member of the Church will never be fully accepted by [Root.GetHerHis] vassals as legitimate.\nThe more years an adult [Root.Religion.GetName] [Root.GetTitle] wastes before being anointed, the more likely [Root.GetHerHis] vassals will be to doubt the validity of [Root.GetHerHis] divine right to rule.;;;;;;;;;;;Ïðàâèòåëü-[Root.GetReligionAdherent_M], êîòîðûé íå áûë îôèöèàëüíî êîðîíîâàí óâàæàåìûì ïðåäñòàâèòåëåì äóõîâåíñòâà, íèêîãäà íå áóäåò ïðèçíàí ñâîèìè âàññàëàìè êàê çàêîííûé.\n×åì äîëüøå íîâûé ñîâåðøåííîëåòíèé [Root.GetRelAdj]ñêèé ìîíàðõ áóäåò áåç êîðîíû, òåì âåðîÿòíåå, ÷òî âàññàëû îñïîðÿò åãî ïðàâî íà òðîí.;;x
+alert_coronation_needed_instant;§YRuler Uncrowned§!;;;;;;;;;;;§YÏðàâèòåëü íåêîðîíîâàí§!;;x
+alert_council_discontent_delayed;Your Council has been Discontent for $DISCONTENT_DURATION|Y$ month(s), and will be until §Y$DISCONTENT_END_DATE$§!. This means that if Councilors were prohibited by law from forming and joining factions, they may now do so. This could potentially destabilize the realm.;;;;;;;;;;;Âàø ñîâåò íåäîâîëåí óæå $DISCONTENT_DURATION|Y$ ìåñÿöåâ è áóäåò íåäîâîëåí äî §Y$DISCONTENT_END_DATE$§!. Ýòî îçíà÷àåò, ÷òî â òîì ñëó÷àå, åñëè ñîâåòíèêàì çàïðåùåíî çàêîíîì ôîðìèðîâàòü íîâûå ôðàêöèè è âñòóïàòü â ñóùåñòâóþùèå, òåïåðü îíè ìîãóò ýòî äåëàòü, ïîäðûâàÿ òåì ñàìûì Âàøó âëàñòü è öåëîñòíîñòü ãîñóäàðñòâà.;;x
+alert_council_discontent_instant;§YCouncil is Discontent§!;;;;;;;;;;;§YÑîâåò íåäîâîëåí§!;;x
+alert_council_discontent_name;Council Discontent;;;;;;;;;;;Âàø ñîâåò íåäîâîëåí;;x
+alert_councillor_no_job_delayed;The following councilors are currently not on a job:\n$LIST$\n§GClick to go to Court View§!;;;;;;;;;;;Ñëåäóþùèå ñîâåòíèêè íà äàííûé ìîìåíò íå çàíÿòû:\n$LIST$\n§GÊëèêíèòå, ÷òîáû ïåðåéòè ê ýêðàíó äâîðà§!;;x
+alert_councillor_no_job_instant;§YIdle Council Members§!;;;;;;;;;;;§YÑâîáîäíûå ñîâåòíèêè§!;;x
+alert_country_at_war_name;Country at war;;;;;;;;;;;Âîéíà;;x
+alert_court_not_filled_delayed;The following spots need to be filled:\n$LIST$\n§GClick to go to Court View§!;;;;;;;;;;;Ñëåäóþùèå äîëæíîñòè íå çàíÿòû:\n$LIST$\n§Gíàæìèòå, ÷òîáû ïåðåéòè â ìåíþ äâîðà:§!;;x
+alert_court_not_filled_instant;§YOpen Council Positions§!;;;;;;;;;;;§YÑâîáîäíûå äîëæíîñòè ïðè äâîðå§!;;x
+alert_court_not_filled_name;Open council positions;;;;;;;;;;;Ñâîáîäíûå äîëæíîñòè ïðè äâîðå;;x
+alert_decadence_delayed;You have decadent relatives. You should ask them to straighten up or in other ways take care of them.;;;;;;;;;;;Ñðåäè Âàøèõ ðîäñòâåííèêîâ åñòü äåêàäåíòû. Âîçìîæíî, íåïëîõî áû êàê-òî ïîâëèÿòü íà íèõ è ñäåëàòü ëó÷øå.;;x
+alert_decadence_instant;§YDecadent Relatives§!;;;;;;;;;;;§YÐîäñòâåííèêè-äåêàäåíòû§!;;x
+alert_deficits_delayed;Your coffers are empty and you owe your subjects money. The morale of your armies will suffer, and the longer this goes on, the more corruption and criminals will plague your counties.;;;;;;;;;;;Âàøà êàçíà ïóñòà, è Âû äîëæíû äåíüãè ñâîèì ïîääàííûì. Áîåâîé äóõ àðìèè ïàäàåò, è ÷åì äîëüøå ýòî áóäåò ïðîäîëæàòüñÿ, òåì áîëüøå êîððóïöèÿ è ïðåñòóïíîñòü áóäóò ïîðàæàòü Âàøè çåìëè.;;x
+alert_deficits_instant;§YBudget Deficit§!;;;;;;;;;;;§YÄåôèöèò áþäæåòà§!;;x
+alert_deficits_name;Deficits;;;;;;;;;;;Äåôèöèò;;x
+alert_dejure_claim_delayed;The following de jure ducal claims can be pressed: $LIST$;;;;;;;;;;;Ñëåäóþùèå ïðåòåíçèè ìîæíî ðåàëèçîâàòü: $LIST$;;x
+alert_dejure_claim_instant;§YYou can Press de jure Ducal Claims§!;;;;;;;;;;;§YÂû ìîæåòå ðåàëèçîâàòü ïðåòåíçèè Âàøèõ ïðÿìûõ âàññàëîâ íà ÷óæèå òèòóëû§!;;x
+alert_dejure_claim_name;Can press de jure claim;;;;;;;;;;;Ìîæåò çàÿâèòü äå-þðå ïðåòåíçèè;;x
+alert_demesne_too_big_delayed;Your demesne has §Y$NUM$§!/§Y$MAX$§! holdings, causing inefficient taxation, troop recruitment and resentment among your vassals.;;;;;;;;;;;Âàø äîìåí èìååò §Y$NUM$§!/§Y$MAX$§! âëàäåíèé, â ðåçóëüòàòå ÷åãî ñíèæàåòñÿ ýôôåêòèâíîñòü íàëîãîîáëîæåíèÿ, âåðáîâêè âîéñê è ðàñò¸ò íåäîâîëüñòâî ñðåäè Âàøèõ âàññàëîâ.;;x
+alert_demesne_too_big_instant;§YDemesne too Big§!;;;;;;;;;;;§YÈçáûòîê ëè÷íûõ âëàäåíèé§!;;x
+alert_demesne_too_big_name;Demesne too big;;;;;;;;;;;Ñëèøêîì ìíîãî ëè÷íûõ âëàäåíèé;;x
+alert_enemy_invasion_planned_delayed;Enemy rulers are preparing invasions against us:\n$LIST$;;;;;;;;;;;Âðàæåñêèå ïðàâèòåëè ïëàíèðóþò âòîðæåíèå ê íàì:\n$LIST$;;x
+alert_enemy_invasion_planned_instant;§YEnemy Planning to Invade§!;;;;;;;;;;;§YÂðàã ïëàíèðóåò Âòîðæåíèå§!;;x
+alert_has_favor_delayed;The following Characters owe you a Favor:\n$LIST$\n\nFavors can be used for the following:\n$ACTIONS$;;;;;;;;;;;Ñëåäóþùèå ëþäè ïåðåä Âàìè â äîëãó:\n$LIST$\nÂîçìîæíû ñëåäóþùèå äåéñòâèÿ:\n$ACTIONS$;;x
+alert_has_favor_instant;§Y$NUM$ Characters owe you a Favor§!;;;;;;;;;;;§Y$NUM$ ÷åëîâåê ïåðåä Âàìè â äîëãó§!;;x
+alert_has_favor_name;Characters owe you Favors;;;;;;;;;;;Âàì äîëæíû;;x
+alert_heir_should_marry_delayed;$HEIR$ should get married\n§GClick to go to Character View§!;;;;;;;;;;;$HEIR$ äî ñèõ ïîð íå â áðàêå\n§GÍàæìèòå, ÷òîáû ïåðåéòè íà ýêðàí ïåðñîíàæà§!;;x
+alert_heir_should_marry_instant;§YUnmarried Heir§!;;;;;;;;;;;§YÍàñëåäíèê íå â áðàêå§!;;x
+alert_heir_should_marry_name;Heir unmarried;;;;;;;;;;;Íàñëåäíèê íå â áðàêå;;x
+alert_high_infamy_delayed;Effects of §YThreat§!:\n\n- With over $COALITION_INFAMY_LIMIT|%Y0$ §YThreat§! other realms can form §YDefensive Pacts§! to protect themselves from you. Each religious group has their own separate §YDefensive Pact§! and will only defend members belonging to that same §YDefensive Pact§!.\n\n- With over $OTHER_COALITION_JOIN_INFAMY|%Y0$ §YThreat§! all §YDefensive Pacts§! of other religious groups band together if you attack one of them.\n\n- With over $EVERY_COALITION_EXCEPT_HEADS_JOIN_INFAMY|%Y0$ §YThreat§! all §YDefensive Pacts§! including that of your own religious group will band together if you attack one of them.\n\n- With over $EVERY_COALITION_JOIN_INFAMY|%Y0$ §YThreat§! you are considered threatening enough that even your own religious head and holy orders from your religious group will defend other §YDefensive Pacts§! from you.\n\n- As your §YThreat§! increases, larger and more distant realms are allowed to join the §YDefensive Pacts§! opposing you.\n\n- As your §YThreat§! decreases, larger or more distant realms are forced to leave the §YDefensive Pacts§! opposing you.\n\n--------------\n§YThreat§! will decline slowly over time but you can manually lower it by granting independence to land not part of your De Jure realm.;;;;;;;;;;;Ýôôåêòû §YÓãðîçû§!:\n\n- Êîãäà óðîâåíü §Yóãðîçû§! ïðåâûøàåò $COALITION_INFAMY_LIMIT|%Y0$, äðóãèå ãîñóäàðñòâà ìîãóò ôîðìèðîâàòü §Yîáîðîíèòåëüíûå ñîþçû§!, ÷òîáû çàùèòèòüñÿ îò Âàñ. Êàæäûé ñîþç ôîðìèðóåòñÿ â ïðåäåëàõ îäíîé ðåëèãèîçíîé ãðóïïû.\n\n- Êîãäà óðîâåíü §Yóãðîçû§! ïðåâûøàåò $OTHER_COALITION_JOIN_INFAMY|%Y0$, §Yîáîðîíèòåëüíûå ñîþçû§! äðóãèõ ðåëèãèîçíûõ ãðóïï îáúåäèíÿþòñÿ ïðîòèâ Âàñ, êîãäà Âû èõ àòàêóåòå.\n\n- Êîãäà óðîâåíü §Yóãðîçû§! ïðåâûøàåò $EVERY_COALITION_EXCEPT_HEADS_JOIN_INFAMY|%Y0$, §Yîáîðîíèòåëüíûå ñîþçû§! âñåõ ðåëèãèîçíûõ ãðóïï, âêëþ÷àÿ Âàøó, ñòàíîâÿòñÿ åäèíû â ñëó÷àå Âàøåé àãðåññèè.\n\n- Åñëè æå óðîâåíü §Yóãðîçû§! ïðåâûñèò $EVERY_COALITION_JOIN_INFAMY|%Y0$, Âû áóäåòå ñòîëü îïàñíû, ÷òî äàæå ãëàâà Âàøåé ðåëèãèè ñòàíåò ïðèçûâàòü äóõîâíûå îðäåíû Âàøåé ðåëèãèîçíîé ãðóïïû ïîääåðæàòü §Yîáîðîíèòåëüíûå ñîþçû§! ïðîòèâ Âàñ.\n\n- Ïî ìåðå ðîñòà Âàøåãî óðîâíÿ §Yóãðîçû§! âñ¸ áîëåå êðóïíûå è îòäàë¸ííûå ãîñóäàðñòâà áóäóò ïðèñîåäèíÿòüñÿ ê §Yîáîðîíèòåëüíûì ñîþçàì§!, ÷òîáû ïðîòèâîñòîÿòü Âàì.\n\n- À êîãäà Âàø óðîâåíü §Yóãðîçû§! ñíèçèòñÿ, êðóïíûå è îòäàë¸ííûå ãîñóäàðñòâà áóäóò âûíóæäåíû ïîêèíóòü §Yîáîðîíèòåëüíûå ñîþçû§!.\n\n--------------\n Ñ òå÷åíèåì âðåìåíè Âàø óðîâåíü §Yóãðîçû§! ïîñòåïåííî óáûâàåò, íî Âû òàêæå ìîæåòå ñíèçèòü åãî, äàðóÿ íåçàâèñèìîñòü çåìëÿì, êîòîðûå äå-þðå íå ïðèíàäëåæàò Âàøåìó ãîñóäàðñòâó.;;x
+alert_high_infamy_instant;§YYou are Threatening!§!;;;;;;;;;;;§YÂû - óãðîçà ìèðîïîðÿäêó!§!;;x
+alert_high_infamy_name;Threatening;;;;;;;;;;;Óãðîçà;;x
+alert_incoming_crusade_delayed;A Crusade is targeting our religion. We should consider how to best defend against it.;;;;;;;;;;;Êðåñòîâûé ïîõîä óãðîæàåò íàøåé ðåëèãèè. Ìû äîëæíû ïîäóìàòü, êàê ëó÷øå âñåãî çàùèòèòüñÿ îò íåãî.;;x
+alert_incoming_crusade_instant;§YCrusade Against Our Religion§!;;;;;;;;;;;§YÊðåñòîâûé ïîõîä ïðîòèâ íàøåé âåðû§!;;x
+alert_inefficent_land_management_delayed;You have too many holdings in your personal demesne. As a nomad you can only have one holding without penalties. However you might want to keep the land yourself so you can pillage it...$LIST$;;;;;;;;;;;Ó Âàñ ñëèøêîì ìíîãî ëè÷íûõ âëàäåíèé. Êàê êî÷åâíèê, Âû ìîæåòå âëàäåòü ëèøü îäíèì ïîñåëåíèåì áåç øòðàôîâ. Îäíàêî, íå çàáûâàéòå, ÷òî ìîæíî ðàçðóøàòü ïîñåëåíèÿ, îïóñòîøàÿ è ãðàáÿ èõ, åñëè Âû íå õîòèòå äåëèòüñÿ èìè ñ êåì-ëèáî...$LIST$;;x
+alert_inefficent_land_management_instant;§YInefficient Land Management§!;;;;;;;;;;;§YÍåýôôåêòèâíîå ðàñïðåäåëåíèå çåìåëü§!;;x
+alert_inefficent_land_management_name;Inefficient Land Management;;;;;;;;;;;Ðàñïðåäåëåíèå çåìåëü íåýôôåêòèâíî;;x
+alert_liege_council_discontent_delayed;Your Liege's Council has been Discontent for $DISCONTENT_DURATION$ month(s), and will be until §Y$DISCONTENT_END_DATE$§!. This means that if Councilors were prohibited by law from forming and joining Factions, they may now do so. This could potentially destabilize the realm.;;;;;;;;;;;Ñîâåò Âàøåãî ñþçåðåíà íåäîâîëåí óæå $DISCONTENT_DURATION$ ìåñÿöåâ è áóäåò íåäîâîëåí äî §Y$DISCONTENT_END_DATE$§!. Ýòî îçíà÷àåò, ÷òî â òîì ñëó÷àå, åñëè ñîâåòíèêàì çàïðåùåíî çàêîíîì ôîðìèðîâàòü íîâûå ôðàêöèè è âñòóïàòü â ñóùåñòâóþùèå, òåïåðü îíè ìîãóò ýòî äåëàòü, ïîäðûâàÿ òåì ñàìûì öåëîñòíîñòü ãîñóäàðñòâà.;;x
+alert_liege_council_discontent_instant;§YYour Liege's Council is Discontent§!;;;;;;;;;;;§YÑîâåò Âàøåãî ñþçåðåíà íåäîâîëåí§!;;x
+alert_liege_council_discontent_name;Liege Council Discontent;;;;;;;;;;;Ñîâåò ñþçåðåíà íåäîâîëåí;;x
+alert_lose_title_on_succ_delayed;The following titles will be lost on succession:\n$LIST$;;;;;;;;;;;Ñëåäóþùèå çåìëè(òèòóëû) áóäóò ïîòåðÿíû ïðè íàñëåäîâàíèè:\n$LIST$;;x
+alert_lose_title_on_succ_instant;§YTitle Loss on Succession§!;;;;;;;;;;;§YÒèòóë áóäåò ïîòåðÿí ïðè íàñëåäîâàíèè§!;;x
+alert_lose_title_on_succ_name;Title loss on succession;;;;;;;;;;;Òèòóë áóäåò ïîòåðÿí ïðè íàñëåäîâàíèè;;x
+alert_my_peace_being_enforced_delayed;Your Council has declared that peace shall rule the realm! \nYour vassals are unable to wage war on each other for another $MONTHS|Y$ months!;;;;;;;;;;;Âàø ñîâåò îáúÿâèë, ÷òî âíóòðè ñòðàíû îòíûíå äåéñòâóåò ïðèíóäèòåëüíûé ìèð!\nÂàøè âàññàëû íå ñìîãóò îáúÿâëÿòü äðóã äðóãó âîéíû â òå÷åíèå ñëåäóþùèõ $MONTHS|Y$ ìåñÿöåâ!;;x
+alert_my_peace_being_enforced_delayed_days;Your Council has declared that peace shall rule the realm! \nYour vassals are unable to wage war on each other for another $DAYS|Y$ days!;;;;;;;;;;;Âàø ñîâåò îáúÿâèë, ÷òî âíóòðè ñòðàíû îòíûíå äåéñòâóåò ïðèíóäèòåëüíûé ìèð!\nÂàøè âàññàëû íå ñìîãóò îáúÿâëÿòü äðóã äðóãó âîéíû â òå÷åíèå ñëåäóþùèõ $DAYS|Y$ äíåé!;;x
+alert_my_peace_being_enforced_instant;§YRealm Peace Enforced!§!;;;;;;;;;;;§YÌèð âíóòðè ñòðàíû âñòóïèë â ñèëó!§!;;x
+alert_my_peace_soon_enforced_delayed;Your Council has declared that peace shall rule the realm! \nAll internal wars waged between your vassals will end with a §YWhite Peace§! in $MONTHS|Y$ months!;;;;;;;;;;;Âàø ñîâåò îáúÿâèë, ÷òî âíóòðè ñòðàíû áóäåò äåéñòâîâàòü ïðèíóäèòåëüíûé ìèð!\nÂñå âîéíû, êîòîðûå âàññàëû âåäóò ìåæäó ñîáîé çàâåðøàòñÿ §Yáåëûì ìèðîì§! ÷åðåç $MONTHS|Y$ ìåñÿöåâ!;;x
+alert_my_peace_soon_enforced_delayed_days;Your Council has declared that peace shall rule the realm! \nAll internal wars waged between your vassals will end with a §YWhite Peace§! in $DAYS|Y$ days!;;;;;;;;;;;Âàø ñîâåò îáúÿâèë, ÷òî âíóòðè ñòðàíû áóäåò äåéñòâîâàòü ïðèíóäèòåëüíûé ìèð!\nÂñå âîéíû, êîòîðûå âàññàëû âåäóò ìåæäó ñîáîé çàâåðøàòñÿ §Yáåëûì ìèðîì§! ÷åðåç $DAYS|Y$ äíåé!;;x
+alert_my_peace_soon_enforced_instant;§YYou are enforcing Realm Peace!§!;;;;;;;;;;;§YÂû óòâåðäèëè ìèð âíóòðè ñòðàíû!§!;;x
+alert_my_peace_soon_enforced_name;My Realm will soon be at Peace;;;;;;;;;;;Ìî¸ ïðèíóæäåíèå ê ìèðó ñêîðî íàñòóïèò;;x
+alert_no_ambition_delayed;You should pick an Ambition;;;;;;;;;;;Âû äîëæíû âûáðàòü Àìáèöèè;;x
+alert_no_ambition_instant;§YPick an Ambition§!;;;;;;;;;;;§YÂûáåðèòå Öåëü§!;;x
+alert_no_ambition_name;Pick an ambition;;;;;;;;;;;Âûáåðèòå àìáèöèþ;;x
+alert_no_focus_delayed;You should pick a Focus for your character;;;;;;;;;;;Âàì ñëåäóåò âûáðàòü ñâîé æèçíåííûé ïóòü;;x
+alert_no_focus_instant;§YPick a Character Focus§!;;;;;;;;;;;§YÂûáåðèòå ïóòü§!;;x
+alert_no_focus_name;Pick a Focus;;;;;;;;;;;Æèçíåííûé Ïóòü;;x
+alert_noheir_delayed;If your ruler dies now the game will end!;;;;;;;;;;;Åñëè Âàø ïðàâèòåëü óìð¸ò, èãðà áóäåò îêîí÷åíà!;;x
+alert_noheir_instant;§YNo heir of your dynasty!§!;;;;;;;;;;;§YÍåò íàñëåäíèêà!§!;;x
+alert_noheir_name;No heir;;;;;;;;;;;Íåò íàñëåäíèêà;;x
+alert_nomad_agitation_delayed;Unless we construct a §YCastle§! or §YCity§! in the following Counties, they will revert to Nomad control on Succession:\n$LIST$;;;;;;;;;;;Åñëè ìû íå ïîñòðîèì §Yêðåïîñòü§! èëè §Yãîðîä§! â ñëåäóþùèõ îêðóãàõ, îíè ïåðåéäóò â ðóêè êî÷åâíèêîâ:\n$LIST$;;x
+alert_nomad_agitation_delayed_tribal;Unless we have at least §Y$NUM$§! Buildings in the Tribal Holdings of the following Counties, they will revert to Nomad control on Succession:\n$LIST$;;;;;;;;;;;Äî òåõ ïîð, ïîêà ìû íå ïîñòðîèì ïî ìåíüøåé ìåðå §Y$NUM$§! çäàíèÿ â ñ¸ëàõ (ïëåìåííûõ ïîñåëåíèÿõ) ñëåäóþùèõ îêðóãîâ, îíè áóäóò ïîä âëèÿíèåì êî÷åâíèêîâ:\n$LIST$;;x
+alert_nomad_agitation_instant;§YNomad Agitation§!;;;;;;;;;;;§YÁåñïîêîéíûå êî÷åâíèêè§!;;x
+alert_nomad_agitation_name;Nomad Agitation;;;;;;;;;;;Áåñïîêîéíûå êî÷åâíèêè;;x
+alert_non_playable_heir_delayed;Your heir, $HEIR$, currently follows a religion you are not allowed to play. Upon succession they will convert to the religion of your previous character.;;;;;;;;;;;$HEIR$ èñïîâåäóåò ðåëèãèþ, çà êîòîðóþ Âàì íåëüçÿ èãðàòü, ïîýòîìó ïðè íàñëåäîâàíèè, áóäåò âûáðàíà òà ðåëèãèÿ, êîòîðóþ Âû èñïîâåäóåòå ñåé÷àñ.;;x
+alert_non_playable_heir_instant;§YHeir Religion Change on Succession§!;;;;;;;;;;;§YÐåëèãèÿ ïðååìíèêà èçìåíèòñÿ ïðè íàñëåäîâàíèè§!;;x
+alert_northern_crusade_active_delayed;There is currently an ongoing war between the Teutons and the pagans;;;;;;;;;;;Â íàñòîÿùèé ìîìåíò èä¸ò âîéíà ìåæäó òåâòîíöàìè è ÿçû÷íèêàìè;;x
+alert_northern_crusade_active_instant;Northern Crusade;;;;;;;;;;;Ñåâåðíûé êðåñòîâûé ïîõîä;;x
+alert_northern_crusade_help_delayed;You can ask the Teutons to target a pagan ruler for their northern campaigns;;;;;;;;;;;Âû ìîæåòå ïîïðîñèòü Òåâòîíñêèé îðäåí íàïàñòü íà ÿçû÷åñêîãî ïðàâèòåëÿ;;x
+alert_northern_crusade_help_instant;Northern Crusade Target;;;;;;;;;;;Öåëü Ñåâåðíîãî êðåñòîâîãî ïîõîäà;;x
+alert_open_gates_delayed;When you feel safe you can reopen your gates and welcome the outside world once again.;;;;;;;;;;;Êîãäà ïî÷óâñòâóåòå, ÷òî îïàñíîñòü ìèíîâàëà, Âû ìîæåòå ñíîâà îòêðûòü âîðîòà è äîñòóï ê âíåøíåìó ìèðó.;;x
+alert_open_gates_instant;§YYou can Open the Gates§!;;;;;;;;;;;§YÂû ìîæåòå îòêðûòü âîðîòà§!;;x
+alert_open_gates_name;Open the Gates;;;;;;;;;;;Îòêðûòü âîðîòà;;x
+alert_over_clan_limit_delayed;You have §R$NUM$§!/§Y$MAX$§! Clans, giving you a Clan Sentiment penalty towards all Clan vassals.;;;;;;;;;;;Âû èìååòå §R$NUM$§!/§Y$MAX$§! êëàíîâ, ÷òî äà¸ò øòðàô ê §Yíàñòðîåíèþ§! âàññàëüíûõ êëàíîâ.;;x
+alert_over_clan_limit_instant;§YOver Clan Limit§!;;;;;;;;;;;§YÏðåâûøåíèå êëàíîâîãî ëèìèòà§!;;x
+alert_over_clan_limit_name;Over Clan Limit;;;;;;;;;;;Êëàíîâûé ëèìèò ïðåâûøåí;;x
+alert_over_vassal_limit_delayed;You have §R$NUM$§!/§Y$MAX$§! vassals, giving you less taxes and levies from your vassals. You risk losing vassals if your character dies.;;;;;;;;;;;Ó Âàñ §R$NUM$§!/§Y$MAX$§! âàññàëîâ, ïîýòîìó ÷àñòü íàëîãîâ è îïîë÷åíèÿ íå ïîñòóïàåò îò íèõ. Âû ðèñêóåòå ïîòåðÿòü ÷àñòü âàññàëîâ ïðè íàñëåäîâàíèè.;;x
+alert_over_vassal_limit_instant;§YOver Vassal Limit§!;;;;;;;;;;;§YÏðåâûøåíèå âàññàëüíîãî ëèìèòà§!;;x
+alert_over_vassal_limit_name;Over Vassal Limit;;;;;;;;;;;Ïðåâûøåíèå âàññàëüíîãî ëèìèòà;;x
+alert_owns_wrong_settlement_type_delayed;Depending on your circumstances, you might want to '§YCreate New Vassal§!' in the Holding menu, or give the title away.\n\nThe following Holdings are of the wrong type:\n$LIST$;;;;;;;;;;;Â çàâèñèìîñòè îò îáñòîÿòåëüñòâ, Âû ìîæåòå ëèáî §Yñîçäàòü íîâîãî âàññàëà§! â ìåíþ ïîñåëåíèÿ, ëèáî îòäàòü òèòóë êîìó-òî äðóãîìó.\n\nÑëåäóþùèå ïîñåëåíèÿ íåïîäõîäÿùåãî äëÿ Âàñ òèïà:\n$LIST$;;x
+alert_owns_wrong_settlement_type_instant;§YWrong type of Holding in Demesne§!;;;;;;;;;;;§YÍåâåðíûé òèï âëàäåíèÿ â âîò÷èíå!;;x
+alert_owns_wrong_settlement_type_name;Wrong type of holding in demesne;;;;;;;;;;;Íåâåðíûé òèï âëàäåíèÿ â âîò÷èíå;;x
+alert_peace_being_enforced_delayed;The Council of $LIEGE|Y$ has declared that peace shall reign in all the realm! \nVassals of $LIEGE|Y$ are unable to wage war on each other for another $MONTHS|Y$ months!;;;;;;;;;;;$LIEGE|Y$ óâåäîìëÿåò î ðåøåíèè ñîâåòà: îòíûíå âíóòðè ñòðàíû äåéñòâóåò çàêîí î ïðèíóäèòåëüíîì ìèðå!\nÝòî çíà÷èò, ÷òî âàññàëû íå ñìîãóò îáúÿâëÿòü äðóã äðóãó âîéíû â òå÷åíèå ñëåäóþùèõ $MONTHS|Y$ ìåñÿöåâ!;;x
+alert_peace_being_enforced_delayed_days;The Council of $LIEGE|Y$ has declared that peace shall rein in all the realm! \nVassals of $LIEGE|Y$ are unable to wage war on each other for another $DAYS|Y$ days!;;;;;;;;;;;$LIEGE|Y$ óâåäîìëÿåò î ðåøåíèè ñîâåòà: îòíûíå âíóòðè ñòðàíû äåéñòâóåò çàêîí î ïðèíóäèòåëüíîì ìèðå!\nÝòî çíà÷èò, ÷òî âàññàëû íå ñìîãóò îáúÿâëÿòü äðóã äðóãó âîéíû â òå÷åíèå ñëåäóþùèõ $DAYS|Y$ äíåé!;;x
+alert_peace_being_enforced_instant;§YLiege has Enforced Realm Peace!§!;;;;;;;;;;;§YÏðèíóäèòåëüíûé ìèð âíóòðè ñòðàíû âñòóïèë â ñèëó!§!;;x
+alert_peace_being_enforced_name;Realm Peace Enforced;;;;;;;;;;;Ìèð âíóòðè ñòðàíû âñòóïèë â ñèëó;;x
+alert_peace_soon_enforced_delayed;The Council of $LIEGE|Y$ has declared that peace shall reign in all the realm! \nAll internal wars waged between vassals of $LIEGE|Y$ will end with a §YWhite Peace§! in $MONTHS|Y$ months!\n\nIf you are on the Council you can call in a §YFavor§! from $LIEGE|Y$ to prevent the §YRealm Peace§! from being enforced.;;;;;;;;;;;$LIEGE|Y$ óâåäîìëÿåò î ðåøåíèè ñîâåòà: çàêîí î ïðèíóäèòåëüíîì ìèðå âíóòðè ñòðàíû ñêîðî âñòóïèò â ñèëó!\nÂñå âîéíû, êîòîðûå âàññàëû âåäóò ìåæäó ñîáîé çàâåðøàòñÿ §Yáåëûì ìèðîì§! ÷åðåç $MONTHS|Y$ ìåñÿöåâ!\nÅñëè Âû ñîñòîèòå â ñîâåòå, Âû ìîæåòå ïîïðîñèòü îá §Yîäîëæåíèè§! ó ñâîåãî ñþçåðåíà, ÷òîáû ïîëîæåíèå î §Yìèðå âíóòðè ñòðàíû§! áûëî îòìåíåíî.;;x
+alert_peace_soon_enforced_delayed_days;The Council of $LIEGE|Y$ has declared that peace shall rein in all the realm! \nAll internal wars waged between vassals of $LIEGE|Y$ will end with a §YWhite Peace§! in $DAYS|Y$ days!\n\nIf you are on the Council you can call in a §YFavor§! from $LIEGE|Y$ to prevent the §YRealm Peace§! from being enforced.;;;;;;;;;;;$LIEGE|Y$ óâåäîìëÿåò î ðåøåíèè ñîâåòà: çàêîí î ïðèíóäèòåëüíîì ìèðå âíóòðè ñòðàíû ñêîðî âñòóïèò â ñèëó!\nÂñå âîéíû, êîòîðûå âàññàëû âåäóò ìåæäó ñîáîé çàâåðøàòñÿ §Yáåëûì ìèðîì§! ÷åðåç $DAYS|Y$ äíåé!\nÅñëè Âû ñîñòîèòå â ñîâåòå, Âû ìîæåòå ïîïðîñèòü îá §Yîäîëæåíèè§! ó ñâîåãî ñþçåðåíà, ÷òîáû ïîëîæåíèå î §Yìèðå âíóòðè ñòðàíû§! áûëî îòìåíåíî.;;x
+alert_peace_soon_enforced_instant;§YLiege enforcing Realm Peace!§!;;;;;;;;;;;§YÏðèíóæäåíèå ê ìèðó âíóòðè ñòðàíû!§!;;x
+alert_peace_soon_enforced_name;Realm Peace Imminent;;;;;;;;;;;Ìèð âíóòðè ñòðàíû ñêîðî íàñòóïèò;;x
+alert_planning_invasion_delayed;We are preparing to invade §Y$TARGET$§! before §Y$DATE$§!;;;;;;;;;;;Ìû ãîòîâèìñÿ ê âòîðæåíèþ â çåìëè, êîòîðûìè ïðàâèò §Y$TARGET$§! (ñðîêè: §Y$DATE$§!);;x
+alert_planning_invasion_instant;§YPreparing to Invade§!;;;;;;;;;;;§Yãîòîâèò âòîðæåíèå§!;;x
+alert_powerful_factions_delayed;There are powerful dissident Factions in your realm:\n$LIST$;;;;;;;;;;;Â Âàøåé ñòðàíå ñóùåñòâóåò îïàñíàÿ ôðàêöèÿ:\n$LIST$;;x
+alert_powerful_factions_instant;§YDangerous Factions§!;;;;;;;;;;;§YÎïàñíàÿ ôðàêöèÿ§!;;x
+alert_powerful_factions_name;Dangerous Factions;;;;;;;;;;;Îïàñíûå ôðàêöèè;;x
+alert_reconquista_active_delayed;There is currently an ongoing Reconquest war at the Iberian Peninsula;;;;;;;;;;;Â íàñòîÿùèé ìîìåíò èä¸ò çàâîåâàíèå Ïèðåíåéñêîãî ïîëóîñòðîâà;;x
+alert_reconquista_active_instant;Reconquest;;;;;;;;;;;Ðåêîíêèñòà;;x
+alert_reconquista_timer_delayed;You have until [Root.reconquista_preparation_left.GetExpiryDate] to declare a Reconquest War;;;;;;;;;;;Ó Âàñ åñòü âðåìÿ äî [Root.reconquista_preparation_left.GetExpiryDate], ÷òîáû íà÷àòü Ðåêîíêèñòó;;x
+alert_reconquista_timer_instant;Planning a Reconquest;;;;;;;;;;;Ïîäãîòîâêà Ðåêîíêèñòû;;x
+alert_revoltrisk_in_provinces_delayed;The following counties run a risk of having a revolt:\n$LIST$;;;;;;;;;;;Â ñëåäóþùèõ îêðóãàõ âîçìîæíû âîññòàíèÿ:\n$LIST$;;x
+alert_revoltrisk_in_provinces_instant;§YRevolts Possible§!;;;;;;;;;;;§YÂîçìîæíû âîññòàíèÿ!§!;;x
+alert_revoltrisk_in_provinces_name;Revolts possible;;;;;;;;;;;Âîçìîæíû âîññòàíèÿ;;x
+alert_ruler_should_marry_delayed;You should get married\n§GClick to go to Character View§!;;;;;;;;;;;Âàì ñëåäóåò âñòóïèòü â áðàê\n§GÍàæìèòå, ÷òîáû ïåðåéòè íà ýêðàí ïåðñîíàæà§!;;x
+alert_ruler_should_marry_instant;§YRuler Unmarried§!;;;;;;;;;;;§YÏðàâèòåëü íå â áðàêå§!;;x
+alert_ruler_should_marry_name;Ruler unmarried;;;;;;;;;;;Ïðàâèòåëü íå â áðàêå;;x
+alert_should_appoint_guardian_delayed;The following children need a guardian:\n$LIST$;;;;;;;;;;;Ñëåäóþùèì äåòÿì íóæåí íàñòàâíèê:\n$LIST$;;x
+alert_should_appoint_guardian_instant;§Y$NUM$ Children Lack a Guardian§!;;;;;;;;;;;§Y$NUM$ äåòåé áåç íàñòàâíèêà§!;;x
+alert_should_appoint_guardian_name;Children lack guardian;;;;;;;;;;;Ðåá¸íîê áåç íàñòàâíèêà;;x
+alert_should_nominate_heir_delayed;You should nominate successors for these titles:\n$LIST$;;;;;;;;;;;Âû äîëæíû íàçíà÷èòü íàñëåäíèêîâ ñëåäóþùèõ çåìåëüíûõ òèòóëîâ:\n$LIST$;;x
+alert_should_nominate_heir_instant;§YSuccessor Nomination§!;;;;;;;;;;;§YÍàçíà÷èòü íàñëåäíèêà§!;;x
+alert_should_nominate_heir_name;Succession nomination;;;;;;;;;;;Íàçíà÷èòü íàñëåäíèêà;;x
+alert_society_rank_up_possible_delayed;You have gained enough influence within your society that you can request promotion to the next rank.;;;;;;;;;;;Âû îáðåëè äîñòàòî÷íî âëèÿíèÿ â ñâî¸ì îáùåñòâå, ÷òîáû ïîòðåáîâàòü ïðîäâèæåíèÿ ïî ðàíãó.;;x
+alert_society_rank_up_possible_instant;§YPossible to rank up in society§!;;;;;;;;;;;§YÌîæíî ïîäíÿòü ðàíã â îáùåñòâå§!;;x
+alert_titles_may_pass_from_realm_delayed;There are vassals with worrisome lines of succession.\nOn death, their titles might pass from your Realm:\n$LIST$;;;;;;;;;;;Ó íåêîòîðûõ âàññàëîâ íàñëåäíèêè èç äðóãèõ ãîñóäàðñòâ.\nÂ ñëó÷àå ñìåðòè, èõ çåìåëüíûå òèòóëû ìîãóò ïîêèíóòü Âàøó ñòðàíó:\n$LIST$;;x
+alert_titles_may_pass_from_realm_instant;§YVassal Inheritance Warning§!;;;;;;;;;;;§YÍàñëåäñòâî âàññàëîâ§!;;x
+alert_titles_may_pass_from_realm_name;Vassal inheritance warning;;;;;;;;;;;Íàñëåäñòâî âàññàëîâ;;x
+alert_too_few_clans_delayed;You hold too much land compared to the other Clans. Hand out §Y$NUM$§! counties or you might face revolts from the existing Clans as it negatively affects their §YClan Sentiment§! of you. You can also face a §YMinor Clan Rising§! revolt to seize its rightful position among the major Clans...;;;;;;;;;;;Ó Âàñ ñëèøêîì ìíîãî çåìåëü â ñðàâíåíèè ñ äðóãèìè êëàíàìè. Ðàçäàéòå §Y$NUM$§! íàäåëîâ (îêðóãîâ), ÷òîáû èçáåæàòü âîçìîæíîñòè êëàíîâûõ ìÿòåæåé, èç-çà òîãî, ÷òî èõ §Yíàñòðîåíèå§! ïî îòíîøåíèþ ê Âàøåìó êëàíó ñëèøêîì íåãàòèâíî. Êðîìå òîãî, Âû ìîæåòå ñòîëêíóòüñÿ ñ §Yâîññòàíèåì ìàëîãî êëàíà§!, êîòîðûé çàõî÷åò çàíÿòü ìåñòî ñðåäè âåäóøèõ...;;x
+alert_too_few_clans_instant;§YClans Want More Land§!;;;;;;;;;;;§YÊëàíàì íóæíî áîëüøå çåìåëü§!;;x
+alert_too_few_clans_name;Clans Want More Land;;;;;;;;;;;Êëàíàì íóæíî áîëüøå çåìåëü;;x
+alert_troops_in_foreign_territory_delayed;In $LIST$.;;;;;;;;;;;Â ñëåäóþùèõ îêðóãàõ: $LIST$.;;x
+alert_troops_in_foreign_territory_instant;§YYou have troops in foreign territory.§!;;;;;;;;;;;§YÂàøè âîéñêà íàõîäÿòñÿ íà ÷óæîé òåððèòîðèè!§!;;x
+alert_troops_in_foreign_territory_name;Troops in foreign territory;;;;;;;;;;;Âîéñêà íà ÷óæîé òåððèòîðèè;;x
+alert_truce_expiring_delayed;The Following Truces are Expiring:$LIST$;;;;;;;;;;;Ñðîê ñëåäóþùèõ ìèðíûõ äîãîâîðîâ èñòåêàåò:$LIST$;;x
+alert_truce_expiring_instant;§YTruces are Expiring§!;;;;;;;;;;;§YÑðîê ïåðåìèðèÿ ïîäõîäèò ê êîíöó§!;;x
+alert_truce_expiring_name;Truces are expiring;;;;;;;;;;;Èñòåêàåò ïåðåìèðèå;;x
+alert_vassal_levies_raised_long_delayed;The following Vassals are upset about their levies:\n$LIST$;;;;;;;;;;;Ñëåäóþùèå âàññàëû ðàññòðîåíû èñïîëüçîâàíèåì èõ îïîë÷åíöåâ:\n$LIST$;;x
+alert_vassal_levies_raised_long_instant;§YVassal Levies Raised too Long§!;;;;;;;;;;;§YÎïîë÷åíèå íàøèõ âàññàëîâ ñëèøêîì äîëãî â ñòðîþ§!;;x
+alert_vassal_levies_raised_long_name;Vassal levies raised too long;;;;;;;;;;;Îïîë÷åíèå âàññàëîâ ñîáðàíî ñëèøêîì äîëãî;;x
+alert_wonder_construction_paused_delayed;The following great works have paused construction:\n\n$LIST$;;;;;;;;;;;Ñòðîèòåëüñòâî ñëåäóþùèõ âåëèêèõ ñîîðóæåíèé ïðèîñòàíîâëåíî:\n\n$LIST$;;x
+alert_wonder_construction_paused_instant;§YGreat Work Construction Paused§!;;;;;;;;;;;§YÑòðîèòåëüñòâî âåëèêîãî ñîîðóæåíèÿ ïðèîñòàíîâëåíî§!;;x
+alert_wonder_construction_paused_name;Paused great work construction;;;;;;;;;;;Ñòðîèòåëüñòâî âåëèêîãî ñîîðóæåíèÿ ïðèîñòàíîâëåíî;;x
+alert_you_can_create_titles_delayed;The following titles can be created:\n$LIST$;;;;;;;;;;;Ìîæíî ñîçäàòü ñëåäóþùèå òèòóëû:\n$LIST$;;x
+alert_you_can_create_titles_instant;§Y$NUM$ Title(s) can be Created§!;;;;;;;;;;;§YÌîæíî ñîçäàòü $NUM$ òèòóë(îâ)§!;;x
+alert_you_can_create_titles_name;Can create titles;;;;;;;;;;;Ìîæíî ñîçäàòü òèòóëû;;x
+alert_you_can_usurp_titles_delayed;The following titles can be usurped:\n$LIST$;;;;;;;;;;;Ñëåäóþùèå òèòóëû ìîæíî óçóðïèðîâàòü:\n$LIST$;;x
+alert_you_can_usurp_titles_instant;§Y$NUM$ Title(s) can be Usurped§!;;;;;;;;;;;§YÌîæíî óçóðïèðîâàòü $NUM$ òèòóë(îâ)§!;;x
+alert_you_can_usurp_titles_name;Can usurp titles;;;;;;;;;;;Òèòóëû ìîæíî óçóðïèðîâàòü;;x

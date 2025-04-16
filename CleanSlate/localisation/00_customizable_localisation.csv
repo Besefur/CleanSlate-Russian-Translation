@@ -1,339 +1,333 @@
-getDuelTitle;[Root.GetDuelTitle];;;;;;;;;;;;;x
-GetRelation_Acquaintance;acquaintance;;;;;;;;;;;;;x
-GetRelation_antagonist;antagonist;;;;;;;;;;;;;x
-GetRelation_Aunt;aunt;;;;;;;;;;;;;x
-GetRelation_Brother;brother;;;;;;;;;;;;;x
-GetRelation_BrotherHusband;brother-husband;;;;;;;;;;;;;x
-GetRelation_BrotherInLaw;brother-in-law;;;;;;;;;;;;;x
-GetRelation_Concubine;concubine;;;;;;;;;;;;;x
-GetRelation_Consort;Consort;;;;;;;;;;;;;x
-GetRelation_Courtier;courtier;;;;;;;;;;;;;x
-GetRelation_Courtier_Female;courtier;;;;;;;;;;;;;x
-GetRelation_Courtier_Male;courtier;;;;;;;;;;;;;x
-GetRelation_Cousin;cousin;;;;;;;;;;;;;x
-GetRelation_Cousin_Female;cousin;;;;;;;;;;;;;x
-GetRelation_Cousin_Male;cousin;;;;;;;;;;;;;x
-GetRelation_Daughter;daughter;;;;;;;;;;;;;x
-GetRelation_DaughterWife;daughter-wife;;;;;;;;;;;;;x
-GetRelation_enemy;enemy;;;;;;;;;;;;;x
-GetRelation_Father;father;;;;;;;;;;;;;x
-GetRelation_FatherHusband;father-husband;;;;;;;;;;;;;x
-GetRelation_FatherInLaw;Father-in-Law;;;;;;;;;;;;;x
-GetRelation_fellow_member;fellow member of [This.Society.GetName];;;;;;;;;;;;;x
-GetRelation_Friend;friend;;;;;;;;;;;;;x
-GetRelation_Friend_Female;friend;;;;;;;;;;;;;x
-GetRelation_Friend_Male;friend;;;;;;;;;;;;;x
-GetRelation_Granddaughter;granddaughter;;;;;;;;;;;;;x
-GetRelation_Grandfather;grandfather;;;;;;;;;;;;;x
-GetRelation_Grandmother;grandmother;;;;;;;;;;;;;x
-GetRelation_Grandson;grandson;;;;;;;;;;;;;x
-GetRelation_Husband;husband;;;;;;;;;;;;;x
-GetRelation_Kinsman;kinsman;;;;;;;;;;;;;x
-GetRelation_Kinswoman;kinswoman;;;;;;;;;;;;;x
-GetRelation_Liege;liege;;;;;;;;;;;;;x
-GetRelation_Liege_Female;liege;;;;;;;;;;;;;x
-GetRelation_Liege_Male;liege;;;;;;;;;;;;;x
-GetRelation_Lover;lover;;;;;;;;;;;;;x
-GetRelation_Lover_Female;lover;;;;;;;;;;;;;x
-GetRelation_Lover_Male;lover;;;;;;;;;;;;;x
-GetRelation_Mother;mother;;;;;;;;;;;;;x
-GetRelation_MotherInLaw;Mother-in-Law;;;;;;;;;;;;;x
-GetRelation_MotherWife;mother-wife;;;;;;;;;;;;;x
-GetRelation_Nephew;nephew;;;;;;;;;;;;;x
-GetRelation_Niece;niece;;;;;;;;;;;;;x
-GetRelation_Rival;rival;;;;;;;;;;;;;x
-GetRelation_Rival_Female;rival;;;;;;;;;;;;;x
-GetRelation_Rival_Male;rival;;;;;;;;;;;;;x
-GetRelation_Sister;sister;;;;;;;;;;;;;x
-GetRelation_SisterInLaw;sister-in-law;;;;;;;;;;;;;x
-GetRelation_SisterWife;sister-wife;;;;;;;;;;;;;x
-GetRelation_Son;son;;;;;;;;;;;;;x
-GetRelation_SonHusband;son-husband;;;;;;;;;;;;;x
-GetRelation_sway_target;target of diplomatic efforts;;;;;;;;;;;;;x
-GetRelation_Uncle;uncle;;;;;;;;;;;;;x
-GetRelation_Vassal;vassal;;;;;;;;;;;;;x
-GetRelation_Vassal_Female;vassal;;;;;;;;;;;;;x
-GetRelation_Vassal_Male;vassal;;;;;;;;;;;;;x
-GetRelation_Wife;wife;;;;;;;;;;;;;x
-GetSocietyRankUpTooltip2_Standard;.\n;;;;;;;;;;;;;x
-GetTitle_Lady;Lady;;;;;;;;;;;;;x
-GetTitle_Lord;Lord;;;;;;;;;;;;;x
-String_root_relation_fallback;acquaintance;;;;;;;;;;;;;x
-
+getDuelTitle;[Root.GetDuelTitle];;;;;;;;;;;[Root.GetDuelTitle];;x
+GetRelation_Acquaintance;acquaintance;;;;;;;;;;;çíàêîìûé;;x
+GetRelation_antagonist;antagonist;;;;;;;;;;;îïïîíåíò[This.GetEndKa];;x
+GetRelation_Aunt;aunt;;;;;;;;;;;ò¸òÿ;;x
+GetRelation_Brother;brother;;;;;;;;;;;áðàò;;x
+GetRelation_BrotherHusband;brother-husband;;;;;;;;;;;áðàò è ìóæ;;x
+GetRelation_BrotherInLaw;brother-in-law;;;;;;;;;;;ñâîÿê;;x
+GetRelation_Concubine;concubine;;;;;;;;;;;íàëîæíèöà;;x
+GetRelation_Consort;Consort;;;;;;;;;;;íàëîæíèê;;x
+GetRelation_Courtier;courtier;;;;;;;;;;;ïðèäâîðí[This.GetAyaYy];;x
+GetRelation_Courtier_Female;courtier;;;;;;;;;;;ïðèäâîðíàÿ;;x
+GetRelation_Courtier_Male;courtier;;;;;;;;;;;ïðèäâîðíûé;;x
+GetRelation_Cousin;cousin;;;;;;;;;;;êóç[This.GetInaEn];;x
+GetRelation_Cousin_Female;cousin;;;;;;;;;;;êóçèíà;;x
+GetRelation_Cousin_Male;cousin;;;;;;;;;;;êóçåí;;x
+GetRelation_Daughter;daughter;;;;;;;;;;;äî÷ü;;x
+GetRelation_DaughterWife;daughter-wife;;;;;;;;;;;äî÷ü è æåíà;;x
+GetRelation_enemy;enemy;;;;;;;;;;;âîåíí[This.GetAyaYy] ïðîòèâíè[This.GetTsaK];;x
+GetRelation_Father;father;;;;;;;;;;;îòåö;;x
+GetRelation_FatherHusband;father-husband;;;;;;;;;;;îòåö è ìóæ;;x
+GetRelation_FatherInLaw;Father-in-Law;;;;;;;;;;;òåñòü/ñâ¸êîð;;x
+GetRelation_fellow_member;fellow member of [This.Society.GetName];;;;;;;;;;;ñîðàòíè[This.GetTsaK];;x
+GetRelation_Friend;friend;;;;;;;;;;;[This.GetFriendMF];;x
+GetRelation_Friend_Female;friend;;;;;;;;;;;ïîäðóãà;;x
+GetRelation_Friend_Male;friend;;;;;;;;;;;äðóã;;x
+GetRelation_Granddaughter;granddaughter;;;;;;;;;;;âíó÷êà;;x
+GetRelation_Grandfather;grandfather;;;;;;;;;;;äåä;;x
+GetRelation_Grandmother;grandmother;;;;;;;;;;;áàáóøêà;;x
+GetRelation_Grandson;grandson;;;;;;;;;;;âíóê;;x
+GetRelation_Husband;husband;;;;;;;;;;;ìóæ;;x
+GetRelation_Kinsman;kinsman;;;;;;;;;;;ðîäñòâåííèê;;x
+GetRelation_Kinswoman;kinswoman;;;;;;;;;;;ðîäñòâåííèöà;;x
+GetRelation_Liege;liege;;;;;;;;;;;[This.GetLordLady];;x
+GetRelation_Liege_Female;liege;;;;;;;;;;;ãîñïîæà;;x
+GetRelation_Liege_Male;liege;;;;;;;;;;;ãîñïîäèí;;x
+GetRelation_Lover;lover;;;;;;;;;;;ëþáîâíè[This.GetTsaK];;x
+GetRelation_Lover_Female;lover;;;;;;;;;;;ëþáîâíèöà;;x
+GetRelation_Lover_Male;lover;;;;;;;;;;;ëþáîâíèê;;x
+GetRelation_Mother;mother;;;;;;;;;;;ìàòóøêà;;x
+GetRelation_MotherInLaw;Mother-in-Law;;;;;;;;;;;ò¸ùà/ñâåêðîâü;;x
+GetRelation_MotherWife;mother-wife;;;;;;;;;;;ìàòü è æåíà;;x
+GetRelation_Nephew;nephew;;;;;;;;;;;ïëåìÿííèê;;x
+GetRelation_Niece;niece;;;;;;;;;;;ïëåìÿííèöà;;x
+GetRelation_Rival;rival;;;;;;;;;;;ïðîòèâíè[This.GetTsaK];;x
+GetRelation_Rival_Female;rival;;;;;;;;;;;ñîïåðíèöà;;x
+GetRelation_Rival_Male;rival;;;;;;;;;;;ñîïåðíèê;;x
+GetRelation_Sister;sister;;;;;;;;;;;ñåñòðà;;x
+GetRelation_SisterInLaw;sister-in-law;;;;;;;;;;;ñâîÿ÷åíèöà;;x
+GetRelation_SisterWife;sister-wife;;;;;;;;;;;ñåñòðà è æåíà;;x
+GetRelation_Son;son;;;;;;;;;;;ñûí;;x
+GetRelation_SonHusband;son-husband;;;;;;;;;;;ñûí è ìóæ;;x
+GetRelation_sway_target;target of diplomatic efforts;;;;;;;;;;;ïîòåíöèàëüí[This.GetAyaYy] ñîáåñåäíè[This.GetTsaK];;x
+GetRelation_Uncle;uncle;;;;;;;;;;;äÿäÿ;;x
+GetRelation_Vassal;vassal;;;;;;;;;;;âàññàë[This.GetEndKa];;x
+GetRelation_Vassal_Female;vassal;;;;;;;;;;;âàññàëêà;;x
+GetRelation_Vassal_Male;vassal;;;;;;;;;;;âàññàë;;x
+GetRelation_Wife;wife;;;;;;;;;;;æåíà;;x
+GetSocietyRankUpTooltip2_Standard;.\n;;;;;;;;;;;.\n;;x
+GetTitle_Lady;Lady;;;;;;;;;;;ãîñïîæà;;x
+GetTitle_Lord;Lord;;;;;;;;;;;ãîñïîäèí;;x
+String_root_relation_fallback;acquaintance;;;;;;;;;;;çíàêîì[This.GetAyaYy];;x
 # CleanSlate:
-GetAdultComplimentKey;[GetAdultComplimentAdjective] [GetAdultComplimentNoun];;;;;;;;;;;;;x
-GetAdultComplimentNounKey;[GetAdultComplimentNoun];;;;;;;;;;;;;x
-GetAdultComplimentAdjectiveKey;[GetAdultComplimentAdjective];;;;;;;;;;;;;x
-GetAdultInsultKey;[GetAdultInsultAdjective] [GetAdultInsultNoun];;;;;;;;;;;;;x
-GetAdultInsultNounKey;[GetAdultInsultNoun];;;;;;;;;;;;;x
-GetAdultInsultAdjectiveKey;[GetAdultInsultAdjective];;;;;;;;;;;;;x
-GetChildComplimentKey;[GetChildComplimentAdjective] [GetChildComplimentNoun];;;;;;;;;;;;;x
-GetChildComplimentNounKey;[GetChildComplimentNoun];;;;;;;;;;;;;x
-GetChildComplimentAdjectiveKey;[GetChildComplimentAdjective];;;;;;;;;;;;;x
-GetChildInsultKey;[GetChildInsultAdjective] [GetChildInsultNoun];;;;;;;;;;;;;x
-GetChildInsultNounKey;[GetChildInsultNoun];;;;;;;;;;;;;x
-GetChildInsultAdjectiveKey;[GetChildInsultAdjective];;;;;;;;;;;;;x
-
-GetParentKey;[GetParent];;;;;;;;;;;;;x
-GetGrandParentKey;[GetGrandParent];;;;;;;;;;;;;x
-GetChildKey;[GetChild];;;;;;;;;;;;;x
-GetGrandChildKey;[GetGrandChild];;;;;;;;;;;;;x
-GetSiblingKey;[GetSibling];;;;;;;;;;;;;x
-GetConcubineConsortKey;[GetConcubineConsort];;;;;;;;;;;;;x
-GetRivalKey;[GetRival];;;;;;;;;;;;;x
-GetFriendKey;[GetFriend];;;;;;;;;;;;;x
-GetLoverKey;[GetLover];;;;;;;;;;;;;x
-GetAuntUncleKey;[GetAuntUncle];;;;;;;;;;;;;x
-GetNiblingKey;[GetNibling];;;;;;;;;;;;;x
-GetCousinKey;[GetCousin];;;;;;;;;;;;;x
-GetSiblingInLawKey;[GetSiblingInLaw];;;;;;;;;;;;;x
-GetParentInLawKey;[GetParentInLaw];;;;;;;;;;;;;x
-GetKinKey;[GetKin];;;;;;;;;;;;;x
-GetLiegeKey;[GetLiege];;;;;;;;;;;;;x
-GetVassalKey;[GetVassal];;;;;;;;;;;;;x
-GetCourtierKey;[GetCourtier];;;;;;;;;;;;;x
-
-GetSpouse_ParentKey;[GetSpouseParent];;;;;;;;;;;;;x
-GetSpouse_SiblingKey;[GetSpouseSibling];;;;;;;;;;;;;x
-GetSpouse_ChildKey;[GetSpouseChild];;;;;;;;;;;;;x
-GetSpouseKey;[GetSpouse];;;;;;;;;;;;;x
-GetSpouseRootKey;[GetSpouseRoot];;;;;;;;;;;;;x
-GetSpouseEventTarget1Key;[GetSpouseEventTarget1];;;;;;;;;;;;;x
-GetSpouseEventTarget2Key;[GetSpouseEventTarget2];;;;;;;;;;;;;x
-GetSpouseEventTarget3Key;[GetSpouseEventTarget3];;;;;;;;;;;;;x
-GetSpouseEventTarget4Key;[GetSpouseEventTarget4];;;;;;;;;;;;;x
-
-GetMercuryName_Key;[GetMercuryName];;;;;;;;;;;;;x
-GetVenusName_Key;[GetVenusName];;;;;;;;;;;;;x
-GetMarsName_Key;[GetMarsName];;;;;;;;;;;;;x
-GetJupiterName_Key;[GetJupiterName];;;;;;;;;;;;;x
-GetSaturnName_Key;[GetSaturnName];;;;;;;;;;;;;x
-GetUranusName_Key;[GetUranusName];;;;;;;;;;;;;x
-GetNeptuneName_Key;[GetNeptuneName];;;;;;;;;;;;;x
-GetPlutoName_Key;[GetPlutoName];;;;;;;;;;;;;x
-
+GetAdultComplimentKey;[GetAdultComplimentAdjective] [GetAdultComplimentNoun];;;;;;;;;;;[GetAdultComplimentAdjective] [GetAdultComplimentNoun];;x
+GetAdultComplimentNounKey;[GetAdultComplimentNoun];;;;;;;;;;;[GetAdultComplimentNoun];;x
+GetAdultComplimentAdjectiveKey;[GetAdultComplimentAdjective];;;;;;;;;;;[GetAdultComplimentAdjective];;x
+GetAdultInsultKey;[GetAdultInsultAdjective] [GetAdultInsultNoun];;;;;;;;;;;[GetAdultInsultAdjective] [GetAdultInsultNoun];;x
+GetAdultInsultNounKey;[GetAdultInsultNoun];;;;;;;;;;;[GetAdultInsultNoun];;x
+GetAdultInsultAdjectiveKey;[GetAdultInsultAdjective];;;;;;;;;;;[GetAdultInsultAdjective];;x
+GetChildComplimentKey;[GetChildComplimentAdjective] [GetChildComplimentNoun];;;;;;;;;;;[GetChildComplimentAdjective] [GetChildComplimentNoun];;x
+GetChildComplimentNounKey;[GetChildComplimentNoun];;;;;;;;;;;[GetChildComplimentNoun];;x
+GetChildComplimentAdjectiveKey;[GetChildComplimentAdjective];;;;;;;;;;;[GetChildComplimentAdjective];;x
+GetChildInsultKey;[GetChildInsultAdjective] [GetChildInsultNoun];;;;;;;;;;;[GetChildInsultAdjective] [GetChildInsultNoun];;x
+GetChildInsultNounKey;[GetChildInsultNoun];;;;;;;;;;;[GetChildInsultNoun];;x
+GetChildInsultAdjectiveKey;[GetChildInsultAdjective];;;;;;;;;;;[GetChildInsultAdjective];;x
+GetParentKey;[GetParent];;;;;;;;;;;[GetParent];;x
+GetGrandParentKey;[GetGrandParent];;;;;;;;;;;[GetGrandParent];;x
+GetChildKey;[GetChild];;;;;;;;;;;[GetChild];;x
+GetGrandChildKey;[GetGrandChild];;;;;;;;;;;[GetGrandChild];;x
+GetSiblingKey;[GetSibling];;;;;;;;;;;[GetSibling];;x
+GetConcubineConsortKey;[GetConcubineConsort];;;;;;;;;;;[GetConcubineConsort];;x
+GetRivalKey;[GetRival];;;;;;;;;;;[GetRival];;x
+GetFriendKey;[GetFriend];;;;;;;;;;;[GetFriend];;x
+GetLoverKey;[GetLover];;;;;;;;;;;[GetLover];;x
+GetAuntUncleKey;[GetAuntUncle];;;;;;;;;;;[GetAuntUncle];;x
+GetNiblingKey;[GetNibling];;;;;;;;;;;[GetNibling];;x
+GetCousinKey;[GetCousin];;;;;;;;;;;[GetCousin];;x
+GetSiblingInLawKey;[GetSiblingInLaw];;;;;;;;;;;[GetSiblingInLaw];;x
+GetParentInLawKey;[GetParentInLaw];;;;;;;;;;;[GetParentInLaw];;x
+GetKinKey;[GetKin];;;;;;;;;;;[GetKin];;x
+GetLiegeKey;[GetLiege];;;;;;;;;;;[GetLiege];;x
+GetVassalKey;[GetVassal];;;;;;;;;;;[GetVassal];;x
+GetCourtierKey;[GetCourtier];;;;;;;;;;;[GetCourtier];;x
+GetSpouse_ParentKey;[GetSpouseParent];;;;;;;;;;;[GetSpouseParent];;x
+GetSpouse_SiblingKey;[GetSpouseSibling];;;;;;;;;;;[GetSpouseSibling];;x
+GetSpouse_ChildKey;[GetSpouseChild];;;;;;;;;;;[GetSpouseChild];;x
+GetSpouseKey;[GetSpouse];;;;;;;;;;;[GetSpouse];;x
+GetSpouseRootKey;[GetSpouseRoot];;;;;;;;;;;[GetSpouseRoot];;x
+GetSpouseEventTarget1Key;[GetSpouseEventTarget1];;;;;;;;;;;[GetSpouseEventTarget1];;x
+GetSpouseEventTarget2Key;[GetSpouseEventTarget2];;;;;;;;;;;[GetSpouseEventTarget2];;x
+GetSpouseEventTarget3Key;[GetSpouseEventTarget3];;;;;;;;;;;[GetSpouseEventTarget3];;x
+GetSpouseEventTarget4Key;[GetSpouseEventTarget4];;;;;;;;;;;[GetSpouseEventTarget4];;x
+GetMercuryName_Key;[GetMercuryName];;;;;;;;;;;[GetMercuryName];;x
+GetVenusName_Key;[GetVenusName];;;;;;;;;;;[GetVenusName];;x
+GetMarsName_Key;[GetMarsName];;;;;;;;;;;[GetMarsName];;x
+GetJupiterName_Key;[GetJupiterName];;;;;;;;;;;[GetJupiterName];;x
+GetSaturnName_Key;[GetSaturnName];;;;;;;;;;;[GetSaturnName];;x
+GetUranusName_Key;[GetUranusName];;;;;;;;;;;[GetUranusName];;x
+GetNeptuneName_Key;[GetNeptuneName];;;;;;;;;;;[GetNeptuneName];;x
+GetPlutoName_Key;[GetPlutoName];;;;;;;;;;;[GetPlutoName];;x
 # Pregnancy mess
-string_generic_physician_helps_522;\nYour §YPhysician§! advices you to take slow, deep breaths.;;;;;;;;;;;;;x
-string_generic_physician_helps_523;\nYour §YPhysician§! holds you still, helping you clean your face.;;;;;;;;;;;;;x
-string_generic_physician_helps_524;\nYour §YPhysician§! applies a smelly mixture over your rashes.;;;;;;;;;;;;;x
-string_generic_physician_helps_525;\nYour §YPhysician§! offers you a potion to clean your mouth.;;;;;;;;;;;;;x
-string_generic_physician_helps_526;\nYour §YPhysician§! places a damp cloth over your forehead, urging the servants to bring more water.;;;;;;;;;;;;;x
-string_generic_physician_helps_527;\nYour §YPhysician§! decides to make you breathe some healing fumes to help you restore your memory.;;;;;;;;;;;;;x
-string_generic_physician_helps_528;\nYour §YPhysician§! gently reassures you that everything is alright and you should go back to rest.;;;;;;;;;;;;;x
-string_generic_physician_helps_529;\nYour §YPhysician§! prepares an infuse to restore your appetite.;;;;;;;;;;;;;x
-string_generic_physician_helps_530;\nYour §YPhysician§! urges your servants to hold you still until the episode ends.;;;;;;;;;;;;;x
-string_generic_physician_helps_531;\nYour §YPhysician§! calls for more bedsheets and urges you to hold still and breathe slowly.;;;;;;;;;;;;;x
-string_generic_physician_helps_532;\nYour §YPhysician§! orders your servants to prepare a tepid soup.;;;;;;;;;;;;;x
-string_generic_physician_helps_533;\nYour §YPhysician§! prepares a potion to help you sleep.;;;;;;;;;;;;;x
-string_generic_physician_helps_534;\nYour §YPhysician§! offers you a poultice, urging you to take it immediately.;;;;;;;;;;;;;x
-string_generic_physician_helps_535;\nYour §YPhysician§! gently reassures you and helps you back to your chambers.;;;;;;;;;;;;;x
-string_generic_physician_helps_540;\nYour §YPhysician§! places a damp cloth over your forehead, urging the servants to bring more water.;;;;;;;;;;;;;x
-string_generic_physician_helps_541;\nYour §YPhysician§! applies a smelly mixture over your head.;;;;;;;;;;;;;x
-string_generic_physician_helps_542;\nYour §YPhysician§! calls for more bedsheets and urges you to hold still and breathe slowly.;;;;;;;;;;;;;x
-string_mother_physician_helps_522;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! advices you to take slow, deep breaths.;;;;;;;;;;;;;x
-string_mother_physician_helps_523;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! holds you still, helping you clean your face.;;;;;;;;;;;;;x
-string_mother_physician_helps_524;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! applies a smelly mixture over your rashes.;;;;;;;;;;;;;x
-string_mother_physician_helps_525;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! offers you a potion to clean your mouth.;;;;;;;;;;;;;x
-string_mother_physician_helps_526;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! places a damp cloth over your forehead, urging the servants to bring more water.;;;;;;;;;;;;;x
-string_mother_physician_helps_527;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! decides to make you breathe some healing fumes to help you restore your memory.;;;;;;;;;;;;;x
-string_mother_physician_helps_528;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! gently reassures you that everything is alright and you should go back to rest.;;;;;;;;;;;;;x
-string_mother_physician_helps_529;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! prepares an infuse to restore your appetite.;;;;;;;;;;;;;x
-string_mother_physician_helps_530;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! urges your servants to hold you still until the episode ends.;;;;;;;;;;;;;x
-string_mother_physician_helps_531;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! calls for more bedsheets and urges you to hold still and breathe slowly.;;;;;;;;;;;;;x
-string_mother_physician_helps_532;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! orders your servants to prepare a tepid soup.;;;;;;;;;;;;;x
-string_mother_physician_helps_533;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! prepares a potion to help you sleep.;;;;;;;;;;;;;x
-string_mother_physician_helps_534;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! offers you a poultice, urging you to take it immediately.;;;;;;;;;;;;;x
-string_mother_physician_helps_535;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! gently reassures you and helps you back to your chambers.;;;;;;;;;;;;;x
-string_mother_physician_helps_540;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! places a damp cloth over your forehead, urging the servants to bring more water.;;;;;;;;;;;;;x
-string_mother_physician_helps_541;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! applies a smelly mixture over your head.;;;;;;;;;;;;;x
-string_mother_physician_helps_542;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! calls for more bedsheets and urges you to hold still and breathe slowly.;;;;;;;;;;;;;x
-string_priest_comfort_522;\nThe §YPriest§! offers you to join him in prayer.;;;;;;;;;;;;;x
-string_priest_comfort_523;\nThe §YPriest§! urges you to keep puking the sickness out of your body.;;;;;;;;;;;;;x
-string_priest_comfort_524;\nThe §YPriest§! warns you to stop scratching yourself and turn your thoughts to [Root.Religion.GetRandomGodName].;;;;;;;;;;;;;x
-string_priest_comfort_525;\nThe §YPriest§! suggests you to fast for a few days.;;;;;;;;;;;;;x
-string_priest_comfort_526;\nYou hear the §YPriest's§! voice in the distance, reciting a familiar prayer.;;;;;;;;;;;;;x
-string_priest_comfort_527;\nThe §YPriest§! recites old tales from the [Root.Religion.GetScriptureName], interrogating you on some of the things you have forgotten.;;;;;;;;;;;;;x
-string_priest_comfort_528;\nThe §YPriest§! recites some comforting verses from the [Root.Religion.GetScriptureName] to calm you down.;;;;;;;;;;;;;x
-string_priest_comfort_529;\nThe §YPriest§! approves of your decision to fast.;;;;;;;;;;;;;x
-string_priest_comfort_530;\nThe §YPriest§! shouts over you, reciting an exorcism to free you of the demon that has taken hold of your body.;;;;;;;;;;;;;x
-string_priest_comfort_531;\nThe §YPriest§! kneels by your bed, fervently praying for your good health.;;;;;;;;;;;;;x
-string_priest_comfort_532;\nThe §YPriest§! advices you to pray in silence and fast for a couple of days.;;;;;;;;;;;;;x
-string_priest_comfort_533;\nThe §YPriest§! sits next to your bed, spending the night with you reading from the [Root.Religion.GetScriptureName].;;;;;;;;;;;;;x
-string_priest_comfort_534;\nThe §YPriest§! starts reciting an exorcism, holding his holy symbol to your forehead.;;;;;;;;;;;;;x
-string_priest_comfort_535;\nThe §YPriest§! accompanies you back to your chambers.;;;;;;;;;;;;;x
-string_priest_comfort_540;\nYou hear the §YPriest's§! voice in the distance, reciting a familiar prayer.;;;;;;;;;;;;;x
-string_priest_comfort_541;\nThe §YPriest§! warns you to stop scratching yourself and turn your thoughts to [Root.Religion.GetRandomGodName].;;;;;;;;;;;;;x
-string_priest_comfort_542;\nThe §YPriest§! kneels by your bed, fervently praying for your good health.;;;;;;;;;;;;;x
-string_regent_physician_helps_522;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! helps you lay down, whispering gentle words to calm you.;;;;;;;;;;;;;x
-string_regent_physician_helps_523;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! gently pulls your hair back, helping you relieve yourself.;;;;;;;;;;;;;x
-string_regent_physician_helps_524;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! gives you an ointment to reduce the itch.;;;;;;;;;;;;;x
-string_regent_physician_helps_525;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! burns some incense to free your throat of the metallic taste.;;;;;;;;;;;;;x
-string_regent_physician_helps_526;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! sits beside you, checking your temperature and ordering your servants to change your bedsheets.;;;;;;;;;;;;;x
-string_regent_physician_helps_527;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! helps you recall the names of your family members and your daily routine.;;;;;;;;;;;;;x
-string_regent_physician_helps_528;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! dismisses the guards and helps you lay down on your bed.;;;;;;;;;;;;;x
-string_regent_physician_helps_529;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! orders your servants to bring simpler food and offer you smaller bites.;;;;;;;;;;;;;x
-string_regent_physician_helps_530;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! whispers reassurances in your ear, hoping to calm you down, while holding you to your bed.;;;;;;;;;;;;;x
-string_regent_physician_helps_531;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! gently cleans the blood from your legs, ordering to your servants to hurry.;;;;;;;;;;;;;x
-string_regent_physician_helps_532;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! offers you a cup of water and reassures you that the feeling will soon pass.;;;;;;;;;;;;;x
-string_regent_physician_helps_533;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! sits beside you, reading from a book of old legends.;;;;;;;;;;;;;x
-string_regent_physician_helps_534;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! explains that there is nobody else in the bedroom aside from you.;;;;;;;;;;;;;x
-string_regent_physician_helps_535;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! reassures you that everything will be clearer next morning as [pregnancy_regent_physician_per.GetSheHe] lays you down in your bed.;;;;;;;;;;;;;x
-string_regent_physician_helps_540;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! sits beside you, checking your temperature and ordering your servants to change your bedsheets.;;;;;;;;;;;;;x
-string_regent_physician_helps_541;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! gives you an ointment to reduce the itch.;;;;;;;;;;;;;x
-string_regent_physician_helps_542;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! gently cleans the blood from your legs, ordering to your servants to hurry.;;;;;;;;;;;;;x
-string_shaman_comfort_522;\nThe §YShaman§! makes you breathe holy incense to restore your breath.;;;;;;;;;;;;;x
-string_shaman_comfort_523;\nThe §YShaman§! offers you a sacred herb to smell to calm your bowels.;;;;;;;;;;;;;x
-string_shaman_comfort_524;\nThe §YShaman§! lends you one of his amulets to rub over the rashes.;;;;;;;;;;;;;x
-string_shaman_comfort_525;\nThe §YShaman§! offers you a magic leaf to clean your tongue with.;;;;;;;;;;;;;x
-string_shaman_comfort_526;\nYou hear the §YShaman's§! voice in the distance, reciting an obscure spell.;;;;;;;;;;;;;x
-string_shaman_comfort_527;\nThe §YShaman§! prepares a ritual to track down the spirit who stole your memories.;;;;;;;;;;;;;x
-string_shaman_comfort_528;\nThe §YShaman§! yells alongside you and beats his drum to scare off the evil spirits tormenting you.;;;;;;;;;;;;;x
-string_shaman_comfort_529;\nThe §YShaman§! provides you with a magic herb to restore your appetite.;;;;;;;;;;;;;x
-string_shaman_comfort_530;\nThe §YShaman§! shouts over you, reciting an exorcism to free you of the evil spirit that has taken hold of your body.;;;;;;;;;;;;;x
-string_shaman_comfort_531;\nThe §YShaman§! claps his cymbals, summoning [Root.Religion.GetRandomGodName] to protect you in your hour of need.;;;;;;;;;;;;;x
-string_shaman_comfort_532;\nThe §YShaman§! urges you to drink a philter to strengthen your teeth.;;;;;;;;;;;;;x
-string_shaman_comfort_533;\nThe §YShaman§! spends the night telling you old legends about the ancestors.;;;;;;;;;;;;;x
-string_shaman_comfort_534;\nThe §YShaman§! chides you for listening to the evil spirits that are trying to unravel your mind and kill your child.;;;;;;;;;;;;;x
-string_shaman_comfort_535;\nThe §YShaman§! accompanies you back to your chambers.;;;;;;;;;;;;;x
-string_shaman_comfort_540;\nYou hear the §YShaman's§! voice in the distance, reciting an obscure spell.;;;;;;;;;;;;;x
-string_shaman_comfort_541;\nThe §YShaman§! lends you one of his amulets to rub over your head.;;;;;;;;;;;;;x
-string_shaman_comfort_542;\nThe §YShaman§! claps his cymbals, summoning [Root.Religion.GetRandomGodName] to protect you in your hour of need.;;;;;;;;;;;;;x
-string_spouse_comfort_522;\n§Y[Root.Spouse.GetFirstName]§! pleads you to take long breaths and calm down.;;;;;;;;;;;;;x
-string_spouse_comfort_523;\n§Y[Root.Spouse.GetFirstName]§! holds you by the shoulders, keeping you steady.;;;;;;;;;;;;;x
-string_spouse_comfort_524;\n§Y[Root.Spouse.GetFirstName]§! looks at you in anguish, offering words of comfort.;;;;;;;;;;;;;x
-string_spouse_comfort_525;\n§Y[Root.Spouse.GetFirstName]§! chides the servants, telling them to have the cooks prepare another dinner.;;;;;;;;;;;;;x
-string_spouse_comfort_526;\nYou hear §Y[Root.Spouse.GetFirstName]'s§! voice in the distance, whispering you comforting words.;;;;;;;;;;;;;x
-string_spouse_comfort_527;\n§Y[Root.Spouse.GetFirstName]§! tells you stories about your life together, trying to help you remember what you have forgotten.;;;;;;;;;;;;;x
-string_spouse_comfort_528;\n§Y[Root.Spouse.GetFirstName]§! takes your hands within his and whispers comforting words in your ear to help you forget your nightmare.;;;;;;;;;;;;;x
-string_spouse_comfort_529;\n§Y[Root.Spouse.GetFirstName]§! chides the servants, telling them to have the cooks prepare another dinner.;;;;;;;;;;;;;x
-string_spouse_comfort_530;\n§Y[Root.Spouse.GetFirstName]§! calls for you as he urges your servants to hold you still.;;;;;;;;;;;;;x
-string_spouse_comfort_531;\n§Y[Root.Spouse.GetFirstName]§! looks at you in dismay, trying to comfort you with his words.;;;;;;;;;;;;;x
-string_spouse_comfort_532;\n§Y[Root.Spouse.GetFirstName]§! looks at you in dismay, trying to comfort you with his words.;;;;;;;;;;;;;x
-string_spouse_comfort_533;\n§Y[Root.Spouse.GetFirstName]§! sits awake next to you, trying to entertain you with polite conversation about what has been happening at court during your absence.;;;;;;;;;;;;;x
-string_spouse_comfort_534;\n§Y[Root.Spouse.GetFirstName]§! holds your hand, trying to explain that you are seeing things that are not here.;;;;;;;;;;;;;x
-string_spouse_comfort_535;\n§Y[Root.Spouse.GetFirstName]§! whispers words of reassurance in your ear as he walks you back to the bedroom.;;;;;;;;;;;;;x
-string_spouse_comfort_540;\nYou hear §Y[Root.Spouse.GetFirstName]'s§! voice in the distance, whispering you comforting words.;;;;;;;;;;;;;x
-string_spouse_comfort_541;\n§Y[Root.Spouse.GetFirstName]§! looks at you in anguish, offering words of comfort.;;;;;;;;;;;;;x
-string_spouse_comfort_542;\n§Y[Root.Spouse.GetFirstName]§! looks at you in dismay, trying to comfort you with his words.;;;;;;;;;;;;;x
-string_spouse_physician_helps_522;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! prepares an infusion to calm you down.;;;;;;;;;;;;;x
-string_spouse_physician_helps_523;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! offers you a poultice to calm your bowels.;;;;;;;;;;;;;x
-string_spouse_physician_helps_524;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! cleans your hair and applies a strange oil on your head.;;;;;;;;;;;;;x
-string_spouse_physician_helps_525;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! advices you to hold your nose and ignore your senses.;;;;;;;;;;;;;x
-string_spouse_physician_helps_526;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! helps you take a sip of water from a cup.;;;;;;;;;;;;;x
-string_spouse_physician_helps_527;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! sits near your bed, slowly reading through your daily correspondence.;;;;;;;;;;;;;x
-string_spouse_physician_helps_528;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! quickly prepares a philter to calm your nerves.;;;;;;;;;;;;;x
-string_spouse_physician_helps_529;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! gently encourages you to ignore your senses and eat anyway.;;;;;;;;;;;;;x
-string_spouse_physician_helps_530;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! places a chunk of wood in your mouth as [pregnancy_spouse_physician_per.GetSheHe] holds you still.;;;;;;;;;;;;;x
-string_spouse_physician_helps_531;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! holds your hand, whispering to you to take long, deep breaths.;;;;;;;;;;;;;x
-string_spouse_physician_helps_532;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! prepares an unguent to rub over your gums.;;;;;;;;;;;;;x
-string_spouse_physician_helps_533;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! suggests to close your eyes and start counting.;;;;;;;;;;;;;x
-string_spouse_physician_helps_534;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! shakes you gently, asking you who are you talking to.;;;;;;;;;;;;;x
-string_spouse_physician_helps_535;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! reminds you of who you are as [pregnancy_spouse_physician_per.GetSheHe] walks you to your bedroom.;;;;;;;;;;;;;x
-string_spouse_physician_helps_540;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! helps you take a sip of water from a cup.;;;;;;;;;;;;;x
-string_spouse_physician_helps_541;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! cleans your hair and applies a strange oil on your head.;;;;;;;;;;;;;x
-string_spouse_physician_helps_542;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! holds your hand, whispering to you to take long, deep breaths.;;;;;;;;;;;;;x
-
+string_generic_physician_helps_522;\nYour §YPhysician§! advices you to take slow, deep breaths.;;;;;;;;;;;\nÂàø §Yëåêàðü§! ñîâåòóåò Âàì ìåäëåííî è ãëóáîêî äûøàòü.;;x
+string_generic_physician_helps_523;\nYour §YPhysician§! holds you still, helping you clean your face.;;;;;;;;;;;\nÂàø §Yëåêàðü§! äåðæèò Âàñ, âûòèðàÿ ïîò ñî ëáà.;;x
+string_generic_physician_helps_524;\nYour §YPhysician§! applies a smelly mixture over your rashes.;;;;;;;;;;;\nÂàø §Yëåêàðün§! íàíîñèò Âàì ïàõó÷óþ ñìåñü íà ïîêðàñíåâøèå ìåñòà.;;x
+string_generic_physician_helps_525;\nYour §YPhysician§! offers you a potion to clean your mouth.;;;;;;;;;;;\nÂàø §Yëåêàðü§! ïðåäëàãàåò Âàì íàñòîéêó, ÷òîáû ïðîïîëîñêàòü ðîò.;;x
+string_generic_physician_helps_526;\nYour §YPhysician§! places a damp cloth over your forehead, urging the servants to bring more water.;;;;;;;;;;;\nÂàø §Yëåêàðü§! êëàä¸ò ìîêðîå ïîëîòåíöå Âàì íà ëîá è âåëèò ñëóãàì ïðèíåñòè áîëüøå âîäû.;;x
+string_generic_physician_helps_527;\nYour §YPhysician§! decides to make you breathe some healing fumes to help you restore your memory.;;;;;;;;;;;\nÂàø §Yëåêàðü§! äà¸ò Âàì ïîäûøàòü öåëåáíûì ïàðîì, ÷òîáû âîññòàíîâèòü Âàøó ïàìÿòü.;;x
+string_generic_physician_helps_528;\nYour §YPhysician§! gently reassures you that everything is alright and you should go back to rest.;;;;;;;;;;;\nÂàø §Yëåêàðü§! ïûòàåòñÿ óáåäèòü Âàñ, ÷òî âñ¸ õîðîøî è ÷òî Âàì íàäî îòäûõàòü.;;x
+string_generic_physician_helps_529;\nYour §YPhysician§! prepares an infuse to restore your appetite.;;;;;;;;;;;\nÂàø §Yëåêàðü§! ãîòîâèò ñíàäîáüå, ÷òîáû âåðíóòü Âàì àïïåòèò.;;x
+string_generic_physician_helps_530;\nYour §YPhysician§! urges your servants to hold you still until the episode ends.;;;;;;;;;;;\nÂàø §Yëåêàðü§! âåëèò ñëóãàì äåðæàòü Âàñ êðåï÷å, ïîêà âñ¸ íå çàêîí÷èòñÿ.;;x
+string_generic_physician_helps_531;\nYour §YPhysician§! calls for more bedsheets and urges you to hold still and breathe slowly.;;;;;;;;;;;\nÂàø §Yëåêàðü§! ãîâîðèò Âàì äûøàòü ðàçìåðåííåå, à ñëóãàì âåëèò ïðèíåñòè áîëüøå ïðîñòûíåé.;;x
+string_generic_physician_helps_532;\nYour §YPhysician§! orders your servants to prepare a tepid soup.;;;;;;;;;;;\nÂàø §Yëåêàðü§! âåëèò ñëóãàì ïðèãîòîâèòü ãîðÿ÷èé ñóï.;;x
+string_generic_physician_helps_533;\nYour §YPhysician§! prepares a potion to help you sleep.;;;;;;;;;;;\nÂàø §Yëåêàðü§! ãîòîâèò ñíàäîáüå, ÷òîáû ïîìî÷ü Âàì çàñíóòü.;;x
+string_generic_physician_helps_534;\nYour §YPhysician§! offers you a poultice, urging you to take it immediately.;;;;;;;;;;;\nÂàø §Yëåêàðü§! ïðåäëàãàåò Âàì íåìåäëåííî ñäåëàòü ïðèïàðêè.;;x
+string_generic_physician_helps_535;\nYour §YPhysician§! gently reassures you and helps you back to your chambers.;;;;;;;;;;;\nÂàø §Yëåêàðü§! óñïîêàèâàåò Âàñ è ïîìîãàåò âåðíóòüñÿ â Âàø[Root.GetLocYourChamberACC].;;x
+string_generic_physician_helps_540;\nYour §YPhysician§! places a damp cloth over your forehead, urging the servants to bring more water.;;;;;;;;;;;\nÂàø §Yëåêàðü§! êëàä¸ò ìîêðîå ïîëîòåíöå Âàì íà ëîá è âåëèò ñëóãàì ïðèíåñòè áîëüøå âîäû.;;x
+string_generic_physician_helps_541;\nYour §YPhysician§! applies a smelly mixture over your head.;;;;;;;;;;;\nÂàø §Yëåêàðü§! íàíîñèò ïàõó÷óþ ìàçü íà Âàøó ãîëîâó.;;x
+string_generic_physician_helps_542;\nYour §YPhysician§! calls for more bedsheets and urges you to hold still and breathe slowly.;;;;;;;;;;;\nÂàø §Yëåêàðü§! ãîâîðèò Âàì äûøàòü ðàçìåðåííåå, à ñëóãàì âåëèò ïðèíåñòè áîëüøå ïðîñòûíåé.;;x
+string_mother_physician_helps_522;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! advices you to take slow, deep breaths.;;;;;;;;;;;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! ñîâåòóåò Âàì ìåäëåííî è ãëóáîêî äûøàòü.;;x
+string_mother_physician_helps_523;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! holds you still, helping you clean your face.;;;;;;;;;;;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! äåðæèò Âàñ, âûòèðàÿ ïîò ñî ëáà.;;x
+string_mother_physician_helps_524;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! applies a smelly mixture over your rashes.;;;;;;;;;;;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! íàíîñèò Âàì ïàõó÷óþ ñìåñü íà ïîêðàñíåâøèå ìåñòà.;;x
+string_mother_physician_helps_525;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! offers you a potion to clean your mouth.;;;;;;;;;;;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! ïðåäëàãàåò Âàì íàñòîéêó, ÷òîáû ïðîïîëîñêàòü ðîò.;;x
+string_mother_physician_helps_526;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! places a damp cloth over your forehead, urging the servants to bring more water.;;;;;;;;;;;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! êëàä¸ò ìîêðîå ïîëîòåíöå Âàì íà ëîá è âåëèò ñëóãàì ïðèíåñòè áîëüøå âîäû.;;x
+string_mother_physician_helps_527;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! decides to make you breathe some healing fumes to help you restore your memory.;;;;;;;;;;;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! äà¸ò Âàì ïîäûøàòü öåëåáíûì ïàðîì, ÷òîáû âîññòàíîâèòü Âàøó ïàìÿòü.;;x
+string_mother_physician_helps_528;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! gently reassures you that everything is alright and you should go back to rest.;;;;;;;;;;;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! ïûòàåòñÿ óáåäèòü Âàñ, ÷òî âñ¸ õîðîøî è ÷òî Âàì íàäî îòäûõàòü.;;x
+string_mother_physician_helps_529;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! prepares an infuse to restore your appetite.;;;;;;;;;;;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! ãîòîâèò ñíàäîáüå, ÷òîáû âåðíóòü Âàì àïïåòèò.;;x
+string_mother_physician_helps_530;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! urges your servants to hold you still until the episode ends.;;;;;;;;;;;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! âåëèò ñëóãàì äåðæàòü Âàñ êðåï÷å, ïîêà âñ¸ íå çàêîí÷èòñÿ.;;x
+string_mother_physician_helps_531;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! calls for more bedsheets and urges you to hold still and breathe slowly.;;;;;;;;;;;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! ãîâîðèò Âàì äûøàòü ðàçìåðåííåå, à ñëóãàì âåëèò ïðèíåñòè áîëüøå ïðîñòûíåé.;;x
+string_mother_physician_helps_532;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! orders your servants to prepare a tepid soup.;;;;;;;;;;;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! âåëèò Âàøèì ñëóãàì ïðèãîòîâèòü ãîðÿ÷èé ñóï.;;x
+string_mother_physician_helps_533;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! prepares a potion to help you sleep.;;;;;;;;;;;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! ãîòîâèò ñíàäîáüå, ÷òîáû ïîìî÷ü Âàì çàñíóòü.;;x
+string_mother_physician_helps_534;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! offers you a poultice, urging you to take it immediately.;;;;;;;;;;;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! ïðåäëàãàåò Âàì íåìåäëåííî ñäåëàòü ïðèïàðêè.;;x
+string_mother_physician_helps_535;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! gently reassures you and helps you back to your chambers.;;;;;;;;;;;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! óñïîêàèâàåò Âàñ è ïîìîãàåò âåðíóòüñÿ â Âàø[Root.GetLocYourChamberACC].;;x
+string_mother_physician_helps_540;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! places a damp cloth over your forehead, urging the servants to bring more water.;;;;;;;;;;;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! êëàä¸ò ìîêðîå ïîëîòåíöå Âàì íà ëîá è âåëèò ñëóãàì ïðèíåñòè áîëüøå âîäû.;;x
+string_mother_physician_helps_541;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! applies a smelly mixture over your head.;;;;;;;;;;;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! íàíîñèò ïàõó÷óþ ìàçü íà Âàøó ãîëîâó.;;x
+string_mother_physician_helps_542;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! calls for more bedsheets and urges you to hold still and breathe slowly.;;;;;;;;;;;\n§Y[pregnancy_mother_physician_per.GetTitledFirstName]§! ãîâîðèò Âàì äûøàòü ðàçìåðåííåå, à ñëóãàì âåëèò ïðèíåñòè áîëüøå ïðîñòûíåé.;;x
+string_priest_comfort_522;\nThe §YPriest§! offers you to join him in prayer.;;;;;;;;;;;\n§YÑâÿùåííèê§! ïðåäëàãàåò Âàì ïîìîëèòüñÿ âìåñòå ñ íèì.;;x
+string_priest_comfort_523;\nThe §YPriest§! urges you to keep puking the sickness out of your body.;;;;;;;;;;;\n§YÑâÿùåííèê§! ïðèçûâàåò Âàñ î÷èùàòü ñâî¸ òåëî, ïðîâîöèðóÿ ðâîòó.;;x
+string_priest_comfort_524;\nThe §YPriest§! warns you to stop scratching yourself and turn your thoughts to [Root.Religion.GetRandomGodName].;;;;;;;;;;;\n§YÑâÿùåííèê§! ïðîñèò Âàñ ïåðåñòàòü ÷åñàòüñÿ è îáðàòèòü ñâîè ìûñëè ê [Root.GetReligionHighGodDAT].;;x
+string_priest_comfort_525;\nThe §YPriest§! suggests you to fast for a few days.;;;;;;;;;;;\n§YÑâÿùåííèê§! ñîâåòóåò Âàì ïîñòèòüñÿ íåñêîëüêî äíåé.;;x
+string_priest_comfort_526;\nYou hear the §YPriest's§! voice in the distance, reciting a familiar prayer.;;;;;;;;;;;\nÂû ñëûøèòå ãîëîñ §Yñâÿùåííèêà§! - îí ÷èòàåò ìîëèòâó.;;x
+string_priest_comfort_527;\nThe §YPriest§! recites old tales from the [Root.Religion.GetScriptureName], interrogating you on some of the things you have forgotten.;;;;;;;;;;;\n§YÑâÿùåííèê§! ðàññêàçûâàåò èñòîðèè èç [Root.GetReligionScriptureGEN], ïåðåñïðàøèâàÿ Âàñ îá óïîìÿíóòûõ îòðûâêàõ.;;x
+string_priest_comfort_528;\nThe §YPriest§! recites some comforting verses from the [Root.Religion.GetScriptureName] to calm you down.;;;;;;;;;;;\n§YÑâÿùåííèê§! öèòèðóåò îòðûâêè èç [Root.GetReligionScriptureGEN], ÷òîáû óñïîêîèòü Âàñ.;;x
+string_priest_comfort_529;\nThe §YPriest§! approves of your decision to fast.;;;;;;;;;;;\n§YÑâÿùåííèê§! ïîääåðæèâàåò Âàøå ðåøåíèå ãîëîäàòü.;;x
+string_priest_comfort_530;\nThe §YPriest§! shouts over you, reciting an exorcism to free you of the demon that has taken hold of your body.;;;;;;;;;;;\n§YÑâÿùåííèê§! êðè÷èò íà Âàñ, ÷òîáû èçãíàòü äåìîíà, îâëàäåâøåãî Âàøèì òåëîì.;;x
+string_priest_comfort_531;\nThe §YPriest§! kneels by your bed, fervently praying for your good health.;;;;;;;;;;;\n§YÑâÿùåííèê§! âñòà¸ò íà êîëåíè ó Âàøåé ïîñòåëè è ìîëèòñÿ î Âàøåì çäîðîâüå.;;x
+string_priest_comfort_532;\nThe §YPriest§! advices you to pray in silence and fast for a couple of days.;;;;;;;;;;;\n§YÑâÿùåííèê§! ñîâåòóåò Âàì ìîëèòüñÿ â òèøèíå è ïîñòèòüñÿ íåñêîëüêî äíåé.;;x
+string_priest_comfort_533;\nThe §YPriest§! sits next to your bed, spending the night with you reading from the [Root.Religion.GetScriptureName].;;;;;;;;;;;\n§YÑâÿùåííèê§! ñàäèòñÿ ó Âàøåé ïîñòåëè è âñþ íî÷ü ÷èòàåò Âàì [Root.GetReligionScriptureACC].;;x
+string_priest_comfort_534;\nThe §YPriest§! starts reciting an exorcism, holding his holy symbol to your forehead.;;;;;;;;;;;\n§YÑâÿùåííèê§! íà÷èíàåò îáðÿä ýêçîðöèçìà, ïðèêëàäûâàÿ ñâÿùåííûé ñèìâîë ê Âàøåìó ëáó.;;x
+string_priest_comfort_535;\nThe §YPriest§! accompanies you back to your chambers.;;;;;;;;;;;\n§YÑâÿùåííèê§! ñîïðîâîæäàåò Âàñ â Âàø[Root.GetLocYourChamberACC].;;x
+string_priest_comfort_540;\nYou hear the §YPriest's§! voice in the distance, reciting a familiar prayer.;;;;;;;;;;;\nÂû ñëûøèòå ãîëîñ §Yñâÿùåííèêà§! - îí ÷èòàåò ìîëèòâó.;;x
+string_priest_comfort_541;\nThe §YPriest§! warns you to stop scratching yourself and turn your thoughts to [Root.Religion.GetRandomGodName].;;;;;;;;;;;\n§YÑâÿùåííèê§! ïðîñèò Âàñ ïåðåñòàòü ÷åñàòüñÿ è îáðàòèòü ñâîè ìûñëè ê [Root.GetReligionHighGodDAT].;;x
+string_priest_comfort_542;\nThe §YPriest§! kneels by your bed, fervently praying for your good health.;;;;;;;;;;;\n§YÑâÿùåííèê§! âñòà¸ò íà êîëåíè ó Âàøåé ïîñòåëè è ìîëèòñÿ î Âàøåì çäîðîâüå.;;x
+string_regent_physician_helps_522;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! helps you lay down, whispering gentle words to calm you.;;;;;;;;;;;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! ïîìîãàåò Âàì ëå÷ü, íàø¸ïòûâàÿ íåæíûå ñëîâà, ÷òîáû Âàñ óñïîêîèòü.;;x
+string_regent_physician_helps_523;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! gently pulls your hair back, helping you relieve yourself.;;;;;;;;;;;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! àêêóðàòíî òÿíåò Âàñ çà âîëîñû, ÷òîáû îòâëå÷ü îò áîëè.;;x
+string_regent_physician_helps_524;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! gives you an ointment to reduce the itch.;;;;;;;;;;;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! äà¸ò Âàì ìàçü, ÷òîáû óìåíüøèòü çóä.;;x
+string_regent_physician_helps_525;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! burns some incense to free your throat of the metallic taste.;;;;;;;;;;;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! çàæèãàåò íåìíîãî áëàãîâîíèé, ÷òîáû î÷èñòèòü Âàø ðîò îò ìåòàëëè÷åñêîãî ïðèâêóñà.;;x
+string_regent_physician_helps_526;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! sits beside you, checking your temperature and ordering your servants to change your bedsheets.;;;;;;;;;;;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! ñèäèò ðÿäîì, ïðèêëàäûâàÿ ðóêó ê Âàøåìó ëáó, è âåëèò ñëóãàì ìåíÿòü ïðîñòûíè.;;x
+string_regent_physician_helps_527;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! helps you recall the names of your family members and your daily routine.;;;;;;;;;;;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! ïîìîãàåò Âàì âñïîìíèòü èìåíà Âàøèõ ðîäñòâåííèêîâ è ñîáûòèÿ ïîñëåäíèõ äíåé.;;x
+string_regent_physician_helps_528;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! dismisses the guards and helps you lay down on your bed.;;;;;;;;;;;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! ïðîãîíÿåò ñòðàæó è ïîìîãàåò Âàì ëå÷ü â ïîñòåëü.;;x
+string_regent_physician_helps_529;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! orders your servants to bring simpler food and offer you smaller bites.;;;;;;;;;;;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! âåëèò ñëóãàì ïðèíåñòè åäó ïîïðîùå, ÷òîáû Âû ìîãëè åñòü å¸ ìàëåíüêèìè ãëîòêàìè.;;x
+string_regent_physician_helps_530;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! whispers reassurances in your ear, hoping to calm you down, while holding you to your bed.;;;;;;;;;;;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! óñïîêàèâàåò Âàñ, äåðæà çà ðóêè.;;x
+string_regent_physician_helps_531;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! gently cleans the blood from your legs, ordering to your servants to hurry.;;;;;;;;;;;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! îñòîðîæíî âûòèðàåò êðîâü ñ Âàøèõ íîã è âåëèò ñëóãàì ïîòîðîïèòüñÿ.;;x
+string_regent_physician_helps_532;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! offers you a cup of water and reassures you that the feeling will soon pass.;;;;;;;;;;;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! ïðåäëàãàåò Âàì êóáîê ñ ÷èñòîé âîäîé è óâåðÿåò Âàñ, ÷òî ýòè íåïðèÿòíûå îùóùåíèÿ ñêîðî ïðîéäóò.;;x
+string_regent_physician_helps_533;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! sits beside you, reading from a book of old legends.;;;;;;;;;;;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! ñàäèòüñÿ ðÿäîì ñ Âàìè è ÷èòàåò Âàì ñòàðûå ëåãåíäû.;;x
+string_regent_physician_helps_534;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! explains that there is nobody else in the bedroom aside from you.;;;;;;;;;;;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! îáúÿñíÿåò Âàì, ÷òî çäåñü áîëüøå íèêîãî íåò.;;x
+string_regent_physician_helps_535;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! reassures you that everything will be clearer next morning as [pregnancy_regent_physician_per.GetSheHe] lays you down in your bed.;;;;;;;;;;;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! óâåðÿåò Âàñ, ÷òî óòðîì âñ¸ áóäåò õîðîøî, è ëîæèòñÿ ðÿäîì ñ Âàìè.;;x
+string_regent_physician_helps_540;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! sits beside you, checking your temperature and ordering your servants to change your bedsheets.;;;;;;;;;;;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! ñèäèò ðÿäîì, ïðèêëàäûâàÿ ðóêó ê Âàøåìó ëáó, è âåëèò ñëóãàì ìåíÿòü ïðîñòûíè.;;x
+string_regent_physician_helps_541;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! gives you an ointment to reduce the itch.;;;;;;;;;;;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! äà¸ò Âàì ìàçü, ÷òîáû óìåíüøèòü çóä.;;x
+string_regent_physician_helps_542;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! gently cleans the blood from your legs, ordering to your servants to hurry.;;;;;;;;;;;\n§Y[pregnancy_regent_physician_per.GetTitledFirstName]§! îñòîðîæíî âûòèðàåò êðîâü ñ Âàøèõ íîã è âåëèò ñëóãàì ïîòîðîïèòüñÿ.;;x
+string_shaman_comfort_522;\nThe §YShaman§! makes you breathe holy incense to restore your breath.;;;;;;;;;;;\n§YØàìàí§! äà¸ò Âàì âäîõíóòü áëàãîâîíèé, ÷òîáû âîññòàíîâèòü äûõàíèå.;;x
+string_shaman_comfort_523;\nThe §YShaman§! offers you a sacred herb to smell to calm your bowels.;;;;;;;;;;;\n§YØàìàí§! ïðåäëàãàåò Âàì ïîíþõàòü ñâÿùåííóþ òðàâó, ÷òîáû óñïîêîèòü êèøå÷íèê.;;x
+string_shaman_comfort_524;\nThe §YShaman§! lends you one of his amulets to rub over the rashes.;;;;;;;;;;;\n§YØàìàí§! äà¸ò Âàì îäèí èç ñâîèõ àìóëåòîâ, ÷òîáû ïðèëîæèòü ê ïîêðàñíåâøèì ìåñòàì.;;x
+string_shaman_comfort_525;\nThe §YShaman§! offers you a magic leaf to clean your tongue with.;;;;;;;;;;;\n§YØàìàí§! ïðåäëàãàåò Âàì âîëøåáíûé ëèñò, ÷òîáû î÷èñòèòü ÿçûê.;;x
+string_shaman_comfort_526;\nYou hear the §YShaman's§! voice in the distance, reciting an obscure spell.;;;;;;;;;;;\nÂû ñëûøèòå ãîëîñ §Yøàìàíà§! - îí ïðîèçíîñèò çàêëèíàíèÿ.;;x
+string_shaman_comfort_527;\nThe §YShaman§! prepares a ritual to track down the spirit who stole your memories.;;;;;;;;;;;\n§YØàìàí§! ãîòîâèò ðèòóàë, ÷òîáû ïîéìàòü äóõ, óêðàâøèé Âàøè âîñïîìèíàíèÿ.;;x
+string_shaman_comfort_528;\nThe §YShaman§! yells alongside you and beats his drum to scare off the evil spirits tormenting you.;;;;;;;;;;;\n§YØàìàí§! êðè÷èò íà Âàñ è áü¸ò â áàðàáàí, ÷òîáû íàïóãàòü çëûõ äóõîâ, êîòîðûå Âàñ ìó÷àþò.;;x
+string_shaman_comfort_529;\nThe §YShaman§! provides you with a magic herb to restore your appetite.;;;;;;;;;;;\n§YØàìàí§! ïðåäëàãàåò Âàì âîëøåáíóþ òðàâó, ÷òîáû âîññòàíîâèòü Âàø àïïåòèò.;;x
+string_shaman_comfort_530;\nThe §YShaman§! shouts over you, reciting an exorcism to free you of the evil spirit that has taken hold of your body.;;;;;;;;;;;\n§YØàìàí§! êðè÷èò íà Âàñ, ÷òîáû ïðîãíàòü çëîãî äóõà, çàõâàòèâøåãî Âàøå òåëî.;;x
+string_shaman_comfort_531;\nThe §YShaman§! claps his cymbals, summoning [Root.Religion.GetRandomGodName] to protect you in your hour of need.;;;;;;;;;;;\n§YØàìàí§! áü¸ò â áóáåí, âçûâàÿ ê [Root.GetReligionHighGodDAT], ÷òîáû [Root.GetHGodSheHe] çàùèòèë[Root.GetHGodEndA] Âàñ â òðóäíûé ÷àñ.;;x
+string_shaman_comfort_532;\nThe §YShaman§! urges you to drink a philter to strengthen your teeth.;;;;;;;;;;;\n§YØàìàí§! ïðèçûâàåò Âàñ âûïèòü çåëüå äëÿ óêðåïëåíèÿ çóáîâ.;;x
+string_shaman_comfort_533;\nThe §YShaman§! spends the night telling you old legends about the ancestors.;;;;;;;;;;;\n§YØàìàí§! âñþ íî÷ü ðàññêàçûâàåò Âàì ñòàðûå ëåãåíäû Âàøèõ ïðåäêîâ.;;x
+string_shaman_comfort_534;\nThe §YShaman§! chides you for listening to the evil spirits that are trying to unravel your mind and kill your child.;;;;;;;;;;;\n§YØàìàí§! ïðèçûâàåò Âàñ íå ñëóøàòü çëûõ äóõîâ, êîòîðûå ïûòàþòñÿ çàïóòàòü Âàø ðàçóì è óáèòü ðåá¸íêà.;;x
+string_shaman_comfort_535;\nThe §YShaman§! accompanies you back to your chambers.;;;;;;;;;;;\n§YØàìàí§! ñîïðîâîæäàåò Âàñ â Âàø[Root.GetLocYourChamberACC].;;x
+string_shaman_comfort_540;\nYou hear the §YShaman's§! voice in the distance, reciting an obscure spell.;;;;;;;;;;;\nÂû ñëûøèòå ãîëîñ §Yøàìàíà§! - îí ïðîèçíîñèò çàêëèíàíèÿ.;;x
+string_shaman_comfort_541;\nThe §YShaman§! lends you one of his amulets to rub over your head.;;;;;;;;;;;\n§YØàìàí§! äà¸ò Âàì îäèí èç ñâîèõ àìóëåòîâ, ÷òîáû ïðèëîæèòü ê ïîêðàñíåâøèì ìåñòàì.;;x
+string_shaman_comfort_542;\nThe §YShaman§! claps his cymbals, summoning [Root.Religion.GetRandomGodName] to protect you in your hour of need.;;;;;;;;;;;\n§YØàìàí§! áü¸ò â áóáåí, âçûâàÿ ê [Root.GetReligionHighGodDAT], ÷òîáû [Root.GetHGodSheHe] çàùèòèë[Root.GetHGodEndA] Âàñ â òðóäíûé ÷àñ.;;x
+string_spouse_comfort_522;\n§Y[Root.Spouse.GetFirstName]§! pleads you to take long breaths and calm down.;;;;;;;;;;;\n§Y[Root.Spouse.GetFirstName]§! ïðîñèò Âàñ ñäåëàòü ãëóáîêèé âäîõ è óñïîêîèòüñÿ.;;x
+string_spouse_comfort_523;\n§Y[Root.Spouse.GetFirstName]§! holds you by the shoulders, keeping you steady.;;;;;;;;;;;\n§Y[Root.Spouse.GetFirstName]§! äåðæèò Âàñ çà ïëå÷è, ÷òîáû Âû íå áîÿëèñü.;;x
+string_spouse_comfort_524;\n§Y[Root.Spouse.GetFirstName]§! looks at you in anguish, offering words of comfort.;;;;;;;;;;;\n§Y[Root.Spouse.GetFirstName]§! ñìîòðèò íà Âàñ ñ òðåâîãîé è ïðåäëàãàåò ñëîâà óòåøåíèÿ.;;x
+string_spouse_comfort_525;\n§Y[Root.Spouse.GetFirstName]§! chides the servants, telling them to have the cooks prepare another dinner.;;;;;;;;;;;\n§Y[Root.Spouse.GetFirstName]§! óïðåêàåò ñëóã è âåëèò ïåðåäàòü ïîâàðàì, ÷òîáû òå ïðèãîòîâèëè Âàì îáåä.;;x
+string_spouse_comfort_526;\nYou hear §Y[Root.Spouse.GetFirstName]'s§! voice in the distance, whispering you comforting words.;;;;;;;;;;;\nÂû ñëûøèòå ãîëîñ [Root.Spouse.GetHusbandWifeGEN], øåï÷óùå[Root.Spouse.GetYGo] íåæíûå ñëîâà.;;x
+string_spouse_comfort_527;\n§Y[Root.Spouse.GetFirstName]§! tells you stories about your life together, trying to help you remember what you have forgotten.;;;;;;;;;;;\n§Y[Root.Spouse.GetFirstName]§! ðàññêàçûâàåò èñòîðèè èç Âàøåé ñîâìåñòíîé æèçíè, ïûòàÿñü ïîìî÷ü Âàì âñïîìíèòü íåêîòîðûå äåòàëè.;;x
+string_spouse_comfort_528;\n§Y[Root.Spouse.GetFirstName]§! takes your hands within his and whispers comforting words in your ear to help you forget your nightmare.;;;;;;;;;;;\n§Y[Root.Spouse.GetFirstName]§! áåð¸ò Âàøó ðóêó è øåï÷åò Âàì ïðèÿòíûå ñëîâà, ÷òîáû ïîìî÷ü Âàì çàáûòü îá ýòîì êîøìàðå.;;x
+string_spouse_comfort_529;\n§Y[Root.Spouse.GetFirstName]§! chides the servants, telling them to have the cooks prepare another dinner.;;;;;;;;;;;\n§Y[Root.Spouse.GetFirstName]§! óïðåêàåò ñëóã è âåëèò ïåðåäàòü ïîâàðàì, ÷òîáû òå ïðèãîòîâèëè Âàì äðóãîé îáåä.;;x
+string_spouse_comfort_530;\n§Y[Root.Spouse.GetFirstName]§! calls for you as he urges your servants to hold you still.;;;;;;;;;;;\n§Y[Root.Spouse.GetFirstName]§! ïðèçûâàåò Âàñ áûòü ñèëüí[Root.GetOyYm] è âåëèò ñëóãàì äåðæàòü Âàñ êðåï÷å.;;x
+string_spouse_comfort_531;\n§Y[Root.Spouse.GetFirstName]§! looks at you in dismay, trying to comfort you with his words.;;;;;;;;;;;\n§Y[Root.Spouse.GetFirstName]§! ñìîòðèò íà Âàñ ñ òðåâîãîé è ïûòàåòñÿ óñïîêîèòü ñëîâàìè ïîääåðæêè.;;x
+string_spouse_comfort_532;\n§Y[Root.Spouse.GetFirstName]§! looks at you in dismay, trying to comfort you with his words.;;;;;;;;;;;\n§Y[Root.Spouse.GetFirstName]§! ñìîòðèò íà Âàñ ñ òðåâîãîé è ïûòàåòñÿ óñïîêîèòü ñëîâàìè ïîääåðæêè.;;x
+string_spouse_comfort_533;\n§Y[Root.Spouse.GetFirstName]§! sits awake next to you, trying to entertain you with polite conversation about what has been happening at court during your absence.;;;;;;;;;;;\n§Y[Root.Spouse.GetFirstName]§! ñàäèòñÿ ðÿäîì ñ Âàìè è ïûòàåòñÿ ðàçâëå÷ü Âàñ ñâåæèìè ñïëåòíÿìè î íåäàâíèõ ñîáûòèÿõ ïðè äâîðå.;;x
+string_spouse_comfort_534;\n§Y[Root.Spouse.GetFirstName]§! holds your hand, trying to explain that you are seeing things that are not here.;;;;;;;;;;;\n§Y[Root.Spouse.GetFirstName]§! äåðæèò Âàñ çà ðóêó è ïûòàåòñÿ îáúñíèòü Âàì, ÷òî Âû âûäèòå òî, ÷åãî íåò íà ñàìîì äåëå.;;x
+string_spouse_comfort_535;\n§Y[Root.Spouse.GetFirstName]§! whispers words of reassurance in your ear as he walks you back to the bedroom.;;;;;;;;;;;\n§Y[Root.Spouse.GetFirstName]§! ãîâîðèò Âàì, ÷òî âñ¸ áóäåò õîðîøî, êîãäà âîçâðàùàåòñÿ â Âàø[Root.GetLocYourChamberACC].;;x
+string_spouse_comfort_540;\nYou hear §Y[Root.Spouse.GetFirstName]'s§! voice in the distance, whispering you comforting words.;;;;;;;;;;;\nÂû ñëûøèòå ãîëîñ [Root.Spouse.GetHusbandWifeGEN], øåï÷óùå[Root.Spouse.GetYGo] íåæíûå ñëîâà.;;x
+string_spouse_comfort_541;\n§Y[Root.Spouse.GetFirstName]§! looks at you in anguish, offering words of comfort.;;;;;;;;;;;\n§Y[Root.Spouse.GetFirstName]§! ñìîòðèò íà Âàñ ñ òðåâîãîé è ïðåäëàãàåò ñëîâà óòåøåíèÿ.;;x
+string_spouse_comfort_542;\n§Y[Root.Spouse.GetFirstName]§! looks at you in dismay, trying to comfort you with his words.;;;;;;;;;;;\n§Y[Root.Spouse.GetFirstName]§! ñìîòðèò íà Âàñ ñ òðåâîãîé è ïûòàåòñÿ óñïîêîèòü ñëîâàìè ïîääåðæêè.;;x
+string_spouse_physician_helps_522;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! prepares an infusion to calm you down.;;;;;;;;;;;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! ãîòîâèò íàñòîé, ÷òîáû Âàñ óñïîêîèòü.;;x
+string_spouse_physician_helps_523;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! offers you a poultice to calm your bowels.;;;;;;;;;;;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! ïðåäëàãàåò Âàì ïðèïàðêè, ÷òîáû óñïîêîèòü êèøå÷íèê.;;x
+string_spouse_physician_helps_524;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! cleans your hair and applies a strange oil on your head.;;;;;;;;;;;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! ìîåò Âàì ãîëîâó è íàíîñèò ìàñëî íà âîëîñû.;;x
+string_spouse_physician_helps_525;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! advices you to hold your nose and ignore your senses.;;;;;;;;;;;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! ñîâåòóåò Âàì çàæàòü íîñ è íå îáðàùàòü âíèìàíèå íà îùóùåíèÿ.;;x
+string_spouse_physician_helps_526;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! helps you take a sip of water from a cup.;;;;;;;;;;;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! ïîìîãàåò Âàì ñäåëàòü ãëîòîê âîäû èç êóáêà.;;x
+string_spouse_physician_helps_527;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! sits near your bed, slowly reading through your daily correspondence.;;;;;;;;;;;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! ñèäèò ó Âàøåé ïîñòåëè è ìåäëåííî ÷èòàåò ïèñüìà.;;x
+string_spouse_physician_helps_528;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! quickly prepares a philter to calm your nerves.;;;;;;;;;;;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! ãîòîâèò îòâàð, ÷òîáû óñïîêîèòü Âàøè íåðâû.;;x
+string_spouse_physician_helps_529;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! gently encourages you to ignore your senses and eat anyway.;;;;;;;;;;;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! óãîâàðèâàåò Âàñ íå îáðàùàòü âíèìàíèå íà îùóùåíèÿ è ïîåñòü.;;x
+string_spouse_physician_helps_530;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! places a chunk of wood in your mouth as [pregnancy_spouse_physician_per.GetSheHe] holds you still.;;;;;;;;;;;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! êëàä¸ò êóñîê äåðåâà Âàì â ðîò è êðåïêî äåðæèò Âàñ çà ïëå÷è.;;x
+string_spouse_physician_helps_531;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! holds your hand, whispering to you to take long, deep breaths.;;;;;;;;;;;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! äåðæèò Âàñ çà ðóêó è ïðîñèò äûøàòü ãëóáîêî è ðàçìåðåííî.;;x
+string_spouse_physician_helps_532;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! prepares an unguent to rub over your gums.;;;;;;;;;;;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! ãîòîâèò ìàçü, ÷òîáû âòèðàòü Âàì â ä¸ñíû.;;x
+string_spouse_physician_helps_533;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! suggests to close your eyes and start counting.;;;;;;;;;;;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! ñîâåòóåò Âàì çàêðûòü ãëàçà è íà÷àòü ñ÷èòàòü.;;x
+string_spouse_physician_helps_534;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! shakes you gently, asking you who are you talking to.;;;;;;;;;;;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! ëåãîíüêî òðÿñ¸ò Âàñ çà ïëå÷è è ñïðàøèâàåò, ñ êåì Âû òîëüêî ÷òî ãîâîðèëè.;;x
+string_spouse_physician_helps_535;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! reminds you of who you are as [pregnancy_spouse_physician_per.GetSheHe] walks you to your bedroom.;;;;;;;;;;;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! íàïîìèíàåò Âàì, êòî Âû òàê[Root.GetAyaOy], êîãäà çàõîäèò â Âàø[Root.GetLocYourChamberACC].;;x
+string_spouse_physician_helps_540;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! helps you take a sip of water from a cup.;;;;;;;;;;;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! ïîìîãàåò Âàì ñäåëàòü ãëîòîê âîäû èç êóáêà.;;x
+string_spouse_physician_helps_541;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! cleans your hair and applies a strange oil on your head.;;;;;;;;;;;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! ìîåò Âàì ãîëîâó è íàíîñèò ìàñëî íà âîëîñû.;;x
+string_spouse_physician_helps_542;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! holds your hand, whispering to you to take long, deep breaths.;;;;;;;;;;;\n§Y[pregnancy_spouse_physician_per.GetTitledFirstName]§! äåðæèò Âàñ çà ðóêó è ïðîñèò äûøàòü ãëóáîêî è ðàçìåðåííî.;;x
 # Unsorted vanilla mess, unused
-String_abdicate_titles;Leave your titles behind, and keep your life!;;;;;;;;;;;;;x
-string_alternate_reconquista_crusade;Reconquista;;;;;;;;;;;;;x
-string_alternate_shepherds_crusade;Shepherds';;;;;;;;;;;;;x
-String_Angas_Sutras;Angas Sutras;;;;;;;;;;;;;x
-String_Apprentice;Apprentice;;;;;;;;;;;;;x
-String_Bent;Bent;;;;;;;;;;;;;x
-String_bent;bent;;;;;;;;;;;;;x
-String_Brewery;Brewery;;;;;;;;;;;;;x
-String_Catholics;Catholics;;;;;;;;;;;;;x
-String_Cider;Cider;;;;;;;;;;;;;x
-String_dark_arts;dark arts;;;;;;;;;;;;;x
-String_empty_space; ;;;;;;;;;;;;;x
-String_evil_spirit;Evil Spirit;;;;;;;;;;;;;x
-String_evil_spirits;Evil Spirits;;;;;;;;;;;;;x
-string_fallback_consort;consort;;;;;;;;;;;;;x
-String_Forest;Forest;;;;;;;;;;;;;x
-String_Freyja;Freyja;;;;;;;;;;;;;x
-String_Freyja_Expression;Glory to Freyja!;;;;;;;;;;;;;x
-String_Gauna;Gauna;;;;;;;;;;;;;x
-String_GetDevilWorshiperRank_fallback;Initiate;;;;;;;;;;;;;x
-String_GetDWDarkMagic_fallback;dark magic;;;;;;;;;;;;;x
-String_GetDWDemon_fallback;demon;;;;;;;;;;;;;x
-String_GetDWDemons_fallback;demons;;;;;;;;;;;;;x
-String_GetDWDevil_fallback;the Devil;;;;;;;;;;;;;x
-String_GetDWDevilCap_fallback;The Devil;;;;;;;;;;;;;x
-String_GetDWMagician_fallback;practitioner of magic;;;;;;;;;;;;;x
-String_GetSocietyName_fallback;my court;;;;;;;;;;;;;x
-String_GetSocietyNameCap_fallback;My court;;;;;;;;;;;;;x
-String_Glory_to_Freyja;Glory to Freyja!;;;;;;;;;;;;;x
-String_GrandEnchanter;Grand Enchanter;;;;;;;;;;;;;x
-String_Heaven;Heaven;;;;;;;;;;;;;x
-String_house_of_worship;chapel;;;;;;;;;;;;;x
-String_hummingbird_symbol;hummingbird symbol;;;;;;;;;;;;;x
-String_Iblis_Expression;Glory to Iblis!;;;;;;;;;;;;;x
-String_Initate;Initiate;;;;;;;;;;;;;x
-String_Jains;Jains;;;;;;;;;;;;;x
-String_Kali_Expression;Glory to the Lord of Kali Yuga!;;;;;;;;;;;;;x
-string_kid;kid;;;;;;;;;;;;;x
-string_kids;kids;;;;;;;;;;;;;x
-String_Lady;Lady;;;;;;;;;;;;;x
-String_leaning;leaning;;;;;;;;;;;;;x
-String_Leaning;Leaning;;;;;;;;;;;;;x
-String_ledger;ledger;;;;;;;;;;;;;x
-String_location_adj_wondertype;[target_province.GetName] [This.GetWonderAdjCap] [This.GetWonderTypeShortCap];;;;;;;;;;;;;x
-String_Lord;Lord;;;;;;;;;;;;;x
-String_Magistrate;Magistrate;;;;;;;;;;;;;x
-String_make_me_smarter;make me smarter;;;;;;;;;;;;;x
-String_make_me_stronger;make me stronger;;;;;;;;;;;;;x
-String_marvelous;marvelous;;;;;;;;;;;;;x
-String_Marvelous;Marvelous;;;;;;;;;;;;;x
-String_Mead;Mead;;;;;;;;;;;;;x
-string_people;people;;;;;;;;;;;;;x
-# string_reformer_child_god;[scoped_god_child.GetFirstName];;;;;;;;;;;;;x
-string_reformer_god;[Root.GetFirstName];;;;;;;;;;;;;x
-# string_reformer_sibling_god;[scoped_god_sibling.GetFirstName];;;;;;;;;;;;;x
-# string_reformer_spouse_god;[scoped_god_spouse.GetFirstName];;;;;;;;;;;;;x
-String_restless;restless;;;;;;;;;;;;;x
-string_saint_patrick;Saint Patrick of Ireland;;;;;;;;;;;;;x
-string_saint_peter;Saint Peter of Rome;;;;;;;;;;;;;x
-String_Satan_Expression;Glory to The Deceiver!;;;;;;;;;;;;;x
-String_Settlement;Settlement;;;;;;;;;;;;;x
-String_Shias;Shias;;;;;;;;;;;;;x
-String_stonehenge;stonehenge;;;;;;;;;;;;;x
-string_strong_as_mythological;and I feel as strong as a [GetRandomMythologicalCreature];;;;;;;;;;;;;x
-String_Sunnis;Sunnis;;;;;;;;;;;;;x
-String_terrible;terrible;;;;;;;;;;;;;x
-String_Terrible;Terrible;;;;;;;;;;;;;x
-String_the_Advaita_Matha;the Advaita Matha;;;;;;;;;;;;;x
-String_the_Advaita_Matha_alternate;the Ardent Followers;;;;;;;;;;;;;x
-String_The_Assassins;The Assassins;;;;;;;;;;;;;x
-String_the_Assassins;the Assassins;;;;;;;;;;;;;x
-String_the_Bacchants;Bacchus' Mystery;;;;;;;;;;;;;x
-String_the_Benedictine_Order;the Benedictine Order;;;;;;;;;;;;;x
-String_the_Benedictine_Order_alternate;The Diligent Ones;;;;;;;;;;;;;x
-String_the_Cold_Ones;the Cold Ones;;;;;;;;;;;;;x
-String_the_Community_of_Saint_Abraham;the Community of Saint Abraham;;;;;;;;;;;;;x
-String_the_Community_of_Saint_Abraham_alternate;the Devout Worshipers;;;;;;;;;;;;;x
-String_the_Community_of_Saint_Anthony;the Community of Saint Anthony;;;;;;;;;;;;;x
-String_the_Community_of_Saint_Anthony_alternate;the Pious Following;;;;;;;;;;;;;x
-String_the_Community_of_Saint_Basil;the Community of Saint Basil;;;;;;;;;;;;;x
-String_the_Community_of_Saint_Basil_alternate;the Faithful Ones;;;;;;;;;;;;;x
-String_the_Cult_of_Kali_Purusha;the Cult of Kali Purusha;;;;;;;;;;;;;x
-String_The_Devil;The Devil;;;;;;;;;;;;;x
-String_the_Devil;the Devil;;;;;;;;;;;;;x
-String_the_Dominican_Order;the Dominican Order;;;;;;;;;;;;;x
-String_the_Dominican_Order_alternate;the Inquisitors;;;;;;;;;;;;;x
-String_the_Great_Pox;the Great Pox;;;;;;;;;;;;;x
-String_the_Plaguebringers;the Plaguebringers;;;;;;;;;;;;;x
-String_the_Satanists;Lucifer's Own;;;;;;;;;;;;;x
-String_The_Satanists;Lucifer's Own;;;;;;;;;;;;;x
-String_the_Savaka_Sangha;the Savaka-Sangha;;;;;;;;;;;;;x
-String_the_Savaka_Sangha_alternate;the Peaceful Ones;;;;;;;;;;;;;x
-String_the_Sravaka_Samgha;the Sravaka-Samgha;;;;;;;;;;;;;x
-String_the_Sravaka_Samgha_alternate;the Enlightened Fellowship;;;;;;;;;;;;;x
-String_the_Stoics;the Stoics;;;;;;;;;;;;;x
-String_the_Trollcrafters;the Fellowship of Hel;;;;;;;;;;;;;x
-String_the_Vodouns;The Soul Eaters;;;;;;;;;;;;;x
-String_time_immemorial_cap;Time immemorial;;;;;;;;;;;;;x
-String_Vineyard;Vineyard;;;;;;;;;;;;;x
-String_Whiskey;Whiskey;;;;;;;;;;;;;x
-String_whispering;whispering;;;;;;;;;;;;;x
-String_Whispering;Whispering;;;;;;;;;;;;;x
-String_Woods;Woods;;;;;;;;;;;;;x
+String_abdicate_titles;Leave your titles behind, and keep your life!;;;;;;;;;;;— Îòêàæèñü îò òèòóëîâ è ÿ ñîõðàíþ òåáå æèçíü!;;x
+string_alternate_reconquista_crusade;Reconquista;;;;;;;;;;;Ðåêîíêèñòû;;x
+string_alternate_shepherds_crusade;Shepherds';;;;;;;;;;;Ïàñòóøêîâ;;x
+String_Angas_Sutras;Angas Sutras;;;;;;;;;;;Àíãà-ñóòðû;;x
+String_Apprentice;Apprentice;;;;;;;;;;;Ó÷åíè[This.GetTsaK];;x
+String_Bent;Bent;;;;;;;;;;;Èçîãíóò;;x
+String_bent;bent;;;;;;;;;;;èçîãíóò;;x
+String_Brewery;Brewery;;;;;;;;;;;Áðîâàðíÿ;;x
+String_Catholics;Catholics;;;;;;;;;;;êàòîëèêè;;x
+String_Cider;Cider;;;;;;;;;;;ñèäðà;;x
+String_dark_arts;dark arts;;;;;;;;;;;ò¸ìíûå èñêóññòâà;;x
+String_empty_space; ;;;;;;;;;;; ;;x
+String_evil_spirit;Evil Spirit;;;;;;;;;;;Çëîé äóõ;;x
+String_evil_spirits;Evil Spirits;;;;;;;;;;;Çëûå äóõè;;x
+string_fallback_consort;consort;;;;;;;;;;;íàëîæíèöà;;x
+String_Forest;Forest;;;;;;;;;;;Ëåñ;;x
+String_Freyja;Freyja;;;;;;;;;;;Ôðåéÿ;;x
+String_Freyja_Expression;Glory to Freyja!;;;;;;;;;;;Ñëàâà Ôðåéå!;;x
+String_Gauna;Gauna;;;;;;;;;;;Ãàóíà;;x
+String_GetDevilWorshiperRank_fallback;Initiate;;;;;;;;;;;Ïîñâÿù¸íí[This.GetAyaYy];;x
+String_GetDWDarkMagic_fallback;dark magic;;;;;;;;;;;ò¸ìíàÿ ìàãèÿ;;x
+String_GetDWDemon_fallback;demon;;;;;;;;;;;äåìîí;;x
+String_GetDWDemons_fallback;demons;;;;;;;;;;;äåìîíû;;x
+String_GetDWDevil_fallback;the Devil;;;;;;;;;;;äüÿâîë;;x
+String_GetDWDevilCap_fallback;The Devil;;;;;;;;;;;Äüÿâîë;;x
+String_GetDWMagician_fallback;practitioner of magic;;;;;;;;;;;÷àðîäåé[This.GetEndKa];;x
+String_GetSocietyName_fallback;my court;;;;;;;;;;;ìîè ïðèäâîðíûå;;x
+String_GetSocietyNameCap_fallback;My court;;;;;;;;;;;Ìîè ïðèäâîðíûå;;x
+String_Glory_to_Freyja;Glory to Freyja!;;;;;;;;;;;Ñëàâà Ôðåéå!;;x
+String_GrandEnchanter;Grand Enchanter;;;;;;;;;;;Âåëèê[This.GetAyaIy] ÷àðîäåé[This.GetEndKa];;x
+String_Heaven;Heaven;;;;;;;;;;;Íåáåñ;;x
+String_house_of_worship;chapel;;;;;;;;;;;÷àñîâíÿ;;x
+String_hummingbird_symbol;hummingbird symbol;;;;;;;;;;;ñèìâîë êîëèáðè;;x
+String_Iblis_Expression;Glory to Iblis!;;;;;;;;;;;Ñëàâà Èáëèñó!;;x
+String_Initate;Initiate;;;;;;;;;;;Ïîñâÿù¸íí[This.GetAyaYy];;x
+String_Jains;Jains;;;;;;;;;;;äæàéíû;;x
+String_Kali_Expression;Glory to the Lord of Kali Yuga!;;;;;;;;;;;Ñëàâà Ïîâåëèòåëþ Êàëè Þãè!;;x
+string_kid;kid;;;;;;;;;;;ïîäðîñòîê;;x
+string_kids;kids;;;;;;;;;;;ïîäðîñòêè;;x
+String_Lady;Lady;;;;;;;;;;;Óâàæàåìàÿ;;x
+String_leaning;leaning;;;;;;;;;;;íàêëîíí;;x
+String_Leaning;Leaning;;;;;;;;;;;Íàêëîíí;;x
+String_ledger;ledger;;;;;;;;;;;ãðîññáóõ;;x
+String_location_adj_wondertype;[target_province.GetName] [This.GetWonderAdjCap] [This.GetWonderTypeShortCap];;;;;;;;;;;[target_wonder.GetWonderAdjCap][target_wonder.GetWonderAyaYyYeOe] [target_province.County.GetAdjective]ñê[target_wonder.GetWonderAyaIyIeOe] [target_wonder.GetWonderTypeShortCap];;x
+String_Lord;Lord;;;;;;;;;;;Óâàæàåìûé;;x
+String_Magistrate;Magistrate;;;;;;;;;;;Ìàãèñòðàò[This.GetEndKa];;x
+String_make_me_smarter;make me smarter;;;;;;;;;;;ñäåëàòü ìåíÿ óìíåå;;x
+String_make_me_stronger;make me stronger;;;;;;;;;;;ñäåëàòü ìåíÿ ñèëüíåå;;x
+String_marvelous;marvelous;;;;;;;;;;;÷óäåñí;;x
+String_Marvelous;Marvelous;;;;;;;;;;;×óäåñí;;x
+String_Mead;Mead;;;;;;;;;;;ì¸äà;;x
+string_people;people;;;;;;;;;;;ëþäè;;x
+# string_reformer_child_god;[scoped_god_child.GetFirstName];;;;;;;;;;;[scoped_god_child.GetFirstName];;x
+string_reformer_god;[Root.GetFirstName];;;;;;;;;;;[Root.GetFirstName]-[Root.GetRulerGod];;x
+# string_reformer_sibling_god;[scoped_god_sibling.GetFirstName];;;;;;;;;;;[scoped_god_sibling.GetFirstName];;x
+# string_reformer_spouse_god;[scoped_god_spouse.GetFirstName];;;;;;;;;;;[scoped_god_spouse.GetFirstName];;x
+String_restless;restless;;;;;;;;;;;Òðåâîæí[This.GetAyaYy];;x
+string_saint_patrick;Saint Patrick of Ireland;;;;;;;;;;;Ñâÿòîé Ïàòðèê èç Èðëàíäèè;;x
+string_saint_peter;Saint Peter of Rome;;;;;;;;;;;Ñâÿòîé Ï¸òð;;x
+String_Satan_Expression;Glory to The Deceiver!;;;;;;;;;;;Ñëàâà Ëóêàâîìó!;;x
+String_Settlement;Settlement;;;;;;;;;;;Ïîñåëåíèå;;x
+String_Shias;Shias;;;;;;;;;;;øèèòû;;x
+String_stonehenge;stonehenge;;;;;;;;;;;ñòîóíõåíäæ;;x
+string_strong_as_mythological;and I feel as strong as a [GetRandomMythologicalCreature];;;;;;;;;;;, ÿ ÷óâñòâîâàë[This.GetEndA] ñåáÿ ñèëüí[This.GetOyYm] êàê [This.GetRandomMythologicalCreature];;x
+String_Sunnis;Sunnis;;;;;;;;;;;ñóííèòû;;x
+String_terrible;terrible;;;;;;;;;;;óæàñí;;x
+String_Terrible;Terrible;;;;;;;;;;;Óæàñí;;x
+String_the_Advaita_Matha;the Advaita Matha;;;;;;;;;;;Àäâàéòà Ìàòõà;;x
+String_the_Advaita_Matha_alternate;the Ardent Followers;;;;;;;;;;;Íåóìîëèìûå;;x
+String_The_Assassins;The Assassins;;;;;;;;;;;Àññàñèíû;;x
+String_the_Assassins;the Assassins;;;;;;;;;;;àññàñèíû;;x
+String_the_Bacchants;Bacchus' Mystery;;;;;;;;;;;ñëóæèòåëè Áàõóñà;;x
+String_the_Benedictine_Order;the Benedictine Order;;;;;;;;;;;áåíåäèêòèíöû;;x
+String_the_Benedictine_Order_alternate;The Diligent Ones;;;;;;;;;;;Ïðèëåæíûå;;x
+String_the_Cold_Ones;the Cold Ones;;;;;;;;;;;õëàäíèêè;;x
+String_the_Community_of_Saint_Abraham;the Community of Saint Abraham;;;;;;;;;;;àâðààìèòû;;x
+String_the_Community_of_Saint_Abraham_alternate;the Devout Worshipers;;;;;;;;;;;Íàáîæíûå;;x
+String_the_Community_of_Saint_Anthony;the Community of Saint Anthony;;;;;;;;;;;àíòîíèòû;;x
+String_the_Community_of_Saint_Anthony_alternate;the Pious Following;;;;;;;;;;;Áëàãî÷åñòèâûå;;x
+String_the_Community_of_Saint_Basil;the Community of Saint Basil;;;;;;;;;;;áàçèëèàíå;;x
+String_the_Community_of_Saint_Basil_alternate;the Faithful Ones;;;;;;;;;;;Âåðóþùèå;;x
+String_the_Cult_of_Kali_Purusha;the Cult of Kali Purusha;;;;;;;;;;;ïîñëåäîâàòåëè Êàëè Ïóðóøè;;x
+String_The_Devil;The Devil;;;;;;;;;;;Äüÿâîë;;x
+String_the_Devil;the Devil;;;;;;;;;;;äüÿâîë;;x
+String_the_Dominican_Order;the Dominican Order;;;;;;;;;;;äîìèíèêàíöû;;x
+String_the_Dominican_Order_alternate;the Inquisitors;;;;;;;;;;;Èíêâèçèòîðû;;x
+String_the_Great_Pox;the Great Pox;;;;;;;;;;;Âåëèêàÿ îñïà;;x
+String_the_Plaguebringers;the Plaguebringers;;;;;;;;;;;ïðèíîñÿùèå ×óìó;;x
+String_the_Satanists;Lucifer's Own;;;;;;;;;;;ñëóãè Äüÿâîëà;;x
+String_The_Satanists;Lucifer's Own;;;;;;;;;;;Ñëóãè Äüÿâîëà;;x
+String_the_Savaka_Sangha;the Savaka-Sangha;;;;;;;;;;;Ñàâàêà-Ñàíãõà;;x
+String_the_Savaka_Sangha_alternate;the Peaceful Ones;;;;;;;;;;;Ìèðíûå;;x
+String_the_Sravaka_Samgha;the Sravaka-Samgha;;;;;;;;;;;Ñðàâàêà-Ñàìãõà;;x
+String_the_Sravaka_Samgha_alternate;the Enlightened Fellowship;;;;;;;;;;;Ïðîñâÿù¸ííûå;;x
+String_the_Stoics;the Stoics;;;;;;;;;;;ñòîèêè;;x
+String_the_Trollcrafters;the Fellowship of Hel;;;;;;;;;;;ñîðàòíèêè Õåëü;;x
+String_the_Vodouns;The Soul Eaters;;;;;;;;;;;ïîæèðàòåëè äóø;;x
+String_time_immemorial_cap;Time immemorial;;;;;;;;;;;Äðåâíèå âðåìåíà;;x
+String_Vineyard;Vineyard;;;;;;;;;;;Âèíîäåëüíÿ;;x
+String_Whiskey;Whiskey;;;;;;;;;;;âèñêè;;x
+String_whispering;whispering;;;;;;;;;;;ò¸ìí;;x
+String_Whispering;Whispering;;;;;;;;;;;Ò¸ìí;;x
+String_Woods;Woods;;;;;;;;;;;Ðîùà;;x

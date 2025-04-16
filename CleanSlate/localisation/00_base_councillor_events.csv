@@ -1,20 +1,18 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
 # councillor_events.txt
-
 # Councillor helps liege manage titles
-evt_18000_desc_a;Your [Root.GetChancellorName], [Root.job_chancellor.GetTitledFirstName], has offered to go through your newly acquired demesne titles and distribute them to existing or new vassals in order to ease your burden of government.;;;;;;;;;;;;;x
-evt_18000_desc_b;Your [Root.GetTreasurerName], [Root.job_treasurer.GetTitledFirstName], has offered to go through your newly acquired demesne titles and distribute them to existing or new vassals in order to ease your burden of government.;;;;;;;;;;;;;x
-evt_18000_desc_c;Your [Root.GetLordSpiritualName], [Root.job_spiritual.GetTitledFirstName], has offered to go through your newly acquired demesne titles and distribute them to existing or new vassals in order to ease your burden of government.;;;;;;;;;;;;;x
-evt_18000_option_a;Yes I would appreciate some help!;;;;;;;;;;;;;x
-evt_18000_option_b;No thanks I'm fine!;;;;;;;;;;;;;x
-evt_18000_option_c;Stop bothering me about this nonsense!;;;;;;;;;;;;;x
-evt_18000_option_c_tooltip;None of your council members will bother you about this matter in the near future.;;;;;;;;;;;;;x
-evt_18001_desc;My liege has agreed to give me the responsibility of handing out [From.GetHerHis] recently acquired titles.;;;;;;;;;;;;;x
-evt_18002_desc;My liege has denied to give me the responsibility of handing out [From.GetHerHis] recently acquired titles.;;;;;;;;;;;;;x
-evt_18004_desc;I've been given a title by my liege to hand out.;;;;;;;;;;;;;x
-evt_18004_option_a;Give title to the best candidate.;;;;;;;;;;;;;x
-evt_18004_option_b;Give title to the second best candidate.;;;;;;;;;;;;;x
-evt_18004_option_c;Give title to the third best candidate.;;;;;;;;;;;;;x
-evt_18004_option_d;Give title to an unknown noble.;;;;;;;;;;;;;x
-evt_18004_option_e;Give title to someone close to you.;;;;;;;;;;;;;x
+evt_18000_desc_a;Your [Root.GetChancellorName], [Root.job_chancellor.GetTitledFirstName], has offered to go through your newly acquired demesne titles and distribute them to existing or new vassals in order to ease your burden of government.;;;;;;;;;;;[Root.GetChancellorName] [Root.job_chancellor.GetTitledFirstName] ïðåäëàãàåò ðàñïðåäåëèòü âñå íîâîïðèîáðåò¸ííûå çåìåëüíûå òèòóëû ìåæäó òåêóùèìè èëè íîâûìè âàññàëàìè, ÷òîáû îáëåã÷èòü áðåìÿ âëàñòè.;;x
+evt_18000_desc_b;Your [Root.GetTreasurerName], [Root.job_treasurer.GetTitledFirstName], has offered to go through your newly acquired demesne titles and distribute them to existing or new vassals in order to ease your burden of government.;;;;;;;;;;;[Root.GetTreasurerName] [Root.job_treasurer.GetTitledFirstName] ïðåäëàãàåò ðàñïðåäåëèòü âñå íîâîïðèîáðåò¸ííûå çåìåëüíûå òèòóëû ìåæäó òåêóùèìè èëè íîâûìè âàññàëàìè, ÷òîáû îáëåã÷èòü áðåìÿ âëàñòè.;;x
+evt_18000_desc_c;Your [Root.GetLordSpiritualName], [Root.job_spiritual.GetTitledFirstName], has offered to go through your newly acquired demesne titles and distribute them to existing or new vassals in order to ease your burden of government.;;;;;;;;;;;[Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName] ïðåäëàãàåò ðàñïðåäåëèòü âñå íîâîïðèîáðåò¸ííûå çåìåëüíûå òèòóëû ìåæäó òåêóùèìè èëè íîâûìè âàññàëàìè, ÷òîáû îáëåã÷èòü áðåìÿ âëàñòè.;;x
+evt_18000_option_a;Yes I would appreciate some help!;;;;;;;;;;;Ïîìîùü ìíå áû ñåé÷àñ íå ïîìåøàëà.;;x
+evt_18000_option_b;No thanks I'm fine!;;;;;;;;;;;Íåò, áëàãîäàðþ.;;x
+evt_18000_option_c;Stop bothering me about this nonsense!;;;;;;;;;;;Ïðåêðàòèòå áåñïîêîèòü ìåíÿ ýòîé õðåíüþ!;;x
+evt_18000_option_c_tooltip;None of your council members will bother you about this matter in the near future.;;;;;;;;;;;Íè îäèí èç Âàøèõ ñîâåòíèêîâ âïðåäü íå ñòàíåò áåñïîêîèòü Âàñ ýòîé õðåíüþ.;;x
+evt_18001_desc;My liege has agreed to give me the responsibility of handing out [From.GetHerHis] recently acquired titles.;;;;;;;;;;;Ì[Root.Liege.GetOyaOy] [Root.Liege.GetLordLady] ñîãëàñè[Root.Liege.GetLasLsya] ïåðåëîæèòü íà ìåíÿ îòâåòñòâåííîñòü çà ðàñïðåäåëåíèå íåêîòîðûõ èç ñâîèõ íîâîîáðåò¸ííûõ òèòóëîâ ìåæäó âàññàëàìè.;;x
+evt_18002_desc;My liege has denied to give me the responsibility of handing out [From.GetHerHis] recently acquired titles.;;;;;;;;;;;Ì[Root.Liege.GetOyaOy] [Root.Liege.GetLordLady] îòêàçà[Root.Liege.GetLasLsya] ïåðåêëàäûâàòü íà ìåíÿ îòâåòñòâåííîñòü çà ðàïðåäåëåíèå êàêèõ-ëèáî èç ñâîèõ íîâîîáðåò¸ííûõ òèòóëîâ ìåæäó âàññàëàìè.;;x
+evt_18004_desc;I've been given a title by my liege to hand out.;;;;;;;;;;;Ìíå òîëüêî ÷òî áûëè äàðîâàíû ïîëíîìî÷èÿ ïî ïåðåäà÷å òèòóëà. Êîìó ÿ åãî ïåðåäàì?;;x
+evt_18004_option_a;Give title to the best candidate.;;;;;;;;;;;Ëó÷øåìó êàíäèäàòó.;;x
+evt_18004_option_b;Give title to the second best candidate.;;;;;;;;;;;Âòîðîìó â ñïèñêå ëó÷øèõ.;;x
+evt_18004_option_c;Give title to the third best candidate.;;;;;;;;;;;Òðåòüåìó â ñïèñêå ëó÷øèõ.;;x
+evt_18004_option_d;Give title to an unknown noble.;;;;;;;;;;;Íåèçâåñòíîìó ÷åëîâåêó áëàãîðîäíîãî ïðîèñõîæäåíèÿ.;;x
+evt_18004_option_e;Give title to someone close to you.;;;;;;;;;;;Áëèçêîìó ìíå ÷åëîâåêó.;;x

@@ -1,106 +1,96 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC36000;I am out in the woods, and I see a mighty stag while my party is hunting.;;;;;;;;;;;;;x
-EVTDESC36001;I know people are out to kill me, and they are after me while I hunt.;;;;;;;;;;;;;x
-EVTDESC36002;I got him while he hunts.;;;;;;;;;;;;;x
-EVTDESC36003;I managed to injure him on the latest hunt.;;;;;;;;;;;;;x
-EVTDESC36004;I thought I was finally able to kill him.;;;;;;;;;;;;;x
-EVTDESC36005;What?? My Liege has killed me;;;;;;;;;;;;;x
-EVTDESC36010;A white hart has been seen in the north of [Root.Location.GetName]. I am told it is a hart of ten and the biggest deer ever seen.;;;;;;;;;;;;;x
-EVTDESC36015;The dogs have caught scent of a boar in the forest. This is the chance of getting a mighty boar slain.;;;;;;;;;;;;;x
-EVTDESC36020;Our hunting party has cornered a large bear. A small argument amongst the hunters regarding who should get to kill the bear has nearly turned into a brawl.;;;;;;;;;;;;;x
-EVTDESC36025;The hounds were more alert this morning than I've ever seen before. Something stupendous must be awaiting us.;;;;;;;;;;;;;x
-EVTDESC36026;The hounds have torn a small child of a peasant to pieces. This may tarnish our reputation slightly.;;;;;;;;;;;;;x
-EVTDESC36030;While chasing an agile deer my horse stumbled and broke his leg. Luckily, I was thrown off, but now my horse is in pain...;;;;;;;;;;;;;x
-EVTDESC36035;The sighthounds thirsted for blood this gentle afternoon and they brought us many hares.;;;;;;;;;;;;;x
-EVTDESC36040;My lack of hunting skill is becoming quite obvious. My court is talking about my failure in not so quite quiet voices.;;;;;;;;;;;;;x
-EVTDESC36045;I am such a good hunter that I do not always need my retinue when I hunt. There is a large pack of wolves ahead, and they look hungry.;;;;;;;;;;;;;x
-EVTDESC36050;I've taken down a large deer on my own. My skill is legendary in [Root.Location.GetName], but my liege is not always as skillful as I am.;;;;;;;;;;;;;x
-EVTDESC36051;[From.GetTitledFirstName] is boasting about how much better a hunter [From.GetSheHe] is, compared to you, just because [From.GetSheHe] killed a large deer on [From.GetHerHis] own.;;;;;;;;;;;;;x
-EVTDESC36052;[From.GetTitledFirstName] is such a humble vassal, giving me the honor of [From.GetHerHis] kill from the hunt. [From.GetSheHeCap] is a benefit to my rule, and [From.GetHerHis] humility is an example to us all.;;;;;;;;;;;;;x
-EVTDESC36080;I have given the order for a Grand Hunt to be organized in [Root.Location.GetName].;;;;;;;;;;;;;x
-EVTDESC36089;War disrupts our Grand Hunt. We are forced to cancel our activities.;;;;;;;;;;;;;x
-EVTDESC36090;The Grand Hunt is over for now. This was a truly noble endeavour and a true challenge for our martial abilities.;;;;;;;;;;;;;x
-EVTDESC100510;It is a perfect opportunity - my liege [Root.Liege.GetTitledFirstName] has invited both me and my rival to [Root.Liege.GetHerHis] hunt in the forests of [Root.Liege.Location.GetName]. A small mistake can have devastating consequences, an arrow released at the wrong time might pierce through my rival's heart...;;;;;;;;;;;;;x
-EVTDESC100511;I heard the arrow the second before it hit. The whirring noise its feather made as it sang its way through the forest should have made it easier to avoid it...;;;;;;;;;;;;;x
-EVTDESC100512;I held my breath as the arrow left the bow, willed my eyes to stay open and follow its path. It was aimed directly at [From.GetTitledFirstName] and I was sure the arrow would hit true...;;;;;;;;;;;;;x
-EVTDESC100513;The arrow struck true, piercing [From.GetTitledFirstName]'s heart and [From.GetSheHe] was dead before [From.GetSheHe] fell off the horse. No one wanted to admit whose arrow killed [From.GetTitledFirstName] and so [From.GetTitledFirstName] death became a sad hunting accident.;;;;;;;;;;;;;x
-EVTDESC100514;My father [Root.Father.GetTitledFirstName]'s hunting accident was no accident. [From.GetTitledFirstName], my father's rival, held the bow with the arrow that pierced my father's heart!;;;;;;;;;;;;;x
-
-EVTOPTA36000;What are the odds?;;;;;;;;;;;;;x
-EVTOPTA36001;Do nothing, I can't let them know that I know;;;;;;;;;;;;;x
-EVTOPTA36002;I let the arrow fly and no one knows any better;;;;;;;;;;;;;x
-EVTOPTA36003;The arrow struck but not quite where I wanted;;;;;;;;;;;;;x
-EVTOPTA36004;But he got me first;;;;;;;;;;;;;x
-EVTOPTA36005;He thought I wanted to kill him;;;;;;;;;;;;;x
-EVTOPTA36010;I find no joy in killing such a proud animal;;;;;;;;;;;;;x
-EVTOPTA36015;The peasants will finish it.;;;;;;;;;;;;;x
-EVTOPTA36020;Just solve it already!;;;;;;;;;;;;;x
-EVTOPTA36025;What are we waiting for? Let's go!;;;;;;;;;;;;;x
-EVTOPTA36026;Make amends.;;;;;;;;;;;;;x
-EVTOPTA36030;I will end his suffering myself;;;;;;;;;;;;;x
-EVTOPTA36035;This is a fine sport!;;;;;;;;;;;;;x
-EVTOPTA36040;Admit my failure.;;;;;;;;;;;;;x
-EVTOPTA36045;I need more warm pelts for the winter.;;;;;;;;;;;;;x
-EVTOPTA36050;Boast about your prowess!;;;;;;;;;;;;;x
-EVTOPTA36051;[From.GetSheHeCap] can not hunt from the dungeon.;;;;;;;;;;;;;x
-EVTOPTA36052;Thank [From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTOPTA36080;I will find the White [Root.GetHuntingQuarryCap].;;;;;;;;;;;;;x
-EVTOPTA36089;There is always next autumn...;;;;;;;;;;;;;x
-EVTOPTA36090;I am proud of my hunting abilities.;;;;;;;;;;;;;x
-EVTOPTA100510;It's now or never!;;;;;;;;;;;;;x
-EVTOPTA100511;The arrow hit my arm!;;;;;;;;;;;;;x
-EVTOPTA100512;...it hit [From.GetTitledFirstName]'s arm, wounding [From.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTA100513;A perfect shot!;;;;;;;;;;;;;x
-EVTOPTA100514;I will get my revenge, sooner than later!;;;;;;;;;;;;;x
-
-EVTOPTB36000;A Stag? RUN AWAAAY;;;;;;;;;;;;;x
-EVTOPTB36001;I must prepare an ambush;;;;;;;;;;;;;x
-EVTOPTB36010;I will send out our best hunter.;;;;;;;;;;;;;x
-EVTOPTB36015;I will face it alone with my spear.;;;;;;;;;;;;;x
-EVTOPTB36020;Give me the bear spear!;;;;;;;;;;;;;x
-EVTOPTB36025;I think my horse has a limp;;;;;;;;;;;;;x
-EVTOPTB36026;Its just a peasant...;;;;;;;;;;;;;x
-EVTOPTB36030;Huntsman, I need you!;;;;;;;;;;;;;x
-EVTOPTB36040;Claim someone else's success as mine.;;;;;;;;;;;;;x
-EVTOPTB36045;Maybe it's better to run....;;;;;;;;;;;;;x
-EVTOPTB36050;Give [Root.Liege.GetTitledFirstName] the Honor!;;;;;;;;;;;;;x
-EVTOPTB36051;Thank [Root.Religion.GetRandomGodName] for [From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTOPTB100510;Peasant, fire at my command!;;;;;;;;;;;;;x
-EVTOPTB100511;The arrow pierced my leg!;;;;;;;;;;;;;x
-EVTOPTB100512;...it hit [From.GetTitledFirstName]'s leg, maiming [From.GetHerHim]!;;;;;;;;;;;;;x
-
-EVTOPTC36000;Spare its majesty;;;;;;;;;;;;;x
-EVTOPTC36010;This is my kill.;;;;;;;;;;;;;x
-EVTOPTC36020;Anyone but me, don't give it to me;;;;;;;;;;;;;x
-EVTOPTC36025;I don't care what it is, we'll hunt it.;;;;;;;;;;;;;x
-EVTOPTC100510;Let's just enjoy the hunt;;;;;;;;;;;;;x
-EVTOPTC100511;The arrow... pierced my heart...;;;;;;;;;;;;;x
-EVTOPTC100512;...the arrow missed [From.GetTitledFirstName]!;;;;;;;;;;;;;x
-
-EVTOPTD36000;It would look really good above my fireplace;;;;;;;;;;;;;x
-EVTOPTD36025;Let's do this another day;;;;;;;;;;;;;x
-EVTOPTD36035;Another one? Isn't it enough now?;;;;;;;;;;;;;x
-EVTOPTD100511;The arrow only grazed me;;;;;;;;;;;;;x
-
-EVTTOOLTIP36004;I was killed by my liege?;;;;;;;;;;;;;x
-EVTTOOLTIP36010;The White Stag;;;;;;;;;;;;;x
-EVTTOOLTIP36026;The hounds brings down the child of a peasant..;;;;;;;;;;;;;x
-EVTTOOLTIP100511;[Root.GetTitledFirstName] bribes [This.GetTitledFirstName] to shoot [Root.GetHerHis] rival with an arrow;;;;;;;;;;;;;x
-EVTTOOLTIP100514;[This.GetTitledFirstName] swears vengeance on [This.GetHerHis] father [This.Father.GetTitledFirstName]'s murderer [Root.GetTitledFirstName];;;;;;;;;;;;;x
-
-EVTTOOLTIPA100512;[From.GetTitledFirstName] shot [Root.GetTitledFirstName] with an arrow!;;;;;;;;;;;;;x
-
-EVTTOOLTIPB100512;[This.GetTitledFirstName] tried to shoot [Root.GetTitledFirstName] with an arrow!;;;;;;;;;;;;;x
-
-EVTDESC4075;The day did not bring any game at all, it had been a futile hunting trip with my guests and my face still burned with shame when the gamekeeper told me about deer parks.;;;;;;;;;;;;;x
-EVTOPTA4075;Not good enough;;;;;;;;;;;;;x
-EVTOPTB4075;Go ahead!;;;;;;;;;;;;;x
-EVTOPTC4075;It will probably cost too much;;;;;;;;;;;;;x
-# EVTOPTD4075;It is an excellent idea!;;;;;;;;;;;;;x
-
+EVTDESC36000;I am out in the woods, and I see a mighty stag while my party is hunting.;;;;;;;;;;;ß íàõîæóñü äàëåêî â ëåñó, è çàìå÷àþ ìîãó÷åãî îëåíÿ, â òî âðåìÿ êàê îñòàëüíûå âåäóò îõîòó â äðóãîì ìåñòå.;;x
+EVTDESC36001;I know people are out to kill me, and they are after me while I hunt.;;;;;;;;;;;ß çíàþ, ÷òî åñòü ëþäè, êîòîðûå õîòÿò óáèòü ìåíÿ, è îíè óæå çäåñü, îíè õîòÿò óáèòü ìåíÿ íà îõîòå!;;x
+EVTDESC36002;I got him while he hunts.;;;;;;;;;;;ß óáèë åãî, êîãäà îí îõîòèëñÿ.;;x
+EVTDESC36003;I managed to injure him on the latest hunt.;;;;;;;;;;;Ìíå óäàëîñü ðàíèòü åãî âî âðåìÿ ïîñëåäíåé îõîòû.;;x
+EVTDESC36004;I thought I was finally able to kill him.;;;;;;;;;;;ß äóìàë, ÷òî ÿ, íàêîíåö-òî, ñìîã óáèòü åãî.;;x
+EVTDESC36005;What?? My Liege has killed me;;;;;;;;;;;×òî çà..? Ìîé ñþçåðåí óáèë ìåíÿ.;;x
+EVTDESC36010;A white hart has been seen in the north of [Root.Location.GetName]. I am told it is a hart of ten and the biggest deer ever seen.;;;;;;;;;;;Íà ñåâåðå îêðóãà [Root.Location.GetName] áûë çàìå÷åí Áåëûé Îëåíü. Ìíå ñêàçàëè, ÷òî îí êðóïíåå, ÷åì ëþáîé âèäåííûé äî ýòîãî.;;x
+EVTDESC36015;The dogs have caught scent of a boar in the forest. This is the chance of getting a mighty boar slain.;;;;;;;;;;;Ñîáàêè â ëåñó ïî÷óÿëè êàáàíà. Ýòî îòëè÷íûé øàíñ óáèòü ìîãó÷åãî âåïðÿ.;;x
+EVTDESC36020;Our hunting party has cornered a large bear. A small argument amongst the hunters regarding who should get to kill the bear has nearly turned into a brawl.;;;;;;;;;;;Íàøà îõîòà çàãíàëà â óãîë áîëüøîãî ìåäâåäÿ. Íåáîëüøîé ñïîð ìåæäó îõîòíèêàìè î òîì, êòî äîëæåí óáèòü ìåäâåäÿ, óæå ïî÷òè ïðåâðàòèëñÿ â äðàêó.;;x
+EVTDESC36025;The hounds were more alert this morning than I've ever seen before. Something stupendous must be awaiting us.;;;;;;;;;;;Ñåãîäíÿ óòðîì, ãîí÷èå áûëè áîëåå íàñòîðîæåíû, ÷åì îáû÷íî. Äîëæíî áûòü ÷òî-òî êîëîññàëüíîå îæèäàåò íàñ.;;x
+EVTDESC36026;The hounds have torn a small child of a peasant to pieces. This may tarnish our reputation slightly.;;;;;;;;;;;Ãîí÷èå ïîðâàëè ìàëåíüêîãî êðåñòüÿíñêîãî ðåá¸íêà íà êóñêè. Ýòî ìîæåò íåìíîãî ïîâðåäèòü ìîåé ðåïóòàöèè.;;x
+EVTDESC36030;While chasing an agile deer my horse stumbled and broke his leg. Luckily, I was thrown off, but now my horse is in pain...;;;;;;;;;;;Â ïîãîíå çà ëîâêèì îëåíåì ìîé êîíü ñïîòêíóëñÿ è ñëîìàë íîãó. Ê ñ÷àñòüþ, ÿ âûïàë[Root.GetEndA] èç ñåäëà, íî òåïåðü ìîÿ ëîøàäü ìó÷àåòñÿ îò áîëè.;;x
+EVTDESC36035;The sighthounds thirsted for blood this gentle afternoon and they brought us many hares.;;;;;;;;;;;Áîðçûå æàæäàëè êðîâè â ýòîò ñëàâíûé äåíü, è ïðèíåñëè íàì ìíîãî çàéöåâ.;;x
+EVTDESC36040;My lack of hunting skill is becoming quite obvious. My court is talking about my failure in not so quite quiet voices.;;;;;;;;;;;Óæå âñå ïîíÿëè, ÷òî îõîòíèê ÿ íåâàæíûé. Øåïîò îá ýòîì ñðåäè ìîèõ ïðèäâîðíûõ ñòàíîâèòñÿ íåïðèëè÷íî ãðîìêèì.;;x
+EVTDESC36045;I am such a good hunter that I do not always need my retinue when I hunt. There is a large pack of wolves ahead, and they look hungry.;;;;;;;;;;;ß íàñòîëüêî õîðîøèé îõîòíèê, ÷òî íå âñåãäà íóæäàþñü â ñâîåé ñâèòå, êîãäà îõî÷óñü. Âïåðåäè áîëüøàÿ ñòàÿ âîëêîâ, è îíè âûãëÿäÿò óæàñíî ãîëîäíûìè.;;x
+EVTDESC36050;I've taken down a large deer on my own. My skill is legendary in [Root.Location.GetName], but my liege is not always as skillful as I am.;;;;;;;;;;;Ìíå óäàëîñü â îäèíî÷êó çàâàëèòü áîëüøîãî îëåíÿ. Ìîè óìåíèÿ ïðîñëàâèëè ìåíÿ íà âñþ [Root.Location.County.GetAdjective]ñêóþ çåìëþ, è äàæå ìîé ñþçåðåí íå âñåãäà ìîæåò ñðàâíèòüñÿ ñî ìíîé â îõîòå.;;x
+EVTDESC36051;[From.GetTitledFirstName] is boasting about how much better a hunter [From.GetSheHe] is, compared to you, just because [From.GetSheHe] killed a large deer on [From.GetHerHis] own.;;;;;;;;;;;[From.GetTitledFirstName] õâàñòàåòñÿ, íàñêîëüêî [From.GetSheHe] ëó÷øèé îõîòíèê ÷åì Âû, òîëüêî ïîòîìó, ÷òî [From.GetHerHim] óäàëîñü óáèòü â îäèíî÷êó áîëüøîãî îëåíÿ.;;x
+EVTDESC36052;[From.GetTitledFirstName] is such a humble vassal, giving me the honor of [From.GetHerHis] kill from the hunt. [From.GetSheHeCap] is a benefit to my rule, and [From.GetHerHis] humility is an example to us all.;;;;;;;;;;;[From.GetTitledFirstName] òàêîé ïîêîðíûé âàññàë... Îòäà¸ò ìíå âñþ ñëàâó çà ñâîþ äîáû÷ó íà îõîòå. [From.GetSheHeCap] î÷åíü ïîìîãàåò ìîåìó ïðàâëåíèþ, [From.GetHersHis] ïîêîðíîñòü ÿâëÿåòñÿ ïðèìåðîì äëÿ âñåõ.;;x
+EVTDESC36080;I have given the order for a Grand Hunt to be organized in [Root.Location.GetName].;;;;;;;;;;;ß èçäàþ óêàç î òîì, ÷òî â [Root.Location.County.GetAdjective]ñêèõ ëåñàõ ñîñòîèòñÿ Áîëüøàÿ Îõîòà.;;x
+EVTDESC36089;War disrupts our Grand Hunt. We are forced to cancel our activities.;;;;;;;;;;;Âîéíà ïîìåøàëà íàøåé Áîëüøîé Îõîòå. Ìû âûíóæäåíû îòìåíèòü å¸.;;x
+EVTDESC36090;The Grand Hunt is over for now. This was a truly noble endeavour and a true challenge for our martial abilities.;;;;;;;;;;;Áîëüøàÿ Îõîòà çàêîí÷åíà. Îíà áûëà ïîèñòèíå áëàãîðîäíûì äåÿíèåì è íàñòîÿùèì âûçîâîì äëÿ íàøèõ áîåâûõ ñïîñîáíîñòåé.;;x
+EVTDESC100510;It is a perfect opportunity - my liege [Root.Liege.GetTitledFirstName] has invited both me and my rival to [Root.Liege.GetHerHis] hunt in the forests of [Root.Liege.Location.GetName]. A small mistake can have devastating consequences, an arrow released at the wrong time might pierce through my rival's heart...;;;;;;;;;;;Êàêàÿ ïðåêðàñíàÿ âîçìîæíîñòü - ìîé ñþçåðåí [Root.Liege.GetTitledFirstName] ïðèãëàøàåò ìåíÿ è ìîåãî âðàãà íà îõîòó â [Root.Liege.Location.County.GetAdjective]ñêèõ ëåñàõ. Ìàëåíüêàÿ îøèáêà ìîæåò èìåòü êàòàñòðîôè÷åñêèå ïîñëåäñòâèÿ, ñòðåëà âûïóùåííàÿ â íåóäà÷íûé ìîìåíò, ìîæåò ïðîáèòü ñåðäöå ìîåãî âðàãà.;;x
+EVTDESC100511;I heard the arrow the second before it hit. The whirring noise its feather made as it sang its way through the forest should have made it easier to avoid it...;;;;;;;;;;;ß ñëûøó çâóê ëåòÿùåé ñòðåëû çà ñåêóíäó äî ïîïàäàíèÿ. Ñâèñò å¸ îïåðåíèÿ, êàê ïåñíÿ ïðîíîñÿùàÿñÿ ïî ëåñó, äîëæåí ïîìî÷ü ìíå èçáåæàòü áåäû...;;x
+EVTDESC100512;I held my breath as the arrow left the bow, willed my eyes to stay open and follow its path. It was aimed directly at [From.GetTitledFirstName] and I was sure the arrow would hit true...;;;;;;;;;;;Çàòàèâ äûõàíèå, êàê òîëüêî ñòðåëà âûëåòåëà èç ëóêà, ÿ âñëóøèâàþñü â çâóê å¸ ïîë¸òà. Å¸ öåëü - íåñîìíåííî, [From.GetTitledFirstName]...;;x
+EVTDESC100513;The arrow struck true, piercing [From.GetTitledFirstName]'s heart and [From.GetSheHe] was dead before [From.GetSheHe] fell off the horse. No one wanted to admit whose arrow killed [From.GetTitledFirstName] and so [From.GetTitledFirstName] death became a sad hunting accident.;;;;;;;;;;;Ñòðåëà ïîðàçèëà öåëü, ïðîáèâ ñåðäöå. [From.GetTitledFirstName] ïîãèáàåò åùå äî òîãî, êàê ïàäàåò ñ ëîøàäè. Íèêòî íå ïðèçíàëñÿ, ÷üÿ ñòðåëà [From.GetHersHis] óáèëà, ïîýòîìó ïðîèçîøåäøåå ïðèçíàëè íåñ÷àñòíûì ñëó÷àåì íà îõîòå.;;x
+EVTDESC100514;My father [Root.Father.GetTitledFirstName]'s hunting accident was no accident. [From.GetTitledFirstName], my father's rival, held the bow with the arrow that pierced my father's heart!;;;;;;;;;;;Ìîé îòåö [Root.Father.GetTitledFirstName] ïîãèá íà îõîòå, è ýòî íå áûëî ñëó÷àéíîñòüþ. [From.GetTitledFirstName], âðàã ìîåãî îòöà, èìååò ëóê ñ òàêîé æå ñòðåëîé, êàê òà, êîòîðàÿ ïðîíçèëà ñåðäöå ìîåãî îòöà!;;x
+EVTOPTA36000;What are the odds?;;;;;;;;;;;Êàêîâû ìîè øàíñû?;;x
+EVTOPTA36001;Do nothing, I can't let them know that I know;;;;;;;;;;;Íè÷åãî íå ïðåäïðèíèìàòü, ÿ íå ìîãó ïîçâîëèòü èì çíàòü, ÷òî ÿ çíàþ.;;x
+EVTOPTA36002;I let the arrow fly and no one knows any better;;;;;;;;;;;ß ïóñêàþ ñòðåëó, è ïóñòü ÷òî áóäåò.;;x
+EVTOPTA36003;The arrow struck but not quite where I wanted;;;;;;;;;;;Ñòðåëà ïîïàëà, íî íå ñîâñåì òóäà, êóäà ÿ õîòåë...;;x
+EVTOPTA36004;But he got me first;;;;;;;;;;;Íî îí äîñòàë ìåíÿ ïåðâûì.;;x
+EVTOPTA36005;He thought I wanted to kill him;;;;;;;;;;;Îí äóìàë, ÷òî ÿ õîòåë óáèòü åãî;;x
+EVTOPTA36010;I find no joy in killing such a proud animal;;;;;;;;;;;ß íå íàõîæó ðàäîñòè â óáèéñòâå òàêîãî âåëèêîëåïíîãî æèâîòíîãî.;;x
+EVTOPTA36015;The peasants will finish it.;;;;;;;;;;;Ïóñòü êðåñòüÿíå ïðèêîí÷àò åãî.;;x
+EVTOPTA36020;Just solve it already!;;;;;;;;;;;Äà ïðîñòî ðåøèòå óæå íàêîíåö!;;x
+EVTOPTA36025;What are we waiting for? Let's go!;;;;;;;;;;;×åãî æå ìû æä¸ì? Âïåð¸ä!;;x
+EVTOPTA36026;Make amends.;;;;;;;;;;;Çàãëàäèòü âèíó.;;x
+EVTOPTA36030;I will end his suffering myself;;;;;;;;;;;ß ëè÷íî çàêîí÷ó å¸ ñòðàäàíèÿ;;x
+EVTOPTA36035;This is a fine sport!;;;;;;;;;;;Ýòî ïðåêðàñíûé âèä ñïîðòà!;;x
+EVTOPTA36040;Admit my failure.;;;;;;;;;;;Ïðèçíàòü ñâîé ïðîâàë.;;x
+EVTOPTA36045;I need more warm pelts for the winter.;;;;;;;;;;;Ìíå êàê ðàç íóæíû òåïëûå øêóðû íà çèìó.;;x
+EVTOPTA36050;Boast about your prowess!;;;;;;;;;;;Ïîõâàñòàòüñÿ ñâîåé äîáëåñòüþ!;;x
+EVTOPTA36051;[From.GetSheHeCap] can not hunt from the dungeon.;;;;;;;;;;;[From.GetSheHeCap] íå ñìîæåò îõîòèòüñÿ èç òåìíèöû.;;x
+EVTOPTA36052;Thank [From.GetTitledFirstName];;;;;;;;;;;Áîëüøîå ñïàñèáî, [From.GetTitledFirstName].;;x
+EVTOPTA36080;I will find the White [Root.GetHuntingQuarryCap].;;;;;;;;;;;ß íàéäó Áåëîãî [Root.GetHuntingQuarryCap].;;x
+EVTOPTA36089;There is always next autumn...;;;;;;;;;;;Òîãäà, äî ñëåäóþùåé îñåíè...;;x
+EVTOPTA36090;I am proud of my hunting abilities.;;;;;;;;;;;ß ãîðæóñü ñâîèìè îõîòíè÷üèìè ñïîñîáíîñòÿìè.;;x
+EVTOPTA100510;It's now or never!;;;;;;;;;;;Ñåé÷àñ èëè íèêîãäà!;;x
+EVTOPTA100511;The arrow hit my arm!;;;;;;;;;;;Ñòðåëà ïîïàëà ìíå â ðóêó!;;x
+EVTOPTA100512;...it hit [From.GetTitledFirstName]'s arm, wounding [From.GetHerHim]!;;;;;;;;;;;Ñòðåëà ðàíèò [From.GetHersHis], ïîïàâ â ðóêó!;;x
+EVTOPTA100513;A perfect shot!;;;;;;;;;;;Îòëè÷íûé âûñòðåë!;;x
+EVTOPTA100514;I will get my revenge, sooner than later!;;;;;;;;;;;ß îòîìùó, ðàíî èëè ïîçäíî!;;x
+EVTOPTB36000;A Stag? RUN AWAAAY;;;;;;;;;;;Îëåíü? Óáåãàåì!;;x
+EVTOPTB36001;I must prepare an ambush;;;;;;;;;;;ß äîëæåí ïîäãîòîâèòü çàñàäó;;x
+EVTOPTB36010;I will send out our best hunter.;;;;;;;;;;;ß âûøëþ òóäà íàøåãî ëó÷øåãî îõîòíèêà.;;x
+EVTOPTB36015;I will face it alone with my spear.;;;;;;;;;;;ß âñòðå÷óñü ñ íèì ëèöîì ê ëèöó â îäèíî÷êó. Ïîäàòü ñþäà ìî¸ êîïü¸!;;x
+EVTOPTB36020;Give me the bear spear!;;;;;;;;;;;Äàéòå ìíå ðîãàòèíó!;;x
+EVTOPTB36025;I think my horse has a limp;;;;;;;;;;;Ìíå êàæåòñÿ, ìîÿ ëîøàäü ñòàëà ïîõðàìûâàòü.;;x
+EVTOPTB36026;Its just a peasant...;;;;;;;;;;;Ýòî æå ïðîñòî ñìåðä...;;x
+EVTOPTB36030;Huntsman, I need you!;;;;;;;;;;;Ýé, îõîòíèê, èäè ñþäà, òû ìíå íóæåí!;;x
+EVTOPTB36040;Claim someone else's success as mine.;;;;;;;;;;;Ïðèïèñàòü ÷óæîé óñïåõ ñåáå.;;x
+EVTOPTB36045;Maybe it's better to run....;;;;;;;;;;;Íàâåðíîå, ëó÷øå óáåæàòü...;;x
+EVTOPTB36050;Give [Root.Liege.GetTitledFirstName] the Honor!;;;;;;;;;;;Îòäàòü âñþ ñëàâó ñþçåðåíó - [Root.Liege.GetTitledFirstName]!;;x
+EVTOPTB36051;Thank [Root.Religion.GetRandomGodName] for [From.GetTitledFirstName];;;;;;;;;;;Áëàãîäàðþ, [Root.Religion.GetRandomGodName], ÷òî åñòü [From.GetTitledFirstName];;x
+EVTOPTB100510;Peasant, fire at my command!;;;;;;;;;;;Êðåñòüÿíèí, îãîíü ïî ìîåé êîìàíäå!;;x
+EVTOPTB100511;The arrow pierced my leg!;;;;;;;;;;;Ñòðåëà ïðîíçèëà ìîþ íîãó!;;x
+EVTOPTB100512;...it hit [From.GetTitledFirstName]'s leg, maiming [From.GetHerHim]!;;;;;;;;;;;Ñòðåëà êàëå÷èò [From.GetHersHis], ïðîíçèâ íîãó!;;x
+EVTOPTC36000;Spare its majesty;;;;;;;;;;;Ïîùàäèòü åãî âåëè÷åñòâåííóþ êðàñîòó.;;x
+EVTOPTC36010;This is my kill.;;;;;;;;;;;Ýòî ìîÿ äîáû÷à.;;x
+EVTOPTC36020;Anyone but me, don't give it to me;;;;;;;;;;;Íå-íå-íå, òîëüêî íå ÿ.;;x
+EVTOPTC36025;I don't care what it is, we'll hunt it.;;;;;;;;;;;Êîãî áû îíè íè ïî÷óÿëè, îõîòà âûéäåò ñëàâíàÿ!;;x
+EVTOPTC100510;Let's just enjoy the hunt;;;;;;;;;;;Äàâàéòå ïðîñòî íàñëàæäàòüñÿ îõîòîé.;;x
+EVTOPTC100511;The arrow... pierced my heart...;;;;;;;;;;;Ñòðåëà... ïðîíçèëà ìî¸ ñåðäöå...;;x
+EVTOPTC100512;...the arrow missed [From.GetTitledFirstName]!;;;;;;;;;;;Ñòðåëà ïðîëåòàåò ìèìî!;;x
+EVTOPTD36000;It would look really good above my fireplace;;;;;;;;;;;Îòëè÷íî áóäåò ñìîòðåòüñÿ íàä ìîèì êàìèíîì.;;x
+EVTOPTD36025;Let's do this another day;;;;;;;;;;;Äàâàéòå îòëîæèì îõîòó íà äðóãîé äåíü.;;x
+EVTOPTD36035;Another one? Isn't it enough now?;;;;;;;;;;;Îïÿòü? Ñêîëüêî ìîæíî...;;x
+EVTOPTD100511;The arrow only grazed me;;;;;;;;;;;Ñòðåëà ÷óòü íå çàäåëà ìåíÿ!;;x
+EVTTOOLTIP36004;I was killed by my liege?;;;;;;;;;;;ß áûë óáèò ñîáñòâåííûì ñþçåðåíîì?;;x
+EVTTOOLTIP36010;The White Stag;;;;;;;;;;;Áåëûé îëåíü;;x
+EVTTOOLTIP36026;The hounds brings down the child of a peasant..;;;;;;;;;;;Ãîí÷èå ïðèíåñëè êðåñòüÿíñêîãî ðåá¸íêà...;;x
+EVTTOOLTIP100511;[Root.GetTitledFirstName] bribes [This.GetTitledFirstName] to shoot [Root.GetHerHis] rival with an arrow;;;;;;;;;;;[Root.GetTitledFirstName] ïîäêóïàåò ïåðñîíàæà [This.GetTitledFirstName] äëÿ óáèéñòâà âðàãà âûïóùåííîé ñòðåëîé.;;x
+EVTTOOLTIP100514;[This.GetTitledFirstName] swears vengeance on [This.GetHerHis] father [This.Father.GetTitledFirstName]'s murderer [Root.GetTitledFirstName];;;;;;;;;;;[This.GetTitledFirstName] êëÿí¸òñÿ îòîìñòèòü çà ñìåðòü ñâîåãî îòöà ([This.Father.GetTitledFirstName]) óáèéöå ([Root.GetTitledFirstName]).;;x
+EVTTOOLTIPA100512;[From.GetTitledFirstName] shot [Root.GetTitledFirstName] with an arrow!;;;;;;;;;;;ñòðåëÿåò â ïåðñîíàæà [Root.GetTitledFirstName] èç ëóêà!;;x
+EVTTOOLTIPB100512;[This.GetTitledFirstName] tried to shoot [Root.GetTitledFirstName] with an arrow!;;;;;;;;;;;ïûòàåòñÿ ñòðåëÿòü â ïåðñîíàæà [Root.GetTitledFirstName] èç ëóêà!;;x
+EVTDESC4075;The day did not bring any game at all, it had been a futile hunting trip with my guests and my face still burned with shame when the gamekeeper told me about deer parks.;;;;;;;;;;;Çà âåñü äåíü ìû íå íàøëè íèêàêîé äè÷è, îõîòà ñ ìîèìè ãîñòÿìè ïðåâðàòèëàñü ïóñòóþ òðàòó âðåìåíè. Ìî¸ ëèöî ãîðåëî îò ñòûäà, êîãäà åãåðü ðàññêàçûâàë î ñòàäå îëåíåé.;;x
+EVTOPTA4075;Not good enough;;;;;;;;;;;Ïîäóìàåøü, îëåíè...;;x
+EVTOPTB4075;Go ahead!;;;;;;;;;;;Âïåð¸ä!;;x
+EVTOPTC4075;It will probably cost too much;;;;;;;;;;;Ñêîðåå âñåãî, ýòî ïîòðåáóåò ñëèøêîì ìíîãî ñèë;;x
+# EVTOPTD4075;It is an excellent idea!;;;;;;;;;;;Ýòî îòëè÷íàÿ èäåÿ!;;x
 # No longer needed
-# EVTOPTA36080;I will find the White Stag.;;;;;;;;;;;;;x
-# EVTOPTB36080;I will find the White Bear.;;;;;;;;;;;;;x
-# EVTOPTC36080;I will find the White Tiger.;;;;;;;;;;;;;x
-# EVTOPTD36080;I will find the White Lion.;;;;;;;;;;;;;x
+# EVTOPTA36080;I will find the White Stag.;;;;;;;;;;;ß íàéäó Áåëîãî Îëåíÿ;;x
+# EVTOPTB36080;I will find the White Bear.;;;;;;;;;;;ß íàéäó Áåëîãî ìåäâåäÿ.;;x
+# EVTOPTC36080;I will find the White Tiger.;;;;;;;;;;;ß íàéäó Áåëîãî òèãðà.;;x
+# EVTOPTD36080;I will find the White Lion.;;;;;;;;;;;ß íàéäó Áåëîãî ëüâà.;;x

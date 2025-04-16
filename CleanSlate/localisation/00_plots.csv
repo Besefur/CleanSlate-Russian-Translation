@@ -1,29 +1,29 @@
-plot_assassins_collect_debt_desc;By the order of the Grand Master of the Assassins, §Y[From.GetTitledFirstName]§! is responsible for collecting the debt of §Y[Root.GetTitledFirstName]§!. §Y[From.GetTitledFirstName]§! must infiltrate the target's residence and threaten [Root.GetHerHim] to give the money back.;;;;;;;;;;;;;x
-plot_assassins_collect_debt_short;Collect Debt;;;;;;;;;;;;;x
-plot_assassins_collect_debt_title;Collect Debt from [Root.GetFirstName];;;;;;;;;;;;;x
-plot_gain_fellow_vassal_title_desc;Rally support amongst the other vassals of [This.Holder.Liege.GetTitledName] in an attempt to fabricate a claim on the [This.GetFullBaseName]. God willing, you may some day rightfully take the title from [This.Holder.GetTitledFirstName].;;;;;;;;;;;;;x
-plot_gain_fellow_vassal_title_short;Plot for Claim;;;;;;;;;;;;;x
-plot_gain_fellow_vassal_title_title;Fabricate a claim on the [This.GetFullBaseName];;;;;;;;;;;;;x
-plot_gain_indie_title_desc;Rally support amongst the vassals of [This.Holder.GetTitledName] in an attempt to fabricate a claim on the [This.GetFullBaseName]. God willing, you may some day become their new liege.;;;;;;;;;;;;;x
-plot_gain_indie_title_title;Fabricate a claim on the [This.GetFullBaseName];;;;;;;;;;;;;x
-plot_gain_liege_title_desc;Rally support amongst the other vassals of [This.Holder.GetTitledName] in an attempt to fabricate a claim on the [This.GetFullBaseName]. God willing, you may some day become their new liege.;;;;;;;;;;;;;x
-plot_gain_liege_title_short;Plot for Claim;;;;;;;;;;;;;x
-plot_gain_liege_title_title;Fabricate a claim on the [This.GetFullBaseName];;;;;;;;;;;;;x
-plot_gain_title_desc;[From.GetBestName] is plotting to become ruler of the [This.GetFullName].;;;;;;;;;;;;;x
-plot_gain_title_short;Plot to Acquire;;;;;;;;;;;;;x
-plot_gain_title_title;Acquire the [This.GetFullName];;;;;;;;;;;;;x
-plot_gain_vassal_title_desc;[From.GetBestName] is plotting to revoke the title of [This.GetFullBaseName].;;;;;;;;;;;;;x
-plot_gain_vassal_title_short;Plot to Revoke;;;;;;;;;;;;;x
-plot_gain_vassal_title_title;Revoke the [This.GetFullBaseName];;;;;;;;;;;;;x
-plot_kill_character_desc;§Y[From.GetTitledFirstName]§! has decided it is time for §Y[This.GetTitledFirstName]§! to depart this world. §Y[From.GetTitledFirstName]§! and [From.GetPossPronoun] backers will look for opportunities to kill §Y[This.GetTitledFirstName]§! - the higher the Plot Power, the more likely they are to find openings.;;;;;;;;;;;;;x
-plot_kill_character_short;Plot to Kill;;;;;;;;;;;;;x
-plot_kill_character_title;Kill [This.GetBestName];;;;;;;;;;;;;x
-plot_kill_spouse_desc;§Y[From.GetTitledFirstName]§! has decided it is time for [From.GetPossPronoun] spouse §Y[This.GetFirstName]§! to depart this world.;;;;;;;;;;;;;x
-plot_kill_spouse_short;Plot to Kill;;;;;;;;;;;;;x
-plot_kill_spouse_title;See [This.GetBestName] dead;;;;;;;;;;;;;x
-plot_seize_trade_post_desc;Strike a blow for freedom everywhere by usurping control over the [This.GetName] Trade Post.;;;;;;;;;;;;;x
-plot_seize_trade_post_short;Seize a Trade Post;;;;;;;;;;;;;x
-plot_seize_trade_post_title;Seize the Trade Post in [This.GetName];;;;;;;;;;;;;x
-plot_weaken_fellow_vassal_desc;Weaken the power base of [This.Holder.GetTitledName] by dividing [This.Holder.GetHerHis] holdings and granting the [This.GetFullName] to one of [This.Holder.GetHerHis] vassals.;;;;;;;;;;;;;x
-plot_weaken_fellow_vassal_short;Weaken a Fellow Vassal;;;;;;;;;;;;;x
-plot_weaken_fellow_vassal_title;See the [This.GetFullName] granted to a new ruler;;;;;;;;;;;;;x
+plot_assassins_collect_debt_desc;By the order of the Grand Master of the Assassins, §Y[From.GetTitledFirstName]§! is responsible for collecting the debt of §Y[Root.GetTitledFirstName]§!. §Y[From.GetTitledFirstName]§! must infiltrate the target's residence and threaten [Root.GetHerHim] to give the money back.;;;;;;;;;;;Ñîãëàñíî ïðèêàçó Âåëèêîãî ìàñòåðà àññàñèíîâ, §Y[From.GetTitledFirstName]§! äîëæ[From.GetNaEn] âçûñêàòü äîëã ñ [Root.GetAgedPersonGEN], èçâåñòí[Root.GetOyOgo] êàê §Y[Root.GetTitledFirstName]§!. §Y[From.GetTitledFirstName]§! äîëæ[From.GetNaEn] ïðîíèêíóòü â [Root.GetHersHis] ðåçèäåíöèþ è óãðîçàìè äîáèòüñÿ âîçâðàòà äåíåã.;;x
+plot_assassins_collect_debt_short;Collect Debt;;;;;;;;;;;Âçûñêàòü äîëã;;x
+plot_assassins_collect_debt_title;Collect Debt from [Root.GetFirstName];;;;;;;;;;;[Root.GetFirstName], âåðíè äåíüãè!;;x
+plot_gain_fellow_vassal_title_desc;Rally support amongst the other vassals of [This.Holder.Liege.GetTitledName] in an attempt to fabricate a claim on the [This.GetFullBaseName]. God willing, you may some day rightfully take the title from [This.Holder.GetTitledFirstName].;;;;;;;;;;;"Çàðó÷èòüñÿ ïîääåðæêîé âàññàëîâ ïðàâèòåëÿ [This.Holder.Liege.GetTitledName] â ïîïûòêå ñôàáðèêîâàòü ïðåòåíçèè íà òèòóë îáëàñòè ""[This.GetFullBaseName]"". Äàñò Áîã è Âû ñìîæåòå êîãäà-íèáóäü ïî ïðàâó çàïîëó÷èòü òèòóë, êîòîðûì îáëàäàåò [This.Holder.GetTitledFirstName].";;x
+plot_gain_fellow_vassal_title_short;Plot for Claim;;;;;;;;;;;Çàâëàäåòü òèòóëîì;;x
+plot_gain_fellow_vassal_title_title;Fabricate a claim on the [This.GetFullBaseName];;;;;;;;;;;"Èçãîòîâèòü ïðåòåíçèþ íà: ""[This.GetFullBaseName]""";;x
+plot_gain_indie_title_desc;Rally support amongst the vassals of [This.Holder.GetTitledName] in an attempt to fabricate a claim on the [This.GetFullBaseName]. God willing, you may some day become their new liege.;;;;;;;;;;;"Çàðó÷èòüñÿ ïîääåðæêîé âàññàëîâ ïðàâèòåëÿ [This.Holder.GetTitledName] â ïîïûòêå ñôàáðèêîâàòü ïðåòåíçèè íà òèòóë îáëàñòè ""[This.GetFullBaseName]"". Äàñò Áîã è Âû ñìîæåòå êîãäà-íèáóäü ñòàòü èõ íîâûì ñþçåðåíîì.";;x
+plot_gain_indie_title_title;Fabricate a claim on the [This.GetFullBaseName];;;;;;;;;;;"Èçãîòîâèòü ïðåòåíçèþ íà: ""[This.GetFullBaseName]""";;x
+plot_gain_liege_title_desc;Rally support amongst the other vassals of [This.Holder.GetTitledName] in an attempt to fabricate a claim on the [This.GetFullBaseName]. God willing, you may some day become their new liege.;;;;;;;;;;;"Çàðó÷èòüñÿ ïîääåðæêîé âàññàëîâ ïðàâèòåëÿ [This.Holder.GetTitledName] â ïîïûòêå ñôàáðèêîâàòü ïðåòåíçèè íà òèòóë îáëàñòè ""[This.GetFullBaseName]"". Äàñò Áîã è Âû ñìîæåòå êîãäà-íèáóäü ñòàòü èõ íîâûì ñþçåðåíîì.";;x
+plot_gain_liege_title_short;Plot for Claim;;;;;;;;;;;Çàâëàäåòü òèòóëîì;;x
+plot_gain_liege_title_title;Fabricate a claim on the [This.GetFullBaseName];;;;;;;;;;;"Èçãîòîâèòü ïðåòåíçèþ íà: ""[This.GetFullBaseName]""";;x
+plot_gain_title_desc;[From.GetBestName] is plotting to become ruler of the [This.GetFullName].;;;;;;;;;;;"[From.GetBestName] â çàãîâîðå ñ öåëüþ ñòàòü ïðàâèòåëåì îáëàñòè ""[This.GetFullName]"".";;x
+plot_gain_title_short;Plot to Acquire;;;;;;;;;;;Çàâëàäåòü òèòóëîì;;x
+plot_gain_title_title;Acquire the [This.GetFullName];;;;;;;;;;;"Çàâëàäåòü îáëàñòüþ ""[This.GetName]""";;x
+plot_gain_vassal_title_desc;[From.GetBestName] is plotting to revoke the title of [This.GetFullBaseName].;;;;;;;;;;;[From.GetBestName] â çàãîâîðå ñ öåëüþ çàâëàäåòü îáëàñòüþ [This.GetFullBaseName], îòîçâàâ òèòóë å¸ ïðàâèòåëÿ.;;x
+plot_gain_vassal_title_short;Plot to Revoke;;;;;;;;;;;Îòîçâàòü òèòóë;;x
+plot_gain_vassal_title_title;Revoke the [This.GetFullBaseName];;;;;;;;;;;Îòîçâàòü òèòóë [This.GetFullBaseName];;x
+plot_kill_character_desc;§Y[From.GetTitledFirstName]§! has decided it is time for §Y[This.GetTitledFirstName]§! to depart this world. §Y[From.GetTitledFirstName]§! and [From.GetPossPronoun] backers will look for opportunities to kill §Y[This.GetTitledFirstName]§! - the higher the Plot Power, the more likely they are to find openings.;;;;;;;;;;;§Y[From.GetTitledFirstName]§! ñ÷èòàåò, ÷òî §Y[This.GetTitledFirstName]§! ñëèøêîì äîëãî æèâ¸ò íà ýòîì ñâåòå. Ïîðà áû è óìåðåòü. ×åì ñèëüíåå çàãîâîð, òåì áîëüøå øàíñû íà óñïåõ.;;x
+plot_kill_character_short;Plot to Kill;;;;;;;;;;;Ïîêóøåíèå íà æèçíü;;x
+plot_kill_character_title;Kill [This.GetBestName];;;;;;;;;;;Óáèòü [This.GetAgedPersonACC] ïî èìåíè [This.GetDynName];;x
+plot_kill_spouse_desc;§Y[From.GetTitledFirstName]§! has decided it is time for [From.GetPossPronoun] spouse §Y[This.GetFirstName]§! to depart this world.;;;;;;;;;;;§Y[From.GetTitledFirstName]§! ñ÷èòàåò, ÷òî [From.GetHersHis] [This.GetHusbandWife] §Y[This.GetFirstName]§! ñëèøêîì äîëãî æèâ¸ò è [This.GetHerHim] äàâíî ïîðà íà òîò ñâåò.;;x
+plot_kill_spouse_short;Plot to Kill;;;;;;;;;;;Ïîêóøåíèå íà æèçíü;;x
+plot_kill_spouse_title;See [This.GetBestName] dead;;;;;;;;;;;Óáèòü [This.GetHusbandWifeACC];;x
+plot_seize_trade_post_desc;Strike a blow for freedom everywhere by usurping control over the [This.GetName] Trade Post.;;;;;;;;;;;Ðàñïðîñòðàíèòå äóõ ñâîáîäû, çàõâàòèâ êîíòðîëü íàä [This.County.GetAdjective]ñêèì òîðãîâûì ïîñåëåíèåì.;;x
+plot_seize_trade_post_short;Seize a Trade Post;;;;;;;;;;;Çàõâàòèòü ôàêòîðèþ;;x
+plot_seize_trade_post_title;Seize the Trade Post in [This.GetName];;;;;;;;;;;Çàõâàòèòü [This.County.GetAdjective]ñêóþ ôàêòîðèþ;;x
+plot_weaken_fellow_vassal_desc;Weaken the power base of [This.Holder.GetTitledName] by dividing [This.Holder.GetHerHis] holdings and granting the [This.GetFullName] to one of [This.Holder.GetHerHis] vassals.;;;;;;;;;;;[This.Holder.GetTitledName] ïîòåðÿåò ÷àñòü âëàäåíèé. Âëàñòü ïðàâèòåëÿ îñëàáíåò, åñëè [This.GetFullName] îòîéä¸ò îäíîìó èç åãî âàññàëîâ.;;x
+plot_weaken_fellow_vassal_short;Weaken a Fellow Vassal;;;;;;;;;;;Îñëàáèòü âàññàëà;;x
+plot_weaken_fellow_vassal_title;See the [This.GetFullName] granted to a new ruler;;;;;;;;;;;"Ñìåíèòü âëàñòü â îáëàñòè ""[This.GetName]""";;x

@@ -1,10 +1,7 @@
-EVTDESC_ZE_22000;Your loyal vassal, [From.GetFullName], has sent you a courier with an offer. [From.GetSheHeCap] is willing to make a significant donation to your War Chest, but in return you must promise to return the favor in the future. A most generous offer!;;;;;;;;;;;;;x
-EVTDESC_ZE_22100;[From.GetFullName] has decided to accept your donation offer! Now we have leverage on [From.GetHerHim], we must make sure to use it wisely.;;;;;;;;;;;;;x
-EVTDESC_ZE_22200;[From.GetFullName] has refused your generous donation offer. [From.GetSheHeCap] claims that you are just trying to gain leverage on [From.GetHerHim], outrageous!;;;;;;;;;;;;;x
-
-EVTOPTA_ZE_22000;This is just what we need!;;;;;;;;;;;;;x
-EVTOPTA_ZE_22200;A shame.;;;;;;;;;;;;;x
-
-EVTOPTB_ZE_22000;[From.GetSheHeCap] is just trying to gain leverage on me! I refuse.;;;;;;;;;;;;;x
-
-EVTOPTC_ZE_22000;A generous donation from a good friend!;;;;;;;;;;;;;x
+EVTDESC_ZE_22000;Your loyal vassal, [From.GetFullName], has sent you a courier with an offer. [From.GetSheHeCap] is willing to make a significant donation to your War Chest, but in return you must promise to return the favor in the future. A most generous offer!;;;;;;;;;;;Âàø âåðíûé âàññàë [From.GetFullName] ïîñëàë[From.GetEndA] ê Âàì ãîíöà ñ ïðåäëîæåíèåì. [From.GetSheHeCap] õî÷åò ñäåëàòü ëè÷íîå ïîæåðòâîâàíèå â âîåííûé áþäæåò, íî âçàìåí ïðîñèò Âàñ îá îäîëæåíèè â áóäóùåì.;;x
+EVTDESC_ZE_22100;[From.GetFullName] has decided to accept your donation offer! Now we have leverage on [From.GetHerHim], we must make sure to use it wisely.;;;;;;;;;;;[From.GetFullName] ðåøèë[From.GetEndA] ïðèíÿòü Âàøå ïîæåðòâîâàíèå. Òåïåðü ó íàñ åñòü ðû÷àã âîçäåéñòâèÿ íà í[From.GetHersHis], íóæíî èñïîëüçîâàòü åãî ñ óìîì.;;x
+EVTDESC_ZE_22200;[From.GetFullName] has refused your generous donation offer. [From.GetSheHeCap] claims that you are just trying to gain leverage on [From.GetHerHim], outrageous!;;;;;;;;;;;[From.GetFullName] îòêàçà[From.GetLasLsya] îò Âàøåãî ïðåäëîæåíèÿ. [From.GetSheHeCap] óòâåðæäàåò, ÷òî Âû ïðîñòî õîòèòå êóïèòü [From.GetHersHis]!;;x
+EVTOPTA_ZE_22000;This is just what we need!;;;;;;;;;;;Êàê ðàç òî, ÷òî íàì íóæíî!;;x
+EVTOPTA_ZE_22200;A shame.;;;;;;;;;;;Êàêàÿ æàëîñòü.;;x
+EVTOPTB_ZE_22000;[From.GetSheHeCap] is just trying to gain leverage on me! I refuse.;;;;;;;;;;;[From.GetSheHeCap] õî÷åò ïîèìåòü ìåíÿ! Íå âûéäåò!;;x
+EVTOPTC_ZE_22000;A generous donation from a good friend!;;;;;;;;;;;Ùåäðûé äàð îò õîðîøåãî äðóãà!;;x

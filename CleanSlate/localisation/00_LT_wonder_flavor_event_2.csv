@@ -1,44 +1,40 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-evt_TITLE_LT_60001;A Town is Born;;;;;;;;;;;;;x
-evt_TITLE_LT_60101;[target_wonder.GetName];;;;;;;;;;;;;x
-evt_TITLE_LT_60201;Fountain of Youth;;;;;;;;;;;;;x
-evt_TITLE_LT_60301;Evening at the Tavern;;;;;;;;;;;;;x
-evt_TITLE_LT_60302;Another!;;;;;;;;;;;;;x
-evt_TITLE_LT_60401;Deadly Traps;;;;;;;;;;;;;x
-evt_TITLE_LT_60601;Crumbling Masterwork;;;;;;;;;;;;;x
-evt_TITLE_LT_60701;Herbs in the [target_province.GetName];;;;;;;;;;;;;x
-
-EVTDESC_LT_60001;The [target_wonder.GetName] has become a center for travelers and commerce, and some people have decided to settle close to the [target_wonder.GetWonderAdj] construction. The latest reports mention children, dogs, and cattle — they are obviously putting down deep roots.;;;;;;;;;;;;;x
-EVTDESC_LT_60101;My scribes have been frequenting the [target_wonder.GetName] during their toil to finish my book. As they present me with a new extract it is clear that it has been a great help – the quality of the text is beyond reproach!;;;;;;;;;;;;;x
-EVTDESC_LT_60201_1;I kneel beside a fountain in the [target_wonder.GetName] and lower a cup into the water. As I drink deeply a tingling sensation spreads in my whole body, and I am left with energy and vigor I haven't felt in years!;;;;;;;;;;;;;x
-EVTDESC_LT_60201_2;I jump into the [target_wonder.GetName], laughing with glee, and I am soon choking on the life-giving water as I swallow mouthful after mouthful. As I drag myself up onto the ledge with shaking arms I soon stop smiling...;;;;;;;;;;;;;x
-EVTDESC_LT_60301;Warm light, accompanied by the lively murmur of conversation, spills out of the tavern close to the [target_wonder.GetName] as [drinking_buddy.GetTitledName] and I walk past.\n\n"What do you say about a cup of something soothing?";;;;;;;;;;;;;x
-EVTDESC_LT_60302;After my initial visit to the tavern close to the [target_wonder.GetName] I have not been able to keep away. More often than not I find myself seeking the comfort of a big cup of [Root.GetAlcohol] after a long day.;;;;;;;;;;;;;x
-EVTDESC_LT_60401;While exploring the depths of the [target_wonder.GetName], both [target_courtier.GetTitledName] and [target_courtier_2.GetTitledName] were caught in one of the deadly traps spread within the structure. What we recovered was barely enough to recognize them by...;;;;;;;;;;;;;x
-EVTDESC_LT_60402;Word has reached me that the traps I installed in the depths of the [target_wonder.GetName] have claimed [target_courtier.GetTitledName] and [target_courtier_2.GetTitledName] as victims! Apparently they were both mangled almost past recognition.;;;;;;;;;;;;;x
-EVTDESC_LT_60501;[target_vassal.GetTitledName], I want to express my admiration and satisfaction in your handling of the [target_wonder.GetName]!\n\nSincerely,\n[target_liege.GetBestName];;;;;;;;;;;;;x
-EVTDESC_LT_60502;My liege, the [target_wonder.GetName] is bringing prosperity and fame to the area, and I am grateful that you entrusted such a magnificent structure to my province.\n\nSincerely,\n[target_vassal.GetBestName];;;;;;;;;;;;;x
-EVTDESC_LT_60601;A piece of the [target_wonder.GetName] has fallen off – almost hitting a bystander in the head! Certain areas of the magnificent structure seem to be in dire need of upkeep.;;;;;;;;;;;;;x
-EVTDESC_LT_60701;The soothing sounds of the [target_wonder.GetName] embrace me as I walk through the greenery. Reportedly some local herbs have sprouted in the garden, but a secluded patch of grass present an alternative end to this excursion.;;;;;;;;;;;;;x
-
-EVTOPTA_LT_60001;They are welcome to stay in [target_province.GetName]!;;;;;;;;;;;;;x
-EVTOPTA_LT_60101;My scribes will shine with this [target_wonder.GetWonderAdj] construction's help!;;;;;;;;;;;;;x
-EVTOPTA_LT_60201;The years fall off me as I drink.;;;;;;;;;;;;;x
-EVTOPTA_LT_60301;Lead the way!;;;;;;;;;;;;;x
-EVTOPTA_LT_60301_TT;There might be consequences to this;;;;;;;;;;;;;x
-EVTOPTA_LT_60302;Pour me another one!;;;;;;;;;;;;;x
-EVTOPTA_LT_60401;Curse you, [old_owner.GetFirstName]!;;;;;;;;;;;;;x
-EVTOPTA_LT_60402;Hah! That's what you get!;;;;;;;;;;;;;x
-EVTOPTA_LT_60501;It's all due to your guidance, my liege.;;;;;;;;;;;;;x
-EVTOPTA_LT_60502;I am glad!;;;;;;;;;;;;;x
-EVTOPTA_LT_60601;Repairs will be started at once!;;;;;;;;;;;;;x
-EVTOPTA_LT_60701;I will get the herbs.;;;;;;;;;;;;;x
-EVTOPTA_TT_LT_60101;You encourage your scribes to use the [target_wonder.GetName], guaranteeing a better quality of work;;;;;;;;;;;;;x
-
-EVTOPTB_LT_60001;Drive out the rabble and confiscate their possessions!;;;;;;;;;;;;;x
-EVTOPTB_LT_60201;I've never felt this old before!;;;;;;;;;;;;;x
-EVTOPTB_LT_60301;I am more interested in continuing our discussion.;;;;;;;;;;;;;x
-EVTOPTB_LT_60501;I have done good, haven't I!;;;;;;;;;;;;;x
-EVTOPTB_LT_60601;Hm, I bet these pieces would fetch a decent price...;;;;;;;;;;;;;x
-EVTOPTB_LT_60701;A restful nap is exactly what I need!;;;;;;;;;;;;;x
+evt_TITLE_LT_60001;A Town is Born;;;;;;;;;;;Hîâîå ïîñåëåíèå;;x
+evt_TITLE_LT_60101;[target_wonder.GetName];;;;;;;;;;;[target_wonder.GetName];;x
+evt_TITLE_LT_60201;Fountain of Youth;;;;;;;;;;;Ôîíòàí Þíîñòè;;x
+evt_TITLE_LT_60301;Evening at the Tavern;;;;;;;;;;;Bå÷åð â òàâåðíå;;x
+evt_TITLE_LT_60302;Another!;;;;;;;;;;;Eù¸!;;x
+evt_TITLE_LT_60401;Deadly Traps;;;;;;;;;;;Cìåðòåëüíûå ëîâóøêè;;x
+evt_TITLE_LT_60601;Crumbling Masterwork;;;;;;;;;;;Pàçðóøåíèå øåäåâðà;;x
+evt_TITLE_LT_60701;Herbs in the [target_province.GetName];;;;;;;;;;;[target_province.County.GetAdjective]ñêèå òðàâû;;x
+EVTDESC_LT_60001;The [target_wonder.GetName] has become a center for travelers and commerce, and some people have decided to settle close to the [target_wonder.GetWonderAdj] construction. The latest reports mention children, dogs, and cattle — they are obviously putting down deep roots.;;;;;;;;;;;[target_wonder.GetName] òåïåðü íîâûé öåíòð òîðãîâëè è òóðèçìà, ìíîãèå ñåëÿòñÿ ïîáëèæå ê ñòðîéïëîùàäêå. Â ïîñëåäíèõ îò÷¸òàõ óïîìèíàþòñÿ äåòè, ñîáè è äîìàøíèé ñêîò - ýòè ëþäè íàñòðîåíû ñåðü¸çíî.;;x
+EVTDESC_LT_60101;My scribes have been frequenting the [target_wonder.GetName] during their toil to finish my book. As they present me with a new extract it is clear that it has been a great help – the quality of the text is beyond reproach!;;;;;;;;;;;Ìîè ïèñöû ÷àñòî ïîñåùàþò ñòðîèòåëüíóþ ïëîøàäêó âåëèêîãî ñîîðóæåíèÿ â ïîèñêàõ óäîáíîãî ìåñòà äëÿ ñâîåé ðàáîòû. Êîãäà îíè ïîêàçàëè íîâûé îòðûâîê èç ìîåé êíèãè, ñòàëî ÿñíî, ÷òî ýòî î÷åíü ïîìîãëî - êà÷åñòâî òåêñòà âûøå âñÿêèõ ïîõâàë!;;x
+EVTDESC_LT_60201_1;I kneel beside a fountain in the [target_wonder.GetName] and lower a cup into the water. As I drink deeply a tingling sensation spreads in my whole body, and I am left with energy and vigor I haven't felt in years!;;;;;;;;;;;ß ñòàë[Root.GetEndA] íà êîëåíè ïåðåä ôîíòàíîì è ïîãðóçèë[Root.GetEndA] ñâîé êóáîê â âîäó. Êîãäà ÿ ñäåëàë[Root.GetEndA] ãëîòîê, ïî âñåìó òåëó ïðîáåæàëà âîëíà ñ ë¸ãêèì îùóùåíèåì ïîêàëûâàíèÿ. Ñèëà æèçíè íàïîëíèëà ìåíÿ. Ñèëà, êîòîðóþ ÿ íå ÷óâñòâîâàë[Root.GetEndA] óæå ìíîãèå ãîäû!;;x
+EVTDESC_LT_60201_2;I jump into the [target_wonder.GetName], laughing with glee, and I am soon choking on the life-giving water as I swallow mouthful after mouthful. As I drag myself up onto the ledge with shaking arms I soon stop smiling...;;;;;;;;;;;Ñìåÿñü îò ðàäîñòè, ÿ ïðûãíóë[Root.GetEndA] ïðÿìî â ôîíòàí, íûðíóâ â òîëùó æèâîòâîðÿùåé âîäû è äåëàÿ ãëîòîê çà ãëîòêîì. Òðÿñóùèìèñÿ ðóêàìè óõâàòèâøèñü çà âûñòóï, ÿ âûïîëç[Root.GetNoneE] îòòóäà è âñêîðå ïåðåñòàë[Root.GetEndA] óëûáàòüñÿ.;;x
+EVTDESC_LT_60301;"Warm light, accompanied by the lively murmur of conversation, spills out of the tavern close to the [target_wonder.GetName] as [drinking_buddy.GetTitledName] and I walk past.\n\n""What do you say about a cup of something soothing?""";;;;;;;;;;;[target_wonder.GetName], ò¸ïëûé ñâåò, ñîïðîâîæäàåìûé æèâûì øóìîì ðàçãîâîðà, ðàçëèâàåòñÿ èç òàâåðíû, ìèìî êîòîðîé ïðîõîäèì ÿ è [drinking_buddy.GetTitledName].\n\n— Íå õî÷åøü ïðîïóñòèòü ïî êðóæå÷êå? — ïðåäëîæèë[drinking_buddy.GetEndA] [drinking_buddy.GetSheHe].;;x
+EVTDESC_LT_60302;After my initial visit to the tavern close to the [target_wonder.GetName] I have not been able to keep away. More often than not I find myself seeking the comfort of a big cup of [Root.GetAlcohol] after a long day.;;;;;;;;;;;Ïîñëå ïåðâîãî æå ïîñåùåíèÿ òàâåðíû ÿ ïîíÿë[Root.GetEndA], ÷òî ìîãó îòêàçàòü ñåáå â ýòîì óäîâîëüñòâèè. Ïîñëå äîëãîãî äíÿ, ÿ ñíîâà è ñíîâà çàãëÿäûâàþ ñþäà ðàäè êðóæêè [Root.GetAlcoholGEN].;;x
+EVTDESC_LT_60401;While exploring the depths of the [target_wonder.GetName], both [target_courtier.GetTitledName] and [target_courtier_2.GetTitledName] were caught in one of the deadly traps spread within the structure. What we recovered was barely enough to recognize them by...;;;;;;;;;;;Èññëåäóÿ ãëóáèíû [target_wonder.GetWonderTypeShortCapGEN], [target_courtier.GetTitledName] è [target_courtier_2.GetTitledName] íàïîðîëèñü íà ñìåðòåëüíûå ëîâóøêè, ðàññòàâëåííûå ïî êîðèäîðàì. Òî, ÷òî îò íèõ îñòàëîñü, ïîçâîëèëî îïîçíàòü òåëà.;;x
+EVTDESC_LT_60402;Word has reached me that the traps I installed in the depths of the [target_wonder.GetName] have claimed [target_courtier.GetTitledName] and [target_courtier_2.GetTitledName] as victims! Apparently they were both mangled almost past recognition.;;;;;;;;;;;Äî ìåíÿ äîøëè ñëóõè, ÷òî ëîâóøêè, êîòîðûå ÿ óñòàíîâèë[Root.GetEndA] â ãëóáèíå [target_wonder.GetWonderTypeShortCapGEN] ñðàáîòàëè, [target_courtier.GetTitledName] è [target_courtier_2.GetTitledName] ñòàëè èõ æåðòâàìè! ×òîáû îïîçíàòü òåëà, èõ ïðèøëîñü ñîáèðàòü ïî ÷àñòÿì.;;x
+EVTDESC_LT_60501;[target_vassal.GetTitledName], I want to express my admiration and satisfaction in your handling of the [target_wonder.GetName]!\n\nSincerely,\n[target_liege.GetBestName];;;;;;;;;;;[target_vassal.GetTitledName], õî÷ó âûðàçèòü ñâî¸ âîñõèùåíèå è óäîâëåòâîðåíèå òåì, êàê Âû çàáîòèòåñü î[target_wonder.GetWonderPREP_O_EndB] [target_wonder.GetWonderTypeShortCapPREP_O]!\nÈñêðåííå Âàø[target_liege.GetEndA],\n [target_liege.GetTitledFirstName];;x
+EVTDESC_LT_60502;My liege, the [target_wonder.GetName] is bringing prosperity and fame to the area, and I am grateful that you entrusted such a magnificent structure to my province.\n\nSincerely,\n[target_vassal.GetBestName];;;;;;;;;;;Ì[Root.GetOyaOy] [Root.GetLordLady], [target_wonder.GetName] ïðèíîñ[target_wonder.GetWonderItYat] ñëàâó è ïðîöâåòàíèå ýòîìó ðåãèîíó, è ÿ áëàãîäàð[target_vassal.GetNaEn], ÷òî Âû äîâåðèëè ìíå ñòîëü âåëèêîå ñîîðóæåíèå.\nÈñêðåííå Âàø[target_vassal.GetEndA],\n [target_vassal.GetTitledFirstName];;x
+EVTDESC_LT_60601;A piece of the [target_wonder.GetName] has fallen off – almost hitting a bystander in the head! Certain areas of the magnificent structure seem to be in dire need of upkeep.;;;;;;;;;;;×àñòü [target_wonder.GetWonderTypeShortCapGEN] îáâàëèëàñü. Åù¸ áû ÷óòü-÷óòü è îáëîìêè óïàëè ïðîõîæåìó íà ãîëîâó! Íåêîòîðûå îáëàñòè ýòîãî âåëèêîëåïíîãî ñîîðóæåíèÿ îñòðî íóæäàþòñÿ â ðåìîíòå.;;x
+EVTDESC_LT_60701;The soothing sounds of the [target_wonder.GetName] embrace me as I walk through the greenery. Reportedly some local herbs have sprouted in the garden, but a secluded patch of grass present an alternative end to this excursion.;;;;;;;;;;;[target_wonder.GetName] âîèñòèíó ÷óäåñíîå ìåñòî. Ïðîãóëèâàÿñü ïî ñàäó è íàñëàæäàÿñü åãî àòìîñôåðîé, ÿ çàìåòèë[Root.GetEndA] íåîáû÷íûå ðàñòåíèÿ, âûäåëÿþùèåñÿ â îáùåé ìàññå.;;x
+EVTOPTA_LT_60001;They are welcome to stay in [target_province.GetName]!;;;;;;;;;;;[target_province.GetName] ñ ðàäîñòüþ ïðèìåò âñåõ!;;x
+EVTOPTA_LT_60101;My scribes will shine with this [target_wonder.GetWonderAdj] construction's help!;;;;;;;;;;;Âïðåäü ïóñòü ÷åðïàþò òàì âäîõíîâåíèå.;;x
+EVTOPTA_LT_60201;The years fall off me as I drink.;;;;;;;;;;;Äàâíî íå ÷óâñòâîâàë[Root.GetEndA] ñåáÿ òàê[Root.GetOyIm] ìîëîä[Root.GetOyYm]!;;x
+EVTOPTA_LT_60301;Lead the way!;;;;;;;;;;;ß òîëüêî çà.;;x
+EVTOPTA_LT_60301_TT;There might be consequences to this;;;;;;;;;;;Ó ýòîãî ðåøåíèÿ áóäóò ïîñëåäñòâèÿ;;x
+EVTOPTA_LT_60302;Pour me another one!;;;;;;;;;;;Ïðèíåñèòå ìíå åù¸!;;x
+EVTOPTA_LT_60401;Curse you, [old_owner.GetFirstName]!;;;;;;;;;;;Áóäü òû ïðîêëÿò[old_owner.GetEndA], [old_owner.GetFirstName]!;;x
+EVTOPTA_LT_60402;Hah! That's what you get!;;;;;;;;;;;Õà! Òàê âàì è íàäî!;;x
+EVTOPTA_LT_60501;It's all due to your guidance, my liege.;;;;;;;;;;;Ëèøü áëàãîäàðÿ Âàøåìó ìóäðîìó ðóêîâîäñòâó, ì[target_liege.GetOyaOy] [target_liege.GetLordLady].;;x
+EVTOPTA_LT_60502;I am glad!;;;;;;;;;;;ß ðàä[Root.GetEndA]!;;x
+EVTOPTA_LT_60601;Repairs will be started at once!;;;;;;;;;;;Ïðèñòóïàéòå íåìåäëåííî!;;x
+EVTOPTA_LT_60701;I will get the herbs.;;;;;;;;;;;Íàäî ñîáðàòü ýòè òðàâû.;;x
+EVTOPTA_TT_LT_60101;You encourage your scribes to use the [target_wonder.GetName], guaranteeing a better quality of work;;;;;;;;;;;Ïóñòü [target_wonder.GetName] ïîñëóæèò âäîõíîâåíèåì äëÿ Âàøèõ ïèñöîâ, ÷òî óëó÷øèò êà÷åñòâà Âàøåé êíèãè.;;x
+EVTOPTB_LT_60001;Drive out the rabble and confiscate their possessions!;;;;;;;;;;;Ðàçãîíèòå ýòîò ñáðîä è êîíôèñêóéòå ó íèõ âñ¸!;;x
+EVTOPTB_LT_60201;I've never felt this old before!;;;;;;;;;;;Íèêîãäà íå ÷óâñòâîâàë[Root.GetEndA] ñåáÿ òàê[Root.GetOyIm] ñòàð[Root.GetOyYm]!;;x
+EVTOPTB_LT_60301;I am more interested in continuing our discussion.;;;;;;;;;;;Ïîæàëóé íåò. Ìíå óæå ïîðà.;;x
+EVTOPTB_LT_60501;I have done good, haven't I!;;;;;;;;;;;Ñòàðàþñü!;;x
+EVTOPTB_LT_60601;Hm, I bet these pieces would fetch a decent price...;;;;;;;;;;;Õììì... Ïîëàãàþ, ýòè îáëîìêè âåñüìà öåííû...;;x
+EVTOPTB_LT_60701;A restful nap is exactly what I need!;;;;;;;;;;;Ýòî ïðåêðàñíî, íî ñåé÷àñ ìíå íàäî îòäîõíóòü.;;x

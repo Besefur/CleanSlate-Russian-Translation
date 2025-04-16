@@ -1,17 +1,13 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-GREATER;greater than;;;;;;;;;;;;;x
-GREATER_OR_EQ;greater or equal to;;;;;;;;;;;;;x
-LESS;less than;;;;;;;;;;;;;x
-LESS_OR_EQ;less or equal to;;;;;;;;;;;;;x
-EQUAL;equal to;;;;;;;;;;;;;x
-NOT_EQUAL;NOT equal to;;;;;;;;;;;;;x
-
-AND_TRIGGER_STARTS;All of the following must be true;;;;;;;;;;;;;x
-NAND_TRIGGER_STARTS;At least one of these must be false;;;;;;;;;;;;;x
-OR_TRIGGER_STARTS;One of these must be true;;;;;;;;;;;;;x
-NOR_TRIGGER_STARTS;None of these must be true;;;;;;;;;;;;;x
-
-CALC_TRUE_IF;$COMPARISON|U$ $AMOUNT|Y$ of these must be true;;;;;;;;;;;;;x
-
-MTTH_MULTIPLE_CONDITIONS_TRUE;All of these must be true;;;;;;;;;;;;;x
+GREATER;greater than;;;;;;;;;;;>;;x
+GREATER_OR_EQ;greater or equal to;;;;;;;;;;;>=;;x
+LESS;less than;;;;;;;;;;;<;;x
+LESS_OR_EQ;less or equal to;;;;;;;;;;;<=;;x
+EQUAL;equal to;;;;;;;;;;;=;;x
+NOT_EQUAL;NOT equal to;;;;;;;;;;;ÍÅ;;x
+AND_TRIGGER_STARTS;All of the following must be true;;;;;;;;;;;Âñå ñëåäóþùèå óñëîâèÿ äîëæíû âûïîëíÿòüñÿ;;x
+NAND_TRIGGER_STARTS;At least one of these must be false;;;;;;;;;;;Ñëåäóþùèì óñëîâèÿì ÍÅËÜÇß âûïîëíÿòüñÿ îäíîâðåìåííî;;x
+OR_TRIGGER_STARTS;One of these must be true;;;;;;;;;;;Îäíî èç ñëåäóþùèõ óñëîâèé äîëæíî áûòü âûïîëíåíî;;x
+NOR_TRIGGER_STARTS;None of these must be true;;;;;;;;;;;Íèêàêîå èç ïåðå÷èñëåííûõ óñëîâèé íå äîëæíî âûïîëíÿòüñÿ;;x
+CALC_TRUE_IF;$COMPARISON|U$ $AMOUNT|Y$ of these must be true;;;;;;;;;;;$COMPARISON|U$ $AMOUNT|Y$ èç ýòèõ óñëîâèé äîëæíî âûïîëíÿòüñÿ;;x
+MTTH_MULTIPLE_CONDITIONS_TRUE;All of these must be true;;;;;;;;;;;Âñå ýòè óñëîâèÿ äîëæíû âûïîëíÿòüñÿ;;x

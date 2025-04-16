@@ -1,68 +1,66 @@
-EVTDESC_HL_10101;Warriors serving with your [GetFromRelation] [From.GetFirstName] have sent word to inform you that they have recently observed a marked improvement in [From.GetHerHis] military leadership abilities.;;;;;;;;;;;;;x
-EVTDESC_HL_10201;Rumors reach you regarding [GetFromRelation] [From.GetFirstName], the mercenary. You always knew him as a coward, but now the word is that [From.GetSheHe] has been cured of [From.GetHerHis] shameful fear of battle.;;;;;;;;;;;;;x
-EVTDESC_HL_10211;Life as a mercenary seems to have hardened your [GetFromRelation] [From.GetFirstName]. Words of [From.GetHerHis] courage in battle reach you every so often.;;;;;;;;;;;;;x
-EVTDESC_HL_10221;It is said that your [GetFromRelation] [From.GetFirstName] has become known as a very energetic and tenacious mercenary leader.;;;;;;;;;;;;;x
-EVTDESC_HL_10231;People say that your [GetFromRelation] [From.GetFirstName] has changed since [From.GetSheHe] took up leadership of [From.GetHerHis] mercenary band. [From.GetSheHeCap] now rarely shows the kindness to others that [From.GetSheHe] used to be known for.;;;;;;;;;;;;;x
-EVTDESC_HL_10241;It is said that [From.GetHerHis] time as a mercenary leader has changed the outlook of your [GetFromRelation] [From.GetFirstName]. [From.GetSheHeCap] no longer shows the same humble spirit as before.;;;;;;;;;;;;;x
-EVTDESC_HL_10251;During [From.GetHerHis] time as a mercenary leader, your [GetFromRelation] [From.GetFirstName] has become quite famed for [From.GetHerHis] taste for lustful escapades.;;;;;;;;;;;;;x
-EVTDESC_HL_10261;It is said that the mercenaries who serve in your [GetFromRelation] [From.GetFirstName]'s band all have come to fear [From.GetHerHis] frequent outbursts of rage.;;;;;;;;;;;;;x
-EVTDESC_HL_10271;Your [GetFromRelation] [From.GetFirstName] has gained a reputation as a very cruel mercenary leader.;;;;;;;;;;;;;x
-EVTDESC_HL_10301;News reach you that your [GetFromRelation] [From.GetFirstName] has fought a glorious battle against [FromFrom.GetTitledName].;;;;;;;;;;;;;x
-EVTDESC_HL_10401;Mercenary leaders frequently have to deal with people of foreign cultures and religions. Now people are saying that your [GetFromRelation] [From.GetFirstName] has developed a particular interest in the [merc_location.Holder.Religion.GetName] ways.;;;;;;;;;;;;;x
-EVTDESC_HL_10411;You receive news that your [GetFromRelation] [From.GetFirstName] has converted to the [merc_location.Holder.Religion.GetName] faith.;;;;;;;;;;;;;x
-EVTDESC_HL_10501;Your [eloper.GetSonDaughter] [eloper.GetFirstName] has eloped with the notorious mercenary [From.GetFirstName].;;;;;;;;;;;;;x
-EVTDESC_HL_10501B;[eloper.GetFirstName] has eloped with the notorious mercenary [From.GetFirstName].;;;;;;;;;;;;;x
-EVTDESC_HL_10502;[eloper.GetTitledName] has eloped with the notorious mercenary [From.GetTitledName].;;;;;;;;;;;;;x
-EVTDESC_HL_10515;Apparently there was a fight between your son and the mercenary [From.GetDynName]. As luck would have it, no one came to harm.;;;;;;;;;;;;;x
-EVTDESC_HL_10516;Apparently your son was in a violent fight with his employer's son. It seems that no one came to harm, however.;;;;;;;;;;;;;x
-EVTDESC_HL_10517;Apparently there was a fight between your son and the mercenary [From.GetDynName]. Your son was wounded.;;;;;;;;;;;;;x
-EVTDESC_HL_10518;Apparently your son [From.GetFirstName] was in a violent fight with his employer's son, who was lightly injured.;;;;;;;;;;;;;x
-EVTDESC_HL_10519;Apparently there was a fight between your son and the mercenary [From.GetDynName]. Your son was maimed in the fight.;;;;;;;;;;;;;x
-EVTDESC_HL_10520;Apparently your son [From.GetFirstName] was in a violent fight with his employer's son, who was maimed.;;;;;;;;;;;;;x
-EVTDESC_HL_10521;New reach you that your son has been killed in a fight with the mercenary [From.GetDynName].;;;;;;;;;;;;;x
-EVTDESC_HL_10522;Apparently your son [From.GetFirstName] was in a violent fight with his employer's son, who was killed.;;;;;;;;;;;;;x
-EVTDESC_HL_10530;That mercenary band that you hired a while back seems to still be in the region.... maybe you should invite the commander to a small feast?;;;;;;;;;;;;;x
-EVTDESC_HL_10532;[From.GetDynName] came to feast with you and you found that you have much in common.;;;;;;;;;;;;;x
-EVTDESC_HL_10533;[From.GetTitledName] refused to come and feast with you.;;;;;;;;;;;;;x
-EVTDESC_HL_10601;It is said that your [GetFromRelation] [From.GetFirstName] has turned into a very experienced mercenary commander.;;;;;;;;;;;;;x
-EVTDESC_HL_10610;You have heard interesting rumors at court about your father's past as a mercenary commander.;;;;;;;;;;;;;x
-EVTDESC_HL_10611;My ward, [From.GetTitledFirstName], is asking me about [From.GetHerHis] father's past as a mercenary.;;;;;;;;;;;;;x
-EVTDESC_HL_10612;My [GetFromRelation] [From.GetFirstName] is asking me about my past as a mercenary.;;;;;;;;;;;;;x
-EVTDESC_HL_10613;[From.GetTitledFirstName] stayed up late into the night, and [From.GetSheHe] told me many stories of my father's past adventures.;;;;;;;;;;;;;x
-EVTDESC_HL_10614;[From.GetFirstName] refused to tell me anything.;;;;;;;;;;;;;x
-EVTDESC_HL_10700;[From.GetFirstName] has spent his hard earned wealth on attracting and recruiting more soldiers for his mercenary band.;;;;;;;;;;;;;x
-EVTDESC_HL_10701;[From.GetFirstName] has spent his hard earned wealth on carousing with his men, wasting it on spirits and women;;;;;;;;;;;;;x
-
-EVTOPTA_HL_10101;There is no substitute for experience!;;;;;;;;;;;;;x
-EVTOPTA_HL_10201;Finally, my [GetFromRelation] is a real [From.GetManWoman]!;;;;;;;;;;;;;x
-EVTOPTA_HL_10211;[From.GetHerHisCap] deeds honor the [Root.GetOnlyDynastyName] dynasty!;;;;;;;;;;;;;x
-EVTOPTA_HL_10221;A fine example to all!;;;;;;;;;;;;;x
-EVTOPTA_HL_10231;How this world changes [From.GetMenWomen].;;;;;;;;;;;;;x
-EVTOPTA_HL_10241;A predictable effect of [From.GetHerHis] station, surely.;;;;;;;;;;;;;x
-EVTOPTA_HL_10251;Perhaps it was only to be expected.;;;;;;;;;;;;;x
-EVTOPTA_HL_10261;I'm sure they deserve it.;;;;;;;;;;;;;x
-EVTOPTA_HL_10271;People had best not get in [From.GetHerHis] way.;;;;;;;;;;;;;x
-EVTOPTA_HL_10301;[From.GetSheHeCap] measures [From.GetHerselfHimself] against the great!;;;;;;;;;;;;;x
-EVTOPTA_HL_10401;So [From.GetSheHe] finds [merc_location.Holder.Religion.GetName]s interesting?;;;;;;;;;;;;;x
-EVTOPTA_HL_10411;So [From.GetSheHe] worships [merc_location.Holder.Religion.GetRandomGodName] now?;;;;;;;;;;;;;x
-EVTOPTA_HL_10501;The [GetRootFromInsult]!;;;;;;;;;;;;;x
-EVTOPTA_HL_10515;I am glad it ended well.;;;;;;;;;;;;;x
-EVTOPTA_HL_10516;I am not pleased.;;;;;;;;;;;;;x
-EVTOPTA_HL_10517;Woe!;;;;;;;;;;;;;x
-EVTOPTA_HL_10518;Better luck next time!;;;;;;;;;;;;;x
-EVTOPTA_HL_10520;That's my boy!;;;;;;;;;;;;;x
-EVTOPTA_HL_10521;I will have my revenge, I swear it!;;;;;;;;;;;;;x
-EVTOPTA_HL_10530;Yes, I think I will!;;;;;;;;;;;;;x
-EVTOPTA_HL_10532;A new friend, maybe I should give [From.GetHerHim] some land...;;;;;;;;;;;;;x
-EVTOPTA_HL_10533;Who does [From.GetSheHe] think [From.GetSheHe] is?;;;;;;;;;;;;;x
-EVTOPTA_HL_10601;That is good to hear.;;;;;;;;;;;;;x
-EVTOPTA_HL_10610;I should ask my guardian [Guardian.GetTitledFirstName] about it.;;;;;;;;;;;;;x
-EVTOPTA_HL_10611;Ah, do I have stories for [From.GetHerHim]...;;;;;;;;;;;;;x
-EVTOPTA_HL_10613;Fascinating!;;;;;;;;;;;;;x
-EVTOPTA_HL_10614;But why?;;;;;;;;;;;;;x
-EVTOPTA_HL_10700;A good investment I hope.;;;;;;;;;;;;;x
-EVTOPTA_HL_10700_TOOLTIP;§Y[From.GetTitledFirstName]§! has increased [From.GetHerHis] army size by §G5%§!;;;;;;;;;;;;;x
-EVTOPTA_HL_10701;A good family tradition.;;;;;;;;;;;;;x
-
-EVTOPTB_HL_10530;No, mercenaries are best kept at a proper distance.;;;;;;;;;;;;;x
-EVTOPTB_HL_10611;[From.GetSheHeCap] is better off not knowing.;;;;;;;;;;;;;x
+EVTDESC_HL_10101;Warriors serving with your [GetFromRelation] [From.GetFirstName] have sent word to inform you that they have recently observed a marked improvement in [From.GetHerHis] military leadership abilities.;;;;;;;;;;;Èç äîíåñåíèé âîåííûõ ìíå ñòàëî èçâåñòíî, ÷òî ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] â ïîñëåäíåå âðåìÿ äåìîíñòðèðóåò ñåðü¸çíûå óñïåõè â âîåííîì äåëå.;;x
+EVTDESC_HL_10201;Rumors reach you regarding [GetFromRelation] [From.GetFirstName], the mercenary. You always knew him as a coward, but now the word is that [From.GetSheHe] has been cured of [From.GetHerHis] shameful fear of battle.;;;;;;;;;;;Äîõîäÿò ñëóõè, ÷òî ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] äåëàåò ÿâíûå óñïåõè â ðÿäàõ íà¸ìíèêîâ. Ïîõîæå, îò [From.GetHersHis] áûëîé òðóñîñòè íå îñòàëîñü è ñëåäà.;;x
+EVTDESC_HL_10211;Life as a mercenary seems to have hardened your [GetFromRelation] [From.GetFirstName]. Words of [From.GetHerHis] courage in battle reach you every so often.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] - íàñòîÿùèé ãîëîâîðåç. Áóäó÷è íà¸ìíèêîì, ñðàæàÿñü íà ïîëå áîÿ äåíü çà äí¸ì, [From.GetSheHe] âñ¸ áîëüøå çàêàëÿåò ñâîé õàðàêòåð. Âñå òîëüêî è ãîâîðÿò î [From.GetHersHis] õðàáðîñòè.;;x
+EVTDESC_HL_10221;It is said that your [GetFromRelation] [From.GetFirstName] has become known as a very energetic and tenacious mercenary leader.;;;;;;;;;;;Ãîâîðÿò, ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] - óïîðíûé è ýíåðãè÷íûé âîèí, ÷òî íåìàëîâàæíî äëÿ ëþáîãî íà¸ìíèêà. Êàæäûé äåíü [From.GetSheHe] îòòà÷èâàåò ñâîè óìåíèÿ, [From.GetHersHis] äîñïåõè íà÷èùåíû äî áëåñêà, à êëèíîê - âñåãäà îñò¸ð!;;x
+EVTDESC_HL_10231;People say that your [GetFromRelation] [From.GetFirstName] has changed since [From.GetSheHe] took up leadership of [From.GetHerHis] mercenary band. [From.GetSheHeCap] now rarely shows the kindness to others that [From.GetSheHe] used to be known for.;;;;;;;;;;;Ëþäè ãîâîðÿò, ÷òî ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] ìåíÿåòñÿ íà ãëàçàõ. Ñ òåõ ïîð, êàê íà¸ìíèêè ïðèíÿëè [From.GetHersHis] â ñâîè ðÿäû, [From.GetSheHe] ÷åðñòâååò íà ãëàçàõ, [From.GetHersHis] áûëàÿ äîáðîòà èñ÷åçëà.;;x
+EVTDESC_HL_10241;It is said that [From.GetHerHis] time as a mercenary leader has changed the outlook of your [GetFromRelation] [From.GetFirstName]. [From.GetSheHeCap] no longer shows the same humble spirit as before.;;;;;;;;;;;Äîíîñÿò, ÷òî ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] íåñÿ ñâîþ ñëóæáó â ðÿäàõ îòðÿäà íà¸ìíèêîâ, ìåíÿåòñÿ íà ãëàçàõ - óæå íå ïðèõîäèòñÿ ãîâîðèòü î [From.GetHersHis] áûëîì ñìèðåíèè.;;x
+EVTDESC_HL_10251;During [From.GetHerHis] time as a mercenary leader, your [GetFromRelation] [From.GetFirstName] has become quite famed for [From.GetHerHis] taste for lustful escapades.;;;;;;;;;;;Ãîâîðÿò, ÷òî ñ òåõ ïîð, êàê Âàø[From.GetEndA] [From.GetRootRelation] [From.GetFirstName] âîçãëàâèë[From.GetEndA] îòðÿä íà¸ìíèêîâ, âñ¸ ÷àùå õîäÿò ñëóõè î [From.GetHersHis] ïîõîòëèâîé íàòóðå è ëþáîâíûõ àâàíòþðàõ;;x
+EVTDESC_HL_10261;It is said that the mercenaries who serve in your [GetFromRelation] [From.GetFirstName]'s band all have come to fear [From.GetHerHis] frequent outbursts of rage.;;;;;;;;;;;Íà¸ìíèêè, êîòîðûõ âîçãëàâëÿåò Âàø[From.GetEndA] [From.GetRootRelation] [From.GetFirstName], ïîãîâàðèâàþò î [From.GetHersHis] âíåçàïíûõ ïðèñòóïàõ ÿðîñòè, êîòîðûå ïîäâåðãàþò îïàñíîñòè ñîñëóæèâöåâ.;;x
+EVTDESC_HL_10271;Your [GetFromRelation] [From.GetFirstName] has gained a reputation as a very cruel mercenary leader.;;;;;;;;;;;Âàø[From.GetEndA] [From.GetRootRelation] [From.GetFirstName] ïðèîáðåë[From.GetEndA] ðåïóòàöèþ íåâåðîÿòíî æåñòîêîãî ëèäåðà íà¸ìíèêîâ.;;x
+EVTDESC_HL_10301;News reach you that your [GetFromRelation] [From.GetFirstName] has fought a glorious battle against [FromFrom.GetTitledName].;;;;;;;;;;;Âàì ñòàëî èçâåñòíî, êàê Âàø[From.GetEndA] [From.GetRootRelation] [From.GetFirstName] ñëàâíî ñðàæà[From.GetLasLsya] ñ âðàæåñêîé àðìèåé ïîä êîìàíäîâàíèåì ïîëêîâîäöà, èçâåñòíîãî êàê [FromFrom.GetTitledName].;;x
+EVTDESC_HL_10401;Mercenary leaders frequently have to deal with people of foreign cultures and religions. Now people are saying that your [GetFromRelation] [From.GetFirstName] has developed a particular interest in the [merc_location.Holder.Religion.GetName] ways.;;;;;;;;;;;"Íà¸ìíèêè ÷àñòíî ""ñòàëêèâàþòñÿ"" ñ ïðåäñòàâèòåëÿìè ðàçíûõ êóëüòóð è ðåëèãèé. Íàðîä ïîãîâàðèâàåò, ÷òî Âàø[From.GetEndA] [From.GetRootRelation] [From.GetFirstName] ïèòàåò ñèìïàòèè ê ó÷åíèþ, êîòîðîå íàçûâàþò [merc_location.Holder.GetReligionFullName].";;x
+EVTDESC_HL_10411;You receive news that your [GetFromRelation] [From.GetFirstName] has converted to the [merc_location.Holder.Religion.GetName] faith.;;;;;;;;;;;Äî Âàñ äîøëè ñëóõè, ÷òî Âàø[From.GetEndA] [From.GetRootRelation] [From.GetFirstName] ïðèíÿë[From.GetEndA] [merc_location.Holder.GetReligionFullName].;;x
+EVTDESC_HL_10501;Your [eloper.GetSonDaughter] [eloper.GetFirstName] has eloped with the notorious mercenary [From.GetFirstName].;;;;;;;;;;;Âàøà ïëîòü è êðîâü, [eloper.GetSonDaughter] [eloper.GetFirstName] ñáåæàë[eloper.GetEndA] âìåñòå ñ ïå÷àëüíî èçâåñòíûì íà¸ìíèêîì ïî èìåíè [From.GetFirstName].;;x
+EVTDESC_HL_10501B;[eloper.GetFirstName] has eloped with the notorious mercenary [From.GetFirstName].;;;;;;;;;;;[eloper.GetFirstName] áåæèò âìåñòå ñ ïå÷àëüíî èçâåñòíûì íà¸ìíèêîì ïî èìåíè [From.GetFirstName].;;x
+EVTDESC_HL_10502;[eloper.GetTitledName] has eloped with the notorious mercenary [From.GetTitledName].;;;;;;;;;;;[eloper.GetTitledName] ñáåæàë[eloper.GetEndA] âìåñòå ñ ïå÷àëüíî èçâåñòíûì íà¸ìíèêîì, [From.GetHersHis] íàçûâàþò [From.GetTitledName].;;x
+EVTDESC_HL_10515;Apparently there was a fight between your son and the mercenary [From.GetDynName]. As luck would have it, no one came to harm.;;;;;;;;;;;Âàø ñûí ââÿçàëñÿ â áîé ñ íà¸ìíèêîì ïî èìåíè [From.GetDynName]. Ê ñ÷àñòüþ, íèêòî èç íèõ íå ïîñòðàäàë.;;x
+EVTDESC_HL_10516;Apparently your son was in a violent fight with his employer's son. It seems that no one came to harm, however.;;;;;;;;;;;Âàø ñûí ââÿçàëñÿ â æåñòîêóþ ïîòàñîâêó ñ ñûíîì ñâîåãî íàíèìàòåëÿ. Ê ñ÷àñòüþ, íèêòî íå ïîñòðàäàë.;;x
+EVTDESC_HL_10517;Apparently there was a fight between your son and the mercenary [From.GetDynName]. Your son was wounded.;;;;;;;;;;;Âàø ñûí ââÿçàëñÿ â áîé ñ íà¸ìíèêîì ïî èìåíè [From.GetDynName], è òåïåðü ñåðü¸çíî ðàíåí.;;x
+EVTDESC_HL_10518;Apparently your son [From.GetFirstName] was in a violent fight with his employer's son, who was lightly injured.;;;;;;;;;;;Âàø ñûí [From.GetFirstName] ââÿçàëñÿ â æåñòîêóþ ïîòàñîâêó ñ ñûíîì ñâîåãî íàíèìàòåëÿ è ðàíèë åãî.;;x
+EVTDESC_HL_10519;Apparently there was a fight between your son and the mercenary [From.GetDynName]. Your son was maimed in the fight.;;;;;;;;;;;Âàø ñûí ââÿçàëñÿ â áîé ñ íà¸ìíèêîì ïî èìåíè [From.GetDynName] è áûë ñåðü¸çíî ïîêàëå÷åí.;;x
+EVTDESC_HL_10520;Apparently your son [From.GetFirstName] was in a violent fight with his employer's son, who was maimed.;;;;;;;;;;;Âàø ñûí [From.GetFirstName] ââÿçàëñÿ â æåñòîêóþ ïîòàñîâêó ñ ñûíîì ñâîåãî íàíèìàòåëÿ è ñåðü¸çíî ïîêàëå÷èë åãî.;;x
+EVTDESC_HL_10521;New reach you that your son has been killed in a fight with the mercenary [From.GetDynName].;;;;;;;;;;;Áåäà! Âàø ñûí áûë óáèò â ïîòàñîâêå íà¸ìíèêîì ïî èìåíè [From.GetDynName].;;x
+EVTDESC_HL_10522;Apparently your son [From.GetFirstName] was in a violent fight with his employer's son, who was killed.;;;;;;;;;;;Âàø ñûí [From.GetFirstName] ââÿçàëñÿ â æåñòîêóþ ïîòàñîâêó ñ ñûíîì ñâîåãî íàíèìàòåëÿ è óáèë åãî.;;x
+EVTDESC_HL_10530;That mercenary band that you hired a while back seems to still be in the region.... maybe you should invite the commander to a small feast?;;;;;;;;;;;Îòðÿä íà¸ìíèêîâ, êîòîðûõ Âû íåäàâíî íàíÿëè, êàæåòñÿ, âñ¸ åù¸ â çäåøíèõ êðàÿõ. Ìîæåò, ïðèãëàñèì èõ êîìàíäèðà íà íåáîëüøóþ ïèðóøêó?;;x
+EVTDESC_HL_10532;[From.GetDynName] came to feast with you and you found that you have much in common.;;;;;;;;;;;[From.GetDynName] ïðèáûë[From.GetEndA] ê Âàì íà ïèðóøêó, ãäå çà êðóæêîé ëó÷øåé ìåäîâóõè Âû ïîíÿëè, ÷òî ó âàñ ìíîãî îáùåãî.;;x
+EVTDESC_HL_10533;[From.GetTitledName] refused to come and feast with you.;;;;;;;;;;;[From.GetTitledName] îòâåðã Âàøå ïðèãëàøåíèå íà ïèð.;;x
+EVTDESC_HL_10601;It is said that your [GetFromRelation] [From.GetFirstName] has turned into a very experienced mercenary commander.;;;;;;;;;;;Ãîâîðÿò, Âàø[From.GetEndA] [From.GetRootRelation] [From.GetFirstName] ñòàë[From.GetEndA] âåñüìà îïûòíûì êîìàíäèðîì íà¸ìíèêîâ.;;x
+EVTDESC_HL_10610;You have heard interesting rumors at court about your father's past as a mercenary commander.;;;;;;;;;;;Ïðè äâîðå Âû ñëûøàëè çàíèìàòåëüíûå èñòîðèè î ïðîøëîì Âàøåãî îòöà. Ãîâîðÿò, îí áûë ïðåäâîäèòåëåì íà¸ìíèêîâ.;;x
+EVTDESC_HL_10611;My ward, [From.GetTitledFirstName], is asking me about [From.GetHerHis] father's past as a mercenary.;;;;;;;;;;;Ì[From.GetOyaOy] âîñïèòàííè[From.GetTsaK], [From.GetTitledFirstName], ïðîñèò ðàññêàçàòü î ïðîøëîì ñâîåãî îòöà. Î òîì, êàê òîò êîìàíäîâàë îòðÿäîì íà¸ìíèêîâ.;;x
+EVTDESC_HL_10612;My [GetFromRelation] [From.GetFirstName] is asking me about my past as a mercenary.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] ïðîñèò ðàññêàçàòü î ìî¸ì ïðîøëîì, î òåõ âðåìåíàõ, êîãäà ÿ êîìàíäîâàë íà¸ìíèêàìè.;;x
+EVTDESC_HL_10613;[From.GetTitledFirstName] stayed up late into the night, and [From.GetSheHe] told me many stories of my father's past adventures.;;;;;;;;;;;[From.GetTitledFirstName] âñþ íî÷ü ðàññêàçûâàåò ìíå î íåâåðîÿòíûõ è óâëåêàòåëüíûõ ïðèêëþ÷åíèÿõ, êîòîðûìè áûëà íàïîëíåíà æèçíü íà¸ìíèêîâ.;;x
+EVTDESC_HL_10614;[From.GetFirstName] refused to tell me anything.;;;;;;;;;;;[From.GetFirstName] íå õî÷åò íè÷åãî ðàññêàçûâàòü. Ãîâîðèò, ìíå åù¸ ðàíî î òàêîì çíàòü.;;x
+EVTDESC_HL_10700;[From.GetFirstName] has spent his hard earned wealth on attracting and recruiting more soldiers for his mercenary band.;;;;;;;;;;;[From.GetFirstName] òðàòèò íåìàëî çîëîòà íà ïðèâëå÷åíèå è âåðáîâêó ñîëäàò äëÿ ñâîåé áàíäû íà¸ìíèêîâ.;;x
+EVTDESC_HL_10701;[From.GetFirstName] has spent his hard earned wealth on carousing with his men, wasting it on spirits and women;;;;;;;;;;;[From.GetFirstName] òðàòèò ìàññó äåíåã íà ïèðóøêè ñ äðóçüÿìè, âèíî è æåíùèí.;;x
+EVTOPTA_HL_10101;There is no substitute for experience!;;;;;;;;;;;È ýòî ïîõâàëüíî. Îïûò - íàèâûñøàÿ öåííîñòü.;;x
+EVTOPTA_HL_10201;Finally, my [GetFromRelation] is a real [From.GetManWoman]!;;;;;;;;;;;È ýòî íå ìîæåò íå ðàäîâàòü.;;x
+EVTOPTA_HL_10211;[From.GetHerHisCap] deeds honor the [Root.GetOnlyDynastyName] dynasty!;;;;;;;;;;;È ýòèì ñëàâÿò ðîä [Root.GetOnlyDynastyName]!;;x
+EVTOPTA_HL_10221;A fine example to all!;;;;;;;;;;;Òàêîå óñåðäèå - ïðèìåð äëÿ âñåõ íàñ!;;x
+EVTOPTA_HL_10231;How this world changes [From.GetMenWomen].;;;;;;;;;;;Èíîãäà æèçíü ìåíÿåò ëþäåé.;;x
+EVTOPTA_HL_10241;A predictable effect of [From.GetHerHis] station, surely.;;;;;;;;;;;Äîâîëüíî ïðåäñêàçóåìî â ïîäîáíîé ñèòóàöèè.;;x
+EVTOPTA_HL_10251;Perhaps it was only to be expected.;;;;;;;;;;;Ýòîãî ñëåäîâàëî îæèäàòü.;;x
+EVTOPTA_HL_10261;I'm sure they deserve it.;;;;;;;;;;;Íàâåðíÿêà îíè çàñëóæèëè [From.GetHersHis] ãíåâ.;;x
+EVTOPTA_HL_10271;People had best not get in [From.GetHerHis] way.;;;;;;;;;;;Òåïåðü ëþäè ïîäóìàþò, ïðåæäå ÷åì ïåðåéòè [From.GetHerHim] äîðîãó.;;x
+EVTOPTA_HL_10301;[From.GetSheHeCap] measures [From.GetHerselfHimself] against the great!;;;;;;;;;;;Äîñòîéíûé ïðîòèâíèê!;;x
+EVTOPTA_HL_10401;So [From.GetSheHe] finds [merc_location.Holder.Religion.GetName]s interesting?;;;;;;;;;;;[merc_location.Holder.GetReligionFullName]? Íó íàäî æå!;;x
+EVTOPTA_HL_10411;So [From.GetSheHe] worships [merc_location.Holder.Religion.GetRandomGodName] now?;;;;;;;;;;;Íó è [merc_location.Holder.Religion.GetHighGodName] ñ íèì.;;x
+EVTOPTA_HL_10501;The [GetRootFromInsult]!;;;;;;;;;;;[GetRootFromInsult]!;;x
+EVTOPTA_HL_10515;I am glad it ended well.;;;;;;;;;;;ß ðàä[Root.GetEndA], ÷òî âñ¸ çàêîí÷èëîñü õîðîøî.;;x
+EVTOPTA_HL_10516;I am not pleased.;;;;;;;;;;;ß íå äîâîëåí.;;x
+EVTOPTA_HL_10517;Woe!;;;;;;;;;;;Ïðîêëÿòüå!;;x
+EVTOPTA_HL_10518;Better luck next time!;;;;;;;;;;;Óäà÷è â ñëåäóþùèé ðàç!;;x
+EVTOPTA_HL_10520;That's my boy!;;;;;;;;;;;Âîò ìîé ìàëü÷èê!;;x
+EVTOPTA_HL_10521;I will have my revenge, I swear it!;;;;;;;;;;;Êëÿíóñü, ÿ îòîìùþ!;;x
+EVTOPTA_HL_10530;Yes, I think I will!;;;;;;;;;;;Êîíå÷íî! Áóäåò âåñåëî!;;x
+EVTOPTA_HL_10532;A new friend, maybe I should give [From.GetHerHim] some land...;;;;;;;;;;;Òåïåðü ìû äðóçüÿ. Ìîæåò ÿ ïîäàðþ [From.GetHerHim] çåìëþ.;;x
+EVTOPTA_HL_10533;Who does [From.GetSheHe] think [From.GetSheHe] is?;;;;;;;;;;;Êåì [From.GetSheHe] ñåáÿ âîçîìíèë?;;x
+EVTOPTA_HL_10601;That is good to hear.;;;;;;;;;;;Ïðèÿòíî ñëûøàòü!;;x
+EVTOPTA_HL_10610;I should ask my guardian [Guardian.GetTitledFirstName] about it.;;;;;;;;;;;Íàäî ðàñïðîñèòü îá ýòîì....;;x
+EVTOPTA_HL_10611;Ah, do I have stories for [From.GetHerHim]...;;;;;;;;;;;×òî æ, ó ìåíÿ åñòü ïàðî÷êà èñòîðèé...;;x
+EVTOPTA_HL_10613;Fascinating!;;;;;;;;;;;Êðóòî!;;x
+EVTOPTA_HL_10614;But why?;;;;;;;;;;;Íî ïî÷åìó?!;;x
+EVTOPTA_HL_10700;A good investment I hope.;;;;;;;;;;;Ïîëàãàþ, âåñüìà âûãîäíîå ïðåäïðèÿòèå.;;x
+EVTOPTA_HL_10700_TOOLTIP;§Y[From.GetTitledFirstName]§! has increased [From.GetHerHis] army size by §G5%§!;;;;;;;;;;;§Y[From.GetTitledFirstName]§! ñîîáùàåò, ÷òî ðàçìåð [From.GetHersHis] àðìèè âûðîñ íà §G5%§!;;x
+EVTOPTA_HL_10701;A good family tradition.;;;;;;;;;;;Íó ýòî... ñåìåéíàÿ òðàäèöèÿ.;;x
+EVTOPTB_HL_10530;No, mercenaries are best kept at a proper distance.;;;;;;;;;;;Íà¸ìíèêîâ ëó÷øå äåðæàòü íà áåçîïàñíîì ðàññòîÿíèè.;;x
+EVTOPTB_HL_10611;[From.GetSheHeCap] is better off not knowing.;;;;;;;;;;;Áóäåò ëó÷øå, åñëè [From.GetSheHe] îá ýòîì íå óçíàåò.;;x

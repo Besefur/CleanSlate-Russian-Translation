@@ -1,8 +1,5 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC_NE_1;[invited_character.GetFullName] has arrived at your court, ready for employment.;;;;;;;;;;;;;x
-EVTDESC_NE_1_debutant;[invited_character.GetFullName] has arrived at your court, ready for service.;;;;;;;;;;;;;x
-
-EVTOPTA_NE_1;I shall make [invited_character.GetFirstName] a commander.;;;;;;;;;;;;;x
-
-EVTOPTB_NE_1;[invited_character.GetFirstName] is not what I asked for, begone!;;;;;;;;;;;;;x
+EVTDESC_NE_1;[invited_character.GetFullName] has arrived at your court, ready for employment.;;;;;;;;;;;[invited_character.GetFullName] ïðèáûë[invited_character.GetEndA] ê Âàøåìó äâîðó è ãîòîâ[invited_character.GetEndA] ñëóæèòü.;;x
+EVTDESC_NE_1_debutant;[invited_character.GetFullName] has arrived at your court, ready for service.;;;;;;;;;;;[invited_character.GetFullName] ïðèáûë[invited_character.GetEndA] êî äâîðó è ãîòîâ[invited_character.GetEndA] ïðèñòóïèòü ê ñâîèì îáÿçàííîñòÿì.;;x
+EVTOPTA_NE_1;I shall make [invited_character.GetFirstName] a commander.;;;;;;;;;;;[invited_character.GetFirstName] ñòàíåò ìîèì ïîëêîâîäöåì.;;x
+EVTOPTB_NE_1;[invited_character.GetFirstName] is not what I asked for, begone!;;;;;;;;;;;Ýòî íå ò[invited_character.GetEtaEtot], êîãî ÿ æäàë[Root.GetEndA]. Îòîøëèòå [invited_character.GetHersHis] ïðî÷ü!;;x

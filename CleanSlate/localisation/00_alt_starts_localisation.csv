@@ -1,428 +1,417 @@
 # used in religion_name_formats
-ALT_BOOK_THE_BLOOD_BOOK;The Blood Book;;;;;;;;;;;;;x
-ALT_BOOK_THE_BOOK_OF_FAITH;The Book of Faith;;;;;;;;;;;;;x
-ALT_BOOK_THE_BOOK_OF_ILLUMINATION;The Book of Illumination;;;;;;;;;;;;;x
-ALT_BOOK_THE_BOOKS_OF_BLESSED_VIRTUE;The Books of Blessed Virtue;;;;;;;;;;;;;x
-ALT_BOOK_THE_CHRONICLES_OF_REALITY;The Chronicles of Reality;;;;;;;;;;;;;x
-ALT_BOOK_THE_CODE;The Code;;;;;;;;;;;;;x
-ALT_BOOK_THE_DIAMOND_TABLET;The Diamond Tablet;;;;;;;;;;;;;x
-ALT_BOOK_THE_EPISTLES_OF_WISDOM;The Epistles of Wisdom;;;;;;;;;;;;;x
-ALT_BOOK_THE_FIVE_BOOKS_OF_WORSHIP;The Five Books of Worship;;;;;;;;;;;;;x
-ALT_BOOK_THE_GRAND_STORY;The Grand Story;;;;;;;;;;;;;x
-ALT_BOOK_THE_GREAT_SECRET;The Great Secret;;;;;;;;;;;;;x
-ALT_BOOK_THE_HALLOWED_MANUSCRIPT;The Hallowed Manuscript;;;;;;;;;;;;;x
-ALT_BOOK_THE_HOLY_TABLETS_OF_STONE;The Holy Tablets of Stone;;;;;;;;;;;;;x
-ALT_BOOK_THE_LEGENDS;The Legends;;;;;;;;;;;;;x
-ALT_BOOK_THE_NINE_SCROLLS;The Nine Scrolls;;;;;;;;;;;;;x
-ALT_BOOK_THE_OBELISKS;The Obelisks;;;;;;;;;;;;;x
-ALT_BOOK_THE_RECORDS_OF_THE_INFITE_CYCLES;The Records of the Infinite Cycles;;;;;;;;;;;;;x
-ALT_BOOK_THE_SACRED_SCROLL;The Sacred Scroll;;;;;;;;;;;;;x
-ALT_BOOK_THE_SAGAS;The Sagas;;;;;;;;;;;;;x
-ALT_BOOK_THE_SCROLL_OF_THE_NIGHT;The Scroll of the Night;;;;;;;;;;;;;x
-ALT_BOOK_THE_SEVEN_SYMBOLS;The Seven Symbols;;;;;;;;;;;;;x
-ALT_BOOK_THE_SINGED_TEXTS;The Singed Texts;;;;;;;;;;;;;x
-ALT_BOOK_THE_SKIN_BOUND_SAGAS;The Skin-Bound Sagas;;;;;;;;;;;;;x
-ALT_BOOK_THE_SONG_OF_LIFE;The Song of Life;;;;;;;;;;;;;x
-ALT_BOOK_THE_TABLETS_OF_TIME;The Tablets of Time;;;;;;;;;;;;;x
-ALT_BOOK_THE_THE_PROPHETS_PAMPHLET;The Prophet's Pamphlet;;;;;;;;;;;;;x
-ALT_BOOK_THE_TOME_OF_PURITY;The Tome of Purity;;;;;;;;;;;;;x
-ALT_BOOK_THE_TRANSCRIPTS_OF_THE_PAST;The Transcripts of the Past;;;;;;;;;;;;;x
-ALT_BOOK_THE_UNSUNG_TALE;The Unsung Tale;;;;;;;;;;;;;x
-ALT_BOOK_THE_WORLDS_GOSPEL;The World's Gospel;;;;;;;;;;;;;x
-
-ALT_EVILGOD_CHAOS;Chaos;;;;;;;;;;;;;x
-ALT_EVILGOD_DEATH_ITSELF;Death Itself;;;;;;;;;;;;;x
-ALT_EVILGOD_DISEASE;Disease;;;;;;;;;;;;;x
-ALT_EVILGOD_GRANDMOTHER_DEATH;Grandmother Death;;;;;;;;;;;;;x
-ALT_EVILGOD_THAT_WITHOUT_A_NAME;That Without a Name;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_ARCANE_STORM;The Arcane Storm;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_BLOODLETTER;The Bloodletter;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_BROTHER_OF_FIRE;The Brother of Fire;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_BUGS;The Bugs;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_BUTCHER;The Butcher;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_COSMIC_HORROR;The Cosmic Horror;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_CRIMSON_RIDER;The Crimson Rider;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_DARK_HAND;The Dark Hand;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_DARK_SPIRITS;the Dark Spirits;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_DEAD;The Dead;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_DEVIL;the Devil;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_EATER_OF_FATE;The Eater of Fate;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_EMPTY_HORIZON;The Empty Horizon;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_END_OF_ALL;The End of All;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_ETERNAL_DARKNESS;The Eternal Darkness;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_EVIL_ONES;The Evil Ones;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_FADING_FIRE;The Fading Fire;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_FAITHLESS_MASS;The Faithless Mass;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_FATHER_OF_FOG;The Father of Fog;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_FIRST_HEATHEN;The First Heathen;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_FLAYED_BRIDE;The Flayed Bride;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_FORGOTTEN;The Forgotten;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_FORLORN_FAMILY;The Forlorn Family;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_GAPING_MAW;The Gaping Maw;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_GARBLED_VOICE;The Garbled Voice;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_GRAVEROBBER;The Graverobber;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_GRINNING_MEN;The Grinning Men;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_HARBINGER_OF_DEATH;The Harbinger of Death;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_HERALD;The Herald;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_LAST_OF_THE_CHOSEN;The Last of The Chosen;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_LONESOME;The Lonesome;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_LOST_CHILD;The Lost Child;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_MAD_JESTER;The Mad Jester;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_MANGLED_LORD;The Mangled Lord;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_MARE_OF_DAMNATION;The Mare of Damnation;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_MOTHER_OF_MONSTERS;The Mother of Monsters;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_OMEGA;The Omega;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_ONE_BELOW;The One Below;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_ONE_BENEATH_THE_WATER;The One Beneath the Water;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_PUNISHERS;the Punishers;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_RAVENOUS_HUNGER;The Ravenous Hunger;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_RED_EGG;The Red Egg;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_ROT;The Rot;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_ROTTING_TREE;The Rotting Tree;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_SEVEN_SCREAMING_VOICES;The Seven Screaming Voices;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_SILVER_ONES;The Silver Ones;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_SIN_WITHIN;The Sin Within;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_SMITH_OF_PAIN;The Smith of Pain;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_THREE_STRANGERS;The Three Strangers;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_TRICKSTER;The Trickster;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_UNDYING;The Undying;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_VENGEFUL_ANCESTOR;The Vengeful Ancestor;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_VOID;The Void;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_VORTEX;The Vortex;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_WARLORD;The Warlord;;;;;;;;;;;;;x
-ALT_EVILGOD_THE_WHISPERING_SHADOW;The Whispering Shadow;;;;;;;;;;;;;x
-
-ALT_GOD_GOD;God;;;;;;;;;;;;;x
-ALT_GOD_GRANDFATHER_LIFE;Grandfather Life;;;;;;;;;;;;;x
-ALT_GOD_PANDOLF;Pandolf;;;;;;;;;;;;;x
-ALT_GOD_THE_ALPHA;The Alpha;;;;;;;;;;;;;x
-ALT_GOD_THE_ANCESTORS;the Ancestors;;;;;;;;;;;;;x
-ALT_GOD_THE_ANCIENT_ONE;The Ancient One;;;;;;;;;;;;;x
-ALT_GOD_THE_ARCHITECT;The Architect;;;;;;;;;;;;;x
-ALT_GOD_THE_ARTISAN_OF_THE_STARS;The Artisan of The Stars;;;;;;;;;;;;;x
-ALT_GOD_THE_AUTHOR_OF_FATE;The Author of Fate;;;;;;;;;;;;;x
-ALT_GOD_THE_BLESSED_VIRGIN;the Blessed Virgin;;;;;;;;;;;;;x
-ALT_GOD_THE_CHAIN_THAT_BINDS;The Chain that Binds;;;;;;;;;;;;;x
-ALT_GOD_THE_COSMIC_EGG;The Cosmic Egg;;;;;;;;;;;;;x
-ALT_GOD_THE_CRADLE_OF_LIFE;The Cradle of Life;;;;;;;;;;;;;x
-ALT_GOD_THE_CREATOR;the Creator;;;;;;;;;;;;;x
-ALT_GOD_THE_CRONE_OF_TIME;The Crone of Time;;;;;;;;;;;;;x
-ALT_GOD_THE_DIVINE;The Divine;;;;;;;;;;;;;x
-ALT_GOD_THE_DREAM_SNAKE;The Dream Snake;;;;;;;;;;;;;x
-ALT_GOD_THE_EARTH_MOTHER;The Earth Mother;;;;;;;;;;;;;x
-ALT_GOD_THE_EBB_AND_FLOW;The Ebb and Flow;;;;;;;;;;;;;x
-ALT_GOD_THE_ENDLESS_ONE;The Endless One;;;;;;;;;;;;;x
-ALT_GOD_THE_FERTILE_MOTHER;The Fertile Mother;;;;;;;;;;;;;x
-ALT_GOD_THE_FIRST_AND_LAST;The First and Last;;;;;;;;;;;;;x
-ALT_GOD_THE_FIRST_FEW;The First Few;;;;;;;;;;;;;x
-ALT_GOD_THE_FIRST_WARRIOR;The First Warrior;;;;;;;;;;;;;x
-ALT_GOD_THE_FIVE_CRAFTSMEN;The Five Craftsmen;;;;;;;;;;;;;x
-ALT_GOD_THE_FOX_OF_FORTUNE;The Fox of Fortune;;;;;;;;;;;;;x
-ALT_GOD_THE_GILDED_GUIDE;The Gilded Guide;;;;;;;;;;;;;x
-ALT_GOD_THE_GIVER_OF_JUSTICE;the Giver of Justice;;;;;;;;;;;;;x
-ALT_GOD_THE_GREAT_OAK;The Great Oak;;;;;;;;;;;;;x
-ALT_GOD_THE_GREATEST;the Greatest;;;;;;;;;;;;;x
-ALT_GOD_THE_GUARDIAN;The Guardian;;;;;;;;;;;;;x
-ALT_GOD_THE_GUARDIAN_OF_ETERNITY;The Guardian of Eternity;;;;;;;;;;;;;x
-ALT_GOD_THE_HEAVENLY_MOUNTAIN;The Heavenly Mountain;;;;;;;;;;;;;x
-ALT_GOD_THE_HEAVENLY_VESTIBULE;The Heavenly Vestibule;;;;;;;;;;;;;x
-ALT_GOD_THE_HEAVENLY_WHEEL;The Heavenly Wheel;;;;;;;;;;;;;x
-ALT_GOD_THE_HORSE_OF_HOPE;The Horse of Hope;;;;;;;;;;;;;x
-ALT_GOD_THE_IMMORTAL_SOUL;The Immortal Soul;;;;;;;;;;;;;x
-ALT_GOD_THE_LANTERN_OF_LIFE;The Lantern of Life;;;;;;;;;;;;;x
-ALT_GOD_THE_LORD;the Lord;;;;;;;;;;;;;x
-ALT_GOD_THE_MONOLITH;The Monolith;;;;;;;;;;;;;x
-ALT_GOD_THE_MOON;The Moon;;;;;;;;;;;;;x
-ALT_GOD_THE_MOTHER_OF_SEVEN_HUNDRED;The Mother of Seven Hundred;;;;;;;;;;;;;x
-ALT_GOD_THE_OLD_ONES;The Old Ones;;;;;;;;;;;;;x
-ALT_GOD_THE_ONE_ABOVE;The One Above;;;;;;;;;;;;;x
-ALT_GOD_THE_ONE_WHO_CAME_BEFORE;The One Who Came Before;;;;;;;;;;;;;x
-ALT_GOD_THE_OWL_OF_OMNISCIENCE;The Owl of Omniscience;;;;;;;;;;;;;x
-ALT_GOD_THE_PANTHEON;The Pantheon;;;;;;;;;;;;;x
-ALT_GOD_THE_PERFECTED_ONES;the Perfected Ones;;;;;;;;;;;;;x
-ALT_GOD_THE_PHANTOM_STAG;The Phantom Stag;;;;;;;;;;;;;x
-ALT_GOD_THE_SEA_OF_LIFE;The Sea of Life;;;;;;;;;;;;;x
-ALT_GOD_THE_SIBLINGS;The Siblings;;;;;;;;;;;;;x
-ALT_GOD_THE_SKY;The Sky;;;;;;;;;;;;;x
-ALT_GOD_THE_SOURCE;The Source;;;;;;;;;;;;;x
-ALT_GOD_THE_SPIRITS;the Spirits;;;;;;;;;;;;;x
-ALT_GOD_THE_STORM_OF_RIGHTEOUSNESS;The Storm of Righteousness;;;;;;;;;;;;;x
-ALT_GOD_THE_SUN;the Sun;;;;;;;;;;;;;x
-ALT_GOD_THE_SUPREME;the Supreme;;;;;;;;;;;;;x
-ALT_GOD_THE_THREE_PURITIES;The Three Purities;;;;;;;;;;;;;x
-ALT_GOD_THE_UNBROKEN;The Unbroken;;;;;;;;;;;;;x
-ALT_GOD_THE_UNFALLEN;The Unfallen;;;;;;;;;;;;;x
-ALT_GOD_THE_WORLD_TREE;The World Tree;;;;;;;;;;;;;x
-
-ALT_PRIEST_ACOLYTE;acolyte;;;;;;;;;;;;;x
-ALT_PRIEST_ARCHON;archon;;;;;;;;;;;;;x
-ALT_PRIEST_AUGUR;augur;;;;;;;;;;;;;x
-ALT_PRIEST_CLERIC;cleric;;;;;;;;;;;;;x
-ALT_PRIEST_ELDER;elder;;;;;;;;;;;;;x
-ALT_PRIEST_HEALER;healer;;;;;;;;;;;;;x
-ALT_PRIEST_HEIROPHANT;hierophant;;;;;;;;;;;;;x
-ALT_PRIEST_PONTIFF;pontiff;;;;;;;;;;;;;x
-ALT_PRIEST_PRIEST;priest;;;;;;;;;;;;;x
-ALT_PRIEST_SEER;seer;;;;;;;;;;;;;x
-ALT_PRIEST_SHAMAN;shaman;;;;;;;;;;;;;x
-
-ALT_START_CHARACTER_CULT;$INSERT$ist;;;;;;;;;;;;;x
-ALT_START_CHARACTER_CULT_full;Cult of $INSERT$;;;;;;;;;;;;;x
-ALT_START_CHARACTER_FOLLOWERS;$INSERT$ist;;;;;;;;;;;;;x
-ALT_START_CHARACTER_FOLLOWERS_full;Followers of $INSERT$;;;;;;;;;;;;;x
-ALT_START_CHARACTER_IAN;$INSERT$ian;;;;;;;;;;;;;x
-ALT_START_CHARACTER_IST;$INSERT$ist;;;;;;;;;;;;;x
-ALT_START_CHARACTER_ITE;$INSERT$ite;;;;;;;;;;;;;x
-ALT_START_CHARACTER_RITES;$INSERT$ic;;;;;;;;;;;;;x
-ALT_START_CHARACTER_RITES_full;$INSERT$ic Rites;;;;;;;;;;;;;x
-
-ALT_START_DYNASTY_ARD;$INSERT$ard;;;;;;;;;;;;;x
-ALT_START_DYNASTY_CREED_OF_THE;$INSERT$ard;;;;;;;;;;;;;x
-ALT_START_DYNASTY_CREED_OF_THE_full;Creed of the $INSERT$;;;;;;;;;;;;;x
-ALT_START_DYNASTY_DI;$INSERT$di;;;;;;;;;;;;;x
-ALT_START_DYNASTY_DOLIC;$INSERT$dolic;;;;;;;;;;;;;x
-ALT_START_DYNASTY_IAN;$INSERT$ian;;;;;;;;;;;;;x
-ALT_START_DYNASTY_IJITE;$INSERT$ijite;;;;;;;;;;;;;x
-ALT_START_DYNASTY_IST;$INSERT$ist;;;;;;;;;;;;;x
-ALT_START_DYNASTY_ITE;$INSERT$ite;;;;;;;;;;;;;x
-
-ALT_START_GENERIC_HERESY_DESC_1;The [GetName] faith is an offshoot branch with a radically different interpretation of [GetScriptureName]. Their [GetPriestTitle]s constantly debate the validity of various passages, drawing much ire from the mainstream followers. In their interpretation of the scripture, [GetHighGodName] is overtly warlike and unsympathetic, but their practices are otherwise very similar to those of the main branch.;;;;;;;;;;;;;x
-ALT_START_GENERIC_HERESY_DESC_2;In the [GetName] faith followers not only adhere to the teachings of [GetScriptureName], but also look to other religions for guidance. Alongside their own scripture, they also read passages from the holy texts of the [norse_pagan.GetName] and [buddhist.GetName] faiths. This practice condemn the [GetName] faithful in the eyes of many [GetPriestTitle]s.;;;;;;;;;;;;;x
-ALT_START_GENERIC_HERESY_DESC_3;Followers of the [GetName] faith act and behave much like the adherents of their parent religion, though with one major difference. All religious practices are performed in reverse order, as they believe the chronology of [GetScriptureName] to have been tampered with by [GetRandomEvilGodName].;;;;;;;;;;;;;x
-ALT_START_GENERIC_HERESY_DESC_4;The [GetName] faith is an ultra-orthodox branch of fanatical zealots. Adherents do not tolerate any deviance from the word of [GetScriptureName], subscribing to a very literal interpretation rather than the more relaxed one of their peers. They believe this to be the only way to truly please [GetHighGodName].;;;;;;;;;;;;;x
-ALT_START_GENERIC_HERESY_DESC_5;For followers of the [GetName] faith, the number ten is of paramount importance. Rituals are always performed by ten [GetPriestTitle]s, every sermon touches upon ten passages from [GetScriptureName] and truly ardent worshipers pray to [GetHighGodName] ten times per day. They also believe that [GetRandomEvilGodName] is, in fact, ten separate entities.;;;;;;;;;;;;;x
-ALT_START_GENERIC_HERESY_DESC_6;Generally, followers of the [GetName] faith are much more relaxed about their rites and methods of worship than the followers of the orthodox branch. Their [GetPriestTitle]s claim that the battle against [GetRandomEvilGodName] is already lost, and that there is no path to salvation. This nihilistic outlook cause many followers to take the name of [GetHighGodName] in vain, which angers more devout worshipers.;;;;;;;;;;;;;x
-ALT_START_GENERIC_HERESY_DESC_7;Unlike the main branch, worshipers of the [GetName] faith do not believe [GetScriptureName] hold the absolute truth. Followers prefer oral traditions, where [GetPriestTitle]s travel far and wide in order to share their wisdom with other [GetPriestTitle]s.;;;;;;;;;;;;;x
-ALT_START_GENERIC_HERESY_DESC_8;The [GetName] faith, unlike its parent faith, has a very strict caste hierarchy pertaining [GetPriestTitle]s. Internally, [GetPriestTitle]s are organized into five separate ranks, each owing full loyalty to their superiors. Their flocks are also organized into five separate groupings, with the recent converts and cynical worshipers being tended to by the lowest-ranking [GetPriestTitle]s.;;;;;;;;;;;;;x
-ALT_START_GENERIC_HERESY_DESC_9;Followers of the [GetName] faith are deemed cursed by adherents of their parent faith. The reason for why this belief is so ingrained and unshakable has been lost to time. The most common claim is that they are spawn of [GetRandomEvilGodName], who spit on [GetScriptureName]. Adherents of the [GetName] faith do not ascribe to this interpretation, as they themselves believe spit to be a blessed tool provided by [GetHighGodName].;;;;;;;;;;;;;x
-ALT_START_GENERIC_HERESY_DESC_10;Rejecting what they believe to be propaganda from [GetRandomEvilGodName], followers of the [GetName] faith ignore the word of the [GetPriestTitle]s. When hearing any passage from [GetScriptureName] read out loud, they instantly stuff their ears with parsley which each follower keeps with them in a sacred pouch. In honor of [GetHighGodName], every meal during religious holidays is prepared with abundant quantities of parsley.;;;;;;;;;;;;;x
-ALT_START_GENERIC_HERESY_DESC_11;Followers of the [GetName] religion hold the belief that every third passage of [GetScriptureName] is written by [GetRandomEvilGodName], much to the dismay of adherents to the parent religion. Fanatics often write down the offending passages on rocks, which they subsequently throw at the houses of those they perceive to be heretics or heathens.;;;;;;;;;;;;;x
-ALT_START_GENERIC_HERESY_DESC_12;Cold nights are cherished by followers of the [GetName] religion, who hold the belief that the touch of [GetHighGodName] is as icy as the deepest winter. As [GetScriptureName] makes no mention of this, [GetPriestTitle]s of their parent faith deem such rituals heretical and inspired by the gospel of [GetRandomEvilGodName].;;;;;;;;;;;;;x
-ALT_START_GENERIC_HERESY_DESC_13;The [GetPriestTitle]s of the [GetName] faith argue that their way of worship is not only the correct way, but also much older than that of more traditional believers. For millenia the [GetName] faith thrived, until a tiny sect of lunatics broke away to form new branches of the religion – or so [GetName] [GetPriestTitle]s claim. A defining feature of the faith is that the private lives of [GetPriestTitle]s must remain completely secret, which often see them wearing disguises when not tending to their flocks.;;;;;;;;;;;;;x
-ALT_START_GENERIC_HERESY_DESC_14;The [GetName] faith believes that [GetScriptureName] should be available to all, and not just for the [GetPriestTitle]s to interpret. They therefore produce numerous copies of [GetScriptureName], localized into several languages. Many of these copies hold changes introduced by less than scrupulous [GetPriestTitle]s, which is a contributing reason to [GetName] followers being seen as heretical.;;;;;;;;;;;;;x
-ALT_START_GENERIC_HERESY_DESC_15;Followers of the [GetName] faith share many similarities between themselves and those of their parent faith. In fact, [GetPriestTitle]s from both sides have been unable to find a single practical difference between the two sects – they both hold [GetScriptureName] in high regard, praise [GetHighGodName] in the correct way and fear the retribution of [GetRandomEvilGodName]. Still, followers of the [GetName] faith claim themselves to be heretics, and ardently so.;;;;;;;;;;;;;x
-ALT_START_GENERIC_HERESY_DESC_16;The [GetPriestTitle]s of the [GetName] religion often openly preach in the street and in public buildings, and are often ridiculed and spat on by those who do not ascribe to their somewhat ridiculous interpretation of [GetScriptureName]. In the minds of [GetName] worshipers, the text of [GetScriptureName] needs to be simplified to such a degree that a child could understand all of it, and they often rewrite the various passages to be comprehensible for even the most simple-minded person – something which obviously draws the ire of the more hard-line worshipers.;;;;;;;;;;;;;x
-ALT_START_GENERIC_HERESY_DESC_17;The [GetName] faith incorporates many elements of other religions. Several rites outlined in the [hindu.GetName] holy text ([hindu.GetScriptureName]) are part of everyday worship, and the behaviours of [jain.GetName] [jain.GetPriestTitle]s are emulated by [GetName] [GetPriestTitle]s. While their own holy text, [GetScriptureName], is still held in the highest regard, a lot of emphasis is put on the necessity for [GetPriestTitle]s to interpret other holy texts.;;;;;;;;;;;;;x
-ALT_START_GENERIC_HERESY_DESC_18;Those who adhere to the [GetName] faith believe that an eternal war is being waged between [GetHighGodName] and all the gods and goddesses of other religions. Followers actively support this war by carving idols of all the foreign gods, which they subsequently burn in ritualistic bonfires.;;;;;;;;;;;;;x
-ALT_START_GENERIC_HERESY_DESC_19;[GetScriptureName] can be interpreted in many different ways, or so the [GetName] faithful claim. Their [GetPriestTitle]s make many bold claims, and they often conflict – one [GetPriestTitle] might claim [GetHighGodName] to be warlike one day, while another [GetPriestTitle] claims [GetHighGodName] to be championing peace the next. Their [GetPriestTitle]s often gather in grand cabals to discuss which interpretation is the right one, which leads followers of their parent religion to often accuse them of being witches or warlocks.;;;;;;;;;;;;;x
-ALT_START_GENERIC_HERESY_DESC_20;The religious leadership of the [GetName] faith forbid anyone from reading [GetScriptureName], even themselves. They believe the texts to simply be too sacred for anyone to see – instead the [GetPriestTitle]s themselves dictate what adherents should and should not do. Their [GetPriestTitle]s also claim that anyone not following their commands will have their souls eaten by [GetRandomEvilGodName] as they die.;;;;;;;;;;;;;x
-
-ALT_START_GENERIC_RELIGION_DESC;The [GetName] faith is as old as the world itself. Their deity, known only as [GetHighGodName], is said to have created the world for the [GetName] faithful to live and thrive in, by condition that they follow the rules set in [GetScriptureName]. [GetScriptureName] was passed directly from [GetHighGodName] to the first [GetName] prophet. Followers also believe that [GetRandomEvilGodName], and an army of dreaded heretics and heathens, seek to undo the entirety of creation and doom the [GetName] faithful to eternal darkness.;;;;;;;;;;;;;x
-ALT_START_GENERIC_RELIGION_DESC_2;The [GetName] faith was founded when the first [GetPriestTitle] got a revelation from [GetHighGodName]. By using her own blood, the [GetPriestTitle] penned [GetScriptureName] and passed it on to her followers. Since then, many other [GetPriestTitle]s have had revelations, though all of them about [GetRandomEvilGodName] and how the world will end.;;;;;;;;;;;;;x
-ALT_START_GENERIC_RELIGION_DESC_3;The foundation of the [GetName] faith is shrouded in mystery, and [GetScriptureName] does not make mention of their origins. Followers argue that the [GetName] faith has always existed, and that anyone claiming otherwise is an agent of [GetRandomEvilGodName]. Their [GetPriestTitle]s enforce this notion rather vigorously, threatening that the wrath of their supreme diety will strike unbelievers down - [GetHighGodName], riding a mighty chariot across the night sky.;;;;;;;;;;;;;x
-ALT_START_GENERIC_RELIGION_DESC_4;It is said that the seven prophets of the [GetName] faith stayed up for seven days and seven nights when they were revealed [GetScriptureName] from [GetHighGodName]. After the completion of [GetScriptureName], six of them were uplifted to join [GetHighGodName] while one was doomed to spend eternity with [GetRandomEvilGodName]. [GetName] [GetPriestTitle]s thus condemn the number seven.;;;;;;;;;;;;;x
-ALT_START_GENERIC_RELIGION_DESC_5;In the beginning there was only fire, and out of that fire [GetHighGodName] forged the world. The [GetPriestTitle]s of the [GetName] faithful continually write down visions they have of [GetHighGodName] in [GetScriptureName]. At times, one such story may be deemed heretical, and is subsequently burned. The [GetPriestTitle] who wrote down the offending text is often believed to be under the influence of [GetRandomEvilGodName], and is such likely to be burned alongside the heretical pages.;;;;;;;;;;;;;x
-ALT_START_GENERIC_RELIGION_DESC_6;The [GetName] faith is an amalgamation of many other religions. There are several ways which followers may worship [GetHighGodName], all of them equally legitimate. Some even worship [GetRandomEvilGodName] alongside [GetHighGodName]. It is said that somewhere in the world ten [GetPriestTitle]s guard [GetScriptureName], of which only fragments are known even to the most devout followers.;;;;;;;;;;;;;x
-ALT_START_GENERIC_RELIGION_DESC_7;The [GetName] faith is very strict, with [GetPriestTitle]s constantly requiring followers to cite passages from [GetScriptureName]. If a follower would fail to cite three passages in a row, they are punished and deemed corrupted by [GetRandomEvilGodName]. Fortunately [GetScriptureName] contains only twelve passages, spread out over four pages – proving the mercy of [GetHighGodName] once again.;;;;;;;;;;;;;x
-ALT_START_GENERIC_RELIGION_DESC_8;The [GetName] faith is very peculiar in that sermons are always sung. The [GetPriestTitle]s are picked among followers based on the tone of their voice, as their diety [GetHighGodName] is said to have conveyed [GetScriptureName] entirely through divine song. The main enemy of [GetHighGodName] is [GetRandomEvilGodName], who cannot sing. Mute people are deemed cursed by [GetRandomEvilGodName], and are often excluded from mass.;;;;;;;;;;;;;x
-ALT_START_GENERIC_RELIGION_DESC_9;The followers of the [GetName] faith believe that all the world is but a game between [GetHighGodName] and [GetRandomEvilGodName]. Due to this a lot of their religious rites and worship are centered around a complex board game, with the most successful players becoming [GetPriestTitle]s. The rules of this sacred game are recorded in [GetScriptureName].;;;;;;;;;;;;;x
-ALT_START_GENERIC_RELIGION_DESC_10;In the [GetName] religion [GetScriptureName] tells the story of [GetHighGodName] whose arm was cruelly cut off by [GetRandomEvilGodName] – the pieces of their arm became the land and their blood the sea, creating the world as we know it. Their [GetPriestTitle]s sometimes cut off parts of their own body in an attempt to be closer to [GetHighGodName].;;;;;;;;;;;;;x
-ALT_START_GENERIC_RELIGION_DESC_11;Eons ago, all creatures were united on a single land that spanned infinitely towards the horizons. They lived under a soft light that allowed the lushest grass and the sweetest of fruit to grow. But one day, for reasons and from origins unfathomable by mere mortals, [GetRandomEvilGodName] arrived and shook the very essence of the universe, splitting the lands, scorching the earth and disuniting mortals. Nearly everything was consumed by the infinite darkness still visible at night, except for the land miraculously protected by [GetHighGodName]. The faithful have recorded the history of the world in [GetScriptureName], so they may never forget that they owe their very existence to the benevolence and power of [GetHighGodName].;;;;;;;;;;;;;x
-ALT_START_GENERIC_RELIGION_DESC_12;In the [GetName] faith it is believed that this is the eighteenth cycle that the World has gone through. In every cycle, [GetHighGodName], protector of Life and Light, fiercely battles [GetRandomEvilGodName], feeding on Death and Darkness. As stated in [GetScriptureName], the only way to prevent [GetRandomEvilGodName] from destroying the universe and starting another cycle, is to grant [GetHighGodName] energy through specific rituals, such as always having three candles lit during moonless nights, or celebrating with family every day before, and after, a full moon.;;;;;;;;;;;;;x
-ALT_START_GENERIC_RELIGION_DESC_13;According to [GetScriptureName], when a person dies, their soul becomes ripe for the taking by the Reapers who will bring it to [GetRandomEvilGodName], who will then devour and assimilate them, to quench an insatiable hunger that has lasted since the dawn of time. Only burying the bodies can protect the souls and allow them to safely travel down to the Underworld, the realm of [GetHighGodName], allowing them to come back to earth as guardian spirits who help their descendants and fend off the Reapers.;;;;;;;;;;;;;x
-ALT_START_GENERIC_RELIGION_DESC_14;The [GetPriestTitle]s tell of a time immemorial, when gods and mortals lived together on Earth – the latter as slaves and playthings to the first. After many sunsets, one mortal had enough of this servitude and rose against the foul gods, driving the billions of other mortals to stand with him in a fight for their freedom. In the end, the gods were driven out, repelled to the far confines of the universe, where their remains amalgamated through rage and vengeance, into what we now call [GetRandomEvilGodName]. The rebellious mortal himself was drenched in divine blood, becoming [GetHighGodName], a godlike entity, as strong as the will of all mortals on Earth. In the well protected [GetScriptureName], it says that the remnants of the evil gods draw closer to their lost realm every time a mortal indulges in corruption or decadent behavior, and that only bravery and willpower can wake [GetHighGodName] to protect reality from certain doom.;;;;;;;;;;;;;x
-ALT_START_GENERIC_RELIGION_DESC_15;The [GetName] faith started a long time ago, when a hunter in a now forgotten forest followed a purple feathered bird with large wings to a glade in the heart of the woods. There [GetScriptureName] lay between five trees with golden leaves. The scripture recounted how this forest was the resting place of [GetHighGodName], an entity that had created the world at the cost of its life, after confronting [GetRandomEvilGodName]. Since then, the [GetPriestTitle]s have spread the word in gratitude of [GetHighGodName], to whom they show respect by venerating nature and by burying their dead along with the branch of a tree, allowing them to reunite with their creator.;;;;;;;;;;;;;x
-ALT_START_GENERIC_RELIGION_DESC_16;The [GetName] faith is a rather recent one, founded by the charismatic first [GetPriestTitle], who detailed in length how human beings need to follow certain strict rules of life recorded in [GetScriptureName], lest they be forever doomed to suffer eternal pain at the hands of [GetRandomEvilGodName]. As he drew close to death, the [GetPriestTitle] warned that his good followers were still at risk, due to the numerous masses of wicked heathens performing decadent rituals and increasing [GetRandomEvilGodName]'s influence. The only way he could help protect them was by discarding his mortal coil and ascend to a new form – thus he became [GetHighGodName].;;;;;;;;;;;;;x
-ALT_START_GENERIC_RELIGION_DESC_17;The [GetName] faith is one founded upon fear – their clergy hold terrifying masses, where they recite passages from [GetScriptureName] telling of how [GetRandomEvilGodName] will crack the world open like an egg. Despite followers constantly fearing for their souls, they find brief solace in the stories told about their main deity, [GetHighGodName]. These stories are not often told, and only the most brave [GetPriestTitle]s dare recite them in public.;;;;;;;;;;;;;x
-ALT_START_GENERIC_RELIGION_DESC_18;It is said that the first [GetPriestTitle] was the patriarch of a small tribe who lived on boats out on the endless sea. One day, all the fish in the ocean vanished – eaten by [GetRandomEvilGodName]! Just as the small tribe was on the brink of starvation, [GetHighGodName] appeared before them. The first [GetPriestTitle] pleaded to [GetHighGodName] for salvation, and [GetHighGodName] in response created the land, the trees and all the animals of the forests so that the tribe would not starve. Grateful, the first [GetPriestTitle] created [GetScriptureName] to record all the divine things that [GetHighGodName] had created.;;;;;;;;;;;;;x
-ALT_START_GENERIC_RELIGION_DESC_19;The [GetName] religion is focused upon the practice of ritualistic hunts. All their holidays involve hunts in one form or another, with various quarry being the target of each one. In their religion [GetHighGodName] is a great hunter, and [GetRandomEvilGodName] the prey. Their holy text, [GetScriptureName], detail exactly how each hunt should be performed in meticulous detail.;;;;;;;;;;;;;x
-ALT_START_GENERIC_RELIGION_DESC_20;The [GetName] faith has a particular focus on funerary rites. When an elder dies, they are flayed and their skin fashioned into a religious object such as the cover of a book or a ceremonial mask. Their holy text, [GetScriptureName], tells the story of [GetHighGodName], flayed and buried a hundred times by [GetRandomEvilGodName]. Funerals are always led by at least two [GetPriestTitle]s, one who performs the flaying and one who ensures everything is done to code.;;;;;;;;;;;;;x
-ALT_START_GENERIC_RELIGION_DESC_21;The [GetName] faith is one based largely upon the sense of touch, with adherents locking hands and holding each others shoulders during prayers. Worshipers frequently embrace the [GetPriestTitle]s both before and after a religious ceremony. To bless someone, a [GetPriestTitle] must embrace and lift the chosen one towards the sky – so that [GetHighGodName] may reach down and touch their souls. Their holy text, [GetScriptureName], outlines the jealousy borne by the main enemy of [GetHighGodName] – [GetRandomEvilGodName], the one who must not be touched.;;;;;;;;;;;;;x
-ALT_START_GENERIC_RELIGION_DESC_22;Temples belonging to the [GetName] faith are a spectacle to behold – covered from top to bottom in elaborate wooden carvings, every one of them looks like a work of art. It is said that a woodcarver once started to carve a face into a stump, but was interrupted halfway through. He then started carving a new face into another stump, and when he was finished it sprung to life in the form of [GetHighGodName]. The woodcarver was blessed by [GetHighGodName], and given [GetScriptureName] to keep safe. The half-carved stump he had previously abandoned then sprung to life in the form of [GetRandomEvilGodName], who proceeded to chase the carver out of the forest.;;;;;;;;;;;;;x
-ALT_START_GENERIC_RELIGION_DESC_23;Adherents of the [GetName] faith reject the notion of individuality, believing instead that all are joined in one grand consciousness. In the center of this collective mind lies [GetHighGodName], sleeping. Stories in [GetScriptureName] claim that only [GetRandomEvilGodName] can awaken [GetHighGodName]. [GetName] [GetPriestTitle]s therefore organize a search every year, with an ultimate goal to locate the cave in which [GetRandomEvilGodName] resides.;;;;;;;;;;;;;x
-ALT_START_GENERIC_RELIGION_DESC_24;The [GetName] faithful do not believe this world to be the 'true' world. Their [GetPriestTitle]s say that it is but a shadow of the real world – a world which can only be accessed by pleasing [GetHighGodName]s every command. The rules that must be followed are outlined in [GetScriptureName], with [GetPriestTitle]s standing constant guard over where the texts are kept. They believe that [GetRandomEvilGodName] is always watching, ready to corrupt the texts as soon as they are left out of sight.;;;;;;;;;;;;;x
-ALT_START_GENERIC_RELIGION_DESC_25;In the [GetName] faith ceremonial dance is seen as the most important aspect of worship. Both men and women meet together to dance, preceded by a host of [GetPriestTitle]s. Song and music are always present, and the sung texts are often directly quoted from [GetScriptureName]. Their holy text, [GetScriptureName], tells the story of the great love between [GetHighGodName] and [GetRandomEvilGodName]. It is said that before their falling out, [GetHighGodName] and [GetRandomEvilGodName] danced together constantly. As they left each others side, night and day was created.;;;;;;;;;;;;;x
-ALT_START_GENERIC_RELIGION_DESC_26;Those practicing the [GetName] faith spend a lot of time deep in thought, and their [GetPriestTitle]s spend almost all their lives in contemplation. Their holy text, [GetScriptureName], contains limitless dates and countless numbers of importance, all telling their own story of the future of the world. Interpreting these numbers is a complex task, and new connections are made almost every year. It is said that the truth has been hidden behind complex formulas by [GetHighGodName]. This truth hides the secret to not being ripped apart for eternity by [GetRandomEvilGodName] in the afterlife.;;;;;;;;;;;;;x
-
-ALT_START_HOLY_SITE_AN;$INSERT$an;;;;;;;;;;;;;x
-ALT_START_HOLY_SITE_CHURCH;$INSERT$ian;;;;;;;;;;;;;x
-ALT_START_HOLY_SITE_CHURCH_full;Church of $INSERT$;;;;;;;;;;;;;x
-ALT_START_HOLY_SITE_IAN;$INSERT$ian;;;;;;;;;;;;;x
-ALT_START_HOLY_SITE_IST;$INSERT$ist;;;;;;;;;;;;;x
-ALT_START_HOLY_SITE_ITE;$INSERT$ite;;;;;;;;;;;;;x
-ALT_START_HOLY_SITE_SCHOOL;$INSERT$ite;;;;;;;;;;;;;x
-ALT_START_HOLY_SITE_SCHOOL_full;School of $INSERT$;;;;;;;;;;;;;x
-
+ALT_BOOK_THE_BLOOD_BOOK;The Blood Book;;;;;;;;;;;Ãåìîíîìèêîí;;x
+ALT_BOOK_THE_BOOK_OF_FAITH;The Book of Faith;;;;;;;;;;;Äèâèíàìåíòóì;;x
+ALT_BOOK_THE_BOOK_OF_ILLUMINATION;The Book of Illumination;;;;;;;;;;;Íèìîãíîçèñ;;x
+ALT_BOOK_THE_BOOKS_OF_BLESSED_VIRTUE;The Books of Blessed Virtue;;;;;;;;;;;Ìàõàáõàãàâàä;;x
+ALT_BOOK_THE_CHRONICLES_OF_REALITY;The Chronicles of Reality;;;;;;;;;;;Êèáàëèîí;;x
+ALT_BOOK_THE_CODE;The Code;;;;;;;;;;;Àëü-Ìóíàê;;x
+ALT_BOOK_THE_DIAMOND_TABLET;The Diamond Tablet;;;;;;;;;;;Öçèíüãàíöçèí;;x
+ALT_BOOK_THE_EPISTLES_OF_WISDOM;The Epistles of Wisdom;;;;;;;;;;;Ýöõà-Äààò;;x
+ALT_BOOK_THE_FIVE_BOOKS_OF_WORSHIP;The Five Books of Worship;;;;;;;;;;;Ïåíòàòåâõîí;;x
+ALT_BOOK_THE_GRAND_STORY;The Grand Story;;;;;;;;;;;Ñåôåð-Õàããàäàõ;;x
+ALT_BOOK_THE_GREAT_SECRET;The Great Secret;;;;;;;;;;;Àðêàíóì;;x
+ALT_BOOK_THE_HALLOWED_MANUSCRIPT;The Hallowed Manuscript;;;;;;;;;;;Ãèåðîãëèôèêîí;;x
+ALT_BOOK_THE_HOLY_TABLETS_OF_STONE;The Holy Tablets of Stone;;;;;;;;;;;Êàðåíàìàê;;x
+ALT_BOOK_THE_LEGENDS;The Legends;;;;;;;;;;;Ìåãàëîñêàðèô;;x
+ALT_BOOK_THE_NINE_SCROLLS;The Nine Scrolls;;;;;;;;;;;Íåäåðñèííåðí;;x
+ALT_BOOK_THE_OBELISKS;The Obelisks;;;;;;;;;;;Ãóíäìîã;;x
+ALT_BOOK_THE_RECORDS_OF_THE_INFITE_CYCLES;The Records of the Infinite Cycles;;;;;;;;;;;Äçîã'Òõîäîë;;x
+ALT_BOOK_THE_SACRED_SCROLL;The Sacred Scroll;;;;;;;;;;;Àðõèêåéìåíîñ;;x
+ALT_BOOK_THE_SAGAS;The Sagas;;;;;;;;;;;Âåïîñ;;x
+ALT_BOOK_THE_SCROLL_OF_THE_NIGHT;The Scroll of the Night;;;;;;;;;;;ÐàóíóÃåðåõ;;x
+ALT_BOOK_THE_SEVEN_SYMBOLS;The Seven Symbols;;;;;;;;;;;Ãåïòàãðàììàòîí;;x
+ALT_BOOK_THE_SINGED_TEXTS;The Singed Texts;;;;;;;;;;;Êàíîí;;x
+ALT_BOOK_THE_SKIN_BOUND_SAGAS;The Skin-Bound Sagas;;;;;;;;;;;Êåðåõ-Îð;;x
+ALT_BOOK_THE_SONG_OF_LIFE;The Song of Life;;;;;;;;;;;Îðàíìîð;;x
+ALT_BOOK_THE_TABLETS_OF_TIME;The Tablets of Time;;;;;;;;;;;Ñàðàíòàìåðîí;;x
+ALT_BOOK_THE_THE_PROPHETS_PAMPHLET;The Prophet's Pamphlet;;;;;;;;;;;Ïèêàòðèêñ;;x
+ALT_BOOK_THE_TOME_OF_PURITY;The Tome of Purity;;;;;;;;;;;Êèòàáàëü-Íóð;;x
+ALT_BOOK_THE_TRANSCRIPTS_OF_THE_PAST;The Transcripts of the Past;;;;;;;;;;;Ãåíåçèñ;;x
+ALT_BOOK_THE_UNSUNG_TALE;The Unsung Tale;;;;;;;;;;;Ôàáóëàíîñòðóì;;x
+ALT_BOOK_THE_WORLDS_GOSPEL;The World's Gospel;;;;;;;;;;;Åâàíãåëèîí;;x
+ALT_EVILGOD_CHAOS;Chaos;;;;;;;;;;;Õàîñ;;x
+ALT_EVILGOD_DEATH_ITSELF;Death Itself;;;;;;;;;;;Ìîðòèñ;;x
+ALT_EVILGOD_DISEASE;Disease;;;;;;;;;;;Áàëîðèñ;;x
+ALT_EVILGOD_GRANDMOTHER_DEATH;Grandmother Death;;;;;;;;;;;Áàðàáàñ;;x
+ALT_EVILGOD_THAT_WITHOUT_A_NAME;That Without a Name;;;;;;;;;;;Àíîí;;x
+ALT_EVILGOD_THE_ARCANE_STORM;The Arcane Storm;;;;;;;;;;;Àñàíò;;x
+ALT_EVILGOD_THE_BLOODLETTER;The Bloodletter;;;;;;;;;;;Àáðà'Õàç;;x
+ALT_EVILGOD_THE_BROTHER_OF_FIRE;The Brother of Fire;;;;;;;;;;;Õàêêàí;;x
+ALT_EVILGOD_THE_BUGS;The Bugs;;;;;;;;;;;Ëóðãîí;;x
+ALT_EVILGOD_THE_BUTCHER;The Butcher;;;;;;;;;;;Êàð'Âîëüò;;x
+ALT_EVILGOD_THE_COSMIC_HORROR;The Cosmic Horror;;;;;;;;;;;Êðóóëüò;;x
+ALT_EVILGOD_THE_CRIMSON_RIDER;The Crimson Rider;;;;;;;;;;;Àìðèêñ;;x
+ALT_EVILGOD_THE_DARK_HAND;The Dark Hand;;;;;;;;;;;Ýíêèø;;x
+ALT_EVILGOD_THE_DARK_SPIRITS;the Dark Spirits;;;;;;;;;;;Ñèäðîõ;;x
+ALT_EVILGOD_THE_DEAD;The Dead;;;;;;;;;;;Òèðàíò;;x
+ALT_EVILGOD_THE_DEVIL;the Devil;;;;;;;;;;;Ìàëèôàêñ;;x
+ALT_EVILGOD_THE_EATER_OF_FATE;The Eater of Fate;;;;;;;;;;;Ñàôåðîõ;;x
+ALT_EVILGOD_THE_EMPTY_HORIZON;The Empty Horizon;;;;;;;;;;;Öåòåê;;x
+ALT_EVILGOD_THE_END_OF_ALL;The End of All;;;;;;;;;;;Ñêàð;;x
+ALT_EVILGOD_THE_ETERNAL_DARKNESS;The Eternal Darkness;;;;;;;;;;;Äåâîëüò;;x
+ALT_EVILGOD_THE_EVIL_ONES;The Evil Ones;;;;;;;;;;;Çàêðîñ;;x
+ALT_EVILGOD_THE_FADING_FIRE;The Fading Fire;;;;;;;;;;;Ïàðäèñ;;x
+ALT_EVILGOD_THE_FAITHLESS_MASS;The Faithless Mass;;;;;;;;;;;Àíäðàêõ;;x
+ALT_EVILGOD_THE_FATHER_OF_FOG;The Father of Fog;;;;;;;;;;;Êàõèç;;x
+ALT_EVILGOD_THE_FIRST_HEATHEN;The First Heathen;;;;;;;;;;;Ñàðãîí;;x
+ALT_EVILGOD_THE_FLAYED_BRIDE;The Flayed Bride;;;;;;;;;;;Ôàðèñ;;x
+ALT_EVILGOD_THE_FORGOTTEN;The Forgotten;;;;;;;;;;;Çàðâàð;;x
+ALT_EVILGOD_THE_FORLORN_FAMILY;The Forlorn Family;;;;;;;;;;;Êíèø;;x
+ALT_EVILGOD_THE_GAPING_MAW;The Gaping Maw;;;;;;;;;;;Óëüðîä;;x
+ALT_EVILGOD_THE_GARBLED_VOICE;The Garbled Voice;;;;;;;;;;;Øàêõààð;;x
+ALT_EVILGOD_THE_GRAVEROBBER;The Graverobber;;;;;;;;;;;Êñàíò;;x
+ALT_EVILGOD_THE_GRINNING_MEN;The Grinning Men;;;;;;;;;;;Óëüêàð;;x
+ALT_EVILGOD_THE_HARBINGER_OF_DEATH;The Harbinger of Death;;;;;;;;;;;Õàêâàø;;x
+ALT_EVILGOD_THE_HERALD;The Herald;;;;;;;;;;;Øóá'Ëóò;;x
+ALT_EVILGOD_THE_LAST_OF_THE_CHOSEN;The Last of The Chosen;;;;;;;;;;;Ãðóáåêñ;;x
+ALT_EVILGOD_THE_LONESOME;The Lonesome;;;;;;;;;;;Ëîçåðèñ;;x
+ALT_EVILGOD_THE_LOST_CHILD;The Lost Child;;;;;;;;;;;Ñàðöèõ;;x
+ALT_EVILGOD_THE_MAD_JESTER;The Mad Jester;;;;;;;;;;;Àëüêàðèñ;;x
+ALT_EVILGOD_THE_MANGLED_LORD;The Mangled Lord;;;;;;;;;;;Ìàëüôàð;;x
+ALT_EVILGOD_THE_MARE_OF_DAMNATION;The Mare of Damnation;;;;;;;;;;;Õàëèð;;x
+ALT_EVILGOD_THE_MOTHER_OF_MONSTERS;The Mother of Monsters;;;;;;;;;;;Àìíàçèñ;;x
+ALT_EVILGOD_THE_OMEGA;The Omega;;;;;;;;;;;Ò'Çàõ;;x
+ALT_EVILGOD_THE_ONE_BELOW;The One Below;;;;;;;;;;;Ãèõåíí;;x
+ALT_EVILGOD_THE_ONE_BENEATH_THE_WATER;The One Beneath the Water;;;;;;;;;;;Ãëóáèñ;;x
+ALT_EVILGOD_THE_PUNISHERS;the Punishers;;;;;;;;;;;Ãàíãðåë;;x
+ALT_EVILGOD_THE_RAVENOUS_HUNGER;The Ravenous Hunger;;;;;;;;;;;Äôèðèò;;x
+ALT_EVILGOD_THE_RED_EGG;The Red Egg;;;;;;;;;;;Ãðîáëîðò;;x
+ALT_EVILGOD_THE_ROT;The Rot;;;;;;;;;;;Ñåñòåõ;;x
+ALT_EVILGOD_THE_ROTTING_TREE;The Rotting Tree;;;;;;;;;;;Çàðàêèí;;x
+ALT_EVILGOD_THE_SEVEN_SCREAMING_VOICES;The Seven Screaming Voices;;;;;;;;;;;Êðèïðèô;;x
+ALT_EVILGOD_THE_SILVER_ONES;The Silver Ones;;;;;;;;;;;Èçëóðàí;;x
+ALT_EVILGOD_THE_SIN_WITHIN;The Sin Within;;;;;;;;;;;Óðèñ;;x
+ALT_EVILGOD_THE_SMITH_OF_PAIN;The Smith of Pain;;;;;;;;;;;Ëåñæåò;;x
+ALT_EVILGOD_THE_THREE_STRANGERS;The Three Strangers;;;;;;;;;;;Ãàðçàí;;x
+ALT_EVILGOD_THE_TRICKSTER;The Trickster;;;;;;;;;;;Ñèíàýë;;x
+ALT_EVILGOD_THE_UNDYING;The Undying;;;;;;;;;;;Òàëëîìèí;;x
+ALT_EVILGOD_THE_VENGEFUL_ANCESTOR;The Vengeful Ancestor;;;;;;;;;;;Äóìãðîí;;x
+ALT_EVILGOD_THE_VOID;The Void;;;;;;;;;;;Ìàðñàð;;x
+ALT_EVILGOD_THE_VORTEX;The Vortex;;;;;;;;;;;Òçèð'Àðóá;;x
+ALT_EVILGOD_THE_WARLORD;The Warlord;;;;;;;;;;;Ýëüäðèêñ;;x
+ALT_EVILGOD_THE_WHISPERING_SHADOW;The Whispering Shadow;;;;;;;;;;;Êàíàð;;x
+ALT_GOD_GOD;God;;;;;;;;;;;Îì;;x
+ALT_GOD_GRANDFATHER_LIFE;Grandfather Life;;;;;;;;;;;Ðèìóñ;;x
+ALT_GOD_PANDOLF;Pandolf;;;;;;;;;;;Ïàíäîëüô;;x
+ALT_GOD_THE_ALPHA;The Alpha;;;;;;;;;;;Òèñ-Àëüô;;x
+ALT_GOD_THE_ANCESTORS;the Ancestors;;;;;;;;;;;Êîðâóñ;;x
+ALT_GOD_THE_ANCIENT_ONE;The Ancient One;;;;;;;;;;;Îãðèí;;x
+ALT_GOD_THE_ARCHITECT;The Architect;;;;;;;;;;;Òåêòóñ;;x
+ALT_GOD_THE_ARTISAN_OF_THE_STARS;The Artisan of The Stars;;;;;;;;;;;Àðèñãàð;;x
+ALT_GOD_THE_AUTHOR_OF_FATE;The Author of Fate;;;;;;;;;;;Ôàòóì;;x
+ALT_GOD_THE_BLESSED_VIRGIN;the Blessed Virgin;;;;;;;;;;;Áëåñâèð;;x
+ALT_GOD_THE_CHAIN_THAT_BINDS;The Chain that Binds;;;;;;;;;;;Öåï;;x
+ALT_GOD_THE_COSMIC_EGG;The Cosmic Egg;;;;;;;;;;;Êîñìåð;;x
+ALT_GOD_THE_CRADLE_OF_LIFE;The Cradle of Life;;;;;;;;;;;Êðàäë;;x
+ALT_GOD_THE_CREATOR;the Creator;;;;;;;;;;;Ëîãîñ;;x
+ALT_GOD_THE_CRONE_OF_TIME;The Crone of Time;;;;;;;;;;;Êðîíò;;x
+ALT_GOD_THE_DIVINE;The Divine;;;;;;;;;;;Äèâèí;;x
+ALT_GOD_THE_DREAM_SNAKE;The Dream Snake;;;;;;;;;;;Äðàéê;;x
+ALT_GOD_THE_EARTH_MOTHER;The Earth Mother;;;;;;;;;;;Ìîäàí;;x
+ALT_GOD_THE_EBB_AND_FLOW;The Ebb and Flow;;;;;;;;;;;Àðèñîí;;x
+ALT_GOD_THE_ENDLESS_ONE;The Endless One;;;;;;;;;;;Ëåññ;;x
+ALT_GOD_THE_FERTILE_MOTHER;The Fertile Mother;;;;;;;;;;;Àøâèí;;x
+ALT_GOD_THE_FIRST_AND_LAST;The First and Last;;;;;;;;;;;Óðîáîð;;x
+ALT_GOD_THE_FIRST_FEW;The First Few;;;;;;;;;;;Ôèô;;x
+ALT_GOD_THE_FIRST_WARRIOR;The First Warrior;;;;;;;;;;;Âàðôèñ;;x
+ALT_GOD_THE_FIVE_CRAFTSMEN;The Five Craftsmen;;;;;;;;;;;Áàãðàí;;x
+ALT_GOD_THE_FOX_OF_FORTUNE;The Fox of Fortune;;;;;;;;;;;Ëèñ;;x
+ALT_GOD_THE_GILDED_GUIDE;The Gilded Guide;;;;;;;;;;;Ãèëäåä;;x
+ALT_GOD_THE_GIVER_OF_JUSTICE;the Giver of Justice;;;;;;;;;;;Ðåâèñ;;x
+ALT_GOD_THE_GREAT_OAK;The Great Oak;;;;;;;;;;;ßðëèì;;x
+ALT_GOD_THE_GREATEST;the Greatest;;;;;;;;;;;Ìîðãàí;;x
+ALT_GOD_THE_GUARDIAN;The Guardian;;;;;;;;;;;Íàðäèí;;x
+ALT_GOD_THE_GUARDIAN_OF_ETERNITY;The Guardian of Eternity;;;;;;;;;;;Ãðàíòåð;;x
+ALT_GOD_THE_HEAVENLY_MOUNTAIN;The Heavenly Mountain;;;;;;;;;;;Õàíìóò;;x
+ALT_GOD_THE_HEAVENLY_VESTIBULE;The Heavenly Vestibule;;;;;;;;;;;Õåâåñò;;x
+ALT_GOD_THE_HEAVENLY_WHEEL;The Heavenly Wheel;;;;;;;;;;;Õåâëóí;;x
+ALT_GOD_THE_HORSE_OF_HOPE;The Horse of Hope;;;;;;;;;;;Õîðñîï;;x
+ALT_GOD_THE_IMMORTAL_SOUL;The Immortal Soul;;;;;;;;;;;Èìñóë;;x
+ALT_GOD_THE_LANTERN_OF_LIFE;The Lantern of Life;;;;;;;;;;;Òåðíèô;;x
+ALT_GOD_THE_LORD;the Lord;;;;;;;;;;;Äðîë;;x
+ALT_GOD_THE_MONOLITH;The Monolith;;;;;;;;;;;Ëèòîìîð;;x
+ALT_GOD_THE_MOON;The Moon;;;;;;;;;;;Ìóí;;x
+ALT_GOD_THE_MOTHER_OF_SEVEN_HUNDRED;The Mother of Seven Hundred;;;;;;;;;;;Ìîðåõóí;;x
+ALT_GOD_THE_OLD_ONES;The Old Ones;;;;;;;;;;;Îäåñ;;x
+ALT_GOD_THE_ONE_ABOVE;The One Above;;;;;;;;;;;Àíàáîê;;x
+ALT_GOD_THE_ONE_WHO_CAME_BEFORE;The One Who Came Before;;;;;;;;;;;Êàõóáåð;;x
+ALT_GOD_THE_OWL_OF_OMNISCIENCE;The Owl of Omniscience;;;;;;;;;;;Îìèñêóí;;x
+ALT_GOD_THE_PANTHEON;The Pantheon;;;;;;;;;;;Ïàíîí;;x
+ALT_GOD_THE_PERFECTED_ONES;the Perfected Ones;;;;;;;;;;;Ïåðñîí;;x
+ALT_GOD_THE_PHANTOM_STAG;The Phantom Stag;;;;;;;;;;;Ôàñòàã;;x
+ALT_GOD_THE_SEA_OF_LIFE;The Sea of Life;;;;;;;;;;;Ñèëàåñ;;x
+ALT_GOD_THE_SIBLINGS;The Siblings;;;;;;;;;;;Ñèáëèñ;;x
+ALT_GOD_THE_SKY;The Sky;;;;;;;;;;;Êóñ;;x
+ALT_GOD_THE_SOURCE;The Source;;;;;;;;;;;Ñîáîê;;x
+ALT_GOD_THE_SPIRITS;the Spirits;;;;;;;;;;;Ñïèð;;x
+ALT_GOD_THE_STORM_OF_RIGHTEOUSNESS;The Storm of Righteousness;;;;;;;;;;;Ñòîðèã;;x
+ALT_GOD_THE_SUN;the Sun;;;;;;;;;;;Çàíóñ;;x
+ALT_GOD_THE_SUPREME;the Supreme;;;;;;;;;;;Ñóðåì;;x
+ALT_GOD_THE_THREE_PURITIES;The Three Purities;;;;;;;;;;;Òðèïóð;;x
+ALT_GOD_THE_UNBROKEN;The Unbroken;;;;;;;;;;;Óíáðîê;;x
+ALT_GOD_THE_UNFALLEN;The Unfallen;;;;;;;;;;;Ôàëëàí;;x
+ALT_GOD_THE_WORLD_TREE;The World Tree;;;;;;;;;;;Âîðäåê;;x
+ALT_PRIEST_ACOLYTE;acolyte;;;;;;;;;;;àêîëèò;;x
+ALT_PRIEST_ARCHON;archon;;;;;;;;;;;àðõîíò;;x
+ALT_PRIEST_AUGUR;augur;;;;;;;;;;;àâãóð;;x
+ALT_PRIEST_CLERIC;cleric;;;;;;;;;;;ãàõàí;;x
+ALT_PRIEST_ELDER;elder;;;;;;;;;;;âîëõâ;;x
+ALT_PRIEST_HEALER;healer;;;;;;;;;;;âåäóí;;x
+ALT_PRIEST_HEIROPHANT;hierophant;;;;;;;;;;;èåðîôàíò;;x
+ALT_PRIEST_PONTIFF;pontiff;;;;;;;;;;;çàîòàð;;x
+ALT_PRIEST_PRIEST;priest;;;;;;;;;;;æðåö;;x
+ALT_PRIEST_SEER;seer;;;;;;;;;;;îðàêóë;;x
+ALT_PRIEST_SHAMAN;shaman;;;;;;;;;;;øàìàí;;x
+ALT_START_CHARACTER_CULT;$INSERT$ist;;;;;;;;;;;$INSERT$èä;;x
+ALT_START_CHARACTER_CULT_full;Cult of $INSERT$;;;;;;;;;;;$INSERT$èäèçì;;x
+ALT_START_CHARACTER_FOLLOWERS;$INSERT$ist;;;;;;;;;;;$INSERT$èä;;x
+ALT_START_CHARACTER_FOLLOWERS_full;Followers of $INSERT$;;;;;;;;;;;$INSERT$èäèçì;;x
+ALT_START_CHARACTER_IAN;$INSERT$ian;;;;;;;;;;;$INSERT$èàí;;x
+ALT_START_CHARACTER_IST;$INSERT$ist;;;;;;;;;;;$INSERT$èä;;x
+ALT_START_CHARACTER_ITE;$INSERT$ite;;;;;;;;;;;$INSERT$èò;;x
+ALT_START_CHARACTER_RITES;$INSERT$ic;;;;;;;;;;;$INSERT$èò;;x
+ALT_START_CHARACTER_RITES_full;$INSERT$ic Rites;;;;;;;;;;;$INSERT$èòèçì;;x
+ALT_START_DYNASTY_ARD;$INSERT$ard;;;;;;;;;;;$INSERT$àðä;;x
+ALT_START_DYNASTY_CREED_OF_THE;$INSERT$ard;;;;;;;;;;;$INSERT$àðä;;x
+ALT_START_DYNASTY_CREED_OF_THE_full;Creed of the $INSERT$;;;;;;;;;;;$INSERT$àðäèçì;;x
+ALT_START_DYNASTY_DI;$INSERT$di;;;;;;;;;;;$INSERT$óí;;x
+ALT_START_DYNASTY_DOLIC;$INSERT$dolic;;;;;;;;;;;$INSERT$îëèñò;;x
+ALT_START_DYNASTY_IAN;$INSERT$ian;;;;;;;;;;;$INSERT$èàí;;x
+ALT_START_DYNASTY_IJITE;$INSERT$ijite;;;;;;;;;;;$INSERT$èäæèò;;x
+ALT_START_DYNASTY_IST;$INSERT$ist;;;;;;;;;;;$INSERT$àí;;x
+ALT_START_DYNASTY_ITE;$INSERT$ite;;;;;;;;;;;$INSERT$èò;;x
+ALT_START_GENERIC_HERESY_DESC_1;The [GetName] faith is an offshoot branch with a radically different interpretation of [GetScriptureName]. Their [GetPriestTitle]s constantly debate the validity of various passages, drawing much ire from the mainstream followers. In their interpretation of the scripture, [GetHighGodName] is overtly warlike and unsympathetic, but their practices are otherwise very similar to those of the main branch.;;;;;;;;;;;[GetFullName]èçì îòëè÷àåòñÿ îò òðàäèöèííîé êîíôåññèè ñâîèì ðàäèêàëüíûì òîëêîâàíèåì ñâÿùåííîãî ïèñàíèÿ. [GetName]ñêèå [GetPriestTitle]û ïîñòîÿííî ñïîðÿò î äîïóñòèìîñòè íåêîòîðûõ èíòåïðåòàöèé, ÷àùå âñåãî ñêëîíÿÿñü â ïîëüçó æåñòîêîñòè è àãðåññèè. Îíè ãîâîðÿò, ÷òî [GetHighGodName] - âîèíñòâåííûé è ñóðîâûé áîã, íà ÷òî ïðÿìî óêàçûâàåò [GetScriptureName], è íå ñòîèò ïðåäñòàâëÿòü ýòè ñëîâà êàê ìåòàôîðó, ÷òîáû ñäåëàòü ïàñòâó ïîêîðíåå. Â îñòàëüíîì æå, ýòà âåòâü íè÷åì ïî ñóòè íå îòëè÷àåòñÿ îò òðàäèöèîííîé.;;x
+ALT_START_GENERIC_HERESY_DESC_2;In the [GetName] faith followers not only adhere to the teachings of [GetScriptureName], but also look to other religions for guidance. Alongside their own scripture, they also read passages from the holy texts of the [norse_pagan.GetName] and [buddhist.GetName] faiths. This practice condemn the [GetName] faithful in the eyes of many [GetPriestTitle]s.;;;;;;;;;;;Ïîñëåäîâàòåëè [GetFullName]èçìà íå òîëüêî ñëåäóþò [GetScriptureName]ó, èõ ñâÿùåííîìó ïèñàíèþ, íî è îáðàùàþòñÿ ê äðóãèì ðåëèãèÿì, ÷òîáû ïîëó÷èòü íàñòàâëåíèÿ. Â èõ ñîáñòâåííîé âåðñèè [GetScriptureName]à íàïèñàíî, ÷òî ñâÿùåííûå òåêñòû [_àñàòðó] è [_áóääèñò]îâ âåñüìà ïîó÷èòåëüíû è ïîëåçíû äëÿ èçó÷åíèÿ. Èìåííî ýòîò àñïåêò [GetName]ñêîé âåðû áîëüøå âñåãî âîçìóùàåò [GetPriestTitle]îâ òðàäèöèîííîé êîíôåññèè.;;x
+ALT_START_GENERIC_HERESY_DESC_3;Followers of the [GetName] faith act and behave much like the adherents of their parent religion, though with one major difference. All religious practices are performed in reverse order, as they believe the chronology of [GetScriptureName] to have been tampered with by [GetRandomEvilGodName].;;;;;;;;;;;[GetName]û â ñâîèõ óáåæäåíèÿõ è îáðÿäàõ î÷åíü ïîõîæè íà ïîñëåäîâàòåëåé òðàäèöèîííîé êîíôåññèè, íî ñ îäíèì ñóùåñòâåííûì îòëè÷èåì - âñå ðåëèãèîçíûå ïðàêòèêè è öåðåìîíèè âûïîëíÿþòñÿ â îáðàòíîì ïîðÿäêå, èáî îíè âåðÿò, ÷òî õðîíîëîãèÿ [GetScriptureName]à, èõ ñâÿùåííîãî ïèñàíèÿ, áûëà èñêàæåíà çëûì áîãîì [GetRandomEvilGodName]îì.;;x
+ALT_START_GENERIC_HERESY_DESC_4;The [GetName] faith is an ultra-orthodox branch of fanatical zealots. Adherents do not tolerate any deviance from the word of [GetScriptureName], subscribing to a very literal interpretation rather than the more relaxed one of their peers. They believe this to be the only way to truly please [GetHighGodName].;;;;;;;;;;;[GetFullName]èçì - óëüòðàîðòîäîêñàëüíàÿ âåðà, ñîçäàííàÿ ðàäèêàëüíîé ãðóïïîé ôàíàòèêîâ, êîòîðûå íå òåðïÿò íè ìàëåéøåãî îòñòóïëåíèÿ îò ñëîâ ñâÿùåííîãî ïèñàíèÿ, [GetScriptureName]à, ñîäåðæàùåãî ìíîæåñòâî òî÷íûõ óêàçàíèé â îòíîøåíèè ðàçíûõ àñïåêòîâ æèçíè. Ïî ìíåíèþ [GetName]îâ èíîñêàçàòåëüíîå òîëêîâàíèå íåïðèåìëåìî. Îíè âåðÿò, ÷òî åñòü òîëüêî îäèí ñïîñîá ÷òèòü [GetHighGodName]à - âîñïðèíèìàòü [GetScriptureName] äîñëîâíî è â òî÷íîñòè ñëåäîâàòü åìó.;;x
+ALT_START_GENERIC_HERESY_DESC_5;For followers of the [GetName] faith, the number ten is of paramount importance. Rituals are always performed by ten [GetPriestTitle]s, every sermon touches upon ten passages from [GetScriptureName] and truly ardent worshipers pray to [GetHighGodName] ten times per day. They also believe that [GetRandomEvilGodName] is, in fact, ten separate entities.;;;;;;;;;;;Äëÿ [GetName]îâ ÷èñëî äåñÿòü èìååò ïåðâîñòåïåííîå çíà÷åíèå. Ðèòóàëû âûïîëíÿþòñÿ äåñÿòüþ [GetPriestTitle]àìè, ëþáàÿ èõ ïðîïîâåäü ñîäåðæèò ðîâíî äåñÿòü îòðûâêîâ èç [GetScriptureName]à, à ñàìûå íàáîæíûå ïîñëåäîâàòåëè ìîëÿòñÿ [GetHighGodName]ó äåñÿòü ðàç â äåíü. Êðîìå òîãî, îíè âåðÿò, ÷òî çëîé áîã [GetRandomEvilGodName] ïðîÿâëÿåòñÿ â äåñÿòè ñàìîñòîÿòåëüíûõ ñóùíîñòÿõ.;;x
+ALT_START_GENERIC_HERESY_DESC_6;Generally, followers of the [GetName] faith are much more relaxed about their rites and methods of worship than the followers of the orthodox branch. Their [GetPriestTitle]s claim that the battle against [GetRandomEvilGodName] is already lost, and that there is no path to salvation. This nihilistic outlook cause many followers to take the name of [GetHighGodName] in vain, which angers more devout worshipers.;;;;;;;;;;;[GetName]û íàìíîãî ìåíåå òðåáîâàòåëüíû ê èñïîëíåíèþ îáðÿäîâ, ÷åì ïîñëåäîâàòåëè òðåäèöèîííîé êîíôåññèè. Èõ [GetPriestTitle]û óòâåðæäàþò, ÷òî áèòâà ïðîòèâ [GetRandomEvilGodName]à óæå ïðîèãðàíà, à çíà÷èò íåò íèêàêîãî ïóòè ê ñïàñåíèþ. Íå óäèâèòåëüíî, ÷òî ìíîãèå [GetName]û âîâñå íå ÷òÿò [GetHighGodName]à, è ýòî î÷åíü çëèò èõ òðàäèöèîííûõ îïïîíåíòîâ.;;x
+ALT_START_GENERIC_HERESY_DESC_7;Unlike the main branch, worshipers of the [GetName] faith do not believe [GetScriptureName] hold the absolute truth. Followers prefer oral traditions, where [GetPriestTitle]s travel far and wide in order to share their wisdom with other [GetPriestTitle]s.;;;;;;;;;;;Â îòëè÷èå îò ïîñëåäîâàòåëåé òðàäèöèîííîé êîíôåññèè, [GetName]û íå âåðÿò, ÷òî [GetScriptureName] ñîäåðæèò àáñîëþòíóþ èñòèíó. Îí îïèðàþòñÿ íà óñòíóþ òðàäèöèþ, êîòîðàÿ àêòèâíî ðàçâèâàåòñÿ çà ñ÷¸ò òîãî, ÷òî [GetPriestTitle]û ïóòåøåñòâóþò ïî ìèðó è îáìåíèâàþòñÿ çíàíèÿìè ñ äðóãèìè [GetPriestTitle]àìè.;;x
+ALT_START_GENERIC_HERESY_DESC_8;The [GetName] faith, unlike its parent faith, has a very strict caste hierarchy pertaining [GetPriestTitle]s. Internally, [GetPriestTitle]s are organized into five separate ranks, each owing full loyalty to their superiors. Their flocks are also organized into five separate groupings, with the recent converts and cynical worshipers being tended to by the lowest-ranking [GetPriestTitle]s.;;;;;;;;;;;[GetFullName]èçì îòëè÷àåòñÿ îò òðàäèöèîííîé êîíôåññèè æ¸ñòêîé êàñòîâîé èåðàðõèåé [GetPriestTitle]îâ, êîòîðûå äåëÿòñÿ íà ïÿòü ðàíãîâ, è êàæäûé èç ýòèõ ðàíãîâ äà¸ò êëÿòâó âåðíîñòè âûøåñòîÿùåìó. Âåðóþùèå òîæå ðàçäåëåíû íà ïÿòü ãðóïï. Ìåíåå íàáîæíûå è ïðîñòî íîâîîáðàù¸ííûå, êàê ïðàâèëî, ïîðó÷àþòñÿ [GetPriestTitle]àì íèñøåãî ðàíãà.;;x
+ALT_START_GENERIC_HERESY_DESC_9;Followers of the [GetName] faith are deemed cursed by adherents of their parent faith. The reason for why this belief is so ingrained and unshakable has been lost to time. The most common claim is that they are spawn of [GetRandomEvilGodName], who spit on [GetScriptureName]. Adherents of the [GetName] faith do not ascribe to this interpretation, as they themselves believe spit to be a blessed tool provided by [GetHighGodName].;;;;;;;;;;;Ñ÷èòàåòñÿ, ÷òî ïîñëåäîâàòåëè òðàäèöèîííîé êîíôåññèè ïðîêëÿëè [GetName]îâ, íî çà ÷òî èìåííî, íèêòî óæå íå ïîìíèò. Ïî îäíîé èç ëåãåíä, âñ¸ äåëî â òîì, ÷òî êîãäà-òî çëîé áîã [GetRandomEvilGodName] ñîçäàë èõ, ïëþíóâ íà [GetScriptureName], ñâÿùåííîå ïèñàíèå. Ðàçóìååòñÿ, ñàìè [GetName]û ðåøèòåëüíî îòðèöàþò ïðàâäèâîñòü ýòîé ëåãåíäû, è ãîâîðÿò, ÷òî íà ñàìîì äåëå ïëþíóë íà ïèñàíèå äîáðûé áîã [GetHighGodName], è ýòîò ïëåâîê - íå ÷òî èíîå, êàê áëàãîñëîâåíèå ñâîèõ ñîçäàíèé.;;x
+ALT_START_GENERIC_HERESY_DESC_10;Rejecting what they believe to be propaganda from [GetRandomEvilGodName], followers of the [GetName] faith ignore the word of the [GetPriestTitle]s. When hearing any passage from [GetScriptureName] read out loud, they instantly stuff their ears with parsley which each follower keeps with them in a sacred pouch. In honor of [GetHighGodName], every meal during religious holidays is prepared with abundant quantities of parsley.;;;;;;;;;;;Ïîñëåäîâàòåëè [GetName]ñêîé âåðû èãíîðèðóþò ïðîïîâåäè [GetPriestTitle]îâ, òåì ñàìûì îòâåðãàÿ òî, ÷òî îíè ñ÷èòàþò ïðîïàãàíäîé çëîãî áîãà [GetRandomEvilGodName]à. Êîãäà îíè ñëûøàò îòðûâîê èç [GetScriptureName]à, ñðàçó çàòûêàþò óøè ïåòðóøêîé, êîòîðóþ êàæäûé [GetName] õðàíèò ñâÿùåííîé ñóìêå. Â ÷åñòü [GetHighGodName]à, ëþáîå áëþäî, óïîòðåáëÿåìîå âî âðåìÿ ðåëèãèîçíûõ ïðàçäíèêîâ, äîëæíî áûòü ïðèïðàâëåíî áîëüøèì êîëè÷åñòâîì ïåòðóøêè.;;x
+ALT_START_GENERIC_HERESY_DESC_11;Followers of the [GetName] religion hold the belief that every third passage of [GetScriptureName] is written by [GetRandomEvilGodName], much to the dismay of adherents to the parent religion. Fanatics often write down the offending passages on rocks, which they subsequently throw at the houses of those they perceive to be heretics or heathens.;;;;;;;;;;;"[GetName]û âåðÿò, ÷òî êàæäûé òðåòèé ïàññàæ èç [GetScriptureName]à íàïèñàí çëûì áîãîì [GetRandomEvilGodName]îì, ÷òî î÷åíü çëèò ñòîðîííèêîâ òðàäèöèîííîé êîíôåññèè. Ôàíàòèêè èíîãäà çàïèñûâàþò ""ëîæíûå"" îòðûâêè íà êàìíÿõ, êîòîðûå áðîñàþò â äîìà òåõ, êîãî ñ÷èòàþò åðåòèêàìè.";;x
+ALT_START_GENERIC_HERESY_DESC_12;Cold nights are cherished by followers of the [GetName] religion, who hold the belief that the touch of [GetHighGodName] is as icy as the deepest winter. As [GetScriptureName] makes no mention of this, [GetPriestTitle]s of their parent faith deem such rituals heretical and inspired by the gospel of [GetRandomEvilGodName].;;;;;;;;;;;"Õîëîäíûå íî÷è âåñüìà ïî÷èòàåìû ïîñëåäîâàòåëÿìè [GetName]ñêîé âåðû, êîòîðûå ñ÷èòàþò, ÷òî ïðèêîñíîâåíèå [GetHighGodName]à ëåäåíèò, êàê ñóðîâàÿ çèìà. Â [GetScriptureName]å åñòü óïîìèíàíèå îá ýòîì, íî [GetPriestTitle]û òðàäèöèîííîé êîíôåññèè íàçûâàþò ""ìîðîçíûå"" ðèòóàëû åðåòè÷åñêèìè, óòâåðæäàÿ, ÷òî îíè âçÿòû èç åâàíãåëèÿ îò [GetRandomEvilGodName]à, êîòîðîå, â äåéñòâèòåëüíîñòè, íèêòî íèêîãäà íå âèäåë.";;x
+ALT_START_GENERIC_HERESY_DESC_13;The [GetPriestTitle]s of the [GetName] faith argue that their way of worship is not only the correct way, but also much older than that of more traditional believers. For millenia the [GetName] faith thrived, until a tiny sect of lunatics broke away to form new branches of the religion – or so [GetName] [GetPriestTitle]s claim. A defining feature of the faith is that the private lives of [GetPriestTitle]s must remain completely secret, which often see them wearing disguises when not tending to their flocks.;;;;;;;;;;;"[GetName]ñêèå [GetPriestTitle]û óòâåðæäàþò, ÷òî èõ ñïîñîá ïîêëîíåíèÿ íå òîëüêî ñàìûé ïðàâèëüíûé, íî è íàìíîãî äðåâíåå òîãî, êîòîðîìó ñëåäóþò ñòîðîííèêè òðàäèöèîííîé êîíôåññèè. Ïî èõ ñëîâàì, [GetFullName] ïðîöâåòàë òûñÿ÷åëåòèÿìè, ïîêà ãðóïïà ""ñóìàñøåäøèõ"" íå îòêîëîëàñü, îáðàçîâàâ íîâóþ ñåêòó, êîòîðàÿ â èòîãå âûðîñëà â íîâóþ ðåëèãèþ. Ãëàâíàÿ îñîáåííîñòü [GetName]ñêîé âåðû - óâàæåíèå òàéíû ëè÷íîé æèçíè, ÷òî, â ÷àñòíîñòè, ïðîÿâëÿåòñÿ â òîì, êàê [GetPriestTitle]û íîñÿò ìàñêè, ñêðûâàþùèå èõ ëè÷íîñòü.";;x
+ALT_START_GENERIC_HERESY_DESC_14;The [GetName] faith believes that [GetScriptureName] should be available to all, and not just for the [GetPriestTitle]s to interpret. They therefore produce numerous copies of [GetScriptureName], localized into several languages. Many of these copies hold changes introduced by less than scrupulous [GetPriestTitle]s, which is a contributing reason to [GetName] followers being seen as heretical.;;;;;;;;;;;[GetName]û âåðÿò, ÷òî [GetScriptureName], ñâÿùåííûé òåêñò, äîëæåí áûòü äîñòóïåí êàæäîìó, à íå òîëüêî [GetPriestTitle]àì òðàäèöèîííîé êîíôåññèè, èñêàæàþùèì åãî â óãîäó èõ ñîáñòâåííûì ïðèõîòÿì. Îíè êîïèðóþò åãî, ïåðåïèñûâàÿ è ïåðåâîäÿ íà ðàçíûå ÿçûêè. Ìíîãèå èç êîïèé ñîäåðæàò îøèáêè, âîçíèêøèå îò íåâíèìàòåëüíîñòè è òðóäíîñòåé ïåðåâîäà, ÷òî äà¸ò ïîâîä ïîñëåäîâàòåëÿì òðàäèöèîííîé êîíôåññèè îáâèíÿòü ñòîðîííèêîâ [GetFullName]èçìà â åðåñè.;;x
+ALT_START_GENERIC_HERESY_DESC_15;Followers of the [GetName] faith share many similarities between themselves and those of their parent faith. In fact, [GetPriestTitle]s from both sides have been unable to find a single practical difference between the two sects – they both hold [GetScriptureName] in high regard, praise [GetHighGodName] in the correct way and fear the retribution of [GetRandomEvilGodName]. Still, followers of the [GetName] faith claim themselves to be heretics, and ardently so.;;;;;;;;;;;[GetName]ñêàÿ âåðà î÷åíü ïîõîæà ñâîé òðàäèöèîííûé âàðèàíò. Ïî ïðàâäå ãîâîðÿ, [GetPriestTitle]û îáåèõ êîíôåññèé äî ñèõ ïîð íå íàøëè íè îäíîãî îòëè÷èÿ ìåæäó íèìè. È òå è äðóãèå ÷òÿò [GetScriptureName], ïîêëîíÿþòñÿ [GetHighGodName]ó è áîÿòñÿ [GetRandomEvilGodName]à, íî ýòî íå ìåøàåò èì îáâèíÿòü äðóã äðóãà â åðåñè.;;x
+ALT_START_GENERIC_HERESY_DESC_16;The [GetPriestTitle]s of the [GetName] religion often openly preach in the street and in public buildings, and are often ridiculed and spat on by those who do not ascribe to their somewhat ridiculous interpretation of [GetScriptureName]. In the minds of [GetName] worshipers, the text of [GetScriptureName] needs to be simplified to such a degree that a child could understand all of it, and they often rewrite the various passages to be comprehensible for even the most simple-minded person – something which obviously draws the ire of the more hard-line worshipers.;;;;;;;;;;;[GetName]ñêèå [GetPriestTitle]û ïðîïîâåäóþò íà óëèöàõ è â îáùåñòâåííûõ ìåñòàõ, çà ÷òî èõ ÷àñòî âûñìåèìàþò è âñÿ÷åñêè óíèæàþò ñòîðîííèêè òðàäèöèîííîé êîíôåññèè, óòâåðæäàÿ, ÷òî òå ïîðî÷àò ñâÿùåííîå ïèñàíèå ñâîèìè íåëåïûìè òîëêîâàíèÿìè. Ïî ìíåíèþ [GetName]îâ [GetScriptureName] íóæäàåòñÿ â ìàêñèìàëüíîì óïðîùåíèè, ÷òîáû äàæå ðåá¸íîê ìîã åãî ïîíÿòü. Îíè ÷àñòî ïåðåïèñûâàþò ðàçíûå îòðûâêè, ÷òîáû ñäåëàòü èõ ïðèâû÷íûìè è ïîíÿòíûìè âñåì, ÷åì çëÿò ñâîèõ ðåëèãèîçíûõ îïïîíåíòîâ.;;x
+ALT_START_GENERIC_HERESY_DESC_17;The [GetName] faith incorporates many elements of other religions. Several rites outlined in the [hindu.GetName] holy text ([hindu.GetScriptureName]) are part of everyday worship, and the behaviours of [jain.GetName] [jain.GetPriestTitle]s are emulated by [GetName] [GetPriestTitle]s. While their own holy text, [GetScriptureName], is still held in the highest regard, a lot of emphasis is put on the necessity for [GetPriestTitle]s to interpret other holy texts.;;;;;;;;;;;[GetFullName]èçì âîáðàë â ñåáÿ ìàññó ýëåìåíòîâ äðóãèõ ðåëèãèé. Íåêîòîðûå ðèòóàëû, îïèñàííûå â [èíäóèñò]ñêîì ñâÿùåííîì òåêñòå, èçâåñòíîì êàê [hindu.GetScriptureName], ÿâëÿþòñÿ ÷àñòüþ ïîâñåäíåâíûõ îáðàäîâ ïîêëîíåíèÿ, à [GetName]ñêèå [GetPriestTitle]û ïî÷òè ïîëíîñòüþ êîïèðóþò àòðèáóòèêó [_äæàéí]îâ. Íåñìîòðÿ íà òî, ÷òî àâòîðèòåò [GetScriptureName]à, èõ ñâÿùåííîãî òåêñòà, íåîñïîðèì, áîëüøàÿ ÷àñòü åãî ïîñòóëàòîâ ñëóæàò ëèøü äëÿ òîãî, ÷òîáû òîëêîâàòü ñâÿùåííûå ïèñàíèÿ äðóãèõ ðåëèãèé.;;x
+ALT_START_GENERIC_HERESY_DESC_18;Those who adhere to the [GetName] faith believe that an eternal war is being waged between [GetHighGodName] and all the gods and goddesses of other religions. Followers actively support this war by carving idols of all the foreign gods, which they subsequently burn in ritualistic bonfires.;;;;;;;;;;;Ïîñëåäîâàòåëè [GetName]ñêîé ðåëèãèè âåðÿò, ÷òî èõ áîã [GetHighGodName] âåä¸ò âîéíó ïðîòèâ áîãîâ è áîãèíü äðóãèõ ðåëèãèé. Îíè àêòèâíî ïîääåðæèâàþò åãî â ýòîé âîéíå, ñîçäàâàÿ èäîëû ÷óæèõ áîãîâ, ëèøü çàòåì, ÷òîáû ñæå÷ü èõ âî âðåìÿ ïûøíûõ ðåëèãèçíûõ öåðåìîíèé.;;x
+ALT_START_GENERIC_HERESY_DESC_19;[GetScriptureName] can be interpreted in many different ways, or so the [GetName] faithful claim. Their [GetPriestTitle]s make many bold claims, and they often conflict – one [GetPriestTitle] might claim [GetHighGodName] to be warlike one day, while another [GetPriestTitle] claims [GetHighGodName] to be championing peace the next. Their [GetPriestTitle]s often gather in grand cabals to discuss which interpretation is the right one, which leads followers of their parent religion to often accuse them of being witches or warlocks.;;;;;;;;;;;[GetScriptureName] ìîæåò áûòü èñòîëêîâàí ïî-ðàçíîìó. Ïî êðàéíåé ìåðå òàê óòâåðæäàþò [GetName]û. Èõ [GetPriestTitle]û ÷àñòî ñïîðÿò è êîíôëèêòóþò ìåæäó ñîáîé. Íàïðèìåð, îäèí [GetPriestTitle] ìîæåò ïðîïîâåäîâàòü, ÷òî [GetHighGodName] - âîèíñòâåííûé áîã, â òî âðåìÿ, êàê äðóãîé - ðàññêàçûâàòü î ìèðîëþáèè [GetHighGodName]à. Îíè îðãàíèçóþò áîëüøèå äåáàòû, íà êîòîðûõ äèñêóòèðóþò ïî âîïðîñàì èñòèííîé âåðû, à ñòîðîííèêè òîé èëè èíîé ñòîðîíû ÷àñòî îáâèíÿþò äðóã äðóãà â êîëäîâñòâå.;;x
+ALT_START_GENERIC_HERESY_DESC_20;The religious leadership of the [GetName] faith forbid anyone from reading [GetScriptureName], even themselves. They believe the texts to simply be too sacred for anyone to see – instead the [GetPriestTitle]s themselves dictate what adherents should and should not do. Their [GetPriestTitle]s also claim that anyone not following their commands will have their souls eaten by [GetRandomEvilGodName] as they die.;;;;;;;;;;;Âûñøåå [GetName]ñêîå äóõîâåíñòâî ñòðîãî çàïðåùàåò ëþáîìó ÷èòàòü [GetScriptureName], äàæå ñàìèì èåðàðõàì. Îíè âåðÿò, ÷òî ýòîò òåêñò ñëèøêîì ñâÿùåíåí, ÷òîáû âçãëÿä ïðîñòîãî ñìåðòíîãî ìîã åãî êîñíóòüñÿ. Âìåñòî ýòîãî [GetPriestTitle]û ñàìè ãîâîðÿò ïîñëåäîâàòåëÿì, ÷òî èì ìîæíî è íåëüçÿ äåëàòü, íå îïèðàÿñü íà ñâÿùåííîå ïèñàíèå. Áîëåå òîãî, îíè óòâåðæäàþò, ÷òî åñëè êòî-òî íå áóäåò ñëåäîâàòü èõ óêàçàíèÿì [GetRandomEvilGodName] ïîæð¸ò åãî äóøó ïîñëå ñìåðòè.;;x
+ALT_START_GENERIC_RELIGION_DESC;The [GetName] faith is as old as the world itself. Their deity, known only as [GetHighGodName], is said to have created the world for the [GetName] faithful to live and thrive in, by condition that they follow the rules set in [GetScriptureName]. [GetScriptureName] was passed directly from [GetHighGodName] to the first [GetName] prophet. Followers also believe that [GetRandomEvilGodName], and an army of dreaded heretics and heathens, seek to undo the entirety of creation and doom the [GetName] faithful to eternal darkness.;;;;;;;;;;;[GetName]ñêàÿ âåðà ñòàðà, êàê ìèð, êîòîðûé [GetHighGodName] ñîòâîðèë äëÿ ñâîèõ âåðíûõ ïîñëåäîâàòåëåé, äàáû æèëè îíè ïî çàâåòàì [GetScriptureName]à, âåëèêîãî äàðà, êîòîðûé [GetHighGodName] ïåðåäàë íàïðÿìóþ ïåðâîìó [GetName]ñêîìó ïðîðîêó. [GetName]û âåðÿò, ÷òî [GetRandomEvilGodName] ñî ñâîåé àðìèåé âåëèêîãî óæàñà ñòðåìèòñÿ óíè÷òîæèòü ìèð è íàâåñòè íà íåãî âå÷íóþ òüìó.;;x
+ALT_START_GENERIC_RELIGION_DESC_2;The [GetName] faith was founded when the first [GetPriestTitle] got a revelation from [GetHighGodName]. By using her own blood, the [GetPriestTitle] penned [GetScriptureName] and passed it on to her followers. Since then, many other [GetPriestTitle]s have had revelations, though all of them about [GetRandomEvilGodName] and how the world will end.;;;;;;;;;;;Ñ÷èòàåòñÿ, ÷òî [GetName]ñêàÿ âåðà âîçíèêëà, êîãäà ïåðâûé [GetPriestTitle] ïîëó÷èë îòêðîâåíèå îò áîãà [GetHighGodName]à. Ñîáñòâåííîé êðîâüþ [GetPriestTitle] íàïèñàë [GetScriptureName] - ñâÿùåííûé òåêñò [GetFullName]èçìà, è ïåðåäàë åãî ñâîèì ïîñëåäîâàòåëÿì. Ñ òåõ ïîð íà ìíîãèõ [GetPriestTitle]îâ íàõîäÿò âèäåíèÿ, â êîòîðûõ çëîé áîã [GetRandomEvilGodName] óíè÷òîæàåò ìèð.;;x
+ALT_START_GENERIC_RELIGION_DESC_3;The foundation of the [GetName] faith is shrouded in mystery, and [GetScriptureName] does not make mention of their origins. Followers argue that the [GetName] faith has always existed, and that anyone claiming otherwise is an agent of [GetRandomEvilGodName]. Their [GetPriestTitle]s enforce this notion rather vigorously, threatening that the wrath of their supreme diety will strike unbelievers down - [GetHighGodName], riding a mighty chariot across the night sky.;;;;;;;;;;;Ïðîèñõîæäåíèå [GetFullName]èçìà - ýòî òàéíà, ïîêðûòàÿ ìðàêîì. [GetScriptureName], èõ ñâÿùåííîå ïèñàíèå íèêîèì îáðàçîì íå óïîìèíàåò îá èñòîðèè ñâîåãî âîçíèêíîâåíèÿ. [GetName]û ãîâîðÿò, ÷òî ýòî ó÷åíèå ñóùåñòâîâàëî âñåãäà, à ëþáîé, êòî óòâåðæäàåò îáðàòíîå - àãåíò [GetRandomEvilGodName]à. [GetName]ñêèå [GetPriestTitle]û âñÿ÷åñêè ïîääåðæèâàþò ýòó ïàðàäèãìó è íàïîìèíàþò, ÷òî ãíåâ [GetHighGodName]à, âåðõîâíîãî áîãà, ïðîåçæàþùåãî íà ñâîåé êîëåñíèöå ïî íî÷íîìó íåáó, íåñîìíåííî ïîðàçèò íåâåðóþùèõ.;;x
+ALT_START_GENERIC_RELIGION_DESC_4;It is said that the seven prophets of the [GetName] faith stayed up for seven days and seven nights when they were revealed [GetScriptureName] from [GetHighGodName]. After the completion of [GetScriptureName], six of them were uplifted to join [GetHighGodName] while one was doomed to spend eternity with [GetRandomEvilGodName]. [GetName] [GetPriestTitle]s thus condemn the number seven.;;;;;;;;;;;Ñ÷èòàåòñÿ, ÷òî ñåìü ïðîðîêîâ [GetFullName]èçìà ñîáðàëèñü âìåñòå â îæèäàíèè îòêðîâåíèÿ îò âûñøèõ ñèë. Îíè æäàëè ñåìü äíåé è ñåìü íî÷åé, ïî ïðîøåñòâèè êîòîðûõ [GetHighGodName] íèñïîñëàë èì ñëîâà ñâÿùåííûå ñëîâà, êîòîðûå îíè çàïèñàëè â [GetScriptureName], ñâÿùåííûé [GetName]ñêèé òåêñò. Ïî çàâåðøåíèþ ðóêîïèñè øåñòåðî âîçíåñëèñü, äàáû îáúåäèíèòüñÿ ñ [GetHighGodName]îì, à îäèí áûë âûíóæäåí îñòàòüñÿ, ÷òîáû ïðîâåñòè âå÷íîñòü ñ [GetRandomEvilGodName]îì, âîïëîùåíèåì àáñîëþòíîãî çëà. Ñ òåõ ïîð ÷èñëî ñåìü ïðîêëÿòî, è [GetName]ñêèå [GetPriestTitle]û íåóñòàííî ñëåäÿò çà òåì, ÷òîáû ýòî ÷èñëî íèêàê íåëüçÿ áûëî ñâÿçàòü ñ ìîëèòâàìè è ðèòóàëàìè.;;x
+ALT_START_GENERIC_RELIGION_DESC_5;In the beginning there was only fire, and out of that fire [GetHighGodName] forged the world. The [GetPriestTitle]s of the [GetName] faithful continually write down visions they have of [GetHighGodName] in [GetScriptureName]. At times, one such story may be deemed heretical, and is subsequently burned. The [GetPriestTitle] who wrote down the offending text is often believed to be under the influence of [GetRandomEvilGodName], and is such likely to be burned alongside the heretical pages.;;;;;;;;;;;Âíà÷àëå áûë òîëüêî îãîíü, â ïëàìåíè êîòîðîãî [GetHighGodName] âûêîâàë âåñü ìèð - òàê óòâåðæäàþò [GetPriestTitle]û [GetName]ñêîé âåðû, êîòîðûå ïîñòîÿííî äîïîëíÿþò íîâûìè çàïèñÿìè ñâîèõ âèäåíèé [GetScriptureName], ñâÿùåííûé òåêñò [GetFullName]èçìà. Ñî âðåìåíåì íåêîòîðûå èç çàïèñåé ìîãóò áûòü îáúÿâëåíû åðåòè÷åñêèìè è ñîææåíû, à [GetPriestTitle], êîòîðûé áûë èõ àâòîðîì - îñóæä¸í êàê íåâîëüíûé ïîñîáíèê çëîãî áîãà [GetRandomEvilGodName]à, îáìàíóâøåãî åãî. Ñêîðåå âñåãî ýòîãî [GetPriestTitle]à òîæå ñîæãóò âìåñòå ñ êðàìîëüíûìè òåêñòàìè.;;x
+ALT_START_GENERIC_RELIGION_DESC_6;The [GetName] faith is an amalgamation of many other religions. There are several ways which followers may worship [GetHighGodName], all of them equally legitimate. Some even worship [GetRandomEvilGodName] alongside [GetHighGodName]. It is said that somewhere in the world ten [GetPriestTitle]s guard [GetScriptureName], of which only fragments are known even to the most devout followers.;;;;;;;;;;;[GetFullName]èçì ïðåäñòàâëÿåò ñîáîé íåêîå ñëèÿíèå ïðî÷èõ âåðîâàíèé. Åñòü íåñêîëüêî ñïîñîáîâ, êîòîðûì [GetName]û ÷òÿò ñâîåãî áîãà [GetHighGodName]à, è âñå îíè ñ÷èòàþòñÿ â ðàâíîé ñòåïåíè ïðàâåäíûìè. Íåêîòîðûå äàæå ïîêëîíÿþòñÿ çëîìó áîãó [GetRandomEvilGodName]ó, ïîìèìî [GetHighGodName]à. Ñ÷èòàåòñÿ, ÷òî ãäå-òî â ýòîì ìèðå [GetPriestTitle]û ïðÿ÷óò [GetScriptureName], îðèãèíàë ñâÿùåííîé ðóêîïèñè, ôðàãìåíòû êîòîðîãî èçâåñòíû ëèøü ñàìûì ïðåäàííûì ïîñëåäîâàòåëÿì [GetName]ñêîé âåðû.;;x
+ALT_START_GENERIC_RELIGION_DESC_7;The [GetName] faith is very strict, with [GetPriestTitle]s constantly requiring followers to cite passages from [GetScriptureName]. If a follower would fail to cite three passages in a row, they are punished and deemed corrupted by [GetRandomEvilGodName]. Fortunately [GetScriptureName] contains only twelve passages, spread out over four pages – proving the mercy of [GetHighGodName] once again.;;;;;;;;;;;[GetName]ñêàÿ âåðà î÷åíü ñòðîãà, [GetPriestTitle]û ïîñòîÿííî òðåáóþò îò ïîñëåäîâàòåëåé, ÷òîáû òå öèòèðîâàëè îòðûâêè èç [GetScriptureName]à, ñâÿùåííîãî ïèñàíèÿ. Åñëè êîìó-òî íå óäà¸òñÿ òî÷íî ïðîöèòèðîâàòü íóæíûé îòðûâîê, åãî íàêàçûâàþò çà òî, ÷òî [GetRandomEvilGodName], çëîé áîã, îñêâåðíèë åãî äóøó. Ê ñ÷àñòüþ, [GetScriptureName] ñîäåðæèò âñåãî äâåíàäöàòü óòâåðæäåíèé, ðàñïèñàííûõ íà ÷åòûð¸õ ñòðàíèöàõ, ÷òî â î÷åðåäíîé ðàç äîêàçûâàåò áåçãðàíè÷íîå ìèëîñåðäèå âåðõîâíîãî áîãà [GetHighGodName]à ê ñâîèì ñîçäàíèÿì.;;x
+ALT_START_GENERIC_RELIGION_DESC_8;The [GetName] faith is very peculiar in that sermons are always sung. The [GetPriestTitle]s are picked among followers based on the tone of their voice, as their diety [GetHighGodName] is said to have conveyed [GetScriptureName] entirely through divine song. The main enemy of [GetHighGodName] is [GetRandomEvilGodName], who cannot sing. Mute people are deemed cursed by [GetRandomEvilGodName], and are often excluded from mass.;;;;;;;;;;;"[GetName]ñêàÿ âåðà î÷åíü ñêóðïóë¸çíî ïîäõîäèò ê òîìó, êàê ïðàâèëüíî èñïîëíÿòü ïðîïîâåäè. [GetName]ñêèå [GetPriestTitle]û âûáèðàþòñÿ èç ÷èñëà ïîñëåäîâàòåëåé ñîãëàñíî òîíó èõ ãîëîñà, èáî âåðõîâíûé áîã [GetHighGodName], êàê óòâåðæäàþò, ïåðåäàë ñâÿùåííîå ïîñëàíèå â âèäå ïåñíè, òåêñò êîòîðîé çàïèñàí â [GetScriptureName]å, ñàìîì âàæíîì [GetName]ñêîì òåêñòå. Ãëàâíûé âðàã [GetHighGodName]à - çëîé áîã [GetRandomEvilGodName], ÷ü¸ èìÿ îçíà÷àåò ""òîò, êòî íå ìîæåò ïåòü"". Ñ÷èòàåòñÿ, ÷òî òå, ó êîãî íåò ñëóõà, ïëîõîé ãîëîñ è, â îñîáåííîñòè, íåìûå, ïðîêëÿòû [GetRandomEvilGodName]îì, çà ÷òî èñêëþ÷àþòñÿ èç öåðåìîíèé áîãîñëóæåíèÿ.";;x
+ALT_START_GENERIC_RELIGION_DESC_9;The followers of the [GetName] faith believe that all the world is but a game between [GetHighGodName] and [GetRandomEvilGodName]. Due to this a lot of their religious rites and worship are centered around a complex board game, with the most successful players becoming [GetPriestTitle]s. The rules of this sacred game are recorded in [GetScriptureName].;;;;;;;;;;;Ïîñëåäîâàòåëè [GetFullName]èçìà âåðÿò, ÷òî íàø ìèð - íå ÷òî èíîå, êàê èãðà [GetHighGodName]à ñ [GetRandomEvilGodName]îì. Èç-çà ýòîãî áîëüøèíñòâî ðåëèãèîçíûõ îáðÿäîâ ïîñòðîåíû â âèäå íàñòîëüíîé èãðû, à ñàìûå óñïåøíûå èãðîêè ñòàíîâÿòñÿ [GetPriestTitle]àìè. Ïðàâèëà èãðû çàïèñàíû â [GetScriptureName]å, ñâÿùåííîì ïèñàíèè [GetName]îâ.;;x
+ALT_START_GENERIC_RELIGION_DESC_10;In the [GetName] religion [GetScriptureName] tells the story of [GetHighGodName] whose arm was cruelly cut off by [GetRandomEvilGodName] – the pieces of their arm became the land and their blood the sea, creating the world as we know it. Their [GetPriestTitle]s sometimes cut off parts of their own body in an attempt to be closer to [GetHighGodName].;;;;;;;;;;;Â [GetName]ñêîé ðåëèãèîçíîé òðàäèöèè åñòü èñòîðèÿ, çàïèñàííàÿ â [GetScriptureName]å. Èñòîðèÿ î òîì, êàê [GetHighGodName] ëèøèëñÿ ðóêè, êîòîðóþ îòñ¸ê åìó [GetRandomEvilGodName]. Îñòàíêè ýòîé ðóêè ñòàëè çåìë¸é, à êðîâü - ìîðÿìè è ðåêàìè. Èñòîâî âåðóþùèå [GetPriestTitle]û èíîãäà îòñåêàþò ÷àñòü ñâîåãî òåëà, ÷òîáû ñòàòü áëèæå ê [GetHighGodName]ó.;;x
+ALT_START_GENERIC_RELIGION_DESC_11;Eons ago, all creatures were united on a single land that spanned infinitely towards the horizons. They lived under a soft light that allowed the lushest grass and the sweetest of fruit to grow. But one day, for reasons and from origins unfathomable by mere mortals, [GetRandomEvilGodName] arrived and shook the very essence of the universe, splitting the lands, scorching the earth and disuniting mortals. Nearly everything was consumed by the infinite darkness still visible at night, except for the land miraculously protected by [GetHighGodName]. The faithful have recorded the history of the world in [GetScriptureName], so they may never forget that they owe their very existence to the benevolence and power of [GetHighGodName].;;;;;;;;;;;Ìíîãî ýîíîâ íàçàä âñå ñóùåñòâà æèëè âìåñòå íà îäíîé çåìëå, ïðîñòèðàþùåéñÿ äàëåêî çà ãîðèçîíò. Ìÿãêèé ñâåò æèçíè îçàðÿë èõ. Ïîä ýòèì ñâåòîì òðàâà çåëåíåëà, à äåðåâüÿ ðîñëè è ïëîäîíîñèëè. Íî â êàêîé-òî ìîìåíò [GetRandomEvilGodName] ÿâèëñÿ â ýòîò ìèð, ÷òîáû ðàçðóøèòü êàæäóþ åãî ÷àñòèöó, ðàçäåëèòü çåìëè è ðàçëó÷èòü æèâûõ ñóùåñòâ. Ïî÷òè âñ¸ â ýòîì ìèðå áûëî ïîãëîùåíî âå÷íîé òüìîé, êðîìå òîé ÷àñòè, êîòîðóþ ñîõðàíèë [GetHighGodName]. Ïîäðîáíîñòè ýòîé èñòîðèè çàïèñàíû â [GetScriptureName]å, ñâÿùåííîì òåêñòå [GetName]ñêîé âåðû. Ñòðîêè èç ýòîãî òåêñòà íå äàþò [GetName]àì çàáûòü î ñâî¸ì ïðîèñõîæäåíèè, íî ãëàâíîå, î áåñêîíå÷íîé ìèëîñòè è áëàãîé ñèëå [GetHighGodName]à.;;x
+ALT_START_GENERIC_RELIGION_DESC_12;In the [GetName] faith it is believed that this is the eighteenth cycle that the World has gone through. In every cycle, [GetHighGodName], protector of Life and Light, fiercely battles [GetRandomEvilGodName], feeding on Death and Darkness. As stated in [GetScriptureName], the only way to prevent [GetRandomEvilGodName] from destroying the universe and starting another cycle, is to grant [GetHighGodName] energy through specific rituals, such as always having three candles lit during moonless nights, or celebrating with family every day before, and after, a full moon.;;;;;;;;;;;[GetFullName]èçì óòâåðæäàåò, ÷òî â íàñòîÿùåå âðåìÿ ìèð ïðîõîäèò ÷åðåç ñâîé âîñåìíàäöàòûé öèêë ñóùåñòâîâîâàíèÿ. Êàæäûé öèêë - ýòî áîðüáà [GetHighGodName]à ïðîòèâ [GetRandomEvilGodName]à. Â [GetScriptureName]å íàïèñàíî, ÷òî åñòü ëèøü îäèí ñïîñîá ïðåäîòâðàòèòü óíè÷òîæåíèå ìèðà è ïåðåõîä ê íîâîìó âñåëåíñêîìó öèêëó - èñïîëíÿòü îñîáûå ðèòóàëû, íàïîëíÿþùèå [GetHighGodName]à ñèëîé, ñïîñîáíîé îñòàíîâèòü [GetRandomEvilGodName]à, ïîìåøàâ åìó óíè÷òîæèòü âñåëåííóþ. Îäèí èç òàêèõ ðèòóàëîâ - çàæèãàíèå òð¸õ ñâå÷åé âî âðåìÿ íîâîëóíèÿ, äðóãîé - ñåìåéíûé ïðàçäíèê, ïðîâîäèìûé ðîâíî çà îäèí äåíü äî è íà ïåðâûé äåíü ïîñëå ïîëíîëóíèÿ.;;x
+ALT_START_GENERIC_RELIGION_DESC_13;According to [GetScriptureName], when a person dies, their soul becomes ripe for the taking by the Reapers who will bring it to [GetRandomEvilGodName], who will then devour and assimilate them, to quench an insatiable hunger that has lasted since the dawn of time. Only burying the bodies can protect the souls and allow them to safely travel down to the Underworld, the realm of [GetHighGodName], allowing them to come back to earth as guardian spirits who help their descendants and fend off the Reapers.;;;;;;;;;;;"Ñòðîêè [GetScriptureName]à ãîâîðÿò íàì, ÷òî êîãäà êòî-òî óìèðàåò, åãî äóøà ñîçðåâàåò äëÿ æàòâû. Ïîäîáíî ñïåëîìó ôðóêòó, îíà ïðèâëåêàåò ""æíåöîâ"", êîòîðûõ [GetRandomEvilGodName] ïîñûëàåò â ýòîò ìèð â íåóìîëèìîì ñòðåìëåíèè óòîëèòü ñâîé íåïîìåðíûé ãîëîä, òåðçàþùèé åãî ñ íà÷àëà âðåì¸í. Çàðûâàíèå òåë â çåìëþ ïîìîãàåò çàùèòèòü äóøè íà èõ ïóòè â çàãðîáíûé ìèð, êîòîðûì ïðàâèò [GetHighGodName], âåðõîâíûé áîã [GetFullName]èçìà. Îí äàðóåò äóøàì âîçìîæíîñòü âåðíóòüñÿ â ìèð æèâûõ â êà÷åñòâå äóõîâ-õðàíèòåëåé, êîòîðûå çàùèùàþò ñâîèõ ïîòîìêîâ îò íåâèäèìûõ ãëàçó ñìåðòíîãî ñâèðåïûõ æíåöîâ.";;x
+ALT_START_GENERIC_RELIGION_DESC_14;The [GetPriestTitle]s tell of a time immemorial, when gods and mortals lived together on Earth – the latter as slaves and playthings to the first. After many sunsets, one mortal had enough of this servitude and rose against the foul gods, driving the billions of other mortals to stand with him in a fight for their freedom. In the end, the gods were driven out, repelled to the far confines of the universe, where their remains amalgamated through rage and vengeance, into what we now call [GetRandomEvilGodName]. The rebellious mortal himself was drenched in divine blood, becoming [GetHighGodName], a godlike entity, as strong as the will of all mortals on Earth. In the well protected [GetScriptureName], it says that the remnants of the evil gods draw closer to their lost realm every time a mortal indulges in corruption or decadent behavior, and that only bravery and willpower can wake [GetHighGodName] to protect reality from certain doom.;;;;;;;;;;;[GetName]ñêèå [GetPriestTitle]û ãîâîðÿò, ÷òî â ãëóáîêîé äðåâíîñòè áîãè è ñìåðòíûå æèëè âìåñòå íà Çåìëå, ïîñëåäíèå áûëè ðàáàìè è ðàçâëå÷åíèåì äëÿ ïåðâûõ. Ñïóñòÿ âåëèêîå ìíîæåñòâî âîñõîäîâ ñîëíöà, îäèí èç ñìåðòíûõ íàêîíåö ðåøèë ïîêîí÷èòü ñ ðàáñòâîì è âîññòàë ïðîòèâ áîãîâ. Ìèëëèàðäû äðóãèõ ïîñëåäîâàëè åãî ïðèìåðó è ïðèñîåäèíèëèñü ê íåìó â áîðüáå çà ñâîáîäó. Áîãè áûëè èçãíàíû â äàëüíèå óãîëêè âñåëåííîé. Æàæäóùèå ìåñòè, îíè îáúåäèíèëèñü ïîä íà÷àëîì [GetRandomEvilGodName]à, êîòîðûé âîçãëàâèë èõ â ñâî¸ì ïîõîäå çà âîçâðàùåíèå òîãî, ÷òî êàê ñ÷èòàþò, äîëæíî ïðèíàäëåæàòü èì ïî ïðàâó. Âîññòàâøèé ñìåðòíûé ïðîïèòàëñÿ áîæåñòâåííîé êðîâüþ, ïîòåðÿâ âñ¸, ÷åì áûë ïðåæäå, êðîìå íåñãèáàåìîé âîëè è ñòðåìëåíèÿ ê ñïðàâåäëèâîñòè. Îí ïåðåðîäèëñÿ êàê [GetHighGodName] - íîâûé áîã ñâîáîäíûõ ëþäåé. Â [GetScriptureName]å ãîâîðèòñÿ, ÷òî âñÿêèé ðàç, êîãäà ñìåðòíûé ïîòàêàåò ñâîèì ñëàáîñòÿì, îí òåðÿåò ñâÿçü ñ âûñøåé âîëåé è ïðèáëèæàåò ñòàðûõ êðîâîæàäíûõ áîãîâ ê ñåáå.;;x
+ALT_START_GENERIC_RELIGION_DESC_15;The [GetName] faith started a long time ago, when a hunter in a now forgotten forest followed a purple feathered bird with large wings to a glade in the heart of the woods. There [GetScriptureName] lay between five trees with golden leaves. The scripture recounted how this forest was the resting place of [GetHighGodName], an entity that had created the world at the cost of its life, after confronting [GetRandomEvilGodName]. Since then, the [GetPriestTitle]s have spread the word in gratitude of [GetHighGodName], to whom they show respect by venerating nature and by burying their dead along with the branch of a tree, allowing them to reunite with their creator.;;;;;;;;;;;Ó [GetFullName]èçìà äðåâíÿÿ èñòîðèÿ, êîòîðàÿ, êàê ñ÷èòàåòñÿ, íà÷àëàñü ñ òîãî, ÷òî îõîòíèê â íåèçâåñòíîì íûíå ëåñó ïîñëåäîâàë çà îãðîìíîé ôèîëåòîâîé ïòèöåé, êîòîðàÿ ïðèâåëà åãî íà ïîëÿíó, ãäå ìåæäó ïÿòüþ äåðåâüÿìè ñ çîëîòèñòûìè ëèñòüÿìè îí íàø¸ë [GetScriptureName]. Â ýòîì ñâÿùåííîì òåêñòå óïîìèíàåòñÿ [GetHighGodName], íåêîãäà îáèòàâøèé â ýòîì ëåñó è ñîòâîðèâøèé ìèð öåíîé ñâîåé æèçíè, â ðåçóëüòàòå áîðüáû ñ [GetRandomEvilGodName]îì, âîïëîùåíèåì çëà. Ñ òåõ ïîð [GetPriestTitle]û ðàñïðîñòðàíÿþò ñëîâî î âåëèêîì ïîäâèãå [GetHighGodName]à, êîòîðîãî ïî÷èòàþò çà åãî ñàìîïîæåðòâîâàíèå âî áëàãî âñåãî æèâîãî. [GetName]û õîðîíÿò ì¸ðòâûõ ñ âåòêàìè äåðåâüåâ, äàáû îíè ìîãëè âîññîåäèíèòüñÿ ñ [GetHighGodName]îì ïîñëå ñìåðòè.;;x
+ALT_START_GENERIC_RELIGION_DESC_16;The [GetName] faith is a rather recent one, founded by the charismatic first [GetPriestTitle], who detailed in length how human beings need to follow certain strict rules of life recorded in [GetScriptureName], lest they be forever doomed to suffer eternal pain at the hands of [GetRandomEvilGodName]. As he drew close to death, the [GetPriestTitle] warned that his good followers were still at risk, due to the numerous masses of wicked heathens performing decadent rituals and increasing [GetRandomEvilGodName]'s influence. The only way he could help protect them was by discarding his mortal coil and ascend to a new form – thus he became [GetHighGodName].;;;;;;;;;;;[GetFullName]èçì - îòíîñèòåëüíî íîâàÿ ðåëèãèÿ. Å¸ èñòîðèÿ íà÷àëàñü ñ ìîìåíòà, êîãäà õàðèçìàòè÷íûé [GetPriestTitle] ðåøèë çàïèñàòü íåêèé ñâîä ïðàâèë, êîòîðîìó âñå ïðàâåäíûå ñóùåñòâà äîëæíû ñëåäîâàòü - [GetScriptureName]. Åñëè êòî-òî íå ñîáëþäàåò ýòè ïðàâèëà, ðàíî èëè ïîçäíî [GetRandomEvilGodName] çàõâàòèò åãî äóøó, ñêîâàâ å¸ áåñêîíå÷íîé áîëüþ è ñòðàäàíèÿìè. Íà ïîðîãå ñìåðòè ýòîò [GetPriestTitle] ïðåäóïðåæäàë ñâîèõ ïîñëåäîâàòåëåé, ÷òî äàæå ïðàâåäíèêè ðèñêóþò, èáî [GetRandomEvilGodName] íå äðåìëåò, íå÷åñòèâûå èíîâåðöû ñâîèìè ðèòóàëàìè ñïîñîáíû èçìåíèòü áàëàíñ ñèë. Åäèíñòâåííûì ïóò¸ì ñïàñåíèÿ ñòàëî åãî îñâîáîæäåíèå îò ñìåðòíîé îáîëî÷êè. Îí ïåðåðîäèëñÿ â [GetHighGodName]à - íîâîãî áîãà.;;x
+ALT_START_GENERIC_RELIGION_DESC_17;The [GetName] faith is one founded upon fear – their clergy hold terrifying masses, where they recite passages from [GetScriptureName] telling of how [GetRandomEvilGodName] will crack the world open like an egg. Despite followers constantly fearing for their souls, they find brief solace in the stories told about their main deity, [GetHighGodName]. These stories are not often told, and only the most brave [GetPriestTitle]s dare recite them in public.;;;;;;;;;;;[GetName]ñêàÿ âåðà îñíîâàíà íà ñòðàõå, êîòîðûé ïîäïèòûâàåòñÿ äóõîâåíñòâîì, ïðîâîäÿùèì óæàñíûå ìåññû. Íà ýòèõ ìåññàõ ÷èòàþò ñàêðàëüíûé òåêñò - [GetScriptureName], ðàññêàçûâàþùèé î òîì, êàê [GetRandomEvilGodName] ìîæåò ðàñêîëîòü ìèð, ïîäîáíî ñêîðëóïå ÿéöà. Íåñìîòðÿ íà ïîñòîÿííûé ñòðàõ çà ñâîè äóøè, [GetName]û íàõîäÿò óìèðîòâîðåíèå â èñòîðèÿõ î ñâî¸ì âåðõîâíîì áîãå [GetHighGodName]å. Ýòè èñòîðèè ðàññêàçûâàþò ðåäêî. Ìàëî êàêîé [GetPriestTitle] îñìåëèòñÿ îçâó÷èòü èõ íà ïóáëèêå.;;x
+ALT_START_GENERIC_RELIGION_DESC_18;It is said that the first [GetPriestTitle] was the patriarch of a small tribe who lived on boats out on the endless sea. One day, all the fish in the ocean vanished – eaten by [GetRandomEvilGodName]! Just as the small tribe was on the brink of starvation, [GetHighGodName] appeared before them. The first [GetPriestTitle] pleaded to [GetHighGodName] for salvation, and [GetHighGodName] in response created the land, the trees and all the animals of the forests so that the tribe would not starve. Grateful, the first [GetPriestTitle] created [GetScriptureName] to record all the divine things that [GetHighGodName] had created.;;;;;;;;;;;Ãîâîðÿò ïåðâûé [GetName]ñêèé [GetPriestTitle] áûë âîæä¸ì íåáîëüøîãî ïëåìåíè, æèâøåãî íà ëîäêàõ â îòêðûòîì ìîðå. Êàê-òî ðàç âñÿ ðûáà ïðîïàëà, [GetRandomEvilGodName] ñúåë å¸! Ïëåìÿ îêàçàëîñü íà ãðàíè ñìåðòè, è åñëè áû [GetHighGodName] íå îòâåòèë íà ìîëüáû âîæäÿ, îíè áû óìåðëè îò ãîëîäà. [GetHighGodName] ñîòâîðèë çåìëþ, äåðåâüÿ è æèâîòíûõ, ÷òîáû òå ïîñëóæèëè ïèùåé äëÿ ïëåìåíè. Â áëàãîäàðíîñòü çà ñïàñåíèå ñâîåãî íàðîäà ýòîò âîæäü, ïåðâûé [GetPriestTitle], íàïèñàë [GetScriptureName] - ñâÿùåííûé òåêñò âñåõ [GetName]îâ, â êîòîðîì îïèñàíû ïîäðîáíîñòè ýòîãî ñîáûòèÿ.;;x
+ALT_START_GENERIC_RELIGION_DESC_19;The [GetName] religion is focused upon the practice of ritualistic hunts. All their holidays involve hunts in one form or another, with various quarry being the target of each one. In their religion [GetHighGodName] is a great hunter, and [GetRandomEvilGodName] the prey. Their holy text, [GetScriptureName], detail exactly how each hunt should be performed in meticulous detail.;;;;;;;;;;;[GetName]ñêàÿ âåðà ïîñòðîåíà íà ïðàêòèêàõ ðèòóàëüíîé îõîòû. Âñå ñâîè ïðàçäíèêè âåðóþùèå îòìå÷àþò ðàçíîîáðàçíûìè âèäàìè îõîòû, âî âðåìÿ êîòîðûõ, êàæäûé äîëæåí ïðåñëåäîâàòü ñâîþ äè÷ü. [GetScriptureName], èõ ñâÿùåííûé òåêñò, óòâåðæäàåò, ÷òî [GetHighGodName] - âåëèêèé îõîòíèê, à [GetRandomEvilGodName] - æåðòâà. Áîëüøàÿ ÷àñòü ïèñàíèÿ ñîäåðæèò ìàññó ìåëü÷àéøèõ äåòàëåé î òîì, êàê èìåííî íóæíî îõîòèòüñÿ è êàêèå ïðàâèëà ïðè ýòîì ñîáëþäàòü.;;x
+ALT_START_GENERIC_RELIGION_DESC_20;The [GetName] faith has a particular focus on funerary rites. When an elder dies, they are flayed and their skin fashioned into a religious object such as the cover of a book or a ceremonial mask. Their holy text, [GetScriptureName], tells the story of [GetHighGodName], flayed and buried a hundred times by [GetRandomEvilGodName]. Funerals are always led by at least two [GetPriestTitle]s, one who performs the flaying and one who ensures everything is done to code.;;;;;;;;;;;[GetFullName]èçì ïî ñâîåé ñóòè - ðåëèãèÿ, ñîñðåäîòî÷åííàÿ íà ðèòóàëàõ ïîãðåáåíèÿ. Êîãäà ñòàðèêè óìèðàþò, èõ êîæó ñäèðàþò è îáðàáàòûâàþò îñîáûì îáðàçîì, ïðåâðàùàÿ â îáúåêòû ðåëèãèîçíîãî íàçíà÷åíèÿ, òàêèå êàê îáëîæêà êíèãè èëè öåðåìîíèàëüíàÿ ìàñêà. Ñâÿùåííûé òåêñò [GetScriptureName] ïîâåñòâóåò èñòîðèþ î òîì, êàê çëîé [GetRandomEvilGodName] ñîòíè ðàç ñäèðàë ñ êîæó ñ [GetHighGodName]à, âåðõîâíîãî áîãà [GetName]îâ, ñíîâà è ñíîâà ñæèãàÿ îñòàíêè åãî òåëî. Îáðÿä ïîãðåáåíèÿ ïðîâîäÿò ìèíèìóì äâîå ñâÿùåííîñëóæèòåëåé, îäèí ñäèðàåò êîæó, à äðóãîé ñëåäèò çà ñîáëþäåíèåì íîðì ñâÿùåííîãî ïèñàíèÿ.;;x
+ALT_START_GENERIC_RELIGION_DESC_21;The [GetName] faith is one based largely upon the sense of touch, with adherents locking hands and holding each others shoulders during prayers. Worshipers frequently embrace the [GetPriestTitle]s both before and after a religious ceremony. To bless someone, a [GetPriestTitle] must embrace and lift the chosen one towards the sky – so that [GetHighGodName] may reach down and touch their souls. Their holy text, [GetScriptureName], outlines the jealousy borne by the main enemy of [GetHighGodName] – [GetRandomEvilGodName], the one who must not be touched.;;;;;;;;;;;[GetName]ñêàÿ âåðà îñíîâàíà íà ÷óâñòâå ïðèêîñíîâåíèÿ. Ïîñëåäîâàòåëè êðåïêî äåðæàò äðóã äðóãà çà ïëå÷è âî âðåìÿ ìîëèòâû è îáíèìàþò [GetPriestTitle]îâ äî è ïîñëå öåðåìîíèè. ×òîáû áëàãîñëîâèòü êîãî-ëèáî, [GetPriestTitle] äîëæåí îáíÿòü åãî è ïîäíÿòü íàä çåìëåé. Ñ÷èòàåòñÿ, ÷òî òàêèì îáðàçîì [GetHighGodName] ìîæåò äîòÿíóòüñÿ äî íåãî è êîñíóòüñÿ åãî äóøè. [GetScriptureName], ãëàâíûé ñâÿùåííûé òåêñò [GetFullName]èçìà, óäåëÿåò îñîáîå âíèìàíèå ÷¸ðíîé çàâèñòè çëîãî áîãà [GetRandomEvilGodName]à, ê íåìó íåëüçÿ ïðèêàñàòüñÿ íè ïðè êàêèõ îáñòîÿòåëüñòâàõ.;;x
+ALT_START_GENERIC_RELIGION_DESC_22;Temples belonging to the [GetName] faith are a spectacle to behold – covered from top to bottom in elaborate wooden carvings, every one of them looks like a work of art. It is said that a woodcarver once started to carve a face into a stump, but was interrupted halfway through. He then started carving a new face into another stump, and when he was finished it sprung to life in the form of [GetHighGodName]. The woodcarver was blessed by [GetHighGodName], and given [GetScriptureName] to keep safe. The half-carved stump he had previously abandoned then sprung to life in the form of [GetRandomEvilGodName], who proceeded to chase the carver out of the forest.;;;;;;;;;;;[GetName]ñêèå õðàìû ïîèñòèíå ïðåêðàñíû - ñâåðõó äîíèçó ïîêðûòûå äåðåâÿííûìè èçðàçöàìè, êàæäûé èç íèõ óíèêàëåí êàê ïðîèçâåäåíèå èñêóññòâà. Ãîâîðÿò, îäíàæäû ðåç÷èê ïî äåðåâó ðåøèë èçîáðàçèòü íà ñòàðîì ïíå ëèöî, íî ÷òî-òî ïîøëî íå òàê è åìó ïðèøëîñü îñòàíîâèòüñÿ íà ïîëïóòè, íå çàêîí÷èâ ðàáîòó. Íåêîòîðîå âðåìÿ îí ñîáèðàëñÿ ñ äóõîì, è âîò íàêîíåö íà íåãî ñîøëî âäîõíîâåíèå. Îí ïðèíÿëñÿ âûðåçàòü íîâîå ëèöî íà ìîãó÷åì ïðåêðàñíîì äåðåâå, à êîãäà çàêîí÷èë, ëèöî îæèëî, ñòàâ âîïëîùåíèåì [GetHighGodName]à, âåðõîâíîãî áîãà [GetFullName]èçìà. [GetHighGodName] áëàãîñëîâèë ðåç÷èêà è äàðîâàë åìó ñâÿùåííûé òåêñò - [GetScriptureName]. À íåçàêîí÷åííîå ëèöî âîïëîòèëîñü â çëîãî áîãà [GetRandomEvilGodName]à, êîòîðûé è ïî ñåé äåíü ïðåñëåäóåò âñåõ ìàñòåðîâ, ìåøàÿ èì äîñòè÷ü ñîâåðøåíñòâà.;;x
+ALT_START_GENERIC_RELIGION_DESC_23;Adherents of the [GetName] faith reject the notion of individuality, believing instead that all are joined in one grand consciousness. In the center of this collective mind lies [GetHighGodName], sleeping. Stories in [GetScriptureName] claim that only [GetRandomEvilGodName] can awaken [GetHighGodName]. [GetName] [GetPriestTitle]s therefore organize a search every year, with an ultimate goal to locate the cave in which [GetRandomEvilGodName] resides.;;;;;;;;;;;[GetName]û îòâåðãàþò ïîíÿòèå îá èíäèâèäóàëüíîñòè. Îíè âåðÿò, ÷òî ñîçíàíèå âñåõ æèâûõ ñóùåñòâ ñâÿçàíî âîåäèíî è åñòü ïî ñóòè ïðîÿâëåíèå ñïÿùåãî áîãà [GetHighGodName]à. [GetScriptureName], ñâÿùåííîå ïèñàíèå [GetFullName]èçìà, ïîâåñòâóåò î òîì, ÷òî òîëüêî [GetRandomEvilGodName] ìîæåò ïðîáóäèòü [GetHighGodName]à îòî ñíà. [GetName]ñêèå [GetPriestTitle]û êàæäûé ãîä îðãàíèçóþò ïîèñêè ñ öåëüþ íàéòè ïåùåðó [GetRandomEvilGodName]à.;;x
+ALT_START_GENERIC_RELIGION_DESC_24;The [GetName] faithful do not believe this world to be the 'true' world. Their [GetPriestTitle]s say that it is but a shadow of the real world – a world which can only be accessed by pleasing [GetHighGodName]s every command. The rules that must be followed are outlined in [GetScriptureName], with [GetPriestTitle]s standing constant guard over where the texts are kept. They believe that [GetRandomEvilGodName] is always watching, ready to corrupt the texts as soon as they are left out of sight.;;;;;;;;;;;[GetFullName]èçì óòâåðæäàåò, ÷òî íàø ìèð - ëèøü òåíü íàñòîÿùåãî ìèðà, êîòîðîãî ìîæíî äîñòè÷ü, â òî÷íîñòè ñëåäóÿ âñåì óêàçàíèÿì [GetHighGodName]à, âåðõîâíîãî áîãà, ïîäðîáíî çàïèñàííûì â [GetScriptureName]å, [GetName]ñêîì ñâÿùåííîì òåêñòå. Èçâåñòíî, ÷òî [GetPriestTitle]û òùàòåëüíî îõðàíÿþò ìåñòî, ãäå ñïðÿòàíà ýòà ðóêîïèñü. Îíè âåðÿò, ÷òî åñëè îñòàâèòü [GetScriptureName] áåç ïðèñìîòðà, çëîé áîã [GetRandomEvilGodName] íàéä¸ò åãî è èñêàçèò òåêñò.;;x
+ALT_START_GENERIC_RELIGION_DESC_25;In the [GetName] faith ceremonial dance is seen as the most important aspect of worship. Both men and women meet together to dance, preceded by a host of [GetPriestTitle]s. Song and music are always present, and the sung texts are often directly quoted from [GetScriptureName]. Their holy text, [GetScriptureName], tells the story of the great love between [GetHighGodName] and [GetRandomEvilGodName]. It is said that before their falling out, [GetHighGodName] and [GetRandomEvilGodName] danced together constantly. As they left each others side, night and day was created.;;;;;;;;;;;Íàèáîëåå âàæíûì àñïåêòîì [GetName]ñêîé âåðû ÿâëÿåòñÿ òàíåö. Ìóæ÷èíû è æåíùèíû ñîáèðàþòñÿ âìåñòå, ÷òîáû òàíöåâàòü. Ìåðîïðèÿòèå óñòðàèâàþò [GetPriestTitle]û, êîòîðûå ïîäàþò ïðèìåð îñòàëüíûì, íàïåâàÿ ïåñíè èç ñâÿùåííîãî ïèñàíèÿ è ïåðâûìè ïóñêàÿñü â ïëÿñ. Ñâÿùåííûé òåêñò íàçûâàåòñÿ [GetScriptureName] è îïèñûâàåò èñòîðèþ î âåëèêîé ëþáâè ìåæäó [GetHighGodName]îì è [GetRandomEvilGodName]îì. Â í¸ì ãîâîðèòñÿ, ÷òî êîãäà [GetHighGodName] è [GetRandomEvilGodName] ëþáèëè äðóã äðóãà, îíè ïîñòîÿííî òàíöåâàëè âìåñòå, à ïîòîì ïîññîðèëèñü è ðàññòàëèñü íàâñåãäà. Òàê ïîÿâèëèñü íî÷ü è äåíü.;;x
+ALT_START_GENERIC_RELIGION_DESC_26;Those practicing the [GetName] faith spend a lot of time deep in thought, and their [GetPriestTitle]s spend almost all their lives in contemplation. Their holy text, [GetScriptureName], contains limitless dates and countless numbers of importance, all telling their own story of the future of the world. Interpreting these numbers is a complex task, and new connections are made almost every year. It is said that the truth has been hidden behind complex formulas by [GetHighGodName]. This truth hides the secret to not being ripped apart for eternity by [GetRandomEvilGodName] in the afterlife.;;;;;;;;;;;Àêòèâíûå ïîñëåäîâàòåëè [GetFullName]èçìà áîëüøóþ ÷àñòü âðåìåíè ïðîâîäÿò â ãëóáîêèõ ðàçìûøëåíèÿõ è ñàìîñîçåðöàíèè, à [GetPriestTitle]û - ïî÷òè âñþ æèçíü. Ñâÿùåííûé òåêñò, íàçûâàåìûé [GetScriptureName]îì, ñîäåðæèò âåëèêîå ìíîæåñòâî äàò è âàæíûõ ÷èñåë, ñâÿçàííûõ ñ áóäóùèì ýòîãî ìèðà. Ðàñøèôðîâêà ýòèõ ÷èñåë - ñëîæíàÿ çàäà÷à. Ðåçóëüòàòû ðàñ÷¸òîâ îáíîâëÿþò êàæäûé ãîä. Â [GetScriptureName]å íàïèñàíî, ÷òî [GetHighGodName], âåðõîâíûé áîã, çàøèôðîâàë â ýòèõ ÷èñëàõ ñàêðàëüíûå ôîðìóëû áûòèÿ, ÷òîáû çëîé áîã [GetRandomEvilGodName] íå ìîã èõ ðàçãàäàòü è ïîìåøàòü âåëèêîìó ïëàíó, óãîòîâàííîìó íàì â ñëåäóþùåé æèçíè.;;x
+ALT_START_HOLY_SITE_AN;$INSERT$an;;;;;;;;;;;$INSERT$àí;;x
+ALT_START_HOLY_SITE_CHURCH;$INSERT$ian;;;;;;;;;;;$INSERT$îí;;x
+ALT_START_HOLY_SITE_CHURCH_full;Church of $INSERT$;;;;;;;;;;;$INSERT$îíèçì;;x
+ALT_START_HOLY_SITE_IAN;$INSERT$ian;;;;;;;;;;;$INSERT$èàí;;x
+ALT_START_HOLY_SITE_IST;$INSERT$ist;;;;;;;;;;;$INSERT$èä;;x
+ALT_START_HOLY_SITE_ITE;$INSERT$ite;;;;;;;;;;;$INSERT$èò;;x
+ALT_START_HOLY_SITE_SCHOOL;$INSERT$ite;;;;;;;;;;;$INSERT$èò;;x
+ALT_START_HOLY_SITE_SCHOOL_full;School of $INSERT$;;;;;;;;;;;$INSERT$èòèçì;;x
 # Used in 02_alternate_start_effects.txt
-ALT_AZTEC;The [aztec_pagan_reformed.GetName] Pontificate;;;;;;;;;;;;;x
-ALT_AZTEC_ADJ;[aztec_pagan_reformed.GetName] Pontificate;;;;;;;;;;;;;x
-ALT_BON;The [bon_pagan_reformed.GetName] Paparchy;;;;;;;;;;;;;x
-ALT_BON_ADJ;[bon_pagan_reformed.GetName] Paparchy;;;;;;;;;;;;;x
-ALT_BYZ;[target_ruler.Culture.GetGroupName] Empire;;;;;;;;;;;;;x
-ALT_BYZ_ADJ;[target_ruler.Culture.GetGroupName];;;;;;;;;;;;;x
-ALT_CATHOLIC;The [catholic.GetName] Papacy;;;;;;;;;;;;;x
-ALT_CATHOLIC_ADJ;[catholic.GetName] Papacy;;;;;;;;;;;;;x
-ALT_FRATICELLI;The [fraticelli.GetName] Temple;;;;;;;;;;;;;x
-ALT_FRATICELLI_ADJ;[fraticelli.GetName] Temple;;;;;;;;;;;;;x
-ALT_HO_LOCATION;Knights of [coa_target.GetName];;;;;;;;;;;;;x
-ALT_HO_LOCATION_ADJ;[coa_target.GetName];;;;;;;;;;;;;x
-ALT_HRE;[GetRandomHREPrefix] [target_ruler.Culture.GetName] Empire;;;;;;;;;;;;;x
-ALT_HRE_ADJ;[GetRandomHREPrefix] [target_ruler.Culture.GetName];;;;;;;;;;;;;x
-ALT_HURUFI;The [hurufi.GetName] Caliphate;;;;;;;;;;;;;x
-ALT_HURUFI_ADJ;[hurufi.GetName] Caliphate;;;;;;;;;;;;;x
-ALT_IBADI;The [ibadi.GetName] Caliphate;;;;;;;;;;;;;x
-ALT_IBADI_ADJ;[ibadi.GetName] Caliphate;;;;;;;;;;;;;x
-ALT_ICONOCLAST;The [iconoclast.GetName] Temple;;;;;;;;;;;;;x
-ALT_ICONOCLAST_ADJ;[iconoclast.GetName] Temple;;;;;;;;;;;;;x
-ALT_JEWISH;The [jewish.GetName] Paparchy;;;;;;;;;;;;;x
-ALT_JEWISH_ADJ;[jewish.GetName] Paparchy;;;;;;;;;;;;;x
-ALT_KHARIJITE;The [kharijite.GetName] Caliphate;;;;;;;;;;;;;x
-ALT_KHARIJITE_ADJ;[kharijite.GetName] Caliphate;;;;;;;;;;;;;x
-ALT_MANICHAEAN;The [manichaean.GetName] Pontificate;;;;;;;;;;;;;x
-ALT_MANICHAEAN_ADJ;[manichaean.GetName] Pontificate;;;;;;;;;;;;;x
-ALT_MERC_ARMY;[renaming_target.Culture.GetName] Army;;;;;;;;;;;;;x
-ALT_MERC_ARMY_ADJ;[renaming_target.Culture.GetName];;;;;;;;;;;;;x
-ALT_MERC_BAND;[renaming_target.Culture.GetName] Band;;;;;;;;;;;;;x
-ALT_MERC_BAND_ADJ;[renaming_target.Culture.GetName];;;;;;;;;;;;;x
-ALT_MERC_BROTHERS;[renaming_target.Location.County.GetAdjective] [renaming_target.Culture.GetName] Brothers;;;;;;;;;;;;;x
-ALT_MERC_BROTHERS_ADJ;[renaming_target.Location.County.GetAdjective] [renaming_target.Culture.GetName];;;;;;;;;;;;;x
-ALT_MERC_COMPANY;[renaming_target.Religion.GetName] [renaming_target.Culture.GetName] Company;;;;;;;;;;;;;x
-ALT_MERC_COMPANY_ADJ;[renaming_target.Religion.GetName] [renaming_target.Culture.GetName];;;;;;;;;;;;;x
-ALT_MERC_COMPANY_ALT;[renaming_target.Location.County.GetAdjective] Company;;;;;;;;;;;;;x
-ALT_MERC_COMPANY_ALT_ADJ;[renaming_target.Location.County.GetAdjective];;;;;;;;;;;;;x
-ALT_MERC_NAVY;[renaming_target.Culture.GetName]-[renaming_target.Location.County.GetAdjective] Navy;;;;;;;;;;;;;x
-ALT_MERC_NAVY_ADJ;[renaming_target.Culture.GetName]-[renaming_target.Location.County.GetAdjective];;;;;;;;;;;;;x
-ALT_MIA;The [miaphysite.GetName] Paparchy;;;;;;;;;;;;;x
-ALT_MIA_ADJ;[miaphysite.GetName] Temple;;;;;;;;;;;;;x
-ALT_MONO;The [monophysite.GetName] Paparchy;;;;;;;;;;;;;x
-ALT_MONO_ADJ;[monophysite.GetName] Paparchy;;;;;;;;;;;;;x
-ALT_MONOTHELITE;The [monothelite.GetName] Paparchy;;;;;;;;;;;;;x
-ALT_MONOTHELITE_ADJ;[monothelite.GetName] Paparchy;;;;;;;;;;;;;x
-ALT_NESTORIAN;The [nestorian.GetName] Pontificate;;;;;;;;;;;;;x
-ALT_NESTORIAN_ADJ;[nestorian.GetName] Pontificate;;;;;;;;;;;;;x
-ALT_ORTHODOX;The [orthodox.GetName] Temple;;;;;;;;;;;;;x
-ALT_ORTHODOX_ADJ;[orthodox.GetName] Temple;;;;;;;;;;;;;x
-ALT_PAUL;The [paulician.GetName] Temple;;;;;;;;;;;;;x
-ALT_PAUL_ADJ;[paulician.GetName] Temple;;;;;;;;;;;;;x
-ALT_ROMUVA;The [baltic_pagan_reformed.GetName] Temple;;;;;;;;;;;;;x
-ALT_ROMUVA_ADJ;[baltic_pagan_reformed.GetName] Temple;;;;;;;;;;;;;x
-ALT_SHIITE;The [shiite.GetName] Caliphate;;;;;;;;;;;;;x
-ALT_SHIITE_ADJ;[shiite.GetName] Caliphate;;;;;;;;;;;;;x
-ALT_SLAVIC;The [slavic_pagan_reformed.GetName] Temple;;;;;;;;;;;;;x
-ALT_SLAVIC_ADJ;[slavic_pagan_reformed.GetName] Temple;;;;;;;;;;;;;x
-ALT_SUNNI;The [sunni.GetName] Caliphate;;;;;;;;;;;;;x
-ALT_SUNNI_ADJ;[sunni.GetName] Caliphate;;;;;;;;;;;;;x
-ALT_SUOMENUSKO;The [finnish_pagan_reformed.GetName] Pontificate;;;;;;;;;;;;;x
-ALT_SUOMENUSKO_ADJ;[finnish_pagan_reformed.GetName] Pontificate;;;;;;;;;;;;;x
-ALT_TENGRI;The [tengri_pagan_reformed.GetName] Pontificate;;;;;;;;;;;;;x
-ALT_TENGRI_ADJ;[tengri_pagan_reformed.GetName] Pontificate;;;;;;;;;;;;;x
-ALT_WEST_AFRICAN;The [west_african_pagan_reformed.GetName] Paparchy;;;;;;;;;;;;;x
-ALT_WEST_AFRICAN_ADJ;[west_african_pagan_reformed.GetName] Paparchy;;;;;;;;;;;;;x
-ALT_YAZIDI;The [yazidi.GetName] Caliphate;;;;;;;;;;;;;x
-ALT_YAZIDI_ADJ;[yazidi.GetName] Caliphate;;;;;;;;;;;;;x
-ALT_ZORO;The [zoroastrian.GetName] Temple;;;;;;;;;;;;;x
-ALT_ZORO_ADJ;[zoroastrian.GetName] Temple;;;;;;;;;;;;;x
-ALT_ZUN;The [zun_pagan_reformed.GetName] Temple;;;;;;;;;;;;;x
-ALT_ZUN_ADJ;[zun_pagan_reformed.GetName] Temple;;;;;;;;;;;;;x
-
-DYNAMIC_NAME_1;[target_name.GetLastWordInDynastyName]a;;;;;;;;;;;;;x
-DYNAMIC_NAME_1_ADJ;[target_name.GetLastWordInDynastyName]an;;;;;;;;;;;;;x
-DYNAMIC_NAME_2;[target_name.GetFirstName]ia;;;;;;;;;;;;;x
-DYNAMIC_NAME_2_ADJ;[target_name.GetFirstName]ian;;;;;;;;;;;;;x
-DYNAMIC_NAME_3;[target_name.GetLastWordInDynastyName]land;;;;;;;;;;;;;x
-DYNAMIC_NAME_3_ADJ;[target_name.GetLastWordInDynastyName]landian;;;;;;;;;;;;;x
-DYNAMIC_NAME_4;[target_name.GetLastWordInDynastyName]en;;;;;;;;;;;;;x
-DYNAMIC_NAME_4_ADJ;[target_name.GetLastWordInDynastyName]enninger;;;;;;;;;;;;;x
-DYNAMIC_NAME_5;[target_name.GetLastWordInDynastyName]istan;;;;;;;;;;;;;x
-DYNAMIC_NAME_5_ADJ;[target_name.GetLastWordInDynastyName]istanian;;;;;;;;;;;;;x
-DYNAMIC_NAME_6;[target_name.GetLastWordInDynastyName]lia;;;;;;;;;;;;;x
-DYNAMIC_NAME_6_ADJ;[target_name.GetLastWordInDynastyName]icenian;;;;;;;;;;;;;x
-DYNAMIC_NAME_7;[target_name.GetLastWordInDynastyName]ny;;;;;;;;;;;;;x
-DYNAMIC_NAME_7_ADJ;[target_name.GetLastWordInDynastyName]nynan;;;;;;;;;;;;;x
-DYNAMIC_NAME_8;[target_name.GetLastWordInDynastyName]ia;;;;;;;;;;;;;x
-DYNAMIC_NAME_8_ADJ;[target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;;;x
-DYNAMIC_NAME_9;[target_name.GetFirstName]land;;;;;;;;;;;;;x
-DYNAMIC_NAME_9_ADJ;[target_name.GetFirstName]landian;;;;;;;;;;;;;x
-DYNAMIC_NAME_10;[target_name.GetLastWordInDynastyName];;;;;;;;;;;;;x
-DYNAMIC_NAME_10_ADJ;[target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;;;x
-DYNAMIC_NAME_11;[target_name.GetLastWordInDynastyName]ia Major;;;;;;;;;;;;;x
-DYNAMIC_NAME_11_ADJ;[target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;;;x
-DYNAMIC_NAME_12;[target_name.GetLastWordInDynastyName]ia Minor;;;;;;;;;;;;;x
-DYNAMIC_NAME_12_ADJ;[target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;;;x
-DYNAMIC_NAME_13;Lesser [target_name.GetLastWordInDynastyName]ia;;;;;;;;;;;;;x
-DYNAMIC_NAME_13_ADJ;Lesser [target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;;;x
-DYNAMIC_NAME_14;Greater [target_name.GetLastWordInDynastyName]ia;;;;;;;;;;;;;x
-DYNAMIC_NAME_14_ADJ;Greater [target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;;;x
-DYNAMIC_NAME_15;[target_name.GetLastWordInDynastyName]ex;;;;;;;;;;;;;x
-DYNAMIC_NAME_15_ADJ;[target_name.GetLastWordInDynastyName]exer;;;;;;;;;;;;;x
-DYNAMIC_NAME_16;[target_name.GetLastWordInDynastyName]vania;;;;;;;;;;;;;x
-DYNAMIC_NAME_16_ADJ;[target_name.GetLastWordInDynastyName]vanian;;;;;;;;;;;;;x
-DYNAMIC_NAME_17;[target_name.GetLastWordInDynastyName]ony;;;;;;;;;;;;;x
-DYNAMIC_NAME_17_ADJ;[target_name.GetLastWordInDynastyName]onian;;;;;;;;;;;;;x
-DYNAMIC_NAME_18;Lower [target_name.GetLastWordInDynastyName]ia;;;;;;;;;;;;;x
-DYNAMIC_NAME_18_ADJ;Lower [target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;;;x
-DYNAMIC_NAME_19;Upper [target_name.GetLastWordInDynastyName]ia;;;;;;;;;;;;;x
-DYNAMIC_NAME_19_ADJ;Upper [target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;;;x
-DYNAMIC_NAME_20;New [target_name.GetLastWordInDynastyName]ia;;;;;;;;;;;;;x
-DYNAMIC_NAME_20_ADJ;New [target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;;;x
-DYNAMIC_NAME_21;Old [target_name.GetLastWordInDynastyName]ia;;;;;;;;;;;;;x
-DYNAMIC_NAME_21_ADJ;Old [target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;;;x
-DYNAMIC_NAME_22;Central [target_name.GetLastWordInDynastyName]ia;;;;;;;;;;;;;x
-DYNAMIC_NAME_22_ADJ;Central [target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;;;x
-DYNAMIC_NAME_23;Nova [target_name.GetLastWordInDynastyName]ia;;;;;;;;;;;;;x
-DYNAMIC_NAME_23_ADJ;Nova [target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;;;x
-DYNAMIC_NAME_24;[target_name.GetLastWordInDynastyName]ine;;;;;;;;;;;;;x
-DYNAMIC_NAME_24_ADJ;[target_name.GetLastWordInDynastyName]inerian;;;;;;;;;;;;;x
-DYNAMIC_NAME_25;[target_name.GetLastWordInDynastyName]rike;;;;;;;;;;;;;x
-DYNAMIC_NAME_25_ADJ;[target_name.GetLastWordInDynastyName]riker;;;;;;;;;;;;;x
-DYNAMIC_NAME_26;[target_name.GetLastWordInDynastyName]inia;;;;;;;;;;;;;x
-DYNAMIC_NAME_26_ADJ;[target_name.GetLastWordInDynastyName]inian;;;;;;;;;;;;;x
-DYNAMIC_NAME_27;[target_name.GetLastWordInDynastyName]icenia;;;;;;;;;;;;;x
-DYNAMIC_NAME_27_ADJ;[target_name.GetLastWordInDynastyName]icenian;;;;;;;;;;;;;x
-
+ALT_AZTEC;The [aztec_pagan_reformed.GetName] Pontificate;;;;;;;;;;;[aztec_pagan_reformed.GetName]ñêèé ïîíòèôèêàò;;x
+ALT_AZTEC_ADJ;[aztec_pagan_reformed.GetName] Pontificate;;;;;;;;;;;[aztec_pagan_reformed.GetName];;x
+ALT_BON;The [bon_pagan_reformed.GetName] Paparchy;;;;;;;;;;;[bon_reformed.GetName]ñêàÿ öåðêîâü;;x
+ALT_BON_ADJ;[bon_pagan_reformed.GetName] Paparchy;;;;;;;;;;;[bon_reformed.GetName];;x
+ALT_BYZ;[target_ruler.Culture.GetGroupName] Empire;;;;;;;;;;;[target_ruler.GetCultureGroupAdj] Èìïåðèÿ;;x
+ALT_BYZ_ADJ;[target_ruler.Culture.GetGroupName];;;;;;;;;;;[target_ruler.GetCultureGroupAdjShort];;x
+ALT_CATHOLIC;The [catholic.GetName] Papacy;;;;;;;;;;;[catholic.GetName]ñêîå Ïàïñòâî;;x
+ALT_CATHOLIC_ADJ;[catholic.GetName] Papacy;;;;;;;;;;;[catholic.GetName];;x
+ALT_FRATICELLI;The [fraticelli.GetName] Temple;;;;;;;;;;;[fraticelli.GetName]ñêàÿ öåðêîâü;;x
+ALT_FRATICELLI_ADJ;[fraticelli.GetName] Temple;;;;;;;;;;;[fraticelli.GetName];;x
+ALT_HO_LOCATION;Knights of [coa_target.GetName];;;;;;;;;;;[coa_target.GetAdjective]ñêèå Ðûöàðè;;x
+ALT_HO_LOCATION_ADJ;[coa_target.GetName];;;;;;;;;;;[coa_target.GetAdjective];;x
+ALT_HRE;[GetRandomHREPrefix] [target_ruler.Culture.GetName] Empire;;;;;;;;;;;[GetRandomHREPrefix]àÿ [target_ruler.GetCultureAdj]àÿ Èìïåðèÿ;;x
+ALT_HRE_ADJ;[GetRandomHREPrefix] [target_ruler.Culture.GetName];;;;;;;;;;;[target_ruler.GetCultureAdj];;x
+ALT_HURUFI;The [hurufi.GetName] Caliphate;;;;;;;;;;;[hurufi.GetName]ñêèé õàëèôàò;;x
+ALT_HURUFI_ADJ;[hurufi.GetName] Caliphate;;;;;;;;;;;[hurufi.GetName];;x
+ALT_IBADI;The [ibadi.GetName] Caliphate;;;;;;;;;;;[ibadi.GetName]ñêèé õàëèôàò;;x
+ALT_IBADI_ADJ;[ibadi.GetName] Caliphate;;;;;;;;;;;[ibadi.GetName];;x
+ALT_ICONOCLAST;The [iconoclast.GetName] Temple;;;;;;;;;;;[iconoclast.GetName]ñêàÿ öåðêîâü;;x
+ALT_ICONOCLAST_ADJ;[iconoclast.GetName] Temple;;;;;;;;;;;[iconoclast.GetName];;x
+ALT_JEWISH;The [jewish.GetName] Paparchy;;;;;;;;;;;[jewish.GetName]ñêàÿ öåðêîâü;;x
+ALT_JEWISH_ADJ;[jewish.GetName] Paparchy;;;;;;;;;;;[jewish.GetName];;x
+ALT_KHARIJITE;The [kharijite.GetName] Caliphate;;;;;;;;;;;[kharijite.GetName]ñêèé õàëèôàò;;x
+ALT_KHARIJITE_ADJ;[kharijite.GetName] Caliphate;;;;;;;;;;;[kharijite.GetName];;x
+ALT_MANICHAEAN;The [manichaean.GetName] Pontificate;;;;;;;;;;;[manichaean.GetName]ñêèé ïîíòèôèêàò;;x
+ALT_MANICHAEAN_ADJ;[manichaean.GetName] Pontificate;;;;;;;;;;;[manichaean.GetName];;x
+ALT_MERC_ARMY;[renaming_target.Culture.GetName] Army;;;;;;;;;;;[renaming_target.GetCultureAdj]àÿ àðìèÿ;;x
+ALT_MERC_ARMY_ADJ;[renaming_target.Culture.GetName];;;;;;;;;;;[renaming_target.GetCultureAdj];;x
+ALT_MERC_BAND;[renaming_target.Culture.GetName] Band;;;;;;;;;;;[renaming_target.GetCultureAdj]àÿ áàíäà;;x
+ALT_MERC_BAND_ADJ;[renaming_target.Culture.GetName];;;;;;;;;;;[renaming_target.GetCultureAdj];;x
+ALT_MERC_BROTHERS;[renaming_target.Location.County.GetAdjective] [renaming_target.Culture.GetName] Brothers;;;;;;;;;;;[renaming_target.Location.County.GetAdjective]ñêèå [renaming_target.GetCultureAdj]èå áðàòüÿ;;x
+ALT_MERC_BROTHERS_ADJ;[renaming_target.Location.County.GetAdjective] [renaming_target.Culture.GetName];;;;;;;;;;;[renaming_target.Location.County.GetAdjective];;x
+ALT_MERC_COMPANY;[renaming_target.Religion.GetName] [renaming_target.Culture.GetName] Company;;;;;;;;;;;[renaming_target.GetRelAdj]ñêàÿ [renaming_target.GetCultureAdj]àÿ êîìïàíèÿ;;x
+ALT_MERC_COMPANY_ADJ;[renaming_target.Religion.GetName] [renaming_target.Culture.GetName];;;;;;;;;;;[renaming_target.GetRelAdj];;x
+ALT_MERC_COMPANY_ALT;[renaming_target.Location.County.GetAdjective] Company;;;;;;;;;;;[renaming_target.Location.County.GetAdjective]ñêàÿ êîìïàíèÿ;;x
+ALT_MERC_COMPANY_ALT_ADJ;[renaming_target.Location.County.GetAdjective];;;;;;;;;;;[renaming_target.Location.County.GetAdjective];;x
+ALT_MERC_NAVY;[renaming_target.Culture.GetName]-[renaming_target.Location.County.GetAdjective] Navy;;;;;;;;;;;[renaming_target.GetCultureAdj]èé [renaming_target.Location.County.GetAdjective]ñêèé ôëîò;;x
+ALT_MERC_NAVY_ADJ;[renaming_target.Culture.GetName]-[renaming_target.Location.County.GetAdjective];;;;;;;;;;;[renaming_target.Location.County.GetAdjective];;x
+ALT_MIA;The [miaphysite.GetName] Paparchy;;;;;;;;;;;[miaphysite.GetName]ñêàÿ öåðêîâü;;x
+ALT_MIA_ADJ;[miaphysite.GetName] Temple;;;;;;;;;;;[miaphysite.GetName];;x
+ALT_MONO;The [monophysite.GetName] Paparchy;;;;;;;;;;;[monophysite.GetName]ñêàÿ öåðêîâü;;x
+ALT_MONO_ADJ;[monophysite.GetName] Paparchy;;;;;;;;;;;[monophysite.GetName];;x
+ALT_MONOTHELITE;The [monothelite.GetName] Paparchy;;;;;;;;;;;[monothelite.GetName]ñêàÿ öåðêîâü;;x
+ALT_MONOTHELITE_ADJ;[monothelite.GetName] Paparchy;;;;;;;;;;;[monothelite.GetName];;x
+ALT_NESTORIAN;The [nestorian.GetName] Pontificate;;;;;;;;;;;[nestorian.GetName]ñêèé ïîíòèôèêàò;;x
+ALT_NESTORIAN_ADJ;[nestorian.GetName] Pontificate;;;;;;;;;;;[nestorian.GetName];;x
+ALT_ORTHODOX;The [orthodox.GetName] Temple;;;;;;;;;;;[orthodox.GetName]ñêàÿ öåðêîâü;;x
+ALT_ORTHODOX_ADJ;[orthodox.GetName] Temple;;;;;;;;;;;[orthodox.GetName];;x
+ALT_PAUL;The [paulician.GetName] Temple;;;;;;;;;;;[paulician.GetName]ñêàÿ öåðêîâü;;x
+ALT_PAUL_ADJ;[paulician.GetName] Temple;;;;;;;;;;;[paulician.GetName];;x
+ALT_ROMUVA;The [baltic_pagan_reformed.GetName] Temple;;;;;;;;;;;[baltic_pagan_reformed.GetName]ñêàÿ öåðêîâü;;x
+ALT_ROMUVA_ADJ;[baltic_pagan_reformed.GetName] Temple;;;;;;;;;;;[baltic_pagan_reformed.GetName];;x
+ALT_SHIITE;The [shiite.GetName] Caliphate;;;;;;;;;;;[shiite.GetName]ñêèé õàëèôàò;;x
+ALT_SHIITE_ADJ;[shiite.GetName] Caliphate;;;;;;;;;;;[shiite.GetName];;x
+ALT_SLAVIC;The [slavic_pagan_reformed.GetName] Temple;;;;;;;;;;;[slavic_pagan_reformed.GetName]ñêàÿ öåðêîâü;;x
+ALT_SLAVIC_ADJ;[slavic_pagan_reformed.GetName] Temple;;;;;;;;;;;[slavic_pagan_reformed.GetName];;x
+ALT_SUNNI;The [sunni.GetName] Caliphate;;;;;;;;;;;[sunni.GetName]ñêèé õàëèôàò;;x
+ALT_SUNNI_ADJ;[sunni.GetName] Caliphate;;;;;;;;;;;[sunni.GetName];;x
+ALT_SUOMENUSKO;The [finnish_pagan_reformed.GetName] Pontificate;;;;;;;;;;;[finnish_pagan_reformed.GetName]ñêèé ïîíòèôèêàò;;x
+ALT_SUOMENUSKO_ADJ;[finnish_pagan_reformed.GetName] Pontificate;;;;;;;;;;;[finnish_pagan_reformed.GetName];;x
+ALT_TENGRI;The [tengri_pagan_reformed.GetName] Pontificate;;;;;;;;;;;[tengri_pagan_reformed.GetName]ñêèé ïîíòèôèêàò;;x
+ALT_TENGRI_ADJ;[tengri_pagan_reformed.GetName] Pontificate;;;;;;;;;;;[tengri_pagan_reformed.GetName];;x
+ALT_WEST_AFRICAN;The [west_african_pagan_reformed.GetName] Paparchy;;;;;;;;;;;[west_african_pagan_reformed.GetName]ñêàÿ öåðêîâü;;x
+ALT_WEST_AFRICAN_ADJ;[west_african_pagan_reformed.GetName] Paparchy;;;;;;;;;;;[west_african_pagan_reformed.GetName];;x
+ALT_YAZIDI;The [yazidi.GetName] Caliphate;;;;;;;;;;;[yazidi.GetName]ñêèé õàëèôàò;;x
+ALT_YAZIDI_ADJ;[yazidi.GetName] Caliphate;;;;;;;;;;;[yazidi.GetName];;x
+ALT_ZORO;The [zoroastrian.GetName] Temple;;;;;;;;;;;[zoroastrian.GetName]ñêàÿ öåðêîâü;;x
+ALT_ZORO_ADJ;[zoroastrian.GetName] Temple;;;;;;;;;;;[zoroastrian.GetName];;x
+ALT_ZUN;The [zun_pagan_reformed.GetName] Temple;;;;;;;;;;;[zun_pagan_reformed.GetName]ñêàÿ öåðêîâü;;x
+ALT_ZUN_ADJ;[zun_pagan_reformed.GetName] Temple;;;;;;;;;;;[zun_pagan_reformed.GetName];;x
+DYNAMIC_NAME_1;[target_name.GetLastWordInDynastyName]a;;;;;;;;;;;[target_name.GetLastWordInDynastyName]àíèÿ;;x
+DYNAMIC_NAME_1_ADJ;[target_name.GetLastWordInDynastyName]an;;;;;;;;;;;[target_name.GetLastWordInDynastyName];;x
+DYNAMIC_NAME_2;[target_name.GetFirstName]ia;;;;;;;;;;;[target_name.GetFirstName]íèÿ;;x
+DYNAMIC_NAME_2_ADJ;[target_name.GetFirstName]ian;;;;;;;;;;;[target_name.GetFirstName]èí;;x
+DYNAMIC_NAME_3;[target_name.GetLastWordInDynastyName]land;;;;;;;;;;;[target_name.GetLastWordInDynastyName]ëàíäèÿ;;x
+DYNAMIC_NAME_3_ADJ;[target_name.GetLastWordInDynastyName]landian;;;;;;;;;;;[target_name.GetLastWordInDynastyName]ëàíä;;x
+DYNAMIC_NAME_4;[target_name.GetLastWordInDynastyName]en;;;;;;;;;;;[target_name.GetLastWordInDynastyName]èíèÿ;;x
+DYNAMIC_NAME_4_ADJ;[target_name.GetLastWordInDynastyName]enninger;;;;;;;;;;;[target_name.GetLastWordInDynastyName]èí;;x
+DYNAMIC_NAME_5;[target_name.GetLastWordInDynastyName]istan;;;;;;;;;;;[target_name.GetLastWordInDynastyName]èñòàí;;x
+DYNAMIC_NAME_5_ADJ;[target_name.GetLastWordInDynastyName]istanian;;;;;;;;;;;[target_name.GetLastWordInDynastyName]èñòàí;;x
+DYNAMIC_NAME_6;[target_name.GetLastWordInDynastyName]lia;;;;;;;;;;;[target_name.GetLastWordInDynastyName]àëèÿ;;x
+DYNAMIC_NAME_6_ADJ;[target_name.GetLastWordInDynastyName]icenian;;;;;;;;;;;[target_name.GetLastWordInDynastyName]àëü;;x
+DYNAMIC_NAME_7;[target_name.GetLastWordInDynastyName]ny;;;;;;;;;;;[target_name.GetLastWordInDynastyName]íà;;x
+DYNAMIC_NAME_7_ADJ;[target_name.GetLastWordInDynastyName]nynan;;;;;;;;;;;[target_name.GetLastWordInDynastyName]í;;x
+DYNAMIC_NAME_8;[target_name.GetLastWordInDynastyName]ia;;;;;;;;;;;[target_name.GetLastWordInDynastyName]îíèÿ;;x
+DYNAMIC_NAME_8_ADJ;[target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;[target_name.GetLastWordInDynastyName]îí;;x
+DYNAMIC_NAME_9;[target_name.GetFirstName]land;;;;;;;;;;;[target_name.GetFirstName]ëàíä;;x
+DYNAMIC_NAME_9_ADJ;[target_name.GetFirstName]landian;;;;;;;;;;;[target_name.GetFirstName]ëàíä;;x
+DYNAMIC_NAME_10;[target_name.GetLastWordInDynastyName];;;;;;;;;;;[target_name.GetLastWordInDynastyName];;x
+DYNAMIC_NAME_10_ADJ;[target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;[target_name.GetLastWordInDynastyName]àí;;x
+DYNAMIC_NAME_11;[target_name.GetLastWordInDynastyName]ia Major;;;;;;;;;;;Âîñòî÷íàÿ [target_name.GetLastWordInDynastyName]íèÿ;;x
+DYNAMIC_NAME_11_ADJ;[target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;[target_name.GetLastWordInDynastyName];;x
+DYNAMIC_NAME_12;[target_name.GetLastWordInDynastyName]ia Minor;;;;;;;;;;;Çàïàäíàÿ [target_name.GetLastWordInDynastyName]íèÿ;;x
+DYNAMIC_NAME_12_ADJ;[target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;[target_name.GetLastWordInDynastyName];;x
+DYNAMIC_NAME_13;Lesser [target_name.GetLastWordInDynastyName]ia;;;;;;;;;;;Ìàëàÿ [target_name.GetLastWordInDynastyName]íèÿ;;x
+DYNAMIC_NAME_13_ADJ;Lesser [target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;[target_name.GetLastWordInDynastyName];;x
+DYNAMIC_NAME_14;Greater [target_name.GetLastWordInDynastyName]ia;;;;;;;;;;;Âåëèêàÿ [target_name.GetLastWordInDynastyName]íèÿ;;x
+DYNAMIC_NAME_14_ADJ;Greater [target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;[target_name.GetLastWordInDynastyName];;x
+DYNAMIC_NAME_15;[target_name.GetLastWordInDynastyName]ex;;;;;;;;;;;[target_name.GetLastWordInDynastyName]àêñîíèÿ;;x
+DYNAMIC_NAME_15_ADJ;[target_name.GetLastWordInDynastyName]exer;;;;;;;;;;;[target_name.GetLastWordInDynastyName]àêñîí;;x
+DYNAMIC_NAME_16;[target_name.GetLastWordInDynastyName]vania;;;;;;;;;;;[target_name.GetLastWordInDynastyName]âàíèÿ;;x
+DYNAMIC_NAME_16_ADJ;[target_name.GetLastWordInDynastyName]vanian;;;;;;;;;;;[target_name.GetLastWordInDynastyName]âàí;;x
+DYNAMIC_NAME_17;[target_name.GetLastWordInDynastyName]ony;;;;;;;;;;;[target_name.GetLastWordInDynastyName]îíèÿ;;x
+DYNAMIC_NAME_17_ADJ;[target_name.GetLastWordInDynastyName]onian;;;;;;;;;;;[target_name.GetLastWordInDynastyName]îí;;x
+DYNAMIC_NAME_18;Lower [target_name.GetLastWordInDynastyName]ia;;;;;;;;;;;Íèæíÿÿ [target_name.GetLastWordInDynastyName]íèÿ;;x
+DYNAMIC_NAME_18_ADJ;Lower [target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;[target_name.GetLastWordInDynastyName];;x
+DYNAMIC_NAME_19;Upper [target_name.GetLastWordInDynastyName]ia;;;;;;;;;;;Âåðõíÿÿ [target_name.GetLastWordInDynastyName]íèÿ;;x
+DYNAMIC_NAME_19_ADJ;Upper [target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;[target_name.GetLastWordInDynastyName];;x
+DYNAMIC_NAME_20;New [target_name.GetLastWordInDynastyName]ia;;;;;;;;;;;Íîâàÿ [target_name.GetLastWordInDynastyName]íèÿ;;x
+DYNAMIC_NAME_20_ADJ;New [target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;[target_name.GetLastWordInDynastyName];;x
+DYNAMIC_NAME_21;Old [target_name.GetLastWordInDynastyName]ia;;;;;;;;;;;Ñòàðàÿ [target_name.GetLastWordInDynastyName]íèÿ;;x
+DYNAMIC_NAME_21_ADJ;Old [target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;[target_name.GetLastWordInDynastyName];;x
+DYNAMIC_NAME_22;Central [target_name.GetLastWordInDynastyName]ia;;;;;;;;;;;Ñðåäèííàÿ [target_name.GetLastWordInDynastyName]íèÿ;;x
+DYNAMIC_NAME_22_ADJ;Central [target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;[target_name.GetLastWordInDynastyName];;x
+DYNAMIC_NAME_23;Nova [target_name.GetLastWordInDynastyName]ia;;;;;;;;;;;Íîâà [target_name.GetLastWordInDynastyName]àíà;;x
+DYNAMIC_NAME_23_ADJ;Nova [target_name.GetLastWordInDynastyName]ian;;;;;;;;;;;[target_name.GetLastWordInDynastyName]àí;;x
+DYNAMIC_NAME_24;[target_name.GetLastWordInDynastyName]ine;;;;;;;;;;;[target_name.GetLastWordInDynastyName]èíà;;x
+DYNAMIC_NAME_24_ADJ;[target_name.GetLastWordInDynastyName]inerian;;;;;;;;;;;[target_name.GetLastWordInDynastyName]èí;;x
+DYNAMIC_NAME_25;[target_name.GetLastWordInDynastyName]rike;;;;;;;;;;;[target_name.GetLastWordInDynastyName]ðèêè;;x
+DYNAMIC_NAME_25_ADJ;[target_name.GetLastWordInDynastyName]riker;;;;;;;;;;;[target_name.GetLastWordInDynastyName]ðèê;;x
+DYNAMIC_NAME_26;[target_name.GetLastWordInDynastyName]inia;;;;;;;;;;;[target_name.GetLastWordInDynastyName]èíãèÿ;;x
+DYNAMIC_NAME_26_ADJ;[target_name.GetLastWordInDynastyName]inian;;;;;;;;;;;[target_name.GetLastWordInDynastyName]èíã;;x
+DYNAMIC_NAME_27;[target_name.GetLastWordInDynastyName]icenia;;;;;;;;;;;[target_name.GetLastWordInDynastyName]èêåíèÿ;;x
+DYNAMIC_NAME_27_ADJ;[target_name.GetLastWordInDynastyName]icenian;;;;;;;;;;;[target_name.GetLastWordInDynastyName]èêåí;;x
 # customizable localisation keys
-alt_start_community_desc;Even under oppression the true faith lives on. As we worship in secret more and more join our cause, attracted by our righteous ways. Soon we will rise up and reclaim our place in the light!;;;;;;;;;;;;;x
-alt_start_community_name_aztec_pagan;The [aztec_pagan.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_aztec_pagan_reformed;The [aztec_pagan_reformed.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_baltic_pagan;The [baltic_pagan.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_baltic_pagan_reformed;The [baltic_pagan_reformed.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_bogomilist;The [bogomilist.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_bon_pagan;The [bon_pagan.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_bon_pagan_reformed;The [bon_pagan_reformed.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_buddhist;The [buddhist.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_cathar;The [cathar.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_catholic;The [catholic.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_druze;The [druze.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_finnish_pagan;The [finnish_pagan.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_finnish_pagan_reformed;The [finnish_pagan_reformed.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_fraticelli;The [fraticelli.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_hellenic_pagan;The [hellenic_pagan.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_hellenic_pagan_reformed;The [hellenic_pagan_reformed.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_hindu;The [hindu.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_hurufi;The [hurufi.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_ibadi;The [ibadi.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_iconoclast;The [iconoclast.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_jain;The [jain.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_jewish;The [jewish.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_karaite;The [karaite.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_kharijite;The [kharijite.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_khurmazta;The [khurmazta.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_lollard;The [lollard.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_manichaean;The [manichaean.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_mazdaki;The [mazdaki.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_messalian;The [messalian.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_miaphysite;The [miaphysite.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_monophysite;The [monophysite.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_monothelite;The [monothelite.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_nestorian;The [nestorian.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_norse_pagan;The [norse_pagan.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_norse_pagan_reformed;The [norse_pagan_reformed.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_orthodox;The [orthodox.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_paulician;The [paulician.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_qarmatian;The [qarmatian.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_samaritan;The [samaritan.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_shiite;The [shiite.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_slavic_pagan;The [slavic_pagan.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_slavic_pagan_reformed;The [slavic_pagan_reformed.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_sunni;The [sunni.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_taoist;The [taoist.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_tengri_pagan;The [tengri_pagan.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_tengri_pagan_reformed;The [tengri_pagan_reformed.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_waldensian;The [waldensian.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_west_african_pagan;The [west_african_pagan.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_west_african_pagan_reformed;The [west_african_pagan_reformed.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_yazidi;The [yazidi.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_zikri;The [zikri.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_zoroastrian;The [zoroastrian.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_zun_pagan;The [zun_pagan.GetName] Faithful;;;;;;;;;;;;;x
-alt_start_community_name_zun_pagan_reformed;The [zun_pagan_reformed.GetName] Faithful;;;;;;;;;;;;;x
+alt_start_community_desc;Even under oppression the true faith lives on. As we worship in secret more and more join our cause, attracted by our righteous ways. Soon we will rise up and reclaim our place in the light!;;;;;;;;;;;Äàæå ïîä ãí¸òîì îôèöèàëüíûõ äîãì èñòèííàÿ âåðà ïðîäîëæàåò æèòü. Ìû ÷òèì å¸ òàéíî, è ñî âðåìåíåì âñ¸ áîëüøå ëþäåé ïðèñîåäèíÿþòñÿ ê íàøåìó äåëó, âëåêîìûå íàøåé ïðàâåäíîñòüþ. Ñêîðî ìû âîññòàíåì è ïðîëü¸ì ñâåò èñòèíû íà ýòîò ìèð!;;x
+alt_start_community_name_aztec_pagan;The [aztec_pagan.GetName] Faithful;;;;;;;;;;;Âåðíûå [aztec_pagan.GetName]û;;x
+alt_start_community_name_aztec_pagan_reformed;The [aztec_pagan_reformed.GetName] Faithful;;;;;;;;;;;Âåðíûå [aztec_pagan_reformed.GetName]û;;x
+alt_start_community_name_baltic_pagan;The [baltic_pagan.GetName] Faithful;;;;;;;;;;;Âåðíûå [baltic_pagan.GetName]û;;x
+alt_start_community_name_baltic_pagan_reformed;The [baltic_pagan_reformed.GetName] Faithful;;;;;;;;;;;Âåðíûå [baltic_pagan_reformed.GetName]û;;x
+alt_start_community_name_bogomilist;The [bogomilist.GetName] Faithful;;;;;;;;;;;Âåðíûå [_áîãîìèë]û;;x
+alt_start_community_name_bon_pagan;The [bon_pagan.GetName] Faithful;;;;;;;;;;;Âåðíûå [_áîíïî];;x
+alt_start_community_name_bon_pagan_reformed;The [bon_pagan_reformed.GetName] Faithful;;;;;;;;;;;Âåðíûå [_áîíïî_];;x
+alt_start_community_name_buddhist;The [buddhist.GetName] Faithful;;;;;;;;;;;Âåðíûå [buddhist.GetName]û;;x
+alt_start_community_name_cathar;The [cathar.GetName] Faithful;;;;;;;;;;;Âåðíûå [êàòàð]û;;x
+alt_start_community_name_catholic;The [catholic.GetName] Faithful;;;;;;;;;;;Âåðíûå [catholic.GetName]û;;x
+alt_start_community_name_druze;The [druze.GetName] Faithful;;;;;;;;;;;Âåðíûå [äðóç]û;;x
+alt_start_community_name_finnish_pagan;The [finnish_pagan.GetName] Faithful;;;;;;;;;;;Âåðíûå [finnish_pagan.GetName]û;;x
+alt_start_community_name_finnish_pagan_reformed;The [finnish_pagan_reformed.GetName] Faithful;;;;;;;;;;;Âåðíûå [finnish_pagan_reformed.GetName]û;;x
+alt_start_community_name_fraticelli;The [fraticelli.GetName] Faithful;;;;;;;;;;;Âåðíûå [_ôðàòè÷åëëè];;x
+alt_start_community_name_hellenic_pagan;The [hellenic_pagan.GetName] Faithful;;;;;;;;;;;Âåðíûå [ýëëèí]û;;x
+alt_start_community_name_hellenic_pagan_reformed;The [hellenic_pagan_reformed.GetName] Faithful;;;;;;;;;;;Âåðíûå [ýëëèí]û;;x
+alt_start_community_name_hindu;The [hindu.GetName] Faithful;;;;;;;;;;;Âåðíûå [hindu.GetName]û;;x
+alt_start_community_name_hurufi;The [hurufi.GetName] Faithful;;;;;;;;;;;Âåðíûå [hurufi.GetName]û;;x
+alt_start_community_name_ibadi;The [ibadi.GetName] Faithful;;;;;;;;;;;Âåðíûå [èáàäèò]û;;x
+alt_start_community_name_iconoclast;The [iconoclast.GetName] Faithful;;;;;;;;;;;Âåðíûå [iconoclast.GetName]û;;x
+alt_start_community_name_jain;The [jain.GetName] Faithful;;;;;;;;;;;Âåðíûå [jain.GetName]û;;x
+alt_start_community_name_jewish;The [jewish.GetName] Faithful;;;;;;;;;;;Âåðíûå [jewish.GetName]û;;x
+alt_start_community_name_karaite;The [karaite.GetName] Faithful;;;;;;;;;;;Âåðíûå [karaite.GetName]û;;x
+alt_start_community_name_kharijite;The [kharijite.GetName] Faithful;;;;;;;;;;;Âåðíûå [õàðèäæèò]û;;x
+alt_start_community_name_khurmazta;The [khurmazta.GetName] Faithful;;;;;;;;;;;Âåðíûå [khurmazta.GetName]û;;x
+alt_start_community_name_lollard;The [lollard.GetName] Faithful;;;;;;;;;;;Âåðíûå [ëîëëàðä]û;;x
+alt_start_community_name_manichaean;The [manichaean.GetName] Faithful;;;;;;;;;;;Âåðíûå [manichaean.GetName]û;;x
+alt_start_community_name_mazdaki;The [mazdaki.GetName] Faithful;;;;;;;;;;;Âåðíûå [mazdaki.GetName]û;;x
+alt_start_community_name_messalian;The [messalian.GetName] Faithful;;;;;;;;;;;Âåðíûå [messalian.GetName]û;;x
+alt_start_community_name_miaphysite;The [miaphysite.GetName] Faithful;;;;;;;;;;;Âåðíûå [ìèàôèçèò]û;;x
+alt_start_community_name_monophysite;The [monophysite.GetName] Faithful;;;;;;;;;;;Âåðíûå [ìîíîôèçèò]û;;x
+alt_start_community_name_monothelite;The [monothelite.GetName] Faithful;;;;;;;;;;;Âåðíûå [ìîíîôåëèò]û;;x
+alt_start_community_name_nestorian;The [nestorian.GetName] Faithful;;;;;;;;;;;Âåðíûå [nestorian.GetName]û;;x
+alt_start_community_name_norse_pagan;The [norse_pagan.GetName] Faithful;;;;;;;;;;;Âåðíûå [_àñàòðó];;x
+alt_start_community_name_norse_pagan_reformed;The [norse_pagan_reformed.GetName] Faithful;;;;;;;;;;;Âåðíûå [__àñàòðó];;x
+alt_start_community_name_orthodox;The [orthodox.GetName] Faithful;;;;;;;;;;;Âåðíûå [orthodox.GetName]û;;x
+alt_start_community_name_paulician;The [paulician.GetName] Faithful;;;;;;;;;;;Âåðíûå [paulician.GetName]û;;x
+alt_start_community_name_qarmatian;The [qarmatian.GetName] Faithful;;;;;;;;;;;Âåðíûå [qarmatian.GetName]û;;x
+alt_start_community_name_samaritan;The [samaritan.GetName] Faithful;;;;;;;;;;;Âåðíûå [samaritan.GetName]û;;x
+alt_start_community_name_shiite;The [shiite.GetName] Faithful;;;;;;;;;;;Âåðíûå [øèèòû]û;;x
+alt_start_community_name_slavic_pagan;The [slavic_pagan.GetName] Faithful;;;;;;;;;;;Âåðíûå [ðîäîâåð]û;;x
+alt_start_community_name_slavic_pagan_reformed;The [slavic_pagan_reformed.GetName] Faithful;;;;;;;;;;;Âåðíûå [ðîäîâåð]û;;x
+alt_start_community_name_sunni;The [sunni.GetName] Faithful;;;;;;;;;;;Âåðíûå [ñóííèò]û;;x
+alt_start_community_name_taoist;The [taoist.GetName] Faithful;;;;;;;;;;;Âåðíûå [taoist.GetName]û;;x
+alt_start_community_name_tengri_pagan;The [tengri_pagan.GetName] Faithful;;;;;;;;;;;Âåðíûå [tengri_pagan.GetName]û;;x
+alt_start_community_name_tengri_pagan_reformed;The [tengri_pagan_reformed.GetName] Faithful;;;;;;;;;;;Âåðíûå [tengri_pagan_reformed.GetName]û;;x
+alt_start_community_name_waldensian;The [waldensian.GetName] Faithful;;;;;;;;;;;Âåðíûå [_âàëüäåíñ]û;;x
+alt_start_community_name_west_african_pagan;The [west_african_pagan.GetName] Faithful;;;;;;;;;;;Âåðíûå [west_african_pagan.GetName]û;;x
+alt_start_community_name_west_african_pagan_reformed;The [west_african_pagan_reformed.GetName] Faithful;;;;;;;;;;;Âåðíûå [west_african_pagan_reformed.GetName]û;;x
+alt_start_community_name_yazidi;The [yazidi.GetName] Faithful;;;;;;;;;;;Âåðíûå [åçèä]û;;x
+alt_start_community_name_zikri;The [zikri.GetName] Faithful;;;;;;;;;;;Âåðíûå [zikri.GetName]û;;x
+alt_start_community_name_zoroastrian;The [zoroastrian.GetName] Faithful;;;;;;;;;;;Âåðíûå [zoroastrian.GetName]û;;x
+alt_start_community_name_zun_pagan;The [zun_pagan.GetName] Faithful;;;;;;;;;;;Âåðíûå [zun_pagan.GetName]û;;x
+alt_start_community_name_zun_pagan_reformed;The [zun_pagan_reformed.GetName] Faithful;;;;;;;;;;;Âåðíûå [zun_pagan_reformed.GetName]û;;x

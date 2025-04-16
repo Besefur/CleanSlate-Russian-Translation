@@ -1,95 +1,89 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC_77800_A;My magnificent pet owl has finally taken her last breath. Although I have been her guardian for a long time, now when it is time to send her off, I realize that perhaps she has also been watching over me?;;;;;;;;;;;;;x
-EVTDESC_77800_B;My owl won't wake up. They tell me she has moved on to the next world, but why would she not tell me?;;;;;;;;;;;;;x
-EVTDESC_77801_A;A servant gasps as I throw myself from the balcony. Wind in my hair, I soar through the air and it feels like it goes on forever. The landing I make is soft - I'm surrounded by hay! A pigeon looks at me skeptically.;;;;;;;;;;;;;x
-EVTDESC_77801_B;A servant gasps as I step off from the balcony. He does not know I can fly! The air caresses my cheek as I am carried forward by the wind, with incredible speed!;;;;;;;;;;;;;x
-EVTDESC_77802_A;My magnificent cat curled up in its favorite spot by the window last night. I think now that maybe it knew it did not have long left in this world. At least it went peacefully.\n;;;;;;;;;;;;;x
-EVTDESC_77802_B;They tell me my cat left to visit one of my distant aunts. Apparently, this aunt has a nice house in the country and my cat will be very happy there, roaming the wilderness, playing with a bunch of other cats.;;;;;;;;;;;;;x
-EVTDESC_77803;The guard nods hesitantly and somewhat sullenly walks away. "Don't argue!" I yell after him, as he disappears down the corridor.\nNow that I think about it, I never smelled any smoke, and later I find a small grave behind the stables!;;;;;;;;;;;;;x
-EVTDESC_77851;Lately I have had reasons to believe that [cat_hater.GetFirstName] has less than warm feelings for my feline companion. Today my suspicions were confirmed as [cat_hater.GetSheHe] threw a fit when the cat drank from [cat_hater.GetHerHis] cup! [cat_hater.GetSheHeCap] demands that I get rid of my pet.;;;;;;;;;;;;;x
-EVTDESC_77852;Today I decided to go and visit my cat at [From.GetTitledFirstName]'s residence. When I arrived I found [From.GetHerHim] playing most enthusiastically with the little furball. I watched them for several minutes before I announced myself.;;;;;;;;;;;;;x
-EVTDESC_77852_dog;Today I decided to go and visit my dog at [From.GetTitledFirstName]'s residence. When I arrived I found them playing together most enthusiastically. I watched them for several minutes before I announced myself.;;;;;;;;;;;;;x
-EVTDESC_77853;Today I decided to go and visit my cat at [From.GetTitledFirstName]'s residence. However, when I arrived, [From.GetSheHe] could not produce the feline. When I angrily demanded to know the truth [From.GetSheHe] admitted to having gotten rid of the cat a few days earlier.;;;;;;;;;;;;;x
-EVTDESC_77853_dog;Today I decided to go and visit my dog at [From.GetTitledFirstName]'s residence. However, when I arrived, [From.GetSheHe] could not produce the canine. When I angrily demanded to know the truth [From.GetSheHe] admitted to having gotten rid of the dog a few days earlier.;;;;;;;;;;;;;x
-EVTDESC_77854;Things have been tense between [cat_hater.GetFirstName] and I since [cat_hater.GetSheHe] threw the tantrum the other today. [cat_hater.GetSheHeCap] has grown more and more irritated. Today it culminated in a harsh ultimatum – I must make a choice between [cat_hater.GetSheHe] and the cat.;;;;;;;;;;;;;x
-EVTDESC_77856;When it is sleeping or cuddling on my lap, my cat is a precious angel. I do not understand how something can be so calm in one moment, only to fly across the room in the next. When it gets these fits it climbs all over my belongings, and it is only a matter of luck if something does not break.;;;;;;;;;;;;;x
-EVTDESC_77857_CAT;[rabbit_parent.GetTitledFirstName] angrily bursts into my throne room. Apparently my beloved cat has killed [rabbit_parent.GetHerHis] [rabbit_child.GetSonDaughter]'s pet rabbit. At least that is what [rabbit_parent.GetFirstName] claims. Now [rabbit_parent.GetSheHe] demands some kind of compensation.;;;;;;;;;;;;;x
-EVTDESC_77858;I am sitting by the fire with my precious cat curled up in my lap. I pet it slowly as I stare into the flames. My furry friend enjoys a good life here with me, but what about all the other cats who do not have a home? The ones who no one feeds, or combs, or cuddles? Perhaps I can take care of them!;;;;;;;;;;;;;x
-EVTDESC_77860;Your precious cat has the ability of always knowing when you are in need of comfort. Appearing as if out of nowhere only to jump up on your lap and purr softly to your gentle stroking.;;;;;;;;;;;;;x
-EVTDESC_77861;Your two pets truly fight like cat and dog. You can barely sleep at night unless you lock them in separate rooms. In fear of confinement, your cat has begun hiding before bedtime. Yesterday you spent the better part of an hour looking for it. You cannot stand this much longer...;;;;;;;;;;;;;x
-EVTDESC_77862_A;Today, when you were going for a hunt, you couldn't find your loyal canine companion anywhere. As you called its name, the stable master came over and told you that he had seen a cat chase a dog across the courtyard. Now it is nowhere to be found…;;;;;;;;;;;;;x
-EVTDESC_77862_B;It is time to go to bed and you are searching for your cat. You attempt your most recent trick, luring it out with small treats from the kitchen, but for the first time the method proves unsuccessful. Once an hour has passed, you give up and call for your dog. It comes running with a limp little body in its maw…;;;;;;;;;;;;;x
-EVTDESC_77862_C;Some time was just what your pets needed. One day they simply stopped fighting and since they have become the best of friends. Now you often find them playing or snoozing together. They really seem much happier.;;;;;;;;;;;;;x
-
-EVTOPTA_77800;I shall light a pyre in her name.;;;;;;;;;;;;;x
-EVTOPTA_77800_TOOLTIP;You perform a ceremony more official than most would expect for a pet.\n;;;;;;;;;;;;;x
-EVTOPTA_77801;This can't have been the highest tower in [Root.Location.GetName].;;;;;;;;;;;;;x
-EVTOPTA_77801_TOOLTIP;Barely spraining an ankle, you survived!\n;;;;;;;;;;;;;x
-EVTOPTA_77802;The funeral shall be set in the garden, where it loved to play.;;;;;;;;;;;;;x
-EVTOPTA_77802_TOOLTIP;Whenever you stroll by the rose bushes, you shall remember your cat.\n;;;;;;;;;;;;;x
-EVTOPTA_77803;They wouldn't... We all know you can't simply bury cursed creatures.;;;;;;;;;;;;;x
-EVTOPTA_77803_TOOLTIP;How odd!;;;;;;;;;;;;;x
-EVTOPTA_77851;I will dispose of the animal, if that is your wish.;;;;;;;;;;;;;x
-EVTOPTA_77852;Thank you, [From.GetFirstName], for taking such good care of my cat!;;;;;;;;;;;;;x
-EVTOPTA_77852_dog;Thank you, [From.GetFirstName], for taking such good care of my dog!;;;;;;;;;;;;;x
-EVTOPTA_77852_TOOLTIP;You and §Y[From.GetTitledFirstName]§! bond over your love of cats.\n;;;;;;;;;;;;;x
-EVTOPTA_77852_TOOLTIP_dog;You and §Y[From.GetTitledFirstName]§! bond over your love of dogs.\n;;;;;;;;;;;;;x
-EVTOPTA_77853;What have you done, you [GetRootFromInsult]?!;;;;;;;;;;;;;x
-EVTOPTA_77853_TOOLTIP;You let §Y[From.GetTitledFirstName]§! know exactly what you think of [From.GetHerHis] behaviour.\n;;;;;;;;;;;;;x
-EVTOPTA_77854;I promise to get rid of the creature if you feel so strongly about it.;;;;;;;;;;;;;x
-EVTOPTA_77854_TOOLTIP;You get rid of the cat to please §Y[cat_hater.GetTitledFirstName]§!.\n;;;;;;;;;;;;;x
-EVTOPTA_77856;It's just playing! If something breaks I can easily replace it.;;;;;;;;;;;;;x
-EVTOPTA_77856_TOOLTIP;Let the cat do whatever it pleases.\n;;;;;;;;;;;;;x
-EVTOPTA_77857;Calm down [rabbit_parent.GetFirstName], I will buy [rabbit_child.GetFirstName] a new pet.;;;;;;;;;;;;;x
-EVTOPTA_77857_TOOLTIP;Replace §Y[rabbit_child.GetTitledFirstName]'s§! dead rabbit to please [rabbit_child.GetHerHis] [rabbit_parent.GetFatherMother].\n;;;;;;;;;;;;;x
-EVTOPTA_77858;I just want to hug all of them!;;;;;;;;;;;;;x
-EVTOPTA_77858_TOOLTIP;Adopt some more cats. There is plenty of room in the keep!\n;;;;;;;;;;;;;x
-EVTOPTA_77860;What greater gift than the love of a cat?;;;;;;;;;;;;;x
-EVTOPTA_77861;They will figure it out in due time.;;;;;;;;;;;;;x
-EVTOPTA_77861_TOOLTIP;You give your cat and dog a chance to get used to each other.;;;;;;;;;;;;;x
-EVTOPTA_77862;The fault is mine. The cat is just an animal...;;;;;;;;;;;;;x
-
-EVTOPTB_77800;She was family, and shall be buried next to my ancestors.;;;;;;;;;;;;;x
-EVTOPTB_77800_TOOLTIP;Your pet shall have her name engraved on a rock, for generations to remember.\n;;;;;;;;;;;;;x
-EVTOPTB_77801;I always knew I could fl-;;;;;;;;;;;;;x
-EVTOPTB_77801_TOOLTIP;You fall to your death.\n;;;;;;;;;;;;;x
-EVTOPTB_77802;I shall invite the whole court to celebrate the adventurous life of my cat.;;;;;;;;;;;;;x
-EVTOPTB_77802_TOOLTIP;Your cat would be honored.\n;;;;;;;;;;;;;x
-EVTOPTB_77851;I am sure someone can take care of the cat.;;;;;;;;;;;;;x
-EVTOPTB_77854;The choice is simple – kitty would never put me in this position!;;;;;;;;;;;;;x
-EVTOPTB_77854_TOOLTIP;You choose your beloved companion over the pesky §Y[cat_hater.GetTitledFirstName]§!.\n;;;;;;;;;;;;;x
-EVTOPTB_77856;Come here, kitty! No, no, not that one!;;;;;;;;;;;;;x
-EVTOPTB_77856_TOOLTIP;Run after the cat and stop it from ruining anything.\n;;;;;;;;;;;;;x
-EVTOPTB_77857;I am most sorry. My companion will not be a threat any longer.;;;;;;;;;;;;;x
-EVTOPTB_77857_TOOLTIP;Put down your pet before it will have the chance to hurt anyone else.\n;;;;;;;;;;;;;x
-EVTOPTB_77858;But I can't, because that's crazy...;;;;;;;;;;;;;x
-EVTOPTB_77858_TOOLTIP;One is enough. Though you still can't stop thinking about the cats, and how cute they are...\n;;;;;;;;;;;;;x
-EVTOPTB_77861;I will find a new owner for my dog.;;;;;;;;;;;;;x
-EVTOPTB_77862;My dog is never coming back and it is all your fault, evil beast!;;;;;;;;;;;;;x
-EVTOPTB_77862_TOOLTIP;Get rid off your cat.\n;;;;;;;;;;;;;x
-
-EVTOPTC_77800;It's no problem, I've already absorbed her soul. Hooo HOOOOO!;;;;;;;;;;;;;x
-EVTOPTC_77800_TOOLTIP;You seek out the highest balcony in the [Root.Location.GetName] for a midnight flight.\n§Y20%§! chance of: §Y[Root.GetTitledFirstName]§! dies!\n;;;;;;;;;;;;;x
-EVTOPTC_77802;That cat was possessed, always giving me the stink-eye!;;;;;;;;;;;;;x
-EVTOPTC_77802_TOOLTIP;You order the remains of the cat to be burned at the stake!\n;;;;;;;;;;;;;x
-EVTOPTC_77851;Never will I be parted from my precious kitty!;;;;;;;;;;;;;x
-EVTOPTC_77856;Blasted beast! If you so much as leave a scratch, I'll wring your neck!;;;;;;;;;;;;;x
-EVTOPTC_77856_NOCAT;The cat abandons you and finds a new home.;;;;;;;;;;;;;x
-EVTOPTC_77856_TOOLTIP;Punish the cat if it breaks anything.\n;;;;;;;;;;;;;x
-EVTOPTC_77857;Impossible. My angel would never hurt a fly!;;;;;;;;;;;;;x
-EVTOPTC_77857_TOOLTIP;Refuse to believe §Y[rabbit_parent.GetTitledFirstName]§!.\n;;;;;;;;;;;;;x
-EVTOPTC_77861;The cat is obviously unhappy. I will get it a new home.;;;;;;;;;;;;;x
-EVTOPTC_77862;The fault is mine. The dog is just an animal...;;;;;;;;;;;;;x
-
-EVTOPTD_77800;Birds are mean.;;;;;;;;;;;;;x
-EVTOPTD_77800_TOOLTIP;You wish you had a dog.\n;;;;;;;;;;;;;x
-EVTOPTD_77802;I'm glad it's in a better place!;;;;;;;;;;;;;x
-EVTOPTD_77802_TOOLTIP;You never see your cat again.\n;;;;;;;;;;;;;x
-EVTOPTD_77851;Perhaps I should get rid of YOU?;;;;;;;;;;;;;x
-EVTOPTD_77851_TOOLTIP;Show §Y[cat_hater.GetTitledFirstName]§! what you think of people who hates cats!\n;;;;;;;;;;;;;x
-EVTOPTD_77862;How… how could you! Bad dog! BAD DOG!;;;;;;;;;;;;;x
-EVTOPTD_77862_TOOLTIP;Get rid off your dog.\n;;;;;;;;;;;;;x
-
-EVTOPTE_77851;Let me introduce you to my other kitty...;;;;;;;;;;;;;x
-EVTOPTE_77862;How sweet! I knew they would get along in the end.;;;;;;;;;;;;;x
+EVTDESC_77800_A;My magnificent pet owl has finally taken her last breath. Although I have been her guardian for a long time, now when it is time to send her off, I realize that perhaps she has also been watching over me?;;;;;;;;;;;Ìîÿ ïðåêðàñíàÿ ñîâà ñäåëàëà ñâîé ïîñëåäíèé âçäîõ. ß áûë[Root.GetEndA] å¸ ïîêðîâèòåëåì äîëãîå âðåìÿ, íî òåïåðü ïîðà ïîïðîùàòüñÿ. Êòî çíàåò, ìîæåò îíà äî ñèõ ïîð íàáëþäàåò çà ìíîé?;;x
+EVTDESC_77800_B;My owl won't wake up. They tell me she has moved on to the next world, but why would she not tell me?;;;;;;;;;;;Ìîÿ ñîâà íèêàê íå ïðîñûïàåòñÿ. Ìíå ñêàçàëè, ÷òî îíà óøëà â ëó÷øèé ìèð, íî ïî÷åìó æå îíà íå ñêàçàëà ìíå?;;x
+EVTDESC_77801_A;A servant gasps as I throw myself from the balcony. Wind in my hair, I soar through the air and it feels like it goes on forever. The landing I make is soft - I'm surrounded by hay! A pigeon looks at me skeptically.;;;;;;;;;;;Ñëóãà ïðîíçèòåëüíî çàêðè÷àë, êîãäà ÿ ïðûãíóë[Root.GetEndA] ñ áàëêîíà. Ïîêà ÿ ïàðèë[Root.GetEndA] â âîçäóõå, ìîè âîëîñû ðàçâåâàëèñü íà âåòðó, è êàçàëîñü, ýòî áóäåò ïðîäîëæàòüñÿ âå÷íî. Ïðèçåìëåíèå íà ñòîã ñåíà áûëî ìÿãêèì, íî ãîëóáü ïîñìîòðåë íà ìåíÿ ñ íåäîâåðèåì.;;x
+EVTDESC_77801_B;A servant gasps as I step off from the balcony. He does not know I can fly! The air caresses my cheek as I am carried forward by the wind, with incredible speed!;;;;;;;;;;;Ñëóãà ïðîíçèòåëüíî çàêðè÷àë, êîãäà ÿ ïðûãíóë[Root.GetEndA] ñ áàëêîíà. Êîíå÷íî, âåäü îí íå çíàåò, ÷òî ÿ óìåþ ëåòàòü! Âïåðåä, íàâñòðå÷ó âåòðó! Íåâåðîÿòíîå îùóùåíèå, âîçäóõ îáâîëàêèâàåò ìåíÿ, âñ¸ òàê áûñòðî!;;x
+EVTDESC_77802_A;My magnificent cat curled up in its favorite spot by the window last night. I think now that maybe it knew it did not have long left in this world. At least it went peacefully.\n;;;;;;;;;;;Ïðîøëîé íî÷üþ ì[Root.GetPetCatOyaOy] ìèë[Root.GetPetCatAyaYy] [Root.GetPetCat] ñâåðíó[Root.GetPetCatLasLsya] êëóáêîì íà ñâî¸ì ëþáèìîì ìåñòå ó îêíà. Äóìàþ, [Root.GetPetCatSheHe] çíàë[Root.GetPetCatEndA], ÷òî [Root.GetPetCatHerHim] ïîðà ïîêèíóòü ýòîò ìèð. Õîðîøî, ÷òî ýòî ïðîèçîøëî òàê òèõî è ñïîêîéíî.\n;;x
+EVTDESC_77802_B;They tell me my cat left to visit one of my distant aunts. Apparently, this aunt has a nice house in the country and my cat will be very happy there, roaming the wilderness, playing with a bunch of other cats.;;;;;;;;;;;Ìíå ñêàçàëè, ÷òî ì[Root.GetPetCatOyaOy] [Root.GetPetCat] îòïðàâè[Root.GetPetCatLasLsya] íàâåñòèòü îäíó èç ìîèõ äàëüíèõ ò¸òóøåê. Íó õîòÿ áû òåïåðü ó í[Root.GetPetCatHersHis] ìèëûé çàãîðîäíûé äîìèê, ãäå [Root.GetPetCatSheHe] áóäåò ñ÷àñòëèâ[Root.GetPetCatEndA]. Òàì ìîæíî ïîáåãàòü íà ïðèðîäå è èãðàòü ñ äðóãèìè êîøêàìè.;;x
+EVTDESC_77803;"The guard nods hesitantly and somewhat sullenly walks away. ""Don't argue!"" I yell after him, as he disappears down the corridor.\nNow that I think about it, I never smelled any smoke, and later I find a small grave behind the stables!";;;;;;;;;;;"Ñòðàæíèê íåðåøèòåëüíî êèâíóë è íàõìóðèâøèñü óø¸ë ïðî÷ü. ""È íå ñïîðü!"" — êðèêíóë[Root.GetEndA] ÿ åìó âñëåä.\nÒåïåðü, êîãäà ÿ âñïîìèíàþ îá ýòîì, ïîíèìàþ - íå áûëî íèêàêîãî çàïàõà äûìà, à çà êîíþøíÿìè êàêàÿ-òî ìàëåíüêàÿ ìîãèëêà!";;x
+EVTDESC_77851;Lately I have had reasons to believe that [cat_hater.GetFirstName] has less than warm feelings for my feline companion. Today my suspicions were confirmed as [cat_hater.GetSheHe] threw a fit when the cat drank from [cat_hater.GetHerHis] cup! [cat_hater.GetSheHeCap] demands that I get rid of my pet.;;;;;;;;;;;"Íåäàâíî ìíå ñòàëî ïîíÿòíî - [cat_hater.GetFirstName] íå èñïûòûâàåò ò¸ïëûõ ÷óâñòâ ïî îòíîøåíèþ ê ìî[Root.GetPetCatHerHim] [Root.GetPetCatDAT]. Ñåãîäíÿ ìîè ïîäîçðåíèÿ ïîäòâåðäèëèñü, [cat_hater.GetSheHe] çàêàòèë[cat_hater.GetEndA] èñòåðèêó, êîãäà óâèäåë[cat_hater.GetEndA], êàê [Root.GetPetCatSheHe] ïü¸ò èç [cat_hater.GetHersHis] êóáêà è ïîòðåáîâàë[cat_hater.GetEndA], ÷òîáû ÿ èçáàâè[Root.GetLasLsya] îò ""ýòîãî ìåðçêîãî ñîçäàíèÿ"".";;x
+EVTDESC_77852;Today I decided to go and visit my cat at [From.GetTitledFirstName]'s residence. When I arrived I found [From.GetHerHim] playing most enthusiastically with the little furball. I watched them for several minutes before I announced myself.;;;;;;;;;;;Ñåãîäíÿ ÿ ðåøèë[Root.GetEndA] íàâåñòèòü ñâî[Root.GetPetCatYuEgo] [Root.GetPetCatACC], [From.GetTitledFirstName] ñîãëàñè[From.GetLasLsya] ïðèíÿòü ìåíÿ â ñâîåé ðåçèäåíöèè. Ïî ïðèáûòèè ÿ óâèäåë[Root.GetEndA], êàê [From.GetSheHe] èãðàåò ñ í[Root.GetPetCatEyIm]. Ïðåæäå ÷åì ïîçäîðîâàòüñÿ, ÿ íåñêîëüêî ìèíóò íàáëþäàë[Root.GetEndA] çà íèìè.;;x
+EVTDESC_77852_dog;Today I decided to go and visit my dog at [From.GetTitledFirstName]'s residence. When I arrived I found them playing together most enthusiastically. I watched them for several minutes before I announced myself.;;;;;;;;;;;Ñåãîäíÿ ÿ ðåøèë[Root.GetEndA] íàâåñòèòü ñâîåãî ïñà, [From.GetTitledFirstName] ñîãëàñè[From.GetLasLsya] ïðèíÿòü ìåíÿ ñâîåé ðåçèäåíöèè. Ïî ïðèáûòèè ÿ óâèäåë[Root.GetEndA], êàê îíè èãðàþò âìåñòå. Ïðåæäå ÷åì ïîçäîðîâàòüñÿ, ÿ íåñêîëüêî ìèíóò íàáëþäàë[Root.GetEndA] çà íèìè.;;x
+EVTDESC_77853;Today I decided to go and visit my cat at [From.GetTitledFirstName]'s residence. However, when I arrived, [From.GetSheHe] could not produce the feline. When I angrily demanded to know the truth [From.GetSheHe] admitted to having gotten rid of the cat a few days earlier.;;;;;;;;;;;Ñåãîäíÿ ÿ ðåøèë[Root.GetEndA] íàâåñòèòü ñâî[Root.GetPetCatYuEgo] [Root.GetPetCatACC], [From.GetTitledFirstName] ñîãëàñè[From.GetLasLsya] ïðèíÿòü ìåíÿ â ñâîåé ðåçèäåíöèè. Ïî ïðèáûòèè, ÿ íå ñìîã[Root.GetNoneE] íèãäå íàéòè [Root.GetPetCatHersHis], à êîãäà ñïðîñèë[Root.GetEndA], [From.GetFirstName] ïðèçíà[From.GetLasLsya], ÷òî èçáàâè[From.GetLasLsya] îò [Root.GetPetCatGEN] ïàðó äíåé íàçàä.;;x
+EVTDESC_77853_dog;Today I decided to go and visit my dog at [From.GetTitledFirstName]'s residence. However, when I arrived, [From.GetSheHe] could not produce the canine. When I angrily demanded to know the truth [From.GetSheHe] admitted to having gotten rid of the dog a few days earlier.;;;;;;;;;;;Ñåãîäíÿ ÿ ðåøèë[Root.GetEndA] íàâåñòèòü ñâîåãî ïñà, [From.GetTitledFirstName] ñîãëàñè[From.GetLasLsya] ïðèíÿòü ìåíÿ ñâîåé ðåçèäåíöèè. Ïî ïðèáûòèè, ÿ íå ñìîã[Root.GetNoneE] íèãäå íàéòè åãî, à êîãäà ñïðîñèë[Root.GetEndA], [From.GetFirstName] ïðèçíà[From.GetLasLsya], ÷òî èçáàâè[From.GetLasLsya] îò ñîáàêè ïàðó äíåé íàçàä.;;x
+EVTDESC_77854;Things have been tense between [cat_hater.GetFirstName] and I since [cat_hater.GetSheHe] threw the tantrum the other today. [cat_hater.GetSheHeCap] has grown more and more irritated. Today it culminated in a harsh ultimatum – I must make a choice between [cat_hater.GetSheHe] and the cat.;;;;;;;;;;;Íàøè îòíîøåíèÿ ñòàëè íåñêîëüêî íàòÿíóòûìè ñ òåõ ïîð, êàê [cat_hater.GetFirstName] óñòðîèë[cat_hater.GetEndA] ñêàíäàë èç-çà ìîå[Root.GetPetCatYGo] [Root.GetPetCatGEN]. Â ïîñëåäíåå âðåìÿ [cat_hater.GetSheHe] âñ¸ áîëüøå ðàçäðàæåí[cat_hater.GetEndA], à ñåãîäíÿ âûäâèíóë[cat_hater.GetEndA] ìíå óëüòèìàòóì – èëè [cat_hater.GetSheHe] èëè [Root.GetPetCat].;;x
+EVTDESC_77856;When it is sleeping or cuddling on my lap, my cat is a precious angel. I do not understand how something can be so calm in one moment, only to fly across the room in the next. When it gets these fits it climbs all over my belongings, and it is only a matter of luck if something does not break.;;;;;;;;;;;Êîãäà ýòî ìèëîå ñîçäàíèå ñïèò è ìóð÷èò ó ìåíÿ íà êîëåíÿõ, òðóäíî ïðåäñòàâèòü, êàê ÷òî-òî ñòîëü òèõîå è ñïîêîéíîå â ñëåäóþùèé ìîìåíò ìîæåò óæå íîñèòüñÿ ïî êîìíàòå, êàðàáêàòüñÿ ïî ìîèì âåùàì, ðîíÿÿ âñ¸ âîêðóã, è çàáèðàòüñÿ â êàæäóþ ÷¸ðòîâó êîðîáî÷êó, ñêîëüêî áû ìàëîé è õðóïêîé îíà íè áûëà.;;x
+EVTDESC_77857_CAT;[rabbit_parent.GetTitledFirstName] angrily bursts into my throne room. Apparently my beloved cat has killed [rabbit_parent.GetHerHis] [rabbit_child.GetSonDaughter]'s pet rabbit. At least that is what [rabbit_parent.GetFirstName] claims. Now [rabbit_parent.GetSheHe] demands some kind of compensation.;;;;;;;;;;;Ðàçúÿð¸íí[rabbit_parent.GetAyaYy] [rabbit_parent.GetTitledFirstName] âîðâà[rabbit_parent.GetLasLsya] â ìîé òðîííûé çàë. Îêàçûâàåòñÿ, ì[Root.GetPetCatOyaOy] ëþáèì[Root.GetPetCatAyaYy] [Root.GetPetCat] çàãðûç[Root.GetPetCatEndLa] ðó÷íîãî êðîëèêà, â êîòîðîì [rabbit_parent.GetHersHis] [rabbit_child.GetSonDaughter] äóøè íå ÷àÿë[rabbit_child.GetEndA]. Ïî êðàéíåé ìåðå [rabbit_parent.GetFirstName] óòâåðæäàåò ýòî è òðåáóåò êîìïåíñàöèþ.;;x
+EVTDESC_77858;I am sitting by the fire with my precious cat curled up in my lap. I pet it slowly as I stare into the flames. My furry friend enjoys a good life here with me, but what about all the other cats who do not have a home? The ones who no one feeds, or combs, or cuddles? Perhaps I can take care of them!;;;;;;;;;;;Ñèäÿ ó êàìèíà ñ ëþáèì[Root.GetPetCatOyYm] [Root.GetPetCatINS] íà êîëåíÿõ, ÿ ìåäëåííî ñìîòðþ â îãîíü. [Root.GetPetCatSheHeCap] òàê äîâîëüíî ìóðëû÷èò, [Root.GetPetCatSheHe] ñ÷àñòëèâ[Root.GetPetCatEndA] çäåñü ñî ìíîé, íî êàê æå äðóãèå êîøêè? Ó íèõ íåò ò¸ïëîãî óþòíîãî äîìà, èõ íèêòî íå êîðìèò, íå ïðè÷¸ñûâàåò, íå ãëàäèò. Îíè òàêèå ìèëûå è ÿ ìîãó ïîçàáîòèòüñÿ î íèõ.;;x
+EVTDESC_77860;Your precious cat has the ability of always knowing when you are in need of comfort. Appearing as if out of nowhere only to jump up on your lap and purr softly to your gentle stroking.;;;;;;;;;;;Âàø[Root.GetPetCatEndA] [Root.GetPetCat] âñåãäà çíàåò, êîãäà Âû íóæäàåòåñü â êîìôîðòå. Ïîÿâëÿÿñü èç íèîòêóäà, [Root.GetPetCatSheHe] òóò æå çàïðûãèâàåò íà êîëåíè è íåæíî ìóðëû÷èò â îòâåò íà Âàøè ïîãëàæèâàíèÿ.;;x
+EVTDESC_77861;Your two pets truly fight like cat and dog. You can barely sleep at night unless you lock them in separate rooms. In fear of confinement, your cat has begun hiding before bedtime. Yesterday you spent the better part of an hour looking for it. You cannot stand this much longer...;;;;;;;;;;;Âàøè ïèòîìöû âîèñòèíó äåðóòñÿ, êàê êîøêà ñ ñîáàêîé. Åñëè íå çàïåðåòü èõ â ðàçíûõ êîìíàòàõ íà íî÷ü, íèêàê íå óñíóòü. Â ñòðàõå ïåðåä çàòî÷åíèåì Âàø[Root.GetPetCatEndA] [Root.GetPetCat] ñòàë[Root.GetPetCatEndA] ïðÿòàòüñÿ ïî âå÷åðàì. Â÷åðà Âû ïîòðàòèëè ÷àñ, ÷òîáû íàéòè [Root.GetPetCatHersHis]. Ýòî íå ìîæåò áîëüøå ïðîäîëæàòüñÿ...;;x
+EVTDESC_77862_A;Today, when you were going for a hunt, you couldn't find your loyal canine companion anywhere. As you called its name, the stable master came over and told you that he had seen a cat chase a dog across the courtyard. Now it is nowhere to be found…;;;;;;;;;;;Ñåãîäíÿ, îòïðàâèâøèñü íà îõîòó, Âû íèãäå íå ñìîãëè íàéòè ñâîåãî ëþáèìîãî ïñà. Êîíþøèé óñëûøàë, êàê Âû çîâ¸òå åãî è ñêàçàë, ÷òî íåäàâíî âèäåë, êàê îí áåãàåò ïî äâîðó îò [Root.GetPetCatGEN], à ñåé÷àñ åãî íèãäå íåò.;;x
+EVTDESC_77862_B;It is time to go to bed and you are searching for your cat. You attempt your most recent trick, luring it out with small treats from the kitchen, but for the first time the method proves unsuccessful. Once an hour has passed, you give up and call for your dog. It comes running with a limp little body in its maw…;;;;;;;;;;;Ïðèøëî âðåìÿ ëîæèòüñÿ ñïàòü, è êàê âñåãäà, ïîèñêàòü Âàø[Root.GetPetCatUEgo] [Root.GetPetCatACC]. Êàê îáû÷íî, Âû ïîïðîáîâàëè ïðèìàíèòü [Root.GetPetCatHersHis] ëàêîìñòâîì, íî íà ýòîò ðàç òðþê íå ñðàáîòàë. Ïîòåðÿâ öåëûé ÷àñ, Âû ðåøèëè áðîñèòü çàòåþ è ïîçâàòü ñâîåãî ïñà. Ê Âàøåìó óæàñó ïðèáåæàë îí ñ îêðîâàâëåííûì òåëüöåì â çóáàõ.;;x
+EVTDESC_77862_C;Some time was just what your pets needed. One day they simply stopped fighting and since they have become the best of friends. Now you often find them playing or snoozing together. They really seem much happier.;;;;;;;;;;;Âðåìÿ - ýòî èìåííî òî, ÷òî íóæíî áûëî Âàøèì ïèòîìöàì. Îäíàæäû îíè ïåðåñòàëè äðàòüñÿ è ñòàëè ëó÷øèìè äðóçüÿìè. Òåïåðü Âû âñ¸ ÷àùå âèäèòå, êàê îíè èãðàþò è îòäûõàþò âìåñòå, îíè âûãëÿäÿò òàêèìè ñ÷àñòëèâûìè.;;x
+EVTOPTA_77800;I shall light a pyre in her name.;;;;;;;;;;;ß çàæãó ïîãðåáàëüíûé êîñòåð â ÷åñòü íå¸.;;x
+EVTOPTA_77800_TOOLTIP;You perform a ceremony more official than most would expect for a pet.\n;;;;;;;;;;;Ïðîâåñòè áîëåå îôèöèàëüíóþ öåðåìîíèþ, ÷åì ïðèíÿòî óñòðàèâàòü äëÿ äîìàøíåãî ïèòîìöà.\n;;x
+EVTOPTA_77801;This can't have been the highest tower in [Root.Location.GetName].;;;;;;;;;;;Ýòî íå ñàìàÿ âûñîêàÿ [Root.Location.County.GetAdjective]ñêàÿ áàøíÿ.;;x
+EVTOPTA_77801_TOOLTIP;Barely spraining an ankle, you survived!\n;;;;;;;;;;;Âûâèõíóâ ëîäûæêó, Âû îñòàëèñü â æèâûõ!\n;;x
+EVTOPTA_77802;The funeral shall be set in the garden, where it loved to play.;;;;;;;;;;;Íàäî óñòðîèòü ïîõîðîíû â ñàäó, [Root.GetPetCatSheHe] ëþáèë[Root.GetPetCatEndA] èãðàòü òàì.;;x
+EVTOPTA_77802_TOOLTIP;Whenever you stroll by the rose bushes, you shall remember your cat.\n;;;;;;;;;;;Âñÿêèé ðàç ïðîõîäÿ ìèìî ðîçîâûõ êóñòîâ, Âû áóäåòå âñïîìèíàòü ñâî[Root.GetPetCatYuEgo] [Root.GetPetCatACC].\n;;x
+EVTOPTA_77803;They wouldn't... We all know you can't simply bury cursed creatures.;;;;;;;;;;;Îí áû íå ñòàë. Âñå çíàþò - íåëüçÿ õîðîíèòü ïðîêëÿòûõ.;;x
+EVTOPTA_77803_TOOLTIP;How odd!;;;;;;;;;;;Êàê ñòðàííî!;;x
+EVTOPTA_77851;I will dispose of the animal, if that is your wish.;;;;;;;;;;;Õîðîøî. Åñëè òû ýòîãî õî÷åøü...;;x
+EVTOPTA_77852;Thank you, [From.GetFirstName], for taking such good care of my cat!;;;;;;;;;;;Ñïàñèáî, ÷òî çàáîòèòåñü î ìî[Root.GetPetCatEyYom] [Root.GetPetCatPREP]!;;x
+EVTOPTA_77852_dog;Thank you, [From.GetFirstName], for taking such good care of my dog!;;;;;;;;;;;Ñïàñèáî, ÷òî çàáîòèòåñü î ìî¸ì ïñå!;;x
+EVTOPTA_77852_TOOLTIP;You and §Y[From.GetTitledFirstName]§! bond over your love of cats.\n;;;;;;;;;;;Âû è §Y[From.GetTitledFirstName]§! ñâÿçàíû îáùåé ëþáîâüþ ê êîøêàì.\n;;x
+EVTOPTA_77852_TOOLTIP_dog;You and §Y[From.GetTitledFirstName]§! bond over your love of dogs.\n;;;;;;;;;;;Âû è §Y[From.GetTitledFirstName]§! ñâÿçàíû îáùåé ëþáîâüþ ê ñîáàêàì.\n;;x
+EVTOPTA_77853;What have you done, you [GetRootFromInsult]?!;;;;;;;;;;;×òî òû íàäåëàë[From.GetEndA], [GetRootFromInsult]?!;;x
+EVTOPTA_77853_TOOLTIP;You let §Y[From.GetTitledFirstName]§! know exactly what you think of [From.GetHerHis] behaviour.\n;;;;;;;;;;;Ïóñòü §Y[From.GetTitledFirstName]§! çíàåò, ÷òî Âû äóìàåòå î [From.GetHersHis] ïîâåäåíèè.\n;;x
+EVTOPTA_77854;I promise to get rid of the creature if you feel so strongly about it.;;;;;;;;;;;ß èçáàâëþñü îò [Root.GetPetCatGEN], åñëè äëÿ òåáÿ ýòî òàê âàæíî.;;x
+EVTOPTA_77854_TOOLTIP;You get rid of the cat to please §Y[cat_hater.GetTitledFirstName]§!.\n;;;;;;;;;;;Èçáàâèòüñÿ îò [Root.GetPetCatGEN], êàê òîãî õî÷åò §Y[cat_hater.GetTitledFirstName]§!.\n;;x
+EVTOPTA_77856;It's just playing! If something breaks I can easily replace it.;;;;;;;;;;;[Root.GetPetCatSheHeCap] ïðîñòî èãðàåò! Åñëè ÷òî-òî ñëîìàåòñÿ, ÿ çàìåíþ.;;x
+EVTOPTA_77856_TOOLTIP;Let the cat do whatever it pleases.\n;;;;;;;;;;;Ïóñòü [Root.GetPetCat] äåëàåò âñ¸, ÷òî õî÷åò.\n;;x
+EVTOPTA_77857;Calm down [rabbit_parent.GetFirstName], I will buy [rabbit_child.GetFirstName] a new pet.;;;;;;;;;;;Óñïîêîéòåñü, ÿ êóïëþ Âàì íîâîãî.;;x
+EVTOPTA_77857_TOOLTIP;Replace §Y[rabbit_child.GetTitledFirstName]'s§! dead rabbit to please [rabbit_child.GetHerHis] [rabbit_parent.GetFatherMother].\n;;;;;;;;;;;Ïóñòü §Y[rabbit_child.GetTitledFirstName]§! ïîëó÷èò íîâîãî êðîëèêà, [rabbit_child.GetHersHis] [rabbit_parent.GetFatherMother] óñïîêîèòñÿ.\n;;x
+EVTOPTA_77858;I just want to hug all of them!;;;;;;;;;;;Ðåøåíî. Òàê è ïîñòóïëþ!;;x
+EVTOPTA_77858_TOOLTIP;Adopt some more cats. There is plenty of room in the keep!\n;;;;;;;;;;;Çàâåñòè áîëüøå êîøåê. Ó íàñ ìíîãî ìåñòà!\n;;x
+EVTOPTA_77860;What greater gift than the love of a cat?;;;;;;;;;;;Íå ïðåäñòàâëÿþ, ÷òî áû ÿ äåëàë[Root.GetEndA] áåç í[Root.GetPetCatHersHis].;;x
+EVTOPTA_77861;They will figure it out in due time.;;;;;;;;;;;Îíè ïðèâûêíóò. Ñî âðåìåíåì...;;x
+EVTOPTA_77861_TOOLTIP;You give your cat and dog a chance to get used to each other.;;;;;;;;;;;Äàòü âîçìîæíîñòü Âàøèì ïèòîìöàì íàéòè îáùèé ÿçûê.;;x
+EVTOPTA_77862;The fault is mine. The cat is just an animal...;;;;;;;;;;;Ýòî âñ¸ - ìîÿ âèíà. [Root.GetPetCatCap] ïðîñòî ñëåäîâàë èíñòèíêòó.;;x
+EVTOPTB_77800;She was family, and shall be buried next to my ancestors.;;;;;;;;;;;Îíà - ÷ëåí ñåìüè è áóäåò ïîõîðîíåíà ñ ìîèìè ïðåäêàìè.;;x
+EVTOPTB_77800_TOOLTIP;Your pet shall have her name engraved on a rock, for generations to remember.\n;;;;;;;;;;;Å¸ èìÿ áóäåò âûãðàâèðîâàíî íà êàìíå, ÷òîáû áóäóùèå ïîêîëåíèÿ ïîìíèëè î íåé.\n;;x
+EVTOPTB_77801;I always knew I could fl-;;;;;;;;;;;Äà! ß çíàë[Root.GetEndA], ÷òî ìîãó ëå...;;x
+EVTOPTB_77801_TOOLTIP;You fall to your death.\n;;;;;;;;;;;Âû ðàçáèëèñü íàñìåðòü.\n;;x
+EVTOPTB_77802;I shall invite the whole court to celebrate the adventurous life of my cat.;;;;;;;;;;;Íàäî ñîçâàòü âñåõ ïðèäâîðíûõ è ïîìÿíóòü [Root.GetPetCatHersHis].;;x
+EVTOPTB_77802_TOOLTIP;Your cat would be honored.\n;;;;;;;;;;;Âàø[Root.GetPetCatEndA] [Root.GetPetCat] çàñëóæèâàåò ïî÷åñòåé.\n;;x
+EVTOPTB_77851;I am sure someone can take care of the cat.;;;;;;;;;;;Óâåðåí[Root.GetEndA], êòî-íèáóäü çàõî÷åò âçÿòü [Root.GetPetCatACC] ñåáå.;;x
+EVTOPTB_77854;The choice is simple – kitty would never put me in this position!;;;;;;;;;;;Âûáîð ïðîñò - [Root.GetPetCat] íèêîãäà íå ïðåäúÿâèò ìíå ïîäîáíîå!;;x
+EVTOPTB_77854_TOOLTIP;You choose your beloved companion over the pesky §Y[cat_hater.GetTitledFirstName]§!.\n;;;;;;;;;;;Âûáðàòü ñâîåãî íàñòîÿùåãî äðóãà, à §Y[cat_hater.GetTitledFirstName]§! ïóñòü êàòèòñÿ êî âñåì ÷åðòÿì.\n;;x
+EVTOPTB_77856;Come here, kitty! No, no, not that one!;;;;;;;;;;;Êèñ-êèñ-êèñ... Î íåò, íåò! Òîëüêî íå ñþäà!;;x
+EVTOPTB_77856_TOOLTIP;Run after the cat and stop it from ruining anything.\n;;;;;;;;;;;Ïîãíàòüñÿ çà [Root.GetPetCatINS], ÷òîáû ïðåäîòâðàòèòü êàòàñòðîôó.\n;;x
+EVTOPTB_77857;I am most sorry. My companion will not be a threat any longer.;;;;;;;;;;;Ìíå î÷åíü æàëü. Âïðåäü [Root.GetPetCatSheHe] íå ïðè÷èíèò íèêîìó âðåäà.;;x
+EVTOPTB_77857_TOOLTIP;Put down your pet before it will have the chance to hurt anyone else.\n;;;;;;;;;;;Èçáàâèòüñÿ îò [Root.GetPetCatGEN], ïîêà [Root.GetPetCatSheHe] íå íàâðåäèë[Root.GetPetCatEndA] êîìó-íèáóäü åù¸.\n;;x
+EVTOPTB_77858;But I can't, because that's crazy...;;;;;;;;;;;Íó... íåò. Ýòî áåçóìèå...;;x
+EVTOPTB_77858_TOOLTIP;One is enough. Though you still can't stop thinking about the cats, and how cute they are...\n;;;;;;;;;;;Îäíî[Root.GetPetCatYGo] äîñòàòî÷íî, íî Âû íå ìîæåòå ïåðåñòàòü äóìàòü î òîì, êàêèå æå îíè ìèëûå...\n;;x
+EVTOPTB_77861;I will find a new owner for my dog.;;;;;;;;;;;Ïîèùó ñâîåìó ïñó íîâîãî õîçÿèíà.;;x
+EVTOPTB_77862;My dog is never coming back and it is all your fault, evil beast!;;;;;;;;;;;Ìîé ï¸ñ áîëüøå íå âåðí¸òñÿ. Èç-çà òåáÿ, ïîäëàÿ òâàðü!;;x
+EVTOPTB_77862_TOOLTIP;Get rid off your cat.\n;;;;;;;;;;;Èçáàâèòüñÿ îò [Root.GetPetCatGEN].\n;;x
+EVTOPTC_77800;It's no problem, I've already absorbed her soul. Hooo HOOOOO!;;;;;;;;;;;Íå áåäà. ß óæå ïîãëîòèë[Root.GetEndA] å¸ äóøó. Óàõàõà!;;x
+EVTOPTC_77800_TOOLTIP;You seek out the highest balcony in the [Root.Location.GetName] for a midnight flight.\n§Y20%§! chance of: §Y[Root.GetTitledFirstName]§! dies!\n;;;;;;;;;;;Íàéòè ñàìûé âûñîêèé [Root.Location.County.GetAdjective]ñêèé áàëêîí äëÿ íî÷íîãî ïîë¸òà.\n§Y20%§! øàíñ òîãî, ÷òî §Y[Root.GetTitledFirstName]§! óìð¸ò!\n;;x
+EVTOPTC_77802;That cat was possessed, always giving me the stink-eye!;;;;;;;;;;;Âñ¸ ðàâíî [Root.GetPetCatSheHe] áûë[Root.GetPetCatEndA] îäåðæèì[Root.GetPetCatEndA] çëûìè äóõàìè!;;x
+EVTOPTC_77802_TOOLTIP;You order the remains of the cat to be burned at the stake!\n;;;;;;;;;;;Ïðèêàçàòü ñæå÷ü îñòàíêè [Root.GetPetCatGEN] íà êîñòðå!\n;;x
+EVTOPTC_77851;Never will I be parted from my precious kitty!;;;;;;;;;;;Íè çà ÷òî! Íèêòî íå ðàçëó÷èò ìåíÿ ñ ìîåé ïðåëåñòüþ!;;x
+EVTOPTC_77856;Blasted beast! If you so much as leave a scratch, I'll wring your neck!;;;;;;;;;;;Áåñíîâàòÿ çâåðþãà! Óâèæó öàðàïèíó - ãîëîâó îòîðâó!;;x
+EVTOPTC_77856_NOCAT;The cat abandons you and finds a new home.;;;;;;;;;;;[Root.GetPetCatCap] ïîêèíåò Âàñ, ÷òîáû íàéòè íîâûé äîì.;;x
+EVTOPTC_77856_TOOLTIP;Punish the cat if it breaks anything.\n;;;;;;;;;;;Íàêàçàòü ýòî ìîõíàòîå íåäîðàçóìåíèå.\n;;x
+EVTOPTC_77857;Impossible. My angel would never hurt a fly!;;;;;;;;;;;×åïóõà! Ìîé àíãåëî÷åê è ìóõè íå îáèäèò!;;x
+EVTOPTC_77857_TOOLTIP;Refuse to believe §Y[rabbit_parent.GetTitledFirstName]§!.\n;;;;;;;;;;;§Y[rabbit_parent.GetTitledFirstName]§! äîëæíî áûòü âð¸ò.\n;;x
+EVTOPTC_77861;The cat is obviously unhappy. I will get it a new home.;;;;;;;;;;;[Root.GetPetCatCap] ÿâíî ñòðàäàåò, íàäî íàéòè [Root.GetPetCatHerHim] íîâûé äîì.;;x
+EVTOPTC_77862;The fault is mine. The dog is just an animal...;;;;;;;;;;;Ýòî ìîÿ âèíà. ×åãî ÿ æäàë[Root.GetEndA] îò ñîáàêè, çäðàâîìûñëèÿ?;;x
+EVTOPTD_77800;Birds are mean.;;;;;;;;;;;Ïîäëûå ïòèöû.;;x
+EVTOPTD_77800_TOOLTIP;You wish you had a dog.\n;;;;;;;;;;;Âû áîëüøå ëþáèòå ñîáàê.\n;;x
+EVTOPTD_77802;I'm glad it's in a better place!;;;;;;;;;;;ß ðàä[Root.GetEndA], ÷òî [Root.GetPetCatHerHim] òåïåðü õîðîøî!;;x
+EVTOPTD_77802_TOOLTIP;You never see your cat again.\n;;;;;;;;;;;Âû áîëüøå íå óâèäèòå ñâî[Root.GetPetCatYuEgo] [Root.GetPetCatACC].\n;;x
+EVTOPTD_77851;Perhaps I should get rid of YOU?;;;;;;;;;;;À ìîæåò ìíå ïîðà èçáàâèòüñÿ îò ÒÅÁß?;;x
+EVTOPTD_77851_TOOLTIP;Show §Y[cat_hater.GetTitledFirstName]§! what you think of people who hates cats!\n;;;;;;;;;;;Ïóñòü §Y[cat_hater.GetTitledFirstName]§! óçíàåò, ÷òî Âû äóìàåòå î òåõ, êòî íåíàâèäèò êîøåê!\n;;x
+EVTOPTD_77862;How… how could you! Bad dog! BAD DOG!;;;;;;;;;;;×òî òû íàäåëàë?! Ïëîõàÿ, ïëîõàÿ ñîáàêà!;;x
+EVTOPTD_77862_TOOLTIP;Get rid off your dog.\n;;;;;;;;;;;Èçáàâèòüñÿ îò ïñà.\n;;x
+EVTOPTE_77851;Let me introduce you to my other kitty...;;;;;;;;;;;Ïîðà ïîçíàêîìèòü òåáÿ ñ êîøêàìè ïîêðóïíåå...;;x
+EVTOPTE_77862;How sweet! I knew they would get along in the end.;;;;;;;;;;;Êàê ìèëî! ß çíàë[Root.GetEndA], ÷òî îíè ïîëàäÿò.;;x

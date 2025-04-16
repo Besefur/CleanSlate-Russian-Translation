@@ -1,39 +1,36 @@
-EVTDESC_SoA_600;The Mu'tazila school of theology holds that the Qur'an was created and is not eternal, and that the injunctions of Allah are accessible to rational thought and inquiry. Influenced by this school, the learned and wise men of your realm have become more productive in their scientific pursuits.;;;;;;;;;;;;;x
-EVTDESC_SoA_601;The Ash'ari school of theology holds that the Qur'an is eternal and exact, that full comprehension of Allah is beyond human understanding and that moral truths can only be taught by means of revelation. The clergy of your realm have fully embraced this school, leading to a surge in religious fervor.;;;;;;;;;;;;;x
-EVTDESC_SoA_603;[wayward_vassal.GetTitledFirstName] is a follower of the Mu'tazila school of theology, which stands in direct opposition to the Ash'ari school which you have pledged yourself to. Perhaps you should have a word with [wayward_vassal.GetHerHim].;;;;;;;;;;;;;x
-EVTDESC_SoA_604;It has come to my attention that you're a follower of the heretical Mu'tazila school. Their tenets and philosophies are an affront to Allah and the teachings of the Prophet (peace be upon him). I urge you instead to embrace the Ash'ari doctrine.\n\nSigned,\n[From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC_SoA_605;As always, my liege, your wisdom far exceeds my own. If you think it best, I will abandon the Mu'tazila teachings and instead embrace the doctrines of Ash'ari.\n\nSigned,\n[wayward_vassal.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC_SoA_606;You may be my liege in the mortal world, but do not presume to dictate how I lead my spiritual life. That is between me, Allah and the Prophet (peace be upon them). I have no intention of adopting the heretical ways of the Ash'ari school.\n\nSigned,\n[wayward_vassal.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC_SoA_611;[wayward_vassal.GetTitledFirstName] is a follower of the Ash'ari school of theology, which stands in direct opposition to the Mu'tazila school which you have pledged yourself to. Perhaps you should have a word with [wayward_vassal.GetHerHim].;;;;;;;;;;;;;x
-EVTDESC_SoA_612;It has come to my attention that you're a follower of the misguided Ash'ari school. Their tenets and philosophies are an affront to Allah and the teachings of the Prophet (peace be upon him). I urge you instead to embrace the Mu'tazila doctrine.\n\nSigned,\n[From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC_SoA_613;As always, my liege, your wisdom far exceeds my own. If you think it best, I will abandon the Ash'ari teachings and instead embrace the doctrines of Mu'tazila.\n\nSigned,\n[wayward_vassal.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC_SoA_614;You may be my liege in the mortal world, but do not presume to dictate how I lead my spiritual life. That is between me, Allah and the Prophet (peace be upon them). I have no intention of adopting the heretical ways of the Mu'tazila school.\n\nSigned,\n[wayward_vassal.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC_SoA_620;Given your cynical nature, you have begun to question some of the basic tenets of the Ash'ari school of theology as of late. The more you look at the teachings of the opposing Mu'tazila school, the more they seem to make sense...;;;;;;;;;;;;;x
-EVTDESC_SoA_621;Given your zealous nature, you have begun to question some of the basic tenets of the Mu'tazila school of theology as of late. The more you look at the teachings of the opposing Ash'ari school, the more they seem to make sense...;;;;;;;;;;;;;x
-
-EVTOPTA_SoA_600;This is the right path.;;;;;;;;;;;;;x
-EVTOPTA_SoA_603;Yes, I will enlighten [wayward_vassal.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTA_SoA_604;Yes, perhaps it would be best...;;;;;;;;;;;;;x
-EVTOPTA_SoA_605;A wise choice.;;;;;;;;;;;;;x
-EVTOPTA_SoA_606;That impudent...!;;;;;;;;;;;;;x
-EVTOPTA_SoA_611;Yes, I will enlighten [wayward_vassal.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTA_SoA_612;Yes, perhaps it would be best...;;;;;;;;;;;;;x
-EVTOPTA_SoA_613;A wise choice.;;;;;;;;;;;;;x
-EVTOPTA_SoA_614;That impudent...!;;;;;;;;;;;;;x
-EVTOPTA_SoA_620;Perhaps I have been walking the wrong path...;;;;;;;;;;;;;x
-
-EVTOPTB_SoA_603;No, it is not my concern.;;;;;;;;;;;;;x
-EVTOPTB_SoA_604;Never!;;;;;;;;;;;;;x
-EVTOPTB_SoA_611;No, it is not my concern.;;;;;;;;;;;;;x
-EVTOPTB_SoA_612;Never!;;;;;;;;;;;;;x
-EVTOPTB_SoA_620;No! I must purge my mind of such heretical thoughts.;;;;;;;;;;;;;x
-EVTOPTB_SoA_621;No! I must purge my mind of such misguided notions.;;;;;;;;;;;;;x
-
-EVTTOOLTIP_SoA_600;You embrace the Mu'tazila school of theology.;;;;;;;;;;;;;x
-EVTTOOLTIP_SoA_601;You embrace the Ash'ari school of theology.;;;;;;;;;;;;;x
-EVTTOOLTIP_SoA_604;You ask your vassal to switch theological school.;;;;;;;;;;;;;x
-EVTTOOLTIP_SoA_605;You send word that you agree to adopt the Ash'ari school.;;;;;;;;;;;;;x
-EVTTOOLTIP_SoA_606;You send word that you refuse to adopt the Ash'ari school.;;;;;;;;;;;;;x
-EVTTOOLTIP_SoA_612;You ask your vassal to switch theological school.;;;;;;;;;;;;;x
-EVTTOOLTIP_SoA_613;You send word that you agree to adopt the Mu'tazila school.;;;;;;;;;;;;;x
-EVTTOOLTIP_SoA_614;You send word that you refuse to adopt the Mu'tazila school.;;;;;;;;;;;;;x
+EVTDESC_SoA_600;The Mu'tazila school of theology holds that the Qur'an was created and is not eternal, and that the injunctions of Allah are accessible to rational thought and inquiry. Influenced by this school, the learned and wise men of your realm have become more productive in their scientific pursuits.;;;;;;;;;;;Ìóòàçèëèòñêàÿ øêîëà áîãîñëîâèÿ ñ÷èòàåò, ÷òî Êîðàí áûë ñîçäàí è îí íå âå÷åí, à ïðåäïèñàíèÿ Àëëàõà äîñòóïíû äëÿ ðàöèîíàëüíîãî ìûøëåíèÿ è ïîíèìàíèÿ. Ïîä âëèÿíèåì ýòîé øêîëû, ó÷¸íûå è ìóäðåöû Âàøåé ñòðàíû ñòàëè íàìíîãî âëèÿòåëüíåå.;;x
+EVTDESC_SoA_601;The Ash'ari school of theology holds that the Qur'an is eternal and exact, that full comprehension of Allah is beyond human understanding and that moral truths can only be taught by means of revelation. The clergy of your realm have fully embraced this school, leading to a surge in religious fervor.;;;;;;;;;;;Àøàðèòñêàÿ øêîëà áîãîñëîâèÿ ñ÷èòàåò, ÷òî Êîðàí âå÷åí è òî÷åí, à ïîëíîå ïîíèìàíèå Àëëàõà ëåæèò çà ïðåäåëàìè ÷åëîâå÷åñêîãî ïîíèìàíèÿ, è ÷òî ìîðàëüíûå èñòèíû ìîæíî îáðåñòè òîëüêî ÷åðåç îòêðîâåíèÿ. Äóõîâåíñòâî Âàøåé ñòðàíû ïîëíîñòüþ ïðèíÿëî ýòó øêîëó, ÷òî ïðèâåëî ê ðîñòó ðåëèãèîçíîñòè.;;x
+EVTDESC_SoA_603;[wayward_vassal.GetTitledFirstName] is a follower of the Mu'tazila school of theology, which stands in direct opposition to the Ash'ari school which you have pledged yourself to. Perhaps you should have a word with [wayward_vassal.GetHerHim].;;;;;;;;;;;[From.GetTitledFirstName] - ïîñëåäîâàòåëü øêîëû ìóòàçèëèòîâ, ïðîòèâîñòîÿùèõ øêîëå àøàðèòîâ, ñ êîòîðîé Âû ñâÿçàëè ñåáÿ. Âîçìîæíî, Âàì ñëåäóåò ïîîáùàòüñÿ.;;x
+EVTDESC_SoA_604;It has come to my attention that you're a follower of the heretical Mu'tazila school. Their tenets and philosophies are an affront to Allah and the teachings of the Prophet (peace be upon him). I urge you instead to embrace the Ash'ari doctrine.\n\nSigned,\n[From.GetTitledFirstName];;;;;;;;;;;Ìíå äîâåëîñü óçíàòü, ÷òî Âû - ïîñëåäîâàòåëü åðåòè÷åñêîé øêîëû ìóòàçèëèòîâ. Èõ ïðèíöèïû è ôèëîñîôèÿ îñêîðáëÿþò Àëëàõà è ó÷åíèå Ïðîðîêà (ìèð åìó è áëàãîñëîâåíèå). ß ïðèçûâàþ Âàñ ïðèíÿòü ó÷åíèå Àøàðè.\nÏîäïèñü:\n [From.GetTitledFirstName];;x
+EVTDESC_SoA_605;As always, my liege, your wisdom far exceeds my own. If you think it best, I will abandon the Mu'tazila teachings and instead embrace the doctrines of Ash'ari.\n\nSigned,\n[wayward_vassal.GetTitledFirstName];;;;;;;;;;;Êàê âñåãäà, [Root.PrimaryTitle.GetFOA], Âàøà ìóäðîñòü íàìíîãî ïðåâûøàåò ìîþ. Åñëè Âû äóìàåòå, ÷òî òàê áóäåò ëó÷øå, ÿ îòêàæóñü îò ìóòàçèëèçìà è ïðèìó ó÷åíèå Àøàðè.\nÏîäïèñü:\n [From.GetTitledFirstName];;x
+EVTDESC_SoA_606;You may be my liege in the mortal world, but do not presume to dictate how I lead my spiritual life. That is between me, Allah and the Prophet (peace be upon them). I have no intention of adopting the heretical ways of the Ash'ari school.\n\nSigned,\n[wayward_vassal.GetTitledFirstName];;;;;;;;;;;Äà, Âû - ìîé ñþçåðåí, â ìèðå ñìåðòíûõ, íî Âû íå ìîæåòå óêàçûâàòü ìíå, êàê âåñòè ìîþ äóõîâíóþ æèçíü. Âñ¸ ýòî òîëüêî ìåæäó ìíîé, Àëëàõîì è ïðîðîêîì (ìèð èì è áëàãîñëîâåíèå). ß íå ñîáèðàþñü ïðèíèìàòü àøàðèòñêóþ åðåñü.\nÏîäïèñü:\n [From.GetTitledFirstName];;x
+EVTDESC_SoA_611;[wayward_vassal.GetTitledFirstName] is a follower of the Ash'ari school of theology, which stands in direct opposition to the Mu'tazila school which you have pledged yourself to. Perhaps you should have a word with [wayward_vassal.GetHerHim].;;;;;;;;;;;[From.GetTitledFirstName] - ïîñëåäîâàòåëü øêîëû àøàðèòîâ, ïðîòèâîñòîÿùèõ øêîëå ìóòàçèëèòîâ, ñ êîòîðîé Âû ñâÿçàëè ñåáÿ. Âîçìîæíî, Âàì ñëåäóåò ïîîáùàòüñÿ.;;x
+EVTDESC_SoA_612;It has come to my attention that you're a follower of the misguided Ash'ari school. Their tenets and philosophies are an affront to Allah and the teachings of the Prophet (peace be upon him). I urge you instead to embrace the Mu'tazila doctrine.\n\nSigned,\n[From.GetTitledFirstName];;;;;;;;;;;Ìíå äîâåëîñü óçíàòü, ÷òî Âû - ïîñëåäîâàòåëü åðåòè÷åñêîé øêîëû àøàðèòîâ. Èõ ïðèíöèïû è ôèëîñîôèÿ îñêîðáëÿþò Àëëàõà è ó÷åíèå Ïðîðîêà (ìèð åìó è áëàãîñëîâåíèå). ß ïðèçûâàþ Âàñ ïðèíÿòü ìóòàçèëèçì.\nÏîäïèñü:\n [From.GetTitledFirstName];;x
+EVTDESC_SoA_613;As always, my liege, your wisdom far exceeds my own. If you think it best, I will abandon the Ash'ari teachings and instead embrace the doctrines of Mu'tazila.\n\nSigned,\n[wayward_vassal.GetTitledFirstName];;;;;;;;;;;Êàê âñåãäà, [Root.PrimaryTitle.GetFOA], Âàøà ìóäðîñòü íàìíîãî ïðåâûøàåò ìîþ. Åñëè Âû äóìàåòå, ÷òî òàê áóäåò ëó÷øå, ÿ îòêàæóñü îò ó÷åíèÿ àøàðèòîâ è ïðèìó ìóòàçèëèçì.\nÏîäïèñü:\n [From.GetTitledFirstName];;x
+EVTDESC_SoA_614;You may be my liege in the mortal world, but do not presume to dictate how I lead my spiritual life. That is between me, Allah and the Prophet (peace be upon them). I have no intention of adopting the heretical ways of the Mu'tazila school.\n\nSigned,\n[wayward_vassal.GetTitledFirstName];;;;;;;;;;;Äà, Âû - ìîé ñþçåðåí, â ìèðå ñìåðòíûõ, íî Âû íå ìîæåòå óêàçûâàòü ìíå, êàê âåñòè ìîþ äóõîâíóþ æèçíü. Âñ¸ ýòî òîëüêî ìåæäó ìíîé, Àëëàõîì è ïðîðîêîì (ìèð èì è áëàãîñëîâåíèå). ß íå ñîáèðàþñü ïðèíèìàòü ìóòàçèëèòñêóþ åðåñü.\nÏîäïèñü:\n [From.GetTitledFirstName];;x
+EVTDESC_SoA_620;Given your cynical nature, you have begun to question some of the basic tenets of the Ash'ari school of theology as of late. The more you look at the teachings of the opposing Mu'tazila school, the more they seem to make sense...;;;;;;;;;;;Âàøà öèíè÷íîñòü ïðèâåëà ê òîìó, ÷òî Âû ñòàëè çàäàâàòüñÿ âîïðîñàìè ïî ïîâîäó îñíîâíûõ ïîëîæåíèé àøàðèòñêîé øêîëû áîãîñëîâèÿ. È ÷åì áîëüøå Âû èíòåðåñóåòåñü ó÷åíèåì ìóòàçèëèòîâ, òåì áîëüøå ïîíèìàåòå, ÷òî îíî èìååò ñìûñë...;;x
+EVTDESC_SoA_621;Given your zealous nature, you have begun to question some of the basic tenets of the Mu'tazila school of theology as of late. The more you look at the teachings of the opposing Ash'ari school, the more they seem to make sense...;;;;;;;;;;;Âàøà íàáîæíîñòü ïðèâåëà ê òîìó, ÷òî Âû ñòàëè çàäàâàòüñÿ âîïðîñàìè ïî ïîâîäó îñíîâíûõ ïîëîæåíèé ìóòàçèëèòñêîé øêîëû áîãîñëîâèÿ. È ÷åì áîëüøå Âû èíòåðåñóåòåñü ó÷åíèåì àøàðèòîâ, òåì áîëüøå ÷óâñòâóåòå, ÷òî îíî âåðíî...;;x
+EVTOPTA_SoA_600;This is the right path.;;;;;;;;;;;Ýòî âåðíûé ïóòü.;;x
+EVTOPTA_SoA_603;Yes, I will enlighten [wayward_vassal.GetHerHim].;;;;;;;;;;;Äà, ïîïðîáóþ ïðîñâåòèòü [From.GetHersHis].;;x
+EVTOPTA_SoA_604;Yes, perhaps it would be best...;;;;;;;;;;;Äà, âîçìîæíî òàê áóäåò ëó÷øå...;;x
+EVTOPTA_SoA_605;A wise choice.;;;;;;;;;;;Ìóäðûé âûáîð.;;x
+EVTOPTA_SoA_606;That impudent...!;;;;;;;;;;;Êàêàÿ íàãëîñòü...!;;x
+EVTOPTA_SoA_611;Yes, I will enlighten [wayward_vassal.GetHerHim].;;;;;;;;;;;Äà, ïîïðîáóþ ïðîñâåòèòü [From.GetHersHis].;;x
+EVTOPTA_SoA_612;Yes, perhaps it would be best...;;;;;;;;;;;Äà, âîçìîæíî òàê áóäåò ëó÷øå...;;x
+EVTOPTA_SoA_613;A wise choice.;;;;;;;;;;;Ìóäðûé âûáîð.;;x
+EVTOPTA_SoA_614;That impudent...!;;;;;;;;;;;Êàêàÿ íàãëîñòü...!;;x
+EVTOPTA_SoA_620;Perhaps I have been walking the wrong path...;;;;;;;;;;;Âîçìîæíî, ìîé ïóòü ëîæåí...;;x
+EVTOPTB_SoA_603;No, it is not my concern.;;;;;;;;;;;Ýòî ìåíÿ íå êàñàåòñÿ.;;x
+EVTOPTB_SoA_604;Never!;;;;;;;;;;;Íèêîãäà!;;x
+EVTOPTB_SoA_611;No, it is not my concern.;;;;;;;;;;;Ýòî ìåíÿ íå êàñàåòñÿ.;;x
+EVTOPTB_SoA_612;Never!;;;;;;;;;;;Íèêîãäà!;;x
+EVTOPTB_SoA_620;No! I must purge my mind of such heretical thoughts.;;;;;;;;;;;Íåò! Íóæíî î÷èñòèòü ðàçóì îò åðåòè÷åñêèõ ïîìûñëîâ.;;x
+EVTOPTB_SoA_621;No! I must purge my mind of such misguided notions.;;;;;;;;;;;Íåò! Íóæíî î÷èñòèòü ðàçóì îò åðåòè÷åñêèõ ïîìûñëîâ.;;x
+EVTTOOLTIP_SoA_600;You embrace the Mu'tazila school of theology.;;;;;;;;;;;Âû îòäàëè ïðåäïî÷òåíèå øêîëå Ìóòàçèëèòîâ.;;x
+EVTTOOLTIP_SoA_601;You embrace the Ash'ari school of theology.;;;;;;;;;;;Âû îòäàëè ïðåäïî÷òåíèå øêîëå Àøàðèòîâ.;;x
+EVTTOOLTIP_SoA_604;You ask your vassal to switch theological school.;;;;;;;;;;;Âû ïðîñèòå âàññàëà ñìåíèòü áîãîñëîâñêóþ øêîëó.;;x
+EVTTOOLTIP_SoA_605;You send word that you agree to adopt the Ash'ari school.;;;;;;;;;;;Âû øë¸òå îòâåò î ñâî¸ì ñîãëàñèè ïðèíÿòü øêîëó Àøàðèòîâ.;;x
+EVTTOOLTIP_SoA_606;You send word that you refuse to adopt the Ash'ari school.;;;;;;;;;;;Âû øë¸òå îòâåò î ñâî¸ì îòêàçå ïðèíÿòü øêîëó Àøàðèòîâ.;;x
+EVTTOOLTIP_SoA_612;You ask your vassal to switch theological school.;;;;;;;;;;;Âû ïðîñèòå âàññàëà ñìåíèòü áîãîñëîâñêóþ øêîëó.;;x
+EVTTOOLTIP_SoA_613;You send word that you agree to adopt the Mu'tazila school.;;;;;;;;;;;Âû øë¸òå îòâåò î ñâî¸ì ñîãëàñèè ïðèíÿòü øêîëó Ìóòàçèëèòîâ.;;x
+EVTTOOLTIP_SoA_614;You send word that you refuse to adopt the Mu'tazila school.;;;;;;;;;;;Âû øë¸òå îòâåò î ñâî¸ì îòêàçå ïðèíÿòü øêîëó Ìóòàçèëèòîâ.;;x

@@ -1,8 +1,6 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC31000;The sadaqah, the voluntarily charity [From.GetTitledFirstName] so generously have given to the poor to help eliminate inequality and help those who have less than [From.GetSheHe] is commendable!;;;;;;;;;;;;;x
-EVTDESC31001;The [Root.Religion.GetName] [From.GetTitledFirstName] has heard of me giving Sadaqah, and sends [From.GetHerHis] blessings!;;;;;;;;;;;;;x
-
-EVTOPTA31000;Allah will forgive [From.GetTitledFirstName]'s sins;;;;;;;;;;;;;x
-EVTOPTA31001;I am deeply honored...;;;;;;;;;;;;;x
-EVTTOOLTIP31001;[This.GetTitledName] will hear of [Root.GetTitledFirstName]'s praise;;;;;;;;;;;;;x
+EVTDESC31000;The sadaqah, the voluntarily charity [From.GetTitledFirstName] so generously have given to the poor to help eliminate inequality and help those who have less than [From.GetSheHe] is commendable!;;;;;;;;;;;[From.GetTitledFirstName] ñäåëàë î÷åíü ùåäðîå äîáðîâîëüíîå ïîæåðòâîâàíèå (Ñàäàêà) áåäíûì, ÷òîáû ïîìî÷ü òåì, êòî èìååò ìåíüøå, ÷åì [From.GetSheHe], è óñòðàíèòü íåðàâåíñòâî. Ýòî äîñòîéíî ïîõâàëû!;;x
+EVTDESC31001;The [Root.Religion.GetName] [From.GetTitledFirstName] has heard of me giving Sadaqah, and sends [From.GetHerHis] blessings!;;;;;;;;;;;Ïðàâîâåðíûé [From.GetTitledFirstName] óñëûøàë î ìî¸ì ïîäàÿíèè Ñàäàêà è ïðèñëàë ñâî¸ áëàãîñëîâåíèå;;x
+EVTOPTA31000;Allah will forgive [From.GetTitledFirstName]'s sins;;;;;;;;;;;Àëëàõ ïðîñòèò [Root.job_spiritual.GetHersHis] ãðåõè;;x
+EVTOPTA31001;I am deeply honored...;;;;;;;;;;;ß ãëóáîêî ïîëüùåí[Root.GetEndA];;x
+EVTTOOLTIP31001;[This.GetTitledName] will hear of [Root.GetTitledFirstName]'s praise;;;;;;;;;;;óñëûøèò î [Root.job_spiritual.GetHersHis] ïîõâàëå;;x

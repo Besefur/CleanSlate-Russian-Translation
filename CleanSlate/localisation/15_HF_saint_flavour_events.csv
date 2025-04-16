@@ -1,32 +1,26 @@
-EVTDESC_HF_46000;There has been a large increase of pilgrims traveling to see the burial site of the local Saint [local_burial_tomb.province_saint.GetFirstNameWithNick] in [local_burial_tomb.GetName]. With so many people, this is a prime opportunity for...;;;;;;;;;;;;;x
-EVTDESC_HF_46001;The local Saint [saintly_burial_site.province_saint.GetFirstName] was an inspiration in many ways, and I wish I could live up to [saintly_burial_site.province_saint.GetHerHim]. Lately I have visited [saintly_burial_site.province_saint.GetHerHis] tomb a lot, and listened to the tales of [saintly_burial_site.province_saint.GetHerHis] miracles throughout [saintly_burial_site.province_saint.GetHerHis] life.;;;;;;;;;;;;;x
-EVTDESC_HF_46010;[target_burial_site.GetName] is a well known traveling spot for pilgrims to see the tomb of Saint [target_burial_site.province_saint.GetFirstName]. I have never cared much for Saint [target_burial_site.province_saint.GetFirstName] nor [offended_burial_site_owner.GetTitledFirstName], and an opportunity to grab the valuables of the tomb has offered itself. But is it worth the risk?;;;;;;;;;;;;;x
-EVTDESC_HF_46011;"My [Root.GetLordLady], we do not have a lot of time. Should we be careful and take it slow, or hurry and grab as much as possible?" My captain asks me, as we breach the tomb of Saint [target_burial_site.province_saint.GetFirstName].;;;;;;;;;;;;;x
-EVTDESC_HF_46012;My men suddenly bring drag [From.GetTitledFirstName] into my room. "My [Root.GetLordLady], we found this [From.GetManWoman] in the tomb of Saint [target_burial_site.province_saint.GetFirstName], clearly trying to pillage the place.";;;;;;;;;;;;;x
-EVTDESC_HF_46013;The burial site of §YSaint [target_burial_site.province_saint.GetFirstName]§! at [target_burial_site.GetName] has been plundered, and has been left a complete mess...;;;;;;;;;;;;;x
-EVTDESC_HF_46020;My men has come across the burial site of some sort of holy person for the pathetic [pillaged_christian.Religion.GetGroupName] [pillaged_christian.GetTitledFirstName]. This could be a chance to show them how we treat their weak holy people.;;;;;;;;;;;;;x
-
-EVTOPTA_HF_46000;Refurbishing the tomb so everyone can see what a pious [Root.GetManWoman] I am.;;;;;;;;;;;;;x
-EVTOPTA_HF_46000_TT;Restore the tomb of Saint [local_burial_tomb.province_saint.GetFirstNameWithNick] to its former glory.;;;;;;;;;;;;;x
-EVTOPTA_HF_46001;I will live up to [saintly_burial_site.province_saint.GetHerHis] ideals!;;;;;;;;;;;;;x
-EVTOPTA_HF_46010;No, I rather not do that. ;;;;;;;;;;;;;x
-EVTOPTA_HF_46011;Let us be careful, and grab what we can.;;;;;;;;;;;;;x
-EVTOPTA_HF_46011_TT;You find a couple of trinkets.;;;;;;;;;;;;;x
-EVTOPTA_HF_46012;Oh my, how preposterous! Put [From.GetHerHim] away!;;;;;;;;;;;;;x
-EVTOPTA_HF_46020;Take everything of value, and leave nothing behind.;;;;;;;;;;;;;x
-
-EVTOPTB_HF_46000;Refurbishing the tomb and granting the church a large public donation.;;;;;;;;;;;;;x
-EVTOPTB_HF_46001;I can only wish to be like [saintly_burial_site.province_saint.GetHerHim]...;;;;;;;;;;;;;x
-EVTOPTB_HF_46010;Why yes, that sounds like a good idea.;;;;;;;;;;;;;x
-EVTOPTB_HF_46010_TT;Preparations to pillage the burial site begins.;;;;;;;;;;;;;x
-EVTOPTB_HF_46011;Silly man, we are here to get as much as possible.;;;;;;;;;;;;;x
-EVTOPTB_HF_46011_TT;You find some valuable items.;;;;;;;;;;;;;x
-EVTOPTB_HF_46020;We are not barbarians like them, we will leave it alone.;;;;;;;;;;;;;x
-
-EVTOPTC_HF_46000;To make a large public donation to the church.;;;;;;;;;;;;;x
-
-EVTOPTD_HF_46000;Making some money off of them.;;;;;;;;;;;;;x
-
-EVTOPTE_HF_46000;I will converse with the pilgrims.;;;;;;;;;;;;;x
-
-EVTOPTF_HF_46000;Talk to them about my own pilgrimage.;;;;;;;;;;;;;x
+EVTDESC_HF_46000;There has been a large increase of pilgrims traveling to see the burial site of the local Saint [local_burial_tomb.province_saint.GetFirstNameWithNick] in [local_burial_tomb.GetName]. With so many people, this is a prime opportunity for...;;;;;;;;;;;[local_burial_tomb.GetName] - ñ íåêîòîðûõ ïîð ñâÿùåííîå ìåñòî. Â ïîñëåäíåå âðåìÿ çäåñü çíà÷èòåëüíî óâåëè÷èëîñü ÷èñëî ïàëîìíèêîâ, ïóòåøåñòâóþùèõ, ÷òîáû óâèäåòü ãðîáíèöó, â êîòîðîé ïîêîèòñÿ [local_burial_tomb.province_saint.GetFirstNameWithNick]. Ñ òàêèì êîëè÷åñòâîì ëþäåé ýòî îòëè÷íàÿ âîçìîæíîñòü...;;x
+EVTDESC_HF_46001;The local Saint [saintly_burial_site.province_saint.GetFirstName] was an inspiration in many ways, and I wish I could live up to [saintly_burial_site.province_saint.GetHerHim]. Lately I have visited [saintly_burial_site.province_saint.GetHerHis] tomb a lot, and listened to the tales of [saintly_burial_site.province_saint.GetHerHis] miracles throughout [saintly_burial_site.province_saint.GetHerHis] life.;;;;;;;;;;;Ñâÿò[saintly_burial_site.province_saint.GetAyaOy] [saintly_burial_site.province_saint.GetFirstName] áûë[saintly_burial_site.province_saint.GetEndA] äëÿ ìåíÿ, âî ìíîãîì, èñòî÷íèêîì âäîõíîâåíèÿ è ÿ õîòåë[Root.GetEndA] áû ñîîòâåòñòâîâàòü [saintly_burial_site.province_saint.GetHerHim]. Â ïîñëåäíåå âðåìÿ ÿ ÷àñòî ïîñåùàë[Root.GetEndA] [saintly_burial_site.province_saint.GetHersHis] ìîãèëó è ñëóøàë[Root.GetEndA] ðàññêàçû î ÷óäåñàõ, ñîâåðø¸ííûõ [saintly_burial_site.province_saint.GetEyuIm] íà ïðîòÿæåíèè âñåé [saintly_burial_site.province_saint.GetHersHis] æèçíè.;;x
+EVTDESC_HF_46010;[target_burial_site.GetName] is a well known traveling spot for pilgrims to see the tomb of Saint [target_burial_site.province_saint.GetFirstName]. I have never cared much for Saint [target_burial_site.province_saint.GetFirstName] nor [offended_burial_site_owner.GetTitledFirstName], and an opportunity to grab the valuables of the tomb has offered itself. But is it worth the risk?;;;;;;;;;;;[target_burial_site.GetName] - ýòî èçâåñòíîå ìåñòî, êóäà åäóò ïàëîìíèêè, ÷òîáû óâèäåòü ãðîáíèöó, â êîòîðîé ïîêîèòñÿ Ñâÿò[target_burial_site.province_saint.GetAyaOy] [target_burial_site.province_saint.GetFirstName]. Ìåíÿ íèêîãäà îñîáî íå âîëíîâàëè íè ñàì[target_burial_site.province_saint.GetEndA] câÿò[target_burial_site.province_saint.GetAyaOy], íè ïðàâèòåëü[offended_burial_site_owner.GetEndNitsa] ýòèõ çåìåëü [offended_burial_site_owner.GetTitledFirstName], à òóò ïðåäñòàâèëàñü âîçìîæíîñòü ïðèõâàòèòü öåííîñòè èç ãðîáíèöû. Íî ñòîèò ëè ðèñêîâàòü?;;x
+EVTDESC_HF_46011;My [Root.GetLordLady], we do not have a lot of time. Should we be careful and take it slow, or hurry and grab as much as possible? My captain asks me, as we breach the tomb of Saint [target_burial_site.province_saint.GetFirstName].;;;;;;;;;;;— Ì[Root.GetOyaOy] [Root.GetLordLady], ó íàñ íå òàê ìíîãî âðåìåíè. Äîëæíû ëè ìû áûòü îñòîðîæíû è íå òîðîïèòüñÿ, èëè ïîñïåøèòü è âçÿòü êàê ìîæíî áîëüøå? — ñïðîñèë ó ìåíÿ êàïèòàí, êîãäà ìû ïðîíèêëè â ãðîáíèöó.;;x
+EVTDESC_HF_46012;"My men suddenly bring drag [From.GetTitledFirstName] into my room. ""My [Root.GetLordLady], we found this [From.GetManWoman] in the tomb of Saint [target_burial_site.province_saint.GetFirstName], clearly trying to pillage the place.""";;;;;;;;;;;— Ì[Root.GetOyaOy] [Root.GetLordLady], ìû ïîéìàëè ýò[From.GetUOgo] [From.GetAgedPersonACC] â ãðîáíèöå. Î÷åâèäíî, [From.GetSheHe] õîòåë[From.GetEndA] îãðàáèòü Ñâÿò[target_burial_site.province_saint.GetUyuOgo], — äîëîæèëè ìíå ñòðàæíèêè, ïðèâåäøèå íàðóøèòåë[From.GetSoftNitsuYa] êî ìíå. [From.GetEyuImCap] îêàçà[From.GetLasLsya] [From.GetTitledFirstName].;;x
+EVTDESC_HF_46013;The burial site of §YSaint [target_burial_site.province_saint.GetFirstName]§! at [target_burial_site.GetName] has been plundered, and has been left a complete mess...;;;;;;;;;;;§Y[target_burial_site.County.GetAdjective]ñêàÿ§! ãðîáíèöà, â êîòîðîé ïîêîèòñÿ §YÑâÿò[target_burial_site.province_saint.GetAyaOy] [target_burial_site.province_saint.GetFirstName]§!, áûëà ðàçãðàáëåíà è òåïåðü ïðåáûâàåò â ïîëíîì áåñïîðÿäêå...;;x
+EVTDESC_HF_46020;My men has come across the burial site of some sort of holy person for the pathetic [pillaged_christian.Religion.GetGroupName] [pillaged_christian.GetTitledFirstName]. This could be a chance to show them how we treat their weak holy people.;;;;;;;;;;;"Ìîè ëþäè íàòêíóëèñü íà ìåñòî çàõîðîíåíèÿ êàêî[pillaged_christian.GetYGo]-òî æàëêî[pillaged_christian.GetYGo] [pillaged_christian.GetRelGroupNickGEN]. Îíè çîâóò [pillaged_christian.GetHersHis] [pillaged_christian.GetTitledFirstNameWithNick]. Ýòî äà¸ò íàì øàíñ ïîêàçàòü èì, êàê ìû îòíîñèìñÿ ê èõ ""ñâÿòûì"".";;x
+EVTOPTA_HF_46000;Refurbishing the tomb so everyone can see what a pious [Root.GetManWoman] I am.;;;;;;;;;;;Âîññòàíîâèòü ãðîáíèöó, äàáû âñå âèäåëè, êàê ÿ áëàãî÷åñòèâ[Root.GetEndA].;;x
+EVTOPTA_HF_46000_TT;Restore the tomb of Saint [local_burial_tomb.province_saint.GetFirstNameWithNick] to its former glory.;;;;;;;;;;;Âîññòàíîâèòü ìîãèëó, â êîòîðîé ïîêîèòñÿ §Y[local_burial_tomb.province_saint.GetFirstNameWithNick]§!, äàáû âåðíóòü åé áûëóþ ñëàâó.;;x
+EVTOPTA_HF_46001;I will live up to [saintly_burial_site.province_saint.GetHerHis] ideals!;;;;;;;;;;;ß áóäó ñîîòâåòñòâîâàòü [saintly_burial_site.province_saint.GetHersHis] èäåàëàì!;;x
+EVTOPTA_HF_46010;No, I rather not do that. ;;;;;;;;;;;Íåò, ëó÷øå ýòîãî íå äåëàòü.;;x
+EVTOPTA_HF_46011;Let us be careful, and grab what we can.;;;;;;;;;;;— Äàâàéòå áóäåì îñòîðîæíû è âîçüì¸ì, ÷òî ïîëó÷èòñÿ.;;x
+EVTOPTA_HF_46011_TT;You find a couple of trinkets.;;;;;;;;;;;Âû íàéä¸òå ïàðó áåçäåëóøåê.;;x
+EVTOPTA_HF_46012;Oh my, how preposterous! Put [From.GetHerHim] away!;;;;;;;;;;;— [Root.GetNumenExcl], êàêîé ïîçîð! Óâåäèòå [From.GetHersHis]!;;x
+EVTOPTA_HF_46020;Take everything of value, and leave nothing behind.;;;;;;;;;;;— Áåðèòå âñ¸ öåííîå è íè÷åãî íå îñòàâëÿéòå.;;x
+EVTOPTB_HF_46000;Refurbishing the tomb and granting the church a large public donation.;;;;;;;;;;;Âîññòàíîâèòü ãðîáíèöó è ñäåëàòü ïîæåðòâîâàíèå Öåðêâè.;;x
+EVTOPTB_HF_46001;I can only wish to be like [saintly_burial_site.province_saint.GetHerHim]...;;;;;;;;;;;ß ìîãó ëèøü æåëàòü áûòü ïîõîæ[Root.GetEyIm] íà í[saintly_burial_site.province_saint.GetHersHis]...;;x
+EVTOPTB_HF_46010;Why yes, that sounds like a good idea.;;;;;;;;;;;Äà, ýòî õîðîøàÿ èäåÿ.;;x
+EVTOPTB_HF_46010_TT;Preparations to pillage the burial site begins.;;;;;;;;;;;Íà÷àòü ïðèãîòîâëåíèÿ ê ðàçãðàáëåíèþ çàõîðîíåíèÿ.;;x
+EVTOPTB_HF_46011;Silly man, we are here to get as much as possible.;;;;;;;;;;;— Ìû çäåñü, ÷òîáû ïîëó÷èòü êàê ìîæíî áîëüøå!;;x
+EVTOPTB_HF_46011_TT;You find some valuable items.;;;;;;;;;;;Âû íàéä¸ò¸ íåñêîëüêî öåííûõ âåùåé.;;x
+EVTOPTB_HF_46020;We are not barbarians like them, we will leave it alone.;;;;;;;;;;;— Ìû íå âàðâàðû, â îòëè÷èå îò íèõ. Îñòàâèì âñ¸ êàê åñòü.;;x
+EVTOPTC_HF_46000;To make a large public donation to the church.;;;;;;;;;;;Ïîæåðòâîâàòü äåíüãè Öåðêâè.;;x
+EVTOPTD_HF_46000;Making some money off of them.;;;;;;;;;;;Çàðàáîòàòü íà íèõ äåíüãè.;;x
+EVTOPTE_HF_46000;I will converse with the pilgrims.;;;;;;;;;;;Ïîãîâîðèòü ñ ïàëîìíèêàìè.;;x
+EVTOPTF_HF_46000;Talk to them about my own pilgrimage.;;;;;;;;;;;Ïîãîâîðèòü ñ íèìè î ìî¸ì ñîáñòâåííîì ïàëîìíè÷åñòâå.;;x

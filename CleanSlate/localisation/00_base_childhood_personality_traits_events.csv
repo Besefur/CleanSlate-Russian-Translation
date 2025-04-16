@@ -1,489 +1,473 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC1500;Every day, the cook chases me out of the kitchen, but not before I've stuffed myself and my pockets full of biscuits.;;;;;;;;;;;;;x
-EVTDESC1501;My [GetFromRelation], [From.GetTitledFirstName] thinks I eat far too much and has declared the kitchens off limits!;;;;;;;;;;;;;x
-EVTDESC1510;I had better eat with moderation, or I'll end up looking like my fat nanny...;;;;;;;;;;;;;x
-EVTDESC1511;My [GetFromRelation] is worried about my health and wants me to eat more.;;;;;;;;;;;;;x
-EVTDESC1520;No, you can't have them, they are mine!;;;;;;;;;;;;;x
-EVTDESC1521;My [GetFromRelation] [From.GetTitledFirstName] won't have me turn into a 'mean and selfish little moneygrubber'.;;;;;;;;;;;;;x
-EVTDESC1530;If you play with me I'll let you play with my toys.;;;;;;;;;;;;;x
-EVTDESC1531;My [GetFromRelation] told me I should never let my lessers have what is mine... but my friend was just going to borrow some toys!;;;;;;;;;;;;;x
-EVTDESC1540;I hate Latin, I hate History and I won't do my homework!;;;;;;;;;;;;;x
-EVTDESC1541;My [GetFromRelation] is furious at my 'lazy nature' and will keep a closer eye on my studies from now on.;;;;;;;;;;;;;x
-EVTDESC1550;I always do my homework and my chores before I go and play.;;;;;;;;;;;;;x
-EVTDESC1551;My [GetFromRelation] explained to me that I am taking life far too seriously and need to relax.;;;;;;;;;;;;;x
-EVTDESC1560;It's not fair, even peasant children have nicer things than I do!;;;;;;;;;;;;;x
-EVTDESC1561;My [GetFromRelation] gave me a stern talking to about the deadly sin of envy.;;;;;;;;;;;;;x
-EVTDESC1570;Most people have good hearts. A stranger is just a friend I have yet to meet.;;;;;;;;;;;;;x
-EVTDESC1571;My [GetFromRelation] [From.GetFirstName] took me over the knee and beat me with a stick for my trusting and weak nature.;;;;;;;;;;;;;x
-EVTDESC1580;That kid mocked me! I cannot be blamed for punching him in the face and giving him a nosebleed...;;;;;;;;;;;;;x
-EVTDESC1581;My [GetFromRelation] [From.GetFirstName] is not pleased with my temper. [From.GetSubjectPronounCap] gave me the switch!;;;;;;;;;;;;;x
-EVTDESC1590;Let the little fools whisper and snigger behind my back. I can wait... revenge is a dish best served cold.;;;;;;;;;;;;;x
-EVTDESC1591;[From.GetFirstName], my [GetFromRelation], chastised me for my cold patient nature. 'Show some spirit, damn you!' [From.GetSubjectPronoun] shouted.;;;;;;;;;;;;;x
-EVTDESC1600;I stand head and shoulders above the other children, and why should I pretend otherwise?;;;;;;;;;;;;;x
-EVTDESC1601;Today, my [GetFromRelation] [From.GetFirstName] called me an arrogant braggart and told me the story of Icarus and Daedalus.;;;;;;;;;;;;;x
-EVTDESC1610;Why show off, when everything I have, I have been given?;;;;;;;;;;;;;x
-EVTDESC1611;My [GetFromRelation] [From.GetFirstName] is not impressed with my humility. 'Stand tall when you deserve it', [From.GetSubjectPronoun] explained.;;;;;;;;;;;;;x
-EVTDESC1620;People are so easy to manipulate! A smile, a tear, the right inflection, and they will rush to do my bidding.;;;;;;;;;;;;;x
-EVTDESC1621;My evil [GetFromRelation] [From.GetFirstName] promised that for every lie I tell, I'll get a rap from the rod.;;;;;;;;;;;;;x
-EVTDESC1630;I find religion fascinating, especially when the priests talk of heathens and infidels, and how they shall be struck down!;;;;;;;;;;;;;x
-EVTDESC1631;I was reading the [Root.Religion.GetScriptureName] when my [GetFromRelation] took it away, telling me to ease off and go outside and play.;;;;;;;;;;;;;x
-EVTDESC1632;I find religion fascinating, especially when the Qur'an talk of heathens and infidels, and how they shall be struck down!;;;;;;;;;;;;;x
-EVTDESC1640;Sometimes, people get upset by my honest opinions. 'Yes, you look fat.' 'You have a big nose.' It's just the truth!;;;;;;;;;;;;;x
-EVTDESC1641;At length, my [GetFromRelation] [From.GetFirstName] lectured me on the necessity of white lies and the virtues of omission.;;;;;;;;;;;;;x
-EVTDESC1650;I don't like climbing trees, I'm afraid of spiders and I won't go near the graveyard. Does that make me a craven?;;;;;;;;;;;;;x
-EVTDESC1651;My [GetFromRelation] [From.GetFirstName] talked me into touching a spider today, it was icky and I squealed but didn't run away.;;;;;;;;;;;;;x
-EVTDESC1660;I climb the highest trees, visit the graveyard at midnight and collect spiders and snakes.;;;;;;;;;;;;;x
-EVTDESC1661;One of the snakes bit me this morning. My poor [GetFromRelation] [From.GetFirstName] cursed my recklessness and made me promise to stop messing around with vermin.;;;;;;;;;;;;;x
-EVTDESC1670;I can't look a stranger in the eye without blushing or looking down.;;;;;;;;;;;;;x
-EVTDESC1671;When I refused to greet the guests, my [GetFromRelation] [From.GetFirstName] spanked me and locked me in my room without dinner.;;;;;;;;;;;;;x
-EVTDESC1680;Inquisitive, curious and friendly, I always am the first to greet strangers.;;;;;;;;;;;;;x
-EVTDESC1681;I rushed to meet the guests and got to the hall before my [GetFromRelation] [From.GetFirstName]. For that, I earned a spanking.;;;;;;;;;;;;;x
-EVTDESC1690;I'm going to be the bestest ruler ever when I grow up!;;;;;;;;;;;;;x
-EVTDESC1691;My [GetFromRelation] [From.GetFirstName] must be jealous, why else would [From.GetSheHe] punish me for being ambitious?;;;;;;;;;;;;;x
-EVTDESC1700;My friends dream of riches, power and fancy things, but I don't even wanna grow up!;;;;;;;;;;;;;x
-EVTDESC1701;My ears are still ringing with my [GetFromRelation] [From.GetFirstName]'s harsh words. I need to grow a spine and get some ambition.;;;;;;;;;;;;;x
-EVTDESC1710;I do whatever strikes my fancy. Such as smashing this fine glass goblet!;;;;;;;;;;;;;x
-EVTDESC1711;My [GetFromRelation] [From.GetFirstName] took the strap to me for smashing the goblet.;;;;;;;;;;;;;x
-EVTDESC1720;I always make sure the children get equal parts when the cook gives us sweetmeats, full-cream milk or anything else.;;;;;;;;;;;;;x
-EVTDESC1721;My [GetFromRelation] [From.GetFirstName] chided me for my obsession with fairness, explaining that justice is simply word invented by human with too much time on their hands.;;;;;;;;;;;;;x
-EVTDESC1730;People are naive fools, laughing, dancing and nodding like puppets to the false tune played by priests and noblemen. Charlatans all!;;;;;;;;;;;;;x
-EVTDESC1731;The priest bored me to tears with a sermon, then told my [GetFromRelation] about my cynicism. [From.GetSubjectPronounCap] tried beating it out of me...;;;;;;;;;;;;;x
-EVTDESC1732;People are naive fools, laughing, dancing and nodding like puppets to the false tune played by imams. Charlatans all!;;;;;;;;;;;;;x
-EVTDESC1733;The imam's admonishment bored me to tears, then he told my [GetFromRelation] about my cynicism. [From.GetSubjectPronounCap] tried beating it out of me...;;;;;;;;;;;;;x
-EVTDESC1900;I seem to be slow to talk;;;;;;;;;;;;;x
-EVTDESC1901;So where does children come from?;;;;;;;;;;;;;x
-EVTDESC1902;The darkness must definitely contain goblins and demon!;;;;;;;;;;;;;x
-EVTDESC1903;Other children just get into fights with me.;;;;;;;;;;;;;x
-EVTDESC1904;I just do not have enough things to play with.;;;;;;;;;;;;;x
-EVTDESC1905;Other children talk about their mothers, but I never see my mother.;;;;;;;;;;;;;x
-EVTDESC1906;I am rather lonely, the other children does not seem to want to be with me.;;;;;;;;;;;;;x
-EVTDESC1907;Why must I go to school today instead of playing 'Who's afraid of the Black Knight' with my friends?;;;;;;;;;;;;;x
-EVTDESC1908;I really wonder what heathens are. Maybe [Root.Guardian.GetFullName] knows?;;;;;;;;;;;;;x
-EVTDESC1909;Climbing high walls, and practising sword fighting with my friends are great fun.;;;;;;;;;;;;;x
-EVTDESC1910;I wonder if [Root.Religion.GetRandomGodName] does exist. Maybe [Root.Guardian.GetFullName] knows?;;;;;;;;;;;;;x
-EVTDESC1911;Why do people die? Maybe [Root.Guardian.GetFullName] knows?;;;;;;;;;;;;;x
-EVTDESC1912;Will I rule one day? Maybe [Root.Guardian.GetFullName] knows?;;;;;;;;;;;;;x
-EVTDESC1913;Life is good, and great parties makes them even better.;;;;;;;;;;;;;x
-EVTDESC1914;I do not understand why we are fighting fellow [catholic.GetName]s?;;;;;;;;;;;;;x
-EVTDESC1915;I wonder why the Church is so rich, and the peasants so poor?;;;;;;;;;;;;;x
-EVTDESC1916;I wonder why [Root.Guardian.GetFullName] let that peasant get away?;;;;;;;;;;;;;x
-EVTDESC1917;Peasants are only good for following my commands!;;;;;;;;;;;;;x
-EVTDESC1918;Deep thoughts interest me, but I would love to hear the answers to some questions.;;;;;;;;;;;;;x
-EVTDESC1919;Since we all are going to die, why not enjoy life?;;;;;;;;;;;;;x
-EVTDESC1920;Serving [Root.Religion.GetRandomGodName] should be our goal in life. How can I do it the best way?;;;;;;;;;;;;;x
-EVTDESC1921;I snuck out again, found my slim sword Pin and began practising. I'd rather practise sword fighting with Pin than doing embroidery, but I have to watch out so none finds out and takes my sword from me...;;;;;;;;;;;;;x
-EVTDESC1922;I am afraid of so many things, and every time I show my weaknesses others ridicule me for cowardness.;;;;;;;;;;;;;x
-EVTDESC1923;I sneaked through the dungeons, hearing the prisoners pleading for their life and the coarse laughter from the guards. A knife lay forgotten on the floor and I brought it with me, only to realize in the daylight why it had felt so sticky...;;;;;;;;;;;;;x
-EVTDESC1924;I curled up in my favorite chair with the biggest book I could find. When I heard [Root.Guardian.GetFullName] coming up the stairs I sprung from the chair but the book dragged me down and so [Root.Guardian.GetFullName] caught me.;;;;;;;;;;;;;x
-EVTDESC1925;I know I am ugly, I can never be as beautiful as some of the people in the court of [Root.Guardian.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTDESC1926;I always get compliments for my fair skin, my silken hair and my big eyes. They tell me I am beautiful and I should be proud of my looks.;;;;;;;;;;;;;x
-EVTDESC1927;It was market day and I had persuaded [Root.Guardian.GetFullName] to let me have some money for sweetmeats. I found what I wanted but haggled all I could until the merchant gave up, laughed and handed me the sweetmeats for a lot less than what he wanted for them.;;;;;;;;;;;;;x
-EVTDESC1928;Visitors arrived today and, despite their peculiar clothes, strange language and strangely colored skin, they were warmly greeted by [Root.Guardian.GetFullName]. I wanted to talk to them and find out where they came from and who they were, but I was not sure if [Root.Guardian.GetTitledFirstName] would approve.;;;;;;;;;;;;;x
-EVTDESC1929;Every chance I get I practice swordfighting, often with the older men who finds it amusing to see me charging at them with all my might. They are too seasoned for me to defeat them, but practise makes perfect and one day I will be the best.;;;;;;;;;;;;;x
-EVTDESC1930;I got my first kiss today! It was not quite what I had expected but rather nice anyway. Too bad [Root.Guardian.GetFullName] blundered in on us, spoiling the moment.;;;;;;;;;;;;;x
-EVTDESC1931;The kitchen is warm and filled with delicious smells and even more delicious foodstuff. If I could, I would spend all my days here.;;;;;;;;;;;;;x
-EVTDESC1932;The biggest tower in [Root.Location.GetName] is staggering high, but I had decided to climb all the way up, on the outside. I saw [Root.Guardian.GetFullName] in the room at the top and shouted a greeting.;;;;;;;;;;;;;x
-EVTDESC1933;I don't feel too good, I am feverish and my head hurts! Can't [Root.Guardian.GetFullName] do something to rid me of this illness?;;;;;;;;;;;;;x
-EVTDESC1934;I have feelings for a [Root.GetManWoman] at court, I feel happy and almost in love everytime I see [Root.GetHerHim]. I try to accept this but will others accept me?;;;;;;;;;;;;;x
-EVTDESC1935;I have never had any problems making friends, to get someone to like me I can twist and turn the truth until it fits.;;;;;;;;;;;;;x
-EVTDESC1965;Haha, look at that rat trying to walk with broken legs! Roly poly little rat!;;;;;;;;;;;;;x
-EVTDESC1966;My ears are still ringing from the slap [From.GetTitledFirstName] gave me over that rat.;;;;;;;;;;;;;x
-EVTDESC1970;Maybe the stablemaster knows more about horses than I do, I'm not that interested anymore anyway.;;;;;;;;;;;;;x
-EVTDESC1980;Women do not interest me, instead I feel drawn to other men.;;;;;;;;;;;;;x
-EVTDESC1985;I know I should not be drawn to other men but I can't seem to help it. Should I deny my feelings and be as the church and world wants me to be?;;;;;;;;;;;;;x
-EVTDESC1986;To lie with another [Root.GetManWoman] as you would lie with a [Root.GetManWomanOpp] is sinful, forbidden and if I was to be exposed, death would be my penalty.;;;;;;;;;;;;;x
-EVTDESC1990;Men do not interest me, instead I feel drawn to other women.;;;;;;;;;;;;;x
-EVTDESC1991;I can run around wild and do whatever I want. Without any guardian, I set my own moral standards!;;;;;;;;;;;;;x
-EVTDESC1995;I know I should not be drawn to other women but I can't seem to help it. Should I deny my feelings and be as the church and world wants me to be?;;;;;;;;;;;;;x
-
-EVTOPTA1500;Mmm, sweets!;;;;;;;;;;;;;x
-EVTOPTA1501;But I'm hungry!;;;;;;;;;;;;;x
-EVTOPTA1510;Fat people are ugly;;;;;;;;;;;;;x
-EVTOPTA1511;I don't want to get fat though.;;;;;;;;;;;;;x
-EVTOPTA1520;My toys! Mine!;;;;;;;;;;;;;x
-EVTOPTA1521;But... they are MY toys.;;;;;;;;;;;;;x
-EVTOPTA1530;I'm nice;;;;;;;;;;;;;x
-EVTOPTA1531;I'm confused;;;;;;;;;;;;;x
-EVTOPTA1540;I'll just take a nap instead;;;;;;;;;;;;;x
-EVTOPTA1541;But I'm tired!;;;;;;;;;;;;;x
-EVTOPTA1550;I'm special;;;;;;;;;;;;;x
-EVTOPTA1551;[From.GetSubjectPronounCap] is right!;;;;;;;;;;;;;x
-EVTOPTA1560;I want what they have!;;;;;;;;;;;;;x
-EVTOPTA1561;I still NEED that dress!;;;;;;;;;;;;;x
-EVTOPTA1570;They all mean well;;;;;;;;;;;;;x
-EVTOPTA1571;I take it back, some people are evil.;;;;;;;;;;;;;x
-EVTOPTA1580;I hate him!;;;;;;;;;;;;;x
-EVTOPTA1581;I hate [From.GetObjectPronoun] too!;;;;;;;;;;;;;x
-EVTOPTA1590;Patience pays off;;;;;;;;;;;;;x
-EVTOPTA1591;My temper is rising;;;;;;;;;;;;;x
-EVTOPTA1600;It's the truth!;;;;;;;;;;;;;x
-EVTOPTA1601;Pride goeth before fall;;;;;;;;;;;;;x
-EVTOPTA1610;I see that clearly;;;;;;;;;;;;;x
-EVTOPTA1620;Fools, all of them!;;;;;;;;;;;;;x
-EVTOPTA1621;I will never lie again! Ouch...!;;;;;;;;;;;;;x
-EVTOPTA1630;I want to know more!;;;;;;;;;;;;;x
-EVTOPTA1631;Maybe [From.GetSubjectPronoun] is right!;;;;;;;;;;;;;x
-EVTOPTA1640;I tell it as I see it;;;;;;;;;;;;;x
-EVTOPTA1641;So my tongue won't turn black?;;;;;;;;;;;;;x
-EVTOPTA1650;It probably does;;;;;;;;;;;;;x
-EVTOPTA1651;I was brave, wasn't I?;;;;;;;;;;;;;x
-EVTOPTA1660;It makes me feel alive!;;;;;;;;;;;;;x
-EVTOPTA1661;Fine!;;;;;;;;;;;;;x
-EVTOPTA1670;I'm a bit shy;;;;;;;;;;;;;x
-EVTOPTA1671;I'm starving!;;;;;;;;;;;;;x
-EVTOPTA1680;Hi, what's your name?;;;;;;;;;;;;;x
-EVTOPTA1681;I hate [From.GetObjectPronoun]!;;;;;;;;;;;;;x
-EVTOPTA1690;It is my right!;;;;;;;;;;;;;x
-EVTOPTA1691;Mad as a hatter, [From.GetSheHe] is;;;;;;;;;;;;;x
-EVTOPTA1700;I am happy with what I have;;;;;;;;;;;;;x
-EVTOPTA1701;Where can I get that?;;;;;;;;;;;;;x
-EVTOPTA1710;Music to my ears!;;;;;;;;;;;;;x
-EVTOPTA1711;I see that it was wrong now;;;;;;;;;;;;;x
-EVTOPTA1720;It has to be fair;;;;;;;;;;;;;x
-EVTOPTA1721;Perhaps [From.GetSubjectPronoun] is right...;;;;;;;;;;;;;x
-EVTOPTA1730;It is all pointless!;;;;;;;;;;;;;x
-EVTOPTA1731;It worked;;;;;;;;;;;;;x
-EVTOPTA1900;Maybe someone will notice it.;;;;;;;;;;;;;x
-EVTOPTA1901;Maybe my father will tell me?;;;;;;;;;;;;;x
-EVTOPTA1902;Help me!;;;;;;;;;;;;;x
-EVTOPTA1903;Maybe my father notices it.;;;;;;;;;;;;;x
-EVTOPTA1904;Maybe father will give me more toys.;;;;;;;;;;;;;x
-EVTOPTA1905;Maybe father knows..;;;;;;;;;;;;;x
-EVTOPTA1906;It is probably no big deal.;;;;;;;;;;;;;x
-EVTOPTA1907;My will should count for more...;;;;;;;;;;;;;x
-EVTOPTA1908;I'll ask [Root.Guardian.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTA1909;[Root.Guardian.GetFullName] would surely agree!;;;;;;;;;;;;;x
-EVTOPTA1910;I'll ask [Root.Guardian.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTA1911;I'll go ask [Root.Guardian.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTA1912;I should ask [Root.Guardian.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTA1913;Maybe I should invite [Root.Guardian.GetFullName] to one of them?;;;;;;;;;;;;;x
-EVTOPTA1914;Perhaps [Root.Guardian.GetFullName] knows why?;;;;;;;;;;;;;x
-EVTOPTA1915;I'll go and ask [Root.Guardian.GetFullName]!;;;;;;;;;;;;;x
-EVTOPTA1916;I'll go and ask [Root.Guardian.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTA1917;[Root.Guardian.GetFullName] will surely agree!;;;;;;;;;;;;;x
-EVTOPTA1918;[Root.Guardian.GetFullName] will help me out!;;;;;;;;;;;;;x
-EVTOPTA1919;[Root.Guardian.GetFullName] will know what to do...;;;;;;;;;;;;;x
-EVTOPTA1920;[Root.Guardian.GetFullName] will know what to do...;;;;;;;;;;;;;x
-EVTOPTA1921;I was not careful enough, [Root.Guardian.GetFullName] saw me!;;;;;;;;;;;;;x
-EVTOPTA1922;[Root.Guardian.GetFullName], please make them stop!;;;;;;;;;;;;;x
-EVTOPTA1923;Ew! Blood!;;;;;;;;;;;;;x
-EVTOPTA1924;Let me go! I wanna read!;;;;;;;;;;;;;x
-EVTOPTA1925;Why am I not beautiful?;;;;;;;;;;;;;x
-EVTOPTA1926;I am the fairest of them all!;;;;;;;;;;;;;x
-EVTOPTA1927;It was a sweet deal;;;;;;;;;;;;;x
-EVTOPTA1928;[Root.Guardian.GetFullName], may I talk to the visitors?;;;;;;;;;;;;;x
-EVTOPTA1929;Isn't that right, [Root.Guardian.GetFullName]?;;;;;;;;;;;;;x
-EVTOPTA1930;You ruined everything!;;;;;;;;;;;;;x
-EVTOPTA1931;I wanna become a cook!;;;;;;;;;;;;;x
-EVTOPTA1932;[Root.Guardian.GetSheHeCap] didn't look too happy;;;;;;;;;;;;;x
-EVTOPTA1933;Please, help me!;;;;;;;;;;;;;x
-EVTOPTA1934;Do you accept me for who I am, [Root.Guardian.GetFullName]?;;;;;;;;;;;;;x
-EVTOPTA1935;It's a great skill, isn't it, [Root.Guardian.GetFullName]?;;;;;;;;;;;;;x
-EVTOPTA1965;Perhaps a cat next...;;;;;;;;;;;;;x
-EVTOPTA1966;I guess I deserved it;;;;;;;;;;;;;x
-EVTOPTA1970;I need a new hobby. Oh, a bible!;;;;;;;;;;;;;x
-EVTOPTA1980;I like them more;;;;;;;;;;;;;x
-EVTOPTA1985;No!;;;;;;;;;;;;;x
-EVTOPTA1986;I will be careful...;;;;;;;;;;;;;x
-EVTOPTA1991;[Root.Liege.GetTitledFirstName] may have other opinions?;;;;;;;;;;;;;x
-
-EVTOPTB1561;I still NEED that wooden sword!;;;;;;;;;;;;;x
-EVTOPTB1985;Fine...;;;;;;;;;;;;;x
-EVTOPTB1986;I... cannot risk it;;;;;;;;;;;;;x
-
-EVTOOLTIP2490;[This.GetFullName] will look at my behavior.;;;;;;;;;;;;;x
-EVTOOLTIP38221;[Root.Guardian.GetFullName] saw [Root.GetFirstName] practise swordfighting;;;;;;;;;;;;;x
-EVTOOLTIP38222;[Root.Guardian.GetFullName] is told about [Root.GetFirstName]'s trouble;;;;;;;;;;;;;x
-EVTOOLTIP38223;[Root.Guardian.GetFullName] saw [Root.GetFirstName] with the bloody knife;;;;;;;;;;;;;x
-EVTOOLTIP38224;[Root.Guardian.GetFullName] caught [Root.GetFirstName] reading instead of doing [Root.GetHerHis] chores;;;;;;;;;;;;;x
-EVTOOLTIP38225;[Root.Guardian.GetFullName] comforts [Root.GetFirstName];;;;;;;;;;;;;x
-EVTOOLTIP38226;[Root.Guardian.GetFullName] worries about [Root.GetFirstName];;;;;;;;;;;;;x
-EVTOOLTIP38227;[Root.Guardian.GetFullName] saw [Root.GetFirstName] haggle with the merchant;;;;;;;;;;;;;x
-EVTOOLTIP38228;[Root.Guardian.GetFullName] responds to [Root.GetFirstName]'s question.;;;;;;;;;;;;;x
-EVTOOLTIP38229;[Root.Guardian.GetFullName] approves of [Root.GetFirstName]'s swordfighting;;;;;;;;;;;;;x
-EVTOOLTIP38230;[Root.Guardian.GetFullName] realizes [Root.GetFirstName] is becoming a [Root.GetManWoman];;;;;;;;;;;;;x
-EVTOOLTIP38231;[Root.Guardian.GetFullName] finds [Root.GetFirstName] in the kitchen;;;;;;;;;;;;;x
-EVTOOLTIP38232;[Root.Guardian.GetFullName] deals with [Root.GetFirstName]'s curiosity;;;;;;;;;;;;;x
-EVTOOLTIP38233;[Root.Guardian.GetFullName] is troubled by [Root.GetFirstName]'s illness;;;;;;;;;;;;;x
-EVTOOLTIP38234;[Root.Guardian.GetFullName] realizes [Root.GetFirstName] is drawn to a [Root.GetManWoman];;;;;;;;;;;;;x
-EVTOOLTIP38235;[Root.Guardian.GetFullName] has something to say about [Root.GetFirstName]'s way of getting friends;;;;;;;;;;;;;x
-
-EVTTOOLTIP38101;[Root.Guardian.GetTitledFirstName] is questioned about [Root.Religion.GetHighGodName];;;;;;;;;;;;;x
-EVTTOOLTIP38102;[This.GetTitledFirstName] becomes [Root.Religion.GetName];;;;;;;;;;;;;x
-# EVTTOOLTIPA38101;[Root.Guardian.GetTitledFirstName] is questioned about Allah;;;;;;;;;;;;;x
-
-EVTDESC2000;My [GetFromRelation] [From.GetFirstName] practically lives in the kitchens, the little glutton!;;;;;;;;;;;;;x
-EVTDESC2010;My [GetFromRelation] [From.GetFirstName] hardly eats anything for fear of turning fat.;;;;;;;;;;;;;x
-EVTDESC2020;I watched my [GetFromRelation] [From.GetFirstName] at play with another child yesterday and noticed that [From.GetSheHe] didn't want to share [From.GetHerHis] toys.;;;;;;;;;;;;;x
-EVTDESC2030;My [GetFromRelation] [From.GetFirstName] is a charitable little rascal, [From.GetSheHe] just gave [From.GetHerHis] newest toy to the smith's son.;;;;;;;;;;;;;x
-EVTDESC2040;My [GetFromRelation] [From.GetFirstName] is not exerting [From.GetReflexivePronoun] in [From.GetPossPronoun] studies. I am starting to despair.;;;;;;;;;;;;;x
-EVTDESC2050;My [GetFromRelation] [From.GetFirstName] does [From.GetHerHis] homework and is always on time for [From.GetHerHis] lessons.;;;;;;;;;;;;;x
-EVTDESC2060;I had to break up a fight between my [GetFromRelation] [From.GetFirstName] and another child today. [From.GetFirstName]'s heart is filled with envy...;;;;;;;;;;;;;x
-EVTDESC2070;My [GetFromRelation] [From.GetFirstName] has a tender and loving soul, trusting everyone in the castle. I fear [From.GetSheHe] will get hurt someday.;;;;;;;;;;;;;x
-EVTDESC2080;The cook complained to me about my [GetFromRelation] [From.GetFirstName]'s temper tantrums. Apparently [From.GetSubjectPronoun] punched her son in the face. Again.;;;;;;;;;;;;;x
-EVTDESC2090;Patience is a virtue, but sometimes it gets on my nerves. My [GetFromRelation] [From.GetFirstName] never loses [From.GetPossPronoun] temper, always waiting patiently for a chance to retaliate.;;;;;;;;;;;;;x
-EVTDESC2100;My [GetFromRelation] [From.GetTitledFirstName] is turning into an arrogant little braggart. I might have to rein [From.GetHerHim] in a bit.;;;;;;;;;;;;;x
-EVTDESC2120;I caught my [GetFromRelation], [From.GetFirstName] lying to me again, straight to my face without batting an eye. I almost had an innocent servant sent to the stocks!;;;;;;;;;;;;;x
-EVTDESC2110;My [GetFromRelation] [From.GetFirstName] is modest and humble, never showing off or bragging.;;;;;;;;;;;;;x
-EVTDESC2130;My little [GetFromRelation] [From.GetTitledFirstName] always has [From.GetPossPronoun] nose in the scriptures, and spends all [From.GetPossPronoun] time among the priests.;;;;;;;;;;;;;x
-EVTDESC2132;My little [GetFromRelation] [From.GetTitledFirstName] always has [From.GetHerHis] nose in the Qur'an, and spends all [From.GetHerHis] time among the imams.;;;;;;;;;;;;;x
-EVTDESC2140;The lady almost ran me down as I entered the hall. Tearfully she told me that my [GetFromRelation] [From.GetFirstName] had insulted her again.;;;;;;;;;;;;;x
-EVTDESC2150;The smallest spider makes my [GetFromRelation] [From.GetFirstName] squeal and run for cover. This has started to worry me.;;;;;;;;;;;;;x
-EVTDESC2160;My [GetFromRelation] [From.GetFirstName] was bitten by a snake this morning! The brave little fool keeps seeking out danger.;;;;;;;;;;;;;x
-EVTDESC2170;Every time my [GetFromRelation] [From.GetFirstName] meets a stranger, [From.GetSheHe] looks like [From.GetSheHe] might faint.;;;;;;;;;;;;;x
-EVTDESC2180;When guests arrive, my [GetFromRelation] [From.GetFirstName] is the first to greet them and shower them with questions.;;;;;;;;;;;;;x
-EVTDESC2190;My [GetFromRelation] [From.GetFirstName] is aiming for the stars, the ambitious little brat.;;;;;;;;;;;;;x
-EVTDESC2200;My [GetFromRelation] [From.GetFirstName] lacks all passion and ambition, perfectly content with [From.GetHerHis] lot in life.;;;;;;;;;;;;;x
-EVTDESC2210;[From.GetTitledFirstName] is impulsive and seems unable to tell right from wrong. What should I do with my wayward [GetFromRelation]?;;;;;;;;;;;;;x
-EVTDESC2220;My [GetFromRelation] [From.GetFirstName] makes sure everyone gets exactly the same amount of whatever sweets the cook gives the children.;;;;;;;;;;;;;x
-EVTDESC2230;I fear my [GetFromRelation] [From.GetFirstName] is too cynical for [From.GetHerHis] age.;;;;;;;;;;;;;x
-EVTDESC2465;I caught my young ward [From.GetTitledFirstName] torturing a rat behind the stables today...;;;;;;;;;;;;;x
-EVTDESC2490;We have children at the court that has no guardian handling their education. They run a risk of becoming spoiled brats.;;;;;;;;;;;;;x
-
-EVTOPTA2000;Heh, eat and be merry child!;;;;;;;;;;;;;x
-EVTOPTA2010;Temperance is a virtue!;;;;;;;;;;;;;x
-EVTOPTA2020;This is how children learn thrift!;;;;;;;;;;;;;x
-EVTOPTA2030;[From.GetSubjectPronounCap] is turning out well!;;;;;;;;;;;;;x
-EVTOPTA2040;[From.GetSubjectPronounCap] is just dense. What can I do?;;;;;;;;;;;;;x
-EVTOPTA2050;[From.GetSubjectPronounCap] has a good mentor!;;;;;;;;;;;;;x
-EVTOPTA2060;The other children are just selfish;;;;;;;;;;;;;x
-EVTOPTA2070;Those who love get love in return!;;;;;;;;;;;;;x
-EVTOPTA2080;The kid shows spirit!;;;;;;;;;;;;;x
-EVTOPTA2090;Good, I cannot abide recklessness;;;;;;;;;;;;;x
-EVTOPTA2100;No, [From.GetSheHe] has reason to be proud;;;;;;;;;;;;;x
-EVTOPTA2110;Quietly encourage [From.GetFirstName];;;;;;;;;;;;;x
-EVTOPTA2120;Even I am impressed;;;;;;;;;;;;;x
-EVTOPTA2130;Such a bright little child!;;;;;;;;;;;;;x
-EVTOPTA2140;But, my dear lady, you ARE fat!;;;;;;;;;;;;;x
-EVTOPTA2150;Spiders? I can't abide them either!;;;;;;;;;;;;;x
-EVTOPTA2160;That's my [From.GetLadLass]!;;;;;;;;;;;;;x
-EVTOPTA2170;The [From.GetLadLass] is just a bit shy;;;;;;;;;;;;;x
-EVTOPTA2180;This child clearly has potential.;;;;;;;;;;;;;x
-EVTOPTA2190;That is only right;;;;;;;;;;;;;x
-EVTOPTA2200;It suits [From.GetHerHis] position;;;;;;;;;;;;;x
-EVTOPTA2210;How about a pat on the head?;;;;;;;;;;;;;x
-EVTOPTA2220;I am proud of [From.GetObjectPronoun]!;;;;;;;;;;;;;x
-EVTOPTA2230;[From.GetSubjectPronounCap] is clear-sighted.;;;;;;;;;;;;;x
-EVTOPTA2465;Let the [From.GetLadLass] have [From.GetPossPronoun] fun!;;;;;;;;;;;;;x
-EVTOPTA2490;I guess I have to take care of it myself then.;;;;;;;;;;;;;x
-
-EVTOPTB2000;Birch [From.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTB2010;Hold up [From.GetFirstName] as an example for the court!;;;;;;;;;;;;;x
-EVTOPTB2020;[From.GetSheHeCap] needs the birch!;;;;;;;;;;;;;x
-EVTOPTB2030;Praise [From.GetHerHim] publicly!;;;;;;;;;;;;;x
-EVTOPTB2040;Beat [From.GetHerHim] into action!;;;;;;;;;;;;;x
-EVTOPTB2050;Praise [From.GetObjectPronoun] in front of the court.;;;;;;;;;;;;;x
-EVTOPTB2060;Beat some respect into [From.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTB2070;Show everyone how virtuous [From.GetSubjectPronoun] is.;;;;;;;;;;;;;x
-EVTOPTB2080;Beat [From.GetHerHim] into being calm!;;;;;;;;;;;;;x
-EVTOPTB2090;Hold up [From.GetFirstName] as an example for the court!;;;;;;;;;;;;;x
-EVTOPTB2100;That will be cured by the birch.;;;;;;;;;;;;;x
-EVTOPTB2110;Thank [Root.Religion.GetRandomGodName] for [From.GetFirstName]'s virtues!;;;;;;;;;;;;;x
-EVTOPTB2120;With the birch, [From.GetSheHe] will speak the truth!;;;;;;;;;;;;;x
-EVTOPTB2130;I will not raise a zealot!;;;;;;;;;;;;;x
-EVTOPTB2140;Praise [From.GetHerHis] honesty to the court.;;;;;;;;;;;;;x
-EVTOPTB2150;Some fears are good, but there are limits;;;;;;;;;;;;;x
-EVTOPTB2160;Praise [From.GetHerHis] bravery to everyone!;;;;;;;;;;;;;x
-EVTOPTB2170;Shyness can be cured by the birch!;;;;;;;;;;;;;x
-EVTOPTB2180;Introduce [From.GetHerHim] to everyone at court!;;;;;;;;;;;;;x
-EVTOPTB2190;Ambition will not serve [From.GetObjectPronoun];;;;;;;;;;;;;x
-EVTOPTB2200;That will not do!;;;;;;;;;;;;;x
-EVTOPTB2210;It's the strap for [From.GetObjectPronoun]!;;;;;;;;;;;;;x
-EVTOPTB2220;Time to explain how the world works;;;;;;;;;;;;;x
-EVTOPTB2230;Nothing the strap won't cure!;;;;;;;;;;;;;x
-EVTOPTB2465;With the birch, [From.GetSheHe] will learn better!;;;;;;;;;;;;;x
-EVTOPTB2490;It is not my concern...;;;;;;;;;;;;;x
-
-EVTOPTC2000;Talk to [From.GetHerHim] about moderation.;;;;;;;;;;;;;x
-EVTOPTC2010;Thank [Root.Religion.GetRandomGodName] for [From.GetFirstName]'s virtues!;;;;;;;;;;;;;x
-EVTOPTC2020;[From.GetSheHeCap] needs a lecture on charity!;;;;;;;;;;;;;x
-EVTOPTC2030;Thank [Root.Religion.GetRandomGodName] for [From.GetFirstName]'s virtues!;;;;;;;;;;;;;x
-EVTOPTC2040;Talk to [From.GetHerHim] about being diligent;;;;;;;;;;;;;x
-EVTOPTC2050;Thank [Root.Religion.GetRandomGodName] for [From.GetFirstName]'s virtues!;;;;;;;;;;;;;x
-EVTOPTC2060;Talk to [From.GetHerHim] about kindness;;;;;;;;;;;;;x
-EVTOPTC2070;Thank [Root.Religion.GetRandomGodName] for [From.GetFirstName]'s virtues!;;;;;;;;;;;;;x
-EVTOPTC2080;Encourage [From.GetHerHim] to be more patient;;;;;;;;;;;;;x
-EVTOPTC2090;Thank [Root.Religion.GetRandomGodName] for [From.GetFirstName]'s virtues!;;;;;;;;;;;;;x
-EVTOPTC2100;Tell [From.GetHerHim], 'Pride goeth before fall';;;;;;;;;;;;;x
-EVTOPTC2110;That's no way to get ahead!;;;;;;;;;;;;;x
-EVTOPTC2120;Talk to [From.GetHerHim] about honesty;;;;;;;;;;;;;x
-EVTOPTC2140;Tell [From.GetFirstName] that honesty has its bounds...;;;;;;;;;;;;;x
-EVTOPTC2150;Fear is the mind killer;;;;;;;;;;;;;x
-EVTOPTC2160;Caution must temper courage;;;;;;;;;;;;;x
-EVTOPTC2170;Shyness is a terrible curse, I'll talk with [From.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTC2180;Thank [Root.Religion.GetRandomGodName] that [From.GetSubjectPronoun] isn't shy!;;;;;;;;;;;;;x
-EVTOPTC2465;Talk to [From.GetHerHim] about kindness;;;;;;;;;;;;;x
-
-EVTOPTD2000;Pray [Root.Religion.GetRandomGodName] will save [From.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTD2010;[From.GetSubjectPronounCap] must learn to enjoy life!;;;;;;;;;;;;;x
-EVTOPTD2020;[Root.Religion.GetRandomGodNameCap] will save [From.GetHerHim] from Hell!!!;;;;;;;;;;;;;x
-EVTOPTD2030;Charity is for naive weaklings!;;;;;;;;;;;;;x
-EVTOPTD2040;Pray for [From.GetHerHis] soul!;;;;;;;;;;;;;x
-EVTOPTD2050;The child needs to lighten up!;;;;;;;;;;;;;x
-EVTOPTD2060;Envy is the deadliest of sins!;;;;;;;;;;;;;x
-EVTOPTD2070;Tender soul? I'll give [From.GetObjectPronoun] a tender back!;;;;;;;;;;;;;x
-EVTOPTD2080;Pray for [From.GetHerHis] soul!;;;;;;;;;;;;;x
-EVTOPTD2090;I'll bring out the fire in [From.GetObjectPronoun]!;;;;;;;;;;;;;x
-EVTOPTD2100;[Root.Religion.GetRandomGodNameCap] will cure [From.GetHerHim] of [From.GetHerHis] sin!;;;;;;;;;;;;;x
-EVTOPTD2120;Pray that [Root.Religion.GetRandomGodName] will show [From.GetHerHim] the light;;;;;;;;;;;;;x
-EVTOPTD2140;Punish [From.GetHerHim] for [From.GetHerHis] insults.;;;;;;;;;;;;;x
-EVTOPTD2170;Pray that [Root.Religion.GetRandomGodName] will provide strength;;;;;;;;;;;;;x
-EVTOPTD2180;The child is annoying!;;;;;;;;;;;;;x
-EVTOPTD2465;Pray for [From.GetHerHis] soul!;;;;;;;;;;;;;x
-
-EVTDESC38100;I woke up last night in a cold sweat, heart pounding with fear at the realization I must someday die...;;;;;;;;;;;;;x
-EVTDESC38101;[From.GetFirstName], my young [GetFromRelation], wants to know what it is all about. Why are we here on this Earth?;;;;;;;;;;;;;x
-EVTDESC38102;My [GetFromRelation] has answered all my existential questions.;;;;;;;;;;;;;x
-EVTDESC38110;I find myself speaking and acting more and more like my guardian.;;;;;;;;;;;;;x
-EVTDESC38111;I have taught my young [GetFromRelation] well. [From.GetFirstName] is starting to act properly [Root.Culture.GetName]!;;;;;;;;;;;;;x
-EVTDESC38200;[From.GetFirstName] is slow to learn to talk.;;;;;;;;;;;;;x
-EVTDESC38201;[From.GetFirstName] asks, 'Daddy, where do children come from?';;;;;;;;;;;;;x
-EVTDESC38202;[From.GetFirstName] is afraid of the dark.;;;;;;;;;;;;;x
-EVTDESC38203;[From.GetFirstName] is often involved in fights with other toddlers;;;;;;;;;;;;;x
-EVTDESC38204;[From.GetFirstName] is not satisfied, and keeps asking for more toys to play with.;;;;;;;;;;;;;x
-EVTDESC38205;[From.GetFirstName] asks, 'Daddy, Where is Mom?';;;;;;;;;;;;;x
-EVTDESC38206;[From.GetFirstName] has trouble making friends;;;;;;;;;;;;;x
-EVTDESC38207;[From.GetFirstName] wants to play with friends instead of studying.;;;;;;;;;;;;;x
-EVTDESC38208;[From.GetFirstName] asks, 'Where do heathens come from?';;;;;;;;;;;;;x
-EVTDESC38209;[From.GetFirstName] is often playing very daring games with other children;;;;;;;;;;;;;x
-EVTDESC38210;[From.GetFirstName] asks, 'Does [Root.Religion.GetRandomGodName] exist?';;;;;;;;;;;;;x
-EVTDESC38211;[From.GetFirstName] asks, 'Why do people die?';;;;;;;;;;;;;x
-EVTDESC38212;[From.GetFirstName] asks, 'Will I rule one day?';;;;;;;;;;;;;x
-EVTDESC38213;[From.GetFirstName] has developed a habit for wild parties.;;;;;;;;;;;;;x
-EVTDESC38214;[From.GetFirstName] asks 'If we're [catholic.GetName] and our enemies are [catholic.GetName], why are we fighting?';;;;;;;;;;;;;x
-EVTDESC38215;[From.GetFirstName] asks 'Why is the church so rich when the peasants are starving and poor?';;;;;;;;;;;;;x
-EVTDESC38216;[From.GetFirstName] asks 'Why did you let off that peasant accused from poaching?';;;;;;;;;;;;;x
-EVTDESC38217;[From.GetFirstName] says 'These peasants we have are all mine to command like little slaves, right?';;;;;;;;;;;;;x
-EVTDESC38218;[From.GetFirstName] asks 'If a tree falls in the woods and there's nobody there to hear it, does it make a noise?';;;;;;;;;;;;;x
-EVTDESC38219;[From.GetFirstName] asks 'Since we all die anyway, why to be so hassled about life?';;;;;;;;;;;;;x
-EVTDESC38220;[From.GetFirstName] asks 'How can I best serve the [Root.Religion.GetName] faith?';;;;;;;;;;;;;x
-EVTDESC38221;[From.GetFullName] was supposed to work on her embroidery but she clearly fancied another kind of Pin. Her swordsmanship was not too bad, for a girl.;;;;;;;;;;;;;x
-EVTDESC38222;The ones who ridicule [From.GetFirstName] for [From.GetHerHis] weaknesses are getting more and more scornful. Their escalating ridicule has made [From.GetFirstName] unable to ignore it anymore, [From.GetSheHe] begged me to help [From.GetHerHim].;;;;;;;;;;;;;x
-EVTDESC38223;My heart missed a beat when I saw [From.GetFirstName] emerge from the dungeons, covered in grime and with a bloody knife in [From.GetHerHis] hand.;;;;;;;;;;;;;x
-EVTDESC38224;I knew exactly where I would find [From.GetFirstName] when [From.GetSheHe] did not show up for practice, in the library in [From.GetHerHis] favorite chair and with the biggest book [From.GetSheHe] could find.;;;;;;;;;;;;;x
-EVTDESC38225;If you would compare the fairest courtier and [From.GetFirstName], then the courtier would a beautiful swan and [From.GetFirstName] a ugly toad.;;;;;;;;;;;;;x
-EVTDESC38226;[From.GetFirstName]'s hair, fair skin and beautiful big eyes will make life easier for [From.GetHerHim] than if [From.GetSheHe] had been ugly.;;;;;;;;;;;;;x
-EVTDESC38227;[From.GetFirstName] is always counting money and makes sure [From.GetSheHe] get the most out of it. [From.GetSheHeCap] haggled with a merchant over some sweetmeats until the merchant laughed with frustration and handed over the sweetmeats for a lot less than he had asked for.;;;;;;;;;;;;;x
-EVTDESC38228;[From.GetFirstName] was curious about the visitors but was polite enough to wait until the chamberlain had escorted them to their rooms before [From.GetSheHe] started asking thousands of questions about them, where they came from, why they looked so different and who they were.;;;;;;;;;;;;;x
-EVTDESC38229;If [From.GetFirstName] is nowhere to be seen, you can always find [From.GetHerHim] in the courtyard, playing with [From.GetHerHis] swords and practising [From.GetHerHis] swordfighting with older men.;;;;;;;;;;;;;x
-EVTDESC38230;I opened the stable door a bit quick and accidently stumbled in on [From.GetFirstName] getting [From.GetHerHis] first kiss! I suddenly realized [From.GetFirstName] is becoming a [From.GetManWoman].;;;;;;;;;;;;;x
-EVTDESC38231;The kitchen is truly a wonderful place, filled with delicious things and smells, but it worries me that [From.GetFirstName] spends all [From.GetHerHis] time here, when [From.GetSheHe] should be practicing swordfighting and learning how to rule.;;;;;;;;;;;;;x
-EVTDESC38232;I was... inspecting the damage to the highest tower in [From.Location.GetName] when the head of [From.GetFirstName] appeared outside the window, fifty metres above ground. What should I do with this curious child?;;;;;;;;;;;;;x
-EVTDESC38233;[From.GetFirstName]'s fever has risen and [From.GetSheHe] complains about a headache. I worry about [From.GetHerHim] but there's not much I can do.;;;;;;;;;;;;;x
-EVTDESC38234;Every time [From.GetFirstName] looks at that [From.GetManWoman], I get a sinking feeling in my stomach. [From.GetSheHeCap] might be attracted to persons of the same sex as [From.GetSheHe]!;;;;;;;;;;;;;x
-EVTDESC38235;The twists and turns of [From.GetFirstName]'s tongue and the white lies [From.GetSheHe] uses to make friends is making my head spin. How can such a young [From.GetLadLass] be able to lie so well?;;;;;;;;;;;;;x
-
-EVTOPTA38100;Ask my guardian about [Root.Guardian.Religion.GetRandomGodName].;;;;;;;;;;;;;x
-EVTOPTA38101;Make [From.GetObjectPronoun] a proper [Root.Religion.GetName] [Root.Religion.GetGroupName];;;;;;;;;;;;;x
-EVTOPTA38102;The [From.Religion.GetName] Faith gives me peace of mind;;;;;;;;;;;;;x
-EVTOPTA38110;I suppose I am getting cultured.;;;;;;;;;;;;;x
-EVTOPTA38111;What a bright child!;;;;;;;;;;;;;x
-EVTOPTA38200;Encourage [From.GetFirstName] by example;;;;;;;;;;;;;x
-EVTOPTA38201;Daddy will tell you when you get older;;;;;;;;;;;;;x
-EVTOPTA38202;Ridicule [From.GetHerHim], that should do it;;;;;;;;;;;;;x
-EVTOPTA38203;That's good news;;;;;;;;;;;;;x
-EVTOPTA38204;Let [From.GetHerHim] have them.;;;;;;;;;;;;;x
-EVTOPTA38205;Mom is an angel now;;;;;;;;;;;;;x
-EVTOPTA38206;Friends are an overvalued commodity anyway;;;;;;;;;;;;;x
-EVTOPTA38207;You can play only after school.;;;;;;;;;;;;;x
-EVTOPTA38208;Heathens are people just like us;;;;;;;;;;;;;x
-EVTOPTA38209;Let [From.GetHerHim] play, what harm could there be? ;;;;;;;;;;;;;x
-EVTOPTA38210;Of course my child, go to play now;;;;;;;;;;;;;x
-EVTOPTA38211;Because they are too carefree;;;;;;;;;;;;;x
-EVTOPTA38212;Of course you will...;;;;;;;;;;;;;x
-EVTOPTA38213;There is nothing I can do;;;;;;;;;;;;;x
-EVTOPTA38214;Fighting heathens is just silly church thing;;;;;;;;;;;;;x
-EVTOPTA38215;Because for the poor is the kingdom of heaven;;;;;;;;;;;;;x
-EVTOPTA38216;Because he needed the deer more than me;;;;;;;;;;;;;x
-EVTOPTA38217;That's right child;;;;;;;;;;;;;x
-EVTOPTA38218;Good question, you should ponder it on your own;;;;;;;;;;;;;x
-EVTOPTA38219;I suppose you are right...;;;;;;;;;;;;;x
-EVTOPTA38220;Be brave against our enemies!;;;;;;;;;;;;;x
-EVTOPTA38221;There's no harm letting her learn how to use a sword;;;;;;;;;;;;;x
-EVTOPTA38222;I shall show [From.GetFirstName] how to fight myself;;;;;;;;;;;;;x
-EVTOPTA38223;I'll teach [From.GetFirstName] some useful skills;;;;;;;;;;;;;x
-EVTOPTA38224;You should take pride in your learning;;;;;;;;;;;;;x
-EVTOPTA38225;[From.GetFirstName], you can never be as good looking;;;;;;;;;;;;;x
-EVTOPTA38226;I should encourage [From.GetFirstName] to flaunt [From.GetHerHis] beauty;;;;;;;;;;;;;x
-EVTOPTA38227;I'll teach [From.GetFirstName] about the joys of money;;;;;;;;;;;;;x
-EVTOPTA38228;Wait until the banquet, then I will introduce you to them;;;;;;;;;;;;;x
-EVTOPTA38229;This will turn [From.GetFirstName] into a great knight!;;;;;;;;;;;;;x
-EVTOPTA38230;Before anything happens, I should teach [From.GetHerHim] about courtly love;;;;;;;;;;;;;x
-EVTOPTA38231;Force [From.GetFirstName] to learn how to fight;;;;;;;;;;;;;x
-EVTOPTA38232;Curiosity has never killed anyone;;;;;;;;;;;;;x
-EVTOPTA38233;This is a sign of sin, make the child fast to atone for its sins!;;;;;;;;;;;;;x
-EVTOPTA38234;Make [From.GetFirstName] fast to atone for its sins;;;;;;;;;;;;;x
-EVTOPTA38235;No matter, the goal justifies the means;;;;;;;;;;;;;x
-
-EVTOPTB38100;Go play with my friends;;;;;;;;;;;;;x
-EVTOPTB38101;Let [From.GetObjectPronoun] sort it out on [From.GetPossPronoun] own...;;;;;;;;;;;;;x
-EVTOPTB38200;Birch the words from [From.GetFirstName];;;;;;;;;;;;;x
-EVTOPTB38201;You know there are bees and flowers...;;;;;;;;;;;;;x
-EVTOPTB38202;Try to address the causes of the fear;;;;;;;;;;;;;x
-EVTOPTB38203;Try to steer [From.GetHerHis] energy elsewhere;;;;;;;;;;;;;x
-EVTOPTB38204;Encourage [From.GetHerHim] to play outside instead.;;;;;;;;;;;;;x
-EVTOPTB38205;Mom has gone on a long journey;;;;;;;;;;;;;x
-EVTOPTB38206;Help [From.GetHerHim] along;;;;;;;;;;;;;x
-EVTOPTB38207;Play all you like then...;;;;;;;;;;;;;x
-EVTOPTB38208;They are demons from Hell!;;;;;;;;;;;;;x
-EVTOPTB38209;Try to limit [From.GetHerHis] games a bit;;;;;;;;;;;;;x
-EVTOPTB38210;Certainly [From.GetFirstName], let me tell you about matters of Faith...;;;;;;;;;;;;;x
-EVTOPTB38211;Everyone dies, sooner or later;;;;;;;;;;;;;x
-EVTOPTB38212;If you deserve it, you shall.;;;;;;;;;;;;;x
-EVTOPTB38213;Curfews!;;;;;;;;;;;;;x
-EVTOPTB38214;I fight who I like!;;;;;;;;;;;;;x
-EVTOPTB38215;How about sharing of your own then?;;;;;;;;;;;;;x
-EVTOPTB38216; A good deed in a day keeps man happy;;;;;;;;;;;;;x
-EVTOPTB38217;That's it, you're under curfew!;;;;;;;;;;;;;x
-EVTOPTB38218;You should concentrate on something useful instead;;;;;;;;;;;;;x
-EVTOPTB38219;But what about the enjoyment?;;;;;;;;;;;;;x
-EVTOPTB38220;Be just to all its children;;;;;;;;;;;;;x
-EVTOPTB38221;This is not seemly for a woman;;;;;;;;;;;;;x
-EVTOPTB38222;I will speak up for the child and stop the ridicule;;;;;;;;;;;;;x
-EVTOPTB38223;What have you done?;;;;;;;;;;;;;x
-EVTOPTB38224;Aren't you a real bookworm? Soon you'll eat the books as well!;;;;;;;;;;;;;x
-EVTOPTB38225;You look fine to me;;;;;;;;;;;;;x
-EVTOPTB38226;You should try to not overwhelm people;;;;;;;;;;;;;x
-EVTOPTB38227;I'll tell [From.GetFirstName] about the joys of giving money;;;;;;;;;;;;;x
-EVTOPTB38228;Stop asking questions! Children should be seen and not heard;;;;;;;;;;;;;x
-EVTOPTB38229;Make sure [From.GetSheHe] does not hurt [From.GetHerselfHimself]!;;;;;;;;;;;;;x
-EVTOPTB38230;Lecture [From.GetFirstName] about virtues and sins;;;;;;;;;;;;;x
-EVTOPTB38231;This is not my concern;;;;;;;;;;;;;x
-EVTOPTB38232;Teach [From.GetHerHim] a lesson!;;;;;;;;;;;;;x
-EVTOPTB38233;A doctor might be able to cure [From.GetFirstName];;;;;;;;;;;;;x
-EVTOPTB38234;Try to beat it out of [From.GetHerHim];;;;;;;;;;;;;x
-EVTOPTB38235;[From.GetFirstName], your tongue will cause you problems!;;;;;;;;;;;;;x
-
-EVTOPTC38100;Ask my guardian about Allah;;;;;;;;;;;;;x
-EVTOPTC38200;Let [From.GetFirstName] take [From.GetHerHis] time;;;;;;;;;;;;;x
-EVTOPTC38201;Be silent or I'll slap you!;;;;;;;;;;;;;x
-EVTOPTC38202;Let [From.GetHerHim] handle it alone;;;;;;;;;;;;;x
-EVTOPTC38203;Discipline [From.GetHerHim];;;;;;;;;;;;;x
-EVTOPTC38204;Teach [From.GetHerHim] some humility;;;;;;;;;;;;;x
-EVTOPTC38205;Don't ask me things like that!;;;;;;;;;;;;;x
-EVTOPTC38206;Give [From.GetHerHim] toys to attract friends with;;;;;;;;;;;;;x
-EVTOPTC38207;You can play with a birch if you like, go to school!;;;;;;;;;;;;;x
-EVTOPTC38208;They are men like us, but unbeliever enemies;;;;;;;;;;;;;x
-EVTOPTC38209;Curfew [From.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTC38210;My child, let me explain how things really are...;;;;;;;;;;;;;x
-EVTOPTC38211;It's all part of God's plan;;;;;;;;;;;;;x
-EVTOPTC38212;No you won't, silly child!;;;;;;;;;;;;;x
-EVTOPTC38214;Sometimes, even your brother can be an enemy;;;;;;;;;;;;;x
-EVTOPTC38222;[From.GetFirstName], don't you worry about it. It'll be better soon;;;;;;;;;;;;;x
-EVTOPTC38223;It is time to teach [From.GetFirstName] the right way;;;;;;;;;;;;;x
-EVTOPTC38224;You know, other people can be as interesting as books;;;;;;;;;;;;;x
-EVTOPTC38227;Money is for God;;;;;;;;;;;;;x
-EVTOPTC38229;This will turn [From.GetHerHim] into a great master of the sword!;;;;;;;;;;;;;x
-EVTOPTC38232;Strictly forbid [From.GetHerHim] to climb the tower;;;;;;;;;;;;;x
-EVTOPTC38233;Only God decides over life and death;;;;;;;;;;;;;x
-EVTOPTC38234;[From.GetSheHeCap] will grow out of it;;;;;;;;;;;;;x
-
-EVTOPTD38200;Send [From.GetHerHim] to the nannies instead;;;;;;;;;;;;;x
-EVTOPTD38203;Let the monks purge [From.GetHerHis] sin;;;;;;;;;;;;;x
-EVTOPTD38204;Off to the nannies with you, leech!;;;;;;;;;;;;;x
-EVTOPTD38211;It is all part of Allah's plan;;;;;;;;;;;;;x
-EVTOPTD38227;Give the money to the poor and Allah will see your goodness;;;;;;;;;;;;;x
-EVTOPTD38233;Only Allah decides over life and death;;;;;;;;;;;;;x
-
-EVTOPTE38233;[From.GetTitledFirstName] will be well soon, there's no need for a doctor!;;;;;;;;;;;;;x
+EVTDESC1500;Every day, the cook chases me out of the kitchen, but not before I've stuffed myself and my pockets full of biscuits.;;;;;;;;;;;Êàæäûé äåíü ïîâàð âûãîíÿåò ìåíÿ èç êóõíè, íî íå ðàíüøå, ÷åì ÿ íàïîëíþ ñâîè êàðìàíû äîâåðõó ïå÷åíüåì.;;x
+EVTDESC1501;My [GetFromRelation], [From.GetTitledFirstName] thinks I eat far too much and has declared the kitchens off limits!;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetTitledFirstName] äóìàåò ÷òî ÿ åì ñëèøêîì ìíîãî, [From.GetSheHe] äàæå ïðèêàçàë[From.GetEndA] çàêðûòü âñå êóõíè!;;x
+EVTDESC1510;I had better eat with moderation, or I'll end up looking like my fat nanny...;;;;;;;;;;;ß ëó÷øå áóäó åñòü ìåíüøå, èíà÷å çàêîí÷ó òåì, ÷òî áóäó ïîõîæ[Root.GetEndA] íà ñâîþ òîëñòóþ íÿíüêó...;;x
+EVTDESC1511;My [GetFromRelation] is worried about my health and wants me to eat more.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] áåñïîêîèòñÿ î ìî¸ì çäîðîâüå è õî÷åò, ÷òîáû ÿ áîëüøå åë[Root.GetEndA];;x
+EVTDESC1520;No, you can't have them, they are mine!;;;;;;;;;;;Íåò, Âû èõ íå ïîëó÷èòå, îíè ìîè!;;x
+EVTDESC1521;My [GetFromRelation] [From.GetTitledFirstName] won't have me turn into a 'mean and selfish little moneygrubber'.;;;;;;;;;;;"Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetTitledFirstName] íå õî÷åò, ÷òîáû ÿ ñòàë[Root.GetEndA] ""ïîäë[Root.GetOyYm] è ýãîèñòè÷í[Root.GetOyYm] õàïóãîé"".";;x
+EVTDESC1530;If you play with me I'll let you play with my toys.;;;;;;;;;;;Åñëè òû ïîèãðàåøü ñî ìíîé, ÿ ðàçðåøó òåáå ïîèãðàòü ñ ìîèìè èãðóøêàìè.;;x
+EVTDESC1531;My [GetFromRelation] told me I should never let my lessers have what is mine... but my friend was just going to borrow some toys!;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] ñêàçàë[From.GetEndA], ÷òî ìíå íå ñëåäóåò íèêîìó äàâàòü ñâîè âåùè... Íî ìîé äðóã êàê ðàç ñîáèðàëñÿ îäîëæèòü ó ìåíÿ ïàðó èãðóøåê!;;x
+EVTDESC1540;I hate Latin, I hate History and I won't do my homework!;;;;;;;;;;;ß íåíàâèæó ëàòûíü, ÿ íåíàâèæó èñòîðèþ è ÿ íå áóäó äåëàòü ìî¸ äîìàøíåå çàäàíèå!;;x
+EVTDESC1541;My [GetFromRelation] is furious at my 'lazy nature' and will keep a closer eye on my studies from now on.;;;;;;;;;;;"Ì[From.GetOyaOy] [From.GetRootRelation] â ÿðîñòè èç-çà ìîåãî ""ëåíèâîãî õàðàêòåðà"" è áóäåò ïðèñòàëüíî ñëåäèòü çà ìîåé ó÷¸áîé.";;x
+EVTDESC1550;I always do my homework and my chores before I go and play.;;;;;;;;;;;ß âñåãäà äåëàþ ñâîþ äîìàøíþþ ðàáîòó è âûïîëíÿþ ìîè îáÿçàííîñòè ïåðåä òåì, êàê èäòè èãðàòü.;;x
+EVTDESC1551;My [GetFromRelation] explained to me that I am taking life far too seriously and need to relax.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] îáúÿñíÿåò ìíå, ÷òî ÿ ïðèíèìàþ æèçíü ñëèøêîì ñåðü¸çíî, è ìíå íóæíî ðàññëàáèòüñÿ.;;x
+EVTDESC1560;It's not fair, even peasant children have nicer things than I do!;;;;;;;;;;;Ýòî íåñïðàâåäëèâî, äàæå ó êðåñòüÿíñêèõ äåòåé âåùè ëó÷øå, ÷åì ó ìåíÿ!;;x
+EVTDESC1561;My [GetFromRelation] gave me a stern talking to about the deadly sin of envy.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] ñåðü¸çíî ïîãîâîðèë[From.GetEndA] ñî ìíîé î òîì, ÷òî çàâèñòü - ñìåðòíûé ãðåõ.;;x
+EVTDESC1570;Most people have good hearts. A stranger is just a friend I have yet to meet.;;;;;;;;;;;Ó áîëüøèíñòâà ëþäåé ñåðäöà äîáðûå. Êàæäûé íåçíàêîìåö - ýòî äðóã, êîòîðîãî ÿ åù¸ íå âñòðåòèë[Root.GetEndA].;;x
+EVTDESC1571;My [GetFromRelation] [From.GetFirstName] took me over the knee and beat me with a stick for my trusting and weak nature.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] ïîñòàâèë[From.GetEndA] ìåíÿ íà êîëåíè è âñûïàë[From.GetEndA] ðîçãàìè çà èçëèøíþþ äîâåð÷èâîñòü è ñëàáûé õàðàêòåð.;;x
+EVTDESC1580;That kid mocked me! I cannot be blamed for punching him in the face and giving him a nosebleed...;;;;;;;;;;;Ýòîò ïàðåíü äðàçíèë ìåíÿ! Çà ýòî îí ïîëó÷èë îò ìåíÿ â íîñ...;;x
+EVTDESC1581;My [GetFromRelation] [From.GetFirstName] is not pleased with my temper. [From.GetSubjectPronounCap] gave me the switch!;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] íåäîâîë[From.GetSoftNaEn] ìîèì õàðàêòåðîì. [From.GetSubjectPronounCap] áü¸ò ìåíÿ ðîçãàìè!;;x
+EVTDESC1590;Let the little fools whisper and snigger behind my back. I can wait... revenge is a dish best served cold.;;;;;;;;;;;Ïóñòü ýòè ìàëåíüêèå äóðàêè õèõèêàþò çà ìîåé ñïèíîé. ß ìîãó ïîäîæäàòü... Ìåñòü - ýòî áëþäî, êîòîðîå ëó÷øå âñåãî ïîäàâàòü õîëîäíûì.;;x
+EVTDESC1591;[From.GetFirstName], my [GetFromRelation], chastised me for my cold patient nature. 'Show some spirit, damn you!' [From.GetSubjectPronoun] shouted.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] íàêàçûâàåò ìåíÿ çà ñëèøêîì òåðïåëèâûé õàðàêòåð.;;x
+EVTDESC1600;I stand head and shoulders above the other children, and why should I pretend otherwise?;;;;;;;;;;;ß ñòîþ íà ïîðÿäîê âûøå äðóãèõ äåòåé è çà÷åì íóæíî äåëàòü âèä, ÷òî ìû ðàâíû?;;x
+EVTDESC1601;Today, my [GetFromRelation] [From.GetFirstName] called me an arrogant braggart and told me the story of Icarus and Daedalus.;;;;;;;;;;;Ñåãîäíÿ [From.GetRootRelation] [From.GetFirstName] íàçâàë[From.GetEndA] ìåíÿ âûñîêîìåðí[Root.GetOyYm] õâàñòóí[Root.GetSoftEyOm] è ðàññêàçàë[From.GetEndA] ìíå ëåãåíäó î Äåäàëå è Èêàðå.;;x
+EVTDESC1610;Why show off, when everything I have, I have been given?;;;;;;;;;;;Çà÷åì õâàñòàòüñÿ, êîãäà ó ìåíÿ âñå åñòü?;;x
+EVTDESC1611;My [GetFromRelation] [From.GetFirstName] is not impressed with my humility. 'Stand tall when you deserve it', [From.GetSubjectPronoun] explained.;;;;;;;;;;;"Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] íå âïå÷àòëåí[From.GetEndA] ìîåé ïîêîðíîñòüþ. ""Ñòîé ðîâíî, êîãäà òåáÿ ïðîñÿò"" ãîâîðèò [From.GetSubjectPronoun]";;x
+EVTDESC1620;People are so easy to manipulate! A smile, a tear, the right inflection, and they will rush to do my bidding.;;;;;;;;;;;Ëþäüìè òàê ëåãêî ìàíèïóëèðîâàòü! Óëûáêè è ñë¸çû çàñòàâëÿþò èõ äåëàòü òî, ÷òî ÿ õî÷ó.;;x
+EVTDESC1621;My evil [GetFromRelation] [From.GetFirstName] promised that for every lie I tell, I'll get a rap from the rod.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] îáåùàåò, ÷òî êàæäûé ðàç, êîãäà ÿ ñîëãó, ÿ áóäó ïîëó÷àòü ðîçãè.;;x
+EVTDESC1630;I find religion fascinating, especially when the priests talk of heathens and infidels, and how they shall be struck down!;;;;;;;;;;;ß ñ÷èòàþ ðåëèãèþ âåñüìà óâëåêàòåëüíîé, îñîáåííî êîãäà ñâÿùåííèêè ãîâîðÿò î ÿçû÷íèêàõ è íåâåðíûõ, è î òîì, êàê îíè áóäóò ïîêàðàíû!;;x
+EVTDESC1631;I was reading the [Root.Religion.GetScriptureName] when my [GetFromRelation] took it away, telling me to ease off and go outside and play.;;;;;;;;;;;ß ÷èòàë[Root.GetEndA] êíèãó ïîä íàçâàíèåì [Root.Religion.GetScriptureName], êîãäà [From.GetRootRelation] ïðèêàçàë[From.GetEndA] ìíå èäòè íà óëèöó è ïîèãðàòü.;;x
+EVTDESC1632;I find religion fascinating, especially when the Qur'an talk of heathens and infidels, and how they shall be struck down!;;;;;;;;;;;Ðåëèãèÿ î÷àðîâàëà ìåíÿ, îñîáåííî â òîì, ÷òî Êîðàí ãîâîðèò î ÿçû÷íèêàõ è íåâåðíûõ, êàê îíè áóäóò ïîâåðæåíû!;;x
+EVTDESC1640;Sometimes, people get upset by my honest opinions. 'Yes, you look fat.' 'You have a big nose.' It's just the truth!;;;;;;;;;;;"Èíîãäà ëþäÿì íå íðàâèòñÿ ìîÿ ïðÿìîòà: ""Äà, Âû - æèðíûé"", ""Ó Âàñ áîëüøîé íîñ"". Íî âåäü ýòî ïðàâäà!";;x
+EVTDESC1641;At length, my [GetFromRelation] [From.GetFirstName] lectured me on the necessity of white lies and the virtues of omission.;;;;;;;;;;;Íàêîíåö, [From.GetRootRelation] [From.GetFirstName] ïðî÷èòàë[From.GetEndA] ìíå ëåêöèþ î òîì, ÷òî ëîæü ïîçâîëèòåëüíà äàáû íå ïîòåðÿòü äîñòîèíñòâî.;;x
+EVTDESC1650;I don't like climbing trees, I'm afraid of spiders and I won't go near the graveyard. Does that make me a craven?;;;;;;;;;;;ß íå ëþáëþ ëàçèòü ïî äåðåâüÿì, ÿ áîþñü ïàóêîâ, ÿ áîþñü íàõîäèòüñÿ ðÿäîì ñ êëàäáèùåì. ß - òðóñèøêà?;;x
+EVTDESC1651;My [GetFromRelation] [From.GetFirstName] talked me into touching a spider today, it was icky and I squealed but didn't run away.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] çàñòàâèë[From.GetEndA] ìåíÿ ïðèêîñíóòüñÿ ê ïàóêó: ýòî áûëî óæàñíî è ÿ çàâèçæàë[Root.GetEndA], íî íå óáåæàë[Root.GetEndA];;x
+EVTDESC1660;I climb the highest trees, visit the graveyard at midnight and collect spiders and snakes.;;;;;;;;;;;ß çàëåçàþ íà ñàìûå âûñîêèå äåðåâüÿ, ïîñåùàþ êëàäáèùå â ïîëíî÷ü è ñîáèðàþ ïàóêîâ è çìåé.;;x
+EVTDESC1661;One of the snakes bit me this morning. My poor [GetFromRelation] [From.GetFirstName] cursed my recklessness and made me promise to stop messing around with vermin.;;;;;;;;;;;Îäíà èç çìåé óêóñèëà ìåíÿ ñåãîäíÿ óòðîì. Ì[From.GetOyaOy] áåäí[From.GetAyaYy] [From.GetRootRelation] [From.GetFirstName] ïðîêëÿë[From.GetEndA] ìî¸ áåçðàññóäñòâî è çàñòàâèë[From.GetEndA] ìåíÿ ïîîáåùàòü ïðåêðàòèòü èãðàòü ñ îãí¸ì.;;x
+EVTDESC1670;I can't look a stranger in the eye without blushing or looking down.;;;;;;;;;;;ß íå ìîãó ñìîòðåòü íåçíàêîìöó â ãëàçà íå êðàñíåÿ èëè íå îòâîäÿ âçîð.;;x
+EVTDESC1671;When I refused to greet the guests, my [GetFromRelation] [From.GetFirstName] spanked me and locked me in my room without dinner.;;;;;;;;;;;Êîãäà ÿ îòêàçà[Root.GetLasLsya] ïîïðèâåòñòâîâàòü ãîñòåé, [From.GetRootRelation] [From.GetFirstName] âûïîðîë[From.GetEndA] ìåíÿ è çàïåð[From.GetNoneE] â êîìíàòå, îñòàâèâ áåç óæèíà.;;x
+EVTDESC1680;Inquisitive, curious and friendly, I always am the first to greet strangers.;;;;;;;;;;;Ëþáîçíàòåëüí[Root.GetAyaYy], ëþáîïûòí[Root.GetAyaYy] è äðóæåëþáí[Root.GetAyaYy]: ÿ âñåãäà ïåðâ[Root.GetOyYm] ÿâëÿþñü ïîïðèâåòñòâîâàòü íåçíàêîìöåâ.;;x
+EVTDESC1681;I rushed to meet the guests and got to the hall before my [GetFromRelation] [From.GetFirstName]. For that, I earned a spanking.;;;;;;;;;;;ß áðîñè[Root.GetLasLsya] âñòðå÷àòü ãîñòåé, âîéäÿ â çàë ðàíüøå, ÷åì ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName], è îòâåäàë[Root.GetEndA] çà ýòî ðîçã.;;x
+EVTDESC1690;I'm going to be the bestest ruler ever when I grow up!;;;;;;;;;;;ß ñòàíó ëó÷øèì èç ïðàâèòåëåé, êîãäà âûðàñòó!;;x
+EVTDESC1691;My [GetFromRelation] [From.GetFirstName] must be jealous, why else would [From.GetSheHe] punish me for being ambitious?;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName], äîëæíî áûòü, çàâèäóåò, èíà÷å çà÷åì íàêàçûâàòü ìåíÿ çà àìáèöèîçíîñòü?;;x
+EVTDESC1700;My friends dream of riches, power and fancy things, but I don't even wanna grow up!;;;;;;;;;;;Ìîè äðóçüÿ ìå÷òàþò î áîãàòñòâå, âëàñòè è ìîäíûõ âåùàõ, à ÿ äàæå íå õî÷ó ðàñòè!;;x
+EVTDESC1701;My ears are still ringing with my [GetFromRelation] [From.GetFirstName]'s harsh words. I need to grow a spine and get some ambition.;;;;;;;;;;;Ó ìåíÿ â óøàõ âñ¸ åù¸ çâó÷àëè ýòè æåñòîêèå ñëîâà - [From.GetRootRelation] [From.GetFirstName] ãîâîðèò, ÷òî ìíå íóæíî îáðåñòè óâåðåííîñòü â ñåáå.;;x
+EVTDESC1710;I do whatever strikes my fancy. Such as smashing this fine glass goblet!;;;;;;;;;;;ß äåëàþ âñå, ÷òî çàíèìàåò ìî¸ âîîáðàæåíèå. È ïîýòîìó ÿ ðàçáèë[Root.GetEndA] ýòîò ïðåêðàñíûé ñòåêëÿííûé êóáîê!;;x
+EVTDESC1711;My [GetFromRelation] [From.GetFirstName] took the strap to me for smashing the goblet.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] âçÿë[From.GetEndA] ðîçãè è âûïîðîë[From.GetEndA] ìåíÿ çà ðàçáèòûé êóáîê.;;x
+EVTDESC1720;I always make sure the children get equal parts when the cook gives us sweetmeats, full-cream milk or anything else.;;;;;;;;;;;Ìîè óáåæäåíèÿ ãîâîðÿò ìíå, ÷òî äåòè äîëæíû ïîëó÷àòü âñåãî ïîðîâíó, êîãäà ïîâàð äà¸ò êîíôåòû, ìîëîêî èëè ÷òî-ëèáî åù¸.;;x
+EVTDESC1721;My [GetFromRelation] [From.GetFirstName] chided me for my obsession with fairness, explaining that justice is simply word invented by human with too much time on their hands.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] óïðåêíóë[From.GetEndA] ìåíÿ çà îäåðæèìîñòü ñïðàâåäëèâîñòüþ, îáúÿñíèâ, ÷òî ñïðàâåäëèâîñòü - äåëî ðóê ÷åëîâåêà, à íå Áîãà.;;x
+EVTDESC1730;People are naive fools, laughing, dancing and nodding like puppets to the false tune played by priests and noblemen. Charlatans all!;;;;;;;;;;;Ëþäè - íàèâíûå äóðàêè: ñìåþòñÿ è òàíöóþò êàê ìàðèîíåòêè, à óïðàâëÿþò èìè ñâÿùåííèêè è äâîðÿíå.;;x
+EVTDESC1731;The priest bored me to tears with a sermon, then told my [GetFromRelation] about my cynicism. [From.GetSubjectPronounCap] tried beating it out of me...;;;;;;;;;;;Ñâÿùåííèê ñêó÷íî ÷èòàë ìíå ïðîïîâåäü, à çàòåì ñêàçàë ìîåìó íàñòàâíèêó î ìî¸ì öèíèçìå. [From.GetSubjectPronounCap] ÷óòü íå ïîáèë[From.GetEndA] åãî èç-çà ìåíÿ...;;x
+EVTDESC1732;People are naive fools, laughing, dancing and nodding like puppets to the false tune played by imams. Charlatans all!;;;;;;;;;;;Ëþäè - íàèâíûå ãëóïöû, êîòîðûå êàê ìàðèîíåòêè ñìåþòñÿ, êèâàþò è òàíöóþò ïîä ôàëüøèâûå ìåëîäèè èìàìîâ. Âñå îíè øàðëàòàíû!;;x
+EVTDESC1733;The imam's admonishment bored me to tears, then he told my [GetFromRelation] about my cynicism. [From.GetSubjectPronounCap] tried beating it out of me...;;;;;;;;;;;Ïðåäîñòåðåæåíèå èìàìà âûçûâàåò ó ìåíÿ ëèøü ñêóêó, è òîãäà [From.GetRootRelation] óçíà¸ò îò íåãî î ìî¸ì öèíèçìå. [From.GetSubjectPronounCap] ïûòàåòñÿ âûáèòü åãî èç ìåíÿ...;;x
+EVTDESC1900;I seem to be slow to talk;;;;;;;;;;;ß, êàæåòñÿ, ìåäëåííî ãîâîðþ.;;x
+EVTDESC1901;So where does children come from?;;;;;;;;;;;Âñåãäà õîòåë[Root.GetEndA] ñïðîñèòü, íèêàê íå ðåøà[Root.GetLasLsya], íî âñ¸ æå, îòêóäà áåðóòñÿ äåòè?;;x
+EVTDESC1902;The darkness must definitely contain goblins and demon!;;;;;;;;;;;Â òåìíîòå îïðåäåë¸ííî äîëæíû áûòü ãîáëèíû è äåìîíû!;;x
+EVTDESC1903;Other children just get into fights with me.;;;;;;;;;;;Ìåíÿ çàäèðàþò äðóãèå äåòè.;;x
+EVTDESC1904;I just do not have enough things to play with.;;;;;;;;;;;Ó ìåíÿ íåäîñòàòî÷íî èãðóøåê, ñ êîòîðûìè ÿ áû ìîã[Root.GetNoneE] èãðàòü.;;x
+EVTDESC1905;Other children talk about their mothers, but I never see my mother.;;;;;;;;;;;Äðóãèå äåòè ãîâîðÿò î ñâîèõ ìàòåðÿõ, íî ÿ íèêîãäà íå âèäåë[Root.GetEndA] ìîåé ìàìû.;;x
+EVTDESC1906;I am rather lonely, the other children does not seem to want to be with me.;;;;;;;;;;;ß äîâîëüíî îäèíîê[Root.GetEndA], îñòàëüíûå äåòè, êàæåòñÿ, íå õîòÿò, ÷òîáû ÿ èãðàë[Root.GetEndA] ñ íèìè.;;x
+EVTDESC1907;Why must I go to school today instead of playing 'Who's afraid of the Black Knight' with my friends?;;;;;;;;;;;"Ïî÷åìó ìíå íàäî èäòè â øêîëó, âìåñòî òîãî, ÷òîáû èãðàòü â ""Êòî áîèòñÿ Ñòðàøíîãî Ðàçáîéíèêà"" ñ ìîèìè äðóçüÿìè?";;x
+EVTDESC1908;I really wonder what heathens are. Maybe [Root.Guardian.GetFullName] knows?;;;;;;;;;;;ß èñêðåííå óäèâëåí[Root.GetEndA] ñóùåñòâîâàíèåì ÿçû÷íèêîâ. Âîçìîæíî, [Root.Guardian.GetFullName] ñìîæåò ýòî îáúÿñíèòü.;;x
+EVTDESC1909;Climbing high walls, and practising sword fighting with my friends are great fun.;;;;;;;;;;;Êàðàáêàòüñÿ íà âûñîêóþ ñòåíó èëè äðàòüñÿ íà ìå÷àõ ñ ìîèìè äðóçüÿìè - ýòî òàê çäîðîâî!;;x
+EVTDESC1910;I wonder if [Root.Religion.GetRandomGodName] does exist. Maybe [Root.Guardian.GetFullName] knows?;;;;;;;;;;;Èíòåðåñíî, [Root.Religion.GetHighGodName] ñóùåñòâóåò? Âîçìîæíî [Root.Guardian.GetFullName] çíàåò?;;x
+EVTDESC1911;Why do people die? Maybe [Root.Guardian.GetFullName] knows?;;;;;;;;;;;Ïî÷åìó ëþäè óìèðàþò? Ìîæåò, [Root.Guardian.GetFullName] îáúÿñíèò?;;x
+EVTDESC1912;Will I rule one day? Maybe [Root.Guardian.GetFullName] knows?;;;;;;;;;;;ß êîãäà-íèáóäü áóäó ïðàâèòü? Ìîæåò, [Root.Guardian.GetFullName] çíàåò?;;x
+EVTDESC1913;Life is good, and great parties makes them even better.;;;;;;;;;;;Æèòü õîðîøî, à æèòü, ïîñòîÿííî óñòðàèâàÿ îãðîìíûå ïèðû, åù¸ ëó÷øå.;;x
+EVTDESC1914;I do not understand why we are fighting fellow [catholic.GetName]s?;;;;;;;;;;;ß íå ìîãó ïîíÿòü, ïî÷åìó ìû ñðàæàåìñÿ ñ áðàòüÿìè ïî âåðå?;;x
+EVTDESC1915;I wonder why the Church is so rich, and the peasants so poor?;;;;;;;;;;;ß ïîðàæåí[Root.GetEndA], ïî÷åìó Öåðêîâü íàñòîëüêî áîãàòà, à êðåñòüÿíå íàñòîëüêî áåäíû.;;x
+EVTDESC1916;I wonder why [Root.Guardian.GetFullName] let that peasant get away?;;;;;;;;;;;Óäèâèòåëüíî, ïî÷åìó [Root.Guardian.GetFullName] íå ïðåñëåäóåò áåãëûõ êðåñòüÿí.;;x
+EVTDESC1917;Peasants are only good for following my commands!;;;;;;;;;;;Êðåñòüÿíå ãîäÿòñÿ òîëüêî äëÿ âûïîëíåíèÿ ìîèõ ïðèêàçîâ!;;x
+EVTDESC1918;Deep thoughts interest me, but I would love to hear the answers to some questions.;;;;;;;;;;;Ìíå èíòåðåñíî ðàçìûøëÿòü íàä ôèëîñîôñêèìè âîïðîñàìè, íî ïîíðàâèòñÿ ëè ìíå îòâåòû íà íåêîòîðûå èç íèõ?;;x
+EVTDESC1919;Since we all are going to die, why not enjoy life?;;;;;;;;;;;Åñëè ìû âñå óìð¸ì, ïî÷åìó áû íå íàñëàäèòüñÿ æèçíüþ?;;x
+EVTDESC1920;Serving [Root.Religion.GetRandomGodName] should be our goal in life. How can I do it the best way?;;;;;;;;;;;[Root.Religion.GetRandomGodName], ñëóæåíèå òåáå äîëæíî ñòàòü íàøåé öåëüþ æèçíè. Êàê ìíå ëó÷øå âñåãî äîñòè÷ü ýòîãî?;;x
+EVTDESC1921;I snuck out again, found my slim sword Pin and began practising. I'd rather practise sword fighting with Pin than doing embroidery, but I have to watch out so none finds out and takes my sword from me...;;;;;;;;;;;"Ìíå îïÿòü óäàëîñü ïðîñêîëüçíóòü, íàéòè ñâîé òîíêèé ìå÷ ""Áóëàâêà"" è íà÷àòü ïðàêòèêîâàòüñÿ. ß ïðåäïî÷èòàþ áîé íà ìå÷àõ âûøèâàíèþ, íî ÿ äîëæíà îñòåðåãàòüñÿ, ÷òîáû íèêòî íå óçíàë è íå îòîáðàë ìîþ Áóëàâêó…";;x
+EVTDESC1922;I am afraid of so many things, and every time I show my weaknesses others ridicule me for cowardness.;;;;;;;;;;;ß ÷àñòî ïóãàþñü, è êàæäûé ðàç, ñòàíîâëþñü îáúåêòîì äëÿ íàñìåøåê çà òðóñîñòü.;;x
+EVTDESC1923;I sneaked through the dungeons, hearing the prisoners pleading for their life and the coarse laughter from the guards. A knife lay forgotten on the floor and I brought it with me, only to realize in the daylight why it had felt so sticky...;;;;;;;;;;;Ìíå óäàëîñü ïðîñêîëüçíóòü â ïîäçåìåëüå. Ñëûøíî çàêëþ÷¸ííûõ, óìîëÿþùèõ î ïîùàäå, è ãðóáûé ñìåõ ñòðàæè. Çàáûòûé íîæ ëåæàë íà ïîëó, ÿ âîçüìó åãî òîëüêî, ÷òîáû ðàññìîòðåòü â äíåâíîì ñâåòå, ïî÷åìó îí òàêîé ëèïêèé...;;x
+EVTDESC1924;I curled up in my favorite chair with the biggest book I could find. When I heard [Root.Guardian.GetFullName] coming up the stairs I sprung from the chair but the book dragged me down and so [Root.Guardian.GetFullName] caught me.;;;;;;;;;;;ß ñèæó â ìî¸ì ëþáèìîì ñòóëå ñ ñàìîé áîëüøîé êíèæêîé, êàêóþ òîëüêî ìîæíî íàéòè, çàòåì ñëûøó, ÷òî [Root.Guardian.GetFullName] èä¸ò ïî ëåñòíèöå, ÿ ñïðûãèâàþ ñî ñòóëà, íî êíèãà òÿíåò ìåíÿ âíèç, è [Root.Guardian.GetFullName] óñïåâàåò ñõâàòèòü ìåíÿ.;;x
+EVTDESC1925;I know I am ugly, I can never be as beautiful as some of the people in the court of [Root.Guardian.GetTitledFirstName]!;;;;;;;;;;;ß çíàþ, ÷òî ÿ óðîäèíà, ó ìåíÿ íèêîãäà íå ïîëó÷èòñÿ ñðàâíèòüñÿ â êðàñîòå ñ íåêîòîðûìè ëþäüìè ïðè äâîðå ìîåãî íàñòàâíèêà!;;x
+EVTDESC1926;I always get compliments for my fair skin, my silken hair and my big eyes. They tell me I am beautiful and I should be proud of my looks.;;;;;;;;;;;ß ïîñòîÿííî ïîëó÷àþ êîìïëèìåíòû ìîåé ñâåòëîé êîæå, ø¸ëêîâûì ãóáàì è áîëüøèì ãëàçàì. Ìíå ãîâîðÿò, ÷òî [Root.Religion.GetHighGodName] íàäåëèë[Root.GetHGodEndA] ìåíÿ êðàñîòîé, è ÿ ìîãó ãîðäèòüñÿ ñâîåé âíåøíîñòüþ.;;x
+EVTDESC1927;It was market day and I had persuaded [Root.Guardian.GetFullName] to let me have some money for sweetmeats. I found what I wanted but haggled all I could until the merchant gave up, laughed and handed me the sweetmeats for a lot less than what he wanted for them.;;;;;;;;;;;Áûë áàçàðíûé äåíü, è ÿ óáåäèë [Root.Guardian.GetFullName] äàòü ìíå äåíåã íà ñëàäîñòè. ß íàø¸ë, ÷òî õîòåë è òîðãîâàëñÿ èçî âñåõ ñèë, íî òîðãîâåö òîëüêî çàñìåÿëñÿ è ïðîòÿíóë ìíå êîíôåò ãîðàçäî ìåíüøå, ÷åì õîòåëîñü áû.;;x
+EVTDESC1928;Visitors arrived today and, despite their peculiar clothes, strange language and strangely colored skin, they were warmly greeted by [Root.Guardian.GetFullName]. I wanted to talk to them and find out where they came from and who they were, but I was not sure if [Root.Guardian.GetTitledFirstName] would approve.;;;;;;;;;;;Ñåãîäíÿ ïðèáûëè ãîñòè èçäàëåêà. Íåñìîòðÿ íà èõ íåïîíÿòíûé ÿçûê, ñòðàííûå îäåæäû è öâåò êîæè, [Root.Guardian.GetFullName] ãîðÿ÷î ïîïðèâåòñòâîâàë[Root.Guardian.GetEndA] ýòó äåëåãàöèþ. ß ñ íåòåðïåíèåì æäó âîçìîæíîñòè ïîãîâîðèòü ñ íèìè, ðàçóçíàòü îòêóäà îíè, íî íå óâåðåí[Root.GetEndA], ÷òî [Root.Guardian.GetTitledFirstName] îäîáðèò ìî¸ ëþáîïûòñòâî.;;x
+EVTDESC1929;Every chance I get I practice swordfighting, often with the older men who finds it amusing to see me charging at them with all my might. They are too seasoned for me to defeat them, but practise makes perfect and one day I will be the best.;;;;;;;;;;;Ïðè êàæäîé âîçìîæíîñòè ÿ ïðàêòèêóþñü â ôåõòîâàíèè, ÷àñòî ñî âçðîñëûìè, êîòîðûì çàáàâíî, ÷òî ÿ áðîñàþñü â áîé ñëîìÿ ãîëîâó. Òàê êàê îíè îïûòíûå âîèíû, øàíñîâ èõ ïîáåäèòü ó ìåíÿ íåò, îäíàêî, òàêàÿ ïðàêòèêà ìíå íà ïîëüçó. Îäíàæäû ÿ ñòàíó ëó÷øèì èç ëó÷øèõ.;;x
+EVTDESC1930;I got my first kiss today! It was not quite what I had expected but rather nice anyway. Too bad [Root.Guardian.GetFullName] blundered in on us, spoiling the moment.;;;;;;;;;;;Ñåãîäíÿ ÿ âïåðâûå ïîöåëîâàëñÿ! Ýòî áûëî íå ñîâñåì òî, ÷òî ÿ îæèäàë, íî âñå ðàâíî íåïëîõî. Æàëü òîëüêî, ÷òî [Root.Guardian.GetFullName] çàñòóêàë íàñ, èñïîðòèâ ìîìåíò.;;x
+EVTDESC1931;The kitchen is warm and filled with delicious smells and even more delicious foodstuff. If I could, I would spend all my days here.;;;;;;;;;;;Íà êóõíå òåïëî è ïîëíî äóøèñòûõ àðîìàòîâ. À ñêîëüêî æå òóò âîñõèòèòåëüíûõ ÿñòâ! Åñëè áû ÿ ìîã[Root.GetNoneE] - ÿ áû òóò æèë[Root.GetEndA].;;x
+EVTDESC1932;The biggest tower in [Root.Location.GetName] is staggering high, but I had decided to climb all the way up, on the outside. I saw [Root.Guardian.GetFullName] in the room at the top and shouted a greeting.;;;;;;;;;;;Â îêðóãå [Root.Location.GetName] åñòü ñàìàÿ âûñîêàÿ áàøíÿ, êîòîðàÿ ïðîñòèðàåòñÿ àæ äî ñàìûõ îáëàêîâ. È ìíå õâàòèëî ðåøèòåëüíîñòè ïðåîäîëåòü ïîäú¸ì èñêëþ÷èòåëüíî ïî íàðóæíîé ëåñòíèöå. Ìîé íàñòàâíèê,[Root.Guardian.GetFullName], áûë â ýòîé êîìíàòå íàâåðõó. ß óâèäåë è ïðîèçí¸ñ ïðèâåòñòâèå.;;x
+EVTDESC1933;I don't feel too good, I am feverish and my head hurts! Can't [Root.Guardian.GetFullName] do something to rid me of this illness?;;;;;;;;;;;ß ÷óâñòâóþ ñåáÿ íå î÷åíü õîðîøî: ìåíÿ ëèõîðàäèò è ó ìåíÿ áîëèò ãîëîâà! Íå ìîãëè áû Âû, [Root.Guardian.GetFullName] ñäåëàòü ÷òî-íèáóäü, ÷òîáû âûëå÷èòü ìåíÿ îò ýòîé áîëåçíè?;;x
+EVTDESC1934;I have feelings for a [Root.GetManWoman] at court, I feel happy and almost in love everytime I see [Root.GetHerHim]. I try to accept this but will others accept me?;;;;;;;;;;;Ïðè äâîðå åñòü [Root.GetManWoman]à, êîòîðàÿ(ûé) ìíå íðàâèòñÿ. È êàêîå ñ÷àñòüå, êîãäà òåáå îòâå÷àþò âçàèìíîñòüþ! ß ñòàðàþñü ñîõðàíèòü âñ¸ êàê åñòü, íî ïîçâîëÿò ëè ìíå ýòî äðóãèå?;;x
+EVTDESC1935;I have never had any problems making friends, to get someone to like me I can twist and turn the truth until it fits.;;;;;;;;;;;Ó ìåíÿ íèêîãäà íå áûëî ñëîæíîñòåé â îáùåíèè ñ äðóçüÿìè, ÷òîáû êîìó-òî ïîíðàâèòüñÿ ÿ çàïðîñòî ìîãó èçâîðà÷èâàòüñÿ è ãîâîðèòü íåïðàâäó.;;x
+EVTDESC1965;Haha, look at that rat trying to walk with broken legs! Roly poly little rat!;;;;;;;;;;;Õà-õà, ïîñìîòðèòå êàê êðûñà ïûòàåòñÿ õîäèòü ñî ñëîìàííîé íîãîé! Êàê âåñåëî!;;x
+EVTDESC1966;My ears are still ringing from the slap [From.GetTitledFirstName] gave me over that rat.;;;;;;;;;;;Ó ìåíÿ â óøàõ âñ¸ åù¸ çâåíèò ïîñëå óäàðà, êîòîðûé ìíå íàíåñ[From.GetNoneE] [From.GetTitledFirstName] çà èçäåâàòåëüñòâî íàä êðûñîé.;;x
+EVTDESC1970;Maybe the stablemaster knows more about horses than I do, I'm not that interested anymore anyway.;;;;;;;;;;;Ìîæåò áûòü, êîíþøèé è çíàåò î ëîøàäÿõ áîëüøå, íî ìåíÿ ýòî óæå íå èíòåðåñóåò.;;x
+EVTDESC1980;Women do not interest me, instead I feel drawn to other men.;;;;;;;;;;;Æåíùèíû ìåíÿ íå èíòåðåñóþò, ÿ ÷óâñòâóþ, ÷òî ìåíÿ òÿíåò ê äðóãèì ìóæ÷èíàì.;;x
+EVTDESC1985;I know I should not be drawn to other men but I can't seem to help it. Should I deny my feelings and be as the church and world wants me to be?;;;;;;;;;;;ß çíàþ, ÷òî íå äîëæåí îáðàùàòü âíèìàíèÿ íà äðóãèõ ìóæ÷èí, íî ÿ íå ìîãó ñ ñîáîé íè÷åãî ïîäåëàòü. Ñòîèò ëè îòðèöàòü ñâîè ÷óâñòâà è áûòü òàêèì, êàêèì ìåíÿ õîòÿò âèäåòü îêðóæàþùèå?;;x
+EVTDESC1986;To lie with another [Root.GetManWoman] as you would lie with a [Root.GetManWomanOpp] is sinful, forbidden and if I was to be exposed, death would be my penalty.;;;;;;;;;;;Ñïàòü ñ ìóæ÷èíàìè, â òî âðåìÿ êàê äîëæíî ñïàòü òîëüêî ñ æåíùèíàìè, ãðåõîâíî è çàïðåòíî. Åñëè ìåíÿ ðàñêðîþò, íàêàçàíèåì ìíå áóäåò ñìåðòíàÿ êàçíü.;;x
+EVTDESC1990;Men do not interest me, instead I feel drawn to other women.;;;;;;;;;;;Ìóæ÷èíû ìåíÿ íå èíòåðåñóþò, ÿ ÷óâñòâóþ, ÷òî ìåíÿ òÿíåò ê äðóãèì æåíùèíàì.;;x
+EVTDESC1991;I can run around wild and do whatever I want. Without any guardian, I set my own moral standards!;;;;;;;;;;;ß ìîãó äåëàòü âñå, ÷òî ÿ õî÷ó. Ó ìåíÿ íåò íàñòàâíèêà, è òîëüêî ÿ óñòàíàâëèâàþ ñâîè ìîðàëüíûå íîðìû!;;x
+EVTDESC1995;I know I should not be drawn to other women but I can't seem to help it. Should I deny my feelings and be as the church and world wants me to be?;;;;;;;;;;;ß çíàþ, ÷òî íå äîëæíà îáðàùàòü âíèìàíèÿ íà äðóãèõ æåíùèí, íî ÿ íå ìîãó ñ ñîáîé íè÷åãî ïîäåëàòü. Ñòîèò ëè îòðèöàòü ñâîè ÷óâñòâà è áûòü òàêîé, êàêîé ìåíÿ õîòÿò âèäåòü îêðóæàþùèå?;;x
+EVTOPTA1500;Mmm, sweets!;;;;;;;;;;;Ììì, ïå÷åíüêè!;;x
+EVTOPTA1501;But I'm hungry!;;;;;;;;;;;Íî ÿ õî÷ó åñòü!;;x
+EVTOPTA1510;Fat people are ugly;;;;;;;;;;;Òîëñòûå ëþäè áåçîáðàçíû;;x
+EVTOPTA1511;I don't want to get fat though.;;;;;;;;;;;ß íå õî÷ó òîëñòåòü;;x
+EVTOPTA1520;My toys! Mine!;;;;;;;;;;;Ìîè èãðóøêè! Ìîè!;;x
+EVTOPTA1521;But... they are MY toys.;;;;;;;;;;;Íî... ýòî ÌÎÈ èãðóøêè;;x
+EVTOPTA1530;I'm nice;;;;;;;;;;;ß - õîðîø[Root.GetAyaIy];;x
+EVTOPTA1531;I'm confused;;;;;;;;;;;ß â çàìåøàòåëüñòâå;;x
+EVTOPTA1540;I'll just take a nap instead;;;;;;;;;;;ß ïðîñòî âçäðåìíó;;x
+EVTOPTA1541;But I'm tired!;;;;;;;;;;;Íî ÿ óñòàë[Root.GetEndA]!;;x
+EVTOPTA1550;I'm special;;;;;;;;;;;ß - îñîáåíí[Root.GetAyaYy];;x
+EVTOPTA1551;[From.GetSubjectPronounCap] is right!;;;;;;;;;;;Ýòî ïðàâäà!;;x
+EVTOPTA1560;I want what they have!;;;;;;;;;;;ß õî÷ó òî, ÷òî åñòü ó íèõ!;;x
+EVTOPTA1561;I still NEED that dress!;;;;;;;;;;;Ìíå âñ¸ åù¸ ÍÓÆÍÎ ýòî ïëàòüå!;;x
+EVTOPTA1570;They all mean well;;;;;;;;;;;Âñå âîêðóã êàæóòñÿ õîðîøèìè;;x
+EVTOPTA1571;I take it back, some people are evil.;;;;;;;;;;;ß åìó ýòî ïðèïîìíþ;;x
+EVTOPTA1580;I hate him!;;;;;;;;;;;ß íåíàâèæó åãî!;;x
+EVTOPTA1581;I hate [From.GetObjectPronoun] too!;;;;;;;;;;;ß òîæå íåíàâèæó [From.GetHersHis]!;;x
+EVTOPTA1590;Patience pays off;;;;;;;;;;;Òåðïåíèå îêóïàåòñÿ;;x
+EVTOPTA1591;My temper is rising;;;;;;;;;;;Ìî¸ íàñòðîåíèå ïîäíèìàåòñÿ;;x
+EVTOPTA1600;It's the truth!;;;;;;;;;;;Ýòî ïðàâäà!;;x
+EVTOPTA1601;Pride goeth before fall;;;;;;;;;;;Ãîðäûíÿ ãðîçèò ïàäåíèåì;;x
+EVTOPTA1610;I see that clearly;;;;;;;;;;;ß ÿñíî âèæó ýòî;;x
+EVTOPTA1620;Fools, all of them!;;;;;;;;;;;Îíè âñå äóðàêè!;;x
+EVTOPTA1621;I will never lie again! Ouch...!;;;;;;;;;;;ß íèêîãäà íå áóäó ëãàòü! Îé!;;x
+EVTOPTA1630;I want to know more!;;;;;;;;;;;ß õî÷ó çíàòü áîëüøå!;;x
+EVTOPTA1631;Maybe [From.GetSubjectPronoun] is right!;;;;;;;;;;;Ìîæåò áûòü [From.GetSubjectPronoun] ïðàâ[From.GetEndA]!;;x
+EVTOPTA1640;I tell it as I see it;;;;;;;;;;;ß ãîâîðþ òî, ÷òî âèæó;;x
+EVTOPTA1641;So my tongue won't turn black?;;;;;;;;;;;Òàê ÷òî, ìîé ÿçûê íå ñòàíåò ÷¸ðíûì?;;x
+EVTOPTA1650;It probably does;;;;;;;;;;;Âûõîäèò, äà...;;x
+EVTOPTA1651;I was brave, wasn't I?;;;;;;;;;;;ß áûë õðàáðûì, íå òàê ëè?;;x
+EVTOPTA1660;It makes me feel alive!;;;;;;;;;;;Ýòî çàñòàâëÿåò ìåíÿ ÷óâñòâîâàòü ñåáÿ æèâûì!;;x
+EVTOPTA1661;Fine!;;;;;;;;;;;Îòëè÷íî!;;x
+EVTOPTA1670;I'm a bit shy;;;;;;;;;;;ß íåìíîãî çàñòåí÷èâ[Root.GetAyaYy];;x
+EVTOPTA1671;I'm starving!;;;;;;;;;;;ß óìèðàþ îò ãîëîäà!;;x
+EVTOPTA1680;Hi, what's your name?;;;;;;;;;;;Ïðèâåò, êàê òåáÿ çîâóò?;;x
+EVTOPTA1681;I hate [From.GetObjectPronoun]!;;;;;;;;;;;ß íåíàâèæó [From.GetHersHis]!;;x
+EVTOPTA1690;It is my right!;;;;;;;;;;;ß ýòîãî çàñëóæèâàþ!;;x
+EVTOPTA1691;Mad as a hatter, [From.GetSheHe] is;;;;;;;;;;;[From.GetSheHe] ñîâñåì ñïÿòèë[From.GetEndA];;x
+EVTOPTA1700;I am happy with what I have;;;;;;;;;;;ß äîâîë[Root.GetSoftNaEn] òåì, ÷òî ó ìåíÿ åñòü;;x
+EVTOPTA1701;Where can I get that?;;;;;;;;;;;Êàê è ãäå ÿ ñìîãó ýòîãî äîáèòüñÿ?;;x
+EVTOPTA1710;Music to my ears!;;;;;;;;;;;Çâîí ðàçáèòîãî ñòåêëà - ìóçûêà äëÿ ìîèõ óøåé!;;x
+EVTOPTA1711;I see that it was wrong now;;;;;;;;;;;ß äóìàþ, ÷òî ýòî áûëî íåïðàâèëüíî;;x
+EVTOPTA1720;It has to be fair;;;;;;;;;;;Âñ¸ äîëæíî áûòü ñïðàâåäëèâî.;;x
+EVTOPTA1721;Perhaps [From.GetSubjectPronoun] is right...;;;;;;;;;;;Âîçìîæíî, [From.GetSubjectPronoun] ïðàâ[From.GetEndA]...;;x
+EVTOPTA1730;It is all pointless!;;;;;;;;;;;Ýòî - áåññìûñëåííî!;;x
+EVTOPTA1731;It worked;;;;;;;;;;;Ýòî ðàáîòàåò;;x
+EVTOPTA1900;Maybe someone will notice it.;;;;;;;;;;;Ìîæåò áûòü, êòî-íèáóäü çàìåòèò ýòî.;;x
+EVTOPTA1901;Maybe my father will tell me?;;;;;;;;;;;Ìîæåò ìîé îòåö ðàññêàæåò ìíå;;x
+EVTOPTA1902;Help me!;;;;;;;;;;;Ñïàñèòå ìåíÿ!;;x
+EVTOPTA1903;Maybe my father notices it.;;;;;;;;;;;Ìîæåò, ìîé îòåö çàìåòèò ýòî.;;x
+EVTOPTA1904;Maybe father will give me more toys.;;;;;;;;;;;Ìîæåò, îòåö äàñò ìíå áîëüøå èãðóøåê.;;x
+EVTOPTA1905;Maybe father knows..;;;;;;;;;;;Ìîæåò, îòåö çíàåò...;;x
+EVTOPTA1906;It is probably no big deal.;;;;;;;;;;;Âåðîÿòíî, ýòî êàêîé-òî ñãîâîð.;;x
+EVTOPTA1907;My will should count for more...;;;;;;;;;;;Ìîÿ ñèëà âîëè óêðåïèòñÿ ñ ýòèì;;x
+EVTOPTA1908;I'll ask [Root.Guardian.GetHerHim]!;;;;;;;;;;;ß ñïðîøó [Root.Guardian.GetHerHis];;x
+EVTOPTA1909;[Root.Guardian.GetFullName] would surely agree!;;;;;;;;;;;[Root.Guardian.GetFullName] ñî ìíîé ñîãëàñèòñÿ!;;x
+EVTOPTA1910;I'll ask [Root.Guardian.GetHerHim]!;;;;;;;;;;;ß ñïðîøó [Root.Guardian.GetHerHis]!;;x
+EVTOPTA1911;I'll go ask [Root.Guardian.GetHerHim]!;;;;;;;;;;;Ïîéäó, ñïðîøó [Root.Guardian.GetHerHis]!;;x
+EVTOPTA1912;I should ask [Root.Guardian.GetHerHim]!;;;;;;;;;;;ß ìîãó ñïðîñèòü [Root.Guardian.GetHerHis].;;x
+EVTOPTA1913;Maybe I should invite [Root.Guardian.GetFullName] to one of them?;;;;;;;;;;;Âîçìîæíî, [Root.Guardian.GetFullName] ñîãëàñèòñÿ ïðèäòè.;;x
+EVTOPTA1914;Perhaps [Root.Guardian.GetFullName] knows why?;;;;;;;;;;;Âîçìîæíî, [Root.Guardian.GetFullName] îáúÿñíèò?;;x
+EVTOPTA1915;I'll go and ask [Root.Guardian.GetFullName]!;;;;;;;;;;;Óâåðåí[Root.GetEndA], [Root.Guardian.GetFullName] ïîäñêàæåò;;x
+EVTOPTA1916;I'll go and ask [Root.Guardian.GetHerHim]!;;;;;;;;;;;Ïîéäó è ñïðîøó [Root.Guardian.GetHersHis] îá ýòîì!;;x
+EVTOPTA1917;[Root.Guardian.GetFullName] will surely agree!;;;;;;;;;;;[Root.Guardian.GetFullName] òîæå òàê ñ÷èòàåò!;;x
+EVTOPTA1918;[Root.Guardian.GetFullName] will help me out!;;;;;;;;;;;[Root.Guardian.GetFullName] ïîìîæåò ìíå ñ ýòèì.;;x
+EVTOPTA1919;[Root.Guardian.GetFullName] will know what to do...;;;;;;;;;;;[Root.Guardian.GetFullName] çíàåò, ÷òî äåëàòü...;;x
+EVTOPTA1920;[Root.Guardian.GetFullName] will know what to do...;;;;;;;;;;;[Root.Guardian.GetFullName] çíàåò, ÷òî äåëàòü...;;x
+EVTOPTA1921;I was not careful enough, [Root.Guardian.GetFullName] saw me!;;;;;;;;;;;ß íåäîñòàòî÷íî îñòîðîæíà, [Root.Guardian.GetFullName] âèäåë ìåíÿ!;;x
+EVTOPTA1922;[Root.Guardian.GetFullName], please make them stop!;;;;;;;;;;;[Root.Guardian.GetFullName], ïðåêðàòèòå ýòî!;;x
+EVTOPTA1923;Ew! Blood!;;;;;;;;;;;ÎÉ! Êðîâü!;;x
+EVTOPTA1924;Let me go! I wanna read!;;;;;;;;;;;Îòïóñòè! ß õî÷ó ïî÷èòàòü!;;x
+EVTOPTA1925;Why am I not beautiful?;;;;;;;;;;;Ïî÷åìó ó ìåíÿ òàêàÿ âíåøíîñòü?;;x
+EVTOPTA1926;I am the fairest of them all!;;;;;;;;;;;ß íà ñâåòå âñåõ ìèëåå!;;x
+EVTOPTA1927;It was a sweet deal;;;;;;;;;;;Ñëàäêàÿ ñäåëêà!;;x
+EVTOPTA1928;[Root.Guardian.GetFullName], may I talk to the visitors?;;;;;;;;;;;[Root.Guardian.GetFullName], ìîæíî ÿ ïîãîâîðþ ñ íèìè?;;x
+EVTOPTA1929;Isn't that right, [Root.Guardian.GetFullName]?;;;;;;;;;;;Òàê ëè ýòî, [Root.Guardian.GetFullName]?;;x
+EVTOPTA1930;You ruined everything!;;;;;;;;;;;Âû èñïîðòèëè âñþ ìàëèíó!;;x
+EVTOPTA1931;I wanna become a cook!;;;;;;;;;;;ß õî÷ó ñòàòü ïîâàðîì!;;x
+EVTOPTA1932;[Root.Guardian.GetSheHeCap] didn't look too happy;;;;;;;;;;;[Root.Guardian.GetSheHeCap] âûãëÿäèò íå ñëèøêîì ñ÷àñòëèâûì ÷åëîâåêîì;;x
+EVTOPTA1933;Please, help me!;;;;;;;;;;;Ïîæàëóéñòà, ïîìîãèòå ìíå!;;x
+EVTOPTA1934;Do you accept me for who I am, [Root.Guardian.GetFullName]?;;;;;;;;;;;ß òàêîé, êàêîé ÿ åñòü. Ïðèíèìàåòå ëè Âû ìåíÿ [Root.Guardian.GetFullName]?;;x
+EVTOPTA1935;It's a great skill, isn't it, [Root.Guardian.GetFullName]?;;;;;;;;;;;Ýòî âåëèêîå èñêóññòâî, íå òàê ëè [Root.Guardian.GetFullName]?;;x
+EVTOPTA1965;Perhaps a cat next...;;;;;;;;;;;Âîçìîæíî, ñëåäóþùåé áóäåò êîøêà...;;x
+EVTOPTA1966;I guess I deserved it;;;;;;;;;;;Äóìàþ, ÿ ýòî çàñëóæèë[Root.GetEndA].;;x
+EVTOPTA1970;I need a new hobby. Oh, a bible!;;;;;;;;;;;Ìíå íóæíî íîâîå õîááè. Î, Áèáëèÿ!;;x
+EVTOPTA1980;I like them more;;;;;;;;;;;ß ëþáëþ èõ áîëüøå…;;x
+EVTOPTA1985;No!;;;;;;;;;;;Íåò!;;x
+EVTOPTA1986;I will be careful...;;;;;;;;;;;ß áóäó îñòîðîæ[Root.GetNaEn]...;;x
+EVTOPTA1991;[Root.Liege.GetTitledFirstName] may have other opinions?;;;;;;;;;;;[Root.Liege.GetTitledFirstName] âîçìîæíî, èìååò äðóãîå ìíåíèå?;;x
+EVTOPTB1561;I still NEED that wooden sword!;;;;;;;;;;;Ìíå âñ¸ åù¸ ÍÓÆÅÍ ýòîò äåðåâÿííûé ìå÷!;;x
+EVTOPTB1985;Fine...;;;;;;;;;;;Ïðåêðàñíî...;;x
+EVTOPTB1986;I... cannot risk it;;;;;;;;;;;ß... áîëüøå íå ìîãó òàê ðèñêîâàòü;;x
+EVTOOLTIP2490;[This.GetFullName] will look at my behavior.;;;;;;;;;;;Áóäåò ñëåäèòü çà ìîèì ïîâåäåíèåì.;;x
+EVTOOLTIP38221;[Root.Guardian.GetFullName] saw [Root.GetFirstName] practise swordfighting;;;;;;;;;;;[Root.Guardian.GetFullName] çàìå÷àåò, ÷òî [Root.GetFirstName] ïðàêòèêóåòñÿ â áîå íà ìå÷àõ.;;x
+EVTOOLTIP38222;[Root.Guardian.GetFullName] is told about [Root.GetFirstName]'s trouble;;;;;;;;;;;[Root.Guardian.GetFullName] óçíàåò î ñëàáîñòÿõ ñâîåãî âîñïèòàííèêà;;x
+EVTOOLTIP38223;[Root.Guardian.GetFullName] saw [Root.GetFirstName] with the bloody knife;;;;;;;;;;;[Root.Guardian.GetFullName] âèäèò, ÷òî âîñïèòàííè[Root.GetTsaK], [Root.GetFirstName], äåðæèò îêðîâàâëåííûé íîæ.;;x
+EVTOOLTIP38224;[Root.Guardian.GetFullName] caught [Root.GetFirstName] reading instead of doing [Root.GetHerHis] chores;;;;;;;;;;;[Root.Guardian.GetFullName] çàìåòèò, ÷òî [Root.GetFirstName] ÷èòàåò âìåñòî âûïîëíåíèÿ ñâîèõ îáÿçàííîñòåé;;x
+EVTOOLTIP38225;[Root.Guardian.GetFullName] comforts [Root.GetFirstName];;;;;;;;;;;[Root.Guardian.GetFullName] óòåøèò ñâîåãî âîñïèòàííèêà;;x
+EVTOOLTIP38226;[Root.Guardian.GetFullName] worries about [Root.GetFirstName];;;;;;;;;;;[Root.Guardian.GetFullName] áåñïîêîèòñÿ î ñâî¸ì âîñïèòàííèêå;;x
+EVTOOLTIP38227;[Root.Guardian.GetFullName] saw [Root.GetFirstName] haggle with the merchant;;;;;;;;;;;[Root.Guardian.GetFullName] âèäåë êàê [Root.GetFirstName] òîðãîâàëñÿ ñ êóïöîì;;x
+EVTOOLTIP38228;[Root.Guardian.GetFullName] responds to [Root.GetFirstName]'s question.;;;;;;;;;;;[Root.Guardian.GetFullName] îòâåòèò íà âîïðîñ, êîòîðûé çàäà¸ò [Root.GetFirstName].;;x
+EVTOOLTIP38229;[Root.Guardian.GetFullName] approves of [Root.GetFirstName]'s swordfighting;;;;;;;;;;;[Root.Guardian.GetFullName] ïîîùðÿåò óðîêè ôåõòîâàíèÿ, â êîòîðûõ ó÷àñòâóåò [Root.GetFirstName];;x
+EVTOOLTIP38230;[Root.Guardian.GetFullName] realizes [Root.GetFirstName] is becoming a [Root.GetManWoman];;;;;;;;;;;[Root.Guardian.GetFullName] ïîíèìàåò, ÷òî [Root.GetFirstName] óæå [Root.GetManWoman]à;;x
+EVTOOLTIP38231;[Root.Guardian.GetFullName] finds [Root.GetFirstName] in the kitchen;;;;;;;;;;;[Root.Guardian.GetFullName] íàõîäèò [Root.GetFirstName] íà êóõíå;;x
+EVTOOLTIP38232;[Root.Guardian.GetFullName] deals with [Root.GetFirstName]'s curiosity;;;;;;;;;;;[Root.Guardian.GetFullName] ñòîëêíóëñÿ ñ ëþáîïûòñòâîì [Root.GetFirstName];;x
+EVTOOLTIP38233;[Root.Guardian.GetFullName] is troubled by [Root.GetFirstName]'s illness;;;;;;;;;;;[Root.GetFirstName] áîëååò è [Root.Guardian.GetFullName] î÷åíü îá ýòîì áåñïîêîèòñÿ;;x
+EVTOOLTIP38234;[Root.Guardian.GetFullName] realizes [Root.GetFirstName] is drawn to a [Root.GetManWoman];;;;;;;;;;;[Root.Guardian.GetFullName] ïîíèìàåò, ÷òî [Root.GetFirstName] - [Root.GetManWoman]à ñ î÷åíü ñèìïàòè÷íîé âíåøíîñòüþ;;x
+EVTOOLTIP38235;[Root.Guardian.GetFullName] has something to say about [Root.GetFirstName]'s way of getting friends;;;;;;;;;;;[Root.Guardian.GetFullName] ìîæåò ìíîãîå ðàññêàçàòü î ñïîñîáàõ îáùåíèÿ ñ äðóçüÿìè, à [Root.GetFirstName] ìîæåò ìíîãîå äëÿ ñåáÿ èç ýòîãî óçíàòü;;x
+EVTTOOLTIP38101;[Root.Guardian.GetTitledFirstName] is questioned about [Root.Religion.GetHighGodName];;;;;;;;;;;[Root.Guardian.GetTitledFirstName] óñëûøèò îò ìåíÿ âîïðîñû î Áîãå;;x
+EVTTOOLTIP38102;[This.GetTitledFirstName] becomes [Root.Religion.GetName];;;;;;;;;;;[This.GetTitledFirstName] ñòàíåò èñïîâåäîâàòü [Root.GetReligionFullName] ([Root.GetReligionGroupFullName]);;x
+# EVTTOOLTIPA38101;[Root.Guardian.GetTitledFirstName] is questioned about Allah;;;;;;;;;;;[Root.Guardian.GetTitledFirstName] ïîëó÷àåò âîïðîñ îá Àëëàõå;;x
+EVTDESC2000;My [GetFromRelation] [From.GetFirstName] practically lives in the kitchens, the little glutton!;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] ïðàêòè÷åñêè æèâåò íà êóõíå, ïðîñòî ìàëåíüêàÿ îáæîðà!;;x
+EVTDESC2010;My [GetFromRelation] [From.GetFirstName] hardly eats anything for fear of turning fat.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] ïî÷òè íè÷åãî íå åñò, áîÿñü ðàñòîëñòåòü.;;x
+EVTDESC2020;I watched my [GetFromRelation] [From.GetFirstName] at play with another child yesterday and noticed that [From.GetSheHe] didn't want to share [From.GetHerHis] toys.;;;;;;;;;;;Íàáëþäàÿ, êàê [From.GetRootRelation] [From.GetFirstName] èãðàåò ñ äðóãèì ðåá¸íêîì, ÿ çàìå÷àþ, ÷òî [From.GetSheHe] íå õî÷åò äåëèòüñÿ ñâîèìè èãðóøêàìè.;;x
+EVTDESC2030;My [GetFromRelation] [From.GetFirstName] is a charitable little rascal, [From.GetSheHe] just gave [From.GetHerHis] newest toy to the smith's son.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] - þíûé áëàãîòâîðèòåëü, [From.GetSheHe] äàðèò ñâîè íîâûå èãðóøêè ñûíó êóçíåöà.;;x
+EVTDESC2040;My [GetFromRelation] [From.GetFirstName] is not exerting [From.GetReflexivePronoun] in [From.GetPossPronoun] studies. I am starting to despair.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] íå ïðèëàãàåò ñâîèõ óñèëèé ê ó÷¸áå. ß ïðîñòî â îò÷àÿíèè.;;x
+EVTDESC2050;My [GetFromRelation] [From.GetFirstName] does [From.GetHerHis] homework and is always on time for [From.GetHerHis] lessons.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] âñåãäà âîâðåìÿ äåëàåò äîìàøíèå çàäàíèÿ è âûïîëíÿåò ñâîè óðîêè.;;x
+EVTDESC2060;I had to break up a fight between my [GetFromRelation] [From.GetFirstName] and another child today. [From.GetFirstName]'s heart is filled with envy...;;;;;;;;;;;Ñåãîäíÿ ìíå ïðèøëîñü ïðåñå÷ü äðàêó ìåæäó ìî[From.GetEyIm] ïîäîïå÷í[From.GetOyYm] è äðóãèì ðåá¸íêîì. [From.GetFirstName] ïîë[From.GetNaOn] çàâèñòè...;;x
+EVTDESC2070;My [GetFromRelation] [From.GetFirstName] has a tender and loving soul, trusting everyone in the castle. I fear [From.GetSheHe] will get hurt someday.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] - íåæíàÿ è ëþáÿùàÿ äóøà, [From.GetSheHe] äîâåðÿåò âñåì ïðè äâîðå. ß áîþñü, ÷òî îäíàæäû [From.GetSheHe] ðàçîáü¸ò ñåáå ñåðäöå.;;x
+EVTDESC2080;The cook complained to me about my [GetFromRelation] [From.GetFirstName]'s temper tantrums. Apparently [From.GetSubjectPronoun] punched her son in the face. Again.;;;;;;;;;;;Ïîâàð æàëîâàëñÿ ÷òî [From.GetRootRelation] [From.GetFirstName] èìååò óæàñíûé õàðàêòåð è ïîñòîÿííî çàêàòûâàåò èñòåðèêè. Âèäèìî, [From.GetSubjectPronoun] óäàðèë[From.GetEndA] åãî ñûíà ïî ëèöó... îïÿòü.;;x
+EVTDESC2090;Patience is a virtue, but sometimes it gets on my nerves. My [GetFromRelation] [From.GetFirstName] never loses [From.GetPossPronoun] temper, always waiting patiently for a chance to retaliate.;;;;;;;;;;;Òåðïåíèå - äîáðîäåòåëü, íî èíîãäà ýòî äåéñòâóåò ìíå íà íåðâû. Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] íèêîãäà íå òåðÿåò ñàìîîáëàäàíèå è âñåãäà èùåò âîçìîæíîñòè îòîìñòèòü.;;x
+EVTDESC2100;My [GetFromRelation] [From.GetTitledFirstName] is turning into an arrogant little braggart. I might have to rein [From.GetHerHim] in a bit.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetTitledFirstName] ïðåâðàùàåòñÿ â ìàëåíüêîãî âûñîêîìåðíîãî õâàñòóíèøêó. Ìîæåò áûòü, ñòîèò ïîâëèÿòü íà í[From.GetHersHis]?;;x
+EVTDESC2120;I caught my [GetFromRelation], [From.GetFirstName] lying to me again, straight to my face without batting an eye. I almost had an innocent servant sent to the stocks!;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] ñíîâà ëæ¸ò ìíå ïðÿìî â ëèöî íå ìîðãíóâ è ãëàçîì. Åù¸ áû íåìíîãî è íåâèííûé ñëóãà îòïðàâèëñÿ â êîëîäêè ïî ìîåìó ïðèêàçó!;;x
+EVTDESC2110;My [GetFromRelation] [From.GetFirstName] is modest and humble, never showing off or bragging.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] îáëàäàåò ñêðîìíîñòüþ è ñìèðåíèåì, íå õâàñòàåòñÿ è íå áàõâàëèòñÿ.;;x
+EVTDESC2130;My little [GetFromRelation] [From.GetTitledFirstName] always has [From.GetPossPronoun] nose in the scriptures, and spends all [From.GetPossPronoun] time among the priests.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetTitledFirstName] õîðîøî ðàçáèðàåòñÿ â ñâÿòîì ïèñàíèè è ïðîâîäèò âñ¸ ñâî¸ âðåìÿ â îêðóæåíèè ñâÿùåííèêîâ.;;x
+EVTDESC2132;My little [GetFromRelation] [From.GetTitledFirstName] always has [From.GetHerHis] nose in the Qur'an, and spends all [From.GetHerHis] time among the imams.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetTitledFirstName] ïîñòîÿííî ÷èòàåò Êîðàí è ïðîâîäèò âñ¸ ñâî¸ âðåìÿ â îêðóæåíèè èìàìîâ.;;x
+EVTDESC2140;The lady almost ran me down as I entered the hall. Tearfully she told me that my [GetFromRelation] [From.GetFirstName] had insulted her again.;;;;;;;;;;;Äàìà áðîñàåòñÿ êî ìíå, êîãäà ÿ âõîæó â çàë. Ñî ñëåçàìè îíà ãîâîðèò ìíå, ÷òî [From.GetFirstName] îñêîðáëÿåò å¸.;;x
+EVTDESC2150;The smallest spider makes my [GetFromRelation] [From.GetFirstName] squeal and run for cover. This has started to worry me.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] ïðèõîäèò â óæàñ äàæå îò ñàìîãî ìàëåíüêîãî ïàóêà, âèçæèò è áðîñàåòñÿ íàóò¸ê. Ýòî ìåíÿ áåñïîêîèò.;;x
+EVTDESC2160;My [GetFromRelation] [From.GetFirstName] was bitten by a snake this morning! The brave little fool keeps seeking out danger.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] ñåãîäíÿ óòðîì ïåðåæèë[From.GetEndA] óêóñ çìåè! Îòâàæíîå äèòÿ èùåò ïðèêëþ÷åíèÿ íà ñâîþ...;;x
+EVTDESC2170;Every time my [GetFromRelation] [From.GetFirstName] meets a stranger, [From.GetSheHe] looks like [From.GetSheHe] might faint.;;;;;;;;;;;Êàæäûé ðàç, êîãäà ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] ñòàëêèâàåòñÿ ñ íåçíàêîìûì ÷åëîâåêîì, òàêîå âïå÷àòëåíèå, ÷òî [From.GetSheHe] âîò-âîò ïîòåðÿåò ñîçíàíèå.;;x
+EVTDESC2180;When guests arrive, my [GetFromRelation] [From.GetFirstName] is the first to greet them and shower them with questions.;;;;;;;;;;;Êîãäà êî ìíå ïðèõîäÿò ãîñòè, ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] âûõîäèò ðàíüøå âñåõ, ÷òîáû èõ ïîïðèâåòñòâîâàòü.;;x
+EVTDESC2190;My [GetFromRelation] [From.GetFirstName] is aiming for the stars, the ambitious little brat.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] ñòðåìèòñÿ ê âåðøèíàì. Ó í[From.GetHersHis] îãðîìíûå àìáèöèè.;;x
+EVTDESC2200;My [GetFromRelation] [From.GetFirstName] lacks all passion and ambition, perfectly content with [From.GetHerHis] lot in life.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] íå ñëàâèòñÿ àìáèöèîçíîñòüþ, [From.GetSheHe] äîâîëüñòâóåòñÿ òåì, ÷òî èìååò.;;x
+EVTDESC2210;[From.GetTitledFirstName] is impulsive and seems unable to tell right from wrong. What should I do with my wayward [GetFromRelation]?;;;;;;;;;;;[From.GetTitledFirstName] ïîääà¸òñÿ èìïóëüñèâíîñòè è, êàæåòñÿ, íå â ñîñòîÿíèè îòëè÷èòü ïðàâèëüíîå îò íåïðàâèëüíîãî. ×òî ìíå äåëàòü ñ ýòèì ñâîåíðàâíûì ðåá¸íêîì?;;x
+EVTDESC2220;My [GetFromRelation] [From.GetFirstName] makes sure everyone gets exactly the same amount of whatever sweets the cook gives the children.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] çàáîòèòñÿ î òîì, ÷òîáû êàæäûé ïîëó÷àë ðîâíî ñòîëüêî ñëàäîñòåé, ñêîëüêî ïîâàð äà¸ò äåòÿì.;;x
+EVTDESC2230;I fear my [GetFromRelation] [From.GetFirstName] is too cynical for [From.GetHerHis] age.;;;;;;;;;;;ß áîþñü, ÷òî ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] îáëàäàåò ÷ðåçìåðíîé öèíè÷íîñòüþ äëÿ ñâîåãî âîçðàñòà.;;x
+EVTDESC2465;I caught my young ward [From.GetTitledFirstName] torturing a rat behind the stables today...;;;;;;;;;;;Ñåãîäíÿ ÿ çàìåòèë[Root.GetEndA], êàê [From.GetTitledFirstName] ïûòàåò êðûñ, çà êîíþøíÿìè...;;x
+EVTDESC2490;We have children at the court that has no guardian handling their education. They run a risk of becoming spoiled brats.;;;;;;;;;;;Ó íàñ åñòü äåòè, ó êîòîðûõ íåò íàñòàâíèêà è êîòîðûå íå ïîëó÷àþò îáðàçîâàíèå. Îíè ðèñêóþò ñòàòü èñïîð÷åííûìè.;;x
+EVTOPTA2000;Heh, eat and be merry child!;;;;;;;;;;;Õåõ, åøü è áóäü ñ÷àñòëèâûì ðåá¸íêîì!;;x
+EVTOPTA2010;Temperance is a virtue!;;;;;;;;;;;Óìåðåííîñòü - ýòî äîáðîäåòåëü!;;x
+EVTOPTA2020;This is how children learn thrift!;;;;;;;;;;;Òàê äåòè ó÷àòñÿ áåðåæëèâîñòè.;;x
+EVTOPTA2030;[From.GetSubjectPronounCap] is turning out well!;;;;;;;;;;;[From.GetSubjectPronounCap] - ìîëîäåö!;;x
+EVTOPTA2040;[From.GetSubjectPronounCap] is just dense. What can I do?;;;;;;;;;;;[From.GetSubjectPronounCap] - ïðîñòî äðåìó÷åñòü. ×òî ÿ ìîãó ñäåëàòü?;;x
+EVTOPTA2050;[From.GetSubjectPronounCap] has a good mentor!;;;;;;;;;;;Ó í[From.GetAbsPossPronoun] õîðîøèé íàñòàâíèê!;;x
+EVTOPTA2060;The other children are just selfish;;;;;;;;;;;Äðóãèå äåòè ïðîñòî ýãîèñòè÷íû;;x
+EVTOPTA2070;Those who love get love in return!;;;;;;;;;;;Òîò, êòî ëþáèò, ïîëó÷àåò ëþáîâü â îòâåò!;;x
+EVTOPTA2080;The kid shows spirit!;;;;;;;;;;;Ðåá¸íîê ïðîÿâëÿåò íðàâ!;;x
+EVTOPTA2090;Good, I cannot abide recklessness;;;;;;;;;;;Õîðîøî, ÿ òåðïåòü íå ìîãó áåçðàññóäñòâî;;x
+EVTOPTA2100;No, [From.GetSheHe] has reason to be proud;;;;;;;;;;;Íåò, ó í[From.GetHersHis] åñòü ïðè÷èíà äëÿ ãîðäîñòè.;;x
+EVTOPTA2110;Quietly encourage [From.GetFirstName];;;;;;;;;;;Íåãëàñíî ïîîùðèòü [From.GetHersHis];;x
+EVTOPTA2120;Even I am impressed;;;;;;;;;;;Äàæå ÿ íàõîæóñü ïîä âïå÷àòëåíèåì;;x
+EVTOPTA2130;Such a bright little child!;;;;;;;;;;;Êàêîå çàìå÷àòåëüíîå äèòÿ!;;x
+EVTOPTA2140;But, my dear lady, you ARE fat!;;;;;;;;;;;Íî... ëåäè, Âû æå ÆÈÐÍÀß!;;x
+EVTOPTA2150;Spiders? I can't abide them either!;;;;;;;;;;;Ïàóêè? ß òîæå íå ìîãó èõ òåðïåòü!;;x
+EVTOPTA2160;That's my [From.GetLadLass]!;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetLadLass]!;;x
+EVTOPTA2170;The [From.GetLadLass] is just a bit shy;;;;;;;;;;;[From.GetLadLass] íåìíîãî çàñòåí÷èâ[From.GetEndA].;;x
+EVTOPTA2180;This child clearly has potential.;;;;;;;;;;;Ó ýòîãî ðåá¸íêà çàäàòêè ëèäåðà;;x
+EVTOPTA2190;That is only right;;;;;;;;;;;Òàê è äîëæíî áûòü;;x
+EVTOPTA2200;It suits [From.GetHerHis] position;;;;;;;;;;;×åëîâåêà óñòðàèâàåò åãî æèçíü;;x
+EVTOPTA2210;How about a pat on the head?;;;;;;;;;;;Ïîãëàäèòü ïî ãîëîâå.;;x
+EVTOPTA2220;I am proud of [From.GetObjectPronoun]!;;;;;;;;;;;ß ãîðæóñü ýòèì!;;x
+EVTOPTA2230;[From.GetSubjectPronounCap] is clear-sighted.;;;;;;;;;;;Ýòî çàâèäíàÿ ïðîíèöàòåëüíîñòü;;x
+EVTOPTA2465;Let the [From.GetLadLass] have [From.GetPossPronoun] fun!;;;;;;;;;;;Ïóñòü [From.GetLadLass] èãðàåò, ýòî [From.GetAbsPossPronoun] âåñåëèò!;;x
+EVTOPTA2490;I guess I have to take care of it myself then.;;;;;;;;;;;Òîãäà ÿ äóìàþ, ÷òî ìíå ëè÷íî íóæíî ïîçàáîòèòüñÿ îá ýòîì;;x
+EVTOPTB2000;Birch [From.GetHerHim]!;;;;;;;;;;;Âûïîðîòü [From.GetHersHis]!;;x
+EVTOPTB2010;Hold up [From.GetFirstName] as an example for the court!;;;;;;;;;;;[From.GetFirstName] - ïðèìåð äëÿ âñåãî äâîðà!;;x
+EVTOPTB2020;[From.GetSheHeCap] needs the birch!;;;;;;;;;;;Ðîçãè ýòî èñïðàâÿò.;;x
+EVTOPTB2030;Praise [From.GetHerHim] publicly!;;;;;;;;;;;Ïóáëè÷íî ïîõâàëèòü [From.GetHersHis]!;;x
+EVTOPTB2040;Beat [From.GetHerHim] into action!;;;;;;;;;;;Ïîäòîëêíèòå [From.GetHersHis] ê ðàáîòå!;;x
+EVTOPTB2050;Praise [From.GetObjectPronoun] in front of the court.;;;;;;;;;;;Ïîõâàëèòü [From.GetAbsPossPronoun] ïåðåä ïðèäâîðíûìè;;x
+EVTOPTB2060;Beat some respect into [From.GetHerHim]!;;;;;;;;;;;Âáèòü â í[From.GetHersHis] íåìíîãî óâàæåíèÿ!;;x
+EVTOPTB2070;Show everyone how virtuous [From.GetSubjectPronoun] is.;;;;;;;;;;;Ïîêàçàòü âñåì äîáðîäåòåëüíîñòü [From.GetAbsPossPronoun];;x
+EVTOPTB2080;Beat [From.GetHerHim] into being calm!;;;;;;;;;;;Äàòü [From.GetHerHim] ïîù¸÷èíó, ÷òîáû óãîìîíèòü!;;x
+EVTOPTB2090;Hold up [From.GetFirstName] as an example for the court!;;;;;;;;;;;[From.GetFirstName] - ïðèìåð äëÿ äâîðà!;;x
+EVTOPTB2100;That will be cured by the birch.;;;;;;;;;;;Ðîçãè âñ¸ âûëå÷àò.;;x
+EVTOPTB2110;Thank [Root.Religion.GetRandomGodName] for [From.GetFirstName]'s virtues!;;;;;;;;;;;Õâàëà Íåáåñàì!;;x
+EVTOPTB2120;With the birch, [From.GetSheHe] will speak the truth!;;;;;;;;;;;Ðîçãè çàñòàâÿò [From.GetHersHis] ñêàçàòü ïðàâäó!;;x
+EVTOPTB2130;I will not raise a zealot!;;;;;;;;;;;ß íå ñòàíó âçðàùèâàòü ôàíàòèêà!;;x
+EVTOPTB2140;Praise [From.GetHerHis] honesty to the court.;;;;;;;;;;;Âîñõâàëèì æå [From.GetHersHis] ÷åñòíîñòü!;;x
+EVTOPTB2150;Some fears are good, but there are limits;;;;;;;;;;;Íåêîòîðûå ñòðàõè ïîçâîëèòåëüíû, íî âñåìó åñòü ïðåäåë;;x
+EVTOPTB2160;Praise [From.GetHerHis] bravery to everyone!;;;;;;;;;;;Ïîõâàëèòü [From.GetHersHis] çà õðàáðîñòü!;;x
+EVTOPTB2170;Shyness can be cured by the birch!;;;;;;;;;;;Çàñòåí÷èâîñòü ìîæíî âûëå÷èòü ðîçãàìè!;;x
+EVTOPTB2180;Introduce [From.GetHerHim] to everyone at court!;;;;;;;;;;;Ïðåäñòàâèòü [From.GetHersHis] êàæäîìó ïðè äâîðå!;;x
+EVTOPTB2190;Ambition will not serve [From.GetObjectPronoun];;;;;;;;;;;Àìáèöèè íå áóäóò ñëóæèòü [From.GetObjectPronoun];;x
+EVTOPTB2200;That will not do!;;;;;;;;;;;Òàê íå ïîéä¸ò!;;x
+EVTOPTB2210;It's the strap for [From.GetObjectPronoun]!;;;;;;;;;;;Äàòü ðåìíÿ!;;x
+EVTOPTB2220;Time to explain how the world works;;;;;;;;;;;Âðåìÿ, ÷òîáû îáúÿñíèòü, êàê óñòðîåí ìèð;;x
+EVTOPTB2230;Nothing the strap won't cure!;;;;;;;;;;;Ðåìåíü âñ¸ èçëå÷èò!;;x
+EVTOPTB2465;With the birch, [From.GetSheHe] will learn better!;;;;;;;;;;;Ïîëó÷èâ ðîçîã, [From.GetSheHe] áóäåò ó÷èòüñÿ ëó÷øå!;;x
+EVTOPTB2490;It is not my concern...;;;;;;;;;;;Ýòî íå ìî¸ äåëî...;;x
+EVTOPTC2000;Talk to [From.GetHerHim] about moderation.;;;;;;;;;;;Ïîãîâîðèòü ñ ðåá¸íêîì î ñäåðæàííîñòè;;x
+EVTOPTC2010;Thank [Root.Religion.GetRandomGodName] for [From.GetFirstName]'s virtues!;;;;;;;;;;;Õâàëà Íåáåñàì!;;x
+EVTOPTC2020;[From.GetSheHeCap] needs a lecture on charity!;;;;;;;;;;;ß ðàññêàæó [From.GetHerHim] î ùåäðîñòè.;;x
+EVTOPTC2030;Thank [Root.Religion.GetRandomGodName] for [From.GetFirstName]'s virtues!;;;;;;;;;;;Ñïàñèáî òåáå, [Root.Religion.GetRandomGodName], çà òàêîãî ðåá¸íêà!;;x
+EVTOPTC2040;Talk to [From.GetHerHim] about being diligent;;;;;;;;;;;Ðàññêàçàòü [From.GetHerHim] î ïðèëåæíîñòè;;x
+EVTOPTC2050;Thank [Root.Religion.GetRandomGodName] for [From.GetFirstName]'s virtues!;;;;;;;;;;;Õâàëà Íåáåñàì!!;;x
+EVTOPTC2060;Talk to [From.GetHerHim] about kindness;;;;;;;;;;;Ðàññêàçàòü [From.GetHerHim] î äîáðîòå.;;x
+EVTOPTC2070;Thank [Root.Religion.GetRandomGodName] for [From.GetFirstName]'s virtues!;;;;;;;;;;;Õâàëà Íåáåñàì!;;x
+EVTOPTC2080;Encourage [From.GetHerHim] to be more patient;;;;;;;;;;;Ïðèçîâèòå [From.GetAbsPossPronoun] íàáðàòüñÿ òåðïåíèÿ;;x
+EVTOPTC2090;Thank [Root.Religion.GetRandomGodName] for [From.GetFirstName]'s virtues!;;;;;;;;;;;Õâàëà Íåáåñàì!;;x
+EVTOPTC2100;Tell [From.GetHerHim], 'Pride goeth before fall';;;;;;;;;;;"Ñêàçàòü [From.GetHerHim], ÷òî ""ãîðäîñòü ïðåäøåñòâóåò ïîãèáåëè.""";;x
+EVTOPTC2110;That's no way to get ahead!;;;;;;;;;;;Â ýòîì íåò âîçìîæíîñòåé äâèãàòüñÿ âïåð¸ä;;x
+EVTOPTC2120;Talk to [From.GetHerHim] about honesty;;;;;;;;;;;Ðàññêàçàòü [From.GetHerHim] î ÷åñòíîñòè;;x
+EVTOPTC2140;Tell [From.GetFirstName] that honesty has its bounds...;;;;;;;;;;;Ñêàçàòü [From.GetHerHim], ÷òî ÷åñòíîñòü èìååò ñâîè ãðàíèöû...;;x
+EVTOPTC2150;Fear is the mind killer;;;;;;;;;;;Ñòðàõ - âðàã çäðàâîãî óìà;;x
+EVTOPTC2160;Caution must temper courage;;;;;;;;;;;Îñòîðîæíîñòü íå óìàëÿåò ìóæåñòâà;;x
+EVTOPTC2170;Shyness is a terrible curse, I'll talk with [From.GetHerHim].;;;;;;;;;;;Çàñòåí÷èâîñòü - ñòðàøíûé ãðåõ. ß ðàññêàæó [From.GetHerHim] îá ýòîì;;x
+EVTOPTC2180;Thank [Root.Religion.GetRandomGodName] that [From.GetSubjectPronoun] isn't shy!;;;;;;;;;;;Ñïàñèáî, [Root.Religion.GetRandomGodName], çà òî, ÷òî [From.GetSubjectPronoun] íå ñòåñíÿåòñÿ!;;x
+EVTOPTC2465;Talk to [From.GetHerHim] about kindness;;;;;;;;;;;Ïîãîâîðèòü ñ ðåá¸íêîì î äîáðîòå;;x
+EVTOPTD2000;Pray [Root.Religion.GetRandomGodName] will save [From.GetHerHim]!;;;;;;;;;;;Ìîëèòåñü, ÷òîáû [Root.Religion.GetRandomGodName] ñïàñ [From.GetHersHis]!;;x
+EVTOPTD2010;[From.GetSubjectPronounCap] must learn to enjoy life!;;;;;;;;;;;[From.GetObjectPronounCap] íóæíî íàó÷èòüñÿ íàñëàæäàòüñÿ æèçíüþ!;;x
+EVTOPTD2020;[Root.Religion.GetRandomGodNameCap] will save [From.GetHerHim] from Hell!!!;;;;;;;;;;;[Root.Religion.GetHighGodNameCap] ïîìîæåò [From.GetHerHim] èçáåæàòü àäà!;;x
+EVTOPTD2030;Charity is for naive weaklings!;;;;;;;;;;;Áëàãîòâîðèòåëüíîñòü - äëÿ íàèâíûõ ñëàáàêîâ!;;x
+EVTOPTD2040;Pray for [From.GetHerHis] soul!;;;;;;;;;;;Ìîëèòåñü çà [From.GetHersHis] äóøó!;;x
+EVTOPTD2050;The child needs to lighten up!;;;;;;;;;;;Ðåá¸íêó ñëåäóåò ïðîñâåùàòüñÿ!;;x
+EVTOPTD2060;Envy is the deadliest of sins!;;;;;;;;;;;Çàâèñòü - ñàìûé ñòðàøíûé ãðåõ!;;x
+EVTOPTD2070;Tender soul? I'll give [From.GetObjectPronoun] a tender back!;;;;;;;;;;;Íåæíàÿ äóøà? ß ïîêàæó [From.GetObjectPronoun] ÷åì îáîðà÷èâàåòñÿ òàêàÿ íåæíîñòü!;;x
+EVTOPTD2080;Pray for [From.GetHerHis] soul!;;;;;;;;;;;Ìîëèòåñü çà [From.GetHersHis] äóøó!;;x
+EVTOPTD2090;I'll bring out the fire in [From.GetObjectPronoun]!;;;;;;;;;;;ß îòêðîþ äëÿ ñåáÿ òâ¸ðäîñòü [From.GetAbsPossPronoun] õàðàêòåðà!;;x
+EVTOPTD2100;[Root.Religion.GetRandomGodNameCap] will cure [From.GetHerHim] of [From.GetHerHis] sin!;;;;;;;;;;;[Root.Religion.GetHighGodNameCap] ïðîñòèò [From.GetHerHim] ãðåõè [From.GetHersHis]!;;x
+EVTOPTD2120;Pray that [Root.Religion.GetRandomGodName] will show [From.GetHerHim] the light;;;;;;;;;;;Ìîëèòåñü, ÷òîáû [Root.Religion.GetRandomGodName] ïðèâ¸ë [From.GetHersHis] ê ñâåòó;;x
+EVTOPTD2140;Punish [From.GetHerHim] for [From.GetHerHis] insults.;;;;;;;;;;;Íàêàçàòü [From.GetHersHis] çà îñêîðáëåíèå;;x
+EVTOPTD2170;Pray that [Root.Religion.GetRandomGodName] will provide strength;;;;;;;;;;;Ìîëèòåñü, ÷òîáû [Root.Religion.GetRandomGodName] äàë ñèë;;x
+EVTOPTD2180;The child is annoying!;;;;;;;;;;;Ðåá¸íîê ðàçäðàæàåò!;;x
+EVTOPTD2465;Pray for [From.GetHerHis] soul!;;;;;;;;;;;Ìîëèòåñü çà [From.GetHersHis] äóøó!;;x
+EVTDESC38100;I woke up last night in a cold sweat, heart pounding with fear at the realization I must someday die...;;;;;;;;;;;ß ïðîñíóëñÿ ïðîøëîé íî÷üþ â õîëîäíîì ïîòó, ìî¸ ñåðäöå áåøåíî êîëîòèëîñü ïðè ìûñëè, ÷òî ÿ êîãäà-íèáóäü óìðó…;;x
+EVTDESC38101;[From.GetFirstName], my young [GetFromRelation], wants to know what it is all about. Why are we here on this Earth?;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] õî÷åò çíàòü, çà÷åì âñ¸ ýòî. Çà÷åì ìû íà ýòîé Çåìëå?;;x
+EVTDESC38102;My [GetFromRelation] has answered all my existential questions.;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] îòâåòèë[From.GetEndA] íà âñå ìîè ýêçèñòåíöèàëüíûå âîïðîñû.;;x
+EVTDESC38110;I find myself speaking and acting more and more like my guardian.;;;;;;;;;;;ß âñå áîëüøå ëîâëþ ñåáÿ íà ìûñëè, ÷òî ãîâîðþ è äåéñòâóþ, êàê ì[Root.Guardian.GetOyaOy] íàñòàâíè[Root.Guardian.GetTsaK].;;x
+EVTDESC38111;I have taught my young [GetFromRelation] well. [From.GetFirstName] is starting to act properly [Root.Culture.GetName]!;;;;;;;;;;;ß - õîðîøèé ó÷èòåëü. [From.GetFirstName] òåïåðü ñ÷èòàåò ñåáÿ ÷àñòüþ [Root.GetCultureAdj]îé êóëüòóðû.;;x
+EVTDESC38200;[From.GetFirstName] is slow to learn to talk.;;;;;;;;;;;[From.GetFirstName] íå ñïåøèò ó÷èòüñÿ ðàçãîâàðèâàòü.;;x
+EVTDESC38201;[From.GetFirstName] asks, 'Daddy, where do children come from?';;;;;;;;;;;"[From.GetFirstName] ñïðàøèâàåò: ""[Root.GetMomDadCap]à, à îòêóäà áåðóòñÿ äåòè?""";;x
+EVTDESC38202;[From.GetFirstName] is afraid of the dark.;;;;;;;;;;;[From.GetFirstName] áîèòñÿ òåìíîòû.;;x
+EVTDESC38203;[From.GetFirstName] is often involved in fights with other toddlers;;;;;;;;;;;[From.GetFirstName] ÷àñòî ââÿçûâàåòñÿ â äðàêè ñ äðóãèìè ìàëûøàìè.;;x
+EVTDESC38204;[From.GetFirstName] is not satisfied, and keeps asking for more toys to play with.;;;;;;;;;;;[From.GetFirstName] - íåäîâîëüíûé ðåá¸íîê. Ïðîäîëæàåò òðåáîâàòü âñ¸ íîâûå è íîâûå èãðóøêè.;;x
+EVTDESC38205;[From.GetFirstName] asks, 'Daddy, Where is Mom?';;;;;;;;;;;"[From.GetFirstName] ñïðàøèâàåò: ""Ïàïà, à ãäå ìàìà?"".";;x
+EVTDESC38206;[From.GetFirstName] has trouble making friends;;;;;;;;;;;[From.GetFirstName] íå óìååò çàâîäèòü äðóçåé.;;x
+EVTDESC38207;[From.GetFirstName] wants to play with friends instead of studying.;;;;;;;;;;;[From.GetFirstName] âìåñòî òîãî, ÷òîáû äåëàòü óðîêè, õî÷åò èãðàòü ñ äðóçüÿìè.;;x
+EVTDESC38208;[From.GetFirstName] asks, 'Where do heathens come from?';;;;;;;;;;;"[From.GetFirstName] ñïðàøèâàåò: ""Îòêóäà áåðóòñÿ ÿçû÷íèêè?"".";;x
+EVTDESC38209;[From.GetFirstName] is often playing very daring games with other children;;;;;;;;;;;[From.GetFirstName] ÷àñòî èãðàåò â îïàñíûå èãðû ñ äðóãèìè.;;x
+EVTDESC38210;[From.GetFirstName] asks, 'Does [Root.Religion.GetRandomGodName] exist?';;;;;;;;;;;"[From.GetFirstName] ñïðàøèâàåò: ""Ñóùåñòâóåò ëè [Root.Religion.GetRandomGodName]?"".";;x
+EVTDESC38211;[From.GetFirstName] asks, 'Why do people die?';;;;;;;;;;;"[From.GetFirstName] ñïðàøèâàåò: ""Ïî÷åìó ëþäè óìèðàþò?"".";;x
+EVTDESC38212;[From.GetFirstName] asks, 'Will I rule one day?';;;;;;;;;;;"[From.GetFirstName] ñïðàøèâàåò: ""Áóäó ëè ÿ êîãäà-íèáóäü ïðàâèòü?"".";;x
+EVTDESC38213;[From.GetFirstName] has developed a habit for wild parties.;;;;;;;;;;;[From.GetFirstName] òåïåðü ëþáèò äèêèå âå÷åðèíêè.;;x
+EVTDESC38214;[From.GetFirstName] asks 'If we're [catholic.GetName] and our enemies are [catholic.GetName], why are we fighting?';;;;;;;;;;;"[From.GetFirstName] ñïðàøèâàåò: ""Åñëè ìû - [This.GetCatholicPlural] è îíè - [This.GetCatholicPlural], ïî÷åìó ìû ñðàæàåìñÿ?"".";;x
+EVTDESC38215;[From.GetFirstName] asks 'Why is the church so rich when the peasants are starving and poor?';;;;;;;;;;;"[From.GetFirstName] ñïðàøèâàåò: ""Ïî÷åìó öåðêîâü òàê áîãàòà, êîãäà áåäíûå êðåñòüÿíå òàê ãîëîäàþò?"".";;x
+EVTDESC38216;[From.GetFirstName] asks 'Why did you let off that peasant accused from poaching?';;;;;;;;;;;"[From.GetFirstName] ñïðàøèâàåò: ""Ïî÷åìó îòïóñòèëè êðåñòüÿíèíà, îáâèíåííîãî â áðàêîíüåðñòâå?"".";;x
+EVTDESC38217;[From.GetFirstName] says 'These peasants we have are all mine to command like little slaves, right?';;;;;;;;;;;"[From.GetFirstName] ñïðàøèâàåò: ""Ýòèìè íàøèìè êðåñòüÿíàìè íàäî óïðàâëÿòü êàê ìåëêèìè ðàáàìè, òàê?"".";;x
+EVTDESC38218;[From.GetFirstName] asks 'If a tree falls in the woods and there's nobody there to hear it, does it make a noise?';;;;;;;;;;;"[From.GetFirstName] ñïðàøèâàåò: ""Åñëè äåðåâî ïàäàåò â ëåñó è íèêòî ýòîãî íå ñëûøèò, øóìèò ëè îíî ïðè ýòîì?"".";;x
+EVTDESC38219;[From.GetFirstName] asks 'Since we all die anyway, why to be so hassled about life?';;;;;;;;;;;"[From.GetFirstName] ñïðàøèâàåò: ""Åñëè ìû âñ¸ ðàâíî âñå óìð¸ì, òîãäà çà÷åì òàê áåñïîêîèòñÿ î ñâîåé æèçíè?"".";;x
+EVTDESC38220;[From.GetFirstName] asks 'How can I best serve the [Root.Religion.GetName] faith?';;;;;;;;;;;"[From.GetFirstName] ñïðàøèâàåò: ""Êàê ëó÷øå âñåãî ïîääåðæàòü [Root.GetReligionFullName]?""";;x
+EVTDESC38221;[From.GetFullName] was supposed to work on her embroidery but she clearly fancied another kind of Pin. Her swordsmanship was not too bad, for a girl.;;;;;;;;;;;[From.GetFullName] äîëæíà áûëà ðàáîòàòü íàä ñâîåé âûøèâêîé, íî ïîòîì ðåøèëà ïîêàçàòü äðóãóþ ñòîðîíó ñâîèõ ñïîñîáíîñòåé. Å¸ ôåõòîâàíèå áûëî íå òàê óæ ïëîõî, äëÿ äåâóøêè.;;x
+EVTDESC38222;The ones who ridicule [From.GetFirstName] for [From.GetHerHis] weaknesses are getting more and more scornful. Their escalating ridicule has made [From.GetFirstName] unable to ignore it anymore, [From.GetSheHe] begged me to help [From.GetHerHim].;;;;;;;;;;;[From.GetFirstName] ñòàíîâèòñÿ îáúåêòîì âñ¸ áîëåå ïðåçðèòåëüíûõ íàñìåøåê. Ðàñòóùèå íàñìåøêè áîëüøå íå ïîçâîëÿþò [From.GetHerHim] èãíîðèðîâàòü èõ äàëüøå è òåïåðü [From.GetHerHim] òðåáóåòñÿ ìîÿ ïîìîùü.;;x
+EVTDESC38223;My heart missed a beat when I saw [From.GetFirstName] emerge from the dungeons, covered in grime and with a bloody knife in [From.GetHerHis] hand.;;;;;;;;;;;Ìî¸ ñåðäöå çàìåðëî, êîãäà ìíå äîâåëîñü óâèäåòü, êàê [From.GetFirstName] âûõîäèò èç ïîäçåìåëüÿ. Îäåæäà ïîêðûòà ãðÿçüþ, à â ðóêå îêðîâàâëåííûé íîæ...;;x
+EVTDESC38224;I knew exactly where I would find [From.GetFirstName] when [From.GetSheHe] did not show up for practice, in the library in [From.GetHerHis] favorite chair and with the biggest book [From.GetSheHe] could find.;;;;;;;;;;;Êîãäà [From.GetFirstName] äîëãîå âðåìÿ îòñóòñòâóåò, ÿ òî÷íî çíàþ, ãäå ìîæíî [From.GetHersHis] íàéòè. [From.GetSheHe] â áèáëèîòåêå, â ñâî¸ì ëþáèìîì êðåñëå è ñ ñàìîé áîëüøîé êíèãîé, êàêàÿ òîëüêî åñòü.;;x
+EVTDESC38225;If you would compare the fairest courtier and [From.GetFirstName], then the courtier would a beautiful swan and [From.GetFirstName] a ugly toad.;;;;;;;;;;;"[From.GetFirstName] âûãëÿäèò êàê ""óðîäëèâàÿ æàáà"". Ëþáîé ïðèäâîðíûé ïî ñðàâíåíèþ ñ íèì-ýòî ïðåêðàñíûé ëåáåäü.";;x
+EVTDESC38226;[From.GetFirstName]'s hair, fair skin and beautiful big eyes will make life easier for [From.GetHerHim] than if [From.GetSheHe] had been ugly.;;;;;;;;;;;[From.GetFirstName] ìîæåò ïîõâàñòàòüñÿ ïðåêðàñíûìè âîëîñàìè, ÷èñòîé êîæåé è êðàñèâûìè áîëüøèìè ãëàçàìè. Âîçìîæíî, åñëè ñòàòü óðîäëèâåé, æèçíü ñòàíåò íàìíîãî ïðîùå.;;x
+EVTDESC38227;[From.GetFirstName] is always counting money and makes sure [From.GetSheHe] get the most out of it. [From.GetSheHeCap] haggled with a merchant over some sweetmeats until the merchant laughed with frustration and handed over the sweetmeats for a lot less than he had asked for.;;;;;;;;;;;[From.GetFirstName] âñåãäà ñ÷èòàåò ñâîè äåíüãè è õî÷åò ïîëó÷àòü ìàêñèìàëüíóþ âûãîäó îò íèõ. [From.GetSheHeCap] áóäåò òîðãîâàòüñÿ ñ ïðîäàâöîì ñëàäîñòåé, ïîêà òîò îò ðàçî÷àðîâàíèÿ íå çàñìååòñÿ è íå ïðîäàñò ñëàäîñòè íàìíîãî äåøåâëå ÷åì ïðîñèë.;;x
+EVTDESC38228;[From.GetFirstName] was curious about the visitors but was polite enough to wait until the chamberlain had escorted them to their rooms before [From.GetSheHe] started asking thousands of questions about them, where they came from, why they looked so different and who they were.;;;;;;;;;;;[From.GetFirstName] î÷åíü õî÷åò âñòðåòèòü ïîñåòèòåëåé, íî âåæëèâîñòü çàñòàâëÿåò æäàòü, ïîêà êàìåðãåð ïðîâîäèò èõ â ñâîè êîìíàòû. À ïîòîì óæå ìîæíî íà÷èíàòü çàäàâàòü èì òûñÿ÷è âîïðîñîâ: îòêóäà îíè ïðèøëè, ïî÷åìó îíè âûãëÿäÿò íàñòîëüêî ðàçíûìè è êòî îíè âîîáùå.;;x
+EVTDESC38229;If [From.GetFirstName] is nowhere to be seen, you can always find [From.GetHerHim] in the courtyard, playing with [From.GetHerHis] swords and practising [From.GetHerHis] swordfighting with older men.;;;;;;;;;;;Åñëè [From.GetFirstName] äîëãîå âðåìÿ íèãäå íå ïîÿâëÿåòñÿ, [From.GetHersHis] âñåãäà ìîæíî íàéòè âî äâîðå ñ ìå÷îì, ïðàêòèêóÿ ñâîé áîé íà ìå÷àõ ñî âçðîñëûìè ìóæ÷èíàìè.;;x
+EVTDESC38230;I opened the stable door a bit quick and accidently stumbled in on [From.GetFirstName] getting [From.GetHerHis] first kiss! I suddenly realized [From.GetFirstName] is becoming a [From.GetManWoman].;;;;;;;;;;;Âîðîòà êîíþøíè îòêðûëèñü ñëèøêîì áûñòðî, è ìíå ïðèøëîñü óâèäåòü, êàê [From.GetFirstName] äåëàåò ñâîé ïåðâûé ïîöåëóé! Òóò ìíå âñ¸ ñòàëî ïîíÿòíî, [From.GetFirstName] óæå [From.GetManWoman]à.;;x
+EVTDESC38231;The kitchen is truly a wonderful place, filled with delicious things and smells, but it worries me that [From.GetFirstName] spends all [From.GetHerHis] time here, when [From.GetSheHe] should be practicing swordfighting and learning how to rule.;;;;;;;;;;;Êóõíÿ ïî-íàñòîÿùåìó ïðåêðàñíîå ìåñòî, íàïîëíåííîå âêóñíûìè âåùàìè è çàïàõàìè, íî ìåíÿ áåñïîêîèò, ÷òî [From.GetFirstName] ïðîâîäèò âñ¸ ñâî¸ âðåìÿ çäåñü, êîãäà [From.GetHerHim] ñëåäóåò ïðàêòèêîâàòüñÿ ñ ìå÷îì è ó÷èòüñÿ óïðàâëÿòü ñâîèìè çåìëÿìè.;;x
+EVTDESC38232;I was... inspecting the damage to the highest tower in [From.Location.GetName] when the head of [From.GetFirstName] appeared outside the window, fifty metres above ground. What should I do with this curious child?;;;;;;;;;;;Ìíîþ ïðîâîäèëñÿ îñìîòð ïîâðåæäåíèé ñàìîé âûñîêîé áàøíè â îêðóãå [From.Location.GetName], êîãäà íà âûñîòå ïÿòèäåñÿòè ìåòðîâ èç îêíà ïîÿâèëàñü ÷üÿ-òî ãîëîâà. Íåóæåëè ýòî [From.GetFirstName]? ×òî ìíå äåëàòü ñ ýòèì ëþáîïûòíûì ðåá¸íêîì?;;x
+EVTDESC38233;[From.GetFirstName]'s fever has risen and [From.GetSheHe] complains about a headache. I worry about [From.GetHerHim] but there's not much I can do.;;;;;;;;;;;[From.GetFirstName] ñòðàäàåò îò áîëüøîé òåìïåðàòóðû è æàëóåòñÿ íà ãîëîâíóþ áîëü. ß âîëíóþñü î [From.GetHersHis] çäîðîâüå, íî íå òàê óæ ìíîãî ÿ ìîãó ñäåëàòü.;;x
+EVTDESC38234;Every time [From.GetFirstName] looks at that [From.GetManWoman], I get a sinking feeling in my stomach. [From.GetSheHeCap] might be attracted to persons of the same sex as [From.GetSheHe]!;;;;;;;;;;;[From.GetFirstName] âñ¸ âðåìÿ çàñìàòðèâàåòñÿ íà ëþäåé ñâîåãî æå ïîëà. Ìåíÿ ýòî ðàññòðàèâàåò. Âîçìîæíî [From.GetHersHis] ïðèâëåêàþò ëþäè òîãî æå ïîëà, ÷òî è [From.GetSheHe]!;;x
+EVTDESC38235;The twists and turns of [From.GetFirstName]'s tongue and the white lies [From.GetSheHe] uses to make friends is making my head spin. How can such a young [From.GetLadLass] be able to lie so well?;;;;;;;;;;;[From.GetFirstName] èñïîëüçóåò èñêóñíóþ ëîæü è êðàñèâóþ ëåñòü ÷òîá çàâîäèòü íîâûõ äðóçåé. Ó ìåíÿ ýòî âûçûâàåò òðåâîãó. Êàê ìîæåò [From.GetLadLass] ëãàòü òàê õîðîøî â òàêîì ìîëîäîì âîçðàñòå?;;x
+EVTOPTA38100;Ask my guardian about [Root.Guardian.Religion.GetRandomGodName].;;;;;;;;;;;Ñïðîñèòü ñâîåãî íàñòàâíèêà î äóõîâíîì;;x
+EVTOPTA38101;Make [From.GetObjectPronoun] a proper [Root.Religion.GetName] [Root.Religion.GetGroupName];;;;;;;;;;;Ïîçíàêîìèòü [From.GetAbsPossPronoun] ñ ñâîåé âåðîé.;;x
+EVTOPTA38102;The [From.Religion.GetName] Faith gives me peace of mind;;;;;;;;;;;[From.GetReligionFullName] äà¸ò ìîåé äóøå ñïîêîéñòâèå;;x
+EVTOPTA38110;I suppose I am getting cultured.;;;;;;;;;;;ß ÷óâñòâóþ, ÷òî ñòàíîâëþñü îáðàçîâàííåå.;;x
+EVTOPTA38111;What a bright child!;;;;;;;;;;;Êàêîé óìíûé ðåá¸íîê!;;x
+EVTOPTA38200;Encourage [From.GetFirstName] by example;;;;;;;;;;;Ïîïðîáîâàòü îáó÷èòü;;x
+EVTOPTA38201;Daddy will tell you when you get older;;;;;;;;;;;ß ðàññêàæó òåáå, êîãäà òû ïîäðàñò¸øü.;;x
+EVTOPTA38202;Ridicule [From.GetHerHim], that should do it;;;;;;;;;;;Íàñìåõàòüñÿ ïîêà ñòðàõ íå áóäåò ïðåîäîë¸í;;x
+EVTOPTA38203;That's good news;;;;;;;;;;;Ýòî õîðîøàÿ íîâîñòü;;x
+EVTOPTA38204;Let [From.GetHerHim] have them.;;;;;;;;;;;Äàéòå [From.GetHerHim] èõ;;x
+EVTOPTA38205;Mom is an angel now;;;;;;;;;;;Ìàìà ñòàëà àíãåëîì;;x
+EVTOPTA38206;Friends are an overvalued commodity anyway;;;;;;;;;;;Öåííîñòü äðóæáû ñëèøêîì ïåðåîöåíèâàþò;;x
+EVTOPTA38207;You can play only after school.;;;;;;;;;;;Èãðàòü ìîæíî òîëüêî ïîñëå ó÷¸áû!;;x
+EVTOPTA38208;Heathens are people just like us;;;;;;;;;;;ßçû÷íèêè-òàêèå æå ëþäè, êàê è ìû;;x
+EVTOPTA38209;Let [From.GetHerHim] play, what harm could there be? ;;;;;;;;;;;Ïóñòü èãðàåò, êàêîé îò ýòîãî âðåä?;;x
+EVTOPTA38210;Of course my child, go to play now;;;;;;;;;;;Êîíå÷íî, äèòÿ ìî¸. Èäè èãðàéñÿ;;x
+EVTOPTA38211;Because they are too carefree;;;;;;;;;;;Ïîòîìó ÷òî îíè ñëèøêîì áåççàáîòíû;;x
+EVTOPTA38212;Of course you will...;;;;;;;;;;;Êîíå÷íî, áóäåøü...;;x
+EVTOPTA38213;There is nothing I can do;;;;;;;;;;;Ñ ýòèì íè÷åãî óæå íå ïîäåëàåøü;;x
+EVTOPTA38214;Fighting heathens is just silly church thing;;;;;;;;;;;Áîðüáà ñ åðåñüþ - ãëóïàÿ âûäóìêà öåðêâè;;x
+EVTOPTA38215;Because for the poor is the kingdom of heaven;;;;;;;;;;;Ïîòîìó ÷òî öàðñòâèå äëÿ áåäíÿêîâ áóäåò òîëüêî íà íåáåñàõ;;x
+EVTOPTA38216;Because he needed the deer more than me;;;;;;;;;;;Ïîòîìó ÷òî â ýòîì îëåíå îí íóæäàåòñÿ áîëüøå, ÷åì ÿ.;;x
+EVTOPTA38217;That's right child;;;;;;;;;;;Óñòàìè ìëàäåíöà...;;x
+EVTOPTA38218;Good question, you should ponder it on your own;;;;;;;;;;;Õîðîøèé âîïðîñ, íî òåáå íóæíî äîäóìàòüñÿ ñàìîñòîÿòåëüíî;;x
+EVTOPTA38219;I suppose you are right...;;;;;;;;;;;ß äóìàþ, Âû ïðàâû...;;x
+EVTOPTA38220;Be brave against our enemies!;;;;;;;;;;;Áûòü õðàáðûì â áîþ ñ âðàãîì.;;x
+EVTOPTA38221;There's no harm letting her learn how to use a sword;;;;;;;;;;;Íåò âðåäà â òîì, ÷òîá ïîçâîëèòü åé óçíàòü, êàê îáðàùàòüñÿ ñ ìå÷îì;;x
+EVTOPTA38222;I shall show [From.GetFirstName] how to fight myself;;;;;;;;;;;Ïóñòü [From.GetFirstName] íàó÷èòñÿ ïîñòîÿòü çà ñåáÿ;;x
+EVTOPTA38223;I'll teach [From.GetFirstName] some useful skills;;;;;;;;;;;[From.GetFirstName], ÿ íàó÷ó òåáÿ íåêîòîðûì ïîëåçíûì íàâûêàì.;;x
+EVTOPTA38224;You should take pride in your learning;;;;;;;;;;;Âû ìîæåòå ãîðäèòüñÿ ñâîèìè ïîçíàíèÿìè;;x
+EVTOPTA38225;[From.GetFirstName], you can never be as good looking;;;;;;;;;;;[From.GetFirstName], òû íèêîãäà íå ñìîæåøü âûãëÿäåòü êðàñèâî;;x
+EVTOPTA38226;I should encourage [From.GetFirstName] to flaunt [From.GetHerHis] beauty;;;;;;;;;;;[From.GetFirstName] ùåãîëÿåò ñâîåé êðàñîòîé è ìíå ñëåäóåò ýòî ïîîùðÿòü;;x
+EVTOPTA38227;I'll teach [From.GetFirstName] about the joys of money;;;;;;;;;;;[From.GetSheHeCap] íàó÷èòñÿ ðàäîâàòüñÿ äåíüãàì;;x
+EVTOPTA38228;Wait until the banquet, then I will introduce you to them;;;;;;;;;;;Ïîäîæäè äî ïèðà, è ÿ ïîçíàêîìëþ òåáÿ ñ íèìè;;x
+EVTOPTA38229;This will turn [From.GetFirstName] into a great knight!;;;;;;;;;;;[From.GetFirstName] äåëàåò øàãè íà ïóòè ê âåëèêîìó ðûöàðþ!;;x
+EVTOPTA38230;Before anything happens, I should teach [From.GetHerHim] about courtly love;;;;;;;;;;;Ïðåæäå ÷åì ÷òî-íèáóäü ñëó÷èòñÿ, ìíå ñëåäóåò íàó÷èòü [From.GetHersHis] êóðòóàçíîé ëþáâè;;x
+EVTOPTA38231;Force [From.GetFirstName] to learn how to fight;;;;;;;;;;;[From.GetFirstName] íà÷í¸ò èçó÷àòü íàâûêè áîÿ;;x
+EVTOPTA38232;Curiosity has never killed anyone;;;;;;;;;;;Ëþáîïûòñòâî åù¸ íèêîãî íå óáèâàëî;;x
+EVTOPTA38233;This is a sign of sin, make the child fast to atone for its sins!;;;;;;;;;;;Ýòî ïðîÿâëåíèå ãðåõà, ÷òîáû ðåá¸íîê ìîã áûñòðî èñêóïèòü ñâîè ãðåõè!;;x
+EVTOPTA38234;Make [From.GetFirstName] fast to atone for its sins;;;;;;;;;;;Çàñòàâèòü [From.GetHersHis] èñêóïèòü ñâîè ãðåõè;;x
+EVTOPTA38235;No matter, the goal justifies the means;;;;;;;;;;;Íå âàæíî, öåëü îïðàâäûâàåò ñðåäñòâà;;x
+EVTOPTB38100;Go play with my friends;;;;;;;;;;;Ïîéòè ïîèãðàòü ñ äðóçüÿìè;;x
+EVTOPTB38101;Let [From.GetObjectPronoun] sort it out on [From.GetPossPronoun] own...;;;;;;;;;;;Ïîçâîëüòå [From.GetObjectPronoun] ñàìîñòîÿòåëüíî ðàçîáðàòüñÿ â âîïðîñàõ âåðû...;;x
+EVTOPTB38200;Birch the words from [From.GetFirstName];;;;;;;;;;;Âûáèòü ñëîâà ðîçãàìè;;x
+EVTOPTB38201;You know there are bees and flowers...;;;;;;;;;;;Íó-ó... åñòü ï÷åëû è öâåòû...;;x
+EVTOPTB38202;Try to address the causes of the fear;;;;;;;;;;;Ïîïûòàòüñÿ îïðåäåëèòü ïðè÷èíó ñòðàõà;;x
+EVTOPTB38203;Try to steer [From.GetHerHis] energy elsewhere;;;;;;;;;;;Ïîñòàðàòüñÿ íàïðàâèòü [From.GetHersHis] ýíåðãèþ â äðóãîå ðóñëî;;x
+EVTOPTB38204;Encourage [From.GetHerHim] to play outside instead.;;;;;;;;;;;Óáåäèòå [From.GetHersHis] âìåñòî ýòîãî ïîèãðàòü íà ïðèðîäå;;x
+EVTOPTB38205;Mom has gone on a long journey;;;;;;;;;;;Ìàìà îòïðàâèëàñü â äîëãîå ïóòåøåñòâèå;;x
+EVTOPTB38206;Help [From.GetHerHim] along;;;;;;;;;;;Ïîìîãèòå [From.GetHerHim] ñ ýòèì;;x
+EVTOPTB38207;Play all you like then...;;;;;;;;;;;Ðàç òàê… ïóñòü èãðàåò âî ÷òî õî÷åò;;x
+EVTOPTB38208;They are demons from Hell!;;;;;;;;;;;Ýòî äåìîíû èç Ïåêëà!;;x
+EVTOPTB38209;Try to limit [From.GetHerHis] games a bit;;;;;;;;;;;Ïîñòàðàéòåñü íåìíîãî îãðàíè÷èòü [From.GetHersHis] îò òàêèõ èãð;;x
+EVTOPTB38210;Certainly [From.GetFirstName], let me tell you about matters of Faith...;;;;;;;;;;;Êîíå÷íî äà, [From.GetFirstName], äàâàé ÿ ðàññêàæó òåáå î òîíêîñòÿõ âåðû;;x
+EVTOPTB38211;Everyone dies, sooner or later;;;;;;;;;;;Âñå ðàíî èëè ïîçäíî óìèðàþò;;x
+EVTOPTB38212;If you deserve it, you shall.;;;;;;;;;;;Åñëè òû áóäåøü ýòîãî çàñëóæèâàòü...;;x
+EVTOPTB38213;Curfews!;;;;;;;;;;;Äîìàøíèé àðåñò!;;x
+EVTOPTB38214;I fight who I like!;;;;;;;;;;;Áüåò - çíà÷èò ëþáèò;;x
+EVTOPTB38215;How about sharing of your own then?;;;;;;;;;;;À êàê íàñ÷¸ò òîãî, ÷òîáû ñàìîìó ïîäåëèòüñÿ?;;x
+EVTOPTB38216; A good deed in a day keeps man happy;;;;;;;;;;;Ñîâåðøàÿ âðåìÿ îò âðåìåíè áëàãîäåÿíèÿ ñòàíîâèøüñÿ ñ÷àñòëèâåå.;;x
+EVTOPTB38217;That's it, you're under curfew!;;;;;;;;;;;Âîò è íàñòàëî âðåìÿ ïîñàäèòü òåáÿ ïîä äîìàøíèé àðåñò;;x
+EVTOPTB38218;You should concentrate on something useful instead;;;;;;;;;;;Òåáå ñëåäóåò ïîäóìàòü î ÷åì-íèáóäü áîëåå ïîëåçíîì;;x
+EVTOPTB38219;But what about the enjoyment?;;;;;;;;;;;À êàê æå óäîâîëüñòâèå?;;x
+EVTOPTB38220;Be just to all its children;;;;;;;;;;;Áûòü ñïðàâåäëèâûì êî âñåì.;;x
+EVTOPTB38221;This is not seemly for a woman;;;;;;;;;;;Ýòî íåïðèëè÷íî äëÿ äàìû;;x
+EVTOPTB38222;I will speak up for the child and stop the ridicule;;;;;;;;;;;ß ïîãîâîðþ ñ äåòüìè è ïðåêðàùó íàñìåøêè;;x
+EVTOPTB38223;What have you done?;;;;;;;;;;;×òî ñëó÷èëîñü?!;;x
+EVTOPTB38224;Aren't you a real bookworm? Soon you'll eat the books as well!;;;;;;;;;;;Òû íå ëþáèøü êíèãè? Ñêîðî òû èõ î÷åíü ïîëþáèøü!;;x
+EVTOPTB38225;You look fine to me;;;;;;;;;;;Äëÿ ìåíÿ òû âñåãäà ïðåêðàñåí;;x
+EVTOPTB38226;You should try to not overwhelm people;;;;;;;;;;;Âû äîëæíû ïîñòàðàòüñÿ, ÷òîáû íå îøåëîìëÿòü ëþäåé;;x
+EVTOPTB38227;I'll tell [From.GetFirstName] about the joys of giving money;;;;;;;;;;;[From.GetFirstName], ÿ ðàññêàæó òåáå î ðàäîñòè îòäàâàòü äåíüãè;;x
+EVTOPTB38228;Stop asking questions! Children should be seen and not heard;;;;;;;;;;;Õâàòèò çàäàâàòü âîïðîñû! Äåòè ìîãóò ñìîòðåòü, íî íå ñëóøàòü;;x
+EVTOPTB38229;Make sure [From.GetSheHe] does not hurt [From.GetHerselfHimself]!;;;;;;;;;;;Óäîñòîâåðèòüñÿ, ÷òî [From.GetSheHe] íè÷åãî ñåáå íå ïîâðåäèò!;;x
+EVTOPTB38230;Lecture [From.GetFirstName] about virtues and sins;;;;;;;;;;;[From.GetFirstName] âûñëóøàåò ëåêöèþ î äîáðîäåòåëÿõ è ãðåõàõ;;x
+EVTOPTB38231;This is not my concern;;;;;;;;;;;Ýòî íå ìî¸ äåëî;;x
+EVTOPTB38232;Teach [From.GetHerHim] a lesson!;;;;;;;;;;;Ïðåïîäàòü [From.GetHerHim] óðîê!;;x
+EVTOPTB38233;A doctor might be able to cure [From.GetFirstName];;;;;;;;;;;Âðà÷ ìîã áû âûëå÷èòü [From.GetHersHis];;x
+EVTOPTB38234;Try to beat it out of [From.GetHerHim];;;;;;;;;;;Ïîïðîáîâàòü âûáèòü ýòî ñèëîé;;x
+EVTOPTB38235;[From.GetFirstName], your tongue will cause you problems!;;;;;;;;;;;[From.GetFirstName], òâîé ÿçûê ñîçäàñò òåáå ïðîáëåìû!;;x
+EVTOPTC38100;Ask my guardian about Allah;;;;;;;;;;;À ÷òî ì[Root.Guardian.GetOyaOy] íàñòàâíè[Root.Guardian.GetTsaK] îá ýòîì ñêàæåò?;;x
+EVTOPTC38200;Let [From.GetFirstName] take [From.GetHerHis] time;;;;;;;;;;;Äàòü íåìíîãî âðåìåíè;;x
+EVTOPTC38201;Be silent or I'll slap you!;;;;;;;;;;;Ìîë÷è èëè âûïîðþ!;;x
+EVTOPTC38202;Let [From.GetHerHim] handle it alone;;;;;;;;;;;Äàéòå [From.GetHerHim] âîçìîæíîñòü ñïðàâèòüñÿ ñ ýòèì ñàìîñòîÿòåëüíî;;x
+EVTOPTC38203;Discipline [From.GetHerHim];;;;;;;;;;;Íàêàçàòü [From.GetHersHis];;x
+EVTOPTC38204;Teach [From.GetHerHim] some humility;;;;;;;;;;;Íàó÷èòå [From.GetHersHis] ñìèðåíèþ;;x
+EVTOPTC38205;Don't ask me things like that!;;;;;;;;;;;Íå ñïðàøèâàé ìåíÿ î òàêîì!;;x
+EVTOPTC38206;Give [From.GetHerHim] toys to attract friends with;;;;;;;;;;;Äàéòå [From.GetHerHim] èãðóøåê, ÷òîáû ïðèâëå÷ü íîâûõ äðóçåé;;x
+EVTOPTC38207;You can play with a birch if you like, go to school!;;;;;;;;;;;"À â ""ðîçãè"" íå õî÷åøü ïîèãðàòü? Ìàðø ó÷èòüñÿ!";;x
+EVTOPTC38208;They are men like us, but unbeliever enemies;;;;;;;;;;;Îíè - íåâåðóþùèå, îíè íàøè âðàãè;;x
+EVTOPTC38209;Curfew [From.GetHerHim]!;;;;;;;;;;;Äîìàøíèé àðåñò!;;x
+EVTOPTC38210;My child, let me explain how things really are...;;;;;;;;;;;Äèòÿ ìî¸, äàé ÿ ðàññêàæó òåáå êàê îíî íà ñàìîì äåëå;;x
+EVTOPTC38211;It's all part of God's plan;;;;;;;;;;;Âñå ýòî çàäóìêà Ãîñïîäà;;x
+EVTOPTC38212;No you won't, silly child!;;;;;;;;;;;Íåò, íå áóäåøü, ãëóïûé ðåá¸íîê!;;x
+EVTOPTC38214;Sometimes, even your brother can be an enemy;;;;;;;;;;;Èíîãäà äàæå òâîé áðàò ìîæåò áûòü òâîèì âðàãîì;;x
+EVTOPTC38222;[From.GetFirstName], don't you worry about it. It'll be better soon;;;;;;;;;;;[From.GetFirstName], íå âîëíóéñÿ îá ýòîì. Ñêîðî ñòàíåò ëåã÷å;;x
+EVTOPTC38223;It is time to teach [From.GetFirstName] the right way;;;;;;;;;;;[From.GetFirstName], ïðèøëî âðåìÿ íàïðàâèòü òåáÿ íà âåðíûé ïóòü.;;x
+EVTOPTC38224;You know, other people can be as interesting as books;;;;;;;;;;;Îáùåíèå ñ äðóãèìè ëþäüìè ìîæåò áûòü íàìíîãî èíòåðåñíåå, ÷åì ÷òåíèå êíèã;;x
+EVTOPTC38227;Money is for God;;;;;;;;;;;Äåíüãè äëÿ Áîãà;;x
+EVTOPTC38229;This will turn [From.GetHerHim] into a great master of the sword!;;;;;;;;;;;Ýòî ïðåâðàòèò [From.GetHersHis] â âåëèêîãî ìàñòåðà ìå÷à!;;x
+EVTOPTC38232;Strictly forbid [From.GetHerHim] to climb the tower;;;;;;;;;;;Ñòðîãî çàïðåòèòü [From.GetHerHim] ïîäíèìàòüñÿ íà áàøíþ;;x
+EVTOPTC38233;Only God decides over life and death;;;;;;;;;;;Òîëüêî Áîã ðåøàåò æèòü èëè óìåðåòü;;x
+EVTOPTC38234;[From.GetSheHeCap] will grow out of it;;;;;;;;;;;[From.GetSheHeCap] âûðàñò¸ò èç ýòîãî;;x
+EVTOPTD38200;Send [From.GetHerHim] to the nannies instead;;;;;;;;;;;Îòïðàâèòü ê íÿíüêàì;;x
+EVTOPTD38203;Let the monks purge [From.GetHerHis] sin;;;;;;;;;;;Ïóñòü ìîíàõè èñêóïÿò [From.GetHersHis] ãðåõ;;x
+EVTOPTD38204;Off to the nannies with you, leech!;;;;;;;;;;;Èäè íàäîåäàé ñâîèì íÿíüêàì, ïèÿâêà!;;x
+EVTOPTD38211;It is all part of Allah's plan;;;;;;;;;;;Ýòî âñ¸ ÷àñòü çàìûñëà Àëëàõà;;x
+EVTOPTD38227;Give the money to the poor and Allah will see your goodness;;;;;;;;;;;Äàéòå äåíåã íèùèì, è Àëëàõ óâèäèò Âàøó äîáðîòó;;x
+EVTOPTD38233;Only Allah decides over life and death;;;;;;;;;;;Ëèøü Àëëàõ âëàñòåí íàä æèçíüþ è ñìåðòüþ;;x
+EVTOPTE38233;[From.GetTitledFirstName] will be well soon, there's no need for a doctor!;;;;;;;;;;;[From.GetTitledFirstName] ñêîðî ïîïðàâèòñÿ, âî âðà÷å íåò íóæäû;;x

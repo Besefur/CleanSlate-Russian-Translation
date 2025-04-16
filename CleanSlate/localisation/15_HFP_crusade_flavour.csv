@@ -1,153 +1,147 @@
-EVTDESC_HFP_42000;My men storm the walls of [From.GetBaseName], and finally take the last proper bastion of [duchy_region.GetBaseName]. If I settled my men around the area they could probably support the ongoing Crusade and help us claim victory, but the Pope will not be pleased if I unrightfully take these lands for myself.;;;;;;;;;;;;;x
-EVTDESC_HFP_42001;The [From.Religion.GetGroupName] Crusaders have taken [duchy_region.GetBaseName] and settled their soldiers around the area. Though the Crusade for [crusade_title.GetName] is still ongoing, the area around [duchy_region.GetBaseName] is indisputably in the hands of [current_crusade_beneficiary.GetTitledName].\n\nEmboldened and supported by the new [current_crusade_beneficiary.GetLordLady] of [duchy_region.GetBaseName], the Crusaders fight harder than ever to conquer [crusade_title.GetName]. It is only a matter of time before the rest of the [crusade_target_ruler.Religion.GetGroupName] realms will fall.;;;;;;;;;;;;;x
-EVTDESC_HFP_42002;The old title of [old_crusade_title.GetName] has often been considered somewhat illegitimate in the eyes of everyone else. Now that I have acquired a new title it might be time to leave the old title behind, to take on the mantle of a more appropriate legitimate title.;;;;;;;;;;;;;x
-EVTDESC_HFP_42003;The [From.Religion.GetGroupName] Crusaders have taken [duchy_region.GetBaseName] and settled their soldiers around the area. Though the Crusade is still ongoing, the area around [duchy_region.GetBaseName] is indisputably in the hands of [From.GetTitledName].\n\nDespite the continued support of [From.GetTitledName], [From.GetSheHe] has become somewhat unpopular among the other Crusaders, as [From.GetSheHe] is more interested in taking lands for [From.GetHerselfHimself] than fighting for the faith.;;;;;;;;;;;;;x
-EVTDESC_HFP_42101;The [From.Religion.GetGroupName] Crusaders have taken [duchy_region.GetBaseName] and settled their soldiers around the area. Though the Crusade for [crusade_title.GetName] is still ongoing, the area around [duchy_region.GetBaseName] is indisputably in the hands of [From.GetTitledName].\n\nThe Crusaders are emboldened and supported by the selfless [From.GetDynName], who abdicated all [From.GetHerHis] old titles to settle down in [duchy_region.GetBaseName] and take the fight to the heathens. It is only a matter of time before the rest of the [crusade_target_ruler.Religion.GetGroupName] realms will fall.;;;;;;;;;;;;;x
-EVTDESC_HFP_42201;As I pass through [current_location.GetName], I come across [other_crusader.GetTitledName]. [other_crusader.GetSheHeCap] invites me to spend some time in [other_crusader.GetHerHis] camp to get to know one another better, as we are allies in the Crusade for [crusade_title.GetBaseName].;;;;;;;;;;;;;x
-EVTDESC_HFP_42202;The last few days here in [current_location.GetName] has been an interesting experience. The [current_location.Culture.GetName] culture has reminded me of how different these lands are to my home.;;;;;;;;;;;;;x
-EVTDESC_HFP_42203;It looks like an abandoned battlefield, the dead strewn across the landscape. The crusaders certainly met quite the resistance, here in [current_location.GetName].;;;;;;;;;;;;;x
-EVTDESC_HFP_42204;A local merchant caravan approaches me on its way back home to [current_location.GetName]. One of the peddlers flashes me a huge grin, and ask if I want to take a look at his wares.;;;;;;;;;;;;;x
-EVTDESC_HFP_42205;When I joined the Crusade for [new_crusade_title.GetBaseName], I never expected the loneliness and longing for home. My men look up to me, so I have to continue the facade that everything is all right, as we move ever closer to our goal.;;;;;;;;;;;;;x
-EVTDESC_HFP_42206;As we settle down for the night in [current_location.GetName], a comet passes overhead. The soldiers start talking excitedly what it might mean.;;;;;;;;;;;;;x
-EVTDESC_HFP_42207;A group of Crusaders have beheaded several of the locals in [current_location.GetName], for no other reason than them being [current_location.Religion.GetName]. Was this really why we came to [new_crusade_title.GetBaseName]?;;;;;;;;;;;;;x
-EVTDESC_HFP_42208;As we pass through [current_location.GetName], we come across a small group of [faithful_religion.GetCrusadeReligiousMinorityGroup]. They happily receive us as long lost brothers and sisters, and give us a place to sleep and rest for the night.;;;;;;;;;;;;;x
-EVTDESC_HFP_42209;As I walk through the streets of [current_location.GetName], I suddenly feel someone bump into me, as a boy runs down the street. With a pouch that looks surprisingly like mine in his hands!;;;;;;;;;;;;;x
-EVTDESC_HFP_42210;After hearing about a wise man in the local area, I decide to go visit him and see what he has to offer. He starts talking about ephemeral concepts that sound like blasphemy, but I tell my men to go outside so I can hear what he has to offer.;;;;;;;;;;;;;x
-EVTDESC_HFP_42211;As we travel through [current_location.GetName], we come across a festival to ancient gods still celebrated by the local populace. It reminds me of some of the harvest festivals at home.;;;;;;;;;;;;;x
-EVTDESC_HFP_42212;I wake up to the voice of what I am sure to be [Root.Religion.GetHighGodName] after a late night with my men. It only lasted for a second, but I am sure I was told to use all my resources to continue our righteous Crusade and help my allies.;;;;;;;;;;;;;x
-EVTDESC_HFP_42213;As we camp for the night, riders bearing the cross suddenly approach. Led by the pious [holy_order_meeting.GetTitledName], they settle down with us for the night. Just before I am going to sleep, [holy_order_meeting.GetFirstName] asks if I want to stay up and converse with him.;;;;;;;;;;;;;x
-EVTDESC_HFP_42214_A;My men and I find ourselves at a bar in [current_location.GetName], as evening turns to night. An attractive serving girl seems to pay me a lot of interest, and when I am about to go to bed for the night, she is clearly interested in joining.;;;;;;;;;;;;;x
-EVTDESC_HFP_42214_B;My men and I find ourselves at a bar in [current_location.GetName], as evening turns to night. An attractive serving boy seems to pay me a lot of interest, and when I am about to go to bed for the night, he is clearly interested in joining.;;;;;;;;;;;;;x
-EVTDESC_HFP_42215;I have noticed that my men seem somewhat restless these last days. Our stay in [current_location.GetName] has taken its toll on them, and they seem a bit demotivated.;;;;;;;;;;;;;x
-EVTDESC_HFP_42220;I find myself walking through the ancient streets of Rome. Once a part of the Roman Empire, then a part of the Papal States. It used to be the very center of the world, and the core lands of the faith. Now it is not even [Root.Religion.GetName].;;;;;;;;;;;;;x
-EVTDESC_HFP_42221;Once a bastion of the faith, Antioch has fallen from greatness. I look around the city and see the potential to become a center of the faith once more, it if is led by a true [Root.Religion.GetGroupName]. ;;;;;;;;;;;;;x
-EVTDESC_HFP_42222;Once Saint Paul walked across the shores of Cyprus to spread the faith of [Root.Religion.GetHighGodName], but now it has been lost to the infidels. If only we could restore it as a place of faith and virtue.;;;;;;;;;;;;;x
-EVTDESC_HFP_42223;Jerusalem, the beating heart of the faith, has been filled with infidels. Everywhere I look, I see men and women who are clearly not of the faith. The shame stings me to the very depths of my heart.;;;;;;;;;;;;;x
-EVTDESC_HFP_42305;The bitter losses in the previous Crusade are still lingering across the Christian lands. The messengers of the Pope have traveled across all the faithful realms of the [From.Religion.GetGroupName]s to spread the Crusader spirit among the people, but the nobility has tired from the previous war.\n\nWith the Pope at the forefront, small revolts have occurred as the people want to reconquer the holy places of the faith, with the lords and ladies somewhat skeptical. It is most likely only a matter of time before a larger conflict between the masses and the nobility will take place. ;;;;;;;;;;;;;x
-EVTDESC_HFP_42307;With a bellowing shout, [shepherds_leader.GetFirstName] launches the Crusade of poor souls from [shepherds_province.GetName]. Men and women from all across the [shepherds_province.Culture.GetName] lands have gathered to witness this momentous event, with not a single lord or lady to lead them, nor to be seen among the populace.\n\nSupposedly guided by the hand of [shepherds_leader.Religion.GetHighGodName], [shepherds_leader.GetSheHe] commands the shepherds, fletchers and blacksmiths apprentices to march towards [kingdom_target.GetBaseName]. It is a long and perilous path, with many challenges waiting for them. Without supply lines nor help from the locals, they are unlikely to ever reach their destination.\n\nCan the miracles of [shepherds_leader.Religion.GetHighGodName] truly save them from the fate everyone expects them to have?;;;;;;;;;;;;;x
-EVTDESC_HFP_42308;[From.GetFirstName] finally had [From.GetHerHis] people stand down as the losses against [FromFrom.GetTitledName] proved to be too costly. Most of the army were executed right there and then, and [From.GetFirstName] brought back to [FromFrom.Capital.GetName] to show everyone what happens to peasants who try to attack their betters.\n\nAfter all, nobody ever believed the peasants would win against the battle hardened armies of [FromFrom.PrimaryTitle.GetName].;;;;;;;;;;;;;x
-EVTDESC_HFP_42309;With pitchforks and hammers in hand, the shepherds rush the final bastions of defense in [From.PrimaryTitle.GetBaseName]. The skeptics were many, but nobody could make the miraculous group of brave men and women stop their quest for the [From.PrimaryTitle.GetAdjective] lands.\n\nThe rest of the world looks to the new [From.GetKingQueen] with awe and confusion, as [From.GetDynName] takes the throne for [From.GetHerselfHimself]. Peasant no more, nobody can deny [From.GetHerHis] right to the throne. For who else than [From.Religion.GetHighGodName] could have guided [From.GetTitledFirstName] to victory?;;;;;;;;;;;;;x
-EVTDESC_HFP_42310;Without the guidance of [From.GetFirstName], the men and women of the aptly named Shepherds' Crusade have started to fall apart. [From.GetHerHisCap] death broke the morale of the peasant army, and they have fled to all the corners of the world.\n\nAfter all, who ever truly believed the peasants could conquer anything on their own?;;;;;;;;;;;;;x
-EVTDESC_HFP_42321;The massive army of peasants have gathered outside of my doorstep at [current_location.GetName]. Their commander, [shepherds_leader.GetFirstName], is asking me for aid in their Crusade.;;;;;;;;;;;;;x
-EVTDESC_HFP_42322;The troublemakers of the peasant Crusade have demanded that I expel all the Jews from the realm. According to their leader, [shepherds_leader.GetFirstName], they are not true believers in [shepherds_leader.Religion.GetHighGodName].;;;;;;;;;;;;;x
-EVTDESC_HFP_42323;As expected, the rebellious peasants of the Shepherds' Crusade have started causing chaos among the local populace of [current_location.GetName]. My people look to me, to stop these foreign elements intruding upon our lands.;;;;;;;;;;;;;x
-EVTDESC_HFP_42324;As the Shepherds' Crusade passes by [current_location.GetName], I see an influx of peasants settle down in the area. It seems some of them reconsider their choices, as the Crusade still has a way to go.;;;;;;;;;;;;;x
-EVTDESC_HFP_42325;After publicly declaring the Shepherds' Crusade a heretical group of pillagers, [local_bishop.GetTitledName] was executed at the hands of [From.GetFirstName].;;;;;;;;;;;;;x
-EVTDESC_HFP_42330;The cursed [From.Religion.GetName] peasants have entered [current_location.GetName] and have started causing issues among the people. If this keeps going, it is only a matter of time before chaos will ensue. ;;;;;;;;;;;;;x
-
-EVTOPTA_HFP_42000;[duchy_region.GetBaseName] sounds like an appropriate part of [Root.PrimaryTitle.GetName].;;;;;;;;;;;;;x
-EVTOPTA_HFP_42000_TT_1;§Y[Root.GetTitledName]§! usurps all the titles in the §YDuchy of [duchy_region.GetBaseName]§!.;;;;;;;;;;;;;x
-EVTOPTA_HFP_42000_TT_2;§YAll Pledged Crusaders§! opinion of §Y[Root.GetTitledName]§! changes by §R-20§! for §Y10§! years. §Y(Self-serving Crusader)§!;;;;;;;;;;;;;x
-EVTOPTA_HFP_42001;Fight on, brothers and sisters!;;;;;;;;;;;;;x
-EVTOPTA_HFP_42002;I will legitimize it myself!;;;;;;;;;;;;;x
-EVTOPTA_HFP_42002_TT;Legitimize [old_crusade_title.GetName] as the new rightful Duchy of the region. This will delegitimize the old Duchy of [duchy_title.GetName].;;;;;;;;;;;;;x
-EVTOPTA_HFP_42003;Disappointing that anyone can be so self-serving.;;;;;;;;;;;;;x
-EVTOPTA_HFP_42201;Thank you, I will accept your offer.;;;;;;;;;;;;;x
-EVTOPTA_HFP_42202;I should try to learn as much as I can about these lands while I still can!;;;;;;;;;;;;;x
-EVTOPTA_HFP_42203;I will bury the Crusaders.;;;;;;;;;;;;;x
-EVTOPTA_HFP_42204;That thing, that looks nice.;;;;;;;;;;;;;x
-EVTOPTA_HFP_42205;I have to keep going.;;;;;;;;;;;;;x
-EVTOPTA_HFP_42206;[Root.Religion.GetHighGodName] guides our hand in this just war!;;;;;;;;;;;;;x
-EVTOPTA_HFP_42207;Leave some for me!;;;;;;;;;;;;;x
-EVTOPTA_HFP_42208;Let me help you spread your faith, friends.;;;;;;;;;;;;;x
-EVTOPTA_HFP_42209;No matter, there was not a lot of money left in it.;;;;;;;;;;;;;x
-EVTOPTA_HFP_42210;I will learn what he has to offer, blasphemy or not.;;;;;;;;;;;;;x
-EVTOPTA_HFP_42211;Let us take part in the festivities!;;;;;;;;;;;;;x
-EVTOPTA_HFP_42212;It must be so!;;;;;;;;;;;;;x
-EVTOPTA_HFP_42213;A great opportunity for friendship.;;;;;;;;;;;;;x
-EVTOPTA_HFP_42214;I am not here to pick up foreigners.;;;;;;;;;;;;;x
-EVTOPTA_HFP_42215;I will drill the men back into a fighting force!;;;;;;;;;;;;;x
-EVTOPTA_HFP_42220;A depressing twist of faith.;;;;;;;;;;;;;x
-EVTOPTA_HFP_42221;One day, it will live up to the name Theopolis once more.;;;;;;;;;;;;;x
-EVTOPTA_HFP_42222;Sadly, the island has been lost...;;;;;;;;;;;;;x
-EVTOPTA_HFP_42223;How could this be?;;;;;;;;;;;;;x
-EVTOPTA_HFP_42305;This is not going to end well...;;;;;;;;;;;;;x
-EVTOPTA_HFP_42307;Peasants? In a Crusade?;;;;;;;;;;;;;x
-EVTOPTA_HFP_42308;As expected.;;;;;;;;;;;;;x
-EVTOPTA_HFP_42309;The peasants won?;;;;;;;;;;;;;x
-EVTOPTA_HFP_42310;As expected.;;;;;;;;;;;;;x
-EVTOPTA_HFP_42321;They are free to pass through, but do it quickly.;;;;;;;;;;;;;x
-EVTOPTA_HFP_42322;I decide in [Root.PrimaryTitle.GetName]!;;;;;;;;;;;;;x
-EVTOPTA_HFP_42323;It is probably safer to just let them pass through.;;;;;;;;;;;;;x
-EVTOPTA_HFP_42323_TT;The §RProsperity§! of §Y[current_location.GetName]§! will decrease.;;;;;;;;;;;;;x
-EVTOPTA_HFP_42324;We could always use a helping hand or two.;;;;;;;;;;;;;x
-EVTOPTA_HFP_42325;[local_bishop.GetSheHeCap] brought this on [local_bishop.GetHerselfHimself].;;;;;;;;;;;;;x
-EVTOPTA_HFP_42330;It is probably just better to wait for them to leave.;;;;;;;;;;;;;x
-
-EVTOPTB_HFP_42000;I will find a suitable ruler for this new land.;;;;;;;;;;;;;x
-EVTOPTB_HFP_42000_TT;§Y[current_crusade_beneficiary.GetTitledName]§! will become an independent §Y[current_crusade_beneficiary.GetDukeDuchessCap] of [duchy_region.GetBaseName]§!.;;;;;;;;;;;;;x
-EVTOPTB_HFP_42001;Cursed [From.Religion.GetGroupName]s!;;;;;;;;;;;;;x
-EVTOPTB_HFP_42002;The title has served us well. Rest, old friend.;;;;;;;;;;;;;x
-EVTOPTB_HFP_42201;I am here to fight the infidels, not to make friends.;;;;;;;;;;;;;x
-EVTOPTB_HFP_42202;I will try to befriend one of the locals.;;;;;;;;;;;;;x
-EVTOPTB_HFP_42203;I will bury everyone.;;;;;;;;;;;;;x
-EVTOPTB_HFP_42204;Die, infidels!;;;;;;;;;;;;;x
-EVTOPTB_HFP_42205;Maybe I just need to try to relax, and stop overworking myself.;;;;;;;;;;;;;x
-EVTOPTB_HFP_42206;All right, now get back to work men.;;;;;;;;;;;;;x
-EVTOPTB_HFP_42207;[Root.Religion.GetHighGodName] would never approve...;;;;;;;;;;;;;x
-EVTOPTB_HFP_42208;Would you like to join my court back in [Root.Capital.GetName]?;;;;;;;;;;;;;x
-EVTOPTB_HFP_42209;Let us find that kid and make him pay.;;;;;;;;;;;;;x
-EVTOPTB_HFP_42210;Blasphemers must die, but libraries contain knowledge...;;;;;;;;;;;;;x
-EVTOPTB_HFP_42211;It is not befitting of a true [Root.Religion.GetGroupName].;;;;;;;;;;;;;x
-EVTOPTB_HFP_42212;Maybe I should not have had that much to drink.;;;;;;;;;;;;;x
-EVTOPTB_HFP_42213;My apologies, but it is too late for that.;;;;;;;;;;;;;x
-EVTOPTB_HFP_42214;Nobody will know about just one night.;;;;;;;;;;;;;x
-EVTOPTB_HFP_42215;They just need some inspiration!;;;;;;;;;;;;;x
-EVTOPTB_HFP_42220;Rome belongs to us!;;;;;;;;;;;;;x
-EVTOPTB_HFP_42220_TT;You and your men capture the city from the infidels, in an attempt to restore it to the true faith.;;;;;;;;;;;;;x
-EVTOPTB_HFP_42221;We will restore the city of [Root.Religion.GetHighGodName]!;;;;;;;;;;;;;x
-EVTOPTB_HFP_42221_TT;You and your men capture the city from the infidels, in an attempt to restore it to the true faith.;;;;;;;;;;;;;x
-EVTOPTB_HFP_42222;For the glory of [Root.Religion.GetHighGodName] we fight!;;;;;;;;;;;;;x
-EVTOPTB_HFP_42222_TT;You and your men capture the city from the infidels, in an attempt to restore it to the true faith.;;;;;;;;;;;;;x
-EVTOPTB_HFP_42223;We will take Jerusalem!;;;;;;;;;;;;;x
-EVTOPTB_HFP_42223_TT;You and your men capture the city from the infidels, in an attempt to restore it to the true faith.;;;;;;;;;;;;;x
-EVTOPTB_HFP_42307;Peasants? Pathetic.;;;;;;;;;;;;;x
-EVTOPTB_HFP_42321;A Crusade you say? Interesting...;;;;;;;;;;;;;x
-EVTOPTB_HFP_42321_TT;You will ally with the Shepherds' Crusade;;;;;;;;;;;;;x
-EVTOPTB_HFP_42322;Maybe [shepherds_leader.GetSheHe] is right after all?;;;;;;;;;;;;;x
-EVTOPTB_HFP_42323;Threading upon my lands is punishable by death.;;;;;;;;;;;;;x
-EVTOPTB_HFP_42323_TT;You will treat §Y[From.GetTitledName]§! and [From.GetHerHis] forces as a hostile entity in your lands.;;;;;;;;;;;;;x
-EVTOPTB_HFP_42324;Deserters have no place in [current_location.GetName], get back to the Crusade!;;;;;;;;;;;;;x
-EVTOPTB_HFP_42325;It is time to put an end to them.;;;;;;;;;;;;;x
-EVTOPTB_HFP_42330;I will fight them off myself!;;;;;;;;;;;;;x
-
-EVTOPTC_HFP_42000;I have no interest in these lands.;;;;;;;;;;;;;x
-EVTOPTC_HFP_42001;I wonder what life would have been like in [duchy_region.GetBaseName].;;;;;;;;;;;;;x
-EVTOPTC_HFP_42002;Legitimate or not, I will keep the title.;;;;;;;;;;;;;x
-EVTOPTC_HFP_42003;It was my right.;;;;;;;;;;;;;x
-EVTOPTC_HFP_42100;I will leave [Root.PrimaryTitle.GetName] behind to settle down in [duchy_region.GetBaseName] personally.;;;;;;;;;;;;;x
-EVTOPTC_HFP_42101;I miss [From.GetFirstName]...;;;;;;;;;;;;;x
-EVTOPTC_HFP_42202;Perish these blasphemous thoughts!;;;;;;;;;;;;;x
-EVTOPTC_HFP_42203;Maybe I could salvage some valuables?;;;;;;;;;;;;;x
-EVTOPTC_HFP_42204;Thank you, but I have to be on my way.;;;;;;;;;;;;;x
-EVTOPTC_HFP_42205;[Root.Religion.GetHighGodName] will guide me through these hardships.;;;;;;;;;;;;;x
-EVTOPTC_HFP_42206;I am blessed by [Root.Religion.GetHighGodName]!;;;;;;;;;;;;;x
-EVTOPTC_HFP_42207;Sadly, examples must be made.;;;;;;;;;;;;;x
-EVTOPTC_HFP_42208;Thank you for your hospitality.;;;;;;;;;;;;;x
-EVTOPTC_HFP_42209;Maybe he could be of use to me?;;;;;;;;;;;;;x
-EVTOPTC_HFP_42210;Maybe [current_location.Religion.GetName] has more to offer than [Root.Religion.GetName]?;;;;;;;;;;;;;x
-EVTOPTC_HFP_42210_TT;§Y[Root.GetTitledName]§! starts secretly practicing the §Y[current_location.Religion.GetName]§! faith;;;;;;;;;;;;;x
-EVTOPTC_HFP_42211;Maybe these harvest festivals are to the real gods?;;;;;;;;;;;;;x
-EVTOPTC_HFP_42212;I have been called to join the [decided_holy_order.PrimaryTitle.GetName]!;;;;;;;;;;;;;x
-EVTOPTC_HFP_42214;You should join me at my court!;;;;;;;;;;;;;x
-EVTOPTC_HFP_42215;I make them unstoppable.;;;;;;;;;;;;;x
-EVTOPTC_HFP_42220;Maybe the [current_location.Religion.GetName] faith has more to offer us?;;;;;;;;;;;;;x
-EVTOPTC_HFP_42321;I will send you some of my men.;;;;;;;;;;;;;x
-EVTOPTC_HFP_42321_TT;You send some of your soldiers to join §Y[shepherds_leader.GetFirstName]§! in [shepherds_leader.GetHerHis] Crusade;;;;;;;;;;;;;x
-EVTOPTC_HFP_42325;I never really liked [local_bishop.GetFirstName] anyways!;;;;;;;;;;;;;x
-
-EVTOPTD_HFP_42202;I feel more [current_location.Culture.GetName] than [Root.Culture.GetName].;;;;;;;;;;;;;x
-EVTOPTD_HFP_42204;Hand over your valuables, peasant.;;;;;;;;;;;;;x
-EVTOPTD_HFP_42206;Let us take a moment to thank [Root.Religion.GetRandomGodName] for this miracle.;;;;;;;;;;;;;x
-EVTOPTD_HFP_42220;I have to say the [current_location.Religion.GetGroupName]s have taken well care of [current_location.GetName] though.;;;;;;;;;;;;;x
-
-EVTOPTX_HFP_42001;I wonder how long it will last...;;;;;;;;;;;;;x
-
-EVTTITLE_HFP_42001;Crusader [current_crusade_beneficiary.GetLordLady] of [duchy_region.GetBaseName];;;;;;;;;;;;;x
-EVTTITLE_HFP_42003;Crusaders take [duchy_region.GetBaseName];;;;;;;;;;;;;x
-EVTTITLE_HFP_42101;Crusader [From.GetLordLady] of [duchy_region.GetBaseName];;;;;;;;;;;;;x
-EVTTITLE_HFP_42305;Enraging the Masses;;;;;;;;;;;;;x
-EVTTITLE_HFP_42307;The Shepherds' Crusade;;;;;;;;;;;;;x
-EVTTITLE_HFP_42308;The Shattered Shepherds;;;;;;;;;;;;;x
-EVTTITLE_HFP_42309;The Shepherds of [From.PrimaryTitle.GetBaseName];;;;;;;;;;;;;x
-EVTTITLE_HFP_42310;The Faltering Shepherds;;;;;;;;;;;;;x
+EVTDESC_HFP_42000;My men storm the walls of [From.GetBaseName], and finally take the last proper bastion of [duchy_region.GetBaseName]. If I settled my men around the area they could probably support the ongoing Crusade and help us claim victory, but the Pope will not be pleased if I unrightfully take these lands for myself.;;;;;;;;;;;Ìîè âîèíû, øòóðìîâàâøèå [crusade_state_capital.GetAdjective]ñêèå ñòåíû, íàêîíåö-òî, çàõâàòèëè ïîñëåäíèé [duchy_region.GetAdjective]ñêèé áàñòèîí. Åñëè ÿ ðàññåëþ ñâîèõ ïîääàííûõ ïî îêðåñòíîñòÿì, îíè, âåðîÿòíî, ñìîãóò ïîääåðæàòü ïðîäîëæàþùèéñÿ Êðåñòîâûé ïîõîä è ïîìî÷ü íàì äîáèòüñÿ ïîáåäû, íî Ïàïå íå ïîíðàâèòñÿ, åñëè ÿ íåïðàâîìåðíî çàáåðó ýòè çåìëè ñåáå.;;x
+EVTDESC_HFP_42001;The [From.Religion.GetGroupName] Crusaders have taken [duchy_region.GetBaseName] and settled their soldiers around the area. Though the Crusade for [crusade_title.GetName] is still ongoing, the area around [duchy_region.GetBaseName] is indisputably in the hands of [current_crusade_beneficiary.GetTitledName].\n\nEmboldened and supported by the new [current_crusade_beneficiary.GetLordLady] of [duchy_region.GetBaseName], the Crusaders fight harder than ever to conquer [crusade_title.GetName]. It is only a matter of time before the rest of the [crusade_target_ruler.Religion.GetGroupName] realms will fall.;;;;;;;;;;;[From.GetRelAdjCap]ñêèå êðåñòîíîñöû çàõâàòèëè [duchy_region.GetAdjective]ñêèå òåððèòîðèè è ïîñåëèëèñü â ýòîì ðåãèîíå. Õîòÿ Êðåñòîâûé ïîõîä íà [crusade_title.GetAdjective]ñêóþ çåìëþ âñ¸ åù¸ ïðîäîëæàåòñÿ, ðåãèîí [duchy_region.GetBaseName] êîíòðîëèðóåò [current_crusade_beneficiary.GetTitledFirstName].\nÂäîõíîâë¸ííûå è ïîääåðæèâàåìûå íîâ[current_crusade_beneficiary.GetOyYm] [current_crusade_beneficiary.GetLordLadyEngINS], êðåñòîíîñöû ñðàæàþòñÿ èçî âñåõ ñèë, ÷òîáû çàêîí÷èòü íà÷àòîå. Ïàäåíèå îñòàëüíûõ âëàäåíèé, íàõîäÿùèõñÿ ïîä êîíòðîëåì [crusade_target_ruler.GetReligionGroupPersonsGEN] - ëèøü âîïðîñ âðåìåíè.;;x
+EVTDESC_HFP_42002;The old title of [old_crusade_title.GetName] has often been considered somewhat illegitimate in the eyes of everyone else. Now that I have acquired a new title it might be time to leave the old title behind, to take on the mantle of a more appropriate legitimate title.;;;;;;;;;;;[old_crusade_title.GetName] - ñòàðûé òèòóë, êîòîðûé íåêîòîðûå ñ÷èòàþò íåëåãèòèìíûì. Òåïåðü, êîãäà ÿ ïîëó÷èë[Root.GetEndA] íîâûé, âîçìîæíî, ïðèøëî âðåìÿ îñòàâèòü ïðåæíèé ïîçàäè, ÷òîáû ïðèíÿòü ìàíòèþ áîëåå ïîäõîäÿùåãî çàêîííîãî òèòóëà.;;x
+EVTDESC_HFP_42003;The [From.Religion.GetGroupName] Crusaders have taken [duchy_region.GetBaseName] and settled their soldiers around the area. Though the Crusade is still ongoing, the area around [duchy_region.GetBaseName] is indisputably in the hands of [From.GetTitledName].\n\nDespite the continued support of [From.GetTitledName], [From.GetSheHe] has become somewhat unpopular among the other Crusaders, as [From.GetSheHe] is more interested in taking lands for [From.GetHerselfHimself] than fighting for the faith.;;;;;;;;;;;Ïîä êîíòðîëåì êðåñòîíîñöåâ. [From.GetRelAdjCap]ñêèå âîéñêà çàõâàòèëè [duchy_region.GetAdjective]ñêèå òåððèòîðèè è ïîñåëèëèñü â ýòîì ðåãèîíå. Õîòÿ êðåñòîâûé ïîõîä âñ¸ åù¸ ïðîäîëæàåòñÿ, ðåãèîí [duchy_region.GetBaseName] êîíòðîëèðóåò [From.GetTitledFirstName]\nÍåñìîòðÿ íà øèðîêóþ ïîääåðæêó, [From.GetTitledFirstName] ñòàë[From.GetEndA] íåñêîëüêî íåïîïóëÿð[From.GetNaEn] ñðåäè äðóãèõ êðåñòîíîñöåâ, ïîñêîëüêó [From.GetSheHe] áîëüøå çàèíòåðåñîâàí[From.GetEndA] â çàõâàòå çåìåëü äëÿ ñåáÿ, ÷åì â áîðüáå çà âåðó.;;x
+EVTDESC_HFP_42101;The [From.Religion.GetGroupName] Crusaders have taken [duchy_region.GetBaseName] and settled their soldiers around the area. Though the Crusade for [crusade_title.GetName] is still ongoing, the area around [duchy_region.GetBaseName] is indisputably in the hands of [From.GetTitledName].\n\nThe Crusaders are emboldened and supported by the selfless [From.GetDynName], who abdicated all [From.GetHerHis] old titles to settle down in [duchy_region.GetBaseName] and take the fight to the heathens. It is only a matter of time before the rest of the [crusade_target_ruler.Religion.GetGroupName] realms will fall.;;;;;;;;;;;Êðåñòîíîñöû çàõâàòèëè îáëàñòü [duchy_region.GetBaseName] è ïîñåëèëèñü òàì. Êðåñòîâûé ïîõîä íà [crusade_title.GetAdjective]ñêèå çåìëè âñ¸ åù¸ ïðîäîëæàåòñÿ, íî [duchy_region.GetBaseName] óæå äå-ôàêòî êîíòðîëèðóåò [From.GetTitledName].\nÂîèíîâ âäîõíîâèëà [From.GetHersHis] ñàìîîòâåðæåííîñòü, âåäü [From.GetSheHe] îòðåê[From.GetLasSya] îò âñåõ ñâîèõ òèòóëîâ, òîëüêî ÷òîáû çàêðåïèòüñÿ â [duchy_region.GetAdjective]ñêèõ çåìëÿõ è ïðîäîëæèòü áîðüáó ñ èíîâåðöàìè. [crusade_target_ruler.GetReligionPersons] áóäóò ðàçáèòû. Òåïåðü ýòî ëèøü âîïðîñ âðåìåíè.;;x
+EVTDESC_HFP_42201;As I pass through [current_location.GetName], I come across [other_crusader.GetTitledName]. [other_crusader.GetSheHeCap] invites me to spend some time in [other_crusader.GetHerHis] camp to get to know one another better, as we are allies in the Crusade for [crusade_title.GetBaseName].;;;;;;;;;;;Â [current_location.County.GetAdjective]ñêèõ çåìëÿõ ìíå âñòðåòè[other_crusader.GetLasLsya] [other_crusader.GetTitledFirstName]. [other_crusader.GetSheHeCap] ïðèãëàñèë[other_crusader.GetEndA] ìåíÿ ïðîâåñòè íåêîòîðîå âðåìÿ â [other_crusader.GetHersHis] ëàãåðå, ÷òîáû ëó÷øå óçíàòü äðóã äðóãà, âåäü ìû ñîþçíèêè â êðåñòîâîì ïîõîäå íà [crusade_title.GetAdjective]ñêóþ çåìëþ.;;x
+EVTDESC_HFP_42202;The last few days here in [current_location.GetName] has been an interesting experience. The [current_location.Culture.GetName] culture has reminded me of how different these lands are to my home.;;;;;;;;;;;Ïîñëåäíèå íåñêîëüêî äíåé íà [current_location.County.GetAdjective]ñêîé òåððèòîðèè áûëè èíòåðåñíûì îïûòîì. [current_location.GetCultureAdj]àÿ êóëüòóðà íàïîìíèëà ìíå î òîì, íàñêîëüêî çäåøíèå ìåñòà çåìëè îòëè÷àþòñÿ îò ìîèõ ðîäíûõ çåìåëü.;;x
+EVTDESC_HFP_42203;It looks like an abandoned battlefield, the dead strewn across the landscape. The crusaders certainly met quite the resistance, here in [current_location.GetName].;;;;;;;;;;;[current_location.GetName] âûãëÿäèò, êàê çàáðîøåííîå ïîëå áîÿ, ì¸ðòâûå òåëà ðàçáðîñàíû ïîâñþäó. Çäåñü êðåñòîíîñöû âñòðåòèëè ñåðü¸çíîå ñîïðîòèâëåíèå.;;x
+EVTDESC_HFP_42204;A local merchant caravan approaches me on its way back home to [current_location.GetName]. One of the peddlers flashes me a huge grin, and ask if I want to take a look at his wares.;;;;;;;;;;;Ìíå âñòðåòèëñÿ êàðàâàí ìåñòíûõ òîðãîâöåâ, âîçâðàùàþùèõñÿ äîìîé â [current_location.County.GetAdjective]ñêèå çåìëè. Îäèí èç òîðãîâöåâ øèðîêî óëûáíóëñÿ ìíå è ñïðîñèë, íå õî÷ó ëè ÿ âçãëÿíóòü íà åãî òîâàðû.;;x
+EVTDESC_HFP_42205;When I joined the Crusade for [new_crusade_title.GetBaseName], I never expected the loneliness and longing for home. My men look up to me, so I have to continue the facade that everything is all right, as we move ever closer to our goal.;;;;;;;;;;;Êîãäà ÿ ïðèñîåäèíè[Root.GetLasLsya] ê Êðåñòîâîìó ïîõîäó çà [new_crusade_title.GetBaseName], ÿ íå îæèäàë[Root.GetEndA], ÷òî ìåíÿ æä¸ò îäèíî÷åñòâî è òîñêà ïî äîìó. Ìîè ëþäè ñìîòðÿò íà ìåíÿ ñ íàäåæäîé, ïîýòîìó ÿ äîëæ[Root.GetNaEn] ïðîäîëæàòü äåëàòü âèä, ÷òî âñ¸ â ïîðÿäêå, ïî ìåðå òîãî, êàê ìû ïðèáëèæàåìñÿ ê íàøåé öåëè.;;x
+EVTDESC_HFP_42206;As we settle down for the night in [current_location.GetName], a comet passes overhead. The soldiers start talking excitedly what it might mean.;;;;;;;;;;;Êîãäà ìû óñòðàèâàåìñÿ íà íî÷ü â [current_location.GetName], íàä íàìè ïðîëåòàåò êîìåòà. Ñîëäàòû íà÷èíàþò âçâîëíîâàíî îáñóæäàòü, ÷òî áû ýòî ìîãëî çíà÷èòü.;;x
+EVTDESC_HFP_42207;A group of Crusaders have beheaded several of the locals in [current_location.GetName], for no other reason than them being [current_location.Religion.GetName]. Was this really why we came to [new_crusade_title.GetBaseName]?;;;;;;;;;;;Ãðóïïà êðåñòîíîñöåâ îáåçãëàâèëà íåñêîëüêèõ ìåñòíûõ æèòåëåé â [current_location.GetName] òîëüêî ïî òîé ïðè÷èíå, ÷òî îíè èñïîâåäîâàëè [current_location.Religion.GetName]. Íåóæåëè èìåííî çà ýòèì ìû ïðèåõàëè â [new_crusade_title.GetBaseName]?;;x
+EVTDESC_HFP_42208;As we pass through [current_location.GetName], we come across a small group of [faithful_religion.GetCrusadeReligiousMinorityGroup]. They happily receive us as long lost brothers and sisters, and give us a place to sleep and rest for the night.;;;;;;;;;;;Ïðîõîäÿ ÷åðåç [current_location.GetName], ìû íàòêíóëèñü íà íåáîëüøóþ ãðóïïó [Root.GetCrusadeReligiousMinorityGroup]. Îíè ñ ðàäîñòüþ ïðèíèìàþò íàñ êàê äàâíî ïîòåðÿííûõ áðàòüåâ è ñåñò¸ð è ïðåäîñòàâëÿþò íàì ìåñòî äëÿ íî÷ëåãà è îòäûõà.;;x
+EVTDESC_HFP_42209;As I walk through the streets of [current_location.GetName], I suddenly feel someone bump into me, as a boy runs down the street. With a pouch that looks surprisingly like mine in his hands!;;;;;;;;;;;Êîãäà ÿ èäó ïî óëèöàì [current_location.GetName], òî âäðóã ÷óâñòâóþ, ÷òî êòî-òî ñòîëêíóëñÿ ñî ìíîé, à ïî óëèöå áåæèò ìàëü÷èê. Ó íåãî â ðóêàõ ìåøî÷åê, óäèâèòåëüíî ïîõîæèé íà ìîé!;;x
+EVTDESC_HFP_42210;After hearing about a wise man in the local area, I decide to go visit him and see what he has to offer. He starts talking about ephemeral concepts that sound like blasphemy, but I tell my men to go outside so I can hear what he has to offer.;;;;;;;;;;;Óçíàâ î ìåñòíîì ìóäðåöå, ÿ ðåøàþ íàâåñòèòü åãî è ïîñìîòðåòü, ÷òî îí ìîæåò ïðåäëîæèòü. Îí íà÷èíàåò ãîâîðèòü îá ýôåìåðíûõ ïîíÿòèÿõ, êîòîðûå çâó÷àò êàê áîãîõóëüñòâî, íî ÿ ãîâîðþ ñâîèì ëþäÿì âûéòè íàðóæó, ÷òîáû ÿ ìîã[Root.GetNoneE] óñëûøàòü, ÷òî îí ìîæåò ïðåäëîæèòü.;;x
+EVTDESC_HFP_42211;As we travel through [current_location.GetName], we come across a festival to ancient gods still celebrated by the local populace. It reminds me of some of the harvest festivals at home.;;;;;;;;;;;Ïóòåøåñòâóÿ ïî [current_location.GetName], ìû íàòêíóëèñü íà ïðàçäíèê â ÷åñòü äðåâíèõ áîãîâ, êîòîðûé äî ñèõ ïîð îòìå÷àåòñÿ ìåñòíûì íàñåëåíèåì. Îí íàïîìèíàåò ìíå íåêîòîðûå ïðàçäíèêè óðîæàÿ ó íàñ äîìà.;;x
+EVTDESC_HFP_42212;I wake up to the voice of what I am sure to be [Root.Religion.GetHighGodName] after a late night with my men. It only lasted for a second, but I am sure I was told to use all my resources to continue our righteous Crusade and help my allies.;;;;;;;;;;;ß ïðîñûïàþñü îò ãîëîñà òîãî, êòî, êàê ÿ óâåðåí[Root.GetEndA], ÿâëÿåòñÿ [Root.Religion.GetHighGodName]îì ïîñëå ïîçäíåé íî÷è, ðÿäîì ñ ìîèìè ëþäüìè. Ýòî äëèëîñü âñåãî ñåêóíäó, íî ÿ óâåðåí[Root.GetEndA], ÷òî ìíå ïîâåëåëè èñïîëüçîâàòü âñå ìîè ðåñóðñû, ÷òîáû ïðîäîëæèòü íàø ïðàâåäíûé Êðåñòîâûé ïîõîä è ïîìî÷ü ìîèì ñîþçíèêàì.;;x
+EVTDESC_HFP_42213;As we camp for the night, riders bearing the cross suddenly approach. Led by the pious [holy_order_meeting.GetTitledName], they settle down with us for the night. Just before I am going to sleep, [holy_order_meeting.GetFirstName] asks if I want to stay up and converse with him.;;;;;;;;;;;Êîãäà ìû ðàçáèëè ëàãåðü íà íî÷ü, âíåçàïíî ïðèáëèæàþòñÿ âñàäíèêè ñ êðåñòîì. Âî ãëàâå ñ áëàãî÷åñòèâ[holy_order_meeting.GetOyYm] [holy_order_meeting.GetTitledFirstName] îíè óñòðàèâàþòñÿ ó íàñ íà íî÷ëåã. Ïåðåä ñàìûì ñíîì [holy_order_meeting.GetFirstName] ñïðàøèâàåò, íå õî÷ó ëè ÿ îñòàòüñÿ è ïîãîâîðèòü ñ í[holy_order_meeting.GetEyIm].;;x
+EVTDESC_HFP_42214_A;My men and I find ourselves at a bar in [current_location.GetName], as evening turns to night. An attractive serving girl seems to pay me a lot of interest, and when I am about to go to bed for the night, she is clearly interested in joining.;;;;;;;;;;;Ìîè ëþäè è ÿ îêàçûâàåìñÿ â òðàêòèðå â [current_location.GetName], êîãäà âå÷åð ïðåâðàùàåòñÿ â íî÷ü. Ïðèâëåêàòåëüíàÿ ñëóæàíêà, ïîõîæå, ïðîÿâëÿåò êî ìíå áîëüøîé èíòåðåñ, è êîãäà ÿ ñîáèðàþñü ëå÷ü ñïàòü, îíà ÿâíî çàèíòåðåñîâàíà â òîì, ÷òîáû ïðèñîåäèíèòüñÿ.;;x
+EVTDESC_HFP_42214_B;My men and I find ourselves at a bar in [current_location.GetName], as evening turns to night. An attractive serving boy seems to pay me a lot of interest, and when I am about to go to bed for the night, he is clearly interested in joining.;;;;;;;;;;;Ìîè ëþäè è ÿ îêàçûâàåìñÿ â òðàêòèðå â [current_location.GetName], êîãäà âå÷åð ïðåâðàùàåòñÿ â íî÷ü. Ïðèâëåêàòåëüíûé ïàðåíü-ñëóãà, êàæåòñÿ, ïðîÿâëÿåò êî ìíå áîëüøîé èíòåðåñ, è êîãäà ÿ ñîáèðàþñü ëå÷ü ñïàòü, îí ÿâíî çàèíòåðåñîâàí â òîì, ÷òîáû ïðèñîåäèíèòüñÿ.;;x
+EVTDESC_HFP_42215;I have noticed that my men seem somewhat restless these last days. Our stay in [current_location.GetName] has taken its toll on them, and they seem a bit demotivated.;;;;;;;;;;;ß çàìåòèë[Root.GetEndA], ÷òî ìîè ëþäè êàæóòñÿ íåñêîëüêî áåñïîêîéíûìè â ïîñëåäíèå äíè. Íàøå ïðåáûâàíèå â [current_location.GetName] ïîâëèÿëî íà íèõ, è îíè âûãëÿäÿò íåìíîãî äåìîòèâèðîâàííûìè.;;x
+EVTDESC_HFP_42220;I find myself walking through the ancient streets of Rome. Once a part of the Roman Empire, then a part of the Papal States. It used to be the very center of the world, and the core lands of the faith. Now it is not even [Root.Religion.GetName].;;;;;;;;;;;ß ëîâëþ ñåáÿ íà òîì, ÷òî èäó ïî äðåâíèì óëèöàì Ðèìà. Íåêîãäà ÷àñòü Ðèìñêîé èìïåðèè, çàòåì ÷àñòü Ïàïñêîãî ãîñóäàðñòâà. Êîãäà-òî ýòî áûë èñòèííûé öåíòð ìèðà è îñíîâíûå çåìëè âåðû. Òåïåðü îí äàæå íå ïîä÷èíÿåòñÿ [Root.Religion.GetName].;;x
+EVTDESC_HFP_42221;Once a bastion of the faith, Antioch has fallen from greatness. I look around the city and see the potential to become a center of the faith once more, it if is led by a true [Root.Religion.GetGroupName]. ;;;;;;;;;;;Íåêîãäà îïëîò âåðû, Àíòèîõèÿ óòðàòèëà ñâî¸ áûëîå âåëè÷èå. ß îñìàòðèâàþ ãîðîä è âèæó â í¸ì ïîòåíöèàë ñíîâà ñòàòü öåíòðîì âåðû, åñëè åãî âîçãëàâèò èñòèíí[Root.GetAyaYy] [Root.Religion.GetGroupName].;;x
+EVTDESC_HFP_42222;Once Saint Paul walked across the shores of Cyprus to spread the faith of [Root.Religion.GetHighGodName], but now it has been lost to the infidels. If only we could restore it as a place of faith and virtue.;;;;;;;;;;;Êîãäà-òî ñâÿòîé Ïàâåë ø¸ë ïî áåðåãàì Êèïðà, ÷òîáû ðàñïðîñòðàíÿòü âåðó â [Root.Religion.GetHighGodName]à, íî òåïåðü ýòîò îñòðîâ ïîòåðÿí èç-çà íåâåðíûõ. Åñëè áû ìû òîëüêî ìîãëè âîññòàíîâèòü åãî êàê ìåñòî âåðû è äîáðîäåòåëè.;;x
+EVTDESC_HFP_42223;Jerusalem, the beating heart of the faith, has been filled with infidels. Everywhere I look, I see men and women who are clearly not of the faith. The shame stings me to the very depths of my heart.;;;;;;;;;;;Èåðóñàëèì, áüþùååñÿ ñåðäöå âåðû, áûë çàïîëíåí íåâåðíûìè. Êóäà áû ÿ íè ïîñìîòðåë[Root.GetEndA], ÿ âèæó ìóæ÷èí è æåíùèí, ÿâíî íå ïðèíàäëåæàùèõ ê èñòèííîé âåðå. Ñòûä ïðîíçàåò ìåíÿ äî ãëóáèíû äóøè.;;x
+EVTDESC_HFP_42305;The bitter losses in the previous Crusade are still lingering across the Christian lands. The messengers of the Pope have traveled across all the faithful realms of the [From.Religion.GetGroupName]s to spread the Crusader spirit among the people, but the nobility has tired from the previous war.\n\nWith the Pope at the forefront, small revolts have occurred as the people want to reconquer the holy places of the faith, with the lords and ladies somewhat skeptical. It is most likely only a matter of time before a larger conflict between the masses and the nobility will take place. ;;;;;;;;;;;Ãîðüêèå ïîòåðè îò ïðåäûäóùåãî Êðåñòîâîãî ïîõîäà âñ¸ åù¸ îùóùàþòñÿ íà õðèñòèàíñêèõ çåìëÿõ. Ïîñëàííèêè Ïàïû ïóòåøåñòâîâàëè ïî âñåì âëàäåíèÿì, âåðíûì [From.Religion.GetGroupName], ÷òîáû ðàñïðîñòðàíÿòü äóõ êðåñòîíîñöåâ ñðåäè íàðîäà, íî äâîðÿíñòâî óñòàëî îò ïðåäûäóùåé âîéíû.\n\nÏîä ðóêîâîäñòâîì Ïàïû ïðîèñõîäÿò íåáîëüøèå âîññòàíèÿ, ïîñêîëüêó ëþäè õîòÿò îòâîåâàòü ñâÿòûå ìåñòà äëÿ âåðû, à ëîðäû è ëåäè íàñòðîåíû íåñêîëüêî ñêåïòè÷åñêè. Ñêîðåå âñåãî, ýòî ëèøü âîïðîñ âðåìåíè, êîãäà ïðîèçîéä¸ò áîëåå êðóïíûé êîíôëèêò ìåæäó íàðîäíûìè ìàññàìè è çíàòüþ.;;x
+EVTDESC_HFP_42307;With a bellowing shout, [shepherds_leader.GetFirstName] launches the Crusade of poor souls from [shepherds_province.GetName]. Men and women from all across the [shepherds_province.Culture.GetName] lands have gathered to witness this momentous event, with not a single lord or lady to lead them, nor to be seen among the populace.\n\nSupposedly guided by the hand of [shepherds_leader.Religion.GetHighGodName], [shepherds_leader.GetSheHe] commands the shepherds, fletchers and blacksmiths apprentices to march towards [kingdom_target.GetBaseName]. It is a long and perilous path, with many challenges waiting for them. Without supply lines nor help from the locals, they are unlikely to ever reach their destination.\n\nCan the miracles of [shepherds_leader.Religion.GetHighGodName] truly save them from the fate everyone expects them to have?;;;;;;;;;;;Ñ ãðîìêèì êðèêîì [shepherds_leader.GetFirstName] íà÷èíàåò êðåñòîâûé ïîõîä áåäíûõ äóø èç [shepherds_province.GetName]. Ìóæ÷èíû è æåíùèíû ñî âñåõ çåìåëü [shepherds_province.GetCultureAdj] ñîáðàëèñü, ÷òîáû ñòàòü ñâèäåòåëÿìè ýòîãî çíàìåíàòåëüíîãî ñîáûòèÿ, è íè îäèí ëîðä èëè ëåäè íå âîçãëàâëÿåò èõ, è èõ íå âèäíî ñðåäè íàñåëåíèÿ.\n\nÏðåäïîëîæèòåëüíî, âåäîì[shepherds_leader.GetAyaYy] ðóêîé [shepherds_leader.Religion.GetHighGodName]à, [shepherds_leader.GetSheHe] ïðèêàçûâàåò ïàñòóõàì, ëó÷íèêàì è ó÷åíèêàì êóçíåöîâ èäòè ê [kingdom_target.GetBaseName]. Ýòî äîëãèé è îïàñíûé ïóòü, ñî ìíîãèìè èñïûòàíèÿìè, îæèäàþùèìè èõ. Áåç îðãàíèçàöèè ñíàáæåíèÿ è ïîìîùè ìåñòíûõ æèòåëåé îíè âðÿä ëè êîãäà-ëèáî äîñòèãíóò ìåñòà íàçíà÷åíèÿ.\n\nÌîãóò ëè ÷óäåñà [shepherds_leader.Religion.GetHighGodName]à äåéñòâèòåëüíî ñïàñòè ýòèõ ëþäåé îò ñóäüáû, êîòîðàÿ îæèäàåò èõ?;;x
+EVTDESC_HFP_42308;[From.GetFirstName] finally had [From.GetHerHis] people stand down as the losses against [FromFrom.GetTitledName] proved to be too costly. Most of the army were executed right there and then, and [From.GetFirstName] brought back to [FromFrom.Capital.GetName] to show everyone what happens to peasants who try to attack their betters.\n\nAfter all, nobody ever believed the peasants would win against the battle hardened armies of [FromFrom.PrimaryTitle.GetName].;;;;;;;;;;;[From.GetFirstName], íàêîíåö-òî, âûíóäèë[From.GetEndA] ñâîèõ ëþäåé îòñòóïèòü, ïîñêîëüêó ïîòåðè â âîéíå ïðîòèâ [FromFrom.GetTitledFirstName] îêàçàëèñü ñëèøêîì áîëüøèìè. Áîëüøàÿ ÷àñòü àðìèè áûëà êàçíåíà ïðÿìî òàì, à [From.GetFirstName] âåðíóëè â [FromFrom.Capital.GetName], ÷òîáû ïîêàçàòü âñåì, ÷òî áûâàåò ñ êðåñòüÿíàìè, êîòîðûå ïûòàþòñÿ íàïàñòü íà ëó÷øèõ âîèíîâ.\n\nÂ êîíöå êîíöîâ, íèêòî íèêîãäà íå âåðèë, áóäòî êðåñòüÿíå ñìîãóò ïîáåäèòü çàêàë¸ííûå â áîÿõ àðìèè [FromFrom.PrimaryTitle.GetName].;;x
+EVTDESC_HFP_42309;With pitchforks and hammers in hand, the shepherds rush the final bastions of defense in [From.PrimaryTitle.GetBaseName]. The skeptics were many, but nobody could make the miraculous group of brave men and women stop their quest for the [From.PrimaryTitle.GetAdjective] lands.\n\nThe rest of the world looks to the new [From.GetKingQueen] with awe and confusion, as [From.GetDynName] takes the throne for [From.GetHerselfHimself]. Peasant no more, nobody can deny [From.GetHerHis] right to the throne. For who else than [From.Religion.GetHighGodName] could have guided [From.GetTitledFirstName] to victory?;;;;;;;;;;;Ñ âèëàìè è ìîëîòàìè â ðóêàõ ïàñòóõè øòóðìóþò ïîñëåäíèå áàñòèîíû îáîðîíû â [From.PrimaryTitle.GetBaseName]. Ñêåïòèêîâ áûëî ìíîãî, íî íèêòî íå ìîã çàñòàâèòü óäèâèòåëüíóþ ãðóïïó õðàáðûõ ìóæ÷èí è æåíùèí ïðåêðàòèòü ñâîé ïîõîä â çåìëè [From.PrimaryTitle.GetAdjective].\n\nÎñòàëüíîé ìèð ñìîòðèò íà íîâ[From.GetUyuOgo] [From.GetKingQueen] ñ áëàãîãîâåíèåì è çàìåøàòåëüñòâîì, ïîñêîëüêó [From.GetDynName] ëè÷íî çàíèìàåò òðîí. Êðåñòüÿíèí óæå íå òîò, êåì áûë ðàíüøå, íèêòî íå ìîæåò ëèøèòü [From.GetHerHis] ïðàâà íà òðîí. Èáî êòî, êàê íå [From.Religion.GetHighGodName], ìîã ïðèâåñòè [From.GetTitledFirstName] ê ïîáåäå?;;x
+EVTDESC_HFP_42310;Without the guidance of [From.GetFirstName], the men and women of the aptly named Shepherds' Crusade have started to fall apart. [From.GetHerHisCap] death broke the morale of the peasant army, and they have fled to all the corners of the world.\n\nAfter all, who ever truly believed the peasants could conquer anything on their own?;;;;;;;;;;;Áåç ðóêîâîäñòâà [From.GetFirstName] àðìèÿ ìóæ÷èí è æåíùèí, èç ìåòêî íàçâàííîãî Êðåñòîâîãî ïîõîäà ïàñòóøêîâ, íà÷èíàåò ðàçâàëèâàòüñÿ. [From.GetHerHisCap] ñìåðòü ñëîìèëà áîåâîé äóõ êðåñòüÿíñêîé àðìèè, è îíè ðàçáåæàëèñü ïî âñåì óãîëêàì ìèðà.\n\nÂ êîíöå êîíöîâ, êòî âîîáùå èñêðåííå âåðèë, áóäòî êðåñòüÿíå ìîãóò ÷òî-òî çàâîåâàòü ñàìîñòîÿòåëüíî?;;x
+EVTDESC_HFP_42321;The massive army of peasants have gathered outside of my doorstep at [current_location.GetName]. Their commander, [shepherds_leader.GetFirstName], is asking me for aid in their Crusade.;;;;;;;;;;;Îãðîìíàÿ àðìèÿ êðåñòüÿí ñîáðàëàñü ó ìîåãî ïîðîãà â [current_location.GetName]. Èõ êîìàíäèð, [shepherds_leader.GetFirstName], ïðîñèò ìåíÿ î ïîìîùè â èõ Êðåñòîâîì ïîõîäå.;;x
+EVTDESC_HFP_42322;The troublemakers of the peasant Crusade have demanded that I expel all the Jews from the realm. According to their leader, [shepherds_leader.GetFirstName], they are not true believers in [shepherds_leader.Religion.GetHighGodName].;;;;;;;;;;;Ñìóòüÿíû èç êðåñòüÿíñêîãî êðåñòîâîãî ïîõîäà ïîòðåáîâàëè, ÷òîáû ÿ èçãíàë[Root.GetEndA] âñåõ åâðååâ èç ñâîèõ âëàäåíèé. Ïî ñëîâàì ëèäåðà ïàñòóøêîâ, [shepherds_leader.GetFirstName], åâðåè íå ÿâëÿþòñÿ èñòèííûìè âåðóþùèìè â [shepherds_leader.Religion.GetHighGodName]à.;;x
+EVTDESC_HFP_42323;As expected, the rebellious peasants of the Shepherds' Crusade have started causing chaos among the local populace of [current_location.GetName]. My people look to me, to stop these foreign elements intruding upon our lands.;;;;;;;;;;;Êàê è îæèäàëîñü, ìÿòåæíûå êðåñòüÿíå èç Êðåñòîâîãî ïîõîäà ïàñòóøêîâ íà÷àëè ñåÿòü õàîñ ñðåäè ìåñòíîãî íàñåëåíèÿ â [current_location.GetName]. Ìåñòíûé  íàðîä ñìîòðèò íà ìåíÿ, â íàäåæäå îñòàíîâèòü ýòèõ ÷óæåçåìöåâ, âòîðãøèõñÿ íà íàøè çåìëè.;;x
+EVTDESC_HFP_42324;As the Shepherds' Crusade passes by [current_location.GetName], I see an influx of peasants settle down in the area. It seems some of them reconsider their choices, as the Crusade still has a way to go.;;;;;;;;;;;Êîãäà Êðåñòîâûé ïîõîä ïàñòóøêîâ ïðîõîäèò ìèìî [current_location.GetName], ÿ âèæó íàïëûâ êðåñòüÿí, îñåäàþùèõ â ýòîì ðàéîíå. Ïîõîæå, íåêîòîðûå èç íèõ èçìåíèëè ñâîé âûáîð, âåäü Êðåñòîâîìó ïîõîäó åù¸ ïðåäñòîèò ïðîéòè äîëãèé ïóòü.;;x
+EVTDESC_HFP_42325;After publicly declaring the Shepherds' Crusade a heretical group of pillagers, [local_bishop.GetTitledName] was executed at the hands of [From.GetFirstName].;;;;;;;;;;;Ïîñëå ïóáëè÷íîãî îáúÿâëåíèÿ Êðåñòîâîãî ïîõîäà ïàñòóøêîâ, [local_bishop.GetTitledFirstName] áûë[local_bishop.GetEndA] êàçíåí[local_bishop.GetEndA] åðåòè÷åñêîé ãðóïïîé ìàðîä¸ðîâ ïî ïðèêàçó [From.GetFirstName].;;x
+EVTDESC_HFP_42330;The cursed [From.Religion.GetName] peasants have entered [current_location.GetName] and have started causing issues among the people. If this keeps going, it is only a matter of time before chaos will ensue. ;;;;;;;;;;;Ïðîêëÿòûå êðåñòüÿíå [From.Religion.GetName] âîøëè â [current_location.GetName] è íà÷àëè ñîçäàâàòü ïðîáëåìû äëÿ ìåñòíûõ æèòåëåé. Åñëè òàê ïîéä¸ò è äàëüøå, òî íàñòóïëåíèå õàîñà - ëèøü âîïðîñ âðåìåíè.;;x
+EVTOPTA_HFP_42000;[duchy_region.GetBaseName] sounds like an appropriate part of [Root.PrimaryTitle.GetName].;;;;;;;;;;;[duchy_region.GetBaseName] òåïåðü [Root.PrimaryTitle.GetBaseName].;;x
+EVTOPTA_HFP_42000_TT_1;§Y[Root.GetTitledName]§! usurps all the titles in the §YDuchy of [duchy_region.GetBaseName]§!.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! ïîëó÷èò âñå òèòóëû â ïðåäåëàõ §Yãåðöîãñòâà [duchy_region.GetBaseName]§!.;;x
+EVTOPTA_HFP_42000_TT_2;§YAll Pledged Crusaders§! opinion of §Y[Root.GetTitledName]§! changes by §R-20§! for §Y10§! years. §Y(Self-serving Crusader)§!;;;;;;;;;;;Îòíîøåíèå âñåõ §Yïðàâèòåëåé-êðåñòîíîñöåâ§! ê [Root.GetAgedPersonDAT], èçâåñòíî[Root.GetYMu] êàê §Y[Root.GetTitledFirstName]§!, èçìåíèòñÿ íà §R-20§! íà ñëåäóþùèå §Y10§! ëåò. §Y(Êðåñòîíîñåö-ýãîèñò[Root.GetEndKa]);;x
+EVTOPTA_HFP_42001;Fight on, brothers and sisters!;;;;;;;;;;;Ñðàæàéòåñü, áðàòüÿ è ñ¸ñòðû!;;x
+EVTOPTA_HFP_42002;I will legitimize it myself!;;;;;;;;;;;ß ñàì[Root.GetEndA] óçàêîíþ ýòî!;;x
+EVTOPTA_HFP_42002_TT;Legitimize [old_crusade_title.GetName] as the new rightful Duchy of the region. This will delegitimize the old Duchy of [duchy_title.GetName].;;;;;;;;;;;Óçàêîíèòü íîâûé òèòóë, ïðîâîçãëàñèâ, ÷òî [old_crusade_title.GetName] òåïåðü íîâîå ãåðöîãñòâî ðåãèîíà. [duchy_title.GetName] ïðåêðàòèò ñâî¸ ñóùåñòâîâàíèå.;;x
+EVTOPTA_HFP_42003;Disappointing that anyone can be so self-serving.;;;;;;;;;;;Ðàçî÷àðîâûâàåò, ÷òî êòî-òî ìîæåò áûòü íàñòîëüêî êîðûñòíûì.;;x
+EVTOPTA_HFP_42201;Thank you, I will accept your offer.;;;;;;;;;;;— Ñïàñèáî, ÿ ïðèìó Âàøå ïðåäëîæåíèå.;;x
+EVTOPTA_HFP_42202;I should try to learn as much as I can about these lands while I still can!;;;;;;;;;;;Íàäî óçíàòü êàê ìîæíî áîëüøå î ìåñòíûõ îáû÷àÿõ, ïîêà ÿ çäåñü.;;x
+EVTOPTA_HFP_42203;I will bury the Crusaders.;;;;;;;;;;;ß ïîõîðîíþ êðåñòîíîñöåâ.;;x
+EVTOPTA_HFP_42204;That thing, that looks nice.;;;;;;;;;;;— Ýòà øòóêà âûãëÿäèò íåïëîõî.;;x
+EVTOPTA_HFP_42205;I have to keep going.;;;;;;;;;;;ß äîëæ[Root.GetNaEn] ïðîäîëæàòü.;;x
+EVTOPTA_HFP_42206;[Root.Religion.GetHighGodName] guides our hand in this just war!;;;;;;;;;;;[Root.Religion.GetHighGodName] íàïðàâëÿåò íàñ â ýòîé ïðàâåäíîé âîéíå!;;x
+EVTOPTA_HFP_42207;Leave some for me!;;;;;;;;;;;Îñòàâüòå íåêîòîðûõ äëÿ ìåíÿ!;;x
+EVTOPTA_HFP_42208;Let me help you spread your faith, friends.;;;;;;;;;;;Ïîçâîëüòå ìíå ïîìî÷ü âàì ðàñïðîñòðàíèòü âàøó âåðó, äðóçüÿ.;;x
+EVTOPTA_HFP_42209;No matter, there was not a lot of money left in it.;;;;;;;;;;;Íåâàæíî, â í¸ì îñòàëîñü íå òàê ìíîãî äåíåã..;;x
+EVTOPTA_HFP_42210;I will learn what he has to offer, blasphemy or not.;;;;;;;;;;;ß óçíàþ, ÷òî îí ìîæåò ïðåäëîæèòü, áîãîõóëüñòâî ýòî èëè íåò.;;x
+EVTOPTA_HFP_42211;Let us take part in the festivities!;;;;;;;;;;;Äàâàéòå ïðèìåì ó÷àñòèå â ïðàçäíèêå!;;x
+EVTOPTA_HFP_42212;It must be so!;;;;;;;;;;;Òàê è äîëæíî áûòü!;;x
+EVTOPTA_HFP_42213;A great opportunity for friendship.;;;;;;;;;;;Ïðåêðàñíàÿ âîçìîæíîñòü äëÿ äðóæáû.;;x
+EVTOPTA_HFP_42214;I am not here to pick up foreigners.;;;;;;;;;;;ß çäåñü íå äëÿ òîãî, ÷òîáû ïîäáèðàòü èíîñòðàíöåâ.;;x
+EVTOPTA_HFP_42215;I will drill the men back into a fighting force!;;;;;;;;;;;ß âåðíó ìîèì âîèíàì ñèëû äëÿ áèòâû!;;x
+EVTOPTA_HFP_42220;A depressing twist of faith.;;;;;;;;;;;Óäðó÷àþùåå èñêàæåíèå âåðû.;;x
+EVTOPTA_HFP_42221;One day, it will live up to the name Theopolis once more.;;;;;;;;;;;Îäíàæäû îí ñíîâà îïðàâäàåò ñâî¸ íàçâàíèå êàê Ãîðîä Âåðû.;;x
+EVTOPTA_HFP_42222;Sadly, the island has been lost...;;;;;;;;;;;Ê ñîæàëåíèþ, îñòðîâ áûë óòðà÷åí...;;x
+EVTOPTA_HFP_42223;How could this be?;;;;;;;;;;;Êàê òàêîå ìîæåò áûòü?;;x
+EVTOPTA_HFP_42305;This is not going to end well...;;;;;;;;;;;Ýòî äîáðîì íå êîí÷èòñÿ...;;x
+EVTOPTA_HFP_42307;Peasants? In a Crusade?;;;;;;;;;;;Êðåñòüÿíå? Â Êðåñòîâîì ïîõîäå?;;x
+EVTOPTA_HFP_42308;As expected.;;;;;;;;;;;Êàê è îæèäàëîñü.;;x
+EVTOPTA_HFP_42309;The peasants won?;;;;;;;;;;;Êðåñòüÿíå ïîáåäèëè?;;x
+EVTOPTA_HFP_42310;As expected.;;;;;;;;;;;Êàê è îæèäàëîñü.;;x
+EVTOPTA_HFP_42321;They are free to pass through, but do it quickly.;;;;;;;;;;;Îíè ìîãóò ñâîáîäíî ïðîõîäèòü, íî ïóñòü äåëàþò ýòî áûñòðî.;;x
+EVTOPTA_HFP_42322;I decide in [Root.PrimaryTitle.GetName]!;;;;;;;;;;;ß ïðèíèìàþ ðåøåíèÿ â [Root.PrimaryTitle.GetName]!;;x
+EVTOPTA_HFP_42323;It is probably safer to just let them pass through.;;;;;;;;;;;Âîçìîæíî, áåçîïàñíåå áóäåò ïðîñòî ïîçâîëèòü èì ïðîéòè.;;x
+EVTOPTA_HFP_42323_TT;The §RProsperity§! of §Y[current_location.GetName]§! will decrease.;;;;;;;;;;;§RÏðîöâåòàíèå§! îêðóãà §Y[current_location.GetName]§! ñîêðàòèòñÿ.;;x
+EVTOPTA_HFP_42324;We could always use a helping hand or two.;;;;;;;;;;;Íàì âñåãäà ïðèãîäèòñÿ ðóêà ïîìîùè èëè äâå.;;x
+EVTOPTA_HFP_42325;[local_bishop.GetSheHeCap] brought this on [local_bishop.GetHerselfHimself].;;;;;;;;;;;[local_bishop.GetSheHeCap] ñàì[local_bishop.GetEndA] ïðèâåë[local_bishop.GetEndA] ê ýòîìó.;;x
+EVTOPTA_HFP_42330;It is probably just better to wait for them to leave.;;;;;;;;;;;Äóìàþ, ëó÷øå ïîäîæäàòü, ïîêà îíè óéäóò.;;x
+EVTOPTB_HFP_42000;I will find a suitable ruler for this new land.;;;;;;;;;;;Ó ìåíÿ åñòü ïîäõîäÿùèé ïðàâèòåëü äëÿ íèõ.;;x
+EVTOPTB_HFP_42000_TT;§Y[current_crusade_beneficiary.GetTitledName]§! will become an independent §Y[current_crusade_beneficiary.GetDukeDuchessCap] of [duchy_region.GetBaseName]§!.;;;;;;;;;;;§Y[current_crusade_beneficiary.GetTitledFirstName]§! ñòàíåò íåçàâèñèì[current_crusade_beneficiary.GetOyYm] §Y[current_crusade_beneficiary.GetDukeDuchessINS]§! ãîñóäàðñòâà §Y[duchy_region.GetBaseName]§!.;;x
+EVTOPTB_HFP_42001;Cursed [From.Religion.GetGroupName]s!;;;;;;;;;;;Ïðîêëÿòûå [From.GetReligionGroupPersons]!;;x
+EVTOPTB_HFP_42002;The title has served us well. Rest, old friend.;;;;;;;;;;;Òèòóë ñîñëóæèë íàì õîðîøóþ ñëóæáó. Îòäûõàé, ñòàðûé äðóã.;;x
+EVTOPTB_HFP_42201;I am here to fight the infidels, not to make friends.;;;;;;;;;;;— ß çäåñü, ÷òîáû ñðàæàòüñÿ ñ íåâåðíûìè, à íå çàâîäèòü äðóçåé.;;x
+EVTOPTB_HFP_42202;I will try to befriend one of the locals.;;;;;;;;;;;ß ïîñòàðàþñü ïîäðóæèòüñÿ ñ êåì-íèáóäü èç ìåñòíûõ æèòåëåé.;;x
+EVTOPTB_HFP_42203;I will bury everyone.;;;;;;;;;;;ß ïîõîðîíþ âñåõ.;;x
+EVTOPTB_HFP_42204;Die, infidels!;;;;;;;;;;;— Ñìåðòü íåâåðíûì!;;x
+EVTOPTB_HFP_42205;Maybe I just need to try to relax, and stop overworking myself.;;;;;;;;;;;Ìîæåò áûòü, ìíå ïðîñòî íóæíî ïîñòàðàòüñÿ ðàññëàáèòüñÿ è ïåðåñòàòü ïåðåòðóæäàòü ñåáÿ.;;x
+EVTOPTB_HFP_42206;All right, now get back to work men.;;;;;;;;;;;Õîðîøî, à òåïåðü âîçâðàùàéòåñü ê äåëàì, ìîè âîèíû.;;x
+EVTOPTB_HFP_42207;[Root.Religion.GetHighGodName] would never approve...;;;;;;;;;;;[Root.Religion.GetHighGodName] íèêîãäà íå îäîáðèò...;;x
+EVTOPTB_HFP_42208;Would you like to join my court back in [Root.Capital.GetName]?;;;;;;;;;;;Íå õîòèòå ëè âû ïðèñîåäèíèòüñÿ ê ìîåìó äâîðó â [Root.Capital.GetName]?;;x
+EVTOPTB_HFP_42209;Let us find that kid and make him pay.;;;;;;;;;;;Äàâàéòå íàéä¸ì ýòîãî ðåá¸íêà è çàñòàâèì åãî çàïëàòèòü.;;x
+EVTOPTB_HFP_42210;Blasphemers must die, but libraries contain knowledge...;;;;;;;;;;;Íå÷åñòèâöû äîëæíû óìåðåòü, íî áèáëèîòåêè õðàíÿò öåííûå çíàíèÿ.;;x
+EVTOPTB_HFP_42211;It is not befitting of a true [Root.Religion.GetGroupName].;;;;;;;;;;;Ýòî íå ñîîòâåòñòâóåò èñòèíå [Root.Religion.GetGroupName].;;x
+EVTOPTB_HFP_42212;Maybe I should not have had that much to drink.;;;;;;;;;;;Ìîæåò áûòü, ìíå íå ñòîèëî òàê ìíîãî ïèòü.;;x
+EVTOPTB_HFP_42213;My apologies, but it is too late for that.;;;;;;;;;;;Ïðèíîøó ñâîè èçâèíåíèÿ, íî äëÿ ýòîãî óæå ñëèøêîì ïîçäíî.;;x
+EVTOPTB_HFP_42214;Nobody will know about just one night.;;;;;;;;;;;Íèêòî íå óçíàåò îá îäíîé íî÷è.;;x
+EVTOPTB_HFP_42215;They just need some inspiration!;;;;;;;;;;;Èì ïðîñòî íóæíî íåìíîãî âäîõíîâåíèÿ!;;x
+EVTOPTB_HFP_42220;Rome belongs to us!;;;;;;;;;;;Ðèì ïðèíàäëåæèò íàì!;;x
+EVTOPTB_HFP_42220_TT;You and your men capture the city from the infidels, in an attempt to restore it to the true faith.;;;;;;;;;;;Âû è Âàøè ëþäè çàõâàòÿò Ðèì ó èíîâåðöåâ, ÷òîáû âîññòàíîâèòü èñòèííóþ âåðó.;;x
+EVTOPTB_HFP_42221;We will restore the city of [Root.Religion.GetHighGodName]!;;;;;;;;;;;Ìû âîññòàíîâèì ãîðîä [Root.Religion.GetHighGodName]à!;;x
+EVTOPTB_HFP_42221_TT;You and your men capture the city from the infidels, in an attempt to restore it to the true faith.;;;;;;;;;;;Âû è Âàøè ëþäè çàõâàòÿò ãîðîä ó èíîâåðöåâ, ÷òîáû âîññòàíîâèòü òàì èñòèííóþ âåðó.;;x
+EVTOPTB_HFP_42222;For the glory of [Root.Religion.GetHighGodName] we fight!;;;;;;;;;;;Ìû ñðàæàåìñÿ âî ñëàâó [Root.Religion.GetHighGodName]à!;;x
+EVTOPTB_HFP_42222_TT;You and your men capture the city from the infidels, in an attempt to restore it to the true faith.;;;;;;;;;;;Âû è Âàøè ëþäè çàõâàòÿò ãîðîä ó èíîâåðöåâ, ÷òîáû âîññòàíîâèòü òàì èñòèííóþ âåðó.;;x
+EVTOPTB_HFP_42223;We will take Jerusalem!;;;;;;;;;;;Ìû âîçüì¸ì Èåðóñàëèì!;;x
+EVTOPTB_HFP_42223_TT;You and your men capture the city from the infidels, in an attempt to restore it to the true faith.;;;;;;;;;;;Âû è Âàøè ëþäè çàõâàòÿò Èåðóñàëèì ó èíîâåðöåâ, ÷òîáû âîññòàíîâèòü òàì èñòèííóþ âåðó.;;x
+EVTOPTB_HFP_42307;Peasants? Pathetic.;;;;;;;;;;;Êðåñòüÿíå? Êàê ïå÷àëüíî.;;x
+EVTOPTB_HFP_42321;A Crusade you say? Interesting...;;;;;;;;;;;Êðåñòîâûé ïîõîä, ãîâîðèòå? Èíòåðåñíî...;;x
+EVTOPTB_HFP_42321_TT;You will ally with the Shepherds' Crusade;;;;;;;;;;;Âû ïîìîæåòå êðåñòîâîìó ïîõîäó ïàñòóøêîâ;;x
+EVTOPTB_HFP_42322;Maybe [shepherds_leader.GetSheHe] is right after all?;;;;;;;;;;;Ìîæåò áûòü, [shepherds_leader.GetSheHe] âñ¸-òàêè ïðàâ[shepherds_leader.GetEndA]?;;x
+EVTOPTB_HFP_42323;Threading upon my lands is punishable by death.;;;;;;;;;;;Íàïàäåíèå íà ìîè çåìëè êàðàåòñÿ ñìåðòüþ.;;x
+EVTOPTB_HFP_42323_TT;You will treat §Y[From.GetTitledName]§! and [From.GetHerHis] forces as a hostile entity in your lands.;;;;;;;;;;;Ïóñòü §Y[From.GetTitledFirstName]§! óçíàåò, ÷òî [From.GetHersHis] âîéñêàì çäåñü íå ðàäû.;;x
+EVTOPTB_HFP_42324;Deserters have no place in [current_location.GetName], get back to the Crusade!;;;;;;;;;;;Äåçåðòèðàì íå ìåñòî â [current_location.GetName], âîçâðàùàéòåñü ê Êðåñòîâîìó ïîõîäó!;;x
+EVTOPTB_HFP_42325;It is time to put an end to them.;;;;;;;;;;;Ïðèøëî âðåìÿ ïîêîí÷èòü ñ íèìè.;;x
+EVTOPTB_HFP_42330;I will fight them off myself!;;;;;;;;;;;ß ñàì[Root.GetEndA] áóäó îòáèâàòüñÿ îò íèõ!;;x
+EVTOPTC_HFP_42000;I have no interest in these lands.;;;;;;;;;;;Ìíå íå íóæíû ýòè çåìëè.;;x
+EVTOPTC_HFP_42001;I wonder what life would have been like in [duchy_region.GetBaseName].;;;;;;;;;;;Ýõ, [duchy_region.GetBaseName]. Èíòåðåñíî, êàêîâî æèòü òàì?;;x
+EVTOPTC_HFP_42002;Legitimate or not, I will keep the title.;;;;;;;;;;;Çàêîííî èëè íåò, íî ÿ ñîõðàíþ ýòîò òèòóë.;;x
+EVTOPTC_HFP_42003;It was my right.;;;;;;;;;;;Ýòî ìî¸ ïðàâî!;;x
+EVTOPTC_HFP_42100;I will leave [Root.PrimaryTitle.GetName] behind to settle down in [duchy_region.GetBaseName] personally.;;;;;;;;;;;ß îòðåêóñü îò òèòóëà. Îòíûíå [duchy_region.GetBaseName] - ìîé íîâûé äîì.;;x
+EVTOPTC_HFP_42101;I miss [From.GetFirstName]...;;;;;;;;;;;Ìíå áóäåò [From.GetHersHis] íå õâàòàòü...;;x
+EVTOPTC_HFP_42202;Perish these blasphemous thoughts!;;;;;;;;;;;Äà ñãèíóò ýòè áîãîõóëüíûå ìûñëè!;;x
+EVTOPTC_HFP_42203;Maybe I could salvage some valuables?;;;;;;;;;;;Íî ìîæíî ñïàñòè íåêîòîðûå öåííîñòè.;;x
+EVTOPTC_HFP_42204;Thank you, but I have to be on my way.;;;;;;;;;;;— Ñïàñèáî, íî ìíå ïîðà â ïóòü.;;x
+EVTOPTC_HFP_42205;[Root.Religion.GetHighGodName] will guide me through these hardships.;;;;;;;;;;;[Root.Religion.GetHighGodName] ïðîâåä¸ò ìåíÿ ÷åðåç ýòè òðóäíîñòè.;;x
+EVTOPTC_HFP_42206;I am blessed by [Root.Religion.GetHighGodName]!;;;;;;;;;;;Ìåíÿ áëàãîñëîâëÿåò [Root.Religion.GetHighGodName]!;;x
+EVTOPTC_HFP_42207;Sadly, examples must be made.;;;;;;;;;;;Ê ñîæàëåíèþ, îíè äîëæíû ñòàòü ïðèìåðîì.;;x
+EVTOPTC_HFP_42208;Thank you for your hospitality.;;;;;;;;;;;Ñïàñèáî çà âàøå ãîñòåïðèèìñòâî.;;x
+EVTOPTC_HFP_42209;Maybe he could be of use to me?;;;;;;;;;;;Âîçìîæíî, îí áóäåò ìíå ïîëåçåí?;;x
+EVTOPTC_HFP_42210;Maybe [current_location.Religion.GetName] has more to offer than [Root.Religion.GetName]?;;;;;;;;;;;Ìîæåò áûòü, [current_location.Religion.GetName] ìîæåò ïðåäëîæèòü áîëüøå, ÷åì [Root.Religion.GetName]?;;x
+EVTOPTC_HFP_42210_TT;§Y[Root.GetTitledName]§! starts secretly practicing the §Y[current_location.Religion.GetName]§! faith;;;;;;;;;;;Âû íà÷í¸òå òàéíî èñïîâåäîâàòü §Y[current_location.GetReligionFullName]§!;;x
+EVTOPTC_HFP_42211;Maybe these harvest festivals are to the real gods?;;;;;;;;;;;Ìîæåò áûòü, ýòè ïðàçäíèêè óðîæàÿ ïîñâÿùåíû íàñòîÿùèì áîãàì?;;x
+EVTOPTC_HFP_42212;I have been called to join the [decided_holy_order.PrimaryTitle.GetName]!;;;;;;;;;;;Ìåíÿ ïðèçâàëè ïðèñîåäèíèòüñÿ ê [decided_holy_order.PrimaryTitle.GetName]!;;x
+EVTOPTC_HFP_42214;You should join me at my court!;;;;;;;;;;;Âû äîëæíû ïðèñîåäèíèòüñÿ êî ìíå ïðè ìî¸ì äâîðå!;;x
+EVTOPTC_HFP_42215;I make them unstoppable.;;;;;;;;;;;ß ñäåëàþ èõ íåóäåðæèìûìè.;;x
+EVTOPTC_HFP_42220;Maybe the [current_location.Religion.GetName] faith has more to offer us?;;;;;;;;;;;Âîçìîæíî, âåðà [current_location.Religion.GetName] ìîæåò ïðåäëîæèòü íàì áîëüøå?;;x
+EVTOPTC_HFP_42321;I will send you some of my men.;;;;;;;;;;;ß ïðèøëþ âàì íåñêîëüêî ñâîèõ ëþäåé.;;x
+EVTOPTC_HFP_42321_TT;You send some of your soldiers to join §Y[shepherds_leader.GetFirstName]§! in [shepherds_leader.GetHerHis] Crusade;;;;;;;;;;;Îòïðàâèòü ñîëäàò, ÷òîáû §Y[shepherds_leader.GetFirstName]§! ïîëó÷èë[shepherds_leader.GetEndA] îò íàñ ïîìîùü â ñâî¸ì êðåñòîâîì ïîõîäå.;;x
+EVTOPTC_HFP_42325;I never really liked [local_bishop.GetFirstName] anyways!;;;;;;;;;;;Â ëþáîì ñëó÷àå, ìíå íèêîãäà îñîáî íå íðàâèë[local_bishop.GetLasLsya] [local_bishop.GetFirstName]!;;x
+EVTOPTD_HFP_42202;I feel more [current_location.Culture.GetName] than [Root.Culture.GetName].;;;;;;;;;;;Âîîáùå, [current_location.GetCulturePlural] ïî äóõó ìíå áëèæå [Root.GetCulturePluralGEN].;;x
+EVTOPTD_HFP_42204;Hand over your valuables, peasant.;;;;;;;;;;;— Ïðîñòî îòäàé èõ ìíå, âàðâàð.;;x
+EVTOPTD_HFP_42206;Let us take a moment to thank [Root.Religion.GetRandomGodName] for this miracle.;;;;;;;;;;;Äàâàéòå ïîáëàãîäàðèì [Root.Religion.GetRandomGodName]à çà ýòî ÷óäî.;;x
+EVTOPTD_HFP_42220;I have to say the [current_location.Religion.GetGroupName]s have taken well care of [current_location.GetName] though.;;;;;;;;;;;ß äîëæ[Root.GetNaEn] ñêàçàòü, ÷òî [current_location.Religion.GetGroupName] õîðîøî ïîçàáîòèëèñü î [current_location.GetName].;;x
+EVTOPTX_HFP_42001;I wonder how long it will last...;;;;;;;;;;;Èíòåðåñíî, êàê äîëãî ýòî ïðîäëèòñÿ...;;x
+EVTTITLE_HFP_42001;Crusader [current_crusade_beneficiary.GetLordLady] of [duchy_region.GetBaseName];;;;;;;;;;;[current_crusade_beneficiary.GetLordLadyEngCap]-êðåñòîíîñåö ãîñóäàðñòâà [duchy_region.GetBaseName];;x
+EVTTITLE_HFP_42003;Crusaders take [duchy_region.GetBaseName];;;;;;;;;;;Ãåðöîãñòâî [duchy_region.GetBaseName];;x
+EVTTITLE_HFP_42101;Crusader [From.GetLordLady] of [duchy_region.GetBaseName];;;;;;;;;;;[From.GetLordLadyEngCap]-Êðåñòîíîñåö [duchy_region.GetAdjective]ñê[From.GetAyaIy];;x
+EVTTITLE_HFP_42305;Enraging the Masses;;;;;;;;;;;Ãíåâ ìàññ;;x
+EVTTITLE_HFP_42307;The Shepherds' Crusade;;;;;;;;;;;Kðåñòîâûé ïîõîä ïàñòóøêîâ;;x
+EVTTITLE_HFP_42308;The Shattered Shepherds;;;;;;;;;;;Pàçðîçíåííûå ïàñòóøêè;;x
+EVTTITLE_HFP_42309;The Shepherds of [From.PrimaryTitle.GetBaseName];;;;;;;;;;;Ïàäåíèå [From.PrimaryTitle.GetAdjective]ñêîé êðåïîñòè;;x
+EVTTITLE_HFP_42310;The Faltering Shepherds;;;;;;;;;;;Håóêëþæèå ïàñòóøêè;;x

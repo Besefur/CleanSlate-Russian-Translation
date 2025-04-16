@@ -1,273 +1,266 @@
-EVTDESC_ZE_13610;I've been having these special feelings for a special someone lately. The strange urges to find myself embraced and close to another person. If I could only find myself alone with...;;;;;;;;;;;;;x
-EVTDESC_ZE_13620;As [From.GetSheHe] is growing older, I can see that [From.GetFirstName] could use some guidance in one of my experienced areas, diplomacy. This is my chance to make an effort for the sake of [From.GetHerHis] education but what can I offer?;;;;;;;;;;;;;x
-EVTDESC_ZE_13621;As [From.GetSheHe] is growing older, I can see that [From.GetFirstName] could use some guidance in one of my experienced areas, the art of war. This is my chance to make an effort for the sake of [From.GetHerHis] education but what can I offer?;;;;;;;;;;;;;x
-EVTDESC_ZE_13622;As [From.GetSheHe] is growing older, I can see that [From.GetFirstName] could use some guidance in one of my experienced areas, stewardship. This is my chance to make an effort for the sake of [From.GetHerHis] education but what can I offer?;;;;;;;;;;;;;x
-EVTDESC_ZE_13623;As [From.GetSheHe] is growing older, I can see that [From.GetFirstName] could use some guidance in one of my experienced areas, intrigue. This is my chance to make an effort for the sake of [From.GetHerHis] education but what can I offer?;;;;;;;;;;;;;x
-EVTDESC_ZE_13624;As [From.GetSheHe] is growing older, I can see that [From.GetFirstName] could use some guidance in one of my experienced areas, learning. This is my chance to make an effort for the sake of [From.GetHerHis] education but what can I offer?;;;;;;;;;;;;;x
-EVTDESC_ZE_13625;As [From.GetSheHe] is growing older, I can see that [From.GetFirstName] could use some guidance in some of my experienced areas. It will require hard work and may not always be appreciated but this is my chance to make a self-sacrifice for the sake of [From.GetFirstName].;;;;;;;;;;;;;x
-
-EVTDESCA_ZE_13001;I am practically an adult now, and people had better listen to me if they know what's good for them.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13002;Young [From.GetFirstName] is showing strong tendencies towards prideful behavior.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13004;[From.GetTitledFirstName] disapproves of my tendencies towards pride and has told me that I should show more ambition.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13011;I find that it brings me great joy to bring joy to others.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13012;Young [From.GetFirstName] is developing a kind disposition towards others.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13014;[From.GetTitledFirstName] says [From.GetSheHe] appreciates my kind disposition but thinks I could do even more to help others.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13021;As I keep getting older, I find that humility comes naturally to me.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13022;Young [From.GetFirstName] is developing a demeanor of natural humility.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13024;[From.GetTitledFirstName] says I shouldn't try so hard to be humble but instead just be myself.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13031;I like to climb, wrestle and run - and as I grow older I am beginning to notice that I am physically stronger than others.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13032;Young [From.GetFirstName] loves physical games and is developing a strong physique.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13034;[From.GetTitledFirstName] sees that I am growing stronger but tries to encourage me to be more courageous.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13041;I've read about the great [Root.GetMenWomen] in history, and someday I want to be like them.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13042;[From.GetFirstName] is developing into an ambitious young [From.GetManWoman].;;;;;;;;;;;;;x
-EVTDESCA_ZE_13044;[From.GetTitledFirstName] says that my ambition is good but [From.GetSheHe] thinks I should be more proud of what I have.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13051;The more I think about it, the more I see that fairness and justice are things worth striving for.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13052;Young [From.GetFirstName] seems to think a lot about justice, fairness and righting the many wrongs in the world.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13054;[From.GetTitledFirstName] thinks I should not speak so much of righting the wrongs of others.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13061;I don't need many things - I can share what I have.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13062;Young [From.GetFirstName] seems to always be willing to share.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13064;[From.GetTitledFirstName] says I should talk more to people, give them more of myself.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13071;I've always loved playing with others - and I still do!;;;;;;;;;;;;;x
-EVTDESCA_ZE_13072;Young [From.GetFirstName] seems to have a natural charm and way with words.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13074;[From.GetTitledFirstName] does not approve of my open and talkative nature and decided to beat it out of me.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13081;I've always been one to finish my chores properly. And those of others.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13082;Young [From.GetFirstName] is full of energy and a will to get things done.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13084;[From.GetTitledFirstName] thinks I should employ my considerable energies toward just causes.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13091;I love it when everything is in good order, and I'm willing to spend the time that it takes.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13092;Young [From.GetFirstName] loves keeping [From.GetHerHis] things in order and patiently spends lots of time on it.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13094;[From.GetTitledFirstName] approves of my patient diligence but thinks I should be even more focused on the results of my efforts.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13101;Thinking about things, I have concluded that everything in the world is not as the priests say it is.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13102;Young [From.GetFirstName] seems to have a lot of independent opinions and refuses to listen to the priests.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13104;[From.GetTitledFirstName] thinks I should be less quick to question the words of the priests.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13111;As I grow older, I increasingly find that my faith is a true fountain of strength.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13112;Young [From.GetFirstName] seems to be developing very strong religious sentiments.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13114;[From.GetTitledFirstName] seems to think that I should replace my reverence for [Root.Religion.GetRandomGodName] with love for my fellow man.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13611;After weeks of waiting for the right opportunity I find myself behind the barn alone with the Farrier's apprentice that my heart has been longing for. My palms are sweaty and my chest is pounding.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13700;I wake up in the middle of the night, my heart racing and my whole body is feeling strange. What was I really dreaming about?;;;;;;;;;;;;;x
-EVTDESCA_ZE_13701;Oh it's just something about [Root.GetHerHim] that I can't get off my mind. [Root.GetHerHisCap] hair, the way [Root.GetSheHe] moved. I'm getting all worked up just thinking about [Root.GetHerHim] again.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13702;[lustful_target.GetHerHisCap] lips touching mine. My hands, touching [lustful_target.GetHerHim] gently. I wonder if [lustful_target.GetFirstName] feels the same way about me?;;;;;;;;;;;;;x
-EVTDESCA_ZE_13703;These kind of thoughts have been distracting me lately. I don't find them very interesting and they are disturbing my sleep.;;;;;;;;;;;;;x
-EVTDESCA_ZE_13704;[From.GetFirstName] has been looking at me in a new way lately. Giggling whenever I talk to [From.GetHerHim], laughing at things that are not meant to be funny.;;;;;;;;;;;;;x
-
-EVTDESCB_ZE_13001;Rules are for the weak. I know what I want.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13002;Young [From.GetFirstName] is developing an arbitrary streak. It's showing more clearly every day.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13004;[From.GetTitledFirstName] disapproves of my tendencies towards arbitrariness and has told me that I should show more ambition.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13011;I get on well with others, while some people only chase ambitions and get into needless conflicts.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13012;Young [From.GetFirstName] is very easily satisfied and obviously lacking in ambition.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13014;[From.GetTitledFirstName] says [From.GetSheHe] thinks I am being too passive and would like me to do more to help others in need.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13021;I've always felt more comfortable being silent and letting others talk.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13022;I have observed that young [From.GetFirstName] usually tries to stay out of the way of others.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13024;[From.GetTitledFirstName] says I am too shy and should try to relax more and just be myself among people.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13031;I like to play hard and talk straight. I have no time for nonsense.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13032;Young [From.GetFirstName] plays hard and talks straight.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13034;[From.GetTitledFirstName] appreciates my honest ways but tries to encourage me to be more courageous.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13041;I know what I can do and have no reason to be afraid of anything.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13042;Young [From.GetFirstName] is more and more becoming known for [From.GetHerHis] great bravery.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13044;[From.GetTitledFirstName] approves of my bravery but thinks I should be more proud of my achievements.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13051;The world is full of things that make me angry.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13052;I have noticed that young [From.GetFirstName] seems to carry a lot of anger around.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13054;[From.GetTitledFirstName] thinks I should learn to better temper my anger.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13061;There are so many things in the world that are just not worth expending energy on.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13062;Young [From.GetFirstName] seems to be showing more and more signs of laziness.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13064;[From.GetTitledFirstName] thinks I should get out more and talk to people.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13071;I love fun and games, but the best game of all is the one of tricking people into doing things for me.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13072;Young [From.GetFirstName] seems to be developing a rather devious and manipulative streak.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13074;[From.GetTitledFirstName] does not approve of my cleverness and cunning and decided to beat it out of me.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13081;It's important to do things right, which includes not doing them too much.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13082;Young [From.GetFirstName] is impressing everyone with [From.GetHerHis] sensible choices and great capacity for self-restraint.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13084;[From.GetTitledFirstName] commends me on my temperance and wisdom and wishes that I employ it in the service of just causes.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13091;I love keeping an eye on things, and I love counting them. Coins especially.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13092;Young [From.GetFirstName] seems to love ordering and counting things, coins especially.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13094;[From.GetTitledFirstName] approves of my active mind but thinks I spend too much time thinking about gold and silver.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13101;There are people I know that follow different traditions than those of the [Root.Religion.GetName] faith. I have spoken to them and asked them about it, and now it doesn't seem so strange to me.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13102;Young [From.GetFirstName] seems to be taking a curious interest in other traditions than the [From.Religion.GetName] ones.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13104;I love studying foreign customs, but [From.GetTitledFirstName] thinks I should look to my own virtues instead.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13111;The more I hear of the words of the wise [Root.GetMenWomen] of old, the more I want to be like them.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13112;Young [From.GetFirstName] often speaks in reverence of the wise [From.GetMenWomen] of old, saying [From.GetSheHe] wants to be like them.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13114;I worship the memory of the wise [From.GetMenWomen] of old, but [From.GetTitledFirstName] thinks that I should focus on loving the living around me instead.;;;;;;;;;;;;;x
-EVTDESCB_ZE_13611;After weeks of waiting for the right opportunity I find myself behind the barn alone together with the Carpenter's daughter that my heart has been longing for. My palms are sweaty and my chest is pounding.;;;;;;;;;;;;;x
-
-EVTDESCC_ZE_13001;I know my worth, and people had better not stand in my way.;;;;;;;;;;;;;x
-EVTDESCC_ZE_13002;Young [From.GetFirstName] is showing much petty cruelty towards others.;;;;;;;;;;;;;x
-EVTDESCC_ZE_13004;[From.GetTitledFirstName] disapproves of my tendencies towards cruelty and has told me that I should show more ambition.;;;;;;;;;;;;;x
-EVTDESCC_ZE_13011;I have learned that most people are kind, and it brings no benefit to walk with mistrust and suspicion.;;;;;;;;;;;;;x
-EVTDESCC_ZE_13012;Young [From.GetFirstName] seems to trust everyone, lacking any notion of the evil in man.;;;;;;;;;;;;;x
-EVTDESCC_ZE_13014;[From.GetTitledFirstName] would like me to be less naive and make more efforts to actually help others.;;;;;;;;;;;;;x
-EVTDESCC_ZE_13021;As I learn more about life, I find it is generally wise to stay out of danger as much as possible.;;;;;;;;;;;;;x
-EVTDESCC_ZE_13022;Young [From.GetFirstName] seems to constantly avoid taking any risks.;;;;;;;;;;;;;x
-EVTDESCC_ZE_13024;[From.GetTitledFirstName] says I am too fearful and should try to relax more and just be myself;;;;;;;;;;;;;x
-EVTDESCC_ZE_13031;Playing outside and scratching my knees has taught me to act quickly without unnecessary pause for thinking.;;;;;;;;;;;;;x
-EVTDESCC_ZE_13032;Young [From.GetFirstName] is showing tendencies to be more of a doer than a thinker. Yes, that would be a kind way to describe it...;;;;;;;;;;;;;x
-EVTDESCC_ZE_13034;[From.GetTitledFirstName] says I need to put more thought into my actions, but without compromising my physical courage.;;;;;;;;;;;;;x
-EVTDESCC_ZE_13041;I've learned that if I put my mind to something I will usually get it.;;;;;;;;;;;;;x
-EVTDESCC_ZE_13042;Young [From.GetFirstName] is developing a stubborn streak.;;;;;;;;;;;;;x
-EVTDESCC_ZE_13044;[From.GetTitledFirstName] thinks I should be proud of what I have but try to be less stubborn.;;;;;;;;;;;;;x
-EVTDESCC_ZE_13051;The more I think about it, the more I see how things are wrongfully denied me.;;;;;;;;;;;;;x
-EVTDESCC_ZE_13052;Young [From.GetFirstName] seems to be envious of everything and everyone.;;;;;;;;;;;;;x
-EVTDESCC_ZE_13054;[From.GetTitledFirstName] thinks I should learn to temper my envy.;;;;;;;;;;;;;x
-EVTDESCC_ZE_13061;I find there is nothing that pleases me so much as just sitting down for hours, eating.;;;;;;;;;;;;;x
-EVTDESCC_ZE_13062;Young [From.GetFirstName] never stops eating, always staying longer than anyone at the table.;;;;;;;;;;;;;x
-EVTDESCC_ZE_13064;[From.GetTitledFirstName] thinks I spend too much time eating and should pause to converse once in a while.;;;;;;;;;;;;;x
-EVTDESCC_ZE_13071;Playing games and pranks is the best fun! I do think I never want to grow up.;;;;;;;;;;;;;x
-EVTDESCC_ZE_13072;Young [From.GetFirstName] seems to often react in erratic and strange ways in perfectly everyday situations. There is something not quite right there...;;;;;;;;;;;;;x
-EVTDESCC_ZE_13074;[From.GetTitledFirstName] thinks I am too 'strange' and decided to beat it out of me.;;;;;;;;;;;;;x
-EVTDESCC_ZE_13091;I know how things should be done, but I fear others are always trying to sabotage my efforts.;;;;;;;;;;;;;x
-EVTDESCC_ZE_13092;Young [From.GetFirstName] loves doing things [From.GetHerHis] own way, and often takes it personally and gets angry when others offer opinions.;;;;;;;;;;;;;x
-EVTDESCC_ZE_13094;[From.GetTitledFirstName] says it's good that I have my own strong ideas, but [From.GetSheHe] wants me to focus more on the results of my actions than on worrying about the envy of others.;;;;;;;;;;;;;x
-EVTDESCC_ZE_13101;I spend a lot of time exploring and thinking about how things work..;;;;;;;;;;;;;x
-EVTDESCC_ZE_13102;Young [From.GetFirstName] seems to be a real explorer and experimenter, constantly finding new ideas and topics that fascinate [From.GetHerHim].;;;;;;;;;;;;;x
-EVTDESCC_ZE_13104;[From.GetTitledFirstName] seems to think I'm too clever for my own good, or so [From.GetSheHe] said.;;;;;;;;;;;;;x
-EVTDESCC_ZE_13111;It gives me great joy to admire the achievements of others. Especially as I am so weak myself.;;;;;;;;;;;;;x
-EVTDESCC_ZE_13112;Young [From.GetFirstName] seems to be quick to praise the deeds of others around [From.GetHerHim], while neglecting [From.GetHerHis] own physical activity and development.;;;;;;;;;;;;;x
-EVTDESCC_ZE_13114;I easily adore the virtues of others, but [From.GetTitledFirstName] thinks I'm too passive and should should focus more on helping people, lest I grow weak.;;;;;;;;;;;;;x
-
-EVTOPTA_ZE_13001;I shall bow to no one.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13002;[From.GetSheHeCap] should show more ambition.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13004;[From.GetSheHeCap] is right - I am destined for greatness.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13011;Kindness binds us all together.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13012;[From.GetSheHeCap] should be more charitable.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13014;[From.GetSheHeCap] is right, I should do more.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13021;I should avoid the dangers of pride.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13022;[From.GetSheHeCap] shouldn't try so hard.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13024;[From.GetSheHeCap] is right, I should let go of it.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13031;It feels good to be strong!;;;;;;;;;;;;;x
-EVTOPTA_ZE_13032;I should focus on teaching [From.GetHerHim] bravery.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13034;Yes, I want to be brave like [From.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTA_ZE_13041;I will be the greatest.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13042;I should teach [From.GetHerHim] to be more proud instead.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13044;[From.GetSheHeCap] is right, I should be proud!;;;;;;;;;;;;;x
-EVTOPTA_ZE_13051;It's what separates us from the wild beasts.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13052;[From.GetSheHeCap] should learn temperance.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13054;[From.GetSheHeCap] is right, I should calm down.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13061;It's not worth the effort accumulating things anyway.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13062;[From.GetSheHeCap] should get out more and talk to people.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13064;Very well, I'll make the effort!;;;;;;;;;;;;;x
-EVTOPTA_ZE_13071;And people seem to like me.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13072;I shall beat it out of [From.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTA_ZE_13074;One day I'll do the same unto others.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13081;I just like getting things done.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13082;[From.GetSheHeCap] should use that power for good.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13084;Sage advice.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13091;One shouldn't rush things needlessly.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13092;I should help guide [From.GetHerHim] in the right direction.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13094;I should be more like [From.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTA_ZE_13101;They are all liars!;;;;;;;;;;;;;x
-EVTOPTA_ZE_13102;I should try to stop these tendencies..;;;;;;;;;;;;;x
-EVTOPTA_ZE_13104;[From.GetSheHeCap] is right, I should calm down.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13111;And I praise [Root.Religion.GetRandomGodName]!;;;;;;;;;;;;;x
-EVTOPTA_ZE_13112;[From.GetSheHeCap] should focus on helping others instead.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13114;[From.GetSheHeCap] is right.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13610;...the Farrier's apprentice.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13610_MALE;...the Carpenter's daughter.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13611_CARP;Declare my eternal love for her.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13611_FERR;Declare my eternal love for him.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13620;Honesty, if anything.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13621;Show bravery to inspire others.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13622;Treat all as equals.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13623;Knowledge is power others don't need.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13624;Knowledge is power, always learn more.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13625;[From.GetSheHeCap] deserves greatness. Go get it!;;;;;;;;;;;;;x
-EVTOPTA_ZE_13700;That farmer [Root.GetBoyGirl] I met earlier.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13701;What would it be like to hold [Root.GetHerHim]?;;;;;;;;;;;;;x
-EVTOPTA_ZE_13702;I will save myself for [lustful_target.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTA_ZE_13703;I would do well to focus on other things.;;;;;;;;;;;;;x
-EVTOPTA_ZE_13704;It seems as [From.GetSheHe] is infatuated with me...;;;;;;;;;;;;;x
-
-EVTOPTB_ZE_13001;And I know where to get it.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13002;It's fine, I don't need more competition.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13004;[From.GetSheHeCap] can't tell me what to do!;;;;;;;;;;;;;x
-EVTOPTB_ZE_13011;I have what I need right here.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13012;[From.GetSheHeCap] can only be [From.GetHerselfHimself].;;;;;;;;;;;;;x
-EVTOPTB_ZE_13014;I will try.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13021;There is no need to be noisy.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13022;All is as it should be.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13024;I'm not trying, it's who I am.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13031;I will always speak my mind.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13032;[From.GetSheHeCap] should do [From.GetHerHis] own thing.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13034;My strength is all I need.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13041;What is there to fear? Nothing.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13042;[From.GetSheHeCap] could never be like me anyway.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13042_B;Good for [From.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTB_ZE_13044;But I don't have enough!;;;;;;;;;;;;;x
-EVTOPTB_ZE_13051;I can't stand it sometimes!;;;;;;;;;;;;;x
-EVTOPTB_ZE_13052;I should resist the temptation to intervene.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13054;It would be wrong to not care!;;;;;;;;;;;;;x
-EVTOPTB_ZE_13061;It's true of almost everyhing, really.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13062;Ah, the young will be as they are!;;;;;;;;;;;;;x
-EVTOPTB_ZE_13064;I'd rather give them my things.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13071;I pull the strings.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13072;I'm sure [From.GetSheHe] will suffer in life.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13074;I'll speak of [From.GetHerHis] cruelty to everyone!;;;;;;;;;;;;;x
-EVTOPTB_ZE_13081;Self-control is the first step to greatness.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13082;Life will reward [From.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTB_ZE_13084;I already know what I want to do.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13091;They are so shiny.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13092;[From.GetSheHeCap] is a busy soul, just like me.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13094;Now, don't be hasty, [From.GetLordLady] [From.GetFirstName].;;;;;;;;;;;;;x
-EVTOPTB_ZE_13101;We are all the same, I guess.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13102;Boys will be boys.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13104;But they are fools!;;;;;;;;;;;;;x
-EVTOPTB_ZE_13111;Only from knowledge comes true strength.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13112;What a lovely child!;;;;;;;;;;;;;x
-EVTOPTB_ZE_13114;No, [Root.Religion.GetRandomGodName] is the greatest!;;;;;;;;;;;;;x
-EVTOPTB_ZE_13610;...the Carpenter's daughter.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13610_MALE;...the Farrier's apprentice.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13611_CARP;Kiss her on the cheek.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13611_FERR;Kiss him on the cheek.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13620;Being sociable is key.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13621;I'll have to toughen [From.GetHerHim] up...;;;;;;;;;;;;;x
-EVTOPTB_ZE_13622;Self-restraint, a life of moderation.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13623;Others may try to trick you.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13624;Don't be distracted by lust.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13625;Be thorough, make others count on you.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13700;[lustful_target.GetFirstName], kissing me.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13701;[Root.GetSheHeCap] is the one for me.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13702;[lustful_target.GetSheHeCap] gets me all excited.;;;;;;;;;;;;;x
-EVTOPTB_ZE_13703;Maybe it will change with time.;;;;;;;;;;;;;x
-
-EVTOPTC_ZE_13001;If they protest I will crush them.;;;;;;;;;;;;;x
-EVTOPTC_ZE_13004;Yes, [From.GetTitledFirstName]'.;;;;;;;;;;;;;x
-EVTOPTC_ZE_13011;Why would anyone want to harm me?;;;;;;;;;;;;;x
-EVTOPTC_ZE_13014;I help when I can, but rarely see a need.;;;;;;;;;;;;;x
-EVTOPTC_ZE_13021;Only the foolish take risks.;;;;;;;;;;;;;x
-EVTOPTC_ZE_13024;I'd rather be myself by myself.;;;;;;;;;;;;;x
-EVTOPTC_ZE_13031;Thinking was never my strong side anyway!;;;;;;;;;;;;;x
-EVTOPTC_ZE_13034;Honestly, I don't care.;;;;;;;;;;;;;x
-EVTOPTC_ZE_13041;I was just born stubborn.;;;;;;;;;;;;;x
-EVTOPTC_ZE_13044;I have nothing yet, but [Root.GetSheHe] who dares wins!;;;;;;;;;;;;;x
-EVTOPTC_ZE_13051;It should all be mine.;;;;;;;;;;;;;x
-EVTOPTC_ZE_13054;I don't care what that [GetRootFromInsult] thinks!;;;;;;;;;;;;;x
-EVTOPTC_ZE_13061;It is truly the ultimate good in life.;;;;;;;;;;;;;x
-EVTOPTC_ZE_13064;Why bother?;;;;;;;;;;;;;x
-EVTOPTC_ZE_13071;The world is made of pixie dust!;;;;;;;;;;;;;x
-EVTOPTC_ZE_13074;I'll let [From.GetHerHim] think it's working.;;;;;;;;;;;;;x
-EVTOPTC_ZE_13084;It's not wise to be overly zealous.;;;;;;;;;;;;;x
-EVTOPTC_ZE_13091;I must be wary of their envy.;;;;;;;;;;;;;x
-EVTOPTC_ZE_13094;But gold is so pretty!;;;;;;;;;;;;;x
-EVTOPTC_ZE_13101;It feels great to learn!;;;;;;;;;;;;;x
-EVTOPTC_ZE_13102;Girls will be girls.;;;;;;;;;;;;;x
-EVTOPTC_ZE_13104;Is [From.GetSheHe] not interested in the world at all?;;;;;;;;;;;;;x
-EVTOPTC_ZE_13111;They strike me with awe.;;;;;;;;;;;;;x
-EVTOPTC_ZE_13114;I shall love them when they have something interesting to say.;;;;;;;;;;;;;x
-EVTOPTC_ZE_13610;...no, I had better keep these thoughts for myself.;;;;;;;;;;;;;x
-EVTOPTC_ZE_13611_CARP;Suggest a secluded cuddle inside the barn.;;;;;;;;;;;;;x
-EVTOPTC_ZE_13611_FERR;Suggest a secluded cuddle inside the barn.;;;;;;;;;;;;;x
-EVTOPTC_ZE_13620;[From.GetFirstName] must learn on [From.GetHerHis] own.;;;;;;;;;;;;;x
-EVTOPTC_ZE_13625;Make your move at the right time.;;;;;;;;;;;;;x
-EVTOPTC_ZE_13700;Whatever it was is not important.;;;;;;;;;;;;;x
-EVTOPTC_ZE_13701;If I see [Root.GetHerHim] again we'll have some fun.;;;;;;;;;;;;;x
-
-EVTOPTD_ZE_13004;[From.GetSheHeCap]'ll be lucky if I don't poison [From.GetHerHis] food.;;;;;;;;;;;;;x
-EVTOPTD_ZE_13014;But the [Root.TopLiege.GetTitle] provides for all, surely?;;;;;;;;;;;;;x
-EVTOPTD_ZE_13024;There is nothing wrong with being cautious.;;;;;;;;;;;;;x
-EVTOPTD_ZE_13034;I don't even know what that means.;;;;;;;;;;;;;x
-EVTOPTD_ZE_13044;I'll decide for myself, thank you.;;;;;;;;;;;;;x
-EVTOPTD_ZE_13054;That's easy for [From.GetHerHim] to say!;;;;;;;;;;;;;x
-EVTOPTD_ZE_13064;I'd rather not talk with food in my mouth.;;;;;;;;;;;;;x
-EVTOPTD_ZE_13074;But I was invisible the whole time.;;;;;;;;;;;;;x
-EVTOPTD_ZE_13094;But they hate me!;;;;;;;;;;;;;x
-EVTOPTD_ZE_13104;Too clever for [From.GetHerHim], maybe.;;;;;;;;;;;;;x
-EVTOPTD_ZE_13114;I'm fine.;;;;;;;;;;;;;x
-EVTOPTD_ZE_13610;...no, these feelings are wrong!;;;;;;;;;;;;;x
-EVTOPTD_ZE_13700;I should just try to get to sleep.;;;;;;;;;;;;;x
-EVTOPTD_ZE_13701;I shouldn't. It's a sin.;;;;;;;;;;;;;x
+EVTDESC_ZE_13610;I've been having these special feelings for a special someone lately. The strange urges to find myself embraced and close to another person. If I could only find myself alone with...;;;;;;;;;;;Â ïîñëåäíåå âðåìÿ ó ìåíÿ âîçíèêàþò îñîáûå ÷óâñòâà. Ñòðàííûå ïîðûâû ïîáóæäàþò ìåíÿ áûòü áëèæå ê äðóãîìó ÷åëîâåêó. Åñëè áû òîëüêî ÿ ìîã[Root.GetNoneE] îñòàòüñÿ íàåäèíå ñ...;;x
+EVTDESC_ZE_13620;As [From.GetSheHe] is growing older, I can see that [From.GetFirstName] could use some guidance in one of my experienced areas, diplomacy. This is my chance to make an effort for the sake of [From.GetHerHis] education but what can I offer?;;;;;;;;;;;[From.GetFirstName] óæå â òîì âîçðàñòå, êîãäà îáðàçîâàíèå - îäèí èç ãëàâíûõ ïðèîðèòåòîâ â æèçíè. Êàê îïûòí[Root.GetAyaYy] äèïëîìàò[Root.GetEndKa] ÿ ìîãó ïîìî÷ü ñâîèìè íàñòàâëåíèÿìè. Ýòî ìîé øàíñ ïîâëèÿòü íà [From.GetHersHis] óñïåõè, íî ÷òî [From.GetHerHim] ïîñîâåòîâàòü?;;x
+EVTDESC_ZE_13621;As [From.GetSheHe] is growing older, I can see that [From.GetFirstName] could use some guidance in one of my experienced areas, the art of war. This is my chance to make an effort for the sake of [From.GetHerHis] education but what can I offer?;;;;;;;;;;;[From.GetFirstName] óæå â òîì âîçðàñòå, êîãäà îáðàçîâàíèå - îäèí èç ãëàâíûõ ïðèîðèòåòîâ â æèçíè. Áóäó÷è çíàòîêîì èñêóññòâà âîéíû, ÿ ìîãó ïîìî÷ü ñâîèìè íàñòàâëåíèÿìè. Ýòî ìîé øàíñ ïîâëèÿòü íà [From.GetHersHis] óñïåõè, íî ÷òî [From.GetHerHim] ïîñîâåòîâàòü?;;x
+EVTDESC_ZE_13622;As [From.GetSheHe] is growing older, I can see that [From.GetFirstName] could use some guidance in one of my experienced areas, stewardship. This is my chance to make an effort for the sake of [From.GetHerHis] education but what can I offer?;;;;;;;;;;;[From.GetFirstName] óæå â òîì âîçðàñòå, êîãäà îáðàçîâàíèå - îäèí èç ãëàâíûõ ïðèîðèòåòîâ â æèçíè. Êàê çíàòîê ýêîíîìèêè ÿ ìîãó ïîìî÷ü ñâîèìè íàñòàâëåíèÿìè. Ýòî ìîé øàíñ ïîâëèÿòü íà [From.GetHersHis] óñïåõè, íî ÷òî [From.GetHerHim] ïîñîâåòîâàòü?;;x
+EVTDESC_ZE_13623;As [From.GetSheHe] is growing older, I can see that [From.GetFirstName] could use some guidance in one of my experienced areas, intrigue. This is my chance to make an effort for the sake of [From.GetHerHis] education but what can I offer?;;;;;;;;;;;[From.GetFirstName] óæå â òîì âîçðàñòå, êîãäà îáðàçîâàíèå - îäèí èç ãëàâíûõ ïðèîðèòåòîâ â æèçíè. Èíòðèãè - ìîé êîí¸ê, è ÿ ìîãó ïîìî÷ü ñâîèìè íàñòàâëåíèÿìè. Ýòî ìîé øàíñ ïîâëèÿòü íà [From.GetHersHis] óñïåõè, íî ÷òî [From.GetHerHim] ïîñîâåòîâàòü?;;x
+EVTDESC_ZE_13624;As [From.GetSheHe] is growing older, I can see that [From.GetFirstName] could use some guidance in one of my experienced areas, learning. This is my chance to make an effort for the sake of [From.GetHerHis] education but what can I offer?;;;;;;;;;;;[From.GetFirstName] óæå â òîì âîçðàñòå, êîãäà îáðàçîâàíèå - îäèí èç ãëàâíûõ ïðèîðèòåòîâ â æèçíè. Îáëàäàÿ íåìàëûìè çíàíèÿìè â äóõîâíûõ âîïðîñàõ, ÿ ìîãó ïîìî÷ü ñâîèìè íàñòàâëåíèÿìè. Ýòî ìîé øàíñ ïîâëèÿòü íà [From.GetHersHis] óñïåõè, íî ÷òî [From.GetHerHim] ïîñîâåòîâàòü?;;x
+EVTDESC_ZE_13625;As [From.GetSheHe] is growing older, I can see that [From.GetFirstName] could use some guidance in some of my experienced areas. It will require hard work and may not always be appreciated but this is my chance to make a self-sacrifice for the sake of [From.GetFirstName].;;;;;;;;;;;[From.GetFirstName] óæå â òîì âîçðàñòå, êîãäà îáðàçîâàíèå - îäèí èç ãëàâíûõ ïðèîðèòåòîâ â æèçíè. Áóäó÷è îïûòí[Root.GetOyYm] â íåêîòîðûõ îáëàñòÿõ çíàíèé, ÿ ìîãó ïîìî÷ü [From.GetHerHim] íàñòàâëåíèÿìè. Êîíå÷íî, ýòî íåáëàãîäàðíàÿ ðàáîòà, áóäåò íåëåãêî, íî ýòî ìîé øàíñ ñäåëàòü [From.GetHersHis] ëó÷øå.;;x
+EVTDESCA_ZE_13001;I am practically an adult now, and people had better listen to me if they know what's good for them.;;;;;;;;;;;ß óæå ïðàêòè÷åñêè âçðîñë[Root.GetAyaYy], è ëþäÿì ñëåäóåò ïðèñëóøèâàòüñÿ êî ìíå, åñëè îíè õîòÿò ëó÷øåãî äëÿ ñåáÿ.;;x
+EVTDESCA_ZE_13002;Young [From.GetFirstName] is showing strong tendencies towards prideful behavior.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] âûðàæàåò ÿâíóþ ñêëîííîñòü ê ãîðäåëèâîìó ïîâåäåíèþ.;;x
+EVTDESCA_ZE_13004;[From.GetTitledFirstName] disapproves of my tendencies towards pride and has told me that I should show more ambition.;;;;;;;;;;;[From.GetTitledFirstName] íå îäîáðÿåò ìî¸ ïîâåäåíèå. [From.GetSheHeCap] îñóæäàåò ìîþ ãîðäûíþ è ãîâîðèò, ÷òî ðàäè äîñòèæåíèÿ óñïåõà, ïîðîé íàäî ïåðåñòóïàòü ÷åðåç ñåáÿ.;;x
+EVTDESCA_ZE_13011;I find that it brings me great joy to bring joy to others.;;;;;;;;;;;Îêàçûâàåòñÿ, ðàäîâàòü äðóãèõ íàìíîãî ïðèÿòíåå, ÷åì ñàì[Root.GetUOgo] ñåáÿ.;;x
+EVTDESCA_ZE_13012;Young [From.GetFirstName] is developing a kind disposition towards others.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] ñ êàæäûì äí¸ì ñòàíîâèòñÿ âñ¸ äîáðåå ê îêðóæàþùèì.;;x
+EVTDESCA_ZE_13014;[From.GetTitledFirstName] says [From.GetSheHe] appreciates my kind disposition but thinks I could do even more to help others.;;;;;;;;;;;[From.GetTitledFirstName] ãîâîðèò, ÷òî äîáðîòà - ýòî õîðîøî, íî åñëè ÿ õî÷ó äåéñòâèòåëüíî ïîìîãàòü äðóãèì, ìíå ñëåäóåò áûòü áîëåå ùåäð[Root.GetOyYm].;;x
+EVTDESCA_ZE_13021;As I keep getting older, I find that humility comes naturally to me.;;;;;;;;;;;×åì ñòàðøå ÿ ñòàíîâëþñü, òåì îò÷åòëèâåå âèæó, ÷òî ñìèðåíèå ïðèñóùå ìíå îò ïðèðîäû.;;x
+EVTDESCA_ZE_13022;Young [From.GetFirstName] is developing a demeanor of natural humility.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] ðàçâèâàåò â ñåáå íåâåðîÿòíîå ñìèðåíèå.;;x
+EVTDESCA_ZE_13024;[From.GetTitledFirstName] says I shouldn't try so hard to be humble but instead just be myself.;;;;;;;;;;;[From.GetTitledFirstName] ãîâîðèò, ÷òî ñìèðåíèå - ñàìîîáìàí. Íóæíî ïðîñòî áûòü ñîáîé.;;x
+EVTDESCA_ZE_13031;I like to climb, wrestle and run - and as I grow older I am beginning to notice that I am physically stronger than others.;;;;;;;;;;;ß âñåãäà ëþáèë[Root.GetEndA] áåãàòü, äðàòüñÿ è ëàçèòü ïî äåðåâüÿì. Ñåé÷àñ, ïîâçðîñëåâ, ÿ ïîíèìàþ, ÷òî ñòàë[Root.GetEndA] ñèëüíåå äðóãèõ.;;x
+EVTDESCA_ZE_13032;Young [From.GetFirstName] loves physical games and is developing a strong physique.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] ôèçè÷åñêè ðàçâèò[From.GetEndA] íå ïî ãîäàì è ëþáèò ñïîðò.;;x
+EVTDESCA_ZE_13034;[From.GetTitledFirstName] sees that I am growing stronger but tries to encourage me to be more courageous.;;;;;;;;;;;[From.GetTitledFirstName] çàìåòèë[From.GetEndA], ÷òî ÿ ñòàíîâëþñü ñèëüíåå, íî ãîâîðèò, ÷òî êóäà âàæíåå áûòü õðàáð[Root.GetOyYm].;;x
+EVTDESCA_ZE_13041;I've read about the great [Root.GetMenWomen] in history, and someday I want to be like them.;;;;;;;;;;;ß ìíîãî ÷èòàë[Root.GetEndA] î âåëèêèõ èñòîðè÷åñêèõ ëè÷íîñòÿõ, è îäíàæäû ÿ õî÷ó ñòàòü òàê[Root.GetOyIm], êàê îíè.;;x
+EVTDESCA_ZE_13042;[From.GetFirstName] is developing into an ambitious young [From.GetManWoman].;;;;;;;;;;;[From.GetFirstName] ñòàíîâèòñÿ àìáèöèîçí[From.GetOyYm] ìîëîä[From.GetOyYm] [From.GetManWoman]îé.;;x
+EVTDESCA_ZE_13044;[From.GetTitledFirstName] says that my ambition is good but [From.GetSheHe] thinks I should be more proud of what I have.;;;;;;;;;;;[From.GetTitledFirstName] ãîâîðèò, ÷òî àìáèöèè - ýòî õîðîøî, íî ìíå ñëåäóåò ãîðäèòüñÿ òåì, êàê[Root.GetAyaOy] ÿ åñòü.;;x
+EVTDESCA_ZE_13051;The more I think about it, the more I see that fairness and justice are things worth striving for.;;;;;;;;;;;×åì áîëüøå ÿ äóìàþ îá ýòîì, òåì ÿñíåå âèæó, ÷òî ñïðàâåäëèâîñòü - åäèíñòâåííîå, çà ÷òî ñòîèò ñðàæàòüñÿ.;;x
+EVTDESCA_ZE_13052;Young [From.GetFirstName] seems to think a lot about justice, fairness and righting the many wrongs in the world.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] ïîñòîÿííî äóìàåò îá èñïðàâëåíèè îøèáîê îáùåñòâà, ïðàâäå è ñïðàâåäëèâîñòè.;;x
+EVTDESCA_ZE_13054;[From.GetTitledFirstName] thinks I should not speak so much of righting the wrongs of others.;;;;;;;;;;;[From.GetTitledFirstName] ñ÷èòàåò, ÷òî ìíå ñëåäóåò óìåðèòü ñâîè íåñáûòî÷íûå ìå÷òû î ïðàâäå è ñïðàâåäëèâîñòè â ýòîì ìèðå.;;x
+EVTDESCA_ZE_13061;I don't need many things - I can share what I have.;;;;;;;;;;;Ñ íåêîòîðîìû âåùàìè ñòîëüêî ìîðîêè, êóäà ïðîùå îòäàòü èõ äðóãèì.;;x
+EVTDESCA_ZE_13062;Young [From.GetFirstName] seems to always be willing to share.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] ñêëîí[From.GetNaEn] äåëèòüñÿ âñåì, ÷òî èìååò ñ äðóãèìè.;;x
+EVTDESCA_ZE_13064;[From.GetTitledFirstName] says I should talk more to people, give them more of myself.;;;;;;;;;;;[From.GetTitledFirstName] ãîâîðèò, ÷òî èíîãäà ëþäè ãîðàçäî áîëüøå öåíÿò îáùåíèå, ÷åì ìàòåðèàëüíûå áëàãà.;;x
+EVTDESCA_ZE_13071;I've always loved playing with others - and I still do!;;;;;;;;;;;ß ëþáëþ èãðàòü, à èãðàòü âñåãäà èíòåðåñíåå ñ äðóãèìè ëþäüìè.;;x
+EVTDESCA_ZE_13072;Young [From.GetFirstName] seems to have a natural charm and way with words.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] îáëàäàåò åñòåñòâåííîé ñïîñîáíîñòüþ ïðèâëåêàòü äðóãèõ ëþäåé.;;x
+EVTDESCA_ZE_13074;[From.GetTitledFirstName] does not approve of my open and talkative nature and decided to beat it out of me.;;;;;;;;;;;[From.GetTitledFirstName] íà äóõ íå ïåðåíîñèò ìîþ îáùèòåëüíóþ íàòóðó è äàæå áü¸ò ìåíÿ çà ýòî.;;x
+EVTDESCA_ZE_13081;I've always been one to finish my chores properly. And those of others.;;;;;;;;;;;ß ñòàðàþñü íèêîãäà íå îñòàâëÿòü íåçàâåðø¸ííûõ äåë è âûïîëíÿþ èõ, êàê ñëåäóåò. Èíîãäà äàæå ïðèõîäèòñÿ èñïðàâëÿòü è äîäåëûâàòü çà êåì-òî äðóãèì.;;x
+EVTDESCA_ZE_13082;Young [From.GetFirstName] is full of energy and a will to get things done.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] âñåãäà ïîë[From.GetNaOn] ýíåðãèè, êîãäà âèäèò ïåðåä ñîáîé ïîñòàâëåííóþ çàäà÷ó èëè íåçàêîí÷åííîå äåëî.;;x
+EVTDESCA_ZE_13084;[From.GetTitledFirstName] thinks I should employ my considerable energies toward just causes.;;;;;;;;;;;[From.GetTitledFirstName] äóìàåò, ÷òî ìíå ñëåäóåò íàïðàâèòü ñâîþ ñòðàñòü ê ïîðÿäêó íà ñòðåìëåíèå ê ñïðàâåäëèâîñòè.;;x
+EVTDESCA_ZE_13091;I love it when everything is in good order, and I'm willing to spend the time that it takes.;;;;;;;;;;;Ëþáëþ, êîãäà âñ¸ ïðàâèëüíî è íà ñâîèõ ìåñòàõ. Èíîãäà ÿ ãîòîâ[Root.GetEndA] òðàòèòü ìàññó âðåìåíè, ïîêà íå äîáüþñü ýòîãî.;;x
+EVTDESCA_ZE_13092;Young [From.GetFirstName] loves keeping [From.GetHerHis] things in order and patiently spends lots of time on it.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] íå âûíîñèò, êîãäà âåùè èìåþò èçúÿíû èëè íàõîäÿòñÿ â áåñïîðÿäêå. [From.GetSheHeCap] ïðîâîäèò áîëüøóþ ÷àñòü âðåìåíè â êîíòðîëå çà ñîâåðøåíñòâîì.;;x
+EVTDESCA_ZE_13094;[From.GetTitledFirstName] approves of my patient diligence but thinks I should be even more focused on the results of my efforts.;;;;;;;;;;;[From.GetTitledFirstName] îäîáðÿåò ìî¸ òåðïåíèå, íî ñ÷èòàåò, ÷òî åãî ñëåäóåò íàïðàâèòü íà äîñòèæåíèå íîâûõ öåëåé.;;x
+EVTDESCA_ZE_13101;Thinking about things, I have concluded that everything in the world is not as the priests say it is.;;;;;;;;;;;Äóìàÿ î ìíîãèõ âåùàõ, ÿ ïðèø[Root.GetLaYol] ê âûâîäó, ÷òî ýòîò ìèð óñòðîåí âîâñå íå òàê, êàê óòâåðæäàþò ñâÿùåííîñëóæèòåëè.;;x
+EVTDESCA_ZE_13102;Young [From.GetFirstName] seems to have a lot of independent opinions and refuses to listen to the priests.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] èìååò ñîáñòâåííîå ìíåíèå ïî î÷åíü ìíîãèì âîïðîñàì, â ÷àñòíîñòè, [From.GetSheHe] ñîâåðøåííî íå óâàæàåò àâòîðèòåò ñâÿùåííèêîâ.;;x
+EVTDESCA_ZE_13104;[From.GetTitledFirstName] thinks I should be less quick to question the words of the priests.;;;;;;;;;;;[From.GetTitledFirstName] ñ÷èòàåò, ÷òî ìíå ñëåäóåò ñäåðæèâàòü ñâîé öèíèçì â îòíîøåíèè ñâÿùåííèêîâ, õîòÿ áû èç ñîîáðàæåíèé ëè÷íîé âûãîäû è óñïåõà.;;x
+EVTDESCA_ZE_13111;As I grow older, I increasingly find that my faith is a true fountain of strength.;;;;;;;;;;;×åì ñòàðøå ÿ ñòàíîâëþñü, òåì ÿñíåå ïîíèìàþ, ÷òî [Root.GetReligionFullName] - ìîé ãëàâíûé äóõîâíûé ñòåðæåíü.;;x
+EVTDESCA_ZE_13112;Young [From.GetFirstName] seems to be developing very strong religious sentiments.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] ñòàíîâèòñÿ âñ¸ áîëåå íàáîæí[From.GetOyYm].;;x
+EVTDESCA_ZE_13114;[From.GetTitledFirstName] seems to think that I should replace my reverence for [Root.Religion.GetRandomGodName] with love for my fellow man.;;;;;;;;;;;[From.GetTitledFirstName] óòâåðæäàåò, ÷òî ñëóæåíèå âûñøåé ñèëå áîëüøå âñåãî ïðîÿâëÿåòñÿ âîâñå íå â ìîëèòâàõ è öåðåìîíèÿõ, íî â ëþáâè ê áëèæíåìó.;;x
+EVTDESCA_ZE_13611;After weeks of waiting for the right opportunity I find myself behind the barn alone with the Farrier's apprentice that my heart has been longing for. My palms are sweaty and my chest is pounding.;;;;;;;;;;;Íåäåëÿìè âûæèäàÿ óäîáíóþ âîçìîæíîñòü äëÿ âñòðå÷è, ÿ íàêîíåö-òî îêàçà[Root.GetLasLsya] çà àìáàðîì íàåäèíå ñ ó÷åíèêîì êóçíåöà. Ìîè ðóêè ïîòåþò, à ñåðäöå ãîòîâî âûñêî÷èòü èç ãðóäè.;;x
+EVTDESCA_ZE_13700;I wake up in the middle of the night, my heart racing and my whole body is feeling strange. What was I really dreaming about?;;;;;;;;;;;ß ïðîñíó[Root.GetLasLsya] ñðåäè íî÷è ñ î÷åíü ñòðàííûì îùóùåíèåì, ÷òî æå ìíå íà ñàìîì äåëå ïðèñíèëîñü?;;x
+EVTDESCA_ZE_13701;Oh it's just something about [Root.GetHerHim] that I can't get off my mind. [Root.GetHerHisCap] hair, the way [Root.GetSheHe] moved. I'm getting all worked up just thinking about [Root.GetHerHim] again.;;;;;;;;;;;È âñ¸-òàêè åñòü â í[Root.GetEyYom] ÷òî-òî, ÷òî ÿ íèêàê íå ìîãó âûêèíóòü èç ãîëîâû. [Root.GetHersHisCap] âîëîñû, ïîõîäêà... ß ïîñòîÿííî äóìàþ î í[Root.GetEyYom] ñíîâà è ñíîâà.;;x
+EVTDESCA_ZE_13702;[lustful_target.GetHerHisCap] lips touching mine. My hands, touching [lustful_target.GetHerHim] gently. I wonder if [lustful_target.GetFirstName] feels the same way about me?;;;;;;;;;;;[lustful_target.GetHersHisCap] ãóáû êàñàþòñÿ ìîèõ. Ìîè ðóêè ëåãêî ñêîëüçÿò ïî [lustful_target.GetHersHis] ïëå÷àì. ×óâñòâóåò ëè [lustful_target.GetFirstName] òî æå ñàìîå êî ìíå?;;x
+EVTDESCA_ZE_13703;These kind of thoughts have been distracting me lately. I don't find them very interesting and they are disturbing my sleep.;;;;;;;;;;;Ïîäîáíûå ìûñëè ïîñòîÿííî îòâëåêàþò ìåíÿ è íå äàþò ìíå ñïàòü.;;x
+EVTDESCA_ZE_13704;[From.GetFirstName] has been looking at me in a new way lately. Giggling whenever I talk to [From.GetHerHim], laughing at things that are not meant to be funny.;;;;;;;;;;;Â ïîñëåäíåå âðåìÿ [From.GetFirstName] ñìîòðèò íà ìåíÿ ñîâñåì èíà÷å, óëûáàåòñÿ ìíå, ñìå¸òñÿ íàä ìîèìè íåóäà÷íûìè øóòêàìè...;;x
+EVTDESCB_ZE_13001;Rules are for the weak. I know what I want.;;;;;;;;;;;Ïðàâèëà äëÿ ñëàáàêîâ. ß [Root.GetHerselfHimself] çíàþ, ÷åãî õî÷ó.;;x
+EVTDESCB_ZE_13002;Young [From.GetFirstName] is developing an arbitrary streak. It's showing more clearly every day.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] ñòàíîâèòñÿ íàñòîÿùèì ñàìîäóðîì. Ñ êàæäûì äí¸ì ýòî çàìåòíåå ïðîÿâëÿåòñÿ â [From.GetHersHis] ïîâåäåíèè.;;x
+EVTDESCB_ZE_13004;[From.GetTitledFirstName] disapproves of my tendencies towards arbitrariness and has told me that I should show more ambition.;;;;;;;;;;;[From.GetTitledFirstName] íå îäîáðÿåò ìî¸ ïîâåäåíèå. [From.GetSheHeCap] íàçûâàåò ýòî ñàìîäóðñòâîì è ãëóïûì ðåáÿ÷åñòâîì, óòâåðæäàÿ, ÷òî òîëüêî àìáèöèîçíûé áëàãîðàçóìíûé ÷åëîâåê äîáèâàåòñÿ óñïåõà â æèçíè.;;x
+EVTDESCB_ZE_13011;I get on well with others, while some people only chase ambitions and get into needless conflicts.;;;;;;;;;;;ß â õîðîøèõ îòíîøåíèÿõ ñ äðóãèìè, â òî âðåìÿ, êàê ìíîãèå ñëèøêîì àìáèöèîçíû è íàæèâàþò ñåáå âðàãîâ.;;x
+EVTDESCB_ZE_13012;Young [From.GetFirstName] is very easily satisfied and obviously lacking in ambition.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] âñåãäà äîâîëüñòâóåòñÿ ìàëûì è ñîâåðøåííî íåàìáèöèîç[From.GetNaEn].;;x
+EVTDESCB_ZE_13014;[From.GetTitledFirstName] says [From.GetSheHe] thinks I am being too passive and would like me to do more to help others in need.;;;;;;;;;;;[From.GetTitledFirstName] ãîâîðèò, ÷òî ÿ ñëèøêîì ïàññèâ[Root.GetNaEn], ÷òîáû ïî-íàñòîÿùåìó ïîìîãàòü äðóãèì ëþäÿì.;;x
+EVTDESCB_ZE_13021;I've always felt more comfortable being silent and letting others talk.;;;;;;;;;;;Ìíå âñåãäà áûëî êîìôîðòíåå íå âûñòàâëÿòü ñåáÿ íà ïåðåäíèé ïëàí ïåðåä îêðóæàþùèìè.;;x
+EVTDESCB_ZE_13022;I have observed that young [From.GetFirstName] usually tries to stay out of the way of others.;;;;;;;;;;;Òðóäíî íå çàìåòèòü, ÷òî þí[From.GetAyaYy] [From.GetFirstName] èçáåãàåò êîíòàêòà ñ ëþäüìè è [From.GetHersHis] óñòðàèâàåò òàêîå ïîëîæåíèå äåë.;;x
+EVTDESCB_ZE_13024;[From.GetTitledFirstName] says I am too shy and should try to relax more and just be myself among people.;;;;;;;;;;;[From.GetTitledFirstName] ãîâîðèò, ÷òî çàñòåí÷èâîñòü ìåøàåò ìíå áûòü ñîáîé è íå çàâèñåòü îò îêðóæàþùèõ.;;x
+EVTDESCB_ZE_13031;I like to play hard and talk straight. I have no time for nonsense.;;;;;;;;;;;ß ëþáëþ ïðÿìîòó è íå âûíîøó ñêîëüçêèõ ôîðìóëèðîâîê. Êòî-òî ãîâîðèò, ÷òî ïðàâäà íèêîìó íå íóæíà, íî îíà îñâîáîæäàåò è äåëàåò íàñ ñèëüíåå.;;x
+EVTDESCB_ZE_13032;Young [From.GetFirstName] plays hard and talks straight.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] îòëè÷àåòñÿ ÷åñòíîñòüþ è ïðÿìîëèíåéíîñòüþ.;;x
+EVTDESCB_ZE_13034;[From.GetTitledFirstName] appreciates my honest ways but tries to encourage me to be more courageous.;;;;;;;;;;;[From.GetTitledFirstName] óâàæàåò ìîþ ÷åñòíîñòü, íî ãîâîðèò, ÷òî íàñòîÿùàÿ õðàáðîñòü - ýòî íå÷òî áîëüøåå.;;x
+EVTDESCB_ZE_13041;I know what I can do and have no reason to be afraid of anything.;;;;;;;;;;;ß çíàþ, íà ÷òî ñïîñîá[Root.GetNaEn] è íè÷òî íå èñïóãàåò ìåíÿ.;;x
+EVTDESCB_ZE_13042;Young [From.GetFirstName] is more and more becoming known for [From.GetHerHis] great bravery.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] âñ¸ áîëüøå ñòàíîâèòñÿ èçâåñò[From.GetNaEn] ñâîåé õðàáðîñòüþ.;;x
+EVTDESCB_ZE_13044;[From.GetTitledFirstName] approves of my bravery but thinks I should be more proud of my achievements.;;;;;;;;;;;[From.GetTitledFirstName] ïîõâàëèë[From.GetEndA] ìåíÿ çà õðàáðîñòü. [From.GetSheHeCap] ñ÷èòàåò, ÷òî ÿ äîëæ[Root.GetNaEn] ãîðäèòüñÿ ñîáîé.;;x
+EVTDESCB_ZE_13051;The world is full of things that make me angry.;;;;;;;;;;;Êàê æå ìåíÿ âñ¸ áåñèò...;;x
+EVTDESCB_ZE_13052;I have noticed that young [From.GetFirstName] seems to carry a lot of anger around.;;;;;;;;;;;ß çàìåòèë[Root.GetEndA], ÷òî þí[From.GetAyaYy] [From.GetFirstName] âðåìåíàìè íå ñïîñîá[From.GetNaEn] ñîâëàäàòü ñî ñâîèì ãíåâîì.;;x
+EVTDESCB_ZE_13054;[From.GetTitledFirstName] thinks I should learn to better temper my anger.;;;;;;;;;;;[From.GetTitledFirstName] ñ÷èòàåò, ÷òî âàæíî íàó÷èòüñÿ ñäåðæèâàòü ñâîé ãíåâ.;;x
+EVTDESCB_ZE_13061;There are so many things in the world that are just not worth expending energy on.;;;;;;;;;;;Â ìèðå ñòîëüêî áåñïîëåçíîãî, òàê çà÷åì æå òðàòèòü óñèëèÿ?;;x
+EVTDESCB_ZE_13062;Young [From.GetFirstName] seems to be showing more and more signs of laziness.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] ñòàíîâèòñÿ âñ¸ áîëåå è áîëåå ëåíèâ[From.GetOyYm].;;x
+EVTDESCB_ZE_13064;[From.GetTitledFirstName] thinks I should get out more and talk to people.;;;;;;;;;;;[From.GetTitledFirstName] ãîâîðèò, ÷òî îáùåíèå ñ ëþäüìè ìîæåò îáëåã÷èòü ìîþ æèçíü è ñäåëàòü å¸ óâëåêàòåëüíåå.;;x
+EVTDESCB_ZE_13071;I love fun and games, but the best game of all is the one of tricking people into doing things for me.;;;;;;;;;;;ß âñåãäà ëþáèë[Root.GetEndA] èãðû, íî óâëåêàòåëüíåå âñåãî - èãðàòü ñóäüáàìè äðóãèõ ëþäåé.;;x
+EVTDESCB_ZE_13072;Young [From.GetFirstName] seems to be developing a rather devious and manipulative streak.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] âñ¸ áîëüøå ïðåâðàùàåòñÿ â êîâàðíîãî ìàíèïóëÿòîðà.;;x
+EVTDESCB_ZE_13074;[From.GetTitledFirstName] does not approve of my cleverness and cunning and decided to beat it out of me.;;;;;;;;;;;[From.GetTitledFirstName] ïîñòîÿííî áü¸ò ìåíÿ. Ãîâîðèò, ÷òî ÿ - ïîäëàÿ ñêîëüçêàÿ òâàðü, êîòîðîé ñëåäóåò áîëüøå óâàæàòü äðóãèõ ëþäåé.;;x
+EVTDESCB_ZE_13081;It's important to do things right, which includes not doing them too much.;;;;;;;;;;;Î÷åíü âàæíî âñ¸ äåëàòü ïðàâèëüíî, à äëÿ ýòîãî íóæíî âî âñ¸ì çíàòü ìåðó.;;x
+EVTDESCB_ZE_13082;Young [From.GetFirstName] is impressing everyone with [From.GetHerHis] sensible choices and great capacity for self-restraint.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] âïå÷àòëÿåò âñåõ ñâîèì áëàãîðàçóìèåì è âûäåðæêîé, [From.GetSheHe] âñåãäà ñòàâèò èíòåðåñû äåëà âûøå ñâîèõ ñîáñòâåííûõ.;;x
+EVTDESCB_ZE_13084;[From.GetTitledFirstName] commends me on my temperance and wisdom and wishes that I employ it in the service of just causes.;;;;;;;;;;;[From.GetTitledFirstName] õâàëèò ìåíÿ çà áëàãîðàçóìèå è âûäåðæêó. [From.GetSheHeCap] ðåêîìåíäóåò ìíå èñïîëüçîâàòü ýòè êà÷åñòâà äëÿ ðàçâèòèÿ ÷óâñòâà ñïðàâåäëèâîñòè.;;x
+EVTDESCB_ZE_13091;I love keeping an eye on things, and I love counting them. Coins especially.;;;;;;;;;;;ß ëþáëþ ñëåäèòü çà âåùàìè, òðîãàòü èõ, ïåðåêëàäûâàòü, ñ÷èòàòü. Îñîáåííî, ìîíåòû...;;x
+EVTDESCB_ZE_13092;Young [From.GetFirstName] seems to love ordering and counting things, coins especially.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] ëþáèò êðàñèâûå è äîðîãèå âåùè, ïåðåáèðàåò èõ, ñîðòèðóåò, ðàññòàâëÿåò. [From.GetHerHimCap] âñåãäà èõ ìàëî, è êàæåòñÿ, ýòà ñòðàñòü íèêîãäà íå óòèõíåò.;;x
+EVTDESCB_ZE_13094;[From.GetTitledFirstName] approves of my active mind but thinks I spend too much time thinking about gold and silver.;;;;;;;;;;;[From.GetTitledFirstName] îäîáðÿåò ìîþ òÿãó ê ïðåêðàñíîìó, íî ñ÷èòàåò, ÷òî ñîçäàíèå ÷åãî-òî íîâîãî ïðèíåñ¸ò ìíå áîëüøå ðàäîñòè, íåæåëè îáû÷íîå íàêîïèòåëüñòâî.;;x
+EVTDESCB_ZE_13101;There are people I know that follow different traditions than those of the [Root.Religion.GetName] faith. I have spoken to them and asked them about it, and now it doesn't seem so strange to me.;;;;;;;;;;;Åñòü íåêîòîðûå ñðåäè ìîèõ çíàêîìûõ, êîòîðûå ïðèäåðæèâàþòñÿ ñîâñåì äðóãèõ òðàäèöèé, [Root.GetReligionFullName] äëÿ íèõ ÿâëÿåòñÿ ÷åì-òî ÷óæäûì. Ìíå ñòàëî ëþáîïûòíî, è ÿ ïîãîâîðèë[Root.GetEndA] ñ íèìè îá ýòîì. Òåïåðü èõ âåðîâàíèÿ âîâñå íå êàæóòñÿ ìíå ñòðàííûìè.;;x
+EVTDESCB_ZE_13102;Young [From.GetFirstName] seems to be taking a curious interest in other traditions than the [From.Religion.GetName] ones.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] ïðîÿâëÿåò ïîâûøåííûé èíòåðåñ ê ÷óæèì òðàäèÿìè è âåðîâàíèÿì. [From.GetSheHeCap] îòêàçûâàåòñÿ ïðèçíàâàòü, ÷òî [From.GetReligionFullName] - åäèíñòâåííîå èñòèííîå ó÷åíèå.;;x
+EVTDESCB_ZE_13104;I love studying foreign customs, but [From.GetTitledFirstName] thinks I should look to my own virtues instead.;;;;;;;;;;;Ìíå î÷åíü íðàâèòñÿ èçó÷àòü ÷óæåçåìíûå îáû÷àè, íî [From.GetTitledFirstName] ñ÷èòàåò, ÷òî ìíå ñëåäóåò ïîìíèòü îá óãðîçå íàâðåäèòü íàøåé âåðå è íàó÷èòüñÿ ñäåðæèâàòü ñâî¸ ëþáîïûòñòâî.;;x
+EVTDESCB_ZE_13111;The more I hear of the words of the wise [Root.GetMenWomen] of old, the more I want to be like them.;;;;;;;;;;;Ìíå âñåãäà âïå÷àòëÿëè ñëîâà äðåâíèõ ìóäðåöîâ. ß õî÷ó ñòàòü, êàê îíè, èçó÷àòü èõ âåëèêèå òðóäû.;;x
+EVTDESCB_ZE_13112;Young [From.GetFirstName] often speaks in reverence of the wise [From.GetMenWomen] of old, saying [From.GetSheHe] wants to be like them.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] ÷àñòåíüêî ññûëàåòñÿ íà âåëèêèõ ìûñëèòåëåé ïðîøëîãî è õî÷åò ñòàòü ïîõîæ[From.GetEyIm] íà íèõ.;;x
+EVTDESCB_ZE_13114;I worship the memory of the wise [From.GetMenWomen] of old, but [From.GetTitledFirstName] thinks that I should focus on loving the living around me instead.;;;;;;;;;;;[From.GetTitledFirstName] ãîâîðèò, ÷òî âåëèêèõ ìûñëèòåëåé ïðîøëîãî äàâíî óæå íåò ñ íàìè, íî åñòü ìàññà ëþäåé âîêðóã, íóæäàþùèõñÿ â íàøåé ïîìîùè ïðÿìî çäåñü è ñåé÷àñ.;;x
+EVTDESCB_ZE_13611;After weeks of waiting for the right opportunity I find myself behind the barn alone together with the Carpenter's daughter that my heart has been longing for. My palms are sweaty and my chest is pounding.;;;;;;;;;;;Íåäåëÿìè âûæèäàÿ óäîáíóþ âîçìîæíîñòü äëÿ âñòðå÷è, ÿ íàêîíåö-òî îêàçà[Root.GetLasLsya] çà àìáàðîì íàåäèíå ñ äî÷åðüþ ïëîòíèêà. Ìîè ðóêè ïîòåþò, à ñåðäöå ãîòîâî âûñêî÷èòü èç ãðóäè.;;x
+EVTDESCC_ZE_13001;I know my worth, and people had better not stand in my way.;;;;;;;;;;;ß çíàþ ñâîþ öåííîñòü, è ëþäÿì ëó÷øå íå ñòîÿòü ó ìåíÿ íà ïóòè.;;x
+EVTDESCC_ZE_13002;Young [From.GetFirstName] is showing much petty cruelty towards others.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] âûðàæàåò âñ¸ áîëüøóþ ñêëîííîñòü ê æåñòîêîñòè.;;x
+EVTDESCC_ZE_13004;[From.GetTitledFirstName] disapproves of my tendencies towards cruelty and has told me that I should show more ambition.;;;;;;;;;;;[From.GetTitledFirstName] íå îäîáðÿåò ìî¸ ïîâåäåíèå. [From.GetSheHeCap] îñóæäàåò ìîþ æåñòîêîñòü, óòâåðæäàÿ, ÷òî ñàìûå äîáðûå è ïîëåçíûå ìíå ëþäè îòâåðíóòüñÿ îò ìåíÿ, è ÷òî ìíå ñëåäóåò ñäåðæèâàòü òàêèå ñêëîííîñòè â óãîäó ëè÷íûì àìáèöèÿì.;;x
+EVTDESCC_ZE_13011;I have learned that most people are kind, and it brings no benefit to walk with mistrust and suspicion.;;;;;;;;;;;ß ïîíÿë[Root.GetEndA], ÷òî áîëüøèíñòâî ëþäåé â ãëóáèíå äóøè äîáðûå, à íåäîâåðèå è ïîäîçðåíèÿ ëèøü îòðàâëÿþò íàø ðàçóì, èñòîùàÿ íàñ.;;x
+EVTDESCC_ZE_13012;Young [From.GetFirstName] seems to trust everyone, lacking any notion of the evil in man.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] ñëèøêîì äîâåð÷èâ[From.GetEndA] è ñîâåðøåííî íå âèäèò óãðîçó ñî ñòîðîíû äðóãèõ ëþäåé.;;x
+EVTDESCC_ZE_13014;[From.GetTitledFirstName] would like me to be less naive and make more efforts to actually help others.;;;;;;;;;;;[From.GetTitledFirstName] îñóæäàåò ìåíÿ çà íàèâíîñòü è óòâåðæäàåò, ÷òî òîëüêî ðåàëüíàÿ ïîìîùü äðóãèì ìîæåò ðàñïîëîæèòü èõ ê ñåáå.;;x
+EVTDESCC_ZE_13021;As I learn more about life, I find it is generally wise to stay out of danger as much as possible.;;;;;;;;;;;×åì áîëüøå ÿ óçíàþ î æèçíè, òåì ÿñíåå ïîíèìàþ, ÷òî ìóäðåå äåðæàòüñÿ ïîäàëüøå îò îïàñíîñòè.;;x
+EVTDESCC_ZE_13022;Young [From.GetFirstName] seems to constantly avoid taking any risks.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] ïîñòîÿííî èçáåãàåò ðèñêà è îïàñíîñòåé.;;x
+EVTDESCC_ZE_13024;[From.GetTitledFirstName] says I am too fearful and should try to relax more and just be myself;;;;;;;;;;;[From.GetTitledFirstName] ãîâîðèò, ÷òî ñòðàõ - ãëàâíûé âðàã ñàìîïîçíàíèÿ.;;x
+EVTDESCC_ZE_13031;Playing outside and scratching my knees has taught me to act quickly without unnecessary pause for thinking.;;;;;;;;;;;Êîãäà èãðàåøü íà ïðèðîäå, íåò âðåìåíè äóìàòü, íàäî äåéñòâîâàòü, èíà÷å áóäåò áåäà. Ñî ìíîé âñåãäà òàê áûëî.;;x
+EVTDESCC_ZE_13032;Young [From.GetFirstName] is showing tendencies to be more of a doer than a thinker. Yes, that would be a kind way to describe it...;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] âñ¸ áîëüøå ïîõîæ[From.GetEndA] íà ÷åëîâåêà äåéñòâèÿ ÷åì ìûñëèòåëÿ, è ýòî íàèáîëåå âåæëèâûé ñïîñîá îïèñàòü [From.GetHersHis]...;;x
+EVTDESCC_ZE_13034;[From.GetTitledFirstName] says I need to put more thought into my actions, but without compromising my physical courage.;;;;;;;;;;;[From.GetTitledFirstName] ãîâîðèò, ÷òî ìîè íåîáäóìàííûå äåéñòâèÿ âåäóò ëèøü ê ãëóïîñòè è íåóäà÷àì. ×òî ìíå ñëåäóåò íàáðàòüñÿ õðàáðîñòè è âçÿòüñÿ çà óì.;;x
+EVTDESCC_ZE_13041;I've learned that if I put my mind to something I will usually get it.;;;;;;;;;;;ß ïîíÿë[Root.GetEndA], ÷òî åñëè íèêîãäà íå ñäàâàòüñÿ, âñåãäà äîáü¸øüñÿ ñâîåãî.;;x
+EVTDESCC_ZE_13042;Young [From.GetFirstName] is developing a stubborn streak.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] ñòàíîâèòñÿ âñ¸ áîëåå óïðÿì[From.GetOyYm].;;x
+EVTDESCC_ZE_13044;[From.GetTitledFirstName] thinks I should be proud of what I have but try to be less stubborn.;;;;;;;;;;;[From.GetTitledFirstName] ñ÷èòàåò, ÷òî ÿ äîëæ[Root.GetNaEn] ãîðäèòüñÿ ñâîåé òâ¸ðäîñòüþ è öåëåóñòðåìë¸ííîñòüþ.;;x
+EVTDESCC_ZE_13051;The more I think about it, the more I see how things are wrongfully denied me.;;;;;;;;;;;×åì ÷àùå ÿ äóìàþ îá ýòîì, òåì ÿñíåå ïîíèìàþ, ÷òî äðóãèì áîëüøå ïîâåçëî â æèçíè.;;x
+EVTDESCC_ZE_13052;Young [From.GetFirstName] seems to be envious of everything and everyone.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] íèêàê íå ìîæåò óñïîêîèòüñÿ, [From.GetSheHe] çàâèäóåò âñåì âîêðóã.;;x
+EVTDESCC_ZE_13054;[From.GetTitledFirstName] thinks I should learn to temper my envy.;;;;;;;;;;;[From.GetTitledFirstName] ãîâîðèò, ÷òî ìíå áû íå ïîìåøàëî îáóçäàòü ñâîþ çàâèñòü, ïîêà îíà íå îòðàâèëà ìîþ æèçíü.;;x
+EVTDESCC_ZE_13061;I find there is nothing that pleases me so much as just sitting down for hours, eating.;;;;;;;;;;;ß ñ÷èòàþ, ÷òî íåò íè÷åãî â æèçíè ëó÷øåãî, ÷åì íàñëàæäåíèå âêóñîì èçûñêàííûõ áëþä. Åñòü åù¸ ñòîëüêî âñåãî, ÷òî ÿ íå óñïåë[Root.GetEndA] ïîïðîáîâàòü.;;x
+EVTDESCC_ZE_13062;Young [From.GetFirstName] never stops eating, always staying longer than anyone at the table.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] íèêîãäà íå ïðåêðàùàåò åñòü, ýòî óæå ïîõîæå íà îäåðæèìîñòü.;;x
+EVTDESCC_ZE_13064;[From.GetTitledFirstName] thinks I spend too much time eating and should pause to converse once in a while.;;;;;;;;;;;[From.GetTitledFirstName] äóìàåò, ÷òî ÿ ñòîëüêî åì, ïîòîìó ÷òî ìíå ïîïðîñòó íå÷åì áîëüøå çàíÿòüñÿ, è åñëè áû ÿ ÷àùå îáùà[Root.GetLasLsya] ñ ëþäüìè, ýòî ñäåëàëî áû ìåíÿ ëó÷øå.;;x
+EVTDESCC_ZE_13071;Playing games and pranks is the best fun! I do think I never want to grow up.;;;;;;;;;;;Âñÿ íàøà æèçíü - îäíà áîëüøàÿ èãðà. Ñ êàæäûì äí¸ì, ÿ âñ¸ áîëüøå ïîíèìàþ, ÷òî â ìèðå íåò íè÷åãî ðåàëüíîãî, òîëüêî èãðû ñ íàøèì âîîáðàæåíèåì.;;x
+EVTDESCC_ZE_13072;Young [From.GetFirstName] seems to often react in erratic and strange ways in perfectly everyday situations. There is something not quite right there...;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] íàñòîëüêî çàèãðà[From.GetLasLsya], ÷òî ïåðåñòàë[From.GetEndA] àäåêâàòíî âîñïðèíèìàòü ðåàëüíîñòü è ñâîè ïîñòóïêè â íåé.;;x
+EVTDESCC_ZE_13074;[From.GetTitledFirstName] thinks I am too 'strange' and decided to beat it out of me.;;;;;;;;;;;[From.GetTitledFirstName] ðåãóëÿðíî áü¸ò ìåíÿ. Ãîâîðèò, ÷òî ÿ ñòðàíí[Root.GetAyaYy] è äîëæ[Root.GetNaEn] ïîâçðîñëåòü, ÷òîáû óÿñíèòü, íàñêîëüêî æåñòîê ðåàëüíûé ìèð.;;x
+EVTDESCC_ZE_13091;I know how things should be done, but I fear others are always trying to sabotage my efforts.;;;;;;;;;;;ß çíàþ, êàêèì âñ¸ äîëæíî áûòü, íî áîþñü äðóãèå ïîñòîÿííî ïûòàþòñÿ ìíå ïîìåøàòü.;;x
+EVTDESCC_ZE_13092;Young [From.GetFirstName] loves doing things [From.GetHerHis] own way, and often takes it personally and gets angry when others offer opinions.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] îäåðæèì[From.GetEndA] ïîðÿäêîì â ñîáñòâåííûõ âåùàõ è äåëàõ. [From.GetSheHeCap] ïàíè÷åñêè áîèòñÿ, ÷òî êòî-òî åãî íàðóøèò.;;x
+EVTDESCC_ZE_13094;[From.GetTitledFirstName] says it's good that I have my own strong ideas, but [From.GetSheHe] wants me to focus more on the results of my actions than on worrying about the envy of others.;;;;;;;;;;;[From.GetTitledFirstName] ãîâîðèò, ÷òî õîðîøî èìåòü ñèëüíûå óáåæäåíèÿ, íî ëó÷øå íàïðàâèòü èõ íà äîñòèæåíèå ñâîèõ öåëåé, ÷åì íà áåñïîêîéñòâî î äðóãèõ.;;x
+EVTDESCC_ZE_13101;I spend a lot of time exploring and thinking about how things work..;;;;;;;;;;;Ìåíÿ âñåãäà èíòåðåñîâàëî, êàê óñòðîåí ìèð, ÿ ìíîãî äóìàë[Root.GetEndA] îá ýòîì è òåïåðü ïîíÿë[Root.GetEndA], êàê ìàëî ÿ çíàþ, è ñêîëüêî âñåãî íîâîãî ìîãó èçó÷èòü...;;x
+EVTDESCC_ZE_13102;Young [From.GetFirstName] seems to be a real explorer and experimenter, constantly finding new ideas and topics that fascinate [From.GetHerHim].;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] âñ¸ áîëüøå óâëåêàåòñÿ èññëåäîâàíèåì îêðóæàþùåãî ìèðà, ïîñòîÿííî íàõîäèò êàêèå-òî íîâûå èäåè, ýêñïåðèìåíòû è îáëàñòè çíàíèé, êîòîðûå âðåìÿ îò âðåìåíè ïîëíîñòüþ çàõâàòûâàþò [From.GetHersHis] ðàçóì.;;x
+EVTDESCC_ZE_13104;[From.GetTitledFirstName] seems to think I'm too clever for my own good, or so [From.GetSheHe] said.;;;;;;;;;;;[From.GetTitledFirstName] ãîâîðèò, ÷òî íà ôîíå äðóãèõ ìîé óì äåëàåò ìåíÿ ñëèøêîì ñòðàíí[Root.GetOyYm], íå ñòîèò ýòèì îòäåëÿòü ñåáÿ îò ëþäåé, èíà÷å ÿ âñåãäà áóäó îäèíîê[Root.GetEndA]. ×òî èíîãäà íàäî òåðïåòü îáùåñòâî ëþäåé ðàäè óñïåõà â æèçíè.;;x
+EVTDESCC_ZE_13111;It gives me great joy to admire the achievements of others. Especially as I am so weak myself.;;;;;;;;;;;Ìåíÿ òàê óâëåêàëè äîñòèæåíèÿ äðóãèõ, ÷òî ÿ äàæå çàáûë[Root.GetEndA] çàíÿòüñÿ ñîáñòâåííûì òåëîì.;;x
+EVTDESCC_ZE_13112;Young [From.GetFirstName] seems to be quick to praise the deeds of others around [From.GetHerHim], while neglecting [From.GetHerHis] own physical activity and development.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetFirstName] äóìàåò òîëüêî î äðóãèõ è ñîâñåì çàáûë[From.GetEndA] î ñåáå. Ýòî ÿñíåå âñåãî âèäíî â òîì, íàñêîëüêî ñëàáûì ñòàëî [From.GetHersHis] òåëî ïî ìåðå âçðîñëåíèÿ.;;x
+EVTDESCC_ZE_13114;I easily adore the virtues of others, but [From.GetTitledFirstName] thinks I'm too passive and should should focus more on helping people, lest I grow weak.;;;;;;;;;;;[From.GetTitledFirstName] ãîâîðèò, ÷òî ÿ íå ñìîãó ïîìî÷ü äðóãèì, åñëè [Root.GetHerselfHimself] áóäó ñëàá[Root.GetEndA]. Ëþäè íå íóæäàþòñÿ â ïî÷èòàíèè, èì íóæíà ðåàëüíàÿ ïîääåðæêà.;;x
+EVTOPTA_ZE_13001;I shall bow to no one.;;;;;;;;;;;ß íå ñòàíó ñêëîíÿòü ãîëîâó íè ïåðåä êåì.;;x
+EVTOPTA_ZE_13002;[From.GetSheHeCap] should show more ambition.;;;;;;;;;;;[From.GetHerHimCap] ÿâíî íå õâàòàåò àìáèöèîçíîñòè.;;x
+EVTOPTA_ZE_13004;[From.GetSheHeCap] is right - I am destined for greatness.;;;;;;;;;;;[From.GetSheHeCap] ïðàâ[From.GetEndA]. Ìíå ñóæäåíî ñòàòü âåëèê[Root.GetOyIm].;;x
+EVTOPTA_ZE_13011;Kindness binds us all together.;;;;;;;;;;;Äîáðîòà îáúåäèíÿåò âñåõ íàñ.;;x
+EVTOPTA_ZE_13012;[From.GetSheHeCap] should be more charitable.;;;;;;;;;;;[From.GetSheHeCap] ìîã[From.GetNoneE] áû ñòàòü áîëåå ùåäð[From.GetOyYm].;;x
+EVTOPTA_ZE_13014;[From.GetSheHeCap] is right, I should do more.;;;;;;;;;;;[From.GetSheHeCap] ïðàâ[From.GetEndA], ÿ ìîãó ñäåëàòü áîëüøå.;;x
+EVTOPTA_ZE_13021;I should avoid the dangers of pride.;;;;;;;;;;;Ãîðäûíÿ îïàñíà, îíà äåëàåò íàñ óÿçâèìûìè.;;x
+EVTOPTA_ZE_13022;[From.GetSheHeCap] shouldn't try so hard.;;;;;;;;;;;[From.GetSheHeCap] äîëæ[From.GetNaEn] ìåíüøå çàìîðà÷èâàòüñÿ.;;x
+EVTOPTA_ZE_13024;[From.GetSheHeCap] is right, I should let go of it.;;;;;;;;;;;[From.GetSheHeCap] ïðàâ[From.GetEndA]. ß äîëæ[Root.GetNaEn] îòïóñòèòü ýòî.;;x
+EVTOPTA_ZE_13031;It feels good to be strong!;;;;;;;;;;;È ìíå ýòî íðàâèòñÿ!;;x
+EVTOPTA_ZE_13032;I should focus on teaching [From.GetHerHim] bravery.;;;;;;;;;;;Ïîðà íàó÷èòü [From.GetHersHis] õðàáðîñòè.;;x
+EVTOPTA_ZE_13034;Yes, I want to be brave like [From.GetHerHim]!;;;;;;;;;;;Äà, ÿ õî÷ó áûòü õðàáð[Root.GetOyYm], êàê [From.GetSheHe]!;;x
+EVTOPTA_ZE_13041;I will be the greatest.;;;;;;;;;;;ß ñòàíó âåëèê[Root.GetOyIm].;;x
+EVTOPTA_ZE_13042;I should teach [From.GetHerHim] to be more proud instead.;;;;;;;;;;;[From.GetSheHeCap] äîëæ[From.GetNaEn] ãîðäèòüñÿ ñîáîé.;;x
+EVTOPTA_ZE_13044;[From.GetSheHeCap] is right, I should be proud!;;;;;;;;;;;[From.GetSheHeCap] ïðàâ[From.GetEndA]. Ìíå åñòü ÷åì ãîðäèòüñÿ!;;x
+EVTOPTA_ZE_13051;It's what separates us from the wild beasts.;;;;;;;;;;;Èìåííî ýòèì, ìû îòäåëÿåì ñåáÿ îò äèêèõ çâåðåé.;;x
+EVTOPTA_ZE_13052;[From.GetSheHeCap] should learn temperance.;;;;;;;;;;;[From.GetHerHimCap] ñëåäóåò íàó÷èòüñÿ óìåðåííîñòè.;;x
+EVTOPTA_ZE_13054;[From.GetSheHeCap] is right, I should calm down.;;;;;;;;;;;[From.GetSheHeCap] ïðàâ[From.GetEndA], âñåìó åñòü ðàçóìíûå ïðåäåëû.;;x
+EVTOPTA_ZE_13061;It's not worth the effort accumulating things anyway.;;;;;;;;;;;Íàêîïëåíèå âûìàòûâàåò íàñ.;;x
+EVTOPTA_ZE_13062;[From.GetSheHeCap] should get out more and talk to people.;;;;;;;;;;;[From.GetHerHimCap] íóæíî áîëüøå îáùàòüñÿ ñ ëþäüìè.;;x
+EVTOPTA_ZE_13064;Very well, I'll make the effort!;;;;;;;;;;;Íó õîðîøî, ñòîèò ïîïðîáîâàòü!;;x
+EVTOPTA_ZE_13071;And people seem to like me.;;;;;;;;;;;È ëþäÿì ýòî íðàâèòñÿ.;;x
+EVTOPTA_ZE_13072;I shall beat it out of [From.GetHerHim]!;;;;;;;;;;;ß âûáüþ ýòó äóðü èç í[From.GetHersHis]!;;x
+EVTOPTA_ZE_13074;One day I'll do the same unto others.;;;;;;;;;;;Êîãäà-íèáóäü ÿ ïîêàæó âàì âñåì...;;x
+EVTOPTA_ZE_13081;I just like getting things done.;;;;;;;;;;;Ëþáëþ, êîãäà âñ¸ ñäåëàíî, êàê íàäî.;;x
+EVTOPTA_ZE_13082;[From.GetSheHeCap] should use that power for good.;;;;;;;;;;;[From.GetSheHeCap] äîëæ[From.GetNaEn] èñïîëüçîâàòü ýòî âî áëàãî.;;x
+EVTOPTA_ZE_13084;Sage advice.;;;;;;;;;;;Ìóäðûé ñîâåò.;;x
+EVTOPTA_ZE_13091;One shouldn't rush things needlessly.;;;;;;;;;;;Òîðîïèòüñÿ íåêóäà.;;x
+EVTOPTA_ZE_13092;I should help guide [From.GetHerHim] in the right direction.;;;;;;;;;;;ß äîëæ[Root.GetNaEn] íàïðàâèòü [From.GetHersHis] â ïðàâèëüíîå ðóñëî.;;x
+EVTOPTA_ZE_13094;I should be more like [From.GetHerHim].;;;;;;;;;;;ß õî÷ó ñòàòü òàê[Root.GetOyIm], êàê [From.GetSheHe].;;x
+EVTOPTA_ZE_13101;They are all liars!;;;;;;;;;;;Ëæåöû!;;x
+EVTOPTA_ZE_13102;I should try to stop these tendencies..;;;;;;;;;;;Íàäî îñòàíîâèòü [From.GetHersHis], ïîêà íå ïîçäíî.;;x
+EVTOPTA_ZE_13104;[From.GetSheHeCap] is right, I should calm down.;;;;;;;;;;;[From.GetSheHeCap] ïðàâ[From.GetEndA], ìåíÿ âîçíåíàâèäÿò.;;x
+EVTOPTA_ZE_13111;And I praise [Root.Religion.GetRandomGodName]!;;;;;;;;;;;ß - íè÷òî áåç ñâîåé âåðû.;;x
+EVTOPTA_ZE_13112;[From.GetSheHeCap] should focus on helping others instead.;;;;;;;;;;;[From.GetSheHeCap] äîëæ[From.GetNaEn] ñîñðåäîòî÷èòüñÿ íà ïîìîùè äðóãèì.;;x
+EVTOPTA_ZE_13114;[From.GetSheHeCap] is right.;;;;;;;;;;;[From.GetSheHeCap] ïðàâ[From.GetEndA].;;x
+EVTOPTA_ZE_13610;...the Farrier's apprentice.;;;;;;;;;;;...ó÷åíèêîì êóçíåöà.;;x
+EVTOPTA_ZE_13610_MALE;...the Carpenter's daughter.;;;;;;;;;;;...äî÷åðüþ ïëîòíèêà.;;x
+EVTOPTA_ZE_13611_CARP;Declare my eternal love for her.;;;;;;;;;;;Ïðèçíàòüñÿ åé â ëþáâè.;;x
+EVTOPTA_ZE_13611_FERR;Declare my eternal love for him.;;;;;;;;;;;Ïðèçíàòüñÿ åìó â ëþáâè.;;x
+EVTOPTA_ZE_13620;Honesty, if anything.;;;;;;;;;;;Ïðàâäà - ëó÷øåå îðóæèå óáåæäåíèÿ.;;x
+EVTOPTA_ZE_13621;Show bravery to inspire others.;;;;;;;;;;;Õðàáðîñòü âïå÷àòëÿåò ëþäåé.;;x
+EVTOPTA_ZE_13622;Treat all as equals.;;;;;;;;;;;Îòíîñèñü êî âñåì êàê ê ðàâíûì è òåáÿ áóäóò óâàæàòü.;;x
+EVTOPTA_ZE_13623;Knowledge is power others don't need.;;;;;;;;;;;Çíàíèå - òâîÿ ñèëà, íåâåäåíèå - ñëàáîñòü äðóãèõ.;;x
+EVTOPTA_ZE_13624;Knowledge is power, always learn more.;;;;;;;;;;;Âñåãäà áóäü â êóðñå, èçó÷àé ìèð, çíàíèå - ñèëà.;;x
+EVTOPTA_ZE_13625;[From.GetSheHeCap] deserves greatness. Go get it!;;;;;;;;;;;Òû çàñëóæèâàåøü ëó÷øåãî. Èäè ê ñâîåé ìå÷òå!;;x
+EVTOPTA_ZE_13700;That farmer [Root.GetBoyGirl] I met earlier.;;;;;;;;;;;Ò[Root.GetEtaEtot] äåðåâåíñê[Root.GetAyaIy] [Root.GetAgedPersonM], êîòîð[Root.GetUyuOgo] ÿ âèäåë[Root.GetEndA] ðàíüøå.;;x
+EVTOPTA_ZE_13701;What would it be like to hold [Root.GetHerHim]?;;;;;;;;;;;Êàêîâî æå ýòî, ñæàòü [Root.GetHersHis] â ñâîèõ îáúÿòüÿõ?;;x
+EVTOPTA_ZE_13702;I will save myself for [lustful_target.GetHerHim].;;;;;;;;;;;ß ñîõðàíþ ñåáÿ äëÿ í[lustful_target.GetHersHis].;;x
+EVTOPTA_ZE_13703;I would do well to focus on other things.;;;;;;;;;;;Íàäî ñîñðåäîòî÷èòüñÿ íà ÷¸ì-òî äðóãîì.;;x
+EVTOPTA_ZE_13704;It seems as [From.GetSheHe] is infatuated with me...;;;;;;;;;;;Ïîõîæå, [From.GetSheHe] âëþáè[From.GetLasLsya] â ìåíÿ.;;x
+EVTOPTB_ZE_13001;And I know where to get it.;;;;;;;;;;;È çíàþ, êàê ýòî ïîëó÷èòü.;;x
+EVTOPTB_ZE_13002;It's fine, I don't need more competition.;;;;;;;;;;;Òàê[From.GetOyIm] óæ âûðîñ[From.GetNoneE], ÷òî ïîäåëàòü.;;x
+EVTOPTB_ZE_13004;[From.GetSheHeCap] can't tell me what to do!;;;;;;;;;;;Íèêòî íå áóäåò óêàçûâàòü ìíå, ÷òî äåëàòü!;;x
+EVTOPTB_ZE_13011;I have what I need right here.;;;;;;;;;;;Ó ìåíÿ åñòü âñ¸, ÷åãî ÿ æåëàþ.;;x
+EVTOPTB_ZE_13012;[From.GetSheHeCap] can only be [From.GetHerselfHimself].;;;;;;;;;;;[From.GetSheHeCap] ìîæåò áûòü ëèøü ñîáîé.;;x
+EVTOPTB_ZE_13014;I will try.;;;;;;;;;;;ß ïîñòàðàþñü.;;x
+EVTOPTB_ZE_13021;There is no need to be noisy.;;;;;;;;;;;Çà÷åì ïîäñòàâëÿòüñÿ, åñëè ëó÷øå äåéñòâîâàòü â òåíè?;;x
+EVTOPTB_ZE_13022;All is as it should be.;;;;;;;;;;;Âñ¸ èìåííî òàê, êàê è äîëæíî áûòü.;;x
+EVTOPTB_ZE_13024;I'm not trying, it's who I am.;;;;;;;;;;;Íî ÿ òàê[Root.GetAyaOy] è åñòü.;;x
+EVTOPTB_ZE_13031;I will always speak my mind.;;;;;;;;;;;ß âñåãäà ãîâîðþ òî, ÷òî äóìàþ.;;x
+EVTOPTB_ZE_13032;[From.GetSheHeCap] should do [From.GetHerHis] own thing.;;;;;;;;;;;[From.GetSheHeCap] [From.GetHerselfHimself] âåðøèò ñâîþ ñóäüáó.;;x
+EVTOPTB_ZE_13034;My strength is all I need.;;;;;;;;;;;Ñèëà - ýòî âñ¸, ÷òî ìíå íóæíî.;;x
+EVTOPTB_ZE_13041;What is there to fear? Nothing.;;;;;;;;;;;Ëèøü ïðåîäîëåâàÿ ñâîé ñòðàõ, ìû äâèæåìñÿ âïåð¸ä.;;x
+EVTOPTB_ZE_13042;[From.GetSheHeCap] could never be like me anyway.;;;;;;;;;;;[From.GetSheHeCap] íèêîãäà íå ñòàíåò òàê[From.GetOyIm], êàê ÿ.;;x
+EVTOPTB_ZE_13042_B;Good for [From.GetHerHim]!;;;;;;;;;;;Ðàä[Root.GetEndA] çà í[From.GetHersHis]!;;x
+EVTOPTB_ZE_13044;But I don't have enough!;;;;;;;;;;;Íî ýòîãî ìàëî!;;x
+EVTOPTB_ZE_13051;I can't stand it sometimes!;;;;;;;;;;;Èíîãäà, ýòî ïðîñòî íåâûíîñèìî!;;x
+EVTOPTB_ZE_13052;I should resist the temptation to intervene.;;;;;;;;;;;ß äîëæ[Root.GetNaEn] óìåðèòü ñâî¸ ñòðåìëåíèå ìåíÿòü [From.GetHersHis] æèçíü.;;x
+EVTOPTB_ZE_13054;It would be wrong to not care!;;;;;;;;;;;Íàøå áåçäåéñòâèå ïîçâîëÿåò çëó òîðæåñòâîâàòü.;;x
+EVTOPTB_ZE_13061;It's true of almost everyhing, really.;;;;;;;;;;;È ýòî ìîæíî ñêàçàòü ïî÷òè îáî âñåõ çàíÿòèÿõ.;;x
+EVTOPTB_ZE_13062;Ah, the young will be as they are!;;;;;;;;;;;Íî, ÷òî òóò ïîäåëàåøü?;;x
+EVTOPTB_ZE_13064;I'd rather give them my things.;;;;;;;;;;;Íî ëþäè íàïðÿãàþò íè÷óòü íå ìåíüøå ÷åì ëèøíèå âåùè.;;x
+EVTOPTB_ZE_13071;I pull the strings.;;;;;;;;;;;È ä¸ðãàòü çà íèòî÷êè.;;x
+EVTOPTB_ZE_13072;I'm sure [From.GetSheHe] will suffer in life.;;;;;;;;;;;Óâåðåí[Root.GetEndA], ýòî [From.GetHerHim] åù¸ àóêíåòñÿ.;;x
+EVTOPTB_ZE_13074;I'll speak of [From.GetHerHis] cruelty to everyone!;;;;;;;;;;;ß âñåì ðàññêàæó îá ýòîì.;;x
+EVTOPTB_ZE_13081;Self-control is the first step to greatness.;;;;;;;;;;;Ñàìîêîíòðîëü - ïåðâûé øàã ê âåëè÷èþ.;;x
+EVTOPTB_ZE_13082;Life will reward [From.GetHerHim].;;;;;;;;;;;Æèçíü íàãðàäèò [From.GetHersHis].;;x
+EVTOPTB_ZE_13084;I already know what I want to do.;;;;;;;;;;;ß è òàê çíàþ, ÷òî ìíå äåëàòü.;;x
+EVTOPTB_ZE_13091;They are so shiny.;;;;;;;;;;;Îíè ïðåêðàñíû.;;x
+EVTOPTB_ZE_13092;[From.GetSheHeCap] is a busy soul, just like me.;;;;;;;;;;;[From.GetSheHeCap] ïðîñòî çàíÿò[From.GetEndA] ñâîèì äåëîì.;;x
+EVTOPTB_ZE_13094;Now, don't be hasty, [From.GetLordLady] [From.GetFirstName].;;;;;;;;;;;Ê ÷åìó ñïåøèòü? Öåëè ïîÿâÿòñÿ, êîãäà-íèáóäü...;;x
+EVTOPTB_ZE_13101;We are all the same, I guess.;;;;;;;;;;;Âñåì íàì åñòü ÷åìó ïîó÷èòüñÿ äðóã ó äðóãà.;;x
+EVTOPTB_ZE_13102;Boys will be boys.;;;;;;;;;;;Ýõ... ìîëîä¸æü!;;x
+EVTOPTB_ZE_13104;But they are fools!;;;;;;;;;;;Ñäåðæèâàé, íå ñäåðæèâàé, îíè-òî âñ¸ ðàâíî èäèîòû.;;x
+EVTOPTB_ZE_13111;Only from knowledge comes true strength.;;;;;;;;;;;Èñòèííàÿ ñèëà â çíàíèè.;;x
+EVTOPTB_ZE_13112;What a lovely child!;;;;;;;;;;;Êàê[From.GetAyaOy] õîðîø[From.GetAyaIy] [From.GetLadLass].;;x
+EVTOPTB_ZE_13114;No, [Root.Religion.GetRandomGodName] is the greatest!;;;;;;;;;;;Íå íè÷åãî âàæíåå [Root.GetReligionHighGodGEN]!;;x
+EVTOPTB_ZE_13610;...the Carpenter's daughter.;;;;;;;;;;;...äî÷åðüþ ïëîòíèêà.;;x
+EVTOPTB_ZE_13610_MALE;...the Farrier's apprentice.;;;;;;;;;;;...ó÷åíèêîì êóçíåöà.;;x
+EVTOPTB_ZE_13611_CARP;Kiss her on the cheek.;;;;;;;;;;;Ïîöåëîâàòü å¸ â ù¸êó.;;x
+EVTOPTB_ZE_13611_FERR;Kiss him on the cheek.;;;;;;;;;;;Ïîöåëîâàòü åãî â ù¸êó.;;x
+EVTOPTB_ZE_13620;Being sociable is key.;;;;;;;;;;;Çàâîäè çíàêîìñòâà, ñîöèàëèçàöèÿ - ïóòü ê óñïåõó.;;x
+EVTOPTB_ZE_13621;I'll have to toughen [From.GetHerHim] up...;;;;;;;;;;;Ïóñòü äðóãèå áîÿòñÿ òåáÿ.;;x
+EVTOPTB_ZE_13622;Self-restraint, a life of moderation.;;;;;;;;;;;Óìåðåííîñòü èçáàâëÿåò îò íåóäà÷ è îáëåã÷àåò óñïåõ.;;x
+EVTOPTB_ZE_13623;Others may try to trick you.;;;;;;;;;;;Íå ïîçâîëÿé íèêîìó äóðèòü òåáÿ ãëóïûìè íåáûëèöàìè.;;x
+EVTOPTB_ZE_13624;Don't be distracted by lust.;;;;;;;;;;;Ïîõîòü äåëàåò ÷åëîâåêà ñëàáûì è óÿçâèìûì.;;x
+EVTOPTB_ZE_13625;Be thorough, make others count on you.;;;;;;;;;;;Ñòàðàéñÿ áîëüøå è äðóãèå áóäóò ïîëàãàòüñÿ íà òåáÿ.;;x
+EVTOPTB_ZE_13700;[lustful_target.GetFirstName], kissing me.;;;;;;;;;;;[lustful_target.GetFirstName], [lustful_target.GetSheHe] öåëîâàë[lustful_target.GetEndA] ìåíÿ.;;x
+EVTOPTB_ZE_13701;[Root.GetSheHeCap] is the one for me.;;;;;;;;;;;[Root.GetSheHeCap] - ò[Root.GetEtaEtot] ñàì[Root.GetAyaYy].;;x
+EVTOPTB_ZE_13702;[lustful_target.GetSheHeCap] gets me all excited.;;;;;;;;;;;Ðÿäîì ñ í[lustful_target.GetEyIm] ÿ ñ òðóäîì ñäåðæèâàþ ñåáÿ.;;x
+EVTOPTB_ZE_13703;Maybe it will change with time.;;;;;;;;;;;Ìîæåò, ýòî ïðîéä¸ò ñî âðåìåíåì.;;x
+EVTOPTC_ZE_13001;If they protest I will crush them.;;;;;;;;;;;Èíà÷å ÿ ðàçäàâëþ èõ.;;x
+EVTOPTC_ZE_13004;Yes, [From.GetTitledFirstName]'.;;;;;;;;;;;Êàê ïðèêàæåòå, [From.PrimaryTitle.GetFOA].;;x
+EVTOPTC_ZE_13011;Why would anyone want to harm me?;;;;;;;;;;;Äà è çà÷åì êîìó-òî âðåäèòü ìíå?;;x
+EVTOPTC_ZE_13014;I help when I can, but rarely see a need.;;;;;;;;;;;ß ïîìîãó, êîãäà ýòî äåéñòâèòåëüíî áóäåò íóæíî.;;x
+EVTOPTC_ZE_13021;Only the foolish take risks.;;;;;;;;;;;Òîëüêî äóðàê èä¸ò íà íåîïðàâäàííûé ðèñê.;;x
+EVTOPTC_ZE_13024;I'd rather be myself by myself.;;;;;;;;;;;Ïðîùå âñåãî áûòü ñîáîé íàåäèíå ñ ñîáîé.;;x
+EVTOPTC_ZE_13031;Thinking was never my strong side anyway!;;;;;;;;;;;À òåïåðü óæå ïîçäíî ó÷èòüñÿ.;;x
+EVTOPTC_ZE_13034;Honestly, I don't care.;;;;;;;;;;;Åñëè ÷åñòíî, ìíå ïëåâàòü.;;x
+EVTOPTC_ZE_13041;I was just born stubborn.;;;;;;;;;;;Äà, ÿ óïðÿì[Root.GetAyaYy], è â ýòîì ìîÿ ñèëà.;;x
+EVTOPTC_ZE_13044;I have nothing yet, but [Root.GetSheHe] who dares wins!;;;;;;;;;;;Åùå ðàíî, âïåðåäè ñòîëüêî ñâåðøåíèé!;;x
+EVTOPTC_ZE_13051;It should all be mine.;;;;;;;;;;;Âñ¸ äîëæíî áûòü ìîèì.;;x
+EVTOPTC_ZE_13054;I don't care what that [GetRootFromInsult] thinks!;;;;;;;;;;;Äà ïîø[From.GetLaYol] [From.GetSheHe]!;;x
+EVTOPTC_ZE_13061;It is truly the ultimate good in life.;;;;;;;;;;;Îäèí ðàç âåäü æèâ¸ì.;;x
+EVTOPTC_ZE_13064;Why bother?;;;;;;;;;;;Íî ìíå ëåíü.;;x
+EVTOPTC_ZE_13071;The world is made of pixie dust!;;;;;;;;;;;Ìèð ñäåëàí èç ïûëüöû ôåé!;;x
+EVTOPTC_ZE_13074;I'll let [From.GetHerHim] think it's working.;;;;;;;;;;;Cäåëàþ òàê, ÷òîáû [From.GetSheHe] ïîâåðèë[From.GetEndA], ÷òî ýòî [From.GetHerHim] óäàëîñü.;;x
+EVTOPTC_ZE_13084;It's not wise to be overly zealous.;;;;;;;;;;;Ìíå êàæåòñÿ, ýòî óæå ïåðåáîð.;;x
+EVTOPTC_ZE_13091;I must be wary of their envy.;;;;;;;;;;;Íóæíî áûòü íà÷åêó.;;x
+EVTOPTC_ZE_13094;But gold is so pretty!;;;;;;;;;;;Íî ÿ âåäü ìîãó îñòàâèòü âñ¸ ýòî ñåáå, äà?;;x
+EVTOPTC_ZE_13101;It feels great to learn!;;;;;;;;;;;Ó÷èòüñÿ - ýòî òàê çäîðîâî!;;x
+EVTOPTC_ZE_13102;Girls will be girls.;;;;;;;;;;;Ýõ... ìîëîä¸æü!;;x
+EVTOPTC_ZE_13104;Is [From.GetSheHe] not interested in the world at all?;;;;;;;;;;;×òî ýòî çà âåðà òàêàÿ, ðàç îíà çàïðåùàåò ïîçíàíèå?;;x
+EVTOPTC_ZE_13111;They strike me with awe.;;;;;;;;;;;Äà è êóäà óæ ìíå äî íèõ.;;x
+EVTOPTC_ZE_13114;I shall love them when they have something interesting to say.;;;;;;;;;;;Ëþäè ïðèõîäÿò è óõîäÿò, íî ìóäðîñòü æèâ¸ò â âåêàõ.;;x
+EVTOPTC_ZE_13610;...no, I had better keep these thoughts for myself.;;;;;;;;;;;Íåò! Ýòè ìûñëè îòâëåêàþò ìåíÿ.;;x
+EVTOPTC_ZE_13611_CARP;Suggest a secluded cuddle inside the barn.;;;;;;;;;;;Îáíÿòü å¸ è çàòàùèòü â àìáàð.;;x
+EVTOPTC_ZE_13611_FERR;Suggest a secluded cuddle inside the barn.;;;;;;;;;;;Îáíÿòü åãî è çàòàùèòü â àìáàð.;;x
+EVTOPTC_ZE_13620;[From.GetFirstName] must learn on [From.GetHerHis] own.;;;;;;;;;;;Ïóñòü ðåøàåò ñàìîñòîÿòåëüíî.;;x
+EVTOPTC_ZE_13625;Make your move at the right time.;;;;;;;;;;;Äîæäèñü íàèëó÷øåãî ìîìåíòà è òîãäà äåëàé ñâîé õîä.;;x
+EVTOPTC_ZE_13700;Whatever it was is not important.;;;;;;;;;;;×òî áû ýòî íè áûëî, íå âàæíî.;;x
+EVTOPTC_ZE_13701;If I see [Root.GetHerHim] again we'll have some fun.;;;;;;;;;;;ß õî÷ó [Root.GetHersHis].;;x
+EVTOPTD_ZE_13004;[From.GetSheHeCap]'ll be lucky if I don't poison [From.GetHerHis] food.;;;;;;;;;;;[From.GetHerHimCap] ïîâåç¸ò, åñëè ÿ íå îòðàâëþ [From.GetHersHis].;;x
+EVTOPTD_ZE_13014;But the [Root.TopLiege.GetTitle] provides for all, surely?;;;;;;;;;;;Íî âåäü [Root.TopLiege.GetTitle] çàáîòèòñÿ î íàñ.;;x
+EVTOPTD_ZE_13024;There is nothing wrong with being cautious.;;;;;;;;;;;Çàòî îñòîðîæíîñòü - ìîé ëó÷øèé äðóã.;;x
+EVTOPTD_ZE_13034;I don't even know what that means.;;;;;;;;;;;Î ÷¸ì [From.GetSheHe] âîîáùå?;;x
+EVTOPTD_ZE_13044;I'll decide for myself, thank you.;;;;;;;;;;;Ñïàñèáî, íî ÿ [Root.GetHerselfHimself] ðåøó, ÷òî ìíå äåëàòü.;;x
+EVTOPTD_ZE_13054;That's easy for [From.GetHerHim] to say!;;;;;;;;;;;[From.GetHerHimCap] ëåãêî ãîâîðèòü!;;x
+EVTOPTD_ZE_13064;I'd rather not talk with food in my mouth.;;;;;;;;;;;Ëþäè íå ëþáÿò, êîãäà ãîâîðÿò ñ íàáèòûì ðòîì.;;x
+EVTOPTD_ZE_13074;But I was invisible the whole time.;;;;;;;;;;;Íî ÿ æå íåâèäèì[Root.GetAyaYy], êàê [From.GetSheHe] íàø[From.GetLaYol] ìåíÿ?;;x
+EVTOPTD_ZE_13094;But they hate me!;;;;;;;;;;;Íî îíè íàâåðíÿêà ìíå ïîìåøàþò...;;x
+EVTOPTD_ZE_13104;Too clever for [From.GetHerHim], maybe.;;;;;;;;;;;Íî ÿ õî÷ó çíàíèé, à íå îäîáðåíèÿ îò äóðàêîâ.;;x
+EVTOPTD_ZE_13114;I'm fine.;;;;;;;;;;;ß â ïîðÿäêå.;;x
+EVTOPTD_ZE_13610;...no, these feelings are wrong!;;;;;;;;;;;Íåò! Ýòî íåïðàâèëüíî!;;x
+EVTOPTD_ZE_13700;I should just try to get to sleep.;;;;;;;;;;;Íå âàæíî, ïîñòàðàþñü óñíóòü.;;x
+EVTOPTD_ZE_13701;I shouldn't. It's a sin.;;;;;;;;;;;Òàê íåëüçÿ. Ýòî ãðåõ!;;x

@@ -1,551 +1,534 @@
 # Unused
-crown_city_charters_only;Crown City Charters;;;;;;;;;;;;;x
-crown_city_charters_only_desc;Cities within the Kingdom can only be chartered by (be vassals of) the King.;;;;;;;;;;;;;x
-default_mission_header;Powerful factions want us to;;;;;;;;;;;;;x
-law_female_chancellor;Female Chancellors;;;;;;;;;;;;;x
-law_female_chancellor_desc;Women can be appointed Chancellor.;;;;;;;;;;;;;x
-law_female_treasurer;Female Stewards;;;;;;;;;;;;;x
-law_female_treasurer_desc;Women can be appointed Stewards.;;;;;;;;;;;;;x
-alpha_story_desc;This would describe it if it was a true story..;;;;;;;;;;;;;x
-alpha_story_load;A test story;;;;;;;;;;;;;x
-alpha_story_title;Testing Story;;;;;;;;;;;;;x
-job_viceroy name;Viceroy;;;;;;;;;;;;;x
-HEREDITARY_JOB_OFF;The $JOB$ title is no longer hereditary\n;;;;;;;;;;;;;x
-HEREDITARY_JOB_ON;The $JOB$ title is now hereditary\n;;;;;;;;;;;;;x
-IS_PRIMARY_CULTURE;Is primary culture ;;;;;;;;;;;;;x
-IS_NOT_PRIMARY_CULTURE;Is not primary culture ;;;;;;;;;;;;;x
-IS_STATE_RELIGION;Has the same religion as the Liege;;;;;;;;;;;;;x
-ISNT_STATE_RELIGION;Has different religion than the Liege;;;;;;;;;;;;;x
-IS_COMMANDER;Is a Commander;;;;;;;;;;;;;x
-IS_NOT_COMMANDER;Is not a Commander;;;;;;;;;;;;;x
-IS_POTENTIAL_FRIEND_OF;Is a potential friend of §Y$WHO$§!;;;;;;;;;;;;;x
-IS_NOT_POTENTIAL_FRIEND_OF;Is not a potential friend of §Y$WHO$§!;;;;;;;;;;;;;x
-NUMBER_OF_SOCIETIES_JOINED;Is in $NUM|Y$ societies;;;;;;;;;;;;;x
-NUMBER_OF_SOCIETIES_JOINED_NOT;Is not in $NUM|Y$ societies;;;;;;;;;;;;;x
-
+crown_city_charters_only;Crown City Charters;;;;;;;;;;;Ïðèâèëåãèè ãîðîäîâ êîðîíû;;x
+crown_city_charters_only_desc;Cities within the Kingdom can only be chartered by (be vassals of) the King.;;;;;;;;;;;Ãîðîäà â ïðåäåëàõ ãîñóäàðñòâà ïîä÷èíÿþòñÿ òîëüêî ìîíàðõó (ÿâëÿþòñÿ âàññàëàìè).;;x
+default_mission_header;Powerful factions want us to;;;;;;;;;;;Âëèÿòåëüíûå ôðàêöèè õîòÿò îò íàñ;;x
+law_female_chancellor;Female Chancellors;;;;;;;;;;;Æåíùèíà êàíöëåð;;x
+law_female_chancellor_desc;Women can be appointed Chancellor.;;;;;;;;;;;Æåíùèíû ìîãóò áûòü íàçíà÷åíû êàíöëåðàìè.;;x
+law_female_treasurer;Female Stewards;;;;;;;;;;;Æåíùèíà óïðàâëÿþùèé;;x
+law_female_treasurer_desc;Women can be appointed Stewards.;;;;;;;;;;;Æåíùèíû ìîãóò áûòü íàçíà÷åíû óïðàâëÿþùèìè.;;x
+alpha_story_desc;This would describe it if it was a true story..;;;;;;;;;;;Òóò ìîæåò áûòü îïèñàíèå èñòîðèè, åñëè îíà - ðåàëüíàÿ...;;x
+alpha_story_load;A test story;;;;;;;;;;;Òåñòîâàÿ èñòîðèÿ;;x
+alpha_story_title;Testing Story;;;;;;;;;;;Òåñòèðîâàíèå èñòîðèè;;x
+job_viceroy name;Viceroy;;;;;;;;;;;Íàìåñòíèê;;x
+HEREDITARY_JOB_OFF;The $JOB$ title is no longer hereditary\n;;;;;;;;;;;Òèòóë $JOB$ áîëüøå íå áóäåò ïåðåäàâàòüñÿ ïî íàñëåäñòâó\n;;x
+HEREDITARY_JOB_ON;The $JOB$ title is now hereditary\n;;;;;;;;;;;Òèòóë $JOB$ òåïåðü áóäåò ïåðåäàâàòüñÿ ïî íàñëåäñòâó\n;;x
+IS_PRIMARY_CULTURE;Is primary culture ;;;;;;;;;;;ßâëÿåòñÿ îñíîâíîé êóëüòóðîé ;;x
+IS_NOT_PRIMARY_CULTURE;Is not primary culture ;;;;;;;;;;;ÍÅ ÿâëÿåòñÿ îñíîâíîé êóëüòóðîé ;;x
+IS_STATE_RELIGION;Has the same religion as the Liege;;;;;;;;;;;Îäèíàêîâîé ðåëèãèè ñ ñþçåðåíîì;;x
+ISNT_STATE_RELIGION;Has different religion than the Liege;;;;;;;;;;;Ðàçíûå ðåëèãèè ñ ñþçåðåíîì;;x
+IS_COMMANDER;Is a Commander;;;;;;;;;;;ßâëÿåòñÿ êîìàíäóþùèì;;x
+IS_NOT_COMMANDER;Is not a Commander;;;;;;;;;;;ÍÅ ÿâëÿåòñÿ êîìàíäóþùèì;;x
+IS_POTENTIAL_FRIEND_OF;Is a potential friend of §Y$WHO$§!;;;;;;;;;;;ßâëÿåòñÿ ïîòåíöèàëüíûì äðóãîì ÷åëîâåêà ïî èìåíè §Y$WHO$§!;;x
+IS_NOT_POTENTIAL_FRIEND_OF;Is not a potential friend of §Y$WHO$§!;;;;;;;;;;;ÍÅ ÿâëÿåòñÿ ïîòåíöèàëüíûì äðóãîì ÷åëîâåêà ïî èìåíè §Y$WHO$§!;;x
+NUMBER_OF_SOCIETIES_JOINED;Is in $NUM|Y$ societies;;;;;;;;;;;Ñîñòîèò â $NUM|Y$ îáùåñòâàõ;;x
+NUMBER_OF_SOCIETIES_JOINED_NOT;Is not in $NUM|Y$ societies;;;;;;;;;;;ÍÅ ñîñòîèò â $NUM|Y$ îáùåñòâàõ;;x
 # No longer used
-SUCCESSION_WAR_NAME;$ORDER$$TARGET$ Succession War;;;;;;;;;;;;;x
-mission_holy_war;$CRUSADE_NAME$ against $OWNERFULLNAME$;;;;;;;;;;;;;x
-mission_holy_war_desc;The $ROOT_CHARACTERTITLE$ has called for a $CRUSADE_NAME$ to take §Y$PROVINCE$§! from the §Y$TOPOWNERFULLNAME$§!!;;;;;;;;;;;;;x
-no_secret_religion;Is NOT secretly following another religion\n;;;;;;;;;;;;;x
-REL_AUTHORITY_EFFECT;$RELIGION$ $DIRECTION$ $PERC$ Moral Authority\n;;;;;;;;;;;;;x
-HAVE_CHARACTER_FLAG;Has character flag;;;;;;;;;;;;;x
-HAVE_NOT_CHARACTER_FLAG;Does not have the character flag;;;;;;;;;;;;;x
-HAVE_GLOBAL_FLAG;Has the global flag ;;;;;;;;;;;;;x
-HAVE_NOT_GLOBAL_FLAG;Do not have the global flag ;;;;;;;;;;;;;x
-HAVE_PROVINCE_FLAG;Has province flag ;;;;;;;;;;;;;x
-HAVE_NOT_PROVINCE_FLAG;Does not have province flag ;;;;;;;;;;;;;x
-HAVE_NOT_DYNASTY_FLAG;Does not have dynasty flag;;;;;;;;;;;;;x
-HAVE_DYNASTY_FLAG;Has dynasty flag;;;;;;;;;;;;;x
-HAD_DYNASTY_FLAG_LESS_THAN;Had dynasty flag '§Y$FLAG$§!' for less than §Y$DAYS$§! days;;;;;;;;;;;;;x
-HAD_DYNASTY_FLAG_AT_LEAST;Had dynasty flag '§Y$FLAG$§!' for at least §Y$DAYS$§! days;;;;;;;;;;;;;x
-HAS_WONDER_FLAG;Does have the $FLAG|Y$ flag;;;;;;;;;;;;;x
-HAS_NOT_WONDER_FLAG;Does not have the $FLAG|Y$ flag;;;;;;;;;;;;;x
-HAS_WONDER_UPGRADE_FLAG;Does have the $FLAG|Y$ flag;;;;;;;;;;;;;x
-HAS_NOT_WONDER_UPGRADE_FLAG;Does not have the $FLAG|Y$ flag;;;;;;;;;;;;;x
-HAS_WONDER_UPGRADE_FLAG_ON_WONDER;Does have the $FLAG|Y$ flag on any feature;;;;;;;;;;;;;x
-HAS_NOT_WONDER_UPGRADE_FLAG_ON_WONDER;Does not have the $FLAG|Y$ flag on any feature;;;;;;;;;;;;;x
-HAS_BLOODLINE_FLAG;Has the Bloodline flag:;;;;;;;;;;;;;x
-HAS_NOT_BLOODLINE_FLAG;Does not have the Bloodline flag:;;;;;;;;;;;;;x
-APPOINT_GENERALS_OFF;You can no longer appoint army leaders\n;;;;;;;;;;;;;x
-APPOINT_GENERALS_ON;You can now appoint army leaders\n;;;;;;;;;;;;;x
-APPOINT_REGENTS_OFF;You can no longer nominate Regents\n;;;;;;;;;;;;;x
-APPOINT_REGENTS_ON;You can now nominate Regents\n;;;;;;;;;;;;;x
-
+SUCCESSION_WAR_NAME;$ORDER$$TARGET$ Succession War;;;;;;;;;;;$ORDER$Âîéíà çà ïðåñòîëîíàñëåäèå, ïðåòåíäåíò - $TARGET$;;x
+mission_holy_war;$CRUSADE_NAME$ against $OWNERFULLNAME$;;;;;;;;;;;$CRUSADE_NAME$ ïðîòèâ ïðàâèòåëÿ: $OWNERFULLNAME$;;x
+mission_holy_war_desc;The $ROOT_CHARACTERTITLE$ has called for a $CRUSADE_NAME$ to take §Y$PROVINCE$§! from the §Y$TOPOWNERFULLNAME$§!!;;;;;;;;;;;$ROOT_CHARACTERTITLE$ ïðèçûâàåò íà÷àòü $CRUSADE_NAME$, ÷òîáû îòîáðàòü îêðóã §Y$PROVINCE$§! Åãî íûíåøíèé âëàäåëåö §Y$TOPOWNERFULLNAME$§W!;;x
+no_secret_religion;Is NOT secretly following another religion\n;;;;;;;;;;;ÍÅ èñïîâåäóåò òàéíî äðóãóþ ðåëèãèþ\n;;x
+REL_AUTHORITY_EFFECT;$RELIGION$ $DIRECTION$ $PERC$ Moral Authority\n;;;;;;;;;;;$DIRECTION$ $VALUE$ ìîðàëüíîãî àâòîðèòåòà ðåëèãèè\n;;x
+HAVE_CHARACTER_FLAG;Has character flag;;;;;;;;;;;Óñòàíîâëåí ïåðñîíàëüíûé ôëàã;;x
+HAVE_NOT_CHARACTER_FLAG;Does not have the character flag;;;;;;;;;;;Íå óñòàíîâëåí ïåðñîíàëüíûé ôëàã;;x
+HAVE_GLOBAL_FLAG;Has the global flag ;;;;;;;;;;;Åñòü ãëîáàëüíûé ìîäèôèêàòîð;;x
+HAVE_NOT_GLOBAL_FLAG;Do not have the global flag ;;;;;;;;;;;Íåò ãëîáàëüíîãî ìîäèôèêàòîðà;;x
+HAVE_PROVINCE_FLAG;Has province flag ;;;;;;;;;;;Â îêðóãå óñòàíîâëåí ôëàã ;;x
+HAVE_NOT_PROVINCE_FLAG;Does not have province flag ;;;;;;;;;;;Â îêðóãå íå óñòàíîâëåí ôëàã ;;x
+HAVE_NOT_DYNASTY_FLAG;Does not have dynasty flag;;;;;;;;;;;ÍÅ èìååò ôëàãà äèíàñòèè;;x
+HAVE_DYNASTY_FLAG;Has dynasty flag;;;;;;;;;;;Èìååò ôëàã äèíàñòèè;;x
+HAD_DYNASTY_FLAG_LESS_THAN;Had dynasty flag '§Y$FLAG$§!' for less than §Y$DAYS$§! days;;;;;;;;;;;"Èìååò ôëàã äèíàñòèè ""§Y$FLAG$§!"" ìåíåå ÷åì §Y$DAYS$§! äíåé";;x
+HAD_DYNASTY_FLAG_AT_LEAST;Had dynasty flag '§Y$FLAG$§!' for at least §Y$DAYS$§! days;;;;;;;;;;;"Èìååò ôëàã äèíàñòèè ""§Y$FLAG$§!"" ïî ìåíüøåé ìåðå §Y$DAYS$§! äíåé";;x
+HAS_WONDER_FLAG;Does have the $FLAG|Y$ flag;;;;;;;;;;;Îáëàäàåò ôëàãîì $FLAG|Y$;;x
+HAS_NOT_WONDER_FLAG;Does not have the $FLAG|Y$ flag;;;;;;;;;;;ÍÅ îáëàäàåò ôëàãîì $FLAG|Y$;;x
+HAS_WONDER_UPGRADE_FLAG;Does have the $FLAG|Y$ flag;;;;;;;;;;;Îáëàäàåò ôëàãîì $FLAG|Y$;;x
+HAS_NOT_WONDER_UPGRADE_FLAG;Does not have the $FLAG|Y$ flag;;;;;;;;;;;ÍÅ îáëàäàåò ôëàãîì $FLAG|Y$;;x
+HAS_WONDER_UPGRADE_FLAG_ON_WONDER;Does have the $FLAG|Y$ flag on any feature;;;;;;;;;;;Íè îäíî óëó÷øåíèå âåëèêîãî ñîîðóæåíèÿ ÍÅ îáëàäàåò ôëàãîì $FLAG|Y$;;x
+HAS_NOT_WONDER_UPGRADE_FLAG_ON_WONDER;Does not have the $FLAG|Y$ flag on any feature;;;;;;;;;;;Îäíî èëè áîëåå óëó÷øåíèé âåëèêîãî ñîîðóæåíèÿ îáëàäàåò ôëàãîì $FLAG|Y$;;x
+HAS_BLOODLINE_FLAG;Has the Bloodline flag:;;;;;;;;;;;Èìååò ôëàã ðîäîñëîâíîé:;;x
+HAS_NOT_BLOODLINE_FLAG;Does not have the Bloodline flag:;;;;;;;;;;;ÍÅ èìååò ôëàãà ðîäîñëîâíîé:;;x
+APPOINT_GENERALS_OFF;You can no longer appoint army leaders\n;;;;;;;;;;;Âû áîëüøå íå ñìîæåòå íàçíà÷àòü ïîëêîâîäöåâ\n;;x
+APPOINT_GENERALS_ON;You can now appoint army leaders\n;;;;;;;;;;;Òåïåðü Âû ñìîæåòå íàçíà÷àòü ïîëêîâîäöåâ\n;;x
+APPOINT_REGENTS_OFF;You can no longer nominate Regents\n;;;;;;;;;;;Âû áîëüøå íå ñìîæåòå íàçíà÷àòü ðåãåíòîâ\n;;x
+APPOINT_REGENTS_ON;You can now nominate Regents\n;;;;;;;;;;;Òåïåðü Âû ñìîæåòå íàçíà÷àòü ðåãåíòîâ\n;;x
 # EU3
-ADD_IDEA;Gain a $NEW$ idea.\n;;;;;;;;;;;;;x
-ADD_SUB_UNIT_EFFECT;Get $UNIT$ in $WHERE$;;;;;;;;;;;;;x
-ADVISOR_DEAD;The $TYPE$ $WHO$ dies.\n;;;;;;;;;;;;;x
-AFFORD_SHIP_COST;You can not afford this ship. You need at least $COST$ ¤;;;;;;;;;;;;;x
-AGRESSION_WAR_NAME;$ORDER$War of $FIRST$ Aggression;;;;;;;;;;;;;x
-ALLIANCEOFFDESC;Do you wish to offer an Alliance to $COUNTRY$. Doing so will oblige us to assist each other in times of war.;;;;;;;;;;;;;x
-ALLIANCEREQDESC;$ACTOR$ offers us an Alliance. By doing so we are promising to help each other in times of war.;;;;;;;;;;;;;x
-ALLIANCETITLE;Offer Alliance;;;;;;;;;;;;;x
-ALLIEDWITH;Allied with the $LIST$.;;;;;;;;;;;;;x
-ARMY_RECRUITMENTS;Recruiting Regiments;;;;;;;;;;;;;x
-ARMYTRADITION_EFFECT;$DIRECTION$ $VALUE$ army tradition\n;;;;;;;;;;;;;x
-ASKTRADEACCREQDESC;Do you wish to request right for our merchants to cross the lands of $RECIPIENT$?;;;;;;;;;;;;;x
-ASKTRADEACCTITLE;Request Trade Access;;;;;;;;;;;;;x
-ASSASINATE_DESC;Assassinate a character of your or anybody else's court;;;;;;;;;;;;;x
-ASSASSIN_INFORM;We have caught an assassin from $ACTOR$, he $SUCCESS$ in murdering $TARGET$. \n What shall we do with him?;;;;;;;;;;;;;x
-ASSASSINATENEWDESC;Do you wish to send §Y$ASSASSIN$§! to assassinate §Y$TARGET$§!?\nIt might do us good to be rid of him but, if discovered, we could draw the condemnation of his friends and allies.;;;;;;;;;;;;;x
-ASSASSINATETITLE;Assassinate;;;;;;;;;;;;;x
-ASSIGN_OFFICE_EFFECT;Appoint $CHAR$ to $NEW$.\n;;;;;;;;;;;;;x
-BADBOY0;We have an honorable reputation.;;;;;;;;;;;;;x
-BADBOY1;We have a respectable reputation.;;;;;;;;;;;;;x
-BADBOY2;We have a slightly tarnished reputation.;;;;;;;;;;;;;x
-BADBOY3;We have a tarnished reputation.;;;;;;;;;;;;;x
-BADBOY4;We have a rather bad reputation.;;;;;;;;;;;;;x
-BADBOY5;We have a very bad reputation;;;;;;;;;;;;;x
-BADBOY6;We have an extremely bad reputation.;;;;;;;;;;;;;x
-BADBOY7;We are dishonorable scum.;;;;;;;;;;;;;x
-BADBOY8;We are worse than dishonorable scum.;;;;;;;;;;;;;x
-BADBOY9;We are hated throughout the entire world.;;;;;;;;;;;;;x
-BADBOY_EFFECT;$DIRECTION$ $VALUE|-%$ Threat\n;;;;;;;;;;;;;x
-BADBOYOTHER0;They have an honorable reputation.;;;;;;;;;;;;;x
-BADBOYOTHER1;They have a respectable reputation.;;;;;;;;;;;;;x
-BADBOYOTHER2;They have a slightly tarnished reputation.;;;;;;;;;;;;;x
-BADBOYOTHER3;They have a tarnished reputation.;;;;;;;;;;;;;x
-BADBOYOTHER4;They have a rather bad reputation.;;;;;;;;;;;;;x
-BADBOYOTHER5;They have a very bad reputation;;;;;;;;;;;;;x
-BADBOYOTHER6;They have an extremely bad reputation.;;;;;;;;;;;;;x
-BADBOYOTHER7;They are dishonorable scum.;;;;;;;;;;;;;x
-BADBOYOTHER8;They are worse than dishonorable scum.;;;;;;;;;;;;;x
-BADBOYOTHER9;They are hated throughout the entire world.;;;;;;;;;;;;;x
-BARB_CLIENT_DESC;Offer the Barbarians lands as our Client state.;;;;;;;;;;;;;x
-BARB_CLIENT_REQ_DESC;Shall we offer the barbarians $NAME$ the land that they now hold, to rule in our name? \n This will create the new country of $COUNTRY$ in the counties $LIST$. $COUNTRY$ shall pay tribute to us and be our ally.;;;;;;;;;;;;;x
-BARB_CLIENTTITLE;Create Client;;;;;;;;;;;;;x
-BARB_PAYOFF_DESC;Offer money for the barbarians to return home.;;;;;;;;;;;;;x
-BARB_PAYOFF_REQ_DESC;Shall we offer the barbarians $NAME$ the amount of $CASH$¤ to return whence they came.;;;;;;;;;;;;;x
-BARB_PAYOFFTITLE;Pay Off;;;;;;;;;;;;;x
-BARB_SETTLE_DESC;Offer the barbarians land to settle on.;;;;;;;;;;;;;x
-BARB_SETTLE_REQ_DESC;Shall we offer the barbarians $NAME$ rights to settle in $LIST$? The barbarians would disband and settle as Freemen farmers. This might also impact the cultural makeup of the county.;;;;;;;;;;;;;x
-BARB_SETTLETITLE;Settle;;;;;;;;;;;;;x
-BARB_SURRENDER_DESC;Demand that the barbarians surrender unconditionally;;;;;;;;;;;;;x
-BARB_SURRENDER_REQ_DESC;Shall we demand that the barbarians $NAME$ immediately lay down their arms, return their stolen property and submit themselves as our slaves?;;;;;;;;;;;;;x
-BARB_SURRENDERTITLE;Demand Surrender;;;;;;;;;;;;;x
-BARBARIAN_POWER_EFFECT;$DIRECTION$ $VALUE$ barbarian power in $WHERE$\n;;;;;;;;;;;;;x
-BARBARIAN_SPAW_MOD;Chance of barbarian rising;;;;;;;;;;;;;x
-BASE_TAX;$DIRECTION$ $VALUE$ base tax in $WHERE$.\n;;;;;;;;;;;;;x
-BATTLE_EVENT_CHANCE;Battle Event Chance;;;;;;;;;;;;;x
-BECOME;become;;;;;;;;;;;;;x
-BECOME_ELECTOR;Become Elector.\n;;;;;;;;;;;;;x
-BECOME_EMPEROR;You have become Emperor.\n;;;;;;;;;;;;;x
-BECOMES_RULER;$WHO$ will become our new $TITLE$;;;;;;;;;;;;;x
-BREAKALLIANCEOFFDESC;Do you wish to cancel the Alliance with $COUNTRY$. This will upset them.;;;;;;;;;;;;;x
-BREAKVASSALDESC;Stop paying tribute.;;;;;;;;;;;;;x
-BREAKVASSALTITLE;Cancel Tribute;;;;;;;;;;;;;x
-CALL_TRUCE;They have a truce with your enemies;;;;;;;;;;;;;x
-CALLDESC;Call on your partner to aid you in this conflict.;;;;;;;;;;;;;x
-CALLNEWDESC;Do you wish to call upon your Allies in these times of war?;;;;;;;;;;;;;x
-CALLREQDESC;The nation of $COUNTRY$, your faithful ally, is requesting that you come to their aid in the conflict against $LIST$. ;;;;;;;;;;;;;x
-CALLTITLE;A Call to Arms!;;;;;;;;;;;;;x
-CANCELALIANCETITLE;Dissolve this Alliance;;;;;;;;;;;;;x
-CANCELALLIANCEDESC;Dissolving the current Alliance will, of course, end the current Alliance you have with this country, and will adversely affect relations.;;;;;;;;;;;;;x
-CANCELMILACCDESC;Cancel our Military Access to their country.;;;;;;;;;;;;;x
-CANCELMILACCINFORM;$COUNTRY$ is canceling the military access they gave us. Our soldiers are no longer allowed on their lands;;;;;;;;;;;;;x
-CANCELMILACCNEWDESC;Do you wish to cancel the military access given to us by $COUNTRY$? Doing so will prevent our troops from accessing their country and ports.;;;;;;;;;;;;;x
-CANCELMILACCTITLE;Cancel Military Access;;;;;;;;;;;;;x
-CANCELOFFERMILACCINFORM;$COUNTRY$ has declared that their troops are leaving our lands and will not return, at least not as friends...;;;;;;;;;;;;;x
-CANCELTRADEACCREQDESC;Do you wish to cancel the trade access we give to $RECIPIENT$? \n This will stop their merchants from trespassing on our lands;;;;;;;;;;;;;x
-CANCELTRADEACCTITLE;Cancel Trade Access;;;;;;;;;;;;;x
-CANCELTRADEDESC;Cancel an existing Trade Route.;;;;;;;;;;;;;x
-CANCELTRADEROUTEDESC;Canceling a traderoute will remove beneficial effects from the trading counties. It might also upset our foreign trading partners;;;;;;;;;;;;;x
-CANCELTRADEROUTETITLE;Cancel Trade Route;;;;;;;;;;;;;x
-CANCELVASSALDESC;Stop accepting their tribute.;;;;;;;;;;;;;x
-CANCELVASSALTITLE;Cancel Tribute;;;;;;;;;;;;;x
-CB_AGAINST;$NAME$' Casus Belli against $WHO$;;;;;;;;;;;;;x
-CB_AGAINST_TIMED;$NAME$' Casus Belli against $WHO$ until $DATE$;;;;;;;;;;;;;x
-CD_GIVESACCESS;Grants military access to $LIST$.;;;;;;;;;;;;;x
-CD_HASACCESS;Has military access through $LIST$.;;;;;;;;;;;;;x
-CH_ADD_RIVAL;$WHO$ became a rival.;;;;;;;;;;;;;x
-CH_ALLEGIANCE;Joined $WHERE$.;;;;;;;;;;;;;x
-CH_BATTLE_RESULT_LONG;He had §Y$US$§! men and faced §Y$THEM$§! under §Y$ENEMY$§!. He lost §Y$OUR_LOSSES$§!, while inflicting §Y$THEIR_LOSSES$§! on the enemy.;;;;;;;;;;;;;x
-CH_BATTLE_RESULT_SHORT;$RESULT$ $NAME$;;;;;;;;;;;;;x
-CH_BORN;Born;;;;;;;;;;;;;x
-CH_CULTURE_CHANGE;Turned into a $CULTURE$.;;;;;;;;;;;;;x
-CH_DEC;decreased;;;;;;;;;;;;;x
-CH_DIED;Died;;;;;;;;;;;;;x
-CH_DIPLOMACY_CHANGE;Diplomacy $DIRECTION$ by $CHANGE$;;;;;;;;;;;;;x
-CH_DIVORCE;Divorced $WHO$.;;;;;;;;;;;;;x
-CH_FAMILY_CHANGE;Adopted into $FAMILY$;;;;;;;;;;;;;x
-CH_FERTILITY_CHANGE;Fertility $DIRECTION$ by $CHANGE$;;;;;;;;;;;;;x
-CH_GAIN_FRIEND;Gained $WHO$ as a friend;;;;;;;;;;;;;x
-CH_GAIN_TRAIT;Gained '$TRAIT$';;;;;;;;;;;;;x
-CH_GAINED_TITLE;Became $TITLE$;;;;;;;;;;;;;x
-CH_GUARDIAN;Educated by $WHERE$;;;;;;;;;;;;;x
-CH_HEALTH_CHANGE;Health $DIRECTION$ by $CHANGE$;;;;;;;;;;;;;x
-CH_INC;increased;;;;;;;;;;;;;x
-CH_INTRIGUE_CHANGE;Intrigue $DIRECTION$ by $CHANGE$;;;;;;;;;;;;;x
-CH_LEARNING_CHANGE;Learning $DIRECTION$ by $CHANGE$;;;;;;;;;;;;;x
-CH_LOSE_FRIEND;Lost the friendship with $WHO$.;;;;;;;;;;;;;x
-CH_LOST_RIVAL;Reconciled with $WHO$.;;;;;;;;;;;;;x
-CH_LOST_TITLE;No longer $TITLE$;;;;;;;;;;;;;x
-CH_LOST_TRAIT;Lost '$TRAIT$';;;;;;;;;;;;;x
-CH_LOYALTY_CHANGE;Loyalty $DIRECTION$ by $CHANGE$;;;;;;;;;;;;;x
-CH_MARRIED;Married $WHO$;;;;;;;;;;;;;x
-CH_MARTIAL_CHANGE;Martial $DIRECTION$ by $CHANGE$;;;;;;;;;;;;;x
-CH_NBATTLE_RESULT_LONG;He had §Y$US$§! ships and faced §Y$THEM$§! under §Y$ENEMY$§!. He lost §Y$OUR_LOSSES$§!, while inflicting §Y$THEIR_LOSSES$§! on the enemy.;;;;;;;;;;;;;x
-CH_PIETY_CHANGE;[Player.Religion.GetPietyName] $DIRECTION$ by $CHANGE$;;;;;;;;;;;;;x
-CH_POPULARITY_CHANGE;Popularity $DIRECTION$ by $CHANGE$.;;;;;;;;;;;;;x
-CH_PRESTIGE_CHANGE;Prestige $DIRECTION$ by $CHANGE$;;;;;;;;;;;;;x
-CH_RELIGION_CHANGE;Converted to $RELIGION$;;;;;;;;;;;;;x
-CH_RULER;Became $WHERE$;;;;;;;;;;;;;x
-CH_STEWARDSHIP_CHANGE;Stewardship $DIRECTION$ by $CHANGE$;;;;;;;;;;;;;x
-CH_WEALTH_CHANGE;Wealth $DIRECTION$ by $CHANGE$¤;;;;;;;;;;;;;x
-CHANGE_TAG;Become $NEW$.\n;;;;;;;;;;;;;x
-CHANGERELIGIONEFFECT;$WHO$ will become a $TRAIT$.\n;;;;;;;;;;;;;x
-CHAR_IMPRISON_FOREIGNERS;You cannot imprison foreign dignitaries once they have been allowed into the country.;;;;;;;;;;;;;x
-character_wealth_mod;Wealth Modifier;;;;;;;;;;;;;x
-city_barracks;Militia Barracks;;;;;;;;;;;;;x
-city_barracks_2;Enlarged Militia Barracks;;;;;;;;;;;;;x
-city_stable;Militia Stable;;;;;;;;;;;;;x
-CITYSIZE;$DIRECTION$ $VALUE$ population in $WHERE$.\n;;;;;;;;;;;;;x
-CIV_VALUE;$DIRECTION$ $VALUE$ Civilization in $WHERE$.\n;;;;;;;;;;;;;x
-COLONISTS;$DIRECTION$ $VALUE$ colonists.\n;;;;;;;;;;;;;x
-COLONISTS_ENROUTE;Colonists;;;;;;;;;;;;;x
-COMBAT_DICE;Die roll for this side in this phase.;;;;;;;;;;;;;x
-COMBAT_SHOCK;Relative modifier from martial value of commanding leader compared to the opponent's commanding leader.;;;;;;;;;;;;;x
-CONFIRM_NEW_IDEA;Select new idea?;;;;;;;;;;;;;x
-CONFIRM_NEW_IDEA_DESC;Are you sure you want to select $IDEA$? Replacing this idea later might incur a stability penalty.;;;;;;;;;;;;;x
-CONFIRM_REPLACE_IDEA;Replace idea?;;;;;;;;;;;;;x
-CORE_GIVEUP;$WHO$ will renounce their claims on $WHAT$. ;;;;;;;;;;;;;x
-CORRUPTION;Corruption;;;;;;;;;;;;;x
-CORRUPTION_EFFECT;$WHO$ $DIRECTION$ $VALUE$ corruption.\n;;;;;;;;;;;;;x
-COT_CHANGE;$DIRECTION$ centre of trade in $WHERE$.\n;;;;;;;;;;;;;x
-COTS;Centres of Trade;;;;;;;;;;;;;x
-COUNTRY_MODIFIER;Country Modifier;;;;;;;;;;;;;x
-CRBBREACH;Breach! With a breach in the walls the besieging armies have a much better chance of storming this fortification!;;;;;;;;;;;;;x
-CRBSIEGE1;The city can hold out for years.;;;;;;;;;;;;;x
-CRBSIEGE2;The city will probably surrender within twelve months.;;;;;;;;;;;;;x
-CRBSIEGE3;The city will probably surrender within nine months.;;;;;;;;;;;;;x
-CRBSIEGE4;The city will probably surrender within six months.;;;;;;;;;;;;;x
-CRBSIEGE5;The city will probably surrender within three months.;;;;;;;;;;;;;x
-CRBSIEGE6;The city will surrender any day now.;;;;;;;;;;;;;x
-CREATE_COLONY_EFFECT;Colony of  $SIZE$ population founded in $WHERE$.\n;;;;;;;;;;;;;x
-CREATE_PIRATE;$SIZE$ ship(s) with pirates will appear in $WHERE$.\n;;;;;;;;;;;;;x
-CREATE_REVOLT;$SIZE$ regiment(s) rises up in revolt in $WHERE$.\n;;;;;;;;;;;;;x
-CULTURE_CHANGE;$NEW$ becomes the new primary culture.\n;;;;;;;;;;;;;x
-CURRENTLY_QUEUED;There are also $SIZE$ units queued for production in this county.;;;;;;;;;;;;;x
-DECWARINFORM;$MONARCHTITLE$, an envoy of $COUNTRY$ has brought forward a declaration of war. He says our capital will burn within the week!;;;;;;;;;;;;;x
-DECWARREQDESC;Declaring war is, sometimes, the last resort of diplomacy. The act of declaring war will reduce the view other countries have of you, especially if you do not have a legitimate reason to do so. It may also reduce your stability. Are you sure you wish to do this?;;;;;;;;;;;;;x
-DEMANDTRIBUTEINFORM;$MONARCHTITLE$, an envoy of country informs us that they will no longer pay tribute to us. \n Such Insolence!;;;;;;;;;;;;;x
-DEMANDTRIBUTEINVALID;To demand Tribute you must have a relation of at least -150 and we must both be at peace.;;;;;;;;;;;;;x
-DESECRATE_DESC;Attempt to desecrate a holy site and damage the religious prestige of a county.;;;;;;;;;;;;;x
-DESECRATEREQDESC;Do you wish to desecrate a holy site in §Y$PROV$§!? This will have a negative effect on the prestige of §Y$RELIGION$§! there.\n$EFFECT$ for $TIME$ days.;;;;;;;;;;;;;x
-DESECRATETITLE;Desecrate Holy Site;;;;;;;;;;;;;x
-DESECREATEINFORMDESC;A holy shrine in $TARGET$ have been desecrated. \n We caught the foreigner who did it, $NAME$. What shall we do with him?;;;;;;;;;;;;;x
-DIP_CHAR_AVAILABLE;$NAME$ is available for this mission.;;;;;;;;;;;;;x
-DIP_CHAR_ON_MISSION;$NAME$ is already on a mission.\nHe will return on $DATE$.;;;;;;;;;;;;;x
-DIP_RELEASE;Let him go;;;;;;;;;;;;;x
-DIP_SELECT_CHARACTER;Select Victim;;;;;;;;;;;;;x
-DIP_SELECT_PROVINCE;Select this county for trading.;;;;;;;;;;;;;x
-DIPLO_ACTION;List possible diplomatic missions;;;;;;;;;;;;;x
-DIPLOMATS;$DIRECTION$ $VALUE$ diplomats.\n;;;;;;;;;;;;;x
-DIPRELCH_DEPENDENCY;Tributary Relationship;;;;;;;;;;;;;x
-DISBAND_FLEET;Fleet in $PROV|Y$ will disband;;;;;;;;;;;;;x
-DISCIPLINE;Discipline;;;;;;;;;;;;;x
-DISCOVER;Discover $WHERE$.\n;;;;;;;;;;;;;x
-ENABLE_COMBAT_EVENT;Allows the '$WHICH$' combat event\n;;;;;;;;;;;;;x
-ENROUTE;We have a diplomat enroute, he will arrive on $DATE$;;;;;;;;;;;;;x
-ENROUTE_REMOVED;We have a envoy enroute;;;;;;;;;;;;;x
-ENVELOPE;Envelope;;;;;;;;;;;;;x
-ENVELOPE_DESC;If a general can successfully stiffen the discipline of the units on the flanks of his army he can launch a devastating attack on the enemy. If their flanks give way then the whole army could collapse;;;;;;;;;;;;;x
-FAM_PRESTIGE_EFFECT;$WHO$ $DIRECTION$ $VALUE$ family prestige\n;;;;;;;;;;;;;x
-FORCE_ATTACK;Force Attack;;;;;;;;;;;;;x
-FORCE_ATTACK_DESC;Battles ebb and flow, but if a general can raise the troops for a heroic assault on the enemy line then the battle could turn.;;;;;;;;;;;;;x
-foreign_rebels;Foreign support of rebels ;;;;;;;;;;;;;x
-foreign_rebels_desc;A less then friendly power has used agents to identify important people in this county who are unhappy with our rule. They have then funnelled money to these people so that they can turn this unhappiness into action. The revolt risk is now slightly higher. ;;;;;;;;;;;;;x
-GAIN_CB;Gain casus-belli on $WHO$\n;;;;;;;;;;;;;x
-GIVE_UP_CORES;Cores;;;;;;;;;;;;;x
-GOODS_CHANGE;$NAME$ will now be produced in $WHERE$.\n;;;;;;;;;;;;;x
-GOV_CHANGE;The type of government changes to $GOV$;;;;;;;;;;;;;x
-GROUP_CHANGE;Technology group changed to $GROUP$.\n;;;;;;;;;;;;;x
-HAD_TITLE_LESS_THAN;Been §Y$TITLE$§! for less than §Y$DAYS$§! days;;;;;;;;;;;;;x
-HAD_TITLE_MORE_THAN;Been §Y$TITLE$§! for more than §Y$DAYS$§! days;;;;;;;;;;;;;x
-HAS_COHORTS;Loyal units: ;;;;;;;;;;;;;x
-HAS_COMPLETED_OBJECTIVE;Has fulfilled the Ambition ;;;;;;;;;;;;;x
-HAS_CONTROL;Occupation of §Y$TOWN$§! in §Y$PROVINCE$§!;;;;;;;;;;;;;x
-HAS_CONTROL_PROVINCE;Occupation of §Y$PROVINCE$§!;;;;;;;;;;;;;x
-HAS_LESS_COHORTS;Loyal units less than;;;;;;;;;;;;;x
-HAS_MISSION;Has Mission;;;;;;;;;;;;;x
-HASCBON;Has Casus Belli on $LIST$.;;;;;;;;;;;;;x
-HASCOMBAT;The county is embattled;;;;;;;;;;;;;x
-HAVE;Have;;;;;;;;;;;;;x
-HAVE_A_ARMY_LARGER_THAN;Have an army of at least;;;;;;;;;;;;;x
-HAVE_A_ARMY_SMALLER_THAN;Have an army smaller than;;;;;;;;;;;;;x
-HAVE_A_NAVY_LARGER_THAN;Have a navy of at least;;;;;;;;;;;;;x
-HAVE_A_NAVY_SMALLER_THAN;Have a navy smaller than;;;;;;;;;;;;;x
-HAVE_A_UNITS_WITH_A_LEADER;Have a unit with a leader;;;;;;;;;;;;;x
-HAVE_ALLIANCE_WITH;Allied with ;;;;;;;;;;;;;x
-HAVE_AT_LEAST_ONE_CHARACTER;Have at least one character;;;;;;;;;;;;;x
-HAVE_AT_LEAST_ONE_EMPTY_NEIGHBORING_PROVINCE;Have at least one empty neighboring county;;;;;;;;;;;;;x
-HAVE_AT_LEAST_ONE_OWNED_NEIGHBORING_PROVINCE;Have at least one owned neighboring county ;;;;;;;;;;;;;x
-HAVE_AT_LEAST_ONE_PROVINCE;Have at least one County;;;;;;;;;;;;;x
-HAVE_CASUS_BELLI_AGAINST;Have Casus Belli against ;;;;;;;;;;;;;x
-HAVE_COUNTRY_FLAG;Have country flag ;;;;;;;;;;;;;x
-HAVE_LESS_ALLIES_THAN;Have less allies than ;;;;;;;;;;;;;x
-HAVE_LESS_CAVALRY_THAN;Have less cavalry than ;;;;;;;;;;;;;x
-HAVE_LESS_PORTS_THAN;Have less ports than ;;;;;;;;;;;;;x
-HAVE_LESS_REGS_THAN;Have fewer cohorts than ;;;;;;;;;;;;;x
-HAVE_LESS_RELIGIONS_THAN;Have less religions than ;;;;;;;;;;;;;x
-HAVE_LESS_ROYAL_MARRIGES_THAN;Have less royal marriages than ;;;;;;;;;;;;;x
-HAVE_LESS_SHIPS_THAN;Have fewer ships than ;;;;;;;;;;;;;x
-HAVE_LESS_UNEMPLOYED_THAN;Have less unemployed than ;;;;;;;;;;;;;x
-HAVE_MORE_ALLIES_THAN;Have more allies than ;;;;;;;;;;;;;x
-HAVE_MORE_CAVALRY_THAN;Have more cavalry than ;;;;;;;;;;;;;x
-HAVE_MORE_PORTS_THAN;Have more ports than ;;;;;;;;;;;;;x
-HAVE_MORE_REGS_THAN;Have more cohorts than ;;;;;;;;;;;;;x
-HAVE_MORE_RELIGIONS_THAN;Have more religions than ;;;;;;;;;;;;;x
-HAVE_MORE_ROYAL_MARRIGES_THAN;Have more royal marriages than ;;;;;;;;;;;;;x
-HAVE_MORE_SHIPS_THAN;Have more ships than ;;;;;;;;;;;;;x
-HAVE_MORE_UNEMPLOYED_THAN;Have more unemployed than ;;;;;;;;;;;;;x
-HAVE_NO_CHARACTERS;Have no character;;;;;;;;;;;;;x
-HAVE_NO_EMPTY_NEIGHBORING_PROVINCE;Have no empty neighboring counties;;;;;;;;;;;;;x
-HAVE_NO_OWNED_NEIGHBORING_PROVINCE;Have no owned neighboring counties ;;;;;;;;;;;;;x
-HAVE_NO_UNITS_IN_BATTLE;Have no units in battle;;;;;;;;;;;;;x
-HAVE_NO_UNITS_IN_SIEGE;Have no units in siege;;;;;;;;;;;;;x
-HAVE_NO_UNITS_WITH_A_LEADER;Have no units with a leader;;;;;;;;;;;;;x
-HAVE_NOT;Haven't ;;;;;;;;;;;;;x
-HAVE_NOT_CASUS_BELLI_AGAINST;Have no Casus Belli against ;;;;;;;;;;;;;x
-HAVE_NOT_COUNTRY_FLAG;Haven't country flag ;;;;;;;;;;;;;x
-HAVE_NOT_SIEGE_IN;Haven't siege in;;;;;;;;;;;;;x
-HAVE_SIEGE_IN;Have siege in;;;;;;;;;;;;;x
-HAVE_UNITS_IN_BATTLE;Have units in battle;;;;;;;;;;;;;x
-HAVE_UNITS_IN_SIEGE;Have units in siege;;;;;;;;;;;;;x
-HOLD_GROUND;Hold Ground;;;;;;;;;;;;;x
-HOLD_GROUND_DESC;Sometimes a charismatic general can appeal to launch an appeal to the troops to stand firm in the face in the enemy. This will help the troop resist the attacks of the enemy. ;;;;;;;;;;;;;x
-HRE_STATUS;$WHERE$ will $DIRECTION$ a part of the Holy Roman Empire.\n;;;;;;;;;;;;;x
-ICON_ANNEX;A demand for §Yannexation§!;;;;;;;;;;;;;x
-ICON_TRIBUTE;An offer of §YTribute§!;;;;;;;;;;;;;x
-ICON_TRIBUTE_CANCEL;Cancellation of §YTribute§!;;;;;;;;;;;;;x
-ICON_TRIBUTE_DEMAND;§YTribute Demand§!;;;;;;;;;;;;;x
-ICON_VASSAL;An offer regarding §Ytribute§!;;;;;;;;;;;;;x
-INHERIT;Inherit $WHO|Y$\n;;;;;;;;;;;;;x
-ISATWAR;You can not ask for Military Access when you are at war.;;;;;;;;;;;;;x
-LANDMORALE_DRO;Base is §Y$CURRENT$§! from current technology.\n;;;;;;;;;;;;;x
-LANDMORALE_IRO;Our army's base morale is §Y$CURRENT$§!.\n;;;;;;;;;;;;;x
-LEVEL;Current Level;;;;;;;;;;;;;x
-LOSE_COMMAND;$WHO$ removed from command of $WHICH$.\n;;;;;;;;;;;;;x
-LOSE_ELECTOR;Will no longer be an Elector.\n;;;;;;;;;;;;;x
-LOSE_EMPEROR;Abdicate as Emperor.\n;;;;;;;;;;;;;x
-MERCHANTS;$DIRECTION$ $VALUE$ merchants.\n;;;;;;;;;;;;;x
-MIL_CONST_TIP;A §Y$TYPE$§! will be fielded here on §Y$DATE$§!.;;;;;;;;;;;;;x
-MILACCDESC;Request access to their territory.;;;;;;;;;;;;;x
-MILACCNEWDESC;Do you wish to request Military Access from $COUNTRY$ thereby allowing our ships and armies access to their territories?;;;;;;;;;;;;;x
-MILACCREQDESC;$COUNTRY$ is requesting Military Access from us. Accepting will allow them to move ships and armies into our territory.;;;;;;;;;;;;;x
-MILACCTITLE;Ask for Military Access;;;;;;;;;;;;;x
-MISSION_EXPIRY;Mission Expiry Date;;;;;;;;;;;;;x
-MISSION_MENU;Missions & Decisions;;;;;;;;;;;;;x
-MISSIONARIES;$DIRECTION$ $VALUE$ missionaries.\n;;;;;;;;;;;;;x
-MODIFIER_PIRATE_SPAWN_CHANCE;Pirate Spawn Chance;;;;;;;;;;;;;x
-MONARCH_HOW_PRES2;was re-elected to office;;;;;;;;;;;;;x
-NATIVE_FEROCITY;Natives in $WHERE$ $DIRECTION$ $VALUE$ ferocity. ;;;;;;;;;;;;;x
-NATIVE_HOSTILENESS;Natives in $WHERE$ $DIRECTION$ $VALUE$ hostility. ;;;;;;;;;;;;;x
-NATIVE_SIZE;Natives in $WHERE$ $DIRECTION$ $VALUE$ size. ;;;;;;;;;;;;;x
-NAVAL_COMBAT;Naval Combat;;;;;;;;;;;;;x
-naval_maintenance;Naval Maintenance;;;;;;;;;;;;;x
-NAVAL_MORALE;Morale of Navies;;;;;;;;;;;;;x
-NAVAL_ORGANISATION;Naval Organisation;;;;;;;;;;;;;x
-NAVALMORALE_DRO;Base is §Y$CURRENT$§! from current technology.\n;;;;;;;;;;;;;x
-NAVALMORALE_IRO;Our fleet's base morale is §Y$CURRENT$§!.\n;;;;;;;;;;;;;x
-Navy Maintenance;Navy Maintenance;;;;;;;;;;;;;x
-NAVY_RECRUITMENTS;Building ships;;;;;;;;;;;;;x
-NAVYTRADITION_EFFECT;$DIRECTION$ $VALUE$ navy tradition.\n;;;;;;;;;;;;;x
-NEW_CORE_EFFECT;Gain core on $NEW$.\n;;;;;;;;;;;;;x
-NEW_GOVERNOR_EFFECT_A;$NEW$ becomes governor of $WHERE$.\n;;;;;;;;;;;;;x
-NEW_GOVERNOR_EFFECT_B;$WHO$ becomes governor of $WHERE$.\n;;;;;;;;;;;;;x
-no_mission_desc;We do not have any special task at this time.;;;;;;;;;;;;;x
-no_mission_title;No Current Mission;;;;;;;;;;;;;x
-NO_OF_LOYAL_REGIMENTS;Loyal Units;;;;;;;;;;;;;x
-NO_SEPARATE_PEACE;You can not negotiate separate peace between two junior partners in a war.;;;;;;;;;;;;;x
-NO_WAR_ON_OTHERS_AS_VASSAL;A state paying tribute is not free to declare war on other states.;;;;;;;;;;;;;x
-NOLONGER;no longer be;;;;;;;;;;;;;x
-non_culture_cot;Non Core Cot;;;;;;;;;;;;;x
-NORMAL_WAR_NAME;$ORDER$$FIRST$-$SECOND$ War;;;;;;;;;;;;;x
-NOT_DURING_TRUCE;We cannot cancel our tribute while we have a truce.;;;;;;;;;;;;;x
-OFFERALLIANCEDESC;If a country accepts our Alliance offer it may come to our come to our assistance during wars.;;;;;;;;;;;;;x
-OFFERMILACCDESC;Enable them to station troops and ships in our country.;;;;;;;;;;;;;x
-OFFERMILACCNEWDESC;Do you wish to give Military Access to $COUNTRY$? This will enable them to station troops in our territories and ports.;;;;;;;;;;;;;x
-OFFERMILACCREQDESC;$COUNTRY$ is offering us military access to their country. This would mean that our troops gain free access to their lands, however it also means we cannot declare war on them.;;;;;;;;;;;;;x
-OFFERMILACCTITLE;Give Military Access;;;;;;;;;;;;;x
-OFFERTRIBUTEDESC;Suggest that we pay tribute to them.;;;;;;;;;;;;;x
-OFFERTRIBUTEINFORM;$MONARCHTITLE$, an envoy of country informs us that our tribute no longer interests them. \n Nice to be rid of the burden, but we must watch our step;;;;;;;;;;;;;x
-OFFERTRIBUTENEWDESC;Do you wish to offer $COUNTRY$ a sum of $CASH$¤ each month in tribute for some peace of mind?;;;;;;;;;;;;;x
-OFFERTRIBUTEREQDESC;$COUNTRY$ proposes to pay us a tribute of $CASH$¤ each month. If we accept, they will be considered to be under our protection.;;;;;;;;;;;;;x
-OFFERTRIBUTETITLE;Offer Tribute;;;;;;;;;;;;;x
-OL_ARMY_MOVE;It is on the move towards §Y$DEST$§!.;;;;;;;;;;;;;x
-OL_BUILD_ARMY;Our §Y$TYPE$§! is being recruited in §Y$PROV$§!.;;;;;;;;;;;;;x
-OL_BUILD_NAVY;Our §Y$TYPE$§! is being built in §Y$PROV$§!.;;;;;;;;;;;;;x
-OL_COMMANDER;is under the command of $COMMANDER$;;;;;;;;;;;;;x
-OL_COT_DESC;This Centre of Trade is worth a total of §Y$TOTAL$§!¤ each year. Our §Y$NUM$§! merchants are taking in §Y$VALUE$§!¤ of this.;;;;;;;;;;;;;x
-OL_ENROUTE_COT_DESC;When our §Y$NUM$§! additional merchants arrive, our profits should increase. \n The first one will arrive on $DATE$.;;;;;;;;;;;;;x
-OL_NAVY;This navy currently $COMMANDER$ and is located in §Y$PROV$§!.;;;;;;;;;;;;;x
-OL_NAVY_MOVE;It has set sail towards §Y$DEST$§!.;;;;;;;;;;;;;x
-OL_NOCOMMANDER;has no commander;;;;;;;;;;;;;x
-ON_MISSION;Has the mission ;;;;;;;;;;;;;x
-OTHERANNEX;Full Annexation was demanded.;;;;;;;;;;;;;x
-PAY_CASH;$WHO$ will pay $WHAT$ gold.;;;;;;;;;;;;;x
-PAY_TRIBUTE;$WHO$ will pay tribute of $WHAT$ gold a month.;;;;;;;;;;;;;x
-PEACE_ANNEX;Annex;;;;;;;;;;;;;x
-PEACE_CANCEL_VASSALLS;cancel vassals;;;;;;;;;;;;;x
-PEACE_CORES;give up cores;;;;;;;;;;;;;x
-PEACE_DEMAND_GOLD;Demand §G$GOLD$§!¤;;;;;;;;;;;;;x
-PEACE_DESC;Negotiate peace treaty.;;;;;;;;;;;;;x
-PEACE_INSTANT_CASH;Payment;;;;;;;;;;;;;x
-PEACE_MONTHLY_CASH;Monthly Tribute;;;;;;;;;;;;;x
-PEACE_OFFER_GOLD;Offer §R$GOLD$§!¤;;;;;;;;;;;;;x
-PEACE_OFFER_WARSCORE;Peace offer value:;;;;;;;;;;;;;x
-PEACE_SECEDE;cede county;;;;;;;;;;;;;x
-PEACEBETTER;\n(This deal is better than what we can expect, refusing it would cause great turmoil in our country.);;;;;;;;;;;;;x
-PEACEBETTER_US;\n(This deal is better than what they will expect, and if they refuse it, it will cause great turmoil in their country.);;;;;;;;;;;;;x
-PEACETITLE;Sue for Peace;;;;;;;;;;;;;x
-POLICY_CHANGE;$SLIDER$ $DIRECTION$ $VALUE$.\n;;;;;;;;;;;;;x
-POPULARITY_EFFECT;$WHO$ $DIRECTION$ $VALUE$ popularity.\n;;;;;;;;;;;;;x
-PORT;This port provides a safe haven for ships.;;;;;;;;;;;;;x
-PROV_MANPOWER;$DIRECTION$ $VALUE$ manpower in $WHERE$.\n;;;;;;;;;;;;;x
-PROVINCE_DOESNT_PRODUCE;$PROVINCE$ doesn't produce $GOODS$;;;;;;;;;;;;;x
-PROVINCE_PRODUCES;$PROVINCE$ produces $GOODS$;;;;;;;;;;;;;x
-QUEUE_SIZE;There are $SIZE$ units in the queue.;;;;;;;;;;;;;x
-RALLY_DESC;Sometimes combat is just too much for a man, even the hardiest veteran can suddenly reach his limit. However a charismatic commander can rally dispirited troops giving the whole army a moral bonus.  ;;;;;;;;;;;;;x
-RANSOM_ASK_DESC;An envoy from §Y$ACTOR$§! is requesting the release of our 'guest', §Y$NAME$§! for the sum of §Y$CASH$§!¤. \n What should we do?;;;;;;;;;;;;;x
-RANSOM_DESC;Pay to have a prisoner they keep released;;;;;;;;;;;;;x
-RANSOM_REQDESC;Do you wish to try to get §Y$PRISONER$§! released for the sum of §Y$CASH$§!¤?;;;;;;;;;;;;;x
-RANSOMTITLE;Ransom Prisoner;;;;;;;;;;;;;x
-RECRUIT_ARMY;Recruit army;;;;;;;;;;;;;x
-RECRUIT_NAVY;Build navy;;;;;;;;;;;;;x
-RELATION_CAPPED;The relation is already so good that it will not be increasing unless through some extraordinary actions.;;;;;;;;;;;;;x
-RELATION_CHANGE_VALUE;Estimated yearly change:;;;;;;;;;;;;;x
-RELATION_DRO;The relation value represents how two regimes feel about each other, from §R-200§! (hatred) to §G200§! (harmony);;;;;;;;;;;;;x
-RELATION_IRO;The current state of our diplomatic relations;;;;;;;;;;;;;x
-RELEASE;Release $WHO$.\n;;;;;;;;;;;;;x
-RELEASE_DESC;Release a prisoner back to his homeland;;;;;;;;;;;;;x
-RELEASENEWDESC;Do you wish to release $NAME$ back to $COUNTRY$?;;;;;;;;;;;;;x
-RELEASETITLE;Release Prisoner;;;;;;;;;;;;;x
-REM_IDEA;Lose a $LOSE$ idea.\n;;;;;;;;;;;;;x
-REMOVE_GOVERNOR;$WHO$ will no longer be governor of $WHERE$.\n;;;;;;;;;;;;;x
-RESEARCH_NEEDED;We lack the necessary technology;;;;;;;;;;;;;x
-RESEARCH_YEARLY;Yearly Research Points;;;;;;;;;;;;;x
-REV_GAIN_CB;$ACTIVE$ gains a casus-belli on $PASSIVE$.\n;;;;;;;;;;;;;x
-REVOKEMILACCDESC;Revoke their ability to station troops and ships in our country.;;;;;;;;;;;;;x
-REVOKEMILACCNEWDESC;Do you wish to revoke the Military Access given to $COUNTRY$? Doing so will prevent their troops from accessing our country and ports.;;;;;;;;;;;;;x
-REVOKEMILACCTITLE;Revoke Military Access.;;;;;;;;;;;;;x
-RIVAL_COUNTRY_STARTS;Any Rival Country;;;;;;;;;;;;;x
-ruler_finesse;Ruler Finesse;;;;;;;;;;;;;x
-ruler_military_skill;Ruler Martial Skill;;;;;;;;;;;;;x
-SECEDE_PROVINCE;Cede $WHERE$ to $WHO$.\n;;;;;;;;;;;;;x
-SECEDE_PROVINCES;$WHO$ will cede $WHAT$. ;;;;;;;;;;;;;x
-SEDUCE_DESC;Convince Governor to join you, taking his county with him;;;;;;;;;;;;;x
-SEDUCE_INFORMDESC;Governor $GOVNAME$ of $TARGET$ reports that he captured the agent $NAME$ of $ACTOR$. $NAME$ was trying to convince the governor to betray us. \n What shall we do with $NAME$?;;;;;;;;;;;;;x
-SEDUCE_NO_GOV;No governor to seduce, if you want the county take it up with its ruler.;;;;;;;;;;;;;x
-SEDUCEREQDESC_REMOVED;Do you wish to attempt to seduce the governor, §Y$NAME$§!, of §Y$PROV$§!? \n If you are successful he can bring his county over to us, but it will also have dire consequences for our relation with §Y$OWNER$§!;;;;;;;;;;;;;x
-SEDUCETITLE;Seduce Governor;;;;;;;;;;;;;x
-SENATE_INFLUENCE;Senate Influence;;;;;;;;;;;;;x
-SPAWN_EVENT;The event '$WHICH$' happens.\n;;;;;;;;;;;;;x
-SPAWN_HORDE;A barbarian horde of $SIZE$ units will spawn in $WHERE$.\n;;;;;;;;;;;;;x
-SPIES;$DIRECTION$ $VALUE$ spies.\n;;;;;;;;;;;;;x
-STABHIT_FROM_GOOD_RELATION;Good Relations;;;;;;;;;;;;;x
-STABHIT_FROM_GREAT_RELATION;Great Relations;;;;;;;;;;;;;x
-STABHIT_FROM_MIL_ACCESS;Has Military Access;;;;;;;;;;;;;x
-STABHIT_FROM_NO_CB;No Casus Belli;;;;;;;;;;;;;x
-STABHIT_FROM_OUR_VASSAL;They pay us tribute!;;;;;;;;;;;;;x
-STABHIT_FROM_TRUCE;Breaking Truce;;;;;;;;;;;;;x
-SUBJECT;A state paying tribute is not free to ally with anyone except their masters.;;;;;;;;;;;;;x
-SUBJECT_PAYING_TRIBUTE;Already paying tribute to someone;;;;;;;;;;;;;x
-SUBJECT_TRIBUTE;A state paying tribute can not receive tribute;;;;;;;;;;;;;x
-SUCCESSION_INHERITED;$NEW_NAME$ inherits $TITLES$.;;;;;;;;;;;;;x
-SUPPLY_ACCESS;Military Access:;;;;;;;;;;;;;x
-SUPPLY_ALLIED;Allied:;;;;;;;;;;;;;x
-SUPPORTREB_DESC;Attempt to incite rebellion;;;;;;;;;;;;;x
-SUPPORTREB_DESC_REMOVED;Let him go;;;;;;;;;;;;;x
-SUPPORTREBINFORMDESC;The peasants of $TARGET$ have be incited to near rebellion. \n We caught the foreigner who did it, $NAME$. What shall we do with him?;;;;;;;;;;;;;x
-SUPPORTREBREQDESC;Do you wish to support the rebels in §Y$PROV$§!?\n$EFFECT$ for $TIME$ days.;;;;;;;;;;;;;x
-SUPPORTREBTITLE;Support Rebels;;;;;;;;;;;;;x
-TAKE_COMMAND;$WHO$ takes command of $WHICH$.\n;;;;;;;;;;;;;x
-TECH_SET_FOCUS;Set Focus;;;;;;;;;;;;;x
-TECH_SET_FOCUS_DESC;Sets the $GROUP$ focus on this advance, increasing the chance of new discoveries by §Y$CHANCE$%§!;;;;;;;;;;;;;x
-THE_NUMBER_OF_REVOLT_FRACTION_IS_LESS_THAN;The number of revolt fraction is less than ;;;;;;;;;;;;;x
-THE_NUMBER_OF_REVOLT_FRACTION_IS_MORE_THAN;The number of revolt fraction is more than ;;;;;;;;;;;;;x
-THEN_NUMBER_OF_REVOLTS_ARE_LESS_THAN;The number of revolts are less than ;;;;;;;;;;;;;x
-THEN_NUMBER_OF_REVOLTS_ARE_MORE_THAN;The number of revolts are more than ;;;;;;;;;;;;;x
-THREAT_COUNTRY_STARTS;Any Threatening Country;;;;;;;;;;;;;x
-THREATENEDBY;Feels threatened by $LIST$.;;;;;;;;;;;;;x
-TIE_PAYING_TRIBUTE;Paying us tribute;;;;;;;;;;;;;x
-TIE_TAKING_TRIBUTE;Receiving tribute from us;;;;;;;;;;;;;x
-TIES_DRO;Diplomatic ties are deals between two regimes. For example, Alliances and Military Access treaties;;;;;;;;;;;;;x
-TIES_IRO;Current diplomatic ties;;;;;;;;;;;;;x
-TRADE_ACC_ASK_DESC;An envoy from $ACTOR$ is requesting that their merchants shall be allowed passage across our lands. \n What shall be our answer?;;;;;;;;;;;;;x
-TRADEROUTECONSTRDESC;We wish to trade $GOODS$ from $PROV$ to $PROV_OTHER$ giving $GOODS_OTHER$ in return.;;;;;;;;;;;;;x
-TRADEROUTEDESC;Creating a trade route will, in addition to generating money, give the benefits of the goods being traded to both counties.;;;;;;;;;;;;;x
-TRADEROUTEOFFDESC;$COUNTRY$ is offering us a trade between $FROM$($FROM_GOODS$) and $TO$($TO_GOODS$).\n This will earn each of us $CASH$¤ per month.\n Effect on $FROM$: $FROM_EFFECT$ \n Effect on $TO$: $TO_EFFECT$;;;;;;;;;;;;;x
-TRADEROUTEREQDESC;Creating a traderoute from $FROM$($GOODS_FROM$) to $TO$($GOODS_TO$) will, addition to $CASH$¤ each month, give $FROM$ $TO_EFFECT$ and $TO$ $FROM_EFFECT$.;;;;;;;;;;;;;x
-TRADEROUTETITLE;Create Trade Route;;;;;;;;;;;;;x
-TV_BASE;From Citizens;;;;;;;;;;;;;x
-unemployed_adult_male;Wants a Title;;;;;;;;;;;;;x
-UNIT_ALLEGIANCE_EFFECT;$UNIT$ defects to $WHO$.\n;;;;;;;;;;;;;x
-UNIT_QUEUED;(queued);;;;;;;;;;;;;x
-UNIT_TYPE_VERSUS;Vs $NAME$: $COL$$EFFICIENCY$%;;;;;;;;;;;;;x
-VASALINVALID;To offer Tribute you must have a relation of at least -150 and we must both be at peace.;;;;;;;;;;;;;x
-VASALLWEACCEPT_SETUP;When we agree to pay tribute to another nation.;;;;;;;;;;;;;x
-VASSAL_GIVEUP;$WHO$ will cancel the tribute from $WHAT$.;;;;;;;;;;;;;x
-VASSALBREAKDESC;Do you wish to stop paying tribute to $COUNTRY$? \nThis will cause our relations to worsen and they will get a Casus Belli against us.;;;;;;;;;;;;;x
-VASSALCANCELDESC;Do you wish to stop accepting tribute from $COUNTRY$?;;;;;;;;;;;;;x
-VASSALDESC;Suggest that they pay tribute to us.;;;;;;;;;;;;;x
-VASSALNEWDESC;Do you wish to demand that $COUNTRY$ that country pays $CASH$¤ each month in tribute for our 'protection'?;;;;;;;;;;;;;x
-VASSALREQDESC;$COUNTRY$ is asking us to pay a tribute of $CASH$¤ to them each month. By accepting, we will be considered to be under their protection.;;;;;;;;;;;;;x
-VASSALREQTITLE;Offer Tribute;;;;;;;;;;;;;x
-VASSALTITLE;Demand Tribute;;;;;;;;;;;;;x
-WAR_EFFECT;Declare War on $WHO$;;;;;;;;;;;;;x
-WAR_EXHAUSTION;Monthly War Exhaustion;;;;;;;;;;;;;x
-war_exhaustion;War Exhaustion;;;;;;;;;;;;;x
-WAR_EXHAUSTION_LESS_THAN;War exhaustion less than ;;;;;;;;;;;;;x
-WAR_EXHAUSTION_MORE_THAN;War exhaustion more than ;;;;;;;;;;;;;x
-WAREXHAUSTION_EFFECT;$DIRECTION$ $VALUE$ war exhaustion.\n;;;;;;;;;;;;;x
-WCRD_ATT;This is a war that they have started.;;;;;;;;;;;;;x
-WCRD_DEF;This is a defensive war, where we need to help our ally.;;;;;;;;;;;;;x
-WEALTH_EFFECT;$WHO$ $DIRECTION$ $VALUE$ wealth\n;;;;;;;;;;;;;x
-WEANNEX;We demand their full Annexation.;;;;;;;;;;;;;x
-WEDGE;Wedge;;;;;;;;;;;;;x
-WEDGE_DESC;With generals obsessing with their flanks it can perversely enough leave the army's centre venerable. An all out assault on the enemies centre can sometimes yield the same results as a flanking attack.;;;;;;;;;;;;;x
-
-IS_ACCEPTED_CULTURE;Is accepted culture ;;;;;;;;;;;;;x
-IS_NOT_ACCEPTED_CULTURE;Is NOT accepted culture ;;;;;;;;;;;;;x
-
-IS_ADMIRAL;Is an admiral;;;;;;;;;;;;;x
-IS_NOT_ADMIRAL;Is NOT an admiral;;;;;;;;;;;;;x
-
-IS_AN_ENVOY;Is an envoy;;;;;;;;;;;;;x
-IS_NOT_AN_ENVOY;Is NOT an envoy;;;;;;;;;;;;;x
-
-IS_BANISHED;Is exiled;;;;;;;;;;;;;x
-IS_NOT_BANISHED;Is NOT exiled;;;;;;;;;;;;;x
-
-IS_EMPLOYED;Is Employed;;;;;;;;;;;;;x
-ISNT_EMPLOYED;Is NOT employed;;;;;;;;;;;;;x
-
-IS_GENERAL;Is a general;;;;;;;;;;;;;x
-IS_NOT_GENERAL;Is NOT a general;;;;;;;;;;;;;x
-
-IS_LEADING_ARMY;Is leading an army;;;;;;;;;;;;;x
-IS_NOT_LEADING_ARMY;Is NOT leading an army;;;;;;;;;;;;;x
-
-IS_LEADING_FLANK;Is leading a flank;;;;;;;;;;;;;x
-IS_NOT_LEADING_FLANK;Is NOT leading a flank;;;;;;;;;;;;;x
-
-IS_LUCKY;Is lucky;;;;;;;;;;;;;x
-ISNT_LUCKY;Isn't lucky ;;;;;;;;;;;;;x
-
-IS_THREAT1;Views;;;;;;;;;;;;;x
-IS_THREAT2;as a threat.;;;;;;;;;;;;;x
-IS_NOT_THREAT1;Does NOT view;;;;;;;;;;;;;x
-IS_NOT_THREAT2;as a threat.;;;;;;;;;;;;;x
-
-IS_EQUAL_OR_LESS_THAN; is equal to or less than ;;;;;;;;;;;;;x
-IS_GREATER_THAN; is greater than ;;;;;;;;;;;;;x
-
-IS_FROM;Is FROM;;;;;;;;;;;;;x
-IS_PREV;Is PREV;;;;;;;;;;;;;x
-IS_ROOT;Is ROOT;;;;;;;;;;;;;x
-
-
-HAVE_LESS_THAN;Have less than ;;;;;;;;;;;;;x
-HAVE_LESS_THAN_INFANTRY_IN;Have less than $UNITS$ infantry in $PROVINCE$;;;;;;;;;;;;;x
-HAVE_MORE_THAN;Have more than ;;;;;;;;;;;;;x
-HAVE_MORE_THAN_INFANTRY_IN;Have more than $UNITS$ infantry in $PROVINCE$;;;;;;;;;;;;;x
-LOSE_CORE_EFFECT;Lose core on $LOSE$.\n;;;;;;;;;;;;;x
-LOYALTY_EFFECT;$WHO$ $DIRECTION$ $VALUE$ loyalty.\n;;;;;;;;;;;;;x
-LOYALTY_GAIN_CHANCE;Unit Loyalty Chance;;;;;;;;;;;;;x
-
-PART_OF_CONTINENT;Part of the region of §Y$NAME$§!.;;;;;;;;;;;;;x
-HAVE_NO_PROVINCES;Have no Counties;;;;;;;;;;;;;x
-HAS_A_JOB;Has a job;;;;;;;;;;;;;x
-DOES_NOT_HAVE_A_JOB;Does NOT have a job;;;;;;;;;;;;;x
-HAS_THE_JOB;Has the job ;;;;;;;;;;;;;x
-DOES_NOT_HAVE_THE_JOB;Does NOT have the job ;;;;;;;;;;;;;x
-HAVE_N0T_ALLIANCE_WITH;Not allied with ;;;;;;;;;;;;;x
-IS_RUNNING;Is running ;;;;;;;;;;;;;x
-IS_NOT_RUNNING;Is NOT running ;;;;;;;;;;;;;x
-AGGRESSOR_IS;Attacker is §Y$CHAR$§!;;;;;;;;;;;;;x
-AGGRESSOR_IS_NOT;Attacker is not §Y$CHAR$§!;;;;;;;;;;;;;x
-EXISTS; exists;;;;;;;;;;;;;x
-DOSNT_EXIST; does not exist;;;;;;;;;;;;;x
+ADD_IDEA;Gain a $NEW$ idea.\n;;;;;;;;;;;ïîëó÷èò $NEW$ èäåþ\n;;x
+ADD_SUB_UNIT_EFFECT;Get $UNIT$ in $WHERE$;;;;;;;;;;;Ïîëó÷èòü $UNIT$ â $WHERE$.;;x
+ADVISOR_DEAD;The $TYPE$ $WHO$ dies.\n;;;;;;;;;;; $TYPE$ $WHO$ óìð¸ò\n;;x
+AFFORD_SHIP_COST;You can not afford this ship. You need at least $COST$ ¤;;;;;;;;;;;Âû íå ìîæåòå ïîçâîëèòü ñåáå ýòîò êîðàáëü. Âàì íåîáõîäèìî $COST$ ¤;;x
+AGRESSION_WAR_NAME;$ORDER$War of $FIRST$ Aggression;;;;;;;;;;;$ORDER$Çàõâàòíè÷åñêàÿ âîéíà, êîòîðóþ âåä¸ò $FIRST$;;x
+ALLIANCEOFFDESC;Do you wish to offer an Alliance to $COUNTRY$. Doing so will oblige us to assist each other in times of war.;;;;;;;;;;;Âû äåéñòâèòåëüíî õîòèòå ïðåäëîæèòü äåðæàâå $COUNTRY$ çàêëþ÷èòü âîåííûé ñîþç? Òåì ñàìûì ìû âîçüìåì íà ñåáÿ îáÿçàòåëüñòâî ïðèäòè äðóã äðóãó íà ïîìîùü â ñëó÷àå âîéíû.;;x
+ALLIANCEREQDESC;$ACTOR$ offers us an Alliance. By doing so we are promising to help each other in times of war.;;;;;;;;;;;$ACTOR$ ïðåäëàãàåò íàì âîåííûé ñîþç. Äàâ ñîãëàñèå, ìû âîçüì¸ì íà ñåáÿ îáÿçàòåëüñòâî ïðèäòè èì íà ïîìîùü â ñëó÷àå âîéíû.;;x
+ALLIANCETITLE;Offer Alliance;;;;;;;;;;;Ïðåäëîæèòü âîåííûé ñîþç;;x
+ALLIEDWITH;Allied with the $LIST$.;;;;;;;;;;;Âîåííûé àëüÿíñ: $LIST$.;;x
+ARMY_RECRUITMENTS;Recruiting Regiments;;;;;;;;;;;Ôîðìèðóþùèåñÿ àðìèè;;x
+ARMYTRADITION_EFFECT;$DIRECTION$ $VALUE$ army tradition\n;;;;;;;;;;;$DIRECTION$ $VALUE$ âîåííûõ òðàäèöèé\n;;x
+ASKTRADEACCREQDESC;Do you wish to request right for our merchants to cross the lands of $RECIPIENT$?;;;;;;;;;;;Âû äåéñòâèòåëüíî õîòèòå ïîïðîñèòü ó äåðæàâû $RECIPIENT$ ïðàâî äëÿ íàøèõ êóïöîâ áåñïðåïÿòñòâåííî ïåðåñåêàòü èõ çåìëè?;;x
+ASKTRADEACCTITLE;Request Trade Access;;;;;;;;;;;Ïîïðîñèòü òîðãîâûé ïðîõîä;;x
+ASSASINATE_DESC;Assassinate a character of your or anybody else's court;;;;;;;;;;;Ïðåäïðèíÿòü ïîïûòêó ïîäîñëàòü óáèéöó ê îäíîìó èç ëþäåé íàøåãî èëè ëþáîãî äðóãîãî äâîðà.;;x
+ASSASSIN_INFORM;We have caught an assassin from $ACTOR$, he $SUCCESS$ in murdering $TARGET$. \n What shall we do with him?;;;;;;;;;;;Ìû ïîéìàëè óáèéöó, îòâåòñòâåííîñòü çà êîòîðîãî íåñ¸ò $ACTOR$. Îí $SUCCESS$ ïðè ïîïûòêå óáèéñòâà íàøåãî ÷åëîâåêà ïî èìåíè $TARGET$.\n×òî ìû áóäåì ñ íèì äåëàòü?;;x
+ASSASSINATENEWDESC;Do you wish to send §Y$ASSASSIN$§! to assassinate §Y$TARGET$§!?\nIt might do us good to be rid of him but, if discovered, we could draw the condemnation of his friends and allies.;;;;;;;;;;;Âû äåéñòâèòåëüíî õîòèòå îòïðàâèòü òîãî, êîãî íàçûâàþò §Y$ASSASSIN$§W, ÷òîáû óáèòü ïåðñîíàæà §Y$TARGET$§W?\nÂîçìîæíî, íàì áóäåò ïîëåçíî èçáàâèòüñÿ îò ýòîãî ÷åëîâåêà, îäíàêî, åñëè íàñ îáíàðóæàò, ìû âûçîâåì íåîäîáðåíèå åãî äðóçåé è ñîþçíèêîâ.;;x
+ASSASSINATETITLE;Assassinate;;;;;;;;;;;Ïîäîñëàòü óáèéöó;;x
+ASSIGN_OFFICE_EFFECT;Appoint $CHAR$ to $NEW$.\n;;;;;;;;;;;$CHAR$ ïîëó÷èò äîëæíîñòü $NEW$\n;;x
+BADBOY0;We have an honorable reputation.;;;;;;;;;;;Ó íàñ áëàãîðîäíàÿ ðåïóòàöèÿ.;;x
+BADBOY1;We have a respectable reputation.;;;;;;;;;;;Ó íàñ ðåñïåêòàáåëüíàÿ ðåïóòàöèÿ.;;x
+BADBOY2;We have a slightly tarnished reputation.;;;;;;;;;;;Ó íàñ ñëåãêà çàïÿòíàííàÿ ðåïóòàöèÿ.;;x
+BADBOY3;We have a tarnished reputation.;;;;;;;;;;;Ó íàñ ïîäïîð÷åííàÿ ðåïóòàöèÿ.;;x
+BADBOY4;We have a rather bad reputation.;;;;;;;;;;;Ó íàñ ïëîõàÿ ðåïóòàöèÿ.;;x
+BADBOY5;We have a very bad reputation;;;;;;;;;;;Ó íàñ î÷åíü ïëîõàÿ ðåïóòàöèÿ.;;x
+BADBOY6;We have an extremely bad reputation.;;;;;;;;;;;Ó íàñ êðàéíå ïëîõàÿ ðåïóòàöèÿ.;;x
+BADBOY7;We are dishonorable scum.;;;;;;;;;;;Íàñ ñ÷èòàþò áåñ÷åñòíûìè.;;x
+BADBOY8;We are worse than dishonorable scum.;;;;;;;;;;;Íàñ ñ÷èòàþò àáñîëþòíî áåñ÷åñòíûìè.;;x
+BADBOY9;We are hated throughout the entire world.;;;;;;;;;;;Íàñ íåíàâèäèò âåñü ìèð.;;x
+BADBOY_EFFECT;$DIRECTION$ $VALUE|-%$ Threat\n;;;;;;;;;;;$DIRECTION$ $VALUE$ ê óðîâíþ óãðîçû\n;;x
+BADBOYOTHER0;They have an honorable reputation.;;;;;;;;;;;Ó íèõ áëàãîðîäíàÿ ðåïóòàöèÿ.;;x
+BADBOYOTHER1;They have a respectable reputation.;;;;;;;;;;;Ó íèõ ðåñïåêòàáåëüíàÿ ðåïóòàöèÿ.;;x
+BADBOYOTHER2;They have a slightly tarnished reputation.;;;;;;;;;;;Ó íèõ ñëåãêà çàïÿòíàííàÿ ðåïóòàöèÿ.;;x
+BADBOYOTHER3;They have a tarnished reputation.;;;;;;;;;;;Ó íèõ ïîäïîð÷åííàÿ ðåïóòàöèÿ.;;x
+BADBOYOTHER4;They have a rather bad reputation.;;;;;;;;;;;Ó íèõ ïëîõàÿ ðåïóòàöèÿ.;;x
+BADBOYOTHER5;They have a very bad reputation;;;;;;;;;;;Ó íèõ î÷åíü ïëîõàÿ ðåïóòàöèÿ.;;x
+BADBOYOTHER6;They have an extremely bad reputation.;;;;;;;;;;;Ó íèõ êðàéíå ïëîõàÿ ðåïóòàöèÿ.;;x
+BADBOYOTHER7;They are dishonorable scum.;;;;;;;;;;;Èõ ñ÷èòàþò áåñ÷åñòíûìè.;;x
+BADBOYOTHER8;They are worse than dishonorable scum.;;;;;;;;;;;Èõ ñ÷èòàþò àáñîëþòíî áåñ÷åñòíûìè.;;x
+BADBOYOTHER9;They are hated throughout the entire world.;;;;;;;;;;;Èõ íåíàâèäèò âåñü ìèð.;;x
+BARB_CLIENT_DESC;Offer the Barbarians lands as our Client state.;;;;;;;;;;;Ïðåäëîæèòü âàðâàðàì ñòàòü íàøèì ãîñóäàðñòâîì-ñàòåëëèòîì.;;x
+BARB_CLIENT_REQ_DESC;Shall we offer the barbarians $NAME$ the land that they now hold, to rule in our name? \n This will create the new country of $COUNTRY$ in the counties $LIST$. $COUNTRY$ shall pay tribute to us and be our ally.;;;;;;;;;;;Âû äåéñòâèòåëüíî õîòèòå ïðåäëîæèòü âàðâàðñêîìó ïëåìåíè $NAME$ òåððèòîðèþ, êîòîðîé îíè íûí÷å âëàäåþò, ÷òîáû îíè ïðàâèëè åé îò íàøåãî èìåíè?\nÝòî ïðèâåä¸ò ê ñîçäàíèþ íîâîé äåðæàâû $COUNTRY$, êîòîðàÿ áóäåò âëàäåòü ñëåäóþùèìè îêðóãàìè: $LIST$. Äåðæàâà $COUNTRY$ òàêæå ñòàíåò íàøèì ñîþçíèêîì è áóäåò ïëàòèòü íàì äàíü.;;x
+BARB_CLIENTTITLE;Create Client;;;;;;;;;;;Ñîçäàòü ñàòåëëèòà;;x
+BARB_PAYOFF_DESC;Offer money for the barbarians to return home.;;;;;;;;;;;Ïðåäëîæèòü âàðâàðàì äàíü, ÷òîáû îíè âåðíóëèñü äîìîé.;;x
+BARB_PAYOFF_REQ_DESC;Shall we offer the barbarians $NAME$ the amount of $CASH$¤ to return whence they came.;;;;;;;;;;;Âû äåéñòâèòåëüíî õîòèòå ïðåäëîæèòü âàðâàðñêîìó ïëåìåíè $NAME$ äàíü â ðàçìåðå $CASH$¤, ÷òîáû îíè âåðíóëèñü òóäà, îòêóäà ïðèøëè.;;x
+BARB_PAYOFFTITLE;Pay Off;;;;;;;;;;;Çàïëàòèòü äàíü;;x
+BARB_SETTLE_DESC;Offer the barbarians land to settle on.;;;;;;;;;;;Ïðåäëîæèòü âàðâàðàì ïîñåëèòüñÿ íà íàøèõ çåìëÿõ.;;x
+BARB_SETTLE_REQ_DESC;Shall we offer the barbarians $NAME$ rights to settle in $LIST$? The barbarians would disband and settle as Freemen farmers. This might also impact the cultural makeup of the county.;;;;;;;;;;;Âû äåéñòâèòåëüíî õîòèòå ïðåäëîæèòü âàðâàðñêîìó ïëåìåíè $NAME$ ïðàâà íà ïîñåëåíèå â ñëåäóþùèõ îêðóãàõ: $LIST$? Âàðâàðñêàÿ îðäà áóäåò ðàñïóùåíà, à åå ÷ëåíû ñòàíóò ÷àñòüþ íàøåãî ñâîáîäíîãî íàñåëåíèÿ. Ýòî òàêæå ìîæåò ïîâëèÿòü íà êóëüòóðíûé ñîñòàâ íàñåëåíèÿ îêðóãà.;;x
+BARB_SETTLETITLE;Settle;;;;;;;;;;;Ïîñåëèòü;;x
+BARB_SURRENDER_DESC;Demand that the barbarians surrender unconditionally;;;;;;;;;;;Ïîòðåáîâàòü ó âàðâàðîâ áåçîãîâîðî÷íîé ñäà÷è.;;x
+BARB_SURRENDER_REQ_DESC;Shall we demand that the barbarians $NAME$ immediately lay down their arms, return their stolen property and submit themselves as our slaves?;;;;;;;;;;;Âû äåéñòâèòåëüíî õîòèòå ïîòðåáîâàòü ó âàðâàðñêîãî ïëåìåíè $NAME$ íåìåäëåííîé ñäà÷è îðóæèÿ, âîçâðàùåíèÿ âñåãî íàãðàáëåííîãî è ïðèçíàíèÿ èìè íàøèìè ðàáàìè?;;x
+BARB_SURRENDERTITLE;Demand Surrender;;;;;;;;;;;Ïîòðåáîâàòü ñäà÷è;;x
+BARBARIAN_POWER_EFFECT;$DIRECTION$ $VALUE$ barbarian power in $WHERE$\n;;;;;;;;;;;$DIRECTION$ $VALUE$ ñèëû âàðâàðîâ â $WHERE$\n;;x
+BARBARIAN_SPAW_MOD;Chance of barbarian rising;;;;;;;;;;;Øàíñ âîññòàíèÿ âàðâàðîâ;;x
+BASE_TAX;$DIRECTION$ $VALUE$ base tax in $WHERE$.\n;;;;;;;;;;;$DIRECTION$ $VALUE$ áàçîâîãî íàëîãà â $WHERE$\n;;x
+BATTLE_EVENT_CHANCE;Battle Event Chance;;;;;;;;;;;Øàíñ ñîáûòèÿ â ñðàæåíèè;;x
+BECOME;become;;;;;;;;;;;ñòàíåò;;x
+BECOME_ELECTOR;Become Elector.\n;;;;;;;;;;;ñòàíåò âûáîðùèêîì\n;;x
+BECOME_EMPEROR;You have become Emperor.\n;;;;;;;;;;;ñòàíåò èìïåðàòîðîì\n;;x
+BECOMES_RULER;$WHO$ will become our new $TITLE$;;;;;;;;;;;$WHO$ ñòàíåò íàøèì íîâûì $TITLE$;;x
+BREAKALLIANCEOFFDESC;Do you wish to cancel the Alliance with $COUNTRY$. This will upset them.;;;;;;;;;;;Âû äåéñòâèòåëüíî õîòèòå ðàñòîðãíóòü âîåííûé ñîþç ñ äåðæàâîé $COUNTRY$? Ïîäîáíûé øàã âîçìóòèò èõ.;;x
+BREAKVASSALDESC;Stop paying tribute.;;;;;;;;;;;Ïðåêðàòèòü îòäàâàòü èì äàíü.;;x
+BREAKVASSALTITLE;Cancel Tribute;;;;;;;;;;;Îòìåíèòü âûïëàòó äàíè;;x
+CALL_TRUCE;They have a truce with your enemies;;;;;;;;;;;Îíè çàêëþ÷èëè ïåðåìèðèå ñ íàøèìè âðàãàìè.;;x
+CALLDESC;Call on your partner to aid you in this conflict.;;;;;;;;;;;Ïðèçâàòü íà ïîìîùü ñîþçíèêîâ.;;x
+CALLNEWDESC;Do you wish to call upon your Allies in these times of war?;;;;;;;;;;;Âû äåéñòâèòåëüíî õîòèòå ïðèçâàòü ñîþçíèêîâ, ÷òîáû íàø âðàã ïîëó÷èë äîñòîéíûé îòïîð?;;x
+CALLREQDESC;The nation of $COUNTRY$, your faithful ally, is requesting that you come to their aid in the conflict against $LIST$. ;;;;;;;;;;;Äåðæàâà $COUNTRY$, íàø âåðíûé ñîþçíèê, ïðîñèò íàøåé ïîìîùè â èõ âîéíå ñ äåðæàâîé(àìè) $LIST$. ;;x
+CALLTITLE;A Call to Arms!;;;;;;;;;;;Ê îðóæèþ!;;x
+CANCELALIANCETITLE;Dissolve this Alliance;;;;;;;;;;;Ðàñòîðãíóòü âîåííûé ñîþç;;x
+CANCELALLIANCEDESC;Dissolving the current Alliance will, of course, end the current Alliance you have with this country, and will adversely affect relations.;;;;;;;;;;;Âûõîä èç ñîþçà ïðèâåä¸ò ê ïðåêðàùåíèþ âñåõ âîåííûõ îáÿçàòåëüñòâ ìåæäó íàøèìè ñòðàíàìè, à òàêæå çíà÷èòåëüíî óõóäøèò íàøè îòíîøåíèÿ.;;x
+CANCELMILACCDESC;Cancel our Military Access to their country.;;;;;;;;;;;Îòìåíèòü íàø ïðîõîä âîéñê ÷åðåç èõ äåðæàâó.;;x
+CANCELMILACCINFORM;$COUNTRY$ is canceling the military access they gave us. Our soldiers are no longer allowed on their lands;;;;;;;;;;;Äåðæàâà $COUNTRY$ îòìåíèëà ïðàâî íà ïðîõîä âîéñê, êîòîðîå îíè ïðåäîñòàâëÿëè íàì. Íàøè ñîëäàòû áîëüøå íå ìîãóò ïðîõîäèòü ÷åðåç èõ çåìëè.;;x
+CANCELMILACCNEWDESC;Do you wish to cancel the military access given to us by $COUNTRY$? Doing so will prevent our troops from accessing their country and ports.;;;;;;;;;;;Âû äåéñòâèòåëüíî õîòèòå îòìåíèòü ïðîõîä âîéñê, êîòîðûé íàì ïðåäîñòàâëÿåò äåðæàâà $COUNTRY$? Ìû áîëüøå íå ñìîæåì ïðîõîäèòü ÷åðåç èõ çåìëè è ïîëüçîâàòüñÿ èõ ïîðòàìè.;;x
+CANCELMILACCTITLE;Cancel Military Access;;;;;;;;;;;Îòìåíèòü ïðîõîä âîéñê;;x
+CANCELOFFERMILACCINFORM;$COUNTRY$ has declared that their troops are leaving our lands and will not return, at least not as friends...;;;;;;;;;;;Äåðæàâà $COUNTRY$ îáúÿâèëà, ÷òî èõ âîéñêà ïîêèäàþò íàøó ñòðàíó, íå ñîáèðàÿñü áîëüøå âîçâðàùàòüñÿ. Ïî êðàéíåé ìåðå, â êà÷åñòâå äðóçåé...;;x
+CANCELTRADEACCREQDESC;Do you wish to cancel the trade access we give to $RECIPIENT$? \n This will stop their merchants from trespassing on our lands;;;;;;;;;;;Âû äåéñòâèòåëüíî õîòèòå îòìåíèòü ïðàâî òîðãîâîãî ïðîõîäà, êîòîðûé ìû ïðåäîñòàâëÿåì äåðæàâå $RECIPIENT$?\nÈõ êóïöû áîëüøå íå ñìîãóò ïåðåäâèãàòüñÿ ïî íàøåé òåððèòîðèè.;;x
+CANCELTRADEACCTITLE;Cancel Trade Access;;;;;;;;;;;Îòìåíèòü òîðãîâûé ïðîõîä;;x
+CANCELTRADEDESC;Cancel an existing Trade Route.;;;;;;;;;;;Îòìåíèòü óñòàíîâëåííûé òîðãîâûé ïóòü.;;x
+CANCELTRADEROUTEDESC;Canceling a traderoute will remove beneficial effects from the trading counties. It might also upset our foreign trading partners;;;;;;;;;;;Îòìåíà óñòàíîâëåííîãî òîðãîâîãî ïóòè ñíèìåò âñå ïîëîæèòåëüíûå ýôôåêòû îò òîðãîâëè ìåæäó îêðóãàìè. Ýòî òàêæå ìîæåò îãîð÷èòü íàøèõ èíîñòðàííûõ ïàðòí¸ðîâ.;;x
+CANCELTRADEROUTETITLE;Cancel Trade Route;;;;;;;;;;;Îòìåíèòü òîðãîâûé ïóòü;;x
+CANCELVASSALDESC;Stop accepting their tribute.;;;;;;;;;;;Ïðåêðàòèòü ïîëó÷àòü îò íèõ äàíü.;;x
+CANCELVASSALTITLE;Cancel Tribute;;;;;;;;;;;Îòìåíèòü âûïëàòó äàíè;;x
+CB_AGAINST;$NAME$' Casus Belli against $WHO$;;;;;;;;;;;Ïîâîä äëÿ âîéíû $NAME$ ïðîòèâ $WHO$;;x
+CB_AGAINST_TIMED;$NAME$' Casus Belli against $WHO$ until $DATE$;;;;;;;;;;;Ïîâîä äëÿ âîéíû $NAME$ ïðîòèâ $WHO$ äî $DATE$;;x
+CD_GIVESACCESS;Grants military access to $LIST$.;;;;;;;;;;;Ïðåäîñòàâëåí ïðîõîä âîéñê: $LIST$.;;x
+CD_HASACCESS;Has military access through $LIST$.;;;;;;;;;;;Ïîëó÷åí ïðîõîä âîéñê: $LIST$.;;x
+CH_ADD_RIVAL;$WHO$ became a rival.;;;;;;;;;;;$WHO$ ñòàë âðàãîì.;;x
+CH_ALLEGIANCE;Joined $WHERE$.;;;;;;;;;;;Ïðèñîåäèíÿåòñÿ ê: $WHERE$.;;x
+CH_BATTLE_RESULT_LONG;He had §Y$US$§! men and faced §Y$THEM$§! under §Y$ENEMY$§!. He lost §Y$OUR_LOSSES$§!, while inflicting §Y$THEIR_LOSSES$§! on the enemy.;;;;;;;;;;;Â åãî âîéñêå áûëî §Y$US$§W ÷åëîâåê ïðîòèâ §Y$THEM$§W ïîä êîìàíäîâàíèåì §Y$ENEMY$§W. Îí ïîòåðÿë §Y$OUR_LOSSES$§W ÷åëîâåê, ïðèíåñÿ §Y$THEIR_LOSSES$§W ïîòåðü âðàãó.;;x
+CH_BATTLE_RESULT_SHORT;$RESULT$ $NAME$;;;;;;;;;;;$RESULT$ $NAME$;;x
+CH_BORN;Born;;;;;;;;;;;Äàòà ðîæäåíèÿ;;x
+CH_CULTURE_CHANGE;Turned into a $CULTURE$.;;;;;;;;;;;Òåïåðü $CULTURE$[_]§!îé êóëüòóðû;;x
+CH_DEC;decreased;;;;;;;;;;;Óìåíüøèëîñü;;x
+CH_DIED;Died;;;;;;;;;;;Äàòà ñìåðòè;;x
+CH_DIPLOMACY_CHANGE;Diplomacy $DIRECTION$ by $CHANGE$;;;;;;;;;;;$DIRECTION$ $CHANGE$ äèïëîìàòèè;;x
+CH_DIVORCE;Divorced $WHO$.;;;;;;;;;;;Â ðàçâîäå ñ: $WHO$.;;x
+CH_FAMILY_CHANGE;Adopted into $FAMILY$;;;;;;;;;;;Òåïåðü $FAMILY$;;x
+CH_FERTILITY_CHANGE;Fertility $DIRECTION$ by $CHANGE$;;;;;;;;;;;Ïëîäîâèòîñòü $DIRECTION$ íà $CHANGE$.;;x
+CH_GAIN_FRIEND;Gained $WHO$ as a friend;;;;;;;;;;;Îáðåòàåò $WHO$ êàê äðóãà.;;x
+CH_GAIN_TRAIT;Gained '$TRAIT$';;;;;;;;;;;Ïðèîáðåòåíà ÷åðòà $TRAIT$.;;x
+CH_GAINED_TITLE;Became $TITLE$;;;;;;;;;;;Ñòàë $TITLE$.;;x
+CH_GUARDIAN;Educated by $WHERE$;;;;;;;;;;;Íàñòàâíèê: $WHERE$.;;x
+CH_HEALTH_CHANGE;Health $DIRECTION$ by $CHANGE$;;;;;;;;;;;$DIRECTION$ $CHANGE$ çäîðîâüÿ;;x
+CH_INC;increased;;;;;;;;;;;Óâåëè÷èëîñü;;x
+CH_INTRIGUE_CHANGE;Intrigue $DIRECTION$ by $CHANGE$;;;;;;;;;;;$DIRECTION$ $CHANGE$ èíòðèãè;;x
+CH_LEARNING_CHANGE;Learning $DIRECTION$ by $CHANGE$;;;;;;;;;;;$DIRECTION$ $CHANGE$ îáðàçîâàííîñòè;;x
+CH_LOSE_FRIEND;Lost the friendship with $WHO$.;;;;;;;;;;;Òåðÿåò äðóæáó ñ: $WHO$.;;x
+CH_LOST_RIVAL;Reconciled with $WHO$.;;;;;;;;;;;Ïîìèðèëèñü ñ: $WHO$.;;x
+CH_LOST_TITLE;No longer $TITLE$;;;;;;;;;;;Áîëüøå íå $TITLE$.;;x
+CH_LOST_TRAIT;Lost '$TRAIT$';;;;;;;;;;;Ïîòåðÿíà ÷åðòà $TRAIT$.;;x
+CH_LOYALTY_CHANGE;Loyalty $DIRECTION$ by $CHANGE$;;;;;;;;;;;Ëîÿëüíîñòü $DIRECTION$ íà $CHANGE$.;;x
+CH_MARRIED;Married $WHO$;;;;;;;;;;;Â áðàêå ñ: $WHO$.;;x
+CH_MARTIAL_CHANGE;Martial $DIRECTION$ by $CHANGE$;;;;;;;;;;;$DIRECTION$ $CHANGE$ âîåíííîãî íàâûêà;;x
+CH_NBATTLE_RESULT_LONG;He had §Y$US$§! ships and faced §Y$THEM$§! under §Y$ENEMY$§!. He lost §Y$OUR_LOSSES$§!, while inflicting §Y$THEIR_LOSSES$§! on the enemy.;;;;;;;;;;;Îí èìåë §Y$US$ §W êîðàáëåé è ñòîëêíóëñÿ ñ §Y$THEM$ §W âðàãà §Y$ENEMY$ §W. Îí ïîòåðÿë §Y$OUR_LOSSES$ §W, ïðè÷èíèâ §Y$THEIR_LOSSES$ §W óùåðáà âðàãó.;;x
+CH_PIETY_CHANGE;[Player.Religion.GetPietyName] $DIRECTION$ by $CHANGE$;;;;;;;;;;;$DIRECTION$ $CHANGE$ áëàãî÷åñòèÿ;;x
+CH_POPULARITY_CHANGE;Popularity $DIRECTION$ by $CHANGE$.;;;;;;;;;;;Ïîïóëÿðíîñòü $DIRECTION$ íà $CHANGE$.;;x
+CH_PRESTIGE_CHANGE;Prestige $DIRECTION$ by $CHANGE$;;;;;;;;;;;$DIRECTION$ $CHANGE$ ïðåñòèæà;;x
+CH_RELIGION_CHANGE;Converted to $RELIGION$;;;;;;;;;;;Ïðèíÿë $RELIGION$[__];;x
+CH_RULER;Became $WHERE$;;;;;;;;;;;Òåïåðü $WHERE$.;;x
+CH_STEWARDSHIP_CHANGE;Stewardship $DIRECTION$ by $CHANGE$;;;;;;;;;;;$DIRECTION$ $CHANGE$ óïðàâëåíèÿ;;x
+CH_WEALTH_CHANGE;Wealth $DIRECTION$ by $CHANGE$¤;;;;;;;;;;;Áîãàòñòâî $DIRECTION$ íà $CHANGE$¤.;;x
+CHANGE_TAG;Become $NEW$.\n;;;;;;;;;;;ñòàòü $NEW$\n;;x
+CHANGERELIGIONEFFECT;$WHO$ will become a $TRAIT$.\n;;;;;;;;;;;$WHO$ ïîëó÷èò ÷åðòó $TRAIT$\n;;x
+CHAR_IMPRISON_FOREIGNERS;You cannot imprison foreign dignitaries once they have been allowed into the country.;;;;;;;;;;;Âû íå ìîæåòå çàêëþ÷èòü â òþðüìó èíîñòðàííûõ ñàíîâíèêîâ, ïðè èõ ïåðâîì ïîñåùåíèè Âàøåé ñòðàíû;;x
+character_wealth_mod;Wealth Modifier;;;;;;;;;;;Ìîäèôèêàòîð áîãàòñòâà;;x
+city_barracks;Militia Barracks;;;;;;;;;;;Êàçàðìû îïîë÷åíèÿ;;x
+city_barracks_2;Enlarged Militia Barracks;;;;;;;;;;;Óâåëè÷åííûå êàçàðìû îïîë÷åíèÿ;;x
+city_stable;Militia Stable;;;;;;;;;;;Êîíþøíè îïîë÷åíèÿ;;x
+CITYSIZE;$DIRECTION$ $VALUE$ population in $WHERE$.\n;;;;;;;;;;;$DIRECTION$ $VALUE$ íàñåëåíèÿ â $WHERE$\n;;x
+CIV_VALUE;$DIRECTION$ $VALUE$ Civilization in $WHERE$.\n;;;;;;;;;;;$DIRECTION$ $VALUE$ öèâèëèçîâàííîñòè â $WHERE$\n;;x
+COLONISTS;$DIRECTION$ $VALUE$ colonists.\n;;;;;;;;;;;$DIRECTION$ $VALUE$ êîëîíèñòîâ\n;;x
+COLONISTS_ENROUTE;Colonists;;;;;;;;;;;Êîëîíèñòû;;x
+COMBAT_DICE;Die roll for this side in this phase.;;;;;;;;;;;Áðîñîê êîñòè äëÿ ýòîé ñòîðîíû â ýòîé ôàçå;;x
+COMBAT_SHOCK;Relative modifier from martial value of commanding leader compared to the opponent's commanding leader.;;;;;;;;;;;Ñðàâíèòåëüíûé ìîäèôèêàòîð âîåííûõ íàâûêîâ êîìàíäóþùåãî ëèäåðà ïî ñðàâíåíèþ ñ êîìàíäóþùèì ëèäåðîì ïðîòèâíèêà;;x
+CONFIRM_NEW_IDEA;Select new idea?;;;;;;;;;;;Âûáåðèòå íîâóþ èäåþ?;;x
+CONFIRM_NEW_IDEA_DESC;Are you sure you want to select $IDEA$? Replacing this idea later might incur a stability penalty.;;;;;;;;;;;Âû óâåðåíû, ÷òî õîòèòå, âûáðàòü $IDEA$? Çàìåíà ýòîé èäåè ìîæåò âûçâàòü ïîíèæåíèå óðîâíÿ ñòàáèëüíîñòè.;;x
+CONFIRM_REPLACE_IDEA;Replace idea?;;;;;;;;;;;Çàìåíèòü èäåþ?;;x
+CORE_GIVEUP;$WHO$ will renounce their claims on $WHAT$. ;;;;;;;;;;;$WHO$ îòêàæåòñÿ îò ïðåòåíçèé íà $WHAT$. ;;x
+CORRUPTION;Corruption;;;;;;;;;;;Êîððóïöèÿ ;;x
+CORRUPTION_EFFECT;$WHO$ $DIRECTION$ $VALUE$ corruption.\n;;;;;;;;;;;$WHO$ $DIRECTION$ $VALUE$ êîððóïöèè\n;;x
+COT_CHANGE;$DIRECTION$ centre of trade in $WHERE$.\n;;;;;;;;;;;$DIRECTION$ öåíòð òîðãîâëè â $WHERE$\n;;x
+COTS;Centres of Trade;;;;;;;;;;;Òîðãîâûå öåíòðû;;x
+COUNTRY_MODIFIER;Country Modifier;;;;;;;;;;;Ìîäèôèêàòîð ìåñòíîñòè;;x
+CRBBREACH;Breach! With a breach in the walls the besieging armies have a much better chance of storming this fortification!;;;;;;;;;;;Áðåøü! Áðåøü â ñòåíàõ äà¸ò îñàæäàþùåé àðìèè ãîðàçäî áîëüøå øàíñîâ íà óñïåøíûé øòóðì óêðåïëåíèé!;;x
+CRBSIEGE1;The city can hold out for years.;;;;;;;;;;;Ãîðîä ìîæåò ïðîäåðæàòüñÿ â òå÷åíèå ìíîãèõ ëåò.;;x
+CRBSIEGE2;The city will probably surrender within twelve months.;;;;;;;;;;;Ãîðîä, âåðîÿòíî, áóäåò ñäàí â òå÷åíèå äâåíàäöàòè ìåñÿöåâ.;;x
+CRBSIEGE3;The city will probably surrender within nine months.;;;;;;;;;;;Ãîðîä, âåðîÿòíî, áóäåò ñäàí â òå÷åíèå äåâÿòè ìåñÿöåâ.;;x
+CRBSIEGE4;The city will probably surrender within six months.;;;;;;;;;;;Ãîðîä, âåðîÿòíî, áóäåò ñäàí â òå÷åíèå øåñòè ìåñÿöåâ.;;x
+CRBSIEGE5;The city will probably surrender within three months.;;;;;;;;;;;Ãîðîä, âåðîÿòíî, áóäåò ñäàí â òå÷åíèå òð¸õ ìåñÿöåâ.;;x
+CRBSIEGE6;The city will surrender any day now.;;;;;;;;;;;Ãîðîä ïàäåò ñî äíÿ íà äåíü.;;x
+CREATE_COLONY_EFFECT;Colony of  $SIZE$ population founded in $WHERE$.\n;;;;;;;;;;;Êîëîíèÿ ñ $SIZE$ íàñåëåíèÿ áóäåò ñîçäàíà â ìåñòå, èçâåñòíîì êàê $WHERE$\n;;x
+CREATE_PIRATE;$SIZE$ ship(s) with pirates will appear in $WHERE$.\n;;;;;;;;;;;$SIZE$ ïèðàòñêèõ êîðàáëåé ïîÿâèòñÿ â $WHERE$\n;;x
+CREATE_REVOLT;$SIZE$ regiment(s) rises up in revolt in $WHERE$.\n;;;;;;;;;;;Ïîäíÿëè ìÿòåæ $SIZE$ ïîäðàçäåëåíèé â $WHERE$\n;;x
+CULTURE_CHANGE;$NEW$ becomes the new primary culture.\n;;;;;;;;;;;äîìèíèðóþùåé êóëüòóðîé ñòàíåò $NEW$§z§xàÿ\n;;x
+CURRENTLY_QUEUED;There are also $SIZE$ units queued for production in this county.;;;;;;;;;;;Â ýòîì îêðóãå â î÷åðåäè íà ôîðìèðîâàíèå óæå íàõîäèòñÿ $SIZE$ ïîäðàçäåëåíèé.;;x
+DECWARINFORM;$MONARCHTITLE$, an envoy of $COUNTRY$ has brought forward a declaration of war. He says our capital will burn within the week!;;;;;;;;;;;$MONARCHTITLE$, ïîñîë äåðæàâû $COUNTRY$ ïðèí¸ñ íàì äåêëàðàöèþ îá îáúÿâëåíèè âîéíû. Îí çàÿâèë, ÷òî íàøà ñòîëèöà áóäåò ãîðåòü ÷åðåç íåäåëþ!;;x
+DECWARREQDESC;Declaring war is, sometimes, the last resort of diplomacy. The act of declaring war will reduce the view other countries have of you, especially if you do not have a legitimate reason to do so. It may also reduce your stability. Are you sure you wish to do this?;;;;;;;;;;;Âîéíà - ýòî ïîñëåäíåå ñðåäñòâî â àðñåíàëå äèïëîìàòèè. Îáúÿâëåíèå âîéíû, îñîáåííî åñëè ó íàñ íåò çàêîííîãî ïîâîäà, çíà÷èòåëüíî óõóäøèò íàø îáðàç â ãëàçàõ äðóãèõ äåðæàâ, à òàêæå ïîíèçèò íàøó ñòàáèëüíîñòü. Âû äåéñòâèòåëüíî õîòèòå ñäåëàòü ýòî?;;x
+DEMANDTRIBUTEINFORM;$MONARCHTITLE$, an envoy of country informs us that they will no longer pay tribute to us. \n Such Insolence!;;;;;;;;;;;$MONARCHTITLE$, ïîñîë ýòîé äåðæàâû èíôîðìèðóåò íàñ, ÷òî îíè íå ñîáèðàþòñÿ áîëüøå âûïëà÷èâàòü íàì äàíü.\n×òî çà äåðçîñòü!;;x
+DEMANDTRIBUTEINVALID;To demand Tribute you must have a relation of at least -150 and we must both be at peace.;;;;;;;;;;;×òîáû ïîòðåáîâàòü äàíü, íàøè îòíîøåíèÿ äîëæíû áûòü êàê ìèíèìóì -150 è âûøå, è îáå íàøè ñòðàíû äîëæíû áûòü â ìèðå.;;x
+DESECRATE_DESC;Attempt to desecrate a holy site and damage the religious prestige of a county.;;;;;;;;;;;Ïðåäïðèíÿòü ïîïûòêó îñêâåðíèòü ñâÿòîå ìåñòî, ÷òîáû íàíåñòè óðîí ðåëèãèîçíîìó ïðåñòèæó â îêðóãå.;;x
+DESECRATEREQDESC;Do you wish to desecrate a holy site in §Y$PROV$§!? This will have a negative effect on the prestige of §Y$RELIGION$§! there.\n$EFFECT$ for $TIME$ days.;;;;;;;;;;;Âû äåéñòâèòåëüíî õîòèòå îñêâåðíèòü ñâÿòîå ìåñòî â îêðóãå §Y$PROV$§W? Ýòî êðàéíå íåãàòèâíî ïîâëèÿåò íà §Y$RELIGION$[__]§W è ïðèâåä¸ò ê ñëåäóþùåìó ýôôåêòó:\n$EFFECT$\nêîòîðûé áóäåò äëèòüñÿ $TIME$ äí.;;x
+DESECRATETITLE;Desecrate Holy Site;;;;;;;;;;;Îñêâåðíèòü ñâÿòîå ìåñòî;;x
+DESECREATEINFORMDESC;A holy shrine in $TARGET$ have been desecrated. \n We caught the foreigner who did it, $NAME$. What shall we do with him?;;;;;;;;;;;Ñâÿòîå ìåñòî â îêðóãå $TARGET$ áûëî îñêâåðíåíî.\nÌû ïîéìàëè èíîñòðàíöà, êîòîðûé ýòî ñäåëàë, ïî èìåíè $NAME$. ×òî ìû áóäåì ñ íèì äåëàòü?;;x
+DIP_CHAR_AVAILABLE;$NAME$ is available for this mission.;;;;;;;;;;;$NAME$ ìîæåò âûïîëíèòü ýòî çàäàíèå.;;x
+DIP_CHAR_ON_MISSION;$NAME$ is already on a mission.\nHe will return on $DATE$.;;;;;;;;;;;$NAME$ óæå íàõîäèòñÿ â ïóòè.\nÎí âåðí¸òñÿ $DATE$.;;x
+DIP_RELEASE;Let him go;;;;;;;;;;;Ïóñòü èä¸ò;;x
+DIP_SELECT_CHARACTER;Select Victim;;;;;;;;;;;Âûáðàòü æåðòâó;;x
+DIP_SELECT_PROVINCE;Select this county for trading.;;;;;;;;;;;Âûáåðèòå îêðóã äëÿ òîðãîâëè.;;x
+DIPLO_ACTION;List possible diplomatic missions;;;;;;;;;;;Ñïèñîê âîçìîæíûõ äèïëîìàòè÷åñêèõ ìèññèé;;x
+DIPLOMATS;$DIRECTION$ $VALUE$ diplomats.\n;;;;;;;;;;;$DIRECTION$ $VALUE$ äèïëîìàòîâ\n;;x
+DIPRELCH_DEPENDENCY;Tributary Relationship;;;;;;;;;;;Ïëàòèò äàíü;;x
+DISBAND_FLEET;Fleet in $PROV|Y$ will disband;;;;;;;;;;;Ôëîò â îêðóãå $PROV$ áûë ðàñôîðìèðîâàí;;x
+DISCIPLINE;Discipline;;;;;;;;;;;Äèñöèïëèíà ;;x
+DISCOVER;Discover $WHERE$.\n;;;;;;;;;;;Îòêðîåòñÿ $WHERE$\n;;x
+ENABLE_COMBAT_EVENT;Allows the '$WHICH$' combat event\n;;;;;;;;;;;Ïîçâîëÿåò $WHICH$ áîåâûå ñîáûòèÿ\n;;x
+ENROUTE;We have a diplomat enroute, he will arrive on $DATE$;;;;;;;;;;;Ó íàñ åñòü äèïëîìàò â ïóòè, îí ïðèáóäåò $DATE$;;x
+ENROUTE_REMOVED;We have a envoy enroute;;;;;;;;;;;Íàø äèïëîìàò íàõîäèòñÿ â ïóòè.;;x
+ENVELOPE;Envelope;;;;;;;;;;;Îáõîä;;x
+ENVELOPE_DESC;If a general can successfully stiffen the discipline of the units on the flanks of his army he can launch a devastating attack on the enemy. If their flanks give way then the whole army could collapse;;;;;;;;;;;Åñëè ãåíåðàë ñìîæåò óñïåøíî óêðåïèòü äèñöèïëèíó âîéñê íà ôëàíãàõ, îí ìîæåò ïîéòè â ðàçðóøèòåëüíîå íàñòóïëåíèå, îêðóæàÿ âðàãà. Åñëè èõ ôëàíãè óñòóïÿò - òîãäà ñòðîé âñåé àðìèè ìîæåò ðàçðóøèòüñÿ;;x
+FAM_PRESTIGE_EFFECT;$WHO$ $DIRECTION$ $VALUE$ family prestige\n;;;;;;;;;;;$WHO$ $DIRECTION$ $VALUE$ ïðåñòèæà ñåìüè\n;;x
+FORCE_ATTACK;Force Attack;;;;;;;;;;;Øòóðì;;x
+FORCE_ATTACK_DESC;Battles ebb and flow, but if a general can raise the troops for a heroic assault on the enemy line then the battle could turn.;;;;;;;;;;;Ñðàæåíèå èçìåí÷èâî, åñëè ãåíåðàë ñìîæåò âäîõíîâèòü âîéñêà äëÿ ãåðîè÷åñêîãî øòóðìà, ýòî ìîæåò ñëîìèòü âðàæåñêèé ñòðîé è îáðàòèòü èõ â áåãñòâî;;x
+foreign_rebels;Foreign support of rebels ;;;;;;;;;;;Èíîñòðàííàÿ ïîääåðæêà ïîâñòàíöåâ;;x
+foreign_rebels_desc;A less then friendly power has used agents to identify important people in this county who are unhappy with our rule. They have then funnelled money to these people so that they can turn this unhappiness into action. The revolt risk is now slightly higher. ;;;;;;;;;;;Íåäðóæåñòâåííûå íàì ñèëû èñïîëüçîâàëè øïèîíîâ äëÿ íàõîæäåíèÿ íåäîâîëüíûõ â îêðóãå è ïåðåäà÷è èì äåíåã. Ðèñê âîññòàíèÿ íåçíà÷èòåëüíî óâåëè÷åí.;;x
+GAIN_CB;Gain casus-belli on $WHO$\n;;;;;;;;;;;Ïîëó÷èò ïîâîä äëÿ âîéíû ñ $WHO$\n;;x
+GIVE_UP_CORES;Cores;;;;;;;;;;;êîðêè;;x
+GOODS_CHANGE;$NAME$ will now be produced in $WHERE$.\n;;;;;;;;;;;$NAME$ òåïåðü áóäåò ïðîèçâîäèòüñÿ â $WHERE$\n;;x
+GOV_CHANGE;The type of government changes to $GOV$;;;;;;;;;;;Ôîðìîé ïðàâëåíèÿ ñòàíåò $GOV$;;x
+GROUP_CHANGE;Technology group changed to $GROUP$.\n;;;;;;;;;;;Òåõíîëîãè÷åñêàÿ ãðóïïà áóäåò èçìåíåíà íà $GROUP$\n;;x
+HAD_TITLE_LESS_THAN;Been §Y$TITLE$§! for less than §Y$DAYS$§! days;;;;;;;;;;;Âëàäåë çåìåëüíûì òèòóëîì $TITLE$ ìåíåå $DAYS$ äíåé;;x
+HAD_TITLE_MORE_THAN;Been §Y$TITLE$§! for more than §Y$DAYS$§! days;;;;;;;;;;;Âëàäåë çåìåëüíûì òèòóëîì $TITLE$ áîëåå $DAYS$ äíåé;;x
+HAS_COHORTS;Loyal units: ;;;;;;;;;;;Ëîÿëüíûå ïîäðàçäåëåíèÿ:;;x
+HAS_COMPLETED_OBJECTIVE;Has fulfilled the Ambition ;;;;;;;;;;;Àìáèöèè óäîâëåòâîðåíû;;x
+HAS_CONTROL;Occupation of §Y$TOWN$§! in §Y$PROVINCE$§!;;;;;;;;;;;Çàõâà÷åíî ïîñåëåíèå §Y$TOWN$§W â îêðóãå §Y$PROVINCE$§W;;x
+HAS_CONTROL_PROVINCE;Occupation of §Y$PROVINCE$§!;;;;;;;;;;;Îêêóïàöèÿ îêðóãà §Y$PROVINCE$§W;;x
+HAS_LESS_COHORTS;Loyal units less than;;;;;;;;;;;Ëîÿëüíûõ ïîäðàçäåëåíèé ìåíüøå, ÷åì ;;x
+HAS_MISSION;Has Mission;;;;;;;;;;;Èìååò çàäàíèå;;x
+HASCBON;Has Casus Belli on $LIST$.;;;;;;;;;;;Casus Belli: $LIST$.;;x
+HASCOMBAT;The county is embattled;;;;;;;;;;;Îêðóã ãîòîâèòñÿ ê áèòâå;;x
+HAVE;Have;;;;;;;;;;;Åñòü;;x
+HAVE_A_ARMY_LARGER_THAN;Have an army of at least;;;;;;;;;;;Àðìèÿ áîëüøå èëè ðàâíà ;;x
+HAVE_A_ARMY_SMALLER_THAN;Have an army smaller than;;;;;;;;;;;Àðìèÿ ìåíüøå, ÷åì ;;x
+HAVE_A_NAVY_LARGER_THAN;Have a navy of at least;;;;;;;;;;;Ôëîò áîëüøå èëè ðàâåí ;;x
+HAVE_A_NAVY_SMALLER_THAN;Have a navy smaller than;;;;;;;;;;;Ôëîò ìåíüøå, ÷åì ;;x
+HAVE_A_UNITS_WITH_A_LEADER;Have a unit with a leader;;;;;;;;;;;Åñòü ïîäðàçäåëåíèå ñ êîìàíäèðîì;;x
+HAVE_ALLIANCE_WITH;Allied with ;;;;;;;;;;;Íàõîäèòñÿ â ñîþçå ñ äåðæàâîé ;;x
+HAVE_AT_LEAST_ONE_CHARACTER;Have at least one character;;;;;;;;;;;Åñòü õîòÿ áû îäèí ïåðñîíàæ;;x
+HAVE_AT_LEAST_ONE_EMPTY_NEIGHBORING_PROVINCE;Have at least one empty neighboring county;;;;;;;;;;;"Õîòÿ áû îäèí ñîñåäíèé îêðóã ÿâëÿåòñÿ ""ïóñòûì""";;x
+HAVE_AT_LEAST_ONE_OWNED_NEIGHBORING_PROVINCE;Have at least one owned neighboring county ;;;;;;;;;;;Âëàäååò õîòÿ áû îäíèì ñîñåäíèì îêðóãîì;;x
+HAVE_AT_LEAST_ONE_PROVINCE;Have at least one County;;;;;;;;;;;Âëàäååò õîòÿ áû îäíèì îêðóãîì;;x
+HAVE_CASUS_BELLI_AGAINST;Have Casus Belli against ;;;;;;;;;;;Åñòü ïîâîä äëÿ âîéíû ïðîòèâ äåðæàâû ;;x
+HAVE_COUNTRY_FLAG;Have country flag ;;;;;;;;;;;Â ñòðàíå óñòàíîâëåí ôëàã ;;x
+HAVE_LESS_ALLIES_THAN;Have less allies than ;;;;;;;;;;;×èñëî ñîþçíèêîâ ìåíüøå ;;x
+HAVE_LESS_CAVALRY_THAN;Have less cavalry than ;;;;;;;;;;;×èñëåííîñòü êîííèöû ìåíüøå ;;x
+HAVE_LESS_PORTS_THAN;Have less ports than ;;;;;;;;;;;×èñëî ïîðòîâ ìåíüøå ;;x
+HAVE_LESS_REGS_THAN;Have fewer cohorts than ;;;;;;;;;;;×èñëî êîãîðò ìåíüøå ;;x
+HAVE_LESS_RELIGIONS_THAN;Have less religions than ;;;;;;;;;;;×èñëî ðåëèãèé â äåðæàâå ìåíüøå ;;x
+HAVE_LESS_ROYAL_MARRIGES_THAN;Have less royal marriages than ;;;;;;;;;;;×èñëî äèíàñòè÷åñêèõ áðàêîâ ìåíüøå ;;x
+HAVE_LESS_SHIPS_THAN;Have fewer ships than ;;;;;;;;;;;×èñëî êîðàáëåé ìåíüøå ;;x
+HAVE_LESS_UNEMPLOYED_THAN;Have less unemployed than ;;;;;;;;;;;Ìåíüøå, ÷åì áåçðàáîòíûõ;;x
+HAVE_MORE_ALLIES_THAN;Have more allies than ;;;;;;;;;;;×èñëî ñîþçíèêîâ áîëüøå ;;x
+HAVE_MORE_CAVALRY_THAN;Have more cavalry than ;;;;;;;;;;;×èñëåííîñòü êîííèöû áîëüøå ;;x
+HAVE_MORE_PORTS_THAN;Have more ports than ;;;;;;;;;;;×èñëî ïîðòîâ áîëüøå ;;x
+HAVE_MORE_REGS_THAN;Have more cohorts than ;;;;;;;;;;;×èñëî êîãîðò áîëüøå ;;x
+HAVE_MORE_RELIGIONS_THAN;Have more religions than ;;;;;;;;;;;×èñëî ðåëèãèé â äåðæàâå áîëüøå ;;x
+HAVE_MORE_ROYAL_MARRIGES_THAN;Have more royal marriages than ;;;;;;;;;;;×èñëî äèíàñòè÷åñêèõ áðàêîâ áîëüøå ;;x
+HAVE_MORE_SHIPS_THAN;Have more ships than ;;;;;;;;;;;×èñëî êîðàáëåé áîëüøå ;;x
+HAVE_MORE_UNEMPLOYED_THAN;Have more unemployed than ;;;;;;;;;;;Èìåòü áîëüøå, ÷åì áåçðàáîòíûõ;;x
+HAVE_NO_CHARACTERS;Have no character;;;;;;;;;;;Íåò ïåðñîíàæåé;;x
+HAVE_NO_EMPTY_NEIGHBORING_PROVINCE;Have no empty neighboring counties;;;;;;;;;;;"Íè îäèí èç ñîñåäíèõ îêðóãîì íå ÿâëÿåòñÿ ""ïóñòûì""";;x
+HAVE_NO_OWNED_NEIGHBORING_PROVINCE;Have no owned neighboring counties ;;;;;;;;;;;Íå âëàäååò íè îäíèì ñîñåäíèì îêðóãîì;;x
+HAVE_NO_UNITS_IN_BATTLE;Have no units in battle;;;;;;;;;;;Íè îäíî èç ïîäðàçäåëåíèé íå ó÷àñòâóåò â áèòâå;;x
+HAVE_NO_UNITS_IN_SIEGE;Have no units in siege;;;;;;;;;;;Íè îäíî èç ïîäðàçäåëåíèé íå îñàæäàåò îêðóã;;x
+HAVE_NO_UNITS_WITH_A_LEADER;Have no units with a leader;;;;;;;;;;;Íåò ïîäðàçäåëåíèé ñ êîìàíäèðîì;;x
+HAVE_NOT;Haven't ;;;;;;;;;;;Íåò ;;x
+HAVE_NOT_CASUS_BELLI_AGAINST;Have no Casus Belli against ;;;;;;;;;;;Íåò ïîâîäà äëÿ âîéíû ïðîòèâ äåðæàâû ;;x
+HAVE_NOT_COUNTRY_FLAG;Haven't country flag ;;;;;;;;;;;Â ñòðàíå íå óñòàíîâëåí ôëàã ;;x
+HAVE_NOT_SIEGE_IN;Haven't siege in;;;;;;;;;;;Íåò îñàäû â îêðóãå ;;x
+HAVE_SIEGE_IN;Have siege in;;;;;;;;;;;Îñàäà â îêðóãå ;;x
+HAVE_UNITS_IN_BATTLE;Have units in battle;;;;;;;;;;;Õîòÿ áû îäíî ïîäðàçäåëåíèå ó÷àñòâóåò â áèòâå;;x
+HAVE_UNITS_IN_SIEGE;Have units in siege;;;;;;;;;;;Õîòÿ áû îäíî ïîäðàçäåëåíèå îñàæäàåò îêðóã;;x
+HOLD_GROUND;Hold Ground;;;;;;;;;;;Äåðæàòü ïîçèöèþ;;x
+HOLD_GROUND_DESC;Sometimes a charismatic general can appeal to launch an appeal to the troops to stand firm in the face in the enemy. This will help the troop resist the attacks of the enemy. ;;;;;;;;;;;Èíîãäà õàðèçìàòè÷íûé ãåíåðàë ìîæåò îáðàòèòüñÿ ê ñâîèì âîéñêàì, ÷òîáû òå äåðæàëè ñòðîé ïåðåä ëèöîì âðàãà. Ýòî ïîìîãàåò âîéñêàì ñäåðæèâàòü íàòèñê àòàêóþùèõ;;x
+HRE_STATUS;$WHERE$ will $DIRECTION$ a part of the Holy Roman Empire.\n;;;;;;;;;;;$WHERE$ ñòàíåò $DIRECTION$ ÷àñòüþ Ñâÿùåííîé Ðèìñêîé èìïåðèè\n;;x
+ICON_ANNEX;A demand for §Yannexation§!;;;;;;;;;;;Òðåáîâàíèå §Yàííåêñèè§W;;x
+ICON_TRIBUTE;An offer of §YTribute§!;;;;;;;;;;;Ïðåäëîæåíèå ïëàòèòü §Yäàíü§W;;x
+ICON_TRIBUTE_CANCEL;Cancellation of §YTribute§!;;;;;;;;;;;Îòìåíà §YÄàíè§W;;x
+ICON_TRIBUTE_DEMAND;§YTribute Demand§!;;;;;;;;;;;§YÒðåáîâàíèå Äàíè§W;;x
+ICON_VASSAL;An offer regarding §Ytribute§!;;;;;;;;;;;Ïðåäëîæåíèå î §Yäàíü§W;;x
+INHERIT;Inherit $WHO|Y$\n;;;;;;;;;;;Íàñëåäîâàòü $WHO$\n;;x
+ISATWAR;You can not ask for Military Access when you are at war.;;;;;;;;;;;Âû íå ìîæåòå ïðîñèòü Âîåííûé äîñòóïà, êîãäà Âû íàõîäèòåñü â ñîñòîÿíèè âîéíû.;;x
+LANDMORALE_DRO;Base is §Y$CURRENT$§! from current technology.\n;;;;;;;;;;;Áàçîâûé íàâûê §Y$CURRENT$§W îò íàøåãî òåõíîëîãè÷åñêîãî óðîâíÿ\n;;x
+LANDMORALE_IRO;Our army's base morale is §Y$CURRENT$§!.\n;;;;;;;;;;;Áàçîâûé áîåâîé äóõ íàøåé àðìèè §Y$CURRENT$§W\n;;x
+LEVEL;Current Level;;;;;;;;;;;Òåêóùèé óðîâåíü;;x
+LOSE_COMMAND;$WHO$ removed from command of $WHICH$.\n;;;;;;;;;;;$WHO$ ïîòåðÿë êîíòðîëü íàä $WHICH$\n;;x
+LOSE_ELECTOR;Will no longer be an Elector.\n;;;;;;;;;;;ïåðåñòàíåò áûòü âûáîðùèêîì\n;;x
+LOSE_EMPEROR;Abdicate as Emperor.\n;;;;;;;;;;;ïîòåðÿåò òèòóë èìïåðàòîðà\n;;x
+MERCHANTS;$DIRECTION$ $VALUE$ merchants.\n;;;;;;;;;;;$DIRECTION$ $VALUE$ êóïöîâ\n;;x
+MIL_CONST_TIP;A §Y$TYPE$§! will be fielded here on §Y$DATE$§!.;;;;;;;;;;;§Y$TYPE$§W ïðèáóäåò ñþäà §Y$DATE$§W.;;x
+MILACCDESC;Request access to their territory.;;;;;;;;;;;Ïîïðîñèòü ïðàâî íà ïðîõîä íàøèõ âîéñê ÷åðåç èõ òåððèòîðèþ.;;x
+MILACCNEWDESC;Do you wish to request Military Access from $COUNTRY$ thereby allowing our ships and armies access to their territories?;;;;;;;;;;;Âû äåéñòâèòåëüíî õîòèòå ïîïðîñèòü ó äåðæàâû $COUNTRY$ ðàçðåøåíèÿ äëÿ íàøèõ âîéñê ïðîõîäèòü ÷åðåç èõ ñòðàíó, à äëÿ ôëîòà - ïîëüçîâàòüñÿ èõ ïîðòàìè?;;x
+MILACCREQDESC;$COUNTRY$ is requesting Military Access from us. Accepting will allow them to move ships and armies into our territory.;;;;;;;;;;;Äåðæàâà $COUNTRY$ ïðîñèò ïðåäîñòàâèòü åé ïðàâî íà ïðîõîä âîéñê. Ýòî äàñò èõ àðìèÿì âîçìîæíîñòü ïðîõîäèòü ÷åðåç íàøó òåððèòîðèþ, à ôëîòó - ïîëüçîâàòüñÿ íàøèìè ïîðòàìè.;;x
+MILACCTITLE;Ask for Military Access;;;;;;;;;;;Ïîïðîñèòü ïðîõîä âîéñê;;x
+MISSION_EXPIRY;Mission Expiry Date;;;;;;;;;;;Ìèññèÿ èñòåêàåò;;x
+MISSION_MENU;Missions & Decisions;;;;;;;;;;;Ìèññèè è ðåøåíèÿ;;x
+MISSIONARIES;$DIRECTION$ $VALUE$ missionaries.\n;;;;;;;;;;;$DIRECTION$ $VALUE$ ìèññèîíåðîâ\n;;x
+MODIFIER_PIRATE_SPAWN_CHANCE;Pirate Spawn Chance;;;;;;;;;;;Âåðîÿòíîñòü ïîÿâëåíèÿ ïèðàòîâ;;x
+MONARCH_HOW_PRES2;was re-elected to office;;;;;;;;;;;áûë ïåðåèçáðàí íà äîëæíîñòü;;x
+NATIVE_FEROCITY;Natives in $WHERE$ $DIRECTION$ $VALUE$ ferocity. ;;;;;;;;;;;Òóçåìöû â $WHERE$ èìåþò $DIRECTION$ $VALUE$ æåñòîêîñòè. ;;x
+NATIVE_HOSTILENESS;Natives in $WHERE$ $DIRECTION$ $VALUE$ hostility. ;;;;;;;;;;;Òóçåìöû â $WHERE$ èìåþò $DIRECTION$ $VALUE$ âðàæäåáíîñòè. ;;x
+NATIVE_SIZE;Natives in $WHERE$ $DIRECTION$ $VALUE$ size. ;;;;;;;;;;;Òóçåìöåâ â $WHERE$ - $DIRECTION$ $VALUE$. ;;x
+NAVAL_COMBAT;Naval Combat;;;;;;;;;;;Ìîðñêèå ñðàæåíèÿ;;x
+naval_maintenance;Naval Maintenance;;;;;;;;;;;ñîäåðæàíèå ôëîòà ;;x
+NAVAL_MORALE;Morale of Navies;;;;;;;;;;;Áîåâîé äóõ ôëîòà ;;x
+NAVAL_ORGANISATION;Naval Organisation;;;;;;;;;;;Âîåííî-ìîðñêàÿ îðãàíèçàöèÿ;;x
+NAVALMORALE_DRO;Base is §Y$CURRENT$§! from current technology.\n;;;;;;;;;;;Áàçîâûé íàâûê §Y$CURRENT$§W îò íàøåãî òåõíîëîãè÷åñêîãî óðîâíÿ\n;;x
+NAVALMORALE_IRO;Our fleet's base morale is §Y$CURRENT$§!.\n;;;;;;;;;;;Áàçîâûé áîåâîé äóõ íàøåãî ôëîòà §Y$CURRENT$§W\n;;x
+Navy Maintenance;Navy Maintenance;;;;;;;;;;;Îáñëóæèâàíèå ôëîòà;;x
+NAVY_RECRUITMENTS;Building ships;;;;;;;;;;;Ñòðîÿùèåñÿ êîðàáëè;;x
+NAVYTRADITION_EFFECT;$DIRECTION$ $VALUE$ navy tradition.\n;;;;;;;;;;;$DIRECTION$ $VALUE$ ìîðñêèõ òðàäèöèé\n;;x
+NEW_CORE_EFFECT;Gain core on $NEW$.\n;;;;;;;;;;;Ïîëó÷èò íàö. îêðóã $NEW$\n;;x
+NEW_GOVERNOR_EFFECT_A;$NEW$ becomes governor of $WHERE$.\n;;;;;;;;;;;$NEW$ ñòàíåò ïðàâèòåëåì â $WHERE$\n;;x
+NEW_GOVERNOR_EFFECT_B;$WHO$ becomes governor of $WHERE$.\n;;;;;;;;;;;$WHO$ ñòàíåò ïðàâèòåëåì â $WHERE$\n;;x
+no_mission_desc;We do not have any special task at this time.;;;;;;;;;;;Ó íàñ íåò îñîáûõ çàäà÷ íà äàííûé ìîìåíò;;x
+no_mission_title;No Current Mission;;;;;;;;;;;Íåò òåêóùåé ìèññèè;;x
+NO_OF_LOYAL_REGIMENTS;Loyal Units;;;;;;;;;;;Ëîÿëüíûå ïîäðàçäåëåíèÿ;;x
+NO_SEPARATE_PEACE;You can not negotiate separate peace between two junior partners in a war.;;;;;;;;;;;Âû íå ìîæåòå çàêëþ÷èòü ñåïàðàòíûé ìèð ìåæäó äâóìÿ ìåíüøèìè ó÷àñòíèêàìè âîéíû.;;x
+NO_WAR_ON_OTHERS_AS_VASSAL;A state paying tribute is not free to declare war on other states.;;;;;;;;;;;Ãîñóäàðñòâî, êîòîðîå ïëàòèò äàíü, íå ìîæåò ñâîáîäíî îáúÿâëÿòü âîéíó äðóãèì ãîñóäàðñòâàì.;;x
+NOLONGER;no longer be;;;;;;;;;;;áîëüøå íå áóäåò;;x
+non_culture_cot;Non Core Cot;;;;;;;;;;;Íåîñíîâíîé êîò¸ë;;x
+NORMAL_WAR_NAME;$ORDER$$FIRST$-$SECOND$ War;;;;;;;;;;;$ORDER$Âîéíà, ïðîòèâíèêè â êîòîðîé - $FIRST$ è $SECOND$;;x
+NOT_DURING_TRUCE;We cannot cancel our tribute while we have a truce.;;;;;;;;;;;Ìû íå ìîæåì îòìåíèòü óïëàòó äàíè âî âðåìÿ äåéñòâèÿ ïåðåìèðèÿ;;x
+OFFERALLIANCEDESC;If a country accepts our Alliance offer it may come to our come to our assistance during wars.;;;;;;;;;;;Åñëè äåðæàâà ïðèìåò íàøå ïðåäëîæåíèå è âñòóïèò ñ íàìè â ñîþç, íàì ïðèä¸òñÿ ïîääåðæèâàòü å¸ â âîéíàõ.;;x
+OFFERMILACCDESC;Enable them to station troops and ships in our country.;;;;;;;;;;;Ðàçðåøèòü èõ âîéñêàì è êîðàáëÿì ïîëüçîâàòüñÿ íàøåé òåððèòîðèåé.;;x
+OFFERMILACCNEWDESC;Do you wish to give Military Access to $COUNTRY$? This will enable them to station troops in our territories and ports.;;;;;;;;;;;Âû äåéñòâèòåëüíî õîòèòå ïðåäîñòàâèòü äåðæàâå $COUNTRY$ ïðàâî íà ïðîõîä âîéñê? Ýòî äàñò èõ àðìèÿì âîçìîæíîñòü ïðîõîäèòü ÷åðåç íàøó òåððèòîðèþ, à ôëîòó - ïîëüçîâàòüñÿ íàøèìè ïîðòàìè.;;x
+OFFERMILACCREQDESC;$COUNTRY$ is offering us military access to their country. This would mean that our troops gain free access to their lands, however it also means we cannot declare war on them.;;;;;;;;;;;Äåðæàâà $COUNTRY$ ïðåäëàãàåò íàì ïðàâî íà ïðîõîä âîéñê ÷åðåç ñâîþ òåððèòîðèþ. Ýòî çíà÷èò, ÷òî íàøè ñîëäàòû ñìîãóò áåñïðåïÿòñòâåííî ïðîõîäèòü ÷åðåç èõ çåìëè. Îäíàêî ýòî òàêæå çíà÷èò, ÷òî ìû íå ñìîæåì îáúÿâèòü èì âîéíó.;;x
+OFFERMILACCTITLE;Give Military Access;;;;;;;;;;;Ïðåäîñòàâèòü ïðîõîä âîéñê;;x
+OFFERTRIBUTEDESC;Suggest that we pay tribute to them.;;;;;;;;;;;Ïðåäëîæèòü èì ïîñòîÿííóþ âûïëàòó îò íàñ äàíè.;;x
+OFFERTRIBUTEINFORM;$MONARCHTITLE$, an envoy of country informs us that our tribute no longer interests them. \n Nice to be rid of the burden, but we must watch our step;;;;;;;;;;;$MONARCHTITLE$, ïîñîë ýòîé äåðæàâû èíôîðìèðóåò íàñ, ÷òî îíè áîëüøå íå çàèíòåðåñîâàíû â ïîëó÷åíèè îò íàñ äàíè.\nÏðèÿòíî èçáàâèòüñÿ îò ýòîé íîøè, îäíàêî, ìû äîëæíû áûòü âíèìàòåëüíû. Ìàëî ëè...;;x
+OFFERTRIBUTENEWDESC;Do you wish to offer $COUNTRY$ a sum of $CASH$¤ each month in tribute for some peace of mind?;;;;;;;;;;;Âû äåéñòâèòåëüíî õîòèòå ïðåäëîæèòü äåðæàâå $COUNTRY$ åæåìåñÿ÷íóþ âûïëàòó íàìè äàíè â ðàçìåðå $CASH$¤ ðàäè íåêîòîðîãî íàøåãî äóøåâíîãî ñïîêîéñòâèÿ?;;x
+OFFERTRIBUTEREQDESC;$COUNTRY$ proposes to pay us a tribute of $CASH$¤ each month. If we accept, they will be considered to be under our protection.;;;;;;;;;;;Äåðæàâà $COUNTRY$ ïðåäëàãàåò íàì îò ñåáÿ âûïëàòó äàíè â ðàçìåðå $CASH$¤ åæåìåñÿ÷íî. Åñëè ìû ïðèìåì ýòî ïðåäëîæåíèå, òî îíè áóäóò ñ÷èòàòüñÿ ñòðàíîé, íàõîäÿùåéñÿ ïîä íàøåé çàùèòîé.;;x
+OFFERTRIBUTETITLE;Offer Tribute;;;;;;;;;;;Ïðåäëîæèòü äàíü;;x
+OL_ARMY_MOVE;It is on the move towards §Y$DEST$§!.;;;;;;;;;;;Äâèæåòñÿ â îêðóã §Y$DEST$§W.;;x
+OL_BUILD_ARMY;Our §Y$TYPE$§! is being recruited in §Y$PROV$§!.;;;;;;;;;;;Â îêðóãå §Y$PROV$§W ôîðìèðóåòñÿ ïîäðàçäåëåíèå §Y$TYPE$§W.;;x
+OL_BUILD_NAVY;Our §Y$TYPE$§! is being built in §Y$PROV$§!.;;;;;;;;;;;Â îêðóãå §Y$PROV$§W èä¸ò ñòðîèòåëüñòâî êîðàáëÿ §Y$TYPE$§W.;;x
+OL_COMMANDER;is under the command of $COMMANDER$;;;;;;;;;;;êîìàíäóþùèé - $COMMANDER$;;x
+OL_COT_DESC;This Centre of Trade is worth a total of §Y$TOTAL$§!¤ each year. Our §Y$NUM$§! merchants are taking in §Y$VALUE$§!¤ of this.;;;;;;;;;;;Òîðãîâûé îáîðîò â äàííîì òîðãîâîì öåíòðå ðàâåí §Y$TOTAL$§W¤ â ãîä. Áëàãîäàðÿ §Y$NUM$§W êóïö., íàøà ïðèáûëü ðàâíà §Y$VALUE$§W¤.;;x
+OL_ENROUTE_COT_DESC;When our §Y$NUM$§! additional merchants arrive, our profits should increase. \n The first one will arrive on $DATE$.;;;;;;;;;;;Ïîñëå ïðèáûòèÿ íîâûõ êóïöîâ (§Y$NUM$§W) íàøà ïðèáûëü âîçðàñò¸ò. Ïåðâûé êóïåö ïðèáóäåò $DATE$.;;x
+OL_NAVY;This navy currently $COMMANDER$ and is located in §Y$PROV$§!.;;;;;;;;;;;Ýòà ôëîòèëèÿ ($COMMANDER$) íàõîäèòñÿ â îêðóãå §Y$PROV$§W.;;x
+OL_NAVY_MOVE;It has set sail towards §Y$DEST$§!.;;;;;;;;;;;Äâèæåòñÿ â îêðóã §Y$DEST$§W.;;x
+OL_NOCOMMANDER;has no commander;;;;;;;;;;;êîìàíäóþùåãî íåò;;x
+ON_MISSION;Has the mission ;;;;;;;;;;;Èìååò ìèññèþ;;x
+OTHERANNEX;Full Annexation was demanded.;;;;;;;;;;;Òðåáóåòñÿ ïîëíàÿ àííåêñèÿ;;x
+PAY_CASH;$WHO$ will pay $WHAT$ gold.;;;;;;;;;;;$WHO$ çàïëàòèò $WHAT$ çîëîòà.;;x
+PAY_TRIBUTE;$WHO$ will pay tribute of $WHAT$ gold a month.;;;;;;;;;;;$WHO$ áóäåò ïëàòèòü äàíü: $WHAT$ çîëîòà â ìåñÿö.;;x
+PEACE_ANNEX;Annex;;;;;;;;;;;Àííåêñèÿ;;x
+PEACE_CANCEL_VASSALLS;cancel vassals;;;;;;;;;;;Âàññàëû;;x
+PEACE_CORES;give up cores;;;;;;;;;;;Ïðåòåíçèè;;x
+PEACE_DEMAND_GOLD;Demand §G$GOLD$§!¤;;;;;;;;;;;Ïîòðåáîâàòü §G$GOLD$§!¤;;x
+PEACE_DESC;Negotiate peace treaty.;;;;;;;;;;;Ìèðíûå ïåðåãîâîðû.;;x
+PEACE_INSTANT_CASH;Payment;;;;;;;;;;;Ïëàòåæè;;x
+PEACE_MONTHLY_CASH;Monthly Tribute;;;;;;;;;;;Åæåìåñÿ÷íàÿ äàíü;;x
+PEACE_OFFER_GOLD;Offer §R$GOLD$§!¤;;;;;;;;;;;Ïðåäëîæèòü §R$GOLD$§!¤;;x
+PEACE_OFFER_WARSCORE;Peace offer value:;;;;;;;;;;;Ïðåäëîæåíèå:;;x
+PEACE_SECEDE;cede county;;;;;;;;;;;Îêðóãà;;x
+PEACEBETTER;\n(This deal is better than what we can expect, refusing it would cause great turmoil in our country.);;;;;;;;;;;\nÈõ ïðåäëîæåíèå ëó÷øå, ÷åì îæèäàëîñü. Â ñëó÷àå îòêàçà ìîæíî æäàòü ñåðü¸çíûõ ïîòðÿñåíèé â íàøåé ñòðàíå;;x
+PEACEBETTER_US;\n(This deal is better than what they will expect, and if they refuse it, it will cause great turmoil in their country.);;;;;;;;;;;\nÝòà ñäåëêà ëó÷øå, ÷åì îíè ìîãëè ìå÷òàòü. Â ñëó÷àå îòêàçà ìîæíî æäàòü ñåðü¸çíûõ ïîòðÿñåíèé â èõ ñòðàíå;;x
+PEACETITLE;Sue for Peace;;;;;;;;;;;Ïðåäëîæèòü ìèð;;x
+POLICY_CHANGE;$SLIDER$ $DIRECTION$ $VALUE$.\n;;;;;;;;;;;$SLIDER$ $DIRECTION$ $VALUE$\n;;x
+POPULARITY_EFFECT;$WHO$ $DIRECTION$ $VALUE$ popularity.\n;;;;;;;;;;;$WHO$ $DIRECTION$ $VALUE$ ïîïóëÿðíîñòè\n;;x
+PORT;This port provides a safe haven for ships.;;;;;;;;;;;Ýòîò ïîðò èìååò áåçîïàñíóþ ãàâàíü äëÿ êîðàáëåé;;x
+PROV_MANPOWER;$DIRECTION$ $VALUE$ manpower in $WHERE$.\n;;;;;;;;;;;$DIRECTION$ $VALUE$ ëþäñêèõ ðåñóðñîâ â $WHERE$\n;;x
+PROVINCE_DOESNT_PRODUCE;$PROVINCE$ doesn't produce $GOODS$;;;;;;;;;;;Îêðóã $PROVINCE$ íå ïðîèçâîäèò $GOODS$;;x
+PROVINCE_PRODUCES;$PROVINCE$ produces $GOODS$;;;;;;;;;;;Îêðóã $PROVINCE$ ïðîèçâîäèò $GOODS$;;x
+QUEUE_SIZE;There are $SIZE$ units in the queue.;;;;;;;;;;;Ïîäðàçäåëåíèé â î÷åðåäè: $SIZE$.;;x
+RALLY_DESC;Sometimes combat is just too much for a man, even the hardiest veteran can suddenly reach his limit. However a charismatic commander can rally dispirited troops giving the whole army a moral bonus.  ;;;;;;;;;;;Èíîãäà áîé ñëèøêîì òÿæ¸ë äëÿ ÷åëîâåêà, äàæå ñàìûé âûíîñëèâûé âåòåðàí ìîæåò âíåçàïíî äðîãíóòü. Îäíàêî, õàðèçìàòè÷íûé êîìàíäóþùèé ìîæåò ñïëîòèòü äðîãíóâøèå âîéñêà, ïîäíèìàÿ áîåâîé äóõ âñåé àðìèè;;x
+RANSOM_ASK_DESC;An envoy from §Y$ACTOR$§! is requesting the release of our 'guest', §Y$NAME$§! for the sum of §Y$CASH$§!¤. \n What should we do?;;;;;;;;;;;"Ïîñîë äåðæàâû §Y$ACTOR$§W ïðîñèò íàñ îòïóñòèòü íàøåãî ""ãîñòÿ"" ïî èìåíè §Y$NAME$§W çà ñóììó §Y$CASH$§W¤.\n×òî ìû áóäåì äåëàòü?";;x
+RANSOM_DESC;Pay to have a prisoner they keep released;;;;;;;;;;;Çàïëàòèòü âûêóï çà îñâîáîæäåíèå ïëåííèêà, êîòîðîãî îíè äåðæàòü â çàòî÷åíèè.;;x
+RANSOM_REQDESC;Do you wish to try to get §Y$PRISONER$§! released for the sum of §Y$CASH$§!¤?;;;;;;;;;;;Âû äåéñòâèòåëüíî õîòèòå ïîïûòàòüñÿ âûêóïèòü ñâîáîäó ÷åëîâåêà ïî èìåíè §Y$PRISONER$§W çà §Y$CASH$§W¤?;;x
+RANSOMTITLE;Ransom Prisoner;;;;;;;;;;;Âûêóïèòü ïëåííèêà;;x
+RECRUIT_ARMY;Recruit army;;;;;;;;;;;Íàáîð âîéñêà;;x
+RECRUIT_NAVY;Build navy;;;;;;;;;;;Ñòðîèòü ôëîò;;x
+RELATION_CAPPED;The relation is already so good that it will not be increasing unless through some extraordinary actions.;;;;;;;;;;;Îòíîøåíèÿ íàñòîëüêî õîðîøè, ÷òî îíè óæå íå áóäóò óëó÷øàòüñÿ, ðàçâå ÷òî ïîñðåäñòâîì ýêñòðàîðäèíàðíûõ äåéñòâèé;;x
+RELATION_CHANGE_VALUE;Estimated yearly change:;;;;;;;;;;;Ïðåäïîëàãàåìîå èçìåíåíèå çà ãîä:;;x
+RELATION_DRO;The relation value represents how two regimes feel about each other, from §R-200§! (hatred) to §G200§! (harmony);;;;;;;;;;;Çíà÷åíèå îòíîøåíèé óêàçûâàåò íà òî, ÷òî ÷óâñòâóþò ñòîðîíû äðóã ê äðóãó. Îò §R-200§W (íåíàâèñòü) äî §G200§W (ãàðìîíèÿ);;x
+RELATION_IRO;The current state of our diplomatic relations;;;;;;;;;;;Íûíåøíåå ñîñòîÿíèå íàøèõ äèïëîìàòè÷åñêèõ îòíîøåíèé;;x
+RELEASE;Release $WHO$.\n;;;;;;;;;;;Îñâîáîäèòü $WHO$\n;;x
+RELEASE_DESC;Release a prisoner back to his homeland;;;;;;;;;;;Îòïóñòèòü ïëåííèêà îáðàòíî íà åãî ðîäèíó.;;x
+RELEASENEWDESC;Do you wish to release $NAME$ back to $COUNTRY$?;;;;;;;;;;;Âû äåéñòâèòåëüíî õîòèòå îòïóñòèòü íàøåãî ïëåííèêà ïî èìåíè $NAME$ îáðàòíî íà åãî ðîäèíó, â äåðæàâó $COUNTRY$?;;x
+RELEASETITLE;Release Prisoner;;;;;;;;;;;Îòïóñòèòü ïëåííèêà;;x
+REM_IDEA;Lose a $LOSE$ idea.\n;;;;;;;;;;;ïîòåðÿåò $LOSE$ èäåþ\n;;x
+REMOVE_GOVERNOR;$WHO$ will no longer be governor of $WHERE$.\n;;;;;;;;;;;$WHO$ áîëüøå íå ïðàâèò â $WHERE$\n;;x
+RESEARCH_NEEDED;We lack the necessary technology;;;;;;;;;;;Ó íàñ íåò íåîáõîäèìûõ òåõíîëîãèé;;x
+RESEARCH_YEARLY;Yearly Research Points;;;;;;;;;;;Áàëëû èññëåäîâàíèé â ãîä;;x
+REV_GAIN_CB;$ACTIVE$ gains a casus-belli on $PASSIVE$.\n;;;;;;;;;;;$ACTIVE$ ïîëó÷èò ïîâîä äëÿ âîéíû ñ $PASSIVE$\n;;x
+REVOKEMILACCDESC;Revoke their ability to station troops and ships in our country.;;;;;;;;;;;Çàïðåòèòü èõ âîéñêàì è êîðàáëÿì ïîëüçîâàòüñÿ íàøåé òåððèòîðèåé.;;x
+REVOKEMILACCNEWDESC;Do you wish to revoke the Military Access given to $COUNTRY$? Doing so will prevent their troops from accessing our country and ports.;;;;;;;;;;;Âû äåéñòâèòåëüíî õîòèòå îòìåíèòü ïðîõîä âîéñê, êîòîðûé ìû ïðåäîñòàâëÿåì äåðæàâå $COUNTRY$? Îíè áîëüøå íå ñìîãóò ïðîõîäèòü ÷åðåç íàøè çåìëè è ïîëüçîâàòüñÿ íàøèìè ïîðòàìè.;;x
+REVOKEMILACCTITLE;Revoke Military Access.;;;;;;;;;;;Ðåíîíñèðîâàòü ïðîõîä âîéñê;;x
+RIVAL_COUNTRY_STARTS;Any Rival Country;;;;;;;;;;;Ëþáàÿ âðàæåñêàÿ ñòðàíà;;x
+ruler_finesse;Ruler Finesse;;;;;;;;;;;Èñêóñíîñòü ïðàâèòåëÿ;;x
+ruler_military_skill;Ruler Martial Skill;;;;;;;;;;;Âîåííûé íàâûê ïðàâèòåëÿ;;x
+SECEDE_PROVINCE;Cede $WHERE$ to $WHO$.\n;;;;;;;;;;;Ñäàòü $WHERE$ $WHO$\n;;x
+SECEDE_PROVINCES;$WHO$ will cede $WHAT$. ;;;;;;;;;;;$WHO$ óñòóïèò $WHAT$. ;;x
+SEDUCE_DESC;Convince Governor to join you, taking his county with him;;;;;;;;;;;Óáåäèòü ãóáåðíàòîðà ïðèñîåäèíèòüñÿ ê íàì, ïåðåäàâ çàîäíî ïîä íàøå óïðàâëåíèå åãî îêðóã.;;x
+SEDUCE_INFORMDESC;Governor $GOVNAME$ of $TARGET$ reports that he captured the agent $NAME$ of $ACTOR$. $NAME$ was trying to convince the governor to betray us. \n What shall we do with $NAME$?;;;;;;;;;;;Ãóáåðíàòîð $GOVNAME$ îêðóãà $TARGET$ ñîîáùàåò, ÷òî îí ïîéìàë àãåíòà äåðæàâû $ACTOR$ ïî èìåíè $NAME$. Ýòîò àãåíò ïûòàëñÿ óáåäèòü íàøåãî ãóáåðíàòîðà ïðåäàòü íàñ.\n×òî ìû áóäåì ñ íèì äåëàòü?;;x
+SEDUCE_NO_GOV;No governor to seduce, if you want the county take it up with its ruler.;;;;;;;;;;;Â îêðóãå íåò ãóáåðíàòîðà, êîòîðîãî ìîæíî áûëî áû ïîäêóïèòü. Åñëè Âû æåëàåòå ïîëó÷èòü ýòîò îêðóã, ïîïðîáóéòå îòîáðàòü åãî ó âëàäåëüöà ñèëîé.;;x
+SEDUCEREQDESC_REMOVED;Do you wish to attempt to seduce the governor, §Y$NAME$§!, of §Y$PROV$§!? \n If you are successful he can bring his county over to us, but it will also have dire consequences for our relation with §Y$OWNER$§!;;;;;;;;;;;Âû äåéñòâèòåëüíî õîòèòå ïîäêóïèòü ãóáåðíàòîðà ïî èìåíè §Y$NAME$§W, óïðàâëÿþùåãî îêðóãîì §Y$PROV$§W?\nÅñëè íàì áóäåò ñîïóòñòâîâàòü óñïåõ, îí ïåðåäàñò ïîä íàøó âëàñòü ñâîé îêðóã. Íî ýòî òàêæå êðàéíå îòðèöàòåëüíî ïîâëèÿåò íà íàøè âçàèìîîòíîøåíèÿ ñ äåðæàâîé §Y$OWNER$§W.;;x
+SEDUCETITLE;Seduce Governor;;;;;;;;;;;Ïîäêóïèòü ãóáåðíàòîðà;;x
+SENATE_INFLUENCE;Senate Influence;;;;;;;;;;;Âëèÿíèå Ñåíàòà;;x
+SPAWN_EVENT;The event '$WHICH$' happens.\n;;;;;;;;;;;Ïðîèçîéä¸ò ñîáûòèå - $WHICH$\n;;x
+SPAWN_HORDE;A barbarian horde of $SIZE$ units will spawn in $WHERE$.\n;;;;;;;;;;;Âàðâàðñêàÿ àðìèÿ èç $SIZE$ îòðÿäîâ ïîÿâèòñÿ â $WHERE$\n;;x
+SPIES;$DIRECTION$ $VALUE$ spies.\n;;;;;;;;;;;$DIRECTION$ $VALUE$ øïèîíîâ\n;;x
+STABHIT_FROM_GOOD_RELATION;Good Relations;;;;;;;;;;;Õîðîøî;;x
+STABHIT_FROM_GREAT_RELATION;Great Relations;;;;;;;;;;;Ïðåâîñõîäíî;;x
+STABHIT_FROM_MIL_ACCESS;Has Military Access;;;;;;;;;;;Åñòü ïðîõîä âîéñê;;x
+STABHIT_FROM_NO_CB;No Casus Belli;;;;;;;;;;;Íåò ïîâîäà äëÿ âîéíû;;x
+STABHIT_FROM_OUR_VASSAL;They pay us tribute!;;;;;;;;;;;Îíè ïëàòÿò íàì äàíü!;;x
+STABHIT_FROM_TRUCE;Breaking Truce;;;;;;;;;;;Íàðóøåíèå ìèðíîãî äîãîâîðà;;x
+SUBJECT;A state paying tribute is not free to ally with anyone except their masters.;;;;;;;;;;;Ãîñóäàðñòâî, êîòîðîå ïëàòèò äàíü, íå ìîæåò ñâîáîäíî âñòóïàòü â ñîþçû ñ äðóãèìè ãîñóäàðñòâàìè, êðîìå ñâîèõ õîçÿåâ.;;x
+SUBJECT_PAYING_TRIBUTE;Already paying tribute to someone;;;;;;;;;;;Óæå ïëàòÿò äàíü êîìó-òî;;x
+SUBJECT_TRIBUTE;A state paying tribute can not receive tribute;;;;;;;;;;;Ñòðàíà, ïëàòÿùàÿ äàíü;;x
+SUCCESSION_INHERITED;$NEW_NAME$ inherits $TITLES$.;;;;;;;;;;;$NEW_NAME$ óíàñëåäîâàë[From.GetEndA] òèòóëû è çåìëè: $TITLES$.;;x
+SUPPLY_ACCESS;Military Access:;;;;;;;;;;;Ïðîõîä âîéñê:;;x
+SUPPLY_ALLIED;Allied:;;;;;;;;;;;Ñîþçíèê:;;x
+SUPPORTREB_DESC;Attempt to incite rebellion;;;;;;;;;;;Ïðåäïðèíÿòü ïîïûòêó ñïðîâîöèðîâàòü âîññòàíèå.;;x
+SUPPORTREB_DESC_REMOVED;Let him go;;;;;;;;;;;Ïóñòü èä¸ò;;x
+SUPPORTREBINFORMDESC;The peasants of $TARGET$ have be incited to near rebellion. \n We caught the foreigner who did it, $NAME$. What shall we do with him?;;;;;;;;;;;Æèòåëè îêðóãà $TARGET$ áûëè ñïðîâîöèðîâàíû íà âîññòàíèå.\nÌû ïîéìàëè èíîñòðàíöà, êîòîðûé ýòî ñäåëàë, ïî èìåíè $NAME$. ×òî ìû áóäåì ñ íèì äåëàòü?;;x
+SUPPORTREBREQDESC;Do you wish to support the rebels in §Y$PROV$§!?\n$EFFECT$ for $TIME$ days.;;;;;;;;;;;Âû äåéñòâèòåëüíî õîòèòå ïîääåðæàòü ïîâñòàíöåâ â îêðóãå §Y$PROV$§W?\nÝôôåêò $EFFECT$ áóäåò äëèòüñÿ $TIME$ äí.;;x
+SUPPORTREBTITLE;Support Rebels;;;;;;;;;;;Ïîääåðæàòü ïîâñòàíöåâ;;x
+TAKE_COMMAND;$WHO$ takes command of $WHICH$.\n;;;;;;;;;;;$WHO$ ïîëó÷èë êîíòðîëü íàä $WHICH$\n;;x
+TECH_SET_FOCUS;Set Focus;;;;;;;;;;;Óñòàíîâèòü ïðèîðèòåò;;x
+TECH_SET_FOCUS_DESC;Sets the $GROUP$ focus on this advance, increasing the chance of new discoveries by §Y$CHANCE$%§!;;;;;;;;;;;Óñòàíîâèòü ïðèîðèòåò íà èññëåäîâàíèå $GROUP$, óâåëè÷èâàÿ øàíñ íîâûõ îòêðûòèé íà %§Y$CHANCE$§!;;x
+THE_NUMBER_OF_REVOLT_FRACTION_IS_LESS_THAN;The number of revolt fraction is less than ;;;;;;;;;;;Ïðîöåíò âîññòàíèé ìåíüøå ;;x
+THE_NUMBER_OF_REVOLT_FRACTION_IS_MORE_THAN;The number of revolt fraction is more than ;;;;;;;;;;;Ïðîöåíò âîññòàíèé áîëüøå ;;x
+THEN_NUMBER_OF_REVOLTS_ARE_LESS_THAN;The number of revolts are less than ;;;;;;;;;;;×èñëî âîññòàíèé ìåíüøå ;;x
+THEN_NUMBER_OF_REVOLTS_ARE_MORE_THAN;The number of revolts are more than ;;;;;;;;;;;×èñëî âîññòàíèé áîëüøå ;;x
+THREAT_COUNTRY_STARTS;Any Threatening Country;;;;;;;;;;;Ëþáàÿ óãðîæàþùàÿ ñòðàíà;;x
+THREATENEDBY;Feels threatened by $LIST$.;;;;;;;;;;;Òåêóùèå óãðîçû $LIST$.;;x
+TIE_PAYING_TRIBUTE;Paying us tribute;;;;;;;;;;;Ïëàòèò íàì äàíü;;x
+TIE_TAKING_TRIBUTE;Receiving tribute from us;;;;;;;;;;;Ïîëó÷àåò äàíü îò íàñ;;x
+TIES_DRO;Diplomatic ties are deals between two regimes. For example, Alliances and Military Access treaties;;;;;;;;;;;Äèïëîìàòè÷åñêèå îòíîøåíèÿ ÿâëÿþòñÿ âçàèìîîòíîøåíèÿìè ìåæäó äâóìÿ ñòîðîíàìè. Íàïðèìåð, ñîþçû è äîãîâîðû ïðîõîäà âîéñê;;x
+TIES_IRO;Current diplomatic ties;;;;;;;;;;;Òåêóùèå äèïëîìàòè÷åñêèå îòíîøåíèÿ;;x
+TRADE_ACC_ASK_DESC;An envoy from $ACTOR$ is requesting that their merchants shall be allowed passage across our lands. \n What shall be our answer?;;;;;;;;;;;Ïîñîë äåðæàâû $ACTOR$ ïðîñèò íàñ ïðåäîñòàâèòü èì ïðàâî ïðîõîäà ÷åðåç íàøè çåìëè äëÿ èõ òîðãîâöåâ.\nÊàêèì áóäåò íàø îòâåò?;;x
+TRADEROUTECONSTRDESC;We wish to trade $GOODS$ from $PROV$ to $PROV_OTHER$ giving $GOODS_OTHER$ in return.;;;;;;;;;;;Ìû õîòèì òîðãîâàòü òîâàðîì $GOODS$, ïðîèçâîäèìûì â îêðóãå $PROV$, ñ îêðóãîâ $PROV_OTHER$, ïðîèçâîäÿùåé òîâàð $GOODS_OTHER$.;;x
+TRADEROUTEDESC;Creating a trade route will, in addition to generating money, give the benefits of the goods being traded to both counties.;;;;;;;;;;;Óñòàíîâëåíèå òîðãîâîãî ïóòè, â äîïîëíåíèå ê ïîëó÷àåìîé ïðèáûëè, òàêæå ïðèíåñ¸ò îáîþäíóþ âûãîäó îò òîâàðîâ, êîòîðûìè áóäóò îáìåíèâàòüñÿ îêðóãà.;;x
+TRADEROUTEOFFDESC;$COUNTRY$ is offering us a trade between $FROM$($FROM_GOODS$) and $TO$($TO_GOODS$).\n This will earn each of us $CASH$¤ per month.\n Effect on $FROM$: $FROM_EFFECT$ \n Effect on $TO$: $TO_EFFECT$;;;;;;;;;;;Äåðæàâà $COUNTRY$ ïðåäëàãàåò íàì óñòàíîâèòü òîðãîâûé ïóòü ìåæäó îêðóãàìè $FROM$ ($FROM_GOODS$) è $TO$ ($TO_GOODS$).\nÝòî áóäåò ïðèíîñèòü îáåèì ñòðàíàì $CASH$¤ åæåìåñÿ÷íî.\n Âëèÿíèå íà îêðóã $FROM$: $FROM_EFFECT$ \n Âëèÿíèå íà îêðóã $TO$: $TO_EFFECT$;;x
+TRADEROUTEREQDESC;Creating a traderoute from $FROM$($GOODS_FROM$) to $TO$($GOODS_TO$) will, addition to $CASH$¤ each month, give $FROM$ $TO_EFFECT$ and $TO$ $FROM_EFFECT$.;;;;;;;;;;;Óñòàíîâëåíèå òîðãîâûõ îòíîøåíèé ìåæäó îêðóãàìè $FROM$ ($GOODS_FROM$) è $TO$ ($GOODS_TO$), â äîïîëíåíèå ê ïðèáûëè $CASH$¤ â ìåñÿö, äàñò ñëåäóþùèå ýôôåêòû:\n $FROM$: $TO_EFFECT$, $TO$: $FROM_EFFECT$;;x
+TRADEROUTETITLE;Create Trade Route;;;;;;;;;;;Ñîçäàòü òîðãîâûé ïóòü;;x
+TV_BASE;From Citizens;;;;;;;;;;;Îò ãðàæäàí;;x
+unemployed_adult_male;Wants a Title;;;;;;;;;;;Æåëàåò òèòóë;;x
+UNIT_ALLEGIANCE_EFFECT;$UNIT$ defects to $WHO$.\n;;;;;;;;;;;$UNIT$ ïåðåéä¸ò ê $WHO$\n;;x
+UNIT_QUEUED;(queued);;;;;;;;;;;(â î÷åðåäè);;x
+UNIT_TYPE_VERSUS;Vs $NAME$: $COL$$EFFICIENCY$%;;;;;;;;;;;Ïðîòèâ $NAME$: $COL$$EFFICIENCY$%;;x
+VASALINVALID;To offer Tribute you must have a relation of at least -150 and we must both be at peace.;;;;;;;;;;;×òîáû ïðåäëîæèòü äàíü, íàøè îòíîøåíèÿ äîëæíû áûòü êàê ìèíèìóì -150 è âûøå, è îáå íàøè ñòðàíû äîëæíû áûòü â ìèðå.;;x
+VASALLWEACCEPT_SETUP;When we agree to pay tribute to another nation.;;;;;;;;;;;Êîãäà ìû ñîãëàñíû ïëàòèòü äàíü äðóãîìó ãîñóäàðñòâó.;;x
+VASSAL_GIVEUP;$WHO$ will cancel the tribute from $WHAT$.;;;;;;;;;;;$WHO$ îòìåíèò äàíü îò $WHAT$.;;x
+VASSALBREAKDESC;Do you wish to stop paying tribute to $COUNTRY$? \nThis will cause our relations to worsen and they will get a Casus Belli against us.;;;;;;;;;;;Âû äåéñòâèòåëüíî õîòèòå ïåðåñòàòü ïëàòèòü äàíü äåðæàâå $COUNTRY$?\n. Ýòî ïðèâåä¸ò ê óõóäøåíèþ íàøèõ îòíîøåíèé, è îíè òàêæå ïîëó÷àò âðåìåííûé ïîâîä äëÿ âîéíû ñ íàìè.;;x
+VASSALCANCELDESC;Do you wish to stop accepting tribute from $COUNTRY$?;;;;;;;;;;;Âû äåéñòâèòåëüíî õîòèòå ïåðåñòàòü ïîëó÷àòü äàíü îò äåðæàâû $COUNTRY$?;;x
+VASSALDESC;Suggest that they pay tribute to us.;;;;;;;;;;;Ïîòðåáîâàòü îò íèõ ïîñòîÿííóþ âûïëàòó íàì äàíè.;;x
+VASSALNEWDESC;Do you wish to demand that $COUNTRY$ that country pays $CASH$¤ each month in tribute for our 'protection'?;;;;;;;;;;;"Âû äåéñòâèòåëüíî õîòèòå ïîòðåáîâàòü, ÷òîáû äåðæàâà $COUNTRY$ íà÷àëà âûïëà÷èâàòü íàì $CASH$¤ åæåìåñÿ÷íî â îáìåí íà íàøó ""çàùèòó""?";;x
+VASSALREQDESC;$COUNTRY$ is asking us to pay a tribute of $CASH$¤ to them each month. By accepting, we will be considered to be under their protection.;;;;;;;;;;;Äåðæàâà $COUNTRY$ òðåáóåò, ÷òîáû ìû íà÷àëè ïëàòèòü èì äàíü â ðàçìåðå $CASH$¤ åæåìåñÿ÷íî. Ïðèíÿâ ýòî ïðåäëîæåíèå, ìû áóäåì ñ÷èòàòüñÿ ñòðàíîé, íàõîäÿùåéñÿ ïîä èõ çàùèòîé.;;x
+VASSALREQTITLE;Offer Tribute;;;;;;;;;;;Ïðåäëîæèòü äàíü;;x
+VASSALTITLE;Demand Tribute;;;;;;;;;;;Ïîòðåáîâàòü äàíü;;x
+WAR_EFFECT;Declare War on $WHO$;;;;;;;;;;;Îáúÿâèòü âîéíó ïðàâèòåëþ ïî èìåíè §Y$WHO$§!;;x
+WAR_EXHAUSTION;Monthly War Exhaustion;;;;;;;;;;;Åæåìåñÿ÷íûé èçìîð îò âîéíû ;;x
+war_exhaustion;War Exhaustion;;;;;;;;;;;Óñòàëîñòü îò âîéíû;;x
+WAR_EXHAUSTION_LESS_THAN;War exhaustion less than ;;;;;;;;;;;Âîåííûå ïîòåðè ìåíüøå ;;x
+WAR_EXHAUSTION_MORE_THAN;War exhaustion more than ;;;;;;;;;;;Âîåííûå ïîòåðè áîëüøå ;;x
+WAREXHAUSTION_EFFECT;$DIRECTION$ $VALUE$ war exhaustion.\n;;;;;;;;;;;$DIRECTION$ $VALUE$ óñòàëîñòè îò âîéíû\n;;x
+WCRD_ATT;This is a war that they have started.;;;;;;;;;;;Ýòî âîéíà, êîòîðàÿ áûëà èìè íà÷àòà.;;x
+WCRD_DEF;This is a defensive war, where we need to help our ally.;;;;;;;;;;;Ýòî îáîðîíèòåëüíàÿ âîéíà, â êîòîðîé îò íàñ òðåáóåòñÿ ïîìî÷ü ñâîåìó ñîþçíèêó.;;x
+WEALTH_EFFECT;$WHO$ $DIRECTION$ $VALUE$ wealth\n;;;;;;;;;;;$DIRECTION$ $VALUE$¤\n;;x
+WEANNEX;We demand their full Annexation.;;;;;;;;;;;Ìû òðåáóåì ïîëíîé àííåêñèè èõ ãîñóäàðñòâà.;;x
+WEDGE;Wedge;;;;;;;;;;;Êëèí;;x
+WEDGE_DESC;With generals obsessing with their flanks it can perversely enough leave the army's centre venerable. An all out assault on the enemies centre can sometimes yield the same results as a flanking attack.;;;;;;;;;;;Åñëè ãåíåðàëû ïðèäàþò áîëüøîå çíà÷åíèÿ ôëàíãîâûì âîéñêàì, òî àòàêà âñåìè ñèëàìè íà öåíòð ìîæåò ðàçðóøèòü ñòðîé è èìåòü òàêèå æå ïîñëåäñòâèÿ, êàê è ôëàíãîâàÿ àòàêà;;x
+IS_ACCEPTED_CULTURE;Is accepted culture ;;;;;;;;;;;ßâëÿåòñÿ ïðèçíàííîé êóëüòóðîé ;;x
+IS_NOT_ACCEPTED_CULTURE;Is NOT accepted culture ;;;;;;;;;;;ÍÅ ÿâëÿåòñÿ ïðèçíàííîé êóëüòóðîé ;;x
+IS_ADMIRAL;Is an admiral;;;;;;;;;;;ßâëÿåòñÿ àäìèðàëîì;;x
+IS_NOT_ADMIRAL;Is NOT an admiral;;;;;;;;;;;ÍÅ ÿâëÿåòñÿ àäìèðàëîì;;x
+IS_AN_ENVOY;Is an envoy;;;;;;;;;;;ßâëÿåòñÿ ïîñëîì;;x
+IS_NOT_AN_ENVOY;Is NOT an envoy;;;;;;;;;;;ÍÅ ÿâëÿåòñÿ ïîñëîì;;x
+IS_BANISHED;Is exiled;;;;;;;;;;;Â èçãíàíèè;;x
+IS_NOT_BANISHED;Is NOT exiled;;;;;;;;;;;ÍÅ íàõîäèòñÿ â èçãíàíèè;;x
+IS_EMPLOYED;Is Employed;;;;;;;;;;;Èñïîëüçóåòñÿ;;x
+ISNT_EMPLOYED;Is NOT employed;;;;;;;;;;;Íå èñïîëüçóåòñÿ;;x
+IS_GENERAL;Is a general;;;;;;;;;;;ßâëÿåòñÿ ãåíåðàëîì;;x
+IS_NOT_GENERAL;Is NOT a general;;;;;;;;;;;ÍÅ ÿâëÿåòñÿ ãåíåðàëîì;;x
+IS_LEADING_ARMY;Is leading an army;;;;;;;;;;;Âîçãëàâëÿåò àðìèþ;;x
+IS_NOT_LEADING_ARMY;Is NOT leading an army;;;;;;;;;;;Íå âîçãëàâëÿåò àðìèþ;;x
+IS_LEADING_FLANK;Is leading a flank;;;;;;;;;;;Âîçãëàâëÿåò ôëàíã;;x
+IS_NOT_LEADING_FLANK;Is NOT leading a flank;;;;;;;;;;;Íå âîçãëàâëÿåò ôëàíã;;x
+IS_LUCKY;Is lucky;;;;;;;;;;;"ßâëÿåòñÿ ""óäà÷íîé"" ñòðàíîé";;x
+ISNT_LUCKY;Isn't lucky ;;;;;;;;;;;"ÍE ÿâëÿåòñÿ ""óäà÷íîé"" ñòðàíîé";;x
+IS_THREAT1;Views;;;;;;;;;;;Ðàññìàòðèâàåò äåðæàâó ;;x
+IS_THREAT2;as a threat.;;;;;;;;;;;êàê óãðîçó ñåáå;;x
+IS_NOT_THREAT1;Does NOT view;;;;;;;;;;;Íå ðàññìàòðèâàåò äåðæàâó ;;x
+IS_NOT_THREAT2;as a threat.;;;;;;;;;;;â êà÷åñòâå óãðîçû;;x
+IS_EQUAL_OR_LESS_THAN; is equal to or less than ;;;;;;;;;;; ìåíüøå èëè ðàâíî ;;x
+IS_GREATER_THAN; is greater than ;;;;;;;;;;; áîëüøå ;;x
+IS_FROM;Is FROM;;;;;;;;;;;Ïîòîìîê;;x
+IS_PREV;Is PREV;;;;;;;;;;;Ïðåäîê;;x
+IS_ROOT;Is ROOT;;;;;;;;;;;Îñíîâàòåëü ðîäà;;x
+HAVE_LESS_THAN;Have less than ;;;;;;;;;;;Èìååò ìåíüøå ;;x
+HAVE_LESS_THAN_INFANTRY_IN;Have less than $UNITS$ infantry in $PROVINCE$;;;;;;;;;;;×èñëåííîñòü ïåõîòû ìåíüøå ;;x
+HAVE_MORE_THAN;Have more than ;;;;;;;;;;;Èìååò íå ìåíüøå ;;x
+HAVE_MORE_THAN_INFANTRY_IN;Have more than $UNITS$ infantry in $PROVINCE$;;;;;;;;;;;×èñëåííîñòü ïåõîòû áîëüøå ;;x
+LOSE_CORE_EFFECT;Lose core on $LOSE$.\n;;;;;;;;;;;Ïîòåðÿåò íàö. îêðóã $LOSE$\n;;x
+LOYALTY_EFFECT;$WHO$ $DIRECTION$ $VALUE$ loyalty.\n;;;;;;;;;;;$WHO$ $DIRECTION$ $VALUE$ ëîÿëüíîñòè\n;;x
+LOYALTY_GAIN_CHANCE;Unit Loyalty Chance;;;;;;;;;;;Øàíñ ëîÿëüíîñòè ïîäðàçäåëåíèé;;x
+PART_OF_CONTINENT;Part of the region of §Y$NAME$§!.;;;;;;;;;;;×àñòü ðåãèîíà §Y$NAME$§W.;;x
+HAVE_NO_PROVINCES;Have no Counties;;;;;;;;;;;Íå âëàäååò íè îäíèì îêðóãîì;;x
+HAS_A_JOB;Has a job;;;;;;;;;;;Èìååò ðàáîòó;;x
+DOES_NOT_HAVE_A_JOB;Does NOT have a job;;;;;;;;;;;Íå èìååò ðàáîòû;;x
+HAS_THE_JOB;Has the job ;;;;;;;;;;;Ïîñòàâëåí íà äîëæíîñòü ;;x
+DOES_NOT_HAVE_THE_JOB;Does NOT have the job ;;;;;;;;;;;Íå ïîñòàâëåí íà äîëæíîñòü ;;x
+HAVE_N0T_ALLIANCE_WITH;Not allied with ;;;;;;;;;;;ÍÅ íàõîäèòñÿ â ñîþçå ñ äåðæàâîé ;;x
+IS_RUNNING;Is running ;;;;;;;;;;;ßâëÿåòñÿ ìàãèñòðàòîì ïî óïðàâëåíèþ òåõíîëîãèåé ;;x
+IS_NOT_RUNNING;Is NOT running ;;;;;;;;;;;ÍÅ ÿâëÿåòñÿ ìàãèñòðàòîì ïî óïðàâëåíèþ òåõíîëîãèåé ;;x
+AGGRESSOR_IS;Attacker is §Y$CHAR$§!;;;;;;;;;;;Àòàêóþùèé - §Y$CHAR$§!;;x
+AGGRESSOR_IS_NOT;Attacker is not §Y$CHAR$§!;;;;;;;;;;;Àòàêóþùèé - ÍÅ §Y$CHAR$§!;;x
+EXISTS; exists;;;;;;;;;;; ñóùåñòâóåò;;x
+DOSNT_EXIST; does not exist;;;;;;;;;;; íå ñóùåñòâóåò;;x

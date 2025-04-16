@@ -1,236 +1,236 @@
-setting_age_span;Age Span;;;;;;;;;;;;;x
-setting_age_span_tooltip;Determines the maximum and minimum age of generated Rulers.;;;;;;;;;;;;;x
-setting_culture;Cultures;;;;;;;;;;;;;x
-setting_culture_tooltip;Determines where and which Cultures will be spread across the map.;;;;;;;;;;;;;x
-setting_culture_animal_kingdoms;Animal Kingdoms;;;;;;;;;;;;;x
-setting_culture_animal_kingdoms_tooltip;In a world dominated by animals, can mankind still prevail?;;;;;;;;;;;;;x
-setting_culture_animal_world;Animal World;;;;;;;;;;;;;x
-setting_culture_animal_world_tooltip;The animals have won, and humanity is but a memory.;;;;;;;;;;;;;x
-setting_culture_full_random;Full Random;;;;;;;;;;;;;x
-setting_culture_full_random_tooltip;Individual Cultures and their groups will be kept together, but will appear in random locations on the map. §YAll§! County Cultures are included in this setting. In certain cases, you might end up with both the original and the evolutionary form of a Culture, such as Norse and Swedish.;;;;;;;;;;;;;x
-setting_culture_full_random_2;Full Random;;;;;;;;;;;;;x
-setting_culture_full_random_2_tooltip;Individual Cultures and their groups will be kept together, but will appear in random locations on the map. §YAll§! County Cultures are included in this setting. In certain cases, you might end up with both the original and the evolutionary form of a Culture, such as Norse and Swedish.;;;;;;;;;;;;;x
-setting_culture_full_random_3;Full Random;;;;;;;;;;;;;x
-setting_culture_full_random_3_tooltip;Individual Cultures and their groups will be kept together, but will appear in random locations on the map. §YAll§! County Cultures are included in this setting. In certain cases, you might end up with both the original and the evolutionary form of a Culture, such as Norse and Swedish.;;;;;;;;;;;;;x
-setting_culture_full_random_4;Full Random;;;;;;;;;;;;;x
-setting_culture_full_random_4_tooltip;Individual Cultures and their groups will be kept together, but will appear in random locations on the map. §YAll§! County Cultures are included in this setting. In certain cases, you might end up with both the original and the evolutionary form of a Culture, such as Norse and Swedish.;;;;;;;;;;;;;x
-setting_culture_full_random_5;Full Random;;;;;;;;;;;;;x
-setting_culture_full_random_5_tooltip;Individual Cultures and their groups will be kept together, but will appear in random locations on the map. §YAll§! County Cultures are included in this setting. In certain cases, you might end up with both the original and the evolutionary form of a Culture, such as Norse and Swedish.;;;;;;;;;;;;;x
-setting_culture_full_random_6;Full Random;;;;;;;;;;;;;x
-setting_culture_full_random_6_tooltip;Individual Cultures and their groups will be kept together, but will appear in random locations on the map. §YAll§! County Cultures are included in this setting. In certain cases, you might end up with both the original and the evolutionary form of a Culture, such as Norse and Swedish.;;;;;;;;;;;;;x
-setting_culture_historical;Historical;;;;;;;;;;;;;x
-setting_culture_historical_tooltip;County Cultures are unchanged from history.;;;;;;;;;;;;;x
-setting_culture_historical_2;Historical;;;;;;;;;;;;;x
-setting_culture_historical_2_tooltip;County Cultures are unchanged from history.;;;;;;;;;;;;;x
-setting_culture_historical_3;Historical;;;;;;;;;;;;;x
-setting_culture_historical_3_tooltip;County Cultures are unchanged from history.;;;;;;;;;;;;;x
-setting_culture_historical_4;Historical;;;;;;;;;;;;;x
-setting_culture_historical_4_tooltip;County Cultures are unchanged from history.;;;;;;;;;;;;;x
-setting_culture_historical_5;Historical;;;;;;;;;;;;;x
-setting_culture_historical_5_tooltip;County Cultures are unchanged from history.;;;;;;;;;;;;;x
-setting_culture_historical_6;Historical;;;;;;;;;;;;;x
-setting_culture_historical_6_tooltip;County Cultures are unchanged from history.;;;;;;;;;;;;;x
-setting_culture_random;Random;;;;;;;;;;;;;x
-setting_culture_random_tooltip;Individual Cultures and their groups will be kept together, but will appear in random locations on the map. Note that only cultures that existed during the selected date will be used.;;;;;;;;;;;;;x
-setting_culture_random_2;Random;;;;;;;;;;;;;x
-setting_culture_random_2_tooltip;Individual Cultures and their groups will be kept together, but will appear in random locations on the map. Note that only cultures that existed during the selected date will be used.;;;;;;;;;;;;;x
-setting_culture_random_3;Random;;;;;;;;;;;;;x
-setting_culture_random_3_tooltip;Individual Cultures and their groups will be kept together, but will appear in random locations on the map. Note that only cultures that existed during the selected date will be used.;;;;;;;;;;;;;x
-setting_culture_random_4;Random;;;;;;;;;;;;;x
-setting_culture_random_4_tooltip;Individual Cultures and their groups will be kept together, but will appear in random locations on the map. Note that only cultures that existed during the selected date will be used.;;;;;;;;;;;;;x
-setting_culture_random_5;Random;;;;;;;;;;;;;x
-setting_culture_random_5_tooltip;Individual Cultures and their groups will be kept together, but will appear in random locations on the map. Note that only cultures that existed during the selected date will be used.;;;;;;;;;;;;;x
-setting_culture_random_6;Random;;;;;;;;;;;;;x
-setting_culture_random_6_tooltip;Individual Cultures and their groups will be kept together, but will appear in random locations on the map. Note that only cultures that existed during the selected date will be used.;;;;;;;;;;;;;x
-setting_dejure;De Jure Kingdoms and Empires;;;;;;;;;;;;;x
-setting_dejure_tooltip;Determines what De Jure Kingdoms and Empires will exist.;;;;;;;;;;;;;x
-setting_dejure_empire_size;De Jure Empire Size;;;;;;;;;;;;;x
-setting_dejure_empire_size_tooltip;Determines how large Empires will be when De Jure Empires are randomized. The slider sets the minimum and maximum number of Kingdoms per Empire. Depending on their placement, Empires might in rare cases end up below or above the set limits.;;;;;;;;;;;;;x
-setting_dejure_historical;Historical;;;;;;;;;;;;;x
-setting_dejure_historical_tooltip;De Jure Kingdoms and Empires are left unchanged from history.;;;;;;;;;;;;;x
-setting_dejure_kingdom_size;De Jure Kingdom Size;;;;;;;;;;;;;x
-setting_dejure_kingdom_size_tooltip;Determines how large Kingdoms will be when De Jure Kingdoms are randomized. The slider sets the minimum and maximum number of Duchies per Kingdom. Depending on their placement, Kingdoms might in rare cases end up below or above the set limits.;;;;;;;;;;;;;x
-setting_dejure_no_empires;No Empires;;;;;;;;;;;;;x
-setting_dejure_no_empires_tooltip;All De Jure Empires are removed.;;;;;;;;;;;;;x
-setting_dejure_no_kingdoms;No Kingdoms;;;;;;;;;;;;;x
-setting_dejure_no_kingdoms_tooltip;All De Jure Kingdoms are removed, as well as all De Jure Empires.;;;;;;;;;;;;;x
-setting_dejure_random;Random;;;;;;;;;;;;;x
-setting_dejure_random_tooltip;The default De Jure setup for Kingdoms and Empires will be dynamically generated based on the parameters set below (§Y'De Jure Kingdom Size'§! and §Y'De Jure Empire Size'§!).;;;;;;;;;;;;;x
-setting_female_ruler_percentage;Female Ruler Percentage;;;;;;;;;;;;;x
-setting_female_ruler_percentage_tooltip;Determines the chance of each generated Ruler being a woman.;;;;;;;;;;;;;x
-setting_holding_slots;Holding Slots;;;;;;;;;;;;;x
-setting_holding_slots_tooltip;Determines the number of Holding Slots each County will have.;;;;;;;;;;;;;x
-setting_holding_slots_five;Five;;;;;;;;;;;;;x
-setting_holding_slots_five_tooltip;Each County will have five Holding Slots.;;;;;;;;;;;;;x
-setting_holding_slots_four;Four;;;;;;;;;;;;;x
-setting_holding_slots_four_tooltip;Each County will have four Holding Slots.;;;;;;;;;;;;;x
-setting_holding_slots_historical;Historical;;;;;;;;;;;;;x
-setting_holding_slots_historical_tooltip;The Holding Slots are unchanged from history.;;;;;;;;;;;;;x
-setting_holding_slots_one;One;;;;;;;;;;;;;x
-setting_holding_slots_one_tooltip;Each County will have one Holding Slot.;;;;;;;;;;;;;x
-setting_holding_slots_random;Random;;;;;;;;;;;;;x
-setting_holding_slots_random_tooltip;Each County will randomly be assigned between one to seven Holding Slots.;;;;;;;;;;;;;x
-setting_holding_slots_seven;Seven;;;;;;;;;;;;;x
-setting_holding_slots_seven_tooltip;Each County will have seven Holding Slots.;;;;;;;;;;;;;x
-setting_holding_slots_six;Six;;;;;;;;;;;;;x
-setting_holding_slots_six_tooltip;Each County will have six Holding Slots.;;;;;;;;;;;;;x
-setting_holding_slots_three;Three;;;;;;;;;;;;;x
-setting_holding_slots_three_tooltip;Each County will have three Holding Slots.;;;;;;;;;;;;;x
-setting_holding_slots_two;Two;;;;;;;;;;;;;x
-setting_holding_slots_two_tooltip;Each County will have two Holding Slots.;;;;;;;;;;;;;x
-setting_holding_types;Holding Types;;;;;;;;;;;;;x
-setting_holding_types_tooltip;Determines which Holding Types are present in the game.;;;;;;;;;;;;;x
-setting_holding_types_feudal;Feudal;;;;;;;;;;;;;x
-setting_holding_types_feudal_tooltip;Every County will have up to three Holdings generated: A Castle, a Temple, and a City.;;;;;;;;;;;;;x
-setting_holding_types_historical;Historical;;;;;;;;;;;;;x
-setting_holding_types_historical_tooltip;County Holdings are unchanged from history.;;;;;;;;;;;;;x
-setting_holding_types_nomadic;Nomadic;;;;;;;;;;;;;x
-setting_holding_types_nomadic_tooltip;Every County will be Nomadic.;;;;;;;;;;;;;x
-setting_holding_types_tribal;Tribal;;;;;;;;;;;;;x
-setting_holding_types_tribal_tooltip;Every County will have a single Tribal holding.;;;;;;;;;;;;;x
-setting_holding_types_tribal_nomadic;Tribal & Nomadic;;;;;;;;;;;;;x
-setting_holding_types_tribal_nomadic_tooltip;Counties with certain Cultures will be Nomadic. Any other County will have a single Tribal Holding;;;;;;;;;;;;;x
-setting_marriage_percentage;Marriage Percentage;;;;;;;;;;;;;x
-setting_marriage_percentage_tooltip;Determines the chance of each generated adult Ruler being married. Female rulers will be matrilineally married.;;;;;;;;;;;;;x
-setting_names;Culture and Religion Names;;;;;;;;;;;;;x
-setting_names_tooltip;Determines whether Culture and Religion names are left historical, or randomized.;;;;;;;;;;;;;x
-setting_names_historical;Historical;;;;;;;;;;;;;x
-setting_names_historical_tooltip;Culture and Religion names are left unchanged from history.;;;;;;;;;;;;;x
-setting_names_random;Random;;;;;;;;;;;;;x
-setting_names_random_tooltip;Culture and Religion names are randomized.\n\n - Note that if you use the §YEU4 Converter§! to transfer the game, the §Yoriginal§! names will be used.;;;;;;;;;;;;;x
-setting_names_random_culture;Random Culture Names;;;;;;;;;;;;;x
-setting_names_random_culture_tooltip;Culture names are randomized.;;;;;;;;;;;;;x
-setting_names_random_religion;Random Religion Names;;;;;;;;;;;;;x
-setting_names_random_religion_tooltip;Religion names are randomized.;;;;;;;;;;;;;x
-setting_num_counties;Max Number of Counties;;;;;;;;;;;;;x
-setting_num_counties_tooltip;Determines the maximum number of Counties each ruler can hold personally. Most will hold a low number of Counties even if this is set high.;;;;;;;;;;;;;x
-setting_num_dukes;Number of Dukes;;;;;;;;;;;;;x
-setting_num_dukes_tooltip;Determines how common Dukes are.;;;;;;;;;;;;;x
-setting_num_dukes_few;Few;;;;;;;;;;;;;x
-setting_num_dukes_few_tooltip;A low number of Dukes are generated.;;;;;;;;;;;;;x
-setting_num_dukes_many;Many;;;;;;;;;;;;;x
-setting_num_dukes_many_tooltip;A massive number of Dukes are generated.;;;;;;;;;;;;;x
-setting_num_dukes_none;None;;;;;;;;;;;;;x
-setting_num_dukes_none_tooltip;No Dukes will be generated.;;;;;;;;;;;;;x
-setting_num_dukes_normal;Normal;;;;;;;;;;;;;x
-setting_num_dukes_normal_tooltip;A significant number of Dukes are generated.;;;;;;;;;;;;;x
-setting_num_emperors;Number of Emperors;;;;;;;;;;;;;x
-setting_num_emperors_tooltip;Determines how common Emperors are.\n\n - Results may vary if the §Y'De Jure Kingdom Size'§! or §Y'De Jure Empire Size'§! are set very high.;;;;;;;;;;;;;x
-setting_num_emperors_few;Few;;;;;;;;;;;;;x
-setting_num_emperors_few_tooltip;Few to no Emperors are generated.;;;;;;;;;;;;;x
-setting_num_emperors_many;Many;;;;;;;;;;;;;x
-setting_num_emperors_many_tooltip;A large number of Emperors are generated.;;;;;;;;;;;;;x
-setting_num_emperors_none;None;;;;;;;;;;;;;x
-setting_num_emperors_none_tooltip;No Emperors will be generated.;;;;;;;;;;;;;x
-setting_num_emperors_normal;Normal;;;;;;;;;;;;;x
-setting_num_emperors_normal_tooltip;A handful of Emperors are generated.;;;;;;;;;;;;;x
-setting_num_kings;Number of Kings;;;;;;;;;;;;;x
-setting_num_kings_tooltip;Determines how common Kings are.\n\n - Results may vary if the §Y'De Jure Kingdom Size'§! or §Y'De Jure Empire Size'§! are set very high.;;;;;;;;;;;;;x
-setting_num_kings_few;Few;;;;;;;;;;;;;x
-setting_num_kings_few_tooltip;A low number of Kings are generated.;;;;;;;;;;;;;x
-setting_num_kings_many;Many;;;;;;;;;;;;;x
-setting_num_kings_many_tooltip;A large number of Kings are generated.;;;;;;;;;;;;;x
-setting_num_kings_none;None;;;;;;;;;;;;;x
-setting_num_kings_none_tooltip;No Kings will be generated.;;;;;;;;;;;;;x
-setting_num_kings_normal;Normal;;;;;;;;;;;;;x
-setting_num_kings_normal_tooltip;A significant number of Kings are generated.;;;;;;;;;;;;;x
-setting_num_of_children;Number of Children;;;;;;;;;;;;;x
-setting_num_of_children_tooltip;Determines the minimum and maximum number of children generated for each Ruler. Note that a Ruler cannot have more children than their age allows, and that twins count as one child.;;;;;;;;;;;;;x
-setting_random_holdings;Holding Types;;;;;;;;;;;;;x
-setting_random_holdings_tooltip;Determines which Holding Types are present in the game.;;;;;;;;;;;;;x
-setting_random_holdings_balanced;Balanced;;;;;;;;;;;;;x
-setting_random_holdings_balanced_tooltip;The number of Feudal Counties will be comparable to the number of Tribal and Nomadic Counties combined.;;;;;;;;;;;;;x
-setting_random_holdings_feudal_heavy;Feudal-Heavy;;;;;;;;;;;;;x
-setting_random_holdings_feudal_heavy_tooltip;Most of the world will be Feudal, with only a small amount of Tribal and Nomadic Counties.;;;;;;;;;;;;;x
-setting_random_holdings_tribal_heavy;Tribal-Heavy;;;;;;;;;;;;;x
-setting_random_holdings_tribal_heavy_tooltip;Most of the world will be Tribal or Nomadic, with only a small amount of Feudal Counties.;;;;;;;;;;;;;x
-setting_random_scenario_artifacts;Random Artifacts;;;;;;;;;;;;;x
-setting_random_scenario_artifacts_tooltip;Generates a number of special artifacts, spread across the world.;;;;;;;;;;;;;x
-setting_random_scenario_bloodlines;Random Bloodlines;;;;;;;;;;;;;x
-setting_random_scenario_bloodlines_tooltip;Generates several great Bloodlines across the world.;;;;;;;;;;;;;x
-setting_random_scenario_byz;Byzantine Empire;;;;;;;;;;;;;x
-setting_random_scenario_byz_tooltip;Generates a realm somewhere in the world based upon the Byzantine Empire. The realm will be large and centralized, with Viceroyalty laws in effect. The Emperor will start off with all De Jure Duchy titles, to be handed out as Viceroyalties.\n\n - Requires §Y'De Jure Kingdoms and Empires'§! be set to 'Random'.;;;;;;;;;;;;;x
-setting_random_scenario_hre;Holy Roman Empire;;;;;;;;;;;;;x
-setting_random_scenario_hre_tooltip;Generates a realm somewhere in the world based upon the Holy Roman Empire. The realm will be large and religiously uniform, but heavily decentralized and elective.\n\n - Requires §Y'De Jure Kingdoms and Empires'§! be set to 'Random'.;;;;;;;;;;;;;x
-setting_random_scenario_merchant_republics;Merchant Republics;;;;;;;;;;;;;x
-setting_random_scenario_merchant_republics_tooltip;Generates a number of Merchant Republics throughout the world. Merchant Republics will only spawn if there are enough coastal cities to accommodate them.;;;;;;;;;;;;;x
-setting_random_scenario_more_pagans;More Pagans;;;;;;;;;;;;;x
-setting_random_scenario_more_pagans_tooltip;Increases the amount of Pagans in the world. Note that in rare cases the Pagans can be cut off from being assigned more land.;;;;;;;;;;;;;x
-setting_random_scenario_theocracies;Minor Theocracies;;;;;;;;;;;;;x
-setting_random_scenario_theocracies_tooltip;Generates a small portion of Theocracies. Theocracies will only spawn if there are enough temples to accommodate them.;;;;;;;;;;;;;x
-setting_religion;Religions;;;;;;;;;;;;;x
-setting_religion_tooltip;Determines where and which Religions will be spread across the map.;;;;;;;;;;;;;x
-setting_religion_features;Religion Features;;;;;;;;;;;;;x
-setting_religion_features_tooltip;Determines whether Religions will work historically, or with randomized features.;;;;;;;;;;;;;x
-setting_religion_features_historical;Historical;;;;;;;;;;;;;x
-setting_religion_features_historical_tooltip;Religions have their historical features.;;;;;;;;;;;;;x
-setting_religion_features_random;Random;;;;;;;;;;;;;x
-setting_religion_features_random_tooltip;Religions have their features randomized.\n\n - Requires §Y'Culture and Religion Names'§! to be set to 'Random'. If not, religious descriptions and their effects might not correlate.;;;;;;;;;;;;;x
-setting_religion_full_random;Full Random;;;;;;;;;;;;;x
-setting_religion_full_random_tooltip;Individual County Religions and their groups will be kept together, but will appear in random locations on the map. Heresies and special religions, such as the Aztec religion, are included.;;;;;;;;;;;;;x
-setting_religion_historical;Historical;;;;;;;;;;;;;x
-setting_religion_historical_tooltip;County religions are unchanged from history.;;;;;;;;;;;;;x
-setting_religion_random;Random;;;;;;;;;;;;;x
-setting_religion_random_tooltip;Individual County Religions and their groups will be kept together, but will appear in random locations on the map. Most Heresies and special religions, such as the Aztec religion, are not included.;;;;;;;;;;;;;x
-setting_shattered_cbs;Consolidation Casus Belli;;;;;;;;;;;;;x
-setting_shattered_cbs_tooltip;Determines whether or not (or for how long) characters will be provided with a special County-conquest Casus Belli, designed to speed up the early game.;;;;;;;;;;;;;x
-setting_shattered_cbs_off;Disabled;;;;;;;;;;;;;x
-setting_shattered_cbs_off_tooltip;No special County-conquest Casus Belli will be available.;;;;;;;;;;;;;x
-setting_shattered_cbs_on_limited;Enabled (Limited 25 years);;;;;;;;;;;;;x
-setting_shattered_cbs_on_limited_tooltip;The special County-conquest Casus Belli will be available for 25 years, after which it will be disabled.;;;;;;;;;;;;;x
-setting_shattered_cbs_on_long;Enabled (Limited 100 years);;;;;;;;;;;;;x
-setting_shattered_cbs_on_long_tooltip;The special County-conquest Casus Belli will be available for 100 years, after which it will be disabled.;;;;;;;;;;;;;x
-setting_shattered_cbs_on_permanent;Enabled (Permanent);;;;;;;;;;;;;x
-setting_shattered_cbs_on_permanent_tooltip;The special County-conquest Casus Belli will be permanently available.;;;;;;;;;;;;;x
-setting_shattered_conquerors;Great Conquerors;;;;;;;;;;;;;x
-setting_shattered_conquerors_tooltip;Determines how the game will set up Great Conquerors. A Great Conqueror is a randomly selected AI ruler given boosted stats, a Bloodline, a big army, and access to an Invasion-type Casus Belli for the duration of their lifetime. Great Conquerors will not spawn close together, nor next to a player.;;;;;;;;;;;;;x
-setting_shattered_conquerors_off;Disabled;;;;;;;;;;;;;x
-setting_shattered_conquerors_off_tooltip;No Great Conquerors will spawn.;;;;;;;;;;;;;x
-setting_shattered_conquerors_on_few;Enabled (up to 4);;;;;;;;;;;;;x
-setting_shattered_conquerors_on_few_tooltip;Up to four Great Conquerors might spawn in different locations around the world.;;;;;;;;;;;;;x
-setting_shattered_conquerors_on_many;Enabled (up to 12);;;;;;;;;;;;;x
-setting_shattered_conquerors_on_many_tooltip;Up to twelve Great Conquerors might spawn in different locations around the world.;;;;;;;;;;;;;x
-setting_shattered_conquerors_on_normal;Enabled (up to 8);;;;;;;;;;;;;x
-setting_shattered_conquerors_on_normal_tooltip;Up to eight Great Conquerors might spawn in different locations around the world.;;;;;;;;;;;;;x
-setting_shattered_succession;Initial Succession;;;;;;;;;;;;;x
-setting_shattered_succession_tooltip;Determines how the game will handle initial Succession Laws. After the game starts, Succession Laws can be changed normally.;;;;;;;;;;;;;x
-setting_shattered_succession_all_elective;All Elective;;;;;;;;;;;;;x
-setting_shattered_succession_all_elective_tooltip;All Titles will be assigned Elective Monarchy succession.\n - You and each lower rank Vassal (e.g. Dukes if you are a King) can nominate a successor from among themselves and your legitimate children and siblings.\n - Dukes are valid electors in both Kingdoms and Empires.\n - Very popular with your Vassals, but they will not approve if you personally hold too many elector Titles.;;;;;;;;;;;;;x
-setting_shattered_succession_all_elective_gavelkind;All Elective Gavelkind;;;;;;;;;;;;;x
-setting_shattered_succession_all_elective_gavelkind_tooltip;All Titles will be assigned Elective Gavelkind succession.\n - Titles are divided among your children and the Primary Heir who is elected from among the members of the ruling Dynasty.\n - You get no Prestige penalty for having unlanded sons.\n - You can have a §Y30%§! larger demesne.\n - Destruction of Titles is not allowed.\n - On succession in Kingdoms and Empires, new Kingdoms might be created for younger sons if possible.\n - Junior heirs always get the choice to declare independence without a war.;;;;;;;;;;;;;x
-setting_shattered_succession_all_gavelkind;All Gavelkind;;;;;;;;;;;;;x
-setting_shattered_succession_all_gavelkind_tooltip;All Titles will be assigned Gavelkind succession.\n - Titles are divided among your children, with the oldest getting the primary title.\n - You get no Prestige penalty for having unlanded sons.\n - You can have a §Y30%§! larger demesne.\n - Destruction of Titles is not allowed.\n - Very popular with everyone except your oldest child.;;;;;;;;;;;;;x
-setting_shattered_succession_all_primogeniture;All Primogeniture;;;;;;;;;;;;;x
-setting_shattered_succession_all_primogeniture_tooltip;All Titles will be assigned Primogeniture succession.\n - The oldest child inherits all titles.\n - Your successor will like the law, but other members of your Dynasty will slightly disapprove.;;;;;;;;;;;;;x
-setting_shattered_succession_all_seniority;All Seniority;;;;;;;;;;;;;x
-setting_shattered_succession_all_seniority_tooltip;All Titles will be assigned Seniority succession.\n - The oldest member of your Dynasty inherits all Titles.\n - Your oldest child will greatly disapprove of this law, but all other members of the Dynasty will approve.;;;;;;;;;;;;;x
-setting_shattered_succession_all_tanistry;All Tanistry;;;;;;;;;;;;;x
-setting_shattered_succession_all_tanistry_tooltip;All Titles will be assigned Tanistry succession.\n - You and all Vassals at one and two ranks below can nominate an heir - the Tanist - from among the members of your Dynasty.\n - Vassals will tend to favor older members from other branches of the family, especially Claimants.;;;;;;;;;;;;;x
-setting_shattered_succession_all_ultimogeniture;All Ultimogeniture;;;;;;;;;;;;;x
-setting_shattered_succession_all_ultimogeniture_tooltip;All Titles will be assigned Ultimogeniture succession.\n - The youngest child inherits all Titles.\n - The opposite of the far more common Primogeniture.;;;;;;;;;;;;;x
-setting_shattered_succession_default_laws;Default (no change);;;;;;;;;;;;;x
-setting_shattered_succession_default_laws_tooltip;No Succession Laws will be changed from their defaults.;;;;;;;;;;;;;x
-setting_technology;Technology;;;;;;;;;;;;;x
-setting_technology_tooltip;Determines the distribution of Technology in the world.;;;;;;;;;;;;;x
-setting_technology_flat;Flat;;;;;;;;;;;;;x
-setting_technology_flat_tooltip;Technology is the same in every County, based on the year selected.;;;;;;;;;;;;;x
-setting_technology_historical;Historical;;;;;;;;;;;;;x
-setting_technology_historical_tooltip;Technology is left unchanged from history.;;;;;;;;;;;;;x
-setting_technology_random;Random;;;;;;;;;;;;;x
-setting_technology_random_tooltip;Technology is randomized. Each Culture and Religion Group will deviate to some extent from the ideal Technology levels for the year selected.;;;;;;;;;;;;;x
-setting_tier;Ruler Tier;;;;;;;;;;;;;x
-setting_tier_tooltip;Determines which Title Tier/s the generated Rulers will have.;;;;;;;;;;;;;x
-setting_tier_counts;Counts;;;;;;;;;;;;;x
-setting_tier_counts_tooltip;An independent Count will be generated for every County;;;;;;;;;;;;;x
-setting_tier_dukes;Dukes;;;;;;;;;;;;;x
-setting_tier_dukes_tooltip;A random Count in each De Jure Duchy will be assigned the Duke title, all other Counts will be made vassals;;;;;;;;;;;;;x
-setting_tier_dukes_consolidated;Consolidated Dukes;;;;;;;;;;;;;x
-setting_tier_dukes_consolidated_tooltip;One Ruler will be generated per De Jure Duchy;;;;;;;;;;;;;x
-setting_title_names;Title Names;;;;;;;;;;;;;x
-setting_title_names_tooltip;Determines whether names of Titles should be random or not.;;;;;;;;;;;;;x
-setting_title_names_historical;Default;;;;;;;;;;;;;x
-setting_title_names_historical_tooltip;Title names will not be changed. If a non-historical De Jure setup is used, the names of their base titles (Counties or Duchies) will be used.;;;;;;;;;;;;;x
-setting_title_names_random;Random (no Duchies);;;;;;;;;;;;;x
-setting_title_names_random_tooltip;Kingdoms and Empires will be assigned random names.;;;;;;;;;;;;;x
-setting_title_names_random_including_duchies;Random (All);;;;;;;;;;;;;x
-setting_title_names_random_including_duchies_tooltip;Duchies, Kingdoms and Empires will be assigned random names.\nNote that names might sometimes repeat when using this option.;;;;;;;;;;;;;x
+setting_age_span;Age Span;;;;;;;;;;;Ðàçáðîñ âîçðàñòà;;x
+setting_age_span_tooltip;Determines the maximum and minimum age of generated Rulers.;;;;;;;;;;;Îïðåäåëÿåò ìàêñèìàëüíûé è ìèíèìàëüíûé âîçðàñò ñîçäàííûõ ïðàâèòåëåé.;;x
+setting_culture;Cultures;;;;;;;;;;;Êóëüòóðû;;x
+setting_culture_tooltip;Determines where and which Cultures will be spread across the map.;;;;;;;;;;;Îïðåäåëÿåò êàê êóëüòóðû áóäóò ðàñïîëîæåíû íà ìèðîâîé êàðòå.;;x
+setting_culture_animal_kingdoms;Animal Kingdoms;;;;;;;;;;;Æèâîòíûå öàðñòâà;;x
+setting_culture_animal_kingdoms_tooltip;In a world dominated by animals, can mankind still prevail?;;;;;;;;;;;Ìîæåò ëè ÷åëîâå÷åñòâî ïîáåäèòü â ìèðå, ãäå ïðàâÿò æèâîòíûå?;;x
+setting_culture_animal_world;Animal World;;;;;;;;;;;Çâåðîìèð;;x
+setting_culture_animal_world_tooltip;The animals have won, and humanity is but a memory.;;;;;;;;;;;Æèâîòíûå ïîáåäèëè, ÷åëîâå÷åñòâî îñòàëîñü ëèøü â ïàìÿòè.;;x
+setting_culture_full_random;Full Random;;;;;;;;;;;Ïîëíîñòüþ ñëó÷àéíûå;;x
+setting_culture_full_random_tooltip;Individual Cultures and their groups will be kept together, but will appear in random locations on the map. §YAll§! County Cultures are included in this setting. In certain cases, you might end up with both the original and the evolutionary form of a Culture, such as Norse and Swedish.;;;;;;;;;;;Êóëüòóðû è èõ ãðóïïû áóäóò ñîáðàíû âìåñòå, íî â ñëó÷àéíîì ïîðÿäêå íà êàðòå ìèðà. Êóëüòóðà §Yêàæäîãî§! îêðóãà áóäåò âêëþ÷åíà â ñòàðòîâûé àëãîðèòì. Â íåêîòîðûõ ñëó÷àÿõ ýòî îçíà÷àåò, ÷òî äðåâíÿÿ êóëüòóðà è å¸ âèäîèçìåí¸ííàÿ ôîðìà áóäóò ñóùåñòâîâàòü ïàðàëëåëüíî, íàïðèìåð, ñêàíäèíàâñêàÿ è øâåäñêàÿ.;;x
+setting_culture_full_random_2;Full Random;;;;;;;;;;;Ïîëíîñòüþ ñëó÷àéíûå;;x
+setting_culture_full_random_2_tooltip;Individual Cultures and their groups will be kept together, but will appear in random locations on the map. §YAll§! County Cultures are included in this setting. In certain cases, you might end up with both the original and the evolutionary form of a Culture, such as Norse and Swedish.;;;;;;;;;;;Êóëüòóðû è èõ ãðóïïû áóäóò ñîáðàíû âìåñòå, íî â ñëó÷àéíîì ïîðÿäêå íà êàðòå ìèðà. Êóëüòóðà §Yêàæäîãî§! îêðóãà áóäåò âêëþ÷åíà â ñòàðòîâûé àëãîðèòì. Â íåêîòîðûõ ñëó÷àÿõ ýòî îçíà÷àåò, ÷òî äðåâíÿÿ êóëüòóðà è å¸ âèäîèçìåí¸ííàÿ ôîðìà áóäóò ñóùåñòâîâàòü ïàðàëëåëüíî, íàïðèìåð, ñêàíäèíàâñêàÿ è øâåäñêàÿ.;;x
+setting_culture_full_random_3;Full Random;;;;;;;;;;;Ïîëíîñòüþ ñëó÷àéíûå;;x
+setting_culture_full_random_3_tooltip;Individual Cultures and their groups will be kept together, but will appear in random locations on the map. §YAll§! County Cultures are included in this setting. In certain cases, you might end up with both the original and the evolutionary form of a Culture, such as Norse and Swedish.;;;;;;;;;;;Êóëüòóðû è èõ ãðóïïû áóäóò ñîáðàíû âìåñòå, íî â ñëó÷àéíîì ïîðÿäêå íà êàðòå ìèðà. Êóëüòóðà §Yêàæäîãî§! îêðóãà áóäåò âêëþ÷åíà â ñòàðòîâûé àëãîðèòì. Â íåêîòîðûõ ñëó÷àÿõ ýòî îçíà÷àåò, ÷òî äðåâíÿÿ êóëüòóðà è å¸ âèäîèçìåí¸ííàÿ ôîðìà áóäóò ñóùåñòâîâàòü ïàðàëëåëüíî, íàïðèìåð, ñêàíäèíàâñêàÿ è øâåäñêàÿ.;;x
+setting_culture_full_random_4;Full Random;;;;;;;;;;;Ïîëíîñòüþ ñëó÷àéíûå;;x
+setting_culture_full_random_4_tooltip;Individual Cultures and their groups will be kept together, but will appear in random locations on the map. §YAll§! County Cultures are included in this setting. In certain cases, you might end up with both the original and the evolutionary form of a Culture, such as Norse and Swedish.;;;;;;;;;;;Êóëüòóðû è èõ ãðóïïû áóäóò ñîáðàíû âìåñòå, íî â ñëó÷àéíîì ïîðÿäêå íà êàðòå ìèðà. Êóëüòóðà §Yêàæäîãî§! îêðóãà áóäåò âêëþ÷åíà â ñòàðòîâûé àëãîðèòì. Â íåêîòîðûõ ñëó÷àÿõ ýòî îçíà÷àåò, ÷òî äðåâíÿÿ êóëüòóðà è å¸ âèäîèçìåí¸ííàÿ ôîðìà áóäóò ñóùåñòâîâàòü ïàðàëëåëüíî, íàïðèìåð, ñêàíäèíàâñêàÿ è øâåäñêàÿ.;;x
+setting_culture_full_random_5;Full Random;;;;;;;;;;;Ïîëíîñòüþ ñëó÷àéíûå;;x
+setting_culture_full_random_5_tooltip;Individual Cultures and their groups will be kept together, but will appear in random locations on the map. §YAll§! County Cultures are included in this setting. In certain cases, you might end up with both the original and the evolutionary form of a Culture, such as Norse and Swedish.;;;;;;;;;;;Êóëüòóðû è èõ ãðóïïû áóäóò ñîáðàíû âìåñòå, íî â ñëó÷àéíîì ïîðÿäêå íà êàðòå ìèðà. Êóëüòóðà §Yêàæäîãî§! îêðóãà áóäåò âêëþ÷åíà â ñòàðòîâûé àëãîðèòì. Â íåêîòîðûõ ñëó÷àÿõ ýòî îçíà÷àåò, ÷òî äðåâíÿÿ êóëüòóðà è å¸ âèäîèçìåí¸ííàÿ ôîðìà áóäóò ñóùåñòâîâàòü ïàðàëëåëüíî, íàïðèìåð, ñêàíäèíàâñêàÿ è øâåäñêàÿ.;;x
+setting_culture_full_random_6;Full Random;;;;;;;;;;;Ïîëíîñòüþ ñëó÷àéíûå;;x
+setting_culture_full_random_6_tooltip;Individual Cultures and their groups will be kept together, but will appear in random locations on the map. §YAll§! County Cultures are included in this setting. In certain cases, you might end up with both the original and the evolutionary form of a Culture, such as Norse and Swedish.;;;;;;;;;;;Êóëüòóðû è èõ ãðóïïû áóäóò ñîáðàíû âìåñòå, íî â ñëó÷àéíîì ïîðÿäêå íà êàðòå ìèðà. Êóëüòóðà §Yêàæäîãî§! îêðóãà áóäåò âêëþ÷åíà â ñòàðòîâûé àëãîðèòì. Â íåêîòîðûõ ñëó÷àÿõ ýòî îçíà÷àåò, ÷òî äðåâíÿÿ êóëüòóðà è å¸ âèäîèçìåí¸ííàÿ ôîðìà áóäóò ñóùåñòâîâàòü ïàðàëëåëüíî, íàïðèìåð, ñêàíäèíàâñêàÿ è øâåäñêàÿ.;;x
+setting_culture_historical;Historical;;;;;;;;;;;Èñòîðè÷åñêèå;;x
+setting_culture_historical_tooltip;County Cultures are unchanged from history.;;;;;;;;;;;Êóëüòóðû ìåñòíîãî íàñåëåíèÿ ðàïðîñòðàíåíû èñòîðè÷åñêè.;;x
+setting_culture_historical_2;Historical;;;;;;;;;;;Èñòîðè÷åñêèå;;x
+setting_culture_historical_2_tooltip;County Cultures are unchanged from history.;;;;;;;;;;;Ðàñïîëîæåíèå êóëüòóð íà êàðòå íå îòëè÷àåòñÿ îò èñòîðè÷åñêîãî;;x
+setting_culture_historical_3;Historical;;;;;;;;;;;Èñòîðè÷åñêèå;;x
+setting_culture_historical_3_tooltip;County Cultures are unchanged from history.;;;;;;;;;;;Ðàñïîëîæåíèå êóëüòóð íà êàðòå íå îòëè÷àåòñÿ îò èñòîðè÷åñêîãî;;x
+setting_culture_historical_4;Historical;;;;;;;;;;;Èñòîðè÷åñêèå;;x
+setting_culture_historical_4_tooltip;County Cultures are unchanged from history.;;;;;;;;;;;Ðàñïîëîæåíèå êóëüòóð íà êàðòå íå îòëè÷àåòñÿ îò èñòîðè÷åñêîãî;;x
+setting_culture_historical_5;Historical;;;;;;;;;;;Èñòîðè÷åñêèå;;x
+setting_culture_historical_5_tooltip;County Cultures are unchanged from history.;;;;;;;;;;;Ðàñïîëîæåíèå êóëüòóð íà êàðòå íå îòëè÷àåòñÿ îò èñòîðè÷åñêîãî;;x
+setting_culture_historical_6;Historical;;;;;;;;;;;Èñòîðè÷åñêèå;;x
+setting_culture_historical_6_tooltip;County Cultures are unchanged from history.;;;;;;;;;;;Ðàñïîëîæåíèå êóëüòóð íà êàðòå íå îòëè÷àåòñÿ îò èñòîðè÷åñêîãî;;x
+setting_culture_random;Random;;;;;;;;;;;Ñëó÷àéíûå;;x
+setting_culture_random_tooltip;Individual Cultures and their groups will be kept together, but will appear in random locations on the map. Note that only cultures that existed during the selected date will be used.;;;;;;;;;;;Êóëüòóðû è èõ ãðóïïû áóäóò ñîáðàíû âìåñòå, íî â ñëó÷àéíîì ïîðÿäêå íà êàðòå ìèðà. Ó÷òèòå, ÷òî ýòî êîñí¸òñÿ òîëüêî òåõ êóëüòóð, êîòîðûå ñóùåñòâîâàëè íà âûáðàííîì ïåðèîäå èñòîðèè.;;x
+setting_culture_random_2;Random;;;;;;;;;;;Ñëó÷àéíûå;;x
+setting_culture_random_2_tooltip;Individual Cultures and their groups will be kept together, but will appear in random locations on the map. Note that only cultures that existed during the selected date will be used.;;;;;;;;;;;Êóëüòóðû è èõ ãðóïïû áóäóò ñîáðàíû âìåñòå, íî â ñëó÷àéíîì ïîðÿäêå íà êàðòå ìèðà. Ó÷òèòå, ÷òî ýòî êîñí¸òñÿ òîëüêî òåõ êóëüòóð, êîòîðûå ñóùåñòâîâàëè íà âûáðàííîì ïåðèîäå èñòîðèè.;;x
+setting_culture_random_3;Random;;;;;;;;;;;Ñëó÷àéíûå;;x
+setting_culture_random_3_tooltip;Individual Cultures and their groups will be kept together, but will appear in random locations on the map. Note that only cultures that existed during the selected date will be used.;;;;;;;;;;;Êóëüòóðû è èõ ãðóïïû áóäóò ñîáðàíû âìåñòå, íî â ñëó÷àéíîì ïîðÿäêå íà êàðòå ìèðà. Ó÷òèòå, ÷òî ýòî êîñí¸òñÿ òîëüêî òåõ êóëüòóð, êîòîðûå ñóùåñòâîâàëè íà âûáðàííîì ïåðèîäå èñòîðèè.;;x
+setting_culture_random_4;Random;;;;;;;;;;;Ñëó÷àéíûå;;x
+setting_culture_random_4_tooltip;Individual Cultures and their groups will be kept together, but will appear in random locations on the map. Note that only cultures that existed during the selected date will be used.;;;;;;;;;;;Êóëüòóðû è èõ ãðóïïû áóäóò ñîáðàíû âìåñòå, íî â ñëó÷àéíîì ïîðÿäêå íà êàðòå ìèðà. Ó÷òèòå, ÷òî ýòî êîñí¸òñÿ òîëüêî òåõ êóëüòóð, êîòîðûå ñóùåñòâîâàëè íà âûáðàííîì ïåðèîäå èñòîðèè.;;x
+setting_culture_random_5;Random;;;;;;;;;;;Ñëó÷àéíûå;;x
+setting_culture_random_5_tooltip;Individual Cultures and their groups will be kept together, but will appear in random locations on the map. Note that only cultures that existed during the selected date will be used.;;;;;;;;;;;Êóëüòóðû è èõ ãðóïïû áóäóò ñîáðàíû âìåñòå, íî â ñëó÷àéíîì ïîðÿäêå íà êàðòå ìèðà. Ó÷òèòå, ÷òî ýòî êîñí¸òñÿ òîëüêî òåõ êóëüòóð, êîòîðûå ñóùåñòâîâàëè íà âûáðàííîì ïåðèîäå èñòîðèè.;;x
+setting_culture_random_6;Random;;;;;;;;;;;Ñëó÷àéíûå;;x
+setting_culture_random_6_tooltip;Individual Cultures and their groups will be kept together, but will appear in random locations on the map. Note that only cultures that existed during the selected date will be used.;;;;;;;;;;;Êóëüòóðû è èõ ãðóïïû áóäóò ñîáðàíû âìåñòå, íî â ñëó÷àéíîì ïîðÿäêå íà êàðòå ìèðà. Ó÷òèòå, ÷òî ýòî êîñí¸òñÿ òîëüêî òåõ êóëüòóð, êîòîðûå ñóùåñòâîâàëè íà âûáðàííîì ïåðèîäå èñòîðèè.;;x
+setting_dejure;De Jure Kingdoms and Empires;;;;;;;;;;;Äå-þðå êîðîëåâñòâà è èìïåðèè;;x
+setting_dejure_tooltip;Determines what De Jure Kingdoms and Empires will exist.;;;;;;;;;;;Îïðåäåëÿåò, êàêèå äå-þðå êîðîëåâñòâà è èìïåðèè áóäóò ñóùåñòâîâàòü.;;x
+setting_dejure_empire_size;De Jure Empire Size;;;;;;;;;;;Ðàçìåð äå-þðå èìïåðèé;;x
+setting_dejure_empire_size_tooltip;Determines how large Empires will be when De Jure Empires are randomized. The slider sets the minimum and maximum number of Kingdoms per Empire. Depending on their placement, Empires might in rare cases end up below or above the set limits.;;;;;;;;;;;Îïðåäåëÿåò íàñêîëüêî êðóïíûìè áóäóò äå-þðå èìïåðèè. Ïîëçóíîê äà¸ò âîçìîæíîñòü óñòàíîâèòü ìèíèìàëüíîå è ìàêñèìàëüíîå ÷èñëî êîðîëåâñòâ âíóòðè êàæäîé èìïåðèè. Èíîãäà ýòî ÷èñëî ìîæåò áûòü ïðåâûøåíî ââèäó íåâîçìîæíîñòè âïèñàòü ðåçóëüòàò â çàäàííûå ïàðàìåòðû.;;x
+setting_dejure_historical;Historical;;;;;;;;;;;Èñòîðè÷åñêèå;;x
+setting_dejure_historical_tooltip;De Jure Kingdoms and Empires are left unchanged from history.;;;;;;;;;;;Äå-þðå êîðîëåâñòâà è èìïåðèè íå áóäóò îòëè÷àòüñÿ îò èñòîðèè.;;x
+setting_dejure_kingdom_size;De Jure Kingdom Size;;;;;;;;;;;Ðàçìåð äå-þðå êîðîëåâñòâ;;x
+setting_dejure_kingdom_size_tooltip;Determines how large Kingdoms will be when De Jure Kingdoms are randomized. The slider sets the minimum and maximum number of Duchies per Kingdom. Depending on their placement, Kingdoms might in rare cases end up below or above the set limits.;;;;;;;;;;;Îïðåäåëÿåò íàñêîëüêî êðóïíûìè áóäóò äå-þðå êîðîëåâñòâà. Ïîëçóíîê äà¸ò âîçìîæíîñòü óñòàíîâèòü ìèíèìàëüíîå è ìàêñèìàëüíîå ÷èñëî ãåðöîãñòâ âíóòðè êàæäîãî êîðîëåâñòâà. Èíîãäà ýòî ÷èñëî ìîæåò áûòü ïðåâûøåíî ââèäó íåâîçìîæíîñòè âïèñàòü ðåçóëüòàò â çàäàííûå ïàðàìåòðû.;;x
+setting_dejure_no_empires;No Empires;;;;;;;;;;;Íåò èìïåðèé;;x
+setting_dejure_no_empires_tooltip;All De Jure Empires are removed.;;;;;;;;;;;Âñå äå-þðå èìïåðèè áóäóò óäàëåíû ñ êàðòû.;;x
+setting_dejure_no_kingdoms;No Kingdoms;;;;;;;;;;;Íåò êîðîëåâñòâ;;x
+setting_dejure_no_kingdoms_tooltip;All De Jure Kingdoms are removed, as well as all De Jure Empires.;;;;;;;;;;;Âñå äå-þðå êîðîëåâñòâà áóäóò óäàëåíû ñ êàðòû, êàê è èìïåðèè.;;x
+setting_dejure_random;Random;;;;;;;;;;;Ñëó÷àéíûå;;x
+setting_dejure_random_tooltip;The default De Jure setup for Kingdoms and Empires will be dynamically generated based on the parameters set below (§Y'De Jure Kingdom Size'§! and §Y'De Jure Empire Size'§!).;;;;;;;;;;;Ñòàðòîâàÿ äå-þðå êàðòà êîðîëåâñòâ è èìïåðèé áóäåò ñãåíåðèðîâàíà â çàâèñèìîñòè îò ïàðàìåòðîâ, íàñòðàèâàåìûõ íèæå ïî ñïèñêó - §YÐàçìåð äå-þðå êîðîëåâñòâ§! è §YÐàçìåð äå-þðå èìïåðèé§!.;;x
+setting_female_ruler_percentage;Female Ruler Percentage;;;;;;;;;;;Ïðîöåíò æåíùèí-ïðàâèòåëåé;;x
+setting_female_ruler_percentage_tooltip;Determines the chance of each generated Ruler being a woman.;;;;;;;;;;;Îïðåäåëÿåò øàíñ ñîçäàíèÿ ïðàâèòåëåé æåíñêîãî ïîëà íà ôîíå îáùåãî ÷èñëà ïðàâèòåëåé.;;x
+setting_holding_slots;Holding Slots;;;;;;;;;;;×èñëî ÿ÷ååê (çåìåëü äëÿ ïîñåëåíèé);;x
+setting_holding_slots_tooltip;Determines the number of Holding Slots each County will have.;;;;;;;;;;;Îïðåäåëåÿåò ñêîëüêî èìåííî ÿ÷ååê äëÿ ïîñåëåíèé ïîëó÷èò êàæäûé îêðóã (ãðàôñòâî).;;x
+setting_holding_slots_five;Five;;;;;;;;;;;Ïÿòü;;x
+setting_holding_slots_five_tooltip;Each County will have five Holding Slots.;;;;;;;;;;;Êàæäûé îêðóã (ãðàôñòâî) ïîëó÷èò ïÿòü ÿ÷ååê äëÿ ïîñåëåíèé.;;x
+setting_holding_slots_four;Four;;;;;;;;;;;×åòûðå;;x
+setting_holding_slots_four_tooltip;Each County will have four Holding Slots.;;;;;;;;;;;Êàæäûé îêðóã (ãðàôñòâî) ïîëó÷èò ÷åòûðå ÿ÷åéêè äëÿ ïîñåëåíèé.;;x
+setting_holding_slots_historical;Historical;;;;;;;;;;;Èñòîðè÷åñêîå;;x
+setting_holding_slots_historical_tooltip;The Holding Slots are unchanged from history.;;;;;;;;;;;×èñëî äîñòóïíûõ ÿ÷ååê íå îòëè÷àåòñÿ îò èñòîðè÷åñêîãî.;;x
+setting_holding_slots_one;One;;;;;;;;;;;Îäíà;;x
+setting_holding_slots_one_tooltip;Each County will have one Holding Slot.;;;;;;;;;;;Êàæäûé îêðóã (ãðàôñòâî) ïîëó÷èò òîëüêî îäíó ÿ÷åéêó äëÿ ïîñåëåíèÿ.;;x
+setting_holding_slots_random;Random;;;;;;;;;;;Ñëó÷àéíîå;;x
+setting_holding_slots_random_tooltip;Each County will randomly be assigned between one to seven Holding Slots.;;;;;;;;;;;Êàæäûé îêðóã (ãðàôñòâî) ïîëó÷èò îò îäíîé äî ñåìè ÿ÷ååê äëÿ ïîñåëåíèé.;;x
+setting_holding_slots_seven;Seven;;;;;;;;;;;Ñåìü;;x
+setting_holding_slots_seven_tooltip;Each County will have seven Holding Slots.;;;;;;;;;;;Êàæäûé îêðóã (ãðàôñòâî) ïîëó÷èò ñåìü ÿ÷ååê äëÿ ïîñåëåíèé.;;x
+setting_holding_slots_six;Six;;;;;;;;;;;Øåñòü;;x
+setting_holding_slots_six_tooltip;Each County will have six Holding Slots.;;;;;;;;;;;Êàæäûé îêðóã (ãðàôñòâî) ïîëó÷èò øåñòü ÿ÷ååê äëÿ ïîñåëåíèé.;;x
+setting_holding_slots_three;Three;;;;;;;;;;;Òðè;;x
+setting_holding_slots_three_tooltip;Each County will have three Holding Slots.;;;;;;;;;;;Êàæäûé îêðóã (ãðàôñòâî) ïîëó÷èò òðè ÿ÷åéêè äëÿ ïîñåëåíèé.;;x
+setting_holding_slots_two;Two;;;;;;;;;;;Äâå;;x
+setting_holding_slots_two_tooltip;Each County will have two Holding Slots.;;;;;;;;;;;Êàæäûé îêðóã (ãðàôñòâî) ïîëó÷èò äâå ÿ÷åéêè äëÿ ïîñåëåíèé.;;x
+setting_holding_types;Holding Types;;;;;;;;;;;Òèïû ïîñåëåíèé;;x
+setting_holding_types_tooltip;Determines which Holding Types are present in the game.;;;;;;;;;;;Îïðåäåëÿåò êàêèå òèïû ïîñåëåíèé áóäóò ïðåäñòàâëåíû â èãðå.;;x
+setting_holding_types_feudal;Feudal;;;;;;;;;;;Ôåîäàëüíûå;;x
+setting_holding_types_feudal_tooltip;Every County will have up to three Holdings generated: A Castle, a Temple, and a City.;;;;;;;;;;;Êàæäûé îêðóã (ãðàôñòâî) ïîëó÷èò äî òð¸õ ïîñåëåíèé êàæäîãî òèïà (çàìîê, õðàì è ãîðîä).;;x
+setting_holding_types_historical;Historical;;;;;;;;;;;Èñòîðè÷åñêèå;;x
+setting_holding_types_historical_tooltip;County Holdings are unchanged from history.;;;;;;;;;;;Òèïû ñòîëè÷íûõ ïîñåëåíèé êàæäîãî îêðóãà (ãðàôñòâà) íå áóäóò îòëè÷àòüñÿ îò èñòîðè÷åñêèõ;;x
+setting_holding_types_nomadic;Nomadic;;;;;;;;;;;Êî÷åâûå;;x
+setting_holding_types_nomadic_tooltip;Every County will be Nomadic.;;;;;;;;;;;Êàæäûé îêðóã (ãðàôñòâî) áóäåò êî÷åâîãî òèïà (áåç ïîñåëåíèé ëèáî ñ ëàãåðåì).;;x
+setting_holding_types_tribal;Tribal;;;;;;;;;;;Ïëåìåííûå;;x
+setting_holding_types_tribal_tooltip;Every County will have a single Tribal holding.;;;;;;;;;;;Êàæäûé îêðóã (ãðàôñòâî) ïîëó÷èò îäíî ïëåìåííîå ïîñåëåíèå (ñåëî).;;x
+setting_holding_types_tribal_nomadic;Tribal & Nomadic;;;;;;;;;;;Ïëåìåííûå è êî÷åâûå;;x
+setting_holding_types_tribal_nomadic_tooltip;Counties with certain Cultures will be Nomadic. Any other County will have a single Tribal Holding;;;;;;;;;;;Îêðóãà (ãðàôñòâà) â çàâèñèìîñòè îò êóëüòóðû èõ íàñåëåíèÿ áóäóò ëèáî ïëåìåííûìè ëèáî êî÷åâûìè.;;x
+setting_marriage_percentage;Marriage Percentage;;;;;;;;;;;Ïðîöåíò áðàêîâ;;x
+setting_marriage_percentage_tooltip;Determines the chance of each generated adult Ruler being married. Female rulers will be matrilineally married.;;;;;;;;;;;Îïðåäåëÿåòñÿ øàíñ, ñ êîòîðûì êàæäûé âçðîñëûé ïðàâèòåëü áóäåò ñîñòîÿòü â áðàêå. Ïðàâèòåëè-æåíùèíû áóäóò â ìàòðèëèíåéíîì áðàêå.;;x
+setting_names;Culture and Religion Names;;;;;;;;;;;Íàçâàíèÿ ðåëèãèé è êóëüòóð;;x
+setting_names_tooltip;Determines whether Culture and Religion names are left historical, or randomized.;;;;;;;;;;;Îïðåäåëåÿåò áóäóò ëè íàçâàíèÿ êóëüòóð è ðåëèãèé èñòîðè÷åñêèìè èëè ïðèäóìàííûìè ñëó÷àéíûì îáðàçîì.;;x
+setting_names_historical;Historical;;;;;;;;;;;Èñòîðè÷åñêèå;;x
+setting_names_historical_tooltip;Culture and Religion names are left unchanged from history.;;;;;;;;;;;Êóëüòóðû è ðåëèãèè áóäóò èìåòü èñòîðè÷åñêèå íàçâàíèÿ.;;x
+setting_names_random;Random;;;;;;;;;;;Ñëó÷àéíûå;;x
+setting_names_random_tooltip;Culture and Religion names are randomized.\n\n - Note that if you use the §YEU4 Converter§! to transfer the game, the §Yoriginal§! names will be used.;;;;;;;;;;;Íàçâàíèÿ êóëüòóð è ðåëèãèé âûáèðàþòñÿ ñëó÷àéíî.\n- Ó÷òèòå, ÷òî §YEU4 Converter§! áóäåò ïî-ïðåæíåìó èñïîëüçîâàòü îðèãèíàëüíûå íàçâàíèÿ ïðè ïåðåíîñå èãðû.;;x
+setting_names_random_culture;Random Culture Names;;;;;;;;;;;Ñëó÷àéíûå íàçâàíèÿ êóëüòóð;;x
+setting_names_random_culture_tooltip;Culture names are randomized.;;;;;;;;;;;Íàçâàíèÿ êóëüòóð ãåíåðèðóþòñÿ ñëó÷àéíûì îáðàçîì.;;x
+setting_names_random_religion;Random Religion Names;;;;;;;;;;;Ñëó÷àéíûå íàçâàíèÿ ðåëèãèé;;x
+setting_names_random_religion_tooltip;Religion names are randomized.;;;;;;;;;;;Íàçâàíèÿ ðåëèãèé ãåíåðèðóþòñÿ ñëó÷àéíûì îáðàçîì.;;x
+setting_num_counties;Max Number of Counties;;;;;;;;;;;Ìàêñèìàëüíîå ÷èñëî ãðàôñòâ;;x
+setting_num_counties_tooltip;Determines the maximum number of Counties each ruler can hold personally. Most will hold a low number of Counties even if this is set high.;;;;;;;;;;;Îïðåäåëåíÿåò íàèáîëüøåå äîïóñòèìîå êîëè÷åñòâî îêðóãîâ (ãðàôñòâ), êîòîðûìè êàæäûé ïðàâèòåëü ìîæåò ëè÷íî îáëàäàòü. Äàæå åñëè âûáðàòü ýòî ÷èñëî áîëüøèì, áîëüøèñòâî ïðàâèòåëåé âñ¸ ðàâíî áóäóò èìåòü ìàëî çåìåëü.;;x
+setting_num_dukes;Number of Dukes;;;;;;;;;;;×èñëî ãåðöîãîâ;;x
+setting_num_dukes_tooltip;Determines how common Dukes are.;;;;;;;;;;;Îïðåäåëÿåòñÿ êàê ÷àñòî áóäóò âñòðå÷àòüñÿ â èãðå ãåðöîãè.;;x
+setting_num_dukes_few;Few;;;;;;;;;;;Ìàëî;;x
+setting_num_dukes_few_tooltip;A low number of Dukes are generated.;;;;;;;;;;;Ìàëîå ÷èñëî ãåðöîãîâ.;;x
+setting_num_dukes_many;Many;;;;;;;;;;;Ìíîãî;;x
+setting_num_dukes_many_tooltip;A massive number of Dukes are generated.;;;;;;;;;;;Áîëüøîå ÷èñëî ãåðöîãîâ.;;x
+setting_num_dukes_none;None;;;;;;;;;;;Íèñêîëüêî;;x
+setting_num_dukes_none_tooltip;No Dukes will be generated.;;;;;;;;;;;Ãåðöîãè ñîçäàíû íå áóäóò.;;x
+setting_num_dukes_normal;Normal;;;;;;;;;;;Íîðìàëüíî;;x
+setting_num_dukes_normal_tooltip;A significant number of Dukes are generated.;;;;;;;;;;;Çíà÷èòåëüíîå ÷èñëî ãåðöîãîâ.;;x
+setting_num_emperors;Number of Emperors;;;;;;;;;;;×èñëî èìïåðàòîðîâ;;x
+setting_num_emperors_tooltip;Determines how common Emperors are.\n\n - Results may vary if the §Y'De Jure Kingdom Size'§! or §Y'De Jure Empire Size'§! are set very high.;;;;;;;;;;;Îïðåäåëÿåò êàê ìíîãî áóäåò â èãðå èìïåðàòîðîâ.\n- Ðåçóëüòàòû ìîãóò îòëè÷àòüñÿ îò çàäàííûõ â ñëó÷àå, êîãäà §Yðàçìåð äå-þðå êîðîëåâñòâà§! èëè §Yðàçìåð äå-þðå èìïåðèè§! ñëèøêîì âåëèê.;;x
+setting_num_emperors_few;Few;;;;;;;;;;;Ìàëî;;x
+setting_num_emperors_few_tooltip;Few to no Emperors are generated.;;;;;;;;;;;Ìàëî èëè ñîâñåì íåò èìïåðàòîðîâ.;;x
+setting_num_emperors_many;Many;;;;;;;;;;;Ìíîãî;;x
+setting_num_emperors_many_tooltip;A large number of Emperors are generated.;;;;;;;;;;;Íàñòîëüêî ìíîãî èìïåðàòîðîâ, íàñêîëüêî ýòî âîçìîæíî.;;x
+setting_num_emperors_none;None;;;;;;;;;;;Íèñêîëüêî;;x
+setting_num_emperors_none_tooltip;No Emperors will be generated.;;;;;;;;;;;Èìïåðàòîðû ñîçäàíû íå áóäóò.;;x
+setting_num_emperors_normal;Normal;;;;;;;;;;;Íîðìàëüíî;;x
+setting_num_emperors_normal_tooltip;A handful of Emperors are generated.;;;;;;;;;;;Äîñòàòî÷íîå êîëè÷åñòâî èìïåðàòîðîâ.;;x
+setting_num_kings;Number of Kings;;;;;;;;;;;×èñëî êîðîëåé;;x
+setting_num_kings_tooltip;Determines how common Kings are.\n\n - Results may vary if the §Y'De Jure Kingdom Size'§! or §Y'De Jure Empire Size'§! are set very high.;;;;;;;;;;;Îïðåäåëÿåò êàê ìíîãî â èãðå áóäåò êîðîëåé.\n- Ðåçóëüòàòû ìîãóò îòëè÷àòüñÿ îò çàäàííûõ â ñëó÷àå, êîãäà §Yðàçìåð äå-þðå êîðîëåâñòâà§! èëè §Yðàçìåð äå-þðå èìïåðèè§! ñëèøêîì âåëèê.;;x
+setting_num_kings_few;Few;;;;;;;;;;;Ìàëî;;x
+setting_num_kings_few_tooltip;A low number of Kings are generated.;;;;;;;;;;;Ìàëîå ÷èñëî êîðîëåé.;;x
+setting_num_kings_many;Many;;;;;;;;;;;Ìíîãî;;x
+setting_num_kings_many_tooltip;A large number of Kings are generated.;;;;;;;;;;;Áîëüøîå ÷èñëî êîðîëåé.;;x
+setting_num_kings_none;None;;;;;;;;;;;Íèñêîëüêî;;x
+setting_num_kings_none_tooltip;No Kings will be generated.;;;;;;;;;;;Êîðîëè ñîçäàíû íå áóäóò.;;x
+setting_num_kings_normal;Normal;;;;;;;;;;;Íîðìàëüíî;;x
+setting_num_kings_normal_tooltip;A significant number of Kings are generated.;;;;;;;;;;;Çíà÷èòåëüíîå ÷èñëî êîðîëåé.;;x
+setting_num_of_children;Number of Children;;;;;;;;;;;×èñëî äåòåé;;x
+setting_num_of_children_tooltip;Determines the minimum and maximum number of children generated for each Ruler. Note that a Ruler cannot have more children than their age allows, and that twins count as one child.;;;;;;;;;;;Îïðåäåëÿåò ìèíèìàëüíîå è ìàêñèìàëüíîå ÷èñëî äåòåé, ñîçäàííûõ äëÿ êàæäîãî ïðàâèòåëÿ. Ó÷òèòå, ÷òî ïðàâèòåëü íå ìîæåò èìåòü áîëüøå äåòåé, ÷åì åìó ïîçâîëÿåò âîçðàñò, à áëèçíåöû ñ÷èòàþòñÿ çà îäíîãî ðåá¸íêà.;;x
+setting_random_holdings;Holding Types;;;;;;;;;;;Òèïû ïîñåëåíèé;;x
+setting_random_holdings_tooltip;Determines which Holding Types are present in the game.;;;;;;;;;;;Îïðåäåëÿåò êàêèå òèïû ïîñåëåíèé áóäóò â èãðå.;;x
+setting_random_holdings_balanced;Balanced;;;;;;;;;;;Ñáàëàíñèðîâàíî;;x
+setting_random_holdings_balanced_tooltip;The number of Feudal Counties will be comparable to the number of Tribal and Nomadic Counties combined.;;;;;;;;;;;×èñëî ôåîäàëüíûõ ïîñåëåíèé áóäåò ñðàâíèìî ñ ÷èñëîì ïëåìåííûõ è êî÷åâûõ âìåñòå âçÿòûõ.;;x
+setting_random_holdings_feudal_heavy;Feudal-Heavy;;;;;;;;;;;Â îñíîâíîì ôåîäàëüíûå;;x
+setting_random_holdings_feudal_heavy_tooltip;Most of the world will be Feudal, with only a small amount of Tribal and Nomadic Counties.;;;;;;;;;;;Áîëüøàÿ ÷àñòü ïîñåëåíèé áóäåò ôåîäàëüíîé ñ íåáîëüøèì êîëè÷åñòâîì ïëåìåííûõ è êî÷åâûõ.;;x
+setting_random_holdings_tribal_heavy;Tribal-Heavy;;;;;;;;;;;Â îñíîâíîì ïëåìåííûå;;x
+setting_random_holdings_tribal_heavy_tooltip;Most of the world will be Tribal or Nomadic, with only a small amount of Feudal Counties.;;;;;;;;;;;Áîëüøóþ ÷àñòü ìèðà áóäóò çàíèìàòü ïëåìåííûå è êî÷åâûå ïîñåëåíèÿ ñ ðåäêèì èñëþ÷åíèåì â âèäå ôåîäàëüíûõ.;;x
+setting_random_scenario_artifacts;Random Artifacts;;;;;;;;;;;Ñëó÷àéíûå àðòåôàêòû;;x
+setting_random_scenario_artifacts_tooltip;Generates a number of special artifacts, spread across the world.;;;;;;;;;;;Ãåíåðèðóåò íåêîòîðîå ÷èñëî îñîáûõ àðòåôàêòîâ ïî âñåìó ìèðó.;;x
+setting_random_scenario_bloodlines;Random Bloodlines;;;;;;;;;;;Ñëó÷àéíûå ðîäîñëîâíûå;;x
+setting_random_scenario_bloodlines_tooltip;Generates several great Bloodlines across the world.;;;;;;;;;;;Áóäåò ñîçäàíî íåñêîëüêî âåëèêèõ ðîäîñëîâíûõ (êðîâíûõ ëèíèé) ïî âñåìó ìèðó.;;x
+setting_random_scenario_byz;Byzantine Empire;;;;;;;;;;;Âèçàíòèéñêàÿ èìïåðèÿ;;x
+setting_random_scenario_byz_tooltip;Generates a realm somewhere in the world based upon the Byzantine Empire. The realm will be large and centralized, with Viceroyalty laws in effect. The Emperor will start off with all De Jure Duchy titles, to be handed out as Viceroyalties.\n\n - Requires §Y'De Jure Kingdoms and Empires'§! be set to 'Random'.;;;;;;;;;;;Íà ñòàðòîâîé êàðòå áóäåò ñîçäàíà ñòðàíà, íàïîìèíàþùàÿ Âîñòî÷íóþ Ðèìñêóþ èìïåðèþ - áîëüøàÿ è öåíòðàëèçîâàííÿ, â êîòîðîé âñå äå-þðå ãåðöîãñòâà ïðèíàäëåæàò íàìåñòíèêàì èìïåðàòîðà.\n\n- Íåîáõîäèìî, ÷òîáû ïàðàìåòð §YÄå-þðå êîðîëåâñòâà è èìïåðèè§! áûë óñòàíîâëåí â ïîëîæåíèå §YÑëó÷àéíûå§!.;;x
+setting_random_scenario_hre;Holy Roman Empire;;;;;;;;;;;Ñâÿùåííàÿ Ðèìñêàÿ èìïåðèÿ;;x
+setting_random_scenario_hre_tooltip;Generates a realm somewhere in the world based upon the Holy Roman Empire. The realm will be large and religiously uniform, but heavily decentralized and elective.\n\n - Requires §Y'De Jure Kingdoms and Empires'§! be set to 'Random'.;;;;;;;;;;;Íà ñòàðòîâîé êàðòå áóäåò ñîçäàíà ñòðàíà, íàïîìèíàþùàÿ Ñâÿùåííóþ Ðèìñêóþ èìïåðèþ - áîëüøàÿ è îäíîðîäíàÿ ïî âåðîèñïîâåäàíèþ, íî äåöåíòðàëèçîâàííàÿ ñ âûáîðíûì íàñëåäîâàíèåì.\n\n- Íåîáõîäèìî, ÷òîáû ïàðàìåòð §YÄå-þðå êîðîëåâñòâà è èìïåðèè§! áûë óñòàíîâëåí â ïîëîæåíèå §YÑëó÷àéíûå§!.;;x
+setting_random_scenario_merchant_republics;Merchant Republics;;;;;;;;;;;Òîðãîâûå ðåñïóáëèêè;;x
+setting_random_scenario_merchant_republics_tooltip;Generates a number of Merchant Republics throughout the world. Merchant Republics will only spawn if there are enough coastal cities to accommodate them.;;;;;;;;;;;Íà ñòàðòå áóäåò ñîçäàíî íåñêîëüêî òîðãîâûõ ðåñïóáëèê ïî âñåìó ìèðó. Îíè ìîãóò ïîÿâèòüñÿ òîëüêî òàì, ãäå åñòü äîñòàòî÷íî ïðèáðåæíûõ ãîðîäîâ.;;x
+setting_random_scenario_more_pagans;More Pagans;;;;;;;;;;;Áîëüøå ÿçû÷íèêîâ;;x
+setting_random_scenario_more_pagans_tooltip;Increases the amount of Pagans in the world. Note that in rare cases the Pagans can be cut off from being assigned more land.;;;;;;;;;;;Óâåëè÷èâàåò êîëè÷åñòâî ÿçû÷íèêîâ â ìèðå. Ó÷òèòå, ÷òî â ðåäêèõ ñëó÷àÿõ ÿçû÷íèêè ìîãóò íå ïîëó÷èòü áîëüøå çåìåëü èç-çà ïðîòèâîðå÷èÿ â ïàðàìåòðàõ.;;x
+setting_random_scenario_theocracies;Minor Theocracies;;;;;;;;;;;Òåîêðàòèè;;x
+setting_random_scenario_theocracies_tooltip;Generates a small portion of Theocracies. Theocracies will only spawn if there are enough temples to accommodate them.;;;;;;;;;;;Áóäåò ñîçäàíî íåáîëüøîå êîëè÷åñòâî òåîêðàòèé. Îíè ìîãóò ïîÿâèòüñÿ òîëüêî òàì, ãäå åñòü äîñòàòî÷íî õðàìîâ.;;x
+setting_religion;Religions;;;;;;;;;;;Ðåëèãèè;;x
+setting_religion_tooltip;Determines where and which Religions will be spread across the map.;;;;;;;;;;;Îïðåäåëÿåò êàê ðåëèãèè áóäóò ðàñïîëîæåíû íà ìèðîâîé êàðòå.;;x
+setting_religion_features;Religion Features;;;;;;;;;;;Îñîáåííîñòè ðåëèãèé;;x
+setting_religion_features_tooltip;Determines whether Religions will work historically, or with randomized features.;;;;;;;;;;;Îïðåäåëÿåò, áóäóò ëè îñîáåííîñòè êàæäîé ðåëèãèè ñîîòâåòñòâîâàòü èñòîðèè èëè âûáðàíû ñëó÷àéíî.;;x
+setting_religion_features_historical;Historical;;;;;;;;;;;Èñòîðè÷åñêèå;;x
+setting_religion_features_historical_tooltip;Religions have their historical features.;;;;;;;;;;;Ðåëèãèè áóäóò èìåòü îñîáåííîñòè, ñîîòâåòñòâóþùèå èñòîðèè.;;x
+setting_religion_features_random;Random;;;;;;;;;;;Ñëó÷àéíûå;;x
+setting_religion_features_random_tooltip;Religions have their features randomized.\n\n - Requires §Y'Culture and Religion Names'§! to be set to 'Random'. If not, religious descriptions and their effects might not correlate.;;;;;;;;;;;Îñîáåííîñòè ðåëèãèé âûáèðàþòñÿ ñëó÷àéíûì îáðàçîì.\n- Íåîáõîäèìî, ÷òîáû §YÍàçâàíèÿ ðåëèãèé§! áûëè óñòàíîâëåíû â ïîëîæåíèå §YÑëó÷àéíûå§!. Åñëè ýòîãî íå ñäåëàòü, îïèñàíèÿ ðåëèãèé ìîãóò íå ñîâïàäàòü ñ èõ îñîáåííîñòÿìè.;;x
+setting_religion_full_random;Full Random;;;;;;;;;;;Ïîëíîñòüþ ñëó÷àéíûå;;x
+setting_religion_full_random_tooltip;Individual County Religions and their groups will be kept together, but will appear in random locations on the map. Heresies and special religions, such as the Aztec religion, are included.;;;;;;;;;;;Ðåëèãèè è èõ ãðóïïû áóäóò ñîáðàíû âìåñòå, íî â ñëó÷àéíîì ïîðÿäêå íà êàðòå ìèðà. Åðåñè è ïðî÷èå ðåëèãèè, êîòîðûõ îáû÷íî íå áûâàåò íà êàðòå, íàïðèìåð, àöòåêñêîå ÿçû÷åñòâî, áóäóò ñãåíåðèðîâàíû íàðàâíå ñ îñòàëüíûìè.;;x
+setting_religion_historical;Historical;;;;;;;;;;;Èñòîðè÷åñêèå;;x
+setting_religion_historical_tooltip;County religions are unchanged from history.;;;;;;;;;;;Ðåëèãèè ìåñòíîãî íàñåëåíèÿ ðàñïðîñòðàíåíû èñòîðè÷åñêè.;;x
+setting_religion_random;Random;;;;;;;;;;;Ñëó÷àéíûå;;x
+setting_religion_random_tooltip;Individual County Religions and their groups will be kept together, but will appear in random locations on the map. Most Heresies and special religions, such as the Aztec religion, are not included.;;;;;;;;;;;Ðåëèãèè è èõ ãðóïïû áóäóò ñîáðàíû âìåñòå, íî â ñëó÷àéíîì ïîðÿäêå íà êàðòå ìèðà. Áîëüøèíñòâî åðåñåé è òåõ ðåëèãèé, êîòîðûõ íåò íà êàðòå, íàïðèìåð, àöòåêñêîå ÿçû÷åñòâî, íå áóäóò ñãåíåðèðîâàíû.;;x
+setting_shattered_cbs;Consolidation Casus Belli;;;;;;;;;;;Îáúåäèíèòåëüíûå âîéíû;;x
+setting_shattered_cbs_tooltip;Determines whether or not (or for how long) characters will be provided with a special County-conquest Casus Belli, designed to speed up the early game.;;;;;;;;;;;Îïðåäåëÿåò áóäóò ëè è, åñëè áóäóò, òî êàê äîëãî, ïåðñîíàæè èñïîëüçîâàòü îñîáûé casus belli äëÿ âåäåíèÿ îáúåäèíèòåëüíûõ âîéí, ïðèäóìàííûé ñïåöèàëüíî äëÿ òîãî, ÷òîáû áûñòðî îáúåäèíèòü êðóïíûå ãîñóäàðñòâà â ñàìîì íà÷àëå èãðû.;;x
+setting_shattered_cbs_off;Disabled;;;;;;;;;;;Çàïðåùåíû;;x
+setting_shattered_cbs_off_tooltip;No special County-conquest Casus Belli will be available.;;;;;;;;;;;Îñîáûé Casus Belli íå áóäåò äîñòóïåí.;;x
+setting_shattered_cbs_on_limited;Enabled (Limited 25 years);;;;;;;;;;;Äîñòóïíû (ïåðâûå 25 ëåò);;x
+setting_shattered_cbs_on_limited_tooltip;The special County-conquest Casus Belli will be available for 25 years, after which it will be disabled.;;;;;;;;;;;Îñîáûé Casus Belli áóäåò äîñòóïåí â òå÷åíèå 25 ëåò ñ ìîìåíòà ñòàðòà èãðû.;;x
+setting_shattered_cbs_on_long;Enabled (Limited 100 years);;;;;;;;;;;Äîñòóïíû (ïåðâûå 100 ëåò);;x
+setting_shattered_cbs_on_long_tooltip;The special County-conquest Casus Belli will be available for 100 years, after which it will be disabled.;;;;;;;;;;;Îñîáûé Casus Belli áóäåò äîñòóïåí â òå÷åíèå 100 ëåò ñ ìîìåíòà ñòàðòà èãðû.;;x
+setting_shattered_cbs_on_permanent;Enabled (Permanent);;;;;;;;;;;Äîñòóïíû (âñåãäà);;x
+setting_shattered_cbs_on_permanent_tooltip;The special County-conquest Casus Belli will be permanently available.;;;;;;;;;;;Îñîáûé Casus Belli áóäåò äîñòóïåí â òå÷åíèå âñåé èãðû.;;x
+setting_shattered_conquerors;Great Conquerors;;;;;;;;;;;Âåëèêèå çàâîåâàòåëè;;x
+setting_shattered_conquerors_tooltip;Determines how the game will set up Great Conquerors. A Great Conqueror is a randomly selected AI ruler given boosted stats, a Bloodline, a big army, and access to an Invasion-type Casus Belli for the duration of their lifetime. Great Conquerors will not spawn close together, nor next to a player.;;;;;;;;;;;Îïðåäåëÿåò êàê èãðà ðàñïðåäåëèò âåëèêèõ çàâîåâàòåëåé. Âåëèêèé çàâîåâàòåëü - ýòî ñëó÷àéíî âûáðàííûé ÈÈ-ïðàâèòåëü, êîòîðîìó èñêóññòâåííî ïîâûøåíû âñå õàðàêòåðèñòèêè è íàâûêè, äàíà ñâîÿ ðîäîñëîâíàÿ, áîëüøàÿ àðìèÿ è ïîâîä äëÿ âòîðæåíèÿ êóäà óãîäíî â òå÷åíèå åãî æèçíè. Âåëèêèå çàâîåâàòåëè ïîìåùàþòñÿ äàëåêî äðóã îò äðóãà è îò èãðîêà.;;x
+setting_shattered_conquerors_off;Disabled;;;;;;;;;;;Îòñóòñòâóþò;;x
+setting_shattered_conquerors_off_tooltip;No Great Conquerors will spawn.;;;;;;;;;;;Âåëèêèå çàâîåâàòåëè äîáàâëåíû íå áóäóò.;;x
+setting_shattered_conquerors_on_few;Enabled (up to 4);;;;;;;;;;;Ïðèñóòñòâóþò (äî 4);;x
+setting_shattered_conquerors_on_few_tooltip;Up to four Great Conquerors might spawn in different locations around the world.;;;;;;;;;;;Äî ÷åòûð¸õ âåëèêèõ çàâîåâàòåëåé ìîæåò áûòü äîáàâëåíî â ðàçíûå òî÷êè ìèðà.;;x
+setting_shattered_conquerors_on_many;Enabled (up to 12);;;;;;;;;;;Ïðèñóòñòâóþò (äî 12);;x
+setting_shattered_conquerors_on_many_tooltip;Up to twelve Great Conquerors might spawn in different locations around the world.;;;;;;;;;;;Äî äâåíàäöàòè âåëèêèõ çàâîåâàòåëåé ìîæåò áûòü äîáàâëåíî â ðàçíûå òî÷êè ìèðà.;;x
+setting_shattered_conquerors_on_normal;Enabled (up to 8);;;;;;;;;;;Ïðèñóòñòâóþò (äî 8);;x
+setting_shattered_conquerors_on_normal_tooltip;Up to eight Great Conquerors might spawn in different locations around the world.;;;;;;;;;;;Äî âîñüìè âåëèêèõ çàâîåâàòåëåé ìîæåò áûòü äîáàâëåíî â ðàçíûå òî÷êè ìèðà.;;x
+setting_shattered_succession;Initial Succession;;;;;;;;;;;Ñòàðòîâûå çàêîíû íàñëåäîâàíèÿ;;x
+setting_shattered_succession_tooltip;Determines how the game will handle initial Succession Laws. After the game starts, Succession Laws can be changed normally.;;;;;;;;;;;Îïðåäåëÿåò êàêèå çàêîíû íàñëåäîâàíèÿ áóäóò ïðåâàëèðîâàòü íà ñòàðòå èãðû. Ýòî ñòàðòîâûé ïàðàìåòð, ïîýòîìó â òå÷åíèå èãðû çàêîíû ìîãóò ìåíÿòüñÿ êàê óãîäíî.;;x
+setting_shattered_succession_all_elective;All Elective;;;;;;;;;;;Âûáîðíàÿ ìîíàðõèÿ;;x
+setting_shattered_succession_all_elective_tooltip;All Titles will be assigned Elective Monarchy succession.\n - You and each lower rank Vassal (e.g. Dukes if you are a King) can nominate a successor from among themselves and your legitimate children and siblings.\n - Dukes are valid electors in both Kingdoms and Empires.\n - Very popular with your Vassals, but they will not approve if you personally hold too many elector Titles.;;;;;;;;;;;Âñå òèòóëû ïîëó÷àò çàêîí íàñëåäîâàíèÿ §YÂûáîðíàÿ ìîíàðõèÿ§!.\n- Âû è êàæäûé âàññàë íèæåñòîÿùåãî ðàíãà (íàïðèìåð, ãåðöîã, åñëè Âû - êîðîëü) ìîæåò íîìèíèðîâàòü íàñëåäíèêîì ñåáÿ èëè ëþáîãî èç Âàøèõ çàêîííûõ äåòåé, áðàòüåâ è ñåñò¸ð.\n- Ãåðöîãè ÿâëÿþòñÿ âûáîðùèêàìè êàê â êîðîëåâñòâàõ, òàê è â èìïåðèÿõ.\n- Âåñüìà ïîïóëÿðíûé çàêîí ñðåäè âàññàëîâ, íî èì íå ïîíðàâèòñÿ, åñëè ó Âàñ áóäåò ñëèøêîì ìíîãî òèòóëîâ âûáîðùèêà.;;x
+setting_shattered_succession_all_elective_gavelkind;All Elective Gavelkind;;;;;;;;;;;Âûáîðíûé ðàâíûé ðàçäåë;;x
+setting_shattered_succession_all_elective_gavelkind_tooltip;All Titles will be assigned Elective Gavelkind succession.\n - Titles are divided among your children and the Primary Heir who is elected from among the members of the ruling Dynasty.\n - You get no Prestige penalty for having unlanded sons.\n - You can have a §Y30%§! larger demesne.\n - Destruction of Titles is not allowed.\n - On succession in Kingdoms and Empires, new Kingdoms might be created for younger sons if possible.\n - Junior heirs always get the choice to declare independence without a war.;;;;;;;;;;;Âñå òèòóëû ïîëó÷àò çàêîí íàñëåäîâàíèÿ §YÂûáîðíûé ðàçäåë§!.\n- Òèòóëû äåëÿòñÿ ìåæäó Âàøèìè äåòüìè è ãëàâíûì íàñëåäíèêîì, êîòîðûé èçáèðàåòñÿ ñðåäè ÷ëåíîâ Âàøåé (ïðàâÿùåé) äèíàñòèè.\n- Âû íå áóäåòå èìåòü øòðàôîâ çà áåççåìåëüíûõ äåòåé.\n- Âû áóäåòå âïðàâå èìåòü íà §Y30%§! áîëüøå ëè÷íûõ çåìåëü.\n- Óíè÷òîæåíèå òèòóëîâ çàïðåùåíî.\n- Íàñëåäîâàíèå êîðîëåâñòâ è èìïåðèé ïîäðàçóìåâàåò, ÷òî äëÿ ìëàäøåãî ïîòîìêà áóäåò ñîçäàí íîâûé òèòóë ýòîãî ðàíãà, åñëè åìó ïðèíàäëåæàò äå-þðå çåìëè ýòîãî òèòóëà.\n- Ìëàäøèé íàñëåäíèê âñåãäà âïðàâå îáúÿâèòü î ñâîåé íåçàâèñèìîñòè.;;x
+setting_shattered_succession_all_gavelkind;All Gavelkind;;;;;;;;;;;Ðàâíûé ðàçäåë;;x
+setting_shattered_succession_all_gavelkind_tooltip;All Titles will be assigned Gavelkind succession.\n - Titles are divided among your children, with the oldest getting the primary title.\n - You get no Prestige penalty for having unlanded sons.\n - You can have a §Y30%§! larger demesne.\n - Destruction of Titles is not allowed.\n - Very popular with everyone except your oldest child.;;;;;;;;;;;Âñå òèòóëû ïîëó÷àò çàêîí íàñëåäîâàíèÿ §YÐàâíûé ðàçäåë§!.\n- Òèòóëû äåëÿòñÿ ìåæäó Âàøèìè äåòüìè, ñòàðøèé ïîëó÷àåò îñíîâíîé òèòóë.\n- Âû íå áóäåòå èìåòü øòðàôîâ çà áåççåìåëüíûõ äåòåé.\n- Âû áóäåòå âïðàâå èìåòü íà §Y30%§! áîëüøå ëè÷íûõ çåìåëü.\n- Óíè÷òîæåíèå òèòóëîâ çàïðåùåíî.\n- Çàêîí îäîáðÿåòñÿ âñåìè, êðîìå ñòàðøåãî ïîòîìêà.;;x
+setting_shattered_succession_all_primogeniture;All Primogeniture;;;;;;;;;;;Ïåðâîðîäñòâî;;x
+setting_shattered_succession_all_primogeniture_tooltip;All Titles will be assigned Primogeniture succession.\n - The oldest child inherits all titles.\n - Your successor will like the law, but other members of your Dynasty will slightly disapprove.;;;;;;;;;;;Âñå òèòóëû ïîëó÷àò çàêîí íàñëåäîâàíèÿ §YÏåðâîðîäñòâî§!.\n- Ñòàðøèé ïîòîìîê ïðàâèòåëÿ íàñëåäóåò âñå òèòóëû.\n- Âàøåìó íàñëåäíèêó ïîíðàâèòñÿ ýòîò çàêîí, îäíàêî ïðî÷èå ÷ëåíû Âàøåé äèíàñòèè áóäóò ðàññòðîåíû.;;x
+setting_shattered_succession_all_seniority;All Seniority;;;;;;;;;;;Ñåíüîðàò (ñòàðøèíñòâî);;x
+setting_shattered_succession_all_seniority_tooltip;All Titles will be assigned Seniority succession.\n - The oldest member of your Dynasty inherits all Titles.\n - Your oldest child will greatly disapprove of this law, but all other members of the Dynasty will approve.;;;;;;;;;;;Âñå òèòóëû ïîëó÷àò çàêîí íàñëåäîâàíèÿ §YÑåíüîðàò§!.\n- Ñòàðøèé ÷ëåí äèíàñòèè íàñëåäóåò âñå òèòóëû.\n- Ñòàðøèé èç Âàøèõ äåòåé áóäåò íåäîâîëåí çàêîíîì, íî âñå îñòàëüíûå ÷ëåíû äèíàñòèè íàîáîðîò áóäóò ðàäû.;;x
+setting_shattered_succession_all_tanistry;All Tanistry;;;;;;;;;;;Òàíèñòðè;;x
+setting_shattered_succession_all_tanistry_tooltip;All Titles will be assigned Tanistry succession.\n - You and all Vassals at one and two ranks below can nominate an heir - the Tanist - from among the members of your Dynasty.\n - Vassals will tend to favor older members from other branches of the family, especially Claimants.;;;;;;;;;;;Âñå òèòóëû ïîëó÷àò çàêîí íàñëåäîâàíèÿ §YÒàíèñòðè§!.\n- Âû è âñå âàññàëû íèæå Âàñ íà 1 èëè 2 ðàíãà ìîãóò íîìèíèðîâàòü íàñëåäíèêà (òàíèñòà) èç ÷èñëà ÷ëåíîâ Âàøåé äèíàñòèè.\n- Âàññàëû ïðåäïî÷èòàþò òàíèñòîâ ïîñòàðøå, ïðèíàäëåæàùèõ ê âòîðîñòåïåííûì âåòâÿì äèíàñòèè, îñîáåííî òåõ, ó êîãî åñòü ïðåòåíçèè íà ýòîò òèòóë.;;x
+setting_shattered_succession_all_ultimogeniture;All Ultimogeniture;;;;;;;;;;;Ìèíîðàò;;x
+setting_shattered_succession_all_ultimogeniture_tooltip;All Titles will be assigned Ultimogeniture succession.\n - The youngest child inherits all Titles.\n - The opposite of the far more common Primogeniture.;;;;;;;;;;;Âñå òèòóëû ïîëó÷àò çàêîí íàñëåäîâàíèÿ §YÌèíîðàò§!.\n- Ìëàäøèé èç äåòåé íàñëåäóåò âñå òèòóëû.\n- Ýòî êàê §YÏåðâîðîäñòâî§!, íî íàîáîðîò.;;x
+setting_shattered_succession_default_laws;Default (no change);;;;;;;;;;;Áåç èçìåíåíèé;;x
+setting_shattered_succession_default_laws_tooltip;No Succession Laws will be changed from their defaults.;;;;;;;;;;;Çàêîíû íàñëåäîâàíèÿ íå áóäóò îòëè÷àòüñÿ îò òåõ, êîòîðûå óñòàíîâëåíû íà ýòó äàòó â îáû÷íîé èãðå.;;x
+setting_technology;Technology;;;;;;;;;;;Êàðòà òåõíîëîãèé;;x
+setting_technology_tooltip;Determines the distribution of Technology in the world.;;;;;;;;;;;Îïðåäåëÿåò êàê òåõíîëîãèè ðàñïðîñòðàíåíû ïî ìèðó.;;x
+setting_technology_flat;Flat;;;;;;;;;;;Ïëîñêàÿ;;x
+setting_technology_flat_tooltip;Technology is the same in every County, based on the year selected.;;;;;;;;;;;Êàæäîå ìåñòî íà êàðòå èìååò ðàâíûé óðîâåíü ðàçâèòèÿ òåõíîëîãèé êàæäîãî èç âèäîâ. Îáùèé óðîâåíü çàâèñèò òîëüêî îò ñòàðòîâîé äàòû.;;x
+setting_technology_historical;Historical;;;;;;;;;;;Èñòîðè÷åñêàÿ;;x
+setting_technology_historical_tooltip;Technology is left unchanged from history.;;;;;;;;;;;Êàðòà òåõíîëîãèé ñîîòâåòñòâóåò èñòîðèè.;;x
+setting_technology_random;Random;;;;;;;;;;;Ñëó÷àéíàÿ;;x
+setting_technology_random_tooltip;Technology is randomized. Each Culture and Religion Group will deviate to some extent from the ideal Technology levels for the year selected.;;;;;;;;;;;Òåõíîëîãèè ïåðåìåøàíû ñëó÷àéíûì îáðàçîì. Êàæäàÿ êóëüòóðíàÿ è ðåëèãèîçíàÿ ãðóïïà èìåþò îòêëîíåíèå â ðàçâèòèè òåõíîëîãèé îò íåêîé èäåàëüíîé êðèâîé ðàçâèòèÿ, çàâèñÿùåé îò ñòàðòîâîé äàòû.;;x
+setting_tier;Ruler Tier;;;;;;;;;;;Ðàíãè ïðàâèòåëåé;;x
+setting_tier_tooltip;Determines which Title Tier/s the generated Rulers will have.;;;;;;;;;;;Îïðåäåëÿåò òèòóëû êàêèõ ðàíãîâ áóäóò ñîçäàíû íà ñòàðòå èãðû.;;x
+setting_tier_counts;Counts;;;;;;;;;;;Ãðàôû;;x
+setting_tier_counts_tooltip;An independent Count will be generated for every County;;;;;;;;;;;Äëÿ êàæäîãî îêðóãà (ãðàôñòâà) áóäåò ñîçäàí ñâîé ïðàâèòåëü (ãðàô);;x
+setting_tier_dukes;Dukes;;;;;;;;;;;Ãåðöîãè;;x
+setting_tier_dukes_tooltip;A random Count in each De Jure Duchy will be assigned the Duke title, all other Counts will be made vassals;;;;;;;;;;;Ñëó÷àéíûé ãðàô â êàæäîì äå-þðå ãåðöîãñòâå ïîëó÷èò ãåðöîãñêèé òèòóë, à ïðî÷èå ãðàôû ñòàíóò åãî âàññàëàìè.;;x
+setting_tier_dukes_consolidated;Consolidated Dukes;;;;;;;;;;;Òîëüêî ãåðöîãè;;x
+setting_tier_dukes_consolidated_tooltip;One Ruler will be generated per De Jure Duchy;;;;;;;;;;;Äëÿ êàæäîãî ãåðöîãñòâà áóäåò ñîçäàí ëèøü îäèí ïðàâèòåëü;;x
+setting_title_names;Title Names;;;;;;;;;;;Íàçâàíèÿ òèòóëîâ (ñòðàí);;x
+setting_title_names_tooltip;Determines whether names of Titles should be random or not.;;;;;;;;;;;Îïðåäåëÿåò äîëæíû ëè áûòü íàçâàíèÿ òèòóëîâ ñëó÷àéíûìè èëè èñòîðè÷åñêèìè.;;x
+setting_title_names_historical;Default;;;;;;;;;;;Ïî-óìîë÷àíèþ;;x
+setting_title_names_historical_tooltip;Title names will not be changed. If a non-historical De Jure setup is used, the names of their base titles (Counties or Duchies) will be used.;;;;;;;;;;;Íàçâàíèÿ òèòóëîâ íå áóäóò èçìåíåíû íà ñòàðòå. Åñëè èñïîëüçóåòñÿ íåèñòîðè÷åñêèé ñòàðòîâûé ñöåíàðèé äëÿ äå-þðå ãîñóäàðñòâ, áóäóò èñïîëüçîâàòüñÿ íàçâàíèÿ áàçîâûõ òèòóëîâ.;;x
+setting_title_names_random;Random (no Duchies);;;;;;;;;;;Ñëó÷àéíûå (âûøå ãåðöîãñòâ);;x
+setting_title_names_random_tooltip;Kingdoms and Empires will be assigned random names.;;;;;;;;;;;Êîðîëåâñòâà è èìïåðèè ïîëó÷àò ñëó÷àéíûå íàçâàíèÿ.;;x
+setting_title_names_random_including_duchies;Random (All);;;;;;;;;;;Ñëó÷àéíûå (âñå);;x
+setting_title_names_random_including_duchies_tooltip;Duchies, Kingdoms and Empires will be assigned random names.\nNote that names might sometimes repeat when using this option.;;;;;;;;;;;Ãåðöîãñòâà, êîðîëåâñòâà è èìïåðèè ïîëó÷àò ñëó÷àéíûå íàçâàíèÿ.\nÓ÷òèòå, ÷òî èíîãäà íàçâàíèÿ ìîãóò îêàçàòüñÿ îäèíàêîâûìè ó íåñêîëüêèõ òèòóëîâ.;;x

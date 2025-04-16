@@ -1,40 +1,33 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-evt_DESC_JD_2500;[tribute_war_suzerain.GetTitledFirstName] wishes to extort a flow of gold from the lands of [Root.PrimaryTitle.GetName]. [tribute_war_suzerain.GetSheHeCap] is willing to send [tribute_war_suzerain.GetHerHis] soldiers to die for it. But am I as willing to send mine? I could surrender peacefully now and end this before my soldiers are potentially slaughtered, their families left to die and villages burnt to the ground... Or we fight to protect our land and drive back these [tribute_war_suzerain.Culture.GetName] invaders!;;;;;;;;;;;;;x
-evt_DESC_JD_2501;To [Root.GetTitledFirstName],\n\nLet us resolve this conflict peacefully. In exchange for putting a stop to this war and preventing bloodshed I shall agree to your demands and the lands of [From.PrimaryTitle.GetName] will pay tribute to you. All I ask is that you promise safety for my people and send your soldiers home.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_DESC_JD_2502;To [Root.GetTitledFirstName],\n\nYou have made a wise decision, I shall accept your offer and send my soldiers home in exchange for tribute from your lands.\n\nSigned\n[From.GetTitledName];;;;;;;;;;;;;x
-evt_DESC_JD_2503;To [Root.GetTitledFirstName],\n\nYour offer is one of a coward, prepare your soldiers to meet in battle like a real warrior would.\n\nSigned\n[From.GetTitledName];;;;;;;;;;;;;x
-
-evt_OPTA_JD_2500;I shall end this before the blood of my people flows throughout the land.;;;;;;;;;;;;;x
-evt_OPTA_JD_2501;A wise decision! I shall accept [From.GetHerHis] proposal.;;;;;;;;;;;;;x
-evt_OPTA_JD_2502;We are safe... for now...;;;;;;;;;;;;;x
-evt_OPTA_JD_2503;I had a feeling it would come to this.;;;;;;;;;;;;;x
-
-evt_OPTB_JD_2500;We must protect what is ours! We shall fight!;;;;;;;;;;;;;x
-evt_OPTB_JD_2501;Look at the coward beg and plead! There will be no peace for [From.GetHerHim] that easily.;;;;;;;;;;;;;x
-
-EVTDESC_JD_2000;That [GetRootFromInsult] [From.GetBestName] has declared war upon me with the presumed notion to free hostages I have rightfully captured! This gives me just cause to execute them, if I so wish...;;;;;;;;;;;;;x
-EVTDESC_JD_2001;[From.GetBestName] has sent an envoy with an offer - if we were to end this war, [From.GetSheHe] will release all the captives and allow them safe passage to our court!;;;;;;;;;;;;;x
-EVTDESC_JD_2002;[From.GetBestName] has accepted our offer to release the captives, the war is over!;;;;;;;;;;;;;x
-EVTDESC_JD_2003;[From.GetBestName] had the guts to deny our offer. Apparently, the lives of the captives do not mean anything to [From.GetHerHim] - it was all a ruse to declare war!;;;;;;;;;;;;;x
-EVTDESC_JD_2004;Disaster! In response to our declaration of war that [GetRootFromInsult] [From.GetBestName] has beheaded [chosen_captive.GetFirstName]! We should have seen this coming...;;;;;;;;;;;;;x
-EVTDESC_JD_2005;In response to our declaration of war that [GetRootFromInsult] [From.GetBestName] has has all captives beheaded! We should have seen this coming...;;;;;;;;;;;;;x
-EVTDESC_JD_2100;My heart burns with fervor upon hearing of the poor [Root.Religion.GetName] souls being oppressed in the realm of [liberate_target.GetBestName]. [Root.Religion.GetHighGodName] intended for all true believers to be free to decide their own fate, but if [Root.Religion.GetHighGodName] is preoccupied with divine things perhaps I should carry out the will of [Root.Religion.GetHighGodName]?;;;;;;;;;;;;;x
-EVTDESC_JD_2200;Our Tributary State of [From.PrimaryTitle.GetName] has apparently decided to stop paying us tribute - [From.GetTitledFirstName] calls us "weak" and claims that we are "unable to defend [From.GetHerHis] realm", what nonsense!;;;;;;;;;;;;;x
-
-EVTOPTA_JD_2000;This war must end, offer to send their people back.;;;;;;;;;;;;;x
-EVTOPTA_JD_2001;Excellent! We accept.;;;;;;;;;;;;;x
-EVTOPTA_JD_2002;It is for the best.;;;;;;;;;;;;;x
-EVTOPTA_JD_2003;The war goes on.;;;;;;;;;;;;;x
-EVTOPTA_JD_2004;Oh, now it is personal!;;;;;;;;;;;;;x
-EVTOPTA_JD_2005;This is a war of vengeance now!;;;;;;;;;;;;;x
-EVTOPTA_JD_2100;I must liberate my [Root.Religion.GetName] brethren!;;;;;;;;;;;;;x
-EVTOPTA_JD_2200;Perhaps it is time to make [From.GetHerHim] get back in line...;;;;;;;;;;;;;x
-
-EVTOPTB_JD_2000;I must make an example, execute [chosen_captive.GetFirstName].;;;;;;;;;;;;;x
-EVTOPTB_JD_2001;Ha! I am in this for the loot and plunder, the war is still on!;;;;;;;;;;;;;x
-EVTOPTB_JD_2003;Let us see if they mean little to [From.GetHerHim] when they are all dead!;;;;;;;;;;;;;x
-EVTOPTB_JD_2100;I have better things to do...;;;;;;;;;;;;;x
-
-EVTOPTC_JD_2000;How dare they? Execute ALL captives!;;;;;;;;;;;;;x
-
-EVTOPTD_JD_2000;We shall meet on the battlefield.;;;;;;;;;;;;;x
+evt_DESC_JD_2500;[tribute_war_suzerain.GetTitledFirstName] wishes to extort a flow of gold from the lands of [Root.PrimaryTitle.GetName]. [tribute_war_suzerain.GetSheHeCap] is willing to send [tribute_war_suzerain.GetHerHis] soldiers to die for it. But am I as willing to send mine? I could surrender peacefully now and end this before my soldiers are potentially slaughtered, their families left to die and villages burnt to the ground... Or we fight to protect our land and drive back these [tribute_war_suzerain.Culture.GetName] invaders!;;;;;;;;;;;[tribute_war_suzerain.GetTitledFirstName] ðåøèë[tribute_war_suzerain.GetEndA] îáëîæèòü äàíüþ [Root.PrimaryTitle.GetAdjective]ñêèå çåìëè è ãîòîâ[tribute_war_suzerain.GetEndA] îòïðàâèòü ñâîèõ ñîëäàò íà ñìåðòü ðàäè ýòîãî, íî ãîòîâ[Root.GetEndA] ëè ÿ ïîæåðòâîâàòü ñâîèìè ëþäüìè? Âîçìîæíî, ñäàòüñÿ - ëó÷øåå ðåøåíèå.;;x
+evt_DESC_JD_2501;To [Root.GetTitledFirstName],\n\nLet us resolve this conflict peacefully. In exchange for putting a stop to this war and preventing bloodshed I shall agree to your demands and the lands of [From.PrimaryTitle.GetName] will pay tribute to you. All I ask is that you promise safety for my people and send your soldiers home.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;[Root.GetTitledFirstName],\nÄàâàéòå ðàçðåøèì ýòîò êîíôëèêò ìèðíûì ïóò¸ì. Îòçîâèòå ñâîè âîéñêà, è ÿ ïðèìó Âàøè óñëîâèÿ. [From.PrimaryTitle.GetName] áóäåò ïëàòèòü Âàì äàíü. Âñ¸ î ÷¸ì ÿ ïðîøó, ýòî ãàðàíòèè áåçîïàñíîñòè äëÿ ìîèõ ëþäåé.\nÏîäïèñü:\n [From.GetTitledName];;x
+evt_DESC_JD_2502;To [Root.GetTitledFirstName],\n\nYou have made a wise decision, I shall accept your offer and send my soldiers home in exchange for tribute from your lands.\n\nSigned\n[From.GetTitledName];;;;;;;;;;;[Root.GetTitledFirstName],\nÂû ñäåëàëè ìóäðûé âûáîð. ß ïðèíèìàþ Âàøå ïðåäëîæåíèå. Íàäåþñü, íàøå ñîãëàøåíèå áóäåò ïîäïèñàíî â áëèæàéøèå äíè, è ìîè ñîëäàòû ñìîãóò âåðíóòüñÿ äîìîé.\nÏîäïèñü:\n [From.GetTitledName];;x
+evt_DESC_JD_2503;To [Root.GetTitledFirstName],\n\nYour offer is one of a coward, prepare your soldiers to meet in battle like a real warrior would.\n\nSigned\n[From.GetTitledName];;;;;;;;;;;[Root.GetTitledFirstName],\nÂàøå æàëêîå ïðåäëîæåíèå íåïðèåìëåìî, ýòî ñëîâà òðóñà. Ñêîðî íàøè ñîëäàòû âñòðåòÿòñÿ íà ïîëå áîÿ, ñìîòðèòå íå îáäåëàéòåñü îò ñòðàõà.\nÏîäïèñü:\n [From.GetTitledName];;x
+evt_OPTA_JD_2500;I shall end this before the blood of my people flows throughout the land.;;;;;;;;;;;Íó, åñëè ýòî ïîìîæåò èçáåæàòü êðîâîïðîëèòèÿ...;;x
+evt_OPTA_JD_2501;A wise decision! I shall accept [From.GetHerHis] proposal.;;;;;;;;;;;Ìóäðîå ðåøåíèå! Ïåðåäàéòå [From.GetHerHim], ÿ ñîãëàñ[Root.GetNaEn].;;x
+evt_OPTA_JD_2502;We are safe... for now...;;;;;;;;;;;Ìû â áåçîïàñíîñòè... ïîêà ÷òî...;;x
+evt_OPTA_JD_2503;I had a feeling it would come to this.;;;;;;;;;;;Îæèäàåìûé îòâåò...;;x
+evt_OPTB_JD_2500;We must protect what is ours! We shall fight!;;;;;;;;;;;Îòäàòü íàøó çåìëþ?! Íè çà ÷òî! Ìû áóäåì ñðàæàòüñÿ!;;x
+evt_OPTB_JD_2501;Look at the coward beg and plead! There will be no peace for [From.GetHerHim] that easily.;;;;;;;;;;;Âû òîëüêî ïîñìîòðèòå íà ýòî íè÷òîæåñòâî! Íåò, ÿ õî÷ó êðîâè!;;x
+EVTDESC_JD_2000;That [GetRootFromInsult] [From.GetBestName] has declared war upon me with the presumed notion to free hostages I have rightfully captured! This gives me just cause to execute them, if I so wish...;;;;;;;;;;;"[From.GetBestName] îáúÿâèë[From.GetEndA] ìíå âîéíó, ÷òîáû ""îñâîáîäèòü çàëîæíèêîâ"", íî îíè - ìîè çàêîííûå ïëåííèêè! [GetRootFromInsult]! À ìîæåò ïðîñòî êàçíèòü èõ, ÷òîáû íåïîâàäíî áûëî?";;x
+EVTDESC_JD_2001;[From.GetBestName] has sent an envoy with an offer - if we were to end this war, [From.GetSheHe] will release all the captives and allow them safe passage to our court!;;;;;;;;;;;[From.GetBestName] îòïðàâèë[From.GetEndA] ïîñëà ñ ïðåäëîæåíèåì - [From.GetSheHe] îòäàñò íàì ïëåííèêîâ, åñëè ìû îòêàæåìñÿ îò âîéíû!;;x
+EVTDESC_JD_2002;[From.GetBestName] has accepted our offer to release the captives, the war is over!;;;;;;;;;;;[From.GetBestName] ïðèíÿë[From.GetEndA] íàøå ïðåäëîæåíèå îòïóñòèòü ïëåííèêîâ. Âîéíà îêîí÷åíà.;;x
+EVTDESC_JD_2003;[From.GetBestName] had the guts to deny our offer. Apparently, the lives of the captives do not mean anything to [From.GetHerHim] - it was all a ruse to declare war!;;;;;;;;;;;[From.GetBestName] îòêàçà[From.GetLasLsya] ïðåêðàòèòü âîéíó â îáìåí íà âûäà÷ó ïëåííèêîâ. Îêàçûâàåòñÿ, îñâîáîæäåíèå çàëîæíèêîâ - âñåãî ëèøü ïîâîä. [From.GetSheHeCap] ïðîñòî õî÷åò ïîâîåâàòü!;;x
+EVTDESC_JD_2004;Disaster! In response to our declaration of war that [GetRootFromInsult] [From.GetBestName] has beheaded [chosen_captive.GetFirstName]! We should have seen this coming...;;;;;;;;;;;Êàòàñòðîôà! [chosen_captive.GetFirstName] ìåðòâ[chosen_captive.GetEndA]. Â îòâåò íà îáúÿâëåíèå âîéíû [From.GetBestName] ïðèêàçàë[From.GetEndA] îáåçãëàâèòü [chosen_captive.GetHersHis]!;;x
+EVTDESC_JD_2005;In response to our declaration of war that [GetRootFromInsult] [From.GetBestName] has has all captives beheaded! We should have seen this coming...;;;;;;;;;;;Â îòâåò íà îáúÿâëåíèå âîéíû [From.GetBestName] ïðèêàçàë[From.GetEndA] êàçíèòü âñåõ çàëîæíèêîâ, ñåãîäíÿ íàì ïðèñëàëè èõ ãîëîâû!;;x
+EVTDESC_JD_2100;My heart burns with fervor upon hearing of the poor [Root.Religion.GetName] souls being oppressed in the realm of [liberate_target.GetBestName]. [Root.Religion.GetHighGodName] intended for all true believers to be free to decide their own fate, but if [Root.Religion.GetHighGodName] is preoccupied with divine things perhaps I should carry out the will of [Root.Religion.GetHighGodName]?;;;;;;;;;;;ß ñëûøó, êàê íåñ÷àñòíûå [Root.GetReligiousPersons] ñòðàäàþò ïîä èãîì [liberate_target.PrimaryTitle.GetAdjective]ñêèõ èíîâåðöåâ, è çàäóìûâàþñü: åñëè [Root.Religion.GetHighGodName] äàðîâàë[Root.GetHGodEndA] èñòèííî âåðóþùèì ïðàâî âåðøèòü ñâîþ ñóäüáó, òî ïî÷åìó æå òàêèì êàê [liberate_target.GetBestName] ïîçâîëÿåòñÿ áåçíàêàçàííî îãðàíè÷èâàòü èõ ñâîáîäó? ×òî åñëè îòâåòñòâåííîñòü çà ìèðñêèå ïðîáëåìû ëåæèò íà íàñ?;;x
+EVTDESC_JD_2200;"Our Tributary State of [From.PrimaryTitle.GetName] has apparently decided to stop paying us tribute - [From.GetTitledFirstName] calls us ""weak"" and claims that we are ""unable to defend [From.GetHerHis] realm"", what nonsense!";;;;;;;;;;;"Î÷åâèäíî, ÷òî [From.PrimaryTitle.GetName], íàø ñàòåëëèò, áîëåå íå íàìåðåíû ïëàòèòü äàíü. [From.GetTitledFirstName] çàÿâèë[From.GetEndA] íàøåìó ïîñëó, ÷òî ìû, öèòèðóþ: ""æàëêèå ñëàáàêè, êîòîðûå íå ìîãóò çàùèòèòü íàøó ñòðàíó""!";;x
+EVTOPTA_JD_2000;This war must end, offer to send their people back.;;;;;;;;;;;Õî÷åò ïîâîåâàòü? Îáîéä¸òñÿ! Ïðåäëîæèòå [From.GetHerHim] ïëåííèêîâ.;;x
+EVTOPTA_JD_2001;Excellent! We accept.;;;;;;;;;;;Ïðåâîñõîäíî! Ïåðåäàéòå, ÿ ñîãëàñ[Root.GetNaEn].;;x
+EVTOPTA_JD_2002;It is for the best.;;;;;;;;;;;Âîò è õîðîøî.;;x
+EVTOPTA_JD_2003;The war goes on.;;;;;;;;;;;Òàê è çíàë[Root.GetEndA]! Íó ÷òî æ, ïîâîþåì.;;x
+EVTOPTA_JD_2004;Oh, now it is personal!;;;;;;;;;;;[GetRootFromInsult]!;;x
+EVTOPTA_JD_2005;This is a war of vengeance now!;;;;;;;;;;;[GetRootFromInsult]! ß îòîìùó!;;x
+EVTOPTA_JD_2100;I must liberate my [Root.Religion.GetName] brethren!;;;;;;;;;;;Ìîé ñâÿùåííûé äîëã - îñâîáîäèòü ýòèõ ëþäåé!;;x
+EVTOPTA_JD_2200;Perhaps it is time to make [From.GetHerHim] get back in line...;;;;;;;;;;;Âîò [From.GetBitchBastard]!;;x
+EVTOPTB_JD_2000;I must make an example, execute [chosen_captive.GetFirstName].;;;;;;;;;;;[chosen_captive.GetFirstName], íà÷í¸ì ñ òåáÿ.;;x
+EVTOPTB_JD_2001;Ha! I am in this for the loot and plunder, the war is still on!;;;;;;;;;;;Äà ïëåâàòü ìíå íà çàëîæíèêîâ, ÿ ïîâîåâàòü õî÷ó!;;x
+EVTOPTB_JD_2003;Let us see if they mean little to [From.GetHerHim] when they are all dead!;;;;;;;;;;;Íó ðàç [From.GetHerHim] âñ¸ ðàâíî... Óáåéòå èõ âñåõ.;;x
+EVTOPTB_JD_2100;I have better things to do...;;;;;;;;;;;Åñëè ìíîãî äóìàòü, ãîëîâà çàáîëèò...;;x
+EVTOPTC_JD_2000;How dare they? Execute ALL captives!;;;;;;;;;;;Êàçèòü èõ âñåõ!;;x
+EVTOPTD_JD_2000;We shall meet on the battlefield.;;;;;;;;;;;Âñòðåòèìñÿ íà ïîëå áîÿ.;;x

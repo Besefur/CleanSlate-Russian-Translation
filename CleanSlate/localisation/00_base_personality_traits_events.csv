@@ -1,128 +1,125 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC1000;A pretty wench is throwing herself at you.;;;;;;;;;;;;;x
-EVTDESC1001;The cook has prepared a fine meal, but the priest preached about temperance...;;;;;;;;;;;;;x
-EVTDESC1002;The cook had prepared a magnificent meal, with lots of different fruits, various kinds of meat, plenty of freshly baked bread and several mature cheeses.;;;;;;;;;;;;;x
-EVTDESC1003;After giving my advice on a delicate matter, the courtier asked me to accept a small gift of gold as thanks for my help;;;;;;;;;;;;;x
-EVTDESC1004;Work can be tedious and when one problem is solved another one pops up. I tire of having to complete the same tasks over and over again.;;;;;;;;;;;;;x
-EVTDESC1005;Her hair is always perfect, men love her charm and looks but she is also intelligent and well-spoken. She has been blessed with beauty, intelligence and success in all things.;;;;;;;;;;;;;x
-EVTDESC1006;It feels like everyone is trying to trump me! My huntsman killed more prey than I, my councillors found a better solution to the rebellious peasants than mine and I started to feel that everyone was better than I am, no matter what.;;;;;;;;;;;;;x
-EVTDESC1007;I don't think it was meant to hurt me, but the criticism still stung harder than it should have.;;;;;;;;;;;;;x
-EVTDESC1008;I took a good look at myself and thought about my weaknesses and strengths. After many hours of soul-searching, I realized:;;;;;;;;;;;;;x
-EVTDESC1009;It was one of those situations where you didn't want to tell the truth in case it would hurt the person, but in the same time, honesty is a virtue...;;;;;;;;;;;;;x
-EVTDESC1010;I imagined a situation which became more and more intimidating, with an outcome that could mean life or death. I swallowed hard and decided that I would...;;;;;;;;;;;;;x
-EVTDESC1011;It started as an uneasiness around guests and strangers, then evolved into awkwardness and a strong feeling of discomfort.;;;;;;;;;;;;;x
-EVTDESC1012;I could strive to become better, or I can be satisfied with who I am and what I have.;;;;;;;;;;;;;x
-EVTDESC1013;If my opinion ruled, the world would be a more chaotic but fun place. If I keep following the laws, the world would have less chaos but also be less fun.;;;;;;;;;;;;;x
-EVTDESC1014;If there is a God, why is the world filled with hardships, grief and heretics?;;;;;;;;;;;;;x
-EVTDESC1015;The court is filled with young, beautiful men and the attention they give me is making it hard for me to refuse them. Who wouldn't want one of them in their bed?;;;;;;;;;;;;;x
-EVTDESC1016;Lately I have become afraid that someone might want to hurt me. I am thinking about hiring a, no, two food-tasters and... maybe a bodyguard would be a good idea?;;;;;;;;;;;;;x
-EVTDESC1017;After I had made another courtier cry, the third one in a short week, I felt a bit embarrassed. Is this really who I am, a cruel [Root.GetManWoman] who likes to hurt people?;;;;;;;;;;;;;x
-EVTDESC1018;Men have never interested me, and my awkward attempts to find out if another woman feels like I do has always ended with insulted or apprehensive looks. But today, a woman tried to seduce me!;;;;;;;;;;;;;x
-EVTDESC1019;I realized when I was rather young that I would never find a woman attractive. The comfort and love I saw couples share felt out of my reach, until I met a man who felt as I did...;;;;;;;;;;;;;x
-EVTDESC1028;It seems the young women no longer have the power to seduce me.;;;;;;;;;;;;;x
-EVTDESC1029;Something I thought I had suppressed and finally subdued has risen inside me. Unchaste thoughts have begun to appear in my mind;;;;;;;;;;;;;x
-EVTDESC1030;A diet of bread and water does not satisfy me any more. I need something else, something delicious and filling.;;;;;;;;;;;;;x
-EVTDESC1031;I no longer find joy in stuffing myself with fine wines, red meat and rich sauces. I think I need a diet.;;;;;;;;;;;;;x
-EVTDESC1032;Today in the market, I watched as a poor beggar took his bowl full of coins and went straight into the tavern to buy drink. Perhaps mankind is unlovable after all.;;;;;;;;;;;;;x
-EVTDESC1033;Money didn't make me happy, nor did respect.;;;;;;;;;;;;;x
-EVTDESC1034;Work has become boring and the hours of the day drag on.;;;;;;;;;;;;;x
-EVTDESC1035;I feel spirited and restless. Maybe some work might calm me down?;;;;;;;;;;;;;x
-EVTDESC1036;I am sick of always being kind to everyone!;;;;;;;;;;;;;x
-EVTDESC1037;I should be happy with what I've got, not everyone is as privileged as I am.;;;;;;;;;;;;;x
-EVTDESC1038;I have started to feel that 'turn the other cheek' is just stupid.;;;;;;;;;;;;;x
-EVTDESC1039;The constant surges of adrenaline and increased heart rate makes me weary. It's not as fun being angry as it used to be.;;;;;;;;;;;;;x
-EVTDESC1040;I am pretty great, after all.;;;;;;;;;;;;;x
-EVTDESC1041;'Tis hard to feel proud when one has nothing to be proud of.;;;;;;;;;;;;;x
-EVTDESC1042;I have grown tired of the young men who try to seduce me.;;;;;;;;;;;;;x
-EVTDESC1043;Sometimes, it's easier to lie than to hurt people with a truth.;;;;;;;;;;;;;x
-EVTDESC1044;Lies do hurt people. The truth... I think I can handle the truth.;;;;;;;;;;;;;x
-EVTDESC1045;I did not understand fear before, but once you have felt your leg shake and teeth chatter with fear, then it is hard to remain brave.;;;;;;;;;;;;;x
-EVTDESC1046;Fear has loosened its grip on me, and I stand tall against the things I used to fear.;;;;;;;;;;;;;x
-EVTDESC1047;I crave solitude, I no longer seek the company of others.;;;;;;;;;;;;;x
-EVTDESC1048;My confidence has grown and I don't feel so awkward anymore.;;;;;;;;;;;;;x
-EVTDESC1049;There must be more to life than this!;;;;;;;;;;;;;x
-EVTDESC1050;I have trumped everyone and am the best [From.GetTitle] ever!;;;;;;;;;;;;;x
-EVTDESC1051;Justice is a harsh mistress and I can't love her anymore.;;;;;;;;;;;;;x
-EVTDESC1052;Someone told me I'm arbitrary and I wish to change that.;;;;;;;;;;;;;x
-EVTDESC1053;My favorite subject does not interest me anymore and I can't speak about it with the same zeal as before.;;;;;;;;;;;;;x
-EVTDESC1054;Perhaps the glass is fuller than I believed it to be.;;;;;;;;;;;;;x
-EVTDESC1057;The feeling of being watched and followed seem to have disappeared overnight!;;;;;;;;;;;;;x
-EVTDESC1058;Several assassinations and 'loans' later, I don't know if I'm still able to trust anyone.;;;;;;;;;;;;;x
-EVTDESC1060;The glance was intentional lascivious and the [Root.GetManWomanOpp] did not hide [Root.GetHerHisOpp] appreciation, nor hide [Root.GetHerHisOpp] lustful thoughts and invited me to join [Root.GetHerHimOpp]...;;;;;;;;;;;;;x
-EVTDESC1070;As I listened to the Hafiz correctly continue the recitation of a passage taken randomly from the Qur'an, I marveled at the piety of the man. To submit the whole Qur'an to memory, all 114 Surahs, is a feat only the most zealous Muslim could perform.;;;;;;;;;;;;;x
-EVTDESC1071;I feel nervous as I stand before the imam, waiting for him to choose and start reciting a random passage from the Qur'an which I must then continue reciting correctly. He has chosen:\n\nWhen the Qur'an is read...;;;;;;;;;;;;;x
-
-EVTOPTA1000;I can't resist her.;;;;;;;;;;;;;x
-EVTOPTA1001;I try to eat modestly but the food is too good!;;;;;;;;;;;;;x
-EVTOPTA1003;I accept the gift reluctantly;;;;;;;;;;;;;x
-EVTOPTA1004;Let someone else do this!;;;;;;;;;;;;;x
-EVTOPTA1005;Why was [Root.GetSheHe] blessed and not I?;;;;;;;;;;;;;x
-EVTOPTA1006;If they are better than I am, then I have to accept that;;;;;;;;;;;;;x
-EVTOPTA1007;An eye for an eye!;;;;;;;;;;;;;x
-EVTOPTA1008;I have nothing to be ashamed of!;;;;;;;;;;;;;x
-EVTOPTA1009;Lie and don't hurt anyone;;;;;;;;;;;;;x
-EVTOPTA1010;Run awaaaayyy!;;;;;;;;;;;;;x
-EVTOPTA1011;I don't want to meet any new people;;;;;;;;;;;;;x
-EVTOPTA1012;I will never be satisfied!;;;;;;;;;;;;;x
-EVTOPTA1013;Let my rule begin!;;;;;;;;;;;;;x
-EVTOPTA1014;God has a plan for everything and everyone;;;;;;;;;;;;;x
-EVTOPTA1015;Give in, have some fun!;;;;;;;;;;;;;x
-EVTOPTA1016;Food-tasters, bodyguards, anything that can save me!;;;;;;;;;;;;;x
-EVTOPTA1017;Who am I kidding? I love this!;;;;;;;;;;;;;x
-EVTOPTA1018;...and she's irresistible!;;;;;;;;;;;;;x
-EVTOPTA1019;...and he's irresistible!;;;;;;;;;;;;;x
-EVTOPTA1028;I just don't feel lustful anymore;;;;;;;;;;;;;x
-EVTOPTA1030;I have broken my fast with wine and quail;;;;;;;;;;;;;x
-EVTOPTA1031;Bread and water for me!;;;;;;;;;;;;;x
-EVTOPTA1032;No more charity!;;;;;;;;;;;;;x
-EVTOPTA1033;I think I need something else in my life;;;;;;;;;;;;;x
-EVTOPTA1034;Diligence may be a virtue, but it's exhausting!;;;;;;;;;;;;;x
-EVTOPTA1035;No longer lazy;;;;;;;;;;;;;x
-EVTOPTA1036;Feel my wrath!;;;;;;;;;;;;;x
-EVTOPTA1037;Begone, envy!;;;;;;;;;;;;;x
-EVTOPTA1038;An eye for an eye!;;;;;;;;;;;;;x
-EVTOPTA1039;I should take it easier;;;;;;;;;;;;;x
-EVTOPTA1040;I think I should be proud of myself;;;;;;;;;;;;;x
-EVTOPTA1041;Why should I be proud of myself?;;;;;;;;;;;;;x
-EVTOPTA1043;Honesty can hurt;;;;;;;;;;;;;x
-EVTOPTA1044;Truth shall set me free;;;;;;;;;;;;;x
-EVTOPTA1045;This does not make me a coward, does it?;;;;;;;;;;;;;x
-EVTOPTA1046;No one can call me craven anymore;;;;;;;;;;;;;x
-EVTOPTA1047;...but I won't become a hermit;;;;;;;;;;;;;x
-EVTOPTA1048;My stuttering has disappeared!;;;;;;;;;;;;;x
-EVTOPTA1049;And I will find it!;;;;;;;;;;;;;x
-EVTOPTA1050;Now what?;;;;;;;;;;;;;x
-EVTOPTA1051;I am... NOT the law!;;;;;;;;;;;;;x
-EVTOPTA1052;Good for me, right?;;;;;;;;;;;;;x
-EVTOPTA1053;I was boring before;;;;;;;;;;;;;x
-EVTOPTA1054;...as long as it does not overflow;;;;;;;;;;;;;x
-EVTOPTA1057;I am safe;;;;;;;;;;;;;x
-EVTOPTA1058;Why are they trying to hurt me?;;;;;;;;;;;;;x
-EVTOPTA1060;Follow [Root.GetHerHimOpp] to [Root.GetHerHisOpp] chambers...;;;;;;;;;;;;;x
-EVTOPTA1070;May Allah hear my words, I will memorize the whole Qur'an!;;;;;;;;;;;;;x
-EVTOPTA1071;...listen to it with attention and hold your peace that ye may receive Mercy;;;;;;;;;;;;;x
-
-EVTOPTB1000;Mind over body, mind over body...;;;;;;;;;;;;;x
-EVTOPTB1001;I satisfy my hunger with bread and water;;;;;;;;;;;;;x
-EVTOPTB1003;Wasn't my advice worth more than a couple pennies?;;;;;;;;;;;;;x
-EVTOPTB1004;I can rest in Heaven;;;;;;;;;;;;;x
-EVTOPTB1005;It's hard not to envy her, but I am perfect as I am;;;;;;;;;;;;;x
-EVTOPTB1006;I envy them all!;;;;;;;;;;;;;x
-EVTOPTB1007;I'll turn the other cheek;;;;;;;;;;;;;x
-EVTOPTB1008;I have many strengths, but more weaknesses;;;;;;;;;;;;;x
-EVTOPTB1009;Be honest and tell it as it is;;;;;;;;;;;;;x
-EVTOPTB1010;Stay put and fight!;;;;;;;;;;;;;x
-EVTOPTB1011;I'll just have to try to be more gregarious;;;;;;;;;;;;;x
-EVTOPTB1012;I am content;;;;;;;;;;;;;x
-EVTOPTB1013;Justice should always prevail!;;;;;;;;;;;;;x
-EVTOPTB1014;God is as clueless as I am;;;;;;;;;;;;;x
-EVTOPTB1015;A woman should suppress her worldly urges;;;;;;;;;;;;;x
-EVTOPTB1016;I won't let fear rule my life!;;;;;;;;;;;;;x
-EVTOPTB1017;Oh [Root.Religion.GetRandomGodName], what have I done? Forgive me, please!;;;;;;;;;;;;;x
-EVTOPTB1018;As tempting as it is, I really shouldn't;;;;;;;;;;;;;x
-EVTOPTB1019;I cannot give in to these feelings!;;;;;;;;;;;;;x
-EVTOPTB1029;I can't resist him.;;;;;;;;;;;;;x
-EVTOPTB1032;It does not make sense, but I must try to accept it.;;;;;;;;;;;;;x
-EVTOPTB1060;It is forbidden!;;;;;;;;;;;;;x
-EVTOPTB1070;Marvelous! But it must be such a chore...;;;;;;;;;;;;;x
+EVTDESC1000;A pretty wench is throwing herself at you.;;;;;;;;;;;Ïðåëåñòíàÿ ñëóæàíêà áðîñàåòñÿ íà Âàñ.;;x
+EVTDESC1001;The cook has prepared a fine meal, but the priest preached about temperance...;;;;;;;;;;;Ïîâàð ïðèãîòîâèë îòëè÷íûé óæèí, íî ñâÿùåííèê ïðîïîâåäóåò óìåðåííîñòü...;;x
+EVTDESC1002;The cook had prepared a magnificent meal, with lots of different fruits, various kinds of meat, plenty of freshly baked bread and several mature cheeses.;;;;;;;;;;;Ïîâàð ïðèãîòîâèë âåëèêîëåïíóþ åäó ñ ðàçíîîáðàçíûìè ôðóêòàìè, ðàçëè÷íûìè âèäàìè ìÿñà, îáèëèåì ñâåæåé âûïå÷êè è íåñêîëüêèìè ñîðòàìè âûäåðæàííîãî ñûðà.;;x
+EVTDESC1003;After giving my advice on a delicate matter, the courtier asked me to accept a small gift of gold as thanks for my help;;;;;;;;;;;Ïîëó÷èâ îò ìåíÿ ñîâåò ïî äåëèêàòíîìó âîïðîñó, ïðèäâîðíûé ïðîñèò ìåíÿ ïðèíÿòü íåáîëüøîé êîøåëü ñ çîëîòîì â áëàãîäàðíîñòü çà ïîìîùü.;;x
+EVTDESC1004;Work can be tedious and when one problem is solved another one pops up. I tire of having to complete the same tasks over and over again.;;;;;;;;;;;Ðàáîòà óòîìëÿåò. Ñòîèò ðåøèòüñÿ îäíîé ïðîáëåìå, òóò æå âîçíèêàåò äðóãàÿ. Êàê æå íàäîåëà ýòà ðóòèíà...;;x
+EVTDESC1005;Her hair is always perfect, men love her charm and looks but she is also intelligent and well-spoken. She has been blessed with beauty, intelligence and success in all things.;;;;;;;;;;;Å¸ ïðè÷¸ñêà âñåãäà áåçóïðå÷íà, ìóæ÷èíû ëþáÿò å¸ çà êðàñîòó è îáàÿíèå, íî îíà, ê òîìó æå - óìíà, ìîæåò ïîääåðæàòü ðàçãîâîð íà ëþáóþ òåìó. Ïðèðîäà íàäåëèëà å¸ íåîòðàçèìîé âíåøîñòüþ è óìîì, îíà óñïåøíà âî âñåõ íà÷èíàíèÿõ.;;x
+EVTDESC1006;It feels like everyone is trying to trump me! My huntsman killed more prey than I, my councillors found a better solution to the rebellious peasants than mine and I started to feel that everyone was better than I am, no matter what.;;;;;;;;;;;Òàêîå âïå÷àòëåíèå, ÷òî êàæäûé ñòàðàåòñÿ ìåíÿ â ÷¸ì-òî îáîéòè! Ìîé îõîòíèê äîáûë áîëüøå äè÷è, ìîè ñîâåòíèêè ëó÷øå ñïðàâëÿþòñÿ ñ äåëàìè, è ÿ íà÷èíàþ ÷óâñòâîâàòü, ÷òî âñå âîêðóã ëó÷øå ìåíÿ â ÷¸ì óãîäíî.;;x
+EVTDESC1007;I don't think it was meant to hurt me, but the criticism still stung harder than it should have.;;;;;;;;;;;Íå äóìàþ, ÷òî ìåíÿ õîòåëè îáèäåòü, íî êðèòèêà óêîëîëà ìåíÿ áîëüíåå, ÷åì ñëåäóåò.;;x
+EVTDESC1008;I took a good look at myself and thought about my weaknesses and strengths. After many hours of soul-searching, I realized:;;;;;;;;;;;ß òðåçâî îöåíèâàþ ñåáÿ, äóìàþ î ñâîèõ ñèëüíûõ è ñëàáûõ ñòîðîíàõ. Ïîñëå äîëãîãî ñàìîêîïàíèÿ ñòàëî ÿñíî, ÷òî...;;x
+EVTDESC1009;It was one of those situations where you didn't want to tell the truth in case it would hurt the person, but in the same time, honesty is a virtue...;;;;;;;;;;;Ýòî êàê ðàç òàêàÿ ñèòóàöèÿ, êîãäà Âû, ñ îäíîé ñòîðîíû, íå õîòèòå ãîâîðèòü ïðàâäó, ÷òîáû íå îáèäåòü ÷åëîâåêà, íî, ñ äðóãîé ñòîðîíû, ÷åñòíîñòü - äîáðîäåòåëü.;;x
+EVTDESC1010;I imagined a situation which became more and more intimidating, with an outcome that could mean life or death. I swallowed hard and decided that I would...;;;;;;;;;;;Ìíå ïðåäñòàâèëàñü ñèòóàöèÿ, ñòàíîâÿùàÿñÿ âñ¸ áîëåå è áîëåå ïóãàþùåé, ðåçóëüòàòîì êîòîðîé ìîãëà ñòàòü òîëüêî æèçíü èëè ñìåðòü. ß íåðâíî ñãëàòûâàþ è ðåøàþñü...;;x
+EVTDESC1011;It started as an uneasiness around guests and strangers, then evolved into awkwardness and a strong feeling of discomfort.;;;;;;;;;;;Âñ¸ íà÷èíàëîñü ñ áåñïîêîéñòâà ïðè âèäå ãîñòåé è íåçíàêîìöåâ, à ïîòîì ïîÿâèëàñü íåëîâêîñòü è, íàêîíåö, ñòîéêîå ÷óâñòâî äèñêîìôîðòà îò èõ ïðèñóòñòâèÿ.;;x
+EVTDESC1012;I could strive to become better, or I can be satisfied with who I am and what I have.;;;;;;;;;;;Ìîæíî ñòðåìèòüñÿ ê ëó÷øåìó, à ìîæíî äîâîëüñòâîâàòüñÿ òåì, ÷òî èìååøü.;;x
+EVTDESC1013;If my opinion ruled, the world would be a more chaotic but fun place. If I keep following the laws, the world would have less chaos but also be less fun.;;;;;;;;;;;Åñëè ÿ áóäó óïðàâëÿòü, ðóêîâîäñòâóÿñü ñâîåé ïðèõîòüþ, ìèð áóäåò íàìíîãî çàáàâíåå. Åñëè æå ÿ áóäó ñëåäîâàòü çàêîíàì, áóäåò ïîðÿäîê, íî ýòî òàê ñêó÷íî.;;x
+EVTDESC1014;If there is a God, why is the world filled with hardships, grief and heretics?;;;;;;;;;;;Åñëè Áîã åñòü, ïî÷åìó â ìèðå ñòîëüêî çëà è íåñïðàâåäëèâîñòè?;;x
+EVTDESC1015;The court is filled with young, beautiful men and the attention they give me is making it hard for me to refuse them. Who wouldn't want one of them in their bed?;;;;;;;;;;;Ìîé äâîð ïîëîí ìîëîäûõ ïðèâëåêàòåëüíûõ ìóæ÷èí. Îíè òàê âíèìàòåëüíû êî ìíå, ÷òî èì òðóäíî îòêàçàòü. Íå íàâåñòèòü ëè êîãî-íèáóäü èç íèõ â ïîñòåëè?;;x
+EVTDESC1016;Lately I have become afraid that someone might want to hurt me. I am thinking about hiring a, no, two food-tasters and... maybe a bodyguard would be a good idea?;;;;;;;;;;;Â ïîñëåäíåå âðåìÿ ìåíÿ îäîëåâàþò ïîäîçðåíèÿ, ÷òî êòî-òî õî÷åò ìíå íàâðåäèòü. ß ïîäóìûâàþ î òîì, ÷òîáû çàâåñòè ñåáå äåãóñòàòîðà, èëè äàæå äâóõ. À ìîæåò, åù¸ è òåëîõðàíèòåëÿ íàíÿòü?;;x
+EVTDESC1017;After I had made another courtier cry, the third one in a short week, I felt a bit embarrassed. Is this really who I am, a cruel [Root.GetManWoman] who likes to hurt people?;;;;;;;;;;;Äîâåäÿ äî ñë¸ç î÷åðåäíîãî ïðèäâîðíîãî, óæå òðåòüåãî çà íåäåëþ, ÿ ÷óâñòâóþ ñìóùåíèå. Íåóæåëè ìíå íðàâèòñÿ èñòÿçàòü äðóãèõ ëþäåé?;;x
+EVTDESC1018;Men have never interested me, and my awkward attempts to find out if another woman feels like I do has always ended with insulted or apprehensive looks. But today, a woman tried to seduce me!;;;;;;;;;;;ß íèêîãäà íå ïèòàëà ñòðàñòè ê ìóæ÷èíàì, à íåóêëþæèå ïîïûòêè íàéòè âçàèìíîñòü ó æåíùèí çàêàí÷èâàëèñü îñêîðáë¸ííûìè èëè áðåçãëèâûìè âçãëÿäàìè â ìîþ ñòîðîíó. Íî ñåãîäíÿ îäíà æåíùèíà ïîïûòàëàñü ñîáëàçíèòü ìåíÿ!;;x
+EVTDESC1019;I realized when I was rather young that I would never find a woman attractive. The comfort and love I saw couples share felt out of my reach, until I met a man who felt as I did...;;;;;;;;;;;Åù¸ â þíîñòè ÿ çàìåòèë, ÷òî æåíùèíû íå ïðèâëåêàþò ìåíÿ. Ðàäîñòè è íåæíîñòè ìîëîäûõ âëþáë¸ííûõ áûëè íåïîíÿòíû ìíå. Íî òåïåðü ÿ âñòðåòèë ìóæ÷èíó, êîòîðûé ÷óâñòâóåò òî æå ñàìîå.;;x
+EVTDESC1028;It seems the young women no longer have the power to seduce me.;;;;;;;;;;;Êàæåòñÿ, ìîëîäûå äåâóøêè áîëüøå íå ïðåëüùàþò ìåíÿ.;;x
+EVTDESC1029;Something I thought I had suppressed and finally subdued has risen inside me. Unchaste thoughts have begun to appear in my mind;;;;;;;;;;;Íå÷òî, ÷òî êàê ÿ äóìàë[Root.GetEndA], ìíå óäàëîñü ïîäàâèòü â ñåáå, âíîâü ïðîáóæäàåòñÿ èç ò¸ìíûõ çàêîóëêîâ ìîåé äóøè. Íåïðèñòîéíûå ìûñëè íà÷èíàþò çàïîëíÿòü ìîé ðàçóì.;;x
+EVTDESC1030;A diet of bread and water does not satisfy me any more. I need something else, something delicious and filling.;;;;;;;;;;;Ìîé ïîñò èç ëîìòÿ õëåáà è êðóæêè âîäû áîëüøå ìíå íå â ðàäîñòü. ß õî÷ó ÷åãî-òî åù¸... ×òî-òî âêóñíîå è ñûòíîå.;;x
+EVTDESC1031;I no longer find joy in stuffing myself with fine wines, red meat and rich sauces. I think I need a diet.;;;;;;;;;;;Ìíå áîëüøå íå ìèëû ïðåêðàñíûå âèíà, äè÷ü è ãóñòûå âêóñíûå ñîóñû. ß äóìàþ íà÷àòü ïîñòèòüñÿ.;;x
+EVTDESC1032;Today in the market, I watched as a poor beggar took his bowl full of coins and went straight into the tavern to buy drink. Perhaps mankind is unlovable after all.;;;;;;;;;;;Ñåãîäíÿ íà ðûíî÷íîé ïëîùàäè ÿ óâèäåë[Root.GetEndA], êàê ïîïðîøàéêà âçÿë ñâîþ ìèñêó, ïîëíóþ ìîíåò, è íàïðàâèëñÿ ïðÿìèêîì â áëèæàéøèé êàáàê, ÷òîáû íàïèòüñÿ. Ìîæåò ÷åëîâå÷åñòâî íå äîñòîéíî ëþáâè?;;x
+EVTDESC1033;Money didn't make me happy, nor did respect.;;;;;;;;;;;Äåíüãè íå ñäåëàþò ìåíÿ ñ÷àñòëèâûì ÷åëîâåêîì è íå ïîìîãóò ìíå çàâîåâàòü óâàæåíèå îêðóæàþùèõ.;;x
+EVTDESC1034;Work has become boring and the hours of the day drag on.;;;;;;;;;;;Ðàáîòà ñòàëà ñêó÷íîé, è âðåìÿ òÿíåòñÿ î÷åíü äîëãî.;;x
+EVTDESC1035;I feel spirited and restless. Maybe some work might calm me down?;;;;;;;;;;;ß ÷óâñòâóþ òðåâîãó. Âîçìîæíî, êàêàÿ-íèáóäü ðàáîòà ñìîãëà áû óñïîêîèòü ìåíÿ?;;x
+EVTDESC1036;I am sick of always being kind to everyone!;;;;;;;;;;;Äîáðîòà ýòî áîëåçíü!;;x
+EVTDESC1037;I should be happy with what I've got, not everyone is as privileged as I am.;;;;;;;;;;;Ìíå ñëåäóåò äîâîëüñòâîâàòüñÿ è òåì, ÷åì âëàäåþ. Íåìíîãèå æèâóò òàê æå õîðîøî, êàê ÿ.;;x
+EVTDESC1038;I have started to feel that 'turn the other cheek' is just stupid.;;;;;;;;;;;"ß ÷óâñòâóþ, ÷òî ""ïîäñòàâëÿòü âòîðóþ ùåêó"" ïðîñòî ãëóïî.";;x
+EVTDESC1039;The constant surges of adrenaline and increased heart rate makes me weary. It's not as fun being angry as it used to be.;;;;;;;;;;;Âûáðîñ àäðåíàëèíà, ó÷àù¸ííûé ïóëüñ: âñ¸ ýòî ñòàëî óòîìëÿòü. Ìíå óæå íå òàê âåñåëî, êàê ðàíüøå è ýòî ðàçäðàæàåò.;;x
+EVTDESC1040;I am pretty great, after all.;;;;;;;;;;;ß - âåëèêèé ÷åëîâåê, â êîíöå êîíöîâ.;;x
+EVTDESC1041;'Tis hard to feel proud when one has nothing to be proud of.;;;;;;;;;;;Òðóäíî ÷óâñòâîâàòü ãîðäîñòü, êîãäà íåò íè÷åãî, ÷åì ìîæíî áûëî áû ãîðäèòüñÿ.;;x
+EVTDESC1042;I have grown tired of the young men who try to seduce me.;;;;;;;;;;;ß óñòàëà îò ìîëîäûõ ëþäåé, êîòîðûå ïûòàþòñÿ ìåíÿ ñîáëàçíèòü.;;x
+EVTDESC1043;Sometimes, it's easier to lie than to hurt people with a truth.;;;;;;;;;;;Èíîãäà ëåã÷å ñîëãàòü, ÷åì ïðàâäîé ïðè÷èíèòü áîëü ëþäÿì.;;x
+EVTDESC1044;Lies do hurt people. The truth... I think I can handle the truth.;;;;;;;;;;;Ëîæü ïðè÷èíÿåò ëþäÿì áîëü. Ïðàâäà... ß äóìàþ, ÷òî ñìîãó ñïðàâèòüñÿ ñ íåé.;;x
+EVTDESC1045;I did not understand fear before, but once you have felt your leg shake and teeth chatter with fear, then it is hard to remain brave.;;;;;;;;;;;Ïðåæäå ÿ íå çíàë[Root.GetEndA] ñòðàõà... Íî òðóäíî îñòàâàòüñÿ õðàáðûì, êîãäà òû îäíàæäû óæå ïî÷óâñòâîâàë[Root.GetEndA] äðîæü ïîäæèëîê è ñòóê çóáîâ.;;x
+EVTDESC1046;Fear has loosened its grip on me, and I stand tall against the things I used to fear.;;;;;;;;;;;ß ïåðåáîðîë[Root.GetEndA] ñòðàõ è ÿ ãîðäî ïðîòèâîñòîþ âåùàì, êîòîðûõ ðàíüøå áîÿ[Root.GetLasLsya];;x
+EVTDESC1047;I crave solitude, I no longer seek the company of others.;;;;;;;;;;;ß æàæäó îäèíî÷åñòâà, ÿ áîëüøå íå èùó îáùåñòâà äðóãèõ ëþäåé.;;x
+EVTDESC1048;My confidence has grown and I don't feel so awkward anymore.;;;;;;;;;;;Ìîÿ óâåðåííîñòü ðàñòåò è ÿ áîëüøå íå ÷óâñòâóþ ñåáÿ íåëîâêî.;;x
+EVTDESC1049;There must be more to life than this!;;;;;;;;;;;Òÿãà ê æèçíè äîëæíà áûòü ñèëüíåå, ÷åì ñåé÷àñ!;;x
+EVTDESC1050;I have trumped everyone and am the best [From.GetTitle] ever!;;;;;;;;;;;ß ïðåâîñõîæó âñåõ, ÿ ñàì[From.GetAyaYy] ëó÷ø[From.GetAyaIy] ïðàâèòåëü[From.GetEndNitsa] èç êîãäà-ëèáî æèâøèõ íà íàøåé Çåìëå!;;x
+EVTDESC1051;Justice is a harsh mistress and I can't love her anymore.;;;;;;;;;;;Ñïðàâåäëèâîñòü - ñóðîâàÿ ãîñïîæà è ÿ áîëüøå íå ìîãó å¸ ëþáèòü.;;x
+EVTDESC1052;Someone told me I'm arbitrary and I wish to change that.;;;;;;;;;;;Êòî-òî ñêàçàë ìíå î ìîåé ñâîåâîëüíîñòè, è ÿ õî÷ó èçìåíèòü ýòó ñèòóàöèþ.;;x
+EVTDESC1053;My favorite subject does not interest me anymore and I can't speak about it with the same zeal as before.;;;;;;;;;;;Ìîé îáúåêò îáîæàíèÿ áîëüøå íå èíòåðåñóåò ìåíÿ, è ÿ íå ìîãó ãîâîðèòü î í¸ì ñ òîé æå ñòðàñòüþ, êàê ïðåæäå.;;x
+EVTDESC1054;Perhaps the glass is fuller than I believed it to be.;;;;;;;;;;;Âîçìîæíî, ñòàêàí íàïîëíåí ñèëüíåå, ÷åì ÿ ïîëàãàë[Root.GetEndA].;;x
+EVTDESC1057;The feeling of being watched and followed seem to have disappeared overnight!;;;;;;;;;;;Îùóùåíèå òîãî, ÷òî çà Âàìè ñëåäÿò è ïîñòîÿííî ïðåñëåäóþò, âíåçàïíî èñ÷åçëî!;;x
+EVTDESC1058;Several assassinations and 'loans' later, I don't know if I'm still able to trust anyone.;;;;;;;;;;;Çà ïîñëåäíåå âðåìÿ ïðîèçîøëî íåñêîëüêî óáèéñòâ è ïîêóøåíèé. ß íå çíàþ, ìîãó ëè åù¸ êîìó-òî äîâåðÿòü.;;x
+EVTDESC1060;The glance was intentional lascivious and the [Root.GetManWomanOpp] did not hide [Root.GetHerHisOpp] appreciation, nor hide [Root.GetHerHisOpp] lustful thoughts and invited me to join [Root.GetHerHimOpp]...;;;;;;;;;;;Ýòîò âçãëÿä áûë íàìåðåííî ñëàäîñòðàñòíûì è íå ñêðûâàë [Root.GetHersHisOpp] ïîõîòëèâûõ ìûñëåé. Ìåíÿ ïðèãëàñèëè ïðèñîåäèíèòüñÿ...;;x
+EVTDESC1070;As I listened to the Hafiz correctly continue the recitation of a passage taken randomly from the Qur'an, I marveled at the piety of the man. To submit the whole Qur'an to memory, all 114 Surahs, is a feat only the most zealous Muslim could perform.;;;;;;;;;;;Ñëóøàÿ õàôèçà, íàïîëíÿþùåãî ñâîþ ðå÷ü ïîäõîäÿùèìè öèòàòàìè èç ðàçëè÷íûõ ìåñò Êîðàíà, ÿ ïîðàçè[Root.GetLasLsya] áëàãî÷åñòèþ ýòîãî ÷åëîâåêà. Âûó÷èòü íàèçóñòü âåñü Êîðàí, âñå 114 ñóð - ïîäâèã, êîòîðûé òîëüêî ñàìûé ðüÿíûé ìóñóëüìàíèí ìîæåò âûïîëíèòü.;;x
+EVTDESC1071;I feel nervous as I stand before the imam, waiting for him to choose and start reciting a random passage from the Qur'an which I must then continue reciting correctly. He has chosen:\n\nWhen the Qur'an is read...;;;;;;;;;;;ß íåðâíè÷àþ, ñòîÿ ïåðåä èìàìîì, êîòîðûé ñîáèðàåòñÿ ðàññêàçàòü ñëó÷àéíûé îòðûâîê èç Êîðàíà è ïîïðîñèòü ìåíÿ ïðîäîëæèòü åãî. Íàêîíåö îí âûáðàë:\nÊîãäà ÷èòàåòñÿ Êîðàí...;;x
+EVTOPTA1000;I can't resist her.;;;;;;;;;;;ß íå ìîãó óñòîÿòü!;;x
+EVTOPTA1001;I try to eat modestly but the food is too good!;;;;;;;;;;;ß ïîñòàðàþñü íå îáúåäàòüñÿ, íî ýòî... òàê âêóñíî!;;x
+EVTOPTA1003;I accept the gift reluctantly;;;;;;;;;;;Íåîõîòíî ïðèíèìàþ äàð.;;x
+EVTOPTA1004;Let someone else do this!;;;;;;;;;;;Ïóñòü ýòèì çàíèìàåòñÿ êòî-íèáóäü äðóãîé!;;x
+EVTOPTA1005;Why was [Root.GetSheHe] blessed and not I?;;;;;;;;;;;Ïî÷åìó ÿ íå òàêàÿ?;;x
+EVTOPTA1006;If they are better than I am, then I have to accept that;;;;;;;;;;;Íó ÷òî æ, ïðèä¸òñÿ ïðèíÿòü ýòî êàê äàííîñòü.;;x
+EVTOPTA1007;An eye for an eye!;;;;;;;;;;;Îêî çà îêî!;;x
+EVTOPTA1008;I have nothing to be ashamed of!;;;;;;;;;;;Ìíå íå÷åãî ñòûäèòüñÿ!;;x
+EVTOPTA1009;Lie and don't hurt anyone;;;;;;;;;;;Ëîæü ñãëàäèò îñòðûå óãëû.;;x
+EVTOPTA1010;Run awaaaayyy!;;;;;;;;;;;Áåæàààòü!;;x
+EVTOPTA1011;I don't want to meet any new people;;;;;;;;;;;ß íå õî÷ó âñòðå÷àòüñÿ ñ íîâûìè ëþäüìè.;;x
+EVTOPTA1012;I will never be satisfied!;;;;;;;;;;;Ñîâåðøåíñòâó íåò ïðåäåëà!;;x
+EVTOPTA1013;Let my rule begin!;;;;;;;;;;;Íà÷í¸ì âåñåëüå!;;x
+EVTOPTA1014;God has a plan for everything and everyone;;;;;;;;;;;Ó Íåãî åñòü ïëàí äëÿ âñåõ è êàæäîãî.;;x
+EVTOPTA1015;Give in, have some fun!;;;;;;;;;;;Çàéìåìñÿ ðàçâðàòîì!;;x
+EVTOPTA1016;Food-tasters, bodyguards, anything that can save me!;;;;;;;;;;;Äåãóñòàòîðû, òåëîõðàíèòåëè. Âñ¸ äëÿ ìîåé çàùèòû!;;x
+EVTOPTA1017;Who am I kidding? I love this!;;;;;;;;;;;Êîãî ÿ îáìàíûâàþ... Ìíå äåéñòâèòåëüíî ýòî íðàâèòñÿ!;;x
+EVTOPTA1018;...and she's irresistible!;;;;;;;;;;;È ÿ íå ñìîãëà óñòîÿòü!;;x
+EVTOPTA1019;...and he's irresistible!;;;;;;;;;;;È íå ñìîã óñòîÿòü!;;x
+EVTOPTA1028;I just don't feel lustful anymore;;;;;;;;;;;Ïîõîòü áîëåå ìåíÿ íå ìó÷àåò;;x
+EVTOPTA1030;I have broken my fast with wine and quail;;;;;;;;;;;ß íàðóøèë[Root.GetEndA] ïîñò æàðåíûìè ïåðåïåëàìè ñ âèíîì;;x
+EVTOPTA1031;Bread and water for me!;;;;;;;;;;;Õëåáà è âîäû ìíå!;;x
+EVTOPTA1032;No more charity!;;;;;;;;;;;Õâàòèò ñ ìåíÿ áëàãîòâîðèòåëüíîñòè!;;x
+EVTOPTA1033;I think I need something else in my life;;;;;;;;;;;ß äóìàþ, ìíå íóæíî ÷òî-òî äðóãîå â ýòîé æèçíè.;;x
+EVTOPTA1034;Diligence may be a virtue, but it's exhausting!;;;;;;;;;;;Âîçìîæíî, óñåðäíàÿ ðàáîòà - äîñòîéíîå çàíÿòèå, íî ýòî òàê óòîìèòåëüíî!;;x
+EVTOPTA1035;No longer lazy;;;;;;;;;;;Áîëüøå íå áóäó ëåíèòüñÿ;;x
+EVTOPTA1036;Feel my wrath!;;;;;;;;;;;Ïî÷óâñòâóéòå ìîé ãíåâ!;;x
+EVTOPTA1037;Begone, envy!;;;;;;;;;;;Ïðî÷ü çàâèñòü!;;x
+EVTOPTA1038;An eye for an eye!;;;;;;;;;;;Îêî çà îêî!;;x
+EVTOPTA1039;I should take it easier;;;;;;;;;;;Ìíå ñëåäóåò âîñïðèíèìàòü ýòî ïðîùå;;x
+EVTOPTA1040;I think I should be proud of myself;;;;;;;;;;;ß ñ÷èòàþ, ÷òî ìîãó ãîðäèòüñÿ ñîáîé;;x
+EVTOPTA1041;Why should I be proud of myself?;;;;;;;;;;;Çà ÷òî ìíå ãîðäèòüñÿ ñîáîé?;;x
+EVTOPTA1043;Honesty can hurt;;;;;;;;;;;×åñòíîñòü ìîæåò íàâðåäèòü;;x
+EVTOPTA1044;Truth shall set me free;;;;;;;;;;;Ïðàâäà îñâîáîæäàåò ìåíÿ;;x
+EVTOPTA1045;This does not make me a coward, does it?;;;;;;;;;;;Ýòî íå äåëàåò ìåíÿ òðóñîì, íå òàê ëè?;;x
+EVTOPTA1046;No one can call me craven anymore;;;;;;;;;;;Áîëüøå íèêòî íå ñìîæåò íàçâàòü ìåíÿ òðóñîì;;x
+EVTOPTA1047;...but I won't become a hermit;;;;;;;;;;;...íî ÿ íå ñòàë[Root.GetEndA] îòøåëüíèêîì;;x
+EVTOPTA1048;My stuttering has disappeared!;;;;;;;;;;;Çàñòåí÷èâîñòü ïðîøëà!;;x
+EVTOPTA1049;And I will find it!;;;;;;;;;;;È ÿ äîñòèãíó ñîâåðøåíñòâà!;;x
+EVTOPTA1050;Now what?;;;;;;;;;;;È ÷òî äàëüøå?;;x
+EVTOPTA1051;I am... NOT the law!;;;;;;;;;;;ß... íå çàêîí!;;x
+EVTOPTA1052;Good for me, right?;;;;;;;;;;;Õîðîøî äëÿ ìåíÿ, ïðàâèëüíî?;;x
+EVTOPTA1053;I was boring before;;;;;;;;;;;Ïðåæäå ÿ áûë[Root.GetEndA] ñêó÷í[Root.GetOyYm];;x
+EVTOPTA1054;...as long as it does not overflow;;;;;;;;;;;...ïîêà íå ïîëüåòñÿ ÷åðåç êðàé;;x
+EVTOPTA1057;I am safe;;;;;;;;;;;ß â áåçîïàñíîñòè;;x
+EVTOPTA1058;Why are they trying to hurt me?;;;;;;;;;;;Ïî÷åìó îíè ïûòàþòñÿ ïðè÷èíèòü ìíå áîëü?;;x
+EVTOPTA1060;Follow [Root.GetHerHimOpp] to [Root.GetHerHisOpp] chambers...;;;;;;;;;;;Ïðîñëåäîâàòü â [Root.GetHersHisOpp] [Root.GetChamberACC]...;;x
+EVTOPTA1070;May Allah hear my words, I will memorize the whole Qur'an!;;;;;;;;;;;Óñëûøü ìîè ñëîâà, Àëëàõ!;;x
+EVTOPTA1071;...listen to it with attention and hold your peace that ye may receive Mercy;;;;;;;;;;;...òî ñëóøàéòå åãî è õðàíèòå ìîë÷àíèå, òîãäà áûòü ìîæåò, âàñ ïîìèëóþò.;;x
+EVTOPTB1000;Mind over body, mind over body...;;;;;;;;;;;Ðàçóì ñèëüíåå ïëîòè, ðàçóì ñèëüíåå ïëîòè...;;x
+EVTOPTB1001;I satisfy my hunger with bread and water;;;;;;;;;;;Õëåá è âîäà óòîëÿò ìîé ãîëîä.;;x
+EVTOPTB1003;Wasn't my advice worth more than a couple pennies?;;;;;;;;;;;Ä¸øåâî æå Âû öåíèòå ìîþ ìóäðîñòü!;;x
+EVTOPTB1004;I can rest in Heaven;;;;;;;;;;;Â ðàþ îòäîõí¸ì, à ñåé÷àñ - ðàáîòàòü!;;x
+EVTOPTB1005;It's hard not to envy her, but I am perfect as I am;;;;;;;;;;;Ñëîæíî óäåðæàòüñÿ îò çàâèñòè, íî ÿ õîðîøà òàêàÿ, êàê åñòü.;;x
+EVTOPTB1006;I envy them all!;;;;;;;;;;;Êàê æå ÿ èì âñåì çàâèäóþ!;;x
+EVTOPTB1007;I'll turn the other cheek;;;;;;;;;;;ß ïîäñòàâëþ äðóãóþ ù¸êó.;;x
+EVTOPTB1008;I have many strengths, but more weaknesses;;;;;;;;;;;Ó ìåíÿ åñòü ñèëüíûå ñòîðîíû, íî ñëàáûõ áîëüøå.;;x
+EVTOPTB1009;Be honest and tell it as it is;;;;;;;;;;;×åñòíîñòü îñâîáîæäàåò.;;x
+EVTOPTB1010;Stay put and fight!;;;;;;;;;;;Ñòîÿòü è ñðàæàòüñÿ!;;x
+EVTOPTB1011;I'll just have to try to be more gregarious;;;;;;;;;;;Íóæíî áûòü îáùèòåëüíåå.;;x
+EVTOPTB1012;I am content;;;;;;;;;;;Ìåíÿ âñ¸ óñòðàèâàåò.;;x
+EVTOPTB1013;Justice should always prevail!;;;;;;;;;;;Ñïðàâåäëèâîñòü ïðåâûøå âñåãî!;;x
+EVTOPTB1014;God is as clueless as I am;;;;;;;;;;;Åìó ïðîñòî íàïëåâàòü.;;x
+EVTOPTB1015;A woman should suppress her worldly urges;;;;;;;;;;;Æåíùèíà äîëæíà óñìèðÿòü ñâîþ ïîõîòü.;;x
+EVTOPTB1016;I won't let fear rule my life!;;;;;;;;;;;Ñòðàõ íå áóäåò îòðàâëÿòü ìíå æèçíü!;;x
+EVTOPTB1017;Oh [Root.Religion.GetRandomGodName], what have I done? Forgive me, please!;;;;;;;;;;;Î, [Root.Religion.GetRandomGodName], ÷òî ÿ äåëàþ? Ïðîñòè ìåíÿ!;;x
+EVTOPTB1018;As tempting as it is, I really shouldn't;;;;;;;;;;;Ñîáëàçíèòåëüíî, êîíå÷íî, íî... íåïðàâèëüíî.;;x
+EVTOPTB1019;I cannot give in to these feelings!;;;;;;;;;;;ß íå äîëæåí ïîääàâàòüñÿ ïîäîáíûì ÷óâñòâàì!;;x
+EVTOPTB1029;I can't resist him.;;;;;;;;;;;ß áîëüøå íå ìîãó ïðîòèâèòüñÿ ýòîìó.;;x
+EVTOPTB1032;It does not make sense, but I must try to accept it.;;;;;;;;;;;Â ýòîì íåò ñìûñëà, íî ÿ äîëæ[Root.GetNaEn] ñìèðèòüñÿ.;;x
+EVTOPTB1060;It is forbidden!;;;;;;;;;;;Ýòî çàïðåùåíî!;;x
+EVTOPTB1070;Marvelous! But it must be such a chore...;;;;;;;;;;;Èçóìèòåëüíî! Íî ýòî äîëæíî áûòü òàêàÿ ðóòèíà...;;x

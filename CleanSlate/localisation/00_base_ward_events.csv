@@ -1,39 +1,33 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC78000;A ward of mine complained and called my court inferior, at least in comparison to the child's father's court.;;;;;;;;;;;;;x
-EVTDESC78005;To be a ward in [Root.Guardian.GetTitledFirstName]'s court is improving my stature. I had no idea how different a [Root.Father.GetTitle]'s court and a [Root.Guardian.GetTitle]'s court could be!;;;;;;;;;;;;;x
-EVTDESC78006;My [GetFromRelation] [From.GetFirstName] told me how much [From.GetSheHe] enjoyed being in the court of [From.Guardian.GetTitledFirstName] and how [From.GetHerHis] stature had improved!;;;;;;;;;;;;;x
-EVTDESC78010;My child was lured into stealing cookies and smearing jam all over the kitchen by one of my wards! The cook gave them a hearty scolding and then sent them to me, both still smeared with jam and covered in cookie crumbs.;;;;;;;;;;;;;x
-EVTDESC78015;I have seen the looks on my wife [Root.Spouse.GetFirstName]'s face every time she looks at my ward. The longing on her face tells me she wants to have children of her own, and I'll gladly help her with that.;;;;;;;;;;;;;x
-EVTDESC78020;My ward [bullied_ward.GetTitledFirstName] came running for me, tears streaming down [bullied_ward.GetHerHis] face and snot creeping towards [bullied_ward.GetHerHis] mouth.\n"[Root.GetFirstName], please help me! The other children are not nice to me!";;;;;;;;;;;;;x
-EVTDESC78025;A foreign court can teach a child all kinds of important lessons, everything from respecting to understanding and even adapting to other people's traditions and culture. My ward has learnt several important lessons of life in my court, as foreign as it may be from its father's court.;;;;;;;;;;;;;x
-EVTDESC78026;I knew I had made a good decision when I sent my child to [From.GetTitledFirstName]'s court. The life lessons learnt from a foreign court is worth its weight in gold and my child have learnt to respect and understand other people's traditions and culture.;;;;;;;;;;;;;x
-EVTDESC78030;No matter how many questions I ask, [Root.Guardian.GetTitledFirstName] always has an answer and is ever so patient with me! Our relationship has grown and I feel as if I have formed a strong mentor-relationship with [Root.Guardian.GetTitledFirstName].;;;;;;;;;;;;;x
-EVTDESC78031;My ward [From.GetFirstName] is inquisitive and asks so many questions it is hard to answer them all. I try my best and for every answer I give, [From.GetFirstName] seems to like me even more.;;;;;;;;;;;;;x
-
-EVTOPTA78000;Try to improve your court to impress the child;;;;;;;;;;;;;x
-EVTOPTA78005;What else can I learn?;;;;;;;;;;;;;x
-EVTOPTA78006;I'm proud of you, [From.GetFirstName]!;;;;;;;;;;;;;x
-EVTOPTA78010;Punish the fosterling, forgive my child;;;;;;;;;;;;;x
-EVTOPTA78015;Shall we try some more?;;;;;;;;;;;;;x
-EVTOPTA78020;Why should I care?;;;;;;;;;;;;;x
-EVTOPTA78025;Its father will be pleased;;;;;;;;;;;;;x
-EVTOPTA78026;Good, good;;;;;;;;;;;;;x
-EVTOPTA78030;This will be good to me;;;;;;;;;;;;;x
-EVTOPTA78031;I think we have become friends!;;;;;;;;;;;;;x
-
-EVTOPTB78000;For a simple [Root.GetTitle], my court is nothing to be ashamed of!;;;;;;;;;;;;;x
-EVTOPTB78010;You will both clean the stables for a whole week!;;;;;;;;;;;;;x
-EVTOPTB78020;You will grow strong from that;;;;;;;;;;;;;x
-EVTOPTB78030;I can handle things on my own;;;;;;;;;;;;;x
-
-EVTOPTC78000;Have the child sweep the stables;;;;;;;;;;;;;x
-EVTOPTC78010;I forgive you, but promise me this won't happen again!;;;;;;;;;;;;;x
-EVTOPTC78020;I'll punish [child_bully.GetFirstName], don't you worry;;;;;;;;;;;;;x
-
-EVTOPTD78000;Birch the child;;;;;;;;;;;;;x
-EVTOPTD78010;Punish my own child for being so impressionable!;;;;;;;;;;;;;x
-
-EVTTOOLTIP78006;[This.GetTitledFirstName]'s child [Root.GetFirstName] is thriving under [Root.Guardian.GetTitledFirstName]'s care;;;;;;;;;;;;;x
-EVTTOOLTIP78026;[This.GetTitledFirstName]'s child is thriving under [Root.GetTitledFirstName]'s care;;;;;;;;;;;;;x
-EVTTOOLTIP78031;[This.GetTitledFirstName] has formed a strong relationship with [This.GetHerHis] ward [Root.GetTitledFirstName];;;;;;;;;;;;;x
+EVTDESC78000;A ward of mine complained and called my court inferior, at least in comparison to the child's father's court.;;;;;;;;;;;Ìîé ïîäîïå÷íûé æàëóåòñÿ, ÷òî ìîé äâîð êóäà õóæå, ÷åì äâîð åãî îòöà.;;x
+EVTDESC78005;To be a ward in [Root.Guardian.GetTitledFirstName]'s court is improving my stature. I had no idea how different a [Root.Father.GetTitle]'s court and a [Root.Guardian.GetTitle]'s court could be!;;;;;;;;;;;Íàõîäÿñü ïîä îïåêîé ïðè äâîðå òàêîãî ÷åëîâåêà, êàê [Root.Guardian.GetTitledFirstName], ÿ òîëüêî ïîâûøàþ ñâîé ñòàòóñ. Êàê æå ñèëüíî îòëè÷àþòñÿ äâîðû, êîòîðûå ñîäåðæàò [Root.Father.GetTitle] è [Root.Guardian.GetTitle]!;;x
+EVTDESC78006;My [GetFromRelation] [From.GetFirstName] told me how much [From.GetSheHe] enjoyed being in the court of [From.Guardian.GetTitledFirstName] and how [From.GetHerHis] stature had improved!;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] ãîâîðèò ìíå, êàê ýòî çäîðîâî áûòü ïðè äâîðå òàêîãî ÷åëîâåêà, êàê [From.Guardian.GetTitledFirstName], âåäü ýòî ïîäíèìàåò [From.GetHersHis] ñòàòóñ.;;x
+EVTDESC78010;My child was lured into stealing cookies and smearing jam all over the kitchen by one of my wards! The cook gave them a hearty scolding and then sent them to me, both still smeared with jam and covered in cookie crumbs.;;;;;;;;;;;Ìîé ðåá¸íîê ñ ìîèì æå ïîäîïå÷íûì íà êóõíå õîòåëè óêðàñòü ïå÷åíüå è ðàçáèëè áàíêó ñ äæåìîì, èñïà÷êàâ âñþ êóõíþ è ïåðåïà÷êàâøèñü ñàìè. Îíè ïîëó÷èëè íàãîíÿé îò êóõàðêè, à ïîòîì ïðåäñòàëè ïåðåäî ìíîé, âûìàçàííûå äæåìîì â êðîøêàõ îò ïå÷åíüÿ.;;x
+EVTDESC78015;I have seen the looks on my wife [Root.Spouse.GetFirstName]'s face every time she looks at my ward. The longing on her face tells me she wants to have children of her own, and I'll gladly help her with that.;;;;;;;;;;;ß âèäåë, êàê ìîÿ æåíà ñìîòðèò íà ìîåãî âîñïèòàííèêà. Ïå÷àëü íà å¸ ëèöå ãîâîðèò ìíå, ÷òî åé áû õîòåëîñü èìåòü ñîáñòâåííîãî ðåá¸íêà. È ÿ áóäó ðàä åé â ýòîì ïîìî÷ü.;;x
+EVTDESC78020;"My ward [bullied_ward.GetTitledFirstName] came running for me, tears streaming down [bullied_ward.GetHerHis] face and snot creeping towards [bullied_ward.GetHerHis] mouth.\n""[Root.GetFirstName], please help me! The other children are not nice to me!""";;;;;;;;;;;"Ì[From.GetOyaOy] ïîäîïå÷í[From.GetAyaYy] [From.GetTitledFirstName] ñåãîäíÿ ïðèáåæàë[From.GetEndA] êî ìíå ñ çàïëàêàííûì ëèöîì.\n""Ïîìîãèòå! Äðóãèå äåòè îáèæàþò ìåíÿ!"": - ïðèæàâøèñü êî ìíå, ïðîðåâåë[From.GetEndA] [From.GetSheHe].";;x
+EVTDESC78025;A foreign court can teach a child all kinds of important lessons, everything from respecting to understanding and even adapting to other people's traditions and culture. My ward has learnt several important lessons of life in my court, as foreign as it may be from its father's court.;;;;;;;;;;;Èíîñòðàííûé äâîð ìîæåò íàó÷èòü ðåá¸íêà ìíîãèì âàæíûì âåùàì. Óâàæàòü ëþäåé, ïîíèìàòü èõ, ïðèñïîñàáëèâàòüñÿ ê èõ òðàäèöèÿì è êóëüòóðå. Ìîé âîñïèòàííèê âûó÷èë íåñêîëüêî âàæíûõ óðîêîâ ó ìåíÿ ïðè äâîðå, òàê íåïîõîæåì íà äâîð åãî îòöà.;;x
+EVTDESC78026;I knew I had made a good decision when I sent my child to [From.GetTitledFirstName]'s court. The life lessons learnt from a foreign court is worth its weight in gold and my child have learnt to respect and understand other people's traditions and culture.;;;;;;;;;;;Íåñîìíåííî, ýòî áûëî âåðíîå ðåøåíèå - îòïðàâèòü ñâîåãî ðåá¸íêà êî äâîðó òàêîãî ÷åëîâåêà, êàê [From.GetTitledFirstName]. Óðîêè, óñâîåííûå èì ïðè äâîðå äðóãîãî ãîñóäàðñòâà, îêàçàëèñü âåñüìà ïîëåçíû, îí íàó÷èëñÿ óâàæàòü è ïîíèìàòü ëþäåé äðóãîé êóëüòóðû.;;x
+EVTDESC78030;No matter how many questions I ask, [Root.Guardian.GetTitledFirstName] always has an answer and is ever so patient with me! Our relationship has grown and I feel as if I have formed a strong mentor-relationship with [Root.Guardian.GetTitledFirstName].;;;;;;;;;;;Êàêèå áû âîïðîñû ó ìåíÿ íå âîçíèêàëè, [Root.Guardian.GetTitledFirstName] âñåãäà íàõîäèò íà íèõ îòâåò, [Root.Guardian.GetSheHe] òåðïåëèâî âûñëóøèâàåò ìåíÿ. ß îáîæàþ ñâîåãî ó÷èòåëÿ!;;x
+EVTDESC78031;My ward [From.GetFirstName] is inquisitive and asks so many questions it is hard to answer them all. I try my best and for every answer I give, [From.GetFirstName] seems to like me even more.;;;;;;;;;;;[From.GetFirstName], ì[From.GetOyaOy] âîñïèòàííè[From.GetTsaK], ïðîÿâëÿåò ÷ðåçâû÷àéíóþ ëþáîçíàòåëüíîñòü è âñ¸ âðåìÿ çàäà¸ò âîïðîñû, íà íåêîòîðûå èç êîòîðûõ ìíå òðóäíî îòâåòèòü. ß ñòàðàþñü èçî âñåõ ñèë, è ñ êàæäûì ìîèì îòâåòîì, [From.GetFirstName], êàæåòñÿ, ëþáèò ìåíÿ âñ¸ áîëüøå.;;x
+EVTOPTA78000;Try to improve your court to impress the child;;;;;;;;;;;Ïîñòàðàòüñÿ ÷òî-òî óëó÷øèòü, ÷òîáû âïå÷àòëèòü ðåá¸íêà.;;x
+EVTOPTA78005;What else can I learn?;;;;;;;;;;;Â ÷¸ì åùå ÿ ìîãó ñòàòü ëó÷øå?;;x
+EVTOPTA78006;I'm proud of you, [From.GetFirstName]!;;;;;;;;;;;ß ãîðæóñü òîáîé, [From.GetFirstName]!;;x
+EVTOPTA78010;Punish the fosterling, forgive my child;;;;;;;;;;;Íàêàçàòü ïðè¸ìíîãî, à ñâîåãî ïðîñòèòü.;;x
+EVTOPTA78015;Shall we try some more?;;;;;;;;;;;Äàâàé åù¸ ïîïûòàåìñÿ?;;x
+EVTOPTA78020;Why should I care?;;;;;;;;;;;À ÿ-òî òóò ïðè ÷¸ì?;;x
+EVTOPTA78025;Its father will be pleased;;;;;;;;;;;Åãî îòåö îáðàäóåòñÿ.;;x
+EVTOPTA78026;Good, good;;;;;;;;;;;×òî æ, ÷óäåñíî, ÷óäåñíî...;;x
+EVTOPTA78030;This will be good to me;;;;;;;;;;;Ýòî ïðåêðàñíî.;;x
+EVTOPTA78031;I think we have become friends!;;;;;;;;;;;Äóìàþ, ìû ñòàëè äðóçüÿìè!;;x
+EVTOPTB78000;For a simple [Root.GetTitle], my court is nothing to be ashamed of!;;;;;;;;;;;Íå õî÷ó íè÷åãî ñëûøàòü, ñ ìîèì äâîðîì âñ¸ â ïîðÿäêå!;;x
+EVTOPTB78010;You will both clean the stables for a whole week!;;;;;;;;;;;Çà ýòî Âû áóäåòå öåëóþ íåäåëþ ÷èñòèòü êîíþøíè!;;x
+EVTOPTB78020;You will grow strong from that;;;;;;;;;;;Ýòî ñäåëàåò òåáÿ ñèëüíåå.;;x
+EVTOPTB78030;I can handle things on my own;;;;;;;;;;;Êàæåòñÿ, ÿ ìîãó íàó÷èòüñÿ âñåìó.;;x
+EVTOPTC78000;Have the child sweep the stables;;;;;;;;;;;Çàñòàâèòü ðåá¸íêà ÷èñòèòü êîíþøíè.;;x
+EVTOPTC78010;I forgive you, but promise me this won't happen again!;;;;;;;;;;;ß ïðîùàþ Âàñ, íî ïîîáåùàéòå, ÷òî ýòî áîëüøå íå ïîâòîðèòñÿ!;;x
+EVTOPTC78020;I'll punish [child_bully.GetFirstName], don't you worry;;;;;;;;;;;[child_bully.GetFirstName] ïîëó÷èò ïî çàñëóãàì!;;x
+EVTOPTD78000;Birch the child;;;;;;;;;;;Ðîçãè íàó÷àò òàêòè÷íîñòè.;;x
+EVTOPTD78010;Punish my own child for being so impressionable!;;;;;;;;;;;Íàêàçàòü ñâîåãî ðåá¸íêà çà ïîäàòëèâîñòü.;;x
+EVTTOOLTIP78006;[This.GetTitledFirstName]'s child [Root.GetFirstName] is thriving under [Root.Guardian.GetTitledFirstName]'s care;;;;;;;;;;; ðåá¸íîê [Root.GetFirstName] äîâîëåí îïåêîé ïåðñîíàæà [Root.Guardian.GetTitledFirstName].;;x
+EVTTOOLTIP78026;[This.GetTitledFirstName]'s child is thriving under [Root.GetTitledFirstName]'s care;;;;;;;;;;; ðåá¸íîê ïðîöâåòàåò ïîä îïåêîé òàêîãî ÷åëîâåêà, êàê [Root.GetTitledFirstName].;;x
+EVTTOOLTIP78031;[This.GetTitledFirstName] has formed a strong relationship with [This.GetHerHis] ward [Root.GetTitledFirstName];;;;;;;;;;;ïîäðóæèòüñÿ ñ ïåðñîíàæåì [Root.GetTitledFirstName].;;x

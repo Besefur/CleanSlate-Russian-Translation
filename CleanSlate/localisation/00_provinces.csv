@@ -1,2670 +1,2148 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-PROV0;Unknown;;;;;;;;;;;;;x
-
+PROV0;Unknown;;;;;;;;;;;Íåèçâåñòíî;;x
 ## Owned provinces
 # Ireland
-PROV1;Tyrconnell;;;;;;;;;;;;;x
-PROV2;Tyrone;;;;;;;;;;;;;x
-PROV3;Ulster;;;;;;;;;;;;;x
-PROV4;Oriel;;;;;;;;;;;;;x
-
-PROV5;Meath;;;;;;;;;;;;;x
-PROV6;Dublin;;;;;;;;;;;;;x
-PROV7;Kildare;;;;;;;;;;;;;x
-PROV8;Westmeath;;;;;;;;;;;;;x
-
-PROV9;North Connacht;;;;;;;;;;;;;x
-PROV10;Breifne;;;;;;;;;;;;;x
-PROV11;West Connacht;;;;;;;;;;;;;x
-PROV12;Hy-Many;;;;;;;;;;;;;x
-
-PROV13;Thomond;;;;;;;;;;;;;x
-PROV14;Iarmond;;;;;;;;;;;;;x
-PROV15;Desmond;;;;;;;;;;;;;x
-PROV16;Ormond;;;;;;;;;;;;;x
-
-PROV17;Ossory;;;;;;;;;;;;;x
-PROV18;Leix;;;;;;;;;;;;;x
-PROV19;Leinster;;;;;;;;;;;;;x
-
+PROV1;Tyrconnell;;;;;;;;;;;Òèð Êîííàë;;x
+PROV2;Tyrone;;;;;;;;;;;Òèðîí;;x
+PROV3;Ulster;;;;;;;;;;;Óëüñòåð;;x
+PROV4;Oriel;;;;;;;;;;;Îðèåëü;;x
+PROV5;Meath;;;;;;;;;;;Ìèò;;x
+PROV6;Dublin;;;;;;;;;;;Äóáëèí;;x
+PROV7;Kildare;;;;;;;;;;;Êèëäåð;;x
+PROV8;Westmeath;;;;;;;;;;;Óýñòìèò;;x
+PROV9;North Connacht;;;;;;;;;;;Ñåâåðíûé Êîííàõò;;x
+PROV10;Breifne;;;;;;;;;;;Áðåéôíå;;x
+PROV11;West Connacht;;;;;;;;;;;Çàïàäíûé Êîííàõò;;x
+PROV12;Hy-Many;;;;;;;;;;;Õàé-Ìýíè;;x
+PROV13;Thomond;;;;;;;;;;;Òîìîíä;;x
+PROV14;Iarmond;;;;;;;;;;;Èàðìîí;;x
+PROV15;Desmond;;;;;;;;;;;Äåñìîíä;;x
+PROV16;Ormond;;;;;;;;;;;Îðìîíä;;x
+PROV17;Ossory;;;;;;;;;;;Îññîðè;;x
+PROV18;Leix;;;;;;;;;;;Ëèèøü;;x
+PROV19;Leinster;;;;;;;;;;;Ëåéíñòåð;;x
 # Wales
-PROV20;Dyfed;;;;;;;;;;;;;x
-PROV21;Gower;;;;;;;;;;;;;x
-PROV22;Ceredigion;;;;;;;;;;;;;x
-
-PROV23;Gwynedd;;;;;;;;;;;;;x
-PROV24;Anglesey;;;;;;;;;;;;;x
-PROV25;Perfeddwlad;;;;;;;;;;;;;x
-
-PROV26;Shrewsbury;;;;;;;;;;;;;x
-PROV27;Hereford;;;;;;;;;;;;;x
-PROV28;Powys;;;;;;;;;;;;;x
-PROV29;Builth;;;;;;;;;;;;;x
-
-PROV30;Brycheiniog;;;;;;;;;;;;;x
-PROV31;Glamorgan;;;;;;;;;;;;;x
-PROV32;Gwent;;;;;;;;;;;;;x
-
-PROV33;Cornwall;;;;;;;;;;;;;x
-PROV34;Devon;;;;;;;;;;;;;x
-
+PROV20;Dyfed;;;;;;;;;;;Äèâåä;;x
+PROV21;Gower;;;;;;;;;;;Ãàóýð;;x
+PROV22;Ceredigion;;;;;;;;;;;Êåðåäèãèîí;;x
+PROV23;Gwynedd;;;;;;;;;;;Ãâèíåää;;x
+PROV24;Anglesey;;;;;;;;;;;Àíãëñè;;x
+PROV25;Perfeddwlad;;;;;;;;;;;Ïåðâåòóëàä;;x
+PROV26;Shrewsbury;;;;;;;;;;;Øðóñáåðè;;x
+PROV27;Hereford;;;;;;;;;;;Õåðåôîðä;;x
+PROV28;Powys;;;;;;;;;;;Ïîóèñ;;x
+PROV29;Builth;;;;;;;;;;;Áèýëëò;;x
+PROV30;Brycheiniog;;;;;;;;;;;Áðèõåéíèîã;;x
+PROV31;Glamorgan;;;;;;;;;;;Ãëàìîðãàí;;x
+PROV32;Gwent;;;;;;;;;;;Ãóýíò;;x
+PROV33;Cornwall;;;;;;;;;;;Êîðíóîëë;;x
+PROV34;Devon;;;;;;;;;;;Äåâîí;;x
 # England
-PROV35;Somerset;;;;;;;;;;;;;x
-PROV36;Bath;;;;;;;;;;;;;x
-
-PROV37;Gloucester;;;;;;;;;;;;;x
-PROV38;Oxford;;;;;;;;;;;;;x
-PROV39;Wiltshire;;;;;;;;;;;;;x
-
-PROV40;Dorset;;;;;;;;;;;;;x
-PROV41;Winchester;;;;;;;;;;;;;x
-PROV42;Wight;;;;;;;;;;;;;x
-
-PROV43;Sussex;;;;;;;;;;;;;x
-PROV44;Kent;;;;;;;;;;;;;x
-PROV45;Surrey;;;;;;;;;;;;;x
-
-PROV46;Middlesex;;;;;;;;;;;;;x
-PROV47;Essex;;;;;;;;;;;;;x
-PROV48;Bedford;;;;;;;;;;;;;x
-PROV49;Northampton;;;;;;;;;;;;;x
-
-PROV50;Suffolk;;;;;;;;;;;;;x
-PROV51;Norfolk;;;;;;;;;;;;;x
-
-PROV52;Lincoln;;;;;;;;;;;;;x
-PROV53;Leicester;;;;;;;;;;;;;x
-PROV54;Warwick;;;;;;;;;;;;;x
-PROV55;Worcester;;;;;;;;;;;;;x
-
-PROV56;Derby;;;;;;;;;;;;;x
-PROV57;Chester;;;;;;;;;;;;;x
-PROV58;Lancaster;;;;;;;;;;;;;x
-
-PROV59;Hull;;;;;;;;;;;;;x
-PROV60;Leeds;;;;;;;;;;;;;x
-PROV61;York;;;;;;;;;;;;;x
-PROV62;Yoredale;;;;;;;;;;;;;x
-
-PROV63;Cumberland;;;;;;;;;;;;;x
-PROV64;Westmorland;;;;;;;;;;;;;x
-
-PROV65;Northumberland;;;;;;;;;;;;;x
-PROV66;Lindisfarne;;;;;;;;;;;;;x
-PROV67;Durham;;;;;;;;;;;;;x
-
+PROV35;Somerset;;;;;;;;;;;Ñîìåðñåò;;x
+PROV36;Bath;;;;;;;;;;;Áàò;;x
+PROV37;Gloucester;;;;;;;;;;;Ãëîñòåð;;x
+PROV38;Oxford;;;;;;;;;;;Îêñôîðä;;x
+PROV39;Wiltshire;;;;;;;;;;;Óèëòøèð;;x
+PROV40;Dorset;;;;;;;;;;;Äîðñåò;;x
+PROV41;Winchester;;;;;;;;;;;Óèí÷åñòåð;;x
+PROV42;Wight;;;;;;;;;;;Óàéò;;x
+PROV43;Sussex;;;;;;;;;;;Ñàññåêñ;;x
+PROV44;Kent;;;;;;;;;;;Êåíò;;x
+PROV45;Surrey;;;;;;;;;;;Ñóððåé;;x
+PROV46;Middlesex;;;;;;;;;;;Ìèääëñåêñ;;x
+PROV47;Essex;;;;;;;;;;;Ýññåêñ;;x
+PROV48;Bedford;;;;;;;;;;;Áåäôîðä;;x
+PROV49;Northampton;;;;;;;;;;;Íîðòãåìïòîí;;x
+PROV50;Suffolk;;;;;;;;;;;Ñàôôîëê;;x
+PROV51;Norfolk;;;;;;;;;;;Íîðôîëê;;x
+PROV52;Lincoln;;;;;;;;;;;Ëèíêîëüí;;x
+PROV53;Leicester;;;;;;;;;;;Ëåñòåð;;x
+PROV54;Warwick;;;;;;;;;;;Óîðâèê;;x
+PROV55;Worcester;;;;;;;;;;;Óîð÷åñòåð;;x
+PROV56;Derby;;;;;;;;;;;Äåðáè;;x
+PROV57;Chester;;;;;;;;;;;×åñòåð;;x
+PROV58;Lancaster;;;;;;;;;;;Ëàíêàñòåð;;x
+PROV59;Hull;;;;;;;;;;;Õàëë;;x
+PROV60;Leeds;;;;;;;;;;;Ëèäñ;;x
+PROV61;York;;;;;;;;;;;Éîðê;;x
+PROV62;Yoredale;;;;;;;;;;;Éîðèäåéë;;x
+PROV63;Cumberland;;;;;;;;;;;Êàìáðèÿ;;x
+PROV64;Westmorland;;;;;;;;;;;Óýñòìîðëåíä;;x
+PROV65;Northumberland;;;;;;;;;;;Íîðòóìáðèÿ;;x
+PROV66;Lindisfarne;;;;;;;;;;;Ëèíäèñôàðí;;x
+PROV67;Durham;;;;;;;;;;;Äàðåì;;x
 # Scotland
-PROV68;Dunbar;;;;;;;;;;;;;x
-PROV69;Lothian;;;;;;;;;;;;;x
-PROV70;Teviotdale;;;;;;;;;;;;;x
-
-PROV71;Isle of Man;;;;;;;;;;;;;x
-
-PROV72;Galloway;;;;;;;;;;;;;x
-PROV73;Carrick;;;;;;;;;;;;;x
-PROV74;Clydesdale;;;;;;;;;;;;;x
-
-PROV75;Argyll;;;;;;;;;;;;;x
-PROV76;Iona;;;;;;;;;;;;;x
-PROV77;The Hebrides;;;;;;;;;;;;;x
-
-PROV78;Strathearn;;;;;;;;;;;;;x
-PROV79;Fife;;;;;;;;;;;;;x
-PROV80;Gowrie;;;;;;;;;;;;;x
-PROV81;Atholl;;;;;;;;;;;;;x
-
-PROV82;Buchan;;;;;;;;;;;;;x
-PROV83;Moray;;;;;;;;;;;;;x
-PROV84;Ross;;;;;;;;;;;;;x
-PROV85;Caithness;;;;;;;;;;;;;x
-
+PROV68;Dunbar;;;;;;;;;;;Äàíáàð;;x
+PROV69;Lothian;;;;;;;;;;;Ëîòèàí;;x
+PROV70;Teviotdale;;;;;;;;;;;Òåâüîòäåéë;;x
+PROV71;Isle of Man;;;;;;;;;;;Îñòðîâ Ìýí;;x
+PROV72;Galloway;;;;;;;;;;;Ãàëëîóýé;;x
+PROV73;Carrick;;;;;;;;;;;Êàððèê;;x
+PROV74;Clydesdale;;;;;;;;;;;Êëàéñäåéë;;x
+PROV75;Argyll;;;;;;;;;;;Àðãàéë;;x
+PROV76;Iona;;;;;;;;;;;Àéîíà;;x
+PROV77;The Hebrides;;;;;;;;;;;Ãåáðèäû;;x
+PROV78;Strathearn;;;;;;;;;;;Ñòðåòõåðí;;x
+PROV79;Fife;;;;;;;;;;;Ôàéô;;x
+PROV80;Gowrie;;;;;;;;;;;Ãîâðè;;x
+PROV81;Atholl;;;;;;;;;;;Àòîëë;;x
+PROV82;Buchan;;;;;;;;;;;Áüþêàí;;x
+PROV83;Moray;;;;;;;;;;;Ìîðè;;x
+PROV84;Ross;;;;;;;;;;;Ðîññ;;x
+PROV85;Caithness;;;;;;;;;;;Êåéòíåññ;;x
 # Norway
-PROV86;Orkney;;;;;;;;;;;;;x
-PROV87;Shetland;;;;;;;;;;;;;x
-PROV88;Færeyar;;;;;;;;;;;;;x
-
-PROV89;Suðurland;;;;;;;;;;;;;x
-PROV90;Vestisland;;;;;;;;;;;;;x
-PROV91;Norðurland;;;;;;;;;;;;;x
-PROV92;Austisland;;;;;;;;;;;;;x
-
-PROV93;Baahuslen;;;;;;;;;;;;;x
-PROV94;Akershus;;;;;;;;;;;;;x
-PROV95;Vestfold;;;;;;;;;;;;;x
-
-PROV96;Telemark;;;;;;;;;;;;;x
-PROV97;Agder;;;;;;;;;;;;;x
-PROV98;Rogaland;;;;;;;;;;;;;x
-
-PROV99;Bergenhus;;;;;;;;;;;;;x
-PROV100;Sogn;;;;;;;;;;;;;x
-PROV101;Førde;;;;;;;;;;;;;x
-PROV102;Sunnmøre;;;;;;;;;;;;;x
-PROV103;Romsdal;;;;;;;;;;;;;x
-
-PROV104;Gudbrandsdalen;;;;;;;;;;;;;x
-PROV105;Hedmark;;;;;;;;;;;;;x
-PROV106;Romerike;;;;;;;;;;;;;x
-PROV107;Østerdalen;;;;;;;;;;;;;x
-
-PROV108;Herjedalen;;;;;;;;;;;;;x
-PROV109;Jämtland;;;;;;;;;;;;;x
-
-PROV110;Nidaros;;;;;;;;;;;;;x
-PROV111;Naumadal;;;;;;;;;;;;;x
-PROV112;Hålogaland;;;;;;;;;;;;;x
-
+PROV86;Orkney;;;;;;;;;;;Îðêíåéñêèå î-âà;;x
+PROV87;Shetland;;;;;;;;;;;Øåòëàíäñêèå î-âà;;x
+PROV88;Færeyar;;;;;;;;;;;Ôàðåðû;;x
+PROV89;Suðurland;;;;;;;;;;;Ñþäþðëàíä;;x
+PROV90;Vestisland;;;;;;;;;;;Çàïàäíàÿ Èñëàíäèÿ;;x
+PROV91;Norðurland;;;;;;;;;;;Íîðäëàíä;;x
+PROV92;Austisland;;;;;;;;;;;Âîñòî÷íàÿ Èñëàíäèÿ;;x
+PROV93;Baahuslen;;;;;;;;;;;Áîõóñëåí;;x
+PROV94;Akershus;;;;;;;;;;;Àêåðñõóñ;;x
+PROV95;Vestfold;;;;;;;;;;;Âåñòôîëëü;;x
+PROV96;Telemark;;;;;;;;;;;Òåëåìàðê;;x
+PROV97;Agder;;;;;;;;;;;Àãäåð;;x
+PROV98;Rogaland;;;;;;;;;;;Ðîãàëàíä;;x
+PROV99;Bergenhus;;;;;;;;;;;Áåðãåí;;x
+PROV100;Sogn;;;;;;;;;;;Ñîí;;x
+PROV101;Førde;;;;;;;;;;;Ô¸ðäå;;x
+PROV102;Sunnmøre;;;;;;;;;;;Ñóííì¸ðå;;x
+PROV103;Romsdal;;;;;;;;;;;Ðîìñäàë;;x
+PROV104;Gudbrandsdalen;;;;;;;;;;;Ãóäáðàííñäàëåí;;x
+PROV105;Hedmark;;;;;;;;;;;Õåäìàðê;;x
+PROV106;Romerike;;;;;;;;;;;Ðîìåðèêå;;x
+PROV107;Østerdalen;;;;;;;;;;;Îñòåðäàëåí;;x
+PROV108;Herjedalen;;;;;;;;;;;Õàðüåäàëåí;;x
+PROV109;Jämtland;;;;;;;;;;;Åìòëàíä;;x
+PROV110;Nidaros;;;;;;;;;;;Íèäàðîñ;;x
+PROV111;Naumadal;;;;;;;;;;;Í¸óìàäàëü;;x
+PROV112;Hålogaland;;;;;;;;;;;Ãåëüãîëàíä;;x
 # Sapmi
-PROV113;Nordland;;;;;;;;;;;;;x
-PROV114;Finnmark;;;;;;;;;;;;;x
-
-PROV115;Kola;;;;;;;;;;;;;x
-PROV116;Kantalahti;;;;;;;;;;;;;x
-PROV117;Rovaniemi;;;;;;;;;;;;;x
-PROV118;Kemi;;;;;;;;;;;;;x
-
-PROV119;Lappland;;;;;;;;;;;;;x
-PROV120;Västerbotten;;;;;;;;;;;;;x
-
+PROV113;Nordland;;;;;;;;;;;Íóðëàíí;;x
+PROV114;Finnmark;;;;;;;;;;;Ôèííìàðê;;x
+PROV115;Kola;;;;;;;;;;;Êîëà;;x
+PROV116;Kantalahti;;;;;;;;;;;Êàíòàëàõòè;;x
+PROV117;Rovaniemi;;;;;;;;;;;Ðîâàíèåìè;;x
+PROV118;Kemi;;;;;;;;;;;Êåìè;;x
+PROV119;Lappland;;;;;;;;;;;Ëàïëàíäèÿ;;x
+PROV120;Västerbotten;;;;;;;;;;;Âåñòðîáîòíèÿ;;x
 # Finland
-PROV121;Österbotten;;;;;;;;;;;;;x
-PROV122;Oulu;;;;;;;;;;;;;x
-PROV123;Kainuu;;;;;;;;;;;;;x
-
-PROV124;Kem;;;;;;;;;;;;;x
-PROV125;Pomorye;;;;;;;;;;;;;x
-PROV126;Olonets;;;;;;;;;;;;;x
-PROV127;Sortavala;;;;;;;;;;;;;x
-PROV128;Käkisalmi;;;;;;;;;;;;;x
-
-PROV129;Savo;;;;;;;;;;;;;x
-PROV130;Joensuu;;;;;;;;;;;;;x
-PROV131;Kuopio;;;;;;;;;;;;;x
-PROV132;Laukaa;;;;;;;;;;;;;x
-
-PROV133;Satakunta;;;;;;;;;;;;;x
-PROV134;Tavastia;;;;;;;;;;;;;x
-PROV135;Uusimaa;;;;;;;;;;;;;x
-PROV136;Karjaa;;;;;;;;;;;;;x
-PROV137;Suomi;;;;;;;;;;;;;x
-
+PROV121;Österbotten;;;;;;;;;;;Îñòðîáîòíèÿ;;x
+PROV122;Oulu;;;;;;;;;;;Îóëó;;x
+PROV123;Kainuu;;;;;;;;;;;Êàéíóó;;x
+PROV124;Kem;;;;;;;;;;;Êåìü;;x
+PROV125;Pomorye;;;;;;;;;;;Ñåêåå;;x
+PROV126;Olonets;;;;;;;;;;;Àëíóñ;;x
+PROV127;Sortavala;;;;;;;;;;;Ñîðòàâàëà;;x
+PROV128;Käkisalmi;;;;;;;;;;;Êÿêèñàëìè;;x
+PROV129;Savo;;;;;;;;;;;Ñàâî;;x
+PROV130;Joensuu;;;;;;;;;;;Éîýíñóó;;x
+PROV131;Kuopio;;;;;;;;;;;Êàëëàâåñè;;x
+PROV132;Laukaa;;;;;;;;;;;Êåéòåëå;;x
+PROV133;Satakunta;;;;;;;;;;;Ñàòàêóíòà;;x
+PROV134;Tavastia;;;;;;;;;;;Òàâàñòèÿ;;x
+PROV135;Uusimaa;;;;;;;;;;;Óóñèìàà;;x
+PROV136;Karjaa;;;;;;;;;;;Êàðüÿà;;x
+PROV137;Suomi;;;;;;;;;;;Ñóîìè;;x
 # Sweden
-PROV138;Ångermanland;;;;;;;;;;;;;x
-PROV139;Medelpad;;;;;;;;;;;;;x
-PROV140;Hälsingland;;;;;;;;;;;;;x
-
-PROV141;Järnbäraland;;;;;;;;;;;;;x
-PROV142;Värmland;;;;;;;;;;;;;x
-PROV143;Västmanland;;;;;;;;;;;;;x
-
-PROV144;Gästrikland;;;;;;;;;;;;;x
-PROV145;Uppland;;;;;;;;;;;;;x
-PROV146;Södermanland;;;;;;;;;;;;;x
-PROV147;Åland;;;;;;;;;;;;;x
-
-PROV148;Gotland;;;;;;;;;;;;;x
-
-PROV149;Öland;;;;;;;;;;;;;x
-PROV150;Möre;;;;;;;;;;;;;x
-PROV151;Sevede;;;;;;;;;;;;;x
-PROV152;Tjust;;;;;;;;;;;;;x
-
-PROV153;Kinda;;;;;;;;;;;;;x
-PROV154;Vista;;;;;;;;;;;;;x
-PROV155;Östergötland;;;;;;;;;;;;;x
-
-PROV156;Närke;;;;;;;;;;;;;x
-PROV157;Skara;;;;;;;;;;;;;x
-PROV158;Dal;;;;;;;;;;;;;x
-PROV159;Västergötland;;;;;;;;;;;;;x
-
-PROV160;Finnveden;;;;;;;;;;;;;x
-PROV161;Njudung;;;;;;;;;;;;;x
-PROV162;Värend;;;;;;;;;;;;;x
-
+PROV138;Ångermanland;;;;;;;;;;;Îíãåðìàíëàíä;;x
+PROV139;Medelpad;;;;;;;;;;;Ìåäåëüïàä;;x
+PROV140;Hälsingland;;;;;;;;;;;Õåëüñèíãëàíä;;x
+PROV141;Järnbäraland;;;;;;;;;;;ßðíáàðàëàíä;;x
+PROV142;Värmland;;;;;;;;;;;Âåðìåëàíäèÿ;;x
+PROV143;Västmanland;;;;;;;;;;;Âåñòìàíëàíä;;x
+PROV144;Gästrikland;;;;;;;;;;;Ãàñòðèêëàíä;;x
+PROV145;Uppland;;;;;;;;;;;Óïïëàíä;;x
+PROV146;Södermanland;;;;;;;;;;;Ñóäåðìàíèÿ;;x
+PROV147;Åland;;;;;;;;;;;Àëàíäñêèå î-âà;;x
+PROV148;Gotland;;;;;;;;;;;Ãîòëàíä;;x
+PROV149;Öland;;;;;;;;;;;Ýëàíä;;x
+PROV150;Möre;;;;;;;;;;;Ì¸ðå;;x
+PROV151;Sevede;;;;;;;;;;;Ñåâåäå;;x
+PROV152;Tjust;;;;;;;;;;;Òúþñò;;x
+PROV153;Kinda;;;;;;;;;;;Êèíäà;;x
+PROV154;Vista;;;;;;;;;;;Âèñòà;;x
+PROV155;Östergötland;;;;;;;;;;;Îñòðîãîòèÿ;;x
+PROV156;Närke;;;;;;;;;;;Íåðêå;;x
+PROV157;Skara;;;;;;;;;;;Ñêàðà;;x
+PROV158;Dal;;;;;;;;;;;Äàëü;;x
+PROV159;Västergötland;;;;;;;;;;;Âåñòðîãîòèÿ;;x
+PROV160;Finnveden;;;;;;;;;;;Ôèííâåäåí;;x
+PROV161;Njudung;;;;;;;;;;;Íüþäóíã;;x
+PROV162;Värend;;;;;;;;;;;Âåðåíä;;x
 # Denmark
-PROV163;Blekinge;;;;;;;;;;;;;x
-PROV164;Bornholm;;;;;;;;;;;;;x
-PROV165;Scania;;;;;;;;;;;;;x
-PROV166;Halland;;;;;;;;;;;;;x
-
-PROV167;Sjælland;;;;;;;;;;;;;x
-PROV168;Lolland;;;;;;;;;;;;;x
-PROV169;Fyn;;;;;;;;;;;;;x
-
-PROV170;Aarhus;;;;;;;;;;;;;x
-PROV171;Aalborg;;;;;;;;;;;;;x
-PROV172;Skagen;;;;;;;;;;;;;x
-PROV173;Varde;;;;;;;;;;;;;x
-
-PROV174;Slesvig;;;;;;;;;;;;;x
-PROV175;Holstein;;;;;;;;;;;;;x
-PROV176;Dithmarschen;;;;;;;;;;;;;x
-
+PROV163;Blekinge;;;;;;;;;;;Áëåêèíãå;;x
+PROV164;Bornholm;;;;;;;;;;;Áîðíõîëüì;;x
+PROV165;Scania;;;;;;;;;;;Ñêàíèÿ;;x
+PROV166;Halland;;;;;;;;;;;Õàëëàíä;;x
+PROV167;Sjælland;;;;;;;;;;;Ñüÿëëàíä;;x
+PROV168;Lolland;;;;;;;;;;;Ëîëëàíí;;x
+PROV169;Fyn;;;;;;;;;;;Ôþí;;x
+PROV170;Aarhus;;;;;;;;;;;Îðõóñ;;x
+PROV171;Aalborg;;;;;;;;;;;Îëüáîðã;;x
+PROV172;Skagen;;;;;;;;;;;Ñêàãåí;;x
+PROV173;Varde;;;;;;;;;;;Âàðäå;;x
+PROV174;Slesvig;;;;;;;;;;;Øëåçâèã;;x
+PROV175;Holstein;;;;;;;;;;;Ãîëüøòåéí;;x
+PROV176;Dithmarschen;;;;;;;;;;;Äèòìàðøåí;;x
 # Saxony
-PROV177;Hadeln;;;;;;;;;;;;;x
-PROV178;Bremen;;;;;;;;;;;;;x
-
-PROV179;Oldenburg;;;;;;;;;;;;;x
-PROV180;Osnabrück;;;;;;;;;;;;;x
-PROV181;Minden;;;;;;;;;;;;;x
-
-PROV182;Münster;;;;;;;;;;;;;x
-PROV183;Paderborn;;;;;;;;;;;;;x
-
-PROV184;Braunschweig;;;;;;;;;;;;;x
-PROV185;Verden;;;;;;;;;;;;;x
-PROV186;Lüneburg;;;;;;;;;;;;;x
-PROV187;Werben;;;;;;;;;;;;;x
-PROV188;Magdeburg;;;;;;;;;;;;;x
-
+PROV177;Hadeln;;;;;;;;;;;Õàäåëüí;;x
+PROV178;Bremen;;;;;;;;;;;Áðåìåí;;x
+PROV179;Oldenburg;;;;;;;;;;;Îëüäåíáóðã;;x
+PROV180;Osnabrück;;;;;;;;;;;Îñíàáðþê;;x
+PROV181;Minden;;;;;;;;;;;Ìèíäåí;;x
+PROV182;Münster;;;;;;;;;;;Ìþíñòåð;;x
+PROV183;Paderborn;;;;;;;;;;;Ïàäåðáîðí;;x
+PROV184;Braunschweig;;;;;;;;;;;Áðàóíøâåéã;;x
+PROV185;Verden;;;;;;;;;;;Ôåðäåí;;x
+PROV186;Lüneburg;;;;;;;;;;;Ëþíåáóðã;;x
+PROV187;Werben;;;;;;;;;;;Âåðáåí;;x
+PROV188;Magdeburg;;;;;;;;;;;Ìàãäåáóðã;;x
 # Germany
-PROV189;Weimar;;;;;;;;;;;;;x
-PROV190;Thüringen;;;;;;;;;;;;;x
-
-PROV191;Fritzlar;;;;;;;;;;;;;x
-PROV192;Marburg;;;;;;;;;;;;;x
-PROV193;Frankfurt;;;;;;;;;;;;;x
-
-PROV194;Mainz;;;;;;;;;;;;;x
-PROV195;Worms;;;;;;;;;;;;;x
-
-PROV196;Weinsberg;;;;;;;;;;;;;x
-PROV197;Aschaffenburg;;;;;;;;;;;;;x
-PROV198;Würzburg;;;;;;;;;;;;;x
-PROV199;Bamberg;;;;;;;;;;;;;x
-
+PROV189;Weimar;;;;;;;;;;;Âåéìàð;;x
+PROV190;Thüringen;;;;;;;;;;;Òþðèíãèÿ;;x
+PROV191;Fritzlar;;;;;;;;;;;Ôðèöëàð;;x
+PROV192;Marburg;;;;;;;;;;;Ìàðáóðã;;x
+PROV193;Frankfurt;;;;;;;;;;;Ôðàíêôóðò;;x
+PROV194;Mainz;;;;;;;;;;;Ìàéíö;;x
+PROV195;Worms;;;;;;;;;;;Âîðìñ;;x
+PROV196;Weinsberg;;;;;;;;;;;Âàéíñáåðã;;x
+PROV197;Aschaffenburg;;;;;;;;;;;Àøàôôåíáóðã;;x
+PROV198;Würzburg;;;;;;;;;;;Âþðöáóðã;;x
+PROV199;Bamberg;;;;;;;;;;;Áàìáåðã;;x
 # Bavaria
-PROV200;Nürnberg;;;;;;;;;;;;;x
-PROV201;Eichstadt;;;;;;;;;;;;;x
-
-PROV202;Cham;;;;;;;;;;;;;x
-PROV203;Passau;;;;;;;;;;;;;x
-PROV204;Regensburg;;;;;;;;;;;;;x
-PROV205;Freising;;;;;;;;;;;;;x
-
-PROV206;Pongau;;;;;;;;;;;;;x
-PROV207;Salzburg;;;;;;;;;;;;;x
-
-PROV208;Traungau;;;;;;;;;;;;;x
-PROV209;Steyr;;;;;;;;;;;;;x
-PROV210;Freistadt;;;;;;;;;;;;;x
-PROV211;Krems;;;;;;;;;;;;;x
-PROV212;Medelike;;;;;;;;;;;;;x
-PROV213;Wien;;;;;;;;;;;;;x
-
-PROV214;Pitten;;;;;;;;;;;;;x
-PROV215;Eppenstein;;;;;;;;;;;;;x
-PROV216;Graz;;;;;;;;;;;;;x
-
+PROV200;Nürnberg;;;;;;;;;;;Íþðíáåðã;;x
+PROV201;Eichstadt;;;;;;;;;;;Àéõøòàäò;;x
+PROV202;Cham;;;;;;;;;;;Êàì;;x
+PROV203;Passau;;;;;;;;;;;Ïàññàó;;x
+PROV204;Regensburg;;;;;;;;;;;Ðåãåíñáóðã;;x
+PROV205;Freising;;;;;;;;;;;Ôðàéçèíã;;x
+PROV206;Pongau;;;;;;;;;;;Ïîíãàó;;x
+PROV207;Salzburg;;;;;;;;;;;Çàëüöáóðã;;x
+PROV208;Traungau;;;;;;;;;;;Òðàóíãàó;;x
+PROV209;Steyr;;;;;;;;;;;Øòàéð;;x
+PROV210;Freistadt;;;;;;;;;;;Ôðàéøòàäò;;x
+PROV211;Krems;;;;;;;;;;;Êðåìèñ;;x
+PROV212;Medelike;;;;;;;;;;;Ìåäåëèêå;;x
+PROV213;Wien;;;;;;;;;;;Âüåí;;x
+PROV214;Pitten;;;;;;;;;;;Ïèòòåí;;x
+PROV215;Eppenstein;;;;;;;;;;;Ýïïåíøòàéí;;x
+PROV216;Graz;;;;;;;;;;;Ãðàö;;x
 # Carinthia
-PROV217;Friesach;;;;;;;;;;;;;x
-PROV218;Villach;;;;;;;;;;;;;x
-
-PROV219;Pettau;;;;;;;;;;;;;x
-PROV220;Krain;;;;;;;;;;;;;x
-PROV221;Istria;;;;;;;;;;;;;x
-
-PROV222;Aquileia;;;;;;;;;;;;;x
-PROV223;Udine;;;;;;;;;;;;;x
-PROV224;Treviso;;;;;;;;;;;;;x
-
+PROV217;Friesach;;;;;;;;;;;Ôðèçàõ;;x
+PROV218;Villach;;;;;;;;;;;Ôèëëàõ;;x
+PROV219;Pettau;;;;;;;;;;;Ïåòòàó;;x
+PROV220;Krain;;;;;;;;;;;Êðåèíà;;x
+PROV221;Istria;;;;;;;;;;;Èñòðèÿ;;x
+PROV222;Aquileia;;;;;;;;;;;Àêâèëåÿ;;x
+PROV223;Udine;;;;;;;;;;;Óäèíå;;x
+PROV224;Treviso;;;;;;;;;;;Òðåâèçî;;x
 # Germany/Bavaria (remainder)
-PROV225;Trent;;;;;;;;;;;;;x
-PROV226;Bolzano;;;;;;;;;;;;;x
-PROV227;Innsbruck;;;;;;;;;;;;;x
-PROV228;Landeck;;;;;;;;;;;;;x
-
-PROV229;Chur;;;;;;;;;;;;;x
-PROV230;Schwyz;;;;;;;;;;;;;x
-
-PROV231;Zurichgau;;;;;;;;;;;;;x
-PROV232;Thurgau;;;;;;;;;;;;;x
-
-PROV233;Schwaben;;;;;;;;;;;;;x
-PROV234;Augsburg;;;;;;;;;;;;;x
-PROV235;Ulm;;;;;;;;;;;;;x
-PROV236;Württemberg;;;;;;;;;;;;;x
-PROV237;Fürstenberg;;;;;;;;;;;;;x
-
-PROV238;Baden;;;;;;;;;;;;;x
-PROV239;Breisgau;;;;;;;;;;;;;x
-
-PROV240;Sundgau;;;;;;;;;;;;;x
-PROV241;Nordgau;;;;;;;;;;;;;x
-
+PROV225;Trent;;;;;;;;;;;Òðèåíò;;x
+PROV226;Bolzano;;;;;;;;;;;Áîëüöàíî;;x
+PROV227;Innsbruck;;;;;;;;;;;Èíñáðóê;;x
+PROV228;Landeck;;;;;;;;;;;Ëàíäåêê;;x
+PROV229;Chur;;;;;;;;;;;Êóð;;x
+PROV230;Schwyz;;;;;;;;;;;Øâèö;;x
+PROV231;Zurichgau;;;;;;;;;;;Öþðèõãàó;;x
+PROV232;Thurgau;;;;;;;;;;;Òóðãàó;;x
+PROV233;Schwaben;;;;;;;;;;;Øâàáèÿ;;x
+PROV234;Augsburg;;;;;;;;;;;Àóãñáóðã;;x
+PROV235;Ulm;;;;;;;;;;;Óëüì;;x
+PROV236;Württemberg;;;;;;;;;;;Âþðòåìáåðã;;x
+PROV237;Fürstenberg;;;;;;;;;;;Ôþðñòåíáåðã;;x
+PROV238;Baden;;;;;;;;;;;Áàäåí;;x
+PROV239;Breisgau;;;;;;;;;;;Áðåéñãàó;;x
+PROV240;Sundgau;;;;;;;;;;;Çóíäãàó;;x
+PROV241;Nordgau;;;;;;;;;;;Íîðäãàó;;x
 # Lotharingia/Frisia
-PROV242;Saarbrücken;;;;;;;;;;;;;x
-PROV243;Trier;;;;;;;;;;;;;x
-PROV244;Metz;;;;;;;;;;;;;x
-
-PROV245;Lorraine;;;;;;;;;;;;;x
-PROV246;Saintois;;;;;;;;;;;;;x
-PROV247;Bar;;;;;;;;;;;;;x
-PROV248;Verdun;;;;;;;;;;;;;x
-
-PROV249;Luxembourg;;;;;;;;;;;;;x
-PROV250;Liege;;;;;;;;;;;;;x
-PROV251;Loon;;;;;;;;;;;;;x
-PROV252;Jülich;;;;;;;;;;;;;x
-
-PROV253;Cologne;;;;;;;;;;;;;x
-PROV254;Berg;;;;;;;;;;;;;x
-PROV255;Kleve;;;;;;;;;;;;;x
-
-PROV256;Gelre;;;;;;;;;;;;;x
-PROV257;Overijssel;;;;;;;;;;;;;x
-PROV258;Ostfriesland;;;;;;;;;;;;;x
-PROV259;Friesland;;;;;;;;;;;;;x
-
-PROV260;Westfriesland;;;;;;;;;;;;;x
-PROV261;Holland;;;;;;;;;;;;;x
-PROV262;Zeeland;;;;;;;;;;;;;x
-PROV263;Sticht;;;;;;;;;;;;;x
-
-PROV264;Breda;;;;;;;;;;;;;x
-PROV265;Brabant;;;;;;;;;;;;;x
-PROV266;Hainaut;;;;;;;;;;;;;x
-
+PROV242;Saarbrücken;;;;;;;;;;;Ñààðáðþêêåí;;x
+PROV243;Trier;;;;;;;;;;;Òðèð;;x
+PROV244;Metz;;;;;;;;;;;Ìåö;;x
+PROV245;Lorraine;;;;;;;;;;;Ëîòàðèíãèÿ;;x
+PROV246;Saintois;;;;;;;;;;;Ñåíòóà;;x
+PROV247;Bar;;;;;;;;;;;Áàð;;x
+PROV248;Verdun;;;;;;;;;;;Âåðäåí;;x
+PROV249;Luxembourg;;;;;;;;;;;Ëþêñåìáóðã;;x
+PROV250;Liege;;;;;;;;;;;Ëüåæ;;x
+PROV251;Loon;;;;;;;;;;;Ëîîí;;x
+PROV252;Jülich;;;;;;;;;;;Þëèõ;;x
+PROV253;Cologne;;;;;;;;;;;Êîëîíü;;x
+PROV254;Berg;;;;;;;;;;;Áåðã;;x
+PROV255;Kleve;;;;;;;;;;;Êëåâå;;x
+PROV256;Gelre;;;;;;;;;;;Ãåëüäåðí;;x
+PROV257;Overijssel;;;;;;;;;;;Îâåðýéññåë;;x
+PROV258;Ostfriesland;;;;;;;;;;;Âîñòî÷íàÿ Ôðèñëàíäèÿ;;x
+PROV259;Friesland;;;;;;;;;;;Ôðèçèÿ;;x
+PROV260;Westfriesland;;;;;;;;;;;Çàïàäíàÿ Ôðèñëàíäèÿ;;x
+PROV261;Holland;;;;;;;;;;;Ãîëëàíäèÿ;;x
+PROV262;Zeeland;;;;;;;;;;;Çåëàíäèÿ;;x
+PROV263;Sticht;;;;;;;;;;;Ñòðèõò;;x
+PROV264;Breda;;;;;;;;;;;Áðåäà;;x
+PROV265;Brabant;;;;;;;;;;;Áðàáàíò;;x
+PROV266;Hainaut;;;;;;;;;;;Ãåííåãàó;;x
 # France
-PROV267;Gent;;;;;;;;;;;;;x
-PROV268;Brugge;;;;;;;;;;;;;x
-PROV269;Yperen;;;;;;;;;;;;;x
-PROV270;Guines;;;;;;;;;;;;;x
-PROV271;Boulogne;;;;;;;;;;;;;x
-PROV272;Artois;;;;;;;;;;;;;x
-
-PROV273;Ponthieu;;;;;;;;;;;;;x
-PROV274;Clermont;;;;;;;;;;;;;x
-PROV275;Amiens;;;;;;;;;;;;;x
-PROV276;Vermandois;;;;;;;;;;;;;x
-
-PROV277;Reims;;;;;;;;;;;;;x
-PROV278;Troyes;;;;;;;;;;;;;x
-PROV279;Brie;;;;;;;;;;;;;x
-
-PROV280;Senlis;;;;;;;;;;;;;x
-PROV281;Paris;;;;;;;;;;;;;x
-PROV282;Sens;;;;;;;;;;;;;x
-PROV283;Orléans;;;;;;;;;;;;;x
-
-PROV284;Blois;;;;;;;;;;;;;x
-PROV285;Dunois;;;;;;;;;;;;;x
-PROV286;Chartres;;;;;;;;;;;;;x
-
-PROV287;Sancerre;;;;;;;;;;;;;x
-PROV288;Bourges;;;;;;;;;;;;;x
-PROV289;Touraine;;;;;;;;;;;;;x
-
-PROV290;Saumur;;;;;;;;;;;;;x
-PROV291;Anjou;;;;;;;;;;;;;x
-PROV292;Maine;;;;;;;;;;;;;x
-PROV293;Vendôme;;;;;;;;;;;;;x
-PROV294;Perche;;;;;;;;;;;;;x
-
-PROV295;Évreux;;;;;;;;;;;;;x
-PROV296;Vexin;;;;;;;;;;;;;x
-PROV297;Eu;;;;;;;;;;;;;x
-PROV298;Rouen;;;;;;;;;;;;;x
-PROV299;Caen;;;;;;;;;;;;;x
-PROV300;Mortain;;;;;;;;;;;;;x
-
+PROV267;Gent;;;;;;;;;;;Ãåíò;;x
+PROV268;Brugge;;;;;;;;;;;Áðþããå;;x
+PROV269;Yperen;;;;;;;;;;;Èïð;;x
+PROV270;Guines;;;;;;;;;;;Ãèí;;x
+PROV271;Boulogne;;;;;;;;;;;Áóëîíü;;x
+PROV272;Artois;;;;;;;;;;;Àðòóà;;x
+PROV273;Ponthieu;;;;;;;;;;;Ïîíòüå;;x
+PROV274;Clermont;;;;;;;;;;;Êëåðìîí;;x
+PROV275;Amiens;;;;;;;;;;;Àìüåí;;x
+PROV276;Vermandois;;;;;;;;;;;Âåðìàíäóà;;x
+PROV277;Reims;;;;;;;;;;;Ðåéìñ;;x
+PROV278;Troyes;;;;;;;;;;;Òðóà;;x
+PROV279;Brie;;;;;;;;;;;Áðè;;x
+PROV280;Senlis;;;;;;;;;;;Ñàíëèñ;;x
+PROV281;Paris;;;;;;;;;;;Èëü-äå-Ôðàíñ;;x
+PROV282;Sens;;;;;;;;;;;Ñàíñ;;x
+PROV283;Orléans;;;;;;;;;;;Îðëåàí;;x
+PROV284;Blois;;;;;;;;;;;Áëóà;;x
+PROV285;Dunois;;;;;;;;;;;Äþíóà;;x
+PROV286;Chartres;;;;;;;;;;;Øàðòð;;x
+PROV287;Sancerre;;;;;;;;;;;Ñàíñåð;;x
+PROV288;Bourges;;;;;;;;;;;Áóðæ;;x
+PROV289;Touraine;;;;;;;;;;;Òóðåíü;;x
+PROV290;Saumur;;;;;;;;;;;Ñîìþð;;x
+PROV291;Anjou;;;;;;;;;;;Àíæó;;x
+PROV292;Maine;;;;;;;;;;;Ìýí;;x
+PROV293;Vendôme;;;;;;;;;;;Âàíäîì;;x
+PROV294;Perche;;;;;;;;;;;Ïåðø;;x
+PROV295;Évreux;;;;;;;;;;;Ýâð¸;;x
+PROV296;Vexin;;;;;;;;;;;Âåêñåí;;x
+PROV297;Eu;;;;;;;;;;;Ý;;x
+PROV298;Rouen;;;;;;;;;;;Ðóàí;;x
+PROV299;Caen;;;;;;;;;;;Êàí;;x
+PROV300;Mortain;;;;;;;;;;;Ìîðòåí;;x
 # Brittany
-PROV301;Penthievre;;;;;;;;;;;;;x
-PROV302;Tregor;;;;;;;;;;;;;x
-
-PROV303;Léon;;;;;;;;;;;;;x
-PROV304;Cornouaille;;;;;;;;;;;;;x
-PROV305;Poher;;;;;;;;;;;;;x
-PROV306;Vannes;;;;;;;;;;;;;x
-
-PROV307;Rennes;;;;;;;;;;;;;x
-PROV308;Nantes;;;;;;;;;;;;;x
-PROV309;Retz;;;;;;;;;;;;;x
-
+PROV301;Penthievre;;;;;;;;;;;Ïåíòüåâð;;x
+PROV302;Tregor;;;;;;;;;;;Òðåãîð;;x
+PROV303;Léon;;;;;;;;;;;Ëåîí;;x
+PROV304;Cornouaille;;;;;;;;;;;Êîðíóàé;;x
+PROV305;Poher;;;;;;;;;;;Ïîýð;;x
+PROV306;Vannes;;;;;;;;;;;Âàíí;;x
+PROV307;Rennes;;;;;;;;;;;Ðåíí;;x
+PROV308;Nantes;;;;;;;;;;;Íàíò;;x
+PROV309;Retz;;;;;;;;;;;Ðåö;;x
 # Aquitaine
-PROV310;Thouars;;;;;;;;;;;;;x
-PROV311;Poitiers;;;;;;;;;;;;;x
-PROV312;Lusignan;;;;;;;;;;;;;x
-PROV313;Saintonge;;;;;;;;;;;;;x
-
-PROV314;Angoulême;;;;;;;;;;;;;x
-PROV315;Périgord;;;;;;;;;;;;;x
-PROV316;Agen;;;;;;;;;;;;;x
-PROV317;Bordeaux;;;;;;;;;;;;;x
-
-PROV318;Marsan;;;;;;;;;;;;;x
-PROV319;Dax;;;;;;;;;;;;;x
-PROV320;Béarn;;;;;;;;;;;;;x
-PROV321;Armagnac;;;;;;;;;;;;;x
-
-PROV322;Foix;;;;;;;;;;;;;x
-PROV323;Carcassonne;;;;;;;;;;;;;x
-PROV324;Narbonne;;;;;;;;;;;;;x
-PROV325;Melgueil;;;;;;;;;;;;;x
-PROV326;Rouergue;;;;;;;;;;;;;x
-PROV327;Toulouse;;;;;;;;;;;;;x
-
-PROV328;Aurillac;;;;;;;;;;;;;x
-PROV329;Gévaudan;;;;;;;;;;;;;x
-PROV330;Auvergne;;;;;;;;;;;;;x
-
-PROV331;Limousin;;;;;;;;;;;;;x
-PROV332;La Marche;;;;;;;;;;;;;x
-PROV333;Bourbon;;;;;;;;;;;;;x
-
+PROV310;Thouars;;;;;;;;;;;Òóàð;;x
+PROV311;Poitiers;;;;;;;;;;;Ïóàòüå;;x
+PROV312;Lusignan;;;;;;;;;;;Ëóçèíüÿê;;x
+PROV313;Saintonge;;;;;;;;;;;Ñåíòîíæ;;x
+PROV314;Angoulême;;;;;;;;;;;Àíãóëåì;;x
+PROV315;Périgord;;;;;;;;;;;Ïåðèãîð;;x
+PROV316;Agen;;;;;;;;;;;Àæåí;;x
+PROV317;Bordeaux;;;;;;;;;;;Áîðäî;;x
+PROV318;Marsan;;;;;;;;;;;Ìàðñàí;;x
+PROV319;Dax;;;;;;;;;;;Äàêñ;;x
+PROV320;Béarn;;;;;;;;;;;Áåàðí;;x
+PROV321;Armagnac;;;;;;;;;;;Àðìàíüÿê;;x
+PROV322;Foix;;;;;;;;;;;Ôóà;;x
+PROV323;Carcassonne;;;;;;;;;;;Êàðêàññîí;;x
+PROV324;Narbonne;;;;;;;;;;;Íàðáîííà;;x
+PROV325;Melgueil;;;;;;;;;;;Ìåëã¸é;;x
+PROV326;Rouergue;;;;;;;;;;;Ðóýðã;;x
+PROV327;Toulouse;;;;;;;;;;;Òóëóçà;;x
+PROV328;Aurillac;;;;;;;;;;;Îðèéàê;;x
+PROV329;Gévaudan;;;;;;;;;;;Æåâîäàí;;x
+PROV330;Auvergne;;;;;;;;;;;Îâåðíü;;x
+PROV331;Limousin;;;;;;;;;;;Ëèìóçåí;;x
+PROV332;La Marche;;;;;;;;;;;Ëà Ìàðø;;x
+PROV333;Bourbon;;;;;;;;;;;Áóðáîí;;x
 # Burgundy
-PROV334;Nevers;;;;;;;;;;;;;x
-PROV335;Auxerre;;;;;;;;;;;;;x
-PROV336;Dijon;;;;;;;;;;;;;x
-PROV337;Charolais;;;;;;;;;;;;;x
-PROV338;Mâcon;;;;;;;;;;;;;x
-PROV339;Chalons;;;;;;;;;;;;;x
-
-PROV340;Escuens;;;;;;;;;;;;;x
-PROV341;Varais;;;;;;;;;;;;;x
-PROV342;Amous;;;;;;;;;;;;;x
-PROV343;Vesoul;;;;;;;;;;;;;x
-PROV344;Montbéliard;;;;;;;;;;;;;x
-
-PROV345;Basel;;;;;;;;;;;;;x
-PROV346;Neuchatel;;;;;;;;;;;;;x
-PROV347;Vaud;;;;;;;;;;;;;x
-PROV348;Bern;;;;;;;;;;;;;x
-
-PROV349;Valais;;;;;;;;;;;;;x
-PROV350;Aosta;;;;;;;;;;;;;x
-PROV351;Genevois;;;;;;;;;;;;;x
-PROV352;Savoy;;;;;;;;;;;;;x
-
-PROV353;Lyon;;;;;;;;;;;;;x
-PROV354;Forez;;;;;;;;;;;;;x
-PROV355;Vienne;;;;;;;;;;;;;x
-PROV356;Vivarais;;;;;;;;;;;;;x
-
-PROV357;Venaissin;;;;;;;;;;;;;x
-PROV358;Forcalquier;;;;;;;;;;;;;x
-PROV359;Provence;;;;;;;;;;;;;x
-PROV360;Nice;;;;;;;;;;;;;x
-
+PROV334;Nevers;;;;;;;;;;;Íåâåð;;x
+PROV335;Auxerre;;;;;;;;;;;Îñåð;;x
+PROV336;Dijon;;;;;;;;;;;Äèæîí;;x
+PROV337;Charolais;;;;;;;;;;;Øàðîëå;;x
+PROV338;Mâcon;;;;;;;;;;;Ìàêîí;;x
+PROV339;Chalons;;;;;;;;;;;Øàëîí;;x
+PROV340;Escuens;;;;;;;;;;;Ýñêóýíñ;;x
+PROV341;Varais;;;;;;;;;;;Âàðå;;x
+PROV342;Amous;;;;;;;;;;;Àìó;;x
+PROV343;Vesoul;;;;;;;;;;;Ïîðòóà;;x
+PROV344;Montbéliard;;;;;;;;;;;Ìîíáåëüÿð;;x
+PROV345;Basel;;;;;;;;;;;Áàçåëü;;x
+PROV346;Neuchatel;;;;;;;;;;;Íåâøàòåëü;;x
+PROV347;Vaud;;;;;;;;;;;Âî;;x
+PROV348;Bern;;;;;;;;;;;Áåðí;;x
+PROV349;Valais;;;;;;;;;;;Âàëå;;x
+PROV350;Aosta;;;;;;;;;;;Àîñòà;;x
+PROV351;Genevois;;;;;;;;;;;Æåíåâà;;x
+PROV352;Savoy;;;;;;;;;;;Ñàâîéÿ;;x
+PROV353;Lyon;;;;;;;;;;;Ëèîí;;x
+PROV354;Forez;;;;;;;;;;;Ôîðå;;x
+PROV355;Vienne;;;;;;;;;;;Âüåííà;;x
+PROV356;Vivarais;;;;;;;;;;;Âèâüå;;x
+PROV357;Venaissin;;;;;;;;;;;Âåíåññåí;;x
+PROV358;Forcalquier;;;;;;;;;;;Ôîðêàëüêüå;;x
+PROV359;Provence;;;;;;;;;;;Ïðîâàíñ;;x
+PROV360;Nice;;;;;;;;;;;Íèööà;;x
 # Aragon
-PROV361;Rosello;;;;;;;;;;;;;x
-PROV362;Empuries;;;;;;;;;;;;;x
-PROV363;Urgell;;;;;;;;;;;;;x
-PROV364;Lleida;;;;;;;;;;;;;x
-PROV365;Barcelona;;;;;;;;;;;;;x
-PROV366;Tarragona;;;;;;;;;;;;;x
-
-PROV367;Albarracin;;;;;;;;;;;;;x
-PROV368;Calatayud;;;;;;;;;;;;;x
-PROV369;Zaragoza;;;;;;;;;;;;;x
-PROV370;Alto Aragón;;;;;;;;;;;;;x
-
+PROV361;Rosello;;;;;;;;;;;Ðóññèëüîí;;x
+PROV362;Empuries;;;;;;;;;;;Ýìïóðèÿ;;x
+PROV363;Urgell;;;;;;;;;;;Óðæåëü;;x
+PROV364;Lleida;;;;;;;;;;;Ëëåéäà;;x
+PROV365;Barcelona;;;;;;;;;;;Áàðñåëîíà;;x
+PROV366;Tarragona;;;;;;;;;;;Òàððàãîíà;;x
+PROV367;Albarracin;;;;;;;;;;;Àëüáàððàñèí;;x
+PROV368;Calatayud;;;;;;;;;;;Êàëàòàþä;;x
+PROV369;Zaragoza;;;;;;;;;;;Ñàðàãîñà;;x
+PROV370;Alto Aragón;;;;;;;;;;;Âåðõíèé Àðàãîí;;x
 # Navarra
-PROV371;Navarra;;;;;;;;;;;;;x
-PROV372;Nájera;;;;;;;;;;;;;x
-PROV373;Viscaya;;;;;;;;;;;;;x
-
+PROV371;Navarra;;;;;;;;;;;Íàâàððà;;x
+PROV372;Nájera;;;;;;;;;;;Íàõåðà;;x
+PROV373;Viscaya;;;;;;;;;;;Áèñêàéÿ;;x
 # Asturias
-PROV374;Asturias de Santillana;;;;;;;;;;;;;x
-PROV375;Burgos;;;;;;;;;;;;;x
-PROV376;Soria;;;;;;;;;;;;;x
-PROV377;Osma;;;;;;;;;;;;;x
-PROV378;Valladolid;;;;;;;;;;;;;x
-
-PROV379;Salamanca;;;;;;;;;;;;;x
-PROV380;Zamora;;;;;;;;;;;;;x
-PROV381;Palencia;;;;;;;;;;;;;x
-PROV382;León;;;;;;;;;;;;;x
-
-PROV383;Astorga;;;;;;;;;;;;;x
-PROV384;Asturias de Oviedo;;;;;;;;;;;;;x
-
-PROV385;Lugo;;;;;;;;;;;;;x
-PROV386;Coruña;;;;;;;;;;;;;x
-PROV387;Santiago;;;;;;;;;;;;;x
-
-PROV388;Porto;;;;;;;;;;;;;x
-PROV389;Bragança;;;;;;;;;;;;;x
-PROV390;Guardo;;;;;;;;;;;;;x
-PROV391;Coimbra;;;;;;;;;;;;;x
-
+PROV374;Asturias de Santillana;;;;;;;;;;;Ñàíòèëüÿíà;;x
+PROV375;Burgos;;;;;;;;;;;Áóðãîñ;;x
+PROV376;Soria;;;;;;;;;;;Ñîðèÿ;;x
+PROV377;Osma;;;;;;;;;;;Îñìà;;x
+PROV378;Valladolid;;;;;;;;;;;Âàëüÿäîëèä;;x
+PROV379;Salamanca;;;;;;;;;;;Ñàëàìàíêà;;x
+PROV380;Zamora;;;;;;;;;;;Ñàìîðà;;x
+PROV381;Palencia;;;;;;;;;;;Ïàëåíñèÿ;;x
+PROV382;León;;;;;;;;;;;Ëåîí;;x
+PROV383;Astorga;;;;;;;;;;;Ýëü Áüåðñî;;x
+PROV384;Asturias de Oviedo;;;;;;;;;;;Îâüåäî;;x
+PROV385;Lugo;;;;;;;;;;;Ëóãî;;x
+PROV386;Coruña;;;;;;;;;;;À-Êîðóíüÿ;;x
+PROV387;Santiago;;;;;;;;;;;Ñàíòüÿãî;;x
+PROV388;Porto;;;;;;;;;;;Ïîðòó;;x
+PROV389;Bragança;;;;;;;;;;;Áðàãàíñà;;x
+PROV390;Guardo;;;;;;;;;;;Ãóàðäà;;x
+PROV391;Coimbra;;;;;;;;;;;Êîèìáðà;;x
 # Andalusia
-PROV392;Lisboa;;;;;;;;;;;;;x
-PROV393;Almada;;;;;;;;;;;;;x
-
-PROV394;Egitanea;;;;;;;;;;;;;x
-PROV395;Évora;;;;;;;;;;;;;x
-PROV396;Mértola;;;;;;;;;;;;;x
-PROV397;Alcácer do Sal;;;;;;;;;;;;;x
-
-PROV398;Silves;;;;;;;;;;;;;x
-PROV399;Faro;;;;;;;;;;;;;x
-
-PROV400;Huelva;;;;;;;;;;;;;x
-PROV401;Niebla;;;;;;;;;;;;;x
-PROV402;Cadiz;;;;;;;;;;;;;x
-PROV403;Algeciras;;;;;;;;;;;;;x
-PROV404;Seville;;;;;;;;;;;;;x
-PROV405;Aracena;;;;;;;;;;;;;x
-
-PROV406;Badajoz;;;;;;;;;;;;;x
-PROV407;Caceres;;;;;;;;;;;;;x
-PROV408;Alcantara;;;;;;;;;;;;;x
-PROV409;Plasencia;;;;;;;;;;;;;x
-
-PROV410;Toledo;;;;;;;;;;;;;x
-PROV411;Alcalá;;;;;;;;;;;;;x
-PROV412;Molina;;;;;;;;;;;;;x
-PROV413;Cuenca;;;;;;;;;;;;;x
-
-PROV414;La Mancha;;;;;;;;;;;;;x
-PROV415;Calatrava;;;;;;;;;;;;;x
-PROV416;Cordoba;;;;;;;;;;;;;x
-PROV417;Jaen;;;;;;;;;;;;;x
-
-PROV418;Malaga;;;;;;;;;;;;;x
-PROV419;Granada;;;;;;;;;;;;;x
-PROV420;Almeria;;;;;;;;;;;;;x
-
-PROV421;Murcia;;;;;;;;;;;;;x
-PROV422;Almansa;;;;;;;;;;;;;x
-
-PROV423;Denia;;;;;;;;;;;;;x
-PROV424;Valencia;;;;;;;;;;;;;x
-PROV425;Castellon;;;;;;;;;;;;;x
-
-PROV426;Mallorca;;;;;;;;;;;;;x
-PROV427;Menorca;;;;;;;;;;;;;x
-
+PROV392;Lisboa;;;;;;;;;;;Ëèññàáîí;;x
+PROV393;Almada;;;;;;;;;;;Àëìàäà;;x
+PROV394;Egitanea;;;;;;;;;;;Ýãèòàíèÿ;;x
+PROV395;Évora;;;;;;;;;;;Ýâîðà;;x
+PROV396;Mértola;;;;;;;;;;;Ìåðòîëà;;x
+PROV397;Alcácer do Sal;;;;;;;;;;;Àëêàñåð-äó-Ñàë;;x
+PROV398;Silves;;;;;;;;;;;Ñèëâåø;;x
+PROV399;Faro;;;;;;;;;;;Ôàðó;;x
+PROV400;Huelva;;;;;;;;;;;Óýëüâà;;x
+PROV401;Niebla;;;;;;;;;;;Íèýáëà;;x
+PROV402;Cadiz;;;;;;;;;;;Êàäèñ;;x
+PROV403;Algeciras;;;;;;;;;;;Àëüõåñèðàñ;;x
+PROV404;Seville;;;;;;;;;;;Ñåâèëüÿ;;x
+PROV405;Aracena;;;;;;;;;;;Àðàñåíà;;x
+PROV406;Badajoz;;;;;;;;;;;Áàäàõîñ;;x
+PROV407;Caceres;;;;;;;;;;;Êàñåðåñ;;x
+PROV408;Alcantara;;;;;;;;;;;Àëüêàíòàðà;;x
+PROV409;Plasencia;;;;;;;;;;;Ïëàñåíñèÿ;;x
+PROV410;Toledo;;;;;;;;;;;Òîëåäî;;x
+PROV411;Alcalá;;;;;;;;;;;Àëüêàëà;;x
+PROV412;Molina;;;;;;;;;;;Ìîëèíà;;x
+PROV413;Cuenca;;;;;;;;;;;Êóýíêà;;x
+PROV414;La Mancha;;;;;;;;;;;Ëà-Ìàí÷à;;x
+PROV415;Calatrava;;;;;;;;;;;Êàëàòðàâà;;x
+PROV416;Cordoba;;;;;;;;;;;Êîðäîâà;;x
+PROV417;Jaen;;;;;;;;;;;Õàýí;;x
+PROV418;Malaga;;;;;;;;;;;Ìàëàãà;;x
+PROV419;Granada;;;;;;;;;;;Ãðàíàäà;;x
+PROV420;Almeria;;;;;;;;;;;Àëüìåðèÿ;;x
+PROV421;Murcia;;;;;;;;;;;Ìóðñèÿ;;x
+PROV422;Almansa;;;;;;;;;;;Àëüìàíñà;;x
+PROV423;Denia;;;;;;;;;;;Äåíèÿ;;x
+PROV424;Valencia;;;;;;;;;;;Âàëåíñèÿ;;x
+PROV425;Castellon;;;;;;;;;;;Êàñòåëüîí;;x
+PROV426;Mallorca;;;;;;;;;;;Ìàëüîðêà;;x
+PROV427;Menorca;;;;;;;;;;;Ìåíîðêà;;x
 # Corsica and Sardinia
-PROV428;Cagliari;;;;;;;;;;;;;x
-PROV429;Ogliastra;;;;;;;;;;;;;x
-PROV430;Arborea;;;;;;;;;;;;;x
-PROV431;Torres;;;;;;;;;;;;;x
-PROV432;Gallura;;;;;;;;;;;;;x
-
-PROV433;Cinarca;;;;;;;;;;;;;x
-PROV434;Corsica;;;;;;;;;;;;;x
-
+PROV428;Cagliari;;;;;;;;;;;Êàëüÿðè;;x
+PROV429;Ogliastra;;;;;;;;;;;Îëüÿñòðà;;x
+PROV430;Arborea;;;;;;;;;;;Àðáîðåÿ;;x
+PROV431;Torres;;;;;;;;;;;Òîððåñ;;x
+PROV432;Gallura;;;;;;;;;;;Ãàëëóðà;;x
+PROV433;Cinarca;;;;;;;;;;;Êèíàðêà;;x
+PROV434;Corsica;;;;;;;;;;;Êîðñèêà;;x
 # Italy
-PROV435;Genoa;;;;;;;;;;;;;x
-PROV436;Noli;;;;;;;;;;;;;x
-
-PROV437;Saluzzo;;;;;;;;;;;;;x
-PROV438;Piemonte;;;;;;;;;;;;;x
-PROV439;Ivrea;;;;;;;;;;;;;x
-PROV440;Monferrato;;;;;;;;;;;;;x
-
-PROV441;Pavia;;;;;;;;;;;;;x
-PROV442;Milano;;;;;;;;;;;;;x
-PROV443;Como;;;;;;;;;;;;;x
-PROV444;Bellinzona;;;;;;;;;;;;;x
-PROV445;Brescia;;;;;;;;;;;;;x
-PROV446;Cremona;;;;;;;;;;;;;x
-
-PROV447;Mantua;;;;;;;;;;;;;x
-PROV448;Verona;;;;;;;;;;;;;x
-PROV449;Padua;;;;;;;;;;;;;x
-
-PROV450;Venezia;;;;;;;;;;;;;x
-
-PROV451;Ferrara;;;;;;;;;;;;;x
-PROV452;Ravenna;;;;;;;;;;;;;x
-PROV453;Bologna;;;;;;;;;;;;;x
-
-PROV454;Modena;;;;;;;;;;;;;x
-PROV455;Parma;;;;;;;;;;;;;x
-
-PROV456;Lucca;;;;;;;;;;;;;x
-PROV457;Florence;;;;;;;;;;;;;x
-PROV458;Arezzo;;;;;;;;;;;;;x
-PROV459;Siena;;;;;;;;;;;;;x
-
-PROV460;Pisa;;;;;;;;;;;;;x
-PROV461;Piombino;;;;;;;;;;;;;x
-
+PROV435;Genoa;;;;;;;;;;;Ãåíóÿ;;x
+PROV436;Noli;;;;;;;;;;;Íîëè;;x
+PROV437;Saluzzo;;;;;;;;;;;Ñàëóööî;;x
+PROV438;Piemonte;;;;;;;;;;;Ïüåìîíò;;x
+PROV439;Ivrea;;;;;;;;;;;Èâðåà;;x
+PROV440;Monferrato;;;;;;;;;;;Ìîíôåððàò;;x
+PROV441;Pavia;;;;;;;;;;;Ïàâèÿ;;x
+PROV442;Milano;;;;;;;;;;;Ìèëàí;;x
+PROV443;Como;;;;;;;;;;;Êîìî;;x
+PROV444;Bellinzona;;;;;;;;;;;Áåëëèíöîíà;;x
+PROV445;Brescia;;;;;;;;;;;Áðåøèÿ;;x
+PROV446;Cremona;;;;;;;;;;;Êðåìîíà;;x
+PROV447;Mantua;;;;;;;;;;;Ìàíòóÿ;;x
+PROV448;Verona;;;;;;;;;;;Âåðîíà;;x
+PROV449;Padua;;;;;;;;;;;Ïàäóÿ;;x
+PROV450;Venezia;;;;;;;;;;;Âåíåöèÿ;;x
+PROV451;Ferrara;;;;;;;;;;;Ôåððàðà;;x
+PROV452;Ravenna;;;;;;;;;;;Ðàâåííà;;x
+PROV453;Bologna;;;;;;;;;;;Áîëîíüÿ;;x
+PROV454;Modena;;;;;;;;;;;Ìîäåíà;;x
+PROV455;Parma;;;;;;;;;;;Ïàðìà;;x
+PROV456;Lucca;;;;;;;;;;;Ëóêêà;;x
+PROV457;Florence;;;;;;;;;;;Ôëîðåíöèÿ;;x
+PROV458;Arezzo;;;;;;;;;;;Àðåööî;;x
+PROV459;Siena;;;;;;;;;;;Ñèåíà;;x
+PROV460;Pisa;;;;;;;;;;;Ïèçà;;x
+PROV461;Piombino;;;;;;;;;;;Ïüîìáèíî;;x
 # Papal State
-PROV462;Orbetello;;;;;;;;;;;;;x
-PROV463;Orvieto;;;;;;;;;;;;;x
-PROV464;Rome;;;;;;;;;;;;;x
-
-PROV465;Perugia;;;;;;;;;;;;;x
-PROV466;Spoleto;;;;;;;;;;;;;x
-
-PROV467;Urbino;;;;;;;;;;;;;x
-PROV468;Rimini;;;;;;;;;;;;;x
-PROV469;Ancona;;;;;;;;;;;;;x
-
+PROV462;Orbetello;;;;;;;;;;;Îðáåòåëëî;;x
+PROV463;Orvieto;;;;;;;;;;;Îðâüåòî;;x
+PROV464;Rome;;;;;;;;;;;Ðèì;;x
+PROV465;Perugia;;;;;;;;;;;Ïåðóäæà;;x
+PROV466;Spoleto;;;;;;;;;;;Ñïîëåòî;;x
+PROV467;Urbino;;;;;;;;;;;Óðáèíî;;x
+PROV468;Rimini;;;;;;;;;;;Ðèìèíè;;x
+PROV469;Ancona;;;;;;;;;;;Àíêîíà;;x
 # Sicily
-PROV470;Aquila;;;;;;;;;;;;;x
-PROV471;Chieti;;;;;;;;;;;;;x
-
-PROV472;Capua;;;;;;;;;;;;;x
-PROV473;Napoli;;;;;;;;;;;;;x
-
-PROV474;Amalfi;;;;;;;;;;;;;x
-
-PROV475;Benevento;;;;;;;;;;;;;x
-PROV476;Foggia;;;;;;;;;;;;;x
-
-PROV477;Apulia;;;;;;;;;;;;;x
-PROV478;Bari;;;;;;;;;;;;;x
-PROV479;Lecce;;;;;;;;;;;;;x
-
-PROV480;Taranto;;;;;;;;;;;;;x
-PROV481;Salerno;;;;;;;;;;;;;x
-
-PROV482;Cosenza;;;;;;;;;;;;;x
-PROV483;Catanzaro;;;;;;;;;;;;;x
-PROV484;Reggio;;;;;;;;;;;;;x
-
-PROV485;Messina;;;;;;;;;;;;;x
-PROV486;Palermo;;;;;;;;;;;;;x
-PROV487;Trapani;;;;;;;;;;;;;x
-PROV488;Agrigento;;;;;;;;;;;;;x
-PROV489;Siracusa;;;;;;;;;;;;;x
-PROV490;Malta;;;;;;;;;;;;;x
-
+PROV470;Aquila;;;;;;;;;;;Àêâèëà;;x
+PROV471;Chieti;;;;;;;;;;;Êüåòè;;x
+PROV472;Capua;;;;;;;;;;;Êàïóÿ;;x
+PROV473;Napoli;;;;;;;;;;;Íåàïîëü;;x
+PROV474;Amalfi;;;;;;;;;;;Àìàëüôè;;x
+PROV475;Benevento;;;;;;;;;;;Áåíåâåíòî;;x
+PROV476;Foggia;;;;;;;;;;;Ôîäæà;;x
+PROV477;Apulia;;;;;;;;;;;Àïóëèÿ;;x
+PROV478;Bari;;;;;;;;;;;Áàðè;;x
+PROV479;Lecce;;;;;;;;;;;Ëå÷÷å;;x
+PROV480;Taranto;;;;;;;;;;;Òàðàíòî;;x
+PROV481;Salerno;;;;;;;;;;;Ñàëåðíî;;x
+PROV482;Cosenza;;;;;;;;;;;Êîçåíöà;;x
+PROV483;Catanzaro;;;;;;;;;;;Êàòàíäçàðî;;x
+PROV484;Reggio;;;;;;;;;;;Ðåäæî;;x
+PROV485;Messina;;;;;;;;;;;Ìåññèíà;;x
+PROV486;Palermo;;;;;;;;;;;Ïàëåðìî;;x
+PROV487;Trapani;;;;;;;;;;;Òðàïàíè;;x
+PROV488;Agrigento;;;;;;;;;;;Àãðèäæåíòî;;x
+PROV489;Siracusa;;;;;;;;;;;Ñèðàêóçû;;x
+PROV490;Malta;;;;;;;;;;;Ìàëüòà;;x
 # Greece
-PROV491;Kaneia;;;;;;;;;;;;;x
-PROV492;Chandax;;;;;;;;;;;;;x
-
-PROV493;Naxos;;;;;;;;;;;;;x
-PROV494;Euboia;;;;;;;;;;;;;x
-
-PROV495;Chalkidike;;;;;;;;;;;;;x
-PROV496;Serrae;;;;;;;;;;;;;x
-PROV497;Thessalonike;;;;;;;;;;;;;x
-
-PROV498;Demetrias;;;;;;;;;;;;;x
-PROV499;Thessalia;;;;;;;;;;;;;x
-PROV500;Thebes;;;;;;;;;;;;;x
-PROV501;Atheniai;;;;;;;;;;;;;x
-
-PROV502;Korinthos;;;;;;;;;;;;;x
-PROV503;Monemvasia;;;;;;;;;;;;;x
-PROV504;Methone;;;;;;;;;;;;;x
-PROV505;Achaia;;;;;;;;;;;;;x
-
+PROV491;Kaneia;;;;;;;;;;;Êàíåÿ;;x
+PROV492;Chandax;;;;;;;;;;;Êàíäèÿ;;x
+PROV493;Naxos;;;;;;;;;;;Íàêñîñ;;x
+PROV494;Euboia;;;;;;;;;;;Ýâáåÿ;;x
+PROV495;Chalkidike;;;;;;;;;;;Õàëêèäèêà;;x
+PROV496;Serrae;;;;;;;;;;;Ñåððû;;x
+PROV497;Thessalonike;;;;;;;;;;;Ôåññàëîíèêè;;x
+PROV498;Demetrias;;;;;;;;;;;Äèìèòðèàäà;;x
+PROV499;Thessalia;;;;;;;;;;;Ôåññàëèÿ;;x
+PROV500;Thebes;;;;;;;;;;;Ôèâû;;x
+PROV501;Atheniai;;;;;;;;;;;Àôèíû;;x
+PROV502;Korinthos;;;;;;;;;;;Êîðèíô;;x
+PROV503;Monemvasia;;;;;;;;;;;Ìîíåìâàñèÿ;;x
+PROV504;Methone;;;;;;;;;;;Ìîäîíà;;x
+PROV505;Achaia;;;;;;;;;;;Àõåéÿ;;x
 # Epirus
-PROV506;Zakynthos;;;;;;;;;;;;;x
-PROV507;Cephalonia;;;;;;;;;;;;;x
-PROV508;Korkyra;;;;;;;;;;;;;x
-
-PROV509;Naupaktos;;;;;;;;;;;;;x
-PROV510;Árta;;;;;;;;;;;;;x
-PROV511;Épeiros;;;;;;;;;;;;;x
-
-PROV512;Kastoria;;;;;;;;;;;;;x
-PROV513;Bitola;;;;;;;;;;;;;x
-PROV514;Ohrid;;;;;;;;;;;;;x
-
-PROV515;Avlonas;;;;;;;;;;;;;x
-PROV516;Dyrrachion;;;;;;;;;;;;;x
-
+PROV506;Zakynthos;;;;;;;;;;;Çàêèíô;;x
+PROV507;Cephalonia;;;;;;;;;;;Êåôàëîíèÿ;;x
+PROV508;Korkyra;;;;;;;;;;;Êîðêèðà;;x
+PROV509;Naupaktos;;;;;;;;;;;Íàâïàêò;;x
+PROV510;Árta;;;;;;;;;;;Àðòà;;x
+PROV511;Épeiros;;;;;;;;;;;Ýïèð;;x
+PROV512;Kastoria;;;;;;;;;;;Êàñòîðèÿ;;x
+PROV513;Bitola;;;;;;;;;;;Áèòîëà;;x
+PROV514;Ohrid;;;;;;;;;;;Îõðèä;;x
+PROV515;Avlonas;;;;;;;;;;;Àâëîíàñ;;x
+PROV516;Dyrrachion;;;;;;;;;;;Äèððàõèé;;x
 # Serbia
-PROV517;Zeta;;;;;;;;;;;;;x
-PROV518;Travunia;;;;;;;;;;;;;x
-PROV519;Ragusa;;;;;;;;;;;;;x
-
-PROV520;Onogost;;;;;;;;;;;;;x
-PROV521;Rashka;;;;;;;;;;;;;x
-PROV522;Ras;;;;;;;;;;;;;x
-PROV523;Belgrade;;;;;;;;;;;;;x
-
+PROV517;Zeta;;;;;;;;;;;Çåòà;;x
+PROV518;Travunia;;;;;;;;;;;Òðàâóíèÿ;;x
+PROV519;Ragusa;;;;;;;;;;;Ðàãóçà;;x
+PROV520;Onogost;;;;;;;;;;;Îíîãîøò;;x
+PROV521;Rashka;;;;;;;;;;;Ðàøêà;;x
+PROV522;Ras;;;;;;;;;;;Ðàñ;;x
+PROV523;Belgrade;;;;;;;;;;;Áåëãðàä;;x
 # Bulgaria
-PROV524;Vidin;;;;;;;;;;;;;x
-PROV525;Naissos;;;;;;;;;;;;;x
-
-PROV526;Astibus;;;;;;;;;;;;;x
-PROV527;Strymon;;;;;;;;;;;;;x
-
-PROV528;Serdica;;;;;;;;;;;;;x
-PROV529;Nikopolis;;;;;;;;;;;;;x
-PROV530;Tyrnovo;;;;;;;;;;;;;x
-PROV531;Dorostotum;;;;;;;;;;;;;x
-
-PROV532;Constantia;;;;;;;;;;;;;x
-PROV533;Karvuna;;;;;;;;;;;;;x
-PROV534;Mesembria;;;;;;;;;;;;;x
-
+PROV524;Vidin;;;;;;;;;;;Âèäèí;;x
+PROV525;Naissos;;;;;;;;;;;Íèø;;x
+PROV526;Astibus;;;;;;;;;;;Àñòèáî;;x
+PROV527;Strymon;;;;;;;;;;;Ñòðèìîí;;x
+PROV528;Serdica;;;;;;;;;;;Ñåðäèêà;;x
+PROV529;Nikopolis;;;;;;;;;;;Íèêîïîëü;;x
+PROV530;Tyrnovo;;;;;;;;;;;Òûðíîâî;;x
+PROV531;Dorostotum;;;;;;;;;;;Äîðîñòîë;;x
+PROV532;Constantia;;;;;;;;;;;Êîíñòàíöà;;x
+PROV533;Karvuna;;;;;;;;;;;Êàðâóíà;;x
+PROV534;Mesembria;;;;;;;;;;;Ìåññåìâðèÿ;;x
 # Thrake
-PROV535;Adrianopolis;;;;;;;;;;;;;x
-PROV536;Philippopolis;;;;;;;;;;;;;x
-PROV537;Maroneia;;;;;;;;;;;;;x
-PROV538;Traianopolis;;;;;;;;;;;;;x
-
-PROV539;Kaliopolis;;;;;;;;;;;;;x
-PROV540;Thrake;;;;;;;;;;;;;x
-PROV541;Constantinople;;;;;;;;;;;;;x
-
-PROV542;Lesbos;;;;;;;;;;;;;x
-PROV543;Abydos;;;;;;;;;;;;;x
-PROV544;Kyzikos;;;;;;;;;;;;;x
-
-PROV545;Nikomedeia;;;;;;;;;;;;;x
-PROV546;Herakleia;;;;;;;;;;;;;x
-
+PROV535;Adrianopolis;;;;;;;;;;;Àäðèàíîïîëü;;x
+PROV536;Philippopolis;;;;;;;;;;;Ôèëèïïîïîëü;;x
+PROV537;Maroneia;;;;;;;;;;;Ìàðîíèÿ;;x
+PROV538;Traianopolis;;;;;;;;;;;Òðàÿíîïîëèñ;;x
+PROV539;Kaliopolis;;;;;;;;;;;Êàëèîïîëü;;x
+PROV540;Thrake;;;;;;;;;;;Ôðàêèÿ;;x
+PROV541;Constantinople;;;;;;;;;;;Êîíñòàíòèíîïîëü;;x
+PROV542;Lesbos;;;;;;;;;;;Ëåñáîñ;;x
+PROV543;Abydos;;;;;;;;;;;Àâèäîñ;;x
+PROV544;Kyzikos;;;;;;;;;;;Êèçèê;;x
+PROV545;Nikomedeia;;;;;;;;;;;Íèêîìåäèÿ;;x
+PROV546;Herakleia;;;;;;;;;;;Ãåðàêëåÿ;;x
 # Anatolia
-PROV547;Nikaea;;;;;;;;;;;;;x
-PROV548;Prusa;;;;;;;;;;;;;x
-PROV549;Dorylaion;;;;;;;;;;;;;x
-
-PROV550;Claudiopolis;;;;;;;;;;;;;x
-PROV551;Ancyra;;;;;;;;;;;;;x
-
-PROV552;Amorion;;;;;;;;;;;;;x
-PROV553;Ikonion;;;;;;;;;;;;;x
-PROV554;Akroinon;;;;;;;;;;;;;x
-
-PROV555;Sozopolis;;;;;;;;;;;;;x
-PROV556;Laodikeia;;;;;;;;;;;;;x
-PROV557;Sardis;;;;;;;;;;;;;x
-
-PROV558;Smyrna;;;;;;;;;;;;;x
-PROV559;Ephesos;;;;;;;;;;;;;x
-PROV560;Chios;;;;;;;;;;;;;x
-
-PROV561;Rhodos;;;;;;;;;;;;;x
-PROV562;Lykia;;;;;;;;;;;;;x
-PROV563;Attaleia;;;;;;;;;;;;;x
-
-PROV564;Limisol;;;;;;;;;;;;;x
-PROV565;Famagusta;;;;;;;;;;;;;x
-
-PROV566;Seleukeia;;;;;;;;;;;;;x
-PROV567;Tarsos;;;;;;;;;;;;;x
-PROV568;Adana;;;;;;;;;;;;;x
-PROV569;Teluch;;;;;;;;;;;;;x
-PROV570;Lykandos;;;;;;;;;;;;;x
-
-PROV571;Tyana;;;;;;;;;;;;;x
-PROV572;Nyssa;;;;;;;;;;;;;x
-
-PROV573;Kaisereia;;;;;;;;;;;;;x
-PROV574;Charsianon;;;;;;;;;;;;;x
-PROV575;Galatia;;;;;;;;;;;;;x
-
+PROV547;Nikaea;;;;;;;;;;;Íèêåÿ;;x
+PROV548;Prusa;;;;;;;;;;;Ïðóñà;;x
+PROV549;Dorylaion;;;;;;;;;;;Äîðèëåé;;x
+PROV550;Claudiopolis;;;;;;;;;;;Êëàâäèîïîëü;;x
+PROV551;Ancyra;;;;;;;;;;;Àíãîðà;;x
+PROV552;Amorion;;;;;;;;;;;Àìîðèé;;x
+PROV553;Ikonion;;;;;;;;;;;Èêîíèé;;x
+PROV554;Akroinon;;;;;;;;;;;Àêðîèí;;x
+PROV555;Sozopolis;;;;;;;;;;;Ñîçîïîëü;;x
+PROV556;Laodikeia;;;;;;;;;;;Ëàîäèêåÿ;;x
+PROV557;Sardis;;;;;;;;;;;Ñàðäèñ;;x
+PROV558;Smyrna;;;;;;;;;;;Ôèëàäåëüôèÿ;;x
+PROV559;Ephesos;;;;;;;;;;;Ýôåñ;;x
+PROV560;Chios;;;;;;;;;;;Õèîñ;;x
+PROV561;Rhodos;;;;;;;;;;;Ðîäîñ;;x
+PROV562;Lykia;;;;;;;;;;;Ëèêèÿ;;x
+PROV563;Attaleia;;;;;;;;;;;Àòòàëèÿ;;x
+PROV564;Limisol;;;;;;;;;;;Ëèìàñîë;;x
+PROV565;Famagusta;;;;;;;;;;;Ôàìàãóñòà;;x
+PROV566;Seleukeia;;;;;;;;;;;Ñåëåâêèÿ;;x
+PROV567;Tarsos;;;;;;;;;;;Òàðñ;;x
+PROV568;Adana;;;;;;;;;;;Àäàíà;;x
+PROV569;Teluch;;;;;;;;;;;Òåëóø;;x
+PROV570;Lykandos;;;;;;;;;;;Ëèêàíä;;x
+PROV571;Tyana;;;;;;;;;;;Òèàíà;;x
+PROV572;Nyssa;;;;;;;;;;;Íèññà;;x
+PROV573;Kaisereia;;;;;;;;;;;Öåçàðåÿ;;x
+PROV574;Charsianon;;;;;;;;;;;Õàðñèàí;;x
+PROV575;Galatia;;;;;;;;;;;Ãàëàòèÿ;;x
 # Trebizond
-PROV576;Paphlagonia;;;;;;;;;;;;;x
-PROV577;Amastris;;;;;;;;;;;;;x
-PROV578;Kastamon;;;;;;;;;;;;;x
-
-PROV579;Sinope;;;;;;;;;;;;;x
-PROV580;Amisos;;;;;;;;;;;;;x
-
-PROV581;Chaldea;;;;;;;;;;;;;x
-PROV582;Trapezous;;;;;;;;;;;;;x
-PROV583;Theodosiopolis;;;;;;;;;;;;;x
-
+PROV576;Paphlagonia;;;;;;;;;;;Ïàôëàãîíèÿ;;x
+PROV577;Amastris;;;;;;;;;;;Àìàñòðèäà;;x
+PROV578;Kastamon;;;;;;;;;;;Êàñòàìîí;;x
+PROV579;Sinope;;;;;;;;;;;Ñèíîï;;x
+PROV580;Amisos;;;;;;;;;;;Àìèñ;;x
+PROV581;Chaldea;;;;;;;;;;;Õàëäèÿ;;x
+PROV582;Trapezous;;;;;;;;;;;Òðàïåçóíä;;x
+PROV583;Theodosiopolis;;;;;;;;;;;Ôåîäîñèîïîëèñ;;x
 # Armenia
-PROV584;Aintab;;;;;;;;;;;;;x
-PROV585;Tell Bashir;;;;;;;;;;;;;x
-PROV586;Edessa;;;;;;;;;;;;;x
-
-PROV587;Koloneia;;;;;;;;;;;;;x
-PROV588;Melitene;;;;;;;;;;;;;x
-
-PROV589;Taron;;;;;;;;;;;;;x
-PROV590;Khliat;;;;;;;;;;;;;x
-PROV591;Karin;;;;;;;;;;;;;x
-
-PROV592;Ani;;;;;;;;;;;;;x
-PROV593;Vaspurakan;;;;;;;;;;;;;x
-PROV594;Dwin;;;;;;;;;;;;;x
-PROV595;Lori;;;;;;;;;;;;;x
-
+PROV584;Aintab;;;;;;;;;;;Àéíòàá;;x
+PROV585;Tell Bashir;;;;;;;;;;;Òåëü-Áàøèð;;x
+PROV586;Edessa;;;;;;;;;;;Ýäåññà;;x
+PROV587;Koloneia;;;;;;;;;;;Êîëîíèÿ;;x
+PROV588;Melitene;;;;;;;;;;;Ìåëèòåíà;;x
+PROV589;Taron;;;;;;;;;;;Òàðîí;;x
+PROV590;Khliat;;;;;;;;;;;Õëàò;;x
+PROV591;Karin;;;;;;;;;;;Êàðèí;;x
+PROV592;Ani;;;;;;;;;;;Àíè;;x
+PROV593;Vaspurakan;;;;;;;;;;;Âàñïóðàêàí;;x
+PROV594;Dwin;;;;;;;;;;;Äâèí;;x
+PROV595;Lori;;;;;;;;;;;Ëîðè;;x
 # Georgia
-PROV596;Klarjeti;;;;;;;;;;;;;x
-PROV597;Tao;;;;;;;;;;;;;x
-PROV598;Guria;;;;;;;;;;;;;x
-
-PROV599;Abkhazia;;;;;;;;;;;;;x
-PROV600;Egrisi;;;;;;;;;;;;;x
-
-PROV601;Imeretia;;;;;;;;;;;;;x
-PROV602;Mtskheta;;;;;;;;;;;;;x
-PROV603;Tiflis;;;;;;;;;;;;;x
-
-PROV604;Kakheti;;;;;;;;;;;;;x
-PROV605;Albania;;;;;;;;;;;;;x
-
+PROV596;Klarjeti;;;;;;;;;;;Êëàðäæåòè;;x
+PROV597;Tao;;;;;;;;;;;Òàî-Êëàðäæåòèÿ;;x
+PROV598;Guria;;;;;;;;;;;Ãóðèÿ;;x
+PROV599;Abkhazia;;;;;;;;;;;Àáõàçèÿ;;x
+PROV600;Egrisi;;;;;;;;;;;Ýðãèñè;;x
+PROV601;Imeretia;;;;;;;;;;;Èìåðåòèÿ;;x
+PROV602;Mtskheta;;;;;;;;;;;Ìöõåòà;;x
+PROV603;Tiflis;;;;;;;;;;;Òèôëèñ;;x
+PROV604;Kakheti;;;;;;;;;;;Êàõåòèÿ;;x
+PROV605;Albania;;;;;;;;;;;Êàâêàçñêàÿ Àëáàíèÿ;;x
 # Alania
-PROV606;Derbent;;;;;;;;;;;;;x
-PROV607;Balanjar;;;;;;;;;;;;;x
-PROV608;Semender;;;;;;;;;;;;;x
-PROV609;Durdzukia;;;;;;;;;;;;;x
-
-PROV610;Alania;;;;;;;;;;;;;x
-PROV611;Yegorlyk;;;;;;;;;;;;;x
-PROV612;Kasogia;;;;;;;;;;;;;x
-
-PROV613;Azov;;;;;;;;;;;;;x
-PROV614;Kuban;;;;;;;;;;;;;x
-PROV615;Tana;;;;;;;;;;;;;x
-PROV616;Sarpa;;;;;;;;;;;;;x
-
-PROV617;Kalaus;;;;;;;;;;;;;x
-PROV618;Terek;;;;;;;;;;;;;x
-PROV619;Kuma;;;;;;;;;;;;;x
-PROV620;Manych;;;;;;;;;;;;;x
-
+PROV606;Derbent;;;;;;;;;;;Äåðáåíò;;x
+PROV607;Balanjar;;;;;;;;;;;Áåëåíäæàð;;x
+PROV608;Semender;;;;;;;;;;;Ñåìåíäåð;;x
+PROV609;Durdzukia;;;;;;;;;;;Äóðäçóêèÿ;;x
+PROV610;Alania;;;;;;;;;;;Àëàíèÿ;;x
+PROV611;Yegorlyk;;;;;;;;;;;Åãîðëûê;;x
+PROV612;Kasogia;;;;;;;;;;;Êàñîãèÿ;;x
+PROV613;Azov;;;;;;;;;;;Àçîâ;;x
+PROV614;Kuban;;;;;;;;;;;Êóáàíü;;x
+PROV615;Tana;;;;;;;;;;;Òàíà;;x
+PROV616;Sarpa;;;;;;;;;;;Ñàðïà;;x
+PROV617;Kalaus;;;;;;;;;;;Êàëàóñ;;x
+PROV618;Terek;;;;;;;;;;;Òåðåê;;x
+PROV619;Kuma;;;;;;;;;;;Êóìà;;x
+PROV620;Manych;;;;;;;;;;;Ìàíû÷;;x
 # Khazaria
-PROV621;Saray;;;;;;;;;;;;;x
-PROV622;Saqsin;;;;;;;;;;;;;x
-PROV623;Itil;;;;;;;;;;;;;x
-PROV624;Yeruslan;;;;;;;;;;;;;x
-PROV625;Uzen;;;;;;;;;;;;;x
-
-PROV626;Ryn;;;;;;;;;;;;;x
-PROV627;Atyrau;;;;;;;;;;;;;x
-
-PROV628;Utva;;;;;;;;;;;;;x
-PROV629;Mughalzhar;;;;;;;;;;;;;x
-PROV630;Ilek;;;;;;;;;;;;;x
-PROV631;Aqtobe;;;;;;;;;;;;;x
-
-PROV632;Irtek;;;;;;;;;;;;;x
-PROV633;Sakmara;;;;;;;;;;;;;x
-
-PROV634;Bandja;;;;;;;;;;;;;x
-PROV635;Lower Volga;;;;;;;;;;;;;x
-PROV636;Uvek;;;;;;;;;;;;;x
-
-PROV637;Don-Portage;;;;;;;;;;;;;x
-PROV638;Sarkel;;;;;;;;;;;;;x
-PROV639;Sugrov;;;;;;;;;;;;;x
-PROV640;Sharukan;;;;;;;;;;;;;x
-PROV641;Chortitza;;;;;;;;;;;;;x
-PROV642;Desht-i-Kipchak;;;;;;;;;;;;;x
-
+PROV621;Saray;;;;;;;;;;;Ñàðàé;;x
+PROV622;Saqsin;;;;;;;;;;;Ñàêñèí;;x
+PROV623;Itil;;;;;;;;;;;Èòèëü;;x
+PROV624;Yeruslan;;;;;;;;;;;Åðóñëàí;;x
+PROV625;Uzen;;;;;;;;;;;Óçåíü;;x
+PROV626;Ryn;;;;;;;;;;;Ðûí;;x
+PROV627;Atyrau;;;;;;;;;;;Àòûðàó;;x
+PROV628;Utva;;;;;;;;;;;Óòâà;;x
+PROV629;Mughalzhar;;;;;;;;;;;Ìóãàëæàð;;x
+PROV630;Ilek;;;;;;;;;;;Èëåê;;x
+PROV631;Aqtobe;;;;;;;;;;;Àêòîáå;;x
+PROV632;Irtek;;;;;;;;;;;Èðòåê;;x
+PROV633;Sakmara;;;;;;;;;;;Ñàêìàðà;;x
+PROV634;Bandja;;;;;;;;;;;Áàíäæà;;x
+PROV635;Lower Volga;;;;;;;;;;;Íèçîâüå Âîëãè;;x
+PROV636;Uvek;;;;;;;;;;;Óâåê;;x
+PROV637;Don-Portage;;;;;;;;;;;Äîíñêîé âîëîê;;x
+PROV638;Sarkel;;;;;;;;;;;Ñàðêåë;;x
+PROV639;Sugrov;;;;;;;;;;;Ñóãðîâ;;x
+PROV640;Sharukan;;;;;;;;;;;Øàðóêàíü;;x
+PROV641;Chortitza;;;;;;;;;;;Õîðòèöà;;x
+PROV642;Desht-i-Kipchak;;;;;;;;;;;Äåøò-è-Êûï÷àê;;x
 # Crimea
-PROV643;Lower Don;;;;;;;;;;;;;x
-PROV644;Lukomorie;;;;;;;;;;;;;x
-PROV645;Oleshye;;;;;;;;;;;;;x
-PROV646;Crimea;;;;;;;;;;;;;x
-
-PROV647;Cherson;;;;;;;;;;;;;x
-PROV648;Theodosia;;;;;;;;;;;;;x
-PROV649;Korchev;;;;;;;;;;;;;x
-PROV650;Tmutarakan;;;;;;;;;;;;;x
-
-PROV651;Lower Dniepr;;;;;;;;;;;;;x
-PROV652;Korsun;;;;;;;;;;;;;x
-PROV653;Vinnytsia;;;;;;;;;;;;;x
-PROV654;Bratslav;;;;;;;;;;;;;x
-PROV655;Olvia;;;;;;;;;;;;;x
-PROV656;Odessa;;;;;;;;;;;;;x
-
+PROV643;Lower Don;;;;;;;;;;;Íèçîâüå Äîíà;;x
+PROV644;Lukomorie;;;;;;;;;;;Ëóêîìîðüå;;x
+PROV645;Oleshye;;;;;;;;;;;Ñåâåðíàÿ Òàâðèÿ;;x
+PROV646;Crimea;;;;;;;;;;;Êðûì;;x
+PROV647;Cherson;;;;;;;;;;;Õåðñîí;;x
+PROV648;Theodosia;;;;;;;;;;;Ôåîäîñèÿ;;x
+PROV649;Korchev;;;;;;;;;;;Êîð÷åâ;;x
+PROV650;Tmutarakan;;;;;;;;;;;Òìóòàðàêàíü;;x
+PROV651;Lower Dniepr;;;;;;;;;;;Íèçîâüå Äíåïðà;;x
+PROV652;Korsun;;;;;;;;;;;Êîðñóíü;;x
+PROV653;Vinnytsia;;;;;;;;;;;Âèííèöà;;x
+PROV654;Bratslav;;;;;;;;;;;Áðàöëàâ;;x
+PROV655;Olvia;;;;;;;;;;;Îëüâèÿ;;x
+PROV656;Odessa;;;;;;;;;;;Äæèíåñòðà;;x
 # Wallachia/Dacia
-PROV657;Peresechen;;;;;;;;;;;;;x
-PROV658;Iasi;;;;;;;;;;;;;x
-PROV659;Suceava;;;;;;;;;;;;;x
-PROV660;Bacau;;;;;;;;;;;;;x
-
-PROV661;Belgorod;;;;;;;;;;;;;x
-PROV662;Chilia;;;;;;;;;;;;;x
-PROV663;Galati;;;;;;;;;;;;;x
-PROV664;Bârlad;;;;;;;;;;;;;x
-
-PROV665;Târgoviste;;;;;;;;;;;;;x
-PROV666;Calarasi;;;;;;;;;;;;;x
-PROV667;Turnu;;;;;;;;;;;;;x
-PROV668;Câmpulung;;;;;;;;;;;;;x
-
-PROV669;Craiova;;;;;;;;;;;;;x
-PROV670;Targu Jiu;;;;;;;;;;;;;x
-PROV671;Severin;;;;;;;;;;;;;x
-
+PROV657;Peresechen;;;;;;;;;;;Ïåðåñå÷åíü;;x
+PROV658;Iasi;;;;;;;;;;;ßññû;;x
+PROV659;Suceava;;;;;;;;;;;Ñó÷àâà;;x
+PROV660;Bacau;;;;;;;;;;;Áàêýó;;x
+PROV661;Belgorod;;;;;;;;;;;Áåëãîðîä;;x
+PROV662;Chilia;;;;;;;;;;;Êèëèÿ;;x
+PROV663;Galati;;;;;;;;;;;Ãàëàòè;;x
+PROV664;Bârlad;;;;;;;;;;;Áûðëàä;;x
+PROV665;Târgoviste;;;;;;;;;;;Òûðãîâèøòå;;x
+PROV666;Calarasi;;;;;;;;;;;Êýëýðàøè;;x
+PROV667;Turnu;;;;;;;;;;;Òóðíó;;x
+PROV668;Câmpulung;;;;;;;;;;;Êûìïóëóíã;;x
+PROV669;Craiova;;;;;;;;;;;Êðàéîâà;;x
+PROV670;Targu Jiu;;;;;;;;;;;Òûðãó-Æèó;;x
+PROV671;Severin;;;;;;;;;;;Ñåâåðèí;;x
 # Croatia
-PROV672;Syrmia;;;;;;;;;;;;;x
-PROV673;Vukovar;;;;;;;;;;;;;x
-
-PROV674;Usora;;;;;;;;;;;;;x
-PROV675;Soli;;;;;;;;;;;;;x
-PROV676;Vrhbosna;;;;;;;;;;;;;x
-PROV677;Donji Kraji;;;;;;;;;;;;;x
-
-PROV678;Imotski;;;;;;;;;;;;;x
-PROV679;Zachlumia;;;;;;;;;;;;;x
-
-PROV680;Split;;;;;;;;;;;;;x
-PROV681;Zadar;;;;;;;;;;;;;x
-PROV682;Senj;;;;;;;;;;;;;x
-PROV683;Veglia;;;;;;;;;;;;;x
-
-PROV684;Zagreb;;;;;;;;;;;;;x
-PROV685;Krizevci;;;;;;;;;;;;;x
-PROV686;Varazdin;;;;;;;;;;;;;x
-
+PROV672;Syrmia;;;;;;;;;;;Ñðåì;;x
+PROV673;Vukovar;;;;;;;;;;;Âóêîâàð;;x
+PROV674;Usora;;;;;;;;;;;Óñîðà;;x
+PROV675;Soli;;;;;;;;;;;Ñîëè;;x
+PROV676;Vrhbosna;;;;;;;;;;;Âðõáîñíà;;x
+PROV677;Donji Kraji;;;;;;;;;;;Íèæíèå êðàÿ;;x
+PROV678;Imotski;;;;;;;;;;;Èìîòñêè;;x
+PROV679;Zachlumia;;;;;;;;;;;Çàõóìüå;;x
+PROV680;Split;;;;;;;;;;;Ñïëèò;;x
+PROV681;Zadar;;;;;;;;;;;Çàäàð;;x
+PROV682;Senj;;;;;;;;;;;Ñåíüÿ;;x
+PROV683;Veglia;;;;;;;;;;;Âåëüÿ;;x
+PROV684;Zagreb;;;;;;;;;;;Çàãðåá;;x
+PROV685;Krizevci;;;;;;;;;;;Êðèæåâöû;;x
+PROV686;Varazdin;;;;;;;;;;;Âàðàäçèí;;x
 # Hungary
-PROV687;Vas;;;;;;;;;;;;;x
-PROV688;Szekesfehervar;;;;;;;;;;;;;x
-PROV689;Fejer;;;;;;;;;;;;;x
-PROV690;Pecs;;;;;;;;;;;;;x
-
-PROV691;Bacs;;;;;;;;;;;;;x
-PROV692;Temes;;;;;;;;;;;;;x
-
-PROV693;Csanad;;;;;;;;;;;;;x
-PROV694;Pest;;;;;;;;;;;;;x
-PROV695;Heves;;;;;;;;;;;;;x
-
-PROV696;Bihar;;;;;;;;;;;;;x
-PROV697;Feher;;;;;;;;;;;;;x
-PROV698;Szekelyföld;;;;;;;;;;;;;x
-
-PROV699;Marmaros;;;;;;;;;;;;;x
-PROV700;Bereg;;;;;;;;;;;;;x
-PROV701;Spis;;;;;;;;;;;;;x
-PROV702;Abauj;;;;;;;;;;;;;x
-
-PROV703;Zvolen;;;;;;;;;;;;;x
-PROV704;Gemer;;;;;;;;;;;;;x
-PROV705;Trencín;;;;;;;;;;;;;x
-PROV706;Nitra;;;;;;;;;;;;;x
-
-PROV707;Esztergom;;;;;;;;;;;;;x
-PROV708;Sopron;;;;;;;;;;;;;x
-PROV709;Pressburg;;;;;;;;;;;;;x
-
+PROV687;Vas;;;;;;;;;;;Âàø;;x
+PROV688;Szekesfehervar;;;;;;;;;;;Ñåêåøôåõåðâàð;;x
+PROV689;Fejer;;;;;;;;;;;Ôåéåð;;x
+PROV690;Pecs;;;;;;;;;;;Áàðàíüÿ;;x
+PROV691;Bacs;;;;;;;;;;;Áà÷;;x
+PROV692;Temes;;;;;;;;;;;Òåìåø;;x
+PROV693;Csanad;;;;;;;;;;;×àíàä;;x
+PROV694;Pest;;;;;;;;;;;Ïåøò;;x
+PROV695;Heves;;;;;;;;;;;Õåâåø;;x
+PROV696;Bihar;;;;;;;;;;;Áèõàð;;x
+PROV697;Feher;;;;;;;;;;;Ôåõåð;;x
+PROV698;Szekelyföld;;;;;;;;;;;Ñåêåëüôåëüä;;x
+PROV699;Marmaros;;;;;;;;;;;Ìàðìàðîñ;;x
+PROV700;Bereg;;;;;;;;;;;Áåðåã;;x
+PROV701;Spis;;;;;;;;;;;Ñïèø;;x
+PROV702;Abauj;;;;;;;;;;;Àáàóé;;x
+PROV703;Zvolen;;;;;;;;;;;Îðàâà;;x
+PROV704;Gemer;;;;;;;;;;;Ãåìåð;;x
+PROV705;Trencín;;;;;;;;;;;Òðåí÷èí;;x
+PROV706;Nitra;;;;;;;;;;;Íèòðà;;x
+PROV707;Esztergom;;;;;;;;;;;Ýñòåðãîì;;x
+PROV708;Sopron;;;;;;;;;;;Øîïðîí;;x
+PROV709;Pressburg;;;;;;;;;;;Áðàòèñëàâà;;x
 # Bohemia
-PROV710;Znojmo;;;;;;;;;;;;;x
-PROV711;Brno;;;;;;;;;;;;;x
-PROV712;Olomouc;;;;;;;;;;;;;x
-PROV713;Opava;;;;;;;;;;;;;x
-
-PROV714;Hradec;;;;;;;;;;;;;x
-PROV715;South Bohemia;;;;;;;;;;;;;x
-PROV716;Plzen;;;;;;;;;;;;;x
-PROV717;Zatec;;;;;;;;;;;;;x
-PROV718;Prague;;;;;;;;;;;;;x
-PROV719;Litomerice;;;;;;;;;;;;;x
-
+PROV710;Znojmo;;;;;;;;;;;Çíîéìî;;x
+PROV711;Brno;;;;;;;;;;;Áðíî;;x
+PROV712;Olomouc;;;;;;;;;;;Îëîìîóö;;x
+PROV713;Opava;;;;;;;;;;;Îïàâà;;x
+PROV714;Hradec;;;;;;;;;;;Ãðàäåö-Êðàëîâå;;x
+PROV715;South Bohemia;;;;;;;;;;;Þæíàÿ Áîãåìèÿ;;x
+PROV716;Plzen;;;;;;;;;;;Ïëüçåíü;;x
+PROV717;Zatec;;;;;;;;;;;Æàòåö;;x
+PROV718;Prague;;;;;;;;;;;Ïðàãà;;x
+PROV719;Litomerice;;;;;;;;;;;Ëèòîìåðæèöå;;x
 # Pomerania
-PROV720;Gorlitz;;;;;;;;;;;;;x
-PROV721;Meissen;;;;;;;;;;;;;x
-
-PROV722;Merseburg;;;;;;;;;;;;;x
-PROV723;Zerbst;;;;;;;;;;;;;x
-PROV724;Lausitz;;;;;;;;;;;;;x
-
-PROV725;Brandenburg;;;;;;;;;;;;;x
-PROV726;Havelberg;;;;;;;;;;;;;x
-
-PROV727;Hamburg;;;;;;;;;;;;;x
-PROV728;Lübeck;;;;;;;;;;;;;x
-PROV729;Mecklenburg;;;;;;;;;;;;;x
-
-PROV730;Rostock;;;;;;;;;;;;;x
-PROV731;Rügen;;;;;;;;;;;;;x
-PROV732;Werle;;;;;;;;;;;;;x
-
-PROV733;Wolgast;;;;;;;;;;;;;x
-PROV734;Neumark;;;;;;;;;;;;;x
-PROV735;Stettin;;;;;;;;;;;;;x
-
-PROV736;Slupsk;;;;;;;;;;;;;x
-PROV737;Bytow;;;;;;;;;;;;;x
-PROV738;Danzig;;;;;;;;;;;;;x
-
+PROV720;Gorlitz;;;;;;;;;;;Ã¸ðëèö;;x
+PROV721;Meissen;;;;;;;;;;;Ìåéñåí;;x
+PROV722;Merseburg;;;;;;;;;;;Ìåðçåáóðã;;x
+PROV723;Zerbst;;;;;;;;;;;Öåðáñò;;x
+PROV724;Lausitz;;;;;;;;;;;Ëàóçèö;;x
+PROV725;Brandenburg;;;;;;;;;;;Áðàíäåíáóðã;;x
+PROV726;Havelberg;;;;;;;;;;;Õàôåëüáåðã;;x
+PROV727;Hamburg;;;;;;;;;;;Ãàìáóðã;;x
+PROV728;Lübeck;;;;;;;;;;;Ëþáåê;;x
+PROV729;Mecklenburg;;;;;;;;;;;Ìåêëåíáóðã;;x
+PROV730;Rostock;;;;;;;;;;;Ðîñòîê;;x
+PROV731;Rügen;;;;;;;;;;;Ðþãåí;;x
+PROV732;Werle;;;;;;;;;;;Âåðëå;;x
+PROV733;Wolgast;;;;;;;;;;;Âîëüãàñò;;x
+PROV734;Neumark;;;;;;;;;;;Íîéìàðê;;x
+PROV735;Stettin;;;;;;;;;;;Øòåòòèí;;x
+PROV736;Slupsk;;;;;;;;;;;Ñëóïñê;;x
+PROV737;Bytow;;;;;;;;;;;Áûòóâ;;x
+PROV738;Danzig;;;;;;;;;;;Äàíöèã;;x
 # Poland
-PROV739;Naklo;;;;;;;;;;;;;x
-PROV740;Kalisz;;;;;;;;;;;;;x
-PROV741;Poznan;;;;;;;;;;;;;x
-PROV742;Lubusz;;;;;;;;;;;;;x
-
-PROV743;Lower Silesia;;;;;;;;;;;;;x
-PROV744;Wroclaw;;;;;;;;;;;;;x
-PROV745;Upper Silesia;;;;;;;;;;;;;x
-PROV746;Cieszyn;;;;;;;;;;;;;x
-
-PROV747;Krakow;;;;;;;;;;;;;x
-PROV748;Sacz;;;;;;;;;;;;;x
-PROV749;Lublin;;;;;;;;;;;;;x
-PROV750;Stezyca;;;;;;;;;;;;;x
-PROV751;Sandomierz;;;;;;;;;;;;;x
-
-PROV752;Wielun;;;;;;;;;;;;;x
-PROV753;Sieradz;;;;;;;;;;;;;x
-PROV754;Kujawy;;;;;;;;;;;;;x
-PROV755;Dobrzyn;;;;;;;;;;;;;x
-
-PROV756;Plock;;;;;;;;;;;;;x
-PROV757;Gostynin;;;;;;;;;;;;;x
-PROV758;Liw;;;;;;;;;;;;;x
-PROV759;Lomza;;;;;;;;;;;;;x
-
+PROV739;Naklo;;;;;;;;;;;Íàêëî;;x
+PROV740;Kalisz;;;;;;;;;;;Êàëèø;;x
+PROV741;Poznan;;;;;;;;;;;Ïîçíàíü;;x
+PROV742;Lubusz;;;;;;;;;;;Ëþáóø;;x
+PROV743;Lower Silesia;;;;;;;;;;;Íèæíÿÿ Ñèëåçèÿ;;x
+PROV744;Wroclaw;;;;;;;;;;;Âðîöëàâ;;x
+PROV745;Upper Silesia;;;;;;;;;;;Âåðõíÿÿ Ñèëåçèÿ;;x
+PROV746;Cieszyn;;;;;;;;;;;Öåøèí;;x
+PROV747;Krakow;;;;;;;;;;;Êðàêîâ;;x
+PROV748;Sacz;;;;;;;;;;;Ñîí÷;;x
+PROV749;Lublin;;;;;;;;;;;Ëþáëèí;;x
+PROV750;Stezyca;;;;;;;;;;;Ñòåæèöà;;x
+PROV751;Sandomierz;;;;;;;;;;;Ñàíäîìèð;;x
+PROV752;Wielun;;;;;;;;;;;Âåëþíü;;x
+PROV753;Sieradz;;;;;;;;;;;Ñåðàäç;;x
+PROV754;Kujawy;;;;;;;;;;;Êóÿâèÿ;;x
+PROV755;Dobrzyn;;;;;;;;;;;Äîáæèíü;;x
+PROV756;Plock;;;;;;;;;;;Ïëîöê;;x
+PROV757;Gostynin;;;;;;;;;;;Ãîñòûíèí;;x
+PROV758;Liw;;;;;;;;;;;Ëèâ;;x
+PROV759;Lomza;;;;;;;;;;;Ëîìæà;;x
 # Lithuania
-PROV760;Galindia;;;;;;;;;;;;;x
-PROV761;Chelmno;;;;;;;;;;;;;x
-PROV762;Marienburg;;;;;;;;;;;;;x
-PROV763;Sambia;;;;;;;;;;;;;x
-
-PROV764;Memel;;;;;;;;;;;;;x
-PROV765;Scalovia;;;;;;;;;;;;;x
-
-PROV766;Sudovia;;;;;;;;;;;;;x
-PROV767;Grodno;;;;;;;;;;;;;x
-
-PROV768;Vilnius;;;;;;;;;;;;;x
-PROV769;Nalsia;;;;;;;;;;;;;x
-PROV770;Kaunas;;;;;;;;;;;;;x
-PROV771;Deltuva;;;;;;;;;;;;;x
-PROV772;Samogitia;;;;;;;;;;;;;x
-
-PROV773;Kurzeme;;;;;;;;;;;;;x
-PROV774;Vanema;;;;;;;;;;;;;x
-
-PROV775;Tukums;;;;;;;;;;;;;x
-PROV776;Zemgale;;;;;;;;;;;;;x
-PROV777;Riga;;;;;;;;;;;;;x
-
-PROV778;Jersika;;;;;;;;;;;;;x
-PROV779;Selija;;;;;;;;;;;;;x
-PROV780;Latgale;;;;;;;;;;;;;x
-PROV781;Talava;;;;;;;;;;;;;x
-
+PROV760;Galindia;;;;;;;;;;;Ãàëèíäèÿ;;x
+PROV761;Chelmno;;;;;;;;;;;Õåëìíî;;x
+PROV762;Marienburg;;;;;;;;;;;Ìàðèåíáóðã;;x
+PROV763;Sambia;;;;;;;;;;;Ñàìáèÿ;;x
+PROV764;Memel;;;;;;;;;;;Ìåìåëü;;x
+PROV765;Scalovia;;;;;;;;;;;Ñêàëîâèÿ;;x
+PROV766;Sudovia;;;;;;;;;;;Ñóäîâèÿ;;x
+PROV767;Grodno;;;;;;;;;;;Ãðîäíî;;x
+PROV768;Vilnius;;;;;;;;;;;Âèëüíà;;x
+PROV769;Nalsia;;;;;;;;;;;Íàëüùàíû;;x
+PROV770;Kaunas;;;;;;;;;;;Êàóíàñ;;x
+PROV771;Deltuva;;;;;;;;;;;Äåëòóâà;;x
+PROV772;Samogitia;;;;;;;;;;;Ñàìîãèòèÿ;;x
+PROV773;Kurzeme;;;;;;;;;;;Êóðëÿíäèÿ;;x
+PROV774;Vanema;;;;;;;;;;;Âàíåìà;;x
+PROV775;Tukums;;;;;;;;;;;Òóêóìñ;;x
+PROV776;Zemgale;;;;;;;;;;;Çåìãàëèÿ;;x
+PROV777;Riga;;;;;;;;;;;Ðèãà;;x
+PROV778;Jersika;;;;;;;;;;;Åðñèêà;;x
+PROV779;Selija;;;;;;;;;;;Ñåëèÿ;;x
+PROV780;Latgale;;;;;;;;;;;Ëàòãàëèÿ;;x
+PROV781;Talava;;;;;;;;;;;Òàëàâà;;x
 # Estonia
-PROV782;Tartu;;;;;;;;;;;;;x
-PROV783;Järva;;;;;;;;;;;;;x
-PROV784;Liivimaa;;;;;;;;;;;;;x
-
-PROV785;Saaremaa;;;;;;;;;;;;;x
-PROV786;Läänemaa;;;;;;;;;;;;;x
-PROV787;Kalevan;;;;;;;;;;;;;x
-PROV788;Narva;;;;;;;;;;;;;x
-
+PROV782;Tartu;;;;;;;;;;;Òàðáàòó;;x
+PROV783;Järva;;;;;;;;;;;ßðâà;;x
+PROV784;Liivimaa;;;;;;;;;;;Ëèèâèìàà;;x
+PROV785;Saaremaa;;;;;;;;;;;Ñààðåìàà;;x
+PROV786;Läänemaa;;;;;;;;;;;Ëÿýíåìàà;;x
+PROV787;Kalevan;;;;;;;;;;;Êîëûâàíü;;x
+PROV788;Narva;;;;;;;;;;;Íàðâà;;x
 # Novgorod
-PROV789;Ingria;;;;;;;;;;;;;x
-PROV790;Gdov;;;;;;;;;;;;;x
-PROV791;Pskov;;;;;;;;;;;;;x
-PROV792;Izborsk;;;;;;;;;;;;;x
-PROV793;Luki;;;;;;;;;;;;;x
-
-PROV794;Rusa;;;;;;;;;;;;;x
-PROV795;Kholm;;;;;;;;;;;;;x
-PROV796;Borovichi;;;;;;;;;;;;;x
-PROV797;Novgorod;;;;;;;;;;;;;x
-PROV798;Ladoga;;;;;;;;;;;;;x
-
-PROV799;Chlisselbourg;;;;;;;;;;;;;x
-PROV800;Zaozerye;;;;;;;;;;;;;x
-PROV801;Tikhvine;;;;;;;;;;;;;x
-PROV802;Torzhok;;;;;;;;;;;;;x
-PROV803;Bezichy;;;;;;;;;;;;;x
-
+PROV789;Ingria;;;;;;;;;;;Èíãðèÿ;;x
+PROV790;Gdov;;;;;;;;;;;Ãäîâ;;x
+PROV791;Pskov;;;;;;;;;;;Ïñêîâ;;x
+PROV792;Izborsk;;;;;;;;;;;Èçáîðñê;;x
+PROV793;Luki;;;;;;;;;;;Ëóêè;;x
+PROV794;Rusa;;;;;;;;;;;Ðóñà;;x
+PROV795;Kholm;;;;;;;;;;;Õîëì;;x
+PROV796;Borovichi;;;;;;;;;;;Âàëäàé;;x
+PROV797;Novgorod;;;;;;;;;;;Íîâãîðîä;;x
+PROV798;Ladoga;;;;;;;;;;;Ëàäîãà;;x
+PROV799;Chlisselbourg;;;;;;;;;;;Ïÿõêèíÿëèííà;;x
+PROV800;Zaozerye;;;;;;;;;;;Âûòåãðà;;x
+PROV801;Tikhvine;;;;;;;;;;;Ïðåäòå÷åíñêèé;;x
+PROV802;Torzhok;;;;;;;;;;;Òîðæîê;;x
+PROV803;Bezichy;;;;;;;;;;;Áåæè÷è;;x
 # Vladimir
-PROV804;Rostov;;;;;;;;;;;;;x
-PROV805;Yaroslavl;;;;;;;;;;;;;x
-PROV806;Uglich;;;;;;;;;;;;;x
-PROV807;Beloozero;;;;;;;;;;;;;x
-
-PROV808;Chud;;;;;;;;;;;;;x
-PROV809;Vologda;;;;;;;;;;;;;x
-PROV810;Kostroma;;;;;;;;;;;;;x
-
-PROV811;Gorodets;;;;;;;;;;;;;x
-PROV812;Nizhny Novgorod;;;;;;;;;;;;;x
-PROV813;Vladimir;;;;;;;;;;;;;x
-PROV814;Suzdal;;;;;;;;;;;;;x
-PROV815;Yuryev;;;;;;;;;;;;;x
-PROV816;Pereyaslavl Zalessky;;;;;;;;;;;;;x
-
-PROV817;Kashin;;;;;;;;;;;;;x
-PROV818;Rzheva;;;;;;;;;;;;;x
-PROV819;Tver;;;;;;;;;;;;;x
-PROV820;Zubtsov;;;;;;;;;;;;;x
-PROV821;Mozhaysk;;;;;;;;;;;;;x
-
-PROV822;Naro-Fominsk;;;;;;;;;;;;;x
-PROV823;Moskva;;;;;;;;;;;;;x
-
+PROV804;Rostov;;;;;;;;;;;Ðîñòîâ;;x
+PROV805;Yaroslavl;;;;;;;;;;;Òèìåðåâî;;x
+PROV806;Uglich;;;;;;;;;;;Óãëè÷;;x
+PROV807;Beloozero;;;;;;;;;;;Áåëî Îçåðî;;x
+PROV808;Chud;;;;;;;;;;;×óäü;;x
+PROV809;Vologda;;;;;;;;;;;Âîëîãäà;;x
+PROV810;Kostroma;;;;;;;;;;;Êîñòðîìà;;x
+PROV811;Gorodets;;;;;;;;;;;Ãîðîäåö;;x
+PROV812;Nizhny Novgorod;;;;;;;;;;;Íèæíèé Íîâãîðîä;;x
+PROV813;Vladimir;;;;;;;;;;;Âëàäèìèð;;x
+PROV814;Suzdal;;;;;;;;;;;Ñóçäàëü;;x
+PROV815;Yuryev;;;;;;;;;;;Þðüåâ-Ïîëüñêèé;;x
+PROV816;Pereyaslavl Zalessky;;;;;;;;;;;Ïåðåÿñëàâëü-Çàëåññêèé;;x
+PROV817;Kashin;;;;;;;;;;;Êàøèí;;x
+PROV818;Rzheva;;;;;;;;;;;Ðæåâà;;x
+PROV819;Tver;;;;;;;;;;;Òâåðü;;x
+PROV820;Zubtsov;;;;;;;;;;;Çóáöîâ;;x
+PROV821;Mozhaysk;;;;;;;;;;;Ìîæàéñê;;x
+PROV822;Naro-Fominsk;;;;;;;;;;;Ôîìèíñêîå;;x
+PROV823;Moskva;;;;;;;;;;;Ìîñêîâ;;x
 # Chernigov
-PROV824;Orekhovo-Zuyevo;;;;;;;;;;;;;x
-PROV825;Murom;;;;;;;;;;;;;x
-
-PROV826;Ryazan;;;;;;;;;;;;;x
-PROV827;Pronsk;;;;;;;;;;;;;x
-PROV828;Yelets;;;;;;;;;;;;;x
-PROV829;Tula;;;;;;;;;;;;;x
-
-PROV830;Serpukhov;;;;;;;;;;;;;x
-PROV831;Vorotynsk;;;;;;;;;;;;;x
-PROV832;Novosil;;;;;;;;;;;;;x
-
-PROV833;Kozelsk;;;;;;;;;;;;;x
-PROV834;Karachev;;;;;;;;;;;;;x
-
-PROV835;Bryansk;;;;;;;;;;;;;x
-PROV836;Kromy;;;;;;;;;;;;;x
-PROV837;Kursk;;;;;;;;;;;;;x
-PROV838;Rylsk;;;;;;;;;;;;;x
-
-PROV839;Novgorod Seversky;;;;;;;;;;;;;x
-PROV840;Starodub;;;;;;;;;;;;;x
-PROV841;Lyubech;;;;;;;;;;;;;x
-PROV842;Chernigov;;;;;;;;;;;;;x
-
+PROV824;Orekhovo-Zuyevo;;;;;;;;;;;Çóåâî;;x
+PROV825;Murom;;;;;;;;;;;Ìóðîì;;x
+PROV826;Ryazan;;;;;;;;;;;Ïåðåÿñëàâëü-Ðÿçàíñêèé;;x
+PROV827;Pronsk;;;;;;;;;;;Ïðîíñê;;x
+PROV828;Yelets;;;;;;;;;;;Åëåö;;x
+PROV829;Tula;;;;;;;;;;;Òóëà;;x
+PROV830;Serpukhov;;;;;;;;;;;Òàðóñà;;x
+PROV831;Vorotynsk;;;;;;;;;;;Âîðîòûíñê;;x
+PROV832;Novosil;;;;;;;;;;;Íîâîñèëü;;x
+PROV833;Kozelsk;;;;;;;;;;;Êîçåëüñê;;x
+PROV834;Karachev;;;;;;;;;;;Êîðà÷åâ;;x
+PROV835;Bryansk;;;;;;;;;;;Äåáðÿíñê;;x
+PROV836;Kromy;;;;;;;;;;;Êðîìû;;x
+PROV837;Kursk;;;;;;;;;;;Êóðñê;;x
+PROV838;Rylsk;;;;;;;;;;;Ðûëüñê;;x
+PROV839;Novgorod Seversky;;;;;;;;;;;Íîâãîðîä-Ñåâåðñêèé;;x
+PROV840;Starodub;;;;;;;;;;;Ñòàðîäóá;;x
+PROV841;Lyubech;;;;;;;;;;;Ëþáå÷;;x
+PROV842;Chernigov;;;;;;;;;;;×åðíèãîâ;;x
 # Ruthenia
-PROV843;Mstislavl;;;;;;;;;;;;;x
-PROV844;Roslavl;;;;;;;;;;;;;x
-PROV845;Vyazma;;;;;;;;;;;;;x
-PROV846;Smolensk;;;;;;;;;;;;;x
-PROV847;Toropets;;;;;;;;;;;;;x
-
-PROV848;Polotsk;;;;;;;;;;;;;x
-PROV849;Lukoml;;;;;;;;;;;;;x
-PROV850;Vitebsk;;;;;;;;;;;;;x
-PROV851;Orsha;;;;;;;;;;;;;x
-
-PROV852;Drutsk;;;;;;;;;;;;;x
-PROV853;Minsk;;;;;;;;;;;;;x
-PROV854;Novogrodek;;;;;;;;;;;;;x
-
-PROV855;Volkovysk;;;;;;;;;;;;;x
-PROV856;Pinsk;;;;;;;;;;;;;x
-PROV857;Turov;;;;;;;;;;;;;x
-PROV858;Slutsk;;;;;;;;;;;;;x
-
-PROV859;Pereyaslavl;;;;;;;;;;;;;x
-PROV860;Priluk;;;;;;;;;;;;;x
-PROV861;Hradyzk;;;;;;;;;;;;;x
-PROV862;Voin;;;;;;;;;;;;;x
-
-PROV863;Kiev;;;;;;;;;;;;;x
-PROV864;Korosten;;;;;;;;;;;;;x
-PROV865;Vozviahel;;;;;;;;;;;;;x
-PROV866;Medjybij;;;;;;;;;;;;;x
-
+PROV843;Mstislavl;;;;;;;;;;;Ìñòèñëàâëü;;x
+PROV844;Roslavl;;;;;;;;;;;Ðîñëàâëü;;x
+PROV845;Vyazma;;;;;;;;;;;Âÿçüìà;;x
+PROV846;Smolensk;;;;;;;;;;;Ñìîëåíñê;;x
+PROV847;Toropets;;;;;;;;;;;Òîðîïåö;;x
+PROV848;Polotsk;;;;;;;;;;;Ïîëîöê;;x
+PROV849;Lukoml;;;;;;;;;;;Ëóêîìëü;;x
+PROV850;Vitebsk;;;;;;;;;;;Âèòåáñê;;x
+PROV851;Orsha;;;;;;;;;;;Îðøà;;x
+PROV852;Drutsk;;;;;;;;;;;Äðóöê;;x
+PROV853;Minsk;;;;;;;;;;;Ìåíñê;;x
+PROV854;Novogrodek;;;;;;;;;;;Íîâîãðóäåê;;x
+PROV855;Volkovysk;;;;;;;;;;;Âîëêîâûñê;;x
+PROV856;Pinsk;;;;;;;;;;;Ïèíñê;;x
+PROV857;Turov;;;;;;;;;;;Òóðîâ;;x
+PROV858;Slutsk;;;;;;;;;;;Ñëóöê;;x
+PROV859;Pereyaslavl;;;;;;;;;;;Ïåðåÿñëàâëü;;x
+PROV860;Priluk;;;;;;;;;;;Ïðèëóê;;x
+PROV861;Hradyzk;;;;;;;;;;;Ãðàäèæñê;;x
+PROV862;Voin;;;;;;;;;;;Âîèíü;;x
+PROV863;Kiev;;;;;;;;;;;Êèåâ;;x
+PROV864;Korosten;;;;;;;;;;;Èñêîðîñòåíü;;x
+PROV865;Vozviahel;;;;;;;;;;;Âîçâÿãëü;;x
+PROV866;Medjybij;;;;;;;;;;;Ìåäæèáîæ;;x
 # Galicia-Volhynia
-PROV867;Ushytsia;;;;;;;;;;;;;x
-PROV868;Galich;;;;;;;;;;;;;x
-PROV869;Zvenyhorod;;;;;;;;;;;;;x
-PROV870;Terebovl;;;;;;;;;;;;;x
-PROV871;Zaslav;;;;;;;;;;;;;x
-
-PROV872;Lutsk;;;;;;;;;;;;;x
-PROV873;Vladimir Volynsky;;;;;;;;;;;;;x
-PROV874;Beresty;;;;;;;;;;;;;x
-PROV875;Podlasie;;;;;;;;;;;;;x
-
-PROV876;Cherven;;;;;;;;;;;;;x
-PROV877;Belz;;;;;;;;;;;;;x
-PROV878;Peremyshl;;;;;;;;;;;;;x
-
+PROV867;Ushytsia;;;;;;;;;;;Óøèöà;;x
+PROV868;Galich;;;;;;;;;;;Ãàëè÷;;x
+PROV869;Zvenyhorod;;;;;;;;;;;Çâåíèãîðîä;;x
+PROV870;Terebovl;;;;;;;;;;;Òåðåáîâëÿ;;x
+PROV871;Zaslav;;;;;;;;;;;Çàñëàâ;;x
+PROV872;Lutsk;;;;;;;;;;;Ëóöê;;x
+PROV873;Vladimir Volynsky;;;;;;;;;;;Âëàäèìèð-Âîëûíñêèé;;x
+PROV874;Beresty;;;;;;;;;;;Áåðåñòüå;;x
+PROV875;Podlasie;;;;;;;;;;;Ïîäëÿøüå;;x
+PROV876;Cherven;;;;;;;;;;;×åðâåí;;x
+PROV877;Belz;;;;;;;;;;;Áåëç;;x
+PROV878;Peremyshl;;;;;;;;;;;Ïåðåìûøëü;;x
 # Volga Bulgaria
-PROV879;Khlynov;;;;;;;;;;;;;x
-PROV880;Vetluga;;;;;;;;;;;;;x
-PROV881;Qazan;;;;;;;;;;;;;x
-PROV882;Kremenchuk;;;;;;;;;;;;;x
-PROV883;Alabuga;;;;;;;;;;;;;x
-
-PROV884;Naberezhnye;;;;;;;;;;;;;x
-PROV885;Bilyar;;;;;;;;;;;;;x
-PROV886;Bolghar;;;;;;;;;;;;;x
-PROV887;Ashli;;;;;;;;;;;;;x
-PROV888;Syrt;;;;;;;;;;;;;x
-
-PROV889;Burtasy;;;;;;;;;;;;;x
-PROV890;Khopyor;;;;;;;;;;;;;x
-PROV891;Mordva;;;;;;;;;;;;;x
-
-PROV892;Cheremisa;;;;;;;;;;;;;x
-PROV893;Chuvash;;;;;;;;;;;;;x
-PROV894;Kerzhenets;;;;;;;;;;;;;x
-
-PROV895;Mari;;;;;;;;;;;;;x
-PROV896;Galich Mersky;;;;;;;;;;;;;x
-PROV897;Hlynov;;;;;;;;;;;;;x
-
+PROV879;Khlynov;;;;;;;;;;;Âÿòêà;;x
+PROV880;Vetluga;;;;;;;;;;;Âåòëóãà;;x
+PROV881;Qazan;;;;;;;;;;;Êàçàí;;x
+PROV882;Kremenchuk;;;;;;;;;;;Êèðìåíü;;x
+PROV883;Alabuga;;;;;;;;;;;Àëàáóãà;;x
+PROV884;Naberezhnye;;;;;;;;;;;ßð ×àëëû;;x
+PROV885;Bilyar;;;;;;;;;;;Áèëÿð;;x
+PROV886;Bolghar;;;;;;;;;;;Áóëãàð;;x
+PROV887;Ashli;;;;;;;;;;;Àøëû;;x
+PROV888;Syrt;;;;;;;;;;;Ñûðò;;x
+PROV889;Burtasy;;;;;;;;;;;Áóðòàñû;;x
+PROV890;Khopyor;;;;;;;;;;;Õîï¸ð;;x
+PROV891;Mordva;;;;;;;;;;;Ìîðäâà;;x
+PROV892;Cheremisa;;;;;;;;;;;×åðåìèñà;;x
+PROV893;Chuvash;;;;;;;;;;;×óâàøè;;x
+PROV894;Kerzhenets;;;;;;;;;;;Êåðæåíåö;;x
+PROV895;Mari;;;;;;;;;;;Ìàðè;;x
+PROV896;Galich Mersky;;;;;;;;;;;Ãàëè÷-Ìåðüñêèé;;x
+PROV897;Hlynov;;;;;;;;;;;Âÿòêà;;x
 # Nenetsia
-PROV898;Romny;;;;;;;;;;;;;x
-PROV899;Kargopol;;;;;;;;;;;;;x
-PROV900;Onega;;;;;;;;;;;;;x
-
-PROV901;Onega Peninsula;;;;;;;;;;;;;x
-PROV902;Bjarmia;;;;;;;;;;;;;x
-PROV903;Kuloy;;;;;;;;;;;;;x
-PROV904;Dvina;;;;;;;;;;;;;x
-
-PROV905;Velsk;;;;;;;;;;;;;x
-PROV906;Syrj;;;;;;;;;;;;;x
-PROV907;Pinega;;;;;;;;;;;;;x
-PROV908;Vashka;;;;;;;;;;;;;x
-
-PROV909;Ugra;;;;;;;;;;;;;x
-PROV910;Snopa;;;;;;;;;;;;;x
-PROV911;Mezen;;;;;;;;;;;;;x
-PROV912;Kanin;;;;;;;;;;;;;x
-
-PROV913;Kolguyev;;;;;;;;;;;;;x
-PROV914;Zavarot;;;;;;;;;;;;;x
-PROV915;Soyma;;;;;;;;;;;;;x
-
-PROV916;Koshma;;;;;;;;;;;;;x
-PROV917;Tobysh;;;;;;;;;;;;;x
-PROV918;Tsilma;;;;;;;;;;;;;x
-
+PROV898;Romny;;;;;;;;;;;Òèõìàíüãà;;x
+PROV899;Kargopol;;;;;;;;;;;Êàðãîâî Ïîëå;;x
+PROV900;Onega;;;;;;;;;;;Îíåãà;;x
+PROV901;Onega Peninsula;;;;;;;;;;;Îíåæñêèé ïîëóîñòðîâ;;x
+PROV902;Bjarmia;;;;;;;;;;;Áüÿðìèÿ;;x
+PROV903;Kuloy;;;;;;;;;;;Êóëîé;;x
+PROV904;Dvina;;;;;;;;;;;Ñåâåðíàÿ Äâèíà;;x
+PROV905;Velsk;;;;;;;;;;;Âåëüñê;;x
+PROV906;Syrj;;;;;;;;;;;Ñûðü;;x
+PROV907;Pinega;;;;;;;;;;;Ïèíåãà;;x
+PROV908;Vashka;;;;;;;;;;;Âàøêà;;x
+PROV909;Ugra;;;;;;;;;;;Óõòà;;x
+PROV910;Snopa;;;;;;;;;;;Ñíîïà;;x
+PROV911;Mezen;;;;;;;;;;;Ìåçåíü;;x
+PROV912;Kanin;;;;;;;;;;;Êàíèí;;x
+PROV913;Kolguyev;;;;;;;;;;;Õîëãîâ;;x
+PROV914;Zavarot;;;;;;;;;;;Çàâàðîò;;x
+PROV915;Soyma;;;;;;;;;;;Èíäèãà;;x
+PROV916;Koshma;;;;;;;;;;;Êîøìà;;x
+PROV917;Tobysh;;;;;;;;;;;Òîáûø;;x
+PROV918;Tsilma;;;;;;;;;;;Öèëüìà;;x
 # Perm
-PROV919;Izhma;;;;;;;;;;;;;x
-PROV920;Lyzha;;;;;;;;;;;;;x
-PROV921;Kozhva;;;;;;;;;;;;;x
-PROV922;Vel;;;;;;;;;;;;;x
-PROV923;Severnaya;;;;;;;;;;;;;x
-
-PROV924;Vychegda;;;;;;;;;;;;;x
-PROV925;Sedyu;;;;;;;;;;;;;x
-PROV926;Vym;;;;;;;;;;;;;x
-
-PROV927;Syktyvkar;;;;;;;;;;;;;x
-PROV928;Viled;;;;;;;;;;;;;x
-PROV929;Veliky Ustug;;;;;;;;;;;;;x
-PROV930;Illyinsk;;;;;;;;;;;;;x
-
-PROV931;Votyaki;;;;;;;;;;;;;x
-PROV932;Keltma;;;;;;;;;;;;;x
-
-PROV933;Pil'va;;;;;;;;;;;;;x
-PROV934;Kolva;;;;;;;;;;;;;x
-PROV935;Perm;;;;;;;;;;;;;x
-PROV936;Kudymkar;;;;;;;;;;;;;x
-PROV937;Udmurts;;;;;;;;;;;;;x
-PROV938;Tynea;;;;;;;;;;;;;x
-
-PROV939;Bashkiria;;;;;;;;;;;;;x
-PROV940;Belaya;;;;;;;;;;;;;x
-
-PROV941;Thisageta;;;;;;;;;;;;;x
-PROV942;Ural;;;;;;;;;;;;;x
-PROV943;Vishera;;;;;;;;;;;;;x
-
+PROV919;Izhma;;;;;;;;;;;Èæìà;;x
+PROV920;Lyzha;;;;;;;;;;;Ëûæà;;x
+PROV921;Kozhva;;;;;;;;;;;Êîæâà;;x
+PROV922;Vel;;;;;;;;;;;Âåëü;;x
+PROV923;Severnaya;;;;;;;;;;;Óñòü-Èëû÷;;x
+PROV924;Vychegda;;;;;;;;;;;Âû÷åãäà;;x
+PROV925;Sedyu;;;;;;;;;;;Ñåäþ;;x
+PROV926;Vym;;;;;;;;;;;Âûìü;;x
+PROV927;Syktyvkar;;;;;;;;;;;Ñûêòûë;;x
+PROV928;Viled;;;;;;;;;;;Âèëåäü;;x
+PROV929;Veliky Ustug;;;;;;;;;;;Ãëåäåí;;x
+PROV930;Illyinsk;;;;;;;;;;;Êóíãóð;;x
+PROV931;Votyaki;;;;;;;;;;;Âîòÿêè;;x
+PROV932;Keltma;;;;;;;;;;;Êåëüòìà;;x
+PROV933;Pil'va;;;;;;;;;;;Ïèëüâà;;x
+PROV934;Kolva;;;;;;;;;;;Êîëâà;;x
+PROV935;Perm;;;;;;;;;;;Ïåðìü;;x
+PROV936;Kudymkar;;;;;;;;;;;Êóäûìêàð;;x
+PROV937;Udmurts;;;;;;;;;;;Óäìóðòû;;x
+PROV938;Tynea;;;;;;;;;;;Òûíåÿ;;x
+PROV939;Bashkiria;;;;;;;;;;;Áàøêèðèÿ;;x
+PROV940;Belaya;;;;;;;;;;;Áåëàÿ;;x
+PROV941;Thisageta;;;;;;;;;;;Ôèñàãåòà;;x
+PROV942;Ural;;;;;;;;;;;Óðàë;;x
+PROV943;Vishera;;;;;;;;;;;Âèøåðà;;x
 # Sibir
-PROV944;Khantia;;;;;;;;;;;;;x
-PROV945;Mansia;;;;;;;;;;;;;x
-PROV946;Yamalia;;;;;;;;;;;;;x
-
-PROV947;Tavda;;;;;;;;;;;;;x
-PROV948;Miass;;;;;;;;;;;;;x
-PROV949;Chimgi-Tura;;;;;;;;;;;;;x
-PROV950;Tobol;;;;;;;;;;;;;x
-
-PROV951;Sibir;;;;;;;;;;;;;x
-PROV952;Vagay;;;;;;;;;;;;;x
-PROV953;Osha;;;;;;;;;;;;;x
-PROV954;Tura;;;;;;;;;;;;;x
-
-PROV955;Shish;;;;;;;;;;;;;x
-PROV956;Tui;;;;;;;;;;;;;x
-PROV957;Bolshoy Yugan;;;;;;;;;;;;;x
-PROV958;Vasyugan;;;;;;;;;;;;;x
-
-PROV959;Narim;;;;;;;;;;;;;x
-PROV960;Tara;;;;;;;;;;;;;x
-PROV961;Om;;;;;;;;;;;;;x
-
+PROV944;Khantia;;;;;;;;;;;Õàíòèÿ;;x
+PROV945;Mansia;;;;;;;;;;;Ìàíñè;;x
+PROV946;Yamalia;;;;;;;;;;;Þãðà;;x
+PROV947;Tavda;;;;;;;;;;;Òàâäà;;x
+PROV948;Miass;;;;;;;;;;;Ìèàññ;;x
+PROV949;Chimgi-Tura;;;;;;;;;;;×èíãè-Òóðà;;x
+PROV950;Tobol;;;;;;;;;;;Òóáûë;;x
+PROV951;Sibir;;;;;;;;;;;Ñèáèðü;;x
+PROV952;Vagay;;;;;;;;;;;Âàãàé;;x
+PROV953;Osha;;;;;;;;;;;Îøà;;x
+PROV954;Tura;;;;;;;;;;;Òóðà;;x
+PROV955;Shish;;;;;;;;;;;Øèø;;x
+PROV956;Tui;;;;;;;;;;;Òóé;;x
+PROV957;Bolshoy Yugan;;;;;;;;;;;Áîëüøîé Þãàí;;x
+PROV958;Vasyugan;;;;;;;;;;;Âàñþãàí;;x
+PROV959;Narim;;;;;;;;;;;Íàðûì;;x
+PROV960;Tara;;;;;;;;;;;Òàðà;;x
+PROV961;Om;;;;;;;;;;;Îì;;x
 # Cumania
-PROV962;Buqtirma;;;;;;;;;;;;;x
-PROV963;Anuy;;;;;;;;;;;;;x
-PROV964;Ob;;;;;;;;;;;;;x
-PROV965;Katun;;;;;;;;;;;;;x
-PROV966;Zaysan;;;;;;;;;;;;;x
-
-PROV967;Irtysh;;;;;;;;;;;;;x
-PROV968;Karasor;;;;;;;;;;;;;x
-
-PROV969;Seletyteniz;;;;;;;;;;;;;x
-PROV970;Ishim;;;;;;;;;;;;;x
-PROV971;Tengiz;;;;;;;;;;;;;x
-
-PROV972;Ubagan;;;;;;;;;;;;;x
-PROV973;Kartaly-Ayat;;;;;;;;;;;;;x
-
-PROV974;Magnitaya;;;;;;;;;;;;;x
-PROV975;Yaik;;;;;;;;;;;;;x
-PROV976;Or;;;;;;;;;;;;;x
-
-PROV977;Boqtybay;;;;;;;;;;;;;x
-PROV978;Irgiz;;;;;;;;;;;;;x
-PROV979;Turgay;;;;;;;;;;;;;x
-
-PROV980;Kazakh;;;;;;;;;;;;;x
-PROV981;Sarysu;;;;;;;;;;;;;x
-PROV982;Betpaqdala;;;;;;;;;;;;;x
-PROV983;Qarazhyrya;;;;;;;;;;;;;x
-PROV984;Balkhash;;;;;;;;;;;;;x
-
-PROV985;Ayakoz;;;;;;;;;;;;;x
-PROV986;Tarbagatai;;;;;;;;;;;;;x
-PROV987;Aylik;;;;;;;;;;;;;x
-PROV988;Saur;;;;;;;;;;;;;x
-
+PROV962;Buqtirma;;;;;;;;;;;Áóõòàðìà;;x
+PROV963;Anuy;;;;;;;;;;;Àíóé;;x
+PROV964;Ob;;;;;;;;;;;Îáü;;x
+PROV965;Katun;;;;;;;;;;;Êàòóí;;x
+PROV966;Zaysan;;;;;;;;;;;Äæåìåíåéêà;;x
+PROV967;Irtysh;;;;;;;;;;;Èðòûø;;x
+PROV968;Karasor;;;;;;;;;;;Êàðàñîð;;x
+PROV969;Seletyteniz;;;;;;;;;;;Ñèëåòûòåíèç;;x
+PROV970;Ishim;;;;;;;;;;;Èøèì;;x
+PROV971;Tengiz;;;;;;;;;;;Òåíãèç;;x
+PROV972;Ubagan;;;;;;;;;;;Óáàãàí;;x
+PROV973;Kartaly-Ayat;;;;;;;;;;;Êàðòàëû-Àÿò;;x
+PROV974;Magnitaya;;;;;;;;;;;Òèðìåí;;x
+PROV975;Yaik;;;;;;;;;;;ßèê;;x
+PROV976;Or;;;;;;;;;;;Îð;;x
+PROV977;Boqtybay;;;;;;;;;;;Áîêòûáàé;;x
+PROV978;Irgiz;;;;;;;;;;;Èðãèç;;x
+PROV979;Turgay;;;;;;;;;;;Òóðãàé;;x
+PROV980;Kazakh;;;;;;;;;;;Êàçàõè;;x
+PROV981;Sarysu;;;;;;;;;;;Ñàðûñó;;x
+PROV982;Betpaqdala;;;;;;;;;;;Áåòïàêäàëà;;x
+PROV983;Qarazhyrya;;;;;;;;;;;Êàðàæèðüÿ;;x
+PROV984;Balkhash;;;;;;;;;;;Áàëõàø;;x
+PROV985;Ayakoz;;;;;;;;;;;Àÿãîç;;x
+PROV986;Tarbagatai;;;;;;;;;;;Òàðáàãàòàé;;x
+PROV987;Aylik;;;;;;;;;;;Àéëèê;;x
+PROV988;Saur;;;;;;;;;;;Ñàóð;;x
 # Mongolia
-PROV989;Ulungur;;;;;;;;;;;;;x
-PROV990;Beshbaliq;;;;;;;;;;;;;x
-PROV991;Dünkheger;;;;;;;;;;;;;x
-
-PROV992;Mönkh Khairkhan;;;;;;;;;;;;;x
-PROV993;Khüiten;;;;;;;;;;;;;x
-PROV994;Markakol;;;;;;;;;;;;;x
-PROV995;Belukha;;;;;;;;;;;;;x
-PROV996;Western Sayan;;;;;;;;;;;;;x
-
-PROV997;Ket;;;;;;;;;;;;;x
-PROV998;Tom;;;;;;;;;;;;;x
-PROV999;Kuznetsk;;;;;;;;;;;;;x
-PROV1000;Abakan;;;;;;;;;;;;;x
-
-PROV1001;Yenisei;;;;;;;;;;;;;x
-PROV1002;Eastern Sayan;;;;;;;;;;;;;x
-PROV1003;Khövsgöl;;;;;;;;;;;;;x
-PROV1004;Egiin;;;;;;;;;;;;;x
-PROV1005;Ötüken;;;;;;;;;;;;;x
-
-PROV1006;Selenge;;;;;;;;;;;;;x
-PROV1007;Baygal;;;;;;;;;;;;;x
-PROV1008;Uda;;;;;;;;;;;;;x
-PROV1009;Khilok;;;;;;;;;;;;;x
-PROV1010;Chikoi;;;;;;;;;;;;;x
-
-PROV1011;Tuul;;;;;;;;;;;;;x
-PROV1012;Orkhon;;;;;;;;;;;;;x
-PROV1013;Kara Khorum;;;;;;;;;;;;;x
-
-PROV1014;Suvraga Khairkhan;;;;;;;;;;;;;x
-PROV1015;Khangai;;;;;;;;;;;;;x
-PROV1016;Terkhiin Tsagaan;;;;;;;;;;;;;x
-PROV1017;Otgontenger;;;;;;;;;;;;;x
-PROV1018;Tarvagatai;;;;;;;;;;;;;x
-
-PROV1019;Uvs;;;;;;;;;;;;;x
-PROV1020;Tannu Ola;;;;;;;;;;;;;x
-PROV1021;Kharkiraa;;;;;;;;;;;;;x
-PROV1022;Tsambagarav;;;;;;;;;;;;;x
-PROV1023;Khyargas;;;;;;;;;;;;;x
-
-PROV1024;Zavkhan;;;;;;;;;;;;;x
-PROV1025;Khökh Serkh;;;;;;;;;;;;;x
-PROV1026;Sutai;;;;;;;;;;;;;x
-PROV1027;Khasagt Khairkhan;;;;;;;;;;;;;x
-
-PROV1028;Burkhan Buudai;;;;;;;;;;;;;x
-PROV1029;Ikh Bogd;;;;;;;;;;;;;x
-PROV1030;Delgerkhangai;;;;;;;;;;;;;x
-PROV1031;Gurvan Saikhan;;;;;;;;;;;;;x
-
-PROV1032;Ejin;;;;;;;;;;;;;x
-PROV1033;Juyan;;;;;;;;;;;;;x
-
-PROV1034;Aj Bogd;;;;;;;;;;;;;x
-PROV1035;Barkul;;;;;;;;;;;;;x
-
+PROV989;Ulungur;;;;;;;;;;;Óëóíãóð;;x
+PROV990;Beshbaliq;;;;;;;;;;;Áåøáàëûê;;x
+PROV991;Dünkheger;;;;;;;;;;;Äóíõýãýð;;x
+PROV992;Mönkh Khairkhan;;;;;;;;;;;Ìóíê Õàðõàéõàí;;x
+PROV993;Khüiten;;;;;;;;;;;Õûéòóí;;x
+PROV994;Markakol;;;;;;;;;;;Ìàðêàêîëü;;x
+PROV995;Belukha;;;;;;;;;;;Áåëóõà;;x
+PROV996;Western Sayan;;;;;;;;;;;Çàïàäíûå Ñàÿíû;;x
+PROV997;Ket;;;;;;;;;;;Êåò;;x
+PROV998;Tom;;;;;;;;;;;Òîì;;x
+PROV999;Kuznetsk;;;;;;;;;;;Ìàðû;;x
+PROV1000;Abakan;;;;;;;;;;;Àáàêàí;;x
+PROV1001;Yenisei;;;;;;;;;;;Åíèñåé;;x
+PROV1002;Eastern Sayan;;;;;;;;;;;Âîñòî÷íûå Ñàÿíû;;x
+PROV1003;Khövsgöl;;;;;;;;;;;Õóâñãåë;;x
+PROV1004;Egiin;;;;;;;;;;;Ýãèéí;;x
+PROV1005;Ötüken;;;;;;;;;;;Îòþêåí;;x
+PROV1006;Selenge;;;;;;;;;;;Ñåëåíãà;;x
+PROV1007;Baygal;;;;;;;;;;;Áàéãàë;;x
+PROV1008;Uda;;;;;;;;;;;Óäà;;x
+PROV1009;Khilok;;;;;;;;;;;Õèëîê;;x
+PROV1010;Chikoi;;;;;;;;;;;×èêîé;;x
+PROV1011;Tuul;;;;;;;;;;;Òóóë;;x
+PROV1012;Orkhon;;;;;;;;;;;Îðõîí;;x
+PROV1013;Kara Khorum;;;;;;;;;;;Êàðàêîðóì;;x
+PROV1014;Suvraga Khairkhan;;;;;;;;;;;Ñóâðàãà Õàéðõàí;;x
+PROV1015;Khangai;;;;;;;;;;;Õàíãàé;;x
+PROV1016;Terkhiin Tsagaan;;;;;;;;;;;Òýðõèéí-Öàãààí;;x
+PROV1017;Otgontenger;;;;;;;;;;;Îòãîí-Òýíãýð;;x
+PROV1018;Tarvagatai;;;;;;;;;;;Òàðáàãàòàé;;x
+PROV1019;Uvs;;;;;;;;;;;Óâñ;;x
+PROV1020;Tannu Ola;;;;;;;;;;;Òàííó-Îëà;;x
+PROV1021;Kharkiraa;;;;;;;;;;;Õàðõèðàà;;x
+PROV1022;Tsambagarav;;;;;;;;;;;Öàìáàãàðàâ;;x
+PROV1023;Khyargas;;;;;;;;;;;Õÿðãàñ;;x
+PROV1024;Zavkhan;;;;;;;;;;;Çàâõàí;;x
+PROV1025;Khökh Serkh;;;;;;;;;;;Õîõ Ñåðõ;;x
+PROV1026;Sutai;;;;;;;;;;;Ñóòàé;;x
+PROV1027;Khasagt Khairkhan;;;;;;;;;;;Õàñàãò Õàéðõàí;;x
+PROV1028;Burkhan Buudai;;;;;;;;;;;Áóðõàí Áóóäàé;;x
+PROV1029;Ikh Bogd;;;;;;;;;;;Òýðãóí-Áîãä;;x
+PROV1030;Delgerkhangai;;;;;;;;;;;Äýëãýðõàíãàé;;x
+PROV1031;Gurvan Saikhan;;;;;;;;;;;Ãóðâàí-Ñàéõàí;;x
+PROV1032;Ejin;;;;;;;;;;;Ýäçèí;;x
+PROV1033;Juyan;;;;;;;;;;;Äæóÿí;;x
+PROV1034;Aj Bogd;;;;;;;;;;;Àäæ-Áîãä;;x
+PROV1035;Barkul;;;;;;;;;;;Áàðêóë;;x
 # Khotan
-PROV1036;Kumul;;;;;;;;;;;;;x
-PROV1037;Kumtag;;;;;;;;;;;;;x
-PROV1038;Lop Nor;;;;;;;;;;;;;x
-PROV1039;Loulan;;;;;;;;;;;;;x
-PROV1040;Yüni;;;;;;;;;;;;;x
-PROV1041;Charkliq;;;;;;;;;;;;;x
-
-PROV1042;Cherchen;;;;;;;;;;;;;x
-PROV1043;Cadota;;;;;;;;;;;;;x
-PROV1044;Keriya;;;;;;;;;;;;;x
-PROV1045;Khotan;;;;;;;;;;;;;x
-PROV1046;Karghalik;;;;;;;;;;;;;x
-PROV1047;Yarkand;;;;;;;;;;;;;x
-
-PROV1048;Artux;;;;;;;;;;;;;x
-PROV1049;Yopurga;;;;;;;;;;;;;x
-PROV1050;Kashgar;;;;;;;;;;;;;x
-PROV1051;Uchturpan;;;;;;;;;;;;;x
-PROV1052;Aksu;;;;;;;;;;;;;x
-
-PROV1053;Kubera;;;;;;;;;;;;;x
-PROV1054;Kucha;;;;;;;;;;;;;x
-PROV1055;Karashar;;;;;;;;;;;;;x
-PROV1056;Mingoi;;;;;;;;;;;;;x
-PROV1057;Kara Khoja;;;;;;;;;;;;;x
-PROV1058;Luntai;;;;;;;;;;;;;x
-
+PROV1036;Kumul;;;;;;;;;;;Êóìóë;;x
+PROV1037;Kumtag;;;;;;;;;;;Êóìòàã;;x
+PROV1038;Lop Nor;;;;;;;;;;;Ëîáíîð;;x
+PROV1039;Loulan;;;;;;;;;;;Ëîóëàíü;;x
+PROV1040;Yüni;;;;;;;;;;;Þíè;;x
+PROV1041;Charkliq;;;;;;;;;;;×àðêëûê;;x
+PROV1042;Cherchen;;;;;;;;;;;×åð÷åí;;x
+PROV1043;Cadota;;;;;;;;;;;Êàäîòà;;x
+PROV1044;Keriya;;;;;;;;;;;Êåðèÿ;;x
+PROV1045;Khotan;;;;;;;;;;;Õîòàí;;x
+PROV1046;Karghalik;;;;;;;;;;;Êàðãàëûê;;x
+PROV1047;Yarkand;;;;;;;;;;;ßðêåíä;;x
+PROV1048;Artux;;;;;;;;;;;Àðòóø;;x
+PROV1049;Yopurga;;;;;;;;;;;Þïóðãà;;x
+PROV1050;Kashgar;;;;;;;;;;;Êàøãàð;;x
+PROV1051;Uchturpan;;;;;;;;;;;Ó÷òóðôàí;;x
+PROV1052;Aksu;;;;;;;;;;;Àêñó;;x
+PROV1053;Kubera;;;;;;;;;;;Êóáåðà;;x
+PROV1054;Kucha;;;;;;;;;;;Êó÷à;;x
+PROV1055;Karashar;;;;;;;;;;;Êàðàøàð;;x
+PROV1056;Mingoi;;;;;;;;;;;Ìèíüãîé;;x
+PROV1057;Kara Khoja;;;;;;;;;;;Êàðà-Õîäæà;;x
+PROV1058;Luntai;;;;;;;;;;;Ëóíüòàé;;x
 # Zhetysu
-PROV1059;Almaliq;;;;;;;;;;;;;x
-PROV1060;Ili;;;;;;;;;;;;;x
-PROV1061;Qayaliq;;;;;;;;;;;;;x
-
-PROV1062;Karatal;;;;;;;;;;;;;x
-PROV1063;Almaty;;;;;;;;;;;;;x
-PROV1064;Karluk;;;;;;;;;;;;;x
-
-PROV1065;Balasagun;;;;;;;;;;;;;x
-PROV1066;Barskhan;;;;;;;;;;;;;x
-PROV1067;Talas;;;;;;;;;;;;;x
-
+PROV1059;Almaliq;;;;;;;;;;;Àëìàëûê;;x
+PROV1060;Ili;;;;;;;;;;;Èëè;;x
+PROV1061;Qayaliq;;;;;;;;;;;Êàÿëûê;;x
+PROV1062;Karatal;;;;;;;;;;;Êàðàòàë;;x
+PROV1063;Almaty;;;;;;;;;;;Àëìàòû;;x
+PROV1064;Karluk;;;;;;;;;;;Êàðëóêè;;x
+PROV1065;Balasagun;;;;;;;;;;;Áàëàñàãóí;;x
+PROV1066;Barskhan;;;;;;;;;;;Áàðñêàóí;;x
+PROV1067;Talas;;;;;;;;;;;Òàëàñ;;x
 # Oghuz
-PROV1068;Chach;;;;;;;;;;;;;x
-PROV1069;Otrar;;;;;;;;;;;;;x
-PROV1070;Syganak;;;;;;;;;;;;;x
-PROV1071;Yangikent;;;;;;;;;;;;;x
-
-PROV1072;Aral;;;;;;;;;;;;;x
-PROV1073;Kutan Bulak;;;;;;;;;;;;;x
-
-PROV1074;Emba;;;;;;;;;;;;;x
-PROV1075;Kangly;;;;;;;;;;;;;x
-
-PROV1076;Buzachi;;;;;;;;;;;;;x
-PROV1077;Mangyshlak;;;;;;;;;;;;;x
-PROV1078;Kara Bogaz;;;;;;;;;;;;;x
-PROV1079;Usturt;;;;;;;;;;;;;x
-PROV1080;Kusbulak;;;;;;;;;;;;;x
-
+PROV1068;Chach;;;;;;;;;;;×à÷;;x
+PROV1069;Otrar;;;;;;;;;;;Îòðàð;;x
+PROV1070;Syganak;;;;;;;;;;;Ñûãàíàê;;x
+PROV1071;Yangikent;;;;;;;;;;;ßíãèêåíò;;x
+PROV1072;Aral;;;;;;;;;;;Àðàë;;x
+PROV1073;Kutan Bulak;;;;;;;;;;;Êóòàí Áóëàê;;x
+PROV1074;Emba;;;;;;;;;;;Ýìáñêàÿ ñòåïü;;x
+PROV1075;Kangly;;;;;;;;;;;Êàíãëû;;x
+PROV1076;Buzachi;;;;;;;;;;;Áóçà÷è;;x
+PROV1077;Mangyshlak;;;;;;;;;;;Ìàíãûøëàê;;x
+PROV1078;Kara Bogaz;;;;;;;;;;;Êàðà-Áîãàç;;x
+PROV1079;Usturt;;;;;;;;;;;Óñòþðò;;x
+PROV1080;Kusbulak;;;;;;;;;;;Êóñáóëàê;;x
 # Transoxiana
-PROV1081;Madminiya;;;;;;;;;;;;;x
-PROV1082;Urgench;;;;;;;;;;;;;x
-PROV1083;Khiva;;;;;;;;;;;;;x
-PROV1084;Dashhowuz;;;;;;;;;;;;;x
-
-PROV1085;Oshrusana;;;;;;;;;;;;;x
-PROV1086;Samarkand;;;;;;;;;;;;;x
-PROV1087;Bukhara;;;;;;;;;;;;;x
-PROV1088;Nakhshab;;;;;;;;;;;;;x
-
-PROV1089;Chaghaniyan;;;;;;;;;;;;;x
-PROV1090;Khuttal;;;;;;;;;;;;;x
-PROV1091;Badakhshan;;;;;;;;;;;;;x
-PROV1092;Vakhan;;;;;;;;;;;;;x
-
-PROV1093;Khojand;;;;;;;;;;;;;x
-PROV1094;Khaylam;;;;;;;;;;;;;x
-PROV1095;Fergana;;;;;;;;;;;;;x
-
+PROV1081;Madminiya;;;;;;;;;;;Ìàäìèíèÿ;;x
+PROV1082;Urgench;;;;;;;;;;;Óðãåí÷;;x
+PROV1083;Khiva;;;;;;;;;;;Õèâà;;x
+PROV1084;Dashhowuz;;;;;;;;;;;Äàøîãóç;;x
+PROV1085;Oshrusana;;;;;;;;;;;Óñòðóøàíà;;x
+PROV1086;Samarkand;;;;;;;;;;;Ñàìàðêàíä;;x
+PROV1087;Bukhara;;;;;;;;;;;Áóõàðà;;x
+PROV1088;Nakhshab;;;;;;;;;;;Íàõøàá;;x
+PROV1089;Chaghaniyan;;;;;;;;;;;×àãõàíèÿí;;x
+PROV1090;Khuttal;;;;;;;;;;;Êõóòòàë;;x
+PROV1091;Badakhshan;;;;;;;;;;;Áàäàõøàí;;x
+PROV1092;Vakhan;;;;;;;;;;;Âàõàí;;x
+PROV1093;Khojand;;;;;;;;;;;Õóäæàíä;;x
+PROV1094;Khaylam;;;;;;;;;;;Õàéëàì;;x
+PROV1095;Fergana;;;;;;;;;;;Ôåðãàíà;;x
 # Kashmir
-PROV1096;Pamir;;;;;;;;;;;;;x
-PROV1097;Tashkurgan;;;;;;;;;;;;;x
-
-PROV1098;Gilgit;;;;;;;;;;;;;x
-PROV1099;Skardu;;;;;;;;;;;;;x
-PROV1100;Kasmira;;;;;;;;;;;;;x
-
-PROV1101;Kangra;;;;;;;;;;;;;x
-PROV1102;Garhwal;;;;;;;;;;;;;x
-PROV1103;Kurmanchal;;;;;;;;;;;;;x
-
+PROV1096;Pamir;;;;;;;;;;;Ïàìèð;;x
+PROV1097;Tashkurgan;;;;;;;;;;;Òàøêóðãàí;;x
+PROV1098;Gilgit;;;;;;;;;;;Ãèëãèò;;x
+PROV1099;Skardu;;;;;;;;;;;Ñêàðäó;;x
+PROV1100;Kasmira;;;;;;;;;;;Êàøìèð;;x
+PROV1101;Kangra;;;;;;;;;;;Êàíãðà;;x
+PROV1102;Garhwal;;;;;;;;;;;Ãàðõâàë;;x
+PROV1103;Kurmanchal;;;;;;;;;;;Êóðìàí÷àë;;x
 # Nepal
-PROV1104;Doti;;;;;;;;;;;;;x
-PROV1105;Jumla;;;;;;;;;;;;;x
-PROV1106;Mustang;;;;;;;;;;;;;x
-PROV1107;Lumbini;;;;;;;;;;;;;x
-PROV1108;Pokhara;;;;;;;;;;;;;x
-
-PROV1109;Janakpur;;;;;;;;;;;;;x
-PROV1110;Kathmandu;;;;;;;;;;;;;x
-PROV1111;Limbuwan;;;;;;;;;;;;;x
-
+PROV1104;Doti;;;;;;;;;;;Äîòè;;x
+PROV1105;Jumla;;;;;;;;;;;Äæóìëà;;x
+PROV1106;Mustang;;;;;;;;;;;Ìóñòàíã;;x
+PROV1107;Lumbini;;;;;;;;;;;Ëóìáèíè;;x
+PROV1108;Pokhara;;;;;;;;;;;Ïîêõàðà;;x
+PROV1109;Janakpur;;;;;;;;;;;Äæàíàêïóð;;x
+PROV1110;Kathmandu;;;;;;;;;;;Êàòìàíäó;;x
+PROV1111;Limbuwan;;;;;;;;;;;Ëèìáóâàí;;x
 # Guge
-PROV1112;Zhongba;;;;;;;;;;;;;x
-PROV1113;Purang;;;;;;;;;;;;;x
-PROV1114;Gegyai;;;;;;;;;;;;;x
-PROV1115;Kyunglung;;;;;;;;;;;;;x
-PROV1116;Tsaparang;;;;;;;;;;;;;x
-
-PROV1117;Leh;;;;;;;;;;;;;x
-PROV1118;Diskit;;;;;;;;;;;;;x
-PROV1119;Pangong;;;;;;;;;;;;;x
-
-PROV1120;Gar;;;;;;;;;;;;;x
-PROV1121;Rutog;;;;;;;;;;;;;x
-PROV1122;Kunlun;;;;;;;;;;;;;x
-PROV1123;Tsakha;;;;;;;;;;;;;x
-PROV1124;Gerze;;;;;;;;;;;;;x
-PROV1125;Coqen;;;;;;;;;;;;;x
-
+PROV1112;Zhongba;;;;;;;;;;;Äæîíãáà;;x
+PROV1113;Purang;;;;;;;;;;;Áóðàíã;;x
+PROV1114;Gegyai;;;;;;;;;;;Ãåãüÿé;;x
+PROV1115;Kyunglung;;;;;;;;;;;Êõþíãëóíã;;x
+PROV1116;Tsaparang;;;;;;;;;;;Öàïàðàíã;;x
+PROV1117;Leh;;;;;;;;;;;Ëåõ;;x
+PROV1118;Diskit;;;;;;;;;;;Äèñêèò;;x
+PROV1119;Pangong;;;;;;;;;;;Áàíãîíã;;x
+PROV1120;Gar;;;;;;;;;;;Ãàð;;x
+PROV1121;Rutog;;;;;;;;;;;Ðóòîã;;x
+PROV1122;Kunlun;;;;;;;;;;;Êóíüëóíü;;x
+PROV1123;Tsakha;;;;;;;;;;;Öàêõà;;x
+PROV1124;Gerze;;;;;;;;;;;Ãåðäçå;;x
+PROV1125;Coqen;;;;;;;;;;;Öî÷åí;;x
 # Yarlung
-PROV1126;Gyesar;;;;;;;;;;;;;x
-PROV1127;Mangyul;;;;;;;;;;;;;x
-PROV1128;Sakya;;;;;;;;;;;;;x
-PROV1129;Lhatse;;;;;;;;;;;;;x
-PROV1130;Shigatse;;;;;;;;;;;;;x
-PROV1131;Gyantse;;;;;;;;;;;;;x
-
-PROV1132;Paro;;;;;;;;;;;;;x
-PROV1133;Bumthang;;;;;;;;;;;;;x
-
-PROV1134;Taktse;;;;;;;;;;;;;x
-PROV1135;Lhunze;;;;;;;;;;;;;x
-PROV1136;Nedong;;;;;;;;;;;;;x
-
-PROV1137;Lhasa;;;;;;;;;;;;;x
-PROV1138;Kunggar;;;;;;;;;;;;;x
-PROV1139;Lhunzhub;;;;;;;;;;;;;x
-
-PROV1140;Nagchu;;;;;;;;;;;;;x
-PROV1141;Xainza;;;;;;;;;;;;;x
-PROV1142;Nyima;;;;;;;;;;;;;x
-
-PROV1143;Amdo;;;;;;;;;;;;;x
-PROV1144;Samtho;;;;;;;;;;;;;x
-PROV1145;Qangtang;;;;;;;;;;;;;x
-PROV1146;Arjin;;;;;;;;;;;;;x
-
+PROV1126;Gyesar;;;;;;;;;;;Ãüåçàð;;x
+PROV1127;Mangyul;;;;;;;;;;;Ìàíãþë;;x
+PROV1128;Sakya;;;;;;;;;;;Ñàêüÿ;;x
+PROV1129;Lhatse;;;;;;;;;;;Ëõàöý;;x
+PROV1130;Shigatse;;;;;;;;;;;Øèãàäçå;;x
+PROV1131;Gyantse;;;;;;;;;;;Ãüÿíãäçå;;x
+PROV1132;Paro;;;;;;;;;;;Ïàðî;;x
+PROV1133;Bumthang;;;;;;;;;;;Áóìòàíã;;x
+PROV1134;Taktse;;;;;;;;;;;Äàãäçå;;x
+PROV1135;Lhunze;;;;;;;;;;;Ëõóíçå;;x
+PROV1136;Nedong;;;;;;;;;;;Íåäîíã;;x
+PROV1137;Lhasa;;;;;;;;;;;Ëõàñà;;x
+PROV1138;Kunggar;;;;;;;;;;;Êóíããàð;;x
+PROV1139;Lhunzhub;;;;;;;;;;;Ëõóíæóá;;x
+PROV1140;Nagchu;;;;;;;;;;;Íàã÷ó;;x
+PROV1141;Xainza;;;;;;;;;;;Øýíäçà;;x
+PROV1142;Nyima;;;;;;;;;;;Íüèìà;;x
+PROV1143;Amdo;;;;;;;;;;;Àìäî;;x
+PROV1144;Samtho;;;;;;;;;;;Ñýìòõî;;x
+PROV1145;Qangtang;;;;;;;;;;;×àíòàíã;;x
+PROV1146;Arjin;;;;;;;;;;;Àðöçèíü;;x
 # Xixia
-PROV1147;Tanggula;;;;;;;;;;;;;x
-PROV1148;Nagormo;;;;;;;;;;;;;x
-PROV1149;Lenghu;;;;;;;;;;;;;x
-PROV1150;Qaidam;;;;;;;;;;;;;x
-
-PROV1151;Yumen;;;;;;;;;;;;;x
-PROV1152;Yangguan;;;;;;;;;;;;;x
-PROV1153;Dunhuang;;;;;;;;;;;;;x
-PROV1154;Anxi;;;;;;;;;;;;;x
-PROV1155;Jiuquan;;;;;;;;;;;;;x
-
-PROV1156;Delingha;;;;;;;;;;;;;x
-PROV1157;Fuqi;;;;;;;;;;;;;x
-PROV1158;Dulan;;;;;;;;;;;;;x
-
-PROV1159;Lingtsang;;;;;;;;;;;;;x
-PROV1160;Nangqen;;;;;;;;;;;;;x
-PROV1161;Zadoi;;;;;;;;;;;;;x
-
+PROV1147;Tanggula;;;;;;;;;;;Òàíãëà;;x
+PROV1148;Nagormo;;;;;;;;;;;Íàãîðìî;;x
+PROV1149;Lenghu;;;;;;;;;;;Ëýíõó;;x
+PROV1150;Qaidam;;;;;;;;;;;Öàéäàì;;x
+PROV1151;Yumen;;;;;;;;;;;Þéìýíü;;x
+PROV1152;Yangguan;;;;;;;;;;;ßíãóàí;;x
+PROV1153;Dunhuang;;;;;;;;;;;Äóíüõóàí;;x
+PROV1154;Anxi;;;;;;;;;;;Àíüñè;;x
+PROV1155;Jiuquan;;;;;;;;;;;Öçþöþàíü;;x
+PROV1156;Delingha;;;;;;;;;;;Äýëèíõà;;x
+PROV1157;Fuqi;;;;;;;;;;;Ôó÷è;;x
+PROV1158;Dulan;;;;;;;;;;;Äóëàí;;x
+PROV1159;Lingtsang;;;;;;;;;;;Ëèíã;;x
+PROV1160;Nangqen;;;;;;;;;;;Íàíã÷åí;;x
+PROV1161;Zadoi;;;;;;;;;;;Äçàä¸;;x
 # Kham
-PROV1162;Banbar;;;;;;;;;;;;;x
-PROV1163;Qamdo;;;;;;;;;;;;;x
-PROV1164;Bome;;;;;;;;;;;;;x
-
-PROV1165;Lhatok;;;;;;;;;;;;;x
-PROV1166;Dege;;;;;;;;;;;;;x
-PROV1167;Markam;;;;;;;;;;;;;x
-
-PROV1168;Nyingchi;;;;;;;;;;;;;x
-PROV1169;Medog;;;;;;;;;;;;;x
-PROV1170;Mainling;;;;;;;;;;;;;x
-
+PROV1162;Banbar;;;;;;;;;;;Áàíáàð;;x
+PROV1163;Qamdo;;;;;;;;;;;×àìäî;;x
+PROV1164;Bome;;;;;;;;;;;Áîìå;;x
+PROV1165;Lhatok;;;;;;;;;;;Ëõàòîê;;x
+PROV1166;Dege;;;;;;;;;;;Äåãå;;x
+PROV1167;Markam;;;;;;;;;;;Ìàðêàì;;x
+PROV1168;Nyingchi;;;;;;;;;;;Íüèíã÷è;;x
+PROV1169;Medog;;;;;;;;;;;Ìåäîã;;x
+PROV1170;Mainling;;;;;;;;;;;Ìýíëèíã;;x
 # Kamarupa
-PROV1171;Lhoyu;;;;;;;;;;;;;x
-PROV1172;Kundina;;;;;;;;;;;;;x
-PROV1173;Monyul;;;;;;;;;;;;;x
-PROV1174;Haruppeswara;;;;;;;;;;;;;x
-
-PROV1175;Dimapur;;;;;;;;;;;;;x
-PROV1176;Srihatta;;;;;;;;;;;;;x
-PROV1177;Goalpara;;;;;;;;;;;;;x
-
-PROV1178;Kamarupanagara;;;;;;;;;;;;;x
-PROV1179;Kamatapur;;;;;;;;;;;;;x
-PROV1180;Sikkim;;;;;;;;;;;;;x
-
+PROV1171;Lhoyu;;;;;;;;;;;Ëõîþ;;x
+PROV1172;Kundina;;;;;;;;;;;Êóíäèíà;;x
+PROV1173;Monyul;;;;;;;;;;;Ëõîìîí;;x
+PROV1174;Haruppeswara;;;;;;;;;;;Õàðóïïåøâàðà;;x
+PROV1175;Dimapur;;;;;;;;;;;Äèìàïóð;;x
+PROV1176;Srihatta;;;;;;;;;;;Øðèõàòòà;;x
+PROV1177;Goalpara;;;;;;;;;;;Ãîàëïàðà;;x
+PROV1178;Kamarupanagara;;;;;;;;;;;Êàìàðóïàíàãàðà;;x
+PROV1179;Kamatapur;;;;;;;;;;;Êàìàòàïóð;;x
+PROV1180;Sikkim;;;;;;;;;;;Ñèêêèì;;x
 # Bengal
-PROV1181;Suvarnagram;;;;;;;;;;;;;x
-PROV1182;Madhupur;;;;;;;;;;;;;x
-PROV1183;Pundravardhana;;;;;;;;;;;;;x
-
-PROV1184;Kotivarsa;;;;;;;;;;;;;x
-PROV1185;Laksmanavati;;;;;;;;;;;;;x
-PROV1186;Gauda;;;;;;;;;;;;;x
-PROV1187;Radha;;;;;;;;;;;;;x
-
-PROV1188;Vijayapura;;;;;;;;;;;;;x
-PROV1189;Saptagrama;;;;;;;;;;;;;x
-PROV1190;Nabadwipa;;;;;;;;;;;;;x
-
-PROV1191;Kumara Mandala;;;;;;;;;;;;;x
-PROV1192;Bikrampur;;;;;;;;;;;;;x
-PROV1193;Karmanta;;;;;;;;;;;;;x
-PROV1194;Samatata;;;;;;;;;;;;;x
-PROV1195;Candradvipa;;;;;;;;;;;;;x
-
-PROV1196;Tamralipti;;;;;;;;;;;;;x
-PROV1197;Midnapore;;;;;;;;;;;;;x
-PROV1198;Mallabhum;;;;;;;;;;;;;x
-
+PROV1181;Suvarnagram;;;;;;;;;;;Ñóâàðíàãðàì;;x
+PROV1182;Madhupur;;;;;;;;;;;Ìàäõóïóð;;x
+PROV1183;Pundravardhana;;;;;;;;;;;Ïóíäðàâàðäõàíà;;x
+PROV1184;Kotivarsa;;;;;;;;;;;Êîòèâàðñà;;x
+PROV1185;Laksmanavati;;;;;;;;;;;Ëàêøìàíàâàòè;;x
+PROV1186;Gauda;;;;;;;;;;;Ãàóäà;;x
+PROV1187;Radha;;;;;;;;;;;Ðàäõà;;x
+PROV1188;Vijayapura;;;;;;;;;;;Âèäæàÿïóðà;;x
+PROV1189;Saptagrama;;;;;;;;;;;Ñàïòàãðàìà;;x
+PROV1190;Nabadwipa;;;;;;;;;;;Íàáàäâèïà;;x
+PROV1191;Kumara Mandala;;;;;;;;;;;Êóìàðà-Ìàíäàëà;;x
+PROV1192;Bikrampur;;;;;;;;;;;Áèêðàìïóð;;x
+PROV1193;Karmanta;;;;;;;;;;;Êàðìàíòà;;x
+PROV1194;Samatata;;;;;;;;;;;Ñàìàòàòà;;x
+PROV1195;Candradvipa;;;;;;;;;;;×àíäðàäâèïà;;x
+PROV1196;Tamralipti;;;;;;;;;;;Òàìðàëèïòè;;x
+PROV1197;Midnapore;;;;;;;;;;;Ìèäèíèïóð;;x
+PROV1198;Mallabhum;;;;;;;;;;;Ìàëëàáõóì;;x
 # Bihar
-PROV1199;Munda;;;;;;;;;;;;;x
-PROV1200;Jharkand;;;;;;;;;;;;;x
-PROV1201;Rothas;;;;;;;;;;;;;x
-PROV1202;Rajrappa;;;;;;;;;;;;;x
-PROV1203;Damin-i-koh;;;;;;;;;;;;;x
-
-PROV1204;Gaya;;;;;;;;;;;;;x
-PROV1205;Sasaram;;;;;;;;;;;;;x
-PROV1206;Magadha;;;;;;;;;;;;;x
-PROV1207;Mudgagiri;;;;;;;;;;;;;x
-
-PROV1208;Mithila;;;;;;;;;;;;;x
-PROV1209;Simaramapura;;;;;;;;;;;;;x
-PROV1210;Kusinagara;;;;;;;;;;;;;x
-
-PROV1211;Jaunpur;;;;;;;;;;;;;x
-PROV1212;Varanasi;;;;;;;;;;;;;x
-PROV1213;Chunar;;;;;;;;;;;;;x
-
+PROV1199;Munda;;;;;;;;;;;Ìóíäà;;x
+PROV1200;Jharkand;;;;;;;;;;;Äæàðêõàíä;;x
+PROV1201;Rothas;;;;;;;;;;;Ðîõòàñ;;x
+PROV1202;Rajrappa;;;;;;;;;;;Ðàäæðàïïà;;x
+PROV1203;Damin-i-koh;;;;;;;;;;;Äàìàí-å-Êîõ;;x
+PROV1204;Gaya;;;;;;;;;;;Ãàÿ;;x
+PROV1205;Sasaram;;;;;;;;;;;Ñàñàðàì;;x
+PROV1206;Magadha;;;;;;;;;;;Ìàãàäõà;;x
+PROV1207;Mudgagiri;;;;;;;;;;;Ìóäãàãèðè;;x
+PROV1208;Mithila;;;;;;;;;;;Ìèòõèëà;;x
+PROV1209;Simaramapura;;;;;;;;;;;Ñèìàðàìàïóðà;;x
+PROV1210;Kusinagara;;;;;;;;;;;Êóøèíàãàð;;x
+PROV1211;Jaunpur;;;;;;;;;;;Äæàóíïóð;;x
+PROV1212;Varanasi;;;;;;;;;;;Áåíàðåñ;;x
+PROV1213;Chunar;;;;;;;;;;;×óíàð;;x
 # Gondwana
-PROV1214;Chauragarh;;;;;;;;;;;;;x
-PROV1215;Tripuri;;;;;;;;;;;;;x
-
-PROV1216;Bandhugadha;;;;;;;;;;;;;x
-PROV1217;Tummana;;;;;;;;;;;;;x
-PROV1218;Ratanpur;;;;;;;;;;;;;x
-
+PROV1214;Chauragarh;;;;;;;;;;;×àóðàãàðõ;;x
+PROV1215;Tripuri;;;;;;;;;;;Òðèïóðè;;x
+PROV1216;Bandhugadha;;;;;;;;;;;Áàíäõóãàäõà;;x
+PROV1217;Tummana;;;;;;;;;;;Òóììàíà;;x
+PROV1218;Ratanpur;;;;;;;;;;;Ðàòàíïóð;;x
 # Orissa
-PROV1219;Kiranapura;;;;;;;;;;;;;x
-PROV1220;Rayapura;;;;;;;;;;;;;x
-PROV1221;Sripuri;;;;;;;;;;;;;x
-PROV1222;Sambalpur;;;;;;;;;;;;;x
-PROV1223;Suvarnapura;;;;;;;;;;;;;x
-
-PROV1224;Khinjali Mandala;;;;;;;;;;;;;x
-PROV1225;Kodalaka Mandala;;;;;;;;;;;;;x
-PROV1226;Khijjingakota;;;;;;;;;;;;;x
-PROV1227;Viraja;;;;;;;;;;;;;x
-PROV1228;Kataka;;;;;;;;;;;;;x
-
-PROV1229;Puri;;;;;;;;;;;;;x
-PROV1230;Swetaka Mandala;;;;;;;;;;;;;x
-PROV1231;Kalinganagar;;;;;;;;;;;;;x
-PROV1232;Vizagipatam;;;;;;;;;;;;;x
-
-PROV1233;Nandapur;;;;;;;;;;;;;x
-PROV1234;Cakrakuta;;;;;;;;;;;;;x
-PROV1235;Barasuru;;;;;;;;;;;;;x
-
+PROV1219;Kiranapura;;;;;;;;;;;Êèðàíàïóðà;;x
+PROV1220;Rayapura;;;;;;;;;;;Ðàÿïóðà;;x
+PROV1221;Sripuri;;;;;;;;;;;Øðèïóðè;;x
+PROV1222;Sambalpur;;;;;;;;;;;Ñàìáàëïóð;;x
+PROV1223;Suvarnapura;;;;;;;;;;;Ñóâàðíàïóðà;;x
+PROV1224;Khinjali Mandala;;;;;;;;;;;Õèíäæàëè-Ìàíäàëà;;x
+PROV1225;Kodalaka Mandala;;;;;;;;;;;Êîäàëàêà-Ìàíäàëà;;x
+PROV1226;Khijjingakota;;;;;;;;;;;Õèäæèíãàêîòà;;x
+PROV1227;Viraja;;;;;;;;;;;Âèðàäæà;;x
+PROV1228;Kataka;;;;;;;;;;;Êàòàêà;;x
+PROV1229;Puri;;;;;;;;;;;Ïóðè;;x
+PROV1230;Swetaka Mandala;;;;;;;;;;;Øâåòàêà-Ìàíäàëà;;x
+PROV1231;Kalinganagar;;;;;;;;;;;Êàëèíãàíàãàð;;x
+PROV1232;Vizagipatam;;;;;;;;;;;Âèøàêõàïàòíàì;;x
+PROV1233;Nandapur;;;;;;;;;;;Íàíäàïóð;;x
+PROV1234;Cakrakuta;;;;;;;;;;;×àêðàêóòà;;x
+PROV1235;Barasuru;;;;;;;;;;;Áàðàñóðó;;x
 # Telingana
-PROV1236;Kambampet;;;;;;;;;;;;;x
-PROV1237;Orangallu;;;;;;;;;;;;;x
-PROV1238;Balkonda;;;;;;;;;;;;;x
-PROV1239;Vemulavada;;;;;;;;;;;;;x
-
-PROV1240;Medak;;;;;;;;;;;;;x
-PROV1241;Kollipake;;;;;;;;;;;;;x
-PROV1242;Pannagallu;;;;;;;;;;;;;x
-PROV1243;Racakonda;;;;;;;;;;;;;x
-PROV1244;Nilagiri;;;;;;;;;;;;;x
-
+PROV1236;Kambampet;;;;;;;;;;;Êàìáàìïåò;;x
+PROV1237;Orangallu;;;;;;;;;;;Îðàíãàëëó;;x
+PROV1238;Balkonda;;;;;;;;;;;Áàëêîíäà;;x
+PROV1239;Vemulavada;;;;;;;;;;;Âåìóëàâàäà;;x
+PROV1240;Medak;;;;;;;;;;;Ìåäàê;;x
+PROV1241;Kollipake;;;;;;;;;;;Êîëëèïàêå;;x
+PROV1242;Pannagallu;;;;;;;;;;;Ïàííàãàëëó;;x
+PROV1243;Racakonda;;;;;;;;;;;Ðàêàêîíäà;;x
+PROV1244;Nilagiri;;;;;;;;;;;Íèëàãèðè;;x
 # Andhra
-PROV1245;Rajamahendravaram;;;;;;;;;;;;;x
-PROV1246;Pithapuram;;;;;;;;;;;;;x
-PROV1247;Vengipura;;;;;;;;;;;;;x
-PROV1248;Vijayawada;;;;;;;;;;;;;x
-
-PROV1249;Amaravati;;;;;;;;;;;;;x
-PROV1250;Nellore;;;;;;;;;;;;;x
-PROV1251;Udayagiri;;;;;;;;;;;;;x
-PROV1252;Penugonda;;;;;;;;;;;;;x
-
+PROV1245;Rajamahendravaram;;;;;;;;;;;Ðàäæàìàíäðè;;x
+PROV1246;Pithapuram;;;;;;;;;;;Ïèòõàïóðàì;;x
+PROV1247;Vengipura;;;;;;;;;;;Âåíãèïóðà;;x
+PROV1248;Vijayawada;;;;;;;;;;;Âèäæàÿâàäà;;x
+PROV1249;Amaravati;;;;;;;;;;;Àìàðàâàòè;;x
+PROV1250;Nellore;;;;;;;;;;;Íåëëîð;;x
+PROV1251;Udayagiri;;;;;;;;;;;Óäàÿãèðè;;x
+PROV1252;Penugonda;;;;;;;;;;;Ïåíàêîíäà;;x
 # Tamilakam
-PROV1253;Potapi;;;;;;;;;;;;;x
-PROV1254;Kanchipuram;;;;;;;;;;;;;x
-
-PROV1255;Cholamandalam;;;;;;;;;;;;;x
-PROV1256;Tagadur;;;;;;;;;;;;;x
-
-PROV1257;Kongu;;;;;;;;;;;;;x
-PROV1258;Tenkasi;;;;;;;;;;;;;x
-PROV1259;Tirunelveli;;;;;;;;;;;;;x
-PROV1260;Madurai;;;;;;;;;;;;;x
-
+PROV1253;Potapi;;;;;;;;;;;Ïîòàïè;;x
+PROV1254;Kanchipuram;;;;;;;;;;;Êàí÷èïóðàì;;x
+PROV1255;Cholamandalam;;;;;;;;;;;×îëàìàíäàëàì;;x
+PROV1256;Tagadur;;;;;;;;;;;Òàãàäóð;;x
+PROV1257;Kongu;;;;;;;;;;;Êîíãó;;x
+PROV1258;Tenkasi;;;;;;;;;;;Òåíêàñè;;x
+PROV1259;Tirunelveli;;;;;;;;;;;Òèðóíåëâåëè;;x
+PROV1260;Madurai;;;;;;;;;;;Ìàäóðàé;;x
 # Lanka
-PROV1261;Pihiti;;;;;;;;;;;;;x
-PROV1262;Nagadipa;;;;;;;;;;;;;x
-PROV1263;Kotthasara;;;;;;;;;;;;;x
-
-PROV1264;Rohana;;;;;;;;;;;;;x
-PROV1265;Dakhina Desa;;;;;;;;;;;;;x
-
+PROV1261;Pihiti;;;;;;;;;;;Ïèõèòè;;x
+PROV1262;Nagadipa;;;;;;;;;;;Íàãàäèïà;;x
+PROV1263;Kotthasara;;;;;;;;;;;Êîòòõàñàðà;;x
+PROV1264;Rohana;;;;;;;;;;;Ðîõàíà;;x
+PROV1265;Dakhina Desa;;;;;;;;;;;Äàêõèíà-Äåñà;;x
 # Tamilakam (remainder)
-PROV1266;Maldives;;;;;;;;;;;;;x
-PROV1267;Venadu;;;;;;;;;;;;;x
-PROV1268;Mahoyadapuram;;;;;;;;;;;;;x
-PROV1269;Qalqut;;;;;;;;;;;;;x
-PROV1270;Kanara;;;;;;;;;;;;;x
-
+PROV1266;Maldives;;;;;;;;;;;Ìàëüäèâû;;x
+PROV1267;Venadu;;;;;;;;;;;Âåíàäó;;x
+PROV1268;Mahoyadapuram;;;;;;;;;;;Ìàõîÿäàïóðàì;;x
+PROV1269;Qalqut;;;;;;;;;;;Êàëüêóòòà;;x
+PROV1270;Kanara;;;;;;;;;;;Êàíàðà;;x
 # Karnata
-PROV1271;Srirangapatna;;;;;;;;;;;;;x
-PROV1272;Talakad;;;;;;;;;;;;;x
-PROV1273;Nandagiri;;;;;;;;;;;;;x
-PROV1274;Manyapura;;;;;;;;;;;;;x
-
-PROV1275;Dwarasamudra;;;;;;;;;;;;;x
-PROV1276;Uchangidurga;;;;;;;;;;;;;x
-PROV1277;Alampur;;;;;;;;;;;;;x
-
-PROV1278;Idatarainadu;;;;;;;;;;;;;x
-PROV1279;Kudalasangama;;;;;;;;;;;;;x
-PROV1280;Banavasi;;;;;;;;;;;;;x
-PROV1281;Vatapi;;;;;;;;;;;;;x
-
-PROV1282;Sagar;;;;;;;;;;;;;x
-PROV1283;Manyakheta;;;;;;;;;;;;;x
-PROV1284;Kalyani;;;;;;;;;;;;;x
-PROV1285;Bidar;;;;;;;;;;;;;x
-
+PROV1271;Srirangapatna;;;;;;;;;;;Øðèðàíãàïàòíàì;;x
+PROV1272;Talakad;;;;;;;;;;;Òàëàêàäó;;x
+PROV1273;Nandagiri;;;;;;;;;;;Íàíäàãèðè;;x
+PROV1274;Manyapura;;;;;;;;;;;Ìàíüÿïóðà;;x
+PROV1275;Dwarasamudra;;;;;;;;;;;Äâàðàñàìóäðà;;x
+PROV1276;Uchangidurga;;;;;;;;;;;Ó÷àíãèäóðãà;;x
+PROV1277;Alampur;;;;;;;;;;;Àëàìïåð;;x
+PROV1278;Idatarainadu;;;;;;;;;;;Èäàòàðàèíàäó;;x
+PROV1279;Kudalasangama;;;;;;;;;;;Êóäàëà-Ñàíãàìà;;x
+PROV1280;Banavasi;;;;;;;;;;;Áàíàâàñè;;x
+PROV1281;Vatapi;;;;;;;;;;;Âàòàïè;;x
+PROV1282;Sagar;;;;;;;;;;;Ñàãàð;;x
+PROV1283;Manyakheta;;;;;;;;;;;Ìàíüÿêõåòà;;x
+PROV1284;Kalyani;;;;;;;;;;;Êàëüÿíè;;x
+PROV1285;Bidar;;;;;;;;;;;Áèäàð;;x
 # Marahastra
-PROV1286;Lattalura;;;;;;;;;;;;;x
-PROV1287;Naldurg;;;;;;;;;;;;;x
-PROV1288;Taradavadi;;;;;;;;;;;;;x
-PROV1289;Kolhapur;;;;;;;;;;;;;x
-
-PROV1290;Honnore;;;;;;;;;;;;;x
-PROV1291;Goa;;;;;;;;;;;;;x
-PROV1292;Thana;;;;;;;;;;;;;x
-
-PROV1293;Kondana;;;;;;;;;;;;;x
-PROV1294;Nasikya;;;;;;;;;;;;;x
-PROV1295;Nandurbar;;;;;;;;;;;;;x
-
-PROV1296;Devagiri;;;;;;;;;;;;;x
-PROV1297;Pratishthana;;;;;;;;;;;;;x
-PROV1298;Vatsagulma;;;;;;;;;;;;;x
-PROV1299;Nanded;;;;;;;;;;;;;x
-PROV1300;Parnakheta;;;;;;;;;;;;;x
-
-PROV1301;Acalapura;;;;;;;;;;;;;x
-PROV1302;Canda;;;;;;;;;;;;;x
-PROV1303;Vairagara;;;;;;;;;;;;;x
-PROV1304;Ramagiri;;;;;;;;;;;;;x
-PROV1305;Kherla;;;;;;;;;;;;;x
-
+PROV1286;Lattalura;;;;;;;;;;;Ëàòòàëóðà;;x
+PROV1287;Naldurg;;;;;;;;;;;Íàëäåðã;;x
+PROV1288;Taradavadi;;;;;;;;;;;Òàðàäàâàäè;;x
+PROV1289;Kolhapur;;;;;;;;;;;Êîëõàïóð;;x
+PROV1290;Honnore;;;;;;;;;;;Õîííóð;;x
+PROV1291;Goa;;;;;;;;;;;Ãîà;;x
+PROV1292;Thana;;;;;;;;;;;Òõàíà;;x
+PROV1293;Kondana;;;;;;;;;;;Êîíäàíà;;x
+PROV1294;Nasikya;;;;;;;;;;;Íàñèêüÿ;;x
+PROV1295;Nandurbar;;;;;;;;;;;Íàíäóðáàð;;x
+PROV1296;Devagiri;;;;;;;;;;;Äàóëàòàáàä;;x
+PROV1297;Pratishthana;;;;;;;;;;;Ïðàòèøòõàíà;;x
+PROV1298;Vatsagulma;;;;;;;;;;;Âàòñàãóëìà;;x
+PROV1299;Nanded;;;;;;;;;;;Íàíäåä;;x
+PROV1300;Parnakheta;;;;;;;;;;;Ïàðíàêõåòà;;x
+PROV1301;Acalapura;;;;;;;;;;;Àêàëàïóðà;;x
+PROV1302;Canda;;;;;;;;;;;Êàíäà;;x
+PROV1303;Vairagara;;;;;;;;;;;Âàéðàãàðà;;x
+PROV1304;Ramagiri;;;;;;;;;;;Ðàìàãèðè;;x
+PROV1305;Kherla;;;;;;;;;;;Êõåðëà;;x
 # Malwa
-PROV1306;Asirgarh;;;;;;;;;;;;;x
-PROV1307;Burhanpur;;;;;;;;;;;;;x
-PROV1308;Thalner;;;;;;;;;;;;;x
-PROV1309;Mandapika;;;;;;;;;;;;;x
-
-PROV1310;Dadhipadra;;;;;;;;;;;;;x
-PROV1311;Dhara;;;;;;;;;;;;;x
-PROV1312;Dasapura;;;;;;;;;;;;;x
-PROV1313;Ujjayini;;;;;;;;;;;;;x
-
-PROV1314;Sarangpur;;;;;;;;;;;;;x
-PROV1315;Vidisa;;;;;;;;;;;;;x
-PROV1316;Candhoba;;;;;;;;;;;;;x
-PROV1317;Chanderi;;;;;;;;;;;;;x
-
+PROV1306;Asirgarh;;;;;;;;;;;Àñèðãàðõ;;x
+PROV1307;Burhanpur;;;;;;;;;;;Áóðõàíïóð;;x
+PROV1308;Thalner;;;;;;;;;;;Òõàëíåð;;x
+PROV1309;Mandapika;;;;;;;;;;;Ìàíäàïèêà;;x
+PROV1310;Dadhipadra;;;;;;;;;;;Äàäõèïàäðà;;x
+PROV1311;Dhara;;;;;;;;;;;Äõàð;;x
+PROV1312;Dasapura;;;;;;;;;;;Äàñàïóðà;;x
+PROV1313;Ujjayini;;;;;;;;;;;Óääæàéí;;x
+PROV1314;Sarangpur;;;;;;;;;;;Ñàðàíãïóð;;x
+PROV1315;Vidisa;;;;;;;;;;;Âèäèøà;;x
+PROV1316;Candhoba;;;;;;;;;;;Êàíäõîáà;;x
+PROV1317;Chanderi;;;;;;;;;;;×àíäåðè;;x
 # Kosala
-PROV1318;Damoh;;;;;;;;;;;;;x
-PROV1319;Kalanjara;;;;;;;;;;;;;x
-PROV1320;Gurgi;;;;;;;;;;;;;x
-PROV1321;Mahoba;;;;;;;;;;;;;x
-
-PROV1322;Prayaga;;;;;;;;;;;;;x
-PROV1323;Asni;;;;;;;;;;;;;x
-PROV1324;Kalpi;;;;;;;;;;;;;x
-PROV1325;Kanyakubja;;;;;;;;;;;;;x
-PROV1326;Lakhnau;;;;;;;;;;;;;x
-PROV1327;Bharauli;;;;;;;;;;;;;x
-
-PROV1328;Ayodhya;;;;;;;;;;;;;x
-PROV1329;Sravasti;;;;;;;;;;;;;x
-PROV1330;Naimisa;;;;;;;;;;;;;x
-
+PROV1318;Damoh;;;;;;;;;;;Äàìîõ;;x
+PROV1319;Kalanjara;;;;;;;;;;;Êàëàíäæàðà;;x
+PROV1320;Gurgi;;;;;;;;;;;Ãóðãè;;x
+PROV1321;Mahoba;;;;;;;;;;;Ìàõîáà;;x
+PROV1322;Prayaga;;;;;;;;;;;Ïðàÿãà;;x
+PROV1323;Asni;;;;;;;;;;;Àñíè;;x
+PROV1324;Kalpi;;;;;;;;;;;Êàëïè;;x
+PROV1325;Kanyakubja;;;;;;;;;;;Êàííàóäæ;;x
+PROV1326;Lakhnau;;;;;;;;;;;Ëàêõíàó;;x
+PROV1327;Bharauli;;;;;;;;;;;Áõàðàóëè;;x
+PROV1328;Ayodhya;;;;;;;;;;;Àéîäõüÿ;;x
+PROV1329;Sravasti;;;;;;;;;;;Øðàâàñòè;;x
+PROV1330;Naimisa;;;;;;;;;;;Íàèìèñà;;x
 # Delhi
-PROV1331;Katehar;;;;;;;;;;;;;x
-PROV1332;Vodamayutja;;;;;;;;;;;;;x
-PROV1333;Sambhal;;;;;;;;;;;;;x
-
-PROV1334;Hastinapura;;;;;;;;;;;;;x
-PROV1335;Delhi;;;;;;;;;;;;;x
-PROV1336;Sthanisvara;;;;;;;;;;;;;x
-
-PROV1337;Tribandapura;;;;;;;;;;;;;x
-PROV1338;Sarasvati;;;;;;;;;;;;;x
-PROV1339;Hisar;;;;;;;;;;;;;x
-
-PROV1340;Kol;;;;;;;;;;;;;x
-PROV1341;Mathura;;;;;;;;;;;;;x
-PROV1342;Sripatha;;;;;;;;;;;;;x
-
+PROV1331;Katehar;;;;;;;;;;;Êàòèõàð;;x
+PROV1332;Vodamayutja;;;;;;;;;;;Âîäàìàþòäæà;;x
+PROV1333;Sambhal;;;;;;;;;;;Ñàìáõàë;;x
+PROV1334;Hastinapura;;;;;;;;;;;Õàñòèíàïóðà;;x
+PROV1335;Delhi;;;;;;;;;;;Äåëè;;x
+PROV1336;Sthanisvara;;;;;;;;;;;Ñòõàíèøâàðà;;x
+PROV1337;Tribandapura;;;;;;;;;;;Òðèáàíäàïóðà;;x
+PROV1338;Sarasvati;;;;;;;;;;;Ñàðàñâàòè;;x
+PROV1339;Hisar;;;;;;;;;;;Õèñàð;;x
+PROV1340;Kol;;;;;;;;;;;Êîë;;x
+PROV1341;Mathura;;;;;;;;;;;Ìàòõóðà;;x
+PROV1342;Sripatha;;;;;;;;;;;Øðèïàòõà;;x
 # Rajputana
-PROV1343;Gwalior;;;;;;;;;;;;;x
-PROV1344;Ranthambore;;;;;;;;;;;;;x
-PROV1345;Vairata;;;;;;;;;;;;;x
-PROV1346;Ajayameru;;;;;;;;;;;;;x
-
-PROV1347;Kota;;;;;;;;;;;;;x
-PROV1348;Chitrakut;;;;;;;;;;;;;x
-PROV1349;Medapata;;;;;;;;;;;;;x
-
-PROV1350;Godwad;;;;;;;;;;;;;x
-PROV1351;Mandavyapura;;;;;;;;;;;;;x
-PROV1352;Medantaka;;;;;;;;;;;;;x
-
-PROV1353;Nagauda;;;;;;;;;;;;;x
-PROV1354;Reni;;;;;;;;;;;;;x
-PROV1355;Vikramapura;;;;;;;;;;;;;x
-
-PROV1356;Ludrava;;;;;;;;;;;;;x
-PROV1357;Vijnot;;;;;;;;;;;;;x
-PROV1358;Satyapura;;;;;;;;;;;;;x
-
+PROV1343;Gwalior;;;;;;;;;;;Ãâàëèîð;;x
+PROV1344;Ranthambore;;;;;;;;;;;Ðàíòõàìáîð;;x
+PROV1345;Vairata;;;;;;;;;;;Âàéðàòà;;x
+PROV1346;Ajayameru;;;;;;;;;;;Àäæàÿìåðó;;x
+PROV1347;Kota;;;;;;;;;;;Êîòà;;x
+PROV1348;Chitrakut;;;;;;;;;;;×èòðàêóò;;x
+PROV1349;Medapata;;;;;;;;;;;Ìåäàïàòà;;x
+PROV1350;Godwad;;;;;;;;;;;Ãîðâàð;;x
+PROV1351;Mandavyapura;;;;;;;;;;;Ìàíäàâüÿïóðà;;x
+PROV1352;Medantaka;;;;;;;;;;;Ìåäàíòàêà;;x
+PROV1353;Nagauda;;;;;;;;;;;Íàãàóäà;;x
+PROV1354;Reni;;;;;;;;;;;Ðåíè;;x
+PROV1355;Vikramapura;;;;;;;;;;;Âèêðàìàïóðà;;x
+PROV1356;Ludrava;;;;;;;;;;;Ëóäðàâà;;x
+PROV1357;Vijnot;;;;;;;;;;;Âèäæíîò;;x
+PROV1358;Satyapura;;;;;;;;;;;Ñàòüÿïóðà;;x
 # Gujarat
-PROV1359;Sarasvata Mandala;;;;;;;;;;;;;x
-PROV1360;Mohadavasaka;;;;;;;;;;;;;x
-PROV1361;Khetaka;;;;;;;;;;;;;x
-
-PROV1362;Valabhi;;;;;;;;;;;;;x
-PROV1363;Vardhamana;;;;;;;;;;;;;x
-PROV1364;Somnath;;;;;;;;;;;;;x
-PROV1365;Bhumilka;;;;;;;;;;;;;x
-
-PROV1366;Vadodara;;;;;;;;;;;;;x
-PROV1367;Navasarika;;;;;;;;;;;;;x
-PROV1368;Daman;;;;;;;;;;;;;x
-
-PROV1369;Dvaraka;;;;;;;;;;;;;x
-PROV1370;Dhamalpur;;;;;;;;;;;;;x
-PROV1371;Kutch;;;;;;;;;;;;;x
-
+PROV1359;Sarasvata Mandala;;;;;;;;;;;Ñàðàñâàòà-Ìàíäàëà;;x
+PROV1360;Mohadavasaka;;;;;;;;;;;Ìîõàäàâàñàêà;;x
+PROV1361;Khetaka;;;;;;;;;;;Êõåòàêà;;x
+PROV1362;Valabhi;;;;;;;;;;;Âàëëàáõè;;x
+PROV1363;Vardhamana;;;;;;;;;;;Âàðäõàìàíà;;x
+PROV1364;Somnath;;;;;;;;;;;Ñîìíàòõ;;x
+PROV1365;Bhumilka;;;;;;;;;;;Áõóìèëêà;;x
+PROV1366;Vadodara;;;;;;;;;;;Âàäîäàðà;;x
+PROV1367;Navasarika;;;;;;;;;;;Íàâàñàðèêà;;x
+PROV1368;Daman;;;;;;;;;;;Äàìàí;;x
+PROV1369;Dvaraka;;;;;;;;;;;Äâàðàêà;;x
+PROV1370;Dhamalpur;;;;;;;;;;;Äõàìàëïóð;;x
+PROV1371;Kutch;;;;;;;;;;;Êà÷;;x
 # Sindh
-PROV1372;Sonda;;;;;;;;;;;;;x
-PROV1373;Debul;;;;;;;;;;;;;x
-PROV1374;Ranikot;;;;;;;;;;;;;x
-PROV1375;Mansura;;;;;;;;;;;;;x
-PROV1376;Siwistan;;;;;;;;;;;;;x
-
-PROV1377;Aror;;;;;;;;;;;;;x
-PROV1378;Bhakkar;;;;;;;;;;;;;x
-PROV1379;Quzdar;;;;;;;;;;;;;x
-PROV1380;Kandail;;;;;;;;;;;;;x
-PROV1381;Sibi;;;;;;;;;;;;;x
-PROV1382;Rajanpur;;;;;;;;;;;;;x
-
+PROV1372;Sonda;;;;;;;;;;;Ñîíäà;;x
+PROV1373;Debul;;;;;;;;;;;Äåáóë;;x
+PROV1374;Ranikot;;;;;;;;;;;Ðàíèêîò;;x
+PROV1375;Mansura;;;;;;;;;;;Ìàíñóðà;;x
+PROV1376;Siwistan;;;;;;;;;;;Ñèâèñòàí;;x
+PROV1377;Aror;;;;;;;;;;;Àðîð;;x
+PROV1378;Bhakkar;;;;;;;;;;;Áõàêêàð;;x
+PROV1379;Quzdar;;;;;;;;;;;Êóçäàð;;x
+PROV1380;Kandail;;;;;;;;;;;Êàíäàèë;;x
+PROV1381;Sibi;;;;;;;;;;;Ñèáè;;x
+PROV1382;Rajanpur;;;;;;;;;;;Ðàäæàíïóð;;x
 # Punjab
-PROV1383;Uch;;;;;;;;;;;;;x
-PROV1384;Kafirkot;;;;;;;;;;;;;x
-PROV1385;Bori;;;;;;;;;;;;;x
-PROV1386;Karor;;;;;;;;;;;;;x
-PROV1387;Multan;;;;;;;;;;;;;x
-PROV1388;Karur;;;;;;;;;;;;;x
-
-PROV1389;Dipalpur;;;;;;;;;;;;;x
-PROV1390;Shorkot;;;;;;;;;;;;;x
-PROV1391;Bhera;;;;;;;;;;;;;x
-PROV1392;Lahur;;;;;;;;;;;;;x
-
-PROV1393;Trigarta;;;;;;;;;;;;;x
-PROV1394;Sakala;;;;;;;;;;;;;x
-PROV1395;Gurjaratra;;;;;;;;;;;;;x
-
-PROV1396;Nandana;;;;;;;;;;;;;x
-PROV1397;Udabhanda;;;;;;;;;;;;;x
-PROV1398;Purushapura;;;;;;;;;;;;;x
-PROV1399;Bannu;;;;;;;;;;;;;x
-
+PROV1383;Uch;;;;;;;;;;;Ó÷;;x
+PROV1384;Kafirkot;;;;;;;;;;;Êàôèðêîò;;x
+PROV1385;Bori;;;;;;;;;;;Áîðè;;x
+PROV1386;Karor;;;;;;;;;;;Êàðîð;;x
+PROV1387;Multan;;;;;;;;;;;Ìóëòàí;;x
+PROV1388;Karur;;;;;;;;;;;Êàðóð;;x
+PROV1389;Dipalpur;;;;;;;;;;;Äèïàëïóð;;x
+PROV1390;Shorkot;;;;;;;;;;;Øîðêîò;;x
+PROV1391;Bhera;;;;;;;;;;;Áõåðà;;x
+PROV1392;Lahur;;;;;;;;;;;Ëàõîð;;x
+PROV1393;Trigarta;;;;;;;;;;;Òðèãàðòà;;x
+PROV1394;Sakala;;;;;;;;;;;Ñàêàëà;;x
+PROV1395;Gurjaratra;;;;;;;;;;;Ãóðäæàðàòðà;;x
+PROV1396;Nandana;;;;;;;;;;;Íàíäàíà;;x
+PROV1397;Udabhanda;;;;;;;;;;;Óäàáõàíäà;;x
+PROV1398;Purushapura;;;;;;;;;;;Ïóðóøàïóðà;;x
+PROV1399;Bannu;;;;;;;;;;;Áàííó;;x
 # Kabulistan
-PROV1400;Kabul;;;;;;;;;;;;;x
-PROV1401;Kunduz;;;;;;;;;;;;;x
-PROV1402;Bamiyan;;;;;;;;;;;;;x
-
-PROV1403;Ghazna;;;;;;;;;;;;;x
-PROV1404;Zamindawar;;;;;;;;;;;;;x
-PROV1405;Kalat;;;;;;;;;;;;;x
-
+PROV1400;Kabul;;;;;;;;;;;Êàáóëèñòàí;;x
+PROV1401;Kunduz;;;;;;;;;;;Êóíäóç;;x
+PROV1402;Bamiyan;;;;;;;;;;;Áàìèàí;;x
+PROV1403;Ghazna;;;;;;;;;;;Ãàçíè;;x
+PROV1404;Zamindawar;;;;;;;;;;;Çàìèíäàâàð;;x
+PROV1405;Kalat;;;;;;;;;;;Êàëàò;;x
 # Baluchistan/Sistan
-PROV1406;Chagai;;;;;;;;;;;;;x
-PROV1407;Armail;;;;;;;;;;;;;x
-PROV1408;Makran;;;;;;;;;;;;;x
-PROV1409;Tis;;;;;;;;;;;;;x
-PROV1410;Saravan;;;;;;;;;;;;;x
-
-PROV1411;Zaranj;;;;;;;;;;;;;x
-PROV1412;Bost;;;;;;;;;;;;;x
-PROV1413;Farrah;;;;;;;;;;;;;x
-PROV1414;Zahedan;;;;;;;;;;;;;x
-
+PROV1406;Chagai;;;;;;;;;;;×àãàé;;x
+PROV1407;Armail;;;;;;;;;;;Àðìàèë;;x
+PROV1408;Makran;;;;;;;;;;;Ìåêðàí;;x
+PROV1409;Tis;;;;;;;;;;;Òèñ;;x
+PROV1410;Saravan;;;;;;;;;;;Ñåðàâàí;;x
+PROV1411;Zaranj;;;;;;;;;;;Çàðàíäæ;;x
+PROV1412;Bost;;;;;;;;;;;Áîñò;;x
+PROV1413;Farrah;;;;;;;;;;;Ôàððà;;x
+PROV1414;Zahedan;;;;;;;;;;;Çåõåäàí;;x
 # Khorasan
-PROV1415;Birjand;;;;;;;;;;;;;x
-PROV1416;Qohistan;;;;;;;;;;;;;x
-PROV1417;Tus;;;;;;;;;;;;;x
-PROV1418;Nishapur;;;;;;;;;;;;;x
-
-PROV1419;Badghis;;;;;;;;;;;;;x
-PROV1420;Herat;;;;;;;;;;;;;x
-PROV1421;Mandesh;;;;;;;;;;;;;x
-PROV1422;Kanj Rustaq;;;;;;;;;;;;;x
-
-PROV1423;Maymana;;;;;;;;;;;;;x
-PROV1424;Balkh;;;;;;;;;;;;;x
-PROV1425;Guzgan;;;;;;;;;;;;;x
-
-PROV1426;Amol;;;;;;;;;;;;;x
-PROV1427;Merv;;;;;;;;;;;;;x
-PROV1428;Sarakhs;;;;;;;;;;;;;x
-PROV1429;Konjikala;;;;;;;;;;;;;x
-
+PROV1415;Birjand;;;;;;;;;;;Áèðäæåíä;;x
+PROV1416;Qohistan;;;;;;;;;;;Êóõèñòàí;;x
+PROV1417;Tus;;;;;;;;;;;Òóñ;;x
+PROV1418;Nishapur;;;;;;;;;;;Íèøàïóð;;x
+PROV1419;Badghis;;;;;;;;;;;Áàäãèñ;;x
+PROV1420;Herat;;;;;;;;;;;Ãåðàò;;x
+PROV1421;Mandesh;;;;;;;;;;;Ìàíäåø;;x
+PROV1422;Kanj Rustaq;;;;;;;;;;;Êàíæ Ðóñòàã;;x
+PROV1423;Maymana;;;;;;;;;;;Ìàéìàíà;;x
+PROV1424;Balkh;;;;;;;;;;;Áàëõ;;x
+PROV1425;Guzgan;;;;;;;;;;;Ãóçãàí;;x
+PROV1426;Amol;;;;;;;;;;;Àìîëü;;x
+PROV1427;Merv;;;;;;;;;;;Ìåðâ;;x
+PROV1428;Sarakhs;;;;;;;;;;;Ñàðàõñ;;x
+PROV1429;Konjikala;;;;;;;;;;;Êîíäæèêàëà;;x
 # Daylam
-PROV1430;Farava;;;;;;;;;;;;;x
-PROV1431;Kyzyl-Su;;;;;;;;;;;;;x
-PROV1432;Dihistan;;;;;;;;;;;;;x
-
-PROV1433;Gurgan;;;;;;;;;;;;;x
-PROV1434;Tabaristan;;;;;;;;;;;;;x
-PROV1435;Qwivir;;;;;;;;;;;;;x
-PROV1436;Alamut;;;;;;;;;;;;;x
-
-PROV1437;Gilan;;;;;;;;;;;;;x
-PROV1438;Qazwin;;;;;;;;;;;;;x
-PROV1439;Daylam;;;;;;;;;;;;;x
-
-PROV1440;Shirvan;;;;;;;;;;;;;x
-PROV1441;Shemakha;;;;;;;;;;;;;x
-PROV1442;Azerbaijan;;;;;;;;;;;;;x
-PROV1443;Suenik;;;;;;;;;;;;;x
-
-PROV1444;Tabriz;;;;;;;;;;;;;x
-PROV1445;Maragha;;;;;;;;;;;;;x
-
+PROV1430;Farava;;;;;;;;;;;Ôàðàâà;;x
+PROV1431;Kyzyl-Su;;;;;;;;;;;Êûçûë-Ñó;;x
+PROV1432;Dihistan;;;;;;;;;;;Äèõèñòàí;;x
+PROV1433;Gurgan;;;;;;;;;;;Ãóðãàí;;x
+PROV1434;Tabaristan;;;;;;;;;;;Òàáàðèñòàí;;x
+PROV1435;Qwivir;;;;;;;;;;;Äåøò-è-Êèâèð;;x
+PROV1436;Alamut;;;;;;;;;;;Àëàìóò;;x
+PROV1437;Gilan;;;;;;;;;;;Ãèëÿí;;x
+PROV1438;Qazwin;;;;;;;;;;;Êàçâèí;;x
+PROV1439;Daylam;;;;;;;;;;;Äàéëåì;;x
+PROV1440;Shirvan;;;;;;;;;;;Øèðâàí;;x
+PROV1441;Shemakha;;;;;;;;;;;Øåìàõà;;x
+PROV1442;Azerbaijan;;;;;;;;;;;Àçåðáàéäæàí;;x
+PROV1443;Suenik;;;;;;;;;;;Ñþíèê;;x
+PROV1444;Tabriz;;;;;;;;;;;Òåáðèç;;x
+PROV1445;Maragha;;;;;;;;;;;Ìåðàãå;;x
 # Persia
-PROV1446;Kurdistan;;;;;;;;;;;;;x
-PROV1447;Shahrazur;;;;;;;;;;;;;x
-
-PROV1448;Luristan;;;;;;;;;;;;;x
-PROV1449;Esfahan;;;;;;;;;;;;;x
-PROV1450;Qom;;;;;;;;;;;;;x
-PROV1451;Hamadan;;;;;;;;;;;;;x
-PROV1452;Zanjan-Abhar;;;;;;;;;;;;;x
-PROV1453;Rayy;;;;;;;;;;;;;x
-
-PROV1454;Mafaza;;;;;;;;;;;;;x
-PROV1455;Yazd;;;;;;;;;;;;;x
-
-PROV1456;Kerman;;;;;;;;;;;;;x
-PROV1457;Bam;;;;;;;;;;;;;x
-PROV1458;Jabal Qufs;;;;;;;;;;;;;x
-PROV1459;Hormuz;;;;;;;;;;;;;x
-PROV1460;Sirjan;;;;;;;;;;;;;x
-
-PROV1461;Darabjerd;;;;;;;;;;;;;x
-PROV1462;Dashtestan;;;;;;;;;;;;;x
-PROV1463;Shiraz;;;;;;;;;;;;;x
-PROV1464;Istakhr;;;;;;;;;;;;;x
-PROV1465;Arrajan;;;;;;;;;;;;;x
-
-PROV1466;Ahvaz;;;;;;;;;;;;;x
-PROV1467;Sús;;;;;;;;;;;;;x
-PROV1468;Khozistan;;;;;;;;;;;;;x
-
+PROV1446;Kurdistan;;;;;;;;;;;Êóðäèñòàí;;x
+PROV1447;Shahrazur;;;;;;;;;;;Øàõðàçóð;;x
+PROV1448;Luristan;;;;;;;;;;;Ëóðèñòàí;;x
+PROV1449;Esfahan;;;;;;;;;;;Èñôàõàí;;x
+PROV1450;Qom;;;;;;;;;;;Êóì;;x
+PROV1451;Hamadan;;;;;;;;;;;Õàìàäàí;;x
+PROV1452;Zanjan-Abhar;;;;;;;;;;;Çàíäæàí-Àáõàð;;x
+PROV1453;Rayy;;;;;;;;;;;Ðåé;;x
+PROV1454;Mafaza;;;;;;;;;;;Ìàôàçà;;x
+PROV1455;Yazd;;;;;;;;;;;Éåçä;;x
+PROV1456;Kerman;;;;;;;;;;;Êåðìàí;;x
+PROV1457;Bam;;;;;;;;;;;Áàì;;x
+PROV1458;Jabal Qufs;;;;;;;;;;;Äæàáàë Êóôñ;;x
+PROV1459;Hormuz;;;;;;;;;;;Îðìóç;;x
+PROV1460;Sirjan;;;;;;;;;;;Ñèðäæàí;;x
+PROV1461;Darabjerd;;;;;;;;;;;Äàðàáäæåðä;;x
+PROV1462;Dashtestan;;;;;;;;;;;Äàøòåñòàí;;x
+PROV1463;Shiraz;;;;;;;;;;;Øèðàç;;x
+PROV1464;Istakhr;;;;;;;;;;;Èñòàõð;;x
+PROV1465;Arrajan;;;;;;;;;;;Àððàäæàí;;x
+PROV1466;Ahvaz;;;;;;;;;;;Àõâàç;;x
+PROV1467;Sús;;;;;;;;;;;Ñóñ;;x
+PROV1468;Khozistan;;;;;;;;;;;Õóçåñòàí;;x
 # Iraq (k_al-jazira)
-PROV1469;Kufa;;;;;;;;;;;;;x
-PROV1470;Basra;;;;;;;;;;;;;x
-PROV1471;Ain Said;;;;;;;;;;;;;x
-
-PROV1472;Al Nadjaf;;;;;;;;;;;;;x
-PROV1473;Al Amarah;;;;;;;;;;;;;x
-PROV1474;Ilam;;;;;;;;;;;;;x
-PROV1475;Kermanshah;;;;;;;;;;;;;x
-PROV1476;Baghdad;;;;;;;;;;;;;x
-PROV1477;Karbala;;;;;;;;;;;;;x
-
-PROV1478;Samarra;;;;;;;;;;;;;x
-PROV1479;Kirkuk;;;;;;;;;;;;;x
-PROV1480;Deir;;;;;;;;;;;;;x
-
+PROV1469;Kufa;;;;;;;;;;;Êóôà;;x
+PROV1470;Basra;;;;;;;;;;;Áàñðà;;x
+PROV1471;Ain Said;;;;;;;;;;;Ýéí Ñàèä;;x
+PROV1472;Al Nadjaf;;;;;;;;;;;Àí-Íàäæàô;;x
+PROV1473;Al Amarah;;;;;;;;;;;Ýëü-Àìàðà;;x
+PROV1474;Ilam;;;;;;;;;;;Èëàì;;x
+PROV1475;Kermanshah;;;;;;;;;;;Êåðìàíøàõ;;x
+PROV1476;Baghdad;;;;;;;;;;;Áàãäàä;;x
+PROV1477;Karbala;;;;;;;;;;;Êàðáàëà;;x
+PROV1478;Samarra;;;;;;;;;;;Ñàìàððà;;x
+PROV1479;Kirkuk;;;;;;;;;;;Êèðêóê;;x
+PROV1480;Deir;;;;;;;;;;;Äåéð;;x
 # Mesopotamia
-PROV1481;Sinjar;;;;;;;;;;;;;x
-PROV1482;Nisibin;;;;;;;;;;;;;x
-PROV1483;Mosul;;;;;;;;;;;;;x
-PROV1484;Irbil;;;;;;;;;;;;;x
-
-PROV1485;Bira;;;;;;;;;;;;;x
-PROV1486;Amida;;;;;;;;;;;;;x
-
-PROV1487;Hasakah;;;;;;;;;;;;;x
-PROV1488;Al Bichri;;;;;;;;;;;;;x
-PROV1489;Rahbah;;;;;;;;;;;;;x
-
+PROV1481;Sinjar;;;;;;;;;;;Ñèíäæàð;;x
+PROV1482;Nisibin;;;;;;;;;;;Íèñèáèí;;x
+PROV1483;Mosul;;;;;;;;;;;Ìîñóë;;x
+PROV1484;Irbil;;;;;;;;;;;Èðáèëü;;x
+PROV1485;Bira;;;;;;;;;;;Áèðà;;x
+PROV1486;Amida;;;;;;;;;;;Àìèäà;;x
+PROV1487;Hasakah;;;;;;;;;;;Õàñàêàõ;;x
+PROV1488;Al Bichri;;;;;;;;;;;Ýëü-Áèõðè;;x
+PROV1489;Rahbah;;;;;;;;;;;Ðàõáà;;x
 # Syria
-PROV1490;Druz;;;;;;;;;;;;;x
-PROV1491;Bostra;;;;;;;;;;;;;x
-PROV1492;Al-Sukhnah;;;;;;;;;;;;;x
-PROV1493;Palmyra;;;;;;;;;;;;;x
-
-PROV1494;Homs;;;;;;;;;;;;;x
-PROV1495;Hama;;;;;;;;;;;;;x
-PROV1496;Asas;;;;;;;;;;;;;x
-PROV1497;Aleppo;;;;;;;;;;;;;x
-
-PROV1498;Alexandretta;;;;;;;;;;;;;x
-PROV1499;Antioch;;;;;;;;;;;;;x
-PROV1500;Archa;;;;;;;;;;;;;x
-
-PROV1501;Tortosa;;;;;;;;;;;;;x
-PROV1502;Tripoli;;;;;;;;;;;;;x
-PROV1503;Baalbek;;;;;;;;;;;;;x
-
-PROV1504;Al Mafraq;;;;;;;;;;;;;x
-PROV1505;Damascus;;;;;;;;;;;;;x
-PROV1506;Az Zarqa;;;;;;;;;;;;;x
-PROV1507;Amman;;;;;;;;;;;;;x
-PROV1508;Irbid;;;;;;;;;;;;;x
-
+PROV1490;Druz;;;;;;;;;;;Äðóç;;x
+PROV1491;Bostra;;;;;;;;;;;Áîñòðà;;x
+PROV1492;Al-Sukhnah;;;;;;;;;;;Àëü-Ñóêíà;;x
+PROV1493;Palmyra;;;;;;;;;;;Ïàëüìèðà;;x
+PROV1494;Homs;;;;;;;;;;;Õîìñ;;x
+PROV1495;Hama;;;;;;;;;;;Õàìà;;x
+PROV1496;Asas;;;;;;;;;;;Àñàñ;;x
+PROV1497;Aleppo;;;;;;;;;;;Àëåïïî;;x
+PROV1498;Alexandretta;;;;;;;;;;;Àëåêñàíäðåòòà;;x
+PROV1499;Antioch;;;;;;;;;;;Àíòèîõèÿ;;x
+PROV1500;Archa;;;;;;;;;;;Àðõà;;x
+PROV1501;Tortosa;;;;;;;;;;;Òîðòîñà;;x
+PROV1502;Tripoli;;;;;;;;;;;Òðèïîëè;;x
+PROV1503;Baalbek;;;;;;;;;;;Áààëüáåê;;x
+PROV1504;Al Mafraq;;;;;;;;;;;Ýëü-Ìàôðàê;;x
+PROV1505;Damascus;;;;;;;;;;;Äàìàñê;;x
+PROV1506;Az Zarqa;;;;;;;;;;;Çàðêà;;x
+PROV1507;Amman;;;;;;;;;;;Àììàí;;x
+PROV1508;Irbid;;;;;;;;;;;Èðáèä;;x
 # Jerusalem
-PROV1509;Tiberias;;;;;;;;;;;;;x
-PROV1510;Safed;;;;;;;;;;;;;x
-PROV1511;Beirut;;;;;;;;;;;;;x
-PROV1512;Tyrus;;;;;;;;;;;;;x
-
-PROV1513;Acre;;;;;;;;;;;;;x
-PROV1514;Jerusalem;;;;;;;;;;;;;x
-PROV1515;Hebron;;;;;;;;;;;;;x
-
-PROV1516;Jaffa;;;;;;;;;;;;;x
-PROV1517;Ascalon;;;;;;;;;;;;;x
-PROV1518;Darum;;;;;;;;;;;;;x
-PROV1519;Beersheb;;;;;;;;;;;;;x
-
-PROV1520;Negev;;;;;;;;;;;;;x
-PROV1521;Monreal;;;;;;;;;;;;;x
-PROV1522;Kerak;;;;;;;;;;;;;x
-PROV1523;Madaba;;;;;;;;;;;;;x
-
+PROV1509;Tiberias;;;;;;;;;;;Òèâåðèàäà;;x
+PROV1510;Safed;;;;;;;;;;;Ñàôåä;;x
+PROV1511;Beirut;;;;;;;;;;;Áåéðóò;;x
+PROV1512;Tyrus;;;;;;;;;;;Òèð;;x
+PROV1513;Acre;;;;;;;;;;;Àêðà;;x
+PROV1514;Jerusalem;;;;;;;;;;;Èåðóñàëèì;;x
+PROV1515;Hebron;;;;;;;;;;;Õåâðîí;;x
+PROV1516;Jaffa;;;;;;;;;;;ßôôà;;x
+PROV1517;Ascalon;;;;;;;;;;;Àñêàëîí;;x
+PROV1518;Darum;;;;;;;;;;;Äàðóì;;x
+PROV1519;Beersheb;;;;;;;;;;;Áååðøåáà;;x
+PROV1520;Negev;;;;;;;;;;;Íåãåâ;;x
+PROV1521;Monreal;;;;;;;;;;;Ìîíðåàëü;;x
+PROV1522;Kerak;;;;;;;;;;;Êåðàê;;x
+PROV1523;Madaba;;;;;;;;;;;Ìàäàáà;;x
 # Arabia
-PROV1524;Al Jawf;;;;;;;;;;;;;x
-PROV1525;Maan;;;;;;;;;;;;;x
-PROV1526;Al 'Aqabah;;;;;;;;;;;;;x
-PROV1527;Tabuk;;;;;;;;;;;;;x
-PROV1528;Al 'Ula;;;;;;;;;;;;;x
-
-PROV1529;Khaybar;;;;;;;;;;;;;x
-PROV1530;Jeddah;;;;;;;;;;;;;x
-PROV1531;Tihama;;;;;;;;;;;;;x
-PROV1532;Asir;;;;;;;;;;;;;x
-PROV1533;Mecca;;;;;;;;;;;;;x
-PROV1534;Medina;;;;;;;;;;;;;x
-
-PROV1535;Hail;;;;;;;;;;;;;x
-PROV1536;Halaban;;;;;;;;;;;;;x
-PROV1537;Dariya;;;;;;;;;;;;;x
-PROV1538;Hajr;;;;;;;;;;;;;x
-PROV1539;Rafha;;;;;;;;;;;;;x
-
-PROV1540;Kuwait;;;;;;;;;;;;;x
-PROV1541;Qatif;;;;;;;;;;;;;x
-PROV1542;Al Hasa;;;;;;;;;;;;;x
-PROV1543;Uwal;;;;;;;;;;;;;x
-PROV1544;Bahrein;;;;;;;;;;;;;x
-
-PROV1545;Julfar;;;;;;;;;;;;;x
-PROV1546;Suhár;;;;;;;;;;;;;x
-PROV1547;Muscat;;;;;;;;;;;;;x
-PROV1548;Nizwa;;;;;;;;;;;;;x
-
+PROV1524;Al Jawf;;;;;;;;;;;Ýëü-Äæóô;;x
+PROV1525;Maan;;;;;;;;;;;Ìààí;;x
+PROV1526;Al 'Aqabah;;;;;;;;;;;Àëü-Àêàáà;;x
+PROV1527;Tabuk;;;;;;;;;;;Òàáóê;;x
+PROV1528;Al 'Ula;;;;;;;;;;;Àëü-Óëà;;x
+PROV1529;Khaybar;;;;;;;;;;;Õàéáàð;;x
+PROV1530;Jeddah;;;;;;;;;;;Äæåääà;;x
+PROV1531;Tihama;;;;;;;;;;;Òèõàìà;;x
+PROV1532;Asir;;;;;;;;;;;Àñèð;;x
+PROV1533;Mecca;;;;;;;;;;;Ìåêêà;;x
+PROV1534;Medina;;;;;;;;;;;Ìåäèíà;;x
+PROV1535;Hail;;;;;;;;;;;Õàèëü;;x
+PROV1536;Halaban;;;;;;;;;;;Õàëàáàí;;x
+PROV1537;Dariya;;;;;;;;;;;Äàðèÿ;;x
+PROV1538;Hajr;;;;;;;;;;;Õàäæð;;x
+PROV1539;Rafha;;;;;;;;;;;Ðàôõà;;x
+PROV1540;Kuwait;;;;;;;;;;;Êóâåéò;;x
+PROV1541;Qatif;;;;;;;;;;;Êàòèô;;x
+PROV1542;Al Hasa;;;;;;;;;;;Ýëü-Õàñà;;x
+PROV1543;Uwal;;;;;;;;;;;Þâàë;;x
+PROV1544;Bahrein;;;;;;;;;;;Áàõðåéí;;x
+PROV1545;Julfar;;;;;;;;;;;Äæóëüôàð;;x
+PROV1546;Suhár;;;;;;;;;;;Ñóõóð;;x
+PROV1547;Muscat;;;;;;;;;;;Ìàñêàò;;x
+PROV1548;Nizwa;;;;;;;;;;;Íèçâà;;x
 # Yemen
-PROV1549;Dhofar;;;;;;;;;;;;;x
-PROV1550;Mahra;;;;;;;;;;;;;x
-PROV1551;Kathiri;;;;;;;;;;;;;x
-
-PROV1552;Al-Ahqaf;;;;;;;;;;;;;x
-PROV1553;Najran;;;;;;;;;;;;;x
-PROV1554;Sanaa;;;;;;;;;;;;;x
-
-PROV1555;Zabid;;;;;;;;;;;;;x
-PROV1556;Taizz;;;;;;;;;;;;;x
-PROV1557;Aden;;;;;;;;;;;;;x
-PROV1558;Bayda;;;;;;;;;;;;;x
-
-PROV1559;Socotra;;;;;;;;;;;;;x
-
+PROV1549;Dhofar;;;;;;;;;;;Äîôàð;;x
+PROV1550;Mahra;;;;;;;;;;;Ìàõðà;;x
+PROV1551;Kathiri;;;;;;;;;;;Êàòõèðè;;x
+PROV1552;Al-Ahqaf;;;;;;;;;;;Àëü-Àõêàô;;x
+PROV1553;Najran;;;;;;;;;;;Íàäæðàí;;x
+PROV1554;Sanaa;;;;;;;;;;;Ñàíà;;x
+PROV1555;Zabid;;;;;;;;;;;Çàáèä;;x
+PROV1556;Taizz;;;;;;;;;;;Òàèç;;x
+PROV1557;Aden;;;;;;;;;;;Àäåí;;x
+PROV1558;Bayda;;;;;;;;;;;Áàéäà;;x
+PROV1559;Socotra;;;;;;;;;;;Ñîêîòðà;;x
 # Abyssinia
-PROV1560;Busaso;;;;;;;;;;;;;x
-PROV1561;Berbera;;;;;;;;;;;;;x
-PROV1562;Zeila;;;;;;;;;;;;;x
-
-PROV1563;Harer;;;;;;;;;;;;;x
-PROV1564;Tadjoura;;;;;;;;;;;;;x
-PROV1565;Assab;;;;;;;;;;;;;x
-PROV1566;Asayita;;;;;;;;;;;;;x
-
-PROV1567;Ankober;;;;;;;;;;;;;x
-PROV1568;Antalo;;;;;;;;;;;;;x
-
-PROV1569;Damot;;;;;;;;;;;;;x
-PROV1570;Asosa;;;;;;;;;;;;;x
-
-PROV1571;Gojjam;;;;;;;;;;;;;x
-PROV1572;Matamma;;;;;;;;;;;;;x
-
-PROV1573;Wag;;;;;;;;;;;;;x
-PROV1574;Lakomelza;;;;;;;;;;;;;x
-
-PROV1575;Begemder;;;;;;;;;;;;;x
-PROV1576;Gondar;;;;;;;;;;;;;x
-
-PROV1577;Semien;;;;;;;;;;;;;x
-PROV1578;Tigrinya;;;;;;;;;;;;;x
-
-PROV1579;Akordat;;;;;;;;;;;;;x
-PROV1580;Aksum;;;;;;;;;;;;;x
-PROV1581;Massawa;;;;;;;;;;;;;x
-
+PROV1560;Busaso;;;;;;;;;;;Áóñàñî;;x
+PROV1561;Berbera;;;;;;;;;;;Áåðáåðà;;x
+PROV1562;Zeila;;;;;;;;;;;Ñàéëà;;x
+PROV1563;Harer;;;;;;;;;;;Õàðàð;;x
+PROV1564;Tadjoura;;;;;;;;;;;Òàäæóðà;;x
+PROV1565;Assab;;;;;;;;;;;Àññàá;;x
+PROV1566;Asayita;;;;;;;;;;;Àñàéèòà;;x
+PROV1567;Ankober;;;;;;;;;;;Àíêîáåð;;x
+PROV1568;Antalo;;;;;;;;;;;Àíòàëî;;x
+PROV1569;Damot;;;;;;;;;;;Äàìîò;;x
+PROV1570;Asosa;;;;;;;;;;;Àñîñà;;x
+PROV1571;Gojjam;;;;;;;;;;;Ãîäæàì;;x
+PROV1572;Matamma;;;;;;;;;;;Ìàòàììà;;x
+PROV1573;Wag;;;;;;;;;;;Âàã;;x
+PROV1574;Lakomelza;;;;;;;;;;;Ëàêîìåëçà;;x
+PROV1575;Begemder;;;;;;;;;;;Áåãåìäûð;;x
+PROV1576;Gondar;;;;;;;;;;;Ãîíäåð;;x
+PROV1577;Semien;;;;;;;;;;;Ñûìåí;;x
+PROV1578;Tigrinya;;;;;;;;;;;Òûãðàé;;x
+PROV1579;Akordat;;;;;;;;;;;Àêîðäàò;;x
+PROV1580;Aksum;;;;;;;;;;;Àêñóì;;x
+PROV1581;Massawa;;;;;;;;;;;Ìàññàâà;;x
 # Nubia
-PROV1582;Trinkitat;;;;;;;;;;;;;x
-PROV1583;Suakin;;;;;;;;;;;;;x
-PROV1584;Hayya;;;;;;;;;;;;;x
-PROV1585;Kassala;;;;;;;;;;;;;x
-PROV1586;Gezira;;;;;;;;;;;;;x
-
-PROV1587;Sennar;;;;;;;;;;;;;x
-PROV1588;Kosti;;;;;;;;;;;;;x
-PROV1589;Darfur;;;;;;;;;;;;;x
-PROV1590;Bayuda;;;;;;;;;;;;;x
-PROV1591;Alodia;;;;;;;;;;;;;x
-
-PROV1592;Atbara;;;;;;;;;;;;;x
-PROV1593;Napata;;;;;;;;;;;;;x
-PROV1594;Makuria;;;;;;;;;;;;;x
-
-PROV1595;Nobatia;;;;;;;;;;;;;x
-PROV1596;Dotawo;;;;;;;;;;;;;x
-PROV1597;Nubia;;;;;;;;;;;;;x
-PROV1598;Aydhab;;;;;;;;;;;;;x
-
+PROV1582;Trinkitat;;;;;;;;;;;Òðèíêèòàò;;x
+PROV1583;Suakin;;;;;;;;;;;Ñóàêèí;;x
+PROV1584;Hayya;;;;;;;;;;;Õàéÿ;;x
+PROV1585;Kassala;;;;;;;;;;;Êàññàëà;;x
+PROV1586;Gezira;;;;;;;;;;;Ãåçèðà;;x
+PROV1587;Sennar;;;;;;;;;;;Ñåííàð;;x
+PROV1588;Kosti;;;;;;;;;;;Êîñòè;;x
+PROV1589;Darfur;;;;;;;;;;;Äàðôóð;;x
+PROV1590;Bayuda;;;;;;;;;;;Áàþäà;;x
+PROV1591;Alodia;;;;;;;;;;;Àëîäèÿ;;x
+PROV1592;Atbara;;;;;;;;;;;Àòáàðà;;x
+PROV1593;Napata;;;;;;;;;;;Íàïàòà;;x
+PROV1594;Makuria;;;;;;;;;;;Ìàêóðèÿ;;x
+PROV1595;Nobatia;;;;;;;;;;;Íîáàòèÿ;;x
+PROV1596;Dotawo;;;;;;;;;;;Äîòàóî;;x
+PROV1597;Nubia;;;;;;;;;;;Íóáèÿ;;x
+PROV1598;Aydhab;;;;;;;;;;;Àéäõàá;;x
 # Egypt
-PROV1599;Aswan;;;;;;;;;;;;;x
-PROV1600;al-Qusair;;;;;;;;;;;;;x
-PROV1601;Quena;;;;;;;;;;;;;x
-
-PROV1602;Kharga;;;;;;;;;;;;;x
-PROV1603;Esna;;;;;;;;;;;;;x
-PROV1604;Asyut;;;;;;;;;;;;;x
-
-PROV1605;Farafra;;;;;;;;;;;;;x
-PROV1606;Bahariya;;;;;;;;;;;;;x
-PROV1607;Faiyum;;;;;;;;;;;;;x
-
-PROV1608;Akhmim;;;;;;;;;;;;;x
-PROV1609;Cairo;;;;;;;;;;;;;x
-PROV1610;Bilbays;;;;;;;;;;;;;x
-PROV1611;Kolzum;;;;;;;;;;;;;x
-
-PROV1612;Farama;;;;;;;;;;;;;x
-PROV1613;Sinai;;;;;;;;;;;;;x
-PROV1614;Eilat;;;;;;;;;;;;;x
-PROV1615;El-Arish;;;;;;;;;;;;;x
-
-PROV1616;Tinnis;;;;;;;;;;;;;x
-PROV1617;Damietta;;;;;;;;;;;;;x
-PROV1618;El-Malhalla;;;;;;;;;;;;;x
-
-PROV1619;Rasheed;;;;;;;;;;;;;x
-PROV1620;Alexandria;;;;;;;;;;;;;x
-PROV1621;Giza;;;;;;;;;;;;;x
-PROV1622;Kharibta;;;;;;;;;;;;;x
-
-PROV1623;Siwa;;;;;;;;;;;;;x
-PROV1624;Paraetonium;;;;;;;;;;;;;x
-PROV1625;Zygra;;;;;;;;;;;;;x
-
+PROV1599;Aswan;;;;;;;;;;;Àñóàí;;x
+PROV1600;al-Qusair;;;;;;;;;;;Ýëü-Êóñåéð;;x
+PROV1601;Quena;;;;;;;;;;;Êóýíà;;x
+PROV1602;Kharga;;;;;;;;;;;Õàðãà;;x
+PROV1603;Esna;;;;;;;;;;;Ýñíà;;x
+PROV1604;Asyut;;;;;;;;;;;Àñüþò;;x
+PROV1605;Farafra;;;;;;;;;;;Ôàðàôðà;;x
+PROV1606;Bahariya;;;;;;;;;;;Áàõàðèÿ;;x
+PROV1607;Faiyum;;;;;;;;;;;Ôàéþì;;x
+PROV1608;Akhmim;;;;;;;;;;;Èõìèì;;x
+PROV1609;Cairo;;;;;;;;;;;Êàèð;;x
+PROV1610;Bilbays;;;;;;;;;;;Áèëüáåéñ;;x
+PROV1611;Kolzum;;;;;;;;;;;Êîëçóì;;x
+PROV1612;Farama;;;;;;;;;;;Ôàðàìà;;x
+PROV1613;Sinai;;;;;;;;;;;Ñèíàé;;x
+PROV1614;Eilat;;;;;;;;;;;Ýéëàò;;x
+PROV1615;El-Arish;;;;;;;;;;;Ýëü-Àðèø;;x
+PROV1616;Tinnis;;;;;;;;;;;Òèííèñ;;x
+PROV1617;Damietta;;;;;;;;;;;Äàìüåòòà;;x
+PROV1618;El-Malhalla;;;;;;;;;;;Ýëü-Ìàõàëëà;;x
+PROV1619;Rasheed;;;;;;;;;;;Ðàøèä;;x
+PROV1620;Alexandria;;;;;;;;;;;Àëåêñàíäðèÿ;;x
+PROV1621;Giza;;;;;;;;;;;Ãèçà;;x
+PROV1622;Kharibta;;;;;;;;;;;Õàðèáòà;;x
+PROV1623;Siwa;;;;;;;;;;;Êàòòàðà;;x
+PROV1624;Paraetonium;;;;;;;;;;;Ïàðàýòîíèóì;;x
+PROV1625;Zygra;;;;;;;;;;;Çèãðà;;x
 # Africa
-PROV1626;Tobruk;;;;;;;;;;;;;x
-PROV1627;Cyrenaica;;;;;;;;;;;;;x
-PROV1628;Benghazi;;;;;;;;;;;;;x
-PROV1629;Senoussi;;;;;;;;;;;;;x
-
-PROV1630;Ajadabiya;;;;;;;;;;;;;x
-PROV1631;Syrte;;;;;;;;;;;;;x
-PROV1632;Tadjrift;;;;;;;;;;;;;x
-
-PROV1633;Nafusa;;;;;;;;;;;;;x
-PROV1634;Leptis Magna;;;;;;;;;;;;;x
-PROV1635;Tripolitana;;;;;;;;;;;;;x
-PROV1636;Djerba;;;;;;;;;;;;;x
-PROV1637;Nalut;;;;;;;;;;;;;x
-
-PROV1638;Suf;;;;;;;;;;;;;x
-PROV1639;Gabes;;;;;;;;;;;;;x
-PROV1640;Gafsa;;;;;;;;;;;;;x
-
-PROV1641;Kairouan;;;;;;;;;;;;;x
-PROV1642;Mahdia;;;;;;;;;;;;;x
-PROV1643;Tunis;;;;;;;;;;;;;x
-PROV1644;Medjerda;;;;;;;;;;;;;x
-PROV1645;Bizerte;;;;;;;;;;;;;x
-
-PROV1646;Annaba;;;;;;;;;;;;;x
-PROV1647;Bejaija;;;;;;;;;;;;;x
-PROV1648;Setif;;;;;;;;;;;;;x
-PROV1649;Constantine;;;;;;;;;;;;;x
-PROV1650;Tébessa;;;;;;;;;;;;;x
-PROV1651;Biskra;;;;;;;;;;;;;x
-
-PROV1652;Arigh;;;;;;;;;;;;;x
-PROV1653;Tuggurt;;;;;;;;;;;;;x
-PROV1654;Ghardaia;;;;;;;;;;;;;x
-PROV1655;Laghouat;;;;;;;;;;;;;x
-
+PROV1626;Tobruk;;;;;;;;;;;Òîáðóê;;x
+PROV1627;Cyrenaica;;;;;;;;;;;Êèðåíàèêà;;x
+PROV1628;Benghazi;;;;;;;;;;;Áåíãàçè;;x
+PROV1629;Senoussi;;;;;;;;;;;Ñåíóññè;;x
+PROV1630;Ajadabiya;;;;;;;;;;;Àäæäàáèÿ;;x
+PROV1631;Syrte;;;;;;;;;;;Ñèðò;;x
+PROV1632;Tadjrift;;;;;;;;;;;Òàäæðèôò;;x
+PROV1633;Nafusa;;;;;;;;;;;Íàôóñà;;x
+PROV1634;Leptis Magna;;;;;;;;;;;Ëåïòèñ Ìàãíà;;x
+PROV1635;Tripolitana;;;;;;;;;;;Òðèïîëèòàíèÿ;;x
+PROV1636;Djerba;;;;;;;;;;;Äæåðáà;;x
+PROV1637;Nalut;;;;;;;;;;;Íàëóò;;x
+PROV1638;Suf;;;;;;;;;;;Ñóô;;x
+PROV1639;Gabes;;;;;;;;;;;Ãàáåñ;;x
+PROV1640;Gafsa;;;;;;;;;;;Ãàôñà;;x
+PROV1641;Kairouan;;;;;;;;;;;Êàéðóàí;;x
+PROV1642;Mahdia;;;;;;;;;;;Ìàõäèÿ;;x
+PROV1643;Tunis;;;;;;;;;;;Òóíèñ;;x
+PROV1644;Medjerda;;;;;;;;;;;Ìåäæåðäà;;x
+PROV1645;Bizerte;;;;;;;;;;;Áèçåðòà;;x
+PROV1646;Annaba;;;;;;;;;;;Àííàáà;;x
+PROV1647;Bejaija;;;;;;;;;;;Áåäæàéÿ;;x
+PROV1648;Setif;;;;;;;;;;;Ñåòèô;;x
+PROV1649;Constantine;;;;;;;;;;;Êîíñòàíòèíà;;x
+PROV1650;Tébessa;;;;;;;;;;;Òåáåññà;;x
+PROV1651;Biskra;;;;;;;;;;;Áèñêðà;;x
+PROV1652;Arigh;;;;;;;;;;;Àðèã;;x
+PROV1653;Tuggurt;;;;;;;;;;;Òóããóðò;;x
+PROV1654;Ghardaia;;;;;;;;;;;Ãàðäàéÿ;;x
+PROV1655;Laghouat;;;;;;;;;;;Ëàãóàò;;x
 # Maghreb
-PROV1656;Askedal;;;;;;;;;;;;;x
-PROV1657;Yalála;;;;;;;;;;;;;x
-PROV1658;Tahert;;;;;;;;;;;;;x
-PROV1659;Ashir;;;;;;;;;;;;;x
-
-PROV1660;Al Djazair;;;;;;;;;;;;;x
-PROV1661;Beni Yanni;;;;;;;;;;;;;x
-PROV1662;Orania;;;;;;;;;;;;;x
-
-PROV1663;Tlemcen;;;;;;;;;;;;;x
-PROV1664;Tendrara;;;;;;;;;;;;;x
-PROV1665;Wajda;;;;;;;;;;;;;x
-
-PROV1666;El Rif;;;;;;;;;;;;;x
-PROV1667;Ceuta;;;;;;;;;;;;;x
-PROV1668;Tangier;;;;;;;;;;;;;x
-
-PROV1669;Infa;;;;;;;;;;;;;x
-PROV1670;Fes;;;;;;;;;;;;;x
-PROV1671;Meknes;;;;;;;;;;;;;x
-PROV1672;Taza;;;;;;;;;;;;;x
-PROV1673;Muluja;;;;;;;;;;;;;x
-
-PROV1674;Tadla;;;;;;;;;;;;;x
-PROV1675;Anfa;;;;;;;;;;;;;x
-PROV1676;Marrakech;;;;;;;;;;;;;x
-PROV1677;Tinmallal;;;;;;;;;;;;;x
-PROV1678;Safi;;;;;;;;;;;;;x
-PROV1679;Canarias;;;;;;;;;;;;;x
-
-PROV1680;Ifni;;;;;;;;;;;;;x
-PROV1681;Sous;;;;;;;;;;;;;x
-PROV1682;Draa;;;;;;;;;;;;;x
-PROV1683;Warzazat;;;;;;;;;;;;;x
-
-PROV1684;Tudgha;;;;;;;;;;;;;x
-PROV1685;Ziz;;;;;;;;;;;;;x
-PROV1686;Sijilmasa;;;;;;;;;;;;;x
-PROV1687;Taghaza;;;;;;;;;;;;;x
-
-PROV1688;Bir Um Grein;;;;;;;;;;;;;x
-PROV1689;Ouadane;;;;;;;;;;;;;x
-
+PROV1656;Askedal;;;;;;;;;;;Àñêåäàë;;x
+PROV1657;Yalála;;;;;;;;;;;ßëàëà;;x
+PROV1658;Tahert;;;;;;;;;;;Òàõåðò;;x
+PROV1659;Ashir;;;;;;;;;;;Àøèð;;x
+PROV1660;Al Djazair;;;;;;;;;;;Àëæèð;;x
+PROV1661;Beni Yanni;;;;;;;;;;;Áåíè ßííè;;x
+PROV1662;Orania;;;;;;;;;;;Îðàí;;x
+PROV1663;Tlemcen;;;;;;;;;;;Òëåìñåí;;x
+PROV1664;Tendrara;;;;;;;;;;;Òåíäàðà;;x
+PROV1665;Wajda;;;;;;;;;;;Âàéäà;;x
+PROV1666;El Rif;;;;;;;;;;;Ýð-Ðèô;;x
+PROV1667;Ceuta;;;;;;;;;;;Ñåóòà;;x
+PROV1668;Tangier;;;;;;;;;;;Òàíæåð;;x
+PROV1669;Infa;;;;;;;;;;;Èíôà;;x
+PROV1670;Fes;;;;;;;;;;;Ôåñ;;x
+PROV1671;Meknes;;;;;;;;;;;Ìåêíåñ;;x
+PROV1672;Taza;;;;;;;;;;;Òàçà;;x
+PROV1673;Muluja;;;;;;;;;;;Ìóëóÿ;;x
+PROV1674;Tadla;;;;;;;;;;;Òàäëà;;x
+PROV1675;Anfa;;;;;;;;;;;Àíôà;;x
+PROV1676;Marrakech;;;;;;;;;;;Ìàððàêåø;;x
+PROV1677;Tinmallal;;;;;;;;;;;Òèíìàëëàë;;x
+PROV1678;Safi;;;;;;;;;;;Ñàôè;;x
+PROV1679;Canarias;;;;;;;;;;;Êàíàðñêèå î-âà;;x
+PROV1680;Ifni;;;;;;;;;;;Èôíè;;x
+PROV1681;Sous;;;;;;;;;;;Ñóñ;;x
+PROV1682;Draa;;;;;;;;;;;Äðàà;;x
+PROV1683;Warzazat;;;;;;;;;;;Âàðçàçàò;;x
+PROV1684;Tudgha;;;;;;;;;;;Ãóäãà;;x
+PROV1685;Ziz;;;;;;;;;;;Çèç;;x
+PROV1686;Sijilmasa;;;;;;;;;;;Ñèäæèëüìàñà;;x
+PROV1687;Taghaza;;;;;;;;;;;Òåãàçà;;x
+PROV1688;Bir Um Grein;;;;;;;;;;;Áèð Óì Ãðåéí;;x
+PROV1689;Ouadane;;;;;;;;;;;Óàäàí;;x
 # Ghana
-PROV1690;Tagant;;;;;;;;;;;;;x
-PROV1691;Aoudaghost;;;;;;;;;;;;;x
-
-PROV1692;Oualata;;;;;;;;;;;;;x
-PROV1693;Araouane;;;;;;;;;;;;;x
-PROV1694;Timbuktu;;;;;;;;;;;;;x
-
-PROV1695;Djenné;;;;;;;;;;;;;x
-PROV1696;Mema;;;;;;;;;;;;;x
-PROV1697;Soso;;;;;;;;;;;;;x
-PROV1698;Wagadu;;;;;;;;;;;;;x
-
+PROV1690;Tagant;;;;;;;;;;;Òàãàíã;;x
+PROV1691;Aoudaghost;;;;;;;;;;;Àóäàãîñò;;x
+PROV1692;Oualata;;;;;;;;;;;Óàëàòà;;x
+PROV1693;Araouane;;;;;;;;;;;Àðàóàí;;x
+PROV1694;Timbuktu;;;;;;;;;;;Òèìáóêòó;;x
+PROV1695;Djenné;;;;;;;;;;;Äæåííå;;x
+PROV1696;Mema;;;;;;;;;;;Ìåìà;;x
+PROV1697;Soso;;;;;;;;;;;Ñîñî;;x
+PROV1698;Wagadu;;;;;;;;;;;Âàãàäó;;x
 # Mali
-PROV1699;Diafunu;;;;;;;;;;;;;x
-PROV1700;Kantor;;;;;;;;;;;;;x
-PROV1701;Bambuk;;;;;;;;;;;;;x
-
-PROV1702;Kiri;;;;;;;;;;;;;x
-PROV1703;Bure;;;;;;;;;;;;;x
-PROV1704;Dodugu;;;;;;;;;;;;;x
-PROV1705;Niani;;;;;;;;;;;;;x
-
-PROV1706;Bobo Dyulasso;;;;;;;;;;;;;x
-PROV1707;Wagadougou;;;;;;;;;;;;;x
-PROV1708;Yatenga;;;;;;;;;;;;;x
-
+PROV1699;Diafunu;;;;;;;;;;;Äèàôóíó;;x
+PROV1700;Kantor;;;;;;;;;;;Êàíòîð;;x
+PROV1701;Bambuk;;;;;;;;;;;Áàìáóê;;x
+PROV1702;Kiri;;;;;;;;;;;Êèðè;;x
+PROV1703;Bure;;;;;;;;;;;Áóðå;;x
+PROV1704;Dodugu;;;;;;;;;;;Äîäóãó;;x
+PROV1705;Niani;;;;;;;;;;;Íüÿíè;;x
+PROV1706;Bobo Dyulasso;;;;;;;;;;;Áîáî Äüþëàññî;;x
+PROV1707;Wagadougou;;;;;;;;;;;Âîãîäîãî;;x
+PROV1708;Yatenga;;;;;;;;;;;ßòåíãà;;x
 # Songhay
-PROV1709;Kurumba;;;;;;;;;;;;;x
-PROV1710;Tadmekka;;;;;;;;;;;;;x
-PROV1711;Gao;;;;;;;;;;;;;x
-PROV1712;Songhay;;;;;;;;;;;;;x
-
-PROV1713;Dendi;;;;;;;;;;;;;x
-PROV1714;Gurma;;;;;;;;;;;;;x
-
+PROV1709;Kurumba;;;;;;;;;;;Êóðóìáà;;x
+PROV1710;Tadmekka;;;;;;;;;;;Òàäìåêêà;;x
+PROV1711;Gao;;;;;;;;;;;Ãàî;;x
+PROV1712;Songhay;;;;;;;;;;;Ñîíãàé;;x
+PROV1713;Dendi;;;;;;;;;;;Äåíäè;;x
+PROV1714;Gurma;;;;;;;;;;;Ãóðìà;;x
 # Hausaland
-PROV1715;Yuari;;;;;;;;;;;;;x
-PROV1716;Dyamare;;;;;;;;;;;;;x
-PROV1717;Tahoua;;;;;;;;;;;;;x
-PROV1718;Kebbi;;;;;;;;;;;;;x
-
-PROV1719;Zamfara;;;;;;;;;;;;;x
-PROV1720;Katsina;;;;;;;;;;;;;x
-PROV1721;Kano;;;;;;;;;;;;;x
-PROV1722;Daura;;;;;;;;;;;;;x
-PROV1723;Gobir;;;;;;;;;;;;;x
-
-PROV1724;Air;;;;;;;;;;;;;x
-PROV1725;Fachi;;;;;;;;;;;;;x
-
+PROV1715;Yuari;;;;;;;;;;;Þàðè;;x
+PROV1716;Dyamare;;;;;;;;;;;Äÿìàðå;;x
+PROV1717;Tahoua;;;;;;;;;;;Òàõóà;;x
+PROV1718;Kebbi;;;;;;;;;;;Êåááè;;x
+PROV1719;Zamfara;;;;;;;;;;;Çàìôàðà;;x
+PROV1720;Katsina;;;;;;;;;;;Êàöèíà;;x
+PROV1721;Kano;;;;;;;;;;;Êàíî;;x
+PROV1722;Daura;;;;;;;;;;;Äàóðà;;x
+PROV1723;Gobir;;;;;;;;;;;Ãîáèð;;x
+PROV1724;Air;;;;;;;;;;;Àèð;;x
+PROV1725;Fachi;;;;;;;;;;;Ôàõè;;x
 # Kanem
-PROV1726;Munio;;;;;;;;;;;;;x
-PROV1727;Bauchi;;;;;;;;;;;;;x
-PROV1728;Bornu;;;;;;;;;;;;;x
-PROV1729;Kagha;;;;;;;;;;;;;x
-PROV1730;Makari;;;;;;;;;;;;;x
-PROV1731;Masseniya;;;;;;;;;;;;;x
-
-PROV1732;Fitri;;;;;;;;;;;;;x
-PROV1733;Wadai;;;;;;;;;;;;;x
-PROV1734;Ennedi;;;;;;;;;;;;;x
-
-PROV1735;Djimi;;;;;;;;;;;;;x
-PROV1736;Manan;;;;;;;;;;;;;x
-PROV1737;Bilma;;;;;;;;;;;;;x
-
-PROV1738;Djado;;;;;;;;;;;;;x
-PROV1739;Zawila;;;;;;;;;;;;;x
-PROV1740;Murzuk;;;;;;;;;;;;;x
-
+PROV1726;Munio;;;;;;;;;;;Ìóíèî;;x
+PROV1727;Bauchi;;;;;;;;;;;Áàó÷è;;x
+PROV1728;Bornu;;;;;;;;;;;Áîðíó;;x
+PROV1729;Kagha;;;;;;;;;;;Êàãà;;x
+PROV1730;Makari;;;;;;;;;;;Ìàêàðè;;x
+PROV1731;Masseniya;;;;;;;;;;;Ìàññåíèÿ;;x
+PROV1732;Fitri;;;;;;;;;;;Ôèòðè;;x
+PROV1733;Wadai;;;;;;;;;;;Âàäàè;;x
+PROV1734;Ennedi;;;;;;;;;;;Ýííåäè;;x
+PROV1735;Djimi;;;;;;;;;;;Äæèìè;;x
+PROV1736;Manan;;;;;;;;;;;Ìàíàí;;x
+PROV1737;Bilma;;;;;;;;;;;Áèëüìà;;x
+PROV1738;Djado;;;;;;;;;;;Äæàäî;;x
+PROV1739;Zawila;;;;;;;;;;;Çàâèëà;;x
+PROV1740;Murzuk;;;;;;;;;;;Ìóðçóê;;x
 ## Wasteland
-PROV1741;Siberian Wastes;;;;;;;;;;;;;x
-PROV1742;Arakan Mountains;;;;;;;;;;;;;x
-PROV1743;Taklamakan Desert;;;;;;;;;;;;;x
-PROV1744;Kyzul-Kum Desert;;;;;;;;;;;;;x
-PROV1745;Kara-Kum Desert;;;;;;;;;;;;;x
-PROV1746;Badiyat ash Sham Desert;;;;;;;;;;;;;x
-PROV1747;Rub' al Khali Desert;;;;;;;;;;;;;x
-PROV1748;Central Africa;;;;;;;;;;;;;x
-PROV1749;Eastern Sahara;;;;;;;;;;;;;x
-PROV1750;Sahara Desert;;;;;;;;;;;;;x
-PROV1751;Adrar Plateau;;;;;;;;;;;;;x
-PROV1752;Western Sahara;;;;;;;;;;;;;x
-
+PROV1741;Siberian Wastes;;;;;;;;;;;Ñèáèðñêàÿ ãëóøü;;x
+PROV1742;Arakan Mountains;;;;;;;;;;;Àðàêàíñêèå ãîðû;;x
+PROV1743;Taklamakan Desert;;;;;;;;;;;Ïóñòûíÿ Òàêëà-Ìàêàí;;x
+PROV1744;Kyzul-Kum Desert;;;;;;;;;;;Ïóñòûíÿ Êûçûë-Êóì;;x
+PROV1745;Kara-Kum Desert;;;;;;;;;;;Ïóñòûíÿ Êàðà-Êóì;;x
+PROV1746;Badiyat ash Sham Desert;;;;;;;;;;;Ïóñòûíÿ Áàäèÿò-àø-Øàì;;x
+PROV1747;Rub' al Khali Desert;;;;;;;;;;;Ïóñòûíÿ Ðóá-ýëü-Õàëè;;x
+PROV1748;Central Africa;;;;;;;;;;;Öåíòðàëüíàÿ Àôðèêà;;x
+PROV1749;Eastern Sahara;;;;;;;;;;;Âîñòî÷íàÿ Ñàõàðà;;x
+PROV1750;Sahara Desert;;;;;;;;;;;Ïóñòûíÿ Ñàõàðà;;x
+PROV1751;Adrar Plateau;;;;;;;;;;;Ïëàòî Àäðàð;;x
+PROV1752;Western Sahara;;;;;;;;;;;Çàïàäíàÿ Ñàõàðà;;x
 ## External
-PROV1753;Silk Road;;;;;;;;;;;;;x # Jiuquan offmap node
-PROV1754;Silk Road;;;;;;;;;;;;;x # Markam offmap node
-PROV1755;Silk Road;;;;;;;;;;;;;x # Water node
-
+PROV1753;Silk Road;;;;;;;;;;;Ø¸ëêîâûé ïóòü;;x # Jiuquan offmap node
+PROV1754;Silk Road;;;;;;;;;;;Ø¸ëêîâûé ïóòü;;x # Markam offmap node
+PROV1755;Silk Road;;;;;;;;;;;Ø¸ëêîâûé ïóòü;;x # Water node
 ## Major rivers
-
 # Atlantic ocean region
-PROV1756;Don;;;;;;;;;;;;;x
-PROV1757;Don;;;;;;;;;;;;;x
-PROV1758;Don;;;;;;;;;;;;;x
-PROV1759;Don;;;;;;;;;;;;;x
-PROV1760;Dnieper;;;;;;;;;;;;;x
-PROV1761;Dnieper;;;;;;;;;;;;;x
-PROV1762;Dnieper;;;;;;;;;;;;;x
-PROV1763;Dnieper;;;;;;;;;;;;;x
-PROV1764;Dnieper;;;;;;;;;;;;;x
-PROV1765;Dnieper;;;;;;;;;;;;;x
-PROV1766;Desna;;;;;;;;;;;;;x
-PROV1767;Desna;;;;;;;;;;;;;x
-PROV1768;Desna;;;;;;;;;;;;;x
-PROV1769;Pripyat;;;;;;;;;;;;;x
-PROV1770;Pripyat;;;;;;;;;;;;;x
-PROV1771;Dniester;;;;;;;;;;;;;x
-PROV1772;Dniester;;;;;;;;;;;;;x
-PROV1773;Dniester;;;;;;;;;;;;;x
-PROV1774;Danube;;;;;;;;;;;;;x
-PROV1775;Danube;;;;;;;;;;;;;x
-PROV1776;Danube;;;;;;;;;;;;;x
-PROV1777;Danube;;;;;;;;;;;;;x
-PROV1778;Danube;;;;;;;;;;;;;x
-PROV1779;Danube;;;;;;;;;;;;;x
-PROV1780;Danube;;;;;;;;;;;;;x
-PROV1781;Danube;;;;;;;;;;;;;x
-PROV1782;Danube;;;;;;;;;;;;;x
-PROV1783;Danube;;;;;;;;;;;;;x
-PROV1784;Nile;;;;;;;;;;;;;x
-PROV1785;Nile;;;;;;;;;;;;;x
-PROV1786;Nile;;;;;;;;;;;;;x
-PROV1787;Nile;;;;;;;;;;;;;x
-PROV1788;Nile;;;;;;;;;;;;;x
-PROV1789;Nile;;;;;;;;;;;;;x
-PROV1790;Guadalquivir;;;;;;;;;;;;;x
-PROV1791;Guadalquivir;;;;;;;;;;;;;x
-PROV1792;Tago;;;;;;;;;;;;;x
-PROV1793;Tago;;;;;;;;;;;;;x
-PROV1794;Garonne;;;;;;;;;;;;;x
-PROV1795;Garonne;;;;;;;;;;;;;x
-PROV1796;Loire;;;;;;;;;;;;;x
-PROV1797;Loire;;;;;;;;;;;;;x
-PROV1798;Seine;;;;;;;;;;;;;x
-PROV1799;Seine;;;;;;;;;;;;;x
-PROV1800;Rhine;;;;;;;;;;;;;x
-PROV1801;Rhine;;;;;;;;;;;;;x
-PROV1802;Rhine;;;;;;;;;;;;;x
-PROV1803;Elbe;;;;;;;;;;;;;x
-PROV1804;Elbe;;;;;;;;;;;;;x
-PROV1805;Elbe;;;;;;;;;;;;;x
-PROV1806;Elbe;;;;;;;;;;;;;x
-PROV1807;Elbe;;;;;;;;;;;;;x
-PROV1808;Vistula;;;;;;;;;;;;;x
-PROV1809;Vistula;;;;;;;;;;;;;x
-PROV1810;Vistula;;;;;;;;;;;;;x
-PROV1811;Vistula;;;;;;;;;;;;;x
-PROV1812;Vistula;;;;;;;;;;;;;x
-PROV1813;Daugava;;;;;;;;;;;;;x
-PROV1814;Daugava;;;;;;;;;;;;;x
-
+PROV1756;Don;;;;;;;;;;;Äîí;;x
+PROV1757;Don;;;;;;;;;;;Äîí;;x
+PROV1758;Don;;;;;;;;;;;Äîí;;x
+PROV1759;Don;;;;;;;;;;;Äîí;;x
+PROV1760;Dnieper;;;;;;;;;;;Äíåïð;;x
+PROV1761;Dnieper;;;;;;;;;;;Äíåïð;;x
+PROV1762;Dnieper;;;;;;;;;;;Äíåïð;;x
+PROV1763;Dnieper;;;;;;;;;;;Äíåïð;;x
+PROV1764;Dnieper;;;;;;;;;;;Äíåïð;;x
+PROV1765;Dnieper;;;;;;;;;;;Äíåïð;;x
+PROV1766;Desna;;;;;;;;;;;Äåñíà;;x
+PROV1767;Desna;;;;;;;;;;;Äåñíà;;x
+PROV1768;Desna;;;;;;;;;;;Äåñíà;;x
+PROV1769;Pripyat;;;;;;;;;;;Ïðèïÿòü;;x
+PROV1770;Pripyat;;;;;;;;;;;Ïðèïÿòü;;x
+PROV1771;Dniester;;;;;;;;;;;Äíåñòð;;x
+PROV1772;Dniester;;;;;;;;;;;Äíåñòð;;x
+PROV1773;Dniester;;;;;;;;;;;Äíåñòð;;x
+PROV1774;Danube;;;;;;;;;;;Äóíàé;;x
+PROV1775;Danube;;;;;;;;;;;Äóíàé;;x
+PROV1776;Danube;;;;;;;;;;;Äóíàé;;x
+PROV1777;Danube;;;;;;;;;;;Äóíàé;;x
+PROV1778;Danube;;;;;;;;;;;Äóíàé;;x
+PROV1779;Danube;;;;;;;;;;;Äóíàé;;x
+PROV1780;Danube;;;;;;;;;;;Äóíàé;;x
+PROV1781;Danube;;;;;;;;;;;Äóíàé;;x
+PROV1782;Danube;;;;;;;;;;;Äóíàé;;x
+PROV1783;Danube;;;;;;;;;;;Äóíàé;;x
+PROV1784;Nile;;;;;;;;;;;Íèë;;x
+PROV1785;Nile;;;;;;;;;;;Íèë;;x
+PROV1786;Nile;;;;;;;;;;;Íèë;;x
+PROV1787;Nile;;;;;;;;;;;Íèë;;x
+PROV1788;Nile;;;;;;;;;;;Íèë;;x
+PROV1789;Nile;;;;;;;;;;;Íèë;;x
+PROV1790;Guadalquivir;;;;;;;;;;;Ýëü-Âàäè Ýëü-Êàáèð;;x
+PROV1791;Guadalquivir;;;;;;;;;;;Ýëü-Âàäè Ýëü-Êàáèð;;x
+PROV1792;Tago;;;;;;;;;;;Òàãî;;x
+PROV1793;Tago;;;;;;;;;;;Òàãî;;x
+PROV1794;Garonne;;;;;;;;;;;Ãàðîííà;;x
+PROV1795;Garonne;;;;;;;;;;;Ãàðîííà;;x
+PROV1796;Loire;;;;;;;;;;;Ëóàðà;;x
+PROV1797;Loire;;;;;;;;;;;Ëóàðà;;x
+PROV1798;Seine;;;;;;;;;;;Ñåíà;;x
+PROV1799;Seine;;;;;;;;;;;Ñåíà;;x
+PROV1800;Rhine;;;;;;;;;;;Ðåéí;;x
+PROV1801;Rhine;;;;;;;;;;;Ðåéí;;x
+PROV1802;Rhine;;;;;;;;;;;Ðåéí;;x
+PROV1803;Elbe;;;;;;;;;;;Ýëüáà;;x
+PROV1804;Elbe;;;;;;;;;;;Ýëüáà;;x
+PROV1805;Elbe;;;;;;;;;;;Ýëüáà;;x
+PROV1806;Elbe;;;;;;;;;;;Ýëüáà;;x
+PROV1807;Elbe;;;;;;;;;;;Ýëüáà;;x
+PROV1808;Vistula;;;;;;;;;;;Âèñëà;;x
+PROV1809;Vistula;;;;;;;;;;;Âèñëà;;x
+PROV1810;Vistula;;;;;;;;;;;Âèñëà;;x
+PROV1811;Vistula;;;;;;;;;;;Âèñëà;;x
+PROV1812;Vistula;;;;;;;;;;;Âèñëà;;x
+PROV1813;Daugava;;;;;;;;;;;Çàïàäíàÿ Äâèíà;;x
+PROV1814;Daugava;;;;;;;;;;;Çàïàäíàÿ Äâèíà;;x
 # These four can be configured (in default.map) to extend the Atlantic Ocean, to allow Novgorod to be a merchant republic
 # Extends from Gulf of Finland
-PROV1815;Neva;;;;;;;;;;;;;x
-PROV1816;Lake Ladoga;;;;;;;;;;;;;x
-PROV1817;Volkhov;;;;;;;;;;;;;x
-PROV1818;Lake Ilmen;;;;;;;;;;;;;x
-
-PROV1819;Dwina;;;;;;;;;;;;;x
-PROV1820;Svir;;;;;;;;;;;;;x
-PROV1821;Lake Onega;;;;;;;;;;;;;x
-PROV1822;Lovat;;;;;;;;;;;;;x
-PROV1823;Volga;;;;;;;;;;;;;x
-PROV1824;Volga;;;;;;;;;;;;;x
-PROV1825;Volga;;;;;;;;;;;;;x
-PROV1826;Volga;;;;;;;;;;;;;x
-PROV1827;Volga;;;;;;;;;;;;;x
-PROV1828;Volga;;;;;;;;;;;;;x
-PROV1829;Volga;;;;;;;;;;;;;x
-PROV1830;Volga;;;;;;;;;;;;;x
-PROV1831;Volga;;;;;;;;;;;;;x
-PROV1832;Volga;;;;;;;;;;;;;x
-PROV1833;Volga;;;;;;;;;;;;;x
-PROV1834;Oka;;;;;;;;;;;;;x
-PROV1835;Oka;;;;;;;;;;;;;x
-PROV1836;Oka;;;;;;;;;;;;;x
-PROV1837;Oka;;;;;;;;;;;;;x
-PROV1838;Moskva;;;;;;;;;;;;;x
-PROV1839;Moskva;;;;;;;;;;;;;x
-PROV1840;Kama;;;;;;;;;;;;;x
-PROV1841;Kama;;;;;;;;;;;;;x
-PROV1842;Kama;;;;;;;;;;;;;x
-
+PROV1815;Neva;;;;;;;;;;;Íåâà;;x
+PROV1816;Lake Ladoga;;;;;;;;;;;Íåâî;;x
+PROV1817;Volkhov;;;;;;;;;;;Âîëõîâ;;x
+PROV1818;Lake Ilmen;;;;;;;;;;;Èëìåðü;;x
+PROV1819;Dwina;;;;;;;;;;;Äâèíà;;x
+PROV1820;Svir;;;;;;;;;;;Ñâèðü;;x
+PROV1821;Lake Onega;;;;;;;;;;;Îíåãî;;x
+PROV1822;Lovat;;;;;;;;;;;Ëîâîòü;;x
+PROV1823;Volga;;;;;;;;;;;Âîëãà;;x
+PROV1824;Volga;;;;;;;;;;;Âîëãà;;x
+PROV1825;Volga;;;;;;;;;;;Âîëãà;;x
+PROV1826;Volga;;;;;;;;;;;Âîëãà;;x
+PROV1827;Volga;;;;;;;;;;;Âîëãà;;x
+PROV1828;Volga;;;;;;;;;;;Âîëãà;;x
+PROV1829;Volga;;;;;;;;;;;Âîëãà;;x
+PROV1830;Volga;;;;;;;;;;;Âîëãà;;x
+PROV1831;Volga;;;;;;;;;;;Âîëãà;;x
+PROV1832;Volga;;;;;;;;;;;Âîëãà;;x
+PROV1833;Volga;;;;;;;;;;;Áåëîå;;x
+PROV1834;Oka;;;;;;;;;;;Îêà;;x
+PROV1835;Oka;;;;;;;;;;;Îêà;;x
+PROV1836;Oka;;;;;;;;;;;Îêà;;x
+PROV1837;Oka;;;;;;;;;;;Îêà;;x
+PROV1838;Moskva;;;;;;;;;;;Ìîñêâà;;x
+PROV1839;Moskva;;;;;;;;;;;Ìîñêâà;;x
+PROV1840;Kama;;;;;;;;;;;Êàìà;;x
+PROV1841;Kama;;;;;;;;;;;Êàìà;;x
+PROV1842;Kama;;;;;;;;;;;Êàìà;;x
 # Indian ocean region
-PROV1843;Indus;;;;;;;;;;;;;x
-PROV1844;Indus;;;;;;;;;;;;;x
-PROV1845;Indus;;;;;;;;;;;;;x
-PROV1846;Indus;;;;;;;;;;;;;x
-PROV1847;Ganges;;;;;;;;;;;;;x
-PROV1848;Ganges;;;;;;;;;;;;;x
-PROV1849;Ganges;;;;;;;;;;;;;x
-PROV1850;Ganges;;;;;;;;;;;;;x
-PROV1851;Ganges;;;;;;;;;;;;;x
-PROV1852;Brahmaputra;;;;;;;;;;;;;x
-PROV1853;Brahmaputra;;;;;;;;;;;;;x
-
+PROV1843;Indus;;;;;;;;;;;Èíä;;x
+PROV1844;Indus;;;;;;;;;;;Èíä;;x
+PROV1845;Indus;;;;;;;;;;;Èíä;;x
+PROV1846;Indus;;;;;;;;;;;Èíä;;x
+PROV1847;Ganges;;;;;;;;;;;Ãàíã;;x
+PROV1848;Ganges;;;;;;;;;;;Ãàíã;;x
+PROV1849;Ganges;;;;;;;;;;;Ãàíã;;x
+PROV1850;Ganges;;;;;;;;;;;Ãàíã;;x
+PROV1851;Ganges;;;;;;;;;;;Ãàíã;;x
+PROV1852;Brahmaputra;;;;;;;;;;;Áðàõìàïóòðà;;x
+PROV1853;Brahmaputra;;;;;;;;;;;Áðàõìàïóòðà;;x
 ## Lakes
-
 # Ireland
-PROV1854;Lough Neagh;;;;;;;;;;;;;x
-PROV1855;Lough Erne;;;;;;;;;;;;;x
-PROV1856;Lough Mask;;;;;;;;;;;;;x
-
+PROV1854;Lough Neagh;;;;;;;;;;;Ëîõ-Íåé;;x
+PROV1855;Lough Erne;;;;;;;;;;;Ëîõ-Ýðí;;x
+PROV1856;Lough Mask;;;;;;;;;;;Ëîõ-Ìàñê;;x
 # Finland
-PROV1857;Näsijärvi;;;;;;;;;;;;;x
-PROV1858;Saimaa;;;;;;;;;;;;;x
-PROV1859;Kallavesi;;;;;;;;;;;;;x
-PROV1860;Oulujärvi;;;;;;;;;;;;;x
-PROV1861;Päijänne;;;;;;;;;;;;;x
-
+PROV1857;Näsijärvi;;;;;;;;;;;Íàñèÿðâè;;x
+PROV1858;Saimaa;;;;;;;;;;;Ñàèìàà;;x
+PROV1859;Kallavesi;;;;;;;;;;;Êàëëàâåñè;;x
+PROV1860;Oulujärvi;;;;;;;;;;;Îóëóÿðâè;;x
+PROV1861;Päijänne;;;;;;;;;;;Ïÿéÿííå;;x
 # Sweden
-PROV1862;Mälaren;;;;;;;;;;;;;x
-PROV1863;Vättern;;;;;;;;;;;;;x
-PROV1864;Vänern;;;;;;;;;;;;;x
-PROV1865;Hjälmaren;;;;;;;;;;;;;x
-
+PROV1862;Mälaren;;;;;;;;;;;Ìåëàðåí;;x
+PROV1863;Vättern;;;;;;;;;;;Âåòòåðí;;x
+PROV1864;Vänern;;;;;;;;;;;Âåíåðí;;x
+PROV1865;Hjälmaren;;;;;;;;;;;Õüåëìàðåí;;x
 # Baltic
-PROV1866;Lake Peipus;;;;;;;;;;;;;x
-
+PROV1866;Lake Peipus;;;;;;;;;;;Ïåéïñè;;x
 # Continental Europe
-PROV1867;Lake Constance;;;;;;;;;;;;;x
-PROV1868;Lake Léman;;;;;;;;;;;;;x
-
+PROV1867;Lake Constance;;;;;;;;;;;Áîäåí;;x
+PROV1868;Lake Léman;;;;;;;;;;;Ëàóçîíèé;;x
 # Eurasian steppe
-PROV1869;Aral Sea;;;;;;;;;;;;;x
-PROV1870;Lake Balkhash;;;;;;;;;;;;;x
-PROV1871;Lake Baikal;;;;;;;;;;;;;x
-PROV1872;Lake Sariqamish;;;;;;;;;;;;;x
-PROV1873;Lake Zaysan;;;;;;;;;;;;;x
-
+PROV1869;Aral Sea;;;;;;;;;;;Àðàëüñêîå ìîðå;;x
+PROV1870;Lake Balkhash;;;;;;;;;;;Ñèõàé;;x
+PROV1871;Lake Baikal;;;;;;;;;;;Õàíüõàé;;x
+PROV1872;Lake Sariqamish;;;;;;;;;;;Ñàðûêàìûø;;x
+PROV1873;Lake Zaysan;;;;;;;;;;;Æàéñàí;;x
 # Taklamakan desert
-PROV1874;Lake Lop Nor;;;;;;;;;;;;;x
-
+PROV1874;Lake Lop Nor;;;;;;;;;;;Ëîáíîð;;x
 # Levant
-PROV1875;Tiveriade Lake;;;;;;;;;;;;;x
-PROV1876;Dead Sea;;;;;;;;;;;;;x
-
+PROV1875;Tiveriade Lake;;;;;;;;;;;Êèííåðåô;;x
+PROV1876;Dead Sea;;;;;;;;;;;Ì¸ðòâîå ìîðå;;x
 # Africa
-PROV1877;Lake Chad;;;;;;;;;;;;;x
-
+PROV1877;Lake Chad;;;;;;;;;;;×àä;;x
 ## Caspian Sea ocean region
-PROV1878;Caspian Sea;;;;;;;;;;;;;x
-PROV1879;Kara-Bogaz-Gol;;;;;;;;;;;;;x
-PROV1880;Isle of Koulali;;;;;;;;;;;;;x
-PROV1881;Gulf of Astrabat;;;;;;;;;;;;;x
-PROV1882;Blue Sea;;;;;;;;;;;;;x
-PROV1883;Coast of Itil;;;;;;;;;;;;;x
-PROV1884;Agragan Riviera;;;;;;;;;;;;;x
-PROV1885;Shirvan Coast;;;;;;;;;;;;;x
-PROV1886;Balkan Gulf;;;;;;;;;;;;;x
-
+PROV1878;Caspian Sea;;;;;;;;;;;Ãèðêàíñêîå ìîðå;;x
+PROV1879;Kara-Bogaz-Gol;;;;;;;;;;;Êàðà-Áîãàç-Ãîë;;x
+PROV1880;Isle of Koulali;;;;;;;;;;;Îñòðîâ Êóëàëè;;x
+PROV1881;Gulf of Astrabat;;;;;;;;;;;Ãèðêàíñêèé çàëèâ;;x
+PROV1882;Blue Sea;;;;;;;;;;;Ì¸ðòâûé Êóëòóê;;x
+PROV1883;Coast of Itil;;;;;;;;;;;Èòèëüñêîå ïîáåðåæüå;;x
+PROV1884;Agragan Riviera;;;;;;;;;;;Àãðàõàíñêèé çàëèâ;;x
+PROV1885;Shirvan Coast;;;;;;;;;;;Øèðâàíñêîå ïîáåðåæüå;;x
+PROV1886;Balkan Gulf;;;;;;;;;;;Áàëõàíñêèé çàëèâ;;x
 ## Atlantic Ocean region
-
 # Black Sea
-PROV1887;Black Sea;;;;;;;;;;;;;x
-PROV1888;Sea of Azov;;;;;;;;;;;;;x
-PROV1889;Coast of Taurida;;;;;;;;;;;;;x
-PROV1890;Gulf of Varna;;;;;;;;;;;;;x
-PROV1891;Coast of Kolkhida;;;;;;;;;;;;;x
-PROV1892;Sea of Marmara;;;;;;;;;;;;;x
-
+PROV1887;Black Sea;;;;;;;;;;;×¸ðíîå ìîðå;;x
+PROV1888;Sea of Azov;;;;;;;;;;;Àçîâñêîå ìîðå;;x
+PROV1889;Coast of Taurida;;;;;;;;;;;Ïîáåðåæüå Òàâðèäû;;x
+PROV1890;Gulf of Varna;;;;;;;;;;;Çàëèâ Âàðíû;;x
+PROV1891;Coast of Kolkhida;;;;;;;;;;;Ïîáåðåæüå Êîëõèäû;;x
+PROV1892;Sea of Marmara;;;;;;;;;;;Ìðàìîðíîå ìîðå;;x
 # Mediterranean
-PROV1893;Western Aegean Sea;;;;;;;;;;;;;x
-PROV1894;Aegean Sea;;;;;;;;;;;;;x
-PROV1895;Cyclades;;;;;;;;;;;;;x
-PROV1896;Western Cyclades;;;;;;;;;;;;;x
-PROV1897;Cilician Sea;;;;;;;;;;;;;x
-PROV1898;Levantine Sea;;;;;;;;;;;;;x
-PROV1899;Sea of Palestine;;;;;;;;;;;;;x
-PROV1900;Eastern Mediterranean;;;;;;;;;;;;;x
-PROV1901;Nile Delta;;;;;;;;;;;;;x
-PROV1902;Coast of Egypt;;;;;;;;;;;;;x
-PROV1903;Sea of Crete;;;;;;;;;;;;;x
-PROV1904;Peloponnesian Bay;;;;;;;;;;;;;x
-PROV1905;Mediterranean Sea;;;;;;;;;;;;;x
-PROV1906;Gulf of Sidra;;;;;;;;;;;;;x
-PROV1907;Ionian Sea;;;;;;;;;;;;;x
-PROV1908;Strait of Otranto;;;;;;;;;;;;;x
-PROV1909;Adriatic Sea;;;;;;;;;;;;;x
-PROV1910;Gulf of Venice;;;;;;;;;;;;;x
-PROV1911;Golfo di Taranto;;;;;;;;;;;;;x
-PROV1912;Malta Channel;;;;;;;;;;;;;x
-PROV1913;Coast of Tripolitana;;;;;;;;;;;;;x
-PROV1914;Golfe de Hammamet;;;;;;;;;;;;;x
-PROV1915;Strait di Messina;;;;;;;;;;;;;x
-PROV1916;Golfo di Napoli;;;;;;;;;;;;;x
-PROV1917;Tyrrhenian Sea;;;;;;;;;;;;;x
-PROV1918;Coast of Sardegna;;;;;;;;;;;;;x
-PROV1919;Coast of Rome;;;;;;;;;;;;;x
-PROV1920;Ligurian Sea;;;;;;;;;;;;;x
-PROV1921;Côte d'Azur;;;;;;;;;;;;;x
-PROV1922;Mediterranean Sea;;;;;;;;;;;;;x
-PROV1923;Ponant;;;;;;;;;;;;;x
-PROV1924;Algerian Coast;;;;;;;;;;;;;x
-PROV1925;Balearic Islands;;;;;;;;;;;;;x
-PROV1926;Gulf of Lyon;;;;;;;;;;;;;x
-PROV1927;Gulf of Valencia;;;;;;;;;;;;;x
-PROV1928;Western Mediterranean;;;;;;;;;;;;;x
-PROV1929;Mauretanian Coast;;;;;;;;;;;;;x
-PROV1930;Strait of Gibraltar;;;;;;;;;;;;;x
-
+PROV1893;Western Aegean Sea;;;;;;;;;;;Çàïàä Ýãåéñêîãî ìîðÿ;;x
+PROV1894;Aegean Sea;;;;;;;;;;;Ýãåéñêîå ìîðå;;x
+PROV1895;Cyclades;;;;;;;;;;;Êèêëàäû;;x
+PROV1896;Western Cyclades;;;;;;;;;;;Çàïàäíûå Êèêëàäû;;x
+PROV1897;Cilician Sea;;;;;;;;;;;Êèëèêèéñêîå ìîðå;;x
+PROV1898;Levantine Sea;;;;;;;;;;;Ëåâàíòèéñêîå ìîðå;;x
+PROV1899;Sea of Palestine;;;;;;;;;;;Ïîáåðåæüå Ïàëåñòèíû;;x
+PROV1900;Eastern Mediterranean;;;;;;;;;;;Âîñòî÷íîå Ñðåäèçåìíîìîðüå;;x
+PROV1901;Nile Delta;;;;;;;;;;;Äåëüòà Íèëà;;x
+PROV1902;Coast of Egypt;;;;;;;;;;;Ïîáåðåæüå Åãèïòà;;x
+PROV1903;Sea of Crete;;;;;;;;;;;Ïîáåðåæüå Êðèòà;;x
+PROV1904;Peloponnesian Bay;;;;;;;;;;;Ïåëîïîííåññêèé çàëèâ;;x
+PROV1905;Mediterranean Sea;;;;;;;;;;;Ñðåäèçåìíîå ìîðå;;x
+PROV1906;Gulf of Sidra;;;;;;;;;;;Áîëüøîé Ñèðò;;x
+PROV1907;Ionian Sea;;;;;;;;;;;Èîíè÷åñêîå ìîðå;;x
+PROV1908;Strait of Otranto;;;;;;;;;;;Ïðîëèâ Ãèäðóíòóìà;;x
+PROV1909;Adriatic Sea;;;;;;;;;;;Àäðèàòè÷åñêîå ìîðå;;x
+PROV1910;Gulf of Venice;;;;;;;;;;;Âåíåöèàíñêèé çàëèâ;;x
+PROV1911;Golfo di Taranto;;;;;;;;;;;Çàëèâ Òàðåíòà;;x
+PROV1912;Malta Channel;;;;;;;;;;;Ìàëüòèéñêèé ïðîëèâ;;x
+PROV1913;Coast of Tripolitana;;;;;;;;;;;Ïîáåðåæüå Òðèïîëèòàíèè;;x
+PROV1914;Golfe de Hammamet;;;;;;;;;;;Çàëèâ Õàììàìåò;;x
+PROV1915;Strait di Messina;;;;;;;;;;;Ìåññèíñêèé ïðîëèâ;;x
+PROV1916;Golfo di Napoli;;;;;;;;;;;Íåàïîëèòàíñêèé çàëèâ;;x
+PROV1917;Tyrrhenian Sea;;;;;;;;;;;Òèððåíñêîå ìîðå;;x
+PROV1918;Coast of Sardegna;;;;;;;;;;;Ïîáåðåæüå Ñàðäèíèè;;x
+PROV1919;Coast of Rome;;;;;;;;;;;Ïîáåðåæüå Ðèìà;;x
+PROV1920;Ligurian Sea;;;;;;;;;;;Ëèãóðèéñêîå ìîðå;;x
+PROV1921;Côte d'Azur;;;;;;;;;;;Ïîáåðåæüå Ïðîâàíñà;;x
+PROV1922;Mediterranean Sea;;;;;;;;;;;Ñðåäèçåìíîìîðüå;;x
+PROV1923;Ponant;;;;;;;;;;;Ïîíàí;;x
+PROV1924;Algerian Coast;;;;;;;;;;;Àëæèðñêîå ïîáåðåæüå;;x
+PROV1925;Balearic Islands;;;;;;;;;;;Áàëåàðñêèå î-âà;;x
+PROV1926;Gulf of Lyon;;;;;;;;;;;Ëèîíñêèé çàëèâ;;x
+PROV1927;Gulf of Valencia;;;;;;;;;;;Âàëåíñèéñêèé çàëèâ;;x
+PROV1928;Western Mediterranean;;;;;;;;;;;Çàïàäíîå Ñðåäèçåìíîìîðüå;;x
+PROV1929;Mauretanian Coast;;;;;;;;;;;Ïîáåðåæüå Ìàâðèòàíèè;;x
+PROV1930;Strait of Gibraltar;;;;;;;;;;;Ïðîëèâ Äæåáåëü;;x
 # Atlantic Ocean
-PROV1931;Coast of Morocco;;;;;;;;;;;;;x
-PROV1932;Sea of Canarias;;;;;;;;;;;;;x
-PROV1933;Golfo de Cadiz;;;;;;;;;;;;;x
-PROV1934;Portugal Coast;;;;;;;;;;;;;x
-PROV1935;Cabo de Finisterre;;;;;;;;;;;;;x
-PROV1936;Bay of Biscay;;;;;;;;;;;;;x
-PROV1937;Coast of Asturias;;;;;;;;;;;;;x
-PROV1938;Cantabrian Sea;;;;;;;;;;;;;x
-PROV1939;Coast of Aquitaine;;;;;;;;;;;;;x
-PROV1940;Armorican Coast;;;;;;;;;;;;;x
-PROV1941;Bretagne Coast;;;;;;;;;;;;;x
-PROV1942;Celtic Sea;;;;;;;;;;;;;x
-PROV1943;Bantry Bay;;;;;;;;;;;;;x
-PROV1944;Donegal Bay;;;;;;;;;;;;;x
-PROV1945;The Minch;;;;;;;;;;;;;x
-PROV1946;Irish Sea;;;;;;;;;;;;;x
-PROV1947;St. George's Channel;;;;;;;;;;;;;x
-PROV1948;Land's End;;;;;;;;;;;;;x
-PROV1949;Îles de la Manche;;;;;;;;;;;;;x
-PROV1950;Baie de la Seine;;;;;;;;;;;;;x
-PROV1951;The Solent;;;;;;;;;;;;;x
-PROV1952;Strait of Dover;;;;;;;;;;;;;x
-PROV1953;The Wash;;;;;;;;;;;;;x
-PROV1954;Dogger Bank;;;;;;;;;;;;;x
-PROV1955;Firth of Forth;;;;;;;;;;;;;x
-PROV1956;Moray Firth;;;;;;;;;;;;;x
-PROV1957;Faroya;;;;;;;;;;;;;x
-PROV1958;Southern Coast of Iceland;;;;;;;;;;;;;x
-PROV1959;Western Coast of Iceland;;;;;;;;;;;;;x
-PROV1960;Northern Coast of Iceland;;;;;;;;;;;;;x
-PROV1961;North Atlantic;;;;;;;;;;;;;x
-PROV1962;Sea of Shetland;;;;;;;;;;;;;x
-PROV1963;North Sea;;;;;;;;;;;;;x
-PROV1964;North Sea;;;;;;;;;;;;;x
-PROV1965;Waddenzee;;;;;;;;;;;;;x
-PROV1966;Gulf of Heligoland;;;;;;;;;;;;;x
-PROV1967;Kattegat;;;;;;;;;;;;;x
-PROV1968;The Sound;;;;;;;;;;;;;x
-PROV1969;Gulf of Danzig;;;;;;;;;;;;;x
-PROV1970;Bight of Hanö;;;;;;;;;;;;;x
-PROV1971;Baltic Sea;;;;;;;;;;;;;x
-PROV1972;Sea of Åland;;;;;;;;;;;;;x
-PROV1973;Gulf of Bothnia;;;;;;;;;;;;;x
-PROV1974;Gulf of Bothnia;;;;;;;;;;;;;x
-PROV1975;Gulf of Finland;;;;;;;;;;;;;x
-PROV1976;North Sea;;;;;;;;;;;;;x
-PROV1977;North Sea;;;;;;;;;;;;;x
-PROV1978;North Sea;;;;;;;;;;;;;x
-PROV1979;North Sea;;;;;;;;;;;;;x
-PROV1980;North Atlantic;;;;;;;;;;;;;x
-PROV1981;White Sea;;;;;;;;;;;;;x
-PROV1982;Chosha Bay;;;;;;;;;;;;;x
-PROV1983;Arctic Sea;;;;;;;;;;;;;x
-
+PROV1931;Coast of Morocco;;;;;;;;;;;Ïîáåðåæüå Ìàðîêêî;;x
+PROV1932;Sea of Canarias;;;;;;;;;;;Êàíàðñêîå ìîðå;;x
+PROV1933;Golfo de Cadiz;;;;;;;;;;;Êàäèññêèé çàëèâ;;x
+PROV1934;Portugal Coast;;;;;;;;;;;Ïîáåðåæüå Ãàëèñèè;;x
+PROV1935;Cabo de Finisterre;;;;;;;;;;;Ìûñ Ôèíèñòåðð;;x
+PROV1936;Bay of Biscay;;;;;;;;;;;Áèñêàéñêèé çàëèâ;;x
+PROV1937;Coast of Asturias;;;;;;;;;;;Ïîáåðåæüå Àñòóðèè;;x
+PROV1938;Cantabrian Sea;;;;;;;;;;;Êàíòàáðèéñêîå ìîðå;;x
+PROV1939;Coast of Aquitaine;;;;;;;;;;;Ïîáåðåæüå Àêâèòàíèè;;x
+PROV1940;Armorican Coast;;;;;;;;;;;Àðìîðèêàíñêîå ïîáåðåæüå;;x
+PROV1941;Bretagne Coast;;;;;;;;;;;Ïîáåðåæüå Áðåòàíè;;x
+PROV1942;Celtic Sea;;;;;;;;;;;Êåëüòñêîå ìîðå;;x
+PROV1943;Bantry Bay;;;;;;;;;;;Áóõòà Áåíòðè;;x
+PROV1944;Donegal Bay;;;;;;;;;;;Áóõòà Äîíåãîë;;x
+PROV1945;The Minch;;;;;;;;;;;Ìèíñ;;x
+PROV1946;Irish Sea;;;;;;;;;;;Èðëàíäñêîå ìîðå;;x
+PROV1947;St. George's Channel;;;;;;;;;;;Ïðîëèâ Ñâ. Ãåîðãà;;x
+PROV1948;Land's End;;;;;;;;;;;Ëýíäñ-Ýíä;;x
+PROV1949;Îles de la Manche;;;;;;;;;;;Ëåíóðèéñêèå î-âà;;x
+PROV1950;Baie de la Seine;;;;;;;;;;;Ñåíñêèé çàëèâ;;x
+PROV1951;The Solent;;;;;;;;;;;Ñîëåíò;;x
+PROV1952;Strait of Dover;;;;;;;;;;;Ëà-Ìàíø;;x
+PROV1953;The Wash;;;;;;;;;;;Óîø;;x
+PROV1954;Dogger Bank;;;;;;;;;;;Äîããåð-áàíêà;;x
+PROV1955;Firth of Forth;;;;;;;;;;;Ôåðò-îô-Ôîðò;;x
+PROV1956;Moray Firth;;;;;;;;;;;Ìîðè-Ôåðò;;x
+PROV1957;Faroya;;;;;;;;;;;Ôàðîÿ;;x
+PROV1958;Southern Coast of Iceland;;;;;;;;;;;Þæíîå ïîáåðåæüå Èñëàíäèè;;x
+PROV1959;Western Coast of Iceland;;;;;;;;;;;Çàïàäíîå ïîáåðåæüå Èñëàíäèè;;x
+PROV1960;Northern Coast of Iceland;;;;;;;;;;;Ñåâåðíîå ïîáåðåæüå Èñëàíäèè;;x
+PROV1961;North Atlantic;;;;;;;;;;;Ëåäîâèòîå ìîðå;;x
+PROV1962;Sea of Shetland;;;;;;;;;;;Øåòëàíäñêîå ìîðå;;x
+PROV1963;North Sea;;;;;;;;;;;Ñåâåðíîå ìîðå;;x
+PROV1964;North Sea;;;;;;;;;;;Ñåâåðíîå ìîðå;;x
+PROV1965;Waddenzee;;;;;;;;;;;Áàòàâñêîå ìîðå;;x
+PROV1966;Gulf of Heligoland;;;;;;;;;;;Ãåëüãîëàíäñêèé çàëèâ;;x
+PROV1967;Kattegat;;;;;;;;;;;Êàòòåãàò;;x
+PROV1968;The Sound;;;;;;;;;;;Çóíä;;x
+PROV1969;Gulf of Danzig;;;;;;;;;;;Äàíöèãñêèé çàëèâ;;x
+PROV1970;Bight of Hanö;;;;;;;;;;;Áóõòà Õàíå;;x
+PROV1971;Baltic Sea;;;;;;;;;;;Áàëòèéñêîå ìîðå;;x
+PROV1972;Sea of Åland;;;;;;;;;;;Àëàíäñêîå ìîðå;;x
+PROV1973;Gulf of Bothnia;;;;;;;;;;;Áîòíè÷åñêèé çàëèâ;;x
+PROV1974;Gulf of Bothnia;;;;;;;;;;;Áîòíè÷åñêèé çàëèâ;;x
+PROV1975;Gulf of Finland;;;;;;;;;;;Ôèíñêèé çàëèâ;;x
+PROV1976;North Sea;;;;;;;;;;;Ñåâåðíîå ìîðå;;x
+PROV1977;North Sea;;;;;;;;;;;Ñåâåðíîå ìîðå;;x
+PROV1978;North Sea;;;;;;;;;;;Ñåâåðíîå ìîðå;;x
+PROV1979;North Sea;;;;;;;;;;;Ñåâåðíîå ìîðå;;x
+PROV1980;North Atlantic;;;;;;;;;;;Ëåäîâèòîå ìîðå;;x
+PROV1981;White Sea;;;;;;;;;;;Ñîëîâåöêîå ìîðå;;x
+PROV1982;Chosha Bay;;;;;;;;;;;×¸øñêàÿ ãóáà;;x
+PROV1983;Arctic Sea;;;;;;;;;;;Çàïàä Àðêòè÷åñêîãî ìîðÿ;;x
 ## Indian Ocean region
-PROV1984;Sea of Calm;;;;;;;;;;;;;x
-PROV1985;Northern Red Sea;;;;;;;;;;;;;x
-PROV1986;Central Red Sea;;;;;;;;;;;;;x
-PROV1987;Southern Red Sea;;;;;;;;;;;;;x
-PROV1988;Strait of Mandeb;;;;;;;;;;;;;x
-PROV1989;Gulf of Aden;;;;;;;;;;;;;x
-PROV1990;Horn of Africa;;;;;;;;;;;;;x
-PROV1991;Coast of Dhofar;;;;;;;;;;;;;x
-PROV1992;Southern Coast of Oman;;;;;;;;;;;;;x
-PROV1993;Coast of Muscat;;;;;;;;;;;;;x
-PROV1994;Gulf of Oman;;;;;;;;;;;;;x
-PROV1995;Strait of Hormuz;;;;;;;;;;;;;x
-PROV1996;Eastern Persian Gulf;;;;;;;;;;;;;x
-PROV1997;Western Persian Gulf;;;;;;;;;;;;;x
-PROV1998;Coast of Makran;;;;;;;;;;;;;x
-PROV1999;Arabian Sea;;;;;;;;;;;;;x
-PROV2000;Indus Delta;;;;;;;;;;;;;x
-PROV2001;Gulf of Kutch;;;;;;;;;;;;;x
-PROV2002;Coast of Gujarat;;;;;;;;;;;;;x
-PROV2003;Coast of Konkan;;;;;;;;;;;;;x
-PROV2004;Coast of Malabar;;;;;;;;;;;;;x
-PROV2005;Karnataka Coast;;;;;;;;;;;;;x
-PROV2006;Gulf of Mannar;;;;;;;;;;;;;x
-PROV2007;South Lanka Coast;;;;;;;;;;;;;x
-PROV2008;North Lanka Coast;;;;;;;;;;;;;x
-PROV2009;Palk Strait;;;;;;;;;;;;;x
-PROV2010;South Coromandel Coast;;;;;;;;;;;;;x
-PROV2011;North Coromandel Coast;;;;;;;;;;;;;x
-PROV2012;Coast of Orissa;;;;;;;;;;;;;x
-PROV2013;Coast of Kataka;;;;;;;;;;;;;x
-PROV2014;Ganges Delta;;;;;;;;;;;;;x
+PROV1984;Sea of Calm;;;;;;;;;;;Ìîðå Ñïîêîéñòâèÿ;;x
+PROV1985;Northern Red Sea;;;;;;;;;;;Ñåâåð Êðàñíîãî ìîðÿ;;x
+PROV1986;Central Red Sea;;;;;;;;;;;Öåíòð Êðàñíîãî ìîðÿ;;x
+PROV1987;Southern Red Sea;;;;;;;;;;;Þã Êðàñíîãî ìîðÿ;;x
+PROV1988;Strait of Mandeb;;;;;;;;;;;Ïðîëèâ Ìàíäåá;;x
+PROV1989;Gulf of Aden;;;;;;;;;;;Àäåíñêèé çàëèâ;;x
+PROV1990;Horn of Africa;;;;;;;;;;;Àôðèêàíñêèé Ðîã;;x
+PROV1991;Coast of Dhofar;;;;;;;;;;;Ïîáåðåæüå Äîôàðà;;x
+PROV1992;Southern Coast of Oman;;;;;;;;;;;Þæíîå ïîáåðåæüå Îìàíà;;x
+PROV1993;Coast of Muscat;;;;;;;;;;;Ïîáåðåæüå Ìàñêàòà;;x
+PROV1994;Gulf of Oman;;;;;;;;;;;Îìàíñêèé çàëèâ;;x
+PROV1995;Strait of Hormuz;;;;;;;;;;;Îðìóçñêèé ïðîëèâ;;x
+PROV1996;Eastern Persian Gulf;;;;;;;;;;;Âîñòîê Ïåðñèäñêîãî çàëèâà;;x
+PROV1997;Western Persian Gulf;;;;;;;;;;;Çàïàä Ïåðñèäñêîãî çàëèâà;;x
+PROV1998;Coast of Makran;;;;;;;;;;;Ïîáåðåæüå Ìåêðàíà;;x
+PROV1999;Arabian Sea;;;;;;;;;;;Àðàâèéñêîå ìîðå;;x
+PROV2000;Indus Delta;;;;;;;;;;;Äåëüòà Èíäà;;x
+PROV2001;Gulf of Kutch;;;;;;;;;;;Çàëèâ Êà÷;;x
+PROV2002;Coast of Gujarat;;;;;;;;;;;Ïîáåðåæüå Ãóäæàðàòà;;x
+PROV2003;Coast of Konkan;;;;;;;;;;;Êîíêàíñêèé áåðåã;;x
+PROV2004;Coast of Malabar;;;;;;;;;;;Ìàëàáàðñêèé áåðåã;;x
+PROV2005;Karnataka Coast;;;;;;;;;;;Ïîáåðåæüå Êàðíàòàêè;;x
+PROV2006;Gulf of Mannar;;;;;;;;;;;Çàëèâ Ìàííàð;;x
+PROV2007;South Lanka Coast;;;;;;;;;;;Þæíîå ïîáåðåæüå Ëàíêè;;x
+PROV2008;North Lanka Coast;;;;;;;;;;;Ñåâåðíîå ïîáåðåæüå Ëàíêè;;x
+PROV2009;Palk Strait;;;;;;;;;;;Ïîëêñêèé ïðîëèâ;;x
+PROV2010;South Coromandel Coast;;;;;;;;;;;Þæíûé Êîðîìàíäåëüñêèé áåðåã;;x
+PROV2011;North Coromandel Coast;;;;;;;;;;;Ñåâåðíûé Êîðîìàíäåëüñêèé áåðåã;;x
+PROV2012;Coast of Orissa;;;;;;;;;;;Ïîáåðåæüå Îðèññû;;x
+PROV2013;Coast of Kataka;;;;;;;;;;;Ïîáåðåæüå Êàòàêè;;x
+PROV2014;Ganges Delta;;;;;;;;;;;Äåëüòà Ãàíãà;;x

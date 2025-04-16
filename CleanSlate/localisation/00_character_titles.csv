@@ -1,92 +1,92 @@
-archduchy_foa;Your Majesty;;;;;;;;;;;;;x
-archduchy_prefix;Archduchy of;;;;;;;;;;;;;x
-archduchy_title;Archduke;;;;;;;;;;;;;x
-archduchy_title_female;Archduchess;;;;;;;;;;;;;x
-BASILEUS_TITLE;Basileus;;;;;;;;;;;;;x
-BASILEUS_TITLE_FEMALE;Basilissa;;;;;;;;;;;;;x
-CALIPH;Caliph;;;;;;;;;;;;;x
-CALIPH_FOA;Your Imperial Majesty;;;;;;;;;;;;;x
-CALIPHA;Calipha;;;;;;;;;;;;;x
-CAPTAIN;Captain;;;;;;;;;;;;;x
-CAPTAIN_FEMALE;Captain;;;;;;;;;;;;;x
-CAPTAIN_FOA;Captain;;;;;;;;;;;;;x
-CHERNOBAN;Chernoban;;;;;;;;;;;;;x
-CHILD_CRUSADER;Puer;;;;;;;;;;;;;x
-CHILD_CRUSADER_FEM;Puera;;;;;;;;;;;;;x
-CHILD_CRUSADER_FOA;Puer;;;;;;;;;;;;;x
-CIHUATLATOANI;Cihuatlatoani;;;;;;;;;;;;;x
-CONDOTTIERO;Condottiere;;;;;;;;;;;;;x
-CONDOTTIERO_FOA;Condottiere;;;;;;;;;;;;;x
-COPTIC_POPE;Coptic Pope;;;;;;;;;;;;;x
-DEDEBABA;Dedebaba;;;;;;;;;;;;;x
-domestic;Domestic;;;;;;;;;;;;;x
-domestic_byzantine;Domestikos;;;;;;;;;;;;;x
-domestic_female;Domestic;;;;;;;;;;;;;x
-domestic_FOA;Domestic;;;;;;;;;;;;;x
-domestic_latin;Domesticus;;;;;;;;;;;;;x
-ECUMENICAL_PATRIARCH;Ecumenical Patriarch;;;;;;;;;;;;;x
-ECUMENICAL_PATRIARCH_FOA;Your Holiness;;;;;;;;;;;;;x
-FIRST_VAIDILA;First Vaidila;;;;;;;;;;;;;x
-FIRST_VAIDILUTE;First Vaidilute;;;;;;;;;;;;;x
-FYLKIR;Fylkir;;;;;;;;;;;;;x
-FYLKIR_FOA;Your Holiness;;;;;;;;;;;;;x
-FYLKJA;Fylkja;;;;;;;;;;;;;x
-GRAND_DUCHY_PREFIX;Grand Duchy of;;;;;;;;;;;;;x
-GRAND_DUCHY_RULER;Grand Duke;;;;;;;;;;;;;x
-GRAND_DUCHY_RULER_FEMALE;Grand Duchess;;;;;;;;;;;;;x
-GRANDHEADMASTER;Grand Headmaster;;;;;;;;;;;;;x
-GRANDHEADMASTER_FOA;Your Excellency;;;;;;;;;;;;;x
-GRANDMASTER;Grandmaster;;;;;;;;;;;;;x
-GRANDMASTER_FOA;Your Excellency;;;;;;;;;;;;;x
-HEAD_AFRICAN_PRIEST;Grand Saltigue;;;;;;;;;;;;;x
-HEAD_AFRICAN_PRIESTESS;Grand Saltigue;;;;;;;;;;;;;x
-HEAD_DALAI_LAMA;Dalai Lama;;;;;;;;;;;;;x
-HEAD_KOHEN_GADOL;Kohen Gadol;;;;;;;;;;;;;x
-HEAD_MOABADAN_MOABAD;Moabadan-Moabad;;;;;;;;;;;;;x
-HEAD_PRIEST;High Priest;;;;;;;;;;;;;x
-HEAD_PRIEST_FOA;Your Holiness;;;;;;;;;;;;;x
-HEAD_PRIESTESS;High Priestess;;;;;;;;;;;;;x
-HEAD_ZUN_PRIEST;Dastur;;;;;;;;;;;;;x
-HEAD_ZUN_PRIESTESS;Dastur;;;;;;;;;;;;;x
-HIGH_CHIEF;High Chief;;;;;;;;;;;;;x
-HIGH_CHIEF_FOA;High Chief;;;;;;;;;;;;;x
-HOCHMEISTER;Hochmeister;;;;;;;;;;;;;x
-HOCHMEISTER_FOA;Your Excellency;;;;;;;;;;;;;x
-IMAM;Imam;;;;;;;;;;;;;x
-IMAM_FOA;Your Highness;;;;;;;;;;;;;x
-KING;King;;;;;;;;;;;;;x
-MEGASTRATEGISSA;Megastrategissa;;;;;;;;;;;;;x
-MEGASTRATEGOS;Megastrategos;;;;;;;;;;;;;x
-MONOPHYSITE_POPE;Monophysite Pope;;;;;;;;;;;;;x
-MONOTHELITE_PATRIARCH;Monothelite Patriarch;;;;;;;;;;;;;x
-PATRIARCH_CAP;Patriarch;;;;;;;;;;;;;x
-PATRIARCH_IN_THE_EAST;Patriarch of the East;;;;;;;;;;;;;x
-PAULICIAN_PATRIARCH;Paulician Patriarch;;;;;;;;;;;;;x
-PONTIFEX_MAXIMA;Pontifex Maxima;;;;;;;;;;;;;x
-PONTIFEX_MAXIMUS;Pontifex Maximus;;;;;;;;;;;;;x
-POPE;Pope;;;;;;;;;;;;;x
-POPE_FOA;Your Holiness;;;;;;;;;;;;;x
-PRINCE_BISHOP;Prince-Bishop;;;;;;;;;;;;;x
-PRINCE_BISHOP_FOA;Your Excellency;;;;;;;;;;;;;x
-principality_foa;Your Majesty;;;;;;;;;;;;;x
-principality_prefix;Principality of;;;;;;;;;;;;;x
-principality_title;Prince;;;;;;;;;;;;;x
-principality_title_female;Princess;;;;;;;;;;;;;x
-QUEEN;Queen;;;;;;;;;;;;;x
-RECTOR_TITLE;Rector;;;;;;;;;;;;;x
-RECTOR_TITLE_FEMALE;Rector;;;;;;;;;;;;;x
-SAMRAJNI_CHAKRAVARTIN;Samrajni Chakravartin;;;;;;;;;;;;;x
-SAMRAT_CHAKRAVARTIN;Samrat Chakravartin;;;;;;;;;;;;;x
-SHEIKH;Sheikh;;;;;;;;;;;;;x
-SHEIKHA;Sheikha;;;;;;;;;;;;;x
-TENGRIKIZ;Tengrikiz;;;;;;;;;;;;;x
-TENGRIKUT;Tengrikut;;;;;;;;;;;;;x
-TIETAJA;Tietaja;;;;;;;;;;;;;x
-TLATOANI;Tlatoani;;;;;;;;;;;;;x
-VELKY_VOLHV;Velký Volhv;;;;;;;;;;;;;x
-WARCHIEF;Warchief;;;;;;;;;;;;;x
-WARCHIEF_FOA;Master;;;;;;;;;;;;;x
-WESTERN_GOVERNOR_FEMALE;Protector General;;;;;;;;;;;;;x
-WESTERN_GOVERNOR_MALE;Protector General;;;;;;;;;;;;;x
-WESTERN_GOVERNOR_TITLE_FOA;Your Illustriousness;;;;;;;;;;;;;x
-YAMAG;Yamag;;;;;;;;;;;;;x
+archduchy_foa;Your Majesty;;;;;;;;;;;Âàøå Âåëè÷åñòâî;;x
+archduchy_prefix;Archduchy of;;;;;;;;;;;Ýðöãåðöîãñòâî;;x
+archduchy_title;Archduke;;;;;;;;;;;Ýðöãåðöîã;;x
+archduchy_title_female;Archduchess;;;;;;;;;;;Ýðöãåðöîãèíÿ;;x
+BASILEUS_TITLE;Basileus;;;;;;;;;;;Áàçèëåâñ;;x
+BASILEUS_TITLE_FEMALE;Basilissa;;;;;;;;;;;Áàçèëèñà;;x
+CALIPH;Caliph;;;;;;;;;;;Õàëèô;;x
+CALIPH_FOA;Your Imperial Majesty;;;;;;;;;;;Âàøå Âåëè÷åñòâî;;x
+CALIPHA;Calipha;;;;;;;;;;;Õàëèôà;;x
+CAPTAIN;Captain;;;;;;;;;;;Êàïèòàí;;x
+CAPTAIN_FEMALE;Captain;;;;;;;;;;;Ëåäè-Êîìàíäóþùàÿ;;x
+CAPTAIN_FOA;Captain;;;;;;;;;;;Êàïèòàí;;x
+CHERNOBAN;Chernoban;;;;;;;;;;;×¸ðíîáàí;;x
+CHILD_CRUSADER;Puer;;;;;;;;;;;Ïóåð;;x
+CHILD_CRUSADER_FEM;Puera;;;;;;;;;;;Ïóåðà;;x
+CHILD_CRUSADER_FOA;Puer;;;;;;;;;;;Ïóåð;;x
+CIHUATLATOANI;Cihuatlatoani;;;;;;;;;;;×èõóàòëàòîàíè;;x
+CONDOTTIERO;Condottiere;;;;;;;;;;;Êîíäîòüåð;;x
+CONDOTTIERO_FOA;Condottiere;;;;;;;;;;;Êîíäîòüåð;;x
+COPTIC_POPE;Coptic Pope;;;;;;;;;;;Êîïòñêèé Ïàïà;;x
+DEDEBABA;Dedebaba;;;;;;;;;;;Äåäåáàáà;;x
+domestic;Domestic;;;;;;;;;;;Äîìåñòèê;;x
+domestic_byzantine;Domestikos;;;;;;;;;;;Äîìåñòèê;;x
+domestic_female;Domestic;;;;;;;;;;;Äîìåñòèê;;x
+domestic_FOA;Domestic;;;;;;;;;;;Äîìåñòèê;;x
+domestic_latin;Domesticus;;;;;;;;;;;Äîìåñòèê;;x
+ECUMENICAL_PATRIARCH;Ecumenical Patriarch;;;;;;;;;;;Âñåëåíñêèé ïàòðèàðõ;;x
+ECUMENICAL_PATRIARCH_FOA;Your Holiness;;;;;;;;;;;Âàøå Ñâÿòåéøåñòâî;;x
+FIRST_VAIDILA;First Vaidila;;;;;;;;;;;Ïåðâûé âàéäåëîò;;x
+FIRST_VAIDILUTE;First Vaidilute;;;;;;;;;;;Ïåðâàÿ âàéäèëóòà;;x
+FYLKIR;Fylkir;;;;;;;;;;;Ôþëüêèð;;x
+FYLKIR_FOA;Your Holiness;;;;;;;;;;;Âàøà Ñâÿòîñòü;;x
+FYLKJA;Fylkja;;;;;;;;;;;Ôþëüêüÿ;;x
+GRAND_DUCHY_PREFIX;Grand Duchy of;;;;;;;;;;;Âåëèêîå êóðôþðøåñòâî;;x
+GRAND_DUCHY_RULER;Grand Duke;;;;;;;;;;;Âåëèêèé êóðôþðñò;;x
+GRAND_DUCHY_RULER_FEMALE;Grand Duchess;;;;;;;;;;;Âåëèêàÿ êíÿãèíÿ-âûáîðùèöà;;x
+GRANDHEADMASTER;Grand Headmaster;;;;;;;;;;;Âåëèêèé ìàñòåð;;x
+GRANDHEADMASTER_FOA;Your Excellency;;;;;;;;;;;Âàøå ïðåâîñõîäèòåëüñòâî;;x
+GRANDMASTER;Grandmaster;;;;;;;;;;;Âåëèêèé ìàãèñòð;;x
+GRANDMASTER_FOA;Your Excellency;;;;;;;;;;;Âàøå ïðåâîñõîäèòåëüñòâî;;x
+HEAD_AFRICAN_PRIEST;Grand Saltigue;;;;;;;;;;;Âåëèêèé Ñàëòèã;;x
+HEAD_AFRICAN_PRIESTESS;Grand Saltigue;;;;;;;;;;;Âåëèêàÿ Ñàëòèã;;x
+HEAD_DALAI_LAMA;Dalai Lama;;;;;;;;;;;Äàëàé Ëàìà;;x
+HEAD_KOHEN_GADOL;Kohen Gadol;;;;;;;;;;;Êîýí Ãàäîëü;;x
+HEAD_MOABADAN_MOABAD;Moabadan-Moabad;;;;;;;;;;;Ìîáåäàí-Ìîáåä;;x
+HEAD_PRIEST;High Priest;;;;;;;;;;;Ïåðâîñâÿùåííèê;;x
+HEAD_PRIEST_FOA;Your Holiness;;;;;;;;;;;Âàøå Ñâÿòåéøåñòâî;;x
+HEAD_PRIESTESS;High Priestess;;;;;;;;;;;Âåðõîâíàÿ æðèöà;;x
+HEAD_ZUN_PRIEST;Dastur;;;;;;;;;;;Äàñòóð;;x
+HEAD_ZUN_PRIESTESS;Dastur;;;;;;;;;;;Äàñòóð;;x
+HIGH_CHIEF;High Chief;;;;;;;;;;;Âåðõîâíûé âîæäü;;x
+HIGH_CHIEF_FOA;High Chief;;;;;;;;;;;Ìîé âîæäü;;x
+HOCHMEISTER;Hochmeister;;;;;;;;;;;Âåëèêèé ìàãèñòð;;x
+HOCHMEISTER_FOA;Your Excellency;;;;;;;;;;;Âàøå ïðåâîñõîäèòåëüñòâî;;x
+IMAM;Imam;;;;;;;;;;;Èìàì;;x
+IMAM_FOA;Your Highness;;;;;;;;;;;Õàçðàò;;x
+KING;King;;;;;;;;;;;Öàðü;;x
+MEGASTRATEGISSA;Megastrategissa;;;;;;;;;;;Ìåãàñòðàòåãèññà;;x
+MEGASTRATEGOS;Megastrategos;;;;;;;;;;;Ìåãàñòðàòåãîñ;;x
+MONOPHYSITE_POPE;Monophysite Pope;;;;;;;;;;;Ìîíîôèçèòñêèé Ïàïà;;x
+MONOTHELITE_PATRIARCH;Monothelite Patriarch;;;;;;;;;;;Ìîíîôåëèòñòêèé ïàòðèàðõ;;x
+PATRIARCH_CAP;Patriarch;;;;;;;;;;;Ïàòðèàðõ;;x
+PATRIARCH_IN_THE_EAST;Patriarch of the East;;;;;;;;;;;Ïàòðèàðõ Âîñòî÷íûé;;x
+PAULICIAN_PATRIARCH;Paulician Patriarch;;;;;;;;;;;Ïàâëèêèàíñêèé ïàòðèàðõ;;x
+PONTIFEX_MAXIMA;Pontifex Maxima;;;;;;;;;;;Ïîíòèôèê Ìàêñèìà;;x
+PONTIFEX_MAXIMUS;Pontifex Maximus;;;;;;;;;;;Ïîíòèôèê Ìàêñèìóñ;;x
+POPE;Pope;;;;;;;;;;;Ïàïà;;x
+POPE_FOA;Your Holiness;;;;;;;;;;;Âàøå Ñâÿòåéøåñòâî;;x
+PRINCE_BISHOP;Prince-Bishop;;;;;;;;;;;Êíÿçü-Åïèñêîï;;x
+PRINCE_BISHOP_FOA;Your Excellency;;;;;;;;;;;Âàøå Ïðåâîñõîäèòåëüñòâî;;x
+principality_foa;Your Majesty;;;;;;;;;;;Âàøå Âåëè÷åñòâî;;x
+principality_prefix;Principality of;;;;;;;;;;;Êíÿæåñòâî;;x
+principality_title;Prince;;;;;;;;;;;Êíÿçü;;x
+principality_title_female;Princess;;;;;;;;;;;Êíÿãèíÿ;;x
+QUEEN;Queen;;;;;;;;;;;Öàðèöà;;x
+RECTOR_TITLE;Rector;;;;;;;;;;;Ðåêòîð;;x
+RECTOR_TITLE_FEMALE;Rector;;;;;;;;;;;Êíÿãèíÿ;;x
+SAMRAJNI_CHAKRAVARTIN;Samrajni Chakravartin;;;;;;;;;;;Ñàìðàäæíè ×àêðàâàðòèí;;x
+SAMRAT_CHAKRAVARTIN;Samrat Chakravartin;;;;;;;;;;;Ñàìðàò ×àêðàâàðòèí;;x
+SHEIKH;Sheikh;;;;;;;;;;;Øåéõ;;x
+SHEIKHA;Sheikha;;;;;;;;;;;Øåéõà;;x
+TENGRIKIZ;Tengrikiz;;;;;;;;;;;Òåíãðèêûç;;x
+TENGRIKUT;Tengrikut;;;;;;;;;;;Òåíãðèêóò;;x
+TIETAJA;Tietaja;;;;;;;;;;;Òåòàéÿ;;x
+TLATOANI;Tlatoani;;;;;;;;;;;Òëàòîàíè;;x
+VELKY_VOLHV;Velký Volhv;;;;;;;;;;;Âåëèêèé âîëõâ;;x
+WARCHIEF;Warchief;;;;;;;;;;;Ïðåäâîäèòåëü;;x
+WARCHIEF_FOA;Master;;;;;;;;;;;Ïðåäâîäèòåëü;;x
+WESTERN_GOVERNOR_FEMALE;Protector General;;;;;;;;;;;Íàìåñòíèöà;;x
+WESTERN_GOVERNOR_MALE;Protector General;;;;;;;;;;;Ãåíåðàë-Íàìåñòíèê;;x
+WESTERN_GOVERNOR_TITLE_FOA;Your Illustriousness;;;;;;;;;;;Âàøå Ñèÿòåëüñòâî;;x
+YAMAG;Yamag;;;;;;;;;;;ßìàã;;x

@@ -1,139 +1,132 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC70000;A courier has come forth inviting all knights of the realm to attend a grand tournament, the like of which is only seen once per reign.;;;;;;;;;;;;;x
-EVTDESC70001;It is time to let the tournament begin and for the next two months let all show their martial brilliance.;;;;;;;;;;;;;x
-EVTDESC70002;The tournament is over and now it is time to bask in the glory.;;;;;;;;;;;;;x
-EVTDESC70003;The Tournament ends and although I may not have won any of the melee events my prowess did not go unnoticed.;;;;;;;;;;;;;x
-EVTDESC70004;The Tournament ends and I have shown time and time again that my glory in arms, even if I did not win I still covered myself in glory.;;;;;;;;;;;;;x
-EVTDESC70005;The Tournament ends and it was a terrible moment, but it was one time only. I still hear their laughter.;;;;;;;;;;;;;x
-EVTDESC70006;The Tournament ends and I was vanquished in the early rounds. Personally I blame my squire, but people did not see it that way.;;;;;;;;;;;;;x
-EVTDESC70007;The Tournament ends and although I did not win I felt many lessons were learnt.;;;;;;;;;;;;;x
-EVTDESC70008;The Tournament ends and my tactics were poor, people doubt my abilities now.;;;;;;;;;;;;;x
-EVTDESC70009;I felt my armor was strong and my training was first rate. Sadly it failed and I felt the icy chill as the steel carved into my flesh. My eyes grew heavy and sight grew dim.;;;;;;;;;;;;;x
-EVTDESC70010;The melee was going well when the mace came crashing down upon me, I managed to block it but my shield shatter under the force of the blow. The next swing came crashing down and the darkness overtook me.;;;;;;;;;;;;;x
-EVTDESC70011;I sought out a worthy foe man in the melee, but he came upon me and I parried the first thrust. The follow up was too quick for me and a jolt of pain shot through my body. ;;;;;;;;;;;;;x
-EVTDESC70012;We advanced forth into the Melee, but then I saw our foes and suddenly my bowels loosened and guts turned to water. My comrades all looked on me in disgust.;;;;;;;;;;;;;x
-EVTDESC70013;The melee was fought and I went boldly forth, while other stood back I charged forth headless of my own safety.;;;;;;;;;;;;;x
-EVTDESC70014;People felt my leadership skills were poor, some even called me misguided.  Then the tide of the melee turned  but in the heat of battle my voice rose above the others and my direction  turned the tide.;;;;;;;;;;;;;x
-EVTDESC70015;I have been long renowned for my roughness, but in the recent melee the enemy took us by surprise and yet I still lead from the front and steered us to victory.;;;;;;;;;;;;;x
-EVTDESC70016;The melee was challenging and my skills were renowned. Our valiant foe men were had prepared well but if it wasn't a moment of brilliance by myself they would of triumphed;;;;;;;;;;;;;x
-EVTDESC70017;I am known for my brilliance but the enemy had developed a counter. Word has spread and my brilliance is diminished.;;;;;;;;;;;;;x
-EVTDESC70018;My skills are well known, but it seems there is a counter. More have heard about it. ;;;;;;;;;;;;;x
-EVTDESC70019;In a recent melee the toughness I habitually show has been proven to be misguided.;;;;;;;;;;;;;x
-EVTDESC70020;Victory is mine, I triumphed in several Melee's proving once and for all that I am the champion.;;;;;;;;;;;;;x
-EVTDESC70021;Although I was not triumphant in the many melee's I was good enough to be declared second.;;;;;;;;;;;;;x
-EVTDESC70022;A honorable third place was the result of my efforts in the Melee.;;;;;;;;;;;;;x
-EVTDESC70023;I was taking part in the tournament and enjoying the camaraderie with the other entrants when a queer feeling came over me.;;;;;;;;;;;;;x
-EVTDESC70024;Tournaments are such fun, and it is not just the taking part it is all the other entertainments available. Then I noticed a strange sore on my body in a place I would much rather not mention.;;;;;;;;;;;;;x
-EVTDESC70025;The tournament did not go well, but not badly either. I had prepared for months for this and at the end of the day I was simply not good enough. I had turned to solace in drink. When it was over a few morning later I felt terrible and the hair of the dog seemed like the answer.;;;;;;;;;;;;;x
-EVTDESC70026;While I was at the tournament some lower class type with pretensions insulted my honor. I could only do what a man of my class could do and challenged him to a duel. Naturally he was no match for me.;;;;;;;;;;;;;x
-EVTDESC70027;I was at the tournament and although I did not have an opportunity to distinguish myself in the melee I was sitting around and listening two knights plot together to advantage themselves in the next bought. I listened carefully to their plan and I instantly saw the flaws.;;;;;;;;;;;;;x
-EVTDESC70028;I was at the tournament and although I did not have an opportunity to distinguish myself in the melee, I was sitting around and listening to two knights plot together to advantage themselves in the next bought. I offered some advice, how was I supposed to know?;;;;;;;;;;;;;x
-EVTDESC70029;While at the tournament I was listening to some lesser Lordling describe how he collected tithes from his serfs. As I listened I realized he was giving his serf plenty of ways of avoiding giving their due.;;;;;;;;;;;;;x
-EVTDESC70030;While at the tournament I joined in a conversation with other Lords on how best to collect tithes. I saw a far easier way and it caused quite an argument with many Lords disagreeing with my stance, but the more I talked the more I convinced myself that I was right.;;;;;;;;;;;;;x
-EVTDESC70031;I was simply passing time at the tournament when I saw two knights argue over honor. I knew straight away that the argument was spurious and the result would be unnecessary bloodshed. So I stepped in and prevented it.;;;;;;;;;;;;;x
-EVTDESC70032;I was simply passing time at the tournament when I saw two knights argue over honor. I knew straight away that the argument was spurious and the result would be unnecessary bloodshed. I attempted to mediate the dispute and they told me that at least one of the knights should survive the resulting duel.;;;;;;;;;;;;;x
-EVTDESC70033;I have sent forth messengers around the realm to spread the word that a grand tournament be held;;;;;;;;;;;;;x
-EVTDESC70034;[From.GetTitledName] has been crowned the winner of my grand tournament.;;;;;;;;;;;;;x
-EVTDESC70035;[From.GetTitledName]'s bravery won [From.GetHerHim] second place in my grand tournament.;;;;;;;;;;;;;x
-EVTDESC70036;[From.GetTitledName] fought [From.GetHerHis] way to the third place in my grand tournament.;;;;;;;;;;;;;x
-EVTDESC70037;The grand tournament of [From.GetTitledName] has been cancelled due to war.;;;;;;;;;;;;;x
-EVTDESC70038;My liege! Your guest [From.GetTitledName] has tragically been killed during the tournament!;;;;;;;;;;;;;x
-EVTDESC70039;My liege! Your guest [From.GetTitledName] has tragically been maimed during the tournament!;;;;;;;;;;;;;x
-EVTDESC70040;My liege! Your guest [From.GetTitledName] has tragically been wounded during the tournament!;;;;;;;;;;;;;x
-EVTDESC70041;As I draw my last breath I remember the tournament. Alas, my death will set stop for the festivities and I grieve for myself, to think I will never be allowed to see brave knights fight for glory!;;;;;;;;;;;;;x
-EVTDESC70042;Dear [Root.GetTitledFirstName], due to [From.GetTitledFirstName]'s untimely death the tournament unfortunately has been cancelled.\n\nSigned, \n[Root.Liege.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC100420;I am absolutely certain my rival is cheating in the tournament! There's no way he could win his fights so easily if he wasn't cheating...;;;;;;;;;;;;;x
-EVTDESC100421;My liege, I have proof one of the participants in the tournament is cheating!'\nThe rivalry between [From.GetTitledFirstName] and the supposed cheater is well known, but I can't imagine [From.GetTitledFirstName] would lie about something this serious!;;;;;;;;;;;;;x
-EVTDESC100422;The tournament was well on its way when [From.GetTitledFirstName], aggravated by [From.GetHerHis] losses at the list field where we both took part in the jousting, accused me of cheating and presented a ridiculous theory [From.GetSheHe] claimed proved I cheated!;;;;;;;;;;;;;x
-EVTDESC100423;Everyone at the tournament [From.Liege.GetTitledFirstName] hosted heard [From.GetTitledFirstName] accusing me of cheating in the tournament. I did not think any one would believe [From.GetTitledFirstName]'s wild accusations, but the suspicious looks and the whispered gossip told me otherwise...;;;;;;;;;;;;;x
-EVTDESC100424;[FromFrom.GetTitledFirstName] accused me of cheating in the tournament and [From.GetTitledFirstName] believed [FromFrom.GetHerHim]. I was thrown in jail based on unwarranted accusations from a rival of mine - [FromFrom.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTDESC100425;The false accusations from [FromFrom.GetTitledFirstName] about me cheating in the tournament was groundless but [From.GetTitledFirstName] believed every poisonous word that idiot told [From.GetHerHim]. Despite my protests and demands of a fair trial where [FromFrom.GetTitledFirstName] could present [FromFrom.GetHerHis] so-called 'evidence' [From.GetTitledFirstName] chose to banish me!;;;;;;;;;;;;;x
-EVTDESC100426;After I told [From.GetTitledFirstName] about my rival cheating in the tournament I eagerly waited for [From.GetHerHis] reaction...;;;;;;;;;;;;;x
-EVTDESC100427;[From.GetTitledFirstName]'s face turned red and [From.GetSheHe] started sputtering swearwords when I accused [From.GetHerHim] of cheating in the tournament. I had made sure I made the accusations where as many people as possible could hear it, something I came to regret quickly when [From.GetTitledFirstName] challenged me to a duel!;;;;;;;;;;;;;x
-EVTDESC100428;I defended my honor in the only way possible: I challenged [From.GetTitledFirstName] to a duel in front of all the tournament participants, the spectators and our host, [From.Liege.GetTitledFirstName]. No one calls me a cheater and gets away with it!;;;;;;;;;;;;;x
-EVTDESC100429;It was as I thought, [From.GetTitledFirstName] was all talk and no spine. Coward! [From.GetTitledFirstName] hastily withdrew [From.GetHerHis] unwarranted accusations when I threatened to punch [From.GetHerHis] teeth down [From.GetHerHis] throat in a duel.;;;;;;;;;;;;;x
-
-EVTOPTA70000;A chance to prove our worth;;;;;;;;;;;;;x
-EVTOPTA70001;This is the time.;;;;;;;;;;;;;x
-EVTOPTA70002;A glorious event!;;;;;;;;;;;;;x
-EVTOPTA70002_TOOLTIP;Your combatants enjoyed the tournament, increasing §YOpinion§! by §G5§! for §Y5§! years\n;;;;;;;;;;;;;x
-EVTOPTA70003;But of course;;;;;;;;;;;;;x
-EVTOPTA70004;Glory to me;;;;;;;;;;;;;x
-EVTOPTA70005;It was shameful;;;;;;;;;;;;;x
-EVTOPTA70006;I know they snigger behind my back.;;;;;;;;;;;;;x
-EVTOPTA70007;It was worthwhile.;;;;;;;;;;;;;x
-EVTOPTA70008;Oh Dear;;;;;;;;;;;;;x
-EVTOPTA70009;Then I died;;;;;;;;;;;;;x
-EVTOPTA70010; When I awoke I was maimed.;;;;;;;;;;;;;x
-EVTOPTA70011;The Wound, the  wound.;;;;;;;;;;;;;x
-EVTOPTA70012;My cheeks burned in shame.;;;;;;;;;;;;;x
-EVTOPTA70013;They were all in awe with my manliness.;;;;;;;;;;;;;x
-EVTOPTA70014;I showed my toughness;;;;;;;;;;;;;x
-EVTOPTA70015;My skill shined through;;;;;;;;;;;;;x
-EVTOPTA70016;I was brilliant;;;;;;;;;;;;;x
-EVTOPTA70017;Not good;;;;;;;;;;;;;x
-EVTOPTA70018;But I am still tough;;;;;;;;;;;;;x
-EVTOPTA70019;I feel lessened;;;;;;;;;;;;;x
-EVTOPTA70020;Victorious;;;;;;;;;;;;;x
-EVTOPTA70021;Glory to me;;;;;;;;;;;;;x
-EVTOPTA70022;Good but not quite good enough;;;;;;;;;;;;;x
-EVTOPTA70023;I dare not speak its name;;;;;;;;;;;;;x
-EVTOPTA70024;Probably nothing to worry about;;;;;;;;;;;;;x
-EVTOPTA70025;One more drink won't hurt.;;;;;;;;;;;;;x
-EVTOPTA70026;I learnt something about myself.;;;;;;;;;;;;;x
-EVTOPTA70027;Intriguing;;;;;;;;;;;;;x
-EVTOPTA70028;Oops;;;;;;;;;;;;;x
-EVTOPTA70029;I kept this knowledge to myself;;;;;;;;;;;;;x
-EVTOPTA70030;But I am right, aren't I?;;;;;;;;;;;;;x
-EVTOPTA70031;I am more diplomatic than I thought.;;;;;;;;;;;;;x
-EVTOPTA70032;Oh;;;;;;;;;;;;;x
-EVTOPTA70033;The tournament begins soon;;;;;;;;;;;;;x
-EVTOPTA70034;[From.GetSheHeCap] truly deserves it!;;;;;;;;;;;;;x
-EVTOPTA70035;A most valiant performance!;;;;;;;;;;;;;x
-EVTOPTA70036;And fought hard [From.GetSheHe] did.;;;;;;;;;;;;;x
-EVTOPTA70037;Then my bravery will be shown in battle!;;;;;;;;;;;;;x
-EVTOPTA70038;Most unfortunate;;;;;;;;;;;;;x
-EVTOPTA70041;I hope my subjects will remember me as a benevolent ruler;;;;;;;;;;;;;x
-EVTOPTA70042;And I had so looked forward to this!;;;;;;;;;;;;;x
-EVTOPTA100420;[Root.Liege.GetTitledFirstName] will know what to do with the cheater!;;;;;;;;;;;;;x
-EVTOPTA100421;Imprison the cheater!;;;;;;;;;;;;;x
-EVTOPTA100422;I won every match fair and square!;;;;;;;;;;;;;x
-EVTOPTA100423;Gold will stop their gossiping!;;;;;;;;;;;;;x
-EVTOPTA100424;I will kill you for this, [FromFrom.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTOPTA100425;When I get back, [FromFrom.GetTitledFirstName] will never be safe again...;;;;;;;;;;;;;x
-EVTOPTA100426;[From.GetTitledFirstName] decided to do nothing!;;;;;;;;;;;;;x
-EVTOPTA100427;I accept, but don't you cheat this time!;;;;;;;;;;;;;x
-EVTOPTA100428;I fear... I lost...;;;;;;;;;;;;;x
-EVTOPTA100429;I should have done it anyway...;;;;;;;;;;;;;x
-
-EVTOPTB70000;A foolish risk for fleeting glory.;;;;;;;;;;;;;x
-EVTOPTB70001;Sadly a small war will delay this;;;;;;;;;;;;;x
-EVTOPTB70038;Don't bother me with such details!;;;;;;;;;;;;;x
-EVTOPTB100420;I'll confront him myself!;;;;;;;;;;;;;x
-EVTOPTB100421;Banish the cheater;;;;;;;;;;;;;x
-EVTOPTB100422;Your 'evidence' is dishonoring, I challenge you to a duel!;;;;;;;;;;;;;x
-EVTOPTB100423;Why should I care what they think?;;;;;;;;;;;;;x
-EVTOPTB100426;[From.GetTitledFirstName] imprisoned the cheater!;;;;;;;;;;;;;x
-EVTOPTB100427;I jest, I jest! Please don't hit me...;;;;;;;;;;;;;x
-EVTOPTB100428;I proved my innocence when [From.GetSheHe] lay unconscious on the ground by my feet;;;;;;;;;;;;;x
-
-EVTOPTC100420;Everyone must know what a cheater he is!;;;;;;;;;;;;;x
-EVTOPTC100421;I need more proof than your words, [From.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTOPTC100426;[From.GetTitledFirstName] banished the cheater!;;;;;;;;;;;;;x
-EVTOPTC100428;I defeated [From.GetTitledFirstName] and thus proved I am not a cheater;;;;;;;;;;;;;x
-
-EVTOPTD100420;I will hold my tongue and tell no one;;;;;;;;;;;;;x
-
-EVTTOOLTIP70042;Your vassals will be informed of your untimely death;;;;;;;;;;;;;x
-EVTTOOLTIP100421;[Root.GetTitledFirstName] tells [This.GetTitledFirstName] about the cheating lord;;;;;;;;;;;;;x
-EVTTOOLTIP100422;[Root.GetTitledFirstName] confronts [Root.GetHerHis] rival [This.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP100423;[This.GetTitledFirstName] dislikes your slander;;;;;;;;;;;;;x
-EVTTOOLTIP100424;[This.GetTitledFirstName] is imprisoned for cheating in the tournament;;;;;;;;;;;;;x
-EVTTOOLTIP100425;[This.GetTitledFirstName] is banished for cheating in the tournament;;;;;;;;;;;;;x
-EVTTOOLTIP100427;[This.GetTitledFirstName] is challenged to a duel;;;;;;;;;;;;;x
-EVTTOOLTIP100428;[This.GetTitledFirstName] defends [This.GetHerHis] honor against [Root.GetTitledFirstName]'s accusations;;;;;;;;;;;;;x
-EVTTOOLTIP100429;[This.GetTitledFirstName] have never seen a more spineless creature than [Root.GetTitledFirstName];;;;;;;;;;;;;x
-
-TOURNAMENTTITLE;Grand Tournament;;;;;;;;;;;;;x
-tournament_invite;Let all knights of the realm be invited;;;;;;;;;;;;;x
+EVTDESC70000;A courier has come forth inviting all knights of the realm to attend a grand tournament, the like of which is only seen once per reign.;;;;;;;;;;;Ãîíåö îòïðàâëÿåòñÿ ñ âåñòüþ äëÿ âñåõ ðûöàðåé ñòðàíû. Èì áóäåò ïðåäëîæåíî ïðèíÿòü ó÷àñòèå â âåëèêîì òóðíèðå, ïîäîáíûå êîòîðîìó ïðîâîäÿòñÿ òîëüêî îäèí ðàç â äåñÿòêè ëåò.;;x
+EVTDESC70001;It is time to let the tournament begin and for the next two months let all show their martial brilliance.;;;;;;;;;;;Ïîðà íà÷àòü òóðíèð. Â ñëåäóþùèå äâà ìåñÿöà âñåì áóäåò äàíà âîçìîæíîñòü ïðîÿâèòü ñâîþ äîáëåñòü â ñîñòÿçàíèÿõ.;;x
+EVTDESC70002;The tournament is over and now it is time to bask in the glory.;;;;;;;;;;;Òóðíèð çàêîí÷èëñÿ, íàñòàëî âðåìÿ ãðåòüñÿ â ëó÷àõ ñëàâû.;;x
+EVTDESC70003;The Tournament ends and although I may not have won any of the melee events my prowess did not go unnoticed.;;;;;;;;;;;Òóðíèð çàêàí÷èâàåòñÿ, è õîòÿ ÿ, âîçìîæíî, íå ïîáåäèë, íî â ðóêîïàøíîé ñõâàòêå ìî¸ ìàñòåðñòâî íå îñòàëîñü íåçàìå÷åííûì.;;x
+EVTDESC70004;The Tournament ends and I have shown time and time again that my glory in arms, even if I did not win I still covered myself in glory.;;;;;;;;;;;Òóðíèð çàêàí÷èâàåòñÿ. ß ïîêàçûâàë íà í¸ì ðàç çà ðàçîì, ÷òî ìîÿ ñëàâà â ìîèõ ðóêàõ è, äàæå åñëè ÿ íå âûèãðàë, ÿ ïîêðûë ñåáÿ ñëàâîé ñ íîã äî ãîëîâû.;;x
+EVTDESC70005;The Tournament ends and it was a terrible moment, but it was one time only. I still hear their laughter.;;;;;;;;;;;Òóðíèð çàêàí÷èâàåòñÿ, è íà í¸ì ïðîèçîøëî ñòðàøíîå. Ýòî ñëó÷èëîñü ëèøü ðàç, íî ÿ äî ñèõ ïîð ñëûøó èõ ñìåõ...;;x
+EVTDESC70006;The Tournament ends and I was vanquished in the early rounds. Personally I blame my squire, but people did not see it that way.;;;;;;;;;;;Òóðíèð çàêàí÷èâàåòñÿ, è ÿ áûë ïîáåæä¸í â ðàííèõ ðàóíäàõ. ß óâåðåí, ÷òî âî âñ¸ì âèíîâàò ìîé îðóæåíîñåö, íî ëþäè íå ïîíèìàþò ýòîãî.;;x
+EVTDESC70007;The Tournament ends and although I did not win I felt many lessons were learnt.;;;;;;;;;;;Òóðíèð çàêàí÷èâàåòñÿ, è õîòÿ ÿ íå âûèãðàë, ÿ ïî÷óâñòâîâàë, ÷òî ìíîãîìó íàó÷èëñÿ.;;x
+EVTDESC70008;The Tournament ends and my tactics were poor, people doubt my abilities now.;;;;;;;;;;;Òóðíèð çàêàí÷èâàåòñÿ, è ìîÿ òàêòèêà íà í¸ì áûëà áåäíà, òåïåðü íåêîòîðûå ñîìíåâàþòñÿ â ìîèõ ñïîñîáíîñòÿõ.;;x
+EVTDESC70009;I felt my armor was strong and my training was first rate. Sadly it failed and I felt the icy chill as the steel carved into my flesh. My eyes grew heavy and sight grew dim.;;;;;;;;;;;ß ïðåäïîëàãàë, ÷òî ìîÿ áðîíÿ êðåïêà, à ïîäãîòîâêà - âûñøèé êëàññ. Ê íåñ÷àñòüþ, ýòî îêàçàëîñü íå òàê, è ÿ ïî÷óâñòâîâàë ëåäÿíîé õîëîä, êîãäà ñòàëü ïðîíèêëà â ìîþ ïëîòü. Ìîè âåêè ïîòÿæåëåëè, à âçãëÿä çàòóìàíèëñÿ.;;x
+EVTDESC70010;The melee was going well when the mace came crashing down upon me, I managed to block it but my shield shatter under the force of the blow. The next swing came crashing down and the darkness overtook me.;;;;;;;;;;;Ø¸ë áëèæíèé áîé, êîãäà áóëàâà îïóñòèëàñü íà ìåíÿ. Ìíå óäàëîñü çàáëîêèðîâàòü óäàð, íî ìîé ùèò ðàçëåòåëñÿ íà êóñêè îò åãî ñèëû. Ñëåäóþùàÿ àòàêà äîñòèãëà öåëè áåç ñîïðîòèâëåíèÿ, è òåìíîòà íàñòèãëà ìåíÿ.;;x
+EVTDESC70011;I sought out a worthy foe man in the melee, but he came upon me and I parried the first thrust. The follow up was too quick for me and a jolt of pain shot through my body. ;;;;;;;;;;;ß èñêàë äîñòîéíîãî ïðîòèâíèêà â ñõâàòêå, íî îí ñàì íàòêíóëñÿ íà ìåíÿ. ß ïàðèðîâàë ïåðâûé óäàð, îäíàêî ñîáûòèÿ ðàçâèâàëèñü ñëèøêîì áûñòðî äëÿ ìåíÿ, è áîëü ïðîíçèëà ìî¸ òåëî.;;x
+EVTDESC70012;We advanced forth into the Melee, but then I saw our foes and suddenly my bowels loosened and guts turned to water. My comrades all looked on me in disgust.;;;;;;;;;;;Ìû âñòóïèëè â áëèæíèé áîé, íî óâèäåâ âðàãà, îò ñòðàõà ÿ ïîìî÷è[Root.GetLasLsya] ïðÿìî â äîñïåõè. Âñå ìîè òîâàðèùè ñ îòâðàùåíèåì ñìîòðåëè íà ìåíÿ.;;x
+EVTDESC70013;The melee was fought and I went boldly forth, while other stood back I charged forth headless of my own safety.;;;;;;;;;;;Âî âðåìÿ ðóêîïàøíîé, ÿ ñìåëî ïîø¸ë â ãóùó ïðîòèâíèêà. Â òî âðåìÿ êàê äðóãèå ñòîÿëè ñçàäè, ÿ ñîâåðøàë ðûâîê, íå äóìàÿ î ñîáñòâåííîé áåçîïàñíîñòè.;;x
+EVTDESC70014;People felt my leadership skills were poor, some even called me misguided.  Then the tide of the melee turned  but in the heat of battle my voice rose above the others and my direction  turned the tide.;;;;;;;;;;;Ëþäè ïðåäïîëàãàëè, ÷òî ìîè ëèäåðñêèå êà÷åñòâà íåâåëèêè, íåêîòîðûå äàæå íàçûâàëè ìåíÿ çàáëóæäàþùèìñÿ ïî ýòîìó ïîâîäó. Íî êîãäà íàñòóïèë ïåðåëîìíûé ìîìåíò ñõâàòêè, â ïûëó ñðàæåíèÿ, ìîé ãîëîñ áûë âíóøèòåëüíåé äðóãèõ è, áëàãîäàðÿ ìîåìó ðóêîâîäñòâó, ìû îäåðæàëè ïîáåäó.;;x
+EVTDESC70015;I have been long renowned for my roughness, but in the recent melee the enemy took us by surprise and yet I still lead from the front and steered us to victory.;;;;;;;;;;;ß áûë äàâíî èçâåñòåí ñâîåé ñèëîé. Âîò è â íåäàâíåé ñõâàòêå âðàã çàñòàë íàñ âðàñïëîõ, íî âñ¸ æå ÿ ñóìåë ïðîðâàòüñÿ ñ ôðîíòà è ïðèâåñòè íàñ ê ïîáåäå.;;x
+EVTDESC70016;The melee was challenging and my skills were renowned. Our valiant foe men were had prepared well but if it wasn't a moment of brilliance by myself they would of triumphed;;;;;;;;;;;Áëèæíèé áîé áûë ñëîæíûì, íî ìî¸ óìåíèå èçâåñòíî. Íàøè äîáëåñòíûå áîéöû õîðîøî ïîòðåïàëè ïðîòèâíèêà, íî åñëè áû ÿ íå áëåñíóë âîèíñêèì óìåíèåì, èìåííî ïðîòèâíèê îäåðæàë áû ïîáåäó.;;x
+EVTDESC70017;I am known for my brilliance but the enemy had developed a counter. Word has spread and my brilliance is diminished.;;;;;;;;;;;"ß èçâåñòåí ñâîèì âîèíñêèì óìåíèåì, íî ïðîòèâíèê ïðèäóìàë êàê íåéòðàëèçîâàòü ìåíÿ. Ñëóõ îá ýòîì ïîëó÷èë ðàñïðîñòðàíåíèå è ìîé áëåñê ""ïîòóñêíåë"".";;x
+EVTDESC70018;My skills are well known, but it seems there is a counter. More have heard about it. ;;;;;;;;;;;Ìîè óìåíèÿ õîðîøî èçâåñòíû, íî, êàæåòñÿ, ÷òî ïîÿâèëñÿ ñïîñîá îáîéòè ìåíÿ. Ìíîãèå óñëûøàëè îá ýòîì.;;x
+EVTDESC70019;In a recent melee the toughness I habitually show has been proven to be misguided.;;;;;;;;;;;Â íåäàâíåé ñõâàòêå ñòîéêîñòü, êîòîðóþ ÿ îáû÷íî ïîêàçûâàþ, áûëà íå òàêîé êàê îáû÷íî.;;x
+EVTDESC70020;Victory is mine, I triumphed in several Melee's proving once and for all that I am the champion.;;;;;;;;;;;Ïîáåäà - ìîÿ ïî ïðàâó, ÿ îäåðæàë âåðõ â íåñêîëüêèõ ñõâàòêàõ, äîêàçàâ ðàç è íàâñåãäà, ÷òî ÿ - ÷åìïèîí.;;x
+EVTDESC70021;Although I was not triumphant in the many melee's I was good enough to be declared second.;;;;;;;;;;;Õîòÿ ÿ è íå îäåðæàë âåðõ âî ìíîãèõ ñõâàòêàõ, ÿ áûë äîñòàòî÷íî õîðîø äëÿ òîãî, ÷òîáû áûòü îáúÿâëåííûì âòîðûì.;;x
+EVTDESC70022;A honorable third place was the result of my efforts in the Melee.;;;;;;;;;;;Áëàãîðîäíîå òðåòüå ìåñòî áûëî ðåçóëüòàòîì ìîèõ óñèëèé â ðóêîïàøíîé ñõâàòêå.;;x
+EVTDESC70023;I was taking part in the tournament and enjoying the camaraderie with the other entrants when a queer feeling came over me.;;;;;;;;;;;ß ïðèíèìàë ó÷àñòèå â òóðíèðå è íàñëàæäàëñÿ ÷óâñòâîì òîâàðèùåñòâà ñ äðóãèìè ó÷àñòíèêàìè, êîãäà ñòðàííîå îùóùåíèå îõâàòèëî ìåíÿ.;;x
+EVTDESC70024;Tournaments are such fun, and it is not just the taking part it is all the other entertainments available. Then I noticed a strange sore on my body in a place I would much rather not mention.;;;;;;;;;;;"Òóðíèðû - îòëè÷íàÿ çàáàâà, è íå òîëüêî èç-çà ïðèíÿòèÿ ó÷àñòèÿ â íèõ, íî è áëàãîäàðÿ âñåì äðóãèì äîñòóïíûì ðàçâëå÷åíèÿì. Òàì òî ÿ è çàìåòèë ñòðàííóþ ""ðàíó"" íà òåëå â ìåñòå, êîòîðîå ÿ ëó÷øå íå áóäó óïîìèíàòü.";;x
+EVTDESC70025;The tournament did not go well, but not badly either. I had prepared for months for this and at the end of the day I was simply not good enough. I had turned to solace in drink. When it was over a few morning later I felt terrible and the hair of the dog seemed like the answer.;;;;;;;;;;;Òóðíèð ïðîõîäèë íå ïðåêðàñíî, íî è íå óæàñíî. ß ãîòîâèëñÿ ê íåìó â òå÷åíèå ìíîãèõ ìåñÿöåâ, íî â êîíöå äíÿ ÿ áûë ïðîñòî íå äîñòàòî÷íî õîðîø. ß ðåøèë íàéòè èñòèíó â âèíå. Êîãäà ÿ î÷íóëñÿ íåñêîëüêî ðàññâåòîâ ñïóñòÿ, ÿ ÷óâñòâîâàë ñåáÿ óæàñíî.;;x
+EVTDESC70026;While I was at the tournament some lower class type with pretensions insulted my honor. I could only do what a man of my class could do and challenged him to a duel. Naturally he was no match for me.;;;;;;;;;;;Êîãäà ÿ áûë íà òóðíèðå, êòî-òî èç íèçøåãî êëàññà, íî ñ ïðåòåíçèåé, îñêîðáèë ìîþ ÷åñòü. ß ìîã ñäåëàòü òîëüêî òî, ÷òî ÷åëîâåê ìîåãî óðîâíÿ îáû÷íî äåëàåò â òàêèõ ñëó÷àÿõ - âûçâàë åãî íà ïîåäèíîê. Åñòåñòâåííî, îí ìíå íå ðîâíÿ.;;x
+EVTDESC70027;I was at the tournament and although I did not have an opportunity to distinguish myself in the melee I was sitting around and listening two knights plot together to advantage themselves in the next bought. I listened carefully to their plan and I instantly saw the flaws.;;;;;;;;;;;Õîòü ÿ è áûë íà òóðíèðå, ó ìåíÿ íå áûëî âîçìîæíîñòè îòëè÷èòüñÿ â ñõâàòêå. ß ñèäåë áåç äåëà è óñëûøàë, êàê äâà ðûöàðÿ ñîñòàâëÿþò ïëàí, êîòîðûé ïîñïîñîáñòâóåò èõ ñîâìåñòíîé ïîáåäå â ñëåäóþùåì ðàóíäå. ß âíèìàòåëüíî ïðèñëóøàëñÿ ê èõ ïëàíó, è íåìåäëåííî óâèäåë åãî íåäîñòàòêè.;;x
+EVTDESC70028;I was at the tournament and although I did not have an opportunity to distinguish myself in the melee, I was sitting around and listening to two knights plot together to advantage themselves in the next bought. I offered some advice, how was I supposed to know?;;;;;;;;;;;ß áûë íà òóðíèðå, íî íå èìåë âîçìîæíîñòè ïðîÿâèòü ñåáÿ â ïîåäèíêå, ïîýòîìó ñèäåë è ñëóøàë ðàçãîâîð äâóõ ðûöàðåé î íåêîé ñäåëêå. ß ðåøèë äàòü èì íåñêîëüêî ñîâåòîâ, íî îòêóäà æ ÿ ìîã çíàòü?;;x
+EVTDESC70029;While at the tournament I was listening to some lesser Lordling describe how he collected tithes from his serfs. As I listened I realized he was giving his serf plenty of ways of avoiding giving their due.;;;;;;;;;;;Êîãäà ÿ áûë íà òóðíèðå, ÿ óñëûøàë, êàê íèæåñòîÿùèé ìîëîäîé ëîðä îïèñûâàåò, êàê îí ñîáèðàåò äåñÿòèíó ñî ñâîèõ êðåñòüÿí. Ïîêà ÿ ñëóøàë, ÿ ïîíÿë, ÷òî îí äàâàë ñâîèì êðåñòüÿíàì ìíîãî ñïîñîáîâ âîîáùå èçáåæàòü íåîáõîäèìîñòè îòäàâàòü äåñÿòèíó.;;x
+EVTDESC70030;While at the tournament I joined in a conversation with other Lords on how best to collect tithes. I saw a far easier way and it caused quite an argument with many Lords disagreeing with my stance, but the more I talked the more I convinced myself that I was right.;;;;;;;;;;;Êîãäà ÿ áûë íà òóðíèðå, ÿ ó÷àñòâîâàë â ðàçãîâîðå ñ äðóãèìè ëîðäàìè î òîì, êàê ëó÷øå âñåãî ñîáèðàòü äåñÿòèíó. ß óâèäåë áîëåå ëåãêèé, íî íåî÷åâèäíûé ñïîñîá, è ýòî âûçûâàëî íàñòîÿùóþ âîëíó íåãîäîâàíèÿ îò ìíîãèõ ëîðäîâ, íå ñîãëàøàþùèìèñÿ ñ ìîåé ïîçèöèåé. Îäíàêî, ÷åì áîëüøå ÿ ãîâîðèë, òåì áîëüøå óáåæäàëñÿ ñàì, ÷òî ïðàâ.;;x
+EVTDESC70031;I was simply passing time at the tournament when I saw two knights argue over honor. I knew straight away that the argument was spurious and the result would be unnecessary bloodshed. So I stepped in and prevented it.;;;;;;;;;;;ß ïðîñòî ïðîãóëèâàëñÿ íà òóðíèðå, êîãäà óâèäåë, ÷òî äâà ðûöàðÿ ñïîðÿò î ÷åñòè. ß íåìåäëåííî ïîíÿë, ÷òî ïîâîä áûë íàäóìàííûì, è ðåçóëüòàòîì áóäåò ëèøü íåíóæíîå êðîâîïðîëèòèå. Ïîýòîìó ÿ âìåøàëñÿ, ñ öåëüþ ïðåäîòâðàòèòü åãî.;;x
+EVTDESC70032;I was simply passing time at the tournament when I saw two knights argue over honor. I knew straight away that the argument was spurious and the result would be unnecessary bloodshed. I attempted to mediate the dispute and they told me that at least one of the knights should survive the resulting duel.;;;;;;;;;;;Îäíàæäû, íà òóðíèðå ìîå âíèìàíèå ïðèâëåêëè äâà ðûöàðÿ. Îíè ïîñïîðèëè ïî ïóñòÿêó è ãîòîâû áûëè ñðàæàòüñÿ êàæäûé çà ñâîþ ÷åñòü. Áûëî ÿñíî, ÷òî êðîâîïðîëèòèÿ ìîæíî èçáåæàòü, íî, íà ìîþ ïîïûòêó ðàçðåøèòü ñïîð è ïðèìèðèòü èõ, îíè îòâåòèëè, ÷òî òîëüêî îäèí îñòàíåòñÿ â æèâûõ ïîñëå ýòîé äóýëè.;;x
+EVTDESC70033;I have sent forth messengers around the realm to spread the word that a grand tournament be held;;;;;;;;;;;ß ðàçîñëàë ãîíöîâ âî âñå êîíöû ñ âåñòüþ î òîì, ÷òî áóäåò ïðîâåä¸í âåëèêèé òóðíèð.;;x
+EVTDESC70034;[From.GetTitledName] has been crowned the winner of my grand tournament.;;;;;;;;;;;[From.GetTitledName] - ïîáåäèòåëü â òóðíèðå.;;x
+EVTDESC70035;[From.GetTitledName]'s bravery won [From.GetHerHim] second place in my grand tournament.;;;;;;;;;;;[From.GetTitledName] ïðîÿâèâ ñòîéêîñòü çàíÿë[From.GetEndA] âòîðîå ìåñòî â ïðîøåäøåì òóðíèðå.;;x
+EVTDESC70036;[From.GetTitledName] fought [From.GetHerHis] way to the third place in my grand tournament.;;;;;;;;;;;[From.GetTitledName] çàíÿë[From.GetEndA] òðåòüå ìåñòî, â âåëèêîì òóðíèðå.;;x
+EVTDESC70037;The grand tournament of [From.GetTitledName] has been cancelled due to war.;;;;;;;;;;;Âåëèêèé òóðíèð, êîòîðûé îáúÿâèë[From.GetEndA] [From.GetTitledName], áûë ïðåðâàí âîéíîé.;;x
+EVTDESC70038;My liege! Your guest [From.GetTitledName] has tragically been killed during the tournament!;;;;;;;;;;;[Root.PrimaryTitle.GetFOA]! Îä[From.GetNaIn] èç Âàøèõ ãîñòåé, [From.GetTitledName], òðàãè÷åñêè ïîãèá[From.GetNoneE] âî âðåìÿ òóðíèðà.;;x
+EVTDESC70039;My liege! Your guest [From.GetTitledName] has tragically been maimed during the tournament!;;;;;;;;;;;[Root.PrimaryTitle.GetFOA]! Îä[From.GetNaIn] èç Âàøèõ ãîñòåé, [From.GetTitledName] ïîëó÷èë[From.GetEndA] óâå÷üÿ âî âðåìÿ òóðíèðà.;;x
+EVTDESC70040;My liege! Your guest [From.GetTitledName] has tragically been wounded during the tournament!;;;;;;;;;;;[Root.PrimaryTitle.GetFOA]! Îä[From.GetNaIn] èç Âàøèõ ãîñòåé, [From.GetTitledName] áûë[From.GetEndA] ðàíåí[From.GetEndA] âî âðåìÿ òóðíèðà.;;x
+EVTDESC70041;As I draw my last breath I remember the tournament. Alas, my death will set stop for the festivities and I grieve for myself, to think I will never be allowed to see brave knights fight for glory!;;;;;;;;;;;Íàõîäÿñü íà ïîñëåäíåì èçäûõàíèè, ÿ âñïîìèíàþ î òóðíèðå. Æàëü, ÷òî ìîÿ ñìåðòü îñòàíîâèò ïðàçäíèê, è ìåíÿ ïå÷àëèò ìûñëü, ÷òî ìíå íèêîãäà áîëüøå íå áóäåò äîçâîëåíî óâèäåòü õðàáðûõ ðûöàðåé ñðàæàþùèõñÿ çà ñëàâó!;;x
+EVTDESC70042;Dear [Root.GetTitledFirstName], due to [From.GetTitledFirstName]'s untimely death the tournament unfortunately has been cancelled.\n\nSigned, \n[Root.Liege.GetTitledFirstName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], [From.GetTitledFirstName] áåçâðåìåííî ñêîí÷à[From.GetLasLsya]. Â ñâÿçè ñ ýòèì òóðíèð ê ñîæàëåíèþ îòìåíÿåòñÿ.\n [Root.Liege.GetTitledFirstName];;x
+EVTDESC100420;I am absolutely certain my rival is cheating in the tournament! There's no way he could win his fights so easily if he wasn't cheating...;;;;;;;;;;;ß àáñîëþòíî óâåðåí, ÷òî ìîé ñîïåðíèê æóëüíè÷àåò íà òóðíèðå! Îí íè çà ÷òî íå ïîáåäèë áû â ñðàæåíèÿõ òàê ëåãêî...;;x
+EVTDESC100421;My liege, I have proof one of the participants in the tournament is cheating!'\nThe rivalry between [From.GetTitledFirstName] and the supposed cheater is well known, but I can't imagine [From.GetTitledFirstName] would lie about something this serious!;;;;;;;;;;;" ""[Root.PrimaryTitle.GetFOA], ó ìåíÿ åñòü äîêàçàòåëüñòâà ìîøåííè÷åñòâà îäíîãî èç ó÷àñòíèêîâ òóðíèðà!"" — ñîîáùèë ìíå [From.GetTitledFirstName].\nÕîðîøî èçâåñòíî, ÷òî [From.GetSheHe] è ïðåäïîëàãàåìûé ìîøåííèê âðàæäóþò, íî ÿ íå ìîãó ñåáå ïðåäñòàâèòü, ÷òî [From.GetTitledFirstName] áóäåò ëãàòü î ÷¸ì òî ñòîëü ñåðü¸çíîì!";;x
+EVTDESC100422;The tournament was well on its way when [From.GetTitledFirstName], aggravated by [From.GetHerHis] losses at the list field where we both took part in the jousting, accused me of cheating and presented a ridiculous theory [From.GetSheHe] claimed proved I cheated!;;;;;;;;;;;Òóðíèð ïðîõîäèë, êàê ïîëîæåíî, êîãäà [From.GetTitledFirstName], ðàçî÷àðîâàííûé ñâîèìè íåóäà÷àìè, îáâèíèë ìåíÿ â ìîøåííè÷åñòâå è ïðåäñòàâèë ñìåøíóþ òåîðèþ. [From.GetSheHeCap] óòâåðæäàë, ÷òî èìååò äîêàçàòåëüñòâà, ÷òî ÿ ìîøåííè÷àþ!;;x
+EVTDESC100423;Everyone at the tournament [From.Liege.GetTitledFirstName] hosted heard [From.GetTitledFirstName] accusing me of cheating in the tournament. I did not think any one would believe [From.GetTitledFirstName]'s wild accusations, but the suspicious looks and the whispered gossip told me otherwise...;;;;;;;;;;;Âñå íà òóðíèðå, êîòîðûé ïðîâîäèò [From.Liege.GetTitledFirstName], ñëûøàëè, êàê [From.GetTitledFirstName] îáâèíÿë ìåíÿ â îáìàíå. ß íå äóìàë, ÷òî êòî-òî ïîâåðèë â [From.GetHersHis] äèêèå îáâèíåíèÿ, íî ïîäîçðèòåëüíûå âçãëÿäû è ïåðåø¸ïòûâàíèÿ ãîâîðèëè îá îáðàòíîì.;;x
+EVTDESC100424;[FromFrom.GetTitledFirstName] accused me of cheating in the tournament and [From.GetTitledFirstName] believed [FromFrom.GetHerHim]. I was thrown in jail based on unwarranted accusations from a rival of mine - [FromFrom.GetTitledFirstName]!;;;;;;;;;;;[FromFrom.GetTitledFirstName] îáâèíèë ìåíÿ â îáìàíå íà òóðíèðå è [From.GetTitledFirstName] âåðèò [FromFrom.GetHerHim]. ß áûë áðîøåí â òþðüìó íà îñíîâå íåîáîñíîâàííûõ îáâèíåíèé ìîåãî âðàãà!;;x
+EVTDESC100425;The false accusations from [FromFrom.GetTitledFirstName] about me cheating in the tournament was groundless but [From.GetTitledFirstName] believed every poisonous word that idiot told [From.GetHerHim]. Despite my protests and demands of a fair trial where [FromFrom.GetTitledFirstName] could present [FromFrom.GetHerHis] so-called 'evidence' [From.GetTitledFirstName] chose to banish me!;;;;;;;;;;;"Ëæèâûå îáâèíåíèÿ â ìîøåííè÷åñòâå íà òóðíèðå, êîòîðûìè áðîñàåòñÿ [FromFrom.GetTitledFirstName], áåñïî÷âåííû, íî [From.GetTitledFirstName] âåðèò êàæäîìó ÿäîâèòîìó ñëîâó, êîòîðîå ýòîò èäèîò ñêàçàë. Íåñìîòðÿ íà ìîè ïðîòåñòû è òðåáîâàíèÿ ñïðàâåäëèâîãî ñóäåáíîãî ðàçáèðàòåëüñòâà, ãäå [FromFrom.GetTitledFirstName] ñìîæåò ïðåäñòàâèòü ñâîè ""äîêàçàòåëüñòâà"", [From.GetTitledFirstName] èçãîíÿåò ìåíÿ èç ñòðàíû!";;x
+EVTDESC100426;After I told [From.GetTitledFirstName] about my rival cheating in the tournament I eagerly waited for [From.GetHerHis] reaction...;;;;;;;;;;;ß ðàññêàçàë î ìîøåííè÷åñòâå ñâîåãî ñîïåðíèêà íà òóðíèðå, è òåïåðü [From.GetTitledFirstName] ðàññìàòðèâàåò ìîè îáâèíåíèÿ...;;x
+EVTDESC100427;[From.GetTitledFirstName]'s face turned red and [From.GetSheHe] started sputtering swearwords when I accused [From.GetHerHim] of cheating in the tournament. I had made sure I made the accusations where as many people as possible could hear it, something I came to regret quickly when [From.GetTitledFirstName] challenged me to a duel!;;;;;;;;;;;[From.GetTitledFirstName] ïîêðàñíåë è íà÷àë ñûïàòü ðóãàòåëüñòâàìè, êîãäà ÿ îáâèíèë [From.GetHersHis] â æóëüíè÷åñòâå íà òóðíèðå. ß óáåäèëñÿ, ÷òî ìîè îáâèíåíèÿ ñëûøàëî íàñòîëüêî ìíîãî ëþäåé, íàñêîëüêî ýòî áûëî âîçìîæíî, íî ÿ áûñòðî ïîæàëåë îá ýòîì, êîãäà [From.GetTitledFirstName] âûçâàë ìåíÿ íà äóýëü!;;x
+EVTDESC100428;I defended my honor in the only way possible: I challenged [From.GetTitledFirstName] to a duel in front of all the tournament participants, the spectators and our host, [From.Liege.GetTitledFirstName]. No one calls me a cheater and gets away with it!;;;;;;;;;;;ß çàùèùàë ñâîþ ÷åñòü åäèíñòâåííî âîçìîæíûì ñïîñîáîì - äóýëü. [From.GetTitledFirstName] äîëæåí îòâåòèòü çà ñâîè ñëîâà. ß âûçâàë [From.GetHersHis] íà ïîåäèíîê ãëàçàõ ó âñåõ ó÷àñòíèêîâ òóðíèðà, çðèòåëåé è íàøåãî ñþçåðåíà ([From.Liege.GetTitledFirstName]). Íèêîìó íå ñîéä¸ò ñ ðóê íàçûâàòü ìåíÿ ìîøåííèêîì!;;x
+EVTDESC100429;It was as I thought, [From.GetTitledFirstName] was all talk and no spine. Coward! [From.GetTitledFirstName] hastily withdrew [From.GetHerHis] unwarranted accusations when I threatened to punch [From.GetHerHis] teeth down [From.GetHerHis] throat in a duel.;;;;;;;;;;;Êàê ÿ è äóìàë, [From.GetTitledFirstName] ìîæåò òîëüêî áîëòàòü è íè÷åãî áîëüøå. Òðóñ! [From.GetSheHeCap] ïîñïåøíî ñíÿë ñâîè îáâèíåíèÿ, êîãäà ÿ ïðèãðîçèë çàáèòü çóáû åìó â ãîðëî.;;x
+EVTOPTA70000;A chance to prove our worth;;;;;;;;;;;Ýòî øàíñ äîêàçàòü, ÷òî ÷åãî-òî ñòîèøü!;;x
+EVTOPTA70001;This is the time.;;;;;;;;;;;Âðåìÿ ïðèøëî.;;x
+EVTOPTA70002;A glorious event!;;;;;;;;;;;Ñëàâíîå ñîáûòèå.;;x
+EVTOPTA70002_TOOLTIP;Your combatants enjoyed the tournament, increasing §YOpinion§! by §G5§! for §Y5§! years\n;;;;;;;;;;;Ó÷àñòíèêàì ïîíðàâèëñÿ Âàø òóðíèð, ÷òî ïîâûøàåò èõ §Yìíåíèå î Âàñ§! íà §G5§! íà §Y5§! ëåò\n;;x
+EVTOPTA70003;But of course;;;;;;;;;;;Íó êîíå÷íî!;;x
+EVTOPTA70004;Glory to me;;;;;;;;;;;Ñëàâüòå ìåíÿ!;;x
+EVTOPTA70005;It was shameful;;;;;;;;;;;Áûëî î÷åíü, î÷åíü ñòûäíî.;;x
+EVTOPTA70006;I know they snigger behind my back.;;;;;;;;;;;ß çíàþ, ÷òî îíè ïîñìåèâàþòñÿ çà ìîåé ñïèíîé.;;x
+EVTOPTA70007;It was worthwhile.;;;;;;;;;;;Ýòî ñòîèëî òîãî.;;x
+EVTOPTA70008;Oh Dear;;;;;;;;;;;Àõ, áîæå ìîé...;;x
+EVTOPTA70009;Then I died;;;;;;;;;;;À ïîòîì ÿ óìåð...;;x
+EVTOPTA70010; When I awoke I was maimed.;;;;;;;;;;;Ïðèø¸ë â ñåáÿ ÿ óæå êàëåêîé.;;x
+EVTOPTA70011;The Wound, the  wound.;;;;;;;;;;;Ðàíû, ðàíû...;;x
+EVTOPTA70012;My cheeks burned in shame.;;;;;;;;;;;Ìîè ù¸êè ãîðåëè îò ïîçîðà.;;x
+EVTOPTA70013;They were all in awe with my manliness.;;;;;;;;;;;Îíè âñå áûëè â øîêå îò ìîåãî ãåðîèçìà.;;x
+EVTOPTA70014;I showed my toughness;;;;;;;;;;;ß ïîêàçàë, íà ÷òî ñïîñîáåí.;;x
+EVTOPTA70015;My skill shined through;;;;;;;;;;;ß áëèñòàë êàê íèêîãäà.;;x
+EVTOPTA70016;I was brilliant;;;;;;;;;;;ß äåéñòâèòåëüíî áëèñòàë.;;x
+EVTOPTA70017;Not good;;;;;;;;;;;Íå î÷åíü çäîðîâî...;;x
+EVTOPTA70018;But I am still tough;;;;;;;;;;;Íî ÿ ïî-ïðåæíåìó ìîãó÷.;;x
+EVTOPTA70019;I feel lessened;;;;;;;;;;;ß ÷óâñòâóþ ñåáÿ ìÿãêîòåëûì.;;x
+EVTOPTA70020;Victorious;;;;;;;;;;;Ïîáåäà!;;x
+EVTOPTA70021;Glory to me;;;;;;;;;;;Ñëàâà ìíå;;x
+EVTOPTA70022;Good but not quite good enough;;;;;;;;;;;Õîðîøî, íî íåäîñòàòî÷íî õîðîøî äëÿ ìåíÿ.;;x
+EVTOPTA70023;I dare not speak its name;;;;;;;;;;;ß íå ìîãó íàçâàòü åãî.;;x
+EVTOPTA70024;Probably nothing to worry about;;;;;;;;;;;Âåðîÿòíî, íå î ÷¸ì âîëíîâàòüñÿ...;;x
+EVTOPTA70025;One more drink won't hurt.;;;;;;;;;;;Åù¸ îäíà ðþìêà íå ïîâðåäèò.;;x
+EVTOPTA70026;I learnt something about myself.;;;;;;;;;;;ß óçíàë êîå-÷òî î ñåáå.;;x
+EVTOPTA70027;Intriguing;;;;;;;;;;;Èíòðèãóþùå.;;x
+EVTOPTA70028;Oops;;;;;;;;;;;Óïñ;;x
+EVTOPTA70029;I kept this knowledge to myself;;;;;;;;;;;ß çàïîìíèë ýòó èíôîðìàöèþ.;;x
+EVTOPTA70030;But I am right, aren't I?;;;;;;;;;;;Íî ÿ ïðàâ, íå òàê ëè?;;x
+EVTOPTA70031;I am more diplomatic than I thought.;;;;;;;;;;;ß áîëåå äèïëîìàòè÷åí, ÷åì äóìàë.;;x
+EVTOPTA70032;Oh;;;;;;;;;;;Îõ!;;x
+EVTOPTA70033;The tournament begins soon;;;;;;;;;;;Òóðíèð ñêîðî íà÷èíàåòñÿ.;;x
+EVTOPTA70034;[From.GetSheHeCap] truly deserves it!;;;;;;;;;;;[From.GetSheHeCap] ýòî çàñëóæèë[From.GetEndA]!;;x
+EVTOPTA70035;A most valiant performance!;;;;;;;;;;;Êàêîå ïðåâîñõîäíîå ïðåäñòàâëåíèå!;;x
+EVTOPTA70036;And fought hard [From.GetSheHe] did.;;;;;;;;;;;Ïîáåäà â ÷åñòíîé áîðüáå!;;x
+EVTOPTA70037;Then my bravery will be shown in battle!;;;;;;;;;;;Òîãäà, ÿ ïîêàæó ñâîþ õðàáðîñòü â áîþ!;;x
+EVTOPTA70038;Most unfortunate;;;;;;;;;;;Êàêîå íåñ÷àñòüå.;;x
+EVTOPTA70041;I hope my subjects will remember me as a benevolent ruler;;;;;;;;;;;ß íàäåþñü, ÷òî ìîè ïîääàííûå çàïîìíÿò ìåíÿ âåëèêîäóøíûì ïðàâèòåëåì;;x
+EVTOPTA70042;And I had so looked forward to this!;;;;;;;;;;;À ÿ òàê åãî æäàë[Root.GetEndA]!;;x
+EVTOPTA100420;[Root.Liege.GetTitledFirstName] will know what to do with the cheater!;;;;;;;;;;;[Root.Liege.GetTitledFirstName] óçíàåò îá ýòîì ìîøåííèêå!;;x
+EVTOPTA100421;Imprison the cheater!;;;;;;;;;;;Ïîñàäèòü ìîøåííèêà â òþðüìó!;;x
+EVTOPTA100422;I won every match fair and square!;;;;;;;;;;;ß âûèãðàë êàæäûé ìàò÷ ÷åñòíî è ñïðàâåäëèâî!;;x
+EVTOPTA100423;Gold will stop their gossiping!;;;;;;;;;;;Çîëîòî óñïîêîèò èõ áîëüíûå ôàíòàçèè!;;x
+EVTOPTA100424;I will kill you for this, [FromFrom.GetTitledFirstName]!;;;;;;;;;;;ß óáüþ òåáÿ, [FromFrom.GetTitledFirstName]!;;x
+EVTOPTA100425;When I get back, [FromFrom.GetTitledFirstName] will never be safe again...;;;;;;;;;;;Êîãäà ÿ âåðíóñü, [FromFrom.GetSheHe] óæå íå áóäåò â áåçîïàñíîñòè.;;x
+EVTOPTA100426;[From.GetTitledFirstName] decided to do nothing!;;;;;;;;;;;[From.GetTitledFirstName] íè÷åãî íå äåëàåò!;;x
+EVTOPTA100427;I accept, but don't you cheat this time!;;;;;;;;;;;ß ñîãëàñåí, íî Âàì ïðèä¸òñÿ áèòüñÿ ÷åñòíî!;;x
+EVTOPTA100428;I fear... I lost...;;;;;;;;;;;Áîþñü... ß ïðîèãðàë...;;x
+EVTOPTA100429;I should have done it anyway...;;;;;;;;;;;Íóæíî áûëî ñäåëàòü ýòî â ëþáîì ñëó÷àå.;;x
+EVTOPTB70000;A foolish risk for fleeting glory.;;;;;;;;;;;Ãëóïûé ðèñê ðàäè ìèìîë¸òíîé ñëàâû.;;x
+EVTOPTB70001;Sadly a small war will delay this;;;;;;;;;;;Ê ñîæàëåíèþ, íåáîëüøàÿ âîéíà çàäåðæèò íà÷àëî òóðíèðà.;;x
+EVTOPTB70038;Don't bother me with such details!;;;;;;;;;;;ß íå æåëàþ ñëóøàòü ïîäðîáíîñòè!;;x
+EVTOPTB100420;I'll confront him myself!;;;;;;;;;;;ß ñàì ðàçáåðóñü ñ íèì!;;x
+EVTOPTB100421;Banish the cheater;;;;;;;;;;;Èçãíàòü ìîøåííèêà!;;x
+EVTOPTB100422;Your 'evidence' is dishonoring, I challenge you to a duel!;;;;;;;;;;;"Âàøè ""äîêàçàòåëüñòâà"" îñêîðáèòåëüíû, ÿ âûçûâàþ Âàñ íà äóýëü!";;x
+EVTOPTB100423;Why should I care what they think?;;;;;;;;;;;Ïî÷åìó ìåíÿ âîîáùå âîëíóåò, ÷òî îíè äóìàþò?;;x
+EVTOPTB100426;[From.GetTitledFirstName] imprisoned the cheater!;;;;;;;;;;;[From.GetTitledFirstName] âåëèò áðîñèòü ìîøåííèêà â òþðüìó!;;x
+EVTOPTB100427;I jest, I jest! Please don't hit me...;;;;;;;;;;;ß øó÷ó, øó÷ó! Íå áåéòå ìåíÿ...;;x
+EVTOPTB100428;I proved my innocence when [From.GetSheHe] lay unconscious on the ground by my feet;;;;;;;;;;;[From.GetSheHeCap] óïàë áåç ñîçíàíèÿ, äîêàçàâ ýòèì ìîþ íåâèíîâíîñòü.;;x
+EVTOPTC100420;Everyone must know what a cheater he is!;;;;;;;;;;;Ïóñòü âñå óçíàþò, êòî îí òàêîé!;;x
+EVTOPTC100421;I need more proof than your words, [From.GetTitledFirstName]!;;;;;;;;;;;Ìíå íóæíû áîëåå âåñêèå äîêàçàòåëüñòâà, ÷åì Âàøè ñëîâà.;;x
+EVTOPTC100426;[From.GetTitledFirstName] banished the cheater!;;;;;;;;;;;[From.GetTitledFirstName] èçãîíÿåò ìîøåííèêà èç ñòðàíû!;;x
+EVTOPTC100428;I defeated [From.GetTitledFirstName] and thus proved I am not a cheater;;;;;;;;;;;ß ïîáåäèë [From.GetHersHis] è ýòèì äîêàçàë, ÷òî ÿ - íå ìîøåííèê.;;x
+EVTOPTD100420;I will hold my tongue and tell no one;;;;;;;;;;;ß áóäó äåðæàòü ÿçûê çà çóáàìè.;;x
+EVTTOOLTIP70042;Your vassals will be informed of your untimely death;;;;;;;;;;;Âàøèì âàññàëàì ñîîáùàò î Âàøåé áåçâðåìåííîé êîí÷èíå;;x
+EVTTOOLTIP100421;[Root.GetTitledFirstName] tells [This.GetTitledFirstName] about the cheating lord;;;;;;;;;;;[Root.GetTitledFirstName] ãîâîðèò ïåðñîíàæó [This.GetTitledFirstName] î ìîøåííèêå;;x
+EVTTOOLTIP100422;[Root.GetTitledFirstName] confronts [Root.GetHerHis] rival [This.GetTitledFirstName];;;;;;;;;;;[Root.GetTitledFirstName] ïðîòèâîñòîèò ñâîåìó ñîïåðíèêó ([This.GetTitledFirstName]);;x
+EVTTOOLTIP100423;[This.GetTitledFirstName] dislikes your slander;;;;;;;;;;;Íå ëþáèò Âàøó êëåâåòó;;x
+EVTTOOLTIP100424;[This.GetTitledFirstName] is imprisoned for cheating in the tournament;;;;;;;;;;;Ñèäèò â òþðüìå çà ìîøåííè÷åñòâî â òóðíèðå;;x
+EVTTOOLTIP100425;[This.GetTitledFirstName] is banished for cheating in the tournament;;;;;;;;;;;Èçãîíÿåòñÿ çà ìîøåííè÷åñòâî â òóðíèðå;;x
+EVTTOOLTIP100427;[This.GetTitledFirstName] is challenged to a duel;;;;;;;;;;;áðîøåí âûçîâ íà äóýëü;;x
+EVTTOOLTIP100428;[This.GetTitledFirstName] defends [This.GetHerHis] honor against [Root.GetTitledFirstName]'s accusations;;;;;;;;;;;çàùèùàåò ñâîþ ÷åñòü îò îáâèíåíèé ïåðñîíàæà [Root.GetTitledFirstName];;x
+EVTTOOLTIP100429;[This.GetTitledFirstName] have never seen a more spineless creature than [Root.GetTitledFirstName];;;;;;;;;;;íèêîãäà íå âèäåë áîëåå áåñõðåáåòíîå ñóùåñòâî, ÷åì [Root.GetTitledFirstName];;x
+TOURNAMENTTITLE;Grand Tournament;;;;;;;;;;;Âåëèêèé òóðíèð;;x
+tournament_invite;Let all knights of the realm be invited;;;;;;;;;;;Ïóñòü âñå ðûöàðè ñòðàíû áóäóò ïðèãëàøåíû.;;x

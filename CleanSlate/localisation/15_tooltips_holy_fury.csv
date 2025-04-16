@@ -1,608 +1,607 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-a_commander_joins_your_court_tt;A commander named §Y[invited_character.GetBestName]§! joins your court, ready for service.;;;;;;;;;;;;;x
-accept_baptism_request;[Root.GetTitledName] will sign a Non-Aggression Pact with [From.GetTitledName] and assist [From.GetHerHim] in converting [From.PrimaryTitle.GetName]'s population.;;;;;;;;;;;;;x
-active_reconquista_condition_TT;No active Reconquests in the Iberian Peninsula;;;;;;;;;;;;;x
-add_allies_reconquista_TT;Add promised allies to the §YReconquest War§!;;;;;;;;;;;;;x
-adopt_culture_and_religion_tt;Adopt the §Y[Root.Capital.Culture.GetName]§! culture and §Y[Root.Capital.Religion.GetName]§! faith.;;;;;;;;;;;;;x
-adopt_culture_tt;Adopt the §Y[Root.Capital.Culture.GetName]§! culture.;;;;;;;;;;;;;x
-adopt_religion_tt;Adopt the §Y[Root.Capital.Religion.GetName]§! faith.;;;;;;;;;;;;;x
-africa_surplus_grain_tt;All of your direct demesne provinces with §Y'Light Rain'§! or §Y'Heavy Rain'§! will be more likely to withstand drought related hardships in the future.;;;;;;;;;;;;;x
-african_sympathy_abrahamic;One of your neighbors or lieges must follow a §YChristian§!, §YIslamic§! or §YJudaic§! religion;;;;;;;;;;;;;x
-already_attempted_recruitment_tt;Has NOT recently been asked to join [From.Society.GetName]\n;;;;;;;;;;;;;x
-alternate_crusade_artifact_distribution_effect_TT;Receive an §YArtifact§! from §Y[From.GetTitledFirstName]§!;;;;;;;;;;;;;x
-always_approve_custom_tooltip;I will always approve this type of war!;;;;;;;;;;;;;x
-any_child_gets_angry_tt;Your other children might not approve of this...\n;;;;;;;;;;;;;x
-army_of_destiny_tt;An army with which to claim your destiny assembles!;;;;;;;;;;;;;x
-artifact_is_removed_tt;§Y[equipped_artifact.GetName]§! will be removed from your Treasury.\n;;;;;;;;;;;;;x
-assassins_raise_troops_cooldown_TT;Recently raised an Assassin army - cannot raise more troops until §Y[Root.assassins_raise_troops_cooldown.GetExpiryDate]§!;;;;;;;;;;;;;x
-available_because_benevolent_tt;This option is available because you are §Y[Root.GetBenevolentTrait]§!;;;;;;;;;;;;;x
-available_because_better;This option is available because you are §Y[From.GetFirstName]§!'s better;;;;;;;;;;;;;x
-available_because_books_tt;This option is available because you have §Y[book_target.GetName]§! in your §YTreasury§!;;;;;;;;;;;;;x
-available_because_duels;[Root.GetDuelOptionAvailable];;;;;;;;;;;;;x
-available_because_duels_bad;[Root.GetDaringDuelOptionAvailable];;;;;;;;;;;;;x
-available_because_dumb;This option is available because you are dumb;;;;;;;;;;;;;x
-available_because_dynasty_member_tt;This option is available to you because you are of the same §YDynasty§! as §Y[other_combatant.GetTitledFirstName]§!;;;;;;;;;;;;;x
-available_because_good_hunter;This option is available because of your §YHunting§! skills.;;;;;;;;;;;;;x
-available_because_loves_family;This option is available because you love your §YFamily§!;;;;;;;;;;;;;x
-available_because_malevolent_tt;This option is available because you are §Y[Root.GetMalevolentTrait]§!;;;;;;;;;;;;;x
-available_because_pretty;This option is available because you are §YAttractive§!;;;;;;;;;;;;;x
-available_because_relative;This option is available because §Y[From.GetFirstName]§! is your §Y[GetFromRelation]§!;;;;;;;;;;;;;x
-available_because_religious_doctrine;This option is available because of your religious §YDoctrine§!;;;;;;;;;;;;;x
-available_because_rivals_tt;This option is available because your rival is at risk.;;;;;;;;;;;;;x
-available_because_same_society;This option is available to you because you are also a member of §Y[Root.Society.GetName]§!;;;;;;;;;;;;;x
-available_due_to_smart;This option is available because you either have the §YGenius§!, §YQuick§!, or §YShrewd§! trait;;;;;;;;;;;;;x
-available_due_to_warrior_lodge;This option is available because you are a member of §Y[Root.Society.GetName]§!.;;;;;;;;;;;;;x
-bacchants_recruit_block_tooltip;Has not been approached by the Bacchants before.;;;;;;;;;;;;;x
-baptism_new_missionaries_tooltip;Missionaries from §Y[From.PrimaryTitle.GetName]§! will be dispatched to one of your pagan provinces in order to convert it to the new faith.\nNote that their actions might upset the peasantry.;;;;;;;;;;;;;x
-baptism_request_cooldown;Has recently asked for a mass conversion;;;;;;;;;;;;;x
-baptism_sponsor_ally;§Y[Root.GetTitledFirstName]§! is your §YAlly§!;;;;;;;;;;;;;x
-baptism_sponsor_distance;Distance from §Y[Root.GetTitledFirstName]'s§! realm;;;;;;;;;;;;;x
-baptism_sponsor_emperor;§Y[Root.GetTitledFirstName]§! is an §YEmperor§!;;;;;;;;;;;;;x
-baptism_sponsor_enemy;§Y[Root.GetTitledFirstName]§! is your §YEnemy§!;;;;;;;;;;;;;x
-baptism_sponsor_fylkir;§Y[Root.GetTitledFirstName]§! is the §YReligious Head§! of the §Y[Root.Religion.GetName]§! faith;;;;;;;;;;;;;x
-baptism_sponsor_opinion;§Y[Root.GetTitledFirstName]'s§! Opinion of §Y[From.GetTitledFirstName]§!;;;;;;;;;;;;;x
-baptism_sponsor_pagan;§Y[Root.GetTitledFirstName]§! is a §YReformed Pagan§!;;;;;;;;;;;;;x
-baptism_sponsor_patriarch;§Y[Root.GetTitledFirstName]§! rules over the §Y[Root.Religion.GetName]§! religious head;;;;;;;;;;;;;x
-baptism_sponsor_power;Relative power of §Y[Root.GetTitledFirstName]'s§! realm;;;;;;;;;;;;;x
-baptism_sponsor_proselytizer;§Y[Root.GetTitledFirstName]§! belongs to a proselytizing religion;;;;;;;;;;;;;x
-baptism_sponsor_relative;§Y[Root.GetTitledFirstName]§! is your §YRelative§!;;;;;;;;;;;;;x
-baptism_sponsor_size;Relative size of §Y[Root.GetTitledFirstName]'s§! realm;;;;;;;;;;;;;x
-baptism_sponsor_suzerain;§Y[Root.GetTitledFirstName]§! is your §YSuzerain§!;;;;;;;;;;;;;x
-baptism_sponsor_sympathetic;§Y[Root.GetTitledFirstName]§! is sympathetic towards §YPagans§!;;;;;;;;;;;;;x
-baptism_sponsor_tributary;§Y[Root.GetTitledFirstName]§! is a tributary of §Y[From.GetTitledFirstName]§!;;;;;;;;;;;;;x
-baptism_sponsor_wealth;§Y[Root.GetTitledFirstName]§! is wealthy;;;;;;;;;;;;;x
-bastard_eunuch_celibate_or_incapable_tt;Has the trait §YBastard§!, §YEunuch§!, §YCelibate§! or §YIncapable§!;;;;;;;;;;;;;x
-because_bloodline_tt;This option is available because of your §YBloodline§!;;;;;;;;;;;;;x
-begin_coronation_tooltip;Start preparing for your Coronation Ceremony.;;;;;;;;;;;;;x
-bektashi_loan_money_TT;§Y[d_bektashi.Holder.GetTitledName]§! has §G25§! or higher opinion of §Y[Root.GetTitledName]§!;;;;;;;;;;;;;x
-BLOODLINE_EASIER_VOWS_TOOLTIP;Both [From.GetFirstName] and [Root.GetFirstName] are relatives and belong to a §YBloodline§! endorsed by the §YPapacy§!;;;;;;;;;;;;;x
-both_tribal_and_has_strong_claim_tt;Duelers are §YTribal§!, and §Y[From.GetTitledFirstName]§! has a §YStrong Claim§! against §Y[Root.GetTitledFirstName]§!;;;;;;;;;;;;;x
-both_tribal_tt;Duelers are §YTribal§!;;;;;;;;;;;;;x
-boy_agnatic_tt;Is Male, while the Inheritance Law is §YAgnatic§!;;;;;;;;;;;;;x
-cannot_expel_jews_during_blame_game_chain_TT;Cannot expel [GetJewsName] during the worst parts of the Black Death epidemic;;;;;;;;;;;;;x
-chance_to_spread_cruel_tt;Tends to inspire characters to become §YCruel§!;;;;;;;;;;;;;x
-characters_are_not_busy_tt;Characters are NOT busy, or fighting a war;;;;;;;;;;;;;x
-chase_down_enemy_commander_tt;You chase down §Y[enemy_commander.GetTitledFirstName]§! for a personal duel on the battlefield...!\n;;;;;;;;;;;;;x
-child_adventures_tt;§Y[child_of_destiny.GetFullName]'s§! begins an invasion of §Y[target_invasion_character.PrimaryTitle.GetName]§!;;;;;;;;;;;;;x
-child_claims_realm_tt;§Y[child_of_destiny.GetFullName]'s§! claims dominion over §Y[top_liege_match_target.PrimaryTitle.GetName]§!;;;;;;;;;;;;;x
-childs_power_increases_tt;§Y[child_of_destiny.GetFullName]'s§! abilities keep growing...;;;;;;;;;;;;;x
-choose_a_story_tt;Choose a story to tell...;;;;;;;;;;;;;x
-choose_military_aspect_allow_tt;Is NOT currently choosing a Military Aspect;;;;;;;;;;;;;x
-completely_control_near_east_TT;Completely controls the region of the §YNear East§!;;;;;;;;;;;;;x
-control_jerusalem;Completely controls the §YLevant§!;;;;;;;;;;;;;x
-coronation_canceled;The Coronation Ceremony will be canceled.;;;;;;;;;;;;;x
-could_lead_to_ambitious_tt;This could lead to you becoming §YAmbitious§!...;;;;;;;;;;;;;x
-could_lead_to_brave_tt;This could lead to you becoming §YBrave§!...;;;;;;;;;;;;;x
-could_lead_to_diligent_tt;This could lead to you becoming §YDiligent§!...;;;;;;;;;;;;;x
-could_lead_to_patient_tt;This could lead to you becoming §YPatient§!...;;;;;;;;;;;;;x
-courtier_dies_tt;§Y[This.GetTitledFirstName]§!, visiting the prison, is killed in the ensuing chaos!;;;;;;;;;;;;;x
-create_archduchy_of_austria_TT;Become the §Y[From.GetArchdukeArchduchessCap] of Austria§!, and bring the core lands of §Y[d_styria.GetName]§! and §Y[d_osterreich.GetName]§! in under your new title;;;;;;;;;;;;;x
-create_bacchants_tooltip;The Secret Society of the §YBacchants§! is established.;;;;;;;;;;;;;x
-create_dralhas_children_tooltip;The Holy Order §YDralha's Children§! is established.;;;;;;;;;;;;;x
-create_myrmidons_tooltip;The Holy Order of the §YMyrmidons§! will be formed.;;;;;;;;;;;;;x
-create_outremer_tt;§Y[Root.GetBestName]§! creates the §YEmpire of the Outremer§!;;;;;;;;;;;;;x
-create_stoics_tooltip;The §YStoic Intelligentsia§! Society is founded.;;;;;;;;;;;;;x
-create_the_hansa_tooltip;Change into a Merchant Republic.;;;;;;;;;;;;;x
-create_treasury_condition_tooltip;Has three artifacts of at least §YQuality 2§! in the Treasury;;;;;;;;;;;;;x
-create_warrior_lodge_hellenic_tooltip;Establish the §YWarrior Society§! of the §YOlympian Champions§!;;;;;;;;;;;;;x
-crowned_by_trigger;Has been crowned;;;;;;;;;;;;;x
-crusade_invalidate_other_wars_TT;Cannot attack a fellow Crusader nor the Pope;;;;;;;;;;;;;x
-crusade_no_antipope_TT;The Pope is your religious head.;;;;;;;;;;;;;x
-custom_create_switzerland_tooltip;Collect the provinces of the Central Plateau into the new Allied Swiss Confederacy.;;;;;;;;;;;;;x
-dangerous_duel_tt;§Y[combatant_1.GetFirstName]§! will without a doubt be beaten bloody - effective, but perhaps a bit harsh?;;;;;;;;;;;;;x
-defense_pledge_crusade_target_TT;Can not pledge if you are the Primary Crusade Target;;;;;;;;;;;;;x
-defense_pledge_crusade_target_TT_2;Within diplomatic range.;;;;;;;;;;;;;x
-definitely_foul_play_tt;There are those who say foul play took place this day...;;;;;;;;;;;;;x
-destroy_muslim_leadership;The §YMuslim Caliphates§! are §YDestroyed§!;;;;;;;;;;;;;x
-dharmic_good_trait_power_tt;Power: §Y[GetDharmic] Wisdom§!\nMakes you lose wicked traits and gain pious ones over time.;;;;;;;;;;;;;x
-dishonorable_duel_major_tooltip;Considering the [This.GetDuelWeakness] of §Y[This.GetTitledFirstName]§!, certain characters will consider this challenge dishonorable.;;;;;;;;;;;;;x
-dishonorable_duel_medium_tooltip;Considering the [This.GetDuelWeakness] of §Y[This.GetTitledFirstName]§!, certain characters will consider this challenge beneath you.;;;;;;;;;;;;;x
-dishonorable_duel_minor_tooltip;Considering the [This.GetDuelWeakness] of §Y[This.GetTitledFirstName]§!, certain characters will consider this challenge in poor taste.;;;;;;;;;;;;;x
-disinherit_tt;Due to abandoning the realm, §Y[child_of_destiny.GetFirstName]§! makes the choice of becoming §RDisinherited§!!;;;;;;;;;;;;;x
-disinherit_you_tt;This action will §RDisinherit§! you!;;;;;;;;;;;;;x
-does_not_have_a_lifestyle_trait_tt;Does NOT have a lifestyle trait;;;;;;;;;;;;;x
-duel_tooltip_busy;Duelers are NOT busy or fighting a war\n;;;;;;;;;;;;;x
-duel_tooltip_challenged_before;Duelers have NOT challenged each other to a duel before\n;;;;;;;;;;;;;x
-duel_tooltip_decadent;§Y[From.GetTitledFirstName]§! is a '§YZealous§!' Muslim, and §Y[Root.GetTitledFirstName]§! is §YDecadent§!\n;;;;;;;;;;;;;x
-duel_tooltip_excommunicated;§Y[From.GetTitledFirstName]§! is '§YZealous§!', and §Y[Root.GetTitledFirstName]§! is §YExcommunicated§!\n;;;;;;;;;;;;;x
-duel_tooltip_foes;§Y[From.GetTitledFirstName]§! and §Y[Root.GetTitledFirstName]§! are foes\n;;;;;;;;;;;;;x
-duel_tooltip_no_war;Duelers are NOT involved in a war;;;;;;;;;;;;;x
-duel_tooltip_pregnant;Duelers are NOT §YPregnant§!\n;;;;;;;;;;;;;x
-duel_tooltip_recent_challenge_tt;§Y[From.GetTitledFirstName]§! has NOT recently issued this challenge to §Y[Root.GetTitledFirstName]§!;;;;;;;;;;;;;x
-duel_tooltip_recent_duel;Duelers have NOT recently been in any duel\n;;;;;;;;;;;;;x
-duel_tooltip_rivals;§Y[From.GetTitledFirstName]§! and §Y[Root.GetTitledFirstName]§! are rivals\n;;;;;;;;;;;;;x
-duel_tooltip_sickness;Duelers do NOT have the character modifier §YBedridden§! or §YSevere Illness§!\n;;;;;;;;;;;;;x
-duel_tooltip_valid_target;§Y[Root.GetTitledFirstName]§! is a valid duel target, within your religion or culture\n;;;;;;;;;;;;;x
-dueling_inappropriate_target_tt;As §Y[This.GetTitledFirstName]§! is a [This.GetDuelNormbreakingReason], this challenge is widely frowned upon.;;;;;;;;;;;;;x
-dynamic_crusader_state_tooltip;Occupy all De-Jure County titles of §Y[Root.GetFullBaseName]§!;;;;;;;;;;;;;x
-dynamic_crusader_state_tooltip_2;All De-Jure County title owners must be fighting the Crusade;;;;;;;;;;;;;x
-dynamic_crusader_state_tooltip_3;Is by the sea or neighboring a non-heretical Christian;;;;;;;;;;;;;x
-dynamic_crusader_state_tooltip_4;Have a §YCrusade Beneficiary§! or someone who has the potential to become a §YCrusade Beneficiary§!;;;;;;;;;;;;;x
-dynamic_crusader_state_tooltip_5;The §Y[Root.GetFullBaseName]§! is not De-Jure of the current Crusade target;;;;;;;;;;;;;x
-dynamic_crusader_state_tooltip_6;None of the DeJure County title are held by the Crusade target or its vassals;;;;;;;;;;;;;x
-e_hispania_allow_TT;No de jure Kingdom title is held by a non-[Root.Religion.GetGroupName];;;;;;;;;;;;;x
-eastern_marches_austria_TT;Decide upon which name your new Kingdom will take.;;;;;;;;;;;;;x
-easy_duel_tt;§Y[combatant_1.GetFirstName]§! is likely to win, but will [combatant_1.GetSheHe] appreciate my choice?;;;;;;;;;;;;;x
-emperor_has_hre;Direct vassal of §Y[e_hre.Holder.GetTitledName]§!;;;;;;;;;;;;;x
-emperor_likes_you_quite_a_lot_TT;§Y[e_hre.Holder.GetTitledFirstName]§! opinion of §Y[Root.GetTitledFirstName]§! is greater or equal to §Y50§!;;;;;;;;;;;;;x
-enemy_commander_looms_over_you_tt;The enemy's Commander, §Y[enemy_commander.GetTitledFirstName]§!, shouts to press on.\n;;;;;;;;;;;;;x
-enemy_commander_looms_over_your_artifact_tt;The enemy's Commander, §Y[enemy_commander.GetTitledFirstName]§!, eyes the §Y[dueling_weapon_1.GetName]§! on the ground...\n;;;;;;;;;;;;;x
-even_duel_tt;Either §Y[combatant_1.GetFirstName]§! or §Y[society_practice_duelist_target_2.GetFirstName]§! could win, this will be an even fight.;;;;;;;;;;;;;x
-evenly_matched_tt;§Y[This.GetTitledFirstName]§! is somewhat evenly matched to §Y[Prev.GetTitledFirstName]§!;;;;;;;;;;;;;x
-fellow_prisoner_dies_tt;Your fellow prisoner §Y[This.GetTitledFirstName]§! dies, caught in your crossfire!;;;;;;;;;;;;;x
-flag_poisoning_mother;Attempt to poison [From.GetTitledFirstName]'s drink.;;;;;;;;;;;;;x
-flag_smothering_mother;Attempt to smother [From.GetTitledFirstName] in her sleep.;;;;;;;;;;;;;x
-flower_war_cb_tooltip;All captured enemy troops will be sacrificed to the gods upon victory, leaving [This.GetTitledFirstName]'s lands undefended for several years.;;;;;;;;;;;;;x
-forced_to_crusade_TT;Cannot unpledge from the Crusade if the Pope forced you to be part of it.;;;;;;;;;;;;;x
-form_holy_sepulchre_jerusalem_TT;§YCounty of Jerusalem§! is held by §Y[Root.GetTitledName]§! or another lord in the realm;;;;;;;;;;;;;x
-form_holy_sepulchre_TT;Form the §Y[d_holy_sepulchre.GetName]§!;;;;;;;;;;;;;x
-form_knights_of_calatrava_TT;You form and vassalize the §Y[d_knights_calatrava.GetName]§!, a §YHoly Order§! which will be situated in §YCalatrava§!;;;;;;;;;;;;;x
-form_knights_of_santiago_TT;You form and vassalize the §Y[d_knights_santiago.GetName]§!, a §YHoly Order§! which will be situated in §YSantiago§!;;;;;;;;;;;;;x
-form_lcr_tt;§Y[Root.GetBestName]§! creates the §YSlavic Union§!;;;;;;;;;;;;;x
-form_teutonic_order_jerusalem_TT;§Y[k_jerusalem.GetName]§! is held by a §Y[Root.Religion.GetName]§! ruler;;;;;;;;;;;;;x
-form_teutonic_order_TT;You form the §Y[d_teutonic_order.GetName]§!;;;;;;;;;;;;;x
-FORM_THE_HRE_TT;Hold a King title besides [k_germany.GetName].;;;;;;;;;;;;;x
-form_vassalize_holy_sepulchre_TT;Vassalize the §Y[d_holy_sepulchre.GetName]§!;;;;;;;;;;;;;x
-found_bloodline_tt;§Y[This.GetBestName]§! becomes known as the founder of a §YBloodline§!;;;;;;;;;;;;;x
-from_has_gained_fussy_tt;§Y[From.GetFirstName]§! has become §YFussy§!;;;;;;;;;;;;;x
-gain_berserker_tt;§Y[This.GetTitledFirstName]§! gains the trait §YBerserker§! giving:\nMartial: §G+4§!\nDiplomacy: §R-2§!\nPersonal Combat Skill: §G+25§!\nSame Trait Opinion: §G+10§!\n\n[GetBerserkerDecisionExtras]\n;;;;;;;;;;;;;x
-gain_use_of_invasion_cb_tt;You are granted one free use of the §YInvasion§! Casus Belli!;;;;;;;;;;;;;x
-gender_is_culturally_or_religiously_eligble_tt;The gender of §Y[Root.GetTitledName]§! is culturally or religiously eligible\n;;;;;;;;;;;;;x
-girl_enatic_tt;Is Female, while the Inheritance Law is §YEnatic§!;;;;;;;;;;;;;x
-good_progress_tt;You make progress on your legendary journey\n;;;;;;;;;;;;;x
-great_progress_tt;You make §Ggreat§! progress on your legendary journey\n;;;;;;;;;;;;;x
-haruriyyah_loan_money_TT;§Y[d_haruriyyah.Holder.GetTitledName]§! has §G25§! or higher opinion of §Y[Root.GetTitledName]§!;;;;;;;;;;;;;x
-has_dueling_exp_tt;Has experience with duels;;;;;;;;;;;;;x
-has_liege_vassal_or_neighbor_of_baltic_religion_tt;Has a §YLiege§!, §YVassal§!, or a §Yneighboring ruler§! who follows the §YRomuva§! faith\n;;;;;;;;;;;;;x
-has_liege_vassal_or_neighbor_of_bon_religion_tt;Has a §YLiege§!, §YVassal§!, or a §Yneighboring ruler§! who follows the §YBön§! faith\n;;;;;;;;;;;;;x
-has_liege_vassal_or_neighbor_of_finnish_religion_tt;Has a §YLiege§!, §YVassal§!, or a §Yneighboring ruler§! who follows the §YSuomenusko§! faith\n;;;;;;;;;;;;;x
-has_liege_vassal_or_neighbor_of_hellenic_religion_tt;Has a §YLiege§!, §YVassal§!, or a §Yneighboring ruler§! who follows the §YHellenic§! faith\n;;;;;;;;;;;;;x
-has_liege_vassal_or_neighbor_of_norse_religion_tt;Has a §YLiege§!, §YVassal§!, or a §Yneighboring ruler§! who follows the §YGermanic§! faith\n;;;;;;;;;;;;;x
-has_liege_vassal_or_neighbor_of_slavic_religion_tt;Has a §YLiege§!, §YVassal§!, or a §Yneighboring ruler§! who follows the §YSlavic§! faith\n;;;;;;;;;;;;;x
-has_liege_vassal_or_neighbor_of_tengri_religion_tt;Has a §YLiege§!, §YVassal§!, or a §Yneighboring ruler§! who follows the §YTengri§! faith\n;;;;;;;;;;;;;x
-has_liege_vassal_or_neighbor_of_west_african_religion_tt;Has a §YLiege§!, §YVassal§!, or a §Yneighboring ruler§! who follows the §YAfrican§! faith\n;;;;;;;;;;;;;x
-has_liege_vassal_or_neighbor_of_zun_religion_tt;Has a §YLiege§!, §YVassal§!, or a §Yneighboring ruler§! who follows the §YZunist§! faith\n;;;;;;;;;;;;;x
-has_mission_to_recruit_tt;Has a mission to recruit §Y[Root.GetTitledFirstName]§!;;;;;;;;;;;;;x
-has_no_warrior_training_with_current_society_tt;Has NOT already gained a Commander trait from [From.Society.GetName]\n;;;;;;;;;;;;;x
-has_not_angered_society_tt;Has NOT angered society;;;;;;;;;;;;;x
-has_religion_matching_joined_warrior_lodge_tt;Has a religion that corresponds with [This.Society.GetName]\n;;;;;;;;;;;;;x
-has_warrior_training_with_current_society_tt;Has gained a Commander trait from [From.Society.GetName]\n;;;;;;;;;;;;;x
-hashshashin_loan_money_TT;§Y[d_fedayeen.Holder.GetTitledName]§! has §G25§! or higher opinion of §Y[Root.GetTitledName]§!;;;;;;;;;;;;;x
-hfp_abdicate_crusader_state_tooltip;§Y[Root.GetTitledName]§! abdicates all [Root.GetHerHis] old titles to settle down in §Y[duchy_region.GetBaseName]§!;;;;;;;;;;;;;x
-higher_tier_than_count_TT;Higher tier than Count;;;;;;;;;;;;;x
-higher_tier_than_teutonic_knights_TT;Higher tier than the §YTeutonic Knights§!;;;;;;;;;;;;;x
-hire_teutonic_honor_guard_cooldown_TT;Recently raised the Teutonic Honor Guard - cannot raise it again until §Y[Root.hire_teutonic_honor_guard_cooldown.GetExpiryDate]§!;;;;;;;;;;;;;x
-holy_order_donate_cooldown_tt;Has NOT donated to a Holy Order in the past year[Root.GetHolyOrderDonationCD];;;;;;;;;;;;;x
-home_liege_will_be_notified_of_death_tt;§Y[home_liege.GetTitledName]§! will be notified of your demise.\n;;;;;;;;;;;;;x
-if_less_than_10_members_demands_tt;The society has less than §Y10§! members, and you publicly follow the [GetWLCanJoinReligion]\n;;;;;;;;;;;;;x
-impious_beatification_tooltip;The recent ecclesiastical disagreements has brought on a lack of faith in the §RAuthority§! of the church;;;;;;;;;;;;;x
-impious_canonization_tooltip;The canonization of §Y[saint_person.GetTitledName]§! has brought on a lack of faith in the §RAuthority§! of the church;;;;;;;;;;;;;x
-improved_diplo_1_tt;§Y[horoscope_child.GetTitledFirstName]§! gained §G1§! Diplomacy\n;;;;;;;;;;;;;x
-improved_diplo_2_tt;§Y[horoscope_child.GetTitledFirstName]§! gained §G2§! Diplomacy\n;;;;;;;;;;;;;x
-improved_int_1_tt;§Y[horoscope_child.GetTitledFirstName]§! gained §G1§! Intrigue\n;;;;;;;;;;;;;x
-improved_int_2_tt;§Y[horoscope_child.GetTitledFirstName]§! gained §G2§! Intrigue\n;;;;;;;;;;;;;x
-improved_learn_1_tt;§Y[horoscope_child.GetTitledFirstName]§! gained §G1§! Learning\n;;;;;;;;;;;;;x
-improved_learn_2_tt;§Y[horoscope_child.GetTitledFirstName]§! gained §G2§! Learning\n;;;;;;;;;;;;;x
-improved_martial_1_tt;§Y[horoscope_child.GetTitledFirstName]§! gained §G1§! Martial\n;;;;;;;;;;;;;x
-improved_martial_2_tt;§Y[horoscope_child.GetTitledFirstName]§! gained §G2§! Martial\n;;;;;;;;;;;;;x
-improved_stew_1_tt;§Y[horoscope_child.GetTitledFirstName]§! gained §G1§! Stewardship\n;;;;;;;;;;;;;x
-improved_stew_2_tt;§Y[horoscope_child.GetTitledFirstName]§! gained §G2§! Stewardship\n;;;;;;;;;;;;;x
-inaccessible_tooltip;Is NOT in Hiding, in Seclusion, out traveling, or otherwise occupied with important business\n;;;;;;;;;;;;;x
-increase_battlefield_exp_tt;Your §YBattlefield Experience§! increases\n;;;;;;;;;;;;;x
-increase_duel_exp_tt;Your §YDuel Experience§! increases\n;;;;;;;;;;;;;x
-increase_duel_renown_tt;Your §YDuel Renown§! increases\n;;;;;;;;;;;;;x
-invasions_limited_lifetime_tt;For as long as you live, you can use the §GInvasion Casus Belli§!;;;;;;;;;;;;;x
-iron_cross_broken;§Y[Root.GetTitledFirstName]§! breaks the Iron Crown of Lombardy searching for the sacred nail.;;;;;;;;;;;;;x
-is_child_or_sibling_of_yours_tt;Is a child or sibling of yours\n;;;;;;;;;;;;;x
-is_inaccessible_tooltip;Is NOT in Hiding, in Seclusion, out traveling, or otherwise occupied with important business\n;;;;;;;;;;;;;x
-is_member_of_any_warrior_lodge_tt;Is a member of a Warrior Lodge\n;;;;;;;;;;;;;x
-is_member_of_roots_warrior_lodge_tt;§Y[Root.GetTitledName]§! and §Y[From.GetTitledName]§! are members of the same Warrior Lodge.\n;;;;;;;;;;;;;x
-jewish_courtier_tooltip;A [jewish.GetName] courtier named §Y[jewish_courtier.GetFullName]§! arrives at your court;;;;;;;;;;;;;x
-jews_are_expelled;All [GetJewsName] are expelled from the realm.;;;;;;;;;;;;;x
-jews_are_welcome;[GetJewsName] are welcomed back into the realm.;;;;;;;;;;;;;x
-join_bishop_orgy;Join the debauched feast planned by §Y[From.GetTitledFirstName]§!;;;;;;;;;;;;;x
-join_holy_order_flee_TT;§Y[Root.GetTitledName]§! flees the court.;;;;;;;;;;;;;x
-join_holy_order_success_TT;§Y[Root.GetTitledName]§! joins the §Y[FromFrom.PrimaryTitle.GetName]§!.;;;;;;;;;;;;;x
-join_pope_orgy;Join the debauched feast that §Y[From.GetTitledFirstName]§! is planning to consume at the Holy See.;;;;;;;;;;;;;x
-join_reconquista_war_other_TT;§Y[Root.GetTitledName]§! will join in §Y[FromFrom.GetTitledName]s§! Reconquest War;;;;;;;;;;;;;x
-join_reconquista_war_TT;§Y[FromFrom.GetTitledName]§! will join in our Reconquest War;;;;;;;;;;;;;x
-join_war_to_defend_pope_TT;I will join §Y[From.GetTitledFirstName]§! in [From.GetHerHis] defense against the unjust §Y[papal_attacker.GetTitledName]§!;;;;;;;;;;;;;x
-join_war_to_despose_pope_TT;I will join §Y[papal_attacker.GetTitledFirstName]§! in [papal_attacker.GetHerHis] war to depose the impious §Y[From.GetTitledName]§!;;;;;;;;;;;;;x
-journey_begins_tt;Your journey begins...;;;;;;;;;;;;;x
-knights_templar_loan_money_TT;§Y[d_knights_templar.Holder.GetTitledName]§! has §G25§! or higher opinion of §Y[Root.GetTitledName]§!;;;;;;;;;;;;;x
-legendary_gathering_cd_tt;Has NOT been done for one hundred years;;;;;;;;;;;;;x
-legendary_gathering_tt;Unlocks the society §YLegend§! progress bar\nAll members of your society will begin to contribute to the §YLegend§! of §Y[Root.Society.GetNameCap]§!;;;;;;;;;;;;;x
-legendary_warrior_bloodline_trigger_tt;Is part of a §YLegendary Bloodline§! favored by §YWarrior Lodges§!;;;;;;;;;;;;;x
-make_shieldmaiden_custom_tooltip_1;Is either: §YBrave§!, §YProud§!, §YAmbitious§!, §YDiligent§!, §YJust§!, or §YGregarious§!\n;;;;;;;;;;;;;x
-may_found_bloodline_tt;If you fulfill your destiny of becoming §YKing§! you will found a new §YBloodline§!!;;;;;;;;;;;;;x
-mother_going_countryside;Inform your [GetFromRelation] that you will take leave and spend your pregnancy in the countryside.;;;;;;;;;;;;;x
-mother_going_countryside_2;Retire and let your Regent take charge while you spend the last months of your pregnancy away from court.;;;;;;;;;;;;;x
-mother_keeps_ruling;Inform your [GetFromRelation] that you will keep ruling for the duration of the pregnancy.;;;;;;;;;;;;;x
-mother_keeps_ruling_2;Continue to rule at your own risk.;;;;;;;;;;;;;x
-mother_staying_court;Inform your [GetFromRelation] that you will take leave and remain confined in your private quarters for the duration of the pregnancy.;;;;;;;;;;;;;x
-mother_staying_court_2;Retire and let your Regent take charge while you spend the last months of your pregnancy in seclusion in your private chambers.;;;;;;;;;;;;;x
-new_crusade_win_TT;The Crusaders will take all the land in the targeted title held by §Y[From.GetTitledName]§!;;;;;;;;;;;;;x
-new_reconquista_beneficiary_self;§Y[This.GetTitledName]§! becomes my new beneficiary.;;;;;;;;;;;;;x
-no_fitting_ruler_TT;Any fitting target for a Northern Crusade;;;;;;;;;;;;;x
-no_inheritance_troops_tt;§RThese units will NOT be inherited by your successors!§!;;;;;;;;;;;;;x
-no_one_wins_the_duel_tt;No one wins the duel.\n;;;;;;;;;;;;;x
-no_special_gender_laws_active_tt;Special §YLaws§! or §YGame Rules§! are NOT active\n;;;;;;;;;;;;;x
-northern_crusade_correct_kingdom_teutonic_order_TT;§Y[Root.GetTitledName]§! has land in §Y[northern_crusade_kingdom_title.GetFullName]§!;;;;;;;;;;;;;x
-northern_crusade_correct_kingdom_TT;Has land in the Kingdom targeted by the Teutonic Knights;;;;;;;;;;;;;x
-northern_crusade_decision_cooldown_TT;Can ask the Teutonics for help again after §Y[From.northern_crusade_targeted_decision_cooldown.GetExpiryDate]§!;;;;;;;;;;;;;x
-northern_crusade_fitting_title_02_TT;Has land in §YNorthern Europe§!, §YEastern Baltic§! or §YRus Region§!;;;;;;;;;;;;;x
-northern_crusade_fitting_title_TT;Has land in §Y[northern_crusade_kingdom_title.GetFullName]§!;;;;;;;;;;;;;x
-northern_crusade_targeted_decision_TT;§Y[d_teutonic_order.Holder.GetTitledName]§! has §G10§! or higher opinion of §Y[This.GetTitledName]§!;;;;;;;;;;;;;x
-not_already_going_berserk_tt;NOT already going berserk;;;;;;;;;;;;;x
-not_already_using_toughness_tt;NOT already focusing on an injury;;;;;;;;;;;;;x
-NOT_DESCENDANT_OF_A_JEWISH_SAINT;Is NOT the descendant of a Saintly Bloodline commended by the [jewish.GetName] community;;;;;;;;;;;;;x
-not_enatic_or_agnatic_tt;The Inheritance Law is neither §YAgnatic§! or §YEnatic§!;;;;;;;;;;;;;x
-NOT_HEIR_TITLE_TT;Not heir to any titles;;;;;;;;;;;;;x
-not_recently_told_a_story_tt;Has NOT recently told a story;;;;;;;;;;;;;x
-not_reverse_truce_TT;Does not have a truce with §Y[Root.GetTitledName]§!;;;;;;;;;;;;;x
-notify_parent_recruiter_tt;Your [recruiting_parent.GetRootRelation] will hear about this...\n;;;;;;;;;;;;;x
-obj_forge_bloodline_condition_tooltip;In order to complete this ambition you need to perform one of the following tasks, or to found a §YBloodline§! through other means:\n §Y*§! Murder or Execute §Y30§! people. [Root.GetFoundBloodlineKillCounter]\n §Y*§! Win §Y15§! foreign wars. [Root.GetFoundBloodlineWarCounter]\n §Y*§! Rule at peace for §Y30§! years. [Root.GetFoundBloodlinePeaceCounter]\n §Y*§! Build §Y10§! cities. [Root.GetFoundBloodlineCityCounter]\n §Y*§! Build §Y10§! castles. [Root.GetFoundBloodlineCastleCounter]\n §Y*§! Build §Y10§! temples. [Root.GetFoundBloodlineTempleCounter]\n\nNote that pursuing multiple tasks at the same time might result in the creation of a hybridized bloodline.;;;;;;;;;;;;;x
-obj_make_friends_condition_tooltip;To complete the ambition you need to make a friend.;;;;;;;;;;;;;x
-only_one_vassalized_holy_order_TT;Can only have one Holy Order vassalized at a time;;;;;;;;;;;;;x
-opinion_duel_decline_cooldown_tt;Has NOT recently refused a challenge (Expires: [This.has_recently_declined_duel_cooldown.GetExpiryDate]);;;;;;;;;;;;;x
-owns_jerusalem_tt;Holds the §YCounty§! of §YJerusalem§!;;;;;;;;;;;;;x
-pacifist_alt_tooltip;This act violates your religious doctrine of non-violence\n;;;;;;;;;;;;;x
-pagan_branch_timer;§Y[Root.GetTitledFirstName]§! has NOT recently chosen a Religious Branch.;;;;;;;;;;;;;x
-pagan_pope_cannonize_choice_TT;[saint_person.GetTitledName] will be made a §YBlessed Ancestor§! of the faith. [saint_person.GetHerHisCap] §YDynasty§! would surely appreciate the gesture.;;;;;;;;;;;;;x
-papal_orgy_communion;Take the §Y[coronation_priest.GetTitle]'s§! holy gift.;;;;;;;;;;;;;x
-papal_orgy_drunk;Climb over the fountain of wine and nectar in the middle of the garden.;;;;;;;;;;;;;x
-papal_orgy_flee;Free yourself from §Y[coronation_priest.GetTitledFirstName]'s§! hold and flee from the orgy.;;;;;;;;;;;;;x
-papal_orgy_glutton;Gorge on the lavish feast before your eyes.;;;;;;;;;;;;;x
-papal_orgy_lustful;Jump on the pile of naked bodies.;;;;;;;;;;;;;x
-peasant_rabble_TT;A regiment of peasant rabble will appear at §Y[Root.Capital.GetName]§!;;;;;;;;;;;;;x
-player_character_beneficiary_TT;You will now play as §Y[beneficiary_check_crusader_beneficiary.GetTitledName]§! instead of §Y[Root.GetTitledName]§!;;;;;;;;;;;;;x
-player_character_dynamic_crusader_state_2_TT;You will now play as §Y[From.GetTitledName]§! instead of §Y[Root.GetTitledName]§!;;;;;;;;;;;;;x
-player_character_dynamic_crusader_state_TT;You will now play as §Y[current_crusade_beneficiary.GetTitledName]§! instead of §Y[Root.GetTitledName]§!;;;;;;;;;;;;;x
-player_character_TT;You will now play as §Y[new_crusader_king.GetTitledName]§! instead of §Y[Root.GetTitledName]§!;;;;;;;;;;;;;x
-pledge_crusade_alternate_crusades;Not currently part of another Crusade;;;;;;;;;;;;;x
-poison_was_only_mildly_effective_tt;Your sabotage had little to no effect.;;;;;;;;;;;;;x
-poison_was_very_effective_tt;Your sabotage probably helped...;;;;;;;;;;;;;x
-poorly_trained_troops_TT;A regiment of poorly trained troops will appear at §Y[Root.Capital.GetName]§!;;;;;;;;;;;;;x
-pope_cannonize_choice_TT;[saint_person.GetTitledName] will be made a §YSaint§! of the faith. [saint_person.GetHerHisCap] dynasty would surely appreciate the gesture.;;;;;;;;;;;;;x
-promoted_commander_TT;A soldier appears at the court of §Y[Root.GetTitledName]§!.;;;;;;;;;;;;;x
-quest_target_tt;§Y[From.GetTitledFirstName]§! has a mission to duel §Y[Root.GetTitledFirstName]§!;;;;;;;;;;;;;x
-random_building_is_destroyed_tt;A random building is §Rdestroyed§! in §Y[This.GetName]§!.;;;;;;;;;;;;;x
-rank_up_blocked_tt;Has NOT forfeited the rank before;;;;;;;;;;;;;x
-ravenna_TT;The title will be known as the §YKingdom of Ravenna§!;;;;;;;;;;;;;x
-reason_has_equipped_artifact;This option is available because you have §Y[equipped_artifact.GetName]§! equipped;;;;;;;;;;;;;x
-REASON_IS_A_HORSE;This option is available because you are a §Yhorse§!;;;;;;;;;;;;;x
-recent_crusade_pledge_TT;Has NOT recently pledged to join the Crusade [Root.GetCrusadePledgeCD];;;;;;;;;;;;;x
-recent_crusade_unpledge_TT;Has NOT recently removed my pledge to join the Crusade [Root.GetCrusadeUnpledgeCD];;;;;;;;;;;;;x
-recently_lost_rank_up_duel_tt;Did NOT recently prove [Root.GetHerselfHimself] unworthy of this\n;;;;;;;;;;;;;x
-reconquest_decision_tt;When the time comes, I will join in [Root.GetFirstNameWithNick]'s reconquest war!;;;;;;;;;;;;;x
-reconquista_mercenary_cooldown_other_TT;Have not recently been asked to offer [Root.GetHerHis] services - can be asked again at §Y[Root.reconquista_mercenary_other_cooldown.GetExpiryDate]§!;;;;;;;;;;;;;x
-reconquista_mercenary_cooldown_TT;Have not recently offered your services - can offer your services again at §Y[From.reconquista_mercenary_cooldown.GetExpiryDate]§!;;;;;;;;;;;;;x
-reconquista_pious_sponsor_TT;Increases §YDamage Against Religious Enemies§! of troops commanded by §Y[FromFrom.GetDynName]§!.;;;;;;;;;;;;;x
-reconquista_renowned_sponsor_TT;Increases §YMorale Damage§! and §YSpeed§! of troops commanded by §Y[FromFrom.GetDynName]§!.;;;;;;;;;;;;;x
-reconquista_valid_2_TT;Target does not publicly practice a [Root.Religion.GetGroupName] religion;;;;;;;;;;;;;x
-reconquista_valid_TT;Reconquista no longer led by the one who started campaign.;;;;;;;;;;;;;x
-reconquista_vassalize_TT;§Y[Prev.GetTitledName]§! will vassalize or take everything held by §Y[From.GetTitledName]§! in the §Y[This.GetFullBaseName]§!;;;;;;;;;;;;;x
-reconquista_wealthy_sponsor_TT;Increases §YMorale Defense§! and §YSiege Speed§! of troops commanded by §Y[FromFrom.GetDynName]§!.;;;;;;;;;;;;;x
-recruit_tooltip_busy;Recruit is NOT busy, or fighting a war\n;;;;;;;;;;;;;x
-refuse_baptism_request;[Root.GetTitledName] will inform [From.GetTitledName] that [Root.GetSheHe] is not interested in sponsoring the conversion of [From.PrimaryTitle.GetName] to the [Root.Religion.GetName] faith.;;;;;;;;;;;;;x
-# remove_previous_reconquista_beneficiary;§Y[reconquista_beneficiary_target.GetTitledName]§! will no longer be my beneficiary.;;;;;;;;;;;;;x
-restore_byzantine_empire_TT;Become the Emperor of the §YByzantine Empire§!;;;;;;;;;;;;;x
-romagna_TT;The title will be known as the §Y[k_romagna.GetFullBaseName]§!;;;;;;;;;;;;;x
-russian_empire_cheaper_tribal_upgrades;Lowers the requirements for upgrading Tribal Holdings to Castles;;;;;;;;;;;;;x
-saintly_bloodline_same_culture_TT;[From.Founder.Culture.GetName];;;;;;;;;;;;;x
-saintly_bloodline_same_religion_TT;[From.Founder.Religion.GetName];;;;;;;;;;;;;x
-same_dynasty_as_emperor_TT;Same dynasty as §Y[e_hre.Holder.GetTitledName]§!;;;;;;;;;;;;;x
-scorned_powerful_theocrats;Any other powerful Bishop in the realm will be §ROffended§! if you snub him for a minor prelate.;;;;;;;;;;;;;x
-scorned_the_pope;By not seeking legitimacy directly from the Holy See, your coronation will §ROffend§! the §YPope§!.;;;;;;;;;;;;;x
-send_baptism_request;Contact [From.GetName]'s liege and ask [From.GetHerHim] to sponsor your realm's conversion;;;;;;;;;;;;;x
-settle_iceland_tt;Settles Iceland with many proper [Root.Culture.GetName] families;;;;;;;;;;;;;x
-so_much_for_poison_tt;Your sabotage had no effect.;;;;;;;;;;;;;x
-society_has_at_least_10_members_tt;§Y[From.GetNameCap]§! has at least §Y10§! members\n;;;;;;;;;;;;;x
-society_legend_increases_tt;The §YLegend§! of §Y[Root.Society.GetNameCap]§! increases\n;;;;;;;;;;;;;x
-spawn_slow_fever_tt;§RSlow Fever§! will break out in §Y[starved_province.GetName]§!.;;;;;;;;;;;;;x
-special_gender_laws_active_tt;Special §YLaws§! or §YGame Rules§! are active\n;;;;;;;;;;;;;x
-special_join_warrior_lodge_trigger_tt;Has a §YLiege§!, §YVassal§!, or a §Yneighboring ruler§! who follows the [GetWLCanJoinReligion]\n;;;;;;;;;;;;;x
-spouse_informed_uncrowned;Chide §Y[From.GetFirstName]§! about [From.GetHerHis] lack of legitimacy as §Y[From.GetTitle]§!.;;;;;;;;;;;;;x
-start_antagonize_charview_tooltip;§YAntagonize [Root.GetTitledFirstName]§!;;;;;;;;;;;;;x
-start_antagonize_charview_tooltip_delayed;Begin antagonizing §Y[Root.GetTitledFirstName]§!, taunting and threatening [Root.GetHerHim].\n\nWhile antagonizing another character you will be presented with opportunities to make life miserable for them, lowering their §YOpinion§! of you. These opportunities commonly involve trickery, deception or outright slander and often improve the mood of characters with a cruel disposition. You can only antagonize one character at a time.;;;;;;;;;;;;;x
-start_preparing_reconquista_TT;Start preparing for a §YReconquest War§!;;;;;;;;;;;;;x
-start_sway_charview_tooltip;§YSway [Root.GetTitledFirstName]§!;;;;;;;;;;;;;x
-start_sway_charview_tooltip_delayed;Begin swaying §Y[Root.GetTitledFirstName]§! to your cause.\n\nWhile swaying another character you will be presented with opportunities to increase their §YOpinion§! of you. These opportunities can present themselves in many ways, with outcomes often being decided by how compatible you are with the character you are swaying. You can only sway one character at a time.;;;;;;;;;;;;;x
-stop_antagonize_charview_tooltip;§YStop Antagonizing [Root.GetTitledFirstName]§!;;;;;;;;;;;;;x
-stop_antagonize_charview_tooltip_delayed;Stop antagonizing [Root.GetTitledFirstName], ending your efforts to provoke [Root.GetHerHim].;;;;;;;;;;;;;x
-stop_sway_charview_tooltip;§YStop Swaying [Root.GetTitledFirstName]§!;;;;;;;;;;;;;x
-stop_sway_charview_tooltip_delayed;Stop swaying §Y[Root.GetTitledFirstName]§!, ending your efforts to improve [Root.GetHerHis] opinion of you.;;;;;;;;;;;;;x
-suspect_foul_play_tt;You suspect foul play...;;;;;;;;;;;;;x
-teutonic_order_at_peace_TT;§Y[d_teutonic_order.Holder.GetTitledName]§! is not fighting a war;;;;;;;;;;;;;x
-teutonic_order_opinion_TT;§Y[d_teutonic_order.Holder.GetTitledName]§! have an opinion of §G25§! or higher of §Y[Root.GetTitledName]§!;;;;;;;;;;;;;x
-teutonic_state_at_peace_TT;§Y[k_teutonic_state.Holder.GetTitledName]§! is not fighting a war;;;;;;;;;;;;;x
-teutonic_state_opinion_TT;§Y[k_teutonic_state.Holder.GetTitledName]§! have an opinion of §G25§! or higher of §Y[Root.GetTitledName]§!;;;;;;;;;;;;;x
-there_is_a_hero_available_to_duel_tt;There is a high-ranking member available for you to challenge;;;;;;;;;;;;;x
-they_crawl_off_and_die_tt;§Y[other_combatant.GetTitledFirstName]§! looks like they might actually die from the damage inflicted upon them.\n;;;;;;;;;;;;;x
-they_take_your_titles_tt;§Y[other_combatant.GetTitledFirstName]§! usurps any title of yours that [other_combatant.GetSheHe] has a §YStrong Claim§! on.;;;;;;;;;;;;;x
-this_is_better_than_prev_tt;§Y[This.GetTitledFirstName]§! is a better dueler than §Y[Prev.GetTitledFirstName]§!;;;;;;;;;;;;;x
-this_is_worse_than_prev_tt;§Y[This.GetTitledFirstName]§! is a worse dueler than §Y[Prev.GetTitledFirstName]§!;;;;;;;;;;;;;x
-tooltip_add_massive_hellenic_society_currency;§Y[Root.GetTitledFirstName]§! gains §G1000§! §YVirtue§!.;;;;;;;;;;;;;x
-tooltip_add_massive_society_currency;§Y[Root.GetTitledFirstName]§! gains §G1000§! §YDevotion§!.;;;;;;;;;;;;;x
-tooltip_african_picking_syncretism;Develop §YSympathy§! from a neighboring §YAbrahamic§! religion group.;;;;;;;;;;;;;x
-tooltip_alexandria_church_seized;A new §YHellenic Temple§! is established in §YAlexandria§!.;;;;;;;;;;;;;x
-tooltip_antagonize_vassalize_claim;§Y[Root.GetTitledFirstName]§! has a rightful claim to rule over §Y[From.GetTitledFirstName]'s§! lands;;;;;;;;;;;;;x
-tooltip_ask_dress_husband;Ask your husband to buy you new clothes.;;;;;;;;;;;;;x
-tooltip_atheniai_church_seized;A new §YHellenic Temple§! is established in §YAtheniai§!.;;;;;;;;;;;;;x
-tooltip_attribute_improvement_target_cooldown;Must NOT have been the target of this decision in the past §Y5§! years.;;;;;;;;;;;;;x
-tooltip_attribute_requirements_to_improve;Unless using this decision on yourself, you must outrank your chosen target in at least one field of study.;;;;;;;;;;;;;x
-tooltip_baptizing_priest_exists;A notable clergyman available to baptize little §Y[Root.GetTitledFirstName]§! exists;;;;;;;;;;;;;x
-tooltip_betting_easiest_side;Pick safest outcome.;;;;;;;;;;;;;x
-tooltip_betting_easy_side;Pick a likely outcome.;;;;;;;;;;;;;x
-tooltip_betting_hard_side;Pick an unlikely outcome.;;;;;;;;;;;;;x
-tooltip_betting_hardest_side;Pick a very unlikely outcome.;;;;;;;;;;;;;x
-tooltip_bloodthirsty_games_cooldown;Has NOT recently held §YBlood Games§!;;;;;;;;;;;;;x
-tooltip_bloodthirsty_mass_sacrifice_cooldown;Has NOT performed a §YMass Sacrifice§! in the last few decades;;;;;;;;;;;;;x
-tooltip_bribe_church;Bribe the clergy to stop their accusations against you for awhile.;;;;;;;;;;;;;x
-tooltip_buy_to_woman;§Y[Root.Spouse.GetFirstName]§! will be comforted by your kind gesture.;;;;;;;;;;;;;x
-tooltip_byzantine_empire_can_appoint_commanders;There are no other valid landed vassals;;;;;;;;;;;;;x
-tooltip_call_of_the_steppe_cooldown;Has NOT used §YCall of the Steppe§! in the past §Y10 years§!;;;;;;;;;;;;;x
-tooltip_call_of_the_steppe_feudal;You will receive a boost in §YLevy Reinforcement§! rate;;;;;;;;;;;;;x
-tooltip_call_of_the_steppe_nomad;You will receive a boost in §YPopulation§! and §YManpower§!;;;;;;;;;;;;;x
-tooltip_call_to_glory_end_reinforcements;You will no longer receive more §YReinforcements§! until the end of the war.;;;;;;;;;;;;;x
-tooltip_call_to_glory_resume_reinforcements;§YReinforcements§! will resume for a while longer.;;;;;;;;;;;;;x
-tooltip_can_build_ca_wall_1;The local infrastructure supports the construction of a row of §YCastle Walls§!;;;;;;;;;;;;;x
-tooltip_can_build_ca_wall_2;The local infrastructure supports the construction of a new row of §YCastle Walls§!;;;;;;;;;;;;;x
-tooltip_can_build_ca_wall_3;The local infrastructure supports the construction of a new row of §YCastle Walls§!;;;;;;;;;;;;;x
-tooltip_can_build_ca_wall_4;The local infrastructure supports the construction of a new row of §YCastle Walls§!;;;;;;;;;;;;;x
-tooltip_can_build_ca_wall_5;The local infrastructure supports the construction of a new row of §YCastle Walls§!;;;;;;;;;;;;;x
-tooltip_can_build_ca_wall_q_1;The local infrastructure supports the construction of §YCastle Fortifications§!;;;;;;;;;;;;;x
-tooltip_can_build_ca_wall_q_2;The local infrastructure supports the improvement of the §YCastle Fortifications§!;;;;;;;;;;;;;x
-tooltip_can_build_ca_wall_q_3;The local infrastructure supports the improvement of the §YCastle Fortifications§!;;;;;;;;;;;;;x
-tooltip_can_build_ca_wall_q_4;The local infrastructure supports the improvement of the §YCastle Fortifications§!;;;;;;;;;;;;;x
-tooltip_can_build_ca_wall_q_5;The local infrastructure supports the improvement of the §YCastle Fortifications§!;;;;;;;;;;;;;x
-tooltip_can_build_tb_defensive_fortifications_1;The local infrastructure supports the construction of a §YWall and Ditch§!;;;;;;;;;;;;;x
-tooltip_can_build_tb_defensive_fortifications_2;The local infrastructure supports the construction of §YCamouflaged Outposts§!;;;;;;;;;;;;;x
-tooltip_can_build_tb_defensive_fortifications_3;The local infrastructure supports the construction of §YLayered Palisades§!;;;;;;;;;;;;;x
-tooltip_can_build_tb_defensive_fortifications_4;The local infrastructure supports the construction of §YStone Watchtowers§!;;;;;;;;;;;;;x
-tooltip_can_build_tb_hillfort_1;The local infrastructure supports the construction of an §YEarth Hillfort§!;;;;;;;;;;;;;x
-tooltip_can_build_tb_hillfort_2;The local infrastructure supports the construction of a §YWooden Hillfort§!;;;;;;;;;;;;;x
-tooltip_can_build_tb_hillfort_3;The local infrastructure supports the construction of a §YReinforced Hillfort§!;;;;;;;;;;;;;x
-tooltip_can_build_tb_hillfort_4;The local infrastructure supports the construction of a §YStone Hillfort§!;;;;;;;;;;;;;x
-tooltip_cannot_antagonize_sway_same_time;You cannot §YSway§! and §YAntagonize§! the same character at the same time.;;;;;;;;;;;;;x
-tooltip_capital_embrace_outremer;§Y[Root.Capital.GetName]§! becomes §YOutremer§!;;;;;;;;;;;;;x
-tooltip_celebrate_destroyed_great_pillar;The local §YGreat Pillar§! will be permanently destroyed.;;;;;;;;;;;;;x
-tooltip_celebrate_new_great_pillar;A §YGreat Pillar§! will be erected in the square of §Y[Root.GetName]§!.;;;;;;;;;;;;;x
-tooltip_change_pagan_branch;Abandon the §YPagan Branch§! you currently ascribe to and choose another one.;;;;;;;;;;;;;x
-tooltip_considering_artifact_donation;Is NOT being considered as a gift.;;;;;;;;;;;;;x
-tooltip_coronation_depose_antipope;Start a war to depose an Anti-pope. Upon victory, the §Y[From.GetTitle]§! will crown you.;;;;;;;;;;;;;x
-tooltip_coronation_depose_excommunicate;Start a war to depose an Excommunicated ruler. Upon victory, the §Y[From.GetTitle]§! will crown you.;;;;;;;;;;;;;x
-tooltip_coronation_pepin_war;Start a war in Italy on behalf of the Papal State. Upon victory, the §Y[From.GetTitle]§! will crown you.;;;;;;;;;;;;;x
-tooltip_courtiers_embrace_outremer;All §YCourtiers§! of your dynasty become §YOutremer§!;;;;;;;;;;;;;x
-tooltip_decision_brazen_bull;Your other §YVassals§! will be Intimidated (§G+10§! §YOpinion§!) by this action.;;;;;;;;;;;;;x
-tooltip_deflection_cooldown;Must NOT have used this decision in the past §Y10 years§!;;;;;;;;;;;;;x
-tooltip_delve_into_classics;Take some time to study the ruins and accounts of the Ancient Greeks and Romans.;;;;;;;;;;;;;x
-tooltip_destroy_great_pillar;By destroying this holy symbol, the heathens' §YMoral Authority§! will be eroded.;;;;;;;;;;;;;x
-tooltip_dismantle_factions;Release your spies to force a dissolution of all §YFactions§! within the next few weeks.;;;;;;;;;;;;;x
-tooltip_dismantle_factions_cooldown;Must NOT have used this decision in the past §Y10 years§!;;;;;;;;;;;;;x
-tooltip_dismantle_factions_exist;Any §YVassal§! is member of an existing §YFaction§!;;;;;;;;;;;;;x
-tooltip_drill_troops_action;Spend §YPrestige§! to boost your command skills.;;;;;;;;;;;;;x
-tooltip_drill_troops_cooldown;Must NOT have used this decision in the past §Y10 years§!;;;;;;;;;;;;;x
-tooltip_dynastic_meddling;Help §Y[Root.GetTitledFirstName]§! improve [Root.GetHerHis] character.;;;;;;;;;;;;;x
-tooltip_dynastic_meddling_cooldown;Must NOT have used this decision in the past §Y5 years§!;;;;;;;;;;;;;x
-tooltip_endearing_noblemen_action;Spend §YPrestige§! to boost the §YOpinion§! of either your subjects or your neighbors.;;;;;;;;;;;;;x
-tooltip_explain_coronation;Explain that, whatever their personal feelings, the members of the clergy of §Y[Root.PrimaryTitle.GetName]§! are still required by their vows of vassalage to show proper respect and loyalty to their liege.;;;;;;;;;;;;;x
-tooltip_explain_coronation_2;Use your knowledge of the religious texts to dismiss the clergy's claims about your rule's lack of legitimacy.;;;;;;;;;;;;;x
-tooltip_father_gave_all;Make sure [From.GetFirstName] is always well fed and taken care of by the [Root.GetHouse]'s cooks.;;;;;;;;;;;;;x
-tooltip_father_gave_hare;Order your cooks to prepare a §Yhare's head§! for [From.GetFirstName]'s dinner.;;;;;;;;;;;;;x
-tooltip_father_gave_quail;Order your cooks to prepare a §Yquail's foot§! for [From.GetFirstName]'s dinner.;;;;;;;;;;;;;x
-tooltip_father_gave_trout;Order your cooks to prepare a §Ytrout's eye§! for [From.GetFirstName]'s dinner.;;;;;;;;;;;;;x
-tooltip_feminist_liege_religion_feature;Character and §YLiege§! publicly follow an §YEqual§! or §YEnatic Clans§! religion;;;;;;;;;;;;;x
-tooltip_feminist_liege_vanilla_religion;Character and §YLiege§! publicly follow the §YCathar§!, §YMessalian§!, §YBogomilist§!, or §YMazdaki§! religion;;;;;;;;;;;;;x
-tooltip_forge_pahalavi_crown;Add the '§Y[Root.GetOnlyDynastyName] Crown§!' to the treasury of [Root.GetTitledFirstName];;;;;;;;;;;;;x
-tooltip_gain_baptized_by_bishop;§Y[This.GetBestName]§! gains the trait '§YBaptized by a Prince-Bishop§!';;;;;;;;;;;;;x
-tooltip_gain_baptized_by_patriach;§Y[This.GetBestName]§! gains the trait '§YBaptized by the Patriarch§!';;;;;;;;;;;;;x
-tooltip_gain_baptized_by_pope;§Y[This.GetBestName]§! gains the trait '§YBaptized by the Pope§!';;;;;;;;;;;;;x
-tooltip_gain_baptized_by_satan;§Y[This.GetBestName]§! gains the trait '§YBaptized by Satanists§!';;;;;;;;;;;;;x
-tooltip_gain_crowned_by_bishop;§Y[Root.GetTitledName]§! gains the trait '§YCrowned by a Prince-Bishop§!';;;;;;;;;;;;;x
-tooltip_gain_crowned_by_pope;§Y[Root.GetTitledName]§! gains the trait '§YCrowned by the Pope§!';;;;;;;;;;;;;x
-tooltip_gain_crowned_by_priest;§Y[Root.GetTitledName]§! gains the trait '§YCrowned by a Bishop§!';;;;;;;;;;;;;x
-tooltip_has_african_mask_duplicate;Does NOT already own a Mask and an Idol;;;;;;;;;;;;;x
-tooltip_has_architect_bloodline;The ruling dynasty has taken a special interest in §YArchitecture§!;;;;;;;;;;;;;x
-tooltip_has_castellan_bloodline;The ruling dynasty has taken a special interest in §YEngineering§!;;;;;;;;;;;;;x
-tooltip_has_monumental_bloodline;The ruling dynasty has taken a special interest in §YReligious Architecture§!;;;;;;;;;;;;;x
-tooltip_has_murder_builder_bloodline;The ruling dynasty has taken a grim interest in §YEngineering§!;;;;;;;;;;;;;x
-tooltip_has_not_already_stood_together_slavic;Has NOT already requested help from §Y[Root.Society.GetName]§!;;;;;;;;;;;;;x
-tooltip_has_not_already_summoned_ukko_warriors;Has NOT already requested help from §Y[Root.Society.GetName]§! for the current campaign;;;;;;;;;;;;;x
-tooltip_hellenic_dedicate_temple;Decide to which [From.Religion.GetName] god should this temple be dedicated.;;;;;;;;;;;;;x
-tooltip_hoping_child_boy;You will be truly delighted if the child you are carrying ends up being a §Yboy§!.;;;;;;;;;;;;;x
-tooltip_hoping_child_girl;You will be truly delighted if the child you are carrying ends up being a §Ygirl§!.;;;;;;;;;;;;;x
-tooltip_hoping_child_warrior;The child's rowdiness inside your belly may be a sign of his future character.;;;;;;;;;;;;;x
-tooltip_is_excommunicated_for;is §YExcommunicated§! by the [Root.Religion.GetName] Church;;;;;;;;;;;;;x
-tooltip_issued_decla_repentance_recently;Has NOT recently issued a §YDeclaration of Repentance§!;;;;;;;;;;;;;x
-tooltip_land_for_daugther;Has an adult landless daughter not in line of succession;;;;;;;;;;;;;x
-tooltip_land_for_son;Has an adult landless son not in line of succession;;;;;;;;;;;;;x
-tooltip_lodge_call_to_glory;Ask your fellow warriors to join the fight.;;;;;;;;;;;;;x
-tooltip_lodge_war_sacrifice;Perform a sacrifice to receive the favor of the gods.;;;;;;;;;;;;;x
-tooltip_mary_vow;Decide what kind of vow to the Virgin you wish to take.;;;;;;;;;;;;;x
-tooltip_mass_convert_during_crusade;Send a letter to §Y[This.GetTitledFirstName]§! to sponsor the mass conversion of your realm in exchange for the annulment of the §YCrusade§!.;;;;;;;;;;;;;x
-tooltip_maxed_uncrowned;Was not crowned after §Y30§! years of rule.;;;;;;;;;;;;;x
-tooltip_mom_hopes_pretty;If the gods will it, your child will be born §YBeautiful§!.;;;;;;;;;;;;;x
-tooltip_mom_hopes_smart;If the gods will it, your child will be born §YSmart§!.;;;;;;;;;;;;;x
-tooltip_mom_hopes_strong;If the gods will it, your child will be born §YStrong§!.;;;;;;;;;;;;;x
-tooltip_mother_craved_all;You do not seem to crave for anything out of the ordinary. It is probably for the best.;;;;;;;;;;;;;x
-tooltip_mother_craved_hare;Order your cooks to prepare a §Yhare's head§! for dinner.;;;;;;;;;;;;;x
-tooltip_mother_craved_quail;Order your cooks to prepare a §Yquail's foot§! for dinner.;;;;;;;;;;;;;x
-tooltip_mother_craved_trout;Order your cooks to spice your dinner with a §Ytrout's eye§!.;;;;;;;;;;;;;x
-tooltip_murder_deflection_decision;Begin obfuscating.;;;;;;;;;;;;;x
-tooltip_not_dedicated_temple_recently;§Y[From.GetTitledFirstName]§! must not have consecrated a temple recently.;;;;;;;;;;;;;x
-tooltip_not_matriarchal_liege_religion_feature;Character's and §YLiege§!'s religion must NOT have §YEnatic Clans§! feature;;;;;;;;;;;;;x
-tooltip_obj_create_treasure;To complete the ambition you need to amass three artifacts of sufficient quality for your treasury;;;;;;;;;;;;;x
-tooltip_other_elders_displeased;All the other §YElders§! in §Y[Root.PrimaryTitle.GetName]§! will be displeased by your decision.;;;;;;;;;;;;;x
-tooltip_other_elders_pleased;All the other §YElders§! in §Y[Root.PrimaryTitle.GetName]§! will be pleased by your decision.;;;;;;;;;;;;;x
-tooltip_pagan_mom_sacrifice;Expose yourself to the dangers of the wilderness to give the gods their due, and pray for the future health of your unborn child.;;;;;;;;;;;;;x
-tooltip_peasants_become_hellenes;The outcome of the Civil War will drive more citizens of the Empire to embrace §YHellenism§!.;;;;;;;;;;;;;x
-tooltip_pick_pagan_branch;Determine which §YPagan Branch§! you belong to.;;;;;;;;;;;;;x
-tooltip_pregnancy_gets_worse;accumulated stress causing your §YPregnancy§! to get worse.;;;;;;;;;;;;;x
-tooltip_pregnancy_stable;your condition stabilizing causing your §YPregnancy§! to get better.;;;;;;;;;;;;;x
-tooltip_preparations_great_tribal_festival;Commence preparations for the §YFestival§!;;;;;;;;;;;;;x
-tooltip_province_already_has_great_pillar;No §YGreat Pillar§! exists in §Y[Root.GetName]§!;;;;;;;;;;;;;x
-tooltip_provinces_embrace_outremer;All §Y[latin.GetGroupName]§! Provinces in your demesne become §YOutremer§!;;;;;;;;;;;;;x
-tooltip_rebuked_apology;§Y[Root.GetTitledFirstName]§! has recently rebuked §Y[From.GetTitledFirstName]§!'s attentions in clear terms.;;;;;;;;;;;;;x
-tooltip_recover_depressed;Attempt to recover from §YDepression§!.;;;;;;;;;;;;;x
-tooltip_recover_drunkard;Attempt to stop being a §YDrunkard§!.;;;;;;;;;;;;;x
-tooltip_recover_gluttonous;Attempt to stop being a §YGlutton§!.;;;;;;;;;;;;;x
-tooltip_recover_wroth;Attempt to stop being §YWroth§!.;;;;;;;;;;;;;x
-tooltip_religion_feature_adulthood_rite;§GCharacters perform a rite of passage upon reaching adulthood§!;;;;;;;;;;;;;x
-tooltip_religion_feature_adventuring;§GPrepared Invasions are allowed§!;;;;;;;;;;;;;x
-tooltip_religion_feature_anti_attrition;§GArmies ignore defensive attrition§!;;;;;;;;;;;;;x
-tooltip_religion_feature_astrology;§GCharacters are assigned Zodiac traits on birth and by decision§!;;;;;;;;;;;;;x
-tooltip_religion_feature_autocephaly;§GAutocephalous priests are put in charge of each realm's religious matters§!;;;;;;;;;;;;;x
-tooltip_religion_feature_aztec_sacrifices;§GPrisoners of a different religion can be sacrificed for Piety§!;;;;;;;;;;;;;x
-tooltip_religion_feature_beatification;§GThe Religious Head can decide upon dead ancestors to give special status§!;;;;;;;;;;;;;x
-tooltip_religion_feature_bloodthirsty_mechanics;§GSacrificing prisoners unlocks special traits and actions§!;;;;;;;;;;;;;x
-tooltip_religion_feature_branches;§GFollowers of this religion can pick a preferred Branch§!;;;;;;;;;;;;;x
-tooltip_religion_feature_celibate_priests;§YPriests are bound to be Celibate§!;;;;;;;;;;;;;x
-tooltip_religion_feature_cognatic;§GAbsolute Cognatic law is enforced§!;;;;;;;;;;;;;x
-tooltip_religion_feature_cosmopolitan_1;§RBase Moral Authority is low§!;;;;;;;;;;;;;x
-tooltip_religion_feature_cosmopolitan_2;§GThis religion can intermarry with its neighboring faiths§!;;;;;;;;;;;;;x
-tooltip_religion_feature_crusade;§GGreat Holy Wars are allowed§!;;;;;;;;;;;;;x
-tooltip_religion_feature_defensive;§GArmies are stronger when defending their home territories§!;;;;;;;;;;;;;x
-tooltip_religion_feature_disables_ghws;§RDisables Great Holy Wars§!;;;;;;;;;;;;;x
-tooltip_religion_feature_dogmatic_1;§GBase Moral Authority is high§!;;;;;;;;;;;;;x
-tooltip_religion_feature_dogmatic_2;§RThis religion does not allow marriage with infidels§!;;;;;;;;;;;;;x
-tooltip_religion_feature_dynamic;[GetPreferredReformationAttribute];;;;;;;;;;;;;x
-tooltip_religion_feature_eldership;§GEnables Eldership succession law§!;;;;;;;;;;;;;x
-tooltip_religion_feature_feminist;§GFemale rulers are NOT penalized§!;;;;;;;;;;;;;x
-tooltip_religion_feature_hard_conversion;§GThis religion is resistant to proselytizing§!;;;;;;;;;;;;;x
-tooltip_religion_feature_harems;§GPolygamy is allowed§!;;;;;;;;;;;;;x
-tooltip_religion_feature_haruspicy;§GDiviners read the signs before war to try to improve troop morale§!;;;;;;;;;;;;;x
-tooltip_religion_feature_hermetics;§GGrants access to the Hermetic Society§!;;;;;;;;;;;;;x
-tooltip_religion_feature_holy_family;§GClose-kin marriage amongst nobility is considered a divine union§!;;;;;;;;;;;;;x
-tooltip_religion_feature_impotent;§RThis religion discourages missionary work§!;;;;;;;;;;;;;x
-tooltip_religion_feature_incest;§GClose-kin marriage is allowed§!;;;;;;;;;;;;;x
-tooltip_religion_feature_jizya;§GReligious taxation of subjects of a different religious group is allowed§!;;;;;;;;;;;;;x
-tooltip_religion_feature_land_morale;§GUnits from Counties following the true faith receive a land morale bonus§!;;;;;;;;;;;;;x
-tooltip_religion_feature_learning_boost;§GFollowers of this religion gain +2 base Learning§!;;;;;;;;;;;;;x
-tooltip_religion_feature_looting;§GLooting is allowed§!;;;;;;;;;;;;;x
-tooltip_religion_feature_matriarchal;§GEnatic law is enforced§!\n§GFemale rulers are NOT penalized§!;;;;;;;;;;;;;x
-tooltip_religion_feature_matriarchal_negatives;§RMale characters are NOT allowed in the Council§!;;;;;;;;;;;;;x
-tooltip_religion_feature_meliorism;§GRulers can spend Piety to improve their Courtiers' Attributes§!;;;;;;;;;;;;;x
-tooltip_religion_feature_meritocratic;§GHeir designation is allowed§!;;;;;;;;;;;;;x
-tooltip_religion_feature_monastic;§GRulers can ask their subjects to 'Take the Vows' and disinherit them§!;;;;;;;;;;;;;x
-tooltip_religion_feature_no_crusade;§RGreat Holy Wars are NOT allowed§!;;;;;;;;;;;;;x
-tooltip_religion_feature_no_incest;§RClose-kin marriage is NOT allowed§!;;;;;;;;;;;;;x
-tooltip_religion_feature_no_leader;§YThis religion will never have a religious head§!;;;;;;;;;;;;;x
-tooltip_religion_feature_no_looting;§RLooting is NOT allowed§!;;;;;;;;;;;;;x
-tooltip_religion_feature_no_matrimarriage;§RMatrilineal Marriages are NOT allowed§!;;;;;;;;;;;;;x
-tooltip_religion_feature_offensive;§GArmies have increased offensive capabilities§!;;;;;;;;;;;;;x
-tooltip_religion_feature_open_succession;§GOpen Succession is unlocked§!;;;;;;;;;;;;;x
-tooltip_religion_feature_pacifist;§GRulers are less likely to start wars, plots, and factions§!;;;;;;;;;;;;;x
-tooltip_religion_feature_patriarchal;§GAgnatic law is enforced§!;;;;;;;;;;;;;x
-tooltip_religion_feature_patriarchal_negatives;§RFemale characters are NOT allowed in the Council§!;;;;;;;;;;;;;x
-tooltip_religion_feature_peace_piety;§GRulers gain Piety while at peace§!;;;;;;;;;;;;;x
-tooltip_religion_feature_piety_same_religion_loss;§RRulers waging war against members of their own faith lose Piety§!;;;;;;;;;;;;;x
-tooltip_religion_feature_pirating;[GetPiratingFeature];;;;;;;;;;;;;x
-tooltip_religion_feature_prestige_loss;§RRulers at peace lose Prestige§!;;;;;;;;;;;;;x
-tooltip_religion_feature_proselytizing;§GThis religion encourages missionary work§!;;;;;;;;;;;;;x
-tooltip_religion_feature_pyramids;§GIndependent lieges of this religion can construct pyramids§!;;;;;;;;;;;;;x
-tooltip_religion_feature_rivermovement;§GFleets can navigate through major rivers§!;;;;;;;;;;;;;x
-tooltip_religion_feature_seafaring;§YLooters prefer coastal counties§!;;;;;;;;;;;;;x
-tooltip_religion_feature_ship_maintenance;§GShip Maintenance cost is reduced to 10%§!;;;;;;;;;;;;;x
-tooltip_religion_feature_stable;§GShort reign penalty is DISABLED§!;;;;;;;;;;;;;x
-tooltip_religion_feature_syncretic;§GRulers can choose to gain Sympathy with another faith by decision§!;;;;;;;;;;;;;x
-tooltip_religion_feature_temporal_head;§GThe reformer will become the new Head of this religion§!;;;;;;;;;;;;;x
-tooltip_religion_feature_theocratic_head;§GA priest is put in charge of this religion§!;;;;;;;;;;;;;x
-tooltip_religion_feature_war_levies;§GRulers do NOT receive Opinion penalties for raised vassal levies§!;;;;;;;;;;;;;x
-tooltip_religion_feature_warlike;§YRulers are extremely aggressive§!;;;;;;;;;;;;;x
-tooltip_restore_brazen_bull;Acknowledge the §YBrazen Bull§! as your family symbol.;;;;;;;;;;;;;x
-tooltip_roman_culture_spreads;§YRoman Culture§! will start spreading across your lands.;;;;;;;;;;;;;x
-tooltip_roman_culture_starts_spreading;§YRoman Culture§! will start spreading across the Empire.;;;;;;;;;;;;;x
-tooltip_rome_church_seized;A new §YHellenic Temple§! is established in §YRome§!.;;;;;;;;;;;;;x
-tooltip_rowdy_troops_leave;Some of your new recruits will disband.;;;;;;;;;;;;;x
-tooltip_ruler_recently_had_pillar_destroyed;A §Y[From.Religion.GetName] Great Pillar§! has NOT been recently destroyed.;;;;;;;;;;;;;x
-tooltip_siracusa_church_seized;A new §YHellenic Temple§! is established in §YSyracuse§!.;;;;;;;;;;;;;x
-tooltip_slavic_stand_together;A member of §Y[Root.Society.GetName]§! will assemble an §YArmy§! at your capital.;;;;;;;;;;;;;x
-tooltip_spend_time_woman;Your [GetFromRelation] will certainly be glad to have you visit her.;;;;;;;;;;;;;x
-TOOLTIP_SPONSOR_VISIT_FEAST_1;Inform [From.GetTitledFirstName] that you are satisfied with the accommodation [From.GetSheHe] prepared for you.;;;;;;;;;;;;;x
-TOOLTIP_SPONSOR_VISIT_FEAST_2;Inform [From.GetTitledFirstName] that you are insulted by [From.GetHerHis] lack of care for [From.GetHerHis] esteemed guest.;;;;;;;;;;;;;x
-TOOLTIP_SPONSOR_VISIT_WELCOME_1;Inform [From.GetTitledFirstName] that you are happy with [From.GetHerHis] welcome.;;;;;;;;;;;;;x
-TOOLTIP_SPONSOR_VISIT_WELCOME_2;Inform [From.GetTitledFirstName] that you are quite disappointed by [From.GetHerHis] welcome.;;;;;;;;;;;;;x
-tooltip_stable_attribute_improvement_cooldown;Must NOT have taken this decision in the past §Y5§! years.;;;;;;;;;;;;;x
-tooltip_stable_attribute_improvement_effect;§Y[Root.GetTitledFirstName]§! will focus on improving one of [Root.GetHerHis] §YAttributes§!.;;;;;;;;;;;;;x
-tooltip_stand_together_candidate_exists;A member of the Lodge is willing to assist you;;;;;;;;;;;;;x
-tooltip_start_bloodthirsty_games;Begin preparations for a §YBlood Tournament§!;;;;;;;;;;;;;x
-tooltip_start_bloodthirsty_mass_sacrifice;Sacrifice a considerable portion of your subjects to improve morale;;;;;;;;;;;;;x
-tooltip_stop_antagonizing;Stop §YAntagonizing§! §Y[antagonize_target.GetTitledFirstName]§!;;;;;;;;;;;;;x
-tooltip_stop_swaying;Stop §YSwaying§! §Y[sway_target.GetTitledFirstName]§!;;;;;;;;;;;;;x
-tooltip_summon_warriors_ukko;A band of warriors will arrive at your capital.;;;;;;;;;;;;;x
-tooltip_summoning_lodge_commander;A skilled §YCommander§! from [Root.Society.GetName] will arrive at your court.;;;;;;;;;;;;;x
-tooltip_sway_into_personality_trait;Try to influence §Y[sway_target.GetFirstName]§! into adopting one of your personality §YTraits§!.;;;;;;;;;;;;;x
-tooltip_synergic_education_ugrade;By focusing on [scoped_improvement_target.GetHerHis] main field of study, §Y[scoped_improvement_target.GetTitledFirstName]§! has a chance to improve [scoped_improvement_target.GetHerHis] §YEducation§!.;;;;;;;;;;;;;x
-tooltip_temple_must_have_priest;The temple must be controlled by a priest of the §Y[From.Religion.GetName]§! faith.;;;;;;;;;;;;;x
-tooltip_thessalonike_church_seized;A new §YHellenic Temple§! is established in §YThessalonike§!.;;;;;;;;;;;;;x
-tooltip_troubled_child_talks;Talk to §Y[From.GetFirstName]§! and show your appreciation for her care and endurance.;;;;;;;;;;;;;x
-tooltip_visit_lover;§Y[From.GetFirstName]§! will certainly be glad to receive a visit from her beloved.;;;;;;;;;;;;;x
-tooltip_vow_charity;Be §YCharitable§!, give your wealth to the needy, and the §YHoly Virgin§! may bless you with a strong and healthy child.;;;;;;;;;;;;;x
-tooltip_vow_chastity;Be §YChaste§!, avoid the pleasures of the flesh, and the §YHoly Virgin§! may bless you with a strong and healthy child.;;;;;;;;;;;;;x
-tooltip_vow_humility;Be §YHumble§!, avoid trinkets and fine clothing, and the §YHoly Virgin§! may bless you with a strong and healthy child.;;;;;;;;;;;;;x
-tooltip_vow_temperance;Be §YTemperate§!, avoid all excesses, and the §YHoly Virgin§! may bless you with a strong and healthy child.;;;;;;;;;;;;;x
-tooltip_vows_monk_goes_to_theocracy;§Y[Root.GetTitledFirstName]§! will leave your court;;;;;;;;;;;;;x
-tooltip_vows_monk_joins_society;§Y[Root.GetTitledFirstName]§! will join a §YMonastic Society§!;;;;;;;;;;;;;x
-tooltip_war_sacrifice_cooldown;Has NOT performed a §YWar Sacrifice§! in the past §Y10§! years;;;;;;;;;;;;;x
-tooltip_west_african_create_fetish;Begin crafting a new §YArtifact§!.;;;;;;;;;;;;;x
-tooltip_west_african_create_fetish_cooldown;Is NOT already supervising the creation of a fetish;;;;;;;;;;;;;x
-tooltip_zun_battle_trance;Augment your §YMilitary§! skills for a limited amount of time, at the cost of your §YHealth§!.;;;;;;;;;;;;;x
-tooltip_zun_battle_trance_cooldown;Has NOT recently entered a Battle Trance;;;;;;;;;;;;;x
-trained_troops_TT;A regiment of trained troops will appear at §Y[Root.Capital.GetName]§!;;;;;;;;;;;;;x
-trans_saharan_province_desc;Can only build §YTrade Posts§! in certain Counties along the §YTrans Saharan Trade Route§!\n        Open the §YTrade Zones Mapmode§! to see valid Counties;;;;;;;;;;;;;x
-tribal_or_nomadic_government_tt;Has §YTribal§! or §YNomadic§! Government\n;;;;;;;;;;;;;x
-truebelievers_preparation_tooltip;Call to arms all the True Believers still left in the realm.;;;;;;;;;;;;;x
-TT_CHILD_IS_ASSERTIVE;Is assertive (ambitious, quick, willful, or genius);;;;;;;;;;;;;x
-TT_CORONATION_RELIGIOUS_HEAD;A Fraticelli Papacy has been established;;;;;;;;;;;;;x
-TT_CORONATION_RELIGIOUS_HEAD_POPE;A Pope exists;;;;;;;;;;;;;x
-TT_CORONATION_VASSAL_PRIEST;A vassal Bishop is available to perform the ceremony;;;;;;;;;;;;;x
-TT_NOT_FULFILLING_WAR_CORONATION;Is NOT currently waging a war as part of a deal to be crowned by the Pope;;;;;;;;;;;;;x
-TT_NOT_OTHERWISE_OCCUPIED;is NOT otherwise occupied;;;;;;;;;;;;;x
-TT_NOT_PREPARING_CORONATION;Is NOT already preparing for a coronation;;;;;;;;;;;;;x
-TT_NOT_RECENTLY_ASKED_CORONATION;Has NOT recently attempted to organize a coronation [From.GetCoronationTimer];;;;;;;;;;;;;x
-TT_NOT_UNREFORMED_PAGAN;Is NOT Unreformed [pagan_group.GetGroupName]\n;;;;;;;;;;;;;x
-TT_PAGAN_CANONIZATION_FAMILY;[saint_person.GetFirstName] has become known as a blessed ancestor, and everyone of [saint_person.GetHerHis] §YBloodline§! will reap the benefits.;;;;;;;;;;;;;x
-TT_PLOT_GAIN_VASSAL_TITLE_TYRANNICAL_BLOODLINE;§Y[From.GetTitledFirstName]§! belongs to a §YTyrannical Bloodline§!;;;;;;;;;;;;;x
-TT_REGENT_LIKES_CHILD;Regent likes [Root.GetTitledFirstName];;;;;;;;;;;;;x
-TT_SPONSOR_EXISTS;A potential sponsor realm exists;;;;;;;;;;;;;x
-TT_UNREFORMED_PAGAN;Is Unreformed [pagan_group.GetGroupName];;;;;;;;;;;;;x
-unpledge_crusade_trigger_TT;Not fighting a Crusade war;;;;;;;;;;;;;x
-upgraded_diplo_tt;§Y[horoscope_child.GetTitledFirstName]§! has had [horoscope_child.GetHerHis] §YDiplomatic§! education upgraded.\n;;;;;;;;;;;;;x
-upgraded_int_tt;§Y[horoscope_child.GetTitledFirstName]§! has had [horoscope_child.GetHerHis] §YIntrigue§! education upgraded.\n;;;;;;;;;;;;;x
-upgraded_learn_tt;§Y[horoscope_child.GetTitledFirstName]§! has had [horoscope_child.GetHerHis] §YLearning§! education upgraded.\n;;;;;;;;;;;;;x
-upgraded_martial_tt;§Y[horoscope_child.GetTitledFirstName]§! has had [horoscope_child.GetHerHis] §YMartial§! education upgraded.\n;;;;;;;;;;;;;x
-upgraded_stew_tt;§Y[horoscope_child.GetTitledFirstName]§! has had [horoscope_child.GetHerHis] §YStewardship§! education upgraded.\n;;;;;;;;;;;;;x
-vassal_tooltip_deceitful_baptism;You will retain your §YTrue Religion§!, and §YSecret Communities§! of the old faith will endure within your provinces.;;;;;;;;;;;;;x
-vassalize_holy_sepulchre_TT;§Y[d_holy_sepulchre.Holder.GetTitledName]§! have an opinion of §G25§! or higher of §Y[Root.GetTitledName]§!;;;;;;;;;;;;;x
-vassalize_knights_calatrava_opinion_TT;§Y[d_knights_calatrava.Holder.GetTitledName]§! have an opinion of §G25§! or higher of §Y[Root.GetTitledName]§!;;;;;;;;;;;;;x
-vassalize_knights_hospitaller_opinion_TT;§Y[d_knights_hospitaller.Holder.GetTitledName]§! have an opinion of §G25§! or higher of §Y[Root.GetTitledName]§!;;;;;;;;;;;;;x
-vassalize_knights_santiago_opinion_TT;§Y[d_knights_santiago.Holder.GetTitledName]§! have an opinion of §G25§! or higher of §Y[Root.GetTitledName]§!;;;;;;;;;;;;;x
-vassalize_knights_templar_opinion_TT;§Y[d_knights_templar.Holder.GetTitledName]§! have an opinion of §G25§! or higher of §Y[Root.GetTitledName]§!;;;;;;;;;;;;;x
-vassalize_teutonic_knights_TT;Vassalize the §YTeutonic Knights§!;;;;;;;;;;;;;x
-viking_age_tt;The Viking Age has begun;;;;;;;;;;;;;x
-visit_sponsor_impressed;§Y[From.GetTitledFirstName]§! has managed to build a decent amount of goodwill with your realm during this short visit.;;;;;;;;;;;;;x
-visit_sponsor_not_impressed;§Y[From.GetTitledFirstName]§! has failed to create any decent amount of goodwill with your realm during this short visit.;;;;;;;;;;;;;x
-water_watch_1_tt;All of your direct demesne provinces with §Y'Heavy Rain'§! get '§YRiver Patrols§!' for five years, giving the following effects:\nLocal Revolt Risk: §G-1.0%§!\nMorale of Armies: §G+5.0%§!\nCulture Technology Points: §G+0.05%§!;;;;;;;;;;;;;x
-water_watch_2_tt;All of your direct demesne provinces with §Y'Heavy Rain'§! get '§YRoad Patrols§!' for five years, giving the following effects:\nLocal Revolt Risk: §G-1.0%§!\nMorale of Armies: §G+5.0%§!\nCulture Technology Points: §G+0.05%§!;;;;;;;;;;;;;x
-well_trained_troops_TT;A regiment of well trained troops will appear at §Y[Root.Capital.GetName]§!;;;;;;;;;;;;;x
-you_crawl_off_and_die_tt;Looks like you might actually die from the damage inflicted upon you.\n;;;;;;;;;;;;;x
-you_failing_to_corner_tt;you failing to track §Y[From.GetTitledFirstName]§! down\n;;;;;;;;;;;;;x
-you_lose_the_duel_tt;You lose the duel.\n;;;;;;;;;;;;;x
-you_succeeding_to_corner_tt;you succeeding to force §Y[From.GetTitledFirstName]§! into accepting your duel\n;;;;;;;;;;;;;x
-you_take_their_title_and_all_under_it_attacker_tt;The title of §Y[target_title.GetName]§! falls to you, along with any vassals held under it.;;;;;;;;;;;;;x
-you_take_their_title_and_all_under_it_defender_tt;The title of §Y[target_title_2.GetName]§! falls to you, along with any vassals held under it.;;;;;;;;;;;;;x
-you_take_their_titles_and_all_under_it_tt;Any title belonging to §Y[other_combatant.GetTitledFirstName]§! that you have a §YStrong Claim§! on, falls to you, along with any vassals held under it.;;;;;;;;;;;;;x
-you_will_get_away_with_it_tt;Everything is just, in a war...\n;;;;;;;;;;;;;x
-you_win_the_duel_tt;You win the duel.\n;;;;;;;;;;;;;x
-your_claim_is_lost_attacker_tt;Your §YStrong Claim§! on §Y[target_title.GetName]§! is §Rlost§! to you and your descendants.;;;;;;;;;;;;;x
-your_claim_is_lost_defender_tt;Your §YStrong Claim§! on §Y[target_title_2.GetName]§! is §Rlost§! to you and your descendants.;;;;;;;;;;;;;x
-your_claims_are_lost_tt;Any §YStrong Claim§! you have on titles held by §Y[other_combatant.GetTitledFirstName]§! are §Rlost§! to you and your descendants.;;;;;;;;;;;;;x
-
+a_commander_joins_your_court_tt;A commander named §Y[invited_character.GetBestName]§! joins your court, ready for service.;;;;;;;;;;;Ïîëêîâîäåö, èçâåñòíûé êàê §Y[invited_character.GetTitledFirstNameWithNick]§! ÿâèòñÿ ê Âàøåìó äâîðó.;;x
+accept_baptism_request;[Root.GetTitledName] will sign a Non-Aggression Pact with [From.GetTitledName] and assist [From.GetHerHim] in converting [From.PrimaryTitle.GetName]'s population.;;;;;;;;;;;[Root.GetTitledFirstName] è [From.GetTitledFirstName] ïîäïèøóò ïàêò î íåíàïàäåíèè ìåæäó ñîáîé. [Root.GetTitledFirstName] ïîìîæåò â îáðàùåíèè [From.PrimaryTitle.GetAdjective]ñêîãî íàñåëåíèÿ â íîâóþ âåðó.;;x
+active_reconquista_condition_TT;No active Reconquests in the Iberian Peninsula;;;;;;;;;;;Óáåäèòåñü, ÷òî Ðåêîíêèñòà åù¸ íå íà÷àòà.;;x
+add_allies_reconquista_TT;Add promised allies to the §YReconquest War§!;;;;;;;;;;;Äîáàâèòü îáåùàííûõ ñîþçíèêîâ ê §YÂîéíå çà Ðåêîíêèñòó§!;;x
+adopt_culture_and_religion_tt;Adopt the §Y[Root.Capital.Culture.GetName]§! culture and §Y[Root.Capital.Religion.GetName]§! faith.;;;;;;;;;;;Ïðèíÿòü §Y[Root.Capital.GetCultureAdj]óþ§! êóëüòóðó è §Y[Root.Capital.GetRelAdj]ñêóþ§! âåðó.;;x
+adopt_culture_tt;Adopt the §Y[Root.Capital.Culture.GetName]§! culture.;;;;;;;;;;;Ïðèíÿòü §Y[Root.Capital.GetCultureAdj]óþ§! êóëüòóðó.;;x
+adopt_religion_tt;Adopt the §Y[Root.Capital.Religion.GetName]§! faith.;;;;;;;;;;;Ïðèíÿòü §Y[Root.Capital.GetReligionFullName]§!.;;x
+africa_surplus_grain_tt;All of your direct demesne provinces with §Y'Light Rain'§! or §Y'Heavy Rain'§! will be more likely to withstand drought related hardships in the future.;;;;;;;;;;;Âñå Âàøè ëè÷íûå çåìëè ñ ìîäèôèêàòîðîì §YË¸ãêèé äîæäü§! èëè §YÏðîëèâíîé äîæäü§! â áóäóùåì áóäóò óñòîé÷èâåå ê çàñóõå.;;x
+african_sympathy_abrahamic;One of your neighbors or lieges must follow a §YChristian§!, §YIslamic§! or §YJudaic§! religion;;;;;;;;;;;Óáåäèòåñü, ÷òî êòî-òî èç Âàøèõ ñîñåäåé èëè ñþçåðåí èñïîâåäóþò §Y[GetChristendomOrRandom]§!, §Y[_èñëàì]§! èëè §Y[_èóäàèçì]§!;;x
+already_attempted_recruitment_tt;Has NOT recently been asked to join [From.Society.GetName]\n;;;;;;;;;;;Óáåäèòåñü, ÷òî íèêòî â ïîñëåäíåå âðåìÿ ÍÅ ïðîñèë [Root.GetHersHis] î âñòóïëåíèè â îáùåñòâî §Y[From.GetSocietyNameGEN]§!\n;;x
+alternate_crusade_artifact_distribution_effect_TT;Receive an §YArtifact§! from §Y[From.GetTitledFirstName]§!;;;;;;;;;;;§Y[From.GetTitledFirstName]§! ïåðåäàñò Âàì §Yàðòåôàêò§!;;x
+always_approve_custom_tooltip;I will always approve this type of war!;;;;;;;;;;;ß âñåãäà ïîääåðæèâàþ ýòîò òèï âîéíû!;;x
+any_child_gets_angry_tt;Your other children might not approve of this...\n;;;;;;;;;;;Äðóãèå Âàøè äåòè ìîãóò íå îäîáðèòü ýòî...\n;;x
+army_of_destiny_tt;An army with which to claim your destiny assembles!;;;;;;;;;;;Ñîáåð¸òñÿ àðìèÿ ðàäè èñïîëíåíèÿ Âàøåé ñóäüáû!;;x
+artifact_is_removed_tt;§Y[equipped_artifact.GetName]§! will be removed from your Treasury.\n;;;;;;;;;;;§Y[equipped_artifact.GetName]§! óäàëèòñÿ èç Âàøåé ñîêðîâèùíèöû.\n;;x
+assassins_raise_troops_cooldown_TT;Recently raised an Assassin army - cannot raise more troops until §Y[Root.assassins_raise_troops_cooldown.GetExpiryDate]§!;;;;;;;;;;;Âû íåäàâíî ïðèçûâàëè àðìèþ àññàñèíîâ è íå ìîæåòå ñäåëàòü ýòî ñíîâà äî §Y[Root.assassins_raise_troops_cooldown.GetExpiryDate]§!;;x
+available_because_benevolent_tt;This option is available because you are §Y[Root.GetBenevolentTrait]§!;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì áëàãîäàðÿ òîìó, ÷òî Âû §Y[Root.GetBenevolentTrait]§!;;x
+available_because_better;This option is available because you are §Y[From.GetFirstName]§!'s better;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì, ïîòîìó ÷òî §Y[From.GetFirstName]§! - Âàø âàññàë;;x
+available_because_books_tt;This option is available because you have §Y[book_target.GetName]§! in your §YTreasury§!;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì, ïîòîìó ÷òî ó Âàñ åñòü §Y[book_target.GetName]§! â Âàøåé §Yñîêðîâèùíèöå§!.;;x
+available_because_duels;[Root.GetDuelOptionAvailable];;;;;;;;;;;[Root.GetDuelOptionAvailable];;x
+available_because_duels_bad;[Root.GetDaringDuelOptionAvailable];;;;;;;;;;;[Root.GetDaringDuelOptionAvailable];;x
+available_because_dumb;This option is available because you are dumb;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì áëàãîäàðÿ Âàøåé òóïîñòè;;x
+available_because_dynasty_member_tt;This option is available to you because you are of the same §YDynasty§! as §Y[other_combatant.GetTitledFirstName]§!;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì áëàãîäàðÿ òîìó, ÷òî  §Y[other_combatant.GetTitledFirstName]§! ïðèíàäëåæèò Âàøåé §Yäèíàñòèè§!;;x
+available_because_good_hunter;This option is available because of your §YHunting§! skills.;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì áëàãîäàðÿ §Yîõîòíè÷üèì§! íàâûêàì;;x
+available_because_loves_family;This option is available because you love your §YFamily§!;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì, ïîòîìó ÷òî Âû ëþáèòå ñâîþ §Yñåìüþ§!;;x
+available_because_malevolent_tt;This option is available because you are §Y[Root.GetMalevolentTrait]§!;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì áëàãîäàðÿ òîìó, ÷òî Âû §Y[Root.GetMalevolentTrait]§!;;x
+available_because_pretty;This option is available because you are §YAttractive§!;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì áëàãîäàðÿ Âàøåé §Yïðèâëåêàòåëüíîñòè§!;;x
+available_because_relative;This option is available because §Y[From.GetFirstName]§! is your §Y[GetFromRelation]§!;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì, ïîòîìó ÷òî §Y[From.GetFirstName]§! - Âàø[From.GetEndA] §Y[From.GetRootRelation]§!;;x
+available_because_religious_doctrine;This option is available because of your religious §YDoctrine§!;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì áëàãîäàðÿ ðåëèãèîçíîé §Yäîêòðèíå§!;;x
+available_because_rivals_tt;This option is available because your rival is at risk.;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì, ïîòîìó ÷òî Âàøåìó ñîïåðíèêó óãðîæàåò îïàñíîñòü.;;x
+available_because_same_society;This option is available to you because you are also a member of §Y[Root.Society.GetName]§!;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì áëàãîäàðÿ òîìó, ÷òî Âû ñîñòîèòå â îáùåñòâå §Y[Root.GetSocietyNameGEN]§!;;x
+available_due_to_smart;This option is available because you either have the §YGenius§!, §YQuick§!, or §YShrewd§! trait;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì, ïîñêîëüêó Âû îáëàäàåòå ÷åðòàìè §YÃåíèàëüí[This.GetAyaYy]§!, §YÑìûøë¸í[This.GetAyaYy]§! èëè §YÏðîíèöàòåëüí[This.GetAyaYy]§!;;x
+available_due_to_warrior_lodge;This option is available because you are a member of §Y[Root.Society.GetName]§!.;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì, ïîòîìó ÷òî Âû ñîñòîèòå â îáùåñòâå §Y[Root.GetSocietyNameGEN]§!.;;x
+bacchants_recruit_block_tooltip;Has not been approached by the Bacchants before.;;;;;;;;;;;Óáåäèòåñü, ÷òî ýò[Root.GetEtaEtot] [Root.GetAgedPerson] ÍÅ ïðèâëåêà[Root.GetLasLsya] ðàíåå íà ñëóæáó Áàõóñó.;;x
+baptism_new_missionaries_tooltip;Missionaries from §Y[From.PrimaryTitle.GetName]§! will be dispatched to one of your pagan provinces in order to convert it to the new faith.\nNote that their actions might upset the peasantry.;;;;;;;;;;;§Y[From.PrimaryTitle.GetAdjective]ñêèå§! ìèññèîíåðû áóäóò îòïðàâëåíû â îäèí èç îêðóãîâ Âàøèõ çåìåëü, ÷òîáû îáðàòèòü ìåñòíûõ æèòåëåé â íîâóþ âåðó.\nÓ÷òèòå, ÷òî ýòè ëþäèè âðÿä ëè áóäóò ðàäû èõ äåéñòâèÿì.;;x
+baptism_request_cooldown;Has recently asked for a mass conversion;;;;;;;;;;;Íåäàâíÿÿ ïðîñüáà î ìàññîâîì îáðàùåíèè â äðóãóþ âåðó;;x
+baptism_sponsor_ally;§Y[Root.GetTitledFirstName]§! is your §YAlly§!;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! - Âàø[Root.GetEndA] §Yñîþçíè[Root.GetTsaK]§!;;x
+baptism_sponsor_distance;Distance from §Y[Root.GetTitledFirstName]'s§! realm;;;;;;;;;;;Ðàññòîÿíèå îò ñòðàíû, êîòîðîé ïðàâèò §Y[Root.GetTitledFirstName]§!;;x
+baptism_sponsor_emperor;§Y[Root.GetTitledFirstName]§! is an §YEmperor§!;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! - §Y[Root.GetEmpressEmperor]§!;;x
+baptism_sponsor_enemy;§Y[Root.GetTitledFirstName]§! is your §YEnemy§!;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! - Âàø §Yâðàã§!;;x
+baptism_sponsor_fylkir;§Y[Root.GetTitledFirstName]§! is the §YReligious Head§! of the §Y[Root.Religion.GetName]§! faith;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! - §Yãëàâà§! §Y[Root.GetRelAdj]ñêîé§! ðåëèãèè;;x
+baptism_sponsor_opinion;§Y[Root.GetTitledFirstName]'s§! Opinion of §Y[From.GetTitledFirstName]§!;;;;;;;;;;;Ìíåíèå, êîòîðîå §Y[Root.GetTitledFirstName]§! èìååò î âàñ;;x
+baptism_sponsor_pagan;§Y[Root.GetTitledFirstName]§! is a §YReformed Pagan§!;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! èñïîâåäóåò §Yðåôîðìèðîâàííóþ§! ÿçû÷åñêóþ âåðó;;x
+baptism_sponsor_patriarch;§Y[Root.GetTitledFirstName]§! rules over the §Y[Root.Religion.GetName]§! religious head;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! - ñþçåðåí ãëàâû §Y[Root.GetRelAdj]ñêîé§! ðåëèãèè;;x
+baptism_sponsor_power;Relative power of §Y[Root.GetTitledFirstName]'s§! realm;;;;;;;;;;;Âîåííàÿ ìîùü ñòðàíû, êîòîðîé ïðàâèò §Y[Root.GetTitledFirstName]§!;;x
+baptism_sponsor_proselytizer;§Y[Root.GetTitledFirstName]§! belongs to a proselytizing religion;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! èñïîâåäóåò ðåëèãèþ, êîòîðîé ïðèñóù §Yïðîçåëèòèçì§!.;;x
+baptism_sponsor_relative;§Y[Root.GetTitledFirstName]§! is your §YRelative§!;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! - Âàø[Root.GetEndA] §Y[Root.GetFromVsRelation]§!;;x
+baptism_sponsor_size;Relative size of §Y[Root.GetTitledFirstName]'s§! realm;;;;;;;;;;;Ðàçìåð ñòðàíû, êîòîðîé ïðàâèò §Y[Root.GetTitledFirstName]§!;;x
+baptism_sponsor_suzerain;§Y[Root.GetTitledFirstName]§! is your §YSuzerain§!;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! - Âàø §Yãåãåìîí§!;;x
+baptism_sponsor_sympathetic;§Y[Root.GetTitledFirstName]§! is sympathetic towards §YPagans§!;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! ñèìïàòèçèðóåò §Yÿçû÷íèêàì§!;;x
+baptism_sponsor_tributary;§Y[Root.GetTitledFirstName]§! is a tributary of §Y[From.GetTitledFirstName]§!;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! - Âàø ñàòåëëèò (äàííèê);;x
+baptism_sponsor_wealth;§Y[Root.GetTitledFirstName]§! is wealthy;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! áîãàò[Root.GetEndA];;x
+bastard_eunuch_celibate_or_incapable_tt;Has the trait §YBastard§!, §YEunuch§!, §YCelibate§! or §YIncapable§!;;;;;;;;;;;Îáëàäàåò ÷åðòàìè §Yáàñòàðä§!, §Yåâíóõ§!, §Yïðèíÿë[This.GetEndA] öåëèáàò§! èëè §Yíåäååñïîñîáí[This.GetAyaYy]§!;;x
+because_bloodline_tt;This option is available because of your §YBloodline§!;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì áëàãîäàðÿ Âàøåé §Yðîäîñëîâíîé§!;;x
+begin_coronation_tooltip;Start preparing for your Coronation Ceremony.;;;;;;;;;;;Íà÷àòü ïðèãîòîâëåíèÿ ê êîðîíàöèè.;;x
+bektashi_loan_money_TT;§Y[d_bektashi.Holder.GetTitledName]§! has §G25§! or higher opinion of §Y[Root.GetTitledName]§!;;;;;;;;;;;§Y[d_bektashi.Holder.GetTitledFirstName]§! èìååò ìíåíèå §G25§! èëè âûøå î [Root.GetAgedPersonPREP], èçâåñòí[Root.GetOyOm] êàê §Y[Root.GetTitledFirstName]§!;;x
+BLOODLINE_EASIER_VOWS_TOOLTIP;Both [From.GetFirstName] and [Root.GetFirstName] are relatives and belong to a §YBloodline§! endorsed by the §YPapacy§!;;;;;;;;;;;[From.GetFirstName] è [Root.GetFirstName] ÿâëÿþòñÿ ðîäñòâåííèêàìè è ïðèíàäëåæàò ê §Yðîäîñëîâíîé§!, ïîääåðæèâàåìîé §Yïàïñòâîì§!;;x
+both_tribal_and_has_strong_claim_tt;Duelers are §YTribal§!, and §Y[From.GetTitledFirstName]§! has a §YStrong Claim§! against §Y[Root.GetTitledFirstName]§!;;;;;;;;;;;Ó÷àñòíèêè ïîåäèíêà - §Yïëåìåííûå§! âîæäè, ïðè ýòîì §Y[From.GetTitledFirstName]§! èìååò §Yñèëüíóþ ïðåòåíçèþ§! ê îïïîíåíò[Root.GetKeU], èçâåñòíî[Root.GetYMu] êàê §Y[Root.GetTitledFirstName]§!.;;x
+both_tribal_tt;Duelers are §YTribal§!;;;;;;;;;;;Óáåäèòåñü, ÷òî ó÷àñòíèêè ïîåäèíêà ïðèçíàþò çàêîíû §Yïëåìåíè§!.;;x
+boy_agnatic_tt;Is Male, while the Inheritance Law is §YAgnatic§!;;;;;;;;;;;Ìóæñêîãî ïîëà ïðè §Yàãíàòè÷åñêîì§! çàêîíå íàñëåäîâàíèÿ;;x
+cannot_expel_jews_during_blame_game_chain_TT;Cannot expel [GetJewsName] during the worst parts of the Black Death epidemic;;;;;;;;;;;Íåëüçÿ èçãíàòü [GetJewsNameGENACC] íà ïèêå òðàãè÷åñêèõ ñîáûòèé, ñâÿçàííûõ ñ ýïèäåìèåé ×¸ðíîé Ñìåðòè.;;x
+chance_to_spread_cruel_tt;Tends to inspire characters to become §YCruel§!;;;;;;;;;;;Ìîãóò ïîáóæäàòü íåêîòîðûõ ñòàíîâèòüñÿ §Yæåñòîêèìè§!;;x
+characters_are_not_busy_tt;Characters are NOT busy, or fighting a war;;;;;;;;;;;Óáåäèòåñü, ÷òî Âû îá[This.GetFromEndEA] ÍÅ çàíÿòû è íå ó÷àñòâóåòå â áîåâûõ äåéñòâèÿõ.;;x
+chase_down_enemy_commander_tt;You chase down §Y[enemy_commander.GetTitledFirstName]§! for a personal duel on the battlefield...!\n;;;;;;;;;;;§Y[enemy_commander.GetTitledFirstName]§! áóäåò âûçâàí[enemy_commander.GetEndA] Âàìè íà ïîåäèíîê íà ïîëå áîÿ!\n;;x
+child_adventures_tt;§Y[child_of_destiny.GetFullName]'s§! begins an invasion of §Y[target_invasion_character.PrimaryTitle.GetName]§!;;;;;;;;;;;§Y[child_of_destiny.GetFullName]§! íà÷í¸ò âòîðæåíèå â §Y[target_invasion_character.PrimaryTitle.GetAdjective]ñêèå çåìëè§!;;x
+child_claims_realm_tt;§Y[child_of_destiny.GetFullName]'s§! claims dominion over §Y[top_liege_match_target.PrimaryTitle.GetName]§!;;;;;;;;;;;§Y[child_of_destiny.GetFullName]§! çàÿâèò î ñâîèõ ïðåòåíçèÿõ íà §Y[top_liege_match_target.PrimaryTitle.GetAdjective]ñêèå çåìëè§!;;x
+childs_power_increases_tt;§Y[child_of_destiny.GetFullName]'s§! abilities keep growing...;;;;;;;;;;;§Y[child_of_destiny.GetFullName]§! ðàñøèðèò ñâîè âîçìîæíîñòè...;;x
+choose_a_story_tt;Choose a story to tell...;;;;;;;;;;;Âû âûáåðèòå èñòîðèþ, êîòîðóþ õîòèòå ðàññêàçàòü.;;x
+choose_military_aspect_allow_tt;Is NOT currently choosing a Military Aspect;;;;;;;;;;;Óáåäèòåñü, ÷òî óæå ÍÅ âûáðàëè âîåííóþ ñïåöèàëèçàöèþ;;x
+completely_control_near_east_TT;Completely controls the region of the §YNear East§!;;;;;;;;;;;Ïîëíûé êîíòðîëü íàä §YÁëèæíåâîñòî÷íûì§! ðåãèîíîì;;x
+control_jerusalem;Completely controls the §YLevant§!;;;;;;;;;;;Ïîëíîñòüþ êîíòðîëèðîâàòü §YËåâàíò§!;;x
+coronation_canceled;The Coronation Ceremony will be canceled.;;;;;;;;;;;Öåðåìîíèÿ êîðîíàöèè áóäåò îòìåíåíà.;;x
+could_lead_to_ambitious_tt;This could lead to you becoming §YAmbitious§!...;;;;;;;;;;;Ýòî ìîæåò ñäåëàòü Âàñ §Yàìáèöèîçí[Root.GetOyYm]§!...;;x
+could_lead_to_brave_tt;This could lead to you becoming §YBrave§!...;;;;;;;;;;;Ýòî ìîæåò ñäåëàòü Âàñ §Yõðàáð[Root.GetOyYm]§!...;;x
+could_lead_to_diligent_tt;This could lead to you becoming §YDiligent§!...;;;;;;;;;;;Ýòî ìîæåò ñäåëàòü Âàñ §Yóñåðäí[Root.GetOyYm]§!...;;x
+could_lead_to_patient_tt;This could lead to you becoming §YPatient§!...;;;;;;;;;;;Ýòî ìîæåò ñäåëàòü Âàñ §Yòåðïåëèâ[Root.GetOyYm]§!...;;x
+courtier_dies_tt;§Y[This.GetTitledFirstName]§!, visiting the prison, is killed in the ensuing chaos!;;;;;;;;;;;§Y[This.GetTitledFirstName]§!, ïîñåùàþù[This.GetAyaIy] òåìíèöó, ïîãèáíåò âî âðåìÿ áåñïîðÿäêîâ.;;x
+create_archduchy_of_austria_TT;Become the §Y[From.GetArchdukeArchduchessCap] of Austria§!, and bring the core lands of §Y[d_styria.GetName]§! and §Y[d_osterreich.GetName]§! in under your new title;;;;;;;;;;;Âû ñòàíåòå §Y[Root.GetArchdukeArchduchessINS] [Root.GetAustriaNameGEN]§!, §Y[d_styria.GetName]§! è §Y[d_osterreich.GetName]§! ïåðåéäóò ïîä þðèñäèêöèþ Âàøåãî íîâîãî òèòóëà.;;x
+create_bacchants_tooltip;The Secret Society of the §YBacchants§! is established.;;;;;;;;;;;Áóäåò ñîçäàíî òàéíîå îáùåñòâî §YÑëóæèòåëåé Áàõóñà§!;;x
+create_dralhas_children_tooltip;The Holy Order §YDralha's Children§! is established.;;;;;;;;;;;Äóõîâíûé îðäåí §YÄåòè Äðàëõè§! áóäåò ñîçäàí.;;x
+create_myrmidons_tooltip;The Holy Order of the §YMyrmidons§! will be formed.;;;;;;;;;;;Áóäåò îñíîâàí äóõîâíûé îðäåí §YÌèðìèäîíöåâ§!;;x
+create_outremer_tt;§Y[Root.GetBestName]§! creates the §YEmpire of the Outremer§!;;;;;;;;;;;§Y[Root.GetTitledFirstNameWithNick]§! ñîçäàñò èìïåðèþ §YÓòðåìåð§!;;x
+create_stoics_tooltip;The §YStoic Intelligentsia§! Society is founded.;;;;;;;;;;;Áóäåò îñíîâàíî îáùåñòâî §Yñòîèêîâ§!;;x
+create_the_hansa_tooltip;Change into a Merchant Republic.;;;;;;;;;;;Ïîëèòè÷åñêàÿ ñèñòåìà èçìåíèòñÿ íà §Yòîðãîâóþ ðåñïóáëèêó§!.;;x
+create_treasury_condition_tooltip;Has three artifacts of at least §YQuality 2§! in the Treasury;;;;;;;;;;;Îáëàäàíèå òðåìÿ àðòåôàêòàìè §Yêà÷åñòâà 2§! â ñâîåé ñîêðîâèùíèöå;;x
+create_warrior_lodge_hellenic_tooltip;Establish the §YWarrior Society§! of the §YOlympian Champions§!;;;;;;;;;;;Ó÷ðåäèòü §Yâîèíñêóþ ëîæó§! §YÎëèìïèéñêèõ ÷åìïèîíîâ§!;;x
+crowned_by_trigger;Has been crowned;;;;;;;;;;;Áûë[This.GetEndA] êîðîíîâàí[This.GetEndA];;x
+crusade_invalidate_other_wars_TT;Cannot attack a fellow Crusader nor the Pope;;;;;;;;;;;Íåëüçÿ àòàêîâàòü Ïàïó èëè ñîðàòíèêà-êðåñòîíîñöà;;x
+crusade_no_antipope_TT;The Pope is your religious head.;;;;;;;;;;;Ïàïà - ãëàâà Âàøåé öåðêâè.;;x
+custom_create_switzerland_tooltip;Collect the provinces of the Central Plateau into the new Allied Swiss Confederacy.;;;;;;;;;;;Ñîáåðèòå âñå çåìëè Öåíòðàëüíîãî ïëàòî â íîâóþ îáúåäèí¸ííóþ Øâåéöàðñêóþ Êîíôåäåðàöèþ.;;x
+dangerous_duel_tt;§Y[combatant_1.GetFirstName]§! will without a doubt be beaten bloody - effective, but perhaps a bit harsh?;;;;;;;;;;;§Y[combatant_1.GetFirstName]§! áåç ñîìíåíèé áóäåò ïîáèò[combatant_1.GetEndA] â ýòîì ïîåäèíêå, íå ñëèøêîì ëè ýòî æåñòîêî?;;x
+defense_pledge_crusade_target_TT;Can not pledge if you are the Primary Crusade Target;;;;;;;;;;;Íåëüçÿ ïîîáåùàòü ó÷àñòèå, áóäó÷è ãëàâíîé öåëüþ êðåñòîâîãî ïîõîäà.;;x
+defense_pledge_crusade_target_TT_2;Within diplomatic range.;;;;;;;;;;;Â ïðåäåëàõ äèïëîìàòè÷åñêîãî ðàäèóñà.;;x
+definitely_foul_play_tt;There are those who say foul play took place this day...;;;;;;;;;;;Åñòü òå, êòî óòâåðæäàþò, ÷òî çäåñü îïðåäåë¸ííî èìååò ìåñòî ãðÿçíàÿ èãðà...;;x
+destroy_muslim_leadership;The §YMuslim Caliphates§! are §YDestroyed§!;;;;;;;;;;;§Y[_Èñëàì]ñêèé õàëèôàò§! áóäåò §Yóíè÷òîæåí§!;;x
+dharmic_good_trait_power_tt;Power: §Y[GetDharmic] Wisdom§!\nMakes you lose wicked traits and gain pious ones over time.;;;;;;;;;;;Ñïîñîáíîñòü: §Y[GetDharmic]ñêàÿ ìóäðîñòü§!\nÏîçâîëÿåò Âàì èçáàâèòüñÿ îò ïîðî÷íûõ ÷åðò õàðàêòåðà è îáðåñòè ïðàâåäíûå ñî âðåìåíåì.;;x
+dishonorable_duel_major_tooltip;Considering the [This.GetDuelWeakness] of §Y[This.GetTitledFirstName]§!, certain characters will consider this challenge dishonorable.;;;;;;;;;;;§Y[This.GetTitledFirstName]§! [This.GetDuelWeakness]. Íåêîòîðûå ïîñ÷èòàþò ýòîò ïîåäèíîê áåñ÷åñòíûì.;;x
+dishonorable_duel_medium_tooltip;Considering the [This.GetDuelWeakness] of §Y[This.GetTitledFirstName]§!, certain characters will consider this challenge beneath you.;;;;;;;;;;;§Y[This.GetTitledFirstName]§! [This.GetDuelWeakness]. Íåêîòîðûå ïîñ÷èòàþò, ÷òî ýòîò ïîåäèíîê íèæå Âàøåãî äîñòîèíñòâà.;;x
+dishonorable_duel_minor_tooltip;Considering the [This.GetDuelWeakness] of §Y[This.GetTitledFirstName]§!, certain characters will consider this challenge in poor taste.;;;;;;;;;;;§Y[This.GetTitledFirstName]§! [This.GetDuelWeakness]. Ýòî âûñòàâèò ïîåäèíîê â äóðíîì ñâåòå.;;x
+disinherit_tt;Due to abandoning the realm, §Y[child_of_destiny.GetFirstName]§! makes the choice of becoming §RDisinherited§!!;;;;;;;;;;;Îòêàçûâàÿñü îò çåìåëü ñâîåé ñòðàíû, §Y[child_of_destiny.GetFirstName]§! ñäåëàåò âûáîð §Râûéòè èç ëèíèè íàñëåäîâàíèÿ§!!;;x
+disinherit_you_tt;This action will §RDisinherit§! you!;;;;;;;;;;;Ýòî äåéñòâèå §Râûâûäåò Âàñ èç ëèíèè íàñëåäîâàíèÿ§!!;;x
+does_not_have_a_lifestyle_trait_tt;Does NOT have a lifestyle trait;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ îáëàäàåòå ÷åðòîé õàðàêòåðà, ñâÿçàííîé ñ îáðàçîì æèçíè;;x
+duel_tooltip_busy;Duelers are NOT busy or fighting a war\n;;;;;;;;;;;Óáåäèòåñü, ÷òî íèêòî èç ïðåäïîëàãàåìûõ äóýëÿíòîâ íå çàíÿò è íå ó÷àñòâóåò â âîéíå.\n;;x
+duel_tooltip_challenged_before;Duelers have NOT challenged each other to a duel before\n;;;;;;;;;;;Óáåäèòåñü, ÷òî ðàíüøå ýòè äóýëÿíòû ÍÅ âûçûâàëè äðóã äðóãà íà ïîåäèíîê.\n;;x
+duel_tooltip_decadent;§Y[From.GetTitledFirstName]§! is a '§YZealous§!' Muslim, and §Y[Root.GetTitledFirstName]§! is §YDecadent§!\n;;;;;;;;;;;§Y[From.GetTitledFirstName]§! §Yíàáîæí[From.GetAyaYy]§! [From.GetMuslimPerson], à §Y[Root.GetTitledFirstName]§! - §Yäåêàäåíò[Root.GetEndKa]§!.\n;;x
+duel_tooltip_excommunicated;§Y[From.GetTitledFirstName]§! is '§YZealous§!', and §Y[Root.GetTitledFirstName]§! is §YExcommunicated§!\n;;;;;;;;;;;§Y[From.GetTitledFirstName]§! §Yíàáîæí[From.GetAyaYy]§!, à §Y[Root.GetTitledFirstName]§! §Yîòëó÷åí[Root.GetEndA]§! îò òîé æå öåðêâè.\n;;x
+duel_tooltip_foes;§Y[From.GetTitledFirstName]§! and §Y[Root.GetTitledFirstName]§! are foes\n;;;;;;;;;;;§Y[From.GetTitledFirstName]§! è §Y[Root.GetTitledFirstName]§! - âðàãè.\n;;x
+duel_tooltip_no_war;Duelers are NOT involved in a war;;;;;;;;;;;Óáåäèòåñü, ÷òî ó÷àñòíèêè ïîåäèíêà ÍÅ âîþþò.;;x
+duel_tooltip_pregnant;Duelers are NOT §YPregnant§!\n;;;;;;;;;;;Óáåäèòåñü, ÷òî äóýëÿíòêè ÍÅ §Yáåðåìåííû§!\n;;x
+duel_tooltip_recent_challenge_tt;§Y[From.GetTitledFirstName]§! has NOT recently issued this challenge to §Y[Root.GetTitledFirstName]§!;;;;;;;;;;;Óáåäèòåñü, ÷òî íåäàâíî ÍÅ âûçûâàëè [Root.GetAgedPersonACC], èçâåñòí[Root.GetUyuOgo] êàê §Y[Root.GetTitledFirstName]§!, íà ïîåäèíîê.;;x
+duel_tooltip_recent_duel;Duelers have NOT recently been in any duel\n;;;;;;;;;;;Óáåäèòåñü, ÷òî íèêòî èç ïðåäïîëàãàåìûõ äóýëÿíòîâ íå ó÷àñòâîâàë â íåäàâíåì ïîåäèíêå\n;;x
+duel_tooltip_rivals;§Y[From.GetTitledFirstName]§! and §Y[Root.GetTitledFirstName]§! are rivals\n;;;;;;;;;;;§Y[From.GetTitledFirstName]§! è §Y[Root.GetTitledFirstName]§! - ñîïåðíèêè.\n;;x
+duel_tooltip_sickness;Duelers do NOT have the character modifier §YBedridden§! or §YSevere Illness§!\n;;;;;;;;;;;Óáåäèòåñü, ÷òî äóýëÿíòû ÍÅ èìåþò ìîäèôèêàòîðû §YÏðèêîâàí ê ïîñòåëè§! èëè §YÒÿæ¸ëàÿ áîëåçíü§!\n;;x
+duel_tooltip_valid_target;§Y[Root.GetTitledFirstName]§! is a valid duel target, within your religion or culture\n;;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[Root.GetTitledFirstName]§! - äîñòîéí[Root.GetAyaYy] ó÷àñòíè[Root.GetTsaK] ïîåäèíêà (òîé æå ðåëèãèè è êóëüòóðû)\n;;x
+dueling_inappropriate_target_tt;As §Y[This.GetTitledFirstName]§! is a [This.GetDuelNormbreakingReason], this challenge is widely frowned upon.;;;;;;;;;;;§Y[This.GetTitledFirstName]§! - [This.GetDuelNormbreakingReason], ïîñåìó ýòîò ïîåäèíîê îñóæäàåòñÿ êàê íåñïðàâåäëèâûé.;;x
+dynamic_crusader_state_tooltip;Occupy all De-Jure County titles of §Y[Root.GetFullBaseName]§!;;;;;;;;;;;êîíòðîëèðóåòå âñå äå-þðå îêðóãà ãåðöîãñòâà §Y[Root.GetFullBaseName]§!;;x
+dynamic_crusader_state_tooltip_2;All De-Jure County title owners must be fighting the Crusade;;;;;;;;;;;âñå îáëàäàòåëè òèòóëîâ ýòèõ îêðóãîâ ó÷àñòâóåò â êðåñòîâîì ïîõîäå;;x
+dynamic_crusader_state_tooltip_3;Is by the sea or neighboring a non-heretical Christian;;;;;;;;;;;ïî ñóøå èëè ïî ìîðþ îíî ãðàíè÷èò ñ çåìëÿìè õðèñòèàí (íå åðåòèêîâ);;x
+dynamic_crusader_state_tooltip_4;Have a §YCrusade Beneficiary§! or someone who has the potential to become a §YCrusade Beneficiary§!;;;;;;;;;;;ó Âàñ åñòü §Yáåíåôèöèàð êðåñòîâîãî ïîõîäà§! èëè êòî-íèáóäü, êòî ïîòåíöèàëüíî ìîã áû èì áûòü;;x
+dynamic_crusader_state_tooltip_5;The §Y[Root.GetFullBaseName]§! is not De-Jure of the current Crusade target;;;;;;;;;;;§Y[Root.GetFullBaseName]§! íå ÿâëÿåòñÿ äå-þðå ÷àñòüþ ãëàâíîé öåëè êðåñòîâîãî ïîõîäà;;x
+dynamic_crusader_state_tooltip_6;None of the DeJure County title are held by the Crusade target or its vassals;;;;;;;;;;;íè îäèí èç òèòóëîâ äå-þðå îêðóãîâ ýòîé çåìëè íå ïðèíàäëåæèò öåëè êðåñòîâîãî ïîõîäà èëè åãî âàññàëàì;;x
+e_hispania_allow_TT;No de jure Kingdom title is held by a non-[Root.Religion.GetGroupName];;;;;;;;;;;Óáåäèòåñü, ÷òî â ðóêàõ èíîâåðöåâ íåò äå-þðå êîðîëåâñòâ.;;x
+eastern_marches_austria_TT;Decide upon which name your new Kingdom will take.;;;;;;;;;;;Ðåøèòå, êàê íàçâàòü Âàøå íîâîå ãîñóäàðñòâî.;;x
+easy_duel_tt;§Y[combatant_1.GetFirstName]§! is likely to win, but will [combatant_1.GetSheHe] appreciate my choice?;;;;;;;;;;;§Y[combatant_1.GetFirstName]§! ñêîðåå âñåãî ïîáåäèò, íî áóäåò ëè [combatant_1.GetSheHe] áëàãîäàð[combatant_1.GetNaEn] ìíå çà âûáîð îïïîíåíòà?;;x
+emperor_has_hre;Direct vassal of §Y[e_hre.Holder.GetTitledName]§!;;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[e_hre.Holder.GetTitledFirstName]§! - Âàø ñþçåðåí;;x
+emperor_likes_you_quite_a_lot_TT;§Y[e_hre.Holder.GetTitledFirstName]§! opinion of §Y[Root.GetTitledFirstName]§! is greater or equal to §Y50§!;;;;;;;;;;;§Y[e_hre.Holder.GetTitledFirstName]§! èìååò ìíåíèå îáî ìíå íå ìåíüøå, ÷åì §Y50§!;;x
+enemy_commander_looms_over_you_tt;The enemy's Commander, §Y[enemy_commander.GetTitledFirstName]§!, shouts to press on.\n;;;;;;;;;;;Âðàæåñêèé êîìàíäèð §Y[enemy_commander.GetTitledFirstName]§! êðè÷èò íà Âàñ.\n;;x
+enemy_commander_looms_over_your_artifact_tt;The enemy's Commander, §Y[enemy_commander.GetTitledFirstName]§!, eyes the §Y[dueling_weapon_1.GetName]§! on the ground...\n;;;;;;;;;;;Âðàæåñêèé êîìàíäèð §Y[enemy_commander.GetTitledFirstName]§! çàìå÷àåò, ÷òî §Y[dueling_weapon_1.GetName]§! ëåæèò íà çåìëå...\n;;x
+even_duel_tt;Either §Y[combatant_1.GetFirstName]§! or §Y[society_practice_duelist_target_2.GetFirstName]§! could win, this will be an even fight.;;;;;;;;;;;Êàê §Y[combatant_1.GetFirstName]§!, òàê è §Y[society_practice_duelist_target_2.GetFirstName]§! ìîãóò ïîáåäèòü. Ýòî áóäåò ÷åñòíûé ïîåäèíîê.;;x
+evenly_matched_tt;§Y[This.GetTitledFirstName]§! is somewhat evenly matched to §Y[Prev.GetTitledFirstName]§!;;;;;;;;;;;§Y[This.GetTitledFirstName]§! è §Y[Prev.GetTitledFirstName]§! âïîëíå ñîîòâåòñòâóþò äðóã äðóãó ïî ñèëàì;;x
+fellow_prisoner_dies_tt;Your fellow prisoner §Y[This.GetTitledFirstName]§! dies, caught in your crossfire!;;;;;;;;;;;Âàø[This.GetEndA] ñîñåä[This.GetEndKa] ïî êàìåðå §Y[This.GetTitledFirstName]§! óìð¸ò ïîïàâ ïîä Âàøó ãîðÿ÷óþ ðóêó.;;x
+flag_poisoning_mother;Attempt to poison [From.GetTitledFirstName]'s drink.;;;;;;;;;;;[From.GetTitledFirstName] ìíå ìåøàåò. Ïîïûòàþñü îòðàâèòü [From.GetHersHis] íàïèòêè.;;x
+flag_smothering_mother;Attempt to smother [From.GetTitledFirstName] in her sleep.;;;;;;;;;;;[From.GetTitledFirstName] ìíå ìåøàåò. Ïîïûòàþñü çàäóøèòü [From.GetHersHis] â ïîñòåëè.;;x
+flower_war_cb_tooltip;All captured enemy troops will be sacrificed to the gods upon victory, leaving [This.GetTitledFirstName]'s lands undefended for several years.;;;;;;;;;;;Âñå âîéñêà, çàõâà÷åííûå â ïëåí áóäóò ïðèíåñåíû â æåðòâó áîãàì, [This.GetTitledFirstName] è [This.GetHersHis] çåìëè íà äîëãèå ãîäû îñòàíóòñÿ íåçàùèù¸ííûìè.;;x
+forced_to_crusade_TT;Cannot unpledge from the Crusade if the Pope forced you to be part of it.;;;;;;;;;;;Íåëüçÿ îòîçâàòü îáåùàíèå îá ó÷àñòèè â êðåñòîâîì ïîõîäå, åñëè Ïàïà âåëèò Âàì ó÷àñòâîâàòü â í¸ì.;;x
+form_holy_sepulchre_jerusalem_TT;§YCounty of Jerusalem§! is held by §Y[Root.GetTitledName]§! or another lord in the realm;;;;;;;;;;;§YÃðàôñòâî Èåðóñàëèì§! äîëæíî êîíòðîëèðîâàòüñÿ Âàìè èëè ëþáûì ëîðäîì èç Âàøåãî ãîñóäàðñòâà;;x
+form_holy_sepulchre_TT;Form the §Y[d_holy_sepulchre.GetName]§!;;;;;;;;;;;Îñíîâàòü §Y[d_holy_sepulchre.GetName]§!;;x
+form_knights_of_calatrava_TT;You form and vassalize the §Y[d_knights_calatrava.GetName]§!, a §YHoly Order§! which will be situated in §YCalatrava§!;;;;;;;;;;;Òèòóë §Y[d_knights_calatrava.GetName]§! áóäåò ñîçäàí è âàññàëèçèðîâàí\nÝòîò §Yäóõîâíûé îðäåí§! ðàñïîëîæåí â §YÊàëàòðàâå§!;;x
+form_knights_of_santiago_TT;You form and vassalize the §Y[d_knights_santiago.GetName]§!, a §YHoly Order§! which will be situated in §YSantiago§!;;;;;;;;;;;Òèòóë §Y[d_knights_santiago.GetName]§! áóäåò ñîçäàí è âàññàëèçèðîâàí\nÝòîò §Yäóõîâíûé îðäåí§! ðàñïîëîæåí â §YÑàíòüÿãî§!;;x
+form_lcr_tt;§Y[Root.GetBestName]§! creates the §YSlavic Union§!;;;;;;;;;;;§Y[Root.GetTitledFirstNameWithNick]§! ñîçäàñò §YÑëàâÿíñêèé ñîþç§!;;x
+form_teutonic_order_jerusalem_TT;§Y[k_jerusalem.GetName]§! is held by a §Y[Root.Religion.GetName]§! ruler;;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[k_jerusalem.GetName]§! ïîä êîíòðîëåì ïðàâèòåëÿ-§Y[Root.GetReligionAdherentGENACC_M]§!;;x
+form_teutonic_order_TT;You form the §Y[d_teutonic_order.GetName]§!;;;;;;;;;;;Îñíîâàòü §Y[d_teutonic_order.GetName]§!;;x
+FORM_THE_HRE_TT;Hold a King title besides [k_germany.GetName].;;;;;;;;;;;Íóæíî îáëàäàòü òèòóëîì êîðîëåâñêîãî ðàíãà, ïîìèìî òèòóëà §Y[k_germany.Title.GetName]§!.;;x
+form_vassalize_holy_sepulchre_TT;Vassalize the §Y[d_holy_sepulchre.GetName]§!;;;;;;;;;;;Âàññàëèçèðîâàòü §Y[d_holy_sepulchre.GetName]§!;;x
+found_bloodline_tt;§Y[This.GetBestName]§! becomes known as the founder of a §YBloodline§!;;;;;;;;;;;Ñòàíåò èçâåñò[This.GetNaEn] êàê îñíîâàòåëü[This.GetEndNitsa] §Yðîäîñëîâíîé§!;;x
+from_has_gained_fussy_tt;§Y[From.GetFirstName]§! has become §YFussy§!;;;;;;;;;;;§Y[From.GetFirstName]§! ìîæåòü ñòàòü §Yïðèâåðåäëèâ[From.GetOyYm]§!;;x
+gain_berserker_tt;§Y[This.GetTitledFirstName]§! gains the trait §YBerserker§! giving:\nMartial: §G+4§!\nDiplomacy: §R-2§!\nPersonal Combat Skill: §G+25§!\nSame Trait Opinion: §G+10§!\n\n[GetBerserkerDecisionExtras]\n;;;;;;;;;;;§Y[This.GetTitledFirstName]§! ïîëó÷èò ÷åðòó §Yáåðñåðê§!, êîòîðàÿ äà¸ò:\nÂîåííûé íàâûê: §G+4§!\nÄèïëîìàòèÿ: §R-2§!\nËè÷íûå áîåâûå íàâûêè: §G+25§!\nÌíåíèå îáëàäàòåëåé ýòîé ÷åðòû: §G+10§!\n\n[GetBerserkerDecisionExtras]\n;;x
+gain_use_of_invasion_cb_tt;You are granted one free use of the §YInvasion§! Casus Belli!;;;;;;;;;;;Âàì áóäåò äàðîâàíî ïðàâî èñïîëüçîâàòü §Yâòîðæåíèå§! â ëþáîé ìîìåíò!;;x
+gender_is_culturally_or_religiously_eligble_tt;The gender of §Y[Root.GetTitledName]§! is culturally or religiously eligible\n;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! îáëàäàåò ïîëîì, ïðàâà êîòîðîãî êóëüòóðíî è ðåëèãèîçíî çàùèùåíû.\n;;x
+girl_enatic_tt;Is Female, while the Inheritance Law is §YEnatic§!;;;;;;;;;;;Æåíñêîãî ïîëà ïðè §Yýíàòè÷åñêîì§! çàêîíå íàñëåäîâàíèÿ;;x
+good_progress_tt;You make progress on your legendary journey\n;;;;;;;;;;;Âû äîáü¸òåñü íåêîòîðîãî óñïåõà â ñâî¸ì ëåãåíäàðíîì ïóòåøåñòâèè\n;;x
+great_progress_tt;You make §Ggreat§! progress on your legendary journey\n;;;;;;;;;;;Âû äîáü¸òåñü §Gçíà÷èòåëüíîãî§! óñïåõà â ñâî¸ì ëåãåíäàðíîì ïóòåøåñòâèè\n;;x
+haruriyyah_loan_money_TT;§Y[d_haruriyyah.Holder.GetTitledName]§! has §G25§! or higher opinion of §Y[Root.GetTitledName]§!;;;;;;;;;;;§Y[d_haruriyyah.Holder.GetTitledFirstName]§! èìååò ìíåíèå §G25§! èëè âûøå î [Root.GetAgedPersonPREP], èçâåñòí[Root.GetOyOm] êàê §Y[Root.GetTitledFirstName]§!;;x
+has_dueling_exp_tt;Has experience with duels;;;;;;;;;;;Îïûò ó÷àñòèÿ â ïîåäèíêàõ;;x
+has_liege_vassal_or_neighbor_of_baltic_religion_tt;Has a §YLiege§!, §YVassal§!, or a §Yneighboring ruler§! who follows the §YRomuva§! faith\n;;;;;;;;;;;§YÑþçåðåí§!, §Yâàññàë§! èëè §Yñîñåäíèé ïðàâèòåëü§! èñïîâåäóþò §YÁàëòèéñêîå ÿçû÷åñòâî§!\n;;x
+has_liege_vassal_or_neighbor_of_bon_religion_tt;Has a §YLiege§!, §YVassal§!, or a §Yneighboring ruler§! who follows the §YBön§! faith\n;;;;;;;;;;;§YÑþçåðåí§!, §Yâàññàë§! èëè §Yñîñåäíèé ïðàâèòåëü§! èñïîâåäóþò §YÁîíñêîå ÿçû÷åñòâî§!\n;;x
+has_liege_vassal_or_neighbor_of_finnish_religion_tt;Has a §YLiege§!, §YVassal§!, or a §Yneighboring ruler§! who follows the §YSuomenusko§! faith\n;;;;;;;;;;;§YÑþçåðåí§!, §Yâàññàë§! èëè §Yñîñåäíèé ïðàâèòåëü§! èñïîâåäóþò §YÔèíñêîå ÿçû÷åñòâî§!\n;;x
+has_liege_vassal_or_neighbor_of_hellenic_religion_tt;Has a §YLiege§!, §YVassal§!, or a §Yneighboring ruler§! who follows the §YHellenic§! faith\n;;;;;;;;;;;§YÑþçåðåí§!, §Yâàññàë§! èëè §Yñîñåäíèé ïðàâèòåëü§! èñïîâåäóþò §YÝëëèíñêîå ÿçû÷åñòâî§!\n;;x
+has_liege_vassal_or_neighbor_of_norse_religion_tt;Has a §YLiege§!, §YVassal§!, or a §Yneighboring ruler§! who follows the §YGermanic§! faith\n;;;;;;;;;;;§YÑþçåðåí§!, §Yâàññàë§! èëè §Yïðàâèòåëü ñîñåäíèõ çåìåëü§! èñïîâåäóåò §Yãåðìàíñêóþ§! âåðó.\n;;x
+has_liege_vassal_or_neighbor_of_slavic_religion_tt;Has a §YLiege§!, §YVassal§!, or a §Yneighboring ruler§! who follows the §YSlavic§! faith\n;;;;;;;;;;;§YÑþçåðåí§!, §Yâàññàë§! èëè §Yñîñåäíèé ïðàâèòåëü§! èñïîâåäóþò §YÑëàâÿíñêîå ÿçû÷åñòâî§!\n;;x
+has_liege_vassal_or_neighbor_of_tengri_religion_tt;Has a §YLiege§!, §YVassal§!, or a §Yneighboring ruler§! who follows the §YTengri§! faith\n;;;;;;;;;;;§YÑþçåðåí§!, §Yâàññàë§! èëè §Yñîñåäíèé ïðàâèòåëü§! èñïîâåäóþò §YÒåíãðèàíñòâî§!\n;;x
+has_liege_vassal_or_neighbor_of_west_african_religion_tt;Has a §YLiege§!, §YVassal§!, or a §Yneighboring ruler§! who follows the §YAfrican§! faith\n;;;;;;;;;;;§YÑþçåðåí§!, §Yâàññàë§! èëè §Yñîñåäíèé ïðàâèòåëü§! èñïîâåäóþò §YÀôðèêàíñêîå ÿçû÷åñòâî§!\n;;x
+has_liege_vassal_or_neighbor_of_zun_religion_tt;Has a §YLiege§!, §YVassal§!, or a §Yneighboring ruler§! who follows the §YZunist§! faith\n;;;;;;;;;;;§YÑþçåðåí§!, §Yâàññàë§! èëè §Yñîñåäíèé ïðàâèòåëü§! èñïîâåäóþò §YÇóíñêîå ÿçû÷åñòâî§!\n;;x
+has_mission_to_recruit_tt;Has a mission to recruit §Y[Root.GetTitledFirstName]§!;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! - Âàø[Root.GetEndA] §Y[Root.GetSonDaughter]§!, è Âû ïîëó÷èëè çàäàíèå §Yçàâåðáîâàòü§! [Root.GetHersHis] â âîèíñêóþ ëîæó.;;x
+has_no_warrior_training_with_current_society_tt;Has NOT already gained a Commander trait from [From.Society.GetName]\n;;;;;;;;;;;Óáåäèòåñü, ÷òî íå ïîëó÷àëè ÷åðòó õàðàêòåðà, ñâÿçàííóþ ñ âîåííûì îáðàçîâàíèåì, îò îáùåñòâà [From.GetSocietyNameGEN]\n;;x
+has_not_angered_society_tt;Has NOT angered society;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ ñïðîâîöèðîâàëè ãíåâ ýòîãî ñîîáùåñòâà.;;x
+has_religion_matching_joined_warrior_lodge_tt;Has a religion that corresponds with [This.Society.GetName]\n;;;;;;;;;;;Èñïîâåäóåò ðåëèãèþ, ñîîòâåòñòâóþùóþ îáùåñòâó [This.GetSocietyNameGEN]\n;;x
+has_warrior_training_with_current_society_tt;Has gained a Commander trait from [From.Society.GetName]\n;;;;;;;;;;;Ïîëó÷åíà ÷åðòà õàðàêòåðà, ñâÿçàííàÿ ñ âîåííûì îáðàçîâàíèåì, îò îáùåñòâà [From.GetSocietyNameGEN]\n;;x
+hashshashin_loan_money_TT;§Y[d_fedayeen.Holder.GetTitledName]§! has §G25§! or higher opinion of §Y[Root.GetTitledName]§!;;;;;;;;;;;§Y[d_hashshashin.Holder.GetTitledFirstName]§! èìååò ìíåíèå §G25§! èëè âûøå î [Root.GetAgedPersonPREP], èçâåñòí[Root.GetOyOm] êàê §Y[Root.GetTitledFirstName]§!;;x
+hfp_abdicate_crusader_state_tooltip;§Y[Root.GetTitledName]§! abdicates all [Root.GetHerHis] old titles to settle down in §Y[duchy_region.GetBaseName]§!;;;;;;;;;;;§Y[Root.GetTitledName]§! îòðå÷¸òñÿ îò âñåõ ñâîèõ òèòóëîâ, ÷òîáû îñåñòü íà çåìëå, èçâåñòíîé êàê §Y[duchy_region.GetBaseName]§!;;x
+higher_tier_than_count_TT;Higher tier than Count;;;;;;;;;;;Òèòóë âûøå, ÷åì ãðàô;;x
+higher_tier_than_teutonic_knights_TT;Higher tier than the §YTeutonic Knights§!;;;;;;;;;;;Óáåäèòåñü, ÷òî Âàø òèòóë âûøå ðàíãîì ÷åì ó §YÒåâòîíñêîãî îðäåíà§!;;x
+hire_teutonic_honor_guard_cooldown_TT;Recently raised the Teutonic Honor Guard - cannot raise it again until §Y[Root.hire_teutonic_honor_guard_cooldown.GetExpiryDate]§!;;;;;;;;;;;Âû íåäàâíî ïðèçûâàëè òåâòîíñêóþ ãâàðäèþ è íå ìîæåòå ñäåëàòü ýòî ñíîâà äî §Y[Root.hire_teutonic_honor_guard_cooldown.GetExpiryDate]§!;;x
+holy_order_donate_cooldown_tt;Has NOT donated to a Holy Order in the past year[Root.GetHolyOrderDonationCD];;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ æåðòâîâàëè äåíüãè äóõîâíîìó îðäåíó çà ïîñëåäíèé ãîä[Root.GetHolyOrderDonationCD];;x
+home_liege_will_be_notified_of_death_tt;§Y[home_liege.GetTitledName]§! will be notified of your demise.\n;;;;;;;;;;;§Y[home_liege.GetTitledFirstName]§! óçíàåò î Âàøåé êîí÷èíå.\n;;x
+if_less_than_10_members_demands_tt;The society has less than §Y10§! members, and you publicly follow the [GetWLCanJoinReligion]\n;;;;;;;;;;;Â îáùåñòâå ìåíåå §Y10§! ÷ëåíîâ, à Âû îòêðûòî èñïîâåäóåòå [GetWLCanJoinReligion]\n;;x
+impious_beatification_tooltip;The recent ecclesiastical disagreements has brought on a lack of faith in the §RAuthority§! of the church;;;;;;;;;;;Íåäàâíèå ðàçíîãëàñèÿ â âîïðîñàõ âåðû âûçâàëè íåäîâåðèå ê §Rìîðàëüíîìó àâòîðèòåòó§! öåðêâè;;x
+impious_canonization_tooltip;The canonization of §Y[saint_person.GetTitledName]§! has brought on a lack of faith in the §RAuthority§! of the church;;;;;;;;;;;§Y[saint_person.GetTitledFirstName]§! áûë[saint_person.GetEndA] êàíîíèçèðîâàí[saint_person.GetEndA], ÷òî âûçâàëî íåäîâåðèå ê §Rìîðàëüíîìó àâòîðèòåòó§! öåðêâè;;x
+improved_diplo_1_tt;§Y[horoscope_child.GetTitledFirstName]§! gained §G1§! Diplomacy\n;;;;;;;;;;;§Y[horoscope_child.GetTitledFirstName]§! ïîëó÷èò §G+1§! ê íàâûêó §Yäèïëîìàòèè§!\n;;x
+improved_diplo_2_tt;§Y[horoscope_child.GetTitledFirstName]§! gained §G2§! Diplomacy\n;;;;;;;;;;;§Y[horoscope_child.GetTitledFirstName]§! ïîëó÷èò §G+2§! ê íàâûêó §Yäèïëîìàòèè§!\n;;x
+improved_int_1_tt;§Y[horoscope_child.GetTitledFirstName]§! gained §G1§! Intrigue\n;;;;;;;;;;;§Y[horoscope_child.GetTitledFirstName]§! ïîëó÷èò §G+1§! ê íàâûêó §Yèíòðèãè§!\n;;x
+improved_int_2_tt;§Y[horoscope_child.GetTitledFirstName]§! gained §G2§! Intrigue\n;;;;;;;;;;;§Y[horoscope_child.GetTitledFirstName]§! ïîëó÷èò §G+2§! ê íàâûêó §Yèíòðèãè§!\n;;x
+improved_learn_1_tt;§Y[horoscope_child.GetTitledFirstName]§! gained §G1§! Learning\n;;;;;;;;;;;§Y[horoscope_child.GetTitledFirstName]§! ïîëó÷èò §G+1§! ê §Yîáðàçîâàííîñòè§!\n;;x
+improved_learn_2_tt;§Y[horoscope_child.GetTitledFirstName]§! gained §G2§! Learning\n;;;;;;;;;;;§Y[horoscope_child.GetTitledFirstName]§! ïîëó÷èò §G+2§! ê §Yîáðàçîâàííîñòè§!\n;;x
+improved_martial_1_tt;§Y[horoscope_child.GetTitledFirstName]§! gained §G1§! Martial\n;;;;;;;;;;;§Y[horoscope_child.GetTitledFirstName]§! ïîëó÷èò §G+1§! ê §Yâîåííîìó§! íàâûêó\n;;x
+improved_martial_2_tt;§Y[horoscope_child.GetTitledFirstName]§! gained §G2§! Martial\n;;;;;;;;;;;§Y[horoscope_child.GetTitledFirstName]§! ïîëó÷èò §G+2§! ê §Yâîåííîìó§! íàâûêó\n;;x
+improved_stew_1_tt;§Y[horoscope_child.GetTitledFirstName]§! gained §G1§! Stewardship\n;;;;;;;;;;;§Y[horoscope_child.GetTitledFirstName]§! ïîëó÷èò §G+1§! ê íàâûêó §Yóïðàâëåíèÿ§!\n;;x
+improved_stew_2_tt;§Y[horoscope_child.GetTitledFirstName]§! gained §G2§! Stewardship\n;;;;;;;;;;;§Y[horoscope_child.GetTitledFirstName]§! ïîëó÷èò §G+2§! ê íàâûêó §Yóïðàâëåíèÿ§!\n;;x
+inaccessible_tooltip;Is NOT in Hiding, in Seclusion, out traveling, or otherwise occupied with important business\n;;;;;;;;;;;Óáåäèòåñü, ÷òî ýòîò ïåðñîíàæ ÍÅ ïðÿ÷åòñÿ, ÍÅ íàõîäèòñÿ â èçîëÿöèè, ÍÅ ïóòåøåñòâóåò è ÍÅ çàíÿò âàæíûìè äåëàìè\n;;x
+increase_battlefield_exp_tt;Your §YBattlefield Experience§! increases\n;;;;;;;;;;;Âàø §Yáîåâîé îïûò§! óâåëè÷èòñÿ\n;;x
+increase_duel_exp_tt;Your §YDuel Experience§! increases\n;;;;;;;;;;;Âàø §Yîïûò ïîåäèíêîâ§! óâåëè÷èòñÿ\n;;x
+increase_duel_renown_tt;Your §YDuel Renown§! increases\n;;;;;;;;;;;Âàøà §Yèçâåñòíîñòü îò äóýëåé§! óâåëè÷èòñÿ\n;;x
+invasions_limited_lifetime_tt;For as long as you live, you can use the §GInvasion Casus Belli§!;;;;;;;;;;;Ïîêà Âû æèâû, Âû ìîæåòå èñïîëüçîâàòü §Gâòîðæåíèå§!;;x
+iron_cross_broken;§Y[Root.GetTitledFirstName]§! breaks the Iron Crown of Lombardy searching for the sacred nail.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! ñëîìàë[Root.GetEndA] Æåëåçíóþ Êîðîíó Ëîìáàðäèè â ïîèñêàõ ñâÿùåííîãî ãâîçäÿ.;;x
+is_child_or_sibling_of_yours_tt;Is a child or sibling of yours\n;;;;;;;;;;;ßâëÿåòñÿ îäíèì èç Âàøèõ äåòåé, áðàòüåâ èëè ñåñò¸ð\n;;x
+is_inaccessible_tooltip;Is NOT in Hiding, in Seclusion, out traveling, or otherwise occupied with important business\n;;;;;;;;;;;Íå ïðÿ÷åòñÿ, íå íàõîäèòñÿ â èçîëÿöèè, íå ïóòåøåñòâóåò è íå çàíèìàåòñÿ âàæíûìè äåëàìè\n;;x
+is_member_of_any_warrior_lodge_tt;Is a member of a Warrior Lodge\n;;;;;;;;;;;Ñîñòîèò â §Yâîèíñêîé ëîæå§!\n;;x
+is_member_of_roots_warrior_lodge_tt;§Y[Root.GetTitledName]§! and §Y[From.GetTitledName]§! are members of the same Warrior Lodge.\n;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! è §Y[From.GetTitledFirstName]§! ñîñòîÿò â îäíîé è òîé æå §Yâîèíñêîé ëîæå§!.\n;;x
+jewish_courtier_tooltip;A [jewish.GetName] courtier named §Y[jewish_courtier.GetFullName]§! arrives at your court;;;;;;;;;;;[_Èóäåé][jewish_courtier.GetEndKa] ïî èìåíè §Y[jewish_courtier.GetFullName]§! ïðèáûë[jewish_courtier.GetEndA] ê Âàøåìó äâîðó;;x
+jews_are_expelled;All [GetJewsName] are expelled from the realm.;;;;;;;;;;;Âñå [_èóäåè] áóäóò èçãíàíû èç ñòðàíû.;;x
+jews_are_welcome;[GetJewsName] are welcomed back into the realm.;;;;;;;;;;;[GetJewsNameCap] áóäóò ñíîâà äîïóùåíû â ñòðàíó.;;x
+join_bishop_orgy;Join the debauched feast planned by §Y[From.GetTitledFirstName]§!;;;;;;;;;;;Ïðèñîåäèíèòüñÿ ê ðàçâðàòíîìó ïðàçäíèêó, êîòîðûé íàìåòèë[From.GetEndA] §Y[From.GetTitledFirstName]§!;;x
+join_holy_order_flee_TT;§Y[Root.GetTitledName]§! flees the court.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! ñáåæèò.;;x
+join_holy_order_success_TT;§Y[Root.GetTitledName]§! joins the §Y[FromFrom.PrimaryTitle.GetName]§!.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! âñòóïèò â äóõîâíûé îðäåí, èçâåñòíûé êàê §Y[FromFrom.PrimaryTitle.GetName]§!.;;x
+join_pope_orgy;Join the debauched feast that §Y[From.GetTitledFirstName]§! is planning to consume at the Holy See.;;;;;;;;;;;Ïðèñîåäèíèòüñÿ ê ðàçâðàòíîìó ïðàçäíèêó, êîòîðûé §Y[From.GetTitledFirstName]§! ïëàíèðóåò óñòðîèòü äëÿ Ñâÿòîãî Ïðåñòîëà.;;x
+join_reconquista_war_other_TT;§Y[Root.GetTitledName]§! will join in §Y[FromFrom.GetTitledName]s§! Reconquest War;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! âñòóïèò â Ðåêîíêèñòó íà ñòîðîíå ïðàâèòåëÿ, èçâåñòíîãî êàê §Y[FromFrom.GetTitledFirstName]§!;;x
+join_reconquista_war_TT;§Y[FromFrom.GetTitledName]§! will join in our Reconquest War;;;;;;;;;;;§Y[FromFrom.GetTitledFirstName]§! âñòóïèò â Ðåêîíêèñòó íà íàøåé ñòîðîíå;;x
+join_war_to_defend_pope_TT;I will join §Y[From.GetTitledFirstName]§! in [From.GetHerHis] defense against the unjust §Y[papal_attacker.GetTitledName]§!;;;;;;;;;;;Ïðèñîåäèíèòüñÿ ê âîéíå, êîòîðóþ âåä¸ò §Y[From.GetTitledFirstName]§!, ÷òîáû çàùèòèòüñÿ îò ïðàâèòåëÿ, èçâåñòíîãî êàê §Y[papal_attacker.GetTitledFirstName]§!.;;x
+join_war_to_despose_pope_TT;I will join §Y[papal_attacker.GetTitledFirstName]§! in [papal_attacker.GetHerHis] war to depose the impious §Y[From.GetTitledName]§!;;;;;;;;;;;Ïðèñîåäèíèòüñÿ ê âîéíå, êîòîðóþ âåä¸ò §Y[papal_attacker.GetTitledFirstName]§!, ÷òîáû ñâåðãíóòü ñî Ñâÿòîãî Ïðåñòîëà ïðàâèòåëÿ, èçâåñòíîãî êàê §Y[From.GetTitledFirstName]§!.;;x
+journey_begins_tt;Your journey begins...;;;;;;;;;;;Âàøå ïóòåøåñòâèå íà÷èíàåòñÿ...;;x
+knights_templar_loan_money_TT;§Y[d_knights_templar.Holder.GetTitledName]§! has §G25§! or higher opinion of §Y[Root.GetTitledName]§!;;;;;;;;;;;§Y[d_knights_templar.Holder.GetTitledFirstName]§! èìååò ìíåíèå §G25§! èëè âûøå î [Root.GetAgedPersonPREP], èçâåñòí[Root.GetOyOm] êàê §Y[Root.GetTitledFirstName]§!;;x
+legendary_gathering_cd_tt;Has NOT been done for one hundred years;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ äåëàëè ýòî â ïîñëåäíèå ñòî ëåò;;x
+legendary_gathering_tt;Unlocks the society §YLegend§! progress bar\nAll members of your society will begin to contribute to the §YLegend§! of §Y[Root.Society.GetNameCap]§!;;;;;;;;;;;Ðàçáëîêèðóåò èíäèêàòîð §Yëåãåíäû§!\nÂñå ÷ëåíû Âàøåãî îáùåñòâà áóäóò âíîñèòü ñâîé âêëàä â §Yëåãåíäó§! §Y[Root.GetSocietyNameGEN]§!;;x
+legendary_warrior_bloodline_trigger_tt;Is part of a §YLegendary Bloodline§! favored by §YWarrior Lodges§!;;;;;;;;;;;×àñòü §Yëåãåíäàðíîé ðîäîñëîâíîé§!, êîòîðàÿ â ïî÷¸òå ó §Yâîèíñêèõ ëîæ§!;;x
+make_shieldmaiden_custom_tooltip_1;Is either: §YBrave§!, §YProud§!, §YAmbitious§!, §YDiligent§!, §YJust§!, or §YGregarious§!\n;;;;;;;;;;;Äîëæíà áûòü §Yõðàáðîé§!, §Yâûñîêîìåðíîé§!, §Yàìáèöèîçíîé§!, §Yóñåðäíîé§!, §Yñïðàâåäëèâîé§! èëè §Yîáùèòåëüíîé§!\n;;x
+may_found_bloodline_tt;If you fulfill your destiny of becoming §YKing§! you will found a new §YBloodline§!!;;;;;;;;;;;Åñëè Âû ïðèìåòå ñâîþ ñóäüáó è ñòàíåòå §Y[This.GetQueenKingINS]§!, Âû ïîëîæèòå íà÷àëî íîâîé §Yðîäîñëîâíîé§!!;;x
+mother_going_countryside;Inform your [GetFromRelation] that you will take leave and spend your pregnancy in the countryside.;;;;;;;;;;;Ñîîáùèòü [From.GetRootRelationDAT], ÷òî Âû ïîêèíåòå [From.GetCapitalBuilding] è ïîæèâ¸òå ïîêà â ñåëüñêîé ìåñòíîñòè.;;x
+mother_going_countryside_2;Retire and let your Regent take charge while you spend the last months of your pregnancy away from court.;;;;;;;;;;;Îòñòðàíèòüñÿ îò äåë è ïåðåäàòü èõ Âàøåìó ðåãåíòó íà ïåðèîä çàêëþ÷èòåëüíîãî ýòàïà áåðåìåííîñòè, ïîêèíóâ äâîð.;;x
+mother_keeps_ruling;Inform your [GetFromRelation] that you will keep ruling for the duration of the pregnancy.;;;;;;;;;;;Ñîîáùèòü Âàø[From.GetHerHim] [From.GetRootRelationDAT], ÷òî Âû ïðîäîëæèòü ïðàâèòü, íåñìîòðÿ íà áåðåìåííîñòü.;;x
+mother_keeps_ruling_2;Continue to rule at your own risk.;;;;;;;;;;;Ïðîäîëæèòü ïðàâèòü, íåñìîòðÿ íà ðèñê.;;x
+mother_staying_court;Inform your [GetFromRelation] that you will take leave and remain confined in your private quarters for the duration of the pregnancy.;;;;;;;;;;;Ñîîáùèòü Âàø[From.GetHerHim] [From.GetRootRelationDAT], ÷òî Âû îñòàíåòåñü â ñâ[From.GetMyChamberPREP] íà ïåðèîä áåðåìåííîñòè.;;x
+mother_staying_court_2;Retire and let your Regent take charge while you spend the last months of your pregnancy in seclusion in your private chambers.;;;;;;;;;;;Îòñòðàíèòüñÿ îò äåë è ïåðåäàòü èõ Âàøåìó ðåãåíòó íà ïåðèîä çàêëþ÷èòåëüíîãî ýòàïà áåðåìåííîñòè, óäàëèâøèñü â ñâ[From.GetMyChamberACC].;;x
+new_crusade_win_TT;The Crusaders will take all the land in the targeted title held by §Y[From.GetTitledName]§!;;;;;;;;;;;Êðåñòîíîñöû ïîëó÷àò âñå çåìëè â äå-þðå ïðåäåëàõ §Yîñíîâíîãî§! òèòóëà, êîòîðûì îáëàäàåò §Y[From.GetTitledFirstName]§!;;x
+new_reconquista_beneficiary_self;§Y[This.GetTitledName]§! becomes my new beneficiary.;;;;;;;;;;;§Y[This.GetTitledFirstName]§! ñòàíåò Âàøèì íîâûì áåíåôèöèàðîì;;x
+no_fitting_ruler_TT;Any fitting target for a Northern Crusade;;;;;;;;;;;Óáåäèòåñü, ÷òî åñòü õîòÿ áû îäíà öåëü äëÿ Ñåâåðíîãî Êðåñòîâîãî ïîõîäà;;x
+no_inheritance_troops_tt;§RThese units will NOT be inherited by your successors!§!;;;;;;;;;;;§RÝòè âîéñêà ÍÅ ïåðåéäóò Âàøèì íàñëåäíèêàì!§!;;x
+no_one_wins_the_duel_tt;No one wins the duel.\n;;;;;;;;;;;Íèêòî íå ïîáåäèò â ïîåäèíêå.\n;;x
+no_special_gender_laws_active_tt;Special §YLaws§! or §YGame Rules§! are NOT active\n;;;;;;;;;;;Îñîáûå ãåíäåðíûå §Yçàêîíû§! è §Yèãðîâûå ïðàâèëà§! ÍÅ àêòèâíû\n;;x
+northern_crusade_correct_kingdom_teutonic_order_TT;§Y[Root.GetTitledName]§! has land in §Y[northern_crusade_kingdom_title.GetFullName]§!;;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[Root.GetTitledFirstName]§! âëàäååò çåìë¸é â ïðåäåëàõ ãîñóäàðñòâà §Y[d_teutonic_order.teutonic_target.GetFullBaseName]§!;;x
+northern_crusade_correct_kingdom_TT;Has land in the Kingdom targeted by the Teutonic Knights;;;;;;;;;;;Îáëàäàåò çåìë¸é â ãîñóäàðñòâå, âûáðàííîì öåëüþ Òåâòîíñêîãî îðäåíà.;;x
+northern_crusade_decision_cooldown_TT;Can ask the Teutonics for help again after §Y[From.northern_crusade_targeted_decision_cooldown.GetExpiryDate]§!;;;;;;;;;;;Ìîæíî ïîïðîñèòü òåâòîíöåâ î ïîìîùè íå ðàíüøå ÷åì §Y[From.northern_crusade_targeted_decision_cooldown.GetExpiryDate]§!;;x
+northern_crusade_fitting_title_02_TT;Has land in §YNorthern Europe§!, §YEastern Baltic§! or §YRus Region§!;;;;;;;;;;;Îáëàäàåò çåìë¸é â ðåãèîíàõ §YÑåâåðíàÿ Åâðîïà§!, §YÂîñòî÷íàÿ Áàëòèêà§! èëè §YÐóññêèå çåìëè§!;;x
+northern_crusade_fitting_title_TT;Has land in §Y[northern_crusade_kingdom_title.GetFullName]§!;;;;;;;;;;;Îáëàäàåò çåìë¸é â ïðåäåëàõ ãîñóäàðñòâà §Y[d_teutonic_order.teutonic_target.GetFullBaseName]§!;;x
+northern_crusade_targeted_decision_TT;§Y[d_teutonic_order.Holder.GetTitledName]§! has §G10§! or higher opinion of §Y[This.GetTitledName]§!;;;;;;;;;;;§Y[d_teutonic_order.Holder.GetTitledFirstName]§! èìååò ìíåíèå §G10§! èëè âûøå î ïðàâèòåëå, èçâåñòíîì êàê §Y[This.GetTitledFirstName]§!.;;x
+not_already_going_berserk_tt;NOT already going berserk;;;;;;;;;;;Óáåäèòåñü, ÷òî óæå ÍÅ âïàëè â áåçóìèå áåðñåðêà;;x
+not_already_using_toughness_tt;NOT already focusing on an injury;;;;;;;;;;;Óáåäèòåñü, ÷òî óæå ÍÅ ñîñðåäîòî÷èëèñü íà èçáåãàíèè òðàâì;;x
+NOT_DESCENDANT_OF_A_JEWISH_SAINT;Is NOT the descendant of a Saintly Bloodline commended by the [jewish.GetName] community;;;;;;;;;;;ÍÅ ÿâëÿåòñÿ ïîòîìêîì êðîâíîé ëèíèè ñâÿòîãî, îòíîñÿùåãîñÿ ê [_åâðåé]ñêîé îáùèíå.;;x
+not_enatic_or_agnatic_tt;The Inheritance Law is neither §YAgnatic§! or §YEnatic§!;;;;;;;;;;;Çàêîí íàñëåäîâàíèÿ ÍÅ ÿâëÿåòñÿ ñòðîãî §Yàãíàòè÷åñêèì§! èëè §Yýíàòè÷åñêèì§!;;x
+NOT_HEIR_TITLE_TT;Not heir to any titles;;;;;;;;;;;Óáåäèòåñü, ÷òî [This.GetSheHe] íå ÿâëÿåòñÿ íàñëåäíè[This.GetTseyKom] êàêîãî-ëèáî òèòóëà.;;x
+not_recently_told_a_story_tt;Has NOT recently told a story;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ ðàññêàçûâàëè èñòîðèþ â ïîñëåäíåå âðåìÿ.;;x
+not_reverse_truce_TT;Does not have a truce with §Y[Root.GetTitledName]§!;;;;;;;;;;;Íåò ïåðåìèðèÿ ñ ïðàâèòåëåì, èçâåñòíûì êàê  §Y[Root.GetTitledFirstName]§!;;x
+notify_parent_recruiter_tt;Your [recruiting_parent.GetRootRelation] will hear about this...\n;;;;;;;;;;;Âàø[recruiting_parent.GetEndA] [recruiting_parent.GetRootRelation] óñëûøèò îá ýòîì...\n;;x
+obj_forge_bloodline_condition_tooltip;In order to complete this ambition you need to perform one of the following tasks, or to found a §YBloodline§! through other means:\n §Y*§! Murder or Execute §Y30§! people. [Root.GetFoundBloodlineKillCounter]\n §Y*§! Win §Y15§! foreign wars. [Root.GetFoundBloodlineWarCounter]\n §Y*§! Rule at peace for §Y30§! years. [Root.GetFoundBloodlinePeaceCounter]\n §Y*§! Build §Y10§! cities. [Root.GetFoundBloodlineCityCounter]\n §Y*§! Build §Y10§! castles. [Root.GetFoundBloodlineCastleCounter]\n §Y*§! Build §Y10§! temples. [Root.GetFoundBloodlineTempleCounter]\n\nNote that pursuing multiple tasks at the same time might result in the creation of a hybridized bloodline.;;;;;;;;;;;×òîáû óäîâëåòâîðèòü ýòó àìáèöèþ è îñíîâàòü íîâóþ §Yðîäîñëîâíóþ§!, Âàì íóæíî äîñòè÷ü îäíîé èç ñëåäóþùèõ öåëåé:\n §Y*§! Óáèòü èëè êàçíèòü §Y30§! ïåðñîíàæåé. [Root.GetFoundBloodlineKillCounter]\n §Y*§! Ïîáåäèòü â §Y15§! âíåøíèõ âîéíàõ. [Root.GetFoundBloodlineWarCounter]\n §Y*§! Ïðàâèòü â ìèðå §Y30§! ëåò ïîäðÿä. [Root.GetFoundBloodlinePeaceCounter]\n §Y*§! Ïîñòðîèòü §Y10§! ãîðîäîâ. [Root.GetFoundBloodlineCityCounter]\n §Y*§! Ïîñòðîèòü §Y10§! çàìêîâ. [Root.GetFoundBloodlineCastleCounter]\n §Y*§! Ïîñòðîèòü §Y10§! õðàìîâ. [Root.GetFoundBloodlineTempleCounter]\n\nÄîñòèãíóâ ñðàçó íåñêîëüêèõ öåëåé, Âû ìîæåòå îñíîâàòü ãèáðèäíóþ §Yðîäîñëîâíóþ§!.;;x
+obj_make_friends_condition_tooltip;To complete the ambition you need to make a friend.;;;;;;;;;;;×òîáû óäîâëåòâîðèòü ýòó àìáèöèþ, Âàì íóæíî çàâåñòè äðóãà.;;x
+only_one_vassalized_holy_order_TT;Can only have one Holy Order vassalized at a time;;;;;;;;;;;Âû ìîæåòå èìåòü òîëüêî îäèí âàññàëüíûé §Yäóõîâíûé îðäåí§!;;x
+opinion_duel_decline_cooldown_tt;Has NOT recently refused a challenge (Expires: [This.has_recently_declined_duel_cooldown.GetExpiryDate]);;;;;;;;;;;Óáåäèòåñü, ÷òî â ïîñëåäíåå âðåìÿ ÍÅ áûëî îòêàçîâ îò ïîåäèíêà (Èñòåêàåò [This.has_recently_declined_duel_cooldown.GetExpiryDate]);;x
+owns_jerusalem_tt;Holds the §YCounty§! of §YJerusalem§!;;;;;;;;;;;Îáëàäàòü §Yîêðóãîì§! (ãðàôñòâîì) §YÈåðóñàëèì§!;;x
+pacifist_alt_tooltip;This act violates your religious doctrine of non-violence\n;;;;;;;;;;;Ýòî äåéñòâèå ïðîòèâîðå÷èò Âàøåé ðåëèãèîçíîé äîêòðèíå, óòâåðæäàþùåé ïðèíöèï íåíàñèëèÿ.\n;;x
+pagan_branch_timer;§Y[Root.GetTitledFirstName]§! has NOT recently chosen a Religious Branch.;;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[Root.GetTitledFirstName]§! íåäàâíî ÍÅ âûáèðàë[Root.GetEndA] ðåëèãèîçíîå íàïðàâëåíèå.;;x
+pagan_pope_cannonize_choice_TT;[saint_person.GetTitledName] will be made a §YBlessed Ancestor§! of the faith. [saint_person.GetHerHisCap] §YDynasty§! would surely appreciate the gesture.;;;;;;;;;;;[saint_person.GetTitledFirstName] áóäåò îáúÿâëåí[saint_person.GetEndA] §Yïî÷èòàåìûì ïðåäêîì§!. [saint_person.GetHersHisCap] §Yäèíàñòèÿ§! âûñîêî îöåíèò ýòîò áëàãîðîäíûé æåñò.;;x
+papal_orgy_communion;Take the §Y[coronation_priest.GetTitle]'s§! holy gift.;;;;;;;;;;;Ïðèíÿòü ñâÿùåííûé äàð, êîòîðûé §Y[coronation_priest.GetTitle]§! Âàì ïðåïîäíåñ[coronation_priest.GetNoneE].;;x
+papal_orgy_drunk;Climb over the fountain of wine and nectar in the middle of the garden.;;;;;;;;;;;Çàáðàòüñÿ â âèííûé ôîíòàí ïîñðåäè ñàäà.;;x
+papal_orgy_flee;Free yourself from §Y[coronation_priest.GetTitledFirstName]'s§! hold and flee from the orgy.;;;;;;;;;;;§Y[coronation_priest.GetTitledFirstName]§! ïåðåø[coronation_priest.GetLaYol] ÷åðòó. Âûðâàòüñÿ èç [coronation_priest.GetHersHis] îáúÿòèé è áåæàòü ñ ýòîé îðãèè.;;x
+papal_orgy_glutton;Gorge on the lavish feast before your eyes.;;;;;;;;;;;Ïîãðóçèòüñÿ â ïðîöåññ ïîåäàíèÿ èçûñêàííûõ áëþä.;;x
+papal_orgy_lustful;Jump on the pile of naked bodies.;;;;;;;;;;;Çàïðûãíóòü â êó÷ó îáíàæ¸ííûõ òåë.;;x
+peasant_rabble_TT;A regiment of peasant rabble will appear at §Y[Root.Capital.GetName]§!;;;;;;;;;;;Òîëïà âîîðóæ¸ííûõ êðåñòüÿí ñîáåð¸òñÿ â îêðåñòíîñòÿõ [Root.Capital.GetHoldingGenericPlaceGEN] §Y[Root.Capital.County.GetBaseName]§!;;x
+player_character_beneficiary_TT;You will now play as §Y[beneficiary_check_crusader_beneficiary.GetTitledName]§! instead of §Y[Root.GetTitledName]§!;;;;;;;;;;;Âû áóäåòå èãðàòü êàê §Y[beneficiary_check_crusader_beneficiary.GetTitledFirstName]§!\n§Y[Root.GetTitledFirstName]§! ïåðåéä¸ò ïîä óïðàâëåíèå ÈÈ;;x
+player_character_dynamic_crusader_state_2_TT;You will now play as §Y[From.GetTitledName]§! instead of §Y[Root.GetTitledName]§!;;;;;;;;;;;Âû áóäåòå èãðàòü êàê §Y[From.GetTitledName]§! - êîíòðîëü íàä ïåðñîíàæåì §Y[Root.GetTitledName]§! áóäåò ïîòåðÿí;;x
+player_character_dynamic_crusader_state_TT;You will now play as §Y[current_crusade_beneficiary.GetTitledName]§! instead of §Y[Root.GetTitledName]§!;;;;;;;;;;;Âû áóäåòå èãðàòü êàê §Y[current_crusade_beneficiary.GetTitledFirstName]§!\n§Y[Root.GetTitledFirstName]§! ïåðåéä¸ò ïîä óïðàâëåíèå ÈÈ;;x
+player_character_TT;You will now play as §Y[new_crusader_king.GetTitledName]§! instead of §Y[Root.GetTitledName]§!;;;;;;;;;;;Âû áóäåòå èãðàòü êàê §Y[new_crusader_king.GetTitledFirstName]§!\n§Y[Root.GetTitledFirstName]§! ïåðåéä¸ò ïîä óïðàâëåíèå ÈÈ;;x
+pledge_crusade_alternate_crusades;Not currently part of another Crusade;;;;;;;;;;;Óáåäèòåñü, ÷òî íå ó÷àñòâóåòå â äðóãîì êðåñòîâîì ïîõîäå.;;x
+poison_was_only_mildly_effective_tt;Your sabotage had little to no effect.;;;;;;;;;;;Ýôôåêò ÿäà áûë ñëèøêîì ñëàáûì.;;x
+poison_was_very_effective_tt;Your sabotage probably helped...;;;;;;;;;;;Îòðàâëåíèå äåéñòâèòåëüíî ïîìîãëî...;;x
+poorly_trained_troops_TT;A regiment of poorly trained troops will appear at §Y[Root.Capital.GetName]§!;;;;;;;;;;;Îòðÿä ïëîõî îáó÷åííûõ ñîëäàò ñîáåð¸òñÿ â îêðåñòíîñòÿõ [Root.Capital.GetHoldingGenericPlaceGEN] §Y[Root.Capital.County.GetBaseName]§!;;x
+pope_cannonize_choice_TT;[saint_person.GetTitledName] will be made a §YSaint§! of the faith. [saint_person.GetHerHisCap] dynasty would surely appreciate the gesture.;;;;;;;;;;;[saint_person.GetTitledFirstName] áóäåò îáúÿâëåí[saint_person.GetEndA] §Y[saint_person.GetSaintReligionTitleINS]§!. [saint_person.GetHersHisCap] §Yäèíàñòèÿ§! âûñîêî îöåíèò ýòîò áëàãîðîäíûé æåñò.;;x
+promoted_commander_TT;A soldier appears at the court of §Y[Root.GetTitledName]§!.;;;;;;;;;;;Îïûòíûé âîèí ïðèáóäåò ê Âàøåìó äâîðó.;;x
+quest_target_tt;§Y[From.GetTitledFirstName]§! has a mission to duel §Y[Root.GetTitledFirstName]§!;;;;;;;;;;;§Y[From.GetTitledFirstName]§! âûïîëíÿåò ìèññèþ, ïðåäïîëàãàþùóþ, ÷òî §Y[Root.GetTitledFirstName]§! äîëæ[Root.GetNaEn] áûòü âûçâàí[Root.GetEndA] íà ïîåäèíîê.;;x
+random_building_is_destroyed_tt;A random building is §Rdestroyed§! in §Y[This.GetName]§!.;;;;;;;;;;;§Y[This.GetName]§! §Rëèøèòñÿ§! ñëó÷àéíîãî ñîîðóæåíèÿ.;;x
+rank_up_blocked_tt;Has NOT forfeited the rank before;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ áûëè ëèøåíû ðàíãà ïðåæäå.;;x
+ravenna_TT;The title will be known as the §YKingdom of Ravenna§!;;;;;;;;;;;Òèòóë áóäåò èçâåñòåí êàê §YÐàâåííà§!;;x
+reason_has_equipped_artifact;This option is available because you have §Y[equipped_artifact.GetName]§! equipped;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì áëàãîäàðÿ ñíàðÿæ¸ííîìó àðòåôàêòó: §Y[equipped_artifact.GetName]§!;;x
+REASON_IS_A_HORSE;This option is available because you are a §Yhorse§!;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí, ïîòîìó ÷òî Âû - §Yëîøàäü§!;;x
+recent_crusade_pledge_TT;Has NOT recently pledged to join the Crusade [Root.GetCrusadePledgeCD];;;;;;;;;;;Óáåäèòåñü, ÷òî íåäàâíî ÍÅ ïîîáåùàëè âñòóïèòü â êðåñòîâûé ïîõîä[Root.GetCrusadePledgeCD];;x
+recent_crusade_unpledge_TT;Has NOT recently removed my pledge to join the Crusade [Root.GetCrusadeUnpledgeCD];;;;;;;;;;;Óáåäèòåñü, ÷òî íåäàâíî ÍÅ îòçûâàëè ñâî¸ îáåùàíèå îá ó÷àñòèè â êðåñòîâîì ïîõîäå[Root.GetCrusadeUnpledgeCD];;x
+recently_lost_rank_up_duel_tt;Did NOT recently prove [Root.GetHerselfHimself] unworthy of this\n;;;;;;;;;;;Óáåäèòåñü, ÷òî íåäàâíî ÍÅ ïîêàçàëè ñåáÿ íåäîñòîéí[Root.GetOyYm].\n;;x
+reconquest_decision_tt;When the time comes, I will join in [Root.GetFirstNameWithNick]'s reconquest war!;;;;;;;;;;;Êîãäà ïðèä¸ò âðåìÿ, ÿ ïðèñîåäèíþñü ê ðåêîíêèñòå, êîòîðóþ âåä¸ò [Root.GetFirstNameWithNick]!;;x
+reconquista_mercenary_cooldown_other_TT;Have not recently been asked to offer [Root.GetHerHis] services - can be asked again at §Y[Root.reconquista_mercenary_other_cooldown.GetExpiryDate]§!;;;;;;;;;;;Óáåäèòåñü, ÷òî óæå íå ïðîñèëè îá óñëóãàõ ïîäîáíîãî ðîäà.\nÂû ñìîæåòå ñäåëàòü ýòî ñíîâà §Y[Root.reconquista_mercenary_other_cooldown.GetExpiryDate]§!;;x
+reconquista_mercenary_cooldown_TT;Have not recently offered your services - can offer your services again at §Y[From.reconquista_mercenary_cooldown.GetExpiryDate]§!;;;;;;;;;;;Óáåäèòåñü, ÷òî óæå íå ïðåäëàãàëè ñâîè óñëóãè ïî ýòîìó ïîâîäó.\nÂû ñìîæåòå ñäåëàòü ýòî ñíîâà §Y[From.reconquista_mercenary_cooldown.GetExpiryDate]§!;;x
+reconquista_pious_sponsor_TT;Increases §YDamage Against Religious Enemies§! of troops commanded by §Y[FromFrom.GetDynName]§!.;;;;;;;;;;;Âîéñêà, êîòîðûìè êîìàíäóåò §Y[FromFrom.GetDynName]§!, ïîëó÷àò ïðèáàâêó ê §Yóðîíó ïðîòèâ èíîâåðöåâ§!.;;x
+reconquista_renowned_sponsor_TT;Increases §YMorale Damage§! and §YSpeed§! of troops commanded by §Y[FromFrom.GetDynName]§!.;;;;;;;;;;;Âîéñêà, êîòîðûìè êîìàíäóåò §Y[FromFrom.GetDynName]§!, ïîëó÷àò ïðèáàâêó ê §Yóðîíó áîåâîìó äóõó ïðîòèâíèêà§! è §Yñêîðîñòè ïåðåäâèæåíèÿ§!.;;x
+reconquista_valid_2_TT;Target does not publicly practice a [Root.Religion.GetGroupName] religion;;;;;;;;;;;Öåëü áîëüøå îòêðûòî íå èñïîâåäóåò [Root.GetReligionGroupFullName];;x
+reconquista_valid_TT;Reconquista no longer led by the one who started campaign.;;;;;;;;;;;Òîò, êòî íà÷àë Ðåêîíêèñòó, áîëüøå íå âîçãëàâëÿåò å¸.;;x
+reconquista_vassalize_TT;§Y[Prev.GetTitledName]§! will vassalize or take everything held by §Y[From.GetTitledName]§! in the §Y[This.GetFullBaseName]§!;;;;;;;;;;;§Y[Prev.GetTitledFirstName]§! âàññàëèçèðóåò èëè çàõâàòèò âñå çåìëè, êîòîðûìè ïðàâèò §Y[From.GetTitledFirstName]§! â ïðåäåëàõ ãîñóäàðñòâà §Y[This.GetFullBaseName]§!;;x
+reconquista_wealthy_sponsor_TT;Increases §YMorale Defense§! and §YSiege Speed§! of troops commanded by §Y[FromFrom.GetDynName]§!.;;;;;;;;;;;Âîéñêà, êîòîðûìè êîìàíäóåò §Y[FromFrom.GetDynName]§!, ïîëó÷àò ïðèáàâêó ê §Yçàùèòå áîåâîãî äóõà§! è §Yñêîðîñòè îñàäû§!.;;x
+recruit_tooltip_busy;Recruit is NOT busy, or fighting a war\n;;;;;;;;;;;Óáåäèòåñü, ÷òî [Root.GetSheHe] ÍÅ çàíÿò è íå ó÷àñòâóåò â âîéíå\n;;x
+refuse_baptism_request;[Root.GetTitledName] will inform [From.GetTitledName] that [Root.GetSheHe] is not interested in sponsoring the conversion of [From.PrimaryTitle.GetName] to the [Root.Religion.GetName] faith.;;;;;;;;;;;[Root.GetTitledFirstName] îòâåòèò îòêàçîì. [From.GetTitledFirstName] ïîëó÷èò îò í[Root.GetHersHis] ñîîáùåíèå î òîì, ÷òî [Root.GetSheHe] íå çàèíòåðåñîâàí â îáðàùåíèè [From.PrimaryTitle.GetAdjective]ñêîãî íàñåëåíèÿ â [Root.GetReligionFullName].;;x
+# remove_previous_reconquista_beneficiary;§Y[reconquista_beneficiary_target.GetTitledName]§! will no longer be my beneficiary.;;;;;;;;;;;§Y[reconquista_beneficiary_target.GetTitledFirstName]§! áîëüøå íå áóäåò Âàøèì áåíåôèöèàðîì;;x
+restore_byzantine_empire_TT;Become the Emperor of the §YByzantine Empire§!;;;;;;;;;;;Âû ñòàíåòå èìïåðàòîðîì §YÂèçàíòèè§!;;x
+romagna_TT;The title will be known as the §Y[k_romagna.GetFullBaseName]§!;;;;;;;;;;;Òèòóë áóäåò èçâåñòåí êàê §Y[k_romagna.GetFullBaseName]§!;;x
+russian_empire_cheaper_tribal_upgrades;Lowers the requirements for upgrading Tribal Holdings to Castles;;;;;;;;;;;Ñíèæàåò òðåáîâàíèÿ ïî ïðåâðàùåíèþ ïëåìåííûõ ïîñåëåíèé â çàìêè;;x
+saintly_bloodline_same_culture_TT;[From.Founder.Culture.GetName];;;;;;;;;;;[From.Founder.GetCultureAdj]àÿ êóëüòóðà;;x
+saintly_bloodline_same_religion_TT;[From.Founder.Religion.GetName];;;;;;;;;;;[From.Founder.GetReligionFullName];;x
+same_dynasty_as_emperor_TT;Same dynasty as §Y[e_hre.Holder.GetTitledName]§!;;;;;;;;;;;§Y[e_hre.Holder.GetTitledFirstName]§! òîé æå äèíàñòèè, ÷òî è ÿ.;;x
+scorned_powerful_theocrats;Any other powerful Bishop in the realm will be §ROffended§! if you snub him for a minor prelate.;;;;;;;;;;;Ëþáîé äðóãîé âëèÿòåëüíûé åïèñêîï ñòðàíû áóäåò §Rîñêîðáë¸í§! òåì, ÷òî Âû ïðåäïî÷ëè åìó îáû÷íîãî ñâÿùåííèêà.;;x
+scorned_the_pope;By not seeking legitimacy directly from the Holy See, your coronation will §ROffend§! the §YPope§!.;;;;;;;;;;;Âàøå ðåøåíèå îòêàçàòüñÿ îò ïàïñêîé êîðîíàöèè è ïðåäïî÷åñòü íèæåñòîÿùåãî ïðåäñòàâèòåëÿ äóõîâåíñòâà Ñâÿòîìó Ïðåñòîëó §Rîñêîðáèò§! §YÏàïó§!.;;x
+send_baptism_request;Contact [From.GetName]'s liege and ask [From.GetHerHim] to sponsor your realm's conversion;;;;;;;;;;;Ïóñòü [From.GetName] ñîîáùèò ñâîåìó ñþçåðåíó, ÷òî Âû æåëàåòå ïîääåðæàòü ìàññîâîå îáðàùåíèå ñâîåé ñòðàíû â äðóãóþ âåðó.;;x
+settle_iceland_tt;Settles Iceland with many proper [Root.Culture.GetName] families;;;;;;;;;;;Çàñåëèòü Èñëàíäèþ [Root.GetCultureAdj]èìè êîëîíèñòàìè;;x
+so_much_for_poison_tt;Your sabotage had no effect.;;;;;;;;;;;Âàøà çàòåÿ ñ îòðàâëåíèåì íå ñðàáîòàëà.;;x
+society_has_at_least_10_members_tt;§Y[From.GetNameCap]§! has at least §Y10§! members\n;;;;;;;;;;;Â îáùåñòâå §Y[From.GetNameCap]§! åñòü ïî ìåíüøåé ìåðå §Y10§! ÷ëåíîâ\n;;x
+society_legend_increases_tt;The §YLegend§! of §Y[Root.Society.GetNameCap]§! increases\n;;;;;;;;;;;§YËåãåíäà§! §Y[Root.GetSocietyNameGEN]§! âûðàñòåò\n;;x
+spawn_slow_fever_tt;§RSlow Fever§! will break out in §Y[starved_province.GetName]§!.;;;;;;;;;;;Â îêðóãå §Y[starved_province.GetName]§! íà÷í¸òñÿ ýïèäåìèÿ §Ráðþøíîãî òèôà§!.;;x
+special_gender_laws_active_tt;Special §YLaws§! or §YGame Rules§! are active\n;;;;;;;;;;;Îñîáûå ãåíäåðíûå §Yçàêîíû§! èëè §Yèãðîâûå ïðàâèëà§! àêòèâíû\n;;x
+special_join_warrior_lodge_trigger_tt;Has a §YLiege§!, §YVassal§!, or a §Yneighboring ruler§! who follows the [GetWLCanJoinReligion]\n;;;;;;;;;;;§YÑþçåðåí§!, §Yâàññàë§! èëè §Yñîñåäíèé ïðàâèòåëü§! èñïîâåäóþò [GetWLCanJoinReligion]\n;;x
+spouse_informed_uncrowned;Chide §Y[From.GetFirstName]§! about [From.GetHerHis] lack of legitimacy as §Y[From.GetTitle]§!.;;;;;;;;;;;§Y[From.GetFirstName]§! óñëûøèò Âàøè óïð¸êè â îòñóòñòâèè çàêîííîñòè [From.GetHersHis] ïðàâëåíèÿ.;;x
+start_antagonize_charview_tooltip;§YAntagonize [Root.GetTitledFirstName]§!;;;;;;;;;;;§YÓõóäøèòü îòíîøåíèÿ ñ [Root.GetAgedPersonINS] ïî èìåíè [Root.GetTitledFirstName]§!;;x
+start_antagonize_charview_tooltip_delayed;Begin antagonizing §Y[Root.GetTitledFirstName]§!, taunting and threatening [Root.GetHerHim].\n\nWhile antagonizing another character you will be presented with opportunities to make life miserable for them, lowering their §YOpinion§! of you. These opportunities commonly involve trickery, deception or outright slander and often improve the mood of characters with a cruel disposition. You can only antagonize one character at a time.;;;;;;;;;;;Íà÷àòü §Yóõóäøåíèå îòíîøåíèé§! ñ [Root.GetAgedPersonINS] ïî èìåíè §Y[Root.GetTitledFirstName]§!, îñêîðáëÿÿ [Root.GetHersHis] è óãðîæàÿ [Root.GetHerHim].\nÝòî äàñò Âàì âîçìîæíîñòü ñíèçèòü [Root.GetHersHis] §Yìíåíèå§! î Âàñ ÷åðåç ñåðèþ âîçìîæíûõ ñîáûòèé, âêëþ÷àþùèõ óëîâêè, îáìàí è îòêðîâåííóþ êëåâåòó, êîòîðûå ìîãóò óëó÷øèòü Âàøå íàñòðîåíèå, åñëè Âû îòëè÷àåòåñü æåñòîêîñòüþ. Ìîæíî óõóäøàòü îòíîøåíèÿ ëèøü ñ îäíèì ïåðñîíàæåì çà ðàç.;;x
+start_preparing_reconquista_TT;Start preparing for a §YReconquest War§!;;;;;;;;;;;Íà÷í¸òñÿ ïîäãîòîâêà §YÐåêîíêèñòû§!;;x
+start_sway_charview_tooltip;§YSway [Root.GetTitledFirstName]§!;;;;;;;;;;;§YÍàëàäèòü îòíîøåíèÿ ñ [Root.GetAgedPersonINS] ïî èìåíè [Root.GetTitledFirstName]§!;;x
+start_sway_charview_tooltip_delayed;Begin swaying §Y[Root.GetTitledFirstName]§! to your cause.\n\nWhile swaying another character you will be presented with opportunities to increase their §YOpinion§! of you. These opportunities can present themselves in many ways, with outcomes often being decided by how compatible you are with the character you are swaying. You can only sway one character at a time.;;;;;;;;;;;Íà÷àòü §Yíàëàæèâàíèå îòíîøåíèé§! ñ [Root.GetAgedPersonINS] ïî èìåíè §Y[Root.GetTitledFirstName]§!.\nÝòî äàñò Âàì âîçìîæíîñòü óëó÷øèòü [Root.GetHersHis] §Yìíåíèå§! î Âàñ ÷åðåç ñåðèþ âîçìîæíûõ ñîáûòèé, çàâèñÿùèõ îò ñîâìåñòèìîñòè Âàøèõ ñ í[Root.GetEyuIm] õàðàêòåðîâ è îáùèõ èíòåðåñîâ. Ìîæíî óëó÷øàòü îòíîøåíèÿ òîëüêî ñ îäíèì ïåðñîíàæåì çà ðàç.;;x
+stop_antagonize_charview_tooltip;§YStop Antagonizing [Root.GetTitledFirstName]§!;;;;;;;;;;;§YÏðåêðàòèòü §Yóõóäøåíèå îòíîøåíèé§! ñ [Root.GetAgedPersonINS] ïî èìåíè [Root.GetTitledFirstName]§!;;x
+stop_antagonize_charview_tooltip_delayed;Stop antagonizing [Root.GetTitledFirstName], ending your efforts to provoke [Root.GetHerHim].;;;;;;;;;;;Ïðåêðàòèòü §Yóõóäøåíèå îòíîøåíèé§! ñ [Root.GetAgedPersonINS] ïî èìåíè [Root.GetTitledFirstName] è áîëüøå íå ïðîâîöèðîâàòü [Root.GetHersHis].;;x
+stop_sway_charview_tooltip;§YStop Swaying [Root.GetTitledFirstName]§!;;;;;;;;;;;§YÏðåêðàòèòü íàëàæèâàíèå îòíîøåíèé ñ [Root.GetAgedPersonINS] ïî èìåíè [Root.GetTitledFirstName]§!;;x
+stop_sway_charview_tooltip_delayed;Stop swaying §Y[Root.GetTitledFirstName]§!, ending your efforts to improve [Root.GetHerHis] opinion of you.;;;;;;;;;;;Ïðåêðàòèòü §Yíàëàæèâàíèå îòíîøåíèé§! ñ [Root.GetAgedPersonINS] ïî èìåíè §Y[Root.GetTitledFirstName]§! è áîëüøå íå ïûòàòüñÿ óëó÷øèòü [Root.GetHersHis] ìíåíèå î Âàñ.;;x
+suspect_foul_play_tt;You suspect foul play...;;;;;;;;;;;Âû ïîäîçðåâàåòå ãðÿçíóþ èãðó...;;x
+teutonic_order_at_peace_TT;§Y[d_teutonic_order.Holder.GetTitledName]§! is not fighting a war;;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[d_teutonic_order.Holder.GetTitledFirstName]§! íå âîþåò.;;x
+teutonic_order_opinion_TT;§Y[d_teutonic_order.Holder.GetTitledName]§! have an opinion of §G25§! or higher of §Y[Root.GetTitledName]§!;;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[d_teutonic_order.Holder.GetTitledFirstName]§! èìååò ìíåíèå î Âàñ âûøå ÷åì §G25§!;;x
+teutonic_state_at_peace_TT;§Y[k_teutonic_state.Holder.GetTitledName]§! is not fighting a war;;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[k_teutonic_state.Holder.GetTitledFirstName]§! íå âîþåò.;;x
+teutonic_state_opinion_TT;§Y[k_teutonic_state.Holder.GetTitledName]§! have an opinion of §G25§! or higher of §Y[Root.GetTitledName]§!;;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[k_teutonic_state.Holder.GetTitledFirstName]§! èìååò ìíåíèå î Âàñ âûøå ÷åì §G25§!;;x
+there_is_a_hero_available_to_duel_tt;There is a high-ranking member available for you to challenge;;;;;;;;;;;Óáåäèòåñü, ÷òî åñòü êòî-òî äîñòàòî÷íî âûñîêîãî ðàíãà äëÿ ïîåäèíêà.;;x
+they_crawl_off_and_die_tt;§Y[other_combatant.GetTitledFirstName]§! looks like they might actually die from the damage inflicted upon them.\n;;;;;;;;;;;§Y[other_combatant.GetTitledFirstName]§! âûãëÿäèò î÷åíü ïëîõî è íàâåðÿêà óìð¸ò îò íàíåñ¸ííîãî [other_combatant.GetHerHim] óðîíà.\n;;x
+they_take_your_titles_tt;§Y[other_combatant.GetTitledFirstName]§! usurps any title of yours that [other_combatant.GetSheHe] has a §YStrong Claim§! on.;;;;;;;;;;;§Y[other_combatant.GetTitledFirstName]§! óçóðïèðóåò âñå Âàøè òèòóëû, íà êîòîðûå ó í[other_combatant.GetHersHis] åñòü §Yñèëüíàÿ ïðåòåíçèÿ§!.;;x
+this_is_better_than_prev_tt;§Y[This.GetTitledFirstName]§! is a better dueler than §Y[Prev.GetTitledFirstName]§!;;;;;;;;;;;§Y[This.GetTitledFirstName]§! - ëó÷ø[This.GetAyaIy] äóýëÿíò[This.GetEndKa], ÷åì §Y[Prev.GetTitledFirstName]§!;;x
+this_is_worse_than_prev_tt;§Y[This.GetTitledFirstName]§! is a worse dueler than §Y[Prev.GetTitledFirstName]§!;;;;;;;;;;;§Y[This.GetTitledFirstName]§! - õóäø[This.GetAyaIy] äóýëÿíò[This.GetEndKa], ÷åì §Y[Prev.GetTitledFirstName]§!;;x
+tooltip_add_massive_hellenic_society_currency;§Y[Root.GetTitledFirstName]§! gains §G1000§! §YVirtue§!.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! ïîëó÷èò §G1000§! §Yäîáëåñòè§!.;;x
+tooltip_add_massive_society_currency;§Y[Root.GetTitledFirstName]§! gains §G1000§! §YDevotion§!.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! ïîëó÷èò §G1000§! §Yïðèâåðæåííîñòè§!.;;x
+tooltip_african_picking_syncretism;Develop §YSympathy§! from a neighboring §YAbrahamic§! religion group.;;;;;;;;;;;Ðàçâèòü §Yñèìïàòèþ§! ê §Yàâðààìè÷åñêîé§! ðåëèãèîçíîé ãðóïïå Âàøèõ ñîñåäåé.;;x
+tooltip_alexandria_church_seized;A new §YHellenic Temple§! is established in §YAlexandria§!.;;;;;;;;;;;Íîâûé §Y[ýëëèí]ñêèé õðàì§! óñòàíîâëåí â §YÀëåêñàíäðèè§!.;;x
+tooltip_antagonize_vassalize_claim;§Y[Root.GetTitledFirstName]§! has a rightful claim to rule over §Y[From.GetTitledFirstName]'s§! lands;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! èìååò çàêîííûå îñíîâàíèÿ ïðàâèòü §Y[From.PrimaryTitle.GetAdjective]ñêèìè§! çåìëÿìè;;x
+tooltip_ask_dress_husband;Ask your husband to buy you new clothes.;;;;;;;;;;;Ïîïðîñèòü ìóæà êóïèòü íîâóþ îäåæäó.;;x
+tooltip_atheniai_church_seized;A new §YHellenic Temple§! is established in §YAtheniai§!.;;;;;;;;;;;Íîâûé §Y[ýëëèí]ñêèé õðàì§! óñòàíîâëåí â §YÀôèíàõ§!.;;x
+tooltip_attribute_improvement_target_cooldown;Must NOT have been the target of this decision in the past §Y5§! years.;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ áûëè öåëüþ ýòîãî ðåøåíèå â ïîñëåäíèå §Y5§! ëåò.;;x
+tooltip_attribute_requirements_to_improve;Unless using this decision on yourself, you must outrank your chosen target in at least one field of study.;;;;;;;;;;;Åñëè Âû íå èñïîëüçóåòå ýòî ðåøåíèå íà ñåáå, Âû äîëæíû ïðåâçîéòè âûáðàííóþ Âàìè öåëü õîòÿ áû â îäíîé îáëàñòè çíàíèé èëè óìåíèé.;;x
+tooltip_baptizing_priest_exists;A notable clergyman available to baptize little §Y[Root.GetTitledFirstName]§! exists;;;;;;;;;;;Óáåäèòåñü, ÷òî â Âàøåì ðàñïîðÿæåíèè åñòü óâàæàåìûé ïðåäñòàâèòåëü äóõîâåíñòâà.;;x
+tooltip_betting_easiest_side;Pick safest outcome.;;;;;;;;;;;Âûáðàòü íàèáîëåå âåðîÿòíûé èñõîä.;;x
+tooltip_betting_easy_side;Pick a likely outcome.;;;;;;;;;;;Âûáðàòü âåðîÿòíûé èñõîä.;;x
+tooltip_betting_hard_side;Pick an unlikely outcome.;;;;;;;;;;;Âûáðàòü ìàëîâåðîÿòíûé èñõîä.;;x
+tooltip_betting_hardest_side;Pick a very unlikely outcome.;;;;;;;;;;;Âûáðàòü êðàéíå ìàëîâåðîÿòíûé èñõîä.;;x
+tooltip_bloodthirsty_games_cooldown;Has NOT recently held §YBlood Games§!;;;;;;;;;;;Óáåäèòåñü, ÷òî â ïîñëåäíåå âðåìÿ ÍÅ áûëî §Yêðîâàâûõ èãð§!;;x
+tooltip_bloodthirsty_mass_sacrifice_cooldown;Has NOT performed a §YMass Sacrifice§! in the last few decades;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ âûïîëíÿëè §Yìàññîâîå æåðòâîïðèíîøåíèå§! çà ïîñëåäíèå íåñêîëüêî äåñÿòèëåòèé.;;x
+tooltip_bribe_church;Bribe the clergy to stop their accusations against you for awhile.;;;;;;;;;;;Ïîäêóïèòü äóõîâåíñòâî, ÷òîáû çàñòàâèòü åãî çàìîë÷àòü íà êàêîå-òî âðåìÿ.;;x
+tooltip_buy_to_woman;§Y[Root.Spouse.GetFirstName]§! will be comforted by your kind gesture.;;;;;;;;;;;§Y[Root.Spouse.GetFirstName]§! îöåíèò Âàø äîáðûé æåñò.;;x
+tooltip_byzantine_empire_can_appoint_commanders;There are no other valid landed vassals;;;;;;;;;;;Íåò ïîäõîäÿùèõ âàññàëîâ-çåìëåâëàäåëüöåâ;;x
+tooltip_call_of_the_steppe_cooldown;Has NOT used §YCall of the Steppe§! in the past §Y10 years§!;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ èñïîëüçîâàëè §YÇîâ Ñòåïè§! â ïîñëåäíèå §Y10 ëåò§!;;x
+tooltip_call_of_the_steppe_feudal;You will receive a boost in §YLevy Reinforcement§! rate;;;;;;;;;;;Âû ïîëó÷èòå ïðèðîñò §Yïîïîëíåíèÿ îïîë÷åíèÿ§!;;x
+tooltip_call_of_the_steppe_nomad;You will receive a boost in §YPopulation§! and §YManpower§!;;;;;;;;;;;Âû ïîëó÷èòå ïðèðîñò §Yíàñåëåíèÿ§! è §Yëþäñêèõ ðåñóðñîâ§!;;x
+tooltip_call_to_glory_end_reinforcements;You will no longer receive more §YReinforcements§! until the end of the war.;;;;;;;;;;;Âû áîëüøå íå ïîëó÷èòå §Yïîäêðåïëåíèÿ§! äî îêîí÷àíèÿ âîéíû.;;x
+tooltip_call_to_glory_resume_reinforcements;§YReinforcements§! will resume for a while longer.;;;;;;;;;;;§YÏîäêðåïëåíèå§! ïðèáóäåò íåìíîãî ïîçæå.;;x
+tooltip_can_build_ca_wall_1;The local infrastructure supports the construction of a row of §YCastle Walls§!;;;;;;;;;;;Ìåñòíàÿ èíôðàñòðóêòóðà ïîçâîëÿåò ïîñòðîèòü §Yêðåïîñòíûå ñòåíû§!;;x
+tooltip_can_build_ca_wall_2;The local infrastructure supports the construction of a new row of §YCastle Walls§!;;;;;;;;;;;Ìåñòíàÿ èíôðàñòðóêòóðà ïîçâîëÿåò ïîñòðîèòü §Yêðåïîñòíûå ñòåíû§!;;x
+tooltip_can_build_ca_wall_3;The local infrastructure supports the construction of a new row of §YCastle Walls§!;;;;;;;;;;;Ìåñòíàÿ èíôðàñòðóêòóðà ïîçâîëÿåò ïîñòðîèòü §Yêðåïîñòíûå ñòåíû§!;;x
+tooltip_can_build_ca_wall_4;The local infrastructure supports the construction of a new row of §YCastle Walls§!;;;;;;;;;;;Ìåñòíàÿ èíôðàñòðóêòóðà ïîçâîëÿåò ïîñòðîèòü §Yêðåïîñòíûå ñòåíû§!;;x
+tooltip_can_build_ca_wall_5;The local infrastructure supports the construction of a new row of §YCastle Walls§!;;;;;;;;;;;Ìåñòíàÿ èíôðàñòðóêòóðà ïîçâîëÿåò ïîñòðîèòü §Yêðåïîñòíûå ñòåíû§!;;x
+tooltip_can_build_ca_wall_q_1;The local infrastructure supports the construction of §YCastle Fortifications§!;;;;;;;;;;;Ìåñòíàÿ èíôðàñòðóêòóðà ïîçâîëÿåò ïîñòðîèòü §Yêðåïîñòíûå óêðåïëåíèÿ§!;;x
+tooltip_can_build_ca_wall_q_2;The local infrastructure supports the improvement of the §YCastle Fortifications§!;;;;;;;;;;;Ìåñòíàÿ èíôðàñòðóêòóðà ïîçâîëÿåò ïîñòðîèòü §Yêðåïîñòíûå óêðåïëåíèÿ§!;;x
+tooltip_can_build_ca_wall_q_3;The local infrastructure supports the improvement of the §YCastle Fortifications§!;;;;;;;;;;;Ìåñòíàÿ èíôðàñòðóêòóðà ïîçâîëÿåò ïîñòðîèòü §Yêðåïîñòíûå óêðåïëåíèÿ§!;;x
+tooltip_can_build_ca_wall_q_4;The local infrastructure supports the improvement of the §YCastle Fortifications§!;;;;;;;;;;;Ìåñòíàÿ èíôðàñòðóêòóðà ïîçâîëÿåò ïîñòðîèòü §Yêðåïîñòíûå óêðåïëåíèÿ§!;;x
+tooltip_can_build_ca_wall_q_5;The local infrastructure supports the improvement of the §YCastle Fortifications§!;;;;;;;;;;;Ìåñòíàÿ èíôðàñòðóêòóðà ïîçâîëÿåò ïîñòðîèòü §Yêðåïîñòíûå óêðåïëåíèÿ§!;;x
+tooltip_can_build_tb_defensive_fortifications_1;The local infrastructure supports the construction of a §YWall and Ditch§!;;;;;;;;;;;Ìåñòíàÿ èíôðàñòðóêòóðà ïîçâîëÿåò ïîñòðîèòü §Yðîâ ñ ÷àñòîêîëîì§!;;x
+tooltip_can_build_tb_defensive_fortifications_2;The local infrastructure supports the construction of §YCamouflaged Outposts§!;;;;;;;;;;;Ìåñòíàÿ èíôðàñòðóêòóðà ïîçâîëÿåò ïîñòðîèòü §Yñêðûòûå àâàíïîñòû§!;;x
+tooltip_can_build_tb_defensive_fortifications_3;The local infrastructure supports the construction of §YLayered Palisades§!;;;;;;;;;;;Ìåñòíàÿ èíôðàñòðóêòóðà ïîçâîëÿåò ïîñòðîèòü §Yñëîæíûå çàãðàæäåíèÿ§!;;x
+tooltip_can_build_tb_defensive_fortifications_4;The local infrastructure supports the construction of §YStone Watchtowers§!;;;;;;;;;;;Ìåñòíàÿ èíôðàñòðóêòóðà ïîçâîëÿåò ïîñòðîèòü §Yêàìåííûå áàøíè§!;;x
+tooltip_can_build_tb_hillfort_1;The local infrastructure supports the construction of an §YEarth Hillfort§!;;;;;;;;;;;Ìåñòíàÿ èíôðàñòðóêòóðà ïîçâîëÿåò ïîñòðîèòü §Yçåìëÿíóþ êðåïîñòü§!;;x
+tooltip_can_build_tb_hillfort_2;The local infrastructure supports the construction of a §YWooden Hillfort§!;;;;;;;;;;;Ìåñòíàÿ èíôðàñòðóêòóðà ïîçâîëÿåò ïîñòðîèòü §Yäåðåâÿííóþ êðåïîñòü§!;;x
+tooltip_can_build_tb_hillfort_3;The local infrastructure supports the construction of a §YReinforced Hillfort§!;;;;;;;;;;;Ìåñòíàÿ èíôðàñòðóêòóðà ïîçâîëÿåò ïîñòðîèòü §Yóñèëåííóþ êðåïîñòü§!;;x
+tooltip_can_build_tb_hillfort_4;The local infrastructure supports the construction of a §YStone Hillfort§!;;;;;;;;;;;Ìåñòíàÿ èíôðàñòðóêòóðà ïîçâîëÿåò ïîñòðîèòü §Yêàìåííóþ êðåïîñòü§!;;x
+tooltip_cannot_antagonize_sway_same_time;You cannot §YSway§! and §YAntagonize§! the same character at the same time.;;;;;;;;;;;Âû íå ìîæåòå îäíîâðåìåííî §YÍàëàæèâàòü îòíîøåíèÿ§! è §YÂðàæäîâàòü§! ñ îäíèì è òåì æå ïåðñîíàæåì;;x
+tooltip_capital_embrace_outremer;§Y[Root.Capital.GetName]§! becomes §YOutremer§!;;;;;;;;;;;§Y[Root.Capital.GetName]§! ïðèìåò §YÓòðåìåðñêóþ§! êóëüòóðó;;x
+tooltip_celebrate_destroyed_great_pillar;The local §YGreat Pillar§! will be permanently destroyed.;;;;;;;;;;;Ìåñòíûé §Yâåëèêèé ñòîëï§! áóäåò óíè÷òîæåí íàâñåãäà.;;x
+tooltip_celebrate_new_great_pillar;A §YGreat Pillar§! will be erected in the square of §Y[Root.GetName]§!.;;;;;;;;;;;§YÂåëèêèé ñòîëï§! áóäåò âîçâåä¸í íà öåíòðàëüíîé ïëîùàäè [Root.GetHoldingGenericPlaceGEN] §Y[Root.GetBaseName]§!.;;x
+tooltip_change_pagan_branch;Abandon the §YPagan Branch§! you currently ascribe to and choose another one.;;;;;;;;;;;Îòêàçàòüñÿ îò §Yíàïðàâëåíèå ÿçû÷åñòâà§!, ê êîòîðîìó Âû ïðèíàäëåæèòå, ÷òîáû âûáðàòü íîâîå.;;x
+tooltip_considering_artifact_donation;Is NOT being considered as a gift.;;;;;;;;;;;Óáåäèòåñü, ÷òî ýòî ÍÅ ïîäàðîê.;;x
+tooltip_coronation_depose_antipope;Start a war to depose an Anti-pope. Upon victory, the §Y[From.GetTitle]§! will crown you.;;;;;;;;;;;Îáúÿâèòü âîéíó çà ñâåðæåíèå Àíòè-Ïàïû. Â ñëó÷àå ïîáåäû §Y[From.GetTitle]§! êîðîíóåò Âàñ.;;x
+tooltip_coronation_depose_excommunicate;Start a war to depose an Excommunicated ruler. Upon victory, the §Y[From.GetTitle]§! will crown you.;;;;;;;;;;;Îáúÿâèòü âîéíó çà ñâåðæåíèå îòëó÷¸ííîãî îò öåðêâè ïðàâèòåëÿ. Â ñëó÷àå ïîáåäû §Y[From.GetTitle]§! êîðîíóåò Âàñ.;;x
+tooltip_coronation_pepin_war;Start a war in Italy on behalf of the Papal State. Upon victory, the §Y[From.GetTitle]§! will crown you.;;;;;;;;;;;Îáúÿâèòü âîéíó â Èòàëèè çà îñâîáîæäåíèå ïàïñêèõ çåìåëü. Â ñëó÷àå ïîáåäû §Y[From.GetTitle]§! êîðîíóåò Âàñ.;;x
+tooltip_courtiers_embrace_outremer;All §YCourtiers§! of your dynasty become §YOutremer§!;;;;;;;;;;;Âñå §Yïðèäâîðíûå§!, ïðèíàäëåæàþùèå Âàøåé äèíàñòèè, ïðèìóò §YÓòðåìåðñêóþ§! êóëüòóðó;;x
+tooltip_decision_brazen_bull;Your other §YVassals§! will be Intimidated (§G+10§! §YOpinion§!) by this action.;;;;;;;;;;;Âàøè §Yâàññàëû§! áóäóò íàïóãàíû (§G+10§! ê §Yìíåíèþ§!) ýòèì äåéñòâèåì.;;x
+tooltip_deflection_cooldown;Must NOT have used this decision in the past §Y10 years§!;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ ïîëüçîâàëèñü ýòèì ðåøåíèåì â ïîñëåäíèå §Y10 ëåò§!;;x
+tooltip_delve_into_classics;Take some time to study the ruins and accounts of the Ancient Greeks and Romans.;;;;;;;;;;;Ïîòðàòèòü íåêîòîðîå âðåìÿ íà èçó÷åíèå ðóèí è äîêóìåíòîâ äðåâíèõ ãðåêîâ è ðèìëÿí.;;x
+tooltip_destroy_great_pillar;By destroying this holy symbol, the heathens' §YMoral Authority§! will be eroded.;;;;;;;;;;;Óíè÷òîæåíèå ñâÿùåííîãî ñèìâîëà ïðèâåä¸ò ê ïàäåíèþ §Yìîðàëüíîãî àâòîðèòåòà§! ýòîé ðåëèãèè.;;x
+tooltip_dismantle_factions;Release your spies to force a dissolution of all §YFactions§! within the next few weeks.;;;;;;;;;;;Îòäàòü ïðèêàç ñâîèì øïèîíàì ðàçîáðàòüñÿ ñ §Yôðàêöèÿìè§! â áëèæàéøèå íåñêîëüêî íåäåëü.;;x
+tooltip_dismantle_factions_cooldown;Must NOT have used this decision in the past §Y10 years§!;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ ïðèíèìàëè ýòî ðåøåíèå â ïîñëåäíèå §Y10 ëåò§!;;x
+tooltip_dismantle_factions_exist;Any §YVassal§! is member of an existing §YFaction§!;;;;;;;;;;;Óáåäèòåñü, ÷òî êòî-ëèáî èç §Yâàññàëîâ§! ñîñòîèò âî §Yôðàêöèè§!;;x
+tooltip_drill_troops_action;Spend §YPrestige§! to boost your command skills.;;;;;;;;;;;Ïîòðàòèòü î÷êè §Yïðåñòèæà§!, ÷òîáû óëó÷øèòü ñâîè íàâûêè êîìàíäèðà.;;x
+tooltip_drill_troops_cooldown;Must NOT have used this decision in the past §Y10 years§!;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ ïîëüçîâàëèñü ýòèì ðåøåíèåì â ïîñëåäíèå §Y10 ëåò§!;;x
+tooltip_dynastic_meddling;Help §Y[Root.GetTitledFirstName]§! improve [Root.GetHerHis] character.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! ìîæåò óëó÷øèòü ñâîè ëè÷íûå êà÷åñòâà ñ Âàøåé ïîìîùüþ.;;x
+tooltip_dynastic_meddling_cooldown;Must NOT have used this decision in the past §Y5 years§!;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ ïðèíèìàëè ýòî ðåøåíèå â ïîñëåäíèå §Y5 ëåò§!;;x
+tooltip_endearing_noblemen_action;Spend §YPrestige§! to boost the §YOpinion§! of either your subjects or your neighbors.;;;;;;;;;;;Ïîòðàòèòü î÷êè §Yïðåñòèæà§!, ÷òîáû óëó÷øèòü §Yîòíîøåíèå ê Âàì§! ïîääàííûõ è ñîñåäåé.;;x
+tooltip_explain_coronation;Explain that, whatever their personal feelings, the members of the clergy of §Y[Root.PrimaryTitle.GetName]§! are still required by their vows of vassalage to show proper respect and loyalty to their liege.;;;;;;;;;;;Îáúÿñíèòü, ÷òî íåñìîòðÿ íà ëè÷íûå ïðåäïî÷òåíèÿ, ñâÿòîé äîëã §Y[Root.PrimaryTitle.GetAdjective]ñêîãî§! äóõîâåíñòâà - ñëóæèòü ñâîåìó íîâîìó ñþçåðåíó, à çíà÷èò ïðèíåñòè åìó êëÿòâó âåðíîñòè.;;x
+tooltip_explain_coronation_2;Use your knowledge of the religious texts to dismiss the clergy's claims about your rule's lack of legitimacy.;;;;;;;;;;;Âîñïîëüçîâàòüñÿ çíàíèåì ñâÿùåííîãî ïèñàíèÿ, ÷òîáû îïðîâåðãíóòü îáâèíåíèÿ äóõîâåíñòâà â Âàø àäðåñ ïî ïîâîäó íåõâàòêè ëåãèòèìíîñòè.;;x
+tooltip_father_gave_all;Make sure [From.GetFirstName] is always well fed and taken care of by the [Root.GetHouse]'s cooks.;;;;;;;;;;;Óáåäèòüñÿ, ÷òî [From.GetFirstName] õîðîøî íàêîðìëåí[From.GetEndA].;;x
+tooltip_father_gave_hare;Order your cooks to prepare a §Yhare's head§! for [From.GetFirstName]'s dinner.;;;;;;;;;;;Ïðèêàçàòü Âàøèì ïîâàðàì ïðèãîòîâèòü §Yãîëîâó çàéöà§! äëÿ Âàøå[From.GetYGo] [From.GetRootRelationGEN].;;x
+tooltip_father_gave_quail;Order your cooks to prepare a §Yquail's foot§! for [From.GetFirstName]'s dinner.;;;;;;;;;;;Ïðèêàçàòü Âàøèì ïîâàðàì ïðèãîòîâèòü §Yïåðåïåëèíóþ ëàïêó§! äëÿ Âàøå[From.GetYGo] [From.GetRootRelationGEN].;;x
+tooltip_father_gave_trout;Order your cooks to prepare a §Ytrout's eye§! for [From.GetFirstName]'s dinner.;;;;;;;;;;;Ïðèêàçàòü Âàøèì ïîâàðàì ïðèãîòîâèòü §Yãëàç ôîðåëè§! äëÿ Âàøå[From.GetYGo] [From.GetRootRelationGEN].;;x
+tooltip_feminist_liege_religion_feature;Character and §YLiege§! publicly follow an §YEqual§! or §YEnatic Clans§! religion;;;;;;;;;;;Ïåðñîíàæ è §Yñþçåðåí§! îòêðûòî èñïîâåäóþò ðåëèãèþ ñ äîêòðèíàìè §Yðàâåíñòâî§! èëè §Yýíàòè÷åñêèå êëàíû§!;;x
+tooltip_feminist_liege_vanilla_religion;Character and §YLiege§! publicly follow the §YCathar§!, §YMessalian§!, §YBogomilist§!, or §YMazdaki§! religion;;;;;;;;;;;Ïåðñîíàæ è §Yñþçåðåí§! îòêðûòî èñïîâåäóþò §Yêàòàðèçì§!, §Yìåññàëèàíñòâî§!, §Yáîãîìèëüñòâî§! èëè §Yìàçäàêèçì§!;;x
+tooltip_forge_pahalavi_crown;Add the '§Y[Root.GetOnlyDynastyName] Crown§!' to the treasury of [Root.GetTitledFirstName];;;;;;;;;;;§YÊîðîíà äèíàñòèè [Root.GetOnlyDynastyName]§! äîáàâèòñÿ â Âàøó ñîêðîâèùíèöó ;;x
+tooltip_gain_baptized_by_bishop;§Y[This.GetBestName]§! gains the trait '§YBaptized by a Prince-Bishop§!';;;;;;;;;;;ïîëó÷èò ÷åðòó §Yêðåùåí[This.GetEndA] åïèñêîïîì§!;;x
+tooltip_gain_baptized_by_patriach;§Y[This.GetBestName]§! gains the trait '§YBaptized by the Patriarch§!';;;;;;;;;;;ïîëó÷èò ÷åðòó §Yêðåùåí[This.GetEndA] ïàòðèàðõîì§!;;x
+tooltip_gain_baptized_by_pope;§Y[This.GetBestName]§! gains the trait '§YBaptized by the Pope§!';;;;;;;;;;;ïîëó÷èò ÷åðòó §Yêðåùåí[This.GetEndA] Ïàïîé§!;;x
+tooltip_gain_baptized_by_satan;§Y[This.GetBestName]§! gains the trait '§YBaptized by Satanists§!';;;;;;;;;;;ïîëó÷èò ÷åðòó §Yêðåùåí[This.GetEndA] ñàòàíèñòàìè§!;;x
+tooltip_gain_crowned_by_bishop;§Y[Root.GetTitledName]§! gains the trait '§YCrowned by a Prince-Bishop§!';;;;;;;;;;;[Root.GetTitledFirstName] ïîëó÷èò ÷åðòó §Yêîðîíîâàí[Root.GetEndA] åïèñêîïîì§!;;x
+tooltip_gain_crowned_by_pope;§Y[Root.GetTitledName]§! gains the trait '§YCrowned by the Pope§!';;;;;;;;;;;[Root.GetTitledFirstName] ïîëó÷èò ÷åðòó §Yêîðîíîâàí[Root.GetEndA] Ïàïîé§!;;x
+tooltip_gain_crowned_by_priest;§Y[Root.GetTitledName]§! gains the trait '§YCrowned by a Bishop§!';;;;;;;;;;;[Root.GetTitledFirstName] ïîëó÷èò ÷åðòó §Yêîðîíîâàí[Root.GetEndA] ñâÿùåííèêîì§!;;x
+tooltip_has_african_mask_duplicate;Does NOT already own a Mask and an Idol;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ îáëàäàåòå ìàñêîé èëè èäîëîì.;;x
+tooltip_has_architect_bloodline;The ruling dynasty has taken a special interest in §YArchitecture§!;;;;;;;;;;;Ïðàâÿùàÿ äèíàñòèÿ ïèòàåò îñîáûé èíòåðåñ ê §Yàðõèòåêòóðå§!;;x
+tooltip_has_castellan_bloodline;The ruling dynasty has taken a special interest in §YEngineering§!;;;;;;;;;;;Ïðàâÿùàÿ äèíàñòèÿ ïðîÿâèëà îñîáûé èíòåðåñ ê §YÈíæåíåðíîìó äåëó§!;;x
+tooltip_has_monumental_bloodline;The ruling dynasty has taken a special interest in §YReligious Architecture§!;;;;;;;;;;;Ïðàâÿùàÿ äèíàñòèÿ ïèòàåò îñîáûé èíòåðåñ ê §Yðåëèãèîçíîé àðõèòåêòóðå§!;;x
+tooltip_has_murder_builder_bloodline;The ruling dynasty has taken a grim interest in §YEngineering§!;;;;;;;;;;;Ïðàâÿùàÿ äèíàñòèÿ ïèòàåò íåçäîðîâûé èíòåðåñ ê §Yèíæåíåðíîìó äåëó§!;;x
+tooltip_has_not_already_stood_together_slavic;Has NOT already requested help from §Y[Root.Society.GetName]§!;;;;;;;;;;;Óáåäèòåñü, ÷òî óæå ÍÅ ïðîñèëè §Y[Root.GetSocietyNameGEN]§! î ïîìîùè.;;x
+tooltip_has_not_already_summoned_ukko_warriors;Has NOT already requested help from §Y[Root.Society.GetName]§! for the current campaign;;;;;;;;;;;Óáåäèòåñü, ÷òî Âû ÍÅ ïðîñèëè ïîìîùè ó §Y[Root.GetSocietyNameGEN]§! âî âðåìÿ òåêóùåé êàìïàíèè.;;x
+tooltip_hellenic_dedicate_temple;Decide to which [From.Religion.GetName] god should this temple be dedicated.;;;;;;;;;;;Ðåøèòå, êàêîìó [From.GetRelAdj]ñêîìó áîãó ýòîò õðàì áóäåò ïîñâÿù¸í.;;x
+tooltip_hoping_child_boy;You will be truly delighted if the child you are carrying ends up being a §Yboy§!.;;;;;;;;;;;Âû áóäåòå î÷åíü ðàäû, åñëè ýòîò ðåá¸íîê îêàæåòñÿ §Yìàëü÷èêîì§!.;;x
+tooltip_hoping_child_girl;You will be truly delighted if the child you are carrying ends up being a §Ygirl§!.;;;;;;;;;;;Âû áóäåòå î÷åíü ðàäû, åñëè ýòîò ðåá¸íîê îêàæåòñÿ §Yäåâî÷êîé§!.;;x
+tooltip_hoping_child_warrior;The child's rowdiness inside your belly may be a sign of his future character.;;;;;;;;;;;Áóéíûé íðàâ ðåá¸íêà â Âàøåì æèâîòå ìîæåò áûòü ïðèçíàêîì åãî áóäóùåãî õàðàêòåðà.;;x
+tooltip_is_excommunicated_for;is §YExcommunicated§! by the [Root.Religion.GetName] Church;;;;;;;;;;; §Yîòëó÷åí[Root.GetEndA]§! îò [Root.GetRelAdj]ñêîé öåðêâè;;x
+tooltip_issued_decla_repentance_recently;Has NOT recently issued a §YDeclaration of Repentance§!;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ îòïðàâëÿëè â ïîñëåäíåå âðåìÿ §Yïðîñüáó ñíÿòü îòëó÷åíèå§!;;x
+tooltip_land_for_daugther;Has an adult landless daughter not in line of succession;;;;;;;;;;;Åñòü áåççåìåëüíàÿ äî÷ü âíå ëèíèè íàñëåäîâàíèÿ;;x
+tooltip_land_for_son;Has an adult landless son not in line of succession;;;;;;;;;;;Åñòü áåççåìåëüíûé ñûí âíå ëèíèè íàñëåäîâàíèÿ.;;x
+tooltip_lodge_call_to_glory;Ask your fellow warriors to join the fight.;;;;;;;;;;;Ïîïðîñèòü ñîðàòíèêîâ-âîèíîâ ïðèñîåäèíèòüñÿ ê áèòâå.;;x
+tooltip_lodge_war_sacrifice;Perform a sacrifice to receive the favor of the gods.;;;;;;;;;;;Ñîâåðøèòü æåðòâîïðèíîøåíèå, ÷òîáû ïîëó÷èòü áëàãîñëîâåíèå áîãîâ.;;x
+tooltip_mary_vow;Decide what kind of vow to the Virgin you wish to take.;;;;;;;;;;;Ðåøèòü, êàêóþ êëÿòâó Áîãîðîäèöå Âû õîòèòå äàòü.;;x
+tooltip_mass_convert_during_crusade;Send a letter to §Y[This.GetTitledFirstName]§! to sponsor the mass conversion of your realm in exchange for the annulment of the §YCrusade§!.;;;;;;;;;;;Îòïðàâèòü ïèñüìî, êîòîðîå ïîëó÷èò §Y[This.GetTitledFirstName]§!, ñ ïðîñüáîé î ìàññîâ[This.GetBaptismPostfixAndNamePREP] íàðîäà Âàøåé ñòðàíû â îáìåí íà [This.GetHersHis] îòêàç îò §Yêðåñòîâîãî ïîõîäà§!.;;x
+tooltip_maxed_uncrowned;Was not crowned after §Y30§! years of rule.;;;;;;;;;;;Âû ìîæåòå êîðîíîâàòüñÿ âî âðåìÿ âîéíû, åñëè óæå §Y30§! ëåò íåêîðîíîâàíû.;;x
+tooltip_mom_hopes_pretty;If the gods will it, your child will be born §YBeautiful§!.;;;;;;;;;;;Åñëè áîãè ïîæåëàþò, Âàø ðåá¸íîê ðîäèòñÿ §Yïðèâëåêàòåëüíûì§!.;;x
+tooltip_mom_hopes_smart;If the gods will it, your child will be born §YSmart§!.;;;;;;;;;;;Åñëè áîãè ïîæåëàþò, Âàø ðåá¸íîê ðîäèòñÿ §Yóìíûì§!.;;x
+tooltip_mom_hopes_strong;If the gods will it, your child will be born §YStrong§!.;;;;;;;;;;;Åñëè áîãè ïîæåëàþò, Âàø ðåá¸íîê ðîäèòñÿ §Yñèëüíûì§!.;;x
+tooltip_mother_craved_all;You do not seem to crave for anything out of the ordinary. It is probably for the best.;;;;;;;;;;;Ïîõîæå, Âû íå æàæäåòå ÷åãî-òî íåîáû÷íîãî. Ýòî õîðîøî.;;x
+tooltip_mother_craved_hare;Order your cooks to prepare a §Yhare's head§! for dinner.;;;;;;;;;;;Ïðèêàçàòü ïðèãîòîâèòü Âàì §Yãîëîâó çàéöà§! íà óæèí.;;x
+tooltip_mother_craved_quail;Order your cooks to prepare a §Yquail's foot§! for dinner.;;;;;;;;;;;Ïðèêàçàòü ïðèãîòîâèòü Âàì §Yïåðåïåëèíóþ ëàïêó§! íà óæèí.;;x
+tooltip_mother_craved_trout;Order your cooks to spice your dinner with a §Ytrout's eye§!.;;;;;;;;;;;Ïðèêàçàòü ïðèãîòîâèòü Âàì §Yãëàç ôîðåëè§! íà óæèí.;;x
+tooltip_murder_deflection_decision;Begin obfuscating.;;;;;;;;;;;Ïðèñòóïèòü ê ñîêðûòèþ ñëåäîâ.;;x
+tooltip_not_dedicated_temple_recently;§Y[From.GetTitledFirstName]§! must not have consecrated a temple recently.;;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[From.GetTitledFirstName]§! íåäàâíî ÍÅ ïîñâÿùàë õðàì êàêîìó-íèáóäü áîãó.;;x
+tooltip_not_matriarchal_liege_religion_feature;Character's and §YLiege§!'s religion must NOT have §YEnatic Clans§! feature;;;;;;;;;;;Óáåäèòåñü, ÷òî ðåëèãèÿ ïåðñîíàæà è §Yñþçåðåíà§! ÍÅ ñëåäóåò äîêòðèíå §Yýíàòè÷åñêèå êëàíû§!;;x
+tooltip_obj_create_treasure;To complete the ambition you need to amass three artifacts of sufficient quality for your treasury;;;;;;;;;;;×òîáû óäîâëåòâîðèòü ýòó àìáèöèþ, Âàì íóæíî ñîáðàòü òðè àðòåôàêòà âûñîêîãî êà÷åñòâà äëÿ ñâîåé ñîêðîâèùíèöû.;;x
+tooltip_other_elders_displeased;All the other §YElders§! in §Y[Root.PrimaryTitle.GetName]§! will be displeased by your decision.;;;;;;;;;;;Âñå §Y[Root.PrimaryTitle.GetAdjective]ñêèå§! §Yñòàðåéøèíû§! îãîð÷åíû Âàøèì ðåøåíèåì.;;x
+tooltip_other_elders_pleased;All the other §YElders§! in §Y[Root.PrimaryTitle.GetName]§! will be pleased by your decision.;;;;;;;;;;;Âñå §Y[Root.PrimaryTitle.GetAdjective]ñêèå§! §Yñòàðåéøèíû§! áóäóò ðàäû Âàøåìó ðåøåíèþ.;;x
+tooltip_pagan_mom_sacrifice;Expose yourself to the dangers of the wilderness to give the gods their due, and pray for the future health of your unborn child.;;;;;;;;;;;Îòêðîéòåñü îïàñíîñòÿì äèêîé ïðèðîäû, ÷òîáû äàòü áîãàì ïðàâî ðåøèòü ñóäüáó Âàøåãî íåðîæä¸ííîãî ðåá¸íêà.;;x
+tooltip_peasants_become_hellenes;The outcome of the Civil War will drive more citizens of the Empire to embrace §YHellenism§!.;;;;;;;;;;;Èñõîä ãðàæäàíñêîé âîéíû âûíóäèò åù¸ áîëüøå ãðàæäàí Èìïåðèè ïðèíÿòü §Y[ýëëèí]èçì§!.;;x
+tooltip_pick_pagan_branch;Determine which §YPagan Branch§! you belong to.;;;;;;;;;;;Èçáðàòü §Yíàïðàâëåíèå ÿçû÷åñòâà§!, ê êîòîðîìó Âû õîòèòå ïðèíàäëåæàòü.;;x
+tooltip_pregnancy_gets_worse;accumulated stress causing your §YPregnancy§! to get worse.;;;;;;;;;;;âàøå ñîñòîÿíèå, âûçâàííîå §Yáåðåìåííîñòüþ§!, óõóäøèòñÿ.;;x
+tooltip_pregnancy_stable;your condition stabilizing causing your §YPregnancy§! to get better.;;;;;;;;;;;âàøå ñîñòîÿíèå, âûçâàííîå §Yáåðåìåííîñòüþ§!, óëó÷øèòñÿ.;;x
+tooltip_preparations_great_tribal_festival;Commence preparations for the §YFestival§!;;;;;;;;;;;Íà÷àòü ïðèãîòîâëåíèÿ ê §Yíàðîäíîìó ïðàçäíèêó§!;;x
+tooltip_province_already_has_great_pillar;No §YGreat Pillar§! exists in §Y[Root.GetName]§!;;;;;;;;;;;Óáåäèòåñü, ÷òî íè îäíîãî §Yâåëèêîãî ñòîëïà§! íå ñóùåñòâóåò â îêðóãå §Y[Root.GetName]§!;;x
+tooltip_provinces_embrace_outremer;All §Y[latin.GetGroupName]§! Provinces in your demesne become §YOutremer§!;;;;;;;;;;;Âñå îêðóãà, íàñåëåíèå êîòîðûõ ïðèíàäëåæèò ê §Y[_ëàòèí]ñêîé§! êóëüòóðíîé ãðóïïå, ïðèìóò §YÓòðåìåðñêóþ§! êóëüòóðó;;x
+tooltip_rebuked_apology;§Y[Root.GetTitledFirstName]§! has recently rebuked §Y[From.GetTitledFirstName]§!'s attentions in clear terms.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! íåäàâíî îòâåðã[Root.GetNoneE] èçâèíåíèÿ [From.GetAgedPersonGEN], èçâåñòí[From.GetOyOgo] êàê §Y[From.GetTitledFirstName]§!.;;x
+tooltip_recover_depressed;Attempt to recover from §YDepression§!.;;;;;;;;;;;Ïîïûòàòüñÿ èçáàâèòüñÿ îò §Yäåïðåññèè§!.;;x
+tooltip_recover_drunkard;Attempt to stop being a §YDrunkard§!.;;;;;;;;;;;Ïîïûòàòüñÿ ïîêîí÷èòü ñ §Yïüÿíñòâîì§!.;;x
+tooltip_recover_gluttonous;Attempt to stop being a §YGlutton§!.;;;;;;;;;;;Ïîïûòàòüñÿ ïîêîí÷èòü ñ §Yîáæîðñòâîì§!.;;x
+tooltip_recover_wroth;Attempt to stop being §YWroth§!.;;;;;;;;;;;Ïîïûòàòüñÿ ïîêîí÷èòü ñ §Yãíåâîì§!.;;x
+tooltip_religion_feature_adulthood_rite;§GCharacters perform a rite of passage upon reaching adulthood§!;;;;;;;;;;;§GÎáðÿä ñîâåðøåííîëåòèÿ§!;;x
+tooltip_religion_feature_adventuring;§GPrepared Invasions are allowed§!;;;;;;;;;;;§GÐàçðåøàåò ïîäãîòîâëåííûå âòîðæåíèÿ§!;;x
+tooltip_religion_feature_anti_attrition;§GArmies ignore defensive attrition§!;;;;;;;;;;;§GÍåò îáîðîíèòåëüíîãî èçìîðà âîéñê íà ÷óæèõ çåìëÿõ§!;;x
+tooltip_religion_feature_astrology;§GCharacters are assigned Zodiac traits on birth and by decision§!;;;;;;;;;;;§GÇíàêè çîäèàêà ÿâëÿþòñÿ ÷åðòàìè õàðàêòåðà§!;;x
+tooltip_religion_feature_autocephaly;§GAutocephalous priests are put in charge of each realm's religious matters§!;;;;;;;;;;;§GÍåçàâèñèìûå ñòðàíû èìåþò ïðàâî íà àâòîêåôàëèþ§!;;x
+tooltip_religion_feature_aztec_sacrifices;§GPrisoners of a different religion can be sacrificed for Piety§!;;;;;;;;;;;§GÆåðòâîïðèíîøåíèÿ èíîâåðöåâ ïîâûøàþò áëàãî÷åñòèå§!;;x
+tooltip_religion_feature_beatification;§GThe Religious Head can decide upon dead ancestors to give special status§!;;;;;;;;;;;§GÃëàâà ìîæåò âîçâûñèòü ïðåäêîâ ðàäè ñòàòóñà§!;;x
+tooltip_religion_feature_bloodthirsty_mechanics;§GSacrificing prisoners unlocks special traits and actions§!;;;;;;;;;;;§GÏîîùðÿåò ÷åëîâå÷åñêèå æåðòâîïðèíîøåíèÿ§!;;x
+tooltip_religion_feature_branches;§GFollowers of this religion can pick a preferred Branch§!;;;;;;;;;;;§GÐàçðåøàåò âûáðàòü íàïðàâëåíèå ðåëèãèîçíîãî ó÷åíèÿ§!;;x
+tooltip_religion_feature_celibate_priests;§YPriests are bound to be Celibate§!;;;;;;;;;;;§YÎáÿçûâàåò ñâÿùåííèêîâ ïðèíèìàòü öåëèáàò§!;;x
+tooltip_religion_feature_cognatic;§GAbsolute Cognatic law is enforced§!;;;;;;;;;;;§GÒîëüêî êîãíàòè÷åñêîå íàñëåäîâàíèå§!;;x
+tooltip_religion_feature_cosmopolitan_1;§RBase Moral Authority is low§!;;;;;;;;;;;§RÍèçêèé áàçîâûé ìîðàëüíûé àâòîðèòåò§!;;x
+tooltip_religion_feature_cosmopolitan_2;§GThis religion can intermarry with its neighboring faiths§!;;;;;;;;;;;§GÏîçâîëÿåò áðàêè ñ ñîñåäÿìè-èíîâåðöàìè§!;;x
+tooltip_religion_feature_crusade;§GGreat Holy Wars are allowed§!;;;;;;;;;;;§GÐàçðåøàåò âåëèêèå ñâÿùåííûå âîéíû§!;;x
+tooltip_religion_feature_defensive;§GArmies are stronger when defending their home territories§!;;;;;;;;;;;§GÀðìèè ëó÷øå çàùèùàþòñÿ íà ðîäíîé òåððèòîðèè§!;;x
+tooltip_religion_feature_disables_ghws;§RDisables Great Holy Wars§!;;;;;;;;;;;§RÇàïðåùàåò âåëèêèå ñâÿùåííûå âîéíû§!;;x
+tooltip_religion_feature_dogmatic_1;§GBase Moral Authority is high§!;;;;;;;;;;;§GÂûñîêèé áàçîâûé ìîðàëüíûé àâòîðèòåò§!;;x
+tooltip_religion_feature_dogmatic_2;§RThis religion does not allow marriage with infidels§!;;;;;;;;;;;§RÇàïðåùàåò áðàêè ñ èíîâåðöàìè§!;;x
+tooltip_religion_feature_dynamic;[GetPreferredReformationAttribute];;;;;;;;;;;[GetPreferredReformationAttribute];;x
+tooltip_religion_feature_eldership;§GEnables Eldership succession law§!;;;;;;;;;;;§GÄåëàåò äîñòóïíûì íàñëåäîâàíèå ÷åðåç ñòàðåéøèíñòâî§!;;x
+tooltip_religion_feature_feminist;§GFemale rulers are NOT penalized§!;;;;;;;;;;;§GÆåíùèíû ìîãóò ïðàâèòü áåç øòðàôà ê ìíåíèþ î ñåáå§!;;x
+tooltip_religion_feature_hard_conversion;§GThis religion is resistant to proselytizing§!;;;;;;;;;;;§GÓñòîé÷èâà ê ïðîïîâåäÿì ñî ñòîðîíû äðóãèõ ðåëèãèé§!;;x
+tooltip_religion_feature_harems;§GPolygamy is allowed§!;;;;;;;;;;;§GÐàçðåøàåò ïîëèãàìèþ§!;;x
+tooltip_religion_feature_haruspicy;§GDiviners read the signs before war to try to improve troop morale§!;;;;;;;;;;;§GÁîåâîé äóõ âîéñê çàâèñèò îò ïðîðî÷åñòâ ïðîðèöàòåëåé§!;;x
+tooltip_religion_feature_hermetics;§GGrants access to the Hermetic Society§!;;;;;;;;;;;§GÎòêðûâàåò äîñòóï ê îáùåñòâó Ãåðìåòèñòîâ§!;;x
+tooltip_religion_feature_holy_family;§GClose-kin marriage amongst nobility is considered a divine union§!;;;;;;;;;;;§GÁëèçêîðîäñòâåííûé áðàê ñ÷èòàåòñÿ ñâÿùåííûì§!;;x
+tooltip_religion_feature_impotent;§RThis religion discourages missionary work§!;;;;;;;;;;;§RÎñóæäàåò ìèññèîíåðñòâî§!;;x
+tooltip_religion_feature_incest;§GClose-kin marriage is allowed§!;;;;;;;;;;;§GÐàçðåøàåò áðàêè ìåæäó áëèçêèìè ðîäñòâåííèêàìè§!;;x
+tooltip_religion_feature_jizya;§GReligious taxation of subjects of a different religious group is allowed§!;;;;;;;;;;;§GÐàçðåøàåò âçèìàòü îñîáûé íàëîã íàëîã ñ èíîâåðöåâ§!;;x
+tooltip_religion_feature_land_morale;§GUnits from Counties following the true faith receive a land morale bonus§!;;;;;;;;;;;§GÂîèíû ýòîé âåðû ïîëó÷àþò áîíóñ ê áîåâîìó äóõó§!;;x
+tooltip_religion_feature_learning_boost;§GFollowers of this religion gain +2 base Learning§!;;;;;;;;;;;§GÏîñëåäîâàòåëè ïîëó÷àþò +2 ê îáðàçîâàííîñòè§!;;x
+tooltip_religion_feature_looting;§GLooting is allowed§!;;;;;;;;;;;§GÐàçðåøàåò íàáåãè ñ öåëüþ ãðàáåæà§!;;x
+tooltip_religion_feature_matriarchal;§GEnatic law is enforced§!\n§GFemale rulers are NOT penalized§!;;;;;;;;;;;§GÒîëüêî ýíàòè÷åñêîå íàñëåäîâàíèå§!\n§GÆåíùèíû ìîãóò ïðàâèòü áåç øòðàôà ê ìíåíèþ î ñåáå§!;;x
+tooltip_religion_feature_matriarchal_negatives;§RMale characters are NOT allowed in the Council§!;;;;;;;;;;;§RÇàïðåùàåò ìóæ÷èíàì ñîñòîÿòü â Ñîâåòå§!;;x
+tooltip_religion_feature_meliorism;§GRulers can spend Piety to improve their Courtiers' Attributes§!;;;;;;;;;;;§GÌîæíî óëó÷øàòü íàâûêè ïðèäâîðíûõ çà áëàãî÷åñòèå§!;;x
+tooltip_religion_feature_meritocratic;§GHeir designation is allowed§!;;;;;;;;;;;§GÐàçðåøàåò âûáîð íàñëåäíèêà§!;;x
+tooltip_religion_feature_monastic;§GRulers can ask their subjects to 'Take the Vows' and disinherit them§!;;;;;;;;;;;§GÌîæíî ññûëàòü ïðèäâîðíûõ â ìîíàñòûðü§!;;x
+tooltip_religion_feature_no_crusade;§RGreat Holy Wars are NOT allowed§!;;;;;;;;;;;§RÇàïðåùàåò âåëèêèå ñâÿùåííûå âîéíû§!;;x
+tooltip_religion_feature_no_incest;§RClose-kin marriage is NOT allowed§!;;;;;;;;;;;§RÇàïðåùàåò áðàêè ìåæäó áëèçêèìè ðîäñòâåííèêàìè§!;;x
+tooltip_religion_feature_no_leader;§YThis religion will never have a religious head§!;;;;;;;;;;;§YÝòî ðåëèãèÿ íå èìååò ãëàâû§!;;x
+tooltip_religion_feature_no_looting;§RLooting is NOT allowed§!;;;;;;;;;;;§RÇàïðåùàåò íàáåãè ñ öåëüþ ãðàáåæà§!;;x
+tooltip_religion_feature_no_matrimarriage;§RMatrilineal Marriages are NOT allowed§!;;;;;;;;;;;§RÇàïðåùàåò ìàòðèëèíåéíûå áðàêè§!;;x
+tooltip_religion_feature_offensive;§GArmies have increased offensive capabilities§!;;;;;;;;;;;§GÂîéñêà ñèëüíåå â àòàêå§!;;x
+tooltip_religion_feature_open_succession;§GOpen Succession is unlocked§!;;;;;;;;;;;"§GÐàçðåøàåò ""îòêðûòûé"" ïðèíöèï íàñëåäîâàíèÿ§!";;x
+tooltip_religion_feature_pacifist;§GRulers are less likely to start wars, plots, and factions§!;;;;;;;;;;;§YÏðàâèòåëè èçáåãàþò âîéí, çàãîâîðîâ è ôðàêöèé§!;;x
+tooltip_religion_feature_patriarchal;§GAgnatic law is enforced§!;;;;;;;;;;;§GÒîëüêî àãíàòè÷åñêîå íàñëåäîâàíèå§!;;x
+tooltip_religion_feature_patriarchal_negatives;§RFemale characters are NOT allowed in the Council§!;;;;;;;;;;;§RÇàïðåùàåò æåíùèíàì ñîñòîÿòü â Ñîâåòå§!;;x
+tooltip_religion_feature_peace_piety;§GRulers gain Piety while at peace§!;;;;;;;;;;;§GÏðàâèòåëè ïîëó÷àþò áëàãî÷åñòèå â ìèðíîå âðåìÿ§!;;x
+tooltip_religion_feature_piety_same_religion_loss;§RRulers waging war against members of their own faith lose Piety§!;;;;;;;;;;;§RÂîéíà ïðîòèâ åäèíîâåðöåâ ñíèæàåò áëàãî÷åñòèå§!;;x
+tooltip_religion_feature_pirating;[GetPiratingFeature];;;;;;;;;;;[GetPiratingFeature];;x
+tooltip_religion_feature_prestige_loss;§RRulers at peace lose Prestige§!;;;;;;;;;;;§RÏðàâèòåëè òåðÿþò ïðåñòèæ â ìèðíîå âðåìÿ§!;;x
+tooltip_religion_feature_proselytizing;§GThis religion encourages missionary work§!;;;;;;;;;;;§GÏîîùðÿåò ìèññèîíåðñòâî§!;;x
+tooltip_religion_feature_pyramids;§GIndependent lieges of this religion can construct pyramids§!;;;;;;;;;;;§GÍåçàâèñèìûå ïðàâèòåëè, èñïîâåäóþùèå ýòó ðåëèãèþ ìîãóò ñòðîèòü ïèðàìèäû§!;;x
+tooltip_religion_feature_rivermovement;§GFleets can navigate through major rivers§!;;;;;;;;;;;§GÐàçðåøàåò ïëàâàòü ïî ðåêàì§!;;x
+tooltip_religion_feature_seafaring;§YLooters prefer coastal counties§!;;;;;;;;;;;§YÏîîùðÿåò íàáåãè íà ïðèáðåæíûå çåìëè ñ êîðàáëåé§!;;x
+tooltip_religion_feature_ship_maintenance;§GShip Maintenance cost is reduced to 10%§!;;;;;;;;;;;§GÑíèæàåò çàòðàòû íà êîðàáëè â 10 ðàç§!;;x
+tooltip_religion_feature_stable;§GShort reign penalty is DISABLED§!;;;;;;;;;;;§GÓáèðàåò øòðàô çà êîðîòêîå ïðàâëåíèå§!;;x
+tooltip_religion_feature_syncretic;§GRulers can choose to gain Sympathy with another faith by decision§!;;;;;;;;;;;§GÐàçðåøàåò ïðîÿâëÿòü ñèìïàòèþ ê äðóãîé ðåëèãèè§!;;x
+tooltip_religion_feature_temporal_head;§GThe reformer will become the new Head of this religion§!;;;;;;;;;;;§GÐåôîðìàòîð ñòàíîâèòñÿ ãëàâîé ýòîé ðåëèãèè§!;;x
+tooltip_religion_feature_theocratic_head;§GA priest is put in charge of this religion§!;;;;;;;;;;;§GÂî ãëàâå äîëæåí ñòîÿòü ñâÿùåííèê§!;;x
+tooltip_religion_feature_war_levies;§GRulers do NOT receive Opinion penalties for raised vassal levies§!;;;;;;;;;;;§GÏðèçûâ îïîë÷åíèÿ ÍÅ ïîðòèò îòíîøåíèÿ ñ ñþçåðåíîì§!;;x
+tooltip_religion_feature_warlike;§YRulers are extremely aggressive§!;;;;;;;;;;;§YÏðàâèòåëè ñêëîííû âåñòè âîéíû§!;;x
+tooltip_restore_brazen_bull;Acknowledge the §YBrazen Bull§! as your family symbol.;;;;;;;;;;;Îáúÿâèòü §Yìåäíîãî áûêà§! ñèìâîëîì Âàøåé ñåìüè.;;x
+tooltip_roman_culture_spreads;§YRoman Culture§! will start spreading across your lands.;;;;;;;;;;;Ïî âñåì Âàøèì çåìëÿì íà÷í¸òñÿ ðàñïðîñòðàíåíèå §Y[_ðèì]ñêîé§! êóëüòóðû.;;x
+tooltip_roman_culture_starts_spreading;§YRoman Culture§! will start spreading across the Empire.;;;;;;;;;;;Ïî âñåé Èìïåðèè íà÷í¸ò ðàñïðîñòðàíÿòüñÿ §Y[_ðèì]ñêàÿ êóëüòóðà§!.;;x
+tooltip_rome_church_seized;A new §YHellenic Temple§! is established in §YRome§!.;;;;;;;;;;;Íîâûé §Y[ýëëèí]ñêèé õðàì§! óñòàíîâëåí â §YÐèìå§!.;;x
+tooltip_rowdy_troops_leave;Some of your new recruits will disband.;;;;;;;;;;;Íåêîòîðûå èç Âàøèõ íîâûõ ðåêðóòîâ îòïðàâÿòñÿ ïî äîìàì;;x
+tooltip_ruler_recently_had_pillar_destroyed;A §Y[From.Religion.GetName] Great Pillar§! has NOT been recently destroyed.;;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[From.GetRelAdj]ñêèé âåëèêèé ñòîëï§! ÍÅ áûë íåäàâíî óíè÷òîæåí.;;x
+tooltip_siracusa_church_seized;A new §YHellenic Temple§! is established in §YSyracuse§!.;;;;;;;;;;;Íîâûé §Y[ýëëèí]ñêèé õðàì§! óñòàíîâëåí â §YÑèðàêóçàõ§!.;;x
+tooltip_slavic_stand_together;A member of §Y[Root.Society.GetName]§! will assemble an §YArmy§! at your capital.;;;;;;;;;;;Îäèí èç §Y[Root.GetSocietyNameGEN]§! ïðèâåä¸ò ñâîþ §Yàðìèþ§! ê Âàøåé ñòîëèöå.;;x
+tooltip_spend_time_woman;Your [GetFromRelation] will certainly be glad to have you visit her.;;;;;;;;;;;Âàø[From.GetEndA] [From.GetRootRelation] áóäåò ðàä[From.GetEndA], ÷òî Âû íàâåñòèëè [From.GetHersHis].;;x
+TOOLTIP_SPONSOR_VISIT_FEAST_1;Inform [From.GetTitledFirstName] that you are satisfied with the accommodation [From.GetSheHe] prepared for you.;;;;;;;;;;;Ïóñòü [From.GetTitledFirstName] óçíàåò, ÷òî Âû äîâîëüíû îêàçàííûì Âàì ãîñòåïðèèìñòâîì ñ [From.GetHersHis] ñòîðîíû.;;x
+TOOLTIP_SPONSOR_VISIT_FEAST_2;Inform [From.GetTitledFirstName] that you are insulted by [From.GetHerHis] lack of care for [From.GetHerHis] esteemed guest.;;;;;;;;;;;Ïóñòü [From.GetTitledFirstName] óçíàåò, ÷òî Âàñ îñêîðáëÿåò íèçêèé óðîâåíü [From.GetHersHis] ãîñòåïðèèìñòâà.;;x
+TOOLTIP_SPONSOR_VISIT_WELCOME_1;Inform [From.GetTitledFirstName] that you are happy with [From.GetHerHis] welcome.;;;;;;;;;;;Ïóñòü [From.GetTitledFirstName] óçíàåò, ÷òî Âû ðàäû [From.GetHersHis] ïðèâåòñòâèþ.;;x
+TOOLTIP_SPONSOR_VISIT_WELCOME_2;Inform [From.GetTitledFirstName] that you are quite disappointed by [From.GetHerHis] welcome.;;;;;;;;;;;Ïóñòü [From.GetTitledFirstName] óçíàåò, ÷òî Âû ðàçî÷àðîâàíû [From.GetHersHis] ïðèâåòñòâèåì.;;x
+tooltip_stable_attribute_improvement_cooldown;Must NOT have taken this decision in the past §Y5§! years.;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ ïðèíèìàëè ýòî ðåøåíèå â ïîñëåäíèå §Y5§! ëåò.;;x
+tooltip_stable_attribute_improvement_effect;§Y[Root.GetTitledFirstName]§! will focus on improving one of [Root.GetHerHis] §YAttributes§!.;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! ñîñðåäîòî÷èòñÿ íà óëó÷øåíèè ñâîèõ §Yàòðèáóòîâ§!.;;x
+tooltip_stand_together_candidate_exists;A member of the Lodge is willing to assist you;;;;;;;;;;;Óáåäèòåñü, ÷òî åñòü õîòÿ áû îäèí ñîðàòíèê ïî ëîæå, ïîòåíöèàëüíî æåëàþùèé Âàì ïîìî÷ü.;;x
+tooltip_start_bloodthirsty_games;Begin preparations for a §YBlood Tournament§!;;;;;;;;;;;Íà÷àòü ïðèãîòîâëåíèÿ ê §Yêðîâàâîìó òóðíèðó§!;;x
+tooltip_start_bloodthirsty_mass_sacrifice;Sacrifice a considerable portion of your subjects to improve morale;;;;;;;;;;;Ïðèíåñòè â æåðòâó äîñòàòàòî÷íîå êîëè÷åñòâî ïîääàííûõ, ÷òîáû ïîäíÿòü áîåâîé äóõ.;;x
+tooltip_stop_antagonizing;Stop §YAntagonizing§! §Y[antagonize_target.GetTitledFirstName]§!;;;;;;;;;;;Ïðåêðàòèòü §Yóõóäøåíèå îòíîøåíèé§! ñ [antagonize_target.GetAgedPersonINS], èçâåñòí[antagonize_target.GetOyYm] êàê §Y[antagonize_target.GetTitledFirstName]§!;;x
+tooltip_stop_swaying;Stop §YSwaying§! §Y[sway_target.GetTitledFirstName]§!;;;;;;;;;;;Ïðåêðàòèòü §Yíàëàæèâàíèå îòíîøåíèé§! ñ [sway_target.GetAgedPersonINS], èçâåñòí[sway_target.GetOyYm] êàê §Y[sway_target.GetTitledFirstName]§!;;x
+tooltip_summon_warriors_ukko;A band of warriors will arrive at your capital.;;;;;;;;;;;Îòðÿä âîèíîâ ïîÿâèòñÿ â îêðåñòíîñòÿõ Âàøåé ñòîëèöû.;;x
+tooltip_summoning_lodge_commander;A skilled §YCommander§! from [Root.Society.GetName] will arrive at your court.;;;;;;;;;;;Îïûòíûé §Yïîëêîâîäåö§! èç [Root.GetSocietyNameGEN] ïðèáóäåò ê Âàøåìó äâîðó.;;x
+tooltip_sway_into_personality_trait;Try to influence §Y[sway_target.GetFirstName]§! into adopting one of your personality §YTraits§!.;;;;;;;;;;;Âû ïðèëîæèòå óñèëèÿ ê òîìó, ÷òîáû §Y[sway_target.GetFirstName]§! ïåðåíÿë[sway_target.GetEndA] îäíó èç §Y÷åðò§! Âàøåãî õàðàêòåðà.;;x
+tooltip_synergic_education_ugrade;By focusing on [scoped_improvement_target.GetHerHis] main field of study, §Y[scoped_improvement_target.GetTitledFirstName]§! has a chance to improve [scoped_improvement_target.GetHerHis] §YEducation§!.;;;;;;;;;;;Ñîñðåäîòî÷èâøèñü íà îñíîâíîé îáëàñòè ñâîåé êîìïåòåíöèè, §Y[scoped_improvement_target.GetTitledFirstName]§! ìîæåò óëó÷øèòü ñâî¸ §Yîáðàçîâàíèå§!.;;x
+tooltip_temple_must_have_priest;The temple must be controlled by a priest of the §Y[From.Religion.GetName]§! faith.;;;;;;;;;;;Óáåäèòåñü, ÷òî õðàì êîíòðîëèðóåòñÿ §Y[From.GetRelAdj]ñêèì§! ñâÿùåííîñëóæèòåëåì.;;x
+tooltip_thessalonike_church_seized;A new §YHellenic Temple§! is established in §YThessalonike§!.;;;;;;;;;;;Íîâûé §Y[ýëëèí]ñêèé õðàì§! óñòàíîâëåí â §YÔåññàëîíèêàõ§!.;;x
+tooltip_troubled_child_talks;Talk to §Y[From.GetFirstName]§! and show your appreciation for her care and endurance.;;;;;;;;;;;Ïîãîâîðèòü ñ [From.GetRootRelationINS], ÷òîáû âûðàçèòü å[From.GetYMu] ñâîþ ïðèçíàòåëüíîñòü çà çàáîòó.;;x
+tooltip_visit_lover;§Y[From.GetFirstName]§! will certainly be glad to receive a visit from her beloved.;;;;;;;;;;;§Y[From.GetFirstName]§! áóäåò ðàä[From.GetEndA], ÷òî [From.GetHersHis] ëþáîâíè[Root.GetTsaK] íàâåñòèë[Root.GetEndA] [From.GetHersHis].;;x
+tooltip_vow_charity;Be §YCharitable§!, give your wealth to the needy, and the §YHoly Virgin§! may bless you with a strong and healthy child.;;;;;;;;;;;Áóäüòå §Yùåäð[Root.GetOyYm]§!, ïîìîãàéòå áåäíûì è áîëüíûì è òîãäà §YÏðåñâÿòàÿ Äåâà§! áëàãîñëîâèò Âàñ ñèëüíûì è çäîðîâûì ðåá¸íêîì.;;x
+tooltip_vow_chastity;Be §YChaste§!, avoid the pleasures of the flesh, and the §YHoly Virgin§! may bless you with a strong and healthy child.;;;;;;;;;;;Áóäüòå §Yöåëîìóäðåíí[Root.GetOyYm]§!, èçáåãàéòå ïëîòñêèõ óäîâîëüñòâèé è òîãäà §YÏðåñâÿòàÿ Äåâà§! áëàãîñëîâèò Âàñ ñèëüíûì è çäîðîâûì ðåá¸íêîì.;;x
+tooltip_vow_humility;Be §YHumble§!, avoid trinkets and fine clothing, and the §YHoly Virgin§! may bless you with a strong and healthy child.;;;;;;;;;;;Áóäüòå §Yñìèðåíí[Root.GetOyYm]§!, íå íîñèòå áîãàòóþ îäåæäó è äîðîãèå óêðàøåíèÿ è òîãäà §YÏðåñâÿòàÿ Äåâà§! áëàãîñëîâèò Âàñ ñèëüíûì è çäîðîâûì ðåá¸íêîì.;;x
+tooltip_vow_temperance;Be §YTemperate§!, avoid all excesses, and the §YHoly Virgin§! may bless you with a strong and healthy child.;;;;;;;;;;;Áóäüòå §Yóìåðåíí[Root.GetOyYm]§!, èçáåãàéòå èçëèøåñòâ è òîãäà §YÏðåñâÿòàÿ Äåâà§! áëàãîñëîâèò Âàñ ñèëüíûì è çäîðîâûì ðåá¸íêîì.;;x
+tooltip_vows_monk_goes_to_theocracy;§Y[Root.GetTitledFirstName]§! will leave your court;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! ïîêèíåò Âàø äâîð;;x
+tooltip_vows_monk_joins_society;§Y[Root.GetTitledFirstName]§! will join a §YMonastic Society§!;;;;;;;;;;;§Y[Root.GetTitledFirstName]§! âñòóïèò â §Yìîíàøåñêèé îðäåí§!;;x
+tooltip_war_sacrifice_cooldown;Has NOT performed a §YWar Sacrifice§! in the past §Y10§! years;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ ñîâåðøàëè §Yæåðòâîïðèíîøåíèå ïåðåä áèòâîé§! â ïîñëåäíèå §Y10§! ëåò;;x
+tooltip_west_african_create_fetish;Begin crafting a new §YArtifact§!.;;;;;;;;;;;Íà÷íåòñÿ ñîçäàíèå íîâîãî §Yàðòåôàêòà§!.;;x
+tooltip_west_african_create_fetish_cooldown;Is NOT already supervising the creation of a fetish;;;;;;;;;;;Óáåäèòåñü, ÷òî óæå ÍÅ ïîðó÷èëè ñîçäàíèå ôåòèøà.;;x
+tooltip_zun_battle_trance;Augment your §YMilitary§! skills for a limited amount of time, at the cost of your §YHealth§!.;;;;;;;;;;;Âàøè §Yâîåííûå§! íàâûêè âûðàñòóò íà êàêîå-òî âðåìÿ â óùåðá §Yçäîðîâüþ§!.;;x
+tooltip_zun_battle_trance_cooldown;Has NOT recently entered a Battle Trance;;;;;;;;;;;Óáåäèòåñü, ÷òî íåäàâíî ÍÅ âõîäèëè â áîåâîé òðàíñ;;x
+trained_troops_TT;A regiment of trained troops will appear at §Y[Root.Capital.GetName]§!;;;;;;;;;;;Îòðÿä îáó÷åííûõ ñîëäàò ñîáåð¸òñÿ â îêðåñòíîñòÿõ [Root.Capital.GetHoldingGenericPlaceGEN] §Y[Root.Capital.County.GetBaseName]§!;;x
+trans_saharan_province_desc;Can only build §YTrade Posts§! in certain Counties along the §YTrans Saharan Trade Route§!\n        Open the §YTrade Zones Mapmode§! to see valid Counties;;;;;;;;;;;Âû ìîæåòå ñòðîèòü §Yòîðãîâûå ïîñòû§! òîëüêî â íåêîòîðûõ îêðóãàõ âäîëü §YÒðàíñ-ñàõàðñêîãî òîðãîâîãî ïóòè§!\n        Îòêðîéòå ðåæèì êàðòû §YÒîðãîâûå çîíû§!, ÷òîáû óâèäåòü íà êàêèõ èìåííî.;;x
+tribal_or_nomadic_government_tt;Has §YTribal§! or §YNomadic§! Government\n;;;;;;;;;;;Òèï ïðàâëåíèÿ - §Yïëåìåííîé§! èëè §Yêî÷åâîé§! ñòðîé\n;;x
+truebelievers_preparation_tooltip;Call to arms all the True Believers still left in the realm.;;;;;;;;;;;Ïðèçâàòü ê îðóæèþ âñåõ èñòèííî âåðóþùèõ, êîòîðûå îñòàëèñü â ñòðàíå.;;x
+TT_CHILD_IS_ASSERTIVE;Is assertive (ambitious, quick, willful, or genius);;;;;;;;;;;Íàñòîé÷èâ[Root.GetAyaYy] (àìáèöèçí[Root.GetAyaYy], ñìûøë¸í[Root.GetAyaYy], âîëåâ[Root.GetAyaOy] èëè ãåíèàëüí[Root.GetAyaYy]);;x
+TT_CORONATION_RELIGIOUS_HEAD;A Fraticelli Papacy has been established;;;;;;;;;;;Ïàïñòâî Ôðàòè÷åëëè ñóùåñòâóåò;;x
+TT_CORONATION_RELIGIOUS_HEAD_POPE;A Pope exists;;;;;;;;;;;Ïàïà ñóùåñòâóåò;;x
+TT_CORONATION_VASSAL_PRIEST;A vassal Bishop is available to perform the ceremony;;;;;;;;;;;Âàññàë-åïèñêîï ìîæåò èñïîëíèòü öåðåìîíèþ;;x
+TT_NOT_FULFILLING_WAR_CORONATION;Is NOT currently waging a war as part of a deal to be crowned by the Pope;;;;;;;;;;;Óáåäèòåñü, ÷òî ÍÅ ðàçâÿçàëè âîéíó èç-çà ñäåëêè ñ Ïàïîé ïî ïîâîäó êîðîíàöèè;;x
+TT_NOT_OTHERWISE_OCCUPIED;is NOT otherwise occupied;;;;;;;;;;;ÍÅ çàíÿò[This.GetEndA] ÷åì-òî äðóãèì;;x
+TT_NOT_PREPARING_CORONATION;Is NOT already preparing for a coronation;;;;;;;;;;;Óáåäèòåñü, ÷òî óæå ÍÅ ãîòîâèòå êîðîíàöèþ;;x
+TT_NOT_RECENTLY_ASKED_CORONATION;Has NOT recently attempted to organize a coronation [From.GetCoronationTimer];;;;;;;;;;;Óáåäèòåñü, ÷òî íåäàâíî ÍÅ ïûòàëèñü îðãàíèçîâàòü êîðîíàöèþ [From.GetCoronationTimer];;x
+TT_NOT_UNREFORMED_PAGAN;Is NOT Unreformed [pagan_group.GetGroupName]\n;;;;;;;;;;;Ðåëèãèÿ - ÍÅ [_ïîäëèííîåÿçû÷åñòâî]\n;;x
+TT_PAGAN_CANONIZATION_FAMILY;[saint_person.GetFirstName] has become known as a blessed ancestor, and everyone of [saint_person.GetHerHis] §YBloodline§! will reap the benefits.;;;;;;;;;;;[saint_person.GetFirstName] ñòàë[saint_person.GetEndA] èçâåñò[saint_person.GetNaEn] êàê §Yïî÷èòàåìûé ïðåäîê§!, è âñå ïðåäñòàâèòåëè [saint_person.GetHersHis] §Yðîäîñëîâíîé§! ïîëó÷àò îò ýòîãî ïðåèìóùåñòâà.;;x
+TT_PLOT_GAIN_VASSAL_TITLE_TYRANNICAL_BLOODLINE;§Y[From.GetTitledFirstName]§! belongs to a §YTyrannical Bloodline§!;;;;;;;;;;;§Y[From.GetTitledFirstName]§! ïðèíàäëåæèò ê §Yòèðàíè÷åñêîé ðîäîñëîâíîé§!;;x
+TT_REGENT_LIKES_CHILD;Regent likes [Root.GetTitledFirstName];;;;;;;;;;;Ðåãåíòó íðàâèòñÿ [Root.GetTitledFirstName];;x
+TT_SPONSOR_EXISTS;A potential sponsor realm exists;;;;;;;;;;;Ñòðàíà ïîòåíöèàëüíîãî ñïîíñîðà ìàññîâîãî îáðàùåíèÿ äîëæíà ñóùåñòâîâàòü;;x
+TT_UNREFORMED_PAGAN;Is Unreformed [pagan_group.GetGroupName];;;;;;;;;;;Óáåäèòåñü, ÷òî ðåëèãèÿ - [_ïîäëèííîåÿçû÷åñòâî];;x
+unpledge_crusade_trigger_TT;Not fighting a Crusade war;;;;;;;;;;;Óáåäèòåñü, ÷òî íå ñðàæàåòåñü â êðåñòîâîì ïîõîäå;;x
+upgraded_diplo_tt;§Y[horoscope_child.GetTitledFirstName]§! has had [horoscope_child.GetHerHis] §YDiplomatic§! education upgraded.\n;;;;;;;;;;;§Y[horoscope_child.GetTitledFirstName]§! ïîâûñèò êà÷åñòâî ñâîåãî §Yäèïëîìàòè÷åñêîãî§! îáðàçîâàíèÿ\n;;x
+upgraded_int_tt;§Y[horoscope_child.GetTitledFirstName]§! has had [horoscope_child.GetHerHis] §YIntrigue§! education upgraded.\n;;;;;;;;;;;§Y[horoscope_child.GetTitledFirstName]§! ïîâûñèò êà÷åñòâî ñâîåãî §Yøïèîíñêîãî§! îáðàçîâàíèÿ\n;;x
+upgraded_learn_tt;§Y[horoscope_child.GetTitledFirstName]§! has had [horoscope_child.GetHerHis] §YLearning§! education upgraded.\n;;;;;;;;;;;§Y[horoscope_child.GetTitledFirstName]§! ïîâûñèò êà÷åñòâî ñâîåãî §Yäóõîâíîãî§! îáðàçîâàíèÿ\n;;x
+upgraded_martial_tt;§Y[horoscope_child.GetTitledFirstName]§! has had [horoscope_child.GetHerHis] §YMartial§! education upgraded.\n;;;;;;;;;;;§Y[horoscope_child.GetTitledFirstName]§! ïîâûñèò êà÷åñòâî ñâîåãî §Yâîåííîãî§! îáðàçîâàíèÿ\n;;x
+upgraded_stew_tt;§Y[horoscope_child.GetTitledFirstName]§! has had [horoscope_child.GetHerHis] §YStewardship§! education upgraded.\n;;;;;;;;;;;§Y[horoscope_child.GetTitledFirstName]§! ïîâûñèò êà÷åñòâî ñâîåãî §Yýêîíîìè÷åñêîãî§! îáðàçîâàíèÿ\n;;x
+vassal_tooltip_deceitful_baptism;You will retain your §YTrue Religion§!, and §YSecret Communities§! of the old faith will endure within your provinces.;;;;;;;;;;;Âû ñîõðàíèòå ñâî¸ §Yèñòèííîå âåðîèñïîâåäàíèå§! è §Yòàéíûå îáùèíû§! ñâîèõ åäèíîâåðöåâ íà ñâîèõ çåìëÿõ.;;x
+vassalize_holy_sepulchre_TT;§Y[d_holy_sepulchre.Holder.GetTitledName]§! have an opinion of §G25§! or higher of §Y[Root.GetTitledName]§!;;;;;;;;;;;§Y[d_holy_sepulchre.Holder.GetTitledFirstName]§! èìååò ìíåíèå §G25§! èëè âûøå î [Root.GetAgedPersonPREP], èçâåñòí[Root.GetOyOm] êàê §Y[Root.GetTitledFirstName]§!;;x
+vassalize_knights_calatrava_opinion_TT;§Y[d_knights_calatrava.Holder.GetTitledName]§! have an opinion of §G25§! or higher of §Y[Root.GetTitledName]§!;;;;;;;;;;;§Y[d_knights_calatrava.Holder.GetTitledFirstName]§! èìååò ìíåíèå §G25§! èëè âûøå î [Root.GetAgedPersonPREP], èçâåñòí[Root.GetOyOm] êàê §Y[Root.GetTitledFirstName]§!;;x
+vassalize_knights_hospitaller_opinion_TT;§Y[d_knights_hospitaller.Holder.GetTitledName]§! have an opinion of §G25§! or higher of §Y[Root.GetTitledName]§!;;;;;;;;;;;§Y[d_knights_hospitaller.Holder.GetTitledFirstName]§! èìååò ìíåíèå §G25§! èëè âûøå î [Root.GetAgedPersonPREP], èçâåñòí[Root.GetOyOm] êàê §Y[Root.GetTitledFirstName]§!;;x
+vassalize_knights_santiago_opinion_TT;§Y[d_knights_santiago.Holder.GetTitledName]§! have an opinion of §G25§! or higher of §Y[Root.GetTitledName]§!;;;;;;;;;;;§Y[d_knights_santiago.Holder.GetTitledFirstName]§! èìååò ìíåíèå §G25§! èëè âûøå î [Root.GetAgedPersonPREP], èçâåñòí[Root.GetOyOm] êàê §Y[Root.GetTitledFirstName]§!;;x
+vassalize_knights_templar_opinion_TT;§Y[d_knights_templar.Holder.GetTitledName]§! have an opinion of §G25§! or higher of §Y[Root.GetTitledName]§!;;;;;;;;;;;§Y[d_knights_templar.Holder.GetTitledFirstName]§! èìååò ìíåíèå §G25§! èëè âûøå î [Root.GetAgedPersonPREP], èçâåñòí[Root.GetOyOm] êàê §Y[Root.GetTitledFirstName]§!;;x
+vassalize_teutonic_knights_TT;Vassalize the §YTeutonic Knights§!;;;;;;;;;;;Âû ñäåëàåòå §YÒåâòîíñêèé îðäåí§! ñâîèì âàññàëîì;;x
+viking_age_tt;The Viking Age has begun;;;;;;;;;;;Óáåäèòåñü, ÷òî ýïîõà Âèêèíãîâ óæå íà÷àëàñü.;;x
+visit_sponsor_impressed;§Y[From.GetTitledFirstName]§! has managed to build a decent amount of goodwill with your realm during this short visit.;;;;;;;;;;;§Y[From.GetTitledFirstName]§! ñìîã[From.GetNoneE] óáåäèòü ñâîèõ ëþäåé äîáðîâîëüíî ñëåäîâàòü Âàøåìó ó÷åíèþ.;;x
+visit_sponsor_not_impressed;§Y[From.GetTitledFirstName]§! has failed to create any decent amount of goodwill with your realm during this short visit.;;;;;;;;;;;§Y[From.GetTitledFirstName]§! íå ñìîã[From.GetNoneE] óáåäèòü ñâîèõ ëþäåé äîáðîâîëüíî ñëåäîâàòü Âàøåìó ó÷åíèþ.;;x
+water_watch_1_tt;All of your direct demesne provinces with §Y'Heavy Rain'§! get '§YRiver Patrols§!' for five years, giving the following effects:\nLocal Revolt Risk: §G-1.0%§!\nMorale of Armies: §G+5.0%§!\nCulture Technology Points: §G+0.05%§!;;;;;;;;;;;Âñå íàøè îêðóãà ñ ìîäèôèêàòîðîì §YÏðîëèâíîé äîæäü§! ïîëó÷àþò íà 5 ëåò ìîäèôèêàòîð §YÐå÷íîé ïàòðóëü§!, ÷òî äàñò ñëåäóþùèå ýôôåêòû:\nÌåñòíûé ðèñê âîññòàíèé: §G-1.0%§!\nÁîåâîé äóõ âîéñê: §G+5.0%§!\nÁàëëû êóëüòóðíûõ èññëåäîâàíèé: §G+0.05%§!;;x
+water_watch_2_tt;All of your direct demesne provinces with §Y'Heavy Rain'§! get '§YRoad Patrols§!' for five years, giving the following effects:\nLocal Revolt Risk: §G-1.0%§!\nMorale of Armies: §G+5.0%§!\nCulture Technology Points: §G+0.05%§!;;;;;;;;;;;Âñå íàøè îêðóãà ñ ìîäèôèêàòîðîì §YÏðîëèâíîé äîæäü§! ïîëó÷àþò íà 5 ëåò ìîäèôèêàòîð §YÄîðîæíûé ïàòðóëü§!, ÷òî äàñò ñëåäóþùèå ýôôåêòû:\nÌåñòíûé ðèñê âîññòàíèé: §G-1.0%§!\nÁîåâîé äóõ âîéñê: §G+5.0%§!\nÁàëëû êóëüòóðíûõ èññëåäîâàíèé: §G+0.05%§!;;x
+well_trained_troops_TT;A regiment of well trained troops will appear at §Y[Root.Capital.GetName]§!;;;;;;;;;;;Îòðÿä ïðîôåññèîíàëüíûõ âîèíîâ ñîáåð¸òñÿ â îêðåñòíîñòÿõ [Root.Capital.GetHoldingGenericPlaceGEN] §Y[Root.Capital.County.GetBaseName]§!;;x
+you_crawl_off_and_die_tt;Looks like you might actually die from the damage inflicted upon you.\n;;;;;;;;;;;Ïîõîæå, ÷òî âû óìð¸òå îò íàíåñ¸ííîãî Âàì óðîíà.\n;;x
+you_failing_to_corner_tt;you failing to track §Y[From.GetTitledFirstName]§! down\n;;;;;;;;;;;Âàì íå óäàñòñÿ ïðèíóäèòü ïåðñîíàæà §Y[From.GetTitledFirstName]§! ê ïîåäèíêó\n;;x
+you_lose_the_duel_tt;You lose the duel.\n;;;;;;;;;;;Âû ïîòåðïèòå ïîðàæåíèå â ïîåäèíêå.\n;;x
+you_succeeding_to_corner_tt;you succeeding to force §Y[From.GetTitledFirstName]§! into accepting your duel\n;;;;;;;;;;;Âàì óäàñòñÿ âûíóäèòü ïåðñîíàæà §Y[From.GetTitledFirstName]§! ó÷àñòâîâàòü â ïîåäèíêå\n;;x
+you_take_their_title_and_all_under_it_attacker_tt;The title of §Y[target_title.GetName]§! falls to you, along with any vassals held under it.;;;;;;;;;;;Òèòóë §Y[target_title.GetName]§! äîñòàíåòñÿ Âàì, êàê è âñå åãî âàññàëû.;;x
+you_take_their_title_and_all_under_it_defender_tt;The title of §Y[target_title_2.GetName]§! falls to you, along with any vassals held under it.;;;;;;;;;;;Òèòóë §Y[target_title_2.GetName]§! äîñòàíåòñÿ Âàì, êàê è âñå åãî âàññàëû.;;x
+you_take_their_titles_and_all_under_it_tt;Any title belonging to §Y[other_combatant.GetTitledFirstName]§! that you have a §YStrong Claim§! on, falls to you, along with any vassals held under it.;;;;;;;;;;;Âñå òèòóëû, êîòîðûìè îáëàäàåò §Y[other_combatant.GetTitledFirstName]§!, è ïðè ýòîì íà êîòîðûå ó Âàñ åñòü §Yñèëüíàÿ ïðåòåíçèÿ§!, äîñòàíóòñÿ Âàì, êàê è âñå èõ âàññàëû.;;x
+you_will_get_away_with_it_tt;Everything is just, in a war...\n;;;;;;;;;;;Âîéíà åñòü âîéíà...\n;;x
+you_win_the_duel_tt;You win the duel.\n;;;;;;;;;;;Âû ïîáåäèòå â ïîåäèíêå.\n;;x
+your_claim_is_lost_attacker_tt;Your §YStrong Claim§! on §Y[target_title.GetName]§! is §Rlost§! to you and your descendants.;;;;;;;;;;;§YÑèëüíàÿ ïðåòåíçèÿ§! íà òèòóë §Y[target_title.GetName]§! áóäåò §Róòðà÷åíà§! äëÿ Âàñ è âñåõ Âàøèõ ïîòîìêîâ.;;x
+your_claim_is_lost_defender_tt;Your §YStrong Claim§! on §Y[target_title_2.GetName]§! is §Rlost§! to you and your descendants.;;;;;;;;;;;§YÑèëüíàÿ ïðåòåíçèÿ§! íà òèòóë §Y[target_title_2.GetName]§! áóäåò §Róòðà÷åíà§! äëÿ Âàñ è âñåõ Âàøèõ ïîòîìêîâ.;;x
+your_claims_are_lost_tt;Any §YStrong Claim§! you have on titles held by §Y[other_combatant.GetTitledFirstName]§! are §Rlost§! to you and your descendants.;;;;;;;;;;;Âñå §Yñèëüíûå ïðåòåíçèè§! íà òèòóëû, êîòîðûìè îáëàäàåò §Y[other_combatant.GetTitledFirstName]§!, áóäóò §Róòðà÷åíû§! äëÿ Âàñ è âñåõ Âàøèõ ïîòîìêîâ.;;x
 # Mass Baptism
-NOT_TRUE_BELIEVER;Is NOT a True Believer;;;;;;;;;;;;;x
-NOT_CURRENTLY_BAPTIZING;§Y[Root.GetTitledName]§! is NOT currently sponsoring the conversion of a realm;;;;;;;;;;;;;x
-NOT_ASKED_BAPTISM_RECENTLY;Has NOT recently petitioned for a mass conversion [From.GetBaptismTimer];;;;;;;;;;;;;x
-NOT_BEEN_ASKED_BAPTISM_RECENTLY;§Y[Root.GetTitledName]§! has NOT been recently petitioned for a mass conversion [Root.GetBaptismTimer];;;;;;;;;;;;;x
-NOT_ROOT_RELIGION_PLAYABLE;§Y[Root.GetTitledName]'s§! religion is playable;;;;;;;;;;;;;x
-ALL_PROVINCES_CONVERT_TOOLTIP;All of §Y[Root.GetTitledFirstName]'s§! demesne provinces will become §Y[sponsoring_king.Religion.GetName]§!.;;;;;;;;;;;;;x
+NOT_TRUE_BELIEVER;Is NOT a True Believer;;;;;;;;;;;ÍÅ èñòèííî âåðóþùèé;;x
+NOT_CURRENTLY_BAPTIZING;§Y[Root.GetTitledName]§! is NOT currently sponsoring the conversion of a realm;;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[Root.GetTitledFirstName]§! ÍÅ ñïîíñèðóåò ìàññîâ[Root.GetBaptismPostfixAndNameACC] êàêîé-òî ñòðàíû;;x
+NOT_ASKED_BAPTISM_RECENTLY;Has NOT recently petitioned for a mass conversion [From.GetBaptismTimer];;;;;;;;;;;Óáåäèòåñü, ÷òî â ïîñëåäíåå âðåìÿ ÍÅ ïðîñèëè î ìàññîâîì îáðàùåíèè [From.GetBaptismTimer];;x
+NOT_BEEN_ASKED_BAPTISM_RECENTLY;§Y[Root.GetTitledName]§! has NOT been recently petitioned for a mass conversion [Root.GetBaptismTimer];;;;;;;;;;;Óáåäèòåñü, ÷òî §Y[Root.GetTitledFirstName]§! â ïîñëåäíåå âðåìÿ ÍÅ ïîëó÷àë[Root.GetEndA] ïðîñüá î ìàññîâ[Root.GetBaptismPostfixAndNamePREP] [Root.GetBaptismTimer];;x
+NOT_ROOT_RELIGION_PLAYABLE;§Y[Root.GetTitledName]'s§! religion is playable;;;;;;;;;;;Óáåäèòåñü, ÷òî ðåëèãèÿ, êîòîðóþ èñïîâåäóåò §Y[Root.GetTitledFirstName]§!, äîñòóïíà äëÿ èãðû;;x
+ALL_PROVINCES_CONVERT_TOOLTIP;All of §Y[Root.GetTitledFirstName]'s§! demesne provinces will become §Y[sponsoring_king.Religion.GetName]§!.;;;;;;;;;;;Íàñåëåíèå âñåõ çåìåëü, êîòîðûìè ëè÷íî îáëàäàåò §Y[Root.GetTitledFirstName]§!, ïðèìåò §Y[sponsoring_king.GetReligionFullName]§!.;;x

@@ -1,597 +1,565 @@
-EVTOPTFUS_FROM_TRUTH_BOMB_TT;§Y[From.GetFirstName]§! might be pleased with you.;;;;;;;;;;;;;x
-
-EVTDESC_ZE_12210;Languishing in the dungeon, you have recently made a new friend. It's a small, scruffy rat that keeps coming up to you and cuddling up in your lap.;;;;;;;;;;;;;x
-EVTDESC_ZE_12220;Languishing in my dungeon, one night I suddenly wake up with a cold feeling of apprehension. As I stare into the darkness, a hissing, evil voice speaks to me: 'I am the Dread King of Darkness. This dungeon is my realm, and I demand that you serve me.'.;;;;;;;;;;;;;x
-EVTDESC_ZE_12221;Late one night, the Dread King of Darkness appears to me again: 'Servant! You must find me the three dark stones of sorcery. They have been stolen from me and hidden in this dungeon. Know that I do not abide failure!';;;;;;;;;;;;;x
-EVTDESC_ZE_12222;Eventually, I managed to recover the three dark stones of sorcery for the Dread King of Darkness. They only look like three ordinary little stones, but surely the King will be pleased.;;;;;;;;;;;;;x
-EVTDESC_ZE_12223;I never managed to recover the three dark stones of sorcery. I now fear that the Dread King of Darkness will come and punish me for my failure.;;;;;;;;;;;;;x
-EVTDESC_ZE_12225;My war with the Dread King of Darkness has begun. Every night he sends his legions of ghosts and shadows to assault me.;;;;;;;;;;;;;x
-EVTDESC_ZE_12226;In my valiant nightly battles against the Dread King of Darkness, I have finally reached the tipping point and forced my enemy to his knees.;;;;;;;;;;;;;x
-EVTDESC_ZE_12227;I am exhausted from my nightly battles with the Dread King of Darkness, yet he is steadily advancing against me. It seems that the time for surrender has come.;;;;;;;;;;;;;x
-EVTDESC_ZE_12230;Languishing in the dungeon, I have realized that there is someone in the cell next to me. I can hear [event_ze_12230_prisoner.GetHerHim] sighing, coughing and complaining sometimes.;;;;;;;;;;;;;x
-EVTDESC_ZE_12234;It turns out that my fellow prisoner's name is [From.GetTitledName]. We have had many whispered conversations in the darkness, quickly becoming friends under these dismal circumstances.;;;;;;;;;;;;;x
-EVTDESC_ZE_12236;My attemps to make contact with the other prisoner were met only with silence.;;;;;;;;;;;;;x
-
-EVTDESCA_ZE_12000;I've come across [haughty_events_char_1.GetTitledFirstNameWithNick] kissing one of the servant folk in a hallway.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12002;As I'm spending a pleasant moment alone with the attractive cook, the wretched child [From.GetFirstName] comes upon us and promptly starts chiding me about morals!;;;;;;;;;;;;;x
-EVTDESCA_ZE_12004;[From.GetTitledFirstName] didn't take kindly to my chiding. [From.GetSheHeCap] caught me and gave me a good beating.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12006;[From.GetFirstName], the [GetRootFromInsult], went around and told everyone lies about me, as childish revenge for the deserved beating I gave [From.GetHerHim].;;;;;;;;;;;;;x
-EVTDESCA_ZE_12010;I have seen [affectionate_events_char_1.GetFirstName] looking at my new wooden toy animals.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12012;[From.GetFirstName] has much nicer toys than me, and [From.GetSheHe] asked me if I want to play with them.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12014;[From.GetFirstName] and me played all day with my toys.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12016;[From.GetFirstName] let me play with [From.GetHerHis] toys all day and it was so much fun.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12020;I saw [timid_events_char_1.GetTitledFirstName] being chided publicly for stealing food from the personal stores of the [Root.Liege.GetTitle], but I know [timid_events_char_1.GetSheHe] was elsewhere at the time.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12022;I was wrongfully accused of stealing fine foods from the personal stores of the [Root.Liege.GetTitle]. I also know that young [From.GetFirstName] can confirm I was elsewhere when it happened, but [From.GetSheHe] has refused to step forward and confirm my innocence.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12024;[From.GetTitledFirstName] is very angry with me for not speaking up in [From.GetHerHis] defence.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12026;Since [From.GetFirstName] refused to defend me, many people think I'm a thief and I have lost prestige at court.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12030;[rowdy_events_char_1.GetFirstName] is always so annoying. I think [rowdy_events_char_1.GetSheHe] tries to win against me in games just to spite me!;;;;;;;;;;;;;x
-EVTDESCA_ZE_12032;[From.GetFirstName] is angry with me because I am always winning against [From.GetHerHim] in games.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12034;[From.GetFirstName] got angry and told me to get lost!;;;;;;;;;;;;;x
-EVTDESCA_ZE_12036;[From.GetFirstName] went crazy and started a fist fight with me!;;;;;;;;;;;;;x
-EVTDESCA_ZE_12040;[willful_events_char_1.GetFirstName] is frowning at me. 'Waste of time. It will never fit, you've grown out of it.' [willful_events_char_1.GetSheHe] says. But it's my favorite hat!;;;;;;;;;;;;;x
-EVTDESCA_ZE_12042;[From.GetFirstName] insists that I help [From.GetHerHim] get an old hat to fit. A very futile task as [From.GetSheHe]'s too big for it now as I've already told [From.GetHerHim] several times.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12044;[From.GetFirstName] hit me over the head for not listening to [From.GetHerHim].;;;;;;;;;;;;;x
-EVTDESCA_ZE_12046;[From.GetFirstName] thinks I'm mean for not helping. [From.GetSheHeCap] even stuck [From.GetHerHis] tongue out at me.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12050;[brooding_events_char_1.GetTitledName] promised to take me riding today, but when I came to see [brooding_events_char_1.GetHerHim] [brooding_events_char_1.GetSheHe] was drunk and half asleep.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12052;Sure, I forgot about my promise to take [From.GetFirstName] riding. But now... Now [From.GetSheHe] poured water on me when I was resting. I only had a little bit to drink, and and and I am the [Root.PrimaryTitle.GetRulerTitle]!;;;;;;;;;;;;;x
-EVTDESCA_ZE_12054;[From.GetFirstName] tried to say something, but I couldn't hear what it was. Then [From.GetSheHeCap] got up and raised [From.GetHerHis] fist at me before stumbling and falling. Now [From.GetSheHe] is snoring.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12056;I have a bad headache, and my episode with [From.GetFirstName] is slowly coming back to me. There is no excuse for my behavior. What's worse is that I even got lectured by a child.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12060;[indolent_events_char_1.GetFirstName] has come to get my help, today we are going to cut down some trees. Very hard work [indolent_events_char_1.GetSheHe] says.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12062;As soon as I came to pick up [From.GetFirstName] to help me out cutting down some trees [From.GetSheHe] starts complaining. Apparently [From.GetSheHe] has a nasty stomach ache.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12064;[From.GetFirstName] spanked me when I complained about my stomach ache. Then [From.GetSheHe] grabbed my arm and told me we were going outside.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12066;[From.GetFirstName] apparently has pains in [From.GetHerHis] arm now after I grabbed it and 'cannot use it to cut trees'.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12070;It has been a long day outside and [playful_events_char_1.GetTitledName] says it is time to head back home. [playful_events_char_1.GetSheHeCap] is carrying some heavy bags, maybe this time I can beat [playful_events_char_1.GetHerHim].;;;;;;;;;;;;;x
-EVTDESCA_ZE_12072;After I told [From.GetFirstName] it was time to head on home, [From.GetSheHe] looked at me with a grin on [From.GetHerHis] face and told me to race [From.GetHerHim] home, leaving me to carry everything on my own.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12074;[From.GetFirstName] chased and caught me. Maybe next time I can run fast enough.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12076;[From.GetFirstName] never seems to be grumpy, always playing without a care in the world.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12080;I saw that the private chambers of [conscientious_events_char_1.GetFullName] were very messy. Papers, books and things lying around everywhere!;;;;;;;;;;;;;x
-EVTDESCA_ZE_12082;As I enter my chambers, all of the work I had done in my spare time seems to have been cleaned up and put back. Books are neatly set in alphabetical order and notes have been thrown away. [From.GetFullName] was apparently 'cleaning' earlier.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12084;[From.GetTitledName] didn't like that I was cleaning [From.GetHerHis] chambers, [From.GetSheHe] could not find important books. Now [From.GetSheHe] messed mine up and said I wasn't allowed back in [From.GetHersHis] anymore.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12086;[From.GetFirstName] is quietly cleaning [From.GetHerHis] chambers after my episode in there. Seems like this is a very thorough child.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12090;It's bedtime but I can't find my favorite toy. I have it when I go to sleep.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12092;[From.GetFirstName] says [From.GetHerHis] favorite toy is missing and [From.GetSheHe] won't go to bed without it. I may have thrown it out today when I was tidying up.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12094;[From.GetFirstName] offered to get me a new toy. [From.GetSheHeCap] said we could go find something nice tomorrow.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12096;My offer to purchase a new toy was rejected by [From.GetFirstName]. [From.GetSheHeCap] is upset I would even suggest such a thing.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12100;Today [curious_events_char_1.GetFullName] said [curious_events_char_1.GetSheHe] had to attend to various important matters, and I would have to spend the day alone.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12102;I had told [From.GetFirstName] to stay at home, but just as I finish purchasing my gift to [From.GetHerHim] I turn around and see [From.GetHerHim] trying to hide from me. The surprise is ruined.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12104;[From.GetTitledName] was buying things at the market and [From.GetSheHe] saw me there. Then [From.GetSheHe] pinched my ear and said I should do what I am told. [From.GetSheHeCap] was getting me a treats at the market but now I won't get any!;;;;;;;;;;;;;x
-EVTDESCA_ZE_12106;[From.GetFirstName] didn't react well to my way of correcting [From.GetHerHis] behavior. I fear [From.GetSheHe] is even more suspicious towards me now.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12110;[idolizer_events_char_1.GetTitledName] is so kind to me. And [idolizer_events_char_1.GetSheHe] seems to know so much about everything.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12112;[From.GetFirstName] has written a song in my honor. Apparently [From.GetSheHe] wants me to know that I'm the best person in the world.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12114;[From.GetFirstName] was very happy for my gesture. [From.GetSheHeCap] agreed that [From.GetHerHis] exceptional personality and skill is worthy of songs and praise. Now the others could see [From.GetHerHim] for what [From.GetSheHe] is.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12116;[From.GetFirstName] is no less impressed by me now. It seems I'm quite the idol for [From.GetHerHim].;;;;;;;;;;;;;x
-EVTDESCA_ZE_12211;Recently, you notice that there is something wrong with Flipper. [Root.GetSheHeCap] doesn't scurry around and play like [Root.GetSheHe] used to, [Root.GetSheHe] just lies down and moans pitifully, peering at you with [Root.GetHerHis] little beady eyes. [Root.GetSheHeCap] is obviously sick and starving.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12219;As the guards release you from the dungeon, you take one last look back. You see Flipper staring at you intently for a moment, [Root.GetHerHis] little eyes shining strangely in the half-darkness. Then [Root.GetSheHe] scurries away into a corner and out of sight.;;;;;;;;;;;;;x
-EVTDESCA_ZE_12232;Languishing in the dungeon, I suddenly one day hear a small voice calling to me. It seems there is a young child in the cell next to mine...;;;;;;;;;;;;;x
-
-EVTDESCB_ZE_12000;Walking across the yard, I see [haughty_events_char_1.GetTitledFirstName] angrily beating a dog with a heavy stick.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12002;As I'm spending a pleasant moment alone with the attractive cook, young [From.GetFirstName] comes upon us. However, [From.GetSheHe] only winks in complicity and sneaks away.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12004;As I hit [From.GetHerHim], [From.GetTitledFirstName] turned [From.GetHerHis] anger on me but I managed to escape as the dog bit [From.GetHerHim] in the ankle.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12006;As I turned, the dog bit me in the ankle and [From.GetFirstName] managed to get away, but has since been skulking around eyeing me with hatred.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12010;My nannies are away and as I roam around the grounds I come upon [affectionate_events_char_1.GetTitledFirstName]. [affectionate_events_char_1.GetSheHeCap] looks up and seems interested in conversation.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12012;[From.GetFirstName] has really nice toys but [From.GetSheHe] won't share them with me.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12014;I talked for a long while with [From.GetTitledFirstName]. [From.GetSheHeCap] had many funny things to tell me and we had a really good time.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12016;I spoke at length with [From.GetFirstName] about a great many things. We laughed a lot, and it seems I have made a new friend.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12020;[timid_events_char_1.GetFirstName] seems very nice. Maybe I should ask if [timid_events_char_1.GetSheHe] wants to play?;;;;;;;;;;;;;x
-EVTDESCB_ZE_12022;I was strangely and wrongfully accused of stealing fine foods from the personal stores of the [Root.Liege.GetTitle]. However, young [From.GetFirstName] stepped forward to confirm that I was elsewhere at the time and so the suspicions against me were lifted.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12024;[From.GetFirstName] came over and talked to me, asking if I wanted to be friends.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12026;[From.GetFirstName] eventually stepped forward to defend my honor.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12030;There are so many fun things to do, so many forbidden things. I wonder if [rowdy_events_char_1.GetFirstName] would like to join me in some fun pranks?;;;;;;;;;;;;;x
-EVTDESCB_ZE_12032;[From.GetFirstName] seems content to let me win when we play games.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12034;[From.GetFirstName] joined me and we did all kinds of pranks and tricks, everything except summoning [Root.Religion.GetRandomEvilGodName]!;;;;;;;;;;;;;x
-EVTDESCB2_ZE_12034;[From.GetFirstName] didn't want to play.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12036;Me and [From.GetFirstName] did all kinds of crazy and forbidden things. It was fun!;;;;;;;;;;;;;x
-EVTDESCB_ZE_12040;I'm out playing with [willful_events_char_2.GetFirstName] and we're close to the abandoned haunted house, we're not supposed to go there and [willful_events_char_2.GetFirstName] is looking frightened.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12042;[From.GetFirstName] really wants to go inside the scary haunted house. It looks like it's dangerous and we have been told not to go near it.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12044;[From.GetFirstName] says we have to go back now, and if we don't [From.GetSheHe] will tell on me.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12046;[From.GetFirstName] says [From.GetSheHe] will get someone else to help [From.GetHerHim].;;;;;;;;;;;;;x
-EVTDESCB_ZE_12050;'Try it again,' [brooding_events_char_2.GetFirstName] says. But I can't do it! I can't whistle.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12052;I woke up feeling a bit hung over, and it's already evening. I vaguely recall [From.GetFirstName] looking at me before I fell asleep. I think I had plans with [From.GetHerHim].;;;;;;;;;;;;;x
-EVTDESCB_ZE_12054;[From.GetFirstName] is quietly mumbling some words and rubbing [From.GetHerHis] face. 'Sorry, I'm sorry' [From.GetSheHe] says..;;;;;;;;;;;;;x
-EVTDESCB_ZE_12056;Waking up in my room, I seem to be missing some money. I vaguely remember [From.GetFirstName] being here. Wasn't [From.GetSheHe]?;;;;;;;;;;;;;x
-EVTDESCB_ZE_12060;I've been asked to go fetch some supplies at the market but it's a long walk. [indolent_events_char_2.GetFirstName] is already going to get other things.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12062;Today me and [From.GetFirstName] spent some time outside cutting down trees, no complaints from the young [From.GetBoyGirl] and work was finished early.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12064;[From.GetFirstName] seemed worried and brought me some tea. I have to drink it to get better. I also got some freshly baked bread for when I feel better.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12066;[From.GetFirstName] was happy when I brought [From.GetHerHim] some tea and bread. [From.GetSheHe] should recover soon.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12070;It's late at night and I get out of bed to use the chamberpot. [playful_events_char_2.GetFirstName] starts calling my name and I see a man hiding under the dining table. He notices me and whispers 'psst, come over here'. ;;;;;;;;;;;;;x
-EVTDESCB_ZE_12072;After some hours running errands I was heading back home with [From.GetFirstName]. Just as I told [From.GetHerHim] we were going home [From.GetSheHe] took one of the bags to help carry it without me even asking.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12074;[From.GetFirstName] was not happy that I ran away from [From.GetHerHim] without helping. Now I have to stay indoors all day tomorrow.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12076;[From.GetFirstName] was a little bit let down that I caught up with [From.GetHerHim] and even called me a cheater. Not always winning is a good thing for children to learn.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12080;After supper, me and [conscientious_events_char_2.GetFirstName] were supposed to help do the dishes. But [conscientious_events_char_2.GetFirstName] hid the dirty dishes and wants to go play instead.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12082;After supper, me and [From.GetFirstName] were forced to do dishes. But I was clever and hid them, until [From.GetFirstName] told on me and now I have to do all of it.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12084;[From.GetFirstName] ran away when I told on him. The others said I don't have to do all the work alone. But I was a good [Root.GetBoyGirl] for telling them.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12086;[From.GetFirstName] was very upset with me and told everyone what I did.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12090;Food is on my plate, but steam is coming out of it. I wonder if it's safe to eat? [fussy_events_char_2.GetTitledName] is looking at me.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12092;[From.GetFirstName] was a bit worried about not finding [From.GetHerHis] favorite toy, but seems to have settled down and is now sound asleep. ;;;;;;;;;;;;;x
-EVTDESCB_ZE_12094;[From.GetFirstName] finally found my toy after looking for it everywhere. It was in the trash.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12096;[From.GetFirstName] agreed to go get a new toy the next day and finally settled down.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12100;I woke up early and found a sealed letter addressed to [curious_events_char_2.GetTitledName]. I wonder what it could say?;;;;;;;;;;;;;x
-EVTDESCB_ZE_12102;I come back after a day out fetching some things at the market and see [From.GetFirstName] patiently waiting for me like I asked.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12104;I followed [From.GetTitledName] to the market, but then [From.GetSheHe] caught me. [From.GetSheHeCap] laughed and said I was hopeless.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12106;[From.GetFirstName] Seems regretful that [From.GetSheHe] disobeyed me. Hopefully It won't happen again.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12110;Spending time with [idolizer_events_char_2.GetFirstName] is great. We get along so well. Even when we do chores together time goes by so fast.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12112;[From.GetFirstName] told me that everyone is so kind here. [From.GetSheHeCap] would make sure everyone knew how grateful [From.GetSheHe] is.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12114;[From.GetFirstName] was humbled by the song I had written. But [From.GetSheHeCap] wanted to make a point of being just an ordinary person, and that I shouldn't give [From.GetHerHim] more credit than [From.GetSheHe] deserves.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12116;[From.GetFirstName] seems to have lost [From.GetHerHis] overwhelming affection for me. For better or worse, it's good to learn moderation. I might not be that special after all.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12211;Recently, you notice that there is something wrong with Cuddles. [Root.GetSheHeCap] doesn't scurry around and play like [Root.GetSheHe] used to, [Root.GetSheHe] just lies down and moans pitifully, peering at you with [Root.GetHerHis] little beady eyes. [Root.GetSheHeCap] is obviously sick and starving.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12219;As the guards release you from the dungeon, you take one last look back. You see Cuddles staring at you intently for a moment, [Root.GetHerHis] little eyes shining strangely in the half-darkness. Then [Root.GetSheHe] scurries away into a corner and out of sight.;;;;;;;;;;;;;x
-EVTDESCB_ZE_12232;Languishing in the dungeon, I suddenly one day hear a voice calling out. It seems there is another child in these dungeons, in the cell next to mine...;;;;;;;;;;;;;x
-
-EVTDESCC_ZE_12000;Walking outside, I come upon some commoners along the road. One of them calls out, saying I look lovely today.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12002;As I'm beating a rabid dog in the yard, the little cur [From.GetFirstName] runs up and starts hitting me with a stick.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12004;My treatment of that uppity peasant had the unfortunate effect of making more of them angry.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12010;As I am out playing by myself and taking a break to eat some bread I brought from the kitchens, I suddenly notice a young peasant child staring at me. [Root.GetSheHeCap] looks hungry.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12012;Young [From.GetTitledFirstName] just walked up to me today, striking up conversation. We ended up having a long talk, about a great many things.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12014;You shared your bread with the peasant child, and then you played together for several hours before parting ways. [Root.GetSheHeCap] waved happily as [Root.GetSheHe] ran home.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12020;There's a big dinner feast tonight with many prominent people invited, and it has been decided that I shall perform a song in praise of [Root.Religion.GetRandomGodName] for the guests.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12022;[From.GetFirstName] seems to be checking me out, but doesn't come over and talk.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12024;A roar of laughter rolled through the hall when the guests were told that I had hid in a chest in order to avoid having to sing for them. Several of them then called me over and offered me food and candies.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12030;We are playing outside today, and several of the other children are daring me to climb the tallest watchtower.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12032;[From.GetFirstName] excitedly asks me if I wanted to come along and do forbidden things, pranks and the like.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12034;I rapidly climbed up to the top of the tower. But when climbing down again, I slipped. The fall was very painful, but luckily I wasn't very high up.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12040;I've been out fishing for hours. I still haven't caught a fish as big as that servant's child got yesterday.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12044;After a few more hours, I finally feel something bite. It's a huge fish, probably the biggest fish in [Root.Capital.GetName].;;;;;;;;;;;;;x
-EVTDESCC_ZE_12046;[From.GetFirstName] still wants to go, and will lie and say it was my idea unless I go with [From.GetHerHim].;;;;;;;;;;;;;x
-EVTDESCC_ZE_12050;Everyone was busy at home, so I snuck out to the commoners market. When I got there some children were being mean to a smaller child in ragged clothes.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12052;[From.GetFirstName] wanted to learn to whistle. After trying for a while [From.GetSheHe] asked me 'How come you can do it?';;;;;;;;;;;;;x
-EVTDESCC_ZE_12054;[From.GetFirstName] told me that whistling is easy. That I can do it if I try. But I've tried many times already.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12056;The last thing I remember before falling asleep is apologizing to [From.GetFirstName]. It seems my apology was not what [From.GetSheHe] wanted.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12060;I'm reading a poetry book in my room but the weather is so nice outside. There are some children playing in the sun.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12062;[From.GetFirstName] asked me to get some things for [From.GetHerHim] at the market as I am already going there. [From.GetSheHeCap] is even paying me;;;;;;;;;;;;;x
-EVTDESCC_ZE_12064;[From.GetFirstName] agreed to go get everything if I gave [From.GetHerHim] some extra coin. I should stay in my room so no one knows I'm still home. I've got some time to spend while I'm in here.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12066;Some motivation can give good results, apparently the pain is all gone now after some convincing and [From.GetFirstName] will come join me.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12070;Today I had to help out digging in the garden, but gardening is boring. The gardener is boring too, but maybe?;;;;;;;;;;;;;x
-EVTDESCC_ZE_12072;[playful_events_char_2.GetFirstName] stops calling for me after a while. The man says 'I bet you this gold coin you can't hold your breath until I'm outside'.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12074;Before I knew it, the man was running out through the door. He didn't even look back once.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12076;I heard noises in the middle of the night and when I got up to check on [From.GetFirstName] I had to call out several times. Then [From.GetSheHe] finally answered and I found [From.GetHerHim] under the dining table with a burglar. The guards made quick work of the burglar.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12080;It's getting late but I lost my new vest when I was playing somewhere. If I come back without it everyone will think I'm sloppy!;;;;;;;;;;;;;x
-EVTDESCC_ZE_12082;After supper, me and [From.GetFirstName] had to clean up. But we hid all the dishes where no one could see and now we have been playing all evening.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12084;[From.GetFirstName] was angry with me, but we did finish all the work together. Maybe [From.GetSheHe] doesn't like me any more.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12090;I was invited to the servants' quarters to eat cake with them tonight. But just as I was going there, it started raining.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12092;At the table today, [From.GetFirstName] complained about the food being too hot without even touching it.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12094;[From.GetFirstName] reached over the table and touched my food with [From.GetHerHis] whole hand. [From.GetSheHeCap] said it was not too hot to eat.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12096;I found the toy [From.GetFirstName] was crying about after going through the trash. But now [From.GetSheHe] is not satisfied because it smells.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12100;Suddenly I hear something moving around in the bushes next to me. I ask who's there but there's no response.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12102;I could hear someone sneaking around inside and believed it to be a burglar. When I went downstairs I discovered [From.GetFirstName] opening one of my letters.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12104;[From.GetTitledName] saw me opening the letter and grabbed me by the hand. Then he cut my finger with the paper and said I should keep my nose out of others business.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12106;[From.GetFirstName] seems even more interested in the letter now that [From.GetSheHe] knows it's forbidden.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12110;I have been praying with the [Root.Religion.GetPriestTitle] for a while and some of the other people in the temple are getting ready to leave.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12112;[From.GetFirstName] tells me that [From.GetSheHe] really loves spending time with me. I make [From.GetHerHis] days so much better.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12114;[From.GetFirstName] said that I'm also wonderful to be around. Then [From.GetSheHe] gave me a kiss on the cheek and ran away.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12116;[From.GetFirstName] said that I'm also wonderful to be around. Then [From.GetSheHe] gave me a kiss on the cheek and ran away.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12211;Recently, you notice that there is something wrong with Smelly. [Root.GetSheHeCap] doesn't scurry around and play like [Root.GetSheHe] used to, [Root.GetSheHe] just lies down and moans pitifully, peering at you with [Root.GetHerHis] little beady eyes. [Root.GetSheHeCap] is obviously sick and starving.;;;;;;;;;;;;;x
-EVTDESCC_ZE_12219;As the guards release you from the dungeon, you take one last look back. You see Smelly staring at you intently for a moment, [Root.GetHerHis] little eyes shining strangely in the half-darkness. Then [Root.GetSheHe] scurries away into a corner and out of sight.;;;;;;;;;;;;;x
-
-EVTDESCD_ZE_12002;As I'm beating a rabid dog in the yard, little [From.GetFirstName] runs up and joins in the beating.;;;;;;;;;;;;;x
-EVTDESCD_ZE_12004;My treatment of that uppity peasant really put him and the others in their place.;;;;;;;;;;;;;x
-EVTDESCD_ZE_12012;Young [From.GetTitledFirstName] just walked up to me today, and as I was about to greet [From.GetHerHim], [From.GetSheHe] just stuck [From.GetHerHis] tongue out and ran away...;;;;;;;;;;;;;x
-EVTDESCD_ZE_12014;You shared your bread with the child and then you played together for a while, until your nannies came and angrily interrupted you. As your friend ran away, the nannies said they'd tell [Educator.GetTitledFirstName] that you had been bad.;;;;;;;;;;;;;x
-EVTDESCD_ZE_12022;[From.GetFirstName] came over to me and said [From.GetSheHe] wanted us to be friends!;;;;;;;;;;;;;x
-EVTDESCD_ZE_12024;The guests were all very offended at my refusal to sing for them.;;;;;;;;;;;;;x
-EVTDESCD_ZE_12032;[From.GetFirstName] asks me if I wanted to play dice.;;;;;;;;;;;;;x
-EVTDESCD_ZE_12034;Agile as a squirrel, I rapidly climbed up the tower and then down again. Everyone was very impressed.;;;;;;;;;;;;;x
-EVTDESCD_ZE_12044;I'm just about to give up, but then it happened. I caught a fish, but it's not very big.;;;;;;;;;;;;;x
-EVTDESCD_ZE_12046;[From.GetFirstName] said I was right and we went back home, away from the scary house.;;;;;;;;;;;;;x
-EVTDESCD_ZE_12052;[From.GetFirstName] asked me to teach [From.GetHerHim] how to whistle. I must have inspired [From.GetHerHim], now [From.GetSheHe] has been at it for hours.;;;;;;;;;;;;;x
-EVTDESCD_ZE_12054;[From.GetFirstName] said that not everyone learns to whistle. Some can never do it.;;;;;;;;;;;;;x
-EVTDESCD_ZE_12056;I wake up, and [From.GetFirstName] is still by my side. [From.GetSheHeCap] has brought me some water to drink, and covered me with a blanket. I don't deserve treatment like this. But if [From.GetSheHe] sees good in me...;;;;;;;;;;;;;x
-EVTDESCD_ZE_12062;[From.GetFirstName] came with me to the market today, we both had to go get some groceries and had time to talk a lot.;;;;;;;;;;;;;x
-EVTDESCD_ZE_12064;[From.GetFirstName] didn't want to help me out. [From.GetSheHeCap] is already heading out.;;;;;;;;;;;;;x
-EVTDESCD_ZE_12072;[From.GetFirstName] was not in [From.GetHerHis] his room and I was starting to get worried. When [From.GetSheHe] finally answered I found [From.GetHerHim] staring at a burglar who was trying to hide from me.;;;;;;;;;;;;;x
-EVTDESCD_ZE_12074;[From.GetFirstName] seemed shocked when [From.GetSheHe] found me. The guards came and took the man hiding under the table. They said he was a bad man and I should stay away from strangers.;;;;;;;;;;;;;x
-EVTDESCD_ZE_12084;I was out too long in the evening, and it hurts when I breathe. The adults say I have to rest a lot.;;;;;;;;;;;;;x
-EVTDESCD_ZE_12092;[From.GetFirstName] was very happy at dinner today, eating with great appetite.;;;;;;;;;;;;;x
-EVTDESCD_ZE_12094;[From.GetFirstName] seemed angry with me and told me to wait until I felt the food's temperature was just right. Now its cool enough.;;;;;;;;;;;;;x
-EVTDESCD_ZE_12096;[From.GetFirstName] finally fell asleep after I found [From.GetHerHis] toy.;;;;;;;;;;;;;x
-EVTDESCD_ZE_12102;I had expected some letters today but couldn't find any. I was suspicious at first but when I asked [From.GetFirstName] [From.GetSheHe] pointed to a table where they were already sorted for me, untouched.;;;;;;;;;;;;;x
-EVTDESCD_ZE_12104;[From.GetTitledName] came downstairs just as I was opening the letter but [From.GetSheHe] wasn't angry with me. [From.GetSheHeCap] told me it is considered rude to go through other people's belongings.;;;;;;;;;;;;;x
-EVTDESCD_ZE_12106;After talking to [From.GetFirstName] [From.GetSheHe] seems to understand the concept of privacy better.;;;;;;;;;;;;;x
-EVTDESCD_ZE_12112;[From.GetFirstName] and I always get along well and now [From.GetSheHe] told me that we should stay friends forever.;;;;;;;;;;;;;x
-EVTDESCD_ZE_12114;[From.GetFirstName] seemed a bit uneasy when I told [From.GetHerHim] how I felt. [From.GetSheHeCap] said that it was a nice thing to say, but maybe we should spend less time together.;;;;;;;;;;;;;x
-EVTDESCD_ZE_12116;[From.GetFirstName] seemed a bit uneasy when I told [From.GetHerHim] how I felt. [From.GetSheHeCap] said that it was a nice thing to say, but maybe we should spend less time together.;;;;;;;;;;;;;x
-
-EVTDESCE_ZE_12054;The bullies all scatter when I tell them to stop. The small child looks at me and asks for food without mentioning the others and what they did. Is this how commoners live?;;;;;;;;;;;;;x
-EVTDESCE_ZE_12056;[From.GetFirstName] seems a bit frustrated by [From.GetHerHis] failed attempts. [From.GetSheHeCap] doesn't seem to respond well to my encouraging words.;;;;;;;;;;;;;x
-EVTDESCE_ZE_12064;The other children are chasing each other, lots of running and jumping.;;;;;;;;;;;;;x
-EVTDESCE_ZE_12074;We had some time to play before we finished all of the work.;;;;;;;;;;;;;x
-EVTDESCE_ZE_12084;Yes! I found my vest and no one will even know it was missing.;;;;;;;;;;;;;x
-EVTDESCE_ZE_12094;I ran very fast and I made it in time. We had lots of fun and the servants seem to like me.;;;;;;;;;;;;;x
-EVTDESCE_ZE_12096;No matter what I do or avoid doing, there seems to be no good way to make [From.GetFirstName] relax. [From.GetSheHeCap] won't eat at all now and I have no more energy to deal with it.;;;;;;;;;;;;;x
-EVTDESCE_ZE_12104;It was a big disgusting rat. It hissed and bit me in the hand and now it hurts, a lot!;;;;;;;;;;;;;x
-EVTDESCE_ZE_12114;After a whole night of religious ritual, I started getting hungry and my mind wandered. Maybe [Root.Religion.GetRandomGodName] is happy with the time I spent here.;;;;;;;;;;;;;x
-
-EVTDESCF_ZE_12056;[From.GetFirstName] went back to [From.GetHerHis] room to do other things now.;;;;;;;;;;;;;x
-EVTDESCF_ZE_12074;She was not ticklish, and now she is telling everybody what a hassle I am to have around.;;;;;;;;;;;;;x
-EVTDESCF_ZE_12094;I made it to the servants' quarters, but I got very wet. Then we had a good time and they felt sorry for me having to go out in the cold..;;;;;;;;;;;;;x
-EVTDESCF_ZE_12096;[From.GetFirstName] finally decided to eat [From.GetHerHis] food.;;;;;;;;;;;;;x
-EVTDESCF_ZE_12104;I found an injured bird, it seems to have fallen from its nest. Maybe I can keep it as a pet while it recovers.;;;;;;;;;;;;;x
-
-EVTOPTA_ZE_12000;It's inappropriate, and I will tell [haughty_events_char_1.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTA_ZE_12002;I'll catch the brat and give [From.GetHerHim] a good hiding!;;;;;;;;;;;;;x
-EVTOPTA_ZE_12004;The [GetRootFromInsult]! I will tell everyone!;;;;;;;;;;;;;x
-EVTOPTA_ZE_12010;I could let [affectionate_events_char_1.GetHerHim] play with them.;;;;;;;;;;;;;x
-EVTOPTA_ZE_12012;Yes, that would be nice!;;;;;;;;;;;;;x
-EVTOPTA_ZE_12014;It's so nice to share with others!;;;;;;;;;;;;;x
-EVTOPTA_ZE_12016;Let's play again sometime!;;;;;;;;;;;;;x
-EVTOPTA_ZE_12020;No one would listen to me anyway...;;;;;;;;;;;;;x
-EVTOPTA_ZE_12022;The little wretch!;;;;;;;;;;;;;x
-EVTOPTA_ZE_12024;What? It's not my problem!;;;;;;;;;;;;;x
-EVTOPTA_ZE_12026;I shall remember this.;;;;;;;;;;;;;x
-EVTOPTA_ZE_12030;I'll tell [rowdy_events_char_1.GetHerHim] to stop!;;;;;;;;;;;;;x
-EVTOPTA_ZE_12030_TOOLTIP1;The matter escalates...\n;;;;;;;;;;;;;x
-EVTOPTA_ZE_12032;I'll tell [From.GetHerHim] to get lost!;;;;;;;;;;;;;x
-EVTOPTA_ZE_12034;Fist fiiiiight!;;;;;;;;;;;;;x
-EVTOPTA_ZE_12036;Come on then, you [GetRootFromInsult]!;;;;;;;;;;;;;x
-EVTOPTA_ZE_12040;It will fit if you help me.;;;;;;;;;;;;;x
-EVTOPTA_ZE_12042;No child tells me what to do.;;;;;;;;;;;;;x
-EVTOPTA_ZE_12044;[From.GetSheHeCap]'s a meanie!;;;;;;;;;;;;;x
-EVTOPTA_ZE_12046;Well [From.GetSheHe]'s stupid.;;;;;;;;;;;;;x
-EVTOPTA_ZE_12050;Pour some water on [brooding_events_char_1.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTA_ZE_12052;I'll show [From.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTA_ZE_12054;My life will never be like this.;;;;;;;;;;;;;x
-EVTOPTA_ZE_12056;I have seen better days.;;;;;;;;;;;;;x
-EVTOPTA_ZE_12060;Ouch, my stomach hurts suddenly.;;;;;;;;;;;;;x
-EVTOPTA_ZE_12062;Indolent brat, I'll show [From.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTA_ZE_12064;Now I can't use my arm to cut trees.;;;;;;;;;;;;;x
-EVTOPTA_ZE_12066;Hopeless...;;;;;;;;;;;;;x
-EVTOPTA_ZE_12070;Race me!;;;;;;;;;;;;;x
-EVTOPTA_ZE_12072;Race [From.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTA_ZE_12074;[From.GetSheHeCap] is so fast.;;;;;;;;;;;;;x
-EVTOPTA_ZE_12076;It will change.;;;;;;;;;;;;;x
-EVTOPTA_ZE_12080;I will sort it out for [conscientious_events_char_1.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTA_ZE_12082;I'll mess up [From.GetHerHis] chambers.;;;;;;;;;;;;;x
-EVTOPTA_ZE_12084;Now I have to clean again.;;;;;;;;;;;;;x
-EVTOPTA_ZE_12086;Maybe I shouldn't have.;;;;;;;;;;;;;x
-EVTOPTA_ZE_12090;I can't sleep without it!;;;;;;;;;;;;;x
-EVTOPTA_ZE_12092;I'll offer to buy a new one.;;;;;;;;;;;;;x
-EVTOPTA_ZE_12094;It's not the same, I want my toy!;;;;;;;;;;;;;x
-EVTOPTA_ZE_12096;There is no pleasing this child.;;;;;;;;;;;;;x
-EVTOPTA_ZE_12100;I will follow [curious_events_char_1.GetHerHim] to see what [curious_events_char_1.GetSheHe] is up to!;;;;;;;;;;;;;x
-EVTOPTA_ZE_12102;I'll grab [From.GetHerHim] by the ear and have a serious talk.;;;;;;;;;;;;;x
-EVTOPTA_ZE_12104;[From.GetSheHeCap] is hiding something.;;;;;;;;;;;;;x
-EVTOPTA_ZE_12106;Worrying.;;;;;;;;;;;;;x
-EVTOPTA_ZE_12110;I'll write [idolizer_events_char_1.GetHerHim] a song!;;;;;;;;;;;;;x
-EVTOPTA_ZE_12112;I can tell stories to impress [From.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTA_ZE_12114;I wish [From.GetSheHe] was my [From.GetFatherMother].;;;;;;;;;;;;;x
-EVTOPTA_ZE_12116;I hope I'm a good influence on [From.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTA_ZE_12210;I name you Flipper.;;;;;;;;;;;;;x
-EVTOPTA_ZE_12211;I'll share my food with [Root.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTA_ZE_12219;I'll never forget you, Flipper!;;;;;;;;;;;;;x
-EVTOPTA_ZE_12220;Yes, I will serve you!;;;;;;;;;;;;;x
-EVTOPTA_ZE_12221;I will use force to find them!;;;;;;;;;;;;;x
-EVTOPTA_ZE_12222;I am a hero, his most valuable servant!;;;;;;;;;;;;;x
-EVTOPTA_ZE_12223;If I hide in the corner maybe he won't find me.;;;;;;;;;;;;;x
-EVTOPTA_ZE_12225;I must strike back with all my power!;;;;;;;;;;;;;x
-EVTOPTA_ZE_12226;I rule in this dungeon!;;;;;;;;;;;;;x
-EVTOPTA_ZE_12227;I should never have challenged him!;;;;;;;;;;;;;x
-EVTOPTA_ZE_12230;I'll try and talk to [event_ze_12230_prisoner.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTA_ZE_12232;Finally someone to talk to!;;;;;;;;;;;;;x
-EVTOPTA_ZE_12234;I feel less lonely now.;;;;;;;;;;;;;x
-EVTOPTA_ZE_12236;Everybody hates me.;;;;;;;;;;;;;x
-
-EVTOPTB_ZE_12000;It's our secret, right?;;;;;;;;;;;;;x
-EVTOPTB_ZE_12002;It doesn't matter.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12004;I'll hide so [From.GetSheHe] doesn't find me again.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12010;Yes, I have nicer toys than [affectionate_events_char_1.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTB_ZE_12012;No, those toys are silly anyway!;;;;;;;;;;;;;x
-EVTOPTB_ZE_12014;Let's play again soon!;;;;;;;;;;;;;x
-EVTOPTB_ZE_12016;What a nice child!;;;;;;;;;;;;;x
-EVTOPTB_ZE_12020;I must speak up for [timid_events_char_1.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTB_ZE_12022;Alas, I cannot blame the child for being timid.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12024;I should step forward now, it's not too late!;;;;;;;;;;;;;x
-EVTOPTB_ZE_12026;I can tell it took courage to speak up.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12030;It doesn't matter, [rowdy_events_char_1.GetSheHe] can win.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12032;I'll just avoid [From.GetHerHim] from now on.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12034;I'll walk away, it's not worth it.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12036;Let's do it again sometime!;;;;;;;;;;;;;x
-EVTOPTB_ZE_12040;Give the hat to someone younger.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12042;Give in to demands.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12044;Someone else can make it fit.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12046;At least [From.GetSheHe] knows what [From.GetSheHe] wants.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12050;Leave [brooding_events_char_1.GetHerHim] alone.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12052;I'm sorry [From.GetFirstName].;;;;;;;;;;;;;x
-EVTOPTB_ZE_12054;Take some money while [From.GetSheHe] is sleeping.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12056;That brat.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12060;I'll cut down the biggest one.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12062;Maybe there's something wrong with [From.GetHerHim]?;;;;;;;;;;;;;x
-EVTOPTB_ZE_12064;I'm coming, I'm coming!;;;;;;;;;;;;;x
-EVTOPTB_ZE_12066;Poor child.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12070;Help [playful_events_char_1.GetHerHim] with the bags.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12072;Lecture [From.GetHerHim] about responsibilities.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12074;[From.GetFirstName] is a cheater.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12076;[From.GetSheHeCap] will thank me later.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12080;So much to do outside.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12082;Cleaning is not my virtue...;;;;;;;;;;;;;x
-EVTOPTB_ZE_12084;[From.GetSheHeCap] is a meanie and I will tell everyone!;;;;;;;;;;;;;x
-EVTOPTB_ZE_12086;That little monster.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12090;I'm a big [Root.GetBoyGirl] now.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12092;Guess I have to go find it.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12094;Ok then.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12096;What a relief.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12100;I can play all day!;;;;;;;;;;;;;x
-EVTOPTB_ZE_12102;I can't blame [From.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTB_ZE_12104;I should apologize.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12106;There is hope for the child.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12110;I should tell the courtiers that I like it here.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12112;I'm just a responsible adult.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12114;What a dufus.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12116;The older they get...;;;;;;;;;;;;;x
-EVTOPTB_ZE_12210;I name you Cuddles.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12211;There's not enough.;;;;;;;;;;;;;x
-EVTOPTB_ZE_12219;I'll never forget you, Cuddles!;;;;;;;;;;;;;x
-EVTOPTB_ZE_12220;Never!;;;;;;;;;;;;;x
-EVTOPTB_ZE_12221;I shall use my cunning!;;;;;;;;;;;;;x
-EVTOPTB_ZE_12225;I must evade, dodge and use my cunning!;;;;;;;;;;;;;x
-EVTOPTB_ZE_12230;What's the point?;;;;;;;;;;;;;x
-EVTOPTB_ZE_12232;I have no need for friends here.;;;;;;;;;;;;;x
-
-EVTOPTC_ZE_12000;I'll pick up a stick and beat [haughty_events_char_1.GetHerHim] instead!;;;;;;;;;;;;;x
-EVTOPTC_ZE_12002;I should bring [From.GetHerHim] some candy later.;;;;;;;;;;;;;x
-EVTOPTC_ZE_12004;[From.GetSheHeCap] will find I am a fierce enemy!;;;;;;;;;;;;;x
-EVTOPTC_ZE_12010;I'll talk to [affectionate_events_char_1.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTC_ZE_12012;I hate [From.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTC_ZE_12014;I want more friends like this!;;;;;;;;;;;;;x
-EVTOPTC_ZE_12020;I'll wait a little, [timid_events_char_1.GetSheHe] could come to me...;;;;;;;;;;;;;x
-EVTOPTC_ZE_12022;All is good then!;;;;;;;;;;;;;x
-EVTOPTC_ZE_12024;Umm... no, I have to go.;;;;;;;;;;;;;x
-EVTOPTC_ZE_12030;I'll ask [rowdy_events_char_1.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTC_ZE_12032;That's all fine then.;;;;;;;;;;;;;x
-EVTOPTC_ZE_12034;We should do this every day!;;;;;;;;;;;;;x
-EVTOPTC_ZE_12040;Go inside.;;;;;;;;;;;;;x
-EVTOPTC_ZE_12042;I don't want to go in there.;;;;;;;;;;;;;x
-EVTOPTC_ZE_12044;Come, or I'll say it was your idea.;;;;;;;;;;;;;x
-EVTOPTC_ZE_12046;I'm so angry!;;;;;;;;;;;;;x
-EVTOPTC_ZE_12050;How come you can do it?;;;;;;;;;;;;;x
-EVTOPTC_ZE_12052;I feel sick.;;;;;;;;;;;;;x
-EVTOPTC_ZE_12054;[From.GetFirstName] is not a grown up.;;;;;;;;;;;;;x
-EVTOPTC_ZE_12056;I'm in a sad state.;;;;;;;;;;;;;x
-EVTOPTC_ZE_12060;Pay [indolent_events_char_2.GetHerHim] to get your groceries.;;;;;;;;;;;;;x
-EVTOPTC_ZE_12060_TOOLTIP;May not take the offer.\n;;;;;;;;;;;;;x
-EVTOPTC_ZE_12062;Job well done.;;;;;;;;;;;;;x
-EVTOPTC_ZE_12064;Oh tea and fresh bread!;;;;;;;;;;;;;x
-EVTOPTC_ZE_12066;Suddenly better, that's great.;;;;;;;;;;;;;x
-EVTOPTC_ZE_12070;Hide with the man.;;;;;;;;;;;;;x
-EVTOPTC_ZE_12072;Bless the child.;;;;;;;;;;;;;x
-EVTOPTC_ZE_12074;Everyone here is so boring.;;;;;;;;;;;;;x
-EVTOPTC_ZE_12076;Thank [Root.Religion.GetRandomGodName] I found [From.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTC_ZE_12080;I have to tell on [conscientious_events_char_2.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTC_ZE_12082;Unfair! I'll run away.;;;;;;;;;;;;;x
-EVTOPTC_ZE_12084;I will do it myself.;;;;;;;;;;;;;x
-EVTOPTC_ZE_12090;It's too hot.;;;;;;;;;;;;;x
-EVTOPTC_ZE_12092;One more step towards growing up.;;;;;;;;;;;;;x
-EVTOPTC_ZE_12094;It stinks!;;;;;;;;;;;;;x
-EVTOPTC_ZE_12096;It stinks!;;;;;;;;;;;;;x
-EVTOPTC_ZE_12100;Place it on the table and ask about it later.;;;;;;;;;;;;;x
-EVTOPTC_ZE_12102;I should give [From.GetHerHim] some treats.;;;;;;;;;;;;;x
-EVTOPTC_ZE_12104;[From.GetSheHeCap] is so much fun!;;;;;;;;;;;;;x
-EVTOPTC_ZE_12106;Maybe I should have dealt with it differently.;;;;;;;;;;;;;x
-EVTOPTC_ZE_12110;Everything is better when [idolizer_events_char_2.GetSheHe] is around.;;;;;;;;;;;;;x
-EVTOPTC_ZE_12112;[From.GetSheHeCap] is a joy to have around.;;;;;;;;;;;;;x
-EVTOPTC_ZE_12114;What a hero.;;;;;;;;;;;;;x
-EVTOPTC_ZE_12116;What a sweetie.;;;;;;;;;;;;;x
-EVTOPTC_ZE_12210;I name you Smelly.;;;;;;;;;;;;;x
-EVTOPTC_ZE_12219;I'll never forget you, Smelly!;;;;;;;;;;;;;x
-
-EVTOPTD_ZE_12000;I think I'll join in!;;;;;;;;;;;;;x
-EVTOPTD_ZE_12002;I'll show the [GetRootFromInsult]!;;;;;;;;;;;;;x
-EVTOPTD_ZE_12004;Now, where are my toys...?;;;;;;;;;;;;;x
-EVTOPTD_ZE_12010;I'll stick my tongue out at [affectionate_events_char_1.GetHerHim] and run away!;;;;;;;;;;;;;x
-EVTOPTD_ZE_12012;How nice!;;;;;;;;;;;;;x
-EVTOPTD_ZE_12014;I'll come see you again tomorrow!;;;;;;;;;;;;;x
-EVTOPTD_ZE_12020;Yes, we should play!;;;;;;;;;;;;;x
-EVTOPTD_ZE_12022;I'll go and talk to [From.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTD_ZE_12024;Yes, let's play!;;;;;;;;;;;;;x
-EVTOPTD_ZE_12030;Or maybe we should just play dice instead.;;;;;;;;;;;;;x
-EVTOPTD_ZE_12032;Yes!;;;;;;;;;;;;;x
-EVTOPTD_ZE_12034;That was fun, now let's play dice.;;;;;;;;;;;;;x
-EVTOPTD_ZE_12040;Turn back.;;;;;;;;;;;;;x
-EVTOPTD_ZE_12042;I can do this.;;;;;;;;;;;;;x
-EVTOPTD_ZE_12044;You're right.;;;;;;;;;;;;;x
-EVTOPTD_ZE_12046;Don't mess with [Root.GetFirstName].;;;;;;;;;;;;;x
-EVTOPTD_ZE_12050;Keep trying.;;;;;;;;;;;;;x
-EVTOPTD_ZE_12052;It's easy, you can do it.;;;;;;;;;;;;;x
-EVTOPTD_ZE_12054;Comfort [From.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTD_ZE_12056;I can change. I will change.;;;;;;;;;;;;;x
-EVTOPTD_ZE_12060;Join up with [indolent_events_char_2.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTD_ZE_12062;Very easy money.;;;;;;;;;;;;;x
-EVTOPTD_ZE_12064;Maybe I should help [From.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTD_ZE_12070;Answer [playful_events_char_2.GetFirstName].;;;;;;;;;;;;;x
-EVTOPTD_ZE_12072;Easy money.;;;;;;;;;;;;;x
-EVTOPTD_ZE_12074;I win, easy.;;;;;;;;;;;;;x
-EVTOPTD_ZE_12080;No one will find out!;;;;;;;;;;;;;x
-EVTOPTD_ZE_12082;Stupid dishes.;;;;;;;;;;;;;x
-EVTOPTD_ZE_12084;I can spend time reading.;;;;;;;;;;;;;x
-EVTOPTD_ZE_12090;I should trust [fussy_events_char_2.GetFirstName].;;;;;;;;;;;;;x
-EVTOPTD_ZE_12092;Touch the food to make sure.;;;;;;;;;;;;;x
-EVTOPTD_ZE_12094;Oh I thought I had lost it.;;;;;;;;;;;;;x
-EVTOPTD_ZE_12096;Oh I thought I had lost it.;;;;;;;;;;;;;x
-EVTOPTD_ZE_12100;I should find out. It could be important.;;;;;;;;;;;;;x
-EVTOPTD_ZE_12102;I'll teach [From.GetHerHim] to be less nosy.;;;;;;;;;;;;;x
-EVTOPTD_ZE_12104;That was a secret letter!;;;;;;;;;;;;;x
-EVTOPTD_ZE_12106;A step in the right direction.;;;;;;;;;;;;;x
-EVTOPTD_ZE_12110;I will stay friends with [idolizer_events_char_2.GetHerHim] forever.;;;;;;;;;;;;;x
-EVTOPTD_ZE_12112;I'll kiss [From.GetFirstName] on the cheek.;;;;;;;;;;;;;x
-EVTOPTD_ZE_12114;Grownups can do anything.;;;;;;;;;;;;;x
-EVTOPTD_ZE_12116;I don't like [From.GetHerHim] anyway...;;;;;;;;;;;;;x
-EVTOPTD_ZE_12210;Hello, food...;;;;;;;;;;;;;x
-
-EVTOPTE_ZE_12000;I'll see him punished for addressing me like that!;;;;;;;;;;;;;x
-EVTOPTE_ZE_12000_TOOLTIP1;Peasants get angry.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12000_TOOLTIP2;Peasants are subdued.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12002;How weak, how adorable.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12004;We'll deal with them as they deserve.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12010;I'll share my bread with [Root.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTE_ZE_12010_TOOLTIP1;You do a good deed.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12010_TOOLTIP2;You do a good deed, but someone sees you...;;;;;;;;;;;;;x
-EVTOPTE_ZE_12012;Begone, [GetRootFromInsult]!;;;;;;;;;;;;;x
-EVTOPTE_ZE_12014;This was fun!;;;;;;;;;;;;;x
-EVTOPTE_ZE_12020;No way!;;;;;;;;;;;;;x
-EVTOPTE_ZE_12020_TOOLTIP1;Guests are amused.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12020_TOOLTIP2;Guests are offended.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12022;What's [From.GetSheHe] staring at? It's annoying!;;;;;;;;;;;;;x
-EVTOPTE_ZE_12024;Oh yes!;;;;;;;;;;;;;x
-EVTOPTE_ZE_12030;I'm not afraid!;;;;;;;;;;;;;x
-EVTOPTE_ZE_12030_TOOLTIP1;Slipped while climbing.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12030_TOOLTIP2;Up and down like a squirrel.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12032;No, I'm a good [Root.GetBoyGirl].;;;;;;;;;;;;;x
-EVTOPTE_ZE_12034;What a shame.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12040;If I wait long enough.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12040_TOOLTIP1;Catch something.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12040_TOOLTIP2;Waste time.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12044;They will tell stories of today.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12050;Stop them.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12052;Not everyone can do it.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12054;Everyone can do it but me.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12056;Many things seem to trouble this child.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12060;Go see what they are doing.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12062;I refuse!;;;;;;;;;;;;;x
-EVTOPTE_ZE_12064;I could use a nap right now.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12070;I can tickle her.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12070_TOOLTIP1;Gardener is tickly.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12070_TOOLTIP2;Gardener doesn't appreciate tickling.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12072;Call for [playful_events_char_2.GetFirstName].;;;;;;;;;;;;;x
-EVTOPTE_ZE_12074;I wonder who that was.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12080;I have to go look for it.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12080_TOOLTIP1;Becoming ill;;;;;;;;;;;;;x
-EVTOPTE_ZE_12080_TOOLTIP2;Successful find;;;;;;;;;;;;;x
-EVTOPTE_ZE_12082;We had so much fun together.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12084;The grownups are happy.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12090;I can make it if I run.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12090_TOOLTIP1;Make it with no effort;;;;;;;;;;;;;x
-EVTOPTE_ZE_12090_TOOLTIP2;Out in the cold too long;;;;;;;;;;;;;x
-EVTOPTE_ZE_12092;Let [From.GetHerHim] wait.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12094;But now [From.GetSheHe] touched it.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12096;Hopeless.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12100;I should investigate.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12100_TOOLTIP1;Find something nasty.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12100_TOOLTIP2;Find a friend.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12102;[From.GetSheHeCap] could use some practice reading.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12104;It wasn't mine to read.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12110;[Root.Religion.GetRandomGodNameCap] will notice my dedication.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12112;[From.GetSheHeCap] is kind. But I don't feel that way.;;;;;;;;;;;;;x
-EVTOPTE_ZE_12114;[From.GetSheHeCap] is the best.;;;;;;;;;;;;;x
-
-EVTOPTF_ZE_12000;I'll nod and accept the compliment graciously.;;;;;;;;;;;;;x
-EVTOPTF_ZE_12002;There's room for everyone.;;;;;;;;;;;;;x
-EVTOPTF_ZE_12004;I know how to handle these things.;;;;;;;;;;;;;x
-EVTOPTF_ZE_12010;I'll leave before [Root.GetSheHe] tries to steal from me!;;;;;;;;;;;;;x
-EVTOPTF_ZE_12012;What a strange child.;;;;;;;;;;;;;x
-EVTOPTF_ZE_12014;But [Root.GetSheHe] is my friend!;;;;;;;;;;;;;x
-EVTOPTF_ZE_12020;Yes, I will sing.;;;;;;;;;;;;;x
-EVTOPTF_ZE_12022;How nice!;;;;;;;;;;;;;x
-EVTOPTF_ZE_12024;I don't care.;;;;;;;;;;;;;x
-EVTOPTF_ZE_12030;No... it's too high.;;;;;;;;;;;;;x
-EVTOPTF_ZE_12032;Sounds like fun!;;;;;;;;;;;;;x
-EVTOPTF_ZE_12034;Owww!;;;;;;;;;;;;;x
-EVTOPTF_ZE_12040;Go home.;;;;;;;;;;;;;x
-EVTOPTF_ZE_12044;At least I tried.;;;;;;;;;;;;;x
-EVTOPTF_ZE_12050;Noone can know I'm here.;;;;;;;;;;;;;x
-EVTOPTF_ZE_12052;[From.GetSheHeCap]'ll get it right soon.;;;;;;;;;;;;;x
-EVTOPTF_ZE_12054;I am good at other things.;;;;;;;;;;;;;x
-EVTOPTF_ZE_12056;I'm glad [From.GetSheHe] doesn't dwell too much on these things.;;;;;;;;;;;;;x
-EVTOPTF_ZE_12060;Keep on reading.;;;;;;;;;;;;;x
-EVTOPTF_ZE_12062;[From.GetFirstName] is so kind.;;;;;;;;;;;;;x
-EVTOPTF_ZE_12064;Read a book about money.;;;;;;;;;;;;;x
-EVTOPTF_ZE_12070;Hard work is good for discipline.;;;;;;;;;;;;;x
-EVTOPTF_ZE_12072;Guards!;;;;;;;;;;;;;x
-EVTOPTF_ZE_12074;Nothing has to be boring.;;;;;;;;;;;;;x
-EVTOPTF_ZE_12080;I can explain when I get back.;;;;;;;;;;;;;x
-EVTOPTF_ZE_12084;I feel terrible.;;;;;;;;;;;;;x
-EVTOPTF_ZE_12090;I don't want to get wet, I'll wait.;;;;;;;;;;;;;x
-EVTOPTF_ZE_12092;That's nice.;;;;;;;;;;;;;x
-EVTOPTF_ZE_12094;I guess it's fine.;;;;;;;;;;;;;x
-EVTOPTF_ZE_12096;Peace at last.;;;;;;;;;;;;;x
-EVTOPTF_ZE_12100;I should tell someone.;;;;;;;;;;;;;x
-EVTOPTF_ZE_12102;[From.GetSheHeCap] is a joy to have around.;;;;;;;;;;;;;x
-EVTOPTF_ZE_12104;It's probably a boring letter anyway.;;;;;;;;;;;;;x
-EVTOPTF_ZE_12110;I can collect alms to keep for myself.;;;;;;;;;;;;;x
-EVTOPTF_ZE_12112;I can always count on [From.GetFirstName].;;;;;;;;;;;;;x
-EVTOPTF_ZE_12114;This is not what I meant.;;;;;;;;;;;;;x
-
-EVTOPTG_ZE_12034;Ha!;;;;;;;;;;;;;x
-EVTOPTG_ZE_12054;Donate some money for food and clothes.;;;;;;;;;;;;;x
-EVTOPTG_ZE_12064;I guess I'll have to go then.;;;;;;;;;;;;;x
-EVTOPTG_ZE_12074;She is stupid.;;;;;;;;;;;;;x
-EVTOPTG_ZE_12084;Next time I will take my things with me.;;;;;;;;;;;;;x
-EVTOPTG_ZE_12094;But now some of it is too cold.;;;;;;;;;;;;;x
-EVTOPTG_ZE_12104;I'm glad I found out!;;;;;;;;;;;;;x
-EVTOPTG_ZE_12114;I shouldn't have said anything.;;;;;;;;;;;;;x
-EVTOPTH_ZE_12054;Tell child to ask their mom and dad.;;;;;;;;;;;;;x
-EVTOPTH_ZE_12064;Maybe I'll just watch them.;;;;;;;;;;;;;x
-EVTOPTH_ZE_12094;Alright, I'll eat the cold food.;;;;;;;;;;;;;x
-EVTOPTH_ZE_12104;I was meant to learn.;;;;;;;;;;;;;x
-EVTOPTH_ZE_12114;I am being tested, I must stay here.;;;;;;;;;;;;;x
-
-EVTOPTI_ZE_12064;I'll join in.;;;;;;;;;;;;;x
-EVTOPTI_ZE_12094;Yum yum.;;;;;;;;;;;;;x
-EVTOPTI_ZE_12104;What a great day.;;;;;;;;;;;;;x
-EVTOPTI_ZE_12114;I can't miss fencing practice.;;;;;;;;;;;;;x
-
-EVTOPTJ_ZE_12094;I don't feel so good.;;;;;;;;;;;;;x
-
-EVTOPTAFF;May lead to §YAffectionate§!;;;;;;;;;;;;;x
-EVTOPTAFF_FROM;§Y[From.GetFirstName]§! may gain §YAffectionate§!;;;;;;;;;;;;;x
-
-EVTOPTBRO;May lead to §YBrooding§!;;;;;;;;;;;;;x
-EVTOPTBRO_FROM;§Y[From.GetFirstName]§! has a high chance to gain §YBrooding§!\n§Y[From.GetFirstName]§! has a low chance to gain §YTimid§!;;;;;;;;;;;;;x
-EVTOPTBRO_FROM_B;§Y[From.GetFirstName]§! has a high chance to gain §YTimid§!\n§Y[From.GetFirstName]§! has a low chance to gain §YBrooding§!;;;;;;;;;;;;;x
-
-EVTOPTCON;May lead to §YConscientious§!;;;;;;;;;;;;;x
-EVTOPTCON_FROM;§Y[From.GetFirstName]§! may gain §YConscientious§!;;;;;;;;;;;;;x
-
-EVTOPTFUS;May lead to §YFussy§!;;;;;;;;;;;;;x
-EVTOPTFUS_FROM;§Y[From.GetFirstName]§! may gain §YFussy§!;;;;;;;;;;;;;x
-
-EVTOPTHAU;May lead to §YHaughty§!;;;;;;;;;;;;;x
-EVTOPTHAU_FROM;§Y[From.GetFirstName]§! may gain §YHaughty§!;;;;;;;;;;;;;x
-
-EVTOPTIDO;May lead to §YIdolizer§!;;;;;;;;;;;;;x
-EVTOPTIDO_FROM;§Y[From.GetFirstName]§! may gain §YIdolizer§!;;;;;;;;;;;;;x
-
-EVTOPTIND;May lead to §YIndolent§!;;;;;;;;;;;;;x
-EVTOPTIND_FROM;§Y[From.GetFirstName]§! may gain §YIndolent§!;;;;;;;;;;;;;x
-
-EVTOPTPLA;May lead to §YPlayful§!;;;;;;;;;;;;;x
-EVTOPTPLA_FROM;§Y[From.GetFirstName]§! may gain §YPlayful§!;;;;;;;;;;;;;x
-
-EVTOPTROW;May lead to §YRowdy§!;;;;;;;;;;;;;x
-EVTOPTROW_FROM;§Y[From.GetFirstName]§! may gain §YRowdy§!;;;;;;;;;;;;;x
-
-EVTOPTTIM;May lead to §YTimid§!;;;;;;;;;;;;;x
-EVTOPTTIM_FROM;§Y[From.GetFirstName]§! may gain §YTimid§!;;;;;;;;;;;;;x
-
-EVTOPTWIL;May lead to §YWillful§!;;;;;;;;;;;;;x
-EVTOPTWIL_FROM;§Y[From.GetFirstName]§! may gain §YWillful§!;;;;;;;;;;;;;x
-
-EVTDESC_ZE_2100;I've gotten an increased amount of questions from [From.GetFirstName] lately about [Root.Religion.GetHighGodName] and the rituals of the [Root.Religion.GetName] faith.;;;;;;;;;;;;;x
-EVTDESC_ZE_2101;Over the past weeks I've grown more and more curious about the beliefs and rituals of my [GetFromRelation]. Today [From.GetSheHe] finally began to answer my repeated questions about [From.Religion.GetHighGodName].;;;;;;;;;;;;;x
-EVTDESC_ZE_2102;Your [GetFromRelation], [From.GetFirstName] has, through the teachings of [FromFrom.GetTitledFirstName], been studying the principles of the [FromFrom.Religion.GetName] faith;;;;;;;;;;;;;x
-EVTDESC_ZE_2120;During the past few months, [From.GetFirstName] has shown dogged determination in [From.GetHerHis] studies of our language and has now also expressed a desire to study the history of my people's ancestors.;;;;;;;;;;;;;x
-EVTDESC_ZE_2121;Pleased with the progress I'm making with learning the local language, [From.GetFirstName] has brought me a book about the ancestry of the [From.Culture.GetName] people.;;;;;;;;;;;;;x
-EVTDESC_ZE_2122;Rumor has it that your [GetFromRelation] [From.GetFirstName] has been influenced by [From.GetHerHis] guardian's splendor. It is said that [From.GetFirstName] is now considered properly [From.Culture.GetName].;;;;;;;;;;;;;x
-EVTDESC_ZE_2130;To the [GetFromFromRootCompliment] [Root.GetTitledNameWithNick],\n\nI write to ask for your permission to give my ward, [From.GetFirstName], a proper [FromFrom.Religion.GetName] [FromFrom.Culture.GetName] upbringing.\n\nSigned [FromFrom.GetTitledFirstName].;;;;;;;;;;;;;x
-EVTDESC_ZE_2131;Dear [Root.GetTitledNameWithNick],\n\nYour initiative to teach [FromFrom.GetFirstName] about Heritage is most welcome.;;;;;;;;;;;;;x
-EVTDESC_ZE_2140;To the [GetFromFromRootCompliment] [Root.GetTitledNameWithNick],\n\nI write to ask for your permission to give my ward, [From.GetFirstName], a proper [FromFrom.Religion.GetName] upbringing and learn the ways of [FromFrom.Religion.GetScriptureName].\n\nSigned [FromFrom.GetTitledFirstName].;;;;;;;;;;;;;x
-EVTDESC_ZE_2141;Dear [Root.GetTitledNameWithNick],\n\nYour initiative to teach [FromFrom.GetFirstName] about your religion is most welcome and I accept your proposal.;;;;;;;;;;;;;x
-
-EVTDESCA_ZE_2132;Dear, [GetFromRootCompliment] [Root.GetFirstName].\n\nWhile I admire your enthusiasm for the upbringing of [FromFrom.GetFirstName] I do believe that it's best to continue with the current plan of education for [FromFrom.GetHerHim].;;;;;;;;;;;;;x
-
-EVTDESCB_ZE_2132;To the [GetFromRootInsult] [Root.GetTitledFirstName],\n\nClearly you can understand what an outlandish suggestion you are making. [FromFrom.GetFirstName] is supposed to grow up to be a fine and cultured [FromFrom.GetManWoman], something which will obviously not be possible with your strange rituals and repulsive manners.;;;;;;;;;;;;;x
-EVTDESCB_ZE_2142;To the [GetFromRootInsult] [Root.GetTitledFirstName],\n\nI am certain you can understand what a blasphemous suggestion you are making! [FromFrom.GetFirstName] is supposed to grow up to be a fine and dutiful [FromFrom.GetManWoman], something which will obviously not be possible with your strange rituals and profane manners.;;;;;;;;;;;;;x
-
-EVTOPTA_ZE_2100;Time to teach [From.GetHerHim] about [Root.Religion.GetHighGodName].;;;;;;;;;;;;;x
-EVTOPTA_ZE_2101;Glory to [From.Religion.GetHighGodName]!;;;;;;;;;;;;;x
-EVTOPTA_ZE_2120;I should encourage it.;;;;;;;;;;;;;x
-EVTOPTA_ZE_2120_TT;§Y[From.GetTitledName]§! becomes §Y[Root.Culture.GetName]§!.;;;;;;;;;;;;;x
-EVTOPTA_ZE_2121;How fascinating.;;;;;;;;;;;;;x
-EVTOPTA_ZE_2122;I hope it's a beneficial influence.;;;;;;;;;;;;;x
-EVTOPTA_ZE_2130;That seems appropriate.;;;;;;;;;;;;;x
-EVTOPTA_ZE_2131;[FromFrom.GetSubjectPronounCap] will be taught well.;;;;;;;;;;;;;x
-EVTOPTA_ZE_2132;Not the response I had hoped for.;;;;;;;;;;;;;x
-
-EVTOPTB_ZE_2100;It will be better for [From.GetHerHim] not to know.;;;;;;;;;;;;;x
-EVTOPTB_ZE_2101;What repugnant ideas!;;;;;;;;;;;;;x
-EVTOPTB_ZE_2120;Make sure [From.GetSheHe] learns about [From.GetHerHis] own customs.;;;;;;;;;;;;;x
-EVTOPTB_ZE_2121;I'd rather study my own family's heritage.;;;;;;;;;;;;;x
-EVTOPTB_ZE_2130;I will never allow [From.GetHerHim] to turn into a savage!;;;;;;;;;;;;;x
-EVTOPTB_ZE_2132;What a rude response!;;;;;;;;;;;;;x
+EVTOPTFUS_FROM_TRUTH_BOMB_TT;§Y[From.GetFirstName]§! might be pleased with you.;;;;;;;;;;;Âîçìîæíî, §Y[This.GetFirstName]§! áóäåò äîâîë[This.GetSoftNaEn] Âàìè.;;x
+EVTDESC_ZE_12210;Languishing in the dungeon, you have recently made a new friend. It's a small, scruffy rat that keeps coming up to you and cuddling up in your lap.;;;;;;;;;;;Ñòðàäàÿ îò òîñêè â ò¸ìíîì ïîäçåìåëüå, Âû íàøëè íîâîãî äðóãà. Ýòî ìàëåíüêèé çàìûçãàííûé êðûñ¸íûø. Îí íè íà ìèíóòó íå ïîêèäàåò Âàñ è òð¸òñÿ ó Âàøèõ íîã.;;x
+EVTDESC_ZE_12220;Languishing in my dungeon, one night I suddenly wake up with a cold feeling of apprehension. As I stare into the darkness, a hissing, evil voice speaks to me: 'I am the Dread King of Darkness. This dungeon is my realm, and I demand that you serve me.'.;;;;;;;;;;;"Òîìÿñü â ïîäçåìåëüå, ÿ óæå ïîòåðÿë[Root.GetEndA] ñ÷¸ò âðåìåíè. Áåñöåëüíîå áëóæäàíèå õàîòè÷íûõ ìûñëåé, óõîäÿùèõ â äðåìîòó ñòàëî äëÿ ìåíÿ ïðèâû÷íûì, íî âäðóã ÿ î÷íó[Root.GetLasLsya], ëåäåíÿùèé äóøó ñòðàõ ïîðàçèë ìåíÿ. Âãëÿäûâàÿñü â òåìíîòó, ÿ óñëûøàë[Root.GetEndA] øèïÿùèé çëîé ãîëîñ: ""ß - âëàäûêà òüìû è óæàñà. Ïîä÷èíèñü ìîåé âîëå...""";;x
+EVTDESC_ZE_12221;Late one night, the Dread King of Darkness appears to me again: 'Servant! You must find me the three dark stones of sorcery. They have been stolen from me and hidden in this dungeon. Know that I do not abide failure!';;;;;;;;;;;"Îäíàæäû íî÷üþ, âëàäûêà òüìû ïîÿâèëñÿ ñíîâà è çàãîâîðèë ñî ìíîé: ""Òðè êàìíÿ ò¸ìíîãî êîëäîâñòâà. Îíè ãäå-òî çäåñü. Òû äîëæ[Root.GetNaEn] íàéòè è ïðèíåñòè èõ ìíå!""";;x
+EVTDESC_ZE_12222;Eventually, I managed to recover the three dark stones of sorcery for the Dread King of Darkness. They only look like three ordinary little stones, but surely the King will be pleased.;;;;;;;;;;;Íàêîíåö-òî ìíå óäàëîñü íàéòè òðè êàìíÿ ò¸ìíîãî êîëäîâñòâà äëÿ âëàäûêè òüìû. Îíè âûãëÿäÿò, êàê ñîâåðøåííî îáû÷íûå êàìíè, íî óâåðåí[Root.GetEndA], îí áóäåò äîâîëåí.;;x
+EVTDESC_ZE_12223;I never managed to recover the three dark stones of sorcery. I now fear that the Dread King of Darkness will come and punish me for my failure.;;;;;;;;;;;Ìíå òàê è íå óäàëîñü íàéòè êàìíè ò¸ìíîãî êîëäîâñòâà. Áîþñü, òåïåðü âëàäûêà òüìû íàêàæåò ìåíÿ çà ïðîâàë.;;x
+EVTDESC_ZE_12225;My war with the Dread King of Darkness has begun. Every night he sends his legions of ghosts and shadows to assault me.;;;;;;;;;;;Ìîÿ âîéíà ñ âëàäûêîé òüìû íà÷àëàñü. Êàæäóþ íî÷ü îí íàñûëàë íà ìåíÿ ñâîè ëåãèîíû ïðèçðàêîâ.;;x
+EVTDESC_ZE_12226;In my valiant nightly battles against the Dread King of Darkness, I have finally reached the tipping point and forced my enemy to his knees.;;;;;;;;;;;Â ñâîèõ áèòâàõ ñ âëàäûêîé òüìû è óæàñà, ÿ íàêîíåö-òî äîáè[Root.GetLasLsya] ïðåèìóùåñòâà, â ñàìûé îòâåòñòâåííûé ìîìåíò, ÿ ïîáåäèë[Root.GetEndA] åãî.;;x
+EVTDESC_ZE_12227;I am exhausted from my nightly battles with the Dread King of Darkness, yet he is steadily advancing against me. It seems that the time for surrender has come.;;;;;;;;;;;Ñêîëüêî áû ÿ íè ñòàðà[Root.GetLasLsya], ìíå íèêàê íå óäàâàëîñü ïîáåäèòü âëàäûêó òüìû, â íàøèõ áèòâàõ îí âñåãäà íà øàã âïåðåäè ìåíÿ. Ïîõîæå, ó ìåíÿ íåò âûáîðà, ïðèøëî âðåìÿ ñäàòüñÿ.;;x
+EVTDESC_ZE_12230;Languishing in the dungeon, I have realized that there is someone in the cell next to me. I can hear [event_ze_12230_prisoner.GetHerHim] sighing, coughing and complaining sometimes.;;;;;;;;;;;Èçíûâàÿ îò òîñêè â ò¸ìíîì ïîäçåìåëüå, â êàêîé-òî ìîìåíò ÿ îñîçíàë[Root.GetEndA], ÷òî â ñîñåäíåé êàìåðå êòî-òî åñòü. ß ñëûøó ñîïåíèå, êàøåëü è êàêîå-òî áîðìîòàíèå.;;x
+EVTDESC_ZE_12234;It turns out that my fellow prisoner's name is [From.GetTitledName]. We have had many whispered conversations in the darkness, quickly becoming friends under these dismal circumstances.;;;;;;;;;;;Ìîèì ñîñåäîì îêàçà[From.GetLasLsya] [From.GetTitledName]. Ìû ÷àñòî ïåðåø¸ïòûâàëèñü â òåìíîòå è âñêîðå ñòàëè õîðîøèìè äðóçüÿìè.;;x
+EVTDESC_ZE_12236;My attemps to make contact with the other prisoner were met only with silence.;;;;;;;;;;;Ìîè ïîïûòêè íàëàäèòü êîíòàêò ñ äðóãèì çàêëþ÷¸ííûì çàêîí÷èëèñü íè÷åì. Â îòâåò íà çîâ, ÿ ñëûøàë[Root.GetEndA] ëèøü òèøèíó.;;x
+EVTDESCA_ZE_12000;I've come across [haughty_events_char_1.GetTitledFirstNameWithNick] kissing one of the servant folk in a hallway.;;;;;;;;;;;Íåäàâíî ÿ çàìåòèë[Root.GetEndA], êàê [haughty_events_char_1.GetTitledFirstNameWithNick] öåëóåò êîãî-òî èç ïðèñëóãè â êîðèäîðå.;;x
+EVTDESCA_ZE_12002;As I'm spending a pleasant moment alone with the attractive cook, the wretched child [From.GetFirstName] comes upon us and promptly starts chiding me about morals!;;;;;;;;;;;Ñåãîäíÿ, íàñëàæäàÿñü ïðåêðàñíûì ïîöåëóåì, ìíå ïðèøëîñü ïðåðâàòüñÿ, ïîòîìó ÷òî îáíàãëåâø[From.GetAyaIy] [From.GetFirstName] ïîñìåë[From.GetEndA] îò÷èòûâàòü ìåíÿ çà àìîðàëüíîå ïîâåäåíèå!;;x
+EVTDESCA_ZE_12004;[From.GetTitledFirstName] didn't take kindly to my chiding. [From.GetSheHeCap] caught me and gave me a good beating.;;;;;;;;;;;[From.GetTitledFirstName] ðàçîçëè[From.GetLasLsya], óñëûøàâ ìîè ñëîâà. [From.GetSheHeCap] äîãíàë[From.GetEndA] è âûïîðîë[From.GetEndA] ìåíÿ.;;x
+EVTDESCA_ZE_12006;[From.GetFirstName], the [GetRootFromInsult], went around and told everyone lies about me, as childish revenge for the deserved beating I gave [From.GetHerHim].;;;;;;;;;;;[From.GetFirstName], [GetRootFromInsult], òåïåðü õîäèò è æàëóåòñÿ âñåì íà ìåíÿ, íî âåäü [From.GetSheHe] ñóíóë[From.GetEndA] íîñ íå â ñâî¸ äåëî è çàñëóæèë[From.GetEndA] ýòó ïîðêó!;;x
+EVTDESCA_ZE_12010;I have seen [affectionate_events_char_1.GetFirstName] looking at my new wooden toy animals.;;;;;;;;;;;ß âèäåë[Root.GetEndA], êàê [affectionate_events_char_1.GetFirstName] ñìîòðèò íà ìîè íîâûå äåðåâÿííûå èãðóøêè.;;x
+EVTDESCA_ZE_12012;[From.GetFirstName] has much nicer toys than me, and [From.GetSheHe] asked me if I want to play with them.;;;;;;;;;;;[From.GetFirstName] ïðåäëîæèë[From.GetEndA] ìíå ïîèãðàòü ñ [From.GetHersHis] èãðóøêàìè. Ó í[From.GetHersHis] îíè ãîðàçäî ëó÷øå ÷åì ó ìåíÿ.;;x
+EVTDESCA_ZE_12014;[From.GetFirstName] and me played all day with my toys.;;;;;;;;;;;[From.GetFirstName] è ÿ öåëûé äåíü èãðàëè ñ ìîèìè èãðóøêàìè.;;x
+EVTDESCA_ZE_12016;[From.GetFirstName] let me play with [From.GetHerHis] toys all day and it was so much fun.;;;;;;;;;;;[From.GetFirstName] äàë[From.GetEndA] ìíå ïîèãðàòü ñ [From.GetHersHis] èãðóøêàìè âåñü äåíü è ýòî áûëî çäîðîâî.;;x
+EVTDESCA_ZE_12020;I saw [timid_events_char_1.GetTitledFirstName] being chided publicly for stealing food from the personal stores of the [Root.Liege.GetTitle], but I know [timid_events_char_1.GetSheHe] was elsewhere at the time.;;;;;;;;;;;"Ïðîõîäÿ ïî êîðèäîðó, ÿ óñëûøàë[Root.GetEndA] êðèêè â õîëëå: ""×òî ñêàæåò [Root.Liege.GetTitle], êîãäà óçíàåò, ÷òî Âû êðàëè åäó èç [Root.Liege.GetHersHis] ëè÷íîé êëàäîâîé? ×åì Âû âîîáùå äóìàëè?!"" — [timid_events_char_1.GetTitledFirstName] âûñëóøèâàë[timid_events_char_1.GetEndA] ïóáëè÷íûå îáâèíåíèÿ, íå â ñèëàõ âîçðàçèòü. Íî ÿ çíàþ, ÷òî [timid_events_char_1.GetSheHe] íå ìîã[timid_events_char_1.GetNoneE] íè÷åãî óêðàñòü, [timid_events_char_1.GetHersHis] òàì âîîáùå íå áûëî.";;x
+EVTDESCA_ZE_12022;I was wrongfully accused of stealing fine foods from the personal stores of the [Root.Liege.GetTitle]. I also know that young [From.GetFirstName] can confirm I was elsewhere when it happened, but [From.GetSheHe] has refused to step forward and confirm my innocence.;;;;;;;;;;;Ìíå îáâèíèëè â êðàæå åäû èç ëè÷íûõ çàïàñîâ íàøåãî ñþçåðåíà. ß çíàþ, ÷òî þí[From.GetAyaYy] [From.GetFirstName] ìîæåò ïîäòâåðäèòü, ÷òî ìåíÿ íå áûëî òàì, íî [From.GetSheHe] ïîáîÿ[From.GetLasLsya] âûñòóïèòü â ïîëüçó ìîåé íåâèíîâíîñòè.;;x
+EVTDESCA_ZE_12024;[From.GetTitledFirstName] is very angry with me for not speaking up in [From.GetHerHis] defence.;;;;;;;;;;;[From.GetTitledFirstName] çëèòñÿ íà ìåíÿ çà òî, ÷òî ÿ íå âûñòóïèë[Root.GetEndA] â [From.GetHersHis] çàùèòó.;;x
+EVTDESCA_ZE_12026;Since [From.GetFirstName] refused to defend me, many people think I'm a thief and I have lost prestige at court.;;;;;;;;;;;Èç-çà òîãî, ÷òî [From.GetFirstName] îòêàçà[From.GetLasLsya] çàùèòèòü ìîþ ÷åñòü, ìíîãèå ñ÷èòàþò, ÷òî ÿ - âîð. Ìîÿ ðåïóòàöèÿ ïðè äâîðå áåçíàä¸æíî èñïîð÷åíà.;;x
+EVTDESCA_ZE_12030;[rowdy_events_char_1.GetFirstName] is always so annoying. I think [rowdy_events_char_1.GetSheHe] tries to win against me in games just to spite me!;;;;;;;;;;;[rowdy_events_char_1.GetFirstName] âå÷íî ìåíÿ çàäèðàåò. Äóìàþ, [rowdy_events_char_1.GetSheHe] ïûòàåòñÿ ïîáåäèòü ìåíÿ òîëüêî, ÷òîáû óíèçèòü!;;x
+EVTDESCA_ZE_12032;[From.GetFirstName] is angry with me because I am always winning against [From.GetHerHim] in games.;;;;;;;;;;;[From.GetFirstName] çëèòñÿ íà ìåíÿ çà òî, ÷òî ÿ ïîñòîÿííî îáûãðûâàþ [From.GetHersHis] âî âñ¸ì.;;x
+EVTDESCA_ZE_12034;[From.GetFirstName] got angry and told me to get lost!;;;;;;;;;;;"[From.GetFirstName] ðàçîçëè[From.GetLasLsya] è ñêàçàë[From.GetEndA], ÷òîáû ÿ ""ïðîâàëèâàë[Root.GetEndA]""!";;x
+EVTDESCA_ZE_12036;[From.GetFirstName] went crazy and started a fist fight with me!;;;;;;;;;;;[From.GetFirstName] âçáåñè[From.GetLasLsya] è íà÷àë äðàòüñÿ ñî ìíîé!;;x
+EVTDESCA_ZE_12040;[willful_events_char_1.GetFirstName] is frowning at me. 'Waste of time. It will never fit, you've grown out of it.' [willful_events_char_1.GetSheHe] says. But it's my favorite hat!;;;;;;;;;;;" ""Ïóñòàÿ òðàòà âðåìåíè. Îíà íå íàëåçåò. Òû âûðîñ[Root.GetNoneE] èç íå¸"", — çàÿâèë[willful_events_char_1.GetEndA] [willful_events_char_1.GetFirstName], ñëåãêà íàõìóðèâøèñü.\n""Íî ýòî ìîÿ ëþáèìàÿ øëÿïà!"" — âîñêëèêíóë[Root.GetEndA] ÿ.";;x
+EVTDESCA_ZE_12042;[From.GetFirstName] insists that I help [From.GetHerHim] get an old hat to fit. A very futile task as [From.GetSheHe]'s too big for it now as I've already told [From.GetHerHim] several times.;;;;;;;;;;;[From.GetFirstName] íàñòàèâàåò, ÷òîáû ÿ ïîìîã[Root.GetNoneE] [From.GetHerHim] íàäåòü ñòàðóþ øëÿïó. Ïóñòàÿ òðàòà âðåìåíè, âåäü [From.GetSheHe] äàâíî âûðîñ[From.GetNoneE] èç íå¸, ìû óæå ãîâîðèëè îá ýòîì ìíîãî ðàç.;;x
+EVTDESCA_ZE_12044;[From.GetFirstName] hit me over the head for not listening to [From.GetHerHim].;;;;;;;;;;;[From.GetFirstName] äàë[From.GetEndA] ìíå ïîäçàòûëüíèê çà òî, ÷òî íå ñëóøàþ [From.GetHersHis].;;x
+EVTDESCA_ZE_12046;[From.GetFirstName] thinks I'm mean for not helping. [From.GetSheHeCap] even stuck [From.GetHerHis] tongue out at me.;;;;;;;;;;;ß îòêàçà[Root.GetLasLsya] ïîìî÷ü, è òåïåðü [From.GetFirstName] äóìàåò, ÷òî ÿ ïëîõ[Root.GetAyaOy]. [From.GetSheHeCap] äàæå ïîêàçàë[From.GetEndA] ìíå ÿçûê.;;x
+EVTDESCA_ZE_12050;[brooding_events_char_1.GetTitledName] promised to take me riding today, but when I came to see [brooding_events_char_1.GetHerHim] [brooding_events_char_1.GetSheHe] was drunk and half asleep.;;;;;;;;;;;[brooding_events_char_1.GetTitledName] îáåùàë[brooding_events_char_1.GetEndA] âçÿòü ìåíÿ ñåãîäíÿ ñ ñîáîé ïîêàòàòüñÿ âåðõîì, íî êîãäà ÿ ïðèø[Root.GetLaYol] ê í[brooding_events_char_1.GetHerHim], [brooding_events_char_1.GetSheHe] áûë[brooding_events_char_1.GetEndA] ïüÿí[brooding_events_char_1.GetEndA] è íå â ñèëàõ äàæå ñòîÿòü íà íîãàõ.;;x
+EVTDESCA_ZE_12052;Sure, I forgot about my promise to take [From.GetFirstName] riding. But now... Now [From.GetSheHe] poured water on me when I was resting. I only had a little bit to drink, and and and I am the [Root.PrimaryTitle.GetRulerTitle]!;;;;;;;;;;;Äà, ïðèçíàþ, ÿ çàáûë[Root.GetEndA] î ñâî¸ì îáåùàíèè, [From.GetFirstName] èìååò ïðàâî çëèòüñÿ íà ìåíÿ, ìû äîëæíû áûëè âìåñòå ïîêàòàòüñÿ âåðõîì... Íî... Íî ýòî ïåðåõîäèò âñå ãðàíèöû. [From.GetSheHeCap] îáëèë[From.GetEndA] ìåíÿ âîäîé, ïîêà ÿ ñïàë[Root.GetEndA]. ß íå òàê óæ ìíîãî âûïèë[Root.GetEndA] è... è âîîáùå, ÿ - [Root.PrimaryTitle.GetRulerTitle]!;;x
+EVTDESCA_ZE_12054;[From.GetFirstName] tried to say something, but I couldn't hear what it was. Then [From.GetSheHeCap] got up and raised [From.GetHerHis] fist at me before stumbling and falling. Now [From.GetSheHe] is snoring.;;;;;;;;;;;[From.GetFirstName] ïîïûòà[From.GetLasLsya] ïðîáóð÷àòü ÷òî-òî íåäîáðîå â ìîé àäðåñ, íî ÿ íå ñìîã[Root.GetNoneE] ðàçîáðàòü íè ñëîâà. Ïîòîì [From.GetSheHe] çàíåñ[From.GetNoneE] êóëàê íàäî ìíîé, íî ãðîõíó[From.GetLasLsya] íà êóøåòêó è çàõðàïåë[From.GetEndA].;;x
+EVTDESCA_ZE_12056;I have a bad headache, and my episode with [From.GetFirstName] is slowly coming back to me. There is no excuse for my behavior. What's worse is that I even got lectured by a child.;;;;;;;;;;;Ãîëîâà âñ¸ åù¸ ðàñêàëûâàåòñÿ, íî ñìóòíûå âîñïîìèíàíèÿ î ñëó÷èâøåìñÿ ïîíåìíîãó âñïëûâàþò â ïàìÿòè. [From.GetFirstName] ïðàâ[From.GetEndA], ìîåìó ïîñòóïêó íåò îïðàâäàíèé, íî ÷òî åù¸ õóæå, ýò[From.GetEtaEtot] [From.GetLadLass] îò÷èòàë[From.GetEndA] ìåíÿ.;;x
+EVTDESCA_ZE_12060;[indolent_events_char_1.GetFirstName] has come to get my help, today we are going to cut down some trees. Very hard work [indolent_events_char_1.GetSheHe] says.;;;;;;;;;;;[indolent_events_char_1.GetFirstName] ïîïðîñèë[indolent_events_char_1.GetEndA] ìåíÿ ïîìî÷ü ñ âûðóáêîé äåðåâüåâ. Ñêàçàë[indolent_events_char_1.GetEndA], ÷òî ýòî òÿæ¸ëàÿ ðàáîòà, íî ÿ ñïðàâëþñü.;;x
+EVTDESCA_ZE_12062;As soon as I came to pick up [From.GetFirstName] to help me out cutting down some trees [From.GetSheHe] starts complaining. Apparently [From.GetSheHe] has a nasty stomach ache.;;;;;;;;;;;Êîãäà ÿ ïðèø[Root.GetLaYol] çà ïîìîùüþ ñ ðóáêîé äåðåâüåâ, [From.GetFirstName] îòêàçà[From.GetLasLsya] èäòè ñî ìíîé, ñêàçàë[From.GetEndA], ÷òî ó í[From.GetHersHis] æèâîò ðàçáîëåëñÿ.;;x
+EVTDESCA_ZE_12064;[From.GetFirstName] spanked me when I complained about my stomach ache. Then [From.GetSheHe] grabbed my arm and told me we were going outside.;;;;;;;;;;;Êîãäà ÿ ñêàçàë[Root.GetEndA], ÷òî ó ìåíÿ áîëèò æèâîò, [From.GetFirstName] îòøë¸ïàë[From.GetEndA] ìåíÿ, ïîòîì ñõâàòèë[From.GetEndA] çà ðóêó è ïîòàùèë[From.GetEndA] âî äâîð.;;x
+EVTDESCA_ZE_12066;[From.GetFirstName] apparently has pains in [From.GetHerHis] arm now after I grabbed it and 'cannot use it to cut trees'.;;;;;;;;;;;Íó âîò. Òåïåðü [From.GetFirstName] æàëóåòñÿ, ÷òî ÿ ïîâðåäèë[Root.GetEndA] [From.GetHerHim] ðóêó, êîãäà ïîòàùèë[Root.GetEndA] [From.GetHersHis] ðàáîòàòü â ñàä, è òåïåðü óæ [From.GetSheHe] òî÷íî íå ìîæåò ïîìî÷ü ìíå ñ âûðóáêîé äåðåâüåâ.;;x
+EVTDESCA_ZE_12070;It has been a long day outside and [playful_events_char_1.GetTitledName] says it is time to head back home. [playful_events_char_1.GetSheHeCap] is carrying some heavy bags, maybe this time I can beat [playful_events_char_1.GetHerHim].;;;;;;;;;;;Äîëãèé äåíü ïîäõîäèò ê êîíöó, è [playful_events_char_1.GetTitledName], âçâàëèâ íà ñåáÿ òÿæ¸ëûå ñóìêè, íàïîìíèë[playful_events_char_1.GetEndA], ÷òî íàì ïîðà âîçâðàùàòüñÿ äîìîé. Ýòî ìîé øàíñ - ìîæåò â ýòîò ðàç ÿ ñìîãó îáîãíàòü [playful_events_char_1.GetHersHis]?;;x
+EVTDESCA_ZE_12072;After I told [From.GetFirstName] it was time to head on home, [From.GetSheHe] looked at me with a grin on [From.GetHerHis] face and told me to race [From.GetHerHim] home, leaving me to carry everything on my own.;;;;;;;;;;;Ïðèøëî âðåìÿ âîçâðàùàòüñÿ äîìîé. [From.GetFirstName] ïîñìîòðåë[From.GetEndA] íà ìåíÿ ñ êîâàðíîé óõìûëêîé è ïðåäëîæèâ äîãíàòü [From.GetHersHis], ïîáåæàë[From.GetEndA] ñî âñåõ íîã, òåì ñàìûì âûíóäèâ ìåíÿ îäí[Root.GetUOgo] òàùèòü âñå ñóìêè.;;x
+EVTDESCA_ZE_12074;[From.GetFirstName] chased and caught me. Maybe next time I can run fast enough.;;;;;;;;;;;[From.GetFirstName] âñ¸ ðàâíî äîãíàë[From.GetEndA] è ïîéìàë[From.GetEndA] ìåíÿ. ×òî æ, ìîæåò â äðóãîé ðàç ÿ áóäó áûñòðåå.;;x
+EVTDESCA_ZE_12076;[From.GetFirstName] never seems to be grumpy, always playing without a care in the world.;;;;;;;;;;;[From.GetFirstName] íèêîãäà íå áûâàåò ñåðü¸çí[From.GetOyYm]. [From.GetSheHeCap] ïîñòîÿííî èãðàåò, íå çàáîòÿñü íè î ÷¸ì.;;x
+EVTDESCA_ZE_12080;I saw that the private chambers of [conscientious_events_char_1.GetFullName] were very messy. Papers, books and things lying around everywhere!;;;;;;;;;;;Íå çíàþ, íàñòîëüêî ëè [conscientious_events_char_1.GetFullName] áåçîòâåòñòâåí[conscientious_events_char_1.GetNaEn] âî âñ¸ì, íî êîãäà ÿ âîø[Root.GetLaYol] â [conscientious_events_char_1.GetHersHis] ëè÷íûå [conscientious_events_char_1.GetChamberACC], òàì áûë óæàñíûé áàðäàê, áóìàãè, âåùè, êíèãè áûëè ðàçáðîñàíû ïîâñþäó!;;x
+EVTDESCA_ZE_12082;As I enter my chambers, all of the work I had done in my spare time seems to have been cleaned up and put back. Books are neatly set in alphabetical order and notes have been thrown away. [From.GetFullName] was apparently 'cleaning' earlier.;;;;;;;;;;;"Âîéäÿ â ñâ[Root.GetMyChamberACC], ÿ îáíàðóæèë[Root.GetEndA], ÷òî âñÿ ìîÿ ðàáîòà ïîñëåäíèõ äíåé èñ÷åçëà! Áóìàãè ðàçëîæåíû ïî ìåñòàì, êíèãè ðàññòàâëåíû â àëôàâèòíîì ïîðÿäêå, à çàìåòêè âûáðîøåíû, êàê ìóñîð. Î÷åâèäíî, [From.GetFullName] ""ïðèáèðà[From.GetLasLsya]"" çäåñü.";;x
+EVTDESCA_ZE_12084;[From.GetTitledName] didn't like that I was cleaning [From.GetHerHis] chambers, [From.GetSheHe] could not find important books. Now [From.GetSheHe] messed mine up and said I wasn't allowed back in [From.GetHersHis] anymore.;;;;;;;;;;;"[From.GetTitledName] áûë[From.GetEndA] ïðîñòî â áåøåíñòâå èç-çà òîãî, ÷òî ÿ íàâåë[Root.GetEndA] ïîðÿäîê â [From.GetHersHis] êîìíàòå. [From.GetSheHeCap] íå ñìîã[From.GetNoneE] íàéòè ñâîè êíèãè è çàìåòêè. Â îòìåñòêó [From.GetSheHe] ïåðåñòàâèë[From.GetEndA] âñ¸ â ì[Root.GetMyChamberPREP] è ñêàçàë[From.GetEndA], ÷òîáû ÿ ""äåðæà[Root.GetLasLsya] îò í[From.GetHersHis] ïîäàëüøå"".";;x
+EVTDESCA_ZE_12086;[From.GetFirstName] is quietly cleaning [From.GetHerHis] chambers after my episode in there. Seems like this is a very thorough child.;;;;;;;;;;;[From.GetFirstName] ñíîâà óáèðàåòñÿ â ñâîåé êîìíàòå ïîñëå òîãî, ÷òî ÿ òàì íàòâîðèë[Root.GetEndA]. Íåâåðîÿòíî ïðèëåæíûé ðåá¸íîê.;;x
+EVTDESCA_ZE_12090;It's bedtime but I can't find my favorite toy. I have it when I go to sleep.;;;;;;;;;;;Óæå ïîðà ñïàòü, à ÿ íèêàê íå ìîãó íàéòè ëþáèìóþ èãðóøêó. ×òî æå äåëàòü?;;x
+EVTDESCA_ZE_12092;[From.GetFirstName] says [From.GetHerHis] favorite toy is missing and [From.GetSheHe] won't go to bed without it. I may have thrown it out today when I was tidying up.;;;;;;;;;;;[From.GetFirstName] ãîâîðèò, ÷òî íå ìîæåò íàéòè ñâîþ ëþáèìóþ èãðóøêó, à áåç íå¸ íå õî÷åò èäòè ñïàòü. Ñêîðåå âñåãî, ÿ âûáðîñèë[Root.GetEndA] å¸, êîãäà â ïîñëåäíèé ðàç ïðèáèðà[Root.GetLasLsya].;;x
+EVTDESCA_ZE_12094;[From.GetFirstName] offered to get me a new toy. [From.GetSheHeCap] said we could go find something nice tomorrow.;;;;;;;;;;;[From.GetFirstName] ïðåäëîæèë[From.GetEndA] êóïèòü ìíå íîâóþ èãðóøêó. [From.GetSheHeCap] ñêàçàë[From.GetEndA], ÷òî ìû ìîæåì ñõîäèòü çà íåé çàâòðà.;;x
+EVTDESCA_ZE_12096;My offer to purchase a new toy was rejected by [From.GetFirstName]. [From.GetSheHeCap] is upset I would even suggest such a thing.;;;;;;;;;;;ß ïðåäëîæèë[Root.GetEndA] êóïèòü íîâóþ èãðóøêó, íî [From.GetFirstName] îáèäå[From.GetLasLsya] íà ìåíÿ çà ýòî è îòêàçà[From.GetLasLsya].;;x
+EVTDESCA_ZE_12100;Today [curious_events_char_1.GetFullName] said [curious_events_char_1.GetSheHe] had to attend to various important matters, and I would have to spend the day alone.;;;;;;;;;;;Ñåãîäíÿ [curious_events_char_1.GetFullName] ñêàçàë[curious_events_char_1.GetEndA], ÷òî ó í[curious_events_char_1.GetHersHis] êàêèå-òî âàæíûå äåëà, è ìíå ïðèä¸òñÿ ïîáûòü îäíî[Root.GetYMu].;;x
+EVTDESCA_ZE_12102;I had told [From.GetFirstName] to stay at home, but just as I finish purchasing my gift to [From.GetHerHim] I turn around and see [From.GetHerHim] trying to hide from me. The surprise is ruined.;;;;;;;;;;;Óâåðåí[Root.GetEndA], [From.GetFirstName] ÿñíî ïîíÿë[From.GetEndA], ÷òî ÿ âåëåë[Root.GetEndA] [From.GetHerHim] îñòàâàòüñÿ äîìà, íî êîãäà ÿ óæå çàêîí÷èë[Root.GetEndA] ñ ïîêóïêîé ïîäàðêà äëÿ í[From.GetHersHis] è îáåðíó[Root.GetLasLsya], ÷òîáû ïîñìîòðåòü êòî çà ìíîé ñëåäèò, òî çàìåòèë, ÷òî [From.GetSheHe] ïðÿ÷åòñÿ çà óãëîì. Ñþðïðèç èñïîð÷åí.;;x
+EVTDESCA_ZE_12104;[From.GetTitledName] was buying things at the market and [From.GetSheHe] saw me there. Then [From.GetSheHe] pinched my ear and said I should do what I am told. [From.GetSheHeCap] was getting me a treats at the market but now I won't get any!;;;;;;;;;;;Îêàçûâàåòñÿ, [From.GetTitledName] ïîêóïàë[From.GetEndA] íà ðûíêå âñÿêèå øòóêè. [From.GetSheHeCap] óâèäåë[From.GetEndA], ÷òî ÿ ñëåæó çà í[From.GetEyIm], è îòðóãàë[From.GetEndA] çà ìî¸ íåïîñëóøàíèå. Õóæå òîãî, òå ïîäàðêè, êîòîðûå [From.GetSheHe] ìíå òàì êóïèë[From.GetEndA], ÿ òåïåðü íå ïîëó÷ó!;;x
+EVTDESCA_ZE_12106;[From.GetFirstName] didn't react well to my way of correcting [From.GetHerHis] behavior. I fear [From.GetSheHe] is even more suspicious towards me now.;;;;;;;;;;;[From.GetFirstName] îòðåàãèðîâàë[From.GetEndA] íà ìîè ìåòîäû âîñïèòàíèÿ íå ëó÷øèì îáðàçîì. Áîþñü, òåïåðü [From.GetSheHe] åù¸ áîëåå ïîäîçðèòåë[From.GetSoftNaEn] ïî îòíîøåíèþ êî ìíå.;;x
+EVTDESCA_ZE_12110;[idolizer_events_char_1.GetTitledName] is so kind to me. And [idolizer_events_char_1.GetSheHe] seems to know so much about everything.;;;;;;;;;;;[idolizer_events_char_1.GetTitledName] òàê äîáð[idolizer_events_char_1.GetEndA] êî ìíå, è [idolizer_events_char_1.GetSheHe] ñòîëüêî çíàåò îáî âñ¸ì.;;x
+EVTDESCA_ZE_12112;[From.GetFirstName] has written a song in my honor. Apparently [From.GetSheHe] wants me to know that I'm the best person in the world.;;;;;;;;;;;[From.GetFirstName] ñî÷èíèë[From.GetEndA] ïåñíþ äëÿ ìåíÿ. Ïîõîæå, [From.GetSheHe] ñ÷èòàåò, ÷òî ÿ - ëó÷øèé ÷åëîâåê íà ñâåòå.;;x
+EVTDESCA_ZE_12114;[From.GetFirstName] was very happy for my gesture. [From.GetSheHeCap] agreed that [From.GetHerHis] exceptional personality and skill is worthy of songs and praise. Now the others could see [From.GetHerHim] for what [From.GetSheHe] is.;;;;;;;;;;;[From.GetFirstName] âûñîêî îöåíèë[From.GetEndA] ìîé æåñò è ñîãëàñè[From.GetLasLsya] ñ òåì, ÷òî [From.GetHersHis] âûäàþùàÿñÿ ëè÷íîñòü çàñëóæèâàåò ýòîé ïåñíè, à òåïåðü è äðóãèå ñìîãóò îá ýòîì óçíàòü.;;x
+EVTDESCA_ZE_12116;[From.GetFirstName] is no less impressed by me now. It seems I'm quite the idol for [From.GetHerHim].;;;;;;;;;;;[From.GetFirstName] ïðîäîëæàåò áîãîòâîðèòü ìåíÿ.;;x
+EVTDESCA_ZE_12211;Recently, you notice that there is something wrong with Flipper. [Root.GetSheHeCap] doesn't scurry around and play like [Root.GetSheHe] used to, [Root.GetSheHe] just lies down and moans pitifully, peering at you with [Root.GetHerHis] little beady eyes. [Root.GetSheHeCap] is obviously sick and starving.;;;;;;;;;;;Íåäàâíî Âû çàìåòèëè, ÷òî ñ Ïðîíûðîé ÷òî-òî íå òàê. Îí áîëüøå íå áåãàåò âîêðóã, à ïðîñòî ëåæèò, æàëîáíîãî ïîïèñêèâàÿ. Ïîõîæå, îí çàáîëåë èëè ãîëîäàåò.;;x
+EVTDESCA_ZE_12219;As the guards release you from the dungeon, you take one last look back. You see Flipper staring at you intently for a moment, [Root.GetHerHis] little eyes shining strangely in the half-darkness. Then [Root.GetSheHe] scurries away into a corner and out of sight.;;;;;;;;;;;Êîãäà ñòðàæíèêè âûïóñòèëè Âàñ èç ïîäçåìåëüÿ, Âû â ïîñëåäíèé ðàç âçãëÿíóëè íà òî, ÷òî îñòàëîñü ïîçàäè. Ïðîíûðà ïîñìîòðåë íà Âàñ ñâîèìè ìàëåíüêèìè ñèÿþùèìè ãëàçêàìè, à ïîòîì ñêðûëñÿ èç âèäó â ò¸ìíîì óãëó êàìåðû.;;x
+EVTDESCA_ZE_12232;Languishing in the dungeon, I suddenly one day hear a small voice calling to me. It seems there is a young child in the cell next to mine...;;;;;;;;;;;Òîìÿñü â ñâîåé êàìåðå, îäíàæäû ÿ óñëûøàë[Root.GetEndA] êàêîé-òî òèõèé ãîëîñ, êîòîðûé çîâ¸ò ìåíÿ. Ïîõîæå, ýòî ðåá¸íîê, çäåñü, â ñîñåäíåé êàìåðå...;;x
+EVTDESCB_ZE_12000;Walking across the yard, I see [haughty_events_char_1.GetTitledFirstName] angrily beating a dog with a heavy stick.;;;;;;;;;;;Ãóëÿÿ ïî äâîðó ÿ óâèäåë[Root.GetEndA], êàê [haughty_events_char_1.GetTitledFirstName] áü¸ò ñîáàêó áîëüøîé ïàëêîé.;;x
+EVTDESCB_ZE_12002;As I'm spending a pleasant moment alone with the attractive cook, young [From.GetFirstName] comes upon us. However, [From.GetSheHe] only winks in complicity and sneaks away.;;;;;;;;;;;Ñåãîäíÿ, íàñëàæäàÿñü ïðåêðàñíûì ïîöåëóåì, ÿ çàìåòèë[Root.GetEndA], êàê þí[From.GetAyaYy] [From.GetFirstName] ïîäñìàòðèâàë[From.GetEndA] çà íàìè. Çàòåì, ïîäìèãíóâ ìíå, [From.GetSheHe] ðàçâåðíó[From.GetLasLsya] è óø[From.GetLaYol], äåëàÿ âèä, ÷òî íè÷åãî íå ïðîèçîøëî.;;x
+EVTDESCB_ZE_12004;As I hit [From.GetHerHim], [From.GetTitledFirstName] turned [From.GetHerHis] anger on me but I managed to escape as the dog bit [From.GetHerHim] in the ankle.;;;;;;;;;;;Êîãäà ÿ óäàðèë[Root.GetEndA] [From.GetHersHis], [From.GetSheHe] ëèøü çàñìåÿ[From.GetLasLsya]. Íî ñîáàêà óêóñèëà [From.GetHersHis] çà íîãó, è ÿ óáåæàë[Root.GetEndA].;;x
+EVTDESCB_ZE_12006;As I turned, the dog bit me in the ankle and [From.GetFirstName] managed to get away, but has since been skulking around eyeing me with hatred.;;;;;;;;;;;Êîãäà ÿ ïîâåðíó[Root.GetLasLsya], ñîáàêà óêóñèëà ìåíÿ çà íîãó, à [From.GetFirstName] óáåæàë[From.GetEndA] ïðî÷ü. Íî ñ òåõ ïîð [From.GetSheHe] âå÷íî îøèâàåòñÿ âîêðóã è çëîáíî ïÿëèòñÿ.;;x
+EVTDESCB_ZE_12010;My nannies are away and as I roam around the grounds I come upon [affectionate_events_char_1.GetTitledFirstName]. [affectionate_events_char_1.GetSheHeCap] looks up and seems interested in conversation.;;;;;;;;;;;Íÿíåê íåò ïîáëèçîñòè, è ÿ øàòà[Root.GetLasLsya] ïî îêðåñòíîñòÿì, ïîêà [affectionate_events_char_1.GetTitledFirstName] íå âñòðåòèë[affectionate_events_char_1.GetEndA] ìåíÿ. [affectionate_events_char_1.GetSheHeCap] çàãîâîðèë[affectionate_events_char_1.GetEndA] ñî ìíîé ïåðâ[affectionate_events_char_1.GetOyYm].;;x
+EVTDESCB_ZE_12012;[From.GetFirstName] has really nice toys but [From.GetSheHe] won't share them with me.;;;;;;;;;;;[From.GetFirstName] ñåãîäíÿ èãðàë[From.GetEndA] ñî ñâîèìè íîâûìè èãðóøêàìè. Îíè òàêèå êëàññíûå, ÿ òîæå òàêèå õî÷ó, íî [From.GetSheHe] ñêàçàë[From.GetEndA], ÷òî íè çà ÷òî íå äàñò ìíå ïîèãðàòüñ íèìè.;;x
+EVTDESCB_ZE_12014;I talked for a long while with [From.GetTitledFirstName]. [From.GetSheHeCap] had many funny things to tell me and we had a really good time.;;;;;;;;;;;[From.GetTitledFirstName] è ÿ äîëãî ðàçãîâàðèâàëè. [From.GetSheHeCap] ðàññêàçàë[From.GetEndA] ìíå ìíîãî èíòåðåñíîãî, áûëî âåñåëî, ìû îòëè÷íî ïðîâåëè âðåìÿ.;;x
+EVTDESCB_ZE_12016;I spoke at length with [From.GetFirstName] about a great many things. We laughed a lot, and it seems I have made a new friend.;;;;;;;;;;;[From.GetFirstName] è ÿ äîëãî ðàçãîâàðèâàëè î ðàçíûõ âåùàõ. Áûëî âåñåëî. Ïîõîæå, ìû ñòàëè äðóçüÿìè.;;x
+EVTDESCB_ZE_12020;[timid_events_char_1.GetFirstName] seems very nice. Maybe I should ask if [timid_events_char_1.GetSheHe] wants to play?;;;;;;;;;;;Ìíå íðàâèòñÿ [timid_events_char_1.GetFirstName], [timid_events_char_1.GetSheHe] êëàññí[timid_events_char_1.GetAyaYy]. Ìîæåò ïîçâàòü [timid_events_char_1.GetHersHis] ïîèãðàòü?;;x
+EVTDESCB_ZE_12022;I was strangely and wrongfully accused of stealing fine foods from the personal stores of the [Root.Liege.GetTitle]. However, young [From.GetFirstName] stepped forward to confirm that I was elsewhere at the time and so the suspicions against me were lifted.;;;;;;;;;;;Ìíå îáâèíèëè â êðàæå åäû èç ëè÷íûõ çàïàñîâ íàøåãî ñþçåðåíà, íî þí[From.GetAyaYy] [From.GetFirstName] óñëûøàë[From.GetEndA] ýòî è âûñòóïèë[From.GetEndA] â ìîþ çàùèòó, ðàññêàçàâ, ÷òî âèäåë[From.GetEndA] ìåíÿ â ýòî âðåìÿ â äðóãîì ìåñòå.;;x
+EVTDESCB_ZE_12024;[From.GetFirstName] came over and talked to me, asking if I wanted to be friends.;;;;;;;;;;;[From.GetFirstName] ïîäîø[From.GetLaYol] êî ìíå è ñêàçàë[From.GetEndA], ÷òî õî÷åò ïîäðóæèòüñÿ.;;x
+EVTDESCB_ZE_12026;[From.GetFirstName] eventually stepped forward to defend my honor.;;;;;;;;;;;[From.GetFirstName] âñ¸-òàêè â ïîñëåäíèé ìîìåíò âìåøà[From.GetLasLsya] â ðàçãîâîð è ðàññêàçàë[From.GetEndA] âñ¸, ÷òî âèäåë[From.GetEndA], òåì ñàìûì çàùèòèâ ìîþ ÷åñòü.;;x
+EVTDESCB_ZE_12030;There are so many fun things to do, so many forbidden things. I wonder if [rowdy_events_char_1.GetFirstName] would like to join me in some fun pranks?;;;;;;;;;;;Åñòü ñòîëüêî âåñ¸ëûõ âåùåé, êîòîðûå ìîæíî ïîïðîáîâàòü. Çàõî÷åò ëè [rowdy_events_char_1.GetFirstName] ïîøàëèòü ñî ìíîé?;;x
+EVTDESCB_ZE_12032;[From.GetFirstName] seems content to let me win when we play games.;;;;;;;;;;;Ïîõîæå, [From.GetFirstName] ðåøèë[From.GetEndA] ñìèðèòüñÿ ñ òåì, ÷òî ÿ ïîáåæäàþ â èãðàõ.;;x
+EVTDESCB_ZE_12034;[From.GetFirstName] joined me and we did all kinds of pranks and tricks, everything except summoning [Root.Religion.GetRandomEvilGodName]!;;;;;;;;;;;[From.GetFirstName] ñîãëàñè[From.GetLasLsya], è ìû âìåñòå äåëàëè âñÿêèå çàáàâíûå øòóêè, âåñåëèëèñü ïî ïîëíîé ïðîãðàììå.;;x
+EVTDESCB2_ZE_12034;[From.GetFirstName] didn't want to play.;;;;;;;;;;;[From.GetFirstName] íå õî÷åò èãðàòü.;;x
+EVTDESCB_ZE_12036;Me and [From.GetFirstName] did all kinds of crazy and forbidden things. It was fun!;;;;;;;;;;;ß è [From.GetFirstName] âìåñòå äåëàëè âñÿêèå çàïðåù¸ííûå è ñóìàñøåäøèå øòóêè, áûëî âåñåëî!;;x
+EVTDESCB_ZE_12040;I'm out playing with [willful_events_char_2.GetFirstName] and we're close to the abandoned haunted house, we're not supposed to go there and [willful_events_char_2.GetFirstName] is looking frightened.;;;;;;;;;;;[willful_events_char_2.GetFirstName] è ÿ ñ ñàìîãî óòðà óæå èãðàåì âìåñòå. Íî ñòîèëî íàì ïîäîéòè ê ñòàðîìó çàáðîøåííîìó äîìó, êàê [willful_events_char_2.GetFirstName] ñðàçó çàâîëíîâà[willful_events_char_2.GetLasLsya], [willful_events_char_2.GetSheHe] âûãëÿäèò íàïóãàíí[willful_events_char_2.GetOyYm].;;x
+EVTDESCB_ZE_12042;[From.GetFirstName] really wants to go inside the scary haunted house. It looks like it's dangerous and we have been told not to go near it.;;;;;;;;;;;[From.GetFirstName] äåéñòâèòåëüíî õî÷åò ïîéòè â ýòîò æóòêèé äîì. Ýòî î÷åíü îïàñíî è íàì ãîâîðèëè ìíîãî ðàç äåðæàòüñÿ îò íåãî ïîäàëüøå.;;x
+EVTDESCB_ZE_12044;[From.GetFirstName] says we have to go back now, and if we don't [From.GetSheHe] will tell on me.;;;;;;;;;;;[From.GetFirstName] ñêàçàë[From.GetEndA], ÷òî íàì ïîðà âîçâðàùàòüñÿ ñåé÷àñ æå, èíà÷å [From.GetSheHe] ðàññêàæåò âçðîñëûì îá ýòîì.;;x
+EVTDESCB_ZE_12046;[From.GetFirstName] says [From.GetSheHe] will get someone else to help [From.GetHerHim].;;;;;;;;;;;[From.GetFirstName] ñêàçàë[From.GetEndA], ÷òî ïîïðîñèòü êîãî-íèáóäü äðóãîãî ïîìî÷ü [From.GetHerHim] ñî øëÿïîé.;;x
+EVTDESCB_ZE_12050;'Try it again,' [brooding_events_char_2.GetFirstName] says. But I can't do it! I can't whistle.;;;;;;;;;;;" ""Ïîïðîáóé åù¸ ðàç"", — ñêàçàë[brooding_events_char_2.GetEndA] [brooding_events_char_2.GetFirstName].\n""Íî ó ìåíÿ íå âûõîäèò! ß íå óìåþ ñâèñòåòü"", — íàñòàèâàë[Root.GetEndA] ÿ.";;x
+EVTDESCB_ZE_12052;I woke up feeling a bit hung over, and it's already evening. I vaguely recall [From.GetFirstName] looking at me before I fell asleep. I think I had plans with [From.GetHerHim].;;;;;;;;;;;ß ïðîñíó[Root.GetLasLsya] ñ æóòêèì ïîõìåëüåì, è óæå ïî÷òè âå÷åð. Ïîìíþ, ïåðåä òåì êàê ÿ çàñíóë[Root.GetEndA], [From.GetFirstName] èñêàë[From.GetEndA] ìåíÿ. Ó íàñ áûëè êàêèå-òî ïëàíû íà â÷åðàøíèé äåíü, íî... êàêèå?;;x
+EVTDESCB_ZE_12054;[From.GetFirstName] is quietly mumbling some words and rubbing [From.GetHerHis] face. 'Sorry, I'm sorry' [From.GetSheHe] says..;;;;;;;;;;;"[From.GetFirstName] ïðîáóáíèë[From.GetEndA] ÷òî-òî íåïîíÿòíîå íåñêîëüêî ðàç, íî ÿ ñìîã[Root.GetNoneE] ðàçîáðàòü ""ïðîñòè ìåíÿ""...";;x
+EVTDESCB_ZE_12056;Waking up in my room, I seem to be missing some money. I vaguely remember [From.GetFirstName] being here. Wasn't [From.GetSheHe]?;;;;;;;;;;;Ïðèäÿ â ñåáÿ ïîñëå òÿæ¸ëîãî ïîõìåëüÿ, ÿ çàìåòèë[Root.GetEndA], ÷òî ìîè äåíüãè ïðîïàëè. Êàæåòñÿ, [From.GetFirstName] áûë[From.GetEndA] çäåñü. Äà... òî÷íî.;;x
+EVTDESCB_ZE_12060;I've been asked to go fetch some supplies at the market but it's a long walk. [indolent_events_char_2.GetFirstName] is already going to get other things.;;;;;;;;;;;Ìåíÿ ïîïðîñèëè ñõîäèòü íà ðûíîê, êóïèòü êîå-÷òî, íî ýòî òàê äàëåêî. [indolent_events_char_2.GetFirstName] âñ¸ ðàâíî òóäà ïîéä¸ò. Ìîæåò [indolent_events_char_2.GetSheHe] êóïèò ýòî äëÿ ìåíÿ?;;x
+EVTDESCB_ZE_12062;Today me and [From.GetFirstName] spent some time outside cutting down trees, no complaints from the young [From.GetBoyGirl] and work was finished early.;;;;;;;;;;;Ñåãîäíÿ [From.GetFirstName] è ÿ âìåñòå çàíèìàëèñü âûðóáêîé äåðåâüåâ â ñàäó. Óäèâèòåëüíî, íî [From.GetLadLass] íè ðàçó äàæå íå ïîæàëîâà[From.GetLasLsya], è ìû áûñòðî óïðàâèëèñü ñ ðàáîòîé.;;x
+EVTDESCB_ZE_12064;[From.GetFirstName] seemed worried and brought me some tea. I have to drink it to get better. I also got some freshly baked bread for when I feel better.;;;;;;;;;;;[From.GetFirstName] çàáåñïîêîè[From.GetLasLsya] î ìî¸ì çäîðîâüå, êîãäà ÿ ñêàçàë[Root.GetEndA], ÷òî ó ìåíÿ áîëèò æèâîò. [From.GetSheHeCap] ïðèíåñ[From.GetNoneE] ìíå ÷àþ è äàæå ñâåæèå áóëî÷êè, ÷òîáû ÿ ìîã[Root.GetNoneE] ïîåñòü èõ, êîãäà ìíå ñòàíåò ëó÷øå.;;x
+EVTDESCB_ZE_12066;[From.GetFirstName] was happy when I brought [From.GetHerHim] some tea and bread. [From.GetSheHe] should recover soon.;;;;;;;;;;;[From.GetFirstName] áûë[From.GetEndA] òàê ðàä[From.GetEndA], êîãäà ÿ ïðèíåñ[Root.GetNoneE] [From.GetHerHim] íåìíîãî ÷àÿ è ñâåæèõ áóëî÷åê. Íàäåþñü, [From.GetSheHe] ñêîðî ïîïðàâèòñÿ.;;x
+EVTDESCB_ZE_12070;It's late at night and I get out of bed to use the chamberpot. [playful_events_char_2.GetFirstName] starts calling my name and I see a man hiding under the dining table. He notices me and whispers 'psst, come over here'. ;;;;;;;;;;;"Ïîçíåé íî÷üþ ÿ âñòàë[Root.GetEndA] ñ ïîñòåëè, ÷òîáû âîñïîëüçîâàòüñÿ íî÷íûì ãîðøêîì. [playful_events_char_2.GetFirstName] óæå ïîçâàë[playful_events_char_2.GetEndA] ìåíÿ îáðàòíî, íî âäðóã ÿ óâèäåë[Root.GetEndA], ÷òî êàêîé-òî ìóæ÷èíà ïðÿ÷åòñÿ ïîä ñòîëîì. Îí çàìåòèë ìåíÿ è ïðîøåïòàë ""ýé, [Root.GetLadLass], ïîäîéäè ñþäà"".";;x
+EVTDESCB_ZE_12072;After some hours running errands I was heading back home with [From.GetFirstName]. Just as I told [From.GetHerHim] we were going home [From.GetSheHe] took one of the bags to help carry it without me even asking.;;;;;;;;;;;ß è [From.GetFirstName] óæå çàêàí÷èâàëè ïðîãóëêó, è ïðèøëî âðåìÿ âîçâðàùàòüñÿ äîìîé. Êîãäà ÿ ñêàçàë[Root.GetEndA] [From.GetHerHim] îá ýòîì, [From.GetSheHe] âçÿë ó ìåíÿ îäíó èç ñóìîê è ïîìîã ìíå, õîòÿ ÿ äàæå íå ïðîñèë [From.GetHersHis] îá ýòîì.;;x
+EVTDESCB_ZE_12074;[From.GetFirstName] was not happy that I ran away from [From.GetHerHim] without helping. Now I have to stay indoors all day tomorrow.;;;;;;;;;;;[From.GetFirstName] ðàññåðäè[From.GetLasLsya] èç-çà òîãî, ÷òî ÿ óáåæàë[From.GetEndA]. Òåïåðü ÿ íàêàçàí[Root.GetEndA] è ïîä äîìàøíèì àðåñòîì íà âåñü ñëåäóþùèé äåíü.;;x
+EVTDESCB_ZE_12076;[From.GetFirstName] was a little bit let down that I caught up with [From.GetHerHim] and even called me a cheater. Not always winning is a good thing for children to learn.;;;;;;;;;;;[From.GetFirstName] áûë[From.GetEndA] íåìíîãî ðàññòðîåí[From.GetEndA], êîãäà ÿ äîãíàë[Root.GetEndA] è ïîéìàë[Root.GetEndA] [From.GetHersHis], è äàæå íàçâàë[From.GetEndA] ìåíÿ ìîøåííèêîì. Óìåíèå ïðîèãðûâàòü - âàæíûé óðîê äëÿ ðåá¸íêà.;;x
+EVTDESCB_ZE_12080;After supper, me and [conscientious_events_char_2.GetFirstName] were supposed to help do the dishes. But [conscientious_events_char_2.GetFirstName] hid the dirty dishes and wants to go play instead.;;;;;;;;;;;[conscientious_events_char_2.GetFirstName] âåä¸ò ñåáÿ êðàéíå ëåãêîìûñëåííî. Ïîñëå óæèíà ìû âìåñòå ïîìîãàëè óáèðàòü ñî ñòîëà, íî êîãäà ïðèøëî âðåìÿ ìûòü ïîñóäó, [conscientious_events_char_2.GetSheHe] áðîñèë[conscientious_events_char_2.GetEndA] âñ¸, ÷òîáû ïîéòè èãðàòü.;;x
+EVTDESCB_ZE_12082;After supper, me and [From.GetFirstName] were forced to do dishes. But I was clever and hid them, until [From.GetFirstName] told on me and now I have to do all of it.;;;;;;;;;;;Íåâåðîÿòíî, íî [From.GetFirstName] íàÿáåäíè÷àë[From.GetEndA] íà ìåíÿ! Ïîñëå óæèíà ìû âìåñòå ïîìîãàëè óáèðàòü ñî ñòîëà è, êîãäà âñå óøëè, äîëæíû áûëè ïîìûòü ïîñóäó. ß íå ñòàë[Root.GetEndA] ýòî äåëàòü è óø[Root.GetLaYol] èãðàòü, íî [From.GetSheHe] ðàññêàçàë âçðîñëûì, è òåïåðü âñþ ðàáîòó ïîâåñèëè íà ìåíÿ!;;x
+EVTDESCB_ZE_12084;[From.GetFirstName] ran away when I told on him. The others said I don't have to do all the work alone. But I was a good [Root.GetBoyGirl] for telling them.;;;;;;;;;;;[From.GetFirstName] íå ñòàë[From.GetEndA] ìûòü ïîñóäó è ïðîñòî ñáåæàë[From.GetEndA]. Ìíå ñêàçàëè, ÷òî ÿ íå äîëæ[Root.GetNaEn] äåëàòü ÷òî-ëèáî âìåñòî í[From.GetHersHis], íî ïðàâèëüíî ñäåëàë[Root.GetEndA], ÷òî ðàññêàçàë[Root.GetEndA].;;x
+EVTDESCB_ZE_12086;[From.GetFirstName] was very upset with me and told everyone what I did.;;;;;;;;;;;Ïîõîæå, [From.GetFirstName] ñåðü¸çíî îáèäå[From.GetLasLsya] íà ìåíÿ. [From.GetSheHeCap] ðàññêàçàë[From.GetEndA] âñåì, ÷òî ÿ ñäåëàë[Root.GetEndA].;;x
+EVTDESCB_ZE_12090;Food is on my plate, but steam is coming out of it. I wonder if it's safe to eat? [fussy_events_char_2.GetTitledName] is looking at me.;;;;;;;;;;;Ìèñêà ñ ïîõë¸áêîé äàâíî ó ìåíÿ íà òàðåëêå, íî âñ¸ åù¸ èä¸ò ïàð. Íå îáîæãóñü ëè ÿ? [fussy_events_char_2.GetTitledName] ñìîòðèò íà ìåíÿ è æä¸ò, êîãäà æå ÿ íàêîíåö íà÷íó åñòü.;;x
+EVTDESCB_ZE_12092;[From.GetFirstName] was a bit worried about not finding [From.GetHerHis] favorite toy, but seems to have settled down and is now sound asleep. ;;;;;;;;;;;[From.GetFirstName] ïîíà÷àëó áåñïîêîè[From.GetLasLsya], ÷òî íå ìîæåò íàéòè ñâîþ ëþáèìóþ èãðóøêó, íî ïîòîì ñìèðè[From.GetLasLsya] è ïîø[From.GetLaYol] ñïàòü.;;x
+EVTDESCB_ZE_12094;[From.GetFirstName] finally found my toy after looking for it everywhere. It was in the trash.;;;;;;;;;;;Ñïóñòÿ êàêîå-òî âðåìÿ [From.GetFirstName] âñ¸-òàêè íàø[From.GetLaYol] ìîþ èãðóøêó, ñðåäè ìóñîðà...;;x
+EVTDESCB_ZE_12096;[From.GetFirstName] agreed to go get a new toy the next day and finally settled down.;;;;;;;;;;;[From.GetFirstName] ñîãëàñè[From.GetLasLsya] ñõîäèòü ñî ìíîé è êóïèòü íîâóþ èãðóøêó.;;x
+EVTDESCB_ZE_12100;I woke up early and found a sealed letter addressed to [curious_events_char_2.GetTitledName]. I wonder what it could say?;;;;;;;;;;;"Ñåãîäíÿ óòðîì ÿ ïðîñíó[Root.GetLasLsya] ðàíî è íàø[Root.GetLaYol] êàêîå-òî ïèñüìî. Îíî áûëî çàïå÷àòàíî, à â ãðàôå ""Êîìó"" áûëî íàïèñàíî ""[curious_events_char_2.GetTitledName]"". Èíòåðåñíî, ÷òî æå òàì?";;x
+EVTDESCB_ZE_12102;I come back after a day out fetching some things at the market and see [From.GetFirstName] patiently waiting for me like I asked.;;;;;;;;;;;Âåðíóâøèñü âå÷åðîì ñ ðûíî÷íîé ïëîùàäè, ÿ óâèäåë[Root.GetEndA], ÷òî [From.GetFirstName] òåðïåëèâî îæèäàåò ìåíÿ äîìà, êàê ÿ [From.GetHersHis] è ïðîñèë[Root.GetEndA].;;x
+EVTDESCB_ZE_12104;I followed [From.GetTitledName] to the market, but then [From.GetSheHe] caught me. [From.GetSheHeCap] laughed and said I was hopeless.;;;;;;;;;;;[From.GetTitledName] âåëåë[From.GetEndA] ìíå îñòàâàòüñÿ äîìà è æäàòü [From.GetHersHis], íî ÿ íå óäåðæà[Root.GetLasLsya] è ïîø[Root.GetLaYol] çà í[From.GetEyIm]. Îêàçàëîñü, [From.GetSheHe] îòïðàâè[From.GetLasLsya] íà ðûíîê, ÷òîáû êóïèòü ìíå ïîäàðîê, íî çàìåòèë[From.GetEndA] ìåíÿ òàì. Ðàñõîõîòàâøèñü, [From.GetSheHe] ñêàçàë[From.GetEndA], ÷òî ÿ áåçíàä¸æ[Root.GetNaEn].;;x
+EVTDESCB_ZE_12106;[From.GetFirstName] Seems regretful that [From.GetSheHe] disobeyed me. Hopefully It won't happen again.;;;;;;;;;;;Ïîõîæå, [From.GetFirstName] ñîæàëååò î ñâî¸ì ïîâåäåíèè. Íàäåþñü, áîëüøå ýòî íå ïîâòîðèòñÿ.;;x
+EVTDESCB_ZE_12110;Spending time with [idolizer_events_char_2.GetFirstName] is great. We get along so well. Even when we do chores together time goes by so fast.;;;;;;;;;;;[idolizer_events_char_2.GetFirstName] ïðîñòî íåâåðîÿò[idolizer_events_char_2.GetNaEn], è íàì òàê õîðîøî âìåñòå. Äàæå êîãäà ìû äåëàåì êàêóþ-òî íåïðèÿòíóþ ðàáîòó, âðåìÿ ïðîõîäèò íàìíîãî áûñòðåå.;;x
+EVTDESCB_ZE_12112;[From.GetFirstName] told me that everyone is so kind here. [From.GetSheHeCap] would make sure everyone knew how grateful [From.GetSheHe] is.;;;;;;;;;;;[From.GetFirstName] ñêàçàë[From.GetEndA], ÷òî çäåñü âñå òàê äîáðû ê í[From.GetHersHis], è [From.GetSheHe] õîòåë[From.GetEndA] áû âûðàçèòü ñâîþ áëàãîäàðíîñòü.;;x
+EVTDESCB_ZE_12114;[From.GetFirstName] was humbled by the song I had written. But [From.GetSheHeCap] wanted to make a point of being just an ordinary person, and that I shouldn't give [From.GetHerHim] more credit than [From.GetSheHe] deserves.;;;;;;;;;;;"[From.GetFirstName] áûë[From.GetEndA] òðîíóò[From.GetEndA] ìîåé ïåñíåé â ñâîþ ÷åñòü, íî ñêàçàë[From.GetEndA], ÷òî ÿ ïðåóâåëè÷èâàþ, [From.GetSheHe] - ñàìûé îáû÷íûé ÷åëîâåê, è ìíå íå ñëåäóåò ""òâîðèòü ñåáå êóìèðîâ"".";;x
+EVTDESCB_ZE_12116;[From.GetFirstName] seems to have lost [From.GetHerHis] overwhelming affection for me. For better or worse, it's good to learn moderation. I might not be that special after all.;;;;;;;;;;;Ïîõîæå, [From.GetFirstName] ðàçî÷àðîâà[From.GetLasLsya] âî ìíå. Òàê èëè èíà÷å âî âñ¸ì íàäî çíàòü ìåðó, ÿ âåäü íå òàêîé óæ îñîáåíí[Root.GetAyaYy] â êîíöå êîíöîâ.;;x
+EVTDESCB_ZE_12211;Recently, you notice that there is something wrong with Cuddles. [Root.GetSheHeCap] doesn't scurry around and play like [Root.GetSheHe] used to, [Root.GetSheHe] just lies down and moans pitifully, peering at you with [Root.GetHerHis] little beady eyes. [Root.GetSheHeCap] is obviously sick and starving.;;;;;;;;;;;Íåäàâíî Âû çàìåòèëè, ÷òî ñ Ïóøèñòèêîì ÷òî-òî íå òàê. Îí áîëüøå íå áåãàåò âîêðóã, à ïðîñòî ëåæèò, æàëîáíîãî ïîïèñêèâàÿ. Ïîõîæå, îí çàáîëåë èëè ãîëîäàåò.;;x
+EVTDESCB_ZE_12219;As the guards release you from the dungeon, you take one last look back. You see Cuddles staring at you intently for a moment, [Root.GetHerHis] little eyes shining strangely in the half-darkness. Then [Root.GetSheHe] scurries away into a corner and out of sight.;;;;;;;;;;;Êîãäà ñòðàæíèêè âûïóñòèëè Âàñ èç ïîäçåìåëüÿ, Âû â ïîñëåäíèé ðàç âçãëÿíóëè íà òî, ÷òî îñòàëîñü ïîçàäè. Ïóøèñòèê ïîñìîòðåë íà Âàñ ñâîèìè ìàëåíüêèìè ñèÿþùèìè ãëàçêàìè, à ïîòîì ñêðûëñÿ èç âèäó â ò¸ìíîì óãëó êàìåðû.;;x
+EVTDESCB_ZE_12232;Languishing in the dungeon, I suddenly one day hear a voice calling out. It seems there is another child in these dungeons, in the cell next to mine...;;;;;;;;;;;Òîìÿñü â ñâîåé êàìåðå, îäíàæäû ÿ óñëûøàë[Root.GetEndA] êàêîé-òî òèõèé ãîëîñ, êîòîðûé çîâ¸ò ìåíÿ. Íåóæåëè çäåñü åñòü åù¸ äåòè, êðîìå ìåíÿ?;;x
+EVTDESCC_ZE_12000;Walking outside, I come upon some commoners along the road. One of them calls out, saying I look lovely today.;;;;;;;;;;;Ãóëÿÿ âäîëü äîðîãè, ÿ ïðîø[Root.GetLaYol] ìèìî ïðîñòîëþäèíîâ. Îäèí èç íèõ ïîçâàë ìåíÿ è ñêàçàë, ÷òî ÿ îòëè÷íî âûãëÿæó ñåãîäíÿ.;;x
+EVTDESCC_ZE_12002;As I'm beating a rabid dog in the yard, the little cur [From.GetFirstName] runs up and starts hitting me with a stick.;;;;;;;;;;;Êîãäà ÿ áèë[Root.GetEndA] ýòó áåøåíóþ ïñèíó âî äâîðå, ýòà ìåëêàÿ ïàäëþãà [From.GetFirstName] ñõâàòèë[From.GetEndA] ïàëêó è íà÷àë[From.GetEndA] áèòü ìåíÿ!;;x
+EVTDESCC_ZE_12004;My treatment of that uppity peasant had the unfortunate effect of making more of them angry.;;;;;;;;;;;Òî, êàê ÿ ïîñòóïèë[Root.GetEndA] ñ ýòèì íàõàëüíûì äåðåâåíùèíîé, ïîõîæå ñèëüíî ðàçîçëèëî åãî îäíîñåëü÷àí.;;x
+EVTDESCC_ZE_12010;As I am out playing by myself and taking a break to eat some bread I brought from the kitchens, I suddenly notice a young peasant child staring at me. [Root.GetSheHeCap] looks hungry.;;;;;;;;;;;Ñåãîäíÿ ÿ îïÿòü èãðàë[Root.GetEndA] íà ñâåæåì âîçäóõå, è êàê îáû÷íî, ðåøèë[Root.getEndA] ñäåëàòü ïåðåðûâ, ÷òîáû ïåðåêóñèòü. Ðàçâåðíóâ âçÿòûé ñ ñîáîé êóñîê õëåáà, ÿ óâèäåë[Root.GetEndA], êàê êàêîé-òî áåäíûé êðåñòüÿíñêèé ìàëü÷èê ñìîòðèò íà íåãî, ïîõîæå, îí î÷åíü ãîëîäíûé.;;x
+EVTDESCC_ZE_12012;Young [From.GetTitledFirstName] just walked up to me today, striking up conversation. We ended up having a long talk, about a great many things.;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetTitledFirstName] ñåãîäíÿ âñòðåòè[From.GetLasLsya] ìíå íà ïðîãóëêå, è ìû ðàçãîâîðèëèñü. Áåñåäà áûëà âåñüìà èíòåðåñíîé, ìû îáñóäèëè ìíîãèå âåùè âìåñòå.;;x
+EVTDESCC_ZE_12014;You shared your bread with the peasant child, and then you played together for several hours before parting ways. [Root.GetSheHeCap] waved happily as [Root.GetSheHe] ran home.;;;;;;;;;;;Âû ïîäåëèëèñü õëåáîì ñ ãîëîäíûì ðåá¸íêîì, à ïîòîì ïîèãðàëè âìåñòå ïàðó ÷àñîâ. Êîãäà ïðèøëî âðåìÿ ðàñõîäèòñüÿ, îí ïîìàõàë Âàì íà ïðîùàíèå.;;x
+EVTDESCC_ZE_12020;There's a big dinner feast tonight with many prominent people invited, and it has been decided that I shall perform a song in praise of [Root.Religion.GetRandomGodName] for the guests.;;;;;;;;;;;Ñåãîäíÿ áîëüøîé ïðàçäíè÷íûé óæèí, ïðèãëàøåíî ìíîãî âàæíûõ ëþäåé, è ìíå ñêàçàëè, ÷òî ÿ äîëæ[Root.GetNaEn] ñïåòü äëÿ íèõ.;;x
+EVTDESCC_ZE_12022;[From.GetFirstName] seems to be checking me out, but doesn't come over and talk.;;;;;;;;;;;Ïîõîæå, [From.GetFirstName] ÷òî-òî õî÷åò îò ìåíÿ, íî íèêàê íå ìîæåò ïîäîéòè è ñïðîñèòü.;;x
+EVTDESCC_ZE_12024;A roar of laughter rolled through the hall when the guests were told that I had hid in a chest in order to avoid having to sing for them. Several of them then called me over and offered me food and candies.;;;;;;;;;;;Ñìåõ ïðîêàòèëñÿ ïî çàëó, êîãäà ãîñòÿì ñêàçàëè, ÷òî ÿ îòêàçà[Root.GetLasLsya] ïåòü. Íåêîòîðûå äàæå ïîäîçâàëè ìåíÿ, ÷òîáû óãîñòèòü êîíôåòêîé.;;x
+EVTDESCC_ZE_12030;We are playing outside today, and several of the other children are daring me to climb the tallest watchtower.;;;;;;;;;;;Ñåãîäíÿ ìû èãðàëè âî äâîðå, è ðåáÿòà ïðèíÿëèñü óãîâàðèâàòü ìåíÿ çàáðàòüñÿ íà ñàìóþ âûñîêóþ áàøíþ.;;x
+EVTDESCC_ZE_12032;[From.GetFirstName] excitedly asks me if I wanted to come along and do forbidden things, pranks and the like.;;;;;;;;;;;[From.GetFirstName] ïðåäëàãàåò âìåñòå ïîøàëèòü, ÷òî â [From.GetHersHis] ñëó÷àå îçíà÷àåò, ïîäøóòèòü íàä êåì-òî, íàðóøèòü ïðàâèëà è âñ¸ òàêîå.;;x
+EVTDESCC_ZE_12034;I rapidly climbed up to the top of the tower. But when climbing down again, I slipped. The fall was very painful, but luckily I wasn't very high up.;;;;;;;;;;;ß áûñòðî âçîáðà[Root.GetLasLsya] íà âåðøèíó áàøíè. Íî ñïóñêàÿñü îáðàòíî, ÿ ïîñêîëüçíó[Root.GetLasLsya]. Ïàäåíèå áûëî áîëåçíåííûì, íî, ê ñ÷àñòüþ, ÿ óæå íå áûë[Root.GetEndA] òàê âûñîêî.;;x
+EVTDESCC_ZE_12040;I've been out fishing for hours. I still haven't caught a fish as big as that servant's child got yesterday.;;;;;;;;;;;ß óæå íåñêîëüêî ÷àñîâ òîð÷ó íà ýòîé ÷¸ðòîâîé ðûáàëêå è äî ñèõ ïîð íå ïîéìàë[Root.GetEndA] íè îäíîé ðûáû, õîòü íåìíîãî ïîõîæåé ïî ðàçìåðó íà òó, êîòîðóþ ñûí ñëóãè ïîéìàë â÷åðà.;;x
+EVTDESCC_ZE_12044;After a few more hours, I finally feel something bite. It's a huge fish, probably the biggest fish in [Root.Capital.GetName].;;;;;;;;;;;×åðåç ïàðó ÷àñîâ, ïîïëàâîê íàêîíåö çàä¸ðãàëñÿ. Ýòî áûëà îãðîìíàÿ ðûáà, âîçìîæíî ñàìàÿ áîëüøàÿ èç [Root.Capital.County.GetAdjective]ñêèõ ðûá.;;x
+EVTDESCC_ZE_12046;[From.GetFirstName] still wants to go, and will lie and say it was my idea unless I go with [From.GetHerHim].;;;;;;;;;;;[From.GetFirstName] âñ¸ ðàâíî õî÷åò ïîéòè. [From.GetSheHeCap] ñêàçàë[From.GetEndA], ÷òî îáâèíèò ìåíÿ âî âñ¸ì, åñëè ÿ îòêàæóñü ïîéòè ñ í[From.GetEyIm].;;x
+EVTDESCC_ZE_12050;Everyone was busy at home, so I snuck out to the commoners market. When I got there some children were being mean to a smaller child in ragged clothes.;;;;;;;;;;;Äîìà âñå áûëè çàíÿòû, è ÿ ïîø[Root.GetLaYol] ïðîãóëÿòüñÿ íà ðûíîê. Îêàçàâøèñü òàì, ÿ çàìåòèë[Root.GetEndA], ÷òî íåñêîëüêî äåòåé îáèæàþò ìàëûøà â ðâàíîé îäåæäå.;;x
+EVTDESCC_ZE_12052;[From.GetFirstName] wanted to learn to whistle. After trying for a while [From.GetSheHe] asked me 'How come you can do it?';;;;;;;;;;;[From.GetFirstName] õî÷åò íàó÷èòüñÿ ñâèñòåòü. Ïîñëå ñåðèè íåóäà÷íûõ ïîïûòîê [From.GetSheHe] ñïðîñèë[From.GetEndA] ìåíÿ, êàê ÿ ýòî äåëàþ.;;x
+EVTDESCC_ZE_12054;[From.GetFirstName] told me that whistling is easy. That I can do it if I try. But I've tried many times already.;;;;;;;;;;;[From.GetFirstName] ñêàçàë[From.GetEndA], ÷òî ñâèñòåòü î÷åíü ïðîñòî, è ÷òî åñëè ÿ ïîñòàðàþñü, ó ìåíÿ âñ¸ ïîëó÷èòñÿ. Íî ÿ ïðîáîâàë[Root.GetEndA] óæå ìíîãî ðàç.;;x
+EVTDESCC_ZE_12056;The last thing I remember before falling asleep is apologizing to [From.GetFirstName]. It seems my apology was not what [From.GetSheHe] wanted.;;;;;;;;;;;Ïîñëåäíåå, ÷òî ÿ ïîìíþ - ýòî ìîè èçâèíåíèÿ, íî [From.GetFirstName] èõ ÿâíî íå îöåíèë[From.GetEndA]. Ïîõîæå, èçâèíåíèÿ - ñîâñåì íå òî, ÷òî [From.GetSheHe] îò ìåíÿ æäàë[From.GetEndA].;;x
+EVTDESCC_ZE_12060;I'm reading a poetry book in my room but the weather is so nice outside. There are some children playing in the sun.;;;;;;;;;;;ß ÷èòàþ êíèæêó â ñâîåé êîìíàòå, íî ñåãîäíÿ òàêàÿ õîðîøàÿ ïîãîäà. Äåòè èãðàþò âî äâîðå.;;x
+EVTDESCC_ZE_12062;[From.GetFirstName] asked me to get some things for [From.GetHerHim] at the market as I am already going there. [From.GetSheHeCap] is even paying me;;;;;;;;;;;[From.GetFirstName] ïîïðîñèë[From.GetEndA] ìåíÿ êóïèòü êîå-÷òî íà ðûíêå, ðàç óæ ÿ âñ¸ ðàâíî òóäà èäó. [From.GetSheHeCap] äàæå ïðåäëîæèë[From.GetEndA] çà ýòî äåíüãè.;;x
+EVTDESCC_ZE_12064;[From.GetFirstName] agreed to go get everything if I gave [From.GetHerHim] some extra coin. I should stay in my room so no one knows I'm still home. I've got some time to spend while I'm in here.;;;;;;;;;;;[From.GetFirstName] ñîãëàñè[From.GetLasLsya] êóïèòü äëÿ ìåíÿ âñ¸, ÷òî ïîòðåáóåòñÿ, åñëè ÿ äàì [From.GetHerHim] äåíåã. Íî ÿ äîëæ[Root.GetNaEn] îñòàâàòüñÿ â ñâîåé êîìíàòå, ÷òîáû íèêòî íå óçíàë, ÷òî ÿ íå ïîø[Root.GetLaYol] íà ðûíîê.;;x
+EVTDESCC_ZE_12066;Some motivation can give good results, apparently the pain is all gone now after some convincing and [From.GetFirstName] will come join me.;;;;;;;;;;;Íåêîòîðûå ìåòîäû èíîãäà ñðàáàòûâàþò íåîæèäàííûì îáðàçîì. Êîãäà ÿ ïðèíåñ[Root.GetNoneE] [From.GetHerHim] ÷àÿ è ñâåæèõ áóëî÷åê, áîëü âíåçàïíî ïðîøëà, [From.GetSheHe] ïðèçíà[From.GetLasLsya], ÷òî îòëûíèâàë[From.GetEndA] îò ðàáîòû, è ìû âìåñòå ïîøëè â ñàä, ÷òîáû çàíÿòüñÿ äåðåâüÿìè.;;x
+EVTDESCC_ZE_12070;Today I had to help out digging in the garden, but gardening is boring. The gardener is boring too, but maybe?;;;;;;;;;;;Ñåãîäÿ ÿ äîëæ[Root.GetNaEn] ïîìîãàòü â ñàäó, íî ýòî óæàñíî ñêó÷íî. Ñàäîâíèöà òîæå ñêó÷íàÿ, õîòÿ...;;x
+EVTDESCC_ZE_12072;[playful_events_char_2.GetFirstName] stops calling for me after a while. The man says 'I bet you this gold coin you can't hold your breath until I'm outside'.;;;;;;;;;;;"[playful_events_char_2.GetFirstName] ïåðåñòàë[playful_events_char_2.GetEndA] çâàòü ìåíÿ, ïîñëûøàëñÿ çâóê óäàëÿþùèõñÿ øàãîâ. Íåçíàêîìåö ïðîøåïòàë: ""Ãîòîâ ïîñòàâèòü çîëîòîé íà òî, ÷òî òû íå ñìîæåøü çàäåðæàòü äûõàíèå äî òåõ ïîð, ïîêà ÿ íå ïîêèíó ýòó êîìíàòó"".";;x
+EVTDESCC_ZE_12074;Before I knew it, the man was running out through the door. He didn't even look back once.;;;;;;;;;;;Ïðåæäå ÷åì ÿ ÷òî-òî ïîíÿë[Root.GetEndA], íåçíàêîìåö óäðàë ÷åðåç äâåðü. Îí äàæå íå îãëÿíóëñÿ.;;x
+EVTDESCC_ZE_12076;I heard noises in the middle of the night and when I got up to check on [From.GetFirstName] I had to call out several times. Then [From.GetSheHe] finally answered and I found [From.GetHerHim] under the dining table with a burglar. The guards made quick work of the burglar.;;;;;;;;;;;Ñðåäè íî÷è ÿ óñëûøàë[Root.GetEndA] øóì è ïîø[Root.GetLaYol] ïðîâåðèòü, ãäå [From.GetFirstName], ïîçâàâ [From.GetHersHis] íåñêîëüêî ðàç. Êîãäà [From.GetSheHe] íàêîíåö îòîçâàëñÿ, ÿ íàø[Root.GetLaYol] [From.GetHersHis] ïîä ñòîëîì ñ êàêèì-òî âîðîì! Ñòðàæà ïîçàáîòèëàñü îá îñòàëüíîì.;;x
+EVTDESCC_ZE_12080;It's getting late but I lost my new vest when I was playing somewhere. If I come back without it everyone will think I'm sloppy!;;;;;;;;;;;Óæå ïîçäíî, íî ÿ íèêàê íå ìîãó íàéòè ñâîé íîâûé ïëàù. Äîëæíî áûòü, ÿ çàáûë[Root.GetEndA] åãî ãäå-òî, êîãäà ñíÿë[Root.GetEndA], ÷òîáû ïîèãðàòü. Åñëè ÿ âåðíóñü áåç íåãî, âñå ïîäóìàþò, ÷òî ÿ - íåðÿõà!;;x
+EVTDESCC_ZE_12082;After supper, me and [From.GetFirstName] had to clean up. But we hid all the dishes where no one could see and now we have been playing all evening.;;;;;;;;;;;[From.GetFirstName] - íàñòîÿùèé äðóã. Ïîñëå óæèíà ìû âìåñòå ïîìîãàëè óáèðàòü ñî ñòîëà, à êîãäà ïðèøëî âðåìÿ ìûòü ïîñóäó, âñå óæå óøëè, è ÿ ïðåäëîæèë[Root.GetEndA] áðîñèòü âñ¸ è ïîéòè èãðàòü. [From.GetSheHeCap] î÷åíü îòâåòñòâåíí[From.GetAyaYy], íî âñ¸ ðàâíî ñîõðàíèë[From.GetEndA] íàø ñåêðåò.;;x
+EVTDESCC_ZE_12084;[From.GetFirstName] was angry with me, but we did finish all the work together. Maybe [From.GetSheHe] doesn't like me any more.;;;;;;;;;;;[From.GetFirstName] ðàçîçëè[From.GetLasLsya] íà ìåíÿ, íî ÿ âñ¸ ðàâíî ïîìîã[Root.GetNoneE] [From.GetHerHim] ñ ìûòüåì ïîñóäû. Âîçìîæíî, [From.GetSheHe] òåïåðü ïðåçèðàåò ìåíÿ...;;x
+EVTDESCC_ZE_12090;I was invited to the servants' quarters to eat cake with them tonight. But just as I was going there, it started raining.;;;;;;;;;;;Ñëóãè ïðåäëîæèëè ìíå çàéòè ñåãîäíÿ âå÷åðîì ê íèì â äîìèê, ÷òîáû ïîïðîáîâàòü íîâûé òîðò. ß âûø[Root.GetLaYol] âî äâîð, íî íà÷àëñÿ äîæäü.;;x
+EVTDESCC_ZE_12092;At the table today, [From.GetFirstName] complained about the food being too hot without even touching it.;;;;;;;;;;;Ñåãîäíÿ çà ñòîëîì [From.GetFirstName] ïîáîÿ[From.GetLasLsya] ïðîáîâàòü ïîõë¸áêó, îïàñàÿñü, ÷òî îíà ãîðÿ÷àÿ, è äàæå íå ïðèòðîîíó[From.GetLasLsya] ê íåé, ÷òîáû ïðîâåðèòü.;;x
+EVTDESCC_ZE_12094;[From.GetFirstName] reached over the table and touched my food with [From.GetHerHis] whole hand. [From.GetSheHeCap] said it was not too hot to eat.;;;;;;;;;;;"[From.GetFirstName] âçÿë[From.GetEndA] ìîþ ìèñêó è ïîïðîáîâàë[From.GetEndA] ïîõë¸áêó. ""Âèäèøü? Îíà íå ãîðÿ÷àÿ, ìîæåøü åñòü"", — ñêàçàë[From.GetEndA] [From.GetSheHe] ñîâåðøåííî íåâîçìóòèìûì òîíîì.";;x
+EVTDESCC_ZE_12096;I found the toy [From.GetFirstName] was crying about after going through the trash. But now [From.GetSheHe] is not satisfied because it smells.;;;;;;;;;;;ß íàø[Root.GetLaYol] ïîòåðÿííóþ èãðóøêó ñðåäè ìóñîðà, è [From.GetFirstName] ðàññòðîåí[From.GetEndA], âåäü îíà òåïåðü ãðÿçíàÿ.;;x
+EVTDESCC_ZE_12100;Suddenly I hear something moving around in the bushes next to me. I ask who's there but there's no response.;;;;;;;;;;;"Ìíå ïîêàçàëîñü, â êóñòàõ ÷òî-òî øåâåëèòñÿ. ß ñïðîñèë[Root.GetEndA] ""êòî òàì"", íî íèêòî íå îòâåòèë.";;x
+EVTDESCC_ZE_12102;I could hear someone sneaking around inside and believed it to be a burglar. When I went downstairs I discovered [From.GetFirstName] opening one of my letters.;;;;;;;;;;;Ìíå ïîñëûøàëîñü, ÷òî â äîì ïðîíèêëè âîðû, è ÿ ïîø[Root.GetLaYol] âíèç, ÷òîáû ïðîâåðèòü. Îêàçàëîñü, ýòî áûë[From.GetEndA] [From.GetFirstName]. ß çàñòóêàë[Root.GetEndA] [From.GetHersHis] íà ìåñòå ïðåñòóïëåíèÿ, [From.GetSheHe] âñêðûâàë[From.GetEndA] îäíî èç ìîèõ ïèñåì!;;x
+EVTDESCC_ZE_12104;[From.GetTitledName] saw me opening the letter and grabbed me by the hand. Then he cut my finger with the paper and said I should keep my nose out of others business.;;;;;;;;;;;"[From.GetTitledName] óâèäåë[From.GetEndA], êàê ÿ îòêðûâàþ [From.GetHersHis] ïèñüìî è ñõâàòèë[From.GetEndA] ìåíÿ çà ðóêó. [From.GetSheHeCap] ðàçîçëè[From.GetLasLsya] íå íà øóòêó è ïîðåçàë[From.GetEndA] ìîé ïàëåö áóìàãîé, ñêàçàâ, ÷òîáû ÿ ""íå ñìåë[Root.GetEndA] ñîâàòü íîñ â ÷óæèå äåëà"".";;x
+EVTDESCC_ZE_12106;[From.GetFirstName] seems even more interested in the letter now that [From.GetSheHe] knows it's forbidden.;;;;;;;;;;;Ñóäÿ ïî âñåìó, òåïåðü [From.GetFirstName] åù¸ áîëüøå èíòåðåñóåòñÿ ñîäåðæèìûì ýòîãî ïèñüìà, êîãäà óçíàë[From.GetEndA], ÷òî åãî íåëüçÿ ÷èòàòü.;;x
+EVTDESCC_ZE_12110;I have been praying with the [Root.Religion.GetPriestTitle] for a while and some of the other people in the temple are getting ready to leave.;;;;;;;;;;;Áîëüøèíñòâî óæå ïîêèíóëî õðàì, à ÿ ïðîäîëæàþ ìîëèòüñÿ. Èìååííî çäåñü ÿ ÷óâñòâóþ ñåáÿ íà ñâî¸ì ìåñòå...;;x
+EVTDESCC_ZE_12112;[From.GetFirstName] tells me that [From.GetSheHe] really loves spending time with me. I make [From.GetHerHis] days so much better.;;;;;;;;;;;[From.GetFirstName] ñêàçàë[From.GetEndA], ÷òî [From.GetHerHim] î÷åíü íðàâèòñÿ ïðîâîäèòü ñî ìíîé âðåìÿ, è [From.GetSheHe] î÷åíü ñ÷àñòëèâ[From.GetEndA], êîãäà ÿ ðÿäîì.;;x
+EVTDESCC_ZE_12114;[From.GetFirstName] said that I'm also wonderful to be around. Then [From.GetSheHe] gave me a kiss on the cheek and ran away.;;;;;;;;;;;[From.GetFirstName] ñêàçàë[From.GetEndA], ÷òî òîæå ÷óâñòâóåò íå÷òî ïîäîáíîå, à ïîòîì ïîöåëîâàë[From.GetEndA] ìåíÿ â ù¸êó è óáåæàë[From.GetEndA].;;x
+EVTDESCC_ZE_12116;[From.GetFirstName] said that I'm also wonderful to be around. Then [From.GetSheHe] gave me a kiss on the cheek and ran away.;;;;;;;;;;;[From.GetFirstName] ïîöåëîâàë[From.GetEndA] ìåíÿ â îòâåò, à ïîòîì ðàñêðàñíå[From.GetLasLsya] è óáåæàë[From.GetEndA].;;x
+EVTDESCC_ZE_12211;Recently, you notice that there is something wrong with Smelly. [Root.GetSheHeCap] doesn't scurry around and play like [Root.GetSheHe] used to, [Root.GetSheHe] just lies down and moans pitifully, peering at you with [Root.GetHerHis] little beady eyes. [Root.GetSheHeCap] is obviously sick and starving.;;;;;;;;;;;Íåäàâíî Âû çàìåòèëè, ÷òî ñ Âîíþ÷êîé ÷òî-òî íå òàê. Îí áîëüøå íå áåãàåò âîêðóã, à ïðîñòî ëåæèò, æàëîáíîãî ïîïèñêèâàÿ. Ïîõîæå, îí çàáîëåë èëè ãîëîäàåò.;;x
+EVTDESCC_ZE_12219;As the guards release you from the dungeon, you take one last look back. You see Smelly staring at you intently for a moment, [Root.GetHerHis] little eyes shining strangely in the half-darkness. Then [Root.GetSheHe] scurries away into a corner and out of sight.;;;;;;;;;;;Êîãäà ñòðàæíèêè âûïóñòèëè Âàñ èç ïîäçåìåëüÿ, Âû â ïîñëåäíèé ðàç âçãëÿíóëè íà òî, ÷òî îñòàëîñü ïîçàäè. Âîíþ÷êà ïîñìîòðåë íà Âàñ ñâîèìè ìàëåíüêèìè ñèÿþùèìè ãëàçêàìè, à ïîòîì ñêðûëñÿ èç âèäó â ò¸ìíîì óãëó êàìåðû.;;x
+EVTDESCD_ZE_12002;As I'm beating a rabid dog in the yard, little [From.GetFirstName] runs up and joins in the beating.;;;;;;;;;;;Êîãäà ÿ áèë[Root.GetEndA] ýòó áåøåíóþ ïñèíó âî äâîðå, ìàëåíüê[From.GetAyaIy] [From.GetFirstName] ïîäîø[From.GetLaYol] è ñòàë[From.GetEndA] áèòü ñîáàêó âìåñòå ñî ìíîé.;;x
+EVTDESCD_ZE_12004;My treatment of that uppity peasant really put him and the others in their place.;;;;;;;;;;;Òî, êàê ÿ ïîñòóïèë[Root.GetEndA] ñ ýòèì íàõàëüíûì äåðåâåíùèíîé, óäèâèëî åãî îäíîñåëü÷àí.;;x
+EVTDESCD_ZE_12012;Young [From.GetTitledFirstName] just walked up to me today, and as I was about to greet [From.GetHerHim], [From.GetSheHe] just stuck [From.GetHerHis] tongue out and ran away...;;;;;;;;;;;Þí[From.GetAyaYy] [From.GetTitledFirstName] ñåãîäíÿ âñòðåòè[From.GetLasLsya] ìíå íà ïðîãóëêå, è ÿ ïîïðèâåòñòâîâàë[Root.GetEndA] [From.GetHersHis], íî [From.GetSheHe] íå ñìîã[From.GetNoneE] âûìîëâèòü è ñëîâà, à ïîòîì è âîâñå óáåæàë[From.GetEndA]...;;x
+EVTDESCD_ZE_12014;You shared your bread with the child and then you played together for a while, until your nannies came and angrily interrupted you. As your friend ran away, the nannies said they'd tell [Educator.GetTitledFirstName] that you had been bad.;;;;;;;;;;;Âû ïîäåëèëèñü õëåáîì ñ ãîëîäíûì ðåá¸íêîì, à ïîòîì íåìíîãî ïîèãðàëè âìåñòå, íî íÿíüêè âåðíóëèñü è ïðåðâàëè Âàñ. Îíè î÷åíü çëèëèñü è ïîîáåùàëè, ÷òî äîëîæàò î Âàøåì ïëîõîì ïîâåäåíèè.;;x
+EVTDESCD_ZE_12022;[From.GetFirstName] came over to me and said [From.GetSheHe] wanted us to be friends!;;;;;;;;;;;[From.GetFirstName] ïîäîø[From.GetLaYol] êî ìíå è ñêàçàë[From.GetEndA], ÷òî õî÷åò ïîäðóæèòüñÿ.;;x
+EVTDESCD_ZE_12024;The guests were all very offended at my refusal to sing for them.;;;;;;;;;;;Ãîñòè î÷åíü îáèäåëèñü, êîãäà óñëûøàëè, ÷òî ÿ îòêàçà[Root.GetLasLsya] ïåòü äëÿ íèõ.;;x
+EVTDESCD_ZE_12032;[From.GetFirstName] asks me if I wanted to play dice.;;;;;;;;;;;[From.GetFirstName] ïðåäëàãàåò ìíå ïîèãðàòü â êîñòè.;;x
+EVTDESCD_ZE_12034;Agile as a squirrel, I rapidly climbed up the tower and then down again. Everyone was very impressed.;;;;;;;;;;;Ñ ïðîâîðñòâîì áåëêè, ÿ áûñòðî çàáðà[Root.GetLasLsya] íà áàøíþ è ñïóñòèëñÿ îáðàòíî âíèç. Ýòî óäèâèëî âñåõ.;;x
+EVTDESCD_ZE_12044;I'm just about to give up, but then it happened. I caught a fish, but it's not very big.;;;;;;;;;;;Óæå ïî÷òè îò÷àÿâøèñü, ÿ íàêîíåö ïîéìàë[Root.GetEndA] ðûáó, íî îíà áûëà íåáîëüøîé.;;x
+EVTDESCD_ZE_12046;[From.GetFirstName] said I was right and we went back home, away from the scary house.;;;;;;;;;;;[From.GetFirstName], îáîçâàâ ìåíÿ òðóñèøêîé, ñîãëàñè[From.GetLasLsya] óéòè ïîäàëüøå îò ñòðàøíîãî äîìà è âåðíóòüñÿ äîìîé.;;x
+EVTDESCD_ZE_12052;[From.GetFirstName] asked me to teach [From.GetHerHim] how to whistle. I must have inspired [From.GetHerHim], now [From.GetSheHe] has been at it for hours.;;;;;;;;;;;[From.GetFirstName] ïîïðîñèë[From.GetEndA] ìåíÿ íàó÷èòü [From.GetHersHis] ñâèñòåòü. Äîëæíî áûòü, ÿ âäîõíîâèë[Root.GetEndA] [From.GetHersHis], è òåïåðü [From.GetSheHe] ÷àñàìè ïûòàåòñÿ ýòî ñäåëàòü.;;x
+EVTDESCD_ZE_12054;[From.GetFirstName] said that not everyone learns to whistle. Some can never do it.;;;;;;;;;;;[From.GetFirstName] ñêàçàë[From.GetEndA], ÷òî íå êàæäûé ìîæåò íàó÷èòüñÿ ñâèñòåòü. Íåêîòîðûì ýòî íå äàíî.;;x
+EVTDESCD_ZE_12056;I wake up, and [From.GetFirstName] is still by my side. [From.GetSheHeCap] has brought me some water to drink, and covered me with a blanket. I don't deserve treatment like this. But if [From.GetSheHe] sees good in me...;;;;;;;;;;;Êîãäà ÿ ïðèø[Root.GetLaYol] â ñåáÿ, [From.GetFirstName] âñ¸ åù¸ áûë[From.GetEndA] ðÿäîì. [From.GetSheHeCap] ïðèíåñ[From.GetNoneE] ìíå íåìíîãî âîäû è íàêðûë[From.GetEndA] îäåÿëîì. ß íå çàñëóæèâàþ ñòîëü äîáðîãî îòíîøåíèÿ ê ñåáå, íî [From.GetSheHe] âèäèò âî ìíå ÷òî-òî õîðîøåå...;;x
+EVTDESCD_ZE_12062;[From.GetFirstName] came with me to the market today, we both had to go get some groceries and had time to talk a lot.;;;;;;;;;;;[From.GetFirstName] è ÿ ñåãîäíÿ âìåñòå ñõîäèëè íà ðûíîê. Ìû êóïèëè âñ¸, ÷òî íàì âåëåëè, è îòëè÷íî ïðîâåëè âðåìÿ.;;x
+EVTDESCD_ZE_12064;[From.GetFirstName] didn't want to help me out. [From.GetSheHeCap] is already heading out.;;;;;;;;;;;[From.GetFirstName] îòêàçà[From.GetLasLsya] êóïèòü òî, ÷òî ìíå ïîðó÷èëè, êîãäà ïîéä¸ò íà ðûíîê. Ïîõîæå, äàæå ìîè äåíüãè íå èçëå÷àò [From.GetHersHis] äóøåâíûå ñòðàäàíèÿ îò òîãî, ÷òî ÿ áóäó îòäûõàòü, à [From.GetSheHe] íåò.;;x
+EVTDESCD_ZE_12072;[From.GetFirstName] was not in [From.GetHerHis] his room and I was starting to get worried. When [From.GetSheHe] finally answered I found [From.GetHerHim] staring at a burglar who was trying to hide from me.;;;;;;;;;;;[From.GetFirstName] íå áûë[From.GetEndA] â ñâîåé êîìíàòå, è ÿ óæå ñòàë[Root.GetEndA] âîëíîâàòüñÿ, íî êîãäà [From.GetSheHe] íàêîíåö îòîçâà[From.GetLasLsya], ÿ óâèäåë[Root.GetEndA], ÷òî [From.GetSheHe] íàø[From.GetLaYol] òîãî âîðà, êîòîðûé ïðÿòàëñÿ ïîä ñòîëîì.;;x
+EVTDESCD_ZE_12074;[From.GetFirstName] seemed shocked when [From.GetSheHe] found me. The guards came and took the man hiding under the table. They said he was a bad man and I should stay away from strangers.;;;;;;;;;;;[From.GetFirstName] áûë[From.GetEndA] óäèâë[From.GetNaEn], êîãäà íàø[From.GetLaYol] ìåíÿ. Ñòðàæíèêè êóäà-òî óâåëè ìóæ÷èíó èç ïîä ñòîëà. Îíè ñêàçàëè, îí áûë ïëîõèì ÷åëîâåêîì, à ìíå íå ñëåäóåò ðàçãîâàðèâàòü ñ íåçíàêîìöàìè.;;x
+EVTDESCD_ZE_12084;I was out too long in the evening, and it hurts when I breathe. The adults say I have to rest a lot.;;;;;;;;;;;Ãîâîðÿò, ýòî âñ¸ ïîòîìó ÷òî ÿ äîëãî ãóëÿë[Root.GetEndA] íà ñûðîì è õîëîäíîì âîçäóõå. Ó ìåíÿ ñëàáîñòü è áîëüíî äûøàòü.;;x
+EVTDESCD_ZE_12092;[From.GetFirstName] was very happy at dinner today, eating with great appetite.;;;;;;;;;;;Ñåãîäíÿ çà îáåäîì [From.GetFirstName] åë[From.GetEndA] ñ áîëüøèì àïïåòèòîì è áûë[From.GetEndA] âåñüìà äîâîë[From.GetSoftNaEn].;;x
+EVTDESCD_ZE_12094;[From.GetFirstName] seemed angry with me and told me to wait until I felt the food's temperature was just right. Now its cool enough.;;;;;;;;;;;"[From.GetFirstName] ñ òðóäîì ñäåðæèâàë[From.GetEndA] ãíåâ. ""Ëàäíî. Ìû ïîäîæä¸ì, ïîêà îñòûíåò... Íî òû íå âûéäåøü èç-çà ñòîëà, ïîêà íå ïîåøü"", — ñêàçàë[From.GetEndA] [From.GetSheHe], óñòàâèâøèñü íà ìåíÿ ïðåçðèòåëüíûì âçãëÿäîì. Ìû ïðîñèäåëè òàê ïîë÷àñà.";;x
+EVTDESCD_ZE_12096;[From.GetFirstName] finally fell asleep after I found [From.GetHerHis] toy.;;;;;;;;;;;[From.GetFirstName] íàêîíåö-òî ëåã[From.GetNoneE] ñïàòü, êîãäà ÿ íàø[Root.GetLaYol] [From.GetHersHis] ëþáèìóþ èãðóøêó.;;x
+EVTDESCD_ZE_12102;I had expected some letters today but couldn't find any. I was suspicious at first but when I asked [From.GetFirstName] [From.GetSheHe] pointed to a table where they were already sorted for me, untouched.;;;;;;;;;;;"Ñåãîäíÿ ÿ æäàë[Root.GetEndA] ïèñüìî, íî íèêàê íå ìîã[Root.GetNoneE] åãî íèãäå íàéòè. ""[From.GetFirstName], äîðîã[From.GetAyaOy], òû ñëó÷àéíî íå âèäåë[From.GetEndA] òóò ïèñüìî?"" — ñïðîñèë[Root.GetEndA] ÿ áåç îñîáîé íàäåæäû íà óñïåõ. Íî êàêîâî æå áûëî ìî¸ óäèâëåíèå, êîãäà â îòâåò [From.GetSheHe] óêàçàë[From.GetEndA] íà ñòîë, îíî ëåæàëî íà âèäó, íåâñêðûòîå.";;x
+EVTDESCD_ZE_12104;[From.GetTitledName] came downstairs just as I was opening the letter but [From.GetSheHe] wasn't angry with me. [From.GetSheHeCap] told me it is considered rude to go through other people's belongings.;;;;;;;;;;;[From.GetTitledName] çàìåòèë[From.GetEndA], ÷òî ÿ âñêðûâàþ [From.GetHersHis] ïèñüìî, êîãäà çàø[From.GetLaYol] â ñâîé êàáèíåò, íî, íà óäèâëåíèå, ñîâñåì íå ðàçîçëè[From.GetLasLsya]. [From.GetSheHeCap] íà÷àë[From.GetEndA] ïîäðîáíî îáúÿñíÿòü ìíå, êàê âàæíî óâàæàòü ÷àñòíóþ æèçíü è ñîáñòâåííîñòü äðóãèõ ëþäåé.;;x
+EVTDESCD_ZE_12106;After talking to [From.GetFirstName] [From.GetSheHe] seems to understand the concept of privacy better.;;;;;;;;;;;Ìû ïîãîâîðèëè, è òåïåðü, äóìàþ, [From.GetFirstName] ïîíèìàåò, íàñêîëüêî âàæíà íåïðèêîñíîâåííîñòü ÷àñòíîé æèçíè.;;x
+EVTDESCD_ZE_12112;[From.GetFirstName] and I always get along well and now [From.GetSheHe] told me that we should stay friends forever.;;;;;;;;;;;[From.GetFirstName] ñêàçàë[From.GetEndA], ÷òî íàì òàê âåñåëî âìåñòå, è [From.GetSheHe] õî÷åò, ÷òîáû ìû âñåãäà îñòàâàëèñü ëó÷øèìè äðóçüÿìè.;;x
+EVTDESCD_ZE_12114;[From.GetFirstName] seemed a bit uneasy when I told [From.GetHerHim] how I felt. [From.GetSheHeCap] said that it was a nice thing to say, but maybe we should spend less time together.;;;;;;;;;;;"[From.GetFirstName] áûë[From.GetEndA] ñìóùåí[From.GetEndA] ìîèì ïðèçíàíèåì, à ïîòîì ñêàçàë[From.GetEndA], ÷òî ""âñ¸ ýòî î÷åíü ìèëî, íî íàì ëó÷øå âèäåòüñÿ íå òàê ÷àñòî"".";;x
+EVTDESCD_ZE_12116;[From.GetFirstName] seemed a bit uneasy when I told [From.GetHerHim] how I felt. [From.GetSheHeCap] said that it was a nice thing to say, but maybe we should spend less time together.;;;;;;;;;;;Ïîõîæå, [From.GetFirstName] ñîâñåì íå òî èìåë[From.GetEndA] â âèäó. Òåïåðü [From.GetSheHe] èçáåãàåò ìåíÿ. Êàê æå ñòûäíî...;;x
+EVTDESCE_ZE_12054;The bullies all scatter when I tell them to stop. The small child looks at me and asks for food without mentioning the others and what they did. Is this how commoners live?;;;;;;;;;;;Õóëèãàíû áðîñèëèñü âðàññûïíóþ, êàê òîëüêî ÿ ñêàçàë[Root.GetEndA] èì îñòàíîâèòüñÿ. Ìàëåíüêèé ìàëü÷èê ïîñìîòðåë íà ìåíÿ è, êàê íè â ÷åì íå áûâàëî, ïîïðîñèë åäû, íå îáðàùàÿ âíèìàíèÿ íà ïðîèçîøåäøåå òîëüêî ÷òî. Âîò çíà÷èò êàê æèâóò ïðîñòîëþäèíû.;;x
+EVTDESCE_ZE_12056;[From.GetFirstName] seems a bit frustrated by [From.GetHerHis] failed attempts. [From.GetSheHeCap] doesn't seem to respond well to my encouraging words.;;;;;;;;;;;[From.GetFirstName], êàæåòñÿ, íåìíîãî ðàññòðîåí[From.GetEndA] èç-çà íåóäà÷íûõ ïîïûòîê. Íå ïîõîæå, ÷òîáû [From.GetSheHe] ðåàãèðîâàë[From.GetEndA] íà ìîè îáîäðÿùèå ñëîâà ñ äîëæíûì ýíòóçèàçìîì.;;x
+EVTDESCE_ZE_12064;The other children are chasing each other, lots of running and jumping.;;;;;;;;;;;Äðóãèå äåòè áåãàþò äðóã çà äðóãîì, ïðûãàþò è âñ¸ òàêîå.;;x
+EVTDESCE_ZE_12074;We had some time to play before we finished all of the work.;;;;;;;;;;;Ìû íåìíîãî ïîèãðàëè âî âðåìÿ ðàáîòû.;;x
+EVTDESCE_ZE_12084;Yes! I found my vest and no one will even know it was missing.;;;;;;;;;;;Äà! ß íàø[Root.GetLaYol] ñâîé ïëàù! Íèêòî äàæå íå óçíàë, ÷òî ÿ òåðÿë[Root.GetEndA] åãî.;;x
+EVTDESCE_ZE_12094;I ran very fast and I made it in time. We had lots of fun and the servants seem to like me.;;;;;;;;;;;ß áåæàë[Root.GetEndA] äîñòàòî÷íî áûñòðî è óñïåë[Root.GetEndA] äî òîãî, êàê äîæäü óñèëèëñÿ. Ìû âåñåëî ïðîâåëè âðåìÿ, ñëóãàì ÿ ïîíðàâè[Root.GetLasLsya].;;x
+EVTDESCE_ZE_12096;No matter what I do or avoid doing, there seems to be no good way to make [From.GetFirstName] relax. [From.GetSheHeCap] won't eat at all now and I have no more energy to deal with it.;;;;;;;;;;;×òî áû ÿ íè äåëàë[Root.GetEndA], [From.GetFirstName] âå÷íî íåäîâîë[From.GetSoftNaEn]. [From.GetSheHeCap] îòêàçûâàåòñÿ åñòü, è ìíå óæå íàäîåëî áîðîòüñÿ ñ ýòèì.;;x
+EVTDESCE_ZE_12104;It was a big disgusting rat. It hissed and bit me in the hand and now it hurts, a lot!;;;;;;;;;;;Ýòî áûëà îãðîìíàÿ ìåðçêàÿ êðûñà. Îíà ïèñêíóëà è óêóñèëà ìåíÿ! Òåïåðü ðóêà ñèëüíî áîëèò.;;x
+EVTDESCE_ZE_12114;After a whole night of religious ritual, I started getting hungry and my mind wandered. Maybe [Root.Religion.GetRandomGodName] is happy with the time I spent here.;;;;;;;;;;;Ïðîâåäÿ âñþ íî÷ü â õðàìå, ÿ ïðîãîëîäà[Root.GetLasLsya], è ó ìåíÿ çàêðóæèëàñü ãîëîâà. Äóìàþ, [Root.Religion.GetRandomGodName] çàìåòèò, êàê ÿ ñòàðàþñü.;;x
+EVTDESCF_ZE_12056;[From.GetFirstName] went back to [From.GetHerHis] room to do other things now.;;;;;;;;;;;[From.GetFirstName], â êîíöå êîíöîâ, ïðîñòî âåðíó[From.GetLasLsya] â ñâîþ êîìíàòó è çàíÿ[From.GetLasLsya] äðóãèìè äåëàìè.;;x
+EVTDESCF_ZE_12074;She was not ticklish, and now she is telling everybody what a hassle I am to have around.;;;;;;;;;;;"Îíà ÿâíî íå ëþáèò ùåêîòêó. Áîëåå òîãî, îíà ðàññêàçàëà âñåì, êàêîé ÿ ""íåñíîñíûé ðåá¸íîê"".";;x
+EVTDESCF_ZE_12094;I made it to the servants' quarters, but I got very wet. Then we had a good time and they felt sorry for me having to go out in the cold..;;;;;;;;;;;Ê òîìó ìîìåíòó, êîãäà ÿ äîáåæàë[Root.GetEndA] ê äîìèêó äëÿ ñëóã, âñÿ ìîÿ îäåæäà íàñêâîçü ïðîìîêëà. È õîòÿ ìû õîðîøî ïðîâåëè âðåìÿ, îíè äîëãî èçâèíÿëèñü çà òî, ÷òî âñ¸ òàê îáåðíóëîñü.;;x
+EVTDESCF_ZE_12096;[From.GetFirstName] finally decided to eat [From.GetHerHis] food.;;;;;;;;;;;[From.GetFirstName] íàêîíåö-òî ñîãëàñè[From.GetLasLsya] ïîåñòü.;;x
+EVTDESCF_ZE_12104;I found an injured bird, it seems to have fallen from its nest. Maybe I can keep it as a pet while it recovers.;;;;;;;;;;;ß íàø[Root.GetLaYol] ðàíåíóþ ïòè÷êó. Ïîõîæå, îíà âûïàëà èç ãíåçäà. Íàäî îñòàâèòü å¸ ó ñåáÿ, ïîêà îíà íå ïîïðàâèòñÿ.;;x
+EVTOPTA_ZE_12000;It's inappropriate, and I will tell [haughty_events_char_1.GetHerHim]!;;;;;;;;;;;Ýòî íåïðàâèëüíî, ÿ ñêàæó [haughty_events_char_1.GetHerHim]!;;x
+EVTOPTA_ZE_12002;I'll catch the brat and give [From.GetHerHim] a good hiding!;;;;;;;;;;;ß ïîéìàþ [From.GetHersHis] è âûïîðþ!;;x
+EVTOPTA_ZE_12004;The [GetRootFromInsult]! I will tell everyone!;;;;;;;;;;;[GetRootFromInsult]! ß âñåì ðàññêàæó!;;x
+EVTOPTA_ZE_12010;I could let [affectionate_events_char_1.GetHerHim] play with them.;;;;;;;;;;;Ïóñòü ïîèãðàåò ñ íèìè, åñëè õî÷åò.;;x
+EVTOPTA_ZE_12012;Yes, that would be nice!;;;;;;;;;;;Óðà, ñïàñèáî!;;x
+EVTOPTA_ZE_12014;It's so nice to share with others!;;;;;;;;;;;Äåëèòü ðàäîñòü ñ äðóãèìè òàê ïðèÿòíî.;;x
+EVTOPTA_ZE_12016;Let's play again sometime!;;;;;;;;;;;Äàâàé, ïîèãðàåì ïîòîì åù¸!;;x
+EVTOPTA_ZE_12020;No one would listen to me anyway...;;;;;;;;;;;Âñ¸ ðàâíî íèêòî ìåíÿ íå ïîñëóøàåò...;;x
+EVTOPTA_ZE_12022;The little wretch!;;;;;;;;;;;Ìåëêîå îòðîäüå!;;x
+EVTOPTA_ZE_12024;What? It's not my problem!;;;;;;;;;;;Íî ÿ-òî òóò ïðè ÷¸ì?;;x
+EVTOPTA_ZE_12026;I shall remember this.;;;;;;;;;;;ß [From.GetHerHim] ýòî ïðèïîìíþ.;;x
+EVTOPTA_ZE_12030;I'll tell [rowdy_events_char_1.GetHerHim] to stop!;;;;;;;;;;;ß âåëþ [rowdy_events_char_1.GetHerHim] îñòàíîâèòüñÿ!;;x
+EVTOPTA_ZE_12030_TOOLTIP1;The matter escalates...\n;;;;;;;;;;;Äåëî îáîñòðèòñÿ...\n;;x
+EVTOPTA_ZE_12032;I'll tell [From.GetHerHim] to get lost!;;;;;;;;;;;Íå íðàâèòñÿ, ïóñòü ïðîâàëèâàåò!;;x
+EVTOPTA_ZE_12034;Fist fiiiiight!;;;;;;;;;;;Äàòü [From.GetHerHim] ïî ðîæå!;;x
+EVTOPTA_ZE_12036;Come on then, you [GetRootFromInsult]!;;;;;;;;;;;Äàòü [From.GetHerHim] ñäà÷è!;;x
+EVTOPTA_ZE_12040;It will fit if you help me.;;;;;;;;;;;Îíà íàëåçåò! Ïîìîãèòå ìíå.;;x
+EVTOPTA_ZE_12042;No child tells me what to do.;;;;;;;;;;;Íè îäèí ðåá¸íîê íå áóäåò óêàçûâàòü ìíå, ÷òî äåëàòü.;;x
+EVTOPTA_ZE_12044;[From.GetSheHeCap]'s a meanie!;;;;;;;;;;;[From.GetSheHeCap] çë[From.GetAyaOy]!;;x
+EVTOPTA_ZE_12046;Well [From.GetSheHe]'s stupid.;;;;;;;;;;;Ìàëåíüê[From.GetAyaIy] è ãëóï[From.GetAyaYy], ÷òî òóò ïîäåëàòü...;;x
+EVTOPTA_ZE_12050;Pour some water on [brooding_events_char_1.GetHerHim].;;;;;;;;;;;Îêàòèòü [brooding_events_char_1.GetHersHis] âîäîé èç êóâøèíà.;;x
+EVTOPTA_ZE_12052;I'll show [From.GetHerHim]!;;;;;;;;;;;[From.GetSheHeCap] ó ìåíÿ ïîëó÷èò!;;x
+EVTOPTA_ZE_12054;My life will never be like this.;;;;;;;;;;;ß íèêîãäà íå ñòàíó òàê[Root.GetOyIm], êàê [From.GetSheHe].;;x
+EVTOPTA_ZE_12056;I have seen better days.;;;;;;;;;;;Õðåíîâûé âûäàëñÿ äåí¸ê...;;x
+EVTOPTA_ZE_12060;Ouch, my stomach hurts suddenly.;;;;;;;;;;;Îõ. Êàæåòñÿ, ó ìåíÿ æèâîò ðàçáîëåëñÿ.;;x
+EVTOPTA_ZE_12062;Indolent brat, I'll show [From.GetHerHim].;;;;;;;;;;;Ìàëåíüê[From.GetAyaIy] ëåíòÿé[From.GetEndKa]! ß [From.GetHerHim] ïîêàæó!;;x
+EVTOPTA_ZE_12064;Now I can't use my arm to cut trees.;;;;;;;;;;;Àé! Òåïåðü èç-çà Âàñ ó ìåíÿ ðóêà áîëèò.;;x
+EVTOPTA_ZE_12066;Hopeless...;;;;;;;;;;;Íó òâîþ æ...;;x
+EVTOPTA_ZE_12070;Race me!;;;;;;;;;;;Íå äîãîíèòå!;;x
+EVTOPTA_ZE_12072;Race [From.GetHerHim].;;;;;;;;;;;Ïîáåæàòü çà í[From.GetEyIm].;;x
+EVTOPTA_ZE_12074;[From.GetSheHeCap] is so fast.;;;;;;;;;;;[From.GetSheHeCap] òàê[From.GetAyaOy] áûñòð[From.GetAyaYy].;;x
+EVTOPTA_ZE_12076;It will change.;;;;;;;;;;;Ýòî ðàíî èëè ïîçäíî èçìåíèòñÿ.;;x
+EVTOPTA_ZE_12080;I will sort it out for [conscientious_events_char_1.GetHerHim].;;;;;;;;;;;ß ýòîãî òàê íå îñòàâëþ, ïîðà íàâåñòè òóò ïîðÿäîê.;;x
+EVTOPTA_ZE_12082;I'll mess up [From.GetHerHis] chambers.;;;;;;;;;;;ß ñäåëàþ òî æå ñàìîå ñ [From.GetHersHis] êîìíàòîé!;;x
+EVTOPTA_ZE_12084;Now I have to clean again.;;;;;;;;;;;Òåïåðü íàäî ñíîâà óáèðàòüñÿ...;;x
+EVTOPTA_ZE_12086;Maybe I shouldn't have.;;;;;;;;;;;Ìíå íå ñòîèëî òàê ïîñòóïàòü ñ í[From.GetEyIm].;;x
+EVTOPTA_ZE_12090;I can't sleep without it!;;;;;;;;;;;ß íå ìîãó çàñíóòü áåç íå¸!;;x
+EVTOPTA_ZE_12092;I'll offer to buy a new one.;;;;;;;;;;;ß ïðåäëîæó [From.GetHerHim] êóïèòü íîâóþ.;;x
+EVTOPTA_ZE_12094;It's not the same, I want my toy!;;;;;;;;;;;Íî ÿ õî÷ó ÑÂÎÞ èãðóøêó!;;x
+EVTOPTA_ZE_12096;There is no pleasing this child.;;;;;;;;;;;[From.GetSheHeCap] ïðîñòî íåâûíîñèì[From.GetEndA].;;x
+EVTOPTA_ZE_12100;I will follow [curious_events_char_1.GetHerHim] to see what [curious_events_char_1.GetSheHe] is up to!;;;;;;;;;;;ß ïîéäó çà í[curious_events_char_1.GetEyIm] è ïîñìîòðþ.;;x
+EVTOPTA_ZE_12102;I'll grab [From.GetHerHim] by the ear and have a serious talk.;;;;;;;;;;;ß çàäàì [From.GetHerHim] ñåðü¸çíóþ âçáó÷êó.;;x
+EVTOPTA_ZE_12104;[From.GetSheHeCap] is hiding something.;;;;;;;;;;;[From.GetSheHeCap] ÷òî-òî ñêðûâàåò îò ìåíÿ.;;x
+EVTOPTA_ZE_12106;Worrying.;;;;;;;;;;;Íäà...;;x
+EVTOPTA_ZE_12110;I'll write [idolizer_events_char_1.GetHerHim] a song!;;;;;;;;;;;ß ñî÷èíþ äëÿ í[idolizer_events_char_1.GetHersHis] ïåñíþ!;;x
+EVTOPTA_ZE_12112;I can tell stories to impress [From.GetHerHim].;;;;;;;;;;;Íó ÷òî æ, ðàññêàæó [From.GetHerHim] ïàðó èñòîðèé.;;x
+EVTOPTA_ZE_12114;I wish [From.GetSheHe] was my [From.GetFatherMother].;;;;;;;;;;;Æàëü, ÷òî [From.GetSheHe] - íå ì[From.GetOyaOy] [From.GetMomDad]à.;;x
+EVTOPTA_ZE_12116;I hope I'm a good influence on [From.GetHerHim].;;;;;;;;;;;Íàäåþñü, ñìîãó õîðîøî íà í[From.GetHersHis] ïîâëèÿòü.;;x
+EVTOPTA_ZE_12210;I name you Flipper.;;;;;;;;;;;ß íàçîâó òåáÿ Ïðîíûðà.;;x
+EVTOPTA_ZE_12211;I'll share my food with [Root.GetHerHim].;;;;;;;;;;;Ïîäåëèòüñÿ åäîé ñ íèì.;;x
+EVTOPTA_ZE_12219;I'll never forget you, Flipper!;;;;;;;;;;;Ïðîùàé, Ïðîíûðà, ÿ íå çàáóäó òåáÿ.;;x
+EVTOPTA_ZE_12220;Yes, I will serve you!;;;;;;;;;;;Ïðèêàçûâàé, ïîâåëèòåëü...;;x
+EVTOPTA_ZE_12221;I will use force to find them!;;;;;;;;;;;ß îáûùó âñ¸, ïîêà íå íàéäó èõ!;;x
+EVTOPTA_ZE_12222;I am a hero, his most valuable servant!;;;;;;;;;;;ß - ãåðîé! Åãî ñàì[Root.GetAyaYy] öåíí[Root.GetAyaYy] ñëóãà!;;x
+EVTOPTA_ZE_12223;If I hide in the corner maybe he won't find me.;;;;;;;;;;;Ìîæåò, åñëè ÿ ñïðÿ÷óñü â óãëó, îí íå íàéä¸ò ìåíÿ?;;x
+EVTOPTA_ZE_12225;I must strike back with all my power!;;;;;;;;;;;Íàäî ñîáðàòüñÿ ñ ñèëàìè è äàòü åìó îòïîð!;;x
+EVTOPTA_ZE_12226;I rule in this dungeon!;;;;;;;;;;;Îòíûíå ÿ - ïðàâèòåëü ïîäçåìåëüÿ!;;x
+EVTOPTA_ZE_12227;I should never have challenged him!;;;;;;;;;;;ß áîëüøå íèêîãäà íå âñòàíó ó íåãî íà ïóòè.;;x
+EVTOPTA_ZE_12230;I'll try and talk to [event_ze_12230_prisoner.GetHerHim]!;;;;;;;;;;;Ïîïðîáóþ çàãîâîðèòü ñ íèì.;;x
+EVTOPTA_ZE_12232;Finally someone to talk to!;;;;;;;;;;;Íàêîíåö-òî êòî-òî, ñ êåì ìîæíî ïîãîâîðèòü!;;x
+EVTOPTA_ZE_12234;I feel less lonely now.;;;;;;;;;;;Òåïåðü ìíå íå òàê îäèíîêî.;;x
+EVTOPTA_ZE_12236;Everybody hates me.;;;;;;;;;;;Âñå íåíàâèäÿò ìåíÿ.;;x
+EVTOPTB_ZE_12000;It's our secret, right?;;;;;;;;;;;Ýòî áóäåò íàø ñåêðåò.;;x
+EVTOPTB_ZE_12002;It doesn't matter.;;;;;;;;;;;À.. íå âàæíî.;;x
+EVTOPTB_ZE_12004;I'll hide so [From.GetSheHe] doesn't find me again.;;;;;;;;;;;ß ñïðÿ÷óñü, ÷òîáû [From.GetSheHe] áîëüøå íå íàø[From.GetLaYol] ìåíÿ.;;x
+EVTOPTB_ZE_12010;Yes, I have nicer toys than [affectionate_events_char_1.GetHerHim].;;;;;;;;;;;Äà, ìîè èãðóøêè ëó÷øå ÷åì ó í[affectionate_events_char_1.GetHersHis].;;x
+EVTOPTB_ZE_12012;No, those toys are silly anyway!;;;;;;;;;;;Íî îíè òâîè, èãðàé ñ íèìè [From.GetHerselfHimself]!;;x
+EVTOPTB_ZE_12014;Let's play again soon!;;;;;;;;;;;Ïîòîì ïîèãðàåì åù¸?;;x
+EVTOPTB_ZE_12016;What a nice child!;;;;;;;;;;;Êàêîé ìèëûé ðåá¸íîê.;;x
+EVTOPTB_ZE_12020;I must speak up for [timid_events_char_1.GetHerHim]!;;;;;;;;;;;ß äîëæ[Root.GetNaEn] ïîãîâîðèòü ñ í[timid_events_char_1.GetEyIm]!;;x
+EVTOPTB_ZE_12022;Alas, I cannot blame the child for being timid.;;;;;;;;;;;×òî ïîäåëàòü, åñëè ðåá¸íîê ñòåñíÿåòñÿ...;;x
+EVTOPTB_ZE_12024;I should step forward now, it's not too late!;;;;;;;;;;;Åù¸ íå ïîçäíî, ÿ âñ¸ ðàññêàæó!;;x
+EVTOPTB_ZE_12026;I can tell it took courage to speak up.;;;;;;;;;;;Íóæíà ñìåëîñü, ÷òîáû âûñòóïèòü ïåðåä âçðîñëûìè.;;x
+EVTOPTB_ZE_12030;It doesn't matter, [rowdy_events_char_1.GetSheHe] can win.;;;;;;;;;;;Íå âàæíî, ïóñòü [rowdy_events_char_1.GetSheHe] ïîáåäèò.;;x
+EVTOPTB_ZE_12032;I'll just avoid [From.GetHerHim] from now on.;;;;;;;;;;;Ëó÷øå íå îáùàòüñÿ ñ í[From.GetEyIm].;;x
+EVTOPTB_ZE_12034;I'll walk away, it's not worth it.;;;;;;;;;;;Íó è ëàäíî, áîëüíî íàäî!;;x
+EVTOPTB_ZE_12036;Let's do it again sometime!;;;;;;;;;;;Áûëî êðóòî! Íàäî áóäåò ïîâòîðèòü!;;x
+EVTOPTB_ZE_12040;Give the hat to someone younger.;;;;;;;;;;;Õîðîøî, îòäàéòå å¸ êîìó-íèáóäü ïîìëàäøå.;;x
+EVTOPTB_ZE_12042;Give in to demands.;;;;;;;;;;;À ïîïðîáóåì! [From.GetHerHimCap] æå õóæå.;;x
+EVTOPTB_ZE_12044;Someone else can make it fit.;;;;;;;;;;;Ïîïðîøó êîãî-íèáóäü äðóãîãî.;;x
+EVTOPTB_ZE_12046;At least [From.GetSheHe] knows what [From.GetSheHe] wants.;;;;;;;;;;;Ïî êðàéíåé ìåðå [From.GetSheHe] çíàåò, ÷òî õî÷åò.;;x
+EVTOPTB_ZE_12050;Leave [brooding_events_char_1.GetHerHim] alone.;;;;;;;;;;;Îñòàâèòü [brooding_events_char_1.GetHersHis] â ïîêîå.;;x
+EVTOPTB_ZE_12052;I'm sorry [From.GetFirstName].;;;;;;;;;;;ß äîëæ[Root.GetNaEn] èçâèíèòüñÿ.;;x
+EVTOPTB_ZE_12054;Take some money while [From.GetSheHe] is sleeping.;;;;;;;;;;;Âîçüìó ó í[From.GetHersHis] äåíüãè â êà÷åñòâå êîìïåíñàöèè.;;x
+EVTOPTB_ZE_12056;That brat.;;;;;;;;;;;Ì[From.GetBratLong]!;;x
+EVTOPTB_ZE_12060;I'll cut down the biggest one.;;;;;;;;;;;ß çàéìóñü ñàìûì áîëüøèì.;;x
+EVTOPTB_ZE_12062;Maybe there's something wrong with [From.GetHerHim]?;;;;;;;;;;;À âäðóã [From.GetHerHim] è ïðàâäà íåõîðîøî?;;x
+EVTOPTB_ZE_12064;I'm coming, I'm coming!;;;;;;;;;;;Õîðîøî, õîðîøî. ß ïîéäó!;;x
+EVTOPTB_ZE_12066;Poor child.;;;;;;;;;;;Áåäíûé ðåá¸íîê.;;x
+EVTOPTB_ZE_12070;Help [playful_events_char_1.GetHerHim] with the bags.;;;;;;;;;;;Ïîìî÷ü [playful_events_char_1.GetHerHim] ñ ñóìêàìè.;;x
+EVTOPTB_ZE_12072;Lecture [From.GetHerHim] about responsibilities.;;;;;;;;;;;Ðàññêàçàòü [From.GetHerHim] îá îòâåòñòâåííîñòè.;;x
+EVTOPTB_ZE_12074;[From.GetFirstName] is a cheater.;;;;;;;;;;;[From.GetSheHeCap] íàâåðíÿêà ñæóëüíè÷àë[From.GetEndA].;;x
+EVTOPTB_ZE_12076;[From.GetSheHeCap] will thank me later.;;;;;;;;;;;Ïîòîì [From.GetSheHe] ïîéì¸ò.;;x
+EVTOPTB_ZE_12080;So much to do outside.;;;;;;;;;;;Íî íè÷åãî íå ïîäåëàòü, ýòî [conscientious_events_char_1.GetHersHis] êîìíàòà.;;x
+EVTOPTB_ZE_12082;Cleaning is not my virtue...;;;;;;;;;;;×èñòîòà è ïîðÿäîê - ýòî ÿâíî íå ìî¸...;;x
+EVTOPTB_ZE_12084;[From.GetSheHeCap] is a meanie and I will tell everyone!;;;;;;;;;;;ß âñåì ðàññêàæó!;;x
+EVTOPTB_ZE_12086;That little monster.;;;;;;;;;;;Ìàëåíüêîå ÷óäîâèøå.;;x
+EVTOPTB_ZE_12090;I'm a big [Root.GetBoyGirl] now.;;;;;;;;;;;ß óæå áîëüø[Root.GetAyaOy] [Root.GetLadLass].;;x
+EVTOPTB_ZE_12092;Guess I have to go find it.;;;;;;;;;;;Ïîïðîáóþ íàéòè å¸.;;x
+EVTOPTB_ZE_12094;Ok then.;;;;;;;;;;;Íó... ëàäíî.;;x
+EVTOPTB_ZE_12096;What a relief.;;;;;;;;;;;Êàêîå îáëåã÷åíèå.;;x
+EVTOPTB_ZE_12100;I can play all day!;;;;;;;;;;;ß ìîãó èãðàòü âåñü äåíü!;;x
+EVTOPTB_ZE_12102;I can't blame [From.GetHerHim].;;;;;;;;;;;[From.GetSheHeCap] íå âèíîâàò[From.GetEndA].;;x
+EVTOPTB_ZE_12104;I should apologize.;;;;;;;;;;;ß äîëæ[Root.GetNaEn] èçâèíèòüñÿ.;;x
+EVTOPTB_ZE_12106;There is hope for the child.;;;;;;;;;;;Äëÿ ýòîãî ðåá¸íêà åù¸ íå âñ¸ ïîòåðÿíî.;;x
+EVTOPTB_ZE_12110;I should tell the courtiers that I like it here.;;;;;;;;;;;Äðóãèå ïðèäâîðíûå òîæå ìîãóò çàéòè, åñëè õîòÿò.;;x
+EVTOPTB_ZE_12112;I'm just a responsible adult.;;;;;;;;;;;ß ëèøü îòâåòñòâåííûé âçðîñëûé.;;x
+EVTOPTB_ZE_12114;What a dufus.;;;;;;;;;;;Âûïåíäð¸æíè[From.GetTsaK].;;x
+EVTOPTB_ZE_12116;The older they get...;;;;;;;;;;;Âñå êîãäà-òî âçðîñëåþò...;;x
+EVTOPTB_ZE_12210;I name you Cuddles.;;;;;;;;;;;ß íàçîâó òåáÿ Ïóøèñòèê.;;x
+EVTOPTB_ZE_12211;There's not enough.;;;;;;;;;;;Ìíå áóäåò åãî íå õâàòàòü.;;x
+EVTOPTB_ZE_12219;I'll never forget you, Cuddles!;;;;;;;;;;;Ïðîùàé, Ïóøèñòèê, ÿ íå çàáóäó òåáÿ.;;x
+EVTOPTB_ZE_12220;Never!;;;;;;;;;;;Íèêîãäà!;;x
+EVTOPTB_ZE_12221;I shall use my cunning!;;;;;;;;;;;ß ðåøó ýòó çàãàäêó è íàéäó êàìíè!;;x
+EVTOPTB_ZE_12225;I must evade, dodge and use my cunning!;;;;;;;;;;;Èñïîëüçóþ ëîâêîñòü è õèòðîñòü!;;x
+EVTOPTB_ZE_12230;What's the point?;;;;;;;;;;;Íó è ÷òî?;;x
+EVTOPTB_ZE_12232;I have no need for friends here.;;;;;;;;;;;Ìíå íèêòî íå íóæåí...;;x
+EVTOPTC_ZE_12000;I'll pick up a stick and beat [haughty_events_char_1.GetHerHim] instead!;;;;;;;;;;;Âçÿòü ïàëêó è óäàðèòü [haughty_events_char_1.GetHersHis]!;;x
+EVTOPTC_ZE_12002;I should bring [From.GetHerHim] some candy later.;;;;;;;;;;;ß äàì [From.GetHerHim] êîíôåòêó.;;x
+EVTOPTC_ZE_12004;[From.GetSheHeCap] will find I am a fierce enemy!;;;;;;;;;;;[From.GetSheHeCap] åù¸ íå çíàåò ñ êåì ñâÿçà[From.GetLasLsya]!;;x
+EVTOPTC_ZE_12010;I'll talk to [affectionate_events_char_1.GetHerHim]!;;;;;;;;;;;ß ïîãîâîðþ ñ í[affectionate_events_char_1.GetEyIm].;;x
+EVTOPTC_ZE_12012;I hate [From.GetHerHim]!;;;;;;;;;;;ß íåíàâèæó [From.GetHersHis]!;;x
+EVTOPTC_ZE_12014;I want more friends like this!;;;;;;;;;;;Õîðîøî, êîãäà åñòü äðóçüÿ.;;x
+EVTOPTC_ZE_12020;I'll wait a little, [timid_events_char_1.GetSheHe] could come to me...;;;;;;;;;;;Ïîäîæäó íåìíîãî, ïóñòü [timid_events_char_1.GetSheHe] ïîäîéä¸ò...;;x
+EVTOPTC_ZE_12022;All is good then!;;;;;;;;;;;Ìîëîäåö!;;x
+EVTOPTC_ZE_12024;Umm... no, I have to go.;;;;;;;;;;;Íó... ß íå ìîãó, ìíå ïîðà.;;x
+EVTOPTC_ZE_12030;I'll ask [rowdy_events_char_1.GetHerHim]!;;;;;;;;;;;ß ïîïðîøó [rowdy_events_char_1.GetHersHis]!;;x
+EVTOPTC_ZE_12032;That's all fine then.;;;;;;;;;;;Ýòî [From.GetHersHis] ïðîáëåìû.;;x
+EVTOPTC_ZE_12034;We should do this every day!;;;;;;;;;;;Ìû äîëæíû äåëàòü ýòî êàæäûé äåíü!;;x
+EVTOPTC_ZE_12040;Go inside.;;;;;;;;;;;Ïîøëè âíóòðü.;;x
+EVTOPTC_ZE_12042;I don't want to go in there.;;;;;;;;;;;ß íè çà ÷òî òóäà íå ïîéäó!;;x
+EVTOPTC_ZE_12044;Come, or I'll say it was your idea.;;;;;;;;;;;Ïîøëè, èíà÷å ÿ ñêàæó, ÷òî ýòî áûëà òâîÿ èäåÿ.;;x
+EVTOPTC_ZE_12046;I'm so angry!;;;;;;;;;;;Òâîþ æ ìàòü!;;x
+EVTOPTC_ZE_12050;How come you can do it?;;;;;;;;;;;Êàê âîîáùå ó òåáÿ ýòî ïîëó÷àåòñÿ?!;;x
+EVTOPTC_ZE_12052;I feel sick.;;;;;;;;;;;Êàê æå ìíå ïëîõî...;;x
+EVTOPTC_ZE_12054;[From.GetFirstName] is not a grown up.;;;;;;;;;;;[From.GetSheHeCap] ñëèøêîì ñëàá[From.GetEndA], ÷òîáû âçÿòü ñåáÿ â ðóêè.;;x
+EVTOPTC_ZE_12056;I'm in a sad state.;;;;;;;;;;;Ïå÷àëüíî...;;x
+EVTOPTC_ZE_12060;Pay [indolent_events_char_2.GetHerHim] to get your groceries.;;;;;;;;;;;Çàïëàòèòü [indolent_events_char_2.GetHerHim] çà ñâîè ïîêóïêè.;;x
+EVTOPTC_ZE_12060_TOOLTIP;May not take the offer.\n;;;;;;;;;;;Ìîæåò íå ïðèíÿòü ïðåäëîæåíèå.\n;;x
+EVTOPTC_ZE_12062;Job well done.;;;;;;;;;;;Îòëè÷íàÿ ðàáîòà!;;x
+EVTOPTC_ZE_12064;Oh tea and fresh bread!;;;;;;;;;;;Êàê ýòî çäîðîâî!;;x
+EVTOPTC_ZE_12066;Suddenly better, that's great.;;;;;;;;;;;Çàìå÷àòåëüíî.;;x
+EVTOPTC_ZE_12070;Hide with the man.;;;;;;;;;;;Ñïðÿòàòüñÿ ñ íåçíàêîìöåì.;;x
+EVTOPTC_ZE_12072;Bless the child.;;;;;;;;;;;Ïîõâàëèòü ðåá¸íêà.;;x
+EVTOPTC_ZE_12074;Everyone here is so boring.;;;;;;;;;;;Ñêó÷íî!;;x
+EVTOPTC_ZE_12076;Thank [Root.Religion.GetRandomGodName] I found [From.GetHerHim].;;;;;;;;;;;Õîðîøî, ÷òî ÿ óñïåë[Root.GetEndA].;;x
+EVTOPTC_ZE_12080;I have to tell on [conscientious_events_char_2.GetHerHim].;;;;;;;;;;;Ðàññêàçàòü î í[conscientious_events_char_2.GetEyYom].;;x
+EVTOPTC_ZE_12082;Unfair! I'll run away.;;;;;;;;;;;Íå÷åñòíî! ß íå áóäó ýòî äåëàòü!;;x
+EVTOPTC_ZE_12084;I will do it myself.;;;;;;;;;;;ß äîìîþ ýòè òàðåëêè [Root.GetHerselfHimself].;;x
+EVTOPTC_ZE_12090;It's too hot.;;;;;;;;;;;Íåò, ñëèøêîì ãîðÿ÷î.;;x
+EVTOPTC_ZE_12092;One more step towards growing up.;;;;;;;;;;;Î÷åðåäíîé øàã íà ïóòè ê âçðîñëîé æèçíè.;;x
+EVTOPTC_ZE_12094;It stinks!;;;;;;;;;;;Îíà âîíÿåò!;;x
+EVTOPTC_ZE_12096;It stinks!;;;;;;;;;;;Ñåäüìîå ïåêëî!;;x
+EVTOPTC_ZE_12100;Place it on the table and ask about it later.;;;;;;;;;;;Ïîëîæó åãî íà ñòîë è ñïðîøó ïîçæå.;;x
+EVTOPTC_ZE_12102;I should give [From.GetHerHim] some treats.;;;;;;;;;;;Êàê[From.GetAyaOy] õîðîø[From.GetAyaIy] [From.GetLadLass].;;x
+EVTOPTC_ZE_12104;[From.GetSheHeCap] is so much fun!;;;;;;;;;;;[From.GetSheHeCap] òàê[From.GetAyaOy] êëàññí[From.GetAyaYy]!;;x
+EVTOPTC_ZE_12106;Maybe I should have dealt with it differently.;;;;;;;;;;;Âèäèìî, ìíå íóæíî ñìåíèòü òàêòèêó.;;x
+EVTOPTC_ZE_12110;Everything is better when [idolizer_events_char_2.GetSheHe] is around.;;;;;;;;;;;Âñ¸ âîêðóã ðàñöâåòàåò, êîãäà [idolizer_events_char_2.GetSheHe] ðÿäîì.;;x
+EVTOPTC_ZE_12112;[From.GetSheHeCap] is a joy to have around.;;;;;;;;;;;Êàêîé ìèëûé ðåá¸íîê.;;x
+EVTOPTC_ZE_12114;What a hero.;;;;;;;;;;;[From.GetSheHeCap] íåðåàëüíî êðóò[From.GetEndA].;;x
+EVTOPTC_ZE_12116;What a sweetie.;;;;;;;;;;;Êàê ýòî ìèëî.;;x
+EVTOPTC_ZE_12210;I name you Smelly.;;;;;;;;;;;ß íàçîâó òåáÿ Âîíþ÷êà.;;x
+EVTOPTC_ZE_12219;I'll never forget you, Smelly!;;;;;;;;;;;Ïðîùàé, Âîíþ÷êà, ÿ íå çàáóäó òåáÿ.;;x
+EVTOPTD_ZE_12000;I think I'll join in!;;;;;;;;;;;Ïðèñîåäèíèòüñÿ.;;x
+EVTOPTD_ZE_12002;I'll show the [GetRootFromInsult]!;;;;;;;;;;;Îòâàëè ìåëþçãà!;;x
+EVTOPTD_ZE_12004;Now, where are my toys...?;;;;;;;;;;;À ãäå ìîè èãðóøêè?;;x
+EVTOPTD_ZE_12010;I'll stick my tongue out at [affectionate_events_char_1.GetHerHim] and run away!;;;;;;;;;;;ß ñòåñíÿþñü.;;x
+EVTOPTD_ZE_12012;How nice!;;;;;;;;;;;Êàê ìèëî!;;x
+EVTOPTD_ZE_12014;I'll come see you again tomorrow!;;;;;;;;;;;Óâèäèìñÿ çàâòðà!;;x
+EVTOPTD_ZE_12020;Yes, we should play!;;;;;;;;;;;Äà!;;x
+EVTOPTD_ZE_12022;I'll go and talk to [From.GetHerHim]!;;;;;;;;;;;ß ïîãîâîðþ ñ í[From.GetEyIm].;;x
+EVTOPTD_ZE_12024;Yes, let's play!;;;;;;;;;;;Êîíå÷íî, äàâàé ïîèãðàåì!;;x
+EVTOPTD_ZE_12030;Or maybe we should just play dice instead.;;;;;;;;;;;À ìîæåò ëó÷øå ïîèãðàòü â êîñòè?;;x
+EVTOPTD_ZE_12032;Yes!;;;;;;;;;;;Äà!;;x
+EVTOPTD_ZE_12034;That was fun, now let's play dice.;;;;;;;;;;;Áûëî çäîðîâî, à òåïåðü äàâàé â êîñòè.;;x
+EVTOPTD_ZE_12040;Turn back.;;;;;;;;;;;Ìû âîçâðàùàåìñÿ.;;x
+EVTOPTD_ZE_12042;I can do this.;;;;;;;;;;;Íó, ëàäíî. Äóìàþ, ÿ ñïðàâëþñü ñ ýòèì.;;x
+EVTOPTD_ZE_12044;You're right.;;;;;;;;;;;Ëàäíî-ëàäíî... ññûêóíèøêà.;;x
+EVTOPTD_ZE_12046;Don't mess with [Root.GetFirstName].;;;;;;;;;;;Òàê-òî ëó÷øå...;;x
+EVTOPTD_ZE_12050;Keep trying.;;;;;;;;;;;Ëàäíî, ïîïðîáóþ åù¸ ðàç.;;x
+EVTOPTD_ZE_12052;It's easy, you can do it.;;;;;;;;;;;Ýòî ëåãêî, ó òåáÿ ïîëó÷èòñÿ.;;x
+EVTOPTD_ZE_12054;Comfort [From.GetHerHim].;;;;;;;;;;;Îáíÿòü [From.GetHersHis] è óñïîêîèòü.;;x
+EVTOPTD_ZE_12056;I can change. I will change.;;;;;;;;;;;ß ìîãó èçìåíèòüñÿ. È ÿ èçìåíþñü!;;x
+EVTOPTD_ZE_12060;Join up with [indolent_events_char_2.GetHerHim].;;;;;;;;;;;Ñõîäèòü òóäà âìåñòå ñ í[indolent_events_char_2.GetEyIm].;;x
+EVTOPTD_ZE_12062;Very easy money.;;;;;;;;;;;Íå â äåíüãàõ ñ÷àñòüå, à â èõ êîëè÷åñòâå.;;x
+EVTOPTD_ZE_12064;Maybe I should help [From.GetHerHim].;;;;;;;;;;;Ýòî óæ ñëèøêîì. ß äîëæ[Root.GetNaEn] ïîìî÷ü [From.GetHerHim].;;x
+EVTOPTD_ZE_12070;Answer [playful_events_char_2.GetFirstName].;;;;;;;;;;;Îòâåòèòü íà çîâ.;;x
+EVTOPTD_ZE_12072;Easy money.;;;;;;;;;;;Ñûãðàòü íà ñïîð.;;x
+EVTOPTD_ZE_12074;I win, easy.;;;;;;;;;;;ß ïîáåäèë[Root.GetEndA].;;x
+EVTOPTD_ZE_12080;No one will find out!;;;;;;;;;;;Íè÷åãî ñòðàøíîãî, âñ¸ ðàâíî íèêòî íå óçíàåò.;;x
+EVTOPTD_ZE_12082;Stupid dishes.;;;;;;;;;;;×¸ðòîâû òàðåëêè!;;x
+EVTOPTD_ZE_12084;I can spend time reading.;;;;;;;;;;;Ëàäíî, ïîéäó ïî÷èòàþ.;;x
+EVTOPTD_ZE_12090;I should trust [fussy_events_char_2.GetFirstName].;;;;;;;;;;;Íó õîðîøî.;;x
+EVTOPTD_ZE_12092;Touch the food to make sure.;;;;;;;;;;;Äàâàé, ÿ ïîïðîáóþ.;;x
+EVTOPTD_ZE_12094;Oh I thought I had lost it.;;;;;;;;;;;À ÿ áîÿ[Root.GetLasLsya], ÷òî ïîòåðÿë[Root.GetEndA] å¸.;;x
+EVTOPTD_ZE_12096;Oh I thought I had lost it.;;;;;;;;;;;Âîò è ñëàâíî.;;x
+EVTOPTD_ZE_12100;I should find out. It could be important.;;;;;;;;;;;Íàäî ýòî âûÿñíèòü. Âäðóã ÷òî-òî âàæíîå.;;x
+EVTOPTD_ZE_12102;I'll teach [From.GetHerHim] to be less nosy.;;;;;;;;;;;ß ïîêàæó [From.GetHerHim], êàê ñîâàòü íîñ â ÷óæèå äåëà!;;x
+EVTOPTD_ZE_12104;That was a secret letter!;;;;;;;;;;;Íî ýòî æå ñåêðåòíîå ïèñüìî!;;x
+EVTOPTD_ZE_12106;A step in the right direction.;;;;;;;;;;;Øàã â ïðàâèëüíîì íàïðàâëåíèè.;;x
+EVTOPTD_ZE_12110;I will stay friends with [idolizer_events_char_2.GetHerHim] forever.;;;;;;;;;;;Äðóçüÿ íàâñåãäà!;;x
+EVTOPTD_ZE_12112;I'll kiss [From.GetFirstName] on the cheek.;;;;;;;;;;;ß ïîöåëóþ [From.GetHersHis] â ù¸÷êó.;;x
+EVTOPTD_ZE_12114;Grownups can do anything.;;;;;;;;;;;Âçðîñëûå ìîãóò âñ¸.;;x
+EVTOPTD_ZE_12116;I don't like [From.GetHerHim] anyway...;;;;;;;;;;;Íå ìîãó [From.GetHersHis] áîëüøå âèäåòü.;;x
+EVTOPTD_ZE_12210;Hello, food...;;;;;;;;;;;Íó ïðèâåò, åäà...;;x
+EVTOPTE_ZE_12000;I'll see him punished for addressing me like that!;;;;;;;;;;;Êàê îí ïîñìåë ãîâîðèòü òàê ñî ìíîé? Íàêàçàòü!;;x
+EVTOPTE_ZE_12000_TOOLTIP1;Peasants get angry.;;;;;;;;;;;Êðåñòüÿíå ðàçîçëÿòñÿ.;;x
+EVTOPTE_ZE_12000_TOOLTIP2;Peasants are subdued.;;;;;;;;;;;Êðåñòüÿíå ïîêîðÿòñÿ.;;x
+EVTOPTE_ZE_12002;How weak, how adorable.;;;;;;;;;;;Õà-õà, êàê ìèëî!;;x
+EVTOPTE_ZE_12004;We'll deal with them as they deserve.;;;;;;;;;;;Îí çàñëóæèë ýòî!;;x
+EVTOPTE_ZE_12010;I'll share my bread with [Root.GetHerHim]!;;;;;;;;;;;Õî÷åøü åñòü? Âîò, äåðæè.;;x
+EVTOPTE_ZE_12010_TOOLTIP1;You do a good deed.;;;;;;;;;;;Âû ñîâåðøèòå õîðîøèé ïîñòóïîê.;;x
+EVTOPTE_ZE_12010_TOOLTIP2;You do a good deed, but someone sees you...;;;;;;;;;;;Âû ñîâåðøèòå õîðîøèé ïîñòóïîê, íî êòî-íèáóäü ýòî çàìåòèò...;;x
+EVTOPTE_ZE_12012;Begone, [GetRootFromInsult]!;;;;;;;;;;;Íó è ïðîâàëèâàé, êîçÿâêà!;;x
+EVTOPTE_ZE_12014;This was fun!;;;;;;;;;;;Áûëî âåñåëî!;;x
+EVTOPTE_ZE_12020;No way!;;;;;;;;;;;Íè çà ÷òî!;;x
+EVTOPTE_ZE_12020_TOOLTIP1;Guests are amused.;;;;;;;;;;;Ãîñòè ðàçâëåêóòñÿ.;;x
+EVTOPTE_ZE_12020_TOOLTIP2;Guests are offended.;;;;;;;;;;;Ãîñòè îáèäÿòñÿ.;;x
+EVTOPTE_ZE_12022;What's [From.GetSheHe] staring at? It's annoying!;;;;;;;;;;;×åãî ýòî [From.GetSheHe] óñòàâè[From.GetLasLsya]? Ýòî áåñèò!;;x
+EVTOPTE_ZE_12024;Oh yes!;;;;;;;;;;;Õîðîøî, ÷òî ýòî êîí÷èëîñü.;;x
+EVTOPTE_ZE_12030;I'm not afraid!;;;;;;;;;;;ß íå áîþñü!;;x
+EVTOPTE_ZE_12030_TOOLTIP1;Slipped while climbing.;;;;;;;;;;;Òàê è ïîñêîëüçíóòüñÿ ìîæíî.;;x
+EVTOPTE_ZE_12030_TOOLTIP2;Up and down like a squirrel.;;;;;;;;;;;Ââåðõ è âíèç, ñëîâíî áåëêà.;;x
+EVTOPTE_ZE_12032;No, I'm a good [Root.GetBoyGirl].;;;;;;;;;;;Íåò, ýòî íåõîðîøî.;;x
+EVTOPTE_ZE_12034;What a shame.;;;;;;;;;;;Êàêàÿ æàëîñòü.;;x
+EVTOPTE_ZE_12040;If I wait long enough.;;;;;;;;;;;Ðàíî ñäàâàòüñÿ, íàäî æäàòü...;;x
+EVTOPTE_ZE_12040_TOOLTIP1;Catch something.;;;;;;;;;;;Ïîéìàþ ÷òî-íèáóäü.;;x
+EVTOPTE_ZE_12040_TOOLTIP2;Waste time.;;;;;;;;;;;Ïîòðà÷ó âðåìÿ âïóñòóþ.;;x
+EVTOPTE_ZE_12044;They will tell stories of today.;;;;;;;;;;;Ýòîò ìîìåíò âîéä¸ò â èñòîðèþ.;;x
+EVTOPTE_ZE_12050;Stop them.;;;;;;;;;;;Ïîìåøàòü èì.;;x
+EVTOPTE_ZE_12052;Not everyone can do it.;;;;;;;;;;;Íå êàæäîìó ýòî óäà¸òñÿ.;;x
+EVTOPTE_ZE_12054;Everyone can do it but me.;;;;;;;;;;;Âñå ýòî ìîãóò, êðîìå ìåíÿ.;;x
+EVTOPTE_ZE_12056;Many things seem to trouble this child.;;;;;;;;;;;Íåêîòîðûå âåùè ñëèøêîì òðóäíû äëÿ ðåá¸íêà.;;x
+EVTOPTE_ZE_12060;Go see what they are doing.;;;;;;;;;;;Ïîéòè ïîñìîòðåòü, ÷òî îíè äåëàþò.;;x
+EVTOPTE_ZE_12062;I refuse!;;;;;;;;;;;Âîò õèòðîæî... Íó óæ íåò!;;x
+EVTOPTE_ZE_12064;I could use a nap right now.;;;;;;;;;;;Ìîæíî íåìíîãî âçäðåìíóòü.;;x
+EVTOPTE_ZE_12070;I can tickle her.;;;;;;;;;;;Ïîùåêîòàòü å¸.;;x
+EVTOPTE_ZE_12070_TOOLTIP1;Gardener is tickly.;;;;;;;;;;;Ñàäîâíèöà áîèòñÿ ùåêîòêè.;;x
+EVTOPTE_ZE_12070_TOOLTIP2;Gardener doesn't appreciate tickling.;;;;;;;;;;;Ñàäîâíèöà íå áîèòñÿ ùåêîòêè.;;x
+EVTOPTE_ZE_12072;Call for [playful_events_char_2.GetFirstName].;;;;;;;;;;;Ïîçâàòü íà ïîìîùü.;;x
+EVTOPTE_ZE_12074;I wonder who that was.;;;;;;;;;;;Òàê êòî æå ýòî áûë?;;x
+EVTOPTE_ZE_12080;I have to go look for it.;;;;;;;;;;;Ïîéòè ïîèñêàòü.;;x
+EVTOPTE_ZE_12080_TOOLTIP1;Becoming ill;;;;;;;;;;;Çàáîëåþ;;x
+EVTOPTE_ZE_12080_TOOLTIP2;Successful find;;;;;;;;;;;Íàéäó òî, ÷òî èùó;;x
+EVTOPTE_ZE_12082;We had so much fun together.;;;;;;;;;;;Ìû âåñü âå÷åð èãðàëè âìåñòå!;;x
+EVTOPTE_ZE_12084;The grownups are happy.;;;;;;;;;;;Çàòî âçðîñëûå äîâîëüíû.;;x
+EVTOPTE_ZE_12090;I can make it if I run.;;;;;;;;;;;Íàäî ñêîðåé áåæàòü òóäà, ïîêà îí íå óñèëèñÿ.;;x
+EVTOPTE_ZE_12090_TOOLTIP1;Make it with no effort;;;;;;;;;;;Âñ¸ ïîëó÷èòñÿ;;x
+EVTOPTE_ZE_12090_TOOLTIP2;Out in the cold too long;;;;;;;;;;;Ñûðîñòü è õîëîä ñäåëàþò ñâî¸ äåëî;;x
+EVTOPTE_ZE_12092;Let [From.GetHerHim] wait.;;;;;;;;;;;Õîðîøî, äàâàé ïîäîæä¸ì, ïîêà îñòûíåò.;;x
+EVTOPTE_ZE_12094;But now [From.GetSheHe] touched it.;;;;;;;;;;;Íî... Âû... åëè èç ìîåé ìèñêè.;;x
+EVTOPTE_ZE_12096;Hopeless.;;;;;;;;;;;Ýòî áåçíàä¸æíî.;;x
+EVTOPTE_ZE_12100;I should investigate.;;;;;;;;;;;Çàãëÿíóòü òóäà.;;x
+EVTOPTE_ZE_12100_TOOLTIP1;Find something nasty.;;;;;;;;;;;Íàéäåòñÿ êàêàÿ-íèáóäü ãàäîñòü.;;x
+EVTOPTE_ZE_12100_TOOLTIP2;Find a friend.;;;;;;;;;;;Íîâûé äðóã.;;x
+EVTOPTE_ZE_12102;[From.GetSheHeCap] could use some practice reading.;;;;;;;;;;;Íàì ïðåäñòîèò ñåðüåçíûé ðàçãîâîð...;;x
+EVTOPTE_ZE_12104;It wasn't mine to read.;;;;;;;;;;;ß áîëüøå òàê íå áóäó.;;x
+EVTOPTE_ZE_12110;[Root.Religion.GetRandomGodNameCap] will notice my dedication.;;;;;;;;;;;Íàäåþñü, [Root.Religion.GetRandomGodName] öåíèò ýòî.;;x
+EVTOPTE_ZE_12112;[From.GetSheHeCap] is kind. But I don't feel that way.;;;;;;;;;;;[From.GetSheHeCap] õîðîø[From.GetAyaIy], íî ýòî íå âçàèìíî.;;x
+EVTOPTE_ZE_12114;[From.GetSheHeCap] is the best.;;;;;;;;;;;[From.GetSheHeCap] ëó÷øå âñåõ.;;x
+EVTOPTF_ZE_12000;I'll nod and accept the compliment graciously.;;;;;;;;;;;Áëàãîäàðþ Âàñ!;;x
+EVTOPTF_ZE_12002;There's room for everyone.;;;;;;;;;;;Íå òîëêàéñÿ, çäåñü âñåì õâàòèò ìåñòà.;;x
+EVTOPTF_ZE_12004;I know how to handle these things.;;;;;;;;;;;Îíè äîëæíû çíàòü ñâî¸ ìåñòî.;;x
+EVTOPTF_ZE_12010;I'll leave before [Root.GetSheHe] tries to steal from me!;;;;;;;;;;;Ïîðà óõîäèòü, ïîêà îí íå óêðàë ìîþ åäó.;;x
+EVTOPTF_ZE_12012;What a strange child.;;;;;;;;;;;Ñòðàííûé ðåá¸íîê.;;x
+EVTOPTF_ZE_12014;But [Root.GetSheHe] is my friend!;;;;;;;;;;;Íî îí - ìîé äðóã!;;x
+EVTOPTF_ZE_12020;Yes, I will sing.;;;;;;;;;;;Ëàäíî, ñïîþ. Ïîðà ðàçäåëàòüñÿ ñ ýòèì.;;x
+EVTOPTF_ZE_12022;How nice!;;;;;;;;;;;Êàê ìèëî!;;x
+EVTOPTF_ZE_12024;I don't care.;;;;;;;;;;;Ìíå âñ¸ ðàâíî.;;x
+EVTOPTF_ZE_12030;No... it's too high.;;;;;;;;;;;Íåò, ýòî ñëèøêîì âûñîêî.;;x
+EVTOPTF_ZE_12032;Sounds like fun!;;;;;;;;;;;À ïî÷åìó áû è íåò?;;x
+EVTOPTF_ZE_12034;Owww!;;;;;;;;;;;Ààà!;;x
+EVTOPTF_ZE_12040;Go home.;;;;;;;;;;;Áåñïîëåçíîå çàíÿòèå!;;x
+EVTOPTF_ZE_12044;At least I tried.;;;;;;;;;;;Çàòî ÿ ïîïûòà[Root.GetLasLsya].;;x
+EVTOPTF_ZE_12050;Noone can know I'm here.;;;;;;;;;;;Ýòî ìåíÿ íå êàñàåòñÿ.;;x
+EVTOPTF_ZE_12052;[From.GetSheHeCap]'ll get it right soon.;;;;;;;;;;;Ó í[From.GetHersHis] ïîëó÷èòñÿ, ðàíî èëè ïîçäíî.;;x
+EVTOPTF_ZE_12054;I am good at other things.;;;;;;;;;;;Çàòî ÿ õîðîø[Root.GetEndA] â ÷¸ì-òî äðóãîì.;;x
+EVTOPTF_ZE_12056;I'm glad [From.GetSheHe] doesn't dwell too much on these things.;;;;;;;;;;;ß ðàä[Root.GetEndA], ÷òî [From.GetSheHe] íå çàöèêëèâàåòñÿ íà òàêèõ âåùàõ.;;x
+EVTOPTF_ZE_12060;Keep on reading.;;;;;;;;;;;Ïðîäîëæèòü ÷òåíèå.;;x
+EVTOPTF_ZE_12062;[From.GetFirstName] is so kind.;;;;;;;;;;;Ñ í[From.GetEyIm] èíòåðåñíî.;;x
+EVTOPTF_ZE_12064;Read a book about money.;;;;;;;;;;;Ïî÷èòàþ êíèæêó ïðî äåíüãè.;;x
+EVTOPTF_ZE_12070;Hard work is good for discipline.;;;;;;;;;;;Òðóä óêðåïëÿåò âîëþ.;;x
+EVTOPTF_ZE_12072;Guards!;;;;;;;;;;;Ñòðàæà!;;x
+EVTOPTF_ZE_12074;Nothing has to be boring.;;;;;;;;;;;Ýòî áûëî âåñåëî!;;x
+EVTOPTF_ZE_12080;I can explain when I get back.;;;;;;;;;;;Âåðíóòüñÿ áåç íåãî è îáúÿñíèòü, ÷òî ñëó÷èëîñü.;;x
+EVTOPTF_ZE_12084;I feel terrible.;;;;;;;;;;;×óâñòâóþ ñåáÿ óæàñíî.;;x
+EVTOPTF_ZE_12090;I don't want to get wet, I'll wait.;;;;;;;;;;;Íåò, òàê ÿ ïðîìîêíó, ëó÷øå ïåðåæäàòü.;;x
+EVTOPTF_ZE_12092;That's nice.;;;;;;;;;;;Çàìå÷àòåëüíî.;;x
+EVTOPTF_ZE_12094;I guess it's fine.;;;;;;;;;;;Õîðîøî.;;x
+EVTOPTF_ZE_12096;Peace at last.;;;;;;;;;;;Õâàëà Íåáåñàì.;;x
+EVTOPTF_ZE_12100;I should tell someone.;;;;;;;;;;;Ðàññêàçàòü êîìó-íèáóäü îá ýòîì.;;x
+EVTOPTF_ZE_12102;[From.GetSheHeCap] is a joy to have around.;;;;;;;;;;;Ñïàñèáî, [From.GetFirstName]. ×òî áû ÿ áåç òåáÿ äåëàë[Root.GetEndA]?;;x
+EVTOPTF_ZE_12104;It's probably a boring letter anyway.;;;;;;;;;;;Íàâåðíîå, â ïèñüìå âñ¸ ðàâíî íè÷åãî èíòåðåñíîãî.;;x
+EVTOPTF_ZE_12110;I can collect alms to keep for myself.;;;;;;;;;;;È ÿ ìîãó îñòàâèòü ïîæåðòâîâàíèÿ ñåáå.;;x
+EVTOPTF_ZE_12112;I can always count on [From.GetFirstName].;;;;;;;;;;;ß âñåãäà ìîãó íà [From.GetHersHis] ïîëîæèòüñÿ.;;x
+EVTOPTF_ZE_12114;This is not what I meant.;;;;;;;;;;;ß íå ýòî èìåë[Root.GetEndA] â âèäó...;;x
+EVTOPTG_ZE_12034;Ha!;;;;;;;;;;;Õà!;;x
+EVTOPTG_ZE_12054;Donate some money for food and clothes.;;;;;;;;;;;Äàòü åìó äåíåã íà åäó è îäåæäó.;;x
+EVTOPTG_ZE_12064;I guess I'll have to go then.;;;;;;;;;;;Ïðèä¸òñÿ òàùèòüñÿ íà ýòîò ÷¸ðòîâ ðûíîê.;;x
+EVTOPTG_ZE_12074;She is stupid.;;;;;;;;;;;Äà ÷òî ñ íåé íå òàê? Âñå ëþáÿò ùåêîòêó!;;x
+EVTOPTG_ZE_12084;Next time I will take my things with me.;;;;;;;;;;;Â ñëåäóþùèé ðàç, áóäó âñåãäà äåðæàòü âåùè ïðè ñåáå.;;x
+EVTOPTG_ZE_12094;But now some of it is too cold.;;;;;;;;;;;È òåïåðü îíà õîëîäíàÿ!;;x
+EVTOPTG_ZE_12104;I'm glad I found out!;;;;;;;;;;;Êðóòî, äà?;;x
+EVTOPTG_ZE_12114;I shouldn't have said anything.;;;;;;;;;;;Ìíå íàäî áûëî ïîìàëêèâàòü...;;x
+EVTOPTH_ZE_12054;Tell child to ask their mom and dad.;;;;;;;;;;;Ñêàçàòü åìó, ÷òîáû ïîïðîñèë ó ñâîèõ ìàìû è ïàïû.;;x
+EVTOPTH_ZE_12064;Maybe I'll just watch them.;;;;;;;;;;;Ïðîñòî ïîñìîòðåòü íà íèõ.;;x
+EVTOPTH_ZE_12094;Alright, I'll eat the cold food.;;;;;;;;;;;Ëàäíî, ÿ ñúåì å¸.;;x
+EVTOPTH_ZE_12104;I was meant to learn.;;;;;;;;;;;Ýòî ïîñëóæèò ìíå óðîêîì.;;x
+EVTOPTH_ZE_12114;I am being tested, I must stay here.;;;;;;;;;;;ß ïðîø[Root.GetLaYol] èñïûòàíèå è äîëæ[Root.GetNaEn] îñòàòüñÿ çäåñü.;;x
+EVTOPTI_ZE_12064;I'll join in.;;;;;;;;;;;Ïðèñîåäèíèòüñÿ ê íèì.;;x
+EVTOPTI_ZE_12094;Yum yum.;;;;;;;;;;;Òîðò áûë ïðîñòî îáúåäåíüå.;;x
+EVTOPTI_ZE_12104;What a great day.;;;;;;;;;;;Íàäåþñü, îíà ñêîðî ñíîâà ñìîæåò ëåòàòü!;;x
+EVTOPTI_ZE_12114;I can't miss fencing practice.;;;;;;;;;;;Ôåõòîâàíèå! Ñîâñåì çàáûë[Root.GetEndA]!;;x
+EVTOPTJ_ZE_12094;I don't feel so good.;;;;;;;;;;;×òî-òî ìíå íåõîðîøî...;;x
+EVTOPTAFF;May lead to §YAffectionate§!;;;;;;;;;;;Ìîãó ñòàòü §Yëàñêîâ[Root.GetOyYm]§!;;x
+EVTOPTAFF_FROM;§Y[From.GetFirstName]§! may gain §YAffectionate§!;;;;;;;;;;;§Y[From.GetFirstName]§! ìîæåò ñòàòü §Yëàñêîâ[From.GetOyYm]§! [From.GetAgedPersonINS];;x
+EVTOPTBRO;May lead to §YBrooding§!;;;;;;;;;;;Ìîãó ñòàòü §Yâäóì÷èâ[Root.GetOyYm]§!;;x
+EVTOPTBRO_FROM;§Y[From.GetFirstName]§! has a high chance to gain §YBrooding§!\n§Y[From.GetFirstName]§! has a low chance to gain §YTimid§!;;;;;;;;;;;§Y[From.GetFirstName]§! ìîæåò ñòàòü §Yâäóì÷èâ[From.GetOyYm]§! [From.GetAgedPersonINS]\n§Y[From.GetFirstName]§! òàêæå èìååò íåáîëüøîé øàíñ ñòàòü §Yðîáê[From.GetOyIm]§! [From.GetAgedPersonINS];;x
+EVTOPTBRO_FROM_B;§Y[From.GetFirstName]§! has a high chance to gain §YTimid§!\n§Y[From.GetFirstName]§! has a low chance to gain §YBrooding§!;;;;;;;;;;;§Y[From.GetFirstName]§! ìîæåò ñòàòü §Yðîáê[From.GetOyIm]§! [From.GetAgedPersonINS]\n§Y[From.GetFirstName]§! òàêæå èìååò íåáîëüøîé øàíñ ñòàòü §Yâäóì÷èâ[From.GetOyYm]§! [From.GetAgedPersonINS];;x
+EVTOPTCON;May lead to §YConscientious§!;;;;;;;;;;;Ìîãó ñòàòü §Yäîáðîñîâåñòí[Root.GetOyYm]§!;;x
+EVTOPTCON_FROM;§Y[From.GetFirstName]§! may gain §YConscientious§!;;;;;;;;;;;§Y[From.GetFirstName]§! ìîæåò ñòàòü §Yäîáðîñîâåòí[From.GetOyYm]§! [From.GetAgedPersonINS];;x
+EVTOPTFUS;May lead to §YFussy§!;;;;;;;;;;;Ìîãó ñòàòü §Yëþáîïûòí[Root.GetOyYm]§!;;x
+EVTOPTFUS_FROM;§Y[From.GetFirstName]§! may gain §YFussy§!;;;;;;;;;;;§Y[From.GetFirstName]§! ìîæåò ñòàòü §Yëþáîïûòí[From.GetOyYm]§! [From.GetAgedPersonINS];;x
+EVTOPTHAU;May lead to §YHaughty§!;;;;;;;;;;;Ìîãó ñòàòü §Yíàäìåíí[Root.GetOyYm]§!;;x
+EVTOPTHAU_FROM;§Y[From.GetFirstName]§! may gain §YHaughty§!;;;;;;;;;;;§Y[From.GetFirstName]§! ìîæåò ñòàòü §Yíàäìåíí[From.GetOyYm]§! [From.GetAgedPersonINS];;x
+EVTOPTIDO;May lead to §YIdolizer§!;;;;;;;;;;;Ìîãó ñòàòü §Yâïå÷àòëèòåëüí[Root.GetOyYm]§!;;x
+EVTOPTIDO_FROM;§Y[From.GetFirstName]§! may gain §YIdolizer§!;;;;;;;;;;;§Y[From.GetFirstName]§! ìîæåò ñòàòü §Yâïå÷àòëèòåëüí[From.GetOyYm]§! [From.GetAgedPersonINS];;x
+EVTOPTIND;May lead to §YIndolent§!;;;;;;;;;;;Ìîãó ñòàòü §Yïðàçäí[Root.GetOyYm]§!;;x
+EVTOPTIND_FROM;§Y[From.GetFirstName]§! may gain §YIndolent§!;;;;;;;;;;;§Y[From.GetFirstName]§! ìîæåò ñòàòü §Yïðàçäí[From.GetOyYm]§! [From.GetAgedPersonINS];;x
+EVTOPTPLA;May lead to §YPlayful§!;;;;;;;;;;;Ìîãó ñòàòü §Yèãðèâ[Root.GetOyYm]§!;;x
+EVTOPTPLA_FROM;§Y[From.GetFirstName]§! may gain §YPlayful§!;;;;;;;;;;;§Y[From.GetFirstName]§! ìîæåò ñòàòü §Yèãðèâ[From.GetOyYm]§! [From.GetAgedPersonINS];;x
+EVTOPTROW;May lead to §YRowdy§!;;;;;;;;;;;Ìîãó ñòàòü §Yáóéí[Root.GetOyYm]§!;;x
+EVTOPTROW_FROM;§Y[From.GetFirstName]§! may gain §YRowdy§!;;;;;;;;;;;§Y[From.GetFirstName]§! ìîæåò ñòàòü §Yáóéí[From.GetOyYm]§! [From.GetAgedPersonINS];;x
+EVTOPTTIM;May lead to §YTimid§!;;;;;;;;;;;Ìîãó ñòàòü §Yðîáê[Root.GetOyIm]§!;;x
+EVTOPTTIM_FROM;§Y[From.GetFirstName]§! may gain §YTimid§!;;;;;;;;;;;§Y[From.GetFirstName]§! ìîæåò ñòàòü §Yðîáê[From.GetOyIm]§! [From.GetAgedPersonINS];;x
+EVTOPTWIL;May lead to §YWillful§!;;;;;;;;;;;Ìîãó ñòàòü §Yâîëåâ[Root.GetOyYm]§!;;x
+EVTOPTWIL_FROM;§Y[From.GetFirstName]§! may gain §YWillful§!;;;;;;;;;;;§Y[From.GetFirstName]§! ìîæåò ñòàòü §Yâîëåâ[From.GetOyYm]§! [From.GetAgedPersonINS];;x
+EVTDESC_ZE_2100;I've gotten an increased amount of questions from [From.GetFirstName] lately about [Root.Religion.GetHighGodName] and the rituals of the [Root.Religion.GetName] faith.;;;;;;;;;;;[target_child.GetFirstName] áóêâàëüíî çàñûïàë[target_child.GetEndA] ìåíÿ âîïðîñàìè î òîì, êòî òàê[Root.GetHGodAyaOy] [Root.Religion.GetHighGodName], ÷òî òàêîå [Root.GetReligionFullName], è äëÿ ÷åãî ñóùåñòâóþò òå èëè èíûå ðèòóàëû.;;x
+EVTDESC_ZE_2101;Over the past weeks I've grown more and more curious about the beliefs and rituals of my [GetFromRelation]. Today [From.GetSheHe] finally began to answer my repeated questions about [From.Religion.GetHighGodName].;;;;;;;;;;;Â ïîñëåäíåå âðåìÿ ìåíÿ îäîëåâàåò ëþáîïûòñòâî ïî ïîâîäó ðèòóàëîâ è ó÷åíèé, êîòîðûå èñïîâåäóåò ì[From.GetOyaOy] [From.GetRootRelation]. Ñåãîäíÿ [From.GetSheHe] ðåøèë[From.GetEndA] îòâåòèòü íà ìîè âîïðîñû.;;x
+EVTDESC_ZE_2102;Your [GetFromRelation], [From.GetFirstName] has, through the teachings of [FromFrom.GetTitledFirstName], been studying the principles of the [FromFrom.Religion.GetName] faith;;;;;;;;;;;Âàø[From.GetEndA] [From.GetRootRelation] [From.GetFirstName] òåïåðü èñïîâåäóåò [FromFrom.GetReligionFullName]. [FromFrom.GetTitledFirstName] ïðèâèë[FromFrom.GetEndA] [From.GetHerHim] îñíîâû ñâîåé âåðû.;;x
+EVTDESC_ZE_2120;During the past few months, [From.GetFirstName] has shown dogged determination in [From.GetHerHis] studies of our language and has now also expressed a desire to study the history of my people's ancestors.;;;;;;;;;;;Â ïîñëåäíèå ìåñÿöû [target_child.GetFirstName] ïðîÿâëÿåò íåïîääåëüíûé èíòåðåñ ê èçó÷åíèþ íàøåãî ÿçûêà. À òåïåðü [target_child.GetSheHe] âûðàçèë[target_child.GetEndA] æåëàíèå ïîáîëüøå óçíàòü îá èñòîðèè íàøåãî íàðîäà.;;x
+EVTDESC_ZE_2121;Pleased with the progress I'm making with learning the local language, [From.GetFirstName] has brought me a book about the ancestry of the [From.Culture.GetName] people.;;;;;;;;;;;Ìíå íðàâèòñÿ èçó÷àòü ìåñòíûé ÿçûê, à ñåãîäíÿ [From.GetFirstName] ïîäàðèë[From.GetEndA] ìíå êíèãó î ïðîèñõîæäåíèè [From.GetCultureAdj]îãî íàðîäà.;;x
+EVTDESC_ZE_2122;Rumor has it that your [GetFromRelation] [From.GetFirstName] has been influenced by [From.GetHerHis] guardian's splendor. It is said that [From.GetFirstName] is now considered properly [From.Culture.GetName].;;;;;;;;;;;Õîäÿò ñëóõè, ÷òî Âàø[From.GetEndA] [From.GetRootRelation] [From.GetFirstName] ïîïàë[From.GetEndA] ïîä âëèÿíèå ñâîåãî íàñòàâíèêà è òåïåðü â áîëüøåé ñòåïåíè ïðèíàäëåæèò [From.GetCultureAdj]îé êóëüòóðå.;;x
+EVTDESC_ZE_2130;To the [GetFromFromRootCompliment] [Root.GetTitledNameWithNick],\n\nI write to ask for your permission to give my ward, [From.GetFirstName], a proper [FromFrom.Religion.GetName] [FromFrom.Culture.GetName] upbringing.\n\nSigned [FromFrom.GetTitledFirstName].;;;;;;;;;;;Óâàæàåì[Root.GetAyaYy] [Root.GetTitledNameWithNick],\nÏðîøó Âàñ äàòü ñâî¸ ñîãëàñèå íà òî, ÷òîáû ì[From.GetOyaOy] âîñïèòàííè[From.GetTsaK] [From.GetFirstName] ïîëó÷èë[From.GetEndA] ñîîòâåòñòâóþùåå îáðàçîâàíèå. Ýòî ïîçâîëèò [From.GetHerHim] ïðèíÿòü [FromFrom.GetReligionFullName] è [FromFrom.GetCultureAdj]óþ êóëüòóðó.\n [FromFrom.GetTitledFirstName].;;x
+EVTDESC_ZE_2131;Dear [Root.GetTitledNameWithNick],\n\nYour initiative to teach [FromFrom.GetFirstName] about Heritage is most welcome.;;;;;;;;;;;Óâàæàåì[Root.GetAyaYy] [Root.GetTitledNameWithNick],\nÂàøà èíèöèàòèâà ìíå íðàâèòñÿ - ïóñòü þí[FromFrom.GetAyaYy] [FromFrom.GetFirstName] âîñïèòûâàåòñÿ â äóõå íàøåãî íàñëåäèÿ è òðàäèöèé.;;x
+EVTDESC_ZE_2140;To the [GetFromFromRootCompliment] [Root.GetTitledNameWithNick],\n\nI write to ask for your permission to give my ward, [From.GetFirstName], a proper [FromFrom.Religion.GetName] upbringing and learn the ways of [FromFrom.Religion.GetScriptureName].\n\nSigned [FromFrom.GetTitledFirstName].;;;;;;;;;;;[Root.GetComplimentAdjectiveCap] [Root.GetTitledNameWithNick],\nß ñìèðåííî ïðîøó Âàñ ïîçâîëèòü, ÷òîáû ì[From.GetOyaOy] ïîäîïå÷í[From.GetAyaYy] [From.GetFirstName] ïîëó÷èë[From.GetEndA] ðåëèãèîçíîå âîñïèòàíèå è ïðèíÿë[From.GetEndA] [FromFrom.GetReligionFullName] êàê åäèíñòâåííóþ èñòèííóþ âåðó.\nÏîäïèñü:\n [FromFrom.GetTitledFirstName].;;x
+EVTDESC_ZE_2141;Dear [Root.GetTitledNameWithNick],\n\nYour initiative to teach [FromFrom.GetFirstName] about your religion is most welcome and I accept your proposal.;;;;;;;;;;;Óâàæàåì[Root.GetAyaYy] [Root.GetTitledNameWithNick],\nÂàøà èíèöèàòèâà ïî âîñïèòàíèþ ðåá¸íêà â äóõå Âàøåé âåðû âïîëíå ïðèåìëåìà. Óâåðåí[From.GetEnA], [FromFrom.GetFirstName] åù¸ ñêàæåò Âàì ñïàñèáî.;;x
+EVTDESCA_ZE_2132;Dear, [GetFromRootCompliment] [Root.GetFirstName].\n\nWhile I admire your enthusiasm for the upbringing of [FromFrom.GetFirstName] I do believe that it's best to continue with the current plan of education for [FromFrom.GetHerHim].;;;;;;;;;;;Äîðîã[Root.GetAyaOy] [Root.GetFirstName].\nÍåñìîòðÿ íà òî, ÷òî ÿ îäîáðÿþ Âàø ýíòóçèàçì, âñ¸ æå áóäåò ëó÷øå, åñëè [FromFrom.GetFirstName] ïðîäîëæèò îáó÷åíèå â ïðåæíåì êëþ÷å.;;x
+EVTDESCB_ZE_2132;To the [GetFromRootInsult] [Root.GetTitledFirstName],\n\nClearly you can understand what an outlandish suggestion you are making. [FromFrom.GetFirstName] is supposed to grow up to be a fine and cultured [FromFrom.GetManWoman], something which will obviously not be possible with your strange rituals and repulsive manners.;;;;;;;;;;;Óâàæàåì[Root.GetAyaYy] [Root.GetTitledFirstName],\nÍàäåþñü, Âû ïîíèìàåòå, íàñêîëüêî íåëåïî Âàøå ïðåäëîæåíèå. [FromFrom.GetFirstName] äîëæ[FromFrom.GetNaEn] âîñïèòûâàòüñÿ â ïðàâèëüíûõ òðàäèöèÿõ, ýòî ïîìîæåò [FromFrom.GetHerHim] ñíèñêàòü óâàæåíèå è ïîíèìàíèå ñðåäè îêðóæàþùèõ.;;x
+EVTDESCB_ZE_2142;To the [GetFromRootInsult] [Root.GetTitledFirstName],\n\nI am certain you can understand what a blasphemous suggestion you are making! [FromFrom.GetFirstName] is supposed to grow up to be a fine and dutiful [FromFrom.GetManWoman], something which will obviously not be possible with your strange rituals and profane manners.;;;;;;;;;;;[Root.GetInsultAdjective] [Root.GetTitledFirstName],\nÓâåðåí[From.GetEnA], Âû ïîíèìàåòå, íàñêîëüêî íåëåïà è êîùóíñòâåííà Âàøà ïðîñüáà! [FromFrom.GetFirstName] äîëæ[FromFrom.GetNaEn] âûðàñòè äîñòîéí[FromFrom.GetOyIm] è îòâåòñòâåíí[FromFrom.GetOyYm] [FromFrom.GetManWoman]îé, ÷òî êîíå÷íî æå íåâîçìîæíî ñ Âàøèìè ñòðàííûìè ðèòóàëàìè è ëîæíûìè ó÷åíèÿìè.;;x
+EVTOPTA_ZE_2100;Time to teach [From.GetHerHim] about [Root.Religion.GetHighGodName].;;;;;;;;;;;Íó ÷òî æ, ïîðà îáó÷èòü [target_child.GetHersHis].;;x
+EVTOPTA_ZE_2101;Glory to [From.Religion.GetHighGodName]!;;;;;;;;;;;Âîò ýòî äà!;;x
+EVTOPTA_ZE_2120;I should encourage it.;;;;;;;;;;;Íàäî ïîìî÷ü [target_child.GetHerHim] â ýòîì.;;x
+EVTOPTA_ZE_2120_TT;§Y[From.GetTitledName]§! becomes §Y[Root.Culture.GetName]§!.;;;;;;;;;;;§Y[target_child.GetTitledFirstName]§! ïðèìåò §Y[Root.GetCultureAdj]óþ§! êóëüòóðó.;;x
+EVTOPTA_ZE_2121;How fascinating.;;;;;;;;;;;Êàê ïîçíàâàòåëüíî!;;x
+EVTOPTA_ZE_2122;I hope it's a beneficial influence.;;;;;;;;;;;Íàäåþñü, ýòî ê ëó÷øåìó.;;x
+EVTOPTA_ZE_2130;That seems appropriate.;;;;;;;;;;;Çäðàâàÿ ìûñëü.;;x
+EVTOPTA_ZE_2131;[FromFrom.GetSubjectPronounCap] will be taught well.;;;;;;;;;;;Óâåðåí[Root.GetEndA], ýòî ïîéä¸ò [FromFrom.GetHerHim] òîëüêî íà ïîëüçó.;;x
+EVTOPTA_ZE_2132;Not the response I had hoped for.;;;;;;;;;;;ß ïîäîçðåâàë[Root.GetEndA] ïîäîáíûé îòâåò.;;x
+EVTOPTB_ZE_2100;It will be better for [From.GetHerHim] not to know.;;;;;;;;;;;Ëó÷øå [target_child.GetHerHim] îá ýòîì íå çíàòü.;;x
+EVTOPTB_ZE_2101;What repugnant ideas!;;;;;;;;;;;×òî çà îòâðàòèòåëüíûå èäåè!;;x
+EVTOPTB_ZE_2120;Make sure [From.GetSheHe] learns about [From.GetHerHis] own customs.;;;;;;;;;;;Âàæíåå óáåäèòüñÿ, ÷òî [target_child.GetSheHe] ïîìíèò ðîäíûå îáû÷àè.;;x
+EVTOPTB_ZE_2121;I'd rather study my own family's heritage.;;;;;;;;;;;Íî äóìàþ, âàæíåå çíàòü î íàñëåäèè ñâîèõ ïðåäêîâ.;;x
+EVTOPTB_ZE_2130;I will never allow [From.GetHerHim] to turn into a savage!;;;;;;;;;;;Íè çà ÷òî!;;x
+EVTOPTB_ZE_2132;What a rude response!;;;;;;;;;;;Êàê ãðóáî!;;x

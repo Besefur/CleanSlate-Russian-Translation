@@ -1,14 +1,13 @@
-EVTDESC_HL_7000;You have decided to organize a great competition in martial skills, inviting warriors from across the realm to display their prowess with horse, bow and sword.;;;;;;;;;;;;;x
-EVTDESC_HL_7001;To my faithful warrior [Root.GetDynName],\n\nI shall expect your presence at the upcoming wargames that will be held at [From.Capital.GetName]\n\n[From.GetFullName];;;;;;;;;;;;;x
-EVTDESC_HL_7002;Dear [Root.GetTitledFirstName],\n\nUnfortunately I cannot attend the upcoming wargames.\n\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC_HL_7020;Warriors have come to your court from afar, gathering for the great wargames. The impatient stomping of horses accompanies the excited cries from the spectators. As the participants salute you, you give the signal for the contest to begin.;;;;;;;;;;;;;x
-EVTDESC_HL_7025;You have arrived at the court of the [From.PrimaryTitle.GetRulerTitle] for the wargames. The impatient stomping of horses accompanies the excited cries from the spectators. As you salute [From.GetTitledFirstName], [From.GetSheHe] gives the signal for the contest to begin.;;;;;;;;;;;;;x
-EVTDESC_HL_7055;Your skill with horse, bow and sword unmatched on this day, you have won the games! [From.GetTitledFirstName] presents you with your well-earned prize.;;;;;;;;;;;;;x
-EVTDESC_HL_7060;[From.GetFullName] has won the wargames, [From.GetHerHis] martial skills unmatched.;;;;;;;;;;;;;x
-
-EVTOPTA_HL_7000;It will be a great contest.;;;;;;;;;;;;;x
-EVTOPTA_HL_7001;I will saddle my horse now!;;;;;;;;;;;;;x
-EVTOPTA_HL_7020;The best warrior shall win!;;;;;;;;;;;;;x
-EVTOPTA_HL_7025;I shall give it my best!;;;;;;;;;;;;;x
-EVTOPTA_HL_7055;I knew I would win!;;;;;;;;;;;;;x
-EVTOPTA_HL_7060;A worthy winner.;;;;;;;;;;;;;x
+EVTDESC_HL_7000;You have decided to organize a great competition in martial skills, inviting warriors from across the realm to display their prowess with horse, bow and sword.;;;;;;;;;;;Âû ðåøèëè îðãàíèçîâàòü âåëèêîå âîåííîå ñîñòÿçàíèå. Âîèíû âñåé ýòîé çåìëè ñîáåðóòñÿ íà íåãî, ÷òîáû ïðîäåìîíñòðèðîâàòü ñâîþ óäàëü â áîðüáå, ñòðåëüáå è âåðõîâîé åçäå.;;x
+EVTDESC_HL_7001;To my faithful warrior [Root.GetDynName],\n\nI shall expect your presence at the upcoming wargames that will be held at [From.Capital.GetName]\n\n[From.GetFullName];;;;;;;;;;;[Root.GetDynName], ìîé âåðíûé âîèí,\n\nÍàäåþñü, Âû ïî÷òèòå Íàø íàðîä ñâîèì ó÷àñòèåì íà ïðåäñòîÿùåì áîåâîì èãðèùå? Æäó Âàñ â [From.Capital.County.GetAdjective]ñêèõ çåìëÿõ.\n\n[From.GetFullName].;;x
+EVTDESC_HL_7002;Dear [Root.GetTitledFirstName],\n\nUnfortunately I cannot attend the upcoming wargames.\n\n[From.GetTitledName];;;;;;;;;;;Î, ðàäîñòü Íåáà, [Root.GetTitledFirstName],\n\nÊ ñîæàëåíèþ, ÿ íå ñìîãó ïðèñóòñòâîâàòü íà áîåâîì èãðèùå. Òûñÿ÷è èçâèíåíèé!\n\n[From.GetTitledName];;x
+EVTDESC_HL_7020;Warriors have come to your court from afar, gathering for the great wargames. The impatient stomping of horses accompanies the excited cries from the spectators. As the participants salute you, you give the signal for the contest to begin.;;;;;;;;;;;Èçäàëåêà ê Âàì ïðèáûâàþò âîèíû, ñîáèðàÿñü íà âåëèêèå áîåâûå èãðèùà. Íà ïðàçäíè÷íîì ïîëå òîïîò êîíåé ñìåøèâàåòñÿ ñ âîçáóæä¸ííûìè êðèêàìè çðèòåëåé. Ó÷àñòíèêè èãðèù ïðèâåòñòâóþò õîçÿèíà ïðàçäíåñòâà, è Âû äà¸òå ñèãíàë ê íà÷àëó!;;x
+EVTDESC_HL_7025;You have arrived at the court of the [From.PrimaryTitle.GetRulerTitle] for the wargames. The impatient stomping of horses accompanies the excited cries from the spectators. As you salute [From.GetTitledFirstName], [From.GetSheHe] gives the signal for the contest to begin.;;;;;;;;;;;[From.PrimaryTitle.GetRulerTitle] ïðîâîäÿò áîåâûå èãðèùà, è Âû ñïåøèòå ê åãî äâîðó. À íà ïðàçäíè÷íîì ïîëå òîïîò êîíåé óæå ñìåøèâàåòñÿ ñ âîçáóæä¸ííûìè êðèêàìè çðèòåëåé. Ó÷àñòíèêè èãðèù ïðèâåòñòâóþò õîçÿèíà ïðàçäíåñòâà. [From.GetTitledFirstName] ñòîèò â îêðóæåíèè ñâîåé ñâèòû è äà¸ò ñèãíàë ê íà÷àëó!;;x
+EVTDESC_HL_7055;Your skill with horse, bow and sword unmatched on this day, you have won the games! [From.GetTitledFirstName] presents you with your well-earned prize.;;;;;;;;;;;Âàøå ìàñòåðñòâî ïîòðÿñëî âñåõ! Â áîðüáå, ñòðåëüáå è ñêà÷êàõ Âû ïîáåäèëè âñåõ ïðîòèâíèêîâ! [From.GetTitledFirstName] äàðèò Âàì çàñëóæåííóþ íàãðàäó.;;x
+EVTDESC_HL_7060;[From.GetFullName] has won the wargames, [From.GetHerHis] martial skills unmatched.;;;;;;;;;;;[From.GetFullName] - ÷åìïèîí áîåâûõ èãðèù! [From.GetHersHis] áîåâûå íàâûêè íåïðåâçîéä¸ííû!;;x
+EVTOPTA_HL_7000;It will be a great contest.;;;;;;;;;;;Ýòî áóäåò âåëèêîå ñîñòÿçàíèå!;;x
+EVTOPTA_HL_7001;I will saddle my horse now!;;;;;;;;;;;Ñåäëàþ êîíÿ è åäó!;;x
+EVTOPTA_HL_7020;The best warrior shall win!;;;;;;;;;;;Óäà÷à áëàãîâîëèò õðàáðûì!;;x
+EVTOPTA_HL_7025;I shall give it my best!;;;;;;;;;;;Ïîêàæåì íàðîäó ñâîþ óäàëü!;;x
+EVTOPTA_HL_7055;I knew I would win!;;;;;;;;;;;Ïîáåäà - ìîÿ!;;x
+EVTOPTA_HL_7060;A worthy winner.;;;;;;;;;;;Âîèñòèíó òàê!;;x

@@ -1,276 +1,206 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC75000;[Root.GetMyChancellorName] [Root.job_chancellor.GetTitledFirstName] is doing a superb job! I am having trouble with a town and a castle in [Root.Location.GetName] and I shall of course send my [Root.GetMyChancellorName] [Root.job_chancellor.GetTitledFirstName] to try and increase the relation between them and us, but which one should I start with?;;;;;;;;;;;;;x
-EVTOPTA75000;The town!;;;;;;;;;;;;;x
-EVTOPTB75000;The castle!;;;;;;;;;;;;;x
-
-EVTDESC75001;I have noticed Marshal [Root.job_marshal.GetTitledFirstName]'s hard-work and everyone seems to like [Root.job_marshal.GetHerHim]. I am deciding between having my Marshal heighten the morale of the troops or try to recruit more soldiers.;;;;;;;;;;;;;x
-EVTOPTA75001;Send Marshal [Root.job_marshal.GetTitledFirstName] to heighten the troops' morale;;;;;;;;;;;;;x
-EVTOPTB75001;Send Marshal [Root.job_marshal.GetTitledFirstName] to recruit soldiers;;;;;;;;;;;;;x
-
-EVTDESC75002;My coffers are almost empty and the peasants are restless. I only have one Steward, [Root.job_treasurer.GetTitledFirstName] and even if [Root.job_treasurer.GetSheHe] is doing a wonderful job [Root.job_treasurer.GetSheHe] cannot do more than one thing at once.;;;;;;;;;;;;;x
-EVTOPTA75002;Send Steward [Root.job_treasurer.GetTitledFirstName] to increase the tax income;;;;;;;;;;;;;x
-EVTOPTB75002;Send Steward [Root.job_treasurer.GetTitledFirstName] to calm the peasants;;;;;;;;;;;;;x
-
-EVTDESC75003;There is a man I need to arrest and another I want to assassinate. My Spymaster [Root.job_spymaster.GetTitledFirstName] could either help with the arrest or the assassination, but not both. ;;;;;;;;;;;;;x
-EVTOPTA75003;Send Spymaster [Root.job_spymaster.GetTitledFirstName] to the arrest!;;;;;;;;;;;;;x
-EVTOPTB75003;Send Spymaster [Root.job_spymaster.GetTitledFirstName] to the plot!;;;;;;;;;;;;;x
-
-EVTDESC75004;There is no [Root.job_spiritual.GetManWoman] better at increasing the Church's opinion of me or teach me to become a more pious [Root.GetManWoman] than my [Root.GetLordSpiritualName] [Root.job_spiritual.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTOPTA75004;I need you to talk to the Church, [Root.job_spiritual.GetTitledFirstName];;;;;;;;;;;;;x
-EVTOPTB75004;Teach me to be a pious [Root.GetManWoman], [Root.job_spiritual.GetTitledFirstName];;;;;;;;;;;;;x
-
-EVTDESC75005;There is no [Root.job_spiritual.GetManWoman] better at increasing the [Root.Religion.GetName] Church's opinion of me or teach me to become a more pious Muslim than my [Root.GetMyLordSpiritualName] [Root.job_spiritual.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTOPTA75005;Talk to the [Root.Religion.GetName] Church, [Root.job_spiritual.GetTitledFirstName];;;;;;;;;;;;;x
-EVTOPTB75005;Teach me to be a pious Muslim, [Root.job_spiritual.GetTitledFirstName];;;;;;;;;;;;;x
-
-EVTDESC75010;My liege's [Root.GetChancellorName] [Root.Liege.job_chancellor.GetTitledFirstName] has been looking at my wife [Root.Spouse.GetTitledFirstName] with lust in his eyes. I need to tell my liege [Root.Liege.GetTitledFirstName] and ask [Root.Liege.GetHerHim] to do something about this before anything happens!;;;;;;;;;;;;;x
-EVTOPTA75010;Complain to liege about the [Root.GetChancellorName]'s inappropriate behavior;;;;;;;;;;;;;x
-EVTOPTB75010;Maybe it's nothing...;;;;;;;;;;;;;x
-
-EVTDESC75011;[From.GetTitledFirstName] accused [Root.GetMyChancellorName] [Root.job_chancellor.GetTitledFirstName] of looking at [From.GetHerHis] wife in an inappropriate way, 'with lust in his eyes' as [From.GetSheHe] said.;;;;;;;;;;;;;x
-EVTOPTA75011;I will imprison [Root.job_chancellor.GetTitledFirstName] at once!;;;;;;;;;;;;;x
-EVTOPTB75011;I don't believe [Root.GetMyChancellorName] [Root.job_chancellor.GetTitledFirstName] has done that!;;;;;;;;;;;;;x
-
-EVTDESC75012;[From.GetTitledFirstName] took my concern seriously and imprisoned [From.GetHerHis] [Root.GetChancellorName] [From.job_chancellor.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTOPTA75012;[From.GetSheHeCap] did not like that I complained, though...;;;;;;;;;;;;;x
-
-EVTDESC75013;[FromFrom.GetTitledFirstName] claimed I had looked at [FromFrom.GetHerHis] wife with lust in my eyes, a most inappropriate behavior! My liege [From.GetTitledFirstName] chose to believe [FromFrom.GetHerHim], despite my attempts at convincing [From.GetHerHim] I had no desire for [FromFrom.GetTitledFirstName]'s wife.;;;;;;;;;;;;;x
-EVTOPTA75013;You really believe [FromFrom.GetHerHim] more than me?;;;;;;;;;;;;;x
-
-EVTDESC75014;The accusations [FromFrom.GetTitledFirstName] made, of me having looked inappropriately at [FromFrom.GetHerHis] wife, was dismissed by our liege [From.GetTitledFirstName]! [FromFrom.GetTitledFirstName]'s wife has a fine figure but I wouldn't dream of even dreaming of looking at her in an inappropriate way.;;;;;;;;;;;;;x
-EVTOPTA75014;Thank you for believing in me!;;;;;;;;;;;;;x
-
-EVTDESC75015;[From.GetTitledFirstName] dismissed my concerns, [From.GetSheHe] claimed [Root.GetChancellorName] [From.job_chancellor.GetTitledFirstName] would never look at anyone in an inappropriate manner and would not listen to me as I tried to convince [From.GetHerHim] about [From.GetHerHis] [Root.GetChancellorName]'s guilt.;;;;;;;;;;;;;x
-EVTOPTA75015;But, but... I saw [From.job_chancellor.GetHerHim] do it!;;;;;;;;;;;;;x
-
-EVTDESC75020;One of my tasks as [Root.GetChancellorName] is to smooth relations between lords. Mostly I try to make other rulers or my liege's vassals like [Root.Liege.GetHerHim] better, but sometimes, as today, I find someone who doesn't like [Root.Liege.GetTitledFirstName] and then I work my magic on...;;;;;;;;;;;;;x
-EVTOPTA75020;...one of [Root.Liege.GetTitledFirstName]'s vassals;;;;;;;;;;;;;x
-EVTOPTB75020;...[Root.Liege.GetTitledFirstName] and [Root.Liege.GetHerHis] [Root.Liege.Spouse.GetTitledFirstName];;;;;;;;;;;;;x
-EVTOPTC75020;...the courtiers at [Root.Liege.Location.GetName];;;;;;;;;;;;;x
-
-EVTDESC75021;I have had trouble with a vassal of mine and tried everything I could think of to help us get along better. [Root.GetMyChancellorName] [From.GetTitledFirstName] managed to do in one day what I had struggled with for several weeks when [From.GetSheHe] told me to just ask the vassal for forgiveness, that was all that was needed!;;;;;;;;;;;;;x
-EVTOPTA75021;[Root.GetMyChancellorName] [From.GetTitledFirstName] must be rewarded for this!;;;;;;;;;;;;;x
-EVTOPTB75021;It's just [From.GetHerHis] job;;;;;;;;;;;;;x
-
-EVTDESC75022;All it took was a small: 'I'm sorry' from [From.Liege.GetTitledFirstName], and I do believe it was [From.Liege.GetHerHis] [Root.GetChancellorName] [From.GetTitledFirstName] that convinced [From.Liege.GetHerHim] to ask for my forgiveness.;;;;;;;;;;;;;x
-EVTOPTA75022;I'm glad [From.Liege.GetTitledFirstName] said that [From.Liege.GetSheHe] was sorry;;;;;;;;;;;;;x
-EVTOPTB75023;[From.GetSheHeCap] only did [From.GetHerHis] job...;;;;;;;;;;;;;x
-
-EVTDESC75023;My [Root.Spouse.GetFirstName] and I had almost stopped talking to each other when [Root.GetChancellorName] [From.GetTitledFirstName] intervened. [From.GetSheHeCap] made [Root.Spouse.GetFirstName] start talking to me, even like me a little bit more!;;;;;;;;;;;;;x
-EVTOPTA75023;Such good work should be rewarded!;;;;;;;;;;;;;x
-
-EVTDESC75024;I had given up talking to [Root.Spouse.GetFirstName] when [Root.GetChancellorName] [From.GetTitledFirstName] intervened and made me realize how silly we had behaved. Now we talk, and we both appreciate one another in a whole new way.;;;;;;;;;;;;;x
-EVTOPTA75024;If it weren't for [From.GetFirstName] this would have gotten worse;;;;;;;;;;;;;x
-
-EVTDESC75025;I might have been too harsh to the courtiers at [Root.Location.GetName] but [Root.GetMyChancellorName] [From.GetTitledFirstName] managed to calm them down and even like me more, just by giving them a half-day off!;;;;;;;;;;;;;x
-EVTOPTA75025;How can I ever reward you?;;;;;;;;;;;;;x
-EVTOPTB75025;Thank you, but you only did your job;;;;;;;;;;;;;x
-
-EVTDESC75026;I hadn't really expected to be rewarded for what I had done, but it was nice of [From.GetTitledFirstName] to show that [From.GetSheHe] appreciated my hard work.;;;;;;;;;;;;;x
-EVTOPTA75026;I will work even harder now!;;;;;;;;;;;;;x
-
-EVTDESC75027;It was true I only did my job, but it would be nice to for once get a 'Thank you,' or at least some sort of appreciation from [From.GetTitledFirstName] for my hard work...;;;;;;;;;;;;;x
-EVTOPTA75027;You are welcome!!;;;;;;;;;;;;;x
-
-EVTDESC75030;My slothfulness gets me into trouble with my liege [Root.Liege.GetTitledFirstName] who claims I do not do a good enough job as a [Root.Liege.GetChancellorName] as I 'go to extreme lengths to avoid having to do any actual work'. [Root.Liege.GetTitledFirstName]'s words, not mine.;;;;;;;;;;;;;x
-EVTOPTA75030;Oh well...;;;;;;;;;;;;;x
-
-EVTDESC75031;I grow more and more impatient with [Root.GetChancellorName] [From.GetTitledFirstName], [From.GetHerHis] slothfulness makes [From.GetHerHim] go to extreme lengths to avoid having to do any actual work.;;;;;;;;;;;;;x
-EVTOPTA75031;Give a stern talking to [Root.GetChancellorName] [From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTOPTB75031;I will give [From.GetHerHim] one last chance to sharpen up!;;;;;;;;;;;;;x
-EVTOPTC75031;This is worth throwing someone in jail over;;;;;;;;;;;;;x
-
-EVTDESC75032;I don't know how [From.GetTitledFirstName] found out about how my slothfulness caused us to miss the opportunity to improve [Root.Location.GetName], but [From.GetSheHe] did. [From.GetTitledFirstName] was disappointed and talked sternly to me for several minutes, chiding me for being slothful.;;;;;;;;;;;;;x
-EVTOPTA75032;[From.GetSheHeCap] can't talk to me that way!;;;;;;;;;;;;;x
-EVTOPTB75032;I will learn from this;;;;;;;;;;;;;x
-
-EVTDESC75033;[From.GetTitledFirstName] let me know [From.GetSheHe] knows about how my slothfulness caused us to miss that opportunity to improve [Root.Location.GetName] but that it did not matter. 'What's done is done,' [From.GetSheHe] told me.;;;;;;;;;;;;;x
-EVTOPTA75033;That's a relief!;;;;;;;;;;;;;x
-EVTTOOLTIP75033;[This.GetTitledFirstName] is reprimanded by [Root.GetTitledFirstName];;;;;;;;;;;;;x
-
-EVTDESC75034;Before I knew it, someone grabbed me and dragged me to [From.GetTitledFirstName]'s prison and threw me into a cell. I sat in that cell for what felt like days but it couldn't have been more than a couple of hours. [From.GetTitledFirstName] finally showed up, told me the reason I was in jail was because of my slothfulness and the missed opportunity to improve [Root.Location.GetName].;;;;;;;;;;;;;x
-EVTOPTA75034;This isn't happening!;;;;;;;;;;;;;x
-
-EVTDESC75035;When I had finished talking sternly to [Root.GetMyChancellorName] [From.GetTitledFirstName] I didn't really expect [From.GetHerHim] to talk back, but the anger that filled [From.GetHerHim] fast was vented immediately. I ignored it and left [Root.GetMyChancellorName] [From.GetTitledFirstName], barely able to speak because of [From.GetHerHis] anger.;;;;;;;;;;;;;x
-EVTOPTA75035;You had it coming!;;;;;;;;;;;;;x
-EVTTOOLTIP75035;[Root.GetTitledFirstName] is angry at [This.GetTitledFirstName];;;;;;;;;;;;;x
-
-EVTDESC75036;I was glad to hear [Root.GetMyChancellorName] [From.GetTitledFirstName] decided to amend [From.GetHerHis] ways and start working harder. The slothfulness that caused us to miss the opportunity to improve [Root.Location.GetName] seems to have disappeared over night, and I am glad I talked sternly to [From.GetHerHim] about it.;;;;;;;;;;;;;x
-EVTOPTA75036;Good for you, and me!;;;;;;;;;;;;;x
-
-EVTDESC75040;There's an infidel in my liege [Root.Liege.GetTitledFirstName]'s court!;;;;;;;;;;;;;x
-EVTOPTA75040;Demand that [Root.Liege.GetTitledFirstName] have the infidel burned at the stake.;;;;;;;;;;;;;x
-EVTOPTB75040;Demand that [Root.Liege.GetTitledFirstName] have the infidel exiled.;;;;;;;;;;;;;x
-
-EVTDESC75041;There's an infidel at your court, my liege!', my [Root.GetMyLordSpiritualName] [From.GetTitledFirstName] said.\n'I demand you burn the infidel at the stake!';;;;;;;;;;;;;x
-EVTOPTA75041;The infidel will be burned at the stake!;;;;;;;;;;;;;x
-EVTOPTB75041;I will do no such thing!;;;;;;;;;;;;;x
-
-EVTDESC75042;There's an infidel at your court, my liege!', my [Root.GetMyLordSpiritualName] [From.GetTitledFirstName] said.\n'I demand you banish the infidel!';;;;;;;;;;;;;x
-EVTOPTA75042;The infidel will be banished!;;;;;;;;;;;;;x
-EVTOPTB75042;I won't banish the infidel;;;;;;;;;;;;;x
-
-EVTDESC75043;I watched gleefully as the infidel burned at the stake. The infidel will burn in the [Root.Religion.GetName] Hell as it burns now until the sins has burned from its soul!;;;;;;;;;;;;;x
-EVTOPTA75043;No more false religions!;;;;;;;;;;;;;x
-
-EVTDESC75044;Despite my demands, warnings and even pleas, [From.GetTitledFirstName] refused to burn the infidel at the stake!;;;;;;;;;;;;;x
-EVTOPTA75044;But... it's an infidel!;;;;;;;;;;;;;x
-
-EVTDESC75045;The infidel was banished from the lands of [From.GetTitledFirstName] and forced to never return on pain of death.;;;;;;;;;;;;;x
-EVTOPTA75045;It was a happy day for me;;;;;;;;;;;;;x
-
-EVTDESC75046;[From.GetTitledFirstName] chose to ignore my demands, the infidel I had found was not even banished, the infidel was let go without any punishment!;;;;;;;;;;;;;x
-EVTOPTA75046;You can't just ignore the infidel!;;;;;;;;;;;;;x
-
-EVTDESC75050;There's a heretic in my liege [Root.Liege.GetTitledFirstName]'s court!;;;;;;;;;;;;;x
-EVTOPTA75050;Demand that [Root.Liege.GetTitledFirstName] have the heretic burned at the stake.;;;;;;;;;;;;;x
-EVTOPTB75050;Demand that [Root.Liege.GetTitledFirstName] have the heretic exiled.;;;;;;;;;;;;;x
-
-EVTDESC75051;My liege, you have a heretic in your court!', my [Root.GetMyLordSpiritualName] [From.GetTitledFirstName] told me in confidence.\n'I recommend you set an example and burn the heretic on the stake!';;;;;;;;;;;;;x
-EVTOPTA75051;The heretic will burn!;;;;;;;;;;;;;x
-EVTOPTB75051;No one will be burned at the stake!;;;;;;;;;;;;;x
-
-EVTDESC75052;[Root.GetLordSpiritualName] [From.GetTitledFirstName] found a heretic at my court and insisted, nay, demanded that I would banish the heretic and make sure the heretic would never return on pain of death.;;;;;;;;;;;;;x
-EVTOPTA75052;Banish the heretic!;;;;;;;;;;;;;x
-EVTOPTB75052;Don't make me banish you instead!;;;;;;;;;;;;;x
-
-EVTDESC75053;The heretic must have regretted his sins as he burned at the stake. This will be an excellent warning who challenges the one true faith, the [Root.Religion.GetName] faith!;;;;;;;;;;;;;x
-EVTOPTA75053;Burn, heretic, burn!;;;;;;;;;;;;;x
-
-EVTDESC75054;What good is my position as [From.GetLordSpiritualName] if my liege won't listen to me? The heretic did not burn on the stake despite my desperate demands to [From.GetTitledFirstName].;;;;;;;;;;;;;x
-EVTOPTA75054;But heresy is bad!;;;;;;;;;;;;;x
-
-EVTDESC75055;[From.GetTitledFirstName] banished the heretic on pain of death if he would ever return!;;;;;;;;;;;;;x
-EVTOPTA75055;Hallelujah!;;;;;;;;;;;;;x
-
-EVTDESC75056;[From.GetTitledFirstName] ignored my demands about banishing the heretic!;;;;;;;;;;;;;x
-EVTOPTA75056;Why do [From.GetTitledFirstName] ignore the heretic?;;;;;;;;;;;;;x
-
-EVTDESC75060;The peasants in a county are complaining about Steward [Root.job_treasurer.GetTitledFirstName]'s arbitrariness, they feel that [Root.job_treasurer.GetSheHe] doesn't really understand the concept of rules and laws.;;;;;;;;;;;;;x
-EVTOPTA75060;They shouldn't be bothering me about it!;;;;;;;;;;;;;x
-
-EVTDESC75061;[From.GetTitledFirstName] sent the peasants complaining about my arbitrariness to me and they were brave enough to air their concerns about me not being able to understand the concept of rules and laws!;;;;;;;;;;;;;x
-EVTOPTA75061;Of course I understand laws, I just don't follow them;;;;;;;;;;;;;x
-
-EVTDESC75065;[Root.job_treasurer.GetTitledFirstName]'s justice has brought peace to a troubled county. Fewer crimes are committed and fewer complaints are heard in the province. The peasants have never been happier!;;;;;;;;;;;;;x
-EVTOPTA75065;I'm very glad to hear that!;;;;;;;;;;;;;x
-
-EVTDESC75066;I can not take credit for the crime reduction, nor the fact the peasants seem happier but I believe that justice must be applied to make a better world.;;;;;;;;;;;;;x
-EVTOPTA75066;Justice, that is, for everyone!;;;;;;;;;;;;;x
-
-EVTDESC75070;A county in my demesne is riddled with disease! I need to send Steward [Root.job_treasurer.GetTitledFirstName] there, [Root.job_treasurer.GetSheHe] will surely know what to do.;;;;;;;;;;;;;x
-EVTOPTA75070;Please save the peasants! Who else am I going to get taxes from?;;;;;;;;;;;;;x
-
-EVTDESC75071;I try to work as hard as I can, saving the peasants one at a time. The disease is slowly giving up its hold on the county but it will take time before everyone is healthy again.;;;;;;;;;;;;;x
-EVTOPTA75071;I saved another one!;;;;;;;;;;;;;x
-
-EVTDESC75075;Steward [Root.job_treasurer.GetTitledFirstName] wants to hire ruffians to bully the peasants who are not paying their taxes.;;;;;;;;;;;;;x
-EVTOPTA75075;Any way is good as long as money is entering the treasury;;;;;;;;;;;;;x
-EVTOPTB75075;Prevent him doing any harm, even if I will get less tax;;;;;;;;;;;;;x
-
-EVTDESC75076;[From.GetTitledFirstName] did not like my suggestion to hire ruffians, when I tried explaining it would be easier to squeeze the peasants who are not paying their taxes [From.GetSheHe] still didn't want me to hire ruffians. I tried hiring them in secrecy but [From.GetTitledFirstName] somehow found out and stopped us before we had even started 'persuading' the peasants.;;;;;;;;;;;;;x
-EVTOPTA75076;Come on! I need those ruffians!;;;;;;;;;;;;;x
-
-EVTDESC75080;[Root.GetMyTreasurerName] [Root.job_treasurer.GetTitledFirstName] had come up with an idea for removing a thieves guild in counties: pay them to move elsewhere.;;;;;;;;;;;;;x
-EVTOPTA75080;Pay to stop criminals;;;;;;;;;;;;;x
-EVTOPTB75080;We do not associate with criminals;;;;;;;;;;;;;x
-
-EVTDESC75085;[Root.GetMyTreasurerName] [Root.job_treasurer.GetTitledFirstName] has had some interesting ideas on how to improve the economy.;;;;;;;;;;;;;x
-EVTOPTA75085;Adopt [Root.job_treasurer.GetHerHis] ideas;;;;;;;;;;;;;x
-EVTOPTB75085;It's not worth it;;;;;;;;;;;;;x
-
-EVTDESC75090;Working with thieves can be beneficiary, if my liege [Root.Liege.GetTitledFirstName] does not get wind of it...;;;;;;;;;;;;;x
-EVTOPTA75090;Take a large cut;;;;;;;;;;;;;x
-EVTOPTB75090;Try to hide your involvement;;;;;;;;;;;;;x
-
-EVTDESC75091;I followed [Root.GetMyTreasurerName] [From.GetTitledFirstName] at a distance and saw [From.GetHerHim] meet two rather rough looking men and went with them into a tavern infamous for it shoddy clientele. I watched through the dirty window how money exchanged hands and had the evidence I needed: [From.GetTitledFirstName] was working with thieves!;;;;;;;;;;;;;x
-EVTOPTA75091;Throw [From.GetHerHim] into jail;;;;;;;;;;;;;x
-EVTOPTB75091;Take [From.GetHerHis] gold and let him go;;;;;;;;;;;;;x
-
-EVTDESC75092;[From.GetTitledFirstName] waited for me at the gate together with two prison guards when I came back after my little meeting with the local thieves. I was thrown in prison and [From.GetTitledFirstName] told me I shouldn't have trusted the thieves...;;;;;;;;;;;;;x
-EVTOPTA75092;Wait! Don't leave me here!;;;;;;;;;;;;;x
-
-EVTDESC75093;[From.GetTitledFirstName] confronted me outside the tavern, me still counting the gold the thieves had given me in exchange for my cooperation. Instead of demanding my head or imprisoning me, [From.GetTitledFirstName] took the gold and told me to never associate with thieves ever again.;;;;;;;;;;;;;x
-EVTOPTA75093;I promise, never again!;;;;;;;;;;;;;x
-
-EVTDESC75095;[Root.GetMyTreasurerName] [Root.job_treasurer.GetTitledFirstName] probably did not think I'd notice if a few coins here and there went missing, but the steady disappearance made me suspicious. Might it be that the gold is disappearing into [Root.job_treasurer.GetTitledFirstName]'s greedy fingers?;;;;;;;;;;;;;x
-EVTOPTA75095;Question [Root.job_treasurer.GetTitledFirstName];;;;;;;;;;;;;x
-EVTOPTB75095;I don't care;;;;;;;;;;;;;x
-
-EVTDESC75096;[From.GetTitledFirstName] accused me of stealing! Coins had gone missing and all current evidence points at me...;;;;;;;;;;;;;x
-EVTOPTA75096;I would never steal!;;;;;;;;;;;;;x
-EVTOPTB75096;I admit it, I stole the money. But you pay me too little!;;;;;;;;;;;;;x
-
-EVTDESC75097;[From.GetTitledFirstName] declared that [From.GetSheHe] was innocent. Further investigation revealed that the cook, responsible for the purchase of food stuff, had forgotten to account for the extra eggs he had bought during the last month.;;;;;;;;;;;;;x
-EVTOPTA75097;Now I know I can trust [Root.GetMyTreasurerName] [From.GetTitledFirstName]!;;;;;;;;;;;;;x
-
-EVTDESC75098;I found some more evidence [Root.GetMyTreasurerName] [From.GetTitledFirstName] had stolen the money and confronted [From.GetHerHim] with it. [From.GetSheHeCap] confessed and begged me to be just when punishing [From.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTA75098;You shall pay back the money you stole, [From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTOPTB75098;You shall rot in prison, [From.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTOPTC75098;You are forgiven, [From.GetTitledFirstName];;;;;;;;;;;;;x
-
-EVTDESC75099;[From.GetTitledFirstName] fined me for stealing money and took all the money I had!;;;;;;;;;;;;;x
-EVTOPTA75099;That was harsh!;;;;;;;;;;;;;x
-
-EVTDESC75100;[From.GetTitledFirstName] believed I had stolen the money and put me in prison to repent my crimes and my sins.;;;;;;;;;;;;;x
-EVTOPTA75100;I repent, just let me out of here!;;;;;;;;;;;;;x
-
-EVTDESC75105;A band of highway robbers has been roaming freely in one of [Root.Liege.GetTitledFirstName]'s counties. I am itching to do something about this situation, I should propose to [Root.Liege.GetTitledFirstName] that we should deal with it.;;;;;;;;;;;;;x
-EVTOPTA75105;Me and a bunch of soldiers could easily take them!;;;;;;;;;;;;;x
-EVTOPTB75105;...or maybe I shouldn't put myself in danger...;;;;;;;;;;;;;x
-
-EVTDESC75106;The band of highway robbers has become more and more audacious, plundering more towns and settlements for everyday. Marshal [From.GetTitledFirstName] has proposed to lead an attack personally to eradicate them from the province.;;;;;;;;;;;;;x
-EVTOPTA75106;Give [From.GetHerHim] more than enough soldiers;;;;;;;;;;;;;x
-EVTOPTB75106;Tell [From.GetHerHim] to bring [From.GetHerHis] own retinue only;;;;;;;;;;;;;x
-
-EVTDESC75110;One of [Root.Liege.GetTitledFirstName]'s prominent subjects has accused me of beating his daughter while a guest of their house!;;;;;;;;;;;;;x
-EVTOPTA75110;The girl is lying!;;;;;;;;;;;;;x
-
-EVTDESC75111;A prominent subject has petitioned me for justice: His daughter had supposedly been beaten by Marshal [From.GetTitledFirstName] while [From.GetSheHe] was their guest and the father is requesting compensation.;;;;;;;;;;;;;x
-EVTOPTA75111;Marshal [From.GetTitledFirstName] will be fined for [From.GetHerHis] crime!;;;;;;;;;;;;;x
-EVTOPTB75111;Marshal [From.GetTitledFirstName] will be imprisoned;;;;;;;;;;;;;x
-EVTOPTC75111;I don't believe this. The daughter must be lying;;;;;;;;;;;;;x
-
-EVTDESC75112;[From.GetTitledFirstName] decided to believe the girl's lies about me beating her and made me pay a huge fine!;;;;;;;;;;;;;x
-EVTOPTA75112;But I am innocent!;;;;;;;;;;;;;x
-
-EVTDESC75113;Despite the girl's father demanding my head on a plate, [From.GetTitledFirstName] decided to be merciful and 'only' let me rot in the dungeon for who knows how long. The only trouble is, I am innocent of beating her!;;;;;;;;;;;;;x
-EVTOPTA75113;Let me out! I didn't hurt her!;;;;;;;;;;;;;x
-
-EVTDESC75114;[From.GetTitledFirstName] believed me when I told [From.GetHerHim] I had never even talked to the girl who accused me of beating her and managed to find evidence that the girl was lying. Apparently, she and her friend had hatched a scheme to blackmail me;;;;;;;;;;;;;x
-EVTOPTA75114;Her black eye wasn't my fault then!;;;;;;;;;;;;;x
-
-EVTDESC75120;Marshal [Root.job_marshal.GetTitledFirstName] told me about [Root.job_marshal.GetHerHis] ideas. I couldn't really understand what [Root.job_marshal.GetSheHe] was talking about, but [Root.job_marshal.GetSheHe] was adamant in [Root.job_marshal.GetHerHis] belief that this would improve the military.;;;;;;;;;;;;;x
-EVTOPTA75120;Adopt the Marshal's ideas;;;;;;;;;;;;;x
-EVTOPTB75120;It's not worth it;;;;;;;;;;;;;x
-
-EVTTOOLTIP75011;[Root.GetTitledFirstName] tells [This.GetTitledFirstName] about [This.job_chancellor.GetTitledFirstName]'s inappropriate behavior;;;;;;;;;;;;;x
-EVTTOOLTIP75012;[This.GetTitledFirstName] is glad [Root.job_chancellor.GetTitledFirstName] is imprisoned;;;;;;;;;;;;;x
-EVTTOOLTIP75013;[Root.GetMyChancellorName] [This.GetTitledFirstName] is imprisoned by [Root.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP75014;[Root.GetMyChancellorName] [This.GetTitledFirstName] is glad [Root.GetTitledFirstName] believes [This.GetSheHe] is innocent;;;;;;;;;;;;;x
-EVTTOOLTIP75015;[This.GetTitledFirstName] is upset [Root.GetTitledFirstName] dismissed [This.GetHerHis] concern;;;;;;;;;;;;;x
-EVTTOOLTIP75021;[This.GetTitledFirstName] and [This.GetHerHis] vassal gets along better;;;;;;;;;;;;;x
-EVTTOOLTIP75022;[This.GetTitledFirstName] and [Root.Liege.GetTitledFirstName] get along better;;;;;;;;;;;;;x
-EVTTOOLTIP75023;[This.GetTitledFirstName] is starting to like [This.Spouse.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP75024;[This.GetTitledFirstName] is starting to like [This.Spouse.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP75025;The courtiers at [This.GetTitledFirstName]'s court likes [This.GetHerHim] more;;;;;;;;;;;;;x
-EVTTOOLTIP75026;[This.GetTitledFirstName] is rewarded by [Root.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP75027;[This.GetTitledFirstName] is disappointed in [Root.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP75032;[Root.GetTitledFirstName] talks sternly to [This.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP75034;[This.GetTitledFirstName] could have avoided jail if [This.GetSheHe] had been less slothful;;;;;;;;;;;;;x
-EVTTOOLTIP75041;[This.GetTitledFirstName] decides if the infidel should be burned at the stake or not;;;;;;;;;;;;;x
-EVTTOOLTIP75042;[This.GetTitledFirstName] decides if the infidel should be exiled or not;;;;;;;;;;;;;x
-EVTTOOLTIP75051;[This.GetTitledFirstName] decides if the heretic should be burned at the stake or not;;;;;;;;;;;;;x
-EVTTOOLTIP75052;[This.GetTitledFirstName] decides if the heretic should be exiled or not;;;;;;;;;;;;;x
-EVTTOOLTIP75061;The peasants complains to Steward [This.GetTitledFirstName] about [This.GetHerHis] arbitrariness;;;;;;;;;;;;;x
-EVTTOOLTIP75066;Steward [This.GetTitledFirstName] is praised for [This.GetHerHis] sense of justice;;;;;;;;;;;;;x
-EVTTOOLTIP75071;Steward [This.GetTitledFirstName] is sent to the county riddled with disease;;;;;;;;;;;;;x
-EVTTOOLTIP75076;Steward [This.GetTitledFirstName] is hindered to hire ruffians;;;;;;;;;;;;;x
-EVTTOOLTIP75091;[This.GetTitledFirstName] catches [Root.GetTitledFirstName] working with thieves;;;;;;;;;;;;;x
-EVTTOOLTIP75096;[This.GetTitledFirstName] is questioned by [Root.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP75097;[This.GetTitledFirstName] is shown evidence that exculpate [Root.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP75098;[This.GetTitledFirstName] knows [Root.GetTitledFirstName] have stolen money;;;;;;;;;;;;;x
-EVTTOOLTIP75106;[This.GetTitledFirstName] is asked to assign some soldiers to deal with the highway robber band;;;;;;;;;;;;;x
-EVTTOOLTIP75111;[This.GetTitledFirstName] decides if [Root.GetTitledFirstName] is guilty or not;;;;;;;;;;;;;x
-EVTTOOLTIP75114;[Root.GetTitledFirstName] "finds evidence" of [This.GetTitledFirstName]'s innocence;;;;;;;;;;;;;x
+EVTDESC75000;[Root.GetMyChancellorName] [Root.job_chancellor.GetTitledFirstName] is doing a superb job! I am having trouble with a town and a castle in [Root.Location.GetName] and I shall of course send my [Root.GetMyChancellorName] [Root.job_chancellor.GetTitledFirstName] to try and increase the relation between them and us, but which one should I start with?;;;;;;;;;;;[Root.GetMyChancellorName] [Root.job_chancellor.GetTitledFirstName] îòëè÷íî ñïðàâëÿåòñÿ ñî ñâîåé ðàáîòîé! Ó ìåíÿ âîçíèêëè íåêîòîðûå ïðîáëåìû ñ ãîðîäîì è çàìêîì â îêðóãå [Root.Location.GetName] è ÿ, êîíå÷íî, ïðèø¸ë ê ðåøåíèþ, ÷òî [Root.GetMyChancellorName] [Root.job_chancellor.GetTitledFirstName] îòïðàâèòñÿ òóäà, ÷òîáû ïîïûòàòüñÿ óëó÷øèòü ìîè îòíîøåíèÿ ñ íàìè, íî ñ ÷åãî ñëåäóåò íà÷àòü â ïåðâóþ î÷åðåäü?;;x
+EVTOPTA75000;The town!;;;;;;;;;;;Ãîðîä!;;x
+EVTOPTB75000;The castle!;;;;;;;;;;;Çàìîê!;;x
+EVTDESC75001;I have noticed Marshal [Root.job_marshal.GetTitledFirstName]'s hard-work and everyone seems to like [Root.job_marshal.GetHerHim]. I am deciding between having my Marshal heighten the morale of the troops or try to recruit more soldiers.;;;;;;;;;;;ß çàìå÷àþ, ÷òî [Root.GetMarshalName] [Root.job_marshal.GetTitledFirstName] óïîðíî òðóäèòñÿ è âñ¸, êàæåòñÿ, íðàâèòñÿ [Root.job_marshal.GetHerHim]. ß äóìàþ, ÷òî ìîé [Root.GetMarshalName] ñïîñîáåí ïîâûñèòü ìîðàëüíûé äóõ âîéñê ëèáî íàáðàòü áîëüøå ñîëäàò.;;x
+EVTOPTA75001;Send Marshal [Root.job_marshal.GetTitledFirstName] to heighten the troops' morale;;;;;;;;;;;Ïóñòü [Root.GetMarshalName] [Root.job_marshal.GetTitledFirstName] ïîâûñèò áîåâîé äóõ âîéñê;;x
+EVTOPTB75001;Send Marshal [Root.job_marshal.GetTitledFirstName] to recruit soldiers;;;;;;;;;;;Ïóñòü [Root.GetMarshalName] [Root.job_marshal.GetTitledFirstName] ïîïûòàåòñÿ íàáðàòü áîëüøå ñîëäàò.;;x
+EVTDESC75002;My coffers are almost empty and the peasants are restless. I only have one Steward, [Root.job_treasurer.GetTitledFirstName] and even if [Root.job_treasurer.GetSheHe] is doing a wonderful job [Root.job_treasurer.GetSheHe] cannot do more than one thing at once.;;;;;;;;;;;Ìîÿ êàçíà ïî÷òè ïóñòà, à êðåñòüÿíå áåñïîêîéíû. Ó ìåíÿ òîëüêî îäèí [Root.GetTreasurerName], [Root.job_treasurer.GetTitledFirstName], è äàæå åñëè [Root.job_treasurer.GetSheHe] äåëàåò ñâîþ ðàáîòó çàìå÷àòåëüíî, òî è â ýòîì ñëó÷àå [Root.job_treasurer.GetSheHe] íå ñìîæåò çàíèìàòüñÿ áîëüøå, ÷åì îäíèì äåëîì îäíîâðåìåííî.;;x
+EVTOPTA75002;Send Steward [Root.job_treasurer.GetTitledFirstName] to increase the tax income;;;;;;;;;;;Ïóñòü [Root.GetTreasurerName] [Root.job_treasurer.GetTitledFirstName] óâåëè÷èò ïîñòóïëåíèå íàëîãîâ.;;x
+EVTOPTB75002;Send Steward [Root.job_treasurer.GetTitledFirstName] to calm the peasants;;;;;;;;;;;Ïóñòü [Root.GetTreasurerName] [Root.job_treasurer.GetTitledFirstName] óñïîêîèò êðåñòüÿí.;;x
+EVTDESC75003;There is a man I need to arrest and another I want to assassinate. My Spymaster [Root.job_spymaster.GetTitledFirstName] could either help with the arrest or the assassination, but not both. ;;;;;;;;;;;Îäíîãî ÷åëîâåêà íóæíî ïîñàäèòü â òåìíèöó, à äðóãîãî - ëèøèòü æèçíè. Ìîé [Root.GetSpymasterName] [Root.job_spymaster.GetTitledFirstName] ìîæåò ïîìî÷ü ëèáî ñ çàêëþ÷åíèåì â òåìíèöó ëèáî ñ óáèéñòâîì.;;x
+EVTOPTA75003;Send Spymaster [Root.job_spymaster.GetTitledFirstName] to the arrest!;;;;;;;;;;;Ïóñòü [Root.GetSpymasterName] [Root.job_spymaster.GetTitledFirstName] çàéì¸òñÿ çàêëþ÷åíèåì â òåìíèöó!;;x
+EVTOPTB75003;Send Spymaster [Root.job_spymaster.GetTitledFirstName] to the plot!;;;;;;;;;;;Ïóñòü òàéíûé ñîâåòíèê [Root.job_spymaster.GetFirstName] çàéìåòñÿ çàãîâîðîì!;;x
+EVTDESC75004;There is no [Root.job_spiritual.GetManWoman] better at increasing the Church's opinion of me or teach me to become a more pious [Root.GetManWoman] than my [Root.GetLordSpiritualName] [Root.job_spiritual.GetTitledFirstName]!;;;;;;;;;;;Íå íàéòè ëó÷øåé êàíäèäàòóðû, ñïîñîáíîé ïîâûñèòü ìíåíèå Öåðêâè îáî ìíå èëè æå ñäåëàòü ìåíÿ áëàãî÷åñòèâåå, ÷åì [Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName]!;;x
+EVTOPTA75004;I need you to talk to the Church, [Root.job_spiritual.GetTitledFirstName];;;;;;;;;;;[Root.job_spiritual.GetTitledFirstName], ìíå íóæåí äèàëîã ñ Öåðêîâüþ.;;x
+EVTOPTB75004;Teach me to be a pious [Root.GetManWoman], [Root.job_spiritual.GetTitledFirstName];;;;;;;;;;;[Root.job_spiritual.GetTitledFirstName], ÿ õî÷ó ñòàòü îáðàç÷èêîì áëàãî÷åñòèÿ.;;x
+EVTDESC75005;There is no [Root.job_spiritual.GetManWoman] better at increasing the [Root.Religion.GetName] Church's opinion of me or teach me to become a more pious Muslim than my [Root.GetMyLordSpiritualName] [Root.job_spiritual.GetTitledFirstName]!;;;;;;;;;;;Íèêòî íå ñìîæåò ëó÷øå ñïðàâèòüñÿ ñ òåì, ÷òîáû ïîâûñèòü ìíåíèå [Root.GetRelAdj]ñêèõ ëèäåðîâ îáî ìíå èëè ó÷èòü ìåíÿ òîíêîñòÿì ìóñóëüìàíñêîãî áëàãî÷åñòèÿ, ÷åì [Root.GetMyLordSpiritualName] [Root.job_spiritual.GetFirstName]!;;x
+EVTOPTA75005;Talk to the [Root.Religion.GetName] Church, [Root.job_spiritual.GetTitledFirstName];;;;;;;;;;;Ïîãîâîðè ñ íèìè, [Root.job_spiritual.GetTitledFirstName];;x
+EVTOPTB75005;Teach me to be a pious Muslim, [Root.job_spiritual.GetTitledFirstName];;;;;;;;;;;Íàó÷è ìåíÿ, [Root.job_spiritual.GetTitledFirstName], êàê ñòàòü áëàãî÷åñòèâ[Root.GetOyYm] [Root.GetReligionAdherentINS].;;x
+EVTDESC75010;My liege's [Root.GetChancellorName] [Root.Liege.job_chancellor.GetTitledFirstName] has been looking at my wife [Root.Spouse.GetTitledFirstName] with lust in his eyes. I need to tell my liege [Root.Liege.GetTitledFirstName] and ask [Root.Liege.GetHerHim] to do something about this before anything happens!;;;;;;;;;;;[Root.GetMyChancellorName] ìîåãî ñþçåðåíà, [Root.Liege.job_chancellor.GetTitledFirstName], ñìîòðåë íà ìîþ æåíó, êîåé ÿâëÿåòñÿ ñâÿòàÿ æåíùèíà [Root.Spouse.GetTitledFirstName], ñ ïîõîòüþ â ãëàçàõ. Ìîé ñþçåðåí, [Root.Liege.GetTitledFirstName], äîëæåí óçíàòü îá ýòîì è ïðèíÿòü ìåðû, ÷òîáû íè÷åãî ïîäîáíîãî áîëüøå íå ïðîèñõîäèëî!;;x
+EVTOPTA75010;Complain to liege about the [Root.GetChancellorName]'s inappropriate behavior;;;;;;;;;;;Ïîæàëîâàòüñÿ ñþçåðåíó íà íåíàäëåæàùåå ïîâåäåíèå åãî ñîâåòíèêà.;;x
+EVTOPTB75010;Maybe it's nothing...;;;;;;;;;;;Ìîæåò áûòü, â ýòîì íåò íè÷åãî òàêîãî...;;x
+EVTDESC75011;[From.GetTitledFirstName] accused [Root.GetMyChancellorName] [Root.job_chancellor.GetTitledFirstName] of looking at [From.GetHerHis] wife in an inappropriate way, 'with lust in his eyes' as [From.GetSheHe] said.;;;;;;;;;;;"[From.GetTitledFirstName] çàÿâèë ñ íåãîäîâàíèåì, ÷òî [Root.GetMyChancellorName] [Root.job_chancellor.GetTitledFirstName] ñìîòðåë íà åãî æåíó íåïîäîáàþùèì îáðàçîì. ""Ñ âîæäåëåíèåì â ãëàçàõ"", êàê îí âûðàçèëñÿ.";;x
+EVTOPTA75011;I will imprison [Root.job_chancellor.GetTitledFirstName] at once!;;;;;;;;;;;[Root.job_chancellor.GetTitledFirstName] ñåãîäíÿ æå áóäåò ìíîé áðîøåí â òåìíèöó!;;x
+EVTOPTB75011;I don't believe [Root.GetMyChancellorName] [Root.job_chancellor.GetTitledFirstName] has done that!;;;;;;;;;;;Íå âåðþ, ÷òî [Root.GetMyChancellorName] [Root.job_chancellor.GetTitledFirstName] ñïîñîá[Root.job_chancellor.GetNaEn] íà òàêîå!;;x
+EVTDESC75012;[From.GetTitledFirstName] took my concern seriously and imprisoned [From.GetHerHis] [Root.GetChancellorName] [From.job_chancellor.GetTitledFirstName]!;;;;;;;;;;;[From.GetTitledFirstName] ñåðü¸çíî îòíåñ[From.GetLasSya] ê ìîåé æàëîáå. [Root.GetMyChancellorName] [From.job_chancellor.GetTitledFirstName] òåïåðü â òåìíèöå, ñëàâà Ãîñïîäó!;;x
+EVTOPTA75012;[From.GetSheHeCap] did not like that I complained, though...;;;;;;;;;;;[From.GetHerHimCap] íå ïîíðàâèëîñü, ÷òî ÿ ïîæàëîâà[Root.GetLasLsya], õîòÿ...;;x
+EVTDESC75013;[FromFrom.GetTitledFirstName] claimed I had looked at [FromFrom.GetHerHis] wife with lust in my eyes, a most inappropriate behavior! My liege [From.GetTitledFirstName] chose to believe [FromFrom.GetHerHim], despite my attempts at convincing [From.GetHerHim] I had no desire for [FromFrom.GetTitledFirstName]'s wife.;;;;;;;;;;;[FromFrom.GetTitledFirstName] ïîæàëîâà[FromFrom.GetLasLsya] ñþçåðåíó, ÷òî ÿ ñìîòðåë íà åãî æåíó ñ âîæäåëåíèåì âî âçãëÿäå, âûêàçûâàÿ ÿâíî íåïîäîáàþùåå ïîâåäåíèå! Ìîé ñþçåðåí, [From.GetTitledFirstName], âåðèò åìó, íåñìîòðÿ íà ìîè ïîïûòêè óáåäèòü åãî â îáðàòíîì. [FromFrom.GetTitledFirstName] íå ïðàâ. ß è â ìûñëÿõ íå æåëàë åãî æåíó.;;x
+EVTOPTA75013;You really believe [FromFrom.GetHerHim] more than me?;;;;;;;;;;;Âû äåéñòâèòåëüíî âåðèòå åìó áîëüøå, ÷åì ìíå?;;x
+EVTDESC75014;The accusations [FromFrom.GetTitledFirstName] made, of me having looked inappropriately at [FromFrom.GetHerHis] wife, was dismissed by our liege [From.GetTitledFirstName]! [FromFrom.GetTitledFirstName]'s wife has a fine figure but I wouldn't dream of even dreaming of looking at her in an inappropriate way.;;;;;;;;;;;"[FromFrom.GetTitledFirstName] îáâèíèë ìåíÿ â òîì, ÷òî ÿ ""ñ âîæäåëåíèåì"" ïîñìîòðåë íà åãî æåíó, íî ìîé ñþçåðåí, [From.GetTitledFirstName] îòêàçàëñÿ ñëóøàòü ýòîò áðåä! [FromFrom.GetTitledFirstName] ìîæåò áûòü óâåðåí â òîì, ÷òî åãî æåíà èìååò ïðåêðàñíóþ ôèãóðó, íî ÿ è â ìûñëÿõ íå äåðæàë äóìàòü î íåé íåïîäîáàþùå, íå òî ÷òî ñìîòðåòü ""ñ âîæäåëåíèåì"".";;x
+EVTOPTA75014;Thank you for believing in me!;;;;;;;;;;;Ñïàñèáî Âàì çà Âàøó âåðó â ìåíÿ!;;x
+EVTDESC75015;[From.GetTitledFirstName] dismissed my concerns, [From.GetSheHe] claimed [Root.GetChancellorName] [From.job_chancellor.GetTitledFirstName] would never look at anyone in an inappropriate manner and would not listen to me as I tried to convince [From.GetHerHim] about [From.GetHerHis] [Root.GetChancellorName]'s guilt.;;;;;;;;;;;[From.GetTitledFirstName] íå ïðèíÿë âî âíèìàíèå ìîè äîâîäû. Îí óòâåðæäàë, ÷òî [Root.GetMyChancellorName] [From.job_chancellor.GetTitledFirstName] íèêîãäà íå áóäåò ñìîòðåòü íè íà êîãî íåïîäîáàþùèì îáðàçîì è íå ñòàë ñëóøàòü ìåíÿ, êîãäà ÿ ïûòàëñÿ óáåäèòü åãî â òîì, ÷òî [Root.GetMyChancellorName] äåéñòâèòåëüíî ñäåëàë ýòî.;;x
+EVTOPTA75015;But, but... I saw [From.job_chancellor.GetHerHim] do it!;;;;;;;;;;;Íî, íî... ß æå âèäåë, ÷òî ýòî áûë [From.job_chancellor.GetHerHim]!;;x
+EVTDESC75020;One of my tasks as [Root.GetChancellorName] is to smooth relations between lords. Mostly I try to make other rulers or my liege's vassals like [Root.Liege.GetHerHim] better, but sometimes, as today, I find someone who doesn't like [Root.Liege.GetTitledFirstName] and then I work my magic on...;;;;;;;;;;;ß - [Root.GetMyChancellorName], è îäíîé èç ìîèõ çàäà÷ ÿâëÿåòñÿ óëó÷øåíèå îòíîøåíèé ìåæäó ëþäüìè. Â îñíîâíîì ÿ ðàáîòàþ íà òåì, ÷òîáû ìîé ñþçåðåí, [Root.Liege.GetTitledFirstName], è äðóãèå ïðàâèòåëè èëè âàññàëû ñþçåðåíà áîëüøå ëàäèëè äðóã ñ äðóãîì, íî èíîãäà, êàê ñåãîäíÿ, ÿ èùó òåõ, êòî íå ñ÷èòàåò, ÷òî [Root.GetTitledFirstName] äîñòîèí óâàæåíèÿ, è íà÷èíàþ òâîðèòü ñâîþ îñîáóþ ìàãèþ...;;x
+EVTOPTA75020;...one of [Root.Liege.GetTitledFirstName]'s vassals;;;;;;;;;;;...îäèí èç âàññàëîâ, êîòîðûõ èìååò [Root.Liege.GetTitledFirstName];;x
+EVTOPTB75020;...[Root.Liege.GetTitledFirstName] and [Root.Liege.GetHerHis] [Root.Liege.Spouse.GetTitledFirstName];;;;;;;;;;;...[Root.Liege.GetTitledFirstName] è [Root.Liege.GetHersHis] [Root.Liege.Spouse.GetHusbandWife] [Root.Liege.Spouse.GetTitledFirstName];;x
+EVTOPTC75020;...the courtiers at [Root.Liege.Location.GetName];;;;;;;;;;;...[Root.Liege.Location.County.GetAdjective]ñêèå ïðèäâîðíûå;;x
+EVTDESC75021;I have had trouble with a vassal of mine and tried everything I could think of to help us get along better. [Root.GetMyChancellorName] [From.GetTitledFirstName] managed to do in one day what I had struggled with for several weeks when [From.GetSheHe] told me to just ask the vassal for forgiveness, that was all that was needed!;;;;;;;;;;;Ó ìåíÿ áûëè íåêîòîðûå ïðîáëåìû ñ ìîèì âàññàëîì è ÿ èñïðîáîâàë[Root.GetEndA] âñ¸, ÷òî òîëüêî ìîæíî ïðèäóìàòü, ÷òîáû óëó÷øèòü íàøè îòíîøåíèÿ. [Root.GetMyChancellorName] [From.GetTitledFirstName] óìóäðè[Root.job_chancellor.GetLasLsya] ñäåëàòü çà îäèí äåíü òî, çà ÷òî ÿ áîðî[Root.GetLasLsya] â òå÷åíèå íåñêîëüêèõ íåäåëü. [Root.job_chancellor.GetSheHeCap] ñêàçàë[Root.job_chancellor.GetEndA] ìíå - âñ¸ ÷òî áûëî íóæíî, ýòî ïðîñòî ïðèíåñòè ñâîè èçâèíåíèÿ âàññàëó!;;x
+EVTOPTA75021;[Root.GetMyChancellorName] [From.GetTitledFirstName] must be rewarded for this!;;;;;;;;;;;[Root.GetMyChancellorName] [From.GetTitledFirstName] äîëæåí áûòü âîçíàãðàæä¸í çà ýòî!;;x
+EVTOPTB75021;It's just [From.GetHerHis] job;;;;;;;;;;;Ýòî ïðîñòî [From.GetHersHis] ðàáîòà.;;x
+EVTDESC75022;All it took was a small: 'I'm sorry' from [From.Liege.GetTitledFirstName], and I do believe it was [From.Liege.GetHerHis] [Root.GetChancellorName] [From.GetTitledFirstName] that convinced [From.Liege.GetHerHim] to ask for my forgiveness.;;;;;;;;;;;"Âñå, ÷òî äîëæåí áûë ñêàçàòü [From.Liege.GetTitledFirstName] - íåçíà÷èòåëüíîå ""ß ñîæàëåþ"", è ÿ äåéñòâèòåëüíî ïîëàãàþ, ÷òî õîòü ýòî è ñêàçàë åãî [Root.GetMyChancellorName] [From.GetTitledFirstName], èìåííî [From.Liege.GetTitledFirstName] ïðèí¸ñ ìíå èçâèíåíèÿ.";;x
+EVTOPTA75022;I'm glad [From.Liege.GetTitledFirstName] said that [From.Liege.GetSheHe] was sorry;;;;;;;;;;;ß ðàä[Root.GetEndA], ÷òî [From.Liege.GetTitledFirstName] íàø[From.Liege.GetLaYol] â ñåáå ñèëû ïðèíåñòè èçâèíåíèÿ.;;x
+EVTOPTB75023;[From.GetSheHeCap] only did [From.GetHerHis] job...;;;;;;;;;;;[From.GetSheHeCap] ïðîñòî ñäåëàë ñâîþ ðàáîòó...;;x
+EVTDESC75023;My [Root.Spouse.GetFirstName] and I had almost stopped talking to each other when [Root.GetChancellorName] [From.GetTitledFirstName] intervened. [From.GetSheHeCap] made [Root.Spouse.GetFirstName] start talking to me, even like me a little bit more!;;;;;;;;;;;Ìîÿ âòîðàÿ ïîëîâèíêà, [Root.Spouse.GetFirstName], è ÿ ïî÷òè ïðåêðàòèëè ãîâîðèòü äðóã ñ äðóãîì, êîãäà [Root.GetMyChancellorName] [From.GetTitledFirstName] âìåøàëñÿ. Íå çíàþ, ÷òî îí ñäåëàë, íî [Root.Spouse.GetFirstName] âíîâü íà÷èíàåò ãîâîðèòü ñî ìíîé, è äàæå ïîëó÷àåò óäîâîëüñòâèå îò ýòîãî íåìíîãî áîëüøå ÷åì ðàíüøå!;;x
+EVTOPTA75023;Such good work should be rewarded!;;;;;;;;;;;Òàêàÿ õîðîøàÿ ðàáîòà äîëæíà áûòü âîçíàãðàæäåíà!;;x
+EVTDESC75024;I had given up talking to [Root.Spouse.GetFirstName] when [Root.GetChancellorName] [From.GetTitledFirstName] intervened and made me realize how silly we had behaved. Now we talk, and we both appreciate one another in a whole new way.;;;;;;;;;;;ß è ì[Root.Spouse.GetOyaOy] [Root.Spouse.GetHusbandWife] [Root.Spouse.GetFirstName] ïîøëè äðóã äðóãó íàâñòðå÷ó, ïîñëå òîãî êàê [Root.GetMyChancellorName] [From.GetTitledFirstName] âìåøàëñÿ è çàñòàâèë íàñ ïîíÿòü, íàñêîëüêî ãëóïî ìû ñåáÿ âåä¸ì. Òåïåðü ìû ãîâîðèì, è ìû îáà âíîâü öåíèì äðóã äðóãà.;;x
+EVTOPTA75024;If it weren't for [From.GetFirstName] this would have gotten worse;;;;;;;;;;;Åñëè áû íå [From.GetFirstName], âñ¸ ñòàëî áû òîëüêî õóæå.;;x
+EVTDESC75025;I might have been too harsh to the courtiers at [Root.Location.GetName] but [Root.GetMyChancellorName] [From.GetTitledFirstName] managed to calm them down and even like me more, just by giving them a half-day off!;;;;;;;;;;;Âîçìîæíî, ìî¸ îáðàùåíèå ñ [Root.Capital.County.GetAdjective]ñêèìè ïðèäâîðíûìè áûëî ñëèøêîì ñóðîâûì, íî [Root.GetMyChancellorName] [From.GetTitledFirstName] ïðîñòî òâîðèò ÷óäåñà, [From.GetHerHim] óäàëîñü óñïîêîèòü èõ, ïðîñòî äàâ èì âûõîäíîé íà ïîëäíÿ.;;x
+EVTOPTA75025;How can I ever reward you?;;;;;;;;;;;Ýòî áûëî ïðîñòî ãåíèàëüíî! Êàê òåïåðü íàãðàäèòü Âàñ?;;x
+EVTOPTB75025;Thank you, but you only did your job;;;;;;;;;;;Áëàãîäàðþ, íî Âû âñåãî ëèøü ñäåëàëè ñâîþ ðàáîòó.;;x
+EVTDESC75026;I hadn't really expected to be rewarded for what I had done, but it was nice of [From.GetTitledFirstName] to show that [From.GetSheHe] appreciated my hard work.;;;;;;;;;;;ß äåéñòâèòåëüíî íå îæèäàë[Root.GetEndA] ïîëó÷èòü íàãðàäó çà òî, ÷òî ñäåëàë[Root.GetEndA]. Ïðèÿòíî, ÷òî [From.GetTitledFirstName] òàê öåíèò ìîþ ðàáîòó.;;x
+EVTOPTA75026;I will work even harder now!;;;;;;;;;;;Òåïåðü ÿ áóäó òðóäèòüñÿ åù¸ óñåðäíåå!;;x
+EVTDESC75027;It was true I only did my job, but it would be nice to for once get a 'Thank you,' or at least some sort of appreciation from [From.GetTitledFirstName] for my hard work...;;;;;;;;;;;"Ýòî ïðàâäà, ÿ ïðîñòî äåëàë[Root.GetEndA] ñâîþ ðàáîòó, íî áûëî áû íåïëîõî õîòü ðàç óñëûøàòü ""Ñïàñèáî"", èëè ïî êðàéíåé ìåðå, óâèäåòü, ÷òî [From.GetTitledFirstName] õîòü êàê-òî öåíèò òî, ÷òî ÿ äåëàþ...";;x
+EVTOPTA75027;You are welcome!!;;;;;;;;;;;Áóäåì æäàòü!;;x
+EVTDESC75030;My slothfulness gets me into trouble with my liege [Root.Liege.GetTitledFirstName] who claims I do not do a good enough job as a [Root.Liege.GetChancellorName] as I 'go to extreme lengths to avoid having to do any actual work'. [Root.Liege.GetTitledFirstName]'s words, not mine.;;;;;;;;;;;Ìîÿ ëåíü ïðèâåëà ê êîíôëèêòó ñ ìîèì ñþçåðåíîì, êîòîðîãî çîâóò [Root.Liege.GetTitledFirstName]. [Root.Liege.GetSheHeCap] óòâåðæäàåò, ÷òî ÿ ïëîõî ðàáîòàþ ïî ñðàâíåíèþ ñ êàíöëåðîì ïî èìåíè [Root.Liege.GetChancellorName], ÷òî ÿ èùó ëþáûå ïðåäëîãè äëÿ òîãî, ÷òîáû èçáåæàòü ðàáîòû - ýòî [Root.Liege.GetHersHis] ñëîâà, íå ìîè.;;x
+EVTOPTA75030;Oh well...;;;;;;;;;;;Îõ, íó ëàäíî...;;x
+EVTDESC75031;I grow more and more impatient with [Root.GetChancellorName] [From.GetTitledFirstName], [From.GetHerHis] slothfulness makes [From.GetHerHim] go to extreme lengths to avoid having to do any actual work.;;;;;;;;;;;[Root.GetChancellorName] [From.GetTitledFirstName] èñïûòûâàåò ìî¸ òåðïåíèå, [From.GetHersHis] ëåíü çàñòàâëÿåò èñêàòü ëþáûå ïîâîäû èçáåãàòü ðàáîòû.;;x
+EVTOPTA75031;Give a stern talking to [Root.GetChancellorName] [From.GetTitledFirstName];;;;;;;;;;;[Root.GetChancellorName] [From.GetTitledFirstName] ïîëó÷èò íàãîíÿé!;;x
+EVTOPTB75031;I will give [From.GetHerHim] one last chance to sharpen up!;;;;;;;;;;;ß ïðåäîñòàâëþ [From.GetHerHim] ïîñëåäíèé øàíñ!;;x
+EVTOPTC75031;This is worth throwing someone in jail over;;;;;;;;;;;Çà ýòî ñòîèò áðîñèòü êîãî-íèáóäü â òåìíèöó!;;x
+EVTDESC75032;I don't know how [From.GetTitledFirstName] found out about how my slothfulness caused us to miss the opportunity to improve [Root.Location.GetName], but [From.GetSheHe] did. [From.GetTitledFirstName] was disappointed and talked sternly to me for several minutes, chiding me for being slothful.;;;;;;;;;;;ß íå çíàþ, êàê [From.GetTitledFirstName] óçíàë[From.GetEndA] î òîì, ÷òî ìîÿ ëåíü çàñòàâèëà íàñ óïóñòèòü âîçìîæíîñòü ïðîâåñòè óëó÷øåíèå â îêðóãå [Root.Location.GetName], íî [From.GetSheHe] ñäåëàë[From.GetEndA] ýòî. [From.GetTitledFirstName] áûë[From.GetEndA] ðàçî÷àðîâàí[From.GetEndA] è ñòðîãî îò÷èòûâàë[From.GetEndA] ìåíÿ íåñêîëüêî ìèíóò, áðàíÿ çà ëåíü.;;x
+EVTOPTA75032;[From.GetSheHeCap] can't talk to me that way!;;;;;;;;;;;[From.GetSheHeCap] íå èìåë[From.GetEndA] ïðàâà òàê ãîâîðèòü ñî ìíîé!;;x
+EVTOPTB75032;I will learn from this;;;;;;;;;;;Ýòî áóäåò ìíå óðîêîì.;;x
+EVTDESC75033;[From.GetTitledFirstName] let me know [From.GetSheHe] knows about how my slothfulness caused us to miss that opportunity to improve [Root.Location.GetName] but that it did not matter. 'What's done is done,' [From.GetSheHe] told me.;;;;;;;;;;;"[From.GetTitledFirstName] äàë[From.GetEndA] ìíå ïîíÿòü, ÷òî çíàåò î òîì, êàê ìîÿ ëåíü âûíóäèëà íàñ óïóñòèòü âîçìîæíîñòü äëÿ óëó÷øåíèÿ îêðóãà [Root.Location.GetName], íî íàìåêíóë[From.GetEndA], ÷òî ýòî íå èìååò çíà÷åíèÿ. ""×òî ñäåëàíî, òî ñäåëàíî"" ñêàçàë [From.GetSheHe] ìíå.";;x
+EVTOPTA75033;That's a relief!;;;;;;;;;;;Óôô, êàêîå îáëåã÷åíèå!;;x
+EVTTOOLTIP75033;[This.GetTitledFirstName] is reprimanded by [Root.GetTitledFirstName];;;;;;;;;;;ïîëó÷àåò çàìå÷àíèå îò ïåðñîíàæà [Root.GetTitledFirstName];;x
+EVTDESC75034;Before I knew it, someone grabbed me and dragged me to [From.GetTitledFirstName]'s prison and threw me into a cell. I sat in that cell for what felt like days but it couldn't have been more than a couple of hours. [From.GetTitledFirstName] finally showed up, told me the reason I was in jail was because of my slothfulness and the missed opportunity to improve [Root.Location.GetName].;;;;;;;;;;;Ïðåæäå, ÷åì ÿ ÷òî-ëèáî ïîíÿë[Root.GetEndA], êòî-òî ñõâàòèë ìåíÿ è ïîòàùèë â òåìíèöó, êîòîðóþ ñîäåðæàë[From.GetEndA] [From.GetTitledFirstName], è áðîñèë ìåíÿ â êàìåðó. ß ñèäåë[Root.GetEndA] â ýòîé êàìåðå, êàê ìíå ïîêàçàëîñü, íåñêîëüêî äíåé, õîòÿ íå ìîãëî ïðîéòè áîëüøå, ÷åì ïàðà ÷àñîâ. [From.GetTitledFirstName], íàêîíåö, ïîÿâè[From.GetLasLsya] è ñêàçàë[From.GetEndA] ìíå, ÷òî ÿ çàñëóæèë[From.GetEndA] ýòî èç-çà ñâîåé ëåíè è óïóùåííîé âîçìîæíîñòè äëÿ óëó÷øåíèÿ îêðóãà [Root.Location.GetName].;;x
+EVTOPTA75034;This isn't happening!;;;;;;;;;;;Íó ïðîñòî ïðåêðàñíî, ìàòü Âàøó!;;x
+EVTDESC75035;When I had finished talking sternly to [Root.GetMyChancellorName] [From.GetTitledFirstName] I didn't really expect [From.GetHerHim] to talk back, but the anger that filled [From.GetHerHim] fast was vented immediately. I ignored it and left [Root.GetMyChancellorName] [From.GetTitledFirstName], barely able to speak because of [From.GetHerHis] anger.;;;;;;;;;;;[Root.GetMyChancellorName] [From.GetTitledFirstName] áûë[From.GetEndA] âûíóæäåí[From.GetEndA] âûñëóøàòü óïð¸êè ñ ìîåé ñòîðîíû. ß áûë[Root.GetEndA] äîñòàòî÷íî ñòðîã[Root.GetEndA], íî íå îæèäàë[Root.GetEndA], ÷òî [Root.GetMyChancellorName] îòâåòèò ìíå, îäíàêî ãíåâ, ÷òî ïåðåïîëíèë åãî, òðåáîâàë íåìåäëåííîãî âûõîäà. ß ïðîèãíîðèðîâàë åãî, è [Root.GetMyChancellorName] [From.GetTitledFirstName] îñòàëñÿ îäèí, åäâà ëè â ñîñòîÿíèè ãîâîðèòü èç-çà ñâîåãî ãíåâà.;;x
+EVTOPTA75035;You had it coming!;;;;;;;;;;;Òû ñàì[From.GetEndA] íàïðîñè[From.GetLasLsya]!;;x
+EVTTOOLTIP75035;[Root.GetTitledFirstName] is angry at [This.GetTitledFirstName];;;;;;;;;;;[Root.GetTitledFirstName] ñåðäèòñÿ íà ïåðñîíàæà [This.GetTitledFirstName];;x
+EVTDESC75036;I was glad to hear [Root.GetMyChancellorName] [From.GetTitledFirstName] decided to amend [From.GetHerHis] ways and start working harder. The slothfulness that caused us to miss the opportunity to improve [Root.Location.GetName] seems to have disappeared over night, and I am glad I talked sternly to [From.GetHerHim] about it.;;;;;;;;;;;ß áûë[Root.GetEndA] ðàä[Root.GetEndA] óñëûøàòü, ÷òî [Root.GetMyChancellorName] [From.GetTitledFirstName] ðåøèë[From.GetEndA] èçìåíèòü ñâîé îáðàç æèçíè è íà÷àë[Root.GetEndA] ðàáîòàòü óñåðäíåå. Ëåíü, êîòîðàÿ ïðèâåëà íàñ ê ïîòåðå âîçìîæíîñòè óëó÷øèòü îêðóã [Root.Location.GetName], êàæåòñÿ, èñ÷åçëà çà íî÷ü. ß ðàä[Root.GetEndA], ÷òî äëÿ ýòîãî ïîòðåáîâàëñÿ ëèøü ñåðü¸çíûé ðàçãîâîð ñ í[From.GetEyIm].;;x
+EVTOPTA75036;Good for you, and me!;;;;;;;;;;;Õîðîøî äëÿ òåáÿ è äëÿ ìåíÿ!;;x
+EVTDESC75040;There's an infidel in my liege [Root.Liege.GetTitledFirstName]'s court!;;;;;;;;;;;Ìîé ñþçåðåí, [Root.Liege.GetTitledFirstName], ïðèãðåë íåâåðíîãî ó ñåáÿ ïðè äâîðå!;;x
+EVTOPTA75040;Demand that [Root.Liege.GetTitledFirstName] have the infidel burned at the stake.;;;;;;;;;;;Ïîòðåáîâàòü îò ñþçåðåíà, ÷òîáû íåâåðíûå áûëè ñîææåíû íà êîñòðå.;;x
+EVTOPTB75040;Demand that [Root.Liege.GetTitledFirstName] have the infidel exiled.;;;;;;;;;;;Ïîòðåáîâàòü îò ñþçåðåíà èçãíàíèÿ íåâåðíûõ.;;x
+EVTDESC75041;There's an infidel at your court, my liege!', my [Root.GetMyLordSpiritualName] [From.GetTitledFirstName] said.\n'I demand you burn the infidel at the stake!';;;;;;;;;;;" ""Íåâåðíûé ñðåäè Âàøèõ ïðèäâîðíûõ, [Root.PrimaryTitle.GetFOA]!"" — ãîâîðèò [Root.GetMyLordSpiritualName] [From.GetTitledFirstName].\n""ß òðåáóþ ñîææåíèÿ åãî íà êîñòðå!""";;x
+EVTOPTA75041;The infidel will be burned at the stake!;;;;;;;;;;;Íåâåðíûé áóäåò ñîææ¸í íà êîñòðå!;;x
+EVTOPTB75041;I will do no such thing!;;;;;;;;;;;ß íå ñäåëàþ íè÷åãî ïîäîáíîãî!;;x
+EVTDESC75042;There's an infidel at your court, my liege!', my [Root.GetMyLordSpiritualName] [From.GetTitledFirstName] said.\n'I demand you banish the infidel!';;;;;;;;;;;" ""Íåâåðíûé ñðåäè Âàøèõ ïðèäâîðíûõ, [Root.PrimaryTitle.GetFOA]!"" — ãîâîðèò [Root.GetMyLordSpiritualName] [From.GetTitledFirstName].\n""ß òðåáóþ èçãíàòü åãî èç ñòðàíû!""";;x
+EVTOPTA75042;The infidel will be banished!;;;;;;;;;;;Íåâåðíûå áóäóò èçãíàíû!;;x
+EVTOPTB75042;I won't banish the infidel;;;;;;;;;;;ß íå ñîáèðàþñü íèêîãî èçãîíÿòü.;;x
+EVTDESC75043;I watched gleefully as the infidel burned at the stake. The infidel will burn in the [Root.Religion.GetName] Hell as it burns now until the sins has burned from its soul!;;;;;;;;;;;ß ñìîòðåë ñ ðàäîñòüþ, êàê íåâåðíûé ãîðåë íà êîñòðå. Íåâåðíûé áóäåò ãîðåòü è â Àäó, î êîòîðîì ãîâîðèò [Root.GetReligionFullName], òàê æå êàê è ñåé÷àñ, ïîêà ãðåõè íå ñîæãóò åãî äóøó!;;x
+EVTOPTA75043;No more false religions!;;;;;;;;;;;Íåò áîëüøå ëîæíîé ðåëèãèè!;;x
+EVTDESC75044;Despite my demands, warnings and even pleas, [From.GetTitledFirstName] refused to burn the infidel at the stake!;;;;;;;;;;;Íåñìîòðÿ íà ìîè òðåáîâàíèÿ, ïðåäóïðåæäåíèÿ è äàæå ïðîñüáû, [From.GetTitledFirstName] îòêàçàëñÿ ñæèãàòü íåâåðíûõ íà êîñòðå!;;x
+EVTOPTA75044;But... it's an infidel!;;;;;;;;;;;Íî... îíè æå íåâåðíûå!;;x
+EVTDESC75045;The infidel was banished from the lands of [From.GetTitledFirstName] and forced to never return on pain of death.;;;;;;;;;;;Íåâåðíûå áûëè èçãíàíû èç çåìåëü, êîòîðûìè âëàäååò [From.GetTitledFirstName], è òåïåðü íèêîãäà íå âåðíóòñÿ ïîä ñòðàõîì ñìåðòíîé êàçíè.;;x
+EVTOPTA75045;It was a happy day for me;;;;;;;;;;;Ñ÷àñòëèâûé äåíü äëÿ ìåíÿ!;;x
+EVTDESC75046;[From.GetTitledFirstName] chose to ignore my demands, the infidel I had found was not even banished, the infidel was let go without any punishment!;;;;;;;;;;;[From.GetTitledFirstName] ïðåäïî÷¸ë ïðîèãíîðèðîâàòü ìîè òðåáîâàíèÿ. Íåâåðíîãî, êàê ÿ óáåäèëñÿ, äàæå íå èçãíàëè, íåâåðíûé áûë îòïóùåí áåç íàêàçàíèÿ!;;x
+EVTOPTA75046;You can't just ignore the infidel!;;;;;;;;;;;Âû íå ìîæåòå ïðîñòî èãíîðèðîâàòü íåâåðíûõ!;;x
+EVTDESC75050;There's a heretic in my liege [Root.Liege.GetTitledFirstName]'s court!;;;;;;;;;;;[Root.PrimaryTitle.GetFOA], [Root.Liege.GetTitledFirstName], ïðèãðåë åðåòèêà ó ñåáÿ ïðè äâîðå!;;x
+EVTOPTA75050;Demand that [Root.Liege.GetTitledFirstName] have the heretic burned at the stake.;;;;;;;;;;;Ïîòðåáîâàòü ó ñþçåðåíà, ÷òîáû åðåòèê áûëè ñîææåí íà êîñòðå.;;x
+EVTOPTB75050;Demand that [Root.Liege.GetTitledFirstName] have the heretic exiled.;;;;;;;;;;;Ïîòðåáîâàòü îò ñþçåðåíà èçãíàíèÿ åðåòèêà.;;x
+EVTDESC75051;My liege, you have a heretic in your court!', my [Root.GetMyLordSpiritualName] [From.GetTitledFirstName] told me in confidence.\n'I recommend you set an example and burn the heretic on the stake!';;;;;;;;;;;" ""[Root.PrimaryTitle.GetFOA], ñðåäè Âàøèõ ïðèäâîðíûõ ñêðûâàåòñÿ åðåòèê!"" — [Root.GetMyLordSpiritualName] [From.GetTitledFirstName] ñîîáùèë[From.GetEndA] ìíå îá ýòîì.\n""ß ðåêîìåíäóþ Âàì óñòðîèòü ïîêàçàòåëüíóþ êàçíü ýòîãî åðåòèêà ÷åðåç ñîææåíèå íà ñâÿùåííîì êîñòðå.""";;x
+EVTOPTA75051;The heretic will burn!;;;;;;;;;;;Åðåòèê áóäåò ñîææ¸í!;;x
+EVTOPTB75051;No one will be burned at the stake!;;;;;;;;;;;ß íå ñîáèðàþñü íèêîãî ñæèãàòü! Âû ñ óìà ñîøëè?;;x
+EVTDESC75052;[Root.GetLordSpiritualName] [From.GetTitledFirstName] found a heretic at my court and insisted, nay, demanded that I would banish the heretic and make sure the heretic would never return on pain of death.;;;;;;;;;;;[Root.GetLordSpiritualName] [From.GetFirstName] ãîâîðèò, ÷òî ïðè ìî¸ì äâîðå åðåòèê è íàñòàèâàåò, áîëåå òîãî - òðåáóåò èçãíàòü åãî è óáåäèòüñÿ, ÷òî îí íèêîãäà íå âåðíåòñÿ ïîä ñòðàõîì ñìåðòè.;;x
+EVTOPTA75052;Banish the heretic!;;;;;;;;;;;Èçãíàòü åðåòèêà!;;x
+EVTOPTB75052;Don't make me banish you instead!;;;;;;;;;;;Íå çàñòàâëÿé ìåíÿ èçãíàòü òåáÿ ñàìîãî!;;x
+EVTDESC75053;The heretic must have regretted his sins as he burned at the stake. This will be an excellent warning who challenges the one true faith, the [Root.Religion.GetName] faith!;;;;;;;;;;;Åðåòèê äîëæåí ïîæàëåòü î ñâî¸ì ãðåõîïàäåíèè, ïîêà áóäåò ãîðåòü íà êîñòðå. Ýòî áóäåò îòëè÷íûì ïðåäóïðåæäåíèåì âñåì òåì, êòî áðîñàåò âûçîâ åäèíñòâåííî èñòèííîé âåðå. Âåðå, êîòîðóþ ïðîïîâåäóåò [Root.GetReligionFullName]!;;x
+EVTOPTA75053;Burn, heretic, burn!;;;;;;;;;;;Ñæå÷ü åðåòèêà, ñæå÷ü!;;x
+EVTDESC75054;What good is my position as [From.GetLordSpiritualName] if my liege won't listen to me? The heretic did not burn on the stake despite my desperate demands to [From.GetTitledFirstName].;;;;;;;;;;;×òî õîðîøåãî â òîì, ÷òî ÿ - [From.GetLordSpiritualName], åñëè ìîé ñþçåðåí íå áóäåò ñëóøàòü ìåíÿ? [From.GetTitledFirstName] îòêàçûâàåòñÿ ïðåäàòü î÷èùàþùåìó îãíþ åðåòèêà, íåñìîòðÿ íà ìîè îò÷àÿííûå òðåáîâàíèÿ.;;x
+EVTOPTA75054;But heresy is bad!;;;;;;;;;;;Íî åðåñü ýòî ïëîõî!;;x
+EVTDESC75055;[From.GetTitledFirstName] banished the heretic on pain of death if he would ever return!;;;;;;;;;;;[From.GetTitledFirstName] èçãíàë åðåòèêà ïîä ñòðàõîì ñìåðòè!;;x
+EVTOPTA75055;Hallelujah!;;;;;;;;;;;Àëëèëóéÿ!;;x
+EVTDESC75056;[From.GetTitledFirstName] ignored my demands about banishing the heretic!;;;;;;;;;;;[From.GetTitledFirstName] èãíîðèðóåò ìîè òðåáîâàíèÿ îá èçãíàíèè åðåòèêîâ!;;x
+EVTOPTA75056;Why do [From.GetTitledFirstName] ignore the heretic?;;;;;;;;;;;Ïî÷åìó [From.GetTitledFirstName] èãíîðèðóåò åðåòèêîâ?;;x
+EVTDESC75060;The peasants in a county are complaining about Steward [Root.job_treasurer.GetTitledFirstName]'s arbitrariness, they feel that [Root.job_treasurer.GetSheHe] doesn't really understand the concept of rules and laws.;;;;;;;;;;;Ìåñòíûå êðåñòüÿíå æàëóþòñÿ íà ïðîèçâîë, îíè ñ÷èòàþò, ÷òî [Root.GetTreasurerName] íè÷åãî íå ñìûñëèò â çàêîíàõ.;;x
+EVTOPTA75060;They shouldn't be bothering me about it!;;;;;;;;;;;Îíè íå äîëæíû ðàçäðàæàòü ìåíÿ òàêèì áðåäîì!;;x
+EVTDESC75061;[From.GetTitledFirstName] sent the peasants complaining about my arbitrariness to me and they were brave enough to air their concerns about me not being able to understand the concept of rules and laws!;;;;;;;;;;;[From.GetTitledFirstName] ïîñëàë[From.GetEndA] êðåñòüÿí ñ æàëîáîé íà ìîé ïðîèçâîë êî ìíå, è îíè áûëè äîñòàòî÷íî õðàáðû, ÷òîáû âûñêàçàòü ñâîè ïðåòåíçèè ïî ïîâîäó òîãî, ÷òî ÿ íå â ñîñòîÿíèè ïîíÿòü êîíöåïöèþ ïðàâèë è çàêîíîâ!;;x
+EVTOPTA75061;Of course I understand laws, I just don't follow them;;;;;;;;;;;Êîíå÷íî, ÿ ïîíèìàþ çàêîíû, ÿ ïðîñòî íå ñëåäóþ èì.;;x
+EVTDESC75065;[Root.job_treasurer.GetTitledFirstName]'s justice has brought peace to a troubled county. Fewer crimes are committed and fewer complaints are heard in the province. The peasants have never been happier!;;;;;;;;;;;[Root.job_treasurer.GetTitledFirstName] ïðèíåñ[Root.job_treasurer.GetNoneE] ìèð è ïðîöâåòàíèå â íåêîãäà íåñïîêîéíûé îêðóã. Âñ¸ ìåíüøå ïðåñòóïíèêîâ îñìåëèâàþòñÿ òâîðèòü òàì ñâîè ãðÿçíûå äåëà. Òåïåðü ñåëÿíå ñ÷àñòëèâû è íå äîêó÷àþò ìíå ñâîèìè æàëîáàìè.;;x
+EVTOPTA75065;I'm very glad to hear that!;;;;;;;;;;;ß î÷åíü ðàä[Root.GetEndA] ýòîìó!;;x
+EVTDESC75066;I can not take credit for the crime reduction, nor the fact the peasants seem happier but I believe that justice must be applied to make a better world.;;;;;;;;;;;ß íå ìîãó ïîâåðèòü íè â òî, ÷òî ñîêðàòèëîñü êîëè÷åñòâî ïðåñòóïíèêîâ, íè â òîò ôàêò, ÷òî êðåñòüÿíå ñòàëè áîëåå ñ÷àñòëèâûì, íî ÿ ñ÷èòàþ, ÷òî ñïðàâåäëèâîñòü äîëæíà áûòü ïðèìåíåíà, ÷òîáû ìèð ñòàë ëó÷øå.;;x
+EVTOPTA75066;Justice, that is, for everyone!;;;;;;;;;;;Ïðàâîñóäèå äëÿ âñåõ!;;x
+EVTDESC75070;A county in my demesne is riddled with disease! I need to send Steward [Root.job_treasurer.GetTitledFirstName] there, [Root.job_treasurer.GetSheHe] will surely know what to do.;;;;;;;;;;;Îäèí èç îêðóãîâ ìîåé âîò÷èíû ïðîíèçàí áîëåçíüþ! [Root.GetTreasurerName] [Root.job_treasurer.GetTitledFirstName] îòïðàâëÿåòñÿ òóäà, [Root.job_treasurer.GetSheHe] íàâåðíÿêà çíàåò, ÷òî äåëàòü.;;x
+EVTOPTA75070;Please save the peasants! Who else am I going to get taxes from?;;;;;;;;;;;Ïîæàëóéñòà, ñïàñè ìîèõ êðåñòüÿí! Èíà÷å ñ êîãî ìíå ñîáèðàòü ðåíòó?;;x
+EVTDESC75071;I try to work as hard as I can, saving the peasants one at a time. The disease is slowly giving up its hold on the county but it will take time before everyone is healthy again.;;;;;;;;;;;ß ïûòàþñü ðàáîòàòü ìàêñèìàëüíî ýôôåêòèâíî, ñïàñàÿ êðåñòüÿí îäíîãî çà äðóãèì. Áîëåçíü íåîõîòíî îòêàçûâàåòñÿ îò ñâîèõ æåðòâ è íå æåëàåò òàê ïðîñòî ïîêèäàòü ýòîò îêðóã. Ïðîéä¸ò íåìàëî âðåìåíè, ïðåæäå ÷åì êàæäûé èç áîëüíûõ âûçäîðîâååò.;;x
+EVTOPTA75071;I saved another one!;;;;;;;;;;;ß ñïàñ åù¸ îäíîãî!;;x
+EVTDESC75075;Steward [Root.job_treasurer.GetTitledFirstName] wants to hire ruffians to bully the peasants who are not paying their taxes.;;;;;;;;;;;[Root.GetMyTreasurerName] [Root.job_treasurer.GetTitledFirstName] õî÷åò íàíÿòü ãîëîâîðåçîâ äëÿ çàïóãèâàíèÿ êðåñòüÿí, êîòîðûå íå ïëàòÿò íàëîãè.;;x
+EVTOPTA75075;Any way is good as long as money is entering the treasury;;;;;;;;;;;Â ëþáîì ñëó÷àå õîðîøî, ïîêà äåíüãè ïîñòóïàþò â êàçíó.;;x
+EVTOPTB75075;Prevent him doing any harm, even if I will get less tax;;;;;;;;;;;Ïîìåøàòü åìó â íàíåñåíèè õîòü êàêîé-ëèáî âðåäà, äàæå åñëè ÿ áóäó ïîëó÷àòü ìåíüøå íàëîãîâ.;;x
+EVTDESC75076;[From.GetTitledFirstName] did not like my suggestion to hire ruffians, when I tried explaining it would be easier to squeeze the peasants who are not paying their taxes [From.GetSheHe] still didn't want me to hire ruffians. I tried hiring them in secrecy but [From.GetTitledFirstName] somehow found out and stopped us before we had even started 'persuading' the peasants.;;;;;;;;;;;"[From.GetTitledFirstName] íå ïðèâåòñòâóåò ìî¸ æåëàíèå íàíÿòü ãîëîâîðåçîâ. Êîãäà ÿ ïîïûòàëñÿ îáúÿñíèòü, ÷òî òàê áóäåò ëåã÷å âûæàòü èç êðåñòüÿí, êîòîðûå íå ïëàòÿò íàëîãè, èõ äîëãè, [From.GetSheHe] ïî-ïðåæíåìó íå õîòåë ñëûøàòü îá ýòîì. ß ïîïûòàëñÿ íàíÿòü èõ â òàéíå è â òàéíå æå íà÷àòü îïåðàöèþ, íî [From.GetTitledFirstName] êàê-òî âñ¸ óçíàë è îñòàíîâèë íàñ, ïðåæäå ÷åì ìû íà÷àëè ""óáåæäàòü"" êðåñòüÿí.";;x
+EVTOPTA75076;Come on! I need those ruffians!;;;;;;;;;;;Äà ëàààäíî! Ìíå íóæíû ýòè ãîëîâîðåçû!;;x
+EVTDESC75080;[Root.GetMyTreasurerName] [Root.job_treasurer.GetTitledFirstName] had come up with an idea for removing a thieves guild in counties: pay them to move elsewhere.;;;;;;;;;;;[Root.GetMyTreasurerName] [Root.job_treasurer.GetTitledFirstName] ïðèäóìàë ñïîñîá óäàëèòü ãèëüäèþ âîðîâ - çàïëàòèòü èì, ÷òîáû îíè ðàáîòàëè ãäå-íèáóäü â äðóãîì ìåñòå.;;x
+EVTOPTA75080;Pay to stop criminals;;;;;;;;;;;Çàïëàòèòå, ÷òîáû îñòàíîâèòü ïðåñòóïíèêîâ.;;x
+EVTOPTB75080;We do not associate with criminals;;;;;;;;;;;Ìû íå âåä¸ì ïåðåãîâîðîâ ñ ïðåñòóïíèêàìè.;;x
+EVTDESC75085;[Root.GetMyTreasurerName] [Root.job_treasurer.GetTitledFirstName] has had some interesting ideas on how to improve the economy.;;;;;;;;;;;[Root.GetMyTreasurerName] [Root.job_treasurer.GetTitledFirstName] ïðåäëîæèë íåñêîëüêî èíòåðåñíûõ èäåé î òîì, êàê óêðåïèòü ýêîíîìèêó.;;x
+EVTOPTA75085;Adopt [Root.job_treasurer.GetHerHis] ideas;;;;;;;;;;;Îôèöèàëüíî ïðèçíàòü [Root.job_treasurer.GetHersHis] èäåè;;x
+EVTOPTB75085;It's not worth it;;;;;;;;;;;Îíî òîãî íå ñòîèò.;;x
+EVTDESC75090;Working with thieves can be beneficiary, if my liege [Root.Liege.GetTitledFirstName] does not get wind of it...;;;;;;;;;;;Ðàáîòà ñ ïðåñòóïíîñòüþ ìîæåò áûòü âîçíàãðàæäåíà, îäíàêî, åñëè ìîé ñþçåðåí [Root.Liege.GetTitledFirstName] íå ïîíèìàåò ýòîãî...;;x
+EVTOPTA75090;Take a large cut;;;;;;;;;;;Íàäî áûòü îñòîðîæíåå!;;x
+EVTOPTB75090;Try to hide your involvement;;;;;;;;;;;Ïîïûòàòüñÿ ñêðûòü ñâî¸ ó÷àñòèå.;;x
+EVTDESC75091;I followed [Root.GetMyTreasurerName] [From.GetTitledFirstName] at a distance and saw [From.GetHerHim] meet two rather rough looking men and went with them into a tavern infamous for it shoddy clientele. I watched through the dirty window how money exchanged hands and had the evidence I needed: [From.GetTitledFirstName] was working with thieves!;;;;;;;;;;;"[Root.GetMyTreasurerName] [From.GetTitledFirstName] íå çàìåòèë, ÷òî ÿ ïîñëåäîâàë çà íèì íà ðàññòîÿíèè, è ÿ óâèäåë, êàê îí âñòðåòèëñÿ ñ äâóìÿ äîâîëüíî íåðÿøëèâî îäåòûìè ìóæ÷èíàìè è ïîø¸ë ñ íèìè â êàáàê, ïîçîðÿùèé åãî îäíèì òîëüêî êîíòèíãåíòîì ñâîèõ êëèåíòîâ. ß óâèäåë ÷åðåç ãðÿçíîå îêíî, êàê îíè ïåðåäàþò äðóã äðóãó äåíüãè èç ðóê â ðóêè è ïîëó÷èë ïîñëåäíåå äîêàçàòåëüñòâî ñâîèõ ïîäîçðåíèé: [From.GetTitledFirstName] ""ðàáîòàåò"" ñ âîðàìè!";;x
+EVTOPTA75091;Throw [From.GetHerHim] into jail;;;;;;;;;;;Áðîñèòü åãî â òåìíèöó!;;x
+EVTOPTB75091;Take [From.GetHerHis] gold and let him go;;;;;;;;;;;Âçÿòü åãî çîëîòî è îòïóñòèòü.;;x
+EVTDESC75092;[From.GetTitledFirstName] waited for me at the gate together with two prison guards when I came back after my little meeting with the local thieves. I was thrown in prison and [From.GetTitledFirstName] told me I shouldn't have trusted the thieves...;;;;;;;;;;;[From.GetTitledFirstName] æäàë ìåíÿ ó âîðîò âìåñòå ñ äâóìÿ òþðåìíûìè îõðàííèêàìè, êîãäà ÿ âîçâðàùàëñÿ ñî âñòðå÷è ñ ìåñòíûìè âîðàìè. ß áûë áðîøåí â òåìíèöó, à [From.GetTitledFirstName] ñêàçàë ìíå, ÷òî íèêîãäà áû íå äîâåðèëñÿ âîðàì...;;x
+EVTOPTA75092;Wait! Don't leave me here!;;;;;;;;;;;Ïîäîæäèòå! Íå îñòàâëÿéòå ìåíÿ çäåñü!;;x
+EVTDESC75093;[From.GetTitledFirstName] confronted me outside the tavern, me still counting the gold the thieves had given me in exchange for my cooperation. Instead of demanding my head or imprisoning me, [From.GetTitledFirstName] took the gold and told me to never associate with thieves ever again.;;;;;;;;;;;[From.GetTitledFirstName] æäàë ìåíÿ ïåðåä òàâåðíîé, êîãäà ÿ âûõîäèë, ïåðåñ÷èòûâàÿ çîëîòî, ÷òî äàëè ìíå âîðû â êà÷åñòâå îïëàòû ìîåãî ñîòðóäíè÷åñòâà. Âìåñòî òîãî, ÷òîáû òðåáîâàòü ìîåé ãîëîâû èëè çàêëþ÷èòü ìåíÿ â òåìíèöó, [From.GetTitledFirstName] çàáðàë çîëîòî è ïîñîâåòîâàë íèêîãäà áîëüøå íå îáùàòüñÿ ñ âîðàìè.;;x
+EVTOPTA75093;I promise, never again!;;;;;;;;;;;ß îáåùàþ, íèêîãäà áîëüøå!;;x
+EVTDESC75095;[Root.GetMyTreasurerName] [Root.job_treasurer.GetTitledFirstName] probably did not think I'd notice if a few coins here and there went missing, but the steady disappearance made me suspicious. Might it be that the gold is disappearing into [Root.job_treasurer.GetTitledFirstName]'s greedy fingers?;;;;;;;;;;;"[Root.GetMyTreasurerName] [Root.job_treasurer.GetTitledFirstName], âåðîÿòíî íå äóìàë, ÷òî ÿ çàìå÷ó, åñëè íåñêîëüêî ìîíåò ïðîïàäóò òî çäåñü, òî òàì. Íî ïîñòîÿííûå ïðîïàæè âûçâàëè ó ìåíÿ ïîäîçðåíèå. Ìîæåò áûòü, [Root.job_treasurer.GetTitledFirstName] è åãî ""æàäíûå ïàëüöû"" âèíîâàòû â èñ÷åçíîâåíèè çîëîòà?";;x
+EVTOPTA75095;Question [Root.job_treasurer.GetTitledFirstName];;;;;;;;;;;[Root.job_treasurer.GetTitledFirstName] äîëæåí îòâåòèòü íà ïàðó âîïðîñîâ.;;x
+EVTOPTB75095;I don't care;;;;;;;;;;;Ìíå âñ¸ ðàâíî.;;x
+EVTDESC75096;[From.GetTitledFirstName] accused me of stealing! Coins had gone missing and all current evidence points at me...;;;;;;;;;;;[From.GetTitledFirstName] îáâèíÿåò ìåíÿ â êðàæå! Ìîíåòû ïðîïàëè áåç âåñòè, è âñå òåêóùèå äàííûå óêàçûâàþò íà ìåíÿ...;;x
+EVTOPTA75096;I would never steal!;;;;;;;;;;;ß íå âîðóþ!;;x
+EVTOPTB75096;I admit it, I stole the money. But you pay me too little!;;;;;;;;;;;ß ïðèçíàþ, ÷òî óêðàë äåíüãè. Íî Âû ïëàòèòå ìíå ñëèøêîì ìàëî!;;x
+EVTDESC75097;[From.GetTitledFirstName] declared that [From.GetSheHe] was innocent. Further investigation revealed that the cook, responsible for the purchase of food stuff, had forgotten to account for the extra eggs he had bought during the last month.;;;;;;;;;;;[From.GetTitledFirstName] çàÿâèë, ÷òî íåâèíîâåí. Äàëüíåéøåå ðàññëåäîâàíèå ïîêàçàëî, ÷òî ïîâàð, îòâåòñòâåííûé çà ïðèîáðåòåíèå ïðîäóêòîâ, çàáûë óêàçàòü, ÷òî ïðèîáðåòàë ÿéöà â ïðîøëîì ìåñÿöå.;;x
+EVTOPTA75097;Now I know I can trust [Root.GetMyTreasurerName] [From.GetTitledFirstName]!;;;;;;;;;;;Òåïåðü ÿ çíàþ, ÷òî [From.GetTitledFirstName] äîñòîèí äîâåðèÿ!;;x
+EVTDESC75098;I found some more evidence [Root.GetMyTreasurerName] [From.GetTitledFirstName] had stolen the money and confronted [From.GetHerHim] with it. [From.GetSheHeCap] confessed and begged me to be just when punishing [From.GetHerHim].;;;;;;;;;;;Ìíå óäàëîñü îáíàðóæèòü íåñêîëüêî äîêàçàòåëüñòâ òîãî, ÷òî [Root.GetMyTreasurerName] [From.GetTitledFirstName] êðàë äåíüãè. Îí ñðàçó ïðèçíàëñÿ, óñëûøàâ îò ìåíÿ îá ýòîì è ïðîñèë î ïðîñòîì íàêàçàíèè.;;x
+EVTOPTA75098;You shall pay back the money you stole, [From.GetTitledFirstName];;;;;;;;;;;Âû äîëæíû çàïëàòèòü äåíüãè, êîòîðûå Âû óêðàëè, [From.GetTitledFirstName].;;x
+EVTOPTB75098;You shall rot in prison, [From.GetTitledFirstName]!;;;;;;;;;;;Âû äîëæíû ãíèòü â òþðüìå, [From.GetTitledFirstName]!;;x
+EVTOPTC75098;You are forgiven, [From.GetTitledFirstName];;;;;;;;;;;Âû ïðîùåíû, [From.GetTitledFirstName];;x
+EVTDESC75099;[From.GetTitledFirstName] fined me for stealing money and took all the money I had!;;;;;;;;;;;[From.GetTitledFirstName] îøòðàôîâàë ìåíÿ çà êðàæó äåíåã è âçÿë âñå äåíüãè, ÷òî ó ìåíÿ áûëè!;;x
+EVTOPTA75099;That was harsh!;;;;;;;;;;;Ýòî áûëî ñóðîâî!;;x
+EVTDESC75100;[From.GetTitledFirstName] believed I had stolen the money and put me in prison to repent my crimes and my sins.;;;;;;;;;;;[From.GetTitledFirstName] ïîëàãàåò, ÷òî ÿ óêðàë äåíüãè è ïîñàäèë ìåíÿ â òþðüìó, ÷òîáû ÿ ïîêàÿëñÿ â ñâîèõ ïðåñòóïëåíèÿõ è îòâåòèë çà ãðåõè.;;x
+EVTOPTA75100;I repent, just let me out of here!;;;;;;;;;;;Êàþñü, òîëüêî âûïóñòèòå ìåíÿ îòñþäà!;;x
+EVTDESC75105;A band of highway robbers has been roaming freely in one of [Root.Liege.GetTitledFirstName]'s counties. I am itching to do something about this situation, I should propose to [Root.Liege.GetTitledFirstName] that we should deal with it.;;;;;;;;;;;Áàíäà ãðàáèòåëåé ñ áîëüøîé äîðîãè ñâîáîäíî áðîäèò â îäíîé èç îáëàñòåé, êîòîðîé âëàäååò [Root.Liege.GetTitledFirstName]. Ìíå íå òåðïèòñÿ ÷òî-ëèáî ñäåëàòü â ýòîé ñèòóàöèè, è [Root.Liege.GetTitledFirstName] âûíóæäåí âûñëóøàòü ìîé ïðèçûâ ðàñïðàâèòüñÿ ñ íèìè.;;x
+EVTOPTA75105;Me and a bunch of soldiers could easily take them!;;;;;;;;;;;Ìû ñ ãðóïïîé ñîëäàò ìîæåì ëåãêî âçÿòü èõ!;;x
+EVTOPTB75105;...or maybe I shouldn't put myself in danger...;;;;;;;;;;;...èëè, ìîæåò áûòü, ÿ íå ïðåäñòàâëÿþ ñåáÿ âñåé îïàñíîñòè...;;x
+EVTDESC75106;The band of highway robbers has become more and more audacious, plundering more towns and settlements for everyday. Marshal [From.GetTitledFirstName] has proposed to lead an attack personally to eradicate them from the province.;;;;;;;;;;;Áàíäà ðàçáîéíèêîâ ñ áîëüøîé äîðîãè ñòàíîâèòñÿ âñ¸ áîëåå äåðçêîé, ãðàáÿ âñ¸ áîëüøå ãîðîäîâ è ïîñåëåíèé êàæäûé äåíü. [Root.GetMarshalName] [From.GetTitledFirstName] ïðåäëîæèë âîçãëàâèòü àòàêó ëè÷íî è èñêîðåíèòü èõ.;;x
+EVTOPTA75106;Give [From.GetHerHim] more than enough soldiers;;;;;;;;;;;Äàòü åìó äîñòàòî÷íîå êîëè÷åñòâî ñîëäàò.;;x
+EVTOPTB75106;Tell [From.GetHerHim] to bring [From.GetHerHis] own retinue only;;;;;;;;;;;Ñêàçàòü åìó, ÷òîáû ñïðàâëÿëñÿ ñèëàìè ñâîåé ñâèòû.;;x
+EVTDESC75110;One of [Root.Liege.GetTitledFirstName]'s prominent subjects has accused me of beating his daughter while a guest of their house!;;;;;;;;;;;[Root.Liege.GetTitledFirstName] óòâåðæäàåò - îäèí èç [Root.Liege.GetHersHis] âåðíûõ âàññàëîâ îáâèíÿåò ìåíÿ â òîì, ÷òî ÿ óäàðèë[Root.GetEndA] åãî äî÷ü, êîãäà áûë[Root.GetEndA] â ãîñòÿõ ó íåãî äîìà!;;x
+EVTOPTA75110;The girl is lying!;;;;;;;;;;;Äåâêà ëæ¸ò!;;x
+EVTDESC75111;A prominent subject has petitioned me for justice: His daughter had supposedly been beaten by Marshal [From.GetTitledFirstName] while [From.GetSheHe] was their guest and the father is requesting compensation.;;;;;;;;;;;Âëèÿòåëüíûé âàññàë òðåáóåò îò ìåíÿ ñïðàâåäëèâîñòè: ÿêîáû ìîé âîåííûé ñîâåòíèê [From.GetTitledFirstName] èçáèë[From.GetEndA] åãî äî÷ü, áóäó÷è ó íåãî â ãîñòÿõ, è îí êàê îòåö òðåáóåò êîìïåíñàöèè.;;x
+EVTOPTA75111;Marshal [From.GetTitledFirstName] will be fined for [From.GetHerHis] crime!;;;;;;;;;;;[Root.GetMarshalName] [From.GetTitledFirstName] áóäåò îøòðàôîâàí çà ñâîè ïðåñòóïëåíèÿ!;;x
+EVTOPTB75111;Marshal [From.GetTitledFirstName] will be imprisoned;;;;;;;;;;;[Root.GetMarshalName] [From.GetTitledFirstName] áóäåò ïîñàæåí â òþðüìó.;;x
+EVTOPTC75111;I don't believe this. The daughter must be lying;;;;;;;;;;;ß íå ìîãó ïîâåðèòü â ýòî! Äî÷ü, äîëæíî áûòü, ëæ¸ò.;;x
+EVTDESC75112;[From.GetTitledFirstName] decided to believe the girl's lies about me beating her and made me pay a huge fine!;;;;;;;;;;;[From.GetTitledFirstName] ðåøèë[From.GetEndA] ïîâåðèòü â ëîæü ýòîé äåâ÷îíêè îáî ìíå, ÿêîáû ÿ ïîáèë[Root.GetEndA] å¸ è ïîñòàâèë[Root.GetEndA] îãðîìíûé ñèíÿê!;;x
+EVTOPTA75112;But I am innocent!;;;;;;;;;;;ß íåâèíîâ[Root.GetNaEn]!;;x
+EVTDESC75113;Despite the girl's father demanding my head on a plate, [From.GetTitledFirstName] decided to be merciful and 'only' let me rot in the dungeon for who knows how long. The only trouble is, I am innocent of beating her!;;;;;;;;;;;"Íåñìîòðÿ íà òî, ÷òî îòåö äåâ÷îíêè òðåáóåò ìîþ ãîëîâó íà áëþäå, [From.GetTitledFirstName] ðåøèë[From.GetEndA] áûòü ìèëîñåðäí[From.GetOyYm] - ""òîëüêî ëèøü"" áðîñèòü ìåíÿ ãíèòü â ïîäçåìåëüå ÷¸ðò çíàåò íàñêîëüêî äîëãî. Åäèíñòâåííàÿ ïðîáëåìà â òîì, ÷òî ÿ íå áèë[Root.GetEndA] å¸!";;x
+EVTOPTA75113;Let me out! I didn't hurt her!;;;;;;;;;;;Âûïóñòèòå ìåíÿ! ß íå ïðè÷èíþ åé âðåäà!;;x
+EVTDESC75114;[From.GetTitledFirstName] believed me when I told [From.GetHerHim] I had never even talked to the girl who accused me of beating her and managed to find evidence that the girl was lying. Apparently, she and her friend had hatched a scheme to blackmail me;;;;;;;;;;;[From.GetTitledFirstName] ïîâåðèë[From.GetEndA] ìíå, êîãäà ÿ ñêàçàë[Root.GetEndA] [From.GetHerHim], ÷òî íèêîãäà íå âèäåë[Root.GetEndA] äåâóøêó, êîòîðàÿ îáâèíÿåò ìåíÿ â å¸ èçáèåíèè è ïðåäîñòàâèë[Root.GetEndA] äîêàçàòåëüñòâà å¸ ëæè. Ñóäÿ ïî âñåìó, îíà è å¸ ïàðåíü õîòåëè øàíòàæèðîâàòü ìåíÿ.;;x
+EVTOPTA75114;Her black eye wasn't my fault then!;;;;;;;;;;;È å¸ ñèíÿê íå îêóïèëñÿ.;;x
+EVTDESC75120;Marshal [Root.job_marshal.GetTitledFirstName] told me about [Root.job_marshal.GetHerHis] ideas. I couldn't really understand what [Root.job_marshal.GetSheHe] was talking about, but [Root.job_marshal.GetSheHe] was adamant in [Root.job_marshal.GetHerHis] belief that this would improve the military.;;;;;;;;;;;[Root.GetMarshalName] [Root.job_marshal.GetTitledFirstName] äåëèòñÿ ñî ìíîé ñâîèìè èäåÿìè. ß íå ìîãó ïîíÿòü, î ÷¸ì [Root.job_marshal.GetSheHe] ãîâîðèò, íî íå ñêðûâàåò óâåðåííîñòè, ÷òî ýòî ïîçâîëèò óëó÷øèòü àðìèþ.;;x
+EVTOPTA75120;Adopt the Marshal's ideas;;;;;;;;;;;Íàéòè ïðèìåíåíèå [Root.job_marshal.GetHersHis] èäåÿì.;;x
+EVTOPTB75120;It's not worth it;;;;;;;;;;;Ýòî íå ñòîèò òîãî.;;x
+EVTTOOLTIP75011;[Root.GetTitledFirstName] tells [This.GetTitledFirstName] about [This.job_chancellor.GetTitledFirstName]'s inappropriate behavior;;;;;;;;;;;[Root.GetTitledFirstName] è [This.GetTitledFirstName] îáñóæäàþò íåïîäîáàþùåå ïîâåäåíèå, êîòîðîå ïîçâîëèë ñåáå [This.job_chancellor.GetTitledFirstName].;;x
+EVTTOOLTIP75012;[This.GetTitledFirstName] is glad [Root.job_chancellor.GetTitledFirstName] is imprisoned;;;;;;;;;;;[This.GetTitledFirstName] äîâîëåí, ÷òî [Root.job_chancellor.GetTitledFirstName] çàêëþ÷¸í â òåìíèöó.;;x
+EVTTOOLTIP75013;[Root.GetMyChancellorName] [This.GetTitledFirstName] is imprisoned by [Root.GetTitledFirstName];;;;;;;;;;;[Root.GetTitledFirstName] ñóðîâî îáîø¸[Root.GetLasLsya] ñ ñîâåòíèêîì. [Root.GetMyChancellorName] [This.GetTitledFirstName] òåïåðü òîìèòñÿ â òåìíèöå.;;x
+EVTTOOLTIP75014;[Root.GetMyChancellorName] [This.GetTitledFirstName] is glad [Root.GetTitledFirstName] believes [This.GetSheHe] is innocent;;;;;;;;;;;[Root.GetMyChancellorName] [This.GetTitledFirstName] ðàä[This.GetEndA], ÷òî [Root.GetTitledFirstName] âåðèò â [This.GetHersHis] íåâèíîâíîñòü.;;x
+EVTTOOLTIP75015;[This.GetTitledFirstName] is upset [Root.GetTitledFirstName] dismissed [This.GetHerHis] concern;;;;;;;;;;;[This.GetTitledFirstName] ðàññòðîåí òåì, ÷òî [Root.GetTitledFirstName] íå ïðèíÿë âî âíèìàíèå åãî îçàáî÷åííîñòü.;;x
+EVTTOOLTIP75021;[This.GetTitledFirstName] and [This.GetHerHis] vassal gets along better;;;;;;;;;;;[This.GetTitledFirstName] è åãî âàññàë òåïåðü ëàäÿò ëó÷øå.;;x
+EVTTOOLTIP75022;[This.GetTitledFirstName] and [Root.Liege.GetTitledFirstName] get along better;;;;;;;;;;;[This.GetTitledFirstName] è [Root.Liege.GetTitledFirstName] òåïåðü ëàäÿò ëó÷øå;;x
+EVTTOOLTIP75023;[This.GetTitledFirstName] is starting to like [This.Spouse.GetTitledFirstName];;;;;;;;;;;[This.GetTitledFirstName] è [This.Spouse.GetTitledFirstName] íà÷èíàþò ëàäèòü.;;x
+EVTTOOLTIP75024;[This.GetTitledFirstName] is starting to like [This.Spouse.GetTitledFirstName];;;;;;;;;;;[This.GetTitledFirstName] è [This.Spouse.GetTitledFirstName] íà÷èíàþò ëàäèòü.;;x
+EVTTOOLTIP75025;The courtiers at [This.GetTitledFirstName]'s court likes [This.GetHerHim] more;;;;;;;;;;;Ïðèäâîðíûå, êîòîðûõ ïðèíèìàåò ïðè ñâî¸ì äâîðå [This.GetTitledFirstName], îòíîñÿòñÿ ê íåìó ëó÷øå.;;x
+EVTTOOLTIP75026;[This.GetTitledFirstName] is rewarded by [Root.GetTitledFirstName];;;;;;;;;;;[Root.GetTitledFirstName] ðåøèë, ÷òî [This.GetTitledFirstName] äîñòîèí íàãðàäû.;;x
+EVTTOOLTIP75027;[This.GetTitledFirstName] is disappointed in [Root.GetTitledFirstName];;;;;;;;;;;[This.GetTitledFirstName] ðàçî÷àðîâàí òåì, ÷òî [Root.GetTitledFirstName] íå îöåíèë åãî óñèëèé.;;x
+EVTTOOLTIP75032;[Root.GetTitledFirstName] talks sternly to [This.GetTitledFirstName];;;;;;;;;;;[Root.GetTitledFirstName] ñòðîãî ïîãîâîðèò ñ ïåðñîíàæåì [This.GetTitledFirstName];;x
+EVTTOOLTIP75034;[This.GetTitledFirstName] could have avoided jail if [This.GetSheHe] had been less slothful;;;;;;;;;;;[This.GetTitledFirstName] ìîã áû èçáåæàòü òþðüìû, åñëè áû íå áûë òàê ëåíèâ.;;x
+EVTTOOLTIP75041;[This.GetTitledFirstName] decides if the infidel should be burned at the stake or not;;;;;;;;;;;[This.GetTitledFirstName] ðàçìûøëÿåò ñæå÷ü íåâåðíûõ èëè íåò.;;x
+EVTTOOLTIP75042;[This.GetTitledFirstName] decides if the infidel should be exiled or not;;;;;;;;;;;[This.GetTitledFirstName] ðàçìûøëÿåò èçãíàòü íåâåðíûõ èëè íåò.;;x
+EVTTOOLTIP75051;[This.GetTitledFirstName] decides if the heretic should be burned at the stake or not;;;;;;;;;;;[This.GetTitledFirstName] ðàçìûøëÿåò ñæå÷ü åðåòèêà èëè íåò.;;x
+EVTTOOLTIP75052;[This.GetTitledFirstName] decides if the heretic should be exiled or not;;;;;;;;;;;[This.GetTitledFirstName] ðàçìûøëÿåò, èçãíàòü åðåòèêà èëè íåò.;;x
+EVTTOOLTIP75061;The peasants complains to Steward [This.GetTitledFirstName] about [This.GetHerHis] arbitrariness;;;;;;;;;;;Êðåñòüÿíå æàëóþòñÿ íà ïðîèçâîë, êîòîðûé óñòðîèë [Root.GetTreasurerName] [This.GetTitledFirstName].;;x
+EVTTOOLTIP75066;Steward [This.GetTitledFirstName] is praised for [This.GetHerHis] sense of justice;;;;;;;;;;;[Root.GetTreasurerName] [This.GetTitledFirstName] ïîëó÷àåò õâàëåáíûå îòçûâû î ñâî¸ì ñïðàâåäëèâîì ðóêîâîäñòâå.;;x
+EVTTOOLTIP75071;Steward [This.GetTitledFirstName] is sent to the county riddled with disease;;;;;;;;;;;[Root.GetTreasurerName] [This.GetTitledFirstName] îòïðàâëÿåòñÿ â îáëàñòü, ïîðàæ¸ííóþ áîëåçíüþ.;;x
+EVTTOOLTIP75076;Steward [This.GetTitledFirstName] is hindered to hire ruffians;;;;;;;;;;;[Root.GetMyTreasurerName] [This.GetTitledFirstName] íå ìîæåò íàíÿòü ãîëîâîðåçîâ, êàê ïëàíèðîâàë.;;x
+EVTTOOLTIP75091;[This.GetTitledFirstName] catches [Root.GetTitledFirstName] working with thieves;;;;;;;;;;;"[This.GetTitledFirstName] âûÿñíèë, ÷òî [Root.GetTitledFirstName] ""ðàáîòàåò"" ñ âîðàìè.";;x
+EVTTOOLTIP75096;[This.GetTitledFirstName] is questioned by [Root.GetTitledFirstName];;;;;;;;;;;[This.GetTitledFirstName] îòâåòèò íà âîïðîñû, êîòîðûå çàäàñò [Root.GetTitledFirstName].;;x
+EVTTOOLTIP75097;[This.GetTitledFirstName] is shown evidence that exculpate [Root.GetTitledFirstName];;;;;;;;;;;[This.GetTitledFirstName] óçíàë[This.GetEndA] î ôàêòàõ, äîêàçûâàþùèõ, ÷òî [Root.GetTitledFirstName] íåâèíîâ[Root.GetNaEn].;;x
+EVTTOOLTIP75098;[This.GetTitledFirstName] knows [Root.GetTitledFirstName] have stolen money;;;;;;;;;;;[This.GetTitledFirstName] çíàåò, ÷òî [Root.GetTitledFirstName] óêðàë[Root.GetEndA] äåíüãè;;x
+EVTTOOLTIP75106;[This.GetTitledFirstName] is asked to assign some soldiers to deal with the highway robber band;;;;;;;;;;;[This.GetTitledFirstName] ïðåäëàãàåòñÿ îòïðàâèòü íåñêîëüêî ñîëäàò äëÿ áîðüáû ñ áàíäîé ðàçáîéíèêîâ ñ áîëüøîé äîðîãè.;;x
+EVTTOOLTIP75111;[This.GetTitledFirstName] decides if [Root.GetTitledFirstName] is guilty or not;;;;;;;;;;;[This.GetTitledFirstName] ðàçìûøëÿåò, âèíîâåí ëè [Root.GetTitledFirstName] èëè íåò.;;x
+EVTTOOLTIP75114;"[Root.GetTitledFirstName] ""finds evidence"" of [This.GetTitledFirstName]'s innocence";;;;;;;;;;;"[Root.GetTitledFirstName] íàõîäèò ""äîêàçàòåëüñòâà"" òîãî, ÷òî [This.GetTitledFirstName] íåâèíîâåí.";;x

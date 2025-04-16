@@ -1,69 +1,60 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-evt_CK2_247_desc_a;You have increased your Martial skill (§G+1§!) while leading troops in battle in §Y[Root.Location.GetName]§!.;;;;;;;;;;;;;x
-evt_CK2_250_desc_a;In spite of my efforts, I have been captured by the armies of [From.GetBestName]!;;;;;;;;;;;;;x
-evt_CK2_261_desc_b;A soldier has distinguished himself on the battlefield. Such an asset! This must be what the vision was about!;;;;;;;;;;;;;x
-evt_CK2_261_desc_c;A skillful soldier almost singlehandedly took down the enemy army in a battle today. It makes me doubt the troublesome vision I had.;;;;;;;;;;;;;x
-evt_261_desc_a;A noble has distinguished himself in this battle. Perhaps I can make use of him...;;;;;;;;;;;;;x
-
-EVTDESC242;Alas! [Root.GetBestName] has died bravely on the field of battle.;;;;;;;;;;;;;x
-EVTDESC243;[Root.GetBestName] was wounded in the thick of battle.;;;;;;;;;;;;;x
-EVTDESC244;[Root.GetBestName] was maimed in battle by a valiant foeman.;;;;;;;;;;;;;x
-EVTDESC245;[Root.GetBestName] received a crushing blow to the head in battle and will not stir from [Root.GetPossPronoun] repose.;;;;;;;;;;;;;x
-EVTDESC246;Combat is the best teacher! [Root.GetBestName] has become a more proficient commander.;;;;;;;;;;;;;x
-EVTDESC247;You have increased your Martial skill (§G+1§!) while leading troops in battle in §Y[Root.Location.GetName]§!.;;;;;;;;;;;;;x
-EVTDESC248;We have gained a better understanding of military matters during this battle.;;;;;;;;;;;;;x
-EVTDESC249;In the chaos of battle, your men have managed to corner [From.GetTitledFirstName]! [From.GetSheHeCap] resisted bravely before they slew [From.GetHerHim].;;;;;;;;;;;;;x
-EVTDESC250;In spite of my efforts I have been captured by the armies of [From.GetBestName]!;;;;;;;;;;;;;x
-EVTDESC251;Our enemy has died, the war has ended.;;;;;;;;;;;;;x
-EVTDESC253;My commander [From.GetTitledFirstName] was cornered and slain by the enemy on the battlefield. [From.GetSheHeCap] fought bravely right until the end.;;;;;;;;;;;;;x
-EVTDESC255;There are less cruel people who would say that my use of unnecessary violence is appalling. Then I would remind them that this is war and war means that there are no such thing as 'unnecessary violence'.;;;;;;;;;;;;;x
-EVTDESC256;I interrupted Marshal [From.GetTitledFirstName] while [From.GetSheHe] was interrogating an prisoner to find out where our enemy would attack next. The soldier who brought me to [From.GetTitledFirstName] accused [From.GetHerHim] of using unnecessary violence and looked at me for support.;;;;;;;;;;;;;x
-EVTDESC261_bad_battle_omen;A skillful soldier almost singlehandedly took down the enemy army in a battle today. It makes me doubt the troublesome vision I had.;;;;;;;;;;;;;x
-EVTDESC261_good_battle_omen;A soldier has distinguished himself on the battlefield. Such an asset! This must be what the vision was about!;;;;;;;;;;;;;x
-EVTDESC262;During the battle, you fearlessly charged ahead on horseback directly into the enemy ranks. Members of your personal guard riding beside you tumbled off their horses as enemy arrows found their marks, but your charge plowed straight into the enemy skirmishers and your sword ran red with their blood.;;;;;;;;;;;;;x
-EVTDESC263;While riding ahead with your personal guard, you suddenly found yourselves isolated on the battlefield and surrounded by enemy soldiers. A violent melee ensued but you gave a good account of yourself and managed to return to the main body of your army in time to lead it to victory.;;;;;;;;;;;;;x
-EVTDESC264;You were in the thick of it during the battle, and your tally of slain enemy soldiers has impressed even the most grizzled sergeants in your army. As you clean the blood splatter off your sword and armor, the men cheer you for the bravery you displayed in securing this victory.;;;;;;;;;;;;;x
-EVTDESC265;Using your foot as leverage, you pull your sword out of the dead corpse of the last foeman to fall by your hand in the battle. All around you, the men are cheering as the routing enemy soldiers flee in wild panic. Victory has been achieved, in large part thanks to your heroic efforts!;;;;;;;;;;;;;x
-EVTDESC266;Your commanding presence on the battlefield was felt during the recent victory, by friends and foes alike. You bolstered the spirits of the men when it was needed most, and you personally led the final charge that broke the back of the enemy army.;;;;;;;;;;;;;x
-EVTDESC267;As the enemy scurries away from the battlefield like frightened rabbits, you wipe the sweat off your brow and watch in silence. It was a hard-fought melee, and you were in the thick of it, personally leading your men to victory. Not only have you won this battle, but also a great deal of respect.;;;;;;;;;;;;;x
-EVTDESC270;This battle has shown my true mettle. I am Brave!;;;;;;;;;;;;;x
-EVTDESC271;Swords are sharp and dangerous. I can lead better from inside my own castle.;;;;;;;;;;;;;x
-EVTDESC272;Attack! Attack! Attack now! CHARGE!;;;;;;;;;;;;;x
-EVTDESC273;My careful maneuvers in this battle have shown our patient nature to everyone.;;;;;;;;;;;;;x
-
-EVTOPTA249;Good riddance!;;;;;;;;;;;;;x
-EVTOPTA255;Especially when it is used against your enemies...;;;;;;;;;;;;;x
-EVTOPTA256;That's the cruelty of war;;;;;;;;;;;;;x
-EVTOPTA262;Songs will be sung of this day.;;;;;;;;;;;;;x
-
-EVTOPTB256;I disapprove of [From.GetHerHis] conduct too;;;;;;;;;;;;;x
-EVTOPTC256;[From.GetSheHeCap]'s right, we should terrorise our enemy;;;;;;;;;;;;;x
-
-EVTDESC96500;Your experience in matters of war has increased and there are many things you will do differently in future battles. What will you focus on?;;;;;;;;;;;;;x
-
-EVTOPTA96500;Master Rough Terrain.;;;;;;;;;;;;;x
-EVTOPTB96500;Master Flat Terrain.;;;;;;;;;;;;;x
-EVTOPTC96500;Master Mountain Terrain.;;;;;;;;;;;;;x
-EVTOPTD96500;Master Desert Terrain.;;;;;;;;;;;;;x
-EVTOPTE96500;Focus on Cavalry.;;;;;;;;;;;;;x
-EVTOPTF96500;Focus on Light Foot.;;;;;;;;;;;;;x
-EVTOPTG96500;Focus on Heavy Infantry.;;;;;;;;;;;;;x
-EVTOPTH96500;Focus on the Attack.;;;;;;;;;;;;;x
-EVTOPTI96500;Focus on the Defense.;;;;;;;;;;;;;x
-EVTOPTJ96500;Learn to Inspire.;;;;;;;;;;;;;x
-EVTOPTK96500;Master Jungle Terrain.;;;;;;;;;;;;;x
-EVTOPTL96500;Focus on War Elephants.;;;;;;;;;;;;;x
-EVTOPTM96500;Master Winter Terrain.;;;;;;;;;;;;;x
-
-EVTOPTH96501;Experiment with tactics.;;;;;;;;;;;;;x
-EVTOPTI96501;Focus on the Flank.;;;;;;;;;;;;;x
-EVTOPTJ96501;Focus on mastering defensive terrain.;;;;;;;;;;;;;x
-EVTOPTK96501;Focus on siege tactics.;;;;;;;;;;;;;x
-
-EVTOPTA96502;Study Organization.;;;;;;;;;;;;;x
-EVTOPTB96502;Focus on the Center.;;;;;;;;;;;;;x
-EVTOPTC96502;Fight with Religious Fervour.;;;;;;;;;;;;;x
-EVTOPTD96502;Never Surrender.;;;;;;;;;;;;;x
-
-245.d2;[Root.GetBestName] received a crushing blow to the head in battle and suffered terrible injury to [Root.GetPossPronoun] face.;;;;;;;;;;;;;x
+evt_CK2_247_desc_a;You have increased your Martial skill (§G+1§!) while leading troops in battle in §Y[Root.Location.GetName]§!.;;;;;;;;;;;§Y[Root.Location.County.GetAdjective]ñêàÿ§! áèòâà ïîìîãëà îòòî÷èòü Âàøè âîåííûå íàâûêè (§G+1§!). Âåäÿ âîéñêà â áîé, Âû óëó÷øèëè ñâî¸ ìàñòåðñòâî.;;x
+evt_CK2_250_desc_a;In spite of my efforts, I have been captured by the armies of [From.GetBestName]!;;;;;;;;;;;Íåñìîòðÿ íà âñå ìîè óñèëèÿ íà ïîëå áîÿ, [From.GetTitledFirstNameWithNick] è [From.GetHersHis] âîéñêà çàõâàòèëè ìåíÿ â ïëåí!;;x
+evt_CK2_261_desc_b;A soldier has distinguished himself on the battlefield. Such an asset! This must be what the vision was about!;;;;;;;;;;;Âîèí ïðîÿâèë ñåáÿ íà ïîëå áîÿ. Óäèâèòåëüíî! Äîëæíî áûòü ìî¸ âèäåíèå áûëî êàê ðàç îá ýòîì!;;x
+evt_CK2_261_desc_c;A skillful soldier almost singlehandedly took down the enemy army in a battle today. It makes me doubt the troublesome vision I had.;;;;;;;;;;;Èñêóñíûé âîèí ñåãîäíÿ â îäèíî÷êó óíè÷òîæèë ïî÷òè öåëûé îòðÿä ïðîòèâíèêà. Â ìî¸ì âèäåíèè áûëî ñîâñåì äðóãîå, ÷òî-òî íå òàê...;;x
+evt_261_desc_a;A noble has distinguished himself in this battle. Perhaps I can make use of him...;;;;;;;;;;;Äâîðÿíèí ïðîñëàâèë ñåáÿ â ýòîé áèòâå. Âîçìîæíî, îí áóäåò ïîëåçåí...;;x
+EVTDESC242;Alas! [Root.GetBestName] has died bravely on the field of battle.;;;;;;;;;;;Óâû! [Root.GetTitledFirstNameWithNick] ïàë[Root.GetEndA] íà ïîëå áîÿ.;;x
+EVTDESC243;[Root.GetBestName] was wounded in the thick of battle.;;;;;;;;;;;[Root.GetTitledFirstNameWithNick] áûë[Root.GetEndA] ðàíåí[Root.GetEndA] â ñàìîé ãóùå áèòâû.;;x
+EVTDESC244;[Root.GetBestName] was maimed in battle by a valiant foeman.;;;;;;;;;;;[Root.GetTitledFirstNameWithNick] áûë[Root.GetEndA] ïîêàëå÷åí[Root.GetEndA] â áîþ êàêèì-òî íå â ìåðó îòâàæíûì âðàæèíîé.;;x
+EVTDESC245;[Root.GetBestName] received a crushing blow to the head in battle and will not stir from [Root.GetPossPronoun] repose.;;;;;;;;;;;[Root.GetTitledFirstNameWithNick] ïîëó÷èë[Root.GetEndA] ñîêðóøèòåëüíûé óäàð â ãîëîâó â áîþ è íå ìîæåò îïðàâèòüñÿ îò êîíòóçèè.;;x
+EVTDESC246;Combat is the best teacher! [Root.GetBestName] has become a more proficient commander.;;;;;;;;;;;Áèòâà - ëó÷øèé ó÷èòåëü! [Root.GetTitledFirstNameWithNick] ñòàë[Root.GetEndA] áîëåå îïûòíûì êîìàíäèðîì.;;x
+EVTDESC247;You have increased your Martial skill (§G+1§!) while leading troops in battle in §Y[Root.Location.GetName]§!.;;;;;;;;;;;§Y[Root.Location.County.GetAdjective]ñêàÿ§! áèòâà ïîìîãëà îòòî÷èòü Âàøè âîåííûå íàâûêè (§G+1§!). Âåäÿ âîéñêà â áîé, Âû óëó÷øèëè ñâî¸ ìàñòåðñòâî.;;x
+EVTDESC248;We have gained a better understanding of military matters during this battle.;;;;;;;;;;;Âðàã ïîêàçàë íàì âî âðåìÿ áèòâû ìíîãî äîñåëå íåèçâåñòíûõ òàêòè÷åñêèõ óõèùðåíèé, áëàãîäàðÿ ýòîìó íàøè ïðåäñòàâëåíèÿ î âåäåíèè ñðàæåíèé óëó÷øèëèñü.;;x
+EVTDESC249;In the chaos of battle, your men have managed to corner [From.GetTitledFirstName]! [From.GetSheHeCap] resisted bravely before they slew [From.GetHerHim].;;;;;;;;;;;Â õàîñå áèòâû âðàæåñêèé âîèí, [From.GetTitledFirstName], ïîïàäàåò â îêðóæåíèå Âàøèõ ëþäåé. [From.GetSheHeCap] õðàáðî ñðàæàåòñÿ, íî íå ìîæåò èçáåæàòü ñìåðòè.;;x
+EVTDESC250;In spite of my efforts I have been captured by the armies of [From.GetBestName]!;;;;;;;;;;;Íåñìîòðÿ íà âñå ìîè óñèëèÿ íà ïîëå áîÿ, [From.GetTitledFirstNameWithNick] è [From.GetHersHis] âîéñêà çàõâàòèëè ìåíÿ â ïëåí!;;x
+EVTDESC251;Our enemy has died, the war has ended.;;;;;;;;;;;Íàø âðàã óìåð, âîéíà çàêîí÷èëàñü.;;x
+EVTDESC253;My commander [From.GetTitledFirstName] was cornered and slain by the enemy on the battlefield. [From.GetSheHeCap] fought bravely right until the end.;;;;;;;;;;;[From.GetTitledFirstName], îä[From.GetNaIn] èç ìîèõ ïîëêîâîäöåâ, áûë[From.GetEndA] çàãíàí[From.GetEndA] â óãîë è óáèò[From.GetEndA] íà ïîëå áîÿ. [From.GetSheHeCap] ñðàæà[From.GetLasLsya] õðàáðî äî ñàìîãî êîíöà.;;x
+EVTDESC255;There are less cruel people who would say that my use of unnecessary violence is appalling. Then I would remind them that this is war and war means that there are no such thing as 'unnecessary violence'.;;;;;;;;;;;"Åñòü è ìåíåå æåñòîêèå ëþäè, êîòîðûå ãîâîðÿò, ÷òî ìî¸ èñïîëüçîâàíèå ñèëû çà÷àñòóþ êðîâàâî. Îäíàêî, ÿ õîòåë áû íàïîìíèòü èì, ÷òî ýòî - âîéíà. À íà âîéíå íåò òàêîãî ïîíÿòèÿ, êàê ""èçëèøíåå íàñèëèå"".";;x
+EVTDESC256;I interrupted Marshal [From.GetTitledFirstName] while [From.GetSheHe] was interrogating an prisoner to find out where our enemy would attack next. The soldier who brought me to [From.GetTitledFirstName] accused [From.GetHerHim] of using unnecessary violence and looked at me for support.;;;;;;;;;;;[Root.GetMarshalName] [From.GetTitledFirstName] áûë ïðåðâàí ìíîé, êîãäà äîïðàøèâàë çàêëþ÷¸ííîãî, ñ öåëüþ óçíàòü ó íåãî, ãäå íàø âðàã íàíåñ¸ò ñëåäóþùèé óäàð. Ñîëäàò, êîòîðûé ïðèâ¸ë ìåíÿ ïîñìîòðåòü, êàê ðàáîòàåò [From.GetTitledFirstName], îáâèíÿåò [From.GetHerHim] â èñïîëüçîâàíèè íåíóæíîãî íàñèëèÿ è ñìîòðèò íà ìåíÿ â ïîèñêå ïîääåðæêè.;;x
+EVTDESC261_bad_battle_omen;A skillful soldier almost singlehandedly took down the enemy army in a battle today. It makes me doubt the troublesome vision I had.;;;;;;;;;;;Èñêóñíûé âîèí ñåãîäíÿ â îäèíî÷êó óíè÷òîæèë ïî÷òè öåëûé îòðÿä ïðîòèâíèêà. Â ìî¸ì âèäåíèè áûëî ñîâñåì äðóãîå, ÷òî-òî íå òàê...;;x
+EVTDESC261_good_battle_omen;A soldier has distinguished himself on the battlefield. Such an asset! This must be what the vision was about!;;;;;;;;;;;Âîèí ïðîÿâèë ñåáÿ íà ïîëå áîÿ. Óäèâèòåëüíî! Äîëæíî áûòü ìî¸ âèäåíèå áûëî êàê ðàç îá ýòîì!;;x
+EVTDESC262;During the battle, you fearlessly charged ahead on horseback directly into the enemy ranks. Members of your personal guard riding beside you tumbled off their horses as enemy arrows found their marks, but your charge plowed straight into the enemy skirmishers and your sword ran red with their blood.;;;;;;;;;;;Âî âðåìÿ áîÿ Âû áåññòðàøíî âûðâàëèñü âïåð¸ä íà ëîøàäè ïðÿìî â ðÿäû ïðîòèâíèêà. ×ëåíû Âàøåé ëè÷íîé îõðàíû, åõàâøèå ðÿäîì, ñâàëèëèñü ñ ëîøàäåé, êîãäà âðàæåñêèå ñòðåëû äîñòèãëè ñâîèõ öåëåé, íî Âàø óäàð ïîïàë ïðÿìî âî âðàæåñêèõ ñòðåëêîâ, è Âàø ìå÷ ñòàë êðàñíûì îò êðîâè.;;x
+EVTDESC263;While riding ahead with your personal guard, you suddenly found yourselves isolated on the battlefield and surrounded by enemy soldiers. A violent melee ensued but you gave a good account of yourself and managed to return to the main body of your army in time to lead it to victory.;;;;;;;;;;;Ïðîåçæàÿ âïåð¸ä ñ Âàøåé ëè÷íîé îõðàíîé, Âû âäðóã îêàçàëèñü èçîëèðîâàííûìè íà ïîëå áîÿ â îêðóæåíèè âðàæåñêèõ âîéñê. Ïîñëåäîâàë óæàñíûé ðóêîïàøíûé áîé, íî Âàì óäàëîñü âûñòîÿòü è ïðîáèòüñÿ ê îñíîâíîé àðìèè êàê ðàç âîâðåìÿ, ÷òîáû ïðèâåñòè å¸ ê ïîáåäå.;;x
+EVTDESC264;You were in the thick of it during the battle, and your tally of slain enemy soldiers has impressed even the most grizzled sergeants in your army. As you clean the blood splatter off your sword and armor, the men cheer you for the bravery you displayed in securing this victory.;;;;;;;;;;;Âû áûëè â ñàìîé ãóùå áîÿ, è ñ÷¸ò óáèòûõ Âàìè ñîëäàò âïå÷àòëèë áû ñàìûõ ñåäûõ îôèöåðîâ â àðìèè. Êàê òîëüêî Âû ñ÷èñòèëè êðîâü ñî ñâîåãî ìå÷à è äîñïåõîâ, ëþäè çààïëîäèðîâàëè Âàøåé õðàáðîñòè, êîòîðóþ Âû âûêàçàëè äëÿ îáåñïå÷åíèÿ ýòîé ïîáåäû.;;x
+EVTDESC265;Using your foot as leverage, you pull your sword out of the dead corpse of the last foeman to fall by your hand in the battle. All around you, the men are cheering as the routing enemy soldiers flee in wild panic. Victory has been achieved, in large part thanks to your heroic efforts!;;;;;;;;;;;Èñïîëüçóÿ íîãó, êàê ðû÷àã, Âû âûòÿãèâàåòå ìå÷ èç òðóïà ïîñëåäíåãî âðàãà, óáèòîãî Âàøåé ðóêîé â áèòâå. Âåçäå ëþäè ðàäóþòñÿ, ãëÿäÿ íà áåãóùèõ â ïàíèêå âðàæåñêèõ ñîëäàò. Ïîáåäà äîñòèãíóòà, è âî ìíîãîì áëàãîäàðÿ Âàøèì ãåðîè÷åñêèì óñèëèÿì!;;x
+EVTDESC266;Your commanding presence on the battlefield was felt during the recent victory, by friends and foes alike. You bolstered the spirits of the men when it was needed most, and you personally led the final charge that broke the back of the enemy army.;;;;;;;;;;;Ïðèñóòñòâèå Âàñ â êà÷åñòâå êîìàíäèðà íà ïîëå áîÿ áûëî îùóòèìî âî âðåìÿ íåäàâíåé ïîáåäû, êàê ñîþçíèêàìè, òàê è âðàãàìè. Âû óêðåïèëè äóõ ñâîèõ ëþäåé, êîãäà ýòî áûëî íåîáõîäèìî áîëüøå âñåãî, è Âû ëè÷íî ïðîâåëè çàêëþ÷èòåëüíóþ àòàêó, ñëîìàâøóþ õðåáåò àðìèè ïðîòèâíèêà.;;x
+EVTDESC267;As the enemy scurries away from the battlefield like frightened rabbits, you wipe the sweat off your brow and watch in silence. It was a hard-fought melee, and you were in the thick of it, personally leading your men to victory. Not only have you won this battle, but also a great deal of respect.;;;;;;;;;;;Êîãäà âðàãè íåñóòñÿ ïðî÷ü ñ ïîëÿ áîÿ, êàê èñïóãàííûå êðîëèêè, Âû âûòèðàåòå ïîò ñ ëèöà è òèõî íàáëþäàåòå. Ýòî áûë óïîðíûé áëèæíèé áîé, è Âû áûëè â åãî ãóùå, ëè÷íî ïðèâåäÿ ñâîèõ ëþäåé ê ïîáåäå. Ìàëî òîãî, ÷òî Âû âûèãðàëè ýòó áèòâó, íî è çàâîåâàëè áîëüøîå óâàæåíèå.;;x
+EVTDESC270;This battle has shown my true mettle. I am Brave!;;;;;;;;;;;Ýòà áèòâà ïîêàçàëà ìîé íàñòîÿùèé õàðàêòåð! ß ñìåëûé.;;x
+EVTDESC271;Swords are sharp and dangerous. I can lead better from inside my own castle.;;;;;;;;;;;Ìå÷è îñòðûå è îïàñíûå. ß ìîãó ðóêîâîäèòü áèòâîé è çà ñòåíàìè ìîåãî [Root.GetCapitalBuildingGEN].;;x
+EVTDESC272;Attack! Attack! Attack now! CHARGE!;;;;;;;;;;;Âïåð¸ä! Â Àòàêó! Íàïàäàéòå!;;x
+EVTDESC273;My careful maneuvers in this battle have shown our patient nature to everyone.;;;;;;;;;;;Ìîé òî÷íûé ìàí¸âð â ýòîé áèòâå ïîêàçàë âñåì ìîé õàðàêòåð.;;x
+EVTOPTA249;Good riddance!;;;;;;;;;;;Ñêàòåðòüþ äîðîãà!;;x
+EVTOPTA255;Especially when it is used against your enemies...;;;;;;;;;;;Îñîáåííî, êîãäà îíî èñïîëüçóåòñÿ ïðîòèâ Âàøèõ âðàãîâ...;;x
+EVTOPTA256;That's the cruelty of war;;;;;;;;;;;Âîéíà æåñòîêà.;;x
+EVTOPTA262;Songs will be sung of this day.;;;;;;;;;;;Â ýòîò äåíü âñå áóäóò ïåòü.;;x
+EVTOPTB256;I disapprove of [From.GetHerHis] conduct too;;;;;;;;;;;ß òîæå íå îäîáðÿþ òî, êàê îí âåä¸ò äîïðîñ.;;x
+EVTOPTC256;[From.GetSheHeCap]'s right, we should terrorise our enemy;;;;;;;;;;;Ýòî åãî ïðàâî, ìû äîëæíû áûòü æåñòîêè ñ âðàãàìè.;;x
+EVTDESC96500;Your experience in matters of war has increased and there are many things you will do differently in future battles. What will you focus on?;;;;;;;;;;;Âàø îïûò â âîåííîì èñêóññòâå ïîâûñèëñÿ è ñóùåñòâóåò ìíîãî òàêòèê, êîòîðûå ìîæíî èçìåíèòü. Êàêîâû áóäóò Âàøè ïðåäïî÷òåíèÿ?;;x
+EVTOPTA96500;Master Rough Terrain.;;;;;;;;;;;Ïåðåñå÷¸ííàÿ ìåñòíîñòü;;x
+EVTOPTB96500;Master Flat Terrain.;;;;;;;;;;;Ðàâíèííàÿ ìåñòíîñòü;;x
+EVTOPTC96500;Master Mountain Terrain.;;;;;;;;;;;Ãîðíàÿ ìåñòíîñòü;;x
+EVTOPTD96500;Master Desert Terrain.;;;;;;;;;;;Ïóñòûííàÿ ìåñòíîñòü;;x
+EVTOPTE96500;Focus on Cavalry.;;;;;;;;;;;Óïîð íà êîííèöó;;x
+EVTOPTF96500;Focus on Light Foot.;;;;;;;;;;;Óïîð íà ë¸ãêóþ ïåõîòó;;x
+EVTOPTG96500;Focus on Heavy Infantry.;;;;;;;;;;;Óïîð íà òÿæ¸ëóþ ïåõîòó;;x
+EVTOPTH96500;Focus on the Attack.;;;;;;;;;;;Óïîð íà àòàêó;;x
+EVTOPTI96500;Focus on the Defense.;;;;;;;;;;;Óïîð íà çàùèòó;;x
+EVTOPTJ96500;Learn to Inspire.;;;;;;;;;;;Ó÷èòüñÿ âäîõíîâëÿòü;;x
+EVTOPTK96500;Master Jungle Terrain.;;;;;;;;;;;Äæóíãëè;;x
+EVTOPTL96500;Focus on War Elephants.;;;;;;;;;;;Óïîð íà áîåâûõ ñëîíîâ;;x
+EVTOPTM96500;Master Winter Terrain.;;;;;;;;;;;Çèìíèå óñëîâèÿ;;x
+EVTOPTH96501;Experiment with tactics.;;;;;;;;;;;Ýêñïåðèìåíòèðîâàòü ñ òàêòèêîé;;x
+EVTOPTI96501;Focus on the Flank.;;;;;;;;;;;Óïîð íà ôëàíãè;;x
+EVTOPTJ96501;Focus on mastering defensive terrain.;;;;;;;;;;;Ìàñòåð îáîðîííîé ìåñòíîñòè;;x
+EVTOPTK96501;Focus on siege tactics.;;;;;;;;;;;Óïîð íà îñàäíóþ òàêòèêó;;x
+EVTOPTA96502;Study Organization.;;;;;;;;;;;Èçó÷èòü îðãàíèçàöèþ;;x
+EVTOPTB96502;Focus on the Center.;;;;;;;;;;;Óïîð íà ëîáîâóþ àòàêó;;x
+EVTOPTC96502;Fight with Religious Fervour.;;;;;;;;;;;Âîåâàòü ñ ðåëèãèîçíûì ôàíàòèçìîì;;x
+EVTOPTD96502;Never Surrender.;;;;;;;;;;;Íèêîãäà íå ñäàâàòüñÿ;;x
+245.d2;[Root.GetBestName] received a crushing blow to the head in battle and suffered terrible injury to [Root.GetPossPronoun] face.;;;;;;;;;;;[Root.GetBestName] ïîëó÷èë[Root.GetEndA] ñîêðóøàþùèé óäàð ïî ãîëîâå â áîþ è ñèëüíî ïîâðåäèë[Root.GetEndA] ñâî¸ ëèöî.;;x

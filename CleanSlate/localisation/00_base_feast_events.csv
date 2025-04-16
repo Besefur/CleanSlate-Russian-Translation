@@ -1,322 +1,313 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC72000;While I was busy preparing for my feast, a troop of wandering jongleurs arrived at the castle. They looked a bit ragged but their performance entertained the whole castle. Perhaps I should think about offering them my patronage.;;;;;;;;;;;;;x
-EVTDESC72001;The wandering minstrel entered the castle singing and did not stop until he found me. With a flourishing bow and one long, sad tone from his lute he finished his song and asked for my patronage.;;;;;;;;;;;;;x
-EVTDESC72002;Everybody was talking about the musicians and I finally had some time off from the preparations for my feast so I could see with my own eyes and hear with my own ears what people was talking about. The musicians were good, and they were looking for a patron.;;;;;;;;;;;;;x
-EVTDESC72003;The best part about preparing a feast is deciding what foodstuff to serve. I must purchase venison, boar and duck, spices, wine and ale, honey for the desserts, cheeses and perhaps even a swan or a peacock.;;;;;;;;;;;;;x
-EVTDESC72004;Steward [Root.job_treasurer.GetTitledFirstName] has grave news: part of the castle, where the guests would be staying, would have to be repaired or else [Root.job_treasurer.GetSheHe] couldn't guarantee the guests safety. It would be rather costly but [Root.job_treasurer.GetTitledFirstName] assured me the repairs would be worth the cost.;;;;;;;;;;;;;x
-EVTDESC72005;Bands of robbers are roaming in [Root.Location.GetName] and their very presence threatens my soon to be arriving guests!;;;;;;;;;;;;;x
-EVTDESC72006;The fire blasted right past my face and I felt how my hair started to curl away from the fire. The fire-eater had been a bit too careless for my taste, but his troop and he was clearly greatly skilled.;;;;;;;;;;;;;x
-EVTDESC72007;The conjurer produced a rabbit from a hat, then made a handkerchief change color from brown to red and then he simply vanished from the room, only to knock on the door and open it a few seconds later!;;;;;;;;;;;;;x
-EVTDESC72008;No feast is complete without boar meat. Who will get the prestigious task of hunting and slaying the boars needed for the feast?;;;;;;;;;;;;;x
-EVTDESC72009;When I opened the door I saw no one but as I stepped aside to close it a group of acrobats cartwheeled, somersaulted and tumbled in. They performed all sorts of tricks and everyone watching exploded into applause when they finished.;;;;;;;;;;;;;x
-EVTDESC72010;Most of the preparations for the feast has been made, now I only have to send out the invitations!;;;;;;;;;;;;;x
-EVTDESC72011;Dear [Root.GetBestName], I hereby invite you to the grand feast in [From.Location.GetName]. Your presence at the feast would be greatly appreciated and I look forward to your attendance.\n\n[From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC72012;Dear [Root.GetTitledFirstName], I thank you for your invitation but I will not be able to attend your feast. In fact, I refuse to set my foot in the same castle as you!\n\nRespectfully,\n\n[From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC72015;The guests have finally arrived! All is ready, the cooks have worked day and night preparing the food, and the castle has never looked lovelier.;;;;;;;;;;;;;x
-EVTDESC72016;[From.GetTitledFirstName] greeted us warmly to [From.GetHerHis] feast, wine was served and the most delicious aromas came from the kitchen.;;;;;;;;;;;;;x
-EVTDESC72020;Much thought and consideration had been put into the courses served at [Root.Liege.GetTitledFirstName]'s feast. The venison was so tender it almost melted on the tongue, the boar delicious, the cheeses many and palatable, but the dessert outdid all the other dishes: a large cake with cream, honey and berries...;;;;;;;;;;;;;x
-EVTDESC72021;The courses at the feast were few but palatable. We were served venison, some sort of fowl, a few cheeses, bread and a small dessert. It was not really the abundance of food I had expected [Root.Liege.GetTitledFirstName] to serve at [Root.Liege.GetHerHis] feast.;;;;;;;;;;;;;x
-EVTDESC72022;Instead of the venison, the boar and all kinds of cheeses I had thought [Root.Liege.GetTitledFirstName] would serve at [Root.Liege.GetHerHis] feast, we were served courses that could have been served at dinner at a much poorer [Root.Liege.GetManWoman]'s table.;;;;;;;;;;;;;x
-EVTDESC72023;[From.GetTitledFirstName] spoke up and told everyone how great the food at my feast was. I was really glad someone was kind enough to say something nice about the food, given how hard I had worked to ensure that food was the best part of the feast.;;;;;;;;;;;;;x
-EVTDESC72024;Some of my guests did not seem satisfied with the food, but I would never have thought one of them would have complained out loud! [From.GetTitledFirstName] said a lot of nasty stuff about the food and I couldn't help but feel irritated.;;;;;;;;;;;;;x
-EVTDESC72025;I was seated besides a person I had never really talked with before. We ended up together in the garden with a couple of bottles from [Root.Liege.GetTitledFirstName]'s well-stocked wine cellar.;;;;;;;;;;;;;x
-EVTDESC72026;I enjoyed [From.GetTitledFirstName]'s company and we talked in the garden for several hours until we both fell asleep, maybe because of all that wine we drank...;;;;;;;;;;;;;x
-EVTDESC72027;The feast was great but I couldn't stand [Root.Liege.GetTitledFirstName]'s irritating voice for more than a couple of hours, so I excused myself, grabbed a couple of wine bottles and headed for a quiet corner. Someone else had had the same thought as I and together we shared the wine and our dislike for [Root.Liege.GetTitledFirstName].;;;;;;;;;;;;;x
-EVTDESC72028;When we had escaped from [Root.Liege.GetTitledFirstName]'s feast we shared the wine [From.GetTitledFirstName] brought and talked about our mutual dislike for [Root.Liege.GetTitledFirstName].;;;;;;;;;;;;;x
-EVTDESC72030;I saw my mortal enemy [feast_duel_target.GetTitledFirstName] as soon as I stepped into [Root.Liege.GetTitledFirstName]'s castle. [feast_duel_target.GetHerHisCap] presence was almost more than I could bear and I longed to pick up my sword and impale [feast_duel_target.GetHerHim] with it!;;;;;;;;;;;;;x
-EVTDESC72031;When [From.GetTitledFirstName] challenged me to a duel in front of everyone at the feast I felt almost ashamed for [From.GetHerHim], to challenge someone when both are guests in another man's house is unheard of!;;;;;;;;;;;;;x
-EVTDESC72032;[Root.Liege.GetTitledFirstName] was gracious to let us duel in [Root.Liege.GetHerHis] garden and provided us with a sword each. I attacked first.;;;;;;;;;;;;;x
-EVTDESC72033;The duel is over and my opponent [From.GetTitledFirstName] lies...;;;;;;;;;;;;;x
-EVTDESC72034;'How dare you spoil my feast with your silly quarrel?!'\n\nI managed to stop the duel before anyone was killed but I could tell [From.GetTitledFirstName] did not really listen to me, [From.GetSheHe] looked as eager as ever to settle the scores with [From.GetHerHis] 'mortal enemy' [feast_duel_target.GetTitledFirstName].;;;;;;;;;;;;;x
-EVTDESC72035;[From.GetTitledFirstName] managed to kill [From.GetHerHis] opponent [feast_duel_target.GetTitledFirstName] before I managed to stop the duel.;;;;;;;;;;;;;x
-EVTDESC72036;The duel was over when I reached them, [From.GetTitledFirstName]'s opponent, [feast_duel_target.GetTitledFirstName], lay wounded at [From.GetHerHis] feet.;;;;;;;;;;;;;x
-EVTDESC72037;[From.GetTitledFirstName]'s maimed opponent, [feast_duel_target.GetTitledFirstName], tried to stand up when I reached them, but collapsed once again at [From.GetTitledFirstName]'s feet.;;;;;;;;;;;;;x
-EVTDESC72038;I hear [From.GetTitledFirstName] challenge one of my other guests to a duel and before I have any chance to interfere, the two duellers go outside...;;;;;;;;;;;;;x
-EVTDESC72039;Both [From.GetTitledFirstName] and [FromFrom.GetTitledFirstName] reentered my castle without any visible wounds. It seemed as if [From.GetTitledFirstName] had refused to duel [FromFrom.GetTitledFirstName].;;;;;;;;;;;;;x
-EVTDESC72040;I had a lovely dinner neighbor and after some wine we were both a bit drunk and, if I read the situation correctly, more than attracted to each other.;;;;;;;;;;;;;x
-EVTDESC72041;[From.GetTitledFirstName] and I ended up in a room with a big bed in the middle of the room. Despite the wine and the obvious attraction between us, it suddenly felt a bit awkward being alone together.;;;;;;;;;;;;;x
-EVTDESC72042;I have often thought about the feast when I and [From.GetTitledFirstName] spent a night together. Unfortunately, the night resulted in an unwanted pregnancy...;;;;;;;;;;;;;x
-EVTDESC72045;The wine flowed at [Root.Liege.GetTitledFirstName]'s feast and whenever I emptied my cup a servant refilled it.;;;;;;;;;;;;;x
-EVTDESC72046;The wine was so smooth and good to drink it took a while before I realized I had drunk too much. In fact, I only realized it when [Root.Liege.GetTitledFirstName]'s Steward [Root.Liege.job_treasurer.GetTitledFirstName] asked me if I needed anything and I threw up on [Root.Liege.job_treasurer.GetHerHis] shoes.;;;;;;;;;;;;;x
-EVTDESC72047;[Root.GetTreasurerName] [Root.job_treasurer.GetTitledFirstName] had noticed [From.GetTitledFirstName] had drunk too much wine and was trying to to dissuade [From.GetHerHim] from drinking any more when [From.GetTitledFirstName] threw up on [Root.job_treasurer.GetTitledFirstName]'s shoes.;;;;;;;;;;;;;x
-EVTDESC72048;I vaguely remembered [Root.Liege.GetTitledFirstName]'s feast when I woke up next morning, I remembered the wine but I did not remember getting to the bed I was lying in.;;;;;;;;;;;;;x
-EVTDESC72049;The more wine [From.GetTitledFirstName] drank, the more and louder [From.GetSheHe] talked and laughed until [From.GetSheHe] let out a loud snoring and fell face first into [From.GetHerHis] plate. The servants discreetly removed [From.GetTitledFirstName] from the table and took [From.GetHerHim] to a bedchamber.;;;;;;;;;;;;;x
-EVTDESC72050;When I traveled to [Root.Liege.GetTitledFirstName]'s feast a band of highway robbers attacked me and my retinue. We managed to fend them off and barely escaped with our lives.;;;;;;;;;;;;;x
-EVTDESC72051;[From.GetTitledFirstName] was attacked on [From.GetHerHis] way here by the band of highway robbers that roams the county [Root.Location.GetName]!;;;;;;;;;;;;;x
-EVTDESC72052;Everyone drank and w happy, except [From.GetTitledFirstName] who refused more wine! This insulting gesture means that [From.GetSheHe] does not appreciate my hospitality!;;;;;;;;;;;;;x
-EVTDESC72055;During [Root.GetTitledFirstName]'s feast, a servant spilled wine all over my finest garb ruining its white fabric completely. I grabbed my knife and cut his throat, then returned to my seat and kept eating.;;;;;;;;;;;;;x
-EVTDESC72056;[From.GetTitledFirstName] cut the throat of one of my servants when the clumsy man spilled wine over [From.GetHerHis] garb!;;;;;;;;;;;;;x
-EVTDESC72057;Guards seized me and made me spill even more wine onto my now completely ruined garb. Without a word and deaf to my protests, they carried me to the dungeon of [From.GetTitledFirstName] and left me there.;;;;;;;;;;;;;x
-EVTDESC72060;After having been insulted and been the butt of the jokes for far too long, my patience with my court jester was beginning to run out. One last joke and I don't know what I will do...;;;;;;;;;;;;;x
-EVTDESC72061;It did not surprise me when [From.GetTitledFirstName] lost his temper when [From.GetHerHis] jester told a particularly nasty joke about [From.GetHerHim]. [From.GetTitledFirstName] bellowed for [From.GetHerHis] guards to drag the jester down to the dungeons.;;;;;;;;;;;;;x
-EVTDESC72062;[Root.GetTitledFirstName]'s patience with the jokes [From.GetHerHis] jester told about [From.GetHerHim] was remarkable! A lesser [From.GetManWoman] would surely thrown the jester into [From.GetHerHis] dungeon.;;;;;;;;;;;;;x
-EVTDESC72063;What would a feast be without entertainment? The jongleurs' dexterity and skill impressed and captivated my guests, making me very pleased with them.;;;;;;;;;;;;;x
-EVTDESC72064;The jongleurs [From.GetTitledFirstName] had hired for the feast impressed and captivated all of [From.GetTitledFirstName]'s guests with their dexterity and skill, including me.;;;;;;;;;;;;;x
-EVTDESC72065;The minstrel sang and the ladies wept, the minstrel sang and the lords laughed. His performance at my feast was above my expectations and I congratulated myself for hiring him.;;;;;;;;;;;;;x
-EVTDESC72066;I am not ashamed to admit I both laughed and cried when the minstrel sang. The minstrel's performance at [From.GetTitledFirstName]'s feast was extraordinary!;;;;;;;;;;;;;x
-EVTDESC72067;The musicians played and my guests danced. I made certain I danced with several different persons and I think we all had great fun!;;;;;;;;;;;;;x
-EVTDESC72068;I danced and danced until my face was red and my feet hurt, then I took a short pause and then danced some more. The musicians at [From.GetTitledFirstName]'s feast played so good it was hard to stay still.;;;;;;;;;;;;;x
-EVTDESC72069;People exclaimed in wonder and fear when the fire-eaters performed. After their performance was over many eyebrows and beards were singed but none of the guests seemed to care when they applauded the fire-eaters.;;;;;;;;;;;;;x
-EVTDESC72070;The fire-eaters exited the room unharmed, but the rest of us were slightly singed and some eyebrows could be seen missing. None of us cared though, their performance had been spectacular!;;;;;;;;;;;;;x
-EVTDESC72071;The conjurer's magic tricks enchanted and charmed my guests at the feast, the women squealed with delight when he produced a rabbit from his hat and the men laughed when he made my crown disappear and then found it under the jester's hat!;;;;;;;;;;;;;x
-EVTDESC72072;I laughed so hard when the conjurer first made [From.GetTitledFirstName]'s crown disappear I was afraid I would snort wine through my nose! The feast was great but the conjurer really made the night special.;;;;;;;;;;;;;x
-EVTDESC72075;I made sure the most beautiful lady would be my dinner partner and during the feast I kept refilling both our wine glasses. My charm and my winning smile made it impossible for her to stay unresponsive, it didn't take long until she looked at me with more than interest in her eyes...;;;;;;;;;;;;;x
-EVTDESC72076;[From.GetTitledFirstName] took me on a quick tour of [From.GetHerHis] castle and we ended up in [From.GetHerHis] bedchamber...;;;;;;;;;;;;;x
-EVTDESC72077;The night of passion [From.GetTitledFirstName] and I shared resulted in an unwanted pregnancy, and [From.GetHerHis] husband [From.Spouse.GetTitledFirstName] is not happy about the news...;;;;;;;;;;;;;x
-EVTDESC72080;I started talking to one of my guests at the feast and found them most interesting. Hours flew by, wine bottles were emptied, other guests excused themselves and went to bed but we kept talking until the wee hours...;;;;;;;;;;;;;x
-EVTDESC72081;I had so much fun talking to [From.GetTitledFirstName] I forgot the other guests and the time. When we finally emerged from our latest discussion we realized the other guests had gone to sleep and it was early in the morning.;;;;;;;;;;;;;x
-EVTDESC72085;Some of the guests were invited with a ulterior motive, I want their titles! I had trouble finding one of them alone long enough to set my plan in motion and I was about to scrap it altogether when I finally saw one of them, alone, in the garden...;;;;;;;;;;;;;x
-EVTDESC72086;I was startled when [From.GetTitledName] pulled me aside for a private conversation during the feast. [From.GetTitledName] carefully explained that [From.GetSheHe] felt one of my titles rightfully belonged to [From.GetHerHim].;;;;;;;;;;;;;x
-EVTDESC72087;After several hours of negotiation [From.GetTitledFirstName] agreed to grant me the title. We returned to the feast together and drank a toast to our agreement.;;;;;;;;;;;;;x
-EVTDESC72088;[From.GetTitledFirstName] refused to give me the title I sought after!;;;;;;;;;;;;;x
-EVTDESC72089;The feast was great, until the guards grabbed me and threw me into [From.GetTitledFirstName]'s dungeon! The greedy [From.GetTitledFirstName] might think I would willingly give [From.GetHerHim] the title [From.GetSheHe] wants for my freedom, but I'll prove [From.GetTitledFirstName] I am stronger than [From.GetSheHe] thinks!;;;;;;;;;;;;;x
-EVTDESC72090;I saw the most beautiful girl at the feast and I decided I would try to charm her. She responded to my advances and started making her own, should I take this further?;;;;;;;;;;;;;x
-EVTDESC72091;I saw [From.GetTitledFirstName] together with my daughter and kept a close eye on them. It seemed harmless, just a boy and a girl flirting, but I was relieved when [From.GetTitledFirstName] left my daughter to talk with someone else.;;;;;;;;;;;;;x
-EVTDESC72092;I watched as my daughter and [From.GetTitledFirstName] started talking, flirting with each other. When they left, hand in hand, I had to stop myself from getting up and stalking after them. The looks they gave each other the next day confirmed what I had feared yesterday: [From.GetFirstName] seduced my little girl!;;;;;;;;;;;;;x
-EVTDESC72093;My son seduced [From.GetTitledFirstName]'s daughter at my feast and now [From.GetSheHe] is very angry!;;;;;;;;;;;;;x
-EVTDESC72094;I did not realize the young, beautiful lady I seduced at the feast were [From.GetTitledFirstName]'s daughter! [From.GetSheHeCap] spluttered with anger but I could still make out what [From.GetSheHe] called me...;;;;;;;;;;;;;x
-EVTDESC72095;[From.GetTitledFirstName] came humbly to me and told me how my son had seduced [From.GetHerHis] young, innocent daughter. [From.GetSheHeCap] did not demand anything of me, just seemed upset and I could not really make out how [From.GetSheHe] wanted me to deal with this situation.;;;;;;;;;;;;;x
-EVTDESC72096;The young, beautiful lady I seduced at the feast was none other than [From.GetTitledFirstName]'s daughter! Although [From.GetTitledFirstName] had every right to be upset with me, [From.GetSheHe] offered no advice on how I could make this right.;;;;;;;;;;;;;x
-EVTDESC72097;Not long after the feast, my daughter started to get sick in the mornings and showed all symptoms of being with child. Her little flirt at the feast must have gotten her pregnant!;;;;;;;;;;;;;x
-EVTDESC72098;[From.GetTitledFirstName]'s daughter is pregnant and [From.GetSheHe] demands that I marry her!;;;;;;;;;;;;;x
-EVTDESC72099;My son's flirt with [From.GetTitledFirstName]'s daughter lead to an unexpected pregnancy and now [From.GetTitledFirstName] demands that my son marry her!;;;;;;;;;;;;;x
-EVTDESC72100;I had never thought my [GetFromRelation] would force me to marry the girl I seduced at the feast! She is pregnant and her father demands that I marry her.;;;;;;;;;;;;;x
-EVTDESC72109;I have given the orders for a Great Feast to be hosted in [Root.Location.GetName]. Let the preparations begin...;;;;;;;;;;;;;x
-EVTDESC72110;The last of the guests has returned home and everyone agreed it was this year's greatest feast.;;;;;;;;;;;;;x
-EVTDESC72111;[From.GetTitledFirstName]'s feast is over and it is time to begin the long way home. After the food, the entertainment and the warmth, the real world suddenly feels cold and hostile.;;;;;;;;;;;;;x
-EVTDESC72112;I have to cancel the feast due to the war I am currently fighting against one of my enemies. Perhaps after the war I might throw a victory feast.;;;;;;;;;;;;;x
-EVTDESC72113;Dear [Root.GetTitledFirstName], due to the unfortunate war I have to cancel the feast. I hope you will be able to attend the victory fest I plan to have after the war.\n\n[From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC72115;I almost forgot to eat when I saw the acrobats performing during [From.GetTitledFirstName] and I was the first one to start applauding when their performance was done, wishing they would do just one more somersault, or cartwheel, or even tumble...;;;;;;;;;;;;;x
-EVTDESC72116;[From.GetTitledFirstName]'s plate was still almost full when the acrobats had finished their performance and [From.GetSheHe] applauded almost frantically with a blissed look in [From.GetHerHis] eyes.;;;;;;;;;;;;;x
-EVTDESC72120;The travelling dancers first danced for us and, while dancing to a fast and glad tune which made me want to dance, invited everyone to join them. I danced until I panted and my face was red, then I had to sit down and rest for a while, watching the dancers and the courtiers having more fun than in a long time...;;;;;;;;;;;;;x
-EVTDESC100520;No one would notice if I poisoned my rival's wine at [Root.Liege.GetTitledFirstName]'s feast, the guests would be too preoccupied with gossip, plots and schemes.;;;;;;;;;;;;;x
-EVTDESC100521;I poured the poison into the wine and made sure no one saw me switching the poisoned goblet with my rival's. My rival did not notice anything, too busy talking with [Root.Liege.GetTitledFirstName] and I was mentally congratulating myself when I heard someone swear and the clatter when the goblet hit the floor.;;;;;;;;;;;;;x
-EVTDESC100522;The wine tasted strange, it almost tingled on my tongue but it was quite passable. It wasn't until several hours later, when I started vomiting blood, that I realized the wine must have been poisoned!;;;;;;;;;;;;;x
-EVTDESC100523;The feast was exactly as I had planned it, plenty of food and wine, great entertainment and interesting guests. Too bad someone decided to ruin it for everyone by poisoning the wine!;;;;;;;;;;;;;x
-EVTDESC100524;I watched as [From.GetTitledFirstName] downed the goblet with poisoned wine in a swallowing, burped and called for more. Satisfied, I sat down and enjoyed the food while waiting for the poison to work.;;;;;;;;;;;;;x
-EVTDESC100525;Several witnesses claimed they had seen [FromFrom.GetTitledFirstName] pouring something into the wine and [FromFrom.GetTitledFirstName] confessed soon enough when I confronted [FromFrom.GetHerHim]. Several guests became sick but thank [Root.Religion.GetRandomGodName] no one died, the poison in the wine was too diluted to cause anyone permanent damage.;;;;;;;;;;;;;x
-EVTDESC100526;My father died from the wine [From.GetTitledFirstName] poisoned at [From.Liege.GetTitledFirstName]'s feast! I will avenge my father's death!;;;;;;;;;;;;;x
-EVTDESC100527;I confessed almost as soon as [From.GetTitledFirstName] started question me about the poisoned wine. My rival did not suffer at all from the poisoning but many guest had fallen ill after they had drunk the poisoned wine.;;;;;;;;;;;;;x
-
-EVTOPTA72000;They will be perfect entertainment for the feast!;;;;;;;;;;;;;x
-EVTOPTA72001;I was just looking for some entertainment for my feast!;;;;;;;;;;;;;x
-EVTOPTA72002;I want to offer you my patronage;;;;;;;;;;;;;x
-EVTOPTA72003;I will spend lavishly on food;;;;;;;;;;;;;x
-EVTOPTA72004;Just repair it, I don't care about the cost!;;;;;;;;;;;;;x
-EVTOPTA72005;I send Marshal [Root.job_marshal.GetTitledFirstName] to deal with them;;;;;;;;;;;;;x
-EVTOPTA72006;The guests would be impressed if they entertained at my feast;;;;;;;;;;;;;x
-EVTOPTA72007;You must perform at my feast!;;;;;;;;;;;;;x
-EVTOPTA72008;Send out Marshal [Root.job_marshal.GetTitledFirstName];;;;;;;;;;;;;x
-EVTOPTA72009;You would be perfect for my feast!;;;;;;;;;;;;;x
-EVTOPTA72010;'I hereby invite you to...';;;;;;;;;;;;;x
-EVTOPTA72011;I will travel to the feast;;;;;;;;;;;;;x
-EVTOPTA72012;Well I don't like you either!;;;;;;;;;;;;;x
-EVTOPTA72015;Welcome to my feast!;;;;;;;;;;;;;x
-EVTOPTA72016;Thank you for having us!;;;;;;;;;;;;;x
-EVTOPTA72020;These dishes are heavenly!;;;;;;;;;;;;;x
-EVTOPTA72021;The food is great, [Root.Liege.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTOPTA72022;The dishes reflects your temperance, well done!;;;;;;;;;;;;;x
-EVTOPTA72023;That was well spoken, thank you;;;;;;;;;;;;;x
-EVTOPTA72024;If you don't have something nice to say, shut up!;;;;;;;;;;;;;x
-EVTOPTA72025;I think I have made a new friend;;;;;;;;;;;;;x
-EVTOPTA72026;[From.GetTitledFirstName] ish my besht friend!;;;;;;;;;;;;;x
-EVTOPTA72027;Our mutual dislike made us friends!;;;;;;;;;;;;;x
-EVTOPTA72028;The enemy of my enemy is my friend, right?;;;;;;;;;;;;;x
-EVTOPTA72030;I challenge you to a duel!;;;;;;;;;;;;;x
-EVTOPTA72031;Nonetheless, I accept;;;;;;;;;;;;;x
-EVTOPTA72032;I managed to wound [From.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTOPTA72033;...wounded on the ground;;;;;;;;;;;;;x
-EVTOPTA72034;You disgust me!;;;;;;;;;;;;;x
-EVTOPTA72035;How could you!?;;;;;;;;;;;;;x
-EVTOPTA72036;What on Earth have you done!;;;;;;;;;;;;;x
-EVTOPTA72037;Don't just stand there, help [feast_duel_target.GetHerHim]!;;;;;;;;;;;;;x
-EVTOPTA72038;I try to get to them before it is too late...;;;;;;;;;;;;;x
-EVTOPTA72039;That was sensible of [From.GetHerHim]...;;;;;;;;;;;;;x
-EVTOPTA72040;But we are both married...;;;;;;;;;;;;;x
-EVTOPTA72041;[From.GetFirstName] kissed me and we fell onto the bed...;;;;;;;;;;;;;x
-EVTOPTA72042;...and now [From.GetFirstName]'s spouse [From.Spouse.GetTitledFirstName] hates me;;;;;;;;;;;;;x
-EVTOPTA72045;More wine please!;;;;;;;;;;;;;x
-EVTOPTA72046;Sorry! The wine do not agree with me...;;;;;;;;;;;;;x
-EVTOPTA72047;What a foul smell!;;;;;;;;;;;;;x
-EVTOPTA72048;I think I fell asleep at the table, the wine made me sleepy;;;;;;;;;;;;;x
-EVTOPTA72049;That's disgusting!;;;;;;;;;;;;;x
-EVTOPTA72050;Can't [Root.Liege.GetTitledFirstName] make sure the roads are safe?;;;;;;;;;;;;;x
-EVTOPTA72051;I understand [From.GetHerHis] irritation over this;;;;;;;;;;;;;x
-EVTOPTA72052;How dare [From.GetTitledFirstName] insult me!;;;;;;;;;;;;;x
-EVTOPTA72055;I should have made him pay for the garb before I killed him;;;;;;;;;;;;;x
-EVTOPTA72056;Imprison [From.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTOPTA72057;Am I here because of a dead servant?!;;;;;;;;;;;;;x
-EVTOPTA72060;That's it! Off to prison with you!;;;;;;;;;;;;;x
-EVTOPTA72061;Though, it was not suitable to throw the jester into the dungeon;;;;;;;;;;;;;x
-EVTOPTA72062;[Root.GetTitledFirstName], I applaud your patience;;;;;;;;;;;;;x
-EVTOPTA72063;Your performance was splendid!;;;;;;;;;;;;;x
-EVTOPTA72064;They were wonderful!;;;;;;;;;;;;;x
-EVTOPTA72065;Sing that ballad once more, please!;;;;;;;;;;;;;x
-EVTOPTA72066;I loved every minute of it!;;;;;;;;;;;;;x
-EVTOPTA72067;One more dance!;;;;;;;;;;;;;x
-EVTOPTA72068;I don't want to stop dancing!;;;;;;;;;;;;;x
-EVTOPTA72069;I managed to save both my eyebrows this time!;;;;;;;;;;;;;x
-EVTOPTA72070;Bravo!;;;;;;;;;;;;;x
-EVTOPTA72071;Give that back!;;;;;;;;;;;;;x
-EVTOPTA72072;Do it again! Do it again!;;;;;;;;;;;;;x
-EVTOPTA72075;I like to flirt, but I wouldn't do anything more than that;;;;;;;;;;;;;x
-EVTOPTA72076;[From.GetFirstName] kissed me and I kissed [From.GetHerHim] back and we ended up in the bed...;;;;;;;;;;;;;x
-EVTOPTA72077;I don't regret that night...;;;;;;;;;;;;;x
-EVTOPTA72080;I haven't ever met a more fascinating person!;;;;;;;;;;;;;x
-EVTOPTA72081;We have to do this again, soon!;;;;;;;;;;;;;x
-EVTOPTA72085;Guards! Imprison that person!;;;;;;;;;;;;;x
-EVTOPTA72086;Yes, I will grant you the title;;;;;;;;;;;;;x
-EVTOPTA72087;Thank you!;;;;;;;;;;;;;x
-EVTOPTA72088;I won't forget this!;;;;;;;;;;;;;x
-EVTOPTA72089;The title will never be yours!;;;;;;;;;;;;;x
-EVTOPTA72090;It's fun to flirt;;;;;;;;;;;;;x
-EVTOPTA72091;My daughter made me proud!;;;;;;;;;;;;;x
-EVTOPTA72092;I will tell [From.GetTitledFirstName]'s father!;;;;;;;;;;;;;x
-EVTOPTA72093;Well, what can I do? Nothing!;;;;;;;;;;;;;x
-EVTOPTA72094;There's nothing I can do about it now;;;;;;;;;;;;;x
-EVTOPTA72095;Is there anything I can do?;;;;;;;;;;;;;x
-EVTOPTA72096;Let us forget this ever happened, eh?;;;;;;;;;;;;;x
-EVTOPTA72097;[Root.Liege.GetTitledFirstName] must marry my daughter!;;;;;;;;;;;;;x
-EVTOPTA72098;I accept;;;;;;;;;;;;;x
-EVTOPTA72099;My son has to learn from his mistakes, I accept;;;;;;;;;;;;;x
-EVTOPTA72100;Looks like I have no other choice...;;;;;;;;;;;;;x
-EVTOPTA72109;And all my vassals will be there...;;;;;;;;;;;;;x
-EVTOPTA72110;I had great fun and so did everyone else;;;;;;;;;;;;;x
-EVTOPTA72110_TOOLTIP;Your guests enjoyed the feast, increasing §YOpinion§! by §G5§! for §Y2§! years\n;;;;;;;;;;;;;x
-EVTOPTA72111;Will there be a feast next year?;;;;;;;;;;;;;x
-EVTOPTA72112;Let us hope so;;;;;;;;;;;;;x
-EVTOPTA72113;Ask me then and we'll see;;;;;;;;;;;;;x
-EVTOPTA72115;Bravo! Wonderful!;;;;;;;;;;;;;x
-EVTOPTA72116;So [From.GetSheHe] liked the acrobats...?;;;;;;;;;;;;;x
-EVTOPTA72120;I'd like to hire you for my feast!;;;;;;;;;;;;;x
-EVTOPTA100520;I will take the risk and poison the wine!;;;;;;;;;;;;;x
-EVTOPTA100521;The poisoned wine... wasted!;;;;;;;;;;;;;x
-EVTOPTA100522;...kill... ...me...;;;;;;;;;;;;;x
-EVTOPTA100523;If I find out who did it, they'll be more than sorry!;;;;;;;;;;;;;x
-EVTOPTA100524;[From.GetTitledFirstName] died a slow and painful death from the poison;;;;;;;;;;;;;x
-EVTOPTA100525;Throw the poisoner into the dungeon!;;;;;;;;;;;;;x
-
-EVTOPTB72000;No, I don't think so...;;;;;;;;;;;;;x
-EVTOPTB72001;You are not quite what I am looking for...;;;;;;;;;;;;;x
-EVTOPTB72002;Not good enough, sorry;;;;;;;;;;;;;x
-EVTOPTB72003;Spend enough on food to satisfy everyone's hunger;;;;;;;;;;;;;x
-EVTOPTB72004;Let the guests suffer!;;;;;;;;;;;;;x
-EVTOPTB72005;They haven't killed anyone yet, right?;;;;;;;;;;;;;x
-EVTOPTB72006;Too dangerous! I don't want my guests to catch fire;;;;;;;;;;;;;x
-EVTOPTB72007;Nothing but simple tricks;;;;;;;;;;;;;x
-EVTOPTB72008;Send out my child;;;;;;;;;;;;;x
-EVTOPTB72009;Get out! What do you think you are doing?!;;;;;;;;;;;;;x
-EVTOPTB72011;I will attend this feast over my dead body!;;;;;;;;;;;;;x
-EVTOPTB72020;People are starving and you serve this abundance of food?;;;;;;;;;;;;;x
-EVTOPTB72021;Where's the boar?;;;;;;;;;;;;;x
-EVTOPTB72022;Is this what you serve your guests? Shame on you!;;;;;;;;;;;;;x
-EVTOPTB72030;I wouldn't want to spoil the feast;;;;;;;;;;;;;x
-EVTOPTB72031;I don't want to spoil the feast, let us do this another time;;;;;;;;;;;;;x
-EVTOPTB72032;I managed to maim [From.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTOPTB72033;...maimed on the ground;;;;;;;;;;;;;x
-EVTOPTB72035;Well done!;;;;;;;;;;;;;x
-EVTOPTB72036;Excellent work!;;;;;;;;;;;;;x
-EVTOPTB72037;[feast_duel_target.GetTitledFirstName] surely deserved it;;;;;;;;;;;;;x
-EVTOPTB72040;May I suggest we retreat to a more private place?;;;;;;;;;;;;;x
-EVTOPTB72041;I kissed [From.GetFirstName] and we fell onto the bed...;;;;;;;;;;;;;x
-EVTOPTB72045;No more wine for me, please;;;;;;;;;;;;;x
-EVTOPTB72056;[From.GetSheHeCap] did the right thing;;;;;;;;;;;;;x
-EVTOPTB72060;I really shouldn't let [insulting_jester.GetHerHim] get on my nerves like this;;;;;;;;;;;;;x
-EVTOPTB72075;I'd like to show you the castle, especially my bedchamber...;;;;;;;;;;;;;x
-EVTOPTB72076;We should return to the others now...;;;;;;;;;;;;;x
-EVTOPTB72085;I have something important I need to discuss with you...;;;;;;;;;;;;;x
-EVTOPTB72086;I refuse to give you the title!;;;;;;;;;;;;;x
-EVTOPTB72089;Wait... I'll give you the title, just let me out!;;;;;;;;;;;;;x
-EVTOPTB72090;I'll give her a good tumble!;;;;;;;;;;;;;x
-EVTOPTB72092;[From.GetTitledFirstName], how could you?;;;;;;;;;;;;;x
-EVTOPTB72097;[Root.Liege.GetTitledFirstName]'s son must marry my daughter!;;;;;;;;;;;;;x
-EVTOPTB72098;Never!;;;;;;;;;;;;;x
-EVTOPTB72099;My son will never marry your daughter!;;;;;;;;;;;;;x
-EVTOPTB72120;Great fun, but my guests are too old for this;;;;;;;;;;;;;x
-EVTOPTB100520;I dare not, what if I was to be discovered?;;;;;;;;;;;;;x
-EVTOPTB100522;The poison did not kill me, but it made me infirm;;;;;;;;;;;;;x
-EVTOPTB100524;The poison did not kill [From.GetTitledFirstName], only made [From.GetHerHim] infirm;;;;;;;;;;;;;x
-EVTOPTB100525;Banish the poisoner, as far away as possible!;;;;;;;;;;;;;x
-
-EVTOPTC72003;I don't want to spend too much on food;;;;;;;;;;;;;x
-EVTOPTC72008;I will hunt the boars myself;;;;;;;;;;;;;x
-EVTOPTC72020;I will just keep quiet about the food;;;;;;;;;;;;;x
-EVTOPTC72021;This is good enough for me;;;;;;;;;;;;;x
-EVTOPTC72022;It is not my place to criticise the food;;;;;;;;;;;;;x
-EVTOPTC72033;...dead on the ground;;;;;;;;;;;;;x
-EVTOPTC72035;I have nothing I want to say to you...;;;;;;;;;;;;;x
-EVTOPTC72036;Leave, now!;;;;;;;;;;;;;x
-EVTOPTC72037;Leave my feast, now!;;;;;;;;;;;;;x
-EVTOPTC72041;The awkwardness of the situation made me leave the room;;;;;;;;;;;;;x
-EVTOPTC72056;Some gold will keep the servants quiet.;;;;;;;;;;;;;x
-EVTOPTC72085;I have enough titles, I don't need one more;;;;;;;;;;;;;x
-EVTOPTC72092;Grovel to [From.GetTitledFirstName]'s [FromFrom.GetFatherMother];;;;;;;;;;;;;x
-EVTOPTC72097;Hold my anger;;;;;;;;;;;;;x
-EVTOPTC100522;The poison... it buuurns...;;;;;;;;;;;;;x
-EVTOPTC100524;The poison made [From.GetTitledFirstName] sick as a pig;;;;;;;;;;;;;x
-EVTOPTC100525;No one died, so I'll be merciful;;;;;;;;;;;;;x
-
-EVTOPTD72003;I will see to it that we make use of existing recipes, for inspiration.;;;;;;;;;;;;;x
-EVTOPTD72003_buddy_cannibal_tt;Your [potential_cannibal.GetRootRelation] takes charge of the administration of food...;;;;;;;;;;;;;x
-EVTOPTD72003_cannibal_tt;You find yourself unable to put the book down...;;;;;;;;;;;;;x
-EVTOPTD72003_cheap;Let's make use of this little book, why don't we?;;;;;;;;;;;;;x
-EVTOPTD72008;Force the peasants to hunt;;;;;;;;;;;;;x
-EVTOPTD72092;Grovel to [From.GetTitledFirstName];;;;;;;;;;;;;x
-
-EVTOPTG4165;I think I'll need to pay them better;;;;;;;;;;;;;x
-
-EVTTOOLTIP72011;[This.GetTitledFirstName] is invited to [Root.GetTitledFirstName]'s feast;;;;;;;;;;;;;x
-EVTTOOLTIP72012;[From.GetTitledFirstName] is greatly disappointed by [Root.GetTitledFirstName] refusal;;;;;;;;;;;;;x
-EVTTOOLTIP72016;[This.GetTitledFirstName] is greeted by [Root.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP72023;[This.GetTitledFirstName] is glad [Root.GetTitledFirstName] liked the food at the feast;;;;;;;;;;;;;x
-EVTTOOLTIP72024;[Root.GetTitledFirstName] complaints about the food irritates [This.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP72026;[This.GetTitledFirstName] and [Root.GetTitledFirstName] is now friends;;;;;;;;;;;;;x
-EVTTOOLTIP72028;Their mutual dislike of [Root.Liege.GetTitledFirstName] made [This.GetTitledFirstName] and [Root.GetTitledFirstName] become friends;;;;;;;;;;;;;x
-EVTTOOLTIP72031;[feast_duel_target.GetTitledFirstName] is challenged to a duel by [Root.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP72033;The duel is over;;;;;;;;;;;;;x
-EVTTOOLTIP72034;[This.GetTitledFirstName] interferes and stops the duel;;;;;;;;;;;;;x
-EVTTOOLTIP72035;[This.GetTitledFirstName] is notified about the fate of your opponent.;;;;;;;;;;;;;x
-EVTTOOLTIP72036;[This.GetTitledFirstName] is notified about wounded opponent;;;;;;;;;;;;;x
-EVTTOOLTIP72037;[This.GetTitledFirstName] is notified about maimed opponent;;;;;;;;;;;;;x
-EVTTOOLTIP72041;[This.GetTitledFirstName] and [Root.GetTitledFirstName] slipped away unnoticed from the feast together;;;;;;;;;;;;;x
-EVTTOOLTIP72042;A small surprise awaits [This.GetTitledFirstName]...;;;;;;;;;;;;;x
-EVTTOOLTIP72047;[Root.GetTitledFirstName]'s problem with wine disgusts [This.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP72049;[Root.GetTitledFirstName]'s behavior disgusts [This.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP72051;[Root.GetTitledFirstName] complains to [This.GetTitledFirstName] about the band of highway robbers;;;;;;;;;;;;;x
-EVTTOOLTIP72052;You refusing more wine insults [This.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP72056;[This.GetTitledFirstName] reacts to the killing of [This.GetHerHis] servant;;;;;;;;;;;;;x
-EVTTOOLTIP72061;[This.GetTitledFirstName] reacts to [Root.GetTitledFirstName] imprisoning [Root.GetHerHis] own jester;;;;;;;;;;;;;x
-EVTTOOLTIP72062;[This.GetTitledFirstName] reacts to how graciously [Root.GetTitledFirstName] puts up with [Root.GetHerHis] jester's jokes;;;;;;;;;;;;;x
-EVTTOOLTIP72064;[This.GetTitledFirstName] greatly approves of the jugglers;;;;;;;;;;;;;x
-EVTTOOLTIP72066;[This.GetTitledFirstName] greatly approves of the minstrel;;;;;;;;;;;;;x
-EVTTOOLTIP72068;[This.GetTitledFirstName] greatly approves of the musicians;;;;;;;;;;;;;x
-EVTTOOLTIP72070;[This.GetTitledFirstName] greatly approves of the fire-eaters;;;;;;;;;;;;;x
-EVTTOOLTIP72072;[This.GetTitledFirstName] greatly approves of the conjurer;;;;;;;;;;;;;x
-EVTTOOLTIP72076;[Root.GetTitledFirstName] gives [This.GetTitledFirstName] a tour of the castle and [Root.GetHerHis] bedchamber especially...;;;;;;;;;;;;;x
-EVTTOOLTIP72077;A night of passion came with a prize...;;;;;;;;;;;;;x
-EVTTOOLTIP72081;[This.GetTitledFirstName] and [Root.GetTitledFirstName] becomes great friends;;;;;;;;;;;;;x
-EVTTOOLTIP72086;[Root.GetTitledFirstName] tries to negotiate with [This.GetTitledFirstName] about the title;;;;;;;;;;;;;x
-EVTTOOLTIP72087;[Root.GetTitledFirstName] grants [This.GetTitledFirstName] the title [This.GetSheHe] wants;;;;;;;;;;;;;x
-EVTTOOLTIP72088;[Root.GetTitledFirstName] refuses to grant [This.GetTitledFirstName] the title;;;;;;;;;;;;;x
-EVTTOOLTIP72091;[This.GetTitledFirstName] approves of [Root.GetTitledFirstName]'s harmless flirting with [This.GetHerHis] daughter;;;;;;;;;;;;;x
-EVTTOOLTIP72092;[This.GetTitledFirstName] disapproves of [Root.GetTitledFirstName] seducing [This.GetHerHis] daughter;;;;;;;;;;;;;x
-EVTTOOLTIP72093;[This.GetTitledFirstName] is told about [This.GetHerHis] son seducing [Root.GetTitledFirstName]'s daughter;;;;;;;;;;;;;x
-EVTTOOLTIP72094;[Root.GetTitledFirstName] confronts [This.GetTitledFirstName] about seducing [Root.GetHerHis] daughter;;;;;;;;;;;;;x
-EVTTOOLTIP72095;[Root.GetTitledFirstName] asks for [This.GetTitledFirstName]'s support in this matter;;;;;;;;;;;;;x
-EVTTOOLTIP72096;[Root.GetTitledFirstName] humbly asks [This.GetTitledFirstName] to make this right;;;;;;;;;;;;;x
-EVTTOOLTIP72098;[Root.GetTitledFirstName] demands [This.GetTitledFirstName] marry [Root.GetTitledFirstName]'s pregnant daughter;;;;;;;;;;;;;x
-EVTTOOLTIP72099;[Root.GetTitledFirstName] demands [This.GetTitledFirstName]'s son marry [Root.GetTitledFirstName]'s pregnant daughter;;;;;;;;;;;;;x
-EVTTOOLTIP72100;[This.GetTitledFirstName] is forced to marry the vassal's pregnant daughter;;;;;;;;;;;;;x
-EVTTOOLTIP72111;[This.GetTitledFirstName] leaves the feast;;;;;;;;;;;;;x
-EVTTOOLTIP72113;A letter to all invited is sent out to announce the cancellation of the feast;;;;;;;;;;;;;x
-EVTTOOLTIP100523;The poisoned wine intended for [Root.GetTitledFirstName]'s rival finds [This.GetTitledFirstName] lips instead;;;;;;;;;;;;;x
-EVTTOOLTIP100524;[Root.GetTitledFirstName] was poisoned by [From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP100525;[Root.GetTitledFirstName] was accidentally poisoned by [From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTTOOLTIP100526;[This.GetTitledFirstName] will avenge [This.GetHerHis] father [This.Father.GetTitledFirstName];;;;;;;;;;;;;x
-
-EVTDESC4160;The acrobats performed somersaults, cartwheels and tumbles with great skill during the course of my feast. One of them arrived in a chest seemingly too small to hold a person but he showed us how he, by distorting his body, could fit into the chest...;;;;;;;;;;;;;x
-EVTDESC4165;I thought the food was superb, the wine mediocre and the dancers beautiful. Some of the more inebriated guests joined the dancers in a quadrille.;;;;;;;;;;;;;x
-
-EVTOPTA4165;I think I'll join them too;;;;;;;;;;;;;x
-EVTOPTD4160;Their skills are fascinating but unsettling;;;;;;;;;;;;;x
+EVTDESC72000;While I was busy preparing for my feast, a troop of wandering jongleurs arrived at the castle. They looked a bit ragged but their performance entertained the whole castle. Perhaps I should think about offering them my patronage.;;;;;;;;;;;Âî âðåìÿ ìîèõ ïðèãîòîâëåíèé ê ïèðó, òðóïïà ñòðàíñòâóþùèõ ìåíåñòðåëåé ïîñåòèëà ìîé [Root.GetCapitalBuilding]. Îíè ñëåãêà ïîõîäèëè íà îáîðâàíöåâ, íî èõ âûñòóïëåíèå ðàçâëåêëî âñåõ. Âîçìîæíî, ìíå ñòîèò ïîäóìàòü î ïðåäëîæåíèè èì ñâîåãî ïàòðîíàæà.;;x
+EVTDESC72001;The wandering minstrel entered the castle singing and did not stop until he found me. With a flourishing bow and one long, sad tone from his lute he finished his song and asked for my patronage.;;;;;;;;;;;Ñòðàíñòâóþùèé ìåíåñòðåëü ñ ïåíèåì âîø¸ë â ìîé [Root.GetCapitalBuilding] è íå ïðåêðàùàë ïåòü, ïîêà íå íàø¸ë ìåíÿ. Èçÿùíî ïîêëîíèâøèñü è èçäàâ äîëãèé ïå÷àëüíûé çâóê ñâîåé ëþòíåé, îí çàêîí÷èë âûñòóïëåíèå è ïîïðîñèë ìîåãî ïîêðîâèòåëüñòâà.;;x
+EVTDESC72002;Everybody was talking about the musicians and I finally had some time off from the preparations for my feast so I could see with my own eyes and hear with my own ears what people was talking about. The musicians were good, and they were looking for a patron.;;;;;;;;;;;Âñå òàê ìíîãî ãîâîðèëè î ìóçûêàíòàõ, ÷òî ÿ, íàêîíåö, ðåøèë[Root.GetEndA] óäåëèòü íåêîòîðîå âðåìÿ èç ïîäãîòîâêè ê ïèðó, ÷òîáû óâèäåòü ñâîèìè ãëàçàìè è óñëûøàòü òî, î ÷¸ì ãîâîðÿò ëþäè. Ìóçûêàíòû õîðîøè, è, ìåæäó ïðî÷èì, èùóò ïîêðîâèòåëÿ.;;x
+EVTDESC72003;The best part about preparing a feast is deciding what foodstuff to serve. I must purchase venison, boar and duck, spices, wine and ale, honey for the desserts, cheeses and perhaps even a swan or a peacock.;;;;;;;;;;;Ëó÷øàÿ ÷àñòü ïîäãîòîâêè ïðàçäíèêà - îïðåäåëåíèå òîãî, ÷òî áóäåò íà ñòîëå â âèäå óãîùåíèÿ. Íóæíî êóïèòü îëåíèíû, êàáàíà è óòêó, ñïåöèè, âèíî è ïèâî, ì¸ä, äðóãèå äåñåðòû, ñûðû è, âîçìîæíî, äàæå ëåáåäÿ èëè ïàâëèíà.;;x
+EVTDESC72004;Steward [Root.job_treasurer.GetTitledFirstName] has grave news: part of the castle, where the guests would be staying, would have to be repaired or else [Root.job_treasurer.GetSheHe] couldn't guarantee the guests safety. It would be rather costly but [Root.job_treasurer.GetTitledFirstName] assured me the repairs would be worth the cost.;;;;;;;;;;;[Root.GetTreasurerName] [Root.job_treasurer.GetTitledFirstName] ïðèø¸ë ñ îáåñêóðàæèâàþùèìè íîâîñòÿìè: ÷àñòü [Root.GetCapitalBuildingGEN], ãäå áóäóò íàõîäèòüñÿ ãîñòè, äîëæíà áûòü îòðåìîíòèðîâàíà, â èíîì ñëó÷àå [Root.job_treasurer.GetSheHe] íå ìîæåò ãàðàíòèðîâàòü áåçîïàñíîñòü ãîñòåé. Ýòî áóäåò äîâîëüíî äîðîãî, íî [Root.job_treasurer.GetTitledFirstName] çàâåðèë ìåíÿ, ÷òî ðåìîíò áóäåò ñòîèòü çàòðàò.;;x
+EVTDESC72005;Bands of robbers are roaming in [Root.Location.GetName] and their very presence threatens my soon to be arriving guests!;;;;;;;;;;;Áàíäû ãðàáèòåëåé áëóæäàþò â îáëàñòè [Root.Location.GetName] è ñàìî èõ ïðèñóòñòâèå óãðîæàåò ìîèì, â áëèæàéøåì âðåìåíè ïðèáûâàþùèì ãîñòÿì!;;x
+EVTDESC72006;The fire blasted right past my face and I felt how my hair started to curl away from the fire. The fire-eater had been a bit too careless for my taste, but his troop and he was clearly greatly skilled.;;;;;;;;;;;Ñòðóÿ îãíÿ ïðîøëà ìèìî ìîåãî ëèöà, è ìîè âîëîñû íà÷àëè âèòüñÿ îò æàðà. Ïîæèðàòåëü îãíÿ áûë ñëèøêîì íåáðåæåí, íà ìîé âêóñ, îäíàêî åãî òðóïïà è îí ñàì áûëè ÿâíî î÷åíü êâàëèôèöèðîâàííû.;;x
+EVTDESC72007;The conjurer produced a rabbit from a hat, then made a handkerchief change color from brown to red and then he simply vanished from the room, only to knock on the door and open it a few seconds later!;;;;;;;;;;;Ôîêóñíèê äîñòàë êðîëèêà èç øëÿïû, ïîòîì ñîòâîðèë ïëàòîê, èçìåíÿÿ åãî öâåò îò êîðè÷íåâîãî äî êðàñíîãî, à ïîòîì îí... ïðîñòî èñ÷åç èç êîìíàòû, òîëüêî äëÿ òîãî, ÷òîáû ïîñòó÷àòü â äâåðü è îòêðûòü åå íåñêîëüêî ñåêóíä ñïóñòÿ!!!;;x
+EVTDESC72008;No feast is complete without boar meat. Who will get the prestigious task of hunting and slaying the boars needed for the feast?;;;;;;;;;;;Íè îäèí ïèð íå îáõîäèòñÿ áåç ìÿñà êàáàíà. Êîìó æå äîñòàíåòñÿ ÷åñòü îõîòû è óáèéñòâà êàáàíà, íåîáõîäèìîãî äëÿ ïðàçäíèêà?;;x
+EVTDESC72009;When I opened the door I saw no one but as I stepped aside to close it a group of acrobats cartwheeled, somersaulted and tumbled in. They performed all sorts of tricks and everyone watching exploded into applause when they finished.;;;;;;;;;;;Îòêðûâ äâåðü, ìíå íèêîãî íå óäàëîñü óâèäåòü, íî ñòîèëî ïîäîéòè ïîáëèæå, ÷òîáû å¸ çàêðûòü, êàê ãðóïïà àêðîáàòîâ, ñîâåðøàÿ êóëüáèòû è êóâûðêàÿñü, ïðîøëà â íå¸. Îíè èñïîëíÿëè âñåâîçìîæíûå âèäû àêðîáàòè÷åñêèõ òðþêîâ, è êàæäûé, êòî íàáëþäàë çà íèìè, íå óäåðæàëñÿ îò àïëîäèñìåíòîâ, êîãäà îíè çàêîí÷èëè.;;x
+EVTDESC72010;Most of the preparations for the feast has been made, now I only have to send out the invitations!;;;;;;;;;;;Áîëüøàÿ ÷àñòü ïîäãîòîâêè ê ïðàçäíèêó îêîí÷åíà, îñòàëîñü òîëüêî ðàçîñëàòü ïðèãëàøåíèÿ!;;x
+EVTDESC72011;Dear [Root.GetBestName], I hereby invite you to the grand feast in [From.Location.GetName]. Your presence at the feast would be greatly appreciated and I look forward to your attendance.\n\n[From.GetTitledFirstName];;;;;;;;;;;Óâàæàåì[Root.GetAyaYy] [Root.GetTitledFirstName], ÿ ïðèãëàøàþ Âàñ íà áîëüøîé ïðàçäíèê, êîòîðûé ÿ îðãàíèçóþ. [From.Location.GetName] ïðèìåò âñåõ. Âàøå ïðèáûòèå íà ïðàçäíèê áóäåò âûñîêî îöåíåíî, ÿ ñ íåòåðïåíèåì æäó Âàøåãî ïðèñóòñòâèÿ.\n[From.GetTitledFirstName];;x
+EVTDESC72012;Dear [Root.GetTitledFirstName], I thank you for your invitation but I will not be able to attend your feast. In fact, I refuse to set my foot in the same castle as you!\n\nRespectfully,\n\n[From.GetTitledFirstName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], ÿ áëàãîäàðþ Âàñ çà ïðèãëàøåíèå, íî ÿ íå ñìîãó ïðèñóòñòâîâàòü íà Âàøåì ïèðó. Íà ñàìîì äåëå, ÿ íå õî÷ó ñòóïàòü ïî òîé æå çåìëå, ïî êîòîðîé õîäèòå è Âû!\n\nÑ óâàæåíèåì,\n\n[From.GetTitledFirstName];;x
+EVTDESC72015;The guests have finally arrived! All is ready, the cooks have worked day and night preparing the food, and the castle has never looked lovelier.;;;;;;;;;;;Ãîñòè íàêîíåö-òàêè ïðèáûëè! Âñ¸ ãîòîâî, ïîâàðà ðàáîòàëè äåíü è íî÷ü, ãîòîâÿ íà ñòîë, äà è ìîé [Root.GetCapitalBuilding] íèêîãäà íå âûãëÿäåë òàê ïðèâëåêàòåëüíî.;;x
+EVTDESC72016;[From.GetTitledFirstName] greeted us warmly to [From.GetHerHis] feast, wine was served and the most delicious aromas came from the kitchen.;;;;;;;;;;;[From.GetTitledFirstName] âñòðåòèë[From.GetEndA] íàñ òåïëî íà ñâî¸ì ïèðó, íà âõîäå ïîäàâàëè âèíî è çàìå÷àòåëüíûå àðîìàòû òÿíóëèñü èç êóõíè.;;x
+EVTDESC72020;Much thought and consideration had been put into the courses served at [Root.Liege.GetTitledFirstName]'s feast. The venison was so tender it almost melted on the tongue, the boar delicious, the cheeses many and palatable, but the dessert outdid all the other dishes: a large cake with cream, honey and berries...;;;;;;;;;;;Ìíîãî äîãàäîê è ïðåäïîëîæåíèé áûëî âûäâèíóòî ïî ïîâîäó òîãî, ÷òî [Root.Liege.GetTitledFirstName] ïîäàñò íà ñòîë. Ðåàëüíîñòü ïðåâçîøëà âñå îæèäàíèÿ. Îëåíèíà áûëà áåçóìíî íåæíà, îíà ïî÷òè òàÿëà íà ÿçûêå, îò êàáàíà ìíîãèå ïðîñòî íå ìîãëè îòîðâàòüñÿ, ðàçíîîáðàçíûå ñûðû ïîðàæàëè ñâîèì âêóñîì, íî äåñåðò ïðåâçîø¸ë âñå äðóãèå áëþäà: áîëüøîé òîðò ñî ñëèâêàìè, ì¸äîì è ÿãîäàìè...;;x
+EVTDESC72021;The courses at the feast were few but palatable. We were served venison, some sort of fowl, a few cheeses, bread and a small dessert. It was not really the abundance of food I had expected [Root.Liege.GetTitledFirstName] to serve at [Root.Liege.GetHerHis] feast.;;;;;;;;;;;Áëþä íà ïðàçäíèêå áûëî íåìíîãî, íî âñå äîñòàòî÷íî àïïåòèòíû. Ïîäàâàëè îëåíèíó, êàêóþ-òî ïòèöó, íåñêîëüêî âèäîâ ñûðà, âûïå÷êó è ìàëåíüêèé äåñåðò. ß îæèäàë[Root.GetEndA], ÷òî [Root.Liege.GetTitledFirstName] íàêðîåò ñòîë ïîðàçíîîáðàçíåå íà ñâî¸ì ïèðó.;;x
+EVTDESC72022;Instead of the venison, the boar and all kinds of cheeses I had thought [Root.Liege.GetTitledFirstName] would serve at [Root.Liege.GetHerHis] feast, we were served courses that could have been served at dinner at a much poorer [Root.Liege.GetManWoman]'s table.;;;;;;;;;;;Âìåñòî äè÷è, êàáàíà è ðàçíîîáðàçíûõ ñûðîâ, êîòîðûå, êàê ÿ äóìàë, [Root.Liege.GetTitledFirstName] ïîäàñò íà ñâî¸ì ïèðó, ïîäàâàëè áëþäà, êîòîðûå ïîíÿòíåå áûëî áû óâèäåòü íà ñòîëå ó áîëåå áåäíîãî ÷åëîâåêà.;;x
+EVTDESC72023;[From.GetTitledFirstName] spoke up and told everyone how great the food at my feast was. I was really glad someone was kind enough to say something nice about the food, given how hard I had worked to ensure that food was the best part of the feast.;;;;;;;;;;;[From.GetTitledFirstName] íå óäåðæà[From.GetLasLsya] è ïîâåäàë[From.GetEndA] âñåì, êàê ïðåêðàñíû áûëè óãîùåíèÿ íà ìî¸ì ïèðó. Ìíå áûëî î÷åíü ïðèÿòíî, ÷òî õîòü êòî-òî îêàçàëñÿ äîñòàòî÷íî ëþáåçåí äëÿ òîãî, ÷òîáû ñêàçàòü íåñêîëüêî õîðîøèõ ñëîâ î ïèðå, ó÷èòûâàÿ òî, êàê ìíîãî ÿ ðàáîòàë[Root.GetEndA], ÷òîáû ñòîë ñòàë ëó÷øåé ÷àñòüþ ïðàçäíèêà.;;x
+EVTDESC72024;Some of my guests did not seem satisfied with the food, but I would never have thought one of them would have complained out loud! [From.GetTitledFirstName] said a lot of nasty stuff about the food and I couldn't help but feel irritated.;;;;;;;;;;;Íåêîòîðûå èç ìîèõ ãîñòåé íå êàçàëèñü äîâîëüíûìè óãîùåíèÿìè, íî ÿ íå ìîã[Root.GetNoneE] è ïîäóìàòü, ÷òî îäèí èç íèõ ïîæàëóåòñÿ âñëóõ! [From.GetTitledFirstName] íàãîâîðèë[From.GetEndA] ìíîãî ãàäîñòåé î åäå, è ÿ íå ìîãó íå ÷óâñòâîâàòü ñâî¸ ðàçäðàæåíèå.;;x
+EVTDESC72025;I was seated besides a person I had never really talked with before. We ended up together in the garden with a couple of bottles from [Root.Liege.GetTitledFirstName]'s well-stocked wine cellar.;;;;;;;;;;;Ìåíÿ ïîñàäèëè íàïðîòèâ ÷åëîâåêà, ñ êîòîðûì ìíå íèêîãäà ïðåæäå íå äîâîäèëîñü îáùàòüñÿ. Ìû îêàçàëèñü âìåñòå â ñàäó ñ íåñêîëüêèìè áóòûëêàìè èç ïðåêðàñíîãî âèííîãî ïîãðåáà, êîòîðûì âëàäååò [Root.Liege.GetTitledFirstName].;;x
+EVTDESC72026;I enjoyed [From.GetTitledFirstName]'s company and we talked in the garden for several hours until we both fell asleep, maybe because of all that wine we drank...;;;;;;;;;;;Îêàçàëîñü, [From.GetTitledFirstName] - ïðåêðàñíûé ñîáåñåäíèê. Ìû íàñëàæäàëèñü îáùåñòâîì äðóã äðóãà è ãîâîðèëè â ñàäó â òå÷åíèå íåñêîëüêèõ ÷àñîâ, ïîêà íå çàñíóëè. Âîçìîæíî, äåëî â íåìûñëèìîì êîëè÷åñòâå âèíà, êîòîðîå ìû âûïèëè...;;x
+EVTDESC72027;The feast was great but I couldn't stand [Root.Liege.GetTitledFirstName]'s irritating voice for more than a couple of hours, so I excused myself, grabbed a couple of wine bottles and headed for a quiet corner. Someone else had had the same thought as I and together we shared the wine and our dislike for [Root.Liege.GetTitledFirstName].;;;;;;;;;;;Ïèð áûë îòëè÷íûì, íî [Root.Liege.GetTitledFirstName] èìååò ñòîëü ðàçäðàæàþùèé ãîëîñ... åãî íåâîçìîæíî âûäåðæèâàòü ñòîëüêî ÷àñîâ ïîäðÿä. Èçâèíèâøèñü è çàõâàòèâ ñ ñîáîé íåñêîëüêî áóòûëîê âèíà, ÿ îòïðàâè[Root.GetLasLsya] èñêàòü ñåáå òèõèé óãîëîê. Êòî-òî èç ãîñòåé ïðèø¸ë ê òîé æå ñàìîé ìûñëè. Âìåñòå ìû ðàçäåëèëè âèíî è òó íåïðèÿçíü, êîòîðóþ âûçâàë[Root.Liege.GetEndA] ó íàñ [Root.Liege.GetTitledFirstName].;;x
+EVTDESC72028;When we had escaped from [Root.Liege.GetTitledFirstName]'s feast we shared the wine [From.GetTitledFirstName] brought and talked about our mutual dislike for [Root.Liege.GetTitledFirstName].;;;;;;;;;;;Êîãäà ìû ñáåæàëè ñ ïèðà, êîòîðûé îðãàíèçîâàë [Root.Liege.GetTitledFirstName], ìû ðàñïèâàëè âèíî, êîòîðîå ïðèíåñ[From.GetNoneE] [From.GetTitledFirstName] è ãîâîðèëè î òîé íåïðèÿçíè, êîòîðóþ âûçâàë[Root.Liege.GetEndA] ó íàñ [Root.Liege.GetTitledFirstName].;;x
+EVTDESC72030;I saw my mortal enemy [feast_duel_target.GetTitledFirstName] as soon as I stepped into [Root.Liege.GetTitledFirstName]'s castle. [feast_duel_target.GetHerHisCap] presence was almost more than I could bear and I longed to pick up my sword and impale [feast_duel_target.GetHerHim] with it!;;;;;;;;;;;Êàê òîëüêî ÿ ïðèáûë[Root.GetEndA] íà ïðàçäíèê, êîòîðûé óñòðîèë[Root.Liege.GetEndA] [Root.Liege.GetTitledFirstName] â ñâîåé ðåçèäåíöèè, òóò æå çàìåòèë[Root.GetEndA], ÷òî [feast_duel_target.GetTitledFirstName], ìîé çàêëÿòûé âðàã, òîæå òàì. ß ñ òðóäîì ñäåðæèâàþñü, ÷òîáû íå ïðîíçèòü [feast_duel_target.GetHersHis] ñâîèì ìå÷îì!;;x
+EVTDESC72031;When [From.GetTitledFirstName] challenged me to a duel in front of everyone at the feast I felt almost ashamed for [From.GetHerHim], to challenge someone when both are guests in another man's house is unheard of!;;;;;;;;;;;Êîãäà [From.GetTitledFirstName] áðîñèë ìíå âûçîâ ïåðåä âñåìè íà áàíêåòå, ìíå áûëî ïî÷òè ñòûäíî çà íåãî. Âûçîâ íà ïîåäèíîê êîãî-ëèáî, êîãäà îáà ïîâçäîðèâøèõ - ãîñòè â äîìå ïðèãëàñèâøåãî èõ ÷åëîâåêà - íåñëûõàííîå íåóâàæåíèå ê õîçÿèíó!;;x
+EVTDESC72032;[Root.Liege.GetTitledFirstName] was gracious to let us duel in [Root.Liege.GetHerHis] garden and provided us with a sword each. I attacked first.;;;;;;;;;;;[Root.Liege.GetTitledFirstName] áûë íàñòîëüêî äîáð, ÷òî ïîçâîëèë íàì ïðîâåñòè ïîåäèíîê â åãî ñàäó è ïðåäîñòàâèë íàì îáîèì ìå÷è. ß àòàêîâàë ïåðâûì.;;x
+EVTDESC72033;The duel is over and my opponent [From.GetTitledFirstName] lies...;;;;;;;;;;;Ïîåäèíîê îêîí÷åí è ìîé îïïîíåíò, [From.GetTitledFirstName], ëåæèò...;;x
+EVTDESC72034;'How dare you spoil my feast with your silly quarrel?!'\n\nI managed to stop the duel before anyone was killed but I could tell [From.GetTitledFirstName] did not really listen to me, [From.GetSheHe] looked as eager as ever to settle the scores with [From.GetHerHis] 'mortal enemy' [feast_duel_target.GetTitledFirstName].;;;;;;;;;;;" ""Äà êàê âû ñìååòå ïîðòèòü ìîé ïðàçäíèê ñâîåé èäèîòñêîé ññîðîé?!"" — çàêðè÷àë[Root.GetEndA] ÿ.\nÑêîëüêî áû ÿ íè ïûòà[Root.GetLasLsya], [From.GetTitledFirstName] íå ñëóøàåò ìåíÿ, [From.GetHerHim] íå òåðïèòñÿ ñâåñòè ñ÷¸òû ñî ñâîèì ""çàêëÿòûì âðàãîì"" ïî èìåíè [feast_duel_target.GetTitledFirstName].";;x
+EVTDESC72035;[From.GetTitledFirstName] managed to kill [From.GetHerHis] opponent [feast_duel_target.GetTitledFirstName] before I managed to stop the duel.;;;;;;;;;;;[From.GetTitledFirstName] óìóäðè[From.GetLasLsya] óáèòü ñâîåãî ïðîòèâíèêà ïî èìåíè [feast_duel_target.GetTitledFirstName] ïðåæäå ÷åì ÿ îñòàíîâèë[Root.GetEndA] äóýëü.;;x
+EVTDESC72036;The duel was over when I reached them, [From.GetTitledFirstName]'s opponent, [feast_duel_target.GetTitledFirstName], lay wounded at [From.GetHerHis] feet.;;;;;;;;;;;Äóýëü çàêîí÷èëàñü, ïðåæäå ÷åì ÿ óñïåë[Root.GetEndA] èõ îñòàíîâèòü. [From.GetTitledFirstName] óñïîêîè[From.GetLasLsya], [From.GetHersHis] ïðîòèâíèê [feast_duel_target.GetTitledFirstName] ëåæèò ðàíåí[feast_duel_target.GetAyaYy] íà ïîëó.;;x
+EVTDESC72037;[From.GetTitledFirstName]'s maimed opponent, [feast_duel_target.GetTitledFirstName], tried to stand up when I reached them, but collapsed once again at [From.GetTitledFirstName]'s feet.;;;;;;;;;;;ß îïîçäàë[Root.GetEndA]. [From.GetTitledFirstName] ñåðü¸çíî ïîêàëå÷èë[From.GetEndA] ñâîåãî ïðîòèâíèêà ïî èìåíè [feast_duel_target.GetTitledFirstName], êîòîð[feast_duel_target.GetAyaYy] áåçóñïåøíî ïûòàåòñÿ âñòàòü ïîñëå ïîåäèíêà.;;x
+EVTDESC72038;I hear [From.GetTitledFirstName] challenge one of my other guests to a duel and before I have any chance to interfere, the two duellers go outside...;;;;;;;;;;;ß ñëûøó, êàê [From.GetTitledFirstName] âûçûâàåò îäíîãî èç ìîèõ ãîñòåé íà äóýëü è, ïðåæäå ÷åì ó ìåíÿ ïîÿâëÿåòñÿ øàíñ âìåøàòüñÿ, äâà äóýëÿíòà âûõîäÿò íà óëèöó...;;x
+EVTDESC72039;Both [From.GetTitledFirstName] and [FromFrom.GetTitledFirstName] reentered my castle without any visible wounds. It seemed as if [From.GetTitledFirstName] had refused to duel [FromFrom.GetTitledFirstName].;;;;;;;;;;;[From.GetTitledFirstName] è [FromFrom.GetTitledFirstName], îáà âåðíóëèñü â ìîé [Root.GetCapitalBuilding] áåç êàêèõ-ëèáî âèäèìûõ ðàí. Ïîõîæå, [From.GetTitledFirstName] îòêàçàëñÿ äðàòüñÿ íà äóýëè.;;x
+EVTDESC72040;I had a lovely dinner neighbor and after some wine we were both a bit drunk and, if I read the situation correctly, more than attracted to each other.;;;;;;;;;;;Ó ìåíÿ áûë ïðåêðàñíûé ñîñåä ïðîòèâîïîëîæíîãî ïîëà íà ïðè¸ìå. Ïîñëå ïàðû áîêàëîâ âèíà ìû áûëè íåìíîãî ïüÿíû è, åñëè ìíå óäàëîñü îöåíèòü ñèòóàöèþ âåðíî, áîëåå ÷åì óâëå÷åíû äðóã äðóãîì.;;x
+EVTDESC72041;[From.GetTitledFirstName] and I ended up in a room with a big bed in the middle of the room. Despite the wine and the obvious attraction between us, it suddenly felt a bit awkward being alone together.;;;;;;;;;;;[From.GetTitledFirstName] è ÿ îêàçàëèñü â êîìíàòå ñ áîëüøîé êðîâàòüþ ïîñåðåäèíå. Íåñìîòðÿ íà âèíî è íà òî, ÷òî íàñ î÷åâèäíî òÿíóëî äðóã ê äðóãó, âíåçàïíî ïî÷óâñòâîâàëàñü íåêàÿ ñêîâàííîñòü, âûçâàííàÿ òåì, ÷òî ìû îäíè è... âìåñòå.;;x
+EVTDESC72042;I have often thought about the feast when I and [From.GetTitledFirstName] spent a night together. Unfortunately, the night resulted in an unwanted pregnancy...;;;;;;;;;;;ß ÷àñòî âñïîìèíàþ òîò ïðè¸ì, íà êîòîðîì ÿ è [From.GetTitledFirstName] ïðîâåëè íî÷ü âìåñòå. Ê ñîæàëåíèþ, ýòà íî÷ü ïðèâåëà ê íåæåëàòåëüíîé áåðåìåííîñòè...;;x
+EVTDESC72045;The wine flowed at [Root.Liege.GetTitledFirstName]'s feast and whenever I emptied my cup a servant refilled it.;;;;;;;;;;;Íà ïèðó, êîòîðûé îðãàíèçîâàë [Root.Liege.GetTitledFirstName], âèíî òåêëî ðåêîé è âñÿêèé ðàç, êîãäà ÿ îïóñòîøàë[Root.GetEndA] ñâîþ ÷àøó, ñëóãà ñíîâà íàïîëíÿë å¸.;;x
+EVTDESC72046;The wine was so smooth and good to drink it took a while before I realized I had drunk too much. In fact, I only realized it when [Root.Liege.GetTitledFirstName]'s Steward [Root.Liege.job_treasurer.GetTitledFirstName] asked me if I needed anything and I threw up on [Root.Liege.job_treasurer.GetHerHis] shoes.;;;;;;;;;;;Âèíî áûëî íàñòîëüêî ìÿãêèì è òàê ëåãêî ïèëîñü, ÷òî ïîòðåáîâàëîñü íåìàëî âðåìåíè, ÷òîáû ïîíÿòü, ÷òî ýòî áûëî ñëèøêîì ìíîãî. Ôàêòè÷åñêè, ýòî äîøëî äî ìåíÿ òîëüêî òîãäà, êîãäà [Root.GetTreasurerName] [Root.Liege.job_treasurer.GetTitledFirstName], êîòîðîãî äåðæèò ïðè äâîðå [Root.Liege.GetTitledFirstName], ïîèíòåðåñîâàëñÿ ó ìåíÿ î òîì, íóæäàþñü ëè ÿ â ÷åì-íèáóäü, à ìåíÿ âûðâàëî íà åãî áîòèíêè.;;x
+EVTDESC72047;[Root.GetTreasurerName] [Root.job_treasurer.GetTitledFirstName] had noticed [From.GetTitledFirstName] had drunk too much wine and was trying to to dissuade [From.GetHerHim] from drinking any more when [From.GetTitledFirstName] threw up on [Root.job_treasurer.GetTitledFirstName]'s shoes.;;;;;;;;;;;[Root.GetTreasurerName] [Root.job_treasurer.GetTitledFirstName] çàìåòèë, ÷òî [From.GetTitledFirstName] ñëèøêîì ìíîãî ïü¸ò è ïîïûòàëñÿ îòãîâîðèòü îò çëîóïîòðåáëåíèÿ ñïèðòíûì, íî â èòîãå [From.GetTitledFirstName] îáëåâàë[From.GetEndA] åãî áîòèíêè.;;x
+EVTDESC72048;I vaguely remembered [Root.Liege.GetTitledFirstName]'s feast when I woke up next morning, I remembered the wine but I did not remember getting to the bed I was lying in.;;;;;;;;;;;ß ñìóòíî ïîìíþ ïðè¸ì, êîòîðûé îðãàíèçîâàë[Root.Liege.GetEndA] [Root.Liege.GetTitledFirstName], ïîñëå ïðîáóæäåíèÿ ñëåäóþùèì óòðîì. Ïîìíþ âèíî, íî òàê è íå ìîãó âñïîìíèòü ïóòü äî ñâîåé ïîñòåëè...;;x
+EVTDESC72049;The more wine [From.GetTitledFirstName] drank, the more and louder [From.GetSheHe] talked and laughed until [From.GetSheHe] let out a loud snoring and fell face first into [From.GetHerHis] plate. The servants discreetly removed [From.GetTitledFirstName] from the table and took [From.GetHerHim] to a bedchamber.;;;;;;;;;;;×åì áîëüøå âèíà ïèë[From.GetEndA] [From.GetTitledFirstName], òåì áîëüøå è ãðîì÷å ãîâîðèë[From.GetEndA] è ñìåÿ[From.GetLasLsya], ïîêà íå èçäàë[From.GetEndA] ãðîìêèé õðàï, óïàâ ëèöîì â òàðåëêó. Ñëóãè îñòîðîæíî ñíÿëè [From.GetHersHis] ñî ñòîëà è îòíåñëè â ñïàëüíþ.;;x
+EVTDESC72050;When I traveled to [Root.Liege.GetTitledFirstName]'s feast a band of highway robbers attacked me and my retinue. We managed to fend them off and barely escaped with our lives.;;;;;;;;;;;Ïî ïóòè íà ïèð, êîòîðûé óñòðàèâàë[Root.Liege.GetEndA] [Root.Liege.GetTitledFirstName], áàíäà ãðàáèòåëåé ñ áîëüøîé äîðîãè íàïàëà íà ìåíÿ è ìîþ ñâèòó. Ìû ñóìåëè îòðàçèòü èõ àòàêó è òîëüêî áåãñòâî ñîõðàíèëî íàì íàøè æèçíè.;;x
+EVTDESC72051;[From.GetTitledFirstName] was attacked on [From.GetHerHis] way here by the band of highway robbers that roams the county [Root.Location.GetName]!;;;;;;;;;;;[From.GetTitledFirstName] ïåðåæèë[From.GetEndA] íàïàäåíèå âî âðåìÿ ñâîåãî ïóòè ñþäà ñî ñòîðîíû áàíäû ãðàáèòåëåé ñ áîëüøîé äîðîãè, êîòîðàÿ îðóäóåò â îáëàñòè [Root.Location.GetName]!;;x
+EVTDESC72052;Everyone drank and w happy, except [From.GetTitledFirstName] who refused more wine! This insulting gesture means that [From.GetSheHe] does not appreciate my hospitality!;;;;;;;;;;;Âû ïü¸òå è âåñåëèòåñü, à [From.GetTitledFirstName] ãîâîðèò, ÷òî [From.GetHerHim] óæå õâàòèò. Íå õî÷åò ïèòü ñî ìíîé? Íå öåíèò ìî¸ ãîñòåïðèèìñòâî!;;x
+EVTDESC72055;During [Root.GetTitledFirstName]'s feast, a servant spilled wine all over my finest garb ruining its white fabric completely. I grabbed my knife and cut his throat, then returned to my seat and kept eating.;;;;;;;;;;;Âî âðåìÿ ïèðà, êîòîðûé îðãàíèçîâàë[Root.Liege.GetEndA] [Root.Liege.GetTitledFirstName], îäèí èç ñëóã ïðîëèë êóâøèí âèíà íà ìîé ñàìûé äîðîãîé è ïðåêðàñíûé êîñòþì, óíè÷òîæèâ åãî áåëèçíó íàâñåãäà. ß ñõâàòèë[Root.GetEndA] ñâîé íîæ è ïåðåðåçàë[Root.GetEndA] åìó ãîðëî, çàòåì âîçâðàòè[Root.GetLasLsya] íà ñâî¸ ìåñòî è ïðîäîëæèë[Root.GetEndA] åñòü.;;x
+EVTDESC72056;[From.GetTitledFirstName] cut the throat of one of my servants when the clumsy man spilled wine over [From.GetHerHis] garb!;;;;;;;;;;;[From.GetTitledFirstName] ïåðåðåçàë[From.GetEndA] ãîðëî îäíîìó èç ìîèõ ñëóã, êîãäà ýòîò íåóêëþæèé ÷åëîâåê ïðîëèë âèíî íà [From.GetHersHis] ïëàòüå!;;x
+EVTDESC72057;Guards seized me and made me spill even more wine onto my now completely ruined garb. Without a word and deaf to my protests, they carried me to the dungeon of [From.GetTitledFirstName] and left me there.;;;;;;;;;;;Ñòðàæà ñõâàòèëà ìåíÿ, îò ÷åãî ïðîëèëîñü åù¸ áîëüøå âèíà íà óæå ïîëíîñòüþ èñïîð÷åííóþ îäåæäó. Íå ãîâîðÿ íè ñëîâà è íå îáðàùàÿ âíèìàíèÿ íà ìîè ïðîòåñòû, îíè ïðèòàùèëè ìåíÿ â ïîäçåìåëüå, êîòîðûì âëàäååò [From.GetTitledFirstName], è îñòàâèëè òàì.;;x
+EVTDESC72060;After having been insulted and been the butt of the jokes for far too long, my patience with my court jester was beginning to run out. One last joke and I don't know what I will do...;;;;;;;;;;;Áóäó÷è îñêîðáëÿåìûì è ÿâëÿÿñü ãëàâíîé öåëüþ øóòîê ñëèøêîì äîëãîå âðåìÿ, ÿ ïîíÿë[Root.GetEndA], ÷òî ìî¸ òåðïåíèå ê ìîåìó ïðèäâîðíîìó øóòó íà÷àëî çàêàí÷èâàòüñÿ. Åù¸ îäíà ïîäîáíàÿ øóòêà è ÿ íå çíàþ, ÷òî ÿ ñäåëàþ...;;x
+EVTDESC72061;It did not surprise me when [From.GetTitledFirstName] lost his temper when [From.GetHerHis] jester told a particularly nasty joke about [From.GetHerHim]. [From.GetTitledFirstName] bellowed for [From.GetHerHis] guards to drag the jester down to the dungeons.;;;;;;;;;;;Äëÿ ìåíÿ íå ñòàëî ñþðïðèçîì, ÷òî [From.GetTitledFirstName] ïîòåðÿë[From.GetEndA] ñàìîîáëàäàíèå, êîãäà øóò èçð¸ê ñâîþ î÷åðåäíóþ ïðîòèâíóþ øóòî÷êó î ñþçåðåíå. [From.GetTitledFirstName] ïðîðåâåë[From.GetEndA] ñâîåé îõðàíå, ÷òîáû òå áðîñèëè øóòà â òåìíèöó.;;x
+EVTDESC72062;[Root.GetTitledFirstName]'s patience with the jokes [From.GetHerHis] jester told about [From.GetHerHim] was remarkable! A lesser [From.GetManWoman] would surely thrown the jester into [From.GetHerHis] dungeon.;;;;;;;;;;;[From.GetTitledFirstName] âûêàçàë[From.GetEndA] ìíîãî òåðïåíèÿ ïî îòíîøåíèþ ê èçä¸âêàì ñâîåãî øóòà! Ó êîãî-íèáóäü ìåíåå òåðïåëèâîãî øóò äàâíî áûë áû áðîøåí â òåìíèöó.;;x
+EVTDESC72063;What would a feast be without entertainment? The jongleurs' dexterity and skill impressed and captivated my guests, making me very pleased with them.;;;;;;;;;;;×åì áûë áû ïèð áåç ðàçâëå÷åíèé? Ëîâêîñòü æîíãë¸ðîâ è èõ óìåíèå, âïå÷àòëèëè è î÷àðîâàëè ìîèõ ãîñòåé.;;x
+EVTDESC72064;The jongleurs [From.GetTitledFirstName] had hired for the feast impressed and captivated all of [From.GetTitledFirstName]'s guests with their dexterity and skill, including me.;;;;;;;;;;;Æîíãë¸ðû, êîòîðûõ [From.GetTitledFirstName] íàíÿë[From.GetEndA] äëÿ îæèâëåíèÿ ïèðà, î÷àðîâàëè âñåõ ãîñòåé, êîòîðûõ ïðèãëàñèë[From.GetEndA] [From.GetTitledFirstName], ñâîèìè ëîâêîñòüþ è óìåíèåì. ß íå èñêëþ÷åíèå.;;x
+EVTDESC72065;The minstrel sang and the ladies wept, the minstrel sang and the lords laughed. His performance at my feast was above my expectations and I congratulated myself for hiring him.;;;;;;;;;;;Ìåíåñòðåëü ïåë, è ëåäè ïëàêàëè, ìåíåñòðåëü ïåë, è ëîðäû ñìåÿëèñü. Åãî âûñòóïëåíèå íà ìî¸ì áàíêåòå áûëî âûøå âñÿêèõ îæèäàíèé, è ÿ ïîçäðàâèë[Root.GetEndA] ñåáÿ ñ òåì, ÷òî íàíÿë[Root.GetEndA] åãî.;;x
+EVTDESC72066;I am not ashamed to admit I both laughed and cried when the minstrel sang. The minstrel's performance at [From.GetTitledFirstName]'s feast was extraordinary!;;;;;;;;;;;ß íå ñòûæóñü, ÷òî äîïóñòèë ñìåõ è ñë¸çû ñî ñâîåé ñòîðîíû, êîãäà ïåë ìåíåñòðåëü. Åãî âûñòóïëåíèå íà ïèðó, êîòîðûé îðãàíèçîâàë[From.GetEndA] [From.GetTitledFirstName], áûëî ýêñòðàîðäèíàðíûì!;;x
+EVTDESC72067;The musicians played and my guests danced. I made certain I danced with several different persons and I think we all had great fun!;;;;;;;;;;;Ìóçûêàíòû èãðàëè, è ìîè ãîñòè òàíöåâàëè. ß, êîãäà òàíöåâàë ñ íåñêîëüêèìè ðàçíûìè ëþäüìè, óäîñòîâåðèëñÿ, ÷òî äëÿ âñåõ íàñ ýòî áûëî áîëüøîé çàáàâîé!;;x
+EVTDESC72068;I danced and danced until my face was red and my feet hurt, then I took a short pause and then danced some more. The musicians at [From.GetTitledFirstName]'s feast played so good it was hard to stay still.;;;;;;;;;;;ß òàíöåâàë[Root.GetEndA] è òàíöåâàë[Root.GetEndA], ïîêà ìî¸ ëèöî íå ïîêðàñíåëî è ñåðäöå íå ïðèõâàòèëî. Òîãäà ÿ âçÿë[Root.GetEndA] êîðîòêóþ ïàóçó, à çàòåì ïîòàíöåâàë[Root.GetEndA] åù¸ íåìíîãî. Ìóçûêàíòû íà ïèðó, êîòîðûé îðãàíèçîâàë[From.GetEndA] [From.GetTitledFirstName], èãðàëè íàñòîëüêî õîðîøî, ÷òî áûëî òðóäíî îñòàòüñÿ â ñòîðîíå.;;x
+EVTDESC72069;People exclaimed in wonder and fear when the fire-eaters performed. After their performance was over many eyebrows and beards were singed but none of the guests seemed to care when they applauded the fire-eaters.;;;;;;;;;;;Ëþäè âñêðèêèâàëè â óäèâëåíèè è ñòðàõå, êîãäà âûñòóïàëè ïîæèðàòåëè îãíÿ. Ïîñëå èõ íîìåðà ó ìíîãèõ áûëè ïîäïàëåíû áðîâè è áîðîäû, íî íè îäèí èç ãîñòåé, êàçàëîñü, íå çàáîòèëñÿ îá ýòîì, êîãäà ïðèâåòñòâîâàë âûñòóïëåíèå ïîæèðàòåëåé îãíÿ.;;x
+EVTDESC72070;The fire-eaters exited the room unharmed, but the rest of us were slightly singed and some eyebrows could be seen missing. None of us cared though, their performance had been spectacular!;;;;;;;;;;;Ïîæèðàòåëè îãíÿ âûõîäèëè èç íåâðåäèìîé êîìíàòû, íî îñòàëüíàÿ å¸ ÷àñòü â âèäå íàñ áûëà ïîäïàëèâøèìñÿ áåêîíîì, ó íåêîòîðûõ íåäîñòàâàëî áðîâåé. Íî íè îäèí èç íàñ íå çàáîòèëñÿ îá ýòîì, òàê êàê èõ âûñòóïëåíèå áûëî ïî-íàñòîÿùåìó çàõâàòûâàþùèì!;;x
+EVTDESC72071;The conjurer's magic tricks enchanted and charmed my guests at the feast, the women squealed with delight when he produced a rabbit from his hat and the men laughed when he made my crown disappear and then found it under the jester's hat!;;;;;;;;;;;Âîëøåáíûå óëîâêè ôîêóñíèêà ïîðàçèëè è î÷àðîâàëè ìîèõ ãîñòåé íà ïèðó. Æåíùèíû âèçæàëè â âîñõèùåíèè, êîãäà îí âûòàùèë êðîëèêà èç ñâîåé øëÿïû, à ìóæ÷èíû õîõîòàëè, êîãäà îí çàñòàâèë ìîþ êîðîíó èñ÷åçíóòü, à çàòåì íàø¸ë å¸ ïîä øëÿïîé øóòà!;;x
+EVTDESC72072;I laughed so hard when the conjurer first made [From.GetTitledFirstName]'s crown disappear I was afraid I would snort wine through my nose! The feast was great but the conjurer really made the night special.;;;;;;;;;;;ß òàê ñèëüíî ñìåÿ[Root.GetLasLsya], êîãäà [From.GetTitledFirstName] îáíàðóæèë[From.GetEndA] êîðîíó ïîä øàïêîé øóòà, ÷òî èñïóãà[Root.GetLasLsya], ÷òî âûïüþ âñ¸ âèíî ÷åðåç íîñ! Ïðè¸ì áûë ïðåêðàñåí, íî ôîêóñíèê ñäåëàë âå÷åð äåéñòâèòåëüíî íåçàáûâàåìûì.;;x
+EVTDESC72075;I made sure the most beautiful lady would be my dinner partner and during the feast I kept refilling both our wine glasses. My charm and my winning smile made it impossible for her to stay unresponsive, it didn't take long until she looked at me with more than interest in her eyes...;;;;;;;;;;;ß óäîñòîâåðèëñÿ, ÷òî ñàìàÿ êðàñèâàÿ ëåäè áóäåò ìîèì ïàðòíåðîì ïî îáåäó, è âî âðåìÿ ïðè¸ìà ÿ ïðîäîëæàë âíîâü è âíîâü íàïîëíÿòü îáà íàøèõ áîêàëà. Ìî¸ î÷àðîâàíèå è îáàÿòåëüíàÿ óëûáêà ëèøèëè å¸ âîçìîæíîñòè îñòàâàòüñÿ áåçðàçëè÷íîé. Ïðîøëî íåìíîãî âðåìåíè è â å¸ âçãëÿäå óæå áûëî íå÷òî áîëüøåå, ÷åì ïðîñòîé èíòåðåñ.;;x
+EVTDESC72076;[From.GetTitledFirstName] took me on a quick tour of [From.GetHerHis] castle and we ended up in [From.GetHerHis] bedchamber...;;;;;;;;;;;[From.GetTitledFirstName] óñòðîèë[From.GetEndA] ìíå êîðîòêóþ ïðîãóëêó, ÷òîáû ïîêàçàòü ñâîé [From.GetCapitalBuilding], êîòîðóþ ìû çàêîí÷èëè â [From.GetHersHis] [From.GetChamberPREP]...;;x
+EVTDESC72077;The night of passion [From.GetTitledFirstName] and I shared resulted in an unwanted pregnancy, and [From.GetHerHis] husband [From.Spouse.GetTitledFirstName] is not happy about the news...;;;;;;;;;;;Íî÷ü ñòðàñòè, êîòîðóþ ïîäàðèëè äðóã äðóãó ÿ è [From.GetTitledFirstName], ïðèâåëà ê íåæåëàòåëüíîé áåðåìåííîñòè, è å¸ ìóæ, [From.Spouse.GetTitledFirstName], íå î÷åíü äîâîëåí íîâîñòÿìè...;;x
+EVTDESC72080;I started talking to one of my guests at the feast and found them most interesting. Hours flew by, wine bottles were emptied, other guests excused themselves and went to bed but we kept talking until the wee hours...;;;;;;;;;;;ß çàâåë[Root.GetEndA] ðàçãîâîð ñ îäíèì èç ñâîèõ ãîñòåé íà ïèðó è íàø[Root.GetLaYol] åãî âåñüìà èíòåðåñíûì. ×àñû ïîëåòåëè áåç ñ÷¸òà, âèííûå áóòûëêè îïóñòîøàëèñü. Äðóãèå ãîñòè èçâèíèëèñü è ëåãëè ñïàòü, íî ìû çàêîí÷èëè ãîâîðèòü ëèøü ñïóñòÿ ïàðó ÷àñîâ ïîñëå ïîëóíî÷è...;;x
+EVTDESC72081;I had so much fun talking to [From.GetTitledFirstName] I forgot the other guests and the time. When we finally emerged from our latest discussion we realized the other guests had gone to sleep and it was early in the morning.;;;;;;;;;;;[From.GetTitledFirstName] äîñòàâèë[From.GetEndA] ìíå ñòîëüêî óäîâîëüñòâèÿ, ïîääåðæèâàÿ áåñåäó, ÷òî ÿ çàáûë[Root.GetEndA] î äðóãèõ ãîñòÿõ è âðåìåíè. Êîãäà ìû íàêîíåö î÷íóëèñü, çàêîí÷èâ îáñóæäàòü î÷åðåäíîé âîïðîñ, ìû ïîíÿëè, ÷òî äðóãèå ãîñòè äàâíî ñïÿò è áëèçèòñÿ ðàññâåò.;;x
+EVTDESC72085;Some of the guests were invited with a ulterior motive, I want their titles! I had trouble finding one of them alone long enough to set my plan in motion and I was about to scrap it altogether when I finally saw one of them, alone, in the garden...;;;;;;;;;;;"Íåêîòîðûå èç ãîñòåé áûëè ïðèãëàøåíû íà ïèð ñ òàéíûì óìûñëîì - ÿ áû õîòåë[Root.GetEndA] ïîëó÷èòü èõ òèòóëû! ß èñïûòûâàë íåêîòîðûå çàòðóäíåíèÿ, äîñòàòî÷íî äîëãî ïûòàÿñü íàéòè õîòü îäíîãî èç íèõ â îäèíî÷åñòâå, äëÿ ïðèâåäåíèÿ ìîåãî ïëàíà â äåéñòâèå. ß óæå ñîáèðà[Root.GetLasLsya] ïåðåñìîòðåòü ïåðâîíà÷àëüíûé ïëàí, êîãäà, íàêîíåö, óâèäåë[Root.GetEndA] îäíîãî èç ýòèõ ""ñ÷àñòëèâ÷èêîâ"" â ñàäó, â îäèíî÷åñòâå...";;x
+EVTDESC72086;I was startled when [From.GetTitledName] pulled me aside for a private conversation during the feast. [From.GetTitledName] carefully explained that [From.GetSheHe] felt one of my titles rightfully belonged to [From.GetHerHim].;;;;;;;;;;;Ìåíÿ óäèâèëî, ÷òî [From.GetTitledName] ïðåäëîæèë[From.GetEndA] îòîéòè â ñòîðîíó è ïîãîâîðèòü íàåäèíå, âî âðåìÿ ïðàçäíèêà. [From.GetSheHeCap] îñòîðîæíî îáúÿñíèë[From.GetEndA], ÷òî îäèí èç ìîèõ òèòóëîâ äîëæåí ïðèíàäëåæàòü [From.GetHerHim].;;x
+EVTDESC72087;After several hours of negotiation [From.GetTitledFirstName] agreed to grant me the title. We returned to the feast together and drank a toast to our agreement.;;;;;;;;;;;Ïîñëå íåñêîëüêèõ ÷àñîâ ïåðåãîâîðîâ [From.GetTitledFirstName] ñîãëàøàåòñÿ ïðåäîñòàâèòü ìíå òèòóë. Ìû âîçâðàòèëèñü ê ñòîëó âìåñòå è ïîäíÿëè òîñò çà íàøå ñîãëàøåíèå.;;x
+EVTDESC72088;[From.GetTitledFirstName] refused to give me the title I sought after!;;;;;;;;;;;[From.GetTitledFirstName] îòêàçûâàåòñÿ äàòü ìíå òèòóë, êîòîðûé ÿ òàê æåëàþ!;;x
+EVTDESC72089;The feast was great, until the guards grabbed me and threw me into [From.GetTitledFirstName]'s dungeon! The greedy [From.GetTitledFirstName] might think I would willingly give [From.GetHerHim] the title [From.GetSheHe] wants for my freedom, but I'll prove [From.GetTitledFirstName] I am stronger than [From.GetSheHe] thinks!;;;;;;;;;;;Ïðàçäíèê áûë âåëèêîëåïåí, äî òåõ ïîð ïîêà ìåíÿ íå áðîñèëè â ïîäçåìåëüå! [From.GetTitledFirstName] äóìàåò, ÷òî ÿ îòäàì [From.GetHerHim] òèòóë ðàäè ñâîåé ñâîáîäû, íî ÿ äîêàæó, ÷òî ñèëüíåå, ÷åì [From.GetSheHe] äóìàåò!;;x
+EVTDESC72090;I saw the most beautiful girl at the feast and I decided I would try to charm her. She responded to my advances and started making her own, should I take this further?;;;;;;;;;;;ß óâèäåë ñàìóþ êðàñèâóþ äåâóøêó íà ïðè¸ìå, è ðåøèë, ÷òî áóäó ñòàðàòüñÿ å¸ î÷àðîâàòü. Îíà îòâåòèëà íà ìîè çíàêè âíèìàíèÿ è íà÷àëà äåëàòü îòâåòíûå. Äîëæåí ëè ÿ ó÷àñòâîâàòü â ýòîì è äàëüøå?;;x
+EVTDESC72091;I saw [From.GetTitledFirstName] together with my daughter and kept a close eye on them. It seemed harmless, just a boy and a girl flirting, but I was relieved when [From.GetTitledFirstName] left my daughter to talk with someone else.;;;;;;;;;;;ß óâèäåë, ÷òî [From.GetTitledFirstName] è ìîÿ äî÷ü ïðîâîäÿò âðåìÿ âìåñòå, è ñòàë ïðèñòàëüíî ñëåäèòü çà íèìè. Èõ îáùåíèå ïîêàçàëîñü áåçîïàñíûì - ïðîñòî ôëèðòóþùèå äðóã ñ äðóãîì þíîøà è äåâóøêà - íî ÿ âçäîõíóë ñ îáëåã÷åíèåì, êîãäà [From.GetTitledFirstName] îñòàâèë ìîþ äî÷ü, ÷òîáû ïîãîâîðèòü ñ êåì-íèáóäü åù¸.;;x
+EVTDESC72092;I watched as my daughter and [From.GetTitledFirstName] started talking, flirting with each other. When they left, hand in hand, I had to stop myself from getting up and stalking after them. The looks they gave each other the next day confirmed what I had feared yesterday: [From.GetFirstName] seduced my little girl!;;;;;;;;;;;ß óâèäåë, êàê ìîÿ äî÷ü è [From.GetTitledFirstName] íà÷àëè îáùàòüñÿ, ôëèðòóÿ äðóã ñ äðóãîì. Êîãäà îíè óõîäèëè, âçÿâøèñü çà ðóêè, ìíå ïî÷åìó-òî çàõîòåëîñü âñòàòü è ïîñëåäîâàòü çà íèìè, ÷òîáû ïîìåøàòü èì óéòè âìåñòå, íî ÿ îñòàíîâèë ñåáÿ. Âçãëÿäû, êîòîðûìè îíè îáìåíÿëèñü íà ñëåäóþùèé äåíü, ïîäòâåðäèëè òî, ÷åãî ÿ â÷åðà áîÿëñÿ: [From.GetFirstName] îáîëüñòèë ìîþ ìàëåíüêóþ äåâî÷êó!;;x
+EVTDESC72093;My son seduced [From.GetTitledFirstName]'s daughter at my feast and now [From.GetSheHe] is very angry!;;;;;;;;;;;[From.GetTitledFirstName] î÷åíü ñåðäèò, òàê êàê ìîé ñûí îáîëüñòèë åãî äî÷ü íà ïèðó!;;x
+EVTDESC72094;I did not realize the young, beautiful lady I seduced at the feast were [From.GetTitledFirstName]'s daughter! [From.GetSheHeCap] spluttered with anger but I could still make out what [From.GetSheHe] called me...;;;;;;;;;;;Íå ïîíèìàþ... Îêàçàëîñü, ÷òî èìåííî [From.GetTitledFirstName] - îòåö òîé ìîëîäîé, ñèìïàòè÷íîé äåâóøêè, ÷òî ÿ îáîëüñòèë íà ïèðó! [From.GetSheHeCap] áðûçãàë ñëþíîé â áåøåíñòâå, íî ÿ ñìîã ðàçîáðàòü, ÷òî îí íàçâàë ìåíÿ...;;x
+EVTDESC72095;[From.GetTitledFirstName] came humbly to me and told me how my son had seduced [From.GetHerHis] young, innocent daughter. [From.GetSheHeCap] did not demand anything of me, just seemed upset and I could not really make out how [From.GetSheHe] wanted me to deal with this situation.;;;;;;;;;;;[From.GetTitledFirstName] ñìèðåííî ïðèø¸ë êî ìíå è ðàññêàçàë, ÷òî ìîé ñûí ñîáëàçíèë åãî ìîëîäóþ, íåâèííóþ äî÷ü. Îí íå òðåáîâàë íè÷åãî îò ìåíÿ, òîëüêî êàçàëñÿ ñòðàøíî ðàññòðîåííûì. ß íèêàê íå ìîã ïîíÿòü, ÷åãî èìåííî îí õî÷åò. Êàê ÿ, ïî åãî ìíåíèþ, äîëæåí ñïðàâèòüñÿ ñ ýòîé ñèòóàöèåé?;;x
+EVTDESC72096;The young, beautiful lady I seduced at the feast was none other than [From.GetTitledFirstName]'s daughter! Although [From.GetTitledFirstName] had every right to be upset with me, [From.GetSheHe] offered no advice on how I could make this right.;;;;;;;;;;;Íèêòî èíîé êàê [From.GetTitledFirstName] îêàçàëñÿ îòöîì òîé ìîëîäîé, ñèìïàòè÷íîé äåâóøêè, êîòîðóþ ÿ îáîëüñòèë íà ïèðó! Õîòÿ [From.GetTitledFirstName] èìåë ïîëíîå ïðàâî áûòü ðàññòðîåííûì èç-çà ìåíÿ, îí íå ïûòàëñÿ íàìåêíóòü, êàê ÿ ìîã áû èñïðàâèòü ñèòóàöèþ.;;x
+EVTDESC72097;Not long after the feast, my daughter started to get sick in the mornings and showed all symptoms of being with child. Her little flirt at the feast must have gotten her pregnant!;;;;;;;;;;;"Âñêîðå ïîñëå ïðàçäíèêà, ìîÿ äî÷ü ñòàëà ïëîõî ñåáÿ ÷óâñòâîâàòü ïî óòðàì è âûêàçàëà âñå ïðèçíàêè áåðåìåííîñòè. Å¸ ""ë¸ãêèé ôëèðò"" íà ïðàçäíèêå, äîëæíî áûòü, ïîäàðèë åé ðåá¸íêà!";;x
+EVTDESC72098;[From.GetTitledFirstName]'s daughter is pregnant and [From.GetSheHe] demands that I marry her!;;;;;;;;;;;[From.GetTitledFirstName] çàÿâèë, ÷òî åãî äî÷ü áåðåìåííà, è òðåáóåò, ÷òîáû ÿ æåíèëñÿ íà íåé!;;x
+EVTDESC72099;My son's flirt with [From.GetTitledFirstName]'s daughter lead to an unexpected pregnancy and now [From.GetTitledFirstName] demands that my son marry her!;;;;;;;;;;;Çàèãðûâàíèÿ ìîåãî ñûíà ñ ñèìïàòè÷íîé äåâóøêîé ïðèâîäÿò ê íåîæèäàííîé áåðåìåííîñòè, è òåïåðü [From.GetTitledFirstName] òðåáóåò, ÷òîáû ìîé ñûí æåíèëñÿ íà åãî äî÷åðè!;;x
+EVTDESC72100;I had never thought my [GetFromRelation] would force me to marry the girl I seduced at the feast! She is pregnant and her father demands that I marry her.;;;;;;;;;;;ß íèêîãäà íå äóìàë[Root.GetEndA], ÷òî ïðèä¸òñÿ æåíèòüñÿ íà äåâóøêå, êîòîðóþ ÿ ñîáëàçíþ íà ïèðó! Îíà çàáåðåìåíåëà, à å¸ îòåö ïîòðåáîâàë, ÷òîáû ÿ æåíè[Root.GetLasLsya] íà íåé.;;x
+EVTDESC72109;I have given the orders for a Great Feast to be hosted in [Root.Location.GetName]. Let the preparations begin...;;;;;;;;;;;ß èçäàþ óêàç îá îðãàíèçàöèè Áîëüøîãî ïèðà. Òîðæåñòâî ñîñòîèòñÿ â îêðóãå [Root.Location.GetName]. Ïóñòü íà÷èíàþò ïðèãîòîâëåíèÿ...;;x
+EVTDESC72110;The last of the guests has returned home and everyone agreed it was this year's greatest feast.;;;;;;;;;;;Ïîñëåäíèé èç ãîñòåé âåðíóëñÿ äîìîé... Âñå ïðèøëè ê ìíåíèþ, ÷òî ýòî áûë çàìå÷àòåëüíåéøèé ïðè¸ì â ýòîì ãîäó.;;x
+EVTDESC72111;[From.GetTitledFirstName]'s feast is over and it is time to begin the long way home. After the food, the entertainment and the warmth, the real world suddenly feels cold and hostile.;;;;;;;;;;;Ïèð, êîòîðûé îðãàíèçîâàë[From.GetEndA] [From.GetTitledFirstName], çàêîí÷èëñÿ è ïðèøëî âðåìÿ íà÷àòü äîëãèé ïóòü äîìîé. Ïîñëå èçîáèëèÿ ÿñòâ, ðàçâëå÷åíèé è òåïëà, ðåàëüíûé ìèð âäðóã êàæåòñÿ õîëîäíûì è âðàæäåáíûì.;;x
+EVTDESC72112;I have to cancel the feast due to the war I am currently fighting against one of my enemies. Perhaps after the war I might throw a victory feast.;;;;;;;;;;;ß âûíóæä[Root.GetNaEn] îòìåíèòü ïðàçäíèê èç-çà âîéíû. Â íàñòîÿùåå âðåìÿ ÿ âåäó áîðüáó ñ îäíèì èç ñâîèõ âðàãîâ. Âîçìîæíî, ïîñëå âîéíû, ÿ ìîã[Root.GetNoneE] áû îðãàíèçîâàòü ïèð â ÷åñòü ïîáåäû.;;x
+EVTDESC72113;Dear [Root.GetTitledFirstName], due to the unfortunate war I have to cancel the feast. I hope you will be able to attend the victory fest I plan to have after the war.\n\n[From.GetTitledFirstName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], â ñâÿçè ñ äîñàäíîé âîéíîé, ÿ âûíóæäåí[From.GetEndA] îòìåíèòü ïðàçäíèê. ß íàäåþñü, ÷òî Âû ñìîæåòå ïðèñóòñòâîâàòü íà ïèðó â ÷åñòü ïîáåäû, êîòîðûé ÿ ïëàíèðóþ îðãàíèçîâàòü óæå ïîñëå âîéíû.\n\n[From.GetTitledFirstName];;x
+EVTDESC72115;I almost forgot to eat when I saw the acrobats performing during [From.GetTitledFirstName] and I was the first one to start applauding when their performance was done, wishing they would do just one more somersault, or cartwheel, or even tumble...;;;;;;;;;;;ß çàáûâàþ î åäå, íàáëþäàÿ çà âûñòóïëåíèåì àêðîáàòîâ è íà÷èíàþ àïëîäèðîâàòü, æåëàÿ, ÷òîáû îíè ñîâåðøèëè åùå õîòÿ áû îäíî ñàëüòî èëè êóëüáèò.;;x
+EVTDESC72116;[From.GetTitledFirstName]'s plate was still almost full when the acrobats had finished their performance and [From.GetSheHe] applauded almost frantically with a blissed look in [From.GetHerHis] eyes.;;;;;;;;;;;Òàðåëêà ìîåãî ãîñòÿ áûëà ïî÷òè ïîëíà, êîãäà àêðîáàòû çàêîí÷èëè ñâî¸ âûñòóïëåíèå. ß âèæó, êàê [From.GetTitledFirstName] âîñòîðæåííî àïëîäèðóåò èì ñ áëåñêîì â ãëàçàõ.;;x
+EVTDESC72120;The travelling dancers first danced for us and, while dancing to a fast and glad tune which made me want to dance, invited everyone to join them. I danced until I panted and my face was red, then I had to sit down and rest for a while, watching the dancers and the courtiers having more fun than in a long time...;;;;;;;;;;;Â îáùåì çàëå âûñòóïàëè ñòðàíñòâóþùèå òàíöîðû. Îíè òàíöåâàëè ïîä âåñ¸ëóþ ìåëîäèþ, ïðèãëàøàÿ ïðèäâîðíûõ è ìåíÿ ïðèñîåäèíèòüñÿ ê çàáàâå. Áûñòðûé òàíåö î÷åíü óòîìèë ìåíÿ, íî îñòàëüíûå åùå äîëãî âåñåëèëèñü è ïëÿñàëè.;;x
+EVTDESC100520;No one would notice if I poisoned my rival's wine at [Root.Liege.GetTitledFirstName]'s feast, the guests would be too preoccupied with gossip, plots and schemes.;;;;;;;;;;;Íèêòî íå çàìåòèò, åñëè ÿ îòðàâëþ âèíî ìîåãî âðàãà íà ïðàçäíèêå, êîòîðûé óñòðàèâàåò [Root.Liege.GetTitledFirstName]. Ãîñòè áóäóò ñëèøêîì çàíÿòû ñïëåòíÿìè, çàãîâîðàìè è èíòðèãàìè.;;x
+EVTDESC100521;I poured the poison into the wine and made sure no one saw me switching the poisoned goblet with my rival's. My rival did not notice anything, too busy talking with [Root.Liege.GetTitledFirstName] and I was mentally congratulating myself when I heard someone swear and the clatter when the goblet hit the floor.;;;;;;;;;;;Íåçàìåòíî äëÿ âñåõ ÿ äîáàâëÿþ ÿä â âèíî è ïîìåíÿþ êóáîê ñâîåãî âðàãà íà îòðàâëåííûé. Ìîé âðàã íè÷åãî íå çàìå÷àåò, óâë¸êøèñü áåñåäîé ñ ñþçåðåíîì. È âîò ÿ óæå ñëûøó ÷åé-òî õðèï è ñòóê óïàâøåãî íà ïîë áîêàëà.;;x
+EVTDESC100522;The wine tasted strange, it almost tingled on my tongue but it was quite passable. It wasn't until several hours later, when I started vomiting blood, that I realized the wine must have been poisoned!;;;;;;;;;;;Âèíî èìåëî ñòðàííûé âêóñ, ïîêàëûâàëî ÿçûê, íî áûëî âïîëíå ñíîñíûì. Íå ïðîøëî ÷àñà, êàê ó ìåíÿ íà÷àëàñü ðâîòà ñ êðîâüþ, è äî ìåíÿ äîøëî, ÷òî âèíî áûëî îòðàâëåíî!;;x
+EVTDESC100523;The feast was exactly as I had planned it, plenty of food and wine, great entertainment and interesting guests. Too bad someone decided to ruin it for everyone by poisoning the wine!;;;;;;;;;;;Ïðàçäíèê ïðîõîäèò òî÷íî òàê, êàê ÿ è áûëî çàäóìàíî - ìíîãî åäû è âèíà, ïðåêðàñíûå ðàçâëå÷åíèÿ è èíòåðåñíûå ãîñòè. Æàëü, íî êòî-òî ðåøèë âñ¸ èñïîðòèòü, îòðàâèâ âèíî!;;x
+EVTDESC100524;I watched as [From.GetTitledFirstName] downed the goblet with poisoned wine in a swallowing, burped and called for more. Satisfied, I sat down and enjoyed the food while waiting for the poison to work.;;;;;;;;;;;[From.GetTitledFirstName] ïü¸ò îòðàâëåííîå âèíî èç êóáêà è ïðîñèò åù¸. Â ýòî âðåìÿ ÿ ñèæó è íàñëàæäàþñü òðàïåçîé, îæèäàÿ, êîãäà ïîäåéñòâóåò ÿä.;;x
+EVTDESC100525;Several witnesses claimed they had seen [FromFrom.GetTitledFirstName] pouring something into the wine and [FromFrom.GetTitledFirstName] confessed soon enough when I confronted [FromFrom.GetHerHim]. Several guests became sick but thank [Root.Religion.GetRandomGodName] no one died, the poison in the wine was too diluted to cause anyone permanent damage.;;;;;;;;;;;Íåñêîëüêî ñâèäåòåëåé çàÿâèëè, ÷òî îíè âèäåëè, êàê [FromFrom.GetTitledFirstName] ïîäëèâàåò ÷òî-òî â âèíî. Äîâîëüíî ñêîðî ìíå óäàëîñü ïîëó÷èòü îò í[FromFrom.GetHersHis] ïðèçíàíèå. Íåêîòîðûå ãîñòè ïî÷óâñòâîâàëè ñëàáîñòü, íî, ê ñ÷àñòüþ, íèêòî íå ïîãèá, ÿäà â âèíå áûëî íåäîñòàòî÷íî, ÷òîáû îêàçàòü îùóòèìûé âðåä.;;x
+EVTDESC100526;My father died from the wine [From.GetTitledFirstName] poisoned at [From.Liege.GetTitledFirstName]'s feast! I will avenge my father's death!;;;;;;;;;;;Íà ïðàçäíèêå, îðãàíèçàòîð êîòîðîãî - [From.Liege.GetTitledFirstName], îò îòðàâëåííîãî âèíà óìåð ìîé îòåö, è ïðè÷èíà ýòîìó - [From.GetTitledFirstName]! ß îòîìùó çà ñìåðòü îòöà!;;x
+EVTDESC100527;I confessed almost as soon as [From.GetTitledFirstName] started question me about the poisoned wine. My rival did not suffer at all from the poisoning but many guest had fallen ill after they had drunk the poisoned wine.;;;;;;;;;;;Ìíå ïðèøëîñü ïðèçíàòüñÿ ïîñëå òîãî, êàê äîâåëîñü óñëûøàòü, ÷òî [From.GetTitledFirstName] ãîâîðèò ñ ïðèäâîðíûìè î ìî¸ì ó÷àñòèè â îòðàâëåíèè âèíà, à çàòåì ðåøàåò îáðàòèòüñÿ ñ âîïðîñàìè êî ìíå. Ìîé âðàã âîâñå íå ïîñòðàäàë, íî ìíîãèå ãîñòè çàáîëåëè, âûïèâ ýòî âèíî.;;x
+EVTOPTA72000;They will be perfect entertainment for the feast!;;;;;;;;;;;Èõ âûñòóïëåíèå áóäåò ïðåêðàñíûì ðàçâëå÷åíèåì íà ïèðó!;;x
+EVTOPTA72001;I was just looking for some entertainment for my feast!;;;;;;;;;;;ß êàê ðàç èùó ðàçâëå÷åíèé äëÿ ñâîåãî ïèðà!;;x
+EVTOPTA72002;I want to offer you my patronage;;;;;;;;;;;ß õî÷ó ïðåäëîæèòü Âàì ñâî¸ ïîêðîâèòåëüñòâî.;;x
+EVTOPTA72003;I will spend lavishly on food;;;;;;;;;;;ß íå áóäó äàæå çàäóìûâàòüñÿ îá ýêîíîìèè íà åäå.;;x
+EVTOPTA72004;Just repair it, I don't care about the cost!;;;;;;;;;;;Íà÷èíàéòå ðåìîíò, íå çàáîòÿñü î åãî ñòîèìîñòè!;;x
+EVTOPTA72005;I send Marshal [Root.job_marshal.GetTitledFirstName] to deal with them;;;;;;;;;;;[Root.GetMarshalName] [Root.job_marshal.GetFirstName] áóäåò ïîñëàí äëÿ áîðüáû ñ íèìè.;;x
+EVTOPTA72006;The guests would be impressed if they entertained at my feast;;;;;;;;;;;Ãîñòè áóäóò âïå÷àòëåíû, åñëè ôàêèðû áóäóò ðàçâëåêàòü èõ íà ïèðó.;;x
+EVTOPTA72007;You must perform at my feast!;;;;;;;;;;;Òû äîëæåí âûñòóïèòü ó ìåíÿ íà ïèðó!;;x
+EVTOPTA72008;Send out Marshal [Root.job_marshal.GetTitledFirstName];;;;;;;;;;;[Root.GetMarshalName] [Root.job_marshal.GetFirstName] ñäåëàåò ýòî.;;x
+EVTOPTA72009;You would be perfect for my feast!;;;;;;;;;;;Âû áûëè áû èäåàëüíûì äîïîëíåíèåì ìîåãî ïðàçäíèêà!;;x
+EVTOPTA72010;'I hereby invite you to...';;;;;;;;;;;ß ïðèãëàøàþ Âàñ...;;x
+EVTOPTA72011;I will travel to the feast;;;;;;;;;;;ß ñîáèðàþñü ïîåõàòü íà ïðàçäíèê.;;x
+EVTOPTA72012;Well I don't like you either!;;;;;;;;;;;Íó, òû ìíå òîæå íå î÷åíü-òî íðàâèøüñÿ!;;x
+EVTOPTA72015;Welcome to my feast!;;;;;;;;;;;Äîáðî ïîæàëîâàòü íà ïèð!;;x
+EVTOPTA72016;Thank you for having us!;;;;;;;;;;;Ñïàñèáî çà òî, ÷òî Âû ñ íàìè!;;x
+EVTOPTA72020;These dishes are heavenly!;;;;;;;;;;;Äîëæíî áûòü, òàêèå áëþäà ïîäàþò íà íåáåñàõ!;;x
+EVTOPTA72021;The food is great, [Root.Liege.GetTitledFirstName]!;;;;;;;;;;;Åäà âåëèêîëåïíà, [Root.Liege.GetTitledFirstName]!;;x
+EVTOPTA72022;The dishes reflects your temperance, well done!;;;;;;;;;;;Áëþäà îòðàæàþò Âàøó óìåðåííîñòü, çäîðîâî!;;x
+EVTOPTA72023;That was well spoken, thank you;;;;;;;;;;;Õîðîøî ñêàçàíî, ñïàñèáî Âàì.;;x
+EVTOPTA72024;If you don't have something nice to say, shut up!;;;;;;;;;;;Ìîë÷èòå, åñëè íå ìîæåòå ñêàçàòü íè÷åãî õîðîøåãî!;;x
+EVTOPTA72025;I think I have made a new friend;;;;;;;;;;;Äóìàþ, òåïåðü ó ìåíÿ åñòü íîâûé äðóã.;;x
+EVTOPTA72026;[From.GetTitledFirstName] ish my besht friend!;;;;;;;;;;;[From.GetTitledFirstName] - òåïåðü ìîé ëó÷øèé äðóã!;;x
+EVTOPTA72027;Our mutual dislike made us friends!;;;;;;;;;;;Îáúåêò íàøåé âçàèìíîé íåïðèÿçíè ñäåëàë íàñ äðóçüÿìè!;;x
+EVTOPTA72028;The enemy of my enemy is my friend, right?;;;;;;;;;;;Âðàã ìîåãî âðàãà - ìîé äðóã, íå òàê ëè?;;x
+EVTOPTA72030;I challenge you to a duel!;;;;;;;;;;;ß âûçûâàþ Âàñ íà ïîåäèíîê!;;x
+EVTOPTA72031;Nonetheless, I accept;;;;;;;;;;;Òåì íå ìåíåå, ÿ ïðèíèìàþ âûçîâ.;;x
+EVTOPTA72032;I managed to wound [From.GetTitledFirstName]!;;;;;;;;;;;[From.GetTitledFirstName] ïîëó÷èë ðàíåíèå â ïîåäèíêå ñî ìíîé!;;x
+EVTOPTA72033;...wounded on the ground;;;;;;;;;;;...ðàíåíûé íà çåìëå.;;x
+EVTOPTA72034;You disgust me!;;;;;;;;;;;Âû âíóøàåòå ìíå îòâðàùåíèå!;;x
+EVTOPTA72035;How could you!?;;;;;;;;;;;Êàê Âû ìîãëè!?;;x
+EVTOPTA72036;What on Earth have you done!;;;;;;;;;;;×òî çäåñü ïðîèçîøëî?!;;x
+EVTOPTA72037;Don't just stand there, help [feast_duel_target.GetHerHim]!;;;;;;;;;;;×òî ñìîòðèòå? Ïîìîãèòå [feast_duel_target.GetHerHim]!;;x
+EVTOPTA72038;I try to get to them before it is too late...;;;;;;;;;;;ß ñòàðàþñü, äîáðàòüñÿ äî íèõ ïîêà íå ñòàëî ñëèøêîì ïîçäíî...;;x
+EVTOPTA72039;That was sensible of [From.GetHerHim]...;;;;;;;;;;;Ýòî áûëî ðàçóìíî ñ [From.GetHersHis] ñòîðîíû...;;x
+EVTOPTA72040;But we are both married...;;;;;;;;;;;Íî ìû îáà â áðàêå...;;x
+EVTOPTA72041;[From.GetFirstName] kissed me and we fell onto the bed...;;;;;;;;;;;[From.GetFirstName] öåëóåò ìåíÿ, è ìû ïàäàåì íà êðîâàòü...;;x
+EVTOPTA72042;...and now [From.GetFirstName]'s spouse [From.Spouse.GetTitledFirstName] hates me;;;;;;;;;;;... è òåïåðü ì[Root.Spouse.GetOyaOy] [Root.Spouse.GetHusbandWife] [From.Spouse.GetTitledFirstName] íåíàâèäèò ìåíÿ.;;x
+EVTOPTA72045;More wine please!;;;;;;;;;;;Åù¸ âèíà!;;x
+EVTOPTA72046;Sorry! The wine do not agree with me...;;;;;;;;;;;Ïðîñòèòå! Âèíî ïîáåäèëî ìåíÿ...;;x
+EVTOPTA72047;What a foul smell!;;;;;;;;;;;Êàêîé íåïðèÿòíûé çàïàõ!;;x
+EVTOPTA72048;I think I fell asleep at the table, the wine made me sleepy;;;;;;;;;;;ß äóìàþ, ÷òî çàñíóë[Root.GetEndA] çà ñòîëîì, âèíî ïîáåäèëî ìåíÿ.;;x
+EVTOPTA72049;That's disgusting!;;;;;;;;;;;Ýòî îòâðàòèòåëüíî!;;x
+EVTOPTA72050;Can't [Root.Liege.GetTitledFirstName] make sure the roads are safe?;;;;;;;;;;;Íåóæåëè [Root.Liege.GetTitledFirstName] íå ìîã[Root.Liege.GetNoneE] óäîñòîâåðèòñÿ, ÷òî äîðîãè áåçîïàñíû?;;x
+EVTOPTA72051;I understand [From.GetHerHis] irritation over this;;;;;;;;;;;ß ïîíèìàþ [From.GetHersHis] ðàçäðàæåíèå ïî ýòîìó ïîâîäó.;;x
+EVTOPTA72052;How dare [From.GetTitledFirstName] insult me!;;;;;;;;;;;[From.GetFirstName], ýòî ôîðìåííîå îñêîðáëåíèå!;;x
+EVTOPTA72055;I should have made him pay for the garb before I killed him;;;;;;;;;;;Íàäî áûëî çàñòàâèòü åãî çàïëàòèòü çà èñïîð÷åííóþ îäåæäó äî òîãî, êàê ÿ óáèë[Root.GetEndA] åãî.;;x
+EVTOPTA72056;Imprison [From.GetTitledFirstName]!;;;;;;;;;;;[From.GetTitledFirstName] áóäåò áðîøåí[From.GetEndA] â òåìíèöó!;;x
+EVTOPTA72057;Am I here because of a dead servant?!;;;;;;;;;;;ß çäåñü èç-çà ì¸ðòâîãî ñëóãè?!;;x
+EVTOPTA72060;That's it! Off to prison with you!;;;;;;;;;;;Ïîæàëóé, ñ ìåíÿ õâàòèò! Â òåìíèöó åãî!;;x
+EVTOPTA72061;Though, it was not suitable to throw the jester into the dungeon;;;;;;;;;;;Õîòÿ, ýòî íå áûëî äî òàêîé ñòåïåíè îñêîðáèòåëüíî, ÷òîáû øóò çàñëóæèë òåìíèöó...;;x
+EVTOPTA72062;[Root.GetTitledFirstName], I applaud your patience;;;;;;;;;;;[From.GetTitledFirstName], ÿ çàâèäóþ Âàøåìó òåðïåíèþ.;;x
+EVTOPTA72063;Your performance was splendid!;;;;;;;;;;;Âàøå âûñòóïëåíèå áûëî ðîñêîøíûì!;;x
+EVTOPTA72064;They were wonderful!;;;;;;;;;;;Îíè áûëè âåëèêîëåïíû!;;x
+EVTOPTA72065;Sing that ballad once more, please!;;;;;;;;;;;Ñïîéòå òó áàëëàäó åù¸ ðàç, ïîæàëóéñòà!;;x
+EVTOPTA72066;I loved every minute of it!;;;;;;;;;;;ß ïîëþáèë êàæäóþ ìèíóòó åãî ïåíèÿ!;;x
+EVTOPTA72067;One more dance!;;;;;;;;;;;Åù¸ îäèí òàíåö!;;x
+EVTOPTA72068;I don't want to stop dancing!;;;;;;;;;;;ß íå õî÷ó ïðåêðàùàòü òàíöû!;;x
+EVTOPTA72069;I managed to save both my eyebrows this time!;;;;;;;;;;;Íà ýòîò ðàç ìíå óäàëîñü ñïàñòè îáå èç ñâîèõ áðîâåé!;;x
+EVTOPTA72070;Bravo!;;;;;;;;;;;Áðàâî!;;x
+EVTOPTA72071;Give that back!;;;;;;;;;;;Îòäàéòå!;;x
+EVTOPTA72072;Do it again! Do it again!;;;;;;;;;;;Ñäåëàé òàê åù¸ ðàç! Åù¸ ðàç!;;x
+EVTOPTA72075;I like to flirt, but I wouldn't do anything more than that;;;;;;;;;;;Ìíå íðàâèòñÿ ôëèðòîâàòü, íî ÿ íå âûõîæó çà ðàìêè ïðèëè÷èé.;;x
+EVTOPTA72076;[From.GetFirstName] kissed me and I kissed [From.GetHerHim] back and we ended up in the bed...;;;;;;;;;;;[From.GetFirstName] öåëóåò ìåíÿ, ÿ âîçâðàùàþ ïîöåëóé, è ìû îêàçûâàåìñÿ â ïîñòåëè...;;x
+EVTOPTA72077;I don't regret that night...;;;;;;;;;;;ß íå ñîæàëåþ î òîé íî÷è...;;x
+EVTOPTA72080;I haven't ever met a more fascinating person!;;;;;;;;;;;ß íèêîãäà íå âñòðå÷àë[Root.GetEndA] áîëåå èíòåðåñíîãî ñîáåñåäíèêà!;;x
+EVTOPTA72081;We have to do this again, soon!;;;;;;;;;;;Ìû äîëæíû ñîáðàòüñÿ êàê-íèáóäü è ïîãîâîðèòü âíîâü, æåëàòåëüíî íà äíÿõ!;;x
+EVTOPTA72085;Guards! Imprison that person!;;;;;;;;;;;Ñòðàæà! Çàêëþ÷èòå â òåìíèöó ýòîãî ÷åëîâåêà!;;x
+EVTOPTA72086;Yes, I will grant you the title;;;;;;;;;;;Äà, ÿ ïðåäîñòàâëþ Âàì òèòóë.;;x
+EVTOPTA72087;Thank you!;;;;;;;;;;;Áëàãîäàðþ Âàñ!;;x
+EVTOPTA72088;I won't forget this!;;;;;;;;;;;ß íå çàáóäó ýòîãî!;;x
+EVTOPTA72089;The title will never be yours!;;;;;;;;;;;Ýòîò òèòóë íèêîãäà òåáå íå äîñòàíåòñÿ!;;x
+EVTOPTA72090;It's fun to flirt;;;;;;;;;;;Àõ, êàêàÿ çàáàâà - ôëèðòîâàòü.;;x
+EVTOPTA72091;My daughter made me proud!;;;;;;;;;;;Ìîÿ äî÷ü çàñòàâèëà ìåíÿ ãîðäèòüñÿ åé!;;x
+EVTOPTA72092;I will tell [From.GetTitledFirstName]'s father!;;;;;;;;;;;Èíòåðåñíî, áóäåò ëè ðàä [From.GetTitledFirstName], óçíàâ, ÷òî ÿ ðåøèë ïîãîâîðèòü ñ åãî îòöîì?;;x
+EVTOPTA72093;Well, what can I do? Nothing!;;;;;;;;;;;Íó è ÷òî ÿ ìîãó ñäåëàòü? Íè÷åãî!;;x
+EVTOPTA72094;There's nothing I can do about it now;;;;;;;;;;;Íó, ÿ íè÷åãî íå ìîãó èçìåíèòü.;;x
+EVTOPTA72095;Is there anything I can do?;;;;;;;;;;;ß ìîãó ÷òî-íèáóäü ñäåëàòü?;;x
+EVTOPTA72096;Let us forget this ever happened, eh?;;;;;;;;;;;Äàâàéòå ñäåëàåì âèä, ÷òî íè÷åãî íå áûëî, à?;;x
+EVTOPTA72097;[Root.Liege.GetTitledFirstName] must marry my daughter!;;;;;;;;;;;[Root.Liege.GetTitledFirstName] äîëæåí æåíèòüñÿ íà ìîåé äî÷åðè!;;x
+EVTOPTA72098;I accept;;;;;;;;;;;Ñîãëàñåí.;;x
+EVTOPTA72099;My son has to learn from his mistakes, I accept;;;;;;;;;;;Ìîé ñûí äîëæåí ó÷èòüñÿ íà ñâîèõ îøèáêàõ, ñîãëàñåí.;;x
+EVTOPTA72100;Looks like I have no other choice...;;;;;;;;;;;Ïîõîæå, ó ìåíÿ íåò äðóãîãî âûáîðà...;;x
+EVTOPTA72109;And all my vassals will be there...;;;;;;;;;;;È âñå ìîè âàññàëû áóäóò òàì...;;x
+EVTOPTA72110;I had great fun and so did everyone else;;;;;;;;;;;ß ïîëó÷èë[Root.GetEndA] îãðîìíîå óäîâîëüñòâèå, êàê è âñå îñòàëüíûå.;;x
+EVTOPTA72110_TOOLTIP;Your guests enjoyed the feast, increasing §YOpinion§! by §G5§! for §Y2§! years\n;;;;;;;;;;;Âàøèì ãîñòÿì ïîíðàâèëñÿ ïðàçäíèê, ÷òî ïîâûøàåò èõ §Yìíåíèå î Âàñ§! íà §G5§! íà §Y2§! ãîäà\n;;x
+EVTOPTA72111;Will there be a feast next year?;;;;;;;;;;;Áóäåò ëè ïðàçäíèê â ñëåäóþùåì ãîäó?;;x
+EVTOPTA72112;Let us hope so;;;;;;;;;;;Áóäåì íàäåÿòüñÿ...;;x
+EVTOPTA72113;Ask me then and we'll see;;;;;;;;;;;Ñïðîñèòå ìåíÿ åù¸ ðàç áëèæå ê ïèðó, òîãäà è ïîñìîòðèì.;;x
+EVTOPTA72115;Bravo! Wonderful!;;;;;;;;;;;Áðàâî! ×óäåñíî!;;x
+EVTOPTA72116;So [From.GetSheHe] liked the acrobats...?;;;;;;;;;;;Èòàê, [From.GetTitledFirstName] ëþáèò àêðîáàòîâ?;;x
+EVTOPTA72120;I'd like to hire you for my feast!;;;;;;;;;;;Íàäî áû ïðèãëàñèòü èõ íà ñëåäóþùèé ïèð!;;x
+EVTOPTA100520;I will take the risk and poison the wine!;;;;;;;;;;;ß ïîéäó íà ðèñê è îòðàâëþ âèíî!;;x
+EVTOPTA100521;The poisoned wine... wasted!;;;;;;;;;;;Îòðàâëåííîå âèíî... âñ¸ âïóñòóþ!;;x
+EVTOPTA100522;...kill... ...me...;;;;;;;;;;;...óáåéòå... ìåíÿ...;;x
+EVTOPTA100523;If I find out who did it, they'll be more than sorry!;;;;;;;;;;;Åñëè ÿ óçíàþ, êòî ýòî ñäåëàë, îí ñèëüíî ïîæàëååò!;;x
+EVTOPTA100524;[From.GetTitledFirstName] died a slow and painful death from the poison;;;;;;;;;;;[From.GetTitledFirstName] óìèðàåò äîëãî è ìó÷èòåëüíî.;;x
+EVTOPTA100525;Throw the poisoner into the dungeon!;;;;;;;;;;;Áðîñèòü îòðàâèòåëÿ â òåìíèöó!;;x
+EVTOPTB72000;No, I don't think so...;;;;;;;;;;;Íåò, íå äóìàþ...;;x
+EVTOPTB72001;You are not quite what I am looking for...;;;;;;;;;;;Ýòî íå ñîâñåì òî, ÷òî ÿ èùó...;;x
+EVTOPTB72002;Not good enough, sorry;;;;;;;;;;;Íå äîñòàòî÷íî õîðîøè, à æàëü.;;x
+EVTOPTB72003;Spend enough on food to satisfy everyone's hunger;;;;;;;;;;;Ïîòðà÷ó íà åäó ñòîëüêî, ÷òîáû óäîâëåòâîðèòü ãîëîä êàæäîãî.;;x
+EVTOPTB72004;Let the guests suffer!;;;;;;;;;;;Ïóñòü ãîñòè ñòðàäàþò!;;x
+EVTOPTB72005;They haven't killed anyone yet, right?;;;;;;;;;;;Îíè íèêîãî íå óáèëè ïîêà, âåðíî?;;x
+EVTOPTB72006;Too dangerous! I don't want my guests to catch fire;;;;;;;;;;;Ñëèøêîì îïàñíî! ß íå õî÷ó, ÷òîáû ìîè ãîñòè ñãîðåëè.;;x
+EVTOPTB72007;Nothing but simple tricks;;;;;;;;;;;Íè÷åãî îñîáåííîãî, äåøåâûå òðþêè.;;x
+EVTOPTB72008;Send out my child;;;;;;;;;;;Ïîñëàòü ñâî[child_72008.GetYuEgo] [child_72008.GetSonDaughterACC];;x
+EVTOPTB72009;Get out! What do you think you are doing?!;;;;;;;;;;;Ïîøëè âîí! ×òî Âû çäåñü äåëàåòå?!;;x
+EVTOPTB72011;I will attend this feast over my dead body!;;;;;;;;;;;ß ïîñåùó ýòîò ïðàçäíèê, òîëüêî åñëè óìðó è ìåíÿ òóäà ïðèíåñóò!;;x
+EVTOPTB72020;People are starving and you serve this abundance of food?;;;;;;;;;;;Ëþäè ãîëîäàþò, à Âû ïðåäà¸òåñü ÷ðåâîóãîäèþ?;;x
+EVTOPTB72021;Where's the boar?;;;;;;;;;;;Ãäå êàáàí?;;x
+EVTOPTB72022;Is this what you serve your guests? Shame on you!;;;;;;;;;;;Ýòî âñ¸, ÷òî Âû ìîæåòå ïðåäëîæèòü ñâîèì ãîñòÿì? Ñòûä è ïîçîð!;;x
+EVTOPTB72030;I wouldn't want to spoil the feast;;;;;;;;;;;ß áû íå õîòåë èñïîðòèòü ïðàçäíèê.;;x
+EVTOPTB72031;I don't want to spoil the feast, let us do this another time;;;;;;;;;;;ß íå õî÷ó ïîðòèòü ïðàçäíèê, äàâàéòå ïðîâåä¸ì ïîåäèíîê â äðóãîå âðåìÿ.;;x
+EVTOPTB72032;I managed to maim [From.GetTitledFirstName]!;;;;;;;;;;;[From.GetTitledFirstName] ïîëó÷èë óâå÷üå â ïîåäèíêå ñî ìíîé!;;x
+EVTOPTB72033;...maimed on the ground;;;;;;;;;;;...èñêàëå÷åííûé íà çåìëå.;;x
+EVTOPTB72035;Well done!;;;;;;;;;;;Àé äà ìîëîäåö!;;x
+EVTOPTB72036;Excellent work!;;;;;;;;;;;Îòëè÷íàÿ ðàáîòà!;;x
+EVTOPTB72037;[feast_duel_target.GetTitledFirstName] surely deserved it;;;;;;;;;;;[feast_duel_target.GetTitledFirstName] çàñëóæèë[feast_duel_target.GetEndA] ýòî!;;x
+EVTOPTB72040;May I suggest we retreat to a more private place?;;;;;;;;;;;Ìîãó ëè ÿ ïðåäëîæèòü Âàì ïîèñêàòü áîëåå óåäèí¸ííûé óãîëîê?;;x
+EVTOPTB72041;I kissed [From.GetFirstName] and we fell onto the bed...;;;;;;;;;;;[From.GetFirstName] äîæèäàåòñÿ ìîåãî ïîöåëóÿ, è ìû ïàäàåì íà êðîâàòü...;;x
+EVTOPTB72045;No more wine for me, please;;;;;;;;;;;Ïîæàëóéñòà, íå íàëèâàéòå ìíå áîëüøå.;;x
+EVTOPTB72056;[From.GetSheHeCap] did the right thing;;;;;;;;;;;Ãîñòü â ñâî¸ì ïðàâå.;;x
+EVTOPTB72060;I really shouldn't let [insulting_jester.GetHerHim] get on my nerves like this;;;;;;;;;;;Äåéñòâèòåëüíî, íå íóæíî ïîçâîëÿòü [insulting_jester.GetHerHim] äåéñòâîâàòü ìíå íà íåðâû òàêèì îáðàçîì.;;x
+EVTOPTB72075;I'd like to show you the castle, especially my bedchamber...;;;;;;;;;;;Íå õîòèòå ïîñìîòðåòü ìîé [Root.GetCapitalBuilding], [From.GetChamberACC] â ÷àñòíîñòè?;;x
+EVTOPTB72076;We should return to the others now...;;;;;;;;;;;Òåïåðü ìû äîëæíû âîçâðàòèòüñÿ ê îñòàëüíûì...;;x
+EVTOPTB72085;I have something important I need to discuss with you...;;;;;;;;;;;Åñòü êîå-÷òî î÷åíü âàæíîå, ÷òî ÿ äîëæåí îáñóäèòü ñ Âàìè...;;x
+EVTOPTB72086;I refuse to give you the title!;;;;;;;;;;;ß îòêàçûâàþñü äàòü Âàì òèòóë!;;x
+EVTOPTB72089;Wait... I'll give you the title, just let me out!;;;;;;;;;;;ß îòêàæóñü îò òèòóëà, òîëüêî âûïóñòèòå ìåíÿ îòñþäà!;;x
+EVTOPTB72090;I'll give her a good tumble!;;;;;;;;;;;ß äàì åé õîðîøèé îò âîðîò ïîâîðîò!;;x
+EVTOPTB72092;[From.GetTitledFirstName], how could you?;;;;;;;;;;;[From.GetTitledFirstName], êàê òû ìîã?;;x
+EVTOPTB72097;[Root.Liege.GetTitledFirstName]'s son must marry my daughter!;;;;;;;;;;;[Root.Liege.GetTitledFirstName] áóäåò óäèâë¸í, åãî ñûí äîëæåí æåíèòüñÿ íà ìîåé äî÷åðè!;;x
+EVTOPTB72098;Never!;;;;;;;;;;;Íèêîãäà!;;x
+EVTOPTB72099;My son will never marry your daughter!;;;;;;;;;;;Ìîé ñûí íèêîãäà íå æåíèòñÿ íà Âàøåé äî÷åðè!;;x
+EVTOPTB72120;Great fun, but my guests are too old for this;;;;;;;;;;;Ñëàâíîå âåñåëüå. Íî ìîè ãîñòè ñëèøêîì ñòàðû äëÿ ýòîãî.;;x
+EVTOPTB100520;I dare not, what if I was to be discovered?;;;;;;;;;;;À åñëè îáíàðóæèòñÿ, ÷òî ýòî ìîèõ ðóê äåëî?;;x
+EVTOPTB100522;The poison did not kill me, but it made me infirm;;;;;;;;;;;ßä íå óáèë ìåíÿ, íî ïîëíîñòüþ ëèøèë ñèë.;;x
+EVTOPTB100524;The poison did not kill [From.GetTitledFirstName], only made [From.GetHerHim] infirm;;;;;;;;;;;ßä íå óáèë, íî ïðèâ¸ë [From.GetHersHis] ê íåìîùè.;;x
+EVTOPTB100525;Banish the poisoner, as far away as possible!;;;;;;;;;;;Èçãíàòü îòðàâèòåëÿ èç ñòðàíû!;;x
+EVTOPTC72003;I don't want to spend too much on food;;;;;;;;;;;ß íå õî÷ó òðàòèòü ñëèøêîì ìíîãî íà åäó.;;x
+EVTOPTC72008;I will hunt the boars myself;;;;;;;;;;;ß áóäó îõîòèòüñÿ íà êàáàíîâ ñàìîñòîÿòåëüíî.;;x
+EVTOPTC72020;I will just keep quiet about the food;;;;;;;;;;;ß ïðîñòî ïðîìîë÷ó è íå áóäó ãîâîðèòü î åäå.;;x
+EVTOPTC72021;This is good enough for me;;;;;;;;;;;Äîñòàòî÷íî õîðîøî äëÿ ìåíÿ.;;x
+EVTOPTC72022;It is not my place to criticise the food;;;;;;;;;;;Íå ìî¸ ýòî äåëî - êðèòèêîâàòü óãîùåíèÿ.;;x
+EVTOPTC72033;...dead on the ground;;;;;;;;;;;...ì¸ðòâûé íà çåìëå.;;x
+EVTOPTC72035;I have nothing I want to say to you...;;;;;;;;;;;Ìíå íå÷åãî Âàì ñêàçàòü...;;x
+EVTOPTC72036;Leave, now!;;;;;;;;;;;Ïðîâàëèâàéòå îòñþäà!;;x
+EVTOPTC72037;Leave my feast, now!;;;;;;;;;;;Âûìåòàéòåñü îòñþäà! Ñåé÷àñ æå!;;x
+EVTOPTC72041;The awkwardness of the situation made me leave the room;;;;;;;;;;;Íåëîâêîñòü ñèòóàöèè çàñòàâèëà ìåíÿ ïîêèíóòü êîìíàòó.;;x
+EVTOPTC72056;Some gold will keep the servants quiet.;;;;;;;;;;;Íåìíîãî çîëîòà çàñòàâèò èõ çàìîë÷àòü.;;x
+EVTOPTC72085;I have enough titles, I don't need one more;;;;;;;;;;;Ó ìåíÿ äîñòàòî÷íî ìíîãî òèòóëîâ, ÿ íå íóæäàþñü åù¸ â îäíîì.;;x
+EVTOPTC72092;Grovel to [From.GetTitledFirstName]'s [FromFrom.GetFatherMother];;;;;;;;;;;Âàëÿòüñÿ â íîãàõ ó îòöà [From.GetTitledFirstName].;;x
+EVTOPTC72097;Hold my anger;;;;;;;;;;;ß äîëæåí ñäåðæàòü ãíåâ.;;x
+EVTOPTC100522;The poison... it buuurns...;;;;;;;;;;;ßä... âñ¸ ãîðèò...;;x
+EVTOPTC100524;The poison made [From.GetTitledFirstName] sick as a pig;;;;;;;;;;;ßä ïðèâ¸ë [From.GetHersHis] ê áîëåçíè.;;x
+EVTOPTC100525;No one died, so I'll be merciful;;;;;;;;;;;Íèêòî íå óìåð, ÿ ïðîÿâëþ ìèëîñåðäèå.;;x
+EVTOPTD72003;I will see to it that we make use of existing recipes, for inspiration.;;;;;;;;;;;Õîðîøî, ÷òî ó ìåíÿ åñòü êíèãà ðåöåïòîâ!;;x
+EVTOPTD72003_buddy_cannibal_tt;Your [potential_cannibal.GetRootRelation] takes charge of the administration of food...;;;;;;;;;;;Âàø[potential_cannibal.GetEndA] [potential_cannibal.GetRootRelation] íàâåðíÿêà îöåíèò ãëàâíîå áëþäî...;;x
+EVTOPTD72003_cannibal_tt;You find yourself unable to put the book down...;;;;;;;;;;;Âû çàèíòðèãîâàíû òåì, ÷òî îïèñàíî â êíèãå...;;x
+EVTOPTD72003_cheap;Let's make use of this little book, why don't we?;;;;;;;;;;;È ïîâàðåííàÿ êíèãà ïðèä¸òñÿ âåñüìà êñòàòè.;;x
+EVTOPTD72008;Force the peasants to hunt;;;;;;;;;;;Çàñòàâèì îõîòèòüñÿ êðåñòüÿí.;;x
+EVTOPTD72092;Grovel to [From.GetTitledFirstName];;;;;;;;;;;Âàëÿòüñÿ â íîãàõ ó [From.GetTitledFirstName].;;x
+EVTOPTG4165;I think I'll need to pay them better;;;;;;;;;;;Äóìàþ, ìû äîëæíû èì õîðîøî çàïëàòèòü;;x
+EVTTOOLTIP72011;[This.GetTitledFirstName] is invited to [Root.GetTitledFirstName]'s feast;;;;;;;;;;;[Root.GetTitledFirstName] ïðèãëàøàåò íà ïèð;;x
+EVTTOOLTIP72012;[From.GetTitledFirstName] is greatly disappointed by [Root.GetTitledFirstName] refusal;;;;;;;;;;;[From.GetTitledFirstName] íå ñêðûâàåò ñâîåãî ðàçî÷àðîâàíèÿ òåì, ÷òî [Root.GetTitledFirstName] îòêàçûâàåòñÿ.;;x
+EVTTOOLTIP72016;[This.GetTitledFirstName] is greeted by [Root.GetTitledFirstName];;;;;;;;;;;[Root.GetTitledFirstName] âñòðå÷àåò ãîñòåé;;x
+EVTTOOLTIP72023;[This.GetTitledFirstName] is glad [Root.GetTitledFirstName] liked the food at the feast;;;;;;;;;;;[This.GetTitledFirstName] ðàä[This.GetEndA], ÷òî [Root.GetTitledFirstName] ïîõâàëèë[This.GetEndA] óãîùåíèÿ.;;x
+EVTTOOLTIP72024;[Root.GetTitledFirstName] complaints about the food irritates [This.GetTitledFirstName];;;;;;;;;;;[This.GetTitledFirstName] ðàçäðàæåí[This.GetEndA] òåì, ÷òî [Root.GetTitledFirstName] æàëóåòñÿ íà óãîùåíèÿ.;;x
+EVTTOOLTIP72026;[This.GetTitledFirstName] and [Root.GetTitledFirstName] is now friends;;;;;;;;;;;[This.GetTitledFirstName] è [Root.GetTitledFirstName] ñòàëè äðóçüÿìè.;;x
+EVTTOOLTIP72028;Their mutual dislike of [Root.Liege.GetTitledFirstName] made [This.GetTitledFirstName] and [Root.GetTitledFirstName] become friends;;;;;;;;;;;[This.GetTitledFirstName] è [Root.GetTitledFirstName] ñòàëè äðóçüÿìè, áëàãîäàðÿ íåïðèÿçíè, êîòîðóþ âûçûâàåò ó îáîèõ [Root.Liege.GetTitledFirstName].;;x
+EVTTOOLTIP72031;[feast_duel_target.GetTitledFirstName] is challenged to a duel by [Root.GetTitledFirstName];;;;;;;;;;;[feast_duel_target.GetTitledFirstName] ïðèìåò âûçîâ íà äóýëü, êîòîðûé [feast_duel_target.GetHerHim] áðîñàåò [Root.GetTitledFirstName];;x
+EVTTOOLTIP72033;The duel is over;;;;;;;;;;;Ïîåäèíîê îêîí÷åí.;;x
+EVTTOOLTIP72034;[This.GetTitledFirstName] interferes and stops the duel;;;;;;;;;;;[This.GetTitledFirstName] âìåøèâàåòñÿ è îñòàíàâëèâàåò ïîåäèíîê;;x
+EVTTOOLTIP72035;[This.GetTitledFirstName] is notified about the fate of your opponent.;;;;;;;;;;;[This.GetTitledFirstName] óçíàåò î ñóäüáå Âàøåãî ïðîòèâíèêà.;;x
+EVTTOOLTIP72036;[This.GetTitledFirstName] is notified about wounded opponent;;;;;;;;;;;[This.GetTitledFirstName] óçíà¸ò î ðàíåííîì ïðîòèâíèêå;;x
+EVTTOOLTIP72037;[This.GetTitledFirstName] is notified about maimed opponent;;;;;;;;;;;[This.GetTitledFirstName] óçíà¸ò îá èñêàëå÷åííîì ïðîòèâíèêå;;x
+EVTTOOLTIP72041;[This.GetTitledFirstName] and [Root.GetTitledFirstName] slipped away unnoticed from the feast together;;;;;;;;;;;[This.GetTitledFirstName] è [Root.GetTitledFirstName] íåçàìåòíî ñáåæàëè ñ ïðè¸ìà âäâî¸ì.;;x
+EVTTOOLTIP72042;A small surprise awaits [This.GetTitledFirstName]...;;;;;;;;;;;[This.GetTitledFirstName] ìîæåò ãîòîâèòüñÿ ê íåáîëüøîìó ñþðïðèçó...;;x
+EVTTOOLTIP72047;[Root.GetTitledFirstName]'s problem with wine disgusts [This.GetTitledFirstName];;;;;;;;;;;[This.GetTitledFirstName] ñ îòâðàùåíèåì âîñïðèíèìàåò òå ïðîáëåìû, êîòîðûå èìååò ñ âèíîì [Root.GetTitledFirstName].;;x
+EVTTOOLTIP72049;[Root.GetTitledFirstName]'s behavior disgusts [This.GetTitledFirstName];;;;;;;;;;;[This.GetTitledFirstName] ñ îòâðàùåíèåì âîñïðèíèìàåò òî, êàê âåë[Root.GetEndA] ñåáÿ [Root.GetTitledFirstName].;;x
+EVTTOOLTIP72051;[Root.GetTitledFirstName] complains to [This.GetTitledFirstName] about the band of highway robbers;;;;;;;;;;;[This.GetTitledFirstName] âûñëóøèâàåò æàëîáû î òîì, ÷òî [Root.GetTitledFirstName] ïîñòðàäàë[Root.GetEndA] îò áàíäèòîâ ñ áîëüøîé äîðîãè.;;x
+EVTTOOLTIP72052;You refusing more wine insults [This.GetTitledFirstName];;;;;;;;;;;Âàø îòêàç âûïèòü åù¸, îñêîðáèë ïåðñîíàæà [This.GetTitledFirstName];;x
+EVTTOOLTIP72056;[This.GetTitledFirstName] reacts to the killing of [This.GetHerHis] servant;;;;;;;;;;;[This.GetTitledFirstName] ðåàãèðóåò íà óáèéñòâî ñâîåãî ñëóãè.;;x
+EVTTOOLTIP72061;[This.GetTitledFirstName] reacts to [Root.GetTitledFirstName] imprisoning [Root.GetHerHis] own jester;;;;;;;;;;;[Root.GetTitledFirstName] ðåàãèðóåò íà èçäåâàòåëüñòâà ñâîåãî øóòà, îòïðàâëÿÿ åãî â òåìíèöó.;;x
+EVTTOOLTIP72062;[This.GetTitledFirstName] reacts to how graciously [Root.GetTitledFirstName] puts up with [Root.GetHerHis] jester's jokes;;;;;;;;;;;[Root.GetTitledFirstName] íå ðåàãèðóåò íà èçäåâàòåëüñòâà ñâîåãî øóòà, ëþáåçíî òåðïÿ èõ.;;x
+EVTTOOLTIP72064;[This.GetTitledFirstName] greatly approves of the jugglers;;;;;;;;;;;[This.GetTitledFirstName] î÷åíü õâàëèò æîíãëåðîâ.;;x
+EVTTOOLTIP72066;[This.GetTitledFirstName] greatly approves of the minstrel;;;;;;;;;;;[This.GetTitledFirstName] î÷åíü õâàëèò ìåíåñòðåëÿ.;;x
+EVTTOOLTIP72068;[This.GetTitledFirstName] greatly approves of the musicians;;;;;;;;;;;[This.GetTitledFirstName] î÷åíü õâàëèò ìóçûêàíòîâ.;;x
+EVTTOOLTIP72070;[This.GetTitledFirstName] greatly approves of the fire-eaters;;;;;;;;;;;[This.GetTitledFirstName] î÷åíü õâàëèò ïîæèðàòåëåé îãíÿ.;;x
+EVTTOOLTIP72072;[This.GetTitledFirstName] greatly approves of the conjurer;;;;;;;;;;;[This.GetTitledFirstName] î÷åíü õâàëèò ôîêóñíèêà.;;x
+EVTTOOLTIP72076;[Root.GetTitledFirstName] gives [This.GetTitledFirstName] a tour of the castle and [Root.GetHerHis] bedchamber especially...;;;;;;;;;;;[Root.GetTitledFirstName] óñòðîèò ýêñêóðñèþ, à [This.GetTitledFirstName] ñìîæåò îöåíèòü ýòî..;;x
+EVTTOOLTIP72077;A night of passion came with a prize...;;;;;;;;;;;Ê íî÷è ñòðàñòè ïðèëàãàëñÿ ïðèç...;;x
+EVTTOOLTIP72081;[This.GetTitledFirstName] and [Root.GetTitledFirstName] becomes great friends;;;;;;;;;;;[This.GetTitledFirstName] è [Root.GetTitledFirstName] ñòàíîâÿòñÿ õîðîøèìè äðóçüÿìè.;;x
+EVTTOOLTIP72086;[Root.GetTitledFirstName] tries to negotiate with [This.GetTitledFirstName] about the title;;;;;;;;;;;[Root.GetTitledFirstName] è [This.GetTitledFirstName] ïûòàþòñÿ ïðîâåñòè ïåðåãîâîðû î òèòóëå.;;x
+EVTTOOLTIP72087;[Root.GetTitledFirstName] grants [This.GetTitledFirstName] the title [This.GetSheHe] wants;;;;;;;;;;;[Root.GetTitledFirstName] íàäååòñÿ ïîëó÷èòü òèòóë, êîòîðûì â äàííûé ìîìåíò âëàäååò [This.GetTitledFirstName].;;x
+EVTTOOLTIP72088;[Root.GetTitledFirstName] refuses to grant [This.GetTitledFirstName] the title;;;;;;;;;;;[Root.GetTitledFirstName] îòêàçûâàåòñÿ ïðåäîñòàâèòü òèòóë, êîòîðûé õîòåë[This.GetEndA] ïîëó÷èòü [This.GetTitledFirstName].;;x
+EVTTOOLTIP72091;[This.GetTitledFirstName] approves of [Root.GetTitledFirstName]'s harmless flirting with [This.GetHerHis] daughter;;;;;;;;;;;[This.GetTitledFirstName] îäîáðÿåò áåçîïàñíûé ôëèðò, êîòîðûé çàòåÿë [Root.GetTitledFirstName] ñ åãî äî÷åðüþ.;;x
+EVTTOOLTIP72092;[This.GetTitledFirstName] disapproves of [Root.GetTitledFirstName] seducing [This.GetHerHis] daughter;;;;;;;;;;;[This.GetTitledFirstName] íå îäîáðÿåò çàèãðûâàíèÿ, êîòîðûå íà÷àë [Root.GetTitledFirstName] ñ åãî äî÷åðüþ.;;x
+EVTTOOLTIP72093;[This.GetTitledFirstName] is told about [This.GetHerHis] son seducing [Root.GetTitledFirstName]'s daughter;;;;;;;;;;;[This.GetTitledFirstName] è [Root.GetTitledFirstName] îáùàëèñü íà òåìó îáîëüùåíèÿ ñûíîì ïåðâîãî èç íèõ äî÷åðè âòîðîãî.;;x
+EVTTOOLTIP72094;[Root.GetTitledFirstName] confronts [This.GetTitledFirstName] about seducing [Root.GetHerHis] daughter;;;;;;;;;;;[Root.GetTitledFirstName] è [This.GetTitledFirstName] êîíôëèêòóþò èç-çà îáîëüùåíèÿ äî÷åðè ïåðâîãî.;;x
+EVTTOOLTIP72095;[Root.GetTitledFirstName] asks for [This.GetTitledFirstName]'s support in this matter;;;;;;;;;;;[Root.GetTitledFirstName] ïðîñèò, ÷òîáû [This.GetTitledFirstName] îêàçàë ïîääåðæêó â ýòîì âîïðîñå.;;x
+EVTTOOLTIP72096;[Root.GetTitledFirstName] humbly asks [This.GetTitledFirstName] to make this right;;;;;;;;;;;[Root.GetTitledFirstName] ñìèðåííî ïðîñèò, ÷òîáû [This.GetTitledFirstName] ðàññóäèë âñ¸ ïðàâèëüíî.;;x
+EVTTOOLTIP72098;[Root.GetTitledFirstName] demands [This.GetTitledFirstName] marry [Root.GetTitledFirstName]'s pregnant daughter;;;;;;;;;;;[Root.GetTitledFirstName] òðåáóåò, ÷òîáû [This.GetTitledFirstName] æåíèëñÿ íà åãî áåðåìåííîé äî÷åðè.;;x
+EVTTOOLTIP72099;[Root.GetTitledFirstName] demands [This.GetTitledFirstName]'s son marry [Root.GetTitledFirstName]'s pregnant daughter;;;;;;;;;;;Ïîðîäíÿòñÿ ëè [Root.GetTitledFirstName] è [This.GetTitledFirstName]? [Root.GetTitledFirstName] òðåáóåò ñâàäüáû äëÿ ñâîåé áåðåìåííîé äî÷åðè.;;x
+EVTTOOLTIP72100;[This.GetTitledFirstName] is forced to marry the vassal's pregnant daughter;;;;;;;;;;;[This.GetTitledFirstName] âûíóæäåí æåíèòüñÿ íà áåðåìåííîé äî÷åðè âàññàëà.;;x
+EVTTOOLTIP72111;[This.GetTitledFirstName] leaves the feast;;;;;;;;;;;ïîêèäàåò ïðàçäíèê.;;x
+EVTTOOLTIP72113;A letter to all invited is sent out to announce the cancellation of the feast;;;;;;;;;;;Ïèñüìà ñ îïîâåùåíèåì îá îòìåíå ïèðà îòïðàâëÿþòñÿ âñåì ïðèãëàøåííûì ðàíåå.;;x
+EVTTOOLTIP100523;The poisoned wine intended for [Root.GetTitledFirstName]'s rival finds [This.GetTitledFirstName] lips instead;;;;;;;;;;;Îòðàâëåííîå âèíî, ïðåäíàçíà÷åííîå äëÿ ãóá ïðîòèâíèêà ïåðñîíàæà [Root.GetTitledFirstName], äîñòàëîñü ïåðñîíàæó [This.GetTitledFirstName].;;x
+EVTTOOLTIP100524;[Root.GetTitledFirstName] was poisoned by [From.GetTitledFirstName];;;;;;;;;;;[Root.GetTitledFirstName] áûë îòðàâëåí ïåðñîíàæåì [This.GetTitledFirstName];;x
+EVTTOOLTIP100525;[Root.GetTitledFirstName] was accidentally poisoned by [From.GetTitledFirstName];;;;;;;;;;;[Root.GetTitledFirstName] áûë[Root.GetEndA] ñëó÷àéíî îòðàâëåí[Root.GetEndA] ïåðñîíàæåì [From.GetTitledFirstName];;x
+EVTTOOLTIP100526;[This.GetTitledFirstName] will avenge [This.GetHerHis] father [This.Father.GetTitledFirstName];;;;;;;;;;;[This.GetTitledFirstName] áóäåò ìñòèòü çà ñâîåãî îòöà ([This.Father.GetTitledFirstName]);;x
+EVTDESC4160;The acrobats performed somersaults, cartwheels and tumbles with great skill during the course of my feast. One of them arrived in a chest seemingly too small to hold a person but he showed us how he, by distorting his body, could fit into the chest...;;;;;;;;;;;Àêðîáàòû èñïîëíÿëè ñàëüòî, êóëüáèòû è ïàäåíèÿ ñ áîëüøèì ìàñòåðñòâîì â õîäå ìîåãî ïðàçäíèêà. Îäèí èç íèõ ïðèáûë â ñóíäóêå êàçàëîñü áû, ñëèøêîì ìàëåíüêîì, ÷òîáû â í¸ì ìîã ïîìåñòèòüñÿ ÷åëîâåê, íî îí ïîêàçàë íàì, êàê, èçãèáàÿ ñâî¸ òåëî, ìîæåò âëåçòü â íåãî.;;x
+EVTDESC4165;I thought the food was superb, the wine mediocre and the dancers beautiful. Some of the more inebriated guests joined the dancers in a quadrille.;;;;;;;;;;;Åäà áûëà ïðîñòî îòëè÷íîé, âèíî - íåïëîõèì, à òàíöîðû - êðàñèâûìè. Ìíîãèå ïîäâûïèâøèå ãîñòè ïðèñîåäèíèëèñü ê òàíöîðàì.;;x
+EVTOPTA4165;I think I'll join them too;;;;;;;;;;;Äóìàþ, ñòîèò ê íèì ïðèñîåäèíèòüñÿ;;x
+EVTOPTD4160;Their skills are fascinating but unsettling;;;;;;;;;;;Ó íèõ çäîðîâî âûõîäèò, íî ÿ îïàñàþñü;;x

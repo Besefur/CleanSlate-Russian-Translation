@@ -1,92 +1,92 @@
-obj_amass_wealth_desc;[This.GetTitledFirstName] wants to amass a substantial amount of wealth;;;;;;;;;;;;;x
-obj_amass_wealth_title;Amass Wealth;;;;;;;;;;;;;x
-obj_become_chancellor_desc;[This.GetTitledFirstName] would like to treat with foreign dignitaries in the court of [This.GetPossPronoun] liege.;;;;;;;;;;;;;x
-obj_become_chancellor_title;Become [This.GetChancellorName];;;;;;;;;;;;;x
-obj_become_council_member_desc;[This.GetTitledFirstName] would like a seat on the [This.Liege.GetCouncilName] of [This.GetHerHis] liege.;;;;;;;;;;;;;x
-obj_become_council_member_title;Become a Councillor;;;;;;;;;;;;;x
-obj_become_exalted_desc;[This.GetTitledFirstName] wants [This.GetHerHis] name to live forever in the annals of history.;;;;;;;;;;;;;x
-obj_become_exalted_title;Become Exalted among Men;;;;;;;;;;;;;x
-obj_become_heir_desc;With the current heir being ill fit to rule, [This.GetTitledFirstName] thinks [This.GetSubjectPronoun] should be the prime candidate in line.;;;;;;;;;;;;;x
-obj_become_heir_title;Become Heir;;;;;;;;;;;;;x
-obj_become_king_desc;[This.GetTitledFirstName] wants to become [Root.GetKingQueen] of [This.Capital.Kingdom.GetName]. If pagan, with succession laws set to Elective Gavelkind, it allows [This.GetObjectPronoun] the unlimited use of the Subjugation Casus Belli within the kingdom. If the Fabricate Claims councilor mission is available, it may acquire a claim on [This.Capital.Kingdom.GetName] with this ambition. There is also a reduced cost for creating the [This.Capital.Kingdom.GetTier] if it does not yet exist.;;;;;;;;;;;;;x
-obj_become_king_title;Become [Root.GetKingQueen] of [This.Capital.Kingdom.GetName];;;;;;;;;;;;;x
-obj_become_marshal_desc;[This.GetTitledFirstName] dreams of leading troops in the service of [This.GetPossPronoun] liege.;;;;;;;;;;;;;x
-obj_become_marshal_title;Become [This.GetMarshalName];;;;;;;;;;;;;x
-obj_become_paragon_of_enlightenment_desc;[This.GetTitledFirstName] strives to improve [This.GetHerHis] [This.Religion.GetPietyName] and become enlightened, an inspiration to all of [This.GetHerHis] faith.;;;;;;;;;;;;;x
-obj_become_paragon_of_enlightenment_title;Become Paragon of Enlightenment;;;;;;;;;;;;;x
-obj_become_paragon_of_virtue_desc;[This.GetTitledFirstName] strives to become a beacon of chivalry and honor - a paragon of virtue.;;;;;;;;;;;;;x
-obj_become_paragon_of_virtue_title;Become Paragon of Virtue;;;;;;;;;;;;;x
-obj_become_spiritual_desc;[This.GetTitledFirstName] would like to advise [This.GetPossPronoun] liege in spiritual matters.;;;;;;;;;;;;;x
-obj_become_spiritual_title;Become [This.GetLordSpiritualName];;;;;;;;;;;;;x
-obj_become_spymaster_desc;[This.GetTitledFirstName] loves intrigue and would like to put [This.GetPossPronoun] skills to formal use.;;;;;;;;;;;;;x
-obj_become_spymaster_title;Become [This.GetSpymasterName];;;;;;;;;;;;;x
-obj_become_treasurer_desc;[This.GetTitledFirstName] thinks [This.GetSubjectPronoun] would make a great [This.GetTreasurerName].;;;;;;;;;;;;;x
-obj_become_treasurer_title;Become [This.GetTreasurerName];;;;;;;;;;;;;x
-obj_buddhist_abstain_sexual_excess_desc;[This.GetTitledFirstName], as a devoted [buddhist.GetName], is trying to learn to abstain from excesses of the flesh.;;;;;;;;;;;;;x
-obj_buddhist_abstain_sexual_excess_title;Learn to Abstain from Excesses of the Flesh;;;;;;;;;;;;;x
-obj_buddhist_defeat_fear_desc;[This.GetTitledFirstName], as a devoted [buddhist.GetName], is trying to learn to defeat [This.GetHerHis] fear of the world and of the designs of others.;;;;;;;;;;;;;x
-obj_buddhist_defeat_fear_title;Defeat Fear;;;;;;;;;;;;;x
-obj_buddhist_reject_cruelty_desc;[This.GetTitledFirstName], as a devoted [buddhist.GetName], is trying to learn to reject cruelty.;;;;;;;;;;;;;x
-obj_buddhist_reject_cruelty_title;Reject Cruelty;;;;;;;;;;;;;x
-obj_buddhist_reject_empty_pleasures_desc;[This.GetTitledFirstName], as a devoted [buddhist.GetName], is trying to learn to reject emply pleasures.;;;;;;;;;;;;;x
-obj_buddhist_reject_empty_pleasures_title;Learn to Reject Empty Pleasures;;;;;;;;;;;;;x
-obj_buddhist_reject_envy_desc;[This.GetTitledFirstName], as a devoted [buddhist.GetName], is trying to learn to reject the poison that envy brings to the mind.;;;;;;;;;;;;;x
-obj_buddhist_reject_envy_title;Learn to Reject Envy;;;;;;;;;;;;;x
-obj_buddhist_reject_greed_desc;[This.GetTitledFirstName], as a devoted [buddhist.GetName], is trying to learn to reject the poison that greed brings to the mind.;;;;;;;;;;;;;x
-obj_buddhist_reject_greed_title;Learn to Reject the Poison of Greed;;;;;;;;;;;;;x
-obj_buddhist_reject_hate_desc;[This.GetTitledFirstName], as a devoted [buddhist.GetName], is trying to learn to reject the poison that hate and anger brings to the mind.;;;;;;;;;;;;;x
-obj_buddhist_reject_hate_title;Learn to Reject Hate;;;;;;;;;;;;;x
-obj_buddhist_reject_pride_desc;[This.GetTitledFirstName], as a devoted [buddhist.GetName], is trying to learn to reject pride.;;;;;;;;;;;;;x
-obj_buddhist_reject_pride_title;Learn to Reject Pride;;;;;;;;;;;;;x
-obj_buddhist_stop_drinking_desc;[This.GetTitledFirstName], as a devoted [buddhist.GetName], is trying to learn to abandon [This.GetHerHis] harmful drinking habits.;;;;;;;;;;;;;x
-obj_buddhist_stop_drinking_title;Stop Drinking;;;;;;;;;;;;;x
-obj_buddhist_temperance_food_desc;[This.GetTitledFirstName], as a devoted [buddhist.GetName], is trying to learn to eat without excess.;;;;;;;;;;;;;x
-obj_buddhist_temperance_food_title;Learn Temperance with Food;;;;;;;;;;;;;x
-obj_build_a_war_chest_desc;[This.GetTitledFirstName] wants to build a war chest and prepare [This.GetHerHis] realm for war!;;;;;;;;;;;;;x
-obj_build_a_war_chest_title;Build a War Chest;;;;;;;;;;;;;x
-obj_create_treasury_desc;[This.GetTitledFirstName] wants to gather artifacts to put in [GetHerHis] empty treasury.;;;;;;;;;;;;;x
-obj_create_treasury_title;Create a Treasury;;;;;;;;;;;;;x
-obj_create_wonder_desc;[This.GetTitledFirstName] wants to build a glorious building of great prestige!;;;;;;;;;;;;;x
-obj_create_wonder_title;Build a Great Work;;;;;;;;;;;;;x
-obj_forge_bloodline;Forge Bloodline;;;;;;;;;;;;;x
-obj_forge_bloodline_desc;Focus your efforts to immortalize your name and ensure that all your descendants will share in your fame.;;;;;;;;;;;;;x
-obj_forge_bloodline_title;Forge Bloodline;;;;;;;;;;;;;x
-obj_gain_any_title_desc;[This.GetTitledFirstName] wants to acquire more land and another title, increasing [This.GetHerHis] influence and power in the realm.;;;;;;;;;;;;;x
-obj_gain_any_title_title;Acquire Title;;;;;;;;;;;;;x
-obj_get_married_desc;[This.GetTitledFirstName] desires to get married.;;;;;;;;;;;;;x
-obj_get_married_title;Get Married;;;;;;;;;;;;;x
-obj_groom_an_heir_desc;[This.GetTitledFirstName] wants to have a child and see them reach adulthood.\n\nIf [This.GetFirstName]'s Inheritance Law is §YAgnatic§!, only a male child will fulfill this ambition. Similarly, if [This.GetFirstName]'s Inheritance Law is §YEnatic§!, only a female child will do.\n\nWhile active §YFertility§! is increased by §G20%§!, and once your child reaches §Y12§! years, you may choose to §Gright-click§! their portrait and choose to §YIntroduce Heir to Realm§!.;;;;;;;;;;;;;x
-obj_groom_an_heir_title;Groom an Heir;;;;;;;;;;;;;x
-obj_have_a_daughter_desc;[This.GetTitledFirstName] wants to have a daughter.;;;;;;;;;;;;;x
-obj_have_a_daughter_title;Have a Daughter;;;;;;;;;;;;;x
-obj_have_a_son_desc;[This.GetTitledFirstName] wants to have a son.;;;;;;;;;;;;;x
-obj_have_a_son_title;Have a Son;;;;;;;;;;;;;x
-obj_improve_diplomacy_desc;[This.GetTitledFirstName] wants to improve [This.GetHerHis] Diplomacy, since it is poor (lower than §Y8§!).;;;;;;;;;;;;;x
-obj_improve_diplomacy_title;Improve Diplomacy;;;;;;;;;;;;;x
-obj_improve_intrigue_desc;[This.GetTitledFirstName] wants to improve [This.GetHerHis] Intrigue, since it is poor (lower than §Y8§!).;;;;;;;;;;;;;x
-obj_improve_intrigue_title;Improve Intrigue;;;;;;;;;;;;;x
-obj_improve_learning_desc;[This.GetTitledFirstName] wants to improve [This.GetHerHis] Learning, since it is poor (lower than §Y8§!).;;;;;;;;;;;;;x
-obj_improve_learning_title;Improve Learning;;;;;;;;;;;;;x
-obj_improve_martial_desc;[This.GetTitledFirstName] wants to improve [This.GetHerHis] Martial ability, since it is poor (lower than §Y8§!).;;;;;;;;;;;;;x
-obj_improve_martial_title;Improve Martial Ability;;;;;;;;;;;;;x
-obj_improve_stewardship_desc;[This.GetTitledFirstName] wants to improve [This.GetHerHis] Stewardship, since it is poor (lower than §Y8§!).;;;;;;;;;;;;;x
-obj_improve_stewardship_title;Improve Stewardship;;;;;;;;;;;;;x
-obj_land_for_daughter;Gain Land for an Unlanded Daughter;;;;;;;;;;;;;x
-obj_land_for_daughter_desc;You wish to secure some land for a daughter that is currently not set to inherit any.;;;;;;;;;;;;;x
-obj_land_for_daughter_title;Gain Land for an Unlanded Daughter;;;;;;;;;;;;;x
-obj_land_for_son_desc;You wish to secure some land for a son that is currently not set to inherit any.;;;;;;;;;;;;;x
-obj_land_for_son_title;Gain Land for an Unlanded Son;;;;;;;;;;;;;x
-obj_lower_decadence_desc;[This.GetTitledFirstName] wants to lower the decadence of [This.GetHerHis] dynasty, as its value is above 60.;;;;;;;;;;;;;x
-obj_lower_decadence_title;Lower Decadence;;;;;;;;;;;;;x
-obj_make_friends_desc;[This.GetTitledFirstName] wants to make a friend.;;;;;;;;;;;;;x
-obj_make_friends_title;Make a Friend;;;;;;;;;;;;;x
-obj_marry_heir_desc;The ambitious [This.GetTitledFirstName] thinks that marrying a heir would be a good way to secure the future.;;;;;;;;;;;;;x
-obj_marry_heir_title;Marry an Heir;;;;;;;;;;;;;x
-obj_marry_ruler_desc;The ambitious [This.GetTitledFirstName] thinks that marrying a ruler would be an excellent way to climb the social ladder.;;;;;;;;;;;;;x
-obj_marry_ruler_title;Marry a Ruler;;;;;;;;;;;;;x
-obj_see_the_realm_prosper_desc;[This.GetTitledFirstName] wants to see [This.GetHerHis] realm prosper by staying at peace for §Y5 years§!.\n\nIf [This.GetFirstName]'s realm is attacked or [This.GetSheHe] goes to war, this ambition will fail and can't be taken again for §Y5 years§!.\n\nWhile this ambition is active, §YGlobal Revolt Risk§! is reduced by §Y1%§!.;;;;;;;;;;;;;x
-obj_see_the_realm_prosper_title;See the Realm Prosper;;;;;;;;;;;;;x
-obj_strengthen_religion_desc;[This.GetTitledFirstName] wants to see the authority of the §Y[Root.Religion.GetName]§! Religion strengthened, as it is currently below §Y30%§!.\n\nWhile this Ambition is active, [This.GetTitledFirstName] might be presented with special war opportunities.;;;;;;;;;;;;;x
-obj_strengthen_religion_title;Strengthen the [This.Religion.GetName] Religion;;;;;;;;;;;;;x
-obj_wants_landed_title_desc;[This.GetTitledFirstName] wants to be granted a fief of [This.GetPossPronoun] own.;;;;;;;;;;;;;x
-obj_wants_landed_title_title;Gain a Title;;;;;;;;;;;;;x
+obj_amass_wealth_desc;[This.GetTitledFirstName] wants to amass a substantial amount of wealth;;;;;;;;;;;[This.GetTitledFirstName] õî÷åò íàêîïèòü çíà÷èòåëüíóþ ñóììó äåíåã;;x
+obj_amass_wealth_title;Amass Wealth;;;;;;;;;;;ñòàòü áîãàò[This.GetOyYm];;x
+obj_become_chancellor_desc;[This.GetTitledFirstName] would like to treat with foreign dignitaries in the court of [This.GetPossPronoun] liege.;;;;;;;;;;;[This.GetTitledFirstName] õîòåë áû çàíèìàòüñÿ èíîñòðàííûìè äåëàìè è âíåøíèìè ñâÿçÿìè ïðè äâîðå.;;x
+obj_become_chancellor_title;Become [This.GetChancellorName];;;;;;;;;;;ñòàòü êàíöëåðîì;;x
+obj_become_council_member_desc;[This.GetTitledFirstName] would like a seat on the [This.Liege.GetCouncilName] of [This.GetHerHis] liege.;;;;;;;;;;;[This.GetTitledFirstName] õî÷åò ïîëó÷èòü ìåñòî â [This.Liege.GetCouncilName]å ñâîåãî ñþçåðåíà.;;x
+obj_become_council_member_title;Become a Councillor;;;;;;;;;;;ïîëó÷èòü ïîñò â ñîâåòå;;x
+obj_become_exalted_desc;[This.GetTitledFirstName] wants [This.GetHerHis] name to live forever in the annals of history.;;;;;;;;;;;[This.GetTitledFirstName] õî÷åò, ÷òîáû [This.GetHersHis] èìÿ áûëî íàâå÷íî âïèñàíî â ñêðèæàëè èñòîðèè!;;x
+obj_become_exalted_title;Become Exalted among Men;;;;;;;;;;;âîçíåñòèñü íàä ëþäüìè;;x
+obj_become_heir_desc;With the current heir being ill fit to rule, [This.GetTitledFirstName] thinks [This.GetSubjectPronoun] should be the prime candidate in line.;;;;;;;;;;;Òàê êàê íûíåøíèé íàñëåäíèê ïëîõî ïîäõîäèò äëÿ ïðàâëåíèÿ, [This.GetTitledFirstName] ñ÷èòàåò, ÷òî [This.GetSheHe] ñàì[This.GetEndA] ëó÷øå ïîäõîäèò íà ýòó ðîëü.;;x
+obj_become_heir_title;Become Heir;;;;;;;;;;;ñòàòü íàñëåäíè[This.GetTseyKom];;x
+obj_become_king_desc;[This.GetTitledFirstName] wants to become [Root.GetKingQueen] of [This.Capital.Kingdom.GetName]. If pagan, with succession laws set to Elective Gavelkind, it allows [This.GetObjectPronoun] the unlimited use of the Subjugation Casus Belli within the kingdom. If the Fabricate Claims councilor mission is available, it may acquire a claim on [This.Capital.Kingdom.GetName] with this ambition. There is also a reduced cost for creating the [This.Capital.Kingdom.GetTier] if it does not yet exist.;;;;;;;;;;;"[This.GetTitledFirstName] õî÷åò ïîëó÷èòü [This.Capital.Kingdom.GetAdjective]ñêóþ Êîðîíó. Äëÿ ÿçû÷íèêà ýòî îçíà÷àåò íåîãðàíè÷åííûé Casus Belli íà ""Ïîêîðåíèå"" â äå-þðå ïðåäåëàõ ýòèõ çåìåëü. È êîãäà [This.GetHersHis] [This.GetMyChancellorName] ôàáðèêóåò ïðåòåíçèè, ñ íåêîòîðûì øàíñîì ýòî ìîæåò îêàçàòüñÿ [This.Capital.Kingdom.GetName] öåëèêîì. Çàòðàòû íà ñîçäàíèå íîâîãî òèòóëà ýòîãî ðàíãà òàêæå ñíèæåíû äëÿ í[This.GetHersHis], åñëè ýòîò òèòóë ðàíåå íå ñîçäàâàëñÿ.";;x
+obj_become_king_title;Become [Root.GetKingQueen] of [This.Capital.Kingdom.GetName];;;;;;;;;;;ïðàâèòü [This.Capital.Kingdom.GetAdjective]ñêîé çåìë¸é;;x
+obj_become_marshal_desc;[This.GetTitledFirstName] dreams of leading troops in the service of [This.GetPossPronoun] liege.;;;;;;;;;;;[This.GetTitledFirstName] ìå÷òàåò âîçãëàâèòü âîéñêà.;;x
+obj_become_marshal_title;Become [This.GetMarshalName];;;;;;;;;;;ñòàòü âîåííûì ñîâåòíèêîì;;x
+obj_become_paragon_of_enlightenment_desc;[This.GetTitledFirstName] strives to improve [This.GetHerHis] [This.Religion.GetPietyName] and become enlightened, an inspiration to all of [This.GetHerHis] faith.;;;;;;;;;;;[This.GetTitledFirstName] îñîçíà¸ò, íàñêîëüêî [This.GetHersHis] âîëíóåò [This.Religion.GetPietyName], è ïûòàåòñÿ äîñòè÷ü ïðîñâåòëåíèÿ, ñòàâ èñòî÷íèêîì âäîõíîâåíèÿ äëÿ ïîñëåäîâàòåëåé ñâîåé âåðû.;;x
+obj_become_paragon_of_enlightenment_title;Become Paragon of Enlightenment;;;;;;;;;;;Ñòàòü îáðàçöîì Ïðîñâåòëåíèÿ;;x
+obj_become_paragon_of_virtue_desc;[This.GetTitledFirstName] strives to become a beacon of chivalry and honor - a paragon of virtue.;;;;;;;;;;;[This.GetTitledFirstName] õî÷åò ñòàòü ñèìâîëîì ðûöàðñòâà è ÷åñòè - îáðàçöîì äîáðîäåòåëè.;;x
+obj_become_paragon_of_virtue_title;Become Paragon of Virtue;;;;;;;;;;;ñòàòü îáðàçöîì äîáðîäåòåëè;;x
+obj_become_spiritual_desc;[This.GetTitledFirstName] would like to advise [This.GetPossPronoun] liege in spiritual matters.;;;;;;;;;;;[This.GetTitledFirstName] õîòåë áû êîíñóëüòèðîâàòü ñâîåãî ñþçåðåíà ïî ðåëèãèîçíûì âîïðîñàì.;;x
+obj_become_spiritual_title;Become [This.GetLordSpiritualName];;;;;;;;;;;ñòàòü äóõîâíûì ñîâåòíèêîì;;x
+obj_become_spymaster_desc;[This.GetTitledFirstName] loves intrigue and would like to put [This.GetPossPronoun] skills to formal use.;;;;;;;;;;;[This.GetTitledFirstName] îáîæàåò èíòðèãè è õî÷åò çàêîííî èñïîëüçîâàòü ñâîè íàâûêè â ýòîé îáëàñòè.;;x
+obj_become_spymaster_title;Become [This.GetSpymasterName];;;;;;;;;;;ñòàòü òàéíûì ñîâåòíèêîì;;x
+obj_become_treasurer_desc;[This.GetTitledFirstName] thinks [This.GetSubjectPronoun] would make a great [This.GetTreasurerName].;;;;;;;;;;;[This.GetTitledFirstName] äóìàåò, ÷òî èç í[This.GetHersHis] ïîëó÷èòñÿ îòëè÷íûé [This.GetTreasurerName].;;x
+obj_become_treasurer_title;Become [This.GetTreasurerName];;;;;;;;;;;ñòàòü óïðàâëÿþùèì;;x
+obj_buddhist_abstain_sexual_excess_desc;[This.GetTitledFirstName], as a devoted [buddhist.GetName], is trying to learn to abstain from excesses of the flesh.;;;;;;;;;;;[This.GetTitledFirstName], êàê ïðåäàíí[This.GetAyaYy] [_áóääèñò][This.GetEndKa], ïûòàåòñÿ íàó÷èòüñÿ îòêàçûâàòüñÿ îò êðàéíîñòåé ïëîòè.;;x
+obj_buddhist_abstain_sexual_excess_title;Learn to Abstain from Excesses of the Flesh;;;;;;;;;;;Îòáðîñèòü êðàéíîñòè ïëîòè;;x
+obj_buddhist_defeat_fear_desc;[This.GetTitledFirstName], as a devoted [buddhist.GetName], is trying to learn to defeat [This.GetHerHis] fear of the world and of the designs of others.;;;;;;;;;;;[This.GetTitledFirstName], êàê ïðåäàíí[This.GetAyaYy] [_áóääèñò][This.GetEndKa], ïûòàåòñÿ óçíàòü, êàê ïîáåäèòü ñòðàõ ïåðåä ìèðîì è äåÿíèÿìè äðóãèõ.;;x
+obj_buddhist_defeat_fear_title;Defeat Fear;;;;;;;;;;;Ïîáåäèòü ñòðàõ;;x
+obj_buddhist_reject_cruelty_desc;[This.GetTitledFirstName], as a devoted [buddhist.GetName], is trying to learn to reject cruelty.;;;;;;;;;;;[This.GetTitledFirstName], êàê ïðåäàíí[This.GetAyaYy] [_áóääèñò][This.GetEndKa], ïûòàåòñÿ íàó÷èòüñÿ îòâåðãàòü æåñòîêîñòü.;;x
+obj_buddhist_reject_cruelty_title;Reject Cruelty;;;;;;;;;;;Îòáðîñèòü æåñòîêîñòü;;x
+obj_buddhist_reject_empty_pleasures_desc;[This.GetTitledFirstName], as a devoted [buddhist.GetName], is trying to learn to reject emply pleasures.;;;;;;;;;;;[This.GetTitledFirstName], êàê ïðåäàíí[This.GetAyaYy] [_áóääèñò][This.GetEndKa], ïûòàåòñÿ íàó÷èòüñÿ îòêàçûâàòüñÿ îò ïóñòûõ óäîâîëüñòâèé.;;x
+obj_buddhist_reject_empty_pleasures_title;Learn to Reject Empty Pleasures;;;;;;;;;;;Îòáðîñèòü ïóñòûå óäîâîëüñòâèÿ;;x
+obj_buddhist_reject_envy_desc;[This.GetTitledFirstName], as a devoted [buddhist.GetName], is trying to learn to reject the poison that envy brings to the mind.;;;;;;;;;;;[This.GetTitledFirstName], êàê ïðåäàíí[This.GetAyaYy] [_áóääèñò][This.GetEndKa], ïûòàåòñÿ íàó÷èòüñÿ îòâåðãàòü çàâèñòü.;;x
+obj_buddhist_reject_envy_title;Learn to Reject Envy;;;;;;;;;;;Îòáðîñèòü çàâèñòü;;x
+obj_buddhist_reject_greed_desc;[This.GetTitledFirstName], as a devoted [buddhist.GetName], is trying to learn to reject the poison that greed brings to the mind.;;;;;;;;;;;[This.GetTitledFirstName], êàê ïðåäàíí[This.GetAyaYy] [_áóääèñò][This.GetEndKa], ïûòàåòñÿ íàó÷èòüñÿ îòâåðãàòü ÿä æàäíîñòè.;;x
+obj_buddhist_reject_greed_title;Learn to Reject the Poison of Greed;;;;;;;;;;;Îòáðîñèòü ÿä æàäíîñòè;;x
+obj_buddhist_reject_hate_desc;[This.GetTitledFirstName], as a devoted [buddhist.GetName], is trying to learn to reject the poison that hate and anger brings to the mind.;;;;;;;;;;;[This.GetTitledFirstName], êàê ïðåäàíí[This.GetAyaYy] [_áóääèñò][This.GetEndKa], ïûòàåòñÿ íàó÷èòüñÿ îòâåðãàòü ÿä, êîòîðûé ãíåâ è íåíàâèñòü ïðèíîñÿò ðàçóìó.;;x
+obj_buddhist_reject_hate_title;Learn to Reject Hate;;;;;;;;;;;Îòáðîñèòü íåíàâèñòü;;x
+obj_buddhist_reject_pride_desc;[This.GetTitledFirstName], as a devoted [buddhist.GetName], is trying to learn to reject pride.;;;;;;;;;;;[This.GetTitledFirstName], êàê ïðåäàíí[This.GetAyaYy] [_áóääèñò][This.GetEndKa], ïûòàåòñÿ íàó÷èòüñÿ îòâåðãàòü ãîðäîñòü.;;x
+obj_buddhist_reject_pride_title;Learn to Reject Pride;;;;;;;;;;;Îòáðîñèòü ãîðäîñòü;;x
+obj_buddhist_stop_drinking_desc;[This.GetTitledFirstName], as a devoted [buddhist.GetName], is trying to learn to abandon [This.GetHerHis] harmful drinking habits.;;;;;;;;;;;[This.GetTitledFirstName], êàê ïðåäàíí[This.GetAyaYy] [_áóääèñò][This.GetEndKa], ïûòàåòñÿ óçíàòü, êàê çàñòàâèòü ñåáÿ îòêàçàòüñÿ îò âðåäíîé ïðèâû÷êè ïüÿíñòâà.;;x
+obj_buddhist_stop_drinking_title;Stop Drinking;;;;;;;;;;;Ïðåêðàòèòü ïüÿíñòâî;;x
+obj_buddhist_temperance_food_desc;[This.GetTitledFirstName], as a devoted [buddhist.GetName], is trying to learn to eat without excess.;;;;;;;;;;;[This.GetTitledFirstName], êàê ïðåäàíí[This.GetAyaYy] [_áóääèñò][This.GetEndKa], ïûòàåòñÿ íàó÷èòüñÿ óìåðåííîñòè â åäå.;;x
+obj_buddhist_temperance_food_title;Learn Temperance with Food;;;;;;;;;;;Îáðåñòè óìåðåííîñòü â åäå;;x
+obj_build_a_war_chest_desc;[This.GetTitledFirstName] wants to build a war chest and prepare [This.GetHerHis] realm for war!;;;;;;;;;;;[This.GetTitledFirstName] õî÷åò ñîáðàòü ñðåäñòâà äëÿ ïîäãîòîâêè ê âîéíå.;;x
+obj_build_a_war_chest_title;Build a War Chest;;;;;;;;;;;ïîïîëíèòü âîåííûé áþäæåò;;x
+obj_create_treasury_desc;[This.GetTitledFirstName] wants to gather artifacts to put in [GetHerHis] empty treasury.;;;;;;;;;;;[This.GetTitledFirstName] õî÷åò ñîáðàòü àðòåôàêòû è íàïîëíèòü èìè ñâîþ ñîêðîâèùíèöó.;;x
+obj_create_treasury_title;Create a Treasury;;;;;;;;;;;Ïîïîëíèòü ñîêðîâèùíèöó;;x
+obj_create_wonder_desc;[This.GetTitledFirstName] wants to build a glorious building of great prestige!;;;;;;;;;;;[This.GetTitledFirstName] õî÷åò ïîñòðîèòü âåëèêîå ñîîðóæåíèå!;;x
+obj_create_wonder_title;Build a Great Work;;;;;;;;;;;Ïîñòðîèòü âåëèêîå ñîîðóæåíèå;;x
+obj_forge_bloodline;Forge Bloodline;;;;;;;;;;;ïîëîæèòü íà÷àëî íîâîé ðîäîñëîâíîé;;x
+obj_forge_bloodline_desc;Focus your efforts to immortalize your name and ensure that all your descendants will share in your fame.;;;;;;;;;;;Ñîñðåäîòî÷èòüñÿ íà òîì, ÷òîáû óâåêîâå÷èòü ñâî¸ èìÿ è óáåäèòüñÿ, ÷òî Âàøè ïîòîìêè ñìîãóò âîñïîëüçîâàòüñÿ ïëîäàìè Âàøèõ óñèëèé.;;x
+obj_forge_bloodline_title;Forge Bloodline;;;;;;;;;;;Ïîëîæèòü íà÷àëî âåëèêîé ðîäîñëîâíîé;;x
+obj_gain_any_title_desc;[This.GetTitledFirstName] wants to acquire more land and another title, increasing [This.GetHerHis] influence and power in the realm.;;;;;;;;;;;[This.GetTitledFirstName] õî÷åò ïîëó÷èòü çåìëþ è òèòóë, òåì ñàìûì óâåëè÷èâ ñâî¸ âëèÿíèå è ìîãóùåñòâî íà ýòèõ çåìëÿõ.;;x
+obj_gain_any_title_title;Acquire Title;;;;;;;;;;;Çàïîëó÷èòü òèòóë;;x
+obj_get_married_desc;[This.GetTitledFirstName] desires to get married.;;;;;;;;;;;[This.GetTitledFirstName] õî÷åò [This.GetToMarry].;;x
+obj_get_married_title;Get Married;;;;;;;;;;;[This.GetToMarry];;x
+obj_groom_an_heir_desc;[This.GetTitledFirstName] wants to have a child and see them reach adulthood.\n\nIf [This.GetFirstName]'s Inheritance Law is §YAgnatic§!, only a male child will fulfill this ambition. Similarly, if [This.GetFirstName]'s Inheritance Law is §YEnatic§!, only a female child will do.\n\nWhile active §YFertility§! is increased by §G20%§!, and once your child reaches §Y12§! years, you may choose to §Gright-click§! their portrait and choose to §YIntroduce Heir to Realm§!.;;;;;;;;;;;[This.GetTitledFirstName] õî÷åò óâèäåòü, êàê [This.GetHersHis] ðåá¸íîê äîñòèãíåò ñîâåðøåííîëåòèÿ.\nÏðè §Yàãíàòè÷åñêîì§! çàêîíå íàñëåäîâàíèÿ ýòî ìîæåò áûòü òîëüêî ñûí, ïðè §Yýíàòè÷åñêîì§! - òîëüêî äî÷ü.\nÏîêà ýòà àìáèöèÿ àêòèâíà, §Yïëîäîâèòîñòü§! ïîâûøåíà íà §Y20%§!. Êàê òîëüêî íàñëåäíèêó èñïîëíèòñÿ §Y12§! ëåò, êëèêíóâ §Gïðàâîé êíîïêîé ìûøè§! ïî åãî ïîðòðåòó, ìîæíî áóäåò §Yïðåäñòàâèòü íàñëåäíèêà§!.;;x
+obj_groom_an_heir_title;Groom an Heir;;;;;;;;;;;âûðàñòèòü íàñëåäíèêà;;x
+obj_have_a_daughter_desc;[This.GetTitledFirstName] wants to have a daughter.;;;;;;;;;;;[This.GetTitledFirstName] õî÷åò äî÷ü.;;x
+obj_have_a_daughter_title;Have a Daughter;;;;;;;;;;;èìåòü äî÷ü;;x
+obj_have_a_son_desc;[This.GetTitledFirstName] wants to have a son.;;;;;;;;;;;[This.GetTitledFirstName] õî÷åò ñûíà.;;x
+obj_have_a_son_title;Have a Son;;;;;;;;;;;èìåòü ñûíà;;x
+obj_improve_diplomacy_desc;[This.GetTitledFirstName] wants to improve [This.GetHerHis] Diplomacy, since it is poor (lower than §Y8§!).;;;;;;;;;;;[This.GetTitledFirstName] õî÷åò óëó÷øèòü ñâîé íàâûê äèïëîìàòèè, òàê êàê îí ñëàáîâàò (íèæå §Y8§!).;;x
+obj_improve_diplomacy_title;Improve Diplomacy;;;;;;;;;;;óëó÷øèòü íàâûê äèïëîìàòèè;;x
+obj_improve_intrigue_desc;[This.GetTitledFirstName] wants to improve [This.GetHerHis] Intrigue, since it is poor (lower than §Y8§!).;;;;;;;;;;;[This.GetTitledFirstName] õî÷åò óëó÷øèòü ñâîé íàâûê Èíòðèãà, òàê êàê îí ñëàáîâàò (ìåíüøå ÷åì §Y8§!).;;x
+obj_improve_intrigue_title;Improve Intrigue;;;;;;;;;;;óëó÷øèòü íàâûê Èíòðèãà;;x
+obj_improve_learning_desc;[This.GetTitledFirstName] wants to improve [This.GetHerHis] Learning, since it is poor (lower than §Y8§!).;;;;;;;;;;;[This.GetTitledFirstName] õî÷åò óëó÷øèòü ñâîþ Îáðàçîâàííîñòü, òàê êàê îíà õóæå íåêóäà (íèæå §Y8§!).;;x
+obj_improve_learning_title;Improve Learning;;;;;;;;;;;óëó÷øèòü ñâîþ îáðàçîâàííîñòü;;x
+obj_improve_martial_desc;[This.GetTitledFirstName] wants to improve [This.GetHerHis] Martial ability, since it is poor (lower than §Y8§!).;;;;;;;;;;;[This.GetTitledFirstName] õî÷åò óëó÷øèòü ñâîè âîåííûå ñïîñîáíîñòè, òàê êàê îíè õóæå íåêóäà(íèæå §Y8§!).;;x
+obj_improve_martial_title;Improve Martial Ability;;;;;;;;;;;óëó÷øèòü âîåííûå ñïîñîáíîñòè;;x
+obj_improve_stewardship_desc;[This.GetTitledFirstName] wants to improve [This.GetHerHis] Stewardship, since it is poor (lower than §Y8§!).;;;;;;;;;;;[This.GetTitledFirstName] õî÷åò óëó÷øèòü ñâîé íàâûê Óïðàâëåíèå, òàê êàê îí ñëàáîâàò (íèæå §Y8§!).;;x
+obj_improve_stewardship_title;Improve Stewardship;;;;;;;;;;;óëó÷øèòü Óïðàâëåíèå;;x
+obj_land_for_daughter;Gain Land for an Unlanded Daughter;;;;;;;;;;;ïîëó÷èòü çåìëþ äëÿ äî÷åðè;;x
+obj_land_for_daughter_desc;You wish to secure some land for a daughter that is currently not set to inherit any.;;;;;;;;;;;Âû õîòèòå, ÷òîáû äî÷ü, êîòîðàÿ ñåé÷àñ íå ÿâëÿåòñÿ íàñëåäíèöåé, ïîëó÷èëà çåìëþ.;;x
+obj_land_for_daughter_title;Gain Land for an Unlanded Daughter;;;;;;;;;;;ïîëó÷èòü çåìëþ äëÿ äî÷åðè;;x
+obj_land_for_son_desc;You wish to secure some land for a son that is currently not set to inherit any.;;;;;;;;;;;Âû õîòèòå, ÷òîáû ñûí, êîòîðûé ñåé÷àñ íå ÿâëÿåòñÿ íàñëåäíèêîì, ïîëó÷èë çåìëþ.;;x
+obj_land_for_son_title;Gain Land for an Unlanded Son;;;;;;;;;;;ïîëó÷èòü çåìëþ äëÿ ñûíà;;x
+obj_lower_decadence_desc;[This.GetTitledFirstName] wants to lower the decadence of [This.GetHerHis] dynasty, as its value is above 60.;;;;;;;;;;;[This.GetTitledFirstName] õî÷åò ïîíèçèòü óïàäîê ñâîåé äèíàñòèè, òàê êàê åãî çíà÷åíèå âûøå 60.;;x
+obj_lower_decadence_title;Lower Decadence;;;;;;;;;;;ñíèçèòü óïàäîê;;x
+obj_make_friends_desc;[This.GetTitledFirstName] wants to make a friend.;;;;;;;;;;;[This.GetTitledFirstName] õî÷åò çàâåñòè äðóãà.;;x
+obj_make_friends_title;Make a Friend;;;;;;;;;;;Çàâåñòè äðóãà;;x
+obj_marry_heir_desc;The ambitious [This.GetTitledFirstName] thinks that marrying a heir would be a good way to secure the future.;;;;;;;;;;;[This.GetTitledFirstName] ïîëàãàåò, ÷òî áðàê ñ íàñëåäíè[This.GetTseyKomOpp] áóäåò îòëè÷íûì ñïîñîáîì îáåçîïàñèòü ñâî¸ áóäóùåå.;;x
+obj_marry_heir_title;Marry an Heir;;;;;;;;;;;[This.GetToMarry] [This.GetMarryZaNa] íàñëåäíè[This.GetKaTse];;x
+obj_marry_ruler_desc;The ambitious [This.GetTitledFirstName] thinks that marrying a ruler would be an excellent way to climb the social ladder.;;;;;;;;;;;[This.GetTitledFirstName] ïîëàãàåò, ÷òî áðàê ñ ïðàâèòåëåì áóäåò îòëè÷íûì ñïîñîáîì ïîäíÿòüñÿ ïî ñîöèàëüíîé ëåñòíèöå.;;x
+obj_marry_ruler_title;Marry a Ruler;;;;;;;;;;;[This.GetToMarry] [This.GetMarryZaNa] ïðàâèòåë[This.GetYaSoftNitse];;x
+obj_see_the_realm_prosper_desc;[This.GetTitledFirstName] wants to see [This.GetHerHis] realm prosper by staying at peace for §Y5 years§!.\n\nIf [This.GetFirstName]'s realm is attacked or [This.GetSheHe] goes to war, this ambition will fail and can't be taken again for §Y5 years§!.\n\nWhile this ambition is active, §YGlobal Revolt Risk§! is reduced by §Y1%§!.;;;;;;;;;;;[This.GetTitledFirstName] õî÷åò óâèäåòü, êàê [This.GetHersHis] ñòðàíà ïðîöâåòàåò, îñòàâàÿñü â ìèðå §Y5 ëåò§!.\nÅñëè ñòðàíó àòàêóþò èëè [This.GetSheHe] íà÷í¸ò âîéíó, àìáèöèÿ áóäåò ïðîâàëåíà è â ñëåäóþùèå §Y5 ëåò§! íå ñìîæåò áûòü âûáðàíà.\nÏîêà àìáèöèÿ àêòèâíà, §YÃëîáàëüíûé ðèñê âîññòàíèé§! óìåíüøåí íà §Y1%§!.;;x
+obj_see_the_realm_prosper_title;See the Realm Prosper;;;;;;;;;;;óâèäåòü ïðîöâåòàíèå ñòðàíû;;x
+obj_strengthen_religion_desc;[This.GetTitledFirstName] wants to see the authority of the §Y[Root.Religion.GetName]§! Religion strengthened, as it is currently below §Y30%§!.\n\nWhile this Ambition is active, [This.GetTitledFirstName] might be presented with special war opportunities.;;;;;;;;;;;[This.GetTitledFirstName] õî÷åò, ÷òîáû ìîðàëüíûé àâòîðèòåò §Y[Root.GetReligionNameGEN]§! âûðîñ, ñåé÷àñ îí íèæå §Y30%§!.\nÏîêà ýòà àìáèöèÿ àêòèâíà, [This.GetTitledFirstName] áóäåò èìåòü îñîáûå âîçìîæíîñòè ïðè îáúÿâëåíèè âîéí.;;x
+obj_strengthen_religion_title;Strengthen the [This.Religion.GetName] Religion;;;;;;;;;;;Óêðåïèòü [This.GetReligionFullName];;x
+obj_wants_landed_title_desc;[This.GetTitledFirstName] wants to be granted a fief of [This.GetPossPronoun] own.;;;;;;;;;;;[This.GetTitledFirstName] õî÷åò ïîëó÷èòü äëÿ ñåáÿ âëàäåíèå.;;x
+obj_wants_landed_title_title;Gain a Title;;;;;;;;;;;ïîëó÷èòü òèòóë;;x

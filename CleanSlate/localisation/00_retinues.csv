@@ -1,73 +1,73 @@
-HORDE_RETTYPE_CAV1;Light Rider;;;;;;;;;;;;;x
-HORDE_RETTYPE_CAV2;Marauder;;;;;;;;;;;;;x
-HORDE_RETTYPE_CAV3;Skirmish Cavalry;;;;;;;;;;;;;x
-HORDE_RETTYPE_CAV4;Light Horse Archer;;;;;;;;;;;;;x
-HORDE_RETTYPE_CAV5;Light Vanguard;;;;;;;;;;;;;x
-HORDE_RETTYPE_CAV6;Heavy Vanguard;;;;;;;;;;;;;x
-HORDE_RETTYPE_CAV7;Horse Archer;;;;;;;;;;;;;x
-HORDE_RETTYPE_CHRISTIAN;Keraite Auxiliaries;;;;;;;;;;;;;x
-HORDE_RETTYPE_DESERT;Camel Cavalry;;;;;;;;;;;;;x
-HORDE_RETTYPE_EASTERN;Khitan Auxiliaries;;;;;;;;;;;;;x
-HORDE_RETTYPE_EUROPE;Lancer;;;;;;;;;;;;;x
-HORDE_RETTYPE_INDIAN;Elephant Cavalry;;;;;;;;;;;;;x
-HORDE_RETTYPE_JEWISH;Khazarian Auxiliaries;;;;;;;;;;;;;x
-HORDE_RETTYPE_MUSLIM;Bolghar Auxiliaries;;;;;;;;;;;;;x
-HORDE_RETTYPE_PAGAN;Riders of the Open Sky;;;;;;;;;;;;;x
-HORDE_RETTYPE_ZOROASTRIAN;Parthian Auxiliaries;;;;;;;;;;;;;x
-RETTYPE_CAV1;Cavalry;;;;;;;;;;;;;x
-RETTYPE_CUL_ALTAIC;Horse Archer;;;;;;;;;;;;;x
-RETTYPE_CUL_ANDALUSIAN;[andalusian.GetName] Cavalry;;;;;;;;;;;;;x
-RETTYPE_CUL_ARAB;Camel Warrior;;;;;;;;;;;;;x
-RETTYPE_CUL_ARBERIAN;Arberian Stratiotet;;;;;;;;;;;;;x
-RETTYPE_CUL_ASSYRIAN;[assyrian.GetName] Warriors;;;;;;;;;;;;;x
-RETTYPE_CUL_BALT;Baltic Warrior;;;;;;;;;;;;;x
-RETTYPE_CUL_BEAR;Bear;;;;;;;;;;;;;x
-RETTYPE_CUL_BERBER;Berber Cavalry;;;;;;;;;;;;;x
-RETTYPE_CUL_BYZ;Cataphract;;;;;;;;;;;;;x
-RETTYPE_CUL_CAT;Fearless Feline;;;;;;;;;;;;;x
-RETTYPE_CUL_COPTIC;[coptic.GetName] Matoei;;;;;;;;;;;;;x
-RETTYPE_CUL_DOG;Good Boy;;;;;;;;;;;;;x
-RETTYPE_CUL_DRAGON;Dragon;;;;;;;;;;;;;x
-RETTYPE_CUL_DUCK;Warduck;;;;;;;;;;;;;x
-RETTYPE_CUL_DUTCH;Goedendag Militia;;;;;;;;;;;;;x
-RETTYPE_CUL_ELEPHANT;Elephant;;;;;;;;;;;;;x
-RETTYPE_CUL_ENG;Longbow;;;;;;;;;;;;;x
-RETTYPE_CUL_ETHIO;Ethiopian Skirmisher;;;;;;;;;;;;;x
-RETTYPE_CUL_FRA;[frankish.GetName] Heavy Infantry;;;;;;;;;;;;;x
-RETTYPE_CUL_FRANK_NOR_GER;Knight;;;;;;;;;;;;;x
-RETTYPE_CUL_HAN;Nubing;;;;;;;;;;;;;x
-RETTYPE_CUL_HEDGEHOG;Quillguard;;;;;;;;;;;;;x
-RETTYPE_CUL_HORSE;Horse;;;;;;;;;;;;;x
-RETTYPE_CUL_HUNG;Hussar;;;;;;;;;;;;;x
-RETTYPE_CUL_IBER;Caballero;;;;;;;;;;;;;x
-RETTYPE_CUL_INDIAN;Steel Bow Infantry;;;;;;;;;;;;;x
-RETTYPE_CUL_IRISH;Gallowglass;;;;;;;;;;;;;x
-RETTYPE_CUL_ITA;Pike;;;;;;;;;;;;;x
-RETTYPE_CUL_JEWISH;Bar Kochba Guards;;;;;;;;;;;;;x
-RETTYPE_CUL_JURCHEN;Tie-Futu;;;;;;;;;;;;;x
-RETTYPE_CUL_LOM;[lombard.GetName] Heavy Infantry;;;;;;;;;;;;;x
-RETTYPE_CUL_NAHUA;Jaguar Warrior;;;;;;;;;;;;;x
-RETTYPE_CUL_NORTHGER;Housecarl;;;;;;;;;;;;;x
-RETTYPE_CUL_NUBIAN;[nubian.GetName] Archers;;;;;;;;;;;;;x
-RETTYPE_CUL_OUTREMER;Outremer Knight;;;;;;;;;;;;;x
-RETTYPE_CUL_PICTISH;[pictish.GetName] Raiders;;;;;;;;;;;;;x
-RETTYPE_CUL_ROMAN;Praetorian;;;;;;;;;;;;;x
-RETTYPE_CUL_RUS;Druzhina;;;;;;;;;;;;;x
-RETTYPE_CUL_SAR;[sardinian.GetName] Birrudo;;;;;;;;;;;;;x
-RETTYPE_CUL_SCOT;Schiltron;;;;;;;;;;;;;x
-RETTYPE_CUL_SOMALI;[somali.GetName] Skirmishers;;;;;;;;;;;;;x
-RETTYPE_CUL_SOUTH_SLA;Gusar;;;;;;;;;;;;;x
-RETTYPE_CUL_SUEBI;[suebi.GetName] Longspearmen;;;;;;;;;;;;;x
-RETTYPE_CUL_TIBET;Himalayan Mountaineer;;;;;;;;;;;;;x
-RETTYPE_CUL_W_AFR;Free Warrior;;;;;;;;;;;;;x
-RETTYPE_INF1;Shock;;;;;;;;;;;;;x
-RETTYPE_INF2;Defence;;;;;;;;;;;;;x
-RETTYPE_SKIR1;Skirmish;;;;;;;;;;;;;x
-RETTYPE_SKIR2;Light Skirmish;;;;;;;;;;;;;x
-TRIBAL_PIETY_RET_1;Ardent Guardians;;;;;;;;;;;;;x
-TRIBAL_PIETY_RET_2;Sworn Defenders;;;;;;;;;;;;;x
-TRIBAL_RET_1;Tribal Warrior;;;;;;;;;;;;;x
-TRIBAL_RET_2;Trapper;;;;;;;;;;;;;x
-TRIBAL_RET_3;Hunting Party;;;;;;;;;;;;;x
-TRIBAL_RET_4;Veteran Warrior;;;;;;;;;;;;;x
-TRIBAL_RET_5;Steppe Riders;;;;;;;;;;;;;x
+HORDE_RETTYPE_CAV1;Light Rider;;;;;;;;;;;Ë¸ãêèå âñàäíèêè;;x
+HORDE_RETTYPE_CAV2;Marauder;;;;;;;;;;;Ìàðîä¸ðû;;x
+HORDE_RETTYPE_CAV3;Skirmish Cavalry;;;;;;;;;;;Îòâëåêàþùàÿ êîííèöà;;x
+HORDE_RETTYPE_CAV4;Light Horse Archer;;;;;;;;;;;Ë¸ãêèå êîííûå ëó÷íèêè;;x
+HORDE_RETTYPE_CAV5;Light Vanguard;;;;;;;;;;;Ë¸ãêèé àâàíãàðä;;x
+HORDE_RETTYPE_CAV6;Heavy Vanguard;;;;;;;;;;;Òÿæ¸ëûé àâàíãàðä;;x
+HORDE_RETTYPE_CAV7;Horse Archer;;;;;;;;;;;Êîííûå ëó÷íèêè;;x
+HORDE_RETTYPE_CHRISTIAN;Keraite Auxiliaries;;;;;;;;;;;Êåðåèòñêèå àóêñèëàðèè;;x
+HORDE_RETTYPE_DESERT;Camel Cavalry;;;;;;;;;;;Áîåâûå âåðáëþäû;;x
+HORDE_RETTYPE_EASTERN;Khitan Auxiliaries;;;;;;;;;;;Êèäàíüñêèå àóêñèëàðèè;;x
+HORDE_RETTYPE_EUROPE;Lancer;;;;;;;;;;;Óëàíû;;x
+HORDE_RETTYPE_INDIAN;Elephant Cavalry;;;;;;;;;;;Áîåâûå ñëîíû;;x
+HORDE_RETTYPE_JEWISH;Khazarian Auxiliaries;;;;;;;;;;;Õàçàðñêèå àóêñèëàðèè;;x
+HORDE_RETTYPE_MUSLIM;Bolghar Auxiliaries;;;;;;;;;;;Áîëãàðñêèå àóêñèëàðèè;;x
+HORDE_RETTYPE_PAGAN;Riders of the Open Sky;;;;;;;;;;;Âñàäíèêè ×èñòîãî Íåáà;;x
+HORDE_RETTYPE_ZOROASTRIAN;Parthian Auxiliaries;;;;;;;;;;;Ïàðôÿíñêàÿ àóêñèëàðèÿ;;x
+RETTYPE_CAV1;Cavalry;;;;;;;;;;;Êîííàÿ;;x
+RETTYPE_CUL_ALTAIC;Horse Archer;;;;;;;;;;;Êîííûå ëó÷íèêè;;x
+RETTYPE_CUL_ANDALUSIAN;[andalusian.GetName] Cavalry;;;;;;;;;;;§Y[_Àíäàëóç]ñêàÿ§! êîííèöà;;x
+RETTYPE_CUL_ARAB;Camel Warrior;;;;;;;;;;;Âîèíû íà âåðáëþäàõ;;x
+RETTYPE_CUL_ARBERIAN;Arberian Stratiotet;;;;;;;;;;;Àðáåðèéñêèå ñòðàòåîäèòû;;x
+RETTYPE_CUL_ASSYRIAN;[assyrian.GetName] Warriors;;;;;;;;;;;§Y[_Àññèðèé]ñêèå§! âîèíû;;x
+RETTYPE_CUL_BALT;Baltic Warrior;;;;;;;;;;;Áàëòñêèå âîèíû;;x
+RETTYPE_CUL_BEAR;Bear;;;;;;;;;;;Ìåäâåæüÿ;;x
+RETTYPE_CUL_BERBER;Berber Cavalry;;;;;;;;;;;Áåðáåðñêàÿ êîííèöà;;x
+RETTYPE_CUL_BYZ;Cataphract;;;;;;;;;;;Êàòàôðàêòàðèè;;x
+RETTYPE_CUL_CAT;Fearless Feline;;;;;;;;;;;Êîøà÷üÿ;;x
+RETTYPE_CUL_COPTIC;[coptic.GetName] Matoei;;;;;;;;;;;§Y[_Êîïò]ñêèå§! Ìàòîåè;;x
+RETTYPE_CUL_DOG;Good Boy;;;;;;;;;;;Ñîáà÷üÿ;;x
+RETTYPE_CUL_DRAGON;Dragon;;;;;;;;;;;Äðàêîíüÿ;;x
+RETTYPE_CUL_DUCK;Warduck;;;;;;;;;;;Óòèíàÿ;;x
+RETTYPE_CUL_DUTCH;Goedendag Militia;;;;;;;;;;;Îïîë÷åíöû ñ ãîäåíäàãàìè;;x
+RETTYPE_CUL_ELEPHANT;Elephant;;;;;;;;;;;Ñëîíîâàÿ;;x
+RETTYPE_CUL_ENG;Longbow;;;;;;;;;;;Äëèííûå ëóêè;;x
+RETTYPE_CUL_ETHIO;Ethiopian Skirmisher;;;;;;;;;;;Ýôèîïñêèå çàñòðåëüùèêè;;x
+RETTYPE_CUL_FRA;[frankish.GetName] Heavy Infantry;;;;;;;;;;;§Y[_Ôðàíê]ñêàÿ§! òÿæ¸ëàÿ ïåõîòà;;x
+RETTYPE_CUL_FRANK_NOR_GER;Knight;;;;;;;;;;;Ðûöàðè;;x
+RETTYPE_CUL_HAN;Nubing;;;;;;;;;;;Íóáèí;;x
+RETTYPE_CUL_HEDGEHOG;Quillguard;;;;;;;;;;;Åæîâàÿ;;x
+RETTYPE_CUL_HORSE;Horse;;;;;;;;;;;Ëîøàäèíàÿ;;x
+RETTYPE_CUL_HUNG;Hussar;;;;;;;;;;;Õóñàðû;;x
+RETTYPE_CUL_IBER;Caballero;;;;;;;;;;;Êàáàëüåðî;;x
+RETTYPE_CUL_INDIAN;Steel Bow Infantry;;;;;;;;;;;Ïåõîòà ñî ñòàëüíûìè ëóêàìè;;x
+RETTYPE_CUL_IRISH;Gallowglass;;;;;;;;;;;Ãàëëîãëàñû;;x
+RETTYPE_CUL_ITA;Pike;;;;;;;;;;;Ïèêè;;x
+RETTYPE_CUL_JEWISH;Bar Kochba Guards;;;;;;;;;;;Ãâàðäèÿ Áàð-Êîõáû;;x
+RETTYPE_CUL_JURCHEN;Tie-Futu;;;;;;;;;;;Òå-Ôóòó;;x
+RETTYPE_CUL_LOM;[lombard.GetName] Heavy Infantry;;;;;;;;;;;§Y[_Ëîìáàðä]ñêàÿ§! òÿæ¸ëàÿ ïåõîòà;;x
+RETTYPE_CUL_NAHUA;Jaguar Warrior;;;;;;;;;;;Âîèíû-ÿãóàðû;;x
+RETTYPE_CUL_NORTHGER;Housecarl;;;;;;;;;;;Õóñêàðëû;;x
+RETTYPE_CUL_NUBIAN;[nubian.GetName] Archers;;;;;;;;;;;§Y[_Íóáèé]ñêèå§! ëó÷íèêè;;x
+RETTYPE_CUL_OUTREMER;Outremer Knight;;;;;;;;;;;Óòðåìåðñêèå ðûöàðè;;x
+RETTYPE_CUL_PICTISH;[pictish.GetName] Raiders;;;;;;;;;;;§Y[_Ïèêò]ñêèå§! íàë¸ò÷èêè;;x
+RETTYPE_CUL_ROMAN;Praetorian;;;;;;;;;;;Ïðåòîðèàíöû;;x
+RETTYPE_CUL_RUS;Druzhina;;;;;;;;;;;Äðóæèíà;;x
+RETTYPE_CUL_SAR;[sardinian.GetName] Birrudo;;;;;;;;;;;§Y[_Ñàðäèí]ñêèå§! áèððóäî;;x
+RETTYPE_CUL_SCOT;Schiltron;;;;;;;;;;;Øèëòðîí;;x
+RETTYPE_CUL_SOMALI;[somali.GetName] Skirmishers;;;;;;;;;;;§Y[_Ñîìàëèé]ñêèå§! çàñòðåëüùèêè;;x
+RETTYPE_CUL_SOUTH_SLA;Gusar;;;;;;;;;;;Ãóñàðû;;x
+RETTYPE_CUL_SUEBI;[suebi.GetName] Longspearmen;;;;;;;;;;;§Y[_Ñâåâ]ñêèå§! êîïåéùèêè;;x
+RETTYPE_CUL_TIBET;Himalayan Mountaineer;;;;;;;;;;;Ãèìàëàéñêèå ãîðöû;;x
+RETTYPE_CUL_W_AFR;Free Warrior;;;;;;;;;;;Ñâîáîäíûå âîèíû;;x
+RETTYPE_INF1;Shock;;;;;;;;;;;Íàñòóïàòåëüíàÿ;;x
+RETTYPE_INF2;Defence;;;;;;;;;;;Îáîðîíèòåëüíàÿ;;x
+RETTYPE_SKIR1;Skirmish;;;;;;;;;;;Ñòðåëêîâàÿ;;x
+RETTYPE_SKIR2;Light Skirmish;;;;;;;;;;;Ë¸ãêàÿ;;x
+TRIBAL_PIETY_RET_1;Ardent Guardians;;;;;;;;;;;Âåðíûå ñòðàæè;;x
+TRIBAL_PIETY_RET_2;Sworn Defenders;;;;;;;;;;;Çàùèòíèêè êëÿòâû;;x
+TRIBAL_RET_1;Tribal Warrior;;;;;;;;;;;Âîèíû Ïëåìåíè;;x
+TRIBAL_RET_2;Trapper;;;;;;;;;;;Çàãîíùèêè;;x
+TRIBAL_RET_3;Hunting Party;;;;;;;;;;;Îõîòíèêè;;x
+TRIBAL_RET_4;Veteran Warrior;;;;;;;;;;;Âîèíû-âåòåðàíû;;x
+TRIBAL_RET_5;Steppe Riders;;;;;;;;;;;Ñòåïíûå âñàäíèêè;;x

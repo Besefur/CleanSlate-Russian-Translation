@@ -1,81 +1,76 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC89000;You have come to share more things than your husband with one of his other wives. The mutual feelings of love and affection that exist between the two of you is something you have simply never felt with [Root.Spouse.GetFirstName].;;;;;;;;;;;;;x
-EVTDESC89001;The most disturbing rumor has come to your attention. It seems two of your wives have sinfully engaged in carnal pleasures with each other! The rest of the household must be laughing at you behind your back... something must be done about this shameful crime.;;;;;;;;;;;;;x
-EVTDESC89002;Your two sinful wives, possessed by a depraved and unnatural love for each other, have eloped! Try as they might, your guards can't find them anywhere in your palace and a carriage in the courtyard outside has been reported stolen!;;;;;;;;;;;;;x
-EVTDESC89003;Leading your scouts forward, you intercept your fleeing wives in their carriage at the edge of a deep ravine. You dismount and approach the carriage, but as you draw near it suddenly takes off towards the ravine. Moments before their horses leap off the edge, you see your wives clasping each other's hands...;;;;;;;;;;;;;x
-EVTDESC89005;I should be first amongst the wives of [Root.Spouse.GetFirstName]. That I am not shames us both. For his sake, if not my own, I should act.;;;;;;;;;;;;;x
-EVTDESC89006;The first of your wives has passed away unexpectedly, with your healers claiming nothing could be done. They suspect poison may be the cause. [Root.Spouse.GetFirstName], who is now your new first wife, can barely conceal her elation. As the guards move her belongings into her new quarters, one of them confiscates a suspicious half-empty vial...;;;;;;;;;;;;;x
-EVTDESC89007;It seems one of your husband's lesser wives has tried to poison you in a desperate bid to become his first wife! It was blind luck alone that made you discover this attempt on your life before it was too late.;;;;;;;;;;;;;x
-EVTDESC89008;[Root.Spouse.GetFirstName], the first of your beloved wives, is very upset. She claims to have caught one of your lesser wives in the act of poisoning her food! Evidence uncovered by your household guards seem to verify this claim.;;;;;;;;;;;;;x
-EVTDESC89009;I can't fight all your battles for you, [Root.Spouse.GetFirstName]! Just tell her not to do it again.;;;;;;;;;;;;;x
-EVTDESC89010;One of your beloved wives covets the position of first wife, and has been trying to woo you into elevating her to that status.;;;;;;;;;;;;;x
-EVTDESC89011;That witch [Root.Spouse.Spouse.GetFirstName] has somehow ensnared [Root.Spouse.GetFirstName] with her black magic. She has manipulated him into granting her your rightful position as the first among his wives!;;;;;;;;;;;;;x
-EVTDESC89012;Tragic news, Master! Your new first wife has passed away, and your healers all agree that poison was the cause. Your former first wife, overcome with jealousy, has made no attempt to hide her guilt in this crime. What should be done with her?;;;;;;;;;;;;;x
-EVTDESC89015;Though you are the first wife of [Root.Spouse.GetTitledFirstName], his current announced heir is not a child of yours. Perhaps you could talk to your husband and persuade him to grant your son more land, thus increasing his power and influence...;;;;;;;;;;;;;x
-EVTDESC89016;Your dear mother, [Root.Mother.GetTitledFirstName], is very upset that despite her position as your father's first wife, his announced heir is not a child of hers. Today she has announced her intentions to plead with your father to grant you more land, thus increasing the influence of her favored little boy... you.;;;;;;;;;;;;;x
-EVTDESC89017;Your dear first wife, [From.Mother.GetFirstName], has once again cornered you and is expressing her shame and embarrassment over the fact that your current heir is not a child of hers. She is pleading with you to grant more land to her precious boy [From.GetFirstName], increasing his influence.;;;;;;;;;;;;;x
-EVTDESC89018;Despite your mother's arguments, your father has refused to grant you more land for now. In fact, he seems a bit disappointed that you would let your mother fight your battles for you...;;;;;;;;;;;;;x
-EVTDESC89020;You have toiled long and hard for your husband, [Root.Spouse.GetTitledFirstName], and even gifted him with a son. But the heir is not a child of yours, and as soon as [Root.Spouse.Heir.GetFirstName] assumes the throne, your son may be killed as a pretender. Perhaps it would be best to strike first...;;;;;;;;;;;;;x
-EVTDESC89021;Auntie [From.GetFirstName], one of your father's wives, gives you a cup of tea and insists you drink it. The tea smells funny, though, and you refuse to taste it. When [From.GetFirstName] tries to force you to drink, the tea spills on the floor and is lapped up by one of your pet cats... who promptly dies.;;;;;;;;;;;;;x
-EVTDESC89022;One of your wives, [From.GetFirstName], has been caught trying to serve a cup of poisoned tea to [Root.Heir.GetFirstName], your [Root.Heir.GetSonDaughter] and heir. Only your [Root.Heir.GetSonDaughter]'s keen senses revealed the beverage for the vile poison it was before [Root.Heir.GetSheHe] drank from the cup. It seems her goal was to make her own son your heir...;;;;;;;;;;;;;x
-EVTDESC89023;Auntie [From.GetFirstName], one of your father's wives, gives you a cup of tea and insists you drink it. The tea tastes funny, though, and when you have emptied the cup, the world fades away...;;;;;;;;;;;;;x
-EVTDESC89024;Your [Root.Heir.GetSonDaughter] and heir, [Root.Heir.GetFirstName], has mysteriously perished after becoming suddenly ill. Though you and your advisors suspect foul play, you have no idea where to place the blame...;;;;;;;;;;;;;x
-EVTDESC89025;Your [Root.Heir.GetSonDaughter] and heir, [Root.Heir.GetFirstName], has perished after being served a cup of poisoned tea by [From.GetFirstName], your treacherous wife! It seems she murdered [Root.Heir.GetHerHim] in an effort to see her own son declared as heir.;;;;;;;;;;;;;x
-EVTDESC89030;You have toiled long and hard for your husband, [Root.Spouse.GetTitledFirstName], and even given him a son. But he has other sons not of your blood who will one day have designs upon the throne, and your son may be killed as a pretender. Perhaps it would be best to strike first...;;;;;;;;;;;;;x
-EVTDESC89032;One of your wives, [From.GetFirstName], has been caught trying to serve a cup of poisoned tea to one of your sons born by a different wife. Only your son's keen senses revealed the beverage for the vile poison it was before he drank from the cup. It seems her goal is to improve the influence and standing of her own offspring with you...;;;;;;;;;;;;;x
-EVTDESC89034;One of your sons has mysteriously perished after becoming suddenly ill. Though you and your advisors suspect foul play, you have no idea where to place the blame...;;;;;;;;;;;;;x
-EVTDESC89035;One of your sons has perished after being served a cup of poisoned tea by [From.GetFirstName], your treacherous wife! It seems she murdered him in an effort to improve the influence and standing of her own offspring with you.;;;;;;;;;;;;;x
-
-EVTOPTA89000;I feel alive again!;;;;;;;;;;;;;x
-EVTOPTA89001;Who am I to stand in the way of love? Just be more discreet.;;;;;;;;;;;;;x
-EVTOPTA89002;Send out riders! Find them!;;;;;;;;;;;;;x
-EVTOPTA89003;NO!!!;;;;;;;;;;;;;x
-EVTOPTA89005;Poison [Root.Spouse.Spouse.GetFirstName].;;;;;;;;;;;;;x
-EVTOPTA89006;[Root.Spouse.GetFirstName], my dear wife. Let us bury the past and look to the future!;;;;;;;;;;;;;x
-EVTOPTA89007;[Root.Spouse.GetFirstName] must be told of this!;;;;;;;;;;;;;x
-EVTOPTA89008;It pains me, but the punishment for this must be death...;;;;;;;;;;;;;x
-EVTOPTA89009;But... but she tried to KILL me!;;;;;;;;;;;;;x
-EVTOPTA89010;Yes, she would make a good first wife...;;;;;;;;;;;;;x
-EVTOPTA89011;Quick! Where is the poison?;;;;;;;;;;;;;x
-EVTOPTA89012;Release her. She must truly love me!;;;;;;;;;;;;;x
-EVTOPTA89015;Yes, my son deserves more!;;;;;;;;;;;;;x
-EVTOPTA89016;Mother, you're embarrassing me!;;;;;;;;;;;;;x
-EVTOPTA89017;Fine, fine. If it will get you off my back...;;;;;;;;;;;;;x
-EVTOPTA89018;But... but... I didn't tell her to...!;;;;;;;;;;;;;x
-EVTOPTA89020;I do this for my son!;;;;;;;;;;;;;x
-EVTOPTA89021;P-poison?;;;;;;;;;;;;;x
-EVTOPTA89022;You would kill my own son? This will cost you dearly.;;;;;;;;;;;;;x
-EVTOPTA89023;I don't feel so good....;;;;;;;;;;;;;x
-EVTOPTA89024;My [Root.Heir.GetSonDaughter]...;;;;;;;;;;;;;x
-EVTOPTA89025;My [Root.Heir.GetSonDaughter]... you will suffer a thousand deaths for this, woman.;;;;;;;;;;;;;x
-
-EVTOPTB89001;This disgraceful behavior ends now!;;;;;;;;;;;;;x
-EVTOPTB89005;Woo [Root.Spouse.GetFirstName].;;;;;;;;;;;;;x
-EVTOPTB89006;Is... is that poison? Guards, move her to the dungeons instead!;;;;;;;;;;;;;x
-EVTOPTB89008;Let her contemplate the error of her ways in the dungeons!;;;;;;;;;;;;;x
-EVTOPTB89010;No. [Root.Spouse.GetFirstName] is first amongst my wives, now and always.;;;;;;;;;;;;;x
-EVTOPTB89011;If that is his wish...;;;;;;;;;;;;;x
-EVTOPTB89012;Send the witch to rot in prison!;;;;;;;;;;;;;x
-EVTOPTB89015;No, my husband knows best...;;;;;;;;;;;;;x
-EVTOPTB89017;No, I do not care who his mother is. He has not earned it.;;;;;;;;;;;;;x
-EVTOPTB89020;No, I cannot do this...;;;;;;;;;;;;;x
-EVTOPTB89022;Throw her into the dungeons!;;;;;;;;;;;;;x
-EVTOPTB89025;Throw the wench into the dungeons!;;;;;;;;;;;;;x
-
-EVTOPTC89001;They will pay with their lives...;;;;;;;;;;;;;x
-EVTOPTC89005;No, I must accept my station.;;;;;;;;;;;;;x
-EVTOPTC89006;Force her to drink the vial's remaining content!;;;;;;;;;;;;;x
-EVTOPTC89008;I can't be fighting all your battles for you, [Root.Spouse.GetFirstName]!;;;;;;;;;;;;;x
-EVTOPTC89012;As my dear first wife has died, so shall she!;;;;;;;;;;;;;x
-EVTOPTC89022;Oh well. Just don't do it again.;;;;;;;;;;;;;x
-EVTOPTC89025;Oh well. What is done is done.;;;;;;;;;;;;;x
-
-EVTTOOLTIP89003;Your scouts search for your missing wives.;;;;;;;;;;;;;x
-EVTTOOLTIP89007;Murder attempt discovered!;;;;;;;;;;;;;x
-EVTTOOLTIP89008;Is informed of the murder attempt.;;;;;;;;;;;;;x
-EVTTOOLTIP89010;The [Root.Spouse.GetTitle] is wooed.;;;;;;;;;;;;;x
-EVTTOOLTIP89016;You tell your boy about your plans.;;;;;;;;;;;;;x
-EVTTOOLTIP89017;Your mother corners your father.;;;;;;;;;;;;;x
-EVTTOOLTIP89021;Dying from poison....;;;;;;;;;;;;;x
-EVTTOOLTIP89023;Exposing murder attempt....;;;;;;;;;;;;;x
+EVTDESC89000;You have come to share more things than your husband with one of his other wives. The mutual feelings of love and affection that exist between the two of you is something you have simply never felt with [Root.Spouse.GetFirstName].;;;;;;;;;;;Âàì åñòü ÷åì ïîäåëèòüñÿ ñ îäíîé èç æ¸í ñâîåãî ìóæà, áîëåå ÷åì ñ íèì ñàìèì. Âçàèìíûå ÷óâñòâà ëþáâè è ïðèâÿçàííîñòè, ñóùåñòâóþùèå ìåæäó âàìè äâóìÿ, — ýòî òî, ÷òî Âû è [Root.Spouse.GetFirstName] íèêîãäà íå ÷óâñòâîâàëè.;;x
+EVTDESC89001;The most disturbing rumor has come to your attention. It seems two of your wives have sinfully engaged in carnal pleasures with each other! The rest of the household must be laughing at you behind your back... something must be done about this shameful crime.;;;;;;;;;;;Ñàìûå òðåâîæíûå ñëóõè äîñòèãëè Âàøåãî âíèìàíèÿ! Ïîõîæå, ÷òî äâå Âàøèõ æåíû âîâëå÷åíû â ãðåõîâíóþ ñâÿçü è ïðåäàþòñÿ ïëîòñêèì óòåõàì äðóã ñ äðóãîì! Îñòàëüíûå ÷ëåíû ñåìüè äîëæíî áûòü ñìåþòñÿ çà Âàøåé ñïèíîé... íóæíî ÷òî-òî ïðåäïðèíÿòü îòíîñèòåëüíî ýòîãî ïîçîðíîãî ïðåñòóïëåíèÿ.;;x
+EVTDESC89002;Your two sinful wives, possessed by a depraved and unnatural love for each other, have eloped! Try as they might, your guards can't find them anywhere in your palace and a carriage in the courtyard outside has been reported stolen!;;;;;;;;;;;Äâå Âàøèõ ñîãðåøèâøèõ æåíû, îäåðæèìûå ïîðî÷íîé è ïðîòèâîåñòåñòâåííîé ëþáîâüþ äðóã ê äðóãó, ñáåæàëè! Âàøè ñòðàæíèêè íå ìîãóò íàéòè èõ âî äâîðöå íåñìîòðÿ íà âñå ñòàðàíèÿ. Ê òîìó æå Âàì äîëîæèëè, ÷òî ñ çàäíåãî äâîðà ïîõèùåíà ïîâîçêà!;;x
+EVTDESC89003;Leading your scouts forward, you intercept your fleeing wives in their carriage at the edge of a deep ravine. You dismount and approach the carriage, but as you draw near it suddenly takes off towards the ravine. Moments before their horses leap off the edge, you see your wives clasping each other's hands...;;;;;;;;;;;Âîçãëàâèâ ñâîèõ ðàçâåä÷èêîâ, Âû ïåðåõâàòûâàåòå ñâîèõ ñáåæàâøèõ æ¸í â èõ ïîâîçêå ó êðàÿ ãëóáîêîãî óùåëüÿ. Âû ñïåøèâàåòåñü è ïðèáëèæàåòåñü ê ïîâîçêå, íî, êàê òîëüêî Âû ïîäõîäèòå, îíà âíåçàïíî ñðûâàåòñÿ ñ ìåñòà ïî íàïðàâëåíèþ ê óùåëüþ. Çà ñåêóíäó äî òîãî êàê ëîøàäè ïðûãàþò âíèç, Âû âèäèòå Âàøèõ æ¸í, äåðæàùèõñÿ çà ðóêè...;;x
+EVTDESC89005;I should be first amongst the wives of [Root.Spouse.GetFirstName]. That I am not shames us both. For his sake, if not my own, I should act.;;;;;;;;;;;[Root.Spouse.GetFirstName] äîëæåí ñäåëàòü ìåíÿ ñâîåé ïåðâîé æåíîé. Íûíåøíåå ïîëîæåíèå ïîçîðèò íàñ îáîèõ. ß äîëæíà äåéñòâîâàòü, åñëè íå äëÿ ñâîåãî áëàãà, òî ðàäè íåãî.;;x
+EVTDESC89006;The first of your wives has passed away unexpectedly, with your healers claiming nothing could be done. They suspect poison may be the cause. [Root.Spouse.GetFirstName], who is now your new first wife, can barely conceal her elation. As the guards move her belongings into her new quarters, one of them confiscates a suspicious half-empty vial...;;;;;;;;;;;Âàøà ïåðâàÿ æåíà âíåçàïíî ñêîí÷àëàñü, Âàøè öåëèòåëè óòâåðæäàþò, ÷òî íè÷åãî íåëüçÿ áûëî ñäåëàòü. Îíè ïîäîçðåâàþò, ÷òî ïðè÷èíîé ñìåðòè ìîã áûòü ÿä. [Root.Spouse.GetFirstName], Âàøà íîâàÿ ïåðâàÿ æåíà, ñ òðóäîì ñêðûâàåò ñâîþ ðàäîñòü. Êîãäà Âàøè ñòðàæíèêè ïåðåíåñëè å¸ âåùè â íîâûå [Root.GetChamberACC], îäèí èç íèõ êîíôèñêóåò ïîäîçðèòåëüíûé è íàïîëîâèíó ïóñòîé ôëàêîí...;;x
+EVTDESC89007;It seems one of your husband's lesser wives has tried to poison you in a desperate bid to become his first wife! It was blind luck alone that made you discover this attempt on your life before it was too late.;;;;;;;;;;;Ïîõîæå, ÷òî îäíà èç ìëàäøèõ æ¸í Âàøåãî ìóæà ïûòàëàñü îòðàâèòü Âàñ, â îò÷àÿííîé ïîïûòêå çàíÿòü Âàøå ìåñòî! Ëèøü ñëåïîå âåçåíèå ïîçâîëèëî ðàñêðûòü ýòî ïîêóøåíèå íà Âàøó æèçíü äî òîãî, êàê ñòàëî ñëèøêîì ïîçäíî.;;x
+EVTDESC89008;[Root.Spouse.GetFirstName], the first of your beloved wives, is very upset. She claims to have caught one of your lesser wives in the act of poisoning her food! Evidence uncovered by your household guards seem to verify this claim.;;;;;;;;;;;[Root.Spouse.GetFirstName], ïåðâàÿ èç Âàøèõ ëþáèìûõ æ¸í, î÷åíü ðàññòðîåíà. Îíà óòâåðæäàåò, ÷òî ïîéìàëà îäíó èç Âàøèõ ìëàäøèõ æ¸í ïðè ïîïûòêå îòðàâèòü å¸ åäó! Äîêàçàòåëüñòâà, îáíàðóæåííûå Âàøåé ñòðàæåé, ïîõîæå, ïîäòâåðæäàþò å¸ ñëîâà.;;x
+EVTDESC89009;I can't fight all your battles for you, [Root.Spouse.GetFirstName]! Just tell her not to do it again.;;;;;;;;;;;ß íå ìîãó áèòüñÿ âî âñåõ Âàøèõ ñðàæåíèÿõ çà Âàñ, [Root.Spouse.GetFirstName]! Ïðîñòî ñêàæèòå åé âïðåäü ýòîãî íå äåëàòü.;;x
+EVTDESC89010;One of your beloved wives covets the position of first wife, and has been trying to woo you into elevating her to that status.;;;;;;;;;;;Îäíà èç Âàøèõ ëþáèìûõ æ¸í æàæäåò ñòàòü ïåðâîé æåíîé, äëÿ ýòîãî îíà ñòàðàåòñÿ âñÿ÷åñêè óãîäèòü Âàì.;;x
+EVTDESC89011;That witch [Root.Spouse.Spouse.GetFirstName] has somehow ensnared [Root.Spouse.GetFirstName] with her black magic. She has manipulated him into granting her your rightful position as the first among his wives!;;;;;;;;;;;[Root.Spouse.Spouse.GetFirstName], ýòà âåäüìà! [Root.Spouse.GetFirstName] ïîïàë ïîä âëèÿíèå å¸ ÷¸ðíîé ìàãèè! Îíà ìàíèïóëèðîâàëà èì, ÷òîáû îí äàðîâàë åé Âàøå çàêîííîå ìåñòî ïåðâîé ñðåäè åãî æ¸í!;;x
+EVTDESC89012;Tragic news, Master! Your new first wife has passed away, and your healers all agree that poison was the cause. Your former first wife, overcome with jealousy, has made no attempt to hide her guilt in this crime. What should be done with her?;;;;;;;;;;;Ïðèñêîðáíûå íîâîñòè, [Root.PrimaryTitle.GetFOA]! Âàøà íîâàÿ ïåðâàÿ æåíà ñêîí÷àëàñü, Âàøè âðà÷è åäèíû âî ìíåíèè, ÷òî ïðè÷èíîé ýòîìó ñòàë ÿä. Âàøà áûâøàÿ ïåðâàÿ æåíà, îõâà÷åííàÿ ðåâíîñòüþ, äàæå íå ñäåëàëà ïîïûòêè ñêðûòü ñâîþ âèíó. Êàê ñëåäóåò ñ íåé ïîñòóïèòü?;;x
+EVTDESC89015;Though you are the first wife of [Root.Spouse.GetTitledFirstName], his current announced heir is not a child of yours. Perhaps you could talk to your husband and persuade him to grant your son more land, thus increasing his power and influence...;;;;;;;;;;;Õîòü Âû è ïåðâàÿ æåíà [Root.Spouse.GetTitledFirstName], îí îáúÿâèë òåêóùèì íàñëåäíèêîì íå Âàøåãî ðåá¸íêà. Âîçìîæíî, Âû ìîãëè áû ïîãîâîðèòü ñ ìóæåì è óáåäèòü åãî äàòü Âàøåìó ñûíó áîëüøå çåìåëü, òåì ñàìûì óâåëè÷èâàÿ ñâîþ âëàñòü è âëèÿíèå...;;x
+EVTDESC89016;Your dear mother, [Root.Mother.GetTitledFirstName], is very upset that despite her position as your father's first wife, his announced heir is not a child of hers. Today she has announced her intentions to plead with your father to grant you more land, thus increasing the influence of her favored little boy... you.;;;;;;;;;;;Âàøà ìàòóøêà, [Root.Mother.GetTitledFirstName], î÷åíü ðàññòðîåíà òåì, ÷òî, íåñìîòðÿ íà å¸ ïîëîæåíèå ïåðâîé æåíû Âàøåãî îòöà, îí îáúÿâèë íàñëåäíèêîì íå å¸ ðåáåíêà. Ñåãîäíÿ îíà îáúÿâèëà î ñâî¸ì íàìåðåíèè ïðîñèòü ó Âàøåãî îòöà ïîæàëîâàòü Âàì áîëüøå çåìåëü, òåì ñàìûì óâåëè÷èâàÿ âëèÿíèå å¸ ëþáèìîãî ìàëåíüêîãî ìàëü÷èêà... òî åñòü Âàñ.;;x
+EVTDESC89017;Your dear first wife, [From.Mother.GetFirstName], has once again cornered you and is expressing her shame and embarrassment over the fact that your current heir is not a child of hers. She is pleading with you to grant more land to her precious boy [From.GetFirstName], increasing his influence.;;;;;;;;;;;Âàøà äîðîãàÿ ïåðâàÿ æåíà â î÷åðåäíîé ðàç çàãíàëà Âàñ â óãîë è âûðàçèëà ñâîé ñòûä è ñìóùåíèå ïî ïîâîäó òîãî, ÷òî Âàø òåêóùèé íàñëåäíèê íå ÿâëÿåòñÿ å¸ ðåáåíêîì. Îíà óìîëÿåò Âàñ äàòü áîëüøå çåìåëü å¸ äðàãîöåííîìó ìàëü÷èêó ([From.GetFirstName]) äëÿ óâåëè÷åíèÿ åãî âëèÿíèÿ.;;x
+EVTDESC89018;Despite your mother's arguments, your father has refused to grant you more land for now. In fact, he seems a bit disappointed that you would let your mother fight your battles for you...;;;;;;;;;;;Íåñìîòðÿ íà àðãóìåíòû Âàøåé ìàòåðè, Âàø îòåö îòêàçàëñÿ ïîæàëîâàòü Âàì áîëüøå çåìåëü. Íà ñàìîì äåëå, îí, êàæåòñÿ, íåìíîãî ðàçî÷àðîâàí, ÷òî Âû ïîçâîëèëè ñâîåé ìàòåðè áîðîòüñÿ çà Âàøè ïðàâà âìåñòî ñåáÿ...;;x
+EVTDESC89020;You have toiled long and hard for your husband, [Root.Spouse.GetTitledFirstName], and even gifted him with a son. But the heir is not a child of yours, and as soon as [Root.Spouse.Heir.GetFirstName] assumes the throne, your son may be killed as a pretender. Perhaps it would be best to strike first...;;;;;;;;;;;Âû òÿæåëî è óïîðíî òðóäèëèñü äëÿ ñâîåãî ìóæà, [Root.Spouse.GetTitledFirstName], äàæå îäàðèëè åãî ñûíîì. Íî íàñëåäíèê íå Âàø ðåáåíîê, è, êàê òîëüêî [Root.Spouse.Heir.GetFirstName] âçîéä¸ò íà òðîí, Âàø ñûí ìîæåò áûòü óáèò êàê ïðåòåíäåíò. Âîçìîæíî, áûëî áû ëó÷øå íàíåñòè óäàð ïåðâîé...;;x
+EVTDESC89021;Auntie [From.GetFirstName], one of your father's wives, gives you a cup of tea and insists you drink it. The tea smells funny, though, and you refuse to taste it. When [From.GetFirstName] tries to force you to drink, the tea spills on the floor and is lapped up by one of your pet cats... who promptly dies.;;;;;;;;;;;Ò¸òÿ [From.GetFirstName], îäíà èç æ¸í îòöà, äà¸ò Âàì ÷àøêó ÷àÿ è íàñòàèâàåò íà òîì, ÷òîáû Âû âûïèëè. ×àé ñòðàííî ïàõíåò, õîòü Âû è îòêàçûâàåòåñü åãî ïðîáîâàòü. Êîãäà [From.GetFirstName] ïûòàåòñÿ çàñòàâèòü Âàñ ïèòü, ÷àé ïðîëèâàåòñÿ íà ïîë. Îäíà èç Âàøèõ êîøåê ëèæåò åãî... è ïàäàåò çàìåðòâî.;;x
+EVTDESC89022;One of your wives, [From.GetFirstName], has been caught trying to serve a cup of poisoned tea to [Root.Heir.GetFirstName], your [Root.Heir.GetSonDaughter] and heir. Only your [Root.Heir.GetSonDaughter]'s keen senses revealed the beverage for the vile poison it was before [Root.Heir.GetSheHe] drank from the cup. It seems her goal was to make her own son your heir...;;;;;;;;;;;Îäíà èç Âàøèõ æ¸í, [From.GetFirstName], áûëà ïîéìàíà ïðè ïîïûòêå ïîäíåñòè ÷àøêó îòðàâëåííîãî ÷àÿ [Root.Heir.GetFirstName], Âàøåìó ñûíó è íàñëåäíèêó. Òîëüêî îñòðûå ÷óâñòâà ñûíà ïîäñêàçàëè åìó, ÷òî íàïèòîê áûë ìåðçêèì ÿäîì, ïðåæäå ÷åì îí îòïèë èç ÷àøêè. Êàæåòñÿ, å¸ öåëüþ áûëî ñäåëàòü å¸ ñîáñòâåííîãî ñûíà íàñëåäíèêîì...;;x
+EVTDESC89023;Auntie [From.GetFirstName], one of your father's wives, gives you a cup of tea and insists you drink it. The tea tastes funny, though, and when you have emptied the cup, the world fades away...;;;;;;;;;;;Ò¸òÿ [From.GetFirstName], îäíà èç æ¸í Âàøåãî îòöà, äà¸ò Âàì ÷àøêó ÷àÿ è íàñòàèâàåò, ÷òî íàäî âûïèòü. Ó ÷àÿ ñòðàííûé âêóñ, è, êîãäà Âû îïóñòîøèëè ÷àøêó, ìèð èñ÷åçàåò...;;x
+EVTDESC89024;Your [Root.Heir.GetSonDaughter] and heir, [Root.Heir.GetFirstName], has mysteriously perished after becoming suddenly ill. Though you and your advisors suspect foul play, you have no idea where to place the blame...;;;;;;;;;;;Âàø ñûí è íàñëåäíèê, [Root.Heir.GetFirstName], çàãàäî÷íî ïîãèá ïîñëå âíåçàïíîé áîëåçíè. Õîòü Âû è Âàøè ñîâåòíèêè ïîäîçðåâàþò ïîäêîâ¸ðíûå èãðû, Âû ïîíÿòèÿ íå èìååòå, íà êîãî âîçëîæèòü âèíó...;;x
+EVTDESC89025;Your [Root.Heir.GetSonDaughter] and heir, [Root.Heir.GetFirstName], has perished after being served a cup of poisoned tea by [From.GetFirstName], your treacherous wife! It seems she murdered [Root.Heir.GetHerHim] in an effort to see her own son declared as heir.;;;;;;;;;;;Âàø ñûí è íàñëåäíèê, [Root.Heir.GetFirstName], ïîãèá ïîñëå òîãî, êàê åìó â ÷àøêó ÷àÿ ïîäìåøàëà ÿä [From.GetFirstName], Âàøà âåðîëîìíàÿ æåíà! Êàæåòñÿ, îíà óáèëà åãî, ÷òîáû óâèäåòü ñâîåãî ñûíà íàñëåäíèêîì.;;x
+EVTDESC89030;You have toiled long and hard for your husband, [Root.Spouse.GetTitledFirstName], and even given him a son. But he has other sons not of your blood who will one day have designs upon the throne, and your son may be killed as a pretender. Perhaps it would be best to strike first...;;;;;;;;;;;Âû äîëãî òðóäèëèñü íà áëàãî Âàøåãî ìóæà ([Root.Spouse.GetTitledFirstName]), è äàæå ïîäàðèëè åìó ñûíà. Íî îí èìååò äðóãèõ ñûíîâåé íå Âàøåé êðîâè, êîòîðûå ñìîãóò ïðåòåíäîâàòü íà òðîí, à Âàø ñûí ìîæåò áûòü óáèò êàê ïðåòåíäåíò. Âîçìîæíî, áûëî áû ëó÷øå âñåãî óäàðèòü ïåðâîé...;;x
+EVTDESC89032;One of your wives, [From.GetFirstName], has been caught trying to serve a cup of poisoned tea to one of your sons born by a different wife. Only your son's keen senses revealed the beverage for the vile poison it was before he drank from the cup. It seems her goal is to improve the influence and standing of her own offspring with you...;;;;;;;;;;;Îäíà èç Âàøèõ æ¸í, [From.GetFirstName], áûëà ïîéìàíà ïðè ïîïûòêå ïîäíåñòè ÷àøó îòðàâëåííîãî ÷àÿ îäíîìó èç Âàøèõ ñûíîâåé, ðîæä¸ííûõ äðóãîé æåíîé. Òîëüêî îñòðîå ÷óòü¸ Âàøåãî ñûíà ïîçâîëèëè åìó ïî÷óÿòü ìåðçêèé ÿä ïðåæäå, ÷åì îí èñïèë åãî. Êàæåòñÿ, öåëü Âàøåé æåíû ñîñòîèò â òîì, ÷òîáû óëó÷øèòü ïîëîæåíèå ñîáñòâåííîãî ïîòîìñòâà...;;x
+EVTDESC89034;One of your sons has mysteriously perished after becoming suddenly ill. Though you and your advisors suspect foul play, you have no idea where to place the blame...;;;;;;;;;;;Îäèí èç Âàøèõ ñûíîâåé òàèíñòâåííûì îáðàçîì ïîãèá ïîñëå òîãî, êàê åìó âíåçàïíî ñòàëî ïëîõî. Õîòÿ Âû è Âàøè ñîâåòíèêè ïîäîçðåâàåòå óìûøëåííîå ïðåñòóïëåíèå, Âû ïîíÿòèÿ íå èìååòå, ãäå èñêàòü âèíîâíîãî...;;x
+EVTDESC89035;One of your sons has perished after being served a cup of poisoned tea by [From.GetFirstName], your treacherous wife! It seems she murdered him in an effort to improve the influence and standing of her own offspring with you.;;;;;;;;;;;Îäèí èç Âàøèõ ñûíîâåé ïîãèá, âûïèâ ÷àøêó îòðàâëåííîãî ÷àÿ, êîòîðóþ åìó ïîäíåñëà Âàøà âåðîëîìíàÿ æåíà [From.GetFirstName]! Êàæåòñÿ, îíà óáèëà åãî, ÷òîáû óëó÷øèòü ïîëîæåíèå ñîáñòâåííîãî ïîòîìñòâà.;;x
+EVTOPTA89000;I feel alive again!;;;;;;;;;;;ß ñíîâà ÷óâñòâóþ ñåáÿ æèâîé!;;x
+EVTOPTA89001;Who am I to stand in the way of love? Just be more discreet.;;;;;;;;;;;Êòî ÿ òàêîé, ÷òîáû ñòîÿòü íà ïóòè ëþáâè? Íóæíî áûòü áîëåå ñäåðæàííûì.;;x
+EVTOPTA89002;Send out riders! Find them!;;;;;;;;;;;Ïîñëàòü âñàäíèêîâ! Íàéäèòå èõ!;;x
+EVTOPTA89003;NO!!!;;;;;;;;;;;ÍÅÒ!!!;;x
+EVTOPTA89005;Poison [Root.Spouse.Spouse.GetFirstName].;;;;;;;;;;;Îòðàâèòü [Root.Spouse.Spouse.GetHersHis];;x
+EVTOPTA89006;[Root.Spouse.GetFirstName], my dear wife. Let us bury the past and look to the future!;;;;;;;;;;;Æåíà ìîÿ, äàâàé îñòàâèì ïðîøëîå è ïîñìîòðèì â áóäóùåå!;;x
+EVTOPTA89007;[Root.Spouse.GetFirstName] must be told of this!;;;;;;;;;;;[Root.Spouse.GetFirstName] äîëæåí óçíàòü îá ýòîì!;;x
+EVTOPTA89008;It pains me, but the punishment for this must be death...;;;;;;;;;;;Ìíå áîëüíî îá ýòîì ãîâîðèòü, íî íàêàçàíèåì çà ýòî äîëæíà áûòü ñìåðòü...;;x
+EVTOPTA89009;But... but she tried to KILL me!;;;;;;;;;;;Íî... íî îíà æå ïûòàëàñü ÓÁÈÒÜ ìåíÿ!;;x
+EVTOPTA89010;Yes, she would make a good first wife...;;;;;;;;;;;Äà, îíà áûëà áû õîðîøåé ñòàðøåé æåíîé...;;x
+EVTOPTA89011;Quick! Where is the poison?;;;;;;;;;;;Áûñòðåå! Ãäå ÿä?;;x
+EVTOPTA89012;Release her. She must truly love me!;;;;;;;;;;;Îòïóñòèòå å¸. Îíà äîëæíî áûòü ïî-íàñòîÿùåìó ëþáèò ìåíÿ!;;x
+EVTOPTA89015;Yes, my son deserves more!;;;;;;;;;;;Äà, ìîé ñûí çàñëóæèâàåò áîëüøåãî!;;x
+EVTOPTA89016;Mother, you're embarrassing me!;;;;;;;;;;;Ìàìà, òû ìåíÿ ñìóùàåøü!;;x
+EVTOPTA89017;Fine, fine. If it will get you off my back...;;;;;;;;;;;Ïðåêðàñíî, ïðåêðàñíî. Åñëè òû îò ìåíÿ îòñòàíåøü...;;x
+EVTOPTA89018;But... but... I didn't tell her to...!;;;;;;;;;;;Íî... íî... ß íè÷åãî íå ãîâîðèë åé...!;;x
+EVTOPTA89020;I do this for my son!;;;;;;;;;;;ß ñäåëàþ ýòî ðàäè ñûíà!;;x
+EVTOPTA89021;P-poison?;;;;;;;;;;;ß-ÿ-ÿä?;;x
+EVTOPTA89022;You would kill my own son? This will cost you dearly.;;;;;;;;;;;Òû õî÷åøü óáèòü ìîåãî ñûíà? Ýòî äîðîãî òåáå îáîéä¸òñÿ.;;x
+EVTOPTA89023;I don't feel so good....;;;;;;;;;;;×òî-òî ìíå íåõîðîøî...;;x
+EVTOPTA89024;My [Root.Heir.GetSonDaughter]...;;;;;;;;;;;Ìîé ñûí...;;x
+EVTOPTA89025;My [Root.Heir.GetSonDaughter]... you will suffer a thousand deaths for this, woman.;;;;;;;;;;;Ìîé ñûí... òû áóäåøü ñòðàäàòü òûñÿ÷üþ ñìåðòåé çà ýòî, æåíùèíà.;;x
+EVTOPTB89001;This disgraceful behavior ends now!;;;;;;;;;;;Ýòî ïîçîðíîå ïîâåäåíèå ïðåêðàòèòñÿ íåìåäëåííî!;;x
+EVTOPTB89005;Woo [Root.Spouse.GetFirstName].;;;;;;;;;;;Íóæíî äîáèòüñÿ [Root.Spouse.GetHersHis] ðàñïîëîæåíèÿ.;;x
+EVTOPTB89006;Is... is that poison? Guards, move her to the dungeons instead!;;;;;;;;;;;Ýòî... ýòî ÿä? Ñòðàæà, ïîìåñòèòå å¸ â òåìíèöó!;;x
+EVTOPTB89008;Let her contemplate the error of her ways in the dungeons!;;;;;;;;;;;Ïóñòü ïîäóìàåò î ñâîåé îøèáêå â òåìíèöå!;;x
+EVTOPTB89010;No. [Root.Spouse.GetFirstName] is first amongst my wives, now and always.;;;;;;;;;;;Íåò. [Root.Spouse.GetFirstName] - ïåðâàÿ, ñåé÷àñ è íàâñåãäà.;;x
+EVTOPTB89011;If that is his wish...;;;;;;;;;;;Åñëè òàêîâî åãî æåëàíèå...;;x
+EVTOPTB89012;Send the witch to rot in prison!;;;;;;;;;;;Îòïðàâüòå å¸ ãíèòü çà ðåø¸òêîé!;;x
+EVTOPTB89015;No, my husband knows best...;;;;;;;;;;;Íåò, ìîåìó ìóæó âèäíåå...;;x
+EVTOPTB89017;No, I do not care who his mother is. He has not earned it.;;;;;;;;;;;Íåò, è ìåíÿ íå âîëíóåò êòî åãî ìàòü. Îí íå çàñëóæèë.;;x
+EVTOPTB89020;No, I cannot do this...;;;;;;;;;;;Íåò, ÿ íå ìîãó òàê ïîñòóïèòü...;;x
+EVTOPTB89022;Throw her into the dungeons!;;;;;;;;;;;Áðîñèòü å¸ â òåìíèöó!;;x
+EVTOPTB89025;Throw the wench into the dungeons!;;;;;;;;;;;Áðîñèòü äåâêó â òåìíèöó!;;x
+EVTOPTC89001;They will pay with their lives...;;;;;;;;;;;Îíè çàïëàòÿò ñâîèìè æèçíÿìè...;;x
+EVTOPTC89005;No, I must accept my station.;;;;;;;;;;;Íåò, ÿ äîëæíà ïðèíÿòü ñâî¸ ïîëîæåíèå.;;x
+EVTOPTC89006;Force her to drink the vial's remaining content!;;;;;;;;;;;Çàñòàâüòå å¸ âûïèòü òî, ÷òî îñòàëîñü âî ôëàêîíå!;;x
+EVTOPTC89008;I can't be fighting all your battles for you, [Root.Spouse.GetFirstName]!;;;;;;;;;;;ß íå ìîãó áèòüñÿ âî âñåõ Âàøèõ ñðàæåíèÿõ çà Âàñ, [Root.Spouse.GetFirstName]!;;x
+EVTOPTC89012;As my dear first wife has died, so shall she!;;;;;;;;;;;Êàê óìåðëà ìîÿ äîðîãàÿ ïåðâàÿ æåíà, òàê óìð¸ò è îíà!;;x
+EVTOPTC89022;Oh well. Just don't do it again.;;;;;;;;;;;Íó äà ëàäíî. Ïðîñòî íå ïûòàéñÿ ïîâòîðèòü.;;x
+EVTOPTC89025;Oh well. What is done is done.;;;;;;;;;;;×òî æ. ×òî ñäåëàíî, òî ñäåëàíî.;;x
+EVTTOOLTIP89003;Your scouts search for your missing wives.;;;;;;;;;;;Âàøè ðàçâåä÷èêè èùóò Âàøèõ ïðîïàâøèõ æ¸í.;;x
+EVTTOOLTIP89007;Murder attempt discovered!;;;;;;;;;;;Ðàñêðûòà ïîïûòêà óáèéñòâà;;x
+EVTTOOLTIP89008;Is informed of the murder attempt.;;;;;;;;;;;Óçíàåò î ïîêóøåíèè.;;x
+EVTTOOLTIP89010;The [Root.Spouse.GetTitle] is wooed.;;;;;;;;;;;[Root.Spouse.GetTitle] îáîëüù¸í.;;x
+EVTTOOLTIP89016;You tell your boy about your plans.;;;;;;;;;;;Âû ãîâîðèòå ñûíó î ñâîèõ ïëàíàõ.;;x
+EVTTOOLTIP89017;Your mother corners your father.;;;;;;;;;;;Âàøà ìàòü çàãíàëà Âàøåãî îòöà â óãîë.;;x
+EVTTOOLTIP89021;Dying from poison....;;;;;;;;;;;Ñìåðòü îò ÿäà...;;x
+EVTTOOLTIP89023;Exposing murder attempt....;;;;;;;;;;;Ðàçîáëà÷èòü ïîêóøåíèå íà óáèéñòâî...;;x

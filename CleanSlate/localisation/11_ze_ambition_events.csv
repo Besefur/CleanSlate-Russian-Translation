@@ -1,64 +1,54 @@
-EVTDESC_ZE_6000;My hard work will not have gone unnoticed by my liege [target_liege.GetTitledName]. I am worthy of a position on the council and it's time I let [target_liege.GetHerHim] know.;;;;;;;;;;;;;x
-EVTDESC_ZE_6001;[aspiring_councillor.GetTitledFirstName] expresses [aspiring_councillor.GetHerHis] wish to have a seat on the Council. [aspiring_councillor.GetHerHisCap] contribution to the realm is significant and [aspiring_councillor.GetHerHis] military strength is not to be ignored, so including [aspiring_councillor.GetHerHim] in the Council may eliminate a potential future threat.;;;;;;;;;;;;;x
-EVTDESC_ZE_6002;It has been long enough since [target_liege.GetTitledName] promised to make room for me on the council. I could remind [target_liege.GetHerHim] to keep [target_liege.GetHerHis] promise.;;;;;;;;;;;;;x
-EVTDESC_ZE_6004;My request to join the [target_liege.GetCouncilName] of [target_liege.GetTitledName] will be considered.;;;;;;;;;;;;;x
-EVTDESC_ZE_6005;The answer regarding a position on the [target_liege.GetCouncilName] of [target_liege.GetTitledName] was a definite no.;;;;;;;;;;;;;x
-EVTDESC_ZE_6006;Although I didn't get a council position, I can rest assured that [target_liege.GetTitledName] knows I'm competent. In fact, [target_liege.GetSheHe] said that a council position would be a waste of my precious time.;;;;;;;;;;;;;x
-EVTDESC_ZE_6007;[target_liege.GetTitledName] told me that [councillor_target.GetTitledName] has been slandering me! Of course my wise liege did not believe these lies, but the other councillors are worried, making it hard to give me a council position right now.;;;;;;;;;;;;;x
-EVTDESC_ZE_6012;Your vassal, [FromFrom.GetTitledName], is concerned about [FromFrom.GetHerHis] non-inheriting sons. [FromFrom.GetSheHeCap] asks you to consider them when looking for new vassals.;;;;;;;;;;;;;x
-EVTDESC_ZE_6012_B;Your vassal, [FromFrom.GetTitledName], is concerned about [FromFrom.GetHerHis] non-inheriting daughters. [FromFrom.GetSheHeCap] asks you to consider them when looking for new vassals.;;;;;;;;;;;;;x
-EVTDESC_ZE_6013;My humble request to gain land for [chosen_child.GetFirstName] was successful. I no longer have to worry about him.;;;;;;;;;;;;;x
-EVTDESC_ZE_6013_B;My humble request to gain land for [chosen_child.GetFirstName] was successful. I no longer have to worry about [chosen_child.GetHerHim].;;;;;;;;;;;;;x
-EVTDESC_ZE_6014;Unfortunately, my Liege could not find it in [From.GetHerHis] heart to give my son any land at this time.;;;;;;;;;;;;;x
-EVTDESC_ZE_6014_B;Unfortunately, my Liege could not find it in [From.GetHerHis] heart to give my [chosen_child.GetSonDaughter] any land at this time.;;;;;;;;;;;;;x
-EVTDESC_ZE_6015;My son [chosen_child.GetFirstName] will now have his own land! My Liege made sure to mention that I should remember this in the future when [From.GetSheHe] requires a favor in return.;;;;;;;;;;;;;x
-EVTDESC_ZE_6015_B;My [chosen_child.GetSonDaughter] [chosen_child.GetFirstName] will now have [chosen_child.GetHerHis] own land! My Liege made sure to mention that I should remember this in the future when [From.GetSheHe] requires a favor in return.;;;;;;;;;;;;;x
-EVTDESC_ZE_6021;What would be a suitable position for [moving_councillor.GetTitledName] on the Council?;;;;;;;;;;;;;x
-
-EVTDESCA_ZE_6003;The request of [aspiring_councillor.GetTitledFirstName] for a Council position has been postponed long enough. [aspiring_councillor.GetSheHeCap] thinks it is questionable that [councillor_target.GetTitledFirstName] is allowed on the Council when [aspiring_councillor.GetSheHe] isn't.;;;;;;;;;;;;;x
-
-EVTDESCB_ZE_6003;The request of [aspiring_councillor.GetTitledFirstName] for a Council seat has been postponed long enough. Considering there is an open position, now would be the time to invite [aspiring_councillor.GetHerHim].;;;;;;;;;;;;;x
-
-EVTOPTA_ZE_6000;Time to move on up.;;;;;;;;;;;;;x
-EVTOPTA_ZE_6001;I'll see what I can do.;;;;;;;;;;;;;x
-EVTOPTA_ZE_6002;I'll be on the council in no time!;;;;;;;;;;;;;x
-EVTOPTA_ZE_6003;Yes, it's time for a change.;;;;;;;;;;;;;x
-EVTOPTA_ZE_6004;Good news.;;;;;;;;;;;;;x
-EVTOPTA_ZE_6005;What a shame.;;;;;;;;;;;;;x
-EVTOPTA_ZE_6006;I'm great.;;;;;;;;;;;;;x
-EVTOPTA_ZE_6007;That snake!;;;;;;;;;;;;;x
-EVTOPTA_ZE_6012;I could use more good men.;;;;;;;;;;;;;x
-EVTOPTA_ZE_6012_B;I could use more good women.;;;;;;;;;;;;;x
-EVTOPTA_ZE_6013;Great!;;;;;;;;;;;;;x
-EVTOPTA_ZE_6014;Maybe next time.;;;;;;;;;;;;;x
-EVTOPTA_ZE_6015;Blessed be [From.GetHerHis] name.;;;;;;;;;;;;;x
-EVTOPTA_ZE_6021;[moving_councillor.GetSheHeCap] should be my [Root.GetChancellorName].;;;;;;;;;;;;;x
-
-EVTOPTB_ZE_6000;When [Root.GetRandomGodName] smiles on me, I will get my seat.;;;;;;;;;;;;;x
-EVTOPTB_ZE_6001;We don't need you.;;;;;;;;;;;;;x
-EVTOPTB_ZE_6002;[target_liege.GetSheHeCap] probably has a good reason for delaying.;;;;;;;;;;;;;x
-EVTOPTB_ZE_6003;Welcome [aspiring_councillor.GetHerHim] to the Council.;;;;;;;;;;;;;x
-EVTOPTB_ZE_6012;I can't give out land to anyone who asks.;;;;;;;;;;;;;x
-EVTOPTB_ZE_6021;[moving_councillor.GetSheHeCap] should be my [Root.GetMarshalName].;;;;;;;;;;;;;x
-
-EVTOPTC_ZE_6001;I would not bother you with such petty assignments.;;;;;;;;;;;;;x
-EVTOPTC_ZE_6003;The council is for important people.;;;;;;;;;;;;;x
-EVTOPTC_ZE_6012;[FromFrom.GetTitledFirstName] will remember this generosity.;;;;;;;;;;;;;x
-EVTOPTC_ZE_6021;[moving_councillor.GetSheHeCap] should be my [Root.GetTreasurerName].;;;;;;;;;;;;;x
-
-EVTOPTD_ZE_6003;Make up stories of slander by [councillor_target.GetTitledFirstName].;;;;;;;;;;;;;x
-EVTOPTD_ZE_6021;[moving_councillor.GetSheHeCap] should be my [Root.GetSpymasterName].;;;;;;;;;;;;;x
-
-EVTOPTE_ZE_6021;[moving_councillor.GetSheHeCap] should be my [Root.GetLordSpiritualName].;;;;;;;;;;;;;x
-
-EVTOPTF_ZE_6021;I've changed my mind.;;;;;;;;;;;;;x
-
-EVTOPTX_ZE_6021;No, I had something else in mind.;;;;;;;;;;;;;x
-EVTOPTY_ZE_6021;[From.GetSheHeCap] should be my Advisor.;;;;;;;;;;;;;x
-
-EVTTOOLTIPZE_6001;Asked for a council position.;;;;;;;;;;;;;x
-EVTTOOLTIPZE_6003;Remind [target_liege.GetTitledName] of [target_liege.GetHerHis] promise.;;;;;;;;;;;;;x
-EVTTOOLTIPZE_6004;Knows there is hope.;;;;;;;;;;;;;x
-EVTTOOLTIPZE_6005;Is let down.;;;;;;;;;;;;;x
-EVTTOOLTIPZE_6006;Is flattered.;;;;;;;;;;;;;x
-EVTTOOLTIPZE_6007;[aspiring_councillor.GetTitledFirstName] is angered.;;;;;;;;;;;;;x
+EVTDESC_ZE_6000;My hard work will not have gone unnoticed by my liege [target_liege.GetTitledName]. I am worthy of a position on the council and it's time I let [target_liege.GetHerHim] know.;;;;;;;;;;;Ìîé ñþçåðåí [target_liege.GetTitledName] äîëæ[target_liege.GetNaEn] çíàòü, êàêóþ áîëüøóþ ðàáîòó ÿ ïðîäåëàë[Root.GetEndA]. ß çàñëóæèâàþ ïîñòà â ñîâåòå è ïîðà îá ýòîì íàïîìíèòü.;;x
+EVTDESC_ZE_6001;[aspiring_councillor.GetTitledFirstName] expresses [aspiring_councillor.GetHerHis] wish to have a seat on the Council. [aspiring_councillor.GetHerHisCap] contribution to the realm is significant and [aspiring_councillor.GetHerHis] military strength is not to be ignored, so including [aspiring_councillor.GetHerHim] in the Council may eliminate a potential future threat.;;;;;;;;;;;[aspiring_councillor.GetTitledFirstName] ñåãîäíÿ âûðàçèë[aspiring_councillor.GetEndA] æåëàíèå çàíÿòü ìåñòî â ñîâåòå. [aspiring_councillor.GetHersHisCap] âêëàä â ðàçâèòèå ñòðàíû äîâîëüíî çíà÷èòåëåí, äà è âîåííàÿ ñèëà äîñòàòî÷íî âåëèêà, ÷òîáû å¸ èãíîðèðîâàòü, ïîýòîìó æàëóÿ [aspiring_councillor.GetHerHim] ïîñò ñîâåòíèêà, ìîæíî óñòðàíèòü ïîòåíöèàëüíóþ óãðîçó â áóäóùåì.;;x
+EVTDESC_ZE_6002;It has been long enough since [target_liege.GetTitledName] promised to make room for me on the council. I could remind [target_liege.GetHerHim] to keep [target_liege.GetHerHis] promise.;;;;;;;;;;;Ïðîøëî óæå íåìàëî âðåìåíè ñ òåõ ïîð, êàê [target_liege.GetTitledName] ïîîáåùàë[target_liege.GetEndA] ìíå ìåñòî â ñîâåòå. Âîçìîæíî, ïîðà íàïîìíèòü î öåííîñòè [target_liege.GetHersHis] ñëîâà.;;x
+EVTDESC_ZE_6004;My request to join the [target_liege.GetCouncilName] of [target_liege.GetTitledName] will be considered.;;;;;;;;;;;[target_liege.GetTitledName] îäîáðèë[target_liege.GetEndA] ìî¸ âñòóïëåíèå â [target_liege.GetCouncilName].;;x
+EVTDESC_ZE_6005;The answer regarding a position on the [target_liege.GetCouncilName] of [target_liege.GetTitledName] was a definite no.;;;;;;;;;;;[target_liege.GetTitledName] ÷¸òêî äàë[target_liege.GetEndA] ïîíÿòü, ÷òî ìåíÿ íå ïóñòÿò â [target_liege.GetCouncilName].;;x
+EVTDESC_ZE_6006;Although I didn't get a council position, I can rest assured that [target_liege.GetTitledName] knows I'm competent. In fact, [target_liege.GetSheHe] said that a council position would be a waste of my precious time.;;;;;;;;;;;Íåñìîòðÿ íà òî, ÷òî ÿ íå ïîëó÷èë[Root.GetEndA] äîëæíîñòü â ñîâåòå, ÿ ìîãó áûòü óâåðåí[Root.GetEndA], ÷òî [target_liege.GetTitledName] çíàåò î ìîèõ çàñëóãàõ. [target_liege.GetSheHeCap] ñêàçàë[target_liege.GetEndA], ÷òî ïîñò ñîâåòíèêà áûë áû ïóñòîé òðàòîé ìîåãî äðàãîöåííîãî âðåìåíè.;;x
+EVTDESC_ZE_6007;[target_liege.GetTitledName] told me that [councillor_target.GetTitledName] has been slandering me! Of course my wise liege did not believe these lies, but the other councillors are worried, making it hard to give me a council position right now.;;;;;;;;;;;[target_liege.GetTitledFirstName] ãîâîðèò, ÷òî [councillor_target.GetTitledFirstName] ïîäëî êëåâåùåò íà ìåíÿ! Êîíå÷íî, ñþçåðåí îáëàäàåò äîñòàòî÷íîé ìóäðîñòüþ, ÷òîáû íå âåðèòü â ýòó ëîæü, íî ñîâåò îáåñïîêîåí è íå æåëàåò äàâàòü ìíå ïîñò.;;x
+EVTDESC_ZE_6012;Your vassal, [FromFrom.GetTitledName], is concerned about [FromFrom.GetHerHis] non-inheriting sons. [FromFrom.GetSheHeCap] asks you to consider them when looking for new vassals.;;;;;;;;;;;Âàø âàññàë [FromFrom.GetTitledName] îáåñïîêîåí[FromFrom.GetEndA] ñóäüáîé ñâîèõ ñûíîâåé. [FromFrom.GetSheHeCap] ïðîñèò Âàñ îáðàòèòü âíèìàíèå íà íèõ, êîãäà ïîíàäîáÿòñÿ íîâûå âàññàëû.;;x
+EVTDESC_ZE_6012_B;Your vassal, [FromFrom.GetTitledName], is concerned about [FromFrom.GetHerHis] non-inheriting daughters. [FromFrom.GetSheHeCap] asks you to consider them when looking for new vassals.;;;;;;;;;;;Âàø âàññàë [FromFrom.GetTitledFirstName] îáåñïîêîåí[FromFrom.GetEndA] ñóäüáîé ñâîèõ äî÷åðåé. [FromFrom.GetSheHeCap] ïðîñèò Âàñ îáðàòèòü âíèìàíèå íà íèõ, êîãäà ïîíàäîáÿòñÿ íîâûå âàññàëû.;;x
+EVTDESC_ZE_6013;My humble request to gain land for [chosen_child.GetFirstName] was successful. I no longer have to worry about him.;;;;;;;;;;;Ìîÿ ñìèðåííàÿ ïðîñüáà î òîì, ÷òîáû [chosen_son.GetFirstName] ïîëó÷èë[chosen_son.GetEndA] çåìëþ, áûëà óñëûøàíà. Áîëåå íåò íóæäû áåñïîêîèòüñÿ î í[chosen_son.GetEyYom].;;x
+EVTDESC_ZE_6013_B;My humble request to gain land for [chosen_child.GetFirstName] was successful. I no longer have to worry about [chosen_child.GetHerHim].;;;;;;;;;;;Ìîÿ ñìèðåííàÿ ïðîñüáà î òîì, ÷òîáû [chosen_son.GetFirstName] ïîëó÷èë[chosen_son.GetEndA] çåìëþ, áûëà óñëûøàíà. Áîëåå íåò íóæäû áåñïîêîèòüñÿ î í[chosen_son.GetEyYom].;;x
+EVTDESC_ZE_6014;Unfortunately, my Liege could not find it in [From.GetHerHis] heart to give my son any land at this time.;;;;;;;;;;;Ê ñîæàëåíèþ, ìîé ñþçåðåí ïîêà íå ïîñ÷èòàë[From.GetEndA] íóæíûì äàðîâàòü ìîåìó ñûíó çåìëþ.;;x
+EVTDESC_ZE_6014_B;Unfortunately, my Liege could not find it in [From.GetHerHis] heart to give my [chosen_child.GetSonDaughter] any land at this time.;;;;;;;;;;;Ê ñîæàëåíèþ, ìîé ñþçåðåí ïîêà íå ïîñ÷èòàë[From.GetEndA] íóæíûì äàðîâàòü ìî[chosen_son.GetHerHim] [chosen_son.GetSonDaughterDAT] çåìëþ.;;x
+EVTDESC_ZE_6015;My son [chosen_child.GetFirstName] will now have his own land! My Liege made sure to mention that I should remember this in the future when [From.GetSheHe] requires a favor in return.;;;;;;;;;;;Ìîé ñûí [chosen_son.GetFirstName] òåïåðü âëàäååò ñâîåé çåìë¸é - ýòî ïðåêðàñíî! Îäíàêî, ìîé ñþçåðåí íàïîìèíàåò ìíå, ÷òî ÿ â äîëãó ïåðåä í[From.GetEyIm].;;x
+EVTDESC_ZE_6015_B;My [chosen_child.GetSonDaughter] [chosen_child.GetFirstName] will now have [chosen_child.GetHerHis] own land! My Liege made sure to mention that I should remember this in the future when [From.GetSheHe] requires a favor in return.;;;;;;;;;;;Ì[chosen_son.GetOyaOy] [chosen_son.GetFirstName] òåïåðü âëàäååò ñâîåé çåìë¸é - ýòî ïðåêðàñíî! Îäíàêî, ìîé ñþçåðåí íàïîìèíàåò ìíå, ÷òî ÿ â äîëãó ïåðåä í[From.GetEyuIm].;;x
+EVTDESC_ZE_6021;What would be a suitable position for [moving_councillor.GetTitledName] on the Council?;;;;;;;;;;;Êàêàÿ æå äîëæíîñòü â ñîâåòå áîëüøå âñåãî ïîäîéä¸ò äëÿ òàêîãî ÷åëîâåêà, êàê [moving_councillor.GetTitledName]?;;x
+EVTDESCA_ZE_6003;The request of [aspiring_councillor.GetTitledFirstName] for a Council position has been postponed long enough. [aspiring_councillor.GetSheHeCap] thinks it is questionable that [councillor_target.GetTitledFirstName] is allowed on the Council when [aspiring_councillor.GetSheHe] isn't.;;;;;;;;;;;Ïðîøëî óæå íåìàëî âðåìåíè ñ òåõ ïîð, êàê [aspiring_councillor.GetTitledFirstName] ïîïðîñèë[aspiring_councillor.GetEndA] ïîñò â ñîâåòå. [aspiring_councillor.GetSheHeCap] ñ÷èòàåò íåïðàâèëüíûì, ÷òî [councillor_target.GetTitledFirstName] çàíèìàåò ýòî ìåñòî, à [aspiring_councillor.GetSheHe] - íåò.;;x
+EVTDESCB_ZE_6003;The request of [aspiring_councillor.GetTitledFirstName] for a Council seat has been postponed long enough. Considering there is an open position, now would be the time to invite [aspiring_councillor.GetHerHim].;;;;;;;;;;;Ïðîøëî óæå íåìàëî âðåìåíè ñ òåõ ïîð, êàê [aspiring_councillor.GetTitledFirstName] ïîïðîñèë[aspiring_councillor.GetEndA] ïîñò â ñîâåòå. Ó÷èòûâàÿ, ÷òî ó íàñ åñòü ñâîáîäíîå ìåñòî, âîçìîæíî, ñàìîå âðåìÿ ïðèãëàñèòü [aspiring_councillor.GetHersHis].;;x
+EVTOPTA_ZE_6000;Time to move on up.;;;;;;;;;;;Ïîðà äâèãàòüñÿ âïåð¸ä.;;x
+EVTOPTA_ZE_6001;I'll see what I can do.;;;;;;;;;;;Ïîñìîòðèì, ÷òî ìîæíî ñäåëàòü.;;x
+EVTOPTA_ZE_6002;I'll be on the council in no time!;;;;;;;;;;;ß ïîïàäó â ñîâåò íåìåäëåííî!;;x
+EVTOPTA_ZE_6003;Yes, it's time for a change.;;;;;;;;;;;×òî æ, íàñòàëî âðåìÿ ïåðåìåí.;;x
+EVTOPTA_ZE_6004;Good news.;;;;;;;;;;;Ïðåêðàñíî!;;x
+EVTOPTA_ZE_6005;What a shame.;;;;;;;;;;;Êàêàÿ æàëîñòü.;;x
+EVTOPTA_ZE_6006;I'm great.;;;;;;;;;;;ß ñîçäàí[Root.GetEndA] äëÿ ÷åãî-òî áîëüøåãî.;;x
+EVTOPTA_ZE_6007;That snake!;;;;;;;;;;;Ïîäëàÿ òâàðü!;;x
+EVTOPTA_ZE_6012;I could use more good men.;;;;;;;;;;;À ïî÷åìó áû è íåò?;;x
+EVTOPTA_ZE_6012_B;I could use more good women.;;;;;;;;;;;À ïî÷åìó áû è íåò?;;x
+EVTOPTA_ZE_6013;Great!;;;;;;;;;;;Îòëè÷íî!;;x
+EVTOPTA_ZE_6014;Maybe next time.;;;;;;;;;;;×òî æ, ìîæåò â äðóãîé ðàç.;;x
+EVTOPTA_ZE_6015;Blessed be [From.GetHerHis] name.;;;;;;;;;;;ß íå çàáóäó î [From.GetHersHis] âåëèêîäóøèè.;;x
+EVTOPTA_ZE_6021;[moving_councillor.GetSheHeCap] should be my [Root.GetChancellorName].;;;;;;;;;;;[Root.GetChancellorName];;x
+EVTOPTB_ZE_6000;When [Root.GetRandomGodName] smiles on me, I will get my seat.;;;;;;;;;;;Óäà÷à óëûáíóëàñü ìíå, ÿ çàéìó ýòîò ïîñò.;;x
+EVTOPTB_ZE_6001;We don't need you.;;;;;;;;;;;Âû íå íóæíû íàì.;;x
+EVTOPTB_ZE_6002;[target_liege.GetSheHeCap] probably has a good reason for delaying.;;;;;;;;;;;Íàâåðíîå, ó í[target_liege.GetHersHis] åñòü âåñêàÿ ïðè÷èíà äëÿ çàäåðæêè.;;x
+EVTOPTB_ZE_6003;Welcome [aspiring_councillor.GetHerHim] to the Council.;;;;;;;;;;;Äîáðî ïîæàëîâàòü â ñîâåò.;;x
+EVTOPTB_ZE_6012;I can't give out land to anyone who asks.;;;;;;;;;;;ß íå ìîãó ðàçäàâàòü çåìëþ íàïðàâî è íàëåâî.;;x
+EVTOPTB_ZE_6021;[moving_councillor.GetSheHeCap] should be my [Root.GetMarshalName].;;;;;;;;;;;[Root.GetMarshalName];;x
+EVTOPTC_ZE_6001;I would not bother you with such petty assignments.;;;;;;;;;;;Íåò ñìûñëà áåñïîêîèòü Âàñ ìåëêèìè íàçíà÷åíèÿìè.;;x
+EVTOPTC_ZE_6003;The council is for important people.;;;;;;;;;;;Ñîâåò äëÿ ñåðü¸çíûõ ëþäåé.;;x
+EVTOPTC_ZE_6012;[FromFrom.GetTitledFirstName] will remember this generosity.;;;;;;;;;;;[FromFrom.GetTitledFirstName] çàïîìíèò ìîþ ùåäðîñòü.;;x
+EVTOPTC_ZE_6021;[moving_councillor.GetSheHeCap] should be my [Root.GetTreasurerName].;;;;;;;;;;;[Root.GetTreasurerName];;x
+EVTOPTD_ZE_6003;Make up stories of slander by [councillor_target.GetTitledFirstName].;;;;;;;;;;;[councillor_target.GetTitledFirstName] êëåâåùåò íà Âàñ.;;x
+EVTOPTD_ZE_6021;[moving_councillor.GetSheHeCap] should be my [Root.GetSpymasterName].;;;;;;;;;;;[Root.GetSpymasterName];;x
+EVTOPTE_ZE_6021;[moving_councillor.GetSheHeCap] should be my [Root.GetLordSpiritualName].;;;;;;;;;;;[Root.GetLordSpiritualName];;x
+EVTOPTF_ZE_6021;I've changed my mind.;;;;;;;;;;;ß ïåðåäóìàë[Root.GetEndA].;;x
+EVTOPTX_ZE_6021;No, I had something else in mind.;;;;;;;;;;;Ó ìåíÿ äðóãèå ïëàíû.;;x
+EVTOPTY_ZE_6021;[From.GetSheHeCap] should be my Advisor.;;;;;;;;;;;[From.GetSheHeCap] ñòàíåò ìîèì ñîâåòíèêîì.;;x
+EVTTOOLTIPZE_6001;Asked for a council position.;;;;;;;;;;;Ïîëó÷èò ïðîñüáó î ìåñòå â ñîâåòå.;;x
+EVTTOOLTIPZE_6003;Remind [target_liege.GetTitledName] of [target_liege.GetHerHis] promise.;;;;;;;;;;;Íàïîìíèòü ñþçåðåíó ([target_liege.GetTitledName]) îá îáåùàíèè.;;x
+EVTTOOLTIPZE_6004;Knows there is hope.;;;;;;;;;;;Íàäååòñÿ íà ëó÷øåå.;;x
+EVTTOOLTIPZE_6005;Is let down.;;;;;;;;;;;Ðàçî÷àðîâàí[GetEndA].;;x
+EVTTOOLTIPZE_6006;Is flattered.;;;;;;;;;;;Ïîëüùåí[GetEndA].;;x
+EVTTOOLTIPZE_6007;[aspiring_councillor.GetTitledFirstName] is angered.;;;;;;;;;;;[aspiring_councillor.GetTitledFirstName] â ãíåâå.;;x

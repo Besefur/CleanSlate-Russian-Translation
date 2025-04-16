@@ -1,194 +1,180 @@
-EVTDESC_RoI_1000;To properly celebrate the seasonal feast, you should invite all your vassals. You have your scribe write the letters and send them off, the messengers' satchels decorated with flowers.;;;;;;;;;;;;;x
-EVTDESC_RoI_1001;Dear vassal,\nI hereby invite you to attend my celebration of the feast of Diwali.\n\nYour Liege,\n[From.GetFullName];;;;;;;;;;;;;x
-EVTDESC_RoI_1002;Your vassal, [From.GetFullName], has refused your invitation to the feast.;;;;;;;;;;;;;x
-EVTDESC_RoI_1005;In the Indian autumn feasts, tradition dictates that you offer a gift to your spouse. You should plan for this and buy something before the feast begins.;;;;;;;;;;;;;x
-EVTDESC_RoI_1006;In accordance with tradition, you may offer a gift to your lover during the autumn feast.;;;;;;;;;;;;;x
-EVTDESC_RoI_1007;At the feast, it's time for the traditional ceremony of gifts...;;;;;;;;;;;;;x
-EVTDESC_RoI_1020;The castle is decorated with flowers and colorful tapestries, carpets and ribbons. All the guests have arrived, there is a bustle of people all eager and full of festive spirit. It's time for the feast to begin!;;;;;;;;;;;;;x
-EVTDESC_RoI_1050;A snake charmer is entertaining the guests at the feast. He plays a flute and sings in odd tones to various poisonous snakes that he has brought in a basket. The audience is held captivated by his skills as he seemingly controls the snakes with his voice and his music.;;;;;;;;;;;;;x
-EVTDESC_RoI_1051;There is a silence among the revellers as the snake charmer works his magic with the snakes. But suddenly you hear a high shriek, and the snake charmer looks confused - it seems a large cobra has broken free and is slithering across the floor towards the guests!;;;;;;;;;;;;;x
-EVTDESC_RoI_1052;The escaped cobra disappears under the table. There are a few moments of silence, and then a shrill shriek. The cobra has slithered up into the lap of one of the guests, scaring the person half to death! The snake, then quickly disappears out through an open window.;;;;;;;;;;;;;x
-EVTDESC_RoI_1053;A snake charmer is entertaining the guests at the feast. He plays a flute and sings in odd tones to various poisonous snakes that he has brought in a basket. Then, suddenly you feel something cold and slithery moving in your lap...;;;;;;;;;;;;;x
-EVTDESC_RoI_1054;The escaped cobra disappears under the table. There are a few moments of silence, and then a terrified scream. One of the guests is shaking in violent convulsions, with people nearby staring in shock as they realize the snake has bitten their neighbor. As the snake disappears out through an open window, the victim stops shaking and lies still, dead.;;;;;;;;;;;;;x
-EVTDESC_RoI_1055;The escaped cobra slithers across the floor. The guests at the table seem paralyzed, except for one person who quickly draws his sword and steps forward, chopping the animal in half with a swift cut.;;;;;;;;;;;;;x
-EVTDESC_RoI_1056;A snake charmer is entertaining the guests at the feast, until suddenly a cobra escapes! You quickly draw your sword and step forward, chopping the animal in half with a swift cut.;;;;;;;;;;;;;x
-EVTDESC_RoI_1060;That person over there has been looking at you in a funny way during the entire feast. Laughing, thinking evil thoughts about you. You have tried putting goat's cheese in your hair to ward it off, but still his scheming ways threaten you. He wants to take your gold. And your undergarments.;;;;;;;;;;;;;x
-EVTDESC_RoI_1061;The voices in your head have spoken. The pressure rises, you must see blood flow tonight or you will go insane. Anyone at the table of the feast will do - ah, that one!;;;;;;;;;;;;;x
-EVTDESC_RoI_1062;A fellow guest at the feast, mindless of his manners, has repeatedly turned his back on you and now he spilled sauce on your garments. You are certain it was on purpose - or at least you're not certain it wasn't.;;;;;;;;;;;;;x
-EVTDESC_RoI_1063;You are enjoying a fantastic show of dancers at the feast. Suddenly, a fellow reveller accidentally bumps into you, knocking your drink out of your hand.;;;;;;;;;;;;;x
-EVTDESC_RoI_1064;That man who has been staring at you several times during the feast is surely plotting to murder you. Better to fight him here in the open than him sticking a knife in your back later.;;;;;;;;;;;;;x
-EVTDESC_RoI_1065;What a great feast! You have been drinking heavily for several days, only pausing to sleep (but not much). You are wandering around the grounds, not exactly sure where you are. You excuse yourself to people as you bump into them.\n\nYou have the servants fetch you another drink. What day is it? It seems you are wearing someone else's clothes. How funny! Someone tells you to calm down, how annoying. Someone else wants their clothes back, now they're shouting and threatening.;;;;;;;;;;;;;x
-EVTDESC_RoI_1066;A fellow guest at the feast, clearly out of his mind, has challenged you to a duel. It seems to you there is no good reason, and duels can be very dangerous, but backing down might still make you look weak.;;;;;;;;;;;;;x
-EVTDESC_RoI_1067;Your intended opponent refuses to duel with you.;;;;;;;;;;;;;x
-EVTDESC_RoI_1068;Tension runs high at the feast. [From.GetTitledName] has challenged [FromFrom.GetTitledName]to a duel, but the latter chose to back down, doing some injury to his prestige.;;;;;;;;;;;;;x
-EVTDESC_RoI_1069;The guests at the feast gather around to see the duel between you and [FromFrom.GetFullName]. As the challenged party, you have the right to choose which weapon shall be used in the duel.;;;;;;;;;;;;;x
-EVTDESC_RoI_1070;[From.GetFullName] has accepted your challenge and there will be a duel. As the challenged party, your opponent may choose what weapons will be used and he has chosen swords. The other guests at the feast gather around to see you fight.;;;;;;;;;;;;;x
-EVTDESC_RoI_1071;[From.GetFullName] has accepted your challenge and there will be a duel. As the challenged party, your opponent may choose what weapons will be used and he has chosen daggers. The other guests at the feast gather around to see you fight.;;;;;;;;;;;;;x
-EVTDESC_RoI_1072;[From.GetFullName] has accepted your challenge and there will be a duel. As the challenged party, your opponent may choose what weapons will be used and he has chosen spears. The other guests at the feast gather around to see you fight.;;;;;;;;;;;;;x
-EVTDESC_RoI_1073;The duel is about to start. But first, there is one thing that remains for you to decide: will you fight honorably or fight dirty? The latter choice will obviously increase your chances, but there is a large crowd watching and they will see everything that happens.;;;;;;;;;;;;;x
-EVTDESC_RoI_1075;The duel commences. You begin to circle around each other, both of you observing the other closely and feinting to try and gauge the skill of the opponent. Then suddenly, steel flashes and there is a flurry of attacks and counterattacks. Gasps of terror and of delight are heard from the audience, mixing with the curses and grunts from the duelists and the sound of clashing steel...;;;;;;;;;;;;;x
-EVTDESC_RoI_1080;Tempers flaring at the feast! A duel broke out between [FromFromFrom.GetFullName] and [FromFrom.GetFullName], and the ringing of steel on steel held the spectators captive for several intense moments.\n\n[FromFrom.GetFullName] lost but he suffered only minor wounds.;;;;;;;;;;;;;x
-EVTDESC_RoI_1081;Tempers flaring at the feast! A duel broke out between [FromFromFrom.GetFullName] and [FromFrom.GetFullName], and the ringing of steel on steel held the spectators captive for several intense moments.\n\n[FromFrom.GetFullName] lost and lies wounded on the ground.;;;;;;;;;;;;;x
-EVTDESC_RoI_1082;Tempers flaring at the feast! A duel broke out between [FromFromFrom.GetFullName] and [FromFrom.GetFullName], and the ringing of steel on steel held the spectators captive for several intense moments.\n\n[FromFrom.GetFullName] lost and was horribly maimed.;;;;;;;;;;;;;x
-EVTDESC_RoI_1083;Tempers flaring at the feast! A duel broke out between [FromFromFrom.GetFullName] and [FromFrom.GetFullName], and the ringing of steel on steel held the spectators captive for several intense moments.\n\n[FromFrom.GetFullName] was killed!;;;;;;;;;;;;;x
-EVTDESC_RoI_1140;During the feast, you are entertained by dancers. One of the female dancers especially catches your attention. She moves with near divine grace and allure, and you feel strangely attracted to her. You come to think of the mysterious and beautiful Apsara of legend, shapechanging dancers descending from the heavens.;;;;;;;;;;;;;x
-EVTDESC_RoI_1141;You call the dancer over after the dance has finished, and she comes and sits down next to you. You talk of the body, pleasure and beauty. She sits very close to you, speaking with a soft and seductive voice. You begin to feel strangely warm and light-headed. It feels good.;;;;;;;;;;;;;x
-EVTDESC_RoI_1142;As you wake, your mind is filled with memories of a wonderful night of pleasure. You look around, but the dancer is gone without a trace. It was truly something extraordinary, and your mind wanders to old tales told by priests and storytellers - was she really a human woman, or could it be that you have met one of the beautiful Apsara of legend?;;;;;;;;;;;;;x
-EVTDESC_RoI_1143;At one point during the feast, a male singer performs. His voice is captivating and sensual, notes dancing across the room and tickling your skin with an almost physical touch. You are completely captivated by his charisma - he reminds you of the mysterious and beautiful Gandharvas of legend, singer spirits of the sky making music for the gods.;;;;;;;;;;;;;x
-EVTDESC_RoI_1144;You call the singer over after the performance has finished, and he comes and sits down next to you. You talk of music, the body, pleasure and beauty. He sits very close to you, speaking with a soft and seductive voice. You begin to feel strangely warm and light-headed. It feels good.;;;;;;;;;;;;;x
-EVTDESC_RoI_1145;As you wake, your mind is filled with memories of a wonderful night of pleasure. You look around, but the singer is gone without a trace. A small bird flies by outside the window, singing beautifully. Your mind wanders to old tales told by priests and storytellers - was he really a human man, or could it be that you have met one of the beautiful Gandharva of legend?;;;;;;;;;;;;;x
-EVTDESC_RoI_1151;There is a murmur among the guests of the feast, as a mage enters to entertain you. With great flourish, he explains that the coming show will astound even the most cyncial spectator. He proceeds to put a small boy into a basket on the floor, wherafter he swiftly chops the basket into little pieces with a sword. When he removes the shreds of the basket, there is no sign of the boy, no blood, nothing...;;;;;;;;;;;;;x
-EVTDESC_RoI_1152;There is a murmur among the guests of the feast, as a mage enters to entertain you. With great flourish, he places three cups before you on the table. He places a ball under one cup, and then tells you to observe closely and tell you where the ball is after he finishes moving the cups. He then shifts the cups around with lightning speed, all the while prattling on and telling you to pay attention. He then asks you to pick a cup.;;;;;;;;;;;;;x
-EVTDESC_RoI_1153;The magician looks at you with a knowing and superior smile as he reveals the ball. It seems you chose the wrong cup.;;;;;;;;;;;;;x
-EVTDESC_RoI_1154;There is a murmur among the guests of the feast, as a mage enters to entertain you. With great flourish, he explains that you are about to see something amazing. He takes out a rope and starts playing a flute. The rope starts dancing by itself and rises up towards the ceiling. The magician beckons, and a small boy appears and starts climbing the rope. The audience gasps. After a minute, the boy climbs down, the magician stops playing and the rope falls down again.;;;;;;;;;;;;;x
-EVTDESC_RoI_1160;You are sitting at the table during the feast, enjoying the food and drink. Suddenly, you hear a wild chattering and screaming. A group of small monkeys have entered through an open window, and they quickly spread in the hall, causing chaos! They pull people's hair and clothes, steal food, spill wine, drink wine and defecate on the tables. The feast hall is in uproar.;;;;;;;;;;;;;x
-EVTDESC_RoI_1171;The darkest night of the Diwali is here, the most important night of the feast. Candles and lamps are lit everywhere, the guests stroll across the painted and decorated floor, wearing colorful dress. Rich and sweet food is served, and the drink is also plentiful. Rama and Lakshi are honored, celebrating the victory of light over darkness, good over evil and hope over despair.;;;;;;;;;;;;;x
-EVTDESC_RoI_1173;The darkest night of the Diwali is here, the most important night of the feast. Candles and lamps are lit everywhere, the guests stroll across the painted and decorated floor, wearing colorful dress. Rich and sweet food is served, and the drink is also plentiful. You celebrate the victory of light over darkness, good over evil, knowledge over ignorance and hope over despair.;;;;;;;;;;;;;x
-EVTDESC_RoI_1175;The darkest night of the Diwali is here, the most important night of the feast. Candles and lamps are lit everywhere, the guests stroll across the painted and decorated floor, wearing colorful dress. Rich and sweet food is served. The attainment of Nirvana of Lord Mahavira, the last Tirthankar, is celebrated, with the victory of good over evil and knowledge over ignorance.;;;;;;;;;;;;;x
-EVTDESC_RoI_1177;The darkest night of the Kali Puja is here, the most important night of the feast. Candles are lit everywhere, placed inside human skulls. The guests stroll across the painted and decorated floor, carrying various symbols of time, death and change. Homage is offered to the beautiful and terrifying four-armed idols with swords, skulls and severed heads in their hands.;;;;;;;;;;;;;x
-EVTDESC_RoI_1178;Kali is our Mother, the Goddess of Time, Death and the Darkest Night. She must be honored properly, and you have just the right thing in mind...;;;;;;;;;;;;;x
-EVTDESC_RoI_1179;[target_prisoner.GetFullName] screams as [target_prisoner.GetSheHe] is dragged before the great idol of Kali. As temple servants hold [target_prisoner.GetHerHim] down, a priest pulls out a long kris and then stabs [target_prisoner.GetHerHim] right through the heart. Then [target_prisoner.GetHerHis] throat is cut and the blood is slowly collected in bowls made of a human skulls and passed around for the guests to drink.;;;;;;;;;;;;;x
-EVTDESC_RoI_1181;The servant screams as he is seized by the guards and then dragged before the great idol of Kali. As temple servants hold him down, a priest pulls out a long kris and then stabs him right through the heart. Then his throat is cut and the blood is slowly collected in bowls made of a human skulls and passed around for the guests to drink.;;;;;;;;;;;;;x
-EVTDESC_RoI_1183;A large elephant is led into the hall. It is tied down with strong ropes and chains, and then stabbed with swords, screaming and trumpeting terribly for several minutes as it dies. The guests watch in horrified fascination. The process is then repeated with nine more elephants - a long, bloody cacophonic concert of death. At the end of it, the floor is a lake of blood. Several priests step forth, sliding and slipping in the gore, holding long brushes. They dip the brushes in the blood and start painting the walls, eventually covering them entirely in this gruesome, wet and dark paint. The smell is strong and sickening.;;;;;;;;;;;;;x
-EVTDESC_RoI_1188;Several black goats are brought forth by the priests. The goats are laid down below a large statue of Kali, and their throats are cut open. The blood is collected in bowls made of human skulls and presented to the crowd. A chanting arises, then a cheer, as the holy sacrifice to the Goddess of Death, Time and of the Blackest Night has been made.;;;;;;;;;;;;;x
-EVTDESC_RoI_1940;Dear vassal,\nI hereby invite you to attend my celebration of the feast of Kali Puja.\n\nYour Liege,\n[From.GetFullName];;;;;;;;;;;;;x
-EVTDESC_RoI_1996;The feast is over, but it was a fantastic feast. As the guests make their way home you sit down and smile to yourself, pleased at how things turned out.;;;;;;;;;;;;;x
-EVTDESC_RoI_1997;The feast is over, but it didn't quite turn out as you had hoped. As the guests make their way home, you sit down and ponder what went wrong.;;;;;;;;;;;;;x
-EVTDESC_RoI_1998;The feast is over, but it was a fantastic feast. As you make your way home, you think that you'd probably come back next year again if invited.;;;;;;;;;;;;;x
-EVTDESC_RoI_1999;The feast is over, but certain unfortunate events prevented you from enjoying it fully. As you make your way home, you ponder the ups and downs of life.;;;;;;;;;;;;;x
-
-EVTOPTA_RoI_1000;It will be a grand feast!;;;;;;;;;;;;;x
-EVTOPTA_RoI_1001;Of course I shall attend!;;;;;;;;;;;;;x
-EVTOPTA_RoI_1002;I shall remember this...;;;;;;;;;;;;;x
-EVTOPTA_RoI_1005;A jeweled necklace would be perfect!;;;;;;;;;;;;;x
-EVTOPTA_RoI_1006;I'll buy her expensive jewelry.;;;;;;;;;;;;;x
-EVTOPTA_RoI_1007;My wife is overjoyed with the magnificent gift!;;;;;;;;;;;;;x
-EVTOPTA_RoI_1020;Welcome, all!;;;;;;;;;;;;;x
-EVTOPTA_RoI_1050;Fascinating!;;;;;;;;;;;;;x
-EVTOPTA_RoI_1051;Oh no!;;;;;;;;;;;;;x
-EVTOPTA_RoI_1052;We're not hiring this snake charmer again.;;;;;;;;;;;;;x
-EVTOPTA_RoI_1053;Aaargh! A cobra!!;;;;;;;;;;;;;x
-EVTOPTA_RoI_1054;Woe!;;;;;;;;;;;;;x
-EVTOPTA_RoI_1055;Well done!;;;;;;;;;;;;;x
-EVTOPTA_RoI_1056;Don't try this at home, folks.;;;;;;;;;;;;;x
-EVTOPTA_RoI_1060;A duel! I will tear his brain from his skull!;;;;;;;;;;;;;x
-EVTOPTA_RoI_1061;You, scum! I challenge you to a duel!;;;;;;;;;;;;;x
-EVTOPTA_RoI_1062;Enough! I challenge you to a duel, Sir!;;;;;;;;;;;;;x
-EVTOPTA_RoI_1063;Grab him and challenge him to a duel!;;;;;;;;;;;;;x
-EVTOPTA_RoI_1064;You! I challenge you to a duel!;;;;;;;;;;;;;x
-EVTOPTA_RoI_1065;What the... I'll kill you, party spoilers!;;;;;;;;;;;;;x
-EVTOPTA_RoI_1066;I accept! You will regret this.;;;;;;;;;;;;;x
-EVTOPTA_RoI_1067;I will eat your brain later, coward!;;;;;;;;;;;;;x
-EVTOPTA_RoI_1068;It's good that bloodshed was avoided.;;;;;;;;;;;;;x
-EVTOPTA_RoI_1069;Swords;;;;;;;;;;;;;x
-EVTOPTA_RoI_1070;Fetch me my sword, then.;;;;;;;;;;;;;x
-EVTOPTA_RoI_1071;Fetch me my dagger, then.;;;;;;;;;;;;;x
-EVTOPTA_RoI_1072;Fetch me my spear, then.;;;;;;;;;;;;;x
-EVTOPTA_RoI_1073;My honor is my strength.;;;;;;;;;;;;;x
-EVTOPTA_RoI_1075;Concentration...;;;;;;;;;;;;;x
-EVTOPTA_RoI_1080;All is well.;;;;;;;;;;;;;x
-EVTOPTA_RoI_1081;He fought well.;;;;;;;;;;;;;x
-EVTOPTA_RoI_1140;Call her over after the dance.;;;;;;;;;;;;;x
-EVTOPTA_RoI_1141;Let's go somewhere private...;;;;;;;;;;;;;x
-EVTOPTA_RoI_1142;I have been touched by the divine.;;;;;;;;;;;;;x
-EVTOPTA_RoI_1143;Call him over after the performance.;;;;;;;;;;;;;x
-EVTOPTA_RoI_1151;Amazing!;;;;;;;;;;;;;x
-EVTOPTA_RoI_1152;Left.;;;;;;;;;;;;;x
-EVTOPTA_RoI_1153;Oh snap.;;;;;;;;;;;;;x
-EVTOPTA_RoI_1160;Oh my!;;;;;;;;;;;;;x
-EVTOPTA_RoI_1171;Let us celebrate!;;;;;;;;;;;;;x
-EVTOPTA_RoI_1173;Let us celebrate!;;;;;;;;;;;;;x
-EVTOPTA_RoI_1175;Let us celebrate!;;;;;;;;;;;;;x
-EVTOPTA_RoI_1177;Let the ceremonies begin.;;;;;;;;;;;;;x
-EVTOPTA_RoI_1178;We will sacrifice a prisoner...;;;;;;;;;;;;;x
-EVTOPTA_RoI_1179;This is truly a joyous occasion!;;;;;;;;;;;;;x
-EVTOPTA_RoI_1183;Praise Kali, our Mother!;;;;;;;;;;;;;x
-EVTOPTA_RoI_1188;Praise Kali, our Mother!;;;;;;;;;;;;;x
-EVTOPTA_RoI_1940;Of course I shall attend!;;;;;;;;;;;;;x
-EVTOPTA_RoI_1951;Let's hope no one gets killed.;;;;;;;;;;;;;x
-EVTOPTA_RoI_1996;I should do this again next year!;;;;;;;;;;;;;x
-EVTOPTA_RoI_1997;Maybe next time it will be better.;;;;;;;;;;;;;x
-EVTOPTA_RoI_1998;I had a great time!;;;;;;;;;;;;;x
-EVTOPTA_RoI_1999;Oh well.;;;;;;;;;;;;;x
-
-EVTOPTB_RoI_1001;I don't have the time.;;;;;;;;;;;;;x
-EVTOPTB_RoI_1005;Perhaps a small perfume box or something.;;;;;;;;;;;;;x
-EVTOPTB_RoI_1006;A small box of perfume will do.;;;;;;;;;;;;;x
-EVTOPTB_RoI_1007;My wife is pleased with her gift.;;;;;;;;;;;;;x
-EVTOPTB_RoI_1060;No time now, I must frolic. I must frolic.;;;;;;;;;;;;;x
-EVTOPTB_RoI_1061;Now is not the time... I must breathe...;;;;;;;;;;;;;x
-EVTOPTB_RoI_1062;No, this is not the right time.;;;;;;;;;;;;;x
-EVTOPTB_RoI_1063;Take your rage out on the furniture.;;;;;;;;;;;;;x
-EVTOPTB_RoI_1064;On second thought, I may be imagining things.;;;;;;;;;;;;;x
-EVTOPTB_RoI_1065;Come now, let's calm down and have a drink...;;;;;;;;;;;;;x
-EVTOPTB_RoI_1066;No, this is crazy. Go away.;;;;;;;;;;;;;x
-EVTOPTB_RoI_1067;But the voices...;;;;;;;;;;;;;x
-EVTOPTB_RoI_1068;Shame, it would have livened up the feast.;;;;;;;;;;;;;x
-EVTOPTB_RoI_1069;Daggers;;;;;;;;;;;;;x
-EVTOPTB_RoI_1073;Only idiots fight fair.;;;;;;;;;;;;;x
-EVTOPTB_RoI_1080;He gave in too easily!;;;;;;;;;;;;;x
-EVTOPTB_RoI_1140;Leave it be.;;;;;;;;;;;;;x
-EVTOPTB_RoI_1141;Enchanted, but you should leave, my dear.;;;;;;;;;;;;;x
-EVTOPTB_RoI_1142;I shall never know.;;;;;;;;;;;;;x
-EVTOPTB_RoI_1143;Leave it be.;;;;;;;;;;;;;x
-EVTOPTB_RoI_1151;Guards - arrest that man!;;;;;;;;;;;;;x
-EVTOPTB_RoI_1152;Middle.;;;;;;;;;;;;;x
-EVTOPTB_RoI_1153;I think you are cheating!;;;;;;;;;;;;;x
-EVTOPTB_RoI_1154;Hah! I could see the hidden wire.;;;;;;;;;;;;;x
-EVTOPTB_RoI_1160;Hand me my bow!;;;;;;;;;;;;;x
-EVTOPTB_RoI_1177;Let's do something extra this year...;;;;;;;;;;;;;x
-EVTOPTB_RoI_1178;We will sacrifice that servant over there.;;;;;;;;;;;;;x
-EVTOPTB_RoI_1940;I don't have the time.;;;;;;;;;;;;;x
-EVTOPTB_RoI_1951;I hope we'll see some blood!;;;;;;;;;;;;;x
-
-EVTOPTC_RoI_1005;She can do without gifts.;;;;;;;;;;;;;x
-EVTOPTC_RoI_1006;She can do without gifts.;;;;;;;;;;;;;x
-EVTOPTC_RoI_1007;My wife is upset because I didn't get her anything.;;;;;;;;;;;;;x
-EVTOPTC_RoI_1067;Ah, I see, you are a coward.;;;;;;;;;;;;;x
-EVTOPTC_RoI_1069;Spears;;;;;;;;;;;;;x
-EVTOPTC_RoI_1152;Right.;;;;;;;;;;;;;x
-EVTOPTC_RoI_1153;I saw you cheating, you trickster!;;;;;;;;;;;;;x
-EVTOPTC_RoI_1160;Let's catch one and see what they look like on the inside...;;;;;;;;;;;;;x
-EVTOPTC_RoI_1178;We will sacrifice ten elephants and paint the walls with blood.;;;;;;;;;;;;;x
-
-EVTOPTD_RoI_1005;I will spend money on my lover instead...;;;;;;;;;;;;;x
-EVTOPTD_RoI_1006;I will buy him a magnificent horse!;;;;;;;;;;;;;x
-EVTOPTD_RoI_1007;My lover is overjoyed with her gift! My wife is not happy, though...;;;;;;;;;;;;;x
-EVTOPTD_RoI_1007_M;My lover is overjoyed with his gift! My wife is not happy, though...;;;;;;;;;;;;;x
-EVTOPTD_RoI_1067;Curses!;;;;;;;;;;;;;x
-EVTOPTD_RoI_1160;The monkeys are my friends!;;;;;;;;;;;;;x
-
-EVTOPTE_RoI_1005;A magnificent horse would please him!;;;;;;;;;;;;;x
-EVTOPTE_RoI_1006;This nice cape should do fine.;;;;;;;;;;;;;x
-EVTOPTE_RoI_1007;My lover is overjoyed with her gift!;;;;;;;;;;;;;x
-EVTOPTE_RoI_1067;You do this to spite me!;;;;;;;;;;;;;x
-EVTOPTE_RoI_1160;Such beautiful animals! I shall marry one of them!;;;;;;;;;;;;;x
-
-EVTOPTF_RoI_1005;A nice cape or something will be enough.;;;;;;;;;;;;;x
-EVTOPTF_RoI_1006;He can do without gifts.;;;;;;;;;;;;;x
-EVTOPTF_RoI_1007;My lover is pleased with her gift. My wife is not happy, though...;;;;;;;;;;;;;x
-EVTOPTF_RoI_1007_M;My lover is pleased with his gift. My wife is not happy, though...;;;;;;;;;;;;;x
-EVTOPTF_RoI_1160;Haha! Look at the little rascals! So carefree!;;;;;;;;;;;;;x
-
-EVTOPTG_RoI_1005;He can do without gifts.;;;;;;;;;;;;;x
-EVTOPTG_RoI_1007;My lover is pleased with her gift.;;;;;;;;;;;;;x
-EVTOPTG_RoI_1160;Aaah! Get those little monsters out of here!;;;;;;;;;;;;;x
-
-EVTOPTH_RoI_1005;I will spend money on my lover instead...;;;;;;;;;;;;;x
-EVTOPTH_RoI_1007;My lover is disappointed because I didn't get her anything.;;;;;;;;;;;;;x
-EVTOPTI_RoI_1007;My husband is overjoyed with the magnificent gift!;;;;;;;;;;;;;x
-EVTOPTJ_RoI_1007;My husband is pleased with his gift.;;;;;;;;;;;;;x
-EVTOPTK_RoI_1007;My husband is upset because I didn't get him anything.;;;;;;;;;;;;;x
-EVTOPTL_RoI_1007;My lover is overjoyed with his gift! But my husband isn't happy...;;;;;;;;;;;;;x
-EVTOPTL_RoI_1007_F;My lover is overjoyed with her gift! But my husband isn't happy...;;;;;;;;;;;;;x
-EVTOPTM_RoI_1007;My lover is overjoyed with his gift!;;;;;;;;;;;;;x
-EVTOPTN_RoI_1007;My lover is pleased with his gift. But my husband isn't happy...;;;;;;;;;;;;;x
-EVTOPTN_RoI_1007_F;My lover is pleased with her gift. But my husband isn't happy...;;;;;;;;;;;;;x
-EVTOPTO_RoI_1007;My lover is pleased with his gift.;;;;;;;;;;;;;x
-EVTOPTP_RoI_1007;My lover is disappointed because I didn't get him anything.;;;;;;;;;;;;;x
-
-EVTTITLE_RoI_1051;The Mage;;;;;;;;;;;;;x
-EVTTITLE_RoI_1060;The Duel;;;;;;;;;;;;;x
-EVTTITLE_RoI_1183;A celebration in blood;;;;;;;;;;;;;x
-
-EVTTOOLTIP1_RoI_1000;Invitations are sent.;;;;;;;;;;;;;x
+EVTDESC_RoI_1000;To properly celebrate the seasonal feast, you should invite all your vassals. You have your scribe write the letters and send them off, the messengers' satchels decorated with flowers.;;;;;;;;;;;×òîáû ïðîâåñòè ñåçîííîå ïðàçäíîâàíèå ïîäîáàþùå, íåîáõîäèìî ïðèãëàñèòü âñåõ Âàøèõ âàññàëîâ. Âàø ïèñåö ñîñòàâèë è ðàçîñëàë ïðèãëàøåíèÿ. Ñóìêè ïîñëàíöåâ óêðàøåíû öâåòî÷íûì îðíàìåíòîì.;;x
+EVTDESC_RoI_1001;Dear vassal,\nI hereby invite you to attend my celebration of the feast of Diwali.\n\nYour Liege,\n[From.GetFullName];;;;;;;;;;;Äðàæàéøèé âàññàë, \nÏðèãëàøàþ Âàñ ïðèñîåäèíèòüñÿ ê ïðàçäíîâàíèþ Äèâàëè.\nÂàø ñþçåðåí, \n [From.GetFullName].;;x
+EVTDESC_RoI_1002;Your vassal, [From.GetFullName], has refused your invitation to the feast.;;;;;;;;;;;Âàø âàññàë [From.GetFullName] íå ïðèíÿë Âàøå ïðèãëàøåíèå;;x
+EVTDESC_RoI_1005;In the Indian autumn feasts, tradition dictates that you offer a gift to your spouse. You should plan for this and buy something before the feast begins.;;;;;;;;;;;Âî âðåìÿ îñåííèõ èíäèéñêèõ ïðàçäíèêîâ, ñóïðóãè äàðÿò äðóã äðóãó ïîäàðêè. Âàì íåîáõîäèìî ïîäîáðàòü ÷òî-òî ïîäõîäÿùåå äî íà÷àëà ìåðîïðèÿòèÿ.;;x
+EVTDESC_RoI_1006;In accordance with tradition, you may offer a gift to your lover during the autumn feast.;;;;;;;;;;;Â ñîîòâåòñòâèè ñ òðàäèöèåé, Âû ìîæåòå ïðåïîäíåñòè ïîäàðîê ñâîåìó âîçëþáëåííîìó âî âðåìÿ îñåííåãî ïðàçäíèêà.;;x
+EVTDESC_RoI_1007;At the feast, it's time for the traditional ceremony of gifts...;;;;;;;;;;;Íàñòàëî âðåìÿ òðàäèöèîííîé öåðåìîíèè âðó÷åíèÿ ïîäàðêîâ...;;x
+EVTDESC_RoI_1020;The castle is decorated with flowers and colorful tapestries, carpets and ribbons. All the guests have arrived, there is a bustle of people all eager and full of festive spirit. It's time for the feast to begin!;;;;;;;;;;;Ñåãîäíÿ [Root.GetCapitalBuilding] óêðàøåí öâåòàìè è ãîáåëåíàìè, êîâðàìè è ëåíòàìè. Âñå ãîñòè ïðèáûëè, íåòåðïåëèâûå è ïîëíûå ïðàçäíè÷íîãî íàñòðîåíèÿ. Ïèð íà÷èíàåòñÿ!;;x
+EVTDESC_RoI_1050;A snake charmer is entertaining the guests at the feast. He plays a flute and sings in odd tones to various poisonous snakes that he has brought in a basket. The audience is held captivated by his skills as he seemingly controls the snakes with his voice and his music.;;;;;;;;;;;Çàêëèíàòåëü çìåé ðàçâëåêàåò ãîñòåé. Îí èãðàåò íà ôëåéòå ñòðàííûå ìåëîäèè íåñêîëüêèì ÿäîâèòûì çìåÿì â êîðçèíêå. Òîëïà çàâîðîæåíà åãî ñïîñîáíîñòÿìè êîíòðîëèðîâàòü çìåé ãîëîñîì è ìóçûêîé.;;x
+EVTDESC_RoI_1051;There is a silence among the revellers as the snake charmer works his magic with the snakes. But suddenly you hear a high shriek, and the snake charmer looks confused - it seems a large cobra has broken free and is slithering across the floor towards the guests!;;;;;;;;;;;Ïîâñþäó òèøèíà, çàêëèíàòåëü çìåé ïðîäîëæàåò ñâîþ ìàãèþ. Íî íåîæèäàííî Âû ñëûøèòå ïðîíçèòåëüíûé âèçã, à çàêëèíàòåëü çìåé âûãëÿäèò îçàäà÷åííûì - ïîõîæå îãðîìíàÿ êîáðà âûáðàëàñü èç êîðçèíû è ïîëç¸ò ïî ïîëó â ñòîðîíó ãîñòåé!;;x
+EVTDESC_RoI_1052;The escaped cobra disappears under the table. There are a few moments of silence, and then a shrill shriek. The cobra has slithered up into the lap of one of the guests, scaring the person half to death! The snake, then quickly disappears out through an open window.;;;;;;;;;;;Ñáåæàâøàÿ êîáðà èñ÷åçëà ïîä ñòîëîì. Íåñêîëüêî ìãíîâåíèé òèøèíû è ñíîâà âèçã. Êîáðà îêàçàëàñü âïëîòíóþ ê îäíîìó ãîñòþ, èñïóãàâ åãî äî ïîëóñìåðòè! Çìåÿ òóò æå èñ÷åçëà â îòêðûòîì îêíå.;;x
+EVTDESC_RoI_1053;A snake charmer is entertaining the guests at the feast. He plays a flute and sings in odd tones to various poisonous snakes that he has brought in a basket. Then, suddenly you feel something cold and slithery moving in your lap...;;;;;;;;;;;Çàêëèíàòåëü çìåé ðàçâëåêàåò ãîñòåé. Îí èãðàåò íà ôëåéòå ñòðàííûå ìåëîäèè íåñêîëüêèì ÿäîâèòûì çìåÿì â êîðçèíêå. Íî íåîæèäàííî Âû ÷óâñòâóåòå, êàê íå÷òî õîëîäíîå è ïîëçó÷åå äâèæåòñÿ ê Âàì...;;x
+EVTDESC_RoI_1054;The escaped cobra disappears under the table. There are a few moments of silence, and then a terrified scream. One of the guests is shaking in violent convulsions, with people nearby staring in shock as they realize the snake has bitten their neighbor. As the snake disappears out through an open window, the victim stops shaking and lies still, dead.;;;;;;;;;;;Ñáåæàâøàÿ êîáðà èñ÷åçàåò ïîä ñòîëîì. Íåñêîëüêî ìãíîâåíèé òèøèíû íàðóøàåò èñïóãàííûé êðèê. Îäèí èç ãîñòåé òðÿñåòñÿ â äèêèõ êîíâóëüñèÿõ, ïîêà äðóãèå ãîñòè íå ìîãóò îòîéòè îò øîêà, ïîíèìàÿ, ÷òî çìåÿ óêóñèëà îäíîãî èç ãîñòåé. Êîãäà çìåÿ èñ÷åçëà çà îêíîì, æåðòâà óæå ïåðåñòàëà òðÿñòèñü è ëåæàëà ì¸ðòâîé.;;x
+EVTDESC_RoI_1055;The escaped cobra slithers across the floor. The guests at the table seem paralyzed, except for one person who quickly draws his sword and steps forward, chopping the animal in half with a swift cut.;;;;;;;;;;;Ñáåæàâøàÿ êîáðà ïîëç¸ò ïî ïîëó. Âñå ãîñòè ïàðàëèçîâàíû óæàñîì, êðîìå îäíîãî ÷åëîâåêà, êîòîðûé áûñòðûì âçìàõîì ìå÷à ðàçðóáàåò æèâîòíîå ïîïîëàì.;;x
+EVTDESC_RoI_1056;A snake charmer is entertaining the guests at the feast, until suddenly a cobra escapes! You quickly draw your sword and step forward, chopping the animal in half with a swift cut.;;;;;;;;;;;Çàêëèíàòåëü çìåé ðàçâëåêàåò ãîñòåé, ïîêà êîáðà íå ñáåãàåò èç êîðçèíû. Âû áûñòðî õâàòàåòå ñâîé ìå÷ è ðàçðóáàåòå æèâîòíîå ïîïîëàì.;;x
+EVTDESC_RoI_1060;That person over there has been looking at you in a funny way during the entire feast. Laughing, thinking evil thoughts about you. You have tried putting goat's cheese in your hair to ward it off, but still his scheming ways threaten you. He wants to take your gold. And your undergarments.;;;;;;;;;;;Ýòîò ÷åëîâåê ñìîòðåë íà Âàñ êàê-òî íåïðèñòîéíî âåñü ïðàçäíèê. Ñìåÿñü, ñ çàäíèìè ìûñëÿìè. Âû ïîïûòàëèñü êîçüèì ñûðîì â âîëîñàõ îòáèòüñÿ îò ýòîãî, îäíàêî åãî ïëàíû èñïóãàëè Âàñ. Îí õî÷åò Âàøå çîëîòî è... íèæíåå áåëü¸.;;x
+EVTDESC_RoI_1061;The voices in your head have spoken. The pressure rises, you must see blood flow tonight or you will go insane. Anyone at the table of the feast will do - ah, that one!;;;;;;;;;;;Ãîëîñà â Âàøåé ãîëîâå âûñêàçàëè ñâî¸ ìíåíèå. Äàâëåíèå íàðàñòàåò, Âàì íóæíî óâèäåòü ñòåêàþùóþ êðîâü, èíà÷å Âû ñîéäåòå ñ óìà. Ëþáîé çà ñòîëîì íà ïðàçäíèêå ïîäîéäåò - à, ýòîò ãîäèòñÿ!;;x
+EVTDESC_RoI_1062;A fellow guest at the feast, mindless of his manners, has repeatedly turned his back on you and now he spilled sauce on your garments. You are certain it was on purpose - or at least you're not certain it wasn't.;;;;;;;;;;;Îäèí èç ãîñòåé íà ïðàçäíèêå áåñöåðåìîííî îòâîðà÷èâàëñÿ îò Âàñ, à òåïåðü ïðîëèë ñîóñ íà Âàøó îäåæäó. Âû óâåðåíû, ÷òî ýòî áûëî íàðî÷íî - èëè, ïî êðàéíåé ìåðå, íå ñëó÷àéíî.;;x
+EVTDESC_RoI_1063;You are enjoying a fantastic show of dancers at the feast. Suddenly, a fellow reveller accidentally bumps into you, knocking your drink out of your hand.;;;;;;;;;;;Âû íàñëàæäàåòåñü ôàíòàñòè÷åñêèì âûñòóïëåíèåì òàíöîðîâ íà ïðàçäíèêå. Íåîæèäàííî, çíàêîìûé ãóëÿêà ñëó÷àéíî íàòûêàåòñÿ íà Âàñ, âûáèâàÿ íàïèòîê èç Âàøåé ðóêè.;;x
+EVTDESC_RoI_1064;That man who has been staring at you several times during the feast is surely plotting to murder you. Better to fight him here in the open than him sticking a knife in your back later.;;;;;;;;;;;×åëîâåê, êîòîðûé áðîñàë íà Âàñ ïðîíçèòåëüíûå âçãëÿäû âî âðåìÿ ïðàçäíèêà, áåçóñëîâíî, ïëåò¸ò çàãîâîð ñ öåëüþ óáèòü Âàñ. Ëó÷øå ñðàçèòüñÿ ñ íèì ñåé÷àñ â îòêðûòóþ, ÷åì ïîëó÷èòü îò íåãî íîæ â ñïèíó ïîçäíåå.;;x
+EVTDESC_RoI_1065;What a great feast! You have been drinking heavily for several days, only pausing to sleep (but not much). You are wandering around the grounds, not exactly sure where you are. You excuse yourself to people as you bump into them.\n\nYou have the servants fetch you another drink. What day is it? It seems you are wearing someone else's clothes. How funny! Someone tells you to calm down, how annoying. Someone else wants their clothes back, now they're shouting and threatening.;;;;;;;;;;;Êàêîé ïðåêðàñíûé ïðàçäíèê! Âû ìíîãî ïèëè â ïîñëåäíèå äíè, îòâëåêàÿñü òîëüêî íà ñîí. Øàòàÿñü ïî îêðåñòíîñòÿì, Âû ïûòàåòåñü ïîíÿòü ãäå íàõîäèòåñü. Ñòàëêèâàÿñü ñ ëþäüìè, Âû èçâèíÿåòåñü çà ñâîþ íåóêëþæåñòü.\nÑëóãè ïîäíîñÿò Âàì êóáîê íàïîëíåííûé âèíîì. Êàêîé ñåãîäíÿ äåíü? Ïîõîæå, ÷òî íà Âàñ ÷óæîé íàðÿä. Çàáàâíî! Êòî-òî ïûòàåòñÿ óãîìîíèòü Âàñ, âîò çàíóäà! Äðóãîé ïûòàåòñÿ ïîëó÷èòü ñâîþ îäåæäó íàçàä, òåïåðü îíè êðè÷àò è óãðîæàþò Âàì!;;x
+EVTDESC_RoI_1066;A fellow guest at the feast, clearly out of his mind, has challenged you to a duel. It seems to you there is no good reason, and duels can be very dangerous, but backing down might still make you look weak.;;;;;;;;;;;Çíàêîìûé ãîñòü íà ïðàçäíèêå ÿâíî âûæèë èç óìà è âûçâàë Âàñ íà ïîåäèíîê. Ïîõîæå, ÷òî äëÿ ýòîãî íåò âåñêèõ ïðè÷èí, à ïîåäèíêè âåñüìà îïàñíû, îäíàêî, åñëè îòêàæåòåñü, áóäåòå òðóñîì.;;x
+EVTDESC_RoI_1067;Your intended opponent refuses to duel with you.;;;;;;;;;;;Âàø ïðåäïîëàãàåìûé îïïîíåíò îòêàçûâàòüñÿ îò ïîåäèíêà!;;x
+EVTDESC_RoI_1068;Tension runs high at the feast. [From.GetTitledName] has challenged [FromFrom.GetTitledName]to a duel, but the latter chose to back down, doing some injury to his prestige.;;;;;;;;;;;[From.GetTitledFirstName] âûçâàë[From.GetEndA] íà ïîåäèíîê [FromFrom.GetAgedPersonACC], èçâåñòí[FromFrom.GetUyuOgo] êàê [FromFrom.GetTitledName], íî ïîçäíåå îòêàçà[From.GetLasLsya], ÷åì íàíåñ[From.GetNoneE] óðîí ñâîåé ÷åñòè.;;x
+EVTDESC_RoI_1069;The guests at the feast gather around to see the duel between you and [FromFrom.GetFullName]. As the challenged party, you have the right to choose which weapon shall be used in the duel.;;;;;;;;;;;Ãîñòè íà ïðàçäíèêå ñîáèðàþòñÿ âîêðóã, ÷òîáû ïîíàáëþäàòü, êàê Âû è [FromFrom.GetFullName] âñòóïèëè â ïîåäèíîê. Êàê áðîñèâøàÿ âûçîâ ñòîðîíà, Âû èìååòå ïðàâî âûáðàòü îðóæèå.;;x
+EVTDESC_RoI_1070;[From.GetFullName] has accepted your challenge and there will be a duel. As the challenged party, your opponent may choose what weapons will be used and he has chosen swords. The other guests at the feast gather around to see you fight.;;;;;;;;;;;[From.GetFullName] ïðèíÿë[From.GetEndA] Âàø âûçîâ íà äóýëü. Êàê áðîñèâøàÿ âûçîâ ñòîðîíà, Âàø îïïîíåíò ìîæåò âûáðàòü îðóæèå äëÿ ïîåäèíêà, è âûáèðàåò ìå÷è. Îñòàëüíûå ãîñòè íà ïðàçäíèêå ñîáèðàþòñÿ âîêðóã, ÷òîáû ïîíàáëþäàòü çà áîåì.;;x
+EVTDESC_RoI_1071;[From.GetFullName] has accepted your challenge and there will be a duel. As the challenged party, your opponent may choose what weapons will be used and he has chosen daggers. The other guests at the feast gather around to see you fight.;;;;;;;;;;;[From.GetFullName] ïðèíÿë[From.GetEndA] Âàø âûçîâ íà äóýëü. Êàê áðîñèâøàÿ âûçîâ ñòîðîíà, Âàø îïïîíåíò ìîæåò âûáðàòü îðóæèå äëÿ ïîåäèíêà, è âûáèðàåò êèíæàëû. Îñòàëüíûå ãîñòè íà ïðàçäíèêå ñîáèðàþòñÿ âîêðóã, ÷òîáû ïîíàáëþäàòü çà áîåì.;;x
+EVTDESC_RoI_1072;[From.GetFullName] has accepted your challenge and there will be a duel. As the challenged party, your opponent may choose what weapons will be used and he has chosen spears. The other guests at the feast gather around to see you fight.;;;;;;;;;;;[From.GetFullName] ïðèíÿë[From.GetEndA] Âàø âûçîâ íà äóýëü. Êàê áðîñèâøàÿ âûçîâ ñòîðîíà, Âàø îïïîíåíò ìîæåò âûáðàòü îðóæèå äëÿ ïîåäèíêà, è âûáèðàåò êîïüÿ. Îñòàëüíûå ãîñòè íà ïðàçäíèêå ñîáèðàþòñÿ âîêðóã, ÷òîáû ïîíàáëþäàòü çà áîåì.;;x
+EVTDESC_RoI_1073;The duel is about to start. But first, there is one thing that remains for you to decide: will you fight honorably or fight dirty? The latter choice will obviously increase your chances, but there is a large crowd watching and they will see everything that happens.;;;;;;;;;;;Ïîåäèíîê âîò-âîò íà÷í¸òñÿ. Íî ñïåðâà, Âàì íóæíî ðåøèòü, êàê Âû áóäåòå ñðàæàòüñÿ: ñ ÷åñòüþ èëè ãðÿçíî? Ïîñëåäíèé âàðèàíò, î÷åâèäíî, óâåëè÷èò Âàøè øàíñû íà ïîáåäó, îäíàêî, âîêðóã ñîáðàëàñü áîëüøàÿ òîëïà è îíè âñ¸ óâèäÿò ñâîèìè ãëàçàìè.;;x
+EVTDESC_RoI_1075;The duel commences. You begin to circle around each other, both of you observing the other closely and feinting to try and gauge the skill of the opponent. Then suddenly, steel flashes and there is a flurry of attacks and counterattacks. Gasps of terror and of delight are heard from the audience, mixing with the curses and grunts from the duelists and the sound of clashing steel...;;;;;;;;;;;"Ïîåäèíîê íà÷àëñÿ. Âû êðóæèòå äðóã âîêðóã äðóãà, âíèìàòåëüíî íàáëþäàÿ çà ïðîòèâíèêîì è äåëàÿ îáìàííûå äâèæåíèÿ â ïîïûòêå îòûñêàòü ñëàáûå ìåñòà è îïðåäåëèòü óðîâåíü ìàñòåðñòâà. Áëåñíóëà ñòàëü, çíàìåíóÿ ñîáîé ñåðèþ âûïàäîâ è êîíòðâûïàäîâ. Âîçãëàñû óæàñà è îáëåã÷åíèÿ ñëûøàòüñÿ èç òîëïû, ñìåøèâàÿñü ñî çâóêàìè ""ïîþùåé"" ñòàëè è ïðîêëÿòèÿìè äóýëÿíòîâ.";;x
+EVTDESC_RoI_1080;Tempers flaring at the feast! A duel broke out between [FromFromFrom.GetFullName] and [FromFrom.GetFullName], and the ringing of steel on steel held the spectators captive for several intense moments.\n\n[FromFrom.GetFullName] lost but he suffered only minor wounds.;;;;;;;;;;;Ñòðàñòè ðàçãîðåëèñü íà ïðàçäíèêå! [FromFromFrom.GetFullName] è [FromFrom.GetFullName] óñòðîèëè ïîåäèíîê, è çâîí ñòàëè î ñòàëü ïîäàðèë çðèòåëÿì íåñêîëüêî íàïðÿæ¸ííûõ ìîìåíòîâ.\n[FromFrom.GetFullName] ïðîèãðàë[FromFrom.GetEndA], íî îòäåëåëà[FromFrom.GetLasLysa] òîëüêî íåçíà÷èòåëüíûìè ðàíàìè.;;x
+EVTDESC_RoI_1081;Tempers flaring at the feast! A duel broke out between [FromFromFrom.GetFullName] and [FromFrom.GetFullName], and the ringing of steel on steel held the spectators captive for several intense moments.\n\n[FromFrom.GetFullName] lost and lies wounded on the ground.;;;;;;;;;;;Ñòðàñòè ðàçãîðåëèñü íà ïðàçäíèêå! [FromFromFrom.GetFullName] è [FromFrom.GetFullName] óñòðîèëè ïîåäèíîê, è çâîí ñòàëè î ñòàëü ïîäàðèë çðèòåëÿì íåñêîëüêî íàïðÿæ¸ííûõ ìîìåíòîâ.\n[FromFrom.GetFullName] ïðîèãðàë[FromFrom.GetEndA] è ðàíåí[FromFrom.GetAyaYy] óïàë[FromFrom.GetEndA] íà çåìëþ.;;x
+EVTDESC_RoI_1082;Tempers flaring at the feast! A duel broke out between [FromFromFrom.GetFullName] and [FromFrom.GetFullName], and the ringing of steel on steel held the spectators captive for several intense moments.\n\n[FromFrom.GetFullName] lost and was horribly maimed.;;;;;;;;;;;Ñòðàñòè ðàçãîðåëèñü íà ïðàçäíèêå! [FromFromFrom.GetFullName] è [FromFrom.GetFullName] óñòðîèëè ïîåäèíîê, è çâîí ñòàëè î ñòàëü ïîäàðèë çðèòåëÿì íåñêîëüêî íàïðÿæ¸ííûõ ìîìåíòîâ.\n[FromFrom.GetFullName] ïðîèãðàë[FromFrom.GetEndA] è áûë[FromFrom.GetEndA] óæàñíî èñêàëå÷åí[FromFrom.GetEndA].;;x
+EVTDESC_RoI_1083;Tempers flaring at the feast! A duel broke out between [FromFromFrom.GetFullName] and [FromFrom.GetFullName], and the ringing of steel on steel held the spectators captive for several intense moments.\n\n[FromFrom.GetFullName] was killed!;;;;;;;;;;;Ñòðàñòè ðàçãîðåëèñü íà ïðàçäíèêå! [FromFromFrom.GetFullName] è [FromFrom.GetFullName] óñòðîèëè ïîåäèíîê, è çâîí ñòàëè î ñòàëü ïîäàðèë çðèòåëÿì íåñêîëüêî íàïðÿæ¸ííûõ ìîìåíòîâ.\n[FromFrom.GetFullName] áûë[FromFrom.GetEndA] óáèò[FromFrom.GetEndA]!;;x
+EVTDESC_RoI_1140;During the feast, you are entertained by dancers. One of the female dancers especially catches your attention. She moves with near divine grace and allure, and you feel strangely attracted to her. You come to think of the mysterious and beautiful Apsara of legend, shapechanging dancers descending from the heavens.;;;;;;;;;;;Âî âðåìÿ ïðàçäíèêà Âû íàõîäèòå óâëåêàòåëüíûì âûñòóïëåíèå òàíöîðîâ. Îäíà èç òàíöîâùèö îñîáåííî ïðèâëåêàåò Âàøå âíèìàíèå. Å¸ äâèæåíèÿ ïîëíû áîæåñòâåííîé ãðàöèè è î÷àðîâàíèÿ, è Âû èñïûòûâàåòå ê íåé ñòðàííîå âëå÷åíèå. Íà óì ïðèõîäèò ìèñòè÷åñêàÿ è ïðåêðàñíàÿ Àïñàðà èç ëåãåíä, îáîðîòíè-òàíöîðû ñïóñòèâøèåñÿ ñ íåáåñ.;;x
+EVTDESC_RoI_1141;You call the dancer over after the dance has finished, and she comes and sits down next to you. You talk of the body, pleasure and beauty. She sits very close to you, speaking with a soft and seductive voice. You begin to feel strangely warm and light-headed. It feels good.;;;;;;;;;;;Ïîñëå òàíöà, òàíöîâùèöà, óñëûøàâ Âàø ïðèçûâ, ïðèáëèçèëàñü è ïðèñåëà ðÿäîì. Âû âåä¸òå áåñåäó î êðàñîòå òåëà, íàñëàæäåíèÿõ è ïðåêðàñíîì. Îíà ñèäèò î÷åíü áëèçêî ê Âàì, à ãîëîñ å¸ ñîáëàçíèòåëüíûé è áàðõàòèñòûé. Âû ÷óâñòâóåòå ñåáÿ íåîáû÷àéíî òåïëî è ðàññëàáëåííî. Ýòî ïðèÿòíîå îùóùåíèå.;;x
+EVTDESC_RoI_1142;As you wake, your mind is filled with memories of a wonderful night of pleasure. You look around, but the dancer is gone without a trace. It was truly something extraordinary, and your mind wanders to old tales told by priests and storytellers - was she really a human woman, or could it be that you have met one of the beautiful Apsara of legend?;;;;;;;;;;;Ïîñëå ïðîáóæäåíèÿ, Âû íå ìîæåòå îòäåëàòüñÿ îò âîñïîìèíàíèé îá ýòîé íî÷è, ïîëíîé ñëàäîñòíûõ óòåõ. Âû îñìàòðèâàåòåñü, íî òàíöîâùèöû è ñëåä ïðîñòûë. Ýòî áûëî äåéñòâèòåëüíî ÷òî-òî íåîáûêíîâåííîå, è Âàì íà óì ïðèõîäÿò èñòîðèè ñâÿùåííèêîâ è ðàññêàç÷èêîâ... Áûëà ëè îíà ÷åëîâåêîì, èëè, âîçìîæíî, Âû âñòðåòèëè îäíó èç ïðåêðàñíûõ Àïñàðà èç ëåãåíä?;;x
+EVTDESC_RoI_1143;At one point during the feast, a male singer performs. His voice is captivating and sensual, notes dancing across the room and tickling your skin with an almost physical touch. You are completely captivated by his charisma - he reminds you of the mysterious and beautiful Gandharvas of legend, singer spirits of the sky making music for the gods.;;;;;;;;;;;Âî âðåìÿ ïðàçäíèêà âûñòóïàåò ïåâåö-ìóæ÷èíà. Åãî ãîëîñ ïëåíèòåëüíûé è ÷óâñòâåííûé, íîòû òàíöóþò ïî êîìíàòå è êàñàþòñÿ Âàøåé êîæè ïî÷òè ôèçè÷åñêèì êàñàíèåì. Âû ïîëíîñòüþ ïëåíåíû åãî õàðèçìîé - îí íàïîìèíàåò Âàì âîëøåáíîãî è êðàñèâîãî Ãàíäõàðâà èç ëåãåíä, äóøó ïåâöà íà íà íåáå, ïîþùåãî äëÿ áîãîâ.;;x
+EVTDESC_RoI_1144;You call the singer over after the performance has finished, and he comes and sits down next to you. You talk of music, the body, pleasure and beauty. He sits very close to you, speaking with a soft and seductive voice. You begin to feel strangely warm and light-headed. It feels good.;;;;;;;;;;;Âû ïîäçûâàåòå ïåâöà ïîñëå ïðåäñòàâëåíèÿ, è îí ïðèõîäèò è ñàäèòñÿ ðÿäîì ñ Âàìè. Âû ãîâîðèòå î ìóçûêå, òåëå, óäîâîëüñòâèè è êðàñîòå. Îí ñèäèò î÷åíü áëèçêî ñ Âàìè, ãîâîðèò ìÿãêèì è ïîä÷èíÿþùèì ãîëîñîì. Âû ÷óâñòâóåòå ñåáÿ ñòðàííî òåïëî è ðàññåÿíî. Ýòî ïðèÿòíî.;;x
+EVTDESC_RoI_1145;As you wake, your mind is filled with memories of a wonderful night of pleasure. You look around, but the singer is gone without a trace. A small bird flies by outside the window, singing beautifully. Your mind wanders to old tales told by priests and storytellers - was he really a human man, or could it be that you have met one of the beautiful Gandharva of legend?;;;;;;;;;;;Êîãäà Âû ïðîñíóëèñü, Âàøå ñîçíàíèå íàïîëíèëîñü âîñïîìèíàíèÿìè î ïðåêðàñíîé íî÷è óäîâîëüñòâèé. Âû îãëÿäûâàåòåñü âîêðóã, íî ïåâåö óæå ïðîïàë áåç ñëåäà. Ìàëåíüêàÿ ïòè÷êà ëåòàåò çà îêíîì è ïðåêðàñíî ïî¸ò. Âû âñïîìèíàåòå ñòàðûå ñêàçêè, ðàññêàçàííûå ñêàçî÷íèêàìè è ñâÿùåííèêàìè - áûë ýòî ÷åëîâåê, èëè, âîçìîæíî, Âû âñòðåòèëè îäíîãî èç ëåãåíäàðíûõ Ãàíäõàðâîâ?;;x
+EVTDESC_RoI_1151;There is a murmur among the guests of the feast, as a mage enters to entertain you. With great flourish, he explains that the coming show will astound even the most cyncial spectator. He proceeds to put a small boy into a basket on the floor, wherafter he swiftly chops the basket into little pieces with a sword. When he removes the shreds of the basket, there is no sign of the boy, no blood, nothing...;;;;;;;;;;;Ïîñëûøàëñÿ ðîïîò ñðåäè ãîñòåé ïðàçäíèêà, êîãäà ïîÿâèëñÿ ìàã. Âçìàõíóâ ðóêàìè, îí ñîîáùèë, ÷òî åãî ïðåäñòàâëåíèå óäèâèò äàæå ñàìûõ öèíè÷íûõ çðèòåëåé. Ìàã ïîñàäèë ìàëåíüêîãî ìàëü÷èêà â êîðçèíó, ïîñëå ÷åãî ðåçêèìè óäàðàìè ìå÷à ðàçðóáèë å¸ íà íåñêîëüêî ÷àñòåé. Êîãäà îí óáðàë îñòàòêè êîðçèíû, íå áûëî âèäíî íè ìàëü÷èêà, íè ñëåäîâ êðîâè, íè÷åãî...;;x
+EVTDESC_RoI_1152;There is a murmur among the guests of the feast, as a mage enters to entertain you. With great flourish, he places three cups before you on the table. He places a ball under one cup, and then tells you to observe closely and tell you where the ball is after he finishes moving the cups. He then shifts the cups around with lightning speed, all the while prattling on and telling you to pay attention. He then asks you to pick a cup.;;;;;;;;;;;Ïîñëûøàëñÿ ðîïîò ñðåäè ãîñòåé ïðàçäíèêà, êîãäà ïîÿâèëñÿ ìàã. Âçìàõíóâ ðóêàìè, îí ñîîáùèë, ÷òî åãî ïðåäñòàâëåíèå óäèâèò äàæå ñàìûõ öèíè÷íûõ çðèòåëåé. Îí âûñòàâèë íà ñòîë ïåðåä ñîáîé òðè ÷àøêè. Ïîä îäíó èç íèõ îí ïîëîæèë øàðèê è âåëåë âíèìàòåëüíî ñëåäèòü çà äâèæåíèÿìè, ÷òîû â íóæíûé ìîìåíò óêàçàòü, ãäå íàõîäèòñÿ øàðèê. Çàòåì ñ ìîëíèåíîñíîé áûñòðîòîé îí ñòàë ìåíÿòü ÷àøêè, ïðîäîëæàÿ íàïîìèíàòü î âíèìàòåëüíîñòè, ïîñëå ÷åãî ïîïðîñèë Âàñ âûáðàòü ÷àøêó.;;x
+EVTDESC_RoI_1153;The magician looks at you with a knowing and superior smile as he reveals the ball. It seems you chose the wrong cup.;;;;;;;;;;;Ìàã ïîñìîòðåë íà Âàñ ñ óõìûëêîé. Êàæåòñÿ Âû íå óãàäàëè ÷àøêó.;;x
+EVTDESC_RoI_1154;There is a murmur among the guests of the feast, as a mage enters to entertain you. With great flourish, he explains that you are about to see something amazing. He takes out a rope and starts playing a flute. The rope starts dancing by itself and rises up towards the ceiling. The magician beckons, and a small boy appears and starts climbing the rope. The audience gasps. After a minute, the boy climbs down, the magician stops playing and the rope falls down again.;;;;;;;;;;;Ïîñëûøàëñÿ ðîïîò ñðåäè ãîñòåé ïðàçäíèêà, êîãäà ïîÿâèëñÿ ìàã. Âçìàõíóâ ðóêàìè, îí ñîîáùèë, ÷òî åãî ïðåäñòàâëåíèå óäèâèò äàæå ñàìûõ öèíè÷íûõ çðèòåëåé. Îí äîñòàë âåð¸âêó è çàèãðàë íà ôëåéòå. Âåð¸âêà íà÷àëà òàíöåâàòü ñàìà ïî ñåáå è ïîäíèìàòüñÿ ê ïîòîëêó. Ìàã ïîäîçâàë ìàëü÷èêà è òîò íà÷àë ëåçòü ââåðõ ïî âåð¸âêå. Òîëïà íàáëþäàëà çà ýòè â èçóìëåíèè. Ñïóñòÿ ìãíîâåíèå, ìàëü÷èê ñëåç ñ âåð¸âêè, ìàã ïðåêðàòèë èãðàòü, è âåð¸âêà óïàëà.;;x
+EVTDESC_RoI_1160;You are sitting at the table during the feast, enjoying the food and drink. Suddenly, you hear a wild chattering and screaming. A group of small monkeys have entered through an open window, and they quickly spread in the hall, causing chaos! They pull people's hair and clothes, steal food, spill wine, drink wine and defecate on the tables. The feast hall is in uproar.;;;;;;;;;;;Âû ñèäèòå çà ñòîëîì íà ïðàçäíèêå, íàñëàæäàåòåñü åäîé è ïèòü¸ì, íî âäðóã ñëûøèòå êðèêè. Ãðóïïà ìàëåíüêèõ îáåçüÿí ïðîëåçëà ñêâîçü îòêðûòîå îêíî è áûñòðî çàïîëîíèëà âåñü çàë! Îíè ä¸ðãàþò ãîñòåé çà âîëîñû è îäåæäó, êðàäóò åäó, ïüþò, ïðîëèâàþò âèíî è ãàäÿò íà ñòîëàõ. Ýòî ñàìûé íàñòîÿùèé õàîñ!;;x
+EVTDESC_RoI_1171;The darkest night of the Diwali is here, the most important night of the feast. Candles and lamps are lit everywhere, the guests stroll across the painted and decorated floor, wearing colorful dress. Rich and sweet food is served, and the drink is also plentiful. Rama and Lakshi are honored, celebrating the victory of light over darkness, good over evil and hope over despair.;;;;;;;;;;;Ò¸ìíàÿ íî÷ü Äèâàëè íàñòóïèëà, ñàìàÿ âàæíàÿ íî÷ü ïðàçäíèêà. Ñâå÷è è ëàìïû ñâåòÿò ïîâñþäó, ãîñòè ïðîãóëèâàþòñÿ âäîëü ðàçóêðàøåííûõ è äåêîðèðîâàííûõ ýòàæåé, îäåòûå â ðàçíîöâåòíûå îäåæäû. Åäà îòëè÷íî ïðèãîòîâëåíà, è íàïèòêîâ äîñòàòî÷íî. Ðàìà è Ëàêøè âûïàëà ÷åñòü, îòìåòèòü ïîáåäó ñâåòà íàä òüìîé, äîáðà íàä çëîì è íàäåæäû íàä îò÷àÿíèåì.;;x
+EVTDESC_RoI_1173;The darkest night of the Diwali is here, the most important night of the feast. Candles and lamps are lit everywhere, the guests stroll across the painted and decorated floor, wearing colorful dress. Rich and sweet food is served, and the drink is also plentiful. You celebrate the victory of light over darkness, good over evil, knowledge over ignorance and hope over despair.;;;;;;;;;;;Ò¸ìíàÿ íî÷ü Äèâàëè íàñòóïèëà, ñàìàÿ âàæíàÿ íî÷ü ïðàçäíèêà. Ñâå÷è è ëàìïû ñâåòÿò ïîâñþäó, ãîñòè ïðîãóëèâàþòñÿ âäîëü ðàçóêðàøåííûõ è äåêîðèðîâàííûõ ýòàæåé, îäåòûå â ðàçíîöâåòíûå îäåæäû. Åäà îòëè÷íî ïðèãîòîâëåíà, è íàïèòêîâ äîñòàòî÷íî. Âàì âûïàëà ÷åñòü îòìåòèòü ïîáåäó ñâåòà íàä òüìîé, äîáðà íàä çëîì è íàäåæäû íàä îò÷àÿíèåì.;;x
+EVTDESC_RoI_1175;The darkest night of the Diwali is here, the most important night of the feast. Candles and lamps are lit everywhere, the guests stroll across the painted and decorated floor, wearing colorful dress. Rich and sweet food is served. The attainment of Nirvana of Lord Mahavira, the last Tirthankar, is celebrated, with the victory of good over evil and knowledge over ignorance.;;;;;;;;;;;Ò¸ìíàÿ íî÷ü Äèâàëè íàñòóïèëà, ñàìàÿ âàæíàÿ íî÷ü ïðàçäíèêà. Ñâå÷è è ëàìïû ñâåòÿò ïîâñþäó, ãîñòè ïðîãóëèâàþòñÿ âäîëü ðàçóêðàøåííûõ è äåêîðèðîâàííûõ ýòàæåé, îäåòûå â ðàçíîöâåòíûå îäåæäû. Åäà îòëè÷íî ïðèãîòîâëåíà, è íàïèòêîâ äîñòàòî÷íî. Ëîðä Ìàõàâèðà, ïîñëåäíèé èç Òèðòõàíêàð, îòìå÷àåò ïîáåäó äîáðà íàä çëîì è çíàíèÿ íàä íåâåæåñòâîì.;;x
+EVTDESC_RoI_1177;The darkest night of the Kali Puja is here, the most important night of the feast. Candles are lit everywhere, placed inside human skulls. The guests stroll across the painted and decorated floor, carrying various symbols of time, death and change. Homage is offered to the beautiful and terrifying four-armed idols with swords, skulls and severed heads in their hands.;;;;;;;;;;;Ò¸ìíàÿ íî÷ü Äèâàëè íàñòóïèëà, ñàìàÿ âàæíàÿ íî÷ü ïðàçäíèêà. Ñâå÷è è ëàìïû ñâåòÿò ïîâñþäó, ãîñòè ïðîãóëèâàþòñÿ âäîëü ðàçóêðàøåííûõ è äåêîðèðîâàííûõ ýòàæåé, íîñÿ ñ ñîáîé ðàçëè÷íûå ñèìâîëû âðåìåíè, ñìåðòè è ïåðåìåí. Îòäà¸òñÿ äàíü êðàñèâûì è ñòðàøíûì ÷åòûð¸õðóêèì èäîëàì ñ ìå÷àìè, ÷åðåïàìè, äåðæàùèì îòðóáëåííûå ãîëîâû.;;x
+EVTDESC_RoI_1178;Kali is our Mother, the Goddess of Time, Death and the Darkest Night. She must be honored properly, and you have just the right thing in mind...;;;;;;;;;;;Êàëè - íàøà ìàòü, áîãèíÿ âðåìåíè, ñìåðòè è ò¸ìíûõ íî÷åé. ×åñòü äîëæíà áûòü ïðàâèëüíî îòäàíà åé, è êàæåòñÿ Âû çíàåòå êàê...;;x
+EVTDESC_RoI_1179;[target_prisoner.GetFullName] screams as [target_prisoner.GetSheHe] is dragged before the great idol of Kali. As temple servants hold [target_prisoner.GetHerHim] down, a priest pulls out a long kris and then stabs [target_prisoner.GetHerHim] right through the heart. Then [target_prisoner.GetHerHis] throat is cut and the blood is slowly collected in bowls made of a human skulls and passed around for the guests to drink.;;;;;;;;;;;[From.GetFullName] êðè÷èò, ïîêà [From.GetHersHis] íåñóò ê âåëèêîìó èäîëó Êàëè. Â òî âðåìÿ, êàê ñëóæèòåëè õðàìà äåðæàò [From.GetHersHis], æðåö äîñòà¸ò êëèíîê è ïðîíçàåò èì ñåðäöå æåðòâû. Çàòåì ïåðåðåçàåòñÿ ãîðëî è êðîâü ìåäëåííî ñîáèðàåòñÿ â ÷àøè èç ÷åëîâå÷åñêèõ ÷åðåïîâ, äàáû ãîñòè ìîãëè èñïèòü èç íèõ.;;x
+EVTDESC_RoI_1181;The servant screams as he is seized by the guards and then dragged before the great idol of Kali. As temple servants hold him down, a priest pulls out a long kris and then stabs him right through the heart. Then his throat is cut and the blood is slowly collected in bowls made of a human skulls and passed around for the guests to drink.;;;;;;;;;;;Ñëóãà êðè÷èò, ïîêà åãî òàùàò ê âåëèêîìó èäîëó Êàëè. Áåç âîçìîæíîñòè óáåæàòü, îí ñìîòðèò, êàê æðåö äîñòà¸ò êëèíîê è ïðîíçàåò åãî ñåðäöå. Çàòåì ïåðåðåçàåò åãî ãîðëî, è êðîâü ìåäëåííî ñîáèðàåòñÿ â ÷àøè èç ÷åëîâå÷åñêèõ ÷åðåïîâ, äàáû èç íèõ ìîãëè èñïèòü ãîñòè.;;x
+EVTDESC_RoI_1183;A large elephant is led into the hall. It is tied down with strong ropes and chains, and then stabbed with swords, screaming and trumpeting terribly for several minutes as it dies. The guests watch in horrified fascination. The process is then repeated with nine more elephants - a long, bloody cacophonic concert of death. At the end of it, the floor is a lake of blood. Several priests step forth, sliding and slipping in the gore, holding long brushes. They dip the brushes in the blood and start painting the walls, eventually covering them entirely in this gruesome, wet and dark paint. The smell is strong and sickening.;;;;;;;;;;;Îãðîìíûé ñëîí ââîäèòñÿ â çàë. Îí ñâÿçàí êðåïêèìè âåð¸âêàìè è öåïÿìè. Åãî çàêàëûâàþò ìå÷àìè. Æèâîòíîå âèçæèò è áü¸òñÿ â êîíâóëüñèÿõ, ïîêà îêîí÷àòåëüíî íå óìèðàåò. Ãîñòè ñìîòðÿò ñ óæàñîì è óâëå÷åíèåì. Ïðîöåññ ïîâòîðèëñÿ ñ åù¸ äåâÿòüþ ñëîíàìè - äîëãèé, êðîâàâûé êàêîôîíè÷åñêèé êîíöåðò ñìåðòè. Âåñü ïîë îìûò ðåêàìè êðîâè. Íåñêîëüêî ìîíàõîâ âûñòóïàþò âïåð¸ä, ãëóáîêî ìàêàþò êèñòî÷êè â êðîâü è íà÷èíàþò ðàçðèñîâàòü ñòåíû, ïîêðûâàÿ èõ ýòîé ìîêðîé, óæàñàþùåé ò¸ìíîé êðàñêîé. Ñèëüíûé òîøíîòâîðíûé çàïàõ ñîïðîâîæäàåò ïðîöåññ.;;x
+EVTDESC_RoI_1188;Several black goats are brought forth by the priests. The goats are laid down below a large statue of Kali, and their throats are cut open. The blood is collected in bowls made of human skulls and presented to the crowd. A chanting arises, then a cheer, as the holy sacrifice to the Goddess of Death, Time and of the Blackest Night has been made.;;;;;;;;;;;Íåñêîëüêî ÷¸ðíûõ êîçëîâ ïðèâîäÿòñÿ ìîíàõàìè. Æèâîòíûå ïîëîæåíû íà ïîë ïåðåä îãðîìíûì èäîëîì Êàëè. Èì ïåðåðåçàþòñÿ ãëîòêè. Èõ êðîâü ñîáèðàåòñÿ â ÷àøè èç ÷åëîâå÷åñêèõ ÷åðåïîâ è ïåðåäàþòñÿ ãîñòÿì. Íà÷èíàåòñÿ ïåíèå, çàòåì àïëîäèñìåíòû. Æåðòâîïðèíîøåíèå áîãèíå ñìåðòè, âðåìåíè è ò¸ìíûõ íî÷åé áûëî ñîâåðøåíî.;;x
+EVTDESC_RoI_1940;Dear vassal,\nI hereby invite you to attend my celebration of the feast of Kali Puja.\n\nYour Liege,\n[From.GetFullName];;;;;;;;;;;Äðàæàéøèé âàññàë, \nÏðèãëàøàþ Âàñ ïðèñîåäèíèòüñÿ ê ïðàçäíîâàíèþ Êàëè Ïóäæà.\nÂàø ñþçåðåí, \n [From.GetFullName].;;x
+EVTDESC_RoI_1996;The feast is over, but it was a fantastic feast. As the guests make their way home you sit down and smile to yourself, pleased at how things turned out.;;;;;;;;;;;Ïèð îêîí÷åí, è îí áûë çàìå÷àòåëüíûì. Êîãäà âñå ãîñòè ðàçúåõàëèñü, Âû äîâîëüíî óëûáàåòåñü - êàê æå âñ¸ õîðîøî ïðîøëî.;;x
+EVTDESC_RoI_1997;The feast is over, but it didn't quite turn out as you had hoped. As the guests make their way home, you sit down and ponder what went wrong.;;;;;;;;;;;Ïèð îêîí÷åí, îäíàêî âñ¸ ïðîøëî íå òàê ãëàäêî, êàê îæèäàëîñü. Êîãäà ãîñòè ðàçúåõàëèñü, Âû çàäóìàëèñü, ÷òî æå ïîøëî íå òàê.;;x
+EVTDESC_RoI_1998;The feast is over, but it was a fantastic feast. As you make your way home, you think that you'd probably come back next year again if invited.;;;;;;;;;;;Ïèð îêîí÷åí, è îí áûë çàìå÷àòåëüíûì. Ïî äîðîãå äîìîé, Âû äóìàåòå âåðíóòüñÿ, åñëè ïðèãëàñÿò, â ñëåäóþùåì ãîäó.;;x
+EVTDESC_RoI_1999;The feast is over, but certain unfortunate events prevented you from enjoying it fully. As you make your way home, you ponder the ups and downs of life.;;;;;;;;;;;Ïèð îêîí÷åí, îäíàêî íåêîòîðûå ñîáûòèÿ íå äàëè Âàì â ïîëíîé ìåðå íàñëàäèòüñÿ èì. Ïî äîðîãå äîìîé, Âû äóìàåòå î âçë¸òàõ è ïàäåíèÿõ â æèçíè.;;x
+EVTOPTA_RoI_1000;It will be a grand feast!;;;;;;;;;;;Ýòî áóäåò ïðåêðàñíûé ïðàçäíèê!;;x
+EVTOPTA_RoI_1001;Of course I shall attend!;;;;;;;;;;;Ðàçóìååòñÿ ÿ ïðèìó ó÷àñòèå.;;x
+EVTOPTA_RoI_1002;I shall remember this...;;;;;;;;;;;ß ýòî çàïîìíþ...;;x
+EVTOPTA_RoI_1005;A jeweled necklace would be perfect!;;;;;;;;;;;Äðàãîöåííîå êîëüå îòëè÷íî ïîäîéä¸ò.;;x
+EVTOPTA_RoI_1006;I'll buy her expensive jewelry.;;;;;;;;;;;ß êóïëþ åé äîðîãîå óêðàøåíèå.;;x
+EVTOPTA_RoI_1007;My wife is overjoyed with the magnificent gift!;;;;;;;;;;;Ìîÿ æåíà â âîñòîðãå îò âåëèêîëåïíîãî ïîäàðêà!;;x
+EVTOPTA_RoI_1020;Welcome, all!;;;;;;;;;;;Äîáðî ïîæàëîâàòü!;;x
+EVTOPTA_RoI_1050;Fascinating!;;;;;;;;;;;Íåîïèñóåìî!;;x
+EVTOPTA_RoI_1051;Oh no!;;;;;;;;;;;Î íåò!;;x
+EVTOPTA_RoI_1052;We're not hiring this snake charmer again.;;;;;;;;;;;Ìû íèêîãäà áîëüøå íå íàéì¸ì åãî.;;x
+EVTOPTA_RoI_1053;Aaargh! A cobra!!;;;;;;;;;;;Ààààà! Êîáðà!;;x
+EVTOPTA_RoI_1054;Woe!;;;;;;;;;;;Ãîðå!;;x
+EVTOPTA_RoI_1055;Well done!;;;;;;;;;;;Ìîëîäåö!;;x
+EVTOPTA_RoI_1056;Don't try this at home, folks.;;;;;;;;;;;Íå ïûòàéòåñü ïîâòîðèòü ýòî äîìà.;;x
+EVTOPTA_RoI_1060;A duel! I will tear his brain from his skull!;;;;;;;;;;;Äóýëü! ß äîñòàíó åãî ìîçã èç ÷åðåïà!;;x
+EVTOPTA_RoI_1061;You, scum! I challenge you to a duel!;;;;;;;;;;;Òû, ñâîëî÷ü! ß âûçûâàþ òåáÿ íà äóýëü!;;x
+EVTOPTA_RoI_1062;Enough! I challenge you to a duel, Sir!;;;;;;;;;;;Äîâîëüíî! Âûçûâàþ Âàñ íà äóýëü!;;x
+EVTOPTA_RoI_1063;Grab him and challenge him to a duel!;;;;;;;;;;;Ñõâàòèòü åãî è âûçâàòü íà äóýëü!;;x
+EVTOPTA_RoI_1064;You! I challenge you to a duel!;;;;;;;;;;;Òû! ß âûçûâàþ òåáÿ íà äóýëü!;;x
+EVTOPTA_RoI_1065;What the... I'll kill you, party spoilers!;;;;;;;;;;;×òî çà... Èñïîðòèëè âñ¸ âåñåëüå... Çàøèáó!;;x
+EVTOPTA_RoI_1066;I accept! You will regret this.;;;;;;;;;;;ß ïðèíèìàþ âûçîâ! Âû îá ýòîì ïîæàëååòå!;;x
+EVTOPTA_RoI_1067;I will eat your brain later, coward!;;;;;;;;;;;ß ñîæðó òâîè ìîçãè ïîçæå, òðóñ!;;x
+EVTOPTA_RoI_1068;It's good that bloodshed was avoided.;;;;;;;;;;;Õîðîøî, ÷òî êðîâîïðîëèòèÿ óäàëîñü èçáåæàòü.;;x
+EVTOPTA_RoI_1069;Swords;;;;;;;;;;;Ìå÷è;;x
+EVTOPTA_RoI_1070;Fetch me my sword, then.;;;;;;;;;;;×òî æ, ïîäàéòå ìå÷.;;x
+EVTOPTA_RoI_1071;Fetch me my dagger, then.;;;;;;;;;;;×òî æ, ïîäàéòå êèíæàë.;;x
+EVTOPTA_RoI_1072;Fetch me my spear, then.;;;;;;;;;;;×òî æ, ïîäàéòå êîïü¸.;;x
+EVTOPTA_RoI_1073;My honor is my strength.;;;;;;;;;;;×åñòü - ìîÿ ñèëà!;;x
+EVTOPTA_RoI_1075;Concentration...;;;;;;;;;;;Ñîñðåäîòî÷üñÿ...;;x
+EVTOPTA_RoI_1080;All is well.;;;;;;;;;;;Âñ¸ õîðîøî.;;x
+EVTOPTA_RoI_1081;He fought well.;;;;;;;;;;;Îí õðàáðî ñðàæàëñÿ.;;x
+EVTOPTA_RoI_1140;Call her over after the dance.;;;;;;;;;;;Ïîäîçâàòü å¸ ïîñëå òàíöà.;;x
+EVTOPTA_RoI_1141;Let's go somewhere private...;;;;;;;;;;;Äàâàéòå ãäå íèáóäü óåäèíèìñÿ...;;x
+EVTOPTA_RoI_1142;I have been touched by the divine.;;;;;;;;;;;Ìåíÿ êîñíóëîñü áîæåñòâåííîå.;;x
+EVTOPTA_RoI_1143;Call him over after the performance.;;;;;;;;;;;Ïîçâàòü åãî ïîñëå ïðåäñòàâëåíèÿ.;;x
+EVTOPTA_RoI_1151;Amazing!;;;;;;;;;;;Ïîðàçèòåëüíî!;;x
+EVTOPTA_RoI_1152;Left.;;;;;;;;;;;Ëåâàÿ.;;x
+EVTOPTA_RoI_1153;Oh snap.;;;;;;;;;;;Ïðîêëÿòüå!;;x
+EVTOPTA_RoI_1160;Oh my!;;;;;;;;;;;Îõ òû æ!;;x
+EVTOPTA_RoI_1171;Let us celebrate!;;;;;;;;;;;Äàâàéòå ïðàçäíîâàòü!;;x
+EVTOPTA_RoI_1173;Let us celebrate!;;;;;;;;;;;Äàâàéòå ïðàçäíîâàòü!;;x
+EVTOPTA_RoI_1175;Let us celebrate!;;;;;;;;;;;Äàâàéòå ïðàçäíîâàòü!;;x
+EVTOPTA_RoI_1177;Let the ceremonies begin.;;;;;;;;;;;Äà íà÷íåòñÿ öåðåìîíèÿ.;;x
+EVTOPTA_RoI_1178;We will sacrifice a prisoner...;;;;;;;;;;;Ìû ïðèíåñ¸ì â æåðòâó íàøåãî óçíèêà...;;x
+EVTOPTA_RoI_1179;This is truly a joyous occasion!;;;;;;;;;;;Ýòî äåéñòâèòåëüíî ðàäîñòíîå ñîáûòèå!;;x
+EVTOPTA_RoI_1183;Praise Kali, our Mother!;;;;;;;;;;;Ìîëèòåñü Êàëè, íàøåé Ìàòåðè!;;x
+EVTOPTA_RoI_1188;Praise Kali, our Mother!;;;;;;;;;;;Ñëàâà Êàëè, íàøåé Ìàòåðè!;;x
+EVTOPTA_RoI_1940;Of course I shall attend!;;;;;;;;;;;Ðàçóìååòñÿ ÿ ïðèìó ó÷àñòèå.;;x
+EVTOPTA_RoI_1951;Let's hope no one gets killed.;;;;;;;;;;;Íàäåþñü, íèêòî íå ïîãèáíåò.;;x
+EVTOPTA_RoI_1996;I should do this again next year!;;;;;;;;;;;Íàäî ïîâòîðèòü â ñëåäóþùåì ãîäó!;;x
+EVTOPTA_RoI_1997;Maybe next time it will be better.;;;;;;;;;;;Ìîæåò áûòü â ñëåäóþùèé ðàç áóäåò ëó÷øå.;;x
+EVTOPTA_RoI_1998;I had a great time!;;;;;;;;;;;Ýòî áûëî ïðåêðàñíî!;;x
+EVTOPTA_RoI_1999;Oh well.;;;;;;;;;;;Íó äà ëàäíî.;;x
+EVTOPTB_RoI_1001;I don't have the time.;;;;;;;;;;;Ó ìåíÿ íåò âðåìåíè íà ýòî.;;x
+EVTOPTB_RoI_1005;Perhaps a small perfume box or something.;;;;;;;;;;;Âîçìîæíî, íåáîëüøîé ôëàêîí ïàðôþìà ïîäîéä¸ò.;;x
+EVTOPTB_RoI_1006;A small box of perfume will do.;;;;;;;;;;;Íåáîëüøîé ôëàêîí ïàðôþìà ïîäîéä¸ò.;;x
+EVTOPTB_RoI_1007;My wife is pleased with her gift.;;;;;;;;;;;Ìîÿ æåíà äîâîëüíà ïîäàðêîì.;;x
+EVTOPTB_RoI_1060;No time now, I must frolic. I must frolic.;;;;;;;;;;;Íåò âðåìåíè, íóæíî ðåçâèòüñÿ. Ðåçâèòüñÿ.;;x
+EVTOPTB_RoI_1061;Now is not the time... I must breathe...;;;;;;;;;;;Ñåé÷àñ íå âðåìÿ... Íóæíî äûøàòü...;;x
+EVTOPTB_RoI_1062;No, this is not the right time.;;;;;;;;;;;Íåò, ñåé÷àñ íå ïîäõîäÿùåå âðåìÿ.;;x
+EVTOPTB_RoI_1063;Take your rage out on the furniture.;;;;;;;;;;;Âûìåñòèòü ñâîé ãíåâ íà ìåáåëè.;;x
+EVTOPTB_RoI_1064;On second thought, I may be imagining things.;;;;;;;;;;;Ñ äðóãîé ñòîðîíû, âîçìîæíî, ýòî íàäóìàííî.;;x
+EVTOPTB_RoI_1065;Come now, let's calm down and have a drink...;;;;;;;;;;;Õâàòèò, äàâàéòå óñïîêîèìñÿ è âûïüåì...;;x
+EVTOPTB_RoI_1066;No, this is crazy. Go away.;;;;;;;;;;;Ýòî áåçóìèå! Óáèðàéòåñü ïðî÷ü!;;x
+EVTOPTB_RoI_1067;But the voices...;;;;;;;;;;;Íî ãîëîñà...;;x
+EVTOPTB_RoI_1068;Shame, it would have livened up the feast.;;;;;;;;;;;Êàêàÿ äîñàäà, ýòî îñâåæèëî áû ïðàçäíèê.;;x
+EVTOPTB_RoI_1069;Daggers;;;;;;;;;;;Êèíæàëû;;x
+EVTOPTB_RoI_1073;Only idiots fight fair.;;;;;;;;;;;Òîëüêî ãëóïöû ñðàæàþòñÿ ÷åñòíî.;;x
+EVTOPTB_RoI_1080;He gave in too easily!;;;;;;;;;;;Îí ñäàëñÿ ñëèøêîì ëåãêî!;;x
+EVTOPTB_RoI_1140;Leave it be.;;;;;;;;;;;Îñòàâèòü âñ¸, êàê åñòü.;;x
+EVTOPTB_RoI_1141;Enchanted, but you should leave, my dear.;;;;;;;;;;;Î÷àðîâàòåëüíî, íî Âàì ëó÷øå óéòè.;;x
+EVTOPTB_RoI_1142;I shall never know.;;;;;;;;;;;ß íèêîãäà íå óçíàþ.;;x
+EVTOPTB_RoI_1143;Leave it be.;;;;;;;;;;;Îñòàâèòü âñ¸, êàê åñòü.;;x
+EVTOPTB_RoI_1151;Guards - arrest that man!;;;;;;;;;;;Ñòðàæà - àðåñòîâàòü åãî!;;x
+EVTOPTB_RoI_1152;Middle.;;;;;;;;;;;Ñðåäíÿÿ.;;x
+EVTOPTB_RoI_1153;I think you are cheating!;;;;;;;;;;;ß äóìàþ, òû æóëüíè÷àåøü!;;x
+EVTOPTB_RoI_1154;Hah! I could see the hidden wire.;;;;;;;;;;;Õà! ß âèæó, òàì ñåêðåòíàÿ ïðîâîëîêà.;;x
+EVTOPTB_RoI_1160;Hand me my bow!;;;;;;;;;;;Ìîé ëóê, ñêîðåå!;;x
+EVTOPTB_RoI_1177;Let's do something extra this year...;;;;;;;;;;;Ìîæåò äîáàâèì åù¸ ÷òî-íèáóäü ê ðèòóàëó â ñëåäóþùåì ãîäó...;;x
+EVTOPTB_RoI_1178;We will sacrifice that servant over there.;;;;;;;;;;;Ìû ïðèíåñ¸ì â æåðòâó ýòîãî ñëóãó...;;x
+EVTOPTB_RoI_1940;I don't have the time.;;;;;;;;;;;Ó ìåíÿ íåò âðåìåíè íà ýòî.;;x
+EVTOPTB_RoI_1951;I hope we'll see some blood!;;;;;;;;;;;Íàäåþñü, ìû óâèäèì êðîâîïðîëèòèå!;;x
+EVTOPTC_RoI_1005;She can do without gifts.;;;;;;;;;;;Îíà îáîéä¸òñÿ áåç ïîäàðêîâ.;;x
+EVTOPTC_RoI_1006;She can do without gifts.;;;;;;;;;;;Îíà îáîéä¸òñÿ áåç ïîäàðêîâ.;;x
+EVTOPTC_RoI_1007;My wife is upset because I didn't get her anything.;;;;;;;;;;;Ìîÿ æåíà îáèæåíà - ÿ íè÷åãî íå ïîäàðèë.;;x
+EVTOPTC_RoI_1067;Ah, I see, you are a coward.;;;;;;;;;;;À, ÿñíî, Âû òðóñ.;;x
+EVTOPTC_RoI_1069;Spears;;;;;;;;;;;Êîïüÿ;;x
+EVTOPTC_RoI_1152;Right.;;;;;;;;;;;Ïðàâàÿ.;;x
+EVTOPTC_RoI_1153;I saw you cheating, you trickster!;;;;;;;;;;;ß âèæó, òû æóëüíè÷àåøü, îáìàíùèê!;;x
+EVTOPTC_RoI_1160;Let's catch one and see what they look like on the inside...;;;;;;;;;;;Äàâàéòå ïîéìàåì îäíó è ïîñìîòðèì, êàê îíè âûãëÿäÿò âíóòðè...;;x
+EVTOPTC_RoI_1178;We will sacrifice ten elephants and paint the walls with blood.;;;;;;;;;;;Ìû ïðèíåñ¸ì â æåðòâó äåñÿòü ñëîíîâ è ðàñêðàñèì ñòåíû èõ êðîâüþ.;;x
+EVTOPTD_RoI_1005;I will spend money on my lover instead...;;;;;;;;;;;Ëó÷øå ÿ ïîòðà÷ó äåíüãè íà ëþáîâíèöó...;;x
+EVTOPTD_RoI_1006;I will buy him a magnificent horse!;;;;;;;;;;;ß êóïëþ åìó âåëèêîëåïíóþ ëîøàäü!;;x
+EVTOPTD_RoI_1007;My lover is overjoyed with her gift! My wife is not happy, though...;;;;;;;;;;;Ìîÿ ëþáîâíèöà áåçóìíî ðàäà ïîäàðêó! Íî æåíà ðàññòðîåíà...;;x
+EVTOPTD_RoI_1067;Curses!;;;;;;;;;;;Ïðîêëÿòüå!;;x
+EVTOPTD_RoI_1160;The monkeys are my friends!;;;;;;;;;;;Îáåçüÿíû - ìîè äðóçüÿ!;;x
+EVTOPTE_RoI_1005;A magnificent horse would please him!;;;;;;;;;;;Âåëèêîëåïíàÿ ëîøàäü åãî ïîðàäóåò!;;x
+EVTOPTE_RoI_1006;This nice cape should do fine.;;;;;;;;;;;Ýòà ñëàâíàÿ íàêèäêà îòëè÷íî ïîäîéä¸ò.;;x
+EVTOPTE_RoI_1007;My lover is overjoyed with her gift!;;;;;;;;;;;Ìîÿ ëþáîâíèöà áåçóìíî ðàäà ïîäàðêó!;;x
+EVTOPTE_RoI_1067;You do this to spite me!;;;;;;;;;;;Âû äåëàåòå ýòî íàçëî ìíå!;;x
+EVTOPTE_RoI_1160;Such beautiful animals! I shall marry one of them!;;;;;;;;;;;Òàêèå ïðåêðàñíûå æèâîòíûå! Íàäî ïîæåíèòüñÿ íà îäíîé èç íèõ!;;x
+EVTOPTF_RoI_1005;A nice cape or something will be enough.;;;;;;;;;;;Õîðîøåé íàêèäêè áóäåò äîñòàòî÷íî.;;x
+EVTOPTF_RoI_1006;He can do without gifts.;;;;;;;;;;;Îí îáîéä¸òñÿ áåç ïîäàðêîâ.;;x
+EVTOPTF_RoI_1007;My lover is pleased with her gift. My wife is not happy, though...;;;;;;;;;;;Ìîÿ ëþáîâíèöà äîâîëüíà ïîäàðêîì. Íî æåíà ðàññòðîåíà...;;x
+EVTOPTF_RoI_1160;Haha! Look at the little rascals! So carefree!;;;;;;;;;;;Ïîñìîòðèòå íà ìåëêèõ íåãîäÿåâ! Òàêèå áåççàáîòíûå!;;x
+EVTOPTG_RoI_1005;He can do without gifts.;;;;;;;;;;;Îí îáîéä¸òñÿ áåç ïîäàðêîâ.;;x
+EVTOPTG_RoI_1007;My lover is pleased with her gift.;;;;;;;;;;;Ìîÿ ëþáîâíèöà äîâîëüíà ïîäàðêîì.;;x
+EVTOPTG_RoI_1160;Aaah! Get those little monsters out of here!;;;;;;;;;;;Ààà! Óáåðèòå ýòèõ ìîíñòðîâ îòñþäà!;;x
+EVTOPTH_RoI_1005;I will spend money on my lover instead...;;;;;;;;;;;Ëó÷øå ÿ ïîòðà÷ó äåíüãè íà ìîåãî ëþáîâíèêà...;;x
+EVTOPTH_RoI_1007;My lover is disappointed because I didn't get her anything.;;;;;;;;;;;Ìîÿ ëþáîâíèöà ðàçî÷àðîâàíà - ÿ íè÷åãî íå ïîäàðèë.;;x
+EVTOPTI_RoI_1007;My husband is overjoyed with the magnificent gift!;;;;;;;;;;;Ìîé ìóæ áåçóìíî ðàä ïîäàðêó!;;x
+EVTOPTJ_RoI_1007;My husband is pleased with his gift.;;;;;;;;;;;Ìîé ìóæ äîâîëåí ïîäàðêîì.;;x
+EVTOPTK_RoI_1007;My husband is upset because I didn't get him anything.;;;;;;;;;;;Ìîé ìóæ ðàññòðîåí, ïîòîìó ÷òî ÿ íè÷åãî íå ïîäàðèëà.;;x
+EVTOPTL_RoI_1007;My lover is overjoyed with his gift! But my husband isn't happy...;;;;;;;;;;;Ìîé ëþáîâíèê áåçóìíî ðàä ïîäàðêó! Íî ìóæ ðàññòðîåí...;;x
+EVTOPTM_RoI_1007;My lover is overjoyed with his gift!;;;;;;;;;;;Ìîé ëþáîâíèê áåçóìíî ðàä ïîäàðêó!;;x
+EVTOPTN_RoI_1007;My lover is pleased with his gift. But my husband isn't happy...;;;;;;;;;;;Ìîé ëþáîâíèê äîâîëåí ïîäàðêîì. Íî ìóæ ðàññòðîåí...;;x
+EVTOPTO_RoI_1007;My lover is pleased with his gift.;;;;;;;;;;;Ìîé ëþáîâíèê äîâîëåí ïîäàðêîì.;;x
+EVTOPTP_RoI_1007;My lover is disappointed because I didn't get him anything.;;;;;;;;;;;Ìîé ëþáîâíèê ðàññòðîåí - ÿ íè÷åãî íå ïîäàðèëà.;;x
+EVTTITLE_RoI_1051;The Mage;;;;;;;;;;;Âîëøåáíèê;;x
+EVTTITLE_RoI_1060;The Duel;;;;;;;;;;;Ñðàæåíèå;;x
+EVTTITLE_RoI_1183;A celebration in blood;;;;;;;;;;;Êðîâàâîå òîðæåñòâî;;x
+EVTTOOLTIP1_RoI_1000;Invitations are sent.;;;;;;;;;;;Ïðèãëàøåíèÿ ðàçîñëàíû.;;x

@@ -1,36 +1,27 @@
-HF_3_DESC;The world has reached boiling point. Intolerance is on the rise, with conflicts of ideology and religious oppression rampant across the world. The many religious leaders congregate within their spheres, bent on having all others subjugate themselves before them. This is the era of large-scale religious wars.;;;;;;;;;;;;;x
-HF_3_TIT;Great Holy Wars;;;;;;;;;;;;;x
-HF_3_TOOLTIP;Great Holy Wars are now active\nAll Holy Orders are now active;;;;;;;;;;;;;x
-
-
-EVTDESCHF6;I wake up in the middle of the night by a heavy draft coming from my now open window. A hooded figure, frozen like a statue, standing next to my bed proclaims that it has been sighted in my stars a prophecy!;;;;;;;;;;;;;x
-EVTDESCHF7;Exhausted, frozen, and worn out I finally reach a peak in the mountains. Just as my mind is filling up with doubts about my own sanity trusting a strangers foretold prophecy, a bright light shoots across the sky and comes crashing down in the forest at the roots of the mountain.;;;;;;;;;;;;;x
-EVTDESCHF8;The words are still haunting me in my dreams. My mind just can't let go of the fairytale prophecy the lunatic driveled in my private quarters many nights ago.;;;;;;;;;;;;;x
-EVTDESCHF9;After trudging through the thick forest the whole day and evening I reach a moonlit glade late in the night. At the end of the glade there's a small pond shining in silver. Next to the pond lies a lustrous body suspended in time. Except for the small and steady stream of blood that's still seeping out from a cut under the belly, the grandiose being of a unicorn could have just as well been sleeping from eternity and beyond - a mesmerizing sight. Without any option to re-animate this wonder of nature I'm left with a difficult choice of what to do since the carcass is too heavy to bring home as a whole.;;;;;;;;;;;;;x
-EVTDESCHF10;Arriving at the forest a week later, we spent days thoroughly searching it for any clues to the bright light that fell from the sky. Despite the fact that nothing turned out of the expedition, the light in the sky still has to mean something;;;;;;;;;;;;;x
-EVTDESCHF11;I can't even tell if it was reality or just a dream any more, but ever since I visited the unicorn glade I have seen something glimmering when I've caught my own reflection in other people's eyes.;;;;;;;;;;;;;x
-
-EVTOPTAHF6;Listen to the prophecy;;;;;;;;;;;;;x
-EVTOPTAHF7;I must follow the signs of the prophecy;;;;;;;;;;;;;x
-EVTOPTAHF8;My sanity is at stake – I need to see this through;;;;;;;;;;;;;x
-EVTOPTAHF9;Give it a proper burial;;;;;;;;;;;;;x
-EVTOPTAHF10;A sign of a blessing upon my rule;;;;;;;;;;;;;x
-EVTOPTAHF11;And they now seem to hold me in a higher regard;;;;;;;;;;;;;x
-
-EVTOPTBHF6;Guards! Arrest this mad intruder!;;;;;;;;;;;;;x
-EVTOPTBHF7;Those thick woods are dangerous;;;;;;;;;;;;;x
-EVTOPTBHF8;My mind has been poisoned - this is clearly a trap!;;;;;;;;;;;;;x
-EVTOPTBHF9;Cup your hands and start drinking the blood;;;;;;;;;;;;;x
-
-EVTOPTCHF9;Save the magnificent mane;;;;;;;;;;;;;x
-
-EVTOPTDHF9;Cut the horn and bring it home;;;;;;;;;;;;;x
-
-EVTTOOLTIPAHF6;According to the prophecy I should look for further signs up in the mountains.;;;;;;;;;;;;;x
-EVTTOOLTIPAHF7;Follow the light – wherever it takes you.;;;;;;;;;;;;;x
-EVTTOOLTIPAHF8;Head out for the mountains in the prophecy.;;;;;;;;;;;;;x
-
-EVTTOOLTIPBHF7;Head home to gather a search party before heading out to the woods.;;;;;;;;;;;;;x
-EVTTOOLTIPBHF8;You do not trust even your own instincts right now.;;;;;;;;;;;;;x
-
-EVTTITLEHF9;A Prophecy Foretold;;;;;;;;;;;;;x
+HF_3_DESC;The world has reached boiling point. Intolerance is on the rise, with conflicts of ideology and religious oppression rampant across the world. The many religious leaders congregate within their spheres, bent on having all others subjugate themselves before them. This is the era of large-scale religious wars.;;;;;;;;;;;Ìèð äîñòèã òî÷êè êèïåíèÿ. Íåòåðïèìîñòü ðàñò¸ò, ïî âñåìó ìèðó ñâèðåïñòâóþò êîíôëèêòû íà ïî÷âå èäåîëîãèè è ðåëèãèîçíîãî óãíåòåíèÿ. Ìíîæåñòâî ðåëèãèîçíûõ ëèäåðîâ ñîáèðàþòñÿ â ñâîèõ ñôåðàõ âëèÿíèÿ, ñòðåìÿñü ïîä÷èíèòü ñåáå âñåõ îñòàëüíûõ. Ýòî ýïîõà ìàñøòàáíûõ ðåëèãèîçíûõ âîéí.;;x
+HF_3_TIT;Great Holy Wars;;;;;;;;;;;Câÿùåííûå ïîõîäû;;x
+HF_3_TOOLTIP;Great Holy Wars are now active\nAll Holy Orders are now active;;;;;;;;;;;Ñâÿùåííûå ïîõîäû òåïåðü àêòèâíû\nÂñå äóõîâíûå îðäåíû òåïåðü àêòèâíû;;x
+EVTDESCHF6;I wake up in the middle of the night by a heavy draft coming from my now open window. A hooded figure, frozen like a statue, standing next to my bed proclaims that it has been sighted in my stars a prophecy!;;;;;;;;;;;ß ïðîñíó[Root.GetLasLsya] ñðåäè íî÷è îò æóòêîãî ñêâîçíÿêà. Æóòêàÿ ôèãóðà â ò¸ìíîì áàëàõîíå ñòîÿëà ó ìîåé ïîñòåëè, êàê çàñòûâøàÿ ñòàòóÿ. Ìðà÷íûì ãîëîñîì îíà ìîëâèëà, ÷òî çâ¸çäû óãîòîâèëè ìíå îñîáóþ ñóäüáó!;;x
+EVTDESCHF7;Exhausted, frozen, and worn out I finally reach a peak in the mountains. Just as my mind is filling up with doubts about my own sanity trusting a strangers foretold prophecy, a bright light shoots across the sky and comes crashing down in the forest at the roots of the mountain.;;;;;;;;;;;Èçìîæä¸íí[Root.GetAyaYy] è îêî÷åíåâø[Root.GetAyaYy] îò õîëîäà, ÿ íàêîíåö äîñòèã[Root.GetNoneE] âåðøèíû ãîðû. Ïîêà ìîé ðàçóì ïåðåïîëíÿëè ñîìíåíèÿ â ñîáñòâåííîì çäðàâîìûñëèè èç-çà íåîáîñíîâàííîé âåðû â íåëåïûå ïðîðî÷åñòâà, ÿðêèé ñâåò, îçàðèâøèé íåáî, îñâåòèë êðàé ëåñíûõ çàðîñëåé ó ïîäíîæèÿ ãîðíîãî õðåáòà.;;x
+EVTDESCHF8;The words are still haunting me in my dreams. My mind just can't let go of the fairytale prophecy the lunatic driveled in my private quarters many nights ago.;;;;;;;;;;;Ñëîâà ïðîðî÷åñòâà íèêàê íå âûõîäÿò èç ìîåé ãîëîâû. Îíè ïðåñëåäóþò ìåíÿ ïî íî÷àì, â ìîèõ ñíàõ. Ìîé ðàçóì îòêàçûâàåòñÿ çàáûâàòü èäåè î ñêàçî÷íûõ áàñíÿõ, êîòîðûå êàêîé-òî ÷îêíóòûé â êàïþøîíå íàãîâîðèë ìíå íî÷üþ â ì[Root.GetMyChamberPREP] íåñêîëüêî äíåé íàçàä.;;x
+EVTDESCHF9;After trudging through the thick forest the whole day and evening I reach a moonlit glade late in the night. At the end of the glade there's a small pond shining in silver. Next to the pond lies a lustrous body suspended in time. Except for the small and steady stream of blood that's still seeping out from a cut under the belly, the grandiose being of a unicorn could have just as well been sleeping from eternity and beyond - a mesmerizing sight. Without any option to re-animate this wonder of nature I'm left with a difficult choice of what to do since the carcass is too heavy to bring home as a whole.;;;;;;;;;;;Âåñü äåíü ïðîäèðàÿñü ÷åðåç çàðîñëè, ê íî÷è ÿ äîñòèã[Root.GetNoneE] ïîëÿíû, çàëèòîé ëóííûì ñâåòîì. Âïåðåäè áûë íåáîëüøîé ïðóä, ñèÿþùèé ïîäîáíî ñåðåáðÿíîìó áëþäó. Âîçëå íåãî ëåæàëî ïðåêðàñíîå òåëî, çàñòûâøåå âî âðåìåíè, êðîâü ñòðóèëàñü èç ðàíû â åãî æèâîòå. Ýòî áûë âåëè÷åñòâåííûé åäèíîðîã, ìèðíî ñïÿùèé â âå÷íîñòè - çàâîðàæèâàþùåå çðåëèùå. Íå áûëî íèêàêîé âîçìîæíîñòè ñïàñòè æèçíü ýòîãî ÷óäåñíîãî ñóùåñòâà, è ÿ âñòàë[Root.GetEndA] ïåðåä òðóäíûì âûáîðîì. ß íå ìîãó óíåñòè åãî îòñþäà öåëèêîì.;;x
+EVTDESCHF10;Arriving at the forest a week later, we spent days thoroughly searching it for any clues to the bright light that fell from the sky. Despite the fact that nothing turned out of the expedition, the light in the sky still has to mean something;;;;;;;;;;;Ñïóñòÿ íåäåëþ ìû ïðèøëè â ëåñ. Äíè íàïðîë¸ò ìû èñêàëè òî ñàìîå ìåñòî, íî âñ¸ òùåòíî. Íåñìîòðÿ íà òîò ôàêò, ÷òî ýêñïåäèöèÿ ïðîâàëèëàñü, áûëî ñîâåðøåííî ÿñíî - ýòîò ñâåò â íåáå ÷òî-òî çíà÷èë.;;x
+EVTDESCHF11;I can't even tell if it was reality or just a dream any more, but ever since I visited the unicorn glade I have seen something glimmering when I've caught my own reflection in other people's eyes.;;;;;;;;;;;Ïðîøëè íåäåëè ñ òîãî ñîáûòèÿ íà ïîëÿíå, è òåïåðü ÿ óæå ñîìíåâàþñü, áûëî ëè ýòî íàÿâó èëè âñåãî ëèøü ñíîì, íî ñ òåõ ïîð ÿ ÷óâñòâóþ ÷òî-òî íåîáúÿñíèìîå. Îíî ñëîâíî ñâåòèòñÿ âíóòðè ìåíÿ è îòðàæàåòñÿ â ãëàçàõ äðóãèõ.;;x
+EVTOPTAHF6;Listen to the prophecy;;;;;;;;;;;Âûñëóøàòü ïðîðî÷åñòâî;;x
+EVTOPTAHF7;I must follow the signs of the prophecy;;;;;;;;;;;ß äîëæ[Root.GetNaEn] îòïðàâèòüñÿ òóäà.;;x
+EVTOPTAHF8;My sanity is at stake – I need to see this through;;;;;;;;;;;ß òàê ñ óìà ñîéäó - ìíå íóæíî ýòî ïðîâåðèòü!;;x
+EVTOPTAHF9;Give it a proper burial;;;;;;;;;;;Ïîõîðîíèòü åãî;;x
+EVTOPTAHF10;A sign of a blessing upon my rule;;;;;;;;;;;Ýòî áûë çíàê! Ìî¸ ïðàâëåíèå îñâÿùåíî íåáåñàìè!;;x
+EVTOPTAHF11;And they now seem to hold me in a higher regard;;;;;;;;;;;Îíè òåïåðü óâàæàþò ìåíÿ ãîðàçäî áîëüøå.;;x
+EVTOPTBHF6;Guards! Arrest this mad intruder!;;;;;;;;;;;Ñòðàæà! Àðåñòóéòå íàðóøèòåëÿ!;;x
+EVTOPTBHF7;Those thick woods are dangerous;;;;;;;;;;;Ýòîò ëåñ âûãëÿäèò îïàñíûì.;;x
+EVTOPTBHF8;My mind has been poisoned - this is clearly a trap!;;;;;;;;;;;Ìîé óì îòðàâëåí - ýòî íàâåðíÿêà êàêàÿ-òî ëîâóøêà!;;x
+EVTOPTBHF9;Cup your hands and start drinking the blood;;;;;;;;;;;Èñïèòü åãî êðîâè;;x
+EVTOPTCHF9;Save the magnificent mane;;;;;;;;;;;Âçÿòü åãî ñâåðêàþùóþ ãðèâó;;x
+EVTOPTDHF9;Cut the horn and bring it home;;;;;;;;;;;Ñïèëèòü åãî ðîã è çàáðàòü ñ ñîáîé;;x
+EVTTOOLTIPAHF6;According to the prophecy I should look for further signs up in the mountains.;;;;;;;;;;;Ñîãëàñíî ïðîðî÷åñòâó ìíå ñëåäóåò èñêàòü äàëüíåéøèå ïîäñêàçêè â ãîðàõ.;;x
+EVTTOOLTIPAHF7;Follow the light – wherever it takes you.;;;;;;;;;;;Èäòè çà ñâåòîì, êóäà áû îí Âàñ íå çàâ¸ë.;;x
+EVTTOOLTIPAHF8;Head out for the mountains in the prophecy.;;;;;;;;;;;Îòïðàâèòüñÿ â ãîðû, î êîòîðûõ ãîâîðèëîñü â ïðîðî÷åñòâå.;;x
+EVTTOOLTIPBHF7;Head home to gather a search party before heading out to the woods.;;;;;;;;;;;Îòïðàâèòüñÿ äîìîé, ÷òîáû ñîáðàòü ðàçâåäãðóïïó, ïðåæäå ÷åì èäòè â ëåñ.;;x
+EVTTOOLTIPBHF8;You do not trust even your own instincts right now.;;;;;;;;;;;Â íàñòîÿùèé ìîìåíò Âû íå äîâåðÿåòå äàæå ñâîèì èíñòèíêòàì.;;x
+EVTTITLEHF9;A Prophecy Foretold;;;;;;;;;;;Ïðîðî÷åñòâî;;x

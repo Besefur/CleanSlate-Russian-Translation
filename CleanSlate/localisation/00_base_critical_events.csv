@@ -1,14 +1,10 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC6500;Slaying the king of the forest demands proper celebration with wine, singing and...;;;;;;;;;;;;;x
-EVTDESC6501;...Marco...;;;;;;;;;;;;;x
-EVTDESC6502;A small kitty is demanding your attention.;;;;;;;;;;;;;x
-
-EVTOPTA6500;one woman;;;;;;;;;;;;;x
-EVTOPTA6501;...Polo...;;;;;;;;;;;;;x
-EVTOPTA6502;Pat the kitty;;;;;;;;;;;;;x
-
-EVTOPTB6500;two women;;;;;;;;;;;;;x
-EVTOPTB6502;Kick the kitty;;;;;;;;;;;;;x
-
-EVTOPTC6502;Allow the kitten to follow you home;;;;;;;;;;;;;x
+EVTDESC6500;Slaying the king of the forest demands proper celebration with wine, singing and...;;;;;;;;;;;Óáèéñòâî öàðÿ ëåñîâ òðåáóåò íàäëåæàùåãî ïðàçäíîâàíèÿ ñ âèíîì, ïåñíÿìè è...;;x
+EVTDESC6501;...Marco...;;;;;;;;;;;...Ìàðêî...;;x
+EVTDESC6502;A small kitty is demanding your attention.;;;;;;;;;;;Ìàëåíüêèé êîò¸íîê òðåáóåò Âàøåãî âíèìàíèÿ.;;x
+EVTOPTA6500;one woman;;;;;;;;;;;æåíùèíîé;;x
+EVTOPTA6501;...Polo...;;;;;;;;;;;...Ïîëî...;;x
+EVTOPTA6502;Pat the kitty;;;;;;;;;;;Ïîãëàäèòü êîò¸íêà.;;x
+EVTOPTB6500;two women;;;;;;;;;;;äâóìÿ æåíùèíàìè;;x
+EVTOPTB6502;Kick the kitty;;;;;;;;;;;Óäàðèòü êîò¸íêà;;x
+EVTOPTC6502;Allow the kitten to follow you home;;;;;;;;;;;Âçÿòü ïóøèñòîå ñîçäàíèå ê ñåáå äîìîé.;;x

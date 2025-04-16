@@ -1,28 +1,25 @@
-EVTDESC_ZE_2021;I can't stand it any more! Every time we have a visitor from another realm in the court of the [From.GetTitle], [From.GetTitledFirstName] makes a fool of [From.GetHerselfHimself] trying to impress our visitors with [From.GetHerHis] non-existent knowledge of foreign languages.;;;;;;;;;;;;;x
-EVTDESC_ZE_2022;My [Root.GetChancellorName] [language_teacher.GetTitledFirstName] kindly suggests that it would be of benefit to the realm if I studied the languages spoken at foreign courts. [language_teacher.GetSheHeCap] also offers [language_teacher.GetHerselfHimself] to aid me in my studies.;;;;;;;;;;;;;x
-EVTDESC_ZE_2024;Without the support of [language_teacher.GetTitledFirstName], your study sessions seem to be few and far between. You increasingly feel that the challenge is just too great to tackle on your own.;;;;;;;;;;;;;x
-EVTDESC_ZE_2025;Your determination and hard work has paid off. Studying with [language_teacher.GetTitledFirstName], you have learned several new languages to a decent level of fluency. This will surely increase your prestige at foreign courts!;;;;;;;;;;;;;x
-EVTDESC_ZE_2026;Distractions seem to overwhelm you during your studies. The simplest pleasures, and even plain and mundane chores, seem like time better spent than drowning in books all evening. How does one manage to keep focused when everything else is so much more appealing?;;;;;;;;;;;;;x
-EVTDESC_ZE_2027;[Root.GetChancellorName] [language_teacher.GetTitledFirstName] has a look of parental disappointment in [language_teacher.GetHerHis] eyes. 'I believe you could have done this well if only you'd put your mind to it. Unfortunately your disinterest is all too apparent in your absence from our meetings. With your permission, I will henceforth focus on more useful work instead of waiting for you, my Liege.';;;;;;;;;;;;;x
-EVTDESC_ZE_2028;[From.GetTitledFirstName] took offense at your offer of helping [From.GetHerHim] with [From.GetHerHis] language studies.;;;;;;;;;;;;;x
-EVTDESC_ZE_2029;[From.GetTitledFirstName] expressed [From.GetHerHis] gratitude for my offer to tutor [From.GetHerHim] in the languages of foreign courts. [From.GetFirstName] also commended me for the extra effort I put in for the sake of the realm.;;;;;;;;;;;;;x
-EVTDESC_ZE_2030;While walking down the corridor a local peasant runs up to me with panic in his eyes: 'I came here to ask for aid since some of my sheep got killed by wild animals but now I just need to get out of here. I've already paid a dozen fees and been stuck in different rooms for hours in supposed 'queues' but I saw no-one else there. Please help my poor soul!';;;;;;;;;;;;;x
-
-EVTOPTA_ZE_2021;I'll have to tutor [From.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTA_ZE_2022;An excellent idea!;;;;;;;;;;;;;x
-EVTOPTA_ZE_2024;At least I made an effort.;;;;;;;;;;;;;x
-EVTOPTA_ZE_2025;I knew I could do it!;;;;;;;;;;;;;x
-EVTOPTA_ZE_2026;If I learn even a few phrases, it will be worth it!;;;;;;;;;;;;;x
-EVTOPTA_ZE_2027;You will watch your tongue or lose it!;;;;;;;;;;;;;x
-EVTOPTA_ZE_2028;[From.GetHerHisCap] bad manners won't do [From.GetHerHim] any good.;;;;;;;;;;;;;x
-EVTOPTA_ZE_2030;Put [Root.job_chancellor.GetFirstName] in prison for [Root.job_chancellor.GetHerHis] bureaucratic scheme.;;;;;;;;;;;;;x
-
-EVTOPTB_ZE_2021;This shouldn't bother me.;;;;;;;;;;;;;x
-EVTOPTB_ZE_2022;If they can't speak [Root.Culture.GetName] they are not important.;;;;;;;;;;;;;x
-EVTOPTB_ZE_2026;I guess learning languages is not for everyone.;;;;;;;;;;;;;x
-EVTOPTB_ZE_2027;Although I learned less than expected, I thank you for your time.;;;;;;;;;;;;;x
-EVTOPTB_ZE_2030;I'll let [Root.job_chancellor.GetFirstName]'s scheme slip by for now.;;;;;;;;;;;;;x
-
-EVTTOOLTIP_ZE_2021;Hears my offer to tutor [From.GetHerHim].;;;;;;;;;;;;;x
-EVTTOOLTIP_ZE_2022;Studies begin.;;;;;;;;;;;;;x
-EVTTOOLTIP_ZE_2026;Language studies abandoned.;;;;;;;;;;;;;x
+EVTDESC_ZE_2021;I can't stand it any more! Every time we have a visitor from another realm in the court of the [From.GetTitle], [From.GetTitledFirstName] makes a fool of [From.GetHerselfHimself] trying to impress our visitors with [From.GetHerHis] non-existent knowledge of foreign languages.;;;;;;;;;;;Ýòî ïðîñòî íåâûíîñèìî! Âñÿêèé ðàç, êîãäà ê íàì ïðèåçæàåò ãîñòü èç äðóãèõ çåìåëü, [From.GetTitledFirstName] ïûòàåòñÿ âïå÷àòëèòü åãî, íåñÿ òàðàáàðùèíó âûäàâàåìóþ çà âèðòóîçíîå âëàäåíèå èíîñòðàííûì ÿçûêîì.;;x
+EVTDESC_ZE_2022;My [Root.GetChancellorName] [language_teacher.GetTitledFirstName] kindly suggests that it would be of benefit to the realm if I studied the languages spoken at foreign courts. [language_teacher.GetSheHeCap] also offers [language_teacher.GetHerselfHimself] to aid me in my studies.;;;;;;;;;;;Ìîé [Root.GetChancellorName] [language_teacher.GetTitledFirstName] ëþáåçíî ïðåäëàãàåò ïîìî÷ü ìíå ñ èçó÷åíèåì èíîñòðàííûõ ÿçûêîâ. [language_teacher.GetSheHeCap] ñ÷èòàåò, ÷òî ìíå, äà è ñòðàíå â öåëîì, ýòî ïîøëî áû íà ïîëüçó.;;x
+EVTDESC_ZE_2024;Without the support of [language_teacher.GetTitledFirstName], your study sessions seem to be few and far between. You increasingly feel that the challenge is just too great to tackle on your own.;;;;;;;;;;;Ñòàíîâèòñÿ î÷åâèäíûì, ÷òî êîãäà [language_teacher.GetTitledFirstName] Âàì íå ïîìîãàåò, Âàøè çàíÿòèÿ ïðèíîñÿò ìàëî ïîëüçû. Âû íà÷èíàåòå ïîíèìàòü, ÷òî ýòà çàäà÷à íåïîñèëüíà äëÿ ñàìîñòîÿòåëüíîãî îáó÷åíèÿ.;;x
+EVTDESC_ZE_2025;Your determination and hard work has paid off. Studying with [language_teacher.GetTitledFirstName], you have learned several new languages to a decent level of fluency. This will surely increase your prestige at foreign courts!;;;;;;;;;;;Âàøà öåëåóñòðåìë¸ííîñòü è óïîðíûé òðóä ïðèíîñÿò ñâîè ïëîäû. Âû îñâîèëè íåñêîëüêî ÿçûêîâ, è âëàäååòå èìè íà äîñòàòî÷íî âûñîêîì óðîâíå. Åñëè áû íå [language_teacher.GetTitledFirstName] è [language_teacher.GetHersHis] óðîêè, Âû íèêîãäà íå äîñòèãëè áû òàêèõ óñïåõîâ. Òåïåðü Âàø ïðåñòèæ çà ðóáåæîì çíà÷èòåëüíî âûðàñòåò!;;x
+EVTDESC_ZE_2026;Distractions seem to overwhelm you during your studies. The simplest pleasures, and even plain and mundane chores, seem like time better spent than drowning in books all evening. How does one manage to keep focused when everything else is so much more appealing?;;;;;;;;;;;Ïîõîæå, Âàì íå òàê-òî ïðîñòî ñîñðåäîòî÷èòüñÿ íà ó÷¸áå, ïðîñòûå óäîâîëüñòâèÿ, áûòîâûå çàáîòû, ÷òî óãîäíî ëó÷øå ÷åì ýòè ñêó÷íûå êíèãè. Êàê òîëüêî ëþäÿì óäà¸òñÿ äåðæàòü ñâî¸ âíèìàíèå íà ÷¸ì-òî äíè íàïðîë¸ò, êîãäà âîêðóã ñòîëüêî èíòåðåñíîãî?;;x
+EVTDESC_ZE_2027;[Root.GetChancellorName] [language_teacher.GetTitledFirstName] has a look of parental disappointment in [language_teacher.GetHerHis] eyes. 'I believe you could have done this well if only you'd put your mind to it. Unfortunately your disinterest is all too apparent in your absence from our meetings. With your permission, I will henceforth focus on more useful work instead of waiting for you, my Liege.';;;;;;;;;;;"Âñåì ñâîèì âèäîì [Root.GetChancellorName] [language_teacher.GetTitledFirstName] ïîêàçûâàë[language_teacher.GetEndA] ðàçî÷àðîâàíèå: ""[Root.PrimaryTitle.GetFOA], ÿ âåðþ, ÷òî Âû ìîæåòå äîáèòüñÿ óñïåõà, íî òîëüêî, åñëè èñêðåííå çàõîòèòå ýòîãî. Ê ñîæàëåíèþ, íàøè ñ Âàìè âñòðå÷è ðåäêè, è ýòî ïîêàçûâàåò íàñêîëüêî áåçðàçëè÷íû Âû ê ïðåäìåòó. Ñ Âàøåãî ïîçâîëåíèÿ, ÿ ëó÷øå çàéìóñü áîëåå íàñóùíûìè äåëàìè"".";;x
+EVTDESC_ZE_2028;[From.GetTitledFirstName] took offense at your offer of helping [From.GetHerHim] with [From.GetHerHis] language studies.;;;;;;;;;;;[From.GetTitledFirstName] âîñïðèíÿë[From.GetEndA] â øòûêè Âàøå ïðåäëîæåíèå ïîìî÷ü [From.GetHerHim] ñ èçó÷åíèåì èíîñòðàííûõ ÿçûêîâ.;;x
+EVTDESC_ZE_2029;[From.GetTitledFirstName] expressed [From.GetHerHis] gratitude for my offer to tutor [From.GetHerHim] in the languages of foreign courts. [From.GetFirstName] also commended me for the extra effort I put in for the sake of the realm.;;;;;;;;;;;[From.GetTitledFirstName] áûë[From.GetEndA] âåñüìà ïðèçíàòåë[From.GetSoftNaEn] ìíå çà ïðåäëîæåíèå ïîìî÷ü [From.GetHerHim] ñ èçó÷åíèåì èíîñòðàííûõ ÿçûêîâ. [From.GetSheHeCap] äàæå ïóáëè÷íî âûðàçèë[From.GetEndA] ìíå îñîáóþ áëàãîäàðíîñòü çà ìîè ñòðåìëåíèÿ íà áëàãî ãîñóäàðñòâà.;;x
+EVTDESC_ZE_2030;While walking down the corridor a local peasant runs up to me with panic in his eyes: 'I came here to ask for aid since some of my sheep got killed by wild animals but now I just need to get out of here. I've already paid a dozen fees and been stuck in different rooms for hours in supposed 'queues' but I saw no-one else there. Please help my poor soul!';;;;;;;;;;;"Êîãäà ÿ ø[Root.GetLaYol] ïî êîðèäîðó, íàâñòðå÷ó ìíå âíåçàïíî âûñêî÷èë êðåñòüÿíèí. Ñ óæàñîì â ãëàçàõ, îí íà÷àë ïðè÷èòàòü: ""[Root.PrimaryTitle.GetFOA]! Ïðîøó, ïîìîãèòå. Ìîèõ îâåö ðàñòåðçàëè äèêèå çâåðè. Ýòî óæàñíî, íî ñåé÷àñ ÿ õî÷ó òîëüêî îäíîãî - âûáðàòüñÿ îòñþäà! ß çàïëàòèë ïîøëèíó, ñòîÿë ÷àñàìè â î÷åðåäÿõ. Îòïóñòèòå ìåíÿ!""";;x
+EVTOPTA_ZE_2021;I'll have to tutor [From.GetHerHim].;;;;;;;;;;;ß îáó÷ó [From.GetHersHis].;;x
+EVTOPTA_ZE_2022;An excellent idea!;;;;;;;;;;;Îòëè÷íàÿ èäåÿ!;;x
+EVTOPTA_ZE_2024;At least I made an effort.;;;;;;;;;;;Íó ÿ õîòÿ áû ïîïûòà[Root.GetLasLsya].;;x
+EVTOPTA_ZE_2025;I knew I could do it!;;;;;;;;;;;ß çíàë[Root.GetEndA], ÷òî ñìîãó!;;x
+EVTOPTA_ZE_2026;If I learn even a few phrases, it will be worth it!;;;;;;;;;;;Åñëè ÿ ñìîãó çàïîìíèòü ïàðó ôðàç, äåíü ïðîø¸ë íå çðÿ!;;x
+EVTOPTA_ZE_2027;You will watch your tongue or lose it!;;;;;;;;;;;Ñëåäèòå çà ñâîèì ÿçûêîì èëè ëèøèòåñü åãî!;;x
+EVTOPTA_ZE_2028;[From.GetHerHisCap] bad manners won't do [From.GetHerHim] any good.;;;;;;;;;;;Äóðíûå ìàíåðû äî äîáðà íå äîâåäóò.;;x
+EVTOPTA_ZE_2030;Put [Root.job_chancellor.GetFirstName] in prison for [Root.job_chancellor.GetHerHis] bureaucratic scheme.;;;;;;;;;;;[Root.GetChancellorName] îòïðàâèòñÿ â òåìíèöó.;;x
+EVTOPTB_ZE_2021;This shouldn't bother me.;;;;;;;;;;;Íî ýòî ìåíÿ íå êàñàåòñÿ.;;x
+EVTOPTB_ZE_2022;If they can't speak [Root.Culture.GetName] they are not important.;;;;;;;;;;;Íå çíàþò [Root.GetLangAdjective]èé ÿçûê - èõ ïðîáëåìû.;;x
+EVTOPTB_ZE_2026;I guess learning languages is not for everyone.;;;;;;;;;;;Ïîëàãàþ, íå êàæäîìó íàäî èçó÷àòü ÿçûêè.;;x
+EVTOPTB_ZE_2027;Although I learned less than expected, I thank you for your time.;;;;;;;;;;;Áëàãîäàðþ Âàñ çà ïîòðà÷åííîå âðåìÿ.;;x
+EVTOPTB_ZE_2030;I'll let [Root.job_chancellor.GetFirstName]'s scheme slip by for now.;;;;;;;;;;;×òî æ, áûâàåò... Ïðîâîäèòå åãî.;;x
+EVTTOOLTIP_ZE_2021;Hears my offer to tutor [From.GetHerHim].;;;;;;;;;;;Óñëûøèò ìî¸ ïðåäëîæåíèå ó÷èòü [From.GetHersHis].;;x
+EVTTOOLTIP_ZE_2022;Studies begin.;;;;;;;;;;;Ó÷¸áà íà÷èíàåòñÿ.;;x
+EVTTOOLTIP_ZE_2026;Language studies abandoned.;;;;;;;;;;;Èçó÷åíèå ÿçûêà ïðåêðàòèòñÿ.;;x

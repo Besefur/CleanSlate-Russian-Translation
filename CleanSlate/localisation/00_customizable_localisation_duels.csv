@@ -1,345 +1,301 @@
 # GetDuelWeapon
-String_long_sword;long sword;;;;;;;;;;;;;x
-String_short_sword;short sword;;;;;;;;;;;;;x
-String_bastard_sword;bastard sword;;;;;;;;;;;;;x
-String_jian_sword;jian;;;;;;;;;;;;;x
-String_jewelled_sword;jewel encrusted sword;;;;;;;;;;;;;x
-String_wooden_sword;wooden sword;;;;;;;;;;;;;x
-String_battle_axe;battle axe;;;;;;;;;;;;;x
-String_flanged_mace;flanged mace;;;;;;;;;;;;;x
-String_maul;maul;;;;;;;;;;;;;x
-String_morning_star;morning star;;;;;;;;;;;;;x
-String_wooden_staff;wooden staff;;;;;;;;;;;;;x
-String_wooden_club;wooden club;;;;;;;;;;;;;x
-String_practice_spear;dull spear;;;;;;;;;;;;;x
-String_bare_hands;bare hands;;;;;;;;;;;;;x
-String_gun;gun;;;;;;;;;;;;;x
-String_my_artifact_weapon_1;[dueling_weapon_1.GetName];;;;;;;;;;;;;x
-String_my_artifact_weapon_2;[dueling_weapon_2.GetName];;;;;;;;;;;;;x
-
+String_long_sword;long sword;;;;;;;;;;;äëèííûé ìå÷;;x
+String_short_sword;short sword;;;;;;;;;;;êîðîòêèé ìå÷;;x
+String_bastard_sword;bastard sword;;;;;;;;;;;ïîëóòîðíûé ìå÷;;x
+String_jian_sword;jian;;;;;;;;;;;Öçÿíü;;x
+String_jewelled_sword;jewel encrusted sword;;;;;;;;;;;äåêîðàòèâíûé ìå÷;;x
+String_wooden_sword;wooden sword;;;;;;;;;;;äåðåâÿííûé ìå÷;;x
+String_battle_axe;battle axe;;;;;;;;;;;áîåâàÿ ñåêèðà;;x
+String_flanged_mace;flanged mace;;;;;;;;;;;áóëàâà;;x
+String_maul;maul;;;;;;;;;;;ìîëîò;;x
+String_morning_star;morning star;;;;;;;;;;;ìîðãåíøòåðí;;x
+String_wooden_staff;wooden staff;;;;;;;;;;;äåðåâÿííûé ïîñîõ;;x
+String_wooden_club;wooden club;;;;;;;;;;;äåðåâÿííàÿ äóáèíà;;x
+String_practice_spear;dull spear;;;;;;;;;;;òóïîå êîïü¸;;x
+String_bare_hands;bare hands;;;;;;;;;;;êóëàêè;;x
+String_gun;gun;;;;;;;;;;;ïèñòîëåò;;x
+String_my_artifact_weapon_1;[dueling_weapon_1.GetName];;;;;;;;;;;[dueling_weapon_1.GetArtifactWeaponName];;x
+String_my_artifact_weapon_2;[dueling_weapon_2.GetName];;;;;;;;;;;[dueling_weapon_2.GetArtifactWeaponName];;x
 # GetBodyPartInjured
-String_eye;eye;;;;;;;;;;;;;x
-String_hand;hand;;;;;;;;;;;;;x
-String_leg;leg;;;;;;;;;;;;;x
-String_face;face;;;;;;;;;;;;;x
-String_chest;chest;;;;;;;;;;;;;x
-String_body;body;;;;;;;;;;;;;x
-String_shoulder;shoulder;;;;;;;;;;;;;x
-
+String_eye;eye;;;;;;;;;;;ãëàç;;x
+String_hand;hand;;;;;;;;;;;ðóêà;;x
+String_leg;leg;;;;;;;;;;;íîãà;;x
+String_face;face;;;;;;;;;;;ëèöî;;x
+String_chest;chest;;;;;;;;;;;ãðóäü;;x
+String_body;body;;;;;;;;;;;òåëî;;x
+String_shoulder;shoulder;;;;;;;;;;;ïëå÷î;;x
 # GetWeaponInjuringBlow
-String_severely_tear_body_part;tear a severe gash across [This.GetHerHis] [This.GetBodyPartInjured];;;;;;;;;;;;;x
-String_severely_break_body_part;bruise, if not break, something deep in [This.GetHerHis] [This.GetBodyPartInjured];;;;;;;;;;;;;x
-String_severely_injure_eye;make [This.GetHerHis] eyes bleed, possibly blinding [This.GetHerHim];;;;;;;;;;;;;x
-String_severely_shot;ricochet a shot, grazing [This.GetHerHis] [This.GetBodyPartInjured];;;;;;;;;;;;;x
-String_severely_shot_eyes;slam my [Root.GetDuelWeapon] into [This.GetHerHis] [This.GetBodyPartInjured];;;;;;;;;;;;;x
-String_cut_body_part_off;slice half of [This.GetHerHis] [This.GetBodyPartInjured] completely off;;;;;;;;;;;;;x
-String_cut_their_body_part_out;cut [This.GetHerHis] [This.GetBodyPartInjured] out;;;;;;;;;;;;;x
-String_sever_their_body_part_from_body;sever [This.GetHerHis] [This.GetBodyPartInjured] from [This.GetHerHis] body;;;;;;;;;;;;;x
-String_crush_their_body_part;with a single blow crush [This.GetHerHis] [This.GetBodyPartInjured];;;;;;;;;;;;;x
-String_pierce_body_part_through;pierce through [This.GetHerHis] [This.GetBodyPartInjured];;;;;;;;;;;;;x
-String_take_body_part_out;take [This.GetHerHis] [This.GetBodyPartInjured] out, a sight more gruesome than I expected;;;;;;;;;;;;;x
-String_stick_body_part_out;slash across [This.GetHerHis] face, taking [This.GetHerHis] [This.GetBodyPartInjured] out;;;;;;;;;;;;;x
-String_crack_bones_of_body_part;break several of the bones in [This.GetHerHis] [This.GetBodyPartInjured];;;;;;;;;;;;;x
-String_slam_into_their_face;slam my [Root.GetDuelWeapon] into [other_combatant.GetHerHis] [other_combatant.GetBodyPartInjured], soaking [other_combatant.GetHerHim] in [other_combatant.GetHerHis] own blood;;;;;;;;;;;;;x
-String_smack_hard_across_body_part;smack my [Root.GetDuelWeapon] down, hard, across [This.GetHerHis] [This.GetBodyPartInjured];;;;;;;;;;;;;x
-String_shot_not_lethal;fire my [Root.GetDuelWeapon] at [This.GetHerHis] [This.GetBodyPartInjured], the sound shocking even myself;;;;;;;;;;;;;x
-String_shot_not_lethal_eyes;fire at my opponent's head, covering [This.GetHerHis] face in blood;;;;;;;;;;;;;x
-String_slam_their_head;smack my [Root.GetDuelWeapon] into the side of [other_combatant.GetHerHis] head;;;;;;;;;;;;;x
-String_slam_their_limb;whack my [Root.GetDuelWeapon] into [other_combatant.GetHerHis] [other_combatant.GetBodyPartInjured];;;;;;;;;;;;;x
-String_slam_their_body;bash my [Root.GetDuelWeapon] down, hard, across [other_combatant.GetHerHis] [other_combatant.GetBodyPartInjured];;;;;;;;;;;;;x
-String_crack_ribs;crack several of [This.GetHerHis] ribs;;;;;;;;;;;;;x
-String_smack_across_body_part;smack my [Root.GetDuelWeapon] flat across [This.GetHerHis] [This.GetBodyPartInjured];;;;;;;;;;;;;x
-String_trip_them;swing my [Root.GetDuelWeapon] in a perfect half-circle, causing [This.GetHerHim] to fall backwards with a surprised 'huff';;;;;;;;;;;;;x
-String_hit_them_in_body_part;land a perfect blow to [This.GetHerHis] [This.GetBodyPartInjured];;;;;;;;;;;;;x
-String_hit_them_in_the_face;hit [This.GetHerHim] square in the jaw, causing [This.GetHerHim] to stagger backwards in confusion;;;;;;;;;;;;;x
-String_knock_them_out;kick [This.GetHerHim] straight in the gut;;;;;;;;;;;;;x
-String_shoot_mild;rip the ground apart with a shot, startling my opponent into tripping over [This.GetHerselfHimself];;;;;;;;;;;;;x
-String_shoot_them_dead;shoot [This.GetHerHim] straight in the [This.GetBodyPartInjured];;;;;;;;;;;;;x
-String_crush_their_head;with one perfect blow crush [This.GetHerHis] head in;;;;;;;;;;;;;x
-String_put_the_spear_through_their_head;put the spear through [This.GetHerHis] head;;;;;;;;;;;;;x
-String_sever_their_head_from_their_body;sever [This.GetHerHis] head from [This.GetHerHis] body;;;;;;;;;;;;;x
-String_shoot_them_actually_dead;blow a hole into [This.GetHerHis] chest;;;;;;;;;;;;;x
-String_injure_them;injure [This.GetHerHim];;;;;;;;;;;;;x
-
+String_severely_tear_body_part;tear a severe gash across [This.GetHerHis] [This.GetBodyPartInjured];;;;;;;;;;;íàíåñ[Root.GetNoneE] óäàð ñâ[Root.GetMyDuelWeaponINS] [This.GetHerHim] â [This.GetBodyPartInjuredACC];;x
+String_severely_break_body_part;bruise, if not break, something deep in [This.GetHerHis] [This.GetBodyPartInjured];;;;;;;;;;;ðàçìîçæèë[Root.GetEndA] [This.GetHerHim] [This.GetBodyPartInjuredACC];;x
+String_severely_injure_eye;make [This.GetHerHis] eyes bleed, possibly blinding [This.GetHerHim];;;;;;;;;;;ðàíèë[Root.GetEndA] [This.GetHersHis] â ãëàç;;x
+String_severely_shot;ricochet a shot, grazing [This.GetHerHis] [This.GetBodyPartInjured];;;;;;;;;;;âûñòðåëèë[Root.GetEndA] â í[This.GetHersHis], ïóëÿ ñðèêîøåòèëà è ïîïàëà [This.GetHerHim] [This.GetBodyPartInjuredACC];;x
+String_severely_shot_eyes;slam my [Root.GetDuelWeapon] into [This.GetHerHis] [This.GetBodyPartInjured];;;;;;;;;;;íàïðàâèë[Root.GetEndA] íà í[This.GetHersHis] ñâ[Root.GetMyDuelWeaponACC] è âûñòðåëèë[Root.GetEndA] [This.GetHerHim] â [This.GetBodyPartInjuredACC];;x
+String_cut_body_part_off;slice half of [This.GetHerHis] [This.GetBodyPartInjured] completely off;;;;;;;;;;;îòñåê[Root.GetNoneE] [This.GetHerHim] [This.GetBodyPartInjuredACC];;x
+String_cut_their_body_part_out;cut [This.GetHerHis] [This.GetBodyPartInjured] out;;;;;;;;;;;ðàññåê[Root.GetNoneE] [This.GetHerHim] ëèöî;;x
+String_sever_their_body_part_from_body;sever [This.GetHerHis] [This.GetBodyPartInjured] from [This.GetHerHis] body;;;;;;;;;;;âñïîðîë[Root.GetEndA] [This.GetHerHim] [This.GetBodyPartInjuredACC];;x
+String_crush_their_body_part;with a single blow crush [This.GetHerHis] [This.GetBodyPartInjured];;;;;;;;;;;ðàñêðîèë[Root.GetEndA] [This.GetHerHim] [This.GetBodyPartInjuredACC];;x
+String_pierce_body_part_through;pierce through [This.GetHerHis] [This.GetBodyPartInjured];;;;;;;;;;;ïðîíçèë[Root.GetEndA] [This.GetHersHis] [This.GetBodyPartInjuredACC];;x
+String_take_body_part_out;take [This.GetHerHis] [This.GetBodyPartInjured] out, a sight more gruesome than I expected;;;;;;;;;;;âûêîëîë[Root.GetEndA] [This.GetHerHim] ãëàç;;x
+String_stick_body_part_out;slash across [This.GetHerHis] face, taking [This.GetHerHis] [This.GetBodyPartInjured] out;;;;;;;;;;;ïîëîñíóë[Root.GetEndA] [This.GetHerHim] ïî ëèöó, çàäåâ ãëàçà;;x
+String_crack_bones_of_body_part;break several of the bones in [This.GetHerHis] [This.GetBodyPartInjured];;;;;;;;;;;îäíèì óäàðîì ïåðåëîìàë[Root.GetEndA] [This.GetHerHim] ïàðó êîñòåé;;x
+String_slam_into_their_face;slam my [Root.GetDuelWeapon] into [other_combatant.GetHerHis] [other_combatant.GetBodyPartInjured], soaking [other_combatant.GetHerHim] in [other_combatant.GetHerHis] own blood;;;;;;;;;;;ñèëüíûì óäàðîì ïðîëîìèë[Root.GetEndA] [This.GetHerHim] ãîëîâó;;x
+String_smack_hard_across_body_part;smack my [Root.GetDuelWeapon] down, hard, across [This.GetHerHis] [This.GetBodyPartInjured];;;;;;;;;;;íàíåñ[Root.GetNoneE] ñèëüíûé óäàð ñâ[Root.GetMyDuelWeaponINS] [This.GetHerHim] â [This.GetBodyPartInjuredACC];;x
+String_shot_not_lethal;fire my [Root.GetDuelWeapon] at [This.GetHerHis] [This.GetBodyPartInjured], the sound shocking even myself;;;;;;;;;;;âûñòðåëèë[Root.GetEndA] èç ñâ[Root.GetMyDuelWeaponGEN] [This.GetHerHim] â [This.GetBodyPartInjuredACC];;x
+String_shot_not_lethal_eyes;fire at my opponent's head, covering [This.GetHerHis] face in blood;;;;;;;;;;;âûñòðåëèë[Root.GetEndA] èç ñâ[Root.GetMyDuelWeaponGEN] [This.GetHerHim] â ãîëîâó, ïóëÿ ïîïàëà ïðÿìî â ãëàç;;x
+String_slam_their_head;smack my [Root.GetDuelWeapon] into the side of [other_combatant.GetHerHis] head;;;;;;;;;;;óäàðèë[Root.GetEndA] ñâ[Root.GetMyDuelWeaponINS] [This.GetHerHim] ïî ãîëîâå;;x
+String_slam_their_limb;whack my [Root.GetDuelWeapon] into [other_combatant.GetHerHis] [other_combatant.GetBodyPartInjured];;;;;;;;;;;óäàðèë[Root.GetEndA] ñâ[Root.GetMyDuelWeaponINS] [This.GetHerHim] ïî [This.GetBodyPartInjuredDAT];;x
+String_slam_their_body;bash my [Root.GetDuelWeapon] down, hard, across [other_combatant.GetHerHis] [other_combatant.GetBodyPartInjured];;;;;;;;;;;íàíåñ[Root.GetNoneE] óäàð ñâ[Root.GetMyDuelWeaponINS] â íèæíþþ ÷àñòü [This.GetHersHis] [This.GetBodyPartInjuredGEN];;x
+String_crack_ribs;crack several of [This.GetHerHis] ribs;;;;;;;;;;;ìîùíûì óäàðîì ñëîìàë[Root.GetEndA] [This.GetHerHim] ð¸áðà;;x
+String_smack_across_body_part;smack my [Root.GetDuelWeapon] flat across [This.GetHerHis] [This.GetBodyPartInjured];;;;;;;;;;;óäàðèë[Root.GetEndA] ñâ[Root.GetMyDuelWeaponINS] [This.GetHerHim] â [This.GetBodyPartInjuredACC];;x
+String_trip_them;swing my [Root.GetDuelWeapon] in a perfect half-circle, causing [This.GetHerHim] to fall backwards with a surprised 'huff';;;;;;;;;;;çàìàõíó[Root.GetLasLsya] ñâ[Root.GetMyDuelWeaponINS] è ñáèë[Root.GetEndA] [This.GetHersHis] ñ íîã, ïîâàëèâ íà ñïèíó;;x
+String_hit_them_in_body_part;land a perfect blow to [This.GetHerHis] [This.GetBodyPartInjured];;;;;;;;;;;óäàðèë[Root.GetEndA] ñî âñåé ñèëû [This.GetHerHim] ïðÿìî â [This.GetBodyPartInjuredACC];;x
+String_hit_them_in_the_face;hit [This.GetHerHim] square in the jaw, causing [This.GetHerHim] to stagger backwards in confusion;;;;;;;;;;;ñî âñåé ñèëû óäàðèë[Root.GetEndA] [This.GetHerHim] â ÷åëþñòü, ïîâàëèâ [This.GetHersHis] íà çåìëþ;;x
+String_knock_them_out;kick [This.GetHerHim] straight in the gut;;;;;;;;;;;íàíåñ[Root.GetNoneE] [This.GetHerHim] ñèëüíûé óäàð â æèâîò;;x
+String_shoot_mild;rip the ground apart with a shot, startling my opponent into tripping over [This.GetHerselfHimself];;;;;;;;;;;âûñòðåëèë[Root.GetEndA], íî ïîïàë[Root.GetEndA] â çåìëþ, [This.GetSheHe] èñïóãà[This.GetLasLsya] è óïàë[This.GetEndA];;x
+String_shoot_them_dead;shoot [This.GetHerHim] straight in the [This.GetBodyPartInjured];;;;;;;;;;;âûñòðåëèë[Root.GetEndA] [This.GetHerHim] ïðÿìî â [This.GetBodyPartInjuredACC];;x
+String_crush_their_head;with one perfect blow crush [This.GetHerHis] head in;;;;;;;;;;;îäíèì òî÷íûì óäàðîì ðàñêðîèë[Root.GetEndA] [This.GetHerHim] ÷åðåï;;x
+String_put_the_spear_through_their_head;put the spear through [This.GetHerHis] head;;;;;;;;;;;âîíçèë[Root.GetEndA] êîïü¸ ïðÿìî â [This.GetHersHis] ãîëîâó;;x
+String_sever_their_head_from_their_body;sever [This.GetHerHis] head from [This.GetHerHis] body;;;;;;;;;;;îäíèì óäàðîì îòäåëèë[Root.GetEndA] [This.GetHersHis] ãîëîâó îò òåëà;;x
+String_shoot_them_actually_dead;blow a hole into [This.GetHerHis] chest;;;;;;;;;;;çàñòðåëèë[Root.GetEndA] [This.GetHersHis];;x
+String_injure_them;injure [This.GetHerHim];;;;;;;;;;;ðàíèë[Root.GetEndA] [This.GetHersHis];;x
 # GetWeaponInjuringBlowOnMe
-String_severely_tear_my_body_part;tear a severe gash across my [This.GetBodyPartInjured];;;;;;;;;;;;;x
-String_severely_break_my_body_part;bruise, if not break, something deep in my [This.GetBodyPartInjured];;;;;;;;;;;;;x
-String_severely_injure_my_eye;make my eyes bleed, possibly blinding me;;;;;;;;;;;;;x
-String_cut_my_body_part_off;slice off half of my [This.GetBodyPartInjured];;;;;;;;;;;;;x
-String_cut_my_body_part_out;cut my [This.GetBodyPartInjured] out;;;;;;;;;;;;;x
-String_sever_my_body_part_from_body;sever my [This.GetBodyPartInjured] from my body;;;;;;;;;;;;;x
-String_crush_my_body_part;with a single blow, crush my [This.GetBodyPartInjured];;;;;;;;;;;;;x
-String_pierce_my_body_part_through;thrust [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] expertly, piercing through my [This.GetBodyPartInjured];;;;;;;;;;;;;x
-String_take_my_body_part_out;jab [other_combatant.GetHerHis] weapon at my face, finally taking my [This.GetBodyPartInjured] out;;;;;;;;;;;;;x
-String_stick_my_body_part_out;slash across my face, taking my [This.GetBodyPartInjured] out;;;;;;;;;;;;;x
-String_slam_into_my_face;slam [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] into my [Root.GetBodyPartInjured], soaking me in my own blood;;;;;;;;;;;;;x
-String_smack_hard_across_my_body_part;smack [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] excruciatingly hard, across my [This.GetBodyPartInjured];;;;;;;;;;;;;x
-String_crack_bones_of_my_body_part;break several of the bones in my [This.GetBodyPartInjured];;;;;;;;;;;;;x
-String_slam_my_limb;whack [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] down, hard, across my [Root.GetBodyPartInjured];;;;;;;;;;;;;x
-String_slam_my_head;smack [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] into the side of my head;;;;;;;;;;;;;x
-String_slam_my_body;bash [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] into the side of my [Root.GetBodyPartInjured];;;;;;;;;;;;;x
-String_crack_my_ribs;crack several of my ribs;;;;;;;;;;;;;x
-String_smack_across_my_body_part;smack [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] flat across my [This.GetBodyPartInjured];;;;;;;;;;;;;x
-String_trip_me;swing [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] in a perfect half-circle, causing me to fall backwards with a surprised 'huff';;;;;;;;;;;;;x
-String_hit_me_in_body_part;land a perfect blow to my [This.GetBodyPartInjured];;;;;;;;;;;;;x
-String_hit_me_in_the_face;hit me square in the jaw;;;;;;;;;;;;;x
-String_knock_me_out;accidentally hit me straight in the gut, when failing to block an incoming kick;;;;;;;;;;;;;x
-String_shoot_me_mild;fire [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] into the ground, startling me into tripping over myself;;;;;;;;;;;;;x
-String_shoot_me_dead;shoot me straight in the [This.GetBodyPartInjured];;;;;;;;;;;;;x
-String_sever_my_head_from_my_body;sever my head from my body;;;;;;;;;;;;;x
-String_crush_my_head;crush my... my head in;;;;;;;;;;;;;x
-String_put_their_spear_through_my_head;put [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] through my head;;;;;;;;;;;;;x
-String_shoot_me_actually_dead;fire [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] into my chest;;;;;;;;;;;;;x
-String_injure_me;actually hurt me;;;;;;;;;;;;;x
-
+String_severely_tear_my_body_part;tear a severe gash across my [This.GetBodyPartInjured];;;;;;;;;;;íàí¸ñ[other_combatant.GetNoneE] óäàð ñâ[other_combatant.GetMyDuelWeaponINS] ìíå â [This.GetBodyPartInjuredACC];;x
+String_severely_break_my_body_part;bruise, if not break, something deep in my [This.GetBodyPartInjured];;;;;;;;;;;ðàçìîçæèë[other_combatant.GetEndA] ì[This.GetMyBodyPartInjuredACC];;x
+String_severely_injure_my_eye;make my eyes bleed, possibly blinding me;;;;;;;;;;;ðàíèë[other_combatant.GetEndA] ìåíÿ â ãëàç;;x
+String_cut_my_body_part_off;slice off half of my [This.GetBodyPartInjured];;;;;;;;;;;îòñåê[other_combatant.GetNoneE] ìíå [This.GetBodyPartInjuredACC];;x
+String_cut_my_body_part_out;cut my [This.GetBodyPartInjured] out;;;;;;;;;;;ðàññåê[other_combatant.GetNoneE] ìíå ëèöî;;x
+String_sever_my_body_part_from_body;sever my [This.GetBodyPartInjured] from my body;;;;;;;;;;;âñïîðîë[other_combatant.GetEndA] ìíå [This.GetBodyPartInjuredACC];;x
+String_crush_my_body_part;with a single blow, crush my [This.GetBodyPartInjured];;;;;;;;;;;ðàñêðîèë[other_combatant.GetEndA] ìíå [This.GetBodyPartInjuredACC];;x
+String_pierce_my_body_part_through;thrust [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] expertly, piercing through my [This.GetBodyPartInjured];;;;;;;;;;;ïðîíçèë[other_combatant.GetEndA] ì[This.GetMyBodyPartInjuredACC];;x
+String_take_my_body_part_out;jab [other_combatant.GetHerHis] weapon at my face, finally taking my [This.GetBodyPartInjured] out;;;;;;;;;;;âûêîëîë[other_combatant.GetEndA] ìíå ãëàç;;x
+String_stick_my_body_part_out;slash across my face, taking my [This.GetBodyPartInjured] out;;;;;;;;;;;ïîëîñíóë[other_combatant.GetEndA] ìíå ïî ëèöó, çàäåâ ãëàçà;;x
+String_slam_into_my_face;slam [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] into my [Root.GetBodyPartInjured], soaking me in my own blood;;;;;;;;;;;ñèëüíûì óäàðîì ïðîëîìèë[other_combatant.GetEndA] ìíå ãîëîâó;;x
+String_smack_hard_across_my_body_part;smack [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] excruciatingly hard, across my [This.GetBodyPartInjured];;;;;;;;;;;íàíåñ[other_combatant.GetNoneE] ñèëüíûé óäàð ñâ[other_combatant.GetMyDuelWeaponINS] ìíå â [This.GetBodyPartInjuredACC];;x
+String_crack_bones_of_my_body_part;break several of the bones in my [This.GetBodyPartInjured];;;;;;;;;;;ñëîìàë[other_combatant.GetEndA] ìíå ïàðó êîñòåé;;x
+String_slam_my_limb;whack [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] down, hard, across my [Root.GetBodyPartInjured];;;;;;;;;;;óäàðèë[other_combatant.GetEndA] ñâ[other_combatant.GetMyDuelWeaponINS] ìíå ïî [This.GetBodyPartInjuredDAT];;x
+String_slam_my_head;smack [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] into the side of my head;;;;;;;;;;;óäàðèë[other_combatant.GetEndA] ñâ[other_combatant.GetMyDuelWeaponINS] ïî ìîåé ãîëîâå;;x
+String_slam_my_body;bash [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] into the side of my [Root.GetBodyPartInjured];;;;;;;;;;;íàíåñ[other_combatant.GetNoneE] óäàð ñâ[other_combatant.GetMyDuelWeaponINS] â íèæíþþ ÷àñòü ì[This.GetMyBodyPartInjuredGEN];;x
+String_crack_my_ribs;crack several of my ribs;;;;;;;;;;;ìîùíûì óäàðîì ñëîìàë[other_combatant.GetEndA] ìíå ð¸áðà;;x
+String_smack_across_my_body_part;smack [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] flat across my [This.GetBodyPartInjured];;;;;;;;;;;óäàðèë[other_combatant.GetEndA] ñâ[other_combatant.GetMyDuelWeaponINS] ìíå â [This.GetBodyPartInjuredACC];;x
+String_trip_me;swing [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] in a perfect half-circle, causing me to fall backwards with a surprised 'huff';;;;;;;;;;;çàìàõíó[other_combatant.GetLasLsya] ñâ[other_combatant.GetMyDuelWeaponINS] è ñáèë[other_combatant.GetEndA] ìåíÿ ñ íîã, ïîâàëèâ íà ñïèíó;;x
+String_hit_me_in_body_part;land a perfect blow to my [This.GetBodyPartInjured];;;;;;;;;;;óäàðèë[other_combatant.GetEndA] ñî âñåé ñèëû ìíå ïðÿìî â [This.GetBodyPartInjuredACC];;x
+String_hit_me_in_the_face;hit me square in the jaw;;;;;;;;;;;ñî âñåé ñèëû óäàðèë[other_combatant.GetEndA] ìíå ïðÿìî â ÷åëþñòü;;x
+String_knock_me_out;accidentally hit me straight in the gut, when failing to block an incoming kick;;;;;;;;;;;íàíåñ[other_combatant.GetNoneE] ìíå ñèëüíûé óäàð â æèâîò;;x
+String_shoot_me_mild;fire [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] into the ground, startling me into tripping over myself;;;;;;;;;;;âûñòðåëèë[other_combatant.GetEndA], íî ïîïàë[other_combatant.GetEndA] â çåìëþ, ÿ èñïóãà[This.GetLasLsya] è óïàë[This.GetEndA];;x
+String_shoot_me_dead;shoot me straight in the [This.GetBodyPartInjured];;;;;;;;;;;ïîïàñòü ìíå â [This.GetBodyPartInjuredACC];;x
+String_sever_my_head_from_my_body;sever my head from my body;;;;;;;;;;;îäíèì óäàðîì îòäåëèë[other_combatant.GetEndA] ìîþ ãîëîâó îò òåëà;;x
+String_crush_my_head;crush my... my head in;;;;;;;;;;;ðàçìîææèë[other_combatant.GetEndA] ìíå ãîëîâó;;x
+String_put_their_spear_through_my_head;put [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] through my head;;;;;;;;;;;âîíçèë[other_combatant.GetEndA] ñâ[other_combatant.GetMyDuelWeaponACC] ïðÿìî ìíå â ãîëîâó;;x
+String_shoot_me_actually_dead;fire [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] into my chest;;;;;;;;;;;ñìåðòåëüíî ðàíèòü ìåíÿ;;x
+String_injure_me;actually hurt me;;;;;;;;;;;ðàíèë[other_combatant.GetEndA] ìåíÿ;;x
 # GetWeaponSwinging
-string_bludgeoning;bludgeoning;;;;;;;;;;;;;x
-string_cutting;cutting;;;;;;;;;;;;;x
-String_piercing;piercing;;;;;;;;;;;;;x
-String_shooting;shooting;;;;;;;;;;;;;x
-
+string_bludgeoning;bludgeoning;;;;;;;;;;;óäàðèë[This.GetEndA];;x
+string_cutting;cutting;;;;;;;;;;;ðóáàíóë[This.GetEndA];;x
+String_piercing;piercing;;;;;;;;;;;ïðîíçèë[This.GetEndA];;x
+String_shooting;shooting;;;;;;;;;;;âûñòðåëèë[This.GetEndA];;x
 # GetDuelType
-String_sparring_match;sparring match;;;;;;;;;;;;;x
-String_demonstration_duel;demonstration duel;;;;;;;;;;;;;x
-String_duel_for_honor;duel for honor;;;;;;;;;;;;;x
-String_duel_to_the_death;duel to the death;;;;;;;;;;;;;x
-String_fight_for_glory;fight for glory;;;;;;;;;;;;;x
-String_duel;duel;;;;;;;;;;;;;x
-
+String_sparring_match;sparring match;;;;;;;;;;;òðåíèðîâî÷íûé ïîåäèíîê;;x
+String_demonstration_duel;demonstration duel;;;;;;;;;;;ïîêàçàòåëüíûé ïîåäèíîê;;x
+String_duel_for_honor;duel for honor;;;;;;;;;;;äóýëü çà ÷åñòü;;x
+String_duel_to_the_death;duel to the death;;;;;;;;;;;ñìåðòåëüíóþ áèòâó;;x
+String_fight_for_glory;fight for glory;;;;;;;;;;;ïîåäèíîê ðàäè ñëàâû;;x
+String_duel;duel;;;;;;;;;;;äóýëü;;x
 # GetClaimDuelTitle
-String_for_all_titles;A Challenge for [target_title.GetName], and More;;;;;;;;;;;;;x
-String_for_specific_title;A Challenge for [target_title.GetName];;;;;;;;;;;;;x
-String_A_Challenge;A Challenge;;;;;;;;;;;;;x
-
+String_for_all_titles;A Challenge for [target_title.GetName], and More;;;;;;;;;;;Áèòâà çà òèòóëû;;x
+String_for_specific_title;A Challenge for [target_title.GetName];;;;;;;;;;;[target_title.GetBaseName] - áèòâà çà òèòóë;;x
+String_A_Challenge;A Challenge;;;;;;;;;;;Ïîåäèíîê;;x
 # GetDuelWinningConditions
-String_blood_is_drawn;blood is drawn;;;;;;;;;;;;;x
-String_one_of_us_lay_dead;one of us lay dead;;;;;;;;;;;;;x
-String_only_one_of_us_remain_standing;only one of us remain standing;;;;;;;;;;;;;x
-String_one_of_us_yields_from_injury;one of us yields from injury;;;;;;;;;;;;;x
-String_the_heavens_are_satisfied;the heavens are satisfied;;;;;;;;;;;;;x
-
+String_blood_is_drawn;blood is drawn;;;;;;;;;;;íå ïðîëü¸òñÿ êðîâü;;x
+String_one_of_us_lay_dead;one of us lay dead;;;;;;;;;;;êòî-íèáóäü èç íàñ íå óìð¸ò;;x
+String_only_one_of_us_remain_standing;only one of us remain standing;;;;;;;;;;;íå îñòàíåòñÿ òîëüêî îäèí;;x
+String_one_of_us_yields_from_injury;one of us yields from injury;;;;;;;;;;;êòî-íèáóäü èç íàñ íå ïîëó÷èò áóäåò ðàíåí;;x
+String_the_heavens_are_satisfied;the heavens are satisfied;;;;;;;;;;;íåáåñà íå îòâåòÿò íàì;;x
 # GetDuelWeakness
-String_age;old age;;;;;;;;;;;;;x
-String_venerable_age;venerable age;;;;;;;;;;;;;x
-String_young_age;young age;;;;;;;;;;;;;x
-String_very_young_age;very young age;;;;;;;;;;;;;x
-String_physical_condition;physical condition;;;;;;;;;;;;;x
-String_unfortunate_physical_condition;unfortunate physical condition;;;;;;;;;;;;;x
-String_very_poor_health;very poor health;;;;;;;;;;;;;x
-String_poor_health;poor health;;;;;;;;;;;;;x
-
+String_age;old age;;;;;;;;;;;âåñüìà ñòàð[This.GetEndA];;x
+String_venerable_age;venerable age;;;;;;;;;;;ïðåêëîííîãî âîçðàñòà;;x
+String_young_age;young age;;;;;;;;;;;ñëèøêîì ìîëîä[This.GetEndA];;x
+String_very_young_age;very young age;;;;;;;;;;;- åù¸ ðåá¸íîê;;x
+String_physical_condition;physical condition;;;;;;;;;;;íå â ñîñòîÿíèè ñðàæàòüñÿ;;x
+String_unfortunate_physical_condition;unfortunate physical condition;;;;;;;;;;;- íåñ÷àñòí[This.GetAyaYy] êàëåêà;;x
+String_very_poor_health;very poor health;;;;;;;;;;;ñåðü¸çíî áîë[This.GetSoftNaEn];;x
+String_poor_health;poor health;;;;;;;;;;;áîë[This.GetSoftNaEn];;x
 # GetDuelNormbreakingReason
-String_priest_title;[This.Religion.GetPriestTitle];;;;;;;;;;;;;x
-String_priest_woman;woman and a [This.Religion.GetPriestTitle];;;;;;;;;;;;;x
-
+String_priest_title;[This.Religion.GetPriestTitle];;;;;;;;;;;[This.Religion.GetPriestTitle];;x
+String_priest_woman;woman and a [This.Religion.GetPriestTitle];;;;;;;;;;;æåíùèíà è [This.Religion.GetPriestTitle];;x
 # GetClumsilyElegantly
-String_clumsily;clumsily;;;;;;;;;;;;;x
-String_vigorously;vigorously;;;;;;;;;;;;;x
-String_elegantly;elegantly;;;;;;;;;;;;;x
-String_expertly;expertly;;;;;;;;;;;;;x
-String_slowly;slowly;;;;;;;;;;;;;x
-
+String_clumsily;clumsily;;;;;;;;;;;íåóêëþæå;;x
+String_vigorously;vigorously;;;;;;;;;;;âîîäóøåâë¸ííî;;x
+String_elegantly;elegantly;;;;;;;;;;;èçÿùíî;;x
+String_expertly;expertly;;;;;;;;;;;ñî çíàíèåì äåëà;;x
+String_slowly;slowly;;;;;;;;;;;ìåäëåííî;;x
 # GetButAndYet
-String_and;and;;;;;;;;;;;;;x
-String_but;but;;;;;;;;;;;;;x
-String_yet;yet;;;;;;;;;;;;;x
-
+String_and;and;;;;;;;;;;;è;;x
+String_but;but;;;;;;;;;;;íî;;x
+String_yet;yet;;;;;;;;;;;îäíàêî;;x
 # GetClaimDuelDemand
-String_forfeit_claims_1;Forfeit your claim to my rule, and walk away from this fight!;;;;;;;;;;;;;x
-String_forfeit_claims_2;I do not want your titles! Just give up your claims to *mine*!;;;;;;;;;;;;;x
-
+String_forfeit_claims_1;Forfeit your claim to my rule, and walk away from this fight!;;;;;;;;;;;— Îñòàâü ñâîè ïðåòåíçèè íà ìî¸ ïðàâëåíèå è ïîêèíü ýòîò ïîåäèíîê!;;x
+String_forfeit_claims_2;I do not want your titles! Just give up your claims to *mine*!;;;;;;;;;;;— Ìíå íå íóæíû òâîè òèòóëû! Îòêàæèñü îò ïðåòåíçèé íà ìîè!;;x
 # GetForgiveReject
-String_takes_my_hand;takes my hand, saying "you already have it". Then [From.GetSheHe] helps me stand and squeezes my shoulder. "Perhaps we can work these differences out?", [From.GetSheHe] offers.;;;;;;;;;;;;;x
-String_spits_in_my_face;spits in my face, to the jarring snickers of the crowd. I am left kneeling, face red with shame, and a cold anger growing in the pit of my stomach.;;;;;;;;;;;;;x
-
+String_takes_my_hand;"takes my hand, saying ""you already have it"". Then [From.GetSheHe] helps me stand and squeezes my shoulder. ""Perhaps we can work these differences out?"", [From.GetSheHe] offers.";;;;;;;;;;;"ñêàçàë[From.GetEndA]: ""ÿ ïðîùàþ òåáÿ"", à çàòåì ïðîòÿíóë[From.GetEndA] ìíå ðóêó è ïîìîã[From.GetNoneE] âñòàòü. ""Äàâàé îáñóäèì ýòî â áîëåå êîìôîðòíîé îáñòàíîâêå"", — ïðåäëîæèë[From.GetEndA] [From.GetSheHe].";;x
+String_spits_in_my_face;spits in my face, to the jarring snickers of the crowd. I am left kneeling, face red with shame, and a cold anger growing in the pit of my stomach.;;;;;;;;;;;ïëþíóë[From.GetEndA] ìíå â ëèöî ïîä ãðîìêèé ñìåõ òîëïû. Êðàñíåÿ îò ñòûäà, ÿ ÷óâñòâîâàë[Root.GetEndA], êàê ÿðîñòü çàêèïàåò âíóòðè ìåíÿ.;;x
 # GetKillingBlow
-String_plunge_weapon_through_their_chest;thrust my [GetDuelWeapon] hard into [other_combatant.GetHerHis] chest. The surprise is clear on [other_combatant.GetHerHis] face, as blood fills [other_combatant.GetHerHis] mouth. I must have hit something important;;;;;;;;;;;;;x
-String_bury_weapon_in_their_chest;sink my [GetDuelWeapon] into [other_combatant.GetHerHis] chest! The [other_combatant.GetManWoman] groans, and it takes a while before my own heart stops pounding. Then [other_combatant.GetSheHe] is still;;;;;;;;;;;;;x
-String_push_my_weapon_into_their_chest;throw my [GetDuelWeapon], into [other_combatant.GetHerHis] stomach. The [other_combatant.GetManWoman] falls, [other_combatant.GetHerHis] guts spilling out on the ground. [other_combatant.GetSheHeCap] does not rise again;;;;;;;;;;;;;x
-String_shoot_my_gun;pull the trigger, firing my last bullet. It finds [other_combatant.GetHerHis] temple;;;;;;;;;;;;;x
-String_strike_at_their_neck;land a perfect blow to [other_combatant.GetHerHis] neck. The [other_combatant.GetManWoman] drops [other_combatant.GetHerHis] weapon and clutches desperately at [other_combatant.GetHerHis] throat, but the wound is already claiming [other_combatant.GetHerHis] life;;;;;;;;;;;;;x
-
+String_plunge_weapon_through_their_chest;thrust my [GetDuelWeapon] hard into [other_combatant.GetHerHis] chest. The surprise is clear on [other_combatant.GetHerHis] face, as blood fills [other_combatant.GetHerHis] mouth. I must have hit something important;;;;;;;;;;;âîíçèë[This.GetEndA] ñâ[This.GetMyDuelWeaponACC] [other_combatant.GetHerHim] â ãðóäü. Ýòîò êîëÿùèé óäàð îêàçàëñÿ íåîæèäàííûì äëÿ í[other_combatant.GetHersHis], êðîâü ïîëèëàñü ðó÷ü¸ì èç [other_combatant.GetHersHis] ãîðëà;;x
+String_bury_weapon_in_their_chest;sink my [GetDuelWeapon] into [other_combatant.GetHerHis] chest! The [other_combatant.GetManWoman] groans, and it takes a while before my own heart stops pounding. Then [other_combatant.GetSheHe] is still;;;;;;;;;;;âîíçèë[This.GetEndA] ñâ[This.GetMyDuelWeaponACC] [other_combatant.GetHerHim] â ãðóäü! [other_combatant.GetSheHeCap] èçäàë[other_combatant.GetEndA] ïðîòÿæíûé âîé è çàìåð[other_combatant.GetNoneE] íà ìåñòå. ß íå îæèäàë[This.GetEndA] òàêîãî èñõîäà;;x
+String_push_my_weapon_into_their_chest;throw my [GetDuelWeapon], into [other_combatant.GetHerHis] stomach. The [other_combatant.GetManWoman] falls, [other_combatant.GetHerHis] guts spilling out on the ground. [other_combatant.GetSheHeCap] does not rise again;;;;;;;;;;;ìåòíóë[This.GetEndA] ñâ[This.GetMyDuelWeaponACC] [other_combatant.GetHerHim] â æèâîò. [other_combatant.GetSheHeCap] óïàë[other_combatant.GetEndA], à [other_combatant.GetHersHis] êèøêè âûâàëèëèñü íà çåìëþ;;x
+String_shoot_my_gun;pull the trigger, firing my last bullet. It finds [other_combatant.GetHerHis] temple;;;;;;;;;;;ñïóñòèë[This.GetEndA] êóðîê, âûïóñòèâ ïîñëåäíþþ ïóëþ. Îíà ïîïàëà [other_combatant.GetHerHim] â âèñîê;;x
+String_strike_at_their_neck;land a perfect blow to [other_combatant.GetHerHis] neck. The [other_combatant.GetManWoman] drops [other_combatant.GetHerHis] weapon and clutches desperately at [other_combatant.GetHerHis] throat, but the wound is already claiming [other_combatant.GetHerHis] life;;;;;;;;;;;Íàíåñ[This.GetNoneE] òî÷íûé óäàð [other_combatant.GetHerHim] ïî øåå. [other_combatant.GetSheHeCap] óðîíèë[other_combatant.GetEndA] ñâî¸ îðóæèå è ñõâàòè[other_combatant.GetLasLsya] çà ãîðëî, íî ñëèøêîì ïîçäíî - ðàíà îêàçàëàñü ñìåðòåëüíîé;;x
 # GetKillingBlowOnMe
-String_plunge_weapon_through_my_chest;thrusts [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] hard into my chest. I stop, my breath catching in my throat, followed by the taste of blood. [other_combatant.GetSheHeCap] must have... Hit something important;;;;;;;;;;;;;x
-String_bury_weapon_in_my_chest;is sinking [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] into my chest. I groan, meeting the eyes of the [other_combatant.GetManWoman], who looks shocked at [other_combatant.GetHerHis] own success;;;;;;;;;;;;;x
-String_push_their_weapon_into_my_chest;throws [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] – it hits my stomach and I fall to the ground, trying to keep my own guts from spilling out. There is so much... Pain;;;;;;;;;;;;;x
-String_shoot_their_gun;pulls the trigger, firing what has to be [other_combatant.GetHerHis] last bullet. The noise rings in my ears as I fall to the ground;;;;;;;;;;;;;x
-String_strike_at_my_neck;lunges at me. Then I feel the warmth of blood surrounding my neck. My.. My throat has been cut open;;;;;;;;;;;;;x
-
+String_plunge_weapon_through_my_chest;thrusts [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] hard into my chest. I stop, my breath catching in my throat, followed by the taste of blood. [other_combatant.GetSheHeCap] must have... Hit something important;;;;;;;;;;;âîíçèë[other_combatant.GetEndA] câ[other_combatant.GetMyDuelWeaponACC] ìíå â ãðóäü. ß çàìåð[This.GetEndA] íå â ñèëàõ âçäîõíóòü è ïî÷óâñòâîâàë âêóñ êðîâè, êîòîðàÿ ðó÷ü¸ì õëûíóëà ó ìåíÿ èçî ðòà;;x
+String_bury_weapon_in_my_chest;is sinking [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] into my chest. I groan, meeting the eyes of the [other_combatant.GetManWoman], who looks shocked at [other_combatant.GetHerHis] own success;;;;;;;;;;;âîíçèë[other_combatant.GetEndA] ñâ[other_combatant.GetMyDuelWeaponACC] ìíå â ãðóäü. ß çàâûë[Root.GetEndA] îò óæàñíîé áîëè. [other_combatant.GetSheHeCap] óñòàâè[other_combatant.GetLasLsya] íà ìåíÿ â íåäîóìåíèè îò ñâîåãî óñïåõà;;x
+String_push_their_weapon_into_my_chest;throws [other_combatant.GetHerHis] [other_combatant.GetDuelWeapon] – it hits my stomach and I fall to the ground, trying to keep my own guts from spilling out. There is so much... Pain;;;;;;;;;;;ìåòíóë[other_combatant.GetEndA] ñâ[other_combatant.GetMyDuelWeaponACC] ìíå â æèâîò. ß ðóõíóë[This.GetEndA] íà çåìëþ, ïûòàÿñü ñêîð÷èòüñÿ îò áîëè, íî ìîè êðîâàâûå âíóòðåííîñòè âûâàëèëèñü íàðóæó. Ýòî êîíåö;;x
+String_shoot_their_gun;pulls the trigger, firing what has to be [other_combatant.GetHerHis] last bullet. The noise rings in my ears as I fall to the ground;;;;;;;;;;;ñïóñòèë[other_combatant.GetEndA] êóðîê. Ðåçêèé îãëóøàþùèé çâîí óñûïèë ìî¸ òåëî, îáåññèëåíí[This.GetAyaYy] ÿ ðóõíóë[This.GetEndA] íà çåìëþ;;x
+String_strike_at_my_neck;lunges at me. Then I feel the warmth of blood surrounding my neck. My.. My throat has been cut open;;;;;;;;;;;íàíåñ[other_combatant.GetNoneE] óäàð, íî ÿ íå ïîíÿë[This.GetEndA] êóäà èìåííî, ïîêà íå çàìåòèë[This.GetEndA], êàê ìîÿ êðîâü çàáðûçãàëà âñ¸ âîêðóã. ß ñõâàòè[This.GetLasLsya] çà ñâî¸ ãîðëî, íî áûëî óæå ïîçäíî;;x
 # GetKillingBlowOnMeShort
-String_killing_blow_blunt_on_me;tears my chest open;;;;;;;;;;;;;x
-String_killing_blow_piercing_on_me;pierces my chest through;;;;;;;;;;;;;x
-String_killing_blow_sharp_on_me;cuts my throat open;;;;;;;;;;;;;x
-String_shoot_my_gun_short;shoots me down;;;;;;;;;;;;;x
-
+String_killing_blow_blunt_on_me;tears my chest open;;;;;;;;;;;ðàçäàâèë[This.GetEndA] ìíå ãðóäü;;x
+String_killing_blow_piercing_on_me;pierces my chest through;;;;;;;;;;;ïðîíçèë[This.GetEndA] ìîþ ãðóäü;;x
+String_killing_blow_sharp_on_me;cuts my throat open;;;;;;;;;;;ïåðåðåçàë[This.GetEndA] ìíå ãîðëî;;x
+String_shoot_my_gun_short;shoots me down;;;;;;;;;;;çàñòðåëèë[This.GetEndA] ìåíÿ;;x
 # GetKillingBlowShort
-String_killing_blow_blunt_on_them;tear [This.GetHerHis] chest open;;;;;;;;;;;;;x
-String_killing_blow_piercing_on_them;pierce [This.GetHerHis] chest through;;;;;;;;;;;;;x
-String_killing_blow_sharp_on_them;cut [This.GetHerHis] throat open;;;;;;;;;;;;;x
-String_shoot_them_short;shoot [This.GetHerHis] down;;;;;;;;;;;;;x
-
+String_killing_blow_blunt_on_them;tear [This.GetHerHis] chest open;;;;;;;;;;;ðàçäàâèë[This.GetEndA] [other_combatant.GetHerHim] ãðóäü;;x
+String_killing_blow_piercing_on_them;pierce [This.GetHerHis] chest through;;;;;;;;;;;ïðîíçèë[This.GetEndA] [other_combatant.GetHersHis] ãðóäü;;x
+String_killing_blow_sharp_on_them;cut [This.GetHerHis] throat open;;;;;;;;;;;ïåðåðåçàë[This.GetEndA] [other_combatant.GetHerHim] ãîðëî;;x
+String_shoot_them_short;shoot [This.GetHerHis] down;;;;;;;;;;;çàñòðåëèë[This.GetEndA] [other_combatant.GetHersHis];;x
 # GetOnCombatDeathDesc
-string_flailing_miserably;who was flailing miserably with [This.GetHerHis] [This.GetDuelWeapon]. I am told the poor [This.GetManWoman] soiled [This.GetHerselfHimself] as death came to claim [This.GetHerHim];;;;;;;;;;;;;x
-string_cut_down_with_ease;who was cut down with ease. The symbols of high rank on [This.GetHerHis] uniform apparently went unnoticed, until a soldier stumbled over [This.GetHerHis] corpse;;;;;;;;;;;;;x
-string_resisted_bravely;who resisted bravely until [This.GetSheHe], according to reports, tripped on [This.GetHerHis] own [This.GetDuelWeapon];;;;;;;;;;;;;x
-string_took_a_blow_to_the_head;who cut down several good men, before taking a mighty blow of an ax to [This.GetHerHis] head;;;;;;;;;;;;;x
-string_could_have_made_it_A;who probably could have made it out of that fight, "had [This.GetSheHe] not been overwhelmed by [This.GetHerHis] enemies". The scout reddens. "I mean our troops, my [Root.GetLordLady]";;;;;;;;;;;;;x
-string_could_have_made_it_B;who probably could have made it out of the fight, had [This.GetSheHe] not been overwhelmed by [This.GetHerHis] enemies. The scout frowns. "I am sorry to bring you these news, my [Root.GetLordLady]";;;;;;;;;;;;;x
-string_put_up_a_fight;who is rumored to have put up a tough fight, even when dozens of soldiers ganged up on [This.GetHerHim];;;;;;;;;;;;;x
-string_dominated_the_battlefield;who was dominating the battlefield, right up until [This.GetSheHe] met [This.GetHerHis] unfortunate end;;;;;;;;;;;;;x
-string_GetOnCombatDeathDesc_fallback;fought bravely, and held out longer than [This.GetHerHis] enemies anticipated;;;;;;;;;;;;;x
-
+string_flailing_miserably;who was flailing miserably with [This.GetHerHis] [This.GetDuelWeapon]. I am told the poor [This.GetManWoman] soiled [This.GetHerselfHimself] as death came to claim [This.GetHerHim];;;;;;;;;;;Áåäíÿãà îò÷àÿííî ðàçìàõèâàë[This.GetEndA] ñâ[This.GetMyDuelWeaponINS] â ïîïûòêå îòáèòüñÿ, íî áåçóñïåøíî. [This.GetHersHisCap] óáèëè äî òîãî, êàê ïîäîñïåëà ïîìîùü;;x
+string_cut_down_with_ease;who was cut down with ease. The symbols of high rank on [This.GetHerHis] uniform apparently went unnoticed, until a soldier stumbled over [This.GetHerHis] corpse;;;;;;;;;;;[This.GetHersHisCap] óáèëè ïðåæäå, ÷åì [This.GetSheHe] óñïåë[This.GetEndA] îáíàæèòü ìå÷. Ñíà÷àëà íèêòî íå ïîíÿë, ÷òî ýòî [This.GetAgedPerson] ñ âûñîêèì ÷èíîì. Ýòî ñòàëî î÷åâèäíûì ëèøü, êîãäà ñîëäàò îñìîòðåë [This.GetHersHis] òðóï;;x
+string_resisted_bravely;who resisted bravely until [This.GetSheHe], according to reports, tripped on [This.GetHerHis] own [This.GetDuelWeapon];;;;;;;;;;;[This.GetSheHeCap] õðàáðî ñðàæà[This.GetLasLsya], ïîêà, ïî ñëîâàì î÷åâèäöåâ, íå áðîñè[This.GetLasLsya] íà ñâîé ñîáñòâåííûé ìå÷;;x
+string_took_a_blow_to_the_head;who cut down several good men, before taking a mighty blow of an ax to [This.GetHerHis] head;;;;;;;;;;;[This.GetSheHeCap] ïåðåáèë[This.GetEndA] ìíîæåñòâî õîðîøèõ âîèíîâ, ïðåæäå ÷åì ïîëó÷èòü óäàð òîïîðîì ïî ãîëîâå;;x
+string_could_have_made_it_A;"who probably could have made it out of that fight, ""had [This.GetSheHe] not been overwhelmed by [This.GetHerHis] enemies"". The scout reddens. ""I mean our troops, my [Root.GetLordLady]""";;;;;;;;;;;Âåðîÿòíî, [This.GetSheHe] ìîã[This.GetNoneE] áû âûáðàòüñÿ èç îêðóæåíèÿ, åñëè áû íå ïðåâîñõîäÿùèå ñèëû ïðîòèâíèêà;;x
+string_could_have_made_it_B;"who probably could have made it out of the fight, had [This.GetSheHe] not been overwhelmed by [This.GetHerHis] enemies. The scout frowns. ""I am sorry to bring you these news, my [Root.GetLordLady]""";;;;;;;;;;;Âåðîÿòíî, [This.GetSheHe] ìîã[This.GetNoneE] áû âûáðàòüñÿ èç îêðóæåíèÿ, åñëè áû íå ïðåâîñõîäÿùèå ñèëû ïðîòèâíèêà;;x
+string_put_up_a_fight;who is rumored to have put up a tough fight, even when dozens of soldiers ganged up on [This.GetHerHim];;;;;;;;;;;Ãîâîðÿò, ïðåæäå ÷åì [This.GetHersHis] óáèëè, [This.GetSheHe] ïðîäîëæàë[This.GetEndA] óñïåøíî îòðàæàòü óäàðû, äàæå áóäó÷è îêðóæ¸íí[This.GetOyYm] äåñÿòêàìè ñîëäàò;;x
+string_dominated_the_battlefield;who was dominating the battlefield, right up until [This.GetSheHe] met [This.GetHerHis] unfortunate end;;;;;;;;;;;[This.GetSheHeCap] äîìèíèðîâàë[This.GetEndA] íà ïîëå áîÿ, ïîêà íå âñòðåòèë[This.GetEndA] ñâîé êîíåö îò óäàðà â ñïèíó;;x
+string_GetOnCombatDeathDesc_fallback;fought bravely, and held out longer than [This.GetHerHis] enemies anticipated;;;;;;;;;;;[This.GetSheHeCap] õðàáðî ñðàæà[This.GetLasLsya] è ïðîäåðæà[This.GetLasLsya] ãîðàçäî äîëüøå, ÷åì ðàññ÷èòûâàëè [This.GetHersHis] âðàãè;;x
 # GetEnemySoldierDesc
-string_barbarian;barbarian;;;;;;;;;;;;;x
-string_pompous;pompous;;;;;;;;;;;;;x
-string_haphazard;haphazard;;;;;;;;;;;;;x
-string_villainous;villainous;;;;;;;;;;;;;x
-
+string_barbarian;barbarian;;;;;;;;;;;íåîò¸ñàíí;;x
+string_pompous;pompous;;;;;;;;;;;íàïûùåíí;;x
+string_haphazard;haphazard;;;;;;;;;;;òóïîãîëîâ;;x
+string_villainous;villainous;;;;;;;;;;;ïîäë;;x
 # GetMilitarySquadPride
-string_attention_to_detail;attention to detail;;;;;;;;;;;;;x
-string_strategic_initiative;strategic initiatives;;;;;;;;;;;;;x
-string_camaraderie;camaraderie;;;;;;;;;;;;;x
-string_unconventional_tactics;unconventional tactics;;;;;;;;;;;;;x
-string_consistency;consistency;;;;;;;;;;;;;x
-
+string_attention_to_detail;attention to detail;;;;;;;;;;;âíèìàíèåì ê äåòàëÿì;;x
+string_strategic_initiative;strategic initiatives;;;;;;;;;;;ñòðàòåãè÷åñêèìè èíèöèàòèâàìè;;x
+string_camaraderie;camaraderie;;;;;;;;;;;ñïëî÷¸ííîñòüþ;;x
+string_unconventional_tactics;unconventional tactics;;;;;;;;;;;íåîáû÷íîé òàêòèêîé;;x
+string_consistency;consistency;;;;;;;;;;;ñîãëàñîâàííîñòüþ;;x
 # GetRidingMarching
-string_riding;riding;;;;;;;;;;;;;x
-string_marching;marching;;;;;;;;;;;;;x
-
+string_riding;riding;;;;;;;;;;;ïðîåçæàÿ;;x
+string_marching;marching;;;;;;;;;;;øàãàÿ;;x
 # GetWarhorseName
-string_Lightning;Lightning;;;;;;;;;;;;;x
-string_Sky;Sky;;;;;;;;;;;;;x
-string_Dragon;Dragon;;;;;;;;;;;;;x
-string_Arrow;Arrow;;;;;;;;;;;;;x
-
+string_Lightning;Lightning;;;;;;;;;;;Ãðîì;;x
+string_Sky;Sky;;;;;;;;;;;Ãîðèçîíò;;x
+string_Dragon;Dragon;;;;;;;;;;;Äðàêîí;;x
+string_Arrow;Arrow;;;;;;;;;;;Êèíæàë;;x
 # GetDuelTitle
-string_claim_duel;A High-Stakes Duel;;;;;;;;;;;;;x
-string_duel_in_on_the_terrain;A Duel [battlefield_location.GetInOn] the [battlefield_location.GetTerrainCap];;;;;;;;;;;;;x
-string_heroic_duel;A Heroic Duel;;;;;;;;;;;;;x
-string_legendary_duel;A Duel for the Legends;;;;;;;;;;;;;x
-
+string_claim_duel;A High-Stakes Duel;;;;;;;;;;;Ïîåäèíîê ñ âûñîêèìè ñòàâêàìè;;x
+string_duel_in_on_the_terrain;A Duel [battlefield_location.GetInOn] the [battlefield_location.GetTerrainCap];;;;;;;;;;;[battlefield_location.GetTerrainCap] ïîåäèíîê;;x
+string_heroic_duel;A Heroic Duel;;;;;;;;;;;Ãåðîè÷åñêàÿ äóýëü;;x
+string_legendary_duel;A Duel for the Legends;;;;;;;;;;;Ëåãåíäàðíûé ïîåäèíîê;;x
 # GetDuelOptionAvailable
-string_available_due_to_duelist_skill_better_than_enemy;This option is available because you are a §Gbetter§! dueler than §Y[enemy_commander.GetTitledFirstName]§!;;;;;;;;;;;;;x
-string_available_due_to_high_duelist_skill;This option is available because of your §Ghigh§! §YPersonal Combat§! skill;;;;;;;;;;;;;x
-
+string_available_due_to_duelist_skill_better_than_enemy;This option is available because you are a §Gbetter§! dueler than §Y[enemy_commander.GetTitledFirstName]§!;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì, ïîòîìó ÷òî Âû §Gëó÷øèé§! äóýëÿíò, ÷åì §Y[enemy_commander.GetTitledFirstName]§!;;x
+string_available_due_to_high_duelist_skill;This option is available because of your §Ghigh§! §YPersonal Combat§! skill;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì áëàãîäàðÿ §Gâûñîêèì§! §Yëè÷íûì áîåâûì íàâûêàì§!;;x
 # GetDaringDuelOptionAvailable
-string_available_due_to_duelist_skill_worse_than_enemy;This option is available because you are a §Rworse§! dueler than §Y[enemy_commander.GetTitledFirstName]§!;;;;;;;;;;;;;x
-string_available_due_to_low_duelist_skill;This option is available because of your §Rlow§! §YPersonal Combat§! skill;;;;;;;;;;;;;x
-
+string_available_due_to_duelist_skill_worse_than_enemy;This option is available because you are a §Rworse§! dueler than §Y[enemy_commander.GetTitledFirstName]§!;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì, ïîòîìó ÷òî Âû §Rõóäøèé§! äóýëÿíò, ÷åì §Y[enemy_commander.GetTitledFirstName]§!;;x
+string_available_due_to_low_duelist_skill;This option is available because of your §Rlow§! §YPersonal Combat§! skill;;;;;;;;;;;Ýòîò âàðèàíò äîñòóïåí Âàì áëàãîäàðÿ §Ríèçêèì§! §Yëè÷íûì áîåâûì íàâûêàì§!;;x
 # GetBattleRescueDesc
-string_good_rescue;taking complete control of the situation!;;;;;;;;;;;;;x
-string_cool_rescue;expertly outmaneuvering the enemy commander and painting the battlefield with [enemy_commander.GetHerHis] blood!;;;;;;;;;;;;;x
-string_lucky_rescue;probably saving the life of [home_commander.GetTitledFirstName]...!;;;;;;;;;;;;;x
-string_bad_rescue;completely disrupting the flow of the battle and getting [This.GetHerselfHimself] injured in the process.;;;;;;;;;;;;;x
-string_fatal_rescue;getting [This.GetHerselfHimself] killed in the process.;;;;;;;;;;;;;x
-
+string_good_rescue;taking complete control of the situation!;;;;;;;;;;; è âçÿë[This.GetEndA] ñèòóàöèþ ïîä êîíòðîëü.;;x
+string_cool_rescue;expertly outmaneuvering the enemy commander and painting the battlefield with [enemy_commander.GetHerHis] blood!;;;;;;;;;;;, ìàñòåðñêè ïåðåõèòðèâ âðàæåñêîãî êîìàíäèðà, è óêðàñèë[commander_to_the_rescue.GetEndA] ïîëå áîÿ [enemy_commander.GetHersHis] êðîâüþ.;;x
+string_lucky_rescue;probably saving the life of [home_commander.GetTitledFirstName]...!;;;;;;;;;;; è ñïàñ[commander_to_the_rescue.GetNoneE] [home_commander.GetHerHim] æèçíü.;;x
+string_bad_rescue;completely disrupting the flow of the battle and getting [This.GetHerselfHimself] injured in the process.;;;;;;;;;;;, ïîëíîñòüþ íàðóøèâ õîä áèòâû, íî áûë[This.GetEndA] ðàíåí[This.GetEndA] â ïðîöåññå.;;x
+string_fatal_rescue;getting [This.GetHerselfHimself] killed in the process.;;;;;;;;;;;, íî áûë[This.GetEndA] óáèò[This.GetEndA].;;x
 # GetNegativeDuelSkillTerm
-string_an_abysmal;an abysmal;;;;;;;;;;;;;x
-string_a_very_poor;a very poor;;;;;;;;;;;;;x
-string_a_poor;a poor;;;;;;;;;;;;;x
-string_a_lacking;a somewhat lacking;;;;;;;;;;;;;x
-string_a_mediocre;a mediocre;;;;;;;;;;;;;x
-
+string_an_abysmal;an abysmal;;;;;;;;;;;óæàñí;;x
+string_a_very_poor;a very poor;;;;;;;;;;;âåñüìà ñëàá;;x
+string_a_poor;a poor;;;;;;;;;;;ñëàá;;x
+string_a_lacking;a somewhat lacking;;;;;;;;;;;çàóðÿäí;;x
+string_a_mediocre;a mediocre;;;;;;;;;;;ïîñðåäñòâåíí;;x
 # GetHowWoundedDidIBecome
-string_severely_injured_notify;[combatant_2.GetFirstName]'s attacks were vicious and unrelenting, leaving [combatant_1.GetFirstName] severely injured...;;;;;;;;;;;;;x
-string_wounded_notify;In the duel [combatant_1.GetFirstName] suffered some minor injuries, but I am sure they will only serve to build character!;;;;;;;;;;;;;x
-string_unscathed_notify;Fortunately, [combatant_1.GetFirstName] got away without any significant injuries.;;;;;;;;;;;;;x
-
+string_severely_injured_notify;[combatant_2.GetFirstName]'s attacks were vicious and unrelenting, leaving [combatant_1.GetFirstName] severely injured...;;;;;;;;;;;[combatant_2.GetFirstName] íàíîñèë[combatant_2.GetEndA] îäèí óñïåøíûé óäàð çà äðóãèì è ñåðü¸çíî ðàíèë[combatant_2.GetEndA] [combatant_1.GetHersHis].;;x
+string_wounded_notify;In the duel [combatant_1.GetFirstName] suffered some minor injuries, but I am sure they will only serve to build character!;;;;;;;;;;;[combatant_1.GetFirstName] ïîëó÷èë[combatant_1.GetEndA] ë¸ãêèå ðàíåíèÿ, íî, óâåðåí[Root.GetEndA], îíè çàêàëÿò [combatant_1.GetHersHis] õàðàêòåð.;;x
+string_unscathed_notify;Fortunately, [combatant_1.GetFirstName] got away without any significant injuries.;;;;;;;;;;;Ê ñ÷àñòüþ, [combatant_1.GetFirstName] îòäåëà[combatant_1.GetLasLsya] ïàðîé ñèíÿêîâ è ññàäèí.;;x
 # GetMyOpinionOfYourChoice
-string_appreciated_choice;[combatant_1.GetFirstName] appreciated my choice of opponent!;;;;;;;;;;;;;x
-string_thought_choice_beneath_me;[combatant_1.GetFirstName] thought [combatant_2.GetFirstName] beneath [combatant_1.GetHerHim]...;;;;;;;;;;;;;x
-string_feared_for_life;[combatant_1.GetFirstName] thought [combatant_1.GetSheHe] was going to die, and blames me for it!;;;;;;;;;;;;;x
-string_poor_choice;[combatant_1.GetFirstName] thinks I choose [combatant_1.GetHerHis] opponent poorly...;;;;;;;;;;;;;x
-
+string_appreciated_choice;[combatant_1.GetFirstName] appreciated my choice of opponent!;;;;;;;;;;;[combatant_1.GetFirstName] áëàãîäàð[combatant_1.GetNaEn] ìíå çà âûáîð îïïîíåíòà!;;x
+string_thought_choice_beneath_me;[combatant_1.GetFirstName] thought [combatant_2.GetFirstName] beneath [combatant_1.GetHerHim]...;;;;;;;;;;;[combatant_1.GetSheHeCap] äóìàë[combatant_1.GetEndA], [combatant_2.GetFirstName] ñëàáåå í[combatant_1.GetHersHis].;;x
+string_feared_for_life;[combatant_1.GetFirstName] thought [combatant_1.GetSheHe] was going to die, and blames me for it!;;;;;;;;;;;[combatant_1.GetFirstName] äóìàë[combatant_1.GetEndA], [combatant_1.GetSheHe] óìð¸ò, è âèíèò ìåíÿ çà ýòî!;;x
+string_poor_choice;[combatant_1.GetFirstName] thinks I choose [combatant_1.GetHerHis] opponent poorly...;;;;;;;;;;;[combatant_1.GetFirstName] ñ÷èòàåò, ÿ ïëîõî âûáðàë[Root.GetEndA] [combatant_1.GetHerHim] îïïîíåíòà.;;x
 # GetEducationReaction
-String_strapped_on_their_weapon;strapped on [This.GetHerHis] weapon;;;;;;;;;;;;;x
-String_sent_for_diplomatic_advice;sent for diplomatic advisors;;;;;;;;;;;;;x
-String_slammed_their_ledgers_shut;slammed [This.GetHerHis] ledgers shut;;;;;;;;;;;;;x
-String_twirled_a_dagger_menacingly;started twirling with a knife;;;;;;;;;;;;;x
-String_ordered_scribes_be_present;ordered scribes to take note;;;;;;;;;;;;;x
-
+String_strapped_on_their_weapon;strapped on [This.GetHerHis] weapon;;;;;;;;;;;ñõâàòè[This.GetLasLsya] çà îðóæèå;;x
+String_sent_for_diplomatic_advice;sent for diplomatic advisors;;;;;;;;;;;ïîñëàë[This.GetEndA] çà ñîâåòíèêàìè ïî âîïðîñàì ïåðåãîâîðîâ;;x
+String_slammed_their_ledgers_shut;slammed [This.GetHerHis] ledgers shut;;;;;;;;;;;íåîæèäàííî çàõëîïíóë[This.GetEndA] ãðîññáóõ;;x
+String_twirled_a_dagger_menacingly;started twirling with a knife;;;;;;;;;;;âûíóë[This.GetEndA] ñâîé êèíæàë;;x
+String_ordered_scribes_be_present;ordered scribes to take note;;;;;;;;;;;òóò æå ïðèêàçàë[This.GetEndA] ïèñöàì âñ¸ çàäîêóìåíòèðîâàòü;;x
 # GetPoisonDefense
-String_spymaster_averted_it;I am exhausted, I realize. In fact, breathing is hard, and my chest feels tight. "What is...", I mumble, as I fall to the ground, catching a glimpse of [other_combatant.job_spymaster.GetTitledFirstName] in the crowd. The [other_combatant.GetMySpymasterName] is grinning in triumph.;;;;;;;;;;;;;x
-String_they_averted_it_themselves;\nSuddenly, the taste of blood fills my mouth. "YOU were going to poison ME?", [other_combatant.GetSheHe] hisses, throwing a second dagger into my chest.;;;;;;;;;;;;;x
-String_they_lucked_out;Could I have messed up the ingredients...? "Wait!" I call out in desperation, trying to buy myself some time. Something is wrong, I think frantically, but it is too late. The [other_combatant.GetManWoman] [other_combatant.GetKillingBlowOnMeShort].;;;;;;;;;;;;;x
-
+String_spymaster_averted_it;"I am exhausted, I realize. In fact, breathing is hard, and my chest feels tight. ""What is..."", I mumble, as I fall to the ground, catching a glimpse of [other_combatant.job_spymaster.GetTitledFirstName] in the crowd. The [other_combatant.GetMySpymasterName] is grinning in triumph.";;;;;;;;;;;ß óæå âûìîòà[Root.GetLasLsya]. Ïî ïðàâäå ãîâîðÿ, ìíå òÿæåëî äûøàòü, ÷òî-òî äàâèò íà ãðóäü.\n— Êàêîãî?.. — íà÷àë[Root.GetEndA] ÿ, íî ðóõíóë[Root.GetEndA] íà çåìëþ, íå â ñèëàõ áîëüøå âûìîëâèòü íè ñëîâà. Ïîñëåäíåå, ÷òî ÿ óâèäåë - ýòî êàê [This.GetMySpymasterName] ìîå[This.GetYGo] îïïîíåíò[This.GetKiA] åõèäíî óõìûëÿåòñÿ.;;x
+String_they_averted_it_themselves;"\nSuddenly, the taste of blood fills my mouth. ""YOU were going to poison ME?"", [other_combatant.GetSheHe] hisses, throwing a second dagger into my chest.";;;;;;;;;;;Âäðóã ÿ ïî÷óâñòâîâàë[Root.GetEndA] âêóñ êðîâè âî ðòó.\n— Òû õîòåë[Root.GetEndA] îòðàâèòü ìåíÿ! — êðèêíóë[This.GetEndA] [This.GetSheHe], è, âûäåðæàâ ïàóçó, ÷òîáû ïîñìîòðåòü ìíå â ãëàçà, ìåòíóë[This.GetEndA] âòîðîé êèíæàë â ìîþ ãðóäü.;;x
+String_they_lucked_out;"Could I have messed up the ingredients...? ""Wait!"" I call out in desperation, trying to buy myself some time. Something is wrong, I think frantically, but it is too late. The [other_combatant.GetManWoman] [other_combatant.GetKillingBlowOnMeShort].";;;;;;;;;;;Ìîæåò ÿ íàïîðòà÷èë[Root.GetEndA] ñ èíãðåäèåíòàìè?..\n— Ñòîé! — â îò÷àÿíèè êðèêíóë[Root.GetEndA] ÿ, ïûòàÿñü âûãàäàòü ñåáå íåìíîãî âðåìåíè. ×òî-òî íå òàê... ß íà÷àë[Root.GetEndA] ïåðåáèðàòü âîçìîæíûå ïðè÷èíû, íî ñëèøêîì ïîçäíî. [This.GetSheHeCap] [This.GetKillingBlowOnMeShort].;;x
 # GetPoisonForgiveness
-String_spymaster_saw_through_it;"My [This.GetMySpymasterName] tells me that you were seen coating your weapons", [other_combatant.GetTitledFirstName] says, disappointment tinging [other_combatant.GetHerHis] words. I protest, but my [other_combatant.GetRootRelation] has me seized by [other_combatant.GetHerHis] guards.;;;;;;;;;;;;;x
-String_they_saw_through_it_themselves;We have not even started, when my [other_combatant.GetRootRelation] waves a hand in dismissal. "I have eyes and ears everywhere, [Root.GetFirstName]. Poison, truly?", [other_combatant.GetSheHe] sighs. I can feel the eyes of the crowd on me, burning with contempt at the idea.;;;;;;;;;;;;;x
-String_you_messed_up;The poison should have worked by now, I think to myself, frantically dodging another attack. Am I caught? Did I bungle the ratio? Soon, my opponent has [other_combatant.GetHerHis] blade pointed at my throat.;;;;;;;;;;;;;x
-
+String_spymaster_saw_through_it;My [This.GetMySpymasterName] tells me that you were seen coating your weapons, [other_combatant.GetTitledFirstName] says, disappointment tinging [other_combatant.GetHerHis] words. I protest, but my [other_combatant.GetRootRelation] has me seized by [other_combatant.GetHerHis] guards.;;;;;;;;;;;— [This.GetMySpymasterName] ãîâîðèò, ÷òî òû îòðàâèë[Root.GetEndA] ñâî¸ îðóæèå, — çàÿâèë[other_combatant.GetEndA] [other_combatant.GetTitledFirstName], íåñêðûâàÿ ðàçî÷àðîâàíèÿ. ß âñ¸ îòðèöàë[Root.GetEndA], íî ñòðàæà ìîå[other_combatant.GetYGo] [other_combatant.GetRootRelationGEN] ñõâàòèëà ìåíÿ.\n;;x
+String_they_saw_through_it_themselves;"We have not even started, when my [other_combatant.GetRootRelation] waves a hand in dismissal. ""I have eyes and ears everywhere, [Root.GetFirstName]. Poison, truly?"", [other_combatant.GetSheHe] sighs. I can feel the eyes of the crowd on me, burning with contempt at the idea.";;;;;;;;;;;Ìû åù¸ äàæå íå íà÷àëè, à ì[other_combatant.GetOyaOy] [other_combatant.GetRootRelation] óæå ìàøåò ðóêîé, ÷òîáû îñòàíîâèòü ïîåäèíîê.\n— Ó ìåíÿ ãëàçà è óøè ïîâñþäó, [Root.GetFirstName]. ßä? Ñåðü¸çíî? — ãðîìîãëàñíî çàÿâèë[other_combatant.GetEndA] [other_combatant.GetSheHe], äåìîíñòðèðóÿ îòâðàùåíèå. Òîëïà îñóæäàþùå ñìîòðåëà íà ìåíÿ...\n;;x
+String_you_messed_up;The poison should have worked by now, I think to myself, frantically dodging another attack. Am I caught? Did I bungle the ratio? Soon, my opponent has [other_combatant.GetHerHis] blade pointed at my throat.;;;;;;;;;;;"ßä äîëæåí áûë óæå ïîäåéñòâîâàòü, è ÿ îæèäàë[Root.GetEndA] ýôôåêòà, óêëîíÿÿñü îò àòàê.\n""À âäðóã [other_combatant.GetSheHe] äîãàäà[other_combatant.GetLasLsya]?"" — ïîäóìàë[Root.GetEndA] ÿ. — ""Âäðóã ÿ ÷òî-òî íàïóòàë[Root.GetEndA] ñ ïðîïîðöèÿìè?""\nÂäðóã ì[other_combatant.GetOyaOy] îïïîíåíò[other_combatant.GetEndKa] çàñòàë[other_combatant.GetEndA] ìåíÿ âðàñïëîõ, ïðèñòàâèâ êëèíîê ê ìîåìó ãîðëó.\n";;x
 # GetPoisonSpeculation
-String_imbecile_speculation;Why are the trees so colorful suddenly...? I... Can't hold my [Root.GetDuelWeapon] up... Oh, the [Root.Capital.GetGroundDesc] looks so comfy...;;;;;;;;;;;;;x
-String_smart_speculation;Could [other_combatant.GetSheHe] have... If I didn't know better, I'd argue that I am experiencing ... symptoms of ... of poison.;;;;;;;;;;;;;x
-String_gardener_speculation;Is this not reminiscent of how nightshade would make a person feel, if they had been poisoned? Wait, NOOOOO!;;;;;;;;;;;;;x
-String_default_speculation;What have I eaten today...? My food taster was right there... Oh, by [This.Religion.GetHighGodName], this is not how I wanted to go.;;;;;;;;;;;;;x
-
+String_imbecile_speculation;Why are the trees so colorful suddenly...? I... Can't hold my [Root.GetDuelWeapon] up... Oh, the [Root.Capital.GetGroundDesc] looks so comfy...;;;;;;;;;;;Ïî÷åìó äåðåâüÿ òàêèå çåë¸íûå? Îòêóäà çäåñü âîîáùå äåðåâüÿ? ß... íå ìîãó ïîäíÿòü ñâ[Root.GetMyDuelWeaponACC]... Î, çåìëÿ òàêàÿ ìÿãêàÿ è... óäîáíàÿ...;;x
+String_smart_speculation;Could [other_combatant.GetSheHe] have... If I didn't know better, I'd argue that I am experiencing ... symptoms of ... of poison.;;;;;;;;;;;×òî åñëè [other_combatant.GetSheHe]?.. Ãîòîâ[This.GetEndA] ïîñïîðèòü, ýòî... ñèìïòîìû îòðàâëåíèÿ.;;x
+String_gardener_speculation;Is this not reminiscent of how nightshade would make a person feel, if they had been poisoned? Wait, NOOOOO!;;;;;;;;;;;Íàïîìèíàåò îùóùåíèÿ, êîãäà ïîïðîáóåøü ÿãîäû... Ñòîï, ýòî æå... ÍÅÅÅÒ!;;x
+String_default_speculation;What have I eaten today...? My food taster was right there... Oh, by [This.Religion.GetHighGodName], this is not how I wanted to go.;;;;;;;;;;;Ìîæåò ÿ ñúåë[This.GetEndA] ñåãîäíÿ ÷òî-òî íå òî? Äà âðîäå íåò... Òî æå, ÷òî è îáû÷íî... [This.GetNumenExcl]! Íåò! ß íå ìîãó óìåðåòü òàêèì ïàðøèâûì ñïîñîáîì!;;x
 # GetSeverityOfInjury
-String_it_is_bad_A;it is not good;;;;;;;;;;;;;x
-String_it_is_bad_B;it easily could have been worse;;;;;;;;;;;;;x
-String_it_is_lethal;it's lethal;;;;;;;;;;;;;x
-String_it_is_mild_A;it is not going to leave any lasting means;;;;;;;;;;;;;x
-String_it_is_mild_B;it's going to hurt for a while;;;;;;;;;;;;;x
-String_it_is_very_bad_A;it's *bad*;;;;;;;;;;;;;x
-String_it_is_very_bad_B;it's going to leave more than a scar;;;;;;;;;;;;;x
-
+String_it_is_bad_A;it is not good;;;;;;;;;;;. Ýòî íåõîðîøî;;x
+String_it_is_bad_B;it easily could have been worse;;;;;;;;;;;. ×òî æ, ìîãëî áûòü è õóæå;;x
+String_it_is_lethal;it's lethal;;;;;;;;;;;. Ïîõîæå, ýòî ñìåðòåëüíî;;x
+String_it_is_mild_A;it is not going to leave any lasting means;;;;;;;;;;;, íî ïîõîæå, îíà íå ïðåäñòàâëÿåò ñåðü¸çíîé îïàñíîñòè;;x
+String_it_is_mild_B;it's going to hurt for a while;;;;;;;;;;;, ñ êîòîðîé ÿ â ñîñòîÿíèè ñïðàâèòüñÿ;;x
+String_it_is_very_bad_A;it's *bad*;;;;;;;;;;;. Ýòî ðåàëüíî ïëîõî;;x
+String_it_is_very_bad_B;it's going to leave more than a scar;;;;;;;;;;;. Âñ¸ êóäà õóæå, ÷åì ÿ îæèäàë[This.GetEndA];;x
 # GetDuelistRelationOrInsult
-String_get_root_relation;[This.GetRootRelation];;;;;;;;;;;;;x
-String_title_rank;[This.GetTitle];;;;;;;;;;;;;x
-String_mild_insult;you [This.GetEnemySoldierDesc] brute;;;;;;;;;;;;;x
-
+String_get_root_relation;[This.GetRootRelation];;;;;;;;;;;[This.GetRootRelation];;x
+String_title_rank;[This.GetTitle];;;;;;;;;;;[This.GetTitle];;x
+String_mild_insult;you [This.GetEnemySoldierDesc] brute;;;;;;;;;;;[This.GetEnemySoldierDesc]îå æèâîòíîå;;x
 # GetSeverityOfInjuryCap
-String_it_is_bad_A_cap;It is not good;;;;;;;;;;;;;x
-String_it_is_bad_B_cap;It easily could have been worse;;;;;;;;;;;;;x
-String_it_is_lethal_cap;It's lethal;;;;;;;;;;;;;x
-String_it_is_mild_A_cap;It shouldn't leave any lasting means;;;;;;;;;;;;;x
-String_it_is_mild_B_cap;It's going to hurt for a while;;;;;;;;;;;;;x
-String_it_is_very_bad_A_cap;It's *bad*;;;;;;;;;;;;;x
-String_it_is_very_bad_B_cap;It's going to leave more than a scar;;;;;;;;;;;;;x
-
+String_it_is_bad_A_cap;It is not good;;;;;;;;;;;Ýòî íåõîðîøî...;;x
+String_it_is_bad_B_cap;It easily could have been worse;;;;;;;;;;;Ìîãëî áû áûòü è õóæå...;;x
+String_it_is_lethal_cap;It's lethal;;;;;;;;;;;Ðàíà ÿâíî ñìåðòåëüíàÿ...;;x
+String_it_is_mild_A_cap;It shouldn't leave any lasting means;;;;;;;;;;;Ðàíà íåñåðü¸çíàÿ.;;x
+String_it_is_mild_B_cap;It's going to hurt for a while;;;;;;;;;;;Ýòà ðàíà åù¸ ïîáîëèò íåêîòîðîå âðåìÿ.;;x
+String_it_is_very_bad_A_cap;It's *bad*;;;;;;;;;;;Ðàíà òÿæ¸ëàÿ...;;x
+String_it_is_very_bad_B_cap;It's going to leave more than a scar;;;;;;;;;;;Ðàíà îêàçàëàñü êóäà ñåðü¸çíåé, ÷åì ÿ îæèäàë[This.GetEndA].;;x
 # GetDuelScene
-string_the_forest;the forest;;;;;;;;;;;;;x
-string_camp;our camp;;;;;;;;;;;;;x
-string_village_streets;the village streets;;;;;;;;;;;;;x
-string_moonlit_camp;the moonlit meadow;;;;;;;;;;;;;x
-string_city_streets;the city streets;;;;;;;;;;;;;x
-string_the_hills;the hills;;;;;;;;;;;;;x
-
+string_the_forest;the forest;;;;;;;;;;;ëåñ;;x
+string_camp;our camp;;;;;;;;;;;íàø ëàãåðü;;x
+string_village_streets;the village streets;;;;;;;;;;;äåðåâåíñêèå óëî÷êè;;x
+string_moonlit_camp;the moonlit meadow;;;;;;;;;;;ëóííàÿ ïîëÿíà;;x
+string_city_streets;the city streets;;;;;;;;;;;ãîðîäñêèå óëèöû;;x
+string_the_hills;the hills;;;;;;;;;;;õîëìû;;x
 # GetWeaponDescriptionPositive
-string_comfortable_weapon;fit well in my hand;;;;;;;;;;;;;x
-string_shiny_weapon;gleamed in the light;;;;;;;;;;;;;x
-string_extension_of_self;felt like an extension of my arm;;;;;;;;;;;;;x
-string_ugly_weapon;is ugly but effective;;;;;;;;;;;;;x
-
+string_comfortable_weapon;fit well in my hand;;;;;;;;;;;êðåïêî äåðæèòñÿ â ìîåé ðóêå;;x
+string_shiny_weapon;gleamed in the light;;;;;;;;;;;ïîáë¸ñêèâàåò ïðè äíåâíîì ñâåòå;;x
+string_extension_of_self;felt like an extension of my arm;;;;;;;;;;;ñëîâíî ïðîäîëæåíèå ìîåé ðóêè;;x
+string_ugly_weapon;is ugly but effective;;;;;;;;;;;íà âèä íå î÷åíü, íî îòëè÷àåòñÿ ýôôåêòèâíîñòüþ;;x
 # GetWeaponDescriptionNegative
-string_heavy_weapon;felt heavy in my hand.;;;;;;;;;;;;;x
-string_fancy_weapon;looks fancy but I'm not so sure I know how to use it.;;;;;;;;;;;;;x
-
+string_heavy_weapon;felt heavy in my hand.;;;;;;;;;;;òÿæåëåå, ÷åì ÿ îæèäàë[This.GetEndA];;x
+string_fancy_weapon;looks fancy but I'm not so sure I know how to use it.;;;;;;;;;;;âûãëÿäèò íåïëîõî, íî ó÷èòûâàÿ ìîè íàâûêè, ýòî âðÿä ëè èìååò çíà÷åíèå;;x
 # GetBeforeDuelDescription1
-string_the_ground;and the ground felt firm beneath me;;;;;;;;;;;;;x
-string_the_wind;the wind blew gently across my face;;;;;;;;;;;;;x
-string_my_opponents_eyes;and meeting [other_combatant.GetFirstName]'s eyes I saw they were full of apprehension;;;;;;;;;;;;;x
-string_the_crowd;and around us the onlookers held their breath;;;;;;;;;;;;;x
-
+string_the_ground;and the ground felt firm beneath me;;;;;;;;;;;Êàçàëîñü, ìèð îñòàíîâèëñÿ... ß ñòðÿõíóë[This.GetEndA] ñ ñåáÿ îöåïåíåíèå, ;;x
+string_the_wind;the wind blew gently across my face;;;;;;;;;;;Òîëïà âåðåùåëà îò ïðåäâêóøåíèÿ êðîâè. ß ;;x
+string_my_opponents_eyes;and meeting [other_combatant.GetFirstName]'s eyes I saw they were full of apprehension;;;;;;;;;;;[other_combatant.GetFirstName] ïðèñòàëüíî è íå ìîðãàÿ ñìîòðåë[other_combatant.GetEndA] íà ìåíÿ. ß ;;x
+string_the_crowd;and around us the onlookers held their breath;;;;;;;;;;;Òîëïà âûæèäàþùå çàòèõëà. ß ;;x
 # GetDuelMovement1
-string_moved_aggressively;moved aggressively;;;;;;;;;;;;;x
-string_moved_carefully;moved carefully;;;;;;;;;;;;;x
-string_moved_gracefully;moved gracefully;;;;;;;;;;;;;x
-string_moved_purposefully;moved purposefully;;;;;;;;;;;;;x
-string_moved_suddenly;moved suddenly;;;;;;;;;;;;;x
-
+string_moved_aggressively;moved aggressively;;;;;;;;;;;áðîñè[This.GetLasLsya] â àòàêó;;x
+string_moved_carefully;moved carefully;;;;;;;;;;;äâèíó[This.GetLasLsya] âïåð¸ä, èçáåãàÿ âûïàäîâ [This.GetDuelMovement1Side];;x
+string_moved_gracefully;moved gracefully;;;;;;;;;;;ñäåëàë[This.GetEndA] îäèí ëîâêèé âûïàä;;x
+string_moved_purposefully;moved purposefully;;;;;;;;;;;ñîñðåäîòî÷åííî àòàêîâàë[This.GetEndA];;x
+string_moved_suddenly;moved suddenly;;;;;;;;;;;áðîñè[This.GetLasLsya] íà [This.GetDuelMovement1Opponent];;x
 # GetDuringDuelDescription1
-string_single_strike;and struck once, I did not need to strike again;;;;;;;;;;;;;x
-string_parry_and_strike;and brought my [GetDuelWeapon] down upon [other_combatant.GetHerHim]. They fended off the first blow but not the second;;;;;;;;;;;;;x
-string_whirlwind;and in a whirlwind of blows they were down;;;;;;;;;;;;;x
-
+string_single_strike;and struck once, I did not need to strike again;;;;;;;;;;; è íàíåñ[This.GetNoneE] òî÷íûé óäàð;;x
+string_parry_and_strike;and brought my [GetDuelWeapon] down upon [other_combatant.GetHerHim]. They fended off the first blow but not the second;;;;;;;;;;; è íàíåñ[This.GetNoneE] óäàð, íî [other_combatant.GetFirstName] óâåðíó[other_combatant.GetLasLsya]. Âòîðàÿ àòàêà áûëà òî÷íåå;;x
+string_whirlwind;and in a whirlwind of blows they were down;;;;;;;;;;; è òóò æå íàø[This.GetLaYol] óÿçâèìîñòü â [other_combatant.GetHersHis] îáîðîíå;;x
 # GetAfterDuelDescription1
-string_clean_face;Once the duel was over, I mopped the sweat off my brow;;;;;;;;;;;;;x
-string_clean_weapon;After the duel is done I wipe the blood off my [GetDuelWeapon];;;;;;;;;;;;;x
-string_victory_shout;Once it is done I roar in victory;;;;;;;;;;;;;x
-string_leave_them_on_ground;I left them lying on the ground and went to celebrate my victory;;;;;;;;;;;;;x
-
+string_clean_face;Once the duel was over, I mopped the sweat off my brow;;;;;;;;;;;[other_combatant.GetFirstName] èñòåêàë[other_combatant.GetEndA] êðîâüþ è ñâàëè[other_combatant.GetLasLsya] íà çåìëþ. ß óòåð[Root.GetNoneE] ïîò ñî ëáà.;;x
+string_clean_weapon;After the duel is done I wipe the blood off my [GetDuelWeapon];;;;;;;;;;;[other_combatant.GetFirstName] ïîøàòíó[other_combatant.GetLasLsya] è óïàë[other_combatant.GetEndA]. Òîëïà âçâèëàñü îò êðèêà. ß ïîíÿë[This.GetEndA], ÷òî ïîáåäèë[Root.GetEndA].;;x
+string_victory_shout;Once it is done I roar in victory;;;;;;;;;;;[other_combatant.GetFirstName] âçðåâåë[other_combatant.GetEndA] îò áîëè è êàê ïîäêîøåíí[other_combatant.GetAyaYy] ðóõíóë[other_combatant.GetEndA] íà çåìëþ. Âñ¸ áûëî êîí÷åíî.;;x
+string_leave_them_on_ground;I left them lying on the ground and went to celebrate my victory;;;;;;;;;;;[other_combatant.GetFirstName] ñêîð÷è[other_combatant.GetLasLsya] îò áîëè è ðóõíóë[other_combatant.GetEndA] íà çåìëþ. Âñ¸ âîêðóã ñîòðÿñàëîñü îò êðèêîâ òîëïû.;;x
 # GetDuringDuelDescription2
-string_on_ground;before I know it I am lying on the ground in a puddle of my own blood;;;;;;;;;;;;;x
-string_holding_wound;I am doubled over clutching a wound in my side.;;;;;;;;;;;;;x
-string_trying_not_to_cry;I am on the ground holding back tears...;;;;;;;;;;;;;x
+string_on_ground;before I know it I am lying on the ground in a puddle of my own blood;;;;;;;;;;; âñêîðå ÿ óæå ëåæàë[This.GetEndA] íà çåìëå â ëóæå ñîáñòâåííîé êðîâè.;;x
+string_holding_wound;I am doubled over clutching a wound in my side.;;;;;;;;;;;, ïðîïóñòèâ óäàð, ÿ ñîãíó[This.GetLasLsya], ñõâàòèâøèñü çà ðàíó â áîêó.;;x
+string_trying_not_to_cry;I am on the ground holding back tears...;;;;;;;;;;;, íå ñóìåâ îòðàçèòü óäàð, âñêîðå ÿ îêàçà[This.GetLasLsya] íà çåìëå, ñ òðóäîì ñäåðæèâàÿñü, ÷òîáû íå çàêðè÷àòü îò áîëè.;;x

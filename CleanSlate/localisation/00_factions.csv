@@ -1,47 +1,47 @@
-faction_abrahamic_revolters;Abrahamic Dissidents;;;;;;;;;;;;;x
-faction_abrahamic_revolters_desc;The decision to reinstate a dead, heathen cult in place of the worship of the Abrahamic god has upset many vassals across the Empire.;;;;;;;;;;;;;x
-faction_abrahamic_revolters_short;Abrahamic Dissidents;;;;;;;;;;;;;x
-faction_abrahamic_revolters_title;Abrahamic Dissidents;;;;;;;;;;;;;x
-faction_antiking_desc;Members seek to restore Papal authority in [This.GetName] by installing §Y[From.GetBestName]§! on the throne, deposing any antipope and passing the Papal Investiture law.;;;;;;;;;;;;;x
-faction_antiking_short;Antiking [From.GetFirstName];;;;;;;;;;;;;x
-faction_antiking_title;Antiking [From.GetFirstName] for [This.GetName];;;;;;;;;;;;;x
-faction_claimant_desc;Members seek to install §Y[New.GetTitledName]§! on the throne of [This.GetName]§!. When sufficiently powerful, §Y[From.GetTitledName]§! may present an ultimatum to §Y[From.Liege.GetBestName]§!.;;;;;;;;;;;;;x
-faction_claimant_short;Install Claimant;;;;;;;;;;;;;x
-faction_claimant_title;[New.GetTitledFirstName] for [This.GetName];;;;;;;;;;;;;x
-faction_increase_council_power_desc;Members seek to increase the amount of decisions made by the council rather than decreed by the ruler alone. Once this faction is sufficiently powerful, §Y[From.GetBestName]§! may present an ultimatum to §Y[From.Liege.GetBestName]§!.;;;;;;;;;;;;;x
-faction_increase_council_power_short;Increased Council Power;;;;;;;;;;;;;x
-faction_increase_council_power_title;Increased Council Power in [This.GetName];;;;;;;;;;;;;x
-faction_independence_desc;Members seek complete independence. When sufficiently powerful, §Y[From.GetBestName]§! may present an ultimatum to §Y[From.Liege.GetBestName]§!. The leader of the Independence faction is likelier to take greater risks than other faction leaders, and will have fewer qualms about striking when the liege is already under attack.;;;;;;;;;;;;;x
-faction_independence_short;Independence;;;;;;;;;;;;;x
-faction_independence_title;Independence;;;;;;;;;;;;;x
-faction_lower_crown_authority_desc;Members seek to lower the Crown Authority in [This.GetName]. When sufficiently powerful, §Y[From.GetBestName]§! may present an ultimatum to §Y[From.Liege.GetBestName]§!.;;;;;;;;;;;;;x
-faction_lower_crown_authority_short;Lower Crown Authority;;;;;;;;;;;;;x
-faction_lower_crown_authority_title;Lower Crown Authority in [This.GetName];;;;;;;;;;;;;x
-faction_lower_tribal_organization_desc;Members seek to lower the Tribal Organization in [This.GetName]. When sufficiently powerful, §Y[From.GetBestName]§! may present an ultimatum to §Y[From.Liege.GetBestName]§!.;;;;;;;;;;;;;x
-faction_lower_tribal_organization_short;Lower Tribal Organization;;;;;;;;;;;;;x
-faction_lower_tribal_organization_title;Lower Tribal Organization in [This.GetName];;;;;;;;;;;;;x
-faction_overthrow;Overthrow Khan;;;;;;;;;;;;;x
-faction_overthrow_desc;Members desire §Y[From.GetBestName]§! as the new leader for the §Y[This.GetFullName]§!. When sufficiently powerful, §Y[From.GetBestName]§! may present an ultimatum to §Y[From.Liege.GetBestName]§!;;;;;;;;;;;;;x
-faction_overthrow_short;Overthrow Khan;;;;;;;;;;;;;x
-faction_overthrow_title;Overthrow Khan;;;;;;;;;;;;;x
-faction_powerful_vassal_takeover_desc;Members seek to remove §Y[From.Liege.GetBestName]§! from power and significantly increase the Council's power. Once this faction is sufficiently powerful, §Y[From.GetBestName]§! may present an ultimatum to §Y[From.Liege.GetBestName]§!.;;;;;;;;;;;;;x
-faction_powerful_vassal_takeover_short;Overthrow;;;;;;;;;;;;;x
-faction_powerful_vassal_takeover_title;Overthrow [From.Liege.GetBestName];;;;;;;;;;;;;x
-faction_succ_feudal_elective_desc;Members seek to institute Elective Monarchy in [This.GetName]. When sufficiently powerful, §Y[From.GetBestName]§! may present an ultimatum to §Y[From.Liege.GetBestName]§!.;;;;;;;;;;;;;x
-faction_succ_feudal_elective_short;Elective Succession;;;;;;;;;;;;;x
-faction_succ_feudal_elective_title;Elective Succession in [This.GetName];;;;;;;;;;;;;x
-faction_succ_gavelkind_desc;Members seek to institute Gavelkind succession in [This.GetName]. When sufficiently powerful, §Y[From.GetBestName]§! may present an ultimatum to §Y[From.Liege.GetBestName]§!.;;;;;;;;;;;;;x
-faction_succ_gavelkind_short;Gavelkind Succession;;;;;;;;;;;;;x
-faction_succ_gavelkind_title;Gavelkind Succession in [This.GetName];;;;;;;;;;;;;x
-faction_succ_primogeniture_desc;Members seek to institute succession by Primogeniture in [This.GetName]. When sufficiently powerful, §Y[From.GetBestName]§! may present an ultimatum to §Y[From.Liege.GetBestName]§!.;;;;;;;;;;;;;x
-faction_succ_primogeniture_short;Primogeniture Succession;;;;;;;;;;;;;x
-faction_succ_primogeniture_title;Primogeniture Succession in [This.GetName];;;;;;;;;;;;;x
-faction_succ_seniority_desc;Members seek to institute succession by Seniority in [This.GetName]. When sufficiently powerful, §Y[From.GetBestName]§! may present an ultimatum to §Y[From.Liege.GetBestName]§!.;;;;;;;;;;;;;x
-faction_succ_seniority_short;Seniority Succession;;;;;;;;;;;;;x
-faction_succ_seniority_title;Seniority Succession in [This.GetName];;;;;;;;;;;;;x
-faction_succ_ultimogeniture_desc;Members seek to institute succession by Ultimogeniture in [This.GetName]. When sufficiently powerful, §Y[From.GetBestName]§! may present an ultimatum to §Y[From.Liege.GetBestName]§!.;;;;;;;;;;;;;x
-faction_succ_ultimogeniture_short;Ultimogeniture Succession;;;;;;;;;;;;;x
-faction_succ_ultimogeniture_title;Ultimogeniture Succession in [This.GetName];;;;;;;;;;;;;x
-faction_true_believers_desc;Coalition against the recent Mass Conversion imposed by §Y[From.Liege.GetBestName]§!.;;;;;;;;;;;;;x
-faction_true_believers_short;True Believers;;;;;;;;;;;;;x
-faction_true_believers_title;True Believers;;;;;;;;;;;;;x
+faction_abrahamic_revolters;Abrahamic Dissidents;;;;;;;;;;;Àâðààìè÷åñêèå äèññèäåíòû;;x
+faction_abrahamic_revolters_desc;The decision to reinstate a dead, heathen cult in place of the worship of the Abrahamic god has upset many vassals across the Empire.;;;;;;;;;;;Ðåøåíèå âîññòàíîâèòü ì¸ðòâûé ÿçû÷åñêèé êóëüò âìåñòî ïîêëîíåíèÿ àâðààìè÷åñêîìó áîãó ðàññòðîèëî ìíîãèõ âàññàëîâ ïî âñåé èìïåðèè.;;x
+faction_abrahamic_revolters_short;Abrahamic Dissidents;;;;;;;;;;;Àâðààìè÷åñêèå äèññèäåíòû;;x
+faction_abrahamic_revolters_title;Abrahamic Dissidents;;;;;;;;;;;Àâðààìè÷åñêèå äèññèäåíòû;;x
+faction_antiking_desc;Members seek to restore Papal authority in [This.GetName] by installing §Y[From.GetBestName]§! on the throne, deposing any antipope and passing the Papal Investiture law.;;;;;;;;;;;Ôðàêöèÿ ñòðåìèòñÿ âîññòàíîâèòü àâòîðèòåò Ïàïû â ãîñóäàðñòâå [This.GetName], ïîñàäèâ ñâîåãî ïðåòåíäåíòà, èçâåñòíîãî êàê §Y[From.GetBestName]§!, íà [This.GetAdjective]ñêèé òðîí, òåì ñàìûì ñâåðãíóòü àíòèïàïó è ïðèíÿòü çàêîí î ïàïñêîé èíâåñòèòóðå.;;x
+faction_antiking_short;Antiking [From.GetFirstName];;;;;;;;;;;Àíòèêîðîëü [From.GetFirstName];;x
+faction_antiking_title;Antiking [From.GetFirstName] for [This.GetName];;;;;;;;;;;[From.GetFirstName] - àíòèêîðîëü [This.GetAdjective]ñêèé;;x
+faction_claimant_desc;Members seek to install §Y[New.GetTitledName]§! on the throne of [This.GetName]§!. When sufficiently powerful, §Y[From.GetTitledName]§! may present an ultimatum to §Y[From.Liege.GetBestName]§!.;;;;;;;;;;;Ýòà ôðàêöèÿ ñ÷èòàåò, ÷òî §Y[New.GetTitledFirstName]§! èìååò áîëüøå ïðàâ íà òðîí äåðæàâû [This.GetName]§! è ñòðåìèòñÿ èõ îòñòîÿòü. Ïðè äîñòàòî÷íîì âëèÿíèè, §Y[From.GetTitledFirstName]§! ìîæåò ïîñëàòü óëüòèìàòóì, êîòîðûé ïîëó÷èò §Y[From.Liege.GetBestName]§!.;;x
+faction_claimant_short;Install Claimant;;;;;;;;;;;Ïðåòåíäåíòû;;x
+faction_claimant_title;[New.GetTitledFirstName] for [This.GetName];;;;;;;;;;;[New.GetTitledFirstName] - [This.GetName];;x
+faction_increase_council_power_desc;Members seek to increase the amount of decisions made by the council rather than decreed by the ruler alone. Once this faction is sufficiently powerful, §Y[From.GetBestName]§! may present an ultimatum to §Y[From.Liege.GetBestName]§!.;;;;;;;;;;;Ôðàêöèÿ ñòðåìèòñÿ ðàñøèðèòü ïîëíîìî÷èÿ ñîâåòà, îãðàíè÷èâ ðåøåíèÿ, ïðèíèìàåìûå ïðàâèòåëåì ñàìîñòîÿòåëüíî. Íàáðàâ äîñòàòî÷íóþ ñèëó, §Y[From.GetBestName]§! ìîæåò âûäâèíóòü óëüòèìàòóì, è ñþçåðåí, §Y[From.Liege.GetBestName]§!, âûíóæäåí áóäåò îòâåòèòü.;;x
+faction_increase_council_power_short;Increased Council Power;;;;;;;;;;;Âëàñòü ñîâåòó;;x
+faction_increase_council_power_title;Increased Council Power in [This.GetName];;;;;;;;;;;Âëàñòü [This.GetAdjective]ñêîìó ñîâåòó;;x
+faction_independence_desc;Members seek complete independence. When sufficiently powerful, §Y[From.GetBestName]§! may present an ultimatum to §Y[From.Liege.GetBestName]§!. The leader of the Independence faction is likelier to take greater risks than other faction leaders, and will have fewer qualms about striking when the liege is already under attack.;;;;;;;;;;;Ñòîðîííèêè ñòðåìÿòñÿ óòâåðäèòü íåçàâèñèìîñòü. Ïðè äîñòàòî÷íîì âëèÿíèè, §Y[From.GetBestName]§! ìîæåò ïîñëàòü óëüòèìàòóì, êîòîðûé ïîëó÷èò §Y[From.Liege.GetBestName]§!. Ëèäåð ñòîðîííèêîâ íåçàâèñèìîñòè áóäåò èìåòü áîëüøå øàíñîâ ïîïàñòü ïîä óäàð, ÷åì ëèäåðû äðóãèõ ôðàêöèé, íî îí íå áóäåò äîëãî äóìàòü è íàíåñ¸ò óäàð, åñëè åãî ñþçåðåí àòàêîâàí.;;x
+faction_independence_short;Independence;;;;;;;;;;;Ñåïàðàòèñòû;;x
+faction_independence_title;Independence;;;;;;;;;;;Ñåïàðàòèñòû;;x
+faction_lower_crown_authority_desc;Members seek to lower the Crown Authority in [This.GetName]. When sufficiently powerful, §Y[From.GetBestName]§! may present an ultimatum to §Y[From.Liege.GetBestName]§!.;;;;;;;;;;;Ñòîðîííèêè ñòðåìÿòñÿ ñíèçèòü àâòîðèòåò(âëàñòü) Êîðîíû â ãîñóäàðñòâå [This.GetName]. Ïðè äîñòàòî÷íîì âëèÿíèè, §Y[From.GetBestName]§! ìîæåò ïîñëàòü óëüòèìàòóì, êîòîðûé ïîëó÷èò §Y[From.Liege.GetBestName]§!.;;x
+faction_lower_crown_authority_short;Lower Crown Authority;;;;;;;;;;;Îñëàáëåíèå Êîðîíû;;x
+faction_lower_crown_authority_title;Lower Crown Authority in [This.GetName];;;;;;;;;;;" ""Îñëàáëåíèå Êîðîíû"" - [This.GetName]";;x
+faction_lower_tribal_organization_desc;Members seek to lower the Tribal Organization in [This.GetName]. When sufficiently powerful, §Y[From.GetBestName]§! may present an ultimatum to §Y[From.Liege.GetBestName]§!.;;;;;;;;;;;Ñòîðîííèêè ñòðåìÿòñÿ ñíèçèòü îðãàíèçîâàííîñòü (âëàñòü âîæäÿ) â ïëåìåííîì ãîñóäàðñòâå [This.GetName]. Ïðè äîñòàòî÷íîì âëèÿíèè, §Y[From.GetBestName]§! ìîæåò ïîñëàòü óëüòèìàòóì, êîòîðûé ïîëó÷èò §Y[From.Liege.GetBestName]§!.;;x
+faction_lower_tribal_organization_short;Lower Tribal Organization;;;;;;;;;;;Îñëàáëåíèå âîæäÿ;;x
+faction_lower_tribal_organization_title;Lower Tribal Organization in [This.GetName];;;;;;;;;;;" ""Îñëàáëåíèå âîæäÿ"" - [This.GetName]";;x
+faction_overthrow;Overthrow Khan;;;;;;;;;;;Ñâåðæåíèå êàãàíà;;x
+faction_overthrow_desc;Members desire §Y[From.GetBestName]§! as the new leader for the §Y[This.GetFullName]§!. When sufficiently powerful, §Y[From.GetBestName]§! may present an ultimatum to §Y[From.Liege.GetBestName]§!;;;;;;;;;;;Ó÷àñòíèêè ñòðåìÿòñÿ, ÷òîáû §Y[From.GetBestName]§! çàíÿë[From.GetEndA] ìåñòî ëèäåðà âñåé çåìëè, èçâåñòíîé êàê §Y[This.GetFullName]§!. Íàáðàâ äîñòàòî÷íóþ ñèëó, §Y[From.GetBestName]§! ìîæåò âûäâèíóòü óëüòèìàòóì, è ñþçåðåí, §Y[From.Liege.GetBestName]§!, âûíóæäåí[From.Liege.GetEndA] áóäåò îòâåòèòü íà íåãî.;;x
+faction_overthrow_short;Overthrow Khan;;;;;;;;;;;Ñâåðæåíèå êàãàíà;;x
+faction_overthrow_title;Overthrow Khan;;;;;;;;;;;Ñâåðæåíèå êàãàíà;;x
+faction_powerful_vassal_takeover_desc;Members seek to remove §Y[From.Liege.GetBestName]§! from power and significantly increase the Council's power. Once this faction is sufficiently powerful, §Y[From.GetBestName]§! may present an ultimatum to §Y[From.Liege.GetBestName]§!.;;;;;;;;;;;Ó÷àñòíèêè ôðàêöèè ñòðåìÿòñÿ ê òîìó, ÷òîáû §Y[From.Liege.GetBestName]§! îñëàáèë[From.Liege.GetEndA] ñâîþ âëàñòü, ñóùåñòâåííî ðàñøèðèâ ïîëíîìî÷èÿ §Yñîâåòà§!. Åñëè ôðàêöèÿ íàáåð¸ò äîñòàòî÷íóþ ñèëó, §Y[From.GetBestName]§! ñìîæåò ïðåäúÿâèòü [From.Liege.GetHerHim] óëüòèìàòóì.;;x
+faction_powerful_vassal_takeover_short;Overthrow;;;;;;;;;;;Ãîñóäàðñòâåííûé ïåðåâîðîò;;x
+faction_powerful_vassal_takeover_title;Overthrow [From.Liege.GetBestName];;;;;;;;;;;Ãîñóäàðñòâåííûé ïåðåâîðîò;;x
+faction_succ_feudal_elective_desc;Members seek to institute Elective Monarchy in [This.GetName]. When sufficiently powerful, §Y[From.GetBestName]§! may present an ultimatum to §Y[From.Liege.GetBestName]§!.;;;;;;;;;;;Ñòîðîííèêè ñòðåìÿòñÿ óñòàíîâèòü âûáîðíóþ ìîíàðõèþ â ãîñóäàðñòâå [This.GetName]. Ïðè äîñòàòî÷íîì âëèÿíèè, §Y[From.GetBestName]§! ìîæåò ïîñëàòü óëüòèìàòóì, êîòîðûé ïîëó÷èò §Y[From.Liege.GetBestName]§!.;;x
+faction_succ_feudal_elective_short;Elective Succession;;;;;;;;;;;Âûáîðíîñòü;;x
+faction_succ_feudal_elective_title;Elective Succession in [This.GetName];;;;;;;;;;;" ""Âûáîðíîñòü"" - [This.GetName]";;x
+faction_succ_gavelkind_desc;Members seek to institute Gavelkind succession in [This.GetName]. When sufficiently powerful, §Y[From.GetBestName]§! may present an ultimatum to §Y[From.Liege.GetBestName]§!.;;;;;;;;;;;Ñòîðîííèêè ñòðåìÿòñÿ óñòàíîâèòü ïðàâèëî ðàâíîãî ðàçäåëà â ãîñóäàðñòâå [This.GetName]. Ïðè äîñòàòî÷íîì âëèÿíèè, §Y[From.GetBestName]§! ìîæåò ïîñëàòü óëüòèìàòóì, êîòîðûé ïîëó÷èò §Y[From.Liege.GetBestName]§!.;;x
+faction_succ_gavelkind_short;Gavelkind Succession;;;;;;;;;;;Ðàâíûé ðàçäåë;;x
+faction_succ_gavelkind_title;Gavelkind Succession in [This.GetName];;;;;;;;;;;" ""Ðàâíûé ðàçäåë"" - [This.GetName]";;x
+faction_succ_primogeniture_desc;Members seek to institute succession by Primogeniture in [This.GetName]. When sufficiently powerful, §Y[From.GetBestName]§! may present an ultimatum to §Y[From.Liege.GetBestName]§!.;;;;;;;;;;;Ñòîðîííèêè ñòðåìÿòñÿ óòâåðäèòü íàñëåäîâàíèå ïî ïåðâîðîäñòâó â ãîñóäàðñòâå [This.GetName]. Ïðè äîñòàòî÷íîì âëèÿíèè, §Y[From.GetBestName]§! ìîæåò ïîñëàòü óëüòèìàòóì, êîòîðûé ïîëó÷èò §Y[From.Liege.GetBestName]§!.;;x
+faction_succ_primogeniture_short;Primogeniture Succession;;;;;;;;;;;Ïåðâîðîäñòâî;;x
+faction_succ_primogeniture_title;Primogeniture Succession in [This.GetName];;;;;;;;;;;" ""Ïåðâîðîäñòâî"" - [This.GetName]";;x
+faction_succ_seniority_desc;Members seek to institute succession by Seniority in [This.GetName]. When sufficiently powerful, §Y[From.GetBestName]§! may present an ultimatum to §Y[From.Liege.GetBestName]§!.;;;;;;;;;;;Ñòîðîííèêè ñòðåìÿòñÿ óòâåðäèòü íàñëåäîâàíèå ïî ñòàðøèíñòâó â ãîñóäàðñòâå [This.GetName]. Ïðè äîñòàòî÷íîì âëèÿíèè, §Y[From.GetBestName]§! ìîæåò ïîñëàòü óëüòèìàòóì, êîòîðûé ïîëó÷èò §Y[From.Liege.GetBestName]§!.;;x
+faction_succ_seniority_short;Seniority Succession;;;;;;;;;;;Ñòàðøèíñòâî;;x
+faction_succ_seniority_title;Seniority Succession in [This.GetName];;;;;;;;;;;" ""Ñòàðøèíñòâî"" - [This.GetName]";;x
+faction_succ_ultimogeniture_desc;Members seek to institute succession by Ultimogeniture in [This.GetName]. When sufficiently powerful, §Y[From.GetBestName]§! may present an ultimatum to §Y[From.Liege.GetBestName]§!.;;;;;;;;;;;Ñòîðîííèêè ñòðåìÿòñÿ óòâåðäèòü íàñëåäîâàíèå íà ìèíîðàò â ãîñóäàðñòâå [This.GetName]. Ïðè äîñòàòî÷íîì âëèÿíèè, §Y[From.GetBestName]§! ìîæåò ïîñëàòü óëüòèìàòóì, êîòîðûé ïîëó÷èò §Y[From.Liege.GetBestName]§!.;;x
+faction_succ_ultimogeniture_short;Ultimogeniture Succession;;;;;;;;;;;Ìèíîðàò;;x
+faction_succ_ultimogeniture_title;Ultimogeniture Succession in [This.GetName];;;;;;;;;;;" ""Ìèíîðàò"" - [This.GetName]";;x
+faction_true_believers_desc;Coalition against the recent Mass Conversion imposed by §Y[From.Liege.GetBestName]§!.;;;;;;;;;;;Êîàëèöèÿ ïðîòèâ ìàññîâîãî îáðàùåíèÿ â âåðó, êîòîðóþ íàâÿçûâàåò §Y[From.Liege.GetTitledFirstNameWithNick]§!.;;x
+faction_true_believers_short;True Believers;;;;;;;;;;;Èñòèííî âåðóþùèå;;x
+faction_true_believers_title;True Believers;;;;;;;;;;;Èñòèííî âåðóþùèå;;x

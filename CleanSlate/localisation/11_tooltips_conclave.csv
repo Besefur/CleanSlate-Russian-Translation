@@ -1,60 +1,60 @@
-12220_fight_king;Fights the Dread King of Darkness.;;;;;;;;;;;;;x
-12220_submit_to_king;Submits to the Dread King of Darkness.;;;;;;;;;;;;;x
-affectionate_may_become_charitable;Chance of [This.GetFirstName] becoming Charitable.;;;;;;;;;;;;;x
-brooding_may_become_temperate;Chance of [This.GetFirstName] becoming Temperate.;;;;;;;;;;;;;x
-conscientious_may_become_just;Chance of [This.GetFirstName] becoming Just.;;;;;;;;;;;;;x
-council_off_custom;Disables use of §YRealm Peace§!;;;;;;;;;;;;;x
-council_on_custom;Unlocks additional Council power laws\nEnables use of §YRealm Peace§!;;;;;;;;;;;;;x
-curious_may_become_patient;Chance of [This.GetFirstName] becoming Patient.;;;;;;;;;;;;;x
-donation_cooldown_custom_tooltip;May not have had a donation offer refused within the last 5 years.;;;;;;;;;;;;;x
-dread_king_intrigue_tooltip;Apply intrigue skill.;;;;;;;;;;;;;x
-dread_king_martial_tooltip;Apply martial skill.;;;;;;;;;;;;;x
-extort_consequences_custom_tooltip;See what options lie before you.;;;;;;;;;;;;;x
-extort_cooldown_custom_tooltip;May not have extorted your subjects within the last six months.;;;;;;;;;;;;;x
-extort_dynasty_upset_custom_tooltip;This gravely upsets §Y[extortion_target.GetFullName]'s§! entire Dynasty!\n;;;;;;;;;;;;;x
-extort_tyrant_custom_tooltip;Doing this is viewed as tyrannical, and will lower all of your subjects' opinion of you by §R-10§!.\n;;;;;;;;;;;;;x
-fussy_may_become_diligent;Chance of [This.GetFirstName] becoming Diligent.;;;;;;;;;;;;;x
-haughty_may_become_ambitious;Chance of [This.GetFirstName] becoming Ambitious.;;;;;;;;;;;;;x
-idolizer_may_become_kind;Chance of [This.GetFirstName] becoming Kind.;;;;;;;;;;;;;x
-indolent_may_become_gregarious;Chance of [This.GetFirstName] becoming Gregarious.;;;;;;;;;;;;;x
-rowdy_may_become_brave;Chance of [This.GetFirstName] becoming Brave.;;;;;;;;;;;;;x
-timid_may_become_content;Chance of [This.GetFirstName] becoming Content.;;;;;;;;;;;;;x
-willful_may_become_proud;Chance of [This.GetFirstName] becoming Proud.;;;;;;;;;;;;;x
-rat_dies_tooltip_1;Flipper dies!;;;;;;;;;;;;;x
-rat_dies_tooltip_2;Cuddles dies!;;;;;;;;;;;;;x
-rat_dies_tooltip_3;Smelly dies!;;;;;;;;;;;;;x
-playful_may_become_cruel;Chance of [This.GetFirstName] becoming Cruel.;;;;;;;;;;;;;x
-offer_donation_custom_tooltip;Your liege receives a donation offer from you.\n;;;;;;;;;;;;;x
-council_war_off_custom;Council members can join factions freely\n;;;;;;;;;;;;;x
-council_war_on_custom;Council members may only join factions when the Council is §RDiscontent§!\nNomad and tribal Council members can always join factions;;;;;;;;;;;;;x
-TOOLTIP_ALLOW_TRUE_COGNATIC;Allows Absolute Cognatic succession laws\n;;;;;;;;;;;;;x
-TOOLTIP_DISALLOW_TRUE_COGNATIC;Disallows Absolute Cognatic succession laws\n;;;;;;;;;;;;;x
-character_owe_favor;This character will owe you a §YFavor§!.;;;;;;;;;;;;;x
-indebted_to_family_tooltip;§Y[target_unlanded_friend.GetFirstName]'s§! opinion of all your §YDynasty Members§! changes by §G50§! §Y(Loyal Servant)§!\n;;;;;;;;;;;;;x
-introduce_heir_custom_tooltip;Send out the invitations.;;;;;;;;;;;;;x
-stats_increased_tooltip;§Y[From.GetTitledFirstName]'s§! stats are increased.\n;;;;;;;;;;;;;x
-tooltip_disables_advisors;\nDisables the Advisor minor titles for Kings and Emperors\n;;;;;;;;;;;;;x
-tooltip_enables_advisors;\nEnables the Advisor minor titles for Kings and Emperors.\n;;;;;;;;;;;;;x
-ask_for_land_tooltip;Make Request.;;;;;;;;;;;;;x
-mercenary_martial_education_tooltip;[Root.GetFirstName] has a military education\n;;;;;;;;;;;;;x
-request_council_position_tooltip;Send Request.;;;;;;;;;;;;;x
-tooltip_obj_gain_any_title_success;Gains any title from Liege;;;;;;;;;;;;;x
-TOOLTIP_ALLOW_FEMALE_CHANCELLOR;Women related to the ruler are allowed to hold the office of [Root.Holder.GetChancellorName]\n;;;;;;;;;;;;;x
-TOOLTIP_ALLOW_FEMALE_MARSHAL;Women related to the ruler are allowed to hold the office of [Root.Holder.GetMarshalName]\n;;;;;;;;;;;;;x
-TOOLTIP_ALLOW_FEMALE_SPYMASTER;Women related to the ruler are allowed to hold the office of [Root.Holder.GetSpymasterName]\n;;;;;;;;;;;;;x
-TOOLTIP_ALLOW_FEMALE_TREASURER;Women related to the ruler are allowed to hold the office of [Root.Holder.GetTreasurerName]\n;;;;;;;;;;;;;x
-TOOLTIP_DISALLOW_FEMALE_CHANCELLOR;Women are no longer allowed to hold the office of [Root.Holder.GetChancellorName]\n;;;;;;;;;;;;;x
-TOOLTIP_DISALLOW_FEMALE_MARSHAL;Women are no longer allowed to hold the office of [Root.Holder.GetMarshalName]\n;;;;;;;;;;;;;x
-TOOLTIP_DISALLOW_FEMALE_SPYMASTER;Women are no longer allowed to hold the office of [Root.Holder.GetSpymasterName]\n;;;;;;;;;;;;;x
-TOOLTIP_DISALLOW_FEMALE_TREASURER;Women are no longer allowed to hold the office of [Root.Holder.GetTreasurerName]\n;;;;;;;;;;;;;x
-CREATE_DYNAMIC_MERC_TOOLTIP;§Y[Root.GetFirstName]§! brings together a band of soldiers and starts to look for employment.;;;;;;;;;;;;;x
-disobedient_daughter_takes_lover;[FromFrom.GetFirstName] takes another lover.;;;;;;;;;;;;;x
-obj_build_a_war_chest_success_custom_tooltip;Has amassed a suitably large amount of money for [This.GetHerHis] realm: 300¤if ruling a County, 500¤if ruling a Duchy, 700¤if ruling a Kingdom or 1000¤if ruling an Empire.;;;;;;;;;;;;;x
-obj_land_for_daughter_success_tooltip;Acquire a county for your daughter.;;;;;;;;;;;;;x
-obj_land_for_son_success_tooltip;Acquire a county for your son.;;;;;;;;;;;;;x
-TOOLTIP_ALLOW_FEMALE_COMMANDERS;Allows female commanders\n;;;;;;;;;;;;;x
-TOOLTIP_DISALLOW_FEMALE_COMMANDERS;Disallows female commanders\n;;;;;;;;;;;;;x
-TOOLTIP_ze_administration_laws_0;Disallows additional succession laws\nVassals may refuse liege interference in wars\n;;;;;;;;;;;;;x
-TOOLTIP_ze_administration_laws_1;Allows additional succession laws\nVassals who refuse liege interference in wars are seen as traitors\n;;;;;;;;;;;;;x
-sensitive_character_custom_tooltip;As your character does not have a tyrannical personality, this action may affect you negatively.\n;;;;;;;;;;;;;x
-demand_liege_title_tooltip;Ask [Root.Liege.GetTitledFirstName] for a title;;;;;;;;;;;;;x
+12220_fight_king;Fights the Dread King of Darkness.;;;;;;;;;;;Ñðàæàòüñÿ ñ âëàäûêîé òüìû è óæàñà;;x
+12220_submit_to_king;Submits to the Dread King of Darkness.;;;;;;;;;;;Ïîä÷èíèòüñÿ âëàäûêå òüìû è óæàñà.;;x
+affectionate_may_become_charitable;Chance of [This.GetFirstName] becoming Charitable.;;;;;;;;;;;ìîæåò ïîëó÷èòü ÷åðòó §Yùåäð[From.GetAyaYy]§!.;;x
+brooding_may_become_temperate;Chance of [This.GetFirstName] becoming Temperate.;;;;;;;;;;;ìîæåò ïîëó÷èòü ÷åðòó §Yóìåðåíí[From.GetAyaYy]§!.;;x
+conscientious_may_become_just;Chance of [This.GetFirstName] becoming Just.;;;;;;;;;;;ìîæåò ïîëó÷èòü ÷åðòó §Yñïðàâåäëèâ[From.GetAyaYy]§!.;;x
+council_off_custom;Disables use of §YRealm Peace§!;;;;;;;;;;;Çàïðåùàåò ïðèíóæäåíèå ê §Yìèðó âíóòðè ñòðàíû§!;;x
+council_on_custom;Unlocks additional Council power laws\nEnables use of §YRealm Peace§!;;;;;;;;;;;Ðàçðåøàåò äîïîëíèòåëüíûå çàêîíû î ñîâåòå\nÐàçðåøàåò ïðèíóæäåíèå ê §Yìèðó âíóòðè ñòðàíû§!;;x
+curious_may_become_patient;Chance of [This.GetFirstName] becoming Patient.;;;;;;;;;;;ìîæåò ïîëó÷èòü ÷åðòó §Yòåðïåëèâ[From.GetAyaYy]§!.;;x
+donation_cooldown_custom_tooltip;May not have had a donation offer refused within the last 5 years.;;;;;;;;;;;Çà ïîñëåäíèå 5 ëåò íå áûëî îòêàçîâ ïðèíÿòü îò Âàñ òàêîå ïîæåðòâîâàíèå.;;x
+dread_king_intrigue_tooltip;Apply intrigue skill.;;;;;;;;;;;Âëèÿåò íà íàâûê èíòðèãè.;;x
+dread_king_martial_tooltip;Apply martial skill.;;;;;;;;;;;Âëèÿåò íà âîåííûé íàâûê.;;x
+extort_consequences_custom_tooltip;See what options lie before you.;;;;;;;;;;;Âàì ïðåäîñòàâÿò âàðèàíòû îòú¸ìà ñðåäñòâ.;;x
+extort_cooldown_custom_tooltip;May not have extorted your subjects within the last six months.;;;;;;;;;;;Â ïîñëåäíèå 6 ìåñÿöåâ íå áûëî òàêèõ ïîáîðîâ.;;x
+extort_dynasty_upset_custom_tooltip;This gravely upsets §Y[extortion_target.GetFullName]'s§! entire Dynasty!\n;;;;;;;;;;;Âñÿ äèíàñòèÿ §Y[extortion_target.GetOnlyDynastyName]§! Âàì ýòî ïðèïîìíèò\n;;x
+extort_tyrant_custom_tooltip;Doing this is viewed as tyrannical, and will lower all of your subjects' opinion of you by §R-10§!.\n;;;;;;;;;;;Òàê ïîñòóïàþò òîëüêî òèðàíû, §R-10§! ê ìíåíèþ âñåõ ïîääàíûõ î Âàñ.\n;;x
+fussy_may_become_diligent;Chance of [This.GetFirstName] becoming Diligent.;;;;;;;;;;;ìîæåò ïîëó÷èòü ÷åðòó §Yóñåðäí[From.GetAyaYy]§!.;;x
+haughty_may_become_ambitious;Chance of [This.GetFirstName] becoming Ambitious.;;;;;;;;;;;ìîæåò ïîëó÷èòü ÷åðòó §Yàìáèöèîçí[From.GetAyaYy]§!.;;x
+idolizer_may_become_kind;Chance of [This.GetFirstName] becoming Kind.;;;;;;;;;;;ìîæåò ïîëó÷èòü ÷åðòó §Yäîáð[From.GetAyaYy]§!.;;x
+indolent_may_become_gregarious;Chance of [This.GetFirstName] becoming Gregarious.;;;;;;;;;;;ìîæåò ïîëó÷èòü ÷åðòó §Yîáùèòåëüí[From.GetAyaYy]§!.;;x
+rowdy_may_become_brave;Chance of [This.GetFirstName] becoming Brave.;;;;;;;;;;;ìîæåò ïîëó÷èòü ÷åðòó §Yõðàáð[From.GetAyaYy]§!.;;x
+timid_may_become_content;Chance of [This.GetFirstName] becoming Content.;;;;;;;;;;;ìîæåò ïîëó÷èòü ÷åðòó §Yóäîâëåòâîð¸íí[From.GetAyaYy]§!.;;x
+willful_may_become_proud;Chance of [This.GetFirstName] becoming Proud.;;;;;;;;;;;ìîæåò ïîëó÷èòü ÷åðòó §Yâûñîêîìåðí[From.GetAyaYy]§!.;;x
+rat_dies_tooltip_1;Flipper dies!;;;;;;;;;;;Ïðîíûðà ïîãèáíåò!;;x
+rat_dies_tooltip_2;Cuddles dies!;;;;;;;;;;;Ïóøèñòèê ïîãèáíåò!;;x
+rat_dies_tooltip_3;Smelly dies!;;;;;;;;;;;Âîíþ÷êà ïîãèáíåò!;;x
+playful_may_become_cruel;Chance of [This.GetFirstName] becoming Cruel.;;;;;;;;;;;ìîæåò ïîëó÷èòü ÷åðòó §Yæåñòîê[From.GetAyaIy]§!.;;x
+offer_donation_custom_tooltip;Your liege receives a donation offer from you.\n;;;;;;;;;;;Âàø ñþçåðåí ïîëó÷èò îò Âàñ ïðåäëîæåíèå ïðèíÿòü ïîæåðòâîâàíèå.\n;;x
+council_war_off_custom;Council members can join factions freely\n;;;;;;;;;;; ÷ëåíû ñîâåòà ìîãóò ñâîáîäíî âñòóïàòü âî ôðàêöèè.\n;;x
+council_war_on_custom;Council members may only join factions when the Council is §RDiscontent§!\nNomad and tribal Council members can always join factions;;;;;;;;;;; ÷ëåíû ñîâåòà ìîãóò âñòóïàòü âî ôðàêöèè òîëüêî, êîãäà ñîâåò âûðàæàåò §Ríåäîâîëüñòâî§!. Ïðåäñòâèòåëè ïëåìåííûõ è êî÷åâûõ îáùèí âñåãäà ìîãóò âñòóïàòü âî ôðàêöèè.;;x
+TOOLTIP_ALLOW_TRUE_COGNATIC;Allows Absolute Cognatic succession laws\n;;;;;;;;;;;Ðàçðåøàåò êîãíàòè÷åñêîå íàñëåäîâàíèå.\n;;x
+TOOLTIP_DISALLOW_TRUE_COGNATIC;Disallows Absolute Cognatic succession laws\n;;;;;;;;;;;Çàïðåùàåò êîãíàòè÷åñêîå íàñëåäîâàíèå.\n;;x
+character_owe_favor;This character will owe you a §YFavor§!.;;;;;;;;;;;Ýòîò ïåðñîíàæ áóäåò ïåðåä Âàìè §Yâ äîëãó§!.;;x
+indebted_to_family_tooltip;§Y[target_unlanded_friend.GetFirstName]'s§! opinion of all your §YDynasty Members§! changes by §G50§! §Y(Loyal Servant)§!\n;;;;;;;;;;;§Y[target_unlanded_friend.GetFirstName]§! óëó÷øèò ñâî¸ ìíåíèå î âñåõ ÷ëåíàõ Âàøåé §Yäèíàñòèè§! íà §G50§! §Y(Âåðíûé ñëóãà)§!\n;;x
+introduce_heir_custom_tooltip;Send out the invitations.;;;;;;;;;;;Ðàçîñëàòü ïðèãëàøåíèÿ.;;x
+stats_increased_tooltip;§Y[From.GetTitledFirstName]'s§! stats are increased.\n;;;;;;;;;;;§Y[From.GetTitledFirstName]§! óëó÷øèò ñâîè õàðàêòåðèñòèêè\n;;x
+tooltip_disables_advisors;\nDisables the Advisor minor titles for Kings and Emperors\n;;;;;;;;;;;\nÇàïðåùàåò ñïåöèàëüíûé òèòóë ñîâåòíèêà äëÿ êîðîëåé è èìïåðàòîðîâ.\n;;x
+tooltip_enables_advisors;\nEnables the Advisor minor titles for Kings and Emperors.\n;;;;;;;;;;;\nÐàçðåøàåò ñïåöèàëüíûé òèòóë ñîâåòíèêà äëÿ êîðîëåé è èìïåðàòîðîâ.\n;;x
+ask_for_land_tooltip;Make Request.;;;;;;;;;;;Ïîñëàòü çàïðîñ.;;x
+mercenary_martial_education_tooltip;[Root.GetFirstName] has a military education\n;;;;;;;;;;;[Root.GetFirstName] èìååò âîåííîå îáðàçîâàíèå\n;;x
+request_council_position_tooltip;Send Request.;;;;;;;;;;;Ïîñëàòü çàïðîñ.;;x
+tooltip_obj_gain_any_title_success;Gains any title from Liege;;;;;;;;;;;Ïîëó÷èòü ëþáîé òèòóë ñþçåðåíà;;x
+TOOLTIP_ALLOW_FEMALE_CHANCELLOR;Women related to the ruler are allowed to hold the office of [Root.Holder.GetChancellorName]\n;;;;;;;;;;;[Root.Holder.GetChancellorName] ìîæåò áûòü æåíùèíîé.\n;;x
+TOOLTIP_ALLOW_FEMALE_MARSHAL;Women related to the ruler are allowed to hold the office of [Root.Holder.GetMarshalName]\n;;;;;;;;;;;[Root.Holder.GetMarshalName] ìîæåò áûòü æåíøèíîé.\n;;x
+TOOLTIP_ALLOW_FEMALE_SPYMASTER;Women related to the ruler are allowed to hold the office of [Root.Holder.GetSpymasterName]\n;;;;;;;;;;;[Root.Holder.GetSpymasterName] ìîæåò áûòü æåíùèíîé.\n;;x
+TOOLTIP_ALLOW_FEMALE_TREASURER;Women related to the ruler are allowed to hold the office of [Root.Holder.GetTreasurerName]\n;;;;;;;;;;;[Root.Holder.GetTreasurerName] ìîæåò áûòü æåíùèíîé.\n;;x
+TOOLTIP_DISALLOW_FEMALE_CHANCELLOR;Women are no longer allowed to hold the office of [Root.Holder.GetChancellorName]\n;;;;;;;;;;;[Root.Holder.GetChancellorName] ÍÅ ìîæåò áûòü æåíùèíîé.\n;;x
+TOOLTIP_DISALLOW_FEMALE_MARSHAL;Women are no longer allowed to hold the office of [Root.Holder.GetMarshalName]\n;;;;;;;;;;;[Root.Holder.GetMarshalName] ÍÅ ìîæåò áûòü æåíøèíîé.\n;;x
+TOOLTIP_DISALLOW_FEMALE_SPYMASTER;Women are no longer allowed to hold the office of [Root.Holder.GetSpymasterName]\n;;;;;;;;;;;[Root.Holder.GetSpymasterName] ÍÅ ìîæåò áûòü æåíùèíîé.\n;;x
+TOOLTIP_DISALLOW_FEMALE_TREASURER;Women are no longer allowed to hold the office of [Root.Holder.GetTreasurerName]\n;;;;;;;;;;;[Root.Holder.GetTreasurerName] ÍÅ ìîæåò áûòü æåíùèíîé.\n;;x
+CREATE_DYNAMIC_MERC_TOOLTIP;§Y[Root.GetFirstName]§! brings together a band of soldiers and starts to look for employment.;;;;;;;;;;;§Y[Root.GetFirstName]§! ñîáåð¸ò ñîëäàò è íà÷í¸ò èñêàòü íàíèìàòåëÿ.;;x
+disobedient_daughter_takes_lover;[FromFrom.GetFirstName] takes another lover.;;;;;;;;;;;[This.GetFirstName] íàøëà íîâîãî ëþáîâíèêà;;x
+obj_build_a_war_chest_success_custom_tooltip;Has amassed a suitably large amount of money for [This.GetHerHis] realm: 300¤if ruling a County, 500¤if ruling a Duchy, 700¤if ruling a Kingdom or 1000¤if ruling an Empire.;;;;;;;;;;;Íàêîïèò äîñòàòî÷íî äåíåã: 300¤ äëÿ ãðàôñòâà, 500¤ äëÿ ãåðöîãñòâà, 700¤ äëÿ êîðîëåâñòâà è 1000¤ äëÿ èìïåðèè.;;x
+obj_land_for_daughter_success_tooltip;Acquire a county for your daughter.;;;;;;;;;;;Âû äîëæíû ïîëó÷èòü íàäåë äëÿ ñâîåé äî÷åðè.;;x
+obj_land_for_son_success_tooltip;Acquire a county for your son.;;;;;;;;;;;Âû äîëæíû ïîëó÷èòü íàäåë äëÿ ñâîåãî ñûíà.;;x
+TOOLTIP_ALLOW_FEMALE_COMMANDERS;Allows female commanders\n;;;;;;;;;;;Ðàçðåøàåò æåíùèíàì âîçãëàâëÿòü âîéñêà\n;;x
+TOOLTIP_DISALLOW_FEMALE_COMMANDERS;Disallows female commanders\n;;;;;;;;;;;Çàïðåùàåò æåíùèíàì âîçãëàâëÿòü âîéñêà\n;;x
+TOOLTIP_ze_administration_laws_0;Disallows additional succession laws\nVassals may refuse liege interference in wars\n;;;;;;;;;;;Çàïðåùàåò äîïîëíèòåëüíûå çàêîíû íàñëåäîâàíèÿ\nÂàññàëû ìîãóò îòâåðãàòü âìåøàòåëüñòâî ñþçåðåíà â âîéíû\n;;x
+TOOLTIP_ze_administration_laws_1;Allows additional succession laws\nVassals who refuse liege interference in wars are seen as traitors\n;;;;;;;;;;;Ðàçðåøàåò äîïîëíèòåëüíûå çàêîíû íàñëåäîâàíèÿ\nÂàññàëû, êîòîðûå îòâåðãàþò âìåøàòåëüñòâî ñþçåðåíà â âîéíû ðàññìàòðèâàþòñÿ êàê èçìåííèêè\n;;x
+sensitive_character_custom_tooltip;As your character does not have a tyrannical personality, this action may affect you negatively.\n;;;;;;;;;;;Ïîñêîëüêó Âû íå îáëàäàåòå ÷åðòàìè õàðàêòåðà òèðàíà, ýòî äåéñòâèå ìîæåò îêàçàòü íåãàòèâíîå âëèÿíèå íà Âàñ.\n;;x
+demand_liege_title_tooltip;Ask [Root.Liege.GetTitledFirstName] for a title;;;;;;;;;;;Ïóñòü [Root.Liege.GetTitledFirstName] ïîæàëóåò ìíå òèòóë;;x

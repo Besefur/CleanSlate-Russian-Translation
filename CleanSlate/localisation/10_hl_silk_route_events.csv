@@ -1,102 +1,95 @@
-EVTDESC_HL_5000;A traveller from the east reaches your court along with his personal bodyguard. Reading from a scroll, he states that the Great Emperor of China demands a tribute of a thousand 'heavenly horses' from your lands.;;;;;;;;;;;;;x
-EVTDESC_HL_5001;Another envoy from China arrives at your court. He tells you that he himself is a gift - a token of gratitude from the Emperor - and that he is an excellent governor of trade if you need his services.;;;;;;;;;;;;;x
-EVTDESC_HL_5005;I've noticed an increase in traders coming from the east since I employed [chinese_envoy.GetBestName] as a trade governor.;;;;;;;;;;;;;x
-EVTDESC_HL_5006;[chinese_envoy.GetBestName] has managed to acquire a collection of rare gemstones on your behalf.;;;;;;;;;;;;;x
-EVTDESC_HL_5007;A couple of travelling merchants claim that their goods were stolen while they stayed on your premises.;;;;;;;;;;;;;x
-EVTDESC_HL_5008;Enthusiastic and blabbering [chinese_envoy.GetFirstName] pulls a large sack into the room. [chinese_envoy.GetSheHeCap] apparently found valuable goods laying on the premises and wants to share it with you.;;;;;;;;;;;;;x
-EVTDESC_HL_5011OTHER;I hear a scream outside and rush out only to see [chinese_envoy.GetFirstName]'s snake swallowing the dog of [dog_owner.GetFirstName] in a single gulp.;;;;;;;;;;;;;x
-EVTDESC_HL_5011SELF;I hear a dog barking outside and rush out only to see [chinese_envoy.GetFirstName]'s dastardly snake swallowing my beloved dog in a single gulp.;;;;;;;;;;;;;x
-EVTDESC_HL_5014;You are out taking a walk together with [marriage_target.GetFirstName] when [chinese_envoy.GetFirstName] approaches you with a concern. According to Chinese law [chinese_envoy.GetSheHe] is required to get a woman to continue his services more permanently.;;;;;;;;;;;;;x
-EVTDESC_HL_5016;Dust rise in your wake as you head for the local tavern with heavy steps. As you enter, you instantly notice [chinese_envoy.GetFirstName], seemingly involved in a game of chance. You approach [chinese_envoy.GetHerHim] and realize that [chinese_envoy.GetSheHe] is betting your money on games of chance... and losing. [chinese_envoy.GetFirstName] looks up at you with a smile and says: 'Hey. Your drinksch are taschty'.;;;;;;;;;;;;;x
-EVTDESC_HL_5017;[chinese_envoy.GetBestName] entered my chamber with [chinese_envoy.GetHerHis] newly acquired pet snake wrapped around [chinese_envoy.GetHerHis] neck. [chinese_envoy.GetSheHeCap] asks if I want to pet it.;;;;;;;;;;;;;x
-EVTDESC_HL_5045;[Root.GetTitledFirstName],\n\nI hereby inform you that I'm leaving the position at your court because of the less than preferable way that you have treated me.\n\nSigned\n[chinese_envoy.GetFirstName];;;;;;;;;;;;;x
-EVTDESC_HL_5048;[Root.GetTitledFirstName]\n\nYour insolence has not gone unnoticed. I will henceforth punish all travellers who are suspected of having have visited your city. \n\nSigned,\nThe Emperor.;;;;;;;;;;;;;x
-EVTDESC_HL_5050;Reports have reached us that traders and travellers are being harassed by raiders in your lands of [Root.GetName].;;;;;;;;;;;;;x
-EVTDESC_HL_5051;A group of raiders are threatening the trade in our realm. My liege, [Liege.GetTitledFirstName], has ordered me to go after their leader, and make sure that the roads are safe for caravans.;;;;;;;;;;;;;x
-EVTDESC_HL_5052;[From.GetTitledFirstName] brought forth to me the head of the raiders' leader, of the bandit leader whom previously plagued merchants in [FromFrom.GetName].;;;;;;;;;;;;;x
-EVTDESC_HL_5053;In the late afternoon [From.GetTitledFirstName]'s horse arrived home riderless. There's no telling what the raiders have done to [From.GetHerHim].;;;;;;;;;;;;;x
-EVTDESC_HL_5054;The coward [From.GetTitledFirstName] deemed it too dangerous to interfere with the caravan raiders, and refused to carry out my orders. I could have [From.GetHerHim] arrested for this, however, that would not solve the problem of merchants being attacked on my trade routes.;;;;;;;;;;;;;x
-EVTDESC_HL_5055;[From.GetTitledFirstName] arrives bruised and alone from his venture to drive away the raiders. Unfortunately he brings the news that he has been unable to fight off the raiders from our land.;;;;;;;;;;;;;x
-EVTDESC_HL_5056;After the sunset I manage to track down the raiders encampment. Me and my men decide to...;;;;;;;;;;;;;x
-EVTDESC_HL_5057;As we enter the camp, we pass clusters of tents and campfires. While I can only see a small group of raiders, I can feel many eyes upon me. Approaching the center of the settlement, a silhouette - who I assume is the leader of the raiders - exits a large tent, and greets me with a smirk.;;;;;;;;;;;;;x
-EVTDESC_HL_5058;While engaged in a fairly one-sided conversation about property and rights, I fail to notice the thug sneaking up behind me. I just barely notice their leader making a subtle nodding motion before a sharp blow to the back of my head robs me of consciousness.;;;;;;;;;;;;;x
-EVTDESC_HL_5059;I'm brought to consciousness by the sound of laughter and shouts. As my eyes adjust to the unforgiving sunlight, I realize that I have been tied up. The raiders have dressed me in silly clothes and are parading me around town, demanding a pile of gold in return for my freedom.;;;;;;;;;;;;;x
-EVTDESC_HL_5060;As we are closing in on the raiders' camp we count on the cover of darkness to keep us from sight. This turns out to be a foolish mistake, as we abruply find ourselves both surrounded and outnumbered.;;;;;;;;;;;;;x
-EVTDESC_HL_5061;After subduing the guards on watch we enter the leader's tent. While he's fast asleep I draw my blade, placing it with great precision against his throat. Suddenly his eyes flicker open, and his gaze wanders the tent with a dazed urgency. I realize that if I do not act quickly, he may very well draw attention to us.;;;;;;;;;;;;;x
-
-EVTOPTA_HL_5000;These are the finest and strongest horses.;;;;;;;;;;;;;x
-EVTOPTA_HL_5001;I'll let him govern the trade.;;;;;;;;;;;;;x
-EVTOPTA_HL_5005;Let the silk flow.;;;;;;;;;;;;;x
-EVTOPTA_HL_5006;Sell them for profit.;;;;;;;;;;;;;x
-EVTOPTA_HL_5007;Apologize and reimburse them.;;;;;;;;;;;;;x
-EVTOPTA_HL_5008;I wonder if this is just a coincidence?;;;;;;;;;;;;;x
-EVTOPTA_HL_5014;Ahem.. We were just discussing that matter, [marriage_target.GetFirstName]. Right?;;;;;;;;;;;;;x
-EVTOPTA_HL_5016;Just stay away from these people.;;;;;;;;;;;;;x
-EVTOPTA_HL_5017;I hope it doesn't bite.;;;;;;;;;;;;;x
-EVTOPTA_HL_5045;That's too bad.;;;;;;;;;;;;;x
-EVTOPTA_HL_5048;This could be bad for trade.;;;;;;;;;;;;;x
-EVTOPTA_HL_5050;I'll let them continue if they share the loot.;;;;;;;;;;;;;x
-EVTOPTA_HL_5051;It is my duty.;;;;;;;;;;;;;x
-EVTOPTA_HL_5052;Excellent work!;;;;;;;;;;;;;x
-EVTOPTA_HL_5053;What a horrible fate.;;;;;;;;;;;;;x
-EVTOPTA_HL_5054;I need to deal with my unruly marshal.;;;;;;;;;;;;;x
-EVTOPTA_HL_5055;Annoying pests!;;;;;;;;;;;;;x
-EVTOPTA_HL_5056;... enter the camp and approach their leader.;;;;;;;;;;;;;x
-EVTOPTA_HL_5057;Fight the leader to shatter the band of raiders.;;;;;;;;;;;;;x
-EVTOPTA_HL_5058;Ow!;;;;;;;;;;;;;x
-EVTOPTA_HL_5059;Pay them for my freedom.;;;;;;;;;;;;;x
-EVTOPTA_HL_5060;Surrender.;;;;;;;;;;;;;x
-EVTOPTA_HL_5061;Threaten him to leave my land!;;;;;;;;;;;;;x
-
-EVTOPTB_HL_5000;Your Emperor has no power here!;;;;;;;;;;;;;x
-EVTOPTB_HL_5001;He can muck the stables.;;;;;;;;;;;;;x
-EVTOPTB_HL_5006;These will fit great in a pendant.;;;;;;;;;;;;;x
-EVTOPTB_HL_5007;That's their loss.;;;;;;;;;;;;;x
-EVTOPTB_HL_5008;Find the merchants and return their lost cargo.;;;;;;;;;;;;;x
-EVTOPTB_HL_5014;I guess I have no more need of your services then.;;;;;;;;;;;;;x
-EVTOPTB_HL_5016;Arrest this [chinese_envoy.GetManWoman].;;;;;;;;;;;;;x
-EVTOPTB_HL_5017;It seems a bit dangerous.;;;;;;;;;;;;;x
-EVTOPTB_HL_5050;Send my marshal to hunt them down.;;;;;;;;;;;;;x
-EVTOPTB_HL_5051;I won't risk my life against the dangerous bandits.;;;;;;;;;;;;;x
-EVTOPTB_HL_5053;I need to deal with these rascals personally.;;;;;;;;;;;;;x
-EVTOPTB_HL_5054;I have to root out the raiders myself.;;;;;;;;;;;;;x
-EVTOPTB_HL_5056;... wait until midnight and sneak up on the guards.;;;;;;;;;;;;;x
-EVTOPTB_HL_5057;Bribe the raiders to leave my land.;;;;;;;;;;;;;x
-EVTOPTB_HL_5059;Plead for mercy.;;;;;;;;;;;;;x
-EVTOPTB_HL_5060;Let's dance!;;;;;;;;;;;;;x
-EVTOPTB_HL_5061;Slit his throat and fight our way out.;;;;;;;;;;;;;x
-
-EVTOPTC_HL_5001;Politely decline the offer.;;;;;;;;;;;;;x
-EVTOPTC_HL_5006;I'll make some earrings for my [Root.Spouse.GetHusbandWife].;;;;;;;;;;;;;x
-EVTOPTC_HL_5017;Forbid [chinese_envoy.GetHerHim] from keeping the snake.;;;;;;;;;;;;;x
-EVTOPTC_HL_5050;Ready my horse. I'll get rid of the scoundrel.;;;;;;;;;;;;;x
-EVTOPTC_HL_5053;Get the soldiers to chase them out.;;;;;;;;;;;;;x
-EVTOPTC_HL_5054;Organize soldiers to take care of the raiders.;;;;;;;;;;;;;x
-EVTOPTC_HL_5057;Diplomatically explain why they can't harass travellers.;;;;;;;;;;;;;x
-
-EVTTOOLTIP_HL_5051;Refusing orders while give my liege a reason to arrest me.;;;;;;;;;;;;;x
-
-EVTOPTA_WOL_5011;That's the way of life.;;;;;;;;;;;;;x
-EVTOPTB_WOL_5011;Someone slay that beast before it does more harm!;;;;;;;;;;;;;x
-EVTOPTC_WOL_5011;Poor [Root.GetDogName]!;;;;;;;;;;;;;x
-
-EVTOPTD_WOL_5011;I'll have [FromFrom.GetHerHis] head for this!;;;;;;;;;;;;;x
-
-# EVTOPTC_WOL_5011_AHRIMAN;Poor Ahriman!;;;;;;;;;;;;;x
-# EVTOPTC_WOL_5011_DARKNESS;Poor Darkness!;;;;;;;;;;;;;x
-# EVTOPTC_WOL_5011_ERLIK;Poor Erlik!;;;;;;;;;;;;;x
-# EVTOPTC_WOL_5011_FAITHFUL;Poor Faithful!;;;;;;;;;;;;;x
-# EVTOPTC_WOL_5011_FENRIR;Poor Fenrir!;;;;;;;;;;;;;x
-# EVTOPTC_WOL_5011_GURUHI;Poor Guruhi!;;;;;;;;;;;;;x
-# EVTOPTC_WOL_5011_HUNTER;Poor Hunter!;;;;;;;;;;;;;x
-# EVTOPTC_WOL_5011_LUCIFER;Poor Lucifer!;;;;;;;;;;;;;x
-# EVTOPTC_WOL_5011_MARA;Poor Mara!;;;;;;;;;;;;;x
-# EVTOPTC_WOL_5011_PUNISHER;Poor Punisher!;;;;;;;;;;;;;x
-# EVTOPTC_WOL_5011_SATAN;Poor Satan!;;;;;;;;;;;;;x
-# EVTOPTC_WOL_5011_SHAYTAN;Poor Shaytan!;;;;;;;;;;;;;x
-# EVTOPTC_WOL_5011_TRICKY;Poor Tricky!;;;;;;;;;;;;;x
-# EVTOPTC_WOL_5011_TUONI;Poor Tuoni!;;;;;;;;;;;;;x
-# EVTOPTC_WOL_5011_VELES;Poor Veles!;;;;;;;;;;;;;x
-# EVTOPTC_WOL_5011_VELNIAS;Poor Velnias!;;;;;;;;;;;;;x
-# EVTOPTC_WOL_5011_VINAYAKA;Poor Vinayaka!;;;;;;;;;;;;;x
-# EVTOPTC_WOL_5011_XOLOTL;Poor Xolotl!;;;;;;;;;;;;;x
+EVTDESC_HL_5000;A traveller from the east reaches your court along with his personal bodyguard. Reading from a scroll, he states that the Great Emperor of China demands a tribute of a thousand 'heavenly horses' from your lands.;;;;;;;;;;;"Ñ Âîñòîêà, â ñîïðîâîæäåíèè ëè÷íîé ñòðàæè, ê Âàì ïðèáûë äèêîâèííûé ïóòåøåñòâåííèê. Íå ñêðûâàÿ ñâîåé íàäìåííîñòè, îí ãðîìêî çà÷èòàë êàêîé-òî ñâèòîê. Îêàçàëîñü, ""âåëèêèé èìïåðàòîð"" Êèòàÿ òðåáóåò îò íàñ äàíü - òûñÿ÷ó ""íåáåñíûõ ñêàêóíîâ"".";;x
+EVTDESC_HL_5001;Another envoy from China arrives at your court. He tells you that he himself is a gift - a token of gratitude from the Emperor - and that he is an excellent governor of trade if you need his services.;;;;;;;;;;;Ê Âàì ïðèáûë ïîñëàííèê [offmap_china.Ruler.GetShortChineseEmperorNameGEN]. Îí ãîâîðèò, ÷òî ñàì ÿâëÿåòñÿ ïîäàðêîì, êîòîðûé â çíàê ñâîåãî ðàñïîëîæåíèÿ, äàðèò Âàì [offmap_china.Ruler.GetEmpressEmperorCap]. Ïðè êèòàéñêîì äâîðå ýòîò ÷åëîâåê áûë ñîâåòíèêîì ïî òîðãîâûì äåëàì, òàê ÷òî åãî óñëóãè ìîãóò áûòü âåñüìà êñòàòè;;x
+EVTDESC_HL_5005;I've noticed an increase in traders coming from the east since I employed [chinese_envoy.GetBestName] as a trade governor.;;;;;;;;;;;Ýò[chinese_envoy.GetEtaEtot] [chinese_envoy.GetBestName], — ïðîñòî òàëàíòèùå! Êàê òîëüêî [chinese_envoy.GetSheHe] ñòàë[chinese_envoy.GetEndA] óïðàâëÿòü òîðãîâûìè äåëàìè, ê íàì õëûíóë öåëûé ïîòîê âîñòî÷íûõ êóïöîâ!;;x
+EVTDESC_HL_5006;[chinese_envoy.GetBestName] has managed to acquire a collection of rare gemstones on your behalf.;;;;;;;;;;;[chinese_envoy.GetBestName] íåäàâíî ðàçäîáûë[chinese_envoy.GetEndA] èçûñêàííóþ êîëëåêöèþ ðåä÷àéøèõ äðàãîöåííûõ êàìíåé äëÿ Âàñ.;;x
+EVTDESC_HL_5007;A couple of travelling merchants claim that their goods were stolen while they stayed on your premises.;;;;;;;;;;;Ãðóïïà ñòðàíñòâóþùèõ êóïöîâ óòâåðæäàåò, ÷òî èõ öåííûå òîâàðû áûëè óêðàäåíû, ïîêà îíè îòäûõàëè â îäíîì èç Âàøèõ ãîñòèííûõ äâîðîâ.;;x
+EVTDESC_HL_5008;Enthusiastic and blabbering [chinese_envoy.GetFirstName] pulls a large sack into the room. [chinese_envoy.GetSheHeCap] apparently found valuable goods laying on the premises and wants to share it with you.;;;;;;;;;;;Äîâîëüíî êðÿõòÿ è ñìåÿñü, [chinese_envoy.GetFirstName] çàòàùèë[chinese_envoy.GetEndA] â çàë áîëüøîé ìåøîê. Ïîõîæå, [chinese_envoy.GetSheHe] íàø[chinese_envoy.GetLaYol] öåííûå òîâàðû, êåì-òî çàáûòûå â ãîñòèííîì äâîðå è ãîòîâ[chinese_envoy.GetEndA] ïîäåëèòüñÿ èìè ñ Âàìè.;;x
+EVTDESC_HL_5011OTHER;I hear a scream outside and rush out only to see [chinese_envoy.GetFirstName]'s snake swallowing the dog of [dog_owner.GetFirstName] in a single gulp.;;;;;;;;;;;Óñëûøàâ êðèêè, ÿ âûø[Root.GetLaYol] ïîñìîòðåòü ÷òî ñëó÷èëîñü è óâèäåë[Root.GetEndA] æóòêóþ ñöåíó. Ïèòîí, êîòîðîãî [From.GetFirstName] íå òàê äàâíî ïðèíåñ[From.GetNoneE] êî äâîðó, ïðîãëîòèë ñîáàêó. Ïðèäâîðíûå â óæàñå ãàäàþò, ÷òî ñäåëàåò [FromFrom.GetFirstName], êîãäà óçíàåò, ÷òî [FromFrom.GetHersHis] ëþáèìûé ï¸ñ ïåðåâàðèâàåòñÿ â çìåèíîé óòðîáå!;;x
+EVTDESC_HL_5011SELF;I hear a dog barking outside and rush out only to see [chinese_envoy.GetFirstName]'s dastardly snake swallowing my beloved dog in a single gulp.;;;;;;;;;;;Óñëûøàâ èñïóãàííûé ëàé, ÿ íåìåäëåííî áåãó â êîðèäîð. Ïèòîí, êîòîðîãî íåäàâíî ê íàì ïðèòàùèë [From.GetFirstName], ëåæèò, ðàçäóâùèñü, ñëîâíî òûêâà. Êàæåòñÿ îí ÷òî-òî ïðîãëîòèë... Ýòî âåäü íå...;;x
+EVTDESC_HL_5014;You are out taking a walk together with [marriage_target.GetFirstName] when [chinese_envoy.GetFirstName] approaches you with a concern. According to Chinese law [chinese_envoy.GetSheHe] is required to get a woman to continue his services more permanently.;;;;;;;;;;;Ïîêà Âû è [FromFrom.GetFirstName] ìèðíî ãóëÿëè, [From.GetFirstName] ïîäîø[From.GetLaYol], ÷òîáû âûðàçèòü îáåñïîêîåííîñòü - îêàçûâàåòñÿ, ñîãëàñíî êèòàéñêîìó çàêîíó, [From.GetHerHim] íóæí[From.GetEndAOpp] [From.GetManWomanOpp]à, ÷òîáû ïðîäîëæèòü ñâîþ ñëóæáó ïðè Âàøåì äâîðå.;;x
+EVTDESC_HL_5016;Dust rise in your wake as you head for the local tavern with heavy steps. As you enter, you instantly notice [chinese_envoy.GetFirstName], seemingly involved in a game of chance. You approach [chinese_envoy.GetHerHim] and realize that [chinese_envoy.GetSheHe] is betting your money on games of chance... and losing. [chinese_envoy.GetFirstName] looks up at you with a smile and says: 'Hey. Your drinksch are taschty'.;;;;;;;;;;;"Çàéäÿ â êàáàê, Âû ïðîøëè ñðåäè ñòîëîâ, âñìàòðèâàÿñü â ðîæè ìåñòíûõ ïüÿí÷óã. Íàêîíåö, Âû íàøëè òîãî, çà êåì ïðèøëè - [From.GetFirstName] èãðàåò òóò â êîñòè. Ïîäîéäÿ ê ñòîëèêó, Âû óâèäåëè, êàê [From.GetSheHe] ïüÿíûé âõëàì ïðîèãðûâàåò Âàøè äåíüãè! Îáåðíóâøèñü, [From.GetSheHe] ðàñïëû[From.GetLasLsya] â óëûáêå è õëîïíóâ Âàñ ïî çàäíèöå, ïðîêðè÷àë[From.GetEndA]: ""Ýýýé, êðàñàâèöà... ïðèíåñè-êà íàì åù¸ âûïèòü!""";;x
+EVTDESC_HL_5017;[chinese_envoy.GetBestName] entered my chamber with [chinese_envoy.GetHerHis] newly acquired pet snake wrapped around [chinese_envoy.GetHerHis] neck. [chinese_envoy.GetSheHeCap] asks if I want to pet it.;;;;;;;;;;;[From.GetBestName] çàø[From.GetLaYol] â ì[Root.GetMyChamberACC], ÷òîáû ïîõâàñòàòüñÿ íîâûì ïðèîáðåòåíèåì - ïèòîíîì, îáâèâàþùèì [From.GetHersHis] øåþ. [From.GetSheHeCap] èíòåðåñóåòñÿ, íå õî÷ó ëè ÿ îñòàâèòü ýòî ñîçäàíèå ñåáå.;;x
+EVTDESC_HL_5045;[Root.GetTitledFirstName],\n\nI hereby inform you that I'm leaving the position at your court because of the less than preferable way that you have treated me.\n\nSigned\n[chinese_envoy.GetFirstName];;;;;;;;;;;Äîâîæó äî Âàøåãî ñâåäåíèÿ, [Root.GetTitledFirstName]!\nÌîÿ ïåðñîíà çàñëóæèâàåò ëó÷øåãî îáðàùåíèÿ, ÷åì òî, êîòîðîå Âû âûêàçûâàåòå â ìîé àäðåñ. ß íåçàìåäëèòåëüíî ïîêèäàþ Âàø äâîð!\n [From.GetFirstName].;;x
+EVTDESC_HL_5048;[Root.GetTitledFirstName]\n\nYour insolence has not gone unnoticed. I will henceforth punish all travellers who are suspected of having have visited your city. \n\nSigned,\nThe Emperor.;;;;;;;;;;;Ñëóøàéòå, [Root.GetTitledFirstName]!\nÂàø äåðçêèé ïîñòóïîê íå îñòàíåòñÿ áåç ïîñëåäñòâèé. Îòíûíå ÿ áóäó æåñòîêî êàðàòü âñåõ ïóòåøåñòâåííèêîâ, êîòîðûå áóäóò çàïîäîçðåíû â ïîñåùåíèè Âàøåãî ãîðîäà.\n Èìïåðàòîð Ïîäíåáåñíîé.;;x
+EVTDESC_HL_5050;Reports have reached us that traders and travellers are being harassed by raiders in your lands of [Root.GetName].;;;;;;;;;;;Äîõîäÿò ñâåäåíèÿ, ÷òî ïóòåøåñòâåííèêè è òîðãîâöû ïîäâåðãàþòñÿ íàïàäåíèÿì ðàçáîéíèêîâ â íàøèõ [Root.County.GetAdjective]ñêèõ çåìëÿõ.;;x
+EVTDESC_HL_5051;A group of raiders are threatening the trade in our realm. My liege, [Liege.GetTitledFirstName], has ordered me to go after their leader, and make sure that the roads are safe for caravans.;;;;;;;;;;;Áàíäû íàë¸ò÷èêîâ ïîäðûâàþò ìåñòíóþ òîðãîâëþ. Ì[Liege.GetOyaOy] [Liege.GetLordLady] [Liege.GetTitledFirstName] ïðèêàçàë[Liege.GetEndA] ìíå ïîéìàòü èõ ãëàâàðÿ, äàáû äîðîãè ñíîâà ñòàëè áåçîïàñíûìè äëÿ êàðàâàíîâ.;;x
+EVTDESC_HL_5052;[From.GetTitledFirstName] brought forth to me the head of the raiders' leader, of the bandit leader whom previously plagued merchants in [FromFrom.GetName].;;;;;;;;;;;[From.GetTitledFirstName] òîðæåñòâåííî áðîñèë[From.GetEndA] ê ìîèì íîãàì ãîëîâó ïðåäâîäèòåëÿ ðàçáîéíèêîâ, ïðåæäå ðàçîðÿâøèõ [FromFrom.County.GetAdjective]ñêèõ êóïöîâ.;;x
+EVTDESC_HL_5053;In the late afternoon [From.GetTitledFirstName]'s horse arrived home riderless. There's no telling what the raiders have done to [From.GetHerHim].;;;;;;;;;;;Ïîçäíèì âå÷åðîì êîíþøèé ïðèâ¸ë êîíÿ, êîòîðûé âåðíóëñÿ â ñòîéëî áåç âñàäíèêà. Ñóäÿ ïî âñåìó, èì áûë[From.GetEndA] [From.GetTitledFirstName], íà í[From.GetHersHis] íàïàëè ðàçáîéíèêè!;;x
+EVTDESC_HL_5054;The coward [From.GetTitledFirstName] deemed it too dangerous to interfere with the caravan raiders, and refused to carry out my orders. I could have [From.GetHerHim] arrested for this, however, that would not solve the problem of merchants being attacked on my trade routes.;;;;;;;;;;;[From.GetTitledFirstName], ýòà òðóñëèâàÿ òâàðü, ñëèøêîì äîðîæèò ñâîåé æèçíüþ, ÷òîáû ëè÷íî óíè÷òîæèòü ðàçáîéíèêîâ! Îñëóøàòüñÿ ìîåãî ïðèêàçà, íåñëûõàííî! ß ìîãó àðåñòîâàòü [From.GetHersHis], íî ýòî íå ðåøèò ïðîáëåìó áåçîïàñíîñòè òîðãîâûõ ïóòåé.;;x
+EVTDESC_HL_5055;[From.GetTitledFirstName] arrives bruised and alone from his venture to drive away the raiders. Unfortunately he brings the news that he has been unable to fight off the raiders from our land.;;;;;;;;;;;[From.GetTitledFirstName] âåðíó[From.GetLasLsya] èçáèò[From.GetAyaYy] ñ îñòàòêàìè ñâîåãî âîéñêà, åñëè ýòî åù¸ ìîæíî íàçâàòü âîéñêîì. Æàëêîå çðåëèùå. Âñ¸, ÷òî [From.GetSheHe] ñìîã[From.GetNoneE] Âàì ñîîáùèòü - ýòî î ñâî¸ì ñîêðóøèòåëüíîì ïîðàæåíèè â áîþ ñ ðàçáîéíèêàìè.;;x
+EVTDESC_HL_5056;After the sunset I manage to track down the raiders encampment. Me and my men decide to...;;;;;;;;;;;Ê çàêàòó ÿ è ìîè ëþäè íàøëè ëàãåðü ðàçáîéíèêîâ. Ïîñîâåùàâøèñü, ìû ðåøèëè, ÷òî ëó÷øå áóäåò...;;x
+EVTDESC_HL_5057;As we enter the camp, we pass clusters of tents and campfires. While I can only see a small group of raiders, I can feel many eyes upon me. Approaching the center of the settlement, a silhouette - who I assume is the leader of the raiders - exits a large tent, and greets me with a smirk.;;;;;;;;;;;Âîðâàâøèñü â ëàãåðü, ìèíóÿ ïàëàòêè è êîñòðû, ìû âèäåëè ñîâñåì íåìíîãî ðàçáîéíèêîâ, íî ÷óâñòâî, ÷òî èõ ãîðàçäî áîëüøå íå ïîêèäàëî ìåíÿ. Äîáåæàâ äî öåíòðà ëàãåðÿ ìû çàìåòèëè, êàê íåîáû÷íàÿ ôèãóðà âûõîäèò èç áîëüøîãî øàòðà è óõìûëÿÿñü ïðèâåòñòâóåò ìåíÿ - èõ ïðåäâîäèòåëü.;;x
+EVTDESC_HL_5058;While engaged in a fairly one-sided conversation about property and rights, I fail to notice the thug sneaking up behind me. I just barely notice their leader making a subtle nodding motion before a sharp blow to the back of my head robs me of consciousness.;;;;;;;;;;;Ìíå èñêðåííå êàçàëîñü, ÷òî ýòè íåâåæäû âíèìàòåëüíî ñëóøàëè âñå ìîè ïðîñòðàííûå ðå÷è î äîñòîèíñòâàõ öèâèëèçîâàííîé æèçíè, âåðõîâåíñòâå ïðàâà è íåïðèêîñíîâåííîñòè ÷àñòíîé ñîáñòâåííîñòè, íî äàæå íå ïðèøëî â ãîëîâó ïîäóìàòü î òîì, ÷òî ïðîèñõîäèò ïðÿìî çà ìîåé ñïèíîé. Ïðåäâîäèòåëü ëåãêî êèâíóë, è ÷òî-òî êðåïêî øàðàõíóëî ìåíÿ ïî çàòûëêó, îñòàâèâ áåç ñîçíàíèÿ.;;x
+EVTDESC_HL_5059;I'm brought to consciousness by the sound of laughter and shouts. As my eyes adjust to the unforgiving sunlight, I realize that I have been tied up. The raiders have dressed me in silly clothes and are parading me around town, demanding a pile of gold in return for my freedom.;;;;;;;;;;;Î÷íó[Root.GetLasLsya] ÿ îò çâóêîâ ñìåõà è êðèêîâ. Êîãäà ÿ ïîòÿíó[Root.GetLasLsya] ïðîòåðåòü è íå ñìîã[Root.GetNoneE], ñòàëî ÿñíî - ìåíÿ ñâÿçàëè. Ðàçáîéíèêè íàïÿëèëè íà ìåíÿ èäèîòñêóþ îäåæäó è ïðîâåëè ïî îêðóãå, òðåáóÿ âûêóï çà ìî¸ îñâîáîæäåíèå.;;x
+EVTDESC_HL_5060;As we are closing in on the raiders' camp we count on the cover of darkness to keep us from sight. This turns out to be a foolish mistake, as we abruply find ourselves both surrounded and outnumbered.;;;;;;;;;;;Íàø ïëàí ïðîêðàñòüñÿ â ëàãåðü íåçàìå÷åííûìè ïîëàãàÿñü íà òåìíîòó, îêàçàëñÿ íåëåïîé îøèáêîé. Âñêîðå ìû îáíàðóæèëè, ÷òî îêðóæåíû ÷èñëåííî ïðåâîñõîäÿùèì íàñ ïðîòèâíèêîì.;;x
+EVTDESC_HL_5061;After subduing the guards on watch we enter the leader's tent. While he's fast asleep I draw my blade, placing it with great precision against his throat. Suddenly his eyes flicker open, and his gaze wanders the tent with a dazed urgency. I realize that if I do not act quickly, he may very well draw attention to us.;;;;;;;;;;;Ðàñïðàâèâøèñü ñ äîçîðíûìè, ìû íåçàìåòíî ïðîêðàëèñü â ëàãåðü ðàçáîéíèêîâ è ïðîíèêëè â ïàëàòêó èõ ëèäåðà. Ïîêà îí ìèðíî ñïàë, ìîé êëèíîê îêàçàëñÿ ïðÿìî ó åãî ãîðëà. Âíåçàïíî îí îòêðûë ãëàçà, ïûòàÿñü ïîíÿòü, ÷òî îí òîëüêî ÷òî óâèäåë. Íóæíî äåéñòâîâàòü áûñòðî!;;x
+EVTOPTA_HL_5000;These are the finest and strongest horses.;;;;;;;;;;;Ïåðåäàéòå åìó ëó÷øèõ ëîøàäåé.;;x
+EVTOPTA_HL_5001;I'll let him govern the trade.;;;;;;;;;;;Ïóñòü íåìåäëåííî ïðèñòóïàåò ê ðàáîòå.;;x
+EVTOPTA_HL_5005;Let the silk flow.;;;;;;;;;;;Ø¸ëê äîëæåí ïîñòóïàòü.;;x
+EVTOPTA_HL_5006;Sell them for profit.;;;;;;;;;;;Ïðîäàéòå èõ.;;x
+EVTOPTA_HL_5007;Apologize and reimburse them.;;;;;;;;;;;Ïåðåäàéòå èì ìîè èçâèíåíèÿ, ÿ âîçìåùó èõ óáûòêè.;;x
+EVTOPTA_HL_5008;I wonder if this is just a coincidence?;;;;;;;;;;;Ýòî ÿâíî íå ïðîñòîå ñîâïàäåíèå.;;x
+EVTOPTA_HL_5014;Ahem.. We were just discussing that matter, [marriage_target.GetFirstName]. Right?;;;;;;;;;;;Ìû êàê ðàç îáñóæäàëè ýòî. Íå òàê ëè, [FromFrom.GetFirstName]?;;x
+EVTOPTA_HL_5016;Just stay away from these people.;;;;;;;;;;;Ìû óõîäèì! Ñòðàæà, ïîìîãèòå [From.GetHerHim].;;x
+EVTOPTA_HL_5017;I hope it doesn't bite.;;;;;;;;;;;Íàäåþñü, îí íå êóñàåòñÿ.;;x
+EVTOPTA_HL_5045;That's too bad.;;;;;;;;;;;Ýòî ïëîõî...;;x
+EVTOPTA_HL_5048;This could be bad for trade.;;;;;;;;;;;Ýòî óäàðèò ïî íàøåé òîðãîâëå.;;x
+EVTOPTA_HL_5050;I'll let them continue if they share the loot.;;;;;;;;;;;Ïóñòü çàïëàòÿò ìíå è äåëàþò, ÷òî õîòÿò.;;x
+EVTOPTA_HL_5051;It is my duty.;;;;;;;;;;;Ýòî ìîé äîëã.;;x
+EVTOPTA_HL_5052;Excellent work!;;;;;;;;;;;Îòëè÷íàÿ ðàáîòà!;;x
+EVTOPTA_HL_5053;What a horrible fate.;;;;;;;;;;;×òî çà ñòðàøíàÿ ñóäüáà.;;x
+EVTOPTA_HL_5054;I need to deal with my unruly marshal.;;;;;;;;;;;[From.GetSheHeCap] îòâåòèò çà ñâî¸ ïðåäàòåëüñòâî!;;x
+EVTOPTA_HL_5055;Annoying pests!;;;;;;;;;;;Íàäîåäëèâûå êðûñû!;;x
+EVTOPTA_HL_5056;... enter the camp and approach their leader.;;;;;;;;;;;...âîðâàòüñÿ â ëàãåðü è óáèòü èõ ëèäåðà.;;x
+EVTOPTA_HL_5057;Fight the leader to shatter the band of raiders.;;;;;;;;;;;Íàïàñòü íà íåãî.;;x
+EVTOPTA_HL_5058;Ow!;;;;;;;;;;;Àé!;;x
+EVTOPTA_HL_5059;Pay them for my freedom.;;;;;;;;;;;Çàïëàòèòü èì.;;x
+EVTOPTA_HL_5060;Surrender.;;;;;;;;;;;Ñòîéòå! Ìû ñäà¸ìñÿ!;;x
+EVTOPTA_HL_5061;Threaten him to leave my land!;;;;;;;;;;;" ""Óáèðàéñÿ ñ ìîèõ çåìåëü, èëè óìð¸øü!""";;x
+EVTOPTB_HL_5000;Your Emperor has no power here!;;;;;;;;;;;Òâîé èìïåðàòîð çäåñü íå âëàñòåí!;;x
+EVTOPTB_HL_5001;He can muck the stables.;;;;;;;;;;;Îòëè÷íî, áóäåò ÷èñòèòü êîíþøíè.;;x
+EVTOPTB_HL_5006;These will fit great in a pendant.;;;;;;;;;;;Îíè óêðàñÿò ìîé êóëîí.;;x
+EVTOPTB_HL_5007;That's their loss.;;;;;;;;;;;Ýòî ðèñê. Îíè çíàëè, íà ÷òî èäóò.;;x
+EVTOPTB_HL_5008;Find the merchants and return their lost cargo.;;;;;;;;;;;Ðàçûùèòå òåõ êóïöîâ è âåðíèòå ýòî èì.;;x
+EVTOPTB_HL_5014;I guess I have no more need of your services then.;;;;;;;;;;;Òîãäà ïîëàãàþ, Âàøè óñëóãè ìíå áîëüøå íå íóæíû.;;x
+EVTOPTB_HL_5016;Arrest this [chinese_envoy.GetManWoman].;;;;;;;;;;;Ñòðàæà! Àðåñòîâàòü ýò[From.GetUOgo] [From.GetAgedPersonACC]!;;x
+EVTOPTB_HL_5017;It seems a bit dangerous.;;;;;;;;;;;Ñëèøêîì îïàñíî.;;x
+EVTOPTB_HL_5050;Send my marshal to hunt them down.;;;;;;;;;;;Ïóñòü âîåííûé ñîâåòíèê çàéìåòñÿ ýòèì.;;x
+EVTOPTB_HL_5051;I won't risk my life against the dangerous bandits.;;;;;;;;;;;ß íå ñòàíó ðèñêîâàòü ñâîåé ãîëîâîé ðàäè ýòîãî.;;x
+EVTOPTB_HL_5053;I need to deal with these rascals personally.;;;;;;;;;;;ß óáüþ èõ!;;x
+EVTOPTB_HL_5054;I have to root out the raiders myself.;;;;;;;;;;;" ""Õî÷åøü ñäåëàòü õîðîøî, äåëàé ñàì"".";;x
+EVTOPTB_HL_5056;... wait until midnight and sneak up on the guards.;;;;;;;;;;;...äîæäàòüñÿ ïîëóíî÷è è ïðîêðàñòüñÿ ìèìî îõðàíû.;;x
+EVTOPTB_HL_5057;Bribe the raiders to leave my land.;;;;;;;;;;;Ïðåäëîæèòü èì çîëîòî çà óõîä ñ ìîèõ çåìåëü.;;x
+EVTOPTB_HL_5059;Plead for mercy.;;;;;;;;;;;Ìîëèòü î ïîùàäå.;;x
+EVTOPTB_HL_5060;Let's dance!;;;;;;;;;;;Íó ÷òî, äåâî÷êè, ïîòàíöóåì?;;x
+EVTOPTB_HL_5061;Slit his throat and fight our way out.;;;;;;;;;;;Ïåðåðåçàòü åìó ãîðëî è áèòüñÿ ñ ðàçáîéíèêàìè.;;x
+EVTOPTC_HL_5001;Politely decline the offer.;;;;;;;;;;;Âåæëèâî îòêàæèòå åìó.;;x
+EVTOPTC_HL_5006;I'll make some earrings for my [Root.Spouse.GetHusbandWife].;;;;;;;;;;;Ì[Root.Spouse.GetOyaOy] [Root.Spouse.GetHusbandWife] ïîëó÷èò èõ â ïîäàðîê.;;x
+EVTOPTC_HL_5017;Forbid [chinese_envoy.GetHerHim] from keeping the snake.;;;;;;;;;;;Íåìåäëåííî óáåðè! Ýòîé òâàðè íå ìåñòî ïðè ìî¸ì äâîðå!;;x
+EVTOPTC_HL_5050;Ready my horse. I'll get rid of the scoundrel.;;;;;;;;;;;Ñåäëàéòå ìîåãî êîíÿ, ÿ ïðîó÷ó ýòèõ ìåðçàâöåâ!;;x
+EVTOPTC_HL_5053;Get the soldiers to chase them out.;;;;;;;;;;;Ñêîðåå! Íàéäèòå ýòèõ ìåðçàâöåâ!;;x
+EVTOPTC_HL_5054;Organize soldiers to take care of the raiders.;;;;;;;;;;;×òî æ, çàäåéñòâóåì âîéñêà.;;x
+EVTOPTC_HL_5057;Diplomatically explain why they can't harass travellers.;;;;;;;;;;;Óáåäèòü èõ íå íàïàäàòü íà ïóòåøåñòâåííèêîâ.;;x
+EVTTOOLTIP_HL_5051;Refusing orders while give my liege a reason to arrest me.;;;;;;;;;;;Îòêàç âûïîëíÿòü ïðèêàç äàñò ïîâîä ìîåìó ñþçåðåíó àðåñòîâàòü ìåíÿ.;;x
+EVTOPTA_WOL_5011;That's the way of life.;;;;;;;;;;;Ýòî çàêîí æèçíè.;;x
+EVTOPTB_WOL_5011;Someone slay that beast before it does more harm!;;;;;;;;;;;Êòî-íèáóäü, óáåéòå ýòó òâàðü, ïîêà íå ïîçäíî!;;x
+EVTOPTC_WOL_5011;Poor [Root.GetDogName]!;;;;;;;;;;;Áåäíûé [Root.GetDogName]!;;x
+EVTOPTD_WOL_5011;I'll have [FromFrom.GetHerHis] head for this!;;;;;;;;;;;[From.GetFirstName]! Òû çàïëàòèøü çà ýòî ãîëîâîé!;;x
+# EVTOPTC_WOL_5011_AHRIMAN;Poor Ahriman!;;;;;;;;;;;Àõðèìàí! Ìîé Àõðèìàí! Çà ÷òî?!;;x
+# EVTOPTC_WOL_5011_DARKNESS;Poor Darkness!;;;;;;;;;;;Ìðàê? Íåò, ýòîãî íå ìîæåò áûòü. Ìðàààê!;;x
+# EVTOPTC_WOL_5011_ERLIK;Poor Erlik!;;;;;;;;;;;Ýðëèê, ìîé áåäíûé Ýðëèê! Íåò!;;x
+# EVTOPTC_WOL_5011_FAITHFUL;Poor Faithful!;;;;;;;;;;;Äðóæîê? Íåò, òîëüêî íå Äðóæîê!;;x
+# EVTOPTC_WOL_5011_FENRIR;Poor Fenrir!;;;;;;;;;;;Ôåíðèð, ìîé Ôåíðèð! Íåò!;;x
+# EVTOPTC_WOL_5011_GURUHI;Poor Guruhi!;;;;;;;;;;;Ãóðóõè? Íåò, íå ìîæåò áûòü, Ãóðóõè!;;x
+# EVTOPTC_WOL_5011_HUNTER;Poor Hunter!;;;;;;;;;;;Îõîòíèê! Íåò! Ìîé áåäíûé Îõîòíèê!;;x
+# EVTOPTC_WOL_5011_LUCIFER;Poor Lucifer!;;;;;;;;;;;Ëþöèôåð? Íåò! Ìîé Ëþöèôåð!;;x
+# EVTOPTC_WOL_5011_MARA;Poor Mara!;;;;;;;;;;;Íåååò! Ìàðà, ìîé áåäíûé Ìàðà!;;x
+# EVTOPTC_WOL_5011_PUNISHER;Poor Punisher!;;;;;;;;;;;Êàðàòåëü? Íåò, íå ìîæåò áûòü! Íåååò!;;x
+# EVTOPTC_WOL_5011_SATAN;Poor Satan!;;;;;;;;;;;Ýòî ìîé Ñàòàíà? Íåò! Íåååò!;;x
+# EVTOPTC_WOL_5011_SHAYTAN;Poor Shaytan!;;;;;;;;;;;Øàéòàí? Íåò! Ìîé Øàéòàí!;;x
+# EVTOPTC_WOL_5011_TRICKY;Poor Tricky!;;;;;;;;;;;Ëîâêà÷? Íåò! Ìîé áåäíûé Ëîâêà÷!;;x
+# EVTOPTC_WOL_5011_TUONI;Poor Tuoni!;;;;;;;;;;;Òóîíè? Ìîé Òóîíè?! ÍÅÅÅÒ!;;x
+# EVTOPTC_WOL_5011_VELES;Poor Veles!;;;;;;;;;;;Âåëåñ! Ýòî ìîé Âåëåñ! Íåååò!;;x
+# EVTOPTC_WOL_5011_VELNIAS;Poor Velnias!;;;;;;;;;;;Íåò! Òîëüêî íå ìîé Âåëüíèàñ!;;x
+# EVTOPTC_WOL_5011_VINAYAKA;Poor Vinayaka!;;;;;;;;;;;Íåò! Òîëüêî íå Âèíàÿêà!;;x
+# EVTOPTC_WOL_5011_XOLOTL;Poor Xolotl!;;;;;;;;;;;Íåååò! Ìîé Øîëîòëü, òîëüêî íå ýòî!;;x

@@ -1,15 +1,11 @@
-EVTDESC_HFP_80000;Cart after cart is brought before me. I try to keep track of how many there are but quickly loses count. They are numerous, and every single one is filled with nothing but gold. To see such wealth is extraordinary and to know that all of it belong to me...;;;;;;;;;;;;;x
-EVTDESC_HFP_80010;Just as I am about to retire for the day a messenger comes running up to me, quite out of breath. He bows quickly before speaking, "Forgive me, my [Root.GetLordLady], for disturbing but... Our gold mine has collapsed! There is simply no more gold to be found in [depleted_gold_mine_target.GetName]";;;;;;;;;;;;;x
-EVTDESC_HFP_80015;I just received word that the gold mine in [depleted_gold_mine_target.GetName] is fully operational once more! The workers found another vein a few days ago and have already begun mining it.;;;;;;;;;;;;;x
-EVTDESC_HFP_80020;It would seem that a recent influx of gold in [gold_inflation_province.GetName] has caused local prices to increase. Not only does it make things more expensive, but it also leaves the peasants with less money with which to pay me taxes!;;;;;;;;;;;;;x
-
-EVTOPTA_HFP_80000;Gold! My one true love!;;;;;;;;;;;;;x
-EVTOPTA_HFP_80010;What?! No more gold?!;;;;;;;;;;;;;x
-EVTOPTA_HFP_80015;This is most excellent news!;;;;;;;;;;;;;x
-EVTOPTA_HFP_80020;Such is the price of gold...;;;;;;;;;;;;;x
-
-EVTOPTB_HFP_80020;Clever investments should keep the inflation in check.;;;;;;;;;;;;;x
-
-EVTOPTC_HFP_80020;Have soldiers take back the gold by force!;;;;;;;;;;;;;x
-
-EVTTITLE_HFP_80000;Gold Rush!;;;;;;;;;;;;;x
+EVTDESC_HFP_80000;Cart after cart is brought before me. I try to keep track of how many there are but quickly loses count. They are numerous, and every single one is filled with nothing but gold. To see such wealth is extraordinary and to know that all of it belong to me...;;;;;;;;;;;Êî ìíå ïîäâîçÿò òåëåæêó çà òåëåæêîé. ß ïûòàþñü óñëåäèòü çà èõ êîëè÷åñòâîì, íî áûñòðî ñáèâàþñü ñî ñ÷¸òà. Èõ ìíîãî, è âñå îíè íàïîëíåíû òîëüêî çîëîòîì. Âèäåòü òàêîå áîãàòñòâî íåîáû÷àéíî ïðèÿòíî, à çíàòü, ÷òî âñ¸ ýòî ïðèíàäëåæèò ìíå...;;x
+EVTDESC_HFP_80010;"Just as I am about to retire for the day a messenger comes running up to me, quite out of breath. He bows quickly before speaking, ""Forgive me, my [Root.GetLordLady], for disturbing but... Our gold mine has collapsed! There is simply no more gold to be found in [depleted_gold_mine_target.GetName]""";;;;;;;;;;;Êîãäà ÿ óæå ñîáèðà[Root.GetLasLsya] ëîæèòüñÿ ñïàòü, êî ìíå ïðèì÷àëñÿ ïîñëàííèê. Ïåðåâåäÿ äóõ, îí áûñòðî ïîêëîíèëñÿ, ïðåæäå ÷åì ñêàçàòü:\n— Ì[Root.GetOyaOy] [Root.GetLordLady], ïðîñòèòå çà áåñïîêîéñòâî, íî... Íàø çîëîòîé ðóäíèê îáðóøèëñÿ! Â [depleted_gold_mine_target.County.GetAdjective]ñêîì ìåñòîðîæäåíèè áîëüøå íåò çîëîòà.;;x
+EVTDESC_HFP_80015;I just received word that the gold mine in [depleted_gold_mine_target.GetName] is fully operational once more! The workers found another vein a few days ago and have already begun mining it.;;;;;;;;;;;Ìíå òîëüêî ÷òî ñîîáùèëè, ÷òî [depleted_gold_mine_target.County.GetAdjective]ñêèé çîëîòîé ðóäíèê ñíîâà ôóíêöèîíèðóåò! Ðàáî÷èå íàøëè åù¸ îäíó æèëó íåñêîëüêî äíåé íàçàä è óæå íà÷àëè å¸ ðàçðàáàòûâàòü.;;x
+EVTDESC_HFP_80020;It would seem that a recent influx of gold in [gold_inflation_province.GetName] has caused local prices to increase. Not only does it make things more expensive, but it also leaves the peasants with less money with which to pay me taxes!;;;;;;;;;;;Íåäàâíèé ïðèòîê çîëîòà â [gold_inflation_province.County.GetAdjective]ñêèå çåìëè âûçâàë ðîñò ìåñòíûõ öåí. Òîâàðû äîðîæàþò è ó ìåñòíûõ æèòåëåé îñòà¸òñÿ ìåíüøå äåíåã, ÷òîáû ïëàòèòü ìíå íàëîãè.;;x
+EVTOPTA_HFP_80000;Gold! My one true love!;;;;;;;;;;;Çîëîòî! Ìîÿ åäèíñòâåííàÿ íàñòîÿùàÿ ëþáîâü!;;x
+EVTOPTA_HFP_80010;What?! No more gold?!;;;;;;;;;;;×òî?! Íåò çîëîòà?!;;x
+EVTOPTA_HFP_80015;This is most excellent news!;;;;;;;;;;;Ïðåêðàñíàÿ íîâîñòü!;;x
+EVTOPTA_HFP_80020;Such is the price of gold...;;;;;;;;;;;Òàêîâà öåíà çîëîòà...;;x
+EVTOPTB_HFP_80020;Clever investments should keep the inflation in check.;;;;;;;;;;;Ðàçóìíûå âëîæåíèÿ ïîìîãóò ñäåðæàòü èíôëÿöèþ.;;x
+EVTOPTC_HFP_80020;Have soldiers take back the gold by force!;;;;;;;;;;;Ïóñòü ñîëäàòû çàáåðóò çîëîòî ñèëîé!;;x
+EVTTITLE_HFP_80000;Gold Rush!;;;;;;;;;;;Çîëîòàÿ ëèõîðàäêà!;;x

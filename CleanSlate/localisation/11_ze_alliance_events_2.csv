@@ -1,42 +1,39 @@
-EVTDESC_ZE_9000;As the war rages on, you find that your so-called ally, [ally_not_active_in_war.GetTitledNameWithNick], has been inactive for several years, not taking any offensive action to support you.;;;;;;;;;;;;;x
-EVTDESC_ZE_9001;To the [GetFromRootInsult] [Root.GetTitledFirstName],\nIt pains me greatly to have to tell you that I have noticed the absence of your armies on the field of battle while the war is being fought by others. As I have no need for cowardly and treacherous allies, you may henceforth consider our alliance void.\n\nWith the hope of your speedy demise,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC_ZE_9100;Pirates have been marauding in increasing numbers all along the coast of [Root.PrimaryTitle.GetName] recently. Worse, there is a rumor among the common folk that the pirates are being aided by [pirate_alliance_friction_ally.PrimaryTitle.GetAdjective] agents.;;;;;;;;;;;;;x
-EVTDESC_ZE_9101;Dear [Root.GetTitledFirstName],\n\nWe are experiencing a plague of pirates on our coasts, and there is a rumor that you are supporting them. Can you please put my mind at ease regarding this, for I assume that it is not true. Or is it...?\n\nRegards,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC_ZE_9110;Dear [Root.GetTitledFirstName],\n\nIt grieves me to hear of your troubles. However, I can assure you that I have nothing to do with the pirates that plague your coasts.\n\nRegards,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC_ZE_9111;[Root.GetTitledFirstName],\nYou are a [GetFromRootInsult] and a liar and I will have you know that our pact has been broken through no fault of mine but through your treacherous actions.\n\nMay your days be filled with deserved misery,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC_ZE_9120;[Root.GetTitledFirstName],\n\nI must say I do not approve of the tone in your last letter. Accusing others to try and obscure your own failings in keeping your realm safe only leaves you looking like a [GetFromRootInsult].\n\nI wish you a speedy recovery from your paranoia,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC_ZE_9121;Esteemed [Root.GetTitledFirstName],\n\nIt distresses me that you perceived my earlier letter as accusing you and questioning your honor, as that was not my intention. Please accept my sincerest apologies for this misunderstanding, and rest assured that I do not suspect you of involvement in piracy.\n\nWith hopes of continued friendship,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC_ZE_9122;Dear [Root.GetTitledFirstName],\n\nI accept your apology and look forward to many more years of continued good relations.\n\nWith my kindest regards,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC_ZE_9123;Dear [Root.GetTitledFirstName],\n\nLamentably, your words of apology do not ring true. I am no fool, and a trust that has been broken cannot be repaired with mere empty words. I cannot maintain a pact under such circumstances.\n\nWith scant pleasure,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC_ZE_9130;[Root.GetTitledFirstName],\n\nYour aggressive words only serve to strengthen my suspicions regarding your low character and propensity to underhanded dealings. Clearly you planning some dark deed. I demand that you cease at once.\n\nWith reluctant regards,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC_ZE_9131;Dear [Root.GetTitledFirstName],\nYou are quite right that I have erred in my ways. However, after pondering my faults and considering what a [GetFromRootCompliment] you are, I am now fully committed to seeing you prosper and to preserve our good relationship. I convey to you my sincere and humble apologies.\n\nWith the greatest respect and admiration,\n[From.GetTitledName];;;;;;;;;;;;;x
-EVTDESC_ZE_9132;[Root.GetTitledFirstName],\n\nYou are the worst kind of scum to frame and then attack in such a vile way those who have been so loyal and steadfast towards you. You are a [GetFromRootInsult] and I would not wish upon anyone the misfortune of making pacts or agreements with you.\n\nSincerely and disappointedly,\n[From.GetTitledName];;;;;;;;;;;;;x
-
-EVTOPTA_ZE_9000;[ally_not_active_in_war.GetSheHeCap] has failed me for the last time.;;;;;;;;;;;;;x
-EVTOPTA_ZE_9001;I never...;;;;;;;;;;;;;x
-EVTOPTA_ZE_9100;I must send a letter to the [pirate_alliance_friction_ally.PrimaryTitle.GetAdjective] [pirate_alliance_friction_ally.GetTitle] and find out if it so.;;;;;;;;;;;;;x
-EVTOPTA_ZE_9100_TOOLTIP;All port counties experience tax collecting issues\n;;;;;;;;;;;;;x
-EVTOPTA_ZE_9101;I must reassure [From.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTA_ZE_9110;Ah, that puts my mind at rest.;;;;;;;;;;;;;x
-EVTOPTA_ZE_9111;The [GetRootFromInsult]!;;;;;;;;;;;;;x
-EVTOPTA_ZE_9120;Oh dear... I should try to repair this...;;;;;;;;;;;;;x
-EVTOPTA_ZE_9121;I see now that [From.GetHerHis] intentions were honorable.;;;;;;;;;;;;;x
-EVTOPTA_ZE_9122;It is all good, then.;;;;;;;;;;;;;x
-EVTOPTA_ZE_9123;Very well, if it must be so.;;;;;;;;;;;;;x
-EVTOPTA_ZE_9130;I should back down before this breaks our relationship.;;;;;;;;;;;;;x
-EVTOPTA_ZE_9131;Ah, very well then.;;;;;;;;;;;;;x
-
-EVTOPTB_ZE_9000;I'll just pretend I didn't notice.;;;;;;;;;;;;;x
-EVTOPTB_ZE_9101;A strange accusation. [From.GetSheHeCap] is up to something...;;;;;;;;;;;;;x
-EVTOPTB_ZE_9110;[From.GetSheHeCap] lies!;;;;;;;;;;;;;x
-EVTOPTB_ZE_9120;The [GetRootFromInsult] is hiding something!;;;;;;;;;;;;;x
-EVTOPTB_ZE_9121;I must distance myself from this [GetRootFromInsult] snake.;;;;;;;;;;;;;x
-EVTOPTB_ZE_9130;May the cur choke on [From.GetHerHis] foul tongue!;;;;;;;;;;;;;x
-
-ze_9000_letter_sent;A letter is sent to [ally_not_active_in_war.GetTitledNameWithNick].;;;;;;;;;;;;;x
-ze_9101_angry;Answer accusingly.;;;;;;;;;;;;;x
-ze_9101_cordial;Answer cordially.;;;;;;;;;;;;;x
-ze_9120_soothing;Answer soothingly.;;;;;;;;;;;;;x
-ze_9121_accept_apology;Answer and accept apology.;;;;;;;;;;;;;x
-ze_9121_break_pact;Break the pact with [From.GetTitledName].\n;;;;;;;;;;;;;x
-ze_9130_apology;Admit to wrongdoing and send apology.;;;;;;;;;;;;;x
+EVTDESC_ZE_9000;As the war rages on, you find that your so-called ally, [ally_not_active_in_war.GetTitledNameWithNick], has been inactive for several years, not taking any offensive action to support you.;;;;;;;;;;;Âîåííûå äåéñòâèÿ ïðîäîëæàþòñÿ, íî Âàø òàê íàçûâàåìûé ñîþçíèê [ally_not_active_in_war.GetTitledNameWithNick] âîò óæå íåñêîëüêî ëåò íå ïðåäïðèíèìàåò íèêàêèõ äåéñòâèé, ÷òîáû õîòü êàê-òî ïîääåðæàòü Âàñ â âîéíå.;;x
+EVTDESC_ZE_9001;To the [GetFromRootInsult] [Root.GetTitledFirstName],\nIt pains me greatly to have to tell you that I have noticed the absence of your armies on the field of battle while the war is being fought by others. As I have no need for cowardly and treacherous allies, you may henceforth consider our alliance void.\n\nWith the hope of your speedy demise,\n[From.GetTitledName];;;;;;;;;;;[Root.GetTitledFirstName],\nÌíå íåïðèÿòíî îá ýòîì ãîâîðèòü, íî ïîêà äðóãèå ñðàæàþòñÿ íà ïîëå áîÿ è ðèñêóþò ñâîåé æèçíüþ, Âàøè âîéñêà îòñèæèâàþòñÿ â ñòîðîíêå. Òðóñû è ïðåäàòåëè ìíå íå íóæíû. Ñ÷èòàéòå íàø ñîþç áîëåå íåäåéñòâèòåëüíûì.\nÑ íàäåæäîé íà Âàøó ñêîðóþ êîí÷èíó,\n [From.GetTitledName];;x
+EVTDESC_ZE_9100;Pirates have been marauding in increasing numbers all along the coast of [Root.PrimaryTitle.GetName] recently. Worse, there is a rumor among the common folk that the pirates are being aided by [pirate_alliance_friction_ally.PrimaryTitle.GetAdjective] agents.;;;;;;;;;;;[Root.PrimaryTitle.GetName] â ïîñëåäíåå âðåìÿ ïåðåæèâàåò íåñêîí÷àåìûå íàë¸òû ïèðàòîâ âäîëü âñåãî ïîáåðåæüÿ. Õóæå òîãî, ïîãîâàðèâàþò, ÷òî ýòè ïèðàòû ïîëó÷àþò ïîääåðæêó îò [pirate_alliance_friction_ally.PrimaryTitle.GetAdjective]ñêèõ àãåíòîâ.;;x
+EVTDESC_ZE_9101;Dear [Root.GetTitledFirstName],\n\nWe are experiencing a plague of pirates on our coasts, and there is a rumor that you are supporting them. Can you please put my mind at ease regarding this, for I assume that it is not true. Or is it...?\n\nRegards,\n[From.GetTitledName];;;;;;;;;;;[Root.GetTitledFirstName],\nÂ ïîñëåäíåå âðåìÿ ìû ñòàëêèâàåìñÿ ñ íàñòîÿùåé êàòàñòðîôîé - íàøè ïîáåðåæüÿ àòàêóþò ïèðàòû, è õîäÿò ñëóõè, ÷òî èìåííî Âû ïîääåðæèâàåòå èõ. Íå ìîãëè áû Âû ðàçâåÿòü ìîè îïàñåíèÿ è óáåäèòü, ÷òî ýòî íåïðàâäà?\nÑ óâàæåíèåì,\n [From.GetTitledName];;x
+EVTDESC_ZE_9110;Dear [Root.GetTitledFirstName],\n\nIt grieves me to hear of your troubles. However, I can assure you that I have nothing to do with the pirates that plague your coasts.\n\nRegards,\n[From.GetTitledName];;;;;;;;;;;[Root.GetTitledFirstName],\nÂåñüìà ïðèñêîðáíî ñëûøàòü î Âàøèõ íåïðèÿòíîñòÿõ, íî óâåðÿþ Âàñ - ÿ ðåøèòåëüíî îñóæäàþ ïèðàòñòâî è íå èìåþ íèêàêîãî îòíîøåíèÿ ê ýòèì íåãîäÿÿì.\nÑ óâàæåíèåì,\n [From.GetTitledName];;x
+EVTDESC_ZE_9111;[Root.GetTitledFirstName],\nYou are a [GetFromRootInsult] and a liar and I will have you know that our pact has been broken through no fault of mine but through your treacherous actions.\n\nMay your days be filled with deserved misery,\n[From.GetTitledName];;;;;;;;;;;[Root.GetTitledFirstName],\nÍåóæåëè Âû äóìàåòå, ÷òî ñòîëü íàãëàÿ ëîæü è ïðåäàòåëüñòâî ñîéäóò Âàì ñ ðóê? Áóäüòå óâåðåíû, îòíûíå ïàêò ìåæäó íàìè ðàñòîðãíóò.\nÃîðèòå â àäó,\n [From.GetTitledName];;x
+EVTDESC_ZE_9120;[Root.GetTitledFirstName],\n\nI must say I do not approve of the tone in your last letter. Accusing others to try and obscure your own failings in keeping your realm safe only leaves you looking like a [GetFromRootInsult].\n\nI wish you a speedy recovery from your paranoia,\n[From.GetTitledName];;;;;;;;;;;[Root.GetTitledFirstName],\nÂàøå ïèñüìî âåñüìà îãîð÷èëî ìåíÿ, ÿ íå îäîáðÿþ ïîäîáíûé òîí. Îáâèíÿòü äðóãèõ, ÷òîáû ñêðûòü íåñïîñîáíîñòü çàùèòèòü ñâîè çåìëè - ýòî íåäîñòîéíî Âàñ.\nÍàäåþñü, Âû âñêîðå èçëå÷èòåñü îò ñâîåé ïàðàíîéè,\n [From.GetTitledName];;x
+EVTDESC_ZE_9121;Esteemed [Root.GetTitledFirstName],\n\nIt distresses me that you perceived my earlier letter as accusing you and questioning your honor, as that was not my intention. Please accept my sincerest apologies for this misunderstanding, and rest assured that I do not suspect you of involvement in piracy.\n\nWith hopes of continued friendship,\n[From.GetTitledName];;;;;;;;;;;[Root.GetTitledFirstName],\nÑîæàëåþ, ÷òî Âû âîñïðèíÿëè ìî¸ ïðåäûäóùåå ïèñüìî êàê îáâèíåíèå, ñòàâÿùåå ïîä ñîìíåíèå Âàøó ÷åñòü. Ó ìåíÿ íå áûëî ïîäîáíîé öåëè. Ïðîøó, ïðèìèòå ìîè èñêðåííèå èçâèíåíèÿ çà ýòî íåïîíèìàíèå.\nÑ íàäåæäîé íà ïðîäîëæåíèå íàøåé äðóæáû,\n [From.GetTitledName];;x
+EVTDESC_ZE_9122;Dear [Root.GetTitledFirstName],\n\nI accept your apology and look forward to many more years of continued good relations.\n\nWith my kindest regards,\n[From.GetTitledName];;;;;;;;;;;[Root.GetTitledFirstName],\nß ïðèíèìàþ Âàøè èçâèíåíèÿ è íàäåþñü íàøå ñîòðóäíè÷åñòâî ïðîäëèòñÿ íà äîëãèå ãîäû.\nÑ íàèëó÷øèìè ïîæåëàíèÿìè,\n [From.GetTitledName];;x
+EVTDESC_ZE_9123;Dear [Root.GetTitledFirstName],\n\nLamentably, your words of apology do not ring true. I am no fool, and a trust that has been broken cannot be repaired with mere empty words. I cannot maintain a pact under such circumstances.\n\nWith scant pleasure,\n[From.GetTitledName];;;;;;;;;;;[Root.GetTitledFirstName],\nÏå÷àëüíî, íî Âàøè èçâèíåíèÿ íå âûãëÿäÿò ïðàâäîïîäîáíî. ß íå äóðàê è òî äîâåðèå, êîòîðîå Âû ïîäîðâàëè, íå ìîæåò áûòü âîññòàíîâëåíî ïàðîé äîáðûõ ñëîâ. ß íå ìîãó áîëüøå ïîääåðæèâàòü íàø ïàêò.\n [From.GetTitledName];;x
+EVTDESC_ZE_9130;[Root.GetTitledFirstName],\n\nYour aggressive words only serve to strengthen my suspicions regarding your low character and propensity to underhanded dealings. Clearly you planning some dark deed. I demand that you cease at once.\n\nWith reluctant regards,\n[From.GetTitledName];;;;;;;;;;;[Root.GetTitledFirstName],\nÂàø àãðåññèâíûé òîí ëèøü óêðåïèë ìîè ïîäîçðåíèÿ î Âàøåì ïîäëîì õàðàêòåðå è ñêëîííîñòè ê çàêóëèñíûì ñäåëêàì. Î÷åâèäíî, Âû çàìûøëÿåòå ÷òî-òî íåäîáðîå, ïðåêðàòèòå ýòî íåìåäëåííî.\n [From.GetTitledName];;x
+EVTDESC_ZE_9131;Dear [Root.GetTitledFirstName],\nYou are quite right that I have erred in my ways. However, after pondering my faults and considering what a [GetFromRootCompliment] you are, I am now fully committed to seeing you prosper and to preserve our good relationship. I convey to you my sincere and humble apologies.\n\nWith the greatest respect and admiration,\n[From.GetTitledName];;;;;;;;;;;[Root.GetTitledFirstName],\nÂû ïðàâû, ÿ ïðèçíàþ ñâîþ âèíó è íàäåþñü, ÷òî ìîè óæàñíûå îøèáêè íå ïîìåøàþò íàøåìó ñîòðóäíè÷åñòâó, ìîëþ Âàñ î ïðîùåíèè.\nÑ óâàæåíèåì è âîñõèùåíèåì,\n [From.GetTitledName];;x
+EVTDESC_ZE_9132;[Root.GetTitledFirstName],\n\nYou are the worst kind of scum to frame and then attack in such a vile way those who have been so loyal and steadfast towards you. You are a [GetFromRootInsult] and I would not wish upon anyone the misfortune of making pacts or agreements with you.\n\nSincerely and disappointedly,\n[From.GetTitledName];;;;;;;;;;;[Root.GetTitledFirstName],\nÂû - ñàìîå ìåðçêîå è ïîäëîå ñóùåñòâî, êîòîðîå íàíîñèò óäàð â ñïèíó òåì, êòî åìó áîëüøå âñåãî äîâåðÿåò. Ñ òàêèìè íåëüçÿ èìåòü äåëî, òåì áîëåå çàêëþ÷àòü êàêèå-ëèáî ïàêòû è ñîãëàøåíèÿ.\n [From.GetTitledName];;x
+EVTOPTA_ZE_9000;[ally_not_active_in_war.GetSheHeCap] has failed me for the last time.;;;;;;;;;;;[ally_not_active_in_war.GetSheHeCap] ïðåäà¸ò ìåíÿ â ïîñëåäíèé ðàç.;;x
+EVTOPTA_ZE_9001;I never...;;;;;;;;;;;ß íèêîãäà...;;x
+EVTOPTA_ZE_9100;I must send a letter to the [pirate_alliance_friction_ally.PrimaryTitle.GetAdjective] [pirate_alliance_friction_ally.GetTitle] and find out if it so.;;;;;;;;;;;×òî æå ñêàæåò èõ [pirate_alliance_friction_ally.GetTitle]?;;x
+EVTOPTA_ZE_9100_TOOLTIP;All port counties experience tax collecting issues\n;;;;;;;;;;;Âñå ïðèáðåæíûå îêðóãà èñïûòàþò ïðîáëåìû ñî ñáîðîì íàëîãîì\n;;x
+EVTOPTA_ZE_9101;I must reassure [From.GetHerHim].;;;;;;;;;;;Íóæíî óñïîêîèòü [From.GetHersHis].;;x
+EVTOPTA_ZE_9110;Ah, that puts my mind at rest.;;;;;;;;;;;Êàêîå îáëåã÷åíèå.;;x
+EVTOPTA_ZE_9111;The [GetRootFromInsult]!;;;;;;;;;;;[GetRootFromInsult]!;;x
+EVTOPTA_ZE_9120;Oh dear... I should try to repair this...;;;;;;;;;;;Íåõîðîøî ïîëó÷èëîñü, íàäî èçâèíèòüñÿ...;;x
+EVTOPTA_ZE_9121;I see now that [From.GetHerHis] intentions were honorable.;;;;;;;;;;;Ïîõîæå, [From.GetHersHis] íàìåðåíèÿ áûëè áëàãîðîäíû.;;x
+EVTOPTA_ZE_9122;It is all good, then.;;;;;;;;;;;Âîò è õîðîøî.;;x
+EVTOPTA_ZE_9123;Very well, if it must be so.;;;;;;;;;;;Íó ÷òî æ, íè÷åãî íå ïîäåëàåøü.;;x
+EVTOPTA_ZE_9130;I should back down before this breaks our relationship.;;;;;;;;;;;Ëó÷øå îñòàíîâèòüñÿ è ñîõðàíèòü îòíîøåíèÿ.;;x
+EVTOPTA_ZE_9131;Ah, very well then.;;;;;;;;;;;Íó... õîðîøî.;;x
+EVTOPTB_ZE_9000;I'll just pretend I didn't notice.;;;;;;;;;;;Ñäåëàþ âèä, ÷òî íè÷åãî íå ñëó÷èëîñü.;;x
+EVTOPTB_ZE_9101;A strange accusation. [From.GetSheHeCap] is up to something...;;;;;;;;;;;Ñòðàííîå îáâèíåíèå. [From.GetSheHeCap] ÷òî-òî çàòåâàåò...;;x
+EVTOPTB_ZE_9110;[From.GetSheHeCap] lies!;;;;;;;;;;;[From.GetSheHeCap] íàãëî ëæ¸ò!;;x
+EVTOPTB_ZE_9120;The [GetRootFromInsult] is hiding something!;;;;;;;;;;;Ýò[From.GetEtaEtot] [GetRootFromInsult] ÷òî-òî ñêðûâàåò!;;x
+EVTOPTB_ZE_9121;I must distance myself from this [GetRootFromInsult] snake.;;;;;;;;;;;Íàäî äåðæàòüñÿ îò í[From.GetHersHis] ïîäàëüøå.;;x
+EVTOPTB_ZE_9130;May the cur choke on [From.GetHerHis] foul tongue!;;;;;;;;;;;Ïóñòü ïîäàâèòñÿ ñâîèìè ïîäîçðåíèÿìè!;;x
+ze_9000_letter_sent;A letter is sent to [ally_not_active_in_war.GetTitledNameWithNick].;;;;;;;;;;;[ally_not_active_in_war.GetTitledNameWithNick] ïîëó÷èò ïèñüìî.;;x
+ze_9101_angry;Answer accusingly.;;;;;;;;;;;Îòâåòèòü îáâèíèòåëüíûì òîíîì.;;x
+ze_9101_cordial;Answer cordially.;;;;;;;;;;;Îòâåòèòü âåæëèâûì òîíîì.;;x
+ze_9120_soothing;Answer soothingly.;;;;;;;;;;;Îòâåòèòü ïðèìèðèòåëüíî.;;x
+ze_9121_accept_apology;Answer and accept apology.;;;;;;;;;;;Ïðèíÿòü èçâèíåíèÿ.;;x
+ze_9121_break_pact;Break the pact with [From.GetTitledName].\n;;;;;;;;;;;Ðàçîðâàòü ïàêò ñ ïðàâèòåëåì, èçâåñòíûì êàê [From.GetTitledName].\n;;x
+ze_9130_apology;Admit to wrongdoing and send apology.;;;;;;;;;;;Ïðèçíàòü âèíó è ïîñëàòü èçâèíåíèÿ.;;x

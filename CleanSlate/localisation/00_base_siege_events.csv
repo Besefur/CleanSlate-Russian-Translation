@@ -1,62 +1,58 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTNAME62000;Successful Sally by the Defender;;;;;;;;;;;;;x
-EVTNAME62001;Successful Sally by the Defender;;;;;;;;;;;;;x
-EVTNAME62002;Failed Sally by the Defender;;;;;;;;;;;;;x
-EVTNAME62003;Failed Sally by the Defender;;;;;;;;;;;;;x
-EVTNAME62004;Intrigue Slows down Siege;;;;;;;;;;;;;x
-EVTNAME62005;Intrigue Advances Siege;;;;;;;;;;;;;x
-EVTNAME62006;Disease strikes the Besieging Army;;;;;;;;;;;;;x
-EVTNAME62007;Hunger Strikes the Fastness under Siege;;;;;;;;;;;;;x
-EVTNAME62008;Food smuggled in lengthens the Siege;;;;;;;;;;;;;x
-EVTNAME62009;Raiders hit the camp;;;;;;;;;;;;;x
-EVTNAME62010;Tuscan Raiders;;;;;;;;;;;;;x
-EVTNAME62011;A Miracle!;;;;;;;;;;;;;x
-EVTNAME62014;I lead Assault;;;;;;;;;;;;;x
-EVTNAME62015;I need to decide if I should lead the assault;;;;;;;;;;;;;x
-EVTNAME62041;A Disaster!;;;;;;;;;;;;;x
-EVTNAME62044;Enemy Assault;;;;;;;;;;;;;x
-
-EVTDESC62000;The defenders of §Y[From.Siege.GetName]§! successfully raided the camps of the besiegers, inflicting heavy casualties.;;;;;;;;;;;;;x
-EVTDESC62002;The defenders of §Y[From.Siege.GetName]§! launched an unsuccessful raid against the besiegers, taking heavy losses in the attempt.;;;;;;;;;;;;;x
-EVTDESC62004;The defenders of §Y[From.Siege.GetName]§! executed captives on the wall, angering the besiegers and strengthening their resolve.;;;;;;;;;;;;;x
-EVTDESC62005;Rumors of a traitor working with the besiegers has eroded the morale of the defenders of §Y[From.Siege.GetName]§!.;;;;;;;;;;;;;x
-EVTDESC62006;An outbreak of disease in the camps outside the walls of §Y[From.Siege.GetName]§! has killed many of the besiegers.;;;;;;;;;;;;;x
-EVTDESC62007;Large numbers of the famished defenders of §Y[From.Siege.GetName]§! have succumbed to starvation.;;;;;;;;;;;;;x
-EVTDESC62008;Food and supplies have been smuggled into §Y[From.Siege.GetName]§!, increasing the morale of the defenders.;;;;;;;;;;;;;x
-EVTDESC62009;Bandits have raided the siege camps outside §Y[From.Siege.GetName]§!, killing many of the besieging soldiers.;;;;;;;;;;;;;x
-EVTDESC62010;Tuscan raiders have attacked the siege camps outside §Y[From.Siege.GetName]§!, killing many of the besieging soldiers.;;;;;;;;;;;;;x
-EVTDESC62011;Encouraged by a holy omen, the emboldened Christian defenders of §Y[From.Siege.GetName]§! caused havoc on the pagan siege lines in a daring raid.;;;;;;;;;;;;;x
-EVTDESC62012;After finding a holy relic, the emboldened Christian defenders of §Y[From.Siege.GetName]§! caused havoc on the Muslim siege lines in a daring raid.;;;;;;;;;;;;;x
-EVTDESC62013;A Sufi mystic has heartened the Muslim defenders of §Y[From.Siege.GetName]§!, and they have inflicted severe losses on the besieging infidels.;;;;;;;;;;;;;x
-EVTDESC62014;The fortress of the infidel has not fallen. It's up to me to lead the charge for God, Jesus and the Holy Ghost!;;;;;;;;;;;;;x
-EVTDESC62015;The enemy is near and I know what is ahead. Today would be a good day to die!;;;;;;;;;;;;;x
-EVTDESC62040;Tuscan raiders have attacked the siege camps outside §Y[From.Siege.GetName]§!, but they were startled by a surprise counter attack.;;;;;;;;;;;;;x
-EVTDESC62044;The Christian commander besieging our fortress has taken it upon himself to personally lead the assault against our walls! His mad dash forward caught our brave defenders by surprise!;;;;;;;;;;;;;x
-EVTDESC62045;The enemy has launched a massive assault against our besieged fortress! Our forces were caught unprepared!;;;;;;;;;;;;;x
-EVTDESC62100;As enemy soldiers stream into the room, I have no choice but to surrender. I am at the mercy of [New.GetTitledName].;;;;;;;;;;;;;x
-EVTDESC62101;After a successful siege, your men drag §Y[From.GetTitledName]§! out of [From.GetHerHis] hiding hole.;;;;;;;;;;;;;x
-
-EVTOPTA62000;A blow was struck;;;;;;;;;;;;;x
-EVTOPTA62002;Surrender comes sooner;;;;;;;;;;;;;x
-EVTOPTA62004;It was necessary;;;;;;;;;;;;;x
-EVTOPTA62005;A seed is planted;;;;;;;;;;;;;x
-EVTOPTA62006;The attack weakens;;;;;;;;;;;;;x
-EVTOPTA62007;The hunger bites;;;;;;;;;;;;;x
-EVTOPTA62008;The siege lengthens;;;;;;;;;;;;;x
-EVTOPTA62009;Damn them all to hell;;;;;;;;;;;;;x
-EVTOPTA62010;They will be back in greater numbers.;;;;;;;;;;;;;x
-EVTOPTA62011;A sign from heaven;;;;;;;;;;;;;x
-EVTOPTA62012;A Miracle;;;;;;;;;;;;;x
-EVTOPTA62013;As God willed it;;;;;;;;;;;;;x
-EVTOPTA62014;Deus Vult!;;;;;;;;;;;;;x
-EVTOPTA62015;Lead the assault from the first line;;;;;;;;;;;;;x
-EVTOPTA62034;They will pay for this!;;;;;;;;;;;;;x
-EVTOPTA62039;Well done, brigands!;;;;;;;;;;;;;x
-EVTOPTA62041;How could this have happened?;;;;;;;;;;;;;x
-EVTOPTA62044;A madman!;;;;;;;;;;;;;x
-EVTOPTA62045;Man the defenses!;;;;;;;;;;;;;x
-EVTOPTA62100;Damnation!;;;;;;;;;;;;;x
-EVTOPTA62101;Off to the dungeons with [From.GetHerHim]!;;;;;;;;;;;;;x
-
-EVTOPTB62015;Order the assault to commence, while staying behind;;;;;;;;;;;;;x
+EVTNAME62000;Successful Sally by the Defender;;;;;;;;;;;Oñàæä¸ííûå ïðåäïðèíÿëè âûëàçêó;;x
+EVTNAME62001;Successful Sally by the Defender;;;;;;;;;;;Oñàæä¸ííûå ïðåäïðèíÿëè âûëàçêó;;x
+EVTNAME62002;Failed Sally by the Defender;;;;;;;;;;;Bûëàçêà îñàæä¸ííûõ ïðîâàëèëàñü;;x
+EVTNAME62003;Failed Sally by the Defender;;;;;;;;;;;Bûëàçêà îñàæä¸ííûõ ïðîâàëèëàñü;;x
+EVTNAME62004;Intrigue Slows down Siege;;;;;;;;;;;Oñàäó ïðîäëèëà èíòðèãà;;x
+EVTNAME62005;Intrigue Advances Siege;;;;;;;;;;;Oñàäó óñêîðèëà èíòðèãà;;x
+EVTNAME62006;Disease strikes the Besieging Army;;;;;;;;;;;Oñàæäàþùóþ àðìèþ ïîðàæàåò áîëåçíü;;x
+EVTNAME62007;Hunger Strikes the Fastness under Siege;;;;;;;;;;;Oñàæä¸ííûõ òåðçàåò ãîëîä;;x
+EVTNAME62008;Food smuggled in lengthens the Siege;;;;;;;;;;;Kîíòðàáàíäèñòû ñíàáæàþò îñàæä¸ííûõ;;x
+EVTNAME62009;Raiders hit the camp;;;;;;;;;;;Hàë¸ò÷èêè àòàêóþò ëàãåðü;;x
+EVTNAME62010;Tuscan Raiders;;;;;;;;;;;Tîñêàíñêèå íàë¸ò÷èêè;;x
+EVTNAME62011;A Miracle!;;;;;;;;;;;Håâåðîÿòíîå ÷óäî!;;x
+EVTNAME62014;I lead Assault;;;;;;;;;;;Bîçãëàâëÿþ øòóðì ÿ;;x
+EVTNAME62015;I need to decide if I should lead the assault;;;;;;;;;;;Hóæíî ðåøèòü, õî÷ó ëè ÿ âîçãëàâëÿòü øòóðì;;x
+EVTNAME62041;A Disaster!;;;;;;;;;;;Håñ÷àñòüå!;;x
+EVTNAME62044;Enemy Assault;;;;;;;;;;;Hàïàäåíèå âðàãà;;x
+EVTDESC62000;The defenders of §Y[From.Siege.GetName]§! successfully raided the camps of the besiegers, inflicting heavy casualties.;;;;;;;;;;;Çàùèòíèêè óêðåïëåíèÿ §Y[From.Siege.GetName]§! ñîâåðøèëè âûëàçêó íà ðàññâåòå. Îíè íàíåñëè áîëüøèå ïîòåðè îñàæäàþùèì.;;x
+EVTDESC62002;The defenders of §Y[From.Siege.GetName]§! launched an unsuccessful raid against the besiegers, taking heavy losses in the attempt.;;;;;;;;;;;Çàùèòíèêè óêðåïëåíèÿ §Y[From.Siege.GetName]§! ñîâåðøèëè âûëàçêó, íî áûëè çàñòèãíóòû îñàæäàþùèìè âðàñïëîõ, ïîíåñÿ áîëüøèå ïîòåðè.;;x
+EVTDESC62004;The defenders of §Y[From.Siege.GetName]§! executed captives on the wall, angering the besiegers and strengthening their resolve.;;;;;;;;;;;Çàùèòíèêè óêðåïëåíèÿ §Y[From.Siege.GetName]§! êàçíèëè ïëåííèêîâ íà ñòåíå, ðàçîçëèâ îñàæäàþùèõ è óêðåïèâ èõ ðåøèìîñòü ê îòâåòíûì äåéñòâèÿì.;;x
+EVTDESC62005;Rumors of a traitor working with the besiegers has eroded the morale of the defenders of §Y[From.Siege.GetName]§!.;;;;;;;;;;;Èçâåñòèå î ïðåäàòåëå, ïîìîãàþùåì âðàãó, ïîøàòíóëî áîåâîé äóõ çàùèòíèêîâ óêðåïëåíèÿ §Y[From.Siege.GetName]§!.;;x
+EVTDESC62006;An outbreak of disease in the camps outside the walls of §Y[From.Siege.GetName]§! has killed many of the besiegers.;;;;;;;;;;;Âñïûøêà çàáîëåâàíèÿ â ëàãåðå îñàæäàþùèõ çà ñòåíàìè óêðåïëåíèÿ §Y[From.Siege.GetName]§! ïîãóáèëà ìíîãî ñîëäàò.;;x
+EVTDESC62007;Large numbers of the famished defenders of §Y[From.Siege.GetName]§! have succumbed to starvation.;;;;;;;;;;;Ìíîãèå èç çàùèòíèêîâ óêðåïëåíèÿ §Y[From.Siege.GetName]§! ñòàëè æåðòâàìè ãîëîäà.;;x
+EVTDESC62008;Food and supplies have been smuggled into §Y[From.Siege.GetName]§!, increasing the morale of the defenders.;;;;;;;;;;;Åäà è ïðèïàñû áûëè äîñòàâëåíû êîíòðàáàíäîé â êðåïîñòü §Y[From.Siege.GetName]§!, ïîäíÿâ áîåâîé äóõ îñàæä¸ííûõ.;;x
+EVTDESC62009;Bandits have raided the siege camps outside §Y[From.Siege.GetName]§!, killing many of the besieging soldiers.;;;;;;;;;;;Ñåðèÿ áàíäèòñêèõ íàë¸òîâ íà ëàãåðÿ îñàæäàþùèõ çà ñòåíàìè êðåïîñòè §Y[From.Siege.GetName]§! ïîãóáèëà ìíîãî ñîëäàò.;;x
+EVTDESC62010;Tuscan raiders have attacked the siege camps outside §Y[From.Siege.GetName]§!, killing many of the besieging soldiers.;;;;;;;;;;;Òîñêàíñêèå ðàçáîéíèêè íàïàëè íà ëàãåðÿ îñàæäàþùèõ çà ñòåíàìè êðåïîñòè §Y[From.Siege.GetName]§!, óáèâ ìíîãèõ ñîëäàò.;;x
+EVTDESC62011;Encouraged by a holy omen, the emboldened Christian defenders of §Y[From.Siege.GetName]§! caused havoc on the pagan siege lines in a daring raid.;;;;;;;;;;;Âîîäóøåâë¸ííûå ñâÿòûì çíàìåíèåì, õðèñòèàíñêèå çàùèòíèêè óêðåïëåíèÿ §Y[From.Siege.GetName]§! ïîñåÿëè õàîñ â ðÿäàõ îñàæäàþùèõ ÿçû÷íèêîâ ñâîåé âíåçàïíîé âûëàçêîé.;;x
+EVTDESC62012;After finding a holy relic, the emboldened Christian defenders of §Y[From.Siege.GetName]§! caused havoc on the Muslim siege lines in a daring raid.;;;;;;;;;;;Îáðåòåíèå ñâÿùåííîé ðåëèêâèè âîîäóøåâèëî õðèñòèàí, çàùèùàþùèõ óêðåïëåíèå §Y[From.Siege.GetName]§!, êîòîðûå âûçâàëè õàîñ â ðÿäàõ îñàæäàþùèõ ìóñóëüìàí âíåçàïíîé âûëàçêîé.;;x
+EVTDESC62013;A Sufi mystic has heartened the Muslim defenders of §Y[From.Siege.GetName]§!, and they have inflicted severe losses on the besieging infidels.;;;;;;;;;;;Ñóôèéñêèé ìèñòèê âîîäóøåâèë ìóñóëüìàí, çàùèùàþùèõ óêðåïëåíèå §Y[From.Siege.GetName]§!, è îíè íàíåñëè ñåðü¸çíûå ïîòåðè îñàæäàþùèì èõ íåâåðíûì.;;x
+EVTDESC62014;The fortress of the infidel has not fallen. It's up to me to lead the charge for God, Jesus and the Holy Ghost!;;;;;;;;;;;Êðåïîñòü íåâåðíûõ íå ïàëà. Ìî¸ äåëî âîçãëàâèòü àòàêó çà Áîãà, Èèñóñà Õðèñòà è Ñâÿòîãî Äóõà!;;x
+EVTDESC62015;The enemy is near and I know what is ahead. Today would be a good day to die!;;;;;;;;;;;Âðàã óæå áëèçêî, è ÿ çíàþ, ÷òî íàñ æä¸ò âïåðåäè. Ñåãîäíÿ áóäåò õîðîøèé äåíü, ÷òîáû ñëàâíî óìåðåòü â áîþ!;;x
+EVTDESC62040;Tuscan raiders have attacked the siege camps outside §Y[From.Siege.GetName]§!, but they were startled by a surprise counter attack.;;;;;;;;;;;Òîñêàíñêèå ðàçáîéíèêè íàïàëè íà ëàãåðÿ îñàæäàþùèõ çà ñòåíàìè êðåïîñòè §Y[From.Siege.GetName]§!, íî áûëè ðàçáèòû âíåçàïíîé êîíòðàòàêîé.;;x
+EVTDESC62044;The Christian commander besieging our fortress has taken it upon himself to personally lead the assault against our walls! His mad dash forward caught our brave defenders by surprise!;;;;;;;;;;;Õðèñòèàíñêèé êîìàíäèð, âîçãëàâëÿþùèé îñàæäàþùèå íàøó êðåïîñòü âîéñêà, ëè÷íî âîçãëàâèë íàïàäåíèå íà íàøè ñòåíû! Åãî áåçóìíûé ïîñòóïîê çàñòàë âðàñïëîõ íàøèõ äîáëåñòíûõ çàùèòíèêîâ!;;x
+EVTDESC62045;The enemy has launched a massive assault against our besieged fortress! Our forces were caught unprepared!;;;;;;;;;;;Âðàã íà÷àë âíåçàïíóþ àòàêó ïðîòèâ íàøåé îñàæäåííîé êðåïîñòè! Íàøè âîéñêà áûëè çàñòèãíóòû âðàñïëîõ!;;x
+EVTDESC62100;As enemy soldiers stream into the room, I have no choice but to surrender. I am at the mercy of [New.GetTitledName].;;;;;;;;;;;Ïîñëå òîãî êàê âðàæåñêèå ñîëäàòû âðûâàþòñÿ â êîìíàòó, ó ìåíÿ íå îñòà¸òñÿ äðóãîãî âûáîðà êðîìå êàê ñäàòüñÿ. Ïîëàãàþñü íà Âàøó ìèëîñòü, [New.GetTitledName].;;x
+EVTDESC62101;After a successful siege, your men drag §Y[From.GetTitledName]§! out of [From.GetHerHis] hiding hole.;;;;;;;;;;;Ïîñëå óñïåøíîé îñàäû, §Y[From.GetTitledName]§! íå ñìîã[From.GetNoneE] ñêðûòüñÿ îò Âàøèõ ëþäåé è ïîïàë[From.GetEndA] â ïëåí.;;x
+EVTOPTA62000;A blow was struck;;;;;;;;;;;Óäàð áûë íàíåñ¸í;;x
+EVTOPTA62002;Surrender comes sooner;;;;;;;;;;;Îñàäà çàêîí÷èòñÿ åù¸ áûñòðåå;;x
+EVTOPTA62004;It was necessary;;;;;;;;;;;Ýòî áûëî íåîáõîäèìî;;x
+EVTOPTA62005;A seed is planted;;;;;;;;;;;Ñåìåíà ðàçäîðà áûëè ïîñåÿíû;;x
+EVTOPTA62006;The attack weakens;;;;;;;;;;;Àòàêà îñëàáåâàåò;;x
+EVTOPTA62007;The hunger bites;;;;;;;;;;;Íàñòóïàåò ãîëîä;;x
+EVTOPTA62008;The siege lengthens;;;;;;;;;;;Îñàäà çàòÿãèâàåòñÿ;;x
+EVTOPTA62009;Damn them all to hell;;;;;;;;;;;×¸ðò áû èõ ïîáðàë!;;x
+EVTOPTA62010;They will be back in greater numbers.;;;;;;;;;;;Îíè åù¸ âåðíóòñÿ è èõ áóäåò åù¸ áîëüøå;;x
+EVTOPTA62011;A sign from heaven;;;;;;;;;;;Çíàìåíèå ñ íåáà;;x
+EVTOPTA62012;A Miracle;;;;;;;;;;;Î ÷óäî;;x
+EVTOPTA62013;As God willed it;;;;;;;;;;;Äà áóäåò âîëÿ Áîæüÿ!;;x
+EVTOPTA62014;Deus Vult!;;;;;;;;;;;Deus Vult!;;x
+EVTOPTA62015;Lead the assault from the first line;;;;;;;;;;;Âñòàòü â ïåðâûõ ðÿäàõ âîéñêà è âîçãëàâèòü íàïàäåíèå;;x
+EVTOPTA62034;They will pay for this!;;;;;;;;;;;Îíè çàïëàòÿò çà ýòî!;;x
+EVTOPTA62039;Well done, brigands!;;;;;;;;;;;Ìîëîäöû, ðàçáîéíèêè!;;x
+EVTOPTA62041;How could this have happened?;;;;;;;;;;;Êàê ýòî ìîãëî ñëó÷èòüñÿ?;;x
+EVTOPTA62044;A madman!;;;;;;;;;;;Ñóìàñøåäøèé!;;x
+EVTOPTA62045;Man the defenses!;;;;;;;;;;;Çàùèòíèê!;;x
+EVTOPTA62100;Damnation!;;;;;;;;;;;Ïðîêëÿòüå!;;x
+EVTOPTA62101;Off to the dungeons with [From.GetHerHim]!;;;;;;;;;;;Áðîñèòü [From.GetHersHis] â òåìíèöó!;;x
+EVTOPTB62015;Order the assault to commence, while staying behind;;;;;;;;;;;Ïðèêàçàòü íà÷àòü àòàêó, íî ïðè ýòîì îñòàòüñÿ ïîçàäè;;x

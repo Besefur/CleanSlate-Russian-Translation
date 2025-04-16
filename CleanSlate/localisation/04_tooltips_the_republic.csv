@@ -1,23 +1,23 @@
-approve_plan_tooltip;You approve of your son's plan.;;;;;;;;;;;;;x
-battle_tooltip;This time he has gone too far. You will sink his precious ship.;;;;;;;;;;;;;x
-continue_feud_tooltip;You blame the rival family for the death of your child.;;;;;;;;;;;;;x
-deny_hansa_tooltip;You refuse the formation of the Hanseatic League.;;;;;;;;;;;;;x
-end_feud_tooltip;You decide that enough lives have been lost - this feud between your families must come to an end.;;;;;;;;;;;;;x
-feud_begins_tooltip;This will be the start of a great vendetta between your two families...;;;;;;;;;;;;;x
-feud_continues_tooltip;You cannot forgive the crimes committed against your family.;;;;;;;;;;;;;x
-feud_over_tooltip;You shake his hand, ending the feud.;;;;;;;;;;;;;x
-flagship_plan_approved_tooltip;You approve the plan.;;;;;;;;;;;;;x
-flagship_plan_refused_tooltip;You reject the plan as being too risky.;;;;;;;;;;;;;x
-flee_ship_tooltip;You leap over the railing and swim to the safety of the shore.;;;;;;;;;;;;;x
-flotsam_tooltip;As the only survivors of the battle, the two of you drift aimlessly on the sea...;;;;;;;;;;;;;x
-fobid_daughter_tooltip;You make it clear to your daughter that continuing this relationship is out of the question.;;;;;;;;;;;;;x
-forbid_son_tooltip;You make it clear to your son that continuing this relationship is out of the question.;;;;;;;;;;;;;x
-no_ball_tooltip;You stay at home, fiddling your thumbs.;;;;;;;;;;;;;x
-no_battle_tooltip;You tell your crew to give the other ship the right of way.;;;;;;;;;;;;;x
-no_own_ball_tooltip;You decide to just forget about this whole thing.;;;;;;;;;;;;;x
-permit_hansa_tooltip;You permit the formation of the Hanseatic League.;;;;;;;;;;;;;x
-permit_love_tooltip;Despite your previous anger, you decide to not to forbid this young couple from seeing each other.;;;;;;;;;;;;;x
-refuse_plan_tooltip;You disapprove of your son's plan.;;;;;;;;;;;;;x
-rescue_rival_tooltip;You decide not to abandon your former rival to the mercy of these pirates.;;;;;;;;;;;;;x
-forbid_daughter_tooltip;You order your daughter to end this disgraceful affair.;;;;;;;;;;;;;x
-tp_spare;You decide not to move against the Trade Post.;;;;;;;;;;;;;x
+approve_plan_tooltip;You approve of your son's plan.;;;;;;;;;;;Óòâåðäèòü ïëàí ñâîåãî ñûíà.;;x
+battle_tooltip;This time he has gone too far. You will sink his precious ship.;;;;;;;;;;;Íà ñåé ðàç îí çàøåë ñëèøêîì äàëåêî. Ïîòîïèòü åãî äðàãîöåííîå ñóäíî.;;x
+continue_feud_tooltip;You blame the rival family for the death of your child.;;;;;;;;;;;Îáâèíèòü ñîïåðíè÷àþùóþ ñåìüþ â ñìåðòè Âàøåãî ðåá¸íêà.;;x
+deny_hansa_tooltip;You refuse the formation of the Hanseatic League.;;;;;;;;;;;Ïðåïÿòñòâîâàòü ôîðìèðîâàíèþ Ãàíçåéñêîé ëèãè.;;x
+end_feud_tooltip;You decide that enough lives have been lost - this feud between your families must come to an end.;;;;;;;;;;;Äîñòàòî÷íî æèçíåé áûëî ïîòåðÿíî - ýòà âðàæäà ìåæäó ñåìüÿìè äîëæíà çàêîí÷èòüñÿ.;;x
+feud_begins_tooltip;This will be the start of a great vendetta between your two families...;;;;;;;;;;;Ýòî ïîñëóæèò íà÷àëîì âåëèêîé âðàæäû ìåæäó äâóìÿ ñåìüÿìè...;;x
+feud_continues_tooltip;You cannot forgive the crimes committed against your family.;;;;;;;;;;;Íå ïðîùàòü ïðåñòóïëåíèÿ ïðîòèâ Âàøåé ñåìüè.;;x
+feud_over_tooltip;You shake his hand, ending the feud.;;;;;;;;;;;Ïîæàòü åãî ðóêó è çàêîí÷èòü âðàæäó.;;x
+flagship_plan_approved_tooltip;You approve the plan.;;;;;;;;;;;Óòâåðäèòü ïëàí.;;x
+flagship_plan_refused_tooltip;You reject the plan as being too risky.;;;;;;;;;;;Îòâåðãíóòü ïëàí êàê ñëèøêîì ðèñêîâàííûé.;;x
+flee_ship_tooltip;You leap over the railing and swim to the safety of the shore.;;;;;;;;;;;Ïðûãíóòü çà áîðò è ïëûòü ê áåðåãó.;;x
+flotsam_tooltip;As the only survivors of the battle, the two of you drift aimlessly on the sea...;;;;;;;;;;;Áóäó÷è åäèíñòâåííûìè âûæèâøèìè, âû îá[FromFrom.GetRootEndEA] áåñöåëüíî äðåéôóåòå â ìîðå...;;x
+fobid_daughter_tooltip;You make it clear to your daughter that continuing this relationship is out of the question.;;;;;;;;;;;Äàòü ïîíÿòü ñâîåé äî÷åðè, ÷òî î ïðîäîëæåíèè ýòèõ îòíîøåíèé íå ìîæåò áûòü è ðå÷è.;;x
+forbid_son_tooltip;You make it clear to your son that continuing this relationship is out of the question.;;;;;;;;;;;Äàòü ïîíÿòü ñâîåìó ñûíó, ÷òî î ïðîäîëæåíèè ýòèõ îòíîøåíèé íå ìîæåò áûòü è ðå÷è.;;x
+no_ball_tooltip;You stay at home, fiddling your thumbs.;;;;;;;;;;;Âû îñòàíåòåñü äîìà, ïåðåáèðàòü ïàëüöàìè.;;x
+no_battle_tooltip;You tell your crew to give the other ship the right of way.;;;;;;;;;;;Âåëåòü ýêèïàæó äàòü äîðîãó äðóãîìó êîðàáëþ.;;x
+no_own_ball_tooltip;You decide to just forget about this whole thing.;;;;;;;;;;;Ïðîñòî çàáûòü îá ýòîì.;;x
+permit_hansa_tooltip;You permit the formation of the Hanseatic League.;;;;;;;;;;;Ïîääåðæàòü ôîðìèðîâàíèå Ãàíçåéñêîé ëèãè.;;x
+permit_love_tooltip;Despite your previous anger, you decide to not to forbid this young couple from seeing each other.;;;;;;;;;;;Íåñìîòðÿ íà ñâîé ïðîøëûé ãíåâ, íå çàïðåùàòü ýòîé ìîëîäîé ïàðå âèäåòü äðóã äðóãà.;;x
+refuse_plan_tooltip;You disapprove of your son's plan.;;;;;;;;;;;Îòâåðãíóòü ïëàí ñâîåãî ñûíà.;;x
+rescue_rival_tooltip;You decide not to abandon your former rival to the mercy of these pirates.;;;;;;;;;;;Íå îñòàâëÿòü ñâîåãî áûâøåãî âðàãà íà ìèëîñòü ïèðàòîâ.;;x
+forbid_daughter_tooltip;You order your daughter to end this disgraceful affair.;;;;;;;;;;;Âû âåëèòå ñâîåé äî÷åðè ïîêîí÷èòü ñ ýòîé ïîçîðíîé ñâÿçüþ.;;x
+tp_spare;You decide not to move against the Trade Post.;;;;;;;;;;;Âû ðåøàåòå íå ñæèãàòü ôàêòîðèþ.;;x

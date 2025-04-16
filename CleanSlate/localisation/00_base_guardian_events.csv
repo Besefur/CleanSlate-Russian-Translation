@@ -1,20 +1,16 @@
 #CODE;ENGLISH;;;;;;;;;;;RUSSIAN;;x
-
-EVTDESC2480;My liege has a child in need of a guardian and mentor...;;;;;;;;;;;;;x
-EVTDESC2481;My liege, I hope fate finds you well! A child needs a proper guardian, and nothing would please me more than to offer my services as a mentor and tutor, if it pleases thee.\nYour humble vassal\n[From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC2482;My dear [This.GetTitle], your offer is most reasonable. We trust the child will be safe in your hands and will receive a proper upbringing. May our friendship last forever!\n[From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC2483;My dear [This.GetTitle], your offer is deeply appreciated. However, we have someone else in mind as a guardian for our child. Peace be with you!\n[From.GetTitledFirstName];;;;;;;;;;;;;x
-EVTDESC2484;[From.GetTitledFirstName] becomes my Guardian.;;;;;;;;;;;;;x
-
-EVTOPTA2480;Offer the [Root.Liege.GetTitle] my services;;;;;;;;;;;;;x
-EVTOPTA2481;[From.GetTitledFirstName] would make a good guardian;;;;;;;;;;;;;x
-EVTOPTA2483;A slight to my honor!;;;;;;;;;;;;;x
-EVTOPTA2484;I don't like [From.GetHerHim]!;;;;;;;;;;;;;x
-
-EVTOPTB2480;Leave it to someone else;;;;;;;;;;;;;x
-EVTOPTB2481;I can find someone better;;;;;;;;;;;;;x
-
-EVTTOOLTIP2481;Send a letter to my liege;;;;;;;;;;;;;x
-EVTTOOLTIP2482;Send a letter to the vassal gracefully accepting the offer;;;;;;;;;;;;;x
-EVTTOOLTIP2483;Send a letter to the vassal gracefully declining the offer;;;;;;;;;;;;;x
-EVTTOOLTIP2484;The child is tutored by a guardian.;;;;;;;;;;;;;x
+EVTDESC2480;My liege has a child in need of a guardian and mentor...;;;;;;;;;;;Ó ìîåãî ñþçåðåíà åñòü ðåá¸íîê, è îí íóæäàåòñÿ â íàñòàâíèêå.;;x
+EVTDESC2481;My liege, I hope fate finds you well! A child needs a proper guardian, and nothing would please me more than to offer my services as a mentor and tutor, if it pleases thee.\nYour humble vassal\n[From.GetTitledFirstName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA], íàäåþñü, ñóäüáà áëàãîñêëîííà ê Âàì. Âàøå äèòÿ íóæäàåòñÿ â íàäëåæàùåì íàñòàâíèêå, è íè÷åãî íå ïîðàäîâàëî áû ìåíÿ áîëüøå, ÷åì ïðåäëîæèòü ñâîè óñëóãè â êà÷åñòâå íàñòàâíèêà è ó÷èòåëÿ, åñëè ýòî Âàì áóäåò óãîäíî.\nÂàø ñêðîìíûé âàññàë\n [From.GetTitledFirstName];;x
+EVTDESC2482;My dear [This.GetTitle], your offer is most reasonable. We trust the child will be safe in your hands and will receive a proper upbringing. May our friendship last forever!\n[From.GetTitledFirstName];;;;;;;;;;;[This.PrimaryTitle.GetFOA], Âàøå ïðåäëîæåíèå êàæåòñÿ íàì î÷åíü ðàçóìíûì. Ìû óáåæäåíû, ÷òî ðåá¸íîê áóäåò â áåçîïàñíîñòè â Âàøèõ ðóêàõ è ïîëó÷èò ïðàâèëüíîå âîñïèòàíèå. Ïóñòü íàøà äðóæáà äëèòñÿ âå÷íî!\n [From.GetTitledFirstName];;x
+EVTDESC2483;My dear [This.GetTitle], your offer is deeply appreciated. However, we have someone else in mind as a guardian for our child. Peace be with you!\n[From.GetTitledFirstName];;;;;;;;;;;[This.PrimaryTitle.GetFOA], Âàøå ïðåäëîæåíèå áûëî âûñîêî îöåíåíî. Òåì íå ìåíåå, ó íàñ óæå åñòü êîå-êòî äðóãîé íà ðîëü íàñòàâíèêà íàøåãî ðåá¸íêà. Ìèð Âàì!\n [From.GetTitledFirstName];;x
+EVTDESC2484;[From.GetTitledFirstName] becomes my Guardian.;;;;;;;;;;;[From.GetTitledFirstName] òåïåðü ì[From.GetOyaOy] - íàñòàâíè[From.GetTsaK].;;x
+EVTOPTA2480;Offer the [Root.Liege.GetTitle] my services;;;;;;;;;;;Ïðåäëîæèòü [Root.Liege.GetHerHim] ìîè óñëóãè;;x
+EVTOPTA2481;[From.GetTitledFirstName] would make a good guardian;;;;;;;;;;;[From.GetTitledFirstName] áóäåò õîðîøèì íàñòàâíèêîì;;x
+EVTOPTA2483;A slight to my honor!;;;;;;;;;;;Ìíîé ïðåíåáðåãëè!;;x
+EVTOPTA2484;I don't like [From.GetHerHim]!;;;;;;;;;;;Ìíå [From.GetSheHe] íå íðàâèòñÿ!;;x
+EVTOPTB2480;Leave it to someone else;;;;;;;;;;;Ïóòü ýòèì çàéì¸òñÿ êòî-òî åù¸;;x
+EVTOPTB2481;I can find someone better;;;;;;;;;;;ß ìîãó íàéòè êîãî-íèáóäü ïîëó÷øå;;x
+EVTTOOLTIP2481;Send a letter to my liege;;;;;;;;;;;Îòïðàâèòü ïèñüìî ìîåìó ñþçåðåíó;;x
+EVTTOOLTIP2482;Send a letter to the vassal gracefully accepting the offer;;;;;;;;;;;Íàïèñàòü âàññàëó, ÷òî ÿ ïðèíèìàþ åãî ïðåäëîæåíèå;;x
+EVTTOOLTIP2483;Send a letter to the vassal gracefully declining the offer;;;;;;;;;;;Îòïðàâèòü ïèñüìî âàññàëó, ëþáåçíî îòêëîíèâ ïðåäëîæåíèå;;x
+EVTTOOLTIP2484;The child is tutored by a guardian.;;;;;;;;;;;Ðåá¸íîê îáó÷àåòñÿ.;;x

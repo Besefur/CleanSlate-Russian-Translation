@@ -1,162 +1,155 @@
-EVTTITLE_WoL_5001;The White [Root.GetHuntingQuarryCap];;;;;;;;;;;;;x
-
-EVTDESC_WoL_5001;Lately, you have heard persistent rumors from peasants and travellers in the wilds that a strange, mythical beast has been sighted in your realm. It's a white [Root.GetHuntingQuarry], powerful and elusive. The common folk claim it comes from another world and that the hunter who claims it will be imbued with divine power.;;;;;;;;;;;;;x
-EVTDESC_WoL_5004;Good news, my [Root.GetLordLady]! We have received credible reports of a recent sighting of the great white [Root.GetHuntingQuarry] in the county of [target_province.GetName].;;;;;;;;;;;;;x
-EVTDESC_WoL_5007_fearsome;On the hunt, you get separated from your party in the wilderness. As you are roaming around and trying to find your bearings, you glimpse something strange in the distance... you ride closer and see a fearsome great white [Root.GetHuntingQuarry]! As you cautiously approach, it sees you and runs away. You try to follow but are unable to catch up in the difficult terrain.\n\nAs you get back to your party, you find you can't stop thinking about this strange animal.;;;;;;;;;;;;;x
-EVTDESC_WoL_5007_majestic;On the hunt, you get separated from your party in the wilderness. As you are roaming around and trying to find your bearings, you glimpse something strange in the distance... you ride closer and see a majestic great white [Root.GetHuntingQuarry]! As you cautiously approach, it sees you and runs away. You try to follow but are unable to catch up in the difficult terrain.\n\nAs you get back to your party, you find you can't stop thinking about this strange animal.;;;;;;;;;;;;;x
-EVTDESC_WoL_5010;You have gathered your followers and your hunting dogs, you have saddled your horse and prepared your weapons. You are ready to set out to hunt the great white [Root.GetHuntingQuarry].;;;;;;;;;;;;;x
-EVTDESC_WoL_5030;After many days of hard hunting and tracking, you have finally managed to trap the white [Root.GetHuntingQuarry] in a cul-de-sac between two rocks. The great animal is at your mercy - it looks at you with intelligent eyes, and you are suddenly struck by its great beauty...;;;;;;;;;;;;;x
-EVTDESC_WoL_5035;During your hunt, you come to a deep gorge. Right on the other side is the white [Root.GetHuntingQuarry], staring at you! You are so close, yet cannot reach it. As it runs away, you realize that you must return home without a victory this time.;;;;;;;;;;;;;x
-EVTDESC_WoL_5040;Scouring the countryside for your prey, you come upon a lone rider. As you strike up conversation, it turns out he also hunts the same great animal that you are after. His lack of success thus far seems to match yours, but he invites you to talk and share experiences.;;;;;;;;;;;;;x
-EVTDESC_WoL_5045;You spend weeks in the wilderness searching for any trace of your prey, but to no avail. You find plenty of bugs, snakes and riding sores, however.;;;;;;;;;;;;;x
-EVTDESC_WoL_5050;You spend weeks in the wilderness searching for any trace of your prey, but to no avail. However, you find that you rather enjoy being out in the wilds. All this daily physical activity, it makes you feel... stronger.;;;;;;;;;;;;;x
-EVTDESC_WoL_5055;You spend weeks in the wilderness searching for any trace of your prey, but are forced to return emptyhanded. You are sure that no one's impressed by your failed adventure.;;;;;;;;;;;;;x
-EVTDESC_WoL_5060;Fruitlessly scouring the countryside, you come upon a small cottage in the wilds. As you knock, an old crone opens. When she sees you and your hunting party, she cackles eerily and says that she has a powerful potion that will make you a stronger hunter, sure to catch any prey.;;;;;;;;;;;;;x
-EVTDESC_WoL_5061_bad;You drink the potion down. Soon, you start to feel all queasy, and then you pass out. As you awake, you have a strong headache and no desire to continue your hunting expedition. The old crone has disappeared, your guards don't seem to know how or where to.;;;;;;;;;;;;;x
-EVTDESC_WoL_5061_good;You drink the potion down. Soon, you start to feel all warm inside. The crone whispers: 'See? You know that this will make you stronger, I can see it in your eyes! Now go, great hunter!'.\n\nYou return home, certain in your belief that next time you will find your prey...;;;;;;;;;;;;;x
-EVTDESC_WoL_5062;You have returned to your court. The hunt for this elusive white beast seems fruitless, but there are many more things out there in the wilds. Maybe next time you will catch your prey...;;;;;;;;;;;;;x
-EVTDESC_WoL_5065_female_lover;Fruitlessly scouring the countryside, you come upon a small cottage in the wilds. As you knock, a beautiful young woman opens. She pauses, then gives you a warm, inviting look and says: 'It's very lonely out here, I wonder if you will stay the night?';;;;;;;;;;;;;x
-EVTDESC_WoL_5065_male_lover;Fruitlessly scouring the countryside, you come upon a small cottage in the wilds. As you knock, a handsome young man opens. He pauses, then gives you a warm, inviting look and says: 'It's very lonely out here, I wonder if you will stay the night?';;;;;;;;;;;;;x
-EVTDESC_WoL_5066;The next morning, you awake with a warm body next to you. You spent a long, pleasant night in the cabin but it's time to get back to the world outside. Your companion looks you in the eyes, caresses you and asks you to stay a little longer...;;;;;;;;;;;;;x
-EVTDESC_WoL_5202;Your [puppy_giver.GetRootRelation], [puppy_giver.GetTitledFirstName], has sent you a gift. It is a small puppy, but of the finest pedigree and destined to grow into a great hunting dog.;;;;;;;;;;;;;x
-EVTDESC_WoL_5203;Your new puppy has no name yet, my [Root.GetLordLady]. What will you call it?;;;;;;;;;;;;;x
-EVTDESC_WoL_5204_bad;Your dog is growing quickly and is no longer a little puppy. He runs fast and has a keen nose. He bites hard too, as several of the dog handlers can testify.;;;;;;;;;;;;;x
-EVTDESC_WoL_5204_good;Your dog is growing quickly and is no longer a little puppy. He runs fast and has a keen nose, and your dog handlers praise his good character.;;;;;;;;;;;;;x
-EVTDESC_WoL_5210;Your faithful hunting dog is always around, and always happy to see you. It is good to have such a faithful friend.;;;;;;;;;;;;;x
-EVTDESC_WoL_5211;Everyone at court loves your dog. Especially the children find much joy in playing with him.;;;;;;;;;;;;;x
-EVTDESC_WoL_5220;Your hunting dog needs proper training if he is to perform well during hunts. Perhaps you should take a hand in this yourself?;;;;;;;;;;;;;x
-EVTDESC_WoL_5221;In the past months you have been spending a lot of time outside, training your trusty hunting dog. You find that the combination of daily physical exercise and fresh air are doing wonders for your health and constitution.;;;;;;;;;;;;;x
-EVTDESC_WoL_5230;Your hunting dog ran away and went roaming the castle. He was very aggressive, chasing several servants and sending them fleeing in terror. He then came upon the favorite dog of one of your courtiers and attacked it and killed it.;;;;;;;;;;;;;x
-EVTDESC_WoL_5231;Today at court, your hunting dog suddenly flew into a rage, tore loose, and attacked one of your courtiers!;;;;;;;;;;;;;x
-EVTDESC_WoL_5290;Your faithful and trusted hunting dog has finally taken his last breath. Long has he served you since you first received him as a puppy, but now it's time to bury your old friend.;;;;;;;;;;;;;x
-
-EVTOPT_WoL_5221;[Root.GetDogName], catch!;;;;;;;;;;;;;x
-
-EVTOPTA_WoL_5001;I must send people out to find it!;;;;;;;;;;;;;x
-EVTOPTA_WoL_5004;Saddle my horse!;;;;;;;;;;;;;x
-EVTOPTA_WoL_5010;An epic hunt it shall be!;;;;;;;;;;;;;x
-EVTOPTA_WoL_5030;Its head will adorn my wall!;;;;;;;;;;;;;x
-EVTOPTA_WoL_5035;Now I know my purpose in life!;;;;;;;;;;;;;x
-EVTOPTA_WoL_5040;Please join me at my court!;;;;;;;;;;;;;x
-EVTOPTA_WoL_5045;This is pointless...;;;;;;;;;;;;;x
-EVTOPTA_WoL_5050;This is great!;;;;;;;;;;;;;x
-EVTOPTA_WoL_5055;It's my own failure.;;;;;;;;;;;;;x
-EVTOPTA_WoL_5060;Sell it to me!;;;;;;;;;;;;;x
-EVTOPTA_WoL_5061;I don't feel well...;;;;;;;;;;;;;x
-EVTOPTA_WoL_5062;I won't give up.;;;;;;;;;;;;;x
-EVTOPTA_WoL_5065;Of course...;;;;;;;;;;;;;x
-EVTOPTA_WoL_5066;This was nice, but I have to go.;;;;;;;;;;;;;x
-EVTOPTA_WoL_5202;I will accept this gracious gift.;;;;;;;;;;;;;x
-EVTOPTA_WoL_5203;Faithful.;;;;;;;;;;;;;x
-EVTOPTA_WoL_5204;Good dog!;;;;;;;;;;;;;x
-EVTOPTA_WoL_5210;If only people were as trustworthy.;;;;;;;;;;;;;x
-EVTOPTA_WoL_5211;And he loves them.;;;;;;;;;;;;;x
-EVTOPTA_WoL_5220;Yes, I will train him personally.;;;;;;;;;;;;;x
-EVTOPTA_WoL_5231;Heel!;;;;;;;;;;;;;x
-EVTOPTA_WoL_5290;I will bury him quietly in the castle garden.;;;;;;;;;;;;;x
-
-EVTOPTB_WoL_5001;I have no time for dreams and rumors.;;;;;;;;;;;;;x
-EVTOPTB_WoL_5004;I don't have the time now.;;;;;;;;;;;;;x
-EVTOPTB_WoL_5010;This time it will not escape me!;;;;;;;;;;;;;x
-EVTOPTB_WoL_5030;I cannot slay such a noble animal.;;;;;;;;;;;;;x
-EVTOPTB_WoL_5035;I'm sure I'll catch it someday.;;;;;;;;;;;;;x
-EVTOPTB_WoL_5040;It's better to hunt alone.;;;;;;;;;;;;;x
-EVTOPTB_WoL_5055;It's because my retainers are useless!;;;;;;;;;;;;;x
-EVTOPTB_WoL_5060;No, let's go home, this is fruitless.;;;;;;;;;;;;;x
-EVTOPTB_WoL_5065;I really shouldn't.;;;;;;;;;;;;;x
-EVTOPTB_WoL_5066;Come back to court with me!;;;;;;;;;;;;;x
-EVTOPTB_WoL_5202;Send it back.;;;;;;;;;;;;;x
-EVTOPTB_WoL_5203;Hunter.;;;;;;;;;;;;;x
-EVTOPTB_WoL_5204;Hmm...;;;;;;;;;;;;;x
-EVTOPTB_WoL_5220;No, I have people employed for that.;;;;;;;;;;;;;x
-EVTOPTB_WoL_5231;Kill! Kill!;;;;;;;;;;;;;x
-EVTOPTB_WoL_5290;He deserves a proper funeral.;;;;;;;;;;;;;x
-
-EVTOPTC_WoL_5040;A rival - he must die!;;;;;;;;;;;;;x
-EVTOPTC_WoL_5061;This feels good...;;;;;;;;;;;;;x
-EVTOPTC_WoL_5065;It's a trap! Attack!;;;;;;;;;;;;;x
-EVTOPTC_WoL_5202;Pay someone to quietly dispose of it...;;;;;;;;;;;;;x
-EVTOPTC_WoL_5203;Tricky.;;;;;;;;;;;;;x
-EVTOPTC_WoL_5290;A pyramid for [Root.GetDogName]!;;;;;;;;;;;;;x
-
-EVTOPTD_WoL_5203;Lucifer.;;;;;;;;;;;;;x
-EVTOPTE_WoL_5203;Shaytan.;;;;;;;;;;;;;x
-EVTOPTF_WoL_5203;Fenrir.;;;;;;;;;;;;;x
-EVTOPTG_WoL_5203;Erlik.;;;;;;;;;;;;;x
-EVTOPTH_WoL_5203;Velnias.;;;;;;;;;;;;;x
-EVTOPTI_WoL_5203;Tuoni.;;;;;;;;;;;;;x
-EVTOPTJ_WoL_5203;Xolotl.;;;;;;;;;;;;;x
-EVTOPTK_WoL_5203;Veles.;;;;;;;;;;;;;x
-EVTOPTL_WoL_5203;Guruhi.;;;;;;;;;;;;;x
-EVTOPTM_WoL_5203;Darkness.;;;;;;;;;;;;;x
-EVTOPTN_WoL_5203;Ahriman.;;;;;;;;;;;;;x
-EVTOPTO_WoL_5203;Satan.;;;;;;;;;;;;;x
-EVTOPTP_WoL_5203;Vinayaka.;;;;;;;;;;;;;x
-EVTOPTQ_WoL_5203;Mara.;;;;;;;;;;;;;x
-EVTOPTR_WoL_5203;Punisher.;;;;;;;;;;;;;x
-
+EVTTITLE_WoL_5001;The White [Root.GetHuntingQuarryCap];;;;;;;;;;;Áåëûé [Root.GetHuntingQuarryCap];;x
+EVTDESC_WoL_5001;Lately, you have heard persistent rumors from peasants and travellers in the wilds that a strange, mythical beast has been sighted in your realm. It's a white [Root.GetHuntingQuarry], powerful and elusive. The common folk claim it comes from another world and that the hunter who claims it will be imbued with divine power.;;;;;;;;;;;Íåäàâíî äî Âàñ äîøëè ñëóõè, ÷òî êðåñòüÿíå è ïóòåøåñòâåííèêè âèäåëè â ëåñó òàèíñòâåííîå ìèôè÷åñêîå ñóùåñòâî, ñèëüíîå è íåóëîâèìîå. Ýòî áåëûé [Root.GetHuntingQuarry]. Ïðîñòîé íàðîä âåðèò, ÷òî îí ïðèõîäèò èç äðóãîãî ìèðà, è ÷òî îõîòíèê, êîòîðûé ñìîæåò åãî ïîéìàòü, ïðîïèòàåòñÿ áîæåñòâåííîé ñèëîé.;;x
+EVTDESC_WoL_5004;Good news, my [Root.GetLordLady]! We have received credible reports of a recent sighting of the great white [Root.GetHuntingQuarry] in the county of [target_province.GetName].;;;;;;;;;;;Äîáðûå âåñòè, [Root.PrimaryTitle.GetFOA]! Èç äîñòîâåðíûõ èñòî÷íèêîâ íàì ïðèøëî äîíåñåíèå, ÷òî â [From.County.GetAdjective]ñêèõ ëåñàõ áûë çàìå÷åí áåëûé [Root.GetHuntingQuarry]!;;x
+EVTDESC_WoL_5007_fearsome;On the hunt, you get separated from your party in the wilderness. As you are roaming around and trying to find your bearings, you glimpse something strange in the distance... you ride closer and see a fearsome great white [Root.GetHuntingQuarry]! As you cautiously approach, it sees you and runs away. You try to follow but are unable to catch up in the difficult terrain.\n\nAs you get back to your party, you find you can't stop thinking about this strange animal.;;;;;;;;;;;Âî âðåìÿ îõîòû âû îòáèâàåòåñü îò ñâîåãî îòðÿäà â äèêîé ìåñòíîñòè. Áëóæäàÿ ïî îêðåñòíîñòÿì è ïûòàÿñü ñîðèåíòèðîâàòüñÿ, âû çàìå÷àåòå âäàëè ÷òî-òî ñòðàííîå... Ïîäúåõàâ áëèæå, âû âèäèòå ãðîçíîãî îãðîìíîãî áåëîãî [Root.GetHuntingQuarryGEN]! Êîãäà âû îñòîðîæíî ïðèáëèæàåòåñü, îí çàìå÷àåò âàñ è óáåãàåò. Âû ïûòàåòåñü ïîñëåäîâàòü çà íèì, íî íå ìîæåòå äîãíàòü åãî â ñëîæíîì ðåëüåôå.\n\nÂåðíóâøèñü ê îòðÿäó, âû ïîíèìàåòå, ÷òî íå ìîæåòå ïåðåñòàòü äóìàòü îá ýòîì ñòðàííîì çâåðå — îí ñëîâíî ïðåñëåäóåò âàøè ìûñëè.;;x
+EVTDESC_WoL_5007_majestic;On the hunt, you get separated from your party in the wilderness. As you are roaming around and trying to find your bearings, you glimpse something strange in the distance... you ride closer and see a majestic great white [Root.GetHuntingQuarry]! As you cautiously approach, it sees you and runs away. You try to follow but are unable to catch up in the difficult terrain.\n\nAs you get back to your party, you find you can't stop thinking about this strange animal.;;;;;;;;;;;Âî âðåìÿ îõîòû âû îòáèâàåòåñü îò ñâîåãî îòðÿäà â äèêîé ìåñòíîñòè. Áëóæäàÿ ïî îêðåñòíîñòÿì è ïûòàÿñü ñîðèåíòèðîâàòüñÿ, âû çàìå÷àåòå âäàëè ÷òî-òî ñòðàííîå... Ïîäúåõàâ áëèæå, âû âèäèòå âåëè÷åñòâåííîãî îãðîìíîãî áåëîãî [Root.GetHuntingQuarryGEN]! Êîãäà âû îñòîðîæíî ïðèáëèæàåòåñü, îí çàìå÷àåò âàñ è óáåãàåò. Âû ïûòàåòåñü ïîñëåäîâàòü çà íèì, íî íå ìîæåòå äîãíàòü åãî â ñëîæíîì ðåëüåôå.\n\nÂåðíóâøèñü ê îòðÿäó, âû ïîíèìàåòå, ÷òî íå ìîæåòå ïåðåñòàòü äóìàòü îá ýòîì ñòðàííîì çâåðå — îí ñëîâíî ïðåñëåäóåò âàøè ìûñëè.;;x
+EVTDESC_WoL_5010;You have gathered your followers and your hunting dogs, you have saddled your horse and prepared your weapons. You are ready to set out to hunt the great white [Root.GetHuntingQuarry].;;;;;;;;;;;Ñîáðàâ ñâîé îòðÿä è îõîòíè÷üèõ ñîáàê, Âû îñåäëàëè ñâîåãî êîíÿ è ïðèãîòîâèëè îðóæèå. Âû ãîòîâû íà÷àòü îõîòó íà áåëîãî [Root.GetHuntingQuarryGEN].;;x
+EVTDESC_WoL_5030;After many days of hard hunting and tracking, you have finally managed to trap the white [Root.GetHuntingQuarry] in a cul-de-sac between two rocks. The great animal is at your mercy - it looks at you with intelligent eyes, and you are suddenly struck by its great beauty...;;;;;;;;;;;Ñïóñòÿ ìíîãî äíåé âûñëåæèâàíèÿ è ïðåñëåäîâàíèÿ, Âû íàêîíåö-òî ñìîãëè çàìàíèòü áåëîãî [Root.GetHuntingQuarryGEN] â òóïèê ìåæäó ñêàëàìè. Âåëèêîå æèâîòíîå òåïåðü â Âàøåé âëàñòè. Åãî ìóäðûé âçãëÿä è êðàñîòà ïîðàæàþò Âàñ...;;x
+EVTDESC_WoL_5035;During your hunt, you come to a deep gorge. Right on the other side is the white [Root.GetHuntingQuarry], staring at you! You are so close, yet cannot reach it. As it runs away, you realize that you must return home without a victory this time.;;;;;;;;;;;Âî âðåìÿ îõîòû Âû ïðèáëèæàåòåñü ê ãëóáîêîìó óùåëüþ. Íà äðóãîé ñòîðîíå ïðÿìî íà Âàñ ñìîòðèò áåëûé [Root.GetHuntingQuarry]! Âû ñîâñåì áëèçêî, íî íèêàê íå ìîæåòå äî íåãî äîáðàòüñÿ. Ñêðåïÿ ñåðäöåì Âû îñîçíà¸òå, ÷òî íà ýòîò ðàç âûíóæäåíû âåðíóòüñÿ äîìîé íè ñ ÷åì.;;x
+EVTDESC_WoL_5040;Scouring the countryside for your prey, you come upon a lone rider. As you strike up conversation, it turns out he also hunts the same great animal that you are after. His lack of success thus far seems to match yours, but he invites you to talk and share experiences.;;;;;;;;;;;Ïðî÷¸ñûâàÿ ìåñòíîñòü â ïîèñêàõ ñâîåé æåðòâû, Âû âñòðåòèëè îäèíîêîãî âñàäíèêà. Çàâÿçàâ ñ Âàìè ðàçãîâîð, îí ïðèçíàëñÿ, ÷òî, êàê è Âû, îõîòèòñÿ íà ýòî ëåãåíäàðíîå æèâîòíîå. Ïîõîæå, åãî óñïåõè â ýòîì äåëå ñòîëü æå ìàëû, êàê è Âàøè. Îí ïðåäëàãàåò îáìåíÿòüñÿ îïûòîì.;;x
+EVTDESC_WoL_5045;You spend weeks in the wilderness searching for any trace of your prey, but to no avail. You find plenty of bugs, snakes and riding sores, however.;;;;;;;;;;;Âû ïðîâåëè íåäåëè â äèêîé ìåñòíîñòè â ïîïûòêàõ íàéòè õîòü êàêèå-òî ñëåäû ñâîåé æåðòâû, íî âñ¸ òùåòíî. Çàòî Âû íàøëè ìíîæåñòâî æóêîâ, çìåé è... áîëÿ÷åê.;;x
+EVTDESC_WoL_5050;You spend weeks in the wilderness searching for any trace of your prey, but to no avail. However, you find that you rather enjoy being out in the wilds. All this daily physical activity, it makes you feel... stronger.;;;;;;;;;;;Âû ïðîâåëè íåäåëè â ïîïûòêàõ íàéòè õîòü êàêèå-òî ñëåäû ñâîåé æåðòâû, íî âñ¸ òùåòíî. Òåì íå ìåíåå, â äèêîé ïðèðîäå Âû ïî÷óñòâîâàëè ñåáÿ, êàê äîìà è ñòàëè... ñèëüíåå.;;x
+EVTDESC_WoL_5055;You spend weeks in the wilderness searching for any trace of your prey, but are forced to return emptyhanded. You are sure that no one's impressed by your failed adventure.;;;;;;;;;;;Âû ïðîâåëè íåäåëè â äèêîé ìåñòíîñòè â ïîïûòêàõ íàéòè õîòü êàêèå-òî ñëåäû ñâîåé æåðòâû, íî âñ¸ òùåòíî. Âàì ïðèøëîñü âåðíóòüñÿ ñ ïóñòûìè ðóêàìè. Îêðóæàþùèå íåñîìíåííî çàïîìíÿò ýòîò ïðîâàë.;;x
+EVTDESC_WoL_5060;Fruitlessly scouring the countryside, you come upon a small cottage in the wilds. As you knock, an old crone opens. When she sees you and your hunting party, she cackles eerily and says that she has a powerful potion that will make you a stronger hunter, sure to catch any prey.;;;;;;;;;;;Â áåñïëîäíûõ ïîïûòêàõ íàéòè ñëåäû ñâîåé äîáû÷è, Âû îáíàðóæèëè â çàðîñëÿõ ìàëåíüêóþ õèæèíó. Â îòâåò íà ñòóê, äâåðü îòêðûëà êàêàÿ-òî ñòàðóõà. Ïðè âèäå Âàøåãî îòðÿäà, îíà æóòêî çàõèõèêàëà è ïðåäëîæèëà âîñïîëüçîâàòüñÿ çåëüåì, êîòîðîå ñäåëàåò Âàñ óñïåøíûì îõîòíèêîì.;;x
+EVTDESC_WoL_5061_bad;You drink the potion down. Soon, you start to feel all queasy, and then you pass out. As you awake, you have a strong headache and no desire to continue your hunting expedition. The old crone has disappeared, your guards don't seem to know how or where to.;;;;;;;;;;;Âûïèâ çåëüå, Âû ÷óâñòâóåòå òîøíîòó è òåðÿåòå ñîçíàíèå. Î÷íóâøèñü, Âû çàìå÷àåòå ñèëüíóþ ãîëîâíóþ áîëü è æåëàíèå ïîñêîðåå çàêîí÷èòü îõîòó. Ñòàðóõà ïðîïàëà, è Âàøà îõðàíà íå èìååò íè ìàëåéøåãî ïîíÿòèÿ êóäà.;;x
+EVTDESC_WoL_5061_good;You drink the potion down. Soon, you start to feel all warm inside. The crone whispers: 'See? You know that this will make you stronger, I can see it in your eyes! Now go, great hunter!'.\n\nYou return home, certain in your belief that next time you will find your prey...;;;;;;;;;;;"Âûïèâ çåëüå, Âû ïî÷óñòâîâàëè òåïëîòó âíóòðè. Ñòàðóõà ïðîøåïòàëà: ""Âèäèøü? Îíî äåëàåò òåáÿ ñèëüíåå. ß âèæó ýòî â òâîèõ ãëàçàõ! À òåïåðü ñòóïàé, âåëèêèé îõîòíèê!"".\nÂû âîçâðàùàåòåñü äîìîé, â îæèäàíèè íåèçáåæíîãî óñïåõà íà ñëåäóþùåé îõîòå...";;x
+EVTDESC_WoL_5062;You have returned to your court. The hunt for this elusive white beast seems fruitless, but there are many more things out there in the wilds. Maybe next time you will catch your prey...;;;;;;;;;;;Âû âåðíóëèñü äîìîé. Îõîòà çà ýòèì íåóëîâèìûì áåëûì ñóùåñòâîì çàêîí÷èëàñü íåóäà÷åé, íî òàì, â äèêîé ïðèðîäå, åñòü åù¸ ìíîãî íîâûõ îòêðûòèé. Ìîæåò áûòü â ñëåäóþùèé ðàç Âû ïîéìàåòå ñâîþ æåðòâó...;;x
+EVTDESC_WoL_5065_female_lover;Fruitlessly scouring the countryside, you come upon a small cottage in the wilds. As you knock, a beautiful young woman opens. She pauses, then gives you a warm, inviting look and says: 'It's very lonely out here, I wonder if you will stay the night?';;;;;;;;;;;"Â áåñïëîäíûõ ïîïûòêàõ íàéòè ñëåäû ñâîåé äîáû÷è, Âû îáíàðóæèëè â çàðîñëÿõ ìàëåíüêóþ õèæèíó. Â îòâåò íà ñòóê, äâåðü îòêðûëà ïðåêðàñíàÿ ìîëîäàÿ äåâóøêà. Ìèíóòó ñïóñòÿ âûðàæåíèå å¸ ëèöà ïðèíÿëî äîáðîæåëàòåëüíûé âèä, è ïðèÿòíûì ãîëîñîì îíà ñêàçàëà: ""Â ýòèõ ìåñòàõ âåñüìà îäèíîêî. Íå æåëàåòå ëè ïåðåíî÷åâàòü çäåñü?""";;x
+EVTDESC_WoL_5065_male_lover;Fruitlessly scouring the countryside, you come upon a small cottage in the wilds. As you knock, a handsome young man opens. He pauses, then gives you a warm, inviting look and says: 'It's very lonely out here, I wonder if you will stay the night?';;;;;;;;;;;"Â áåñïëîäíûõ ïîïûòêàõ íàéòè ñëåäû ñâîåé äîáû÷è, Âû îáíàðóæèëè â çàðîñëÿõ ìàëåíüêóþ õèæèíó. Â îòâåò íà ñòóê, äâåðü îòêðûë ïðèâëåêàòåëüíûé þíîøà. Ìèíóòó ñïóñòÿ îí óëûáíóëñÿ è ñêàçàë: ""Â ýòèõ ìåñòàõ äîâîëüíî îäèíîêî. Íå æåëàåòå îñòàíîâèòüñÿ çäåñü íà íî÷ü?""";;x
+EVTDESC_WoL_5066;The next morning, you awake with a warm body next to you. You spent a long, pleasant night in the cabin but it's time to get back to the world outside. Your companion looks you in the eyes, caresses you and asks you to stay a little longer...;;;;;;;;;;;Óòðîì Âû ïðîñíóëèñü, îáíèìàÿ ïðåêðàñíîå ìîëîäîå òåëî. Âû ïðîâåëè ïðèÿòíóþ íî÷ü, íî íóæíî âîçâðàùàòüñÿ ê îáû÷íîé æèçíè.;;x
+EVTDESC_WoL_5202;Your [puppy_giver.GetRootRelation], [puppy_giver.GetTitledFirstName], has sent you a gift. It is a small puppy, but of the finest pedigree and destined to grow into a great hunting dog.;;;;;;;;;;;[From.GetTitledFirstName], ì[From.GetOyaOy] [From.GetRootRelation] øë¸ò ìíå ïîäàðîê - ýòî ìàëåíüêèé ùåíîê, íî ñ õîðîøåé ðîäîñëîâíîé. Èç íåãî âûðàñòåò õîðîøèé îõîòíè÷èé ï¸ñ.;;x
+EVTDESC_WoL_5203;Your new puppy has no name yet, my [Root.GetLordLady]. What will you call it?;;;;;;;;;;;Íîâîìó ùåíêó íóæíà êàêàÿ-íèáóäü êëè÷êà, [Root.PrimaryTitle.GetFOA]. Êàê Âû áóäåòå åãî çâàòü?;;x
+EVTDESC_WoL_5204_bad;Your dog is growing quickly and is no longer a little puppy. He runs fast and has a keen nose. He bites hard too, as several of the dog handlers can testify.;;;;;;;;;;;Âàø ï¸ñ - áîëüøå íå ùåíîê, òåïåðü îí áûñòðî áåãàåò è îáëàäàåò õîðîøèì íþõîì. Îäíàêî, îí ÷àñòî è áîëüíî êóñàåòñÿ, ÷òî ïîäòâåðæäàþò Âàøè ïñàðè.;;x
+EVTDESC_WoL_5204_good;Your dog is growing quickly and is no longer a little puppy. He runs fast and has a keen nose, and your dog handlers praise his good character.;;;;;;;;;;;Âàø ï¸ñ - áîëüøå íå ùåíîê, òåïåðü îí áûñòðî áåãàåò è îáëàäàåò õîðîøèì íþõîì. Ïñàðè õâàëÿò åãî çà äîáðûé íðàâ.;;x
+EVTDESC_WoL_5210;Your faithful hunting dog is always around, and always happy to see you. It is good to have such a faithful friend.;;;;;;;;;;;Âàø îõîòíè÷èé ï¸ñ âñåãäà ðÿäîì è ðàä Âàøåé êîìïàíèè. Õîðîøî èìåòü òàêîãî âåðíîãî äðóãà.;;x
+EVTDESC_WoL_5211;Everyone at court loves your dog. Especially the children find much joy in playing with him.;;;;;;;;;;;Ïðèäâîðíûå îáîæàþò Âàøåãî ïñà, îñîáåííî äåòè, êîòîðûå ñ áîëüøèì óäîâîëüñòâèåì èãðàþò ñ íèì.;;x
+EVTDESC_WoL_5220;Your hunting dog needs proper training if he is to perform well during hunts. Perhaps you should take a hand in this yourself?;;;;;;;;;;;Âàø ï¸ñ íóæäàåòñÿ â òðåíèðîâêå, ÷òîáû õîðîøî ñëóæèòü âî âðåìÿ îõîòû. Âîçìîæíî, Âàì ñëåäóåò ëè÷íî çàíÿòüñÿ åãî îáó÷åíèåì?;;x
+EVTDESC_WoL_5221;In the past months you have been spending a lot of time outside, training your trusty hunting dog. You find that the combination of daily physical exercise and fresh air are doing wonders for your health and constitution.;;;;;;;;;;;Â ïîñëåäíèå ìåñÿöû Âû ïðîâîäèòå ìíîãî âðåìåíè, äðåññèðóÿ ñâîåãî ïñà. Ïîõîæå, åæåäíåâíûå óïðàæíåíèÿ íà ñâåæåì âîçäóõå áëàãîòâîðíî ñêàçàëèñü íà Âàøåì çäîðîâüå.;;x
+EVTDESC_WoL_5230;Your hunting dog ran away and went roaming the castle. He was very aggressive, chasing several servants and sending them fleeing in terror. He then came upon the favorite dog of one of your courtiers and attacked it and killed it.;;;;;;;;;;;Âàø îõîòíè÷èé ï¸ñ óáåæàë îò Âàñ è ñòàë áåøåíî íîñèòüñÿ ïî äîìó. Îí àãðåññèâíî ïðåñëåäîâàë ñëóã, âûíóæäàÿ èõ â óæàñå áðîñàòü âñ¸ è ñïàñàòüñÿ. À çàòåì äîáðàëñÿ äî ëþáèìîãî ïñà îäíîãî èç ïðèäâîðíûõ è çàãðûç åãî íàñìåðòü.;;x
+EVTDESC_WoL_5231;Today at court, your hunting dog suddenly flew into a rage, tore loose, and attacked one of your courtiers!;;;;;;;;;;;Ñåãîäíÿ Âàø ï¸ñ â î÷åðåäíîì ïðèñòóïå ÿðîñòè íàïàë íà ïðèäâîðíîãî!;;x
+EVTDESC_WoL_5290;Your faithful and trusted hunting dog has finally taken his last breath. Long has he served you since you first received him as a puppy, but now it's time to bury your old friend.;;;;;;;;;;;Âàø âåðíûé ï¸ñ ñäåëàë ñâîé ïîñëåäíèé âçäîõ. Îí ñëóæèë Âàì ñ òåõ ïîð, êàê Âû âïåðâûå âçÿëè åãî, åù¸ ùåíêîì. Òåïåðü ïðèøëî âðåìÿ ïîõîðîíèòü ñòàðîãî äðóãà.;;x
+EVTOPT_WoL_5221;[Root.GetDogName], catch!;;;;;;;;;;;[Root.GetDogName], âçÿòü!;;x
+EVTOPTA_WoL_5001;I must send people out to find it!;;;;;;;;;;;Íóæíî íàéòè åãî!;;x
+EVTOPTA_WoL_5004;Saddle my horse!;;;;;;;;;;;Ñåäëàéòå ìîåãî êîíÿ!;;x
+EVTOPTA_WoL_5010;An epic hunt it shall be!;;;;;;;;;;;Ýòî áóäåò ýïè÷åñêàÿ îõîòà!;;x
+EVTOPTA_WoL_5030;Its head will adorn my wall!;;;;;;;;;;;Åãî ãîëîâà óêðàñèò ìîè ñòåíû!;;x
+EVTOPTA_WoL_5035;Now I know my purpose in life!;;;;;;;;;;;Òåïåðü ÿ çíàþ öåëü ñâîåé æèçíè!;;x
+EVTOPTA_WoL_5040;Please join me at my court!;;;;;;;;;;;Ñ óäîâîëüñòâèåì. Ïðèñîåäèíÿéòåñü ê íàøåìó äâîðó!;;x
+EVTOPTA_WoL_5045;This is pointless...;;;;;;;;;;;Ýòî áåñïîëåçíî...;;x
+EVTOPTA_WoL_5050;This is great!;;;;;;;;;;;Íåò õóäà áåç äîáðà!;;x
+EVTOPTA_WoL_5055;It's my own failure.;;;;;;;;;;;Íàäî æå òàê îïîçðèòüñÿ!;;x
+EVTOPTA_WoL_5060;Sell it to me!;;;;;;;;;;;Ïðîäàé åãî ìíå!;;x
+EVTOPTA_WoL_5061;I don't feel well...;;;;;;;;;;;×òî-òî ìíå íåõîðîøî...;;x
+EVTOPTA_WoL_5062;I won't give up.;;;;;;;;;;;ß íå ñäàìñÿ!;;x
+EVTOPTA_WoL_5065;Of course...;;;;;;;;;;;Êîíå÷íî...;;x
+EVTOPTA_WoL_5066;This was nice, but I have to go.;;;;;;;;;;;Ýòî áûëî ÷óäåñíî, íî ìíå ïîðà.;;x
+EVTOPTA_WoL_5202;I will accept this gracious gift.;;;;;;;;;;;ß ïðèìó ýòîò ùåäðûé ïîäàðîê.;;x
+EVTOPTA_WoL_5203;Faithful.;;;;;;;;;;;Äðóæîê;;x
+EVTOPTA_WoL_5204;Good dog!;;;;;;;;;;;Õîðîøèé ï¸ñ!;;x
+EVTOPTA_WoL_5210;If only people were as trustworthy.;;;;;;;;;;;Åñëè áû òîëüêî ëþäè áûëè òàêèìè ïðåäàííûìè.;;x
+EVTOPTA_WoL_5211;And he loves them.;;;;;;;;;;;Ýòà ëþáîâü âçàèìíà.;;x
+EVTOPTA_WoL_5220;Yes, I will train him personally.;;;;;;;;;;;Êîíå÷íî, ÿ åãî îáó÷ó.;;x
+EVTOPTA_WoL_5231;Heel!;;;;;;;;;;;Ê íîãå!;;x
+EVTOPTA_WoL_5290;I will bury him quietly in the castle garden.;;;;;;;;;;;ß ïîõîðîíþ åãî â ñàäó.;;x
+EVTOPTB_WoL_5001;I have no time for dreams and rumors.;;;;;;;;;;;Ó ìåíÿ íåò âðåìåíè íà ýòè ñêàçêè.;;x
+EVTOPTB_WoL_5004;I don't have the time now.;;;;;;;;;;;Ñåé÷àñ ìíå íå äî ýòîãî.;;x
+EVTOPTB_WoL_5010;This time it will not escape me!;;;;;;;;;;;Íà ýòîò ðàç åìó íå ñêðûòüñÿ!;;x
+EVTOPTB_WoL_5030;I cannot slay such a noble animal.;;;;;;;;;;;ß íå ìîãó ïîãóáèòü ñòîëü áëàãîðîäíîå ñîçäàíèå.;;x
+EVTOPTB_WoL_5035;I'm sure I'll catch it someday.;;;;;;;;;;;ß ïîéìàþ åãî... ðàíî èëè ïîçäíî.;;x
+EVTOPTB_WoL_5040;It's better to hunt alone.;;;;;;;;;;;ß ïðåäïî÷èòàþ îõîòèòüñÿ â îäèíî÷êó.;;x
+EVTOPTB_WoL_5055;It's because my retainers are useless!;;;;;;;;;;;Ìåíÿ îêðóæàþò íèê÷¸ìíûå ëþäè!;;x
+EVTOPTB_WoL_5060;No, let's go home, this is fruitless.;;;;;;;;;;;Ïîðà âîçâðàùàòüñÿ. Ýòî áåñïîëåçíî.;;x
+EVTOPTB_WoL_5065;I really shouldn't.;;;;;;;;;;;Äóìàþ, ìíå íå ñëåäóåò ýòîãî äåëàòü.;;x
+EVTOPTB_WoL_5066;Come back to court with me!;;;;;;;;;;;Ïîéä¸ì ñî ìíîé!;;x
+EVTOPTB_WoL_5202;Send it back.;;;;;;;;;;;Îòîøëèòå åãî îáðàòíî.;;x
+EVTOPTB_WoL_5203;Hunter.;;;;;;;;;;;Îõîòíèê;;x
+EVTOPTB_WoL_5204;Hmm...;;;;;;;;;;;Õìì...;;x
+EVTOPTB_WoL_5220;No, I have people employed for that.;;;;;;;;;;;Ëó÷øå äîâåðèòü ýòî ïðîôåññèîíàëàì.;;x
+EVTOPTB_WoL_5231;Kill! Kill!;;;;;;;;;;;Äà! Âîò òàê! Óáåé!;;x
+EVTOPTB_WoL_5290;He deserves a proper funeral.;;;;;;;;;;;Îí çàñëóæèë äîñòîéíûå ïîõîðîíû.;;x
+EVTOPTC_WoL_5040;A rival - he must die!;;;;;;;;;;;Ñîïåðíèê... Èçáàâüòåñü îò íåãî.;;x
+EVTOPTC_WoL_5061;This feels good...;;;;;;;;;;;ß ÷óâñòâóþ ñåáÿ ïðåêðàñíî...;;x
+EVTOPTC_WoL_5065;It's a trap! Attack!;;;;;;;;;;;Ýòî ëîâóøêà! Â àòàêó!;;x
+EVTOPTC_WoL_5202;Pay someone to quietly dispose of it...;;;;;;;;;;;Çàïëàòèòå êîìó-íèáóäü, ÷òîáû èçáàâèòüñÿ îò íåãî...;;x
+EVTOPTC_WoL_5203;Tricky.;;;;;;;;;;;Ëîâêà÷;;x
+EVTOPTC_WoL_5290;A pyramid for [Root.GetDogName]!;;;;;;;;;;;Ïèðàìèäà äëÿ [Root.GetDogName]!;;x
+EVTOPTD_WoL_5203;Lucifer.;;;;;;;;;;;Ëþöèôåð;;x
+EVTOPTE_WoL_5203;Shaytan.;;;;;;;;;;;Øàéòàí;;x
+EVTOPTF_WoL_5203;Fenrir.;;;;;;;;;;;Ôåíðèð;;x
+EVTOPTG_WoL_5203;Erlik.;;;;;;;;;;;Ýðëèê;;x
+EVTOPTH_WoL_5203;Velnias.;;;;;;;;;;;Âåëüíèàñ;;x
+EVTOPTI_WoL_5203;Tuoni.;;;;;;;;;;;Òóîíè;;x
+EVTOPTJ_WoL_5203;Xolotl.;;;;;;;;;;;Øîëîòëü;;x
+EVTOPTK_WoL_5203;Veles.;;;;;;;;;;;Âåëåñ;;x
+EVTOPTL_WoL_5203;Guruhi.;;;;;;;;;;;Ãóðóõè;;x
+EVTOPTM_WoL_5203;Darkness.;;;;;;;;;;;Ìðàê;;x
+EVTOPTN_WoL_5203;Ahriman.;;;;;;;;;;;Àõðèìàí;;x
+EVTOPTO_WoL_5203;Satan.;;;;;;;;;;;Ñàòàíà;;x
+EVTOPTP_WoL_5203;Vinayaka.;;;;;;;;;;;Âèíàÿêà;;x
+EVTOPTQ_WoL_5203;Mara.;;;;;;;;;;;Ìàðà;;x
+EVTOPTR_WoL_5203;Punisher.;;;;;;;;;;;Êàðàòåëü;;x
 # No longer needed
-# EVTTITLE_WoL_5001_bear;The White Bear;;;;;;;;;;;;;x
-# EVTTITLE_WoL_5001_lion;The White Lion;;;;;;;;;;;;;x
-# EVTTITLE_WoL_5001_stag;The White Stag;;;;;;;;;;;;;x
-# EVTTITLE_WoL_5001_tiger;The White Tiger;;;;;;;;;;;;;x
-# EVTDESC_WoL_5001_bear;Lately, you have heard persistent rumors from peasants and travellers in the wilds that a strange, mythical beast has been sighted in your realm. It's a white bear, powerful and elusive. The common folk claim it comes from another world and that the hunter who claims it will be imbued with divine power.;;;;;;;;;;;;;x
-# EVTDESC_WoL_5001_lion;Lately, you have heard persistent rumors from peasants and travellers in the wilds that a strange, mythical beast has been sighted in your realm. It's a white lion, powerful and elusive. The common folk claim it comes from another world and that the hunter who claims it will be imbued with divine power.;;;;;;;;;;;;;x
-# EVTDESC_WoL_5001_stag;Lately, you have heard persistent rumors from peasants and travellers in the wilds that a strange, mythical beast has been sighted in your realm. It's a white stag, powerful and elusive. The common folk claim it comes from another world and that the hunter who claims it will be imbued with divine power.;;;;;;;;;;;;;x
-# EVTDESC_WoL_5001_tiger;Lately, you have heard persistent rumors from peasants and travellers in the wilds that a strange, mythical beast has been sighted in your realm. It's a white tiger, powerful and elusive. The common folk claim it comes from another world and that the hunter who claims it will be imbued with divine power.;;;;;;;;;;;;;x
-# EVTDESC_WoL_5004_bear;Good news, my [Root.GetLordLady]! We have received credible reports of a recent sighting of the great white bear in the county of [target_province.GetName].;;;;;;;;;;;;;x
-# EVTDESC_WoL_5004_lion;Good news, my [Root.GetLordLady]! We have received credible reports of a recent sighting of the great white lion in the county of [target_province.GetName].;;;;;;;;;;;;;x
-# EVTDESC_WoL_5004_stag;Good news, my [Root.GetLordLady]! We have received credible reports of a recent sighting of the great white stag in the county of [target_province.GetName].;;;;;;;;;;;;;x
-# EVTDESC_WoL_5004_tiger;Good news, my [Root.GetLordLady]! We have received credible reports of a recent sighting of the great white tiger in the county of [target_province.GetName].;;;;;;;;;;;;;x
-# EVTDESC_WoL_5007_bear;On the hunt, you get separated from your party in the wilderness. As you are roaming around and trying to find your bearings, you glimpse something strange in the distance... you ride closer and see a fearsome great white bear! As you cautiously approach, it sees you and runs away. You try to follow but are unable to catch up in the difficult terrain.\n\nAs you get back to your party, you find you can't stop thinking about this strange animal.;;;;;;;;;;;;;x
-# EVTDESC_WoL_5007_lion;On the hunt, you get separated from your party in the wilderness. As you are roaming around and trying to find your bearings, you glimpse something strange in the distance... you ride closer and see a majestic great white lion! As you cautiously approach, it sees you and runs away. You try to follow but are unable to catch up in the difficult terrain.\n\nAs you get back to your party, you find you can't stop thinking about this strange animal.;;;;;;;;;;;;;x
-# EVTDESC_WoL_5007_stag;On the hunt, you get separated from your party in the wilderness. As you are roaming around and trying to find your bearings, you glimpse something strange in the distance... you ride closer and see a majestic great white stag! As you cautiously approach, it sees you and runs away. You try to follow but are unable to catch up in the difficult terrain.\n\nAs you get back to your party, you find you can't stop thinking about this strange animal.;;;;;;;;;;;;;x
-# EVTDESC_WoL_5007_tiger;On the hunt, you get separated from your party in the wilderness. As you are roaming around and trying to find your bearings, you glimpse something strange in the distance... you ride closer and see a fearsome great white tiger! As you cautiously approach, it sees you and runs away. You try to follow but are unable to catch up in the difficult terrain.\n\nAs you get back to your party, you find you can't stop thinking about this strange animal.;;;;;;;;;;;;;x
-# EVTDESC_WoL_5010_bear;You have gathered your followers and your hunting dogs, you have saddled your horse and prepared your weapons. You are ready to set out to hunt the great white bear.;;;;;;;;;;;;;x
-# EVTDESC_WoL_5010_lion;You have gathered your followers and your hunting dogs, you have saddled your horse and prepared your weapons. You are ready to set out to hunt the great white lion.;;;;;;;;;;;;;x
-# EVTDESC_WoL_5010_stag;You have gathered your followers and your hunting dogs, you have saddled your horse and prepared your weapons. You are ready to set out to hunt the great white stag.;;;;;;;;;;;;;x
-# EVTDESC_WoL_5010_tiger;You have gathered your followers and your hunting dogs, you have saddled your horse and prepared your weapons. You are ready to set out to hunt the great white tiger.;;;;;;;;;;;;;x
-# EVTDESC_WoL_5030_bear;After many days of hard hunting and tracking, you have finally managed to trap the white bear in a cul-de-sac between two rocks. The great animal is at your mercy - it looks at you with intelligent eyes, and you are suddenly struck by its great beauty...;;;;;;;;;;;;;x
-# EVTDESC_WoL_5030_lion;After many days of hard hunting and tracking, you have finally managed to trap the white lion in a cul-de-sac between two rocks. The great animal is at your mercy - it looks at you with intelligent eyes, and you are suddenly struck by its great beauty...;;;;;;;;;;;;;x
-# EVTDESC_WoL_5030_stag;After many days of hard hunting and tracking, you have finally managed to trap the white stag in a cul-de-sac between two rocks. The great animal is at your mercy - it looks at you with intelligent eyes, and you are suddenly struck by its great beauty...;;;;;;;;;;;;;x
-# EVTDESC_WoL_5030_tiger;After many days of hard hunting and tracking, you have finally managed to trap the white tiger in a cul-de-sac between two rocks. The great animal is at your mercy - it looks at you with intelligent eyes, and you are suddenly struck by its great beauty...;;;;;;;;;;;;;x
-# EVTDESC_WoL_5035_bear;During your hunt, you come to a deep gorge. Right on the other side is the white bear, staring at you! You are so close, yet cannot reach it. As it runs away, you realize that you must return home without a victory this time.;;;;;;;;;;;;;x
-# EVTDESC_WoL_5035_lion;During your hunt, you come to a deep gorge. Right on the other side is the white lion, staring at you! You are so close, yet cannot reach it. As it runs away, you realize that you must return home without a victory this time.;;;;;;;;;;;;;x
-# EVTDESC_WoL_5035_stag;During your hunt, you come to a deep gorge. Right on the other side is the white stag, staring at you! You are so close, yet cannot reach it. As it runs away, you realize that you must return home without a victory this time.;;;;;;;;;;;;;x
-# EVTDESC_WoL_5035_tiger;During your hunt, you come to a deep gorge. Right on the other side is the white tiger, staring at you! You are so close, yet cannot reach it. As it runs away, you realize that you must return home without a victory this time.;;;;;;;;;;;;;x
-#EVTOPTA_WoL_5221;Faithful, catch!;;;;;;;;;;;;;x
-#EVTOPTB_WoL_5221;Hunter, catch!;;;;;;;;;;;;;x
-#EVTOPTC_WoL_5221;Tricky, catch!;;;;;;;;;;;;;x
-#EVTOPTC_WoL_5290;A pyramid for Faithful!;;;;;;;;;;;;;x
-#EVTOPTD_WoL_5221;Lucifer, catch!;;;;;;;;;;;;;x
-#EVTOPTD_WoL_5290;A pyramid for Hunter!;;;;;;;;;;;;;x
-#EVTOPTE_WoL_5221;Shaytan, catch!;;;;;;;;;;;;;x
-#EVTOPTE_WoL_5290;A pyramid for Tricky!;;;;;;;;;;;;;x
-#EVTOPTF_WoL_5221;Fenrir, catch!;;;;;;;;;;;;;x
-#EVTOPTF_WoL_5290;A pyramid for Lucifer!;;;;;;;;;;;;;x
-#EVTOPTG_WoL_5221;Erlik, catch!;;;;;;;;;;;;;x
-#EVTOPTG_WoL_5290;A pyramid for Shaytan!;;;;;;;;;;;;;x
-#EVTOPTH_WoL_5221;Velnias, catch!;;;;;;;;;;;;;x
-#EVTOPTH_WoL_5290;A pyramid for Fenrir!;;;;;;;;;;;;;x
-#EVTOPTI_WoL_5221;Tuoni, catch!;;;;;;;;;;;;;x
-#EVTOPTI_WoL_5290;A pyramid for Erlik!;;;;;;;;;;;;;x
-#EVTOPTJ_WoL_5221;Xolotl, catch!;;;;;;;;;;;;;x
-#EVTOPTJ_WoL_5290;A pyramid for Velnias!;;;;;;;;;;;;;x
-#EVTOPTK_WoL_5221;Veles, catch!;;;;;;;;;;;;;x
-#EVTOPTK_WoL_5290;A pyramid for Tuoni!;;;;;;;;;;;;;x
-#EVTOPTL_WoL_5221;Guruhi, catch!;;;;;;;;;;;;;x
-#EVTOPTL_WoL_5290;A pyramid for Xolotl!;;;;;;;;;;;;;x
-#EVTOPTM_WoL_5221;Darkness, catch!;;;;;;;;;;;;;x
-#EVTOPTM_WoL_5290;A pyramid for Veles!;;;;;;;;;;;;;x
-#EVTOPTN_WoL_5221;Ahriman, catch!;;;;;;;;;;;;;x
-#EVTOPTN_WoL_5290;A pyramid for Guruhi!;;;;;;;;;;;;;x
-#EVTOPTO_WoL_5221;Satan, catch!;;;;;;;;;;;;;x
-#EVTOPTO_WoL_5290;A pyramid for Darkness!;;;;;;;;;;;;;x
-#EVTOPTP_WoL_5221;Vinayaka, catch!;;;;;;;;;;;;;x
-#EVTOPTP_WoL_5290;A pyramid for Ahriman!;;;;;;;;;;;;;x
-#EVTOPTQ_WoL_5221;Mara, catch!;;;;;;;;;;;;;x
-#EVTOPTQ_WoL_5290;A pyramid for Satan!;;;;;;;;;;;;;x
-#EVTOPTR_WoL_5221;Punisher, catch!;;;;;;;;;;;;;x
-#EVTOPTR_WoL_5290;A pyramid for Vinayaka!;;;;;;;;;;;;;x
-#EVTOPTS_WoL_5290;A pyramid for Mara!;;;;;;;;;;;;;x
-#EVTOPTT_WoL_5290;A pyramid for Punisher!;;;;;;;;;;;;;x
+# EVTTITLE_WoL_5001_bear;The White Bear;;;;;;;;;;;Måäâåäü;;x
+# EVTTITLE_WoL_5001_lion;The White Lion;;;;;;;;;;;Ëåâ;;x
+# EVTTITLE_WoL_5001_stag;The White Stag;;;;;;;;;;;Oëåíü;;x
+# EVTTITLE_WoL_5001_tiger;The White Tiger;;;;;;;;;;;Tèãð;;x
+# EVTDESC_WoL_5001_bear;Lately, you have heard persistent rumors from peasants and travellers in the wilds that a strange, mythical beast has been sighted in your realm. It's a white bear, powerful and elusive. The common folk claim it comes from another world and that the hunter who claims it will be imbued with divine power.;;;;;;;;;;;Íåäàâíî äî Âàñ äîøëè ñëóõè, ÷òî êðåñòüÿíå è ïóòåøåñòâåííèêè âèäåëè â ëåñó òàèíñòâåííîå ìèôè÷åñêîå ñóùåñòâî, ñèëüíîå è íåóëîâèìîå. Ýòî áåëûé ìåäâåäü. Ïðîñòîé íàðîä âåðèò, ÷òî îí ïðèõîäèò èç äðóãîãî ìèðà, è ÷òî îõîòíèê, êîòîðûé ñìîæåò åãî ïîéìàòü, ïðîïèòàåòñÿ áîæåñòâåííîé ñèëîé.;;x
+# EVTDESC_WoL_5001_lion;Lately, you have heard persistent rumors from peasants and travellers in the wilds that a strange, mythical beast has been sighted in your realm. It's a white lion, powerful and elusive. The common folk claim it comes from another world and that the hunter who claims it will be imbued with divine power.;;;;;;;;;;;Íåäàâíî äî Âàñ äîøëè ñëóõè, ÷òî êðåñòüÿíå è ïóòåøåñòâåííèêè âèäåëè òàèíñòâåííîå ìèôè÷åñêîå ñóùåñòâî, ñèëüíîå è íåóëîâèìîå. Ýòî áåëûé ëåâ. Ïðîñòîé íàðîä âåðèò, ÷òî îí ïðèõîäèò èç äðóãîãî ìèðà, è ÷òî îõîòíèê, êîòîðûé ñìîæåò åãî ïîéìàòü, ïðîïèòàåòñÿ áîæåñòâåííîé ñèëîé.;;x
+# EVTDESC_WoL_5001_stag;Lately, you have heard persistent rumors from peasants and travellers in the wilds that a strange, mythical beast has been sighted in your realm. It's a white stag, powerful and elusive. The common folk claim it comes from another world and that the hunter who claims it will be imbued with divine power.;;;;;;;;;;;Íåäàâíî äî Âàñ äîøëè ñëóõè, ÷òî êðåñòüÿíå è ïóòåøåñòâåííèêè âèäåëè â ëåñó òàèíñòâåííîå ìèôè÷åñêîå ñóùåñòâî, ñèëüíîå è íåóëîâèìîå. Ýòî áåëûé îëåíü. Ïðîñòîé íàðîä âåðèò, ÷òî îí ïðèõîäèò èç äðóãîãî ìèðà, è ÷òî îõîòíèê, êîòîðûé ñìîæåò åãî ïîéìàòü, ïðîïèòàåòñÿ áîæåñòâåííîé ñèëîé.;;x
+# EVTDESC_WoL_5001_tiger;Lately, you have heard persistent rumors from peasants and travellers in the wilds that a strange, mythical beast has been sighted in your realm. It's a white tiger, powerful and elusive. The common folk claim it comes from another world and that the hunter who claims it will be imbued with divine power.;;;;;;;;;;;Íåäàâíî äî Âàñ äîøëè ñëóõè, ÷òî êðåñòüÿíå è ïóòåøåñòâåííèêè âèäåëè òàèíñòâåííîå ìèôè÷åñêîå ñóùåñòâî, ñèëüíîå è íåóëîâèìîå. Ýòî áåëûé òèãð. Ïðîñòîé íàðîä âåðèò, ÷òî îí ïðèõîäèò èç äðóãîãî ìèðà, è ÷òî îõîòíèê, êîòîðûé ñìîæåò åãî ïîéìàòü, ïðîïèòàåòñÿ áîæåñòâåííîé ñèëîé.;;x
+# EVTDESC_WoL_5004_bear;Good news, my [Root.GetLordLady]! We have received credible reports of a recent sighting of the great white bear in the county of [target_province.GetName].;;;;;;;;;;;Äîáðûå âåñòè, [Root.PrimaryTitle.GetFOA]! Èç äîñòîâåðíûõ èñòî÷íèêîâ íàì ïðèøëî äîíåñåíèå, ÷òî â [From.County.GetAdjective]ñêèõ ëåñàõ áûë çàìå÷åí áåëûé ìåäâåäü!;;x
+# EVTDESC_WoL_5004_lion;Good news, my [Root.GetLordLady]! We have received credible reports of a recent sighting of the great white lion in the county of [target_province.GetName].;;;;;;;;;;;Äîáðûå âåñòè, [Root.PrimaryTitle.GetFOA]! Èç äîñòîâåðíûõ èñòî÷íèêîâ íàì ïðèøëî äîíåñåíèå, ÷òî íà ïðîñòîðàõ [From.County.GetAdjective]ñêèõ çåìåëü áûë çàìå÷åí áåëûé ëåâ!;;x
+# EVTDESC_WoL_5004_stag;Good news, my [Root.GetLordLady]! We have received credible reports of a recent sighting of the great white stag in the county of [target_province.GetName].;;;;;;;;;;;Äîáðûå âåñòè, [Root.PrimaryTitle.GetFOA]! Èç äîñòîâåðíûõ èñòî÷íèêîâ íàì ïðèøëî äîíåñåíèå, ÷òî â [From.County.GetAdjective]ñêèõ ëåñàõ áûë çàìå÷åí áåëûé îëåíü!;;x
+# EVTDESC_WoL_5004_tiger;Good news, my [Root.GetLordLady]! We have received credible reports of a recent sighting of the great white tiger in the county of [target_province.GetName].;;;;;;;;;;;Äîáðûå âåñòè, [Root.PrimaryTitle.GetFOA]! Èç äîñòîâåðíûõ èñòî÷íèêîâ íàì ïðèøëî äîíåñåíèå, ÷òî â [From.County.GetAdjective]ñêèõ ëåñàõ áûë çàìå÷åí áåëûé òèãð!;;x
+# EVTDESC_WoL_5007_bear;On the hunt, you get separated from your party in the wilderness. As you are roaming around and trying to find your bearings, you glimpse something strange in the distance... you ride closer and see a fearsome great white bear! As you cautiously approach, it sees you and runs away. You try to follow but are unable to catch up in the difficult terrain.\n\nAs you get back to your party, you find you can't stop thinking about this strange animal.;;;;;;;;;;;Íà îõîòå Âû îòñòàëè îò ñâîåãî îòðÿäà. Áëóæäàÿ ïî ìåñòíîñòè â ïîïûòêàõ íàéòè îáðàòíûé ïóòü, Âû çàìåòèëè íå÷òî ñòðàííîå âäàëè è ïîñêàêàëè â ýòîì íàïðàâëåíèè. Âäðóã íåâåðîÿòíàÿ óäà÷à - ãðîçíûé áåëûé ìåäâåäü ïðÿìî ïåðåä Âàìè! Êàê òîëüêî Âû ïðèáëèçèëèñü ê íåìó, îí òóò æå óáåæàë ïðî÷ü - ïîïûòêè ïðåñëåäîâàíèÿ çàêîí÷èëèñü íåóäà÷åé.\nÊîãäà Âû íàêîíåö âåðíóëèñü ê ñâîåìó îòðÿäó, ìûñëè î ñòðàííîì ñóùåñòâå íèêàê íå ïîêèäàëè Âàñ.;;x
+# EVTDESC_WoL_5007_lion;On the hunt, you get separated from your party in the wilderness. As you are roaming around and trying to find your bearings, you glimpse something strange in the distance... you ride closer and see a majestic great white lion! As you cautiously approach, it sees you and runs away. You try to follow but are unable to catch up in the difficult terrain.\n\nAs you get back to your party, you find you can't stop thinking about this strange animal.;;;;;;;;;;;Íà îõîòå Âû îòñòàëè îò ñâîåãî îòðÿäà. Áëóæäàÿ ïî ìåñòíîñòè â ïîïûòêàõ íàéòè äîðîãó íàçàä, Âû çàìåòèëè íå÷òî ñòðàííîå âäàëè è ïîñêàêàëè â ýòîì íàïðàâëåíèè. Âäðóã íåâåðîÿòíàÿ óäà÷à - âåëè÷åñòâåííûé áåëûé ëåâ ïðåãðàæäàåò Âàì ïóòü! Êàê òîëüêî Âû ïðèáëèçèëèñü ê íåìó, îí òóò æå óáåæàë ïðî÷ü - ïîïûòêè ïðåñëåäîâàíèÿ çàêîí÷èëèñü íåóäà÷åé.\nÊîãäà Âû íàêîíåö âåðíóëèñü ê ñâîåìó îòðÿäó, ìûñëè î ñòðàííîì ñóùåñòâå íèêàê íå ïîêèäàëè Âàñ.;;x
+# EVTDESC_WoL_5007_stag;On the hunt, you get separated from your party in the wilderness. As you are roaming around and trying to find your bearings, you glimpse something strange in the distance... you ride closer and see a majestic great white stag! As you cautiously approach, it sees you and runs away. You try to follow but are unable to catch up in the difficult terrain.\n\nAs you get back to your party, you find you can't stop thinking about this strange animal.;;;;;;;;;;;Íà îõîòå Âû îòñòàëè îò ñâîåãî îòðÿäà. Áëóæäàÿ ïî ìåñòíîñòè â ïîïûòêàõ íàéòè îáðàòíûé ïóòü, Âû çàìåòèëè íå÷òî ñòðàííîå âäàëè è ïîñêàêàëè â ýòîì íàïðàâëåíèè. Âäðóã íåâåðîÿòíàÿ óäà÷à - âåëè÷åñòâåííûé áåëûé îëåíü ñòîÿë ïðÿìî ïåðåä Âàìè! Êàê òîëüêî Âû ïðèáëèçèëèñü ê íåìó, îí òóò æå óáåæàë ïðî÷ü - ïîïûòêè ïðåñëåäîâàíèÿ çàêîí÷èëèñü íåóäà÷åé.\nÊîãäà Âû íàêîíåö âåðíóëèñü ê ñâîåìó îòðÿäó, ìûñëè î ñòðàííîì ñóùåñòâå íèêàê íå ïîêèäàëè Âàñ.;;x
+# EVTDESC_WoL_5007_tiger;On the hunt, you get separated from your party in the wilderness. As you are roaming around and trying to find your bearings, you glimpse something strange in the distance... you ride closer and see a fearsome great white tiger! As you cautiously approach, it sees you and runs away. You try to follow but are unable to catch up in the difficult terrain.\n\nAs you get back to your party, you find you can't stop thinking about this strange animal.;;;;;;;;;;;Íà îõîòå Âû îòñòàëè îò ñâîåãî îòðÿäà. Áëóæäàÿ ïî ìåñòíîñòè â ïîïûòêàõ íàéòè äîðîãó íàçàä, Âû çàìåòèëè íå÷òî ñòðàííîå âäàëè è ïîñêàêàëè â ýòîì íàïðàâëåíèè. Âäðóã íåâåðîÿòíàÿ óäà÷à - ïðåêðàñíûé áåëûé òèãð ïðåãðàæäàåò Âàì ïóòü! Êàê òîëüêî Âû ïðèáëèçèëèñü ê íåìó, îí òóò æå óáåæàë ïðî÷ü - ïîïûòêè ïðåñëåäîâàíèÿ çàêîí÷èëèñü íåóäà÷åé.\nÊîãäà Âû íàêîíåö âåðíóëèñü ê ñâîåìó îòðÿäó, ìûñëè î ñòðàííîì ñóùåñòâå íèêàê íå ïîêèäàëè Âàñ.;;x
+# EVTDESC_WoL_5010_bear;You have gathered your followers and your hunting dogs, you have saddled your horse and prepared your weapons. You are ready to set out to hunt the great white bear.;;;;;;;;;;;Ñîáðàâ ñâîé îòðÿä è îõîòíè÷üèõ ñîáàê, Âû îñåäëàëè ñâîåãî êîíÿ è ïðèãîòîâèëè îðóæèå. Âû ãîòîâû íà÷àòü îõîòó íà áåëîãî ìåäâåäÿ.;;x
+# EVTDESC_WoL_5010_lion;You have gathered your followers and your hunting dogs, you have saddled your horse and prepared your weapons. You are ready to set out to hunt the great white lion.;;;;;;;;;;;Ñîáðàâ ñâîé îòðÿä è îõîòíè÷üèõ ñîáàê, Âû îñåäëàëè ñâîåãî êîíÿ è ïðèãîòîâèëè îðóæèå. Âû ãîòîâû íà÷àòü îõîòó íà áåëîãî ëüâà.;;x
+# EVTDESC_WoL_5010_stag;You have gathered your followers and your hunting dogs, you have saddled your horse and prepared your weapons. You are ready to set out to hunt the great white stag.;;;;;;;;;;;Ñîáðàâ ñâîé îòðÿä è îõîòíè÷üèõ ñîáàê, Âû îñåäëàëè ñâîåãî êîíÿ è ïðèãîòîâèëè îðóæèå. Âû ãîòîâû íà÷àòü îõîòó íà áåëîãî îëåíÿ.;;x
+# EVTDESC_WoL_5010_tiger;You have gathered your followers and your hunting dogs, you have saddled your horse and prepared your weapons. You are ready to set out to hunt the great white tiger.;;;;;;;;;;;Ñîáðàâ ñâîé îòðÿä è îõîòíè÷üèõ ñîáàê, Âû îñåäëàëè ñâîåãî êîíÿ è ïðèãîòîâèëè îðóæèå. Âû ãîòîâû íà÷àòü îõîòó íà áåëîãî òèãðà.;;x
+# EVTDESC_WoL_5030_bear;After many days of hard hunting and tracking, you have finally managed to trap the white bear in a cul-de-sac between two rocks. The great animal is at your mercy - it looks at you with intelligent eyes, and you are suddenly struck by its great beauty...;;;;;;;;;;;Ñïóñòÿ ìíîãî äíåé âûñëåæèâàíèÿ è ïðåñëåäîâàíèÿ, Âû íàêîíåö-òî ñìîãëè çàìàíèòü áåëîãî ìåäâåäÿ â òóïèê ìåæäó ñêàëàìè. Âåëèêîå æèâîòíîå òåïåðü â Âàøåé âëàñòè. Åãî ìóäðûé âçãëÿä è êðàñîòà ïîðàæàþò Âàñ...;;x
+# EVTDESC_WoL_5030_lion;After many days of hard hunting and tracking, you have finally managed to trap the white lion in a cul-de-sac between two rocks. The great animal is at your mercy - it looks at you with intelligent eyes, and you are suddenly struck by its great beauty...;;;;;;;;;;;Ñïóñòÿ ìíîãî äíåé âûñëåæèâàíèÿ è ïðåñëåäîâàíèÿ, Âû íàêîíåö-òî ñìîãëè çàìàíèòü áåëîãî ëüâà â òóïèê ìåæäó ñêàëàìè. Âåëèêîå æèâîòíîå òåïåðü â Âàøåé âëàñòè. Åãî ìóäðûé âçãëÿä è êðàñîòà ïîðàæàþò Âàñ...;;x
+# EVTDESC_WoL_5030_stag;After many days of hard hunting and tracking, you have finally managed to trap the white stag in a cul-de-sac between two rocks. The great animal is at your mercy - it looks at you with intelligent eyes, and you are suddenly struck by its great beauty...;;;;;;;;;;;Ñïóñòÿ ìíîãî äíåé âûñëåæèâàíèÿ è ïðåñëåäîâàíèÿ, Âû íàêîíåö-òî ñìîãëè çàìàíèòü áåëîãî îëåíÿ â òóïèê ìåæäó ñêàëàìè. Âåëèêîå æèâîòíîå òåïåðü â Âàøåé âëàñòè. Åãî ìóäðûé âçãëÿä è êðàñîòà ïîðàæàþò Âàñ...;;x
+# EVTDESC_WoL_5030_tiger;After many days of hard hunting and tracking, you have finally managed to trap the white tiger in a cul-de-sac between two rocks. The great animal is at your mercy - it looks at you with intelligent eyes, and you are suddenly struck by its great beauty...;;;;;;;;;;;Ñïóñòÿ ìíîãî äíåé âûñëåæèâàíèÿ è ïðåñëåäîâàíèÿ, Âû íàêîíåö-òî ñìîãëè çàìàíèòü áåëîãî òèãðà â òóïèê ìåæäó ñêàëàìè. Âåëèêîå æèâîòíîå òåïåðü â Âàøåé âëàñòè. Åãî ìóäðûé âçãëÿä è êðàñîòà ïîðàæàþò Âàñ...;;x
+# EVTDESC_WoL_5035_bear;During your hunt, you come to a deep gorge. Right on the other side is the white bear, staring at you! You are so close, yet cannot reach it. As it runs away, you realize that you must return home without a victory this time.;;;;;;;;;;;Âî âðåìÿ îõîòû Âû ïðèáëèæàåòåñü ê ãëóáîêîìó óùåëüþ. Íà äðóãîé ñòîðîíå ïðÿìî íà Âàñ ñìîòðèò áåëûé ìåäâåäü! Âû ñîâñåì áëèçêî, íî íèêàê íå ìîæåòå äî íåãî äîáðàòüñÿ. Ñêðåïÿ ñåðäöåì Âû îñîçíà¸òå, ÷òî íà ýòîò ðàç âûíóæäåíû âåðíóòüñÿ äîìîé íè ñ ÷åì.;;x
+# EVTDESC_WoL_5035_lion;During your hunt, you come to a deep gorge. Right on the other side is the white lion, staring at you! You are so close, yet cannot reach it. As it runs away, you realize that you must return home without a victory this time.;;;;;;;;;;;Âî âðåìÿ îõîòû Âû ïðèáëèæàåòåñü ê ãëóáîêîìó óùåëüþ. Íà äðóãîé ñòîðîíå ïðÿìî íà Âàñ ñìîòðèò áåëûé ëåâ! Âû ñîâñåì áëèçêî, íî íèêàê íå ìîæåòå äî íåãî äîáðàòüñÿ. Ñêðåïÿ ñåðäöåì Âû îñîçíà¸òå, ÷òî íà ýòîò ðàç âûíóæäåíû âåðíóòüñÿ äîìîé íè ñ ÷åì.;;x
+# EVTDESC_WoL_5035_stag;During your hunt, you come to a deep gorge. Right on the other side is the white stag, staring at you! You are so close, yet cannot reach it. As it runs away, you realize that you must return home without a victory this time.;;;;;;;;;;;Âî âðåìÿ îõîòû Âû ïðèáëèæàåòåñü ê ãëóáîêîìó óùåëüþ. Íà äðóãîé ñòîðîíå ïðÿìî íà Âàñ ñìîòðèò áåëûé îëåíü! Âû ñîâñåì áëèçêî, íî íèêàê íå ìîæåòå äî íåãî äîáðàòüñÿ. Ñêðåïÿ ñåðäöåì Âû îñîçíà¸òå, ÷òî íà ýòîò ðàç âûíóæäåíû âåðíóòüñÿ äîìîé íè ñ ÷åì.;;x
+# EVTDESC_WoL_5035_tiger;During your hunt, you come to a deep gorge. Right on the other side is the white tiger, staring at you! You are so close, yet cannot reach it. As it runs away, you realize that you must return home without a victory this time.;;;;;;;;;;;Âî âðåìÿ îõîòû Âû ïðèáëèæàåòåñü ê ãëóáîêîìó óùåëüþ. Íà äðóãîé ñòîðîíå ïðÿìî íà Âàñ ñìîòðèò áåëûé òèãð! Âû ñîâñåì áëèçêî, íî íèêàê íå ìîæåòå äî íåãî äîáðàòüñÿ. Ñêðåïÿ ñåðäöåì Âû îñîçíà¸òå, ÷òî íà ýòîò ðàç âûíóæäåíû âåðíóòüñÿ äîìîé íè ñ ÷åì.;;x
+# EVTOPTA_WoL_5221;Faithful, catch!;;;;;;;;;;;Äðóæîê, âçÿòü!;;x
+# EVTOPTB_WoL_5221;Hunter, catch!;;;;;;;;;;;Îõîòíèê, âçÿòü!;;x
+# EVTOPTC_WoL_5221;Tricky, catch!;;;;;;;;;;;Ëîâêà÷, âçÿòü!;;x
+# EVTOPTC_WoL_5290;A pyramid for Faithful!;;;;;;;;;;;Ïèðàìèäà Äðóæêà!;;x
+# EVTOPTD_WoL_5221;Lucifer, catch!;;;;;;;;;;;Ëþöèôåð, âçÿòü!;;x
+# EVTOPTD_WoL_5290;A pyramid for Hunter!;;;;;;;;;;;Ïèðàìèäà Îõîòíèêà!;;x
+# EVTOPTE_WoL_5221;Shaytan, catch!;;;;;;;;;;;Øàéòàí, âçÿòü!;;x
+# EVTOPTE_WoL_5290;A pyramid for Tricky!;;;;;;;;;;;Ïèðàìèäà Ëîâêà÷à!;;x
+# EVTOPTF_WoL_5221;Fenrir, catch!;;;;;;;;;;;Ôåíðèð, âçÿòü!;;x
+# EVTOPTF_WoL_5290;A pyramid for Lucifer!;;;;;;;;;;;Ïèðàìèäà Ëþöèôåðà!;;x
+# EVTOPTG_WoL_5221;Erlik, catch!;;;;;;;;;;;Ýðëèê, âçÿòü!;;x
+# EVTOPTG_WoL_5290;A pyramid for Shaytan!;;;;;;;;;;;Ïèðàìèäà Øàéòàíà!;;x
+# EVTOPTH_WoL_5221;Velnias, catch!;;;;;;;;;;;Âåëüíèàñ, âçÿòü!;;x
+# EVTOPTH_WoL_5290;A pyramid for Fenrir!;;;;;;;;;;;Ïèðàìèäà Ôåíðèðà!;;x
+# EVTOPTI_WoL_5221;Tuoni, catch!;;;;;;;;;;;Òóîíè, âçÿòü!;;x
+# EVTOPTI_WoL_5290;A pyramid for Erlik!;;;;;;;;;;;Ïèðàìèäà Ýðëèêà!;;x
+# EVTOPTJ_WoL_5221;Xolotl, catch!;;;;;;;;;;;Øîëîòëü, âçÿòü!;;x
+# EVTOPTJ_WoL_5290;A pyramid for Velnias!;;;;;;;;;;;Ïèðàìèäà Âåëüíèàñà!;;x
+# EVTOPTK_WoL_5221;Veles, catch!;;;;;;;;;;;Âåëåñ, âçÿòü!;;x
+# EVTOPTK_WoL_5290;A pyramid for Tuoni!;;;;;;;;;;;Ïèðàìèäà Òóîíè!;;x
+# EVTOPTL_WoL_5221;Guruhi, catch!;;;;;;;;;;;Ãóðóõè, âçÿòü!;;x
+# EVTOPTL_WoL_5290;A pyramid for Xolotl!;;;;;;;;;;;Ïèðàìèäà Øîëîòëÿ!;;x
+# EVTOPTM_WoL_5221;Darkness, catch!;;;;;;;;;;;Ìðàê, âçÿòü!;;x
+# EVTOPTM_WoL_5290;A pyramid for Veles!;;;;;;;;;;;Ïèðàìèäà Âåëåñà!;;x
+# EVTOPTN_WoL_5221;Ahriman, catch!;;;;;;;;;;;Àõðèìàí, âçÿòü!;;x
+# EVTOPTN_WoL_5290;A pyramid for Guruhi!;;;;;;;;;;;Ïèðàìèäà Ãóðóõè!;;x
+# EVTOPTO_WoL_5221;Satan, catch!;;;;;;;;;;;Ñàòàíà, âçÿòü!;;x
+# EVTOPTO_WoL_5290;A pyramid for Darkness!;;;;;;;;;;;Ïèðàìèäà Ìðàêà!;;x
+# EVTOPTP_WoL_5221;Vinayaka, catch!;;;;;;;;;;;Âèíàÿêà, âçÿòü!;;x
+# EVTOPTP_WoL_5290;A pyramid for Ahriman!;;;;;;;;;;;Ïèðàìèäà Àõðèìàíà!;;x
+# EVTOPTQ_WoL_5221;Mara, catch!;;;;;;;;;;;Ìàðà, âçÿòü!;;x
+# EVTOPTQ_WoL_5290;A pyramid for Satan!;;;;;;;;;;;Ïèðàìèäà Ñàòàíû!;;x
+# EVTOPTR_WoL_5221;Punisher, catch!;;;;;;;;;;;Êàðàòåëü, âçÿòü!;;x
+# EVTOPTR_WoL_5290;A pyramid for Vinayaka!;;;;;;;;;;;Ïèðàìèäà Âèíàÿêè!;;x
+# EVTOPTS_WoL_5290;A pyramid for Mara!;;;;;;;;;;;Ïèðàìèäà Ìàðû!;;x
+# EVTOPTT_WoL_5290;A pyramid for Punisher!;;;;;;;;;;;Ïèðàìèäà Êàðàòåëÿ!;;x

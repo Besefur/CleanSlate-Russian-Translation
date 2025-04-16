@@ -1,32 +1,26 @@
-EVTDESC_HL_6000;You go out into the herd to choose a strong and powerful warhorse. You look around with expert eyes and eventually spot a steed that stands out from the rest. It is strong and has a powerful bearing.\n\nAs you mount your new steed, you feel certain that you have made the right choice. All that remains now is to give it a suitable name - what shall it be?;;;;;;;;;;;;;x
-EVTDESC_HL_6010;Your ward, [ward_cant_ride.GetFirstName], is almost eight years old now and still cannot ride a horse properly. It is truly a disgrace.;;;;;;;;;;;;;x
-EVTDESC_HL_6020;Traveling from one of your camps to the next, you come upon a river. Rains have made it swell and the rapids are strong and violent. The way around is too long, however, so you must cross. You watch with concern as the party gingerly begins to descend into the churning waters. [spouse_danger_nomad_river_crossing.GetFirstName], your [spouse_danger_nomad_river_crossing.GetHusbandWife], crosses riding your favorite horse.\n\nYou are watching from the bank as it suddenly happens... [spouse_danger_nomad_river_crossing.GetFirstName] loses control in the strong rapids and falls off the horse as it loses its footing, and both of them are grabbed by the strong current. You realize that you only have a moment to react before they are swept away, you cannot save them both...;;;;;;;;;;;;;x
-EVTDESC_HL_6021;You managed to pull [spouse_danger_nomad_river_crossing.GetFirstName] out of the river. You lost your favorite horse, but your [spouse_danger_nomad_river_crossing.GetHusbandWife] is safe. [spouse_danger_nomad_river_crossing.GetSheHeCap] is terrified but overjoyed at the narrow escape and your brave rescue.;;;;;;;;;;;;;x
-EVTDESC_HL_6022;You managed to pull [spouse_danger_nomad_river_crossing.GetFirstName] out of the river. Once safe, [spouse_danger_nomad_river_crossing.GetSheHe] stands up, dripping wet and shivering, and curses you: 'You imbecile! I would have been fine! How could you let that fine horse drown?';;;;;;;;;;;;;x
-EVTDESC_HL_6030;One of your loyal retinue warriors has approached you with a petition for aid. He says his family lost several of their mares to illness and now they are struggling to feed their children.;;;;;;;;;;;;;x
-
-EVTOPTA_HL_6000;Dragon.;;;;;;;;;;;;;x
-EVTOPTA_HL_6010;This will not do! I shall teach [ward_cant_ride.GetHerHim] personally.;;;;;;;;;;;;;x
-EVTOPTA_HL_6020;I must save [spouse_danger_nomad_river_crossing.GetFirstName]!;;;;;;;;;;;;;x
-EVTOPTA_HL_6021;I am glad [spouse_danger_nomad_river_crossing.GetSheHe]'s safe.;;;;;;;;;;;;;x
-EVTOPTA_HL_6022;I, too, now question my decision.;;;;;;;;;;;;;x
-EVTOPTA_HL_6030;You shall have six mares from my personal herd.;;;;;;;;;;;;;x
-
-EVTOPTB_HL_6000;Sky.;;;;;;;;;;;;;x
-EVTOPTB_HL_6010;What a useless child. Let [ward_cant_ride.GetHerHim] flounder.;;;;;;;;;;;;;x
-EVTOPTB_HL_6020;I must save Dragon!;;;;;;;;;;;;;x
-EVTOPTB_HL_6021;Alas, I lost Dragon...;;;;;;;;;;;;;x
-EVTOPTB_HL_6030;Unfortunate, but I cannot help you.;;;;;;;;;;;;;x
-
-EVTOPTC_HL_6000;Arrow.;;;;;;;;;;;;;x
-EVTOPTC_HL_6020;I must save Sky!;;;;;;;;;;;;;x
-EVTOPTC_HL_6021;Alas, I lost Sky...;;;;;;;;;;;;;x
-
-EVTOPTD_HL_6000;Lightning.;;;;;;;;;;;;;x
-EVTOPTD_HL_6020;I must save Arrow!;;;;;;;;;;;;;x
-EVTOPTD_HL_6021;Alas, I lost Arrow...;;;;;;;;;;;;;x
-
-EVTOPTE_HL_6020;I must save Lightning!;;;;;;;;;;;;;x
-EVTOPTE_HL_6021;Alas, I lost Lightning...;;;;;;;;;;;;;x
-
-EVTTITLE_HL_6020;The River Crossing;;;;;;;;;;;;;x
+EVTDESC_HL_6000;You go out into the herd to choose a strong and powerful warhorse. You look around with expert eyes and eventually spot a steed that stands out from the rest. It is strong and has a powerful bearing.\n\nAs you mount your new steed, you feel certain that you have made the right choice. All that remains now is to give it a suitable name - what shall it be?;;;;;;;;;;;Âû èä¸òå ê òàáóíó, ÷òîáû âûáðàòü ñèëüíîãî è âûíîñëèâîãî êîíÿ. Íàì¸òàííûì ãëàçîì Âû çàìå÷àåòå, ÷òî îäèí êîíü îòëè÷àåòñÿ îò îñòàëüíûõ. Ó íåãî ìîùíàÿ ñïèíà è êðåïêèå ëÿæêè.\n\nÎñåäëàâ åãî, Âû ïîíèìàåòå, ÷òî ñäåëàëè ïðàâèëüíûé âûáîð. Òåïåðü íóæíî äàòü åìó èìÿ.;;x
+EVTDESC_HL_6010;Your ward, [ward_cant_ride.GetFirstName], is almost eight years old now and still cannot ride a horse properly. It is truly a disgrace.;;;;;;;;;;;[ward_cant_ride.GetFirstName] ðàñò¸ò ïîä Âàøåé îïåêîé, [ward_cant_ride.GetHerHim] óæå ïî÷òè âîñåìü ëåò, íî ýòà ìàëåíüêàÿ äðÿíü òàê è íå íàó÷èëàñü äåðæàòüñÿ â ñåäëå! Êàêîé ïîçîð...;;x
+EVTDESC_HL_6020;Traveling from one of your camps to the next, you come upon a river. Rains have made it swell and the rapids are strong and violent. The way around is too long, however, so you must cross. You watch with concern as the party gingerly begins to descend into the churning waters. [spouse_danger_nomad_river_crossing.GetFirstName], your [spouse_danger_nomad_river_crossing.GetHusbandWife], crosses riding your favorite horse.\n\nYou are watching from the bank as it suddenly happens... [spouse_danger_nomad_river_crossing.GetFirstName] loses control in the strong rapids and falls off the horse as it loses its footing, and both of them are grabbed by the strong current. You realize that you only have a moment to react before they are swept away, you cannot save them both...;;;;;;;;;;;Îáúåçæàÿ ñâîè ñòîéáèùà, ÿ âèæó, ÷òî ðåêà ïðåãðàäèëà ìíå ïóòü. Íàïî¸ííàÿ äîæäÿìè, îíà ðàçëèëàñü øèðîêî, è âîäû áóøóþò íà å¸ ñòðåìíèíå. Îáúåçæàòü ðåêó ñëèøêîì äîëãî, å¸ íóæíî ôîðñèðîâàòü. Ñ âîëíåíèåì ÿ âèæó, êàê ìîè ëþäè îñòîðîæíî âñòóïàþò â ðåêó. Ì[spouse_danger_nomad_river_crossing.GetOyaOy] [spouse_danger_nomad_river_crossing.GetHusbandWife] [spouse_danger_nomad_river_crossing.GetFirstName] ïåðåñåêàåò ðåêó âåðõîì íà áîåâîì êîíå.\n\nß íàáëþäàþ ñ áåðåãà è âäðóã... [spouse_danger_nomad_river_crossing.GetFirstName] íå ìîæåò ïðåîäîëåòü îïàñíóþ ñòðåìíèíó, òåðÿåò êîíòðîëü íàä êîí¸ì, è áóøóþùàÿ ðåêà ãîòîâà ïîãóáèòü èõ îáîèõ. Ïîðà äåéñòâîâàòü. Äâîèì íå âûæèòü.;;x
+EVTDESC_HL_6021;You managed to pull [spouse_danger_nomad_river_crossing.GetFirstName] out of the river. You lost your favorite horse, but your [spouse_danger_nomad_river_crossing.GetHusbandWife] is safe. [spouse_danger_nomad_river_crossing.GetSheHeCap] is terrified but overjoyed at the narrow escape and your brave rescue.;;;;;;;;;;;Ëþáèìûé êîíü ïîãèá, íî ì[spouse_danger_nomad_river_crossing.GetOyaOy] [spouse_danger_nomad_river_crossing.GetHusbandWife] â áåçîïàñíîñòè. Õîòÿ ìîè ëþäè èçðÿäíî íàòåðïåëèñü, òåïåðü âñ¸ ïîçàäè. Âñå õâàëÿò ìåíÿ çà ðåøèìîñòü è îòâàãó.;;x
+EVTDESC_HL_6022;You managed to pull [spouse_danger_nomad_river_crossing.GetFirstName] out of the river. Once safe, [spouse_danger_nomad_river_crossing.GetSheHe] stands up, dripping wet and shivering, and curses you: 'You imbecile! I would have been fine! How could you let that fine horse drown?';;;;;;;;;;;"[spouse_danger_nomad_river_crossing.GetFirstName] â áåçîïàñíîñòè, Âàì óäàëîñü âûòàùèòü [spouse_danger_nomad_river_crossing.GetHersHis] èç ðåêè. Íî âìåñòî áëàãîäàðíîñòè çà ñïàñåíèå, [spouse_danger_nomad_river_crossing.GetSheHe], äðîæà îò õîëîäà è çëîáû, íà÷èíàåò ïðîêëèíàòü Âàñ: ""Èäèîòèíà, ñî ìíîé íè÷åãî áû íå ñëó÷èëîñü! Èç-çà òåáÿ óòîíóë ïðåêðàñíûé êîíü, òû ýòî ïîíèìàåøü?!""";;x
+EVTDESC_HL_6030;One of your loyal retinue warriors has approached you with a petition for aid. He says his family lost several of their mares to illness and now they are struggling to feed their children.;;;;;;;;;;;Îäèí èç Âàøèõ äðóæèííèêîâ ïðîñèò î ïîìîùè. Åãî ñåìåéñòâî ïîòåðÿëî íåñêîëüêî êîáûë èç-çà ìîðà, è òåïåðü îí íå çíàåò, êàê ïðîêîðìèòü ñâîèõ äåòåé.;;x
+EVTOPTA_HL_6000;Dragon.;;;;;;;;;;;ß íàçîâó òåáÿ Äðàêîíîì!;;x
+EVTOPTA_HL_6010;This will not do! I shall teach [ward_cant_ride.GetHerHim] personally.;;;;;;;;;;;Òàê íå ïîéä¸ò! ß ëè÷íî îáó÷ó [ward_cant_ride.GetHersHis]!;;x
+EVTOPTA_HL_6020;I must save [spouse_danger_nomad_river_crossing.GetFirstName]!;;;;;;;;;;;[spouse_danger_nomad_river_crossing.GetFirstName]! Äåðæèñü êðåï÷å!;;x
+EVTOPTA_HL_6021;I am glad [spouse_danger_nomad_river_crossing.GetSheHe]'s safe.;;;;;;;;;;;Áåäà ïîçàäè!;;x
+EVTOPTA_HL_6022;I, too, now question my decision.;;;;;;;;;;;Íàäî áûëî ñïàñàòü êîíÿ!;;x
+EVTOPTA_HL_6030;You shall have six mares from my personal herd.;;;;;;;;;;;Âîçüìè øåñòåðûõ êîáûë èç ìîåãî òàáóíà.;;x
+EVTOPTB_HL_6000;Sky.;;;;;;;;;;;ß íàçîâó òåáÿ Ãîðèçîíòîì!;;x
+EVTOPTB_HL_6010;What a useless child. Let [ward_cant_ride.GetHerHim] flounder.;;;;;;;;;;;Íó è ïóñòü ìó÷àåòñÿ, áåñïîëåçíûé ðåá¸íîê!;;x
+EVTOPTB_HL_6020;I must save Dragon!;;;;;;;;;;;Äðàêîí, ÿ ñïàñó òåáÿ!;;x
+EVTOPTB_HL_6021;Alas, I lost Dragon...;;;;;;;;;;;Óâû, Äðàêîí ïîãèá.;;x
+EVTOPTB_HL_6030;Unfortunate, but I cannot help you.;;;;;;;;;;;Ïðèñêîðáíî. Íè÷åì íå ìîãó òåáå ïîìî÷ü.;;x
+EVTOPTC_HL_6000;Arrow.;;;;;;;;;;;ß íàçîâó òåáÿ Êèíæàëîì!;;x
+EVTOPTC_HL_6020;I must save Sky!;;;;;;;;;;;Ãîðèçîíò, ÿ ñïàñó òåáÿ!;;x
+EVTOPTC_HL_6021;Alas, I lost Sky...;;;;;;;;;;;Óâû, Ãîðèçîíò ïîãèá.;;x
+EVTOPTD_HL_6000;Lightning.;;;;;;;;;;;ß íàçîâó òåáÿ Ãðîìîì!;;x
+EVTOPTD_HL_6020;I must save Arrow!;;;;;;;;;;;Êèíæàë, ÿ ñïàñó òåáÿ!;;x
+EVTOPTD_HL_6021;Alas, I lost Arrow...;;;;;;;;;;;Íî Êèíæàë, åãî íå âåðíóòü.;;x
+EVTOPTE_HL_6020;I must save Lightning!;;;;;;;;;;;Ãðîì, ÿ ñïàñó òåáÿ!;;x
+EVTOPTE_HL_6021;Alas, I lost Lightning...;;;;;;;;;;;Íî, Ãðîì, åãî íå âåðíóòü;;x
+EVTTITLE_HL_6020;The River Crossing;;;;;;;;;;;Påêà íà ïóòè;;x

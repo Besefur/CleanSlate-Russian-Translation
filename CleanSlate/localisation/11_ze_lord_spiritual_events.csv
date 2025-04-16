@@ -1,24 +1,21 @@
-EVTDESC_ZE_5000;Your [Root.GetLordSpiritualName] approaches you with a request: 'My [Root.GetLordLady], I want your permission to travel to the Pagan lands and spread the [Root.Religion.GetName] faith among those unfortunate people. It shall be for the glory of [Root.Religion.GetRandomGodName].';;;;;;;;;;;;;x
-EVTDESC_ZE_5010;My [Root.GetLordLady],\n\nI would like us to invest in building a great temple for the glory of [Root.Religion.GetRandomGodName]. I will contribute from my own purse to the construction costs.\n\nEver in service of the [Root.Religion.GetName] faith,\n[Root.job_spiritual.GetTitledName], [Root.GetLordSpiritualName] of [Root.PrimaryTitle.GetName];;;;;;;;;;;;;x
-EVTDESC_ZE_5020;Strange news reach your ears. Apparently, one of your courtiers has converted to the [ze_5020_province.Religion.GetName] faith!;;;;;;;;;;;;;x
-EVTDESC_ZE_5022;It seems another of your courtiers has converted to the [ze_5020_province.Religion.GetName] faith!;;;;;;;;;;;;;x
-EVTDESC_ZE_5027;A number of incriminating letters have been found. They are from your [Root.GetLordSpiritualName] [Root.job_spiritual.GetTitledName], addressed to various members of your court, praising the simple virtues of the [Root.job_spiritual.Location.Religion.GetName]s and contrasting them with the tired, decadent ways of the [Root.Religion.GetName]s. This surely explains the recent outbreak of vile flirting with heathenry at your court!;;;;;;;;;;;;;x
-EVTDESC_ZE_5030;Your [Root.GetLordSpiritualName], [Root.job_spiritual.GetTitledNameWithNick], has been discovered charging money for various religious favors, putting the gold in [Root.job_spiritual.GetHerHis] own pocket.;;;;;;;;;;;;;x
-EVTDESC_ZE_5040;My [Root.GetTitle],\nI find life here among the heathens both wretched and dangerous, and I am convinced that they are both blind and deaf to the glory of [Root.Religion.GetRandomGodName]. I plead with you to allow me to return home where I can do more useful work for the [Root.Religion.GetName] faith.\n\nYour loyal servant,\n[Root.job_spiritual.GetTitledFirstName];;;;;;;;;;;;;x
-
-EVTOPTA_ZE_5000;Your zeal does you credit. [Root.Religion.GetRandomGodName] be with you.;;;;;;;;;;;;;x
-EVTOPTA_ZE_5010;A great idea!;;;;;;;;;;;;;x
-EVTOPTA_ZE_5020;Why on earth...?;;;;;;;;;;;;;x
-EVTOPTA_ZE_5022;Something strange is going on here...;;;;;;;;;;;;;x
-EVTOPTA_ZE_5027;The Pagan-loving traitor!;;;;;;;;;;;;;x
-EVTOPTA_ZE_5030;Intolerable!;;;;;;;;;;;;;x
-EVTOPTA_ZE_5040;Very well, I will recall [Root.job_spiritual.GetHerHim].;;;;;;;;;;;;;x
-
-EVTOPTB_ZE_5000;Very well, if you insist.;;;;;;;;;;;;;x
-EVTOPTB_ZE_5010;It would be a waste of money.;;;;;;;;;;;;;x
-EVTOPTB_ZE_5027;If this madness stops now, I shall forgive.;;;;;;;;;;;;;x
-EVTOPTB_ZE_5030;Disappointing, but understandable.;;;;;;;;;;;;;x
-EVTOPTB_ZE_5040;The whining coward will be of no use there anyway.;;;;;;;;;;;;;x
-
-EVTOPTC_ZE_5000;No, I will not allow it.;;;;;;;;;;;;;x
-EVTOPTC_ZE_5040;[Root.job_spiritual.GetSheHeCap] must stay and do [Root.job_spiritual.GetHerHis] duty.;;;;;;;;;;;;;x
+EVTDESC_ZE_5000;Your [Root.GetLordSpiritualName] approaches you with a request: 'My [Root.GetLordLady], I want your permission to travel to the Pagan lands and spread the [Root.Religion.GetName] faith among those unfortunate people. It shall be for the glory of [Root.Religion.GetRandomGodName].';;;;;;;;;;;" ""[Root.PrimaryTitle.GetFOA]! Ïîñòîéòå!"" — ìîé [Root.GetLordSpiritualName] ïåðåõâàòèë[Root.job_spiritual.GetEndA] ìåíÿ â êîðèäîðå - ""ß ïðîøó Âàøåãî ðàçðåøåíèÿ îòïðàâèòüñÿ â ÿçû÷åñêèå çåìëè. Ýòî íåñ÷àñòíûå çàñëóæèâàþò ïîçíàòü [Root.GetReligionFullName] è åãî ìóäðîñòü, âåëè÷èå è ÷óäåñà, êîòîðûìè îäàðÿåò èõ [Root.Religion.GetRandomGodName].""";;x
+EVTDESC_ZE_5010;My [Root.GetLordLady],\n\nI would like us to invest in building a great temple for the glory of [Root.Religion.GetRandomGodName]. I will contribute from my own purse to the construction costs.\n\nEver in service of the [Root.Religion.GetName] faith,\n[Root.job_spiritual.GetTitledName], [Root.GetLordSpiritualName] of [Root.PrimaryTitle.GetName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nß ïðåäëàãàþ Âàì âëîæèòü ñâîè ñðåäñòâà â ïîñòðîéêó õðàìîâîãî êîìïëåêñà âî ñëàâó íàøåé âåðû. Ðàñõîäû íà ñòðîèòåëüñòâî ÿ áåðó íà ñåáÿ.\nÑ íàìè [Root.Religion.GetRandomGodName],\n[Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName];;x
+EVTDESC_ZE_5020;Strange news reach your ears. Apparently, one of your courtiers has converted to the [ze_5020_province.Religion.GetName] faith!;;;;;;;;;;;Ñòðàííûå âåñòè. Îêàçûâàåòñÿ, êòî-òî èç Âàøèõ ïðèäâîðíûõ ïðèíÿë [ze_5020_province.GetReligionFullName].;;x
+EVTDESC_ZE_5022;It seems another of your courtiers has converted to the [ze_5020_province.Religion.GetName] faith!;;;;;;;;;;;Ïîõîæå, ýòî ñëó÷èëîñü ñíîâà. Åù¸ êòî-òî èç ïðèäâîðíûõ ïðèíÿë [ze_5020_province.GetReligionFullName].;;x
+EVTDESC_ZE_5027;A number of incriminating letters have been found. They are from your [Root.GetLordSpiritualName] [Root.job_spiritual.GetTitledName], addressed to various members of your court, praising the simple virtues of the [Root.job_spiritual.Location.Religion.GetName]s and contrasting them with the tired, decadent ways of the [Root.Religion.GetName]s. This surely explains the recent outbreak of vile flirting with heathenry at your court!;;;;;;;;;;;"Ñåãîäíÿ Âàøè ëþäè îáíàðóæèëè öåëóþ êó÷ó êîìïðîìåòèðóþùèõ ïèñåì, èõ àâòîð - [Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName], è âñå îíè àäðåñîâàíû Âàøèì ïðèäâîðíûì. Â íèõ ïðîñëàâëÿåòñÿ [Root.job_spiritual.Location.GetReligionFullName], åãî ïðîñòîòà, ýêçîòèêà è ""äðåâíÿÿ ìóäðîñòü"", â òî âðåìÿ êàê [Root.GetReligionFullName] ïðåäñòàâëÿåòñÿ ÷åì-òî ""çàêîñòåíåëûì"", ""ïðîãíèâøèì"" è ""èñêîâåðêàíûì â óãîäó ïðàâÿùåé âåðõóøêè"". Òåïåðü ïîíÿòíî, îòêóäà áåðóòñÿ âñå ýòè íîâîîáðàù¸ííûå.";;x
+EVTDESC_ZE_5030;Your [Root.GetLordSpiritualName], [Root.job_spiritual.GetTitledNameWithNick], has been discovered charging money for various religious favors, putting the gold in [Root.job_spiritual.GetHerHis] own pocket.;;;;;;;;;;;Âàøè ëþäè âûÿñíèëè, ÷òî [Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName] âûìîãàåò äåíüãè íà ðàçëè÷íûå ðèòóàëüíûå óñëóãè, íàïîëíÿÿ ñâîé êîøåëåê.;;x
+EVTDESC_ZE_5040;My [Root.GetTitle],\nI find life here among the heathens both wretched and dangerous, and I am convinced that they are both blind and deaf to the glory of [Root.Religion.GetRandomGodName]. I plead with you to allow me to return home where I can do more useful work for the [Root.Religion.GetName] faith.\n\nYour loyal servant,\n[Root.job_spiritual.GetTitledFirstName];;;;;;;;;;;[Root.PrimaryTitle.GetFOA],\nÏðîâåäÿ íåêîòîðîå âðåìÿ çäåñü, ñðåäè ÿçû÷íèêîâ, ÿ òåïåðü ïîíèìàþ - ýòî æåñòîêèå è îïàñíûå ëþäè, îíè ñîâåðøåííî ãëóõè è ñëåïû ê èñòèííîé ìóäðîñòè. [Root.GetReligionFullName] - äëÿ íèõ ãëóïûå ñêàçêè, äàë¸êèå îò èõ ïîâñåäíåâíîé æèçíè è âûçîâîâ, êîòîðûå îíà áðîñàåò èì. ß ñìèðåííî ïðîøó Âàñ ïîçâîëèòü ìíå âåðíóòüñÿ äîìîé.\n[Root.job_spiritual.GetTitledFirstName];;x
+EVTOPTA_ZE_5000;Your zeal does you credit. [Root.Religion.GetRandomGodName] be with you.;;;;;;;;;;;Äà áëàãîñëîâèò òåáÿ [Root.Religion.GetRandomGodName]!;;x
+EVTOPTA_ZE_5010;A great idea!;;;;;;;;;;;Ïðåêðàñíàÿ èäåÿ!;;x
+EVTOPTA_ZE_5020;Why on earth...?;;;;;;;;;;;Ñ êàêîé ñòàòè...?;;x
+EVTOPTA_ZE_5022;Something strange is going on here...;;;;;;;;;;;Çäåñü òâîðèòñÿ ÷òî-òî ñòðàííîå...;;x
+EVTOPTA_ZE_5027;The Pagan-loving traitor!;;;;;;;;;;;Àõ òû ïîäëàÿ íå÷åñòèâàÿ òâàðü!;;x
+EVTOPTA_ZE_5030;Intolerable!;;;;;;;;;;;Ýòî íåäîïóñòèìî!;;x
+EVTOPTA_ZE_5040;Very well, I will recall [Root.job_spiritual.GetHerHim].;;;;;;;;;;;Õîðîøî, ÿ îòçîâó [Root.job_spiritual.GetHersHis].;;x
+EVTOPTB_ZE_5000;Very well, if you insist.;;;;;;;;;;;Íó åñëè òû íàñòàèâàåøü...;;x
+EVTOPTB_ZE_5010;It would be a waste of money.;;;;;;;;;;;Ýòî ïóñòàÿ òðàòà äåíåã.;;x
+EVTOPTB_ZE_5027;If this madness stops now, I shall forgive.;;;;;;;;;;;Ïðåêðàòèòå íåìåäëåííî è ÿ çàêðîþ íà ýòî ãëàçà.;;x
+EVTOPTB_ZE_5030;Disappointing, but understandable.;;;;;;;;;;;Íó ÷òî æ... âïîëíå îáúÿñíèìî.;;x
+EVTOPTB_ZE_5040;The whining coward will be of no use there anyway.;;;;;;;;;;;Îò íûòèêîâ è òðóñîâ âñ¸ ðàâíî íèêàêîé ïîëüçû.;;x
+EVTOPTC_ZE_5000;No, I will not allow it.;;;;;;;;;;;ß íå ìîãó ýòîãî ïîçâîëèòü.;;x
+EVTOPTC_ZE_5040;[Root.job_spiritual.GetSheHeCap] must stay and do [Root.job_spiritual.GetHerHis] duty.;;;;;;;;;;;[Root.job_spiritual.GetSheHeCap] îñòàíåòñÿ è èñïîëíèò ñâîé äîëã!;;x

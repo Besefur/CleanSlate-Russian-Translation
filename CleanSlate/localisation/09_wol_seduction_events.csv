@@ -1,360 +1,351 @@
-EVTDESC_WOL_40;This morning I woke up with a painful itch. It seems [Root.Religion.GetRandomGodName] has seen fit to blight me with a minor pox for my sinful activities.;;;;;;;;;;;;;x
-EVTDESC_WOL_40_NC;This morning I woke up with a painful itch... It seems I have contracted Lover's Pox.;;;;;;;;;;;;;x
-EVTDESC_WOL_55;Just the other day - skulking as I often do - I caught [seducer.GetTitledName] and my [seduced.GetRootRelation] [seduced.GetFirstName] in flagrante! Lost in passion, they did not notice me, but I am still in shock!;;;;;;;;;;;;;x
-EVTDESC_WOL_55_AGE_OLD;Just the other day - skulking as I often do - I caught [seducer.GetTitledName] and my [seduced.GetRootRelation] [seduced.GetFirstName] in flagrante! For shame, [seduced.GetSubjectPronoun] could be [seducer.GetPossPronoun] [seduced.GetFatherMother]! They didn't notice me, but I am still in shock!;;;;;;;;;;;;;x
-EVTDESC_WOL_55_AGE_YOUNG;Just the other day - skulking as I often do - I caught [seducer.GetTitledName] and my [seduced.GetRootRelation] [seduced.GetFirstName] in flagrante! For shame, [seduced.GetSubjectPronoun] could be [seducer.GetPossPronoun] [seduced.GetSonDaughter]! They didn't notice me, but I am still in shock!;;;;;;;;;;;;;x
-EVTDESC_WOL_55_CR;Just the other day - skulking as I often do - I caught [seducer.GetTitledName] and my [seduced.GetRootRelation] [seduced.GetFirstName] in flagrante! I can't believe it... [seduced.GetEventTarget2Relation] and [seducer.GetEventTarget1Relation]! They did not notice me, but I am still in shock!;;;;;;;;;;;;;x
-EVTDESC_WOL_55_F_HOMO;Just the other day - skulking as I often do - I caught [seducer.GetTitledName] and my [seduced.GetRootRelation] [seduced.GetFirstName] performing a very strange and intimate exercise... naked. They didn't notice me, but I am still in shock!;;;;;;;;;;;;;x
-EVTDESC_WOL_55_F_MARRIED;Just the other day - skulking as I often do - I caught [seducer.GetTitledName] and my [seduced.GetRootRelation] [seduced.GetFirstName] in flagrante! They didn't notice me, but I am still in shock! [seduced.GetSubjectPronounCap] is a married [seduced.GetManWoman], by [Root.Religion.GetRandomGodName]!;;;;;;;;;;;;;x
-EVTDESC_WOL_55_FF_MARRIED;Just the other day - skulking as I often do - I caught [seducer.GetTitledName] and my [seduced.GetRootRelation] [seduced.GetFirstName] in flagrante! They didn't notice me, but I am still in shock! [seducer.GetSubjectPronounCap] is a married [seducer.GetManWoman], by [Root.Religion.GetRandomGodName]!;;;;;;;;;;;;;x
-EVTDESC_WOL_55_M_HOMO;Just the other day - skulking as I often do - I caught [seducer.GetTitledName] and my [seduced.GetRootRelation] [seduced.GetFirstName] doing what man should not do to man! They didn't notice me, but I am still in shock!;;;;;;;;;;;;;x
-EVTDESC_WOL_55_PRIEST;Just the other day - skulking as I often do - I caught [seducer.GetTitledName] and my [seduced.GetRootRelation] [seduced.GetFirstName] in flagrante! A [seduced.GetManWoman] of God! They didn't notice me, but I am still in shock!;;;;;;;;;;;;;x
-EVTDESC_WOL_56;To [seducer.GetTitledFirstName]. I know what you're doing with my [GetFromVsFromFromRelation] [seduced.GetTitledFirstName], you [GetFromRootInsult]. However, I understand the flesh is weak and would be willing to keep quiet about this affair for a small... donation.\n\n[scandal_discoverer.GetBestName];;;;;;;;;;;;;x
-EVTDESC_WOL_56_CR;To [seducer.GetTitledFirstName]. I know what you and your [GetFromFromRelation] are doing, you [GetFromRootInsult]. While you both sicken me, I am in dire need of funds and would be willing to forget in return for a small donation.\n\n[scandal_discoverer.GetBestName];;;;;;;;;;;;;x
-EVTDESC_WOL_56_HOMO;To [Root.GetTitledFirstName]. I've seen what you and my [GetFromVsFromFromRelation] are doing to each other, you [GetFromRootInsult]. Abomination! Yet, I am a kind [scandal_discoverer.GetManWoman] and would be willing to forget in return for a small donation.\n\n[scandal_discoverer.GetBestName];;;;;;;;;;;;;x
-EVTDESC_WOL_57;To the [GetFromRootInsult] [scandal_discoverer.GetFirstName]. Here, take my money. If you do not keep quiet, I will do things to you that you cannot even begin to imagine!\n\n[seducer.GetFirstName];;;;;;;;;;;;;x
-EVTDESC_WOL_59;To the [GetFromRootInsult] [scandal_discoverer.GetFirstName]. Is this some kind of sick jest? [seduced.GetFirstName]'s virtue is immaculate! Do what you will, no one will believe your lies anyway.\n\n[seducer.GetFirstName];;;;;;;;;;;;;x
-EVTDESC_WOL_60;[scandal_discoverer.GetBestName] has been telling everyone that [scandal_discoverer.GetSubjectPronoun] saw me and [seduced.GetFirstName] making love. The scandal is a fact.;;;;;;;;;;;;;x
-EVTDESC_WOL_61;[scandal_discoverer.GetBestName] has been telling everyone that [scandal_discoverer.GetSubjectPronoun] saw me and [seducer.GetFirstName] making love. The scandal is a fact.;;;;;;;;;;;;;x
-EVTDESC_WOL_62;[scandal_discoverer.GetBestName] has exposed an affair between my [seducer.GetRootRelation] [seducer.GetFirstName] and [seduced.GetTitledName]!;;;;;;;;;;;;;x
-EVTDESC_WOL_63;[scandal_discoverer.GetBestName] has exposed an affair between my [seduced.GetRootRelation] [seduced.GetFirstName] and [seducer.GetTitledName]!;;;;;;;;;;;;;x
-EVTDESC_WOL_81_F;It isn't easy bedding every man who catches my fancy. Jealous wives, watchful mothers, meddling courtiers, unwanted pregnancies - it takes skill to navigate such treacherous waters!;;;;;;;;;;;;;x
-EVTDESC_WOL_81_HOMO;In this benighted age, pursuing other [Root.GetMenWomen] is fraught with danger. Yet, the risk of scandal makes it all the more exciting. Besides, there's no risk of unwanted pregnancies!;;;;;;;;;;;;;x
-EVTDESC_WOL_81_M;Chasing skirts can be a dangerous business. Jealous husbands, watchful parents, eavesdropping maids... little bastards. By [Root.Religion.GetRandomGodName], it's a wonder I'm still alive!;;;;;;;;;;;;;x
-EVTDESC_WOL_99;My confidence is a mountain, my charm irresistible, my exploits legendary. I am [Root.GetFirstName] - temptation incarnate.;;;;;;;;;;;;;x
-EVTDESC_WOL_100;I shall bring all my seduction skills to bear on [seduced.GetTitledFirstName] until I have [seduced.GetObjectPronoun] wrapped around my finger!;;;;;;;;;;;;;x
-EVTDESC_WOL_101;I have set my sights on [seduced.GetTitledFirstName], but the age difference could cause a bit of a scandal if the court gossips take notice of my efforts...;;;;;;;;;;;;;x
-EVTDESC_WOL_102;I have decided to seduce my own [seduced.GetRootRelation] [seduced.GetFirstName]. The sheer taboo of it is thrilling, but the scandal... by [Root.Religion.GetRandomGodName], the scandal would be epic.;;;;;;;;;;;;;x
-EVTDESC_WOL_103;The idea of seducing [seduced.GetTitledFirstName] - a [seduced.GetManWoman] of the cloth - is so exciting! Yet, I am definitely risking a scandal here...;;;;;;;;;;;;;x
-EVTDESC_WOL_104;Society may take a dim view on my preferences, but at the risk of a scandal I am about to seduce [seduced.GetTitledFirstName].;;;;;;;;;;;;;x
-EVTDESC_WOL_111;The target of my seduction, [seduced.GetTitledFirstName], has tragically passed away!;;;;;;;;;;;;;x
-EVTDESC_WOL_112;My seduction of [seduced.GetTitledFirstName] has come to an unexpected end, as [seduced.GetSubjectPronoun] has ended up in prison!;;;;;;;;;;;;;x
-EVTDESC_WOL_113;[seduced.GetTitledFirstName], the target of my amorous attentions, has tragically fallen comatose and is now entirely incapable of appreciating my efforts.;;;;;;;;;;;;;x
-EVTDESC_WOL_114;[seduced.GetTitledFirstName], the target of my seduction, is now my [seduced.GetRootRelation], making further efforts rather pointless.;;;;;;;;;;;;;x
-EVTDESC_WOL_115;I am having an inordinately hard time pursuing my amorous interest in [seduced.GetTitledFirstNameNoRegnal]. When will I ever find the time to travel so far?;;;;;;;;;;;;;x
-EVTDESC_WOL_115_BUSY;My current occupation simply leaves me with no time to chase [seduced.GetTitledFirstNameNoRegnal] - or anyone else for that matter.;;;;;;;;;;;;;x
-EVTDESC_WOL_115_UNAVAILABLE;The target of my amorous attentions, [seduced.GetTitledFirstNameNoRegnal], simply never seems to be around!;;;;;;;;;;;;;x
-EVTDESC_WOL_119;Apparently [seduced.GetBestName] has a reputation for not giving in to flirting. Any more time spent chasing [seduced.GetHerHim] is a waste.;;;;;;;;;;;;;x
-EVTDESC_WOL_120;The response from [seduced.GetBestName] wasn't quite what I expected, apparently I am to 'stay away forever'.;;;;;;;;;;;;;x
-EVTDESC_WOL_200;Today I found a scented letter lying on my pillow. It appears [seducer.GetTitledFirstName] is quite smitten with me!;;;;;;;;;;;;;x
-EVTDESC_WOL_200_CR;Today I found a scented letter lying on my pillow... I don't quite know how to react - it appears my own [seducer.GetRootRelation] [seducer.GetFirstName] is quite smitten with me!;;;;;;;;;;;;;x
-EVTDESC_WOL_201;I arranged for a scented love letter to be left on [seduced.GetFirstName]'s pillow in an attempt to woo [seduced.GetObjectPronoun]... and it seems to have struck true, for [seduced.GetSubjectPronoun] has left one on mine, confessing [seduced.GetPossPronoun] attraction to me!;;;;;;;;;;;;;x
-EVTDESC_WOL_202;[seduced.GetFirstName] has not responded to the love letter I had left on [seduced.GetPossPronoun] pillow.;;;;;;;;;;;;;x
-EVTDESC_WOL_203;I arranged for a scented love letter to be left on [seduced.GetFirstName]'s pillow in an attempt to woo [seduced.GetObjectPronoun]... Today I found [seduced.GetPossPronoun] answering missive in the privy. It did not smell of roses.;;;;;;;;;;;;;x
-EVTDESC_WOL_210;My bedroom is covered in wildflowers! And what's this? A beautiful necklace set with precious stones! There is a note here as well: 'From your humble admirer, [seducer.GetTitledFirstName], something to match your eyes'.;;;;;;;;;;;;;x
-EVTDESC_WOL_210_CR;My bedroom is covered in wildflowers! And what's this? A beautiful necklace set with precious stones! There is a note here as well: 'From your humble admirer, [seducer.GetFirstName], something to match your eyes'. Wait, what, surely not my [seducer.GetRootRelation] [seducer.GetFirstName]?!;;;;;;;;;;;;;x
-EVTDESC_WOL_210_CR_M;A page brought me a beautifully wrapped gift today - a perfectly balanced blade with a gilded hilt. The accompanying note says it's a gift from an admiring [seducer.GetFirstName]! My own [seducer.GetRootRelation] [seducer.GetFirstName]?!;;;;;;;;;;;;;x
-EVTDESC_WOL_210_M;A page brought me a beautifully wrapped gift today - a perfectly balanced blade with a gilded hilt. The accompanying note says it's a gift from an admiring [seducer.GetTitledFirstName]!;;;;;;;;;;;;;x
-EVTDESC_WOL_211;I sent [seduced.GetFirstName] a beautiful necklace and had her room covered with wildflowers. The gambit seems to have paid off, for I found a magnificent new saddle with her embossed seal in the stables today!;;;;;;;;;;;;;x
-EVTDESC_WOL_211_M;I sent [seduced.GetFirstName] a magnificent sword as a gift. It seems to have warmed his heart, for he sent me a matching dagger back!;;;;;;;;;;;;;x
-EVTDESC_WOL_212;I sent [seduced.GetFirstName] a beautiful necklace and covered her room with wildflowers, but I've heard nothing back from her...;;;;;;;;;;;;;x
-EVTDESC_WOL_212_M;I sent [seduced.GetFirstName] a magnificent sword as a gift, but all I got in return was silence.;;;;;;;;;;;;;x
-EVTDESC_WOL_213;I sent [seduced.GetFirstName] a beautiful necklace and covered her room with wildflowers... Today I found my bed full of wilted petals and a bent, rusty nail on my pillow!;;;;;;;;;;;;;x
-EVTDESC_WOL_213_M;Some time ago, I sent [seduced.GetFirstName] a magnificent sword as a gift. Today, I found it jammed into my loom, the weave completely ruined!;;;;;;;;;;;;;x
-EVTDESC_WOL_220;I didn't credit it when my maid claimed to have heard that [seducer.GetTitledFirstName] can't sleep because he's constantly thinking of me, but now all my friends are saying it too!;;;;;;;;;;;;;x
-EVTDESC_WOL_220_CR;The chamber maid claims to have heard rumors that [seducer.GetTitledFirstName] can't sleep because he's constantly thinking about me... My own [seducer.GetRootRelation], bless [Root.Religion.GetRandomGodName]!;;;;;;;;;;;;;x
-EVTDESC_WOL_220_CR_M;I didn't credit it when my manservant claimed to have heard that [seducer.GetTitledFirstName] twists and turns at night in the grip of passionate dreams, crying out my name, but now my friends are saying it too! My own [seducer.GetRootRelation], by [Root.Religion.GetRandomGodName]!;;;;;;;;;;;;;x
-EVTDESC_WOL_220_M;I didn't credit it when my manservant claimed to have heard that [seducer.GetTitledFirstName] twists and turns at night in the grip of passionate dreams, crying out my name, but now my friends are saying it too!;;;;;;;;;;;;;x
-EVTDESC_WOL_221;Some carefully placed words where they can easily be overheard by notorious gossips can be more effective than a love letter! [seduced.GetTitledFirstName] must have gotten my message, for I found a lock of hair wrapped in silk with [seduced.GetPossPronoun] personal seal in my chambers today.;;;;;;;;;;;;;x
-EVTDESC_WOL_222;Some carefully placed words where they can easily be overheard by notorious gossips can be more effective than a love letter. Or so I thought, but my quarry, [seduced.GetTitledFirstName], has not responded in any way.;;;;;;;;;;;;;x
-EVTDESC_WOL_223;I thought some carefully placed words where they could easily be overheard by notorious gossips would be more effective than a love letter... Well, [seduced.GetTitledFirstName] clearly got the message, for [seduced.GetSubjectPronoun] has started rumors of [seduced.GetPossPronoun] own about me!;;;;;;;;;;;;;x
-EVTDESC_WOL_300;My heart beats faster as [seducer.GetTitledName] grabs me for another dance. The hour is getting late, but the [seducer.GetManWoman] is such a charmer! I must be blushing like a beetroot.;;;;;;;;;;;;;x
-EVTDESC_WOL_300_CR;My [seducer.GetRootRelation] [seducer.GetFirstName] has danced with me all evening. I thought [seducer.GetSubjectPronoun] was just being sweet, but there is a strange tension growing between us. Something sensual, forbidden... thrilling.;;;;;;;;;;;;;x
-EVTDESC_WOL_300_M;This minor event would be a dull affair, but [seducer.GetTitledName] just brushed her bosom against me again. Is she flirting with me..? That was definitely a wink! This is getting more interesting by the minute!;;;;;;;;;;;;;x
-EVTDESC_WOL_301;I made sure to attend this minor event in [seduced.Capital.Capital.GetName] so I could seduce [seduced.GetTitledFirstName]. We've been dancing and conversing all night and [seduced.GetSubjectPronoun] is clearly responding to my advances...;;;;;;;;;;;;;x
-EVTDESC_WOL_301_DISTANT;I travelled all the way to the court of [seduced.Employer.GetTitledName] in [seduced.Capital.Capital.GetName] so I could meet [seduced.GetFirstName] at a minor celebration. We've been dancing and conversing all night and [seduced.GetSubjectPronoun] is clearly responding to my advances...;;;;;;;;;;;;;x
-EVTDESC_WOL_302;I made sure to attend a minor event in [seduced.Capital.Capital.GetName] in the hopes of seducing [seduced.GetTitledFirstName], but despite my best attempts, [seduced.GetSubjectPronoun] remains unimpressed.;;;;;;;;;;;;;x
-EVTDESC_WOL_303;As the festivities wind down, [seducer.GetFirstName] takes my hands and looks into my eyes. '[Root.GetMilordMilady], will you escort me to my chambers?';;;;;;;;;;;;;x
-EVTDESC_WOL_303_F;The night's merrymaking is coming to an end. [seducer.GetFirstName] nods towards my rather inebriated attendant. 'She won't even notice us leaving...' [seducer.GetSubjectPronounCap] grins lasciviously and pats me on the rump.;;;;;;;;;;;;;x
-EVTDESC_WOL_304;What a night! I think I'm falling in love with [seducer.GetFirstName]...;;;;;;;;;;;;;x
-EVTDESC_WOL_305;Just when things were really heating up, [seducer.GetFirstName] excused [seducer.GetReflexivePronoun] and left!;;;;;;;;;;;;;x
-EVTDESC_WOL_306;I sure know how to cajole [seduced.GetMenWomen]! [seduced.GetFirstName] and I spent the night making sweet, illicit love in [seduced.GetPossPronoun] bed. I snuck off in the wee hours, leaving the court clueless... I hope!;;;;;;;;;;;;;x
-EVTDESC_WOL_306_CR;I sure know how to cajole [seduced.GetMenWomen]! [Root.Religion.GetRandomEvilGodNameCap] will surely claim our souls for our wicked sin, but [seduced.GetFirstName] and I spent the night making sweet, illicit love in [seduced.GetPossPronoun] bed. I snuck off in the wee hours, leaving the court clueless... I hope!;;;;;;;;;;;;;x
-EVTDESC_WOL_307;As the festivities wound down, I took [seduced.GetFirstName] aside and suggested we retire together... I can't believe [seduced.GetSubjectPronoun] actually spurned me!;;;;;;;;;;;;;x
-EVTDESC_WOL_308;I thought I had [seduced.GetFirstName] completely entranced, but when I finally suggested we retire together, [seduced.GetSubjectPronoun] loudly mocked me and walked off with [seduced.GetPossPronoun] rather inebriated attendant, laughing cruelly!;;;;;;;;;;;;;x
-EVTDESC_WOL_351;I managed to 'chance' upon [seduced.GetFirstName] alone in the kitchen when [seduced.GetSubjectPronoun] came down for [seduced.GetPossPronoun] usual late snack. We've talked and laughed for hours and I can tell the attraction is growing. Hoping I've read [seduced.GetObjectPronoun] correctly, I lean in to whisper in [seduced.GetPossPronoun] ear...;;;;;;;;;;;;;x
-EVTDESC_WOL_351_DISTANT;The journey to the court of [seduced.Employer.GetTitledName] was dreary, but I managed to 'chance' upon [seduced.GetFirstName] alone in the kitchen when [seduced.GetSubjectPronoun] came down for [seduced.GetPossPronoun] usual late snack. We've talked and laughed for hours and I can tell [seduced.GetSubjectPronoun] is attracted. Hoping I've read [seduced.GetObjectPronoun] correctly, I lean in to whisper in [seduced.GetPossPronoun] ear...;;;;;;;;;;;;;x
-EVTDESC_WOL_352;As I snuck into the kitchen for my usual night snack, I chanced upon [seducer.GetTitledFirstNameNoRegnal]. We've been chatting and laughing for hours now, but the words have grown softer and our hands are touching... Suddenly, [seducer.GetSubjectPronoun] leans in and whispers softly in my ear... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;;;x
-EVTDESC_WOL_352_CR;As I snuck into the kitchen for my usual night snack, I chanced upon my [seducer.GetRootRelation] [seducer.GetFirstName]. We've been chatting and laughing for hours now, but there is a strange tension growing between us. Attraction? For my own [seducer.GetRootRelation]..?! As we are about to leave, [seducer.GetSubjectPronoun] suddenly leans in and whispers softly in my ear... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;;;x
-EVTDESC_WOL_352_DISTANT;As I snuck into the kitchen for my usual night snack, I chanced upon our distant guest, [seducer.GetTitledFirstName]. We've been chatting and laughing for hours now, but the words have grown softer and our hands are touching... Suddenly, [seducer.GetSubjectPronoun] leans in and whispers softly in my ear... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;;;x
-EVTDESC_WOL_352_HOMO;As I snuck into the kitchen for my usual night snack, I chanced upon [seducer.GetTitledFirstNameNoRegnal]. We've been chatting and laughing for hours now, but there is a strange tension growing between us. Attraction? For another [seducer.GetManWoman]..?! As we are about to leave, [seducer.GetSubjectPronoun] suddenly leans in and whispers softly in my ear... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;;;x
-EVTDESC_WOL_353;[seduced.GetFirstName] backed away from me, blushing and stammering something about being sorry before rushing off.;;;;;;;;;;;;;x
-EVTDESC_WOL_353_CR;[seduced.GetFirstName] jerked away from me with a look of shock and disgust, exclaiming '[Root.GetFirstName], I am your [seduced.GetRootRelation] for [seduced.Religion.GetRandomGodName]'s sake!';;;;;;;;;;;;;x
-EVTDESC_WOL_353_OLD_F;[seduced.GetFirstName] jerked away from me with a shocked expression, exclaiming 'Sorry [Root.PrimaryTitle.GetRulerTitle], but you are far too old for me!' before rushing off.;;;;;;;;;;;;;x
-EVTDESC_WOL_353_OLD_M;[seduced.GetFirstName] jerked away from me with a shocked expression, exclaiming '[Root.GetTitledFirstNameNoRegnal]! You are old enough to be my father!' Then [seduced.GetSubjectPronoun] ran off giggling.;;;;;;;;;;;;;x
-EVTDESC_WOL_353_YOUNG;[seduced.GetFirstName] slowly shook [seduced.GetPossPronoun] head, grinning as [seduced.GetSubjectPronoun] gently pushed me away. 'Sorry [Root.GetLadLass], you still have a lot to learn about [seduced.GetMenWomen]!';;;;;;;;;;;;;x
-EVTDESC_WOL_401;I am attending a festive outing with [seduced.GetTitledFirstNameNoRegnal]. Unfortunately, half the court is also here and I am having trouble getting any time alone with my amorous quarry...;;;;;;;;;;;;;x
-EVTDESC_WOL_401_CR;I am attending a festive outing with [seduced.GetFirstName]. With half the court around as chaperones, it would normally be hard to spend any time alone with the target of my affection, but [seduced.GetFirstName] is my [seduced.GetRootRelation], so I should be above suspicion...;;;;;;;;;;;;;x
-EVTDESC_WOL_401_DISTANT;I travelled far to attend this festive outing with [seduced.GetTitledFirstNameNoRegnal]. Unfortunately, half the court of [seduced.Employer.PrimaryTitle.GetName] is also here and I am having trouble getting any time alone with my amorous quarry...;;;;;;;;;;;;;x
-EVTDESC_WOL_401_HOMO;I am attending a festive outing with [seduced.GetFirstName]. With half the court around as chaperones, it would normally be hard to spend any time alone with the target of my affection, but [seduced.GetFirstName] is another [Root.GetManWoman], so it should not arouse suspicion...;;;;;;;;;;;;;x
-EVTDESC_WOL_403;I found [From.GetBestName] sympathetic to my romantic cause. [From.GetSubjectPronounCap] and [seduced.GetFirstName] 'chanced' upon me by a nearby stream and the three of us have had a great time. I can tell [seduced.GetSubjectPronoun] is falling for me, for [seduced.GetSubjectPronoun] barely noticed [seduced.GetPossPronoun] friend leaving. I lean in to whisper in [seduced.GetPossPronoun] ear...;;;;;;;;;;;;;x
-EVTDESC_WOL_404;At a festive outing in the wild, I found myself alone with [seducer.GetTitledFirstNameNoRegnal] by a stream, all my friends and servants seemingly having deserted me. Hours must have passed while I laughed and talked with the captivating [seducer.GetTitledFirstNameNoRegnal]. Suddenly, [seducer.GetSubjectPronoun] leans in and whispers softly in my ear... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;;;x
-EVTDESC_WOL_404_CR;At a festive outing in the wild, my [seducer.GetRootRelation] [seducer.GetFirstName] and I left the main party and walked down to a nearby stream. Sitting close together on the cliffs, gossip and familial advice has turned into something else... Desire? For my own [seducer.GetRootRelation]..?! Suddenly, [seducer.GetSubjectPronoun] puts a hand on my thigh, leans over and whispers in my ear... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;;;x
-EVTDESC_WOL_404_DISTANT;At a festive outing in the wild, I found myself alone by a stream with our distant visitor, [seducer.GetTitledFirstName]. My friends and servants all seem to have deserted me. Hours must have passed while I laughed and talked with the captivating [seducer.GetTitledFirstNameNoRegnal]. Suddenly, [seducer.GetSubjectPronoun] leans in and whispers softly in my ear... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;;;x
-EVTDESC_WOL_404_HOMO;At a festive outing in the wild, [seducer.GetTitledFirstName] and I left the main party and walked down to a nearby stream, chatting amicably. Hours later, sitting on a cliff together watching the water flow, a strange tension has grown between us. Attraction? For another [seducer.GetManWoman]..?! As we get up to leave, [seducer.GetSubjectPronoun] suddenly leans in and whispers softly in my ear... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;;;x
-EVTDESC_WOL_404_HOMO_NOTE;I snuck out of my tent and down to the stream. I found [seducer.GetTitledFirstNameNoRegnal] waiting, shining up when [seducer.GetSubjectPronoun] saw me. Sitting on a cliff together after hours of friendly conversation, a strange tension has grown between us. Attraction? For another [seducer.GetManWoman]..?! As we get up to leave, [seducer.GetSubjectPronoun] suddenly leans in and whispers softly in my ear... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;;;x
-EVTDESC_WOL_404_NOTE;I snuck out of my tent and down to the stream. I found [seducer.GetTitledFirstNameNoRegnal] waiting, shining up when [seducer.GetSubjectPronoun] saw me. Hours must have passed while I laughed and talked with the [GetRootFromCompliment]. Suddenly, [seducer.GetSubjectPronoun] leans in and whispers softly in my ear... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;;;x
-EVTDESC_WOL_405;[seduced.GetFirstName] and I spent a long time making love in the water and on the warm cliffs above. When we returned to the main party in the evening, grinning and squeaky clean, we found they'd been looking for us. Attendants came rushing and more than a few eyebrows were raised in speculation...;;;;;;;;;;;;;x
-EVTDESC_WOL_405_SIN;[seduced.GetFirstName] and I gave our souls to [Root.Religion.GetRandomEvilGodName] in the warm waters of that stream, lost in wicked sin. When we returned to the main party in the evening, grinning and squeaky clean, the servants came rushing. If only they knew... By [Root.Religion.GetRandomGodName] I hope they don't!;;;;;;;;;;;;;x
-EVTDESC_WOL_407;I asked [From.GetBestName] to help me woo [seduced.GetTitledFirstNameNoRegnal], but [From.GetSubjectPronoun] was not in the least sympathetic. In fact, I got the sense [From.GetSubjectPronoun] will be keeping an eye on me from now on...;;;;;;;;;;;;;x
-EVTDESC_WOL_409;My [GetFromRelation] [From.GetBestName] has just informed me that [seducer.GetTitledName] tried to recruit [From.GetObjectPronoun] in a scheme to seduce my [seduced.GetRootRelation] [seduced.GetFirstName]!;;;;;;;;;;;;;x
-EVTDESC_WOL_412;The courtier I tried to recruit to help me seduce [seduced.GetTitledFirstNameNoRegnal] was not in the least sympathetic, and has even tipped off [seduced.GetPossPronoun] [From.GetEventTarget1Relation], gaining me a new Rival!;;;;;;;;;;;;;x
-EVTDESC_WOL_414;I spent most of the outing trying to charm [seduced.GetFirstName]'s friends, with little success. No one seemed willing to help me romance [seduced.GetObjectPronoun]...;;;;;;;;;;;;;x
-EVTDESC_WOL_415;At a festive outing in the wild, I've found myself talking a lot to [From.GetTitledFirstNameNoRegnal]. I feel strangely attracted to the [GetRootFromCompliment]!;;;;;;;;;;;;;x
-EVTDESC_WOL_415_DISTANT;At a festive outing in the wild, I've been talking a lot to [From.GetTitledFirstNameNoRegnal], who is currently visiting our court. I find myself quite drawn to the [GetRootFromCompliment]!;;;;;;;;;;;;;x
-EVTDESC_WOL_416;Despite never getting a chance to be alone with [seduced.GetTitledFirstNameNoRegnal], I do believe my winning personality has impressed [seduced.GetObjectPronoun]!;;;;;;;;;;;;;x
-EVTDESC_WOL_418;At a festive outing in the wild, I found a message surrounded by wildflowers in my tent! It says to meet [seducer.GetTitledFirstNameNoRegnal] by the stream, alone!;;;;;;;;;;;;;x
-EVTDESC_WOL_418_DISTANT;At a festive outing in the wild, I found a message surrounded by wildflowers in my tent! It says to meet our distant guest, [seducer.GetTitledFirstNameNoRegnal] by the stream, alone!;;;;;;;;;;;;;x
-EVTDESC_WOL_419;I didn't have to wait long for [seduced.GetTitledFirstNameNoRegnal] to show up by the nearby stream. We've spent hours chatting and laughing, and I do believe [seduced.GetSubjectPronoun] is falling for me! I lean in to whisper in [seduced.GetPossPronoun] ear...;;;;;;;;;;;;;x
-EVTDESC_WOL_420;I've waited for hours by the stream, hoping that [seduced.GetTitledFirstNameNoRegnal] would be able to shake [seduced.GetPossPronoun] friends and chaperones to meet me, but the sun is about to set. [seduced.GetSubjectPronounCap] is clearly not coming.;;;;;;;;;;;;;x
-EVTDESC_WOL_421;At a festive outing in the wild, I found a message left amidst wildflowers addressed to my [seduced.GetRootRelation] [seduced.GetFirstName] in our tent! The would-be seducer, the [GetRootFromInsult] [seducer.GetTitledFirstName], is apparently waiting for [seduced.GetObjectPronoun] nearby.;;;;;;;;;;;;;x
-EVTDESC_WOL_423;Alas, the message I left in [seduced.GetTitledFirstNameNoRegnal]'s tent was found by her [From.GetEventTarget1Relation] [From.GetTitledFirstNameNoRegnal]. [From.GetSubjectPronounCap] was not amused... I am lucky I was not thrown in irons, but I have certainly made an enemy!;;;;;;;;;;;;;x
-EVTDESC_WOL_423_PRISON;Alas, the message I left in [seduced.GetTitledFirstNameNoRegnal]'s tent was found by her [From.GetEventTarget1Relation] [From.GetTitledFirstNameNoRegnal]. [From.GetSubjectPronounCap] came rushing down to the stream with six guards to arrest me!;;;;;;;;;;;;;x
-EVTDESC_WOL_424;At a festive outing in the wild, I found a message left amidst wildflowers addressed to my [seduced.GetRootRelation] [seduced.GetTitledFirstNameNoRegnal]. The would-be lover, [seducer.GetTitledFirstNameNoRegnal], is waiting for [seduced.GetObjectPronoun] by the stream near the camp...;;;;;;;;;;;;;x
-EVTDESC_WOL_426;I waited by the stream for hours in vain. Back in the camp I noticed [seduced.GetFirstName]'s [From.GetEventTarget1Relation] staring at me angrily, shaking [From.GetPossPronoun] head. I guess my message was intercepted...;;;;;;;;;;;;;x
-EVTDESC_WOL_428;I didn't have to wait long by the river until a [From.GetMaleFemale] figure showed up among the trees... But it wasn't [seduced.GetTitledFirstNameNoRegnal], but [seduced.GetPossPronoun] [seduced.GetEventTarget1Relation] [From.GetTitledFirstNameNoRegnal]! As it turns out, the [GetRootFromCompliment] is looking for a casual dalliance.;;;;;;;;;;;;;x
-EVTDESC_WOL_429;I met the amorous [seducer.GetTitledFirstNameNoRegnal] down by the river. [seducer.GetSubjectPronounCap] was surprised to see me instead of [seduced.GetTitledFirstNameNoRegnal], but it did not take much to cajole the [GetRootFromCompliment]. We spent a magical afternoon of passion in the water and under the willows.;;;;;;;;;;;;;x
-EVTDESC_WOL_430;I met the amorous [seducer.GetTitledFirstNameNoRegnal] down by the river. [seducer.GetSubjectPronounCap] was surprised to see me instead of [seduced.GetTitledFirstNameNoRegnal], to say the least! Unfortunately, my assets and charm were not enough to cajole the [GetRootFromInsult]!;;;;;;;;;;;;;x
-EVTDESC_WOL_431;Arm in arm, [seduced.GetFirstName] and I wandered off to a nearby stream. We have laughed and shared confidences for an hour at least. This is the moment of truth... Is [seduced.GetSubjectPronoun] ready to fall for another [seduced.GetManWoman]? I lean in to whisper in [seduced.GetPossPronoun] ear...;;;;;;;;;;;;;x
-EVTDESC_WOL_431_CR;Arm in arm, [seduced.GetFirstName] and I wandered off to a nearby stream. We have laughed and shared confidences for hours. In a companionable moment of silence, I decide to reveal the most terrible secret of all - my true feelings for [seduced.GetObjectPronoun]. I lean in to whisper in [seduced.GetPossPronoun] ear...;;;;;;;;;;;;;x
-EVTDESC_WOL_500;My confessor, [target_priest.GetTitledName] is such an attractive [target_priest.GetManWoman]! I've applied my ample charms and can tell [target_priest.GetSubjectPronoun] is thinking of other things than [target_priest.Religion.GetRandomGodName]!;;;;;;;;;;;;;x
-EVTDESC_WOL_520;Recently, I have amused myself with seducing a handsome young guard. He follows me around like a puppy now... a very big, muscular puppy!;;;;;;;;;;;;;x
-EVTDESC_WOL_530;I've had my eye on a feisty young scullery maid with huge... intellect for some time now. Though she skillfully dodges the attentions of every boy and greybeard at court, I have her blushing furiously whenever I gaze into her eyes. Seduced and wrapped around my finger, this sharp lass could be very useful...;;;;;;;;;;;;;x
-EVTDESC_WOL_560;I see her flit past out of the corner of my eye, naked and red-haired, giggling - the nymph who lives in the garden. Always teasing me, never showing herself clearly. What must I do to win her heart?;;;;;;;;;;;;;x
-EVTDESC_WOL_561;When I staggered out of the rose bush hours had passed, my head filled with carnal but vague memories. I am bleeding all over from the cruel thorns. The voluptuous dryad has exacted her price...;;;;;;;;;;;;;x
-EVTDESC_WOL_562;Today the servants found a newborn baby in a basket under the magical rose bush of my dryad lover!;;;;;;;;;;;;;x
-EVTDESC_WOL_570;The centaur beckons to me, massive muscles flexing. I have never seen anything more masculine in my life!;;;;;;;;;;;;;x
-EVTDESC_WOL_571;I came to in a state of bliss, mind filled with foggy images of the stunningly handsome centaur and our night of passion.;;;;;;;;;;;;;x
-EVTDESC_WOL_580;The misery of my captivity is only broken when I get to apply my charms on the gaoler. I can tell the ugly lout desires me... perhaps I can exploit his weakness to escape?;;;;;;;;;;;;;x
-EVTDESC_WOL_581;The gaoler unlocked the cell and entered, leering. As he started to fondle me, I suggested heading to a more romantic location. He burst out laughing, slapped me on the rump and left, snickering scornfully.;;;;;;;;;;;;;x
-EVTDESC_WOL_582;My prisoner, [From.GetTitledName], attempted to use her female charms on the gaoler to escape. Fortunately, he did not fall for her wiles.;;;;;;;;;;;;;x
-EVTDESC_WOL_583;[From.GetTitledFirstNameNoRegnal] was so impressed by my initiative with the gaoler that [From.GetSubjectPronoun] personally escorted me out of the dungeon to better accomodations. It should be easier to escape from here...;;;;;;;;;;;;;x
-EVTDESC_WOL_584;When my captor [From.GetTitledFirstNameNoRegnal] learned of my seduction attempt, [From.GetSubjectPronoun] had me thrown in the Oubliette!;;;;;;;;;;;;;x
-EVTDESC_WOL_585;The gaoler unlocked the cell and entered, leering. As he started to fondle me, I suggested heading to a more romantic location. He eagerly snuck me past a few other guards to his own cot, where I had to do things I am not proud of... Then I bashed him on the head with a heavy jug, grabbed his keys and clothes and made my escape!;;;;;;;;;;;;;x
-EVTDESC_WOL_586;My chief gaoler was seduced by my prisoner, the wily [From.GetTitledName]. He took her to his cot where she bashed him on the head with a wine jug and managed to make her escape!;;;;;;;;;;;;;x
-EVTDESC_WOL_590;My [target_consort.GetConcubineConsort], [target_consort.GetTitledFirstNameNoRegnal], does not love me. While love is not exactly necessary, I'd still like to see [target_consort.GetHerHis] beautiful face light up with smiles and laughter... so I've decided to romance [target_consort.GetHerHim]!;;;;;;;;;;;;;x
-# EVTDESC_WOL_590_MALE;My consort, [target_consort.GetTitledFirstNameNoRegnal], does not love me. While love is not exactly necessary, I'd still like to see his charming face light up with smiles and laughter... so I've decided to romance him!;;;;;;;;;;;;;x
-EVTDESC_WOL_592;I did get my [GetFromRelation] [From.GetFirstName] to laugh today, as I told [From.GetHerHim] a silly joke about two squirrels. I think [From.GetSheHe] is warming up to me...;;;;;;;;;;;;;x
-EVTDESC_WOL_592_B;I can tell my [GetFromRelation] [From.GetFirstName] is finally falling in love with me. [From.GetSheHeCap] snuggled up to me as we watched the sunset together from the roof of the great tower.;;;;;;;;;;;;;x
-EVTDESC_WOL_593;Thanks to my romantic efforts, sweet [From.GetFirstName], my [GetFromRelation], has also become my lover. It feels great to be rid of the cold awkwardness around [From.GetHerHim]!;;;;;;;;;;;;;x
-EVTDESC_WOL_594;Today, [From.GetFirstName], my [GetFromRelation], confessed that [From.GetSheHe] has forgiven me for [From.GetHerHis] abduction. [From.GetSheHeCap] has grown to like [From.GetHerHim] new life in [Root.Capital.Capital.GetName]... and me.;;;;;;;;;;;;;x
-EVTDESC_WOL_595;My [GetFromRelation] [From.GetFirstName] is not warming up to me at all. [From.GetSheHeCap] laughs at my jokes, true, but not because [From.GetSheHe] finds them funny, but with scorn. [From.GetSheHeCap] told me outright that [From.GetSheHe] despises me!;;;;;;;;;;;;;x
-
-EVTOPTA_WOL_55;Scandalous! They must be exposed!;;;;;;;;;;;;;x
-EVTOPTA_WOL_55_UNHOLY;Unholy sinners! They must be exposed!;;;;;;;;;;;;;x
-EVTOPTA_WOL_56;The [GetRootFromInsult]! I'll pay...;;;;;;;;;;;;;x
-EVTOPTA_WOL_57;Snooping can be so rewarding!;;;;;;;;;;;;;x
-EVTOPTA_WOL_59;Very well. I will enjoy this!;;;;;;;;;;;;;x
-EVTOPTA_WOL_60_F;Poor [seduced.GetFirstName]. I didn't mean to hurt [seduced.GetObjectPronoun].;;;;;;;;;;;;;x
-EVTOPTA_WOL_60_M;Ah well. It is the Middle Ages!;;;;;;;;;;;;;x
-EVTOPTA_WOL_61_F;I am ruined!;;;;;;;;;;;;;x
-EVTOPTA_WOL_62;My heart is broken!;;;;;;;;;;;;;x
-EVTOPTA_WOL_62_CR;[seducer.GetSubjectPronounCap] cheated with [seducer.GetPossPronoun] own [seducer.GetEventTarget1Relation]!?;;;;;;;;;;;;;x
-EVTOPTA_WOL_63_CR;[seduced.GetSubjectPronounCap] cheated with [seduced.GetPossPronoun] own [seduced.GetEventTarget1Relation]!?;;;;;;;;;;;;;x
-EVTOPTA_WOL_81;I've learned a thing or two about Intrigue!;;;;;;;;;;;;;x
-EVTOPTA_WOL_99;Move over Cleopatra!;;;;;;;;;;;;;x
-EVTOPTA_WOL_99_PERS;Move over Scheherazade!;;;;;;;;;;;;;x
-EVTOPTA_WOL_100;[seduced.GetSubjectPronounCap] will be mine!;;;;;;;;;;;;;x
-EVTOPTA_WOL_101;But I love wrinkles!;;;;;;;;;;;;;x
-EVTOPTA_WOL_102;The risk makes it even more exciting!;;;;;;;;;;;;;x
-EVTOPTA_WOL_103;It will be worth it!;;;;;;;;;;;;;x
-EVTOPTA_WOL_104;With pride!;;;;;;;;;;;;;x
-EVTOPTA_WOL_111;Well, there are more fish in the sea!;;;;;;;;;;;;;x
-EVTOPTA_WOL_112;I shall have get my thrills elsewhere;;;;;;;;;;;;;x
-EVTOPTA_WOL_113;Seducing a vegetable is no challenge!;;;;;;;;;;;;;x
-EVTOPTA_WOL_114;[seduced.GetSubjectPronounCap] is mine anyway;;;;;;;;;;;;;x
-EVTOPTA_WOL_115;I should give up... for now.;;;;;;;;;;;;;x
-EVTOPTA_WOL_119;Moving on.;;;;;;;;;;;;;x
-EVTOPTA_WOL_120;So be it.;;;;;;;;;;;;;x
-EVTOPTA_WOL_200;Oh, how romantic!;;;;;;;;;;;;;x
-EVTOPTA_WOL_201;Oho! Time to up the ante?;;;;;;;;;;;;;x
-EVTOPTA_WOL_202;I won't give up just yet;;;;;;;;;;;;;x
-EVTOPTA_WOL_203;A temporary setback!;;;;;;;;;;;;;x
-EVTOPTA_WOL_210;How romantic!;;;;;;;;;;;;;x
-EVTOPTA_WOL_211;Pretty clear symbolism, I'd say!;;;;;;;;;;;;;x
-EVTOPTA_WOL_212;It could have been worse!;;;;;;;;;;;;;x
-EVTOPTA_WOL_213;[seduced.GetSubjectPronounCap] is feisty! I love a good challenge!;;;;;;;;;;;;;x
-EVTOPTA_WOL_220;How flattering!;;;;;;;;;;;;;x
-EVTOPTA_WOL_221;Hah! I shall have [seduced.GetObjectPronoun]!;;;;;;;;;;;;;x
-EVTOPTA_WOL_222;I need another tactic.;;;;;;;;;;;;;x
-EVTOPTA_WOL_223;Ingenious, but I won't give up so easily!;;;;;;;;;;;;;x
-EVTOPTA_WOL_300;Say something clever!;;;;;;;;;;;;;x
-EVTOPTA_WOL_300_CR;Delicious sin! Lower my hands just a fraction...;;;;;;;;;;;;;x
-EVTOPTA_WOL_300_F;Show [seducer.GetObjectPronoun] some cleavage...;;;;;;;;;;;;;x
-EVTOPTA_WOL_301;Mead in my room, [seduced.GetMilordMilady]?;;;;;;;;;;;;;x
-EVTOPTA_WOL_302;I need more practice;;;;;;;;;;;;;x
-EVTOPTA_WOL_303;Sweet temptation, yes!;;;;;;;;;;;;;x
-EVTOPTA_WOL_304;I must have [seducer.GetObjectPronoun]!;;;;;;;;;;;;;x
-EVTOPTA_WOL_305;What did I do?;;;;;;;;;;;;;x
-EVTOPTA_WOL_306;Vidi, Vici, Veni;;;;;;;;;;;;;x
-EVTOPTA_WOL_306_CUSTOM;Love [seduced.GetObjectPronoun] and leave [seduced.GetObjectPronoun].;;;;;;;;;;;;;x
-EVTOPTA_WOL_307;The virtue is strong in this one...;;;;;;;;;;;;;x
-EVTOPTA_WOL_308;Hah. The prey is feisty!;;;;;;;;;;;;;x
-EVTOPTA_WOL_351;Confess my love;;;;;;;;;;;;;x
-EVTOPTA_WOL_352_ASTROLOGY_compatible;I know, I have thought about it too!;;;;;;;;;;;;;x
-EVTOPTA_WOL_352_ASTROLOGY_compatible_TT;The [seduced.GetWesternZodiacSign] do go well with [seducer.GetWesternZodiacSign].\n;;;;;;;;;;;;;x
-EVTOPTA_WOL_352_ASTROLOGY_mismatch;That's sweet, but I think you've read your charts wrong. No, I don't mind!;;;;;;;;;;;;;x
-EVTOPTA_WOL_352_ASTROLOGY_mismatch_TT;You let the inaccuracy of the comment slide, as there are no TRULY incompatible signs...\n;;;;;;;;;;;;;x
-EVTOPTA_WOL_352_BREATH;[From.GetPossPronounCap] hot breath sends lightning through my body!;;;;;;;;;;;;;x
-EVTOPTA_WOL_352_LEWD;Such a dirty mind, [seducer.GetFirstName]! Come then, let's commit a few sins...;;;;;;;;;;;;;x
-EVTOPTA_WOL_352_LOVE;Such sweet words of love! How can my heart resist?;;;;;;;;;;;;;x
-EVTOPTA_WOL_352_POET;Such learning! I cannot resist poetry...;;;;;;;;;;;;;x
-EVTOPTA_WOL_401;Seek an ally among [seduced.GetPossPronoun] friends;;;;;;;;;;;;;x
-EVTOPTA_WOL_407;I should have left [seduced.GetFirstName] a note instead!;;;;;;;;;;;;;x
-EVTOPTA_WOL_409_F;That wanton trollop!;;;;;;;;;;;;;x
-EVTOPTA_WOL_409_F_OLD;That lascivious old witch!;;;;;;;;;;;;;x
-EVTOPTA_WOL_409_M;That randy goat!;;;;;;;;;;;;;x
-EVTOPTA_WOL_409_M_OLD;That randy old goat!;;;;;;;;;;;;;x
-EVTOPTA_WOL_414;I don't give up that easily!;;;;;;;;;;;;;x
-EVTOPTA_WOL_415;I have butterflies in my stomach!;;;;;;;;;;;;;x
-EVTOPTA_WOL_416;I need a new plan!;;;;;;;;;;;;;x
-EVTOPTA_WOL_418_F;How exciting! My maid can cover for me.;;;;;;;;;;;;;x
-EVTOPTA_WOL_418_M;How exciting! My friends can cover for me.;;;;;;;;;;;;;x
-EVTOPTA_WOL_423;I like high stakes games!;;;;;;;;;;;;;x
-EVTOPTA_WOL_423_PRISON;Curses! I will try again when I get out!;;;;;;;;;;;;;x
-EVTOPTA_WOL_428;I think I can help...;;;;;;;;;;;;;x
-EVTOPTA_WOL_429;I needed that!;;;;;;;;;;;;;x
-EVTOPTA_WOL_430;[seducer.GetSubjectPronounCap] will regret this!;;;;;;;;;;;;;x
-EVTOPTA_WOL_500;Give [target_priest.GetObjectPronoun] a taste of what [target_priest.GetSubjectPronoun] is missing!;;;;;;;;;;;;;x
-EVTOPTA_WOL_520;Make him a squire and keep him as my lover...;;;;;;;;;;;;;x
-EVTOPTA_WOL_530;Make her a lady and keep her as my mistress...;;;;;;;;;;;;;x
-EVTOPTA_WOL_560;The magnificent old rose bush! She must be its spirit.;;;;;;;;;;;;;x
-EVTOPTA_WOL_561;Will I ever see her again?;;;;;;;;;;;;;x
-EVTOPTA_WOL_562;Proclaim that little [target_baby.GetFirstName] is my [target_baby.GetSonDaughter]!;;;;;;;;;;;;;x
-EVTOPTA_WOL_570;I am overcome by his musky scent.;;;;;;;;;;;;;x
-EVTOPTA_WOL_571;Will I ever see him again?;;;;;;;;;;;;;x
-EVTOPTA_WOL_580;Come here, handsome!';;;;;;;;;;;;;x
-EVTOPTA_WOL_581;I am sure his [Root.Host.GetMasterMistress], [Root.Host.GetTitledFirstNameNoRegnal], will hear of this...;;;;;;;;;;;;;x
-EVTOPTA_WOL_582;Spunky! I say she has earned better quarters.;;;;;;;;;;;;;x
-EVTOPTA_WOL_583;I am grateful.;;;;;;;;;;;;;x
-EVTOPTA_WOL_584;The [GetRootFromInsult]! I will die in this hole...;;;;;;;;;;;;;x
-EVTOPTA_WOL_585;Freedom!;;;;;;;;;;;;;x
-EVTOPTA_WOL_586;Throw the idiot in the Oubliette!;;;;;;;;;;;;;x
-EVTOPTA_WOL_590;Turn on the charm;;;;;;;;;;;;;x
-EVTOPTA_WOL_592;Good, that gladdens me!;;;;;;;;;;;;;x
-EVTOPTA_WOL_593;Finally!;;;;;;;;;;;;;x
-EVTOPTA_WOL_594;I am relieved!;;;;;;;;;;;;;x
-EVTOPTA_WOL_595;I'll just have to keep at it!;;;;;;;;;;;;;x
-
-EVTOPTB_WOL_55;The flesh is weak. Forgive and forget.;;;;;;;;;;;;;x
-EVTOPTB_WOL_56;I'd rather suffer the scandal!;;;;;;;;;;;;;x
-EVTOPTB_WOL_59;It was worth a try, but I'm not that cruel.;;;;;;;;;;;;;x
-EVTOPTB_WOL_99;I can hardly resist myself!;;;;;;;;;;;;;x
-EVTOPTB_WOL_101;But [seduced.GetSubjectPronoun]'s such a little morsel!;;;;;;;;;;;;;x
-EVTOPTB_WOL_102;On second thought, I'm no deviant.;;;;;;;;;;;;;x
-EVTOPTB_WOL_103;No, I fear [Root.Religion.GetRandomGodName] too much.;;;;;;;;;;;;;x
-EVTOPTB_WOL_104;It just isn't worth the risk.;;;;;;;;;;;;;x
-EVTOPTB_WOL_115;There is no rush!;;;;;;;;;;;;;x
-EVTOPTB_WOL_200;How delightfully perverted!;;;;;;;;;;;;;x
-EVTOPTB_WOL_201;Great, but I no longer desire [seduced.GetObjectPronoun];;;;;;;;;;;;;x
-EVTOPTB_WOL_202;Time to give up;;;;;;;;;;;;;x
-EVTOPTB_WOL_203;Time to move on;;;;;;;;;;;;;x
-EVTOPTB_WOL_210;How perverted... and thrilling!;;;;;;;;;;;;;x
-EVTOPTB_WOL_211;I'm irresistible! But I've changed my mind...;;;;;;;;;;;;;x
-EVTOPTB_WOL_212;This is going nowhere.;;;;;;;;;;;;;x
-EVTOPTB_WOL_213;That's it, I'm wasting my talents!;;;;;;;;;;;;;x
-EVTOPTB_WOL_220;Unnatural! Why does this excite me?;;;;;;;;;;;;;x
-EVTOPTB_WOL_221;Unfortunately, I don't want [seduced.GetObjectPronoun] anymore;;;;;;;;;;;;;x
-EVTOPTB_WOL_222;Time to end this endeavor!;;;;;;;;;;;;;x
-EVTOPTB_WOL_223;I and a horse?! I've had it!;;;;;;;;;;;;;x
-EVTOPTB_WOL_300;Give [seducer.GetObjectPronoun] the cold shoulder.;;;;;;;;;;;;;x
-EVTOPTB_WOL_300_CR;No way [GetFromRelation]!;;;;;;;;;;;;;x
-EVTOPTB_WOL_300_MAR;I'm a married [seduced.GetManWoman]! Take my leave.;;;;;;;;;;;;;x
-EVTOPTB_WOL_300_OLD;[seducer.GetSubjectPronounCap] is far too young for me!;;;;;;;;;;;;;x
-EVTOPTB_WOL_300_YOUNG;[seducer.GetSubjectPronounCap] is far too old for me!;;;;;;;;;;;;;x
-EVTOPTB_WOL_301;Leave [seduced.GetObjectPronoun] yearning for more...;;;;;;;;;;;;;x
-EVTOPTB_WOL_303;I am not that kind of [seduced.GetLadLass]!;;;;;;;;;;;;;x
-EVTOPTB_WOL_306;Let our love grow!;;;;;;;;;;;;;x
-EVTOPTB_WOL_307;I don't have the patience for this;;;;;;;;;;;;;x
-EVTOPTB_WOL_308;I've had it with this harridan!;;;;;;;;;;;;;x
-EVTOPTB_WOL_308_F;I've had it with this buffoon!;;;;;;;;;;;;;x
-EVTOPTB_WOL_351;Make a lewd suggestion;;;;;;;;;;;;;x
-EVTOPTB_WOL_352_ASTROLOGY_compatible;By [seduced.GetRandomPlanetName], we shouldn't!;;;;;;;;;;;;;x
-EVTOPTB_WOL_352_ASTROLOGY_compatible_TT;You are ruled by more than stars.\n;;;;;;;;;;;;;x
-EVTOPTB_WOL_352_ASTROLOGY_mismatch;Er, I am a [seduced.GetWesternZodiacSign].;;;;;;;;;;;;;x
-EVTOPTB_WOL_352_ASTROLOGY_mismatch_TT;You could never fall for a [seducer.GetWesternZodiacSign].\n;;;;;;;;;;;;;x
-EVTOPTB_WOL_352_BREATH;Desire overwhelms me, but I must be strong!;;;;;;;;;;;;;x
-EVTOPTB_WOL_352_LEWD;How rude! I didn't even know such lewd words existed!;;;;;;;;;;;;;x
-EVTOPTB_WOL_352_LOVE;A confession of love? Such childish nonsense!;;;;;;;;;;;;;x
-EVTOPTB_WOL_352_POET;Poetry? I care nothing for such nonsense!;;;;;;;;;;;;;x
-EVTOPTB_WOL_401;Leave [seduced.GetObjectPronoun] a note to meet me by the stream;;;;;;;;;;;;;x
-EVTOPTB_WOL_407;I tire of this game;;;;;;;;;;;;;x
-EVTOPTB_WOL_418;I will take no risks for the likes of [seducer.GetFirstName]!;;;;;;;;;;;;;x
-EVTOPTB_WOL_421;Guards! Arrest [seducer.GetObjectPronoun]!;;;;;;;;;;;;;x
-EVTOPTB_WOL_424;I must protect [seduced.GetFirstName] from such dangerous liaisons!;;;;;;;;;;;;;x
-EVTOPTB_WOL_428;Thank you, my [From.GetLordLady], but no!;;;;;;;;;;;;;x
-EVTOPTB_WOL_500;I do so love teasing the dear [target_priest.GetManWoman]...;;;;;;;;;;;;;x
-EVTOPTB_WOL_520;Give him a tumble and I'll have the most loyal bodyguard ever!;;;;;;;;;;;;;x
-EVTOPTB_WOL_530;Bed her and make her mine. What a spy she'll make!;;;;;;;;;;;;;x
-EVTOPTB_WOL_560;Wait... why am I out here in my smallclothes at this hour?;;;;;;;;;;;;;x
-EVTOPTB_WOL_562;[target_baby.GetFirstName] will be well cared for.;;;;;;;;;;;;;x
-EVTOPTB_WOL_570;Wait... a centaur? In our stables?!;;;;;;;;;;;;;x
-EVTOPTB_WOL_580;It is too risky.;;;;;;;;;;;;;x
-EVTOPTB_WOL_582;Reward the gaoler for his integrity.;;;;;;;;;;;;;x
-EVTOPTB_WOL_595;I give up. Perhaps I should set [From.GetHerHim] aside...;;;;;;;;;;;;;x
-
-EVTOPTC_WOL_55;I smell profit!;;;;;;;;;;;;;x
-EVTOPTC_WOL_99;But... there are so many sins to explore!;;;;;;;;;;;;;x
-EVTOPTC_WOL_101;I should seek other quarry...;;;;;;;;;;;;;x
-EVTOPTC_WOL_200;What foolishness!;;;;;;;;;;;;;x
-EVTOPTC_WOL_301;I'm affirmed. Now I can end this.;;;;;;;;;;;;;x
-EVTOPTC_WOL_303;Laugh cruelly and loudly insult [seducer.GetObjectPronoun]!;;;;;;;;;;;;;x
-EVTOPTC_WOL_303_F;Slap [seducer.GetObjectPronoun] and make a scene!;;;;;;;;;;;;;x
-EVTOPTC_WOL_351;Quote love poetry;;;;;;;;;;;;;x
-EVTOPTC_WOL_401;Take a long walk alone with [seduced.GetObjectPronoun];;;;;;;;;;;;;x
-EVTOPTC_WOL_424;The [GetRootFromCompliment] [From.GetFirstName]? I'm going myself!;;;;;;;;;;;;;x
-EVTOPTC_WOL_520;It's been fun, but I should aim higher.;;;;;;;;;;;;;x
-EVTOPTC_WOL_530;A common wench? I can do better!;;;;;;;;;;;;;x
-EVTOPTC_WOL_582;The [GetRootFromInsult]! Throw her in the oubliette.;;;;;;;;;;;;;x
-
-EVTOPTD_WOL_99;Naturally, but I won't let vices define me.;;;;;;;;;;;;;x
-EVTOPTD_WOL_200;Fool. I am a married [seduced.GetManWoman]!;;;;;;;;;;;;;x
-EVTOPTD_WOL_351;Brush my lips against [seduced.GetPossPronoun] ear and breathe out softly;;;;;;;;;;;;;x
-EVTOPTD_WOL_401;Flirt with [seduced.GetObjectPronoun] discreetly;;;;;;;;;;;;;x
-
-EVTOPTE_WOL_200;I am offended!;;;;;;;;;;;;;x
-EVTOPTE_WOL_351;Ask [seduced.GetHerHis] star sign;;;;;;;;;;;;;x
-
-EVTOPTF_WOL_200;What a sick deviant!;;;;;;;;;;;;;x
-
-EVTTITLE_WOL_55;A Dirty Secret;;;;;;;;;;;;;x
-EVTTITLE_WOL_60;Adulterous Scandal;;;;;;;;;;;;;x
-EVTTITLE_WOL_100;The Chase Begins!;;;;;;;;;;;;;x
-EVTTITLE_WOL_102;A Game for the Whole Family;;;;;;;;;;;;;x
-EVTTITLE_WOL_200;A Love Letter;;;;;;;;;;;;;x
-EVTTITLE_WOL_201;Letters of Love;;;;;;;;;;;;;x
-EVTTITLE_WOL_210;A Gift of Love;;;;;;;;;;;;;x
-EVTTITLE_WOL_211;Gifts of Love;;;;;;;;;;;;;x
-EVTTITLE_WOL_220;Rumors of Infatuation;;;;;;;;;;;;;x
-EVTTITLE_WOL_221;Conquest by Rumor;;;;;;;;;;;;;x
-EVTTITLE_WOL_300;An Informal Event;;;;;;;;;;;;;x
-EVTTITLE_WOL_301;An Informal Event;;;;;;;;;;;;;x
-EVTTITLE_WOL_351;A Midnight Snack;;;;;;;;;;;;;x
-EVTTITLE_WOL_401;Seduction in the Wild;;;;;;;;;;;;;x
-
-EVTTOOLTIP_WoL_56;[This.GetTitledName] is blackmailed;;;;;;;;;;;;;x
-EVTTOOLTIP_WoL_57;The money is sent to [This.GetBestName];;;;;;;;;;;;;x
-EVTTOOLTIP_WoL_60;[This.GetBestName]'s affair is exposed;;;;;;;;;;;;;x
-EVTTOOLTIP_WoL_110;I start planning my next move;;;;;;;;;;;;;x
-EVTTOOLTIP_WoL_201;Encourage this...;;;;;;;;;;;;;x
-EVTTOOLTIP_WoL_202;My silence will dissuade [This.GetObjectPronoun].;;;;;;;;;;;;;x
-EVTTOOLTIP_WoL_203;Strongly discourage [This.GetObjectPronoun]!;;;;;;;;;;;;;x
-EVTTOOLTIP_WoL_301;[This.GetFirstName]'s advances are encouraged;;;;;;;;;;;;;x
-EVTTOOLTIP_WoL_302;[This.GetFirstName]'s advances are rebuffed;;;;;;;;;;;;;x
-EVTTOOLTIP_WoL_303;Seek to make [This.GetObjectPronoun] my lover;;;;;;;;;;;;;x
-EVTTOOLTIP_WoL_304;Raise [This.GetPossPronoun] opinion of me;;;;;;;;;;;;;x
-EVTTOOLTIP_WoL_306;Have a memorable night!;;;;;;;;;;;;;x
-EVTTOOLTIP_WoL_306_2;Follow [This.GetFirstName] to bed...;;;;;;;;;;;;;x
-EVTTOOLTIP_WoL_352_ASTROLOGY;Bet that [This.GetFirstName] will respond to you having pegged [This.GetHerHim] as a [This.GetWesternZodiacSign]...;;;;;;;;;;;;;x
-EVTTOOLTIP_WoL_352_BREATH;Use an unfailing trick of seduction;;;;;;;;;;;;;x
-EVTTOOLTIP_WoL_352_LEWD;Bet that [This.GetFirstName] is experienced and bawdy;;;;;;;;;;;;;x
-EVTTOOLTIP_WoL_352_LOVE;Bet that [This.GetFirstName] is a naive romantic;;;;;;;;;;;;;x
-EVTTOOLTIP_WoL_352_POET;Bet that [This.GetFirstName] will respond to poetry and learning;;;;;;;;;;;;;x
-EVTTOOLTIP_WoL_405;Follow [This.GetObjectPronoun] into the warm water...;;;;;;;;;;;;;x
-EVTTOOLTIP_WoL_430;[This.GetFirstName] is frustrated and not likely to think better of me...;;;;;;;;;;;;;x
-EVTTOOLTIP_WoL_561;You enter the rose bush, professing your love.;;;;;;;;;;;;;x
-EVTTOOLTIP_WoL_571;You succumb to your desires.;;;;;;;;;;;;;x
-EVTTOOLTIP_WoL_591;The seduction of [This.GetFirstName] begins;;;;;;;;;;;;;x
-
-EVTOPTREFUSE_WOL100;It will never happen.;;;;;;;;;;;;;x
-WOL_SEDUCE_END_TOOLTIP;The chase is ended\n;;;;;;;;;;;;;x
+EVTDESC_WOL_40;This morning I woke up with a painful itch. It seems [Root.Religion.GetRandomGodName] has seen fit to blight me with a minor pox for my sinful activities.;;;;;;;;;;;Óòðîì ìåíÿ ðàçáóäèë ìó÷èòåëüíûé çóä - ïîõîæå, [Root.Religion.GetRandomGodName] íàêàçûâàåò ìåíÿ çà ãðåõè ïëîòè.;;x
+EVTDESC_WOL_40_NC;This morning I woke up with a painful itch... It seems I have contracted Lover's Pox.;;;;;;;;;;;Óòðîì ìåíÿ ðàçáóäèë ìó÷èòåëüíûé çóä... Ïîõîæå, ëþáîâíûé íåäóã...;;x
+EVTDESC_WOL_55;Just the other day - skulking as I often do - I caught [seducer.GetTitledName] and my [seduced.GetRootRelation] [seduced.GetFirstName] in flagrante! Lost in passion, they did not notice me, but I am still in shock!;;;;;;;;;;;Áóêâàëüíî íà äíÿõ, ïðèòàèâøèñü, êàê îáû÷íî, ÿ óâèäåë[Root.GetEndA], êàê [FromFrom.GetTitledName] è ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] çàíèìàþòñÿ ýòèì âìåñòå! Óòîïàÿ â ñòðàñòè, îíè äàæå íå çàìåòèëè ìåíÿ - ÿ äî ñèõ ïîð â øîêå!;;x
+EVTDESC_WOL_55_AGE_OLD;Just the other day - skulking as I often do - I caught [seducer.GetTitledName] and my [seduced.GetRootRelation] [seduced.GetFirstName] in flagrante! For shame, [seduced.GetSubjectPronoun] could be [seducer.GetPossPronoun] [seduced.GetFatherMother]! They didn't notice me, but I am still in shock!;;;;;;;;;;;Áóêâàëüíî íà äíÿõ, ïðèòàèâøèñü, êàê îáû÷íî, ÿ óâèäåë[Root.GetEndA], êàê [FromFrom.GetTitledName] è ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] çàíèìàþòñÿ ýòèì âìåñòå! Êàêîé ïîçîð, âåäü [From.GetSheHe] [FromFrom.GetHerHim] â [From.GetMotherFatherPlural] ãîäèòñÿ! Ìåíÿ íå çàìåòèëè, íî ÿ äî ñèõ ïîð â øîêå!;;x
+EVTDESC_WOL_55_AGE_YOUNG;Just the other day - skulking as I often do - I caught [seducer.GetTitledName] and my [seduced.GetRootRelation] [seduced.GetFirstName] in flagrante! For shame, [seduced.GetSubjectPronoun] could be [seducer.GetPossPronoun] [seduced.GetSonDaughter]! They didn't notice me, but I am still in shock!;;;;;;;;;;;Áóêâàëüíî íà äíÿõ, ïðèòàèâøèñü, êàê îáû÷íî, ÿ óâèäåë[Root.GetEndA], êàê [FromFrom.GetTitledName] è ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] çàíèìàþòñÿ ýòèì âìåñòå! Êàêîé ïîçîð, âåäü [From.GetSheHe] [FromFrom.GetHerHim] â [From.GetDaughterSonPlural] ãîäèòñÿ! Ìåíÿ íå çàìåòèëè, íî ÿ äî ñèõ ïîð â øîêå!;;x
+EVTDESC_WOL_55_CR;Just the other day - skulking as I often do - I caught [seducer.GetTitledName] and my [seduced.GetRootRelation] [seduced.GetFirstName] in flagrante! I can't believe it... [seduced.GetEventTarget2Relation] and [seducer.GetEventTarget1Relation]! They did not notice me, but I am still in shock!;;;;;;;;;;;Áóêâàëüíî íà äíÿõ, ïðèòàèâøèñü, êàê îáû÷íî, ÿ óâèäåë[Root.GetEndA], êàê [FromFrom.GetTitledName] è ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] çàíèìàþòñÿ ýòèì âìåñòå! Ïîâåðèòü íå ìîãó... [FromFrom.GetFromVsRelation] è [From.GetFromFromVsRelation]! Îíè íå çàìåòèëè ìåíÿ, íî ÿ äî ñèõ ïîð â øîêå!;;x
+EVTDESC_WOL_55_F_HOMO;Just the other day - skulking as I often do - I caught [seducer.GetTitledName] and my [seduced.GetRootRelation] [seduced.GetFirstName] performing a very strange and intimate exercise... naked. They didn't notice me, but I am still in shock!;;;;;;;;;;;Áóêâàëüíî íà äíÿõ, ïðèòàèâøèñü, êàê îáû÷íî, ÿ óâèäåë[Root.GetEndA], êàê [FromFrom.GetTitledName] è ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] äåëàþò êàêèå-òî ñòðàííûå âåùè äðóã ñ äðóãîì... íàãèøîì. Îíè íå çàìåòèëè ìåíÿ, íî ÿ äî ñèõ ïîð â øîêå!;;x
+EVTDESC_WOL_55_F_MARRIED;Just the other day - skulking as I often do - I caught [seducer.GetTitledName] and my [seduced.GetRootRelation] [seduced.GetFirstName] in flagrante! They didn't notice me, but I am still in shock! [seduced.GetSubjectPronounCap] is a married [seduced.GetManWoman], by [Root.Religion.GetRandomGodName]!;;;;;;;;;;;Áóêâàëüíî íà äíÿõ, ïðèòàèâøèñü, êàê îáû÷íî, ÿ óâèäåë[Root.GetEndA], êàê [FromFrom.GetTitledName] è ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] çàíèìàþòñÿ ýòèì âìåñòå! Ìåíÿ íå çàìåòèëè, íî ÿ äî ñèõ ïîð â øîêå! Êàê ìîæåò [From.GetManWoman]à â áðàêå òàêîå ñåáå ïîçâîëÿòü? [Root.Religion.GetRandomGodName], ïðîñòè [From.GetHersHis]!;;x
+EVTDESC_WOL_55_FF_MARRIED;Just the other day - skulking as I often do - I caught [seducer.GetTitledName] and my [seduced.GetRootRelation] [seduced.GetFirstName] in flagrante! They didn't notice me, but I am still in shock! [seducer.GetSubjectPronounCap] is a married [seducer.GetManWoman], by [Root.Religion.GetRandomGodName]!;;;;;;;;;;;Áóêâàëüíî íà äíÿõ, ïðèòàèâøèñü, êàê îáû÷íî, ÿ óâèäåë[Root.GetEndA], êàê [FromFrom.GetTitledName] è ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] çàíèìàþòñÿ ýòèì âìåñòå! Ìåíÿ íå çàìåòèëè, íî ÿ äî ñèõ ïîð â øîêå! Êàê ìîæåò [FromFrom.GetManWoman]à â áðàêå òàêîå ñåáå ïîçâîëÿòü? [Root.Religion.GetRandomGodName], ïðîñòè [From.GetHersHis]!;;x
+EVTDESC_WOL_55_M_HOMO;Just the other day - skulking as I often do - I caught [seducer.GetTitledName] and my [seduced.GetRootRelation] [seduced.GetFirstName] doing what man should not do to man! They didn't notice me, but I am still in shock!;;;;;;;;;;;Áóêâàëüíî íà äíÿõ, ïðèòàèâøèñü, êàê îáû÷íî, ÿ óâèäåë[Root.GetEndA], êàê [FromFrom.GetTitledName] è ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] äåëàþò òî, ÷òî ìóæ÷èíû äåëàòü íå äîëæíû! Îíè íå çàìåòèëè ìåíÿ, íî ÿ äî ñèõ ïîð â øîêå!;;x
+EVTDESC_WOL_55_PRIEST;Just the other day - skulking as I often do - I caught [seducer.GetTitledName] and my [seduced.GetRootRelation] [seduced.GetFirstName] in flagrante! A [seduced.GetManWoman] of God! They didn't notice me, but I am still in shock!;;;;;;;;;;;Áóêâàëüíî íà äíÿõ, ïðèòàèâøèñü, êàê îáû÷íî, ÿ óâèäåë[Root.GetEndA], êàê [FromFrom.GetTitledName] è ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] çàíèìàþòñÿ ýòèì âìåñòå! È ýòî Áîæèé ÷åëîâåê! Ìåíÿ íå çàìåòèëè, íî ÿ äî ñèõ ïîð â øîêå!;;x
+EVTDESC_WOL_56;To [seducer.GetTitledFirstName]. I know what you're doing with my [GetFromVsFromFromRelation] [seduced.GetTitledFirstName], you [GetFromRootInsult]. However, I understand the flesh is weak and would be willing to keep quiet about this affair for a small... donation.\n\n[scandal_discoverer.GetBestName];;;;;;;;;;;[Root.GetTitledFirstName], [GetFromRootInsult]! ß çíàþ, ÷òî Âû è ì[FromFrom.GetOyaOy] [FromFrom.GetFromVsRelation] [FromFrom.GetTitledFirstName] äåëàëè âìåñòå. Îäíàêî, ÿ ïîíèìàþ, ïëîòü ñëàáà è ñîãëàøóñü ìîë÷àòü îá ýòîì... íåäîðàçóìåíèè çà íåáîëüøîå âîçíàãðàæäåíèå.\n[From.GetBestName];;x
+EVTDESC_WOL_56_CR;To [seducer.GetTitledFirstName]. I know what you and your [GetFromFromRelation] are doing, you [GetFromRootInsult]. While you both sicken me, I am in dire need of funds and would be willing to forget in return for a small donation.\n\n[scandal_discoverer.GetBestName];;;;;;;;;;;[Root.GetTitledFirstName], [GetFromRootInsult]! ß çíàþ, ÷òî Âû è Âàø[FromFrom.GetEndA] [FromFrom.GetRootRelation] äåëàëè âìåñòå. Ìåíÿ òîøíèò îò âàñ îáîèõ, íî, ê ñ÷àñòüþ äëÿ Âàñ, ÿ îñòðî íóæäàþñü â ôèíàíñàõ è ìîãó çàáûòü îáî âñ¸ì çà íåáîëüøîå âîçíàãðàæäåíèå.\n[From.GetBestName];;x
+EVTDESC_WOL_56_HOMO;To [Root.GetTitledFirstName]. I've seen what you and my [GetFromVsFromFromRelation] are doing to each other, you [GetFromRootInsult]. Abomination! Yet, I am a kind [scandal_discoverer.GetManWoman] and would be willing to forget in return for a small donation.\n\n[scandal_discoverer.GetBestName];;;;;;;;;;;[Root.GetTitledFirstName], [GetFromRootInsult]! ß çíàþ, ÷òî Âû è ì[FromFrom.GetOyaOy] [FromFrom.GetFromVsRelation] äåëàëè âìåñòå. Êàêàÿ ìåðçîñòü! Òåì íå ìåíåå, ìèëîñåðäèå ìíå íå ÷óæäî, è ýòîò... èíöèäåíò áóäåò çàáûò â îáìåí íà íåáîëüøîå âîçíàãðàæäåíèå.\n[From.GetBestName];;x
+EVTDESC_WOL_57;To the [GetFromRootInsult] [scandal_discoverer.GetFirstName]. Here, take my money. If you do not keep quiet, I will do things to you that you cannot even begin to imagine!\n\n[seducer.GetFirstName];;;;;;;;;;;[Root.GetInsultAdjective] [Root.GetFirstName]. Âîò äåíüãè. Íî åñëè íå áóäåòå ìîë÷àòü, êëÿíóñü, ÿ ñäåëàþ ñ Âàìè òàêîå, ÷òî Âû íå ìîæåòå âîîáðàçèòü!\n[From.GetFirstName];;x
+EVTDESC_WOL_59;To the [GetFromRootInsult] [scandal_discoverer.GetFirstName]. Is this some kind of sick jest? [seduced.GetFirstName]'s virtue is immaculate! Do what you will, no one will believe your lies anyway.\n\n[seducer.GetFirstName];;;;;;;;;;;[Root.GetInsultAdjective] [Root.GetFirstName]. Ýòî êàêàÿ-òî áîëüíàÿ øóòêà? [From.GetFirstName] - îáðàçåö äîáðîäåòåëè! Äåëàéòå, ÷òî õîòèòå, íèêòî íå ïîâåðèò â ýòîò áðåä.\n[FromFrom.GetFirstName];;x
+EVTDESC_WOL_60;[scandal_discoverer.GetBestName] has been telling everyone that [scandal_discoverer.GetSubjectPronoun] saw me and [seduced.GetFirstName] making love. The scandal is a fact.;;;;;;;;;;;[From.GetBestName] ðàññêàçàë[From.GetEndA] âñåì î òîì, ÷òî [From.GetHerHim] óäàëîñü óâèäåòü êàê ÿ è [FromFrom.GetFirstName] ïðåäàâàëèñü ãðåõó. Ñêàíäàë íåèçáåæåí.;;x
+EVTDESC_WOL_61;[scandal_discoverer.GetBestName] has been telling everyone that [scandal_discoverer.GetSubjectPronoun] saw me and [seducer.GetFirstName] making love. The scandal is a fact.;;;;;;;;;;;[FromFrom.GetBestName] ðàññêàçàë[FromFrom.GetEndA] âñåì î òîì, ÷òî [FromFrom.GetHerHim] óäàëîñü óâèäåòü êàê ÿ è [From.GetFirstName] ïðåäà¸ìñÿ ãðåõó. Ñêàíäàë íåèçáåæåí.;;x
+EVTDESC_WOL_62;[scandal_discoverer.GetBestName] has exposed an affair between my [seducer.GetRootRelation] [seducer.GetFirstName] and [seduced.GetTitledName]!;;;;;;;;;;;[FromFrom.GetBestName] ðàññêàçàë[FromFrom.GetEndA] âñåì î òîì, ÷òî ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] è [FromFromFrom.GetTitledName] âìåñòå ïðåäàâàëèñü ãðåõó!;;x
+EVTDESC_WOL_63;[scandal_discoverer.GetBestName] has exposed an affair between my [seduced.GetRootRelation] [seduced.GetFirstName] and [seducer.GetTitledName]!;;;;;;;;;;;[FromFromFrom.GetBestName] ðàññêàçàë[FromFromFrom.GetEndA] âñåì î òîì, ÷òî ì[From.GetOyaOy] [From.GetFirstName] è [FromFrom.GetTitledName] âìåñòå ïðåäàâàëèñü ãðåõó!;;x
+EVTDESC_WOL_81_F;It isn't easy bedding every man who catches my fancy. Jealous wives, watchful mothers, meddling courtiers, unwanted pregnancies - it takes skill to navigate such treacherous waters!;;;;;;;;;;;Íå òàê óæ è ïðîñòî ñïàòü ñ êàæäûì ìóæ÷èíîé, êîòîðûé çàíèìàåò ìîè ôàíòàçèè. Ðåâíèâûå æ¸íû, áäèòåëüíûå ìàòåðè, ëþáîïûòíûå ïðèäâîðíûå, íåæåëàòåëüíûå áåðåìåííîñòè - òðåáóþòñÿ îñîáûå íàâûêè, ÷òîáû âûæèòü â ýòîé çìåèíîé ÿìå.;;x
+EVTDESC_WOL_81_HOMO;In this benighted age, pursuing other [Root.GetMenWomen] is fraught with danger. Yet, the risk of scandal makes it all the more exciting. Besides, there's no risk of unwanted pregnancies!;;;;;;;;;;;Â ýòè ò¸ìíûå âðåìåíà, äåëèòü ëîæå ñ êåì-òî òâîåãî ïîëà êðàéíå îïàñíî. Îäíàêî ðèñê ðàçîáëà÷åíèÿ äåëàåò ýòî åù¸ áîëåå óâëåêàòåëüíûì, è íèêàêèõ íåæåëàòåëüíûõ áåðåìåííîñòåé!;;x
+EVTDESC_WOL_81_M;Chasing skirts can be a dangerous business. Jealous husbands, watchful parents, eavesdropping maids... little bastards. By [Root.Religion.GetRandomGodName], it's a wonder I'm still alive!;;;;;;;;;;;Ãîíÿòüñÿ çà þáêàìè íå òàê-òî ïðîñòî. Ðåâíèâûå ìóæüÿ, áäèòåëüíûå ðîäèòåëè, ëþáîïûòíûå ãîðíè÷íûå, âíåáðà÷íûå äåòè. ×óäî, ÷òî ÿ åù¸ æèâ!;;x
+EVTDESC_WOL_99;My confidence is a mountain, my charm irresistible, my exploits legendary. I am [Root.GetFirstName] - temptation incarnate.;;;;;;;;;;;Ìîÿ âîëÿ íåñãèáàåìà, ìîè ÷àðû íåïðåîäîëèìû, ìîè êîçíè ëåãåíäàðíû. ß, [Root.GetFirstName] - âîïëîù¸ííîå èñêóøåíèå!;;x
+EVTDESC_WOL_100;I shall bring all my seduction skills to bear on [seduced.GetTitledFirstName] until I have [seduced.GetObjectPronoun] wrapped around my finger!;;;;;;;;;;;ß èñïîëüçóþ âñå ñâîè íàâûêè ñîáëàçíåíèÿ, ïîêà [From.GetTitledFirstName] íå îêàæåòñÿ â ìîåé âëàñòè!;;x
+EVTDESC_WOL_101;I have set my sights on [seduced.GetTitledFirstName], but the age difference could cause a bit of a scandal if the court gossips take notice of my efforts...;;;;;;;;;;;[From.GetTitledFirstName] ìíå íðàâèòñÿ, íî ðàçíèöà â âîçðàñòå âûçîâåò ñêàíäàë, åñëè îá ýòîì ïîéäóò ñïëåòíè...;;x
+EVTDESC_WOL_102;I have decided to seduce my own [seduced.GetRootRelation] [seduced.GetFirstName]. The sheer taboo of it is thrilling, but the scandal... by [Root.Religion.GetRandomGodName], the scandal would be epic.;;;;;;;;;;;Èíîãäà ñòðîãèå çàïðåòû òàê çàâîðàæèâàþò, íî ñòîèò êîìó-ëèáî óçíàòü, ÷òî îáúåêò ìîåãî âîæäåëåíèÿ - ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName], ñêàíäàë áóäåò âîèñòèíó ýïè÷åñêèì.;;x
+EVTDESC_WOL_103;The idea of seducing [seduced.GetTitledFirstName] - a [seduced.GetManWoman] of the cloth - is so exciting! Yet, I am definitely risking a scandal here...;;;;;;;;;;;[From.GetTitledFirstName], [From.GetManWoman]à â äóõîâíîì ñàíå - îäíà ëèøü ìûñëü î òîì, ÷òîáû ñîáëàçíèòü [From.GetHersHis]... î, êàê ýòî âîçáóæäàåò! Îäíàêî, åñëè êòî-íèáóäü óçíàåò... êàêîé æå áóäåò ñêàíäàë.;;x
+EVTDESC_WOL_104;Society may take a dim view on my preferences, but at the risk of a scandal I am about to seduce [seduced.GetTitledFirstName].;;;;;;;;;;;Îáùåñòâî ìîæåò íåîäîáðÿòü ìîè ïðåäïî÷òåíèÿ, íî íåñìîòðÿ íà ðèñê... [From.GetTitledFirstName], ÿ äóìàþ î òîì, ÷òîáû ñîáëàçíèòü [From.GetHersHis].;;x
+EVTDESC_WOL_111;The target of my seduction, [seduced.GetTitledFirstName], has tragically passed away!;;;;;;;;;;;Îáúåêò ìîåé ñòðàñòè... à, êîãî ÿ îáìàíûâàþ, öåëü ìîèõ ëþáîâíûõ èãð, [FromFromFrom.GetTitledFirstName], òåïåðü â ëó÷øåì ìèðå.;;x
+EVTDESC_WOL_112;My seduction of [seduced.GetTitledFirstName] has come to an unexpected end, as [seduced.GetSubjectPronoun] has ended up in prison!;;;;;;;;;;;Ìîè ëþáîâíûå èíòðèãè íåîæèäàííî çàêîí÷èëèñü, êîãäà âûÿñíèëîñü, ÷òî [FromFromFrom.GetTitledFirstName], èõ ãëàâíîå äåéñòâóþùåå ëèöî, òåïåðü ñèäèò çà ðåø¸òêîé!;;x
+EVTDESC_WOL_113;[seduced.GetTitledFirstName], the target of my amorous attentions, has tragically fallen comatose and is now entirely incapable of appreciating my efforts.;;;;;;;;;;;[FromFromFrom.GetTitledFirstName], öåëü ìîèõ ëþáîâíûõ ïîõîæäåíèé, òåïåðü â êîìå, è âñå óñèëèÿ ïîøëè ïðàõîì.;;x
+EVTDESC_WOL_114;[seduced.GetTitledFirstName], the target of my seduction, is now my [seduced.GetRootRelation], making further efforts rather pointless.;;;;;;;;;;;[FromFromFrom.GetTitledFirstName] òåïåðü ì[FromFromFrom.GetOyaOy] [FromFromFrom.GetRootRelation], ÷òî äåëàåò ìîè ïîïûòêè ñîáëàçíèòü [FromFromFrom.GetHersHis] ñîâåðøåííî áåññìûñëåííûìè.;;x
+EVTDESC_WOL_115;I am having an inordinately hard time pursuing my amorous interest in [seduced.GetTitledFirstNameNoRegnal]. When will I ever find the time to travel so far?;;;;;;;;;;;Î, [target_seduced.GetTitledFirstNameNoRegnal]! Ñêîëüêî òðóäíîñòåé ìíå ïðèøëîñü ïðåîäîëåòü ðàäè òåáÿ, ñêîëüêî äíåé è áåññîííûõ íî÷åé â îæèäàíèè îòâåòà â òâî¸ì ñåðäöå, íî è ëþáîâíûì óñòðåìëåíèÿì åñòü ïðåäåë. Äà è íàéä¸òñÿ ëè ó ìåíÿ âðåìÿ, ÷òîáû åõàòü òàê äàëåêî?;;x
+EVTDESC_WOL_115_BUSY;My current occupation simply leaves me with no time to chase [seduced.GetTitledFirstNameNoRegnal] - or anyone else for that matter.;;;;;;;;;;;Ìî¸ íûíåøíåå ïîëîæåíèå íå îñòàâëÿåò ìíå âûáîðà. ß ïîïðîñòó íå ìîãó ñåáå ïîçâîëèòü ëþáîâíûå èíòðèãè. Î, [target_seduced.GetTitledFirstNameNoRegnal], óâèäèìñÿ ëè ìû ñíîâà?.;;x
+EVTDESC_WOL_115_UNAVAILABLE;The target of my amorous attentions, [seduced.GetTitledFirstNameNoRegnal], simply never seems to be around!;;;;;;;;;;;Î, [target_seduced.GetTitledFirstNameNoRegnal]. Êàêèå áû ÷óâñòâà ìû íå ïèòàëè äðóã ê äðóãó, òåáÿ íèêîãäà íåò ðÿäîì!;;x
+EVTDESC_WOL_119;Apparently [seduced.GetBestName] has a reputation for not giving in to flirting. Any more time spent chasing [seduced.GetHerHim] is a waste.;;;;;;;;;;;Ñóäÿ ïî âñåìó, [FromFromFrom.GetBestName] èçáåãàåò îòíîøåíèé ïîäîáíîãî ðîäà, è ýòî øèðîêî èçâåñòíî. Ëþáûå ïîïûòêè ñîáëàçíèòü [FromFromFrom.GetHersHis] - ïóñòàÿ òðàòà âðåìåíè...;;x
+EVTDESC_WOL_120;The response from [seduced.GetBestName] wasn't quite what I expected, apparently I am to 'stay away forever'.;;;;;;;;;;;"Êòî áû ìîã ïîäóìàòü, ÷òî [From.GetBestName] äàñò ñòîëü íåîæèäàííûé è ðåçêèé îòâåò - ìíå ÿñíî äàëè ïîíÿòü, ðàñ÷èòûâàòü íå íà ÷òî, ìû ""íèêîãäà íå áóäåì âìåñòå"".";;x
+EVTDESC_WOL_200;Today I found a scented letter lying on my pillow. It appears [seducer.GetTitledFirstName] is quite smitten with me!;;;;;;;;;;;Ñåãîäíÿ ìíå ïîïàëîñü ïðîïèòàííîå äóõàìè ïèñüìî ïðÿìî íà ñâîåé ïîäóøêå. Ïîõîæå, ÷òî [From.GetTitledFirstName] ïèòàåò êî ìíå íå÷òî áîëüøåå, ÷åì íåæíûå ÷óâñòâà.;;x
+EVTDESC_WOL_200_CR;Today I found a scented letter lying on my pillow... I don't quite know how to react - it appears my own [seducer.GetRootRelation] [seducer.GetFirstName] is quite smitten with me!;;;;;;;;;;;Ñåãîäíÿ ìíå ïîïàëîñü ïðîïèòàííîå äóõàìè ïèñüìî ïðÿìî íà ñâîåé ïîäóøêå... Äàæå íå çíàþ, êàê ðåàãèðîâàòü - ïîõîæå, ÷òî ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] ïèòàåò êî ìíå íå÷òî áîëüøåå, ÷åì íåæíûå ÷óâñòâà.;;x
+EVTDESC_WOL_201;I arranged for a scented love letter to be left on [seduced.GetFirstName]'s pillow in an attempt to woo [seduced.GetObjectPronoun]... and it seems to have struck true, for [seduced.GetSubjectPronoun] has left one on mine, confessing [seduced.GetPossPronoun] attraction to me!;;;;;;;;;;;Ìîè íàäåæäû íà òî, ÷òî [From.GetFirstName] ïîëó÷èò ìî¸ ïðîïèòàííîå äóõàìè ïèñüìî, îáíàðóæèâ åãî íà ñâîåé ïîäóøêå, îïðàâäàëèñü... è òåïåðü [From.GetSubjectPronoun] ïðèçíà[From.GetLasLsya], ÷òî [From.GetHersHis] âëå÷¸ò êî ìíå!;;x
+EVTDESC_WOL_202;[seduced.GetFirstName] has not responded to the love letter I had left on [seduced.GetPossPronoun] pillow.;;;;;;;;;;;[From.GetFirstName] íå îòâå÷àåò íà ìî¸ ïèñüìî, îñòàâëåííîå íà ïîäóøêå.;;x
+EVTDESC_WOL_203;I arranged for a scented love letter to be left on [seduced.GetFirstName]'s pillow in an attempt to woo [seduced.GetObjectPronoun]... Today I found [seduced.GetPossPronoun] answering missive in the privy. It did not smell of roses.;;;;;;;;;;;Ìîè íàäåæäû íà òî, ÷òî [From.GetFirstName] ïîëó÷èò ìî¸ ïðîïèòàííîå äóõàìè ïèñüìî, îáíàðóæèâ åãî íà ñâîåé ïîäóøêå, îïðàâäàëèñü... Íî ñåãîäíÿ ýòî ïèñüìî ïîïàëîñü ìíå íà ãëàçà áðîøåííûì â óáîðíîé è îíî íå ïàõëî ðîçàìè.;;x
+EVTDESC_WOL_210;My bedroom is covered in wildflowers! And what's this? A beautiful necklace set with precious stones! There is a note here as well: 'From your humble admirer, [seducer.GetTitledFirstName], something to match your eyes'.;;;;;;;;;;;"Âñÿ ìîÿ ñïàëüíÿ â öâåòàõ! À ýòî ÷òî? Î, êàêîå ïðåêðàñíîå îæåðåëüå! Çäåñü çàïèñêà: ""Ïîä öâåò Âàøèõ ãëàç. Ñ òåïëîòîé è âîñõèùåíèåì, [From.GetTitledFirstName]"".";;x
+EVTDESC_WOL_210_CR;My bedroom is covered in wildflowers! And what's this? A beautiful necklace set with precious stones! There is a note here as well: 'From your humble admirer, [seducer.GetFirstName], something to match your eyes'. Wait, what, surely not my [seducer.GetRootRelation] [seducer.GetFirstName]?!;;;;;;;;;;;"Âñÿ ìîÿ ñïàëüíÿ â öâåòàõ! À ýòî ÷òî? Î, êàêîå ïðåêðàñíîå îæåðåëüå! Çäåñü çàïèñêà: ""Ïîä öâåò Âàøèõ ãëàç. Ñ òåïëîòîé è âîñõèùåíèåì, [From.GetFirstName]"". ×òî?! Ýòî âåäü íå... ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName]?!";;x
+EVTDESC_WOL_210_CR_M;A page brought me a beautifully wrapped gift today - a perfectly balanced blade with a gilded hilt. The accompanying note says it's a gift from an admiring [seducer.GetFirstName]! My own [seducer.GetRootRelation] [seducer.GetFirstName]?!;;;;;;;;;;;Ñåãîäíÿ ïàæ ïðèí¸ñ ìíå êðàñèâî óïàêîâàííûé ïîäàðîê - ïðåêðàñíî ñáàëàíñèðîâàííûé êëèíîê ñ ïîçîëî÷åííîé ðóêîÿòüþ. Çàïèñêà, ïðèëàãàþùàÿñÿ ê íåìó, íåäâóñìûñëåííî óêàçûâàëà, ÷òî ýòî [From.GetFirstName]! Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName]?!;;x
+EVTDESC_WOL_210_M;A page brought me a beautifully wrapped gift today - a perfectly balanced blade with a gilded hilt. The accompanying note says it's a gift from an admiring [seducer.GetTitledFirstName]!;;;;;;;;;;;Ñåãîäíÿ ïàæ ïðèí¸ñ ìíå êðàñèâî óïàêîâàííûé ïîäàðîê - ïðåêðàñíî ñáàëàíñèðîâàííûé êëèíîê ñ ïîçîëî÷åííîé ðóêîÿòüþ. Çàïèñêà, ïðèëàãàþùàÿñÿ ê íåìó, íåäâóñìûñëåííî óêàçûâàëà, ÷òî ýòî [From.GetTitledFirstName]!;;x
+EVTDESC_WOL_211;I sent [seduced.GetFirstName] a beautiful necklace and had her room covered with wildflowers. The gambit seems to have paid off, for I found a magnificent new saddle with her embossed seal in the stables today!;;;;;;;;;;;[From.GetFirstName] íàøëà ìîé ïîäàðîê â ñâîåé êîìíàòå, ïîëíîé öâåòîâ - ïðåêðàñíîå îæåðåëüå. È âñ¸ ýòî îêóïèëîñü ñïîëíà - òðóäíî áûëî íå çàìåòèòü â êîíþøíÿõ ïðåâîñõîäíîå íîâîå ñåäëî ñ å¸ ðåëüåôíîé ïå÷àòüþ!;;x
+EVTDESC_WOL_211_M;I sent [seduced.GetFirstName] a magnificent sword as a gift. It seems to have warmed his heart, for he sent me a matching dagger back!;;;;;;;;;;;[From.GetFirstName] ïîëó÷èë ìîé ïîäàðîê, âåëèêîëåïíûé ìå÷. Ïîõîæå, ýòî ðàñòîïèëî åãî ñåðäöå, âåäü îí ïîñëàë ìíå èçûñêàííûé êèíæàë â îòâåò!;;x
+EVTDESC_WOL_212;I sent [seduced.GetFirstName] a beautiful necklace and covered her room with wildflowers, but I've heard nothing back from her...;;;;;;;;;;;Íå òàê äàâíî [From.GetFirstName] íàøëà ìîé ïîäàðîê â ñâîåé êîìíàòå, ïîëíîé öâåòîâ - ïðåêðàñíîå îæåðåëüå. È êàêîâ å¸ îòâåò? Ìîë÷àíèå!;;x
+EVTDESC_WOL_212_M;I sent [seduced.GetFirstName] a magnificent sword as a gift, but all I got in return was silence.;;;;;;;;;;;Íå òàê äàâíî [From.GetFirstName] ïîëó÷èë ìîé ïîäàðîê, âåëèêîëåïíûé ìå÷. È êàêîâ æå åãî îòâåò? Ìîë÷àíèå!;;x
+EVTDESC_WOL_213;I sent [seduced.GetFirstName] a beautiful necklace and covered her room with wildflowers... Today I found my bed full of wilted petals and a bent, rusty nail on my pillow!;;;;;;;;;;;Íå òàê äàâíî [From.GetFirstName] íàøëà ìîé ïîäàðîê â ñâîåé êîìíàòå, ïîëíîé öâåòîâ - ïðåêðàñíîå îæåðåëüå... À ñåãîäíÿ ìíå ïðèøëîñü óçðåòü ïîñòåëü, óñûïàííóþ ñóõèìè ëåïåñòêàìè óâÿäøèõ öâåòîâ è ðæàâûé ãâîçäü íà ñâîåé ïîäóøêå!;;x
+EVTDESC_WOL_213_M;Some time ago, I sent [seduced.GetFirstName] a magnificent sword as a gift. Today, I found it jammed into my loom, the weave completely ruined!;;;;;;;;;;;Íå òàê äàâíî [From.GetFirstName] ïîëó÷èë ìîé ïîäàðîê, âåëèêîëåïíûé ìå÷. À ñåãîäíÿ îí îêàçàëñÿ âîòêíóòûì â ìîé òêàöêèé ñòàíîê, âñÿ ìîÿ ðàáîòà ïîëíîñòüþ óíè÷òîæåíà!;;x
+EVTDESC_WOL_220;I didn't credit it when my maid claimed to have heard that [seducer.GetTitledFirstName] can't sleep because he's constantly thinking of me, but now all my friends are saying it too!;;;;;;;;;;;Ðàíüøå ÿ íå çàìå÷àëà ñëîâà ñâîåé ñëóæàíêè, êîãäà îíà óòâåðæäàëà ÿêîáû [From.GetTitledFirstName] íî÷àìè íå ñïèò, ïîñòîÿííî äóìàÿ îáî ìíå, íî òåïåðü î òîì æå ãîâîðÿò ìîè äðóçüÿ!;;x
+EVTDESC_WOL_220_CR;The chamber maid claims to have heard rumors that [seducer.GetTitledFirstName] can't sleep because he's constantly thinking about me... My own [seducer.GetRootRelation], bless [Root.Religion.GetRandomGodName]!;;;;;;;;;;;Ãîðíè÷íàÿ óòâåðæäàåò, ÷òî ñëûøàëà ñïëåòíè î òîì, êàê [From.GetTitledFirstName] íå ìîæåò çàñíóòü èç-çà ìûñëåé îáî ìíå... Íî âåäü [From.GetSheHe] - ì[From.GetOyaOy] [From.GetRootRelation]!;;x
+EVTDESC_WOL_220_CR_M;I didn't credit it when my manservant claimed to have heard that [seducer.GetTitledFirstName] twists and turns at night in the grip of passionate dreams, crying out my name, but now my friends are saying it too! My own [seducer.GetRootRelation], by [Root.Religion.GetRandomGodName]!;;;;;;;;;;;Ðàíüøå ÿ íå çàìå÷àë ñëîâà ñâîåãî ñëóãè, êîãäà îí óòâåðæäàë, ÷òî ñëûøàë ÿêîáû [From.GetTitledFirstName] âîðî÷àåòñÿ âñþ íî÷ü â ïëåíó ñâîèõ ñòðàñòíûõ ñíîâ, âûêðèêèâàÿ ìî¸ èìÿ, íî òåïåðü î òîì æå ãîâîðÿò è ìîè äðóçüÿ! Íî âåäü [From.GetSheHe] - ì[From.GetOyaOy] [From.GetRootRelation]!;;x
+EVTDESC_WOL_220_M;I didn't credit it when my manservant claimed to have heard that [seducer.GetTitledFirstName] twists and turns at night in the grip of passionate dreams, crying out my name, but now my friends are saying it too!;;;;;;;;;;;Ðàíüøå ÿ íå çàìå÷àë ñëîâà ñâîåãî ñëóãè, êîãäà îí óòâåðæäàë, ÷òî ñëûøàë ÿêîáû [From.GetTitledFirstName] âîðî÷àåòñÿ âñþ íî÷ü â ïëåíó ñâîèõ ñòðàñòíûõ ñíîâ, âûêðèêèâàÿ ìî¸ èìÿ, íî òåïåðü î òîì æå ãîâîðÿò è ìîè äðóçüÿ!;;x
+EVTDESC_WOL_221;Some carefully placed words where they can easily be overheard by notorious gossips can be more effective than a love letter! [seduced.GetTitledFirstName] must have gotten my message, for I found a lock of hair wrapped in silk with [seduced.GetPossPronoun] personal seal in my chambers today.;;;;;;;;;;;Èíîãäà óäà÷íî ïîäîáðàííûå ñëîâà, ïîäñëóøàííûå êåì-òî è ðàçíåñ¸ííûå ñïëåòíÿìè, ìîãóò áûòü ãîðàçäî ýôôåêòèâíåå ëþáîâíûõ ïèñåì. [From.GetTitledFirstName], äîëæíî áûòü, óæå îáëàäàåò íóæíûìè ñâåäåíèÿìè, ïîòîìó ÷òî ñåãîäíÿ ìíå ïîïàëàñü ïðÿäü âîëîñ, îá¸ðíóòûõ â ø¸ëê ñ [From.GetAbsPossPronoun] ëè÷íîé ïå÷àòüþ â ì[Root.GetMyChamberPREP].;;x
+EVTDESC_WOL_222;Some carefully placed words where they can easily be overheard by notorious gossips can be more effective than a love letter. Or so I thought, but my quarry, [seduced.GetTitledFirstName], has not responded in any way.;;;;;;;;;;;Èíîãäà óäà÷íî ïîäîáðàííûå ñëîâà, ïîäñëóøàííûå êåì-òî è ðàçíåñ¸ííûå ñïëåòíÿìè, ìîãóò áûòü ãîðàçäî ýôôåêòèâíåå ëþáîâíûõ ïèñåì. Èíîãäà, íî íå ñåé÷àñ, ïîòîìó êàê [From.GetTitledFirstName], öåëü ìîèõ èíòðèã, äî ñèõ ïîð íå îòâå÷àåò ìíå.;;x
+EVTDESC_WOL_223;I thought some carefully placed words where they could easily be overheard by notorious gossips would be more effective than a love letter... Well, [seduced.GetTitledFirstName] clearly got the message, for [seduced.GetSubjectPronoun] has started rumors of [seduced.GetPossPronoun] own about me!;;;;;;;;;;;Êàçàëîñü áû, óäà÷íî ïîäîáðàííûå ñëîâà, ïîäñëóøàííûå êåì-òî è ðàçíåñ¸ííûå ñïëåòíÿìè, ìîãóò áûòü ãîðàçäî ýôôåêòèâíåå ëþáîâíûõ ïèñåì... ×òî æ, [From.GetTitledFirstName] íåñîìíåííî óæå îáëàäàåò íóæíûìè ñâåäåíèÿìè, âåäü [From.GetSubjectPronoun] â ñâîþ î÷åðåäü ðàñïóñêàåò ñëóõè îáî ìíå!;;x
+EVTDESC_WOL_300;My heart beats faster as [seducer.GetTitledName] grabs me for another dance. The hour is getting late, but the [seducer.GetManWoman] is such a charmer! I must be blushing like a beetroot.;;;;;;;;;;;Êîãäà [From.GetTitledName] ïðèãëàñèë[From.GetEndA] ìåíÿ íà òàíåö, ìíå ïîêàçàëîñü, ÷òî ñåðäöå âîò-âîò âûïðûãíåò èç ãðóäè. Ýò[From.GetEtaEtot] [From.GetAgedPersonM] ñòîëü î÷àðîâàòåë[From.GetSoftNaEn]! ß êðàñíåþ, êàê ñâ¸êëà.;;x
+EVTDESC_WOL_300_CR;My [seducer.GetRootRelation] [seducer.GetFirstName] has danced with me all evening. I thought [seducer.GetSubjectPronoun] was just being sweet, but there is a strange tension growing between us. Something sensual, forbidden... thrilling.;;;;;;;;;;;ß è ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] âåñü âå÷åð òàíöåâàëè âìåñòå. Êàçàëîñü áû, ýòî âñ¸ ïðîñòî ïî-äðóæåñêè, íî ìåæäó íàìè ðàñò¸ò íàïðÿæåíèå, íå÷òî ÷óâñòâåííîå è... çàïðåòíîå.;;x
+EVTDESC_WOL_300_M;This minor event would be a dull affair, but [seducer.GetTitledName] just brushed her bosom against me again. Is she flirting with me..? That was definitely a wink! This is getting more interesting by the minute!;;;;;;;;;;;Ýòî ñêó÷íåéøåå ìåðîïðèÿòèå ìîãëî áû çàêîí÷èòüñÿ, êàê âñåãäà, íî [From.GetTitledName] òîëüêî ÷òî ñíîâà ïîïðàâèë[From.GetEndA] ïëàòüå ïðÿìî ïåðåäî ìíîé. [From.GetSheHeCap] ôëèðòóåò? À âîò ýòî óæå îïðåäåë¸ííî ñèãíàë - [From.GetSheHe] ïîäìèãíóë[From.GetEndA] ìíå! Ñ êàæäîé ìèíóòîé ñòàíîâèòñÿ âñ¸ èíòåðåñíåå.;;x
+EVTDESC_WOL_301;I made sure to attend this minor event in [seduced.Capital.Capital.GetName] so I could seduce [seduced.GetTitledFirstName]. We've been dancing and conversing all night and [seduced.GetSubjectPronoun] is clearly responding to my advances...;;;;;;;;;;;Íåáîëüøîé ïðàçäíèê â ãîðîäå [From.Capital.Capital.GetName], êàê è îæèäàëîñü, íåïëîõî ïîñëóæèë ìîèì ëþáîâíûì èíòðèãàì, âåäü òàì [From.GetTitledFirstName]. Âñþ íî÷ü ìû òàíöåâàëè è âåëè íåïðèíóæä¸ííûå áåñåäû...;;x
+EVTDESC_WOL_301_DISTANT;I travelled all the way to the court of [seduced.Employer.GetTitledName] in [seduced.Capital.Capital.GetName] so I could meet [seduced.GetFirstName] at a minor celebration. We've been dancing and conversing all night and [seduced.GetSubjectPronoun] is clearly responding to my advances...;;;;;;;;;;;Ìíå ïðèøëîñü ïðîäåëàòü äîëãèé ïóòü äî ãîðîäà [From.Capital.Capital.GetName], ãäå [From.Employer.GetTitledName] ïðîâîäèò íåáîëüøîé ïðàçäíèê ïðè äâîðå, íî ýòî îïðàâäàëî ìîè óñèëèÿ, âåäü òàì [From.GetFirstName]. Âñþ íî÷ü ìû òàíöåâàëè è ðàçãîâàðèâàëè î ðàçíûõ âåùàõ...;;x
+EVTDESC_WOL_302;I made sure to attend a minor event in [seduced.Capital.Capital.GetName] in the hopes of seducing [seduced.GetTitledFirstName], but despite my best attempts, [seduced.GetSubjectPronoun] remains unimpressed.;;;;;;;;;;;Íåáîëüøîé ïðàçäíèê â ãîðîäå [From.Capital.Capital.GetName] äàâàë ìíå íàäåæäó, ÷òî [From.GetTitledFirstName] ïîääàñòñÿ ìîèì ëþáîâíûì ÷àðàì, íî âñå ìîè ïîïûòêè íè ê ÷åìó íå ïðèâåëè.;;x
+EVTDESC_WOL_303;As the festivities wind down, [seducer.GetFirstName] takes my hands and looks into my eyes. '[Root.GetMilordMilady], will you escort me to my chambers?';;;;;;;;;;;"Òîðæåñòâà ïîäîøëè ê êîíöó, è [From.GetFirstName] âçÿë[From.GetEndA] ìåíÿ çà ðóêó, ïðèñòàëüíî ïîñìîòðåë[From.GetEndA] ìíå â ãëàçà è ñêàçàë[From.GetEndA]: ""Ì[Root.GetMilordMilady], íå æåëàåòå ëè ïðîâîäèòü ìåíÿ â ì[From.GetMyChamberACC]?"".";;x
+EVTDESC_WOL_303_F;The night's merrymaking is coming to an end. [seducer.GetFirstName] nods towards my rather inebriated attendant. 'She won't even notice us leaving...' [seducer.GetSubjectPronounCap] grins lasciviously and pats me on the rump.;;;;;;;;;;;"Íî÷íîå âåñåëüå ïîäîøëî ê êîíöó... [From.GetFirstName] áðîñèë[From.GetEndA] âçãëÿä â ñòîðîíó ìîåé ïüÿíîé ïîäðóãè. ""Îíà äàæå íå çàìåòèò, êàê ìû óøëè..."" — [From.GetSubjectPronounCap] óõìûëüíó[From.GetLasLsya] è ïîõîòëèâî øë¸ïíóë[From.GetEndA] ìåíÿ ïî çàäíèöå.";;x
+EVTDESC_WOL_304;What a night! I think I'm falling in love with [seducer.GetFirstName]...;;;;;;;;;;;Âîò ýòî íî÷ü! [From.GetFirstName]... äóìàþ, ÿ ëþáëþ [From.GetHersHis].;;x
+EVTDESC_WOL_305;Just when things were really heating up, [seducer.GetFirstName] excused [seducer.GetReflexivePronoun] and left!;;;;;;;;;;;Ñòðàñòü ìåæäó íàìè òîëüêî íà÷àëà ðàçãîðàòüñÿ, íî âäðóã [From.GetFirstName] èçâèíè[From.GetLasLsya] è ïîêèíóë[From.GetEndA] ìåíÿ...;;x
+EVTDESC_WOL_306;I sure know how to cajole [seduced.GetMenWomen]! [seduced.GetFirstName] and I spent the night making sweet, illicit love in [seduced.GetPossPronoun] bed. I snuck off in the wee hours, leaving the court clueless... I hope!;;;;;;;;;;;[From.GetFirstName] è ÿ ïðîâåëè íî÷ü âìåñòå, ïðåäàâàÿñü çàïðåòíûì óòåõàì â [From.GetAbsPossPronoun] ïîñòåëè. Ïðîêðàñòüñÿ òóäà â ïðåäðàññâåòíîå âðåìÿ - ëó÷øèé ñïîñîá äåðæàòü ïðèäâîðíûõ â íåâåäåíèè, ÿ íàäåþñü...;;x
+EVTDESC_WOL_306_CR;I sure know how to cajole [seduced.GetMenWomen]! [Root.Religion.GetRandomEvilGodNameCap] will surely claim our souls for our wicked sin, but [seduced.GetFirstName] and I spent the night making sweet, illicit love in [seduced.GetPossPronoun] bed. I snuck off in the wee hours, leaving the court clueless... I hope!;;;;;;;;;;;[Root.Religion.GetRandomEvilGodNameCap] çàáåð¸ò íàøè íå÷åñòèâûå äóøè çà ýòîò ãðåõ, íî [From.GetFirstName] è ÿ ïðîâåëè íî÷ü âìåñòå, ïðåäàâàÿñü çàïðåòíûì óòåõàì â [From.GetAbsPossPronoun] ïîñòåëè. Ïðîêðàñòüñÿ òóäà â ïðåäðàññâåòíîå âðåìÿ - ëó÷øèé ñïîñîá äåðæàòü ïðèäâîðíûõ â íåâåäåíèè, ÿ íàäåþñü...;;x
+EVTDESC_WOL_307;As the festivities wound down, I took [seduced.GetFirstName] aside and suggested we retire together... I can't believe [seduced.GetSubjectPronoun] actually spurned me!;;;;;;;;;;;"Òîðæåñòâà ïîäõîäÿò ê êîíöó, à [From.GetFirstName] âíèìàòåëüíî âûñëóøàâ ìî¸ ïðåäëîæåíèå ïðîäîëæèòü â áîëåå ""ïîäõîäÿùåì"" ìåñòå, îòêàçàë[From.GetEndA] ìíå! Íå ìîãó ïîâåðèòü â ýòî!";;x
+EVTDESC_WOL_308;I thought I had [seduced.GetFirstName] completely entranced, but when I finally suggested we retire together, [seduced.GetSubjectPronoun] loudly mocked me and walked off with [seduced.GetPossPronoun] rather inebriated attendant, laughing cruelly!;;;;;;;;;;;"Êàçàëîñü [From.GetFirstName] óæå âî âëàñòè ìîèõ ÷àð, ïîýòîìó [From.GetHersHis] îòâåò íà ìî¸ ïðåäëîæåíèå ïðîäîëæèòü îáùåíèå â áîëåå ""óäîáíîì"" ìåñòå øîêèðîâàë ìåíÿ - íåëåïîå ïðåäñòàâëåíèå: [From.GetFirstName], ïðèëþäíî îáîçâàâ ìåíÿ ïîñëåäíèìè ñëîâàìè, óø[From.GetLaYol] â îáíèìêó ñ ïüÿíèöåé, ðàçðàçèâøèñü çëîáíûì õîõîòîì!";;x
+EVTDESC_WOL_351;I managed to 'chance' upon [seduced.GetFirstName] alone in the kitchen when [seduced.GetSubjectPronoun] came down for [seduced.GetPossPronoun] usual late snack. We've talked and laughed for hours and I can tell the attraction is growing. Hoping I've read [seduced.GetObjectPronoun] correctly, I lean in to whisper in [seduced.GetPossPronoun] ear...;;;;;;;;;;;"Ó ìåíÿ ïîÿâèëñÿ ""øàíñ"" - [From.GetFirstName] êàê âñåãäà íà êóõíå, ÷òîáû ïåðåêóñèòü ñðåäè íî÷è. Ìû âñòðåòèëèñü è ðàçãîâîðèëèñü - ÷àñàìè ìû áîëòàëè è ñìåÿëèñü, è áåçóñëîâíî íàøå âëå÷åíèå äðóã ê äðóãó çàìåòíî âîçðîñëî. Íàäåþñü, ìî¸ ðåøåíèå óìåñòíî - ïðèáëèçèòüñÿ è ïðîøåïòàòü [From.GetHerHim] íà óõî...";;x
+EVTDESC_WOL_351_DISTANT;The journey to the court of [seduced.Employer.GetTitledName] was dreary, but I managed to 'chance' upon [seduced.GetFirstName] alone in the kitchen when [seduced.GetSubjectPronoun] came down for [seduced.GetPossPronoun] usual late snack. We've talked and laughed for hours and I can tell [seduced.GetSubjectPronoun] is attracted. Hoping I've read [seduced.GetObjectPronoun] correctly, I lean in to whisper in [seduced.GetPossPronoun] ear...;;;;;;;;;;;"Ïóòåøåñòâèå êî äâîðó ÷åëîâåêà, èçâåñòíîãî çäåñü êàê [From.Employer.GetTitledName], áûëî óòîìèòåëüíûì, íî óïóñêàòü òàêîé ""øàíñ"" íåëüçÿ - [From.GetFirstName] êàê âñåãäà íà êóõíå, ÷òîáû ïåðåêóñèòü ñðåäè íî÷è. Ìû ðàçãîâîðèëèñü, è íàøå âëå÷åíèå äðóã ê äðóãó çàìåòíî âîçðîñëî. ß íàêëîíè[Root.GetLasLsya] ê í[From.GetHerHim], ÷òîáû ïðîøåïòàòü...";;x
+EVTDESC_WOL_352;As I snuck into the kitchen for my usual night snack, I chanced upon [seducer.GetTitledFirstNameNoRegnal]. We've been chatting and laughing for hours now, but the words have grown softer and our hands are touching... Suddenly, [seducer.GetSubjectPronoun] leans in and whispers softly in my ear... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;Ïî íî÷àì îáû÷íî ÿ ïðîáèðàþñü íà êóõíþ, ÷òîáû ïåðåêóñèòü, ïîêà íèêòî íå âèäèò, íî â ýòîò ðàç âñ¸ èíà÷å - ìíå âñòðåòè[From.GetLasLsya] [From.GetTitledFirstNameNoRegnal], ìû áîëòàëè è ñìåÿëèñü ÷àñàìè, ïîêà íàøå îáùåíèå íå íàïîëíèëîñü íåæíîñòüþ è ïðèêîñíîâåíèÿìè... È âîò [From.GetSubjectPronoun] íàêëîíè[From.GetLasLsya], ÷òîáû ïðîøåïòàòü ìíå íà óõî... [Root.GetSeductionAstrologyPostScript];;x
+EVTDESC_WOL_352_CR;As I snuck into the kitchen for my usual night snack, I chanced upon my [seducer.GetRootRelation] [seducer.GetFirstName]. We've been chatting and laughing for hours now, but there is a strange tension growing between us. Attraction? For my own [seducer.GetRootRelation]..?! As we are about to leave, [seducer.GetSubjectPronoun] suddenly leans in and whispers softly in my ear... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;Ïî íî÷àì îáû÷íî ÿ ïðîáèðàþñü íà êóõíþ, ÷òîáû ïåðåêóñèòü, ïîêà íèêòî íå âèäèò, íî â ýòîò ðàç òàì îêàçà[From.GetLasLsya] ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName]. Ìû áîëòàåì è ñìå¸ìñÿ ÷àñàìè, è ìåæäó íàìè ðàñò¸ò ñòðàííîå íàïðÿæåíèå èëè... âëå÷åíèå? [From.GetSheHeCap] æå ì[From.GetOyaOy] [From.GetRootRelation]! Ìû ñîáðàëèñü óõîäèòü, íî [From.GetSubjectPronoun] íàêëîíè[From.GetLasLsya] êî ìíå è ïðîøåïòàë[From.GetEndA]... [Root.GetSeductionAstrologyPostScript];;x
+EVTDESC_WOL_352_DISTANT;As I snuck into the kitchen for my usual night snack, I chanced upon our distant guest, [seducer.GetTitledFirstName]. We've been chatting and laughing for hours now, but the words have grown softer and our hands are touching... Suddenly, [seducer.GetSubjectPronoun] leans in and whispers softly in my ear... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;Ïî íî÷àì îáû÷íî ÿ ïðîáèðàþñü íà êóõíþ, ÷òîáû ïåðåêóñèòü, ïîêà íèêòî íå âèäèò, íî êàêîâî áûëî ìî¸ óäèâëåíèå - [From.GetTitledFirstName], ïðèáûâ ê íàì èçäàëåêà îêàçà[From.GetLasLsya] òàì! Ìû áîëòàëè è ñìåÿëèñü ÷àñàìè, ïîêà íàøå îáùåíèå íå íàïîëíèëîñü íåæíîñòüþ è ïðèêîñíîâåíèÿìè... È âîò [From.GetSubjectPronoun] íàêëîíè[From.GetLasLsya], ÷òîáû ïðîøåïòàòü ìíå íà óõî... [Root.GetSeductionAstrologyPostScript];;x
+EVTDESC_WOL_352_HOMO;As I snuck into the kitchen for my usual night snack, I chanced upon [seducer.GetTitledFirstNameNoRegnal]. We've been chatting and laughing for hours now, but there is a strange tension growing between us. Attraction? For another [seducer.GetManWoman]..?! As we are about to leave, [seducer.GetSubjectPronoun] suddenly leans in and whispers softly in my ear... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;Ïî íî÷àì îáû÷íî ÿ ïðîáèðàþñü íà êóõíþ, ÷òîáû ïåðåêóñèòü, ïîêà íèêòî íå âèäèò, íî â ýòîò ðàç âñ¸ èíà÷å - ìíå âñòðåòè[From.GetLasLsya] [From.GetTitledFirstNameNoRegnal], ìû áîëòàëè è ñìåÿëèñü ÷àñàìè, íî ìåæäó íàìè ðàñò¸ò ñòðàííîå íàïðÿæåíèå èëè ìîæåò áûòü... âëå÷åíèå? [From.GetSheHeCap] æå [From.GetManWoman]à! Ìû ñîáðàëèñü óõîäèòü, íî [From.GetSubjectPronoun] íàêëîíè[From.GetLasLsya] ê ìíå è ïðîøåïòàë[From.GetEndA]... [Root.GetSeductionAstrologyPostScript];;x
+EVTDESC_WOL_353;[seduced.GetFirstName] backed away from me, blushing and stammering something about being sorry before rushing off.;;;;;;;;;;;[From.GetFirstName] ðåçêî îòñòðàíè[From.GetLasLsya] îò ìåíÿ, êðàñíåÿ è èçâèíÿÿñü çà ñâîþ ðåàêöèþ, à çàòåì ñïåøíî óäàëè[From.GetLasLsya] ïðî÷ü.;;x
+EVTDESC_WOL_353_CR;[seduced.GetFirstName] jerked away from me with a look of shock and disgust, exclaiming '[Root.GetFirstName], I am your [seduced.GetRootRelation] for [seduced.Religion.GetRandomGodName]'s sake!';;;;;;;;;;;"[From.GetFirstName] ðåçêî îòñòðàíè[From.GetLasLsya] îò ìåíÿ, íå ñêðûâàÿ ñâîé øîê è îòâðàùåíèå: ""Äà ïðîñòèò òåáÿ [From.Religion.GetRandomGodName]! ß - òâ[From.GetOyaOy] [From.GetRootRelation]!""";;x
+EVTDESC_WOL_353_OLD_F;[seduced.GetFirstName] jerked away from me with a shocked expression, exclaiming 'Sorry [Root.PrimaryTitle.GetRulerTitle], but you are far too old for me!' before rushing off.;;;;;;;;;;;"[From.GetFirstName] ðåçêî îòñòðàíè[From.GetLasLsya], íå ñêðûâàÿ ñâîé øîê: ""Ïðîøó ïðîùåíèÿ, [Root.PrimaryTitle.GetRulerTitle], íî Âû ñëèøêîì... ñòàðû äëÿ ìåíÿ."" — è ñïåøíî óäàëè[From.GetLasLsya] ïðî÷ü.";;x
+EVTDESC_WOL_353_OLD_M;[seduced.GetFirstName] jerked away from me with a shocked expression, exclaiming '[Root.GetTitledFirstNameNoRegnal]! You are old enough to be my father!' Then [seduced.GetSubjectPronoun] ran off giggling.;;;;;;;;;;;"[From.GetFirstName] ðåçêî îòñòðàíè[From.GetLasLsya], íå ñêðûâàÿ ñâîé øîê: ""[Root.GetTitledFirstNameNoRegnal]! Âû ìíå â îòöû ãîäèòåñü!"" — è óáåæàë[From.GetEndA] ïðî÷ü.";;x
+EVTDESC_WOL_353_YOUNG;[seduced.GetFirstName] slowly shook [seduced.GetPossPronoun] head, grinning as [seduced.GetSubjectPronoun] gently pushed me away. 'Sorry [Root.GetLadLass], you still have a lot to learn about [seduced.GetMenWomen]!';;;;;;;;;;;"[From.GetFirstName] ìåäëåííî ïîêà÷àëîòñòðàíè[From.GetEndA] ãîëîâîé è óõìûëüíóâøèñü îòòàëêíóë[From.GetEndA] ìåíÿ: ""Ïðîñòè, [Root.GetLadLass], òåáå åù¸ ìíîãîå ïðåäñòîèò óçíàòü î [From.GetManWoman]àõ.""";;x
+EVTDESC_WOL_401;I am attending a festive outing with [seduced.GetTitledFirstNameNoRegnal]. Unfortunately, half the court is also here and I am having trouble getting any time alone with my amorous quarry...;;;;;;;;;;;[From.GetTitledFirstNameNoRegnal], öåëü ìîèõ ëþáîâíûõ óñòðåìëåíèé, íåñîìíåííî îáðàäóåòñÿ, åñëè ìû âìåñòå âûáåðåìñÿ íà ë¸ãêóþ ïðîãóëêó, íî ê ñîæàëåíèþ ñåé÷àñ çäåñü ïîëîâèíà äâîðà, ïîýòîìó ó íàñ ïî÷òè íå áóäåò âîçìîæíîñòè óåäèíèòüñÿ...;;x
+EVTDESC_WOL_401_CR;I am attending a festive outing with [seduced.GetFirstName]. With half the court around as chaperones, it would normally be hard to spend any time alone with the target of my affection, but [seduced.GetFirstName] is my [seduced.GetRootRelation], so I should be above suspicion...;;;;;;;;;;;[From.GetFirstName], öåëü ìîèõ ëþáîâíûõ óñòðåìëåíèé, íåñîìíåííî îáðàäóåòñÿ, åñëè ìû âìåñòå âûáåðåìñÿ íà ë¸ãêóþ ïðîãóëêó. Ê ñîæàëåíèþ ñåé÷àñ çäåñü ïîëîâèíà äâîðà, è ó íàñ áóäåò ìàëî âîçìîæíîñòåé ïîáûòü íàåäèíå, ê òîìó æå [From.GetFirstName] - ì[From.GetOyaOy] [From.GetRootRelation], ýòî âûçîâåò ïîäîçðåíèÿ...;;x
+EVTDESC_WOL_401_DISTANT;I travelled far to attend this festive outing with [seduced.GetTitledFirstNameNoRegnal]. Unfortunately, half the court of [seduced.Employer.PrimaryTitle.GetName] is also here and I am having trouble getting any time alone with my amorous quarry...;;;;;;;;;;;[From.GetTitledFirstNameNoRegnal], öåëü ìîèõ ëþáîâíûõ óñòðåìëåíèé, íåñîìíåííî îáðàäóåòñÿ, åñëè ÿ, ïðèáûâ ñþäà èçäàëåêà, óñòðîþ íàì ë¸ãêóþ è âåñ¸ëóþ ïðîãóëêó. Íî, ê ñîæàëåíèþ ñåé÷àñ çäåñü ïîëîâèíà [From.Employer.PrimaryTitle.GetAdjective]ñêîãî äâîðà, è ó íàñ ïî÷òè íå áóäåò âîçìîæíîñòè óåäèíèòüñÿ...;;x
+EVTDESC_WOL_401_HOMO;I am attending a festive outing with [seduced.GetFirstName]. With half the court around as chaperones, it would normally be hard to spend any time alone with the target of my affection, but [seduced.GetFirstName] is another [Root.GetManWoman], so it should not arouse suspicion...;;;;;;;;;;;[From.GetFirstName], öåëü ìîèõ ëþáîâíûõ óñòðåìëåíèé, íåñîìíåííî îáðàäóåòñÿ, åñëè ìû âìåñòå âûáåðåìñÿ íà ë¸ãêóþ ïðîãóëêó. Ê ñîæàëåíèþ ñåé÷àñ çäåñü ïîëîâèíà äâîðà, è ó íàñ áóäåò ìàëî âîçìîæíîñòåé ïîáûòü íàåäèíå, ê òîìó æå [From.GetFirstName] - [Root.GetManWoman]à, êàê è ÿ, ýòî ìîæåò âûçâàòü íåæåëàòåëüíûå ïîäîçðåíèÿ...;;x
+EVTDESC_WOL_403;I found [From.GetBestName] sympathetic to my romantic cause. [From.GetSubjectPronounCap] and [seduced.GetFirstName] 'chanced' upon me by a nearby stream and the three of us have had a great time. I can tell [seduced.GetSubjectPronoun] is falling for me, for [seduced.GetSubjectPronoun] barely noticed [seduced.GetPossPronoun] friend leaving. I lean in to whisper in [seduced.GetPossPronoun] ear...;;;;;;;;;;;"Ïîõîæå, ÷òî [From.GetBestName] ïîääåðæèâàåò ìîè ðîìàíòè÷åñêèå óñòðåìëåíèÿ. [From.GetFirstName] è [FromFromFrom.GetFirstName] ""ñëó÷àéíî"" âñòðåòèëè ìåíÿ îêîëî ðó÷üÿ, è âñå ìû ïðåêðàñíî ïðîâåëè âðåìÿ. Äóìàþ, [FromFromFrom.GetFirstName] êî ìíå íåðîâíî äûøèò, âåäü [FromFromFrom.GetSheHe] äàæå íå çàìå÷àåò, ÷òî ìû îñòàëèñü òîëüêî âäâîåì. Óëè÷èâ ìîìåíò, ÿ íàêëîíÿþñü, ÷òîáû ïðîøåïòàòü [FromFromFrom.GetHerHim] íà óõî...";;x
+EVTDESC_WOL_404;At a festive outing in the wild, I found myself alone with [seducer.GetTitledFirstNameNoRegnal] by a stream, all my friends and servants seemingly having deserted me. Hours must have passed while I laughed and talked with the captivating [seducer.GetTitledFirstNameNoRegnal]. Suddenly, [seducer.GetSubjectPronoun] leans in and whispers softly in my ear... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;[From.GetTitledFirstNameNoRegnal] è ÿ ïðîãóëèâàëèñü íà ïðèðîäå è, îêàçàâøèñü ó ðó÷üÿ, îñòàëèñü ñîâñåì îäíè,  äðóçüÿ è ñëóãè îñòàâèëè ìåíÿ. ×àñàìè ìû ñìåÿëèñü è áîëòàëè î âñÿêèõ ïóñòÿêàõ. È âäðóã, [From.GetSubjectPronoun] íàêëîíÿåòñÿ, ÷òîáû ïðîøåïòàòü ìíå íà óõî... [Root.GetSeductionAstrologyPostScript];;x
+EVTDESC_WOL_404_CR;At a festive outing in the wild, my [seducer.GetRootRelation] [seducer.GetFirstName] and I left the main party and walked down to a nearby stream. Sitting close together on the cliffs, gossip and familial advice has turned into something else... Desire? For my own [seducer.GetRootRelation]..?! Suddenly, [seducer.GetSubjectPronoun] puts a hand on my thigh, leans over and whispers in my ear... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] è ÿ ïðîãóëèâàëèñü íà ïðèðîäå ïîñëå ïðàçäíèêà, äîøëè äî ðó÷üÿ è ðàçãîâîðèëèñü. ×àñû ñïóñòÿ, ñèäÿ ïîä óò¸ñîì è íàáëþäàÿ, êàê ìèðíî æóð÷èò âîäà, ìû çàìåòèëè, êàê ðîäñòâåííûå ÷óâñòâà ïåðåðàñòàþò â íå÷òî èíîå. Âëå÷åíèå? Íî âåäü [From.GetSheHe] - ì[From.GetOyaOy] [From.GetRootRelation]! Âíåçàïíî, [From.GetSubjectPronoun] êëàäåò ðóêó ìíå íà áåäðî è íàêëîíÿåòñÿ, ÷òîáû ïðîøåïòàòü ìíå íà óõî... [Root.GetSeductionAstrologyPostScript];;x
+EVTDESC_WOL_404_DISTANT;At a festive outing in the wild, I found myself alone by a stream with our distant visitor, [seducer.GetTitledFirstName]. My friends and servants all seem to have deserted me. Hours must have passed while I laughed and talked with the captivating [seducer.GetTitledFirstNameNoRegnal]. Suddenly, [seducer.GetSubjectPronoun] leans in and whispers softly in my ear... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;[From.GetTitledFirstName], ïðèáûâ ê íàì ïîãîñòèòü èçäàëåêà, ïðèãëàøàåò ìåíÿ ïðîãóëÿòüñÿ íà ïðèðîäå - ÿ îòâå÷àþ ñîãëàñèåì, ðàñ÷èòûâàÿ èíòåðåñíî ïðîâåñòè âðåìÿ. È âîò êîãäà ìû ïîäõîäèì ê ðó÷üþ, ÿ âèæó, ÷òî äðóçüÿ è ñëóãè îñòàâèëè ìåíÿ, ìû îñòàëèñü âäâî¸ì. ×àñàìè ìû âåñåëî áîëòàëè î âñÿêèõ ïóñòÿêàõ. È âäðóã, [From.GetSubjectPronoun] íàêëîíÿåòñÿ, ÷òîáû ïðîøåïòàòü ìíå íà óõî... [Root.GetSeductionAstrologyPostScript];;x
+EVTDESC_WOL_404_HOMO;At a festive outing in the wild, [seducer.GetTitledFirstName] and I left the main party and walked down to a nearby stream, chatting amicably. Hours later, sitting on a cliff together watching the water flow, a strange tension has grown between us. Attraction? For another [seducer.GetManWoman]..?! As we get up to leave, [seducer.GetSubjectPronoun] suddenly leans in and whispers softly in my ear... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;[From.GetTitledFirstName] è ÿ ïðîãóëèâàëèñü íà ïðèðîäå ïîñëå ïðàçäíèêà, äîøëè äî ðó÷üÿ è ðàçãîâîðèëèñü. ×àñû ñïóñòÿ, ñèäÿ ïîä óò¸ñîì è íàáëþäàÿ, êàê ìèðíî æóð÷èò âîäà, ìû çàìåòèëè ñòðàííîå ïðèòÿæåíèå ìåæäó íàìè. ×òî ýòî? Âëå÷åíèå? Íî [From.GetFirstName] - [From.GetManWoman]à! Âîò ìû óæå ñîáèðàåìñÿ óõîäèòü è âäðóã [From.GetSubjectPronoun] íàêëîíÿåòñÿ, ÷òîáû ïðîøåïòàòü ìíå íà óõî... [Root.GetSeductionAstrologyPostScript];;x
+EVTDESC_WOL_404_HOMO_NOTE;I snuck out of my tent and down to the stream. I found [seducer.GetTitledFirstNameNoRegnal] waiting, shining up when [seducer.GetSubjectPronoun] saw me. Sitting on a cliff together after hours of friendly conversation, a strange tension has grown between us. Attraction? For another [seducer.GetManWoman]..?! As we get up to leave, [seducer.GetSubjectPronoun] suddenly leans in and whispers softly in my ear... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;Âûéäÿ èç ïàëàòêè, ÿ ñðàçó íàïðàâëÿþñü ê ðó÷üþ è âèæó, êàê [From.GetTitledFirstNameNoRegnal] æä¸ò ìåíÿ òàì. ×àñû ñïóñòÿ, ñèäÿ ïîä óò¸ñîì è íàáëþäàÿ, êàê ìèðíî æóð÷èò âîäà, ìû çàìåòèëè ñòðàííîå ïðèòÿæåíèå ìåæäó íàìè. ×òî ýòî? Âëå÷åíèå? Íî [From.GetFirstName] - [From.GetManWoman]à! Âîò ìû óæå ñîáèðàåìñÿ óõîäèòü è âäðóã [From.GetSubjectPronoun] íàêëîíÿåòñÿ, ÷òîáû ïðîøåïòàòü ìíå íà óõî... [Root.GetSeductionAstrologyPostScript];;x
+EVTDESC_WOL_404_NOTE;I snuck out of my tent and down to the stream. I found [seducer.GetTitledFirstNameNoRegnal] waiting, shining up when [seducer.GetSubjectPronoun] saw me. Hours must have passed while I laughed and talked with the [GetRootFromCompliment]. Suddenly, [seducer.GetSubjectPronoun] leans in and whispers softly in my ear... [Root.GetSeductionAstrologyPostScript];;;;;;;;;;;Âûéäÿ èç ïàëàòêè, ÿ ñðàçó íàïðàâëÿþñü ê ðó÷üþ è âèæó, êàê [From.GetTitledFirstNameNoRegnal] æä¸ò ìåíÿ òàì. ×àñàìè ìû âåñåëî áîëòàëè î âñÿêèõ ïóñòÿêàõ. È âäðóã [From.GetSubjectPronoun] íàêëîíÿåòñÿ, ÷òîáû ïðîøåïòàòü ìíå íà óõî... [Root.GetSeductionAstrologyPostScript];;x
+EVTDESC_WOL_405;[seduced.GetFirstName] and I spent a long time making love in the water and on the warm cliffs above. When we returned to the main party in the evening, grinning and squeaky clean, we found they'd been looking for us. Attendants came rushing and more than a few eyebrows were raised in speculation...;;;;;;;;;;;[From.GetFirstName] è ÿ ÷óäåñíî ïðîâåëè âðåìÿ, çàíèìàÿñü ëþáîâüþ â âîäàõ ò¸ïëîãî ðó÷üÿ. Ïîçæå, êîãäà ìû âåðíóëèñü íà ïðàçäíèê, óëûáàÿñü è ñâåòÿñü îò ðàäîñòè, çàìåòèëè, êàê ëàêåè, ïîñïåøèâøèå íàñ îáñëóæèòü, óäèâë¸ííî ñìîòðÿò íà íàñ, ãàäàÿ, ãäå ìû ïðîïàäàëè...;;x
+EVTDESC_WOL_405_SIN;[seduced.GetFirstName] and I gave our souls to [Root.Religion.GetRandomEvilGodName] in the warm waters of that stream, lost in wicked sin. When we returned to the main party in the evening, grinning and squeaky clean, the servants came rushing. If only they knew... By [Root.Religion.GetRandomGodName] I hope they don't!;;;;;;;;;;;[From.GetFirstName] è ÿ ñòðàñòíî îòäàëèñü ãðåõó â âîäàõ ò¸ïëîãî ðó÷üÿ. Ïîçæå, êîãäà ìû âåðíóëèñü íà ïðàçäíèê, óëûáàÿñü è ñâåòÿñü îò ðàäîñòè, çàìåòèëè, êàê ëàêåè, ñïåøàò íàñ îáñëóæèòü, ãàäàÿ, ãäå ìû ïðîïàäàëè. Åñëè áû îíè òîëüêî çíàëè... Î, íåò, íàäåþñü îíè íå óçíàþò ýòîãî íèêîãäà!;;x
+EVTDESC_WOL_407;I asked [From.GetBestName] to help me woo [seduced.GetTitledFirstNameNoRegnal], but [From.GetSubjectPronoun] was not in the least sympathetic. In fact, I got the sense [From.GetSubjectPronoun] will be keeping an eye on me from now on...;;;;;;;;;;;Ìîè íàäåæäû íà òî, ÷òî [FromFrom.GetBestName] ïîìîæåò óñòðîèòü ñâèäàíèå, íà êîòîðîì [From.GetTitledFirstNameNoRegnal] è ÿ ñìîæåì ïîáûòü íàåäèíå, íå îïðàâäàëèñü - ïîõîæå, [FromFrom.GetSheHe] íå îäîáðÿåò ìîè ðîìàíòè÷åñêèå óñòðåìëåíèÿ. Áîëåå òîãî, î÷åâèäíî, òåïåðü [FromFrom.GetSheHe] áóäåò ñëåäèòü çà ìíîé...;;x
+EVTDESC_WOL_409;My [GetFromRelation] [From.GetBestName] has just informed me that [seducer.GetTitledName] tried to recruit [From.GetObjectPronoun] in a scheme to seduce my [seduced.GetRootRelation] [seduced.GetFirstName]!;;;;;;;;;;;Ì[FromFrom.GetOyaOy] [FromFrom.GetRootRelation] [FromFrom.GetBestName] ãîâîðèò, ÷òî [FromFromFrom.GetTitledName] ïûòàåòñÿ èñïîëüçîâàòü [FromFrom.GetHersHis] â ñâîèõ ïîäëûõ èíòðèãàõ - ñîáëàçíåíèè ìîå[From.GetYGo] [From.GetRootRelationGEN]!;;x
+EVTDESC_WOL_412;The courtier I tried to recruit to help me seduce [seduced.GetTitledFirstNameNoRegnal] was not in the least sympathetic, and has even tipped off [seduced.GetPossPronoun] [From.GetEventTarget1Relation], gaining me a new Rival!;;;;;;;;;;;"Ìîÿ çàòåÿ îáðàòèòüñÿ çà ïîìîùüþ ê ""íàä¸æíîìó"" ÷åëîâåêó ïðè äâîðå, ÷òîáû óñòðîèòü ñâèäàíèå, íà êîòîðîì ÿ è [From.GetTitledFirstNameNoRegnal] ñìîãëè áû ïîáûòü íàåäèíå, íå ïðîñòî ïðîâàëèëàñü... Âñ¸ êóäà õóæå - ýòà ïðèäâîðíàÿ ìðàçü, íàïëåâàâ íà ÷åñòü, ïðåäàëà ìåíÿ - òåïåðü [From.GetAbsPossPronoun] [FromFromFrom.GetFromVsRelation] âñ¸ çíàåò è ó ìåíÿ íîâûé âðàã!";;x
+EVTDESC_WOL_414;I spent most of the outing trying to charm [seduced.GetFirstName]'s friends, with little success. No one seemed willing to help me romance [seduced.GetObjectPronoun]...;;;;;;;;;;;Áîëüøàÿ ÷àñòü ïðîãóëêè ïðîøëà â áåñïëîäíûõ ïîïûòêàõ óñòðîèòü òàê, ÷òîáû [From.GetFirstName] è ÿ ñìîãëè ïðîâåñòè âðåìÿ íàåäèíå - [From.GetHersHis] äðóçüÿ îòêàçàëèñü ïîìî÷ü ìíå â ýòîì...;;x
+EVTDESC_WOL_415;At a festive outing in the wild, I've found myself talking a lot to [From.GetTitledFirstNameNoRegnal]. I feel strangely attracted to the [GetRootFromCompliment]!;;;;;;;;;;;Ïðîãóëêà íà ïðèðîäå áûëà ïðåêðàñíà. ß è [From.GetTitledFirstNameNoRegnal] äîëãî è íåïðèíóæäåííî áîëòàëè î âñÿõ ïóñòÿêàõ. [From.GetSheHeCap] - [GetRootFromCompliment], è ìåíÿ òÿíåò ê í[From.GetHerHim].;;x
+EVTDESC_WOL_415_DISTANT;At a festive outing in the wild, I've been talking a lot to [From.GetTitledFirstNameNoRegnal], who is currently visiting our court. I find myself quite drawn to the [GetRootFromCompliment]!;;;;;;;;;;;Ïðîãóëêà íà ïðèðîäå áûëà ïðåêðàñíà. [From.GetTitledFirstNameNoRegnal], ïðèáûâ ê íàì èçäàëåêà, âûçûâàåò âî ìíå ñòðàííûå ÷óâñòâà, ìû äîëãî è íåïðèíóæäåííî áîëòàëè, è òåïåðü ÿ ïîíèìàþ [From.GetFirstName] - [GetRootFromCompliment], [From.GetSheHe] íðàâèòñÿ ìíå.;;x
+EVTDESC_WOL_416;Despite never getting a chance to be alone with [seduced.GetTitledFirstNameNoRegnal], I do believe my winning personality has impressed [seduced.GetObjectPronoun]!;;;;;;;;;;;Íåñìîòðÿ íà áåçóñïåøíûå ïîïûòêè äîáèòüñÿ òîãî, ÷òîáû [From.GetTitledFirstNameNoRegnal] è ÿ íàêîíåö îñòàëèñü íàåäèíå, ìíå êàæåòñÿ, òåïåðü ÿ íðàâëþñü [From.GetHerHim] ÷óòü áîëüøå. Èëè ìíå ïðîñòî õî÷åòñÿ òàê äóìàòü...;;x
+EVTDESC_WOL_418;At a festive outing in the wild, I found a message surrounded by wildflowers in my tent! It says to meet [seducer.GetTitledFirstNameNoRegnal] by the stream, alone!;;;;;;;;;;;Âî âðåìÿ ïðîãóëêè íà ïðèðîäå, ÿ çàìåòèë[Root.GetEndA] íåáîëüøóþ çàïèñêó ñðåäè ïîëåâûõ öâåòîâ âîçëå ñâîåé ïàëàòêè, ýòî [FromFrom.GetTitledFirstNameNoRegnal]. [FromFrom.GetSheHeCap] ïðèãëàñèë[FromFrom.GetEndA] ìåíÿ âñòðåòèòüñÿ ó ðó÷üÿ, íàåäèíå!;;x
+EVTDESC_WOL_418_DISTANT;At a festive outing in the wild, I found a message surrounded by wildflowers in my tent! It says to meet our distant guest, [seducer.GetTitledFirstNameNoRegnal] by the stream, alone!;;;;;;;;;;;Âî âðåìÿ ïðîãóëêè íà ïðèðîäå, ÿ çàìåòèë[Root.GetEndA] íåáîëüøóþ çàïèñêó ñðåäè ïîëåâûõ öâåòîâ âîçëå ñâîåé ïàëàòêè, ýòî [FromFrom.GetTitledFirstNameNoRegnal]. Ïðèáûâ â íàøè êðàÿ èçäàëåêà, [FromFrom.GetSheHe] òåïåðü ïðèãëàñèë[FromFrom.GetEndA] ìåíÿ âñòðåòèòüñÿ ó ðó÷üÿ, íàåäèíå!;;x
+EVTDESC_WOL_419;I didn't have to wait long for [seduced.GetTitledFirstNameNoRegnal] to show up by the nearby stream. We've spent hours chatting and laughing, and I do believe [seduced.GetSubjectPronoun] is falling for me! I lean in to whisper in [seduced.GetPossPronoun] ear...;;;;;;;;;;;Ìíå íå ïðèøëîñü äîëãî æäàòü, ÷òîáû óâèäåòü êàê [From.GetTitledFirstNameNoRegnal] ïðèáëèæàåòñÿ ê ðó÷üþ. ×àñàìè ìû ñìåÿëèñü è áîëòàëè î âñÿêèõ ïóñòÿêàõ. Äóìàþ, ÿ [From.GetHerHim] íðàâëþñü. Óëè÷èâ ìîìåíò, ÿ íàêëîíÿþñü, ÷òîáû ïðîøåïòàòü [From.GetHerHim] íà óõî...;;x
+EVTDESC_WOL_420;I've waited for hours by the stream, hoping that [seduced.GetTitledFirstNameNoRegnal] would be able to shake [seduced.GetPossPronoun] friends and chaperones to meet me, but the sun is about to set. [seduced.GetSubjectPronounCap] is clearly not coming.;;;;;;;;;;;ß æäó ó ðó÷üÿ óæå íåñêîëüêî ÷àñîâ, íî íå çàìå÷àþ íèêàêèõ ïðèçíàêîâ òîãî, ÷òî [From.GetTitledFirstNameNoRegnal] ìîæåò ïîÿâèòüñÿ. Ñîëíöå óæå ñàäèòñÿ, íî [From.GetHersHis] äî ñèõ ïîð íåò. Î÷åâèäíî, [From.GetSheHe] óæå íå ïðèä¸ò...;;x
+EVTDESC_WOL_421;At a festive outing in the wild, I found a message left amidst wildflowers addressed to my [seduced.GetRootRelation] [seduced.GetFirstName] in our tent! The would-be seducer, the [GetRootFromInsult] [seducer.GetTitledFirstName], is apparently waiting for [seduced.GetObjectPronoun] nearby.;;;;;;;;;;;Âî âðåìÿ ïðîãóëêè íà ïðèðîäå, ÿ çàìå÷àþ íåáîëüøóþ çàïèñêó ñðåäè ïîëåâûõ öâåòîâ âîçëå íàøåé ïàëàòêè, î÷åâèäíî, ÷òî ì[FromFromFrom.GetOyaOy] [FromFromFrom.GetRootRelation] [FromFromFrom.GetFirstName] ñîáèðàåòñÿ íà ñâèäàíèå ðó÷üÿ! [GetRootFromFromInsult] [FromFrom.GetTitledFirstName] æä¸ò [FromFromFrom.GetHersHis] òàì!;;x
+EVTDESC_WOL_423;Alas, the message I left in [seduced.GetTitledFirstNameNoRegnal]'s tent was found by her [From.GetEventTarget1Relation] [From.GetTitledFirstNameNoRegnal]. [From.GetSubjectPronounCap] was not amused... I am lucky I was not thrown in irons, but I have certainly made an enemy!;;;;;;;;;;;Ìíå ïîêàçàëîñü, ÷òî èäåÿ ñïðÿòàòü çàïèñêó òàì, ãäå òîëüêî [From.GetTitledFirstNameNoRegnal] ñìîæåò íàéòè, áûëà óäà÷íîé, íî óâû - [From.GetHersHis] [FromFrom.GetFromVsRelation] [FromFrom.GetTitledFirstNameNoRegnal] èìååò ïðèâû÷êó ðûòüñÿ â ÷óæèõ âåùàõ! Ê ñ÷àñòüþ, ìåíÿ íå áðîñèëè â òåìíèöó, íî áåç ñîìíåíèÿ, ó ìåíÿ ïîÿâèëñÿ íîâûé âðàã...;;x
+EVTDESC_WOL_423_PRISON;Alas, the message I left in [seduced.GetTitledFirstNameNoRegnal]'s tent was found by her [From.GetEventTarget1Relation] [From.GetTitledFirstNameNoRegnal]. [From.GetSubjectPronounCap] came rushing down to the stream with six guards to arrest me!;;;;;;;;;;;Ìíå ïîêàçàëîñü, ÷òî èäåÿ ñïðÿòàòü çàïèñêó òàì, ãäå òîëüêî [From.GetTitledFirstNameNoRegnal] ñìîæåò íàéòè, áûëà óäà÷íîé, íî óâû - [From.GetHersHis] [FromFrom.GetFromVsRelation] [FromFrom.GetTitledFirstNameNoRegnal] èìååò ïðèâû÷êó ðûòüñÿ â ÷óæèõ âåùàõ! [FromFrom.GetSheHeCap] ÿâè[FromFrom.GetLasLsya] íà óñëîâëåííîå ìåñòî ê ðó÷üþ ñ ãðóïïîé èç øåñòè ñòðàæíèêîâ, è îíè àðåñòîâàëè ìåíÿ!;;x
+EVTDESC_WOL_424;At a festive outing in the wild, I found a message left amidst wildflowers addressed to my [seduced.GetRootRelation] [seduced.GetTitledFirstNameNoRegnal]. The would-be lover, [seducer.GetTitledFirstNameNoRegnal], is waiting for [seduced.GetObjectPronoun] by the stream near the camp...;;;;;;;;;;;"Âî âðåìÿ ïðîãóëêè íà ïðèðîäå, ÿ çàìåòèë[Root.GetEndA] íåáîëüøóþ çàïèñêó  ñðåäè ïîëåâûõ öâåòîâ, ðàñòóùèõ ïîâñþäó. Ïîõîæå òîò, êòî å¸ çäåñü îñòàâèë, ðàñ÷èòûâàë, ÷òî å¸ ïðî÷èòàåò ì[FromFromFrom.GetOyaOy] [FromFromFrom.GetRootRelation] [FromFromFrom.GetTitledFirstNameNoRegnal]. Ñêîðåå âñåãî ""òàèíñòâåíí[FromFrom.GetAyaYy] ïèñàòåëü[FromFrom.GetEndNitsa]"" - [FromFrom.GetTitledFirstNameNoRegnal], [FromFrom.GetSheHe] æä¸ò ó ðó÷üÿ...";;x
+EVTDESC_WOL_426;I waited by the stream for hours in vain. Back in the camp I noticed [seduced.GetFirstName]'s [From.GetEventTarget1Relation] staring at me angrily, shaking [From.GetPossPronoun] head. I guess my message was intercepted...;;;;;;;;;;;ß æäó ó ðó÷üÿ óæå íåñêîëüêî ÷àñîâ, íî íå çàìå÷àþ íèêàêèõ ïðèçíàêîâ òîãî, ÷òî [From.GetFirstName] ìîæåò ïîÿâèòüñÿ. È âäðóã íà ãîðèçîíòå ïîÿâëÿåòñÿ [From.GetHersHis] [FromFrom.GetFromVsRelation]. Ïîõîæå, [From.GetSheHe] â ÿðîñòè... Ïðîêëÿòüå! Íó ïî÷åìó âñåãäà íàõîäèòñÿ êàêàÿ-íèáóäü òâàðü, êîòîðàÿ ñó¸ò ñâîé íîñ íå â ñâî¸ äåëî?!;;x
+EVTDESC_WOL_428;I didn't have to wait long by the river until a [From.GetMaleFemale] figure showed up among the trees... But it wasn't [seduced.GetTitledFirstNameNoRegnal], but [seduced.GetPossPronoun] [seduced.GetEventTarget1Relation] [From.GetTitledFirstNameNoRegnal]! As it turns out, the [GetRootFromCompliment] is looking for a casual dalliance.;;;;;;;;;;;"Ìíå íå ïðèøëîñü äîëãî æäàòü ó ðó÷üÿ - âñêîðå êàêàÿ-òî [FromFrom.GetMaleFemale]àÿ ôèãóðà ïîêàçàëàñü íà ãîðèçîíòå... Íî ýòî... íå [From.GetTitledFirstNameNoRegnal], à [From.GetAbsPossPronoun] [FromFrom.GetFromVsRelation] [FromFrom.GetTitledFirstNameNoRegnal]! Êàê îêàçàëîñü [FromFrom.GetSheHe] íå ïðî÷ü ""ïîðàçâëå÷üñÿ"" ñî ìíîé.";;x
+EVTDESC_WOL_429;I met the amorous [seducer.GetTitledFirstNameNoRegnal] down by the river. [seducer.GetSubjectPronounCap] was surprised to see me instead of [seduced.GetTitledFirstNameNoRegnal], but it did not take much to cajole the [GetRootFromCompliment]. We spent a magical afternoon of passion in the water and under the willows.;;;;;;;;;;;Êàê è ñëåäîâàëî îæèäàòü, [From.GetTitledFirstNameNoRegnal], [GetRootFromCompliment], æäàë[From.GetEndA] ó ðó÷üÿ. [From.GetSubjectPronounCap] óäèâè[From.GetLasLsya], çàìåòèâ ìåíÿ, ðàcñ÷èòûâàÿ, ÷òî íà ìî¸ì ìåñòå áóäåò [FromFrom.GetTitledFirstNameNoRegnal], íî ÿâíî íå ïðîòèâ. Ìû ïðîâåëè ÷óäåñíûé äåíü, ïðåäàâàÿñü ñòðàñòè â ò¸ïëîé âîäå, ïîä èâàìè, ïîòîì ñíîâà â âîäå...;;x
+EVTDESC_WOL_430;I met the amorous [seducer.GetTitledFirstNameNoRegnal] down by the river. [seducer.GetSubjectPronounCap] was surprised to see me instead of [seduced.GetTitledFirstNameNoRegnal], to say the least! Unfortunately, my assets and charm were not enough to cajole the [GetRootFromInsult]!;;;;;;;;;;;Êàê è ñëåäîâàëî îæèäàòü, [From.GetTitledFirstNameNoRegnal] æäàë[From.GetEndA] ó ðó÷üÿ. [From.GetSubjectPronounCap] óäèâè[From.GetLasLsya], çàìåòèâ ìåíÿ, ðàñ÷èòûâàÿ, ÷òî íà ìî¸ì ìåñòå áóäåò [FromFrom.GetTitledFirstNameNoRegnal]. Ìîè, ìÿãêî ãîâîðÿ, ñàìûå íåñêðîìíûå ïîïûòêè ñîáëàçíèòü [From.GetHersHis] íè ê ÷åìó íå ïðèâåëè, [From.GetInsultAdjective] [GetRootFromInsultNoun] íå õî÷åò äåëàòü ýòî ñî ìíîé!;;x
+EVTDESC_WOL_431;Arm in arm, [seduced.GetFirstName] and I wandered off to a nearby stream. We have laughed and shared confidences for an hour at least. This is the moment of truth... Is [seduced.GetSubjectPronoun] ready to fall for another [seduced.GetManWoman]? I lean in to whisper in [seduced.GetPossPronoun] ear...;;;;;;;;;;;Äåðæàñü çà ðóêè, [FromFrom.GetFirstName] è ÿ, âìåñòå áðîäèëè âäîëü ðó÷üÿ. Ìû ñìåÿëèñü è äåëèëèñü ñåêðåòàìè, ýòî äëèëîñü ÷àñàìè. Âîò îí, ìîìåíò èñòèíû... Ìîæåò ëè [FromFrom.GetManWoman]à óâëå÷ü [FromFrom.GetHersHis]? Ñëåãêà íàêëîíèâøèñü, ÿ ïðîøåïòàë[Root.GetEndA] [FromFrom.GetHerHim] íà óõî...;;x
+EVTDESC_WOL_431_CR;Arm in arm, [seduced.GetFirstName] and I wandered off to a nearby stream. We have laughed and shared confidences for hours. In a companionable moment of silence, I decide to reveal the most terrible secret of all - my true feelings for [seduced.GetObjectPronoun]. I lean in to whisper in [seduced.GetPossPronoun] ear...;;;;;;;;;;;Äåðæàñü çà ðóêè, [FromFrom.GetFirstName] è ÿ, âìåñòå áðîäèëè âäîëü ðó÷üÿ. Ìû ñìåÿëèñü è äåëèëèñü ñåêðåòàìè, ýòî äëèëîñü ÷àñàìè. È âîò, â ìîìåíò áëèçîñòè è ìîë÷àíèÿ ÿ ðåøèë[Root.GetEndA] ðàñêðûòü ñàìóþ ñòðàøíóþ èç òàéí - ìîè èñòèííûå ÷óâñòâà ê í[FromFrom.GetHerHim]. Ñëåãêà íàêëîíèâøèñü, ÿ ïðîøåïòàë[Root.GetEndA] [FromFrom.GetHerHim] íà óõî...;;x
+EVTDESC_WOL_500;My confessor, [target_priest.GetTitledName] is such an attractive [target_priest.GetManWoman]! I've applied my ample charms and can tell [target_priest.GetSubjectPronoun] is thinking of other things than [target_priest.Religion.GetRandomGodName]!;;;;;;;;;;;Ìîé äóõîâíèê [target_priest.GetTitledFirstName] áóäèò âî ìíå æèâîòíóþ ñòðàñòü! ß ìîãó îáîëüñòèòü [target_priest.GetHersHis] è ïîêàçàòü, ÷òî â ýòîì ìèðå åñòü íå òîëüêî [target_priest.Religion.GetRandomGodName].;;x
+EVTDESC_WOL_520;Recently, I have amused myself with seducing a handsome young guard. He follows me around like a puppy now... a very big, muscular puppy!;;;;;;;;;;;Íåäàâíî ìíå äîâåëîñü çàáàâëÿòüñÿ ñîáëàçíåíèåì ïðåêðàñíîãî ìîëîäîãî ñòðàæíèêà. Òåïåðü áåãàåò çà ìíîé, êàê ùåíîê... îãðîìíûé ìóñêóëèñòûé ùåíîê!;;x
+EVTDESC_WOL_530;I've had my eye on a feisty young scullery maid with huge... intellect for some time now. Though she skillfully dodges the attentions of every boy and greybeard at court, I have her blushing furiously whenever I gaze into her eyes. Seduced and wrapped around my finger, this sharp lass could be very useful...;;;;;;;;;;;Âû òîëüêî ïîñìîòðèòå... Íîâàÿ ñëóæàíêà - êàêèå áîëüøèå... ãëàçà. Óìåëî óêëîíÿåòñÿ îò ïîñòîðîííèõ âçãëÿäîâ, íî òàê êðàñíååò ãëÿäÿ ìíå â ãëàçà - îíà ÿâíî ìåíÿ õî÷åò. Ýòà äåâî÷êà ìîæåò áûòü ïîëåçíà...;;x
+EVTDESC_WOL_560;I see her flit past out of the corner of my eye, naked and red-haired, giggling - the nymph who lives in the garden. Always teasing me, never showing herself clearly. What must I do to win her heart?;;;;;;;;;;;ß âèæó å¸ ìèìîë¸òíîå ìåëüêàíèå, ñêðûâàþùååñÿ îò ìîèõ ãëàç. Ãîëàÿ, ðûæàÿ, õèõèêàþùàÿ - íèìôà, æèâóùàÿ â ñàäó. Îíà äðàçíèò ìåíÿ, íî íèêîãäà íå ïîêàçûâàåòñÿ ïîëíîñòüþ. Êàê æå ÿ ìîãó çàâîåâàòü å¸ ñåðäöå?;;x
+EVTDESC_WOL_561;When I staggered out of the rose bush hours had passed, my head filled with carnal but vague memories. I am bleeding all over from the cruel thorns. The voluptuous dryad has exacted her price...;;;;;;;;;;;Ìíîãî ÷àñîâ ñïóñòÿ, ÿ øàòàÿñü âûáèðàþñü èç ðîçîâîãî êóñòà. Ìåíÿ ïåðåïîëíÿþò ñìóòíûå ïëîòñêèå âîñïîìèíàíèÿ. Ïîâñþäó øèïû è êðîâü. Î, ñëàäîñòðàñòíàÿ äðèàäà! Íî÷ü ñ òîáîé èìååò ñâîþ öåíó...;;x
+EVTDESC_WOL_562;Today the servants found a newborn baby in a basket under the magical rose bush of my dryad lover!;;;;;;;;;;;Ñåãîäíÿ ñëóãè íàøëè íîâîðîæä¸ííîãî â êîðçèíêå âîçëå âîëøåáíîãî êóñòà ìîåé âîçëþáëåííîé äðèàäû!;;x
+EVTDESC_WOL_570;The centaur beckons to me, massive muscles flexing. I have never seen anything more masculine in my life!;;;;;;;;;;;Îí ìàíèò ìåíÿ ê ñåáå - âîò ýòî ìóñêóëû, íèêîãäà íå äîâîäèëîñü âñòðåòèòü ñòîëü ìóæåñòâåííåãî... êåíòàâðà!;;x
+EVTDESC_WOL_571;I came to in a state of bliss, mind filled with foggy images of the stunningly handsome centaur and our night of passion.;;;;;;;;;;;Êàêîå áëàæåíñòâî! Ìåíÿ ïåðåïîëíÿþò ñìóòíûå îáðàçû ïîòðÿñàþùå ïðåêðàñíîãî êåíòàâðà è íàøåé ñòðàñòíîé íî÷è.;;x
+EVTDESC_WOL_580;The misery of my captivity is only broken when I get to apply my charms on the gaoler. I can tell the ugly lout desires me... perhaps I can exploit his weakness to escape?;;;;;;;;;;;Ñòðàäàíèÿ ìîåãî ïëåíà ïðåðûâàþòñÿ òîëüêî, êîãäà ÿ ïðèìåíÿþ ñâîþ ÷àðû íà òþðåìùèêå. Ìîãó óâåðåííî ñêàçàòü, ýòîò óðîäëèâûé áîëâàí õî÷åò ìåíÿ... Âîçìîæíî, ñòîèò âîñïîëüçîâàòüñÿ åãî ñëàáîñòüþ, ÷òîáû ñáåæàòü.;;x
+EVTDESC_WOL_581;The gaoler unlocked the cell and entered, leering. As he started to fondle me, I suggested heading to a more romantic location. He burst out laughing, slapped me on the rump and left, snickering scornfully.;;;;;;;;;;;Îòêðûâ êàìåðó, âîæäåëåþùèé òþðåìùèê ïîäîø¸ë êî ìíå. Êîãäà îí íà÷àë ëàñêàòü ìåíÿ, ÿ ïðåäëîæèëà çàíÿòüñÿ ýòèì â áîëåå ïðèÿòíîì ìåñòå. Îí ëèøü çàðæàë, êàê êîíü è øë¸ïíóâ ìåíÿ ïî çàäíèöå, óø¸ë ïðî÷ü.;;x
+EVTDESC_WOL_582;My prisoner, [From.GetTitledName], attempted to use her female charms on the gaoler to escape. Fortunately, he did not fall for her wiles.;;;;;;;;;;;Ìîÿ çàêëþ÷¸ííàÿ [From.GetTitledFirstName] ïûòàëàñü èñïîëüçîâàòü ñâîè æåíñêèå ÷àðû íà òþðåìùèêå, ÷òîáû ñáåæàòü. Ê ñ÷àñòüþ, îí íå ïîääàëñÿ å¸ óëîâêàì.;;x
+EVTDESC_WOL_583;[From.GetTitledFirstNameNoRegnal] was so impressed by my initiative with the gaoler that [From.GetSubjectPronoun] personally escorted me out of the dungeon to better accomodations. It should be easier to escape from here...;;;;;;;;;;;[From.GetTitledFirstNameNoRegnal] ïîä âïå÷àòëåíèåì îò ìîåé ïîïûòêè ñîáëàçíèòü òþðåìùèêà, è òåïåðü [From.GetSubjectPronoun] ëè÷íî ïðîâîæàåò ìåíÿ èç òåìíèöû â óäîáíóþ êîìíàòó. Îòòóäà áóäåò íàìíîãî ïðîùå ñáåæàòü...;;x
+EVTDESC_WOL_584;When my captor [From.GetTitledFirstNameNoRegnal] learned of my seduction attempt, [From.GetSubjectPronoun] had me thrown in the Oubliette!;;;;;;;;;;;[From.GetTitledFirstNameNoRegnal] óçíàâ î ìîèõ ïîïûòêàõ ñîáëàçíåíèÿ òþðåìùèêà, îòäà¸ò ïðèêàç áðîñèòü ìåíÿ â ïîäçåìåëüå!;;x
+EVTDESC_WOL_585;The gaoler unlocked the cell and entered, leering. As he started to fondle me, I suggested heading to a more romantic location. He eagerly snuck me past a few other guards to his own cot, where I had to do things I am not proud of... Then I bashed him on the head with a heavy jug, grabbed his keys and clothes and made my escape!;;;;;;;;;;;Îòêðûâ êàìåðó, âîæäåëåþùèé òþðåìùèê ïîäîø¸ë êî ìíå. Êîãäà îí íà÷àë ëàñêàòü ìåíÿ, ÿ ïðåäëîæèëà çàíÿòüñÿ ýòèì â áîëåå ïðèÿòíîì ìåñòå. Îí îõîòíî ïðîâ¸ë ìåíÿ ìèìî äðóãèõ ñòðàæíèêîâ â ñâîþ êîìíàòó, ãäå ÿ äîëæíà áûëà ñäåëàòü òî, ÷åì íå ãîðæóñü... Ñòóêíóâ åãî ïî ãîëîâå êóâøèíîì, ÿ âçÿëà êëþ÷è, îäåæäó è ñáåæàëà!;;x
+EVTDESC_WOL_586;My chief gaoler was seduced by my prisoner, the wily [From.GetTitledName]. He took her to his cot where she bashed him on the head with a wine jug and managed to make her escape!;;;;;;;;;;;Ìîåãî òþðåìùèêà ñîáëàçíèëà ïëåííèöà, õèòðàÿ [From.GetTitledFirstName]. Îí âçÿë å¸ â ñâîþ êîìíàòó, ãäå îíà øàðàõíóëà åãî ïî ãîëîâå êóâøèíîì âèíà è ñáåæàëà!;;x
+EVTDESC_WOL_590;My [target_consort.GetConcubineConsort], [target_consort.GetTitledFirstNameNoRegnal], does not love me. While love is not exactly necessary, I'd still like to see [target_consort.GetHerHis] beautiful face light up with smiles and laughter... so I've decided to romance [target_consort.GetHerHim]!;;;;;;;;;;;Ìîÿ íàëîæíèöà [target_consort.GetTitledFirstNameNoRegnal], ìåíÿ ÿâíî íåäîëþáëèâàåò. Ëþáîâü, êîíå÷íî, â ýòîì äåëå - ëèøíåå, íî õîòåëîñü áû óâèäåòü õîòü íåìíîãî ðàäîñòè íà å¸ ëèöå.;;x
+# EVTDESC_WOL_590_MALE;My consort, [target_consort.GetTitledFirstNameNoRegnal], does not love me. While love is not exactly necessary, I'd still like to see his charming face light up with smiles and laughter... so I've decided to romance him!;;;;;;;;;;;Ì[target_consort.GetOyaOy] íàëîæíè[target_consort.GetTsaK] [target_consort.GetTitledFirstNameNoRegnal], ìåíÿ ÿâíî íåäîëþáëèâàåò. Ëþáîâü, êîíå÷íî, â ýòîì äåëå - ëèøíåå, íî õîòåëîñü áû óâèäåòü õîòü íåìíîãî ðàäîñòè íà [target_consort.GetHersHis] ëèöå.;;x
+EVTDESC_WOL_592;I did get my [GetFromRelation] [From.GetFirstName] to laugh today, as I told [From.GetHerHim] a silly joke about two squirrels. I think [From.GetSheHe] is warming up to me...;;;;;;;;;;;Ñåãîäíÿ ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] çàñìåÿëàñü, êîãäà ÿ ðàññêàçàë ãëóïóþ øóòêó ïðî áåëîê. Äóìàþ, îíà óæå íå ñòîëü õîëîäíà, êàê ïðåæäå...;;x
+EVTDESC_WOL_592_B;I can tell my [GetFromRelation] [From.GetFirstName] is finally falling in love with me. [From.GetSheHeCap] snuggled up to me as we watched the sunset together from the roof of the great tower.;;;;;;;;;;;Ïîæàëóé óæå ìîæíî ñêàçàòü, ÷òî ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] âëþáëåíà â ìåíÿ. Ñåãîäíÿ, îíà ïðèæàëàñü êî ìíå, êîãäà ìû íàáëþäàëè çàêàò ñ êðûøè áàøíè.;;x
+EVTDESC_WOL_593;Thanks to my romantic efforts, sweet [From.GetFirstName], my [GetFromRelation], has also become my lover. It feels great to be rid of the cold awkwardness around [From.GetHerHim]!;;;;;;;;;;;Áëàãîäàðÿ ïðåäïðèíÿòûì óñèëèÿì, ì[From.GetOyaOy] ìèë[From.GetAyaYy] [From.GetRootRelation] [From.GetFirstName] òåïåðü ì[From.GetOyaOy] ëþáîâíè[From.GetTsaK]. Êàê æå õîðîøî èçáàâèòüñÿ îò íåëîâêîñòè â îòíîøåíèÿõ ñ í[From.GetEyIm].;;x
+EVTDESC_WOL_594;Today, [From.GetFirstName], my [GetFromRelation], confessed that [From.GetSheHe] has forgiven me for [From.GetHerHis] abduction. [From.GetSheHeCap] has grown to like [From.GetHerHim] new life in [Root.Capital.Capital.GetName]... and me.;;;;;;;;;;;Ñåãîäíÿ [From.GetFirstName], ì[From.GetOyaOy] [From.GetRootRelation], ïðèçíà[From.GetLasLsya], ÷òî ïðîñòèë[From.GetEndA] ìåíÿ çà ñâî¸ ïîõèùåíèå, ÷òî [Root.Capital.Capital.GetName] òåïåðü [From.GetHersHis] íîâûé äîì, è [From.GetHerHim] íðàâèòñÿ áûòü ñî ìíîé.;;x
+EVTDESC_WOL_595;My [GetFromRelation] [From.GetFirstName] is not warming up to me at all. [From.GetSheHeCap] laughs at my jokes, true, but not because [From.GetSheHe] finds them funny, but with scorn. [From.GetSheHeCap] told me outright that [From.GetSheHe] despises me!;;;;;;;;;;;Ì[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] ïî-ïðåæíåìó õîëîä[From.GetNaEn] êî ìíå. Äà, [From.GetSheHe] ñìååòñÿ íà ìîèìè øóòêàìè, íî òîëüêî äëÿ âèäà. À ñåãîäíÿ [From.GetSheHe] ñêàçàë[From.GetEndA] ìíå ïðÿìî, ÷òî íåíàâèäèò ìåíÿ.;;x
+EVTOPTA_WOL_55;Scandalous! They must be exposed!;;;;;;;;;;;Âîçìóòèòåëüíî! Âñå äîëæíû óçíàòü îá ýòîì!;;x
+EVTOPTA_WOL_55_UNHOLY;Unholy sinners! They must be exposed!;;;;;;;;;;;Íå÷åñòèâöû! Îá ýòîì äîëæíû çíàòü âñå!;;x
+EVTOPTA_WOL_56;The [GetRootFromInsult]! I'll pay...;;;;;;;;;;;Àõ òû [From.GetInsultAdjective] [GetRootFromInsultNoun]! Òàê è áûòü, çàïëà÷ó...;;x
+EVTOPTA_WOL_57;Snooping can be so rewarding!;;;;;;;;;;;Ñëåæêà ìîæåò áûòü âåñüìà ïîëåçíîé!;;x
+EVTOPTA_WOL_59;Very well. I will enjoy this!;;;;;;;;;;;Ñ óäîâîëüñòâèåì!;;x
+EVTOPTA_WOL_60_F;Poor [seduced.GetFirstName]. I didn't mean to hurt [seduced.GetObjectPronoun].;;;;;;;;;;;Î, ì[FromFrom.GetOyaOy] áåäíàÿ [FromFrom.GetFirstName], ìíå òàê æàëü.;;x
+EVTOPTA_WOL_60_M;Ah well. It is the Middle Ages!;;;;;;;;;;;Íó ÷òî çà âðåìåíà, íèêàêîé ëè÷íîé æèçíè!;;x
+EVTOPTA_WOL_61_F;I am ruined!;;;;;;;;;;;Ìîÿ æèçíü ðàçðóøåíà!;;x
+EVTOPTA_WOL_62;My heart is broken!;;;;;;;;;;;Ìî¸ ñåðäöå ðàçáèòî!;;x
+EVTOPTA_WOL_62_CR;[seducer.GetSubjectPronounCap] cheated with [seducer.GetPossPronoun] own [seducer.GetEventTarget1Relation]!?;;;;;;;;;;;Íî âåäü ýòî [From.GetHersHis] [FromFromFrom.GetFromVsRelation]!;;x
+EVTOPTA_WOL_63_CR;[seduced.GetSubjectPronounCap] cheated with [seduced.GetPossPronoun] own [seduced.GetEventTarget1Relation]!?;;;;;;;;;;;Íî âåäü ýòî [From.GetHersHis] [FromFrom.GetFromVsRelation]!;;x
+EVTOPTA_WOL_81;I've learned a thing or two about Intrigue!;;;;;;;;;;;Ýòî õîðîøèé óðîê êîâàðñòâà.;;x
+EVTOPTA_WOL_99;Move over Cleopatra!;;;;;;;;;;;Ïîäâèíüñÿ, Êëåîïàòðà!;;x
+EVTOPTA_WOL_99_PERS;Move over Scheherazade!;;;;;;;;;;;Ïîäâèíüñÿ, Øåõåðåçàäà!;;x
+EVTOPTA_WOL_100;[seduced.GetSubjectPronounCap] will be mine!;;;;;;;;;;;Òû áóäåøü ìî[From.GetEyIm]!;;x
+EVTOPTA_WOL_101;But I love wrinkles!;;;;;;;;;;;Íî ÿ ëþáëþ ìîðùèíû!;;x
+EVTOPTA_WOL_102;The risk makes it even more exciting!;;;;;;;;;;;Ýòîò ðèñê ëèøü ðàñïàëÿåò ìåíÿ åù¸ áîëüøå!;;x
+EVTOPTA_WOL_103;It will be worth it!;;;;;;;;;;;Îíî òîãî ñòîèò!;;x
+EVTOPTA_WOL_104;With pride!;;;;;;;;;;;Äà, ÿ ñäåëàþ ýòî!;;x
+EVTOPTA_WOL_111;Well, there are more fish in the sea!;;;;;;;;;;;Â ìîðå åù¸ ìíîãî ðûáû.;;x
+EVTOPTA_WOL_112;I shall have get my thrills elsewhere;;;;;;;;;;;Ïîèùó äðóãîé èñòî÷íèê âïå÷àòëåíèé.;;x
+EVTOPTA_WOL_113;Seducing a vegetable is no challenge!;;;;;;;;;;;Íåò ñìûñëà ñîáëàçíÿòü îâîù.;;x
+EVTOPTA_WOL_114;[seduced.GetSubjectPronounCap] is mine anyway;;;;;;;;;;;[FromFromFrom.GetSubjectPronounCap] ì[FromFromFrom.GetOyaOy] â ëþáîì ñëó÷àå.;;x
+EVTOPTA_WOL_115;I should give up... for now.;;;;;;;;;;;Ïîðà ïðèçíàòü... ýòî áåçíàä¸æíî.;;x
+EVTOPTA_WOL_119;Moving on.;;;;;;;;;;;Ïîðà äâèãàòüñÿ äàëüøå.;;x
+EVTOPTA_WOL_120;So be it.;;;;;;;;;;;×òî æ, òàê òîìó è áûòü.;;x
+EVTOPTA_WOL_200;Oh, how romantic!;;;;;;;;;;;Êàê ðîìàíòè÷íî!;;x
+EVTOPTA_WOL_201;Oho! Time to up the ante?;;;;;;;;;;;Ïîðà ïîäíÿòü ñòàâêè!;;x
+EVTOPTA_WOL_202;I won't give up just yet;;;;;;;;;;;ß òàê ïðîñòî íå ñäàìñÿ.;;x
+EVTOPTA_WOL_203;A temporary setback!;;;;;;;;;;;Âðåìåííàÿ íåóäà÷à!;;x
+EVTOPTA_WOL_210;How romantic!;;;;;;;;;;;Êàê ðîìàíòè÷íî!;;x
+EVTOPTA_WOL_211;Pretty clear symbolism, I'd say!;;;;;;;;;;;Ñèìâîëèçì ïðåäåëüíî ÿñåí!;;x
+EVTOPTA_WOL_212;It could have been worse!;;;;;;;;;;;Ìîãëî áûòü è õóæå.;;x
+EVTOPTA_WOL_213;[seduced.GetSubjectPronounCap] is feisty! I love a good challenge!;;;;;;;;;;;Âîò ýòî ïðûòü! Ëþáëþ ñóðîâûå èñïûòàíèÿ!;;x
+EVTOPTA_WOL_220;How flattering!;;;;;;;;;;;Êàê ëåñòíî!;;x
+EVTOPTA_WOL_221;Hah! I shall have [seduced.GetObjectPronoun]!;;;;;;;;;;;Õà! Òåïåðü òû ì[From.GetOyaOy]!;;x
+EVTOPTA_WOL_222;I need another tactic.;;;;;;;;;;;Ìíå íóæåí íîâûé ïëàí.;;x
+EVTOPTA_WOL_223;Ingenious, but I won't give up so easily!;;;;;;;;;;;Ãåíèàëüíî, íî ÿ òàê ëåãêî íå ñäàìñÿ!;;x
+EVTOPTA_WOL_300;Say something clever!;;;;;;;;;;;*Òàê, ñîáåðèñü! Ïîðà ñêàçàòü, ÷òî-íèáóäü óìíîå.*;;x
+EVTOPTA_WOL_300_CR;Delicious sin! Lower my hands just a fraction...;;;;;;;;;;;*Êàê ýòî çàâîäèò! Îïóùó ðóêè íåìíîãî... ïîíèæå.*;;x
+EVTOPTA_WOL_300_F;Show [seducer.GetObjectPronoun] some cleavage...;;;;;;;;;;;*Ïîðà ïðèîòêðûòü äåêîëüòå...*;;x
+EVTOPTA_WOL_301;Mead in my room, [seduced.GetMilordMilady]?;;;;;;;;;;;Âûïüåì, ì[From.GetMilordMilady]? Â ì[Root.GetMyChamberPREP] áóäåò óþòíåå.;;x
+EVTOPTA_WOL_302;I need more practice;;;;;;;;;;;Íóæíî áîëüøå ïðàêòèêè.;;x
+EVTOPTA_WOL_303;Sweet temptation, yes!;;;;;;;;;;;Òàê ïîñïåøèì æå!;;x
+EVTOPTA_WOL_304;I must have [seducer.GetObjectPronoun]!;;;;;;;;;;;È ìû áóäåì âìåñòå âî ÷òî áû òî íè ñòàëî!;;x
+EVTOPTA_WOL_305;What did I do?;;;;;;;;;;;×òî íå òàê?!;;x
+EVTOPTA_WOL_306;Vidi, Vici, Veni;;;;;;;;;;;Veni, vidi, vici;;x
+EVTOPTA_WOL_306_CUSTOM;Love [seduced.GetObjectPronoun] and leave [seduced.GetObjectPronoun].;;;;;;;;;;;Ïîìàòðîñèòü è áðîñèòü.;;x
+EVTOPTA_WOL_307;The virtue is strong in this one...;;;;;;;;;;;Äîáðîäåòåëü - [From.GetHersHis] ñèëüíàÿ ñòîðîíà...;;x
+EVTOPTA_WOL_308;Hah. The prey is feisty!;;;;;;;;;;;Õà! [From.GetSubjectPronounCap] ïîêàçûâàåò çóáû!;;x
+EVTOPTA_WOL_351;Confess my love;;;;;;;;;;;Ëþáîâíîå ïðèçíàíèå;;x
+EVTOPTA_WOL_352_ASTROLOGY_compatible;I know, I have thought about it too!;;;;;;;;;;;Äà, ÿ òîæå îá ýòîì äóìàë[Root.GetEndA].;;x
+EVTOPTA_WOL_352_ASTROLOGY_compatible_TT;The [seduced.GetWesternZodiacSign] do go well with [seducer.GetWesternZodiacSign].\n;;;;;;;;;;;[Root.GetWesternZodiacSign] è [From.GetWesternZodiacSign] ïîäõîäÿò äðóã äðóãó.\n;;x
+EVTOPTA_WOL_352_ASTROLOGY_mismatch;That's sweet, but I think you've read your charts wrong. No, I don't mind!;;;;;;;;;;;Êàæåòñÿ, Âû îøèáëèñü, õîòÿ... â ïåêëî ãîðîñêîïû!;;x
+EVTOPTA_WOL_352_ASTROLOGY_mismatch_TT;You let the inaccuracy of the comment slide, as there are no TRULY incompatible signs...\n;;;;;;;;;;;Ïîçâîëèòü íåòî÷íîñòü â êîììåíòàðèè, ïîñêîëüêó ñîâåðøåííî íåñîâìåñòèìûõ çíàêîâ íå áûâàåò...\n;;x
+EVTOPTA_WOL_352_BREATH;[From.GetPossPronounCap] hot breath sends lightning through my body!;;;;;;;;;;;[From.GetAbsPossPronounCap] äûõàíèå... òàê âîçáóæäàåò!;;x
+EVTOPTA_WOL_352_LEWD;Such a dirty mind, [seducer.GetFirstName]! Come then, let's commit a few sins...;;;;;;;;;;;Êàê ðàçâðàòíî, äàâàé æå ñäåëàåì ýòî!;;x
+EVTOPTA_WOL_352_LOVE;Such sweet words of love! How can my heart resist?;;;;;;;;;;;Ïðåêðàñíûå ñëîâà î ëþáâè, êàê ýòî ìèëî!;;x
+EVTOPTA_WOL_352_POET;Such learning! I cannot resist poetry...;;;;;;;;;;;Êàê ýòî ïðåêðàñíî, îáîæàþ ïîýçèþ!;;x
+EVTOPTA_WOL_401;Seek an ally among [seduced.GetPossPronoun] friends;;;;;;;;;;;Âåðîÿòíî, [From.GetAbsPossPronoun] äðóçüÿ ïîìîãóò íàì.;;x
+EVTOPTA_WOL_407;I should have left [seduced.GetFirstName] a note instead!;;;;;;;;;;;[From.GetFirstName] âñ¸ ðàâíî ïîëó÷èò ìîþ çàïèñêó!;;x
+EVTOPTA_WOL_409_F;That wanton trollop!;;;;;;;;;;;Ãðÿçíàÿ øëþõà!;;x
+EVTOPTA_WOL_409_F_OLD;That lascivious old witch!;;;;;;;;;;;Ïîõîòëèâàÿ ñòàðóõà!;;x
+EVTOPTA_WOL_409_M;That randy goat!;;;;;;;;;;;Ïîõîòëèâûé ìåðçàâåö!;;x
+EVTOPTA_WOL_409_M_OLD;That randy old goat!;;;;;;;;;;;Ïîõîòëèâûé ñòàðûé êîç¸ë!;;x
+EVTOPTA_WOL_414;I don't give up that easily!;;;;;;;;;;;Íî ÿ òàê ïðîñòî íå ñäàìñÿ!;;x
+EVTOPTA_WOL_415;I have butterflies in my stomach!;;;;;;;;;;;Êàæåòñÿ, ÿ âëþáëÿþñü!;;x
+EVTOPTA_WOL_416;I need a new plan!;;;;;;;;;;;Íóæåí íîâûé ïëàí!;;x
+EVTOPTA_WOL_418_F;How exciting! My maid can cover for me.;;;;;;;;;;;Êàê ìèëî! Ñëóæàíêà ïðèêðîåò ìåíÿ.;;x
+EVTOPTA_WOL_418_M;How exciting! My friends can cover for me.;;;;;;;;;;;Îòëè÷íî! Äðóçüÿ ìåíÿ ïðèêðîþò.;;x
+EVTOPTA_WOL_423;I like high stakes games!;;;;;;;;;;;×òî æ, ÿ ëþáëþ ïîäíèìàòü ñòàâêè!;;x
+EVTOPTA_WOL_423_PRISON;Curses! I will try again when I get out!;;;;;;;;;;;Îêîâû ìåíÿ íå îñòàíîâÿò! ß íå ñäàìñÿ!;;x
+EVTOPTA_WOL_428;I think I can help...;;;;;;;;;;;À ïî÷åìó áû è íåò?;;x
+EVTOPTA_WOL_429;I needed that!;;;;;;;;;;;Õîðîøî-òî êàê! Ìíå íå õâàòàëî ýòîãî...;;x
+EVTOPTA_WOL_430;[seducer.GetSubjectPronounCap] will regret this!;;;;;;;;;;;[From.GetSubjectPronounCap] åù¸ ïîæàëååò îá ýòîì!;;x
+EVTOPTA_WOL_500;Give [target_priest.GetObjectPronoun] a taste of what [target_priest.GetSubjectPronoun] is missing!;;;;;;;;;;;Äà ïîçíàåò [target_priest.GetSheHe] âêóñ [Root.GetMaleFemale]îé ïëîòè!;;x
+EVTOPTA_WOL_520;Make him a squire and keep him as my lover...;;;;;;;;;;;Êàæåòñÿ, ó ìåíÿ ïîÿâèëñÿ îðóæåíîñåö è... ëþáîâíèê.;;x
+EVTOPTA_WOL_530;Make her a lady and keep her as my mistress...;;;;;;;;;;;Åé ñàìîå ìåñòî ïðè äâîðå. Â ìîåé ïîñòåëè.;;x
+EVTOPTA_WOL_560;The magnificent old rose bush! She must be its spirit.;;;;;;;;;;;×óäåñíûé ðîçîâûé êóñò. Äîëæíî áûòü, ýòî åãî äóõ!;;x
+EVTOPTA_WOL_561;Will I ever see her again?;;;;;;;;;;;Óâèæó ëè ÿ å¸ ñíîâà?;;x
+EVTOPTA_WOL_562;Proclaim that little [target_baby.GetFirstName] is my [target_baby.GetSonDaughter]!;;;;;;;;;;;Ñèì çàÿâëÿþ, [target_baby.GetFirstName] - ì[target_baby.GetOyaOy] [target_baby.GetSonDaughter]!;;x
+EVTOPTA_WOL_570;I am overcome by his musky scent.;;;;;;;;;;;Î, ýòîò âîçáóæäàþùèé çàïàõ!;;x
+EVTOPTA_WOL_571;Will I ever see him again?;;;;;;;;;;;Óâèæó ëè ÿ åãî ñíîâà?;;x
+EVTOPTA_WOL_580;Come here, handsome!';;;;;;;;;;;Ýé, êðàñàâ÷èê, ïîäîéäè-êà ñþäà!;;x
+EVTOPTA_WOL_581;I am sure his [Root.Host.GetMasterMistress], [Root.Host.GetTitledFirstNameNoRegnal], will hear of this...;;;;;;;;;;;Åãî [Root.Host.GetLordLady] [Root.Host.GetTitledFirstNameNoRegnal] îá ýòîì óçíàåò.;;x
+EVTOPTA_WOL_582;Spunky! I say she has earned better quarters.;;;;;;;;;;;Ñìåëî! Îíà ÿâíî çàñëóæèëà ëó÷øåé ó÷àñòè.;;x
+EVTOPTA_WOL_583;I am grateful.;;;;;;;;;;;Áëàãîäàðþ Âàñ, [From.PrimaryTitle.GetFOA]!;;x
+EVTOPTA_WOL_584;The [GetRootFromInsult]! I will die in this hole...;;;;;;;;;;;[GetRootFromInsult]! ß ñäîõíó â ýòîé äûðå...;;x
+EVTOPTA_WOL_585;Freedom!;;;;;;;;;;;Ñâîáîäà!;;x
+EVTOPTA_WOL_586;Throw the idiot in the Oubliette!;;;;;;;;;;;Áðîñüòå èäèîòà â ïîäçåìåëüå!;;x
+EVTOPTA_WOL_590;Turn on the charm;;;;;;;;;;;Ðåøåíî, ÿ äîëæåí å¸ î÷àðîâàòü!;;x
+EVTOPTA_WOL_592;Good, that gladdens me!;;;;;;;;;;;×òî æ, ýòî ðàäóåò!;;x
+EVTOPTA_WOL_593;Finally!;;;;;;;;;;;Íàêîíåö-òî!;;x
+EVTOPTA_WOL_594;I am relieved!;;;;;;;;;;;Êàêîå îáëåã÷åíèå. ß ðàä[Root.GetEndA]!;;x
+EVTOPTA_WOL_595;I'll just have to keep at it!;;;;;;;;;;;ß ïðîñòî òàê íå îòñòóïëþ!;;x
+EVTOPTB_WOL_55;The flesh is weak. Forgive and forget.;;;;;;;;;;;Ïëîòü ñëàáà. Íàäî ïðîñòèòü è çàáûòü.;;x
+EVTOPTB_WOL_56;I'd rather suffer the scandal!;;;;;;;;;;;Ðàññêàæè âñåì, ìíå ïëåâàòü!;;x
+EVTOPTB_WOL_59;It was worth a try, but I'm not that cruel.;;;;;;;;;;;Ïîïðîáîâàòü ñòîèëî, íî ýòî ñëèøêîì æåñòîêî.;;x
+EVTOPTB_WOL_99;I can hardly resist myself!;;;;;;;;;;;Ïåðåäî ìíîé íå óñòîÿòü!;;x
+EVTOPTB_WOL_101;But [seduced.GetSubjectPronoun]'s such a little morsel!;;;;;;;;;;;Êàê æå ìîæíî îòêàçàòüñÿ îò ñòîëü ìèëåíüêîãî ñóùåñòâà!;;x
+EVTOPTB_WOL_102;On second thought, I'm no deviant.;;;;;;;;;;;Ñ äðóãîé ñòîðîíû... ÿ íå èç òàêèõ ëþäåé.;;x
+EVTOPTB_WOL_103;No, I fear [Root.Religion.GetRandomGodName] too much.;;;;;;;;;;;Íåò, [Root.Religion.GetHighGodName] ïîêàðàåò ìåíÿ.;;x
+EVTOPTB_WOL_104;It just isn't worth the risk.;;;;;;;;;;;Òàêîé ðèñê íåîïðàâäàí.;;x
+EVTOPTB_WOL_115;There is no rush!;;;;;;;;;;;ß òàê ïðîñòî íå ñäàìñÿ!;;x
+EVTOPTB_WOL_200;How delightfully perverted!;;;;;;;;;;;Êàê âîñõèòèòåëüíî ðàçâðàòíî!;;x
+EVTOPTB_WOL_201;Great, but I no longer desire [seduced.GetObjectPronoun];;;;;;;;;;;Ïðåêðàñíî, íî ÿ áîëüøå íå æåëàþ [From.GetHersHis].;;x
+EVTOPTB_WOL_202;Time to give up;;;;;;;;;;;Íè÷åãî íå ïîäåëàåøü.;;x
+EVTOPTB_WOL_203;Time to move on;;;;;;;;;;;Ïîðà æèòü äàëüøå.;;x
+EVTOPTB_WOL_210;How perverted... and thrilling!;;;;;;;;;;;Êàê ïîðî÷íî è... âîëíóþùå!;;x
+EVTOPTB_WOL_211;I'm irresistible! But I've changed my mind...;;;;;;;;;;;Êàê æå ýòî ïðèÿòíî! Íî ÿ óæå íå õî÷ó...;;x
+EVTOPTB_WOL_212;This is going nowhere.;;;;;;;;;;;Ýòî áåñïîëåçíî.;;x
+EVTOPTB_WOL_213;That's it, I'm wasting my talents!;;;;;;;;;;;Âîò îíî, ÿ òðà÷ó òàëàíò âïóñòóþ!;;x
+EVTOPTB_WOL_220;Unnatural! Why does this excite me?;;;;;;;;;;;Èçâðàùåíèå! Íî ïî÷åìó ýòî òàê âîçáóæäàåò ìåíÿ?;;x
+EVTOPTB_WOL_221;Unfortunately, I don't want [seduced.GetObjectPronoun] anymore;;;;;;;;;;;Ê íåñ÷àñòüþ, ìíå âñ¸ ýòî óæå íàäîåëî.;;x
+EVTOPTB_WOL_222;Time to end this endeavor!;;;;;;;;;;;Õâàòèò ñ ìåíÿ ýòîé áåãîòíè!;;x
+EVTOPTB_WOL_223;I and a horse?! I've had it!;;;;;;;;;;;ß? Ñ êîí¸ì?! Íó âñ¸! Ñ ìåíÿ õâàòèò!;;x
+EVTOPTB_WOL_300;Give [seducer.GetObjectPronoun] the cold shoulder.;;;;;;;;;;;*Òàê íå ïîéä¸ò! Ïîðà ïîêàçàòü õîëîäíîñòü.*;;x
+EVTOPTB_WOL_300_CR;No way [GetFromRelation]!;;;;;;;;;;;Íåò, òîëüêî íå [From.GetRootRelation]! Ýòî ñëèøêîì.;;x
+EVTOPTB_WOL_300_MAR;I'm a married [seduced.GetManWoman]! Take my leave.;;;;;;;;;;;Ó ìåíÿ åñòü [Root.Spouse.GetHusbandWife]!;;x
+EVTOPTB_WOL_300_OLD;[seducer.GetSubjectPronounCap] is far too young for me!;;;;;;;;;;;[From.GetSubjectPronounCap] íàìíîãî ìîëîæå ìåíÿ!;;x
+EVTOPTB_WOL_300_YOUNG;[seducer.GetSubjectPronounCap] is far too old for me!;;;;;;;;;;;[From.GetSubjectPronounCap] íàìíîãî ñòàðøå ìåíÿ!;;x
+EVTOPTB_WOL_301;Leave [seduced.GetObjectPronoun] yearning for more...;;;;;;;;;;;Ýòî áûë ÷óäåñíî, íî íå áóäåì ñïåøèòü. *ïóñòü ïîìå÷òàåò*;;x
+EVTOPTB_WOL_303;I am not that kind of [seduced.GetLadLass]!;;;;;;;;;;;Êòî ÿ ïî-âàøåìó, [Root.GetLadLass] íà íî÷ü?!;;x
+EVTOPTB_WOL_306;Let our love grow!;;;;;;;;;;;Ìû ñîçäàíû äðóã äëÿ äðóãà!;;x
+EVTOPTB_WOL_307;I don't have the patience for this;;;;;;;;;;;Ó ìåíÿ íåò íà ýòî âðåìåíè.;;x
+EVTOPTB_WOL_308;I've had it with this harridan!;;;;;;;;;;;Â ïåêëî åãî, äîñòàë ýòîò ïðèäóðîê!;;x
+EVTOPTB_WOL_308_F;I've had it with this buffoon!;;;;;;;;;;;Îáíàãëåâøàÿ áàáèùà! Ïóñòü êàòèòñÿ êî âñåì ÷åðòÿì!;;x
+EVTOPTB_WOL_351;Make a lewd suggestion;;;;;;;;;;;Íåïðèñòîéíîå ïðåäëîæåíèå;;x
+EVTOPTB_WOL_352_ASTROLOGY_compatible;By [seduced.GetRandomPlanetName], we shouldn't!;;;;;;;;;;;Âî èìÿ [Root.GetRandomPlanetNameGEN], íàì íå ñëåäóåò ýòîãî äåëàòü!;;x
+EVTOPTB_WOL_352_ASTROLOGY_compatible_TT;You are ruled by more than stars.\n;;;;;;;;;;;Æèçíü îïðåäåëÿåòñÿ íå òîëüêî çâ¸çäàìè.\n;;x
+EVTOPTB_WOL_352_ASTROLOGY_mismatch;Er, I am a [seduced.GetWesternZodiacSign].;;;;;;;;;;;Íî ÿ - [Root.GetWesternZodiacSign]!;;x
+EVTOPTB_WOL_352_ASTROLOGY_mismatch_TT;You could never fall for a [seducer.GetWesternZodiacSign].\n;;;;;;;;;;;Âû è [From.GetWesternZodiacSign]?! Íèêîãäà!\n;;x
+EVTOPTB_WOL_352_BREATH;Desire overwhelms me, but I must be strong!;;;;;;;;;;;Ñåðü¸çíî? È ýòî îáû÷íî ñðàáàòûâàåò?;;x
+EVTOPTB_WOL_352_LEWD;How rude! I didn't even know such lewd words existed!;;;;;;;;;;;Êàêàÿ... ïîõàáùèíà! Ýòî íåñëûõàííî!;;x
+EVTOPTB_WOL_352_LOVE;A confession of love? Such childish nonsense!;;;;;;;;;;;Ëþáîâü? ×òî çà äåòñêèå ôàíòàçèè?;;x
+EVTOPTB_WOL_352_POET;Poetry? I care nothing for such nonsense!;;;;;;;;;;;Ñòèõè? ×òî çà íåëåïîñòü?!;;x
+EVTOPTB_WOL_401;Leave [seduced.GetObjectPronoun] a note to meet me by the stream;;;;;;;;;;;Îñòàâëþ [From.GetHerHim] çàïèñêó ñ ïðîñüáîé âñòðåòèòüñÿ ó ðó÷üÿ.;;x
+EVTOPTB_WOL_407;I tire of this game;;;;;;;;;;;Êàê æå ìíå ýòî âñ¸ íàäîåëî...;;x
+EVTOPTB_WOL_418;I will take no risks for the likes of [seducer.GetFirstName]!;;;;;;;;;;;[FromFrom.GetSheHeCap] íå ïîíèìàåò, ýòî ñëèøêîì ðèñêîâàííî!;;x
+EVTOPTB_WOL_421;Guards! Arrest [seducer.GetObjectPronoun]!;;;;;;;;;;;Ñòðàæà! Àðåñòóéòå [FromFrom.GetHersHis]!;;x
+EVTOPTB_WOL_424;I must protect [seduced.GetFirstName] from such dangerous liaisons!;;;;;;;;;;;[FromFromFrom.GetFirstName] íå ïîíèìàåò, ñ êåì ñâÿçà[FromFromFrom.GetLasLsya]!;;x
+EVTOPTB_WOL_428;Thank you, my [From.GetLordLady], but no!;;;;;;;;;;;Áëàãîäàðþ, [FromFrom.PrimaryTitle.GetFOA], íî ìîé îòâåò íåò!;;x
+EVTOPTB_WOL_500;I do so love teasing the dear [target_priest.GetManWoman]...;;;;;;;;;;;Äðàçíèòü [target_priest.GetHersHis] êóäà ïðèÿòíåå, ïóñòü âîæäåëååò.;;x
+EVTOPTB_WOL_520;Give him a tumble and I'll have the most loyal bodyguard ever!;;;;;;;;;;;Ìîé âåðíûé òåëîõðàíèòåëü!;;x
+EVTOPTB_WOL_530;Bed her and make her mine. What a spy she'll make!;;;;;;;;;;;Ìîÿ ëè÷íàÿ øïèîíêà!;;x
+EVTOPTB_WOL_560;Wait... why am I out here in my smallclothes at this hour?;;;;;;;;;;;Ñòîï... ÷òî ÿ òóò äåëàþ â òàêîé ÷àñ â îäíèõ òðóñàõ?!;;x
+EVTOPTB_WOL_562;[target_baby.GetFirstName] will be well cared for.;;;;;;;;;;;Îáåñïå÷üòå ýòîìó ðåá¸íêó äîñòîéíûé óõîä.;;x
+EVTOPTB_WOL_570;Wait... a centaur? In our stables?!;;;;;;;;;;;Ñòîï... êåíòàâð? Â íàøèõ êîíÿøíÿõ?!;;x
+EVTOPTB_WOL_580;It is too risky.;;;;;;;;;;;Ñëèøêîì ðèñêîâàííî.;;x
+EVTOPTB_WOL_582;Reward the gaoler for his integrity.;;;;;;;;;;;Âåðíûé òþðåìùèê äîñòîèí íàãðàäû.;;x
+EVTOPTB_WOL_595;I give up. Perhaps I should set [From.GetHerHim] aside...;;;;;;;;;;;Íó íåò òàê íåò. ×òî æ ïîäåëàòü...;;x
+EVTOPTC_WOL_55;I smell profit!;;;;;;;;;;;Èç ýòîãî ìîæíî èçâëå÷ü âûãîäó!;;x
+EVTOPTC_WOL_99;But... there are so many sins to explore!;;;;;;;;;;;Åù¸ ñòîëüêî íàñëàæäåíèé ïðåäñòîèò ïîçíàòü!;;x
+EVTOPTC_WOL_101;I should seek other quarry...;;;;;;;;;;;Ïîèùó äðóãóþ äè÷ü...;;x
+EVTOPTC_WOL_200;What foolishness!;;;;;;;;;;;×òî çà ãëóïîñòü!;;x
+EVTOPTC_WOL_301;I'm affirmed. Now I can end this.;;;;;;;;;;;Áëàãîäàðþ, áûëî âåñåëî. *çàêîí÷èòü èíòðèæêó*;;x
+EVTOPTC_WOL_303;Laugh cruelly and loudly insult [seducer.GetObjectPronoun]!;;;;;;;;;;;Ãðîìêî ðàññìåÿòüñÿ è îñêîðáèòü [From.GetAbsPossPronoun].;;x
+EVTOPTC_WOL_303_F;Slap [seducer.GetObjectPronoun] and make a scene!;;;;;;;;;;;Âëåïèòü [From.GetObjectPronoun] ïîùå÷èíó!;;x
+EVTOPTC_WOL_351;Quote love poetry;;;;;;;;;;;Ëþáîâíóþ ïîýìó;;x
+EVTOPTC_WOL_401;Take a long walk alone with [seduced.GetObjectPronoun];;;;;;;;;;;Ìû ïðîñòî ïðîéä¸ìñÿ íåìíîãî âäâî¸ì.;;x
+EVTOPTC_WOL_424;The [GetRootFromCompliment] [From.GetFirstName]? I'm going myself!;;;;;;;;;;;[GetRootFromFromCompliment] [FromFrom.GetFirstName]? Ëó÷øå ïîéäó ÿ!;;x
+EVTOPTC_WOL_520;It's been fun, but I should aim higher.;;;;;;;;;;;Áûëî âåñåëî.;;x
+EVTOPTC_WOL_530;A common wench? I can do better!;;;;;;;;;;;Ïðîñòàÿ äåâêà? ß ìîãó ëó÷øå!;;x
+EVTOPTC_WOL_582;The [GetRootFromInsult]! Throw her in the oubliette.;;;;;;;;;;;[GetRootFromInsult]! Áðîñüòå å¸ â ïîäçåìåëüå.;;x
+EVTOPTD_WOL_99;Naturally, but I won't let vices define me.;;;;;;;;;;;Íåñîìíåííî. Íî ÿ íå ïîçâîëþ ïîðîêàì óïðàâëÿòü ìíîé!;;x
+EVTOPTD_WOL_200;Fool. I am a married [seduced.GetManWoman]!;;;;;;;;;;;Âîîáùå-òî... ó ìåíÿ åñòü [Root.Spouse.GetHusbandWife]!;;x
+EVTOPTD_WOL_351;Brush my lips against [seduced.GetPossPronoun] ear and breathe out softly;;;;;;;;;;;×òî óãîäíî, íåæíîå äûõàíèå ñäåëàåò ñâî¸ äåëî;;x
+EVTOPTD_WOL_401;Flirt with [seduced.GetObjectPronoun] discreetly;;;;;;;;;;;×òî æ, áóäó ôëèðòîâàòü óêðàäêîé.;;x
+EVTOPTE_WOL_200;I am offended!;;;;;;;;;;;Ýòî îñêîðáëÿåò ìåíÿ!;;x
+EVTOPTE_WOL_351;Ask [seduced.GetHerHis] star sign;;;;;;;;;;;Âîïðîñ î [From.GetHersHis] çíàêå çîäèàêà;;x
+EVTOPTF_WOL_200;What a sick deviant!;;;;;;;;;;;×òî çà áîëüíîå èçâðàùåíèå!;;x
+EVTTITLE_WOL_55;A Dirty Secret;;;;;;;;;;;Ãðÿçíûé ñåêðåò;;x
+EVTTITLE_WOL_60;Adulterous Scandal;;;;;;;;;;;Cóïðóæåñêàÿ èçìåíà;;x
+EVTTITLE_WOL_100;The Chase Begins!;;;;;;;;;;;ß äîáüþñü [From.GetHersHis]!;;x
+EVTTITLE_WOL_102;A Game for the Whole Family;;;;;;;;;;;Cåìåéíàÿ èãðà;;x
+EVTTITLE_WOL_200;A Love Letter;;;;;;;;;;;Ëþáîâíîå ïèñüìî;;x
+EVTTITLE_WOL_201;Letters of Love;;;;;;;;;;;Ëþáîâíûå ïèñüìà;;x
+EVTTITLE_WOL_210;A Gift of Love;;;;;;;;;;;Ëþáîâíûé ïîäàðîê;;x
+EVTTITLE_WOL_211;Gifts of Love;;;;;;;;;;;Ëþáîâíûå ïîäàðêè;;x
+EVTTITLE_WOL_220;Rumors of Infatuation;;;;;;;;;;;Còðàñòíàÿ óâëå÷¸ííîñòü?;;x
+EVTTITLE_WOL_221;Conquest by Rumor;;;;;;;;;;;Cëóõè êàê îðóæèå;;x
+EVTTITLE_WOL_300;An Informal Event;;;;;;;;;;;Håîôèöèàëüíîå ñîáûòèå;;x
+EVTTITLE_WOL_301;An Informal Event;;;;;;;;;;;Håîôèöèàëüíîå ñîáûòèå;;x
+EVTTITLE_WOL_351;A Midnight Snack;;;;;;;;;;;Hî÷íîé ïåðåêóñ;;x
+EVTTITLE_WOL_401;Seduction in the Wild;;;;;;;;;;;Cîáëàçíåíèå íà ïðèðîäå;;x
+EVTTOOLTIP_WoL_56;[This.GetTitledName] is blackmailed;;;;;;;;;;;[This.GetTitledName] áóäåò øàíòàæèðîâàòüñÿ;;x
+EVTTOOLTIP_WoL_57;The money is sent to [This.GetBestName];;;;;;;;;;;[This.GetBestName] ïîëó÷èò äåíüãè;;x
+EVTTOOLTIP_WoL_60;[This.GetBestName]'s affair is exposed;;;;;;;;;;;Èíòðèãà ïåðñîíàæà, èçâåñòíîãî êàê [This.GetBestName], áóäåò ðàñêðûòà;;x
+EVTTOOLTIP_WoL_110;I start planning my next move;;;;;;;;;;;ß íà÷íó ïëàíèðîâàòü ñâîé ñëåäóþùèé õîä;;x
+EVTTOOLTIP_WoL_201;Encourage this...;;;;;;;;;;;Ïîîùðèòü ýòî...;;x
+EVTTOOLTIP_WoL_202;My silence will dissuade [This.GetObjectPronoun].;;;;;;;;;;;Ìî¸ ìîë÷àíèå îòòîëêí¸ò [This.GetAbsPossPronoun].;;x
+EVTTOOLTIP_WoL_203;Strongly discourage [This.GetObjectPronoun]!;;;;;;;;;;;Ðåøèòåëüíî îòòîëêíóòü [This.GetAbsPossPronoun]!;;x
+EVTTOOLTIP_WoL_301;[This.GetFirstName]'s advances are encouraged;;;;;;;;;;;Óõàæèâàíèÿ ÷åëîâåêà ïî èìåíè [This.GetFirstName] ïîîùðåíû;;x
+EVTTOOLTIP_WoL_302;[This.GetFirstName]'s advances are rebuffed;;;;;;;;;;;Óõàæèâàíèÿ ÷åëîâåêà ïî èìåíè [This.GetFirstName] îòâåðãíóòû;;x
+EVTTOOLTIP_WoL_303;Seek to make [This.GetObjectPronoun] my lover;;;;;;;;;;;Èñêàòü ñïîñîá, ÷òîáû ìû ñòàëè ëþáîâíèêàìè;;x
+EVTTOOLTIP_WoL_304;Raise [This.GetPossPronoun] opinion of me;;;;;;;;;;;Óëó÷øèòü [This.GetAbsPossPronoun] ìíåíèå îáî ìíå;;x
+EVTTOOLTIP_WoL_306;Have a memorable night!;;;;;;;;;;;Ïðîâåñòè íåçàáûâàåìóþ íî÷ü!;;x
+EVTTOOLTIP_WoL_306_2;Follow [This.GetFirstName] to bed...;;;;;;;;;;;Âìåñòå ïîñëåäîâàòü â ïîñòåëü...;;x
+EVTTOOLTIP_WoL_352_ASTROLOGY;Bet that [This.GetFirstName] will respond to you having pegged [This.GetHerHim] as a [This.GetWesternZodiacSign]...;;;;;;;;;;;Ïîëîæèòüñÿ íà òî, ÷òî [This.GetFirstName] îòâåòèò Âàì, óöåïèâøèñü çà òîò ôàêò, ÷òî [This.GetHersHis] çíàê  - [This.GetWesternZodiacSign]...;;x
+EVTTOOLTIP_WoL_352_BREATH;Use an unfailing trick of seduction;;;;;;;;;;;Èñïîëüçîâàòü áåçîòêàçíûé òðþê ñîáëàçíåíèÿ;;x
+EVTTOOLTIP_WoL_352_LEWD;Bet that [This.GetFirstName] is experienced and bawdy;;;;;;;;;;;Ñäåëàòü ñòàâêó íà òî, ÷òî [This.GetFirstName] ðàçâðàò[This.GetNaEn];;x
+EVTTOOLTIP_WoL_352_LOVE;Bet that [This.GetFirstName] is a naive romantic;;;;;;;;;;;Ñäåëàòü ñòàâêó íà òî, ÷òî [This.GetFirstName] íàèâ[This.GetNaEn] è ðîìàíòè÷[This.GetNaEn];;x
+EVTTOOLTIP_WoL_352_POET;Bet that [This.GetFirstName] will respond to poetry and learning;;;;;;;;;;;Ñäåëàòü ñòàâêó íà òî, ÷òî [This.GetFirstName] ïîýòè÷[This.GetNaEn] è îáðàçîâàí[This.GetEndNa];;x
+EVTTOOLTIP_WoL_405;Follow [This.GetObjectPronoun] into the warm water...;;;;;;;;;;;Âìåñòå ïîñëåäîâàòü â ò¸ïëóþ âîäó...;;x
+EVTTOOLTIP_WoL_430;[This.GetFirstName] is frustrated and not likely to think better of me...;;;;;;;;;;;[This.GetFirstName] ðàçî÷àðîâàí[This.GetEndA] è íå ñêëîí[This.GetNaEn] äóìàòü îáî ìíå ëó÷øå...;;x
+EVTTOOLTIP_WoL_561;You enter the rose bush, professing your love.;;;;;;;;;;;Âû âõîäèòå â ðîçîâûé êóñò, ñëåäóÿ ñâîåé ëþáâè.;;x
+EVTTOOLTIP_WoL_571;You succumb to your desires.;;;;;;;;;;;Âû ïîääà¸òåñü ñâîèì æåëàíèÿì.;;x
+EVTTOOLTIP_WoL_591;The seduction of [This.GetFirstName] begins;;;;;;;;;;;Ñîáëàçíåíèå íàëîæíèöû ïî èìåíè [This.GetFirstName] íà÷èíàåòñÿ;;x
+EVTOPTREFUSE_WOL100;It will never happen.;;;;;;;;;;;Ýòîãî íå áóäåò.;;x
+WOL_SEDUCE_END_TOOLTIP;The chase is ended\n;;;;;;;;;;;Ñðàæåíèå çà ñåðäöå çàêîí÷åíî\n;;x

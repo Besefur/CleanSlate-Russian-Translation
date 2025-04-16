@@ -1,46 +1,43 @@
-EVTDESC_ZE_3000;[target_treasurer.GetTitledFirstName] beams a smile at you while handing over a pouch of gold. [target_treasurer.GetSheHeCap] claims it contains the savings accumulated from hard work and donations from the richer families in your realm.;;;;;;;;;;;;;x
-EVTDESC_ZE_3001;A merchant approaches the court and carefully pleads to make a payment plan for the recent loan taken by [target_treasurer.GetTitledFirstName]. It seems the fruits of [target_treasurer.GetHerHis] labor may have been exaggerated, and since the loan was made in your name, this reflect poorly on you too. What will the consequence be for [target_treasurer.GetTitledFirstName]?;;;;;;;;;;;;;x
-EVTDESC_ZE_3003;[target_treasurer.GetTitledFirstName] reminds you of all the good work [target_treasurer.GetSheHe] has done lately. [target_treasurer.GetSheHeCap] thinks that with a fair compensation from [target_treasurer.GetHerHis] own pocket the [requested_province.GetFullName] is only a modest request.;;;;;;;;;;;;;x
-EVTDESC_ZE_3004;[target_treasurer.GetTitledFirstName] approaches you: 'My liege, I have a great idea for a monument. Something to raise our cultural status and make the people notice what a great ruler you are. I would require some gold and your patience, and the work would take a year to complete.';;;;;;;;;;;;;x
-EVTDESC_ZE_3005;The monument [target_treasurer.GetTitledFirstName] promised is finished. People have gathered to witness the unveiling of the new statue. It is a large portrait of [religious_head.GetTitledFirstName].;;;;;;;;;;;;;x
-EVTDESC_ZE_3006;The monument [target_treasurer.GetTitledFirstName] promised is finished. The shape of the statue seems a bit off, as it is unveiled some of the crowd seem confused. It is a giant ear with the inscription 'IT LISTENS'.;;;;;;;;;;;;;x
-EVTDESC_ZE_3007;The monument [target_treasurer.GetTitledFirstName] promised is finished. The statue is unveiled and it's just a bigger version of [target_treasurer.GetTitledFirstName], only slightly better looking than the real [target_treasurer.GetTitledFirstName].;;;;;;;;;;;;;x
-EVTDESC_ZE_3008;The monument promised by [target_treasurer.GetTitledFirstName] is finished. Some people in the crowd cover their children's eyes as the statue is unveiled. It's a couple in the middle of lovemaking, and not exactly presented in a tasteful way.;;;;;;;;;;;;;x
-EVTDESC_ZE_3009;The monument promised by [target_treasurer.GetTitledFirstName] is finished. At the unveiling, the crowd gasps and some even scream. It's something that resembles a throne, with an eyeless horned creature on top. It smells like blood.;;;;;;;;;;;;;x
-EVTDESC_ZE_3010;The monument promised by [target_treasurer.GetTitledFirstName] is finished. Upon unveiling, a statue of yourself is revealed and you notice the crowd smiling and giving you a round of applause.;;;;;;;;;;;;;x
-EVTDESC_ZE_3011;[steward.GetTitledFirstName] smiles at you. 'My liege, I have noticed your mind seems to drift off whenever we discuss monetary issues. I believe that to make things interesting, one must be introduced to the subject where it is directly relevant to oneself. Perhaps you would like to join me tomorrow on a full days work?';;;;;;;;;;;;;x
-EVTDESC_ZE_3012;[steward.GetTitledFirstName] starts the day off collecting taxes. Some people frown and complain when they give away their earnings. [steward.GetTitledFirstName] calmly explains why taxes are collected and manages to appease the complainers.;;;;;;;;;;;;;x
-EVTDESC_ZE_3013;Today, [steward.GetTitledFirstName] brings you to the nearest construction site to evaluate progress. [steward.GetTitledFirstName] notices that the builders are lagging behind the agreed schedule and proceeds to question them. The builders complain about the weather and want more pay to cover the delays. [steward.GetTitledFirstName] looks over your way, awaiting a response.;;;;;;;;;;;;;x
-EVTDESC_ZE_3014;A friend has come to visit [steward.GetTitledFirstName] this evening. The three of you have a good time discussing your experiences over a fine evening meal. The visitor nods at you, saying: 'How lucky you are, [steward.GetFirstName], to have a liege that understands your work. This cooperation should benefit the both of you.';;;;;;;;;;;;;x
-
-EVTOPTA_ZE_3000;That's wonderful news!;;;;;;;;;;;;;x
-EVTOPTA_ZE_3001;I will not tolerate incompetence!;;;;;;;;;;;;;x
-EVTOPTA_ZE_3003;[target_treasurer.GetSheHeCap] is right, job well done.;;;;;;;;;;;;;x
-EVTOPTA_ZE_3004;So be it! Surprise me!;;;;;;;;;;;;;x
-EVTOPTA_ZE_3005;Surely, this will bring us the God's favor.;;;;;;;;;;;;;x
-EVTOPTA_ZE_3006;At least it's original.;;;;;;;;;;;;;x
-EVTOPTA_ZE_3007;I don't know about this.;;;;;;;;;;;;;x
-EVTOPTA_ZE_3008;Children must learn this sooner or later.;;;;;;;;;;;;;x
-EVTOPTA_ZE_3009;I should have seen this coming.;;;;;;;;;;;;;x
-EVTOPTA_ZE_3010;I have no words.;;;;;;;;;;;;;x
-EVTOPTA_ZE_3011;Yes, that would be interesting.;;;;;;;;;;;;;x
-EVTOPTA_ZE_3012;Earning trust is earning gold.;;;;;;;;;;;;;x
-EVTOPTA_ZE_3013;We will hold our end of the deal when you hold yours.;;;;;;;;;;;;;x
-EVTOPTA_ZE_3014;It's been interesting, moreso than many other things I've tried.;;;;;;;;;;;;;x
-
-EVTOPTB_ZE_3001;We will have to make an example of [target_treasurer.GetHerHim].;;;;;;;;;;;;;x
-EVTOPTB_ZE_3003;[target_treasurer.GetSheHeCap] will be repaid, but not like this.;;;;;;;;;;;;;x
-EVTOPTB_ZE_3004;I don't think so...;;;;;;;;;;;;;x
-EVTOPTB_ZE_3006;Keep calm everyone! I am a snake!;;;;;;;;;;;;;x
-EVTOPTB_ZE_3007;Tear it down! [target_treasurer.GetSheHeCap] will be put in [target_treasurer.GetHerHis] place.;;;;;;;;;;;;;x
-EVTOPTB_ZE_3008;Tear it down!;;;;;;;;;;;;;x
-EVTOPTB_ZE_3010;It's too much, remove it.;;;;;;;;;;;;;x
-EVTOPTB_ZE_3011;Hah! You must be joking, I have better things to do.;;;;;;;;;;;;;x
-EVTOPTB_ZE_3012;Maybe we could squeeze them for some more?;;;;;;;;;;;;;x
-EVTOPTB_ZE_3013;I guess one cannot predict the weather.;;;;;;;;;;;;;x
-EVTOPTB_ZE_3014;It wasn't for me, it feels like stealing.;;;;;;;;;;;;;x
-
-EVTOPTC_ZE_3001;Understandable, collecting taxes is tough work.;;;;;;;;;;;;;x
-EVTOPTC_ZE_3003;Are you blackmailing me? You'd be happy to keep your job!;;;;;;;;;;;;;x
-EVTOPTC_ZE_3013;Clear the site! You will never work again!;;;;;;;;;;;;;x
-EVTOPTC_ZE_3014;I hated it! We should just kill the peasants and take their money.;;;;;;;;;;;;;x
+EVTDESC_ZE_3000;[target_treasurer.GetTitledFirstName] beams a smile at you while handing over a pouch of gold. [target_treasurer.GetSheHeCap] claims it contains the savings accumulated from hard work and donations from the richer families in your realm.;;;;;;;;;;;[target_treasurer.GetTitledFirstName] óëûáíó[target_treasurer.GetLasLsya] ìíå, ïîêàçûâàÿ óâåñèñòûé ìåøîê çîëîòà. [target_treasurer.GetSheHeCap] ñêàçàë[target_treasurer.GetEndA], ÷òî ýòî ðåçóëüòàò òÿæ¸ëîé ðàáîòû è ïîæåðòâîâàíèé îò áîãàòûõ ñåìåé íàøåãî ãîñóäàðñòâà.;;x
+EVTDESC_ZE_3001;A merchant approaches the court and carefully pleads to make a payment plan for the recent loan taken by [target_treasurer.GetTitledFirstName]. It seems the fruits of [target_treasurer.GetHerHis] labor may have been exaggerated, and since the loan was made in your name, this reflect poorly on you too. What will the consequence be for [target_treasurer.GetTitledFirstName]?;;;;;;;;;;;Ê Âàøåìó äâîðó ïðèáûë êóïåö, óòâåðæäàþùèé, ÷òî [target_treasurer.GetTitledFirstName] çàíÿë[target_treasurer.GetEndA] ó íåãî äåíüãè, íî îæèäàíèÿ íå îïðàâäàëèñü. Äîãîâîð î çàéìå áûë îôîðìëåí íà Âàøå èìÿ, è òåïåðü Âû äîëæíû âûïëàòèòü äîëã ñ ïðîöåíòàìè. Íî îòâåòèò ëè çà ýòî ñàì[target_treasurer.GetEndA] [target_treasurer.GetTitledFirstName]?;;x
+EVTDESC_ZE_3003;[target_treasurer.GetTitledFirstName] reminds you of all the good work [target_treasurer.GetSheHe] has done lately. [target_treasurer.GetSheHeCap] thinks that with a fair compensation from [target_treasurer.GetHerHis] own pocket the [requested_province.GetFullName] is only a modest request.;;;;;;;;;;;[target_treasurer.GetTitledFirstName] íàïîìèíàåò Âàì, ÷òî â ïîñëåäíåå âðåìÿ äîáè[target_treasurer.GetLasLsya] áîëüøèõ óñïåõîâ íà ñâî¸ì ïîñòó. [target_treasurer.GetSheHeCap] ñ÷èòàåò, ÷òî áûëî áû ïðàâèëüíûì ïîëó÷èòü îò Âàñ â íàãðàäó çåìëè, â îáìåí íà ùåäðóþ êîìïåíñàöèþ ñ [target_treasurer.GetHersHis] ñòîðîíû, [requested_province.GetAdjective]ñêèå çåìëè, òî÷íåå ãîâîðÿ.;;x
+EVTDESC_ZE_3004;[target_treasurer.GetTitledFirstName] approaches you: 'My liege, I have a great idea for a monument. Something to raise our cultural status and make the people notice what a great ruler you are. I would require some gold and your patience, and the work would take a year to complete.';;;;;;;;;;;"Ñåãîäíÿ [target_treasurer.GetTitledFirstName] ïîäîø[target_treasurer.GetLaYol] êî ìíå ñ ïðåäëîæåíèåì: ""[Root.PrimaryTitle.GetFOA], ó ìåíÿ èäåÿ. Ïî÷åìó áû íàì íå ïîñòðîèòü ìîíóìåíò? Ýòî ïîâûñèò íàø êóëüòóðíûé ñòàòóñ è äàñò íàðîäó ïîíÿòü, êàêîé Âû âåëèêèé ïðàâèòåëü. Âñ¸, ÷òî òðåáóåòñÿ - íåìíîãî çîëîòà è òåðïåíèÿ ñ Âàøåé ñòîðîíû. Ðàáîòà çàéì¸ò ïðèìåðíî ãîä"".";;x
+EVTDESC_ZE_3005;The monument [target_treasurer.GetTitledFirstName] promised is finished. People have gathered to witness the unveiling of the new statue. It is a large portrait of [religious_head.GetTitledFirstName].;;;;;;;;;;;Ìîíóìåíò, êîòîðûé Âàì îáåùàë[target_treasurer.GetEndA] [target_treasurer.GetTitledFirstName], íàêîíåö çàêîí÷åí. Òîëïà çåâàê ñîáðàëàñü, ÷òîáû ïîñìîòðåòü íà îôèöèàëüíóþ öåðåìîíèþ îòêðûòèÿ. Ýòî [religious_head.GetTitledFirstName], áîëüøàÿ ïðåêðàñíàÿ ñòàòóÿ.;;x
+EVTDESC_ZE_3006;The monument [target_treasurer.GetTitledFirstName] promised is finished. The shape of the statue seems a bit off, as it is unveiled some of the crowd seem confused. It is a giant ear with the inscription 'IT LISTENS'.;;;;;;;;;;;"Ìîíóìåíò, êîòîðûé Âàì îáåùàë[target_treasurer.GetEndA] [target_treasurer.GetTitledFirstName], íàêîíåö çàêîí÷åí. Ôîðìà ñòàòóè íåìíîãî ñìóòèëà íàðîä íà öåðåìîíèè îòêðûòèÿ. Ýòî îãðîìíîå óõî ñ ïîäïèñüþ ""ÎÍÎ ÑËÛØÈÒ"".";;x
+EVTDESC_ZE_3007;The monument [target_treasurer.GetTitledFirstName] promised is finished. The statue is unveiled and it's just a bigger version of [target_treasurer.GetTitledFirstName], only slightly better looking than the real [target_treasurer.GetTitledFirstName].;;;;;;;;;;;Ìîíóìåíò, êîòîðûé Âàì îáåùàë[target_treasurer.GetEndA] [target_treasurer.GetTitledFirstName], íàêîíåö çàêîí÷åí. Òîëïà çåâàê ñîáðàëàñü, ÷òîáû ïîñìîòðåòü íà îôèöèàëüíóþ öåðåìîíèþ îòêðûòèÿ. Ýòî [target_treasurer.GetTitledFirstName], óâåëè÷åííàÿ âåðñèÿ.;;x
+EVTDESC_ZE_3008;The monument promised by [target_treasurer.GetTitledFirstName] is finished. Some people in the crowd cover their children's eyes as the statue is unveiled. It's a couple in the middle of lovemaking, and not exactly presented in a tasteful way.;;;;;;;;;;;Ìîíóìåíò, êîòîðûé Âàì îáåùàë[target_treasurer.GetEndA] [target_treasurer.GetTitledFirstName], íàêîíåö çàêîí÷åí. Íà öåðåìîíèè îòêðûòèÿ ëþäè ñòàëè çàêðûâàòü ñâîèì äåòÿì ãëàçà. Îí èçîáðàæàåò ìîëîäóþ ïàðó â ïðîöåññå ñîâîêóïëåíèÿ.;;x
+EVTDESC_ZE_3009;The monument promised by [target_treasurer.GetTitledFirstName] is finished. At the unveiling, the crowd gasps and some even scream. It's something that resembles a throne, with an eyeless horned creature on top. It smells like blood.;;;;;;;;;;;Ìîíóìåíò, êîòîðûé Âàì îáåùàë[target_treasurer.GetEndA] [target_treasurer.GetTitledFirstName], íàêîíåö çàêîí÷åí. Òîëïà, ïðèáûâøàÿ íà öåðåìîíèþ îòêðûòèÿ, øîêèðîâàíà óâèäåííûì. Ýòî òðîí, íà êîòîðîì âîññåäàåò êàêîå-òî áåçãëàçîå ðîãàòîå ñóùåñòâî, îíî ïàõíåò êðîâüþ.;;x
+EVTDESC_ZE_3010;The monument promised by [target_treasurer.GetTitledFirstName] is finished. Upon unveiling, a statue of yourself is revealed and you notice the crowd smiling and giving you a round of applause.;;;;;;;;;;;Ìîíóìåíò, êîòîðûé Âàì îáåùàë[target_treasurer.GetEndA] [target_treasurer.GetTitledFirstName], íàêîíåö çàêîí÷åí. Òîëïà çåâàê ñîáðàëàñü, ÷òîáû ïîñìîòðåòü íà îôèöèàëüíóþ öåðåìîíèþ îòêðûòèÿ. Óâèäåâ, ÷òî ñòàòóÿ èçîáðàæàåò Âàñ, ëþäè ïðèíÿëèñü óëûáàòüñÿ è àïëîäèðîâàòü.;;x
+EVTDESC_ZE_3011;[steward.GetTitledFirstName] smiles at you. 'My liege, I have noticed your mind seems to drift off whenever we discuss monetary issues. I believe that to make things interesting, one must be introduced to the subject where it is directly relevant to oneself. Perhaps you would like to join me tomorrow on a full days work?';;;;;;;;;;;"[steward.GetTitledFirstName] ïðåðâàë[steward.GetEndA] ñâîé äîêëàä è óëûáíó[steward.GetLasLsya]: ""[Root.PrimaryTitle.GetFOA], íå ìîãó íå çàìåòèòü, êàê Âû ñêó÷àåòå, êîãäà ìû îáñóæäàåì ôèíàíñîâûå âîïðñîû. Äóìàþ, áóäåò âåñüìà êñòàòè ïîçíàêîìèòü Âàñ ñ ïðåäìåòîì. Íå õîòèòå ëè ïîðàáîòàòü ñî ìíîé âìåñòå ñ çàâòðàøíåãî äíÿ?""";;x
+EVTDESC_ZE_3012;[steward.GetTitledFirstName] starts the day off collecting taxes. Some people frown and complain when they give away their earnings. [steward.GetTitledFirstName] calmly explains why taxes are collected and manages to appease the complainers.;;;;;;;;;;;[steward.GetTitledFirstName] íà÷èíàåò äåíü ñî ñáîðà íàëîãîâ. Íåêîòîðûå õìóðÿòñÿ è íåãîäóþò, êîãäà èì ïðèõîäèòñÿ äåëèòüñÿ ñâîèì äîõîäîì. [steward.GetTitledFirstName] ñïîêîéíî îáúÿñíÿåò, â ÷¸ì ñóòü ñèñòåìû ïîäàòåé, è ïî÷åìó ýòî òàê âàæíî.;;x
+EVTDESC_ZE_3013;Today, [steward.GetTitledFirstName] brings you to the nearest construction site to evaluate progress. [steward.GetTitledFirstName] notices that the builders are lagging behind the agreed schedule and proceeds to question them. The builders complain about the weather and want more pay to cover the delays. [steward.GetTitledFirstName] looks over your way, awaiting a response.;;;;;;;;;;;Ñåãîäíÿ [steward.GetTitledFirstName] âçÿë[steward.GetEndA] Âàñ ñ ñîáîé íà ïëàíîâûé îñìîòð ñòðîèòåëüñòâà. [steward.GetSheHeCap] çàìåòèë[steward.GetEndA], ÷òî ðàáî÷èå îòñòàþò îò ðàñïèñàíèÿ è ðàñïðàøèâàë[steward.GetEndA] èõ î ïðè÷èíàõ. Ñòðîèòåëè æàëîâàëèñü íà ïëîõóþ ïîãîäó è íåõâàòêó ñðåäñòâ â ñâÿçè ñ çàäåðæêàìè. [steward.GetTitledFirstName] ïîñìîòðåë[steward.GetEndA] íà Âàñ â îæèäàíèè ðåøåíèÿ.;;x
+EVTDESC_ZE_3014;A friend has come to visit [steward.GetTitledFirstName] this evening. The three of you have a good time discussing your experiences over a fine evening meal. The visitor nods at you, saying: 'How lucky you are, [steward.GetFirstName], to have a liege that understands your work. This cooperation should benefit the both of you.';;;;;;;;;;;"Ñåãîäíÿ âå÷åðîì [steward.GetTitledFirstName] ïðèíèìàë[steward.GetEndA] ó ñåáÿ äðóãà. Âû òðîå õîðîøî ïðîâåëè âðåìÿ, îáñóæäàÿ ðàáîòó çà óæèíîì. ""Çíàåøü, [steward.GetFirstName], à âåäü òåáå êðóïíî ïîâåçëî, — çàìåòèë ãîñòü, — òâîé ñþçåðåí íà ñîáñòâåííîì îïûòå ïîíèìàåò îñîáåííîñòè òâîåé ðàáîòû. Ïîäîáíîå ñîòðóäíè÷åñòâî ÿâíî íà ïîëüçó âàì îáîèì"".";;x
+EVTOPTA_ZE_3000;That's wonderful news!;;;;;;;;;;;Ýòî õîðîøèå íîâîñòè!;;x
+EVTOPTA_ZE_3001;I will not tolerate incompetence!;;;;;;;;;;;ß íå ïîòåðïëþ ïîäîáíóþ íåêîìïåòåíòíîñòü!;;x
+EVTOPTA_ZE_3003;[target_treasurer.GetSheHeCap] is right, job well done.;;;;;;;;;;;[target_treasurer.GetSheHeCap] ïðàâ[target_treasurer.GetEndA], òàê áóäåò ÷åñòíî.;;x
+EVTOPTA_ZE_3004;So be it! Surprise me!;;;;;;;;;;;Äà áóäåò òàê!;;x
+EVTOPTA_ZE_3005;Surely, this will bring us the God's favor.;;;;;;;;;;;Ýòî íåñîìíåííî äàðóåò íàì áîæåñòâåííóþ ìèëîñòü.;;x
+EVTOPTA_ZE_3006;At least it's original.;;;;;;;;;;;Îðèãèíàëüíî.;;x
+EVTOPTA_ZE_3007;I don't know about this.;;;;;;;;;;;Êëÿíóñü, ÿ íå çíàë[Root.GetEndA] îá ýòîì.;;x
+EVTOPTA_ZE_3008;Children must learn this sooner or later.;;;;;;;;;;;Ðàíî èëè ïîçäíî äåòè çíàêîìÿòñÿ ñ ýòèì.;;x
+EVTOPTA_ZE_3009;I should have seen this coming.;;;;;;;;;;;ß äîëæ[Root.GetNaEn] áûë[Root.GetEndA] ýòî ïðåäâèäåòü.;;x
+EVTOPTA_ZE_3010;I have no words.;;;;;;;;;;;Ó ìåíÿ íåò ñëîâ.;;x
+EVTOPTA_ZE_3011;Yes, that would be interesting.;;;;;;;;;;;Ïî÷åìó áû è íåò? Ýòî áóäåò âåñüìà ïîçíàâàòåëüíî.;;x
+EVTOPTA_ZE_3012;Earning trust is earning gold.;;;;;;;;;;;Äîâåðèå - âîò êëþ÷ ê ýòîìó...;;x
+EVTOPTA_ZE_3013;We will hold our end of the deal when you hold yours.;;;;;;;;;;;Âû çàäåðæèâàåòå ðàáîòó, ìû - çàäåðæèâàåì îïëàòó.;;x
+EVTOPTA_ZE_3014;It's been interesting, moreso than many other things I've tried.;;;;;;;;;;;Ýòî ãîðàçäî èíòåðåñíåå ÷åì êàæåòñÿ íà ïåðâûé âçãëÿä.;;x
+EVTOPTB_ZE_3001;We will have to make an example of [target_treasurer.GetHerHim].;;;;;;;;;;;Ìû äîëæíû ïðåïîäàòü [target_treasurer.GetHerHim] óðîê.;;x
+EVTOPTB_ZE_3003;[target_treasurer.GetSheHeCap] will be repaid, but not like this.;;;;;;;;;;;[target_treasurer.GetSheHeCap] ïîëó÷èò íàãðàäó, íî íå òàêóþ.;;x
+EVTOPTB_ZE_3004;I don't think so...;;;;;;;;;;;ß òàê íå äóìàþ...;;x
+EVTOPTB_ZE_3006;Keep calm everyone! I am a snake!;;;;;;;;;;;Óñïîêîéòåñü âñå! ß - çìèé!;;x
+EVTOPTB_ZE_3007;Tear it down! [target_treasurer.GetSheHeCap] will be put in [target_treasurer.GetHerHis] place.;;;;;;;;;;;Íåñëûõàííàÿ äåðçîñòü! Ñíåñèòå ýòî íåìåäëåííî!;;x
+EVTOPTB_ZE_3008;Tear it down!;;;;;;;;;;;Óáåðèòå ýòî íåïîòðåáñòâî, ñåé÷àñ æå!;;x
+EVTOPTB_ZE_3010;It's too much, remove it.;;;;;;;;;;;Ýòî ÷åðåñ÷óð. Óáåðèòå.;;x
+EVTOPTB_ZE_3011;Hah! You must be joking, I have better things to do.;;;;;;;;;;;Õà! Ýòî øóòêà, äà? Ó ìåíÿ ïîëíî ñâîèõ äåë.;;x
+EVTOPTB_ZE_3012;Maybe we could squeeze them for some more?;;;;;;;;;;;À ìû ìîæåì âûæàòü èç íèõ ÷óòü áîëüøå?;;x
+EVTOPTB_ZE_3013;I guess one cannot predict the weather.;;;;;;;;;;;Äóìàþ, íèêòî íå ìîæåò ïðåäñêàçàòü ïîãîäó.;;x
+EVTOPTB_ZE_3014;It wasn't for me, it feels like stealing.;;;;;;;;;;;Íî âñ¸-òàêè ýòî íå ìî¸.;;x
+EVTOPTC_ZE_3001;Understandable, collecting taxes is tough work.;;;;;;;;;;;Ïîíèìàþ, ñáîð íàëîãîâ - íåïðîñòîå çàíÿòèå.;;x
+EVTOPTC_ZE_3003;Are you blackmailing me? You'd be happy to keep your job!;;;;;;;;;;;Ó ìåíÿ ìàññà æåëàþùèõ çàíÿòü [target_treasurer.GetHersHis]  äîëæíîñòü.;;x
+EVTOPTC_ZE_3013;Clear the site! You will never work again!;;;;;;;;;;;Ïîêèíüòå ñòðîéêó! Íå õîòèòå ðàáîòàòü - íå áóäåòå!;;x
+EVTOPTC_ZE_3014;I hated it! We should just kill the peasants and take their money.;;;;;;;;;;;Åñëè ÷åñòíî, ÿ íåíàâèæó ýòî çàíÿòèå!;;x

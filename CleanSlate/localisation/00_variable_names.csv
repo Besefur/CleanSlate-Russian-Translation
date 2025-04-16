@@ -1,7 +1,5 @@
-remaining_food;Remaining Food;;;;;;;;;;;;;x
-
+remaining_food;Remaining Food;;;;;;;;;;;Îñòàëîñü ïðîäîâîëüñòâèÿ;;x
 # Never actually visible?
-flything_patience;Flyting Patience;;;;;;;;;;;;;x
-
+flything_patience;Flyting Patience;;;;;;;;;;;Òåðïåíèå íà ôëèòèíãå;;x
 # Missing, used in unused event loc EVTDESC_MNM_4430, in disabled event
 # holy_seclusion_points

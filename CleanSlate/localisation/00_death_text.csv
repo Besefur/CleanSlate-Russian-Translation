@@ -1,215 +1,214 @@
-death_text_administrator;A conscientious ruler, [Root.GetFirstName] was renown for [Root.GetHerHis] excellent skills as a steward and a ruler;;;;;;;;;;;;;x
-death_text_architect;Known as a great builder and imaginative planner, [Root.GetFirstName] will be remembered for [Root.GetHerHis] tireless attempts to renovate and expand [Root.Capital.GetName];;;;;;;;;;;;;x
-death_text_bastard;Because of the unfortunate circumstances of [Root.GetHerHis] birth, many doubted the legitimacy of [Root.GetFirstName]'s rule. [Root.GetSheHeCap] has now found peace from their slander in death;;;;;;;;;;;;;x
-death_text_bestiality;A wicked [Root.GetManWoman], [Root.GetSheHe] was rumored to speak to and entertain [Root.GetHerselfHimself] with beasts. [Root.GetFirstName] will surely pay for [Root.GetHerHis] abominable sins in the afterlife;;;;;;;;;;;;;x
-death_text_cannibal;Rumored to consume human flesh for sustenance, [Root.GetFirstName] is without a doubt being punished in the afterlife for [Root.GetHerHis] wickedness in life;;;;;;;;;;;;;x
-death_text_convert_king;A revolutionary [Root.GetManWoman], [Root.GetSheHe] led [Root.GetHerHis] tribes away from the worship of old idols and into the glory of the [Root.Religion.GetName] faith;;;;;;;;;;;;;x
-death_text_crippled;Having been mangled in a terrible accident, [Root.GetFirstName] spent [Root.GetHerHis] last years barely able to walk. Death has finally freed [Root.GetHerHis] soul from [Root.GetHerHis] crippled body;;;;;;;;;;;;;x
-death_text_crusader;A zealous [Root.GetManWoman], [Root.GetSheHe] fought for the glory of [Root.Religion.GetHighGodName] against the heathens in one of the greatest holy wars of recent history;;;;;;;;;;;;;x
-death_text_disfigured;Having been horribly disfigured, [Root.GetFirstName] spent [Root.GetHerHis] last years unable to show [Root.GetHerHis] face in public. Death has finally freed [Root.GetHerHis] soul from [Root.GetHerHis] crippled body;;;;;;;;;;;;;x
-death_text_drunkard;Known as an inveterate drunkard, [Root.GetFirstName] hardly ever spent a single day without drenching [Root.GetHerselfHimself] in liquor, barely aware of [Root.GetHerHis] surroundings. [Root.GetFirstName] will surely pay for [Root.GetHerHis] sins in the afterlife;;;;;;;;;;;;;x
-death_text_duelist;Known to be a fierce fighter, [Root.GetFirstName] spent most of [Root.GetHerHis] days practicing for [Root.GetHerHis] next duel, always seeking new thrills;;;;;;;;;;;;;x
-death_text_dwarf;Born under unfortunate circumstances, [Root.GetFirstName] was often derided for [Root.GetHerHis] diminutive stature. [Root.GetHerHisCap] soul has finally been freed from [Root.GetHerHis] deformed body;;;;;;;;;;;;;x
-death_text_excommunicated;Having died as an outcast, excommunicated from the Church, [Root.GetFirstName] is sure to face eternal damnation in the afterlife;;;;;;;;;;;;;x
-death_text_fat;Cursed with an unhealthy love for food, [Root.GetFirstName] was known for [Root.GetHerHis] massive girth. Many at court were fearing that [Root.GetHerHis] habits would lead [Root.GetHerHim] to an untimely demise for years before [Root.GetHerHis] death;;;;;;;;;;;;;x
-death_text_gamer;Known as a competent strategist, [Root.GetFirstName] was often found envisioning new and complex games to impress [Root.GetHerHis] guests at court;;;;;;;;;;;;;x
-death_text_gardener;Surely, [Root.GetSheHe] is now lending [Root.GetHerHis] skills to groom [Root.Religion.GetHighGodName]'s garden itself;;;;;;;;;;;;;x
-death_text_genius;Born with unparalleled genius, [Root.GetFirstName] was known for [Root.GetHerHis] sharp and brilliant mind, always looking for new problems to solve and new opportunities to exploit;;;;;;;;;;;;;x
-death_text_giant;Born under unfortunate circumstances, [Root.GetFirstName] was often derided for [Root.GetHerHis] gigantic proportions. [Root.GetHerHisCap] soul has finally been freed from [Root.GetHerHis] deformed body;;;;;;;;;;;;;x
-death_text_gluttonous;Known to be Gluttonous, [Root.GetSheHe] spent [Root.GetHerHis] days trying to sate [Root.GetHerHis] abominable appetite. A wicked [Root.GetManWoman], [Root.GetFirstName] will surely pay for [Root.GetHerHis] sins in the afterlife;;;;;;;;;;;;;x
-death_text_hedonist;Known for [Root.GetHerHis] wild feasts and dissolute conduct, [Root.GetSheHe] hardly ever gave any thought to spiritual matters. [Root.GetFirstName] will surely pay for [Root.GetHerHis] sins in the afterlife;;;;;;;;;;;;;x
-death_text_hunchback;Born under unfortunate circumstances, [Root.GetFirstName] was often derided for [Root.GetHerHis] twisted back. [Root.GetHerHisCap] soul has finally been freed from [Root.GetHerHis] deformed body;;;;;;;;;;;;;x
-death_text_hunter;A skilled hunter, [Root.GetFirstName] filled [Root.GetHerHis] halls with exotic trophies gathered in [Root.GetHerHis] many expeditions in the wilderness;;;;;;;;;;;;;x
-death_text_impaler;Known for [Root.GetHerHis] sadistic streak, [Root.GetFirstName] enjoyed torturing and mutilating [Root.GetHerHis] enemies. [Root.GetSheHe] will surely be punished for [Root.GetHerHis] inhuman crimes in the afterlife;;;;;;;;;;;;;x
-death_text_kinslayer;Known to have stained [Root.GetHerHis] hands in the blood of [Root.GetHerHis] own kin, [Root.GetFirstName] is surely paying for [Root.GetHerHis] horrific crimes in the afterlife;;;;;;;;;;;;;x
-death_text_lunatic;A disturbed person, [Root.GetFirstName] was known throughout [Root.GetHerHis] lands as a raving [Root.GetMadwomanMadman]. Many are cautiously rejoicing at the news of [Root.GetHerHis] death;;;;;;;;;;;;;x
-death_text_malnourished;Barely eating anything, [Root.GetFirstName] was known for [Root.GetHerHis] weak constitution. Many at court were fearing that [Root.GetHerHis] habits would lead [Root.GetHerHim] to an untimely demise for years before [Root.GetHerHis] death;;;;;;;;;;;;;x
-death_text_mystic;Known for spending most of [Root.GetHerHis] nights in [Root.GetHerHis] laboratory, [Root.GetFirstName] was believed by many to be nothing more than a warlock, concocting unholy spells in the secrecy of [Root.GetHerHis] [Root.GetHouse];;;;;;;;;;;;;x
-death_text_poet;Known as an inspired and insightful poet, [Root.GetFirstName] delighted many in [Root.GetHerHis] court with [Root.GetHerHis] moving verses;;;;;;;;;;;;;x
-death_text_roman_emperor;By restoring the Empire's ancient power, [Root.GetFirstName] has ensured that [Root.GetHerHis] name will live on in glory to the end of times;;;;;;;;;;;;;x
-death_text_saoshyant;The sacred restorer of the Persian Empire, [Root.GetHerHis] rise to glory will be immortalized in the sermons of all Zoroastrian priests. Surely, [Root.GetSheHe] sits next to Ahura Mazda now;;;;;;;;;;;;;x
-death_text_satanist;Rumored to have sold [Root.GetHerHis] soul to [Root.Religion.GetRandomEvilGodName], [Root.GetFirstName] was always considered by many a troubled and mysterious [Root.GetManWoman];;;;;;;;;;;;;x
-death_text_schemer;Known for [Root.GetHerHis] twisted, conniving mind, [Root.GetFirstName] never revealed [Root.GetHerHis] true intentions to anybody, not even [Root.GetHerHis] closest friends;;;;;;;;;;;;;x
-death_text_scholar;Known to be a respected scholar, [Root.GetFirstName] spent most of [Root.GetHerHis] days studying in [Root.GetHerHis] library, rarely leaving [Root.GetHerHis] [Root.GetHouse];;;;;;;;;;;;;x
-death_text_seducer;Known as a libertine [Root.GetManWoman], [Root.GetFirstName] was gifted with a silver tongue, able to charm anyone into sharing [Root.GetHerHis] bed;;;;;;;;;;;;;x
-death_text_seductress;Known as a libertine [Root.GetManWoman], [Root.GetFirstName] was gifted with a silver tongue, able to charm anyone into sharing [Root.GetHerHis] bed;;;;;;;;;;;;;x
-death_text_selfcrowned;Known to be a staunch opposer of the Papacy, [Root.GetFirstName] was notorious for claiming that [Root.GetHerHis] right to rule came directly from [Root.GetHighGodName];;;;;;;;;;;;;x
-death_text_socializer;A talkative person and a sensible host, [Root.GetFirstName] was renown across the realm for [Root.GetHerHis] welcoming and cheerful attitude;;;;;;;;;;;;;x
-death_text_sponsor_king;A pious [Root.GetManWoman], [Root.GetSheHe] spent many years and resources trying to spread the word of [Root.Religion.GetHighGodName] amongst the heathens;;;;;;;;;;;;;x
-death_text_strategist;Known to be an exceptional strategist, [Root.GetFirstName] spent many of [Root.GetHerHis] days examining fields and drilling [Root.GetHerHis] troops;;;;;;;;;;;;;x
-death_text_theologian;Known as a pious [Root.GetManWoman], [Root.GetFirstName] spent many of [Root.GetHerHis] years studying the ancient scriptures and learning all that there is to know about [Root.Religion.GetHighGodName];;;;;;;;;;;;;x
-death_text_architect_wonder;[Root.GetFirstName] was as a patron of architects, offering parts of his riches to build a better nation. [Root.GetHerHisCap] rule will surely be remembered by the people every time they see the fruits of [Root.GetHerHis] labor;;;;;;;;;;;;;x
-death_text_child;While many struggle to see why [Root.Religion.GetHighGodName] decided to take a young child away from us, we hope [Root.GetFirstName] will find peace in the afterlife;;;;;;;;;;;;;x
-death_text_evil_wonder;For [Root.GetHerHis] wicked deeds, many screamed not to bury [Root.GetFirstName] with the other rulers of our lands, instead to toss [Root.GetHerHim] in an unmarked grave and without the proper services. May [Root.GetFirstName] finally pay for [Root.GetHerHis] sins in the afterlife;;;;;;;;;;;;;x
-death_text_started_wonder;Never succeeding in making a name for [Root.GetHerselfHimself], [Root.GetFirstName] most notable deed was participating in the construction of the great works which [Root.GetSheHe] will never see finished;;;;;;;;;;;;;x
-death_text_charitable;Well-known to be Charitable, [Root.GetSheHe] freely gave money to [Root.GetHerHis] friends and family. A godly [Root.GetManWoman], [Root.GetFirstName] is with [Root.Religion.GetRandomGodName] now;;;;;;;;;;;;;x
-death_text_chaste;A Chaste [Root.GetManWoman], [Root.GetHerHis] honor was beyond refute. A godly [Root.GetManWoman], [Root.GetFirstName] is with [Root.Religion.GetRandomGodName] now;;;;;;;;;;;;;x
-death_text_default;Although not especially blessed, we hope [Root.GetFirstName] will find peace in the afterlife;;;;;;;;;;;;;x
-death_text_diligent;A shining example of Diligence, [Root.GetHerHis] duty was never neglected. A godly [Root.GetManWoman], [Root.GetFirstName] is with [Root.Religion.GetRandomGodName] now;;;;;;;;;;;;;x
-death_text_envious;Ever Envious, [Root.GetSheHe] always wanted what other people had. A wicked [Root.GetManWoman], [Root.GetFirstName] will surely pay for [Root.GetHerHis] sins in the afterlife;;;;;;;;;;;;;x
-death_text_greedy;A Greedy [Root.GetManWoman], [Root.GetSheHe] often remarked on the need to tax [Root.GetHerHis] people into space. A wicked [Root.GetManWoman], [Root.GetFirstName] will surely pay for [Root.GetHerHis] sins in the afterlife;;;;;;;;;;;;;x
-death_text_humble;A humble [Root.GetManWoman], [Root.GetSheHe] never wanted anyone to make a fuss over [Root.GetHerHis] accomplishments. A godly [Root.GetManWoman], [Root.GetFirstName] is with [Root.Religion.GetRandomGodName] now;;;;;;;;;;;;;x
-death_text_kind;Known to be Kind, few had a bad word to say about [Root.GetHerHim]. A godly [Root.GetManWoman], [Root.GetFirstName] is with [Root.Religion.GetRandomGodName] now;;;;;;;;;;;;;x
-death_text_lustful;Well-known to be prone to carnal sins, [Root.GetSheHe] was often unfaithful to [Root.GetHerHis] [Root.GetHusbandWifeOpp]. A wicked [Root.GetManWoman], [Root.GetFirstName] will surely pay for [Root.GetHerHis] sins in the afterlife;;;;;;;;;;;;;x
-death_text_neutral;Although not especially blessed, we hope [Root.GetFirstName] will find peace in the afterlife;;;;;;;;;;;;;x
-death_text_patient;Always Patient, [Root.GetSheHe] never lost [Root.GetHerHis] temper. A godly [Root.GetManWoman], [Root.GetFirstName] is with [Root.Religion.GetRandomGodName] now;;;;;;;;;;;;;x
-death_text_proud;Guilty of the sin of Pride, [Root.GetSheHe] wanted everyone to know of [Root.GetHerHis] greatness. A wicked [Root.GetManWoman], [Root.GetFirstName] will surely pay for [Root.GetHerHis] sins in the afterlife;;;;;;;;;;;;;x
-death_text_slothful;Prone to Sloth, [Root.GetSheHe] never did anything [Root.GetSheHe] did not have to. A wicked [Root.GetManWoman], [Root.GetFirstName] will surely pay for [Root.GetHerHis] sins in the afterlife;;;;;;;;;;;;;x
-death_text_temperate;Ever Temperate, [Root.GetSheHe] never let [Root.GetHerHis] base urges get the better of [Root.GetHerHim]. A godly [Root.GetManWoman], [Root.GetFirstName] is with [Root.Religion.GetRandomGodName] now;;;;;;;;;;;;;x
-death_text_wroth;A Wroth [Root.GetManWoman], people feared to cross [Root.GetHerHim] - or even bring bad news. A wicked [Root.GetManWoman], [Root.GetFirstName] will surely pay for [Root.GetHerHis] sins in the afterlife;;;;;;;;;;;;;x
-
-DEATH_ACCIDENT;died in an accident;;;;;;;;;;;;;x
-DEATH_ACCIDENT_ARROW;was tragically killed by a stray arrow;;;;;;;;;;;;;x
-DEATH_ACCIDENT_BEAR;was killed by a rampaging bear;;;;;;;;;;;;;x
-DEATH_ACCIDENT_BOAR;was gored to death by a boar;;;;;;;;;;;;;x
-DEATH_ACCIDENT_DROWNING;died in a drowning accident;;;;;;;;;;;;;x
-DEATH_ACCIDENT_FALL;died from an accidental fall;;;;;;;;;;;;;x
-DEATH_ACCIDENT_GENERIC_BEAST;was killed by a wild beast;;;;;;;;;;;;;x
-DEATH_ACCIDENT_SNAKES;died from a venomous snake bite;;;;;;;;;;;;;x
-DEATH_ACCIDENT_TIGER;was killed by a man-eating tiger;;;;;;;;;;;;;x
-DEATH_ACCIDENT_TRAPS;was killed by traps;;;;;;;;;;;;;x
-DEATH_BATTLE;died in battle against $KILLER$;;;;;;;;;;;;;x
-DEATH_BATTLE_DUEL;was slain by $KILLER$ in a chaotic battlefield duel;;;;;;;;;;;;;x
-DEATH_BATTLE_DUEL_NO_KILLER;was slain in a chaotic battlefield duel;;;;;;;;;;;;;x
-DEATH_BATTLE_NO_KILLER;died in battle;;;;;;;;;;;;;x
-DEATH_BERSERKER_RAGE;died caught in the violent fury of $KILLER$;;;;;;;;;;;;;x
-DEATH_BERSERKER_RAGE_NO_KILLER;died a victim of violent fury;;;;;;;;;;;;;x
-DEATH_BY_DRINKING_POISON;died after $KILLER$ made [Root.GetHerHim] drink something poisonous;;;;;;;;;;;;;x
-DEATH_BY_DRINKING_POISON_NO_KILLER;died after drinking something poisonous;;;;;;;;;;;;;x
-DEATH_BY_MURDER;was murdered on the orders of $KILLER$;;;;;;;;;;;;;x
-DEATH_BY_MURDER_NO_KILLER;was murdered;;;;;;;;;;;;;x
-DEATH_BY_MURDER_UNKNOWN;died under suspicious circumstances;;;;;;;;;;;;;x
-DEATH_BY_NATURE;died a natural death;;;;;;;;;;;;;x
-DEATH_BY_TRAIT;died $TRAIT_DEATH$;;;;;;;;;;;;;x
-DEATH_CHILDBIRTH;died in childbirth;;;;;;;;;;;;;x
-DEATH_CLAIM_DUEL_ATTACKER;was slain by $KILLER$ after challenging [Root.GetHerHis] right to rule;;;;;;;;;;;;;x
-DEATH_CLAIM_DUEL_ATTACKER_NO_KILLER;was slain in a duel after challenging someone's rule;;;;;;;;;;;;;x
-DEATH_CLAIM_DUEL_DEFENDER;was slain by $KILLER$, who challenged [Root.GetHerHis] right to rule;;;;;;;;;;;;;x
-DEATH_CLAIM_DUEL_DEFENDER_NO_KILLER;was slain in a duel after someone challenged [Root.GetHerHis] right to rule;;;;;;;;;;;;;x
-DEATH_COMBUSTION;spontaneously combusted;;;;;;;;;;;;;x
-DEATH_CROCODILE;was fed to a crocodile by $KILLER$;;;;;;;;;;;;;x
-DEATH_CROCODILE_NO_KILLER;was eaten by a crocodile;;;;;;;;;;;;;x
-DEATH_CROWS;was pecked to death by crows;;;;;;;;;;;;;x
-DEATH_DATE_CHINA;Went to China: $DATE|Y$ at age $AGE|Y$;;;;;;;;;;;;;x
-DEATH_DATE_CHINA_RETURN;Returned to China: $DATE|Y$ at age $AGE|Y$;;;;;;;;;;;;;x
-DEATH_DATE_DESC;Died: $DATE|Y$ at age $AGE|Y$;;;;;;;;;;;;;x
-DEATH_DATE_MISSING;Disappeared: $DATE|Y$ at age $AGE|Y$;;;;;;;;;;;;;x
-DEATH_DUEL;was slain by $KILLER$ in personal combat;;;;;;;;;;;;;x
-DEATH_DUEL_NO_KILLER;was slain in personal combat;;;;;;;;;;;;;x
-DEATH_DUNGEON;died in the dungeons of $KILLER$;;;;;;;;;;;;;x
-DEATH_DUNGEON_NO_KILLER;died in prison;;;;;;;;;;;;;x
-DEATH_DURING_PILGRIMAGE;left for a holy pilgrimage, and never returned;;;;;;;;;;;;;x
-DEATH_DURING_PILGRIMAGE_NO_KILLER;Disappeared during a pilgrimage;;;;;;;;;;;;;x
-DEATH_EXECUTED_BY_CHINESE_EMPEROR;was executed on the orders of the Chinese Emperor $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTED_BY_CHINESE_EMPEROR_NO_KILLER;was executed in China;;;;;;;;;;;;;x
-DEATH_EXECUTION;was executed by $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_ASH;was suffocated in ash on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_ASH_NO_KILLER;was suffocated in ash;;;;;;;;;;;;;x
-DEATH_EXECUTION_AZTEC_SACRIFICE;was sacrificed to the gods on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_AZTEC_SACRIFICE_NO_KILLER;was sacrificed to the gods;;;;;;;;;;;;;x
-DEATH_EXECUTION_BACK_BREAKING;had [Root.GetHerHis] back broken on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_BACK_BREAKING_NO_KILLER;had [Root.GetHerHis] back broken;;;;;;;;;;;;;x
-DEATH_EXECUTION_BAMBOO;was pierced to death on growing bamboo on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_BAMBOO_NO_KILLER;was pierced to death on growing bamboo;;;;;;;;;;;;;x
-DEATH_EXECUTION_BEAR;was mauled to death by a bear on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_BEAR_NO_KILLER;was mauled to death by a bear;;;;;;;;;;;;;x
-DEATH_EXECUTION_BEHEADING;was beheaded on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_BEHEADING_NO_KILLER;was beheaded;;;;;;;;;;;;;x
-DEATH_EXECUTION_BLOOD_EAGLE;was carved into a blood eagle on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_BLOOD_EAGLE_NO_KILLER;was carved into a blood eagle;;;;;;;;;;;;;x
-DEATH_EXECUTION_BOAR;was gored to death by a boar on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_BOAR_NO_KILLER;was gored to death by a boar;;;;;;;;;;;;;x
-DEATH_EXECUTION_BOILING;was boiled to death on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_BOILING_NO_KILLER;was boiled to death;;;;;;;;;;;;;x
-DEATH_EXECUTION_BRAZEN_BULL;was roasted in a Brazen Bull on the orders of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_BURNING;was burnt at the stake on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_BURNING_NO_KILLER;was burnt at the stake;;;;;;;;;;;;;x
-DEATH_EXECUTION_CRUCIFIXION;was crucified on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_CRUCIFIXION_NO_KILLER;was crucified;;;;;;;;;;;;;x
-DEATH_EXECUTION_CRUSHING;was crushed to death on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_CRUSHING_NO_KILLER;was crushed to death;;;;;;;;;;;;;x
-DEATH_EXECUTION_DISEMBOWELMENT;had [Root.GetHerHis] bowels torn out on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_DISEMBOWELMENT_NO_KILLER;had [Root.GetHerHis] bowels torn out;;;;;;;;;;;;;x
-DEATH_EXECUTION_DROWNING_PIT;died thrashing in the drowning-pit on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_DROWNING_PIT_NO_KILLER;died thrashing in the drowning-pit;;;;;;;;;;;;;x
-DEATH_EXECUTION_EATEN;was voraciously devoured by $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_EATEN_NO_KILLER;was devoured;;;;;;;;;;;;;x
-DEATH_EXECUTION_EATEN_UNKNOWN;was devoured;;;;;;;;;;;;;x
-DEATH_EXECUTION_EATEN_UNKNOWN_NO_KILLER;was devoured;;;;;;;;;;;;;x
-DEATH_EXECUTION_ELEPHANTS;was crushed to death by elephants on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_ELEPHANTS_NO_KILLER;was trampled to death by elephants;;;;;;;;;;;;;x
-DEATH_EXECUTION_FLAYING;was slowly flayed to death on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_FLAYING_NO_KILLER;was slowly flayed to death;;;;;;;;;;;;;x
-DEATH_EXECUTION_GARROTTING;was executed by garroting on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_GARROTTING_NO_KILLER;was executed by garroting;;;;;;;;;;;;;x
-DEATH_EXECUTION_HANGING;was hanged on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_HANGING_NO_KILLER;was hanged;;;;;;;;;;;;;x
-DEATH_EXECUTION_HDQ;was hanged, drawn and quartered on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_HDQ_NO_KILLER;was hanged, drawn and quartered;;;;;;;;;;;;;x
-DEATH_EXECUTION_HORSES;was trampled to death by horses on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_HORSES_NO_KILLER;was trampled to death by horses;;;;;;;;;;;;;x
-DEATH_EXECUTION_HUNT;was killed in an elaborate hunt by $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_HUNT_NO_KILLER;was killed in an elaborate hunt;;;;;;;;;;;;;x
-DEATH_EXECUTION_IMMUREMENT;was walled up alive on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_IMMUREMENT_NO_KILLER;was walled up alive;;;;;;;;;;;;;x
-DEATH_EXECUTION_IMPALING;was cruelly impaled on a stake by $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_IMPALING_NO_KILLER;was cruelly impaled on a stake;;;;;;;;;;;;;x
-DEATH_EXECUTION_LION;was mauled to death by a lion on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_LION_NO_KILLER;was mauled to death by a lion;;;;;;;;;;;;;x
-DEATH_EXECUTION_LIVE_BURIAL;was buried alive on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_LIVE_BURIAL_NO_KILLER;was buried alive;;;;;;;;;;;;;x
-DEATH_EXECUTION_MACABRE_BANQUET;was embalmed and added to $KILLER$'s macabre banquet;;;;;;;;;;;;;x
-DEATH_EXECUTION_MOAT_PIT;was starved to death, in the moat of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_MOAT_PIT_NO_KILLER;was starved to death in a moat;;;;;;;;;;;;;x
-DEATH_EXECUTION_MOAT_SPIKES;was impaled on spikes, in the moat of a great fortress, by $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_MOAT_SPIKES_NO_KILLER;was impaled on spikes in the moat of a great fortress;;;;;;;;;;;;;x
-DEATH_EXECUTION_MOAT_WATER;was drowned, in the moat of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_MOAT_WATER_NO_KILLER;was drowned in a moat;;;;;;;;;;;;;x
-DEATH_EXECUTION_NO_KILLER;was executed;;;;;;;;;;;;;x
-DEATH_EXECUTION_POISON;was poisoned to death on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_POISON_NO_KILLER;was poisoned to death;;;;;;;;;;;;;x
-DEATH_EXECUTION_SAWING;was sawed in half on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_SAWING_NO_KILLER;was sawed in half;;;;;;;;;;;;;x
-DEATH_EXECUTION_SCAPHISM;was executed by Scaphism on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_SCAPHISM_NO_KILLER;was executed by Scaphism;;;;;;;;;;;;;x
-DEATH_EXECUTION_SNAKE_PIT;died from venomous bites in the snake pit on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_SNAKE_PIT_NO_KILLER;died from venomous bites in the snake pit;;;;;;;;;;;;;x
-DEATH_EXECUTION_SPIKES;was impaled on the spikes of a great building by $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_SPIKES_NO_KILLER;was impaled on the spikes of a great building;;;;;;;;;;;;;x
-DEATH_EXECUTION_STONING;was stoned to death on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_STONING_NO_KILLER;was stoned to death;;;;;;;;;;;;;x
-DEATH_EXECUTION_TIGER;was mauled to death by a tiger on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_TIGER_NO_KILLER;was mauled to death by a tiger;;;;;;;;;;;;;x
-DEATH_EXECUTION_WHEEL;was broken on the wheel by order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_WHEEL_NO_KILLER;was broken on the wheel;;;;;;;;;;;;;x
-DEATH_EXECUTION_WINE;was drowned in wine on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_EXECUTION_WINE_NO_KILLER;was drowned in wine;;;;;;;;;;;;;x
-DEATH_FEAR;died from fear;;;;;;;;;;;;;x
-DEATH_HASHISH_OVERDOSE;died from using too much Hashish;;;;;;;;;;;;;x
-DEATH_IN_CHINA;died in China at the hands of $KILLER$;;;;;;;;;;;;;x
-DEATH_IN_CHINA_NO_KILLER;died in China;;;;;;;;;;;;;x
-DEATH_LEGENDARY_FAIL_DUEL;died trying to best $KILLER$ in a legendary duel;;;;;;;;;;;;;x
-DEATH_LEGENDARY_FAIL_DUEL_NO_KILLER;was slain in a legendary duel;;;;;;;;;;;;;x
-DEATH_LEGENDARY_WIN_DUEL;was slain by $KILLER$ in a spectacular duel;;;;;;;;;;;;;x
-DEATH_LEGENDARY_WIN_DUEL_NO_KILLER;was slain in a spectacular duel;;;;;;;;;;;;;x
-DEATH_LIGHTNING;was killed by a lightning strike;;;;;;;;;;;;;x
-DEATH_MISSING;vanished without a trace;;;;;;;;;;;;;x
-DEATH_MISSION_DUEL;was slain by $KILLER$ in a dramatic duel for blood;;;;;;;;;;;;;x
-DEATH_MISSION_DUEL_NO_KILLER;was slain in a duel for blood;;;;;;;;;;;;;x
-DEATH_MURDER_HASHSHASHIN;died at the hands of the Hashshashin;;;;;;;;;;;;;x
-DEATH_MURDER_KNOWN_HASHSHASHIN;died at the hands of the Hashshashin $KILLER$;;;;;;;;;;;;;x
-DEATH_PLATYPUS;was horribly killed by the platypuses of $KILLER$;;;;;;;;;;;;;x
-DEATH_PLATYPUS_NO_KILLER;was horribly killed by platypuses;;;;;;;;;;;;;x
-DEATH_POOR_HEALTH;died of poor health;;;;;;;;;;;;;x
-DEATH_RABBLE;was killed by rabble;;;;;;;;;;;;;x
-DEATH_SACRIFICED;was offered up in sacrifice to the Gods by $KILLER$;;;;;;;;;;;;;x
-DEATH_SACRIFICED_ANCESTORS;was offered up in sacrifice to the Ancestors by $KILLER$;;;;;;;;;;;;;x
-DEATH_SACRIFICED_NO_KILLER;was offered up in sacrifice to the Gods;;;;;;;;;;;;;x
-DEATH_SLAVERY;was sold into slavery by $KILLER$;;;;;;;;;;;;;x
-DEATH_SLAVERY_NO_KILLER;was sold into slavery;;;;;;;;;;;;;x
-DEATH_SUICIDE;committed suicide;;;;;;;;;;;;;x
-DEATH_TROUBLED_PREGNANCY;died due to complications during her pregnancy;;;;;;;;;;;;;x
-DEATH_WENT_BACK_TO_CHINA;was sent home to China by $KILLER$;;;;;;;;;;;;;x
-DEATH_WENT_BACK_TO_CHINA_NO_KILLER;returned home to China;;;;;;;;;;;;;x
-DEATH_WENT_TO_CHINA;left [Root.GetHerHis] old life behind to travel to the Chinese Empire, on the order of $KILLER$;;;;;;;;;;;;;x
-DEATH_WENT_TO_CHINA_NO_KILLER;left [Root.GetHerHis] old life behind to travel to the Chinese Empire;;;;;;;;;;;;;x
+death_text_administrator;A conscientious ruler, [Root.GetFirstName] was renown for [Root.GetHerHis] excellent skills as a steward and a ruler;;;;;;;;;;;Áóäó÷è ðàçóìíûì ïðàâèòåëåì, [GetSheHe] áûë[GetEndA] èçâåñò[GetNaEn] ïðåæäå âñåãî áëàãîäàðÿ ñâîèì íàâûêàì óïðàâëåíèÿ;;x
+death_text_architect;Known as a great builder and imaginative planner, [Root.GetFirstName] will be remembered for [Root.GetHerHis] tireless attempts to renovate and expand [Root.Capital.GetName];;;;;;;;;;;Èçâåñòí[GetAyaYy] êàê âåëèêèé ñòðîèòåëü è áëåñòÿùèé èíæåíåð, ýò[GetEtaEtot] [GetAgedPerson] çàïîìíèòñÿ áóäóùèì ïîêîëåíèÿì áëàãîäàðÿ ñâîèì íåóòîìèìûì ïîïûòêàì îáíîâèòü è ðàñøèðèòü [Capital.GetHoldingGenericPlace] [Capital.County.GetBaseName];;x
+death_text_bastard;Because of the unfortunate circumstances of [Root.GetHerHis] birth, many doubted the legitimacy of [Root.GetFirstName]'s rule. [Root.GetSheHeCap] has now found peace from their slander in death;;;;;;;;;;;Ïî ïðè÷èíå íåóäà÷íûõ îáñòîÿòåëüñòâ, ñâÿçàííûõ ñ [GetHersHis] ðîæäåíèåì, ìíîãèå ñîìíåâàëèñü â çàêîííîñòè [GetHersHis] ïðàâëåíèÿ. È âîò òåïåðü, íàêîíåö, [GetSheHe] íàø[GetLaYol] ïîêîé ïîñëå ñìåðòè;;x
+death_text_bestiality;A wicked [Root.GetManWoman], [Root.GetSheHe] was rumored to speak to and entertain [Root.GetHerselfHimself] with beasts. [Root.GetFirstName] will surely pay for [Root.GetHerHis] abominable sins in the afterlife;;;;;;;;;;;Ïî ñëóõàì ýò[GetEtaEtot] èçâðàùåí[GetKaEts] ðàçâëåêàë[GetEndA] ñåáÿ, âûòâîðÿÿ âñÿêèå íåïîòðåáñòâà ñ æèâîòíûìè, è òåïåðü, ïîñëå ñìåðòè, [GetSheHe] îáÿçàòåëüíî çàïëàòèò çà ñâîè ãðåõè;;x
+death_text_cannibal;Rumored to consume human flesh for sustenance, [Root.GetFirstName] is without a doubt being punished in the afterlife for [Root.GetHerHis] wickedness in life;;;;;;;;;;;Ïîãîâîðèâàþò, ÷òî ýò[GetEtaEtot] [GetAgedPerson] ïîåäàë[GetEndA] ÷åëîâå÷åñêóþ ïëîòü, è òåïåðü, ïîñëå ñìåðòè, [GetSheHe] íåñîìíåííî áóäåò íàêàçàí[GetEndA] çà ñâîè ãðåõè;;x
+death_text_convert_king;A revolutionary [Root.GetManWoman], [Root.GetSheHe] led [Root.GetHerHis] tribes away from the worship of old idols and into the glory of the [Root.Religion.GetName] faith;;;;;;;;;;;Ýò[GetEtaEtot] íåîðäèíàðí[GetAyaYy] è âûäàþù[GetAyaIy]ñÿ [GetAgedPerson] ïîâåë[GetEndA] ñâîé íàðîä ïðî÷ü îò ëîæíûõ èäîëîâ ê èñòèííîé [GetRelAdj]ñêîé âåðå;;x
+death_text_crippled;Having been mangled in a terrible accident, [Root.GetFirstName] spent [Root.GetHerHis] last years barely able to walk. Death has finally freed [Root.GetHerHis] soul from [Root.GetHerHis] crippled body;;;;;;;;;;;Áóäó÷è ñèëüíî èñêàëå÷åíí[GetOyYm], [GetSheHe] ïðîâåë[GetEndA] ïîñëåäíèå ãîäû áåç âîçìîæíîñòè âñòàòü íà íîãè. Ñìåðòü ñòàëà äëÿ [GetHersHis] äóøè îñâîáîæäåíèåì;;x
+death_text_crusader;A zealous [Root.GetManWoman], [Root.GetSheHe] fought for the glory of [Root.Religion.GetHighGodName] against the heathens in one of the greatest holy wars of recent history;;;;;;;;;;;Ýò[GetEtaEtot] íàáîæí[GetAyaYy] [GetAgedPerson] ñðàæà[GetLasLsya] âî èìÿ [GetReligionHighGodGEN] ïðîòèâ èíîâåðöåâ â îäíîé èç âåëè÷àéøèõ â èñòîðèè ñâÿùåííûõ âîéí;;x
+death_text_disfigured;Having been horribly disfigured, [Root.GetFirstName] spent [Root.GetHerHis] last years unable to show [Root.GetHerHis] face in public. Death has finally freed [Root.GetHerHis] soul from [Root.GetHerHis] crippled body;;;;;;;;;;;Áóäó÷è ñòðàøíî èçóðîäîâàíí[GetOyYm], [GetSheHe] íå ìîã[GetNoneE] ïîêàçûâàòü ñâî¸ ëèöî ïóáëèêå. Â êàêîì-òî ñìûñëà ýòà ñìåðòü ñòàëà äëÿ [GetHersHis] äóøè îñâîáîæäåíèåì;;x
+death_text_drunkard;Known as an inveterate drunkard, [Root.GetFirstName] hardly ever spent a single day without drenching [Root.GetHerselfHimself] in liquor, barely aware of [Root.GetHerHis] surroundings. [Root.GetFirstName] will surely pay for [Root.GetHerHis] sins in the afterlife;;;;;;;;;;;Áóäó÷è çàÿäë[GetOyYm] ïüÿíèöåé, [GetSheHe] ïî÷òè íå ðàññòàâà[GetLasLsya] ñ âûïèâêîé. Ðåäêî êîìó óäàâàëîñü çàñòàòü [GetHersHis] òðåâçâ[GetOyYm]. Íåñîìíåííî, òåïåðü, ïîñëå ñìåðòè, [GetSheHe] çàïëàòèò[GetEndA] çà ñâîè ãðåõè;;x
+death_text_duelist;Known to be a fierce fighter, [Root.GetFirstName] spent most of [Root.GetHerHis] days practicing for [Root.GetHerHis] next duel, always seeking new thrills;;;;;;;;;;;Áóäó÷è ñâèðåïûì âîèíîì, [GetSheHe] ïðîâåë[GetEndA] áîëüøóþ ÷àñòü æèçíè, ïðàêòèêóÿñü ïåðåä î÷åðåäíûìè ïîåäèíêàìè, â âå÷íîì ïîèñêå îñòðûõ îùóùåíèé;;x
+death_text_dwarf;Born under unfortunate circumstances, [Root.GetFirstName] was often derided for [Root.GetHerHis] diminutive stature. [Root.GetHerHisCap] soul has finally been freed from [Root.GetHerHis] deformed body;;;;;;;;;;;Êîíå÷íî, [GetSheHe] íå âèíîâàò[GetEndA], ÷òî òàê[GetOyIm] ðîäè[GetLasLsya], íî [GetHersHis] ÷àñòî âûñìåèâàëè çà íèçêèé ðîñò. Òåïåðü [GetHersHis] äóøà, íàêîíåö, îñâîáîäèòñÿ îò ýòîãî óðîäëèâîãî òåëà;;x
+death_text_excommunicated;Having died as an outcast, excommunicated from the Church, [Root.GetFirstName] is sure to face eternal damnation in the afterlife;;;;;;;;;;;Áóäó÷è èçãîåì, îòëó÷¸ííûì îò Öåðêâè, [GetSheHe] áûë[GetEndA] îáðå÷åí[GetEndA] íà âå÷íîå ïðîêëÿòüå ïîñëå ñìåðòè;;x
+death_text_fat;Cursed with an unhealthy love for food, [Root.GetFirstName] was known for [Root.GetHerHis] massive girth. Many at court were fearing that [Root.GetHerHis] habits would lead [Root.GetHerHim] to an untimely demise for years before [Root.GetHerHis] death;;;;;;;;;;;Èçâåñòí[GetAyaYy] ñâîèì íåçäîðîâûì è íåó¸ìíûì àïïåòèòîì, [GetSheHe] áûë[GetEndA] òàê[GetOyIm] òîëñò[GetOyYm], ÷òî ìíîãèå ïðè äâîðå áîÿëèñü [GetHersHis] âîçìîæíîé áåçâðåìåííîé êîí÷èíû;;x
+death_text_gamer;Known as a competent strategist, [Root.GetFirstName] was often found envisioning new and complex games to impress [Root.GetHerHis] guests at court;;;;;;;;;;;Áóäó÷è çàÿäëûì èãðîêîì, [GetSheHe] ÷àñòî óñòðàèâàë[GetEndA] èãðû ïðè äâîðå, ÷òîáû âïå÷àòëèòü ñâîèõ ãîñòåé;;x
+death_text_gardener;Surely, [Root.GetSheHe] is now lending [Root.GetHerHis] skills to groom [Root.Religion.GetHighGodName]'s garden itself;;;;;;;;;;;Ìíîãèå áû ñêàçàëè, ÷òî òåïåðü [GetSheHe] óõàæèâàåò çà ñàäîì ñàìî[GetHGodYGo] [GetReligionHighGodGEN];;x
+death_text_genius;Born with unparalleled genius, [Root.GetFirstName] was known for [Root.GetHerHis] sharp and brilliant mind, always looking for new problems to solve and new opportunities to exploit;;;;;;;;;;;Ñ ïåðâûõ ëåò [GetHersHis] æèçíè òðóäíî áûëî íå çàìåòèòü [GetHersHis] áëåñòÿùèé è îñòðûé óì, èùóùèé âñ¸ íîâûå çàäà÷è äëÿ ðåøåíèÿ è íîâûå âîçìîæíîñòè äëÿ èññëåäîâàíèÿ;;x
+death_text_giant;Born under unfortunate circumstances, [Root.GetFirstName] was often derided for [Root.GetHerHis] gigantic proportions. [Root.GetHerHisCap] soul has finally been freed from [Root.GetHerHis] deformed body;;;;;;;;;;;Êîíå÷íî, [GetSheHe] íå âèíîâàò[GetEndA], ÷òî òàê[GetOyIm] ðîäè[GetLasLsya], íî [GetHersHis] ÷àñòî âûñìåèâàëè çà îãðîìíûé ðàçìåð. Òåïåðü [GetHersHis] äóøà, íàêîíåö, îñâîáîäèòñÿ îò ýòîãî óðîäëèâîãî òåëà;;x
+death_text_gluttonous;Known to be Gluttonous, [Root.GetSheHe] spent [Root.GetHerHis] days trying to sate [Root.GetHerHis] abominable appetite. A wicked [Root.GetManWoman], [Root.GetFirstName] will surely pay for [Root.GetHerHis] sins in the afterlife;;;;;;;;;;;Íåó¸ìíîå îáæîðñòâî äåëàëî [GetHersHis] äóõ ñëàáåå, à òåëî - òó÷íåå. Íåñîìíåííî, [GetFirstName] îòâåòèò çà ñâîè ãðåõè ïîñëå ñìåðòè;;x
+death_text_hedonist;Known for [Root.GetHerHis] wild feasts and dissolute conduct, [Root.GetSheHe] hardly ever gave any thought to spiritual matters. [Root.GetFirstName] will surely pay for [Root.GetHerHis] sins in the afterlife;;;;;;;;;;;Èçâåñòí[GetAyaYy] ñâîèìè ýêñòðàâàãàíòíûìè ïðàçäíèêàìè è ýêçîòè÷åñêèìè óäîâîëüñòâèÿìè, [GetSheHe] ðåäêî äóìàë[GetEndA] î äóõîâíîì àñïåêòå áûòèÿ, è òåïåðü, ïîñëå ñìåðòè, íàâåðíÿêà çàïëàòèò çà ñâîè ãðåõè;;x
+death_text_hunchback;Born under unfortunate circumstances, [Root.GetFirstName] was often derided for [Root.GetHerHis] twisted back. [Root.GetHerHisCap] soul has finally been freed from [Root.GetHerHis] deformed body;;;;;;;;;;;Êîíå÷íî, [GetSheHe] íå âèíîâàò[GetEndA], ÷òî òàê[GetOyIm] ðîäè[GetLasLsya], íî [GetHersHis] ÷àñòî âûñìåèâàëè çà íåïðàâèëüíóþ ôîðìó ñïèíû. Òåïåðü [GetHersHis] äóøà, íàêîíåö, îñâîáîäèòñÿ îò ýòîãî óðîäëèâîãî òåëà;;x
+death_text_hunter;A skilled hunter, [Root.GetFirstName] filled [Root.GetHerHis] halls with exotic trophies gathered in [Root.GetHerHis] many expeditions in the wilderness;;;;;;;;;;;Áûëî áû óäèâèòåëüíî, åñëè áû òàêîé óìåëûé îõîòíèê, êàê [GetSheHe], íå óêðàñèë ñâîè ñòåíû ýêçîòè÷åñêèìè òðîôåÿìè, äîáûòûìè âî âñåâîçìîæíûõ ýêñïåäèöèÿõ â äèêèå ìåñòà;;x
+death_text_impaler;Known for [Root.GetHerHis] sadistic streak, [Root.GetFirstName] enjoyed torturing and mutilating [Root.GetHerHis] enemies. [Root.GetSheHe] will surely be punished for [Root.GetHerHis] inhuman crimes in the afterlife;;;;;;;;;;;Èçâåñòí[GetAyaYy] ñâîèìè ñàäèñòñêèìè íàêëîííîñòÿìè, [GetSheHe] èñïûòûâàë[GetEndA] íàñëàæäåíèå, ïûòàÿ è êàëå÷à ñâîèõ âðàãîâ, è òåïåðü, ïîñëå ñìåðòè, [GetSheHe] íåñîìíåííî ïîïëàòèòñÿ çà ñâîè çëîäåÿíèÿ;;x
+death_text_kinslayer;Known to have stained [Root.GetHerHis] hands in the blood of [Root.GetHerHis] own kin, [Root.GetFirstName] is surely paying for [Root.GetHerHis] horrific crimes in the afterlife;;;;;;;;;;;Èçâåñòíî, ÷òî [GetSheHe] çàìàðàë[GetEndA] ðóêè ðîäíîé êðîâüþ, è òåïåðü, ïîñëå ñìåðòè, [GetSheHe] çàïëàòèò ñïîëíà çà ñâîè çëîäåÿíèÿ;;x
+death_text_lunatic;A disturbed person, [Root.GetFirstName] was known throughout [Root.GetHerHis] lands as a raving [Root.GetMadwomanMadman]. Many are cautiously rejoicing at the news of [Root.GetHerHis] death;;;;;;;;;;;Áóäó÷è âåñüìà ýêñòðàâàãàíòí[GetOyYm] [GetAgedPersonINS], [GetSheHe] áûë[GetEndA] øèðîêî èçâåñò[GetNaEn] â íàðîäå êàê ñóìàñøåäø[GetAyaIy] [GetTitle]. Ìíîãèå âçäîõíóëè ñ îáëåã÷åíèåì, óñëûøàâ î [GetHersHis] ñìåðòè;;x
+death_text_malnourished;Barely eating anything, [Root.GetFirstName] was known for [Root.GetHerHis] weak constitution. Many at court were fearing that [Root.GetHerHis] habits would lead [Root.GetHerHim] to an untimely demise for years before [Root.GetHerHis] death;;;;;;;;;;;Äîïîäëèííî íåèçâåñòíî ñêîëüêî [GetSheHe] åë[GetEndA], íî [GetSheHe] áûë[GetEndA] òàê[GetOyIm] òîù[GetEyIm], ÷òî ìíîãèå ïðè äâîðå áîÿëèñü [GetHersHis] âîçìîæíîé áåçâðåìåííîé êîí÷èíû;;x
+death_text_mystic;Known for spending most of [Root.GetHerHis] nights in [Root.GetHerHis] laboratory, [Root.GetFirstName] was believed by many to be nothing more than a warlock, concocting unholy spells in the secrecy of [Root.GetHerHis] [Root.GetHouse];;;;;;;;;;;Ïðîâîäÿ ìíîãèå íî÷è â ñâîåé ëàáîðàòîðèè, [GetSheHe] ñíèñêàë[GetEndA] ñåáå ðåïóòàöèþ êîëäóí[GetSoftIA], êîòîð[GetAyaYy] âàðèò ìàãè÷åñêèå çåëüÿ â ñâî¸ì [GetHousePREP];;x
+death_text_poet;Known as an inspired and insightful poet, [Root.GetFirstName] delighted many in [Root.GetHerHis] court with [Root.GetHerHis] moving verses;;;;;;;;;;;Èçâåñòí[GetAyaYy] êàê òîíêî ÷óâñòâóþùèé ïîýò, [GetSheHe] ïîñâÿòèë[GetEndA] ìíîæåñòâî ïðåêðàñíûõ ñòðîê íå òîëüêî ñàìûì áëèçêèì, íî è íåêîòîðûì èç ñâîèõ ïðèäâîðíûõ;;x
+death_text_roman_emperor;By restoring the Empire's ancient power, [Root.GetFirstName] has ensured that [Root.GetHerHis] name will live on in glory to the end of times;;;;;;;;;;;Âîçðîäèâ áûëîå âåëè÷èå Èìïåðèè, [GetSheHe] óâåêîâå÷èë[GetEndA] ñâî¸ èìÿ, íàâñåãäà âïèñàâ åãî â àííàëû èñòîðèè;;x
+death_text_saoshyant;The sacred restorer of the Persian Empire, [Root.GetHerHis] rise to glory will be immortalized in the sermons of all Zoroastrian priests. Surely, [Root.GetSheHe] sits next to Ahura Mazda now;;;;;;;;;;;[GetHersHisCap] cëàâà ñâÿùåíí[GetOyOgo] âîññòàíîâèòåë[GetSoftNitsyYa] Ïåðñèäñêîé èìïåðèè áóäåò íàâñåãäà óâåêîâå÷åíà â ïðîïîâåäÿõ çîðîàñòðèéñêèõ æðåöîâ. Áåç ñîìíåíèé, [GetSheHe] òåïåðü ñ Àõóðîé Ìàçäîé;;x
+death_text_satanist;Rumored to have sold [Root.GetHerHis] soul to [Root.Religion.GetRandomEvilGodName], [Root.GetFirstName] was always considered by many a troubled and mysterious [Root.GetManWoman];;;;;;;;;;;Íåêîòîðûå ñ÷èòàþò, ÷òî [GetSheHe] ïðîäàë[GetEndA] ñâîþ äóøó äüÿâîëó, äðóãèå æå ãîâîðÿò, ÷òî [GetSheHe] ïðîñòî î÷åíü çàãàäî÷íàÿ è íåîäíîçíà÷íàÿ ëè÷íîñòü;;x
+death_text_schemer;Known for [Root.GetHerHis] twisted, conniving mind, [Root.GetFirstName] never revealed [Root.GetHerHis] true intentions to anybody, not even [Root.GetHerHis] closest friends;;;;;;;;;;;Ìíîãèå îòìå÷àëè [GetHersHis] ñêðûòíóþ íàòóðó è èçîùð¸ííûé óì. [GetSheHe] íèêîãäà íå ðàñêðûâàë[GetEndA] ñâîè èñòèííûå íàìåðåíèÿ êîìó-ëèáî, äàæå ñàìûì áëèçêèì ëþäÿì;;x
+death_text_scholar;Known to be a respected scholar, [Root.GetFirstName] spent most of [Root.GetHerHis] days studying in [Root.GetHerHis] library, rarely leaving [Root.GetHerHis] [Root.GetHouse];;;;;;;;;;;Áóäó÷è óâàæàåìûì ó÷¸íûì, [GetSheHe] ïðîâåë[GetEndA] áîëüøóþ ÷àñòü æèçíè â áèáëèîòåêå, ðåäêî ïîêèäàÿ ñâîé [GetHouse];;x
+death_text_seducer;Known as a libertine [Root.GetManWoman], [Root.GetFirstName] was gifted with a silver tongue, able to charm anyone into sharing [Root.GetHerHis] bed;;;;;;;;;;;Ýò[GetEtaEtot] ðàñïóòíè[GetTsaK] îáëàäàë[GetEndA] íåâåðîÿòíûì êðàñíîðå÷èåì, ñïîñîáíûì î÷àðîâàòü ëþáîãî è çàòàùèòü åãî â ïîñòåëü;;x
+death_text_seductress;Known as a libertine [Root.GetManWoman], [Root.GetFirstName] was gifted with a silver tongue, able to charm anyone into sharing [Root.GetHerHis] bed;;;;;;;;;;;Ýò[GetEtaEtot] ðàñïóòíè[GetTsaK] îáëàäàë[GetEndA] íåâåðîÿòíûì êðàñíîðå÷èåì, ñïîñîáíûì î÷àðîâàòü ëþáîãî è çàòàùèòü åãî â ïîñòåëü;;x
+death_text_selfcrowned;Known to be a staunch opposer of the Papacy, [Root.GetFirstName] was notorious for claiming that [Root.GetHerHis] right to rule came directly from [Root.GetHighGodName];;;;;;;;;;;Èçâåñòí[GetAyaYy] êàê ÿð[GetAyaYy] ïðîòèâíè[GetTsaK] Ïàïñòâà, [GetSheHe] áåç çàçðåíèÿ ñîâåñòè óòâåðæäàë[GetEndA], ÷òî çàêîííîñòü [GetHersHis] ïðàâëåíèÿ íàïðÿìóþ äàðîâàíà [GetHerHim] ñàì[GetHGodOyIm] [GetReligionHighGodINS];;x
+death_text_socializer;A talkative person and a sensible host, [Root.GetFirstName] was renown across the realm for [Root.GetHerHis] welcoming and cheerful attitude;;;;;;;;;;;Ìíîãèå îòìå÷àëè [GetHersHis] îáùèòåëüíîñòü è âíèìàíèå ê ñâîèì ãîñòÿì. [GetSheHeCap] çàïîìíè[GetLasLsya] ëþäÿì êàê äîáðîæåëàòåëüíûé è îòçûâ÷èâûé ïðàâèòåëü;;x
+death_text_sponsor_king;A pious [Root.GetManWoman], [Root.GetSheHe] spent many years and resources trying to spread the word of [Root.Religion.GetHighGodName] amongst the heathens;;;;;;;;;;;Ýò[GetEtaEtot] áëàãî÷åñòèâ[GetAyaYy] [GetAgedPerson] ïðîâåë[GetEndA] ìíîãèå ãîäû è ïîòðàòèë[GetEndA] ìàññó ñðåäñòâ íà òî, ÷òîáû ðàñïðîñòðàíèòü ñëîâî [GetReligionHighGodGEN] ñðåäè ÿçû÷íèêîâ;;x
+death_text_strategist;Known to be an exceptional strategist, [Root.GetFirstName] spent many of [Root.GetHerHis] days examining fields and drilling [Root.GetHerHis] troops;;;;;;;;;;;Áóäó÷è âûäàþùèìñÿ ñòðàòåãîì, [GetSheHe] ìíîãèå äíè ïðîâîäèë[GetEndA] â ïîëå, ðÿäîì ñ ñîëäàòàìè è âîåíà÷àëüíèêàìè, ïîëüçóÿñü ëþáîé âîçìîæíîñòüþ, ÷òîáû íàáëþäàòü õîä ñðàæåíèé;;x
+death_text_theologian;Known as a pious [Root.GetManWoman], [Root.GetFirstName] spent many of [Root.GetHerHis] years studying the ancient scriptures and learning all that there is to know about [Root.Religion.GetHighGodName];;;;;;;;;;;Áóäó÷è áëàãî÷åñòèâ[GetOyYm] [GetAgedPersonINS], [GetSheHe] ìíîãèå ãîäû ïðîâåë[GetEndA] â èçó÷åíèè äðåâíèõ ðóêîïèñåé è èçó÷åíèè âñåãî òîãî, ÷òî ìû çíàåì î äåÿíèÿõ [GetReligionHighGodGEN];;x
+death_text_architect_wonder;[Root.GetFirstName] was as a patron of architects, offering parts of his riches to build a better nation. [Root.GetHerHisCap] rule will surely be remembered by the people every time they see the fruits of [Root.GetHerHis] labor;;;;;;;;;;;Áóäó÷è ïîêðîâèòåëåì àðõèòåêòîðîâ, ÷àñòü ñâîèõ áîãàñòâ [GetSheHe] æåðòâîâàë[GetEndA] íà ðàçâèòèå ñâîåé ñòðàíû. Âñÿêèé ðàç, êîãäà êòî-òî áóäåò ñìîòðåòü íà ðåçóëüòàòû [GetHerHis] òðóäîâ, îí áóäåò âñïîìèíàòü î [GetHersHis] ñëàâíîì ïðàâëåíèè;;x
+death_text_child;While many struggle to see why [Root.Religion.GetHighGodName] decided to take a young child away from us, we hope [Root.GetFirstName] will find peace in the afterlife;;;;;;;;;;;Òðóäíî ñìèðèòüñÿ ñ òåì, êàê [Religion.GetHighGodName] ìîã[GetHGodEndLA] çàáðàòü ñòîëü þíîå äèòÿ. Îñòà¸òñÿ òîëüêî íàäåÿòüñÿ, ÷òî [GetFirstName] íàéä¸ò ïîêîé ïîñëå ñìåðòè;;x
+death_text_evil_wonder;For [Root.GetHerHis] wicked deeds, many screamed not to bury [Root.GetFirstName] with the other rulers of our lands, instead to toss [Root.GetHerHim] in an unmarked grave and without the proper services. May [Root.GetFirstName] finally pay for [Root.GetHerHis] sins in the afterlife;;;;;;;;;;;Ìíîãèå òðåáîâàëè íå õîðîíèòü [GetHersHis] ðÿäîì ñ äðóãèìè ïðàâèòåëÿìè, à íàéòè îòäàë¸ííîå ìåñòî äëÿ áåçûìÿííîé ìîãèëû, äàáû [GetSheHe] ñïîëíà çàïëàòèë[GetEndA] çà ñâîè çëîäåÿíèÿ;;x
+death_text_started_wonder;Never succeeding in making a name for [Root.GetHerselfHimself], [Root.GetFirstName] most notable deed was participating in the construction of the great works which [Root.GetSheHe] will never see finished;;;;;;;;;;;[GetHersHisCap] ñàìûì èçâåñòíûì ñâåðøåíèåì áûë óêàç î íà÷àëå ñòðîèòåëüñòâà âåëèêîãî ñîîðóæåíèÿ, êîòîðîå [GetHerHim] òàê è íå óäàëîñü çàêîí÷èòü ïðè æèçíè;;x
+death_text_charitable;Well-known to be Charitable, [Root.GetSheHe] freely gave money to [Root.GetHerHis] friends and family. A godly [Root.GetManWoman], [Root.GetFirstName] is with [Root.Religion.GetRandomGodName] now;;;;;;;;;;;Ùåäðîñòü íå òîëüêî ïî îòíîøåíèþ ê ðîäíûì è áëèçêèì ïðèíåñëà [GetHerHim] èçâåñòíîñòü è óâàæåíèå. [Religion.GetHighGodName] âèäèò - [GetFirstName] òåïåðü â ëó÷øåì ìèðå;;x
+death_text_chaste;A Chaste [Root.GetManWoman], [Root.GetHerHis] honor was beyond refute. A godly [Root.GetManWoman], [Root.GetFirstName] is with [Root.Religion.GetRandomGodName] now;;;;;;;;;;;Ðåïóòàöèÿ ýò[GetOyOgo] öåëîìóäðåíí[GetOyOgo] [GetAgedPersonGEN] íèêîãäà íå ïîäâåðãàëàñü ñîìíåíèþ. [Religion.GetHighGodName] âèäèò - [GetFirstName] òåïåðü â ëó÷øåì ìèðå;;x
+death_text_default;Although not especially blessed, we hope [Root.GetFirstName] will find peace in the afterlife;;;;;;;;;;;Ñóäüáà íå íàãðàäèëà [GetHersHis] ÷åì-òî ïðèìå÷àòåëüíûì, íî ìû íàäååìñÿ, ÷òî [GetFirstName] íàéä¸ò ìèð è ïîêîé ïîñëå ñìåðòè;;x
+death_text_diligent;A shining example of Diligence, [Root.GetHerHis] duty was never neglected. A godly [Root.GetManWoman], [Root.GetFirstName] is with [Root.Religion.GetRandomGodName] now;;;;;;;;;;;Óñåðäèå ïîìîãàëî [GetHerHim] íå òîëüêî äîáèâàòüñÿ ïîñòàâëåííûõ öåëåé, íî è ñíèñêàòü ðåïóòàöèþ îòâåòñòâåííîãî, íàä¸æíîãî ÷åëîâåêà. [Religion.GetHighGodName] âèäèò - [GetFirstName] òåïåðü â ëó÷øåì ìèðå;;x
+death_text_envious;Ever Envious, [Root.GetSheHe] always wanted what other people had. A wicked [Root.GetManWoman], [Root.GetFirstName] will surely pay for [Root.GetHerHis] sins in the afterlife;;;;;;;;;;;Çàâèñòü íå äàâàëà [GetHerHim] ïîêîÿ, [GetHersHis] âñåãäà òÿíóëî ê òîìó, ÷åì îáëàäàëè äðóãèå. Íåñîìíåííî, [GetFirstName] îòâåòèò çà ñâîè ãðåõè ïîñëå ñìåðòè;;x
+death_text_greedy;A Greedy [Root.GetManWoman], [Root.GetSheHe] often remarked on the need to tax [Root.GetHerHis] people into space. A wicked [Root.GetManWoman], [Root.GetFirstName] will surely pay for [Root.GetHerHis] sins in the afterlife;;;;;;;;;;;Æàäíîñòü ýò[GetOyOgo] [GetAgedPersonGEN] ïðèíåñëà íåìàëî ñòðàäàíèé [GetHersHis] íàðîäó. Íåñîìíåííî, [GetFirstName] îòâåòèò çà ñâîè ãðåõè ïîñëå ñìåðòè;;x
+death_text_humble;A humble [Root.GetManWoman], [Root.GetSheHe] never wanted anyone to make a fuss over [Root.GetHerHis] accomplishments. A godly [Root.GetManWoman], [Root.GetFirstName] is with [Root.Religion.GetRandomGodName] now;;;;;;;;;;;Ñìèðåíèå íå ïîçâîëÿëî [GetHerHim] ïðåóâåëè÷èâàòü ñâîè äîñòèæåíèÿ â ãëàçàõ äðóãèõ è ïîìîãàëî èçáåãàòü êîíôëèêòîâ. [Religion.GetHighGodName] âèäèò - [GetFirstName] òåïåðü â ëó÷øåì ìèðå;;x
+death_text_kind;Known to be Kind, few had a bad word to say about [Root.GetHerHim]. A godly [Root.GetManWoman], [Root.GetFirstName] is with [Root.Religion.GetRandomGodName] now;;;;;;;;;;;Ëèøü î÷åíü íåìíîãèå ìîãëè ñêàçàòü ïðî í[GetHersHis] ÷òî-íèáóäü ïëîõîå, âåäü [GetHersHis] äîáðîòà áûëà øèðîêî èçâåñòíà. [Religion.GetHighGodName] âèäèò - [GetFirstName] òåïåðü â ëó÷øåì ìèðå;;x
+death_text_lustful;Well-known to be prone to carnal sins, [Root.GetSheHe] was often unfaithful to [Root.GetHerHis] [Root.GetHusbandWifeOpp]. A wicked [Root.GetManWoman], [Root.GetFirstName] will surely pay for [Root.GetHerHis] sins in the afterlife;;;;;;;;;;;Ïëîòü ñëàáà, è [GetHersHis] ïîõîòü ÷àñòî áðàëà âåðõ íàä ïîíèìàíèåì äîëãà, ìîðàëè è ñóïðóæåñêîé âåðíîñòè. Íåñîìíåííî, [GetFirstName] îòâåòèò çà ñâîè ãðåõè ïîñëå ñìåðòè;;x
+death_text_neutral;Although not especially blessed, we hope [Root.GetFirstName] will find peace in the afterlife;;;;;;;;;;;Ñóäüáà íå íàãðàäèëà [GetHersHis] ÷åì-òî ïðèìå÷àòåëüíûì, íî ìû íàäååìñÿ, ÷òî [GetFirstName] íàéä¸ò ìèð è ïîêîé ïîñëå ñìåðòè;;x
+death_text_patient;Always Patient, [Root.GetSheHe] never lost [Root.GetHerHis] temper. A godly [Root.GetManWoman], [Root.GetFirstName] is with [Root.Religion.GetRandomGodName] now;;;;;;;;;;;Òåðïåíèå áûëî íå òîëüêî ãëàâíîé ÷åðòîé [GetHersHis] õàðàêòåðà, íî è ïðåèìóùåñòâîì, êîòîðîå ïîçâîëÿëî [GetHerHim] ñîõðàíÿòü ñàìîîáëàäàíèå â ëþáîé ñèòóàöèè. [Religion.GetHighGodName] âèäèò - [GetFirstName] òåïåðü â ëó÷øåì ìèðå;;x
+death_text_proud;Guilty of the sin of Pride, [Root.GetSheHe] wanted everyone to know of [Root.GetHerHis] greatness. A wicked [Root.GetManWoman], [Root.GetFirstName] will surely pay for [Root.GetHerHis] sins in the afterlife;;;;;;;;;;;Ãîðäûíÿ ìåøàëà [GetHerHim] âèäåòü äàëüøå ñâîåãî íîñà, âñ¸ ÷òî [GetHersHis] âîëíîâàëî - ýòî ìíåíèå äðóãèõ î [GetHersHis] âåëè÷èè. Íåñîìíåííî, [GetFirstName] îòâåòèò çà ñâîè ãðåõè ïîñëå ñìåðòè;;x
+death_text_slothful;Prone to Sloth, [Root.GetSheHe] never did anything [Root.GetSheHe] did not have to. A wicked [Root.GetManWoman], [Root.GetFirstName] will surely pay for [Root.GetHerHis] sins in the afterlife;;;;;;;;;;;Ñêëîííîñòü ê ëåíè íå äàâàëà [GetHerHim] ñîâåðøèòü õîòü ÷òî-íèáóäü, ÷òî áû íå ïðèõîäèëîñü òîëüêî â ñàìûõ êðàéíèõ ñëó÷àÿõ. Íåñîìíåííî, [GetFirstName] îòâåòèò çà ñâîè ãðåõè ïîñëå ñìåðòè;;x
+death_text_temperate;Ever Temperate, [Root.GetSheHe] never let [Root.GetHerHis] base urges get the better of [Root.GetHerHim]. A godly [Root.GetManWoman], [Root.GetFirstName] is with [Root.Religion.GetRandomGodName] now;;;;;;;;;;;Óìåðåííîñòü âî âñ¸ì ïîçâîëÿëà [GetHerHim] äîñòèãàòü ëó÷øåãî äëÿ ñåáÿ è ñâîèõ áëèçêèõ. [Religion.GetHighGodName] âèäèò - [GetFirstName] òåïåðü â ëó÷øåì ìèðå;;x
+death_text_wroth;A Wroth [Root.GetManWoman], people feared to cross [Root.GetHerHim] - or even bring bad news. A wicked [Root.GetManWoman], [Root.GetFirstName] will surely pay for [Root.GetHerHis] sins in the afterlife;;;;;;;;;;;Ãíåâ çàòóìàíèë [GetHersHis] ðàçóì, ëþäè áîÿëèñü ãîâîðèòü [GetHerHim] ïðàâäó èëè îñïàðèâàòü [GetHersHis] îøèáî÷íûå ðåøåíèÿ. Íåñîìíåííî, [GetFirstName] îòâåòèò çà ñâîè ãðåõè ïîñëå ñìåðòè;;x
+DEATH_ACCIDENT;died in an accident;;;;;;;;;;;[This.GetSheHe] óìåð[This.GetNoneE] â ðåçóëüòàòå íåñ÷àñòíîãî ñëó÷àÿ;;x
+DEATH_ACCIDENT_ARROW;was tragically killed by a stray arrow;;;;;;;;;;;[This.GetSheHe] áûë[This.GetEndA] òðàãè÷åñêè óáèò[This.GetEndA] øàëüíîé ñòðåëîé;;x
+DEATH_ACCIDENT_BEAR;was killed by a rampaging bear;;;;;;;;;;;[This.GetHersHis] çàäðàë ðàçúÿð¸ííûé ìåäâåäü;;x
+DEATH_ACCIDENT_BOAR;was gored to death by a boar;;;;;;;;;;;[This.GetSheHe] óìåð[This.GetNoneE] â ñõâàòêå ñ êàáàíîì;;x
+DEATH_ACCIDENT_DROWNING;died in a drowning accident;;;;;;;;;;;[This.GetSheHe] óòîíóë[This.GetEndA];;x
+DEATH_ACCIDENT_FALL;died from an accidental fall;;;;;;;;;;;[This.GetSheHe] ðàçáè[This.GetLasLsya] íàñìåðòü;;x
+DEATH_ACCIDENT_GENERIC_BEAST;was killed by a wild beast;;;;;;;;;;;[This.GetHersHis] çàäðàë äèêèé çâåðü.;;x
+DEATH_ACCIDENT_SNAKES;died from a venomous snake bite;;;;;;;;;;;[This.GetSheHe] óìåð[This.GetNoneE] îò óêóñà çìåè;;x
+DEATH_ACCIDENT_TIGER;was killed by a man-eating tiger;;;;;;;;;;;[This.GetHersHis] ñúåë òèãð-ëþäîåä;;x
+DEATH_ACCIDENT_TRAPS;was killed by traps;;;;;;;;;;;[This.GetSheHe] ïîãèá[This.GetNoneE] îò ëîâóøåê;;x
+DEATH_BATTLE;died in battle against $KILLER$;;;;;;;;;;;[This.GetSheHe] ïîãèá[This.GetNoneE] â áîþ, ïðîòèâíèê - $KILLER$;;x
+DEATH_BATTLE_DUEL;was slain by $KILLER$ in a chaotic battlefield duel;;;;;;;;;;;$KILLER$ óáèë[This.Killer.GetEndA] [This.GetHersHis] â êðîâàâîì ïîåäèíêå íà ïîëå áîÿ;;x
+DEATH_BATTLE_DUEL_NO_KILLER;was slain in a chaotic battlefield duel;;;;;;;;;;;[This.GetSheHe] ïîãèá[This.GetNoneE] â êðîâàâîì ïîåäèíêå íà ïîëå áîÿ;;x
+DEATH_BATTLE_NO_KILLER;died in battle;;;;;;;;;;;[This.GetSheHe] ïîãèá[This.GetNoneE] â áîþ;;x
+DEATH_BERSERKER_RAGE;died caught in the violent fury of $KILLER$;;;;;;;;;;;$KILLER$ â äèêîé ÿðîñòè óáèë[This.Killer.GetEndA] [This.GetHersHis];;x
+DEATH_BERSERKER_RAGE_NO_KILLER;died a victim of violent fury;;;;;;;;;;;[This.GetSheHe] ïàë[This.GetEndA] æåðòâîé æåñòîêîé ÿðîñòè;;x
+DEATH_BY_DRINKING_POISON;died after $KILLER$ made [Root.GetHerHim] drink something poisonous;;;;;;;;;;;[This.GetSheHe] óìåð[This.GetNoneE], ïîñëå òîãî êàê $KILLER$ äàë[This.Killer.GetEndA] [This.GetHerHim] âûïèòü ÷òî-òî ÿäîâèòîå;;x
+DEATH_BY_DRINKING_POISON_NO_KILLER;died after drinking something poisonous;;;;;;;;;;;[This.GetSheHe] óìåð[This.GetNoneE], âûïèâ ÷òî-òî ÿäîâèòîå;;x
+DEATH_BY_MURDER;was murdered on the orders of $KILLER$;;;;;;;;;;;[This.GetSheHe] ïîãèá[This.GetNoneE] îò ðóêè óáèéöû, çàêàç÷èê óáèéñòâà - $KILLER$;;x
+DEATH_BY_MURDER_NO_KILLER;was murdered;;;;;;;;;;;[This.GetSheHe] ïîãèá[This.GetNoneE] îò ðóêè óáèéöû;;x
+DEATH_BY_MURDER_UNKNOWN;died under suspicious circumstances;;;;;;;;;;;[This.GetSheHe] ïîãèá[This.GetNoneE] ïðè ïîäîçðèòåëüíûõ îáñòîÿòåëüñòâàõ;;x
+DEATH_BY_NATURE;died a natural death;;;;;;;;;;;[This.GetSheHe] óìåð[This.GetNoneE] åñòåñòâåííîé ñìåðòüþ;;x
+DEATH_BY_TRAIT;died $TRAIT_DEATH$;;;;;;;;;;;[This.GetSheHe] óìåð[This.GetNoneE] $TRAIT_DEATH$;;x
+DEATH_CHILDBIRTH;died in childbirth;;;;;;;;;;;[This.GetSheHe] óìåð[This.GetNoneE] ïðè ðîäàõ;;x
+DEATH_CLAIM_DUEL_ATTACKER;was slain by $KILLER$ after challenging [Root.GetHerHis] right to rule;;;;;;;;;;;$KILLER$ óáèë[This.Killer.GetEndA] [This.GetHersHis] â ïîåäèíêå çà ïðàâî íà òèòóë;;x
+DEATH_CLAIM_DUEL_ATTACKER_NO_KILLER;was slain in a duel after challenging someone's rule;;;;;;;;;;;[This.GetSheHe] áûë[This.GetEndA] óáèò[This.GetEndA] â ïîåäèíêå çà ïðàâî íà òèòóë;;x
+DEATH_CLAIM_DUEL_DEFENDER;was slain by $KILLER$, who challenged [Root.GetHerHis] right to rule;;;;;;;;;;;$KILLER$ óáèë[This.Killer.GetEndA] [This.GetHersHis] â ïîåäèíêå çà îòñòàèâàíèå ïðàâà íà òèòóë;;x
+DEATH_CLAIM_DUEL_DEFENDER_NO_KILLER;was slain in a duel after someone challenged [Root.GetHerHis] right to rule;;;;;;;;;;;[This.GetSheHe] áûë[This.GetEndA] óáèò[This.GetEndA] â ïîåäèíêå, îòñòàèâàÿ ñâî¸ ïðàâî íà òèòóë;;x
+DEATH_COMBUSTION;spontaneously combusted;;;;;;;;;;;[This.GetSheHe] óìåð[This.GetNoneE] îò ñïîíòàííîãî ñàìîâîçãîðàíèÿ;;x
+DEATH_CROCODILE;was fed to a crocodile by $KILLER$;;;;;;;;;;;$KILLER$ ñêîðìèë[This.Killer.GetEndA] [This.GetHersHis] êðîêîäèëó;;x
+DEATH_CROCODILE_NO_KILLER;was eaten by a crocodile;;;;;;;;;;;[This.GetHersHis] ñúåë êðîêîäèë;;x
+DEATH_CROWS;was pecked to death by crows;;;;;;;;;;;[This.GetSheHe] áûë[This.GetEndA] çàêë¸âàí[This.GetEndA] âîðîíàìè äî ñìåðòè;;x
+DEATH_DATE_CHINA;Went to China: $DATE|Y$ at age $AGE|Y$;;;;;;;;;;;Äàòà îòáûòèÿ â Êèòàé: $DATE|Y$ (âîçðàñò: $AGE|Y$ ëåò);;x
+DEATH_DATE_CHINA_RETURN;Returned to China: $DATE|Y$ at age $AGE|Y$;;;;;;;;;;;Äàòà âîçâðàùåíèÿ â Êèòàé: $DATE|Y$ (âîçðàñò: $AGE|Y$ ëåò);;x
+DEATH_DATE_DESC;Died: $DATE|Y$ at age $AGE|Y$;;;;;;;;;;;Äàòà ñìåðòè: $DATE|Y$ (âîçðàñò: $AGE|Y$ ëåò);;x
+DEATH_DATE_MISSING;Disappeared: $DATE|Y$ at age $AGE|Y$;;;;;;;;;;;[This.GetSheHe] èñ÷åç[This.GetNoneE] áåç ñëåäà $DATE|Y$ â âîçðàñòå $AGE|Y$ ëåò;;x
+DEATH_DUEL;was slain by $KILLER$ in personal combat;;;;;;;;;;;[This.GetSheHe] ïîãèá[This.GetNoneE] íà äóýëè, ïðîòèâíèê - $KILLER$;;x
+DEATH_DUEL_NO_KILLER;was slain in personal combat;;;;;;;;;;;[This.GetSheHe] ïîãèá[This.GetNoneE] íà äóýëè;;x
+DEATH_DUNGEON;died in the dungeons of $KILLER$;;;;;;;;;;;[This.GetSheHe] ïîãèá[This.GetNoneE] â òåìíèöå, $KILLER$ äåðæàë[This.Killer.GetEndA] [This.GetHersHis] â çàòî÷åíèè;;x
+DEATH_DUNGEON_NO_KILLER;died in prison;;;;;;;;;;;[This.GetSheHe] óìåð[This.GetNoneE] â òþðüìå;;x
+DEATH_DURING_PILGRIMAGE;left for a holy pilgrimage, and never returned;;;;;;;;;;;[This.GetSheHe] îòïðàâè[This.GetLasLsya] â ïàëîìíè÷åñòâî è íå âåðíó[This.GetLasLsya];;x
+DEATH_DURING_PILGRIMAGE_NO_KILLER;Disappeared during a pilgrimage;;;;;;;;;;;[This.GetSheHe] íå âåðíó[This.GetLasLsya] èç ïàëîìíè÷åñòâà;;x
+DEATH_EXECUTED_BY_CHINESE_EMPEROR;was executed on the orders of the Chinese Emperor $KILLER$;;;;;;;;;;;[offmap_china.Ruler.GetShortChineseEmperorName] $KILLER$ êàçíèë[offmap_china.Ruler.GetEndA] [This.GetHersHis];;x
+DEATH_EXECUTED_BY_CHINESE_EMPEROR_NO_KILLER;was executed in China;;;;;;;;;;;[This.GetSheHe] áûë[This.GetEndA] êàçíåí[This.GetEndA] â Êèòàå;;x
+DEATH_EXECUTION;was executed by $KILLER$;;;;;;;;;;;[This.GetSheHe] áûë[This.GetEndA] êàçíåí[This.GetEndA], ïðèêàç î êàçíè îòäàë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_ASH;was suffocated in ash on the order of $KILLER$;;;;;;;;;;;[This.GetHersHis] çàäóøèëè ïåïëîì, êàê ïîâåëåë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_ASH_NO_KILLER;was suffocated in ash;;;;;;;;;;;[This.GetHersHis] çàäóøèëè ïåïëîì;;x
+DEATH_EXECUTION_AZTEC_SACRIFICE;was sacrificed to the gods on the order of $KILLER$;;;;;;;;;;;[This.GetSheHe] ïîãèá[This.GetNoneE], ïîñëóæèâ æåðòâîé áîãàì, $KILLER$ îòäàë[This.Killer.GetEndA] ïðèêàç î æåðòâîïðèíîøåíèè;;x
+DEATH_EXECUTION_AZTEC_SACRIFICE_NO_KILLER;was sacrificed to the gods;;;;;;;;;;;[This.GetSheHe] ïîãèá[This.GetNoneE], ïîñëóæèâ æåðòâîé áîãàì;;x
+DEATH_EXECUTION_BACK_BREAKING;had [Root.GetHerHis] back broken on the order of $KILLER$;;;;;;;;;;;[This.GetHerHim] ñëîìàëè ñïèíó, êàê ïîâåëåë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_BACK_BREAKING_NO_KILLER;had [Root.GetHerHis] back broken;;;;;;;;;;;[This.GetHerHim] ñëîìàëè ñïèíó;;x
+DEATH_EXECUTION_BAMBOO;was pierced to death on growing bamboo on the order of $KILLER$;;;;;;;;;;;cêâîçü [This.GetHersHis] òåëî ïðîðàñòèëè áàìáóê, êàê ïîâåëåë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_BAMBOO_NO_KILLER;was pierced to death on growing bamboo;;;;;;;;;;;cêâîçü [This.GetHersHis] òåëî ïðîðàñòèëè áàìáóê;;x
+DEATH_EXECUTION_BEAR;was mauled to death by a bear on the order of $KILLER$;;;;;;;;;;;[This.GetHersHis] çàäðàë ìåäâåäü, ïðèêàç î êàçíè îòäàë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_BEAR_NO_KILLER;was mauled to death by a bear;;;;;;;;;;;[This.GetHersHis] çàäðàë ìåäâåäü;;x
+DEATH_EXECUTION_BEHEADING;was beheaded on the order of $KILLER$;;;;;;;;;;;[This.GetHersHis] îáåçãëàâèëè, êàê ïîâåëåë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_BEHEADING_NO_KILLER;was beheaded;;;;;;;;;;;[This.GetHerHim] îòðóáèëè ãîëîâó;;x
+DEATH_EXECUTION_BLOOD_EAGLE;was carved into a blood eagle on the order of $KILLER$;;;;;;;;;;;$KILLER$ ñäåëàë[This.Killer.GetEndA] èç í[This.GetHersHis] êðîâàâîãî îðëà;;x
+DEATH_EXECUTION_BLOOD_EAGLE_NO_KILLER;was carved into a blood eagle;;;;;;;;;;;[This.GetSheHe] áûë[This.GetEndA] êàçíåí[This.GetEndA] - èç í[This.GetHersHis] ñäåëàëè êðîâàâîãî îðëà;;x
+DEATH_EXECUTION_BOAR;was gored to death by a boar on the order of $KILLER$;;;;;;;;;;;kàáàí çàáîäàë [This.GetHersHis] äî ñìåðòè, ïðèêàç î êàçíè îòäàë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_BOAR_NO_KILLER;was gored to death by a boar;;;;;;;;;;;kàáàí çàáîäàë [This.GetHersHis] äî ñìåðòè;;x
+DEATH_EXECUTION_BOILING;was boiled to death on the order of $KILLER$;;;;;;;;;;;[This.GetHersHis] ñâàðèëè çàæèâî, êàê ïîâåëåë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_BOILING_NO_KILLER;was boiled to death;;;;;;;;;;;[This.GetHersHis] ñâàðèëè çàæèâî;;x
+DEATH_EXECUTION_BRAZEN_BULL;was roasted in a Brazen Bull on the orders of $KILLER$;;;;;;;;;;;[This.GetHersHis] çàæàðèëè çàæèâî â ìåäêîì áûêå, ïðèêàç îòäàë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_BURNING;was burnt at the stake on the order of $KILLER$;;;;;;;;;;;[This.GetHersHis] ñîæãëè íà êîñòðå, êàê ïîâåëåë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_BURNING_NO_KILLER;was burnt at the stake;;;;;;;;;;;[This.GetHersHis] ñîæãëè íà êîñòðå;;x
+DEATH_EXECUTION_CRUCIFIXION;was crucified on the order of $KILLER$;;;;;;;;;;;[This.GetHersHis] ðàñïÿëè, êàê ïîâåëåë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_CRUCIFIXION_NO_KILLER;was crucified;;;;;;;;;;;[This.GetHersHis] ðàñïÿëè;;x
+DEATH_EXECUTION_CRUSHING;was crushed to death on the order of $KILLER$;;;;;;;;;;;[This.GetHersHis] ðàçäàâèëè, êàê ïîâåëåë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_CRUSHING_NO_KILLER;was crushed to death;;;;;;;;;;;[This.GetHersHis] ðàçäàâèëè;;x
+DEATH_EXECUTION_DISEMBOWELMENT;had [Root.GetHerHis] bowels torn out on the order of $KILLER$;;;;;;;;;;;[This.GetHerHim] âûïóñòèëè êèøêè, êàê ïîâåëåë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_DISEMBOWELMENT_NO_KILLER;had [Root.GetHerHis] bowels torn out;;;;;;;;;;;[This.GetHerHim] âûïóñòèëè êèøêè;;x
+DEATH_EXECUTION_DROWNING_PIT;died thrashing in the drowning-pit on the order of $KILLER$;;;;;;;;;;;[This.GetHersHis] óòîïèëè â ãðÿçè, êàê ïîâåëåë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_DROWNING_PIT_NO_KILLER;died thrashing in the drowning-pit;;;;;;;;;;;[This.GetSheHe] ïîãèá[This.GetNoneE] â ÿìå äëÿ óòîïëåíèÿ;;x
+DEATH_EXECUTION_EATEN;was voraciously devoured by $KILLER$;;;;;;;;;;;[This.GetHersHis] ñúåë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_EATEN_NO_KILLER;was devoured;;;;;;;;;;;[This.GetHersHis] ñúåëè;;x
+DEATH_EXECUTION_EATEN_UNKNOWN;was devoured;;;;;;;;;;;[This.GetSheHe] áûë[This.GetEndA] ïîãëîùåí[This.GetEndA];;x
+DEATH_EXECUTION_EATEN_UNKNOWN_NO_KILLER;was devoured;;;;;;;;;;;[This.GetSheHe] áûë[This.GetEndA] ïîãëîùåí[This.GetEndA];;x
+DEATH_EXECUTION_ELEPHANTS;was crushed to death by elephants on the order of $KILLER$;;;;;;;;;;;[This.GetHersHis] ðàñòîïòàëè ñëîíû, ïðèêàç î êàçíè îòäàë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_ELEPHANTS_NO_KILLER;was trampled to death by elephants;;;;;;;;;;;[This.GetHersHis] ðàñòîïòàëè ñëîíû;;x
+DEATH_EXECUTION_FLAYING;was slowly flayed to death on the order of $KILLER$;;;;;;;;;;;[This.GetHerHim] çàæèâî ñîäðàëè êîæó, êàê ïîâåëåë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_FLAYING_NO_KILLER;was slowly flayed to death;;;;;;;;;;;[This.GetHerHim] çàæèâî ñîäðàëè êîæó;;x
+DEATH_EXECUTION_GARROTTING;was executed by garroting on the order of $KILLER$;;;;;;;;;;;[This.GetHersHis] êàçíèëè íà ãàððîòå, êàê ïîâåëåë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_GARROTTING_NO_KILLER;was executed by garroting;;;;;;;;;;;[This.GetHersHis] êàçíèëè íà ãàððîòå;;x
+DEATH_EXECUTION_HANGING;was hanged on the order of $KILLER$;;;;;;;;;;;[This.GetHersHis] ïîâåñèëè, êàê ïîâåëåë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_HANGING_NO_KILLER;was hanged;;;;;;;;;;;[This.GetHersHis] ïîâåñèëè;;x
+DEATH_EXECUTION_HDQ;was hanged, drawn and quartered on the order of $KILLER$;;;;;;;;;;;[This.GetHersHis] ïîäâåðãëè ÷åòâåðòîâàíèþ, êàê ïîâåëåë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_HDQ_NO_KILLER;was hanged, drawn and quartered;;;;;;;;;;;[This.GetHersHis] ïîäâåðãëè ÷åòâåðòîâàíèþ;;x
+DEATH_EXECUTION_HORSES;was trampled to death by horses on the order of $KILLER$;;;;;;;;;;;[This.GetHersHis] ðàñòîïòàëè ëîøàäè, ïðèêàç î êàçíè îòäàë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_HORSES_NO_KILLER;was trampled to death by horses;;;;;;;;;;;[This.GetHersHis] ðàñòîïòàëè ëîøàäè;;x
+DEATH_EXECUTION_HUNT;was killed in an elaborate hunt by $KILLER$;;;;;;;;;;;[This.GetHersHis] çàãíàëè, êàê çâåðÿ è óáèëè íà îõîòå. Óáèéöà - $KILLER$;;x
+DEATH_EXECUTION_HUNT_NO_KILLER;was killed in an elaborate hunt;;;;;;;;;;;[This.GetHersHis] çàãíàëè, êàê çâåðÿ è óáèëè íà îõîòå;;x
+DEATH_EXECUTION_IMMUREMENT;was walled up alive on the order of $KILLER$;;;;;;;;;;;[This.GetHersHis] çàìóðîâàëè æèâü¸ì, êàê ïîâåëåë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_IMMUREMENT_NO_KILLER;was walled up alive;;;;;;;;;;;[This.GetHersHis] çàìóðîâàëè æèâü¸ì;;x
+DEATH_EXECUTION_IMPALING;was cruelly impaled on a stake by $KILLER$;;;;;;;;;;;[This.GetHersHis] ïîñàäèëè íà êîë, êàê ïîâåëåë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_IMPALING_NO_KILLER;was cruelly impaled on a stake;;;;;;;;;;;[This.GetHersHis] ïîñàäèëè íà êîë;;x
+DEATH_EXECUTION_LION;was mauled to death by a lion on the order of $KILLER$;;;;;;;;;;;$KILLER$ áðîñèë[This.Killer.GetEndA] [This.GetHersHis] íà ðàñòåðçàíèå ëüâàì;;x
+DEATH_EXECUTION_LION_NO_KILLER;was mauled to death by a lion;;;;;;;;;;;[This.GetHersHis] áðîñèëè íà ðàñòåðçàíèå ëüâàì;;x
+DEATH_EXECUTION_LIVE_BURIAL;was buried alive on the order of $KILLER$;;;;;;;;;;;[This.GetHersHis] ïîõîðîíèëè çàæèâî, êàê ïîâåëåë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_LIVE_BURIAL_NO_KILLER;was buried alive;;;;;;;;;;;[This.GetHersHis] ïîõîðîíèëè çàæèâî;;x
+DEATH_EXECUTION_MACABRE_BANQUET;was embalmed and added to $KILLER$'s macabre banquet;;;;;;;;;;;$KILLER$ çàáàëüçàìèðîâàë[This.Killer.GetEndA] [This.GetHersHis] äëÿ æóòêîãî áàíêåòà;;x
+DEATH_EXECUTION_MOAT_PIT;was starved to death, in the moat of $KILLER$;;;;;;;;;;;$KILLER$ óìîðèë[This.Killer.GetEndA] [This.GetHersHis] ãîëîäîì íà äíå ðâà ñâîåé êðåïîñòè.;;x
+DEATH_EXECUTION_MOAT_PIT_NO_KILLER;was starved to death in a moat;;;;;;;;;;;[This.GetSheHe] óìåð[This.GetNoneE] îò ãîëîäà íà äíå ðâà.;;x
+DEATH_EXECUTION_MOAT_SPIKES;was impaled on spikes, in the moat of a great fortress, by $KILLER$;;;;;;;;;;;$KILLER$ áðîñèë[This.Killer.GetEndA] [This.GetHersHis] íà ïèêè ðâà ñâîåé êðåïîñòè.;;x
+DEATH_EXECUTION_MOAT_SPIKES_NO_KILLER;was impaled on spikes in the moat of a great fortress;;;;;;;;;;;[This.GetHersHis] áðîñèëè íà ïèêè ðâà âåëèêîé êðåïîñòè.;;x
+DEATH_EXECUTION_MOAT_WATER;was drowned, in the moat of $KILLER$;;;;;;;;;;;$KILLER$ óòîïèë[This.Killer.GetEndA] [This.GetHersHis] íà äíå ðâà ñâîåé êðåïîñòè.;;x
+DEATH_EXECUTION_MOAT_WATER_NO_KILLER;was drowned in a moat;;;;;;;;;;;[This.GetSheHe] óòîíóë[This.GetEndA] íà äíå ðâà.;;x
+DEATH_EXECUTION_NO_KILLER;was executed;;;;;;;;;;;[This.GetSheHe] ïîãèá[This.GetNoneE] îò ðóê ïàëà÷à;;x
+DEATH_EXECUTION_POISON;was poisoned to death on the order of $KILLER$;;;;;;;;;;;[This.GetHersHis] îòðàâèëè, êàê ïîâåëåë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_POISON_NO_KILLER;was poisoned to death;;;;;;;;;;;[This.GetHersHis] îòðàâèëè;;x
+DEATH_EXECUTION_SAWING;was sawed in half on the order of $KILLER$;;;;;;;;;;;[This.GetHersHis] ðàñïèëèëè ïîïîëàì, êàê ïîâåëåë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_SAWING_NO_KILLER;was sawed in half;;;;;;;;;;;[This.GetHersHis] ðàñïèëèëè ïîïîëàì;;x
+DEATH_EXECUTION_SCAPHISM;was executed by Scaphism on the order of $KILLER$;;;;;;;;;;;[This.GetHersHis] êàçíèëè ìåòîäîì ñêàôèçìà, êàê ïîâåëåë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_SCAPHISM_NO_KILLER;was executed by Scaphism;;;;;;;;;;;cêàôèçì ñòàë [This.GetHersHis] êàçíüþ;;x
+DEATH_EXECUTION_SNAKE_PIT;died from venomous bites in the snake pit on the order of $KILLER$;;;;;;;;;;;[This.GetSheHe] ïîãèá[This.GetNoneE] â çìåèíîé ÿìå, â êîòîðóþ âåëåë[This.Killer.GetEndA] [This.GetHersHis] áðîñèòü $KILLER$;;x
+DEATH_EXECUTION_SNAKE_PIT_NO_KILLER;died from venomous bites in the snake pit;;;;;;;;;;;[This.GetSheHe] ïîãèá[This.GetNoneE] â çìåèíîé ÿìå;;x
+DEATH_EXECUTION_SPIKES;was impaled on the spikes of a great building by $KILLER$;;;;;;;;;;;$KILLER$ íàñàäèë[This.Killer.GetEndA] [This.GetHersHis] íà ïèêè âåëèêîãî ñîîðóæåíèÿ.;;x
+DEATH_EXECUTION_SPIKES_NO_KILLER;was impaled on the spikes of a great building;;;;;;;;;;;[This.GetHersHis] íàñàäèëè íà ïèêè âåëèêîãî ñîîðóæåíèÿ.;;x
+DEATH_EXECUTION_STONING;was stoned to death on the order of $KILLER$;;;;;;;;;;;[This.GetHersHis] çàáèëè êàìíÿìè, êàê ïîâåëåë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_STONING_NO_KILLER;was stoned to death;;;;;;;;;;;[This.GetHersHis] çàáèëè êàìíÿìè;;x
+DEATH_EXECUTION_TIGER;was mauled to death by a tiger on the order of $KILLER$;;;;;;;;;;;[This.GetHersHis] áðîñèëè íà ñúåäåíèå òèãðó, êàê ïîâåëåë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_TIGER_NO_KILLER;was mauled to death by a tiger;;;;;;;;;;;[This.GetHersHis] ðàñòåðçàë òèãð;;x
+DEATH_EXECUTION_WHEEL;was broken on the wheel by order of $KILLER$;;;;;;;;;;;[This.GetHersHis] êîëåñîâàëè, êàê ïîâåëåë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_WHEEL_NO_KILLER;was broken on the wheel;;;;;;;;;;;[This.GetHersHis] êîëåñîâàëè;;x
+DEATH_EXECUTION_WINE;was drowned in wine on the order of $KILLER$;;;;;;;;;;;[This.GetHersHis] óòîïèëè â âèíå, êàê ïîâåëåë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_EXECUTION_WINE_NO_KILLER;was drowned in wine;;;;;;;;;;;[This.GetHersHis] óòîïèëè â âèíå;;x
+DEATH_FEAR;died from fear;;;;;;;;;;;[This.GetSheHe] óìåð[This.GetNoneE] îò ñòðàõà;;x
+DEATH_HASHISH_OVERDOSE;died from using too much Hashish;;;;;;;;;;;[This.GetSheHe] óìåð[This.GetNoneE] îò ïåðåäîçèðîâêè ãàøèøà;;x
+DEATH_IN_CHINA;died in China at the hands of $KILLER$;;;;;;;;;;;$KILLER$ óáèë[This.Killer.GetEndA] [This.GetHersHis] â Êèòàå;;x
+DEATH_IN_CHINA_NO_KILLER;died in China;;;;;;;;;;;[This.GetSheHe] óìåð[This.GetNoneE] â Êèòàå;;x
+DEATH_LEGENDARY_FAIL_DUEL;died trying to best $KILLER$ in a legendary duel;;;;;;;;;;;$KILLER$ óáèë[This.Killer.GetEndA] [This.GetHersHis] â ëåãåíäàðíîì ïîåäèíêå;;x
+DEATH_LEGENDARY_FAIL_DUEL_NO_KILLER;was slain in a legendary duel;;;;;;;;;;;[This.GetSheHe] áûë[This.GetEndA] óáèò[This.GetEndA] â ëåãåíäàðíîì ïîåäèíêå;;x
+DEATH_LEGENDARY_WIN_DUEL;was slain by $KILLER$ in a spectacular duel;;;;;;;;;;;$KILLER$ óáèë[This.Killer.GetEndA] [This.GetHersHis] â ëåãåíäàðíîì ïîåäèíêå;;x
+DEATH_LEGENDARY_WIN_DUEL_NO_KILLER;was slain in a spectacular duel;;;;;;;;;;;[This.GetSheHe] áûë[This.GetEndA] óáèò[This.GetEndA] â ëåãåíäàðíîì ïîåäèíêå;;x
+DEATH_LIGHTNING;was killed by a lightning strike;;;;;;;;;;;[This.GetSheHe] áûë[This.GetEndA] óáèò[This.GetEndA] óäàðîì ìîëíèè;;x
+DEATH_MISSING;vanished without a trace;;;;;;;;;;;[This.GetSheHe] èñ÷åç[This.GetNoneE] áåç ñëåäà;;x
+DEATH_MISSION_DUEL;was slain by $KILLER$ in a dramatic duel for blood;;;;;;;;;;;$KILLER$ óáèë[This.Killer.GetEndA] [This.GetHersHis] â êðîâàâîì ïîåäèíêå;;x
+DEATH_MISSION_DUEL_NO_KILLER;was slain in a duel for blood;;;;;;;;;;;[This.GetSheHe] ïîãèá[This.GetNoneE] â êðîâàâîì ïîåäèíêå;;x
+DEATH_MURDER_HASHSHASHIN;died at the hands of the Hashshashin;;;;;;;;;;;[This.GetSheHe] óìåð[This.GetNoneE] îò ðóê àññàñèíîâ;;x
+DEATH_MURDER_KNOWN_HASHSHASHIN;died at the hands of the Hashshashin $KILLER$;;;;;;;;;;;[This.GetHersHis] óáèë[This.Killer.GetEndA] àññàñèí[This.Killer.GetEndKa], èçâåñòí[This.Killer.GetAyaYy] êàê $KILLER$;;x
+DEATH_PLATYPUS;was horribly killed by the platypuses of $KILLER$;;;;;;;;;;;[This.GetSheHe] áûë[This.GetEndA] óáèò[This.GetEndA] óòêîíîñàìè, ëþáèìûìè ïèòîìöàìè ò[This.Killer.GetOyOgo], êîãî çîâóò $KILLER$;;x
+DEATH_PLATYPUS_NO_KILLER;was horribly killed by platypuses;;;;;;;;;;;[This.GetSheHe] áûë[This.GetEndA] óáèò[This.GetEndA] óòêîíîñàìè;;x
+DEATH_POOR_HEALTH;died of poor health;;;;;;;;;;;[This.GetSheHe] óìåð[This.GetNoneE] îò íåèçâåñòíîé áîëåçíè;;x
+DEATH_RABBLE;was killed by rabble;;;;;;;;;;;[This.GetSheHe] ïîãèá[This.GetNoneE] îò ðóê ÷åðíè;;x
+DEATH_SACRIFICED;was offered up in sacrifice to the Gods by $KILLER$;;;;;;;;;;;[This.GetSheHe] ïîãèá[This.GetNoneE], ïîñëóæèâ æåðòâîé áîãàì, ïðèêàç î æåðòâîïðèíîøåíèè îòäàë[This.Killer.GetEndA] [This.Killer.GetTitledFirstName];;x
+DEATH_SACRIFICED_ANCESTORS;was offered up in sacrifice to the Ancestors by $KILLER$;;;;;;;;;;;[This.GetSheHe] ïîãèá[This.GetNoneE], ïîñëóæèâ æåðòâîé Ïðåäêàì, êàê ïîâåëåë[This.Killer.GetEndA] $KILLER$;;x
+DEATH_SACRIFICED_NO_KILLER;was offered up in sacrifice to the Gods;;;;;;;;;;;[This.GetSheHe] óìåð[This.GetNoneE], ïîñëóæèâ æåðòâîé ÿçû÷åñêèì áîãàì.;;x
+DEATH_SLAVERY;was sold into slavery by $KILLER$;;;;;;;;;;;$KILLER$ ïðîäàë[This.Killer.GetEndA] [This.GetHersHis] â ðàáñòâî;;x
+DEATH_SLAVERY_NO_KILLER;was sold into slavery;;;;;;;;;;;[This.GetSheHe] áûë[This.GetEndA] ïðîäàí[This.GetEndA] â ðàáñòâî;;x
+DEATH_SUICIDE;committed suicide;;;;;;;;;;;[This.GetSheHe] óìåð[This.GetNoneE], ïîêîí÷èâ æèçíü ñàìîóáèéñòâîì;;x
+DEATH_TROUBLED_PREGNANCY;died due to complications during her pregnancy;;;;;;;;;;;[This.GetSheHe] óìåð[This.GetNoneE] îò îñëîæíåíèé âî âðåìÿ áåðåìåííîñòè;;x
+DEATH_WENT_BACK_TO_CHINA;was sent home to China by $KILLER$;;;;;;;;;;;$KILLER$ îòïðàâèë[This.Killer.GetEndA] [This.GetHersHis] îáðàòíî â Êèòàé;;x
+DEATH_WENT_BACK_TO_CHINA_NO_KILLER;returned home to China;;;;;;;;;;;[This.GetSheHe] âåðíó[This.GetLasLsya] îáðàòíî â Êèòàé;;x
+DEATH_WENT_TO_CHINA;left [Root.GetHerHis] old life behind to travel to the Chinese Empire, on the order of $KILLER$;;;;;;;;;;;[This.GetSheHe] îñòàâèë[This.GetEndA] ñâîþ ïðåæíþþ æèçíü ïîçàäè, êîãäà $KILLER$ îòïðàâèë[This.Killer.GetEndA] [This.GetHersHis] â Êèòàé;;x
+DEATH_WENT_TO_CHINA_NO_KILLER;left [Root.GetHerHis] old life behind to travel to the Chinese Empire;;;;;;;;;;;[This.GetSheHe] îñòàâèë[This.GetEndA] ñâîþ ïðåæíþþ æèçíü ïîçàäè, ÷òîáû îòïðàâèòüñÿ â Êèòàé;;x

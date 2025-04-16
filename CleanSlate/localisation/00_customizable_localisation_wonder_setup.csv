@@ -1,201 +1,188 @@
 # GetWonderName
-String_special_wonder_name;[GetSpecialWonderName];;;;;;;;;;;;;x
-String_adj_statue_wonder_type_in_location;[This.GetWonderAdjCap] [This.GetWonderTypeShortCap] in [target_province.GetName];;;;;;;;;;;;;x
-String_adj_statue_wonder_type;[This.GetWonderTypeShortCap] in [target_province.GetName];;;;;;;;;;;;;x
-String_statue_wonder_type;[This.GetWonderTypeShortCap];;;;;;;;;;;;;x
-String_adj_wondertype_of_noun;[This.GetWonderAdjCap] [This.GetWonderTypeShortCap] of [This.GetWonderFluffNounCap];;;;;;;;;;;;;x
-String_adj_wondertype_of_location;[This.GetWonderAdjCap] [This.GetWonderTypeShortCap] of [target_province.GetName];;;;;;;;;;;;;x
-String_location_wondertype;[target_province.GetName] [This.GetWonderTypeShortCap];;;;;;;;;;;;;x
-
+String_special_wonder_name;[GetSpecialWonderName];;;;;;;;;;;[This.GetSpecialWonderName];;x
+String_adj_statue_wonder_type_in_location;[This.GetWonderAdjCap] [This.GetWonderTypeShortCap] in [target_province.GetName];;;;;;;;;;;[target_wonder.GetWonderAdjCap][target_wonder.GetWonderAyaYyYeOe] [target_province.County.GetAdjective]ñê[target_wonder.GetWonderAyaIyIeOe] [target_wonder.GetWonderTypeShortCap];;x
+String_adj_statue_wonder_type;[This.GetWonderTypeShortCap] in [target_province.GetName];;;;;;;;;;;[target_province.County.GetAdjective]ñê[target_wonder.GetWonderAyaIyIeOe] [target_wonder.GetWonderTypeShortCap];;x
+String_statue_wonder_type;[This.GetWonderTypeShortCap];;;;;;;;;;;[target_wonder.GetWonderTypeShortCap];;x
+String_adj_wondertype_of_noun;[This.GetWonderAdjCap] [This.GetWonderTypeShortCap] of [This.GetWonderFluffNounCap];;;;;;;;;;;[target_wonder.GetWonderAdjCap][target_wonder.GetWonderAyaYyYeOe] [target_wonder.GetWonderTypeShortCap] [target_wonder.GetWonderFluffNounCap];;x
+String_adj_wondertype_of_location;[This.GetWonderAdjCap] [This.GetWonderTypeShortCap] of [target_province.GetName];;;;;;;;;;;[target_wonder.GetWonderAdjCap][target_wonder.GetWonderAyaYyYeOe] [target_province.County.GetAdjective]ñê[target_wonder.GetWonderAyaIyIeOe] [target_wonder.GetWonderTypeShortCap];;x
+String_location_wondertype;[target_province.GetName] [This.GetWonderTypeShortCap];;;;;;;;;;;[target_province.County.GetAdjective]ñê[target_wonder.GetWonderAyaIyIeOe] [target_wonder.GetWonderTypeShortCap];;x
 # GetSpecialWonderName
-String_the_evil_god_names_workshop;[Root.Religion.GetRandomEvilGodNameCap]'s Workshop;;;;;;;;;;;;;x
-String_jewel_of_the_province;The Jewel of [target_province.GetName];;;;;;;;;;;;;x
-
+String_the_evil_god_names_workshop;[Root.Religion.GetRandomEvilGodNameCap]'s Workshop;;;;;;;;;;;Ìàñòåðñêàÿ Óæàñà;;x
+String_jewel_of_the_province;The Jewel of [target_province.GetName];;;;;;;;;;;[target_province.County.GetAdjective]ñêîå Âåëèêîå ñîîðóæåíèå;;x
 # GetWonderAdjCap
-String_Ancient;Ancient;;;;;;;;;;;;;x
-String_Glorious;Glorious;;;;;;;;;;;;;x
-String_Magnificent;Magnificent;;;;;;;;;;;;;x
-String_Bloody;Bloody;;;;;;;;;;;;;x
-String_Fortified;Fortified;;;;;;;;;;;;;x
-String_Royal;Royal;;;;;;;;;;;;;x
-String_Grand_Royal;Grand Royal;;;;;;;;;;;;;x
-String_Silent;Silent;;;;;;;;;;;;;x
-String_Golden;Golden;;;;;;;;;;;;;x
-String_Verdant;Verdant;;;;;;;;;;;;;x
-String_Looming;Looming;;;;;;;;;;;;;x
-String_Soaring;Soaring;;;;;;;;;;;;;x
-String_Hallowed;Hallowed;;;;;;;;;;;;;x
-String_Divine;Divine;;;;;;;;;;;;;x
-String_Holy;Holy;;;;;;;;;;;;;x
-String_Towering;Towering;;;;;;;;;;;;;x
-String_Grand;Grand;;;;;;;;;;;;;x
-String_Great;Great;;;;;;;;;;;;;x
-String_Old;Old;;;;;;;;;;;;;x
-String_Cool;Cool;;;;;;;;;;;;;x
-
+String_Ancient;Ancient;;;;;;;;;;;Àíòè÷í;;x
+String_Glorious;Glorious;;;;;;;;;;;Âåëè÷åñòâåíí;;x
+String_Magnificent;Magnificent;;;;;;;;;;;Ïðåêðàñí;;x
+String_Bloody;Bloody;;;;;;;;;;;Êðîâàâ;;x
+String_Fortified;Fortified;;;;;;;;;;;Óêðåïë¸íí;;x
+String_Royal;Royal;;;;;;;;;;;Ïðàâèòåëüñòâåíí;;x
+String_Grand_Royal;Grand Royal;;;;;;;;;;;Öàðñòâåíí;;x
+String_Silent;Silent;;;;;;;;;;;Ìðà÷í;;x
+String_Golden;Golden;;;;;;;;;;;Çîëî÷¸íí;;x
+String_Verdant;Verdant;;;;;;;;;;;Çåë¸í;;x
+String_Looming;Looming;;;;;;;;;;;Ãðîçí;;x
+String_Soaring;Soaring;;;;;;;;;;;Ïîäíåáåñí;;x
+String_Hallowed;Hallowed;;;;;;;;;;;Áîæåñòâåíí;;x
+String_Divine;Divine;;;;;;;;;;;Íåáåñí;;x
+String_Holy;Holy;;;;;;;;;;;Ñâÿùåíí;;x
+String_Towering;Towering;;;;;;;;;;;Îãðîìí;;x
+String_Grand;Grand;;;;;;;;;;;Ãðàíäèîçí;;x
+String_Great;Great;;;;;;;;;;;Âåëèêîëåïí;;x
+String_Old;Old;;;;;;;;;;;Ñòàðèíí;;x
+String_Cool;Cool;;;;;;;;;;;Îøèáî÷í;;x
 # GetWonderAdj
-String_ancient;ancient;;;;;;;;;;;;;x
-String_glorious;glorious;;;;;;;;;;;;;x
-String_bloody;bloody;;;;;;;;;;;;;x
-String_iron;iron;;;;;;;;;;;;;x
-String_fortified;fortified;;;;;;;;;;;;;x
-String_royal;royal;;;;;;;;;;;;;x
-String_grand_royal;grand royal;;;;;;;;;;;;;x
-String_silent;silent;;;;;;;;;;;;;x
-String_golden;golden;;;;;;;;;;;;;x
-String_verdant;verdant;;;;;;;;;;;;;x
-String_looming;looming;;;;;;;;;;;;;x
-String_soaring;soaring;;;;;;;;;;;;;x
-String_hallowed;hallowed;;;;;;;;;;;;;x
-String_divine;divine;;;;;;;;;;;;;x
-String_holy;holy;;;;;;;;;;;;;x
-String_towering;towering;;;;;;;;;;;;;x
-String_grand;grand;;;;;;;;;;;;;x
-
+String_ancient;ancient;;;;;;;;;;;àíòè÷í;;x
+String_glorious;glorious;;;;;;;;;;;âåëè÷åñòâåíí;;x
+String_bloody;bloody;;;;;;;;;;;êðîâàâ;;x
+String_iron;iron;;;;;;;;;;;æåëåçî;;x
+String_fortified;fortified;;;;;;;;;;;óêðåïë¸íí;;x
+String_royal;royal;;;;;;;;;;;ïðàâèòåëüñòâåíí;;x
+String_grand_royal;grand royal;;;;;;;;;;;öàðñòâåíí;;x
+String_silent;silent;;;;;;;;;;;ìðà÷í;;x
+String_golden;golden;;;;;;;;;;;çîëî÷¸íí;;x
+String_verdant;verdant;;;;;;;;;;;çåë¸í;;x
+String_looming;looming;;;;;;;;;;;ãðîçí;;x
+String_soaring;soaring;;;;;;;;;;;ïîäíåáåñí;;x
+String_hallowed;hallowed;;;;;;;;;;;áîæåñòâåíí;;x
+String_divine;divine;;;;;;;;;;;íåáåñí;;x
+String_holy;holy;;;;;;;;;;;ñâÿùåíí;;x
+String_towering;towering;;;;;;;;;;;îãðîìí;;x
+String_grand;grand;;;;;;;;;;;ãðàíäèîçí;;x
 # GetWonderTypeShortCap
-String_Cathedral;Cathedral;;;;;;;;;;;;;x
-String_Mosque;Mosque;;;;;;;;;;;;;x
-String_Synagogue;Synagogue;;;;;;;;;;;;;x
-String_Statue;Statue;;;;;;;;;;;;;x
-String_Statue_Ruler;Statue of [wonder_owner_original.GetTitledFirstName];;;;;;;;;;;;;x
-String_Stallion;Stallion;;;;;;;;;;;;;x
-String_Mare;Mare;;;;;;;;;;;;;x
-String_Citadel;Citadel;;;;;;;;;;;;;x
-String_Colossus;Colossus;;;;;;;;;;;;;x
-String_Castle;Castle;;;;;;;;;;;;;x
-String_Keep;Keep;;;;;;;;;;;;;x
-String_Fortress;Fortress;;;;;;;;;;;;;x
-String_Underground_City;Underground City;;;;;;;;;;;;;x
-String_Shield;Shield;;;;;;;;;;;;;x
-String_Walls;Walls;;;;;;;;;;;;;x
-String_Harbor;Harbor;;;;;;;;;;;;;x
-String_Lighthouse;Lighthouse;;;;;;;;;;;;;x
-String_Amphitheater;Amphitheater;;;;;;;;;;;;;x
-String_Palace;Palace;;;;;;;;;;;;;x
-String_Garden;Garden;;;;;;;;;;;;;x
-String_University;University;;;;;;;;;;;;;x
-String_Library;Library;;;;;;;;;;;;;x
-String_Mausoleum;Mausoleum;;;;;;;;;;;;;x
-String_Monolith;Monolith;;;;;;;;;;;;;x
-String_Pyramid;Pyramid;;;;;;;;;;;;;x
-String_Stonehenge;Stonehenge;;;;;;;;;;;;;x
-String_Great_Work;Great Work;;;;;;;;;;;;;x
-
+String_Cathedral;Cathedral;;;;;;;;;;;Ñîáîð;;x
+String_Mosque;Mosque;;;;;;;;;;;Ìå÷åòü;;x
+String_Synagogue;Synagogue;;;;;;;;;;;Ñèíàãîãà;;x
+String_Statue;Statue;;;;;;;;;;;Ñòàòóÿ;;x
+String_Statue_Ruler;Statue of [wonder_owner_original.GetTitledFirstName];;;;;;;;;;;Ñòàòóÿ ïðàâèòåëÿ;;x
+String_Stallion;Stallion;;;;;;;;;;;Ñòàòóÿ æåðåáöà;;x
+String_Mare;Mare;;;;;;;;;;;Ñòàòóÿ ëîøàäè;;x
+String_Citadel;Citadel;;;;;;;;;;;Öèòàäåëü;;x
+String_Colossus;Colossus;;;;;;;;;;;Êîëîññ;;x
+String_Castle;Castle;;;;;;;;;;;Çàìîê;;x
+String_Keep;Keep;;;;;;;;;;;Êðåïîñòü;;x
+String_Fortress;Fortress;;;;;;;;;;;Êðåïîñòü;;x
+String_Underground_City;Underground City;;;;;;;;;;;Ïîäçåìíûé ãîðîä;;x
+String_Shield;Shield;;;;;;;;;;;Óêðåïëåíèÿ;;x
+String_Walls;Walls;;;;;;;;;;;Ñòåíû;;x
+String_Harbor;Harbor;;;;;;;;;;;Ãàâàíü;;x
+String_Lighthouse;Lighthouse;;;;;;;;;;;Ìàÿê;;x
+String_Amphitheater;Amphitheater;;;;;;;;;;;Àìôèòåàòð;;x
+String_Palace;Palace;;;;;;;;;;;Äâîðåö;;x
+String_Garden;Garden;;;;;;;;;;;Ñàä;;x
+String_University;University;;;;;;;;;;;Óíèâåðñèòåò;;x
+String_Library;Library;;;;;;;;;;;Áèáëèîòåêà;;x
+String_Mausoleum;Mausoleum;;;;;;;;;;;Ìàâçîëåé;;x
+String_Monolith;Monolith;;;;;;;;;;;Ìîíîëèò;;x
+String_Pyramid;Pyramid;;;;;;;;;;;Ïèðàìèäà;;x
+String_Stonehenge;Stonehenge;;;;;;;;;;;Ñòîóíõåíäæ;;x
+String_Great_Work;Great Work;;;;;;;;;;;Øåäåâð àðõèòåêòóðû;;x
 # GetWonderTypeShort
-String_cathedral;cathedral;;;;;;;;;;;;;x
-String_mosque;mosque;;;;;;;;;;;;;x
-String_synagogue;synagogue;;;;;;;;;;;;;x
-String_statue;statue;;;;;;;;;;;;;x
-String_statue_ruler;Statue of [wonder_owner_original.GetTitledFirstName];;;;;;;;;;;;;x
-String_citadel;citadel;;;;;;;;;;;;;x
-String_castle;castle;;;;;;;;;;;;;x
-String_keep;keep;;;;;;;;;;;;;x
-String_fortress;fortress;;;;;;;;;;;;;x
-String_underground_city;underground city;;;;;;;;;;;;;x
-String_walls;walls;;;;;;;;;;;;;x
-String_harbor;harbor;;;;;;;;;;;;;x
-String_lighthouse;lighthouse;;;;;;;;;;;;;x
-String_amphitheater;amphitheater;;;;;;;;;;;;;x
-String_palace;palace;;;;;;;;;;;;;x
-String_university;university;;;;;;;;;;;;;x
-String_mausoleum;mausoleum;;;;;;;;;;;;;x
-String_monolith;monolith;;;;;;;;;;;;;x
-String_pyramid;pyramid;;;;;;;;;;;;;x
-String_stone_formation;stone formation;;;;;;;;;;;;;x
-String_great_work;great work;;;;;;;;;;;;;x
-
+String_cathedral;cathedral;;;;;;;;;;;ñîáîð;;x
+String_mosque;mosque;;;;;;;;;;;ìå÷åòü;;x
+String_synagogue;synagogue;;;;;;;;;;;ñèíàãîãà;;x
+String_statue;statue;;;;;;;;;;;ñòàòóÿ;;x
+String_statue_ruler;Statue of [wonder_owner_original.GetTitledFirstName];;;;;;;;;;;ñòàòóÿ ïðàâèòåëÿ;;x
+String_citadel;citadel;;;;;;;;;;;öèòàäåëü;;x
+String_castle;castle;;;;;;;;;;;çàìîê;;x
+String_keep;keep;;;;;;;;;;;êðåïîñòü;;x
+String_fortress;fortress;;;;;;;;;;;êðåïîñòü;;x
+String_underground_city;underground city;;;;;;;;;;;ïîäçåìíûé ãîðîä;;x
+String_walls;walls;;;;;;;;;;;ñòåíû;;x
+String_harbor;harbor;;;;;;;;;;;ãàâàíü;;x
+String_lighthouse;lighthouse;;;;;;;;;;;ìàÿê;;x
+String_amphitheater;amphitheater;;;;;;;;;;;àìôèòåàòð;;x
+String_palace;palace;;;;;;;;;;;äâîðåö;;x
+String_university;university;;;;;;;;;;;óíèâåðñèòåò;;x
+String_mausoleum;mausoleum;;;;;;;;;;;ìàâçîëåé;;x
+String_monolith;monolith;;;;;;;;;;;ìîíîëèò;;x
+String_pyramid;pyramid;;;;;;;;;;;ïèðàìèäà;;x
+String_stone_formation;stone formation;;;;;;;;;;;êàìåííûé êðóã;;x
+String_great_work;great work;;;;;;;;;;;øåäåâð àðõèòåêòóðû;;x
 # GetWonderFluffNounCap
-String_Shadows;Shadows;;;;;;;;;;;;;x
-String_Light;Light;;;;;;;;;;;;;x
-String_Secrets;Secrets;;;;;;;;;;;;;x
-String_Death;Death;;;;;;;;;;;;;x
-String_Pain;Pain;;;;;;;;;;;;;x
-String_Screams;Screams;;;;;;;;;;;;;x
-String_Romance;Romance;;;;;;;;;;;;;x
-String_Treasures;Treasures;;;;;;;;;;;;;x
-String_Wonder_Province;[target_province.GetName];;;;;;;;;;;;;x
-
+String_Shadows;Shadows;;;;;;;;;;;Òåíåé;;x
+String_Light;Light;;;;;;;;;;;Ñâåòà;;x
+String_Secrets;Secrets;;;;;;;;;;;Òàéí;;x
+String_Death;Death;;;;;;;;;;;Ñìåðòè;;x
+String_Pain;Pain;;;;;;;;;;;Áîëè;;x
+String_Screams;Screams;;;;;;;;;;;Ñòðàõà;;x
+String_Romance;Romance;;;;;;;;;;;Ëþáâè;;x
+String_Treasures;Treasures;;;;;;;;;;;Ñîêðîâèù;;x
+String_Wonder_Province;[target_province.GetName];;;;;;;;;;;[target_province.County.GetAdjective]ñêèõ çåìåëü;;x
 # GetWonderDesc
-String_Wonder_Desc00;[target_wonder.GetDesc]. The [upgrade_00.GetRandomUpgradeDesc].;;;;;;;;;;;;;x
-String_Wonder_Desc01;[target_province.GetInOnWonderTerrainCap] the [target_province.GetWonderTerrain] of [target_province.GetName], the [target_wonder.GetWonderAdj] [target_wonder.GetWonderTypeShort] has, for [target_wonder.GetWonderAgeDesc], [target_wonder.GetWonderPurpose].;;;;;;;;;;;;;x
-String_Wonder_Desc02;The [target_wonder.GetWonderAdj] [target_wonder.GetWonderTypeShort] has [target_wonder.GetWonderPurpose], for [target_wonder.GetWonderAgeDesc]. The [upgrade_00.GetRandomUpgradeDesc].;;;;;;;;;;;;;x
-String_Wonder_Desc03;The [upgrade_00.GetRandomUpgradeDesc]. For [target_wonder.GetWonderAgeDesc], the [target_wonder.GetWonderTypeShort] has [target_wonder.GetWonderPurpose].;;;;;;;;;;;;;x
-
+String_Wonder_Desc00;[target_wonder.GetDesc]. The [upgrade_00.GetRandomUpgradeDesc].;;;;;;;;;;;[target_wonder.GetDesc]. [upgrade_00.GetRandomUpgradeDesc].;;x
+String_Wonder_Desc01;[target_province.GetInOnWonderTerrainCap] the [target_province.GetWonderTerrain] of [target_province.GetName], the [target_wonder.GetWonderAdj] [target_wonder.GetWonderTypeShort] has, for [target_wonder.GetWonderAgeDesc], [target_wonder.GetWonderPurpose].;;;;;;;;;;;[target_province.GetInOnWonderTerrainCap] [target_province.County.GetAdjective]ñê[target_province.GetWonderTerrainPostfixPREP] [target_province.GetWonderTerrainPREP] [target_wonder.GetWonderAdjCap][target_wonder.GetWonderAyaYyYeOe] [target_wonder.GetWonderTypeShort] [target_wonder.GetWonderAgeDesc] [target_wonder.GetWonderPurpose].;;x
+String_Wonder_Desc02;The [target_wonder.GetWonderAdj] [target_wonder.GetWonderTypeShort] has [target_wonder.GetWonderPurpose], for [target_wonder.GetWonderAgeDesc]. The [upgrade_00.GetRandomUpgradeDesc].;;;;;;;;;;;Ýò[target_wonder.GetWonderTypeShortEtaEtot] [target_wonder.GetWonderAdj][target_wonder.GetWonderAyaYyYeOe] [target_wonder.GetWonderTypeShort] [target_wonder.GetWonderAgeDesc] [target_wonder.GetWonderPurpose]. [upgrade_00.GetRandomUpgradeDesc].;;x
+String_Wonder_Desc03;The [upgrade_00.GetRandomUpgradeDesc]. For [target_wonder.GetWonderAgeDesc], the [target_wonder.GetWonderTypeShort] has [target_wonder.GetWonderPurpose].;;;;;;;;;;;[upgrade_00.GetRandomUpgradeDesc]. [target_wonder.GetWonderAgeDescCap] [target_wonder.GetWonderTypeShort] [target_wonder.GetWonderPurpose].;;x
 # GetWonderAgeDesc
-String_months;months;;;;;;;;;;;;;x
-String_years;years;;;;;;;;;;;;;x
-String_decades;decades;;;;;;;;;;;;;x
-String_almost_a_century;almost a century;;;;;;;;;;;;;x
-String_ages;ages;;;;;;;;;;;;;x
-String_more_than_a_hundred_years;more than a hundred years;;;;;;;;;;;;;x
-String_hundreds_of_years;hundreds of years;;;;;;;;;;;;;x
-String_as_long_as_anyone_can_remember;as long as anyone can remember;;;;;;;;;;;;;x
-String_centuries;centuries;;;;;;;;;;;;;x
-String_time_immemorial;time immemorial;;;;;;;;;;;;;x
-String_a_long_time;a long time;;;;;;;;;;;;;x
-
+String_months;months;;;;;;;;;;;ìíîãèå ìåñÿöû;;x
+String_years;years;;;;;;;;;;;äîëãèå ãîäû;;x
+String_decades;decades;;;;;;;;;;;ìíîãèå äåñÿòèëåòèÿ;;x
+String_almost_a_century;almost a century;;;;;;;;;;;ïî÷òè âåê;;x
+String_ages;ages;;;;;;;;;;;áîëüøå âåêà;;x
+String_more_than_a_hundred_years;more than a hundred years;;;;;;;;;;;áîëåå ñòà ëåò;;x
+String_hundreds_of_years;hundreds of years;;;;;;;;;;;ñîòíè ëåò;;x
+String_as_long_as_anyone_can_remember;as long as anyone can remember;;;;;;;;;;;âåêàìè;;x
+String_centuries;centuries;;;;;;;;;;;ìíîãèå âåêà;;x
+String_time_immemorial;time immemorial;;;;;;;;;;;ñ íåçàïàìÿòíûõ âðåì¸í;;x
+String_a_long_time;a long time;;;;;;;;;;;äîëãîå âðåìÿ;;x
 # GetWonderPurpose
-String_inspired_pious;inspired many pious men and women;;;;;;;;;;;;;x
-String_safe_haven_for_lost_souls;been a safe haven for lost souls;;;;;;;;;;;;;x
-String_a_place_of_comfort_for_believers;been a place of comfort for all [Root.Religion.GetName] followers;;;;;;;;;;;;;x
-String_brought_people_together;brought god-fearing people together;;;;;;;;;;;;;x
-String_lent_its_protection;lent protection to those in need;;;;;;;;;;;;;x
-String_shielded_its_people;shielded its people from enemies;;;;;;;;;;;;;x
-String_been_impressive_curiosity;been an impressive curiosity;;;;;;;;;;;;;x
-String_inspired_wonder;inspired wonder in its visitors;;;;;;;;;;;;;x
-String_been_bringing_traffic;been bringing traffic and tourism to the area;;;;;;;;;;;;;x
-String_been_aiding_maritime_matters;been aiding maritime matters;;;;;;;;;;;;;x
-String_been_guiding_ships_to_port;been guiding ships to port;;;;;;;;;;;;;x
-String_tourist_attraction;been a successful tourist attraction;;;;;;;;;;;;;x
-String_center_of_leisure;been the nobility's favorite place of leisure and rejuvenation;;;;;;;;;;;;;x
-String_source_of_veneration;been a source of solemn veneration;;;;;;;;;;;;;x
-String_impressive_feat_of_architecture;been an impressive feat of architecture;;;;;;;;;;;;;x
-String_inspired_imagination;inspired the imagination of its visitors;;;;;;;;;;;;;x
-String_eased_the_burden;eased the burden of every day life for countless people;;;;;;;;;;;;;x
-String_improved_lives;improved the lives of its residents;;;;;;;;;;;;;x
-String_hot_spot_for_gossip;been a hot spot for court intrigue and gossip;;;;;;;;;;;;;x
-String_house_of_envy;been a house of envy and admiration;;;;;;;;;;;;;x
-String_encouraged_greatness_1;encouraged greatness in both commoner and noble alike;;;;;;;;;;;;;x
-String_encouraged_greatness_2;been a beacon of greatness;;;;;;;;;;;;;x
-String_inspired_students;inspired scholars and hardworking students;;;;;;;;;;;;;x
-String_encouraged_learning;encouraged higher learning;;;;;;;;;;;;;x
-
+String_inspired_pious;inspired many pious men and women;;;;;;;;;;;âäîõíîâëÿ[This.GetWonderYetYut] áëàãî÷åñòèâûõ ìóæ÷èí è æåíùèí;;x
+String_safe_haven_for_lost_souls;been a safe haven for lost souls;;;;;;;;;;;ñëóæ[This.GetWonderItAt] óáåæèùåì äëÿ çàáëóäøèõ äóø;;x
+String_a_place_of_comfort_for_believers;been a place of comfort for all [Root.Religion.GetName] followers;;;;;;;;;;;ñëóæ[This.GetWonderItAt] ïðèñòàíèùåì äëÿ âñåõ [This.Owner.GetReligionAdherentsGENACC];;x
+String_brought_people_together;brought god-fearing people together;;;;;;;;;;;ñîáèðà[This.GetWonderYetYut] áîãîáîÿçíåííûõ ëþäåé âìåñòå;;x
+String_lent_its_protection;lent protection to those in need;;;;;;;;;;;îáåñïå÷èâà[This.GetWonderYetYut] çàùèòó âñåì, êòî â íåé íóæäàåòñÿ;;x
+String_shielded_its_people;shielded its people from enemies;;;;;;;;;;;çàùèùà[This.GetWonderYetYut] íàñåëåíèå îò âðàãîâ;;x
+String_been_impressive_curiosity;been an impressive curiosity;;;;;;;;;;;ïðîáóæäà[This.GetWonderYetYut] íåâåðîÿòíîå ëþáîïûòñòâî;;x
+String_inspired_wonder;inspired wonder in its visitors;;;;;;;;;;;âäîõíîâëÿ[This.GetWonderYetYut] ïîñåòèòåëåé;;x
+String_been_bringing_traffic;been bringing traffic and tourism to the area;;;;;;;;;;;ïðèâëåêà[This.GetWonderYetYut] êóïöîâ è ïóòåøåñòâåííèêîâ ñî âñåãî ñâåòà;;x
+String_been_aiding_maritime_matters;been aiding maritime matters;;;;;;;;;;;óêàçûâà[This.GetWonderYetYut] ïóòü ìîðÿêàì;;x
+String_been_guiding_ships_to_port;been guiding ships to port;;;;;;;;;;;íàïðàâëÿ[This.GetWonderYetYut] êîðàáëè â ïîðò;;x
+String_tourist_attraction;been a successful tourist attraction;;;;;;;;;;;ïðèâëåêà[This.GetWonderYetYut] òóðèñòîâ ñî âñåãî ìèðà;;x
+String_center_of_leisure;been the nobility's favorite place of leisure and rejuvenation;;;;;;;;;;;ÿâëÿ[This.GetWonderYetYut]ñÿ ìåñòîì îòäûõà äëÿ çíàòè;;x
+String_source_of_veneration;been a source of solemn veneration;;;;;;;;;;;ñëóæ[This.GetWonderItAt] ìåñòîì ïî÷èòàíèÿ óñîïøèõ;;x
+String_impressive_feat_of_architecture;been an impressive feat of architecture;;;;;;;;;;;ÿâëÿ[This.GetWonderYetYut] ñîáîé âïå÷àòëÿùåå ïðîèçâåäåíèå àðõèòåêòóðû;;x
+String_inspired_imagination;inspired the imagination of its visitors;;;;;;;;;;;ïîðàæà[This.GetWonderYetYut] âîîáðàæåíèå ïîñåòèòåëåé;;x
+String_eased_the_burden;eased the burden of every day life for countless people;;;;;;;;;;;îáëåã÷à[This.GetWonderYetYut] íîøó ïîâñåäíåâíîé æèçíè äëÿ áåñ÷èñëåííîãî ìíîæåñòâà ëþäåé;;x
+String_improved_lives;improved the lives of its residents;;;;;;;;;;;óëó÷øà[This.GetWonderYetYut] æèçíü ìåñòíûõ æèòåëåé;;x
+String_hot_spot_for_gossip;been a hot spot for court intrigue and gossip;;;;;;;;;;;ñëóæ[This.GetWonderItAt] èçëþáëåííûì ìåñòîì äëÿ îáñóæäåíèÿ ñëóõîâ è èíòðèã ïðè äâîðå;;x
+String_house_of_envy;been a house of envy and admiration;;;;;;;;;;;ÿâëÿ[This.GetWonderYetYut]ñÿ ïðåäìåòîì çàâèñòè è îáîæàíèÿ;;x
+String_encouraged_greatness_1;encouraged greatness in both commoner and noble alike;;;;;;;;;;;âîçâûøà[This.GetWonderYetYut] âñåõ, îò ïðîñòîëþäèíà äî àðèñòîêðàòà;;x
+String_encouraged_greatness_2;been a beacon of greatness;;;;;;;;;;;ñëóæ[This.GetWonderItAt] îïëîòîì âåëè÷èÿ;;x
+String_inspired_students;inspired scholars and hardworking students;;;;;;;;;;;âäîõíîâëÿ[This.GetWonderYetYut] ó÷¸íûõ è öåëåóñòðåìë¸ííûõ ñòóäåíòîâ;;x
+String_encouraged_learning;encouraged higher learning;;;;;;;;;;;ïîáóæäà[This.GetWonderYetYut] ëþäåé ê èçó÷åíèþ íîâîãî;;x
 # GetRandomUpgradeDesc
-String_upgrade_sends_chills;[This.GetName] sends chills down the spine of even the bravest of souls;;;;;;;;;;;;;x
-String_upgrade_send_chills;[This.GetName] send chills down the spine of even the bravest of souls;;;;;;;;;;;;;x
-String_upgrade_promises_safety;[This.GetName] promises safety in times of need;;;;;;;;;;;;;x
-String_upgrade_promise_safety;[This.GetName] are said to guarantee its safety, in times of need;;;;;;;;;;;;;x
-String_upgrade_is_a_work_of_art;[This.GetName] is a work of art;;;;;;;;;;;;;x
-String_upgrade_are_beautifully_made;[This.GetName] are beautifully crafted;;;;;;;;;;;;;x
-String_statues_keep_demons_away;stone [This.GetName] are said to keep demons at bay;;;;;;;;;;;;;x
-String_dome_is_second_sky;grand dome is a second sky for its worshipers;;;;;;;;;;;;;x
-String_said_to_be_the_envy_of_gardeners;[This.GetName] is said to be the envy of any educated gardener;;;;;;;;;;;;;x
-String_brings_comfort_to_pet_owners;[This.GetName] brings comfort to bereaved pet owners from all layers of society;;;;;;;;;;;;;x
-String_lends_moral_support;[This.GetName] lends moral support and a watching eye to the surrounding area;;;;;;;;;;;;;x
-String_keeps_people_on_their_toes;[This.GetName] is rumored to keep people on their toes;;;;;;;;;;;;;x
-String_improves_accessibility;[This.GetName] improve accessibility in the area;;;;;;;;;;;;;x
-String_contribute_to_heightened_security;[This.GetName] contribute[This.GetSingularS] to a heightened security in the area;;;;;;;;;;;;;x
-String_bring_luxury_during_colder_seasons;[This.GetName] bring[This.GetSingularS] an unparalleled feeling of luxury during cold seasons;;;;;;;;;;;;;x
-String_acts_as_entertainment;[This.GetName] act[This.GetSingularS] as a source of rare entertainment in the area;;;;;;;;;;;;;x
-String_can_be_seen_from_far_away;[This.GetName] can be seen from far away;;;;;;;;;;;;;x
-String_signals_expected_obedience;[This.GetName] installed by the owner signal[This.GetSingularS] a certain expectation of obedience;;;;;;;;;;;;;x
-String_rumored_to_be_the_best;[This.GetName] is rumored to be the best in the realm;;;;;;;;;;;;;x
-String_bring_in_cash;[This.GetName] are bringing in extra finances from the area;;;;;;;;;;;;;x
-String_offers_relaxation;[This.GetName] offer[This.GetSingularS] respite for weary travelers;;;;;;;;;;;;;x
-String_inspires_awe;[This.GetName] inspire[This.GetSingularS] solemn awe;;;;;;;;;;;;;x
-String_remains_a_rumor;[This.GetName] remain[This.GetSingularS] a strange rumor;;;;;;;;;;;;;x
-String_most_recently_added;splendid [This.GetName] draw[This.GetSingularS] a lot of attention;;;;;;;;;;;;;x
-
+String_upgrade_sends_chills;[This.GetName] sends chills down the spine of even the bravest of souls;;;;;;;;;;;[This.GetName] íàâîäèò óæàñ äàæå íà ñàìûõ õðàáðûõ;;x
+String_upgrade_send_chills;[This.GetName] send chills down the spine of even the bravest of souls;;;;;;;;;;;[This.GetName] íàâîäÿò óæàñ äàæå íà ñàìûõ õðàáðûõ;;x
+String_upgrade_promises_safety;[This.GetName] promises safety in times of need;;;;;;;;;;;[This.GetName] äà¸ò çàùèòó â òðóäíûé ÷àñ;;x
+String_upgrade_promise_safety;[This.GetName] are said to guarantee its safety, in times of need;;;;;;;;;;;[This.GetName] îáåñïå÷èâàþò çàùèòó â òðóäíûé ÷àñ;;x
+String_upgrade_is_a_work_of_art;[This.GetName] is a work of art;;;;;;;;;;;[This.GetName] - íàñòîÿùåå ïðîèçâåäåíèå èñêóññòâà;;x
+String_upgrade_are_beautifully_made;[This.GetName] are beautifully crafted;;;;;;;;;;;[This.GetName] ïðåêðàñíî èñïîëíåíû;;x
+String_statues_keep_demons_away;stone [This.GetName] are said to keep demons at bay;;;;;;;;;;;[This.GetName] ïî ëåãåíäå ñäåðæèâàþò äåìîíîâ;;x
+String_dome_is_second_sky;grand dome is a second sky for its worshipers;;;;;;;;;;;Âåëèêèé êóïîë ñëóæèò âòîðûì íåáîì äëÿ âåðóþùèõ;;x
+String_said_to_be_the_envy_of_gardeners;[This.GetName] is said to be the envy of any educated gardener;;;;;;;;;;;Ãîâîðÿò, [This.GetName] ñîäåðæèò ðåäêèå ðàñòåíèÿ, î êîòîðûõ ëþáîé îáðàçîâàííûé ñàäîâîä ìîæåò òîëüêî ìå÷òàòü;;x
+String_brings_comfort_to_pet_owners;[This.GetName] brings comfort to bereaved pet owners from all layers of society;;;;;;;;;;;[This.GetName] ïðèíîñèò óòåøåíèå âëàäåëüöàì äîìàøíèõ ïèòîìöåâ èç âñåõ ñëî¸â îáùåñòâà;;x
+String_lends_moral_support;[This.GetName] lends moral support and a watching eye to the surrounding area;;;;;;;;;;;[This.GetName] ïîääåðæèâàåò áîåâîé äóõ è îáåñïå÷èâàåò õîðîøèé îáçîð îêðåñòíûõ çåìåëü;;x
+String_keeps_people_on_their_toes;[This.GetName] is rumored to keep people on their toes;;;;;;;;;;;Ïî ñëóõàì [This.GetName] äåðæèò ìåñòíûõ æèòåëåé â íàïðÿæåíèè;;x
+String_improves_accessibility;[This.GetName] improve accessibility in the area;;;;;;;;;;;[This.GetName] ñóùåñòâåííî óëó÷øàþò äîñòóï ê ýòîìó ðåãèîíó;;x
+String_contribute_to_heightened_security;[This.GetName] contribute[This.GetSingularS] to a heightened security in the area;;;;;;;;;;;[This.GetName] - ëó÷øåå ðåøåíèå äëÿ ïîäíÿòèÿ îáîðîíîñïîñîáíîñòè ðåãèîíà;;x
+String_bring_luxury_during_colder_seasons;[This.GetName] bring[This.GetSingularS] an unparalleled feeling of luxury during cold seasons;;;;;;;;;;;[This.GetName] äàþò íè ñ ÷åì íå ñðàâíèìîå îùóùåíèå ðîñêîøè è êîìôîðòà â õîëîäíûé ïåðèîä;;x
+String_acts_as_entertainment;[This.GetName] act[This.GetSingularS] as a source of rare entertainment in the area;;;;;;;;;;;[This.GetName] - íåïðåâçîéä¸ííûé èñòî÷íèê ðåäêèõ ðàçâëå÷åíèé â ýòîì ðåãèîíå;;x
+String_can_be_seen_from_far_away;[This.GetName] can be seen from far away;;;;;;;;;;;[This.GetName] èìåííî òî, ÷òî ëþáîé ïóòåøåñòâåííèê ñìîæåò çàìåòèòü èçäàëåêà;;x
+String_signals_expected_obedience;[This.GetName] installed by the owner signal[This.GetSingularS] a certain expectation of obedience;;;;;;;;;;;[This.GetName] ñàìèì ñâîèì ñóùåñòâîâàíèåì âûðàæàåò îæèäàíèÿ ïðàâèòåëåì ïîêîðíîñòè îò ñâîèõ ïîääàííûõ;;x
+String_rumored_to_be_the_best;[This.GetName] is rumored to be the best in the realm;;;;;;;;;;;Ïî ñëóõà [This.GetName] - ëó÷øåå, ÷òî åñòü â ýòîé ñòðàíå;;x
+String_bring_in_cash;[This.GetName] are bringing in extra finances from the area;;;;;;;;;;;[This.GetName] ÿâëÿþòñÿ êðóïíûì èñòî÷íèêîì äîõîäà â ýòîì ðåãèîíå;;x
+String_offers_relaxation;[This.GetName] offer[This.GetSingularS] respite for weary travelers;;;;;;;;;;;[This.GetName] ïðåäëàãàåò óñòàâøèì ïóòíèêàì ñòîëü íåîáõîäèìûé èì îòäûõ;;x
+String_inspires_awe;[This.GetName] inspire[This.GetSingularS] solemn awe;;;;;;;;;;;Êîãäà ìåñòíûå æèòåëè ãîâîðÿò î òîðæåñòâåííîì áëàãîãîâåíèè, îíè èìåþò â âèäó [This.GetName];;x
+String_remains_a_rumor;[This.GetName] remain[This.GetSingularS] a strange rumor;;;;;;;;;;;[This.GetName] ïîðîæäàåò ñòðàííûå ñëóõè;;x
+String_most_recently_added;splendid [This.GetName] draw[This.GetSingularS] a lot of attention;;;;;;;;;;;Îñîáåííî ïîðàæàåò òî, ÷òî òàì òåïåðü [This.GetName];;x
 # GetMythologicalBeast
-String_Sphinx;Great Sphinx of Giza;;;;;;;;;;;;;x
-String_MythologicalBeast;Mythological Beast Statue;;;;;;;;;;;;;x
-
+String_Sphinx;Great Sphinx of Giza;;;;;;;;;;;Âåëèêèé Ñôèíêñ;;x
+String_MythologicalBeast;Mythological Beast Statue;;;;;;;;;;;Ñòàòóÿ ìèôè÷åñêîãî çâåðÿ;;x
 # GetWonderTerrain
-string_coast;coast;;;;;;;;;;;;;x
-String_forest;forest;;;;;;;;;;;;;x
-
+string_coast;coast;;;;;;;;;;;áåðåã;;x
+String_forest;forest;;;;;;;;;;;ëåñ;;x
 # GetHagiaSophiaUse
-string_Hagia_Sophia_Latin; and was converted to the Latin cult after the conquest of Constantinople;;;;;;;;;;;;;x
-string_Hagia_Sophia_Muslim; and was converted to be the Imperial Mosque after the conquest of Constantinople;;;;;;;;;;;;;x
-string_Hagia_Sophia_Orthodox; and is the seat of the Ecumenical Patriarch of Constantinople;;;;;;;;;;;;;x
-string_pride_of_constantinople; and is the pride of Constantinople;;;;;;;;;;;;;x
+string_Hagia_Sophia_Latin; and was converted to the Latin cult after the conquest of Constantinople;;;;;;;;;;; è ïðîøëî ÷åðåç ëàòèíèçàöèþ ïîñëå çàâîåâàíèÿ Êîíñòàíòèíîïîëÿ;;x
+string_Hagia_Sophia_Muslim; and was converted to be the Imperial Mosque after the conquest of Constantinople;;;;;;;;;;; è ïðåîáðàçîâàíî â Èìïåðñêóþ Ìå÷åòü ïîñëå çàâîåâàíèÿ Êîíñòàíòèíîïîëÿ;;x
+string_Hagia_Sophia_Orthodox; and is the seat of the Ecumenical Patriarch of Constantinople;;;;;;;;;;; è ñëóæèò ïðåñòîëîì Âñåëåíñêîãî Ïàòðèàðõà Êîíñòàíòèíîïîëÿ;;x
+string_pride_of_constantinople; and is the pride of Constantinople;;;;;;;;;;; è ÿâëÿåòñÿ ãîðäîñòüþ Êîíñòàíòèíîïîëÿ;;x

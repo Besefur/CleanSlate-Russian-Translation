@@ -1,6 +1,5 @@
-EVTDESC_HL_2000;A powerful minor Clan has risen up in [Root.GetName], led by their charismatic chieftain. They demand a place among the major clans!;;;;;;;;;;;;;x
-EVTDESC_HL_2001;A powerful minor Clan has risen up in [From.GetName], led by their charismatic chieftain. They demand a place among the major clans!;;;;;;;;;;;;;x
-EVTDESC_HL_2010;The minor Clan rising has gained more support in [Root.GetName], reinforcing the ongoing revolt!;;;;;;;;;;;;;x
-EVTDESC_HL_2011;The minor Clan rising has gained more support in [From.GetName], reinforcing the ongoing revolt!;;;;;;;;;;;;;x
-
-EVTOPTA_HL_2000;We shall see who proves the stronger!;;;;;;;;;;;;;x
+EVTDESC_HL_2000;A powerful minor Clan has risen up in [Root.GetName], led by their charismatic chieftain. They demand a place among the major clans!;;;;;;;;;;;Ðàíåå ìàëîèçâåñòíûé, à òåïåðü ìîãóùåñòâåííûé êëàí, âåäîìûé õàðèçìàòè÷íûì âîæä¸ì, ïîäíÿë âîññòàíèå â [Root.County.GetAdjective]ñêèõ çåìëÿõ. Îíè òðåáóþò ñåáå ìåñòî ñðåäè âåäóùèõ êëàíîâ.;;x
+EVTDESC_HL_2001;A powerful minor Clan has risen up in [From.GetName], led by their charismatic chieftain. They demand a place among the major clans!;;;;;;;;;;;Ðàíåå ìàëîèçâåñòíûé, à òåïåðü ìîãóùåñòâåííûé êëàí, âåäîìûé õàðèçìàòè÷íûì âîæä¸ì, ïîäíÿë âîññòàíèå â [From.County.GetAdjective]ñêèõ çåìëÿõ. Îíè òðåáóþò ñåáå ìåñòî ñðåäè âåäóùèõ êëàíîâ.;;x
+EVTDESC_HL_2010;The minor Clan rising has gained more support in [Root.GetName], reinforcing the ongoing revolt!;;;;;;;;;;;Âîññòàíèå íîâîãî êëàíà â [Root.County.GetAdjective]ñêèõ çåìëÿõ ïðèâëåêëî íîâûõ ñòîðîííèêîâ, ïîïîëíèâøèõ òåêóùåå âîññòàíèå!;;x
+EVTDESC_HL_2011;The minor Clan rising has gained more support in [From.GetName], reinforcing the ongoing revolt!;;;;;;;;;;;Âîññòàíèå íîâîãî êëàíà â [From.County.GetAdjective]ñêèõ çåìëÿõ ïðèâëåêëî íîâûõ ñòîðîííèêîâ, ïîïîëíèâøèõ òåêóùåå âîññòàíèå!;;x
+EVTOPTA_HL_2000;We shall see who proves the stronger!;;;;;;;;;;;Ïóñòü äîêàæóò ýòî ñèëîé!;;x

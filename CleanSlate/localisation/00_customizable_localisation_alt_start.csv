@@ -1,117 +1,91 @@
 # GetDharmic
-string_Dharmic;Dharmic;;;;;;;;;;;;;x
-string_Dharmic_alt;[indian_group.GetGroupName];;;;;;;;;;;;;x
-
+string_Dharmic;Dharmic;;;;;;;;;;;Äõàðìè÷å;;x
+string_Dharmic_alt;[indian_group.GetGroupName];;;;;;;;;;;[indian_group.GetGroupName];;x
 # GetGermanic
-string_Germanic;Germanic;;;;;;;;;;;;;x
-string_Germanic_alt;[norse_pagan_reformed.GetName];;;;;;;;;;;;;x
-
+string_Germanic;Germanic;;;;;;;;;;;Ãåðìàí;;x
+string_Germanic_alt;[norse_pagan_reformed.GetName];;;;;;;;;;;[norse_pagan_reformed.GetName];;x
 # GetNubia
-string_Nubia;Nubia;;;;;;;;;;;;;x
-string_Nubia_alt;[nubian.GetName]ia;;;;;;;;;;;;;x
-
+string_Nubia;Nubia;;;;;;;;;;;Íóáèÿ;;x
+string_Nubia_alt;[nubian.GetName]ia;;;;;;;;;;;[_Íóáèé]ñêàÿ çåìëÿ;;x
 # GetLongbowDesc
-ca_culture_saxon_english_1_desc_RANDOM;The strong tradition of archery produces excellent bowmen. Here they can practise with their powerful longbows.;;;;;;;;;;;;;x
-ca_culture_saxon_english_1_desc_REAL;The strong tradition of archery in England and Wales produces excellent bowmen. Here they can practise with their powerful longbows.;;;;;;;;;;;;;x
-
+ca_culture_saxon_english_1_desc_RANDOM;The strong tradition of archery produces excellent bowmen. Here they can practise with their powerful longbows.;;;;;;;;;;;Âåëèêèå òðàäèöèè ñòðåëüáû èç ëóêà ïîðîæäàþò îòëè÷íûõ ëó÷íèêîâ. Çäåñü îíè ìîãóò ïðàêòèêîâàòüñÿ ñ ìîùíûìè ëóêàìè.;;x
+ca_culture_saxon_english_1_desc_REAL;The strong tradition of archery in England and Wales produces excellent bowmen. Here they can practise with their powerful longbows.;;;;;;;;;;;Âåëèêèå òðàäèöèè ñòðåëüáû èç ëóêà â Àíãëèè è Óýëüñå ïîðîæäàþò îòëè÷íûõ ëó÷íèêîâ. Çäåñü îíè ìîãóò ïðàêòèêîâàòüñÿ ñ ìîùíûìè ëóêàìè.;;x
 # GetMoors
-ca_culture_moor_alt;[berber.GetName]s;;;;;;;;;;;;;x
-
+ca_culture_moor_alt;[berber.GetName]s;;;;;;;;;;;[berber.GetName]öû;;x
 # GetMoorish
-ca_culture_moorish_alt;[berber.GetName]ish;;;;;;;;;;;;;x
-
+ca_culture_moorish_alt;[berber.GetName]ish;;;;;;;;;;;[berber.GetName];;x
 # GetHimalayanDesc
-ca_culture_tibetan_desc_altered;The hardy peoples of the mountains are experts at fighting in rough and rocky terrain.;;;;;;;;;;;;;x
-ca_culture_tibetan_desc_original;The hardy peoples of the Himalayas are experts at fighting in rough and mountainous terrain.;;;;;;;;;;;;;x
-
+ca_culture_tibetan_desc_altered;The hardy peoples of the mountains are experts at fighting in rough and rocky terrain.;;;;;;;;;;;Âûíîñëèâûå æèòåëè ãîð ÿâëÿþòñÿ ýêñïåðòàìè ïî áîþ â ãîðàõ.;;x
+ca_culture_tibetan_desc_original;The hardy peoples of the Himalayas are experts at fighting in rough and mountainous terrain.;;;;;;;;;;;Âûíîñëèâûå æèòåëè Ãèìàëàåâ ÿâëÿþòñÿ ýêñïåðòàìè ïî áîþ â ãîðàõ.;;x
 # GetSerbianDesc
-ca_culture_group_south_slavic_1_desc_altered;This light cavalry force can trace its origins back centuries. Armed with spears and shields, they often serve in a support role, charging the enemy as soon as an opportunity presents itself.;;;;;;;;;;;;;x
-ca_culture_group_south_slavic_1_desc_original;This light cavalry force can trace its origins back to Serbia. Armed with spears and shields, they often serve in a support role, charging the enemy as soon as an opportunity presents itself.;;;;;;;;;;;;;x
-
+ca_culture_group_south_slavic_1_desc_altered;This light cavalry force can trace its origins back centuries. Armed with spears and shields, they often serve in a support role, charging the enemy as soon as an opportunity presents itself.;;;;;;;;;;;Ýòà ë¸ãêàÿ êîííèöà èçâåñòíàÿ ñ äðåâíèõ âðåì¸í. Âîîðóæ¸ííàÿ êîïüÿìè è ùèòàìè, îíà ÷àñòî âûñòóïàåò â ðîëè ïîääåðæêè, ïîðàæàÿ ïðîòèâíèêà, êàê òîëüêî ïðåäñòàâèòñÿ òàêàÿ âîçìîæíîñòü.;;x
+ca_culture_group_south_slavic_1_desc_original;This light cavalry force can trace its origins back to Serbia. Armed with spears and shields, they often serve in a support role, charging the enemy as soon as an opportunity presents itself.;;;;;;;;;;;Ýòà ë¸ãêàÿ êîííèöà áåð¸ò ñâî¸ íà÷àëî â Ñåðáèè. Âîîðóæ¸ííàÿ êîïüÿìè è ùèòàìè, îíà ÷àñòî âûñòóïàåò â ðîëè ïîääåðæêè, ïîðàæàÿ ïðîòèâíèêà, êàê òîëüêî ïðåäñòàâèòñÿ òàêàÿ âîçìîæíîñòü.;;x
 # GetFlemishDesc
-ca_culture_dutch_1_desc_altered;These urban militias are named after the mace they favor in battle. They have proven themselves more than once against armored cavalry.;;;;;;;;;;;;;x
-ca_culture_dutch_1_desc_original;These urban militias are named after the Flemish goedendag mace they favor in battle. They have proven themselves more than once against armored cavalry.;;;;;;;;;;;;;x
-
+ca_culture_dutch_1_desc_altered;These urban militias are named after the mace they favor in battle. They have proven themselves more than once against armored cavalry.;;;;;;;;;;;Ýòèõ ãîðîäñêèõ îïîë÷åíöåâ íàçûâàþò ãîäåíäàãàìè â ÷åñòü áóëàâû, ïðèìåíÿåìîé â ñðàæåíèè. Îíè íå ðàç âûñòóïàëè ïðîòèâ òÿæ¸ëîé êîííèöû.;;x
+ca_culture_dutch_1_desc_original;These urban militias are named after the Flemish goedendag mace they favor in battle. They have proven themselves more than once against armored cavalry.;;;;;;;;;;;Ýòèõ ãîðîäñêèõ îïîë÷åíöåâ íàçûâàþò ãîäåíäàãàìè â ÷åñòü ôëàìàíäñêîé áóëàâû, ïðèìåíÿåìîé â ñðàæåíèè. Îíè íå ðàç âûñòóïàëè ïðîòèâ òÿæ¸ëîé êîííèöû.;;x
 # GetSpanishCatolica
-string_catholic_spanish_a;_;;;;;;;;;;;;;x
-string_catholic_spanish_dynamic;_;;;;;;;;;;;;;x
-
+string_catholic_spanish_a;_;;;;;;;;;;;_;;x
+string_catholic_spanish_dynamic;_;;;;;;;;;;;_;;x
 # GetRandomHREPrefix
-hre_blessed;Blessed;;;;;;;;;;;;;x
-hre_divine;Divine;;;;;;;;;;;;;x
-hre_hallowed;Hallowed;;;;;;;;;;;;;x
-hre_holy;Holy;;;;;;;;;;;;;x
-hre_sacrosanct;Sacrosanct;;;;;;;;;;;;;x
-
+hre_blessed;Blessed;;;;;;;;;;;Áëàãîñëîâåíí;;x
+hre_divine;Divine;;;;;;;;;;;Íåáåñí;;x
+hre_hallowed;Hallowed;;;;;;;;;;;Ñâÿò;;x
+hre_holy;Holy;;;;;;;;;;;Ñâÿùåíí;;x
+hre_sacrosanct;Sacrosanct;;;;;;;;;;;Áîæåñòâåíí;;x
 # GetFrenchCatholicisme
-string_catholic_french_catholicisme;_;;;;;;;;;;;;;x
-string_catholic_french_dynamic_isme;_;;;;;;;;;;;;;x
-
+string_catholic_french_catholicisme;_;;;;;;;;;;;_;;x
+string_catholic_french_dynamic_isme;_;;;;;;;;;;;_;;x
 # GetDharmicOrRandom
-string_holywar_dharmic;Dharmic;;;;;;;;;;;;;x
-string_holywar_random_name;[hindu.GetName], [buddhist.GetName] and [jain.GetName];;;;;;;;;;;;;x
-
+string_holywar_dharmic;Dharmic;;;;;;;;;;;íåäõàðìè÷åñêèõ ðåëèãèé;;x
+string_holywar_random_name;[hindu.GetName], [buddhist.GetName] and [jain.GetName];;;;;;;;;;;ðåëèãèé, êðîìå [_èíäóèçì]à, [_áóääèçì]à è [_äæàéíèçì]à;;x
 # GetChristendomOrRandom
-string_random_group_name;[Root.Religion.GetGroupName];;;;;;;;;;;;;x
-string_christendom;Christendom;;;;;;;;;;;;;x
-
+string_random_group_name;[Root.Religion.GetGroupName];;;;;;;;;;;[Root.Religion.GetGroupName]ñêàÿ âåðà;;x
+string_christendom;Christendom;;;;;;;;;;;õðèñòèàíñòâî;;x
 # GetJewsName
-string_random_jews_name;[jewish.GetName]s;;;;;;;;;;;;;x
-string_jews;Jews;;;;;;;;;;;;;x
-
+string_random_jews_name;[jewish.GetName]s;;;;;;;;;;;[_èóäåè];;x
+string_jews;Jews;;;;;;;;;;;åâðåè;;x
 # GetJewryName
-string_jewry;Jewry;;;;;;;;;;;;;x
-
+string_jewry;Jewry;;;;;;;;;;;åâðåéñòâî;;x
 # GetChinaGermanic
-string_germanic_like;Germanic;;;;;;;;;;;;;x
-string_germanic_random_like;[north_germanic.GetGroupName], [central_germanic.GetGroupName] and [west_germanic.GetGroupName];;;;;;;;;;;;;x
-
+string_germanic_like;Germanic;;;;;;;;;;;ãåðìàíñêèå;;x
+string_germanic_random_like;[north_germanic.GetGroupName], [central_germanic.GetGroupName] and [west_germanic.GetGroupName];;;;;;;;;;;[north_germanic.GetGroupName][]èå, [central_germanic.GetGroupName][]èå è [west_germanic.GetGroupName][]èå;;x
 # GetChinaFinnoMagyar
-string_finnomagyar_like;Finno-Magyar;;;;;;;;;;;;;x
-string_finnomagyar_random_like;[finno_ugric.GetGroupName] and [magyar.GetGroupName];;;;;;;;;;;;;x
-
+string_finnomagyar_like;Finno-Magyar;;;;;;;;;;;ôèííî-óãîðñêèå;;x
+string_finnomagyar_random_like;[finno_ugric.GetGroupName] and [magyar.GetGroupName];;;;;;;;;;;[finno_ugric.GetGroupName][]èå è [magyar.GetGroupName][]èå;;x
 # GetChinaAfrican
-string_african_like;African;;;;;;;;;;;;;x
-string_african_random_like;[east_african.GetGroupName] and [west_african.GetGroupName];;;;;;;;;;;;;x
-
+string_african_like;African;;;;;;;;;;;àôðèêàíñêèå;;x
+string_african_random_like;[east_african.GetGroupName] and [west_african.GetGroupName];;;;;;;;;;;[east_african.GetGroupName][]èå è [west_african.GetGroupName][]èå;;x
 # GetChinaBaltoSlavic
-string_baltoslavic_like;Balto-Slavic;;;;;;;;;;;;;x
-string_baltoslavic_random_like;[baltic.GetGroupName], [east_slavic.GetGroupName], [west_slavic.GetGroupName], and [south_slavic.GetGroupName];;;;;;;;;;;;;x
-
+string_baltoslavic_like;Balto-Slavic;;;;;;;;;;;áàëòî-ñëàâÿíñêèå;;x
+string_baltoslavic_random_like;[baltic.GetGroupName], [east_slavic.GetGroupName], [west_slavic.GetGroupName], and [south_slavic.GetGroupName];;;;;;;;;;;[baltic.GetGroupName][]èå, [east_slavic.GetGroupName][]èå, [west_slavic.GetGroupName][]èå è [south_slavic.GetGroupName][]èå;;x
 # GetChinaZunist
-string_zun_like;Zunist;;;;;;;;;;;;;x
-string_zun_random_like;[zun_pagan_reformed.GetName];;;;;;;;;;;;;x
-
+string_zun_like;Zunist;;;;;;;;;;;ñîëíöåïîêëîííèêîâ;;x
+string_zun_random_like;[zun_pagan_reformed.GetName];;;;;;;;;;;[zun_pagan_reformed.GetName]îâ;;x
 # GetChinaJews
-string_jew_like;Jew;;;;;;;;;;;;;x
-string_jew_random_like;[jewish_group.GetGroupName];;;;;;;;;;;;;x
-
+string_jew_like;Jew;;;;;;;;;;;èóäååâ;;x
+string_jew_random_like;[jewish_group.GetGroupName];;;;;;;;;;;[jewish_group.GetGroupName]îâ;;x
 # GetChristName
-string_christ;Christ;;;;;;;;;;;;;x
-string_christ_random;[catholic.GetHighGodName];;;;;;;;;;;;;x
-
+string_christ;Christ;;;;;;;;;;;Õðèñòîñ;;x
+string_christ_random;[catholic.GetHighGodName];;;;;;;;;;;[catholic.GetHighGodName];;x
 # GetDevilWorshiperRecruitBlockDesc
-cold_ones_recruit_block_tooltip;[GetColdOnesRecruitBlockDesc];;;;;;;;;;;;;x
-cold_ones_recruit_block_tooltip_real;Has not been approached by the Cold Ones before.;;;;;;;;;;;;;x
-cult_of_kali_recruit_block_tooltip;[GetKaliRecruitBlockDesc];;;;;;;;;;;;;x
-cult_of_kali_recruit_block_tooltip_real;Has not been approached by the Cult of Kali before.;;;;;;;;;;;;;x
-devil_worshipers_recruit_block_tooltip_random;Has not been approached by your Society before\n;;;;;;;;;;;;;x
-devil_worshiper_desc_random;Those who serve [Root.Religion.GetRandomEvilGodNameCap] hide in our midst, dedicating their depravities and perfidies to nefarious gods and spirits. Every transgression is a hymn, every murder a roar of defiance against the word of [Root.Religion.GetHighGodName]. Such dark sacraments are rewarded handsomely – cultists are said to be gifted with unnatural lifespans and all manner of otherworldly powers.;;;;;;;;;;;;;x
-plaguebringers_recruit_block_tooltip;[GetPlaguebringersRecruitBlockDesc];;;;;;;;;;;;;x
-plaguebringers_recruit_block_tooltip_real;Has not been approached by the Plaguebringers before.;;;;;;;;;;;;;x
-satanists_recruit_block_tooltip;[GetLucifersOwnRecruitBlockDesc];;;;;;;;;;;;;x
-satanists_recruit_block_tooltip_real;Has not been approached by Lucifer's Own before\n;;;;;;;;;;;;;x
-trollcrafters_recruit_block_tooltip;[GetHelRecruitBlockDesc];;;;;;;;;;;;;x
-trollcrafters_recruit_block_tooltip_real;Has not been approached by the Fellowship of Hel before.;;;;;;;;;;;;;x
-
+cold_ones_recruit_block_tooltip;[GetColdOnesRecruitBlockDesc];;;;;;;;;;;[GetColdOnesRecruitBlockDesc];;x
+cold_ones_recruit_block_tooltip_real;Has not been approached by the Cold Ones before.;;;;;;;;;;;Óáåäèòåñü, ÷òî ýò[Root.GetEtaEtot] [Root.GetAgedPerson] ÍÅ ïðèâëåêà[Root.GetLasLsya] ðàíåå â ðÿäû õëàäíèêîâ.;;x
+cult_of_kali_recruit_block_tooltip;[GetKaliRecruitBlockDesc];;;;;;;;;;;[GetKaliRecruitBlockDesc];;x
+cult_of_kali_recruit_block_tooltip_real;Has not been approached by the Cult of Kali before.;;;;;;;;;;;Óáåäèòåñü, ÷òî ýò[Root.GetEtaEtot] [Root.GetAgedPerson] ÍÅ ïðèâëåêà[Root.GetLasLsya] ðàíåå â êóëüò Êàëè Ïóðóøè.;;x
+devil_worshipers_recruit_block_tooltip_random;Has not been approached by your Society before\n;;;;;;;;;;;Óáåäèòåñü, ÷òî ýò[Root.GetEtaEtot] [Root.GetAgedPerson] ÍÅ ïðèâëåêà[Root.GetLasLsya] ðàíåå â ýòî òàéíîå îáùåñòâî.\n;;x
+devil_worshiper_desc_random;Those who serve [Root.Religion.GetRandomEvilGodNameCap] hide in our midst, dedicating their depravities and perfidies to nefarious gods and spirits. Every transgression is a hymn, every murder a roar of defiance against the word of [Root.Religion.GetHighGodName]. Such dark sacraments are rewarded handsomely – cultists are said to be gifted with unnatural lifespans and all manner of otherworldly powers.;;;;;;;;;;;Òå, êòî ñëóæèò çëó, ïðÿ÷óòñÿ ñðåäè íàñ, ïîñâÿùàÿ ñîâåðøàåìûå èìè ãíóñíîñòè è âåðîëîìñòâà ñâîåìó ò¸ìíîìó ïîâåëèòåëþ. Êàæäîå ïðåãðåøåíèå - ãèìí, êàæäîå óáèéñòâî - âîïëü íåïîâèíîâåíèÿ ïðîòèâ ñëîâ [Root.GetReligionHighGodGEN]. [Root.Religion.GetRandomEvilGodNameCap] ùåäðî íàãðàæäàåò òàêèå ò¸ìíûå ñóùíîñòè êàê âåäüìû, êîòîðûå îáëàäàþò íååñòåñòâåííîé ïðîäîëæèòåëüíîñòüþ æèçíè è âñåâîçìîæíûìè äåìîíè÷åñêèìè ñèëàìè.;;x
+plaguebringers_recruit_block_tooltip;[GetPlaguebringersRecruitBlockDesc];;;;;;;;;;;[GetPlaguebringersRecruitBlockDesc];;x
+plaguebringers_recruit_block_tooltip_real;Has not been approached by the Plaguebringers before.;;;;;;;;;;;Óáåäèòåñü, ÷òî ýò[Root.GetEtaEtot] [Root.GetAgedPerson] ÍÅ ïðèâëåêà[Root.GetLasLsya] ðàíåå â êóëüò ïðèíîñÿùèõ ×óìó.;;x
+satanists_recruit_block_tooltip;[GetLucifersOwnRecruitBlockDesc];;;;;;;;;;;[GetLucifersOwnRecruitBlockDesc];;x
+satanists_recruit_block_tooltip_real;Has not been approached by Lucifer's Own before\n;;;;;;;;;;;Óáåäèòåñü, ÷òî ýò[Root.GetEtaEtot] [Root.GetAgedPerson] ÍÅ ïðèâëåêà[Root.GetLasLsya] ðàíåå íà ñëóæáó Äüÿâîëó.\n;;x
+trollcrafters_recruit_block_tooltip;[GetHelRecruitBlockDesc];;;;;;;;;;;[GetHelRecruitBlockDesc];;x
+trollcrafters_recruit_block_tooltip_real;Has not been approached by the Fellowship of Hel before.;;;;;;;;;;;Óáåäèòåñü, ÷òî ýò[Root.GetEtaEtot] [Root.GetAgedPerson] ÍÅ ïðèâëåêà[Root.GetLasLsya] ðàíåå ê ñîðàòíèêàì Õåëü.\n;;x
 # GetBrahminDesc
-brahmin_desc_real;This [GetGirlWomanBoyMan] belongs to the Brahmin caste. It is the Indian caste of priests and scholars, highest in the caste hierarchy.;;;;;;;;;;;;;x
-brahmin_desc_random;This [GetGirlWomanBoyMan] belongs to the Brahmin caste. It is the [hindu.GetName] caste of priests and scholars, highest in the caste hierarchy.;;;;;;;;;;;;;x
-
+brahmin_desc_real;This [GetGirlWomanBoyMan] belongs to the Brahmin caste. It is the Indian caste of priests and scholars, highest in the caste hierarchy.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ïðèíàäëåæèò ê êàñòå áðàõìàíîâ. Ýòî èíäèéñêàÿ êàñòà æðåöîâ è ó÷åíûõ, ñàìàÿ âûñîêàÿ â êàñòîâîé èåðàðõèè.;;x
+brahmin_desc_random;This [GetGirlWomanBoyMan] belongs to the Brahmin caste. It is the [hindu.GetName] caste of priests and scholars, highest in the caste hierarchy.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ïðèíàäëåæèò ê êàñòå áðàõìàíîâ. Ýòî [_èíäóèñò]ñêàÿ êàñòà æðåöîâ è ó÷¸íûõ, ñàìàÿ âûñîêàÿ â êàñòîâîé èåðàðõèè.;;x
 # GetKshatriyaDesc
-kshatriya_desc_real;This [GetGirlWomanBoyMan] belongs to the Kshatriya caste. It is the Indian caste of warriors and kings, second in the caste hierarchy.;;;;;;;;;;;;;x
-kshatriya_desc_random;This [GetGirlWomanBoyMan] belongs to the Kshatriya caste. It is the [hindu.GetName] caste of warriors and kings, second in the caste hierarchy.;;;;;;;;;;;;;x
-
+kshatriya_desc_real;This [GetGirlWomanBoyMan] belongs to the Kshatriya caste. It is the Indian caste of warriors and kings, second in the caste hierarchy.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ïðèíàäëåæèò ê êàñòå êøàòðèåâ. Ýòî èíäèéñêàÿ êàñòà âîèíîâ è êîðîëåé, âòîðîå ìåñòî â êàñòîâîé èåðàðõèè.;;x
+kshatriya_desc_random;This [GetGirlWomanBoyMan] belongs to the Kshatriya caste. It is the [hindu.GetName] caste of warriors and kings, second in the caste hierarchy.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ïðèíàäëåæèò ê êàñòå êøàòðèåâ. Ýòî [_èíäóèñò]ñêàÿ êàñòà âîèíîâ è êîðîëåé, âòîðîå ìåñòî â êàñòîâîé èåðàðõèè.;;x
 # GetVaishyaDesc
-vaishya_desc_real;This [GetGirlWomanBoyMan] belongs to the Vaishya caste. It is the Indian caste of traders and artisans, third in the caste hierarchy.;;;;;;;;;;;;;x
-vaishya_desc_random;This [GetGirlWomanBoyMan] belongs to the Vaishya caste. It is the [hindu.GetName] caste of traders and artisans, third in the caste hierarchy.;;;;;;;;;;;;;x
+vaishya_desc_real;This [GetGirlWomanBoyMan] belongs to the Vaishya caste. It is the Indian caste of traders and artisans, third in the caste hierarchy.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ïðèíàäëåæèò ê êàñòå âàéøüÿ. Ýòî èíäèéñêàÿ êàñòà òîðãîâöåâ è ðåìåñëåííèêîâ, òðåòüÿ â êàñòîâîé èåðàðõèè.;;x
+vaishya_desc_random;This [GetGirlWomanBoyMan] belongs to the Vaishya caste. It is the [hindu.GetName] caste of traders and artisans, third in the caste hierarchy.;;;;;;;;;;;Ýò[_îò] [__ïåðñîíàæ] ïðèíàäëåæèò ê êàñòå âàéøüÿ. Ýòî [_èíäóèñò]ñêàÿ êàñòà òîðãîâöåâ è ðåìåñëåííèêîâ, òðåòüÿ â êàñòîâîé èåðàðõèè.;;x

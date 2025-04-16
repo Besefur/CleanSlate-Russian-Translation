@@ -1,13 +1,9 @@
-EVTDESC_TOG_1201;News has reached court that a claimant to my titles, [From.GetTitledFirstName], is hiring men for an attack against me!;;;;;;;;;;;;;x
-EVTOPTA_TOG_1201;Oh dear, I hope [From.GetSheHe] is not prone to... accidents.;;;;;;;;;;;;;x
-
-EVTDESC_TOG_1203;After years of careful planning, [From.GetDynName] has raised a large army of exiles, mercenaries and hopefuls, declaring [From.GetPossPronoun] intention to press [From.GetPossPronoun] claim by force.;;;;;;;;;;;;;x
-EVTOPTA_TOG_1203;Well... good luck with that!;;;;;;;;;;;;;x
-
-EVTDESC_TOG_1204;After years of careful planning, [FromFrom.GetDynName] from the court of [From.GetTitledName] has raised a large army of exiles, mercenaries and hopefuls, declaring [FromFrom.GetPossPronoun] intention to press [FromFrom.GetPossPronoun] claim by force.;;;;;;;;;;;;;x
-
-EVTDESC_TOG_1211;Word has reached me that an ambitious adventurer, [From.GetTitledFirstName], is gathering men for some sort of attack on my territory!;;;;;;;;;;;;;x
-EVTOPTA_TOG_1211;I think of assassins...;;;;;;;;;;;;;x
-
-EVTDESC_TOG_1213;After years of careful planning, [From.GetDynName] has raised a large army of exiles, mercenaries and hopefuls, declaring [From.GetPossPronoun] intention to go off and carve out a realm of [From.GetPossPronoun] own...;;;;;;;;;;;;;x
-EVTDESC_TOG_1214;After years of careful planning, [FromFrom.GetDynName] from the court of [From.GetTitledName] has raised a large army of exiles, mercenaries and hopefuls, declaring [FromFrom.GetPossPronoun] intention to go off and carve out a realm of [FromFrom.GetPossPronoun] own...;;;;;;;;;;;;;x
+EVTDESC_TOG_1201;News has reached court that a claimant to my titles, [From.GetTitledFirstName], is hiring men for an attack against me!;;;;;;;;;;;Äâîðà äîñòèãëè íîâîñòè î òîì, ÷òî [From.GetTitledFirstName], ïðåòåíäóÿ íà ìîè òèòóëû, íàíèìàåò ëþäåé, ÷òîáû àòàêîâàòü ìåíÿ!;;x
+EVTOPTA_TOG_1201;Oh dear, I hope [From.GetSheHe] is not prone to... accidents.;;;;;;;;;;;Íàäåþñü, [From.GetSheHe] íå ïèòàåò ñëàáîñòü ê... íåñ÷àñòíûì ñëó÷àÿì.;;x
+EVTDESC_TOG_1203;After years of careful planning, [From.GetDynName] has raised a large army of exiles, mercenaries and hopefuls, declaring [From.GetPossPronoun] intention to press [From.GetPossPronoun] claim by force.;;;;;;;;;;;Ïîñëå íåñêîëüêèõ ëåò òùàòåëüíîãî ïëàíèðîâàíèÿ, [From.GetDynName] ïîäíÿâ áîëüøóþ àðìèþ èçãíàííèêîâ, íàåìíèêîâ è ïðåòåíäåíòîâ, îáúÿâëÿåò î íàìåðåíèè âçÿòü ñâî¸ ñèëîé.;;x
+EVTOPTA_TOG_1203;Well... good luck with that!;;;;;;;;;;;×òî æå... Óäà÷è ñ ýòèì!;;x
+EVTDESC_TOG_1204;After years of careful planning, [FromFrom.GetDynName] from the court of [From.GetTitledName] has raised a large army of exiles, mercenaries and hopefuls, declaring [FromFrom.GetPossPronoun] intention to press [FromFrom.GetPossPronoun] claim by force.;;;;;;;;;;;Ïîñëå íåñêîëüêèõ ëåò òùàòåëüíîãî ïëàíèðîâàíèÿ, [FromFrom.GetDynName] ïðè äâîðå ïðàâèòåëÿ [From.GetTitledName] ïîäíÿâ áîëüøóþ àðìèþ èçãíàííèêîâ, íàåìíèêîâ è ïðåòåíäåíòîâ, îáúÿâëÿåò î íàìåðåíèè âçÿòü ñâî¸ ñèëîé.;;x
+EVTDESC_TOG_1211;Word has reached me that an ambitious adventurer, [From.GetTitledFirstName], is gathering men for some sort of attack on my territory!;;;;;;;;;;;Äî ìåíÿ äîøëè ñëóõè, ÷òî àìáèöèîçí[From.GetAyaYy] àâàíòþðèñò[From.GetEndKa], [From.GetTitledFirstName], ñîáèðàåò ëþäåé, ÷òîáû íàïàñòü íà ìîè çåìëè!;;x
+EVTOPTA_TOG_1211;I think of assassins...;;;;;;;;;;;ß ïîäóìûâàþ îá óáèéöàõ...;;x
+EVTDESC_TOG_1213;After years of careful planning, [From.GetDynName] has raised a large army of exiles, mercenaries and hopefuls, declaring [From.GetPossPronoun] intention to go off and carve out a realm of [From.GetPossPronoun] own...;;;;;;;;;;;Ïîñëå íåñêîëüêèõ ëåò òùàòåëüíîãî ïëàíèðîâàíèÿ, [From.GetDynName], ïîäíÿâ áîëüøóþ àðìèþ èçãíàííèêîâ, íàåìíèêîâ è ïðåòåíäåíòîâ, îáúÿâëÿåò î íàìåðåíèè îòïðàâèòüñÿ â äðóãèå çåìëè è âçÿòü ñâî¸.;;x
+EVTDESC_TOG_1214;After years of careful planning, [FromFrom.GetDynName] from the court of [From.GetTitledName] has raised a large army of exiles, mercenaries and hopefuls, declaring [FromFrom.GetPossPronoun] intention to go off and carve out a realm of [FromFrom.GetPossPronoun] own...;;;;;;;;;;;Ïîñëå íåñêîëüêèõ ëåò òùàòåëüíîãî ïëàíèðîâàíèÿ, [FromFrom.GetDynName] ïðè äâîðå ïðàâèòåëÿ [From.GetTitledName], ïîäíÿâ áîëüøóþ àðìèþ èçãíàííèêîâ, íàåìíèêîâ è ïðåòåíäåíòîâ, îáúÿâëÿåò î íàìåðåíèè îòïðàâèòüñÿ â äðóãèå çåìëè è âçÿòü ñâî¸.;;x

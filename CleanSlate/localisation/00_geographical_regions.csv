@@ -1,85 +1,82 @@
-custom_andalusian;South Iberia;;;;;;;;;;;;;x
-custom_aragon;Aragon;;;;;;;;;;;;;x
-custom_balearic;Balearic Islands;;;;;;;;;;;;;x
-custom_beja;Western Coast of Iberia;;;;;;;;;;;;;x
-custom_castille;Castille;;;;;;;;;;;;;x
-custom_castillian;North Iberia;;;;;;;;;;;;;x
-custom_catalan;East Iberia;;;;;;;;;;;;;x
-custom_chinese_invasion_target_region;Chinese Region of Influence;;;;;;;;;;;;;x
-custom_cordoba;Central Iberia;;;;;;;;;;;;;x
-custom_danish;Denmark;;;;;;;;;;;;;x
-custom_eastern_access;Vicinity of China;;;;;;;;;;;;;x
-custom_eastern_baltic;Eastern Baltic;;;;;;;;;;;;;x
-custom_eastern_edge_of_map;Eastern Edge;;;;;;;;;;;;;x
-custom_england;England;;;;;;;;;;;;;x
-custom_frisia;Frisia;;;;;;;;;;;;;x
-custom_galicia;Galicia;;;;;;;;;;;;;x
-custom_granada;Southern Iberia;;;;;;;;;;;;;x
-custom_historical_plague_free_zone;Historical Plague Exclusion Zone;;;;;;;;;;;;;x
-custom_leon;León;;;;;;;;;;;;;x
-custom_navarra;Navarra;;;;;;;;;;;;;x
-custom_norwegian;Norway;;;;;;;;;;;;;x
-custom_portuguese;North-West Iberia;;;;;;;;;;;;;x
-custom_scotland;Scotland;;;;;;;;;;;;;x
-custom_swedish;Sweden;;;;;;;;;;;;;x
-custom_valencia;Eastern Coast of Iberia;;;;;;;;;;;;;x
-world_africa;Africa;;;;;;;;;;;;;x
-world_africa_central;Central Africa;;;;;;;;;;;;;x
-world_africa_east;East Africa;;;;;;;;;;;;;x
-world_africa_north;North Africa;;;;;;;;;;;;;x
-world_africa_west;West Africa;;;;;;;;;;;;;x
-world_europe;Europe;;;;;;;;;;;;;x
-world_europe_east;Eastern Europe;;;;;;;;;;;;;x
-world_europe_north;Northern Europe;;;;;;;;;;;;;x
-world_europe_south;Southern Europe;;;;;;;;;;;;;x
-world_europe_south_east;South-East Europe;;;;;;;;;;;;;x
-world_europe_south_italy;Italia;;;;;;;;;;;;;x
-world_europe_west;Western Europe;;;;;;;;;;;;;x
-world_europe_west_germania;Germania;;;;;;;;;;;;;x
-world_europe_west_iberia;Iberia;;;;;;;;;;;;;x
-world_himalayas;Himalayas;;;;;;;;;;;;;x
-world_india;India;;;;;;;;;;;;;x
-world_india_bengal;Bengal;;;;;;;;;;;;;x
-world_india_deccan;Deccan;;;;;;;;;;;;;x
-world_india_rajastan;Rajastan;;;;;;;;;;;;;x
-world_middle_east;Middle East;;;;;;;;;;;;;x
-world_middle_east_arabia;Arabian Peninsula;;;;;;;;;;;;;x
-world_near_east;Near East;;;;;;;;;;;;;x
-world_steppe;Steppes;;;;;;;;;;;;;x
-world_steppe_east;Eastern Steppes;;;;;;;;;;;;;x
-world_steppe_tarim;Tarim Basin;;;;;;;;;;;;;x
-world_steppe_west;Western Steppes;;;;;;;;;;;;;x
-
+custom_andalusian;South Iberia;;;;;;;;;;;Þæíàÿ Èáåðèÿ;;x
+custom_aragon;Aragon;;;;;;;;;;;Àðàãîí;;x
+custom_balearic;Balearic Islands;;;;;;;;;;;Áàëåàðñêèå îñòðîâà;;x
+custom_beja;Western Coast of Iberia;;;;;;;;;;;Çàïàäíîå ïîáåðåæüå Èáåðèè;;x
+custom_castille;Castille;;;;;;;;;;;Êàñòèëèÿ;;x
+custom_castillian;North Iberia;;;;;;;;;;;Ñåâåðíàÿ Èáåðèÿ;;x
+custom_catalan;East Iberia;;;;;;;;;;;Âîñòî÷íàÿ Èáåðèÿ;;x
+custom_chinese_invasion_target_region;Chinese Region of Influence;;;;;;;;;;;Çîíà êèòàéñêîãî âëèÿíèÿ;;x
+custom_cordoba;Central Iberia;;;;;;;;;;;Öåíòðàëüíàÿ Èáåðèÿ;;x
+custom_danish;Denmark;;;;;;;;;;;Äàíèÿ;;x
+custom_eastern_access;Vicinity of China;;;;;;;;;;;Áëèçîñòü ê Êèòàþ;;x
+custom_eastern_baltic;Eastern Baltic;;;;;;;;;;;Âîñòî÷íàÿ Áàëòèêà;;x
+custom_eastern_edge_of_map;Eastern Edge;;;;;;;;;;;Âîñòî÷íàÿ ãðàíèöà;;x
+custom_england;England;;;;;;;;;;;Àíãëèÿ;;x
+custom_frisia;Frisia;;;;;;;;;;;Ôðèçèÿ;;x
+custom_galicia;Galicia;;;;;;;;;;;Ãàëèñèÿ;;x
+custom_granada;Southern Iberia;;;;;;;;;;;Þæíàÿ Èáåðèÿ;;x
+custom_historical_plague_free_zone;Historical Plague Exclusion Zone;;;;;;;;;;;Çîíà èñòîðè÷åñêè ñâîáîäíàÿ îò ÷óìû;;x
+custom_leon;León;;;;;;;;;;;Ëåîí;;x
+custom_navarra;Navarra;;;;;;;;;;;Íàâàððà;;x
+custom_norwegian;Norway;;;;;;;;;;;Íîðâåãèÿ;;x
+custom_portuguese;North-West Iberia;;;;;;;;;;;Ñåâåðî-Âîñòî÷íàÿ Èáåðèÿ;;x
+custom_scotland;Scotland;;;;;;;;;;;Øîòëàíäèÿ;;x
+custom_swedish;Sweden;;;;;;;;;;;Øâåöèÿ;;x
+custom_valencia;Eastern Coast of Iberia;;;;;;;;;;;Âîñòî÷íîå ïîáåðåæüå Èáåðèè;;x
+world_africa;Africa;;;;;;;;;;;Àôðèêà;;x
+world_africa_central;Central Africa;;;;;;;;;;;Öåíòðàëüíàÿ Àôðèêà;;x
+world_africa_east;East Africa;;;;;;;;;;;Âîñòî÷íàÿ Àôðèêà;;x
+world_africa_north;North Africa;;;;;;;;;;;Ñåâåðíàÿ Àôðèêà;;x
+world_africa_west;West Africa;;;;;;;;;;;Çàïàäíàÿ Àôðèêà;;x
+world_europe;Europe;;;;;;;;;;;Åâðîïà;;x
+world_europe_east;Eastern Europe;;;;;;;;;;;Âîñòî÷íàÿ Åâðîïà;;x
+world_europe_north;Northern Europe;;;;;;;;;;;Ñåâåðíàÿ Åâðîïà;;x
+world_europe_south;Southern Europe;;;;;;;;;;;Þæíàÿ Åâðîïà;;x
+world_europe_south_east;South-East Europe;;;;;;;;;;;Þãî-Âîñòî÷íàÿ Åâðîïà;;x
+world_europe_south_italy;Italia;;;;;;;;;;;Èòàëèÿ;;x
+world_europe_west;Western Europe;;;;;;;;;;;Çàïàäíàÿ Åâðîïà;;x
+world_europe_west_germania;Germania;;;;;;;;;;;Ãåðìàíèÿ;;x
+world_europe_west_iberia;Iberia;;;;;;;;;;;Èáåðèÿ;;x
+world_himalayas;Himalayas;;;;;;;;;;;Ãèìàëàè;;x
+world_india;India;;;;;;;;;;;Èíäèÿ;;x
+world_india_bengal;Bengal;;;;;;;;;;;Áåíãàëèÿ;;x
+world_india_deccan;Deccan;;;;;;;;;;;Äåêàí;;x
+world_india_rajastan;Rajastan;;;;;;;;;;;Ðàäæàñòàí;;x
+world_middle_east;Middle East;;;;;;;;;;;Ñðåäíèé Âîñòîê;;x
+world_middle_east_arabia;Arabian Peninsula;;;;;;;;;;;Àðàâèéñêèé Ïîëóîñòðîâ;;x
+world_near_east;Near East;;;;;;;;;;;Áëèæíèé Âîñòîê;;x
+world_steppe;Steppes;;;;;;;;;;;Ñòåïè;;x
+world_steppe_east;Eastern Steppes;;;;;;;;;;;Âîñòî÷íûå Ñòåïè;;x
+world_steppe_tarim;Tarim Basin;;;;;;;;;;;Òàðèìñêàÿ âïàäèíà;;x
+world_steppe_west;Western Steppes;;;;;;;;;;;Çàïàäíûå Ñòåïè;;x
 # CleanSlate
 # Replacements for obsolete regions below
-world_middle_east_asia_minor;Asia Minor;;;;;;;;;;;;;x
-world_europe_west_british_isles;British Isles;;;;;;;;;;;;;x
-world_europe_west_gaul;Gaul;;;;;;;;;;;;;x
-world_middle_east_levant;The Levant;;;;;;;;;;;;;x
-world_middle_east_persia;Persia;;;;;;;;;;;;;x
-world_europe_east_russia;Rus Region;;;;;;;;;;;;;x
-
+world_middle_east_asia_minor;Asia Minor;;;;;;;;;;;Ìàëàÿ Àçèÿ;;x
+world_europe_west_british_isles;British Isles;;;;;;;;;;;Áðèòàíñêèå îñòðîâà;;x
+world_europe_west_gaul;Gaul;;;;;;;;;;;Ãàëëèÿ;;x
+world_middle_east_levant;The Levant;;;;;;;;;;;Ëåâàíò;;x
+world_middle_east_persia;Persia;;;;;;;;;;;Ïåðñèÿ;;x
+world_europe_east_russia;Rus Region;;;;;;;;;;;Ðóññêèå çåìëè;;x
 # New regions
-world_europe_west_ireland;Ireland;;;;;;;;;;;;;x
-world_europe_west_britain;Britain;;;;;;;;;;;;;x
-world_europe_west_great_britain;Great Britain;;;;;;;;;;;;;x
-world_europe_south_sicily;Sicily;;;;;;;;;;;;;x
-world_europe_south_sardinia_corsica;Sardinia and Corsica;;;;;;;;;;;;;x
-world_europe_north_sea;North Sea;;;;;;;;;;;;;x
-world_europe_north_jutland;Jutland;;;;;;;;;;;;;x
-world_europe_north_fennoscandia;Fennoscandia;;;;;;;;;;;;;x
-world_europe_east_timan_ridge;Timan Ridge;;;;;;;;;;;;;x
-world_europe_north_danish_archipelago;Danish Archipelago;;;;;;;;;;;;;x
-world_europe_east_pannonia;Pannonia;;;;;;;;;;;;;x
-world_europe_east_baltic;Baltic Rim;;;;;;;;;;;;;x
-world_asia;Asia;;;;;;;;;;;;;x
-world_africa_north_west;Northwest Africa;;;;;;;;;;;;;x
-world_africa_north_nile;Lower Nile Valley;;;;;;;;;;;;;x
-
+world_europe_west_ireland;Ireland;;;;;;;;;;;Èðëàíäèÿ;;x
+world_europe_west_britain;Britain;;;;;;;;;;;Áðèòàíèÿ;;x
+world_europe_west_great_britain;Great Britain;;;;;;;;;;;Âåëèêîáðèòàíèÿ;;x
+world_europe_south_sicily;Sicily;;;;;;;;;;;Ñèöèëèÿ;;x
+world_europe_south_sardinia_corsica;Sardinia and Corsica;;;;;;;;;;;Ñàðäèíèÿ è Êîðñèêà;;x
+world_europe_north_sea;North Sea;;;;;;;;;;;Ñåâåðíîå ìîðå;;x
+world_europe_north_jutland;Jutland;;;;;;;;;;;Þòëàíäèÿ;;x
+world_europe_north_fennoscandia;Fennoscandia;;;;;;;;;;;Ôåííîñêàíäèÿ;;x
+world_europe_east_timan_ridge;Timan Ridge;;;;;;;;;;;Òèìàíñêèé êðÿæ;;x
+world_europe_north_danish_archipelago;Danish Archipelago;;;;;;;;;;;Äàòñêèé àðõèïåëàã;;x
+world_europe_east_pannonia;Pannonia;;;;;;;;;;;Ïàííîíèÿ;;x
+world_europe_east_baltic;Baltic Rim;;;;;;;;;;;Áàëòèéñêîå ïîáåðåæüå;;x
+world_asia;Asia;;;;;;;;;;;Àçèÿ;;x
+world_africa_north_west;Northwest Africa;;;;;;;;;;;Ñåâåðî-Çàïàäíàÿ Àôðèêà;;x
+world_africa_north_nile;Lower Nile Valley;;;;;;;;;;;Íèæíÿÿ äîëèíà Íèëà;;x
 # Obsolete
-custom_russia;Rus Region;;;;;;;;;;;;;x
-world_asia_minor;Asia Minor;;;;;;;;;;;;;x
-world_europe_west_britannia;Britannia;;;;;;;;;;;;;x
-world_europe_west_francia;Francia;;;;;;;;;;;;;x
-world_middle_east_jerusalem;Jerusalem;;;;;;;;;;;;;x
-world_persia;Persia;;;;;;;;;;;;;x
+custom_russia;Rus Region;;;;;;;;;;;Ðóññêèå çåìëè;;x
+world_asia_minor;Asia Minor;;;;;;;;;;;Ìàëàÿ Àçèÿ;;x
+world_europe_west_britannia;Britannia;;;;;;;;;;;Áðèòàíèÿ;;x
+world_europe_west_francia;Francia;;;;;;;;;;;Ôðàíêèÿ;;x
+world_middle_east_jerusalem;Jerusalem;;;;;;;;;;;Èåðóñàëèì;;x
+world_persia;Persia;;;;;;;;;;;Ïåðñèÿ;;x

@@ -1,34 +1,33 @@
-
-form_new_empire_tooltip;A new Empire is founded!;;;;;;;;;;;;;x
-form_new_kingdom_tooltip;A new Kingdom is founded!;;;;;;;;;;;;;x
-form_the_hre_early_tooltip_1;Is [Root.GetKingQueen] of Italy or [Root.GetEmperorEmpress] of Italia\n;;;;;;;;;;;;;x
-form_the_hre_early_tooltip_2;Holds at least one kingdom or empire title within the de jure empires of Francia, Germania, Hispania or Britannia\n;;;;;;;;;;;;;x
-form_the_hre_early_tooltip_3;No other Christian ruler is Emperor of Italia, Francia, Germania, Hispania or Britannia\n;;;;;;;;;;;;;x
-is_target_of_murder_plot_tooltip;Is the target of a known or suspected murder plot\n;;;;;;;;;;;;;x
-ogier_arrives;Ogier the Dane arrives at your court.;;;;;;;;;;;;;x
-recently_went_out_of_hiding_tooltip;Did not recently come out of hiding\n;;;;;;;;;;;;;x
-renounce_iconoclasm_muslim_opinion_tooltip;Muslim rulers will condemn you for your Idolatry.\n;;;;;;;;;;;;;x
-renounce_iconoclasm_province_tooltip;Orthodox Christians in the Empire will rejoice.\n;;;;;;;;;;;;;x
-roland_arrives;Roland arrives at your court.;;;;;;;;;;;;;x
-viking_age_shipyards_and_tech_tooltip;The Viking Age begins - Norse counties receive shipyards and increased shipbuilding technology.\n;;;;;;;;;;;;;x
-form_new_empire_requirement_tooltip;Hold 3 kingdom titles\n;;;;;;;;;;;;;x
-form_new_kingdom_requirement_tooltip;Hold 3 duchy titles\n;;;;;;;;;;;;;x
-viking_age_cb_tooltip;Characters of Germanic religion now get new Casus Bellis.;;;;;;;;;;;;;x
-allows_change_government;Allows Adopting Feudalism.\nAllows Founding Merchant Republic.\n;;;;;;;;;;;;;x
-disables_centralization_1;Disables Low Centralization.\n;;;;;;;;;;;;;x
-disables_centralization_2;Disables Medium Centralization.\n;;;;;;;;;;;;;x
-disables_centralization_3;Disables High Centralization.\n;;;;;;;;;;;;;x
-disables_centralization_4;Disables Absolute Centralization.\n;;;;;;;;;;;;;x
-disallows_change_government;Disallows Adopting Feudalism.\nDisallows Founding Merchant Republic.\n;;;;;;;;;;;;;x
-go_into_hiding_info_tooltip;[This.GetTitledName] goes into hiding.\n;;;;;;;;;;;;;x
-enables_centralization_1;Enables Low Centralization Laws for Dukes and above.\n;;;;;;;;;;;;;x
-enables_centralization_2;Enables Medium Centralization Laws for Dukes and above.\n;;;;;;;;;;;;;x
-enables_centralization_3;Enables High Centralization Laws for Dukes and above.\n;;;;;;;;;;;;;x
-enables_centralization_4;Enables Absolute Centralization Laws for Dukes and above.\n;;;;;;;;;;;;;x
-increase_assassinate_chance;Spymaster increases plot power;;;;;;;;;;;;;x
-enables_tribal_levy_laws;Enables Tribal Levy Laws.\n;;;;;;;;;;;;;x
-enables_tribal_tax_laws;Enables Tribal Tax Laws\n;;;;;;;;;;;;;x
-cancel_murder_attempt;You must find another way to murder your target.;;;;;;;;;;;;;x
-come_out_of_hiding_info_tooltip;[Root.GetTitledName] comes out of hiding.\n;;;;;;;;;;;;;x
-disables_tribal_levy_laws;Disables Tribal Levy Laws\n;;;;;;;;;;;;;x
-disables_tribal_tax_laws;Disables Tribal Tax Laws\n;;;;;;;;;;;;;x
+form_new_empire_tooltip;A new Empire is founded!;;;;;;;;;;;Îñíîâàíà íîâàÿ èìïåðèÿ!;;x
+form_new_kingdom_tooltip;A new Kingdom is founded!;;;;;;;;;;;Îñíîâàíî íîâîå êîðîëåâñòâî!;;x
+form_the_hre_early_tooltip_1;Is [Root.GetKingQueen] of Italy or [Root.GetEmperorEmpress] of Italia\n;;;;;;;;;;;òåïåðü [Root.GetKingQueen] èëè [Root.GetEmperorEmpress] Èòàëèè\n;;x
+form_the_hre_early_tooltip_2;Holds at least one kingdom or empire title within the de jure empires of Francia, Germania, Hispania or Britannia\n;;;;;;;;;;;âëàäååò êàê ìèíèìóì îäíèì êîðîëåâñêèì èëè èìïåðàòîðñêèì òèòóëîì â äå-þðå ïðåäåëàõ Ôðàíêñêîé, Ãåðìàíñêîé, Èñïàíñêîé èëè Áðèòàíñêîé èìïåðèé\n;;x
+form_the_hre_early_tooltip_3;No other Christian ruler is Emperor of Italia, Francia, Germania, Hispania or Britannia\n;;;;;;;;;;;Íè îäèí õðèñòèàíñêèé ïðàâèòåëü íå îáëàäàåò òèòóëîì Èòàëüÿíñêîé, Ôðàíêñêîé, Ãåðìàíñêîé, Èñïàíñêîé èëè Áðèòàíñêîé èìïåðèé\n;;x
+is_target_of_murder_plot_tooltip;Is the target of a known or suspected murder plot\n;;;;;;;;;;; ßâëÿåòñÿ öåëüþ èçâåñòíîãî èëè ïîäîçðåâàåìîãî ïëàíà óáèéñòâà\n;;x
+ogier_arrives;Ogier the Dane arrives at your court.;;;;;;;;;;;Îæüå Äàò÷àíèí ïðèáûë êî äâîðó.;;x
+recently_went_out_of_hiding_tooltip;Did not recently come out of hiding\n;;;;;;;;;;;Íå âûõîäèë èç ïîäïîëüÿ\n;;x
+renounce_iconoclasm_muslim_opinion_tooltip;Muslim rulers will condemn you for your Idolatry.\n;;;;;;;;;;;Ïðàâèòåëè-ìóñóëüìàíå áóäóò îñóæäàòü Âàñ çà èäîëîïîêëîíñòâî.\n;;x
+renounce_iconoclasm_province_tooltip;Orthodox Christians in the Empire will rejoice.\n;;;;;;;;;;;Ïðàâîñëàâíûå õðèñòèàíå èìïåðèè áóäóò ðàäû.\n;;x
+roland_arrives;Roland arrives at your court.;;;;;;;;;;;Ðîëàíä ïðèáûë êî äâîðó.;;x
+viking_age_shipyards_and_tech_tooltip;The Viking Age begins - Norse counties receive shipyards and increased shipbuilding technology.\n;;;;;;;;;;;Ýïîõà âèêèíãîâ íà÷àëàñü - â ñêàíäèíàâñêèõ çåìëÿõ ðàçâèâàåòñÿ êîðàáëåñòðîåíèå è ïîÿâëÿþòñÿ íîâûå âåðôè.\n;;x
+form_new_empire_requirement_tooltip;Hold 3 kingdom titles\n;;;;;;;;;;;Âëàäåòü òðåìÿ êîðîëåâñêèìè òèòóëàìè\n;;x
+form_new_kingdom_requirement_tooltip;Hold 3 duchy titles\n;;;;;;;;;;;Âëàäåòü òðåìÿ ãåðöîãñêèìè òèòóëàìè\n;;x
+viking_age_cb_tooltip;Characters of Germanic religion now get new Casus Bellis.;;;;;;;;;;;Ïåðñîíàæè ãåðìàíñêèõ ðåëèãèé òåïåðü èìåþò íîâûå Casus Belli (ïîâîäû äëÿ âîéíû).;;x
+allows_change_government;Allows Adopting Feudalism.\nAllows Founding Merchant Republic.\n;;;;;;;;;;;Ïîÿâèòñÿ âîçìîæíîñòü ïðèíÿòü ôåîäàëèçì.\n;;x
+disables_centralization_1;Disables Low Centralization.\n;;;;;;;;;;;Ñòàíåò íåäîñòóïíà ë¸ãêàÿ öåíòðàëèçàöèÿ.\n;;x
+disables_centralization_2;Disables Medium Centralization.\n;;;;;;;;;;;Ñòàíåò íåäîñòóïíà óìåðåííàÿ öåíòðàëèçàöèÿ.\n;;x
+disables_centralization_3;Disables High Centralization.\n;;;;;;;;;;;Ñòàíåò íåäîñòóïíà ñèëüíàÿ öåíòðàëèçàöèÿ.\n;;x
+disables_centralization_4;Disables Absolute Centralization.\n;;;;;;;;;;;Ñòàíåò íåäîñòóïíà àáñîëþòíàÿ öåíòðàëèçàöèÿ.\n;;x
+disallows_change_government;Disallows Adopting Feudalism.\nDisallows Founding Merchant Republic.\n;;;;;;;;;;;Ñòàíåò íåâîçìîæíî ïðèíèìàòü ôåîäàëèçì.\n;;x
+go_into_hiding_info_tooltip;[This.GetTitledName] goes into hiding.\n;;;;;;;;;;;[This.GetTitledName] óõîäèò â ïîäïîëüå.\n;;x
+enables_centralization_1;Enables Low Centralization Laws for Dukes and above.\n;;;;;;;;;;;Ñòàíóò äîñòóïíû çàêîíû ë¸ãêîé öåíòðàëèçàöèè äëÿ ðàíãà ãåðöîãà è âûøå.\n;;x
+enables_centralization_2;Enables Medium Centralization Laws for Dukes and above.\n;;;;;;;;;;;Ñòàíóò äîñòóïíû çàêîíû óìåðåííîé öåíòðàëèçàöèè äëÿ ðàíãà ãåðöîãà è âûøå.\n;;x
+enables_centralization_3;Enables High Centralization Laws for Dukes and above.\n;;;;;;;;;;;Ñòàíóò äîñòóïíû çàêîíû ñèëüíîé öåíòðàëèçàöèè äëÿ ðàíãà ãåðöîãà è âûøå.\n;;x
+enables_centralization_4;Enables Absolute Centralization Laws for Dukes and above.\n;;;;;;;;;;;Ñòàíóò äîñòóïíû çàêîíû àáñîëþòíîé öåíòðàëèçàöèè äëÿ ðàíãà ãåðöîãà è âûøå.\n;;x
+increase_assassinate_chance;Spymaster increases plot power;;;;;;;;;;;Òàéíûé ñîâåòíèê ïîâûøàåò ýôôåêòèâíîñòü çàãîâîðà;;x
+enables_tribal_levy_laws;Enables Tribal Levy Laws.\n;;;;;;;;;;;Ñòàíóò äîñòóïíû çàêîíû î ïëåìåííîì îïîë÷åíèè\n;;x
+enables_tribal_tax_laws;Enables Tribal Tax Laws\n;;;;;;;;;;;Ñòàíóò äîñòóïíû çàêîíû î ïëåìåííûõ íàëîãàõ\n;;x
+cancel_murder_attempt;You must find another way to murder your target.;;;;;;;;;;;Âàì ïðèä¸òñÿ íàéòè äðóãîé ñïîñîá óñòðàíèòü ñâîþ öåëü.;;x
+come_out_of_hiding_info_tooltip;[Root.GetTitledName] comes out of hiding.\n;;;;;;;;;;;[Root.GetTitledName] âûõîäèò èç ïîäïîëüÿ.\n;;x
+disables_tribal_levy_laws;Disables Tribal Levy Laws\n;;;;;;;;;;;Ñòàíóò íåäîñòóïíû çàêîíû î ïëåìåííîì îïîë÷åíèè\n;;x
+disables_tribal_tax_laws;Disables Tribal Tax Laws\n;;;;;;;;;;;Ñòàíóò íåäîñòóïíû çàêîíû î ïëåìåííûõ íàëîãàõ\n;;x
