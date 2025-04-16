@@ -1,6 +1,6 @@
 alert_adolescent_needs_focus_delayed;The following Children need an Education Focus:\n$LIST$;;;;;;;;;;;Ñëåäóþùèå äåòè íóæäàþòñÿ â âûáîðå îáðàçîâàíèÿ:\n$LIST$;;x
 alert_adolescent_needs_focus_instant;§Y$NUM$ Children Lack an Education Focus§!;;;;;;;;;;;§Y$NUM$ äåòåé íóæäàþòñÿ â âûáîðå îáðàçîâàíèÿ§!;;x
-alert_adolescent_needs_focus_name;Children lack an Edcuation Focus;;;;;;;;;;;Äåòÿì íóæíî îáðàçîâàíèå;;x
+alert_adolescent_needs_focus_name;Children lack an Education Focus;;;;;;;;;;;Äåòÿì íóæíî îáðàçîâàíèå;;x
 alert_adult_sons_notitle_delayed;The following adult sons do not hold any land:\n$LIST$;;;;;;;;;;;Ñëåäóþùèå âçðîñëûå ñûíîâüÿ íå èìåþò çåìåëüíûõ òèòóëîâ:\n$LIST$;;x
 alert_adult_sons_notitle_instant;§YUnlanded Sons§!;;;;;;;;;;;§YÁåççåìåëüíûå ñûíîâüÿ§!;;x
 alert_adult_sons_notitle_name;Unlanded sons;;;;;;;;;;;Áåççåìåëüíûå ñûíîâüÿ;;x
@@ -25,9 +25,9 @@ alert_available_plot_name;New plots available;;;;;;;;;;;Äîñòóïíû íîâ�
 alert_available_settlement_decision_delayed;The following Special Holding Actions are available:\n$LIST$;;;;;;;;;;;Äîñòóïíû ñëåäóþùèå îñîáûå äåéñòâèÿ ñ ïîñåëåíèÿìè:\n$LIST$;;x
 alert_available_settlement_decision_instant;§YSpecial Holding Actions Possible§!;;;;;;;;;;;§YÎñîáûå äåéñòâèÿ ñ ïîñåëåíèÿìè§!;;x
 alert_available_settlement_decision_name;Special Holding Actions Possible;;;;;;;;;;;Äîñòóïíû îñîáûå äåéñòâèÿ ñ ïîñåëåíèÿìè;;x
-alert_available_targetted_decision_delayed;The following Special Character Actions are available:\n$LIST$;;;;;;;;;;;Äîñòóïíû ñëåäóþùèå îñîáûå äåéñòâèÿ ñ ëþäüìè:\n$LIST$;;x
-alert_available_targetted_decision_instant;§YSpecial Character Actions Possible§!;;;;;;;;;;;§YÎñîáûå äåéñòâèÿ ñ ëþäüìè§!;;x
-alert_available_targetted_decision_name;Special Character Actions Possible;;;;;;;;;;;Äîñòóïíû îñîáûå äåéñòâèÿ ñ ëþäüìè;;x
+alert_available_targetted_decision_delayed;The following Special Character Actions are available:\n$LIST$;;;;;;;;;;;Äîñòóïíû ñëåäóþùèå îñîáûå äåéñòâèÿ ñ ïåðñîíàæàìè:\n$LIST$;;x
+alert_available_targetted_decision_instant;§YSpecial Character Actions Possible§!;;;;;;;;;;;§YÎñîáûå äåéñòâèÿ ñ ïåðñîíàæàìè§!;;x
+alert_available_targetted_decision_name;Special Character Actions Possible;;;;;;;;;;;Äîñòóïíû îñîáûå äåéñòâèÿ ñ ïåðñîíàæàìè;;x
 alert_available_title_decision_delayed;The following Special Title Actions are available:\n$LIST$;;;;;;;;;;;Äîñòóïíû ñëåäóþùèå îñîáûå äåéñòâèÿ ñ òèòóëàìè:\n$LIST$;;x
 alert_available_title_decision_instant;§YSpecial Title Actions Possible§!;;;;;;;;;;;§YÎñîáûå äåéñòâèÿ ñ òèòóëàìè§!;;x
 alert_available_title_decision_name;Special Title Actions Possible;;;;;;;;;;;Äîñòóïíû îñîáûå äåéñòâèÿ ñ òèòóëàìè;;x

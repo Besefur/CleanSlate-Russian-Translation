@@ -19,4 +19,9 @@ spriteTypes = {
 		name = "SPANISH_FLAG"
 		textureFile = "gfx\\interface\Spanish_flag.tga"
 	}
+
+	spriteType = {
+		name = "RUSSIAN_FLAG"
+		textureFile = "gfx\\interface\Russian_flag.tga"
+	}
 }

@@ -1,5 +1,5 @@
 obj_amass_wealth_desc;[This.GetTitledFirstName] wants to amass a substantial amount of wealth;;;;;;;;;;;[This.GetTitledFirstName] õî÷åò íàêîïèòü çíà÷èòåëüíóþ ñóììó äåíåã;;x
-obj_amass_wealth_title;Amass Wealth;;;;;;;;;;;ñòàòü áîãàò[This.GetOyYm];;x
+obj_amass_wealth_title;Amass Wealth;;;;;;;;;;;íàêîïèòü ñîñòîÿíèå;;x
 obj_become_chancellor_desc;[This.GetTitledFirstName] would like to treat with foreign dignitaries in the court of [This.GetPossPronoun] liege.;;;;;;;;;;;[This.GetTitledFirstName] õîòåë áû çàíèìàòüñÿ èíîñòðàííûìè äåëàìè è âíåøíèìè ñâÿçÿìè ïðè äâîðå.;;x
 obj_become_chancellor_title;Become [This.GetChancellorName];;;;;;;;;;;ñòàòü êàíöëåðîì;;x
 obj_become_council_member_desc;[This.GetTitledFirstName] would like a seat on the [This.Liege.GetCouncilName] of [This.GetHerHis] liege.;;;;;;;;;;;[This.GetTitledFirstName] õî÷åò ïîëó÷èòü ìåñòî â [This.Liege.GetCouncilName]å ñâîåãî ñþçåðåíà.;;x
@@ -56,7 +56,7 @@ obj_gain_any_title_title;Acquire Title;;;;;;;;;;;Çàïîëó÷èòü òèòóë
 obj_get_married_desc;[This.GetTitledFirstName] desires to get married.;;;;;;;;;;;[This.GetTitledFirstName] õî÷åò [This.GetToMarry].;;x
 obj_get_married_title;Get Married;;;;;;;;;;;[This.GetToMarry];;x
 obj_groom_an_heir_desc;[This.GetTitledFirstName] wants to have a child and see them reach adulthood.\n\nIf [This.GetFirstName]'s Inheritance Law is §YAgnatic§!, only a male child will fulfill this ambition. Similarly, if [This.GetFirstName]'s Inheritance Law is §YEnatic§!, only a female child will do.\n\nWhile active §YFertility§! is increased by §G20%§!, and once your child reaches §Y12§! years, you may choose to §Gright-click§! their portrait and choose to §YIntroduce Heir to Realm§!.;;;;;;;;;;;[This.GetTitledFirstName] õî÷åò óâèäåòü, êàê [This.GetHersHis] ðåá¸íîê äîñòèãíåò ñîâåðøåííîëåòèÿ.\nÏðè §Yàãíàòè÷åñêîì§! çàêîíå íàñëåäîâàíèÿ ýòî ìîæåò áûòü òîëüêî ñûí, ïðè §Yýíàòè÷åñêîì§! - òîëüêî äî÷ü.\nÏîêà ýòà àìáèöèÿ àêòèâíà, §Yïëîäîâèòîñòü§! ïîâûøåíà íà §Y20%§!. Êàê òîëüêî íàñëåäíèêó èñïîëíèòñÿ §Y12§! ëåò, êëèêíóâ §Gïðàâîé êíîïêîé ìûøè§! ïî åãî ïîðòðåòó, ìîæíî áóäåò §Yïðåäñòàâèòü íàñëåäíèêà§!.;;x
-obj_groom_an_heir_title;Groom an Heir;;;;;;;;;;;âûðàñòèòü íàñëåäíèêà;;x
+obj_groom_an_heir_title;Groom an Heir;;;;;;;;;;;âîñïèòàòü íàñëåäíèêà;;x
 obj_have_a_daughter_desc;[This.GetTitledFirstName] wants to have a daughter.;;;;;;;;;;;[This.GetTitledFirstName] õî÷åò äî÷ü.;;x
 obj_have_a_daughter_title;Have a Daughter;;;;;;;;;;;èìåòü äî÷ü;;x
 obj_have_a_son_desc;[This.GetTitledFirstName] wants to have a son.;;;;;;;;;;;[This.GetTitledFirstName] õî÷åò ñûíà.;;x
